@@ -5,8 +5,8 @@ date_range: "500–31 BCE"
 regions_covered: [mediterranean, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, north-africa, iberia, western-europe, south-asia, china, steppe]
 major_themes: ["Classical Greece and the polis at its height", "the Greco-Persian and Peloponnesian Wars", "Alexander and the Hellenistic world", "the rise of Rome", "the Mauryan Empire", "Qin unification and the early Han", "the first Silk Roads era", "Hellenistic science and cosmopolitanism", "mass chattel slavery"]
 collection_coverage: strong
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-11
 tags: [period]
 ---
 
@@ -116,6 +116,17 @@ thinner and more religious, making Mauryan history disproportionately dependent 
 Ashoka's inscriptions and on Greek reports (Megasthenes). Source survival is
 heavily Greco-Roman-biased.
 
+For the **Greek fifth century** specifically, [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 1,
+Lewis) shows the illumination is sharply **uneven**: brilliant where [[thucydides]] is
+present (435–411 BCE), thin and chronologically insecure across the **Pentekontaetia**
+(478–435), and dependent on Xenophon and Diodorus for 411–404. The **chronology** of the
+half-century between the wars rests on a handful of fixed points (Salamis 480, the war's
+start 431, the death of Xerxes 465) and otherwise on epigraphy — the Athenian **tribute
+quota-lists** from 453 and the Parthenon building accounts — so dates for events like the
+Eurymedon or the end of the Helot Revolt remain disputable by years. The whole record is
+**Athenocentric**, a bias CAH V treats as itself a historical fact. See
+[[classical-greek-historiography]].
+
 **Major debates.** The nature and limits of Athenian democracy and its dependence
 on slavery; the causes of the [[peloponnesian-war]]; the "decline" model of the
 Roman Republic; the reliability of [[herodotus-reliability|Herodotus]]; the degree
@@ -133,8 +144,10 @@ have moved from exotic footnote to central organizing framework.
 
 **Strong–excellent.** This is the collection's heartland. [[benjamin-cwh-v4-2015|CWH
 IV]] supplies the global frame; the *Cambridge Ancient History* (Phase 2: CAH
-IV–IX), the Greek and Roman primary sources (Phase 4), and the Greece/Rome depth
-sections (Phase 9) will give this period the densest coverage in the wiki. The
+IV–IX) — with [[lewis-cah-v5-1992|CAH V]] now giving the Greek fifth century its own
+dedicated reference volume — the Greek and Roman primary sources (Phase 4), and the
+Greece/Rome depth sections (Phase 9) will give this period the densest coverage in the
+wiki. The
 Asian empires (Maurya, Qin/Han) are well framed here and deepened by the Ancient
 China sources (Phase 8) and the Asian Classics (Phase 6); India remains the
 relative weak point per CLAUDE.md.

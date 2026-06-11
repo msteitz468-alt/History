@@ -7,8 +7,8 @@ period_active: [Classical Antiquity]
 controlled_by: [the Athenian demos (radical democracy), the Delian League]
 events_here: [reforms of Cleisthenes 508/7 BCE, Persian Wars, [[peloponnesian-war|Peloponnesian War]] 431-404 BCE, plague of Athens 430 BCE]
 processes_here: [[[city-state|democracy]], [[slavery]], [[axial-age]], imperial tribute]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-11
 tags: [place, mediterranean, classical-antiquity]
 ---
 
@@ -38,11 +38,22 @@ world history" — yet it rested on the exclusion of women, resident foreigners
 (**metics**), and a vast enslaved population (see [[slavery]]), and Athenian women were
 among the most secluded in Greece.
 
+The decisive radicalizing step came with the **[[ephialtes-reform-462bce|reform of
+Ephialtes]] (462/1)**, which stripped the aristocratic [[areopagus|Areopagus]] of its
+political powers and handed them to the Assembly, Council, and popular courts;
+[[pericles|Pericles']] **jury pay** and **citizenship law (451/0)** completed the system.
+[[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 4, Rhodes) treats this as "the Athenian revolution" — the
+mature **[[athenian-democracy]]** whose institutions (Assembly, Council of 500, *dikasteria*,
+elected generals, sortition and pay) are detailed on that page.
+
 ## Empire and the Peloponnesian War
 
-The anti-Persian **Delian League** (478 BCE) became an Athenian empire: allied tribute
-funded the fleet, the poor rowers' wages, and the **Periclean building program** (the
-Parthenon and the Acropolis). Athenian expansion frightened Sparta into the
+The anti-Persian **[[delian-league|Delian League]]** (478 BCE) became an Athenian empire:
+allied tribute funded the fleet, the poor rowers' wages, and the **Periclean building program**
+(the Parthenon and the Acropolis). The mechanics of that transformation — the coercion of
+revolting allies, the cleruchies and garrisons, the transfer of the treasury to Athens (454/3),
+and the abandonment of the Persian war at the [[peace-of-callias-449bce|Peace of Callias]] —
+are traced on the [[delian-league]] page. Athenian expansion frightened Sparta into the
 **[[peloponnesian-war|Peloponnesian War]] (431–404 BCE)**. Pericles' strategy of
 withdrawing behind the walls turned catastrophic when **plague (430 BCE)** killed
 perhaps a quarter of the population, Pericles among them. After Sicily (415–413) and
@@ -51,10 +62,16 @@ decades of attrition, Athens surrendered in 404 BCE.
 ## The Cultural Apex
 
 In these same decades Athens hosted the tragedians **Aeschylus, Sophocles, Euripides**;
-the comedian **Aristophanes**; the historians **[[herodotus|Herodotus]]** and
-**[[thucydides|Thucydides]]**; and **Socrates** — whose trial and execution (399 BCE) by
-the restored democracy crystallized the conflict between the philosopher and the city,
-and seeded **Plato** and **Aristotle** (see [[axial-age]]).
+the comedian **Aristophanes** (see [[athenian-drama]]); the historians
+**[[herodotus|Herodotus]]** and **[[thucydides|Thucydides]]**; and **Socrates** — whose
+trial and execution (399 BCE) by the restored democracy crystallized the conflict between
+the philosopher and the city, and seeded **Plato** and **Aristotle** (see [[axial-age]]).
+[[lewis-cah-v5-1992|CAH Vol. V]]'s great cultural chapter (Ch. 8) stresses how much of this
+was the work of **foreigners drawn to the imperial city** — the [[sophists|sophists]]
+(Protagoras, Gorgias, Anaxagoras) who brought rhetoric and philosophy, the artists who built
+the **[[parthenon|Periclean Acropolis]]**, and the poets and prose-writers of the
+[[classical-greek-art|High Classical]] flowering — civic art and "enlightenment" alike
+financed and magnetized by the empire and the democracy.
 
 ## Significance
 

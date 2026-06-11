@@ -9,7 +9,7 @@ origin: >
 applies_to_periods: [Archaic Period, Classical Antiquity]
 applies_to_regions: [anatolia, aegean, mediterranean]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -75,6 +75,22 @@ social effect"; Homer remained a moral force, organized religion gained fresh su
 movement was "complex and discontinuous," its excesses "reserved for the sophists and
 demagogues of the century that followed."
 
+## Philosophy reaches Athens (CAH V)
+
+[[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 8h, Ostwald) records the moment Ionian natural
+philosophy **reached Athens**, which "had not yet produced any philosophers of its own." It
+was **Anaxagoras of Clazomenae** — the associate of [[pericles]], with his doctrine of *Nous*
+(Mind) as the cause of motion — who "brought philosophy into the city"; by the century's end
+his books sold for a drachma and his ideas saturated Euripides. Others passed through:
+**Parmenides** and **Zeno** of Elea (the latter lecturing to Pericles), the atomist
+**Democritus** of Abdera, and **Diogenes** of Apollonia (whose air-cosmology was familiar
+enough to be parodied in Aristophanes' *Clouds*). The first **native Athenian philosopher**,
+**Archelaus**, studied with Anaxagoras and was said to be **Socrates'** teacher. Pollitt (Ch.
+8a) sees the **two traditions** — Pythagorean mathematical **idealism** and the relativism the
+[[sophists]] derived from Protagoras — held in tension in the [[classical-greek-art|art of the
+Parthenon]]. The reception, however, opened a rift between intellectuals and the people: the
+impiety trials of Anaxagoras and Protagoras prefigure that of [[athenian-drama|Socrates]].
+
 ## Historiography
 
 The Presocratics survive only in **fragments and later testimonia** (Aristotle, the
@@ -87,4 +103,5 @@ pattern, are interpretive positions, not settled fact.
 
 - Setting: [[athens]] (myth-reinterpretation) · [[polycrates|Samos]] · Lydia/Sardis · framework: [[axial-age]]
 - Religion: [[polis-religion]] · [[greek-religion-and-mythology]] · context: [[greek-colonization]] (colonial individualism)
-- Period: [[archaic-period]] · Source: [[boardman-cah-v4-1988]] (Ch. 7b, G. S. Kirk)
+- Athens: [[sophists]] · [[pericles]] · [[athenian-drama|Euripides]] · [[classical-greek-art]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v4-1988]] (Ch. 7b, Kirk) · [[lewis-cah-v5-1992|CAH V]] (Ch. 8h, Ostwald)

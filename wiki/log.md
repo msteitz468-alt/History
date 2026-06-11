@@ -1056,3 +1056,170 @@ disk; advancing to Cycle 3 (Part II-B, Neo-Hittites + Israel & Judah, Chs 9–11
 ## 2026-06-11 section | CAH Vol IV (Boardman et al. 1988) | Section: Cycle 10 — Carthaginians & Greeks in Sicily: the Deinomenid tyrannies & the battle of Himera (Ch. 16) | Pages created: 4 | Pages updated: 2
 
 ## 2026-06-11 ingest-complete | CAH Vol IV — Persia, Greece and the Western Mediterranean, c. 525 to 479 B.C. (Boardman, Hammond, Lewis & Ostwald eds., 1988) | Total pages created: 43 | Total pages updated: 24 | Sections processed: 10 | NB: scan omits Chs. 1–2 & 3a (Achaemenid dynastic narrative & Babylonia under Persia not ingested)
+
+## 2026-06-11 phase-start | CAH Vol. V — The Fifth Century B.C. (Lewis, Boardman, Davies & Ostwald eds., 1992) | Structural map read (TOC + preface; 11 chapters, Ch. 8 subdivided 8a–8h, running 479→404 BC). Source page `sources/lewis-cah-v5-1992.md` written with frontmatter and a 7-cycle Section Plan committed to disk. The direct continuation of CAH IV; narrows to the Greek world (Persia/west deferred to Vol. VI). Beginning Cycle 1 (Chs 1–2: sources/chronology/method + Greece after the Persian Wars).
+
+## 2026-06-11 section | CAH Vol. V (Lewis et al. 1992) | Cycle 1 — Sources/Chronology/Method (Ch. 1, Lewis) + Greece after the Persian Wars (Ch. 2, Davies) | Classical Antiquity | aegean, central-greece, mediterranean | Pages created: 3 | Pages updated: 5
+
+The framing cycle. Ch. 1 is the volume's historiographical charter: the three source-zones
+(thin Pentekontaetia 478–435 via Diodorus/Ephorus; firm Thucydides 435–411; Xenophon +
+Diodorus 411–404), the author roster (Thucydides, Herodotus, Diodorus/Ephorus, Hellenica
+Oxyrhynchia, Xenophon, Theopompus, Plutarch, comedy/oratory, the Atthides & Ath.Pol.), the
+epigraphic spine (tribute quota-lists from 453, Parthenon accounts), the Pentekontaetia
+chronology problem (few fixed points; ±5–6-year uncertainties), and the Athenocentric lens
+as itself a historical fact. Ch. 2 (Davies) is the structural analysis of post-479 Greece
+as cultural system (the Hellene/barbaros boundary, four facets of unity), economic system
+(the autarkic oikos vs the grain-trade logistics revolution; ship-type divergence; small
+change, banks, bottomry loans, the Agora), and political system (the "crisis of the polis":
+military unit dead, cultural/administrative unit alive; synoecism; isonomia; the
+trierarchy/leitourgia fiscal system). Created: `actors/thucydides.md`,
+`concepts/classical-greek-historiography.md`, `concepts/hellenic-identity.md`. Updated:
+`actors/classical-greece.md` (post-Persian-War transition), `periods/classical-antiquity.md`
+(fifth-century historiography + chronology; sources 1→2), `concepts/city-state.md` (the
+fifth-century crisis of the polis), `concepts/coinage.md` (post-war monetization),
+`processes/trade-network-formation.md` (the grain-trade revolution). Standing dangling
+links to resolve in later cycles: `[[delian-league]]`, `[[peloponnesian-war]]`,
+`[[ephialtes]]`, `[[pericles]]`, `[[cimon]]`, `[[brasidas]]`, `[[herodotus]]`,
+`[[panhellenic-games]]`, `[[delos]]`.
+
+## 2026-06-11 section | CAH Vol. V (Lewis et al. 1992) | Cycle 2 — The Delian League to 449 (Ch. 3, Rhodes) + The Athenian Revolution (Ch. 4, Rhodes) | Classical Antiquity | aegean, central-greece | Pages created: 7 | Pages updated: 3
+
+The political core of the volume's first half. Ch. 3 reconstructs the Delian League from its
+foundation on Delos (478/7) — organization (Delos treasury, single council, ships vs phoros,
+Aristides' 460-talent assessment, the hellenotamiai) through its transformation into the
+Athenian empire: the Pentekontaetia catalogue (Eion, Scyros, Carystus, Naxos "the first ally
+enslaved," the Eurymedon, the Thasian war, the Egyptian disaster c. 454), the transfer of the
+treasury to Athens (454/3), and the mid-century crisis read from the tribute quota-lists
+(imposed democracies, episkopoi, garrisons, cleruchies, Panathenaea offerings, proprietorial
+language). Ch. 4 ("the Athenian revolution") covers Ephialtes' 462/1 reform of the Areopagus,
+Periclean democracy (Assembly/boule/dikasteria/sortition/pay/elected generals), Pericles'
+citizenship law (451/0) and jury pay, and the long arc Draco→Solon→Cleisthenes→Ephialtes. Also
+the fall of Themistocles (ostracism, medism charge, flight to Artaxerxes). Created:
+`actors/delian-league.md` (major; resolves a wiki-wide dangling link), `actors/pericles.md`,
+`actors/cimon.md`, `actors/ephialtes.md`, `actors/aristides-the-just.md`,
+`concepts/athenian-democracy.md` (resolves the `[[athenian-democracy]]` dangling link),
+`events/ephialtes-reform-462bce.md`. Updated: `actors/themistocles.md` (the fall & flight),
+`concepts/ostracism.md` (fifth-century ostracisms), `places/athens-fifth-century.md` (Ephialtic
+reform + empire mechanics). New dangling links to resolve later: `[[peace-of-callias-449bce]]`,
+`[[thirty-years-peace-446bce]]`, `[[first-peloponnesian-war]]`, `[[pausanias-regent]]`,
+`[[areopagus]]`, `[[parthenon]]`, `[[archidamian-war]]`.
+
+## 2026-06-11 section | CAH Vol. V (Lewis et al. 1992) | Cycle 3 — Mainland Greece 479–451 (Ch. 5, Lewis) + The Thirty Years' Peace (Ch. 6, Lewis) | Classical Antiquity | central-greece, peloponnese, aegean | Pages created: 5 | Pages updated: 2
+
+The mainland-and-diplomacy cycle. Ch. 5 covers post-479 Sparta (the downfall of the regent
+Pausanias, Leotychidas' Thessalian failure, the weak kingship), the resurgence of Argos
+(destruction of Mycenae) and Arcadia (Tegea/Mantinea/Elis synoecisms; Tisamenus' five
+battles), the earthquake of 464 and the Third Messenian War / Great Helot Revolt on Ithome,
+Cimon's rebuff, and the First Peloponnesian War (Megarian alliance, Long Walls, fall of
+Aegina, Tanagra & Oenophyta 458, the short-lived Boeotian land empire, Tolmides' periplous,
+Naupactus settled with Messenians). Ch. 6 covers the Peace of Callias (c. 449, the disputed
+end of the Persian war, argued from the Parthenon's financing), the instruments of empire
+(cleruchies, the Coinage Decree, transferred lawcourts), the 446 crisis (Coronea, the revolts
+of Euboea and Megara, Pleistoanax's invasion and withdrawal), the Thirty Years' Peace (446/5),
+and "after the peace" (Thucydides son of Melesias ostracized 443, Thurii 444/3, the Samian War
+440–439, Amphipolis 437/6). Created: `events/first-peloponnesian-war.md`,
+`events/peace-of-callias-449bce.md`, `events/thirty-years-peace-446bce.md`,
+`events/third-messenian-war-464bce.md`, `actors/pausanias-regent.md` — resolving the
+`[[first-peloponnesian-war]]`, `[[peace-of-callias-449bce]]`, `[[thirty-years-peace-446bce]]`
+and `[[pausanias-regent]]` dangling links. Updated: `actors/sparta.md` (Sparta after the
+Persian Wars; sources 2→3), `actors/delian-league.md` (instruments of empire + the Samian
+revolt). Dangling links still open: `[[parthenon]]`, `[[areopagus]]`, `[[archidamian-war]]`,
+`[[naupactus]]`, `[[corinth]]` (exists?), `[[aegina]]` (exists).
+
+## 2026-06-11 section | CAH Vol. V (Lewis et al. 1992) | Cycle 4 — Sicily, 478–431 B.C. (Ch. 7, Asheri) | Classical Antiquity | italy, mediterranean | Pages created: 3 | Pages updated: 3
+
+The Western Greek cycle. Asheri's chapter covers the four blocs after Himera (Carthaginian
+epicracy, Syracuse/Deinomenids, Acragas/Emmenids, Rhegium/Anaxilads); the age of Hiero I
+(478–467) — the battle of Cumae (474) over the Etruscans, mass deportation and the foundation
+of Aitna, and the literary court (Pindar, Aeschylus, Simonides, Bacchylides); the fall of the
+three tyrannies (471–462) and the autonomistic movement with its "Common Resolution"; the
+Sicel movement of Ducetius (461–440) — Menainon, Morgantina, Palice, the synteleia, the
+defeat at Nomae, exile and return; and the rise of democratic Syracuse (the Old/New citizen
+conflict, petalismos, naval power, the new epicracy) and plutocratic Acragas (Empedocles),
+with their cultural flowering (Corax/Tisias/Gorgias rhetoric, Sophron's mime, Antiochus'
+history). Asheri's thesis: continuity over change. Created: `actors/hiero-i.md`,
+`actors/ducetius.md`, `events/battle-of-cumae-474bce.md`. Updated: `actors/syracuse.md`
+(Hiero → democracy; sources 1→2), `concepts/western-greek-tyranny.md` (the fall; 1→2),
+`actors/etruscans.md` (Cumae cross-link + 453 raids; 1→2). Gorgias and Empedocles flagged for
+fuller treatment in Cycle 5 (the culture chapter).
+
+## 2026-06-11 section | CAH Vol. V (Lewis et al. 1992) | Cycle 5 — Greek culture, religion & society (Ch. 8a–8h: Pollitt, Wycherley, Richardson, Burkert, Knox, Davies, Ostwald) | Classical Antiquity | central-greece, aegean | Pages created: 5 | Pages updated: 3
+
+The volume's great composite cultural chapter, the editors' distinctive contribution (culture
+in its historical/social/imperial context, not as a separate appendix). Ch. 8a (Pollitt):
+art Archaic→Classical — late-Archaic naturalism & foreshortening, the Severe Style and the
+Persian-War moral climate (Olympia), the High Classical Parthenon "dual nature," the
+late-fifth-century perspective/wet-drapery turn, the artist as intellectual (Phidias,
+Polyclitus' Canon). Chs. 8b–8c (Wycherley): the rebuilding of Athens and the Periclean
+Acropolis (Parthenon, Propylaea, Erechtheum, Hephaesteum; Ictinus/Callicrates/Phidias). Ch. 8d
+(Richardson): the panhellenic games & epinician poetry (Pindar). Ch. 8e (Burkert): Athenian
+cults & festivals. Ch. 8f (Knox): tragedy (Aeschylus/Sophocles/Euripides) & Old Comedy
+(Aristophanes) as fused religion-and-literature at the civic Dionysia. Ch. 8g (Davies):
+society & economy. Ch. 8h (Ostwald): Athens as a cultural centre — the foreigners
+(Herodotus, Hellanicus), the sophists (Protagoras, Gorgias, Prodicus, Hippias), the natural
+philosophers (Anaxagoras, Archelaus), rhetoric, the nomos–physis antithesis, and science
+(geometry, astronomy, Hippocratic medicine). Created: `concepts/classical-greek-art.md`,
+`places/parthenon.md` (resolves the wiki-wide `[[parthenon]]` link), `concepts/athenian-drama.md`,
+`concepts/sophists.md`, `concepts/panhellenic-games.md` (resolves `[[panhellenic-games]]`).
+Updated: `places/athens-fifth-century.md` (cultural apex), `concepts/presocratics.md`
+(philosophy reaches Athens; 1→2), `concepts/polis-religion.md` (fifth-century Athenian civic
+religion; 1→2).
+
+## 2026-06-11 section | CAH Vol. V (Lewis et al. 1992) | Cycle 6 — The Archidamian War (Ch. 9, Lewis) | Classical Antiquity | central-greece, peloponnese, aegean | Pages created: 5 | Pages updated: 1
+
+The first phase of the Peloponnesian War (431–421). Ch. 9 covers the causes (Thucydides'
+aitiai — Corcyra/Epidamnus, Potidaea, the Megarian Decree, Corinth — vs. the "truest cause,"
+Spartan fear of Athenian power; the ananke/inevitability thesis), Periclean defensive strategy
+(evacuate Attica, hold walls & fleet, raid the coast, keep allies/finance; the possible
+hidden Megara aim), the plague (430, ~25% mortality) and Pericles' death (429), the war's
+brutality and stasis (Corcyra), Plataea (fall 427), the Mytilenean revolt & debate (427),
+Pylos/Sphacteria (425, the 120 Spartiates, the rejected peace), Brasidas in Thrace (the loss
+of Amphipolis 424) and Delium (424), and the deaths of Cleon and Brasidas at Amphipolis (422)
+leading to the Peace of Nicias (421). Created: `events/peloponnesian-war.md` (the major
+overarching war page; resolves the wiki-wide `[[peloponnesian-war]]` link, with forward-links
+to the Cycle-7 pages), `events/archidamian-war.md`, `events/plague-of-athens-430bce.md`,
+`actors/cleon.md`, `actors/brasidas.md`. Updated: `actors/pericles.md` (war leadership,
+strategy, Funeral Oration, plague death). Dangling links for Cycle 7: `[[sicilian-expedition]]`,
+`[[fall-of-athens-404bce]]`; also still open: `[[archidamus-ii]]`, `[[corinth]]`.
+
+## 2026-06-11 section | CAH Vol. V (Lewis et al. 1992) | Cycle 7 — The Peace of Nicias & the Sicilian Expedition (Ch. 10) + The Spartan Resurgence (Ch. 11) (Andrewes) | Classical Antiquity | aegean, italy, anatolia | Pages created: 5 | Pages updated: 1
+
+The final content cycle, carrying the Peloponnesian War to its end. Ch. 10 covers the failure
+of the Peace of Nicias (the Argive/Quadruple Alliance, the Spartan victory at Mantinea 418
+restoring prestige, the ostracism of Hyperbolus — the last ostracism), Melos and the Melian
+Dialogue (416), and the Sicilian Expedition (415–413): Segesta's appeal, Alcibiades/Nicias/
+Lamachus, the Hermae/Mysteries scandal and Alcibiades' recall & defection, the siege of
+Syracuse, Gylippus's counter-wall, the Great Harbour naval defeats, the lunar-eclipse delay,
+and the annihilation at the Assinarus (deaths of Nicias and Demosthenes). Ch. 11 covers the
+Spartan resurgence: the occupation of Decelea, the Ionian War and Persian intervention
+(Tissaphernes, Pharnabazus, the treaties, Alcibiades' intrigues), the oligarchic revolution of
+the Four Hundred and Five Thousand (411), Cynossema and Cyzicus (410), the restored democracy,
+Alcibiades' triumphant return (407), Notium (406), Arginusae and the trial of the generals
+(406), Lysander and Cyrus, Aegospotami (405), and the surrender of Athens (404). Created:
+`events/sicilian-expedition.md` (resolves `[[sicilian-expedition]]`),
+`events/fall-of-athens-404bce.md` (resolves `[[fall-of-athens-404bce]]`; a transition page),
+`events/siege-of-melos-416bce.md` (the Melian Dialogue), `actors/alcibiades.md`,
+`actors/lysander.md`. Updated: `actors/syracuse.md` (the Sicilian Expedition repulse). All
+content cycles complete; close-out (synthesis pass, index.md, final log, push) remains.
+
+## 2026-06-11 ingest-complete | CAH Vol. V — The Fifth Century B.C. (Lewis, Boardman, Davies & Ostwald eds., 1992) | Total pages created: 33 | Total pages updated: 14 | Sections processed: 7 + synthesis
+
+Large-Volume-Protocol ingest of CAH V complete. Seven section cycles carried the Greek fifth
+century from the Persian-War aftermath to the fall of Athens (404): (1) sources/method &
+Greece after the Persian Wars; (2) the Delian League → empire and the Athenian revolution
+(Ephialtes/Pericles); (3) mainland Greece 479–451, the First Peloponnesian War & the Thirty
+Years' Peace; (4) fifth-century Sicily (Hiero, the fall of the tyrannies, Ducetius, democratic
+Syracuse); (5) the High Classical cultural chapter (art, the Parthenon, panhellenic games,
+festivals, drama, society, the sophists); (6) the Archidamian War & the plague; (7) the Peace
+of Nicias, the Sicilian Expedition, and the Spartan resurgence to Aegospotami and the surrender
+of Athens. Step 3 synthesis pass done — Volume Synthesis Note written on
+`sources/lewis-cah-v5-1992.md` (the double helix of political divergence and cultural
+efflorescence; the empire-as-engine-of-democracy; the polis that could not hold a land
+hegemony; the Athenocentric source-lens; the seamless joins with CAH IV behind and CAH VI
+ahead). Step 4: the source is already converted markdown in `raw/Markdown/` (no PDF to
+convert/delete), consistent with the filing of CAH II.1/II.2; left in place. `index.md` updated
+— CAH V source row added, header refreshed, and Summary Statistics recomputed by on-disk file
+count (Events 62, Actors 181, Places 78, Concepts 100, Sources 16; Total 563). This volume gave
+the wiki its first dense narrative of the Athenian empire, the radical democracy, the
+Peloponnesian War in all three phases, and the Classical cultural apex. Next backbone volume in
+Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Markdown/, un-ingested).

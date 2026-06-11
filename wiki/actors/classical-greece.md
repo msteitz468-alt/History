@@ -9,8 +9,8 @@ affiliated_with: [the Greek city-states (Athens, Sparta, Corinth, Thebes)]
 opposed_by: [[[achaemenid-empire|Achaemenid Persia]], internal rivals, [[macedon]]]
 key_events: [Greek colonization, Greco-Persian Wars 490/480-479 BCE, [[peloponnesian-war|Peloponnesian War]] 431-404 BCE]
 key_processes: [[[city-state]], colonization, [[axial-age]], [[ancient-science-and-technology|natural philosophy]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-11
 tags: [actor, state, archaic-period, classical-antiquity, mediterranean]
 ---
 
@@ -66,6 +66,41 @@ Greek collective action and the formative event of Greek identity (see [[herodot
 Athenian power then alarmed Sparta, producing the ruinous **[[peloponnesian-war|Peloponnesian
 War]] (431–404 BCE)** — disease, civil war, famine, and the exhaustion that opened the
 way for **[[macedon|Macedon]]** and [[alexander-the-great|Alexander]].
+
+## The Post-Persian-War Transition (CAH V)
+
+[[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 2, J. K. Davies) reframes the Greece of the 470s
+not as a confident victor but as a society in **uncomfortable transition, if not acute
+crisis** — a deliberately unconventional reading of a moment when the Persian Wars had
+seemingly vindicated the [[city-state|polis]]. The surface signs were of consolidation:
+**tyranny and narrow oligarchy were in retreat**, [[isonomia]] (wider, more equal
+participation) spreading, and a fashion for **synoecism** — amalgamating villages or
+whole regions into single polities (Gelon's Greater [[syracuse]], the unifications of
+Elis, Mantinea and Tegea). Only Sparta, Molossia, Macedon and Cyprus kept deep-rooted
+monarchies.
+
+Beneath this lay **structural contradictions** Davies argues the polis could not resolve:
+
+- **The polis as a military unit was dead, but as a cultural and administrative unit was
+  not.** The cost of [[hoplite-warfare|triremes]] and the **trierarchy** split Greek
+  states into those who could and could not keep up; smaller states could no longer
+  survive militarily alone, so warfare moved permanently into the frameworks of
+  **regional hegemony** (the decisions at Samos in 479, Byzantium in 478, [[delos]] in
+  477 — the seed of the [[delian-league|Delian League]]).
+- **Fiscal strain.** New needs (above all the trireme) outran old finance, producing the
+  *leitourgia* system — the **trierarchy** and the festival **choregia** (Athens, 502/1)
+  — which dressed state fiscal claims in the archaic language of *time* (prestige) and
+  *charis* (obligation).
+- **Social and intellectual tension.** A growing class of people "outside the city
+  framework" (seers, itinerant poets and artists, mercenary rowers, *emporoi*), the
+  contradictions of chattel [[slavery]], and the widening rift between **mythic** and
+  **rational** accounts of the world (Xenophanes, Heraclitus, the Pythagoreans) as
+  intellectuals drifted "to where the action was."
+
+This is the structural prelude to the volume's central story: the divergence of the
+victors of 480–479 into the maritime-democratic [[delian-league|Athenian empire]] and
+the land-based oligarchic [[peloponnesian-league|Spartan alliance]]. On the contest over
+what counted as "Greek" in this period, see [[hellenic-identity]].
 
 ## Significance
 

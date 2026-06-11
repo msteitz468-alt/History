@@ -9,7 +9,7 @@ affiliated_with: [the Athenian democracy, the anti-Persian war party, the new na
 opposed_by: [Aristides and Xanthippus (rivals), the Spartan establishment later, the Alcmaeonid-connected appeasers]
 key_events: [archonship and the fortification of the Piraeus (493/2), the naval bill of 483/2, the Decree of Themistocles and the evacuation of Athens, Artemisium, [[battle-of-salamis-480bce|Salamis]] (480), later ostracism and flight to Persia]
 key_processes: [the conversion of Athens into a naval power, the building of the trireme fleet, the rise of Athenian sea-empire]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, central-greece]
 ---
@@ -56,6 +56,23 @@ without his foresight there is no Athenian fleet, no Salamis, and (Herodotus' ow
 VII.139) no Greek victory at all — "if Sparta had submitted, Athens could not have repelled
 the Persians, and if Athens had not built her fleet..." The navy he created became the
 instrument of the **Delian League and the Athenian empire**.
+
+## The fall and flight (CAH V)
+
+[[lewis-cah-v5-1992|CAH Vol. V]] (Chs. 3–4, Rhodes) details the eclipse the page above
+sketches. Out of the fleet after 480 (Xanthippus, then [[aristides-the-just|Aristides]], then
+[[cimon]] commanded), Themistocles lost the contest of memory and policy to the pro-Spartan
+**Cimon** — a rivalry fought over whether Athens owed her salvation to **Marathon** (army,
+Cimon's father) or **Salamis** (fleet, Themistocles), and dramatized on the tragic stage
+(Aeschylus' *Persae*, 472, with Pericles as *choregos*). **Ostracized** (the exact year is
+unrecoverable, c. 472/1), he settled at Argos. When the Spartans, after the death of the
+regent [[pausanias-regent|Pausanias]], accused the two men jointly of **medism**, he was
+prosecuted *in absentia* and fled — across the Aegean, past the Athenian siege of Naxos
+(Thucydides) or Thasos (Plutarch's variant), to Asia Minor. There he reached the court of
+**Artaxerxes** (who had just succeeded Xerxes in 465 — Thucydides' "less exciting" and
+correct version, against the later writers who sent him to face the king he had defeated), and
+ended his life as the honoured Persian governor of **Magnesia**. Rhodes notes the irony: there
+is "little likelihood that he was guilty of medism at any time before his arrival in Asia."
 
 ## Historiography
 

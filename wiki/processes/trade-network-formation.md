@@ -8,7 +8,7 @@ region: [mediterranean, near-east, central-asia, china, south-asia, indian-ocean
 process_type: economic
 driven_by: ["surplus production and specialization", "[[urbanization]] and [[empire|imperial]] demand", "[[pastoral-nomadism|pastoral nomads]] as carriers and protectors", "maritime and caravan technology", "[[coinage|money]] and credit", "elite demand for prestige goods"]
 produces: ["[[silk-roads|the Silk Roads]]", "[[indian-ocean-trade|Indian Ocean trade]]", "[[trans-saharan-trade|trans-Saharan trade]]", "the spread of [[universal-religions|religions]], technologies, and disease", "cosmopolitan port and oasis cities", "[[divergence-convergence|convergence]]"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [process, classical-antiquity, silk-road, indian-ocean]
 ---
@@ -104,6 +104,39 @@ This regional Mediterranean web is the western anchor of the longer Afro-Eurasia
 below; "freedom of navigation and trade" would, within a generation, become an issue
 dividing the [[athenian-democracy|Athenian Empire]] and the [[peloponnesian-league|
 Peloponnesian League]].
+
+## The Grain-Trade Revolution and the Post-War Aegean (CAH V)
+
+[[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 2, Davies) examines the same Mediterranean web one
+generation on, asking whether exchange remained **marginal** to an autarkic, *oikos*-based
+society after 479. Davies's three tests — growth in volume, emancipation of trade from
+gift-exchange, and stimulation of new institutions — point to a real but uneven shift, of
+which the most consequential element is what he calls a **"profound revolution in the
+logistics of antiquity": moving a staple food supply to its consumers instead of moving
+the consumers to it through colonization.**
+
+- **From colonization to the grain trade.** The lengthy Aegean–Black Sea round trips that
+  fed grain-dependent cities (Teos already so by c. 470) replaced settlement-as-subsistence
+  with **import-as-subsistence**, dragging the **state** into securing the food supply —
+  the same logic that would later organize Rome's and Constantinople's *annona*. This both
+  defined and broadened the **public economy**.
+- **Ship technology divides.** A real divergence between **warship and merchantman**
+  matured before 480: the beaked, oared galley for war versus the round, sail-driven
+  **merchant ship** (developed by the 520s), via transitional hybrids like Polycrates'
+  *samaina*. The pure sailing freighter best suited the long bulk hauls — and made them
+  economic.
+- **The institutional network.** *Emporia* (Naucratis, Ischia) as ports of trade outside
+  the Greek culture-zone; deliberate **harbour works** and short-cuts (Piraeus from
+  493/2); the spread of [[coinage|coinage]], banking and the bottomry loan (see that
+  page); and the migration of retail into the civic **Agora**. None of this dissolved the
+  ideal of *autarkeia*, but it steadily expanded "the single loosely inter-related economic
+  system" to take in more flows, transactions and commodities.
+
+Davies's account thus supplies the **demand-and-logistics** underside of the
+[[coinage|monetary]] story and shows the post-war Aegean beginning to behave like an
+integrated economic zone — even as the contest over "freedom of navigation and trade"
+hardened into a casus belli between the [[delian-league|Athenian empire]] and the
+[[peloponnesian-league|Peloponnesian League]].
 
 ## Geographic Spread
 

@@ -9,7 +9,7 @@ affiliated_with: [the Twelve-Peoples League at the Voltumna sanctuary, the Tarqu
 opposed_by: [the Western Greeks (Phocaeans, [[magna-graecia|Magna Graecia]], Syracuse), the Celts/Gauls, the expanding Roman Republic]
 key_events: [battle of the Sardinian Sea (Alalia) c. 540 BCE, sea-battle of Cyme/Cumae 474 BCE, Roman destruction of Veii 396 BCE]
 key_processes: [[[urbanization]], [[trade-network-formation]], [[state-formation]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, early-iron-age, archaic-period, italy]
 ---
@@ -122,8 +122,10 @@ Sardinian Sea (Alalia), c. 540**, though a Caeretan–Carthaginian victory over 
 Phocaeans, was "expensive," and the Etruscan **thalassocracy never recouped it**;
 their Carthaginian allies, not they, profited. On land, the **expulsion of the
 Tarquins from Rome in 509** and the fading of Etruscan influence there by 475 cut
-the Campanian land-route; a bid to take **Cyme failed disastrously in 474**, when
-Hieron's Syracusan fleet crushed the Etruscans (the helmet dedicated at Olympia).
+the Campanian land-route; a bid to take **Cyme failed disastrously in 474** at the
+**[[battle-of-cumae-474bce|battle of Cumae]]**, when [[hiero-i|Hiero's]] Syracusan fleet
+crushed the Etruscans (the helmet dedicated at Olympia) — and democratic Syracuse pressed the
+advantage with raids on **Elba and Corsica** in 453 ([[lewis-cah-v5-1992|CAH V]], Ch. 7).
 Unlike Carthage after [[battle-of-himera-480bce|Himera]] (480), "the Etruscans
 were in no state to fight another day." The **Samnites** took Campania (mid-5th c.),
 the **Celts** drove them from the Po Valley (early 4th c.), and Rome's inexorable

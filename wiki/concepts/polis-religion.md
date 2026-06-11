@@ -9,7 +9,7 @@ origin: >
 applies_to_periods: [Archaic Period, Classical Antiquity]
 applies_to_regions: [mediterranean, aegean, central-greece, peloponnese]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -71,6 +71,23 @@ an investment in civic or personal prestige" that **subordinated the god** to ci
 tyrant. The growing temple treasuries also helped create the matrix of fifth-century
 **public finance**.
 
+## Fifth-century Athenian civic religion (CAH V)
+
+[[lewis-cah-v5-1992|CAH Vol. V]] (Chs. 8e–8f, Burkert and Knox) shows the mature form of
+polis religion at Classical Athens. Its defining absences are structural: **no priestly
+hierarchy** (priests were "technicians of ritual sacrifice" over local and family cult),
+**no holy book, no fixed sacred history, no revealed ethical code**. Consequently
+**theology was the business of the poets** — Homer and Hesiod, and then the
+[[athenian-drama|tragedians]], who "assumed the same prerogative and burden" of relating the
+gods to human justice. Worship was organized as **civic festival**: the cult calendar
+defined the community's identity through the year (Burkert), and the great
+**[[athenian-drama|Dionysia]]** was at once an act of worship of Dionysus and "a demonstration
+to the Greek world of Athenian imperial power" — the [[delian-league|tribute]] displayed, the
+war-orphans paraded, financed (like the warships) through the **liturgy** system. The
+**[[parthenon|Parthenon]]**, a shrine of Athena Polias, stored the imperial reserves in its
+treasury — the fusion of the political and the religious that Davies' Archaic analysis
+predicts, now at full civic scale.
+
 ## Critique
 
 Davies explicitly rejects the over-simplifications that "State, people and religion were
@@ -84,4 +101,5 @@ purposes** the same group or institution could serve.
 
 - State: [[athens]] · [[cleisthenic-reforms-508bce]] (Delphi sanctions the tribes) · trade/temples: [[naucratis]]
 - Wider thought: [[presocratics]] (the parallel secularizing movement) · [[greek-religion-and-mythology]] (the earlier formation)
-- Period: [[archaic-period]] · Source: [[boardman-cah-v4-1988]] (Ch. 7a, J. K. Davies)
+- Fifth-century: [[athenian-drama]] · [[parthenon]] · [[panhellenic-games]] · [[athens-fifth-century]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v4-1988]] (Ch. 7a, Davies) · [[lewis-cah-v5-1992|CAH V]] (Chs. 8e–8f, Burkert & Knox)

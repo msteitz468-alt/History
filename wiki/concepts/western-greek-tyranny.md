@@ -8,7 +8,7 @@ origin: >
 applies_to_periods: [Archaic Period, Classical Antiquity]
 applies_to_regions: [italy, mediterranean]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -65,6 +65,28 @@ transmuted conquest and deportation into a memory of the tyrant as **"benefactor
 saviour, liberator,"** crowned by the victory of **[[battle-of-himera-480bce|Himera]]
 (480)** and Gelon's heroic cult.
 
+## The fall of the western tyrannies (CAH V)
+
+[[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 7, Asheri) narrates the **rapid collapse of all three
+dynasties within a decade (471–462)** — "the central event of Sicilian history" in the
+period. **Acragas** fell first when Theron's unworthy son **Thrasydaeus** lost a needless
+war with [[hiero-i|Hiero]] (472/1); **[[syracuse]]** followed when Hiero's brutal successor
+**Thrasybulus** was overthrown (466). Each nascent republic then helped dismantle its own
+**epicracy** — not from love of liberty but from the "imperative need for loyal allies" — and
+a general **autonomistic movement** spread, demanding the return of the "Old Citizens,"
+limited rights for the tyrants' "New Citizens," and land redistribution, formalized in a
+"**Common Resolution**" (*koinon dogma*) that sent the discharged mercenaries to settle at
+Messana.
+
+Asheri's governing thesis is **continuity over change**: the fall of the tyrannies "was
+practically confined to the internal affairs of the cities concerned," while the deep
+structures of Western Greek history — economic prosperity, hellenization, the drive to form
+**blocs and epicracies** and to absorb the hellenized Sicel belt, and the rivalry of Syracuse
+and Acragas — "all emerged stronger than ever within a couple of decades." The democracies
+"had to conform to the rules of the game laid down in the age of the tyrannies." The Sicel
+bid for autonomy under [[ducetius]] (461–440) was the one challenge from outside that
+framework, and it too ended by feeding a new Syracusan empire.
+
 ## Limitations and debates
 
 The concept depends on a **hostile and panegyric source-base** simultaneously — the
@@ -81,4 +103,5 @@ local, political and commercial conflicts.
 - Practitioners: [[gelon]] · [[syracuse]] · Theron of Acragas · (contrast Phalaris)
 - Compare: [[greek-tyranny]] (mainland) · [[athenian-democracy]] (the road not taken)
 - Setting: [[magna-graecia]] · [[city-state]] · event: [[battle-of-himera-480bce]]
-- Period: [[archaic-period]] · [[classical-antiquity]] · Source: [[boardman-cah-v4-1988]] (Ch. 16, Asheri)
+- The fall: [[hiero-i]] · [[syracuse]] · [[ducetius]] (the Sicel movement)
+- Period: [[archaic-period]] · [[classical-antiquity]] · Sources: [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[lewis-cah-v5-1992|CAH V]] (Ch. 7, Asheri)

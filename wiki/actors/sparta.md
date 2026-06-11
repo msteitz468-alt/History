@@ -9,7 +9,7 @@ affiliated_with: [the Peloponnesian (Spartan) Alliance, Elis, Tegea, Corinth, la
 opposed_by: [the Messenians, Argos, the Arcadians, the Helots]
 key_events: [the First Messenian War (~740–710), the defeat at Hysiae (669), the Second Messenian War (~640–600), the alliance with Tegea, the defeat of Argos at Thyreatis (546)]
 key_processes: [helot serfdom, the militarization of society, the building of the Spartan Alliance]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, peloponnese]
 ---
@@ -120,6 +120,39 @@ violent death exposed the strains of dual kingship — after which Sparta report
 **joint royal command** on campaign. These Helot-driven hesitations would shape the whole
 Greek response to Xerxes.
 
+## Sparta after the Persian Wars (CAH V)
+
+[[lewis-cah-v5-1992|CAH Vol. V]] (Chs. 5–6, D. M. Lewis) carries the structural brake of the
+[[cleomenes-i|Cleomenes]] era into the mid-century, where it kept Sparta **half-paralysed**
+even as Athenian power grew — the condition behind Thucydides' judgement that Sparta was
+"in part prevented by wars of their own."
+
+- **The retreat from the Aegean.** The downfall of the regent **[[pausanias-regent|
+  Pausanias]]** at Byzantium let naval leadership pass to Athens and the [[delian-league|
+  Delian League]] (478/7); King **Leotychidas'** Thessalian expedition ended in disgrace and
+  exile. With the next royal generation young (Plistarchus, Archidamus, Pleistoanax), power
+  shifted away from the kingship.
+- **The earthquake and the Great Helot Revolt.** The **earthquake of 464** triggered the
+  **[[third-messenian-war-464bce|Third Messenian War]]**, the realization of Sparta's deepest
+  fear; the rebels held **Ithome** for years. Sparta's **rebuff of [[cimon|Cimon's]] relief
+  army** — sent home alone of the allies for fear of Athenian *neoteropoiia* — broke the
+  Athenian alliance and began the [[first-peloponnesian-war|First Peloponnesian War]].
+- **Troubles in the Peloponnese.** The seer Tisamenus' "five battles" (Plataea, Tegea,
+  Dipaea, Isthmus, Tanagra) show Sparta fighting a resurgent **[[argos]]** (rebuilding after
+  Sepea, destroying Mycenae) and a restive **Arcadia** (Tegea, the synoecized Mantinea and
+  Elis) even as it held its alliance together.
+- **The First Peloponnesian War and the peace.** Sparta intervened "curiously sideways" —
+  the Tanagra campaign of 458 — but never pressed an aggressive war on Athens; in **446** the
+  young king **Pleistoanax** invaded Attica and withdrew (allegedly bribed), and the
+  **[[thirty-years-peace-446bce|Thirty Years' Peace]]** confirmed the **dualism**: Sparta
+  supreme by land, Athens by sea. Lewis stresses that Spartan **quietism**, not just the
+  barrier of the Megarid, kept it from exploiting Athens' difficulties — "the spirit of
+  480–479 could still be invoked."
+
+This mid-century weakness is the backdrop to the [[peloponnesian-league|Peloponnesian
+League]] congress over Samos (440) and, ultimately, to Sparta's reluctant entry into the
+[[peloponnesian-war|Peloponnesian War]].
+
 ## Historiography
 
 Hammond reconstructs Archaic Sparta from **Tyrtaeus** (the contemporary war-poet), the
@@ -135,4 +168,5 @@ two-stage Rhetra/Rider remain debated.
 - Subjects: Helots (Messenian serfs) · perioikoi · the [[gortyn-code|Cretan]] system (kindred Dorian serfdom)
 - Rivals: [[argos]] (Hysiae, [[battle-of-sepea-494bce|Sepea]]) · Messenia · Arcadia/Tegea · alliance: [[peloponnesian-league]]
 - Kings: [[cleomenes-i]] · Demaratus · Backed [[delphi|Delphi]]'s First Sacred War · foes of [[greek-tyranny|tyranny]] · allies [[lydia|Croesus]], [[saite-egypt|Amasis]]
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond) · [[boardman-cah-v4-1988]] (Ch. 6, Jeffery)
+- Post-479: [[pausanias-regent]] · [[third-messenian-war-464bce]] · [[first-peloponnesian-war]] · [[thirty-years-peace-446bce]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond) · [[boardman-cah-v4-1988]] (Ch. 6, Jeffery) · [[lewis-cah-v5-1992|CAH V]] (Chs. 5–6, Lewis)

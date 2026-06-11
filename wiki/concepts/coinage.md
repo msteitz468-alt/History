@@ -5,7 +5,7 @@ origin: monetization as a path-dependent process; coinage invented independently
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [near-east, mediterranean, iran-plateau, south-asia, china, central-asia]
 contested: yes
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -171,6 +171,33 @@ Kraay's central thesis, from the behaviour of the coins themselves:
   city-states**: each polis marked its property with a device "as different as possible" from
   its neighbours' — civic identity stamped in metal.
 
+## Monetization in Post-War Greece (CAH V)
+
+[[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 2, Davies) carries Kraay's "coinage as state
+property" story **forward** into the decades after 479, when monetization began — slowly,
+jerkily — to reach into private exchange. Davies traces a cluster of linked innovations:
+
+- **Small-value coinage.** The threshold dropped only gradually from the high-value early
+  electrum fractions to silver quarter-obols and, by c. 450, the first **base-metal**
+  (bronze/iron) issues at Olbia and in South Italy and Sicily — a proposal to coin bronze
+  was being floated even at Athens before 443. Small change is the precondition for daily
+  marketing.
+- **The bank (*trapeza*).** First (dubiously) attested at Corinth in the 460s, its primary
+  function was exchanging coin of one standard for another, only secondarily deposit and
+  lending — a response to the patchwork of civic standards.
+- **The bottomry (maritime) loan.** Probably a creation of the post-war generation, the
+  first interest-bearing, impersonal credit instrument able to mobilize the growing pool
+  of large-value coinage toward a real money-market.
+- **The Agora's redefinition.** Retail exchange, once banished to the frontier or seashore
+  "no-man's-land," migrated into the **centre of civic space**, eventually extruding other
+  public functions and yielding two distinct *agorai* (civic and commercial) at Athens and
+  Piraeus — the spatial signature of monetization.
+
+Davies stresses that this remained **gradual and weak** ("still weak monetization of Greek
+economies") and that coinage's adoption in the sixth century "had [nothing] intrinsically
+to do with exchange among individuals" — confirming, from the demand side, Kraay's
+fiscal-state thesis even as the post-war decades begin to pull coin into the market.
+
 ## Contested Questions
 
 - **Primitivism vs. modernism / the scale of the ancient economy** — how monetized,
@@ -189,4 +216,4 @@ major monetized commerce (Dacian slaves for Roman silver). Compare the urban-mar
 analysis with [[urbanization]] and [[city-state]].
 
 - Invention: [[lydia]] · [[sardis]] · [[archaic-greek-economy]] · [[pisistratus|Athens's first coinage]] · [[aegina]] (earliest mainland silver)
-- Sources: [[benjamin-cwh-v4-2015|CWH IV]] (global monetization) · [[boardman-cah-v3p3-1982|CAH III.3]] (the Greek invention, Chs. 45a–b) · [[boardman-cah-v4-1988|CAH IV]] (coinage as state property, Ch. 7d Kraay)
+- Sources: [[benjamin-cwh-v4-2015|CWH IV]] (global monetization) · [[boardman-cah-v3p3-1982|CAH III.3]] (the Greek invention, Chs. 45a–b) · [[boardman-cah-v4-1988|CAH IV]] (coinage as state property, Ch. 7d Kraay) · [[lewis-cah-v5-1992|CAH V]] (post-war monetization — small change, banks, bottomry loans, Ch. 2 Davies)

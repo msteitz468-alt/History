@@ -9,7 +9,7 @@ affiliated_with: [Corinth (mother-city), the Deinomenid tyrants, the Syracusan-A
 opposed_by: [[[carthage|Carthage]], rival Sicilian Greek cities, its own deported and enslaved populations]
 key_events: [the expulsion of the gamoroi and annexation by [[gelon|Gelon]] 485 BCE, battle of [[battle-of-himera-480bce|Himera]] 480 BCE]
 key_processes: [[[western-greek-tyranny]], [[urbanization]], forced population transfer]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, classical-antiquity, italy]
 ---
@@ -64,6 +64,37 @@ Syracuse **remained essentially an agrarian city**, favouring the *gamoroi* and
 Milesian Bion for its dedications), yet it nurtured the original Sicilian voice of the
 comic poet **Epicharmus** and hosted **Aeschylus** in its new theatre.
 
+## Hiero, the fall of the Deinomenids, and democratic Syracuse (CAH V)
+
+[[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 7, Asheri) carries the city from the Deinomenid apogee
+to the democratic republic. Under **[[hiero-i|Hiero I]]** (r. 478–467) Syracuse reached the
+height of tyrannical power — the victory over the Etruscans at the
+**[[battle-of-cumae-474bce|battle of Cumae]]** (474), the foundation of **Aitna**, and the
+most brilliant literary court of the age (Pindar, Aeschylus, Simonides, Bacchylides). But
+within five years of Hiero's death the dynasty fell: his harsh brother **Thrasybulus** was
+overthrown in **466**, and Syracuse — like Acragas before it — helped break up its own
+**epicracy** to win allies for its liberty.
+
+There followed a long conflict between the **"Old" and "New" citizens** (the dispossessed
+victims of tyranny versus the tyrants' mercenaries, immigrants and deportees), settled by a
+"**Common Resolution**" (*koinon dogma*) and won by the Old in 461. Out of it grew the
+institutions of a **republican democracy** — a General Assembly, Council, and board of
+*strategoi* — though Syracuse never adopted sortition or pay for office, using instead a
+short-lived variant of ostracism (**petalismos**). Democratic Syracuse rapidly became a
+**major naval and imperial power**: Tyrrhenian raids (453), the destruction of
+[[ducetius|Ducetius']] Sicel state and the building of a new land epicracy (440s), and a
+fleet of 100 triremes — "in no way smaller than Athens" (Thucydides), a "megalopolis" of
+~250,000. It also became a centre of culture: the birth of formal **rhetoric** (Corax,
+Tisias, and the Leontine **Gorgias**), the **mime** of Sophron, and the first **History of
+Sicily** by Antiochus, alongside the matchless decadrachm coinage of its mint-engravers.
+
+This is the Syracuse — populous, democratic, navally powerful, and Dorian — that
+**Athens would fail to take** in the **[[sicilian-expedition|Sicilian Expedition]]** of
+415–413: with the Spartan Gylippus and the Corinthians, Syracuse broke the Athenian siege and
+annihilated the greatest armament Athens ever sent out, the turning point of the
+[[peloponnesian-war|Peloponnesian War]]. Thucydides judged the Syracusans the opponents
+"closest in character to the Athenians," and so the ones who "fought best against them."
+
 ## Counterfactual significance
 
 Gelon's Syracuse set the enduring pattern of Sicilian history: a **single dominant
@@ -91,4 +122,5 @@ golden age must be set against its foundation in **conquest, deportation and sla
 - Tyrant: [[gelon]] · ally: Theron of Acragas · mother-city: Corinth · rival: [[carthage]]
 - Victory: [[battle-of-himera-480bce]] · phenomenon: [[western-greek-tyranny]] · arena: [[magna-graecia]]
 - Process: [[urbanization]] · [[city-state]] · Period: [[classical-antiquity]]
-- Sources: [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[boardman-cah-v3p3-1982]] (Ch. 38, Graham, the colonial city)
+- Fifth century: [[hiero-i]] · [[battle-of-cumae-474bce]] · [[ducetius]] · [[western-greek-tyranny]]
+- Sources: [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[boardman-cah-v3p3-1982]] (Ch. 38, Graham, the colonial city) · [[lewis-cah-v5-1992|CAH V]] (Ch. 7, Asheri)

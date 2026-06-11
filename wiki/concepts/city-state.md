@@ -9,7 +9,7 @@ origin: >
 applies_to_periods: [Early Bronze Age, Middle Bronze Age, Greek Dark Age, Archaic Period, Classical Antiquity]
 applies_to_regions: [mesopotamia, mediterranean, aegean, south-asia, mesoamerica]
 contested: yes
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -93,9 +93,29 @@ than the political organizations of their native neighbours," carried by a stron
 religiously grounded "culture pattern." The hundreds of daughter-poleis planted from
 Spain to the Black Sea are thus the polis's first great export.
 
+## The fifth-century crisis of the polis (CAH V)
+
+[[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 2, Davies) supplies the **other end** of the
+polis's life-cycle. Where CAH III.1 shows the polis crystallizing out of the Dark Age and
+CAH III.3 shows it exported wholesale by colonization, Davies argues that by the 470s the
+mature polis had reached a **structural impasse**. The form was still spreading —
+tyranny in retreat, [[isonomia]] advancing, a wave of **synoecism** fusing villages and
+regions into larger units — but its core premise was breaking. The decisive contradiction
+was **military**: the cost of the trireme and the **trierarchy** meant "the polis as a
+military unit on its own was dead, while the polis as an administrative and cultural unit
+was not." Self-defence now required permanent **regional hegemonies** (the
+[[peloponnesian-league|Spartan alliance]]; the emerging [[delian-league|Athenian
+empire]]), and in the West the same pressure turned Greater [[syracuse]] from a polis
+into a territorial state. To this Davies adds the strains of a growing population of
+people **outside the civic framework** (mercenary rowers, itinerant experts, *emporoi*),
+of chattel [[slavery]], and of new fiscal devices (the *leitourgia* system) — a polis
+"consolidating its role" even as it "encountered contradictions which could not be
+resolved within that polis framework." The fifth century is thus, on this reading, both
+the polis's classical apogee and the exposure of its limits.
+
 ## Related
 
 - Concepts: [[urbanism]] · [[heterarchy]] · [[urban-revolution]]
 - Places: [[uruk|Uruk]] · [[mohenjo-daro|Mohenjo-daro]] · [[tikal|Tikal]] · [[euboea|Euboea]]
 - Process: [[urbanization]] · [[greek-dark-age|Greek Dark Age]] · [[greek-colonization|colonization]] · Period: [[early-bronze-age]] → [[archaic-period]]
-- Sources: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (polis genesis) · [[boardman-cah-v3p3-1982|CAH III.3]] (the transplantable polis)
+- Sources: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (polis genesis) · [[boardman-cah-v3p3-1982|CAH III.3]] (the transplantable polis) · [[lewis-cah-v5-1992|CAH V]] (the fifth-century crisis of the polis, Ch. 2 Davies)

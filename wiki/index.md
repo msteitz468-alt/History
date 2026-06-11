@@ -1,6 +1,6 @@
 # World History Wiki — Master Catalog
 
-Last updated: 2026-06-11 (CAH Vol. IV complete — Persia, Greece and the Western Mediterranean, c. 525–479 BC; 43 pages created, 24 pre-existing pages updated, across the Large-Volume Protocol's 10 section cycles. Built out the Greco-Persian Wars, the Cleisthenic reform of Athens, and — newly for the wiki — pre-Roman Italy and Sicily: the Etruscans, the Italic peoples, the languages of Italy, and the Deinomenid tyrannies through Himera. NB: the available scan omits Chs. 1–2 & 3a, so the Achaemenid dynastic narrative and Babylonia under Persia are not ingested from this volume.)
+Last updated: 2026-06-11 (CAH Vol. V complete — The Fifth Century B.C.; 33 pages created, 14 pre-existing pages updated, across the Large-Volume Protocol's 7 section cycles. Built out the Greek fifth century from the Persian-War aftermath to the fall of Athens (404): the Delian League and the Athenian empire, the radical democracy (Ephialtes, Pericles), the First and great Peloponnesian Wars (the plague, Sicily, the Ionian War, Lysander), fifth-century Sicily (Hiero, Ducetius, democratic Syracuse), and the High Classical cultural flowering — art, the Parthenon, drama, the sophists, panhellenic games — together with the fifth-century source/method (Thucydides and the historiography of the Pentekontaetia). The direct continuation of CAH IV; hands forward to CAH VI.)
 
 This index lists every page in the wiki. Update after every ingest session.
 Entries are grouped by directory. Within each group, pages are listed in
@@ -206,27 +206,28 @@ creation order with a one-line description.
 | `boardman-cah-v3p2-1991.md` | The Cambridge Ancient History, Volume III, Part 2: The Assyrian and Babylonian Empires and other States of the Near East, 8th–6th c. BC (2nd ed.) | 1991 | reference |
 | `boardman-cah-v3p3-1982.md` | The Cambridge Ancient History, Volume III, Part 3: The Expansion of the Greek World, Eighth to Sixth Centuries B.C. (2nd ed.) | 1982 | reference |
 | `boardman-cah-v4-1988.md` | The Cambridge Ancient History, Volume IV: Persia, Greece and the Western Mediterranean, c. 525 to 479 B.C. (2nd ed.) | 1988 | reference |
+| `lewis-cah-v5-1992.md` | The Cambridge Ancient History, Volume V: The Fifth Century B.C. (2nd ed.) | 1992 | reference |
 
 ---
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **CAH Vol. IV** ingest (the detailed
-catalog tables above are maintained selectively and may lag; recent volumes' new and
-updated pages are catalogued in their source pages and `log.md` rather than relisted
-here).
+Counts reflect actual files on disk as of the **CAH Vol. V** ingest (recomputed by file
+count; the detailed catalog tables above are maintained selectively and may lag — recent
+volumes' new and updated pages are catalogued in their source pages and `log.md` rather
+than relisted here).
 
 | Category | Pages |
 |---|---|
 | Periods | 24 |
-| Events | 50 |
+| Events | 62 |
 | Processes | 75 |
-| Actors | 168 |
-| Places | 77 |
-| Concepts | 93 |
+| Actors | 181 |
+| Places | 78 |
+| Concepts | 100 |
 | Comparisons | 0 |
 | Controversies | 27 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 15 |
-| **Total** | **529** |
+| Sources | 16 |
+| **Total** | **563** |

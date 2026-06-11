@@ -10,7 +10,7 @@ origin: >
 applies_to_periods: [Archaic Period, Classical Antiquity]
 applies_to_regions: [central-greece]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -54,6 +54,18 @@ influence alone" — **Xanthippus** (484, Pericles' father) and **Aristides** (4
 Themistocles' naval bill). The discovery of **>11,000 ostraka** (9,000 from the Kerameikos
 in 1966) names 130+ targets and shows **Themistocles** was already a favourite candidate in
 the 480s, with many "scatter votes" for men unknown to literature.
+
+## The fifth-century ostracisms (CAH V)
+
+[[lewis-cah-v5-1992|CAH Vol. V]] (Chs. 3–4, Rhodes) follows the institution into the era of
+empire, where it became the device for **deciding contests of political leadership**: the
+ostracism of **[[themistocles]]** (c. 472/1, who went to Argos and ultimately to Persia); of
+**[[cimon]]** (461) as *philolakon* and *misodemos* when he tried to reverse
+[[ephialtes-reform-462bce|Ephialtes' reform]]; and of **Thucydides son of Melesias** (c. 443),
+the leader of the opposition to [[pericles|Pericles']] building program, after which Pericles
+held an unbroken predominance. Other states imitated the practice (Argos, Megara, Miletus;
+Syracuse's short-lived *petalismos*). The series ended with the collusive removal of
+**Hyperbolus** (see below).
 
 ## Limitations and critique
 
