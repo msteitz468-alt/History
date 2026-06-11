@@ -13,8 +13,8 @@ event_type: migration
 scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[indo-european-migrations]], [[unknown]]]
-consequences: [the Greek language in Greece, the Middle Helladic culture, [[unknown|the Mycenaean civilization]]]
-sources_ingested: 1
+consequences: [the Greek language in Greece, the Middle Helladic culture, [[mycenaean-civilization|the Mycenaean civilization]]]
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [event, early-bronze-age, middle-bronze-age, mediterranean]
 ---
@@ -61,11 +61,30 @@ and the main body arriving ~1900 BCE.
 ## Consequence Analysis
 
 Whatever its exact date and route, the outcome is decisive: by the Late Bronze Age
-Greek is the language of the **Mycenaean** palaces (Linear B at Pylos, Mycenae,
-Cnossus). The migration thus seeds the entire later trajectory of **Greek
-civilization** — the Mycenaean world, its collapse, and the historical Greeks. In
-Crete, by contrast, there is **no such rupture**: the Minoan palaces grow out of an
-unbroken local development (see [[early-bronze-age-aegean]]).
+Greek is the language of the **[[mycenaean-civilization|Mycenaean]]** palaces
+([[aegean-scripts|Linear B]] at Pylos, Mycenae, [[knossos|Cnossus]]). The migration
+thus seeds the entire later trajectory of **Greek civilization** — the Mycenaean
+world, its collapse, and the historical Greeks. In Crete, by contrast, there is **no
+such rupture**: the [[minoan-civilization|Minoan]] palaces grow out of an unbroken
+local development (see [[early-bronze-age-aegean]]).
+
+## The CAH II.1 reassessment (Caskey)
+
+[[edwards-cah-v2p1-1973|CAH Vol. II.1]] (Caskey, Ch. IV(a)) reaffirms the equation
+on a refined basis. From the [[lerna|Lerna]] sequence Caskey reconstructs **two
+incursions**: a violent one at the end of EH II (the destruction of the Argolid),
+and a second, **kindred and largely peaceful**, opening the Middle Helladic ~1900 —
+the makers of grey/yellow **Minyan** ware and Matt-painted pottery, "hardy,
+tenacious, conservative" farmers who were **related in culture (and probably race)
+to the people of [[troy|Troy VI]]**, arriving at the Hellespont about the same time.
+His decisive argument is **linguistic-toponymic**: following **Blegen & Haley
+(1928)**, the un-Greek (hence pre-Greek) place-names in **-*nth*- and -*ss*-**
+(*Korinthos*, *Tylissos*) belong to the **Early Bronze Age**, and since the MH→LH
+development is continuous and unbroken, the **Middle Helladic people must be the
+first true Greeks** in the land — Greek being a language that formed *in* Greece, not
+imported ready-made. Caskey is pointedly cautious that "race" here means only a
+**thoroughly mixed stock**, and that the rise of Mycenae was a **local flowering**,
+not a fresh invasion.
 
 ## Actors
 
@@ -87,6 +106,7 @@ Lerna evidence pushes part of the process earlier. The dating is therefore flagg
 
 ## Related
 
-- Migration: [[indo-european-migrations]] · Process: [[early-bronze-age-aegean]]
-- Place: [[lerna]] · [[troy]] · Controversy: [[indo-european-origins]]
-- Period: [[early-bronze-age]] · [[middle-bronze-age]]
+- Migration: [[indo-european-migrations]] · Process: [[early-bronze-age-aegean]] → [[mycenaean-civilization]]
+- Place: [[lerna]] · [[troy]] · [[mycenae]] · Controversy: [[indo-european-origins]]
+- Period: [[early-bronze-age]] · [[middle-bronze-age]] · [[late-bronze-age]]
+- Source: [[edwards-cah-v1p2-1971]] · [[edwards-cah-v2p1-1973]]

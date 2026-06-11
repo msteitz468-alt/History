@@ -11,6 +11,18 @@ Format:
 
 ---
 
+## 2026-06-11 section | CAH Vol. II, Part 1 (1973) | Section 5: The Aegean — Minoan Crete, the scripts & Mycenaean origins (Chs. IV(a–c), XII, XIII, XIV) | Middle–Late Bronze Age | aegean, mediterranean, near-east | Pages created: 7 | Pages updated: 2
+
+The whole Aegean thread in one cycle. Created `minoan-civilization` (Crete's palace
+culture & thalassocracy), `knossos`, `mycenaean-civilization` (the Shaft-Grave rise
+& takeover of Crete), `mycenae`, `cyprus` (Middle Cypriot), `aegean-scripts`
+(Pictographic / Linear A / Linear B / the Phaestus Disk; Ventris) and the controversy
+`fall-of-knossos` (Evans vs. Palmer on the date/agency). Updated `lerna` (the MH
+type-sequence) and `coming-of-the-greeks-1900bce` (Caskey & Blegen–Haley). Only
+Section 6 (the Persian Plateau, Ch. XVI) and the Step 3–5 close-out — the synthesis
+pass, the deferred **Late Bronze Age period page**, index.md, and the
+ingest-complete entry — remain.
+
 ## 2026-06-11 section | CAH Vol. II, Part 1 (1973) | Section 4: Anatolia & the Hittites (Chs. VI, XV) | Middle–Late Bronze Age | anatolia, near-east | Pages created: 5 | Pages updated: 3
 
 The Hittite thread (Gurney) from Anitta to the Hurrianized Middle Kingdom. Created

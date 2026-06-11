@@ -18,8 +18,8 @@ reliability_notes: >
   here is an Internet Archive OCR conversion of the EPUB; proper names carry OCR
   noise (e.g. "Cnossus" = Knossos, "Ammenemes" = Amenemhat, "Khattusha" =
   Hattusha, "Seqenenre", "Iakhdunlim" = Yakhdun-Lim).
-pages_created: 26
-pages_updated: 8
+pages_created: 33
+pages_updated: 10
 ingested: 2026-06-11
 tags: [source]
 ---
@@ -169,8 +169,28 @@ and `[[hattusha]]` forward-links from Sections 1–3. (Troy VI's fuller Aegean
 synchronism and the **Late Bronze Age period page** remain for Section 5 / the
 synthesis pass.)
 
----
+## 2026-06-11 section | CAH Vol. II.1 | Section: 5 — The Aegean: Minoan Crete, the scripts & Mycenaean origins (Chs. IV(a–c), XII, XIII(a–b), XIV) | Pages created: 7 | Pages updated: 2
 
-## Volume Synthesis Note
+Created: `processes/minoan-civilization.md`, `places/knossos.md`,
+`processes/mycenaean-civilization.md`, `places/mycenae.md`, `places/cyprus.md`,
+`concepts/aegean-scripts.md`, `controversies/fall-of-knossos.md`.
+Updated: `places/lerna.md` (the MH Lerna V/VI type-sequence & shaft graves),
+`events/coming-of-the-greeks-1900bce.md` (Caskey's reassessment & the Blegen–Haley
+place-name argument).
+Key content: Caskey on **Middle Helladic** Greece (Minyan ware, the pre-Greek
+toponyms, the [[lerna|Lerna]] sequence, the first Greeks); Matz on the **maturity
+and zenith of [[minoan-civilization|Minoan]] civilization** — the Early- and
+Late-Palace periods, [[knossos|Knossos]] and the palace economy, the unfortified
+"thalassocracy," fresco/gem art, Minoan religion (the mother-goddess, double-axe,
+bull-leaping, epiphany without cult-images), and the Thera eruption; Catling on
+**Middle Cypriot [[cyprus|Cyprus]]** (insularity → the eastward move and Levantine
+trade, the "Alashiya" copper question); Dow & Chadwick on the **[[aegean-scripts|
+Aegean scripts]]** (Cretan Pictographic, undeciphered Linear A, the Phaestus Disk,
+and Ventris's 1952 Linear-B-is-Greek decipherment and the palace-economy tablets);
+and Stubbings on the **rise of [[mycenaean-civilization|Mycenaean]] civilization**
+(the [[mycenae|Mycenae]] Shaft Graves, the Egyptian connexion, the Danaus/Hyksos and
+Pelops legends, tholos tombs, and the Mycenaean takeover of Knossos). Promoted the
+**[[fall-of-knossos|date/agency of the fall of Knossos]]** (Evans vs. Palmer) to a
+controversy page. Only Section 6 (the Persian Plateau) and the close-out remain.
 
 <!-- Written in Step 3, after all sections are processed. -->

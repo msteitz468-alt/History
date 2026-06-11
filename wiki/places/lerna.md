@@ -6,8 +6,8 @@ coordinates: [37.55 N, 22.72 E]
 period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age]
 controlled_by: [[[early-bronze-age-aegean|Early Helladic communities]]]
 events_here: [[[coming-of-the-greeks-1900bce]]]
-processes_here: [[[early-bronze-age-aegean]], [[urbanization]]]
-sources_ingested: 1
+processes_here: [[[early-bronze-age-aegean]], [[urbanization]], [[mycenaean-civilization]]]
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, mediterranean, early-bronze-age]
 ---
@@ -33,8 +33,17 @@ sequence:
   rebuilt many times.
 - **Lerna IV** (EH III) — the post-catastrophe town of **apsidal houses**, new
   pottery, the potter's wheel, and the first grey ware.
-- **Lerna V** (Middle Helladic) — a typical MH town, with Minoan **M.M. Ia**
-  imports in its earliest level.
+- **Lerna V** (Middle Helladic) — a typical MH town. **[[edwards-cah-v2p1-1973|CAH
+  Vol. II.1]]** (Caskey) makes it the **type-sequence of the Middle Helladic
+  period**: succeeding Lerna IV *without violence*, it carries on the apsidal houses
+  and grey **Minyan** ware while adding Matt-painted and lustrous wares, **intramural
+  burials**, the first true **horse** bones (*equus caballus*), and a run of dated
+  **Minoan imports** (M.M. Ia → III) that peg the whole MH chronology (a Lerna V
+  radiocarbon date of 1948 ± 117 BCE).
+- **Lerna VI** (the Shaft Grave period) — two large **royal shaft graves**,
+  contemporary with Grave Circle B at **[[mycenae|Mycenae]]**, mark the
+  [[mycenaean-civilization|Late Helladic]] transition; one was cut into ground that
+  had been **taboo** all through the MH period — a hint of a new régime.
 
 ## The House of the Tiles
 
@@ -81,6 +90,7 @@ non-Indo-European people is **not** settled by the archaeology. See
 
 ## Related
 
-- Process: [[early-bronze-age-aegean]] · [[urbanization]] · Event: [[coming-of-the-greeks-1900bce]]
-- Place: [[troy]] · Period: [[early-bronze-age]] · [[middle-bronze-age]]
+- Process: [[early-bronze-age-aegean]] · [[urbanization]] · [[mycenaean-civilization]] · Event: [[coming-of-the-greeks-1900bce]]
+- Place: [[troy]] · [[mycenae]] · Period: [[early-bronze-age]] · [[middle-bronze-age]] · [[late-bronze-age]]
 - Controversy: [[indo-european-origins]] · Migration: [[indo-european-migrations]]
+- Source: [[edwards-cah-v1p2-1971]] · [[edwards-cah-v2p1-1973]]
