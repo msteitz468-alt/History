@@ -194,4 +194,76 @@ greek-dark-age links from Section 4 — its forward-links now resolve).
 
 <!-- Section logs appended below as each cycle completes. -->
 
-<!-- Volume Synthesis Note written in Step 3, after all sections are processed. -->
+## Volume Synthesis Note
+
+**The argument of the volume.** CAH II.2 is the history of a single, integrated
+**Late Bronze Age world-system — its climax, its collapse, and what crawled out of
+the wreckage.** Its through-line is the rise and fall of an interconnected order of
+great powers. The volume opens at the **[[amarna|Amarna]]** zenith, where Egypt,
+[[mitanni|Mitanni]], [[hittites|Ḫatti]], [[kassites|Kassite Babylon]], and
+[[assyria-middle|Assyria]] correspond as peers in a documented international system
+([[amarna-letters|the Amarna letters]], [[interpolity-law|treaty diplomacy]]). It
+tracks the long Egyptian–Hittite duel for Syria to its resolution in the first
+recorded peace treaty ([[battle-of-qadesh-1274bce|Qadesh]] →
+[[egyptian-hittite-treaty-1259bce|the treaty of 1259]]); the parallel rise of
+Assyria to the sack of Babylon under [[tukulti-ninurta-i|Tukulti-Ninurta I]]; and
+the Aegean's Mycenaean apogee. Then, around **1200 BCE**, the whole edifice fails:
+the [[bronze-age-collapse-1200bce|Bronze Age Collapse]], the
+[[sea-peoples|Sea Peoples]], the fall of Ḫatti and the
+[[mycenaean-civilization|Mycenaean palaces]]. The volume's second half is the
+**Early Iron Age recovery on new terms** — the [[arameans|Aramaean]] and
+[[hittites|Neo-Hittite]] states, the [[phoenicians|Phoenician]] cities and their
+alphabet, the [[philistines|Philistines]], the [[hebrew-kingdom|Hebrew kingdom]] of
+[[david|David]] and [[solomon|Solomon]], the [[nebuchadnezzar-i|Babylonian]] and
+[[tiglath-pileser-i|Assyrian]] revivals, and the [[greek-dark-age|Greek Dark Age]]
+that runs down through the migrations to [[homer|Homer]].
+
+**What it adds to the wiki.** This is the volume that **resolves the great gap
+flagged at the end of the [[late-bronze-age|Late Bronze Age]] period page** and
+turns the [[early-iron-age|Early Iron Age]] from a thin CWH-IV overview into a
+densely documented narrative for the Near East and Aegean of 1380–1000 BCE. It
+contributes 46 new pages and 28 updates across the full causal chain — the
+international-system actors and their wars; the collapse as a multi-causal
+[[bronze-age-collapse-1200bce|transition]]; the Iron-Age successor states; and the
+entire **Greek-prehistory cluster** (the [[dorians|Dorians]],
+[[dorian-invasion-1120bce|the Dorian invasion]],
+[[ionian-migration-1050bce|the Ionian migration]],
+[[coming-of-the-greeks-1900bce|the prehistory of the Greek language]],
+[[greek-religion-and-mythology|Greek religion]], and the
+[[homeric-poems-as-history|Homeric Question]]). It also seeds four standing
+controversies in the CLAUDE.md register: the causes of the
+[[bronze-age-collapse-1200bce|Bronze Age Collapse]], the
+[[the-exodus|historicity of the Exodus]], the [[ahhiyawa-question|Aḫḫiyawa
+question]], and the [[homeric-poems-as-history|reliability of Homer]].
+
+**Method and the layered datedness of the volume.** CAH II.2 is a peer-reviewed
+reference of the **highest tier** in the collection, and it should carry presumptive
+weight — but it is **stratified by date of composition**. Several contributors
+(Albright, Černý, Eissfeldt, Goetze, Labat) had died before the 1975 publication,
+so chapters reflect 1960s scholarship; the Hebrew-kingdom and Exodus chapters carry
+a **mid-century biblical-historical confidence** (the "[[reliability-of-herodotus|
+maximalist]]" Albright/de Vaux school) substantially qualified by later minimalism.
+The chronology is the conventional/high system of its day: where the wiki cites
+absolute dates (the Sea Peoples, the Egyptian Third Intermediate Period, the
+Mycenaean ceramic phases, Albright's idiosyncratic high Egyptian dates), these are
+flagged on the relevant pages. The Aegean chapters, by contrast — Desborough,
+Hammond, Cook, Chadwick (a Linear B decipherer), Kirk, Guthrie — represent a
+**post-1952, post-Ventris** synthesis that is still broadly serviceable.
+
+**Cross-volume tensions.** The volume's greatest internal and external tension is
+the **collapse**: CAH II.2 (1975) presents the [[sea-peoples|Sea Peoples]] largely
+at face value as a migratory **prime mover** that brought the empires down, whereas
+the later [[benjamin-cwh-v4-2015|CWH IV]] and the post-1990 climate science treat
+them substantially as a **symptom** of a systemic collapse driven by drought,
+trade-network failure, and palace-economy fragility — the cause-weighting recorded
+(not adjudicated) on the [[bronze-age-collapse-1200bce|collapse page]]. The
+**[[dorian-invasion-1120bce|Dorian invasion]]** and the **[[homer|Homeric]]**
+tradition show the same fault-line between the volume's confidence in the literary
+tradition (Hammond's genealogies; the historical kernel of the *Iliad*) and later
+scepticism. Read against [[edwards-cah-v2p1-1973|Vol. II.1]] (its direct
+predecessor) and CWH IV (its thematic successor), CAH II.2 is the indispensable
+**high-resolution spine** for the 14th–11th centuries: most authoritative where it
+narrates the documented great-power system, most in need of qualification where it
+reconstructs migrations, biblical history, and the causation of the collapse. The
+continuation — **CAH III.1–III.2** (the 10th–8th centuries) — remains unsourced and
+is the natural next step (see [[../../Outstanding Sources|Outstanding Sources]]).

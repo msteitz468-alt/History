@@ -1,6 +1,6 @@
 # World History Wiki — Master Catalog
 
-Last updated: 2026-06-11 (CAH Vol. II, Part 1 complete — The Middle East and the Aegean Region, c. 1800–1380 BC; 35 pages created, 10 pre-existing pages updated, across the Large-Volume Protocol's 6 section cycles)
+Last updated: 2026-06-11 (CAH Vol. II, Part 2 complete — The Middle East and the Aegean Region, c. 1380–1000 BC; 46 pages created, 28 pre-existing pages updated, across the Large-Volume Protocol's 6 section cycles. Resolved the Late-Bronze-Age gap and built out the Early Iron Age and the Greek Dark Age.)
 
 This index lists every page in the wiki. Update after every ingest session.
 Entries are grouped by directory. Within each group, pages are listed in
@@ -21,8 +21,9 @@ creation order with a one-line description.
 | `chalcolithic.md` | Chalcolithic | 5,500–3,300 BCE | moderate |
 | `early-bronze-age.md` | Early Bronze Age | 3,300–2,100 BCE | strong |
 | `middle-bronze-age.md` | Middle Bronze Age | 2,100–1,550 BCE | strong |
-| `late-bronze-age.md` | Late Bronze Age | 1,550–1,200 BCE | moderate |
+| `late-bronze-age.md` | Late Bronze Age | 1,550–1,200 BCE | strong |
 | `early-iron-age.md` | Early Iron Age | 1,200–800 BCE | moderate |
+| `greek-dark-age.md` | Greek Dark Age (Aegean sub-period of the Early Iron Age) | c. 1,200–800 BCE | strong |
 | `archaic-period.md` | Archaic Period | 800–500 BCE | strong |
 | `classical-antiquity.md` | Classical Antiquity | 500–31 BCE | strong |
 | `late-antiquity.md` | Late Antiquity | 31 BCE–600 CE | strong |
@@ -200,27 +201,29 @@ creation order with a one-line description.
 | `edwards-cah-v1p1-1970.md` | The Cambridge Ancient History, Volume I, Part 1: Prolegomena and Prehistory (3rd ed.) | 1970 | reference |
 | `edwards-cah-v1p2-1971.md` | The Cambridge Ancient History, Volume I, Part 2: Early History of the Middle East (3rd ed.) | 1971 | reference |
 | `edwards-cah-v2p1-1973.md` | The Cambridge Ancient History, Volume II, Part 1: The Middle East and the Aegean Region, c. 1800–1380 BC (3rd ed.) | 1973 | reference |
+| `edwards-cah-v2p2-1975.md` | The Cambridge Ancient History, Volume II, Part 2: The Middle East and the Aegean Region, c. 1380–1000 BC (3rd ed.) | 1975 | reference |
 
 ---
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the CAH Vol. II, Part 1 ingest (the
+Counts reflect actual files on disk as of the CAH Vol. II, Part 2 ingest (the
 detailed catalog tables above are maintained selectively and may lag the totals;
-the bulk of this volume's 35 new pages — the Bronze-Age actors, places and Aegean
-material — are catalogued in the source page and `log.md` rather than relisted here).
+the bulk of this volume's 46 new pages — the Amarna/Iron-Age Near-East actors and
+the Aegean Dark-Age material — are catalogued in the source page and `log.md`
+rather than relisted here).
 
 | Category | Pages |
 |---|---|
-| Periods | 23 |
-| Events | 21 |
+| Periods | 24 |
+| Events | 28 |
 | Processes | 68 |
-| Actors | 90 |
-| Places | 46 |
-| Concepts | 69 |
+| Actors | 117 |
+| Places | 48 |
+| Concepts | 75 |
 | Comparisons | 0 |
-| Controversies | 23 |
+| Controversies | 26 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 10 |
-| **Total** | **350** |
+| Sources | 11 |
+| **Total** | **397** |

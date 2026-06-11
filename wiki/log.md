@@ -11,6 +11,25 @@ Format:
 
 ---
 
+## 2026-06-11 ingest-complete | The Cambridge Ancient History, Vol. II, Part 2 (1975) — The Middle East and the Aegean Region, c. 1380–1000 BC | Total pages created: 46 | Total pages updated: 28 | Sections processed: 6
+
+Full Large-Volume-Protocol ingest of CAH II.2 complete (the direct continuation of
+CAH II.1). Six section cycles carried the eastern Mediterranean from the Amarna
+zenith through the ~1200 BCE Bronze Age Collapse into the Early Iron Age: (1) the
+Amarna age and the struggle for Syria; (2) Ḫatti, Ugarit, Troy and the Mycenaean
+zenith; (3) the 19th-Dynasty–Hittite–Assyrian clash of empires (Qadesh and the first
+peace treaty); (4) the collapse — Sea Peoples, the Aegean recession, the Exodus
+traditions, Elam, Phrygia; (5) the Iron-Age Near East — Assyria/Babylon, Elam,
+Syria/Philistia/Phoenicia, the Hebrew kingdom, late-Ramesside Egypt; (6) the Greek
+world after the Bronze Age — the Dark Age, the Dorian and Ionian migrations, Homer,
+the Greek language and religion, and the western Mediterranean. Step 3 synthesis pass
+done (Volume Synthesis Note on the source page). Step 4: the source is already in
+converted-markdown form in `raw/Markdown/` (no PDF to convert/delete), consistent with
+the filing of CAH II.1; left in place. index.md statistics and the Late-Bronze-Age
+coverage upgrade refreshed. This volume resolved the Late-Bronze-Age gap and turned
+the Early Iron Age and Greek Dark Age into densely sourced narratives. Next backbone
+volume: CAH III.1 (the Near East and Aegean, c. 1000–800/700 BCE) — unsourced.
+
 ## 2026-06-11 section | CAH Vol. II, Part 2 (1975) | Section 6: The Greek World after the Bronze Age — the Dark Age, the migrations, Homer, Greek language & religion (Ch. XXXVI–XL) | Early Iron Age | aegean, anatolia, mediterranean-world, western-europe | Pages created: 9 | Pages updated: 5
 
 Section 6 — the final content section — covers the Aegean and western Mediterranean
