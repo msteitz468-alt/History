@@ -11,6 +11,60 @@ Format:
 
 ---
 
+## 2026-06-11 ingest-complete | The Cambridge Ancient History Vol. I, Part 2: Early History of the Middle East (Edwards, Gadd & Hammond, eds., 1971) | Total pages created: 46 | Total pages updated: 9 | Sections processed: 10
+
+Large-Volume Protocol complete. Ten section cycles covering Egypt (Early Dynastic →
+Old Kingdom → Middle Kingdom), Mesopotamia (Early Dynastic Sumer → Akkad → Ur III),
+Elam, the Early Bronze Levant and Syria, Anatolia and the Old Assyrian trade, the
+Early Bronze Aegean and Cyprus, and the Indo-European migrations. Step 3 synthesis
+pass done (Volume Synthesis Note on the source page: the ~2200 BCE crisis horizon,
+the Amorite/highlander pincer, the origin of historical chronology, and the
+volume's historiographical caution). `index.md` updated (header, Middle Bronze Age
+period row, source row, summary statistics → 314 pages). Source filed to
+`raw/5. Ancient & Classical Civilizations Series/Cambridge Ancient History (14 Books) [Complete]/`
+(already `.md`; no PDF). Hands off to CAH Vol. II.
+
+## 2026-06-11 section | The Cambridge Ancient History Vol. I, Part 2: Early History of the Middle East (Edwards, Gadd & Hammond, eds., 1971) | Section 10: The Aegean EBA & the Indo-Europeans (Chs. XXVI–XXVII) | Pages created: 4 | Pages updated: 4
+
+Created `processes/early-bronze-age-aegean.md` (the Early Helladic/Cycladic/Early
+Minoan world — Melian obsidian, Cycladic marble figurines, the EH II sauceboat
+florescence, the prepalatial Minoan foundation, Cyprus's EBA beginning ~2300 BCE),
+`places/lerna.md` (the Argolid type-site, the "House of the Tiles" and the
+end-EH II destruction horizon), `processes/indo-european-migrations.md` (Crossland's
+cautious, anti-romantic treatment — the horse not the chariot, political not
+technological impact, the Pontic-leaning but unidentified homeland, the
+peripheral-archaism dialectology and early Anatolian split), and
+`events/coming-of-the-greeks-1900bce.md` (the disputed ~1900 BCE arrival of
+Greek-speakers; Minyan ware; the Mellaart/Palmer debate). Updated
+`controversies/indo-european-origins.md` (a full Crossland-reassessment section,
+sited between the steppe consensus and the Indo-Hittite tradition),
+`periods/early-bronze-age.md` and `periods/middle-bronze-age.md` (the Aegean strand
+and the Indo-European arrivals), and `places/troy.md` (Aegean trade links and the
+Minyan-ware origin debate). Key content: Ch. XXVI(a) (Caskey) — Greece, Crete and
+the Aegean islands in the EBA, the EH II catastrophe proven at Lerna; Ch. XXVI(b) —
+Early Cypriot (Philia vs. Vounous), synchronised with the Anatolian end-EB2
+catastrophe; Ch. XXVII (Crossland) — "Immigrants from the North": the
+Indo-European problem, earliest attestations (Hittite-Luwian, Mitanni "Aryans",
+Linear B Greek), the homeland (Gimbutas/Merpert/Thieme), and the impact of the
+northerners.
+
+## 2026-06-11 section | The Cambridge Ancient History Vol. I, Part 2: Early History of the Middle East (Edwards, Gadd & Hammond, eds., 1971) | Section 9: Anatolia & Assyria in the Old Assyrian Period (Chs. XXIV–XXV) | Pages created: 5 | Pages updated: 3
+
+Created `processes/old-assyrian-trade.md` (the Ashur↔Anatolia tin/textile-for-silver
+caravan network, the kārum system, eponym dating, the great merchant firms, temporary
+marriages, Pitkhana/Anitta as Hittite forerunners), `places/kultepe.md` (Kanesh/Neša,
+the lower-town kārum archive — Anatolia's entry into written history),
+`places/ashur.md` (city-god-state; pre-Semitic Hurrian/Subarian origins, Akkadian and
+Ur III vassalage, "king" reserved for the god Ashur, the Assyrian devotion to the
+Akkadian imperial ideal), `actors/shamshi-adad-i.md` (the Amorite builder of the first
+Assyrian territorial empire; Shubat-Enlil; the Mari archives; analogous to Hammurabi),
+and `concepts/assyrian-king-list.md` (the King List + eponym/limmu canon as a rigorous
+sequential chronology, the "17 kings who lived in tents" as tribal ancestors, contrasted
+with the Sumerian King List). Updated `processes/early-bronze-age-anatolia.md` (Old
+Assyrian trade as its documented heir), `periods/middle-bronze-age.md` (Assyria and
+Shamshi-Adad), and `concepts/sumerian-king-list.md` (contrast with the Assyrian
+sequential method).
+
 ## 2026-06-11 section | The Cambridge Ancient History Vol. I, Part 2: Early History of the Middle East (Edwards, Gadd & Hammond, eds., 1971) | Section 8: Ur III and Elam (Chs. XXII–XXIII) | Pages created: 5 | Pages updated: 5
 
 Created `actors/third-dynasty-of-ur.md` (the Neo-Sumerian bureaucratic empire),

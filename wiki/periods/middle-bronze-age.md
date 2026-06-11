@@ -58,15 +58,28 @@ CAH Vol. II.
   pastoralists, single-burial tombs, no walled towns), the Levant is **re-urbanized**
   in the Middle Bronze Age proper as a network of fortified **Canaanite/Amorite
   city-states**, with [[byblos|Byblos]] again the great Egyptian-facing port.
-- **The Old Assyrian trade network** — Assyrian merchant colonies (*kārum*) at
-  [[kultepe|Kanesh]] in Anatolia (to be detailed from CAH Ch. XXIV) knit Ashur to
-  the Anatolian metal market — the documented heir of the EBA
-  [[early-bronze-age-anatolia|Anatolian metal economy]].
+- **The Old Assyrian trade network** — the [[old-assyrian-trade|Assyrian merchant
+  colonies (*kārum*)]] at [[kultepe|Kanesh]] knit [[ashur|Ashur]] to the Anatolian
+  metal market in **tin and textiles for silver** — the documented heir of the EBA
+  [[early-bronze-age-anatolia|Anatolian metal economy]], and the moment Anatolia
+  first enters written history. Out of [[ashur|Ashur]] the Amorite
+  **[[shamshi-adad-i|Shamshi-Adad I]]** (~1813–1781 BCE) built the **first Assyrian
+  territorial empire** over Upper Mesopotamia, ruling from Shubat-Enlil with his
+  sons over Mari and Ekallatum — the proof-of-concept for the later Assyrian
+  conquest-state, and a contemporary of Hammurabi.
+- **Indo-European arrivals.** The [[indo-european-migrations|Indo-European
+  migrations]] become historically visible in this period: Indo-European names in
+  the [[kultepe|Kültepe]] tablets and the Hittite-Luwian languages of Anatolia, the
+  Indo-Iranian "Aryan" element among the Hurrians, and — on the Greek mainland —
+  the **[[coming-of-the-greeks-1900bce|coming of the Greeks]]** (~1900 BCE: Middle
+  Helladic, Minyan ware) out of the [[early-bronze-age-aegean|Aegean EBA]]. In
+  Crete the Minoan palaces arise instead by unbroken local development.
 
 ## Key Actors
 
 - The [[third-dynasty-of-ur|Third Dynasty of Ur]] (Ur-Nammu, Shulgi); the
-  [[amorites|Amorite]] kingdoms; [[mari|Mari]]; Old Assyria.
+  [[amorites|Amorite]] kingdoms; [[mari|Mari]]; Old Assyria
+  ([[ashur|Ashur]], [[shamshi-adad-i|Shamshi-Adad I]]).
 - The [[middle-kingdom-egypt|Egyptian Middle Kingdom]] (Mentuhotpe II;
   Amenemhat I–III; [[senwosret-iii|Senwosret III]]).
 - The Canaanite city-states of the revived Levant; the princes of [[byblos|Byblos]].
@@ -118,5 +131,7 @@ monographs.
 - States: [[middle-kingdom-egypt]] · [[third-dynasty-of-ur|Third Dynasty of Ur]] · [[amorites]]
 - Events: [[reunification-of-egypt-2040bce]] · [[gutian-invasion]] · Process: [[first-intermediate-period]]
 - People: [[mentuhotpe-ii]] · [[senwosret-iii]]
-- Places: [[byblos]] · [[mari]] · [[jericho]] · [[kultepe]] · [[ur]]
-- Process: [[early-bronze-age-anatolia]] · [[early-bronze-age-levant]] · [[trade-network-formation]]
+- Places: [[byblos]] · [[mari]] · [[jericho]] · [[kultepe]] · [[ashur]] · [[ur]] · [[lerna]]
+- People: [[shamshi-adad-i]] · [[amorites]]
+- Process: [[old-assyrian-trade]] · [[early-bronze-age-anatolia]] · [[early-bronze-age-aegean]] · [[early-bronze-age-levant]] · [[indo-european-migrations]] · [[trade-network-formation]]
+- Event: [[coming-of-the-greeks-1900bce]] · Concept: [[assyrian-king-list]] · Controversy: [[indo-european-origins]]

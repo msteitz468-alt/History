@@ -69,6 +69,18 @@ king of Ur") allow whole blocks of nominally successive dynasties to be collapse
 - It bears directly on Mesopotamian [[mesopotamian-chronology|chronology]], since
   naïve summation of its reigns is one source of inflated early dates.
 
+## Contrast: the Assyrian method
+
+The Sumerian King List embodies the **opposite** of the chronological apparatus the
+Assyrians later devised. Where this list *stacks* the dynasties of rival
+city-states **end-to-end as if successive** — a theological scheme of a single,
+divinely-rotated "kingship" — the [[assyrian-king-list|Assyrian King List and eponym
+(limmu) canon]] tie a **sequential annual count** to the royal sequence, producing a
+genuinely usable relative chronology. The difference is not merely technical: it
+reflects a distinctively **Assyrian interest in history** against a Sumerian-Babylonian
+preference for theological pattern over sequence — the reason Assyrian dates are
+far more securely reconstructible than Babylonian ones.
+
 ## Related
 
 - State: [[early-dynastic-sumer]] · Places: [[ur]] · [[lagash]] · [[uruk]] · [[eridu]]

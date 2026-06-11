@@ -18,8 +18,8 @@ reliability_notes: >
   superseded. Egyptian dates use the conventional New-Kingdom-anchored low
   framework of the period. See [[cambridge-ancient-history-methodology]] for the
   series' vintage caveats.
-pages_created: 0
-pages_updated: 0
+pages_created: 46
+pages_updated: 9
 ingested: 2026-06-11
 tags: [source]
 ---
@@ -185,6 +185,106 @@ In-Shushinak, Nahhunte) and the isolate language; Elam's revenge on Ur. Repointe
 the `[[third-dynasty-of-ur]]` links that earlier sections had piped through
 `mesopotamian-chronology`.
 
+**Section 9 — Anatolia & Assyria in the Old Assyrian Period (Chs. XXIV–XXV).**
+Created `processes/old-assyrian-trade.md`, `places/kultepe.md`, `places/ashur.md`,
+`actors/shamshi-adad-i.md`, `concepts/assyrian-king-list.md`. Updated
+`processes/early-bronze-age-anatolia.md`, `periods/middle-bronze-age.md`,
+`concepts/sumerian-king-list.md`. Key content: Ch. XXIV(b) (Garelli/Orlin) — the
+Old Assyrian commerce: Ashur's merchant houses running tin and textiles by donkey
+caravan into Anatolia for silver and gold; Ilushuma/Erishum I's trade-liberalization
+and the abolition of the copper monopoly; the kārum/wabartum colony system at
+[[kultepe|Kanesh]]; family firms (Pushu-ken, Imdi-ilum) traced over three
+generations; eponym (limmu) dating allowing year-by-year reconstruction; dissoluble
+local marriages; the mixed Hittite/Luwian/Hurrian/Assyrian/Amorite population;
+Pitkhana and Anitta of Kushshara as Hittite forerunners (Neša → "Nešili"). Ch. XXV
+(Munn-Rankin/Landsberger) — the city-god-state of Ashur; pre-Semitic
+Hurrian/Subarian substrate; "king" reserved for the god Ashur (rulers as
+*waklum*/*iššiakkum*); the Assyrian cherishing of the Akkadian imperial ideal
+(against Babylonian contempt); Shamshi-Adad I, the Amorite builder of the first
+Assyrian territorial empire (Shubat-Enlil, sons over Mari and Ekallatum, the Mari
+archives, "king of the universe," the 350-year *šūru*-cycles); the Assyrian King
+List and eponym canon as a rigorous sequential chronology (the "17 kings who lived
+in tents" as tribal ancestors), explicitly contrasted with the schematizing
+Sumerian King List.
+
+**Section 10 — The Aegean EBA & the Indo-Europeans (Chs. XXVI–XXVII).** Created
+`processes/early-bronze-age-aegean.md`, `places/lerna.md`,
+`processes/indo-european-migrations.md`,
+`events/coming-of-the-greeks-1900bce.md`. Updated
+`controversies/indo-european-origins.md`, `periods/early-bronze-age.md`,
+`periods/middle-bronze-age.md`, `places/troy.md`. Key content: Ch. XXVI(a)
+(Caskey) — Greece, Crete and the Aegean islands in the Early Bronze Age: the
+Helladic/Cycladic/Minoan provinces; Melian obsidian and the marble figurines; the
+EH/EC II sauceboat florescence and the fortified centres ([[lerna|Lerna]]'s House
+of the Tiles, Tiryns, Chalandriani); the **end-EH II catastrophe** proven by the
+Lerna excavation; the unbroken prepalatial development of Minoan Crete. Ch. XXVI(b)
+— Early Cypriot, beginning ~2300 BCE in synchronism with (and perhaps as an outcome
+of) the Anatolian end-EB2 catastrophe; the Philia-vs-Vounous controversy; Red
+Polished ware. Ch. XXVII (Crossland) — "Immigrants from the North": the
+Indo-European problem stripped of its "Aryan" romance; earliest attestations
+(Hittite-Luwian via Bogazköy and the [[kultepe|Kültepe]] names; Indo-Iranian
+"Aryan" names among the Mitanni Hurrians; Linear B Greek); the homeland debate
+(Gimbutas's Kurgan model vs. Merpert's Lower-Volga chronology vs. Thieme's northern
+Europe — Crossland leaning Pontic but calling it unidentified); the
+peripheral-archaism dialectology arguing an early Anatolian split; and the "impact
+of the northerners" (the horse, not the chariot; political state-formation, not
+technology). Re-pointed the [[indo-european-origins]] controversy from the
+EBA-Anatolia "Luwian" horizon to Crossland's fuller, more cautious framing.
+
 ## Volume Synthesis Note
 
-_(written after all sections, Step 3)_
+CAH I.2 covers the **first two millennia of literate civilization** (~3300–1800
+BCE) across the whole arc from the Aegean to the Iranian plateau, and its great
+structural achievement is to treat that arc as **one interconnected world** rather
+than a set of national prehistories. Read whole, the volume tells a single braided
+story: the rise of the first city-states and the first empire in Mesopotamia
+([[early-dynastic-sumer]] → [[akkadian-empire]] → [[third-dynasty-of-ur]]), the
+parallel and largely independent trajectory of pharaonic Egypt
+([[early-dynastic-egypt]] → [[old-kingdom-egypt]] → [[middle-kingdom-egypt]]), and
+the "secondary" but rapidly developing peripheries — the [[early-bronze-age-levant|Levant]],
+[[early-bronze-age-anatolia|Anatolia]], [[elam|Elam]], and the
+[[early-bronze-age-aegean|Aegean]] — knit to the cores by **trade in metals,
+timber, and stone**. The forty-six new pages and nine enriched ones from this
+volume give the wiki its first dense coverage of the Bronze Age core.
+
+Three cross-cutting arguments emerge only at the whole-volume level. First, a
+**~2200 BCE crisis horizon** recurs in chapter after chapter written
+independently: the fall of [[akkadian-empire|Akkad]] (the [[gutian-invasion]]), the
+collapse of the Egyptian Old Kingdom (the [[first-intermediate-period]]), the
+end of the urban Levant (Kenyon's EB–MB interlude), the end-EB2 catastrophe in
+[[troy|Anatolia]], and the violent close of [[lerna|Early Helladic II]] in Greece.
+The volume's authors explain each politically and locally; the wiki has surfaced
+the synchronism in [[societal-collapse-and-environmental-determinism]] alongside the
+modern 4.2-kiloyear climate thesis the CAH predates (no [CONTRADICTION] — a genuine
+generational advance, not a conflict). Second, a **west-plus-east pincer of
+peoples** drives the political turnover of the late third and early second
+millennia: the Semitic [[amorites|Amorites]] (*martu/amurru*) pressing from the
+Syrian steppe and the highland peoples ([[elam|Elamites]], Gutians,
+Hurrians/Subarians) from the Zagros — together ending both Akkad and Ur, and
+seeding the [[shamshi-adad-i|Amorite]] and Hammurabic kingdoms of the next volume.
+Third, the volume documents the **origin of historical chronology itself**: the
+contrast between the theological, dynasty-stacking [[sumerian-king-list|Sumerian
+King List]] and the rigorous sequential [[assyrian-king-list|Assyrian eponym
+canon]] is the methodological backbone on which all the dates hang.
+
+The volume is also a sustained lesson in **historiographical caution**, which the
+wiki has tried to preserve rather than flatten. Its best chapters are explicit
+about the limits of evidence: Caskey refusing to name the destroyers of Lerna,
+Crossland stripping the "Aryan" romance from the [[indo-european-migrations|Indo-European
+migrations]] and demoting the chariot, Gadd weighing the Sumerian–Semite question
+as linguistic not racial. Where the volume now reads as dated — Mellaart's
+[[indo-european-origins|Luwian-invasion]] model and the discredited Dorak treasure,
+the uncalibrated radiocarbon, the migrationist reflex — the wiki has flagged it in
+the relevant historiography sections and in the standing controversies, while
+keeping the durable empirical core.
+
+Cross-volume tensions with already-ingested sources are minor and mostly
+**chronological-method** ones: CAH I.2 writes before the 4.2ka climate synthesis,
+before the calibration revolution, and before ancient-DNA transformed the
+[[indo-european-origins|Indo-European debate]] — all tracked on the relevant
+controversy pages. Its presumptive authority (per CLAUDE.md) stands for the
+political and archaeological narrative; its absolute dates and its migration models
+are the parts to hold loosely. The volume hands off cleanly to **CAH Vol. II**
+(the Hittite Old Kingdom, Hammurabi's Babylon, the Mari archives, Mitanni and the
+"Aryan" Hurrians, the Minoan palaces and Mycenaean Greece) — every one of which it
+has set up here with a forward-linked stub or controversy.

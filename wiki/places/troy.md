@@ -65,7 +65,9 @@ trade to the Cycladic islands and the Greek mainland (Early Helladic).
 
 Troy II ended in a **great fire** (c. 2300 BCE) — part of the broad
 **end-EB2 catastrophe** that burned settlements across western and central
-Anatolia (see [[early-bronze-age-anatolia]]).
+Anatolia (see [[early-bronze-age-anatolia]]). The depas cup, sauceboats and seal
+designs tie Troy II tightly to the [[early-bronze-age-aegean|Early Bronze Age
+Aegean]] across the Hellespont — the islands and the Greek mainland of Lerna's day.
 
 ## Troy III–V (c. 2300–1900 BCE)
 
@@ -74,7 +76,11 @@ III–V), continuing through the end of the Early Bronze Age into the Middle Bro
 Age but never recovering the splendour of Troy II. The site's next great phase —
 the broad, well-built citadel of **Troy VI** — belongs to the
 [[middle-bronze-age|Middle]] and [[late-bronze-age|Late Bronze Age]] and the world
-of the Hittites and Mycenaeans.
+of the Hittites and Mycenaeans. The grey **"Minyan"-type wares** of the Troy V–VI
+horizon stand at the centre of a debate over whether such pottery (and the
+**[[coming-of-the-greeks-1900bce|first Greek-speakers]]**) spread *from*
+north-western Anatolia *into* Greece (Mellaart) or the reverse — see
+[[indo-european-migrations]].
 
 ## Significance
 
@@ -101,7 +107,7 @@ and approximate. See [[cambridge-ancient-history-methodology]].
 
 ## Related
 
-- Process: [[early-bronze-age-anatolia]] · [[trade-network-formation]] · [[urbanization]]
-- Place: [[byblos]] · [[mari]] (other EBA emporia) · Transregional: [[mediterranean-world]]
+- Process: [[early-bronze-age-anatolia]] · [[early-bronze-age-aegean]] · [[trade-network-formation]] · [[urbanization]]
+- Place: [[byblos]] · [[mari]] (other EBA emporia) · [[lerna]] (the Aegean type-site) · Transregional: [[mediterranean-world]]
 - Period: [[early-bronze-age]] · [[middle-bronze-age]] · [[late-bronze-age]]
-- Controversy: [[indo-european-origins]] (the end-EB2 "Luwian" destructions)
+- Controversy: [[indo-european-origins]] (the end-EB2 "Luwian" destructions) · Migration: [[indo-european-migrations]]

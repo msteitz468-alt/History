@@ -102,6 +102,50 @@ Anatolian languages, addressed by **James Mellaart** in
   oldest concrete attempts to date the **Anatolian branch's** appearance from
   material evidence rather than from linguistic reconstruction alone.
 
+## Crossland's Reassessment (CAH XXVII) — the 1971 state of the question
+
+A second, fuller treatment in [[edwards-cah-v1p2-1971|CAH Vol. I, Part 2]] is
+**R. A. Crossland's** "Immigrants from the North" (Ch. XXVII), which is valuable as
+a careful, **deliberately anti-romantic** statement written just before calibration
+and DNA. Its positions:
+
+- **Linguistic, not racial.** Crossland strips out the "Aryan race" and the image of
+  "northern virility sweeping down in massed chariots." Same language ≠ same culture
+  or physique; the very existence of the Indo-Europeans "as a distinct and coherent
+  people" had, he notes, been questioned.
+- **Mechanism — the horse, not the chariot.** Like Albright (Position 3) he holds
+  the **war-chariot came late** (early 2nd millennium, probably from the
+  Hurrian/Iranian zone); the early advantage was simply the **horse** for raiding
+  and rapid movement. Their lasting contribution was **political** (state-formation:
+  the Hittite kingdom; "Aryan" leadership of the Hurrians) — "no important practical
+  innovation … except the use of the horse."
+- **Homeland — Pontic-leaning but agnostic.** He surveys **Gimbutas's** rapid
+  Kurgan dispersal (battle-axes, ochre-grave *kurgans*, Corded Ware) and **Merpert's**
+  longer Lower-Volga "Pit Grave" chronology — preferring Merpert's as a better fit
+  for the linguistic differentiation — and **rejects Thieme's** north-central-European
+  homeland. His verdict: the homeland is **"still unidentified,"** but the **Pontic
+  steppe** is the most probable area of origin for the movements of ~2500–2000 BCE.
+- **A dialectology argument for an early Anatolian split.** Crossland reads the
+  archaic features shared by **Hittite-Luwian, Italic, Celtic and Tocharian** (the
+  *-r* medio-passive; *kwi-* relatives; weak feminine gender) as **"peripheral
+  archaisms"** — branches carried out of the continuum *first* — while Greek,
+  Indo-Iranian, Germanic, Baltic and Slavonic stayed in contact and innovated (the
+  *centum→satem* shift being a late, central change). This **radial-dispersal**
+  model points to a centrally placed homeland and an *early* Anatolian divergence —
+  effectively an early cousin of today's "**Indo-Anatolian**" phylogenies and a
+  linguistic echo of the Indo-Hittite framing in Position 3.
+- **Greece ~1900 BCE.** He accepts the standard date for the first Greek-speakers
+  (Middle Helladic, Minyan ware) while noting the [[lerna|Lerna]] evidence pushes
+  part of the process back to the end of EH II — see
+  [[coming-of-the-greeks-1900bce]]. The whole treatment is captured in
+  [[indo-european-migrations|the migrations process page]].
+
+Crossland thus sits **between** the modern steppe consensus (he leans Pontic) and
+the cautious Indo-Hittite tradition (he takes the early Anatolian split seriously),
+and is a strong early voice **against** reading destruction layers — like the
+[[early-bronze-age-anatolia|end-EB2 "Luwian" horizon]] — as automatic proof of
+ethnic invasion.
+
 ## Where Things Stand
 
 **Partially resolved, tilting to the steppe.** Ancient DNA since 2015 has given the
@@ -121,3 +165,5 @@ diffusion) and the Anatolian-branch puzzle are a century old.
 - [[historical-linguistics-and-agriculture]] — language families as historical evidence.
 - [[migration-in-human-history]], [[eurasian-steppe]], [[pastoral-nomadism]].
 - [[early-bronze-age-anatolia]] — the end-EB2 "Luwian" destruction horizon.
+- [[indo-european-migrations]] — the migrations as a process (Crossland, CAH XXVII).
+- [[coming-of-the-greeks-1900bce]] · [[lerna]] — the Greek arrival and its key site.

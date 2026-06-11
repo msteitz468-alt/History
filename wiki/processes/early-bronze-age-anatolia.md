@@ -109,7 +109,10 @@ The EB2 catastrophe and a poorer EB3 recovery give way around 2000 BCE to the
 Middle Bronze Age, into which Anatolia enters as the destination of the
 [[kultepe|Assyrian merchant colonies]] — the moment Anatolia first becomes
 **visible in written records** (the Old Assyrian tablets of Kanesh), even though
-its own peoples still did not write.
+its own peoples still did not write. The [[old-assyrian-trade|Old Assyrian trade]]
+is the **documented heir of this metal economy**: the tin-poor, silver-and-gold-rich
+Anatolian market that the metal-wealth thesis *infers* for the EBA is exactly the
+market the Ashur merchant houses *exploit* in writing two centuries later.
 
 ## Historiography
 
@@ -129,6 +132,7 @@ contested. See [[cambridge-ancient-history-methodology]].
 ## Related
 
 - Place: [[troy]] · [[byblos]] · [[kultepe]] (later kārum)
+- Documented heir: [[old-assyrian-trade]] · [[ashur]]
 - Process: [[early-bronze-age-levant]] · [[trade-network-formation]] · [[urbanization]]
 - Controversy: [[indo-european-origins]]
 - Event/horizon: [[fall-of-old-kingdom-2160bce]] · [[4.2-kiloyear event|the ~2200 BCE crisis]]

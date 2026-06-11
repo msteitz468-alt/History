@@ -1,6 +1,6 @@
 # World History Wiki — Master Catalog
 
-Last updated: 2026-06-11 (Phase 2, vol. 1 complete — CAH Vol. I, Part 1: Prolegomena and Prehistory; 11 pages created, 10 updated)
+Last updated: 2026-06-11 (Phase 2, vol. 2 complete — CAH Vol. I, Part 2: Early History of the Middle East; 46 pages created, 9 pre-existing pages updated)
 
 This index lists every page in the wiki. Update after every ingest session.
 Entries are grouped by directory. Within each group, pages are listed in
@@ -19,7 +19,8 @@ creation order with a one-line description.
 | `mesolithic.md` | Mesolithic | 12,000–9,500 BP | moderate |
 | `neolithic.md` | Neolithic | 9,500–3,000 BCE (diachronous) | strong |
 | `chalcolithic.md` | Chalcolithic | 5,500–3,300 BCE | moderate |
-| `early-bronze-age.md` | Early Bronze Age | 3,300–2,100 BCE | weak |
+| `early-bronze-age.md` | Early Bronze Age | 3,300–2,100 BCE | strong |
+| `middle-bronze-age.md` | Middle Bronze Age | 2,100–1,550 BCE | strong |
 | `early-iron-age.md` | Early Iron Age | 1,200–800 BCE | moderate |
 | `archaic-period.md` | Archaic Period | 800–500 BCE | strong |
 | `classical-antiquity.md` | Classical Antiquity | 500–31 BCE | strong |
@@ -196,25 +197,26 @@ creation order with a one-line description.
 | `bentley-cwh-v6-2015.md` | The Cambridge World History, Volume VI: The Construction of a Global World, 1400–1800 CE (Book 2) | 2015 | reference |
 | `mcneill-cwh-v7-2015.md` | The Cambridge World History, Volume VII: Production, Destruction, and Connection, 1750–Present (Book 1) | 2015 | reference |
 | `edwards-cah-v1p1-1970.md` | The Cambridge Ancient History, Volume I, Part 1: Prolegomena and Prehistory (3rd ed.) | 1970 | reference |
+| `edwards-cah-v1p2-1971.md` | The Cambridge Ancient History, Volume I, Part 2: Early History of the Middle East (3rd ed.) | 1971 | reference |
 
 ---
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the CWH Vol. VII Book 1 ingest (the
+Counts reflect actual files on disk as of the CAH Vol. I, Part 2 ingest (the
 detailed catalog tables above are maintained selectively and may lag the totals).
 
 | Category | Pages |
 |---|---|
-| Periods | 21 |
-| Events | 12 |
-| Processes | 54 |
-| Actors | 52 |
-| Places | 27 |
-| Concepts | 62 |
+| Periods | 22 |
+| Events | 19 |
+| Processes | 63 |
+| Actors | 73 |
+| Places | 38 |
+| Concepts | 68 |
 | Comparisons | 0 |
-| Controversies | 20 |
+| Controversies | 22 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 7 |
-| **Total** | **255** |
+| Sources | 9 |
+| **Total** | **314** |

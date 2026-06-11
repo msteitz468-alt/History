@@ -75,8 +75,12 @@ and [[chalcolithic|Chalcolithic]].
   (Schliemann's misnamed "Priam's Treasure") and the royal tombs of Alaca Höyük,
   before a violent **end-EB2 destruction horizon** (~2300 BCE).
 - **Indus and Aegean urbanism** — the Harappan tradition (see
-  [[early-agriculture-south-asia]]) and Early Bronze Age Aegean develop in
-  parallel.
+  [[early-agriculture-south-asia]]) and the [[early-bronze-age-aegean|Early Bronze
+  Age Aegean]] develop in parallel. The Aegean sees its own EH/EC/EM II
+  florescence — fortified "princely" centres like [[lerna|Lerna]] (the "House of
+  the Tiles"), Cycladic marble figurines, the prepalatial foundation of Minoan
+  Crete — ended on the mainland by a **violent end-EH II destruction** (~2200 BCE)
+  that opens the [[coming-of-the-greeks-1900bce|coming-of-the-Greeks]] question.
 - **The ~2200 BCE crisis** — a synchronized collapse across the Fertile Crescent:
   the [[fall-of-old-kingdom-2160bce|fall of the Egyptian Old Kingdom]], the
   abandonment of the [[early-bronze-age-levant|Levantine cities]], and the
@@ -135,6 +139,6 @@ overview.
 - Events: [[unification-of-egypt-3100bce]] · [[lagash-umma-border-war]] · [[fall-of-old-kingdom-2160bce]] · [[gutian-invasion]]
 - People: [[narmer]] · [[djoser]] · [[urukagina]] · [[sargon-of-akkad]] · [[naram-sin]] · [[gudea]] · [[enkheduanna]]
 - Concept: [[sumerian-king-list]] · [[temple-economy]] · [[divine-kingship]]
-- Process: [[early-bronze-age-levant]] · [[early-bronze-age-anatolia]] · [[predynastic-egypt]]
-- Places: [[uruk|Uruk]] · [[ur|Ur]] · [[lagash|Lagash]] · [[mari|Mari]] · [[byblos|Byblos]] · [[jericho|Jericho]] · [[memphis|Memphis]] · [[troy|Troy]]
-- Controversy: [[indo-european-origins]]
+- Process: [[early-bronze-age-levant]] · [[early-bronze-age-anatolia]] · [[early-bronze-age-aegean]] · [[predynastic-egypt]]
+- Places: [[uruk|Uruk]] · [[ur|Ur]] · [[lagash|Lagash]] · [[mari|Mari]] · [[byblos|Byblos]] · [[jericho|Jericho]] · [[memphis|Memphis]] · [[troy|Troy]] · [[lerna|Lerna]]
+- Event: [[coming-of-the-greeks-1900bce]] · Controversy: [[indo-european-origins]]
