@@ -11,6 +11,17 @@ Format:
 
 ---
 
+## 2026-06-11 section | CAH Vol. II, Part 2 (1975) | Section 2: Hatti, Ugarit, Troy & the Aegean Zenith (Ch. XXI(a)–XXII(b)) | Late Bronze Age | anatolia, levant, aegean, mediterranean | Pages created: 3 | Pages updated: 5
+
+Section 2 covers the Hittite Empire under Muršili II (the Ten-Year Annals, the Arzawa
+conquest, the plague-prayers), Ugarit at its 14th–13th-c. height and its
+Sea-Peoples destruction, the Canaanite/Ugaritic mythology (Baal Cycle, El, Keret &
+Aqhat), Troy VIIa (the "Troy of Priam"), the zenith and overseas expansion of
+Mycenaean civilization, and Late Bronze Age Cyprus (copper, Enkomi, Alašiya). The
+volume flags the Aḫḫiyawa question as an internal dispute (Goetze vs. Stubbings).
+Created: mursili-ii, ahhiyawa-question, ugaritic-religion. Updated: ugarit,
+mycenaean-civilization, mycenae, troy, cyprus.
+
 ## 2026-06-11 section | CAH Vol. II, Part 2 (Edwards, Gadd, Hammond & Sollberger, eds., 1975) | Section 1: The Amarna Age & the Struggle for Syria (Ch. XVII–XX) | Late Bronze Age | near-east, levant, mesopotamia, north-africa | Pages created: 12 | Pages updated: 4
 
 Began the Large-Volume ingest of CAH Vol. II.2 (the direct continuation of II.1 —

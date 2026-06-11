@@ -21,8 +21,8 @@ reliability_notes: >
   The text is an Internet Archive OCR conversion of the EPUB; proper names carry
   OCR noise (e.g. "Shuppiluliumash", "Muwatallish", "Khattushilish", "Tushratta",
   "Cnossus" = Knossos, "Merneptah", "Ramesses").
-pages_created: 12
-pages_updated: 4
+pages_created: 15
+pages_updated: 9
 ingested: 2026-06-11
 tags: [source]
 ---
@@ -95,6 +95,20 @@ Updated: `actors/mitanni.md` (its destruction by Šuppiluliuma I now narrated),
 `actors/new-kingdom-egypt.md` (the Amarna revolution & end of the 18th Dynasty;
 resolved the `[[unknown|Amarna]]` forward-links), `actors/hittites.md` (wired the
 Empire/Šuppiluliuma pointer, fixed a stale self-reference).
+
+## 2026-06-11 section | CAH Vol. II.2 | Section 2: Hatti, Ugarit, Troy & the Aegean Zenith (Ch. XXI(a)–XXII(b)) | Pages created: 3 | Pages updated: 5
+
+Created: `actors/mursili-ii.md` (the Hittite Empire consolidator; Ten-Year Annals,
+Arzawa, the plague-prayers), `controversies/ahhiyawa-question.md` (Aḫḫiyawa =
+Mycenaeans? — the volume's own Goetze-vs-Stubbings split), `concepts/ugaritic-religion.md`
+(the Baal Cycle, El, the Keret & Aqhat epics; biblical & Homeric parallels).
+Updated: `places/ugarit.md` (the 14th–13th c. zenith, Hittite vassalage, divorce
+archives, and the Sea-Peoples destruction), `processes/mycenaean-civilization.md`
+(the LH III zenith — eclipse of Thebes, the Pelopids, the palatial/Linear-B economy,
+the overseas trade network, Aḫḫiyawa), `places/mycenae.md` (the Cyclopean citadel,
+Lion Gate, Treasury of Atreus), `places/troy.md` (Troy VIIa = the "Troy of Priam,"
+destroyed ~1250; VIIb Knobbed Ware), `places/cyprus.md` (Late Cypriot copper boom,
+Enkomi, the Mycenaean-trade debate, Alašiya, the LC III collapse & Hellenization).
 
 <!-- Section logs appended below as each cycle completes. -->
 

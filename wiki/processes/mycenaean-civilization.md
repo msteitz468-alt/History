@@ -7,8 +7,8 @@ period: [Late Bronze Age]
 region: [aegean, mediterranean]
 process_type: [cultural]
 driven_by: [the Middle Helladic Greeks, Minoan influence, new warrior elites, palace economy & overseas trade]
-produces: [the palace states of Bronze Age Greece, Linear B (Greek), the Homeric heroic tradition, the takeover of Crete]
-sources_ingested: 1
+produces: [the palace states of Bronze Age Greece, Linear B (Greek), the Homeric heroic tradition, the takeover of Crete, the eastern-Mediterranean trade network]
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [process, late-bronze-age, aegean, mediterranean]
 ---
@@ -76,13 +76,51 @@ west to the **Lipari Islands** and Italy. The legends of overseas adventure —
 **Bellerophon** in Lycia, the **Argonauts** to Colchis, Perseus and Andromeda at
 Joppa — plausibly echo this Late Helladic II reach.
 
+## The mature palace civilization (CAH II.2)
+
+[[edwards-cah-v2p2-1975|Vol. II, Part 2]] (Ch. XXII(a), Stubbings) carries the story
+through the **zenith** (LH IIIa–b, ~1400–1200), "a period of prosperity and of
+peace" in which Mycenaean Greece "becomes part of a much larger cultural area" on a
+level with the older civilizations:
+
+- **The eclipse of Thebes and the rise of the Pelopids.** The legends of the *Seven
+  against Thebes* and the *Epigoni* match a real **destruction of Mycenaean Thebes**
+  (Linear B archives, Kassite-style lapis seals; the Cadmea left waste thereafter) —
+  plausibly the work of Mycenae, removing a mainland rival. The dynastic shift from
+  the **Perseids to the Pelopids** (Atreus, then Agamemnon at Mycenae, Menelaus at
+  Sparta) marks the "second heroic age" and a loose Mycenae-led hegemony.
+- **The palatial system.** The great fortified citadels — **Mycenae, Tiryns, Pylos**
+  (also Thebes, Iolcus, Athens) — centred on the **megaron** with its hearth and
+  throne, ringed by **Cyclopean walls** (tradition ascribed to giants; the nearest
+  parallels are Hittite), with hidden water-stairs for siege. The **[[aegean-scripts|
+  Linear B]]** tablets, above all from Pylos, reveal a **redistributive palace
+  economy**: the *wanax* (king), the *lawagetas* ("leader of the people"), the
+  *e-qeta* (followers), and *qa-si-re-we* (local governors); land in private
+  (*ki-ti-me-na*) and communal (*ke-ke-me-na*) tenure; and a controlled craft economy
+  — the Pylos tablets name ~270–400 **bronze-smiths** and record the palace
+  distributing over a ton of bronze.
+- **The "Mycenaean koine" and overseas trade.** A remarkably **uniform** pottery
+  style (good communications producing a standardized *koine*) was traded across the
+  whole eastern Mediterranean — **Egypt** (the stirrup-jars at [[amarna|Amarna]]),
+  **[[ugarit|Ugarit]]** and the Levant, and above all **[[cyprus|Cyprus]]** (the hub
+  of the copper trade, the oxhide ingots, the Cape Gelidonya wreck) — and west to
+  **Sicily, Italy (Scoglio del Tonno) and Malta**.
+- **Aḫḫiyawa.** From this period the Hittites treat with **[[unknown|Aḫḫiyawa]]**, a
+  western sea-power ranking "with Egypt, Babylon, and Assyria" and tied to
+  **Millawanda/Miletus** (the Tawagalawa letter; Piyamaradu). Whether Aḫḫiyawa = the
+  Mycenaean Greeks is the [[ahhiyawa-question|volume's own unresolved dispute]] — but
+  if so, "Greeks had made their début on the stage of world history, and in a major
+  role."
+
 ## End Conditions
 
-Beyond this volume, the palace world reaches its height in the Amarna age and is
-then shattered in the **~1200 BCE [[late-bronze-age|Bronze Age Collapse]]** — the
-horizon the Pylos Linear B "coast-guard" tablets seem to anticipate, and which the
-Egyptians record as the **Sea Peoples**. Mycenaean Greece passed into the Dark Age,
-its memory preserved in the **Homeric epics**.
+Toward the end of the 13th century **instability** sets in — the concentration on
+fortification, the burning of houses outside the Mycenae citadel, a recession in the
+Cyprus trade — and the palace world is then shattered in the **~1200 BCE
+[[late-bronze-age|Bronze Age Collapse]]** (Section 4, the *recession of Mycenaean
+civilization*), which the Egyptians record as the **[[unknown|Sea Peoples]]**.
+Mycenaean Greece passed into the Dark Age, its memory preserved in the **Homeric
+epics**.
 
 ## Significance
 
@@ -97,4 +135,6 @@ Troy that became the *Iliad* and *Odyssey*.
 - Place: [[mycenae]] (the citadel & Shaft Graves) · [[knossos]] (the conquered Minoan capital) · [[troy]]
 - Process: [[minoan-civilization]] (source & victim) · Concept: [[aegean-scripts]] (Linear B)
 - People: [[coming-of-the-greeks-1900bce|the coming of the Greeks]] · [[indo-european-migrations]]
-- Linked legends: Danaus & the [[hyksos|Hyksos]] · Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]
+- Trade: [[cyprus]] · [[ugarit]] · [[amarna]] · West: Italy/Sicily · Controversy: [[ahhiyawa-question]]
+- Economy/script: [[aegean-scripts]] (Linear B; the Pylos tablets) · Recession: [[unknown|Sea Peoples]]
+- Linked legends: Danaus & the [[hyksos|Hyksos]] · Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]

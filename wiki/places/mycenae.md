@@ -5,9 +5,9 @@ modern_equivalent: Mykines, Argolid, Greece
 coordinates: ~37.73°N, 22.76°E
 period_active: [Middle Bronze Age, Late Bronze Age]
 controlled_by: [[[mycenaean-civilization|Mycenaean Greek rulers]]]
-events_here: [the Shaft Grave burials (~1650–1500 BCE)]
+events_here: [the Shaft Grave burials (~1650–1500 BCE), the building of the Cyclopean citadel and Lion Gate (LH IIIb)]
 processes_here: [[[mycenaean-civilization]], [[trade-network-formation]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, aegean, mediterranean, late-bronze-age]
 ---
@@ -41,15 +41,23 @@ the expulsion of the [[hyksos|Hyksos]] from Egypt (Queen Ahhotep's inlaid axe na
 **Ahmose**). Circle A was reverently terraced and enclosed in later Mycenaean times,
 and was still shown as the royal tombs to **Pausanias** ~1700 years later.
 
-## The citadel
+## The citadel (CAH II.2)
 
-Above the graves rose the great **Cyclopean fortress** of the palace age (LH III,
-later than this volume) — the **Lion Gate**, the corbelled **tholos** "treasuries"
-(the "Treasury of Atreus"), and the megaron palace. In legend Mycenae was founded
-(or fortified) by **Perseus** and ruled by the **Pelopids** (Atreus, Agamemnon) at
-the time of the Trojan War; archaeology confirms it as **the metropolis of Bronze
-Age Greece**. Linear B tablets from houses outside the walls show it as a centre of
-the palace economy (the "House of the Oil Merchant," a royal perfumery).
+Above the graves rose the great **Cyclopean fortress** of the palace age (LH IIIb,
+covered in [[edwards-cah-v2p2-1975|CAH Vol. II.2]], Ch. XXII(a)) — the monumental
+**Lion Gate**, the high zig-zag ramp, and the **megaron** palace commanding the
+Argive plain. When the citadel wall was built it **swung out to enclose Grave Circle
+A**, which was re-terraced and the ancient grave-stelai reset — perhaps, the volume
+suggests, the new **Pelopid** dynasty "making themselves acceptable to a city that
+still remembered the Perseids with pride." The grandest **tholos** "beehive" tomb,
+the **"Treasury of Atreus"** (14th c.), with its 100-ton lintel and ~50-ft vaulted
+chamber, was "the grandest and best-preserved example of Mycenaean architecture" —
+"no stone-roofed building of equal size was constructed between this and the Pantheon
+at Rome." In legend Mycenae was founded by **Perseus** and ruled by the **Pelopids**
+(Atreus, Agamemnon) at the time of the Trojan War; archaeology confirms it as **the
+metropolis of Bronze Age Greece**. Linear B tablets from houses outside the walls
+(the "House of the Oil Merchant," a royal perfumery) show it as a centre of the
+[[mycenaean-civilization|palace economy]].
 
 ## Why this place mattered
 
@@ -61,6 +69,6 @@ Greece recalled, "with nostalgic pride," as the heroic past.
 
 ## Related
 
-- Process: [[mycenaean-civilization]] · Place: [[knossos]] (the conquered Minoan palace) · [[lerna]] · [[troy]]
-- Concept: [[aegean-scripts]] · Linked: Danaus & the [[hyksos|Hyksos]] · [[minoan-civilization]]
-- Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]
+- Process: [[mycenaean-civilization]] · Place: [[knossos]] (the conquered Minoan palace) · [[lerna]] · [[troy]] · [[cyprus]]
+- Concept: [[aegean-scripts]] · Controversy: [[ahhiyawa-question]] · Linked: Danaus & the [[hyksos|Hyksos]] · [[minoan-civilization]]
+- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]

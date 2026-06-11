@@ -5,9 +5,9 @@ modern_equivalent: Cyprus
 coordinates: ~35.0°N, 33.0°E
 period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age]
 controlled_by: [tribal / town-based Cypriot communities (no attested unification)]
-events_here: [the foundation of the eastern port-towns (Enkomi etc.) in MC III, the violent destruction of the Nitovikla fortress]
+events_here: [the foundation of the eastern port-towns (Enkomi etc.) in MC III, the violent destruction of the Nitovikla fortress, the Late Cypriot copper-trade boom, the LC III collapse and Aegean settlement]
 processes_here: [[[trade-network-formation]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, near-east, mediterranean, middle-bronze-age]
 ---
@@ -54,16 +54,51 @@ MC III commitment to the **Asiatic** markets makes all the more striking its lat
 **switch of allegiance to the [[mycenaean-civilization|Mycenaean]] Aegean** in the
 later fifteenth century, the threshold of its Late Bronze prosperity.
 
+## Late Bronze Age Cyprus (CAH II.2)
+
+[[edwards-cah-v2p2-1975|Vol. II, Part 2]] (Ch. XXII(b), Catling) carries the island
+through the **Late Cypriot (LC) period**, divided into LC I (~1550–1400), LC II
+(~1400–1200) and LC III (~1200–1050):
+- **The copper boom.** The MC III move to the coast paid off: LC II is the island's
+  **high prosperity**, with a sharp rise in population and town-size and a complex
+  internal economy in which copper from inland mining settlements (Katydata,
+  Kalavasos) flowed to coastal manufacturing-and-export towns. **Enkomi** and the
+  towns of Larnaka bay (Kition, Hala Sultan Tekke) were the richest; rural sanctuaries
+  (Myrtou-Pigadhes) may even have acted as **middlemen "on behalf of the gods."**
+- **The Mycenaean flood.** After the fall of [[knossos|Knossos]] (~1400), a "flood"
+  of **[[mycenaean-civilization|Mycenaean]] IIIa–b pottery** poured into Cyprus —
+  more pictorial vases than the whole rest of the Mycenaean world combined. Whether
+  this means **Mycenaean colonies** with potters on the spot, or simply **intense
+  trade** (the volume's preferred reading: clay analysis points to Peloponnesian
+  import, and "practically every other characteristic of Mycenaean material culture
+  is missing") is a live debate — Cyprus remained culturally Cypriot. Copper was
+  surely the return cargo (oxhide ingots; the Cape Gelidonya wreck).
+- **Alashiya.** The kingdom **Alašiya** of the [[amarna-letters|Amarna letters]] and
+  the Boğazköy archives is commonly (if not certainly) identified with Cyprus, or
+  part of it — which would put the island directly in the **great-kings'
+  correspondence** as a copper-exporting power.
+- **The collapse.** LC III opens with "major convulsions": the
+  [[unknown|Bronze Age Collapse]] reaches Cyprus, and — vividly attested in the last
+  [[ugarit|Ugarit]] letters (famine, a plea for grain, "the enemy has plundered my
+  coasts") — the island is overwhelmed. Wholesale **desertion of settlements**
+  follows in the 12th–11th centuries, but also the arrival of **refugee settlers from
+  Greece**: the **first major step in the Hellenization of Cyprus**, presumably
+  bringing the **Arcado-Cypriot** Greek dialect (see [[aegean-scripts]]). "There were
+  few survivors of the last disastrous years of LC III to usher in the Early Iron
+  Age."
+
 ## Why this place mattered
 
 Cyprus is the **copper hinge** of the eastern Mediterranean — the island whose ore
 (the metal whose very name, *cuprum*, is "Cypriot") fed the Bronze Age, and whose
-Middle Cypriot port-foundations set up the Late Bronze trading boom. Its possible
-identity with **Alashiya** would place it squarely in the diplomatic correspondence
-of the great powers.
+Middle Cypriot port-foundations set up the Late Bronze trading boom. Its likely
+identity with **Alašiya** places it in the diplomatic correspondence of the great
+powers, and its **Hellenization** at the Bronze Age's end made it a permanently Greek
+island.
 
 ## Related
 
-- Process: [[trade-network-formation]] · [[minoan-civilization]] (a trade partner) · [[mycenaean-civilization]] (its later orientation)
-- Place: [[alalakh]] · [[ugarit]] (Levantine trade termini) · [[knossos]]
-- Period: [[middle-bronze-age]] → [[late-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]
+- Process: [[trade-network-formation]] · [[minoan-civilization]] (a trade partner) · [[mycenaean-civilization]] (trade & settlement)
+- Place: [[alalakh]] · [[ugarit]] (Levantine trade termini) · [[knossos]] · Concept: [[amarna-letters]] · [[aegean-scripts]]
+- End: [[unknown|Sea Peoples]] / [[unknown|Bronze Age Collapse]]
+- Period: [[middle-bronze-age]] → [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]

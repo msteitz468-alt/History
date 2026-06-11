@@ -7,7 +7,7 @@ period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Archaic Pe
 controlled_by: [[[early-bronze-age-anatolia|Early Bronze Anatolian kingdoms]]]
 events_here: [[[unknown]]]
 processes_here: [[[early-bronze-age-anatolia]], [[urbanization]], [[trade-network-formation]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [place, anatolia, mediterranean, early-bronze-age]
 ---
@@ -98,6 +98,29 @@ links to the Greek legend of Heracles' sack of "Laomedon's Troy" (accomplished, 
 the myth, with the aid of Poseidon the earthquake-god). The fuller Aegean treatment
 belongs to the Mycenaean chapters (this volume's Section 5).
 
+## Troy VIIa — the "Troy of Priam" (CAH II.2)
+
+**[[edwards-cah-v2p2-1975|CAH Vol. II.2]]** (Ch. XXI(c), Blegen) gives the layer
+that best fits the **Trojan War**. **Troy VIIa** is a direct continuation of Troy VI
+after the earthquake — the walls repaired, but inside the citadel the open spaces
+**crammed with small houses** packed wall-to-wall, almost every one with **large
+storage jars (pithoi) sunk beneath the floors**. Blegen reads this crowding and
+stockpiling as **preparations for a siege**. The settlement of "one, or at the most
+two, generations" ended in a **devastating fire that swept the whole citadel**, with
+human skeletons in the streets — "the appearance of the handiwork of man," "the usual
+accompaniment of the capture, sacking and burning of an ancient town." Dated by
+Mycenaean **IIIb** pottery to about **1250 BCE** (Blegen's estimate, coinciding with
+Herodotus; Eratosthenes' canonical date was 1184): "if a Troy of Priam, besieged and
+taken by an Agamemnon, ever actually existed in fact, it must be identified with...
+VIIa." This is the volume's careful, evidence-based statement of the historicity
+question.
+
+**Troy VIIb** followed: VIIb1 carried on the local culture, but VIIb2 brought a
+**new people** marked by handmade **Knobbed Ware (*Buckelkeramik*)** — paralleled in
+Late Bronze Age **Hungary**, and thought to mark a migration via Thrace into Anatolia,
+part of the wider disturbances of the [[unknown|Bronze Age Collapse]] / transition to
+the Iron Age.
+
 ## Significance
 
 Troy is doubly important: as the **archaeological type-site** for the prehistory
@@ -127,4 +150,5 @@ and approximate. See [[cambridge-ancient-history-methodology]].
 - Place: [[byblos]] · [[mari]] (other EBA emporia) · [[lerna]] (the Aegean type-site) · Transregional: [[mediterranean-world]]
 - Period: [[early-bronze-age]] · [[middle-bronze-age]] · [[late-bronze-age]]
 - Controversy: [[indo-european-origins]] (the end-EB2 "Luwian" destructions) · Migration: [[indo-european-migrations]]
-- Late Bronze context: [[hittites]] (Wilusa/Arzawa) · State: [[hattusha]] · Source: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v1p2-1971]]
+- Late Bronze context: [[hittites]] (Wilusa/Arzawa) · State: [[hattusha]] · Trojan War: [[mycenaean-civilization]] · Controversy: [[ahhiyawa-question]]
+- Sources: [[edwards-cah-v1p2-1971]] · [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]
