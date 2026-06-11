@@ -9,7 +9,7 @@ affiliated_with: [the Eupatrid aristocracy, the Alcmaeonid clan, at times Eretri
 opposed_by: [Megara (over Salamis), Mytilene (over Sigeum), Aegina]
 key_events: [the unification of Attica, Cylon's attempted coup (~636), Dracon's law-code (621), the war for Salamis, the reforms of Solon (594), the tyranny of Pisistratus]
 key_processes: [synoikism, the dismantling of monarchy, the codification of law, the broadening of political participation]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, central-greece]
 ---
@@ -69,6 +69,22 @@ Alcaeus lost his shield) — securing a port near the Hellespont entrance. Athen
 in the **[[delphi|First Sacred War]]** (led by the Alcmaeonid Alcmaeon) won it a seat on
 the Amphictyony and "returns Athens to the mainstream of Greek history."
 
+## From tyranny to isonomia (CAH IV)
+
+The Archaic experiment closed with the **fall of the [[pisistratidae|Pisistratid
+tyranny]]** (510) and the **[[cleisthenic-reforms-508bce|reform of Cleisthenes]]** (508/7),
+which [[boardman-cah-v4-1988|CAH Vol. IV]] (Chs. 4–5, Lewis & Ostwald) carry forward from
+Andrewes' account. After Hipparchus' [[assassination-of-hipparchus-514bce|assassination]]
+(514) hardened the regime, the exiled [[cleisthenes|Alcmaeonidae]] won Delphi and Sparta;
+King [[cleomenes-i|Cleomenes]] expelled Hippias. In the ensuing struggle **Cleisthenes
+"took the demos into partnership,"** survived a Spartan intervention through a popular
+rising, and reorganized Attica from a **kinship** to a **territorial** basis —
+**139 demes, 30 trittyes, ten new tribes**, and the **Council of Five Hundred** — founding
+the [[isonomia]] that underlay [[athenian-democracy|Athenian democracy]]. The new energy of
+the freed city showed at once in the **victory over Boeotia and Chalcis (506)**; its later
+safeguard was the law of **[[ostracism]]**. This is the bridge from Archaic Athens to the
+**[[athens-fifth-century|fifth-century democracy]]**.
+
 ## Why Archaic Athens mattered
 
 - The making of a **uniquely unified large polis** — and of the constitutional framework
@@ -80,6 +96,7 @@ the Amphictyony and "returns Athens to the mainstream of Greek history."
 ## Related
 
 - Reformers: [[solon]] · lawgiver [[dracon|Dracon]] · tyrant [[pisistratus]] · clan: [[alcmaeonids]]
+- Tyranny & democracy: [[pisistratidae]] · [[cleisthenes]] · [[cleisthenic-reforms-508bce]] · [[isonomia]] · [[ostracism]] · [[athenian-democracy]]
 - Wars: Megara (Salamis) · Mytilene (Sigeum) · Aegina · oracle: [[delphi]] (Sacred War, Amphictyony)
 - Compare: [[sparta]] · [[corinth]] · [[greek-tyranny]] (which Athens resisted under Cylon)
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p3-1982]] (Chs. 43–44, Andrewes)
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Chs. 43–44, Andrewes) · [[boardman-cah-v4-1988]] (Chs. 4–5, Lewis & Ostwald)

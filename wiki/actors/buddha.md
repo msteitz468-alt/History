@@ -9,8 +9,8 @@ affiliated_with: [the sangha (monastic order), the mahajanapadas of the Ganga va
 opposed_by: [Vedic ritual orthodoxy and brahmanical authority]
 key_events: [founding of Buddhism, formation of the sangha, the First Buddhist Council]
 key_processes: [[[buddhism]], [[axial-age]], [[vedic-age|the Second Urbanization]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-11
 tags: [actor, person, archaic-period, south-asia]
 ---
 
@@ -59,3 +59,13 @@ later death c. 400 BCE), and the earliest texts postdate him by generations, tra
 orally. His life is heavily overlaid by later hagiography. CWH IV situates him historically —
 within the urban, commercial, kingly world of the Ganga valley — rather than treating him
 purely as a figure of doctrine. See [[buddhism]] for the religion's later development.
+
+[[boardman-cah-v4-1988|CAH Vol. IV]] (Ch. 3d, Bivar) reaches the same world from the
+Persian side: the Buddha and Mahavira are the contemporaries whose disputed deaths
+anchor the chronology of the [[magadha|Magadhan kings]] Bimbisara and Ajatashatru. The
+**nirvana c. 483 BCE** (218 years before Ashoka's consecration, widely but not
+universally accepted) is the peg from which Ajatashatru's accession is reckoned to c.
+491 — placing the Buddha's career exactly when [[achaemenid-empire|Darius]] was
+carrying Persian power to the Indus at [[gandhara|Gandhara]].
+
+- Source: [[boardman-cah-v4-1988]] (Ch. 3d, Bivar — Magadhan/chronological context)

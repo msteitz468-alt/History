@@ -7,7 +7,7 @@ period_active: [Archaic Period, Classical Antiquity]
 controlled_by: [the Saite (26th Dynasty) and later pharaohs; the Greek founding cities (Miletus, Samos, Aegina and the Hellenium nine)]
 events_here: [the foundation as a Milesian fort under Psammetichus I, the grant/charter under Amasis, the building of the Hellenium]
 processes_here: [Greek–Egyptian trade, [[greek-colonization|Greek overseas settlement]], the silver-for-grain trade]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, north-africa, archaic-period]
 ---
@@ -68,6 +68,25 @@ reach to [[gades-tartessos|Tartessus]]: "the last third of the seventh century b
 a prodigious acceleration of Greek trade" — new wealth that destabilized the old
 agrarian order and helped drive the [[solon|Athenian crisis of 594]].
 
+## Naucratis as the model emporion (CAH IV)
+
+[[boardman-cah-v4-1988|CAH Vol. IV]] (Ch. 7e, C. Roebuck) takes Naucratis as the type-case
+of the **Greek trading post in a foreign land**. Egypt permitted Greeks to settle "only for
+purposes of trade," in a single quarter of the Delta town — yet the resident community of
+varied origin "evolved something like a Greek *polis*," administering its affairs through
+the *prostatai* it selected via the **Hellenium**, perhaps a dual body of permanent
+residents and seasonal traders. Because Greek craft goods, oil and wine **could not compete
+with native Egyptian products**, Greeks had to pay for grain, linen and papyrus mainly in
+**silver** — the bullion hoards of the Delta are the trace of that imbalance. Roebuck makes
+the broader point that **trade was driven by producers and traders, not government policy**:
+the leaders of Archaic commerce (Corinth, Chios, Samos, Miletus, Rhodes; and Athens as a
+producer) were cities that combined good siting with goods to export, while carriers like
+[[aegina|Aegina]] and Chalcis "peddled the goods of others." Naucratis "was counted as a
+Greek city" still in Ptolemaic times — a lasting enclave born of regulated trade. Its
+near-twin in the west was the Hera sanctuary at **Graviscae** (the port of Tarquinia), where
+Samian dedications and **Sostratus of Aegina's** stone anchor mark the same pattern of
+mixed Greek traders in a foreign port.
+
 ## Why Naucratis mattered
 
 - **The emporion model** — a tightly regulated, chartered trading post rather than a
@@ -81,5 +100,6 @@ agrarian order and helped drive the [[solon|Athenian crisis of 594]].
 
 - Founder: Miletus · Patron pharaohs: [[saite-egypt|Psammetichus I & Amasis]]
 - Trade frame: [[orientalizing-revolution]] · [[greek-colonization]] · silver from [[thracians|Thrace]]/Macedon
-- Egyptian debt: [[orientalizing-revolution|kouros & monumental architecture]] · Eastern counterpart: [[al-mina]]
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p3-1982]] (Ch. 36b, Braun)
+- Egyptian debt: [[orientalizing-revolution|kouros & monumental architecture]] · Eastern counterpart: [[al-mina]] · Western parallel: Graviscae ([[aegina|Sostratus]])
+- Trade frame: [[trade-network-formation]] · carriers: [[aegina]] · [[corinth]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 36b, Braun) · [[boardman-cah-v4-1988]] (Ch. 7e, Roebuck)

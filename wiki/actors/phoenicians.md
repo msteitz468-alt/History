@@ -9,7 +9,7 @@ affiliated_with: [the Canaanite city-states (Tyre, Sidon, Byblos), Carthage]
 opposed_by: [[[neo-assyrian-empire|Assyria]], [[neo-babylonian-empire|Babylon]], later Greeks and [[roman-republic|Rome]]]
 key_events: [founding of [[carthage|Carthage]] (trad. 814 BCE), spread of the alphabet, Assyrian and Babylonian domination, the [[phoenician-colonization|western colonization]]]
 key_processes: [[[trade-network-formation]], [[alphabet|alphabetic writing]], [[phoenician-colonization|colonization]]]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-11
 tags: [actor, state, early-iron-age, levant, mediterranean]
 ---
@@ -133,6 +133,28 @@ silver kingdom of **[[gades-tartessos|Tartessos]]**. The full process — its mo
 network, religion (the *tophet* child-sacrifice, the cult of Melqart), and the role of
 Carthage — is treated in **[[phoenician-colonization]]**.
 
+## Under Achaemenid Rule (CAH IV)
+
+[[boardman-cah-v4-1988|CAH Vol. IV]] (Ch. 3b, Eph'al) gives the Phoenician cities a
+**uniquely privileged place** in the Persian empire — within the satrapy of
+**[[eber-nari|Beyond the River]]** — precisely because the land-bound Persians needed
+their **fleets**. Where the Assyrians and Babylonians had valued the cities for trade,
+Persia valued them for **war-ships**, on which it depended absolutely in the
+Mediterranean and Aegean (Herodotus: the Phoenicians "willingly yielded" to Cyrus and
+were "indispensable to the entire Persian army, never adapted for naval warfare" — they
+even refused to sail against [[carthage|Carthage]] for Cambyses, forcing him to cancel
+the campaign).
+
+Accordingly **Tyre, [[sidon|Sidon]], Byblos and Aradus** kept a **degree of independence
+unmatched elsewhere** in the satrapy: ruled by their own **hereditary kings**, not
+demonstrably answerable to Persian officials, and from the **mid-fifth century permitted
+to strike their own silver coinage** (Sidon first). The **Sidonian fleet was pre-eminent**
+in Xerxes' invasion of 480 and in the later wars with Athens (Lade, the Eurymedon, the
+Egyptian expedition, Cyprus). Their decline came with the empire's: the **revolt of
+Tennes of Sidon** (mid-4th c., crushed by Artaxerxes III amid Sidon's self-immolation),
+and finally the **local** — not Persian — resistance of **Tyre** to Alexander's
+seven-month siege in 332. See [[eber-nari]] and [[sidon]].
+
 ## A Commercial Thalassocracy
 
 Lacking the agrarian base or armies of the great empires, the Phoenicians built
@@ -185,4 +207,5 @@ collapse.
 - Colony: [[cyprus|Kition / Cyprus]] · [[trade-network-formation|Mediterranean trade]]
 - Cities: [[tyre]] · West: [[carthage]] · [[gades-tartessos]] · Process: [[phoenician-colonization]]
 - Empires: [[neo-assyrian-empire]] · [[neo-babylonian-empire]]
-- Source: [[edwards-cah-v2p2-1975|CAH II.2]] · [[benjamin-cwh-v4-2015|CWH IV]] · [[boardman-cah-v3p1-1982|CAH III.1]] · [[boardman-cah-v3p2-1991|CAH III.2]] (Ch. 32)
+- Achaemenid period: [[eber-nari]] · [[sidon]] · [[achaemenid-empire]]
+- Source: [[edwards-cah-v2p2-1975|CAH II.2]] · [[benjamin-cwh-v4-2015|CWH IV]] · [[boardman-cah-v3p1-1982|CAH III.1]] · [[boardman-cah-v3p2-1991|CAH III.2]] (Ch. 32) · [[boardman-cah-v4-1988|CAH IV]] (Ch. 3b)

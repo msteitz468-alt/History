@@ -7,7 +7,7 @@ period_active: [Early Iron Age, Archaic Period, Classical Antiquity]
 controlled_by: [independent Greek city-states (Syracuse, Sybaris, Croton, Acragas, Gela, Selinus, Locri, Taras, Rhegium…), in tension with Sicels, Elymians, and the western Phoenicians/Carthage]
 events_here: [the wave of colonization (8th–6th c.), Pentathlus's failed colony at Lilybaeum (c. 580), Dorieus's failed colony (c. 510), the destruction of Sybaris by Croton (c. 510)]
 processes_here: [[[greek-colonization|Greek colonization]], Hellenization of the natives, the rise of tyranny, the Greek–Phoenician conflict]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, mediterranean, mediterranean-world, archaic-period]
 ---
@@ -94,6 +94,28 @@ Sybaris**, its site reportedly drowned by diverting the river Crathis. Graham ca
 fall of so great a city "the end of an epoch": Miletus, which lost a rich textile
 market, went into public mourning.
 
+## Cultural osmosis and the Deinomenid hegemony (CAH IV)
+
+[[boardman-cah-v4-1988|CAH Vol. IV]] (Ch. 16, David Asheri) carries Sicily into the
+early fifth century and **revises the old picture** of "a Greek sea-coast fringing
+barbarian lands." Asheri sees sixth-century Sicily instead as a country of "manifold
+ethnic elements, all at some stage of levelling, uniforming **hellenization**" — a
+broad coastal belt of Greek culture 30–90 km deep, with Sicel townships turning into
+Greek-type cities, Sicels and Elymians adopting the **Greek alphabet** for their own
+[[languages-of-italy|languages]], and constant intermarriage and cohabitation. The
+sharp Greek/barbarian line gives way to **cultural osmosis**; even the Greco-Punic
+wars were "political or commercial, not cultural."
+
+Politically the age belongs to the **tyrants** (see [[western-greek-tyranny]]):
+**Hippocrates of Gela** built the first Geloan "empire," and **[[gelon|Gelon]]** then
+fused most of Greek Sicily under **[[syracuse|Syracuse]]**, allied with **Theron of
+Acragas**. Gelon enriched Syracuse by **deporting and enslaving** whole cities
+(Camarina, Megara Hyblaea, Euboea) — Asheri's reminder that a Greek tyrant
+annihilated three Sicilian Greek cities before any Carthaginian army did. The bloc's
+victory at **[[battle-of-himera-480bce|Himera]] (480)** over Carthage, won the same
+year as Salamis, opened the spectacular florescence of **Acragas** (its vast temple
+line, the colossal Olympieum) and **Syracuse**, celebrated by **Pindar**.
+
 ## Why Magna Graecia mattered
 
 - The **largest and wealthiest colonial world** of Archaic Greece — agricultural
@@ -109,4 +131,5 @@ market, went into public mourning.
 
 - Dominant power: [[syracuse]] · earliest colony: [[pithecusae]] · rival: [[carthage]] · [[phoenicians]]
 - Process: [[greek-colonization]] · [[city-state]] · natives: Sicels, Elymians
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p3-1982]] (Ch. 38, Graham)
+- Tyranny: [[western-greek-tyranny]] · [[gelon]] · event: [[battle-of-himera-480bce]] · languages: [[languages-of-italy]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 38, Graham) · [[boardman-cah-v4-1988]] (Ch. 16, Asheri)

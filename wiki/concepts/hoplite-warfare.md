@@ -8,7 +8,7 @@ origin: >
 applies_to_periods: [Archaic Period, Classical Antiquity]
 applies_to_regions: [mediterranean, peloponnese, aegean]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -55,6 +55,26 @@ their success." The decisive early example was the **battle of Hysiae (669)**, w
 Argive hoplites crushed Sparta; the **[[argos|Argive]]** and Spartan struggles, and the
 [[magna-graecia|western]] colonial wars, were fought this way.
 
+## The phalanx vs. Persia (CAH IV)
+
+The Greco-Persian wars were the **proving-ground of the phalanx against a wholly different
+military system**, and [[boardman-cah-v4-1988|CAH Vol. IV]] (Chs. 9–11, Hammond & Barron)
+returns to it repeatedly. At [[battle-of-marathon-490bce|Marathon]] the "bronze men" — helmet,
+cuirass, greaves, shield, and a 2.4 m thrusting spear — ran through the arrow-barrage and
+**overwhelmed the lighter-armed Persian infantry** (wicker shields, short spears, trousered
+quilt-armour) in close combat, where Greek armour and the **2-to-3 metre reach** told. The
+recurring strategic problem was **terrain**: the phalanx was matchless on broken or narrow
+ground but helpless against **cavalry and mounted archers** in the open. Hence the Greeks
+fought where the Persians could not deploy their horse — the **pass at
+[[battle-of-thermopylae-480bce|Thermopylae]]** (where Spartan **drill** — the feigned retreat
+and wheel — magnified the advantage), and the **foothills at [[battle-of-plataea-479bce|Plataea]]**,
+where the whole campaign was a contest to lure the enemy onto unfavourable ground. At Plataea
+the decisive act was the hoplite charge that **overran the Persian wicker-shield barricade**;
+once it came to "push and stab," Mardonius' infantry, "with nothing to shield them but a
+desperate courage," were no match for the disciplined, bronze-clad line. The wars thus
+displayed both the **superiority of the heavy infantryman in his element** and the **structural
+vulnerability** that Greek commanders had to manage by choice of ground.
+
 ## Historiography
 
 The link between the hoplite phalanx and political change — the "hoplite revolution"
@@ -71,5 +91,6 @@ thrown-away shield).
 
 - Practitioners: [[sparta]] · [[argos]] (Hysiae) · the [[magna-graecia|western Greeks]] · frame: [[city-state]]
 - Social context: [[archaic-greek-economy]] (the propertied "top layer") · [[greek-tyranny]]
-- Material: [[archaic-greek-material-culture]] · Period: [[archaic-period]]
-- Source: [[boardman-cah-v3p3-1982]] (Chs. 42 & 45b, Hammond & Boardman)
+- Against Persia: [[battle-of-marathon-490bce]] · [[battle-of-thermopylae-480bce]] · [[battle-of-plataea-479bce]]
+- Material: [[archaic-greek-material-culture]] · Period: [[archaic-period]] · [[classical-antiquity]]
+- Sources: [[boardman-cah-v3p3-1982]] (Chs. 42 & 45b, Hammond & Boardman) · [[boardman-cah-v4-1988]] (Chs. 9–11, the Persian Wars)

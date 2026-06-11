@@ -9,7 +9,7 @@ affiliated_with: [its colonies (Corcyra, Syracuse, the Adriatic foundations), la
 opposed_by: [Megara, Corcyra (in revolt), Argos at times]
 key_events: [the seizure of the Megarid (~740–700), the foundation of Corcyra and Syracuse (733), the first sea-battle with Corcyra (~664), the Cypselid tyranny (657–583)]
 key_processes: [[[greek-colonization|colonization]], the development of naval power, the Protocorinthian pottery trade, [[greek-tyranny|tyranny]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, peloponnese]
 ---
@@ -55,6 +55,21 @@ themselves *basileis*, and dedicated as "the Cypselidae" (the Chest of Cypselus,
 bowl from Heraclea). The tyranny fell c. **583**, the **Isthmian Games** founded in its
 wake — Corinth thereafter an oligarchy and, after 582, an ally of [[sparta]].
 
+## The restraining power in the League (CAH IV)
+
+By the late sixth century Corinth was, after Sparta, **the most influential member of the
+[[peloponnesian-league|Peloponnesian League]]** — "her authority in the League apparently
+second only to that of its hegemon." [[boardman-cah-v4-1988|CAH Vol. IV]] (Ch. 6, Jeffery)
+shows her shipping providing one of the **largest fleet contingents**, her grip on the
+**Isthmus** controlling every League move northward, and her oligarchic government acting as
+a **brake on Spartan adventurism**. Corinth was chosen to **arbitrate between Thebes and
+Plataea** (519, ruling that any Boeotian city might leave the Boeotian League); twice she
+**refused to follow [[cleomenes-i|Cleomenes]] against [[athens|Athens]]** (507/6), her
+ambassador Socles famously opposing the Spartan plan to **restore Hippias** (c. 504); and
+she sold Athens **twenty ships** for the "unheralded war" against [[aegina|Aegina]]. Her
+consistent, unobtrusive favour to Athens reflected an oligarchy whose prosperity "depended
+on the preservation of her key position" and so shunned extremes.
+
 ## Why Corinth mattered
 
 - The **commercial-maritime engine** of the Greek mainland — first in warships, naval
@@ -67,5 +82,5 @@ wake — Corinth thereafter an oligarchy and, after 582, an ally of [[sparta]].
 
 - Rulers: the Bacchiads → the Cypselids ([[greek-tyranny]]) · rival: Megara · colony in revolt: Corcyra
 - Colonies: [[syracuse]] · [[greek-colonization|the Adriatic foundations]] ([[epirus|Ambracia, Apollonia]])
-- Ally: [[sparta]] / [[peloponnesian-league]] · sanctuary patron: [[delphi]]
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond)
+- Ally: [[sparta]] / [[peloponnesian-league]] (restraining power) · arbiter for Plataea vs [[thebes]] · rival: [[aegina]] · sanctuary patron: [[delphi]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond) · [[boardman-cah-v4-1988]] (Ch. 6, Jeffery)

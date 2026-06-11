@@ -9,8 +9,8 @@ affiliated_with: [[[zoroastrianism]], the Persians and Medes]
 opposed_by: [Greek city-states, Scythians, [[alexander-the-great|Macedon]], Egypt (in revolt)]
 key_events: [conquest of Babylon 539 BCE, Greco-Persian Wars 490/480-479 BCE, Battle of Gaugamela 331 BCE]
 key_processes: [[[empire]], [[state-formation]], [[trade-network-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-11
 tags: [actor, empire, archaic-period, classical-antiquity, iran-plateau]
 ---
 
@@ -68,6 +68,77 @@ franca and tolerated local cults and institutions (even upholding Ionian Greek
 democracies). This rehabilitated, tolerant Achaemenid — against the Greek "oriental
 despotism" trope — is the achievement of the modern "Achaemenid history" school.
 
+## The Eastern Satrapies: Central Asia and the Indus
+
+[[boardman-cah-v4-1988|CAH Vol. IV]] (Chs. 3c–3d, Francfort and Bivar) documents the
+empire's **eastern half**, too often overshadowed by the Greek wars. Beyond the
+Iranian plateau lay a belt of provinces — **[[bactria|Bactria, Sogdiana, Chorasmia,
+Margiana, Aria, Arachosia and Drangiana]]** in Central Asia, and **[[gandhara|Gandara,
+Sattagydia, Pactyica and Hindus]]** along the Indus — that made the Achaemenid state
+an **Indian and Central Asian power**, its frontier the Indus two centuries before
+[[alexander-the-great|Alexander]]:
+
+- **Reach to the Indus.** Cyrus campaigned through Arachosia to the Hindu Kush; after
+  **[[scylax-of-caryanda|Scylax of Caryanda]]** charted the Indus (c. 517), Darius
+  organized the **Hindus satrapy** (c. 515) — the empire's richest tributary in nominal
+  terms (360 talents' worth of gold dust).
+- **Bactria the mainstay.** Bactria anchored Persian power in the east, governed as the
+  **apanage of royal princes** over a "feudal" hierarchy of local lords, and shielded
+  the empire against the **[[scythians|Saka]]** of the steppe (Darius's campaign of 519
+  captured the chief Skunkha).
+- **The Fortification Tablets** attest a brisk two-way traffic on the royal roads
+  between Susa and the eastern satrapies c. 500 BCE — named satraps, elite guides, and
+  high-status Indian travellers moving under the king's seal — and the **Apadana
+  reliefs** show Bactrian, Saka, Gandaran and Indian delegations (the last two, like
+  the Saka, entering *armed*, as trusted military adherents). Eastern contingents —
+  Bactrians, Saka, Gandarans, "Indians" with their war-dogs — marched in **Xerxes'
+  army of 480**.
+
+This is the eastern counterpart of the western collision with the Greeks: the same
+expansive, tribute-gathering system reaching its limits on a distant frontier.
+
+> **Scan note:** the dynastic narrative chapters of CAH IV (Chs. 1–2, Young, on the
+> Medes, Cyrus, Cambyses, Darius and Xerxes; Ch. 3a, Kuhrt, on Babylonia) are **missing
+> from the available scan** and are *not* ingested here — see [[boardman-cah-v4-1988]].
+> This page's eastern-satrapies material derives only from the regional chapters 3c–3d.
+
+## Western Expansion and the Greek Wars (CAH IV)
+
+The regional and narrative chapters of [[boardman-cah-v4-1988|CAH Vol. IV]] (Chs. 6, 8, 9 —
+Jeffery, Murray, Hammond) trace the empire's collision with the Greeks. Murray frames its
+deep cause structurally: an empire "constantly threatened with national and religious
+revolts was held together essentially by the actions of the king in **mobilizing his
+subjects for war**" — so once the navies of Ionia and Phoenicia were acquired, **Mediterranean
+expansion had to follow**, "and must ultimately lead to disaster: no power has been able to
+hold together... the Middle East and the Mediterranean basin in their entirety."
+
+- **The [[ionian-revolt-499bce|Ionian Revolt]] (499–494)** exposed the limits of the Persian
+  formula. Darius' policy of ruling through **local "tyrants"** — which worked in Judaea and
+  Babylon, where the king posed as protector of the national god (the **Gadatas letter**
+  shows him defending Apollo's sacred gardeners) — failed in Ionia, where tyranny was already
+  unacceptable and the cities wanted **[[isonomia]]**. Crushing demands of **annual tribute**,
+  military service, and the economic ruin of the mercantile cities drove the revolt; Persia
+  put it down with the sack of Miletus, then conciliated with re-survey, arbitration, and
+  Mardonius' "democracies."
+- **The first invasion of Greece.** Vengeance for the burning of [[sardis|Sardis]] directed
+  Persian power west: Mardonius (492) secured the European satrapy of [[thrace|Skudra]]; the
+  demand for **earth and water** (491) won mass medism; and Datis and Artaphernes' bold
+  open-sea expedition of 490 took Naxos and Eretria before its defeat at
+  **[[battle-of-marathon-490bce|Marathon]]**. Hammond stresses the empire "was not shaken by
+  the loss of 6,000 men in a land beyond its western frontier" — Marathon made **Darius more
+  determined** to conquer Greece, setting up Xerxes' great invasion of 480.
+- **[[xerxes-i|Xerxes']] invasion (480–479)** was the climax and the catastrophe. After
+  forcing **[[battle-of-thermopylae-480bce|Thermopylae]]** and sacking Athens, the huge fleet
+  was destroyed at **[[battle-of-salamis-480bce|Salamis]]** and the army of occupation
+  annihilated at **[[battle-of-plataea-479bce|Plataea]]** (with the fleet burned at Mycale and
+  Ionia lost). The defeats **fixed the permanent western limit of Achaemenid power** and
+  vindicated Murray's thesis that Mediterranean over-extension would end in disaster.
+
+A recurring feature was the king's **patronage of Greek exiles** (Hippias, Demaratus,
+Histiaeus, later Themistocles), given land and city-revenues — a generosity that, when it was
+*Ionian* cities being granted away, itself bred grievance and dramatized the gulf between
+oriental kingship and the Greek polis.
+
 ## Decline
 
 Weakened by costly Greek wars, satrapal revolts, and succession struggles, the
@@ -87,9 +158,13 @@ indirectly, the rise of [[mauryan-empire|Chandragupta]] in India.
 
 ## Historiography
 
-Long captive to **hostile Greek sources** ([[herodotus]], Xenophon, Ctesias),
-Achaemenid history has been transformed since the 1980s by the "Achaemenid History"
+Long captive to **hostile Greek sources** ([[herodotus-reliability|Herodotus]], Xenophon,
+Ctesias), Achaemenid history has been transformed since the 1980s by the "Achaemenid History"
 school using **Persian royal inscriptions** (Behistun, Naqš-e Rostam), the
 **Persepolis Fortification and Treasury tablets**, and Babylonian evidence —
 recovering a sophisticated, tolerant, well-administered polity. Compare the
 comparative imperiology in [[empire]].
+
+- Greek wars: [[ionian-revolt-499bce]] · [[battle-of-marathon-490bce]] · [[thrace]] (Skudra) · [[isonomia]] · source-critique: [[herodotus-reliability]]
+- Sources: [[benjamin-cwh-v4-2015]] (Daryaee, Ch. 10) · [[boardman-cah-v4-1988]]
+  (Chs. 3c–3d eastern satrapies; Chs. 6, 8, 9 the Greek wars; Chs. 1–2, 3a missing from scan)

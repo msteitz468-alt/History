@@ -1034,3 +1034,25 @@ disk; advancing to Cycle 3 (Part II-B, Neo-Hittites + Israel & Judah, Chs 9–11
 ## 2026-06-11 section | CAH Vol III, Part 3 | Section: Cycle 8 — Economy, society & material culture (Ch 45a Starr: the Archaic economic transformation 800–500 — the Near Eastern stimulus, population and upper-class demand for chremata, the peasantization of small farmers, trade/industry/cities, coinage, and the rural-aristocratic economic tensions behind tyranny and reform; the aristocratic way of life; Ch 45b Boardman: the material culture — towns/walls/houses, the orientalizing impetus, temples and the Doric/Ionic orders, kouros/kore sculpture, the world of vase-imagery, the symposium, hoplite arms, ships, and the Athens of Pisistratus) | Pages created: 3 | Pages updated: 3
 
 ## 2026-06-11 ingest-complete | CAH Vol III, Part 3 (Boardman & Hammond 1982) | Total pages created: 28 | Total pages updated: 13 | Sections processed: 8
+
+## 2026-06-11 section | CAH Vol IV (Boardman et al. 1988) | Section: Cycle 1 — The Iranian East & Indus (Chs. 3c–3d) | Pages created: 3 | Pages updated: 4
+
+## 2026-06-11 section | CAH Vol IV (Boardman et al. 1988) | Section: Cycle 2 — Syria-Palestine & Anatolia (Chs. 3b, 3e) | Pages created: 5 | Pages updated: 3
+
+## 2026-06-11 section | CAH Vol IV (Boardman et al. 1988) | Section: Cycle 3 — Persia in Europe & Egypt (Chs. 3f, 3g) | Pages created: 6 | Pages updated: 2
+
+## 2026-06-11 section | CAH Vol IV (Boardman et al. 1988) | Section: Cycle 4 — The Pisistratid Tyranny & the Cleisthenic Reform (Chs. 4, 5) | Pages created: 6 | Pages updated: 2
+
+## 2026-06-11 section | CAH Vol IV (Boardman et al. 1988) | Section: Cycle 5 — Greece before the Persian Invasion: Sparta, the League & Cleomenes (Ch. 6) | Pages created: 4 | Pages updated: 3
+
+## 2026-06-11 section | CAH Vol IV (Boardman et al. 1988) | Section: Cycle 6 — Archaic Greek Religion, Thought, Material Culture, Coinage & Trade (Chs. 7a–7e) | Pages created: 2 | Pages updated: 3
+
+## 2026-06-11 section | CAH Vol IV (Boardman et al. 1988) | Section: Cycle 7 — The Ionian Revolt & Marathon (Chs. 8, 9) | Pages created: 4 | Pages updated: 2
+
+## 2026-06-11 section | CAH Vol IV (Boardman et al. 1988) | Section: Cycle 8 — Xerxes' Invasion: Thermopylae, Salamis, Plataea & Mycale (Chs. 10, 11) | Pages created: 5 | Pages updated: 2
+
+## 2026-06-11 section | CAH Vol IV (Boardman et al. 1988) | Section: Cycle 9 — Pre-Roman Italy: the Etruscans, the Italic peoples & the languages of Italy (Chs. 12–15) | Pages created: 4 | Pages updated: 1
+
+## 2026-06-11 section | CAH Vol IV (Boardman et al. 1988) | Section: Cycle 10 — Carthaginians & Greeks in Sicily: the Deinomenid tyrannies & the battle of Himera (Ch. 16) | Pages created: 4 | Pages updated: 2
+
+## 2026-06-11 ingest-complete | CAH Vol IV — Persia, Greece and the Western Mediterranean, c. 525 to 479 B.C. (Boardman, Hammond, Lewis & Ostwald eds., 1988) | Total pages created: 43 | Total pages updated: 24 | Sections processed: 10 | NB: scan omits Chs. 1–2 & 3a (Achaemenid dynastic narrative & Babylonia under Persia not ingested)

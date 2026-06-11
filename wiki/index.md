@@ -1,6 +1,6 @@
 # World History Wiki — Master Catalog
 
-Last updated: 2026-06-11 (CAH Vol. II, Part 2 complete — The Middle East and the Aegean Region, c. 1380–1000 BC; 46 pages created, 28 pre-existing pages updated, across the Large-Volume Protocol's 6 section cycles. Resolved the Late-Bronze-Age gap and built out the Early Iron Age and the Greek Dark Age.)
+Last updated: 2026-06-11 (CAH Vol. IV complete — Persia, Greece and the Western Mediterranean, c. 525–479 BC; 43 pages created, 24 pre-existing pages updated, across the Large-Volume Protocol's 10 section cycles. Built out the Greco-Persian Wars, the Cleisthenic reform of Athens, and — newly for the wiki — pre-Roman Italy and Sicily: the Etruscans, the Italic peoples, the languages of Italy, and the Deinomenid tyrannies through Himera. NB: the available scan omits Chs. 1–2 & 3a, so the Achaemenid dynastic narrative and Babylonia under Persia are not ingested from this volume.)
 
 This index lists every page in the wiki. Update after every ingest session.
 Entries are grouped by directory. Within each group, pages are listed in
@@ -205,28 +205,28 @@ creation order with a one-line description.
 | `boardman-cah-v3p1-1982.md` | The Cambridge Ancient History, Volume III, Part 1: The Prehistory of the Balkans, the Middle East and the Aegean World, 10th–8th c. BC (2nd ed.) | 1982 | reference |
 | `boardman-cah-v3p2-1991.md` | The Cambridge Ancient History, Volume III, Part 2: The Assyrian and Babylonian Empires and other States of the Near East, 8th–6th c. BC (2nd ed.) | 1991 | reference |
 | `boardman-cah-v3p3-1982.md` | The Cambridge Ancient History, Volume III, Part 3: The Expansion of the Greek World, Eighth to Sixth Centuries B.C. (2nd ed.) | 1982 | reference |
+| `boardman-cah-v4-1988.md` | The Cambridge Ancient History, Volume IV: Persia, Greece and the Western Mediterranean, c. 525 to 479 B.C. (2nd ed.) | 1988 | reference |
 
 ---
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **CAH Vol. III, Part 1** ingest (the
-detailed catalog tables above are maintained selectively and may lag the totals; this
-volume's 20 new and 17 updated pages — the Iron-Age Near East, the Balkan/NW-Greek EIA,
-and the Aegean recovery / alphabet material — are catalogued in the source page and
-`log.md` rather than relisted here).
+Counts reflect actual files on disk as of the **CAH Vol. IV** ingest (the detailed
+catalog tables above are maintained selectively and may lag; recent volumes' new and
+updated pages are catalogued in their source pages and `log.md` rather than relisted
+here).
 
 | Category | Pages |
 |---|---|
 | Periods | 24 |
-| Events | 31 |
-| Processes | 69 |
-| Actors | 126 |
-| Places | 52 |
-| Concepts | 77 |
+| Events | 50 |
+| Processes | 75 |
+| Actors | 168 |
+| Places | 77 |
+| Concepts | 93 |
 | Comparisons | 0 |
-| Controversies | 26 |
+| Controversies | 27 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 12 |
-| **Total** | **417** |
+| Sources | 15 |
+| **Total** | **529** |

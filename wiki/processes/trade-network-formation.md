@@ -8,8 +8,8 @@ region: [mediterranean, near-east, central-asia, china, south-asia, indian-ocean
 process_type: economic
 driven_by: ["surplus production and specialization", "[[urbanization]] and [[empire|imperial]] demand", "[[pastoral-nomadism|pastoral nomads]] as carriers and protectors", "maritime and caravan technology", "[[coinage|money]] and credit", "elite demand for prestige goods"]
 produces: ["[[silk-roads|the Silk Roads]]", "[[indian-ocean-trade|Indian Ocean trade]]", "[[trans-saharan-trade|trans-Saharan trade]]", "the spread of [[universal-religions|religions]], technologies, and disease", "cosmopolitan port and oasis cities", "[[divergence-convergence|convergence]]"]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-11
 tags: [process, classical-antiquity, silk-road, indian-ocean]
 ---
 
@@ -67,6 +67,43 @@ their own pages — [[silk-roads]], [[indian-ocean-trade]], [[trans-saharan-trad
    [[byzantine-empire|Byzantine]] sponsorship; intensified Indian Ocean and newly
    vigorous [[trans-saharan-trade|trans-Saharan]] trade, the latter binding West
    Africa ([[ghana-empire|Ghana]]) into the Mediterranean economy.
+
+## The Archaic Greek and Phoenician Mediterranean (CAH IV)
+
+[[boardman-cah-v4-1988|CAH Vol. IV]] (Ch. 7e, C. Roebuck) gives the close view of the
+**pre-integration** regional network in the Mediterranean on the eve of the Persian Wars —
+the moment when "the slender threads of commerce... had been woven into a complex net."
+
+- **A shared but contested sea.** Greeks and **[[phoenicians|Phoenicians]]** divided the
+  Mediterranean: Carthage jealously guarded the **far west** (the route by Malta–Sicily–
+  Sardinia–Spain), closing direct Greek access to Spanish tin, copper and silver after c. 540
+  (the Etruscan–Carthaginian expulsion of the Phocaeans from Alalia), while the **Levant and
+  Egypt** remained "primarily a Phoenician area." Greeks dominated the **Aegean, Adriatic and
+  Black Seas** they had colonized, with chartered footholds at **[[naucratis]]** (Egypt) and
+  the Black Sea *emporia*.
+- **Commodities.** Beyond the old trade in **luxuries and scarce metals**, the sixth century
+  added **bulk cargoes** — Egyptian and Black Sea **grain**, **olive oil**, **wine**, salt
+  fish, **timber** for ships and temples, and the **silver** (Laurium, Thrace) and Lydian
+  **electrum** demanded by the new [[coinage|coinages]]. Pottery (Corinthian, then Athenian
+  after c. 575) traces production but **not carriage** — Athenian vases reached Italy in the
+  ships of **Ionians and Aeginetans** (the merchants' marks of **Sostratus of [[aegina|Aegina]]**).
+- **Traders, not states.** Roebuck insists the pattern was set by **producers and carriers**,
+  not government policy: famous professionals (the Samian **Colaeus**, who opened the
+  Tartessus metal trade c. 640; **Sostratus**, "richest of all traders") were owner-captain-
+  merchant in one, and by c. 500 the **Corcyra lead tablets** show voyages financed by
+  **maritime loans** — an early credit economy. Physical limits were severe: small (70–80 ton),
+  slow, square-rigged ships, seasonal April–October navigation, coasting within sight of land,
+  and the constant threat of **piracy** (whose suppression Thucydides ties to the rise of sea
+  powers like Corinth and [[polycrates|Polycrates']] Samos).
+- **Persia and trade.** Persian conquest of Ionia (after 540) and Thrace (after 512) was "a
+  mixture of benefit and harm" — satrapal patronage replaced Lydian, grain transports kept
+  flowing, and Athenian silver poured into Egypt — refuting any picture of empire strangling
+  commerce.
+
+This regional Mediterranean web is the western anchor of the longer Afro-Eurasian system
+below; "freedom of navigation and trade" would, within a generation, become an issue
+dividing the [[athenian-democracy|Athenian Empire]] and the [[peloponnesian-league|
+Peloponnesian League]].
 
 ## Geographic Spread
 

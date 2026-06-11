@@ -9,7 +9,7 @@ affiliated_with: [Sais (the capital), Carian and Ionian (Greek) mercenaries, Nau
 opposed_by: [[[neo-babylonian-empire|Babylon]] (Nebuchadnezzar II), [[kush-meroe|Kush]], finally [[achaemenid-empire|Persia]]]
 key_events: [the reunification under Psammetichus I (656), the battles of [[battle-of-megiddo-609bce|Megiddo (609)]] and [[battle-of-carchemish-605bce|Carchemish (605)]], the circumnavigation of Africa, the fall to Cambyses (525)]
 key_processes: [reunification, the building of an Egyptian navy, [[greek-colonization|Greek trade]] and mercenary service, [[orientalizing-revolution|the orientalizing transmission to Greece]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [actor, dynasty, archaic-period, north-africa]
 ---
@@ -108,6 +108,20 @@ Greeks imagined, but the **monumental stone sculpture** (the *kouros*) and
 **architecture** the immigrants saw on the Nile — see [[orientalizing-revolution|the
 orientalizing revolution]].
 
+## The fall to Persia (CAH IV)
+
+The dynasty ended in **525 BCE** when **[[cambyses|Cambyses]]** crushed
+**Psammetichus III** at Pelusium and made Egypt a Persian satrapy — the
+[[persian-conquest-of-egypt-525bce|Persian conquest of Egypt]], opening the
+[[achaemenid-egypt|First Persian Period (27th Dynasty)]]. [[boardman-cah-v4-1988|CAH Vol.
+IV]] (Ch. 3g, Ray) stresses both **continuity and rupture**: the Saite admiral
+**[[udjahorresne]]** went over to the conqueror and drew up his pharaonic titulary, and the
+new rulers **codified the law "as it stood in the last year of Amasis,"** taking the Saite
+order as their baseline. Yet Egyptians of the Persian century **revived the throne-names of
+the Saite kings** as a quiet badge of identity under occupation, and the rebels who later
+sought Athenian help styled themselves **Psammetichus, Inaros, Amyrtaeus** — Saite names to
+the last.
+
 ## Historiography
 
 James leans heavily on **Herodotus** (the Dodecarchy, the mercenaries, the navy, the
@@ -122,4 +136,5 @@ Herodotean episodes, while accepting the maritime achievements as solidly attest
 - Predecessor: [[kush-meroe]] (25th Dynasty) · Capital: Sais · Greeks: [[greek-colonization|Naucratis]] · [[lydia]] (mercenaries)
 - Enemies: [[neo-babylonian-empire]] ([[nebuchadnezzar-ii]]) · [[achaemenid-empire]] (Cambyses) · Events: [[battle-of-megiddo-609bce]] · [[battle-of-carchemish-605bce]]
 - Greeks in Egypt: [[naucratis]] · [[orientalizing-revolution]] · mercenaries (Abu Simbel graffiti)
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 35, James) · [[boardman-cah-v3p3-1982]] (Ch. 36b, Braun)
+- Successor: [[achaemenid-egypt]] (27th Dynasty) · conquest: [[persian-conquest-of-egypt-525bce]] · [[cambyses]] · [[udjahorresne]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 35, James) · [[boardman-cah-v3p3-1982]] (Ch. 36b, Braun) · [[boardman-cah-v4-1988]] (Ch. 3g, Ray)

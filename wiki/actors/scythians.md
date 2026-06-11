@@ -9,7 +9,7 @@ affiliated_with: [the steppe Iranian-speaking nomads, the Greek Black Sea coloni
 opposed_by: [the [[cimmerians|Cimmerians]], Urartu, [[neo-assyrian-empire|Assyria]], the Sarmatians (later), Darius I of Persia (later)]
 key_events: [the displacement of the Cimmerians, the raids into Western Asia, the contribution to the fall of the Cimmerians under Madyes, the trade with Olbia]
 key_processes: [steppe nomadism, the animal-style art tradition, [[trade-network-formation]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, movement, archaic-period, eurasian-steppe, steppe]
 ---
@@ -75,6 +75,53 @@ examples yield Greek colonial goldwork and local **animal-style** metalwork (rec
 stags, panthers, griffins). Herodotus has the king Idanthyrsus tell Darius the Scythians
 have "neither cities nor sown land" but will fight for their **fathers' graves**.
 
+## The eastern Saka and the Achaemenid northeast
+
+The Greeks' "Scythians" had an eastern counterpart the Persians called **Saka** —
+the Iranian-speaking nomads of the Central Asian steppe beyond [[bactria|Bactria and
+Sogdiana]]. [[boardman-cah-v4-1988|CAH Vol. IV]] (Ch. 3c, Francfort) distinguishes
+several: the **Saka tigrakhauda** ("pointed-hat Scythians") around the Aral; the
+**Saka haumavarga** (Amyrgians) toward the Pamirs; the **Saka paradraya** ("beyond
+the sea") and **para Sugdam** of the open Eurasian steppe; and the **Massagetae** of
+the Oxus–Jaxartes marches. They formed the **turbulent northeastern frontier** of the
+empire — the contact-zone that kept Central Asia "militarily active."
+
+- **War with the Achaemenids.** **[[cyrus-the-great|Cyrus]]** captured and released
+  the Amyrgian king Amorges, then met his **death** fighting steppe nomads (the
+  Massagetae of Queen **Tomyris**, or the Derbikes). **Darius I** campaigned against
+  the **Saka tigrakhauda in 519 BCE**, bridging the Amu Darya, capturing their chief
+  **Skunkha** (depicted, pointed cap and all, on the Bisitun relief), and installing a
+  client — after which the *tigrakhauda* appear in Achaemenid inscriptions.
+- **Service in the empire.** Saka cavalry rode in the Persian army: they broke through
+  the **Athenian centre at [[battle-of-marathon-490bce|Marathon]]** (490) beside the
+  Persians, served as **marines in Xerxes' navy**, and were among the troops left with
+  **Mardonius** in Greece in 480/79. Saka garrisons were posted as far west as Syria.
+- **The kurgan world.** Beyond the empire, the Saka and related peoples (Pazyryk in
+  the Altai, **Issyk** in Kazakhstan, the Pamirs, Tuva, Xinjiang) left elaborate
+  **kurgans** — wooden burial chambers under mounds up to 60 m across, with sacrificed
+  horses, cannabis-smoking gear (Hdt. IV.73–5), and gold **animal-style** ornament —
+  the same culture-complex as the western Scythians, in touch eastward with China.
+
+This eastern material confirms the page's central caution: **"Scythian"/"Saka" names a
+shared steppe culture and a recurring Greek/Persian label, not a single nation.**
+
+## Darius' European expedition (c. 513 BCE)
+
+The **western** Scythians had their own collision with Persia. About **513**
+[[achaemenid-empire|Darius I]] bridged the **Bosporus** and **Danube** and drove into the
+**south Russian steppe** against them ([[darius-scythian-expedition-513bce|the Scythian
+expedition]], [[boardman-cah-v4-1988|CAH IV]] Ch. 3f). The Scythians vindicated the
+qualities this page stresses — **mobility, the absence of cities to defend, and mounted
+archery**: they **refused pitched battle**, fouled the wells and withdrew their stock,
+harassing Darius until he slipped away by night, having "inflicted widespread damage" but
+secured no territory beyond the Danube. Herodotus thought their escape owed to exactly
+these factors (IV.46–47), and noted that the Scythian tribes "co-operated with one another
+in offering a planned resistance" — showing "more sense of community than the Greek city
+states were to show." The campaign nonetheless founded the European satrapy of
+**[[thrace|Skudra]]**, the springboard for the invasions of Greece. The **Getae** between
+the Haemus and the Danube — "Scythian by descent," the *Saka paradraya* of the Persian
+lists — were the first people Darius subdued, but escaped Persian rule again before 480.
+
 ## Causal Analysis
 
 caused_by: the westward pressure of the **Massagetae** and a drying steppe climate;
@@ -98,4 +145,7 @@ methodological debate. The Persian phase (Darius's expedition) is reserved for C
 
 - Predecessors/rivals: [[cimmerians]] · Subject peoples: [[thracians]] · Later successors: the Sarmatians
 - Foes: [[neo-assyrian-empire]] · Urartu · Trade: Olbia and the Greek colonies
-- Source-critique: [[herodotus-reliability]] · Period: [[archaic-period]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 33a)
+- Source-critique: [[herodotus-reliability]] · Period: [[archaic-period]]
+- Eastern Saka & Achaemenid frontier: [[bactria]] · [[gandhara]] · [[achaemenid-empire]]
+- European campaign: [[darius-scythian-expedition-513bce]] · [[thrace]] (Skudra)
+- Sources: [[boardman-cah-v3p2-1991]] (Ch. 33a, western Scythians) · [[boardman-cah-v4-1988]] (Chs. 3c eastern Saka, 3f European expedition)

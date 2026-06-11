@@ -26,7 +26,7 @@ is treated as one of the period's defining global developments — and as a live
 interpretive debate ([[axial-age-controversy]]).
 
 The five "classic" Axial sites and their breakthroughs:
-- **Greece** — Ionian natural philosophy, the Sophists, Socrates/Plato/Aristotle.
+- **Greece** — Ionian natural philosophy (the [[presocratics|Presocratics]]), the Sophists, Socrates/Plato/Aristotle.
 - **Israel** — the Hebrew prophets and ethical monotheism.
 - **India** — the Upanishads, the [[buddha|Buddha]], and Mahavira (Jainism).
 - **China** — [[confucius|Confucius]], the Daoists, Mohists, and Legalists (the

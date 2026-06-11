@@ -7,7 +7,7 @@ period_active: [Early Iron Age, Archaic Period, Classical Antiquity]
 controlled_by: [the Temenid kings (notably Pheidon), later a college of damiorgoi]
 events_here: [the destruction of Asine, the acme under Pheidon, the victory over Sparta at Hysiae (669), the seizure of Olympia (668), the defeat at Thyreatis (546)]
 processes_here: [the rivalry with Sparta, the hoplite revolution]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, peloponnese, mediterranean, archaic-period]
 ---
@@ -56,6 +56,20 @@ the Champions), losing its eastern lands and its place as a great power — ther
 "almost in isolation" by the [[peloponnesian-league|Spartan Alliance]], and notably
 neutral in the Persian Wars.
 
+## Sepea and neutrality (CAH IV)
+
+The isolation hardened into catastrophe. About **494** [[cleomenes-i|Cleomenes I]] of Sparta
+annihilated the Argive army at **[[battle-of-sepea-494bce|Sepea]]** near Tiryns — a reported
+**6,000 hoplites** dead, a generation of manpower gone. [[boardman-cah-v4-1988|CAH Vol. IV]]
+(Ch. 6, Jeffery) traces the consequences: the aristocracy was so depleted that a **more
+democratic government** took over (its enemies sneered "government by slaves"), and Argos
+turned decisively to **neutrality** — citing its losses, and a Delphic warning to beware
+"danger from its neighbours," to refuse the Greek coalition against Xerxes, while cultivating
+a quiet understanding with **Persia** (justified by the myth that Argive **Perseus** was the
+Persians' common ancestor). The 1,000 Argive volunteers who later helped [[aegina|Aegina]]
+against Athens — probably aristocrats out of sympathy with the new regime — were destroyed in
+their turn. Sepea thus removed Argos as a factor in the Persian Wars.
+
 ## Why Argos mattered
 
 - The **chief Peloponnesian counterweight to Sparta** — whose victory at Hysiae and
@@ -66,6 +80,6 @@ neutral in the Persian Wars.
 
 ## Related
 
-- Rival: [[sparta]] (Hysiae; Thyreatis 546) · destroyed: Asine · faction-tie: [[corinth|Pheidon & the Bacchiads]]
-- Near-tyrant: Pheidon (cf. [[greek-tyranny]]) · isolated by: [[peloponnesian-league]]
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond)
+- Rival: [[sparta]] (Hysiae; Thyreatis 546; [[battle-of-sepea-494bce|Sepea 494]]) · destroyed: Asine · faction-tie: [[corinth|Pheidon & the Bacchiads]]
+- Near-tyrant: Pheidon (cf. [[greek-tyranny]]) · isolated by: [[peloponnesian-league]] · later ally-by-appeal: [[aegina]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond) · [[boardman-cah-v4-1988]] (Ch. 6, Jeffery)

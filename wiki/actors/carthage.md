@@ -9,7 +9,7 @@ affiliated_with: [[[phoenicians|Tyre]] (mother-city), the western Phoenician col
 opposed_by: [the western Greeks (Syracuse), later [[roman-republic|Rome]]]
 key_events: [the traditional foundation by Elissa/Dido (814), Malchus's Sardinian campaign (c. 550), the treaties with Rome (509, 348)]
 key_processes: [[[phoenician-colonization|Phoenician colonization]], [[trade-network-formation]], the Greco-Punic conflict in Sicily]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, north-africa, mediterranean]
 ---
@@ -87,6 +87,36 @@ their hegemony." These clashes opened the long Greco-Punic wars that the
 fifth-century Magonids would carry to Himera (480) and beyond — Carthage emerging as the
 organizing power of the Phoenician resistance to Greek Sicily.
 
+## The Magonid empire and Himera (CAH IV)
+
+[[boardman-cah-v4-1988|CAH Vol. IV]] (Ch. 16, David Asheri) carries the story into the
+early fifth century. Asheri dates Carthage's transformation **from city-state into
+empire** to the **third quarter of the sixth century**, prompted by its **isolation
+from Phoenicia** after the Persian conquest of Tyre (539) and annexation of Egypt
+(525): the scattered western Punic posts (north Africa, Sardinia, Spain, the
+Balearics, Sicily) "reluctantly sought the protection of the strongest city of their
+own stock." The **battle of Alalia (c. 535)**, won by allied **Carthaginian and
+[[etruscans|Etruscan]] fleets** over the Phocaeans, made the western Mediterranean
+"virtually a Punic lake"; trade was regulated by **treaties** (with Etruscan cities,
+Massalia, and the **First Treaty with Rome**, c. 509) that delimited spheres rather
+than excluding Greeks. The **Magonid family** then directed overseas affairs for a
+century.
+
+- **The Punic west in Sicily** held three cities — **Motya** (the island fortress and
+  naval base, with its *tophet* of child sacrifices), **Panormus** (Palermo) and
+  **Soloeis** — allied with the **Elymians** of Segesta and Eryx. Asheri's key point:
+  early conflict here was **political and commercial, not cultural or racial** — Punic
+  Sicily was itself deeply hellenized, and Greek cities (Himera, Selinus, Rhegium)
+  readily took the **pro-Punic** side against other Greeks.
+- **The battle of [[battle-of-himera-480bce|Himera]] (480).** When Theron of Acragas
+  expelled Himera's tyrant **Terillus**, the latter's appeal to his guest-friend
+  **Hamilcar** (the Magonid ruler) launched a great expedition that was destroyed by
+  **[[gelon|Gelon]]** and Theron; Hamilcar died (and received heroic cult at home).
+- **Aftermath.** The peace was **moderate** — a 2,000-talent indemnity and two temples,
+  with all Sicilian possessions retained. Defeat was "not a catastrophe": Carthage
+  **withdrew into Africa for seventy years**, phoenicizing the Libyans, consolidating
+  its African empire, and launching the **Atlantic voyages** of exploration.
+
 ## Causal Analysis
 
 caused_by: the [[phoenician-colonization|Phoenician colonization]] from [[tyre|Tyre]];
@@ -108,5 +138,6 @@ Carthaginian "kings" he corrects to elected suffetes.
 
 - Mother-city: [[tyre]] · People: [[phoenicians]] · Process: [[phoenician-colonization]]
 - Far-western kin: [[gades-tartessos]] · Period: [[archaic-period]]
-- Greek rivals: [[magna-graecia]] · [[syracuse]] (Pentathlus, Dorieus) · Elymians/Motya
-- Later enemy: [[roman-republic]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 32, Culican) · [[boardman-cah-v3p3-1982]] (Ch. 38, Graham)
+- Greek rivals: [[magna-graecia]] · [[syracuse]] · [[gelon]] (Himera) · ally: [[etruscans]] (Alalia)
+- Conflict: [[battle-of-himera-480bce]] · phenomenon: [[western-greek-tyranny]] · Elymians/Motya
+- Later enemy: [[roman-republic]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 32, Culican) · [[boardman-cah-v3p3-1982]] (Ch. 38, Graham) · [[boardman-cah-v4-1988]] (Ch. 16, Asheri)

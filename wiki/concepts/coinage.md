@@ -5,7 +5,7 @@ origin: monetization as a path-dependent process; coinage invented independently
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [near-east, mediterranean, iran-plateau, south-asia, china, central-asia]
 contested: yes
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -137,6 +137,40 @@ coinage began to play a role as bullion." Yet "once society had grown sufficient
 mobile for the concept of coinage to take hold, Greek economic life became wedded to the
 new invention."
 
+## Coinage as State Property, not Retail Money (CAH IV)
+
+[[boardman-cah-v4-1988|CAH Vol. IV]] (Ch. 7d, Colin Kraay) deepens the same correctives
+into a full argument about **what coinage was for**. Kraay dates the start of mainland
+silver coinage **later than once thought** — the three Saronic mints, **Aegina, Corinth and
+Athens**, all begin in roughly **570–550**, after (and modelled on the stamping practice of)
+the earlier **Asia Minor electrum**, whose own course he places c. 650/640–550 (the "middle
+chronology" of the Ephesus Artemisium finds). He reconciles the **Pheidon/Aegina tradition**
+with the low coin-dates by separating a **reform of weight-standards** (the *drachma* as a
+fixed weight of silver replacing the "handful" of iron spits — *obeliskoi*) from the later
+**stamping** of those weights as true coins; the same spit-and-handful etymology explains
+*drachma* and *obolos*.
+
+Kraay's central thesis, from the behaviour of the coins themselves:
+- **Not for retail trade.** Retail needs vast numbers of very small denominations; archaic
+  mints produced **few fractions** (Athens struck huge numbers of tetradrachms but almost no
+  small change; Syracuse and Gela nothing below the didrachm). The smallest electrum (1/96
+  stater) was already too valuable for daily marketing.
+- **Not primarily for export either.** **Hoard distribution** shows most coinages **stayed
+  near home** (Sicilian and South Italian coins barely travelled; Aeginetan hoards cluster in
+  the Aegean and Crete). The exceptions — **Athens' owls** and the **Thraco-Macedonian** big
+  denominations — are precisely the states with **their own silver mines**, exporting a
+  surplus; and the great **Persian-satrapy hoards** (c. 520–470) represent **tribute and
+  bullion transfer**, a *secondary* development long after coinage began.
+- **Coinage is the state's stored surplus wealth.** Its purpose was internal and fiscal —
+  receiving taxes, fines and harbour-dues, and paying officials, mercenaries and
+  building-works. The invariable **civic badge** is "a statement of ownership": "(this is the
+  property) of the Syracusans." The state could even **profit** by making its coin obligatory
+  in official payments above bullion value, or by demonetizing an issue.
+- **Why it spread so fast among Greeks** owes less to convenience (or richer Near Eastern
+  neighbours would have coined first) than to the **competitive particularism of the
+  city-states**: each polis marked its property with a device "as different as possible" from
+  its neighbours' — civic identity stamped in metal.
+
 ## Contested Questions
 
 - **Primitivism vs. modernism / the scale of the ancient economy** — how monetized,
@@ -154,5 +188,5 @@ underpins [[empire]] and [[state-formation]]; the [[slavery|slave]] trade was a
 major monetized commerce (Dacian slaves for Roman silver). Compare the urban-market
 analysis with [[urbanization]] and [[city-state]].
 
-- Invention: [[lydia]] · [[sardis]] · [[archaic-greek-economy]] · [[pisistratus|Athens's first coinage]]
-- Sources: [[benjamin-cwh-v4-2015|CWH IV]] (global monetization) · [[boardman-cah-v3p3-1982|CAH III.3]] (the Greek invention, Chs. 45a–b)
+- Invention: [[lydia]] · [[sardis]] · [[archaic-greek-economy]] · [[pisistratus|Athens's first coinage]] · [[aegina]] (earliest mainland silver)
+- Sources: [[benjamin-cwh-v4-2015|CWH IV]] (global monetization) · [[boardman-cah-v3p3-1982|CAH III.3]] (the Greek invention, Chs. 45a–b) · [[boardman-cah-v4-1988|CAH IV]] (coinage as state property, Ch. 7d Kraay)

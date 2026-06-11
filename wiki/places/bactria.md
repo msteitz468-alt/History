@@ -7,8 +7,8 @@ period_active: [Early Bronze Age, Late Bronze Age, Archaic Period, Classical Ant
 controlled_by: [Oxus Civilization/BMAC, [[achaemenid-empire|Achaemenids]], [[alexander-the-great|Alexander]]/Seleucids, [[greco-bactrian-kingdom|Greco-Bactrians]], [[kushan-empire|Kushans]], [[sasanian-empire|Sasanians]], Hephthalites, Türks, Arabs]
 events_here: [Alexander's conquest and marriage to Roxana, secession of the Greco-Bactrian kingdom c. 250 BCE]
 processes_here: [[[trade-network-formation]], [[silk-roads]], Hellenization, [[pastoral-nomadism|nomad migration]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-11
 tags: [place, central-asia, classical-antiquity]
 ---
 
@@ -33,7 +33,8 @@ system."**
   Andronovo steppe. Indo-Iranian-speaking migrants assimilated into this population
   in the Late Bronze/Early Iron Age.
 - **Achaemenid satrapy** (6th–4th c. BCE) — Bactria's first written records, as the
-  twelfth satrapy in [[achaemenid-empire|Darius I's]] lists.
+  twelfth satrapy in [[achaemenid-empire|Darius I's]] lists. See **"Bactria as the
+  Achaemenid mainstay of Central Asia"** below.
 - **Alexander and the Seleucids** — [[alexander-the-great|Alexander]] conquered
   Bactria, allied with its king, and married **Roxana**; Greek colonies followed
   (the excavated city of **Ai Khanum** on the Oxus, with gymnasium, theatre, and
@@ -51,6 +52,46 @@ system."**
   Bactrian **Buddhism** (the Bamiyan Buddhas; the Barmakid family of Abbasid
   [[baghdad|Baghdad]]) passed westward into the Islamic world.
 
+## Bactria as the Achaemenid mainstay of Central Asia
+
+[[boardman-cah-v4-1988|CAH Vol. IV]] (Ch. 3c, Francfort) makes Bactria the
+**political mainstay of the Achaemenid empire in Central Asia** — the linchpin of a
+satrapal complex that also embraced **Sogdiana** (Marakanda/Samarkand, Cyropolis on
+the Jaxartes), **Chorasmia** (the Oxus delta), **Margiana** (Merv), **Aria** and
+**Arachosia**. The chapter corrects an old assumption: the Achaemenids "did not found
+Bactra, did not invent irrigation, did not create the civilization of Central Asia" —
+they **conquered an already ancient, city-dwelling, irrigating society** descended
+from the Bronze Age Oxus Civilization and coveted its riches.
+
+- **Conquest.** **[[cyrus-the-great|Cyrus II]]** subdued Bactria, Margiana, Sogdiana
+  and the Saka between 539 and 530; the Bactrians, seeing in him "the rightful heir of
+  Astyages," reportedly rallied to him. Cyrus founded **Cyropolis** and seven frontier
+  forts against the northern **[[scythians|Saka]]**, and met his **death** on the
+  northeastern steppe frontier (against the Massagetae of Tomyris, or the Derbikes —
+  the sources disagree). **Darius I** crushed the great revolts of 522–521 here (the
+  Margian rising under Frada, 55,000 killed) and campaigned against the **Saka
+  tigrakhauda in 519**, capturing their chief Skunkha.
+- **Government — a "feudal" satrapy.** Bactria was repeatedly the **apanage of princes
+  of the blood** (royal brothers and sons as satraps), a double-edged policy: the
+  Bactrians would back their satrap's claims to the throne, and risings recurred down
+  to Artaxerxes I. Beneath the satrap stood a hierarchy Francfort terms **"feudal"** —
+  local lords (the Ariamazes, Oxyartes, Spitamenes whom Alexander would face) commanding
+  fighting men and fortresses, mobilized in the King's service.
+- **Economy and tribute.** An **irrigation-oasis economy** (canals up to 60 km long;
+  wheat, barley, millet, grapes) plus stock-raising and mining (Bactrian gold panned
+  from the Oxus, Sogdian lapis lazuli and carnelian, Chorasmian turquoise). The
+  Apadana reliefs at Persepolis show the **Bactrian delegation** bringing gold,
+  camels and metal vessels; Herodotus's fiscal list has the eastern satrapies render
+  some **2,530 talents of silver**, Bactria alone 360.
+- **Culture.** Persian influence reached architecture (the satrapal palace at **Kalaly
+  Gyr** in Chorasmia) and the minor arts (the **Oxus Treasure**), but Central Asia
+  "did not shine in the major arts." Its deeper legacy was an **oral literature** —
+  religious (the **Gathas** and **Yashts** of the Avesta, possibly composed in
+  Chorasmia/Bactria, the candidate cradle of **Zoroastrianism**) and **epic** (the
+  Iranian Airya-vs-Tuirya cycle of the Kayanid kings, transmitted for centuries to
+  Firdausi's *Shahnama*). Beyond the settled oases lay the **Saka kurgan world**
+  (Pazyryk, Issyk) of mounted nomads in [[scythians|"animal-style"]] gold.
+
 ## Why Bactria Mattered
 
 Bactria was the **hinge of Afro-Eurasia** — the place where the [[silk-roads|Silk
@@ -66,4 +107,11 @@ A largely **archaeological** history (BMAC discovered by Sarianidi; Ai Khanum
 excavated by the French) supplemented by Greek, Chinese, and numismatic evidence.
 The Greco-Bactrian kingdom is known disproportionately through its spectacular coins.
 Lerner's chapter exemplifies CWH IV's use of a single crossroads region to display
-patterns visible only at the interregional scale.
+patterns visible only at the interregional scale. For the **Achaemenid satrapy**,
+Francfort's [[boardman-cah-v4-1988|CAH IV]] chapter draws on Soviet/Central Asian
+archaeology (Chorasmian and Bactrian oasis surveys), the Bisitun inscription, the
+Persepolis Fortification Tablets and the Oxus Treasure — while cautioning that
+representational art and inscriptions are so scarce that no definite religion
+(Zoroastrianism included) or priestly caste can be demonstrated for the period.
+
+- Source (Achaemenid section): [[boardman-cah-v4-1988]] (Ch. 3c, Francfort)

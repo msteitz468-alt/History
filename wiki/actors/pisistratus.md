@@ -9,7 +9,7 @@ affiliated_with: [the "hill-men" faction, Argos, Eretria, Thebes, Thessaly, Mace
 opposed_by: [the "plain" (Lycurgus) and "coast" (Megacles/the Alcmaeonids) factions]
 key_events: [the war against Megara, the three bids for tyranny, the battle of Pallene (546), the conquest of Naxos, the cultural reorganization of Athens]
 key_processes: [the consolidation of tyranny, the strengthening of public cults, the development of Attic trade and art]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, archaic-period, central-greece]
 ---
@@ -94,9 +94,20 @@ is a genuine, positive contribution.
   Panathenaea and the City Dionysia — that prefigured the Classical Athenian polis and
   empire.
 
+## The succession (CAH IV)
+
+Pisistratus left three sons; the [[pisistratidae|tyranny passed to **Hippias and
+Hipparchus**]], who [[boardman-cah-v4-1988|CAH Vol. IV]] (Ch. 4, Lewis) shows continuing
+his policy of **conciliating the nobles** (the archon-list records even the Alcmaeonid
+[[cleisthenes|Cleisthenes]] and Miltiades holding office under them) and his **cultural
+patronage**, while his network of foreign friendships frayed. The tyranny hardened after
+Hipparchus' [[assassination-of-hipparchus-514bce|assassination]] (514) and fell to Sparta
+in 510 — clearing the way for the [[cleisthenic-reforms-508bce|Cleisthenic reform]] that
+his preservation of Solon's order had left intact to build on.
+
 ## Related
 
 - City: [[athens]] · preserved the reforms of [[solon]] · rivals: the [[alcmaeonids]] (Megacles) · Lycurgus
 - A moderate case of [[greek-tyranny]] · allies: Lygdamis of Naxos · [[polycrates]] · [[euboea|Eretria]] · Argos
-- Bequest: the Panathenaea · Attic drama (Thespis) · Period: [[archaic-period]]
-- Source: [[boardman-cah-v3p3-1982]] (Ch. 44, Andrewes)
+- Successors: [[pisistratidae]] (Hippias & Hipparchus) → [[cleisthenes]] · Bequest: the Panathenaea · Attic drama (Thespis)
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 44, Andrewes) · [[boardman-cah-v4-1988]] (Ch. 4, Lewis)

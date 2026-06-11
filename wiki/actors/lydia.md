@@ -98,6 +98,20 @@ Sardis was also the source of **electrum and gold** and a focal point in what Co
 an East Greek "common market," and the funding-point for exiled poets like Alcaeus. The
 fall of Croesus to [[achaemenid-empire|Cyrus]] handed this whole nexus to Persia.
 
+## The Lydian legacy to Persian Anatolia (CAH IV)
+
+[[boardman-cah-v4-1988|CAH Vol. IV]] (Ch. 3e, Mellink) shows that the Mermnad kingdom
+**did not simply end in 546 — it was inherited**. Cyrus "wisely continued to rule Lydia
+and its West Anatolian realm from [[sardis|Sardis]]," keeping the Lydian road-system,
+garrisons and tax-machinery intact, and the **Persian administration of Anatolia was
+built on Lydian foundations**. More: the **Ionian–Lydian–Achaemenid cultural *koine***
+that the Mermnads had fostered (their openness to Greeks and Egyptians) became a source
+of inspiration for Achaemenid royal art — **Lydian stone-cutters and wood-carvers built
+Darius' palaces at Susa and Cyrus' Pasargadae** (named on the Susa foundation-charters).
+The Lydian symbiosis-with-the-Greeks problem also passed to Persia, and the Persians
+"fell victim to it," provoking the [[ionian-revolt|Ionian Revolt]] and the Greco-Persian
+wars. See [[greco-persian-art]] for the hybrid art of the satrapies.
+
 ## Historiography
 
 Known from **Herodotus** (the dynastic spine, the famous Croesus logos), the **Assyrian
@@ -111,4 +125,5 @@ shared Cimmerian crisis and tumulus-burial tradition.
 - Capital: [[sardis]] · Predecessor kingdom: [[phrygians]] · Foe: [[cimmerians]] · Conqueror: [[achaemenid-empire]]
 - Allies: [[saite-egypt]] · Delphi · Bequest: [[coinage]] · Adversary-empire: [[neo-assyrian-empire]] ([[ashurbanipal]])
 - Eastern Greeks: [[ionia]] · [[polycrates|Samos]] · Sardis as "metropolis of the Greek East"
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 34a, Mellink) · [[boardman-cah-v3p3-1982]] (Ch. 39a, Cook)
+- Persian successor-rule: [[achaemenid-empire]] · [[dascylium]] · [[greco-persian-art]] · [[ionian-revolt]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 34a, Mellink) · [[boardman-cah-v3p3-1982]] (Ch. 39a, Cook) · [[boardman-cah-v4-1988]] (Ch. 3e, Mellink)

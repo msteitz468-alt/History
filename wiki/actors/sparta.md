@@ -9,7 +9,7 @@ affiliated_with: [the Peloponnesian (Spartan) Alliance, Elis, Tegea, Corinth, la
 opposed_by: [the Messenians, Argos, the Arcadians, the Helots]
 key_events: [the First Messenian War (~740–710), the defeat at Hysiae (669), the Second Messenian War (~640–600), the alliance with Tegea, the defeat of Argos at Thyreatis (546)]
 key_processes: [helot serfdom, the militarization of society, the building of the Spartan Alliance]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, peloponnese]
 ---
@@ -105,6 +105,21 @@ Archaic anti-tyranny intervention that toppled tyrants across Greece (see
 [[greek-tyranny]]).
 contributed_to: the bipolar Sparta–Athens rivalry that would define Classical Greece.
 
+## The reign of Cleomenes I (CAH IV)
+
+By the time Persia reached the Aegean, Sparta was the **hub of the [[peloponnesian-league|Peloponnesian
+League]]** and "the focal point in Greece" for any land war. [[boardman-cah-v4-1988|CAH Vol.
+IV]] (Ch. 6, Jeffery) carries the story into the reign of **[[cleomenes-i|Cleomenes I]]**
+(c. 521–490). His policy reveals the **structural brake on Spartan power**: fear of **Helot
+revolt** made him decline distant commitments (Samos 517, the Scythians 513, the
+[[ionian-revolt|Ionian Revolt]] 499). Yet he intervened decisively where he could — expelling
+the Athenian [[pisistratidae|tyranny]] (510), miscalculating by backing Isagoras against
+[[cleisthenes|Cleisthenes]], and annihilating [[argos|Argos]] at **[[battle-of-sepea-494bce|Sepea]]**
+(494). His feud with co-king **Demaratus** (whom he deposed by bribing Delphi) and his
+violent death exposed the strains of dual kingship — after which Sparta reportedly abolished
+**joint royal command** on campaign. These Helot-driven hesitations would shape the whole
+Greek response to Xerxes.
+
 ## Historiography
 
 Hammond reconstructs Archaic Sparta from **Tyrtaeus** (the contemporary war-poet), the
@@ -118,6 +133,6 @@ two-stage Rhetra/Rider remain debated.
 ## Related
 
 - Subjects: Helots (Messenian serfs) · perioikoi · the [[gortyn-code|Cretan]] system (kindred Dorian serfdom)
-- Rivals: [[argos]] (Hysiae) · Messenia · Arcadia/Tegea · alliance: [[peloponnesian-league]]
-- Backed [[delphi|Delphi]]'s First Sacred War · foes of [[greek-tyranny|tyranny]] · allies [[lydia|Croesus]], [[saite-egypt|Amasis]]
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond)
+- Rivals: [[argos]] (Hysiae, [[battle-of-sepea-494bce|Sepea]]) · Messenia · Arcadia/Tegea · alliance: [[peloponnesian-league]]
+- Kings: [[cleomenes-i]] · Demaratus · Backed [[delphi|Delphi]]'s First Sacred War · foes of [[greek-tyranny|tyranny]] · allies [[lydia|Croesus]], [[saite-egypt|Amasis]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond) · [[boardman-cah-v4-1988]] (Ch. 6, Jeffery)
