@@ -11,6 +11,20 @@ Format:
 
 ---
 
+## 2026-06-11 section | CAH Vol. II, Part 1 (1973) | Section 4: Anatolia & the Hittites (Chs. VI, XV) | Middle–Late Bronze Age | anatolia, near-east | Pages created: 5 | Pages updated: 3
+
+The Hittite thread (Gurney) from Anitta to the Hurrianized Middle Kingdom. Created
+`hittites` (Old + Middle Kingdom; the five Boğazköy languages; the pankuš),
+`hattusha` (the capital & archives), `hattusili-i` (Syrian wars; the death-bed
+testament), `mursili-i` (the destruction of Aleppo & the sack of Babylon; his
+murder), and `telipinu-edict-1500bce` (the succession law & the pankuš-as-court).
+Updated `fall-of-babylon-1595bce` (Khana corridor & Kassite-alliance mechanics),
+`iamkhad`, and `troy` (Troy VI / Hittite Wilusa). Resolved the `[[hittites]]` and
+`[[hattusha]]` forward-links standing since Section 1. Sections 5 (the Aegean) and 6
+(the Persian Plateau), plus the deferred Late Bronze Age period page, remain.
+
+## 2026-06-11 admin | Pushed CAH Vol. II.1 Sections 1–3 to GitHub (msteitz468-alt/History) — 16f3b80..5fbd7df.
+
 ## 2026-06-11 section | CAH Vol. II, Part 1 (1973) | Section 3: The Levant & the Amarna international system (Chs. III, X, XI) | Late Bronze Age | levant, near-east, mesopotamia | Pages created: 4 | Pages updated: 1
 
 Created `mitanni` (the Hurrian–Indo-Aryan fourth great power, the maryannu chariotry),

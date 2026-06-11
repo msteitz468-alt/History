@@ -48,12 +48,13 @@ Hurrian penetration of Syria that would, two centuries later, produce
 
 ## The fall to the Hittites
 
-Yamhad's "Great Kingship" was ended by the **[[hittites|Hittites]]**. **Hattusili I**
-struck first at Alalakh (destroying level VII ~1620s), then enveloped Aleppo's
-northern allies Urshu and Hashshum; his grandson **Mursili I** finally **destroyed
-Aleppo itself** before marching on to sack [[fall-of-babylon-1595bce|Babylon]]. The
-later **Treaty of Aleppo** (14th c.) recalls that it was Hattusili who first broke
-"the great kingship of Aleppo." A weakened Yamhad survived as a lesser state,
+Yamhad's "Great Kingship" was ended by the **[[hittites|Hittites]]**.
+**[[hattusili-i|Hattusili I]]** struck first at Alalakh (destroying level VII
+~1620s), then enveloped Aleppo's northern allies Urshu and Hashshum; his grandson
+**[[mursili-i|Mursili I]]** finally **destroyed Aleppo itself** before marching on to
+sack [[fall-of-babylon-1595bce|Babylon]]. The later **Treaty of Aleppo** (14th c.)
+recalls that it was Hattusili who first broke "the great kingship of Aleppo," and
+Mursili who "destroyed it." A weakened Yamhad survived as a lesser state,
 increasingly Hurrianized, until it was absorbed into the Mitannian and then the
 Hittite orbit.
 
@@ -78,6 +79,6 @@ chronology is pegged to the Babylonian and Hittite sequences. See
 ## Related
 
 - People: [[amorites]] · [[hurrians]] · Place: [[mari]] · Marriage-ally: [[zimri-lim]]
-- Destroyed by: [[hittites]] → [[fall-of-babylon-1595bce]]
+- Destroyed by: [[hattusili-i]] & [[mursili-i]] of the [[hittites]] → [[fall-of-babylon-1595bce]]
 - Concept: [[interpolity-law]] · Process: [[trade-network-formation]]
 - Period: [[middle-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]

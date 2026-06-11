@@ -18,8 +18,8 @@ reliability_notes: >
   here is an Internet Archive OCR conversion of the EPUB; proper names carry OCR
   noise (e.g. "Cnossus" = Knossos, "Ammenemes" = Amenemhat, "Khattusha" =
   Hattusha, "Seqenenre", "Iakhdunlim" = Yakhdun-Lim).
-pages_created: 21
-pages_updated: 7
+pages_created: 26
+pages_updated: 8
 ingested: 2026-06-11
 tags: [source]
 ---
@@ -144,6 +144,30 @@ the Hittites; Kenyon on the **Canaanite** second urbanization (Byblos as hearth,
 MB walled-town network — Jericho, Megiddo, Hazor — and the MB→LB continuum down to
 the ~1200 Sea Peoples). The Amarna international-system page and the **Late Bronze Age
 period page** are deferred (Amarna proper belongs to the now-queued CAH Vol. II.2).
+
+## 2026-06-11 section | CAH Vol. II.1 | Section: 4 — Anatolia & the Hittites (Chs. VI, XV) | Pages created: 5 | Pages updated: 3
+
+Created: `actors/hittites.md`, `places/hattusha.md`, `actors/hattusili-i.md`,
+`actors/mursili-i.md`, `events/telipinu-edict-1500bce.md`.
+Updated: `events/fall-of-babylon-1595bce.md` (the Khana corridor & Kassite-alliance
+mechanics; person-page links), `actors/iamkhad.md` (Hattusili/Mursili person links),
+`places/troy.md` (Troy VI & Hittite Wilusa/Arzawa; +1 source).
+Key content: Gurney on Anatolia c. 1750–1380 — the five languages of the Boğazköy
+archives and the Indo-European/Hattian/Hurrian ethnolinguistic map; the origin of
+the kingdom of [[hattusha|Hattusha]] (Anitta → the cursed-site refoundation → the
+new Labarna dynasty); the **Old Kingdom** ([[hattusili-i|Hattusili I]]'s Syrian
+wars, the destruction of [[alalakh|Alalakh VII]] and the long duel with
+[[iamkhad|Aleppo]], his death-bed testament; [[mursili-i|Mursili I]]'s destruction
+of Aleppo and [[fall-of-babylon-1595bce|sack of Babylon]], then his assassination);
+the half-century of regicide; the **[[telipinu-edict-1500bce|Telipinu edict]]** (the
+fixed succession law and the pankuš as a court over the king), early Hittite
+aristocratic society and the matrilineal Tawananna residue; and the **Middle
+Kingdom** (the Mitannian eclipse under Saustatar, the Tudhaliya II–Arnuwanda
+recovery, and the Hurrianization of the dynasty — Kikkuli's horse-manual — that
+leads into Šuppiluliuma I and the Empire). Resolved the long-standing `[[hittites]]`
+and `[[hattusha]]` forward-links from Sections 1–3. (Troy VI's fuller Aegean
+synchronism and the **Late Bronze Age period page** remain for Section 5 / the
+synthesis pass.)
 
 ---
 

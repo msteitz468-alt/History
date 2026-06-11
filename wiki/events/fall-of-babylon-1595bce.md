@@ -7,7 +7,7 @@ dating_method: textual / synchronistic
 period: [Middle Bronze Age]
 region: [mesopotamia, near-east]
 location: [Babylon]
-actors_primary: [[[hittites|Mursili I]], [[babylon-first-dynasty|Samsuditana]]]
+actors_primary: [[[mursili-i|Mursili I]], [[babylon-first-dynasty|Samsuditana]]]
 actors_secondary: [[[kassites|the Kassites]], Agum II]
 event_type: [collapse, battle]
 scale_immediate: regional
@@ -26,21 +26,34 @@ BCE, middle chronology), which ended the **[[babylon-first-dynasty|First Dynasty
 Babylon]]** and opened the way for the **[[kassites|Kassites]]**. A raid from far
 beyond the horizon, it closes the Old Babylonian period. Treated in
 [[edwards-cah-v2p1-1973|CAH Vol. II, Part 1]] (Ch. V §VII, Gadd; with the Hittite
-side from Chs. VI/XV, Gurney — to be deepened in Section 4).
+side from Chs. VI/XV, Gurney).
 
 ## Narrative
 
 Babylon under its last king **Samsuditana** had declined to a small realm "spinning
 itself out only because there was no neighbour with force enough to cut even so thin
-a thread." The thread was cut from Anatolia. **[[hittites|Mursili I]]**, grandson of
-Hattusili I, having already destroyed [[iamkhad|Aleppo]] in Syria, marched the whole
-length of the Euphrates and fell on Babylon. The Babylonian record is a single
-laconic chronicle note — *"in the time of Samsuditana the Hittite came to the land
-of Akkad"* — phrased with such reserve that its meaning was once doubted. The
-Hittite side confirms a true sack: "prisoners and possessions" were carried back to
-Hattusha, including the statues of **Marduk and his consort Sarpanitum**, the gods
-of Babylon. Mursili did not stay to rule; he withdrew to Anatolia (where he was soon
-assassinated), leaving Babylonia in a vacuum that the [[kassites|Kassites]] filled.
+a thread." The thread was cut from Anatolia. **[[mursili-i|Mursili I]]**, grandson of
+[[hattusili-i|Hattusili I]], having already destroyed [[iamkhad|Aleppo]] in Syria,
+marched the whole length of the Euphrates and fell on Babylon. The Babylonian record
+is a single laconic chronicle note — *"in the time of Samsuditana the men of Hatti
+marched against the land of Akkad"* — phrased with such reserve that its meaning was
+once doubted. The Hittite side (the deeds of Mursili and the testimony of the
+[[telipinu-edict-1500bce|Telipinu edict]]) confirms a true sack: rich booty was
+carried back to [[hattusha|Hattusha]], including the statues of **Marduk and his
+consort Sarpanitum**, the gods of Babylon. Mursili did not stay to rule; he withdrew
+to Anatolia (where he was soon assassinated), leaving Babylonia in a vacuum that the
+[[kassites|Kassites]] filled.
+
+The **mechanics of the march** are the puzzle. To reach Babylon Mursili had to pass
+through the middle-Euphrates district of **Khana** (around the Khabur mouth), in
+this period drifting out of Babylonian control and into the orbit of the rising
+**[[kassites|Kassites]]**. Since he marched ~500 miles apparently unopposed and
+**did not defeat the Kassites** — who took the throne after him — the likeliest
+reading is that the Kassites were his **allies of convenience**: either they invited
+the Hittites for a share of the spoil, or Mursili courted them as a bulwark against
+the [[hurrians|Hurrians]] (Telipinu records that he "defeated the lands of the
+Hurrians" on the same expedition). On either reading, **permanent conquest was never
+the aim** — which is why the booty-laden raider simply went home.
 
 ## Causal Analysis
 
@@ -78,7 +91,7 @@ chronological system hostage. See [[cambridge-ancient-history-methodology]] and
 
 ## Related
 
-- Ended: [[babylon-first-dynasty]] · By: [[hittites]] (Mursili I) · Opened the way for: [[kassites]]
-- Part of the same Hittite thrust as the fall of [[iamkhad|Aleppo]]
+- Ended: [[babylon-first-dynasty]] · By: [[mursili-i|Mursili I]] of the [[hittites|Hittites]] · Opened the way for: [[kassites]]
+- Part of the same Hittite thrust as the fall of [[iamkhad|Aleppo]] · Recorded in: [[telipinu-edict-1500bce]]
 - Concept: [[mesopotamian-chronology]] · Period: [[middle-bronze-age]] → [[late-bronze-age]]
 - Source: [[edwards-cah-v2p1-1973]]

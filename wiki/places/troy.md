@@ -7,7 +7,7 @@ period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Archaic Pe
 controlled_by: [[[early-bronze-age-anatolia|Early Bronze Anatolian kingdoms]]]
 events_here: [[[unknown]]]
 processes_here: [[[early-bronze-age-anatolia]], [[urbanization]], [[trade-network-formation]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, anatolia, mediterranean, early-bronze-age]
 ---
@@ -82,6 +82,22 @@ horizon stand at the centre of a debate over whether such pottery (and the
 north-western Anatolia *into* Greece (Mellaart) or the reverse — see
 [[indo-european-migrations]].
 
+## Troy VI and Hittite "Wilusa" (the Middle/Late Bronze citadel)
+
+The broad, finely-built citadel of **Troy VI** is the settlement of the
+[[middle-bronze-age|Middle]] and [[late-bronze-age|Late Bronze Age]] — the one that
+underlies the Homeric tradition. **[[edwards-cah-v2p1-1973|CAH Vol. II.1]]** adds two
+threads. From the **[[hittites|Hittite]]** side, a later treaty records that
+"Labarna had conquered Arzawa and **Wilusa**" — and **Wilusa** (≈ Greek *(W)ilios*,
+Ilion) is widely, if not universally, identified with **Troy**, placing it on the
+fringe of the Hittite west alongside the rival kingdom of **Arzawa**. From the
+**[[early-bronze-age-aegean|Aegean]]** side, Mycenaean pottery shows Greece was in
+contact with Troy VI from **Late Helladic II**, and the **earthquake destruction**
+of Troy VI falls early in Late Helladic IIIb — a synchronism the CAH cautiously
+links to the Greek legend of Heracles' sack of "Laomedon's Troy" (accomplished, in
+the myth, with the aid of Poseidon the earthquake-god). The fuller Aegean treatment
+belongs to the Mycenaean chapters (this volume's Section 5).
+
 ## Significance
 
 Troy is doubly important: as the **archaeological type-site** for the prehistory
@@ -111,3 +127,4 @@ and approximate. See [[cambridge-ancient-history-methodology]].
 - Place: [[byblos]] · [[mari]] (other EBA emporia) · [[lerna]] (the Aegean type-site) · Transregional: [[mediterranean-world]]
 - Period: [[early-bronze-age]] · [[middle-bronze-age]] · [[late-bronze-age]]
 - Controversy: [[indo-european-origins]] (the end-EB2 "Luwian" destructions) · Migration: [[indo-european-migrations]]
+- Late Bronze context: [[hittites]] (Wilusa/Arzawa) · State: [[hattusha]] · Source: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v1p2-1971]]
