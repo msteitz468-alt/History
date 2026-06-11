@@ -95,5 +95,5 @@ a vivid case of how a single archive can rewrite the religious history of a regi
 ## Related
 
 - City: [[ugarit]] · Culture: [[canaanite-civilization]] · Script: [[aegean-scripts|alphabetic & Aegean scripts]]
-- Comparanda: [[unknown|Hebrew Bible]] · Homer ([[unknown|Homeric poems]]) · Region: [[levant]]
+- Comparanda: [[unknown|Hebrew Bible]] · [[homer|Homer]] ([[homeric-poems-as-history|Homeric poems]]) · Region: [[levant]]
 - Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

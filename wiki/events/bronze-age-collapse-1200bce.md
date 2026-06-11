@@ -152,7 +152,8 @@ This is one of the standing controversies named in the project framework
   contemporary view of the final crisis (grain shortage, ships off the coast) but
   end abruptly with the destructions. The Aegean has no contemporary narrative —
   only archaeology and the much later, problematic memory preserved in
-  [[unknown|Homer]] and Greek legend. CAH II.2 is structurally Egyptocentric on
+  [[homer|Homer]] and Greek legend (see [[homeric-poems-as-history|the Homeric poems
+  as history]]). CAH II.2 is structurally Egyptocentric on
   the collapse because that is where the texts survive.
 - **The "Sea Peoples" debate.** The volume (chapters XXVII–XXVIII) treats the Sea
   Peoples as a prime cause — a wave of migration and raiding that toppled the
