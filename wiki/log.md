@@ -1225,3 +1225,7 @@ Peloponnesian War in all three phases, and the Classical cultural apex. Next bac
 Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Markdown/, un-ingested).
 
 ## 2026-06-11 admin | Pushed completed CAH Vol. V ingest to GitHub (git@github.com:msteitz468-alt/History.git) — 98e1a16..81a3ed6 on main; raw/ remains gitignored.
+
+## 2026-06-11 phase-start | The Cambridge Ancient History Vol. VI — The Fourth Century B.C. (Lewis, Boardman, Hornblower & Ostwald eds., 2nd ed. 1994) | Large-Volume Protocol | Classical Antiquity (404–323 BCE) | source page + 8-cycle Section Plan written (lewis-cah-v6-1994.md)
+
+## 2026-06-11 section | CAH Vol. VI | Section: Cycle 1 — Sources, Sparta as victor, Persia (Chs 1–3) | Pages created: 9 | Pages updated: 4

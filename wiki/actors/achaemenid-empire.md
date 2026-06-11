@@ -9,7 +9,7 @@ affiliated_with: [[[zoroastrianism]], the Persians and Medes]
 opposed_by: [Greek city-states, Scythians, [[alexander-the-great|Macedon]], Egypt (in revolt)]
 key_events: [conquest of Babylon 539 BCE, Greco-Persian Wars 490/480-479 BCE, Battle of Gaugamela 331 BCE]
 key_processes: [[[empire]], [[state-formation]], [[trade-network-formation]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [actor, empire, archaic-period, classical-antiquity, iran-plateau]
 ---
@@ -139,6 +139,31 @@ Histiaeus, later Themistocles), given land and city-revenues — a generosity th
 *Ionian* cities being granted away, itself bred grievance and dramatized the gulf between
 oriental kingship and the Greek polis.
 
+## The Fourth Century: the "decadence" myth (CAH VI)
+
+[[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 3, Simon Hornblower) is a deliberate
+rehabilitation of the **fourth-century empire** against the ancient and modern charge of
+"**decadence**." Hornblower shows that charge to be largely a Greek literary construct —
+the mirror of the fifth-century invention of the "barbarian" — projected above all from
+an "**excessive interest in the personality of one man, [[artaxerxes-ii|Artaxerxes
+II]]**" onto the whole imperial system. Most counts of the indictment fail: inability to
+stop an exceptional invader like Alexander proves no special weakness; the **satraps'
+revolts** of the 360s were exaggerated by the sources and "flexibility at the margins" may
+signal strength; reliance on **Greek mercenary infantry** reflects a shrewd value placed
+on professionalism. The one real failure was the empire's long **inability to reconquer
+Egypt** (in revolt c. 404–343), which mattered economically.
+
+The chapter's deeper argument concerns the **nature of satrapal power** (see
+[[achaemenid-satrapy]]): the relationship between King and satrap was "**a feudal one**,"
+resting "not on formal controls but on loyalty, protection, and gift-giving." That bond
+explains the empire's durability — the western satraps fought Alexander loyally and
+"extempore" at the Granicus — and means the fall is "to be laid at the door of **Darius
+III personally**," not at the structure of the empire. The reign opens, for Greek
+historians, with the over-mighty prince **[[cyrus-the-younger|Cyrus the Younger]]**, whose
+Persian gold won the [[peloponnesian-war]] for Sparta and whose failed coup
+([[march-of-the-ten-thousand-401bce|Cunaxa, 401]]) bred the delusory panhellenist myth
+that Persia could be toppled by a swift thrust from the west.
+
 ## Decline
 
 Weakened by costly Greek wars, satrapal revolts, and succession struggles, the
@@ -166,5 +191,6 @@ recovering a sophisticated, tolerant, well-administered polity. Compare the
 comparative imperiology in [[empire]].
 
 - Greek wars: [[ionian-revolt-499bce]] · [[battle-of-marathon-490bce]] · [[thrace]] (Skudra) · [[isonomia]] · source-critique: [[herodotus-reliability]]
+- Fourth century: [[achaemenid-satrapy]] · [[artaxerxes-ii]] · [[cyrus-the-younger]] · [[march-of-the-ten-thousand-401bce]]
 - Sources: [[benjamin-cwh-v4-2015]] (Daryaee, Ch. 10) · [[boardman-cah-v4-1988]]
-  (Chs. 3c–3d eastern satrapies; Chs. 6, 8, 9 the Greek wars; Chs. 1–2, 3a missing from scan)
+  (Chs. 3c–3d eastern satrapies; Chs. 6, 8, 9 the Greek wars; Chs. 1–2, 3a missing from scan) · [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 3, Hornblower)

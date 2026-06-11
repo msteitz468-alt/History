@@ -8,8 +8,8 @@ region: [peloponnese, mediterranean]
 affiliated_with: [the Peloponnesian (Spartan) Alliance, Elis, Tegea, Corinth, later Croesus of Lydia and Amasis of Egypt]
 opposed_by: [the Messenians, Argos, the Arcadians, the Helots]
 key_events: [the First Messenian War (~740–710), the defeat at Hysiae (669), the Second Messenian War (~640–600), the alliance with Tegea, the defeat of Argos at Thyreatis (546)]
-key_processes: [helot serfdom, the militarization of society, the building of the Spartan Alliance]
-sources_ingested: 3
+key_processes: [helot serfdom, the militarization of society, the building of the Spartan Alliance, the [[spartan-hegemony]]]
+sources_ingested: 4
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, peloponnese]
 ---
@@ -153,6 +153,27 @@ This mid-century weakness is the backdrop to the [[peloponnesian-league|Peloponn
 League]] congress over Samos (440) and, ultimately, to Sparta's reluctant entry into the
 [[peloponnesian-war|Peloponnesian War]].
 
+## Sparta as victor: the fourth-century hegemony (CAH VI)
+
+[[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 2, D. M. Lewis) opens with Sparta at its zenith —
+the sole great power after the fall of [[athens]] in 404 — and at once exposes why the
+[[spartan-hegemony|hegemony]] would not last. The very "structural brake" that defined
+Archaic and Classical Sparta now became fatal: a **citizen body of only a few thousand,
+still declining** (*oliganthropia*); a training that bred conformity over initiative; a
+**vast subordinate population** whose discontent surfaced in the
+**[[cinadon-conspiracy-399bce|Cinadon conspiracy]]** (c. 399); and a constitution with "no
+place for successful individuals who were not kings" — making the post-war eminence of
+**[[lysander]]** a problem in itself.
+
+Under the over-mighty king **[[agesilaus-ii|Agesilaus II]]**, Sparta governed the Greek
+world through Lysander's **dekarchiai and harmosts** and a tribute of "more than 1,000
+talents a year," posed as liberator of the Asian Greeks (Agesilaus' campaign of 396), yet
+overreached repeatedly — abandoning the Asian Greeks to Persia under the
+[[kings-peace-386bce|King's Peace]], seizing the Theban **Cadmea** (382), and provoking the
+**[[second-athenian-confederacy|Second Athenian Confederacy]]**. The hegemony ended at
+**Leuctra (371)**, after which the Theban liberation of **Messenia** dissolved the helot
+base on which three centuries of Spartan power had rested (see [[thebes-hegemony-371bce]]).
+
 ## Historiography
 
 Hammond reconstructs Archaic Sparta from **Tyrtaeus** (the contemporary war-poet), the
@@ -169,4 +190,5 @@ two-stage Rhetra/Rider remain debated.
 - Rivals: [[argos]] (Hysiae, [[battle-of-sepea-494bce|Sepea]]) · Messenia · Arcadia/Tegea · alliance: [[peloponnesian-league]]
 - Kings: [[cleomenes-i]] · Demaratus · Backed [[delphi|Delphi]]'s First Sacred War · foes of [[greek-tyranny|tyranny]] · allies [[lydia|Croesus]], [[saite-egypt|Amasis]]
 - Post-479: [[pausanias-regent]] · [[third-messenian-war-464bce]] · [[first-peloponnesian-war]] · [[thirty-years-peace-446bce]]
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond) · [[boardman-cah-v4-1988]] (Ch. 6, Jeffery) · [[lewis-cah-v5-1992|CAH V]] (Chs. 5–6, Lewis)
+- Fourth-century hegemony: [[spartan-hegemony]] · [[agesilaus-ii]] · [[lysander]] · [[cinadon-conspiracy-399bce]] · [[thebes-hegemony-371bce]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond) · [[boardman-cah-v4-1988]] (Ch. 6, Jeffery) · [[lewis-cah-v5-1992|CAH V]] (Chs. 5–6, Lewis) · [[lewis-cah-v6-1994|CAH VI]] (Ch. 2, Lewis)

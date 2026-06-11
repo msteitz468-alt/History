@@ -100,9 +100,19 @@ fifth century "the first Classic age of European civilization." The methodologic
 discipline the volume draws from Lewis is twofold: fill the gaps Thucydides leaves, but
 do not lightly reinterpret what he reports.
 
+## Continuation into the fourth century
+
+Where this page ends — with Thucydides broken off and Xenophon and Diodorus taking over
+the narrative — the **[[fourth-century-greek-historiography|fourth-century source page]]**
+picks up. The defining change is the **loss of a guide of Thucydidean quality**: the
+fourth century must be reconstructed by triangulating [[xenophon|Xenophon's]] pro-Spartan
+*Hellenica* against Ephorus/Diodorus, the *Hellenica Oxyrhynchia*, Callisthenes, the
+Atthidographers and a much richer epigraphic record.
+
 ## Related
 
 - People: [[thucydides]] · [[herodotus]] · [[xenophon]] · [[plutarch]]
 - Controversy: [[herodotus-reliability]]
+- Companion: [[fourth-century-greek-historiography]] (the fourth century)
 - Periods/topics: [[classical-antiquity]] · [[delian-league]] · [[peloponnesian-war]]
 - Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 1, Lewis)
