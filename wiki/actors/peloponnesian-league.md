@@ -9,7 +9,7 @@ affiliated_with: [Sparta (hegemon), Elis, Tegea and Arcadia, Corinth, Sicyon, Me
 opposed_by: [Argos, tyrants across Greece, later Athens]
 key_events: [the alliance with Tegea (~560), the absorption of Elis, Arcadia, Corinth, Sicyon, Megara, the defeat of Argos at Thyreatis (546)]
 key_processes: [the suppression of tyranny, the building of a hegemonic alliance system]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, organization, archaic-period, peloponnese]
 ---
@@ -69,8 +69,28 @@ self-appointed champion of the Greeks against [[achaemenid-empire|Cyrus]].
 - The **organizing structure of the Greek resistance to Persia** and one pole of the
   Sparta–Athens bipolarity that would dominate the Classical age.
 
+## Discipline and decline in the fourth century (CAH VI)
+
+[[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 6, Seager) shows the alliance turned, after 386,
+into an instrument of [[spartan-hegemony|Spartan]] coercion of its own members. Freed by
+the **[[kings-peace-386bce|King's Peace]]** of any external check, Sparta "turned her
+attention to the conduct of her friends in the war," **punishing allies for disloyalty**:
+in **385** it forced restive **Mantinea** to pull down its walls and then, citing the
+peace's autonomy clause perversely, **broke the city up into villages** (the *dioikismos*)
+— a calculated humiliation that also yielded more compliant troops. It restored friendly
+exiles at **Phlius**, and increasingly extracted **money in lieu of men** from allies
+weary of Spartan wars (first seen in the Olynthus campaign, 382).
+
+These strains help explain why the alliance could not survive defeat. After
+**[[battle-of-leuctra-371bce|Leuctra]]** (371), [[epaminondas|Epaminondas]] invaded the
+Peloponnese, liberated **Messenia**, and fostered the **Arcadian League** and
+**Megalopolis** — and the old members fell away. The Spartan Alliance, the first durable
+hegemonic system in Greek history, **dissolved by 366**, leaving Sparta a second-rank
+power in a peninsula it had dominated for two centuries.
+
 ## Related
 
 - Hegemon: [[sparta]] · members: Elis · Tegea/Arcadia · [[corinth]] · Sicyon · Megara
 - Isolated foe: [[argos]] · ideology: suppression of [[greek-tyranny|tyranny]] · oracle: [[delphi]]
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond)
+- Fourth century: [[kings-peace-386bce]] · [[spartan-hegemony]] · unravelled after [[battle-of-leuctra-371bce]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond) · [[lewis-cah-v6-1994|CAH VI]] (Ch. 6, Seager)

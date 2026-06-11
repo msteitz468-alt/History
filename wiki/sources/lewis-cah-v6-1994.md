@@ -52,7 +52,7 @@ the Large-Volume Protocol. The senior editor (Lewis) is shared with Vol. V, henc
 | Cycle | Created | Updated |
 |---|---|---|
 | 1 | xenophon, fourth-century-greek-historiography, spartan-hegemony, agesilaus-ii, cyrus-the-younger, march-of-the-ten-thousand-401bce, achaemenid-satrapy, cinadon-conspiracy-399bce, thirty-tyrants (9) | lysander, achaemenid-empire, classical-greek-historiography, sparta (4) |
-| 2 | | |
+| 2 | corinthian-war-395bce, kings-peace-386bce, conon, artaxerxes-ii, second-athenian-confederacy, liberation-of-thebes-379bce, battle-of-leuctra-371bce (7) | athens, peloponnesian-league (2) |
 | 3 | | |
 | 4 | | |
 | 5 | | |

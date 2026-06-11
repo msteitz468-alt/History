@@ -9,7 +9,7 @@ affiliated_with: [the Eupatrid aristocracy, the Alcmaeonid clan, at times Eretri
 opposed_by: [Megara (over Salamis), Mytilene (over Sigeum), Aegina]
 key_events: [the unification of Attica, Cylon's attempted coup (~636), Dracon's law-code (621), the war for Salamis, the reforms of Solon (594), the tyranny of Pisistratus]
 key_processes: [synoikism, the dismantling of monarchy, the codification of law, the broadening of political participation]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, central-greece]
 ---
@@ -85,6 +85,22 @@ the freed city showed at once in the **victory over Boeotia and Chalcis (506)**;
 safeguard was the law of **[[ostracism]]**. This is the bridge from Archaic Athens to the
 **[[athens-fifth-century|fifth-century democracy]]**.
 
+## Fourth-century resurgence (CAH VI)
+
+This page treats Archaic and Classical Athens; for the fifth-century empire see
+[[athens-fifth-century]] and [[delian-league]]. After the catastrophe of 404
+([[fall-of-athens-404bce]]) and the brief oligarchy of the **[[thirty-tyrants|Thirty]]**,
+[[lewis-cah-v6-1994|CAH Vol. VI]] (Chs. 4, 6, Seager) traces a remarkable Athenian
+recovery in the early fourth century. **[[conon]]'s** Persian-funded victory at **Cnidus
+(394)** and his **rebuilding of the Long Walls (393)** restored Athens as a sea power
+during the **[[corinthian-war-395bce|Corinthian War]]**; and in 378/7 Athens founded the
+**[[second-athenian-confederacy|Second Athenian Confederacy]]**, proclaiming itself the
+champion of the "freedom and autonomy" of the [[kings-peace-386bce|King's Peace]] and
+explicitly renouncing the imperial abuses of the [[delian-league|fifth-century empire]].
+Athens thus became the **maritime counterweight** in the multipolar world of Sparta,
+Thebes and Persia — though its own backsliding toward empire would provoke the Social War
+(357–355).
+
 ## Why Archaic Athens mattered
 
 - The making of a **uniquely unified large polis** — and of the constitutional framework
@@ -99,4 +115,5 @@ safeguard was the law of **[[ostracism]]**. This is the bridge from Archaic Athe
 - Tyranny & democracy: [[pisistratidae]] · [[cleisthenes]] · [[cleisthenic-reforms-508bce]] · [[isonomia]] · [[ostracism]] · [[athenian-democracy]]
 - Wars: Megara (Salamis) · Mytilene (Sigeum) · Aegina · oracle: [[delphi]] (Sacred War, Amphictyony)
 - Compare: [[sparta]] · [[corinth]] · [[greek-tyranny]] (which Athens resisted under Cylon)
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Chs. 43–44, Andrewes) · [[boardman-cah-v4-1988]] (Chs. 4–5, Lewis & Ostwald)
+- Fourth century: [[conon]] · [[corinthian-war-395bce]] · [[second-athenian-confederacy]] · [[kings-peace-386bce]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Chs. 43–44, Andrewes) · [[boardman-cah-v4-1988]] (Chs. 4–5, Lewis & Ostwald) · [[lewis-cah-v6-1994|CAH VI]] (Chs. 4, 6, Seager)
