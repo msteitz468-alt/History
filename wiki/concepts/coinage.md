@@ -5,8 +5,8 @@ origin: monetization as a path-dependent process; coinage invented independently
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [near-east, mediterranean, iran-plateau, south-asia, china, central-asia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-11
 tags: [concept]
 ---
 
@@ -111,6 +111,32 @@ that Meccan trade was local and modest, *not* the engine of Islam's rise — whi
 attributes instead to the familiar conjunction of state-formation and military
 expansion, "now spurred by a religious mission."
 
+## The Invention of Coinage in Archaic Greece (CAH III.3)
+
+[[boardman-cah-v3p3-1982|CAH Vol. III, Part 3]] (Ch. 45a, Starr; Ch. 45b, Boardman)
+gives the close view of the **Lydian-Greek** invention. As Herodotus reports, coinage
+"began in [[lydia|Lydia]]": the late-seventh-century **electrum pellets** of
+[[sardis|Sardis]] and the East Greek cities, struck on fixed weight-fractions of the
+stater and soon stamped with recognizable devices. By the mid-sixth century **Aegina**
+had an extensive **silver** coinage (the sea-turtle stater); Himera and Selinus coined
+in the west (perhaps from Spanish silver); and by 500 most — not all — major Greek
+states had mints. **[[pisistratus|Pisistratus's]]** Athens began with the *Wappenmünzen*,
+struck from Thracian silver, before the Laurium-silver "owls."
+
+Starr stresses two correctives. First, coinage was issued **primarily for state
+purposes** — building navies, paying the mercenaries of tyrants, fines and harbour/market
+tolls, temple-building, and **advertising civic pride** — not, at first, for retail
+trade (the early Greek mints produced few small denominations until the fifth century).
+Second, it was **not a potent economic force until well after 600**, and "its appearance
+cannot be taken as a cause for the rise of tyrants or for other social unrest" — Greece
+had already used **uncoined silver** as a medium of value (note Pheidon's pre-coinage
+iron *obeliskoi* and standard measures, and the *naukrarikon argyrion* in Solon's laws).
+Boardman adds that **standard weights** were not in general use until the end of the
+Archaic period — accurate weighing against agreed standards became essential only "when
+coinage began to play a role as bullion." Yet "once society had grown sufficiently
+mobile for the concept of coinage to take hold, Greek economic life became wedded to the
+new invention."
+
 ## Contested Questions
 
 - **Primitivism vs. modernism / the scale of the ancient economy** — how monetized,
@@ -127,3 +153,6 @@ The monetary and fiscal engine of [[trade-network-formation]] and [[silk-roads]]
 underpins [[empire]] and [[state-formation]]; the [[slavery|slave]] trade was a
 major monetized commerce (Dacian slaves for Roman silver). Compare the urban-market
 analysis with [[urbanization]] and [[city-state]].
+
+- Invention: [[lydia]] · [[sardis]] · [[archaic-greek-economy]] · [[pisistratus|Athens's first coinage]]
+- Sources: [[benjamin-cwh-v4-2015|CWH IV]] (global monetization) · [[boardman-cah-v3p3-1982|CAH III.3]] (the Greek invention, Chs. 45a–b)

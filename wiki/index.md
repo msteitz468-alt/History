@@ -204,6 +204,7 @@ creation order with a one-line description.
 | `edwards-cah-v2p2-1975.md` | The Cambridge Ancient History, Volume II, Part 2: The Middle East and the Aegean Region, c. 1380–1000 BC (3rd ed.) | 1975 | reference |
 | `boardman-cah-v3p1-1982.md` | The Cambridge Ancient History, Volume III, Part 1: The Prehistory of the Balkans, the Middle East and the Aegean World, 10th–8th c. BC (2nd ed.) | 1982 | reference |
 | `boardman-cah-v3p2-1991.md` | The Cambridge Ancient History, Volume III, Part 2: The Assyrian and Babylonian Empires and other States of the Near East, 8th–6th c. BC (2nd ed.) | 1991 | reference |
+| `boardman-cah-v3p3-1982.md` | The Cambridge Ancient History, Volume III, Part 3: The Expansion of the Greek World, Eighth to Sixth Centuries B.C. (2nd ed.) | 1982 | reference |
 
 ---
 

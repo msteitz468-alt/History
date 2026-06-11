@@ -7,7 +7,7 @@ period_active: [Late Bronze Age, Early Iron Age, Archaic Period, Classical Antiq
 controlled_by: [[[lydia|the Mermnad kings of Lydia]], [[achaemenid-empire|Persia]], later Macedon and Rome]
 events_here: [the Cimmerian capture of the lower city, the rise of electrum coinage, the fall to Cyrus (546)]
 processes_here: [the invention of [[coinage|coinage]], Lydian–Greek cultural exchange]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, anatolia, archaic-period]
 ---
@@ -47,7 +47,9 @@ doorless Phrygian timber graves.
 
 - **Birthplace of coinage** — the Sardis mint's electrum issues under Alyattes are the
   start of the monetary economy that spread through the Greek world and beyond
-  ([[coinage]]).
+  ([[coinage]]); Starr (CAH III.3) stresses these were struck for **state purposes**
+  (later: navies, mercenaries, tolls, prestige) rather than retail trade, and that
+  coinage "was not a potent economic force until well after 600."
 - **The Lydian capital** — the centre from which Lydia held hegemony over western Anatolia
   and pressed the Ionian Greeks; a meeting-point of Anatolian and Greek art (Greek
   iconographic motifs appear in its architectural terracottas).

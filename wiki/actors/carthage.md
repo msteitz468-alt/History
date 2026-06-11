@@ -8,8 +8,8 @@ region: [north-africa, mediterranean, mediterranean-world]
 affiliated_with: [[[phoenicians|Tyre]] (mother-city), the western Phoenician colonies, the Magonid family]
 opposed_by: [the western Greeks (Syracuse), later [[roman-republic|Rome]]]
 key_events: [the traditional foundation by Elissa/Dido (814), Malchus's Sardinian campaign (c. 550), the treaties with Rome (509, 348)]
-key_processes: [[[phoenician-colonization|Phoenician colonization]], [[trade-network-formation]]]
-sources_ingested: 1
+key_processes: [[[phoenician-colonization|Phoenician colonization]], [[trade-network-formation]], the Greco-Punic conflict in Sicily]
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, north-africa, mediterranean]
 ---
@@ -70,6 +70,23 @@ describes the Carthaginians resorting to it at the crisis of Agathocles' invasio
 The Precinct of Tanit's stratified urns ("Tanit I–III") are a mainstay, if a contested
 one, of Punic chronology.
 
+## The Sicilian frontier with the Greeks (CAH III.3)
+
+[[boardman-cah-v3p3-1982|CAH Vol. III, Part 3]] (Ch. 38, Graham) supplies the view from
+the Greek side, where the western-Phoenician world (with Carthage as its head and
+shortest sea-link) met the advancing Greeks of [[magna-graecia|Sicily]]. As Greeks
+arrived in force the Phoenicians concentrated in the island's far west at **Motya,
+Soloeis and Panormus**, allied with the **Elymians**. Early contact was peaceful
+(unwalled Motya, abundant Greek pottery), but the Greek foundations of Himera (648) and
+Selinus (628), and Greek interest in the Spanish silver trade, turned the relationship
+hostile — Motya built its first wall c. 600. Two Greek colonizing thrusts into the
+Phoenician/Elymian west were **crushed**: **Pentathlus's** attempt at Lilybaeum (c. 580)
+and, decisively, **Dorieus's** at Drepanon/Eryx (c. 510), where Diodorus says his city
+**Heraclea** was destroyed by the Carthaginians lest it "deprive the Phoenicians of
+their hegemony." These clashes opened the long Greco-Punic wars that the
+fifth-century Magonids would carry to Himera (480) and beyond — Carthage emerging as the
+organizing power of the Phoenician resistance to Greek Sicily.
+
 ## Causal Analysis
 
 caused_by: the [[phoenician-colonization|Phoenician colonization]] from [[tyre|Tyre]];
@@ -91,4 +108,5 @@ Carthaginian "kings" he corrects to elected suffetes.
 
 - Mother-city: [[tyre]] · People: [[phoenicians]] · Process: [[phoenician-colonization]]
 - Far-western kin: [[gades-tartessos]] · Period: [[archaic-period]]
-- Later enemy: [[roman-republic]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 32, Culican)
+- Greek rivals: [[magna-graecia]] · [[syracuse]] (Pentathlus, Dorieus) · Elymians/Motya
+- Later enemy: [[roman-republic]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 32, Culican) · [[boardman-cah-v3p3-1982]] (Ch. 38, Graham)

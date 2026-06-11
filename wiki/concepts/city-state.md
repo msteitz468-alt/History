@@ -9,7 +9,7 @@ origin: >
 applies_to_periods: [Early Bronze Age, Middle Bronze Age, Greek Dark Age, Archaic Period, Classical Antiquity]
 applies_to_regions: [mesopotamia, mediterranean, aegean, south-asia, mesoamerica]
 contested: yes
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -79,9 +79,23 @@ The comparative city-state literature undercut the assumption that early states
 were uniformly despotic palace-economies, opening the way to [[heterarchy]] and
 councils/assemblies/oligarchies. See [[hierarchy-vs-heterarchy-early-cities]].
 
+## The transplantable polis (CAH III.3)
+
+[[boardman-cah-v3p3-1982|CAH Vol. III, Part 3]] (Ch. 37, Graham) makes the polis the
+key to the **Archaic [[greek-colonization|colonization]] movement**: what set that
+movement apart from earlier Greek migration was precisely that it was "a product of
+the world of the independent city-state." The polis proved an unusually **portable and
+adaptable** social-political package — a colony (*apoikia*) was a *new, fully
+independent polis* from the day of foundation, reproducing the mother city's cults,
+calendar, dialect and offices yet owing it no legal obedience. Graham argues the secret
+of Greek colonial success was that this organization was "more cohesive and stronger
+than the political organizations of their native neighbours," carried by a strong
+religiously grounded "culture pattern." The hundreds of daughter-poleis planted from
+Spain to the Black Sea are thus the polis's first great export.
+
 ## Related
 
 - Concepts: [[urbanism]] · [[heterarchy]] · [[urban-revolution]]
 - Places: [[uruk|Uruk]] · [[mohenjo-daro|Mohenjo-daro]] · [[tikal|Tikal]] · [[euboea|Euboea]]
-- Process: [[urbanization]] · [[greek-dark-age|Greek Dark Age]] · Period: [[early-bronze-age]]
-- Source: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Greek polis genesis)
+- Process: [[urbanization]] · [[greek-dark-age|Greek Dark Age]] · [[greek-colonization|colonization]] · Period: [[early-bronze-age]] → [[archaic-period]]
+- Sources: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (polis genesis) · [[boardman-cah-v3p3-1982|CAH III.3]] (the transplantable polis)

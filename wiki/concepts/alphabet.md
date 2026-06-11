@@ -9,7 +9,7 @@ origin: >
 applies_to_periods: [Late Bronze Age, Early Iron Age, Greek Dark Age, Archaic Period]
 applies_to_regions: [levant, mediterranean, aegean, near-east]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -87,6 +87,26 @@ Latin) of most of the world's alphabets.
 - `contrasts_with:` the lost Bronze Age [[aegean-scripts|Linear B syllabary]], whose
   disappearance left Greece illiterate for centuries (only Cyprus kept a syllabary).
 
+## The Greek view of the transfer (CAH III.3)
+
+[[boardman-cah-v3p3-1982|CAH Vol. III, Part 3]] (Ch. 36a, vi, Braun) confirms and
+sharpens the picture from the Greek-contact side. The Greeks themselves called the
+script **φοινικήια — "Phoenician letters"** — a name attested in Crete, Ionian Teos
+and Aeolian Mytilene as well as in Herodotus, who attributed the gift to **Cadmus the
+Phoenician** (others guessed Prometheus, Palamedes, Danaus or Hermes — "from the range
+of these intelligent guesses we draw a simple conclusion: the Greeks did not know").
+Braun groups the divergent local scripts into **three families** — (1) the Doric
+islands (Crete, Thera, Melos), closest to the Phoenician; (2) the East Greek group
+(Rhodes, Attica, Aegina, Corinth, Euboea) that colonists carried to Italy and Sicily;
+and (3) much of the mainland — all sharing the re-use of *aleph/he/ʿayin* as A/E/O,
+which proves a **single original adaptation** later diffused. He notes that the
+imported folding wax **writing-tablet (*deltos*, a Semitic word and invention)** came
+in with the script, and — like Jeffery — leaves the **place** open between
+[[al-mina|Al Mina]] (weakened as a candidate by the absence of early writing there),
+Rhodes and Crete (where Phoenician jewellers may have settled). Cyprus, tellingly,
+did **not** adopt the alphabet at all, keeping its [[cypriot-syllabary|syllabary]] —
+a reminder that the alphabet's spread was not inevitable.
+
 ## Historiography
 
 The transfer is dated and located by **comparative letter-forms** (Greek vs. dated
@@ -103,4 +123,5 @@ strong.
 - Source script: [[phoenicians|Phoenicians]] · Lost predecessor: [[aegean-scripts|Linear B]]
 - Context: [[euboea|Euboea / Al Mina]] · [[greek-dark-age|Greek Dark Age]] recovery · [[archaic-period|Archaic Period]]
 - Carriers: [[homer|Homer]] · [[city-state|the polis]] · [[phrygians|Phrygians]] (parallel adoption)
-- Source: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Ch. 20)
+- Cypriot exception: [[cypriot-syllabary]] · transmission frame: [[orientalizing-revolution]]
+- Sources: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Ch. 20) · [[boardman-cah-v3p3-1982|CAH III.3]] (Ch. 36a, Braun)

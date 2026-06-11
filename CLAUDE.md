@@ -493,6 +493,11 @@ For each source in Processing List.md that is under approximately 400 pages:
    the Processing List directory structure. If the source is a PDF, convert it
    to `.md` first, then delete the PDF. Confirm the `.md` file exists on disk
    before deleting the PDF.
+8. **Commit and push to GitHub**: stage the `wiki/` changes, commit with a
+   message naming the ingested source, and push to the `main` branch. This is a
+   standing instruction — perform it automatically after every completed source
+   ingest without waiting to be asked. Commit messages end with the standard
+   `Co-Authored-By` trailer.
 
 A specialist monograph may touch 5–15 pages. A shorter primary source may
 touch 10–20 through its cross-links. Both are correct.
@@ -602,6 +607,14 @@ delete the PDF. Confirm the `.md` file exists on disk before deleting the PDF.
 ```
 ## [YYYY-MM-DD] ingest-complete | [Volume Title] | [Total pages created: N] | [Total pages updated: N] | [Sections processed: N]
 ```
+
+### Step 6 — Commit and Push to GitHub
+
+After the final log entry, stage the `wiki/` changes, commit with a message
+naming the ingested volume, and push to the `main` branch. This is a standing
+instruction — perform it automatically once the volume's ingest is complete,
+without waiting to be asked. Commit messages end with the standard
+`Co-Authored-By` trailer.
 
 ---
 

@@ -9,7 +9,7 @@ affiliated_with: [the Glasinac culture, the tribes of the western Balkans (Taula
 opposed_by: [the Epirotes, the Macedonians, later Greek colonists and Rome]
 key_events: [the Iron Age expansion southward into Epirus, Macedonia and the Vardar valley]
 key_processes: [transhumant pastoralism, tribal migration, [[indo-european-migrations|Indo-European settlement of the Balkans]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, movement, early-iron-age, balkans]
 ---
@@ -79,9 +79,28 @@ expanding southward in the Early Iron Age is sound. The south-west Balkans are a
 where the collection is, unusually, moderately strong (the Albanian and Yugoslav
 excavations Hammond synthesizes).
 
+## Archaic Illyris and the coming of the Greeks (CAH III.3)
+
+[[boardman-cah-v3p3-1982|CAH Vol. III, Part 3]] (Ch. 40, Hammond) follows the Illyrian
+tribes into the Archaic period (c. 750–530). North of the Shkumbi the Illyrians remained
+"remarkably conservative" — **tumulus-burial** of the warrior class with long iron
+weapons and Glasinac-type bronzes continuing unbroken into Hellenistic times — while in
+the south-east the **Illyrian domination was shaken** by the [[cimmerians|Cimmerian]]
+and Thracian raids that swept the Balkans (leaving horse-trappings even at Dodona), and
+by the southward push of the **Epirote (Chaonian, then Molossian) tribes** into the
+plains of Korçë and Pelagonia around 650–600. At sea the Illyrians (and the **Liburni**,
+the leading Adriatic sea-power, with their fast galleys) were "generally regarded as
+merely piratical" forerunners of colonization — until **Corinth and Corcyra** broke
+their control, driving the Illyrian fleets back to Scodra and planting **Epidamnus** and
+**Apollonia**, the latter a **joint Corinthian–Illyrian foundation** with separate Greek
+and Illyrian cemeteries. Thereafter Illyrian exports passed through Greek hands, the
+natives "having no tradition of seafaring." The rich crossroads centre at **Trebenište**
+(north of Lake Ochrid) marks the wealth that flowed along these Adriatic–Aegean routes.
+
 ## Related
 
 - Neighbours: [[epirus|Epirus]] (Greek-speaking) · the Macedonians · [[phrygians|Phrygians/Brygi]]
 - Process: [[indo-european-migrations]] · [[dorian-invasion-1120bce|the Greek migrations]]
-- Region: [[balkans]] · Period: [[early-iron-age|Early Iron Age]]
-- Source: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]]
+- Region: [[balkans]] · Period: [[early-iron-age|Early Iron Age]] → [[archaic-period]]
+- Archaic: Liburnian sea-power · Greek colonies (Epidamnus · Apollonia) · [[greek-colonization]]
+- Sources: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Ch. 15) · [[boardman-cah-v3p3-1982|CAH III.3]] (Ch. 40, Hammond)

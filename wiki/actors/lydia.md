@@ -9,7 +9,7 @@ affiliated_with: [the Mermnad dynasty (Gyges to Croesus), Sardis, the Greek citi
 opposed_by: [the [[cimmerians|Cimmerians]], the Ionian Greek cities, the Medes, [[achaemenid-empire|Persia]] (Cyrus)]
 key_events: [Gyges's embassy to Ashurbanipal, the Cimmerian capture of Sardis, the invention of electrum coinage, the Lydo-Median war and eclipse of 585, the fall of Sardis to Cyrus (546)]
 key_processes: [state expansion, the invention of [[coinage|coinage]], Hellenization]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, anatolia]
 ---
@@ -82,6 +82,22 @@ the Anatolian interior (Greek motifs reaching Sardis and Gordium).
 contributed_to: the **Persian conquest** — Croesus's defeat opened Anatolia and the Ionian
 Greeks to [[achaemenid-empire|Cyrus]], setting up the Greco-Persian wars.
 
+## Sardis and the eastern Greeks (CAH III.3)
+
+[[boardman-cah-v3p3-1982|CAH Vol. III, Part 3]] (Ch. 39a, J. M. Cook) views Lydia from
+the Greek side, where it was the dominant landward power of [[ionia|the eastern
+Greeks]]. The Mermnad attacks (Gyges to Alyattes) "effectively blocked any further
+Greek penetration of the interior" without aiming at permanent conquest of the coast,
+until **Croesus subjected all the Greeks of Asia to the Halys** — turning conqueror into
+**philhellene patron**, so that **Sardis became "the metropolis of the Greek East."**
+The relationship was two-way: there was intermarriage in the upper class; Lydia (which,
+unlike Phrygia, "had not had a distinctive civilization of its own") took on a markedly
+**Greek-looking material culture**, while the Ionians drew from Sardis new cults (Cybele,
+Bacchus), musical modes, and — for Sappho and Xenophanes — the very image of **luxury**.
+Sardis was also the source of **electrum and gold** and a focal point in what Cook calls
+an East Greek "common market," and the funding-point for exiled poets like Alcaeus. The
+fall of Croesus to [[achaemenid-empire|Cyrus]] handed this whole nexus to Persia.
+
 ## Historiography
 
 Known from **Herodotus** (the dynastic spine, the famous Croesus logos), the **Assyrian
@@ -94,4 +110,5 @@ shared Cimmerian crisis and tumulus-burial tradition.
 
 - Capital: [[sardis]] · Predecessor kingdom: [[phrygians]] · Foe: [[cimmerians]] · Conqueror: [[achaemenid-empire]]
 - Allies: [[saite-egypt]] · Delphi · Bequest: [[coinage]] · Adversary-empire: [[neo-assyrian-empire]] ([[ashurbanipal]])
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 34a, Mellink)
+- Eastern Greeks: [[ionia]] · [[polycrates|Samos]] · Sardis as "metropolis of the Greek East"
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 34a, Mellink) · [[boardman-cah-v3p3-1982]] (Ch. 39a, Cook)

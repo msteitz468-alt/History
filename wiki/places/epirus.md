@@ -7,7 +7,7 @@ period_active: [Bronze Age Collapse, Early Iron Age, Archaic Period, Classical A
 controlled_by: [the Epirote tribes (Molossians, Thesprotians, Chaonians), at times Illyrian and Phrygian/Brygi groups]
 events_here: [the staging of the [[dorian-invasion-1120bce|Greek migrations]], the rise of the oracle of Dodona]
 processes_here: [transhumant pastoralism, [[indo-european-migrations|Greek and Illyrian settlement]], tumulus burial]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, balkans, mediterranean, early-iron-age]
 ---
@@ -63,6 +63,32 @@ locate the homeland of the West-Greek dialects in this region — though this is
 the link that the **absence of a clear archaeological "Dorian horizon"** in the south
 leaves disputed (see [[dorian-invasion-1120bce]]).
 
+## Archaic Epirus: Dodona and the Corinthian colonies (CAH III.3)
+
+[[boardman-cah-v3p3-1982|CAH Vol. III, Part 3]] (Ch. 40, Hammond) carries the region
+into the Archaic period (c. 750–500). Inland, the **tribal pastoral society** persisted
+unchanged: small transhumant tribes (*phylai*), grouped loosely into the three great
+**ethne — Thesproti, Molossi, Chaones** — under hereditary kings, "entirely different
+from the system of city-states" of the south, and so mobile between summer and winter
+pastures that whole tribes might transfer from one group to another. Its spiritual
+centre was **Dodona**, "the Mecca of this tribal society" and "by common consent the
+oldest shrine" of Greece — the oracle of **Zeus** (with three priestesses and three
+doves, the sacred oak, the reverberating bronze cauldrons), known to [[hesiod|Hesiod]]
+and primarily a centre for the **northern tribes** until southern Greeks began coming in
+numbers only in the later seventh century; through them its fame reached Croesus.
+
+The transforming Archaic development was the arrival of **Greek colonists on the coast**.
+**Corinth** broke the Liburnian/Illyrian sea-control: the Bacchiads drove the Liburnians
+from **Corcyra** (refounded by Corinth 733) and, with Corcyra, planted **Epidamnus**
+(c. 625) and the joint Corinthian–Illyrian city of **Apollonia** (c. 600) on the
+Adriatic; the **Eleans** founded Buchetium and others on the Gulf of Arta; and late in
+the tyranny of **Cypselus** the Corinthians planted **Ambracia, Leucas and Anactorium**
+(c. 625), securing the entry to the gulf and the entrepôt at Ambracia. These colonies
+"maintained friendly relations with the native peoples," channelling the trade in
+timber, livestock, skins and wool out through Greek hands and Corinthian bronzework deep
+into the interior — but their influence on the inland tribal way of life "was very
+small" (see [[greek-colonization]]).
+
 ## Why This Place Mattered
 
 - A **demographic reservoir**: the pastoral over-spill of the South-West Balkans
@@ -89,5 +115,6 @@ Hammond synthesizes.
 
 - Peoples: [[illyrians|Illyrians]] · [[phrygians|Phrygians/Brygi]] · the Epirotes and Macedonians
 - Event: [[dorian-invasion-1120bce|the Greek migrations]] · Process: [[indo-european-migrations]]
-- Region: [[balkans]] · [[mediterranean]] · Period: [[early-iron-age|Early Iron Age]]
-- Source: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]]
+- Region: [[balkans]] · [[mediterranean]] · Period: [[early-iron-age|Early Iron Age]] → [[archaic-period]]
+- Archaic: Dodona · Corinthian colonies (Corcyra · Apollonia · Ambracia) · [[greek-colonization]]
+- Sources: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Ch. 15) · [[boardman-cah-v3p3-1982|CAH III.3]] (Ch. 40, Hammond)

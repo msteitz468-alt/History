@@ -8,8 +8,8 @@ region: [north-africa]
 affiliated_with: [Sais (the capital), Carian and Ionian (Greek) mercenaries, Naucratis, at times Assyria, Lydia, and the Greek tyrants]
 opposed_by: [[[neo-babylonian-empire|Babylon]] (Nebuchadnezzar II), [[kush-meroe|Kush]], finally [[achaemenid-empire|Persia]]]
 key_events: [the reunification under Psammetichus I (656), the battles of [[battle-of-megiddo-609bce|Megiddo (609)]] and [[battle-of-carchemish-605bce|Carchemish (605)]], the circumnavigation of Africa, the fall to Cambyses (525)]
-key_processes: [reunification, the building of an Egyptian navy, [[greek-colonization|Greek trade]] and mercenary service]
-sources_ingested: 1
+key_processes: [reunification, the building of an Egyptian navy, [[greek-colonization|Greek trade]] and mercenary service, [[orientalizing-revolution|the orientalizing transmission to Greece]]]
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, dynasty, archaic-period, north-africa]
 ---
@@ -83,6 +83,31 @@ penetration** of Egypt (Naucratis); the chain of interventions that helped doom
 contributed_to: its own fall — its anti-Persian alliances collapsed and Egypt passed to
 [[achaemenid-empire|Persia]] (525).
 
+## The Greeks and Carians in Saite Egypt (CAH III.3, Ch. 36b)
+
+[[boardman-cah-v3p3-1982|CAH Vol. III, Part 3]] (Ch. 36b, Braun) tells the Saite story
+from the **Greek side** — for this is the period when Greeks first settled Egypt in
+numbers. **No Greek pottery datable between Mycenaean times and 664 has been found in
+Egypt**: the contact begins with **Psammetichus I**, whose "**bronze men from the
+sea**" (Ionian and Carian pirates in hoplite armour) Herodotus makes the instrument of
+his rise — possibly the same Greek and Carian troops **[[lydia|Gyges of Lydia]]** sent
+to aid him against Assyria. Psammetichus settled them in the **Stratopeda** ("camps")
+on the Pelusiac Nile, garrisoned **Daphnae (Tahpanhes), Marea and Elephantine**, and
+opened the great chartered emporion of **[[naucratis|Naucratis]]**. The mercenaries
+left vivid traces: the **Karomemphitai** (Carians who married Egyptian women and
+buried their dead at Saqqara under Carian-inscribed false-door stelai), and above all
+the **graffiti carved on the colossi of Abu Simbel** by the Greek and Carian soldiers
+of **Psammetichus II's Nubian expedition of 591** ("...those who sailed with
+Psammetichus son of Theocles wrote this..."). Greek and Carian troops fought in the
+Saite campaigns from **[[battle-of-megiddo-609bce|Megiddo]]** and
+**[[battle-of-carchemish-605bce|Carchemish]]** (a Greek shield and greave were found at
+the latter) to the final disaster at **Pelusium (525)**, where the deserter **Phanes
+of Halicarnassus** guided [[achaemenid-empire|Cambyses]] across the desert. The Greek
+"debt to Egypt" was real but specific: not the gods, geometry or philosophy later
+Greeks imagined, but the **monumental stone sculpture** (the *kouros*) and
+**architecture** the immigrants saw on the Nile — see [[orientalizing-revolution|the
+orientalizing revolution]].
+
 ## Historiography
 
 James leans heavily on **Herodotus** (the Dodecarchy, the mercenaries, the navy, the
@@ -96,4 +121,5 @@ Herodotean episodes, while accepting the maritime achievements as solidly attest
 
 - Predecessor: [[kush-meroe]] (25th Dynasty) · Capital: Sais · Greeks: [[greek-colonization|Naucratis]] · [[lydia]] (mercenaries)
 - Enemies: [[neo-babylonian-empire]] ([[nebuchadnezzar-ii]]) · [[achaemenid-empire]] (Cambyses) · Events: [[battle-of-megiddo-609bce]] · [[battle-of-carchemish-605bce]]
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 35, James)
+- Greeks in Egypt: [[naucratis]] · [[orientalizing-revolution]] · mercenaries (Abu Simbel graffiti)
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 35, James) · [[boardman-cah-v3p3-1982]] (Ch. 36b, Braun)

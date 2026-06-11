@@ -5,9 +5,9 @@ modern_equivalent: [the island of Euboea (Évia), Greece]
 coordinates: [approx. 38.4 N, 23.6 E]
 period_active: [Greek Dark Age, Early Iron Age, Archaic Period]
 controlled_by: [the Euboean towns (Chalcis, Eretria, Lefkandi)]
-events_here: [the Protogeometric recovery at Lefkandi, the founding of Al Mina (~end 9th c.), the founding of Pithecusae (~770)]
+events_here: [the Protogeometric recovery at Lefkandi, the founding of Al Mina (~end 9th c.), the founding of Pithecusae (~770), the Lelantine War, the Eretrian building programme (from ~700), the Athenian cleruchy on Chalcis (~506), the Persian sack of Eretria (490)]
 processes_here: [[[greek-dark-age|Dark Age recovery]], the orientalizing of Greek culture, Greek overseas trade and colonization]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, mediterranean, aegean, early-iron-age]
 ---
@@ -71,6 +71,38 @@ revival.
 - **Metal-seeking, not land-hungry** — its earliest expansion was commercial, a key
   qualification to the standard "colonization = land hunger" model.
 
+## Archaic Euboea after the Lelantine War (CAH III.3)
+
+[[boardman-cah-v3p3-1982|CAH Vol. III, Part 3]] (Ch. 39d, W. G. G. Forrest) carries the
+island past the Lelantine War into the Archaic period — where, Forrest laments, peace
+"brought none of any kind of light." The cities slip out of the mainstream: **Chalcis**
+stays archaeologically mute (its aristocracy the **Hippobotae**, "horse-breeders," still
+on the land when an Athenian victory of c. 506 planted 4,000 cleruchs on it);
+**Eretria**, refounded after the move from Lefkandi, shows its growing wealth in a
+striking **building programme from c. 700** — the walled city with its unparalleled
+**West Gate**, a temple of Dionysus, and a fine sculpture-rich **temple of Apollo
+Daphnephorus** — broken only by the **Persian sack of 490**. Brief tyrannies (Tynnondas
+over "the Euboeans"; Antileon and Phoxus at Chalcis; Diagoras at Eretria) flit past as
+little more than names. Euboea's enduring importance, Forrest stresses, is as the
+**"scabbard lying along the flank of Central Greece"** — the link between Attica/Boeotia
+and the outer world (Thrace, Chalcidice, the Black Sea). Eretria's ties to eastern
+Attica show in [[pisistratus|Pisistratus]]'s using it as the base for his final return
+to Athens (c. 546), and in Eretria's five ships sent to the Ionian Revolt (499) — the
+choice to fight Persia being also a choice against the pro-Persian Pisistratids.
+
+## The islands
+
+Forrest's chapter also surveys the **Cyclades and Aegean islands** — isolated yet
+sea-linked communities, plagued by piracy. Among them: **Paros**, home of the poet
+**Archilochus** (early-mid 7th c., "a perfect example of post-Homeric man," whose verse
+voices the new individualism of the colonizing, mercenary age and can even "envisage
+wanting a tyranny"); **Thera**, whose drought drove the conscripted colonization of
+[[cyrene|Cyrene]]; **Delos**, the [[ionia|Ionian]] cult-centre "with nothing to sell but
+religion," courted by Naxos, Pisistratus and Polycrates and later the seat of the Delian
+League; and **Naxos**, "largest and richest of the islands," whose tyrant **Lygdamis**
+(allied with [[pisistratus|Pisistratus]] and [[polycrates|Polycrates]]) gave it brief
+Cycladic dominance.
+
 ## Historiography
 
 Boardman builds the case from **ceramic distribution** — Euboean and "Euboeanizing"
@@ -85,5 +117,5 @@ finds. Euboea is a strength of the collection's Aegean coverage.
 
 - Period: [[greek-dark-age|Greek Dark Age]] · [[early-iron-age|Early Iron Age]] → [[archaic-period|Archaic Period]]
 - Trade partners: [[cyprus|Cyprus]] · [[phoenicians|Phoenicians]] · Concept: [[alphabet|the alphabet]]
-- Region: [[aegean]] · [[mediterranean]]
-- Source: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]]
+- Region: [[aegean]] · [[mediterranean]] · Archaic islands: Paros (Archilochus) · [[cyrene|Thera→Cyrene]] · Delos · Naxos
+- Sources: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Ch. 18) · [[boardman-cah-v3p3-1982|CAH III.3]] (Ch. 39d, Forrest)

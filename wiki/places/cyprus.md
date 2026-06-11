@@ -4,12 +4,12 @@ place_type: region
 modern_equivalent: Cyprus
 coordinates: ~35.0°N, 33.0°E
 period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Early Iron Age, Archaic Period]
-controlled_by: [tribal / town-based Cypriot communities (no attested unification), indigenous Iron Age city-kingdoms, Phoenician Tyre (at Kition)]
-events_here: [the foundation of the eastern port-towns (Enkomi etc.) in MC III, the violent destruction of the Nitovikla fortress, the Late Cypriot copper-trade boom, the LC III collapse and Aegean settlement, the LBA destruction (~1075 BCE), the Phoenician colonization of Kition]
-processes_here: [[[trade-network-formation]], Phoenician colonization, copper production]
-sources_ingested: 3
+controlled_by: [tribal / town-based Cypriot communities (no attested unification), indigenous Iron Age city-kingdoms, Phoenician Tyre (at Kition), Assyria, Egypt (Amasis), Persia]
+events_here: [the foundation of the eastern port-towns (Enkomi etc.) in MC III, the violent destruction of the Nitovikla fortress, the Late Cypriot copper-trade boom, the LC III collapse and Aegean settlement, the LBA destruction (~1075 BCE), the Phoenician colonization of Kition, Sargon II's conquest (~709), the ten Cypro-Archaic kingdoms, Amasis's annexation (~560), submission to Persia (~545)]
+processes_here: [[[trade-network-formation]], Phoenician colonization, copper production, [[orientalizing-revolution|orientalizing transmission]]]
+sources_ingested: 4
 last_updated: 2026-06-11
-tags: [place, near-east, mediterranean, middle-bronze-age, early-iron-age]
+tags: [place, near-east, mediterranean, middle-bronze-age, early-iron-age, archaic-period]
 ---
 
 # Cyprus (Middle Bronze Age)
@@ -121,6 +121,45 @@ Cypriot, Phoenician, and Greek populations coexisted and Levantine influences fl
 into the Aegean. See [[phoenicians]] for the colonizing side and [[trade-network-formation]]
 for the commercial frame.
 
+## The Cypro-Archaic Period: empires and the ten kingdoms (CAH III.3)
+
+[[boardman-cah-v3p3-1982|Vol. III, Part 3]] (Ch. 36c, V. Karageorghis) carries the
+island through the **Cypro-Archaic period** (c. 750–475 BCE), a sequence of foreign
+dominations punctuated by a century of independence:
+
+- **The ten kingdoms and Assyrian suzerainty.** **[[sargon-ii|Sargon II]]** conquered
+  Cyprus (the "Yadnana" of the Assyrian records) c. 709; **[[esarhaddon|Esarhaddon]]'s**
+  prism (673/2) lists **ten kings of Yadnana** providing timber for his Nineveh palace —
+  the kingdoms of **Idalium, Chytri, Salamis, Paphus, Soli, Curium, Tamassus, Citium
+  and Ledra** (the tenth, Nuria, perhaps Amathus). Several kings bear recognizably
+  **Greek names** (Eteander/Ituandar of Paphus, Pylagoras/Pilagura of Chytri), while
+  **Citium** kept its **Phoenician** dynasty and temple of Astarte. Assyrian rule was
+  lenient — political control and tribute only — leaving the kings to flourish: the
+  monumental **"royal" tombs of Salamis**, with their hearses, chariots, ivory-inlaid
+  furniture and "Cypro-Phoenician" bronze bowls, show kings buried "with pomp only the
+  Assyrian kings could rival."
+- **A century of independence (c. 650–560).** As Assyria weakened, Cyprus effectively
+  freed itself for about a hundred years — the high point of the island's prosperity
+  and of a vigorous, distinctively **Proto-Cypriot** sculpture and vase-painting,
+  Cyprus serving as a bronze-and-furniture workshop and a clearing-house of trade
+  between the Near East, the Aegean (especially Rhodes) and the west.
+- **Egyptian domination (c. 560–545).** **[[saite-egypt|Amasis]]** "was the first to
+  subdue Cyprus and make it tributary" (Herodotus), ending the kingdoms' independence.
+  Egyptian influence shows strongly in a **Cypro-Egyptian** sculptural style and in
+  tomb decoration.
+- **Persian domination (from c. 545).** Cyprus submitted to **[[achaemenid-empire|
+  Cyrus]]** and was placed in Darius's fifth satrapy; the kings became tributary
+  allies, supplying ships for Persian campaigns. **Euelthon of Salamis** struck the
+  island's **first coinage** (c. 520s, Persian standard) and claimed a pan-Cypriot
+  primacy. Through the sixth century **Ionian Greek influence became predominant**
+  (the Cypro-Greek sculptural style), the towns dividing into pro-Greek and pro-
+  Persian factions — the prelude to Cyprus's involvement in the **Ionian Revolt** and
+  the long Greco-Persian struggle.
+
+Throughout, Cyprus's deep conservatism preserved Mycenaean-Greek elements in religion
+and language, above all the [[cypriot-syllabary|Cypriot syllabary]], the unique script
+in which Cypriot Greek was written for a millennium.
+
 ## Why this place mattered
 
 Cyprus is the **copper hinge** of the eastern Mediterranean — the island whose ore
@@ -136,4 +175,5 @@ island.
 - Place: [[alalakh]] · [[ugarit]] (Levantine trade termini) · [[knossos]] · Concept: [[amarna-letters]] · [[aegean-scripts]]
 - End: [[sea-peoples|Sea Peoples]] / [[bronze-age-collapse-1200bce|Bronze Age Collapse]]
 - Iron Age: [[phoenicians|Phoenicians]] (Kition colony) · [[early-iron-age|Early Iron Age]]
-- Period: [[middle-bronze-age]] → [[late-bronze-age]] → [[early-iron-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[boardman-cah-v3p1-1982]]
+- Cypro-Archaic: ten kingdoms · [[sargon-ii]] · [[esarhaddon]] · [[saite-egypt|Amasis]] · [[achaemenid-empire|Persia]] · script: [[cypriot-syllabary]]
+- Period: [[middle-bronze-age]] → [[late-bronze-age]] → [[early-iron-age]] → [[archaic-period]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[boardman-cah-v3p1-1982]] · [[boardman-cah-v3p3-1982]]
