@@ -1,6 +1,6 @@
 # Coverage Map and Gap Register
 
-Last updated: 2026-06-10 (after CWH Vol. VII Book 1 — Production, Destruction, and Connection, 1750–Present)
+Last updated: 2026-06-11 (after CAH Vol. III, Part 1 — The Prehistory of the Balkans, the Middle East and the Aegean World, 10th–8th c. BC)
 
 This page tracks the current state of wiki coverage: what periods and regions
 are well-documented, where gaps exist, and what is known to be missing.
@@ -23,8 +23,8 @@ Update after each ingest session.
 | 9 | Middle Bronze Age | 2,100–1,550 BCE | absent | 0 | |
 | 10 | Late Bronze Age | 1,550–1,200 BCE | weak | 1 | CWH IV touches the close (Olmec, Lapita origins, Mediterranean run-up); deepen from CAH |
 | 11 | Bronze Age Collapse | ~1,200–1,150 BCE | weak | 1 | CWH IV references the 1200 BCE "crisis of the old order" (Egypt/Hittites, Sea Peoples) as its starting horizon; deepen from CAH |
-| 12 | Early Iron Age | 1,200–800 BCE | moderate | 1 | CWH IV — Mediterranean (Phoenicians), Zhou, Kush/Napata, Olmec, Vedic age, Nok |
-| 13 | Archaic Period | 800–500 BCE | strong | 1 | CWH IV — Archaic Greece/Athens, Achaemenid Persia, Warring States, Buddha/Confucius, Chavín |
+| 12 | Early Iron Age | 1,200–800 BCE | strong (W. Eurasia) | 3 | CAH III.1 — Neo-Assyria, Urartu, Syro-Hittites, Israel & Judah, Libyan Egypt, Cypro-Geometric, Balkan/NW-Greek EIA, the Greek Dark Age recovery, polis & alphabet; CAH III.2 carries the Assyrian/Near-Eastern story into its imperial climax; CWH IV — Zhou, Kush/Napata, Olmec, Vedic, Nok (non-Western still thin) |
+| 13 | Archaic Period | 800–500 BCE | strong | 2 | CAH III.2 — the Neo-Assyrian zenith & fall (Tiglath-pileser III→Ashurbanipal, Nineveh 612), the Neo-Babylonian/Chaldaean empire (Nebuchadnezzar II, Babylon, Nabonidus, fall 539), Israel/Judah & the Exile, Phoenicia & its western colonization (Carthage), Scythia/Thrace, Anatolia (Phrygia, Lydia, coinage), Kushite & Saite Egypt; CWH IV — Archaic Greece/Athens, Achaemenid Persia, Warring States, Buddha/Confucius, Chavín |
 | 14 | Classical Antiquity | 500–31 BCE | strong | 1 | CWH IV — Athens, Alexander/Hellenistic, Roman Republic, Han, Mauryan, Meroe, Garamantes |
 | 15 | Late Antiquity | 31 BCE–600 CE | strong | 2 | CWH IV (Rome→Byzantium, Sasanians, Kushan, Gupta, Teotihuacan/Maya, Moche, Aksum); CWH V opens the "Middle Millennium" here (Justinian, Plague of Justinian, early Christianities, the rise of Islam) |
 | 16 | Early Middle Ages | 600–1000 CE | strong | 2 | CWH IV (Tang, Carolingians, Islamic conquests, 2nd Silk Roads era, Ghana); CWH V — the opening phase of the Afro-Eurasian world system, world religions, Sui–Tang→Song |

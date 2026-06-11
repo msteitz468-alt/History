@@ -941,3 +941,78 @@ Grayson–Meltzer overkill critique); controversies/australasian-colonization-ti
 
 Directory tree and seed files (index.md, log.md, overview.md) created.
 No sources ingested yet. Processing List.md defines the ingestion sequence.
+
+## 2026-06-11 section | Cambridge Ancient History Vol. III, Part 1 | Section: Step 1 — Structural Map (TOC + Preface) | Pages created: 1 | Pages updated: 0
+
+Read front matter (title, full contents, Preface). Wrote source page
+`sources/boardman-cah-v3p1-1982.md` with frontmatter and a 7-cycle Section Plan.
+Volume = CAH 2nd ed. III.1 (1982), tenth–eighth centuries BC: Balkan prehistory
+(new to CAH), the Near Eastern Iron Age (Assyria/Babylonia/Urartu/Neo-Hittites/
+Israel-Judah/Libyan Egypt/Cyprus), and the Aegean Dark Age recovery + alphabet.
+Flagged the uncalibrated-radiocarbon (5570 half-life) caveat for the Balkan
+chapters. PDF converted to markdown and deleted per workflow. Part 2 arrived as
+EPUB (to convert next ingest). Proceeding to Cycle 1.
+
+## 2026-06-11 section | Cambridge Ancient History Vol. III, Part 1 | Section: Cycle 1 — Part I, The Prehistory of the Balkans (Chs 1–5, Dumitrescu/Garašanin/Prendi) | Pages created: 3 | Pages updated: 5
+
+Created: places/balkans.md (regional anchor: the full prehistoric cultural
+sequence Palaeolithic→Hallstatt A); places/varna.md (Chalcolithic gold cemetery,
+earliest worked-gold horizon, emergent rank); processes/old-europe-copper-metallurgy.md
+(Rudna Glava + Ai Bunar mining, autochthonous-vs-Near-Eastern metallurgy debate,
+metallurgy→stratification thesis). Updated: controversies/indo-european-origins.md
+(Garašanin's Balkan Kurgan/assimilation view + early-Neolithic-toponymy counter-
+theory he rejects); processes/indo-european-migrations.md (new European/Balkan
+branch — Cernavoda/Usatovo/Globular Amphorae/Yamnaya intrusions, Palaeo-Balkan
+ethnogenesis); periods/chalcolithic.md (Old Europe tell cultures + Balkan
+metallurgy, coverage upgraded); periods/neolithic.md (Starčevo/Vinča, Schela
+Cladovei cultivation arrested by Starčevo); periods/early-iron-age.md (Transylvanian
+Hallstatt A metal boom, 20,000+ Ha A hoard objects). Flagged throughout: the
+volume's uncalibrated-¹⁴C caveat and Cold-War culture-history "pots=peoples"
+framework. Cycle 1 committed to disk; advancing to Cycle 2 (Part II-A, Mesopotamian
+empires, Chs 6–8).
+
+## 2026-06-11 section | Cambridge Ancient History Vol. III, Part 1 | Section: Cycle 2 — Part II-A, Mesopotamian Empires (Chs 6–8, Grayson/Brinkman/Barnett) | Pages created: 3 | Pages updated: 2
+
+Created: actors/urartu.md (Kingdom of Van; Uruatri/Nairi origins, Tushpa/Haldi,
+fortress+hydraulic state, zenith under Sarduri II during Assyria's Interval, broken
+by Sargon II 714 + Cimmerians); actors/babylonia-iron-age.md (post-Kassite eclipse,
+Aramaean/Chaldaean infiltration, rise of the Chaldaeans 810–748, Eriba-Marduk,
+Nabonassar 747 → Babylonian Chronicle); events/battle-of-qarqar-853bce.md (Shalmaneser
+III vs Damascus coalition; first datable mention of Ahab/Israel + Gindibu the Arab;
+indecisive; chronological backbone). Updated: actors/neo-assyrian-empire.md (major —
+Grayson's foundation narrative 934–745: Ashur-dan II founding, Ashurnasirpal II's
+Calah + terror + provincial system, Shalmaneser III Bit-Adini/Qarqar/Black Obelisk,
+Adad-nirari III + Sammuramat/Semiramis, the 782–745 Interval with over-mighty
+governors and Urartu ascendant; 763 eclipse as chronological anchor); actors/arameans.md
+(9th–8th c. Damascus wars + absorption into Assyria, spread of Aramaic). Committed to
+disk; advancing to Cycle 3 (Part II-B, Neo-Hittites + Israel & Judah, Chs 9–11).
+
+## 2026-06-11 section | CAH Vol III, Part 1 | Section: Part II-B — Levant & Anatolia (Chs 9–11: Neo-Hittite states; Israel & Judah) | Pages created: 7 | Pages updated: 1
+
+## 2026-06-11 section | CAH Vol III, Part 1 | Section: Part II-C — Cyprus & Egypt (Chs 12–13: Cypro-Geometric Cyprus + Phoenician Kition; Libyan Dynasties 22nd–24th) | Pages created: 1 | Pages updated: 3
+
+## 2026-06-11 section | CAH Vol III, Part 1 | Section: Part III-A — Balkans & NW Greece EIA (Chs 14–15: Central Balkan EIA; Illyris, Epirus & Macedonia) | Pages created: 2 | Pages updated: 3
+
+## 2026-06-11 section | CAH Vol III, Part 1 | Section: Part III-B — Greek regions in the Dark Age (Chs 16–18: Central Greece/Thessaly, Peloponnese, East Greece & islands) | Pages created: 1 | Pages updated: 2
+
+## 2026-06-11 section | CAH Vol III, Part 1 | Section: Part III-C — Geometric culture & the alphabet (Chs 19–20: Geometric culture; the Semitic & Greek alphabet; Balkan languages) | Pages created: 2 | Pages updated: 1
+
+## 2026-06-11 ingest-complete | CAH Vol III, Part 1 (Boardman et al. 1982) | Total pages created: 20 | Total pages updated: 17 | Sections processed: 7
+
+## 2026-06-11 section | CAH Vol III, Part 2 | Section: Cycle 1 — The Assyrian zenith (Chs 22–24, Grayson: Tiglath-pileser III to Ashurbanipal) | Pages created: 8 | Pages updated: 4
+
+## 2026-06-11 section | CAH Vol III, Part 2 | Section: Cycle 2 — Babylonia under Assyria & the Fall of Assyria (Chs 21 Brinkman, 25 Oates: Chaldaean tribes, Nabopolassar, the Medes, fall of Nineveh 612) | Pages created: 5 | Pages updated: 1
+
+## 2026-06-11 section | CAH Vol III, Part 2 | Section: Cycle 3 — Assyrian civilization (Ch 26, Grayson: monarchy, bureaucracy, society, law, economy, warfare/terror, hunt, religion, libraries) | Pages created: 2 | Pages updated: 1
+
+## 2026-06-11 section | CAH Vol III, Part 2 | Section: Cycle 4 — The Neo-Babylonian Empire (Ch 27 Wiseman: Nebuchadnezzar II, Carchemish 605, fall of Jerusalem 587, rebuilding of Babylon, Nabonidus & Belshazzar, fall of Babylon 539; Chs 28a–c Dandamaev/Aaboe/Reiner: society, economy, law, mathematics, astronomy, literature) | Pages created: 8 | Pages updated: 0
+
+## 2026-06-11 section | CAH Vol III, Part 2 | Section: Cycle 5 — Israel, Judah, and the Exile (Chs 29–31 Mitchell: Ahaz & the Syro-Ephraimite War, Hezekiah's reform & the Siloam tunnel, the fall of Samaria, Sennacherib 701, Manasseh, Josiah's reform & the Book of the Law, the last kings, the fall of Jerusalem, the Babylonian Exile, the diaspora in Egypt, the Restoration) | Pages created: 5 | Pages updated: 4
+
+## 2026-06-11 section | CAH Vol III, Part 2 | Section: Cycle 6 — Phoenicia and Phoenician colonization (Ch 32 Culican: the city-states under Assyria and Babylon, arts/crafts/purple/ivories, the western colonization — Carthage, Sicily, Sardinia, Malta, Spain; religion, the tophet, Melqart, Tartessos) | Pages created: 4 | Pages updated: 1
+
+## 2026-06-11 section | CAH Vol III, Part 2 | Section: Cycle 7 — Scythia and Thrace (Ch 33a Sulimirski/Taylor: the Cimmerians and Scythians of the Pontic steppe, the Near Eastern raids, kurgans and animal-style art, Herodotus's tribes; Ch 33b Mihailov: the Thracian tribes, geography, society, religion, Greek colonization of the coast) | Pages created: 3 | Pages updated: 0
+
+## 2026-06-11 section | CAH Vol III, Part 2 | Section: Cycle 8 — Anatolia and Egypt (Chs 34a Mellink: Phrygia/Midas/Gordium & the Cimmerian destruction, Lydia/Gyges–Croesus/Sardis/electrum coinage, Lycia/Caria & the Anatolian alphabets; Ch 35 James: Egypt's 25th Kushite and 26th Saite Dynasties, Psammetichus I's reunification 656, Necho II & Carchemish, the navy/Naucratis/circumnavigation, the fall to Cambyses 525) | Pages created: 3 | Pages updated: 2
+
+## 2026-06-11 ingest-complete | CAH Vol III, Part 2 (Boardman et al. 1991) | Total pages created: 38 | Total pages updated: 13 | Sections processed: 8

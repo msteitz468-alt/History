@@ -96,10 +96,16 @@ Amalek, and the [[arameans|Aramaean]] kings of Zobah.
 
 On Solomon's death his son **Rehoboam** refused to lighten the burdens, and the
 northern tribes seceded under **Jeroboam ben-Nebat** (who had earlier fled to Egypt),
-splitting the realm permanently into **Israel** (north) and **Judah** (south,
-retaining the Davidic dynasty and Jerusalem). The two states were thereafter usually
-hostile. Israel fell to Assyria in 721 BCE and Judah to Babylon in 587 BCE, but the
-religious tradition begun here outlasted both.
+splitting the realm permanently into **[[kingdom-of-israel|Israel]]** (north) and
+**[[kingdom-of-judah|Judah]]** (south, retaining the Davidic dynasty and Jerusalem).
+The two states were thereafter usually hostile. [[kingdom-of-israel|Israel]] fell to
+[[neo-assyrian-empire|Assyria]] in 722/721 BCE and [[kingdom-of-judah|Judah]] to
+[[neo-babylonian-empire|Babylon]] in 587 BCE, but the religious tradition begun here
+outlasted both. The history of the two successor kingdoms from the schism (931) to the
+age of Jeroboam II and Uzziah is carried forward in
+[[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Chs. 10–11) — including the
+[[shoshenq-campaign-925bce|campaign of Shoshenq I (925)]], the
+[[omride-dynasty|Omride dynasty]], and the [[jehu-revolt-841bce|revolt of Jehu (841)]].
 
 ## Significance
 
@@ -128,6 +134,7 @@ on the post-1980 revisionism.
 ## See Also
 
 - [[david|David]] · [[solomon|Solomon]] · [[philistines|Philistines]] · [[phoenicians|Phoenicians]] · [[arameans|Aramaeans]]
+- Successor states: [[kingdom-of-israel|Israel]] · [[kingdom-of-judah|Judah]] · [[omride-dynasty|House of Omri]]
 - [[the-exodus|The Exodus (controversy)]] · [[merneptah|Merneptah]] (the Israel stele)
 - [[bronze-age-collapse-1200bce|Bronze Age Collapse]] · [[early-iron-age|Early Iron Age]]
-- [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2 (source)]]
+- [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2 (source)]] · [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1 (source)]]

@@ -202,28 +202,30 @@ creation order with a one-line description.
 | `edwards-cah-v1p2-1971.md` | The Cambridge Ancient History, Volume I, Part 2: Early History of the Middle East (3rd ed.) | 1971 | reference |
 | `edwards-cah-v2p1-1973.md` | The Cambridge Ancient History, Volume II, Part 1: The Middle East and the Aegean Region, c. 1800–1380 BC (3rd ed.) | 1973 | reference |
 | `edwards-cah-v2p2-1975.md` | The Cambridge Ancient History, Volume II, Part 2: The Middle East and the Aegean Region, c. 1380–1000 BC (3rd ed.) | 1975 | reference |
+| `boardman-cah-v3p1-1982.md` | The Cambridge Ancient History, Volume III, Part 1: The Prehistory of the Balkans, the Middle East and the Aegean World, 10th–8th c. BC (2nd ed.) | 1982 | reference |
+| `boardman-cah-v3p2-1991.md` | The Cambridge Ancient History, Volume III, Part 2: The Assyrian and Babylonian Empires and other States of the Near East, 8th–6th c. BC (2nd ed.) | 1991 | reference |
 
 ---
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the CAH Vol. II, Part 2 ingest (the
-detailed catalog tables above are maintained selectively and may lag the totals;
-the bulk of this volume's 46 new pages — the Amarna/Iron-Age Near-East actors and
-the Aegean Dark-Age material — are catalogued in the source page and `log.md`
-rather than relisted here).
+Counts reflect actual files on disk as of the **CAH Vol. III, Part 1** ingest (the
+detailed catalog tables above are maintained selectively and may lag the totals; this
+volume's 20 new and 17 updated pages — the Iron-Age Near East, the Balkan/NW-Greek EIA,
+and the Aegean recovery / alphabet material — are catalogued in the source page and
+`log.md` rather than relisted here).
 
 | Category | Pages |
 |---|---|
 | Periods | 24 |
-| Events | 28 |
-| Processes | 68 |
-| Actors | 117 |
-| Places | 48 |
-| Concepts | 75 |
+| Events | 31 |
+| Processes | 69 |
+| Actors | 126 |
+| Places | 52 |
+| Concepts | 77 |
 | Comparisons | 0 |
 | Controversies | 26 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 11 |
-| **Total** | **397** |
+| Sources | 12 |
+| **Total** | **417** |

@@ -9,8 +9,8 @@ affiliated_with: [the cult of Amun at Napata/Thebes, later the god Apedemak; the
 opposed_by: [the Assyrians, the 26th-dynasty Egyptians, Roman Egypt, the rising [[aksum|Aksum]]]
 key_events: [transformation of a Nubian chieftaincy into a kingdom (9th c. BCE), the 25th "Kushite" dynasty conquest of Egypt (c. 728 BCE), Assyrian expulsion from Egypt (664 BCE), shift of capital to Meroe (after c. 300 BCE), fall to Aksum (c. 350 CE)]
 key_processes: [[[trade-network-formation]], [[empire]], [[indian-ocean-trade]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-11
 tags: [actor, state, classical-antiquity, north-africa, sub-saharan-africa]
 ---
 
@@ -37,6 +37,43 @@ launching a half-century of cultural and religious revival. Overreach into Syria
 brought collision with **Assyria**, which sacked Memphis and Thebes (671/667 BCE) and drove
 the Kushites back into Nubia by 664 BCE — leaving Kush an **inner-African kingdom** cut off
 from the Mediterranean.
+
+## The Kushite (25th) Dynasty in Egypt (CAH III.2, Ch. 35)
+
+[[boardman-cah-v3p2-1991|CAH Vol. III, Part 2]] (Ch. 35, T. G. H. James) gives the
+detailed reign-by-reign narrative of Kush's rule of Egypt — and is notably **sceptical**
+of the standard "crusade for Amun" explanation, finding "no shred of evidence" that the
+Amun cult even survived at Napata through the dark age, and stressing that the Nubian
+intervention may have sprung more from "respect and nostalgia for the past greatness of
+Egypt" than from religious zeal or conquest:
+
+- **Alara and Kashta** — the first named Napatan rulers (9th c.); Kashta may have reached
+  Thebes and had his sister **Amenirdis** adopted by the **God's Wife of Amun**, the key
+  instrument of Kushite control in the south.
+- **[[sack-of-thebes-663bce|Piye (Py / Piankhy)]]** (c. 747–716) — his great **Gebel Barkal
+  victory stela** ("one of the most illuminating documents Egyptian history has to show")
+  records his campaign against **Tefnakhte** of Sais and the surrender of the Delta princes
+  at Memphis and Athribis. But Piye then **withdrew to Napata and never returned**,
+  establishing a Nubian *hegemony*, not a true occupation.
+- **Shabako** (c. 716–702) — defeated **Bocchoris** and took the full title **"King of Upper
+  and Lower Egypt" (c. 713/715)**, ruling from Thebes (the **Shabako Stone** preserves the
+  Memphite theology). Crucially he kept a **prudent neutrality toward [[neo-assyrian-empire|
+  Assyria]]**, even **handing the rebel Yamani of Ashdod over to Sargon (712)**.
+- **Shebitku** (c. 702–690) — abandoned that neutrality, backing the Palestinian revolt; sent
+  an army (with his brother **Taharqa**) that was defeated by [[sennacherib|Sennacherib]] at
+  **[[sennacherib-siege-jerusalem-701bce|Eltekeh (701)]]**.
+- **Taharqa** (690–664) — the greatest Napatan king, crowned at Memphis, a prolific builder
+  (Kawa, Karnak); but [[esarhaddon|Esarhaddon]] **took Memphis (671)** and
+  [[ashurbanipal|Ashurbanipal]] **sacked [[sack-of-thebes-663bce|Thebes (663)]]**.
+- **Tanutamun (Tantamani)** — briefly retook Egypt but was driven back by Ashurbanipal's
+  invasion (664/663); his **withdrawal to Napata ended Nubian rule in Egypt**, leaving the
+  Saite **[[saite-egypt|26th Dynasty]]** to reunify the land. Later **Psammetichus II's
+  Nubian campaign (591)** and a proscription of the Kushite kings' memorials marked the
+  final breach.
+
+Throughout, James stresses the Kushites **remained steadfastly Nubian** — buried at home
+(el-Kurru, then Nuri), devoted to horses, with succession through collateral seniority and
+power in the hands of their queens — even while ruling Egypt as pharaohs.
 
 ## The Meroitic Kingdom
 
@@ -71,3 +108,11 @@ Kush is uniquely knowable through **archaeology** (el-Kurru, Napata, Meroe) and 
 texts (Egyptian, Assyrian, Greek — Herodotus on Meroe), though **Meroitic remains only
 partly deciphered**. CWH IV notes that Northeast Africa has three separate scholarly traditions
 (Egypt, Nubia, Aksum), which has fragmented the study of an interconnected region.
+For the 25th-dynasty period, CAH III.2 (James) works mainly from Piye's stela, the Kawa
+stelae of Taharqa, the Shabako Stone, and the Assyrian records — a far richer base than for
+the Napatan homeland itself, which remains archaeologically thin.
+
+## Related
+
+- Egypt successor: [[saite-egypt]] · Adversary: [[neo-assyrian-empire]] ([[esarhaddon]], [[ashurbanipal]]) · Event: [[sack-of-thebes-663bce]]
+- Rival for Asia: [[sennacherib-siege-jerusalem-701bce]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 35) · [[benjamin-cwh-v4-2015|CWH IV]]

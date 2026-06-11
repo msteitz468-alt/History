@@ -4,11 +4,11 @@ date_start: ~2500 BCE (earliest movements into the Near East)
 date_end: ~1000 BCE (later attestations)
 date_precision: approximate
 period: [Early Bronze Age, Middle Bronze Age, Late Bronze Age]
-region: [eurasian-steppe, anatolia, mediterranean, near-east, iran-plateau, south-asia, europe]
+region: [eurasian-steppe, anatolia, mediterranean, near-east, iran-plateau, south-asia, europe, balkans]
 process_type: [demographic, cultural, ideological]
 driven_by: [the domesticated horse, mobile pastoralism, an aristocratic tribal war-society]
-produces: [the Anatolian (Hittite-Luwian) languages, Greek, the Indo-Iranian "Aryan" diffusion, the first large Anatolian state]
-sources_ingested: 1
+produces: [the Anatolian (Hittite-Luwian) languages, Greek, the Indo-Iranian "Aryan" diffusion, the Palaeo-Balkan peoples (Thracians, Illyrians, Daco-Moesians), the first large Anatolian state]
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [process, early-bronze-age, middle-bronze-age, eurasian-steppe]
 ---
@@ -65,6 +65,37 @@ virility sweeping down in massed chariots." He insists:
 - **The rest of the family** (Italic, Celtic, Germanic, Baltic, Slavonic, Indic,
   Iranian, Armenian, Tocharian) is attested only much later (Latin from the 6th
   c. BCE; the Veda ~1000 BCE; Celtic, Germanic, Slavonic later still).
+
+## The European / Balkan Branch (CAH III.1)
+
+Crossland's chapter looks east and south; [[boardman-cah-v3p1-1982|CAH Vol. III,
+Part 1]] (Ch. 3, M. Garašanin) supplies the **westward, European limb** of the same
+process — the Indo-Europeanization of the **Carpatho-Danubian and Balkan** lands,
+seen from the receiving end:
+
+- **Mechanism — the Kurgan / ochre-grave intrusions.** From the later Eneolithic,
+  successive waves of **steppe pastoralists** ("Kurgan culture," named for tumulus
+  burial) moved off the **North Pontic steppe** into the lower Danube, bringing
+  tumulus and ochre-grave rites, **corded ware**, and stone battle-axes. Identifiable
+  pulses include the **Cernavoda** groups, the **Gorodsk–Usatovo** group (→ the
+  Romanian **Foltești** culture), the **Globular Amphorae** culture, and finally the
+  **Yamnaya-type barrow** burials. The newcomers' herding economy carried "a powerful
+  patriarchal organization."
+- **Outcome — fusion, not annihilation.** Dumitrescu and Garašanin both stress the
+  **local Eneolithic populations were assimilated, not destroyed** ("various cultural
+  elements peculiar to the old cultures … were transmitted to the newcomers'
+  cultures," confirmed by skeletal evidence). The **Palaeo-Balkan peoples**
+  (Thracians, Illyrians, Daco-Moesians) emerge from this long fusion — ethnogenesis
+  *in place*, beginning in the Eneolithic.
+- **Effect on Old Europe.** The intrusions coincide with the **breakdown of the Old
+  European tell world** and a temporary contraction of metal use (see
+  [[old-europe-copper-metallurgy]] and [[chalcolithic]]).
+
+This is, in essence, the **Gimbutas Kurgan scenario** stated by contemporaries
+working in the target region — and the very expansion (Yamnaya → Corded Ware
+Europe) that **ancient DNA** would later confirm as a massive genetic influx. The
+homeland debate it feeds is at [[indo-european-origins]]; the regional sequence is
+on [[balkans]].
 
 ## Causal Drivers
 

@@ -14,7 +14,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[dorians|Dorian pressure from the northwest]], the decline of [[mycenaean-civilization|Mycenaean]] power, overpopulation and pressure from Balkan (Briges/Lausitz) peoples]
 consequences: [[[ionian-migration-1050bce|the Ionian and Aeolian migrations]], the West-Greek dialect map of the Peloponnese, the rise of Dorian Sparta and Argos, [[greek-dark-age|the Dark Age]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [event, migration, bronze-age-collapse, early-iron-age, aegean]
 ---
@@ -74,6 +74,20 @@ ultimate impetus, Hammond argues, was pressure from the **Briges** (the European
 Phryges) and other "Lausitz" peoples moving down through Macedonia and Epirus
 (c. 1200–1150 BCE) — see [[phrygians|the Phrygians]].
 
+### The Balkan homeland (CAH III.1, Ch. 15)
+
+Hammond's later treatment of [[epirus|Illyris, Epirus and Macedonia]] in
+[[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] fills in the **northern homeland** this
+narrative presupposes. The South-West Balkans were a world of **transhumant shepherd
+peoples** burying their dead under **tumuli** — a rite Hammond connects directly to the
+heroic burials of the *Iliad* and treats as the diagnostic marker of the migrating
+northern Greeks. The Dorians' seamanship was learned "in the Gulf of Ambracia and
+Thesprotia," and the Thessalians crossed into Thessaly **from Thesprotia** — both
+pointing to an [[epirus|Epirote]] staging-ground. The same chapter shows the
+[[phrygians|Brygian/Phrygian]] pressure and the later [[illyrians|Illyrian]] expansion
+that churned this region, reinforcing the picture of the Greek migrations as one
+outflow from a turbulent Balkan reservoir.
+
 ## Causal Analysis
 
 - `caused_by:` the [[dorians|Dorian]] descent from the northwest, themselves driven
@@ -121,5 +135,6 @@ adjudicate. The "Great Man vs. structural causation" problem and the dating elas
 - [[dorians|The Dorians / Heracleidae]] · [[ionian-migration-1050bce|The Ionian migration]]
 - [[mycenaean-civilization|Mycenaean civilization]] (its end) · [[greek-dark-age|Greek Dark Age]]
 - [[bronze-age-collapse-1200bce|Bronze Age Collapse]] · [[phrygians|The Briges/Phrygians]]
+- Homeland: [[epirus|Epirus & the SW Balkans]] · [[illyrians|Illyrians]]
 - [[coming-of-the-greeks-1900bce|Prehistory of the Greek language]] (the dialect evidence)
-- [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2 (source)]] (Ch. XXXVI, Hammond)
+- [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2 (source)]] (Ch. XXXVI, Hammond) · [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1 (source)]] (Ch. 15, Hammond)

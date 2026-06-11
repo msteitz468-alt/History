@@ -1,15 +1,15 @@
 ---
-title: Cyprus (Middle Bronze Age)
+title: Cyprus (Bronze Age to Cypro-Geometric)
 place_type: region
 modern_equivalent: Cyprus
 coordinates: ~35.0°N, 33.0°E
-period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age]
-controlled_by: [tribal / town-based Cypriot communities (no attested unification)]
-events_here: [the foundation of the eastern port-towns (Enkomi etc.) in MC III, the violent destruction of the Nitovikla fortress, the Late Cypriot copper-trade boom, the LC III collapse and Aegean settlement]
-processes_here: [[[trade-network-formation]]]
-sources_ingested: 2
+period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Early Iron Age, Archaic Period]
+controlled_by: [tribal / town-based Cypriot communities (no attested unification), indigenous Iron Age city-kingdoms, Phoenician Tyre (at Kition)]
+events_here: [the foundation of the eastern port-towns (Enkomi etc.) in MC III, the violent destruction of the Nitovikla fortress, the Late Cypriot copper-trade boom, the LC III collapse and Aegean settlement, the LBA destruction (~1075 BCE), the Phoenician colonization of Kition]
+processes_here: [[[trade-network-formation]], Phoenician colonization, copper production]
+sources_ingested: 3
 last_updated: 2026-06-11
-tags: [place, near-east, mediterranean, middle-bronze-age]
+tags: [place, near-east, mediterranean, middle-bronze-age, early-iron-age]
 ---
 
 # Cyprus (Middle Bronze Age)
@@ -87,6 +87,40 @@ through the **Late Cypriot (LC) period**, divided into LC I (~1550–1400), LC I
   few survivors of the last disastrous years of LC III to usher in the Early Iron
   Age."
 
+## Iron Age Cyprus: the Cypro-Geometric Period (CAH III.1)
+
+[[boardman-cah-v3p1-1982|Vol. III, Part 1]] (Ch. 12, V. Karageorghis) carries the
+island into the **Early Iron Age**, the **Cypro-Geometric (CG) period** (c. 1050–750
+BCE), reconstructed almost entirely from archaeology:
+
+- **Collapse and survival (~1075 BCE).** A destruction — earthquake or assault — ended
+  the last Late Bronze towns; **Old Paphos and Kition (Citium)** survived. At Kition
+  the fallen city wall, never rebuilt, sealed the latest Proto-White Painted ware
+  (suggesting a long ensuing peace); temples and houses were rebuilt with new ceramic
+  fabrics (**White Painted I, Bichrome I, Black Slip I**) marking **Cypro-Geometric
+  I**. A short reoccupation ended c. 1000 BCE in a non-violent **abandonment** of
+  Kition's sacred area (silted by alluvium), alongside a **break in the copper-working
+  tradition**.
+- **The three CG phases.** CG I (~1050–950): reoccupation, rich tombs (Lapithos,
+  Salamis area), disrupted metallurgy. CG II (~950–850): recovery, renewed sanctuaries,
+  closer ties to the Syrian coast. CG III (~850–750): the decisive **Phoenician**
+  phase — full colonization of Kition, the "Cypro-Phoenician" metal bowls, and
+  Cyprus's emergence among the eighth-century thalassocracies.
+- **The Phoenician colony at Kition.** The defining development: the
+  **[[phoenicians|Phoenicians]]** rebuilt the old Late Bronze temple as a great
+  **temple of Astarte**, and Kition appears in Phoenician inscriptions as
+  **Khardihadast — "the New City"** — administered by a **governor appointed by the
+  king of Tyre** (attested under **Hiram II**, later eighth century). Phoenician was
+  the official language. The colony gave Tyre direct access to Cypriot **copper** and
+  a forward base for the westward Mediterranean expansion; through it moved Phoenician
+  Red Slip ware and bronzes — alongside early **Euboean** Geometric pottery marking
+  the parallel Greek penetration of the island.
+
+This Iron Age Cyprus is the **orientalizing channel** par excellence: a place where
+Cypriot, Phoenician, and Greek populations coexisted and Levantine influences flowed
+into the Aegean. See [[phoenicians]] for the colonizing side and [[trade-network-formation]]
+for the commercial frame.
+
 ## Why this place mattered
 
 Cyprus is the **copper hinge** of the eastern Mediterranean — the island whose ore
@@ -101,4 +135,5 @@ island.
 - Process: [[trade-network-formation]] · [[minoan-civilization]] (a trade partner) · [[mycenaean-civilization]] (trade & settlement)
 - Place: [[alalakh]] · [[ugarit]] (Levantine trade termini) · [[knossos]] · Concept: [[amarna-letters]] · [[aegean-scripts]]
 - End: [[sea-peoples|Sea Peoples]] / [[bronze-age-collapse-1200bce|Bronze Age Collapse]]
-- Period: [[middle-bronze-age]] → [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]
+- Iron Age: [[phoenicians|Phoenicians]] (Kition colony) · [[early-iron-age|Early Iron Age]]
+- Period: [[middle-bronze-age]] → [[late-bronze-age]] → [[early-iron-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[boardman-cah-v3p1-1982]]

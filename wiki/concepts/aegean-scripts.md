@@ -80,9 +80,23 @@ Evans's belief that Minoans conquered Mycenae, and the **dating of the Knossos
 tablets** (Evans's ~1400 vs. **L. R. Palmer's** down-dating to the twelfth century)
 is a live dispute — see **[[fall-of-knossos]]**.
 
+## The Literacy Gap and the Alphabet
+
+The collapse of the [[mycenaean-civilization|Mycenaean]] palaces around 1200 BCE
+**extinguished Linear B entirely** — the syllabary was a specialist palace-accounting
+tool, useless once the palace economy vanished, and Greece became **illiterate for
+some four centuries** (only [[cyprus|Cyprus]] preserved a syllabary). Literacy returned
+only in the eighth century, and through a wholly different channel: not the revival of
+the lost syllabary but the borrowing of the [[phoenicians|Phoenician]] consonantal
+script and its transformation into the vowel-bearing Greek **[[alphabet|alphabet]]**
+(~750 BCE). The contrast is fundamental — a restricted scribal syllabary that died with
+its bureaucracy, versus an easily-learned alphabet that spread through trade and
+underwrote the literate culture of the polis. See [[alphabet|the alphabet]].
+
 ## Related
 
 - Process: [[minoan-civilization]] · [[mycenaean-civilization]] · Place: [[knossos]]
+- Successor script: [[alphabet|the Greek alphabet]] (after the literacy gap)
 - Controversy: [[fall-of-knossos]] · People: [[coming-of-the-greeks-1900bce|the coming of the Greeks]]
 - Concept: [[cambridge-ancient-history-methodology]] · Period: [[middle-bronze-age]] → [[late-bronze-age]]
-- Source: [[edwards-cah-v2p1-1973]]
+- Source: [[edwards-cah-v2p1-1973]] · [[boardman-cah-v3p1-1982]] (the alphabet)

@@ -9,7 +9,7 @@ affiliated_with: []
 opposed_by: [[[assyria-middle|Assyria]], [[second-isin-dynasty|Babylon]], [[hebrew-kingdom|Israel]] (David)]
 key_events: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]], David's defeat of Aram-Zobah]
 key_processes: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]], the spread of Aramaic]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, movement, early-iron-age, levant, near-east, mesopotamia]
 ---
@@ -61,6 +61,27 @@ occupied the East-Tigris and middle-Euphrates country between
 their weakest condition; an Aramaean, **Adad-apla-iddina**, even took the Babylonian
 throne (c. 1062 BCE). The climax of Aramaean political power fell between about 1100
 and 900 BCE in Mesopotamia, and in the 9th century in Syria.
+
+## The 9th–8th Century: Absorbed and Fought (CAH III.1)
+
+[[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] shows the two faces of the Aramaean
+presence as the [[neo-assyrian-empire|Neo-Assyrian Empire]] revived:
+
+- **Adversaries in Syria.** **Aram-Damascus** was Assyria's chief western foe: under
+  **Hadadezer (Adad-idri)** it led the coalition at the
+  [[battle-of-qarqar-853bce|battle of Qarqar (853)]], and under the usurper
+  **[[hazael|Hazael]]** it withstood Shalmaneser III's siege of 841 before Damascus
+  finally fell to **Adad-nirari III**. **Bit-Adini** was annexed outright as
+  Assyria's first trans-Euphrates province; **Arpad** (Bit-Agusi) remained a chronic
+  centre of revolt down to the treaty of Mati'ilu with Ashur-nirari V (754).
+- **Absorbed within Assyria.** Even as Assyria fought them, it **swallowed** them: by
+  Brinkman's and Grayson's account Aramaeans were deported into Assyria in huge
+  numbers (one calculation: ~139,000 of 193,000 people moved in 881–815), recruited
+  into the army, and risen to the court — and the **Aramaic language and alphabet**
+  spread so far that "Aramaic scribes" appear beside cuneiform ones from the reign of
+  Adad-nirari III, an irreversible linguistic shift (see [[alphabet]]). In Babylonia
+  the Aramaeans remained disruptive squatters whom Chaldaean kings like Eriba-Marduk
+  had to expel from temple lands (see [[babylonia-iron-age]]).
 
 ## David and the Aramaeans
 

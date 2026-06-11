@@ -5,7 +5,7 @@ date_range: 5,500–3,300 BCE (regionally variable; overlaps Late Neolithic and 
 regions_covered: [near-east, mesopotamia, levant, anatolia, iran-plateau, southeast-europe, balkans]
 major_themes: [copper metallurgy, secondary products, craft specialization, proto-urban centers, social differentiation]
 collection_coverage: moderate
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [period]
 ---
@@ -34,8 +34,20 @@ here, immediately before the urban threshold treated in
 ## Major Developments
 
 - **Copper metallurgy** — cold-working then smelting and casting of copper;
-  Varna (Bulgaria, ~4600–4200 BCE) yields the world's oldest large gold hoard,
-  signaling marked status differentiation.
+  [[varna|Varna]] (Bulgaria, ~4600–4200 BCE) yields the world's oldest large gold
+  hoard, signaling marked status differentiation. The **Balkan** strand is now
+  documented in detail by [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Ch. 3,
+  Garašanin): shaft mining at **Rudna Glava** (Serbia) and **Ai Bunar** (Thrace),
+  cast axe-adzes spreading across the Carpatho-Danubian zone, and the thesis that
+  metallurgy "inaugurated the beginning of social stratification." The volume argues
+  for an **autochthonous** Balkan metallurgy independent of the Near East — see the
+  dedicated process page [[old-europe-copper-metallurgy]].
+- **"Old Europe" tell cultures** — the graphite-painted
+  **Gumelnița–Karanovo VI**, **Marica**, **Sava**, **Cucuteni** and **Vinča**
+  complexes of the central/eastern Balkans: large fortified tells (Goljamo Delčevo
+  with seventeen Eneolithic horizons), dense figurine art, and emergent rank. Their
+  breakdown under steppe ([[indo-european-migrations|Kurgan/ochre-grave]]) pressure
+  in the later 4th millennium is one of prehistory's sharp reversals. See [[balkans]].
 - **Secondary products** — traction, wool, dairying, and riding intensify (the
   [[secondary-products-revolution]] documented in [[barker-cwh-v2-2015|CWH II]]).
 - **Proto-urban aggregation** — in southern Mesopotamia the Ubaid temple-centered
@@ -83,14 +95,19 @@ use marks a genuine social threshold or merely a technological one; and how
 directly the [[secondary-products-revolution]] drove social differentiation
 (revised by lipid-residue dating — see [[barker-cwh-v2-2015|CWH II]]).
 
-**Collection coverage.** Weak. The Bibliotheca Alexandrina covers the Chalcolithic
-only at the edges — via [[barker-cwh-v2-2015|CWH II]] (secondary products, late
-Neolithic) and the urban run-up in [[yoffee-cwh-v3-2015|CWH III]]. Dedicated
-Bronze/Copper-Age archaeology and the Cambridge Ancient History (Phase 2) will
-deepen it; until then this page is a thematic placeholder, not a full overview.
+**Collection coverage.** Moderate, and improving. The Bibliotheca Alexandrina
+covers the Chalcolithic via [[barker-cwh-v2-2015|CWH II]] (secondary products, late
+Neolithic), the urban run-up in [[yoffee-cwh-v3-2015|CWH III]], and — now, for the
+**Balkans specifically** — [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]], which
+supplies a genuine regional synthesis of Old European metallurgy and the tell
+cultures (Rudna Glava, Ai Bunar, Varna, Gumelnița, Vinča). The Balkan/Eneolithic
+strand is therefore well-served; the Near Eastern and Levantine Chalcolithic remain
+thinner and await dedicated Bronze/Copper-Age archaeology in later phases.
 
 ## Related
 
 - Periods: [[neolithic]] · [[early-bronze-age]]
-- Process: [[urbanization]] · [[secondary-products-revolution]] · [[agriculture-and-urbanism]]
-- Place: [[places/uruk|Uruk]]
+- Process: [[old-europe-copper-metallurgy]] · [[urbanization]] · [[secondary-products-revolution]] · [[agriculture-and-urbanism]]
+- Place: [[varna]] · [[balkans]] · [[places/uruk|Uruk]]
+- Controversy: [[indo-european-origins]] · Process: [[indo-european-migrations]]
+- Source: [[boardman-cah-v3p1-1982]]

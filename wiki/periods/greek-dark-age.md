@@ -5,7 +5,7 @@ date_range: "c. 1200–800 BCE (Aegean regional sub-period of the Early Iron Age
 regions_covered: [aegean, mediterranean, anatolia]
 major_themes: ["collapse of the Mycenaean palace world", "depopulation and the loss of Linear B literacy", "sub-Mycenaean and Protogeometric pottery", "the Dorian and Ionian migrations", "the transmission of the Homeric tradition", "from palace to village to polis"]
 collection_coverage: strong
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [period]
 ---
@@ -107,6 +107,38 @@ alphabetic literacy (the [[alphabet|Phoenician alphabet]] adapted not long befor
 700), overseas colonization, and the monumental composition of the Homeric poems —
 carries the Aegean into the [[archaic-period|Archaic Period]] (800–500 BCE).
 
+## The Recovery and the Birth of the Polis (CAH III.1)
+
+[[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Chs. 16–18) carries the Aegean
+through the **recovery** that ends the Dark Age, treating it region by region
+(Snodgrass on Central Greece and Thessaly; Hammond on the Peloponnese; Cook on East
+Greece; Boardman on the islands):
+
+- **An Athens-led resurgence.** The revival is read off the **pottery sequence**
+  (sub-Mycenaean → Protogeometric → Geometric), which does not arrive everywhere at
+  once but spreads, region by region, **from Attica** outward to Thessaly, Boeotia,
+  and the rest. Athens — never abandoned — leads, its richest Protogeometric burials
+  (gold, imports) showing renewed wealth, underwritten by the **mastery of
+  iron-working** (which filled the gap left by the bronze-metal shortage) and by
+  **silver extraction at Laurium**. Population climbs steadily through the period in
+  Attica, Euboea, and the Argolid.
+- **[[euboea|Euboea]] takes the lead overseas.** The single most dynamic region is
+  Euboea, above all **Lefkandi**, casting bronze tripods before 900 and importing
+  Phoenician, Cypriot, and Egyptian goods through the ninth century. The **Euboeans —
+  not easterners — took the first step in the orientalizing of Greek culture**,
+  founding the trading post of **Al Mina** in Syria (~end of the 9th c.) and the
+  western colony of **Pithecusae** on Ischia (~770) — driven by hunger for **metal**,
+  not land. Through them flowed the eastern goods, motifs, and the
+  [[alphabet|alphabet]] that powered the eighth-century renaissance.
+- **From village to polis.** Hammond's chapter on the Peloponnese argues that the
+  **city-state emerged directly out of the Dark Age**: scattered village-encampments
+  (especially in the Dorian states) **combined** for corporate religious and political
+  action — the cult of **Athena Poliouchos** ("guardian of the polis") on the Spartan
+  acropolis being emblematic — producing the first poleis at **Sparta, Megara,
+  Corinth, and Argos**. On the Asia Minor coast, Old Smyrna yields "the first certain
+  and unambiguous apparition of the organized Hellenic *polis*." See
+  [[city-state|the city-state]].
+
 ## Historiography
 
 **Source quality.** The Dark Age is the test case for doing history without
@@ -144,8 +176,10 @@ full coverage — the archaeology (Desborough), the migration legends (Hammond),
 settlement of Asia Minor (Cook), the language (Chadwick), and Homer and religion
 (Kirk, Guthrie) — the collection's strongest single treatment of the period. The
 continuation into the Geometric eighth century, overseas colonization, and the rise
-of the polis belong to **CAH III.1**, not yet ingested. Per CLAUDE.md the collection
-is excellent for the Greco-Aegean world; this is one of its best-served periods.
+of the polis is now supplied by **[[boardman-cah-v3p1-1982|CAH III.1]]** (Chs. 16–18,
+the regional surveys; the Geometric culture and the alphabet follow in Chs. 19–20).
+Per CLAUDE.md the collection is excellent for the Greco-Aegean world; this is one of
+its best-served periods.
 
 ## Related
 
@@ -154,5 +188,5 @@ is excellent for the Greco-Aegean world; this is one of its best-served periods.
 - Migrations: [[dorian-invasion-1120bce]] · [[ionian-migration-1050bce]] · People: [[dorians]]
 - Memory: [[homer]] · [[homeric-poems-as-history]] · [[trojan-war-1250bce]]
 - Language/religion: [[coming-of-the-greeks-1900bce]] · [[greek-religion-and-mythology]]
-- Place: [[mycenae]] · [[troy]] · Concept: [[aegean-scripts]] (Linear B, lost)
-- Source: [[edwards-cah-v2p2-1975]] (Ch. XXXVI–XL)
+- Place: [[mycenae]] · [[troy]] · [[euboea]] (Lefkandi) · Concept: [[aegean-scripts]] (Linear B, lost) · [[city-state]] · [[alphabet]] · [[geometric-culture-greece|Geometric culture]]
+- Source: [[edwards-cah-v2p2-1975]] (Ch. XXXVI–XL) · [[boardman-cah-v3p1-1982]] (Chs. 16–18)

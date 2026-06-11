@@ -2,7 +2,7 @@
 title: Origins of the Indo-Europeans (Homeland and Dispersal)
 dispute_type: interpretation
 period_involved: [Neolithic, Chalcolithic, Early Bronze Age, Middle Bronze Age]
-regions_involved: [eurasian-steppe, anatolia, near-east, central-asia, europe, south-asia, iran-plateau]
+regions_involved: [eurasian-steppe, anatolia, near-east, central-asia, europe, south-asia, iran-plateau, balkans]
 positions:
   - "Steppe / Kurgan hypothesis (Gimbutas → Anthony): PIE homeland on the Pontic-Caspian steppe ~4500–3000 BCE; spread by mobile pastoralists with horses and wheeled vehicles"
   - "Anatolian / farming-dispersal hypothesis (Renfrew): PIE spread with agriculture out of Anatolia from ~7000 BCE, by demic diffusion of farmers, not conquest"
@@ -145,6 +145,39 @@ the cautious Indo-Hittite tradition (he takes the early Anatolian split seriousl
 and is a strong early voice **against** reading destruction layers — like the
 [[early-bronze-age-anatolia|end-EB2 "Luwian" horizon]] — as automatic proof of
 ethnic invasion.
+
+## Garašanin's Balkan View (CAH III.1) — the steppe model from the receiving end
+
+[[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Ch. 3, M. Garašanin) adds a
+**Balkan archaeologist's** voice, viewing the question from the lands the steppe
+peoples entered rather than from Anatolia or the steppe itself:
+
+- He treats the **Eneolithic migrations from the Russian steppes and the Pontic
+  basin** — the **"Kurgan culture"** (named for its *kurgan* tumulus burials, ochre
+  graves, corded ware and stone battle-axes) — as the archaeological correlate of
+  **Indo-Europeanization**, "decisive for the further development of society in
+  these regions." This is essentially **Gimbutas's Kurgan model** stated as fact by
+  a contemporary working in the target area (Position 1).
+- Crucially, he frames the outcome as **assimilation, not replacement**: the
+  intruding pastoralists merged with the autochthonous Old European farmers, and
+  it is *from this fusion* that the **Palaeo-Balkan Indo-European peoples**
+  (Thracians, Illyrians, Daco-Moesians, and ultimately the Greeks) slowly formed —
+  "both their languages and they themselves evolved during a long process of …
+  assimilation." Ethnogenesis, not invasion.
+- He records the **competing linguistic theory** he argues against: that
+  Indo-Europeans were in the Balkans **much earlier**, from the Early Neolithic,
+  inferred from a deep Indo-European layer in Balkan **toponymy and hydronymy**.
+  Garašanin rejects this (no fixed rate of language formation; oldest place-names
+  need not match oldest population), placing IE arrival firmly in the **Eneolithic**
+  via the steppe. This is the **same early-vs-late tension** that, on the Anatolian
+  side, separates Renfrew's farming model (Position 2) from the steppe model.
+
+Garašanin thus supplies, decades before ancient DNA, a clear **steppe-migration +
+local-assimilation** account for *Europe's* Indo-Europeanization — the very process
+(Yamnaya influx into Corded Ware Europe) that aDNA would later confirm. His
+"pots = peoples" method is dated, but his **conclusion** has aged well. See the
+[[indo-european-migrations|migrations process page]] (European/Balkan branch) and
+[[balkans]].
 
 ## Where Things Stand
 

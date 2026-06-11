@@ -5,10 +5,10 @@ modern_equivalent: near Mosul, northern Iraq (Assyrian heartland)
 coordinates: ~36.36°N, 43.15°E (Nineveh)
 period_active: [Early Iron Age, Archaic Period]
 controlled_by: [Assyrian Empire]
-events_here: []
+events_here: [[[fall-of-nineveh-612bce|fall of Nineveh 612 BCE]]]
 processes_here: [[[urbanization]], [[ruralization]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-11
 tags: [place, mesopotamia, near-east, early-iron-age]
 ---
 
@@ -55,6 +55,28 @@ people and power outrunning the local agrarian base — is the signature
 vulnerability of the [[imperial-city]], and the empire collapsed quickly when the
 provinces' coerced loyalty failed (614–612 BCE).
 
+## Sennacherib's Nineveh and Ashurbanipal's Library (CAH III.2)
+
+[[boardman-cah-v3p2-1991|CAH Vol. III, Part 2]] (Chs. 23–24, Grayson) supplies the
+human detail behind the archaeology. **[[sennacherib|Sennacherib]] (704–681)** made
+Nineveh the imperial capital almost on accession, abandoning his father
+[[sargon-ii|Sargon II's]] unfinished Dur-Sharrukin. He built the **"Palace Without
+a Rival"** (the South-West Palace, with "two miles of bas-reliefs" and bull
+colossi), girdled the city with an **eighteen-gated wall and moat**, laid out a
+great royal **park**, and engineered **sixteen canals** to carry mountain
+spring-water to the city — works whose remains are still visible. He personally
+supervised the colossi and boasted of a new bronze-casting method.
+
+**[[ashurbanipal|Ashurbanipal]] (668–c.631)** added the **North Palace** (famous
+for its lion-hunt reliefs) and, above all, assembled the **Library of Nineveh** —
+the systematic royal collection of literary, religious, omen, lexical, and
+scholarly tablets (including the *Epic of Gilgamesh* and *Enūma Eliš*) recovered
+on Kouyunjik in the 19th century, the **single richest source for Mesopotamian
+civilization**. Both palaces and the library were buried when a coalition of
+[[neo-babylonian-empire|Chaldaeans]] and **Medes** sacked Nineveh in
+**[[fall-of-nineveh-612bce|612 BCE]]** — the event the prophet Nahum had foretold,
+invoking Assyria's own [[sack-of-thebes-663bce|sack of Thebes]].
+
 ## Why this place mattered
 
 The Assyrian capitals show the imperial city as **headquarters and population-
@@ -66,3 +88,5 @@ royal power while remaining hostage to the empire that fed it.
 - Places: [[uruk|Uruk]] · [[tenochtitlan|Tenochtitlan]] · [[rome|Rome]] · [[baghdad|Baghdad]]
 - Concept: [[imperial-city]] · [[founded-cities]] · [[city-state]]
 - Process: [[urbanization]] · [[ruralization]]
+- Kings: [[sennacherib]] · [[ashurbanipal]] · Empire: [[neo-assyrian-empire]] · End: [[fall-of-nineveh-612bce]]
+- Source: [[boardman-cah-v3p2-1991]] (Chs. 23–24)

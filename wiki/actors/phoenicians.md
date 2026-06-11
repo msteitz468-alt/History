@@ -7,9 +7,9 @@ period: [Early Iron Age, Archaic Period, Classical Antiquity]
 region: [levant, mediterranean, north-africa, iberia]
 affiliated_with: [the Canaanite city-states (Tyre, Sidon, Byblos), Carthage]
 opposed_by: [[[neo-assyrian-empire|Assyria]], [[neo-babylonian-empire|Babylon]], later Greeks and [[roman-republic|Rome]]]
-key_events: [founding of Carthage (trad. 814 BCE), spread of the alphabet]
-key_processes: [[[trade-network-formation]], [[alphabet|alphabetic writing]], colonization]
-sources_ingested: 2
+key_events: [founding of [[carthage|Carthage]] (trad. 814 BCE), spread of the alphabet, Assyrian and Babylonian domination, the [[phoenician-colonization|western colonization]]]
+key_processes: [[[trade-network-formation]], [[alphabet|alphabetic writing]], [[phoenician-colonization|colonization]]]
+sources_ingested: 4
 last_updated: 2026-06-11
 tags: [actor, state, early-iron-age, levant, mediterranean]
 ---
@@ -65,6 +65,74 @@ and art-historical grounds, no later than the 10th–9th centuries, rejecting th
 higher legendary foundation dates. Like the [[philistines|Philistines]], Phoenician
 kings were checked by a **council of elders** (*moʿed*).
 
+## The Colony at Kition, Cyprus (CAH III.1)
+
+[[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Ch. 12, Karageorghis) documents the
+archaeology of the first and most important Phoenician overseas colony,
+**[[cyprus|Kition (Citium)]] on Cyprus**. Though literary tradition links **Hiram I**
+to Citium already in the tenth century, the firm archaeological colonization belongs to
+the ninth: the Phoenicians rebuilt the old Late Bronze Age temple as a great **temple
+of Astarte**, and Phoenician inscriptions name the city **Khardihadast — "the New
+City"** — administered by a **governor appointed by the king of Tyre** (attested under
+**Hiram II**, later eighth century), with Phoenician as the official language. Kition
+gave Tyre direct access to Cypriot **copper** and a forward base from which Phoenician
+Red Slip ware, bronzes, and the "Cypro-Phoenician" metal bowls spread westward — the
+launch-point of the Mediterranean expansion. The episode is the documented prototype of
+the colonization that the older [[edwards-cah-v2p2-1975|CAH II.2]] narrative (Citium,
+Utica, Carthage, Gades) treats more sweepingly. Cyprus also shows the **parallel
+Greek** penetration: early Euboean Geometric pottery appears beside the Phoenician
+material.
+
+## The City-States under Assyria and Babylon (CAH III.2)
+
+[[boardman-cah-v3p2-1991|CAH Vol. III, Part 2]] (Ch. 32, W. Culican) supplies the
+**eighth-to-sixth-century political history** — the squeeze of the great empires that
+helped drive the Phoenicians west. Phoenicia was always **a group of independent
+city-states, never a nation** ([[tyre|Tyre]], Sidon, Byblos, Arvad the chief), with
+**Tyre dominant commercially c. 800–600**; Tyre and Sidon at times formed a single
+"Sidonian" kingdom. Direct Assyrian control began under **[[tiglath-pileser-iii|
+Tiglath-pileser III]]** (738: a north-Syrian coastal province at Simirra; Hiram II of
+Tyre in the anti-Assyrian coalition), but the Assyrians treated Tyre and Sidon
+relatively **leniently** — installing officials, taxing the cedar-felling, restricting
+the timber trade, but leaving the kings in place, since a prosperous Phoenicia served
+Assyria. The hard blows fell when cities rebelled: **[[sennacherib|Sennacherib]]** drove
+**Luli (Elulaios)** of Tyre to flight in Cyprus (the scene on his reliefs);
+**[[esarhaddon|Esarhaddon]] destroyed Sidon (677)**, executing Abdi-milkutti, and bound
+Ba'al of Tyre by treaty; **[[ashurbanipal|Ashurbanipal]]** kept Tyre, Byblos, and Arvad
+as vassals. Then **[[nebuchadnezzar-ii|Nebuchadnezzar II]]** besieged **[[tyre|Tyre]] for
+thirteen years (c. 587–574)**, while the Saite pharaohs (Necho, Psammetichus II, Apries)
+raided back by sea — the cities caught between Mesopotamia and Egypt until Persia absorbed
+them all.
+
+## Arts, Crafts, and the Purple (CAH III.2)
+
+Culican's archaeological survey makes the Phoenicians the **master luxury-craftsmen of
+the Iron Age Mediterranean**. Their signature industries: **murex purple dye** (the
+laborious, malodorous Tyrian-purple monopoly, with double-dyeing techniques); **carved
+ivories** (the "Phoenician school," Egyptianizing and inlaid, distinct from the "Syrian"
+school — furniture panels and toilet articles found from Nimrud to Samaria to Salamis);
+**decorated metal bowls** (the silver and bronze *paterae* of Nimrud, Praeneste, the
+Idaean cave); **the timber trade** in Lebanese cedar; and a distinctive pottery
+sequence (Red-Slip and Black-on-Red wares) whose spread tracks Phoenician presence from
+Cilicia to Spain. Egyptian cultural influence on Phoenician art and religion was
+"always formative" — Astarte in the dress of Isis, the *naos* shrine, the anthropoid
+sarcophagus, amulets and scarabs.
+
+## The Western Colonization (CAH III.2)
+
+The volume's great theme is the **westward [[phoenician-colonization|colonization]]**
+(eighth–sixth c. BCE) — the planting of Tyrian colonies across the western Mediterranean
+that made the inner sea a Phoenician as much as a Greek lake, and produced
+**[[carthage|Carthage]]** (trad. 814/813). Driven by metals (Spanish silver above all),
+by Assyrian pressure, and by population and trade, the colonies ran from
+**[[carthage|Carthage]] and Utica** in North Africa, through **Motya, Panormus, and
+Solus** in Sicily, **Malta** and Pantelleria, **Sardinia** (Sulcis, Nora, Tharros,
+Cagliari), to the silver coasts of **Spain** — the Málaga colonies (Toscanos), the
+Huelva mines, and at the far west **[[gades-tartessos|Gades (Cadiz)]]** beside the
+silver kingdom of **[[gades-tartessos|Tartessos]]**. The full process — its motives,
+network, religion (the *tophet* child-sacrifice, the cult of Melqart), and the role of
+Carthage — is treated in **[[phoenician-colonization]]**.
+
 ## A Commercial Thalassocracy
 
 Lacking the agrarian base or armies of the great empires, the Phoenicians built
@@ -114,4 +182,7 @@ collapse.
 
 - [[canaanite-civilization|Canaanite civilization]] (Bronze Age parent) · [[philistines|Philistines]] · [[arameans|Aramaeans]]
 - [[hebrew-kingdom|Hebrew Kingdom]] · [[david|David]] · [[solomon|Solomon]] · [[bronze-age-collapse-1200bce|Bronze Age Collapse]]
-- Source: [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2]] · [[benjamin-cwh-v4-2015|CWH IV]]
+- Colony: [[cyprus|Kition / Cyprus]] · [[trade-network-formation|Mediterranean trade]]
+- Cities: [[tyre]] · West: [[carthage]] · [[gades-tartessos]] · Process: [[phoenician-colonization]]
+- Empires: [[neo-assyrian-empire]] · [[neo-babylonian-empire]]
+- Source: [[edwards-cah-v2p2-1975|CAH II.2]] · [[benjamin-cwh-v4-2015|CWH IV]] · [[boardman-cah-v3p1-1982|CAH III.1]] · [[boardman-cah-v3p2-1991|CAH III.2]] (Ch. 32)

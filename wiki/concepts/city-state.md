@@ -6,11 +6,11 @@ origin: >
   Greek polis and Renaissance Italian city-states; systematized cross-culturally
   by Nichols & Charlton (1997) and Mogens Herman Hansen's Copenhagen Polis Centre
   (30- and 6-culture studies, 2000–2002). Central to CWH Vol. III.
-applies_to_periods: [Early Bronze Age, Middle Bronze Age, Archaic Period, Classical Antiquity]
-applies_to_regions: [mesopotamia, mediterranean, south-asia, mesoamerica]
+applies_to_periods: [Early Bronze Age, Middle Bronze Age, Greek Dark Age, Archaic Period, Classical Antiquity]
+applies_to_regions: [mesopotamia, mediterranean, aegean, south-asia, mesoamerica]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-11
 tags: [concept]
 ---
 
@@ -48,6 +48,23 @@ kilometers ("islands of urbanism in a sea of villages"). If each controlled its
 surroundings, individual Indus "city-state" territories would reach 100,000–
 170,000 km² — calling the very model into question.
 
+## The Greek polis: emergence from the Dark Age (CAH III.1)
+
+[[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] supplies the **historical genesis** of
+the polis that the comparative model treats as a type. Hammond (Ch. 17) argues the
+city-state grew **directly out of the [[greek-dark-age|Greek Dark Age]]**: the Dark
+Age unit was the scattered **village-encampment** (*kome*), but in the Geometric period
+these separate communities **combined** — first for corporate religious action above
+the level of family worship (the cult of **Athena Poliouchos**, "guardian of the
+polis," on the Spartan acropolis is emblematic), then for **joint political action**.
+The earliest such communities arose among the **Dorian** states — **Sparta, Megara,
+Corinth, Argos** — and, in response, among their non-Dorian neighbours (Asine, Tegea).
+On the Asia Minor coast, Old **Smyrna** offers "the first certain and unambiguous
+apparition of the organized Hellenic *polis*." The process was a **synoikism** (the
+fusing of villages) catalysed by the return of trade, art, and literacy from the east
+(via [[euboea|Euboea]]) — so the polis is, in origin, the political crystallization of
+the Dark Age recovery rather than a survival from the Mycenaean palace world.
+
 ## Coercion vs capital (Tilly)
 
 Charles Tilly's spectrum — **coercion-intensive** (territorial states, military
@@ -65,5 +82,6 @@ councils/assemblies/oligarchies. See [[hierarchy-vs-heterarchy-early-cities]].
 ## Related
 
 - Concepts: [[urbanism]] · [[heterarchy]] · [[urban-revolution]]
-- Places: [[uruk|Uruk]] · [[mohenjo-daro|Mohenjo-daro]] · [[tikal|Tikal]]
-- Process: [[urbanization]] · Period: [[early-bronze-age]]
+- Places: [[uruk|Uruk]] · [[mohenjo-daro|Mohenjo-daro]] · [[tikal|Tikal]] · [[euboea|Euboea]]
+- Process: [[urbanization]] · [[greek-dark-age|Greek Dark Age]] · Period: [[early-bronze-age]]
+- Source: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Greek polis genesis)

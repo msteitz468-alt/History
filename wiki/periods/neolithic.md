@@ -5,7 +5,7 @@ date_range: "9,500–3,000 BCE (regionally diachronous; see note)"
 regions_covered: [near-east, levant, anatolia, iran-plateau, south-asia, china, japan, korea, southeast-asia, melanesia, sub-saharan-africa, west-africa, mesoamerica, andes, north-america, europe, mediterranean]
 major_themes: ["origins of agriculture", "plant and animal domestication", "sedentism", "village life", "the Neolithic Revolution", "demographic expansion", "emergent inequality", "secondary products", "pottery", "foraging-farming frontier"]
 collection_coverage: strong
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [period]
 ---
@@ -119,6 +119,13 @@ Anatolia, documented reaching the Levant as early as the late Natufian — see
   [[catalhoyuk|Çatal Hüyük]].
 - **Jomon** (Japan) and **Yayoi** (Japan) cultures *(Cycle 4)*.
 - **Linearbandkeramik (LBK)** — the first farmers of temperate Europe *(Cycle 6)*.
+- **Starčevo–Criș and Vinča** cultures (central/eastern Balkans) — the
+  southeast-European farming sequence documented by [[boardman-cah-v3p1-1982|CAH
+  Vol. III, Part 1]] (Garašanin, Dumitrescu), the bridge by which farming reached
+  temperate Europe ahead of the LBK. Notably, in the **Iron Gates** the late
+  Mesolithic **Schela Cladovei** culture had developed antler hoes and incipient
+  cultivation that was *arrested by the arrival of Starčevo* — a clear case of the
+  porous foraging–farming frontier. See [[balkans]].
 - Early **Bantu**-speaking farmer-herders, agents of agricultural spread in
   sub-Saharan Africa *(Cycle 5)*.
 - **Khirokitia culture** (aceramic Neolithic I of Cyprus) — a *sui generis* island
