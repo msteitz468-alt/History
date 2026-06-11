@@ -83,7 +83,7 @@ and harass Hatti for decades.
 balance permanently: he broke Mitanni, brought Syria under Hittite hegemony down to
 Damascus, and — by removing the Mitannian buffer — opened the road for the rise of
 Assyria. The Egyptian–Hittite rivalry he began over Syria would run on to the
-[[unknown|battle of Qadesh]] and the first recorded international peace treaty under
+[[battle-of-qadesh-1274bce|battle of Qadesh]] and the first recorded international peace treaty under
 his successors. His career is also a standard exhibit for **contingency in
 history** (the Zannanza affair) and for the [[mesopotamian-chronology|"Amarna
 synchronism"]] that links Egyptian, Hittite, and Mesopotamian dates.

@@ -18,10 +18,10 @@ tags: [actor, dynasty, middle-bronze-age, late-bronze-age, mesopotamia]
 
 A people of the **Zagros mountains** who, after the [[fall-of-babylon-1595bce|
 Hittite sack of Babylon]] (~1595 BCE), took the vacant throne and ruled Babylonia
-for the longest dynasty in its history — by the king-lists, **576 years**. This
-volume reaches only their obscure **beginnings**; their long stable rule belongs to
-the unsourced CAH Vol. II.2. Treated in [[edwards-cah-v2p1-1973|CAH Vol. II, Part 1]]
-(Ch. V §VII, Gadd).
+for the longest dynasty in its history — by the king-lists, **576 years**.
+[[edwards-cah-v2p1-1973|CAH Vol. II.1]] (Ch. V §VII, Gadd) reaches only their obscure
+**beginnings**; their flourishing "great-power" century is now covered in
+[[edwards-cah-v2p2-1975|CAH Vol. II.2]] (Ch. XVIII) — see below.
 
 ## Out of the mountains
 
@@ -75,7 +75,7 @@ Two threads dominate:
   half-Assyrian king **Kadashman-Harbe**, Ashur-uballit marched in, killed the
   usurper, and installed his own great-grandson **Kurigalzu II** — the beginning of
   the long **[[assyria-middle|Assyria]]–Babylonia rivalry** that runs (via
-  Enlil-nirari, Adad-nirari I) to Tukulti-Ninurta I's eventual sack of Babylon.
+  Enlil-nirari, Adad-nirari I) to [[tukulti-ninurta-i|Tukulti-Ninurta I]]'s eventual sack of Babylon.
 - **Middle Kassite society.** This is the great age of the **kudurru
   ("boundary-stones")** — royal land-grants guarded by carved divine symbols and
   curses — and of a distinctive officialdom (land-sale by proclamation and royal

@@ -21,8 +21,8 @@ reliability_notes: >
   The text is an Internet Archive OCR conversion of the EPUB; proper names carry
   OCR noise (e.g. "Shuppiluliumash", "Muwatallish", "Khattushilish", "Tushratta",
   "Cnossus" = Knossos, "Merneptah", "Ramesses").
-pages_created: 15
-pages_updated: 9
+pages_created: 24
+pages_updated: 14
 ingested: 2026-06-11
 tags: [source]
 ---
@@ -109,6 +109,18 @@ the overseas trade network, Aḫḫiyawa), `places/mycenae.md` (the Cyclopean ci
 Lion Gate, Treasury of Atreus), `places/troy.md` (Troy VIIa = the "Troy of Priam,"
 destroyed ~1250; VIIb Knobbed Ware), `places/cyprus.md` (Late Cypriot copper boom,
 Enkomi, the Mycenaean-trade debate, Alašiya, the LC III collapse & Hellenization).
+
+## 2026-06-11 section | CAH Vol. II.2 | Section 3: The Clash of Empires — 19th-Dyn. Egypt, Hatti & Assyria (Ch. XXIII–XXV) | Pages created: 9 | Pages updated: 5
+
+Created: `events/battle-of-qadesh-1274bce.md`, `events/egyptian-hittite-treaty-1259bce.md`
+(the first international peace treaty), `actors/ramesses-ii.md`, `actors/sethos-i.md`,
+`actors/merneptah.md` (the Israel Stela & first Sea-Peoples wave), `actors/ramesses-iii.md`
+(the Sea-Peoples victory), `actors/muwatalli-ii.md`, `actors/hattusili-iii.md`,
+`actors/tukulti-ninurta-i.md` (the sack of Babylon). Updated: `actors/kassites.md`
+(Tukulti-Ninurta's sack; fixed stale "unsourced II.2" note), `actors/assyria-middle.md`
+(Adad-nirari I → Tukulti-Ninurta I), `actors/mursili-ii.md`, `actors/shuppiluliuma-i.md`,
+`actors/hittites.md` (resolved the `[[unknown|Muwatalli II]]` and `[[unknown|battle of
+Qadesh]]` forward-links; fixed a stale self-reference).
 
 <!-- Section logs appended below as each cycle completes. -->
 

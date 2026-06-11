@@ -11,6 +11,18 @@ Format:
 
 ---
 
+## 2026-06-11 section | CAH Vol. II, Part 2 (1975) | Section 3: The Clash of Empires — 19th-Dynasty Egypt, Hatti & Assyria (Ch. XXIII–XXV) | Late Bronze Age | north-africa, levant, anatolia, mesopotamia | Pages created: 9 | Pages updated: 5
+
+Section 3 covers the Egyptian–Hittite struggle for Syria and its resolution: Sethos I's
+restoration, Ramesses II, the battle of Qadesh (1274) and the Egyptian–Hittite "Eternal
+Treaty" (1259, the first international peace treaty); the Hittite side (Muwatalli II,
+the usurper Ḫattušili III & Puduḫepa); Merneptah (the Israel Stela, the first Sea-Peoples
+wave); Ramesses III's defeat of the Sea Peoples; and the rise of Middle Assyria to
+Tukulti-Ninurta I's sack of Babylon. Created: battle-of-qadesh-1274bce,
+egyptian-hittite-treaty-1259bce, ramesses-ii, sethos-i, merneptah, ramesses-iii,
+muwatalli-ii, hattusili-iii, tukulti-ninurta-i. Updated: kassites, assyria-middle,
+mursili-ii, shuppiluliuma-i, hittites.
+
 ## 2026-06-11 section | CAH Vol. II, Part 2 (1975) | Section 2: Hatti, Ugarit, Troy & the Aegean Zenith (Ch. XXI(a)–XXII(b)) | Late Bronze Age | anatolia, levant, aegean, mediterranean | Pages created: 3 | Pages updated: 5
 
 Section 2 covers the Hittite Empire under Muršili II (the Ten-Year Annals, the Arzawa

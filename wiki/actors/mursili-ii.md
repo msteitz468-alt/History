@@ -66,8 +66,8 @@ Babylonian widow), accusing her of killing his wife by black magic — an episod
 
 Muršili II turned his father's conquests into a **durable empire**, stretching from
 the Lebanon and Euphrates to the Pontus and western Anatolia. His reign sets up the
-**Egyptian–Hittite collision** under his son [[unknown|Muwatalli II]] (the
-[[unknown|battle of Qadesh]], Section 3), and his texts make the Hittite empire one
+**Egyptian–Hittite collision** under his son [[muwatalli-ii|Muwatalli II]] (the
+[[battle-of-qadesh-1274bce|battle of Qadesh]], Section 3), and his texts make the Hittite empire one
 of the best-documented states of the age. The plague-prayers are a landmark in the
 history of religion — a king reasoning morally with his gods.
 
@@ -81,6 +81,6 @@ Hittite side. See [[cambridge-ancient-history-methodology]].
 
 ## Related
 
-- Father: [[shuppiluliuma-i]] · State: [[hittites]] · Capital: [[hattusha]] · Successor: [[unknown|Muwatalli II]]
+- Father: [[shuppiluliuma-i]] · State: [[hittites]] · Capital: [[hattusha]] · Successor: [[muwatalli-ii|Muwatalli II]]
 - West: [[ahhiyawa-question]] · [[unknown|Aḫḫiyawa]] · [[mycenaean-civilization]] · Vassal: [[ugarit]]
 - Concept: [[interpolity-law]] · Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

@@ -24,7 +24,7 @@ Babylon]], and went on to become one of the great powers of the
 **Middle Kingdom** (c. 1650–1380 BCE); the **Empire** of
 **[[shuppiluliuma-i|Šuppiluliuma I]]** and his successors — the destruction of
 [[mitanni|Mitanni]], the hegemony over Syria, and the wars with Egypt to the
-[[unknown|battle of Qadesh]] — is narrated in
+[[battle-of-qadesh-1274bce|battle of Qadesh]] — is narrated in
 [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2]] (see [[shuppiluliuma-i]] and Section 3).
 Treated in [[edwards-cah-v2p1-1973|CAH Vol. II, Part 1]] (Chs. VI & XV, Gurney).
 
@@ -103,9 +103,10 @@ reduced Syria and even Kizzuwadna (Cilicia) to vassalage. A recovery began under
 of their queens (Nikkal-mati, Ašmu-Nikkal)** — mark the deep **Hurrianization** of
 the dynasty: the Hurrian pantheon (Yazılıkaya), Hurrian royal names, and the
 **horse-training manual of [[mitanni|Kikkuli]]** for the chariot army. This Middle
-Kingdom is the bridge to the Empire: out of it emerges **Šuppiluliuma I**, who
-would shatter Mitanni and make Hatti a [[late-bronze-age|Late Bronze]] superpower —
-a story for [[edwards-cah-v2p1-1973|CAH Vol. II.2]].
+Kingdom is the bridge to the Empire: out of it emerges
+**[[shuppiluliuma-i|Šuppiluliuma I]]**, who would shatter Mitanni and make Hatti a
+[[late-bronze-age|Late Bronze]] superpower — a story told in
+[[edwards-cah-v2p2-1975|CAH Vol. II.2]] (see Sections 1–3).
 
 ## Significance
 

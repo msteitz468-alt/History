@@ -33,9 +33,10 @@ successors — Enlil-nirari, Arik-den-ili, then **Adad-nirari I** and **Shalmane
 I** — Assyria fought the rump Hurrian kingdom of **Khanigalbat** (the house of
 Šattuara and Wasašatta) to the finish and **annexed it**, pushing the frontier to
 the Euphrates and making Assyria a four-square rival of Kassite Babylonia (see the
-Assyrian military chapter, Section 3). Its apex came with **Tukulti-Ninurta I**, who
-defeated and captured the Kassite king Kaštiliaš IV and **sacked Babylon itself** —
-celebrated in the chauvinist **Tukulti-Ninurta Epic** — and with the Early-Iron-Age
+Assyrian military chapter, Section 3). Its apex came with
+**[[tukulti-ninurta-i|Tukulti-Ninurta I]]**, who defeated and captured the Kassite
+king Kaštiliaš IV and **sacked Babylon itself** — celebrated in the chauvinist
+**Tukulti-Ninurta Epic** — and with the Early-Iron-Age
 revival under **Tiglath-pileser I** (Section 5).
 
 ## Institutions
