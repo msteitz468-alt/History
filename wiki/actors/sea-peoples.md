@@ -50,7 +50,12 @@ The Egyptian sources (the Great Karnak Inscription and "Israel" stele of
 
 The Mediterranean "homeland" identifications (Sardinia, Sicily, Etruria) rest on
 later name-resemblances and are disputed; they may reflect *destinations* of the
-movements as much as origins. What the sources establish securely is that the
+movements as much as origins. CAH II.2's western-Mediterranean chapter (Ch. XXXVII,
+Daniel) takes up the **Sherden** case directly: of the two views — that they came
+*from* Sardinia or *from* **Sardis** in Asia Minor and later gave their name to the
+island — Daniel prefers the **Asia Minor origin**, seeing the Sherden as eastern
+warrior-chiefs who, after raiding Egypt, may have founded or reinforced the
+**[[western-mediterranean|Nuraghic civilization]] of Sardinia**. What the sources establish securely is that the
 coalitions were ethnically mixed and moved with families, ox-carts, and ships —
 i.e., they were migrations, not merely naval raids.
 

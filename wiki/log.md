@@ -11,6 +11,34 @@ Format:
 
 ---
 
+## 2026-06-11 section | CAH Vol. II, Part 2 (1975) | Section 6: The Greek World after the Bronze Age — the Dark Age, the migrations, Homer, Greek language & religion (Ch. XXXVI–XL) | Early Iron Age | aegean, anatolia, mediterranean-world, western-europe | Pages created: 9 | Pages updated: 5
+
+Section 6 — the final content section — covers the Aegean and western Mediterranean
+after the Mycenaean collapse. Greece passes into the Greek Dark Age (sub-Mycenaean →
+Protogeometric pottery, lost Linear B literacy, palace → village). The Dorians (the
+"Return of the Heracleidae") seize the Peloponnese, driving the Aeolic/Ionic/Dorian
+migrations that settle the coast of Asia Minor and give rise to the polis. The oral
+heroic tradition crystallizes in Homer (treated as a source for three ages — Bronze
+Age, Dark Age, Ionian present — in the Homeric-Question controversy). Chadwick's
+prehistory of the Greek language revises the "three waves" theory (single
+Indo-European intrusion ~2100 BCE; dialects formed inside Greece; Mycenaean = East
+Greek by Linear B). Guthrie's Greek religion traces the Olympian/chthonian amalgam of
+Indo-European and Minoan-Mycenaean roots, with Hesiod's theogony echoing the
+Hurrian-Hittite Kumarbi cycle. A western-Mediterranean chapter anchors Bronze/Iron
+Age Italy (Villanovan → Etruscan), Nuraghic Sardinia (the Sherden question),
+Sicily/Malta, and Iberia/Tartessus at the threshold of Phoenician and Greek
+colonization. Created: `periods/greek-dark-age.md`, `actors/dorians.md`,
+`events/dorian-invasion-1120bce.md`, `events/ionian-migration-1050bce.md`,
+`actors/homer.md`, `controversies/homeric-poems-as-history.md`,
+`concepts/coming-of-the-greeks-1900bce.md` (resolves a heavily-referenced dangling
+link), `concepts/greek-religion-and-mythology.md`, `places/western-mediterranean.md`.
+Updated: `actors/phrygians.md` (the European Briges), `events/trojan-war-1250bce.md`
+(Homer + Mopsus/Karatepe), `actors/sea-peoples.md` (the Sherden = Sardis/Sardinia
+debate), `periods/early-iron-age.md` (the Aegean developments wired in),
+`processes/mycenaean-civilization.md` (its greek-dark-age forward-links now resolve).
+Resolved forward-links: `[[greek-dark-age]]`, `[[unknown|Homer]]`,
+`[[coming-of-the-greeks-1900bce]]`.
+
 ## 2026-06-11 section | CAH Vol. II, Part 2 (1975) | Section 5: The Iron-Age Near East — Assyria/Babylon, Elam, Syria/Philistia/Phoenicia, the Hebrew Kingdom & late-Ramesside Egypt (Ch. XXXI–XXXV) | Early Iron Age | mesopotamia, near-east, levant, iran-plateau, north-africa | Pages created: 7 | Pages updated: 5
 
 Section 5 carries the Near East from the Bronze Age Collapse into the early Iron Age.

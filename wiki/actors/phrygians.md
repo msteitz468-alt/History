@@ -35,6 +35,22 @@ and Kummuh. Whether the "Mushki" of the Assyrian texts are the same as the
 later Phrygians of Gordion, or a distinct eastern group, remains uncertain — the
 volume records the debate without resolving it.
 
+### The European Briges (CAH II.2, Ch. XXXVI)
+
+Hammond's chapter on the Greek migrations supplies the **European prehistory** of the
+Phrygians. He identifies the archaeological **"Lausitz" intrusion** into Macedonia and
+northern Epirus (c. 1200–1080 BCE — Knobbed Ware / *Buckelkeramik*, cremation,
+spiral-decorated bronzes) with the **Briges**, the people whom the *Telegony* has
+Odysseus fight in Thesprotia c. 1180 BCE and whom Herodotus places below Mount Bermion
+in Macedonia "until they migrated to Asia." The **Briges of Europe** are thus the same
+people as the **Phryges of Asia** — confirmed by the close resemblance between
+twelfth-century Lausitz pottery of Macedonia and that of **Troy VIIb** (Knobbed Ware),
+and by Phrygian-derived place-names (Edessa, Scodra, Scydra). Crucially, Hammond argues
+it was the **pressure of the Briges** on western Macedonia and Epirus that helped set
+the [[dorian-invasion-1120bce|Dorians]] and Thessalians in motion southward — making
+the Phrygian migration one driver of the whole chain of
+[[greek-dark-age|Dark Age]] movements.
+
 ## Anatolia After the Hittites
 
 The Phrygian migration is one piece of the post-collapse Anatolian mosaic that

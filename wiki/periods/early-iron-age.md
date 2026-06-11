@@ -92,6 +92,22 @@ the [[phoenicians|Phoenicians]] (Canaanite revival) took to the sea, and the
 Urartu emerged from the Hittite wreck; Egypt slid into the
 [[new-kingdom-egypt|Third Intermediate Period]].
 
+**The Aegean Dark Age and the Greek migrations (CAH II.2).** [[edwards-cah-v2p2-1975|CAH
+Vol. II.2]] (chapters XXXVI–XL) gives the Aegean side of the period its fullest
+treatment. After the [[mycenaean-civilization|Mycenaean]] palaces fell, Greece passed
+into the [[greek-dark-age|Greek Dark Age]] — depopulation, lost
+[[aegean-scripts|Linear B]] literacy, sub-Mycenaean and then **Protogeometric**
+pottery, and the shift from palace to village. The [[dorians|Dorians]] seized the
+[[dorian-invasion-1120bce|Peloponnese]] (the "Return of the Heracleidae"), driving the
+[[ionian-migration-1050bce|Aeolian and Ionian migrations]] that planted Greek cities —
+and the seeds of the **polis** — along the coast of Asia Minor. The oral heroic
+tradition of the age crystallized in [[homer|Homer]], and the historic Greek pantheon
+and dialect map took shape (see [[greek-religion-and-mythology|Greek religion]] and the
+[[coming-of-the-greeks-1900bce|prehistory of the Greek language]]). The
+[[western-mediterranean|western Mediterranean]] (Italy's Villanovans, the Nuraghic
+Sardinians, Iberia) likewise approached the threshold of [[phoenicians|Phoenician]] and
+Greek colonization.
+
 ## Key Actors
 
 - **[[assyria-middle|Assyria]]** — [[tiglath-pileser-i|Tiglath-pileser I]]'s revival,
@@ -104,6 +120,9 @@ Urartu emerged from the Hittite wreck; Egypt slid into the
 - **[[phoenicians|Phoenician city-states]]** — Tyre, Sidon, Byblos, Carthage.
 - **[[arameans|Aramaeans]]** and **[[hittites|Neo-Hittite]]** successor states of the
   northern Levant; **[[phrygians|Phrygians]]** and Urartu in Anatolia.
+- **[[dorians|The Dorians / Heracleidae]]** and the **[[ionian-migration-1050bce|Ionian
+  and Aeolian migrants]]** — the reshaping of the [[greek-dark-age|Aegean]] and the
+  Greek settlement of Asia Minor.
 - **[[western-zhou]]** — the Zhou royal house and its regional lords.
 - **Vedic Indo-Aryans** — *(see [[vedic-age]], Cycle 7)*.
 - **Olmec** (Mesoamerica) — the first complex society of the Americas, flourishing

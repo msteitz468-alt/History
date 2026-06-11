@@ -21,8 +21,8 @@ reliability_notes: >
   The text is an Internet Archive OCR conversion of the EPUB; proper names carry
   OCR noise (e.g. "Shuppiluliumash", "Muwatallish", "Khattushilish", "Tushratta",
   "Cnossus" = Knossos, "Merneptah", "Ramesses").
-pages_created: 37
-pages_updated: 23
+pages_created: 46
+pages_updated: 28
 ingested: 2026-06-11
 tags: [source]
 ---
@@ -162,6 +162,35 @@ the Deir el-Medina strikes, Herihor and the High Priests of Amun, the 21st Dynas
 division, Wenamun), `actors/elam.md` (Khutelutush-In-Shushinak's defeat by
 Nebuchadnezzar I; Ch. XXXII link), and `periods/early-iron-age.md` (wired the whole
 Iron-Age-Near-East arc and resolved its `[[bronze-age-collapse]]` forward-links).
+
+## 2026-06-11 section | CAH Vol. II.2 | Section 6: The Greek World after the Bronze Age — the Dark Age, the migrations, Homer, Greek language & religion (Ch. XXXVI–XL) | Pages created: 9 | Pages updated: 5
+
+Created: `periods/greek-dark-age.md` (the Aegean sub-period of the Early Iron Age;
+resolves the `[[greek-dark-age]]` forward-links from collapse/Mycenaean/Troy),
+`actors/dorians.md` (the Dorians and the Heracleidae — wanderings, the three tribes,
+West-Greek dialect), `events/dorian-invasion-1120bce.md` (the "Return of the
+Heracleidae" and the conquest of the Peloponnese), `events/ionian-migration-1050bce.md`
+(the Aeolic/Ionic/Dorian settlement of Asia Minor and the birth of the polis),
+`actors/homer.md` (the monumental composer; resolves the `[[unknown|Homer]]`
+forward-links), `controversies/homeric-poems-as-history.md` (the Homeric Question as a
+source-reliability dispute — the three layers, oral-formulaic theory, the Catalogue of
+Ships vs the chariot/palace-economy anachronisms), `concepts/coming-of-the-greeks-1900bce.md`
+(the prehistory of the Greek language — Linear B, the dialect map, the revision of the
+"three waves" theory; resolves the heavily-referenced `[[coming-of-the-greeks-1900bce]]`
+dangling link), `concepts/greek-religion-and-mythology.md` (Minoan-Mycenaean religion,
+Linear B gods, the Olympian/chthonian amalgam, Hesiod's theogony and its Near Eastern
+parallels), `places/western-mediterranean.md` (the Bronze/Iron Age western
+Mediterranean — Terramare/Apennine/Urnfield/Villanovan Italy, Sicily/Malta, Nuraghic
+Sardinia and the Sherden, Iberia/Tartessus; resolves the western-Med gap). Updated:
+`actors/phrygians.md` (the European Briges = Phryges, the Lausitz intrusion, Troy VIIb
+Knobbed Ware, and the Brigian pressure that helped drive the Dorian migrations),
+`events/trojan-war-1250bce.md` (resolved `[[unknown|Homer]]`/`[[unknown|Greek epic
+tradition]]`; added Hammond's literary chronology and the Mopsus/Karatepe
+confirmation), `actors/sea-peoples.md` (Daniel's Sherden = Sardis-vs-Sardinia debate,
+cross-linked to the Nuraghic civilization), `periods/early-iron-age.md` (wired the
+Aegean Dark Age / migrations / Homer developments and a Greek Key-Actors bullet),
+`processes/mycenaean-civilization.md` (already carried the Ch. XXVII recession and the
+greek-dark-age links from Section 4 — its forward-links now resolve).
 
 <!-- Section logs appended below as each cycle completes. -->
 

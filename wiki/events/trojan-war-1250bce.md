@@ -13,7 +13,7 @@ event_type: [war]
 scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[unknown|Mycenaean expansion / raiding]], control of the Hellespont and Troad, [[mycenaean-civilization|Mycenaean palace competition]]]
-consequences: [[[unknown|Greek epic tradition]], [[troy|destruction of Troy VIIa]], the legendary Nostoi / migrations]
+consequences: [[[homeric-poems-as-history|the Greek epic tradition]], [[troy|destruction of Troy VIIa]], the legendary Nostoi / migrations]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [event, war, late-bronze-age, bronze-age-collapse, aegean, anatolia]
@@ -24,9 +24,10 @@ tags: [event, war, late-bronze-age, bronze-age-collapse, aegean, anatolia]
 The Trojan War is the conflict, remembered in Greek epic as a coalition of
 [[mycenaean-civilization|Mycenaean]] kingdoms besieging and destroying the city of
 [[troy|Troy]] in northwest Anatolia, and debated by historians as a possible
-historical kernel behind [[unknown|Homer]]'s *Iliad*. CAH II.2 (chapter XXVII)
+historical kernel behind [[homer|Homer]]'s *Iliad*. CAH II.2 (chapter XXVII)
 treats it within the recession of Mycenaean civilisation, asking how much real
-Late Bronze Age history the epic tradition preserves.
+Late Bronze Age history the epic tradition preserves; chapter XXXVI (Hammond)
+returns to it from the side of the migration legends.
 
 > **Dating.** No date is secure. Archaeologically the candidate destruction is
 > **Troy VIIa**, burned c. 1250–1180 BCE; the later Greek chronographers placed
@@ -64,6 +65,21 @@ whether a historical war underlies the legend:
    confirming the specific war of legend. The identification is itself disputed
    (see [[ahhiyawa-question|the Aḫḫiyawa question]]).
 
+### The migration legends and Mopsus (CAH II.2, Ch. XXXVI)
+
+Hammond, treating the literary tradition, dates the fall of Troy to **c. 1200 BCE**
+(compatible with the Egyptian Sea-Raids of the 1190s–1180s and with Thucydides) and
+shows the post-war *Nostoi* shading into the **migration legends** of the eastern
+Aegean and Anatolia. The pivotal case is **Mopsus**: a seer who, after the sack of
+Troy, led "peoples" across the Taurus into Pamphylia and on to Cilicia, Syria, and
+Phoenicia. The legend — long known only from late authors — was **strikingly
+confirmed** by the bilingual **Karatepe inscription** (8th c.), which names the
+"house of *Mukshush*" (Hittite) / *Mupsh* (Phoenician), i.e. Mopsus, and a king "of
+the *Danuniyim*" (≈ the Danaoi). A Hittite tablet from Boğazköy also links *Mukshush*
+to a "man of Aḫḫiyawa." Mopsus is thus, in R. D. Barnett's phrase, "the first figure
+of Greek mythology to emerge into historic reality" — independent, non-Greek
+corroboration of the post-Trojan-War Greek diaspora into the Levant.
+
 ## Causal Analysis
 
 If a historical conflict lies behind the legend, the volume's framing points to
@@ -80,7 +96,8 @@ material rather than romantic causes:
 
 - `produced:` the Greek **epic tradition** — the matter of Troy became the
   organising memory of the heroic age, transmitted orally through the
-  [[greek-dark-age|Dark Age]] and crystallised in [[unknown|Homer]].
+  [[greek-dark-age|Dark Age]] and crystallised in [[homer|Homer]] (see
+  [[homeric-poems-as-history|the Homeric poems as history]]).
 - `produced:` (in legend) the **Nostoi** — the disrupted homecomings of the
   victors — which the later Greeks linked to the very migrations and disturbances
   of the [[bronze-age-collapse-1200bce|collapse]] period.
