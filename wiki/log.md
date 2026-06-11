@@ -11,6 +11,22 @@ Format:
 
 ---
 
+## 2026-06-11 ingest-complete | CAH Vol. II, Part 1: The Middle East and the Aegean Region, c. 1800–1380 BC (Edwards, Gadd, Hammond & Sollberger, eds., 1973) | Total pages created: 35 | Total pages updated: 10 | Sections processed: 6
+
+Completed the Large-Volume ingest of the missing Bronze-Age backbone volume (sourced
+as an EPUB, converted, ingested over 6 section cycles). The volume populates the
+Middle-to-Late Bronze transition across the whole eastern Mediterranean: Mesopotamia
+& the Amorites/Hammurabi (S1), Egypt's SIP–Hyksos–early New Kingdom (S2), the Levant
+& Mitanni (S3), Anatolia & the Hittites (S4), the Aegean — Minoan, Mycenaean & the
+scripts (S5), and the Persian plateau (S6). Step-3 close-out: wrote the Volume
+Synthesis Note (the great-powers system; the ~1595 reshuffling; the Indo-European
+horizon on three fronts; the all-archaeological Aegean/Iranian method) and created
+the long-deferred **`periods/late-bronze-age.md`** period page; updated `index.md`
+(header, the new LBA period & source rows, recomputed Summary Statistics → 350 pages
+total). Source confirmed filed (raw/Markdown; EPUB deleted earlier). **Queued next**
+in Processing-List order: the converted but un-ingested **Vols. II.2, III.3 and IV**;
+**III.1 and III.2 remain unsourced** (see Outstanding Sources).
+
 ## 2026-06-11 section | CAH Vol. II, Part 1 (1973) | Section 5: The Aegean — Minoan Crete, the scripts & Mycenaean origins (Chs. IV(a–c), XII, XIII, XIV) | Middle–Late Bronze Age | aegean, mediterranean, near-east | Pages created: 7 | Pages updated: 2
 
 The whole Aegean thread in one cycle. Created `minoan-civilization` (Crete's palace

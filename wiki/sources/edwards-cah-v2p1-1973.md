@@ -18,7 +18,7 @@ reliability_notes: >
   here is an Internet Archive OCR conversion of the EPUB; proper names carry OCR
   noise (e.g. "Cnossus" = Knossos, "Ammenemes" = Amenemhat, "Khattusha" =
   Hattusha, "Seqenenre", "Iakhdunlim" = Yakhdun-Lim).
-pages_created: 33
+pages_created: 35
 pages_updated: 10
 ingested: 2026-06-11
 tags: [source]
@@ -193,4 +193,69 @@ Pelops legends, tholos tombs, and the Mycenaean takeover of Knossos). Promoted t
 **[[fall-of-knossos|date/agency of the fall of Knossos]]** (Evans vs. Palmer) to a
 controversy page. Only Section 6 (the Persian Plateau) and the close-out remain.
 
-<!-- Written in Step 3, after all sections are processed. -->
+## 2026-06-11 section | CAH Vol. II.1 | Section: 6 — The Persian Plateau in the 2nd millennium (Ch. XVI) | Pages created: 1 | Pages updated: 0
+
+Created: `processes/persian-plateau-second-millennium.md`.
+Key content: Dyson's archaeological survey of highland Iran — the regional **ceramic
+traditions** (Gurgan Grey Ware, Giyan IV–III Painted Ware, Yanik EBA Ware, the
+Geoy/Dinkha/Sakkizabad polychromes, the southern Qal'eh/Shoga wares); the **Gurgan
+"hiatus problem"** and the continuity-vs.-intrusion debate; the cross-links dating
+the sequence (the Samsuiluna-reign seal parallel, the Attahushu axe, the Khabur-ware
+and Minyan grey-ware resemblances); and the end of the Bronze Age cultures
+~1350–1150 leading into the highland Iron Age — the backdrop to the later arrival of
+the Iranian-speaking Medes and Persians.
+
+---
+
+## Volume Synthesis Note
+
+CAH Vol. II.1 is, structurally, **four parallel civilizational stories told against
+one shared chronological spine** (c. 1800–1380 BCE) — Mesopotamia/Western Asia, Egypt,
+Anatolia-and-the-Levant, and the Aegean — plus a prehistoric coda on the Persian
+plateau. Read whole, its central argument is the **emergence of an interconnected
+"great-powers" world** out of the dense Amorite mosaic of the early second millennium.
+The volume opens with the multipolar [[interpolity-law|Mari-age balance of power]]
+(twenty kings following one) and closes on the threshold of the
+[[late-bronze-age|Late Bronze Age]] club of a few territorial empires — Egypt, Hatti,
+Mitanni, Babylonia — linked by the diplomacy, dynastic marriage, chariot warfare and
+luxury trade that the now-queued **Vol. II.2** will document in the Amarna letters.
+
+The hinge of the whole volume is the **~1595 reshuffling**: [[mursili-i|Mursili I]]'s
+Hittite march down the Euphrates ends **both** surviving Amorite great kingdoms —
+[[iamkhad|Aleppo]] and [[fall-of-babylon-1595bce|Babylon]] — handing Babylonia to the
+[[kassites|Kassites]] and clearing the stage for the [[hurrians|Hurrian]] kingdom of
+[[mitanni|Mitanni]] and the Egyptian [[new-kingdom-egypt|New Kingdom]]. This single
+event ties the Anatolian, Syrian and Mesopotamian threads (Sections 1, 3, 4) into one
+upheaval, and it is the volume's best illustration of its own method: a story
+reconstructed from **asymmetric, multilingual archives** (Babylonian chronicle,
+Hittite *res gestae*, the Telipinu edict, the Mari and Alalakh tablets) cross-checked
+by synchronism.
+
+A second through-line is **the chariot and the Indo-Aryan/Indo-European horizon**.
+The horse-drawn chariot and the *maryannu* aristocracy define [[mitanni|Mitanni]]
+(Section 3); the same Indo-European question runs through the [[hittites|Hittite]]
+languages (Section 4), the [[coming-of-the-greeks-1900bce|coming of the Greeks]] and
+the rise of [[mycenaean-civilization|Mycenae]] (Section 5), and the grey-ware cultures
+of the [[persian-plateau-second-millennium|Persian plateau]] (Section 6) — making this
+volume, read across its regions, a survey of the **second-millennium Indo-European
+expansions** on three fronts (Anatolia, Greece, Iran) framing the older Semitic and
+Hurrian worlds.
+
+The volume's **methodological signature** is its honesty about evidence of radically
+different kinds: the textual political history of Western Asia; the part-textual,
+part-archaeological Hittite and Levantine record; and the **almost wholly
+archaeological** Aegean and Iranian sections, where civilizations are read from
+pottery, frescoes, tombs and (for the Aegean) the [[aegean-scripts|scripts]] —
+including the watershed of **Ventris's Linear B decipherment**, which proved the
+Mycenaeans Greek and reframed the [[fall-of-knossos|Minoan–Mycenaean transition]].
+
+**Cross-volume tensions** with the already-ingested [[edwards-cah-v1p2-1971|Vol. I.2]]
+are minimal and continuous: II.1 directly extends the [[old-assyrian-trade|Old
+Assyrian]], [[amorites|Amorite]], [[elam|Elamite]] and [[early-bronze-age-aegean|
+Aegean]] threads it opened. The chief standing caveat is **chronological**: the whole
+volume uses the "middle chronology," and its absolute dates hang on the
+[[mesopotamian-chronology|disputed ~1595 sack of Babylon]] — flagged on every page
+that cites them. The volume's gift to the wiki is to **populate the Middle-to-Late
+Bronze transition across the entire eastern Mediterranean** at last, leaving only the
+Amarna age proper (Vol. II.2) and the missing III.1–IV to close the gap to the
+already-held Vols. V onward.
