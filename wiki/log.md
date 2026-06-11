@@ -1223,3 +1223,5 @@ count (Events 62, Actors 181, Places 78, Concepts 100, Sources 16; Total 563). T
 the wiki its first dense narrative of the Athenian empire, the radical democracy, the
 Peloponnesian War in all three phases, and the Classical cultural apex. Next backbone volume in
 Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Markdown/, un-ingested).
+
+## 2026-06-11 admin | Pushed completed CAH Vol. V ingest to GitHub (git@github.com:msteitz468-alt/History.git) — 98e1a16..81a3ed6 on main; raw/ remains gitignored.
