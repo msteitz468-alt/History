@@ -2,14 +2,14 @@
 title: New Kingdom Egypt (Eighteenth Dynasty)
 actor_type: state
 date_start: ~1550 BCE (Ahmose I expels the Hyksos)
-date_end: ~1069 BCE (end of the Twentieth Dynasty; this volume covers to ~1379 BCE)
+date_end: ~1069 BCE (end of the Twentieth Dynasty; this page's coverage runs through the end of the Eighteenth, ~1295 BCE)
 period: [Late Bronze Age]
 region: [north-africa, levant, near-east]
 affiliated_with: []
-opposed_by: [the [[hyksos|Hyksos]], the princedom of Kush, [[mitanni|Mitanni]] (then ally), the city-states of Syria-Palestine]
-key_events: [expulsion of the [[hyksos|Hyksos]] (~1550 BCE), the conquests of [[thutmose-iii|Thutmose III]] in Syria, the golden age of [[amenhotep-iii|Amenophis III]]]
-key_processes: [[[imperialism]], [[state-formation]], [[interpolity-law]]]
-sources_ingested: 1
+opposed_by: [the [[hyksos|Hyksos]], the princedom of Kush, [[mitanni|Mitanni]] (then ally), the [[hittites|Hittites]], the city-states of Syria-Palestine]
+key_events: [expulsion of the [[hyksos|Hyksos]] (~1550 BCE), the conquests of [[thutmose-iii|Thutmose III]] in Syria, the golden age of [[amenhotep-iii|Amenophis III]], the [[atenism|Amarna revolution]] under [[akhenaten|Akhenaten]] and the end of the dynasty]
+key_processes: [[[imperialism]], [[state-formation]], [[interpolity-law]], [[atenism]]]
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, late-bronze-age, north-africa, near-east]
 ---
@@ -64,13 +64,30 @@ temple absorbed a "major share of the spoils" — vast estates, herds, mines, fl
 and a great clerical bureaucracy — becoming the wealthiest institution in Egypt
 after the crown itself. This concentration of priestly wealth and influence, "more
 undermining to the nation's welfare" in the long run than any external threat,
-prepared the ground for the religious revolution of Akhenaten (the
-[[unknown|Amarna]] period, beyond this volume).
+prepared the ground for the religious revolution of [[akhenaten|Akhenaten]] (the
+[[amarna|Amarna]] period — now narrated in [[edwards-cah-v2p2-1975|CAH Vol. II.2]]).
+
+## The Amarna revolution and the end of the dynasty (CAH II.2)
+
+[[edwards-cah-v2p2-1975|Vol. II, Part 2]] (Ch. XIX, Aldred) carries the Eighteenth
+Dynasty to its close. **[[akhenaten|Akhenaten]]** replaced the state cult with the
+exclusive worship of the [[atenism|Aten]], founded a new capital at
+**[[amarna|Akhetaten]]**, and proscribed [[amun-priesthood|Amun]] — a religious and
+fiscal upheaval that "overturned" Egypt's finances and let its grip on Syria slip
+(the [[amarna-letters|Amarna letters]] record [[unknown|Amurru]] and the Syrian
+vassals defecting to [[shuppiluliuma-i|Hatti]]). His successors reversed it:
+**[[tutankhamun|Tutankhamun]]** restored the old cults and abandoned Amarna; after
+his heirless death (the [[zannanza-affair-1322bce|Zannanza affair]]) and the brief
+reign of the vizier **[[unknown|Ay]]**, the general **[[horemheb|Horemheb]]**
+dismantled the Aten temples, reformed the corrupt administration by edict, and passed
+the throne to **[[unknown|Ramesses I]]** — founding the [[unknown|Nineteenth
+Dynasty]] (Section 3). The later king-lists wrote the Amarna kings out of history
+entirely.
 
 ## Significance
 
 The New Kingdom is the moment Egypt becomes a **Late Bronze great power**, an equal
-correspondent (in the coming [[unknown|Amarna]] system) of [[mitanni|Mitanni]],
+correspondent (in the [[amarna-letters|Amarna]] system) of [[mitanni|Mitanni]],
 [[hittites|Hatti]], [[babylon-first-dynasty|Babylonia]] (now [[kassites|Kassite]]),
 and Assyria — the western anchor of the [[interpolity-law|international system]] that
 this volume documents at its dawn. It is also the apex of Egyptian wealth, imperial
@@ -90,7 +107,8 @@ edited. See [[cambridge-ancient-history-methodology]].
 ## Related
 
 - Born from: [[second-intermediate-period]] ← [[hyksos]] · Founder: [[ahmose-i]]
-- Kings: [[hatshepsut]] · [[thutmose-iii]] · [[amenhotep-iii]] · Institution: [[amun-priesthood]]
-- Place: [[thebes]] · [[avaris]] · [[memphis]] · LBA peers: [[mitanni]] · [[hittites]] · [[kassites]]
+- Kings: [[hatshepsut]] · [[thutmose-iii]] · [[amenhotep-iii]] · [[akhenaten]] · [[tutankhamun]] · [[horemheb]] · Institution: [[amun-priesthood]]
+- Amarna age: [[atenism]] · [[amarna]] · [[amarna-letters]] · [[nefertiti]] · [[zannanza-affair-1322bce]]
+- Place: [[thebes]] · [[avaris]] · [[memphis]] · LBA peers: [[mitanni]] · [[hittites]] · [[kassites]] · [[assyria-middle]]
 - Process: [[imperialism]] · [[interpolity-law]] · Period: [[late-bronze-age]]
-- Preceded by: [[middle-kingdom-egypt]] · Source: [[edwards-cah-v2p1-1973]]
+- Preceded by: [[middle-kingdom-egypt]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]

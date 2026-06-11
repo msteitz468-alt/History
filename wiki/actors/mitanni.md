@@ -2,16 +2,16 @@
 title: Mitanni (Khanigalbat)
 actor_type: state
 date_start: ~1600 BCE (consolidation after the fall of Babylon)
-date_end: ~1340 BCE (broken by the Hittites under Šuppiluliuma I; this volume to ~1400)
+date_end: ~1340 BCE (kingdom broken by [[shuppiluliuma-i|Šuppiluliuma I]]; rump survives as Hittite/Assyrian client)
 period: [Late Bronze Age]
 region: [near-east, mesopotamia, levant]
 affiliated_with: [the [[hurrians|Hurrians]], an Indo-Aryan ruling class, [[new-kingdom-egypt|Egypt]] (later ally)]
-opposed_by: [[[new-kingdom-egypt|Egypt]] (Thutmose I & III), the [[hittites|Hittites]], Assyria (vassal then rival)]
-key_events: [the consolidation of the Hurrian confederacy, the empire of Saustatar (Taurus to Zagros), the marriage alliance with Egypt under Thutmose IV]
+opposed_by: [[[new-kingdom-egypt|Egypt]] (Thutmose I & III), the [[hittites|Hittites]] ([[shuppiluliuma-i|Šuppiluliuma I]]), [[ashur-uballit-i|Assyria]] (vassal then rival)]
+key_events: [the consolidation of the Hurrian confederacy, the empire of Saustatar (Taurus to Zagros), the marriage alliance with Egypt under Thutmose IV, the destruction by Šuppiluliuma I and the murder of Tushratta]
 key_processes: [[[state-formation]], [[interpolity-law]], [[migration-in-human-history]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
-tags: [actor, state, late-bronze-age, near-east, mesopotamia]
+tags: [actor, state, late-bronze-age, near-east, mesopotamia, levant]
 ---
 
 # Mitanni (Khanigalbat)
@@ -69,6 +69,24 @@ together as allies through the reign of **[[amenhotep-iii|Amenophis III]]** — 
 relationship vividly documented in the [[unknown|Amarna letters]] (Tushratta of
 Mitanni to the pharaoh), which open at the very end of this volume's coverage.
 
+## The destruction (narrated in CAH II.2)
+
+What the first volume foretold, [[edwards-cah-v2p2-1975|Vol. II, Part 2]] (Ch. XVII,
+Goetze) recounts. In two Syrian wars **[[shuppiluliuma-i|Šuppiluliuma I]]** of Hatti
+stripped Mitanni of Syria and struck its capital **Waššukanni**; king **Tushratta**,
+already at odds with a rival "Khurri" line under Artatama, was finally **murdered by
+his own son**. His successors then "completed the surrender to Assyria," bribing
+[[ashur-uballit-i|Ashur-uballit I]] and Alše with the wealth of the royal palace to
+win allies against Hatti. Šuppiluliuma took up Tushratta's son **Kurtiwaza
+(Mattiwaza)**, married him to a Hittite princess, and reinstalled him at Waššukanni
+as a **client king** (the two surviving versions of their treaty — invoking the
+Vedic gods — are the showcase document of the Indo-Aryan question above). Mitanni
+survived only as a shrunken buffer, soon squeezed out of existence between Hatti and
+the rising Assyria. Its fall **freed Assyria** — "unwished for and of little
+consequence at the moment," but the hinge of the next two centuries. The rump
+kingdom of **Khanigalbat** (the house of Šattuara) fought Assyria into the reign of
+Shalmaneser I, who annexed it (see Section 3).
+
 ## Significance
 
 Mitanni is the **missing fourth corner** of the Late Bronze great-power system and
@@ -93,5 +111,5 @@ See [[cambridge-ancient-history-methodology]].
 
 - People: [[hurrians]] (its base) · [[indo-european-migrations|Indo-Aryans]] (its elite) · Concept: [[interpolity-law]]
 - Vassal: [[alalakh]] · Place: [[ugarit]] · Rival/ally: [[new-kingdom-egypt]] ([[thutmose-iii]], [[amenhotep-iii]])
-- Destroyed by: [[hittites]] · Controversy: [[indo-european-origins]]
-- Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]
+- Destroyed by: [[hittites]] ([[shuppiluliuma-i]]) then [[ashur-uballit-i|Assyria]] · Controversy: [[indo-european-origins]]
+- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]

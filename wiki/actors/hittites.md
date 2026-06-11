@@ -9,7 +9,7 @@ affiliated_with: [the Hattian substrate population, Kizzuwadna (at times), Kassi
 opposed_by: [[[iamkhad|Yamhad/Aleppo]], the [[hurrians|Hurrians]] & [[mitanni|Mitanni]], Arzawa, the Kaska tribes, [[babylon-first-dynasty|Babylon]]]
 key_events: [[[fall-of-babylon-1595bce|the sack of Babylon (~1595)]], the destruction of [[iamkhad|Aleppo]], the [[telipinu-edict-1500bce|Telipinu edict]]]
 key_processes: [[[indo-european-migrations]], [[interpolity-law]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, middle-bronze-age, late-bronze-age, anatolia, near-east]
 ---
@@ -21,8 +21,11 @@ The **first Indo-European empire** — the Anatolian state centred on
 Bronze Age]], destroyed Amorite [[iamkhad|Aleppo]] and [[fall-of-babylon-1595bce|
 Babylon]], and went on to become one of the great powers of the
 [[late-bronze-age|Late Bronze Age]]. This page covers the **Old Kingdom** and the
-**Middle Kingdom** (c. 1650–1380 BCE); the Empire of Šuppiluliuma I and his
-successors belongs to the now-queued [[edwards-cah-v2p1-1973|CAH Vol. II.2]].
+**Middle Kingdom** (c. 1650–1380 BCE); the **Empire** of
+**[[shuppiluliuma-i|Šuppiluliuma I]]** and his successors — the destruction of
+[[mitanni|Mitanni]], the hegemony over Syria, and the wars with Egypt to the
+[[unknown|battle of Qadesh]] — is narrated in
+[[edwards-cah-v2p2-1975|CAH Vol. II, Part 2]] (see [[shuppiluliuma-i]] and Section 3).
 Treated in [[edwards-cah-v2p1-1973|CAH Vol. II, Part 1]] (Chs. VI & XV, Gurney).
 
 ## Peoples and languages of Anatolia
@@ -134,5 +137,5 @@ merely a royal audience. See [[cambridge-ancient-history-methodology]].
 - Place: [[hattusha]] (the capital) · [[alalakh]] · [[troy|Troy/Wilusa]] · Kings: [[hattusili-i]] · [[mursili-i]]
 - Event: [[fall-of-babylon-1595bce]] · [[telipinu-edict-1500bce]] · Destroyed: [[iamkhad|Aleppo]]
 - Rivals: [[mitanni]] · [[hurrians]] · Opened the way for: [[kassites]]
-- People: [[indo-european-migrations]] · Concept: [[interpolity-law]]
-- Period: [[middle-bronze-age]] → [[late-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]
+- Empire: [[shuppiluliuma-i]] · People: [[indo-european-migrations]] · Concept: [[interpolity-law]] · [[amarna-letters]]
+- Period: [[middle-bronze-age]] → [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]

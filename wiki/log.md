@@ -11,6 +11,19 @@ Format:
 
 ---
 
+## 2026-06-11 section | CAH Vol. II, Part 2 (Edwards, Gadd, Hammond & Sollberger, eds., 1975) | Section 1: The Amarna Age & the Struggle for Syria (Ch. XVII–XX) | Late Bronze Age | near-east, levant, mesopotamia, north-africa | Pages created: 12 | Pages updated: 4
+
+Began the Large-Volume ingest of CAH Vol. II.2 (the direct continuation of II.1 —
+the Amarna climax, the Bronze Age Collapse, and the early Iron Age to c. 1000 BC).
+Step 1 (structural map + 6-section plan) written to `sources/edwards-cah-v2p2-1975.md`.
+Section 1 covers the 14th-c. struggle for Syria and the destruction of Mitanni by
+Šuppiluliuma I; Ashur-uballit I's liberation of Assyria and the Middle Kassite age;
+Egypt's Amarna revolution (Akhenaten, Atenism, Akhetaten, Tutankhamun, Horemheb); the
+Amarna letters and the ʿApiru/Habiru question. Created: shuppiluliuma-i,
+ashur-uballit-i, assyria-middle, akhenaten, tutankhamun, horemheb, nefertiti, amarna,
+atenism, amarna-letters, habiru, zannanza-affair-1322bce. Updated: mitanni, kassites,
+new-kingdom-egypt, hittites.
+
 ## 2026-06-11 ingest-complete | CAH Vol. II, Part 1: The Middle East and the Aegean Region, c. 1800–1380 BC (Edwards, Gadd, Hammond & Sollberger, eds., 1973) | Total pages created: 35 | Total pages updated: 10 | Sections processed: 6
 
 Completed the Large-Volume ingest of the missing Bronze-Age backbone volume (sourced
