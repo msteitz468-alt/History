@@ -11,6 +11,23 @@ Format:
 
 ---
 
+## 2026-06-11 section | CAH Vol. II, Part 2 (1975) | Section 4: The Collapse — Sea Peoples, the Aegean recession, Exodus, Elam & Phrygia (Ch. XXVI–XXX) | Late Bronze Age, Bronze Age Collapse, Early Iron Age | mediterranean, levant, anatolia, aegean, iran-plateau | Pages created: 6 | Pages updated: 4
+
+Section 4 is the climax of the volume: the disintegration of the Late Bronze Age
+system c. 1200 BCE. Created the standing transition page bronze-age-collapse-1200bce
+(multi-causal: Sea Peoples + drought/famine + palace-economy fragility + earthquakes +
+systems collapse); sea-peoples (the named coalitions — Peleset, Tjekker, Sherden,
+Shekelesh, Tursha, Akawasha, Lukka, Denyen, Weshesh — and the Merneptah Year-5 and
+Ramesses III Year-8 battles); philistines (the Peleset settlement of the pentapolis,
+the Aegean material signature); phrygians (post-Hittite Anatolia, the Mushki question,
+Neo-Hittite states, Urartu); trojan-war-1250bce (historicity via Troy VIIa, the
+Catalogue of Ships, and Aḫḫiyawa); and the controversy the-exodus (JEDP source
+criticism; early vs. late date; the indigenous-emergence/non-historical position).
+Updated mycenaean-civilization (the Ch. XXVII recession), elam (the Middle Elamite
+zenith — Untash-Napirisha, the Chogha Zanbil ziggurat, the Shutrukid sack of Babylon),
+and periods/late-bronze-age (now `strong`; full Amarna→Qadesh→collapse arc); resolved
+the [[unknown|Sea Peoples]] and [[unknown|Bronze Age Collapse]] forward-links wiki-wide.
+
 ## 2026-06-11 section | CAH Vol. II, Part 2 (1975) | Section 3: The Clash of Empires — 19th-Dynasty Egypt, Hatti & Assyria (Ch. XXIII–XXV) | Late Bronze Age | north-africa, levant, anatolia, mesopotamia | Pages created: 9 | Pages updated: 5
 
 Section 3 covers the Egyptian–Hittite struggle for Syria and its resolution: Sethos I's

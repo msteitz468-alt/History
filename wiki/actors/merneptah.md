@@ -17,7 +17,7 @@ tags: [actor, person, late-bronze-age, north-africa]
 # Merneptah
 
 The thirteenth son and aged successor of [[ramesses-ii|Ramesses II]] — the pharaoh
-who beat off the **first great wave of the [[unknown|Sea Peoples]]** and whose
+who beat off the **first great wave of the [[sea-peoples|Sea Peoples]]** and whose
 **Israel Stela** carries the earliest known mention of **Israel**. Treated in
 [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2]] (Ch. XXIII, Faulkner). Reign 1236–1223
 (volume) / ~1213–1203 BCE.
@@ -31,7 +31,7 @@ the [[ahhiyawa-question|Aḫḫiyawa/Achaeans]]) — invaded the western Delta t
 **settle**, bringing their families and goods. Merneptah, having reorganized the
 army, met and **routed them at Pi-yer** in a six-hour battle. These are, in
 Gardiner's phrase, the "forerunners of the great migratory movement about to descend
-on Egypt and Palestine" — the first surge of the [[unknown|Bronze Age Collapse]].
+on Egypt and Palestine" — the first surge of the [[bronze-age-collapse-1200bce|Bronze Age Collapse]].
 
 ## The Israel Stela
 
@@ -53,12 +53,12 @@ Merneptah marks the **turn from Egyptian offence to defence**: the empire is now
 fending off migration rather than projecting power. His reign yields two
 landmark documents — the first **Sea-Peoples** invasion record and the first
 **"Israel"** inscription — that make it pivotal for both the
-[[unknown|Bronze Age Collapse]] and the debate over **Israelite origins**. His death
+[[bronze-age-collapse-1200bce|Bronze Age Collapse]] and the debate over **Israelite origins**. His death
 opened the **chaotic end of the Nineteenth Dynasty** (Amenmesse, Sethos II, Siptah,
 Queen Tewosret, and the powerful chancellor **Bay**).
 
 ## Related
 
 - Father: [[ramesses-ii]] · Dynasty: [[new-kingdom-egypt]] · Successor (eventually): [[ramesses-iii]]
-- Threat: [[unknown|Sea Peoples]] · Israel: [[habiru]] / [[unknown|the Exodus]] · Peace: [[egyptian-hittite-treaty-1259bce]]
+- Threat: [[sea-peoples|Sea Peoples]] · Israel: [[habiru]] / [[unknown|the Exodus]] · Peace: [[egyptian-hittite-treaty-1259bce]]
 - Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

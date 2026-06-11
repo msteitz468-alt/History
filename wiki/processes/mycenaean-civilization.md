@@ -3,7 +3,7 @@ title: Mycenaean Civilization
 date_start: ~1600 BCE (the Shaft Graves; the Late Helladic / Mycenaean rise)
 date_end: ~1200–1100 BCE (the Bronze Age Collapse; this volume covers the rise to ~1380)
 date_precision: approximate
-period: [Late Bronze Age]
+period: [Late Bronze Age, Bronze Age Collapse]
 region: [aegean, mediterranean]
 process_type: [cultural]
 driven_by: [the Middle Helladic Greeks, Minoan influence, new warrior elites, palace economy & overseas trade]
@@ -112,15 +112,44 @@ level with the older civilizations:
   if so, "Greeks had made their début on the stage of world history, and in a major
   role."
 
-## End Conditions
+## End Conditions: the recession (CAH II.2, Ch. XXVII)
 
-Toward the end of the 13th century **instability** sets in — the concentration on
-fortification, the burning of houses outside the Mycenae citadel, a recession in the
-Cyprus trade — and the palace world is then shattered in the **~1200 BCE
-[[late-bronze-age|Bronze Age Collapse]]** (Section 4, the *recession of Mycenaean
-civilization*), which the Egyptians record as the **[[unknown|Sea Peoples]]**.
-Mycenaean Greece passed into the Dark Age, its memory preserved in the **Homeric
-epics**.
+Chapter XXVII (Desborough), *The end of Mycenaean civilization and the Dark Age*,
+traces the collapse in archaeological detail. Toward the end of the 13th century
+**instability** sets in — the concentration on fortification, the burning of houses
+outside the Mycenae citadel, a recession in the Cyprus trade — and then, around
+**1200 BCE**, a wave of destructions falls on the palace world:
+
+- **The destruction horizon (LH IIIB/IIIC).** The palaces and major centres were
+  burned or abandoned: **[[mycenae|Mycenae]]** (the houses outside the citadel, then
+  the citadel itself), **Tiryns**, **Pylos** (burned and never rebuilt — its last
+  Linear B tablets record "watchers" posted to guard the coast), **Iolcus**, **Gla**,
+  **Crisa**, the **Menelaion** near Sparta, and Thebes. **Linear B literacy
+  disappeared entirely**, leaving no administrative class and no script to rebuild
+  around.
+- **Depopulation and migration.** The post-destruction (LH IIIC) period shows sharp
+  **depopulation** of the old heartlands (the Argolid, Messenia, Laconia) and
+  movement to refuge and frontier zones — **Achaea, the Ionian islands, Cyprus,
+  and the Aegean islands** — the archaeological correlate of the legendary
+  **Nostoi** (troubled homecomings) and the later traditions of mass migration.
+- **The Dorian and Ionian traditions.** Desborough connects this disruption to the
+  Greek memory of the **"return of the Herakleidai" (the Dorian invasion)** from the
+  northwest and, in reaction, the **Ionian migration** of refugees across the Aegean
+  to the coast of Asia Minor — though he is cautious about pinning the archaeological
+  pattern to any single legendary event. (The settlement of Asia Minor is taken up in
+  Section 6.)
+- **The Trojan War in this frame.** The destruction of [[troy|Troy VIIa]] and the
+  [[trojan-war-1250bce|Trojan War]] tradition belong to the last generation of the
+  palace world, just before or amid its unravelling; the Catalogue of Ships preserves
+  the Bronze Age political geography precisely because it fossilised before the
+  collapse erased it.
+
+The palace world was thus shattered in the **[[bronze-age-collapse-1200bce|Bronze
+Age Collapse]]**, the same upheaval the Egyptians record as the
+**[[sea-peoples|Sea Peoples]]**. Mycenaean Greece passed into the
+[[greek-dark-age|Greek Dark Age]], its memory preserved in the **Homeric epics**.
+The Dark Age proper, the sub-Mycenaean and Protogeometric recovery, and the
+question of cultural continuity are taken up in Section 6 (chapters XXXVI–XXXIX).
 
 ## Significance
 
@@ -136,5 +165,5 @@ Troy that became the *Iliad* and *Odyssey*.
 - Process: [[minoan-civilization]] (source & victim) · Concept: [[aegean-scripts]] (Linear B)
 - People: [[coming-of-the-greeks-1900bce|the coming of the Greeks]] · [[indo-european-migrations]]
 - Trade: [[cyprus]] · [[ugarit]] · [[amarna]] · West: Italy/Sicily · Controversy: [[ahhiyawa-question]]
-- Economy/script: [[aegean-scripts]] (Linear B; the Pylos tablets) · Recession: [[unknown|Sea Peoples]]
+- Economy/script: [[aegean-scripts]] (Linear B; the Pylos tablets) · Recession: [[bronze-age-collapse-1200bce]] · [[sea-peoples]] · [[greek-dark-age]] · [[trojan-war-1250bce]]
 - Linked legends: Danaus & the [[hyksos|Hyksos]] · Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]

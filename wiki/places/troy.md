@@ -118,7 +118,7 @@ question.
 **Troy VIIb** followed: VIIb1 carried on the local culture, but VIIb2 brought a
 **new people** marked by handmade **Knobbed Ware (*Buckelkeramik*)** — paralleled in
 Late Bronze Age **Hungary**, and thought to mark a migration via Thrace into Anatolia,
-part of the wider disturbances of the [[unknown|Bronze Age Collapse]] / transition to
+part of the wider disturbances of the [[bronze-age-collapse-1200bce|Bronze Age Collapse]] / transition to
 the Iron Age.
 
 ## Significance

@@ -78,7 +78,7 @@ through the **Late Cypriot (LC) period**, divided into LC I (~1550–1400), LC I
   part of it — which would put the island directly in the **great-kings'
   correspondence** as a copper-exporting power.
 - **The collapse.** LC III opens with "major convulsions": the
-  [[unknown|Bronze Age Collapse]] reaches Cyprus, and — vividly attested in the last
+  [[bronze-age-collapse-1200bce|Bronze Age Collapse]] reaches Cyprus, and — vividly attested in the last
   [[ugarit|Ugarit]] letters (famine, a plea for grain, "the enemy has plundered my
   coasts") — the island is overwhelmed. Wholesale **desertion of settlements**
   follows in the 12th–11th centuries, but also the arrival of **refugee settlers from
@@ -100,5 +100,5 @@ island.
 
 - Process: [[trade-network-formation]] · [[minoan-civilization]] (a trade partner) · [[mycenaean-civilization]] (trade & settlement)
 - Place: [[alalakh]] · [[ugarit]] (Levantine trade termini) · [[knossos]] · Concept: [[amarna-letters]] · [[aegean-scripts]]
-- End: [[unknown|Sea Peoples]] / [[unknown|Bronze Age Collapse]]
+- End: [[sea-peoples|Sea Peoples]] / [[bronze-age-collapse-1200bce|Bronze Age Collapse]]
 - Period: [[middle-bronze-age]] → [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]

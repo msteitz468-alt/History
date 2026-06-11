@@ -6,7 +6,7 @@ date_end: 1166 BCE (death in his 32nd year)
 period: [Late Bronze Age, Bronze Age Collapse]
 region: [north-africa, levant]
 affiliated_with: [the Twentieth Dynasty, the cult of [[amun-priesthood|Amun]]]
-opposed_by: [the [[unknown|Sea Peoples]], the Libyans, a palace conspiracy]
+opposed_by: [the [[sea-peoples|Sea Peoples]], the Libyans, a palace conspiracy]
 key_events: [the Libyan wars of Years 5 and 11, the great land-and-sea battle against the Sea Peoples in Year 8, the harem conspiracy]
 key_processes: [[[imperialism]]]
 sources_ingested: 1
@@ -17,9 +17,9 @@ tags: [actor, person, late-bronze-age, north-africa]
 # Ramesses III
 
 "The last of the great warrior kings of Egypt" — the Twentieth-Dynasty pharaoh who
-**defeated the [[unknown|Sea Peoples]] on the very threshold of Egypt** in the great
+**defeated the [[sea-peoples|Sea Peoples]] on the very threshold of Egypt** in the great
 land-and-sea battle of his eighth year, the only major power to ride out the
-[[unknown|Bronze Age Collapse]]. After him "the glory departed, and Egypt was never
+[[bronze-age-collapse-1200bce|Bronze Age Collapse]]. After him "the glory departed, and Egypt was never
 again an imperial power." Treated in [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2]]
 (Ch. XXIII, Faulkner). Reign 1198–1166 (volume) / ~1184–1153 BCE.
 
@@ -75,6 +75,6 @@ Ramesses II's, a caution against reading them literally. See
 ## Related
 
 - Predecessor: Sethnakhte (founder of the Twentieth Dynasty) · earlier [[merneptah]] · [[ramesses-ii]]
-- Enemy: [[unknown|Sea Peoples]] (the [[unknown|Philistines]]) · [[unknown|Bronze Age Collapse]] · Institution: [[amun-priesthood]]
+- Enemy: [[sea-peoples|Sea Peoples]] (the [[unknown|Philistines]]) · [[bronze-age-collapse-1200bce|Bronze Age Collapse]] · Institution: [[amun-priesthood]]
 - Place: [[unknown|Medinet Habu]] / [[thebes]] · State: [[new-kingdom-egypt]]
 - Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

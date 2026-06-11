@@ -68,7 +68,7 @@ maritime routes that carried tin, copper, timber, and Aegean goods.
 
 The Bronze Age Canaanite world was shattered in the **~1200 BCE [[unknown|Sea
 Peoples]] disruption** that destroyed [[ugarit|Ugarit]] and many inland towns (the
-[[unknown|Bronze Age Collapse]]). But the culture did not vanish: it continued into
+[[bronze-age-collapse-1200bce|Bronze Age Collapse]]). But the culture did not vanish: it continued into
 the **Phoenician** city-states of the coast and the emergent **Israelite** highlands
 of the Iron Age.
 

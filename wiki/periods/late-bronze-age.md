@@ -4,8 +4,8 @@ period_number: 10
 date_range: 1,550–1,200 BCE (Near East; regionally variable)
 regions_covered: [near-east, mesopotamia, levant, anatolia, north-africa, iran-plateau, aegean, mediterranean]
 major_themes: [the great-powers system, international diplomacy, chariot warfare, empire, the palace economy, long-distance luxury trade, the Indo-European expansions]
-collection_coverage: moderate
-sources_ingested: 1
+collection_coverage: strong
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [period]
 ---
@@ -21,12 +21,13 @@ formal equals, through resident embassies, dynastic marriage, gift-exchange and
 written treaties, while a dense layer of **vassal city-states** filled the
 Syro-Palestinian land-bridge between them. It is the world of the **chariot
 aristocracy**, the cosmopolitan luxury trade, and the first true **international
-order** — the system whose correspondence survives in the **Amarna letters**. It
-opens out of the [[middle-bronze-age|Middle Bronze Age]] with the ~1595 collapse of
-the Amorite kingdoms and closes catastrophically in the ~1200 BCE
-**[[unknown|Bronze Age Collapse]]**. This page is anchored to
-[[edwards-cah-v2p1-1973|CAH Vol. II, Part 1]] (its opening, to c. 1380 BCE); the
-**Amarna climax and the collapse belong to the still-missing CAH Vols. II.2–IV**.
+order** — the system whose correspondence survives in the **[[amarna-letters|Amarna
+letters]]**. It opens out of the [[middle-bronze-age|Middle Bronze Age]] with the
+~1595 collapse of the Amorite kingdoms and closes catastrophically in the ~1200 BCE
+**[[bronze-age-collapse-1200bce|Bronze Age Collapse]]**. It is anchored to
+[[edwards-cah-v2p1-1973|CAH Vol. II, Part 1]] (the opening, to c. 1380 BCE) and
+**[[edwards-cah-v2p2-1975|CAH Vol. II, Part 2]]** (the Amarna climax through the
+collapse, c. 1380–1000 BCE) — between them they now cover the period in full.
 
 ## Major Developments
 
@@ -62,8 +63,28 @@ the Amorite kingdoms and closes catastrophically in the ~1200 BCE
   Pylos, Tiryns) spreads across the Aegean.
 - **The Hittite Middle Kingdom → Empire** — after the Telipinu reforms and a
   Mitannian eclipse, the [[hittites|Hittite]] dynasty (Hurrianized under Tudhaliya
-  and Arnuwanda) recovers, producing **Šuppiluliuma I**, who will shatter Mitanni
-  and make Hatti a superpower (beyond this volume).
+  and Arnuwanda) recovers, producing **[[shuppiluliuma-i|Šuppiluliuma I]]**, who
+  shatters [[mitanni|Mitanni]] and makes Hatti a superpower.
+- **The Amarna climax (CAH II.2)** — under [[akhenaten|Akhenaten]] the
+  [[amarna-letters|Amarna correspondence]] documents the great-powers system at its
+  height even as Egyptian control of Syria frays; [[shuppiluliuma-i|Šuppiluliuma I]]
+  exploits the moment to destroy Mitanni and plant Hittite power in north Syria — the
+  [[zannanza-affair-1322bce|Zannanza affair]] (the Egyptian queen's request for a
+  Hittite prince) marking the strange intimacy and hostility of the two courts.
+- **The clash of empires (CAH II.2)** — the 19th-Dynasty pharaohs
+  [[sethos-i|Sethos I]], [[ramesses-ii|Ramesses II]] and [[merneptah|Merneptah]]
+  fight Hatti for Syria: the [[battle-of-qadesh-1274bce|battle of Qadesh]] (c. 1274)
+  and the resulting [[egyptian-hittite-treaty-1259bce|Egyptian–Hittite peace]] (c.
+  1259) — the **earliest surviving parity treaty between great powers** — while
+  [[assyria-middle|Middle Assyria]] under [[tukulti-ninurta-i|Tukulti-Ninurta I]]
+  rises behind Mitanni's ruin and [[elam|Middle Elamite Elam]] reaches its zenith.
+- **The collapse (CAH II.2)** — c. 1200 the system shatters in the
+  **[[bronze-age-collapse-1200bce|Bronze Age Collapse]]**: the [[hittites|Hittite
+  Empire]] falls, [[ugarit|Ugarit]] and the [[mycenaean-civilization|Mycenaean
+  palaces]] are destroyed, the [[sea-peoples|Sea Peoples]] are repelled by
+  [[ramesses-iii|Ramesses III]] and settle the coast as the
+  [[philistines|Philistines]], and the [[early-iron-age|Iron Age]] world of small
+  kingdoms begins.
 - **The highland Iron-Age threshold** — the
   [[persian-plateau-second-millennium|Persian-plateau]] grey-ware and painted-ware
   cultures run to ~1350–1150, when new (probably Iranian-speaking) movements open the
@@ -94,11 +115,13 @@ gold, ivory, textiles and Aegean goods.
 
 Opens out of the [[middle-bronze-age|Middle Bronze Age]] across the ~1600–1550
 horizon (the Hittite destruction of Aleppo and Babylon, the Kassite and Mitannian
-consolidations, the Hyksos expulsion). It closes in the **~1200 BCE Bronze Age
-Collapse** — the wave of destructions (the Sea Peoples; the fall of Hatti, Ugarit and
-the Mycenaean palaces) that ends the great-powers system and opens the
-[[early-iron-age|Early Iron Age]]. (Both the Amarna-age climax and the collapse fall
-**beyond this volume**, in the missing CAH II.2–IV.)
+consolidations, the Hyksos expulsion). It closes in the
+**[[bronze-age-collapse-1200bce|~1200 BCE Bronze Age Collapse]]** — the wave of
+destructions (the [[sea-peoples|Sea Peoples]]; the fall of [[hittites|Hatti]],
+[[ugarit|Ugarit]] and the [[mycenaean-civilization|Mycenaean palaces]]) that ends
+the great-powers system and opens the [[early-iron-age|Early Iron Age]]. Both the
+Amarna-age climax and the collapse are now covered by
+[[edwards-cah-v2p2-1975|CAH Vol. II.2]].
 
 ## Historiography
 
@@ -121,16 +144,20 @@ Iranian grey-ware cultures.
 
 ## Collection Coverage Note
 
-The collection now covers the **opening of the Late Bronze Age strongly** through
-**[[edwards-cah-v2p1-1973|CAH Vol. II.1]]** (to c. 1380 BCE) — Egypt to Amenhotep III,
-the rise of Hatti and Mitanni, the Canaanite city-states, and the Minoan-zenith /
-Mycenaean-rise Aegean. But the **climax of the period is a gap**: the **Amarna
-international system proper, the Hittite Empire of Šuppiluliuma, the Kassite and
-Assyrian heyday, and the ~1200 collapse** all belong to the **still-missing CAH Vols.
-II.2 (c. 1380–1000) through IV** — II.2 has been sourced and converted and awaits
-ingestion; III.1–III.2 remain unsourced. Coverage is therefore **moderate**, strong
-at the start and thin toward the end. See [[../Outstanding Sources|Outstanding
-Sources]].
+The collection now covers the Late Bronze Age **strongly across its whole span**
+through two Cambridge volumes: **[[edwards-cah-v2p1-1973|CAH Vol. II.1]]** (to c.
+1380 BCE) — Egypt to Amenhotep III, the rise of Hatti and Mitanni, the Canaanite
+city-states, and the Minoan-zenith / Mycenaean-rise Aegean — and
+**[[edwards-cah-v2p2-1975|CAH Vol. II.2]]** (c. 1380–1000 BCE) — the
+[[amarna-letters|Amarna]] international system, the Hittite Empire of
+[[shuppiluliuma-i|Šuppiluliuma]], the Egyptian–Hittite wars
+([[battle-of-qadesh-1274bce|Qadesh]], the [[egyptian-hittite-treaty-1259bce|parity
+treaty]]), the [[assyria-middle|Middle Assyrian]] and [[elam|Middle Elamite]] heyday,
+and the [[bronze-age-collapse-1200bce|~1200 collapse]]. The chief remaining caveat is
+that II.2 uses an older "high" chronology and a dated (1960s) treatment of the
+biblical material; and the **subsequent volumes (CAH III.1–III.2, the early Iron Age
+proper) remain unsourced**. Coverage of this period is therefore now **strong**. See
+[[../Outstanding Sources|Outstanding Sources]].
 
 ## Related
 
@@ -139,5 +166,7 @@ Sources]].
 - Process: [[minoan-civilization]] · [[mycenaean-civilization]] · [[canaanite-civilization]] · [[persian-plateau-second-millennium]]
 - People: [[ahmose-i]] · [[hatshepsut]] · [[thutmose-iii]] · [[amenhotep-iii]] · [[mursili-i]]
 - Places: [[knossos]] · [[mycenae]] · [[ugarit]] · [[alalakh]] · [[hattusha]] · [[thebes]] · [[cyprus]] · [[troy]]
-- Events: [[fall-of-babylon-1595bce]] · [[telipinu-edict-1500bce]] · Concept: [[interpolity-law]] · [[aegean-scripts]] · [[mesopotamian-chronology]]
-- Controversy: [[fall-of-knossos]] · Source: [[edwards-cah-v2p1-1973]]
+- Events: [[fall-of-babylon-1595bce]] · [[telipinu-edict-1500bce]] · [[zannanza-affair-1322bce]] · [[battle-of-qadesh-1274bce]] · [[egyptian-hittite-treaty-1259bce]] · [[bronze-age-collapse-1200bce]] · [[trojan-war-1250bce]]
+- II.2 actors: [[shuppiluliuma-i]] · [[ramesses-ii]] · [[merneptah]] · [[ramesses-iii]] · [[tukulti-ninurta-i]] · [[sea-peoples]] · [[philistines]]
+- Concept: [[interpolity-law]] · [[aegean-scripts]] · [[amarna-letters]] · [[mesopotamian-chronology]]
+- Controversy: [[fall-of-knossos]] · [[ahhiyawa-question]] · Source: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]

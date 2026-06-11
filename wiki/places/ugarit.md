@@ -77,12 +77,12 @@ with unbaked tablets** — letters never filed. They record famine, the king's f
 away "in the Lukka lands" and his troops "in the land of the Hittites," and a
 desperate plea from [[shuppiluliuma-i|Šuppiluliuma II]] for ships and grain — and
 ʿAmmurapi's reply that "the enemy has plundered my coasts." This is the approach of
-the **[[unknown|Sea Peoples]]**, whose path through Qode, Hatti, Carchemish, Alašiya
+the **[[sea-peoples|Sea Peoples]]**, whose path through Qode, Hatti, Carchemish, Alašiya
 and Amurru Ramesses III records at Medinet Habu. The city was burned and **never
 rebuilt**: "the alphabetic script of Ugarit was forgotten... Ugarit's history was
 ended" (~1185 BCE). The excavator Schaeffer additionally suspected a final
 earthquake; the precise mechanism is debated, but the destruction belongs squarely
-to the **[[unknown|Bronze Age Collapse]]**.
+to the **[[bronze-age-collapse-1200bce|Bronze Age Collapse]]**.
 
 ## Why this place mattered
 
@@ -98,5 +98,5 @@ the type-site of the **Bronze Age Collapse**.
 
 - Process: [[canaanite-civilization]] · [[ugaritic-religion]] · [[trade-network-formation]] · People: [[hurrians]] · [[amorites]]
 - Place: [[alalakh]] · [[byblos]] · [[cyprus]] · In the orbit of: [[mitanni]] → vassal of [[hittites]] ([[shuppiluliuma-i]], [[mursili-ii]])
-- End: [[unknown|Sea Peoples]] · [[unknown|Bronze Age Collapse]]
+- End: [[sea-peoples|Sea Peoples]] · [[bronze-age-collapse-1200bce|Bronze Age Collapse]]
 - Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]

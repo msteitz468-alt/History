@@ -61,7 +61,7 @@ Urḫi-Teshub, which a great-power peace helped secure.
 - the peace **held for the rest of the Bronze Age** — "Khatti is at peace,"
   [[merneptah|Merneptah's]] Israel Stela could still say, and Egypt even shipped
   grain to relieve a Hittite famine. It lapsed only when Hatti itself fell in the
-  [[unknown|Bronze Age Collapse]].
+  [[bronze-age-collapse-1200bce|Bronze Age Collapse]].
 
 ## Significance
 

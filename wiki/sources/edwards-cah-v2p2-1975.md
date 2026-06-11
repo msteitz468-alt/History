@@ -21,8 +21,8 @@ reliability_notes: >
   The text is an Internet Archive OCR conversion of the EPUB; proper names carry
   OCR noise (e.g. "Shuppiluliumash", "Muwatallish", "Khattushilish", "Tushratta",
   "Cnossus" = Knossos, "Merneptah", "Ramesses").
-pages_created: 24
-pages_updated: 14
+pages_created: 30
+pages_updated: 18
 ingested: 2026-06-11
 tags: [source]
 ---
@@ -39,7 +39,7 @@ II.1 carried the eastern Mediterranean to the threshold of the
 collapse, and aftermath** of that world: the Amarna international system at its
 height, the Egyptian–Hittite struggle for Syria and its resolution in the first
 recorded international peace treaty, the rise of Assyria, the **~1200 BCE
-[[unknown|Bronze Age Collapse]]** and the **[[unknown|Sea Peoples]]**, the fall of
+[[bronze-age-collapse-1200bce|Bronze Age Collapse]]** and the **[[sea-peoples|Sea Peoples]]**, the fall of
 the Hittite and Mycenaean worlds, and the early [[early-iron-age|Iron Age]] order
 that emerged from the wreckage — the Phoenician cities, the Philistines, the
 **Hebrew kingdom** of Saul, David and Solomon, the Aramaean and Neo-Hittite states,
@@ -121,6 +121,26 @@ Created: `events/battle-of-qadesh-1274bce.md`, `events/egyptian-hittite-treaty-1
 (Adad-nirari I → Tukulti-Ninurta I), `actors/mursili-ii.md`, `actors/shuppiluliuma-i.md`,
 `actors/hittites.md` (resolved the `[[unknown|Muwatalli II]]` and `[[unknown|battle of
 Qadesh]]` forward-links; fixed a stale self-reference).
+
+## 2026-06-11 section | CAH Vol. II.2 | Section 4: The Collapse — Sea Peoples, the Aegean recession, Exodus, Elam & Phrygia (Ch. XXVI–XXX) | Pages created: 6 | Pages updated: 4
+
+Created: `events/bronze-age-collapse-1200bce.md` (the standing transition page;
+resolves `[[unknown|Bronze Age Collapse]]`), `actors/sea-peoples.md` (resolves
+`[[unknown|Sea Peoples]]`; the constituent peoples and the Merneptah/Ramesses III
+assaults), `actors/philistines.md` (Peleset settlement and the pentapolis),
+`actors/phrygians.md` (post-Hittite Anatolia, the Mushki question, Neo-Hittite states
+and Urartu), `events/trojan-war-1250bce.md` (historicity via Troy VIIa, the Catalogue
+of Ships and Aḫḫiyawa), `controversies/the-exodus.md` (JEDP source-criticism; early
+vs. late date; the non-historical/indigenous-emergence position). Updated:
+`processes/mycenaean-civilization.md` (the Ch. XXVII recession — palace destructions,
+depopulation, the Dorian/Ionian traditions), `actors/elam.md` (the Middle Elamite
+zenith — Untash-Napirisha and the Chogha Zanbil ziggurat, the Shutrukid sack of
+Babylon carrying the Hammurabi and Naram-Sin steles to Susa), `periods/late-bronze-age.md`
+(upgraded to `strong` coverage; wired the Amarna→Qadesh→collapse arc; resolved the
+collapse forward-link), and sed-resolved the `[[unknown|Sea Peoples]]` /
+`[[unknown|Bronze Age Collapse]]` forward-links across `ugarit`, `cyprus`, `troy`,
+`ramesses-iii`, `merneptah`, `assyria-middle`, `canaanite-civilization`, and
+`egyptian-hittite-treaty-1259bce`.
 
 <!-- Section logs appended below as each cycle completes. -->
 

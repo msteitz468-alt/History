@@ -60,7 +60,7 @@ best-documented Late Bronze states. Its character is harsh and bureaucratic:
 The Middle Assyrian kingdom is where **Assyria becomes Assyria**: a militarized,
 expansionist territorial state with a documented law-code and court, the eastern
 pillar of the [[interpolity-law|great-powers system]], and the entity that survives
-the [[unknown|Bronze Age Collapse]] (battered, pushed back by the Aramaeans) to
+the [[bronze-age-collapse-1200bce|Bronze Age Collapse]] (battered, pushed back by the Aramaeans) to
 re-emerge as the first world empire of the Iron Age. See [[neo-assyrian-empire]] for
 the continuation.
 

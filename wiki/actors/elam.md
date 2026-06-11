@@ -2,16 +2,16 @@
 title: Elam (Awan, Simashki, and Susa)
 actor_type: state
 date_start: ~2700 BCE (first attestation, Awan)
-date_end: ~640 BCE (Assyrian destruction; here covered to ~1800 BCE)
-period: [Early Bronze Age, Middle Bronze Age]
+date_end: ~640 BCE (Assyrian destruction; here covered to ~1100 BCE)
+period: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Bronze Age Collapse]
 region: [iran-plateau, near-east]
 affiliated_with: []
-opposed_by: [[[akkadian-empire]], [[third-dynasty-of-ur]], Mesopotamia generally]
-key_events: [[[fall-of-ur-2004bce|the Elamite sack of Ur]], defeat by [[hammurabi|Hammurabi]] (~1764 BCE), Kutir-Nahhunte I's sack of Akkad (~1730 BCE)]
+opposed_by: [[[akkadian-empire]], [[third-dynasty-of-ur]], [[kassites|Kassite Babylon]], Mesopotamia generally]
+key_events: [[[fall-of-ur-2004bce|the Elamite sack of Ur]], defeat by [[hammurabi|Hammurabi]] (~1764 BCE), Kutir-Nahhunte I's sack of Akkad (~1730 BCE), the building of [[unknown|Dur-Untash (Chogha Zanbil)]], the Shutrukid sack of Babylon (~1158 BCE)]
 key_processes: [[[state-formation]], [[trade-network-formation]], [[writing-and-record-keeping]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
-tags: [actor, state, early-bronze-age, middle-bronze-age, iran-plateau]
+tags: [actor, state, early-bronze-age, middle-bronze-age, late-bronze-age, iran-plateau]
 ---
 
 # Elam (Awan, Simashki, and Susa)
@@ -99,6 +99,44 @@ force there), confirming that Babylonia, "on the whole, kept the upper hand." Af
 ~1595 a "**Kassite darkness**" descends; the dynasty fades by ~1520, and Elam
 re-emerges only with the "classical" Middle Elamite period ~1300.
 
+## The Middle Elamite "classical" period, c. 1400–1100 BCE
+
+After the "Kassite darkness," Elam re-emerges in full splendour in the
+**Middle Elamite** period — its political and artistic zenith — under two
+successive dynasties (the **Kidinuid** and especially the **Igihalkid**), covered
+in CAH II.2 (chapter XXIX, Hinz). Two threads dominate:
+
+- **Untash-Napirisha and Dur-Untash (Chogha Zanbil).** The greatest Igihalkid
+  king, **Untash-Napirisha** (c. 1340–1300 BCE), founded a new royal and religious
+  city, **Dur-Untash** ("fortress of Untash"; modern **Chogha Zanbil**), midway
+  between Susa and Anshan. Its centrepiece is the best-preserved **ziggurat** in
+  the Near East — a high temple dedicated jointly to In-Shushinak of Susa and
+  **Napirisha** (the great highland god) — surrounded by temples to a wide pantheon
+  including the goddess **Kiririsha**. The complex is the supreme monument of
+  Elamite religion and architecture and a deliberate statement of the union of
+  lowland and highland cults under one kingship. (Untash-Napirisha was once read
+  as "Untash-Gal/Untash-Huban"; the reading reflects the imperfect grasp of
+  Elamite noted below.)
+- **The Shutrukid resurgence and the sack of Babylon.** In the later 12th century
+  the **Shutrukid** kings made Elam briefly the dominant power of the Near East at
+  the expense of the failing [[kassites|Kassite dynasty of Babylon]].
+  **Shutruk-Nahhunte I** (c. 1185–1155 BCE) invaded Babylonia, and his son
+  **Kutir-Nahhunte** finally **extinguished Kassite rule (~1158 BCE)**, carrying off
+  to [[susa|Susa]] as trophies the most famous monuments of Mesopotamian history —
+  the **stele of [[naram-sin|Naram-Sin]]** and the **law-stele of
+  [[hammurabi|Hammurabi]]**, which is why both were excavated at Susa rather than in
+  Babylonia. His successor **Shilhak-Inshushinak** campaigned widely and left
+  extensive building inscriptions. This Elamite high point collapsed within a
+  generation when **Nebuchadnezzar I of Babylon** counter-invaded and defeated Elam
+  (c. 1110 BCE), after which Elam again falls into a long obscurity.
+
+This Middle Elamite material sits at the end of the [[late-bronze-age|Late Bronze
+Age]] and into the [[bronze-age-collapse-1200bce|collapse]] era — but note that
+Elam, like [[assyria-middle|Assyria]] and unlike the Mediterranean powers,
+*survived and even prospered* through the upheavals that destroyed the Hittites
+and the Aegean palaces; the collapse was a Mediterranean and Anatolian phenomenon
+more than a Mesopotamian–Iranian one.
+
 ## Religion and language
 
 Elam had a distinctive pantheon headed by the mother-goddess **Pinikir**, the great
@@ -134,4 +172,5 @@ records of their wars and treaties. See [[cambridge-ancient-history-methodology]
 - MBA rival/coalition partner against: [[hammurabi]] · later avenged by: [[ashurbanipal]]
 - Process: [[trade-network-formation]] · [[writing-and-record-keeping]] · Period: [[early-bronze-age]] · [[middle-bronze-age]]
 - Region: [[iran-plateau]] · Concept: [[sumerian-king-list]] · [[interpolity-law]]
-- Source: [[edwards-cah-v2p1-1973]] (Ch. VII) · [[edwards-cah-v1p2-1971]] (Ch. XXIII)
+- Middle Elamite rival: [[kassites|Kassite Babylon]] · contemporary survivor: [[assyria-middle]] · context: [[bronze-age-collapse-1200bce]]
+- Source: [[edwards-cah-v2p2-1975]] (Ch. XXIX) · [[edwards-cah-v2p1-1973]] (Ch. VII) · [[edwards-cah-v1p2-1971]] (Ch. XXIII)
