@@ -8,7 +8,7 @@ origin: >
 applies_to_periods: [Archaic Period, Classical Antiquity]
 applies_to_regions: [mediterranean, peloponnese, aegean]
 contested: yes
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -75,6 +75,32 @@ desperate courage," were no match for the disciplined, bronze-clad line. The war
 displayed both the **superiority of the heavy infantryman in his element** and the **structural
 vulnerability** that Greek commanders had to manage by choice of ground.
 
+## The fourth-century tactical revolution (CAH VI)
+
+[[lewis-cah-v6-1994|CAH Vol. VI]] (Chs. 4, 6, Seager) records the narrative episodes in
+which the symmetrical citizen phalanx began to be **outmanoeuvred** — the prelude to its
+eventual eclipse by the Macedonian system:
+
+- **Light infantry: Lechaeum (390).** During the [[corinthian-war-395bce|Corinthian War]]
+  the Athenian general **Iphicrates** used mobile, light-armed **peltasts** (javelin-men)
+  to cut to pieces a Spartan *mora* of hoplites in the Corinthia — a famous demonstration
+  that the heavy phalanx could be defeated by missile troops it could not catch, and a
+  spur to the growing professionalization of fourth-century armies (mercenaries, the
+  Persian use of Greek infantry; see [[achaemenid-satrapy]]).
+- **The oblique order and the deep column: Leuctra (371) and Mantinea (362).**
+  **[[epaminondas]]** overturned the convention of the strong right wing by massing his
+  Theban left **fifty shields deep** against the enemy's best troops and advancing
+  **obliquely**, holding the rest of his line back, so as to "crush the serpent's head."
+  This concentration of force at the decisive point broke the Spartan line at
+  **[[battle-of-leuctra-371bce|Leuctra]]** (the Sacred Band of [[pelopidas]] striking home
+  before the Spartans could deploy) and again at **[[battle-of-mantinea-362bce|
+  Mantinea]]**. The innovation was studied by **Philip of Macedon** — a hostage at Thebes
+  in these very years — and is the direct ancestor of the Macedonian oblique battle line.
+
+These developments mark the beginning of the end of the **amateur citizen hoplite** as
+the arbiter of Greek battle (see also the warfare chapter treated under
+[[greek-warfare]]).
+
 ## Historiography
 
 The link between the hoplite phalanx and political change — the "hoplite revolution"
@@ -92,5 +118,6 @@ thrown-away shield).
 - Practitioners: [[sparta]] · [[argos]] (Hysiae) · the [[magna-graecia|western Greeks]] · frame: [[city-state]]
 - Social context: [[archaic-greek-economy]] (the propertied "top layer") · [[greek-tyranny]]
 - Against Persia: [[battle-of-marathon-490bce]] · [[battle-of-thermopylae-480bce]] · [[battle-of-plataea-479bce]]
+- Fourth-century tactics: Iphicrates' peltasts ([[corinthian-war-395bce]]) · [[epaminondas]]'s oblique order ([[battle-of-leuctra-371bce]], [[battle-of-mantinea-362bce]])
 - Material: [[archaic-greek-material-culture]] · Period: [[archaic-period]] · [[classical-antiquity]]
-- Sources: [[boardman-cah-v3p3-1982]] (Chs. 42 & 45b, Hammond & Boardman) · [[boardman-cah-v4-1988]] (Chs. 9–11, the Persian Wars)
+- Sources: [[boardman-cah-v3p3-1982]] (Chs. 42 & 45b, Hammond & Boardman) · [[boardman-cah-v4-1988]] (Chs. 9–11, the Persian Wars) · [[lewis-cah-v6-1994|CAH VI]] (Chs. 4, 6, Seager)
