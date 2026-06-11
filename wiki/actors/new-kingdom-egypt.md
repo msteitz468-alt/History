@@ -84,6 +84,33 @@ the throne to **[[unknown|Ramesses I]]** — founding the [[unknown|Nineteenth
 Dynasty]] (Section 3). The later king-lists wrote the Amarna kings out of history
 entirely.
 
+## The Ramesside twilight and the end of the New Kingdom (CAH II.2, Ch. XXXV)
+
+Chapter XXXV (Černý) carries Egypt from the death of [[ramesses-iii|Ramesses III]] to
+the end of the Twenty-first Dynasty — the long unravelling of the empire after the
+[[bronze-age-collapse-1200bce|Bronze Age Collapse]] had been survived but not
+reversed. The **last Ramessides (Ramesses IV–XI)** presided over steady decline:
+lost Asiatic empire, a shrinking economy, and the growing autonomy of the
+**[[amun-priesthood|High Priests of Amun]]** at Thebes. The symptoms are vivid in the
+documentary record — the **first recorded labour strikes** by the royal-tomb workmen
+of Deir el-Medina (unpaid grain rations under Ramesses III/IV), and the great
+**tomb-robbery trials** under Ramesses IX–XI, when the very royal tombs of the Valley
+were being plundered with official collusion.
+
+Under **Ramesses XI** real power split: the general **Herihor** combined the offices
+of **High Priest of Amun**, vizier, and army commander to rule the south as a
+**Theban theocracy**, while **Smendes** held the north from **Tanis** in the Delta — a
+period the Egyptians themselves styled the *wehem-mesut*, the "**Renaissance**" or
+repetition of births. At Ramesses XI's death this division was formalised as the
+**Twenty-first Dynasty**: the Tanite kings (Smendes and successors) in the north and
+the **High Priests of Amun (Herihor, Pinudjem and their line)** in the south, ruling
+in Amun's name. This is the start of the **Third Intermediate Period**.
+
+The eclipse of Egyptian prestige abroad is famously captured in the **Wenamun report**
+(c. 1075 BCE): the Theban envoy sent to [[phoenicians|Byblos]] for cedar is kept
+waiting, lectured, and humiliated by King Zakarbaal, who reminds him that Egypt no
+longer commands Asia — the New Kingdom empire reduced to a memory.
+
 ## Significance
 
 The New Kingdom is the moment Egypt becomes a **Late Bronze great power**, an equal
@@ -110,5 +137,6 @@ edited. See [[cambridge-ancient-history-methodology]].
 - Kings: [[hatshepsut]] · [[thutmose-iii]] · [[amenhotep-iii]] · [[akhenaten]] · [[tutankhamun]] · [[horemheb]] · Institution: [[amun-priesthood]]
 - Amarna age: [[atenism]] · [[amarna]] · [[amarna-letters]] · [[nefertiti]] · [[zannanza-affair-1322bce]]
 - Place: [[thebes]] · [[avaris]] · [[memphis]] · LBA peers: [[mitanni]] · [[hittites]] · [[kassites]] · [[assyria-middle]]
-- Process: [[imperialism]] · [[interpolity-law]] · Period: [[late-bronze-age]]
+- Ramesside twilight: [[ramesses-iii]] · [[amun-priesthood|High Priests of Amun]] (Herihor, Pinudjem) · Tanis · [[phoenicians|Byblos]] (Wenamun) · [[bronze-age-collapse-1200bce]]
+- Process: [[imperialism]] · [[interpolity-law]] · Period: [[late-bronze-age]] → [[early-iron-age]]
 - Preceded by: [[middle-kingdom-egypt]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]

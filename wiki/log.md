@@ -11,6 +11,22 @@ Format:
 
 ---
 
+## 2026-06-11 section | CAH Vol. II, Part 2 (1975) | Section 5: The Iron-Age Near East — Assyria/Babylon, Elam, Syria/Philistia/Phoenicia, the Hebrew Kingdom & late-Ramesside Egypt (Ch. XXXI–XXXV) | Early Iron Age | mesopotamia, near-east, levant, iran-plateau, north-africa | Pages created: 7 | Pages updated: 5
+
+Section 5 carries the Near East from the Bronze Age Collapse into the early Iron Age.
+Mesopotamia: the Elamite Shutrukids end Kassite Babylon; the native Second Dynasty of
+Isin revives under Nebuchadnezzar I (defeat of Elam, recovery of Marduk's statue, the
+god's rise to supremacy); Assyria recovers briefly under Tiglath-pileser I (the Mushki,
+the Nairi, the march to the Mediterranean, the first naming of the Aramaeans) before
+the Aramaean tide overwhelms both powers. Levant: the Aramaeans found their Syrian
+kingdoms; Albright's Canaanite revival in Phoenicia (Tyre/Sidon, Wenamun, the Hiram
+alliance, western colonization); and Eissfeldt's source-critical Hebrew Kingdom of
+Saul, David and Solomon. Egypt: the late-Ramesside collapse into the High-Priests-of-
+Amun / 21st-Dynasty division. Created: nebuchadnezzar-i, second-isin-dynasty,
+tiglath-pileser-i, arameans, hebrew-kingdom, david, solomon. Updated: phoenicians,
+assyria-middle, new-kingdom-egypt, elam, periods/early-iron-age. Albright's
+idiosyncratic high chronology flagged on the Phoenician/Aramaean pages.
+
 ## 2026-06-11 section | CAH Vol. II, Part 2 (1975) | Section 4: The Collapse — Sea Peoples, the Aegean recession, Exodus, Elam & Phrygia (Ch. XXVI–XXX) | Late Bronze Age, Bronze Age Collapse, Early Iron Age | mediterranean, levant, anatolia, aegean, iran-plateau | Pages created: 6 | Pages updated: 4
 
 Section 4 is the climax of the volume: the disintegration of the Late Bronze Age

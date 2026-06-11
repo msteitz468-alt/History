@@ -39,6 +39,27 @@ king Kaštiliaš IV and **sacked Babylon itself** — celebrated in the chauvini
 **Tukulti-Ninurta Epic** — and with the Early-Iron-Age
 revival under **Tiglath-pileser I** (Section 5).
 
+## The Early Iron Age: collapse, revival, and decline (CAH II.2, Ch. XXXI)
+
+After [[tukulti-ninurta-i|Tukulti-Ninurta I]]'s murder by his own son, Assyria fell
+into a long bout of **dynastic chaos** — a rapid succession of his sons and rivals
+(Ashur-nadin-apli, Ashur-nirari III, Enlil-kudurri-usur, Ninurta-apil-Ekur), several
+installed or sheltered by Babylon, with the throne changing hands by assassination
+and exile. Recovery began with **Ashur-dan I** (a 46-year reign) and his grandson
+**Ashur-resha-ishi I** (1133–1116 BCE), "avenger of Assyria," who fortified the
+northern frontier against the **[[phrygians|Mushki]]** and repulsed the Babylonian
+[[nebuchadnezzar-i|Nebuchadnezzar I]] at the border.
+
+The Iron Age apex came with **[[tiglath-pileser-i|Tiglath-pileser I]]** (1115–1077
+BCE), whose detailed annals record campaigns against the Mushki, the Nairi of Lake
+Van, and the [[arameans|Aramaeans]], a march to the **Mediterranean** (gifts from
+Byblos and Sidon, a crocodile from Egypt), and the sacking of Babylon's palaces. But
+his conquests were **not consolidated** — tribute imposed, not collected; no
+provincial system yet — and after him the relentless **[[arameans|Aramaean]]**
+migration, famine, and lost trade drove Assyria into nearly two centuries of its
+weakest, darkest condition, from which it would re-emerge only as the
+[[neo-assyrian-empire|Neo-Assyrian empire]].
+
 ## Institutions
 
 The volume's society chapters make the Middle Assyrian kingdom one of the wiki's
@@ -74,6 +95,6 @@ problem. See [[cambridge-ancient-history-methodology]].
 
 ## Related
 
-- Founder: [[ashur-uballit-i]] · later [[neo-assyrian-empire]]
-- Rivals: [[kassites]] · [[mitanni]] (annexed) · Concept: [[interpolity-law]]
-- Period: [[late-bronze-age]] → [[early-iron-age]] · Source: [[edwards-cah-v2p2-1975]]
+- Founder: [[ashur-uballit-i]] · apex [[tukulti-ninurta-i]] · Iron Age apex [[tiglath-pileser-i]] · later [[neo-assyrian-empire]]
+- Rivals: [[kassites]] · [[second-isin-dynasty]] ([[nebuchadnezzar-i]]) · [[mitanni]] (annexed) · [[arameans]] (the undoing) · [[phrygians|Mushki]]
+- Concept: [[interpolity-law]] · Period: [[late-bronze-age]] → [[early-iron-age]] · Source: [[edwards-cah-v2p2-1975]]

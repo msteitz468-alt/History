@@ -127,8 +127,9 @@ in CAH II.2 (chapter XXIX, Hinz). Two threads dominate:
   [[hammurabi|Hammurabi]]**, which is why both were excavated at Susa rather than in
   Babylonia. His successor **Shilhak-Inshushinak** campaigned widely and left
   extensive building inscriptions. This Elamite high point collapsed within a
-  generation when **Nebuchadnezzar I of Babylon** counter-invaded and defeated Elam
-  (c. 1110 BCE), after which Elam again falls into a long obscurity.
+  generation when the last great Middle Elamite king **Khutelutush-In-Shushinak** was
+  defeated near Susa by **[[nebuchadnezzar-i|Nebuchadnezzar I of Babylon]]** (c. 1110
+  BCE), after which Elam again falls into a long obscurity (CAH II.2 Ch. XXXII, Labat).
 
 This Middle Elamite material sits at the end of the [[late-bronze-age|Late Bronze
 Age]] and into the [[bronze-age-collapse-1200bce|collapse]] era — but note that

@@ -21,8 +21,8 @@ reliability_notes: >
   The text is an Internet Archive OCR conversion of the EPUB; proper names carry
   OCR noise (e.g. "Shuppiluliumash", "Muwatallish", "Khattushilish", "Tushratta",
   "Cnossus" = Knossos, "Merneptah", "Ramesses").
-pages_created: 30
-pages_updated: 18
+pages_created: 37
+pages_updated: 23
 ingested: 2026-06-11
 tags: [source]
 ---
@@ -141,6 +141,27 @@ collapse forward-link), and sed-resolved the `[[unknown|Sea Peoples]]` /
 `[[unknown|Bronze Age Collapse]]` forward-links across `ugarit`, `cyprus`, `troy`,
 `ramesses-iii`, `merneptah`, `assyria-middle`, `canaanite-civilization`, and
 `egyptian-hittite-treaty-1259bce`.
+
+## 2026-06-11 section | CAH Vol. II.2 | Section 5: The Iron-Age Near East — Assyria/Babylon, Elam, Syria/Philistia/Phoenicia, the Hebrew Kingdom & late-Ramesside Egypt (Ch. XXXI–XXXV) | Pages created: 7 | Pages updated: 5
+
+Created: `actors/nebuchadnezzar-i.md` (Nebuchadrezzar I of the Second Isin Dynasty —
+the defeat of Elam, recovery of the Marduk statue; distinguished from Nebuchadnezzar
+II), `actors/second-isin-dynasty.md` (the post-Kassite Babylonian revival),
+`actors/tiglath-pileser-i.md` (the Middle Assyrian Iron-Age apex — Mushki, Nairi, the
+march to the Mediterranean, the first naming of the Aramaeans; distinguished from
+Tiglath-pileser III), `actors/arameans.md` (the Aramaean emergence and the spread of
+Aramaic), `actors/hebrew-kingdom.md` (Eissfeldt's source-critical Saul/David/Solomon
+and the settlement/Judges background), `actors/david.md` (capture of Jerusalem, the
+conquests, the Aramaean wars), `actors/solomon.md` (the Temple, chariotry, the
+twelve districts, the Ophir trade, the division). Updated: `actors/phoenicians.md`
+(added the CAH II.2 "Canaanite revival" origin — Tyre/Sidon, Wenamun, the Hiram
+alliance, western colonization; now 2 sources), `actors/assyria-middle.md` (Early
+Iron Age section: dynastic chaos → Ashur-resha-ishi → Tiglath-pileser I → Aramaean
+decline), `actors/new-kingdom-egypt.md` (the Ramesside twilight — tomb-robberies,
+the Deir el-Medina strikes, Herihor and the High Priests of Amun, the 21st Dynasty
+division, Wenamun), `actors/elam.md` (Khutelutush-In-Shushinak's defeat by
+Nebuchadnezzar I; Ch. XXXII link), and `periods/early-iron-age.md` (wired the whole
+Iron-Age-Near-East arc and resolved its `[[bronze-age-collapse]]` forward-links).
 
 <!-- Section logs appended below as each cycle completes. -->
 
