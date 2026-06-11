@@ -1,0 +1,129 @@
+---
+title: Coinage and Monetization (The Ancient Economy)
+concept_type: economic
+origin: monetization as a path-dependent process; coinage invented independently in Lydia (c. 600 BCE), India, and China (4th c. BCE)
+applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
+applies_to_regions: [near-east, mediterranean, iran-plateau, south-asia, china, central-asia]
+contested: yes
+sources_ingested: 1
+last_updated: 2026-06-10
+tags: [concept]
+---
+
+# Coinage and Monetization (The Ancient Economy)
+
+## Definition and Scope
+
+This page covers the monetary and economic structure of the Afro-Eurasian world
+1200 BCE–900 CE as analyzed in [[benjamin-cwh-v4-2015|CWH IV]]'s global economic
+history chapter (Sitta von Reden, Ch 2). **Monetization** — the spread of money as
+a medium of exchange, store of value, and unit of account — is treated as a
+**path-dependent process**, and **coinage** as one (not the only) monetary
+technology, invented independently in three traditions. It is the economic
+substrate of [[trade-network-formation]], [[state-formation]], and [[empire]].
+
+## The Ancient Economy: A Structural Sketch
+
+Von Reden's framing corrects two errors. Against **world-systems / globalization**
+readings, she insists pre-modern long-distance trade was a "thin veneer" serving
+the demand of "very small, if highly visible, social groups" — never a world market
+reorganizing local production. Against **linear-progress** narratives, she stresses
+deeply **hybrid economies** in which tenancy/share-cropping, peasant freeholding,
+and slave labor coexisted and combined. The world was overwhelmingly agrarian (up
+to ~80% in farming), most of whose surplus was extracted as **rent, tax, or
+tribute** for elite consumption, military campaigns, and social distinction. Aggregate
+growth was real but glacial — perhaps up to ~0.1% per year — and radically unequal.
+
+**All ancient empires rested on three pillars: military power, self-representation,
+and taxation.** Stable empires fostered agriculture indirectly (peace, infrastructure,
+settlement) and directly (canal and irrigation works — Han flood-control, Chaldean
+Sippar, the Ptolemaic Fayyum, Roman centuriation and drainage). The comparative
+contrast that organizes the chapter is **[[han-dynasty|Han]] China vs. [[roman-empire|Rome]]**:
+institutional landownership, strong state, and bureaucracy in China; extensive
+private property, weaker central government, and decentralized administration at
+Rome — yet both converged on land concentration and market-oriented production at
+their economic height (the Roman *villa* / *latifundia* system; the great Later Han
+landholding families). This is Walter Scheidel's "Great Convergence to Great
+Divergence" comparison.
+
+## Monetization Before Coinage
+
+Limited-purpose money long predates coinage and explains monetization's
+path-dependence: **cowries** dominated a Far Eastern aristocratic exchange network
+(China–Pacific–India); **precious-metal bullion** served Western Eurasia and Egypt;
+and many things functioned as currency — grain, silk and textiles, jade discs,
+bronze bars, metalware, pearls, glass. The first centralized control over fixed
+monetary units appears in third-millennium Mesopotamia and Egypt. Precious metal
+won out long-term for its durability, portability, divisibility, and cross-border
+stability.
+
+## Three Independent Coinage Traditions
+
+Coinage was invented **three times, independently**, refuting the old assumption
+that India learned it from Alexander:
+1. **Lydian/Greek** (oldest, best-documented): first struck c. 600 BCE in
+   Greco-Lydian cities of Asia Minor in *electrum*; spread as **civic silver** across
+   the Aegean and Greek colonies. **Athenian "owls"** became an international
+   currency in the 5th–4th c. BCE (the Athenian empire and fleet), imitated from
+   Egypt to Arabia. Carthage, Rome, and the Celts all adopted coinage *via* Greek
+   contact. This tradition strongly shaped later [[greco-bactrian-kingdom|Greco-Bactrian]],
+   [[kushan-empire|Kushan]], and [[parthian-empire|Parthian]] coinage.
+2. **Indian**: punch-marked silver pieces cut to weight, originating in the
+   Indo-Gangetic plain in the **6th c. BCE — before** Greek contact; later associated
+   with the Nanda and [[mauryan-empire|Mauryan]] unifications.
+3. **Chinese**: **base-metal** (bronze) cast coins with a central hole and an
+   inscription of value/authority, from the 4th c. BCE; gold remained largely
+   uncoined within a bimetallic system; the state notably struggled to control
+   private coining.
+
+Von Reden's key point: state formation was a precondition for coinage, but **imperial
+expansion was not** — governments generally could not enforce a single currency
+across political boundaries; monetary systems consolidated under empire chiefly
+through tribute, military pay, and the prestige of a strong currency. Full
+single-currency consolidation came only with Rome (from the 2nd c. BCE).
+
+## Taxation, Trade, and Cities
+
+**Taxation** was the chief instrument of empire, financially and symbolically.
+Typical regimes mixed capitation, land/harvest taxes, property taxes, and many
+indirect imposts; city-states taxed foreigners and trade rather than citizens.
+Taxation also served **social control** (registration by age, gender, ethnicity,
+citizen status, faith; punitive rates on disfavored groups such as Han merchants;
+convertibility of corvée against cash). Crucially, **cash taxation often *forced*
+commercialization** rather than responding to it — Persian and Han demands for cash
+pushed peasants and institutions into market transactions to obtain coin. Urban
+**markets** thus became nodes converting rents and taxes-in-kind into exportable
+goods and cash, the precondition for the elongated trade lines of [[trade-network-formation]].
+
+## Interregional and "Global" Exchange
+
+Von Reden cautions that **regional networks always vastly exceeded intercontinental
+trade in aggregate value** — the [[silk-roads|Silk Roads]] carried goods of huge
+*per-journey* value dependent on narrow elites, but only a fraction of what
+circulated regionally. Evidence: Strabo's 120 ships/year from Myos Hormos to India;
+the **Muziris papyrus** (a single Egypt–India cargo of ~135 tons of tusks, pearls,
+and spices worth ~7 million drachmas, ≈ 1,765 ha of Italian arable). There was no
+clean line between "free" market trade and politically directed trade, nor between
+"engines" and "passageways" — caravan cities like **Palmyra, Petra, Adulis, and the
+Sogdian city-states** grew wealthy on geo-economic position and became vital to the
+later spread of religions. Von Reden also endorses **Patricia Crone's** argument
+that Meccan trade was local and modest, *not* the engine of Islam's rise — which she
+attributes instead to the familiar conjunction of state-formation and military
+expansion, "now spurred by a religious mission."
+
+## Contested Questions
+
+- **Primitivism vs. modernism / the scale of the ancient economy** — how monetized,
+  integrated, and "growth-capable" it was (von Reden leans toward substantial
+  monetization and integration, against older primitivism, while rejecting
+  anachronistic "globalization").
+- **Great Convergence/Divergence** — why Roman and Qin–Han state-economies developed
+  similarly then diverged (Scheidel).
+- **What share of taxes was collected in cash** vs. kind — unresolved.
+
+## Relation to Other Pages
+
+The monetary and fiscal engine of [[trade-network-formation]] and [[silk-roads]];
+underpins [[empire]] and [[state-formation]]; the [[slavery|slave]] trade was a
+major monetized commerce (Dacian slaves for Roman silver). Compare the urban-market
+analysis with [[urbanization]] and [[city-state]].

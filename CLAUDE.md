@@ -1,0 +1,786 @@
+# CLAUDE.md — World History Wiki
+
+## Overview
+
+This is a persistent, LLM-maintained wiki covering world history from prehistory
+to the present. The source collection (Bibliotheca Alexandrina, ~11,800 PDFs) is
+the raw material. You read sources and build a structured, interlinked knowledge
+base. I direct the analysis. You do all filing, cross-referencing, synthesis,
+and bookkeeping.
+
+Working environment: Obsidian. All wiki files are markdown. Sources live in the
+collection directory. The wiki lives in `wiki/`. Never modify source files.
+
+The ingestion sequence is defined in `Processing List.md`. Follow phase order.
+The gap analysis and sourcing roadmap is in `Outstanding Sources.md`.
+
+---
+
+## Core Design Principles
+
+**History is a network, not a tree.** Every page exists at the intersection of
+what happened, where it happened, and when it happened. Links must preserve all
+three dimensions — topical similarity alone is not enough to justify a link.
+
+**Granularity is fractal.** The same moment can be one line on a period page, a
+full event page, or the anchor of a dozen sub-event pages. Create pages at
+whatever granularity the source material and analytical value warrant. Do not
+force everything to one resolution level.
+
+**Causation is not sequence.** The schema distinguishes temporal succession from
+causal connection from correlation. These are different link types. Conflating
+them is the most common error in historical wikis. Use the link taxonomy below
+precisely.
+
+**Historiography is first-class content.** How we know what we know — the sources,
+their biases, their gaps, the scholarly debates — belongs in the wiki alongside the
+history itself. Every major period page and event page gets a historiography section.
+
+**The collection has a known bias.** The Bibliotheca Alexandrina is exceptionally
+strong for Greco-Roman antiquity, medieval Europe and the Mediterranean, pre-modern
+East Asia (via the Asian Classics series), and ancient Near East. It is weak on
+sub-Saharan Africa, South and Southeast Asia, the post-1750 world, the Americas
+(outside archaeology), and Russia/Eastern Europe. Flag this bias explicitly when
+writing period overview pages for those regions. Do not write confident overviews
+where the source base is thin — write what the sources support and note the gap.
+
+---
+
+## Directory Structure
+
+```
+wiki/
+  index.md              # Master catalog — updated after every ingest session
+  log.md                # Append-only record of all ingests, queries, lint passes
+  overview.md           # Current coverage map and known gap register
+
+  periods/              # Chronological overview pages (one per period in framework)
+  events/               # Discrete bounded occurrences
+  processes/            # Long-duration historical dynamics
+  actors/               # People, states, dynasties, institutions, movements
+  places/               # Geographic and political entities
+  concepts/             # Analytical and historiographical frameworks
+  comparisons/          # Cross-period, cross-civilization comparison pages
+  controversies/        # Disputed interpretations and scholarly debates
+  timelines/            # Standalone chronological reference pages
+  queries/              # Filed answers to significant questions
+  sources/              # One summary page per ingested source
+```
+
+---
+
+## Temporal Framework
+
+Every page is anchored to at least one period from this list. Use the period name
+in all frontmatter `period` fields. For events spanning multiple periods, list all.
+
+| # | Period | Date Range |
+|---|---|---|
+| 1 | Deep Prehistory | before 3.3 million BP |
+| 2 | Early Prehistory | 3.3 million–300,000 BP |
+| 3 | Late Prehistory | 300,000–50,000 BP |
+| 4 | Behavioral Modernity | 50,000–12,000 BP |
+| 5 | Mesolithic | 12,000–9,500 BP |
+| 6 | Neolithic | 9,500–3,000 BCE |
+| 7 | Chalcolithic | 5,500–3,300 BCE |
+| 8 | Early Bronze Age | 3,300–2,100 BCE |
+| 9 | Middle Bronze Age | 2,100–1,550 BCE |
+| 10 | Late Bronze Age | 1,550–1,200 BCE |
+| 11 | Bronze Age Collapse | ~1,200–1,150 BCE |
+| 12 | Early Iron Age | 1,200–800 BCE |
+| 13 | Archaic Period | 800–500 BCE |
+| 14 | Classical Antiquity | 500–31 BCE |
+| 15 | Late Antiquity | 31 BCE–600 CE |
+| 16 | Early Middle Ages | 600–1000 CE |
+| 17 | High Middle Ages | 1000–1300 CE |
+| 18 | Late Middle Ages | 1300–1500 CE |
+| 19 | Early Modern | 1500–1700 CE |
+| 20 | Age of Expansion | 1700–1800 CE |
+| 21 | Long 19th Century | 1800–1914 CE |
+| 22 | World Wars Era | 1914–1945 CE |
+| 23 | Cold War | 1945–1991 CE |
+| 24 | Contemporary | 1991–present |
+
+---
+
+## Regional Framework
+
+Tag all pages with the most specific applicable region. Add parent regions as
+secondary tags.
+
+```
+Africa:
+  north-africa, sub-saharan-africa, east-africa, west-africa,
+  central-africa, southern-africa, horn-of-africa
+
+Americas:
+  north-america, mesoamerica, caribbean, andes, amazonia,
+  southern-cone, eastern-north-america
+
+Asia:
+  near-east, levant, mesopotamia, anatolia, iran-plateau,
+  arabian-peninsula, central-asia, south-asia, southeast-asia,
+  east-asia, china, japan, korea, steppe
+
+Europe:
+  western-europe, northern-europe, eastern-europe, mediterranean,
+  iberia, british-isles, balkans, scandinavia
+
+Oceania:
+  australia, polynesia, melanesia, micronesia
+
+Transregional:
+  silk-road, indian-ocean, atlantic-world, mediterranean-world,
+  eurasian-steppe
+```
+
+---
+
+## Page Types and Formats
+
+### Period Page (`wiki/periods/`)
+
+One page per period in the temporal framework. Regional sub-period pages are
+nested (e.g., `tang-dynasty.md` under `early-middle-ages.md`).
+
+```yaml
+---
+title: [Period Name]
+period_number: [1–24]
+date_range: [start–end with BCE/CE/BP]
+regions_covered: []
+major_themes: []
+collection_coverage: [strong / moderate / weak / absent]
+sources_ingested: [count]
+last_updated: [YYYY-MM-DD]
+tags: [period]
+---
+```
+
+Body sections (all required):
+- **Overview**: narrative summary of the period
+- **Major Developments**: key events, processes, transformations
+- **Key Actors**: states, rulers, movements (linked)
+- **Geographic Scope**: which regions are historically active in this period
+- **Transition**: what ended the prior period; what begins the next
+- **Historiography**: source quality, major debates, recent revisionism,
+  methodological approaches; for prehistoric periods cover dating methods
+  and confidence levels explicitly
+- **Collection Coverage Note**: state honestly what the collection covers
+  well and where gaps exist for this period
+
+---
+
+### Event Page (`wiki/events/`)
+
+A discrete occurrence with identifiable bounds.
+
+```yaml
+---
+title: [Event Name]
+date_start: [YYYY, YYYY-MM-DD, or approximate]
+date_end: [same as start if single moment]
+date_precision: [exact / year / decade / quarter-century / century / approximate / disputed / unknown]
+dating_method: [for prehistoric: radiocarbon / stratigraphy / genetic / linguistic / other]
+period: []
+region: []
+location: []
+actors_primary: []
+actors_secondary: []
+event_type: [battle / war / migration / revolution / collapse / treaty / discovery /
+             epidemic / famine / religious / political / economic / cultural /
+             transition / other]
+scale_immediate: [local / regional / civilizational / hemispheric / global]
+scale_consequential: [local / regional / civilizational / hemispheric / global]
+causes: []
+consequences: []
+sources_ingested: [count]
+last_updated: [YYYY-MM-DD]
+tags: [event, period-name, region-name]
+---
+```
+
+`causes` and `consequences` are mandatory. Use `[[unknown]]` explicitly if
+genuinely unclear. Do not leave blank.
+
+Body sections:
+- **Narrative**: what happened
+- **Causal Analysis**: what drove this event (with explicit link types)
+- **Consequence Analysis**: what it produced
+- **Actors**: linked actor pages
+- **Historiography** (if contested): positions, scholars, resolution status
+
+---
+
+### Process Page (`wiki/processes/`)
+
+A long-duration dynamic that cannot be bounded as a discrete event:
+feudalization, the spread of Islam, the Atlantic slave trade, industrialization.
+
+```yaml
+---
+title: [Process Name]
+date_start: [approximate]
+date_end: [approximate or "ongoing"]
+date_precision: [century / generation / approximate]
+period: []
+region: []
+process_type: [political / economic / demographic / religious / technological /
+               cultural / environmental / ideological]
+driven_by: []
+produces: []
+sources_ingested: [count]
+last_updated: [YYYY-MM-DD]
+tags: [process, period-name, region-name]
+---
+```
+
+Body sections:
+- **Definition and Scope**: what this process is and what it is not
+- **Causal Drivers**: what conditions and actors drove it
+- **Major Phases**: turning points within the process
+- **Geographic Spread**: how and where it expanded
+- **Interaction**: how it relates to other processes
+- **End Conditions**: what stopped or transformed it (or why it continues)
+
+---
+
+### Actor Page (`wiki/actors/`)
+
+Any historical agent capable of action: persons, states, dynasties, empires,
+institutions, armies, movements, religious organizations.
+
+```yaml
+---
+title: [Actor Name]
+actor_type: [person / state / dynasty / empire / institution / movement /
+             organization / military-force / other]
+date_start: [birth, founding, or first appearance]
+date_end: [death, dissolution, or last appearance — "ongoing" if still exists]
+period: []
+region: []
+affiliated_with: []
+opposed_by: []
+key_events: []
+key_processes: []
+sources_ingested: [count]
+last_updated: [YYYY-MM-DD]
+tags: [actor, actor-type, period-name, region-name]
+---
+```
+
+For **persons**: role/title, major decisions and their consequences, counterfactual
+significance (what changes without this actor — analytical, not celebratory).
+
+For **states and empires**: territorial extent at peak, governing structure,
+economic base, military capacity, mechanisms of decline.
+
+For **institutions and movements**: founding conditions, structural features,
+how they shaped events and processes.
+
+---
+
+### Place Page (`wiki/places/`)
+
+A geographic or political entity that persists across time as a location for events.
+
+```yaml
+---
+title: [Place Name]
+place_type: [city / region / empire-territory / geographic-feature /
+             trade-route / battle-site / other]
+modern_equivalent: []
+coordinates: [approximate lat/lon]
+period_active: []
+controlled_by: []
+events_here: []
+processes_here: []
+sources_ingested: [count]
+last_updated: [YYYY-MM-DD]
+tags: [place, region-name, period-name]
+---
+```
+
+Body includes: geographic description, history of control and settlement, why
+this place mattered (strategic, economic, religious, demographic), how its
+significance changed over time.
+
+---
+
+### Concept Page (`wiki/concepts/`)
+
+Analytical frameworks, historical categories, and interpretive tools. Both emic
+(used by historical actors) and etic (applied by historians).
+
+```yaml
+---
+title: [Concept Name]
+concept_type: [analytical / periodization / historiographical / ideological /
+               economic / political / social / cultural]
+origin: [who coined it, when, in what context]
+applies_to_periods: []
+applies_to_regions: []
+contested: [yes / no]
+sources_ingested: [count]
+last_updated: [YYYY-MM-DD]
+tags: [concept]
+---
+```
+
+Always distinguish emic from etic. Always state limitations and critiques.
+
+---
+
+### Controversy Page (`wiki/controversies/`)
+
+Genuine interpretive disputes between serious scholars. Distinct from factual
+uncertainty — controversies are interpretive conflicts.
+
+```yaml
+---
+title: [Controversy Description]
+dispute_type: [causation / periodization / scale / source-reliability /
+               interpretation / counterfactual / moral-assessment]
+period_involved: []
+regions_involved: []
+positions: []
+resolution_status: [open / partially-resolved / resolved-by-consensus]
+last_updated: [YYYY-MM-DD]
+tags: [controversy]
+---
+```
+
+Do not adjudicate controversies unless I explicitly ask for analysis. Record
+each position with its best arguments and the scholars who hold it.
+
+**Standing controversies to create immediately during Phase 1–3 ingestion:**
+- Causes of the Bronze Age Collapse (~1200 BCE)
+- Causes of the Fall of the Western Roman Empire
+- The population of pre-Columbian Americas
+- Great Man vs. structural/systemic causation in history
+- Reliability of Herodotus as a historical source
+- Origins of the Indo-Europeans
+- Geographic determinism (Diamond) and its critics
+
+---
+
+### Source Page (`wiki/sources/`)
+
+One page per ingested source.
+
+```yaml
+---
+title: [Source Title]
+author: []
+year: [publication year]
+source_type: [primary / secondary / reference / series]
+period_coverage: []
+region_coverage: []
+methodological_approach: [narrative / archaeological / quantitative /
+                           diplomatic / social / economic / cultural / other]
+reliability_notes: []
+pages_created: [count]
+pages_updated: [count]
+ingested: [YYYY-MM-DD]
+tags: [source]
+---
+```
+
+---
+
+## Link Types — Mandatory Distinctions
+
+| Label | Meaning |
+|---|---|
+| `caused_by: [[X]]` | X is a direct causal antecedent |
+| `contributed_to: [[X]]` | X is a partial or enabling cause |
+| `preceded_by: [[X]]` | X came before temporally; causation not asserted |
+| `followed_by: [[X]]` | X came after temporally; causation not asserted |
+| `produced: [[X]]` | this directly caused or created X |
+| `enabled: [[X]]` | this created conditions for X without direct causation |
+| `concurrent_with: [[X]]` | simultaneous; relationship uncertain or absent |
+| `part_of: [[X]]` | this is a sub-component of X |
+| `contains: [[X]]` | X is a sub-component of this |
+| `analogous_to: [[X]]` | structurally similar in different time/place |
+| `contrasts_with: [[X]]` | explicitly different from X in important ways |
+
+The `caused_by` / `preceded_by` distinction is the most critical. Never conflate
+temporal sequence with causation.
+
+---
+
+## Scale Framework
+
+| Scale | Definition |
+|---|---|
+| `local` | City, valley, or sub-regional |
+| `regional` | Multi-city or multi-polity |
+| `civilizational` | Full civilization or imperial system |
+| `hemispheric` | Old World or New World broadly |
+| `global` | Genuinely worldwide impact |
+
+Every event page specifies both `scale_immediate` and `scale_consequential`.
+
+---
+
+## Chronological Uncertainty Protocol
+
+| Flag | Meaning |
+|---|---|
+| `exact` | Documented to the day or year |
+| `year` | Documented to the year; exact day unknown |
+| `decade` | Known within a decade |
+| `quarter-century` | Known within 25 years |
+| `century` | Known within a century |
+| `approximate` | Known within a few centuries; consensus exists |
+| `disputed` | Scholars disagree significantly |
+| `unknown` | No reliable dating available |
+
+For prehistoric dates, always state the dating method and confidence interval.
+Never present approximate dates as exact.
+
+---
+
+## Source-Type Handling
+
+### Cambridge Reference Series (CAH, NCMH, Cambridge World History)
+Multi-author peer-reviewed reference volumes. The most authoritative sources
+in the collection. Each volume is 800–1,000 pages and must be processed using
+the Large-Volume Protocol below — do not attempt to read these in a single pass.
+When they conflict with other sources, flag for controversy page but give
+Cambridge volumes presumptive weight unless the conflict is itself actively debated.
+
+### Primary Source Translations (Oxford World's Classics, Penguin Classics,
+Translated Texts for Historians, Translations from the Asian Classics)
+Record: original language, author's dates, translator's approach, known
+translation controversies. Cross-link heavily. Translation choices affect
+interpretation — note where this matters. Most of these are under 400 pages
+and can be read in a single pass.
+
+### Specialist Monographs (Brill, Routledge, Oxford Studies series)
+These contain the most current scholarship. When a monograph contradicts a
+Cambridge reference volume, flag for controversy page — this usually signals
+recent revisionism worth tracking. Most are 200–400 pages; use the standard
+ingest workflow. If over 400 pages, use the Large-Volume Protocol.
+
+### Archaeological Reports
+Treat as primary evidence for prehistoric and ancient periods. When
+archaeological evidence conflicts with textual sources, create a controversy
+page — this conflict is often more significant than purely textual disputes.
+
+---
+
+## Ingest Workflow — Standard (books under ~400 pages)
+
+For each source in Processing List.md that is under approximately 400 pages:
+
+1. **Identify** source type, period coverage, regional coverage, methodological
+   approach.
+2. **Read** the full source in one pass.
+3. **Write a source page** in `wiki/sources/`.
+4. **Create or update**:
+   - Period pages for covered periods
+   - Event pages for discrete events
+   - Process pages for long-duration dynamics
+   - Actor pages for significant persons, states, institutions
+   - Place pages for significant locations
+   - Concept pages for analytical frameworks
+   - Controversy pages for interpretive disputes
+5. **Update `index.md`** with all new and modified pages.
+6. **Append to `log.md`**:
+   `## [YYYY-MM-DD] ingest | [Source Title] | [Period(s)] | [Region(s)] | [Pages created: N] | [Pages updated: N]`
+7. **File the source**: move the source file to its appropriate folder matching
+   the Processing List directory structure. If the source is a PDF, convert it
+   to `.md` first, then delete the PDF. Confirm the `.md` file exists on disk
+   before deleting the PDF.
+
+A specialist monograph may touch 5–15 pages. A shorter primary source may
+touch 10–20 through its cross-links. Both are correct.
+
+---
+
+## Ingest Workflow — Large-Volume Protocol (books over ~400 pages)
+
+Large volumes — primarily the Cambridge Ancient History, New Cambridge Medieval
+History, Cambridge World History, and any other reference volumes over 400 pages —
+must be processed in logical sections rather than mechanical token chunks. The
+goal is to keep the full context of a coherent argument in the working window
+when writing pages from it, then commit those pages to disk before moving on.
+Never hold a section's content in context while reading the next section. Write
+first, then advance.
+
+### Step 1 — Read the Structural Map (before reading any content)
+
+Before reading any chapter content, read only:
+- The table of contents
+- The volume editor's introduction (or preface)
+- The conclusion or afterword if present
+
+From this, produce a **Section Plan** in the source's wiki page
+(`wiki/sources/[source-slug].md`) listing every logical section with:
+- Section title and chapter numbers
+- Period(s) covered
+- Region(s) covered
+- Estimated page count
+- Key actors, events, or processes flagged in the introduction
+
+Write and save this source page before proceeding. This is the map you will
+navigate by. Do not begin content reading until this page exists on disk.
+
+Example Section Plan format:
+```
+## Section Plan
+
+| Section | Chapters | Pages | Period | Region | Key Topics |
+|---|---|---|---|---|---|
+| The Early Bronze Age Near East | 1–3 | 1–87 | Early Bronze Age | mesopotamia, levant | Uruk expansion, early writing |
+| Egypt to the End of the Old Kingdom | 4–6 | 88–175 | Early Bronze Age | north-africa | Pyramid Age, Old Kingdom collapse |
+...
+```
+
+### Step 2 — Process One Section at a Time
+
+For each section in the Section Plan, follow this complete cycle before
+moving to the next section. Do not read ahead.
+
+**2a. Read the section.**
+Read the full text of the section's chapters in one pass. Hold this in context
+for the next step only.
+
+**2b. Identify all pages affected.**
+Before writing anything, list every wiki page this section creates or updates:
+- New pages to create (with proposed file names)
+- Existing pages to update (with what changes)
+
+Write this list as a comment block at the top of your working notes.
+Do not begin writing pages until the full list is identified.
+
+**2c. Write all affected pages.**
+Write or update every page on the list. For each page:
+- Write the complete content, not a stub
+- Fill all required frontmatter fields
+- Include all cross-links identified from this section
+- Write the historiography section if this is a period or major event page
+
+**2d. Commit all pages to disk.**
+Save every page created or updated in this section cycle before reading the
+next section. This is the critical discipline: context for Section N must be
+fully written to disk before Section N+1 enters the context window.
+
+**2e. Append a section log entry.**
+```
+## [YYYY-MM-DD] section | [Volume Title] | Section: [Section Title] | [Pages created: N] | [Pages updated: N]
+```
+
+**2f. Clear and advance.**
+Only after all pages are written and the log entry is appended, read the
+next section.
+
+### Step 3 — Cross-Section Synthesis Pass
+
+After all sections are processed, do a synthesis pass with the source page
+and index.md in context (not the raw source text):
+
+- Read all pages created or updated from this volume
+- Identify arguments that span multiple sections but were captured in
+  separate pages
+- Add cross-links between pages where the connection only becomes visible
+  at the whole-volume level
+- Write a **Volume Synthesis Note** at the bottom of the source page:
+  a 3–5 paragraph summary of the volume's overall argument, what it adds
+  to the wiki as a whole, and any cross-volume tensions with other
+  already-ingested sources
+
+### Step 4 — File the Source
+
+Move the source file to its appropriate folder matching the Processing List
+directory structure. If the source is a PDF, convert it to `.md` first, then
+delete the PDF. Confirm the `.md` file exists on disk before deleting the PDF.
+
+### Step 5 — Final Log Entry
+
+```
+## [YYYY-MM-DD] ingest-complete | [Volume Title] | [Total pages created: N] | [Total pages updated: N] | [Sections processed: N]
+```
+
+---
+
+### Large-Volume Protocol: Applied to Specific Series
+
+**Cambridge Ancient History (each volume)**
+- Read the editor's introduction first — these contain the historiographical
+  framework for the entire volume
+- Section boundaries follow part divisions, not individual chapters
+  (CAH parts are typically 3–6 chapters covering one civilization or period)
+- Each part is one section cycle
+- The CAH Vol 1 Part 1 "Prolegomena" chapter is exceptionally important —
+  it frames the methodology for the entire series; give it its own cycle
+  and create a `wiki/concepts/cambridge-ancient-history-methodology.md` page
+
+**New Cambridge Medieval History (each volume)**
+- Section boundaries follow the volume's geographic/thematic parts
+  (e.g., "The Carolingian Empire", "The British Isles", "The Islamic World")
+- Each part is one section cycle regardless of chapter count
+- Cross-links between geographic parts are especially important — the NCMH
+  tends to treat regions in isolation; your synthesis pass must reconnect them
+
+**Cambridge World History (each volume)**
+- These are explicitly organized into thematic parts — follow those divisions
+- Volume 1 (to 10,000 BCE) and Volume 2 (agriculture) will create the most
+  new pages since they cover periods where few other sources exist yet
+- Volume 6 and 7 (Early Modern and Modern) will mostly update existing pages
+  from Cambridge Ancient History and NCMH; flag updates separately from creations
+
+**Brill and Routledge series volumes over 400 pages**
+- These rarely have explicit parts; use chapter groupings of 3–5 chapters
+  that share a common subject or argument as section boundaries
+- If chapter groupings are unclear, treat each chapter as its own section cycle
+  — the overhead is worth it for accuracy
+
+---
+
+### What "Commit to Disk" Means in Practice
+
+This is a Claude Code operation, not a conceptual instruction. After completing
+Step 2c for each section:
+
+1. Use file write operations to save every new `.md` file
+2. Use file edit operations to update every existing `.md` file
+3. Confirm each file is written by reading its path back
+4. Only after all confirmations, proceed to Step 2e
+
+If a write operation fails, retry before advancing. A section whose pages exist
+only in context and not on disk is lost when the next section is read.
+Context is ephemeral. Disk is permanent. Always resolve to disk.
+
+---
+
+## Historiography Protocol
+
+Every period page and every major event page requires a `## Historiography` section.
+
+Cover:
+- **Source quality**: what primary sources exist; their known biases and gaps
+- **Scholarly debates**: what historians disagree about
+- **Methodological approaches**: dominant methods used to study this period/event
+- **Recent revisionism**: significant changes in the standard account (last 30 yrs)
+- **Collection coverage**: what in the Bibliotheca Alexandrina covers this well;
+  where gaps exist
+
+For prehistoric periods: cover dating methods and confidence levels explicitly.
+Absence of written sources is not absence of history.
+
+---
+
+## Contradiction Protocol
+
+When new material contradicts existing wiki content:
+
+1. Flag with `[CONTRADICTION]` on both affected pages.
+2. Create or update the `wiki/controversies/` page.
+3. Classify: factual dispute / interpretive difference / source reliability conflict.
+4. Do not silently overwrite. Preserve both claims with attribution and date.
+
+---
+
+## Query Workflow
+
+1. Read `index.md` for relevant pages.
+2. Read those pages.
+3. Synthesize with citations to wiki pages.
+4. Offer to file as `wiki/queries/` if synthesis was non-trivial.
+5. Append to `log.md`: `## [YYYY-MM-DD] query | [Question summary]`
+
+---
+
+## Lint Workflow
+
+When I ask for a health check, report:
+
+- Event pages with empty `causes` or `consequences`
+- Actors mentioned but lacking their own page
+- Places mentioned repeatedly without a place page
+- Period pages missing historiography sections
+- Orphan pages (no inbound links)
+- Processes referenced inline without a process page
+- Controversies described inline not yet promoted to `controversies/`
+- `caused_by` links that appear to conflate sequence with causation
+- Period pages where `collection_coverage` is `weak` or `absent`
+- 3–5 sources from Outstanding Sources.md to prioritize next
+- 3–5 analytical questions worth investigating
+
+---
+
+## Naming Conventions
+
+- File names: `kebab-case.md`
+- Events: `[event-name]-[start-year].md`
+- Actors (persons): `[surname]-[given-name].md`
+- Actors (states): `[state-name]-[qualifier].md`
+- Places: `[place-name].md` with modern qualifier if ambiguous
+- Periods: `[period-name].md`
+- Sources: `[author-surname]-[short-title]-[year].md`
+- Obsidian links: `[[page-name|Display Name]]`
+- Dates: BCE/CE throughout; BP for prehistoric before 10,000 BCE
+- Calendar systems: specify when historically relevant
+
+---
+
+## Special Page Types
+
+### Transition Pages
+For genuine discontinuities between periods. Create in addition to component
+event pages. File in `wiki/events/` with tag `transition`. Standing list:
+- Bronze Age Collapse (~1200 BCE)
+- Fall of the Western Roman Empire (476 CE)
+- The Mongol Conquests (13th c.)
+- 1492 and the Columbian Exchange
+- 1789 and the Atlantic Revolutions
+- 1914 and the end of the Long 19th Century
+- 1945 and the post-war order
+- 1991 and the end of the Cold War
+
+### Comparative Civilization Pages
+Explicit structural comparisons. File in `wiki/comparisons/`. File permanently.
+
+### Counterfactual Pages
+File in `wiki/queries/` with tag `counterfactual`.
+Use as analytical tools to reveal which causes were contingent vs. structural.
+
+---
+
+## Collection Coverage Map
+
+| Period | Coverage | Notes |
+|---|---|---|
+| Deep–Late Prehistory | Strong | Excellent archaeological section |
+| Neolithic–Chalcolithic | Strong | Good Bronze/Neolithic coverage |
+| Bronze Age | Strong | Collapse period well covered |
+| Iron Age | Moderate | European strong; Asia thinner |
+| Archaic Period | Strong | Greece, Near East, Persia well covered |
+| Classical Antiquity | Excellent | Best-covered period in collection |
+| Late Antiquity | Excellent | TTH series + CAH outstanding |
+| Early Middle Ages | Strong | Very strong for western Eurasia |
+| High Middle Ages | Strong | European and Islamic good |
+| Late Middle Ages | Strong | European and Mediterranean strong |
+| Early Modern | Moderate | Thin; mostly European |
+| Age of Expansion onward | Absent | Critical gap — see Outstanding Sources |
+| China (all periods) | Moderate–Strong | Literary primary strong; medieval secondary thin |
+| Japan | Moderate | Narrative history thin |
+| India | Weak | See Outstanding Sources |
+| Medieval Islamic World | Strong | TTH + specialist series strong |
+| Post-1500 Islamic World | Weak | Ottoman/Safavid/Mughal thin |
+| Sub-Saharan Africa | Absent | Critical gap |
+| Americas | Weak | Archaeology only; narrative absent |
+| Russia/Eastern Europe | Absent | Critical gap |
+| Southeast Asia | Absent | Critical gap |
+
+---
+
+## Division of Labor
+
+**I handle**: sourcing, directing focus, adjudicating contradictions when asked,
+asking questions, reading the wiki, deciding what matters.
+
+**You handle**: all writing, cross-referencing, maintenance, filing, bookkeeping,
+and link management. Every word in `wiki/` is yours unless I explicitly edit it.

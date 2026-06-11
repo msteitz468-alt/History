@@ -1,0 +1,69 @@
+---
+title: The Swahili Coast (Kilwa, Mombasa, and the Stone Towns)
+place_type: region
+modern_equivalent: Coastal Kenya, Tanzania, northern Mozambique, and offshore islands (Zanzibar, Kilwa, Pemba, Lamu, the Comoros)
+coordinates: ~6°S, 39°E (Zanzibar/Kilwa belt)
+period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
+controlled_by: [Swahili city-states, Kilwa Sultanate]
+events_here: []
+processes_here: [[[indian-ocean-trade]], [[trans-saharan-trade]]]
+sources_ingested: 1
+last_updated: 2026-06-10
+tags: [place, east-africa, indian-ocean, high-middle-ages]
+---
+
+# The Swahili Coast (Kilwa, Mombasa, and the Stone Towns)
+
+## Overview
+
+The **Swahili coast** is the ~3,000 km chain of East African port-cities and islands
+that formed the African terminal of the [[indian-ocean-trade|Indian Ocean trade]]
+through the Middle Millennium. Its "stone towns" — Kilwa, Mombasa, Malindi, Lamu,
+Zanzibar, Pemba, Mogadishu (to the north), and Sofala (to the south) — were
+independent, commercially oriented city-states sharing the **Swahili (Kiswahili)
+language** (a Bantu language with heavy Arabic and Persian loan-vocabulary) and,
+from the spread of [[islam|Islam]] along the trade routes, a shared Muslim urban
+culture. [[kedar-cwh-v5-2015|CWH V]] (Ray, Ch 11) treats the coast as part of the
+poly-religious maritime world of the western Indian Ocean; [[benjamin-cwh-v4-2015|CWH
+IV]] (Burstein) traced its earlier roots (Rhapta/Azania).
+
+## A Trading Civilization
+
+- **An African civilization, oriented seaward.** Modern scholarship (against older
+  "Arab colony" models) stresses the Swahili towns as an indigenous **African**
+  development — Bantu-speaking coastal communities that adopted Islam and Indian
+  Ocean commerce and built a cosmopolitan merchant culture, rather than a transplant
+  of Arab or Persian settlers (the "Shirazi" foundation traditions notwithstanding).
+- **The export economy.** The towns funneled the products of the East African
+  interior — above all **gold** (from the Zimbabwe plateau, via Sofala), plus ivory,
+  rock crystal, mangrove timber, ambergris, and enslaved people (the *Zanj*) — into
+  the Indian Ocean in exchange for Indian textiles, Chinese and Islamic ceramics
+  (found abundantly in the archaeology), and glass beads.
+- **Kilwa's apogee.** Kilwa Kisiwani dominated the southern gold trade from the
+  thirteenth to fifteenth centuries; its Great Mosque and the palace-emporium of
+  **Husuni Kubwa** are the monumental signature of the coast's wealth. Ibn Battuta
+  visited in 1331 and praised the town's elegance and piety.
+
+## Connections
+
+The Swahili coast linked the [[indian-ocean-trade|Indian Ocean system]] to the
+**southern African interior** (Great Zimbabwe's gold) and, through the wider Muslim
+ecumene, to the same world of commerce, law, and pilgrimage that bound the
+[[afro-eurasian-world-system|Afro-Eurasian system]]. The Ming admiral
+[[zheng-he|Zheng He]] reached Malindi in the early fifteenth century — a giraffe
+sent thence to the Chinese court is the era's most famous token of the connection.
+
+## Why this place mattered
+
+The coast shows [[islam|Islam]] and long-distance trade producing an indigenous
+African urban civilization, integrated into the hemispheric economy yet politically
+fragmented into competing city-states. Its history closes the Middle Millennium
+abruptly: the Portuguese, rounding the Cape in 1498, sacked Kilwa and Mombasa in the
+early sixteenth century and seized the gold trade, redirecting the coast's fortunes
+into the early-modern era.
+
+## Related
+
+- Process: [[indian-ocean-trade]] · [[trans-saharan-trade]] (the African counterpart inland)
+- Concept/Actor: [[islam]] · [[aksum]] (the earlier Red Sea trading state)
+- Places: [[jenne-jeno]] (West African trade city) · [[zheng-he]] (the Ming voyages)

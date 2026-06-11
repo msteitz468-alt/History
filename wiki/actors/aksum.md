@@ -1,0 +1,66 @@
+---
+title: The Kingdom of Aksum
+actor_type: state
+date_start: late 1st century BCE (rise of Aksum as capital)
+date_end: c. 700 CE (abandonment of Aksum; relocation into the Ethiopian interior)
+period: [Late Antiquity, Early Middle Ages]
+region: [horn-of-africa, east-africa]
+affiliated_with: [Rome/Byzantium (ally and trading partner), the Indian Ocean trade network, Christianity from the 4th c. CE]
+opposed_by: [the [[kush-meroe|Kingdom of Kush]] (conquered c. 350 CE), Sasanian Persia, the early Caliphate]
+key_events: [rise to prominence late 1st c. BCE, establishment of Adulis as a treaty port, conquest of Kush c. 350 CE, conversion to Christianity (4th c.), control of Yemen (early 6th c.), collapse and relocation c. 700 CE]
+key_processes: [[[indian-ocean-trade]], [[trade-network-formation]], [[empire]], [[christianization]]]
+sources_ingested: 1
+last_updated: 2026-06-10
+tags: [actor, state, late-antiquity, horn-of-africa]
+---
+
+# The Kingdom of Aksum
+
+## Overview
+
+**Aksum**, in the highlands of modern **Ethiopia/Eritrea**, was in [[benjamin-cwh-v4-2015|CWH
+IV]] (Burstein, Ch 23) the African kingdom that **profited from the boom in
+[[indian-ocean-trade|Indian Ocean trade]]** to become "Rome's principal ally in Africa and the
+main intermediary between India and the Mediterranean." It eclipsed the older
+**[[kush-meroe|Kush]]** and tied the Horn of Africa into the late-antique world economy.
+
+## Rise on the Red Sea
+
+Aksum's roots lay in small first-millennium-BCE kingdoms founded by South Arabian colonists in
+Eritrea and Tigray. It rose to prominence in the late first century BCE when the ruler of the
+**Habasha** (Abyssinians) made the city of Aksum his capital. Ideally placed between the upper
+Nile and the **Red Sea**, Aksum exploited the surge in Mediterranean–Indian Ocean commerce by
+developing the treaty port of **Adulis** (Massawa), in agreement with Rome, and fostering a
+trade diaspora. By the mid-first century CE Adulis was the chief outlet for the goods of the
+Red Sea hinterland — even ivory collected in Kushite territory — and Aksumite kings built a
+**caravan route to Egypt that bypassed the Nile entirely**, draining trade away from Kush.
+
+## Empire, Christianity, and the Monumental Capital
+
+In the second–third centuries CE Aksum extended its rule over the southern Red Sea hinterlands;
+in the **fourth century** its kings **converted to Christianity** (Aksum became one of the
+earliest Christian states), and by the early sixth century it controlled an empire stretching
+**from Sennar in the west to Yemen in the east**. The capital is famed for its giant carved
+**stelae (obelisks)** marking royal tombs — among the largest single stones ever quarried and
+raised in the ancient world — and Aksum minted its own coinage in gold, silver, and bronze.
+
+## Collapse
+
+Cut off from its Roman ally by the **Arab conquests** and the loss of Red Sea trade dominance,
+Aksum **collapsed around 700 CE**. The kingdom survived as a Christian state only by
+**relocating into the Ethiopian interior**, abandoning the old capital — the seed of medieval
+Christian Ethiopia.
+
+## Significance
+
+Aksum exemplifies CWH IV's thesis that **trade networks made history**: a highland kingdom
+raised to imperial power by its node position on the Indian Ocean–Mediterranean route, and a
+durable carrier of African Christianity. Its rise reoriented all of Northeast Africa from the
+Nile to the Red Sea.
+
+## Historiography
+
+Aksum is reconstructed from **coinage, monumental archaeology, Ge'ez and Greek inscriptions**,
+and external (Roman, later Arabic) accounts. CWH IV places it within the late-antique "birth of
+Afro-Eurasia," when Christianity and then Islam reintegrated Africa into a Eurasian
+civilizational sphere.
