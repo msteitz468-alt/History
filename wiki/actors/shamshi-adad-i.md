@@ -7,9 +7,9 @@ period: [Middle Bronze Age]
 region: [mesopotamia, near-east]
 affiliated_with: [[[ashur|Assyria]], [[amorites|the Amorites]]]
 opposed_by: [Yahdun-Lim/Zimri-Lim of Mari, Eshnunna, the Hurrian princes]
-key_events: []
+key_events: [reconquest of Mari/Khabur from Yahdun-Lim, the dissolution of his empire after his death (~1781 BCE)]
 key_processes: [[[state-formation]], [[imperialism]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, middle-bronze-age, mesopotamia]
 ---
@@ -60,9 +60,17 @@ Shamshi-Adad is the first realization of the **Assyrian imperial idea** in pract
 the Neo-Assyrian Empire. His reign also illustrates the broader
 [[middle-bronze-age|Middle Bronze Age]] pattern: an **[[amorites|Amorite]] warlord**
 seizing an old city and welding a patchwork of kingdoms into a personal empire —
-exactly what his younger contemporary **Hammurabi** would soon do from Babylon. His
-empire, held together by his own person and family, fragmented after his death
-(Mari falling to **Zimri-Lim**).
+exactly what his younger contemporary **[[hammurabi|Hammurabi]]** would soon do from
+Babylon (a contract of Hammurabi's tenth year still associates the two kings in its
+oath, marking Babylon's early subordination to the Assyrian). His empire was "vast
+and prosperous" but "lacking in cohesion, formed by a juxtaposition of distinct
+provinces," with no direct communication between Mari and Ashur; held together by his
+own person and energy alone, it **could not survive him**. CAH Vol. II.1 (Kupper)
+adds the sequel: the abler son **Ishme-Dagan** held only Assyria, while
+**Yasmah-Adad** was driven from [[mari|Mari]] by **[[zimri-lim|Zimri-Lim]]**
+(restored from exile with the help of [[iamkhad|Aleppo]]), and the rest of Upper
+Mesopotamia fragmented into the small kingdoms that the [[hurrians|Hurrian]] tide
+would later engulf.
 
 ## Historiography
 
@@ -75,7 +83,9 @@ middle chronology. His full reign and the Mari world belong to CAH Vol. II. See
 
 ## Related
 
-- Place: [[ashur]] · [[kultepe]] · [[mari]] · People: [[amorites]]
+- Place: [[ashur]] · [[kultepe]] · [[mari]] · People: [[amorites]] · [[hurrians]]
+- Rival/successor at Mari: [[zimri-lim]] · backed by [[iamkhad]]
 - Process: [[old-assyrian-trade]] · [[imperialism]] · [[state-formation]]
-- Concept: [[assyrian-king-list]] · [[divine-kingship]] · Period: [[middle-bronze-age]]
-- Analogous to: Hammurabi (the contemporary Amorite empire-builder at Babylon) · [[sargon-of-akkad]] (the model)
+- Concept: [[assyrian-king-list]] · [[divine-kingship]] · [[interpolity-law]] · Period: [[middle-bronze-age]]
+- Analogous to: [[hammurabi|Hammurabi]] (the contemporary Amorite empire-builder at Babylon) · [[sargon-of-akkad]] (the model)
+- Source: [[edwards-cah-v2p1-1973]] (Ch. I) · [[edwards-cah-v1p2-1971]] (Ch. XXV)

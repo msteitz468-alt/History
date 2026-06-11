@@ -4,12 +4,12 @@ place_type: city
 modern_equivalent: Tell Hariri, eastern Syria (on the middle Euphrates)
 coordinates: ~34.55°N, 40.89°E
 period_active: [Early Bronze Age, Middle Bronze Age]
-controlled_by: [Mari (independent kingdom), Akkadian Empire, Third Dynasty of Ur, Amorite dynasty (Zimri-Lim), Babylon]
-events_here: []
+controlled_by: [Mari (independent kingdom), Akkadian Empire, Third Dynasty of Ur, Shamshi-Adad I (Yasmah-Adad), Amorite dynasty (Zimri-Lim), Babylon (Hammurabi), the land of Khana]
+events_here: [sack of Mari by [[hammurabi|Hammurabi]] (~1761/1759 BCE)]
 processes_here: [[[trade-network-formation]], [[temple-economy]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
-tags: [place, mesopotamia, levant, near-east, early-bronze-age]
+tags: [place, mesopotamia, levant, near-east, early-bronze-age, middle-bronze-age]
 ---
 
 # Mari (Tell Hariri)
@@ -47,6 +47,25 @@ Letters) make Middle Bronze Age Mari one of the best-documented cities of the
 ancient Near East — until its destruction by **Hammurabi of Babylon** (c. 1760
 BCE; see [[mesopotamian-chronology]]).
 
+## Middle Bronze Mari: Zimri-Lim's city
+
+CAH Vol. II.1 (Kupper) makes the [[middle-bronze-age|Middle Bronze]] city vivid. After
+**[[shamshi-adad-i|Shamshi-Adad I]]** seized Mari (installing his son Yasmah-Adad),
+the native heir **[[zimri-lim|Zimri-Lim]]** regained it (~1775) with help from
+[[iamkhad|Aleppo]]. His **palace** — over 260 rooms across six acres, frescoed (the
+"Investiture" of the king before Ishtar), with a scribal school and archive rooms —
+was a wonder of its age that a prince of Ugarit asked merely to visit. Mari's wealth
+came not from its fields but from its place astride the **Gulf-to-Mediterranean
+caravan route**: Anatolian and Elamite **tin** passing west to Aleppo, Qatna,
+Carchemish and Hazor; Cypriot copper, Lebanese timber, an object "from Crete." The
+~20,000-tablet **Mari archive** is the richest documentary source of the period —
+and the basis for the deflated modern view of [[hammurabi|Hammurabi]] (see
+[[interpolity-law]]). [[hammurabi|Hammurabi]], once Mari was no longer useful to him,
+**defeated the city (~1761) and dismantled it (~1759)**, ending Zimri-Lim's kingdom.
+Out of the ruins rose the small successor **land of Khana** (centred on **Terqa**,
+home of Dagan's chief sanctuary), whose later kings included a Kassite-named
+**Kashtiliash** — the one early trace of [[kassites|Kassite]] power on the Euphrates.
+
 ## Why this place mattered
 
 Mari demonstrates the **reach of Sumerian-Mesopotamian civilization** far up the
@@ -57,6 +76,8 @@ Age archives are among the richest documentary sources of the age.
 
 ## Related
 
-- Places: [[ur]] · [[uruk]] · [[lagash]] · [[byblos]] (the western trade world)
-- State: [[early-dynastic-sumer]] · Concept: [[temple-economy]] · [[sumerian-king-list]]
+- Places: [[ur]] · [[uruk]] · [[lagash]] · [[byblos]] (the western trade world) · [[ashur]]
+- People: [[zimri-lim]] · [[shamshi-adad-i]] · [[hammurabi]] · [[amorites]] · [[kassites]]
+- State: [[early-dynastic-sumer]] · [[iamkhad]] · Concept: [[temple-economy]] · [[sumerian-king-list]] · [[interpolity-law]]
 - Process: [[trade-network-formation]] · Period: [[early-bronze-age]] · [[middle-bronze-age]]
+- Source: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v1p2-1971]]

@@ -2,10 +2,10 @@
 title: Middle Bronze Age
 period_number: 9
 date_range: 2,100–1,550 BCE (Near East; regionally variable)
-regions_covered: [mesopotamia, near-east, levant, anatolia, north-africa, iran-plateau]
-major_themes: [territorial states, the Amorite world, bureaucratic empire, urban revival, palace economy, long-distance trade]
+regions_covered: [mesopotamia, near-east, levant, anatolia, north-africa, iran-plateau, aegean]
+major_themes: [territorial states, the Amorite world, bureaucratic empire, urban revival, palace economy, long-distance trade, multipolar diplomacy]
 collection_coverage: moderate
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [period]
 ---
@@ -21,12 +21,14 @@ economies** across the Fertile Crescent, after the fragmentation that closed the
 the **Sumerian bureaucratic revival under the [[mesopotamian-chronology|Third
 Dynasty of Ur]]** and the **Egyptian [[middle-kingdom-egypt|Middle Kingdom]]** —
 and, running through and beyond both, the spread of the **[[amorites|Amorites]]**,
-the West-Semitic peoples who would found the kingdoms of [[mari|Mari]], Yamhad,
-Assyria, and ultimately Babylon. This wiki page is anchored to
-[[edwards-cah-v1p2-1971|CAH Vol. I, Part 2]], which carries the story to
-c. 1,750 BCE; the later Middle Bronze Age (Hammurabi, the Old Assyrian and Old
-Babylonian worlds, the rise of the Hittites and the Hyksos) will be deepened from
-CAH Vol. II.
+the West-Semitic peoples who would found the kingdoms of [[mari|Mari]],
+[[iamkhad|Yamhad]], Assyria, and ultimately Babylon. This wiki page is anchored to
+[[edwards-cah-v1p2-1971|CAH Vol. I, Part 2]] (to c. 1,750 BCE) and
+[[edwards-cah-v2p1-1973|CAH Vol. II, Part 1]] (the Middle East and the Aegean,
+c. 1,800–1,380 BCE), which together carry it through **[[hammurabi|Hammurabi]]**,
+the Old Babylonian and [[old-assyrian-trade|Old Assyrian]] worlds, the
+[[elam|Elamite Sukkalmaḫ]] dynasty, the rise of the [[hittites|Hittites]], and the
+Hyksos, to the brink of the [[late-bronze-age|Late Bronze Age]].
 
 ## Major Developments
 
@@ -37,9 +39,28 @@ CAH Vol. II.
   world) with deified kings and the earliest [[ur-nammu|law code]]. It falls under
   [[amorites|Amorite]] pressure and the [[fall-of-ur-2004bce|Elamite sack of Ur]]
   (~2004 BCE), opening the Isin–Larsa period.
-- **Elam** — the highland-and-lowland civilization of [[elam|Elam]] (Awan,
-  Simashki; capital [[susa|Susa]]) is Mesopotamia's perennial eastern rival and
-  trading partner; it takes its revenge in the sack of Ur.
+- **Elam and the Sukkalmaḫ dynasty** — the highland-and-lowland civilization of
+  [[elam|Elam]] (capital [[susa|Susa]]) is Mesopotamia's perennial eastern rival;
+  after sacking Ur it enters its powerful **Sukkalmaḫ ("Grand Regent") period**, ruled
+  by the **Eparti dynasty** through a unique fratriarchal triumvirate. Its king
+  **Kutir-Nahhunte I** sacked Akkad and carried off the goddess Nanai (~1730) — an
+  outrage [[ashurbanipal|Ashurbanipal]] still avenged a millennium later — but Elam
+  was crushed in [[hammurabi|Hammurabi's]] ~1764 coalition war and Susiana stayed
+  heavily Akkadized under Babylonian suzerainty.
+- **The Babylonian hegemony of Hammurabi** — the [[amorites|Amorite]]
+  **[[babylon-first-dynasty|First Dynasty of Babylon]]** rose under its sixth king
+  **[[hammurabi|Hammurabi]]** (~1792–1750), who defeated Larsa, Eshnunna and an
+  Elam-led coalition to win "the kingship of Sumer and Akkad," sacked
+  [[zimri-lim|Mari]], and issued the famous **law-stele**. The Mari archive reveals
+  this empire as modest and personal, not a "world-empire" — and it crumbled under
+  his son **Samsuiluna**, who lost the south to the **Sealand dynasty**.
+- **The Mari-age balance of power** — the great Amorite kingdoms
+  ([[babylon-first-dynasty|Babylon]], Larsa, Eshnunna, Qatna, [[iamkhad|Yamhad]],
+  [[zimri-lim|Mari]], Assyria, [[elam|Elam]]) formed a **multipolar system** of
+  roughly equal powers — "no king is mighty by himself; ten or fifteen kings follow
+  each" — knit by resident ambassadors, dynastic marriage, and shifting coalitions
+  (see [[interpolity-law]]). It is the documentary ancestor of the Late Bronze
+  "[[amarna-letters|great-powers club]]."
 - **The Egyptian Middle Kingdom (~2040–1650 BCE)** — the
   [[reunification-of-egypt-2040bce|Theban reunification]] of Egypt under
   [[mentuhotpe-ii|Nebhepetre Mentuhotpe II]] ends the
@@ -74,12 +95,23 @@ CAH Vol. II.
   the **[[coming-of-the-greeks-1900bce|coming of the Greeks]]** (~1900 BCE: Middle
   Helladic, Minyan ware) out of the [[early-bronze-age-aegean|Aegean EBA]]. In
   Crete the Minoan palaces arise instead by unbroken local development.
+- **The ~1595 BCE reshuffling.** The period closes with a wave of upheavals that
+  opens the [[late-bronze-age|Late Bronze Age]]: the [[hittites|Hittite]] king
+  **Mursili I** destroys [[iamkhad|Aleppo]] and then **[[fall-of-babylon-1595bce|
+  sacks Babylon]]**, ending the First Dynasty; the **[[kassites|Kassites]]** take
+  the Babylonian throne (the longest dynasty in its history); the [[hurrians|
+  Hurrians]] coalesce into the kingdom of **[[mitanni|Mitanni]]** across the north;
+  and in Egypt the Hyksos are expelled and the New Kingdom rises. A new system of a
+  few territorial "great powers" replaces the dense Amorite mosaic.
 
 ## Key Actors
 
 - The [[third-dynasty-of-ur|Third Dynasty of Ur]] (Ur-Nammu, Shulgi); the
-  [[amorites|Amorite]] kingdoms; [[mari|Mari]]; Old Assyria
-  ([[ashur|Ashur]], [[shamshi-adad-i|Shamshi-Adad I]]).
+  [[amorites|Amorite]] kingdoms; [[zimri-lim|Mari]]; Old Assyria
+  ([[ashur|Ashur]], [[shamshi-adad-i|Shamshi-Adad I]]); the
+  [[babylon-first-dynasty|First Dynasty of Babylon]] ([[hammurabi|Hammurabi]]);
+  [[iamkhad|Yamhad/Aleppo]]; [[elam|Elam]] (the Sukkalmaḫ); the [[hurrians|Hurrians]]
+  and the [[kassites|Kassites]].
 - The [[middle-kingdom-egypt|Egyptian Middle Kingdom]] (Mentuhotpe II;
   Amenemhat I–III; [[senwosret-iii|Senwosret III]]).
 - The Canaanite city-states of the revived Levant; the princes of [[byblos|Byblos]].
@@ -120,18 +152,29 @@ Texts** — though those are ritual, not a political map); the **Amorite questio
 and the nature of the Levantine **EB–MB break** (Kenyon's sharp non-urban
 discontinuity vs. continuity readings).
 
-**Collection coverage.** Strong for Egypt and Mesopotamia in this volume (CAH
-Vol. I.2) and forward into CAH Vol. II; the Levantine and Anatolian threads are
-moderate and archaeological. The wider comparative MBA awaits later volumes and
-monographs.
+The **Mari archive** is the great methodological gift of the period: by showing
+[[hammurabi|Hammurabi]] through unflattering foreign eyes it **deflated** the older
+image of a world-conqueror and revealed the [[interpolity-law|multipolar balance of
+power]] — a textbook case of documentary discovery overturning a reputation. The
+period's chronology is also notoriously unsettled: the **date of the
+[[fall-of-babylon-1595bce|Hittite sack of Babylon]]** anchors the whole second
+millennium, and the **high/middle/low [[mesopotamian-chronology|chronology]]** debate
+(turning on Ammiṣaduqa's "Venus tablets") remains open; this wiki follows the middle
+chronology used by CAH.
+
+**Collection coverage.** Now strong for Mesopotamia, Egypt and the Aegean through
+**[[edwards-cah-v2p1-1973|CAH Vol. II.1]]**, alongside CAH Vol. I.2; the Levantine
+and Anatolian threads are moderate and archaeological. The **rest of the Middle
+Bronze backbone (CAH Vols. II.2–IV) is missing from the collection** — a sourcing
+gap; see [[../../Outstanding Sources|Outstanding Sources]].
 
 ## Related
 
 - Periods: [[early-bronze-age]] · [[late-bronze-age]]
-- States: [[middle-kingdom-egypt]] · [[third-dynasty-of-ur|Third Dynasty of Ur]] · [[amorites]]
-- Events: [[reunification-of-egypt-2040bce]] · [[gutian-invasion]] · Process: [[first-intermediate-period]]
-- People: [[mentuhotpe-ii]] · [[senwosret-iii]]
-- Places: [[byblos]] · [[mari]] · [[jericho]] · [[kultepe]] · [[ashur]] · [[ur]] · [[lerna]]
-- People: [[shamshi-adad-i]] · [[amorites]]
-- Process: [[old-assyrian-trade]] · [[early-bronze-age-anatolia]] · [[early-bronze-age-aegean]] · [[early-bronze-age-levant]] · [[indo-european-migrations]] · [[trade-network-formation]]
-- Event: [[coming-of-the-greeks-1900bce]] · Concept: [[assyrian-king-list]] · Controversy: [[indo-european-origins]]
+- States: [[middle-kingdom-egypt]] · [[third-dynasty-of-ur|Third Dynasty of Ur]] · [[babylon-first-dynasty]] · [[iamkhad]] · [[elam]] · [[amorites]] · [[hurrians]] · [[kassites]]
+- People: [[hammurabi]] · [[zimri-lim]] · [[shamshi-adad-i]] · [[mentuhotpe-ii]] · [[senwosret-iii]]
+- Events: [[reunification-of-egypt-2040bce]] · [[gutian-invasion]] · [[fall-of-babylon-1595bce]] · [[coming-of-the-greeks-1900bce]]
+- Places: [[byblos]] · [[mari]] · [[susa]] · [[jericho]] · [[kultepe]] · [[ashur]] · [[ur]] · [[lerna]]
+- Process: [[old-assyrian-trade]] · [[first-intermediate-period]] · [[early-bronze-age-anatolia]] · [[early-bronze-age-aegean]] · [[early-bronze-age-levant]] · [[indo-european-migrations]] · [[trade-network-formation]]
+- Concept: [[interpolity-law]] · [[mesopotamian-chronology]] · [[assyrian-king-list]] · Controversy: [[indo-european-origins]]
+- Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v1p2-1971]]

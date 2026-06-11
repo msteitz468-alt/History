@@ -6,10 +6,10 @@ date_end: ~1650 BCE (end of the Thirteenth Dynasty / Hyksos)
 period: [Middle Bronze Age]
 region: [north-africa, levant]
 affiliated_with: []
-opposed_by: [Lower Nubia / Kush, the Asiatic Amu, the Libyans]
+opposed_by: [Lower Nubia / Kush, the Asiatic Amu, the Libyans, the [[hyksos|Hyksos]]]
 key_events: [[[reunification-of-egypt-2040bce]]]
-key_processes: [[[state-formation]], [[first-intermediate-period]], [[trade-network-formation]]]
-sources_ingested: 1
+key_processes: [[[state-formation]], [[first-intermediate-period]], [[second-intermediate-period]], [[trade-network-formation]]]
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, middle-bronze-age, north-africa]
 ---
@@ -96,9 +96,18 @@ the *Shipwrecked Sailor*, the *Satire of the Trades*, and the great *Instruction
 
 ## Decline
 
-After Amenemhat III the dynasty weakened; the **Thirteenth Dynasty** saw rapid royal
-turnover, and the influx of Asiatic settlers in the Delta culminated in the
-**Hyksos** ascendancy and the Second Intermediate Period (CAH Vol. II).
+After Amenemhat III the line ended with **Amenemhat IV** and the female pharaoh
+**Sobekneferu** (the "virtual end of a great epoch"). CAH Vol. II.1 (Hayes) shows
+the **Thirteenth Dynasty** (~1786–1633) was not the chaos once imagined: ~50–60
+short-reigned, often non-hereditary kings (many "puppets" of a powerful line of
+viziers, the family of **Ankhu**) still maintained a single central government from
+Itj-towy, recorded Nile-levels at Semna, and were acknowledged as overlords at
+[[byblos|Byblos]]. But royal instability, the secession of a parallel
+**Fourteenth Dynasty** at Xois, and the swelling Asiatic population of the Delta
+(one Theban official's household alone held 45 named "Asiatics") eroded it. The
+occupation of Avaris (~1720) and then of Memphis (~1674) by the **[[hyksos|Hyksos]]**
+broke the kingdom apart, opening the **[[second-intermediate-period|Second
+Intermediate Period]]**.
 
 ## Historiography
 
@@ -113,4 +122,6 @@ edges (the length of co-regencies). See [[cambridge-ancient-history-methodology]
 - Preceded by: [[first-intermediate-period]] ← [[old-kingdom-egypt]] · Period: [[middle-bronze-age]]
 - Place: [[byblos]] · [[memphis]] · Concept: [[divine-kingship]]
 - Contemporary: [[mesopotamian-chronology|Third Dynasty of Ur]] · [[amorites]] · Process: [[trade-network-formation]]
+- Followed by: [[second-intermediate-period]] → [[hyksos]] → [[new-kingdom-egypt]]
 - Analogous to: [[old-kingdom-egypt]] (the prior classic age it consciously revived)
+- Source: [[edwards-cah-v2p1-1973]] (Ch. II) · [[edwards-cah-v1p2-1971]] (Chs. XX–XXI)

@@ -7,9 +7,9 @@ period: [Early Bronze Age, Middle Bronze Age]
 region: [iran-plateau, near-east]
 affiliated_with: []
 opposed_by: [[[akkadian-empire]], [[third-dynasty-of-ur]], Mesopotamia generally]
-key_events: [[[fall-of-ur-2004bce|the Elamite sack of Ur]]]
+key_events: [[[fall-of-ur-2004bce|the Elamite sack of Ur]], defeat by [[hammurabi|Hammurabi]] (~1764 BCE), Kutir-Nahhunte I's sack of Akkad (~1730 BCE)]
 key_processes: [[[state-formation]], [[trade-network-formation]], [[writing-and-record-keeping]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, early-bronze-age, middle-bronze-age, iran-plateau]
 ---
@@ -68,7 +68,36 @@ Elam took its **revenge** at the collapse of the [[third-dynasty-of-ur|Third
 Dynasty of Ur]]: a king of Simashki led the [[fall-of-ur-2004bce|Elamite sack of
 Ur]] (~2004 BCE), carrying **Ibbi-Sin captive to Anshan** and the statue of the
 Moon-god away — "the desolation of Ur" lamented in Sumerian poetry. Elam thereafter
-entered its powerful **sukkalmah** ("grand regent") period (CAH Vol. II).
+entered its powerful **sukkalmaḫ** ("grand regent") period.
+
+## The Sukkalmaḫ (Eparti) dynasty, c. 1850–1520 BCE
+
+CAH Vol. II.1 (Hinz) reconstructs the **Eparti dynasty** of "Grand Regents"
+(*sukkalmaḫ*) almost entirely from ~830 Akkadian legal and commercial tablets from
+[[susa|Susa]] — there is no archaeology and only one Elamite-language royal text
+from the whole millennium. Its hallmark is a unique **federal triumvirate and
+fratriarchal succession**: power was shared among the **Grand Regent** (overlord, at
+Susa), a **Regent/viceroy** (his next brother, "of Elam and Simashki"), and the
+**Prince of Susa** (the overlord's eldest son) — and the throne passed **not to the
+son but to the next brother.** Combined with **brother–sister marriage** and the
+levirate, this produced a high mortality (probably from incest) that kept breaking
+the line. A **"gracious mother"** (the dynasty's ancestress, Shilhaha's sister) gave
+legitimacy in the female line; once she even ruled Susa officially.
+
+Key rulers: **Eparti** (the usurper-founder, the only Eparti king ever deified, who
+briefly styled himself "King of Anshan and Susa," asserting independence from
+Babylon); **Shilhaha** (remembered as true founder); **Attahushu**, prince of Susa,
+a great builder who set up a "**Stele of Righteousness**" with fixed prices in the
+market — one of the law-monuments that put [[hammurabi|Hammurabi's]] Code in context;
+**Siwe-palar-huppak**, who joined the coalition crushed by Hammurabi in ~1764 (after
+which Elam "withdrew from the political scene of Mesopotamia"); and **Kutir-Nahhunte
+I**, who ~1730 **sacked Akkad and carried off the goddess Nanai to Susa** — an
+outrage **[[ashurbanipal|Ashurbanipal]]** still avenged over a thousand years later
+by bringing her statue home to Uruk. Through the period Susiana was heavily
+**Akkadized** (Akkadian was the official language and the Code of Hammurabi held some
+force there), confirming that Babylonia, "on the whole, kept the upper hand." After
+~1595 a "**Kassite darkness**" descends; the dynasty fades by ~1520, and Elam
+re-emerges only with the "classical" Middle Elamite period ~1300.
 
 ## Religion and language
 
@@ -102,5 +131,7 @@ records of their wars and treaties. See [[cambridge-ancient-history-methodology]
 
 - Place: [[susa]] · Opposed: [[akkadian-empire]] · [[third-dynasty-of-ur]] · Event: [[fall-of-ur-2004bce]]
 - Treaty with: [[naram-sin]] · subordinated by: [[sargon-of-akkad]] · [[shulgi]]
+- MBA rival/coalition partner against: [[hammurabi]] · later avenged by: [[ashurbanipal]]
 - Process: [[trade-network-formation]] · [[writing-and-record-keeping]] · Period: [[early-bronze-age]] · [[middle-bronze-age]]
-- Region: [[iran-plateau]] · Concept: [[sumerian-king-list]]
+- Region: [[iran-plateau]] · Concept: [[sumerian-king-list]] · [[interpolity-law]]
+- Source: [[edwards-cah-v2p1-1973]] (Ch. VII) · [[edwards-cah-v1p2-1971]] (Ch. XXIII)

@@ -11,6 +11,35 @@ Format:
 
 ---
 
+## 2026-06-11 section | CAH Vol. II, Part 1 (1973) | Section 3: The Levant & the Amarna international system (Chs. III, X, XI) | Late Bronze Age | levant, near-east, mesopotamia | Pages created: 4 | Pages updated: 1
+
+Created `mitanni` (the Hurrian–Indo-Aryan fourth great power, the maryannu chariotry),
+`ugarit`, `alalakh` (Idrimi; level VII/IV), and `canaanite-civilization` (Kenyon's
+second urbanization → the alphabet); updated `byblos`. Also converted three further
+CAH EPUBs the user supplied — Vol. II.2, III.3, and IV — to Markdown and queued them
+in raw/Markdown (III.1 and III.2 still missing from the collection). The Amarna-system
+and Late Bronze Age period pages are deferred to the synthesis pass / CAH II.2.
+
+## 2026-06-11 section | CAH Vol. II, Part 1 (1973) | Section 2: Egypt — the SIP, the Hyksos & the early New Kingdom (Chs. II, VIII, IX) | Middle–Late Bronze Age | north-africa, levant | Pages created: 10 | Pages updated: 1
+
+Egyptian thread from the fall of the Middle Kingdom to the death of Amenophis III.
+Created `second-intermediate-period`, `hyksos`, `avaris`, `new-kingdom-egypt`,
+`ahmose-i`, `hatshepsut`, `thutmose-iii`, `amenhotep-iii`, `amun-priesthood`,
+`thebes`; updated `middle-kingdom-egypt`. The Late Bronze Age period page is held for
+the volume's synthesis pass.
+
+## 2026-06-11 section | CAH Vol. II, Part 1 (Edwards, Gadd, Hammond & Sollberger, eds., 1973) | Section 1: Mesopotamia, the Amorites & Hammurabi (Chs. I, V, VII) | Middle Bronze Age | mesopotamia, near-east, iran-plateau | Pages created: 7 | Pages updated: 5
+
+Began the Large-Volume ingest of CAH Vol. II.1 (the missing Bronze-Age backbone
+volume, sourced as an EPUB and converted to Markdown). Section 1 created
+`hammurabi`, `zimri-lim`, `iamkhad`, `hurrians`, `kassites`, `babylon-first-dynasty`,
+and `events/fall-of-babylon-1595bce`; updated `shamshi-adad-i`, `amorites`, `elam`,
+`mari`, and `periods/middle-bronze-age`. Established the Mari-age balance of power,
+the deflation of Hammurabi, the Elamite Sukkalmaḫ dynasty, and the ~1595 BCE Hittite
+sack of Babylon → Kassite takeover.
+
+## 2026-06-11 admin | Pushed completed CAH Vol. I.2 ingest (Sections 9–10 + volume close-out) to GitHub (git@github.com:msteitz468-alt/History.git); raw/ remains gitignored.
+
 ## 2026-06-11 ingest-complete | The Cambridge Ancient History Vol. I, Part 2: Early History of the Middle East (Edwards, Gadd & Hammond, eds., 1971) | Total pages created: 46 | Total pages updated: 9 | Sections processed: 10
 
 Large-Volume Protocol complete. Ten section cycles covering Egypt (Early Dynastic →

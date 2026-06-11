@@ -6,8 +6,8 @@ coordinates: ~34.12°N, 35.65°E
 period_active: [Neolithic, Chalcolithic, Early Bronze Age, Middle Bronze Age, Late Bronze Age, Iron Age, Classical Antiquity]
 controlled_by: [local Byblite rulers, Egyptian sphere of influence]
 events_here: []
-processes_here: [[[trade-network-formation]], [[early-bronze-age-levant]]]
-sources_ingested: 1
+processes_here: [[[trade-network-formation]], [[early-bronze-age-levant]], [[canaanite-civilization]]]
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, levant, near-east, early-bronze-age]
 ---
@@ -67,6 +67,17 @@ sovereigns and Egyptian officials." Whether the pharaohs' gifts went to a friend
 power or a vassal is exactly what the sources will not say; the Execration Texts
 proscribe the *region* of Byblos but pointedly **not its princes**.
 
+## The hearth of Canaanite urban civilization
+
+CAH Vol. II.1 (Kenyon) makes Byblos the **likely originator of the Middle Bronze
+[[canaanite-civilization|Canaanite]] urban revival** (~1900 BCE). After the
+non-urban [[amorites|Amorite]] interlude, the new red-burnished, metal-imitating
+pottery and the short broad-shouldered daggers that define Canaanite material culture
+have their **typological ancestors in the Byblos foundation deposits** (the
+metalwork and the bronze prototype-bowls). From Byblos and the north-Syrian coast,
+small groups carried the new urban culture south into Palestine — making Byblos not
+just an Egyptian dependency but the **cradle of the Canaanite city-state world**.
+
 ## Why this place mattered
 
 Byblos is the eastern Mediterranean's premier emporium and the fixed point of the
@@ -77,7 +88,8 @@ layers, badly blurring its stratigraphic history.
 
 ## Related
 
-- Places: [[mari]] · [[memphis]] · [[jericho]] (the Levantine world)
+- Places: [[mari]] · [[memphis]] · [[jericho]] · [[ugarit]] · [[alalakh]] (the Levantine world)
 - States: [[old-kingdom-egypt]] · [[early-dynastic-egypt]] · [[middle-kingdom-egypt]]
-- Process: [[trade-network-formation]] · [[early-bronze-age-levant]]
+- Process: [[trade-network-formation]] · [[early-bronze-age-levant]] · [[canaanite-civilization]]
 - Period: [[early-bronze-age]] · [[middle-bronze-age]] · People: [[amorites]] · [[senwosret-iii]]
+- Source: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v1p2-1971]]

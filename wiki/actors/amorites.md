@@ -9,7 +9,7 @@ affiliated_with: []
 opposed_by: [[[akkadian-empire]], [[mesopotamian-chronology|Third Dynasty of Ur]], [[middle-kingdom-egypt|Egypt]]]
 key_events: [[[gutian-invasion|pressure on Akkad and Ur III]]]
 key_processes: [[[migration-in-human-history]], [[pastoral-nomadism]], [[state-formation]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, movement, early-bronze-age, middle-bronze-age, levant, mesopotamia]
 ---
@@ -74,6 +74,45 @@ Middle Kingdom call the Asiatics they dealt with the *Amu* — the wretched
 nomad-Asiatic of the [[first-intermediate-period|*Instruction for Merykare*]] and
 the Amu chieftain Abisha painted at Beni Hasan.
 
+## The nomads of the Mari archive
+
+CAH Vol. II.1 (Kupper) gives, from the [[mari|Mari]] letters, the most detailed
+picture in the wiki of the [[middle-bronze-age|Middle Bronze Age]] tribal world of
+the middle Euphrates and Upper Mesopotamia. These were **semi-nomads, not true
+nomads** — the camel was still unknown, so the herdsmen were **sheep-rearers** who
+could not stray far from the rivers and returned to the valleys at seedtime and
+harvest, "gradually allowing themselves to become rooted to the soil" even as new
+groups formed behind them. The named groups:
+
+- **Benjaminites** (better "Iaminites," "sons of the south") — a vast confederation
+  along the Euphrates and around Harran; chronically hostile to [[zimri-lim|
+  Zimri-Lim]], raiding towns and provoking insurrections (he massacred their leaders
+  at Saggaratum). One of their tribes, the **Amnanu**, produced Sin-kashid, founder
+  of a dynasty at Uruk.
+- **Bensim'al** ("sons of the north") — the friendlier counterpart group.
+- **Sutians** — the plunderers of the Syrian desert west of the Euphrates, raiding
+  as far as Palmyra and Qatna, sometimes 2,000 strong.
+- **Khanaeans (Hana)** — the tribe most bound up with Mari, **soldiers by
+  profession** settled on palace-granted land in the Terqa district, manning
+  garrisons and serving in every campaign; their name came to stand for "the
+  Westerners" of the kingdom generally, and gave its name to the later land of Khana.
+- **Habiru** — not an ethnic group but **bands of "free companions"** (brigands and
+  mercenaries) who plundered towns or fought for the petty kings; the Mari evidence
+  (a Sutian and Iamutbal men called Habiru) shows the term was **descriptive, not
+  ethnic** — an important early datum in the long [[unknown|Habiru/Hebrew]] debate.
+
+The picture is the enduring tension of **steppe and sown**: "the struggle between
+nomads and settlers, having its origins in physical conditions, could never cease."
+
+## The Mari-age state system
+
+The settled Amorite kings — at [[mari|Mari]], [[iamkhad|Aleppo/Yamhad]], Qatna,
+Eshnunna, Larsa, Assyria ([[shamshi-adad-i|Shamshi-Adad I]]), and Babylon
+([[hammurabi|Hammurabi]]) — formed a **multipolar diplomatic world** of roughly
+equal powers, captured in the Mari letters' famous "no king is mighty by himself"
+report (see [[interpolity-law]]). Amorite political dominance thus underlies not
+just the dynasties but the whole interstate order of the early second millennium.
+
 ## Significance
 
 The Amorites are the clearest early case in the wiki of the recurring Near Eastern
@@ -99,6 +138,8 @@ the steppe-vs-town framing itself, remain debated. See
 ## Related
 
 - Opposed: [[akkadian-empire]] · [[third-dynasty-of-ur]] · [[middle-kingdom-egypt|Egypt (the Amu)]]
+- Dynasties: [[babylon-first-dynasty]] · [[shamshi-adad-i|Assyria]] · [[zimri-lim|Mari]] · [[iamkhad|Yamhad]] · King: [[hammurabi]]
+- The other "outsider" stream: [[hurrians]] · Concept: [[interpolity-law]] · [[city-state]]
 - Event: [[gutian-invasion]] · [[fall-of-ur-2004bce]] · Place: [[mari]] · Process: [[migration-in-human-history]] · [[pastoral-nomadism]]
-- Period: [[early-bronze-age]] → [[middle-bronze-age]] · Concept: [[city-state]]
+- Period: [[early-bronze-age]] → [[middle-bronze-age]] · Source: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v1p2-1971]]
 - Analogous to: later steppe-to-city movements (Aramaeans, Chaldeans)
