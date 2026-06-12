@@ -9,7 +9,7 @@ affiliated_with: [the many Thracian tribes (Getae, Triballi, Odrysae, Bisaltae, 
 opposed_by: [the Macedonians (in the west), at times the [[scythians|Scythians]] and Cimmerians, later Persia]
 key_events: [the Cimmerian passage through the Balkans, Greek colonization of the coast, the Macedonian conquest of Lower Thrace, the Persian entry under Darius (c. 513)]
 key_processes: [tribal consolidation, [[greek-colonization|Greek colonization]] of the coast, the exploitation of the Pangaeum gold and silver]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, movement, archaic-period, balkans]
 ---
@@ -87,8 +87,20 @@ The flowering of Thrace, he concludes, **began only at the end of the sixth cent
 coinciding with **Persian interest in Europe** — Darius's Scythian expedition (c. 513) —
 which is reserved for CAH IV.
 
+## The Odrysian kingdom and the fall to Macedon (CAH VI)
+
+[[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 9e, Archibald) carries the Thracians into their
+period of greatest political power, the **[[odrysian-kingdom|Odrysian Kingdom]]** founded by
+**Teres** (c. 470) and extended by **Sitalces** from the Aegean to the Danube. Enriched by
+the **Pangaeum** mines and the north-Aegean trade, allied with [[athens]] (431) and ruled in
+the fourth century by **Cotys I**, the Odrysian state was the dominant native power of the
+southern Balkans — until **[[philip-ii-of-macedon|Philip II of Macedon]]** subjected it in
+the 340s, absorbing its silver and manpower. To the north the **Scythian** king Atheas, the
+**Triballi** and the **Getae** remained beyond Macedonian control. See
+[[odrysian-kingdom]] for the dynastic narrative.
+
 ## Related
 
 - Neighbours: [[scythians]] (overlords of some Thracian forest-steppe peoples) · [[cimmerians]] · Macedonia
-- Coast: [[greek-colonization]] · Metals: Mt Pangaeum · Later state: the Odrysian kingdom
-- Period: [[early-iron-age]] → [[archaic-period]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 33b, Mihailov)
+- Coast: [[greek-colonization]] · Metals: Mt Pangaeum · Later state: [[odrysian-kingdom|the Odrysian kingdom]] · conqueror: [[philip-ii-of-macedon]]
+- Period: [[early-iron-age]] → [[archaic-period]] → [[classical-antiquity]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 33b, Mihailov) · [[lewis-cah-v6-1994|CAH VI]] (Ch. 9e, Archibald)

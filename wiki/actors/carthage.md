@@ -9,7 +9,7 @@ affiliated_with: [[[phoenicians|Tyre]] (mother-city), the western Phoenician col
 opposed_by: [the western Greeks (Syracuse), later [[roman-republic|Rome]]]
 key_events: [the traditional foundation by Elissa/Dido (814), Malchus's Sardinian campaign (c. 550), the treaties with Rome (509, 348)]
 key_processes: [[[phoenician-colonization|Phoenician colonization]], [[trade-network-formation]], the Greco-Punic conflict in Sicily]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, north-africa, mediterranean]
 ---
@@ -134,10 +134,34 @@ imported datable **Greek (Proto-Corinthian) pottery** in the oldest tombs. Inscr
 and coins, both late, "throw little light" on early Carthage. The image of early
 Carthaginian "kings" he corrects to elected suffetes.
 
+## The Magonid empire and the Sicilian wars (CAH VI)
+
+[[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 9a, G. Ch. Picard) carries Carthage through the
+"crucial" fifth and fourth centuries, when the Tyrian colony became a great power: it
+expanded its **African territory** to some 30,000 sq km (equal to Rome's c. 300 BCE) and
+held an **empire of the seas** across the western Mediterranean. Internally it shifted from
+**monarchy to a complex aristocratic regime** of **suffetes (*šofeṭīm*)** and a senate
+(Aristotle praised the Carthaginian "constitution"; Polybius traced its evolution toward
+"immoderate democracy"). Its civic religion centred on **Tanit** and **Ba'al Hammon**, and
+the **tophet** of Salammbô — the precinct of **child sacrifice** — yields hundreds of
+fourth-century votive stelae; tellingly, **Demeter and Kore** were borrowed from the Greeks
+"at the very moment of the most intense struggle between the two cultures."
+
+That struggle was the wars with the **Sicilian Greeks**. After the catastrophe at
+**[[battle-of-himera-480bce|Himera]]** (480), Carthage returned under the Magonids to
+devastate Selinus, Himera and Acragas (409–406) — the crisis that raised
+**[[dionysius-i|Dionysius I]]** to power in Syracuse. The two powers then fought four wars:
+Dionysius destroyed the Punic stronghold of **Motya** (396, replaced by Lilybaeum), and the
+frontier stabilized roughly along the **Halycus river**, dividing Punic western Sicily from
+the Greek east. This Greco-Punic balance — punctuated later by **[[timoleon]]'s** victory at
+the Crimisus (341) and **Agathocles' invasion of Africa** (310) — defined Sicilian history
+down to the Roman conquest.
+
 ## Related
 
 - Mother-city: [[tyre]] · People: [[phoenicians]] · Process: [[phoenician-colonization]]
 - Far-western kin: [[gades-tartessos]] · Period: [[archaic-period]]
 - Greek rivals: [[magna-graecia]] · [[syracuse]] · [[gelon]] (Himera) · ally: [[etruscans]] (Alalia)
 - Conflict: [[battle-of-himera-480bce]] · phenomenon: [[western-greek-tyranny]] · Elymians/Motya
-- Later enemy: [[roman-republic]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 32, Culican) · [[boardman-cah-v3p3-1982]] (Ch. 38, Graham) · [[boardman-cah-v4-1988]] (Ch. 16, Asheri)
+- Fourth-century wars: [[dionysius-i]] (destruction of Motya) · [[syracuse]] · [[timoleon]] (Crimisus 341) · the tophet (Tanit, Ba'al Hammon)
+- Later enemy: [[roman-republic]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 32, Culican) · [[boardman-cah-v3p3-1982]] (Ch. 38, Graham) · [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[lewis-cah-v6-1994|CAH VI]] (Ch. 9a, Picard)

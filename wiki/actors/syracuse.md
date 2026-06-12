@@ -8,8 +8,8 @@ region: [italy, mediterranean]
 affiliated_with: [Corinth (mother-city), the Deinomenid tyrants, the Syracusan-Acragantine bloc]
 opposed_by: [[[carthage|Carthage]], rival Sicilian Greek cities, its own deported and enslaved populations]
 key_events: [the expulsion of the gamoroi and annexation by [[gelon|Gelon]] 485 BCE, battle of [[battle-of-himera-480bce|Himera]] 480 BCE]
-key_processes: [[[western-greek-tyranny]], [[urbanization]], forced population transfer]
-sources_ingested: 2
+key_processes: [[[western-greek-tyranny]], [[urbanization]], forced population transfer, territorial monarchy]
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, classical-antiquity, italy]
 ---
@@ -95,6 +95,22 @@ annihilated the greatest armament Athens ever sent out, the turning point of the
 [[peloponnesian-war|Peloponnesian War]]. Thucydides judged the Syracusans the opponents
 "closest in character to the Athenians," and so the ones who "fought best against them."
 
+## Dionysius I and the territorial monarchy (CAH VI)
+
+[[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 5, Lewis) carries Syracuse into its greatest age of
+power under **[[dionysius-i|Dionysius I]]** (tyrant 405–367). Out of the terror of the
+**Carthaginian invasion** that destroyed Selinus, Himera and Acragas (409–406), Dionysius
+seized sole power and built from Syracuse the **largest state in the Greek world** — a
+**territorial monarchy** held by a professional mercenary army, ruled under the
+geographical title **archon of Sicily**. He made Syracuse the best-fortified city in the
+Greek world (the walling of **Epipolae** and the fortress of **Euryalus**), and its
+workshops produced the first **catapults** and **quinqueremes**. He fought four wars
+against **[[carthage]]** (destroying **Motya**, 396), sacked **Rhegium** (387), and drew
+**Plato** to a court that "prefigures the Hellenistic period." On his death (367) the
+empire passed to his son **[[dionysius-ii|Dionysius II]]**, opening the era of **Dion** and
+**Timoleon** (see [[dion-of-syracuse]], [[timoleon]]). Syracuse is thus the wiki's prime
+case of the fourth-century drift from polis to **monarchy**.
+
 ## Counterfactual significance
 
 Gelon's Syracuse set the enduring pattern of Sicilian history: a **single dominant
@@ -123,4 +139,5 @@ golden age must be set against its foundation in **conquest, deportation and sla
 - Victory: [[battle-of-himera-480bce]] · phenomenon: [[western-greek-tyranny]] · arena: [[magna-graecia]]
 - Process: [[urbanization]] · [[city-state]] · Period: [[classical-antiquity]]
 - Fifth century: [[hiero-i]] · [[battle-of-cumae-474bce]] · [[ducetius]] · [[western-greek-tyranny]]
-- Sources: [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[boardman-cah-v3p3-1982]] (Ch. 38, Graham, the colonial city) · [[lewis-cah-v5-1992|CAH V]] (Ch. 7, Asheri)
+- Fourth century: [[dionysius-i]] · [[dionysius-ii]] · [[carthage]] · [[dion-of-syracuse]] · [[timoleon]]
+- Sources: [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[boardman-cah-v3p3-1982]] (Ch. 38, Graham, the colonial city) · [[lewis-cah-v5-1992|CAH V]] (Ch. 7, Asheri) · [[lewis-cah-v6-1994|CAH VI]] (Ch. 5, Lewis)

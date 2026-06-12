@@ -55,7 +55,7 @@ the Large-Volume Protocol. The senior editor (Lewis) is shared with Vol. V, henc
 | 2 | corinthian-war-395bce, kings-peace-386bce, conon, artaxerxes-ii, second-athenian-confederacy, liberation-of-thebes-379bce, battle-of-leuctra-371bce (7) | athens, peloponnesian-league (2) |
 | 3 | thebes-hegemony-371bce, epaminondas, pelopidas, liberation-of-messenia-369bce, battle-of-mantinea-362bce (5) | hoplite-warfare (1) |
 | 4 | mausolus, revolt-of-the-satraps-366bce, evagoras-of-salamis, judah, late-period-egypt (5) | cyprus, saite-egypt (2) |
-| 5 | | |
+| 5 | dionysius-i, bosporan-kingdom, odrysian-kingdom, celts (4) | syracuse, carthage, thracians (3) |
 | 6 | | |
 | 7 | | |
 | 8 | | |
