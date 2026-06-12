@@ -14,7 +14,7 @@ scale_immediate: global
 scale_consequential: global
 causes: [the structural exhaustion of the Soviet system, the costs of superpower competition, reform and its unintended consequences]
 consequences: [the unipolar moment, the spread of the nation state to the former Soviet space, hyper-globalization, the East Asian ascent]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-10
 tags: [event, transition, contemporary]
 ---

@@ -5,7 +5,7 @@ date_range: 1991–present
 regions_covered: [global]
 major_themes: [globalization, the climate crisis, the East Asian ascent, post-Cold-War order, renewed mass migration, demographic deceleration, digital connection]
 collection_coverage: weak
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-10
 tags: [period]
 ---
@@ -94,10 +94,12 @@ genuinely open: 1989/1991, 2001, and 2008 all have advocates as sub-period break
 
 ## Collection Coverage Note
 
-**Weak.** This page rests on [[mcneill-cwh-v7-2015|CWH VII Book 1]] alone, and on a
+**Weak, improving.** This page rests on [[mcneill-cwh-v7-2015|CWH VII Book 1]] and on a
 2015 vantage that predates much of what now defines the period. Coverage is
 structural and thematic (energy, climate, demography, the East Asian ascent), with
-no event-level pages and no post-2015 material at all. CWH VII **Book 2 is absent
-from the collection**. This is the wiki's thinnest and most recent period and a
-standing sourcing priority; confident narrative should not be written here beyond
-what the long-run structural sources support.
+no event-level pages. It is now supplemented on its European side by
+**[[judt-postwar|Judt's *Postwar*]]** (to 2005) and globally by [[westad-cold-war|Westad]]
+and [[roberts-westad-penguin-history-world|Roberts & Westad]]; CWH VII **Book 2 remains
+absent**. This is still the wiki's thinnest and most recent period and a standing
+sourcing priority; confident narrative should not be written here beyond what the
+long-run structural sources support.
