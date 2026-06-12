@@ -65,5 +65,6 @@ to be thrown off (the seed of the **[[reconquista|Reconquista]]** ideology).
 
 The Latin sources for [[leovigild|Leovigild]], Reccared and the [[third-council-of-toledo-589|Third
 Council of Toledo]]; for the [[umayyad-conquest-of-hispania-711|Umayyad conquest of Hispania (711)]] and
-the rise of [[al-andalus|al-Andalus]]; and the prehistory of the [[reconquista|Reconquista]]. Isidore of
-Seville also features in [[edwards-constantine-and-christendom|the late-antique Latin tradition]].
+the rise of [[al-andalus|al-Andalus]]; and the prehistory of the [[reconquista|Reconquista]]. On
+**[[isidore-of-seville|Isidore of Seville]]** (author of the *History of the Goths* here) see also his
+*[[kendall-wallis-isidore-of-seville|On the Nature of Things]]*.

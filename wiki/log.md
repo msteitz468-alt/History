@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | Isidore of Seville, On the Nature of Things (TTH 66; trans./intro Kendall & Wallis) | Late Antiquity, Early Middle Ages | iberia, mediterranean | Pages created: 2 | Pages updated: 1
+
 ## 2026-06-12 ingest | The Acts of the Lateran Synod of 649 (TTH 61; trans./intro Price, Booth & Cubitt) | Early Middle Ages | italy, anatolia, mediterranean | Pages created: 2 | Pages updated: 2
 
 ## 2026-06-12 ingest | Theophilus of Edessa's Chronicle (TTH 57; reconstruction/trans. Hoyland) | Late Antiquity, Early Middle Ages | near-east, mesopotamia, levant | Pages created: 2 | Pages updated: 2
