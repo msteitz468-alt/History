@@ -122,3 +122,34 @@ The thesis: the late-Roman economy shows **continuity, adaptation and regional v
 empire-wide collapse** — the loss was of **central fiscal control**, not of production.
 
 - Source (fourth century): [[cameron-cah-v13-1998]] (Chs. 9–10, C. R. Whittaker & Peter Garnsey)
+
+## Update — specialized production, exchange, and decline (425–600, CAH XIV)
+
+[[cameron-cah-v14-2000|CAH XIV]] (Ward-Perkins, Ch. 13; plus Ch. 12 on land and settlement) studies the
+late and post-Roman economy primarily through **archaeology** — and reaches conclusions sharper than the
+fourth-century continuity thesis above. The methodological key is **pottery** (especially African Red Slip
+tableware and amphorae for oil and wine): everyday, breakable, indestructible in the soil, datable and
+sourceable, it serves as an **index of economic complexity**. Where pottery was sophisticated and
+widely traded — reaching even poor inland villages — other (archaeologically invisible) industries were
+probably equally developed; where it was crude and local, the wider economy was too.
+
+- **A genuinely sophisticated Roman economy.** Against minimalist "primitivism," Ward-Perkins argues the
+  Roman Mediterranean had a **large market of discerning consumers** served by specialized regional
+  industries and long-distance trade — a complexity beyond mere luxury exchange or state demand. **Regional
+  prosperity** (the Syrian limestone massif's olive boom, African oil, Gaza wine) is best explained by
+  **overseas commerce** large enough to enrich exporting regions, layered on top of (not replacing) the
+  state's redistributive spending on army and capitals.
+- **The state's role.** Taxation, the *annona*, and the concentration of court and army (Trier, Sirmium,
+  Antioch) moved vast wealth — "huge piles of gold" raised in the peaceful interior and spent on the
+  frontiers. The **fifth–sixth-century changes to this fiscal redistribution** mattered enormously.
+- **Marked decline — and its regional unevenness.** Ward-Perkins's central finding is that **specialized
+  production and exchange declined markedly**, and that the **West fell furthest** — in places reverting to
+  "a pattern of economic life simpler and more basic," an economy of "only the most basic production"
+  (local, hand-made pottery; the disappearance of coin from everyday use). The **East stayed complex and
+  prosperous far longer**, into the seventh century — the economic face of the [[eastern-roman-empire-425-518|East–West
+  divergence]]. This is the empirical core of Ward-Perkins's later "**end of civilization**" argument:
+  the post-Roman West suffered not just political fragmentation but a **collapse of material complexity**.
+
+Source: [[cameron-cah-v14-2000]] (Chs 12–13, Bryan Ward-Perkins). Note the deliberate **contrast** with the
+continuity-leaning fourth-century reading above — a live scholarly tension between the "transformation" and
+"decline" schools of late antiquity.
