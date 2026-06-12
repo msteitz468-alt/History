@@ -5,7 +5,7 @@ date_range: 1800–1914 CE
 regions_covered: [global, western-europe, north-america, east-asia, south-asia, africa, latin-america, near-east, pacific]
 major_themes: [industrialization, fossil-fuel energy transition, the new imperialism, nationalism, mass migration, abolition, the demographic transition, global market integration]
 collection_coverage: moderate
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-10
 tags: [period]
 ---

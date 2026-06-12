@@ -8,7 +8,7 @@ region: [global]
 process_type: [political, economic, ideological]
 driven_by: [[[industrialization]], inter-state competition, [[fossil-fuel-energy-transition|new transport and military technology]], capitalist demand for raw materials and markets, ideologies of civilization and race]
 produces: [the New Imperialism / scramble for Africa, colonial states, [[decolonization]], modern globalization, post-colonial inequalities]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [process, long-19th-century, global]
 ---
@@ -104,3 +104,9 @@ and into the colonial archives from which the discipline of history itself emerg
 [[nationalism]] · [[self-strengthening]] · [[decolonization]] · [[genocide]] ·
 [[industrialization]] · [[eurocentrism]] · [[atlantic-slave-trade]] ·
 [[long-19th-century]] · [[united-states]]
+
+The classic interpretation linking the **New Imperialism** to late-nineteenth-century capitalism is now
+ingested as **[[hobsbawm-age-of-empire|Hobsbawm, *The Age of Empire 1875–1914*]]**; for the human cost
+and the colonial production of famine see **[[davis-late-victorian-holocausts|Davis, *Late Victorian
+Holocausts*]]** and **[[hochschild-king-leopolds-ghost|Hochschild, *King Leopold's Ghost*]]**; for the
+critique of imperial knowledge, **[[said-orientalism|Said's *Orientalism*]]**.
