@@ -122,3 +122,32 @@ claims in Armenia. Renewed friction under [[valentinian-and-valens|Valens]] over
 **partition of Armenia (c. 387)** between Rome and Persia — and thereafter a remarkably **stable peace**
 (the embassies of Anthemius/Marutha to Yezdegerd I; the Persian Christians' synod of 410), the eastern
 frontier ceasing to be Rome's chief worry while the West fragmented.
+
+## Update — the Sasanid monarchy and Khusro I (5th–6th c., CAH XIV)
+
+[[cameron-cah-v14-2000|CAH XIV]] (Rubin, Ch. 21) treats the Sasanid state at its late-antique height and
+revises its reputation for tidy centralization. The dynasty's own propaganda (the *Kārnāmag*, the
+*Khwadāy-nāmag* tradition via al-Ṭabarī) cast Ardashir's rise as the unification of Iran against the "petty
+kings," contrasting a strong Sasanid monarchy with a feeble Parthian one — but Rubin shows central control
+was **never uniformly effective**: kings founded cities only in zones they directly held, never encroaching
+on the lands of the **great noble houses** (many with Parthian-era roots) whose power constrained the throne.
+
+The pivot of the chapter is the **crisis and reforms around 500–550**:
+
+- **The Mazdakite upheaval.** The radical, possibly communalizing **Mazdak** movement won huge popularity —
+  and the cynical backing of **King Kavadh I**, who used it to break the power of the nobility and clergy.
+- **The reforms of Kavadh and Khusro I.** Out of the crisis came the one serious **tax reform** of Sasanid
+  history (begun under Kavadh, completed by **Khusro I Anūshirwān**, r. 531–579): a fixed land-tax and
+  poll-tax replacing the old proportional levy, paired with an **agricultural reform**, and a **military
+  reform** creating a salaried **standing cavalry** (the *dehqāns* and the four regional *spāhbads*)
+  dependent directly on the crown rather than on the great lords. Khusro's settlement made him the model of
+  the **just king** in later Perso-Islamic tradition.
+- **Limits.** Rubin is sceptical of the reforms' durability: the nobility Khusro "restored" remained
+  dangerous (revolts dogged his successors), and the system frayed by his reign's end — though
+  **Khusro II** (590–628) still drew impressive revenues from the machinery Khusro I built.
+
+Abroad, Khusro I fought [[justinian|Justinian]] (the "**eternal peace**" of 532, then renewed war from 540 —
+the sack of Antioch 540), and his grandson **Khusro II**, restored to the throne by the emperor
+[[successors-of-justinian|Maurice]] (591), would launch the last great Roman–Persian war after Maurice's
+murder — the mutual exhaustion that opened the way to the [[muhammad-and-the-rise-of-islam|Arab conquests]]
+that destroyed the Sasanid empire (651). Source: [[cameron-cah-v14-2000]] (Ch. 21, Zeev Rubin).

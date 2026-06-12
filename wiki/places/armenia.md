@@ -99,3 +99,29 @@ fell under Persian suzerainty, the smaller under Rome, which formally installed 
 trans-Euphrates districts. The kingdom's Christianization gave it a lasting western/religious orientation,
 but its **division between the two empires** — a direct consequence of the fourth-century contest — fixed
 the shape of the Armenian question for centuries.
+
+## Update — Armenia in the fifth and sixth century (CAH XIV)
+
+[[cameron-cah-v14-2000|CAH XIV]] (Thomson, Ch. 21) carries Armenia through the period after the partition.
+The deep tension was that the **Armenian nobility (the *nakharars*)** were socially and culturally closer to
+**Iran** than to Rome, making Armenia "an uncertain ally for the Romans," even as **Christianity** (since
+Tiridates' conversion) pulled it westward — a contradiction at the heart of Armenian history.
+
+- **The struggle for Christianity.** When the Sasanids tried to enforce **Zoroastrianism**, Armenian
+  resistance culminated in the great revolt under **Vardan Mamikonean** and the battle of **Avarayr (451)** —
+  a military defeat remembered as a spiritual victory that preserved Armenian Christianity, and later (under
+  Vahan Mamikonean) won a measure of religious autonomy from Persia.
+- **The invention of a literary culture.** The fifth century saw the creation of the **Armenian alphabet**
+  (Mashtots) and a flowering of Christian historiography (Agathangelos, the *Buzandaran*, Lazar, Eḷishē) —
+  the **"classical age"** of Armenian letters, partly idealized in retrospect, that gave Armenia an enduring
+  national-religious identity.
+- **The rejection of Chalcedon.** Theologically Armenia drew apart from Constantinople: the Armenian church
+  **rejected the [[council-of-chalcedon-451|Council of Chalcedon]]** (definitively in the early sixth century,
+  aligning with the Monophysites), even excommunicating the Georgians over the issue — a confessional breach
+  that permanently distinguished the Armenian church.
+- **Between the empires.** The emperor **[[successors-of-justinian|Maurice]]** sought to integrate Roman
+  Armenia more firmly (deporting nobles, planting an anti-patriarch), but Armenia "as a whole was never
+  integrated into the Greek-speaking empire," remaining a contested march between Rome and a
+  [[sassanid-empire|Sasanid]] Iran to which much of its nobility inclined.
+
+Source: [[cameron-cah-v14-2000]] (Ch. 21, Robert Thomson).
