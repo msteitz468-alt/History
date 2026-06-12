@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | The Chronicle of Pseudo-Zachariah Rhetor (TTH 55; ed. Greatrex, trans. Phenix & Horn) | Late Antiquity | mesopotamia, near-east, anatolia | Pages created: 1 | Pages updated: 2
+
 ## 2026-06-12 ingest | Orosius, Seven Books of History against the Pagans (TTH 54; trans./intro A. T. Fear) | Late Antiquity | mediterranean-world, iberia, italy | Pages created: 3 | Pages updated: 1
 
 ## 2026-06-12 ingest | Three Political Voices from the Age of Justinian (TTH 52; trans./intro Peter N. Bell) | Late Antiquity | anatolia, mediterranean | Pages created: 2 | Pages updated: 2

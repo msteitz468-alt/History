@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: regional
 causes: [Anastasius's refusal of customary subsidies to Persia, Kavadh I's need for funds after his restoration, the unresolved status of the Roman–Persian frontier in Mesopotamia and Armenia]
 consequences: [the Persian sack of Amida (503), a return to the status quo by the truce of 506, the Roman fortification of Dara as a frontier stronghold, the long sixth-century cycle of Roman–Persian wars]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [event, late-antiquity, mesopotamia]
 ---
@@ -54,4 +54,6 @@ and the Syriac chronicle tradition (Pseudo-Zachariah).
 ## Related
 
 - Belligerents: [[eastern-roman-empire-425-518|Eastern Rome]] under Anastasius I · [[sasanian-empire|Sasanian Persia]] under Kavadh I.
-- Source: [[watt-pseudo-joshua-stylite|Pseudo-Joshua the Stylite]]; later context: the wars of [[justinian|Justinian]].
+- Source: [[watt-pseudo-joshua-stylite|Pseudo-Joshua the Stylite]] (the fullest account) and the
+  **[[greatrex-pseudo-zachariah-chronicle|Chronicle of Pseudo-Zachariah]]**; later context: the wars of
+  [[justinian|Justinian]].

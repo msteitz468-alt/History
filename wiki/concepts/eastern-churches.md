@@ -5,7 +5,7 @@ origin: Emic/etic; the family of eastern Christian communions (Chalcedonian Orth
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages]
 applies_to_regions: [anatolia, levant, near-east, balkans, mediterranean, north-africa]
 contested: no
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -67,4 +67,6 @@ crusader states, and Christian–Muslim coexistence.
 - [[papal-monarchy]] — the Roman claim to primacy the eastern churches resisted.
 - Sources on the Chalcedonian schism, from both sides, are now ingested: the Chalcedonian
   **[[whitby-evagrius-ecclesiastical-history|Evagrius Scholasticus]]** and the Miaphysite
-  **[[john-of-ephesus|John of Ephesus]]** / **[[pseudo-dionysius-zuqnin-chronicle|Chronicle of Zuqnin]]**.
+  **[[john-of-ephesus|John of Ephesus]]** / **[[pseudo-dionysius-zuqnin-chronicle|Chronicle of Zuqnin]]**
+  / **[[greatrex-pseudo-zachariah-chronicle|Pseudo-Zachariah Rhetor]]** (preserving the lost Greek church
+  history of Zachariah of Mytilene).
