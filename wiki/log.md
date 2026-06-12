@@ -15,6 +15,8 @@ Format:
 
 ## 2026-06-12 admin | PIVOT to Outstanding Sources.md. Audit: ~50 of ~75 gap-filling sources now in collection (entire Modern leg, Africa, Americas, much of Asia). Still missing: Russia (Gap 8), several global primaries (Muqaddimah, Gilgamesh, Secret History of Mongols, Behistun, Hammurabi), most world-systems (Abu-Lughod, Crosby, Diamond, Harper). Working gaps in list order, starting Gap 1 (Modern).
 
+## 2026-06-12 ingest | The Origins of the Second World War (A. J. P. Taylor, 1961) | World Wars Era | western-europe, eastern-europe | Pages created: 1 | Pages updated: 2
+
 ## 2026-06-12 ingest | The Second World War (Antony Beevor, 2012) | World Wars Era | transregional, eastern-europe, east-asia | Pages created: 1 | Pages updated: 2
 
 ## 2026-06-12 ingest | The Origins of the First World War (James Joll, 1984) | Long 19th Century, World Wars Era | western-europe, eastern-europe, balkans | Pages created: 3 | Pages updated: 3

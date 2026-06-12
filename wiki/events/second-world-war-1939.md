@@ -13,7 +13,7 @@ scale_immediate: global
 scale_consequential: global
 causes: [[[causes-of-the-second-world-war|see the origins controversy]], the unresolved legacies of [[first-world-war-1914|1914–18]] and Versailles, [[communism-and-fascism|Nazi and fascist expansionism]], the Great Depression, the failure of collective security]
 consequences: [~60 million dead, the Holocaust, the defeat of fascism, the [[1945-postwar-order|postwar order]] and the United Nations, the [[cold-war|Cold War]] and the US–Soviet superpower duopoly, [[decolonization]], the nuclear age]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [event, world-wars-era, transregional]
 ---
