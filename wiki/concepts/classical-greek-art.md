@@ -8,7 +8,7 @@ origin: >
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [central-greece, aegean, mediterranean]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -82,10 +82,31 @@ artist "deserved to be taken seriously." Because many artists in Athens were **n
 who later moved on, the Phidian style rapidly **"Athenianized"** Greek art (the one great
 holdout being Polyclitus of Argos).
 
+## The fourth century: Classical to Hellenistic (CAH VI)
+
+[[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 12c, Pollitt again, "Greek Art: Classical to
+Hellenistic") carries the story through the fourth century, when art "lives very much on
+its High Classical past" but introduces elements that "will develop rapidly into
+Hellenistic baroque," becoming **more diverse in function** and more interested in
+**individual emotion, sensuousness and personality**:
+- **Praxiteles** — the soft, sensuous grace of the **Aphrodite of Knidos** (the first
+  great female nude) and the *Hermes* — humanizing and relaxing the High Classical god.
+- **Scopas** — emotional intensity and *pathos*, his work prominent on the **Mausoleum** at
+  Halicarnassus (see [[mausolus]]).
+- **Lysippus** — the court sculptor of **[[alexander-the-great|Alexander]]**, who devised a
+  **new canon of proportions** (slimmer, smaller-headed figures), a heightened naturalism
+  (the *Apoxyomenos*), and the authoritative **portraits of Alexander** — the threshold of
+  the Hellenistic age.
+This is the visual counterpart to the political and intellectual shift of the century: as
+the polis declined, art turned from the civic-idealizing mode toward the
+**personal, the regal and the theatrical** that the Hellenistic kingdoms would carry
+forward.
+
 ## Related
 
-- Monuments: [[parthenon]] · the Severe Style at Olympia · the Stoa Poikile
+- Monuments: [[parthenon]] · the Severe Style at Olympia · the Stoa Poikile · the Mausoleum ([[mausolus]])
+- Fourth century: Praxiteles · Scopas · **Lysippus** ([[alexander-the-great]]'s sculptor)
 - Thought: [[sophists]] (Protagorean relativism) · [[presocratics]] (Pythagorean idealism) ·
   [[athenian-drama]]
 - Context: [[athens-fifth-century]] · [[pericles]] · [[archaic-greek-material-culture]]
-- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 8a, Pollitt)
+- Sources: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 8a, Pollitt) · [[lewis-cah-v6-1994|CAH VI]] (Ch. 12c, Pollitt)

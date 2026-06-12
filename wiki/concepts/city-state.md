@@ -9,7 +9,7 @@ origin: >
 applies_to_periods: [Early Bronze Age, Middle Bronze Age, Greek Dark Age, Archaic Period, Classical Antiquity]
 applies_to_regions: [mesopotamia, mediterranean, aegean, south-asia, mesoamerica]
 contested: yes
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -113,9 +113,27 @@ of chattel [[slavery]], and of new fiscal devices (the *leitourgia* system) — 
 resolved within that polis framework." The fifth century is thus, on this reading, both
 the polis's classical apogee and the exposure of its limits.
 
+## The fourth century: the failure of the polis? (CAH VI)
+
+[[lewis-cah-v6-1994|CAH Vol. VI]] (Chs. 10–11, Austin & Rhodes) carries the diagnosis to its
+crisis. Rhodes's chapter is titled, pointedly, "**The Polis and the Alternatives**," and
+closes by asking outright whether the polis **failed**. The fourth-century evidence — richer
+than the fifth's — shows the city-state straining against its limits: chronic **stasis**
+(civic faction), a **mercenary economy** of war that detached fighting from citizenship
+(see [[greek-warfare]]), and persistent crises of **state finance** and the **corn supply**
+(Athens dependent on the [[bosporan-kingdom|Bosporan]] and Hellespontine grain routes).
+Above all, the polis "could not durably **combine**": the leagues that tried — the Boeotian
+and Arcadian confederacies — were dominated by their leading city or shattered by faction.
+The future lay instead with the **alternatives** Rhodes anatomizes — the **federal *koinon*
+and the ethnos state** (see [[greek-federalism]]) and the **territorial monarchy** of
+[[dionysius-i|Dionysius I]] and of [[philip-ii-of-macedon|Macedon]]. The polis would survive,
+vital but depoliticized, as the cell of the Hellenistic and Roman world — but its age as the
+**autonomous arbiter of its own fate** ended in the fourth century.
+
 ## Related
 
 - Concepts: [[urbanism]] · [[heterarchy]] · [[urban-revolution]]
 - Places: [[uruk|Uruk]] · [[mohenjo-daro|Mohenjo-daro]] · [[tikal|Tikal]] · [[euboea|Euboea]]
 - Process: [[urbanization]] · [[greek-dark-age|Greek Dark Age]] · [[greek-colonization|colonization]] · Period: [[early-bronze-age]] → [[archaic-period]]
-- Sources: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (polis genesis) · [[boardman-cah-v3p3-1982|CAH III.3]] (the transplantable polis) · [[lewis-cah-v5-1992|CAH V]] (the fifth-century crisis of the polis, Ch. 2 Davies)
+- Fourth-century alternatives: [[greek-federalism]] · [[greek-warfare]] · [[philip-ii-of-macedon]] · [[dionysius-i]]
+- Sources: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (polis genesis) · [[boardman-cah-v3p3-1982|CAH III.3]] (the transplantable polis) · [[lewis-cah-v5-1992|CAH V]] (the fifth-century crisis of the polis, Ch. 2 Davies) · [[lewis-cah-v6-1994|CAH VI]] (Chs. 10–11, the failure of the polis?)
