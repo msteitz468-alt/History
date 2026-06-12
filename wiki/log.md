@@ -1458,3 +1458,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | CAH XIII — The Late Empire AD 337–425 | Section: Step 1 — Structural map & Section Plan | Pages created: 1 | Pages updated: 0
 
 ## 2026-06-12 section | CAH XIII — The Late Empire AD 337–425 | Section: Chronological overview (Chs 1–4) | Pages created: 8 | Pages updated: 0
+
+## 2026-06-12 section | CAH XIII — The Late Empire AD 337–425 | Section: Government & institutions (Chs 5–8) | Pages created: 3 | Pages updated: 1

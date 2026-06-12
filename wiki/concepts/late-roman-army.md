@@ -73,10 +73,37 @@ pragmatic adaptation (Isaac, Campbell), and whether Diocletian or Constantine de
 remain debated — but the through-line is the **reorientation from a frontier-static to a
 mobile-reserve army** forged in the crisis.
 
+## The fourth-century army (CAH XIII)
+
+[[cameron-cah-v13-1998|CAH XIII]] Ch. 7 (**A. D. Lee**) carries the army through the fourth century, read
+chiefly through the ***Notitia Dignitatum*** (the army "on paper") and **Ammianus Marcellinus** (the army
+in action). Key points:
+
+- **The two-tier system matured**: the mobile **comitatenses** (field army) versus the **ripenses /
+  limitanei** (frontier troops). Lee stresses Constantine **expanded** an existing idea (Gallienus,
+  Severus) rather than inventing it, and — against Zosimus' polemic — **did not strip the frontiers**; he
+  also valued the *ripenses* and built frontier works, completing Diocletian's **separation of civil and
+  military command** (the *dux*).
+- **Proliferation of unit-types**: smaller-than-legionary units — cavalry *vexillationes*, infantry
+  *legiones*, and the new **auxilia** (the elite Germanic-recruited backbone of the field army) — plus the
+  *scholae* (the new bodyguard replacing the abolished **praetorians**), under the *magister officiorum*.
+- **Regionalization**: after Constantine the single field army fragmented into **multiple regional armies**
+  (a practical response to the empire's size); by 400 the *Notitia* shows **five eastern field armies**
+  (two *praesental*, near Constantinople, plus East/Thrace/Illyricum) under *magistri militum*, and a more
+  centralized but more numerous set of small western armies (Gaul, Africa, Spain, Britain, Illyricum —
+  largely [[stilicho|Stilicho's]] formalization). This effectively **reformulated, even partly abandoned,
+  the original Constantinian model**.
+- **The strategic context** was harder: the [[sassanid-empire|Sassanids]] east and the
+  [[germanic-peoples|Frankish, Alamannic and Gothic confederacies]] north made the army's role more vital,
+  its enlarged size a strain on manpower and budget, and its loyalty (after the third-century mutinies) a
+  standing imperial anxiety.
+
 ## Related
 
 - Built by [[gallienus]], [[diocletian]], and [[constantine-the-great]]; answer to the
-  [[third-century-crisis]] and the [[sassanid-empire|Sassanid]] two-front threat
-- Tied to the [[late-roman-administration|fiscal and administrative reforms]]; transformed the
-  [[roman-imperial-army|imperial army]] of the Principate
-- Source: [[bowman-cah-v12-2005]] (Ch. 5, Brian Campbell)
+  [[third-century-crisis]] and the [[sassanid-empire|Sassanid]] two-front threat; the fourth-century force
+  of the *Notitia* and Ammianus
+- Tied to the [[late-roman-administration|fiscal and administrative reforms]] and the
+  [[late-roman-emperorship|imperial government]]; transformed the [[roman-imperial-army|imperial army]] of
+  the Principate; reliance on [[germanic-peoples|barbarian recruits]] and federates (cf. [[stilicho]])
+- Sources: [[bowman-cah-v12-2005]] (Ch. 5, Brian Campbell); [[cameron-cah-v13-1998]] (Ch. 7, A. D. Lee)
