@@ -9,7 +9,7 @@ affiliated_with: [the Ptolemies (Egypt), the Seleucids (Asia), the Antigonids (M
 opposed_by: [[[roman-republic|Rome]], [[parthian-empire|Parthia]], rival successor kingdoms]
 key_events: [Wars of the Diadochi, founding of the Library of Alexandria, Roman conquest of the East]
 key_processes: [Hellenization, [[trade-network-formation]], [[silk-roads]], [[ancient-science-and-technology]], [[coinage]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-10
 tags: [actor, state, classical-antiquity, mediterranean, near-east]
 ---
@@ -76,4 +76,6 @@ ruling-class veneer or a real fusion?), the degree of continuity with Achaemenid
 administration, and the agency of non-Greek populations. The older, idealizing version of the "fusion"
 thesis is preserved in the now-ingested classic **[[jouguet-macedonian-imperialism|Jouguet, *Macedonian
 Imperialism*]]** (1926) — Alexander as conscious architect of a Greek-Oriental synthesis — against which
-the modern qualifications can be measured.
+the modern qualifications can be measured. The balanced standard overview is now ingested as
+**[[walbank-hellenistic-world|Walbank, *The Hellenistic World*]]**, which stresses the **limits of
+fusion** and the persisting Greek/non-Greek divide.
