@@ -79,13 +79,53 @@ provincial superstructure did not invalidate pre-existing institutions (local *n
 Areopagus, the Sanhedrin) but **fostered and moulded** them, civic "freedom" always remaining
 "at the disposal of the ruling power."
 
+## The High Empire: the reactive governor and the curatores (CAH XI, Eck)
+
+[[bowman-cah-v11-2000|CAH XI]] Ch. 7 (**Werner Eck**) carries the analysis to AD 192 and confirms
+that the Augustan system "remained unchanged in its essentials." Its themes:
+
+- **The emperor as focal point.** Dio Chrysostom and Aelius Aristides idealize the *princeps* as
+  the sun or *prytanis* on whom governors and subjects alike depend — and the reality behind the
+  image is that **everyone needing a decision had to reach the emperor wherever he was** (rescripts
+  issued from Dyrrhachium, Athens, Tibur, Ephesus, Sirmium). Pliny's 61 letters to Trajan in under
+  two years were no exception but typical of a "flood" of administrative correspondence. From
+  Trajan and Hadrian on, **petitions and *subscriptiones* multiply on inscriptions** — a sign that
+  provincials increasingly thought the emperor accessible to individuals.
+- **The reactive governor.** The governor (legate, proconsul, or praesidial procurator) remained
+  the de facto centre, his all-encompassing competence **unsupported by any large staff**. He
+  governed by an annual judicial circuit (*conventus*) and **reacted** to disputes the cities could
+  not resolve themselves — grain crises, water-supply enforcement, broken euergetic promises,
+  boundary disputes, attempts to dodge liturgies (Aelius Aristides). His limits were "the limited
+  capacity of one man" (a prefect of Egypt received 1,804 petitions in three days) and the
+  privileges of the **free cities** (*civitates liberae*) outside his sphere.
+- **Curatores and correctores.** Rather than expand the governor's staff, the emperors met cities'
+  recurring **financial mismanagement** by appointing **special commissioners**: a *curator rei
+  publicae* (*logistes*) to audit an individual city's finances (first under Domitian, common in
+  Italy from Marcus), or a senatorial *legatus*/*corrector* (*epanorthotes*) for whole regions or
+  the free cities. These were **temporary, directly imperial, and never a permanent hierarchy** —
+  they supplemented the governor without changing "the general character of normal provincial
+  administration."
+- **Taxation: continuity, not reform.** The Augustan tax system (the annual *tributum capitis* and
+  *tributum soli*, plus irregular levies and the *vicesima hereditatium* paid only by citizens)
+  persisted unchanged; even Vespasian and Marcus raised no fundamentally new taxes (Marcus sold
+  imperial treasures rather than tax). Eck **rejects** the old thesis of a wholesale shift from
+  **tax-farmers** (*publicani*/*conductores*) to state collection: procurators and tax-farmers
+  worked **side by side** throughout the second century, the displacement of farmers by imperial
+  slaves at the customs posts appearing only late and only in the war-torn Danube provinces.
+  The **census** was conducted irregularly by varied officials (only Egypt had a fixed 14-year
+  cycle). Late-second-century jurists (Venuleius Saturninus, Ulpian, Paullus) began writing
+  *de officio* handbooks — the first steps toward the standardization that the High Empire itself
+  never imposed, "uniformity ... never one of the leading principles of the Roman administration."
+
 ## Contested
 
 The old reading of a sharp **"senatorial vs. imperial" division of the empire** is rejected by
 Bowman as misleading. The degree of **proconsular independence** from the emperor is "all too
 easily exaggerated." How far decisions were made by the emperor *in person* versus the palatine
 bureaucracy — and how far government was active policy versus reactive response to petitions —
-remains debated (cf. [[imperial-court]]).
+remains debated (cf. [[imperial-court]]). For the High Empire **Eck argues strongly for continuity
+and flexibility** against theses of a Hadrianic administrative reform or a second-century shift to
+direct state tax collection (cf. [[equestrian-administration-high-empire]]).
 
 ## Related
 
@@ -95,4 +135,6 @@ remains debated (cf. [[imperial-court]]).
   the [[imperial-court]]
 - Companion analyses (CAH X): [[imperial-finances]] · [[senate-under-the-principate]] · the
   army (Cycle 5) · the [[roman-imperial-justice|administration of justice]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 10, Bowman)
+- High-Empire continuation (CAH XI): [[high-imperial-senatorial-order]] ·
+  [[equestrian-administration-high-empire]] · [[emperor-and-advisers-high-empire]]
+- Sources: [[bowman-cah-v10-1996]] (Ch. 10, Bowman) · [[bowman-cah-v11-2000]] (Ch. 7, Eck)

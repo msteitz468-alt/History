@@ -1382,3 +1382,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-11 phase-start | CAH Vol. XI — The High Empire, A.D. 70–192 | Large-Volume Protocol | Section Plan written (7 content cycles); source page wiki/sources/bowman-cah-v11-2000.md created
 
 ## 2026-06-11 section | CAH XI — The High Empire | Section: Cycle 1 — Narrative: Flavians to Commodus (Chs 1–3) | Pages created: 16 | Pages updated: 0
+
+## 2026-06-12 section | CAH XI — The High Empire AD 70–192 | Section: Government & Civil Administration (Chs 4–7, Eck) | Pages created: 3 | Pages updated: 1
