@@ -65,6 +65,51 @@ offences. The free cities learned the lesson and increasingly recognized imperia
 (Cnidus, 6 BCE). The governors of the unarmed provinces spent much of their time on
 **jurisdiction**, touring the *conventus* assize-centres.
 
+## The High Empire: the Greek city, the Sophistic, and Hadrian's Panhellenion (CAH XI, Levick)
+
+[[bowman-cah-v11-2000|CAH XI]] Ch. 20 (also **Levick**) carries the Greek East to AD 192 — the era
+of its greatest **prosperity and cultural brilliance**, but also of the structural tensions of the
+Greek city under Roman rule.
+
+- **Vespasian's reorganization.** Faced with the Parthian and Caucasus threats, Vespasian revived
+  the consular **Cappadocia-Galatia** command (legions to the Euphrates), **annexed Commagene**,
+  and created the provinces of **Lycia-Pamphylia** and **Cilicia** — bringing eastern Asia Minor
+  into the imperial frame. He also **revoked Nero's grants of freedom** (to Achaea, Rhodes, etc.) —
+  partly for revenue.
+- **The flood of eastern senators.** Asia Minor's wealth and its support for Vespasian carried its
+  notables into the **Senate** — the great families of **Pergamum, Sardis, Ephesus**, and the
+  Roman colonies (Antioch-toward-Pisidia) — rising to consulships (the partnership of **culture and
+  administration**, e.g. **Arrian** of Nicomedia, governor of Cappadocia, philosopher and
+  historian). Trajan broke up the "monster" Cappadocia-Galatia command on annexing Armenia, and the
+  intake of easterners became routine (the pretender Avidius Cassius, AD 175).
+- **Pliny and the problems of the Greek city.** The **younger Pliny's** special legateship of
+  **Bithynia** (c. 110, with the surviving *Letters* Book 10) exposes the chronic ills of the
+  *poleis*: financial carelessness and corruption, **extravagant building** (often unfinished),
+  ruinous embassies, and above all **inter-city rivalry** (Nicaea vs. Nicomedia) and internal class
+  strife — Trajan refusing even a 150-man **fire-brigade** at Nicomedia for fear of a "political
+  club." Levick reads these (with Dio Chrysostom and Plutarch) as the structural condition of the
+  Greek city: **every appeal to governor or emperor eroded the autonomy** that made local politics
+  worthwhile, yet Rome needed the cities tranquil and solvent. Hence the spread of imperially-
+  appointed ***curatores civitatis*** (*logistai*) from Domitian on.
+- **Euergetism and the Second Sophistic.** The upper-class ethos of competitive **euergetism** —
+  the Library of Celsus at **Ephesus**, **Opramoas** of Rhodiapolis benefiting thirty Lycian cities
+  — produced the monuments that still draw tourists, and the cultural renaissance of the **Second
+  Sophistic** (Plutarch, Dio Chrysostom, Aelius Aristides, Lucian, Galen of Pergamum), the sophists
+  as both star performers and politicians who "saw things from the point of view of rulers and
+  ruled."
+- **Hadrian's Panhellenion.** The philhellene **Hadrian** lavished benefactions on the Greek world
+  — rebuilding **Athens** (the completed Olympieion, a revised law-code, a new quarter
+  *Hadrianopolis*), founding and re-founding cities bearing his name — culminating in the
+  **Panhellenion** (inaugurated c. 131/2), a league of Greek cities centred on Athens, admission
+  vetted by **Greek ancestry** (cities inventing Spartan or Arcadian origins to qualify). It is best
+  read as "an attempt to divert Greek national feeling into cultural and ceremonial channels,"
+  yoking Hellenism to the empire more effectively than the quarrelsome *koina*.
+- **Toward timocracy.** Society moved "more sharply than before in the direction of **timocracy**
+  and the end of popular participation": life-tenured councils assimilated to a western *ordo*,
+  property qualifications, and the dominance of magnates like **Herodes Atticus** of Athens (whose
+  feuds Marcus Aurelius personally adjudicated) — wealth, not active service, the criterion for
+  power (even women holding civic office in Asia Minor).
+
 ## Significance
 
 The Greek East was the empire's most thoroughly **urbanized and self-administering** region, run
@@ -81,4 +126,6 @@ which the relationship between Rome and the Hellenic city found its lasting Impe
 - The Roman face of the [[hellenistic-world|Hellenistic world]]; administered per
   [[roman-provincial-administration]]
 - Companion (CAH X Ch. 14): [[roman-egypt|Egypt]], [[roman-syria|Syria]], [[roman-judaea|Judaea]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 14a, Levick)
+- High-Empire: the problems of [[roman-city-government|the Greek city]]; Hadrian's
+  [[hadrian|Panhellenion]]; the cultural synthesis of [[cyrenaica|Cyrenaica]] in the same league
+- Sources: [[bowman-cah-v10-1996]] (Ch. 14a, Levick) · [[bowman-cah-v11-2000]] (Ch. 20, Levick)
