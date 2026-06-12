@@ -9,7 +9,7 @@ affiliated_with: [the Graeco-Macedonian settler class, the Greek cities of Asia 
 opposed_by: [[[ptolemaic-egypt]], [[parthian-empire]], [[greco-bactrian-kingdom]], [[pergamon]], [[rome|Rome]], the Maccabees]
 key_events: [[[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]], [[syrian-wars]], [[battle-of-raphia-217]]]
 key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]], [[seleucid-colonization]], [[seleucid-era]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [actor, empire, dynasty, classical-antiquity, near-east, mesopotamia]
 ---

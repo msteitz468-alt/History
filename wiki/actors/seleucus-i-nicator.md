@@ -9,7 +9,7 @@ affiliated_with: [[[ptolemy-i-soter]], [[alexander-the-great]]]
 opposed_by: [[[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]], [[lysimachus]]]
 key_events: [[[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]]]
 key_processes: [[[hellenistic-world]], [[seleucid-empire]], [[seleucid-era]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, dynasty, classical-antiquity, mesopotamia]
 ---
@@ -56,4 +56,5 @@ expanse through Greek cities and military colonies (see [[seleucid-colonization]
 foundation of [[antioch|Antioch]] and Seleuceia, his Iranian marriage, and the era that
 bears his name make him the true architect of the [[seleucid-empire|Hellenistic Near
 East]]. Detailed treatment of the kingdom belongs to CAH VII.1 ch. 6 — see
-[[seleucid-empire]].
+[[seleucid-empire]]. The standard biography is now ingested as
+**[[grainger-seleukos-nikator|Grainger, *Seleukos Nikator: Constructing a Hellenistic Kingdom*]]**.
