@@ -15,6 +15,8 @@ Format:
 
 ## 2026-06-12 admin | PIVOT to Outstanding Sources.md. Audit: ~50 of ~75 gap-filling sources now in collection (entire Modern leg, Africa, Americas, much of Asia). Still missing: Russia (Gap 8), several global primaries (Muqaddimah, Gilgamesh, Secret History of Mongols, Behistun, Hammurabi), most world-systems (Abu-Lughod, Crosby, Diamond, Harper). Working gaps in list order, starting Gap 1 (Modern).
 
+## 2026-06-12 ingest | The Industrial Revolution 1760–1830 (T. S. Ashton, 1948) | Age of Expansion, Long 19th Century | british-isles | Pages created: 1 | Pages updated: 1
+
 ## 2026-06-12 ingest | The Age of Extremes: 1914–1991 (Eric Hobsbawm, 1994) | World Wars Era, Cold War | global | Pages created: 1 | Pages updated: 2
 
 ## 2026-06-12 ingest | The Age of Empire: 1875–1914 (Eric Hobsbawm, 1987) | Long 19th Century | western-europe, global, africa | Pages created: 1 | Pages updated: 2
