@@ -1412,3 +1412,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | CAH XI — The High Empire AD 70–192 | Section: Greece and Asia Minor (Ch 20, Levick) | Pages created: 0 | Pages updated: 1
 
 ## 2026-06-12 section | CAH XI — The High Empire AD 70–192 | Section: Syria and Arabia (Ch 21, Sartre) | Pages created: 0 | Pages updated: 1
+
+## 2026-06-12 section | CAH XI — The High Empire AD 70–192 | Section: Judaea (Ch 22, Goodman) | Pages created: 0 | Pages updated: 1

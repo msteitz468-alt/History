@@ -72,6 +72,40 @@ of the future historian **Josephus**) was interrupted only by Nero's fall and Ve
 bid for the throne — the **Jewish Revolt** running on to the destruction of Jerusalem in 70 (the
 subject of CAH XI).
 
+## The High Empire: catastrophe and reconstitution (CAH XI, Goodman)
+
+[[bowman-cah-v11-2000|CAH XI]] Ch. 22 (also **Goodman**) covers the period when "the fortunes of
+the Jews sank to their lowest ebb" — three disastrous wars and the loss of the homeland:
+
+- **The destruction of 70 and its aftermath.** **Titus** stormed Jerusalem and **burned the
+  Temple** (Aug. 70); the city was razed and *legio X Fretensis* permanently garrisoned. Flavian
+  power was justified by **propaganda of the Jewish victory** (the *Iudaea Capta* coinage, the
+  Temple of Pax). The land was confiscated; the **fiscus Iudaicus** redirected the Temple tax to
+  Capitoline Jupiter — a "demeaning" annual poll-tax on all Jews (rigorously exacted by Domitian,
+  its *calumnia* eased by Nerva). Masada's defenders, per Josephus, chose **suicide** (73/74).
+- **A society without the Temple.** The destruction shattered the **pillars of Judaean society** —
+  Temple, priesthood, Sanhedrin, the old ruling class all gone, Agrippa II given no authority over
+  Jews. Authority became **localized**, and into the vacuum stepped the **scribes**, above all the
+  **rabbis**: the academy at **Yavneh (Jamnia)** (the tradition of Yohanan b. Zakkai; then Rabban
+  Gamaliel II of the house of Hillel). Goodman stresses that rabbinic authority spread **gradually**
+  and was probably "not far advanced by 132"; Rome entrusted local administration not to the rabbis
+  but to **gentile cities** founded nearby (Flavia Neapolis, Flavia Joppa, the *colonia* Caesarea).
+- **The Diaspora Revolt (115–117).** A coordinated, ferocious uprising of diaspora Jews in **Egypt,
+  Cyrene, Cyprus, and Mesopotamia** — exploiting **Trajan's absence on the Parthian campaign** —
+  with messianic leaders (Lukuas/Andreas) and huge gentile casualties, suppressed by **Q. Marcius
+  Turbo** and **Lusius Quietus**. Its effect was **cataclysmic**: the great Jewish communities of
+  Egypt, Cyrene, and Cyprus were effectively annihilated (Jews banned from Cyprus). The Jews of
+  **Palestine and northern Syria did not join**, suggesting no central organization (see
+  [[cyrenaica]]).
+- **The Bar Kochba War (132–135).** The greatest revolt: led by **Simon bar Kosiba (Bar Kochba)**,
+  whose letters from the Judaean desert reveal a fierce insistence on **discipline, an organized
+  state, and religious observance**. Goodman weighs the causes — Hadrian's plan to refound Jerusalem
+  as the pagan **Aelia Capitolina** (Dio) and/or the **ban on circumcision** (*Historia Augusta*) —
+  and judges it one of Rome's costliest second-century campaigns (detachments drawn from many
+  legions; **C. Iulius Severus** summoned from Britain). The aftermath was **thorough Roman
+  reprisal** (the fall of Bethar, mass enslavement, the bones in the desert caves). See
+  [[bar-kochba-war-132-135]].
+
 ## Significance
 
 Judaea is Goodman's exemplar of the **client kingdom-to-province trajectory** and of the
@@ -87,4 +121,6 @@ oscillate between fragile order and the explosive revolt that would end the Seco
 - Religious context: [[second-temple-jewish-sects]]; supervised by [[roman-syria|the legate of
   Syria]]; annexed per [[roman-provincial-administration]]
 - Companion (CAH X Ch. 14): [[roman-greek-east|Greece]], [[roman-egypt|Egypt]], [[roman-syria|Syria]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 14d, Goodman)
+- High-Empire catastrophe: the destruction of 70, the Diaspora Revolt (in [[cyrenaica]]), the
+  [[bar-kochba-war-132-135|Bar Kochba War]] and Aelia Capitolina; the rise of the rabbis at Yavneh
+- Sources: [[bowman-cah-v10-1996]] (Ch. 14d, Goodman) · [[bowman-cah-v11-2000]] (Ch. 22, Goodman)
