@@ -93,3 +93,20 @@ ethical, communal church.
   [[sassanid-empire|Sassanids]]
 - `contrasts_with:` the dogmatic, founded, communal monotheism of [[origins-of-christianity|Christianity]]
 - Source: [[bowman-cah-v12-2005]] (Ch. 17a, Garth Fowden)
+
+## The fourth century: Julian's revival and the attrition of polytheism (CAH XIII)
+
+[[cameron-cah-v13-1998|CAH XIII]] Ch. 18 (**Garth Fowden**) carries late polytheism through the fourth
+century — "repression and compromise" under the sons of Constantine, the brief **revival under
+[[julian|Julian]]** (who tried to reform polytheism into an organized, ethical, quasi-ecclesiastical
+"church" with a pagan priesthood and charity — a project that died with him in 363), and then the long
+**"attrition"** under his Christian successors. The decisive blows came with [[theodosius-i|Theodosius I's]]
+**anti-pagan laws of 391–392** (closing all temples, banning all sacrifice) and the dramatic temple
+destructions — **Zeus at Apamea (386)** and the **Serapeum of Alexandria (c. 392)**. But Peter Brown
+([[christianization-of-the-roman-empire|Ch. 21]]) cautions that the "death of paganism" was a triumphalist
+Christian *narrative*: into 425 much of the population remained polytheist, and the compartmentalized
+universe of invisible powers endured among Christians too. Polytheism's intellectual life (Neoplatonism,
+the Hermetica, the philosopher-ascetics of Eunapius — see [[late-antique-asceticism]]) persisted even as
+its public cult was outlawed.
+
+- Source (fourth century): [[cameron-cah-v13-1998]] (Ch. 18, Garth Fowden; Ch. 21, Peter Brown)
