@@ -5,7 +5,7 @@ date_range: 1914–1945 CE
 regions_covered: [global, western-europe, eastern-europe, east-asia, near-east, north-america, africa]
 major_themes: [total war, the return of global war, genocide, communism and fascism, the Great Depression, the second demographic and industrial surge, decolonization's prelude]
 collection_coverage: moderate
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-10
 tags: [period]
 ---
@@ -88,7 +88,8 @@ See [[1945-postwar-order]].
 
 ## Historiography
 
-The standard accounts (Hobsbawm's "Age of Catastrophe," 1914–1945) treat the two
+The standard accounts (Hobsbawm's "Age of Catastrophe," 1914–1945 — now ingested directly as
+**[[hobsbawm-age-of-extremes|The Age of Extremes]]**) treat the two
 wars, the Depression, and the totalitarianisms as a single systemic crisis of the
 industrial-national order. CWH VII's distinctive moves are to set the era's
 *destruction* in a long material frame — linking twentieth-century genocide to

@@ -5,7 +5,7 @@ date_range: 1945–1991 CE
 regions_covered: [global, north-america, eastern-europe, western-europe, east-asia, south-asia, africa, latin-america, near-east]
 major_themes: [bipolar superpower rivalry, the Great Acceleration, decolonization, the demographic explosion, the Green Revolution, nuclear danger, multipolar industrialization, development]
 collection_coverage: moderate
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-10
 tags: [period]
 ---
@@ -87,7 +87,9 @@ closed it. See [[1991-end-of-cold-war]].
 
 ## Historiography
 
-CWH VII subordinates the diplomatic-military Cold War narrative (which it largely
+The diplomatic-military Cold War narrative is now ingested directly via **[[hobsbawm-age-of-extremes|Hobsbawm's
+"Golden Age" and "Landslide"]]**, **[[westad-cold-war|Westad's global *Cold War*]]**, and
+**[[judt-postwar|Judt's *Postwar*]]** (Europe since 1945). CWH VII subordinates that narrative (which it largely
 leaves to its absent Book 2 chapter) to a structural account of the post-1950 world:
 McNeill's Great Acceleration, Sugihara's multipolar industrial diffusion,
 Livi-Bacci's demographic transition, Bashford's population politics, Duara's

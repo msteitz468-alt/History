@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-12 (**Hobsbawm, *The Age of Extremes: The Short Twentieth Century 1914–1991*** (1994) ingested — Gap 1, completing the tetralogy. Created the source page **[[hobsbawm-age-of-extremes]]** (the "short twentieth century" in three movements: the Age of Catastrophe 1914–45, the post-war Golden Age, and the Landslide/crisis decades to the Soviet collapse). Enriched **[[world-wars-era]]** and **[[cold-war]]**.)
+
 Last updated: 2026-06-12 (**Hobsbawm, *The Age of Empire: 1875–1914*** (1987) ingested — Gap 1, completing the Long-19th-Century arc of the tetralogy. Created the source page **[[hobsbawm-age-of-empire]]** (the *belle époque* as the climax and self-destruction of bourgeois civilization: the New Imperialism driven by monopolizing capitalism, the second industrial revolution, mass politics and labour movements, and the slide to 1914). Enriched **[[long-19th-century]]** and **[[imperialism]]**.)
 
 Last updated: 2026-06-12 (**Hobsbawm, *The Age of Capital: 1848–1875*** (1975) ingested — Gap 1. Created the source page **[[hobsbawm-age-of-capital]]** (the worldwide triumph of bourgeois capitalism after the defeated revolutions of 1848: the railway/free-trade global boom, liberal mid-Victorian confidence, and nation-making "from above" — Italy, Germany, the US Civil War). Enriched **[[long-19th-century]]**.)
