@@ -1366,3 +1366,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-11 section | CAH X — The Augustan Empire 43 BC–AD 69 | Section: Cycle 2 — The Augustan settlement & the Principate (Chs 2–3, Crook) | Pages created: 1 | Pages updated: 1 | Created concepts/principate (the res publica restituta; the settlements of 28–27 and 23; tribunicia potestas + imperium proconsulare maius; auctoritas; the minimalist-vs-monarchist debate and the lex de imperio Vespasiani; the dynastic paradox). Expanded actors/augustus (the reign and the system — power/authority/achievement, the professional army, the Senate as hereditary peerage, the emperor as supreme judge). Crook's account of the Principate as a piecemeal, not blueprinted, veiled monarchy.
 
 ## 2026-06-11 section | CAH X — The Augustan Empire | Section: Cycle 3 — The expansion of the empire under Augustus (Ch 4, Gruen) | Pages created: 4 | Pages updated: 1
+
+## 2026-06-11 section | CAH X — The Augustan Empire | Section: Cycle 4 — Tiberius to Vespasian: the Julio-Claudians & the Year of the Four Emperors (Chs 5–6, Wiedemann) | Pages created: 7 | Pages updated: 0
