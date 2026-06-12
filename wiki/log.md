@@ -1480,3 +1480,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | CAH XIV — Late Antiquity: Empire and Successors AD 425–600 | Section: Economy & society (Chs 12–17) | Pages created: 2 | Pages updated: 1
 
 ## 2026-06-12 section | CAH XIV — Late Antiquity: Empire and Successors AD 425–600 | Section: The provinces & the non-Roman world (Chs 18–23) | Pages created: 3 | Pages updated: 2
+
+## 2026-06-12 section | CAH XIV — Late Antiquity: Empire and Successors AD 425–600 | Section: Religion & culture (Chs 24–31) | Pages created: 3 | Pages updated: 3

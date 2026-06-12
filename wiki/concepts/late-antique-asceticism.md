@@ -72,3 +72,27 @@ plank of the volume's anti-"decline" reading of late antiquity.
 - `contrasts_with:` the world-affirming tone of classical civic culture; `analogous_to:` the philosopher's
   *askesis* of [[late-polytheism|Neoplatonism]]
 - Source: [[cameron-cah-v13-1998]] (Ch. 20, Peter Brown)
+
+## Update — monasticism and the holy man, 5th–6th c. (CAH XIV)
+
+[[cameron-cah-v14-2000|CAH XIV]] (Rousseau, Ch. 25, **monasticism**; **Peter Brown**, Ch. 26, **holy men**)
+follows the ascetic movement into its mature phase, when it had become **central to Christian society**.
+
+- **Monasticism institutionalized.** What had begun as the heroic withdrawal of Antony and Pachomius
+  developed into established communities with **rules, property and episcopal oversight** — from the lavras
+  and coenobia of Egypt, Palestine (the Judaean desert, Gaza) and Syria to the western foundations. Monks
+  became a **political and theological force**: the monastic crowds of Constantinople, Alexandria and Syria
+  were decisive in the [[council-of-chalcedon-451|Christological controversies]] (Eutyches was an
+  archimandrite; monastic mobs swayed councils).
+- **The holy man** (Brown's signature theme). Across the fifth- and sixth-century Christian world the
+  ordinary believer was taught to expect that **somewhere in his own time and region** lived a "servant of
+  God" who, through prolonged ascetic labour, had won an exceptional **closeness to God** — able to heal,
+  exorcize, intercede, and "stand in the breach" so the world was not destroyed (as Barsanuphius of Gaza
+  reassured his monks during the **plague of 541**). The holy man served as **patron, arbiter and channel of
+  the holy** in village society — a new locus of authority outside the civic and imperial hierarchies. Brown
+  notes the sources privilege the **public** holy man, underplaying the equally valued power of prayer
+  ascribed to reclusive figures and to **holy women**.
+
+This is the spiritual face of the late-antique transformation: as the [[late-roman-cities|classical city]]
+and its notables faded, the **ascetic and the bishop** became the new figures of authority. Source:
+[[cameron-cah-v14-2000]] (Chs 25–26, Philip Rousseau and Peter Brown).

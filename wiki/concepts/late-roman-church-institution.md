@@ -75,3 +75,18 @@ public standing to the emperor, but who increasingly claimed an autonomy the emp
 - Mirrors the [[late-roman-administration|secular administration]] (city → bishopric, province →
   metropolitan); the [[late-roman-emperorship|emperor]] as arbiter of the faith
 - Source: [[cameron-cah-v13-1998]] (Ch. 8, David Hunt)
+
+## Update — the organization of the church, 5th–6th c. (CAH XIV)
+
+[[cameron-cah-v14-2000|CAH XIV]] (Ch. 24, **the organization of the church**) shows the institution at
+maturity. The **episcopal hierarchy** mapped onto the empire (see/city, metropolitan/province) was crowned
+by the great **patriarchates** — Rome, Constantinople, Alexandria, Antioch, Jerusalem — whose rivalries
+(above all **Alexandria vs Constantinople**) drove the [[council-of-chalcedon-451|Christological
+councils]]. Chalcedon's **canon 28** elevated Constantinople to near-parity with Rome, fuelling the
+later **papal claim to primacy** and the slow estrangement of East and West. The church had become a great
+**property-owner and welfare provider** (the bishop now the effective governor of the
+[[late-roman-cities|late-antique city]], dispensing charity, ransoming captives, building), its wealth and
+courts (the *episcopalis audientia*) a parallel administration. As the western state dissolved, the **Roman
+papacy** emerged as an independent power (Gregory the Great, from 590, governing Rome amid the
+[[lombards|Lombard]] wars) — the institutional thread carrying the ancient church into the medieval West.
+Source: [[cameron-cah-v14-2000]] (Ch. 24).

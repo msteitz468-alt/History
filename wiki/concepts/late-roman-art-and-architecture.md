@@ -125,3 +125,18 @@ This dovetails with the volume's broader anti-"decline," anti-dichotomy reading 
 antique visual culture as a **vital, shared, transforming** repertoire, not a degraded one.
 
 - Source (fourth century): [[cameron-cah-v13-1998]] (Ch. 24, Jas Elsner)
+
+## Update — the visual arts in the age of Justinian (CAH XIV)
+
+[[cameron-cah-v14-2000|CAH XIV]] (Ch. 30, **the visual arts**; Ch. 31, **building and architecture**) treats
+the fifth–sixth centuries as a period of brilliant, **Christianized** visual culture in the East — the "age
+of Justinian." Its hallmarks: the **glittering gold-ground mosaics** of Ravenna (San Vitale, with its
+celebrated panels of Justinian and Theodora; Sant'Apollinare) and of Constantinople and the Holy Land; the
+mature **dome architecture** crowned by [[hagia-sophia|Hagia Sophia]]; the proliferation of **icons**,
+illuminated manuscripts, carved ivories and liturgical silver. Building trends **diverged** sharply —
+contraction in the West (Rome's mid-fifth-century church boom giving way to little; Ravenna's building ending
+with the Ostrogoths) against an Eastern surge of churches, fortifications and new cities under Justinian
+(recorded by Procopius's *Buildings*). The art expresses the same world as the [[council-of-chalcedon-451|imperial
+church]] and the [[eastern-roman-empire-425-518|resurgent East]]: hieratic, transcendent, and unmistakably
+"ancient" in technique even as its subject-matter became wholly Christian. Source: [[cameron-cah-v14-2000]]
+(Chs 30–31).
