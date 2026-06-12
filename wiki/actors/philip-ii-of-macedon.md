@@ -9,7 +9,7 @@ affiliated_with: [the kingdom of Macedon, Thessaly, the Amphictyonic League, the
 opposed_by: [[[athens]] (Demosthenes), Thebes, Phocis, Olynthus, the Illyrians and Thracians]
 key_events: [accession 359 BCE, the reform of the Macedonian army, the Third Sacred War, the destruction of Olynthus 348 BCE, the Peace of Philocrates 346 BCE, the [[battle-of-chaeronea-338bce|battle of Chaeronea]] 338 BCE, the [[league-of-corinth|League of Corinth]] 337 BCE]
 key_processes: [the rise of Macedon, the eclipse of the city-state, the professionalization of war]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, north-greece]
 ---
@@ -85,4 +85,6 @@ plan that Alexander merely (if brilliantly) executed. Without Philip there is no
 - Kingdom: Macedon · son: [[alexander-the-great]] · teachers/models: [[epaminondas]] · [[pelopidas]] (Thebes)
 - Enemies: [[athens]] (Demosthenes) · Thebes · Olynthus · subjected: [[odrysian-kingdom]] · [[thracians]]
 - Acts: [[battle-of-chaeronea-338bce]] · [[league-of-corinth]] · context: [[greek-federalism]] · [[greek-warfare]] · [[city-state]]
-- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Chs. 14–15, Ellis)
+- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Chs. 14–15, Ellis); the classic "triumph of the territorial
+  state over the polis" narrative is in the ingested **[[jouguet-macedonian-imperialism|Jouguet,
+  *Macedonian Imperialism*]]**.

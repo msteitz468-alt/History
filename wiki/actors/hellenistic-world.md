@@ -9,7 +9,7 @@ affiliated_with: [the Ptolemies (Egypt), the Seleucids (Asia), the Antigonids (M
 opposed_by: [[[roman-republic|Rome]], [[parthian-empire|Parthia]], rival successor kingdoms]
 key_events: [Wars of the Diadochi, founding of the Library of Alexandria, Roman conquest of the East]
 key_processes: [Hellenization, [[trade-network-formation]], [[silk-roads]], [[ancient-science-and-technology]], [[coinage]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-10
 tags: [actor, state, classical-antiquity, mediterranean, near-east]
 ---
@@ -73,4 +73,7 @@ Hellenistic age has been rehabilitated as a creative, connected, genuinely
 cosmopolitan era — a shift CWH IV embodies by treating it as a node in world networks
 rather than a Greek decline. Debates concern the depth of Hellenization (a thin
 ruling-class veneer or a real fusion?), the degree of continuity with Achaemenid
-administration, and the agency of non-Greek populations.
+administration, and the agency of non-Greek populations. The older, idealizing version of the "fusion"
+thesis is preserved in the now-ingested classic **[[jouguet-macedonian-imperialism|Jouguet, *Macedonian
+Imperialism*]]** (1926) — Alexander as conscious architect of a Greek-Oriental synthesis — against which
+the modern qualifications can be measured.
