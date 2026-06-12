@@ -7,9 +7,9 @@ period: [Late Antiquity]
 region: [anatolia, balkans, italy, near-east]
 affiliated_with: [the eastern Roman (Byzantine) empire, Chalcedonian Christianity]
 opposed_by: [the Lombards, the Avars and Slavs, the Sasanids (Khusro I and II)]
-key_events: [the Lombard conquest of Italy (568), the loss of Sirmium to the Avars (582), the overthrow of Maurice (602)]
+key_events: [the Lombard Invasion of Italy (568), the loss of Sirmium to the Avars (582), the overthrow of Maurice (602)]
 key_processes: [the unravelling of Justinian's reconquest, the militarization preceding the seventh-century crisis]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, person, late-antiquity, anatolia]
 ---
@@ -28,8 +28,8 @@ quite say so, of the seventh-century collapse.
 Justinian's nephew **Justin II** repudiated the costly system of **diplomatic subsidies** by which Justinian
 had bought off the empire's enemies — a proud reassertion of Roman dignity that proved ruinous. The
 withdrawn payments and the dynastic upheavals of the steppe set the **Avars** loose: the **Lombards**,
-fearing their former Avar allies after the destruction of the Gepids, **migrated into Italy in 568** under
-**Alboin**, overrunning the peninsula that Justinian's Gothic War had just exhausted; the Avars seized
+fearing their former Avar allies after the destruction of the Gepids, **[[lombard-invasion-568|migrated into Italy in 568]]** under
+**[[alboin|Alboin]]**, overrunning the peninsula that Justinian's **[[gothic-war-535-554|Gothic War]]** had just exhausted; the Avars seized
 **Pannonia** and (582) the key fortress of **Sirmium**. Justin's defiance of **Khusro I** reopened the
 **Persian war** (from 572); the fall of **Dara (573)** broke his mind, and he lapsed into insanity. His
 wife **Sophia** and the *comes excubitorum* **Tiberius** governed in his stead.

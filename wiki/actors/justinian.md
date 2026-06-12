@@ -7,9 +7,9 @@ period: [Late Antiquity]
 region: [mediterranean-world, italy, north-africa, near-east]
 affiliated_with: [the eastern Roman (Byzantine) empire, Chalcedonian Christianity, Theodora, Belisarius, Tribonian]
 opposed_by: [the Vandals, the Ostrogoths, the Sasanids (Khusro I), the Monophysites, the Nika rioters]
-key_events: [the codification of Roman law (529–534), the Nika revolt (532), the building of Hagia Sophia (532–537), the reconquest of Africa and Italy, the plague of 541]
+key_events: [the codification of Roman law (529–534), the Nika Riots (532), the building of Hagia Sophia (532–537), the reconquest of Africa and Italy, the Justinianic Plague (541–542)]
 key_processes: [the "reconquest" of the west, the codification of Roman law, the enforcement of orthodoxy]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, person, late-antiquity, mediterranean-world]
 ---
@@ -43,16 +43,16 @@ chapter).
 
 ## Nika, Hagia Sophia, and the enforcement of orthodoxy
 
-In **January 532** the **Nika revolt** — sparked at the Hippodrome by the Blue and Green factions —
+In **January 532** the **[[nika-riots-532|Nika Riots]]** — sparked at the Hippodrome by the Blue and Green factions —
 engulfed Constantinople, burned its ceremonial heart, and nearly toppled Justinian (Theodora's "empire is
-a fair winding-sheet" reportedly kept him from flight); **Belisarius** and Narses suppressed it with the
+a fair winding-sheet" reportedly kept him from flight); **[[belisarius|Belisarius]]** and Narses suppressed it with the
 massacre of perhaps tens of thousands in the Hippodrome. From the ashes Justinian rebuilt the **Great
 Church of [[hagia-sophia|Hagia Sophia]]** (architects Anthemius of Tralles and Isidore of Miletus; dedicated
 537) — the supreme monument of his reign. A zealous enforcer of **orthodoxy**, he legislated harshly
 against **pagans, heretics, Manichaeans, Samaritans and Jews**; his ban on pagans teaching effectively
 **closed the [[closing-of-the-athenian-academy-529|Academy at Athens]] (529)**. In religion he sought
 endlessly to reconcile **Chalcedon** with the **Monophysites** (Theodora sheltering Monophysite clergy),
-culminating in the **Three Chapters** controversy and the Fifth Ecumenical Council (553) — and, by tradition,
+culminating in the **[[three-chapters-controversy|Three Chapters Controversy]]** and the Fifth Ecumenical Council (553) — and, by tradition,
 fell into heresy on his deathbed.
 
 ## The "reconquest"
@@ -60,21 +60,21 @@ fell into heresy on his deathbed.
 Justinian's most famous enterprise was the **recovery of the west**. After the "eternal peace" with the
 Sasanid **[[sassanid-empire|Khusro I]]** (532) freed his hands, **[[belisarius|Belisarius]]**:
 
-- **destroyed the [[vandal-kingdom|Vandal kingdom]] of Africa** (533–534) with stunning ease — victory at
+- **destroyed the [[vandal-kingdom|Vandal kingdom]] of Africa** (533–534) with stunning ease in the **Vandalic War** — victory at
   Ad Decimum, the capture of Carthage and king Gelimer, and a triumph in Constantinople parading the Temple
   treasures Geiseric had taken from Rome;
-- then invaded **[[theoderic-the-great|Ostrogothic Italy]]** (from 535) — taking Sicily, Naples, Rome (held
+- then invaded **[[theoderic-the-great|Ostrogothic Italy]]** in the **[[gothic-war-535-554|Gothic War]]** (from 535) — taking Sicily, Naples, Rome (held
   through a year-long Gothic siege), and finally **Ravenna (540)** — though the Italian war proved long and
-  ruinous, dragging on (under Narses) until 552–561.
+  ruinous, dragging on (under Narses) until 554.
 
-Africa, Italy and a coastal strip of **Spain** were restored to the empire, the Mediterranean briefly a
+Africa, Italy and a coastal strip of **Spain** (Spania) were restored to the empire, the Mediterranean briefly a
 Roman lake again.
 
 ## The shadow side: plague, exhaustion, and overstretch
 
-The triumph was shadowed. The **plague of 541** (the first recorded outbreak of bubonic plague) devastated
-the empire; the Italian reconquest left the peninsula impoverished and exposed (the **Lombards** would
-overrun it within a decade of his death); Persia and the Balkans pressed; and the financial strain was
+The triumph was shadowed. The **[[justinianic-plague-541|Justinianic Plague (541–542)]]** (the first recorded outbreak of bubonic plague) devastated
+the empire; the Italian reconquest left the peninsula impoverished and exposed (the **[[lombards|Lombards]]** would
+overrun it within a decade of his death — see **[[lombard-invasion-568|Lombard Invasion of 568]]**); Persia and the Balkans pressed; and the financial strain was
 severe. Whether Justinian's ambitions **overstretched the empire** — as his successor Justin II's propaganda
 claimed and Gibbon debated — remains, Cameron notes, an open question.
 

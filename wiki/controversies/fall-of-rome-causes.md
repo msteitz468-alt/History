@@ -3,9 +3,9 @@ title: Causes of the Fall of the Western Roman Empire
 dispute_type: causation
 period_involved: [Late Antiquity, Early Middle Ages]
 regions_involved: [western-europe, mediterranean, north-africa, italy]
-positions: [internal decline, external invasion, gradual transformation, environmental/epidemic, economic/fiscal]
+positions: [internal decline, external invasion, gradual transformation, environmental/epidemic, economic/fiscal, state-collapse trigger]
 resolution_status: open
-last_updated: 2026-06-10
+last_updated: 2026-06-12
 tags: [controversy]
 ---
 
@@ -64,6 +64,9 @@ Cyprianic plagues; later the Justinianic plague) as exogenous shocks degrading
 population, recruitment, and revenue. *Strength:* new paleoclimatic and genetic
 (*Yersinia pestis*) evidence. *Weakness:* timing the demographic impact precisely
 remains difficult.
+
+**6. The state-collapse trigger.**
+A model proposed by **Guy Halsall** (*New Cambridge Medieval History*, Vol. 1 Ch. 2): barbarian migrations were a **result**, not a cause, of the western Roman state's collapse. The dissolution of the Roman fiscal-military machine created political vacuums on the frontier and in the provinces. Local populations and incoming warrior elites responded by forming new, fluid coalitions—triggering rapid **[[ethnogenesis]]** as a rational strategy in social competition. Barbarians did not destroy Rome; rather, they were drawn into a Roman vacuum.
 
 ## The Pirenne Variant
 

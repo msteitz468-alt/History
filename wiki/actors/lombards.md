@@ -7,9 +7,9 @@ period: [Late Antiquity]
 region: [italy]
 affiliated_with: [the Germanic peoples, Arian (then Catholic) Christianity]
 opposed_by: [the eastern Roman (Byzantine) empire, the exarchate of Ravenna, the papacy, the Franks]
-key_events: [the Lombard invasion of Italy (568), the assassination of Alboin (572), the interregnum of the dukes (574–584)]
+key_events: [the Lombard Invasion of Italy (568), the assassination of Alboin (572), the interregnum of the dukes (574–584)]
 key_processes: [the fragmentation of Byzantine Italy, the formation of the barbarian successor kingdoms]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, late-antiquity, italy]
 ---
@@ -25,9 +25,9 @@ Treated in [[cameron-cah-v14-2000|CAH XIV]] Ch. 19 (Humphries, **Italy 425–605
 
 Originally a people north of the Danube, the Lombards were drawn by Justinian into **Pannonia** in the 540s
 as a counter to the Gepids and Franks; after destroying the Gepids with **Avar** help (567), they grew wary
-of their over-mighty allies and, under their king **Alboin**, **migrated into Italy in 568** — whether
+of their over-mighty allies and, under their king **[[alboin|Alboin]]**, **[[lombard-invasion-568|migrated into Italy in 568]]** — whether
 invited by the Byzantines or out of fear of the Avars is debated. Byzantine resources, exhausted by the
-Gothic War and committed against Persia, **could not halt the advance**: by the end of the century the
+**[[gothic-war-535-554|Gothic War]]** and committed against Persia, **could not halt the advance**: by the end of the century the
 Lombards held most of the **Po valley** (Pavia, taken after a dogged siege, became their capital) and had
 pushed deep into the centre and south.
 

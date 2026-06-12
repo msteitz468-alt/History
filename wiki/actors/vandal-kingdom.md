@@ -7,9 +7,9 @@ period: [Late Antiquity]
 region: [north-africa, mediterranean-world]
 affiliated_with: [the Hasding Vandals, Arian Christianity, the Alans]
 opposed_by: [the western and eastern Roman empires, the Catholic African church, the Berbers (Moors)]
-key_events: [the crossing into Africa (429), the capture of Carthage (439), the sack of Rome (455), the destruction of the kingdom by Belisarius (533–534)]
+key_events: [the crossing into Africa (429), the capture of Carthage (439), the sack of Rome (455), the destruction of the kingdom in the Vandalic War (533–534)]
 key_processes: [the formation of the barbarian successor kingdoms, the Arian persecution of African Catholics]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, late-antiquity, north-africa]
 ---
@@ -62,7 +62,7 @@ suffered mounting defeats by the **Berbers (Moors)** along the old desert *limes
 Hilderic's rapprochement with Constantinople (reversing the earlier Vandal–Ostrogothic alliance sealed by
 Thrasamund's marriage to **[[theoderic-the-great|Theoderic's]]** sister Amalafrida) led to his overthrow by
 his nephew **Gelimer (Gailamir) in 530**. This was the *casus belli* for **Justinian's** expedition of
-**533**, ostensibly to restore Hilderic. With the Vandal fleet diverted to a Sardinian revolt,
+**533** (the **Vandalic War**), ostensibly to restore Hilderic. With the Vandal fleet diverted to a Sardinian revolt,
 **[[belisarius|Belisarius]]** landed unopposed, defeated Gelimer at **Ad Decimum**, took **Carthage**, and
 crushed the regrouped Vandals at **Tricamarum**. Gelimer surrendered in 534 and was paraded in Belisarius's
 triumph at Constantinople (the recovered Temple treasures with him); the remaining Vandals were drafted into

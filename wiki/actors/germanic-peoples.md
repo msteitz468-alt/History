@@ -9,7 +9,7 @@ affiliated_with: [the Roman army (as recruits and allies), trans-Rhenane and tra
 opposed_by: [the Roman Empire on the Rhine and Danube frontiers]
 key_events: [the Marcomannic Wars (166–180), the abandonment of the Agri Decumates (c. 260), the Gothic invasions of the Balkans and Asia Minor]
 key_processes: [Germanic ethnogenesis, the formation of the Goths, Alamanni and Franks]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, movement, late-antiquity, western-europe, northern-europe]
 ---
@@ -123,3 +123,12 @@ them as the political heirs of Rome in the West:
 The decisive structural variable was **religion**: the Arian kingdoms (Vandal, Visigothic, Ostrogothic) were
 divided from their Catholic provincial subjects, while Clovis's conversion aligned crown, aristocracy and
 Church. Source: [[cameron-cah-v14-2000]] (Ch. 5, Ian Wood).
+
+---
+
+## Historiographical Shift: Ethnogenesis and Social Competition (NCMH Vol. 1)
+
+In the *New Cambridge Medieval History, Vol. 1*, **Guy Halsall** reframes the integration and settlements of post-Roman peoples:
+- **Rejection of biological migration models**: Refutes both traditional "Germanist" (mass racial migration) and "Romanist" (simple elite accommodation) narratives.
+- **Symbolic role of grave-goods**: Furnished burial with weapons and brooches did not passively mark ethnic background or pagan religion. Instead, it was an active strategy of **[[ethnogenesis]]** used during periods of social instability and competition. Dressing or burying individuals in "Frankish" or "Gothic" styles was a political statement to assert rank, family identity, and local authority as Roman administrative power decayed.
+- **Structural continuity**: Succesor kingdoms arose by occupying structural and territorial vacuums created by the collapse of the Roman tax-state, transforming local populations through cultural fusion rather than demographic replacement. Source: [[fouracre-ncmh-v1-2005]] (Ch. 2 & Ch. 3, Guy Halsall).

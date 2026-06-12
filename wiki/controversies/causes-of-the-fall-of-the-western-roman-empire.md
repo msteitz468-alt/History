@@ -58,6 +58,9 @@ long-distance trade and literacy. The fall was a **catastrophe with measurable c
 "transformation." **Chris Wickham** (CAH XIV Ch. 16) supplies the social mechanism: the replacement of a
 **tax-based aristocracy of service** by a **land-based aristocracy of lordship**.
 
+### 6. The state-collapse trigger (migrations as result, not cause)
+A model proposed by **Guy Halsall** (*New Cambridge Medieval History*, Vol. 1 Ch. 2): barbarian migrations were a **result**, not a cause, of the western Roman state's collapse. The dissolution of the Roman fiscal-military machine created political and administrative vacuums on the frontier and in the provinces. Local populations and incoming warrior elites responded by forming new, fluid coalitions—triggering rapid **[[ethnogenesis]]** as a rational strategy in social competition. Barbarians did not destroy Rome; rather, they were drawn into a Roman vacuum.
+
 ## Why the East survived
 
 Most positions now treat this as the controlling test. CAH XIV's contributors converge on a largely
@@ -82,4 +85,4 @@ genuine, severe consequences for material civilization, unevenly distributed acr
   complexity]]; the [[post-roman-transformation-of-the-west|social transformation]] (Wickham); the
   [[germanic-peoples|successor kingdoms]] ([[vandal-kingdom|Vandals]], [[theoderic-the-great|Ostrogoths]],
   [[clovis|Franks]])
-- Primary modern source: [[cameron-cah-v14-2000|CAH XIV]] (Heather, Lee, Ward-Perkins, Wickham, Wood)
+- Primary modern sources: [[cameron-cah-v14-2000|CAH XIV]] (Heather, Lee, Ward-Perkins, Wickham, Wood); [[fouracre-ncmh-v1-2005|NCMH Vol. 1]] (Halsall)

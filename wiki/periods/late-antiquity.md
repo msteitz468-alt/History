@@ -5,8 +5,8 @@ date_range: "31 BCE–600 CE"
 regions_covered: [mediterranean, western-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, north-africa, east-africa, central-asia, south-asia, china, steppe, indian-ocean]
 major_themes: ["the Roman Empire at its height and its transformation", "the Parthian and Sasanian empires", "the spread of universalizing religions (Christianity, Buddhism, Manichaeism)", "the Kushan Empire and the Silk Roads", "the Gupta 'golden age'", "the Han collapse and China's Age of Disunity", "steppe migrations and the 'fall' of the Western Empire", "the rise of Byzantium"]
 collection_coverage: strong
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [period]
 ---
 
@@ -35,13 +35,12 @@ follow.
 ## Major Developments
 
 **The Roman Empire and its transformation.** [[augustus|Augustus]]'s settlement
-(27 BCE) inaugurated two centuries of *pax Romana*, then the third-century crisis,
-[[diocletian|Diocletian]]'s and [[constantine|Constantine]]'s reorganization, the
-Christianization of the empire, and the fourth–fifth-century settlement of
-Germanic peoples within and across the western frontier. The deposition of Romulus
-Augustulus (476 CE) is now read not as "the fall of Rome" but as one episode in a
-longer transformation — see [[fall-of-western-roman-empire]] (transition page) and
-its standing controversy [[fall-of-rome-causes]].
+(27 BCE) inaugurated two centuries of *pax Romana*, followed by the third-century crisis,
+[[diocletian|Diocletian]]'s and [[constantine|Constantine]]'s reorganization—which established a centralized, 
+bureaucratic tax-state (using the *annona* and *caput*) and converted municipal elites (*curiales*) into imperial functionaries—and 
+the Christianization of the empire. This led to the fourth–fifth-century settlement of Germanic peoples within the frontier. 
+The deposition of Romulus Augustulus (476 CE) is read not as "the fall of Rome" but as one episode in a longer transformation—see 
+[[fall-of-western-roman-empire]] (transition page) and its standing controversy [[fall-of-rome-causes]].
 
 **Parthia and the Sasanians.** [[parthian-empire|Parthia]] (247 BCE–224 CE) and
 then the **[[sasanian-empire|Sasanian Empire]]** (224–651 CE) sustained a powerful
@@ -117,7 +116,9 @@ transition and [[byzantine-empire]] for the eastern continuity.
 **Source quality.** Abundant and varied: classicizing histories (Tacitus,
 Ammianus, Procopius), Christian historiography (Eusebius, the chronicle
 tradition), legal codes (the *Theodosian* and *Justinianic* codes), conciliar acts,
-saints' lives, and a rich documentary record (papyri, inscriptions). The
+saints' lives, and a rich documentary record (papyri, inscriptions). Post-Roman developments 
+are illuminated by epistolary collections (such as the *Austrasian Letters*), verse panegyrics (Corrippus, Fortunatus), 
+and early medieval charters containing formulaic *arengae* and dispositive clauses. The
 collection's *Translated Texts for Historians* series (Phase 5) is built precisely
 on this material. Sasanian Iran is comparatively source-poor, known largely
 through hostile Roman and later Islamic accounts; China's record is dense (the
@@ -127,16 +128,19 @@ dynastic histories); India's remains thin.
 study of this period is the **"transformation vs. decline-and-fall" debate** (Brown
 vs. the Gibbonian tradition, and more recently Ward-Perkins and Heather
 reasserting genuine catastrophe in the west) — a standing wiki controversy,
-[[fall-of-rome-causes]]. Also contested: the periodization of "Late Antiquity"
-itself (its expansion to 800 CE and beyond), the social reality behind
-Christianization, and the role of climate and pandemic (the Antonine and
-Justinianic plagues, the 536 CE volcanic dust-veil) in the period's crises.
+[[fall-of-rome-causes]]. The nature of barbarian integration is contested, heavily reframed by the theory of 
+**[[ethnogenesis]]** (focusing on subjective, fluid identity construction rather than static biological tribes). 
+Also contested: the periodization of "Late Antiquity" itself (its expansion to 800 CE and beyond), the social 
+reality behind Christianization, and the role of climate and pandemic (the Antonine and Justinianic plagues, 
+the 536 CE volcanic dust-veil) in the period's crises.
 
 **Recent revisionism.** The concept of "Late Antiquity" as a positive period in
-its own right (not a mere interregnum) is itself a late-20th-century creation;
-environmental and bioarchaeological history (plague aDNA, climate proxies) has
-recently pushed back toward seeing real systemic stress, partially re-complicating
-the Brownian consensus.
+its own right (not a mere interregnum) is itself a late-20th-century creation. In archaeology, 
+the old **Culture History** model (equating archaeological cultures with biological peoples and tracing migrations) 
+has been replaced by processual and post-processual paradigms. These treat the material record—specifically 
+the deposition of grave-goods in cemeteries—as active symbolic communication used to negotiate social status and 
+identity in times of instability. Environmental and bioarchaeological history (plague aDNA, climate proxies) has 
+also pushed back toward seeing real systemic stress, partially re-complicating the Brownian consensus.
 
 ## Collection Coverage Note
 

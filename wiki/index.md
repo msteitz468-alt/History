@@ -1,5 +1,13 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-12 (**NCMH Vol. 1, Cycle 4 complete — Themes and Problems (Part III, Chs. 20–28B); 8 pages created, 2 distinct existing pages updated** across Cycle 4 of the Large-Volume Protocol. Populated the thematic and analytical dimensions of the post-Roman transition: the legal standing of Jews under Roman and successor-kingdom law (**[[religio-licita]]**); barbarian law codes and the wergild system (**[[wergild]]**); the North Sea emporium network (**[[wic]]**) and the small silver sceatta coinage (**[[sceatta]]**); the proprietary church system (**[[eigenkirche]]**); the Insular art tradition (**[[insular-art]]**); the Christianisation of Anglo-Saxon England (**[[christianisation-of-anglo-saxon-england]]**); and the Pirenne thesis controversy (**[[pirenne-thesis]]**). Updated **[[early-middle-ages]]** and **[[post-roman-transformation-of-the-west]]**.)
+
+Last updated: 2026-06-12 (**NCMH Vol. 1, Cycle 3 complete — The Seventh Century (Part II, Chs. 11–19); 18 pages created, 2 distinct existing pages updated** across Cycle 3 of the Large-Volume Protocol. Populated seventh-century Byzantine/Persian/Arab wars, the rise and consolidation of the Caliphate under the Rashidun and Umayyads, Catholic Visigothic Spain, Merovingian mayors and regionalism in Francia, Christianisation and political consolidation in the British Isles, Scandinavian Vendel Period, and Slavic expansions. Created event pages **[[siege-of-constantinople-626]]**, **[[battle-of-nineveh-627]]**, **[[battle-of-yarmuk-636]]**, **[[first-fitna-656]]**, **[[second-fitna-680]]**, **[[battle-of-tertry-687]]**, **[[synod-of-whitby-664]]**, and **[[battle-of-nechtansmere-685]]**; created actors **[[rashidun-caliphate]]**, **[[umayyad-caliphate]]**, **[[abd-al-malik]]**, **[[theodore-of-tarsus]]**, **[[empire-of-samo]]**, **[[heraclius]]**, and **[[justinian-ii]]**; created concepts/controversies **[[liber-iudiciorum]]**, **[[theme-system]]**, and **[[monothelite-controversy]]**; updated **[[early-middle-ages]]** and **[[post-roman-transformation-of-the-west]]**.)
+
+Last updated: 2026-06-12 (**NCMH Vol. 1, Cycle 2 complete — The Sixth Century (Part I, Chs. 4–10); 9 pages created, 5 distinct existing pages updated** across Cycle 2 of the Large-Volume Protocol. Populated sixth-century Byzantine, Ostrogothic, Lombard, Visigothic, Merovingian, Celtic, and Anglo-Saxon developments. Created event pages **[[nika-riots-532]]**, **[[justinianic-plague-541]]**, **[[gothic-war-535-554]]**, **[[lombard-invasion-568]]**, and **[[third-council-of-toledo]]**; created biographies for **[[belisarius]]**, **[[leovigild]]**, and **[[gregory-of-tours]]**; created controversy page **[[three-chapters-controversy]]**; updated **[[justinian]]**, **[[successors-of-justinian]]**, **[[lombards]]**, **[[vandal-kingdom]]**, and **[[post-roman-transformation-of-the-west]]**.)
+
+Last updated: 2026-06-12 (**NCMH Vol. 1, Cycle 1 complete — Foundations and Sources (Fouracre ed., 2005); 1 page created, 5 distinct existing pages updated** across Cycle 1 of the Large-Volume Protocol. Initiated the New Cambridge Medieval History backbone. Created **[[ethnogenesis]]** concept page and updated **[[late-antiquity]]**, **[[early-middle-ages]]**, **[[germanic-peoples]]**, and the two standing fall-of-Rome controversies: **[[causes-of-the-fall-of-the-western-roman-empire]]** and **[[fall-of-rome-causes]]**.)
+
 Last updated: 2026-06-12 (**CAH Vol. XIV complete — Late Antiquity: Empire and Successors, A.D. 425–600 (Cameron, Ward-Perkins & Whitby eds., 2000); 17 pages created, 11 distinct existing pages updated**, across the Large-Volume Protocol's 5 section cycles. **The final volume of the Cambridge Ancient History** — and with it, the close of the wiki's complete CAH backbone (Vols VII.1–XIV). The end of antiquity itself: the definitive **fall of the western empire** (**fall-of-the-western-roman-empire-476**) and the rise of the **barbarian successor kingdoms** (**theoderic-the-great**/Ostrogothic Italy, **vandal-kingdom**, **clovis**/Frankish Gaul, **lombards**), set against the survival and resurgence of the **East** (**eastern-roman-empire-425-518**, climaxing in **justinian** — the reconquest, the **codification-of-roman-law**, **hagia-sophia** — then the unravelling under the **successors-of-justinian**). New content also covers the **non-Roman world** (**muhammad-and-the-rise-of-islam** on the final horizon; **avars-and-the-balkans**; Khusro I), the **Christological schism** (**council-of-chalcedon-451**), the **closing-of-the-athenian-academy-529**, the social transformation (**late-antique-family**, **post-roman-transformation-of-the-west**), and the standing **causes-of-the-fall-of-the-western-roman-empire** controversy. Updated late-roman-cities, late-roman-army, late-roman-emperorship, late-roman-administration, late-roman-economy, late-roman-church-institution, late-antique-asceticism, late-roman-art-and-architecture, germanic-peoples, sassanid-empire, and armenia into their fifth–sixth-century maturity. The CAH ends here; hands forward to the New Cambridge Medieval History from 500. Earlier volumes' summaries are preserved in their source pages and `log.md`.)
 
 Last updated (CAH XIII): 2026-06-12 (CAH Vol. XIII complete — The Late Empire, A.D. 337–425 (Cameron & Garnsey eds., 1998); **17 pages created, 8 distinct existing pages updated**, across the Large-Volume Protocol's 6 section cycles. The wiki crosses fully into **Late Antiquity** — a sustained double revision *against* both "decline and fall" and the "death of paganism." New content: the **narrative spine** (constantius-ii, **julian** the apostate, valentinian-and-valens, **theodosius-i**, stilicho, alaric; the **battle-of-adrianople-378** and the **sack-of-rome-410**); the **late-Roman state** (late-roman-emperorship — Kelly's bureaucracy-as-negotiation; late-roman-senate; late-roman-church-institution; late-roman-social-relations); the **barbarian world** (the **huns** as prime mover); and the **religious revolution** (the **arian-controversy**; **christianization-of-the-roman-empire** — finally filling a heavily-linked page; late-antique-asceticism; late-antique-literary-culture). Updated late-roman-army, late-roman-cities, late-roman-economy, late-polytheism, late-roman-art-and-architecture, germanic-peoples, sassanid-empire, and armenia into their fourth-century form. With CAH XII, the wiki's late-Roman core. Hands forward to CAH XIV — Late Antiquity: Empire and Successors (AD 425–600). Earlier volumes' summaries are preserved in their source pages and `log.md`.)
@@ -231,25 +239,26 @@ creation order with a one-line description.
 | `bowman-cah-v12-2005.md` | The Cambridge Ancient History, Volume XII: The Crisis of Empire, A.D. 193–337 (2nd ed.) | 2005 | reference |
 | `cameron-cah-v13-1998.md` | The Cambridge Ancient History, Volume XIII: The Late Empire, A.D. 337–425 | 1998 | reference |
 | `cameron-cah-v14-2000.md` | The Cambridge Ancient History, Volume XIV: Late Antiquity — Empire and Successors, A.D. 425–600 | 2000 | reference |
+| `fouracre-ncmh-v1-2005.md` | The New Cambridge Medieval History, Volume 1 — c. 500–c. 700 | 2005 | reference |
 
 ---
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **CAH Vol. XI** ingest. Recent volumes'
+Counts reflect actual files on disk as of the **NCMH Vol. 1, Cycle 4** Ingest. Recent volumes'
 detailed new/updated pages are catalogued in their source pages and `log.md`.
 
 | Category | Pages |
 |---|---|
 | Periods | 24 |
-| Events | 134 |
-| Processes | 86 |
-| Actors | 285 |
+| Events | 147 |
+| Processes | 87 |
+| Actors | 295 |
 | Places | 96 |
-| Concepts | 148 |
+| Concepts | 157 |
 | Comparisons | 0 |
-| Controversies | 34 |
+| Controversies | 37 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 22 |
-| **Total** | **828** |
+| Sources | 23 |
+| **Total** | **865** |
