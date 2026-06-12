@@ -8,7 +8,7 @@ region: [mediterranean, western-europe, northern-europe, eastern-europe, iberia,
 process_type: economic
 driven_by: ["urban and demographic growth", "the revival of Mediterranean trade", "Italian maritime republics", "credit and accounting innovation", "the Crusades and Levantine access", [[afro-eurasian-world-system]]]
 produces: ["a monetized, credit-based European economy", "the Italian and Hanseatic mercantile patriciates", "a 'first globalization' of trade by 1500", "the commercial preconditions for European oceanic expansion"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [process, high-middle-ages, late-middle-ages, mediterranean, western-europe]
 ---
@@ -69,6 +69,43 @@ and Byzantine south.
 - **The fifteenth-century synthesis**: despite the [[black-death|Black Death]] and
   the fourteenth-century depression, sea and land routes knit the Mediterranean and
   the north into one growing system — Balard's "first globalization."
+
+## The Thirteenth-Century Apogee (NCMH V)
+
+[[abulafia-ncmh-v5-2000|NCMH V]] (Kathryn Reyerson, Ch. 3) treats the thirteenth century
+as "the apogee of medieval economic expansion" — the brilliant "autumn of the Middle
+Ages" before the famine of 1315–17 and the late-medieval crises. Her chapter adds
+concrete texture to the Lopez thesis on three fronts:
+
+- **Communications and roads.** A dense network of revived Roman roads, secondary
+  routes, river systems (Rhine, Rhône, Po, Seine), and Alpine passes (Mont Cenis, the
+  St Gotthard opened c. 1230) carried trade; travel from the Mediterranean coast to
+  Paris took ~20–24 days by merchant caravan. The decisive innovation was the **opening
+  of the Atlantic sea route** (the first Genoese galleys reaching Bruges, 1277, followed
+  by the Majorcans), which slashed transport costs (London–Libourne by sea cost a
+  seventh of the overland equivalent) and began to **bypass the Champagne fairs**.
+- **The Champagne fairs.** Reyerson makes the six fairs of Troyes, Provins, Lagny, and
+  Bar-sur-Aube — patronized by the counts of Champagne, later the kings of France — the
+  "best laboratory" of medieval commerce: an annual ~50-day cycle that drew Flemish/
+  northern cloth exporters, Italian caravan-merchants, and Genoese capitalists, with
+  their own *lettres de foires*, wardens' courts, and law of *marque*. Their decline
+  (the last Italians, the Piacenzans, leaving by 1320) came from royal fiscality, the
+  Atlantic route, the rise of an integrated Italian cloth industry (Florence's *Arte
+  della Lana* displacing the *Calimala*), and the Italians' shift to **permanent branch
+  offices** in Bruges.
+- **Financial instruments and mentality.** Reyerson catalogues the *commenda* and
+  *societas* partnerships, the *cambium*/bill of exchange, sea loans, deposit banking,
+  marine insurance (a Palermo contract of 1350), double-entry bookkeeping, and the
+  merchant manuals (Pegolotti's *Pratica della mercatura*, c. 1340) — alongside the
+  risk-embracing **merchant mentality** ("buy cheap and sell dear") embodied by figures
+  like Benedetto Zaccaria (admiral, merchant, and pirate by turns) and the
+  unlimited-liability super-companies of the **Bardi, Peruzzi, and Tolomei** whose
+  bankruptcies close the period.
+
+Reyerson's chapter also reinforces the volume's frontier theme: the Genoese reached the
+Black Sea (Caffa, Trebizond) and the Venetians Alexandria and Tana, while Italian
+merchants traded in **Mongol-era China** (Marco Polo) — an "ephemeral European access"
+dependent on the unity of the Mongol empire and lost when it fragmented.
 
 ## Interaction
 

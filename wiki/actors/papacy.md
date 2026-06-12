@@ -9,7 +9,7 @@ affiliated_with: ["the Latin (Roman Catholic) Church", "the College of Cardinals
 opposed_by: ["the Holy Roman emperors (Investiture Contest; the Hohenstaufen struggle)", "antipopes", "the eastern (Orthodox) churches"]
 key_events: [[[investiture-contest]], "the Election Decree of 1059", "the East–West Schism (1054)", "the First Lateran Council (1123)"]
 key_processes: [[[gregorian-reform]], [[papal-monarchy]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, institution, mediterranean, western-europe]
 ---
@@ -52,6 +52,43 @@ pope was styled *vicarius Christi* and claimed the *plenitudo potestatis* over t
 Church — the most developed governmental institution in Latin Europe and the standing
 rival of emperors and kings. The breach with the Greek East (the **Schism of 1054**,
 hardened after 1204) defined the limits of the Roman claim (see [[eastern-churches]]).
+
+## The Thirteenth-Century Zenith and the Turn (NCMH V)
+
+[[abulafia-ncmh-v5-2000|NCMH V]] (J.A. Watt, Ch. 2a) treats the thirteenth century as
+the period when the papal monarchy **reached the peak of its effectiveness** and then
+began the decline that gathered momentum in the later Middle Ages. Watt distinguishes
+**three jurisdictions** the popes claimed: spiritual (as "monarch of all Churches"), a
+right to judge and intervene in the temporal order, and direct territorial rule over the
+**Papal State**.
+
+- **Government by council and college.** Watt organizes the century around the three
+  general councils used as instruments of policy — **Lateran IV (1215), Lyons I (1245),
+  Lyons II (1274)** — and the **College of Cardinals**, the "Senate of the Roman Church,"
+  which both elected the pope (the conclave system emerging informally, then codified by
+  *Ubi periculum*, 1274) and served as his council of full-time curial ministers and
+  legates. Eighteen popes ruled 1198–1303, most long-serving cardinals, ensuring policy
+  continuity — though family rivalries (Orsini, Caetani–Colonna) and long vacancies (nearly
+  three years, 1268–71) showed the system's strains.
+- **The theory of primacy.** **Innocent III** contributed most to the theory of papal
+  monarchy, developing *plenitudo potestatis* (fullness of power) and *vicarius Christi*
+  (vicar of Christ) — the pope "less than God but greater than man." **Lateran IV (1215)**
+  was its supreme expression: the best-attended medieval council, promulgating 71 decrees
+  on **crusade and reform**, the profession of faith (with *transubstantiation* defined),
+  pastoral discipline, annual confession and communion, marriage law, and the campaign
+  against heresy and the [[medieval-anti-judaism|Jews]].
+- **Codification of canon law.** A signal achievement: Gregory IX's **Liber Extra (1234)**,
+  compiled by Ramon de Penyafort, replaced the *Quinque compilationes* with a single
+  authoritative code (a sixth book added by Boniface VIII, 1298) that governed the Church
+  to the nineteenth century — "the most important volume ever produced for the government
+  of the Church."
+- **The turn.** The century's central political drama was the destruction of
+  [[frederick-ii-hohenstaufen|Frederick II]], whom Lateran IV had accepted as
+  emperor-elect (1215) and **Lyons I deposed (1245)** — the most drastic of all papal
+  political acts. By the pontificate of **Boniface VIII** (1294–1303) — *Unam Sanctam*
+  (1302), the clash with **Philip IV of France** — the papacy's universal political claims
+  were "spectacularly rebuffed by kings strong in the support of their Church and nation,"
+  and the withdrawal to Avignon was at hand.
 
 ## Significance and Longue Durée
 

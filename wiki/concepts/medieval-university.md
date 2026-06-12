@@ -5,7 +5,7 @@ origin: Emic; the corporate "universitas" of masters and students emerging at Bo
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [western-europe, mediterranean]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -54,8 +54,39 @@ theology, produced the professional jurists and theologians who staffed the
 European institution of higher learning unmatched in the medieval Islamic *madrasa* or
 Byzantine traditions in its corporate autonomy.
 
+## The Thirteenth-Century Maturation and Scholasticism (NCMH V)
+
+[[abulafia-ncmh-v5-2000|NCMH V]] (Jacques Verger, Ch. 2f) carries the institution into
+its formative maturity. The first universities were "born in the west around 1200,"
+crystallizing from the schools through the system of the ***licentia docendi*** regulated
+since Alexander III. Verger sharpens the two-prototype contrast:
+
+- **Bologna** — the **"student university"**: foreign law students grouped by origin into
+  *nations* that combined into two *universitates* (the Citramontane "University of the
+  Italians" and the Ultramontane), hiring and contracting with the doctors (who formed
+  *collegia* to control examinations) against the resistance of the commune. The oldest
+  surviving statutes date to 1252; a third university "of arts and medicine" formed by
+  1306.
+- **Paris** — the **"university of masters"**: the masters of arts (the youngest and most
+  numerous) led the move to **incorporate** as the *universitas magistrorum et scolarium*
+  c. 1200, wresting autonomy from the cathedral chancellor with **papal protection**. The
+  papacy required Paris to admit the [[mendicant-orders|mendicant orders]] (from 1229) and
+  **banned the teaching of civil law** there (lest it overshadow theology).
+- **Oxford** (indigenous origins, organized after a 1209 secession to Cambridge) and
+  **Montpellier** (medicine, law) followed the masters' model.
+
+The thirteenth-century university was the seedbed of **scholasticism** — the systematic
+application of Aristotelian logic, newly available through Arabic and Greek translation,
+to theology and law. The [[mendicant-orders|friars]] dominated the higher faculties:
+the Dominicans **Albertus Magnus** and **Thomas Aquinas** and the Franciscan
+**Bonaventure** held the Paris chairs, while the absorption of Aristotle also bred the
+[[catharism|condemned heterodoxies]] (the Latin Averroism of Siger of Brabant, censured
+1270/1277). The university thus became the intellectual engine of the
+[[high-middle-ages|thirteenth-century apogee]].
+
 ## Related
 
 - [[twelfth-century-renaissance]] — the intellectual revival it crowned.
 - [[ius-commune]] — the law studied at Bologna.
+- [[mendicant-orders]] — the friars who dominated the thirteenth-century faculties.
 - [[gregorian-reform]], [[papal-monarchy]] — the institutions universities served and supplied.

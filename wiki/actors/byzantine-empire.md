@@ -9,7 +9,7 @@ affiliated_with: [the Eastern Roman state, the Orthodox Church]
 opposed_by: [[[sasanian-empire|Sasanian Persia]], the [[caliphate|Caliphate]], Avars, Bulgars, Slavs, the Seljuk and Ottoman Turks]
 key_events: [reign of Justinian 527-565 CE, Arab conquests 630s-640s CE, survival of the Eastern Roman state, Fourth Crusade sack of Constantinople 1204, Ottoman conquest 1453]
 key_processes: [[[empire]], [[christianity|Orthodox Christianity]], [[silk-roads]], Roman legal codification]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-06-12
 tags: [actor, empire, late-antiquity, early-middle-ages, high-middle-ages, anatolia, mediterranean]
 ---
@@ -111,6 +111,23 @@ carried to a twelfth-century apogee under John II and **Manuel I** (d. 1180). Bu
 recovery's dependence on Latin mercenaries and Italian fleets, and Manuel's overreach,
 left the empire dangerously entangled with — and resented by — the West, the prelude to
 [[fourth-crusade-1204|1204]].
+
+## 1204, Exile, and the Restoration (NCMH V)
+
+[[abulafia-ncmh-v5-2000|NCMH V]] (David Jacoby, Michael Angold; Chs. 16a–b) treats the
+**[[fourth-crusade-1204|Fourth Crusade's]] sack of Constantinople (1204)** as the empire's
+"cosmic cataclysm" — the destruction of "the myth of Byzantine invulnerability." Byzantium
+fragmented into the **[[latin-empire-of-constantinople|Latin empire]]** (the crusader–Venetian
+partition) and three Greek **successor states in exile**: **Trebizond**, the despotate of
+**Epiros**, and the **[[empire-of-nicaea|empire of Nicaea]]**. Nicaea, under the **Laskarids**
+(Theodore I, John III Vatatzes), preserved Orthodox statehood and forged a virulently anti-Latin
+**ideology of exile**, before **Michael VIII Palaiologos** recovered **Constantinople (1261)**
+with [[republic-of-genoa|Genoese]] help (the Treaty of Nymphaion), founding the **Palaiologan**
+dynasty. But the restored empire was "a husk": power had become localised, Anatolia was
+alienated (soon lost to the Turks, including the nascent **Ottomans**), and Michael's
+unpopular **Union of Lyons (1274)** — a desperate hedge against [[charles-of-anjou|Charles of
+Anjou]], saved only by the [[sicilian-vespers-1282|Sicilian Vespers]] — left a legacy of
+"schism, poverty and rapid decline."
 
 ## Significance
 

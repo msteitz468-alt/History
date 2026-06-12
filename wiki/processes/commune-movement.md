@@ -8,7 +8,7 @@ region: [mediterranean, western-europe]
 process_type: political
 driven_by: ["the commercial and urban revival", "the decline of comital and episcopal public power in Italy", "the sworn association (coniuratio) of urban elites", "the weakness of distant imperial authority"]
 produces: ["the self-governing north-Italian city-republics", "the conflict with the empire (Lombard League)", "the later signorie and Renaissance city-states"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [process, high-middle-ages, mediterranean]
 ---
@@ -48,10 +48,16 @@ local public power** and the **commercial revival** of the towns.
    League]]**, whose victory at **[[battle-of-legnano-1176|Legnano (1176)]]** and the
    **Peace of Constance (1183)** secured communal autonomy under nominal imperial
    overlordship.
-3. **Internal conflict and transformation (13th c.).** Factional strife (Guelfs and
-   Ghibellines, magnates and *popolo*) and the rise of single lords (*signori*)
-   gradually transformed many communes into the **signorie** treated in
-   [[abulafia-ncmh-v5-2000|NCMH V]] — the seedbed of the Renaissance city-states.
+3. **Internal conflict and transformation (13th c.).** [[abulafia-ncmh-v5-2000|NCMH V]]
+   (Trevor Dean, Louis Green) details how factional strife — the
+   [[guelphs-and-ghibellines|Guelf–Ghibelline]] division and the struggle of **magnates**
+   and ***popolo*** — fractured the communes, most of which were "weak, divided and unable to
+   command adequate political consent." Two divergent outcomes followed. In much of Lombardy
+   and the Veneto, single lords (***[[signoria|signori]]***) — Ezzelino da Romano, then the
+   Visconti, Este and della Scala — recreated **monarchical power at the local level**, the
+   seedbed of the Renaissance principalities. Elsewhere the **guild republic** survived and
+   matured: [[florence|Florence]] built the priorate and the Ordinances of Justice (1293),
+   and [[republic-of-venice|Venice]] its stable patriciate.
 
 ## Interaction
 
@@ -66,3 +72,5 @@ is a defining feature of medieval and Renaissance Italy.
 - [[lombard-league]], [[battle-of-legnano-1176]] — the communes' league and victory against the empire.
 - [[frederick-i-barbarossa]] — their imperial antagonist.
 - [[commercial-revolution]], [[kingdom-of-italy]] — the economic base and political setting.
+- [[signoria]], [[guelphs-and-ghibellines]] — the thirteenth-century transformation and its factional driver.
+- [[florence]], [[republic-of-venice]], [[republic-of-genoa]] — communes that remained republics.

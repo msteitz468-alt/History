@@ -8,8 +8,8 @@ region: [mesopotamia, near-east, iran-plateau, mediterranean, china, east-asia, 
 process_type: political
 driven_by: ["agricultural surplus and storage", "warfare and conquest", "[[urbanization]]", "long-distance [[trade-network-formation|trade]]", "ideology and religion", "control of information ([[writing-and-record-keeping]])", "managing [[pastoral-nomadism|nomad]] frontiers"]
 produces: ["[[empire]]", "[[city-state]]", "bureaucracy and taxation", "standing armies", "law", "social stratification", "[[slavery]]"]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [process, classical-antiquity, early-middle-ages, mesopotamia, china]
 ---
 
@@ -116,6 +116,33 @@ traditions also generated the tensions that pulled it apart. The comparative cha
 that follow (China, Mongols, Byzantium, the Western Sudan, Postclassic Mesoamerica,
 the Inca) test the thesis that **religion and empire-building were fused** across the
 period's many independent trajectories.
+
+## The Thirteenth-Century Western Monarchies (NCMH V)
+
+[[abulafia-ncmh-v5-2000|NCMH V]] documents a distinct and consequential episode of state
+formation: the consolidation of the **bureaucratic territorial monarchies** of Latin Europe
+in the long thirteenth century. Two trajectories stand out and **diverge**:
+
+- **England and France** built intensive, document-based central governments — exchequer,
+  chancery, itinerant justices, *baillis*/*sénéchaux*, *parlement* — financed increasingly by
+  **extraordinary taxation** rather than domain. In England this drove the growth of
+  **[[english-parliament|parliament]]** and the principle, asserted in **[[magna-carta-1215|Magna
+  Carta]]**, that the king is bound by law: taxation came to require **consent**
+  ([[edward-i-plantagenet|Edward I]]). In France ([[louis-ix-capetian|Louis IX]],
+  [[philip-iv-capetian|Philip IV]]) the legist-driven crown achieved comparable centralisation
+  with weaker consultative checks, humbling even the papacy.
+- **Germany / the Empire** moved the **opposite way**: the fall of the
+  [[frederick-ii-hohenstaufen|Hohenstaufen]] and the [[german-interregnum-1250|Interregnum]]
+  shifted state-building down to the **territorial principalities**, producing elective
+  "small kings" and **Hausmacht** dynasticism ([[rudolf-of-habsburg|the Habsburgs]]) rather
+  than a centralised realm.
+
+A recurring engine in both cases is the technique-transfer of administration across frontiers
+(English bailliage and exchequer models adopted by the [[house-of-savoy|house of Savoy]]) and
+the friction between royal centralisation and **urban autonomy** (the towns of
+[[county-of-flanders|Flanders]] blunting French absorption at [[battle-of-courtrai-1302|Courtrai]]).
+The episode confirms Tilly's "war made the state": the Anglo-French and Aragonese-Angevin wars
+were the proximate spur to fiscal and institutional innovation.
 
 ## End Conditions
 

@@ -5,7 +5,7 @@ origin: Emic; the social and ideological formation of the mounted warrior (miles
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [western-europe, mediterranean]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -60,6 +60,55 @@ into an **order** with its own status, rituals, and ethic:
   the *[[chanson-de-geste|chansons de geste]]* (the *Chanson de Roland*) and, from the
   twelfth century, the romances of Chrétien de Troyes — which both reflected and
   idealised the knightly world.
+
+## The Thirteenth-Century Transformation: From Order to Class
+
+[[abulafia-ncmh-v5-2000|NCMH V]] (Robert Stacey, Ch. 1a) carries the story forward:
+across the thirteenth century the *chevaliers* completed the journey "from *ordo* to
+social class." Chivalry, which had bound together men of wildly disparate wealth — from
+emperors to near-landless retainers — into a single ideological order, became by 1300 a
+**hereditary, legally bounded nobility**, smaller in numbers but securely installed at
+its lower edge. The aristocracy of thirteenth-century Europe, Stacey argues, defined
+itself **not** by any single structural criterion but by self-conscious adherence to a
+European-wide cult of chivalric knighthood.
+
+The paradox of the century is that as the *prestige* of knighthood rose (great lords
+styling themselves *milites*), the *number* of men taking up formal knighthood **fell** —
+because the rising costs of descent, display, and dubbing excluded the merely armed. The
+gap was filled by a new rank of undubbed **squires** (*armigeri*, *damoiseaux*), who by
+1300 made up the majority of fief-holders in regions like the Forez and Mâconnais.
+
+Stacey's comparative survey shows the same outcome reached by divergent routes:
+
+- **Northern France** — chivalry's heartland; by c. 1300 nobility became a defined
+  **legal status** carrying fiscal, judicial, and military immunities, adjudicated by
+  the *parlement* of Paris and crowned by Philip the Fair's patents of ennoblement. A
+  marked **crisis of the petty nobility** set in as inflation ate fixed rents.
+- **England** — a broadly parallel assimilation of knights into the *domini*, but
+  nobility **never became a term of legal art**: the shire knights emerged as an
+  independent political group (the "commons" in parliament), and English great lords
+  enjoyed no tax exemptions — conventionally read as a sign of the strength of the crown
+  and the prosperity of the magnates.
+- **The Empire** — free knights were rare; the *chevalerie* was filled by the legally
+  **unfree *ministeriales***, whose practical freedom (to alienate fiefs, marry, hold of
+  many lords) often exceeded that of French knights. After the fall of the Staufen
+  (1250s) lordless imperial ministerials flooded German society, splitting into an upper
+  *Herrenstand* and a lower *Ritterstand*.
+- **Italy** — chivalry was as much an **urban** enthusiasm as a rural one; in the
+  communes mounted service was compulsory above a wealth threshold, and dubbing marked
+  *magnate* status — which is why anti-magnate communes (famously Florence) tried to bar
+  dubbed knights from office.
+- **Castile** — the frontier *caballeros villanos* (commoner knights enfranchised for
+  mounted Reconquista service) fused with the urban *hidalgos* into a closed hereditary
+  aristocracy of "knights by lineage," a unity Alfonso X cultivated through the *Siete
+  Partidas* and the cult of the Cid. In **Catalonia** the explosive growth of Barcelona
+  and intermarriage between merchant patriciate and rural nobility produced an unusually
+  mobile aristocratic society (the example of Ramon Llull).
+
+Stacey's underlying point — that an aristocracy of "barons, knights and urban magnates"
+of disparate origins was welded into a **noble class** by shared chivalric culture — is
+the social-history counterpart to the volume's political theme of the consolidation of
+the European nobility.
 
 ## Significance
 

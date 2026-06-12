@@ -1622,3 +1622,17 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | NCMH II — c. 700–c. 900 (McKitterick ed., 1995) | Section: Part IV — Culture & Intellectual Developments (Chs 25–30) | Pages created: 5 | Pages updated: 1
 
 ## 2026-06-12 ingest-complete | NCMH Vol. 2 — c. 700–c. 900 (McKitterick ed., 1995) | Total pages created: 45 | Total pages updated: 5 | Sections processed: 5
+
+## 2026-06-12 section | NCMH V — c. 1198–c. 1300 (Abulafia ed., 2000) | Section: Cycle 1 — Introduction + Part I "Common Themes" (nobles/knights, urban, rural, commerce, vernacular, art) | Pages created: 1 | Pages updated: 5
+
+## 2026-06-12 section | NCMH V — c. 1198–c. 1300 (Abulafia ed., 2000) | Section: Cycle 2 — Part II "The Church in the Thirteenth Century" (papacy, Albigensian Crusade & heresy, Church & laity, Church & Jews, religious orders, universities) | Pages created: 5 | Pages updated: 2
+
+## 2026-06-12 section | NCMH V — c. 1198–c. 1300 (Abulafia ed., 2000) | Section: Cycle 3 — Part III "The Western Kingdoms" (Capetians Louis VIII→Philip IV; Plantagenets John→Edward I, Magna Carta & parliament; Burgundy-Arles & Savoy; Germany Welfs–Hohenstaufen–Habsburgs & the Interregnum; Flanders) | Pages created: 16 | Pages updated: 4
+
+## 2026-06-12 section | NCMH V — c. 1198–c. 1300 (Abulafia ed., 2000) | Section: Cycle 4 — Part IV "Italy" (maritime republics Genoa/Venice/Pisa, Sardinia & Corsica, the rise of the signori, Florence, the kingdom of Sicily under Hohenstaufen & Angevins, the Sicilian Vespers) | Pages created: 6 | Pages updated: 4
+
+## 2026-06-12 section | NCMH V — c. 1198–c. 1300 (Abulafia ed., 2000) | Section: Cycle 5 — Part V "The Mediterranean Frontiers" (Latin empire of Constantinople & Frankish Greece, Byzantium in exile/Nicaea & the 1261 recovery, the 13th-c. crusades, the crusader states & the rise of the Mamluks/Ain Jalut/fall of Acre, the Maghrib, Nasrid Granada, the Crown of Aragon & Castile) | Pages created: 8 | Pages updated: 3
+
+## 2026-06-12 section | NCMH V — c. 1198–c. 1300 (Abulafia ed., 2000) | Section: Cycle 6 — Part VI "The Northern and Eastern Frontiers" (Mongols & Europe/1241, Scandinavia, the Teutonic Knights & the Baltic Crusade, the central European kingdoms, the Balkan states, the Rus′, the Celtic lands) | Pages created: 5 | Pages updated: 2
+
+## 2026-06-12 ingest-complete | NCMH Vol. 5 — c. 1198–c. 1300 (David Abulafia ed., 2000) | Total pages created: 41 | Total pages updated: 18 | Sections processed: 6

@@ -7,9 +7,9 @@ period: [High Middle Ages]
 region: [mediterranean]
 affiliated_with: [[[papacy|the papacy]] (overlord), "the Hauteville dynasty"]
 opposed_by: [[[byzantine-empire|Byzantium]], "the western emperors", "the rebellious south-Italian baronage", "the north-African Muslim powers"]
-key_events: ["the coronation of Roger II (1130)", [[norman-conquest-of-southern-italy]]]
+key_events: ["the coronation of Roger II (1130)", [[norman-conquest-of-southern-italy]], "the Constitutions of Melfi (1231)", "the conquest by Charles of Anjou (1266)", [[sicilian-vespers-1282|the Sicilian Vespers (1282)]]]
 key_processes: []
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, mediterranean]
 ---
@@ -61,6 +61,36 @@ The marriage of **Constance** (Roger II's daughter and eventual heiress) to
 papal-encircling power whose conflict with the papacy dominates the thirteenth century
 ([[abulafia-ncmh-v5-2000|NCMH V]]). The Norman kingdom thus ended dynastically even as
 the kingdom of Sicily itself continued.
+
+## The Thirteenth Century: Hohenstaufen, Angevin, Aragonese (NCMH V)
+
+[[abulafia-ncmh-v5-2000|NCMH V]] (David Abulafia, Ch. 15e) treats the *Regno* — Sicily plus the
+mainland south — as the great **prize** of thirteenth-century Mediterranean politics, contested
+because its grain, wool and oil and its taxes on trade made it "an attractive prize to whichever
+would-be conqueror acquired control." The recurring problem was **who had the right to grant its
+crown**: the popes claimed it as **suzerains** (a tie reactivated under the Angevins), against
+the Sicilian assemblies of barons that acclaimed kings, and against the danger of a king who was
+also **emperor**.
+
+- **Hohenstaufen.** **Henry VI** conquered the kingdom (1194) and held it as a private domain;
+  his son **[[frederick-ii-hohenstaufen|Frederick II]]**, after a long minority under the
+  guardianship of [[innocent-iii|Innocent III]], reasserted the centralised Norman monarchy from
+  1220. He controlled fiefs and succession, used a **"grain weapon"** and state warehouses,
+  issued the gold ***augustalis*** (1231) with its neo-classical imperial portrait, and codified
+  royal authority in the ***Constitutions of Melfi* (1231)** — the king as God-appointed scourge
+  of sin. He crushed the **Muslims of Sicily** and deported them to the colony at **Lucera** in
+  Apulia. His personal union of empire and kingdom drove the mortal struggle with the papacy
+  (deposition at Lyons I, 1245). His line was extinguished after 1250: **Manfred** (his bastard,
+  crowned 1258, killed at Benevento 1266) and **Conradin** (executed 1268).
+- **Angevin.** The papacy offered the crown to **[[charles-of-anjou|Charles of Anjou]]**, who
+  conquered the kingdom (1266), kept the Norman–Hohenstaufen administration, and pursued
+  ambitions in the Balkans, Byzantium and Jerusalem — funding them by the same heavy taxation that
+  bred resentment.
+- **The split.** The **[[sicilian-vespers-1282|Sicilian Vespers]]** (1282) tore the **island**
+  away to the **Aragonese** while the Angevins kept the mainland (the kingdom of **Naples**). The
+  twenty-year War of the Vespers ended in the **Peace of Caltabellotta (1302)**, leaving two
+  Sicilian kingdoms: Aragonese island Sicily ("Trinacria," under **Frederick III**) and Angevin
+  Naples, the latter bound ever closer to Guelf [[florence|Florence]] and its bankers.
 
 ## Related
 

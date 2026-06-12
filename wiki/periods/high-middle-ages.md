@@ -5,7 +5,7 @@ date_range: "1000–1300 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road]
 major_themes: ["the thickening of Afro-Eurasian exchange webs", "the commercial revolution and a 'first globalization'", "the apogee of Song China", "the Crusades and Christian–Islamic frontier conflict", "cultural crystallization across Eurasian ecumenes", "the rise of universities and scholastic learning", "the eve of the Mongol conquests", "demographic expansion across the Old World", "Angkor, Cahokia, and regional apogees beyond Eurasia"]
 collection_coverage: strong
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [period]
 ---
@@ -82,6 +82,18 @@ of cardinals, legates, and Lateran councils, and released the greatest
 **[[medieval-monastic-revival|monastic revival]]** in European history (the
 [[cistercian-order|Cistercians]], Carthusians, and regular canons). NCMH IV warns
 against reading this whole transformation merely as a papal–imperial duel.
+
+**The consolidation of the western monarchies.** The thirteenth century is the formative age
+of the Latin European **state**. [[abulafia-ncmh-v5-2000|NCMH V]] traces the divergent
+trajectories: in **France** ([[louis-ix-capetian|Louis IX]], [[philip-iv-capetian|Philip
+IV]]) and **England** ([[john-of-england|John]], [[henry-iii-of-england|Henry III]],
+[[edward-i-plantagenet|Edward I]]) intensive bureaucratic monarchies grew on a base of taxation
+and law — England's path running through **[[magna-carta-1215|Magna Carta]]** (1215) and the
+birth of **[[english-parliament|parliament]]**, France's through a legist-driven crown that
+humbled the papacy; while the **Empire**, after the fall of [[frederick-ii-hohenstaufen|Frederick
+II]] and the [[german-interregnum-1250|Interregnum]], devolved power to its territorial princes
+and a new elective, **Hausmacht** kingship ([[rudolf-of-habsburg|the Habsburgs]]). See
+[[state-formation]].
 
 **Regional apogees beyond Eurasia.** [[angkor|Angkor]] reached its monumental
 height; Cahokia peaked and declined; the Toltec and early Postclassic orders
@@ -168,7 +180,27 @@ supplies the reference backbone for the central Middle Ages — the socioeconomi
 Crusades, the twelfth-century renaissance and the universities, the Norman conquests
 of England and Sicily, the communes, the Reconquista after Toledo (1085), and the
 Komnenian Byzantium — being ingested cycle by cycle (Cycle 1 covers the thematic
-socioeconomic and legal foundations above). **NCMH V** (c. 1198–c. 1300) remains to
-follow for the thirteenth century, along with specialist Song, Seljuk, Crusader, and
-Indian Ocean material. South and Southeast Asia and the interior of sub-Saharan
-Africa stay comparatively thin.
+socioeconomic and legal foundations above). **[[abulafia-ncmh-v5-2000|NCMH V]]** (c.
+1198–c. 1300, David Abulafia ed.) is now being ingested in turn: it reframes the
+thirteenth century around the theme of **expansion** — of Latin Christendom, the economy,
+population, and government — and adopts a deliberately "horizontal," **frontier**-centred
+perspective embracing Byzantium, the Mamluks, the Maghrib, and the Mongols rather than the
+old pope-versus-emperor narrative. Its **Cycle 1** (thematic "Common Themes") now deepens
+the period's social and cultural backbone here: the transformation of the
+[[chivalry|nobility from chivalric order to legal class]], the apogee of the
+[[urbanization|medieval town]] and the [[commercial-revolution|commercial revolution]]
+(the Champagne fairs, the Atlantic sea route, Italian super-companies), the
+[[rise-of-vernacular-literatures|rise of the vernaculars]], and the thirteenth-century
+flowering of [[gothic-architecture|Gothic]]. **Cycle 2** ("The Church") added the
+[[papacy|papal monarchy's]] zenith, the [[albigensian-crusade-1209|Albigensian Crusade]] and
+[[catharism|heresy]], the [[medieval-inquisition|Inquisition]], the [[mendicant-orders|friars]],
+[[medieval-anti-judaism|the persecution of the Jews]], and scholasticism. **Cycle 3** ("The
+Western Kingdoms") now supplies the political backbone — the [[capetian-dynasty|Capetian]] and
+[[angevin-empire|Plantagenet]] monarchies ([[louis-ix-capetian|St Louis]],
+[[edward-i-plantagenet|Edward I]], [[magna-carta-1215|Magna Carta]], [[english-parliament|parliament]]),
+the [[frederick-ii-hohenstaufen|Hohenstaufen]] collapse and the rise of the
+[[rudolf-of-habsburg|Habsburgs]], the [[house-of-savoy|kingdom of Arles]], and urban
+[[county-of-flanders|Flanders]] ([[battle-of-courtrai-1302|Courtrai]]). Later cycles will follow
+for Italy, the Mediterranean frontiers, and the northern/eastern frontiers, along with specialist
+Song, Seljuk, Crusader, and Indian Ocean material. South and
+Southeast Asia and the interior of sub-Saharan Africa stay comparatively thin.

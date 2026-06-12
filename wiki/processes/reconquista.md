@@ -8,7 +8,7 @@ region: [iberia, north-africa, mediterranean]
 process_type: political
 driven_by: ["the fragmentation of al-Andalus (the taifa kingdoms)", "the demographic and military expansion of the northern Christian kingdoms", "the parias tribute system", "crusading ideology and the military orders", "frontier settlement (repoblación)"]
 produces: ["the Christian kingdoms of León-Castile, Aragon, Navarre, and Portugal", "the fall of Toledo (1085), the Almoravid/Almohad reaction, and Las Navas de Tolosa (1212)", "a frontier society of convivencia and conflict"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [process, high-middle-ages, iberia, mediterranean]
 ---
@@ -56,6 +56,27 @@ not always share), but it names a real and consequential process.
    de Tolosa (1212)**, opening the great thirteenth-century conquests (Córdoba 1236,
    Seville 1248) treated in [[abulafia-ncmh-v5-2000|NCMH V]].
 
+## The Thirteenth-Century Climax (NCMH V)
+
+[[abulafia-ncmh-v5-2000|NCMH V]] (David Abulafia, Chs. 17a–b) treats the long thirteenth
+century as the **decisive phase**. The Christian victory at **Las Navas de Tolosa (1212)** broke
+the [[almohads|Almohad]] army and exposed al-Andalus to "a process of fission" into weak taifa
+statelets. The Christian kingdoms then made their greatest gains:
+
+- **Castile** under **[[christian-kingdoms-of-spain|Ferdinand III]]** took **Córdoba (1236)**,
+  **Jaén (1246)** and **Seville (1248)**, and reduced **Murcia** to a tributary (annexed
+  1243–1266); **Alfonso X** consolidated and settled the conquests.
+- The **[[crown-of-aragon|Crown of Aragon]]** under **James I** took the **Balearics
+  (1229–1235)** and **Valencia (1238)**, turning Reconquista into Mediterranean empire.
+
+The conquered Muslims sank into the degraded status of ***mudéjares***. Crucially, the advance
+**stopped short of [[nasrid-granada|Granada]]**: protected by its sierras and by the lack of
+outside support that doomed its neighbours, the Nasrid emirate survived as a Castilian tributary
+— the great exception that would endure until 1492. Abulafia stresses that the collapse of the
+unitary [[almohads|Almohad]] empire into the [[maghrib-successor-states|tripartite Maghrib]]
+removed the North African counterweight that had twice (Almoravid, Almohad) reversed the
+reconquest.
+
 ## Interaction
 
 The Reconquista was assimilated to the [[crusades|crusade]] (papal indulgences for
@@ -79,3 +100,4 @@ expansion.
 - [[almoravids]], [[almohads]] — the Berber empires that resisted it.
 - [[christian-kingdoms-of-spain]], [[el-cid]] — the Christian agents and the era's emblematic figure.
 - [[crusades]] — the ideology assimilated to it.
+- [[crown-of-aragon]], [[nasrid-granada]], [[maghrib-successor-states]] — the thirteenth-century conquerors, the surviving Muslim state, and the fragmented Maghrib behind them.

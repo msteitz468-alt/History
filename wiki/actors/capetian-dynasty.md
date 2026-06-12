@@ -2,14 +2,14 @@
 title: The Capetian Dynasty and Late-Carolingian West Francia
 actor_type: dynasty
 date_start: 987 CE (accession of Hugh Capet)
-date_end: 1328 CE (end of the direct Capetian line) — this page covers to c. 1108
+date_end: 1328 CE (end of the direct Capetian line) — this page covers the dynasty's origins to c. 1108, with a survey of the thirteenth-century apogee
 period: [Early Middle Ages, High Middle Ages]
 region: [western-europe]
 affiliated_with: [the Robertines, the archbishopric of Rheims, [[cluny]]]
 opposed_by: [the last Carolingians (Charles of Lorraine), the great territorial princes]
 key_events: [the election of Hugh Capet 987]
-key_processes: [the rise of the French territorial principalities, [[feudal-revolution-debate|the mutation de l'an mil]]]
-sources_ingested: 2
+key_processes: [the rise of the French territorial principalities, [[feudal-revolution-debate|the mutation de l'an mil]], the thirteenth-century consolidation of the French monarchy]
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, dynasty, early-middle-ages, high-middle-ages, western-europe]
 ---
@@ -45,6 +45,31 @@ of French society was being transformed (the rise of castellan lordship, new hie
 the [[gregorian-reform|reform]] of the Church), and the monarchy had to find a new place
 within it. This is the low ebb from which the resurgent Capetian monarchy of
 [[philip-ii-augustus|Louis VI–Philip II]] (Cycle 9) would rebuild royal power.
+
+## The Thirteenth-Century Apogee (NCMH V)
+
+[[abulafia-ncmh-v5-2000|NCMH V]] (William Chester Jordan, Ch. 11) carries the dynasty to its
+medieval **zenith** under the successors of [[philip-ii-augustus|Philip II Augustus]]. On the
+foundation of Philip's conquests (Normandy, Anjou, confirmed at [[battle-of-bouvines-1214|Bouvines]],
+1214), the thirteenth-century Capetians built the most effective monarchy in Latin Europe:
+
+- **Louis VIII** (1223–1226) secured the conquests and pressed the [[albigensian-crusade-1209|Albigensian
+  Crusade]] into Languedoc.
+- **[[louis-ix-capetian|Louis IX / Saint Louis]]** (1226–1270) consolidated administration
+  (the *baillis* and *sénéchaux*, the *enquêtes*, the *parlement*), crusaded twice, and
+  invested the crown with a sacral *auctoritas* sealed by his canonisation (1297).
+- **Philip III** (1270–1285) annexed Toulouse on Alphonse of Poitiers' death (1271) and
+  perished in the disastrous Aragonese Crusade.
+- **[[philip-iv-capetian|Philip IV / the Fair]]** (1285–1314) ruled through a corps of
+  southern **legists**, humbled [[boniface-viii|Boniface VIII]] (Anagni, 1303), expelled the
+  Jews (1306) and destroyed the Templars (1307), and drove the bureaucratic royal state to a
+  pinnacle that provoked the noble leagues of 1314.
+
+The mechanism throughout was the **apanage** system (cadet princes endowed with provinces,
+yet bound to the crown), the steady absorption of great fiefs (Toulouse, Champagne-Navarre,
+French Flanders), and the alliance with — and eventual mastery over — the papacy. The
+dynasty's outward, Mediterranean thrust ran through Louis IX's brother **[[charles-of-anjou|Charles
+of Anjou]]**, king of Sicily.
 
 ## Significance
 

@@ -9,7 +9,7 @@ affiliated_with: [[[pastoral-nomadism]], "the Chinggisid line", "the Yuan, Ilkha
 opposed_by: [[[song-dynasty|Southern Song]], [[abbasid-caliphate|Abbasid Caliphate]], "the Mamluks", "Japan", "the Delhi Sultanate"]
 key_events: ["the conquest of the Jin and Xixia", "the sack of Baghdad (1258)", "the conquest of Song China (1279)", "the division into four khanates"]
 key_processes: [[[afro-eurasian-world-system]], [[pastoral-nomadism]], [[silk-roads]], [[state-formation]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [actor, empire, high-middle-ages, late-middle-ages, steppe, central-asia]
 ---
@@ -70,6 +70,25 @@ unity":
 Mid-fourteenth-century crises collapsed the Ilkhanate (1335) and Yuan (1368); the
 fall of the Yuan conventionally ends the "Mongol period," though from a Muslim
 vantage the "Mongolian moment" extends to the Timurids' demise (1500).
+
+## The Western Campaigns and the Frontiers of Europe (NCMH V)
+
+[[abulafia-ncmh-v5-2000|NCMH V]] (Peter Jackson, Ch. 18a) details the empire's collision with
+Latin Christendom and the Islamic Near East at its western edge. Batu's great campaign conquered
+the **[[rus-principalities|Rus′]]** (Kiev, 1240) and then struck into Europe in the
+**[[mongol-invasion-of-europe-1241|invasion of 1241]]**, crushing the Poles at Legnica and the
+Hungarians at Mohi before its sudden retreat (linked to pasturage exhaustion, Ögödei's death, or
+limited aims). On the southern front the Mongols destroyed the Seljuks of Rum at **Köse Dağ
+(1243)** and, under **Hülegü**, sacked **Baghdad** and ended the Abbasid Caliphate (1258) before
+being checked by the [[mamluk-sultanate|Mamluks]] at **[[battle-of-ain-jalut-1260|Ain Jalut]]**
+(1260). The campaigns of 1241–1260 were "the last military efforts of the **united** empire":
+thereafter the **dissolution into four khanates** and the **Berke–Hülegü** (Golden Horde vs
+Ilkhanate) feud in the Caucasus meant Mongol princes allied with outsiders against each other —
+the Muslim **Golden Horde** with the **Mamluks**, the **Ilkhanate** seeking allies in western
+Europe against Egypt. The papal missions to the qaghan's court (**Carpini**, 1245–47; later
+**Rubruck**) opened Latin Europe's first sustained contact with the Mongol world. The
+**Golden Horde** became the long-term overlord of the [[rus-principalities|Rus′ princes]] and a
+standing menace to [[central-european-kingdoms|Poland and Hungary]].
 
 ## Inter-Civilizational Exchange (Biran's Thesis)
 

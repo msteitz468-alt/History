@@ -9,7 +9,7 @@ affiliated_with: ["the Masmuda Berbers", "the doctrine of tawhid (divine unity)"
 opposed_by: [[[christian-kingdoms-of-spain|the Christian Iberian kingdoms]], [[almoravids|the Almoravids]]]
 key_events: ["the conquest of the Almoravid Maghreb (1147)", "Battle of Alarcos (1195)", "Battle of Las Navas de Tolosa (1212)"]
 key_processes: [[[reconquista]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, dynasty, high-middle-ages, north-africa, iberia]
 ---
@@ -52,14 +52,30 @@ written in Almohad Córdoba and Seville — would shape the Latin
 [[twelfth-century-renaissance|universities]]. The Almohads were also patrons of
 monumental architecture (the Giralda of Seville, the Kutubiyya of Marrakesh).
 
+## The Collapse (NCMH V)
+
+[[abulafia-ncmh-v5-2000|NCMH V]] (Michael Brett, Ch. 17c; David Abulafia, Ch. 17b) traces the
+**collapse** after **Las Navas de Tolosa (1212)**. Brett stresses that the empire had "two feet
+of clay" — subjects divided by religion, region, tribe, and the townsman/nomad split, held
+together only by allegiance to the caliph. The defeat broke the army (the caliph an-Nasir "barely
+escaped" and died in disgrace); succession disputes, Arab tribal insubordination, and the
+repudiation of Ibn Tumart's doctrine shattered the regime in the 1220s–1230s. The empire
+fragmented into the **[[maghrib-successor-states|tripartite Maghrib]]** — **Hafsids** (Tunis),
+**Ziyanids** (Tlemcen), **Marinids** (Morocco) — while **al-Andalus** fell away: **Córdoba**
+fell to Castile (1236) and the Christian advance left little Muslim Spain beyond
+**[[nasrid-granada|Nasrid Granada]]**.
+
 ## Significance
 
 The Almohads were the last great Berber empire to dominate Iberia; their defeat at Las
 Navas de Tolosa (1212) marked the irreversible turning of the [[reconquista|Reconquista]]
-in the Christians' favour and the beginning of the end of al-Andalus.
+in the Christians' favour and the beginning of the end of al-Andalus. Their fall removed the
+**North African counterweight** that had twice reversed the reconquest, and their fragmentation
+gave European merchants greater access to the Saharan gold trade.
 
 ## Related
 
 - [[almoravids]] — the predecessor empire they overthrew.
 - [[reconquista]], [[al-andalus|al-Andalus]] — the Iberian context.
+- [[maghrib-successor-states]], [[nasrid-granada]] — the states that emerged from their collapse.
 - [[twelfth-century-renaissance]] — Averroes and the transmission of Aristotle.

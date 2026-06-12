@@ -8,8 +8,8 @@ region: [mesopotamia, near-east, north-africa, mesoamerica, andes, china, south-
 process_type: demographic
 driven_by: [[[agriculture-and-urbanism]], [[domestication]], surplus and storage, defense and warfare, ritual and pilgrimage, trade and exchange, state formation]
 produces: [[[city-state]], [[ruralization]], social stratification, [[writing-and-record-keeping]], the state, [[heterarchy|new forms of power]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [process, chalcolithic, early-bronze-age, mesopotamia]
 ---
 
@@ -72,6 +72,20 @@ Wright) with recurring contributors:
    Córdoba and the Islamic cities as the era's true urban centres alongside
    Constantinople) led; the North Sea/Baltic emporia (Haithabu, Birka) and the
    revived Frankish, Rhenish, and Anglo-Saxon towns followed. See [[commercial-revolution]].
+   By the **thirteenth century** ([[abulafia-ncmh-v5-2000|NCMH V]], Steven Epstein, Ch.
+   1b) this revival reached its medieval peak: Europe remained overwhelmingly rural (only
+   ~10% urban, perhaps 20% in the densest zones of Flanders and northern Italy), but rapid
+   population growth — sustained by **continuous in-migration**, since unhealthy cities did
+   not reproduce themselves — pushed the giants upward. **Paris** reached ~200,000;
+   **Venice and Florence** ~100,000 (a transport-limited ceiling); Cologne, Milan, Bruges,
+   Genoa, and London half that; while war-wrecked **Constantinople** declined to a shadow.
+   Epstein emphasizes the city as a place of **wage labour and the guild** (*métier*,
+   *Zunft*, *arte*), of charity dispensed largely by the Church, of professionalizing
+   public service (the *podestà*, the *prévôt*), and of the rising **popolo** — but also as
+   an engine of marginalization, where Jews, Muslims, lepers, and prostitutes were
+   compelled to mark themselves with badges, bells, and distinctive dress and confined to
+   regulated quarters. The decline of rural serfdom and the growth of cities were two faces
+   of one **town–country symbiosis**.
 
 ## Geographic Spread
 

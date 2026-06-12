@@ -9,7 +9,7 @@ affiliated_with: [the Rurikid dynasty, [[byzantine-empire|Byzantium]], the Varan
 opposed_by: [the Pechenegs, the Khazar khaganate, the Volga Bulgars, Byzantium (intermittently)]
 key_events: [[[conversion-of-vladimir-988]]]
 key_processes: [the Christianisation of Rus′, the Varangian river trade]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, state, early-middle-ages, high-middle-ages, eastern-europe]
 ---
@@ -43,6 +43,19 @@ became a loose family confederation of increasingly autonomous principalities �
 "appanage" pattern that would leave the Rus′ lands divided on the eve of the Mongol
 conquest of the thirteenth century.
 
+## The Mongol Conquest (NCMH V)
+
+[[abulafia-ncmh-v5-2000|NCMH V]] (Simon Franklin, Ch. 18d) carries the story to its
+catastrophe: the **[[mongol-empire|Mongol]]** conquest of the eastern Slav lands, "the symbolic
+divide" ending old Kievan Rus′ and beginning the "Tartar yoke." After the Mongols destroyed a
+Rus′–Polovtsian army at the **Kalka (1223)**, Batu's onslaught took **Riazan** (1237) and
+**Vladimir** (1238), killed the grand prince Iurii at the river Sit′, and sacked **Kiev (6
+December 1240)**. The fragmented Riurikid principalities — now treated under
+[[rus-principalities|the Rus′ under the Mongols]] — became tributaries of the **Golden Horde**,
+their centre of gravity shifting north and east toward Vladimir, Novgorod and the rising Moscow.
+Franklin frames the lasting historiographical debate as a **pendulum between catastrophe and
+continuity**.
+
 ## Significance
 
 Kievan Rus′ created the first durable east Slav state, fixed Orthodox Christianity (and the Cyrillo-Methodian Slavonic liturgy) as the foundation of Russian and Ukrainian civilisation, and tied the forest zone of eastern Europe into the long-distance commerce of the Viking and Byzantine worlds. Its choice of **Constantinople over Rome** in 988 set eastern Europe on a confessional and cultural trajectory distinct from the Latin west of [[capetian-dynasty|France]], the [[ottonian-dynasty|Reich]], and Latin-Christian [[boleslaw-i-chrobry|Poland]] and [[premyslid-bohemia|Bohemia]].
@@ -52,3 +65,4 @@ Kievan Rus′ created the first durable east Slav state, fixed Orthodox Christia
 - `concurrent_with:` the [[boleslaw-i-chrobry|Piast]] and [[premyslid-bohemia|Přemyslid]] states; the steppe Pechenegs and Khazars.
 - `affiliated_with:` [[byzantine-empire|Byzantium]] (see Cycle 5) — the model and the missionary source.
 - `produced:` the Christianisation of the east Slavs ([[conversion-of-vladimir-988]]).
+- `followed_by:` [[rus-principalities|the Rus′ principalities under the Mongols]] and the [[mongol-invasion-of-europe-1241|Mongol conquest]].
