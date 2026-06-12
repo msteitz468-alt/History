@@ -9,7 +9,7 @@ affiliated_with: [Umayyad dynasty, Damascus]
 opposed_by: [Byzantine Empire, Kharijites, Alids (Shi'ites), Abbasid Caliphate]
 key_events: [first-fitna-656, second-fitna-680, siege-of-constantinople-674, battle-of-guadalete-711]
 key_processes: [rise-of-islam, arab-conquests, arabization-of-administration]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, early-middle-ages, levant, near-east]
 ---
@@ -47,3 +47,4 @@ Under Caliph [[abd-al-malik|Abd al-Malik]], the Umayyads undertook a major reorg
 ## References
 
 - *The New Cambridge Medieval History, Volume 1: c. 500–c. 700*, edited by Paul Fouracre. Cambridge University Press, 2005 (Chapter 12).
+- An early Christian witness from inside the Caliphate is now ingested as **[[hoyland-theophilus-edessa-chronicle|Theophilus of Edessa's Chronicle]]** — the reconstructed "common source" behind Theophanes, Agapius and the Syriac tradition.

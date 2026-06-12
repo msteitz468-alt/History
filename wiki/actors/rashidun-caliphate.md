@@ -9,7 +9,7 @@ affiliated_with: [early Muslim community (umma), Medina, Kufa]
 opposed_by: [Byzantine Empire, Sassanid Empire, rebels of the First Fitna]
 key_events: [battle-of-yarmuk-636, battle-of-qadisiyya-637, conquest-of-egypt-642, first-fitna-656]
 key_processes: [rise-of-islam, arab-conquests]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, late-antiquity, early-middle-ages, arabian-peninsula, near-east]
 ---
@@ -41,3 +41,4 @@ Ali, Muhammad's cousin and son-in-law, was proclaimed caliph in Medina. His legi
 ## References
 
 - *The New Cambridge Medieval History, Volume 1: c. 500–c. 700*, edited by Paul Fouracre. Cambridge University Press, 2005 (Chapter 12).
+- A near-contemporary non-Muslim witness to the conquests is now ingested as **[[hoyland-theophilus-edessa-chronicle|Theophilus of Edessa's Chronicle]]**.
