@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | The Complete Works of Zhuangzi (trans. Burton Watson; Asian Classics) | Classical Antiquity | china, east-asia | Pages created: 3 | Pages updated: 2
+
 ## 2026-06-12 ingest | Han Feizi: Basic Writings (trans. Burton Watson; Asian Classics) | Classical Antiquity | china, east-asia | Pages created: 3 | Pages updated: 2
 
 ## 2026-06-12 ingest | Mencius (trans. Bloom; ed. Ivanhoe; Asian Classics) | Classical Antiquity | china, east-asia | Pages created: 2 | Pages updated: 2

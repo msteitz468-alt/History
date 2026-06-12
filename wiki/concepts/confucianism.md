@@ -5,7 +5,7 @@ origin: the ru (scholar) tradition rooted in Shang-Zhou ritual masters; shaped b
 applies_to_periods: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [china, east-asia, korea, japan]
 contested: yes
-sources_ingested: 2
+sources_ingested: 4
 last_updated: 2026-06-10
 tags: [concept]
 ---

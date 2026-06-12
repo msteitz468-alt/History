@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[zhou-dynasty|collapse of Zhou royal authority]], rise of sovereign territorial states, military and administrative competition]
 consequences: [[[qin-dynasty|Qin unification of China 221 BCE]], the centralized bureaucratic imperial state, Legalist statecraft, the [[axial-age|classical schools of thought]]]
-sources_ingested: 2
+sources_ingested: 4
 last_updated: 2026-06-10
 tags: [event, transition, classical-antiquity, china, east-asia]
 ---
