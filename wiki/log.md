@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | Apollonius of Rhodes, Jason and the Golden Fleece (Argonautica) (trans./intro Hunter; OWC 1993) | Classical Antiquity | aegean, anatolia, north-africa, mediterranean | Pages created: 2 | Pages updated: 1
+
 ## 2026-06-12 ingest | Homer, The Iliad (trans. Verity; intro Graziosi; OWC 2011) | Late Bronze Age, Early Iron Age, Archaic Period | aegean, anatolia | Pages created: 1 | Pages updated: 2
 
 ## 2026-06-12 ingest | Pliny the Younger, Complete Letters (trans./intro Walsh; OWC 2006) | Late Antiquity | italy, mediterranean, anatolia | Pages created: 3 | Pages updated: 3

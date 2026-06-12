@@ -9,7 +9,7 @@ affiliated_with: [the Ptolemies (Egypt), the Seleucids (Asia), the Antigonids (M
 opposed_by: [[[roman-republic|Rome]], [[parthian-empire|Parthia]], rival successor kingdoms]
 key_events: [Wars of the Diadochi, founding of the Library of Alexandria, Roman conquest of the East]
 key_processes: [Hellenization, [[trade-network-formation]], [[silk-roads]], [[ancient-science-and-technology]], [[coinage]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [actor, state, classical-antiquity, mediterranean, near-east]
 ---
@@ -30,7 +30,9 @@ the emerging [[silk-roads|Silk Roads]] and the Indian Ocean.
 
 - **Ptolemaic Egypt** (Alexandria) — the richest, with a Greek ruling class over an
   Egyptian population; home to the **Library and Museum of Alexandria**, the great
-  research institution of the age.
+  research institution of the age — whose scholar-poetry is now represented in the wiki by the ingested
+  **[[apollonius-argonautica|*Argonautica*]]** of **[[apollonius-of-rhodes|Apollonius]]**, the Royal
+  Librarian under Ptolemy II.
 - **Seleucid Asia** — the largest and most diverse, stretching from Anatolia to Iran,
   founding cities (Antioch, Seleucia) but steadily losing the east.
 - **Antigonid Macedon** — the old homeland, dominant over the Greek mainland.
