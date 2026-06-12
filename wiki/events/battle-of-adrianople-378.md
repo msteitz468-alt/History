@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the Hunnic irruption driving the Goths to the Danube (c. 375), the mismanaged admission of the Tervingi into Thrace (376), Valens' refusal to await Gratian's army]
 consequences: [the destruction of the eastern field army and death of Valens, the accession of [[theodosius-i|Theodosius I]], the settlement of the Goths as autonomous foederati (382)]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [event, late-antiquity, balkans]
 ---
@@ -72,4 +72,5 @@ new era of barbarian settlement.
 - `produced:` the accession of [[theodosius-i|Theodosius I]] and the Gothic *foedus* of 382; `followed_by:`
   the [[sack-of-rome-410|sack of Rome]] under [[alaric|Alaric]]
 - `analogous_to:` the [[battle-of-cannae-216bce|battle of Cannae]] (Ammianus' own comparison)
-- Source: [[cameron-cah-v13-1998]] (Ch. 3, John Curran)
+- Source: [[cameron-cah-v13-1998]] (Ch. 3, John Curran); the contemporary documents on the Goths are now
+  ingested in **[[heather-matthews-goths-fourth-century|The Goths in the Fourth Century]]**.

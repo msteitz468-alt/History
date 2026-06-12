@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | The Goths in the Fourth Century (TTH 11; trans./intro Heather & Matthews) | Late Antiquity | balkans, eastern-europe, anatolia | Pages created: 2 | Pages updated: 2
+
 ## 2026-06-12 ingest | Conquerors and Chroniclers of Early Medieval Spain (TTH 9; trans./intro Wolf) | Late Antiquity, Early Middle Ages | iberia, north-africa | Pages created: 2 | Pages updated: 2
 
 ## 2026-06-12 admin | TTH 07 (Chronicon Paschale) and TTH 10 (Victor of Vita) skipped — Markdown conversions corrupt (front-matter/page-markers only; source PDFs already removed). Substituted TTH 44 and TTH 51 to keep batch of 10.

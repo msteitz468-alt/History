@@ -9,7 +9,7 @@ affiliated_with: [the Roman army (as recruits and allies), trans-Rhenane and tra
 opposed_by: [the Roman Empire on the Rhine and Danube frontiers]
 key_events: [the Marcomannic Wars (166–180), the abandonment of the Agri Decumates (c. 260), the Gothic invasions of the Balkans and Asia Minor]
 key_processes: [Germanic ethnogenesis, the formation of the Goths, Alamanni and Franks]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, movement, late-antiquity, western-europe, northern-europe]
 ---
@@ -132,3 +132,9 @@ In the *New Cambridge Medieval History, Vol. 1*, **Guy Halsall** reframes the in
 - **Rejection of biological migration models**: Refutes both traditional "Germanist" (mass racial migration) and "Romanist" (simple elite accommodation) narratives.
 - **Symbolic role of grave-goods**: Furnished burial with weapons and brooches did not passively mark ethnic background or pagan religion. Instead, it was an active strategy of **[[ethnogenesis]]** used during periods of social instability and competition. Dressing or burying individuals in "Frankish" or "Gothic" styles was a political statement to assert rank, family identity, and local authority as Roman administrative power decayed.
 - **Structural continuity**: Succesor kingdoms arose by occupying structural and territorial vacuums created by the collapse of the Roman tax-state, transforming local populations through cultural fusion rather than demographic replacement. Source: [[fouracre-ncmh-v1-2005]] (Ch. 2 & Ch. 3, Guy Halsall).
+
+Contemporary fourth-century sources on the Goths — Gothic village society (the Passion of St Saba), the
+Arian conversion under **[[ulfila|Ulfila]]**, and the crossing of 376 — are now ingested in
+**[[heather-matthews-goths-fourth-century|The Goths in the Fourth Century]]** (Heather & Matthews). The
+Arianism Ulfila taught made the Germanic successor peoples religiously distinct from their Catholic Roman
+subjects for centuries.
