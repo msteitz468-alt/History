@@ -7,7 +7,7 @@ period_active: [Late Antiquity]
 controlled_by: [Rome (the province of Britannia), from the Claudian conquest of AD 43]
 events_here: [the completion of the Flavian conquest, Mons Graupius (AD 83), the building of Hadrian's Wall (122) and the Antonine Wall (c. 142)]
 processes_here: [the conquest and frontier-building of Britain, the uneven Romanization and urbanization of the province]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [place, british-isles, late-antiquity]
 ---
@@ -18,7 +18,11 @@ The empire's remote north-western island province (Britannia), whose history fro
 Severus was "dominated by military affairs" — the Flavian conquest, the abandonment of Scotland,
 and the two great frontier walls. Treated in [[bowman-cah-v11-2000|CAH XI]] Ch. 18 (**Martin
 Millett**), built largely from **archaeology** (the written record, dominated by Tacitus' *Agricola*
-and the **Vindolanda tablets**, being thin and hard to correlate with the dig evidence).
+and the **Vindolanda tablets**, being thin and hard to correlate with the dig evidence). Tacitus's
+*Agricola* is now ingested directly — see **[[tacitus-agricola-germany]]** — as the eyewitness (if
+partial) source for the governorship of his father-in-law **[[agricola|Agricola]]**, the campaign to
+Mons Graupius, and the Calgacus speech that gives the conquest its bitterest epitaph ("they make a
+desert and call it peace").
 
 ## The Flavian conquest and retreat
 

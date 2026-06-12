@@ -9,7 +9,7 @@ affiliated_with: [the Roman Senate, the Flavian and Trajanic regimes, Pliny the 
 opposed_by: []
 key_events: [his senatorial career (quaestor, praetor 88, consul 97, proconsul of Asia c. 112/13), the writing of the Histories and the Annals]
 key_processes: [the writing of imperial Roman history, the senatorial critique of the principate]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, person, late-antiquity, italy]
 ---
@@ -37,9 +37,10 @@ forced silence" he laments in the *Agricola* — colours his whole view of the p
 
 ## The Works
 
-- **Agricola** (98) — a biography/eulogy of his father-in-law, doubling as an attack on Domitian.
+- **Agricola** (98) — a biography/eulogy of his father-in-law, doubling as an attack on Domitian; now
+  ingested as **[[tacitus-agricola-germany|*Agricola and Germany*]]**.
 - **Germania** (98) — an ethnography of the German peoples, contrasting their "simple integrity" with
-  Roman decadence.
+  Roman decadence; ingested with the *Agricola* (see **[[tacitus-agricola-germany]]**).
 - **Dialogus de Oratoribus** — on the decline of oratory.
 - **Histories** (c. 106–110) — the year of the four emperors (69) to the death of Domitian (96); five
   books survive.
