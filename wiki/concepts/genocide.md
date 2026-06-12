@@ -5,8 +5,8 @@ origin: Coined by Raphael Lemkin (Axis Rule in Occupied Europe, 1944); codified 
 applies_to_periods: [Long 19th Century, World Wars Era, Cold War, Contemporary]
 applies_to_regions: [global, eastern-europe, near-east, africa]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [concept]
 ---
 
@@ -75,7 +75,10 @@ the empires' collapse.
 
 Following the volume's introduction, Levene links twentieth-century genocide to
 nineteenth-century legacies: the rise of the homogenizing national state; the extreme
-violence of "high [[imperialism]]" (the Herero genocide, the Belgian Congo); and the
+violence of "high [[imperialism]]" (the Herero genocide, and the
+**[[congo-free-state|Belgian Congo]]** — Leopold II's rubber regime, documented by
+**[[hochschild-king-leopolds-ghost|Hochschild]]**, whose ~10-million demographic
+collapse is a standard contested borderline case, turning on the intent threshold); and the
 **social-evolutionary and racial thought** that rationalized the elimination of
 "inferior" groups — a "toxic brew" especially likely when rulers felt "behind" in a
 merciless inter-state competition.
