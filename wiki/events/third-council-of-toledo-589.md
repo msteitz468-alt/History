@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["Reccared's personal conversion to Catholic Christianity (587)", "Leovigild's failed attempt to unify Spain under Arianism", "The need to reconcile the Gothic ruling class with the Gallo-Roman/Hispano-Roman majority"]
 consequences: ["Formal conversion of the Visigoths and Sueves to Catholicism", "Alliance of the Visigothic Monarchy and the Catholic Church", "Integration of bishops into state administration and law-making", "Establishment of the filioque clause in the western creed", "Anti-Jewish legislation in Visigothic Spain"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [event, late-antiquity, iberia]
 ---
@@ -68,4 +68,5 @@ The council fundamentally reshaped the Visigothic state:
 
 *   **Actors**: [[reccared-i]] · [[leovigild]] · [[germanic-peoples]]
 *   **Places**: [[rome]]
-*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]
+*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]; the contemporary chronicles
+    (John of Biclaro, Isidore) are now ingested in **[[wolf-conquerors-chroniclers-spain]]**.

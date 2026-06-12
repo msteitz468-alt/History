@@ -9,7 +9,7 @@ affiliated_with: [the Visigothic Kingdom, Arian Christianity]
 opposed_by: [the Sueves, the Byzantines, Hermenegild]
 key_events: [military unification of Hispania, annexation of the Sueve Kingdom (585), Hermenegild's rebellion (579–584)]
 key_processes: [Visigothic consolidation of Spain, Visigothic legal reform]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, person, late-antiquity, iberia]
 ---
@@ -57,4 +57,5 @@ Leovigild left a consolidated, unified Iberian state but a deeply unsettled reli
 
 *   **Actors**: [[reccared-i]] · [[germanic-peoples]] · [[justinian]]
 *   **Events**: [[third-council-of-toledo]] · [[gothic-war-535-554]]
-*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]
+*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]; the contemporary narrative is now
+    ingested in **[[wolf-conquerors-chroniclers-spain|John of Biclaro's Chronicle]]**.

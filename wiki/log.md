@@ -11,6 +11,10 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | Conquerors and Chroniclers of Early Medieval Spain (TTH 9; trans./intro Wolf) | Late Antiquity, Early Middle Ages | iberia, north-africa | Pages created: 2 | Pages updated: 2
+
+## 2026-06-12 admin | TTH 07 (Chronicon Paschale) and TTH 10 (Victor of Vita) skipped — Markdown conversions corrupt (front-matter/page-markers only; source PDFs already removed). Substituted TTH 44 and TTH 51 to keep batch of 10.
+
 ## 2026-06-12 ingest | Virgil, Georgics (trans. Fallon; intro Fantham; OWC 2006) | Classical Antiquity | italy, mediterranean | Pages created: 2 | Pages updated: 1
 
 ## 2026-06-12 ingest | Ovid, Metamorphoses (intro/notes Kenney; trans. Melville; OWC) | Classical Antiquity, Late Antiquity | italy, mediterranean, aegean | Pages created: 2 | Pages updated: 1
