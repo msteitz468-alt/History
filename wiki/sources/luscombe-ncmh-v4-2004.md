@@ -108,3 +108,22 @@ Created: `processes/reconquista.md`, `actors/almoravids.md`, `actors/almohads.md
 Resolved the period page's dangling `[[reconquista]]` link. (Kennedy Ch. 16 → Iberian
 pages; Chazan Ch. 17 → Jewry; Ziolkowski Ch. 18 → chanson-de-geste/vernacular, with the
 Latin revival folded into twelfth-century-renaissance; Kidson Ch. 19 → Romanesque/Gothic.)
+
+### Part 2 — the regional narrative (Cycles 5–9)
+
+**Cycle 5 — Reform papacy, Salian empire, Italy in the 11th c. (Pt 2, chs 2–4).**
+Created: `actors/salian-dynasty.md`, `actors/henry-iv-holy-roman-emperor.md`,
+`events/norman-conquest-of-southern-italy.md`, `actors/papacy.md`. These resolved the
+heavily-used dangling `[[papacy]]` link and the Cycle-2 forward links `[[salian-dynasty]]`
+and `[[henry-iv-holy-roman-emperor]]`. (Blumenthal Ch. 2 on the papacy 1024–1122 folded
+into the new papacy and Gregorian-reform pages; Vollrath Ch. 3 → Salians/Henry IV; Loud
+Ch. 4b → the Norman conquest of the south; Tabacco Ch. 4a on eleventh-century north
+Italy folded forward, with the communes reserved for Cycle 8 where they are central.)
+
+**Cycle 6 — Western kingdoms in the 11th c.: Franks, Spain, England (Pt 2, chs 5–7).**
+Created: `events/norman-conquest-of-england-1066.md`, `actors/william-the-conqueror.md`,
+`actors/el-cid.md`, `events/domesday-book.md`. Updated: `actors/capetian-dynasty.md`
+(the weak-but-secure early Capetians to 1108; sources 1→2),
+`actors/christian-kingdoms-of-spain.md` (Sancho III's division, Fernando I, Alfonso VI,
+Toledo 1085, El Cid; sources 1→2). (Bouchard Ch. 5 → Capetians; Barton Ch. 6 → Spanish
+kingdoms + El Cid; Chibnall Ch. 7 → the Norman Conquest of England and Domesday.)

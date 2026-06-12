@@ -2,14 +2,14 @@
 title: The Capetian Dynasty and Late-Carolingian West Francia
 actor_type: dynasty
 date_start: 987 CE (accession of Hugh Capet)
-date_end: 1328 CE (end of the direct Capetian line) — this page covers to 1024
+date_end: 1328 CE (end of the direct Capetian line) — this page covers to c. 1108
 period: [Early Middle Ages, High Middle Ages]
 region: [western-europe]
 affiliated_with: [the Robertines, the archbishopric of Rheims, [[cluny]]]
 opposed_by: [the last Carolingians (Charles of Lorraine), the great territorial princes]
 key_events: [the election of Hugh Capet 987]
 key_processes: [the rise of the French territorial principalities, [[feudal-revolution-debate|the mutation de l'an mil]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, dynasty, early-middle-ages, high-middle-ages, western-europe]
 ---
@@ -31,6 +31,20 @@ On the death of the childless **Louis V** (987), Archbishop **Adalbero of Rheims
 ## The Territorial Principalities
 
 The substance of power lay with the princes: **Normandy** (the dukes from Rollo), **Flanders** (the Baldwins), **Burgundy**, **Aquitaine/Poitou** (the dukes William), **Toulouse**, the **county of Barcelona/Catalonia**, and **Anjou/Blois**. In the south especially (the Peace of God heartland; see [[peace-of-god]]) royal authority was nominal, homages slow or withheld (the count of Barcelona never performed one). The fragmentation of these principalities into castellanies in the decades around 1000 is the empirical core of the [[feudal-revolution-debate|*mutation de l'an mil*]] debate — for which west Francia (with Catalonia) is the classic ground.
+
+## The Early Capetians to 1108 (NCMH IV)
+
+[[luscombe-ncmh-v4-2004|NCMH IV]] (Constance Brittain Bouchard, Ch. 5, "The kingdom of
+the Franks to 1108") carries the story through the eleventh century — the reigns of
+**Robert II the Pious** (996–1031), **Henry I** (1031–60), and **Philip I** (1060–1108).
+Bouchard stresses that the eleventh-century Capetian kings were **politically weak but
+dynastically secure**: their effective domain shrank to the **Île-de-France** around
+Paris and Orléans, yet — unlike the late Carolingians — they were "never seriously
+challenged for the throne." She resists reading this as simple "collapse": rather, *all*
+of French society was being transformed (the rise of castellan lordship, new hierarchies,
+the [[gregorian-reform|reform]] of the Church), and the monarchy had to find a new place
+within it. This is the low ebb from which the resurgent Capetian monarchy of
+[[philip-ii-augustus|Louis VI–Philip II]] (Cycle 9) would rebuild royal power.
 
 ## Significance
 
