@@ -5,7 +5,7 @@ date_range: 1991–present
 regions_covered: [global]
 major_themes: [globalization, the climate crisis, the East Asian ascent, post-Cold-War order, renewed mass migration, demographic deceleration, digital connection]
 collection_coverage: weak
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-10
 tags: [period]
 ---
@@ -98,8 +98,10 @@ genuinely open: 1989/1991, 2001, and 2008 all have advocates as sub-period break
 2015 vantage that predates much of what now defines the period. Coverage is
 structural and thematic (energy, climate, demography, the East Asian ascent), with
 no event-level pages. It is now supplemented on its European side by
-**[[judt-postwar|Judt's *Postwar*]]** (to 2005) and globally by [[westad-cold-war|Westad]]
-and [[roberts-westad-penguin-history-world|Roberts & Westad]]; CWH VII **Book 2 remains
-absent**. This is still the wiki's thinnest and most recent period and a standing
+**[[judt-postwar|Judt's *Postwar*]]** (to 2005), globally by [[westad-cold-war|Westad]]
+and [[roberts-westad-penguin-history-world|Roberts & Westad]], and by a rare post-2015
+interpretive vantage in **[[zielonka-lost-future|Zielonka's *The Lost Future*]]** (2023)
+on democratic short-termism, climate and intergenerational justice; CWH VII **Book 2
+remains absent**. This is still the wiki's thinnest and most recent period and a standing
 sourcing priority; confident narrative should not be written here beyond what the
 long-run structural sources support.

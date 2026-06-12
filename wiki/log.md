@@ -15,6 +15,10 @@ Format:
 
 ## 2026-06-12 admin | PIVOT to Outstanding Sources.md. Audit: ~50 of ~75 gap-filling sources now in collection (entire Modern leg, Africa, Americas, much of Asia). Still missing: Russia (Gap 8), several global primaries (Muqaddimah, Gilgamesh, Secret History of Mongols, Behistun, Hammurabi), most world-systems (Abu-Lughod, Crosby, Diamond, Harper). Working gaps in list order, starting Gap 1 (Modern).
 
+## 2026-06-12 admin | Outstanding Sources Gap 1 (Modern, 1750–present) COMPLETE — 18 sources ingested: Roberts & Westad, Hobsbawm ×4, Ashton, Smith, Said, Hochschild, Davis, Cohn, Joll, Beevor, Taylor, Westad, Judt, Zielonka. New event pages (WWI, WWII), controversy pages (causes of WWI, causes of WWII), and actor/concept pages (Congo Free State, colonial-knowledge, orientalism, dual-revolution, classical-political-economy). Next: Gap 2 (Africa).
+
+## 2026-06-12 ingest | The Lost Future and How to Reclaim It (Jan Zielonka, 2023) | Contemporary | western-europe, global | Pages created: 1 | Pages updated: 1
+
 ## 2026-06-12 ingest | Postwar: A History of Europe Since 1945 (Tony Judt, 2005) | Cold War, Contemporary | western-europe, eastern-europe | Pages created: 1 | Pages updated: 3
 
 ## 2026-06-12 ingest | The Cold War: A World History (Odd Arne Westad, 2017) | World Wars Era, Cold War | global, transregional | Pages created: 1 | Pages updated: 3
