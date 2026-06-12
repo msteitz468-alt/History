@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-12 (**NCMH Vol. 3 complete — c. 900–c. 1024 (Timothy Reuter ed., 1999); 31 pages created, 7 distinct existing pages updated**, across the Large-Volume Protocol's 5 section cycles (the volume's three Parts, with the large Parts II and III each split). The wiki's **"long tenth century"** backbone — the post-Carolingian era and the formation of medieval Europe's durable political geography. The volume's organising thread is the **[[feudal-revolution-debate|"feudal revolution"/*mutation de l'an mil*]]** debate, which Reuter pointedly declines to resolve. New content: the **common themes** (**[[encellulement]]**, the **[[peace-of-god]]**, monastic reform around **[[cluny]]**, **[[gerbert-of-aurillac]]** and the **[[ottonian-renaissance]]**); the **[[ottonian-dynasty|Ottonian Reich]]** (**[[otto-i]]**, the **[[battle-of-lechfeld-955]]** and the imperial **[[coronation-of-otto-i-962]]**, **[[otto-iii]]**'s Renovatio, **[[henry-ii-holy-roman-emperor|Henry II]]**, the **[[reichskirche]]**, the **[[elbe-slavs]]**); the post-Carolingian west (the **[[capetian-dynasty|Capetians]]**, the **[[kingdom-of-italy]]**, **[[treaty-of-saint-clair-sur-epte-911|Normandy]]**, and **[[kingdom-of-england-late-anglo-saxon|late Anglo-Saxon England]]**); the **emergent east** (**[[kievan-rus]]** and the **[[conversion-of-vladimir-988]]**, **[[boleslaw-i-chrobry|Piast Poland]]** and the **[[synod-of-gniezno-1000]]**, **[[premyslid-bohemia]]**, and **[[hungary-arpad|Árpád Hungary]]** under **[[stephen-i-of-hungary|St Stephen]]**); and the **Mediterranean** (the **[[macedonian-dynasty]]** and **[[basil-ii]]**'s **[[conquest-of-bulgaria-1018]]**, the **[[caliphate-of-cordoba]]**, the **[[christian-kingdoms-of-spain]]**, and **[[southern-italy-lombard-principalities|southern Italy]]**). Updated **[[early-middle-ages]]**, **[[high-middle-ages]]**, **[[byzantine-empire]]**, **[[first-bulgarian-empire]]**, **[[bipartite-manor]]**, **[[urbanization]]**, and **[[kingdom-of-asturias]]**. The direct successor to **[[mckitterick-ncmh-v2-1995|NCMH II]]**; hands forward to NCMH IV (c. 1024–c. 1198). Per-page detail is in the source page **[[reuter-ncmh-v3-1999]]** and `log.md`.)
+
 Last updated: 2026-06-12 (**NCMH Vol. 2 complete — c. 700–c. 900 (Rosamond McKitterick ed., 1995); 45 pages created, 5 distinct existing pages updated**, across the Large-Volume Protocol's 5 section cycles (the four NCMH parts, with Part I split in two). The wiki's **eighth–ninth-century Carolingian backbone**. New content: the **narrative spine** (the rise of the Pippinids — **[[charles-martel]]**, **[[pippin-iii]]** and the **[[pippinid-coup-751]]** — through **[[charlemagne]]** and the **[[coronation-of-charlemagne-800]]**, then **[[louis-the-pious]]**, the civil war (**[[battle-of-fontenoy-841]]**) and the **[[treaty-of-verdun-843]]** dividing the empire among **[[lothar-i]]**, **[[louis-the-german]]**, and **[[charles-the-bald]]**; plus **[[mercia]]** and **[[offa-of-mercia|Offa]]**); the **peripheries** (the **[[viking-age]]** and **[[great-heathen-army-865]]**, **[[norse-scandinavia|Scandinavia]]**, the **[[first-bulgarian-empire]]** and **[[conversion-of-boris-i-864|Boris's conversion]]**, **[[great-moravia]]** and the **[[cyrillo-methodian-mission]]**, **[[kingdom-of-asturias|Asturias]]**, the **[[muslim-conquest-of-sicily-827]]**, the **[[carolingian-conquest-of-lombard-italy-774]]**, the **[[exarchate-of-ravenna]]** and the birth of **[[republic-of-venice|Venice]]**, and **[[byzantine-iconoclasm]]**); the **institutions** (**[[carolingian-kingship]]**, **[[carolingian-aristocracy]]**, **[[vassalage]]**, **[[carolingian-economy]]**, the **[[bipartite-manor]]**, the **[[carolingian-coinage-reform]]**, the **[[missi-dominici]]** and **[[carolingian-capitularies]]**); the **church** (**[[the-papacy-eighth-ninth-centuries|the papacy and the papal state]]**, **[[carolingian-monasticism]]**, **[[carolingian-church-reform]]**, **[[religion-and-lay-society]]**, the **[[donation-of-constantine]]**); and the **culture** (the **[[carolingian-renaissance]]**, **[[caroline-minuscule]]**, **[[alcuin]]**, **[[boniface]]**, **[[carolingian-art-and-architecture]]**), crowned by the standing controversy **[[nature-of-carolingian-government]]**. Updated **[[carolingian-empire]]**, **[[early-middle-ages]]**, **[[post-roman-transformation-of-the-west]]**, **[[lombards]]**, and **[[byzantine-empire]]**. The direct successor to **[[fouracre-ncmh-v1-2005|NCMH I]]**; hands forward to NCMH III (c. 900–c. 1024). Per-page detail is in the source page **[[mckitterick-ncmh-v2-1995]]** and `log.md`.)
 
 Last updated: 2026-06-12 (**NCMH Vol. 1, Cycle 4 complete — Themes and Problems (Part III, Chs. 20–28B); 8 pages created, 2 distinct existing pages updated** across Cycle 4 of the Large-Volume Protocol. Populated the thematic and analytical dimensions of the post-Roman transition: the legal standing of Jews under Roman and successor-kingdom law (**[[religio-licita]]**); barbarian law codes and the wergild system (**[[wergild]]**); the North Sea emporium network (**[[wic]]**) and the small silver sceatta coinage (**[[sceatta]]**); the proprietary church system (**[[eigenkirche]]**); the Insular art tradition (**[[insular-art]]**); the Christianisation of Anglo-Saxon England (**[[christianisation-of-anglo-saxon-england]]**); and the Pirenne thesis controversy (**[[pirenne-thesis]]**). Updated **[[early-middle-ages]]** and **[[post-roman-transformation-of-the-west]]**.)
@@ -243,25 +245,26 @@ creation order with a one-line description.
 | `cameron-cah-v14-2000.md` | The Cambridge Ancient History, Volume XIV: Late Antiquity — Empire and Successors, A.D. 425–600 | 2000 | reference |
 | `fouracre-ncmh-v1-2005.md` | The New Cambridge Medieval History, Volume 1 — c. 500–c. 700 | 2005 | reference |
 | `mckitterick-ncmh-v2-1995.md` | The New Cambridge Medieval History, Volume 2 — c. 700–c. 900 | 1995 | reference |
+| `reuter-ncmh-v3-1999.md` | The New Cambridge Medieval History, Volume 3 — c. 900–c. 1024 | 1999 | reference |
 
 ---
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **NCMH Vol. 1, Cycle 4** Ingest. Recent volumes'
+Counts reflect actual files on disk as of the **NCMH Vol. 3** Ingest. Recent volumes'
 detailed new/updated pages are catalogued in their source pages and `log.md`.
 
 | Category | Pages |
 |---|---|
 | Periods | 24 |
-| Events | 147 |
+| Events | 153 |
 | Processes | 87 |
-| Actors | 295 |
+| Actors | 315 |
 | Places | 96 |
-| Concepts | 157 |
+| Concepts | 161 |
 | Comparisons | 0 |
-| Controversies | 37 |
+| Controversies | 38 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 23 |
-| **Total** | **865** |
+| Sources | 24 |
+| **Total** | **897** |

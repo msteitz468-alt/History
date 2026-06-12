@@ -46,10 +46,32 @@ regions and smaller properties were organised quite differently (simple rent-pay
 holdings). Where it operated, it provided lords with both a labour force and a marketable surplus, and it is
 the direct ancestor of the **manorial system** of the High Middle Ages.
 
+## The Tenth-Century Transformation
+
+[[reuter-ncmh-v3-1999|NCMH III]] (Fossier) carries the story forward into the long tenth century, when the
+classic bipartite *Villikation* began to **dissolve**. As lords found the direct exploitation of a large
+demesne by tenant labour-services increasingly unwieldy, they delegated management to **men of service**
+(*ministeriales*, "mayors," *officiales*) and leased out the demesne, shifting from labour rent toward
+**rent in cash and kind**. Fossier warns that for the period after c. 950 "the silence of the sources is so
+profound" that the rich ninth-century polyptych evidence simply runs out, making the precise chronology of
+this shift unrecoverable.
+
+Across the same period Fossier traces the **gradations of peasant status** that the [[feudal-revolution-debate|
+"feudal revolution"]] model places at its centre: the persistence of genuine **slavery** (the *servi*, the
+trans-European slave trade through Verdun, Venice, Barcelona, Hull, and Bristol, feeding Byzantium and the
+Islamic world — the word *Slav* itself supplying the name); the squeeze on the formerly **free allodial
+peasantry** (the *Schöffenbarfreien*, *sokemen*, *arimanni*, *boni homines*) as banal lords pressed them into
+dependent tenure; and the consolidation of a **serfdom** (*homines de corpore*, *de capite*) absorbing both
+former slaves and impoverished freemen, marked by labour services, succession dues, and *merchet*/marriage
+taxes. Fossier dates the decisive decline of true slavery to the **Christianisation of the Slavs and
+Hungarians** around the millennium, which cut off the supply of pagan captives.
+
 ## Historiography
 
 The bipartite estate has been central to debates on the early medieval economy since the nineteenth century.
 Modern scholarship (Verhulst foremost) has narrowed earlier claims of its ubiquity, treating it as a
 **core-region and great-estate phenomenon** rather than the universal structure of Carolingian agriculture,
 and has linked its spread to demographic growth and aristocratic landlordship (see
-[[carolingian-economy]]).
+[[carolingian-economy]]). The **slavery-to-serfdom** transition of the tenth–eleventh centuries — once a
+firm plank of the Marxian and mutationist account (Bois, Bonnassie) — is now, as Reuter notes, "highly
+contentious" (Verhulst, Barthélemy): see [[feudal-revolution-debate]].

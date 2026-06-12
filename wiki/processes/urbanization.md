@@ -61,6 +61,17 @@ Wright) with recurring contributors:
 4. **Imperial and founded cities (1st millennium BCE–1200 CE)** — capitals built
    as instruments of empire (Neo-Assyrian capitals, Rome, [[places/tenochtitlan|Tenochtitlan]])
    or deliberate creations ([[places/baghdad|Baghdad]] 762 CE).
+5. **The medieval European urban revival (10th–13th c.)** — after the post-Roman
+   contraction of the western *civitates* to shrunken episcopal/fortified cores, the
+   "origins of the European town in the form known to us from the late middle ages
+   lie in the tenth century" ([[reuter-ncmh-v3-1999|NCMH III]], Johanek). A renewed,
+   monetised long-distance trade — driven by agrarian surplus, demographic growth,
+   and new silver from the **Harz** (Goslar/Rammelsberg) — reattached crafts and
+   commerce to nucleated settlements and began the **commercial revolution** that
+   peaked in the thirteenth century. The Mediterranean (the Italian *civitates*;
+   Córdoba and the Islamic cities as the era's true urban centres alongside
+   Constantinople) led; the North Sea/Baltic emporia (Haithabu, Birka) and the
+   revived Frankish, Rhenish, and Anglo-Saxon towns followed. See [[commercial-revolution]].
 
 ## Geographic Spread
 

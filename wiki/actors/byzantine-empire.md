@@ -9,9 +9,9 @@ affiliated_with: [the Eastern Roman state, the Orthodox Church]
 opposed_by: [[[sasanian-empire|Sasanian Persia]], the [[caliphate|Caliphate]], Avars, Bulgars, Slavs, the Seljuk and Ottoman Turks]
 key_events: [reign of Justinian 527-565 CE, Arab conquests 630s-640s CE, survival of the Eastern Roman state, Fourth Crusade sack of Constantinople 1204, Ottoman conquest 1453]
 key_processes: [[[empire]], [[christianity|Orthodox Christianity]], [[silk-roads]], Roman legal codification]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
-tags: [actor, empire, late-antiquity, early-middle-ages, anatolia, mediterranean]
+tags: [actor, empire, late-antiquity, early-middle-ages, high-middle-ages, anatolia, mediterranean]
 ---
 
 # The Byzantine Empire
@@ -88,6 +88,10 @@ frontier Byzantium fought a long contest with the [[first-bulgarian-empire|Bulga
 catastrophically under **Krum** (who killed Nicephorus I in 811) — but won a lasting cultural victory
 when [[conversion-of-boris-i-864|Boris's conversion (864)]] and the
 [[cyrillo-methodian-mission|Cyrillo-Methodian mission]] drew the southern Slavs into the Orthodox sphere.
+
+## The Macedonian Apogee (886–1025)
+
+[[reuter-ncmh-v3-1999|NCMH III]] (Shepard) covers the high point of medieval Byzantium under the **[[macedonian-dynasty|Macedonian dynasty]]**. The long tenth century carried the empire from a defensive **equilibrium** (Leo VI's law-books and the *Book of the Eparch*; Constantine VII's scholar-emperorship and ceremonial, palace-based "Solomonic" rule) to an aggressive **expansion** under the soldier-emperors — **Nikephoros II Phokas** (reconquest of Crete 961, Antioch 969), **John I Tzimiskes**, and above all **[[basil-ii|Basil II "the Bulgar-Slayer"]]** (976–1025), who annexed **[[conquest-of-bulgaria-1018|Bulgaria (1018)]]** and pushed the frontiers to the Danube, Euphrates, and Caucasus. The era's great internal tension was the struggle of the central state against the **military aristocracy** (the *dynatoi* — Phokas, Skleros), and its great external success the drawing of **[[kievan-rus|Rus′]]** into the Orthodox world (the [[conversion-of-vladimir-988|conversion of 988]], sealed by the Varangian alliance). For Byzantium, Reuter notes, the long tenth century was "as much a golden age as an age of iron." This apogee was followed within fifty years by the eleventh-century crisis (Manzikert, 1071).
 
 ## Significance
 

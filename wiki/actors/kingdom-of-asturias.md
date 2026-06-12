@@ -23,6 +23,11 @@ north of the Iberian peninsula after the Muslim conquest of 711. In
 [[mckitterick-ncmh-v2-1995|NCMH II]] (Collins, Ch. 11) it is the nucleus from which the later
 medieval Christian kingdoms of Spain — and the ideology of the **Reconquista** — would grow.
 
+In the early tenth century the realm's centre shifted south from Oviedo to **León** (under Ordoño II),
+and it became the **kingdom of León** — see **[[christian-kingdoms-of-spain]]** for its long-tenth-century
+history alongside the emergent county of Castile, Pamplona/Navarre, and the Catalan counties
+([[reuter-ncmh-v3-1999|NCMH III]], Collins).
+
 ## From Pelagius to the Alfonsos
 
 The kingdom traces its origin to the rising of **Pelagius (Pelayo)** in the eastern Asturias and his

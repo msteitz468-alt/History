@@ -9,9 +9,9 @@ affiliated_with: [the Bulgar khans, later the Bulgarian Orthodox Church]
 opposed_by: [[[byzantine-empire|Byzantium]], the Avars, the Franks (over Pannonia)]
 key_events: [Krum's wars with Byzantium (811–814), [[conversion-of-boris-i-864|the conversion of Khan Boris (864)]], rivalry of Rome and Constantinople over the Bulgarian church]
 key_processes: [the Christianisation of the Slavs and Bulgars, the contest between Latin and Greek Christendom]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
-tags: [actor, state, early-middle-ages, balkans]
+tags: [actor, state, early-middle-ages, high-middle-ages, balkans]
 ---
 
 # The First Bulgarian Empire
@@ -45,11 +45,17 @@ ultimately attached itself to the Byzantine ecclesiastical sphere — and became
 disciples of [[cyrillo-methodian-mission|Cyril and Methodius]], where the **Slavonic liturgy** and a
 **Slavic literary culture** took root after being expelled from Moravia.
 
+## Apogee and Fall (Symeon to 1018)
+
+[[reuter-ncmh-v3-1999|NCMH III]] (Shepard) carries the empire to its zenith and destruction. Under **Tsar Symeon (the Great)** (893–927) — educated at Constantinople and styling himself *basileus* of the Bulgarians and Romans — Bulgaria reached its apogee, repeatedly defeating Byzantium and dominating the Balkans; it was Symeon whom the Byzantine scholar-emperor [[macedonian-dynasty|Constantine VII]] regarded as a rival book-collector and educator-king. After a mid-century decline and John Tzimiskes' subjugation of eastern Bulgaria, power revived in the west under **Tsar Samuel** (centred on Ohrid), who fought a grinding decades-long war against **[[basil-ii|Basil II]]**. The decisive defeat at **Kleidion (1014)** — after which Basil reputedly blinded 14,000 captives, earning the name *Boulgaroktonos* — broke Bulgarian resistance, and the empire was **annexed by Byzantium in 1018** (see [[conquest-of-bulgaria-1018]]), its autonomous archbishopric of **Ohrid** preserved. Independent Bulgarian statehood would revive only with the Second Bulgarian Empire (1185).
+
 ## Significance
 
 The conversion and ecclesiastical alignment of Bulgaria pulled the southern Slavs decisively into the
 Byzantine-Orthodox cultural orbit and made Bulgaria the cradle of Slavonic Christian literature, with
-consequences for the whole later Orthodox Slavic world.
+consequences for the whole later Orthodox Slavic world. Under Symeon it was the "other Balkan empire,"
+the most serious continental rival to Byzantium — until Basil II's conquest restored the imperial Danube
+frontier.
 
 ## Historiography
 

@@ -5,8 +5,8 @@ date_range: "1000–1300 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road]
 major_themes: ["the thickening of Afro-Eurasian exchange webs", "the commercial revolution and a 'first globalization'", "the apogee of Song China", "the Crusades and Christian–Islamic frontier conflict", "cultural crystallization across Eurasian ecumenes", "the rise of universities and scholastic learning", "the eve of the Mongol conquests", "demographic expansion across the Old World", "Angkor, Cahokia, and regional apogees beyond Eurasia"]
 collection_coverage: strong
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [period]
 ---
 
@@ -87,7 +87,15 @@ Aotearoa) within this window.
 
 **Entry:** from the [[early-middle-ages]] at c. 1000 CE, as the Tang, Carolingian,
 and unitary Abbasid orders give way to the Song, the post-Viking European
-kingdoms, and regional Islamic sultanates.
+kingdoms, and regional Islamic sultanates. The opening quarter-century (to c. 1024)
+falls within [[reuter-ncmh-v3-1999|NCMH III]]'s "long tenth century," and the
+boundary itself is the object of the **[[feudal-revolution-debate|"feudal
+revolution"/*mutation de l'an mil*]]** controversy: whether the decades around the
+millennium mark a genuine, rapid structural break (the collapse of Carolingian
+public order into castle-based seigneurial lordship — the birth of the "feudal" High
+Medieval order) or whether that break is an artefact of newly loquacious
+documentation. Reuter (NCMH III) treats the question as unresolved and the model as
+failing for Germany, England, and León.
 
 **Exit:** into the [[late-middle-ages]] at c. 1300 CE. The hinge is the
 **[[mongol-empire|Mongol conquests]]** (1206–1279), which both shattered existing
@@ -123,10 +131,13 @@ a Mongol-integrated world economy rather than as "feudal stagnation."
 
 **Strong in potential, lightly ingested so far.** Per CLAUDE.md the collection is
 strong for High Medieval Europe, the Mediterranean, and the Islamic world, and
-moderate–strong for China. At present only [[kedar-cwh-v5-2015|CWH V]] has been
-ingested for this period, supplying the thematic and world-systemic frame and good
-comparative coverage of trade, religion, learning, and state formation. The *New
-Cambridge Medieval History* Vols. 3–5 (Phase 3) are the backbone still to be
-ingested for European and Mediterranean depth; specialist Song, Seljuk, Crusader,
-and Indian Ocean material remains to be added. South and Southeast Asia and the
-interior of sub-Saharan Africa stay comparatively thin.
+moderate–strong for China. [[kedar-cwh-v5-2015|CWH V]] supplies the thematic and
+world-systemic frame and good comparative coverage of trade, religion, learning, and
+state formation; **[[reuter-ncmh-v3-1999|NCMH III]]** (c. 900–c. 1024) now provides
+deep coverage of the period's opening quarter-century across the European and
+Mediterranean world (the Ottonian Reich, Capetian France, late Anglo-Saxon England,
+the emergent eastern kingdoms, Byzantium under the Macedonians, and the Caliphate of
+Córdoba). **NCMH IV–V** (Phase 3) remain the backbone still to be ingested for the
+bulk of the period; specialist Song, Seljuk, Crusader, and Indian Ocean material
+remains to be added. South and Southeast Asia and the interior of sub-Saharan Africa
+stay comparatively thin.
