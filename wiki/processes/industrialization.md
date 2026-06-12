@@ -8,7 +8,7 @@ region: [global, western-europe, east-asia, north-america, south-asia]
 process_type: [economic, technological, environmental, demographic]
 driven_by: [[[fossil-fuel-energy-transition]], easing of local resource constraints, mechanization, [[industrious-revolution]], capital accumulation, state and military demand]
 produces: [[[great-acceleration]], [[anthropocene]], mass urbanization, [[great-divergence]] and its later partial reversal, the modern world economy]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-10
 tags: [process, long-19th-century, cold-war, global]
 ---
@@ -105,4 +105,6 @@ resource-intensive industrialization is compatible with environmental sustainabi
 [[long-19th-century]]
 
 The classic short account of the British case is now ingested as **[[ashton-industrial-revolution|Ashton,
-*The Industrial Revolution 1760–1830*]]** (the "optimist" pole of the standard-of-living debate).
+*The Industrial Revolution 1760–1830*]]** (the "optimist" pole of the standard-of-living debate); its
+contemporary intellectual frame is **[[smith-wealth-of-nations|Adam Smith's *Wealth of Nations*]]** (1776)
+and **[[classical-political-economy|classical political economy]]**.

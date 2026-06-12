@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-12 (**Adam Smith, *The Wealth of Nations*** (1776) ingested — Gap 1, a foundational primary source. Created the source page **[[smith-wealth-of-nations]]**, the actor page **[[adam-smith]]**, and the concept page **[[classical-political-economy]]** (the division of labour, the invisible hand, the critique of mercantilism and case for free trade, the labour theory of value; the intellectual charter of market capitalism, later built on and contested by Ricardo, Malthus and Marx). Enriched **[[industrialization]]**.)
+
 Last updated: 2026-06-12 (**T. S. Ashton, *The Industrial Revolution 1760–1830*** (1948) ingested — Gap 1. Created the source page **[[ashton-industrial-revolution]]** (the classic economic account of British industrialization — cheap capital, the cotton/iron/steam innovations, expanding markets; the "optimist" position on living standards). Enriched **[[industrialization]]**.)
 
 Last updated: 2026-06-12 (**Hobsbawm, *The Age of Extremes: The Short Twentieth Century 1914–1991*** (1994) ingested — Gap 1, completing the tetralogy. Created the source page **[[hobsbawm-age-of-extremes]]** (the "short twentieth century" in three movements: the Age of Catastrophe 1914–45, the post-war Golden Age, and the Landslide/crisis decades to the Soviet collapse). Enriched **[[world-wars-era]]** and **[[cold-war]]**.)
