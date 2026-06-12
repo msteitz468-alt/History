@@ -9,7 +9,7 @@ affiliated_with: [Macedon, the Greek and Macedonian settler class, the Egyptian 
 opposed_by: [[[seleucid-empire]], [[antigonid-dynasty]], native Egyptian revolts, [[rome|Rome]]]
 key_events: [[[wars-of-the-diadochi-323]], [[syrian-wars]], [[battle-of-raphia-217]]]
 key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]], [[ruler-cult]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, dynasty, state, classical-antiquity, egypt]
 ---
@@ -96,3 +96,17 @@ expansion of the Greeks... did not create a new mixed civilisation"** — there 
 Aegyptiaca* in counterpoint). The evidence is the discontinuous, place-skewed
 [[ptolemaic-papyri|papyrus record]]. See also [[ptolemaic-economy]],
 [[hellenistic-monarchy]], [[ruler-cult]].
+
+## The Sixth Syrian War and Roman protection (CAH VIII, Ch. 10, Habicht)
+
+By the second century Egypt was the weakest of the great kingdoms, riven by
+**regency factions** and dynastic strife (the joint rule of **Ptolemy VI
+Philometor**, his brother **Ptolemy VIII**, and their sister **Cleopatra II**). Its
+bid to recover Coele-Syria — the **Sixth Syrian War** (170–168) — was a disaster:
+**[[antiochus-iv-epiphanes|Antiochus IV]]** overran almost all of Egypt and besieged
+Alexandria. Egypt was saved not by its own arms but by **Rome**: at the
+**[[day-of-eleusis-168bce|Day of Eleusis]]** (168), days after Pydna, the envoy
+Popillius Laenas forced Antiochus to withdraw. Egypt survived thereafter as
+effectively a **Roman protectorate**, its dynastic quarrels increasingly arbitrated
+at Rome — the long prelude to annexation in 30 BCE. See [[day-of-eleusis-168bce]],
+[[antiochus-iv-epiphanes]].

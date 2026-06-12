@@ -9,7 +9,7 @@ affiliated_with: [Delphi and the Amphictyonic Council, [[ptolemaic-egypt]] (at t
 opposed_by: [[[antigonid-dynasty]], [[achaean-league]], [[rome|Rome]] (later)]
 key_events: [the defence of Delphi against the Gauls (279), the reorganization of the Soteria festival]
 key_processes: [[[greek-federalism]], [[hellenistic-world]], piracy in the Aegean]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, classical-antiquity, central-greece]
 ---
@@ -64,6 +64,18 @@ The Aetolian League is the other great Hellenistic federal experiment alongside 
 make a backward, semi-tribal people into a major power. It was the perpetual third force
 in mainland Greece between Macedon and Achaea, leaning toward [[ptolemaic-egypt|Ptolemy]]
 against Macedon. Its long collision with Macedon culminates in the [[social-war-220|Social
-War]] (220–217; ch. 12); much later it allied with Rome against Philip V, then fell to
-Rome itself (167). See [[achaean-league]], [[greek-federalism]],
+War]] (220–217; ch. 12).
+
+## Rome's first Greek ally (CAH VIII, Ch. 4, Errington)
+
+The League was **Rome's first formal ally in the Greek world**. Seeking a proxy to
+keep [[philip-v|Philip V]] occupied during the [[first-macedonian-war-214-205bce|
+First Macedonian War]], Rome concluded a treaty (212/211) by which **Aetolia took
+the conquered cities and Rome the moveable booty** — turning the war over to Aetolian
+ambitions in central Greece. Worn down by a resurgent Philip and feeling
+under-supported, the Aetolians made a **separate peace (206)** in breach of the
+treaty — the act that left Rome to settle at Phoenice (205) and that Rome long
+remembered. The League's later turn *against* Rome (siding with
+[[antiochus-iii-the-great|Antiochus III]]) brought its subjugation (167). See
+[[first-macedonian-war-214-205bce]], [[achaean-league]], [[greek-federalism]],
 [[celtic-invasion-of-greece-279]].

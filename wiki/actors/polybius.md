@@ -9,7 +9,7 @@ affiliated_with: [[[achaean-league]], [[scipio-aemilianus]]]
 opposed_by: []
 key_events: [[[wars-of-the-diadochi-323]], [[social-war-220]], [[rise-of-rome]]]
 key_processes: [[[hellenistic-historiography]], [[hellenistic-world]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, mediterranean-world]
 ---
@@ -56,3 +56,19 @@ continuous account of the late third century at all, and his analytical method s
 the standard against which all the period's lost historians are judged — usually, by
 his own verdict, unfavourably. His Achaean and Roman loyalties are also a lens to be
 corrected for: he is partisan for Aratus and for the Scipionic view of Rome's rise.
+
+## Principal source for 220–146 (CAH VIII, Ch. 1, Astin)
+
+For the whole field of [[astin-cah-v8-1989|CAH VIII]] Polybius is the foundational
+authority. Astin's source survey stresses that he is not only directly preserved
+(books I–VI, with extensive fragments thereafter from Byzantine excerpt-collections —
+"Embassies," "Virtues and Vices," "Plots against Kings") but **indirectly transmitted
+through [[livy]]**, whose books XXI–XLV draw on him heavily and often silently for
+eastern affairs. The breaking-off of Polybius' continuous text at 216 (≈
+[[battle-of-cannae-216bce|Cannae]]) and of Livy's at 167 marks the points where the
+detail and precision of the record sharply degrade. His "**universal history**"
+ambition — recording events in every theatre that Roman power was drawing into one —
+preserved a breadth of Hellenistic material no other surviving source supplies. The
+debate over his thesis that **Roman expansion was consciously willed** is a debate
+about Roman imperialism (Harris vs. Briscoe; see [[causes-of-second-punic-war]]), not
+about his factual value.

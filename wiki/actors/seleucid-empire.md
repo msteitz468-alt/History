@@ -9,7 +9,7 @@ affiliated_with: [the Graeco-Macedonian settler class, the Greek cities of Asia 
 opposed_by: [[[ptolemaic-egypt]], [[parthian-empire]], [[greco-bactrian-kingdom]], [[pergamon]], [[rome|Rome]], the Maccabees]
 key_events: [[[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]], [[syrian-wars]], [[battle-of-raphia-217]]]
 key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]], [[seleucid-colonization]], [[seleucid-era]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, empire, dynasty, classical-antiquity, near-east, mesopotamia]
 ---
@@ -86,11 +86,29 @@ but his defeat by Rome (Magnesia, 190; Peace of Apamea, 188) cost him Asia Minor
 second century brought dynastic civil war, the Maccabean revolt, and the relentless
 advance of Parthia — to the kingdom's extinction in 63 BCE.
 
+## The Terminal Decline, 187–129 (CAH VIII, Ch. 10, Habicht)
+
+[[astin-cah-v8-1989|CAH VIII]] traces the kingdom from Apamea to disintegration.
+The quiet, indemnity-burdened reign of **Seleucus IV** (187–175) was followed by the
+forceful **[[antiochus-iv-epiphanes|Antiochus IV]]** (175–164), who broke the
+post-Apamea isolation, nearly conquered Egypt (halted at the
+[[day-of-eleusis-168bce|Day of Eleusis]]), provoked the
+[[maccabean-revolt-167-160bce|Maccabean revolt]], and died on an eastern campaign
+against a disintegrating frontier. Thereafter the dynasty consumed itself in
+**civil war among rival claimants** (the boy Antiochus V and Lysias; the returning
+hostage **Demetrius I**; the satrap **Timarchus** of Media, who proclaimed himself
+"Great King") — while Rome cultivated the discord, keeping Demetrius a hostage
+"as a weapon." Behind the dynastic chaos the empire's body fell away: **Armenia,
+Persis, Elymais, and the upper satrapies** asserted independence, and above all the
+**[[parthian-empire|Parthians]]** under Mithridates I advanced to absorb Media and
+Mesopotamia. By 129 the Seleucids were reduced to a Syrian rump.
+
 ## Principal Kings
 
 [[seleucus-i-nicator|Seleucus I Nicator]] · [[antiochus-i-soter|Antiochus I Soter]] ·
 Antiochus II Theos · Seleucus II Callinicus · **[[antiochus-iii-the-great|Antiochus III
-the Great]]** · Antiochus IV Epiphanes.
+the Great]]** · Seleucus IV · **[[antiochus-iv-epiphanes|Antiochus IV Epiphanes]]** ·
+Antiochus V · Demetrius I.
 
 ## Related
 

@@ -17,7 +17,7 @@ produces:
   - Absorption of Italian manpower into Roman military machine
   - Hellenization of Rome through contact with Greek south
   - Growth of slavery as an institution
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [process, classical-antiquity, mediterranean, western-europe]
 ---
@@ -158,6 +158,22 @@ cultural influence: coinage (first Roman silver c. 310 BCE), Greek cults (Aescul
 temple 291 BCE), and the intellectual attention of Greek historians (Duris, Timaeus,
 Callias) who recognized Rome as a new world power.
 
+## Completion: the conquest of Cisalpine Gaul and Liguria (CAH VIII, Ch. 5, Harris)
+
+The peninsular conquest had a **northern coda** after the Hannibalic War. From 201
+the Senate sent one or both consuls almost every year to **Cisalpine Gaul** until
+the Boii and Insubres were subdued (by 191) and to **Liguria** (decisively from
+181). Harris reads this not as mere defence of existing territory but as the same
+ingrained drive to **regular, profitable war** — the Po plain being attractive land
+with weak defenders. The conquest was followed by a **massive transfer of resources**:
+the Boii lost half their land; Latin and citizen colonies were planted
+(**Bononia** 189, **Parma** and **Mutina** 183, **Aquileia** 181, **Luca**, **Luna**)
+and the great roads built (Via Aemilia 187); some Ligurians were mass-**deported** to
+Samnium (40,000 in 180). This was the first step in the **Romanization and
+Italianization** of the north — though "Italy" as a concept did not yet include
+Gauls or Ligurians, and the "natural frontier" at the Alps was a notion devised
+*after* the conquest (perhaps by Cato).
+
 ## End Conditions
 
 The process reached effective completion by **264 BCE** — the date Cornell uses for
@@ -197,5 +213,7 @@ Key interpretive points:
 - Actor: [[roman-republic]] · [[samnites]] · [[latin-league]] · [[volsci]] ·
   [[m-furius-camillus]] · [[appius-claudius-caecus]]
 - Process: [[struggle-of-the-orders]] · [[roman-slavery]] · [[roman-colonization]]
-- Controversy: [[reliability-of-early-roman-tradition]]
-- Source: [[walbank-cah-v7-2-1989]] (Ch. 8, Cornell)
+- Controversy: [[reliability-of-early-roman-tradition]] ·
+  [[nature-of-roman-imperialism]]
+- Sources: [[walbank-cah-v7-2-1989]] (Ch. 8, Cornell) · [[astin-cah-v8-1989]]
+  (Ch. 5, Harris — Cisalpine Gaul & Liguria)

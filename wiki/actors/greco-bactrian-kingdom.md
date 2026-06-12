@@ -9,7 +9,7 @@ affiliated_with: [the Graeco-Macedonian settlers of Bactria]
 opposed_by: [[[seleucid-empire]], the Saka/Yuezhi nomads]
 key_events: [secession from the Seleucids c. 250 BCE]
 key_processes: [[[hellenistic-world]], [[seleucid-colonization]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, classical-antiquity, central-asia]
 ---
@@ -53,3 +53,20 @@ reconquest.
   the turn of the era.
 
 See [[bactria]], [[seleucid-empire]], [[hellenistic-world]].
+
+## A history written in coins (CAH VIII, Ch. 11, Narain)
+
+[[astin-cah-v8-1989|CAH VIII]] (Narain) stresses that the Greeks of Bactria and India
+"left no history of their own" and were "ignored by ancient historians in both areas,
+squeezed out between the two" — they are recoverable almost entirely through their
+**superb coinage** (8–9 kings are named in the texts; 30–40 appear on the coins). The
+secession under **Diodotus** (c. 256) preceded the Parthian revolt; **Euthydemus**
+withstood [[antiochus-iii-the-great|Antiochus III's]] two-year siege of Bactra (208)
+and was confirmed as king; after Apamea (188) ended Seleucid power in the region the
+Euthydemids — **Demetrius**, then **[[menander-i|Menander]]** — pushed south into
+**Paropamisadae, Gandhara, and the Punjab**, the deepest Greek penetration of India.
+Narain's interpretive frame inverts the older "civilising mission" thesis: the
+Indo-Greeks were **absorbed** into the Indian world (Menander as the Buddhist
+**Milinda**; bilingual Greek-Kharosthi coins) — "they came, they saw, but India
+conquered." The excavated city of **[[ai-khanoum|Ai Khanum]]** is the archaeological
+anchor for an otherwise numismatic history. See [[menander-i]], [[ai-khanoum]].

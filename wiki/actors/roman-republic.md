@@ -9,7 +9,7 @@ affiliated_with: [the Roman Senate and People (SPQR), Italian allies (socii)]
 opposed_by: [[[carthage|Carthage]], [[hellenistic-world|Hellenistic kingdoms]], Gauls, Mithridates of Pontus]
 key_events: [Punic Wars 264-146 BCE, conquest of the Hellenistic East, civil wars 49-31 BCE]
 key_processes: [[[empire]], [[slavery]], [[trade-network-formation]], provincialization]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [actor, state, classical-antiquity, archaic-period, mediterranean, western-europe]
 ---
@@ -313,17 +313,37 @@ the king and the god. There was no other ceremonial vocabulary available.
 ## Mediterranean Conquest
 
 Rome unified Italy, then defeated **[[carthage|Carthage]]** in the three **Punic Wars
-(264–146 BCE)** — the existential **Second War against Hannibal** (218–201) the turning
-point — winning the western Mediterranean and provinces in Spain and Africa. It then
-absorbed the **[[hellenistic-world|Hellenistic kingdoms]]** of the east (Macedon,
-Greece, Anatolia, Syria), becoming master of the Mediterranean ("**mare nostrum**").
+(264–146 BCE)** — the existential **[[second-punic-war-218-201bce|Second War against
+Hannibal]]** (218–201) the turning point — winning the western Mediterranean and
+provinces in Spain and Africa. It then absorbed the **[[hellenistic-world|Hellenistic
+kingdoms]]** of the east (Macedon, Greece, Anatolia, Syria), becoming master of the
+Mediterranean ("**mare nostrum**").
+
+[[astin-cah-v8-1989|CAH VIII]] (Briscoe) draws out the **internal** consequences of the
+Hannibalic War, not only the territorial ones. Rome survived
+[[battle-of-cannae-216bce|Cannae]] because of its reserves of citizen, Latin, and allied
+**manpower** (a peak of ~240,000 under arms in 212) and the loyalty of the Latin and
+central Italian allies — no Latin colony defected. Victory was won "by the traditional
+governing class" under the direction of the **Senate**, whose authority rose
+accordingly; the second century's striking domination of the consulship by men of
+consular ancestry follows. The war also **hardened the Senate's refusal to reward the
+allies** (the post-Cannae proposal to enrol Latin notables was shouted down), storing up
+the Italian question for the Gracchan age; and the devastation of Italy and long absence
+of small farmers fed the agrarian crisis. Whether the subsequent eastward turn (war on
+[[philip-v|Macedon]], 200) sprang from defensive fear (Briscoe) or systemic
+imperial appetite (Harris) is the volume's central interpretive question — see
+[[causes-of-second-punic-war]].
 
 ## Crisis and Fall of the Republic
 
 Conquest brought wealth, mass [[slavery]], and provincial command that overwhelmed
-civic institutions. Land concentration displaced the peasant-soldier; the
-**Gracchi**'s reforms ended in violence; armies grew loyal to generals (Marius, Sulla)
-rather than the state. A century of crisis and **civil war** — Caesar against Pompey,
+civic institutions. The [[agrarian-crisis-roman-republic|agrarian crisis]] —
+slave-worked estates and the engrossing of *ager publicus* displacing the
+peasant-soldier — interlocked with the erosion of the
+[[roman-aristocratic-politics|oligarchy's self-regulating conventions]] and the
+unresolved [[roman-italian-alliance|grievance of the Italian allies]] to produce the
+crisis of 133. The **Gracchi**'s reforms ended in violence; armies grew loyal to
+generals (Marius, Sulla) rather than the state. A century of crisis and **civil war** — Caesar against Pompey,
 then Octavian against Antony and **Cleopatra** — ended the Republic. The victory of
 **Octavian** (Actium, 31 BCE) and his settlement as **Augustus** in 27 BCE founded the
 [[roman-empire|Principate]].

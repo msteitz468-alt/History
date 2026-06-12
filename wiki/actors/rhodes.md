@@ -9,7 +9,7 @@ affiliated_with: [[[ptolemaic-egypt]] (a "special relationship"), [[rome|Rome]] 
 opposed_by: [[[demetrius-i-poliorcetes]] (the 305 siege), Byzantium (220), pirates]
 key_events: [[[siege-of-rhodes-305|the siege by Demetrius (305–304)]], the toll-war against Byzantium (220), the earthquake of 227/6]
 key_processes: [[[hellenistic-world]], Mediterranean trade, anti-piracy]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, classical-antiquity, mediterranean]
 ---
@@ -57,3 +57,19 @@ mainland. By 200 the two were "the most important political factors" of the Aege
 Minor, "destined to play a leading role in the conflict between Rome and the Hellenistic
 monarchies." Rhodes' role as anti-piracy maritime arbiter and its commercial law influenced
 the later Mediterranean. See [[siege-of-rhodes-305]], [[ptolemaic-egypt]], [[pergamon]].
+
+## Roman ally, then Roman victim (CAH VIII, Chs 8–9)
+
+[[astin-cah-v8-1989|CAH VIII]] traces Rhodes' rise and fall under Rome. Its alarm at
+Philip's Aegean aggression helped trigger the
+[[second-macedonian-war-200-196bce|Second Macedonian War]]; its fleet was decisive
+against [[antiochus-iii-the-great|Antiochus III]], and at the
+**[[peace-of-apamea-188bce|Peace of Apamea]]** (188) it received **Lycia and Caria
+south of the Maeander**. But its commercial strength and its attempt to **mediate**
+in the [[third-macedonian-war-171-168bce|Third Macedonian War]] (encouraged, then
+turned against it, by Q. Marcius Philippus) brought Roman wrath after Pydna: Rome
+nearly declared war, stripped Rhodes of its mainland territories, and made **Delos a
+free port** (167) — diverting Aegean trade and crippling Rhodian revenues. The episode
+shows the fate of even a loyal friend once it became too strong or too independent.
+See [[peace-of-apamea-188bce]], [[third-macedonian-war-171-168bce]],
+[[nature-of-roman-imperialism]].

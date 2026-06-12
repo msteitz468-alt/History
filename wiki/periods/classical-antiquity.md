@@ -5,7 +5,7 @@ date_range: "500–31 BCE"
 regions_covered: [mediterranean, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, north-africa, iberia, western-europe, south-asia, china, steppe]
 major_themes: ["Classical Greece and the polis at its height", "the Greco-Persian and Peloponnesian Wars", "Alexander and the Hellenistic world", "the rise of Rome", "the Mauryan Empire", "Qin unification and the early Han", "the first Silk Roads era", "Hellenistic science and cosmopolitanism", "mass chattel slavery"]
 collection_coverage: strong
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-11
 tags: [period]
 ---
@@ -73,7 +73,14 @@ that governed the middle Republic. The [[capture-of-veii-396bce|capture of Veii]
 (396 BCE) and the [[gallic-sack-of-rome-390bce|Gallic Sack]] (390/387 BCE) were
 the two epoch-making events of the early fourth century, respectively transforming
 Rome from a city-state into a territorial power and exposing the fragility of that
-power to external shock.
+power to external shock. The supreme test of the mature Republic was the
+**[[second-punic-war-218-201bce|Second Punic War]]** (218–201): [[hannibal]]
+held Italy for sixteen years and shattered Roman armies at
+[[battle-of-cannae-216bce|Cannae]] (216), but Rome's manpower reserves, allied
+loyalty, and the attrition strategy of [[fabius-maximus|Fabius]] outlasted him,
+and [[scipio-africanus|Scipio]] carried the war to Africa and won at
+[[battle-of-zama-202bce|Zama]] (202) — the victory that made Rome supreme in the
+west and turned it eastward against the Hellenistic kingdoms.
 
 **Mauryan India.** [[chandragupta-maurya|Chandragupta]] (r. from c. 321 BCE) and
 his grandson [[ashoka|Ashoka]] built the [[mauryan-empire|Mauryan Empire]], the

@@ -9,7 +9,7 @@ affiliated_with: [Macedon, the [[league-of-corinth|Hellenic League]]]
 opposed_by: [[[ptolemaic-egypt]], [[aetolian-league]], [[achaean-league]], [[rome|Rome]]]
 key_events: [[[battle-of-ipsus-301]], [[celtic-invasion-of-greece-279]], [[chremonidean-war-267]], [[social-war-220]]]
 key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, dynasty, classical-antiquity, balkans]
 ---
@@ -75,6 +75,20 @@ ended when Rome defeated Perseus at Pydna (168), abolishing the monarchy.
   stable dynasty.
 - **Demetrius II** (239–229), **Antigonus III Doson** (229–221), **Philip V** (221–179),
   **Perseus** (179–168) — treated in ch. 12.
+
+## The End of the Dynasty (CAH VIII, Chs 8–9)
+
+The Antigonid kingdom was destroyed by Rome. **[[philip-v|Philip V]]**, defeated at
+Cynoscephalae (197) in the [[second-macedonian-war-200-196bce|Second Macedonian War]],
+was confined to Macedon and then, after Apamea, steadily humiliated by Roman orders
+(stripped of his Thracian gains, his son Demetrius destroyed in a dynastic tragedy).
+His son **[[perseus-of-macedon|Perseus]]** revived Macedon's standing in Greece —
+which proved fatal, since an alternative arbiter was incompatible with Roman
+supremacy. Defeated by [[aemilius-paullus|Aemilius Paullus]] at
+**[[third-macedonian-war-171-168bce|Pydna]]** (168), Perseus was the last Antigonid
+king: the monarchy was abolished and Macedon broken into **four republics**, becoming
+a Roman province after Andriscus' revolt (148). See
+[[third-macedonian-war-171-168bce]], [[perseus-of-macedon]].
 
 ## Related
 

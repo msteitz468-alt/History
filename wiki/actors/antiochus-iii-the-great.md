@@ -9,7 +9,7 @@ affiliated_with: [[[seleucid-empire]]]
 opposed_by: [[[ptolemaic-egypt]], [[rome|Rome]], the usurpers Molon and Achaeus]
 key_events: [[[syrian-wars]], [[battle-of-raphia-217]]]
 key_processes: [[[seleucid-empire]], [[hellenistic-monarchy]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, dynasty, classical-antiquity, near-east]
 ---
@@ -40,7 +40,7 @@ kingdom]] back "almost to the boundaries which it possessed at the death of its 
   subjects "by his courage and his efforts" (Polybius).
 - **The collision with Rome**: after seizing Coele-Syria (Panium, 200) and expanding into
   Thrace, he drifted into war with Rome over the cities Seleucus I had won from Lysimachus
-  — and was beaten at **Magnesia (190)**, the [[peace-of-apamea-188|Peace of Apamea]]
+  — and was beaten at **Magnesia (190)**, the [[peace-of-apamea-188bce|Peace of Apamea]]
   (188) stripping him of Asia Minor west of the Taurus. He died the next year plundering a
   temple in Elam to pay the indemnity.
 
@@ -54,3 +54,19 @@ point — the moment the Hellenistic kingdoms passed from masters of their own b
 power to subjects of Roman hegemony. His reign frames Musti's recurring theme: a vast,
 multi-ethnic military monarchy, brilliant under a strong king but perpetually precarious.
 See [[seleucid-empire]], [[syrian-wars]].
+
+## The War with Rome and Apamea (CAH VIII, Ch. 8, Errington)
+
+[[astin-cah-v8-1989|CAH VIII]] narrates the collision in full. After his *Anabasis*
+(212–205) restored Seleucid claims in Iran and the east, and his conquest of
+**Coele-Syria** from Egypt (Panium, 200), Antiochus re-occupied western Asia Minor
+and crossed to **Thrace** (196) — claiming Asia Minor as his sphere (Italy being
+Rome's), with the Aegean a no-man's-land. This was **incompatible** with Rome's
+post-Cynoscephalae claim to the Balkans and its [[freedom-of-the-greeks|"freedom of
+the Greeks."]] Invited by the [[aetolian-league|Aetolians]], he crossed to Greece
+(192) with a small force, was crushed at **Thermopylae** (191), and — after the
+Romans gained the sea and marched into Asia — was routed at **Magnesia** (190). The
+**[[peace-of-apamea-188bce|Peace of Apamea]]** (188) confined him behind the Taurus,
+imposed a 15,000-talent indemnity, and stripped him of his fleet — ending Seleucid
+power in the west. He died in 187. See [[roman-syrian-war-192-188bce]],
+[[peace-of-apamea-188bce]], [[scipio-africanus]].

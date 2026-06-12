@@ -1,8 +1,8 @@
 # World History Wiki — Master Catalog
 
-Last updated: 2026-06-11 (CAH Vol. VII.2 complete — The Rise of Rome to 220 B.C. (Walbank & Astin eds., 1989); 29 pages created, 18 updated across 6 section cycles. Covers Roman constitutional and military history from the Republic's founding through the First Punic War and provincial settlement: the Struggle of the Orders and its constitutional landmarks; the Samnite Wars and the Roman commonwealth; the Pyrrhic War and Rome's entry into Hellenistic diplomacy; Carthaginian constitutional and urban history; the Romano-Punic treaty series 508–241 BCE; the First Punic War (264–241) with the corvus, Regulus's African expedition, and the Battle of Aegates Islands; the Mercenary/Truceless War 241–237; the origin of the Roman provincial system; and Republican religion (North's revisionist account: religion embedded in all public action, no autonomous religious sphere, no developmental "decline" narrative). New pages include events (pyrrhic-war-280-275bce, first-punic-war-264-241bce, mercenary-war-241-237bce, gallic-sack-of-rome-390bce, capture-of-veii-396bce, caudine-forks-321bce, battle-of-sentinum-295bce, latin-war-340-338bce, roman-commonwealth-formation-338bce, foedus-cassianum-493bce, licinian-sextian-laws-367bce), actors (hiero-ii-of-syracuse, appius-claudius-caecus, m-furius-camillus, samnites, volsci), processes (roman-expansion-italy, romano-punic-treaties), concepts (roman-provincial-system, roman-republican-religion, cambridge-ancient-history-methodology), and controversies (philinus-treaty-controversy). Updated pages include roman-republic, carthage, pyrrhus-of-epirus, and source page walbank-cah-v7-2-1989.)
+Last updated: 2026-06-11 (CAH Vol. VIII complete — Rome and the Mediterranean to 133 B.C. (Astin, Walbank, Frederiksen & Ogilvie eds., 1989); 41 pages created, 17 distinct existing pages updated, across the Large-Volume Protocol's 6 section cycles. The culminating Phase-2 Greco-Roman backbone volume — the realization of Polybius' *symploke*, fusing the Western and Eastern Mediterranean into one field under Rome across the half-century from the Second Punic War to the destruction of Carthage and Corinth (146). New content: the **Hannibalic War** (second-punic-war-218-201bce, battle-of-cannae-216bce, battle-of-zama-202bce, siege-of-saguntum-219bce; hannibal, scipio-africanus, hamilcar-barca, fabius-maximus, masinissa, fabian-strategy, new-carthage, causes-of-second-punic-war); the **conquest of the West & the destruction of Carthage** (illyrian-wars-229-219bce, first-macedonian-war-214-205bce, third-punic-war-149-146bce, numantine-war-153-133bce; viriathus, scipio-aemilianus, hispania, **nature-of-roman-imperialism** — the Harris-vs-defensive debate as the volume's interpretive axis); the **internal transformation** (roman-aristocratic-politics, agrarian-crisis-roman-republic, roman-italian-alliance, cato-the-elder); the **conquest of the Greek East** (second-macedonian-war-200-196bce, roman-syrian-war-192-188bce, peace-of-apamea-188bce, third-macedonian-war-171-168bce, achaean-war-146bce; flamininus, perseus-of-macedon, aemilius-paullus, freedom-of-the-greeks, corinth); the **Hellenistic East in its own right** (antiochus-iv-epiphanes, day-of-eleusis-168bce, maccabean-revolt-167-160bce, menander-i); and the **Hellenization of Rome** (hellenization-of-rome). Updated the Roman, Carthaginian, Hellenistic-kingdom, and league pages forward into their Roman-shadowed decline. Hands directly to CAH IX — the Gracchi and the last age of the Republic.) Covers Roman constitutional and military history from the Republic's founding through the First Punic War and provincial settlement: the Struggle of the Orders and its constitutional landmarks; the Samnite Wars and the Roman commonwealth; the Pyrrhic War and Rome's entry into Hellenistic diplomacy; Carthaginian constitutional and urban history; the Romano-Punic treaty series 508–241 BCE; the First Punic War (264–241) with the corvus, Regulus's African expedition, and the Battle of Aegates Islands; the Mercenary/Truceless War 241–237; the origin of the Roman provincial system; and Republican religion (North's revisionist account: religion embedded in all public action, no autonomous religious sphere, no developmental "decline" narrative). New pages include events (pyrrhic-war-280-275bce, first-punic-war-264-241bce, mercenary-war-241-237bce, gallic-sack-of-rome-390bce, capture-of-veii-396bce, caudine-forks-321bce, battle-of-sentinum-295bce, latin-war-340-338bce, roman-commonwealth-formation-338bce, foedus-cassianum-493bce, licinian-sextian-laws-367bce), actors (hiero-ii-of-syracuse, appius-claudius-caecus, m-furius-camillus, samnites, volsci), processes (roman-expansion-italy, romano-punic-treaties), concepts (roman-provincial-system, roman-republican-religion, cambridge-ancient-history-methodology), and controversies (philinus-treaty-controversy). Updated pages include roman-republic, carthage, pyrrhus-of-epirus, and source page walbank-cah-v7-2-1989.)
 
-Last updated (prior): 2026-06-11 (CAH Vol. VII.1 complete — The Hellenistic World; 64 pages created, 9 pre-existing pages updated, across the Large-Volume Protocol's 8 section cycles. Built out the Hellenistic age from the death of Alexander at Babylon (323) to the Peace of Naupactus and Raphia (217 — Polybius' symploke): the wars of the Diadochi (Perdiccas, Antipater, Antigonus Monophthalmus, Eumenes, Ptolemy, Seleucus, Lysimachus, Cassander, Demetrius Poliorcetes; Ipsus, Corupedium) and the birth of the three-dynasty system; the new institution of Hellenistic monarchy (spear-won kingship, the Friends, ruler-cult) analysed by Walbank; Ptolemaic Egypt revised (Turner — the cleruchy, the royal economy, "Philadelphus bankrupted Egypt"); the Seleucid kingdom (Musti — the multi-ethnic military monarchy, colonisation, the secession of Bactria & Parthia); Antigonid Macedon and the Greek federal leagues (Gonatas, the Aetolian & Achaean Leagues, Aratus, Agis IV & Cleomenes III, the Chremonidean and Cleomenean and Social Wars, Sellasia); the plural Hellenistic society and the transformed polis (Davies); Hellenistic science (Lloyd — Euclid, Archimedes, Aristarchus, Eratosthenes, Herophilus); Agathocles' Sicily; the Syrian Wars and the new kingdoms of Asia Minor (Pergamum, Rhodes, the Galatians). The foundational Hellenistic volume; the direct continuation of CAH VI, handing forward to the rise of Rome in CAH VII.2 and VIII.)
+Last updated (prior): 2026-06-11 (CAH Vol. VII.2 complete — The Rise of Rome to 220 B.C. (Walbank & Astin eds., 1989); 29 pages created, 18 updated across 6 section cycles. Roman constitutional and military history from the Republic's founding through the First Punic War and provincial settlement — the Struggle of the Orders, the Samnite Wars and the Roman commonwealth, the Pyrrhic War, Carthaginian constitutional/urban history, the Romano-Punic treaty series, the First Punic War and the Mercenary War, the origin of the provincial system, and Republican religion (North). The western counterpart to CAH VII.1, handing forward to CAH VIII. Earlier volumes' summaries are preserved in their source pages and `log.md`.)
 
 This index lists every page in the wiki. Update after every ingest session.
 Entries are grouped by directory. Within each group, pages are listed in
@@ -212,25 +212,26 @@ creation order with a one-line description.
 | `lewis-cah-v6-1994.md` | The Cambridge Ancient History, Volume VI: The Fourth Century B.C. (2nd ed.) | 1994 | reference |
 | `walbank-cah-v7-1-1984.md` | The Cambridge Ancient History, Volume VII, Part 1: The Hellenistic World (2nd ed.) | 1984 | reference |
 | `walbank-cah-v7-2-1989.md` | The Cambridge Ancient History, Volume VII, Part 2: The Rise of Rome to 220 B.C. (2nd ed.) | 1989 | reference |
+| `astin-cah-v8-1989.md` | The Cambridge Ancient History, Volume VIII: Rome and the Mediterranean to 133 B.C. (2nd ed.) | 1989 | reference |
 
 ---
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **CAH Vol. VII.2** ingest. Recent volumes'
+Counts reflect actual files on disk as of the **CAH Vol. VIII** ingest. Recent volumes'
 detailed new/updated pages are catalogued in their source pages and `log.md`.
 
 | Category | Pages |
 |---|---|
 | Periods | 24 |
-| Events | 96 |
-| Processes | 81 |
-| Actors | 244 |
-| Places | 82 |
-| Concepts | 117 |
+| Events | 113 |
+| Processes | 84 |
+| Actors | 260 |
+| Places | 87 |
+| Concepts | 123 |
 | Comparisons | 0 |
-| Controversies | 30 |
+| Controversies | 33 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 19 |
-| **Total** | **670** |
+| Sources | 20 |
+| **Total** | **744** |

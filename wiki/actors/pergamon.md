@@ -9,7 +9,7 @@ affiliated_with: [the Attalid dynasty, [[rome|Rome]] (later)]
 opposed_by: [[[galatians]], [[seleucid-empire]], Antiochus Hierax]
 key_events: [the secession from Lysimachus' kingdom (281), Attalus I's victories over the Galatians]
 key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]], Pergamene art]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, dynasty, classical-antiquity, anatolia]
 ---
@@ -64,3 +64,19 @@ the leading powers of the region, "destined to play a leading role in the confli
 Rome and the Hellenistic monarchies." The last Attalid bequeathed the kingdom to Rome
 (133), which made it the province of Asia. See [[galatians]], [[seleucid-empire]],
 [[hellenistic-monarchy]].
+
+## The Roman alliance and Attalid apogee (CAH VIII, Chs 8–9)
+
+[[astin-cah-v8-1989|CAH VIII]] shows Pergamon's strategy of riding Roman power to
+greatness. **Attalus I** triggered the [[second-macedonian-war-200-196bce|Second
+Macedonian War]] by appealing to Rome against Philip; his son **Eumenes II**
+(r. 197–159) made Pergamon Rome's indispensable ally against
+[[antiochus-iii-the-great|Antiochus III]], and at the **[[peace-of-apamea-188bce|
+Peace of Apamea]]** (188) received the lion's share of Seleucid Asia Minor —
+transforming a small principality into a great kingdom. Eumenes then drove the case
+against [[perseus-of-macedon|Perseus]] (his prepared list of charges helped launch
+the [[third-macedonian-war-171-168bce|Third Macedonian War]]). But the lesson of
+[[third-macedonian-war-171-168bce|Pydna]] was that **kings were now at a discount**:
+even Eumenes fell under Roman "baleful suspicion," Rome inviting accusations against
+him (164) as it once had against Antiochus and Philip. See [[peace-of-apamea-188bce]],
+[[perseus-of-macedon]], [[nature-of-roman-imperialism]].

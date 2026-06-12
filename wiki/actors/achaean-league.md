@@ -9,7 +9,7 @@ affiliated_with: [[[aratus-of-sicyon]], [[ptolemaic-egypt]] (early), [[antigonid
 opposed_by: [[[antigonid-dynasty]] (to 224), [[aetolian-league]], [[sparta]], [[rome|Rome]] (146)]
 key_events: [[[chremonidean-war-267]], the liberation of Sicyon (251), the seizure of the Acrocorinth (243), [[cleomenean-war-229]]]
 key_processes: [[[greek-federalism]], [[hellenistic-world]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, classical-antiquity, peloponnese]
 ---
@@ -63,3 +63,21 @@ revolution of [[cleomenes-iii|Cleomenes III]] of Sparta, Aratus called in the ve
 Macedonians he had spent his life expelling, joining Antigonus III Doson's **Hellenic
 Symmachy** (224). It survived as the dominant Peloponnesian power until Rome destroyed it
 in 146 BCE. See [[aratus-of-sicyon]], [[greek-federalism]], [[aetolian-league]].
+
+## Rome, Callicrates, and the road to 146 (CAH VIII, Ch. 9, Derow)
+
+[[astin-cah-v8-1989|CAH VIII]] traces the League's slow strangulation. It abandoned
+its Macedonian alliance for Rome during the
+[[second-macedonian-war-200-196bce|Second Macedonian War]], but the partnership
+soured over the **Sparta and Messene** questions: the Senate's reception of appeals
+from individual cities against the League's own laws steadily undercut Achaean
+autonomy. The decisive **turning-point came in 180**, when **Callicrates** persuaded
+the Senate to back openly those who "promised obedience" — equating friendship with
+Rome to absolute readiness to obey, "imperialism in a strict and very Roman sense"
+(Derow). After [[third-macedonian-war-171-168bce|Pydna]] (168), **1,000 leading
+Achaeans — including [[polybius]]** — were deported to Italy (held sixteen years).
+The accumulated grievance erupted under **Critolaus and Diaeus** in the doomed
+**[[achaean-war-146bce|Achaean War]]** (146): Rome's order to dismember the League
+provoked a war that ended with the destruction of [[corinth]] and the dissolution of
+the Greek confederacies. See [[achaean-war-146bce]], [[freedom-of-the-greeks]],
+[[nature-of-roman-imperialism]].

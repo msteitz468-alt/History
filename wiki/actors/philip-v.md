@@ -7,9 +7,9 @@ period: [Classical Antiquity]
 region: [balkans, peloponnese, mediterranean]
 affiliated_with: [[[antigonid-dynasty]], the Hellenic Symmachy, [[aratus-of-sicyon]] (early)]
 opposed_by: [[[aetolian-league]], [[rome|Rome]] (later)]
-key_events: [[[social-war-220]], the Peace of Naupactus (217)]
+key_events: [[[social-war-220]], the Peace of Naupactus (217), [[first-macedonian-war-214-205bce]]]
 key_processes: [[[antigonid-dynasty]], [[hellenistic-monarchy]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, dynasty, classical-antiquity, balkans]
 ---
@@ -43,6 +43,27 @@ the west**" — the war between Rome and Carthage — settled over Greece. The P
 and stood "the darling of the Greeks" — but, just then, news of **Hannibal's victory at
 Lake Trasimene** reached him, and he turned decisively toward the west.
 
+## The First Macedonian War and Phoenice (CAH VIII, Ch. 4, Errington)
+
+The "cloud in the west" duly broke. After his **treaty with [[hannibal]] (215)** —
+intercepted at sea by Rome — Philip built an Illyrian-type fleet and pushed toward
+the Adriatic, taking inland Illyrian towns (the Parthini, Dimallum, Lissus) but
+twice chased off by small Roman squadrons (he burned his own fleet at the Aous,
+214). Rome, unable to spare legions, set the **[[aetolian-league|Aetolian League]]**
+on him by the treaty of 212/211, keeping Philip "fully employed" in Greece. The
+inconclusive **[[first-macedonian-war-214-205bce|First Macedonian War]]** ended in
+the **Peace of Phoenice (205)** after the Aetolians made a separate peace (206) and
+Rome, busy with the African endgame against Carthage, was content to postpone the
+reckoning. That reckoning came in the
+**[[second-macedonian-war-200-196bce|Second Macedonian War]] (200–196)** — Rome's
+defeat of Philip at Cynoscephalae and [[flamininus|Flamininus']] proclamation of the
+[[freedom-of-the-greeks|"freedom of the Greeks"]] — treated in
+[[astin-cah-v8-1989|CAH VIII]] Ch. 8. Confined thereafter to Macedon, Philip loyally
+aided Rome against [[antiochus-iii-the-great|Antiochus III]] but was steadily humbled
+after Apamea — ordered back within Macedon's ancient bounds, stripped of his Thracian
+gains, and driven to execute his Romanophile son **Demetrius** (180). He died in 179,
+succeeded by **[[perseus-of-macedon|Perseus]]**, the last Antigonid king.
+
 ## Counterfactual Significance
 
 Philip is the hinge between the self-contained Hellenistic balance of power and the age of
@@ -50,4 +71,5 @@ Roman intervention. His turn toward Italy after Naupactus — encouraged by Deme
 Pharos — set Macedon on the road to the Macedonian Wars with Rome, "disastrous for Greece
 and ultimately for his own kingdom and dynasty." At the close of CAH VII.1 that future is
 only a "cloud in the west"; the volume ends on the brink of *symploke*. See
-[[antigonid-dynasty]], [[social-war-220]], [[polybius]].
+[[antigonid-dynasty]], [[social-war-220]], [[first-macedonian-war-214-205bce]],
+[[nature-of-roman-imperialism]], [[polybius]].

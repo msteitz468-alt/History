@@ -9,7 +9,7 @@ affiliated_with: [[[phoenicians|Tyre]] (mother-city), the western Phoenician col
 opposed_by: [the western Greeks (Syracuse), later [[roman-republic|Rome]]]
 key_events: [the traditional foundation by Elissa/Dido (814), Malchus's Sardinian campaign (c. 550), the treaties with Rome (509, 348)]
 key_processes: [[[phoenician-colonization|Phoenician colonization]], [[trade-network-formation]], the Greco-Punic conflict in Sicily]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, north-africa, mediterranean]
 ---
@@ -269,6 +269,32 @@ in revolt — was unprovoked aggression in Polybius's explicit judgment. The sen
 injustice drove Hamilcar Barca's Spanish strategy and, through Hannibal, the Second
 Punic War.
 
+## The Barcid Recovery and the Second Punic War (CAH VIII)
+
+[[astin-cah-v8-1989|CAH VIII]] (Scullard Ch. 2, Briscoe Ch. 3) carries Carthage from
+the nadir of 241/238 to the disaster of 201. After losing Sicily and Sardinia,
+Carthage rebuilt its wealth and manpower in **Spain** under the **Barcids** —
+[[hamilcar-barca|Hamilcar]] (237–229), Hasdrubal (229–221, founder of
+[[new-carthage|New Carthage]] and negotiator of the **Ebro treaty**), and
+[[hannibal]] (from 221). The internal politics behind this — the rivalry of the
+Barca family ("new men") with **Hanno the Great**, and Polybius' note (VI.51) that
+on the eve of the war the Carthaginian constitution was weakening as deliberation
+shifted from council to people — frame the [[causes-of-second-punic-war|disputed
+causation]] of the war.
+
+The [[second-punic-war-218-201bce|Second Punic War]] (218–201) ended in catastrophe:
+[[battle-of-zama-202bce|Zama]] (202) and a peace that stripped Carthage of Spain, its
+fleet (all but ten triremes) and elephants, forbade war without Roman permission,
+recognised the enlarged kingdom of [[masinissa|Masinissa]], and imposed a
+10,000-talent indemnity over fifty years. Carthage survived as a disarmed client,
+hemmed in by Numidia — the conditions, through Masinissa's encroachments, of its
+final destruction in the **[[third-punic-war-149-146bce|Third Punic War]]**
+(149–146). Harris (CAH VIII Ch. 5) reads that war not as Roman fear of a resurgent
+Carthage — which had built no fleet and not soldiered for fifty years — but as the
+[[nature-of-roman-imperialism|systemic Roman appetite]] for a profitable, glorious
+war; Carthage was razed, its survivors enslaved, its site cursed, and its territory
+annexed as the province of **Africa**.
+
 ## Related
 
 - Mother-city: [[tyre]] · People: [[phoenicians]] · Process: [[phoenician-colonization]]
@@ -277,7 +303,12 @@ Punic War.
 - Conflict: [[battle-of-himera-480bce]] · phenomenon: [[western-greek-tyranny]] · Elymians/Motya
 - Fourth-century wars: [[dionysius-i]] (destruction of Motya) · [[syracuse]] · [[timoleon]] (Crimisus 341)
 - Wars with Rome: [[first-punic-war-264-241bce]] · [[mercenary-war-241-237bce]] ·
-  [[romano-punic-treaties]] · [[philinus-treaty-controversy]]
+  [[second-punic-war-218-201bce]] · [[third-punic-war-149-146bce]] ·
+  [[romano-punic-treaties]] · [[philinus-treaty-controversy]] ·
+  [[causes-of-second-punic-war]] · [[nature-of-roman-imperialism]]
+- Barcids: [[hamilcar-barca]] · [[hannibal]] · [[new-carthage]] · vs.
+  [[scipio-africanus]] · [[masinissa]]
 - Sources: [[boardman-cah-v3p2-1991]] (Ch. 32, Culican) · [[boardman-cah-v3p3-1982]]
   (Ch. 38, Graham) · [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[lewis-cah-v6-1994|CAH VI]]
-  (Ch. 9a, Picard) · [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard)
+  (Ch. 9a, Picard) · [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard) ·
+  [[astin-cah-v8-1989]] (Chs 2–3, Scullard & Briscoe)

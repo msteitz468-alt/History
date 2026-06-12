@@ -5,7 +5,7 @@ origin: "Emerged ad hoc from the administrative needs of Sicily (after 241 BCE) 
 applies_to_periods: [Classical Antiquity, Late Antiquity]
 applies_to_regions: [mediterranean, iberia, north-africa, anatolia, western-europe]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [concept, classical-antiquity, mediterranean]
 ---
@@ -93,11 +93,36 @@ in the context of Sardinian conquest, then extended to Spain and beyond.
 | 238 BCE | Sardinia / Corsica | Seizure from Carthage | (informal until 227) |
 | 227 BCE | Sicily | Formalized | Gaius Flaminius |
 | 227 BCE | Sardinia/Corsica | Formalized | Marcus Valerius |
-| 197 BCE | Hispania Citerior | Second Punic War acquisition | (two new praetors added) |
-| 197 BCE | Hispania Ulterior | Second Punic War acquisition | (two new praetors added) |
+| 206/197 BCE | Hispania Citerior | Second Punic War acquisition | (praetors raised from four to six, 197) |
+| 206/197 BCE | Hispania Ulterior | Second Punic War acquisition | (praetors raised from four to six, 197) |
+| 146 BCE | Africa | Destruction of Carthage | *decemviri* (annexed by law) |
 
 The system thereafter provided the template for all subsequent Roman imperial
 administration.
+
+## The Spanish provinces and the maturing of the system (CAH VIII, Ch. 5, Harris)
+
+The **two Spains** (see [[hispania]]) — annexed from 206/205, not 197 (the date only
+of the praetorian reorganisation) — first show the provincial machinery applied to a
+large, hostile, non-urban land held by force over generations. Their features
+foreshadow the developed empire:
+
+- a fixed cash tribute, the **stipendium** (paid via the Iberian "denarii" minted on
+  the Roman standard from c. 197), plus a **grain levy** and the farming of
+  **silver-mine** revenues to *publicani* (the New Carthage mines alone yielding the
+  state 25,000 drachmas a day, per Polybius);
+- and, from the misconduct of Spanish governors, the **first standing check on
+  provincial corruption**: the *recuperatores* heard complaints from 171, and the
+  ***lex Calpurnia* of 149** created the first permanent **extortion (*repetundae*)
+  court** — a landmark in the structural problem of the powerful, temporary,
+  unsupervised governor.
+
+The province of **Africa** (146), carved from destroyed [[carthage|Carthaginian]]
+territory after the [[third-punic-war-149-146bce|Third Punic War]], was annexed by
+an unusual **law creating *decemviri*** (rather than senatorial *legati*) — part of
+the struggle over the spoils of conquest, and the first known *provincia* assigned
+by popular vote. Much of Carthage's land became *ager publicus*; a poll-tax and
+*stipendium* were imposed, with privileged exceptions (Utica).
 
 ## Limitations and Critique
 
@@ -118,8 +143,11 @@ implications for the manner in which a vast empire was administered."
 
 ## Related
 
-- Event: [[first-punic-war-264-241bce]] (origin context)
+- Event: [[first-punic-war-264-241bce]] (origin context) ·
+  [[third-punic-war-149-146bce]] (province of Africa)
+- Place: [[hispania]] · [[new-carthage]] (mining)
 - Process: [[romano-punic-treaties]] · [[roman-expansion-italy]] · [[empire]]
 - Actor: [[roman-republic]] · [[hiero-ii-of-syracuse]] (whose Hieronic law became
-  the administrative template)
-- Source: [[walbank-cah-v7-2-1989]] (Postscript by Astin)
+  the administrative template) · debate: [[nature-of-roman-imperialism]]
+- Sources: [[walbank-cah-v7-2-1989]] (Postscript by Astin) · [[astin-cah-v8-1989]]
+  (Ch. 5, Harris)
