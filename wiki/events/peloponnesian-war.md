@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[delian-league|the growth of Athenian power]] and Spartan fear of it (Thucydides' "truest cause"), the disputes over Corcyra and Potidaea, the Megarian Decree, Corinthian hostility, the structural incompatibility of the two power-blocs]
 consequences: [the fall of the Athenian empire, the end of the radical democracy (temporarily), Spartan hegemony, the exhaustion of the Greek city-states, the opening for Macedon]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [event, classical-antiquity, central-greece]
 ---
 
@@ -81,11 +81,12 @@ gap between justice and necessity.
 
 ## Historiography
 
-Thucydides is the indispensable and inescapable source for 431–411; **Xenophon** and
-**Diodorus** (from Ephorus) carry the story to 404. The war's interpretation is therefore
-largely a debate with Thucydides — over the reality of his "truest cause," the wisdom of
-Periclean strategy, and whether his class viewpoint distorts the picture of allied loyalty
-(see [[classical-greek-historiography]]).
+Thucydides is the indispensable and inescapable source for 431–411 (now ingested as
+[[thucydides-peloponnesian-war|*The Peloponnesian War*]]); **Xenophon** and **Diodorus** (from
+Ephorus) carry the story to 404. The war's interpretation is therefore largely a debate with
+Thucydides — over the reality of his "truest cause," the wisdom of Periclean strategy, the artistry
+of his selection (the Melian Dialogue, the Sicilian books), and whether his pro-Athenian, class
+viewpoint distorts the picture of allied loyalty (see [[classical-greek-historiography]]).
 
 ## Related
 

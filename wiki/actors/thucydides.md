@@ -9,8 +9,8 @@ affiliated_with: [[[athens]], [[delian-league|Athenian empire]]]
 opposed_by: []
 key_events: [[[peloponnesian-war|Peloponnesian War]], the loss of Amphipolis 424/3 BCE and his twenty-year exile]
 key_processes: [the writing of critical history, [[classical-greek-historiography]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [actor, person, classical-antiquity, aegean]
 ---
 
@@ -75,6 +75,20 @@ except Hellanicus and to show "how the Athenians came to power." Lewis holds tha
 material, together with the **Pausanias–Themistocles** excursus (i.128–138), was composed
 for other purposes and **incompletely integrated** after a late change of plan — which is
 why the chronology of the period is so insecure (see [[classical-greek-historiography]]).
+
+## The Primary Text (now ingested)
+
+The work itself is ingested as **[[thucydides-peloponnesian-war|*The Peloponnesian War*]]** (Hammond
+trans., OWC; intro/notes P. J. Rhodes). Rhodes reframes the older image of the perfectly objective
+historian: Thucydides was "human, involved, and prejudiced" — pro-Periclean, anti-Cleon, writing a
+"patriotically Athenian account of the causes of the war" — yet "not dishonest," and exceptionally
+rigorous. The text is **unfinished** (it breaks off in 411) and built in **overlapping strata**
+(Books 5.25–83 and 8 are visibly a rough draft; passages written before and after the war's end sit
+side by side, with unreconciled inconsistencies — e.g. on whether the Sicilian expedition was flawed
+in conception or only in execution). On the **speeches**, the most-debated feature, he professes a
+compromise between "the overall intent of what was actually said" and "what [he] supposed would have
+been needed" (1.22) — the language, and the obsessive analysis of *Athenian power*, being largely his
+own.
 
 ## Significance
 

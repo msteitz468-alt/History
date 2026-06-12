@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | Thucydides, The Peloponnesian War (trans. Hammond; OWC 2009) | Classical Antiquity | aegean, central-greece | Pages created: 1 | Pages updated: 2
+
 ## 2026-06-12 ingest | Herodotus, The Histories (trans. Waterfield; OWC 1998) | Classical Antiquity | aegean, near-east, iran-plateau | Pages created: 3 | Pages updated: 2
 
 ## 2026-06-12 ingest-complete | NCMH Vol. 7 — c. 1415–c. 1500 (Christopher Allmand ed., 1998) | Total pages created: 26 | Total pages updated: 20 | Sections processed: 8
