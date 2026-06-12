@@ -9,7 +9,7 @@ affiliated_with: ["the Latin (Roman Catholic) Church", "the College of Cardinals
 opposed_by: ["the Holy Roman emperors (Investiture Contest; the Hohenstaufen struggle)", "antipopes", "the eastern (Orthodox) churches"]
 key_events: [[[investiture-contest]], "the Election Decree of 1059", "the East–West Schism (1054)", "the First Lateran Council (1123)"]
 key_processes: [[[gregorian-reform]], [[papal-monarchy]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, institution, mediterranean, western-europe]
 ---
@@ -89,6 +89,27 @@ right to judge and intervene in the temporal order, and direct territorial rule 
   (1302), the clash with **Philip IV of France** — the papacy's universal political claims
   were "spectacularly rebuffed by kings strong in the support of their Church and nation,"
   and the withdrawal to Avignon was at hand.
+
+## Avignon and the Great Schism (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (P.N.R. Zutshi, Ch. 15; Howard Kaminsky, Ch. 16) carries the papacy
+through its late-medieval crisis. For seventy years (**1309–1377**) **seven popes resided at
+Avignon** — not Rome — a residence begun by the Gascon **Clement V** (close to [[philip-iv-capetian|Philip
+IV]]) and made permanent under **John XXII** and **Benedict XII**, who built the great **Palais des
+Papes**. The Avignon papacy, French in personnel and convenient to northern Europe, "brought papal
+monarchy... to its highest pitch" — but at the price of a "rampant **fiscalism**": to fund the
+endless wars to subdue the **Papal States**, the popes vastly extended their rights of **provision
+to benefices** and the attendant taxes (annates, *servitia*, spoils, tenths), making Avignon a
+byword for venality and provoking demands for reform.
+
+When **Gregory XI** returned to Rome (1377) and died (1378), the contested conclave that elected
+**Urban VI** — repudiated by the cardinals, who then elected the Avignonese **Clement VII** — opened
+the **[[great-schism-1378|Great Schism]] (1378–1417)**: rival lines of popes dividing Christendom
+into "obediences." The spectacle of two (then three) claimants discredited the papal-monarchy
+ideology and gave rise to **[[conciliarism|conciliarism]]** — the doctrine that a general council
+stood above the pope — which finally healed the schism at the **Council of Constance (1414–1418)**
+(Martin V, 1417). The medieval papacy thus ended the period **weakened and reformed-against**, its
+universal authority shaken.
 
 ## Significance and Longue Durée
 

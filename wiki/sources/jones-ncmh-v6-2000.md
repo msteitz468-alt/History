@@ -14,8 +14,8 @@ reliability_notes: >
   or stripped, and map plates are garbage. Navigate by chapter-title headings (all-caps in the
   OCR) and running footers, as done for Vols 1–5. Editor: Michael Jones (Nottingham). Replaces the
   old CMH Vol. VII, "Decline of the Empire and Papacy."
-pages_created: 14
-pages_updated: 16
+pages_created: 16
+pages_updated: 17
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -105,6 +105,11 @@ follow c. line 38500. These are not read as content.
   Countries and the coming of Valois Burgundy). Captured Herde on the Empire (Adolf→Lewis; the
   Luxemburgs & Rupert), Prevenier on the Low Countries, and the Iberian chapters. (Pages created: 1 |
   Pages updated: 3.)
+- **2026-06-12 — Cycle 6 (Part III, "The Church").** Created `events/great-schism-1378.md` and
+  `concepts/conciliarism.md`. Updated `actors/papacy.md` (the Avignon papacy & the Great Schism).
+  Captured Zutshi on the Avignon papacy (the seven popes, the Palais des Papes, fiscalism) and
+  Kaminsky on the Great Schism (the 1378 conclave, the rival obediences, the conciliar resolution at
+  Constance). (Pages created: 2 | Pages updated: 1.)
 
 ## Volume Synthesis Note
 
