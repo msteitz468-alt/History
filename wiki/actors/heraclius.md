@@ -9,7 +9,7 @@ affiliated_with: [Byzantine Empire, Carthage]
 opposed_by: [Phocas, Sassanid Empire (Chosroes II), Rashidun Caliphate]
 key_events: [siege-of-constantinople-626, battle-of-nineveh-627, battle-of-yarmuk-636]
 key_processes: [emergence-of-the-theme-system, rise-of-islam, arab-conquests]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, person, late-antiquity, early-middle-ages, anatolia, mediterranean]
 ---
@@ -43,3 +43,4 @@ Modern historians (such as Andrew Louth) credit Heraclius with laying the founda
 ## References
 
 - *The New Cambridge Medieval History, Volume 1: c. 500–c. 700*, edited by Paul Fouracre. Cambridge University Press, 2005 (Chapter 11).
+- His religious policy — the *Ecthesis* that launched the [[monothelite-controversy|Monothelete controversy]] — is documented in the ingested **[[booth-cubitt-lateran-synod-649|Acts of the Lateran Synod of 649]]**.

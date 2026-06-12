@@ -45,3 +45,4 @@ This resolution restored communion between Rome and Constantinople but marked th
 ## References
 
 - *The New Cambridge Medieval History, Volume 1: c. 500–c. 700*, edited by Paul Fouracre. Cambridge University Press, 2005 (Chapter 11).
+- The acts of the western condemnation are now ingested as **[[booth-cubitt-lateran-synod-649|The Acts of the Lateran Synod of 649]]** (Pope Martin I and [[maximus-the-confessor|Maximus the Confessor]]).

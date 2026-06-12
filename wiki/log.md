@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | The Acts of the Lateran Synod of 649 (TTH 61; trans./intro Price, Booth & Cubitt) | Early Middle Ages | italy, anatolia, mediterranean | Pages created: 2 | Pages updated: 2
+
 ## 2026-06-12 ingest | Theophilus of Edessa's Chronicle (TTH 57; reconstruction/trans. Hoyland) | Late Antiquity, Early Middle Ages | near-east, mesopotamia, levant | Pages created: 2 | Pages updated: 2
 
 ## 2026-06-12 ingest | The Chronicle of Pseudo-Zachariah Rhetor (TTH 55; ed. Greatrex, trans. Phenix & Horn) | Late Antiquity | mesopotamia, near-east, anatolia | Pages created: 1 | Pages updated: 2
