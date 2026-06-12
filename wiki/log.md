@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | Livy, Hannibal's War (Ab Urbe Condita 21–30) (trans. Yardley; intro Hoyos; OWC 2006) | Classical Antiquity | italy, mediterranean, north-africa, iberia | Pages created: 1 | Pages updated: 2
+
 ## 2026-06-12 ingest | Tacitus, Agricola and Germany (trans./intro Birley; OWC 1999) | Late Antiquity | britain, british-isles, germania | Pages created: 2 | Pages updated: 2
 
 ## 2026-06-12 ingest | Tacitus, The Annals (trans. Yardley; intro/notes Barrett; OWC 2008) | Late Antiquity | italy, mediterranean, western-europe | Pages created: 2 | Pages updated: 0

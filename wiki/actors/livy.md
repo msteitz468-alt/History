@@ -9,8 +9,8 @@ affiliated_with: [Augustan Rome]
 opposed_by: []
 key_events: []
 key_processes: [[[early-roman-source-criticism]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [actor, person, late-antiquity, italy]
 ---
 
@@ -54,8 +54,8 @@ Livy is both a source and an object of study. His relationship to Polybius
 (Nissen's foundational analysis) lets scholars measure his fidelity where the two
 overlap. His treatment of early Rome is central to
 [[reliability-of-early-roman-tradition]] and [[early-roman-source-criticism]]. His
-own *Histories* will be ingested directly in Phase 4 (Livy, *Hannibal's War* Books
-21–30; *Rome's Mediterranean Empire* Books 41–45).
+own *Histories* are now being ingested directly in Phase 4: **[[livy-hannibals-war|*Hannibal's War*
+(Books 21–30)]]** (the Second Punic War) and *Rome's Mediterranean Empire* (Books 41–45).
 
 ## Related
 

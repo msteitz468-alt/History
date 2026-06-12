@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: hemispheric
 causes: [[[causes-of-second-punic-war]], the Barcid recovery of Spain, Rome's seizure of Sardinia (238), the Saguntum/Ebro dispute, [[first-punic-war-264-241bce]]]
 consequences: [Roman naval & territorial supremacy in the western Mediterranean, the acquisition of Spain as provinces, the disarming of Carthage, the rise of [[masinissa|Numidia]], the transformation of Italian agriculture, the eastward turn of Roman power]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [event, classical-antiquity, italy, iberia, north-africa, war]
 ---
 
@@ -152,4 +152,5 @@ witness for a period the Greek sources illuminate only obliquely.
 - Strategy: [[fabian-strategy]] · place: [[new-carthage]]
 - Consequences: [[roman-provincial-system]] · the war against [[philip-v|Macedon]]
   (200) · [[masinissa|Numidia]]
-- Source: [[astin-cah-v8-1989]] (Chs 2–3, Scullard & Briscoe)
+- Source: [[astin-cah-v8-1989]] (Chs 2–3, Scullard & Briscoe); the fullest ancient narrative is now
+  ingested directly as **[[livy-hannibals-war|Livy, *Hannibal's War* (Books 21–30)]]**.
