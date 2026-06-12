@@ -11,6 +11,10 @@ Format:
 
 ---
 
+## 2026-06-12 admin | Processing-List Phases 7 (ANE/Egypt depth) and 8 (Ancient China depth) skipped — every named volume absent from the collection. Proceeding to Phase 9 (Greece & Rome Depth).
+
+## 2026-06-12 ingest | Spartans: A New History (Nigel M. Kennell, 2010) | Archaic Period, Classical Antiquity, Late Antiquity | peloponnese, mediterranean | Pages created: 2 | Pages updated: 1
+
 ## 2026-06-12 ingest | The Complete Works of Zhuangzi (trans. Burton Watson; Asian Classics) | Classical Antiquity | china, east-asia | Pages created: 3 | Pages updated: 2
 
 ## 2026-06-12 ingest | Han Feizi: Basic Writings (trans. Burton Watson; Asian Classics) | Classical Antiquity | china, east-asia | Pages created: 3 | Pages updated: 2

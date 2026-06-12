@@ -9,8 +9,8 @@ affiliated_with: [the Peloponnesian (Spartan) Alliance, Elis, Tegea, Corinth, la
 opposed_by: [the Messenians, Argos, the Arcadians, the Helots]
 key_events: [the First Messenian War (~740–710), the defeat at Hysiae (669), the Second Messenian War (~640–600), the alliance with Tegea, the defeat of Argos at Thyreatis (546)]
 key_processes: [helot serfdom, the militarization of society, the building of the Spartan Alliance, the [[spartan-hegemony]]]
-sources_ingested: 5
-last_updated: 2026-06-11
+sources_ingested: 6
+last_updated: 2026-06-12
 tags: [actor, state, archaic-period, peloponnese]
 ---
 
@@ -198,6 +198,17 @@ archaeological record (the Artemis Orthia and Menelaion sanctuaries) that confir
 the Olympic victor-lists; the much-elaborated later "history" of the wars (Pausanias's
 fourth-century sources) he judges "worthless." The *Lycurgus* tradition and the
 two-stage Rhetra/Rider remain debated.
+
+**Nigel Kennell's *Spartans: A New History* (2010)**, now ingested
+(**[[kennell-spartans-new-history]]**), is built around the **"Spartan mirage"** (Ollier's term): the
+layered, idealized image of Sparta — austere, equal, eternally Lycurgan — fostered by the Spartans
+themselves and by admiring outsiders (Xenophon, Plato, Plutarch), which our overwhelmingly **external and
+late** sources transmit in place of social reality. Kennell stresses that key institutions were not
+timeless but **reinvented**: in particular the **[[spartan-agoge|agoge]]**, the famous state
+upbringing, was substantially **reconstructed in the Hellenistic and Roman periods** as a
+self-conscious revival of an imagined past. He also foregrounds **oliganthropia** — the relentless
+decline of the Spartiate citizen body — as the structural flaw that hollowed out Spartan power after
+**Leuctra (371)**.
 
 ## Related
 
