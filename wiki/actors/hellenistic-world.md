@@ -9,7 +9,7 @@ affiliated_with: [the Ptolemies (Egypt), the Seleucids (Asia), the Antigonids (M
 opposed_by: [[[roman-republic|Rome]], [[parthian-empire|Parthia]], rival successor kingdoms]
 key_events: [Wars of the Diadochi, founding of the Library of Alexandria, Roman conquest of the East]
 key_processes: [Hellenization, [[trade-network-formation]], [[silk-roads]], [[ancient-science-and-technology]], [[coinage]]]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-10
 tags: [actor, state, classical-antiquity, mediterranean, near-east]
 ---
@@ -78,4 +78,6 @@ thesis is preserved in the now-ingested classic **[[jouguet-macedonian-imperiali
 Imperialism*]]** (1926) — Alexander as conscious architect of a Greek-Oriental synthesis — against which
 the modern qualifications can be measured. The balanced standard overview is now ingested as
 **[[walbank-hellenistic-world|Walbank, *The Hellenistic World*]]**, which stresses the **limits of
-fusion** and the persisting Greek/non-Greek divide.
+fusion** and the persisting Greek/non-Greek divide. For the **social** dimension — everyday life, women,
+work, slavery, the new cults and philosophies — see the ingested **[[evans-daily-life-hellenistic-age|Evans,
+*Daily Life in the Hellenistic Age*]]**.
