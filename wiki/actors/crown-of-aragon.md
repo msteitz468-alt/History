@@ -9,7 +9,7 @@ affiliated_with: [the county of Barcelona, nominally the king of France (for Cat
 opposed_by: [the Almohads and Andalusi Muslims, [[charles-of-anjou|Charles of Anjou]] (after the Vespers), the king of France]
 key_events: [Las Navas de Tolosa (1212), the death of Peter II at Muret (1213), the conquest of Majorca (1229) and Valencia (1238), the Treaty of Corbeil (1258), the [[sicilian-vespers-1282|Sicilian Vespers]] (1282)]
 key_processes: [[[reconquista|the Reconquista]], the building of a Catalan Mediterranean commercial and political empire]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, iberia, mediterranean]
 ---
@@ -70,6 +70,19 @@ Mediterranean empire stretching from Catalonia and Valencia to the Balearics and
 Catalan merchants rivalling the Italians. Its **pactist**, baron-constraining political culture
 (the *corts*, the *Usatges*) distinguished it from the more centralised monarchies of
 [[philip-iv-capetian|France]] and [[christian-kingdoms-of-spain|Castile]].
+
+## The Fourteenth-Century Mediterranean Empire (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (the "Crown of Aragon" chapter) follows the confederation through the
+fourteenth century, when its "external policy focused" on the **Mediterranean**: beyond the Iberian
+core (Aragon, Catalonia, Valencia) it held the **Balearics**, **Sicily** and **Sardinia**, and its
+Catalan companies even seized the duchies of **Athens and Neopatras** in Greece. Under **Pedro IV
+"the Ceremonious" (1336–1387)** the crown reincorporated Majorca, asserted royal authority against
+its **pactist** baronage and *corts*, and was drawn into the **War of the Two Pedros** with
+[[christian-kingdoms-of-spain|Castile]] (entangled with the Castilian civil war of Pedro I and Henry
+of Trastámara). When the ruling line failed, the **Compromise of Caspe (1412)** — a negotiated
+arbitration — gave the crown to the Castilian **Trastámara**, binding Aragon's future to Castile and
+foreshadowing the eventual union of the Spanish crowns.
 
 ## Related
 

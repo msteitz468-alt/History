@@ -7,7 +7,7 @@ period_active: [High Middle Ages, Late Middle Ages]
 controlled_by: [the counts of Flanders (Dampierre), nominally the king of France, partly the Empire]
 events_here: [the battle of [[battle-of-courtrai-1302|Courtrai]] (1302), the Bruges Matins (1302)]
 processes_here: [[[urbanization|urbanisation]], the cloth industry and the [[commercial-revolution|commercial revolution]], the rise of urban communes]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [place, western-europe, mediterranean, high-middle-ages]
 ---
@@ -65,6 +65,22 @@ Champagne had been — its high urbanisation the "main explanatory factor"), and
 predominance of the patricians, giving Flanders "by 1302/1304 arguably the most open and
 broadly based political system of Europe." Flanders is the volume's prime example of how
 **urbanisation** could blunt royal state-building and generate a genuinely popular politics.
+
+## The Fourteenth-Century Low Countries and the Coming of Burgundy (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (Walter Prevenier, Ch. 14c) sets Flanders within the **Low
+Countries** — "a group of provinces which... formed a strong socio-economic and cultural unity"
+(Brabant, Holland, Hainault, Liège, Flanders) but no political unity, divided in allegiance between
+the German emperor and the French king. The most urbanised region of northern Europe, its cities saw
+**power broadened** from the closed patriciate to "a broad range of social groups," and its
+provincial **estates** wrote their right to consent to taxation into constitutions — a precocious
+representative politics. Flanders' great cloth towns (Ghent, Bruges, Ypres) remained turbulent: the
+revolt of **Jacob van Artevelde** (1338–1345) aligned Flanders with [[edward-iii-of-england|Edward
+III]] for its English wool, and the **Ghent revolt under Philip van Artevelde** ended in defeat at
+**Roosebeke (1382)**. The decisive long-term development was dynastic: through the marriage of
+**Margaret of Flanders to Philip the Bold of Burgundy (1369)**, Flanders and much of the Low
+Countries passed to the **[[valois-dynasty|Valois dukes of Burgundy]]**, who would assemble them into
+the great late-medieval Burgundian state straddling the Franco-Imperial frontier.
 
 ## Related
 

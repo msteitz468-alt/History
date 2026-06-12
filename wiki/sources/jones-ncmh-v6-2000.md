@@ -14,8 +14,8 @@ reliability_notes: >
   or stripped, and map plates are garbage. Navigate by chapter-title headings (all-caps in the
   OCR) and running footers, as done for Vols 1–5. Editor: Michael Jones (Nottingham). Replaces the
   old CMH Vol. VII, "Decline of the Empire and Papacy."
-pages_created: 13
-pages_updated: 13
+pages_created: 14
+pages_updated: 16
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -97,6 +97,14 @@ follow c. line 38500. These are not read as content.
   Charles V). Captured Jones on the last Capetians & early Valois, Autrand on Charles V & VI, Law on
   the Italian north, the Florence chapter, and the "Italian south" chapter. (Pages created: 2 | Pages
   updated: 5.)
+- **2026-06-12 — Cycle 5 (Part II, "The Empire, the Low Countries & Iberia").** Created
+  `actors/holy-roman-empire-late-medieval.md` (the elective Empire, Lewis of Bavaria, Charles IV and
+  the Golden Bull of 1356). Updated `actors/crown-of-aragon.md` (the fourteenth-century Mediterranean
+  empire, Pedro IV, the Compromise of Caspe), `actors/christian-kingdoms-of-spain.md` (Trastámara
+  Castile, Portuguese independence & Aljubarrota), and `places/county-of-flanders.md` (the Low
+  Countries and the coming of Valois Burgundy). Captured Herde on the Empire (Adolf→Lewis; the
+  Luxemburgs & Rupert), Prevenier on the Low Countries, and the Iberian chapters. (Pages created: 1 |
+  Pages updated: 3.)
 
 ## Volume Synthesis Note
 

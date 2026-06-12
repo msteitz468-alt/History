@@ -9,7 +9,7 @@ affiliated_with: [the [[kingdom-of-asturias|Asturian]] inheritance, the repopula
 opposed_by: [the [[caliphate-of-cordoba|Caliphate of Córdoba]] (al-Nasir, al-Mansur)]
 key_events: [the transfer of the capital to León, the battle of Simancas/al-Khandaq 939, al-Mansur's raids]
 key_processes: [the repopulation (repoblación) of the Duero frontier, the origins of the Reconquista]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, state, early-middle-ages, high-middle-ages, iberia]
 ---
@@ -47,9 +47,23 @@ crushing Christian defeat at **Sagrajas (1086)**. The era's emblematic warrior w
 Valencia (1094). With the parias and Toledo, the **[[reconquista|Reconquista]] proper**
 had begun.
 
+## The Fourteenth Century: Trastámara Castile and Portuguese Independence (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (the "Castile, Navarre and Portugal" chapter) carries the Christian
+kingdoms into the late Middle Ages. **Castile**, the dominant peninsular power, was convulsed by a
+**civil war** between **Pedro I "the Cruel"** and his half-brother **Henry of Trastámara** — a
+conflict drawn into the [[hundred-years-war-1337|Hundred Years War]] (the Black Prince fighting for
+Pedro, du Guesclin's companies for Henry) that ended with Pedro's death (1369) and the founding of
+the **Trastámara dynasty**, which would later inherit [[crown-of-aragon|Aragon]] (Caspe, 1412). The
+fourteenth century also saw **Portugal** secure its independence and identity: the **1383–1385
+revolution** brought the Avis dynasty (João I) to the throne and, at the **battle of Aljubarrota
+(1385)**, Portuguese footsoldiers (with English archers) destroyed a Castilian army — confirming
+Portugal's separate destiny and inaugurating the Anglo-Portuguese alliance. **Navarre** remained a
+small Pyrenean kingdom drawn between France, Castile and Aragon.
+
 ## Significance
 
-The tenth-century Christian kingdoms were militarily overshadowed by Córdoba at its height, but their **repopulation of the frontier** and the hardening of Castile, Navarre, and Catalonia laid the demographic and political foundations for the eleventh-century reversal — when the *fitna* shattered the Caliphate, the *parias* (tribute gold, already reaching Barcelona by the early eleventh century) began flowing north, and the *Reconquista* proper began.
+The tenth-century Christian kingdoms were militarily overshadowed by Córdoba at its height, but their **repopulation of the frontier** and the hardening of Castile, Navarre, and Catalonia laid the demographic and political foundations for the eleventh-century reversal — when the *fitna* shattered the Caliphate, the *parias* (tribute gold, already reaching Barcelona by the early eleventh century) began flowing north, and the *Reconquista* proper began. By the late Middle Ages the peninsula had settled into the configuration — **Castile, Aragon, Portugal, Navarre, and Nasrid [[nasrid-granada|Granada]]** — that would carry into the early-modern union of the Spanish crowns.
 
 ## Related
 
