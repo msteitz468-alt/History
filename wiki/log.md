@@ -13,6 +13,10 @@ Format:
 
 ## 2026-06-12 admin | Processing-List Phases 7 (ANE/Egypt depth) and 8 (Ancient China depth) skipped — every named volume absent from the collection. Proceeding to Phase 9 (Greece & Rome Depth).
 
+## 2026-06-12 admin | PIVOT to Outstanding Sources.md. Audit: ~50 of ~75 gap-filling sources now in collection (entire Modern leg, Africa, Americas, much of Asia). Still missing: Russia (Gap 8), several global primaries (Muqaddimah, Gilgamesh, Secret History of Mongols, Behistun, Hammurabi), most world-systems (Abu-Lughod, Crosby, Diamond, Harper). Working gaps in list order, starting Gap 1 (Modern).
+
+## 2026-06-12 ingest | The New Penguin History of the World, 5th ed. (J. M. Roberts & Odd Arne Westad, 2013) | global (modern emphasis) | global | Pages created: 1 | Pages updated: 4
+
 ## 2026-06-12 ingest | The Dutch Overseas Empire, 1600–1800 (Pieter C. Emmer & Jos J. L. Gommans, 2020) | Early Modern, Age of Expansion | atlantic-world, indian-ocean, southeast-asia | Pages created: 2 | Pages updated: 1
 
 ## 2026-06-12 admin | All named Processing-List sources that exist in the collection are now ingested (114 named: 79 ingested, 35 absent/corrupt). Remaining list scope = the "[All files]" whole-folder/series directives of Phases 9–13 (the ~3,000-file sorted corpus).
