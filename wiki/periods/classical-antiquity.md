@@ -59,7 +59,21 @@ Rome conquered Italy, defeated [[carthage|Carthage]] in the Punic Wars
 (264–146 BCE), and absorbed the Hellenistic east, becoming a Mediterranean
 hegemon — then tore itself apart in a century of civil war that ended with
 [[augustus|Octavian]]'s victory at Actium (31 BCE). Roman expansion rested on an
-exceptionally extensive use of [[slavery|chattel slavery]].
+exceptionally extensive use of [[slavery|chattel slavery]]. The early phase of
+this expansion (500–340 BCE) operated within the framework of the bilateral
+[[foedus-cassianum-493bce|foedus Cassianum]] (493 BCE) between Rome and the
+[[latin-league|Latin League]] — an alliance for mutual defense against the
+[[volsci|Volsci]] and [[aequi|Aequi]] that lasted until the Latin War (340–338 BCE)
+dissolved the League. The internal constitutional conflict of this period — the
+[[struggle-of-the-orders|Struggle of the Orders]] (c. 494–287 BCE) — restructured
+the Republic's political institutions, culminating in the
+[[licinian-sextian-laws-367bce|Licinian-Sextian Laws]] (367 BCE) that admitted
+plebeians to the consulship and created the joint patrician-plebeian *nobilitas*
+that governed the middle Republic. The [[capture-of-veii-396bce|capture of Veii]]
+(396 BCE) and the [[gallic-sack-of-rome-390bce|Gallic Sack]] (390/387 BCE) were
+the two epoch-making events of the early fourth century, respectively transforming
+Rome from a city-state into a territorial power and exposing the fragility of that
+power to external shock.
 
 **Mauryan India.** [[chandragupta-maurya|Chandragupta]] (r. from c. 321 BCE) and
 his grandson [[ashoka|Ashoka]] built the [[mauryan-empire|Mauryan Empire]], the

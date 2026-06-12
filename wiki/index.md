@@ -1,6 +1,8 @@
 # World History Wiki — Master Catalog
 
-Last updated: 2026-06-11 (CAH Vol. VII.1 complete — The Hellenistic World; 64 pages created, 9 pre-existing pages updated, across the Large-Volume Protocol's 8 section cycles. Built out the Hellenistic age from the death of Alexander at Babylon (323) to the Peace of Naupactus and Raphia (217 — Polybius' symploke): the wars of the Diadochi (Perdiccas, Antipater, Antigonus Monophthalmus, Eumenes, Ptolemy, Seleucus, Lysimachus, Cassander, Demetrius Poliorcetes; Ipsus, Corupedium) and the birth of the three-dynasty system; the new institution of Hellenistic monarchy (spear-won kingship, the Friends, ruler-cult) analysed by Walbank; Ptolemaic Egypt revised (Turner — the cleruchy, the royal economy, "Philadelphus bankrupted Egypt"); the Seleucid kingdom (Musti — the multi-ethnic military monarchy, colonisation, the secession of Bactria & Parthia); Antigonid Macedon and the Greek federal leagues (Gonatas, the Aetolian & Achaean Leagues, Aratus, Agis IV & Cleomenes III, the Chremonidean and Cleomenean and Social Wars, Sellasia); the plural Hellenistic society and the transformed polis (Davies); Hellenistic science (Lloyd — Euclid, Archimedes, Aristarchus, Eratosthenes, Herophilus); Agathocles' Sicily; the Syrian Wars and the new kingdoms of Asia Minor (Pergamum, Rhodes, the Galatians). The foundational Hellenistic volume; the direct continuation of CAH VI, handing forward to the rise of Rome in CAH VII.2 and VIII.)
+Last updated: 2026-06-11 (CAH Vol. VII.2 complete — The Rise of Rome to 220 B.C. (Walbank & Astin eds., 1989); 29 pages created, 18 updated across 6 section cycles. Covers Roman constitutional and military history from the Republic's founding through the First Punic War and provincial settlement: the Struggle of the Orders and its constitutional landmarks; the Samnite Wars and the Roman commonwealth; the Pyrrhic War and Rome's entry into Hellenistic diplomacy; Carthaginian constitutional and urban history; the Romano-Punic treaty series 508–241 BCE; the First Punic War (264–241) with the corvus, Regulus's African expedition, and the Battle of Aegates Islands; the Mercenary/Truceless War 241–237; the origin of the Roman provincial system; and Republican religion (North's revisionist account: religion embedded in all public action, no autonomous religious sphere, no developmental "decline" narrative). New pages include events (pyrrhic-war-280-275bce, first-punic-war-264-241bce, mercenary-war-241-237bce, gallic-sack-of-rome-390bce, capture-of-veii-396bce, caudine-forks-321bce, battle-of-sentinum-295bce, latin-war-340-338bce, roman-commonwealth-formation-338bce, foedus-cassianum-493bce, licinian-sextian-laws-367bce), actors (hiero-ii-of-syracuse, appius-claudius-caecus, m-furius-camillus, samnites, volsci), processes (roman-expansion-italy, romano-punic-treaties), concepts (roman-provincial-system, roman-republican-religion, cambridge-ancient-history-methodology), and controversies (philinus-treaty-controversy). Updated pages include roman-republic, carthage, pyrrhus-of-epirus, and source page walbank-cah-v7-2-1989.)
+
+Last updated (prior): 2026-06-11 (CAH Vol. VII.1 complete — The Hellenistic World; 64 pages created, 9 pre-existing pages updated, across the Large-Volume Protocol's 8 section cycles. Built out the Hellenistic age from the death of Alexander at Babylon (323) to the Peace of Naupactus and Raphia (217 — Polybius' symploke): the wars of the Diadochi (Perdiccas, Antipater, Antigonus Monophthalmus, Eumenes, Ptolemy, Seleucus, Lysimachus, Cassander, Demetrius Poliorcetes; Ipsus, Corupedium) and the birth of the three-dynasty system; the new institution of Hellenistic monarchy (spear-won kingship, the Friends, ruler-cult) analysed by Walbank; Ptolemaic Egypt revised (Turner — the cleruchy, the royal economy, "Philadelphus bankrupted Egypt"); the Seleucid kingdom (Musti — the multi-ethnic military monarchy, colonisation, the secession of Bactria & Parthia); Antigonid Macedon and the Greek federal leagues (Gonatas, the Aetolian & Achaean Leagues, Aratus, Agis IV & Cleomenes III, the Chremonidean and Cleomenean and Social Wars, Sellasia); the plural Hellenistic society and the transformed polis (Davies); Hellenistic science (Lloyd — Euclid, Archimedes, Aristarchus, Eratosthenes, Herophilus); Agathocles' Sicily; the Syrian Wars and the new kingdoms of Asia Minor (Pergamum, Rhodes, the Galatians). The foundational Hellenistic volume; the direct continuation of CAH VI, handing forward to the rise of Rome in CAH VII.2 and VIII.)
 
 This index lists every page in the wiki. Update after every ingest session.
 Entries are grouped by directory. Within each group, pages are listed in
@@ -209,27 +211,26 @@ creation order with a one-line description.
 | `lewis-cah-v5-1992.md` | The Cambridge Ancient History, Volume V: The Fifth Century B.C. (2nd ed.) | 1992 | reference |
 | `lewis-cah-v6-1994.md` | The Cambridge Ancient History, Volume VI: The Fourth Century B.C. (2nd ed.) | 1994 | reference |
 | `walbank-cah-v7-1-1984.md` | The Cambridge Ancient History, Volume VII, Part 1: The Hellenistic World (2nd ed.) | 1984 | reference |
+| `walbank-cah-v7-2-1989.md` | The Cambridge Ancient History, Volume VII, Part 2: The Rise of Rome to 220 B.C. (2nd ed.) | 1989 | reference |
 
 ---
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **CAH Vol. VII.1** ingest (recomputed by file
-count; the detailed catalog tables above are maintained selectively and may lag — recent
-volumes' new and updated pages are catalogued in their source pages and `log.md` rather
-than relisted here).
+Counts reflect actual files on disk as of the **CAH Vol. VII.2** ingest. Recent volumes'
+detailed new/updated pages are catalogued in their source pages and `log.md`.
 
 | Category | Pages |
 |---|---|
 | Periods | 24 |
-| Events | 85 |
-| Processes | 79 |
-| Actors | 239 |
+| Events | 96 |
+| Processes | 81 |
+| Actors | 244 |
 | Places | 82 |
-| Concepts | 114 |
+| Concepts | 117 |
 | Comparisons | 0 |
-| Controversies | 29 |
+| Controversies | 30 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 18 |
+| Sources | 19 |
 | **Total** | **670** |

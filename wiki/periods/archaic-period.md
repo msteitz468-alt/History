@@ -5,8 +5,8 @@ date_range: "800–500 BCE"
 regions_covered: [near-east, mesopotamia, levant, anatolia, iran-plateau, mediterranean, iberia, balkans, china, south-asia, north-africa, mesoamerica, andes]
 major_themes: ["the first territorial empires", "Neo-Assyrian and Achaemenid imperialism", "Greek colonization and the polis", "the Axial Age", "alphabetic literacy", "coinage", "the Eastern Zhou and Spring and Autumn period", "Mahajanapadas", "the rise of mounted steppe nomads"]
 collection_coverage: strong
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-11
 tags: [period]
 ---
 
@@ -90,6 +90,26 @@ whose interaction with settled empires becomes a permanent structural feature.
 The Americas (Olmec decline, Chavín in the Andes), sub-Saharan Africa (early
 ironworking, Nok), Australasia, and Oceania develop on independent trajectories
 covered in the regional cycles.
+
+**Rome and the western Mediterranean.** The Archaic period is also when
+[[rome|Rome]] transforms from a cluster of hilltop villages into a monumental
+city-state — the process documented by [[latial-culture|Latial Culture]]
+archaeology and the regal tradition. Under the **Etruscan Tarquins** (c. 616–509
+BCE), Rome acquired the Forum, the Capitoline temple (dedicated 509), and the
+political institutions (*comitia centuriata*, senate) that made it a regional
+power capable of claiming hegemony over the [[latium|Latin League]] by the end
+of the period. The expulsion of Tarquinius Superbus (traditional 509 BCE) and
+the foundation of the Republic coincide with the retreat of Etruscan power from
+Latium after the battle of Aricia. See [[foundation-of-rome-753bce]] and
+[[roman-kings]].
+
+Simultaneously, [[carthage|Carthage]] consolidated its western Mediterranean
+empire following the Persian conquest of Tyre (539 BCE): the **battle of Alalia**
+(c. 535) with its Etruscan ally gave the Carthaginian-Etruscan alliance effective
+control of western Mediterranean trade. The first **Romano-Carthaginian treaty**
+(Polybius III.22, c. 509 BCE) inscribes these spheres of influence: Rome was
+already part of the western Mediterranean diplomatic order at the Republic's
+foundation.
 
 ## Transition
 

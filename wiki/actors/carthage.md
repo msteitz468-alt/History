@@ -157,11 +157,127 @@ the Greek east. This Greco-Punic balance — punctuated later by **[[timoleon]]'
 the Crimisus (341) and **Agathocles' invasion of Africa** (310) — defined Sicilian history
 down to the Roman conquest.
 
+## The Carthaginian State at Its Height (CAH VII.2)
+
+[[walbank-cah-v7-2-1989|CAH VII.2]] (Scullard, Ch. 11) provides the fullest available
+synthesis of Carthage in the third century BCE — its constitution, city, economy, and
+religion — at the period of its first confrontation with Rome.
+
+### Constitution
+
+Carthage in the third century was governed by an interlocking set of institutions.
+Aristotle (*Politics* II.11) praised it as one of the three best-governed states, noting
+its mixed constitution analogous to Sparta and Crete, and noting its stability (no tyrants,
+no revolutions) as evidence of a well-balanced system.
+
+**Sufetes** (*šofeṭīm*): two annually elected "judges" who held the highest civil and
+judicial authority — not military command (which was separate). The institution was
+comparable to the Roman consulship in its dual and annual structure.
+
+**Senate**: a body of approximately 300 life-members, drawn from the aristocracy.
+The senate dominated foreign policy and finance; an **inner council of thirty** members
+handled day-to-day executive decisions.
+
+**Court of 104 Judges** (*pentarchies*): a permanent magistracy that judged generals
+and other officials after their commands — the most distinctive and feared institution
+of Carthaginian government. Generals who failed could face it; crucifixion was the
+penalty for egregious failure (several examples in the First Punic War). Aristotle
+criticized it as promoting excessive caution and discouraging military risk.
+
+**Popular assembly**: existed and could be consulted, but the constitution was
+effectively oligarchic in normal operation. The assembly came into play in political
+crises or when the senate and generals disagreed — its growing role in the third century
+Polybius saw as the system's gradual shift toward "immoderate democracy."
+
+### The City
+
+At its height Carthage was one of the largest cities in the ancient world, with a
+population estimated at **c. 500,000** (Strabo's figure, possibly exaggerated).
+Key features:
+
+**Site**: a peninsula projecting into the Gulf of Tunis; the **Byrsa** hill was the
+citadel. The city was protected by a **triple wall** on the landward side — reportedly
+40 feet high, 30 feet wide, with three-story towers at regular intervals, housing
+troops, horses, and elephants.
+
+**Harbors**: two artificial harbors separated by a narrow passage — the **merchant
+harbor** (rectangular) and the **military harbor** (circular, known as the
+*cothon*). The military harbor could shelter 220 warships simultaneously; each
+ship's berth was covered; the admiral's island command post stood at the center.
+The harbors were invisible from the sea — a deliberate secrecy for naval capacity.
+
+**Megara** (the suburb): a large area of gardens, orchards, and wealthy estates
+adjacent to the city proper.
+
+### Economy and Trade
+
+Carthage's economic foundations were threefold:
+
+**Trade**: the commercial empire that the Romano-Punic treaty series was designed to
+protect. Punic merchants ranged from the Atlantic coast (Gadiz/Gades) to the
+Adriatic; the silver mines of southern Spain were a primary resource from the
+Barcid period.
+
+**Agriculture**: Carthage's rich North African hinterland was farmed using enslaved
+labor on large estates — technically sophisticated (Mago's multi-volume agricultural
+manual was translated into Latin after Carthage's destruction as a Roman agricultural
+reference work). Carthage was a net grain exporter.
+
+**Industry and craft**: Carthage produced purple dye (like its Phoenician mother-city),
+glassware, ivory work, metalwork. Its workshops served both the local market and the
+western Mediterranean trade network.
+
+**Coinage**: Struck only from the late fifth century, initially in Sicily for military
+pay. The outburst of new Punic coinage in the 340s BCE corresponds to Carthage's
+strategic reassessment of its Mediterranean position — minting for military purposes
+tracks the rhythm of Sicilian warfare.
+
+### Religion: The Tophet
+
+American excavations at the **tophet of Salammbô** (Carthage's "Precinct of Tanit")
+in **1976–7** found over 200 urns containing the burnt bones of children. The evidence
+confirms what classical sources report and what previous excavations suggested:
+**systematic child sacrifice** (*molk*) was practiced at Carthage as a religious rite,
+with genuine human victims (not animal substitutes) predominating in the third-century
+levels.
+
+The CAH VII.2 account (Scullard) updates the earlier Picard account (CAH VI) in
+quantitative terms: the American excavations found more and better-stratified material
+than previously available. The phenomenon appears deeply embedded in Punic religion,
+not confined to crisis moments (though Diodorus describes its intensification during
+Agathocles' invasion of Africa, 310 BCE). See also [[lewis-cah-v6-1994|CAH VI]]
+(Picard) for the full earlier treatment.
+
+### The Romano-Punic Treaty Series
+
+See [[romano-punic-treaties]] for the complete analysis. In summary: five formal
+agreements between 508/7 and 241 BCE traced the progressive recognition of Roman
+Italian hegemony. The first treated Rome as a minor Latium city-state; the third
+(279/8 BCE) confirmed all previous agreements to a Rome that now spoke for all Italy.
+The [[philinus-treaty-controversy|Philinus treaty controversy]] (possible 306 BCE
+spheres-of-influence agreement) remains open.
+
+## The Wars with Rome
+
+See [[first-punic-war-264-241bce]] and [[mercenary-war-241-237bce]] for full accounts.
+In brief: the First Punic War (264–241 BCE) grew from a Mamertine crisis in which
+neither power intended a general war; Rome unexpectedly built a navy and won three
+major fleet engagements (Mylae 260, Ecnomus 256, Aegates 241); the war lasted 23 years.
+
+Rome's seizure of Sardinia in **238 BCE** — when Carthage's discharged mercenaries were
+in revolt — was unprovoked aggression in Polybius's explicit judgment. The sense of
+injustice drove Hamilcar Barca's Spanish strategy and, through Hannibal, the Second
+Punic War.
+
 ## Related
 
 - Mother-city: [[tyre]] · People: [[phoenicians]] · Process: [[phoenician-colonization]]
 - Far-western kin: [[gades-tartessos]] · Period: [[archaic-period]]
 - Greek rivals: [[magna-graecia]] · [[syracuse]] · [[gelon]] (Himera) · ally: [[etruscans]] (Alalia)
 - Conflict: [[battle-of-himera-480bce]] · phenomenon: [[western-greek-tyranny]] · Elymians/Motya
-- Fourth-century wars: [[dionysius-i]] (destruction of Motya) · [[syracuse]] · [[timoleon]] (Crimisus 341) · the tophet (Tanit, Ba'al Hammon)
-- Later enemy: [[roman-republic]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 32, Culican) · [[boardman-cah-v3p3-1982]] (Ch. 38, Graham) · [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[lewis-cah-v6-1994|CAH VI]] (Ch. 9a, Picard)
+- Fourth-century wars: [[dionysius-i]] (destruction of Motya) · [[syracuse]] · [[timoleon]] (Crimisus 341)
+- Wars with Rome: [[first-punic-war-264-241bce]] · [[mercenary-war-241-237bce]] ·
+  [[romano-punic-treaties]] · [[philinus-treaty-controversy]]
+- Sources: [[boardman-cah-v3p2-1991]] (Ch. 32, Culican) · [[boardman-cah-v3p3-1982]]
+  (Ch. 38, Graham) · [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[lewis-cah-v6-1994|CAH VI]]
+  (Ch. 9a, Picard) · [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard)

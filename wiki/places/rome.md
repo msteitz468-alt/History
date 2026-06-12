@@ -7,7 +7,7 @@ period_active: [Early Iron Age, Archaic Period, Classical Antiquity, Late Antiqu
 controlled_by: [Roman city-state, Roman Republic, Roman Empire]
 events_here: []
 processes_here: [[[urbanization]], [[ruralization]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [place, mediterranean, classical-antiquity]
 ---
@@ -87,10 +87,199 @@ restoring it "within the broader fold of the history of complex societies" — s
 on the same dissecting table as [[tenochtitlan|Tenochtitlan]] and
 [[nineveh|Assyria]] — is the comparative project of the whole volume.
 
+## The Archaeological and Literary Record (CAH VII.2)
+
+[[walbank-cah-v7-2-1989|CAH VII.2]] (Torelli Ch. 2; Momigliano Ch. 3) supplies the
+detailed synthesis of Rome in its Archaic and regal periods. Key findings that
+update or deepen the CWH III and CAH IV accounts:
+
+**Archaeological record.** Rome was occupied from at least the tenth century BCE
+(Forum tombs; Palatine hut floors from the eighth century). The Forum was paved
+and its public function established c. 635–575 BCE. The *Regia* (royal
+shrine-dwelling at the edge of the Forum, center of royal religious functions)
+shows stratified construction from c. 630 BCE. A bucchero fragment with the
+inscription *rex* dates to the sixth century and confirms the building's function.
+No rich orientalizing tombs comparable to Praeneste or Castel di Decima have
+been found at Rome — possibly indicating earlier sumptuary restraint or simply
+the destruction of evidence under 3,000 years of occupation.
+
+**The regal period.** The seven kings were **not a hereditary dynasty** but a series
+of band chiefs (*condottieri*), confirmed in each case by inauguration rites and
+senatorial recognition. Kingship was militarily oriented; the *rex sacrorum* who
+survived into the Republic performed the sacred functions after the political
+monarchy ended. See [[roman-kings]] for the full analysis.
+
+**Porsenna and the end of the monarchy.** The Roman tradition of heroic resistance
+to the Etruscan Porsenna (Horatius, Mucius, Cloelia) suppressed the embarrassing
+counter-tradition (Tacitus, Pliny) that **Porsenna actually took Rome** c. 508 BCE.
+The Romans were ultimately freed by the Latin League and Aristodemus of Cumae,
+not by their own resistance — a founding embarrassment erased from the canonical
+narrative. See [[foundation-of-rome-753bce]].
+
+**No trace of the Gallic Sack.** Despite the dramatic literary accounts of 390 BCE
+the excavations of Rome show no archaeological trace of a Gallic conflagration —
+a significant datum discussed further in Section 3 of this ingest.
+
+## The Fifth-Century City: Economy and Social Structure (CAH VII.2)
+
+[[walbank-cah-v7-2-1989|CAH VII.2]] (Drummond, Ch. 4) provides the social and
+economic context for fifth-century Rome — the material base for the constitutional
+conflicts of the Struggle of the Orders.
+
+**The agrarian economy.** Rome's fifth-century economy was overwhelmingly
+agricultural. The dominant crops were **emmer wheat** (*far*) and barley, grown
+on small, scattered holdings. There was no irrigation; yields were modest and
+erratic. The standard technique of inheritance — equal partition among sons — meant
+holdings fragmented across generations until they became insufficient to support
+a family at subsistence level. Pastoralism (cattle, sheep, pigs) complemented
+crop-growing. The wealthier Roman families owned larger estates managed with
+family labor and the labor of debt-bondsmen; genuine chattel slavery on the later
+plantation model was not yet characteristic of the landscape.
+
+**Commerce and the city.** Trade existed — Rome's position on the Tiber at the
+first navigable ford made it a natural transit point for salt from the Tiber mouth
+and for the produce of the Apennine hinterland. There was a permanent market
+(the *Forum Boarium*, cattle market, and the precinct of Ceres on the Aventine,
+with its grain trade). Greek and Etruscan pottery circulated; bronze-working was
+practiced at Rome. However, commercial activity was limited relative to agriculture;
+professional merchants were few and largely non-citizen foreigners. The fifth century
+witnessed a **general recession across Central Italy** — the same decline visible in
+reduced archaeological assemblages, fewer luxury imports, and lower urbanization
+across the region.
+
+**Debt and its social function.** The endemic feature of this economy was **debt**.
+The combination of small holdings, fluctuating yields, the demands of military
+service (which took men away from their fields at sowing and harvest), and the
+equal-inheritance fragmentation created a permanent debt trap for the smallholder
+class. The institutional response was **nexum** — a debt-bondage contract by which
+a debtor who could not repay surrendered his labor (or that of his son) to the
+creditor for an indefinite period. The *nexus* (debt-bondsman) lost political
+rights while in bondage. Debt and nexum were the economic grievances that
+activated the lower end of the plebeian constituency in the political struggles
+of the fifth century, though the institutional gains from that agitation (abolition
+of nexum c. 326 BCE) took much longer than the political gains.
+
+**Social stratification.** Roman society was stratified by:
+- **Birth** (patrician vs. plebeian — the fundamental political division)
+- **Property** (wealth determined military classification and voting weight in
+  the centuriate assembly — the pentacosiomedimnoi/hoplite/thetic analogy with
+  Athenian structure is imperfect but suggestive)
+- **Freedom** (citizen, freedman, slave — though large-scale chattel slavery
+  is a later development)
+- **Patron-client relations** (vertical bonds between a *patronus* of higher
+  standing and *clientes* of lower standing, exchanging political support for
+  protection and legal assistance)
+
+**The patriarchal household.** The fundamental unit of Roman society was the
+*familia* under the authority of its *paterfamilias*, whose *patria potestas*
+(paternal power) was legally almost unlimited: technically including rights of life
+and death, though in practice exercised within social norms. Property vested in the
+*paterfamilias*; sons under his power (*in potestate*) held nothing until his death.
+Roman law of the fifth century is primarily a law of household relations and property.
+
+**Patron-client relations.** The *clientela* system structured the vertical social
+fabric. Wealthy families, especially the great patrician houses, maintained networks
+of clients who owed loyalty, support at the assembly, and military following in
+exchange for legal protection, economic assistance, and social sponsorship.
+The Lapis Satricanus inscription (c. 500 BCE, naming the *sodales* — band — of a
+P. Valerius) is the earliest direct epigraphic evidence for this kind of aristocratic
+retinue relationship. The client was legally free and a Roman citizen; clientship
+was a social relationship, not a legal status. But it structured Roman politics
+profoundly: a great house's clients voted as a bloc, followed their patron's
+military lead, and reinforced the influence of the major *gentes*.
+
+**The Aventine as plebeian space.** The Aventine hill — technically outside the
+*pomerium* (the sacred city boundary) until the first century BCE — became the
+spatial focus of the plebeian movement: the Ceres temple (dedicated 493 BCE,
+immediately after the First Secession), its market, the depository of plebeian
+records and archives, and the residence of the plebeian aediles. The geography of
+the plebeian organization maps onto the Aventine as surely as the patrician
+institutions map onto the Forum, Capitoline, and Palatine.
+
+## The Fourth-Century City: Recovery, Fortification, and the First Municipium (CAH VII.2)
+
+[[walbank-cah-v7-2-1989|CAH VII.2]] (Cornell, Ch. 7) provides the fourth-century
+urban and political context.
+
+**The Servian Wall (c. 378 BCE).** The great **tufa circuit wall** traditionally
+called the "Servian Wall" does not date to king Servius Tullius; it dates to
+approximately **378 BCE** — construction triggered by the Gallic Sack of 390 (or
+387 by Greek reckoning). The wall enclosed approximately **426 hectares**, making
+it the largest fortification circuit in Italy at the time. Built of *cappellaccio*
+tufa from the ager Veientanus, it used the new Roman supply of stone from the
+conquered Veii territory. The Servian Wall was Rome's concrete structural response
+to the demonstrated vulnerability of an unfortified city.
+
+**Post-390 recovery.** Archaeological evidence shows no systematic destruction at
+Rome from the Gallic Sack — but the political and military shock was real. Rome's
+recovery through the 380s–360s BCE was rapid: the wars against the Volsci and Aequi
+resumed under M. Furius Camillus, Etruscan cities that attempted to exploit Roman
+weakness were defeated, and by the 350s Rome was aggressively expanding again.
+The construction of the Servian Wall, the reorganization of the army around the
+manipular formation, and the Licinian-Sextian constitutional settlement of 367 BCE
+were the three structural responses — military, tactical, and political — to the
+trauma of 390.
+
+**Tusculum and the first municipium.** The formal absorption of **Tusculum** (381 BCE
+by the tradition) as the first *municipium* — a self-governing Latin community
+incorporated into the Roman citizen body with full voting rights — was the first
+application of a formula Rome would use extensively in the Samnite War period. It
+represents a qualitative shift in Roman strategy: instead of alliance with treaty-bound
+Latin cities, Rome began to incorporate neighboring communities directly into its
+citizenship. Tusculum's Romanization was rapid and apparently consensual; within a
+generation its leading families appear among Roman magistrates.
+
+## The Early Third-Century City: Infrastructure, Population, and Hellenization (CAH VII.2)
+
+[[walbank-cah-v7-2-1989|CAH VII.2]] (Cornell, Ch. 8) provides the first substantial
+evidence for Rome as a growing urban center rather than a large city-state.
+
+**Via Appia and Aqua Appia (312 BCE).** The two projects of [[appius-claudius-caecus|
+Appius Claudius Caecus]] transformed Rome's physical and strategic landscape:
+- The **Via Appia** (Rome to Capua, c. 200 km) was Rome's first planned long-distance
+  highway — built without senatorial authorization, funded from the treasury, and named
+  after the censor who ordered it. It opened the direct military route to Campania and
+  later extended to Brundisium (by the early second century), eventually reaching the
+  Adriatic coast.
+- The **Aqua Appia**, Rome's first **aqueduct**, brought spring water from the Sabine
+  hills into the city via a largely underground channel (~16 km). It ended dependence
+  on the Tiber and local wells; a second aqueduct (Anio Vetus) followed in 272 BCE.
+  Together they supported a growing urban population requiring reliable clean water.
+
+**Population.** By the time of the **Pyrrhic War** (280–275 BCE), Cornell estimates
+Rome's citizen population at approximately **350,000–400,000** — including ager
+Romanus residents; the city of Rome itself had a population perhaps approaching
+**100,000**. This made Rome one of the largest cities in the western Mediterranean,
+comparable to Carthage in size.
+
+**Coinage.** Rome's monetary economy expanded significantly in the Samnite Wars
+period. Before c. 310 BCE Rome used **aes rude** (uncoined bronze lumps weighed
+by scale) and **aes grave** (cast heavy bronze discs); by the 280s the first
+**struck silver coinage** (the *romano-campanian* didrachm series) appeared — modeled
+on Greek and Campanian prototypes and used primarily for trade with the Greek south.
+The adoption of coined silver was a consequence of engagement with the Hellenized
+world of Campania and Magna Graecia.
+
+**Hellenization.** The conquest of Campania brought Rome into sustained contact with
+the Greek world of southern Italy. Cornell emphasizes:
+- Greek mercenaries and craftsmen at Rome from at least the fourth century
+- Greek theatrical performances (*ludi Romani*) from at least the 360s BCE
+- Greek medical knowledge (temple of Asclepius established on the Tiber island, 291 BCE)
+- Greek-style public art: the bronze statue of Jupiter set up on the Capitoline
+  after Sentinum (295 BCE); honorific statues for the commanders of the Samnite Wars
+- The Pyrrhic War (280–275 BCE) brought Rome into direct confrontation with
+  Hellenistic military organization and diplomacy, catalyzing a more self-conscious
+  process of Hellenization that would accelerate dramatically in the second century
+
+Cornell's overall picture of early-third-century Rome: a **large and growing city**,
+culturally open to Greek influence, politically governed by an increasingly closed
+oligarchy, militarily formidable, and demographically expanding — on the threshold
+of Mediterranean engagement.
+
 ## Related
 
-- Places: [[tenochtitlan|Tenochtitlan]] · [[nineveh|Nineveh]] · [[baghdad|Baghdad]] · [[uruk|Uruk]]
-- Concept: [[imperial-city]] · [[city-state]] · [[eurocentrism]] · [[urbanism]]
+- Places: [[tenochtitlan|Tenochtitlan]] · [[nineveh|Nineveh]] · [[baghdad|Baghdad]] · [[uruk|Uruk]] · [[latium]]
+- Concept: [[imperial-city]] · [[city-state]] · [[eurocentrism]] · [[urbanism]] · [[latial-culture]] · [[early-roman-source-criticism]]
 - Process: [[urbanization]] · [[ruralization]] · [[agriculture-and-urbanism]]
-- Archaic Rome: [[etruscans]] (the Tarquins) · [[etruria]] · [[italic-peoples]] · [[languages-of-italy]] (Latin)
-- Sources: [[yoffee-cwh-v3-2015]] (Ch. 25, Terrenato) · [[boardman-cah-v4-1988]] (Ch. 13, Ridgway, the Tarquins)
+- Archaic Rome: [[etruscans]] (the Tarquins) · [[etruria]] · [[roman-kings]] · [[foundation-of-rome-753bce]]
+- Sources: [[yoffee-cwh-v3-2015]] (Ch. 25, Terrenato) · [[boardman-cah-v4-1988]] (Ch. 13, Ridgway) · [[walbank-cah-v7-2-1989]] (Chs. 2–3, Torelli/Momigliano)
