@@ -5,7 +5,7 @@ origin: Coined by Michael Roberts (1955) for 1560–1660 Sweden/Netherlands; exp
 applies_to_periods: [Late Middle Ages, Early Modern, Age of Expansion]
 applies_to_regions: [western-europe, near-east, east-asia, south-asia, global]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [concept]
 ---
@@ -121,3 +121,8 @@ backdrop) and feeds [[state-formation]] and [[empire]]. Contrasts with the
 European maritime dimension — naval mastery, not land tactics, was where British
 advantage was clearest (see [[early-modern]], [[age-of-expansion]]). See the
 dispute at [[military-revolution-thesis]].
+
+The **fortress** dimension central to Parker's version of the thesis is now documented in the ingested
+**[[duffy-siege-warfare|Duffy, *Siege Warfare*]]** and the dedicated **[[trace-italienne|*trace
+italienne*]]** page — the bastioned fortress whose costly sieges are argued to have driven army growth
+and state-building.
