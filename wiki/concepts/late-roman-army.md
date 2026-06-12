@@ -5,7 +5,7 @@ origin: the transformation of the Roman army from the Severans through the third
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [mediterranean-world, balkans, near-east, germania]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -136,4 +136,7 @@ to the early seventh century** — and with it the empire itself.
   by them, as in the West. This is the military face of the [[eastern-roman-empire-425-518|East–West
   divergence]] — the army that [[justinian|Justinian]] would send to reconquer Africa and Italy.
 
-Source: [[cameron-cah-v14-2000]] (Ch. 11, A. D. Lee).
+Source: [[cameron-cah-v14-2000]] (Ch. 11, A. D. Lee). The great late-Roman treatise on military matters
+is now ingested as **[[vegetius-epitome-military-science|Vegetius, *Epitome of Military Science*]]** —
+an idealizing reform-tract that holds up the army of the early Empire as a model, to be used with care
+as evidence for the late-Roman army's actual practice.

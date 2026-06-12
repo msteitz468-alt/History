@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | Vegetius, Epitome of Military Science (TTH 16; trans./intro Milner) | Late Antiquity | italy, mediterranean | Pages created: 2 | Pages updated: 1
+
 ## 2026-06-12 ingest | The Goths in the Fourth Century (TTH 11; trans./intro Heather & Matthews) | Late Antiquity | balkans, eastern-europe, anatolia | Pages created: 2 | Pages updated: 2
 
 ## 2026-06-12 ingest | Conquerors and Chroniclers of Early Medieval Spain (TTH 9; trans./intro Wolf) | Late Antiquity, Early Middle Ages | iberia, north-africa | Pages created: 2 | Pages updated: 2
