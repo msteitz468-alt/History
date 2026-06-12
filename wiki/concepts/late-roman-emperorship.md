@@ -87,3 +87,30 @@ negotiated order** rather than a sclerotic oriental despotism.
 - The court and ceremonial world; the [[christianization-of-the-roman-empire|Christian]] political theology
   of the emperor
 - Source: [[cameron-cah-v13-1998]] (Ch. 5, Christopher Kelly)
+
+## Update — emperor and court, c. 425–600 (CAH XIV)
+
+[[cameron-cah-v14-2000|CAH XIV]] (McCormick, Ch. 6) takes the late Roman emperor as a figure who "dominated
+his society as few rulers before or since" — an age obsessed with religion constantly linking emperor and
+God ("the emperor needs only God"; his power made him "like God"). The chapter's central development is the
+**triumph of the sedentary court**:
+
+- **From *comitatus* to *palatium*.** The fourth century's vocabulary was that of a group **on the move**
+  (the *comitatus*, the "army camp"); the fifth–sixth-century reality is summed up by a **building** — the
+  **palace** (*palatium*). The definitive fixing of imperial residence at **Constantinople** and **Ravenna**
+  ended the travelling monarchy and let stable **palace milieux** drive roots into the capitals (echoing
+  Lee's point on Theodosius II's immobility). The **Great Palace** of Constantinople — its western flank
+  shielded by the **Hippodrome** — grew into a vast complex, lavishly extended by Theodosius II, Justinian,
+  and Justin II.
+- **The court as a society.** The court "encompassed but transcended" the institutions of government:
+  kinship, friendship, shared religious enthusiasms, gender, common ethnicity and professional ties bound and
+  divided it. The eastern court was a Latin/bilingual enclave in a Hellenized city (Greek ultimately
+  prevailing, but court jargon stayed studded with Latin). **Uniforms, insignia, draconian treason law and
+  tax privileges** set the *palatini* apart — so even menial palace posts were "swamped with ambitious
+  aspirants." Proximity to the emperor was the ultimate currency of power, which is why eunuch chamberlains
+  and empresses ([[eastern-roman-empire-425-518|Pulcheria]], Theodora, Sophia) loomed so large.
+- **Ceremony** — adventus, acclamations, the Hippodrome, imperial victory celebration — was the medium
+  through which this otherwise invisible emperor was made present to his people and army.
+
+This is the court that frames [[justinian|Justinian's]] reign and the whole later Byzantine imperial style.
+Source: [[cameron-cah-v14-2000]] (Ch. 6, Michael McCormick).

@@ -107,3 +107,33 @@ in action). Key points:
   [[late-roman-emperorship|imperial government]]; transformed the [[roman-imperial-army|imperial army]] of
   the Principate; reliance on [[germanic-peoples|barbarian recruits]] and federates (cf. [[stilicho]])
 - Sources: [[bowman-cah-v12-2005]] (Ch. 5, Brian Campbell); [[cameron-cah-v13-1998]] (Ch. 7, A. D. Lee)
+
+## Update — divergent fates, c. 420–602 (CAH XIV)
+
+[[cameron-cah-v14-2000|CAH XIV]] (Lee, Ch. 11) frames the fifth–sixth-century army around its **two opposite
+outcomes**: in the West the Roman army **ceased to exist as a state institution**, replaced by the forces of
+the successor kingdoms (none of which kept a standing army); in the **East it survived in recognizable form
+to the early seventh century** — and with it the empire itself.
+
+- **Structure** continued the Diocletianic/Constantinian model: **limitanei** (frontier garrisons under
+  *duces*, partly self-supporting from assigned lands — a deliberately maintained "imperial presence" that
+  controlled all cross-border movement) and mobile **comitatenses** (palatine *praesental* armies near the
+  capitals, plus regional commands under *magistri militum*). Recruitment mixed **hereditary service**
+  (veterans' sons), **conscription** on the tax registers (commutable for *aurum tironicum*), and
+  ever-heavier reliance on **non-Roman troops**, increasingly organized as **federate** ethnic war-bands
+  under their own chiefs (the two Theoderics each led ~10,000 in the Balkans).
+- **Why the West's army dissolved** is, for Lee, a **fiscal** story (echoing Heather's "vicious circle").
+  Valentinian III's Novel of 444 states the problem nakedly: the empire desperately needed an army but could
+  no longer **squeeze the supplies** from a shrinking economy. As tribes learned that **occupying land**
+  (not merely drawing pay) was the key to security, the state lost control of the **tax base** region by
+  region; by the 450s only Italy and southern Gaul remained, and even there armies could be raised only by
+  **coalition with local élites** (Aetius against Attila). It was "not that all western Romans had lost the
+  ability or will to fight, but that the state could not deploy this potential" — the machinery for raising,
+  paying and moving armies had broken down. The army of Italy, by the end largely **federate**, was the
+  kingmaker (Ricimer) until [[fall-of-the-western-roman-empire-476|476]].
+- **Why the East's survived**: its richer, defensible **revenues** still funded a standing army; it
+  domesticated its federates (and the *optimates*) into the imperial structure rather than being supplanted
+  by them, as in the West. This is the military face of the [[eastern-roman-empire-425-518|East–West
+  divergence]] — the army that [[justinian|Justinian]] would send to reconquer Africa and Italy.
+
+Source: [[cameron-cah-v14-2000]] (Ch. 11, A. D. Lee).

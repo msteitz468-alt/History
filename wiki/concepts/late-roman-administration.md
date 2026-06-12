@@ -98,3 +98,18 @@ tendencies** under crisis pressure.
 - The reformed [[late-roman-army|army]] and [[roman-money-and-finance|fiscal/monetary system]] it was
   built to sustain; the [[roman-classical-jurisprudence|law]] of the chancellery
 - Source: [[bowman-cah-v12-2005]] (Ch. 6, Elio Lo Cascio)
+
+## Update — government in operation, 425–600 (CAH XIV)
+
+[[cameron-cah-v14-2000|CAH XIV]] (Whitby, Ch. 7) stresses that the late empire developed, **for the first
+time in Roman history, genuinely complex bureaucratic structures** — the very thing that let immobile,
+palace-bound emperors retain authority without campaigning. Administration and the **decline of the
+[[late-roman-cities|curial class]]** stood in a **cyclical relationship**: as city councils surrendered their
+traditional tasks (revenue-raising, transmitting imperial orders, keeping local order), the central
+bureaucracy grew more intrusive to compensate — which further weakened the curiae. **Active** reforming
+emperors (Anastasius, Justinian) could dominate and overhaul the machine but "raised hackles"; **passive**
+ones were despised for neglect. The codes themselves measure government's reach: a quarter of the
+[[codification-of-roman-law|Theodosian Code]] (and of Justinian's) concerns administrative duties, precedence
+and the *fisc*. Whitby's overall verdict is of **gradual development, not crisis** — the eastern system
+worked well enough to underwrite Justinian's wars and survive into the seventh century. Source:
+[[cameron-cah-v14-2000]] (Ch. 7, Michael Whitby).

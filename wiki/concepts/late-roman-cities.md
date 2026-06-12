@@ -122,3 +122,31 @@ basilicas and episcopal complexes replacing the old monumental fora as the new f
 patronage.
 
 - Source (fourth century): [[cameron-cah-v13-1998]] (Ch. 12, Bryan Ward-Perkins)
+
+## Update — the death of the classical city (425–640, CAH XIV)
+
+[[cameron-cah-v14-2000|CAH XIV]] (Liebeschuetz, Ch. 8) carries the story to the seventh century. Strikingly,
+despite the fragmentation of the West, cities **everywhere — barbarian kingdoms and surviving empire alike —
+evolved along parallel lines**, regional differences being "a matter of timing rather than substance."
+
+- **Classical politics perished.** Self-government by the constitutionally defined **curiae** died out
+  everywhere; cities came to be run by **undefined groups of powerful notables** (and, increasingly, the
+  bishop). Libanius had already diagnosed why: the most powerful councillors did not mind their colleagues
+  leaving, since it **concentrated power in their own hands**, while ordinary decurions fled the council's
+  burdens (floggings, bankruptcy, tax-collection) for safer careers in the imperial service or church. The
+  government legislated against the trend right up to Justinian — to little effect; by Anastasius's reign the
+  notables were in control in the East, and new law simply recognized the fact (a factor in the Justinianic
+  revival). In the West the provincial system vanished and kings ruled cities through **counts** (often local
+  magnates), so cities probably enjoyed **more independence than at any time since Diocletian**.
+- **The rise of the bishop.** The decisive positive development, East and West, was the growth of
+  **episcopal power** and the **Christianization of the cityscape** — monumental churches and episcopal
+  complexes becoming the structural and patronal heart of the town, especially within the contracted walled
+  circuits.
+- **Regional survival.** The full classical city (monuments, games, literate élite) survived best in the
+  **East** — western/southern Asia Minor, Syria, Arabia, Palestine, Egypt — **right up to the Arab
+  conquests** and beyond; in the West it lasted in Africa **only to the Vandal conquest**, and in southern
+  Spain, Provence and (especially northern) Italy. A late-fifth/sixth-century **revival**, mainly in church
+  building, appeared first in the East, then Ostrogothic Italy, Merovingian Gaul, and last Visigothic Spain.
+
+This is CAH XIV's verdict on the long transition from the **classical *polis*** to the **medieval
+bishop's town**. Source: [[cameron-cah-v14-2000]] (Ch. 8, J. H. W. G. Liebeschuetz).
