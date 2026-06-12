@@ -146,6 +146,27 @@ further. By 1400 Byzantium was an Ottoman vassal awaiting the conquest of 1453 �
 the fifteenth century, in Laiou's account, a matter of diplomacy, Ottoman distraction (Timur), and
 good luck more than strength.
 
+## The Last Century and the Fall (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Anthony Bryer, "Byzantium: the Roman Orthodox World, 1393–1492",
+Ch. 30) treats the empire's final century from the standpoint of its people — the **"Roman
+Orthodox"** (*Romaioi*), subjects of "the first Constantine's New Rome." By 1453 Byzantium was a
+shrunken remnant — Constantinople, the Morea (with its cultural capital at **Mistra**) and Trebizond —
+and the **[[ottoman-empire|Ottoman]]** state already ruled "far more Orthodox Christians than did the
+Byzantine emperor." Desperate for western aid, **John VIII Palaiologos** subscribed to the **Union of
+the Churches** at the **Council of Florence (1439)** — but the Orthodox people "generally rejected"
+it (preferring, the saying went, the sultan to the pope), so no effective crusade came. The last
+emperor, **Constantine XI**, died in the [[fall-of-constantinople-1453|fall of Constantinople (29 May
+1453)]].
+
+Bryer's central argument deflates the western myth of 1453 as a cosmic rupture: for the Roman
+Orthodox the conquest brought a new *taxis* (order) rather than annihilation. Sultan Mehmed II
+**re-established the patriarchate** under the anti-unionist Gennadios Scholarios — so that "it was now
+possible to have a Church with a sultan," the Church surviving the empire. The imperial-Orthodox
+mantle passed symbolically to **Moscow** (the future "Third Rome"; [[ivan-iii-vasilyevich|Ivan III]]
+married Constantine XI's niece), and the diaspora of Greek scholars enriched the Italian
+[[renaissance-humanism|Renaissance]].
+
 ## Significance
 
 Byzantium preserved Greco-Roman law, learning, and statecraft through the European

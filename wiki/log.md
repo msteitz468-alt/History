@@ -1672,3 +1672,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | NCMH VII — c. 1415–c. 1500 (Allmand ed., 1998) | Section: Cycle 6 — Part IV "England & the Celtic World" (Lancastrian England; Yorkist & early Tudor England; Ireland; Scotland; Wales) | Pages created: 4 | Pages updated: 2
 
 ## 2026-06-12 section | NCMH VII — c. 1415–c. 1500 (Allmand ed., 1998) | Section: Cycle 7 — Part IV "Italy & Iberia" (the northern Italian states; the papal states & Naples; Aragon; Castile & Navarre; Portugal; the Swiss Confederation) | Pages created: 6 | Pages updated: 2
+
+## 2026-06-12 section | NCMH VII — c. 1415–c. 1500 (Allmand ed., 1998) | Section: Cycle 8 — Part IV "Northern & Eastern Europe, Byzantium & the Ottomans" + Conclusion (Scandinavia; Hungary; Poland & Lithuania; Russia; Byzantium; the Latin east; the Ottoman world) | Pages created: 4 | Pages updated: 3

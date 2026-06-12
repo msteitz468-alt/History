@@ -63,8 +63,43 @@ century, the empire that absorbed the Balkans, encircled and would soon extingui
 Balkans with a new Islamic imperial power. Timur's blow at Ankara only delayed what proved
 irreversible.
 
+## The Fifteenth Century: Recovery, Conquest and Empire (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Elizabeth Zachariadou, Ch. 32) carries the Ottoman story from the
+near-collapse at **Ankara (1402)** to the empire of Mehmed II and Bayezid II.
+
+- **The Interregnum and recovery (1402–1413).** Timur's victory shattered the state and restored the
+  Anatolian *beyliks*, but the European core (**Rumelia**), held by the *udj-bey* march-lords, recovered
+  fast. After the civil war (*fetret devri*) of Bayezid's sons, **Mehmed I** (1413–21) reunited the
+  state. The dynastic strife was entangled with a genuine **social-religious revolution** under the
+  mystic **Sheyh Bedr ed-din**, preaching common ownership and Muslim–Christian fraternisation,
+  crushed c. 1416.
+- **The war-party state.** Zachariadou frames Ottoman politics as a contest between a **moderate
+  party** (the vizier Halil Çandarlı — favouring vassalage, trade and Islamic-traditional order) and
+  the **war-mongers** of holy war (*djihad*). **Murad II** (1421–51) inclined to peace and vassalage,
+  but after defeats by the crusaders (Hunyadi) avenged himself at **Varna (1444)** and **Kosovo
+  (1448)**.
+- **Mehmed II "the Conqueror" (1451–81).** The **[[fall-of-constantinople-1453|fall of Constantinople
+  (1453)]]** made the Ottoman Empire "the successor of the Byzantine" and gave the war party total
+  power (Halil executed). Mehmed abolished the vassal states and annexed them directly — Serbia
+  (1459), the Morea (1460), Trebizond (1461), Bosnia (1463) — and fought Venice (1463–79), seizing
+  the Genoese Crimea (1475) and even landing at **Otranto** in Italy (1480). His was a relentless
+  conquest-state, financed by debased coinage and the confiscation of *vakf* and *mülk* lands for
+  *timars*.
+- **The institutions.** The chapter details the mature Ottoman order: the *timar* cavalry (*sipahi*),
+  the Christian-vassal and march-lord systems, and above all the **slave-soldier household** — the
+  **janissaries** and the *devshirme* child-levy of Christian boys, "the highest posts of the empire"
+  open to men of humble, non-Turkish origin (the *kapu kulu*). The dynasty itself practised
+  **fratricide**, made law by Mehmed II.
+- **Bayezid II (1481–1512): toward mercantilism.** A pious, consolidating ruler who shifted from holy
+  war to organisation and trade — closing the **Black Sea** (Kilia and Akkerman, 1484) as an Ottoman
+  preserve, building a navy, defeating Venice (1499–1503), and welcoming the **Jews expelled from
+  Spain (1492)**. Power was passing to a **merchant** rather than imperialist milieu — just as the
+  Portuguese rounding of Africa began to threaten the Levant trade.
+
 ## Related
 
+- `produced:` the [[fall-of-constantinople-1453|conquest of Constantinople (1453)]] and the absorption of the Balkans and the [[byzantine-empire|Byzantine]] successor-states.
 - `opposed_by:` the declining [[byzantine-empire|Byzantine empire]] and the Balkan Christian states; checked by Timur at Ankara (1402).
 - `produced:` the conquest of the Balkans ([[battle-of-kosovo-1389|Kosovo]] 1389, Nicopolis 1396).
 - `part_of:` the fourteenth-century transformation of the eastern Mediterranean frontier.

@@ -84,9 +84,33 @@ These "long and great reigns marked a period of clear equilibrium," and a tenden
 thrones (1305) — that foreshadowed the Jagiellonian hegemony, sealed when Poland's crown passed to
 [[grand-duchy-of-lithuania|Lithuania's]] Jogaila (the Union of Krewo, 1385).
 
+## The Fifteenth Century (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (János Bak on Hungary, Ch. 27; Antoni Gąsiorowski on Poland and
+Lithuania, Ch. 28) brings the three kingdoms to the threshold of the early-modern world — all three
+shaped by the **Ottoman threat**, **dynastic union**, and a powerful **nobility**.
+
+- **Hungary.** Under **Sigismund of Luxemburg** (also Emperor) the kingdom became the bulwark of the
+  Balkan frontier (the Order of the Dragon, 1408). The Turk-fighter **János Hunyadi** halted the
+  Ottomans at **Belgrade (1456)**; his son **[[matthias-corvinus|Matthias Corvinus]]** (1458–90), the
+  first magnate-king, built a centralised state, the standing **Black Army**, and a great Renaissance
+  court (the Bibliotheca Corviniana), warring against the Habsburgs (Vienna, 1485) — but his system
+  collapsed at his death, the nobles electing the weak Jagiellonian **Vladislav II**.
+- **Poland–Lithuania.** The **personal union** of the kingdom of Poland and the grand duchy of
+  **[[grand-duchy-of-lithuania|Lithuania]]** (from the Union of Krewo, 1385) under the
+  **Jagiellonian** dynasty created the largest realm in Latin Christendom (~1.24 million km²). It
+  broke the **[[teutonic-knights|Teutonic Order]]** (Grunwald 1410; the Second Peace of Thorn, 1466,
+  annexed Royal Prussia and Warmia), while the **szlachta** nobility won ever-greater privileges,
+  building the "noble democracy" of the future. By the late fifteenth century the Jagiellonians held
+  the thrones of Poland, Lithuania, Bohemia and Hungary — a central-European hegemony rivalled only
+  by the rising Habsburgs and the advancing Ottomans.
+- **Bohemia.** Severed from the Empire by the **[[hussite-wars-1419|Hussite revolution]]**, ruled by
+  the "national" king **George of Poděbrady** and then the Jagiellonians — its story told separately.
+
 ## Related
 
 - `opposed_by:` the [[mongol-invasion-of-europe-1241|Mongol/Tatar invasion (1241)]]; Ottokar II fell to [[rudolf-of-habsburg|Rudolf of Habsburg]].
+- `followed_by:` the fifteenth-century [[matthias-corvinus|Matthias Corvinus]] in Hungary, the Jagiellonian hegemony, and the [[hussite-wars-1419|Hussite]] transformation of Bohemia.
 - `analogous_to:` [[magna-carta-1215|Magna Carta]] — the Hungarian Golden Bull of 1222 as a parallel baronial charter.
 - `concurrent_with:` the German **Ostsiedlung** and the [[teutonic-knights|Teutonic Order's]] Baltic conquest.
 - `affiliated_with:` the [[stephen-i-of-hungary|Árpád]], [[premyslid-bohemia|Přemyslid]] and [[boleslaw-i-chrobry|Piast]] dynasties of the earlier backbone.

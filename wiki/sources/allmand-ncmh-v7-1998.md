@@ -116,6 +116,15 @@ the Conclusion (from c. line 36417) follow. The bibliography and tables are not 
   Updated `processes/reconquista.md` (the completion at Granada) and `actors/crown-of-aragon.md`
   (Caspe 1412, the pactist federal crown, Aragonese Naples, the union with Castile).
   (Pages created: 6 | Pages updated: 2.)
+- **2026-06-12 — Cycle 8 (Part IV, "Northern & Eastern Europe, Byzantium & the Ottomans" +
+  Conclusion).** Created `events/fall-of-constantinople-1453.md` (Zachariadou & Bryer),
+  `actors/ivan-iii-vasilyevich.md` (Kollmann: the rise of Muscovy, Novgorod 1478, the Ugra 1480, the
+  Third Rome), `actors/matthias-corvinus.md` (Bak: the Black Army, Vienna, the Corvina), and
+  `events/kalmar-union-1397.md` (Schück). Updated `actors/ottoman-empire.md` (Mehmed II's conquest
+  state, the janissaries/devshirme, Bayezid's mercantilism), `actors/byzantine-empire.md` (the last
+  century, the Union of Florence, the fall), and `actors/central-european-kingdoms.md` (Hunyadi/Corvinus
+  Hungary; Jagiellonian Poland-Lithuania and the Second Peace of Thorn 1466). (Pages created: 4 |
+  Pages updated: 3.)
 
 ## Volume Synthesis Note
 
