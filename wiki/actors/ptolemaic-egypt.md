@@ -9,7 +9,7 @@ affiliated_with: [Macedon, the Greek and Macedonian settler class, the Egyptian 
 opposed_by: [[[seleucid-empire]], [[antigonid-dynasty]], native Egyptian revolts, [[rome|Rome]]]
 key_events: [[[wars-of-the-diadochi-323]], [[syrian-wars]], [[battle-of-raphia-217]]]
 key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]], [[ruler-cult]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-11
 tags: [actor, dynasty, state, classical-antiquity, egypt]
 ---
@@ -138,8 +138,17 @@ favour**: declared "friend and ally" in **59** for **6,000 talents** to
 Syria, for a promised **10,000 talents** — leaving the **Gabiniani**, the first Roman
 garrison, in Egypt. He drained the kingdom's wealth (even melting Alexander's golden
 sarcophagus) to pay these debts. On his death (51) he left Egypt jointly to **Ptolemy
-XIII** and **Cleopatra VII**, naming the Roman people as witness to his will. The
-dynasty's end — Cleopatra, Caesar, Antony, and Actium (30) — belongs to CAH X.
+XIII** and **Cleopatra VII**, naming the Roman people as witness to his will.
+
+**Cleopatra VII** (51–30) — the last and ablest Ptolemy, the first to speak Egyptian —
+allied with **Caesar** (who restored her, fathering **Caesarion**) and then with
+**[[mark-antony|Antony]]**, sharing his eastern realm (the **Donations of
+Alexandria**, 34). When Antony lost **[[battle-of-actium-31bce|Actium]]** (31) to
+Octavian, the dynasty's last hope fell with him: at the
+**[[death-of-antony-and-cleopatra-30bce|fall of Alexandria]] (30)** both took their
+own lives. **Egypt was annexed** as the personal domain of [[augustus|Octavian]] (ruled
+by an equestrian prefect, closed to senators) — its vast treasure funding his veterans
+and his new order. So ended three centuries of Ptolemaic rule (CAH X, Ch. 1).
 
 Thompson's underlying argument: beneath the dynastic melodrama, **overseas debt,
 failing Niles, and a weak unsalaried bureaucracy** hollowed out even Egypt's

@@ -58,9 +58,14 @@ The Second Triumvirate completed what Caesar's murder had failed to prevent: the
 dynasts. Rawson's theme is "Caesar's ghost" — it was loyalty to the dead dictator, his
 precedent of vast donatives, and the wealth he had amassed that drove the dynasts and
 their veterans to overturn the Senate. The triumvirs' war against **Brutus and
-Cassius** ended at **Philippi (42)**; their own rivalry (Octavian vs. Antony, with
-Lepidus discarded) belongs to CAH X — and ends at **Actium (31)** with Octavian sole
-master, the founder of the Principate as **Augustus**.
+Cassius** ended at **[[battle-of-philippi-42bce|Philippi]] (42)**, after which the
+**East** fell to [[mark-antony|Antony]] and **Italy and the West** to
+[[augustus|Octavian]]. Their partnership frayed through the 30s (the Perusine War 41–40;
+the pacts of Brundisium, Misenum, and Tarentum), and the **elimination of Sextus
+Pompeius and the deposition of Lepidus (36)** left only two. The final rivalry ran to
+**[[battle-of-actium-31bce|Actium]] (31)** and the
+**[[death-of-antony-and-cleopatra-30bce|fall of Alexandria]] (30)**, leaving Octavian
+sole master — the founder of the Principate as **[[augustus|Augustus]]** (CAH X).
 
 ## Related
 
