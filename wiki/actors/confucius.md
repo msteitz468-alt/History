@@ -9,8 +9,8 @@ affiliated_with: [the state of Lu, the ru (scholar) tradition]
 opposed_by: []
 key_events: [career as teacher and political adviser, compilation of the classics, posthumous canonization]
 key_processes: [[[confucianism]], [[axial-age]], [[mandate-of-heaven]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [actor, person, classical-antiquity, china, east-asia]
 ---
 
@@ -56,7 +56,8 @@ political culture of China, Korea, Japan, and Vietnam for over two millennia (se
 
 ## Historiography
 
-Confucius is known chiefly through the **Analects** (compiled by followers after his death)
+Confucius is known chiefly through the **Analects** (compiled by followers after his death) — now
+ingested directly as **[[confucius-analects-watson|The Analects of Confucius]]** (trans. Burton Watson) —
 and later, increasingly idealized accounts (Sima Qian's biography). The reliability of the
 attributed editorship of the classics is debated, and the "Confucianism" built in his name
 encompasses far more than the historical man taught — a nineteenth-century Jesuit-derived

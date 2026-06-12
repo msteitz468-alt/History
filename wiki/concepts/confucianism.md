@@ -5,7 +5,7 @@ origin: the ru (scholar) tradition rooted in Shang-Zhou ritual masters; shaped b
 applies_to_periods: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [china, east-asia, korea, japan]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [concept]
 ---
@@ -70,3 +70,8 @@ As the longest-running governing ideology in world history, Confucianism shaped 
 culture not only of China but of **Korea, Japan, and Vietnam** — a key pillar of the
 [[east-asian-cultural-sphere|East Asian cultural sphere]] and China's distinctive
 contribution to the [[axial-age|Axial Age]].
+
+Its foundational texts are now being ingested directly: the **[[confucius-analects-watson|Analects]]**
+of Confucius and the **[[mencius-ivanhoe|Mencius]]** (two of the Four Books), with the rival Warring
+States schools of **[[han-feizi-watson|Legalism (Han Feizi)]]** and **[[zhuangzi-watson|Daoism
+(Zhuangzi)]]**.
