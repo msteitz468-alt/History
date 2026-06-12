@@ -6,8 +6,8 @@ coordinates: [32.54 N, 44.42 E]
 period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Iron Age, Archaic Period, Classical Antiquity, Late Antiquity]
 controlled_by: [[[babylonia-iron-age|Babylonian dynasties]], [[neo-assyrian-empire|Assyria]], the [[neo-babylonian-empire|Neo-Babylonian Empire]], [[achaemenid-empire|Persia]], Macedon (Alexander), the Seleucids]
 events_here: [the rebuilding by [[nebuchadnezzar-ii|Nebuchadnezzar II]], [[sennacherib|Sennacherib's]] destruction (689), [[fall-of-babylon-539bce|fall to Cyrus 539]], the death of Alexander (323)]
-processes_here: [[[empire]], the [[neo-babylonian-civilization|flowering of Babylonian science and literature]]]
-sources_ingested: 1
+processes_here: [[[empire]], the [[neo-babylonian-civilization|flowering of Babylonian science and literature]], the [[wars-of-the-diadochi-323|wars of the Successors]]]
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [place, mesopotamia, near-east, archaic-period]
 ---
@@ -86,6 +86,20 @@ around the city and at Nippur and Uruk (see [[neo-babylonian-civilization]]).
   later died here (323), and intended it as his capital, before Seleucia drained it
   and it decayed into the "great desert" of Strabo and Pliny.
 
+## Babylon and the Successors (CAH VII.1)
+
+Babylon was a strategic prize in the [[wars-of-the-diadochi-323|wars of the Successors]].
+[[walbank-cah-v7-1-1984|CAH VII.1]] (Will, ch. 2) records that
+[[seleucus-i-nicator|Seleucus I]] received Babylonia at Triparadisus (321), was driven
+out by [[antigonus-i-monophthalmus|Antigonus]] (315), and **recovered the city in 312** —
+the event from which the **[[seleucid-era]]**, the first continuous year-count in history,
+was reckoned. A Babylonian cuneiform chronicle records the see-saw of these years.
+Seleucus then made Babylonia the springboard for his reconquest of the Iranian upper
+satrapies. But his foundation of **Seleuceia-on-the-Tigris** as a new royal city
+progressively drained Babylon's population and commerce, beginning the long decline that
+left it the deserted ruin of Strabo and Pliny — even as its priest-astronomers kept
+writing cuneiform for three more centuries.
+
 ## Changing significance
 
 Babylon's significance shifted from **Bronze Age royal capital** to **Iron Age holy
@@ -99,4 +113,5 @@ its civil death.
 - Empire: [[neo-babylonian-empire]] · Builder: [[nebuchadnezzar-ii]] · Region: [[babylonia-iron-age]]
 - Rival capital: [[nineveh]] · Destroyer-then-restorer: [[sennacherib]] · [[esarhaddon]]
 - Fall: [[fall-of-babylon-539bce]] · Conqueror: [[cyrus-the-great]] · [[achaemenid-empire]]
-- Civilization: [[neo-babylonian-civilization]] · Period: [[archaic-period]] · Source: [[boardman-cah-v3p2-1991]]
+- Hellenistic: [[seleucus-i-nicator]] · [[seleucid-era]] · [[wars-of-the-diadochi-323]]
+- Civilization: [[neo-babylonian-civilization]] · Period: [[archaic-period]] · Sources: [[boardman-cah-v3p2-1991]] · [[walbank-cah-v7-1-1984|CAH VII.1]] (Will, ch. 2)

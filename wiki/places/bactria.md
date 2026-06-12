@@ -6,8 +6,8 @@ coordinates: ~36.7 N, 66.9 E (Balkh)
 period_active: [Early Bronze Age, Late Bronze Age, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: [Oxus Civilization/BMAC, [[achaemenid-empire|Achaemenids]], [[alexander-the-great|Alexander]]/Seleucids, [[greco-bactrian-kingdom|Greco-Bactrians]], [[kushan-empire|Kushans]], [[sasanian-empire|Sasanians]], Hephthalites, Türks, Arabs]
 events_here: [Alexander's conquest and marriage to Roxana, secession of the Greco-Bactrian kingdom c. 250 BCE]
-processes_here: [[[trade-network-formation]], [[silk-roads]], Hellenization, [[pastoral-nomadism|nomad migration]]]
-sources_ingested: 2
+processes_here: [[[trade-network-formation]], [[silk-roads]], [[seleucid-colonization|Hellenization]], [[pastoral-nomadism|nomad migration]]]
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [place, central-asia, classical-antiquity]
 ---
@@ -37,14 +37,18 @@ system."**
   Achaemenid mainstay of Central Asia"** below.
 - **Alexander and the Seleucids** — [[alexander-the-great|Alexander]] conquered
   Bactria, allied with its king, and married **Roxana**; Greek colonies followed
-  (the excavated city of **Ai Khanum** on the Oxus, with gymnasium, theatre, and
-  Greek inscriptions — a vivid emblem of [[hellenistic-world|Hellenism]] at the edge
-  of the world).
+  (the excavated city of **[[ai-khanoum|Ai Khanum]]** on the Oxus, with gymnasium,
+  theatre, and Greek inscriptions — a vivid emblem of [[hellenistic-world|Hellenism]]
+  at the edge of the world).
 - **The Greco-Bactrian kingdom** ([[greco-bactrian-kingdom]], c. 250–130 BCE) — the
   Seleucid satrap **Diodotus** broke away c. 250 BCE; under **Demetrius I** the
   kingdom expanded over Sogdiana and into northwest India (the later "Indo-Greek"
   kingdoms), minting some of antiquity's finest coinage and fusing Greek and Indian
-  art and religion.
+  art and religion. CAH VII.1 (Musti, ch. 6) stresses that, unlike
+  [[parthian-empire|Parthia]] — where incoming nomads displaced the settled population —
+  Bactria's Greek and Iranian populations **persisted side by side**, which is why it
+  long "remained an outpost of hellenism"; [[antiochus-iii-the-great|Antiochus III]]
+  could win only the formal submission of its king Euthydemus on his *anabasis*.
 - **Kushan and after** — nomadic [[yuezhi]] (fleeing the [[xiongnu]]) overran Bactria
   in the 2nd c. BCE and built the [[kushan-empire|Kushan Empire]]; later the
   [[sasanian-empire|Sasanians]] (Kushano-Sasanians), the [[white-huns|Hephthalites]],

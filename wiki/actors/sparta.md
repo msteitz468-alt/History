@@ -9,7 +9,7 @@ affiliated_with: [the Peloponnesian (Spartan) Alliance, Elis, Tegea, Corinth, la
 opposed_by: [the Messenians, Argos, the Arcadians, the Helots]
 key_events: [the First Messenian War (~740–710), the defeat at Hysiae (669), the Second Messenian War (~640–600), the alliance with Tegea, the defeat of Argos at Thyreatis (546)]
 key_processes: [helot serfdom, the militarization of society, the building of the Spartan Alliance, the [[spartan-hegemony]]]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, peloponnese]
 ---
@@ -174,6 +174,21 @@ overreached repeatedly — abandoning the Asian Greeks to Persia under the
 **Leuctra (371)**, after which the Theban liberation of **Messenia** dissolved the helot
 base on which three centuries of Spartan power had rested (see [[thebes-hegemony-371bce]]).
 
+## The Hellenistic crisis and the revolutionary kings (CAH VII.1)
+
+By the third century Sparta was a shadow of its former self. CAH VII.1 ch. 7 (Walbank)
+traces a **deep structural crisis**: wealth had concentrated in few hands (half the land,
+says Phylarchus, owned by women), and the number of full **Spartiates had collapsed to ~700**
+— too few to field an effective army. King **Areus I** tried to play the part of a
+Hellenistic monarch and bid for Peloponnesian hegemony (subsidised by Egypt) in the
+[[chremonidean-war-267|Chremonidean War]] (268–261), but was killed and the attempt failed.
+The crisis erupted in the **social revolution** of **[[agis-iv|Agis IV]]** (243–241), who
+sought to rebuild the citizen body through land-redistribution and debt-cancellation under
+the banner of a restored "Lycurgan" order — a programme that cost him his life and was
+postponed, to be revived and radicalised a decade later by **[[cleomenes-iii|Cleomenes III]]**
+(see ch. 12). These movements made Sparta the great exception to the propertied,
+status-quo order of the [[achaean-league|Achaean League]].
+
 ## Historiography
 
 Hammond reconstructs Archaic Sparta from **Tyrtaeus** (the contemporary war-poet), the
@@ -191,4 +206,5 @@ two-stage Rhetra/Rider remain debated.
 - Kings: [[cleomenes-i]] · Demaratus · Backed [[delphi|Delphi]]'s First Sacred War · foes of [[greek-tyranny|tyranny]] · allies [[lydia|Croesus]], [[saite-egypt|Amasis]]
 - Post-479: [[pausanias-regent]] · [[third-messenian-war-464bce]] · [[first-peloponnesian-war]] · [[thirty-years-peace-446bce]]
 - Fourth-century hegemony: [[spartan-hegemony]] · [[agesilaus-ii]] · [[lysander]] · [[cinadon-conspiracy-399bce]] · [[thebes-hegemony-371bce]]
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond) · [[boardman-cah-v4-1988]] (Ch. 6, Jeffery) · [[lewis-cah-v5-1992|CAH V]] (Chs. 5–6, Lewis) · [[lewis-cah-v6-1994|CAH VI]] (Ch. 2, Lewis)
+- Hellenistic crisis: [[agis-iv]] · [[cleomenes-iii]] · [[chremonidean-war-267]] · [[achaean-league]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond) · [[boardman-cah-v4-1988]] (Ch. 6, Jeffery) · [[lewis-cah-v5-1992|CAH V]] (Chs. 5–6, Lewis) · [[lewis-cah-v6-1994|CAH VI]] (Ch. 2, Lewis) · [[walbank-cah-v7-1-1984|CAH VII.1]] (Walbank, ch. 7)

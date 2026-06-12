@@ -5,7 +5,7 @@ date_range: "500–31 BCE"
 regions_covered: [mediterranean, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, north-africa, iberia, western-europe, south-asia, china, steppe]
 major_themes: ["Classical Greece and the polis at its height", "the Greco-Persian and Peloponnesian Wars", "Alexander and the Hellenistic world", "the rise of Rome", "the Mauryan Empire", "Qin unification and the early Han", "the first Silk Roads era", "Hellenistic science and cosmopolitanism", "mass chattel slavery"]
 collection_coverage: strong
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [period]
 ---
@@ -44,10 +44,14 @@ volume's regional case study), and the philosophical and artistic achievement
 **Alexander and the Hellenistic world.** [[alexander-the-great|Alexander of
 Macedon]] destroyed the Achaemenid Empire (Gaugamela, 331 BCE) and carried Greek
 culture to the Indus, enabling — indirectly — the rise of [[chandragupta-maurya|Chandragupta]]
-in India. His successors' kingdoms (Ptolemaic Egypt, Seleucid Asia, Antigonid
-Macedon, and the [[greco-bactrian-kingdom|Greco-Bactrian]] state) formed the
-[[hellenistic-world|Hellenistic]] ecumene — cosmopolitan, Greek-speaking,
-scientifically creative (Alexandria, Archimedes, Eratosthenes). See
+in India. His death without an heir (323) opened four decades of
+[[wars-of-the-diadochi-323|wars among his Successors]] (to [[battle-of-ipsus-301|Ipsus]],
+301, and beyond), which dissolved the empire into the rival kingdoms of the
+[[ptolemy-i-soter|Ptolemies]] in Egypt, the [[seleucus-i-nicator|Seleucids]] in Asia,
+and the [[antigonid-dynasty|Antigonids]] in Macedon — governed by a new, spear-won
+[[hellenistic-monarchy|kingship]]. Together with the [[greco-bactrian-kingdom|Greco-Bactrian]]
+state they formed the [[hellenistic-world|Hellenistic]] ecumene — cosmopolitan,
+Greek-speaking, scientifically creative (Alexandria, Archimedes, Eratosthenes). See
 [[hellenistic-world]].
 
 **The rise of Rome.** From the early Republic ([[roman-republic|trad. 509 BCE]])

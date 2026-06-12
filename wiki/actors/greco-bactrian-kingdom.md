@@ -1,0 +1,55 @@
+---
+title: The Greco-Bactrian Kingdom
+actor_type: state
+date_start: c. 250 BCE
+date_end: c. 130 BCE
+period: [Classical Antiquity]
+region: [central-asia, south-asia]
+affiliated_with: [the Graeco-Macedonian settlers of Bactria]
+opposed_by: [[[seleucid-empire]], the Saka/Yuezhi nomads]
+key_events: [secession from the Seleucids c. 250 BCE]
+key_processes: [[[hellenistic-world]], [[seleucid-colonization]]]
+sources_ingested: 1
+last_updated: 2026-06-11
+tags: [actor, state, classical-antiquity, central-asia]
+---
+
+## Overview
+
+The **Greco-Bactrian Kingdom** was the easternmost of the [[hellenistic-world|Hellenistic]]
+states — a Greek-ruled realm in **[[bactria|Bactria]]** (northern Afghanistan and
+Transoxiana) that broke away from the [[seleucid-empire|Seleucid Empire]] around 250 BCE
+and survived for over a century as "an outpost of hellenism" deep in Central Asia. CAH
+VII.1 ch. 6 (Musti) treats its origins as part of the secession of the Seleucid east.
+
+## Secession and Survival
+
+The Seleucid satrap **Diodotus** of Bactria rebelled in the last years of Antiochus II
+(c. 250), founding an independent Greek kingdom — in parallel with the
+[[parthian-empire|Parthian]] breakaway in Parthyene. Musti draws a key contrast: whereas
+in Parthyene the settled population was displaced by incoming nomads, **in Bactria the
+Greek population and the native Iranian population persisted side by side**, their
+different modes of settlement (Greeks in towns, Iranians in tribes) even fostering a
+precarious compromise. Bactria's enduring links to the Seleucid world ran along the
+ancient roads re-secured by Alexander, Antigonus, and Seleucus — which is why it
+"remained an outpost of hellenism" far longer than Gedrosia or Arachosia.
+
+When [[antiochus-iii-the-great|Antiochus III]] reached Bactria on his great *anabasis*
+(212–205), he could only secure the **formal recognition** of its king **Euthydemus**,
+confirming his title *basileus* and obtaining elephants and a marriage alliance — not a
+reconquest.
+
+## Significance
+
+- **Hellenism's farthest reach**: Greek-style cities (above all **[[ai-khanoum|Ai
+  Khanum]]**, with palace, theatre, and gymnasium), Greek inscriptions, and a remarkable
+  coinage of the Greek kings document a genuine Hellenistic urban culture on the Oxus —
+  see [[ai-khanoum]].
+- **The Indo-Greek kingdoms**: under **Demetrius I** and **Menander** the Greek kings
+  expanded south into the Indus valley and Gandhara (the "Indo-Greek" kingdoms), a bridge
+  between the Greek and Indian worlds (and of Greco-Buddhist art).
+- **End**: Bactria fell c. 130 BCE to nomadic invaders (the Saka, then the Yuezhi who
+  would found the [[kushan-empire|Kushan Empire]]); the Indo-Greek kingdoms lingered to
+  the turn of the era.
+
+See [[bactria]], [[seleucid-empire]], [[hellenistic-world]].

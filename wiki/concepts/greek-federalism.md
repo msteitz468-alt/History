@@ -8,7 +8,7 @@ origin: >
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [central-greece, peloponnese, north-greece, mediterranean]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -57,6 +57,30 @@ succession and capital trials. This is the structure that, under **Philip** and
 **Alexander**, would overwhelm the city-states. **[[dionysius-i|Dionysius I]]'s** Syracuse
 was the other great monarchical alternative (see [[western-greek-tyranny]]).
 
+## The Hellenistic fulfilment: the great federal leagues
+
+If the fourth century only pointed toward federation, the **Hellenistic age realised it**.
+CAH VII.1 ch. 7 (Walbank) describes the two *koina* that became the most successful federal
+states in Greek history — the [[aetolian-league|Aetolian League]] of central Greece and the
+[[achaean-league|Achaean League]] of the Peloponnese. Both show the mature federal form: a
+**primary assembly** of all citizens of military age, a **representative council**
+proportioned to military contribution, an annually elected **single general (*strategos*)**,
+and small standing committees (the Aetolian *apokletoi*, the Achaean *synarchiai*) for
+day-to-day decisions. Common citizenship, weights, and (eventually) coinage bound member
+cities that nonetheless kept their own laws.
+
+These leagues were the chief **native counterweight to [[antigonid-dynasty|Antigonid
+Macedon]]** in the third century — proof that federation could turn even a poor,
+semi-tribal people (Aetolia) into a great power, and could unite a fragmented region
+(Achaea under [[aratus-of-sicyon|Aratus]]) into a state able to take the Acrocorinth from a
+king. Yet they also display federalism's limits: the large assemblies were ill-suited to
+quick action (driving power toward oligarchic committees), the leagues warred bitterly with
+each other, and the Achaean League's defence of the propertied order set it against the
+social revolution of [[cleomenes-iii|Cleomenes III]] — leading [[aratus-of-sicyon|Aratus]]
+to call Macedon back into Greece (224). [[polybius|Polybius]], himself an Achaean
+statesman, made the league the model of "genuine democracy" — and the unit through which he
+hoped Greeks might face Rome.
+
 ## The "failure" of the polis?
 
 The analytical core is whether the polis **failed**. Its strength — intense citizen
@@ -71,4 +95,5 @@ monarchy** — and ultimately to Macedon.
 
 - Frame: [[city-state]] · monarchical alternatives: [[philip-ii-of-macedon|Macedon]] · [[dionysius-i]] · [[western-greek-tyranny]]
 - Federal cases: [[thebes-hegemony-371bce]] (Boeotia) · Arcadian League / Megalopolis ([[liberation-of-messenia-369bce]], [[battle-of-mantinea-362bce]])
-- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 11, Rhodes)
+- Hellenistic leagues: [[achaean-league]] · [[aetolian-league]] · [[aratus-of-sicyon]]
+- Sources: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 11, Rhodes) · [[walbank-cah-v7-1-1984|CAH VII.1]] (Walbank, ch. 7)

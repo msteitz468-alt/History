@@ -9,7 +9,7 @@ affiliated_with: [[[philip-ii-of-macedon|Philip II]] (hegemon), [[alexander-the-
 opposed_by: [[[sparta]] (refused to join), anti-Macedonian factions]
 key_events: [the congress at Corinth 337 BCE, the declaration of war on Persia, the succession of Alexander as hegemon 336 BCE]
 key_processes: [Macedonian hegemony over Greece, the Common Peace tradition]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, organization, classical-antiquity, central-greece]
 ---
@@ -63,8 +63,24 @@ mainland during his Asian campaigns, and the device by which his Persian war was
 the name of the Greeks." Its collapse after Alexander's death (the **Lamian War**, 323–322)
 confirmed that Greek freedom, in any meaningful sense, had ended at Chaeronea.
 
+## The Antigonid refounding (302)
+
+The "Hellenic League" name and form were revived once more. [[walbank-cah-v7-1-1984|CAH
+VII.1]] (Will, ch. 2) records that in **302**, during the [[wars-of-the-diadochi-323|war
+of the Successors]], [[antigonus-i-monophthalmus|Antigonus I]] and
+[[demetrius-i-poliorcetes|Demetrius Poliorcetes]] **refounded the League of Corinth** —
+known from the partly-preserved foundation treaty found at Epidaurus (the officer
+**Adeimantus of Lampsacus** served as one of its *proedroi*). Will stresses the reversed
+emphasis from Philip's league of 338: where Philip's had been primarily a "common peace"
+with the alliance secondary, the league of 302 was **above all a war-instrument against
+[[cassander]]** and the Macedonian throne, with the common peace a distant goal. An
+Antigonid garrison held the Acrocorinth for sixty years. The earlier "freedom of the
+Greeks" propaganda of Antigonus (the Tyre manifesto of 315) belongs to the same
+tradition of using Greek liberty as a weapon among the kings.
+
 ## Related
 
 - Hegemon: [[philip-ii-of-macedon]] → [[alexander-the-great]] · refused: [[sparta]] · model: [[kings-peace-386bce]]
+- Hellenistic afterlife: refounded 302 by [[antigonus-i-monophthalmus]] & [[demetrius-i-poliorcetes]] · collapse: [[lamian-war-323]]
 - Origin: [[battle-of-chaeronea-338bce]] · purpose: war on [[achaemenid-empire|Persia]] · context: [[city-state]] · [[greek-federalism]]
-- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 15, Ellis)
+- Sources: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 15, Ellis) · [[walbank-cah-v7-1-1984|CAH VII.1]] (Will, ch. 2; the 302 refounding)

@@ -9,7 +9,7 @@ affiliated_with: [the Eupatrid aristocracy, the Alcmaeonid clan, at times Eretri
 opposed_by: [Megara (over Salamis), Mytilene (over Sigeum), Aegina]
 key_events: [the unification of Attica, Cylon's attempted coup (~636), Dracon's law-code (621), the war for Salamis, the reforms of Solon (594), the tyranny of Pisistratus]
 key_processes: [synoikism, the dismantling of monarchy, the codification of law, the broadening of political participation]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, central-greece]
 ---
@@ -101,6 +101,22 @@ Athens thus became the **maritime counterweight** in the multipolar world of Spa
 Thebes and Persia — though its own backsliding toward empire would provoke the Social War
 (357–355).
 
+## The end of independence (CAH VII.1)
+
+Athens' history as a free agent closed at the opening of the Hellenistic age.
+[[walbank-cah-v7-1-1984|CAH VII.1]] (Will, ch. 2) records how, on the news of
+[[alexander-the-great|Alexander's]] death, Athens led the Greek revolt of the
+**[[lamian-war-323|Lamian War]]** (323–322) — and lost. Her fleet was annihilated at
+[[battle-of-amorgos|Amorgos]] (the battle that, for Will, ends Athenian sea-power as
+Salamis had begun it); [[antipater]] abolished the **democracy**, imposed a
+property-franchise oligarchy and a Macedonian garrison in the Piraeus, and
+[[demosthenes]] took his own life. For a decade (317–307) the city was governed under
+[[cassander]] by the philosopher-statesman [[demetrius-of-phalerum|Demetrius of
+Phalerum]]. In 307 [[demetrius-i-poliorcetes|Demetrius Poliorcetes]] "liberated" Athens
+and was showered with extravagant divine honours — a notorious early instance of
+[[ruler-cult]] — restoring a democracy now under Antigonid patronage. Henceforth Athens
+was a cultural capital and a pawn among the kings, no longer an independent power.
+
 ## Why Archaic Athens mattered
 
 - The making of a **uniquely unified large polis** — and of the constitutional framework
@@ -116,4 +132,5 @@ Thebes and Persia — though its own backsliding toward empire would provoke the
 - Wars: Megara (Salamis) · Mytilene (Sigeum) · Aegina · oracle: [[delphi]] (Sacred War, Amphictyony)
 - Compare: [[sparta]] · [[corinth]] · [[greek-tyranny]] (which Athens resisted under Cylon)
 - Fourth century: [[conon]] · [[corinthian-war-395bce]] · [[second-athenian-confederacy]] · [[kings-peace-386bce]]
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Chs. 43–44, Andrewes) · [[boardman-cah-v4-1988]] (Chs. 4–5, Lewis & Ostwald) · [[lewis-cah-v6-1994|CAH VI]] (Chs. 4, 6, Seager)
+- Hellenistic end: [[lamian-war-323]] · [[demetrius-of-phalerum]] · [[demetrius-i-poliorcetes]] · [[ruler-cult]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Chs. 43–44, Andrewes) · [[boardman-cah-v4-1988]] (Chs. 4–5, Lewis & Ostwald) · [[lewis-cah-v6-1994|CAH VI]] (Chs. 4, 6, Seager) · [[walbank-cah-v7-1-1984|CAH VII.1]] (Will, ch. 2)

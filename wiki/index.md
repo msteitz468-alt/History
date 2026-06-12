@@ -1,6 +1,6 @@
 # World History Wiki — Master Catalog
 
-Last updated: 2026-06-11 (CAH Vol. VI complete — The Fourth Century B.C.; 41 pages created, 16 pre-existing pages updated, across the Large-Volume Protocol's 8 section cycles. Built out the Greek fourth century from the fall of Athens (404) to the death of Alexander (323): the Spartan hegemony and its collapse (Lysander, Agesilaus, the Corinthian War, the King's Peace), the resurgence of Athens (Conon, the Second Athenian Confederacy), the Theban hegemony (Epaminondas, Pelopidas, Leuctra, the liberation of Messenia, Mantinea), the Achaemenid empire and its regional surveys (the satrapy, Mausolus, Evagoras of Cyprus, Persian-period Judah and the Samaritan schism, native Egypt), the West and North (Dionysius I's Syracuse, Magonid Carthage, the Celts, Odrysian Thrace, the Bosporan grain-kingdom), the alternatives to the polis (federalism, the schools of Plato and Aristotle, fourth-century warfare and art), and the rise of Macedon (Dion & Timoleon in Sicily, Philip II, Chaeronea, the League of Corinth, and Alexander at Gaugamela). Completes the second edition of the Greek CAH; the direct continuation of CAH V, handing forward to the Hellenistic world of CAH VII.)
+Last updated: 2026-06-11 (CAH Vol. VII.1 complete — The Hellenistic World; 64 pages created, 9 pre-existing pages updated, across the Large-Volume Protocol's 8 section cycles. Built out the Hellenistic age from the death of Alexander at Babylon (323) to the Peace of Naupactus and Raphia (217 — Polybius' symploke): the wars of the Diadochi (Perdiccas, Antipater, Antigonus Monophthalmus, Eumenes, Ptolemy, Seleucus, Lysimachus, Cassander, Demetrius Poliorcetes; Ipsus, Corupedium) and the birth of the three-dynasty system; the new institution of Hellenistic monarchy (spear-won kingship, the Friends, ruler-cult) analysed by Walbank; Ptolemaic Egypt revised (Turner — the cleruchy, the royal economy, "Philadelphus bankrupted Egypt"); the Seleucid kingdom (Musti — the multi-ethnic military monarchy, colonisation, the secession of Bactria & Parthia); Antigonid Macedon and the Greek federal leagues (Gonatas, the Aetolian & Achaean Leagues, Aratus, Agis IV & Cleomenes III, the Chremonidean and Cleomenean and Social Wars, Sellasia); the plural Hellenistic society and the transformed polis (Davies); Hellenistic science (Lloyd — Euclid, Archimedes, Aristarchus, Eratosthenes, Herophilus); Agathocles' Sicily; the Syrian Wars and the new kingdoms of Asia Minor (Pergamum, Rhodes, the Galatians). The foundational Hellenistic volume; the direct continuation of CAH VI, handing forward to the rise of Rome in CAH VII.2 and VIII.)
 
 This index lists every page in the wiki. Update after every ingest session.
 Entries are grouped by directory. Within each group, pages are listed in
@@ -208,12 +208,13 @@ creation order with a one-line description.
 | `boardman-cah-v4-1988.md` | The Cambridge Ancient History, Volume IV: Persia, Greece and the Western Mediterranean, c. 525 to 479 B.C. (2nd ed.) | 1988 | reference |
 | `lewis-cah-v5-1992.md` | The Cambridge Ancient History, Volume V: The Fifth Century B.C. (2nd ed.) | 1992 | reference |
 | `lewis-cah-v6-1994.md` | The Cambridge Ancient History, Volume VI: The Fourth Century B.C. (2nd ed.) | 1994 | reference |
+| `walbank-cah-v7-1-1984.md` | The Cambridge Ancient History, Volume VII, Part 1: The Hellenistic World (2nd ed.) | 1984 | reference |
 
 ---
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **CAH Vol. VI** ingest (recomputed by file
+Counts reflect actual files on disk as of the **CAH Vol. VII.1** ingest (recomputed by file
 count; the detailed catalog tables above are maintained selectively and may lag — recent
 volumes' new and updated pages are catalogued in their source pages and `log.md` rather
 than relisted here).
@@ -221,14 +222,14 @@ than relisted here).
 | Category | Pages |
 |---|---|
 | Periods | 24 |
-| Events | 73 |
-| Processes | 77 |
-| Actors | 204 |
-| Places | 79 |
-| Concepts | 104 |
+| Events | 85 |
+| Processes | 79 |
+| Actors | 239 |
+| Places | 82 |
+| Concepts | 114 |
 | Comparisons | 0 |
-| Controversies | 27 |
+| Controversies | 29 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 17 |
-| **Total** | **605** |
+| Sources | 18 |
+| **Total** | **670** |

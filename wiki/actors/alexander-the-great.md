@@ -8,8 +8,8 @@ region: [balkans, anatolia, levant, mesopotamia, iran-plateau, central-asia, sou
 affiliated_with: [[[philip-ii-of-macedon|Philip II]], Macedon, the Argead dynasty, the [[league-of-corinth|League of Corinth]]]
 opposed_by: [[[achaemenid-empire|Achaemenid Persia]] (Darius III), Porus, Tyre, Greek city-states]
 key_events: [accession 336 BCE, conquest of the Achaemenid Empire 334-330 BCE ([[battle-of-gaugamela-331bce|Gaugamela]]), founding of Alexandria 331 BCE, Indian campaign 327-325 BCE, death at Babylon 323 BCE]
-key_processes: [[[empire]], Hellenization, [[trade-network-formation]], [[silk-roads]]]
-sources_ingested: 2
+key_processes: [[[empire]], Hellenization, [[trade-network-formation]], [[silk-roads]], [[hellenistic-world]]]
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, mediterranean, near-east]
 ---
@@ -41,10 +41,17 @@ BCE**, aged 32, his empire undivided in name only.
 
 ## The Wars of the Successors
 
-Alexander left no viable heir, and his generals (the **Diadochi**) carved the empire
-into the great **[[hellenistic-world|Hellenistic]] kingdoms** — the **Ptolemies** in
-Egypt, the **Seleucids** across Asia, the **Antigonids** in Macedon — whose Greco-Near
-Eastern courts, cities, and trade routes defined the next three centuries.
+Alexander left no viable heir — only a retarded half-brother (Philip III Arrhidaeus)
+and an unborn son (Alexander IV) — and his generals (the **Diadochi**) fought four
+decades of [[wars-of-the-diadochi-323|wars of succession]] (323–281) that carved the
+empire into the great **[[hellenistic-world|Hellenistic]] kingdoms**: the
+[[ptolemy-i-soter|Ptolemies]] in Egypt, the [[seleucus-i-nicator|Seleucids]] across
+Asia, the [[antigonid-dynasty|Antigonids]] in Macedon. The decisive turning points were
+the death of [[antigonus-i-monophthalmus|Antigonus I]] — the last to pursue
+reunification — at [[battle-of-ipsus-301|Ipsus]] (301), and the murder of the boy
+Alexander IV (c. 310), which **extinguished the Argead dynasty** and made spear-won
+[[hellenistic-monarchy|kingship]] the basis of legitimacy. [[walbank-cah-v7-1-1984|CAH
+VII.1]] gives the detailed narrative (Édouard Will, chs. 2 & 4).
 
 ## Significance
 
@@ -109,4 +116,5 @@ India — itself a marker of the connected world he helped create.
 - Father/architect: [[philip-ii-of-macedon]] · hegemony: [[league-of-corinth]] · teacher: [[aristotle]]
 - Enemy: [[achaemenid-empire]] (Darius III) · decisive battle: [[battle-of-gaugamela-331bce]]
 - Fourth-century precursors: [[dionysius-i]] · [[mausolus]] · [[bosporan-kingdom]] · panhellenist root: [[march-of-the-ten-thousand-401bce]]
-- Sequel: [[hellenistic-world]] · Sources: [[benjamin-cwh-v4-2015|CWH IV]] · [[lewis-cah-v6-1994|CAH VI]] (Chs. 16–18, Bosworth & Hornblower)
+- Sequel: [[hellenistic-world]] · [[wars-of-the-diadochi-323]] · [[battle-of-ipsus-301]]
+- Sources: [[benjamin-cwh-v4-2015|CWH IV]] · [[lewis-cah-v6-1994|CAH VI]] (Chs. 16–18, Bosworth & Hornblower) · [[walbank-cah-v7-1-1984|CAH VII.1]] (the Successors)
