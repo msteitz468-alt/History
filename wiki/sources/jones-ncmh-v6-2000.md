@@ -14,8 +14,8 @@ reliability_notes: >
   or stripped, and map plates are garbage. Navigate by chapter-title headings (all-caps in the
   OCR) and running footers, as done for Vols 1–5. Editor: Michael Jones (Nottingham). Replaces the
   old CMH Vol. VII, "Decline of the Empire and Papacy."
-pages_created: 18
-pages_updated: 20
+pages_created: 20
+pages_updated: 21
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -117,7 +117,68 @@ follow c. line 38500. These are not read as content.
   Great), and `actors/rus-principalities.md` (the rise of Moscow & Lithuania, Kulikovo 1380).
   Captured Rowell on Baltic Europe, Michaud on the central European kingdoms, and Kollmann on the
   Rus′. (Pages created: 2 | Pages updated: 3.)
+- **2026-06-12 — Cycle 8 (Part IV, "Byzantium, the Aegean & the Ottomans").** Created
+  `actors/ottoman-empire.md` and `events/battle-of-kosovo-1389.md`. Updated `actors/byzantine-empire.md`
+  (the fourteenth-century Palaiologan decline, civil wars, Hesychasm, Ottoman encirclement). Captured
+  Laiou on fourteenth-century Byzantium, the chapters on the Aegean/Balkan Latins, Kunt on the rise
+  of the Ottomans (the gazi debate, the Balkan conquest, Ankara 1402), and the eastern-Mediterranean
+  chapter. (Pages created: 2 | Pages updated: 1.)
 
 ## Volume Synthesis Note
 
-(Written after all eight cycles are processed — Step 3 of the Large-Volume Protocol.)
+Michael Jones's **NCMH Vol. 6** anatomises the **"apocalyptic" fourteenth century** (c. 1300–c.
+1415) — "this shipwreck of a century" (Filippo Villani) — but refuses to reduce it to mere decline.
+Four arguments run across the volume and now structure the wiki's late-medieval backbone.
+
+**First, the great reversal.** The century ended "three centuries of economic growth and cultural
+expansion." The [[medieval-agricultural-revolution|high-medieval boom]] hit its demographic ceiling
+c. 1300; the **Great Famine (1315–1322)** and then the **[[black-death|Black Death]] (1347–1351)**
+and its recurrences produced the **[[late-medieval-crisis|late-medieval crisis]]** — population
+collapse, agrarian depression, the contraction of [[urbanization|towns]] and
+[[commercial-revolution|trade]], and a Europe-wide wave of revolt (the
+[[peasants-revolt-1381|English Rising]], the Jacquerie, the Ciompi). Yet the same labour scarcity
+**raised wages and dissolved western serfdom**, even as the "second serfdom" tightened in the east —
+the social transformation that is the century's deepest legacy.
+
+**Second, the consolidation (and divergence) of states amid war.** The volume's political spine is
+the **[[hundred-years-war-1337|Hundred Years War]]** and its like, which drove the war-finance that
+matured **[[english-parliament|parliament]]** in England, the **[[valois-dynasty|Valois]]** state in
+France, and representative estates across Europe — even as the theory of the
+**[[late-medieval-political-thought|sovereign territorial state]]** (Bartolus, Marsilius, Ockham:
+*rex in regno suo imperator est*) displaced the universal claims of empire and papacy. The
+trajectories **diverged**: centralising national monarchies in the west; an **elective, federal
+[[holy-roman-empire-late-medieval|Empire]]** fixed by the Golden Bull of 1356; and the
+[[signoria|signorial]] and republican [[florence|city-states]] of Italy. Deposition (Edward II,
+[[richard-ii-of-england|Richard II]]) and madness (Charles VI) showed how much still hung on the
+person of the king.
+
+**Third, the crisis of the universal Church.** The **[[papacy|Avignon papacy]]** pushed papal
+monarchy and "fiscalism" to their height, then the **[[great-schism-1378|Great Schism]] (1378–1417)**
+split Christendom into rival obediences, discrediting the papal-monarchy ideology and provoking
+**[[conciliarism|conciliarism]]** — the Church's experiment in representative government, which
+healed the schism at Constance. Alongside ran the turn to lay, vernacular, and mystical religion
+([[late-medieval-lay-religion]]) and the heterodox currents (Wyclif, Hus) that fed toward the
+Reformation.
+
+**Fourth, the wider horizon — the east, the north, and the new powers.** Against the old CMH's
+western focus, this volume integrates **eastern and northern Europe and the eastern Mediterranean**.
+It captures the **apogee of the [[central-european-kingdoms|central European kingdoms]]** (Charles
+IV, Casimir the Great, Louis the Great), the rise of the **[[grand-duchy-of-lithuania|Grand Duchy of
+Lithuania]]** and the Polish–Lithuanian union, the [[hanseatic-league|Hanseatic]] and
+[[teutonic-knights|Teutonic]] Baltic, the partition of the [[rus-principalities|Rus′]] between
+Lithuania and rising **Moscow**, the terminal decline of **[[byzantine-empire|Byzantium]]**, and —
+the century's great new fact — the **rise of the [[ottoman-empire|Ottomans]]**, who conquered the
+Balkans ([[battle-of-kosovo-1389|Kosovo]] 1389) and encircled Constantinople before Timur's blow at
+Ankara (1402) briefly checked them.
+
+**Cross-volume continuity.** NCMH VI hands forward directly from
+[[abulafia-ncmh-v5-2000|NCMH V]]: it carries the [[capetian-dynasty|French]],
+[[edward-i-plantagenet|English]], [[crown-of-aragon|Aragonese]], [[kingdom-of-sicily|Italian]],
+[[byzantine-empire|Byzantine]] and [[reconquista|Iberian]] stories from the thirteenth century into
+the fourteenth, and culminates the [[commercial-revolution|commercial]], [[urbanization|urban]],
+[[chivalry|chivalric]], [[gothic-architecture|artistic]] and [[medieval-university|intellectual]]
+themes. It ends on the threshold of the fifteenth century — Agincourt (1415), the Council of
+Constance, the Ottoman recovery — that **NCMH VII** (Allmand, c. 1415–c. 1500) will take up. A
+**flagged thin area**: the Scandinavian kingdoms and the late-medieval Balkan states (the Catalan
+Company, the Aegean Latins, Serbia and Bulgaria before the Ottoman conquest) were treated only
+lightly in this ingest, and remain candidates for future work.

@@ -9,7 +9,7 @@ affiliated_with: [the Eastern Roman state, the Orthodox Church]
 opposed_by: [[[sasanian-empire|Sasanian Persia]], the [[caliphate|Caliphate]], Avars, Bulgars, Slavs, the Seljuk and Ottoman Turks]
 key_events: [reign of Justinian 527-565 CE, Arab conquests 630s-640s CE, survival of the Eastern Roman state, Fourth Crusade sack of Constantinople 1204, Ottoman conquest 1453]
 key_processes: [[[empire]], [[christianity|Orthodox Christianity]], [[silk-roads]], Roman legal codification]
-sources_ingested: 6
+sources_ingested: 7
 last_updated: 2026-06-12
 tags: [actor, empire, late-antiquity, early-middle-ages, high-middle-ages, anatolia, mediterranean]
 ---
@@ -128,6 +128,23 @@ alienated (soon lost to the Turks, including the nascent **Ottomans**), and Mich
 unpopular **Union of Lyons (1274)** — a desperate hedge against [[charles-of-anjou|Charles of
 Anjou]], saved only by the [[sicilian-vespers-1282|Sicilian Vespers]] — left a legacy of
 "schism, poverty and rapid decline."
+
+## The Fourteenth-Century Palaiologan Decline (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (Angeliki Laiou, Ch. 20) traces the empire's "dissolution... and the
+conquest of its territory" through the fourteenth century. Paradoxically the period combined
+**cultural and economic vitality** (the "Palaiologan renaissance," Hesychast spirituality) with the
+**collapse of the state**. The recovery of Constantinople (1261) had **displaced Byzantine attention
+from Asia to Europe**, leaving **Anatolia** — the empire's heartland and recruiting ground —
+fatally exposed; it was overrun by the Turkish *beyliks* and the rising
+**[[ottoman-empire|Ottomans]]**. Ruinous **civil wars** (the Andronikos II–III struggle; then the
+war of **John VI Kantakouzenos** and the regency of John V, 1341–1347) shattered what remained,
+each side hiring Turkish and Serbian mercenaries who stayed to conquer. The empire became a
+**tributary** of the Ottomans, reduced to Constantinople, Thessalonica and the Morea; the
+**Hesychast controversy** (Gregory Palamas vs Barlaam) and renewed union negotiations divided it
+further. By 1400 Byzantium was an Ottoman vassal awaiting the conquest of 1453 — its survival into
+the fifteenth century, in Laiou's account, a matter of diplomacy, Ottoman distraction (Timur), and
+good luck more than strength.
 
 ## Significance
 

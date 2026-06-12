@@ -1652,3 +1652,7 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | NCMH VI — c. 1300–c. 1415 (Jones ed., 2000) | Section: Cycle 6 — Part III "The Church" (the Avignon papacy; the Great Schism) | Pages created: 2 | Pages updated: 1
 
 ## 2026-06-12 section | NCMH VI — c. 1300–c. 1415 (Jones ed., 2000) | Section: Cycle 7 — Part IV "Eastern & Northern Europe" (Baltic Europe; the kingdoms of central Europe; the principalities of Rus′) | Pages created: 2 | Pages updated: 3
+
+## 2026-06-12 section | NCMH VI — c. 1300–c. 1415 (Jones ed., 2000) | Section: Cycle 8 — Part IV "Byzantium, the Aegean & the Ottomans" (the Byzantine empire; Latins in the Aegean & Balkans; the rise of the Ottomans; Christians & Muslims in the eastern Mediterranean) | Pages created: 2 | Pages updated: 1
+
+## 2026-06-12 ingest-complete | NCMH Vol. 6 — c. 1300–c. 1415 (Michael Jones ed., 2000) | Total pages created: 20 | Total pages updated: 21 | Sections processed: 8
