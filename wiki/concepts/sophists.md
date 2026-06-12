@@ -8,7 +8,7 @@ origin: >
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [central-greece, aegean]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -97,4 +97,6 @@ Protagoras') means sifting fact from Platonic prejudice. The reputations of "sop
 - Ideas: *nomos–physis* · [[classical-greek-art|relativism vs. Pythagorean idealism]] ·
   [[panhellenic-games|Hippias' Olympic-victor chronology]]
 - Setting: [[athens-fifth-century]] · [[athenian-democracy]] · [[presocratics]]
-- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 8h, Ostwald)
+- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 8h, Ostwald); the sophists within the wider theme of
+  intellectuals and political power are treated in **[[vatai-intellectuals-in-politics|Vatai,
+  *Intellectuals in Politics in the Greek World*]]**.

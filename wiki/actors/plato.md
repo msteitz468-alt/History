@@ -9,7 +9,7 @@ affiliated_with: [the Academy, Socrates (his teacher), Dion of Syracuse, the Pyt
 opposed_by: [Isocrates (rival educator), the sophists, the rhetorical tradition]
 key_events: [the death of Socrates 399 BCE, the founding of the Academy c. 387 BCE, the Sicilian visits to Dionysius I and II]
 key_processes: [the formation of the philosophical schools, the theory of Forms, the professionalization of higher education]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, aegean]
 ---
@@ -83,4 +83,7 @@ supremacy.
 - Teacher: Socrates · school: the Academy · successor: Speusippus · pupil: [[aristotle]]
 - Rival: Isocrates · context: [[fourth-century-greek-historiography]] · [[sophists]]
 - Sicily: [[dionysius-i]] · [[dionysius-ii]] · Dion ([[dion-of-syracuse]])
-- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 12a, Ostwald & Lynch)
+- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 12a, Ostwald & Lynch); his political ventures at
+  Syracuse, in the comparative frame of intellectuals-in-politics, are treated in
+  **[[vatai-intellectuals-in-politics|Vatai, *Intellectuals in Politics in the Greek World*]]** (the
+  failed philosopher vs. the successful sage-reformer Solon).

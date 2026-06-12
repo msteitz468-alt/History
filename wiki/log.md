@@ -13,6 +13,8 @@ Format:
 
 ## 2026-06-12 admin | Processing-List Phases 7 (ANE/Egypt depth) and 8 (Ancient China depth) skipped — every named volume absent from the collection. Proceeding to Phase 9 (Greece & Rome Depth).
 
+## 2026-06-12 ingest | Intellectuals in Politics in the Greek World (Frank Vatai, 1984) | Archaic Period, Classical Antiquity | aegean, sicily, mediterranean | Pages created: 1 | Pages updated: 2
+
 ## 2026-06-12 ingest | Dionysius I of Syracuse and Greek Tyranny (Lionel J. Sanders, 1987) | Classical Antiquity | sicily, mediterranean, north-africa | Pages created: 1 | Pages updated: 2
 
 ## 2026-06-12 ingest | Daily Life in the Hellenistic Age (James Allan Evans, 2008) | Classical Antiquity | aegean, near-east, north-africa | Pages created: 1 | Pages updated: 1
