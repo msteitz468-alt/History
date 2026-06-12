@@ -15,6 +15,8 @@ Format:
 
 ## 2026-06-12 admin | PIVOT to Outstanding Sources.md. Audit: ~50 of ~75 gap-filling sources now in collection (entire Modern leg, Africa, Americas, much of Asia). Still missing: Russia (Gap 8), several global primaries (Muqaddimah, Gilgamesh, Secret History of Mongols, Behistun, Hammurabi), most world-systems (Abu-Lughod, Crosby, Diamond, Harper). Working gaps in list order, starting Gap 1 (Modern).
 
+## 2026-06-12 ingest | Late Victorian Holocausts (Mike Davis, 2001) | Long 19th Century | south-asia, china, east-africa | Pages created: 2 | Pages updated: 1
+
 ## 2026-06-12 ingest | King Leopold's Ghost (Adam Hochschild, 1998) | Long 19th Century | central-africa, sub-saharan-africa | Pages created: 2 | Pages updated: 2
 
 ## 2026-06-12 ingest | Orientalism (Edward W. Said, 1978) | Long 19th Century, Contemporary | near-east, south-asia, western-europe | Pages created: 2 | Pages updated: 1
