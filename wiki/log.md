@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | Suetonius, Lives of the Caesars (trans./intro Edwards; OWC 2000) | Classical Antiquity, Late Antiquity | italy, mediterranean | Pages created: 2 | Pages updated: 1
+
 ## 2026-06-12 ingest | Livy, Rome's Mediterranean Empire (Ab Urbe Condita 41–45) and the Periochae (trans./intro Chaplin; OWC 2007) | Classical Antiquity | macedonia, balkans, aegean, mediterranean | Pages created: 1 | Pages updated: 2
 
 ## 2026-06-12 ingest | Livy, Hannibal's War (Ab Urbe Condita 21–30) (trans. Yardley; intro Hoyos; OWC 2006) | Classical Antiquity | italy, mediterranean, north-africa, iberia | Pages created: 1 | Pages updated: 2
