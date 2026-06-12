@@ -5,7 +5,7 @@ origin: Greek political theory (Plato, Aristotle, the Spartan tradition), given 
 applies_to_periods: [Classical Antiquity, Late Antiquity, Early Modern, Age of Expansion]
 applies_to_regions: [mediterranean, western-europe, north-america]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -59,8 +59,10 @@ courage (the famous account of the inspiring Roman aristocratic funeral, 6.53–
 
 ## Afterlife
 
-Book 6 gave the concept its long career in Western political thought: **Cicero** (*De re publica*),
-then — after the Renaissance recovery of Polybius — **Machiavelli** (*Discourses*), **Montesquieu**
+Book 6 gave the concept its long career in Western political thought: **[[cicero-republic-and-laws|
+Cicero]]** (*De re publica*, now ingested — Rome as the real-world embodiment of the balanced
+constitution and the *res publica* as a partnership in justice), then — after the Renaissance recovery
+of Polybius — **Machiavelli** (*Discourses*), **Montesquieu**
 (*The Spirit of the Laws*, and the separation of powers), and **John Adams** (*Defence of the
 Constitutions of… the United States*, 1787), making the mixed/balanced constitution "a central element
 in all modern discussion of the nature of republics" and a direct ancestor of the American system of

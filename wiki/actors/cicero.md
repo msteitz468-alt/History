@@ -9,7 +9,7 @@ affiliated_with: [the Senate (optimate sympathies); the *novi homines*; the eque
 opposed_by: [Catiline, Clodius, Mark Antony; the *populares* dynasts (ambivalently)]
 key_events: [the prosecution of Verres (70), the consulship of 63, the [[catilinarian-conspiracy-63bce]], exile and recall (58–57), the Philippics against Antony (44–43), proscription and death (43)]
 key_processes: [[[optimates-populares]], the collapse of the Republic]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, italy]
 ---
@@ -100,4 +100,6 @@ checked against Sallust and Asconius.
   Clodius
 - Concepts: [[optimates-populares]] · [[senatus-consultum-ultimum]] ·
   [[roman-republic]]
-- Source: [[crook-cah-v9-1992]] (Ch. 9, Wiseman)
+- Source: [[crook-cah-v9-1992]] (Ch. 9, Wiseman); his own works now ingested:
+  **[[cicero-republic-and-laws|*The Republic and The Laws*]]** (political philosophy — the
+  [[mixed-constitution|mixed constitution]] and [[natural-law|natural law]]).
