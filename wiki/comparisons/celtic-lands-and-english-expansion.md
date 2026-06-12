@@ -60,8 +60,34 @@ dynastic succession. It complements the volume's wider theme of **frontier socie
 Baltic, Iberia, the Slavonic east) interacting with consolidating cores — here, the British
 Isles as the western edge of that pattern.
 
+## The Fifteenth-Century Celtic World (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Art Cosgrove on Ireland, Jenny Wormald on Scotland, A.D. Carr on
+Wales, Chs. 22a–c) carries the comparison forward. The three lands' divergent trajectories persist:
+
+- **Ireland: contraction and the Pale.** The colonial settlement had shrunk to "a little corner" — the
+  **English Pale** (the term emerges by 1495) around Dublin — while the rest of the island reverted to
+  the autonomy of Gaelic Irish lords and "Gaelicised" Anglo-Irish magnates. English government,
+  starved of funds and preoccupied with France, increasingly **delegated rule to the great earls**
+  (Ormond, Desmond, and from 1478 the dominant **Kildare** Fitzgeralds). Anglo-Ireland's strong
+  **Yorkist sympathies** (Richard of York's lieutenancy; the crowning of the pretender Lambert Simnel
+  at Dublin, 1487) provoked Henry VII to send Sir Edward Poynings, whose **Poynings' Law (1494)**
+  subordinated the Irish parliament to the English crown.
+- **Wales: after Glyn Dŵr.** The revolt of **Owain Glyn Dŵr** (the "massive protest of a conquered
+  people," ending c. 1410–21) closed an era; the **racist penal statutes** of 1401–2 largely became a
+  dead letter as crown and marcher lords relied on the native gentry (*uchelwyr*) to govern. Henry VI's
+  weak rule let local potentates (Gruffydd ap Nicholas) dominate; Yorkist Edward IV's agent **William
+  Herbert** and later the **council at Ludlow** restored order. The Welsh-descended **[[tudor-dynasty|
+  Tudor]]** accession (1485) — not the Act of Union (1536) — is the symbolic Welsh turning point.
+- **Scotland: an independent kingdom.** Quite unlike conquered Wales or fragmented Ireland, the
+  **[[stewart-dynasty|Stewart kingdom]]** was a fully sovereign realm (Wormald), its distinctive
+  peripatetic kingship surviving recurrent minorities down to Flodden (1513). The British Isles thus
+  still showed Bartlett's threefold divergence — **conquest, division, and independence** — a century
+  on.
+
 ## Related
 
 - `part_of:` the expansion of the [[edward-i-plantagenet|Edwardian English state]] (the conquest of Wales, the Scottish wars).
+- `concurrent_with:` the [[wars-of-the-roses-1455|Wars of the Roses]] (which drew in Anglo-Ireland and Wales) and the [[tudor-dynasty|Tudor settlement]] (Poynings' Law).
 - `analogous_to:` the frontier conquests of the [[teutonic-knights|Baltic]] and [[reconquista|Iberia]] — consolidating powers against peripheral societies.
 - `contrasts_with:` the divergent fates of Wales (conquest), Scotland (independence) and Ireland (division).

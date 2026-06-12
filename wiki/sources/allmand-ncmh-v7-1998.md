@@ -100,6 +100,14 @@ the Conclusion (from c. line 36417) follow. The bibliography and tables are not 
   und Reich, Sigismund→Maximilian, the 1495 reform), `events/hundred-years-war-1337.md` (the final
   phase 1420–1453), and `actors/valois-dynasty.md` (the recovery and the new monarchy).
   (Pages created: 6 | Pages updated: 3.)
+- **2026-06-12 — Cycle 6 (Part IV, "England & the Celtic World").** Created
+  `events/wars-of-the-roses-1455.md` (Powell & Horrox: Lancaster vs. York vs. Tudor, Towton→Bosworth),
+  `actors/henry-v-of-england.md` (Agincourt, Troyes, the dual monarchy), `actors/tudor-dynasty.md`
+  (Horrox: Henry VII as consolidator, not institution-builder), and `actors/stewart-dynasty.md`
+  (Wormald: peripatetic Stewart kingship, James I–IV, Flodden 1513). Updated
+  `comparisons/celtic-lands-and-english-expansion.md` (the fifteenth-century Pale, post-Glyn Dŵr
+  Wales, Poynings' Law; Ireland/Scotland/Wales) and `concepts/new-monarchy.md` (the English case).
+  (Pages created: 4 | Pages updated: 2.)
 
 ## Volume Synthesis Note
 

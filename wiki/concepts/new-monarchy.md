@@ -56,8 +56,24 @@ convergence: by 1500 the strongest European realms were more centralised, better
 militarily formidable than their fourteenth-century predecessors — the platform for the
 early-modern sovereign state and for overseas expansion.
 
+## The English Case (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Rosemary Horrox, Ch. 21b) supplies a sceptical view of the English
+"new monarchy." **Edward IV** rebuilt royal authority less through institutions than through
+**personal monarchy**: the manipulation of land and patronage to create and destroy regional power
+bases, and **chamber finance** (crown revenues paid directly to the chamber for the king's immediate
+use), which let him die solvent. **[[tudor-dynasty|Henry VII]]** *formalised* this Yorkist practice
+(more defined chamber administration, prerogative revenue, bonds and recognisances) but, Horrox
+insists, **introduced little that was structurally new** and waged no campaign against an "over-mighty"
+nobility — "adjusting means, not redefining ends." Because these achievements rested on the king's
+person, they were "vulnerable to change" (Henry VIII spent the reserves). The English experience thus
+**qualifies the strong "new monarchy" thesis**: the post-civil-war strengthening of the crown owed
+more to the political community's renewed appetite for effective royal authority than to bureaucratic
+state-building — paralleling the contemporary recovery of [[valois-dynasty|Valois France]].
+
 ## Related
 
 - `followed:` the [[late-medieval-crisis|fourteenth-century crisis]] and the wars it bred; built on earlier [[state-formation|state formation]] and [[late-medieval-political-thought|the sovereign-state idea]].
 - `part_of:` the fifteenth-century recovery; exemplified by [[valois-dynasty|France]], the early Tudors, and the Catholic Monarchs of Spain.
+- `exemplified_by:` the [[tudor-dynasty|early Tudors]] and [[louis-xi-of-france|Louis XI]]; the [[wars-of-the-roses-1455|Wars of the Roses]] as the English crucible.
 - `contrasts_with:` the federal [[holy-roman-empire-late-medieval|Empire]] and the Italian city-states.
