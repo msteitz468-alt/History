@@ -1420,3 +1420,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | CAH XI — The High Empire AD 70–192 | Section: Trade (Ch 24, Harris) | Pages created: 1 | Pages updated: 0
 
 ## 2026-06-12 section | CAH XI — The High Empire AD 70–192 | Section: Industry and Technology (Ch 25, Greene) | Pages created: 1 | Pages updated: 0
+
+## 2026-06-12 section | CAH XI — The High Empire AD 70–192 | Section: Commerce and Finance (Ch 26, Andreau) | Pages created: 1 | Pages updated: 0
