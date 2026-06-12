@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the disputed Numidian succession, Jugurtha's killing of Adherbal and the Italians at Cirta, Roman concern for the province of Africa and senatorial honour]
 consequences: [the rise of Marius, the political crisis over senatorial corruption, the Mamilian court, the betrayal of Jugurtha]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [event, classical-antiquity, north-africa, war]
 ---
@@ -74,4 +74,5 @@ of the manipular system).
 - Actors: [[marius]] · Jugurtha · Metellus · Bocchus · Sulla · process:
   [[marian-army-reforms]]
 - Politics: [[optimates-populares]] · the Mamilian court · source:
-  [[crook-cah-v9-1992]] (Chs 2–3, Lintott)
+  [[crook-cah-v9-1992]] (Chs 2–3, Lintott); the principal ancient narrative is now ingested as
+  **[[sallust-conspiracy-jugurtha-histories|Sallust's *Jugurthine War*]]**.

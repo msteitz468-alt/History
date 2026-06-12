@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: regional
 causes: [the debt crisis of the 60s (dispossessed peasants and bankrupt nobles), Catiline's electoral failures and ruin, the agrarian distress unrelieved after Rullus' bill failed]
 consequences: [the execution of five conspirators under the SCU, Cicero's elevation and later vulnerability, the defeat of Catiline at Pistoria, the deepening of political polarization]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [event, classical-antiquity, italy, political]
 ---
@@ -87,4 +87,6 @@ and the legality of the executions, remain debated.
   Caesar
 - Instrument: [[senatus-consultum-ultimum]] · context: the debt crisis · failed
   [[optimates-populares|popularis]] land reform (Rullus)
-- Source: [[crook-cah-v9-1992]] (Ch. 9, Wiseman)
+- Source: [[crook-cah-v9-1992]] (Ch. 9, Wiseman); the two great ancient sources are now ingested
+  directly — **[[sallust-conspiracy-jugurtha-histories|Sallust's *Catiline's Conspiracy*]]** and
+  **[[cicero-political-speeches|Cicero's Catilinarian speeches]]**.
