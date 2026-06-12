@@ -9,7 +9,7 @@ affiliated_with: [[[sparta]], [[lysander]], Critias, Theramenes]
 opposed_by: [Thrasybulus and the democratic exiles, the demos of Athens]
 key_events: [installation under Lysander 404 BCE, the reduction of the citizen body to 3,000, the execution of Theramenes, the democratic restoration of 403 BCE, the Amnesty]
 key_processes: [the [[spartan-hegemony]], oligarchic reaction at Athens]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, institution, classical-antiquity, aegean]
 ---
@@ -79,4 +79,6 @@ Alcibiades.
 - City: [[athens]] · imposed by: [[lysander]] · [[sparta]] · process: [[spartan-hegemony]]
 - Members/figures: Critias · Theramenes · overthrown by: Thrasybulus · victim sought: [[alcibiades]]
 - Restored system: [[athenian-democracy]] · repealed: [[ephialtes]]'s Areopagus laws
-- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 2, Lewis)
+- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 2, Lewis); a searing contemporary indictment is now
+  ingested — **[[lysias-oratory|Lysias]]'s *Against Eratosthenes*** (on the murder of his brother
+  Polemarchus and the seizure of metic property).
