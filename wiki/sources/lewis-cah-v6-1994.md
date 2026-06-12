@@ -57,7 +57,7 @@ the Large-Volume Protocol. The senior editor (Lewis) is shared with Vol. V, henc
 | 4 | mausolus, revolt-of-the-satraps-366bce, evagoras-of-salamis, judah, late-period-egypt (5) | cyprus, saite-egypt (2) |
 | 5 | dionysius-i, bosporan-kingdom, odrysian-kingdom, celts (4) | syracuse, carthage, thracians (3) |
 | 6 | plato, aristotle, greek-federalism, greek-warfare (4) | city-state, classical-greek-art (2) |
-| 7 | | |
+| 7 | philip-ii-of-macedon, battle-of-chaeronea-338bce, league-of-corinth, dionysius-ii, dion-of-syracuse, timoleon (6) | western-greek-tyranny (1) |
 | 8 | | |
 
 ## Volume Synthesis Note

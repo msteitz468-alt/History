@@ -1239,3 +1239,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-11 section | CAH Vol. VI | Section: Cycle 5 — Sicily 413–368 + Regional surveys II: West & North (Chs 5, 9a–9g: Dionysius I, Carthage, S. Italy, Celts, Illyrians, Thrace, Bosporus, communications) | Pages created: 4 | Pages updated: 3
 
 ## 2026-06-11 section | CAH Vol. VI | Section: Cycle 6 — Society & economy, the polis & alternatives, culture & science (Chs 10–12: federalism, Plato's Academy, Aristotle's Lyceum, art, warfare) | Pages created: 4 | Pages updated: 2
+
+## 2026-06-11 section | CAH Vol. VI | Section: Cycle 7 — Dion & Timoleon, Macedon & Philip's rise (Chs 13–15: Dion, Timoleon, Philip II, Chaeronea, League of Corinth) | Pages created: 6 | Pages updated: 1

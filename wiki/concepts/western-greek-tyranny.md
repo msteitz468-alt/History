@@ -8,7 +8,7 @@ origin: >
 applies_to_periods: [Archaic Period, Classical Antiquity]
 applies_to_regions: [italy, mediterranean]
 contested: yes
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -98,10 +98,26 @@ not a law (mainland tyranny was itself varied), and the very categories (*gamoro
 also cautions against reading **ethnic or "panhellenic" motives** into what were
 local, political and commercial conflicts.
 
+## The fourth-century apogee and end (CAH VI)
+
+[[lewis-cah-v6-1994|CAH Vol. VI]] (Chs. 5, 13, Lewis & Westlake) carries the phenomenon to
+its climax and its close. Under **[[dionysius-i|Dionysius I]]** (405–367) Sicilian tyranny
+reached its fullest development — a **territorial monarchy** over eastern Sicily, held by a
+professional mercenary army and the catapult, which "**prefigures the Hellenistic period**"
+and is the clearest Greek answer to the political dilemma of the [[city-state|polis]]. But
+his weak son **[[dionysius-ii|Dionysius II]]** let it dissolve into a generation of
+mercenary warlords, and the two great responses both came from outside the Deinomenid mould:
+the failed **philosopher-king** experiment of **[[dion-of-syracuse|Dion]]** and **[[plato]]**,
+and the republican refoundation of **[[timoleon]]**, who **abolished the tyrannies**
+altogether (344–337) and restored civic government to Greek Sicily. Western Greek tyranny
+thus spans the whole arc from Gelon to its deliberate extinction by Timoleon — before its
+revival under Agathocles.
+
 ## Related
 
 - Practitioners: [[gelon]] · [[syracuse]] · Theron of Acragas · (contrast Phalaris)
 - Compare: [[greek-tyranny]] (mainland) · [[athenian-democracy]] (the road not taken)
 - Setting: [[magna-graecia]] · [[city-state]] · event: [[battle-of-himera-480bce]]
 - The fall: [[hiero-i]] · [[syracuse]] · [[ducetius]] (the Sicel movement)
-- Period: [[archaic-period]] · [[classical-antiquity]] · Sources: [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[lewis-cah-v5-1992|CAH V]] (Ch. 7, Asheri)
+- Fourth-century apogee/end: [[dionysius-i]] · [[dionysius-ii]] · [[dion-of-syracuse]] · ended by [[timoleon]]
+- Period: [[archaic-period]] · [[classical-antiquity]] · Sources: [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[lewis-cah-v5-1992|CAH V]] (Ch. 7, Asheri) · [[lewis-cah-v6-1994|CAH VI]] (Chs. 5, 13)
