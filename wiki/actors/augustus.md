@@ -18,11 +18,8 @@ tags: [actor, person, classical-antiquity, italy]
 
 The founder of the **Roman Principate** — Caesar's heir, who fought his way to sole
 power through the triumviral wars and then refounded the Roman state as a veiled
-monarchy. This page covers his rise as **"Octavian" to the conquest of Egypt (30
-BCE)**; the **Augustan settlement and the Principate** (his power, authority, and
-achievement, and his reign to 14 CE) are developed in [[bowman-cah-v10-1996|CAH X]] Chs.
-2–3 (Crook) and will be expanded in the next cycle. Treated for the triumviral period
-in Ch. 1 (Pelling).
+monarchy that endured for centuries. Treated in [[bowman-cah-v10-1996|CAH X]] Ch. 1
+(Pelling, the triumviral period) and Chs. 2–3 (Crook, the reign and the system).
 
 ## The rise of Octavian (44–30 BCE)
 
@@ -52,14 +49,40 @@ Italy** (*coniuratio Italiae*) and declared war on Cleopatra. **Agrippa** won
 of Alexandria]]** (30) brought the deaths of Antony and Cleopatra, the annexation of
 **Egypt**, and Octavian's undisputed mastery of the Roman world.
 
+## The Principate: power, authority, achievement (30 BCE – 14 CE)
+
+As sole ruler, Octavian constructed the **[[principate|Principate]]** — a monarchy in
+Republican dress. In a **"steady return to normality"** he purged the Senate, then on
+**13 January 27** "**transferred the *res publica* to the Senate and people**,"
+receiving in return a vast **provincia** (the armed provinces) and the new name
+**Augustus**. The near-fatal illness of **23** prompted the lasting formula: he laid
+down the consulship and took **tribunicia potestas** and **imperium proconsulare
+maius**. Crook (after Tacitus' *insurgere paulatim*) stresses that Augustus held
+**coercive power totally from the start** — resting on a **professional, de-politicized
+army** loyal to himself, **overwhelming resources** (the Ptolemaic treasure), and
+universal **patronage** — and "took over the functions" of Senate, magistrates, and law
+**bit by bit**. His own claim (*Res Gestae* 34) was to excel all in ***auctoritas***,
+not *potestas*.
+
+His **achievement** was to turn this into a **transmissible system**: reducing and
+restocking the Senate (a property census of 1 million sesterces, 18 BCE, made it
+something like a hereditary peerage), creating equestrian administrative posts and new
+senatorial commissions, and emerging as **supreme judge** and head of the legal order —
+"the principal formal difference between Republic and Empire." His reign (to **14 CE**)
+saw the **moral/marriage legislation**, the great expansion of the empire (the **Varus
+disaster**, 9 CE), and the anxious securing of a **dynastic succession** — his blood
+heirs dying (Marcellus, Gaius, Lucius) until he adopted his stepson **Tiberius** (4 CE)
+as *collega imperii*.
+
 ## Counterfactual / structural significance
 
 Octavian's victory began, "apparent only to historical hindsight," both the **Augustan
-Age** and the **Roman Empire** (Crook). Pelling's judgment: his greater **political
-shrewdness** and his mastery of **propaganda** "may not have won him the war" (the
-military odds favoured Antony) "but it did much to win the ensuing peace." His genius
-lay in clothing a new monarchy in Republican forms — the work of the settlements of 27
-and 23 (next cycle).
+Age** and the **Roman Empire** (Crook). Pelling's judgment on the war: his greater
+**political shrewdness** and his mastery of **propaganda** "may not have won him the
+war" (the military odds favoured Antony) "but it did much to win the ensuing peace."
+His deeper achievement was to construct, **not from a blueprint but piecemeal**, a
+**[[principate|veiled monarchy]]** stable enough to survive successors "less skilful
+and less ruthless" — founding the imperial order of European history.
 
 ## Historiography
 
@@ -74,5 +97,6 @@ enthusiasm for Octavian "comes less naturally to us now."
 - Heir of: [[julius-caesar]] · partners/rivals: [[mark-antony]] ·
   [[second-triumvirate]] · general: Agrippa
 - Events: [[battle-of-philippi-42bce]] · [[battle-of-actium-31bce]] ·
-  [[death-of-antony-and-cleopatra-30bce]]; founds: the [[roman-republic|Principate]]
+  [[death-of-antony-and-cleopatra-30bce]]; founds: the **[[principate]]**
+- System: [[principate]] · transformed: [[roman-republic]] · successor: Tiberius
 - Source: [[bowman-cah-v10-1996]] (Chs. 1–3, Pelling & Crook)
