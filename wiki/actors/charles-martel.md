@@ -1,0 +1,72 @@
+---
+title: Charles Martel
+actor_type: person
+date_start: c. 688 CE
+date_end: 741 CE
+period: [Early Middle Ages]
+region: [western-europe]
+affiliated_with: [the Pippinid/Arnulfing family, Austrasia, the Frankish kingdom]
+opposed_by: [Neustrians, Frisians, Aquitanians, Umayyad raiders, Saxons]
+key_events: [battle of Vinchy 717, battle of Poitiers/Tours 732/733, conquest of Burgundy and Provence]
+key_processes: [[[carolingian-empire|rise of the Carolingians]]]
+sources_ingested: 1
+last_updated: 2026-06-12
+tags: [actor, person, early-middle-ages, western-europe]
+---
+
+# Charles Martel ("the Hammer," c. 688–741)
+
+## Overview
+
+**Charles Martel** ("the Hammer") was mayor of the palace and de facto ruler of the
+Frankish kingdom from 718 to 741, and the man who refounded Pippinid/Arnulfing power
+after its near-collapse in 714. Though he never took the royal title — ruling in the
+name of shadow Merovingian kings, and after 737 with no king at all — he established the
+military and territorial dominance that his son [[pippin-iii]] would convert into kingship
+and his grandson [[charlemagne]] into empire. In [[mckitterick-ncmh-v2-1995|NCMH II]]
+(Fouracre, Ch. 3) he is the hinge on which the rise of the [[carolingian-empire]] turns.
+
+## Reconstructing Pippinid Power
+
+The deaths of Pippin II and his son Grimoald in 714 plunged Francia into turmoil. The
+Neustrian Franks expelled the Pippinids and allied with the Frisians to attack the family's
+Austrasian heartland. Charles — Pippin's son by a second wife, briefly imprisoned by his
+stepmother Plectrude — escaped, rallied the family's defences, and after his sole battlefield
+defeat (716) won a decisive ambush in the Ardennes and victory at **Vinchy** (717). He
+seized his father's treasure (the short-term key to power), raised his own Merovingian king,
+and by 719 stood as sole mayor claiming hegemony over all Francia.
+
+## The Hammer
+
+The next two decades were spent enforcing that claim through near-annual campaigns:
+against the Saxons (718, 720, 724, 738), in Alemannia and Bavaria (725–730), against the
+Frisians (733–734), and into Aquitaine, Burgundy, and Provence (735–739). His most famous
+victory came at **Poitiers** (732 or 733, fought between Tours and Poitiers), turning back an
+Umayyad raiding force from Spain — a battle NCMH II treats as real but "not quite of the
+importance often still accorded to it." Fouracre stresses that Charles's success rested less
+on institutional genius than on an initial military advantage and a balance of power running
+progressively in his favour, fuelled by the plunder and tribute of victory.
+
+## The Church-Lands Controversy
+
+Charles acquired a ninth-century reputation for despoiling the church of its lands —
+supposedly settling warriors on church estates to build his military strength. NCMH II is
+sceptical: the evidence does not single him out from his peers in his use of church property,
+and the "feudal levy from secularised church land" thesis is not well founded. The Anglo-Saxon
+missionary [[boniface|Boniface]] complained of the low state of the Frankish church under him.
+
+## Significance
+
+By destroying every rival concentration of power and monopolising treasure, king-making, and
+the military following of Austrasia and Neustria, Charles Martel created the platform from which
+his descendants built kingship and empire. He died in 741, dividing the mayoralty between his
+sons Carloman and Pippin.
+
+## Historiography
+
+The sources — the *Continuations of the Chronicle of Fredegar* and early Carolingian annals —
+are family-sponsored and present the period as one of relentless, justified warfare. NCMH II
+(Fouracre) cautions that it is "far easier to list Charles Martel's successes than to explain
+why he was so successful," and frames his career within the larger
+[[nature-of-carolingian-government|debate]] over whether Carolingian power rested on new
+structures or simply on the dynamics of conquest.

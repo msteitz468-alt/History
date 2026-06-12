@@ -8,7 +8,7 @@ region: [western-europe, italy, iberia, british-isles]
 process_type: [political, economic, religious]
 driven_by: [the dissolution of the Roman tax-state, the shift from office-based to land-based aristocratic power, the formation of the successor kingdoms, the reorientation of long-distance trade from the Mediterranean to the North Sea, the monetization of the northern commercial zone]
 produces: [the early medieval aristocracy, localized political community, the seedbed of feudal lordship]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-12
 tags: [process, late-antiquity, early-middle-ages, western-europe]
 ---
@@ -33,7 +33,7 @@ The transformation ran **unevenly**:
 - **Britain**: Near-total rupture in the fifth century, leading to fragmented, illiterate Anglo-Saxon kingdoms where social stratification only slowly re-emerged through weapon burials, barrows, and coastal trading centers (**emporia**) in the late sixth and seventh centuries (see [[coventry|Anglo-Saxon migration archaeology]]).
 - **Italy**: The gradual Ostrogothic transition (dualism under [[theoderic-the-great|Theoderic]]) was shattered by the destructive **[[gothic-war-535-554|Gothic War (535–554)]]** and the subsequent **[[lombard-invasion-568|Lombard Invasion (568)]]**, permanently fragmenting the peninsula into Lombard duchies and Byzantine enclaves.
 - **Iberia**: Gradual consolidation under the Visigoths, culminating in King Leovigild's unification and Reccared's conversion to Catholicism. Legal personality was officially replaced by a single, territorial law code, the **[[liber-iudiciorum|Liber Iudiciorum]]** (654), integrating the Roman and Gothic populations.
-- **Gaul**: Frankish expansion under the Merovingians. Central royal power devolved to regional Mayors of the Palace, leading to the victory of Pippin II of Herstal at the **[[battle-of-tertry-687|Battle of Tertry]]** (687), establishing Austrasian hegemony.
+- **Gaul**: Frankish expansion under the Merovingians. Central royal power devolved to regional Mayors of the Palace, leading to the victory of Pippin II of Herstal at the **[[battle-of-tertry-687|Battle of Tertry]]** (687), establishing Austrasian hegemony. The Pippinid mayors converted this into kingship (**[[charles-martel]]**, then **[[pippin-iii|Pippin III]]**'s [[pippinid-coup-751|coup of 751]]) and then empire under **[[charlemagne|Charlemagne]]**. NCMH II (Fouracre) reads the [[carolingian-empire|Carolingian state]] as the culmination — yet largely the continuation — of this transformation: "in 814 as in 714, power on the ground lay in the hands of counts and bishops," the land-based aristocracy this process had created (see [[nature-of-carolingian-government]]).
 - **Byzantine East**: Faced with the same loss of tax-base due to Sasanian and Arab conquests, the eastern empire underwent its own military-administrative transformation in the seventh century, replacing civil provinces with military districts under the **[[theme-system|Theme System]]**.
 
 ## Significance
@@ -61,4 +61,4 @@ The post-Roman transformation also produced a distinctively early medieval legal
 - `driven_by:` the dissolution of the Roman tax-state and the fiscal collapse traced in the [[late-roman-army|army]] and [[late-roman-cities|cities]] chapters
 - `part_of:` the wider [[fall-of-western-roman-empire|fall of the western empire]]; `contrasts_with:` the [[byzantine-empire|East]], where the tax-state was replaced by the **[[theme-system|Theme System]]**
 - See also: **[[pirenne-thesis]]** (debate on whether the Arab conquests caused the northern economic reorientation); **[[wergild]]** (legal system of the successor kingdoms); **[[eigenkirche]]** (proprietary church system)
-- Sources: [[cameron-cah-v14-2000]] (Ch. 16, Chris Wickham); [[fouracre-ncmh-v1-2005]] (Chs. 2, 8, 21–25)
+- Sources: [[cameron-cah-v14-2000]] (Ch. 16, Chris Wickham); [[fouracre-ncmh-v1-2005]] (Chs. 2, 8, 21–25); [[mckitterick-ncmh-v2-1995]] (Ch. 3, Fouracre — the Carolingian culmination)

@@ -9,8 +9,8 @@ affiliated_with: [the Eastern Roman state, the Orthodox Church]
 opposed_by: [[[sasanian-empire|Sasanian Persia]], the [[caliphate|Caliphate]], Avars, Bulgars, Slavs, the Seljuk and Ottoman Turks]
 key_events: [reign of Justinian 527-565 CE, Arab conquests 630s-640s CE, survival of the Eastern Roman state, Fourth Crusade sack of Constantinople 1204, Ottoman conquest 1453]
 key_processes: [[[empire]], [[christianity|Orthodox Christianity]], [[silk-roads]], Roman legal codification]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [actor, empire, late-antiquity, early-middle-ages, anatolia, mediterranean]
 ---
 
@@ -73,6 +73,21 @@ Byzantium fell from the primary Mediterranean power around 1000 to the catastrop
 the **Fourth Crusade (1204)** and a dwindling rump, before the Turks — first Seljuk,
 then Ottoman — finally extinguished it at the fall of **Constantinople (1453)**, the
 end of the Roman state and a marker of the period's close.
+
+## Iconoclasm and the West (NCMH II)
+
+[[mckitterick-ncmh-v2-1995|NCMH II]] (McCormick, Ch. 14; Brown, Ch. 13) treats eighth- and
+ninth-century Byzantium chiefly through its relations with the Latin West. The defining internal
+struggle of the period was **[[byzantine-iconoclasm|iconoclasm]]** (c. 726–843), whose repudiation
+of religious images alienated Byzantine Italy and the papacy, contributed to the loss of the
+[[exarchate-of-ravenna|Exarchate of Ravenna]] (751), and provoked a distinctive Frankish reply (the
+*Libri Carolini*). Iconoclasm, the **"two emperors" problem** created by
+[[coronation-of-charlemagne-800|Charlemagne's imperial coronation (800)]], and the later **Photian
+schism** together mark the deepening estrangement of Greek and Latin Christendom. On the Balkan
+frontier Byzantium fought a long contest with the [[first-bulgarian-empire|Bulgar khanate]] —
+catastrophically under **Krum** (who killed Nicephorus I in 811) — but won a lasting cultural victory
+when [[conversion-of-boris-i-864|Boris's conversion (864)]] and the
+[[cyrillo-methodian-mission|Cyrillo-Methodian mission]] drew the southern Slavs into the Orthodox sphere.
 
 ## Significance
 

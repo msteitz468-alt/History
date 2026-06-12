@@ -5,7 +5,7 @@ date_range: "600–1000 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, arabian-peninsula, central-asia, north-africa, west-africa, east-africa, south-asia, china, japan, korea, steppe, indian-ocean, silk-road]
 major_themes: ["the rise of Islam and the caliphates", "the Abbasid golden age", "Tang China and the second Silk Roads era", "the Carolingian Empire", "Byzantium's survival and golden age", "the formation of Japan and unified Korea", "trans-Saharan and Indian Ocean trade", "the spread of world religions", "post-imperial state-building", "barbarian law codes and wergild", "the North Sea emporium network (wics)", "the gold-to-silver monetary transition (sceattas)", "proprietary churches (Eigenkirchen)", "Insular art and Northumbrian learning", "Christianisation of the Germanic and Anglo-Saxon peoples"]
 collection_coverage: strong
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-12
 tags: [period]
 ---
@@ -45,7 +45,9 @@ Abbasid devolution), opening onto the [[high-middle-ages]].
 
 **Byzantium's survival and recovery.** Shorn of its richest provinces by the Arab conquests and pressed by Avars, Bulgars, and the iconoclast controversy, [[byzantine-empire|Byzantium]] nonetheless survived behind [[constantinople|Constantinople's]] walls (resisting the **[[siege-of-constantinople-626|Siege of Constantinople (626)]]** and later Arab sieges) and reorganized its administration under the **[[theme-system|Theme System]]**. The state enjoyed a 9th–10th-century "golden age" of stability and cultural revival.
 
-**The Frankish Ascendancy.** In the Latin West, the Merovingian kingdoms consolidated under Chlothar II, but central power devolved to the Mayors of the Palace. Pippin II of Herstal secured Austrasian supremacy over Neustria at the **[[battle-of-tertry-687|Battle of Tertry]]** (687), laying the foundation for the **[[carolingian-empire|Carolingian Empire]]** — with [[charlemagne|Charlemagne]] crowned emperor in 800 — which briefly reunified much of Western Europe in alliance with the [[papacy|Church]] before partition (843) dissolved central authority. See [[carolingian-empire]].
+**The Frankish Ascendancy.** In the Latin West, the Merovingian kingdoms consolidated under Chlothar II, but central power devolved to the Mayors of the Palace. Pippin II of Herstal secured Austrasian supremacy over Neustria at the **[[battle-of-tertry-687|Battle of Tertry]]** (687); after the family's near-collapse in 714, **[[charles-martel|Charles Martel]]** refounded its dominance and **[[pippin-iii|Pippin III]]** converted it into kingship, deposing the last Merovingian with papal sanction (**[[pippinid-coup-751|the coup of 751]]**) and sealing the Frankish–papal alliance. The **[[carolingian-empire|Carolingian Empire]]** reached its zenith under **[[charlemagne|Charlemagne]]** (768–814), crowned emperor in 800 (**[[coronation-of-charlemagne-800]]**), who assembled a realm from the Pyrenees to the Elbe and sponsored the **Carolingian Renaissance**. Under **[[louis-the-pious|Louis the Pious]]** (814–840) the ideology of imperial unity collided with Frankish partible inheritance; civil war (**[[battle-of-fontenoy-841|Fontenoy]]**, 841) produced the **[[treaty-of-verdun-843|Treaty of Verdun]]** (843), dividing the empire among **[[lothar-i|Lothar I]]**, **[[louis-the-german|Louis the German]]** (East Francia), and **[[charles-the-bald|Charles the Bald]]** (West Francia) and seeding the divergence of France and Germany. Whether Carolingian rule (through the **[[missi-dominici|missi]]** and **[[carolingian-capitularies|capitularies]]**) reconstituted Roman public authority or merely glossed a plunder-driven hegemony is debated: see [[nature-of-carolingian-government]]. See [[carolingian-empire]].
+
+**The Mercian Supremacy.** In England, the kingdom of **[[mercia|Mercia]]** dominated the lands south of the Humber through the eighth century under Æthelbald (716–757) and **[[offa-of-mercia|Offa]]** (757–796), who built **Offa's Dyke**, reformed the silver coinage, and dealt with Charlemagne as a near-equal — the apogee of pre-Viking Anglo-Saxon kingship before Wessex's rise (Ellandun, 825) and the Viking Great Army. The **Tribal Hidage** is the key window onto this hegemony; NCMH II (Keynes) warns against the anachronistic constructs of the "Heptarchy" and the "Bretwalda."
 
 **The British Isles and Christianisation.** The Christianisation of Anglo-Saxon England involved competing Roman and Irish missions, resolved in favor of Roman practice at the **[[synod-of-whitby-664|Synod of Whitby]]** (664). Archbishop **[[theodore-of-tarsus|Theodore of Tarsus]]** reorganized the English diocesan structure under Canterbury. Northumbrian hegemony in northern Britain was broken by the Picts at the **[[battle-of-nechtansmere-685|Battle of Nechtansmere]]** (685).
 
@@ -71,7 +73,8 @@ Abbasid devolution), opening onto the [[high-middle-ages]].
 
 - **[[rashidun-caliphate|Rashidun Caliphate]]**, **[[umayyad-caliphate|Umayyad Caliphate]]** (including **[[abd-al-malik|Abd al-Malik]]**), and **[[abbasid-caliphate|Abbasid]]** caliphates; [[muhammad-and-the-rise-of-islam|Muhammad]].
 - **[[byzantine-empire]]**; **[[heraclius]]**, **[[justinian-ii]]**, and the Macedonian dynasty.
-- **[[carolingian-empire]]**; **[[theodore-of-tarsus]]**, [[charlemagne]].
+- **[[carolingian-empire]]**; [[charles-martel]], [[pippin-iii]], **[[charlemagne]]**, [[louis-the-pious]], [[lothar-i]], [[louis-the-german]], [[charles-the-bald]]; **[[theodore-of-tarsus]]**.
+- **[[mercia]]** and the Anglo-Saxon kingdoms; **[[offa-of-mercia|Offa]]**.
 - **[[empire-of-samo|Samo's Empire]]**.
 - **[[tang-dynasty]]** China.
 - **[[silla]]** / **[[goryeo|Koryŏ]]** Korea; Nara/Heian **[[japan]]**.

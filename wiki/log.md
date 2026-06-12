@@ -1512,3 +1512,15 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | CAH XIV — Late Antiquity: Empire and Successors AD 425–600 | Section: Religion & culture (Chs 24–31) | Pages created: 3 | Pages updated: 3
 
 ## 2026-06-12 ingest-complete | CAH XIV — Late Antiquity: Empire and Successors AD 425–600 | Total pages created: 17 | Total pages updated: 11 | Sections processed: 5
+
+## 2026-06-12 section | NCMH II — c. 700–c. 900 (McKitterick ed., 1995) | Section: Part I-A — Carolingian core (Chs 1–6) | Pages created: 16 | Pages updated: 3
+
+## 2026-06-12 section | NCMH II — c. 700–c. 900 (McKitterick ed., 1995) | Section: Part I-B — Peripheries & Mediterranean (Chs 7–14) | Pages created: 13 | Pages updated: 2
+
+## 2026-06-12 section | NCMH II — c. 700–c. 900 (McKitterick ed., 1995) | Section: Part II — Government & Institutions (Chs 15–20) | Pages created: 6 | Pages updated: 0
+
+## 2026-06-12 section | NCMH II — c. 700–c. 900 (McKitterick ed., 1995) | Section: Part III — Church & Society (Chs 21–24) | Pages created: 5 | Pages updated: 0
+
+## 2026-06-12 section | NCMH II — c. 700–c. 900 (McKitterick ed., 1995) | Section: Part IV — Culture & Intellectual Developments (Chs 25–30) | Pages created: 5 | Pages updated: 1
+
+## 2026-06-12 ingest-complete | NCMH Vol. 2 — c. 700–c. 900 (McKitterick ed., 1995) | Total pages created: 45 | Total pages updated: 5 | Sections processed: 5

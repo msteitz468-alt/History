@@ -9,7 +9,7 @@ affiliated_with: [the Germanic peoples, Arian (then Catholic) Christianity]
 opposed_by: [the eastern Roman (Byzantine) empire, the exarchate of Ravenna, the papacy, the Franks]
 key_events: [the Lombard Invasion of Italy (568), the assassination of Alboin (572), the interregnum of the dukes (574–584)]
 key_processes: [the fragmentation of Byzantine Italy, the formation of the barbarian successor kingdoms]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, state, late-antiquity, italy]
 ---
@@ -52,6 +52,19 @@ emerged as an independent political force, the seed of the medieval Italian map.
 settlement; the New Cambridge Medieval History takes up the Lombard kingdom (eventually conquered by
 Charlemagne in 774).
 
+## The Lombard Kingdom and its Carolingian Conquest (NCMH II)
+
+[[mckitterick-ncmh-v2-1995|NCMH II]] (Delogu, Ch. 12) carries the Lombards forward into the eighth
+century. Under kings such as **Liutprand** (712–744) the northern **kingdom of Italy**, ruled from
+**Pavia**, consolidated its administration (counts/*gastaldi*, the *Edictus* law tradition) and pressed
+against the [[exarchate-of-ravenna|Byzantine Exarchate]] and the duchy of Rome — driving the papacy toward
+the Franks. In **774** **[[charlemagne|Charlemagne]]**, answering Pope Hadrian I, deposed the last Lombard
+king Desiderius and annexed the kingdom (**[[carolingian-conquest-of-lombard-italy-774]]**), taking the
+title *king of the Lombards*. Delogu stresses the **continuity** of Lombard institutions under Carolingian
+rule. The autonomous southern duchy of **Benevento** (later the principalities of Benevento, Salerno, and
+Capua) was never fully subjected and preserved a distinct Lombard south for centuries — increasingly exposed
+to [[muslim-conquest-of-sicily-827|Muslim raiding]] from Sicily.
+
 ## Related
 
 - One of the [[germanic-peoples|barbarian successor]] peoples; `produced:` the permanent fragmentation of
@@ -59,4 +72,4 @@ Charlemagne in 774).
 - `caused_by:` Avar pressure in Pannonia (see [[avars-and-the-balkans|the Avars]]); `enabled:` the rise of
   the independent **papacy** and the [[successors-of-justinian|post-Justinianic]] collapse of imperial Italy
 - `followed_by:` Lombard–Byzantine partition of Italy and the medieval Italian polities
-- Source: [[cameron-cah-v14-2000]] (Chs 19 & 4, Mark Humphries and Averil Cameron)
+- Sources: [[cameron-cah-v14-2000]] (Chs 19 & 4, Mark Humphries and Averil Cameron); [[mckitterick-ncmh-v2-1995]] (Ch. 12, Paolo Delogu — the Lombard kingdom and its Carolingian conquest)
