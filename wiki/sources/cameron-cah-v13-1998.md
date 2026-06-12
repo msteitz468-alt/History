@@ -22,8 +22,8 @@ reliability_notes: >
   represent differing views without imposed uniformity. Organized in six parts (Chronological Overview;
   Government & Institutions; Economy & Society; Foreign Relations & the Barbarian World; Religion; Art &
   Culture). Direct sequel to CAH XII; hands forward to CAH XIV (425–600).
-pages_created: 0
-pages_updated: 0
+pages_created: 17
+pages_updated: 8
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -77,4 +77,49 @@ late antiquity as a vigorous, creative age of transition, not simply Rome's "dec
 
 ## Volume Synthesis Note
 
-*(to be written in the Step 3 synthesis pass, after all content cycles are on disk)*
+CAH XIII is the volume in which the wiki crosses fully into **Late Antiquity as a field in its own right** —
+the world of A. H. M. Jones and Peter Brown rather than of Gibbon. Its governing argument, pressed across
+nearly every chapter, is a **double revision**: *against* the "decline and fall" of the Roman West, and
+*against* the "death of paganism" / triumph-of-the-church narrative. The economy ([[late-roman-economy|Whittaker
+& Garnsey]]) shows continuity, adaptation and regional variation rather than agrarian collapse; the city
+([[late-roman-cities|Ward-Perkins]]) loses its *classical* form (the curiae drained, munificence dead) but
+keeps its administrative function; the government ([[late-roman-emperorship|Kelly]]) is a **negotiated,
+ceremonial system**, its "corruption" a political logic, not moral decay; society ([[late-roman-social-relations|Marcone]])
+is steeply hierarchical yet genuinely mobile; and Christianization ([[christianization-of-the-roman-empire|Brown]])
+is a **"wavering century"** of ambiguity and appropriation, not an instant supernatural victory. Even the
+art ([[late-roman-art-and-architecture|Elsner]]) and literature ([[late-antique-literary-culture|Cameron]])
+dissolve the rigid pagan/Christian dichotomy. The recurring lesson is that what looks like "fall" is better
+read as **transformation and the redistribution of authority**.
+
+The volume's **narrative spine** nonetheless records a real and consequential dislocation of the West. The
+[[constantius-ii|sons of Constantine]] and the failed pagan reaction of [[julian|Julian]] give way to the
+Pannonian emperors and the catastrophe of [[battle-of-adrianople-378|Adrianople (378)]] — the hinge event,
+driven ultimately by the [[huns|Huns]], that let the Goths settle *inside* the empire as autonomous
+*foederati* under [[theodosius-i|Theodosius I's]] *foedus* of 382. Theodosius then fixed the late-antique
+order: **Nicene Christianity as the state religion** (the [[arian-controversy|Arian controversy]] resolved
+at Constantinople 381), **paganism outlawed**, and the **permanent division of 395**. The West's
+**federate dependence** (the half-Vandal [[stilicho|Stilicho]]) and its prioritizing of Italy over the
+frontiers produced the Rhine crossing of 406 and [[alaric|Alaric's]] [[sack-of-rome-410|sack of Rome (410)]] —
+while the **East**, shielded behind Constantinople's new walls and a stabilized
+[[sassanid-empire|Persian]] frontier (the treaty of 363, the partition of [[armenia|Armenia]] c. 387),
+**survived**. The divergence of the two halves — the master-theme handed forward to CAH XIV — flows from
+395 and from the Hunnic-driven barbarian settlement.
+
+The third great theme is the **religious revolution**: the [[late-roman-church-institution|church as a
+public institution]] (bishops as *amici Caesaris*, the hierarchy mapped on the state), the forging of
+orthodoxy through the [[arian-controversy|Arian disputes]], the rise of [[late-antique-asceticism|asceticism
+and monasticism]] (the holy man as a new social force), and the [[christianization-of-the-roman-empire|Christianization]]
+of public life — all of which CAH XIII treats as **inseparable from imperial politics**, since the emperor
+was now the arbiter of the faith. The eastern Christian literatures (Syriac, Coptic, the Nag Hammadi and
+Manichaean corpus) mark the cultural **diversification** that would outlast the empire.
+
+**Cross-volume continuity and tension.** CAH XIII carries forward almost every CAH XII page — the
+[[late-roman-army|army]], [[late-roman-administration|administration]], [[late-roman-cities|cities]],
+[[late-roman-economy|economy]], [[late-polytheism|polytheism]], [[germanic-peoples|Germanic peoples]],
+[[sassanid-empire|Sassanids]], [[armenia|Armenia]] — into their fourth-century maturity, deepening (not
+contradicting) CAH XII's own anti-catastrophist reading of the third century. The two volumes together
+constitute the wiki's **late-Roman core**: CAH XII the crisis-and-refounding, CAH XIII the Christian,
+bipartite, barbarian-settled empire whose western half is fragmenting and whose eastern half is becoming
+Byzantium. The standing [[causes-of-the-fall-of-the-western-roman-empire|controversy on the fall of the
+West]] is here recast: the contributors would say the West did not "fall" so much as **dissolve into a new,
+post-Roman order** — a thesis CAH XIV will test to 600.
