@@ -13,7 +13,7 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [[[nature-of-roman-imperialism]], the incompatibility of Macedon's revival with Roman supremacy in Greece, Eumenes' charges against Perseus]
 consequences: [the end of the [[antigonid-dynasty|Antigonid kingdom]], the four Macedonian republics, the deportation of 1,000 Achaeans, the harsh new Roman tone in Greece]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [event, classical-antiquity, balkans, war]
 ---
@@ -93,4 +93,5 @@ the vulnerability of the phalanx on broken ground — became a commonplace.
 - Preceded by: [[roman-syrian-war-192-188bce]] · followed by:
   [[achaean-war-146bce]]
 - Debate: [[nature-of-roman-imperialism]] · source: [[astin-cah-v8-1989]] (Ch. 9,
-  Derow)
+  Derow); the principal ancient narrative is now ingested as **[[livy-mediterranean-empire|Livy,
+  *Rome's Mediterranean Empire* (Books 41–45)]]** (Pydna, the settlement, the annalistic frame).

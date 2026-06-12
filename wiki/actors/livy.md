@@ -54,8 +54,9 @@ Livy is both a source and an object of study. His relationship to Polybius
 (Nissen's foundational analysis) lets scholars measure his fidelity where the two
 overlap. His treatment of early Rome is central to
 [[reliability-of-early-roman-tradition]] and [[early-roman-source-criticism]]. His
-own *Histories* are now being ingested directly in Phase 4: **[[livy-hannibals-war|*Hannibal's War*
-(Books 21–30)]]** (the Second Punic War) and *Rome's Mediterranean Empire* (Books 41–45).
+own *Histories* are now ingested directly in Phase 4: **[[livy-hannibals-war|*Hannibal's War* (Books
+21–30)]]** (the Second Punic War) and **[[livy-mediterranean-empire|*Rome's Mediterranean Empire*
+(Books 41–45) and the Periochae]]** (the Third Macedonian War and the summaries of the lost books).
 
 ## Related
 
