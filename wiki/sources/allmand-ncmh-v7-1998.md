@@ -68,6 +68,13 @@ the Conclusion (from c. line 36417) follow. The bibliography and tables are not 
   Basel, Florence, Execrabilis) and `actors/papacy.md` (the restored & Renaissance papacy). Captured
   Genet on politics and political culture, the representation chapter, and Black on popes and
   councils. (Pages created: 1 | Pages updated: 2.)
+- **2026-06-12 — Cycle 2 (Part II, "Economic and Social Developments A" — Nobility, Rural, Urban).**
+  Created `processes/european-nobility-late-medieval.md` (Contamine: the pan-European nobility,
+  *dérogeance*, lineage extinction, the nobility of the *ancien régime*) and `processes/second-serfdom.md`
+  (Dyer: the east-Elbian divergence). Updated `processes/late-medieval-crisis.md` (Dyer's
+  fifteenth-century countryside and his critique of the "demographic crisis"), `processes/urbanization.md`
+  (Dobson: the Italian merchant ascendancy, Antwerp, Hanseatic decline, civic humanism), and
+  `concepts/feudalism.md` ("bastard feudalism"). (Pages created: 2 | Pages updated: 3.)
 
 ## Volume Synthesis Note
 

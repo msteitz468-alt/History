@@ -75,9 +75,21 @@ public obligation, community, and law in the eleventh and twelfth centuries. See
   analytic term altogether, preferring to describe specific relations of lordship,
   tenure, and obligation.
 
+## "Bastard Feudalism" (Late-Medieval Coda)
+
+A separate modern coinage, **"bastard feudalism,"** names the system that *replaced* classic
+fief-and-vassal feudalism in the later Middle Ages (Philippe Contamine, [[allmand-ncmh-v7-1998|
+NCMH VII]] Ch. 4): the man-to-man bond now rested not on enfeoffment with land for military service
+but on **fees, annuities and livery** — the English magnate's **indenture** with his retainers,
+the Hungarian *familiaritates*, the Spanish *criados*, the French household clientele. These
+clienteles could harden into political "bands" and factions, and were notorious for interfering
+violently with justice. The term is treated more fully under the
+[[european-nobility-late-medieval|fifteenth-century European nobility]].
+
 ## Related
 
 - `contrasts_with:` the older [[feudal-revolution-debate|"feudal revolution"]] model.
+- `followed_by:` [[european-nobility-late-medieval|"bastard feudalism" and the fifteenth-century nobility]].
 - [[ius-commune]] — the *Libri Feudorum* from which the "feudal" abstraction was built.
 - [[chivalry]], [[three-orders]], [[bipartite-manor]] — the social realities the term tried to name.
 - [[feudalism-construct-debate]] — the historiographical dispute.

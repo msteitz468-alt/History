@@ -69,7 +69,39 @@ political turbulence and of the anxious turn in [[late-medieval-lay-religion|rel
 
 The crisis did not "end" so much as resolve into a new equilibrium: a much-reduced population
 enjoying higher per-capita resources, a transformed rural society, and (in the west) a freer
-peasantry — the demographic and social baseline of the fifteenth-century recovery.
+peasantry — the demographic and social baseline of the fifteenth-century recovery. By the century's
+end population was rising again and many trends reversed (arable re-expanding, wages falling, grain
+prices rising), though the large commercial holdings created by the crisis survived into the
+sixteenth century.
+
+## The Fifteenth-Century Countryside (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Christopher Dyer, Rural Europe, Ch. 5) describes the **aftermath
+and adjustment**: the fifteenth-century countryside was "more sparsely populated than at any time
+since about 1150," population having fallen to a half or two-thirds of pre-plague levels and reaching
+its nadir c. 1420–1450 (France ~18m→<10m; England ~6m→2.5–3m; the *contado* of Florence 300,000→
+104,000). The consequences were a transformed landscape and social order:
+
+- **Desertion and a new ecological balance.** Tens of thousands of settlements were abandoned
+  (>40,000 of 170,000 in Germany; half of Norway's farms); arable reverted to **pasture** and
+  woodland recovered, because a single herdsman could work land that tillage needed a dozen hands
+  for. Diet shifted upward — ordinary people now ate **meat** in quantities once reserved for the
+  aristocracy.
+- **The "price scissors."** Grain prices and rents fell while **wages rose** and the prices of
+  animal and manufactured goods held up, squeezing the **nobility** (who leased out demesnes and
+  turned to office-holding) and improving conditions for much of the **peasantry** (lower rents,
+  hereditary tenure, the end of many servile dues; the rise of the *gros fermiers* and English
+  yeomen on enlarged holdings).
+- **Dyer's critique of the "demographic crisis."** Dyer argues that demography, though real, "cannot
+  explain all" of the period's changes. Regional experience diverged sharply — Castile and parts of
+  eastern Europe escaped the worst, recovery came at different dates, and structural change (the
+  market, lord–peasant bargaining, peasant decision-making, [[second-serfdom|eastern enserfment]])
+  proceeded **independently of population levels**. Productivity per worker was high and the century
+  was not exceptionally hungry (the great exception being the north-European **famine of 1437–9**).
+- **Peasant assertiveness.** Fewer mass rebellions than the surrounding centuries, but constant
+  negotiation, litigation and local agitation, and significant revolts: the Catalan **remences**
+  against the "bad customs" (civil war 1462–72; abolished 1486), the German **Bundschuh** risings
+  (1439, 1493), the Galician *Irmandiño* revolt (1467), and the Norman anti-tax rising (1434–6).
 
 ## Historiography
 

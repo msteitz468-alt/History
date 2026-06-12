@@ -1660,3 +1660,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 ingest-start | NCMH Vol. 7 — c. 1415–c. 1500 (Christopher Allmand ed., 1998) | Large-Volume Protocol Step 1: Section Plan written to wiki/sources/allmand-ncmh-v7-1998.md (4 Parts → 8 section cycles). Content ingest (Cycle 1+) pending.
 
 ## 2026-06-12 section | NCMH VII — c. 1415–c. 1500 (Allmand ed., 1998) | Section: Cycle 1 — Introduction + Part I "Politics, Representation & the Church" (politics theory & practice; representation; popes & councils) | Pages created: 1 | Pages updated: 2
+
+## 2026-06-12 section | NCMH VII — c. 1415–c. 1500 (Allmand ed., 1998) | Section: Cycle 2 — Part II "Economic & Social Developments A" (the European nobility; rural Europe; urban Europe) | Pages created: 2 | Pages updated: 3

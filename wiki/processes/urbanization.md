@@ -116,6 +116,45 @@ the frontiers (the last Aquitaine *bastides*, the [[edward-i-plantagenet|Edwardi
 of Wales, and the [[teutonic-knights|Teutonic]] and German-Slav colonial towns of the Baltic
 east). The episode belongs to the wider [[late-medieval-crisis|late-medieval crisis]].
 
+## The Fifteenth-Century Town (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Barrie Dobson, Urban Europe, Ch. 6) treats the fifteenth century
+as a **paradox**: "one of the most creative ages in the history of the European city" coinciding
+with demographic stagnation, most major towns still holding fewer people in 1500 than before the
+[[black-death|Black Death]]. Of ~27 cities over 40,000, only five (Venice, Milan, Naples, Paris,
+probably Constantinople) exceeded 100,000. Key themes:
+
+- **The Italian merchant ascendancy.** The largest pre-plague cities — **Genoa, Florence, Milan,
+  Venice** — emerged as the "residuary legatees" of the disasters, dominating the trade in luxury
+  goods, banking and technology (Milanese armour; Florentine eyeglasses, "the optical capital of the
+  world"; the *pratica della mercatura*). The **Medici bank** under Cosimo (1434–64) became a central
+  holding company with autonomous branches across Europe before its collapse in 1494. The
+  Mediterranean remained "an Italian lake" until the Turkish War of 1499–1503.
+- **The northern shift: the rise of Antwerp.** As Bruges silted up and antagonised the Burgundian
+  dukes, **Antwerp** rose to become "the greatest international emporium northern Europe had yet
+  seen," clinched by the arrival of the first Portuguese pepper cargo in 1501. Dutch shipping from
+  Holland and Zeeland came to dominate North Sea and Baltic carrying trade.
+- **Hanseatic decline.** The [[hanseatic-league|Hanseatic League]], though resilient, was squeezed
+  by territorial princes and lost its eastern outpost when [[ivan-iii-vasilyevich|Ivan III]]
+  conquered **Novgorod** (1478) and shut the Peterhof.
+- **South German industry.** Augsburg, Nuremberg and Ravensburg rose as "industrial giants," their
+  trading companies (Welser, **Fugger**) tied to the copper and silver mines of Slovakia, Hungary,
+  Bohemia and the Tyrol.
+- **Urban politics and "civic humanism."** The post-1378 conjuncture of a divided papacy, weak
+  Empire and demoralised French monarchy gave many cities a window of self-assertion; from the fear
+  of Visconti aggression c. 1400, **Florentine "civic humanism"** (Salutati, Leonardo Bruni)
+  forged a Ciceronian republican ideology exalting liberty and the *via activa*. But Dobson argues
+  this proved a dead end politically: by 1500 princes everywhere were reasserting control, and
+  Renaissance values "had proved highly adaptable to the purposes of the princely court." German
+  towns lived in "immense, defensive conservatism."
+- **Urban society.** Extreme inequality of wealth (the Florentine *catasto* of 1427: the richest 1%
+  held over a quarter of the city's wealth), an "economy of cousins" ruled by family clans, a large
+  unrecorded labour market of immigrant *marginaux*, guilds increasingly harnessed to civic control,
+  late male marriage (~28) — and a striking lay investment in **parish churches**, chantries,
+  hospitals and confraternities. Dobson closes on the era's "most portentous" urban achievement,
+  the invention and spread of **[[printing-revolution|printing]]** (Mainz 1456 → Venice's Aldus
+  Manutius), even as cities began to lose control of their own initiatives.
+
 ## End Conditions
 
 Ongoing. Individual cities collapse and are abandoned (Cahokia, many Mesopotamian
