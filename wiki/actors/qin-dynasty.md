@@ -9,7 +9,7 @@ affiliated_with: [Legalist statecraft]
 opposed_by: [the six rival Warring States (conquered), the [[xiongnu]], rebel armies]
 key_events: [unification of China 221 BCE, building of the Great Wall, conquest of the south 214 BCE]
 key_processes: [[[state-formation]], [[empire]], Legalism, [[silk-roads]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [actor, dynasty, classical-antiquity, china, east-asia]
 ---
@@ -62,3 +62,7 @@ Qian) invested in portraying Legalist tyranny as the foil to Han Confucian benev
 its brutality may be overdrawn; archaeology (the Terracotta Army, excavated legal documents)
 supplies a corrective. Its rise is the central East Asian case for **structural** causation
 (see [[great-man-vs-structural-causation]] and [[warring-states-period-475-bce]]).
+
+The **[[legalism|Legalist]]** ideology that armed the Qin state is now represented by the ingested
+**[[han-feizi-watson|Han Feizi: Basic Writings]]** — the philosophy embraced by the First Emperor and
+Li Si.
