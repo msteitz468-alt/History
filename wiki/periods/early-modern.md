@@ -5,7 +5,7 @@ date_range: 1500–1700 CE
 regions_covered: [atlantic-world, western-europe, mesoamerica, andes, west-africa, east-asia, near-east, south-asia, indian-ocean, southeast-asia]
 major_themes: [the construction of a global world, Columbian Exchange, oceanic empires, the silver-driven world economy, confessionalization and religious expansion, the military revolution debate, chartered companies, plantation slavery]
 collection_coverage: moderate
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [period]
 ---
@@ -135,3 +135,8 @@ collection map, the post-1500 Islamic world (Ottoman/Safavid/Mughal), the
 post-1500 Americas beyond archaeology, sub-Saharan Africa, and Russia/Eastern
 Europe remain thinly sourced; CWH VI's thematic chapters partially offset this
 but do not replace dedicated regional volumes.
+
+A dedicated single-author synthesis of the religious transformation of the period is now ingested —
+**[[eire-reformations|Carlos Eire, *Reformations: The Early Modern World, 1450–1650*]]** — covering the
+[[protestant-reformation-1517|Protestant]], Radical and [[catholic-reformation|Catholic]] Reformations
+and the long road from a sacralized Christendom toward secularity.
