@@ -62,4 +62,6 @@ The controversy failed to achieve its objectives:
 
 *   **Actors**: [[justinian]] · [[belisarius]] · [[successors-of-justinian]]
 *   **Events**: [[gothic-war-535-554]] · [[lombard-invasion-568]]
-*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]
+*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]; the conciliar acts are now
+    ingested as **[[price-acts-constantinople-553|The Acts of the Council of Constantinople of 553]]**
+    (Richard Price), and the council itself has a page at **[[second-council-of-constantinople-553]]**.
