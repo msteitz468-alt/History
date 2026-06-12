@@ -5,7 +5,7 @@ origin: the network of bilateral treaties (foedera) binding Italian communities 
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [italy, mediterranean-world]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -54,8 +54,19 @@ Local identity persisted strongly beneath this convergence (Cicero's later doctr
 of the **two *patriae*** — one of place, one of law). The system's deferral of the
 citizenship question — together with the [[agrarian-crisis-roman-republic|agrarian
 crisis]], since much *ager publicus* was worked by allies under their treaties —
-made the *socii* a central problem of the late Republic, erupting in the **Social
-War (91–88 BCE)**.
+made the *socii* a central problem of the late Republic, erupting in the
+**[[social-war-91-88bce|Social War]] (91–88 BCE)**.
+
+## Resolution: the enfranchisement of Italy (CAH IX, Ch. 4, Gabba)
+
+The [[social-war-91-88bce|Social War]] ended the alliance system by **absorbing it**.
+Facing an armed demand, Rome granted citizenship — the **Lex Iulia** (90), **Lex
+Plautia Papiria** (89), and **Lex Pompeia** (Latin status for Transpadana) — to all
+Italy south of the Po. The *socii* ceased to exist as a separate category; the Roman
+state was **transformed from a city-state into a state of *municipia***, with Italy
+now its territory. Gabba's theme is fulfilled: the junior partners became "constituent
+parts of the Roman state," their elites entering the Roman governing class — the
+demographic foundation of the late Republic and the Augustan "ideology of Italy."
 
 ## Limitations and critique
 

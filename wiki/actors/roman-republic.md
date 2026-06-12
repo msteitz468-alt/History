@@ -9,7 +9,7 @@ affiliated_with: [the Roman Senate and People (SPQR), Italian allies (socii)]
 opposed_by: [[[carthage|Carthage]], [[hellenistic-world|Hellenistic kingdoms]], Gauls, Mithridates of Pontus]
 key_events: [Punic Wars 264-146 BCE, conquest of the Hellenistic East, civil wars 49-31 BCE]
 key_processes: [[[empire]], [[slavery]], [[trade-network-formation]], provincialization]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-11
 tags: [actor, state, classical-antiquity, archaic-period, mediterranean, western-europe]
 ---
@@ -342,8 +342,12 @@ slave-worked estates and the engrossing of *ager publicus* displacing the
 peasant-soldier — interlocked with the erosion of the
 [[roman-aristocratic-politics|oligarchy's self-regulating conventions]] and the
 unresolved [[roman-italian-alliance|grievance of the Italian allies]] to produce the
-crisis of 133. The **Gracchi**'s reforms ended in violence; armies grew loyal to
-generals (Marius, Sulla) rather than the state. A century of crisis and **civil war** — Caesar against Pompey,
+crisis of 133. The **[[tiberius-gracchus|Gracchi]]'**[[gaius-gracchus|s]] reforms ended
+in violence — and, with the first **[[senatus-consultum-ultimum|*senatus consultum
+ultimum*]]** (121), the *optimate* establishment met *popularis* challenge with force
+(see [[optimates-populares]]). **[[marius]]'** opening of the legions to the
+propertyless ([[marian-army-reforms]]) and his people-granted commands began the
+process by which armies grew loyal to generals rather than the state. A century of crisis and **civil war** — Caesar against Pompey,
 then Octavian against Antony and **Cleopatra** — ended the Republic. The victory of
 **Octavian** (Actium, 31 BCE) and his settlement as **Augustus** in 27 BCE founded the
 [[roman-empire|Principate]].

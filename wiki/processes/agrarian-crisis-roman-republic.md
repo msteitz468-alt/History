@@ -8,7 +8,7 @@ region: [italy, mediterranean-world]
 process_type: economic
 driven_by: [the post-Hannibalic confiscation of ager publicus, the inflow of conquest wealth, the spread of slave-worked estates, depopulation, the burden of long military service]
 produces: [the displacement of the peasantry, the latifundia, the law de modo agrorum, the Gracchan land reform of 133]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [process, classical-antiquity, italy]
 ---
@@ -75,16 +75,34 @@ entangled with the [[roman-italian-alliance|allies' question]] — much confisca
 *ager publicus* was being worked by **Italian allies** under their treaties, so the
 Gracchan recovery would violate their "rights and treaties" (*iura ac foedera*).
 
+## The Gracchan response and after (CAH IX, Ch. 3, Lintott)
+
+[[crook-cah-v9-1992|CAH IX]] takes up the crisis as the target of the Gracchi.
+[[tiberius-gracchus|Tiberius Gracchus']] law of **133** recovered *ager publicus*
+above the 500-*iugera* limit through a commission and redistributed it in inalienable
+allotments — the first redistribution of land **already held**, and the spark of the
+late-Republican crisis. Lintott qualifies the classic Appian/Plutarch picture: the
+growth of slave-worked **villas** is real (and the great Sicilian slave revolts
+attest the south's ranch economy), but there is **no good evidence for a general
+decline of the smallholder** before 133 outside the *ager publicus* itself, and the
+rising census figures of 131–125 suggest the allotments were initially viable.
+[[gaius-gracchus|Gaius Gracchus]] extended the programme (rents, Italian and overseas
+colonies, the refounded Carthage); the **law of 111** (the Tabula Bembina) then closed
+the redistribution by making most allotments **private property**. The pressure of
+capital on the land "became rampant" only in the dislocation of the social and civil
+wars of 90–80.
+
 ## End Conditions
 
 The process did not end in 133 — it drove a century of agrarian and military reform
-(the Gracchi, Marius' professionalised army, the Social War, the late-Republican land
-settlements). CAH VIII closes on its threshold; the Gracchi themselves belong to
-CAH IX.
+(the Gracchi, [[marian-army-reforms|Marius' professionalised army]], the Social War,
+the late-Republican land settlements for veterans). CAH VIII closes on its threshold;
+the Gracchi are treated in CAH IX.
 
 ## Related
 
-- Background to: the Gracchi (CAH IX) · process: [[roman-slavery]] ·
+- The Gracchi: [[tiberius-gracchus]] · [[gaius-gracchus]] · [[marian-army-reforms]] ·
+  process: [[roman-slavery]] ·
   [[roman-colonization]]
 - Politics: [[roman-aristocratic-politics]] · allies: [[roman-italian-alliance]]
 - Actors: [[cato-the-elder]] (the *De agri cultura* villa) · [[roman-republic]]

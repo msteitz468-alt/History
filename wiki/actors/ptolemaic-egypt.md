@@ -9,7 +9,7 @@ affiliated_with: [Macedon, the Greek and Macedonian settler class, the Egyptian 
 opposed_by: [[[seleucid-empire]], [[antigonid-dynasty]], native Egyptian revolts, [[rome|Rome]]]
 key_events: [[[wars-of-the-diadochi-323]], [[syrian-wars]], [[battle-of-raphia-217]]]
 key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]], [[ruler-cult]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [actor, dynasty, state, classical-antiquity, egypt]
 ---
@@ -110,3 +110,40 @@ Popillius Laenas forced Antiochus to withdraw. Egypt survived thereafter as
 effectively a **Roman protectorate**, its dynastic quarrels increasingly arbitrated
 at Rome — the long prelude to annexation in 30 BCE. See [[day-of-eleusis-168bce]],
 [[antiochus-iv-epiphanes]].
+
+## The later Ptolemies and the slide into Roman dependence (146–31 BCE) — CAH IX, Ch. 8c (Thompson)
+
+The last century of Ptolemaic rule is a story of **dynastic self-destruction** played
+out against the rising shadow of Rome. **Ptolemy VIII Euergetes II** ("Physcon,"
+146–116) murdered his nephew, married successively his sister and his niece (the two
+**Cleopatras**), persecuted the Alexandrian Greek intelligentsia, and fought a **civil
+war** that devastated the country (the *amixia* of 132–124) — turning increasingly to
+**native Egyptian support** (the priesthoods, Egyptian troops settled as cleruchs).
+Thompson's theme, drawn from the **papyri** (the Kerkeosiris land-surveys), is that
+**weak central control translated directly into agricultural collapse, banditry, and
+the chronic revolt of the Thebaid**, which Ptolemy IX Soter II finally crushed,
+obliterating Thebes.
+
+**Rome's pre-eminence** advanced not by conquest but by **testamentary bequest**: the
+kings, lacking heirs or seeking to forestall dynastic strife, **willed their realms to
+Rome** — Ptolemy Apion left **Cyrene** (96), and Ptolemy X Alexander I left
+**Egypt and Cyprus** (a will Rome long declined to enforce but never forgot). The
+recurrent nomination of Rome as legatee is "the clearest indication of her
+pre-eminence in Mediterranean politics."
+
+**Ptolemy XII Auletes** (80–51, "the Flute-player") survived only by **buying Roman
+favour**: declared "friend and ally" in **59** for **6,000 talents** to
+**[[pompey|Pompey]] and Caesar**; driven out by his own people when Rome annexed
+**Cyprus** (58, Cato); and **restored by force in 55** by **Gabinius**, proconsul of
+Syria, for a promised **10,000 talents** — leaving the **Gabiniani**, the first Roman
+garrison, in Egypt. He drained the kingdom's wealth (even melting Alexander's golden
+sarcophagus) to pay these debts. On his death (51) he left Egypt jointly to **Ptolemy
+XIII** and **Cleopatra VII**, naming the Roman people as witness to his will. The
+dynasty's end — Cleopatra, Caesar, Antony, and Actium (30) — belongs to CAH X.
+
+Thompson's underlying argument: beneath the dynastic melodrama, **overseas debt,
+failing Niles, and a weak unsalaried bureaucracy** hollowed out even Egypt's
+proverbial agricultural wealth, while **reciprocal Greek–Egyptian acculturation**
+(intermarriage in the cleruchies, bilingual families, the dynastic cult fused with
+village temples) slowly advanced — but "not even the strength and power of the gods of
+Egypt could resist the force of Rome."

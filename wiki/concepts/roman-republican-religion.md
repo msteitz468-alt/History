@@ -8,7 +8,7 @@ origin: >
 applies_to_periods: [Archaic Period, Classical Antiquity]
 applies_to_regions: [mediterranean, western-europe]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [concept, classical-antiquity, archaic-period, mediterranean, western-europe]
 ---
@@ -333,11 +333,49 @@ an "a priori scheme" imposed on the evidence. The debate is not resolved; North'
 empiricism is now more influential in Anglo-American scholarship but Dumézil
 retains adherents in French classical studies.
 
+## Religion in the Ciceronian age: continuity and change (CAH IX, Ch. 19, Beard)
+
+Mary Beard's chapter on the **late Republic (146–44)** restates and sharpens the
+"embedded" thesis and resists the old narrative of religious **decline**:
+
+- **Religion was embedded in politics, not a separate "establishment religion."**
+  Its centre was "politics, military activity, and public life" — the gods actively
+  ensured Rome's safety and victory in return for correct ritual (the reversible axiom:
+  Rome's *failures* implied a lapse in cult). The **Senate** was the principal religious
+  authority; the priestly colleges were repositories of **knowledge**, not power;
+  priests were the **same men** who held the magistracies. Political action was
+  physically located in **religious space** (the Senate met in a *templum*; the rostra
+  was a *templum*). Beard stresses the **alienness** of this undifferentiated system to
+  the modern mind.
+- **Public, not private, belief.** Roman religion was "ideologically committed to the
+  public sphere"; private devotion (votives, *lararia*, the cult of Ceres among the
+  poor) existed but was drawn into civic display. **Personal "faith" is the wrong
+  category** — for nearly all Romans the gods "simply and self-evidently existed."
+- **Against the "decline" myth.** The image of late-Republican religion as chaotic and
+  neglected is, Beard argues, an artefact of the **sources**: Cicero reports only
+  *anomaly and crisis* (undigested, contemporary), where Livy gives ordered hindsight
+  and the Augustan poets construct a "convenient foil" of late-Republican impiety to
+  flatter the **Augustan restoration**. In fact temples (Pompey's Venus Victrix,
+  Hercules, Minerva; the rebuilt Capitol) continued to be founded and repaired.
+- **Disruption as the failure of old rules in unprecedented situations.** The real
+  late-Republican strain was not impiety but the **impossibility of resolving new cases
+  by traditional rules** — e.g. **Bibulus** (59) "watching the sky" by message against
+  [[julius-caesar|Caesar's]] laws (was *obnuntiatio* valid if not announced in person?),
+  and the **Bona Dea** sacrilege of [[catiline|Clodius]] (62/61). Both show the system
+  **still being applied**, not abandoned — its conventions simply had no answer for the
+  violence and one-man power of the age (culminating in the **deification of Caesar**).
+
+Beard's governing theme is the **active interrelationship of continuity and change**:
+superficially unchanging rituals (the Parilia) acquired wholly new meanings (the
+birthday of Rome; Caesar's Munda victory), while continuity of attitude was upheld
+precisely *through* adaptation of form.
+
 ## Related
 
+- Companion (CAH IX): [[late-republican-intellectual-culture]] · [[plebs-urbana]]
 - Actor: [[roman-republic]] · [[roman-patriciate]]
 - Concept: [[roman-provincial-system]] · [[roman-comitia-centuriata]]
 - Event: [[lex-ogulnia-300bce]] · [[bacchanalian-affair-186bce]]
 - Process: [[struggle-of-the-orders]]
 - Controversy: [[reliability-of-early-roman-tradition]]
-- Source: [[walbank-cah-v7-2-1989]] (Ch. 12, North)
+- Source: [[walbank-cah-v7-2-1989]] (Ch. 12, North) · [[crook-cah-v9-1992]] (Ch. 19, Beard)

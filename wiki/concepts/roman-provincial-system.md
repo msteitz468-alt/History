@@ -5,7 +5,7 @@ origin: "Emerged ad hoc from the administrative needs of Sicily (after 241 BCE) 
 applies_to_periods: [Classical Antiquity, Late Antiquity]
 applies_to_regions: [mediterranean, iberia, north-africa, anatolia, western-europe]
 contested: no
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [concept, classical-antiquity, mediterranean]
 ---
@@ -124,6 +124,54 @@ the struggle over the spoils of conquest, and the first known *provincia* assign
 by popular vote. Much of Carthage's land became *ager publicus*; a poll-tax and
 *stipendium* were imposed, with privileged exceptions (Utica).
 
+## *Provincia* as task, not territory — the late-Republican system (CAH IX, Ch. 15, Richardson)
+
+Richardson's chapter insists that **"provincial administration" was not a Roman
+concept**. A ***provincia*** was originally **a task or sphere assigned to a
+magistrate** (Livy calls a tribe, a fleet, or "the war against Hannibal" a *provincia*;
+the treasury was a quaestor's), not a defined territory. The naming of an area as a
+*provincia* was a **command to wage war there**, *not* an act of annexation: Macedonia
+was a *provincia* from 211 but only regularly so after 148, and the four republics of
+Paullus' settlement (167) persisted unchanged. Conversely, Romans **taxed, judged, and
+reorganized communities that were not provinciae at all** (Glabrio "giving" land to
+Delphi, 190; Paullus freeing the slaves of Lascuta, 189). "Provincial administration"
+thus accreted **piecemeal, by default**, out of the by-products of military command —
+political relations, taxation, and jurisdiction — and only the **permanence of the
+military presence** gradually turned a *provincia* into a "province."
+
+### The basis and limits of the governor's power
+
+The governor's authority was always that of a **holder of *imperium*** — a magistrate
+(consul/praetor, elected) or **promagistrate** (proconsul/propraetor, his command
+**prorogued** by the Senate). *Provinciae* were allotted by the Senate (by *sortitio*
+or, for consuls, *comparatio*), but increasingly **assigned by popular law** to
+particular men — Marius vs. Metellus over Numidia (107), then the great commands of
+[[pompey-pirate-command-67bce|Pompey]], Caesar, and Crassus. **Control of governors was
+strikingly weak**: while in his *provincia* and holding *imperium*, a governor could
+"slaughter and enslave" (Galba's Lusitanians) or plunder (Verres) with near-impunity.
+The checks were all retrospective or external:
+
+- the ***quaestio de repetundis*** (the [[roman-public-law|extortion court]], from 149;
+  enlarged by Sulla and by Caesar's *Lex Iulia* of 59) — usable only after his return,
+  and only by wealthy, well-connected provincials;
+- **Sulla's *Lex Cornelia de maiestate*** — forbidding a governor to leave his
+  *provincia*, make war, or invade a kingdom **without authority** (codifying earlier
+  rules);
+- **Pompey's *Lex de provinciis* (52)** — a **five-year gap** between magistracy and
+  command (to curb electoral-debt-driven extortion), foreshadowing the Augustan
+  separation of office from province.
+
+### The governor's staff
+
+A governor commanded a small entourage, not a bureaucracy: the **quaestor** (an
+elected magistrate, responsible for finance, in a quasi-filial relation to the
+governor); **legati** of senatorial rank (chosen with the governor's input, used mainly
+for military tasks); the lower-class **apparitores** (lictors, *scribae*/clerks); and
+the **cohors amicorum** — friends without office who, with the quaestor and legati,
+formed the governor's ***consilium***, the advisory council whose consultation was a
+**moral necessity** of proper rule (Verres condemned for judging "without a
+*consilium*").
+
 ## Limitations and Critique
 
 The Roman provincial system was **minimalist by design** — not because Rome had a
@@ -149,5 +197,6 @@ implications for the manner in which a vast empire was administered."
 - Process: [[romano-punic-treaties]] · [[roman-expansion-italy]] · [[empire]]
 - Actor: [[roman-republic]] · [[hiero-ii-of-syracuse]] (whose Hieronic law became
   the administrative template) · debate: [[nature-of-roman-imperialism]]
+- Companion (CAH IX): [[roman-public-law]] · [[roman-private-law]]
 - Sources: [[walbank-cah-v7-2-1989]] (Postscript by Astin) · [[astin-cah-v8-1989]]
-  (Ch. 5, Harris)
+  (Ch. 5, Harris) · [[crook-cah-v9-1992]] (Ch. 15, Richardson)
