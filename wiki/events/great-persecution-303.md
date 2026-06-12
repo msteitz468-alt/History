@@ -73,5 +73,6 @@ of the Roman world.
 - Launched by [[diocletian]] and the [[roman-tetrarchy|tetrarchy]]; ended via Galerius' edict (311)
   and the [[edict-of-milan-313|Edict of Milan]]; the road to [[constantine-the-great|Constantine]]
 - [[origins-of-christianity|Christianity]] and the [[christianization-of-the-roman-empire|Christianization]]
-  of the empire (fuller treatment in CAH XII Ch. 18b, Cycle 6)
-- Source: [[bowman-cah-v12-2005]] (Ch. 3, Alan Bowman)
+  of the empire; the systematic edicts climax the otherwise intermittent persecution traced in
+  [[third-century-christianity]] (Clarke), the culmination of the "persecution from below" pattern
+- Sources: [[bowman-cah-v12-2005]] (Ch. 3, Alan Bowman; Ch. 18b, Graeme Clarke)
