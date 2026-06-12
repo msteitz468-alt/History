@@ -58,7 +58,7 @@ the Large-Volume Protocol. The senior editor (Lewis) is shared with Vol. V, henc
 | 5 | dionysius-i, bosporan-kingdom, odrysian-kingdom, celts (4) | syracuse, carthage, thracians (3) |
 | 6 | plato, aristotle, greek-federalism, greek-warfare (4) | city-state, classical-greek-art (2) |
 | 7 | philip-ii-of-macedon, battle-of-chaeronea-338bce, league-of-corinth, dionysius-ii, dion-of-syracuse, timoleon (6) | western-greek-tyranny (1) |
-| 8 | | |
+| 8 | battle-of-gaugamela-331bce (1) | alexander-the-great (1) |
 
 ## Volume Synthesis Note
 

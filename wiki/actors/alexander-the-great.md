@@ -5,12 +5,12 @@ date_start: 356 BCE (born, Pella, Macedon)
 date_end: 323 BCE (died, Babylon)
 period: [Classical Antiquity]
 region: [balkans, anatolia, levant, mesopotamia, iran-plateau, central-asia, south-asia, north-africa]
-affiliated_with: [[[macedon|Macedon]], the Argead dynasty]
+affiliated_with: [[[philip-ii-of-macedon|Philip II]], Macedon, the Argead dynasty, the [[league-of-corinth|League of Corinth]]]
 opposed_by: [[[achaemenid-empire|Achaemenid Persia]] (Darius III), Porus, Tyre, Greek city-states]
-key_events: [conquest of the Achaemenid Empire 334-330 BCE, founding of Alexandria 331 BCE, Indian campaign 327-325 BCE]
+key_events: [accession 336 BCE, conquest of the Achaemenid Empire 334-330 BCE ([[battle-of-gaugamela-331bce|Gaugamela]]), founding of Alexandria 331 BCE, Indian campaign 327-325 BCE, death at Babylon 323 BCE]
 key_processes: [[[empire]], Hellenization, [[trade-network-formation]], [[silk-roads]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, mediterranean, near-east]
 ---
 
@@ -56,6 +56,44 @@ of cosmopolitan, divinized kingship inherited by [[roman-empire|Rome]] and beyon
 policy of fusion (intermarriage, recruiting Persians, adopting Persian court ritual)
 remains the central interpretive puzzle.
 
+## The fourth-century culmination (CAH VI)
+
+[[lewis-cah-v6-1994|CAH Vol. VI]] gives Alexander the detailed treatment of the
+fourth-century narrative (Chs. 16–17, A. B. Bosworth, "The events of the reign" and "Greece
+and the conquered territories") and a synthesizing **Epilogue** (Ch. 18, Simon Hornblower)
+that places the conquest in context. Two themes stand out.
+
+**Alexander as culmination, not miracle.** Hornblower presents Alexander as "**a kind of
+climax to already discernible tendencies**" of the fourth century rather than a man born
+with a "mission." Behind him stand the autocrats this volume has surveyed: **[[dionysius-i|
+Dionysius I]]** of Syracuse (the "**prototype**" — a forceful military despot "effective
+simply by knowing where he was going"), **[[mausolus]]** the semi-autonomous satrap, the
+**[[bosporan-kingdom|Bosporan kings]]** — all, like Alexander, balancing rule over
+"freedom-conscious Greeks" and "more absolute" mastery of non-Greeks, often through
+**different titulature** for each. Hornblower warns against the slide from "the Great" (a
+title first attested in Roman sources) toward an illusion of **inevitability** and a
+"great-man" reading: to contemporaries he was simply "Alexander the Macedonian."
+
+**Why Macedon invaded Asia.** The Epilogue offers a three-tiered explanation:
+1. **Short-term — Philip's inheritance.** "Alexander conquered the Persian empire only
+   because **[[philip-ii-of-macedon|Philip]] had planned its conquest**": the army, the
+   commanders, the deification precedent, and the expedition itself were Philip's, already
+   begun by 336. Aborting it "would itself have required a definite decision." The campaign
+   up to **[[battle-of-gaugamela-331bce|Gaugamela]]** "resembles a game of chess," dictated
+   by the moves of Darius III; the one free gamble — swinging **west to Egypt** after Issus
+   — was driven by economics (Egypt's wealth).
+2. **Medium-term — revenge for 480.** The panhellenist motif of avenging Xerxes' impiety,
+   formalized in the **[[league-of-corinth|League of Corinth]]** and dramatized by Philip's
+   (and Alexander's) rebuilding of **Plataea** — though Polybius dismissed it as a pretext.
+3. **Long-term** — the deep, centuries-old Greek preoccupation with the Persian Wars and
+   the recurring [[march-of-the-ten-thousand-401bce|panhellenist dream]] of Persia's
+   vulnerability.
+
+The volume thus closes by binding Alexander back into the fourth century it has narrated:
+the heir of Philip, of Sicilian and satrapal monarchy, and of the long Greek argument with
+Persia — the figure in whom the exhausted world of the [[city-state|polis]] gave way to the
+age of the territorial kingdom.
+
 ## Historiography
 
 No contemporary account survives intact; the narrative rests on later writers (Arrian,
@@ -65,3 +103,10 @@ megalomaniac; how deliberate was "Hellenization"; and how much of the Hellenisti
 synthesis was his design versus the work of his successors and local elites. His
 legend (the Alexander Romance) circulated across Afro-Eurasia from Europe to Iran and
 India — itself a marker of the connected world he helped create.
+
+## Related
+
+- Father/architect: [[philip-ii-of-macedon]] · hegemony: [[league-of-corinth]] · teacher: [[aristotle]]
+- Enemy: [[achaemenid-empire]] (Darius III) · decisive battle: [[battle-of-gaugamela-331bce]]
+- Fourth-century precursors: [[dionysius-i]] · [[mausolus]] · [[bosporan-kingdom]] · panhellenist root: [[march-of-the-ten-thousand-401bce]]
+- Sequel: [[hellenistic-world]] · Sources: [[benjamin-cwh-v4-2015|CWH IV]] · [[lewis-cah-v6-1994|CAH VI]] (Chs. 16–18, Bosworth & Hornblower)
