@@ -9,8 +9,8 @@ affiliated_with: [[[sparta]], [[agesilaus-ii|Agesilaus II]], [[cyrus-the-younger
 opposed_by: [[[athens]] (which exiled him), Thebes, Persia]
 key_events: [the march of the [[march-of-the-ten-thousand-401bce|Ten Thousand]] 401–399 BCE, exile from Athens, settlement at Scillus]
 key_processes: [[[fourth-century-greek-historiography]], the writing of the first Greek biography and memoir]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [actor, person, classical-antiquity, aegean]
 ---
 
@@ -74,6 +74,19 @@ witness for social, military, religious and economic history:
   later treatises "On Kingship"), the *Hipparchicus* on cavalry command, the *Poroi*
   (*Ways and Means*) on Athenian revenues and the **Laurium** mines, and the
   *Oeconomicus* on estate management (see [[greek-agriculture]]).
+
+## The Primary Text (now ingested)
+
+His masterpiece is now ingested as **[[xenophon-expedition-of-cyrus|*The Expedition of Cyrus*
+(*Anabasis*)]]** (Waterfield trans., OWC; intro/notes Tim Rood) — the **first known military memoir**,
+yet one that hides its author: Xenophon narrates his own deeds in the **third person** and, the
+*Hellenica* implies, behind the alias **"Themistogenes of Syracuse"** (read by Plutarch as a
+pseudonym to soften his self-praise). Rood surveys the debate over its purpose — **self-defence**
+(apologia for his command), a riposte to a rival account, and/or **panhellenist propaganda**
+advertising Persian vulnerability and Xenophon's own fitness to lead an invasion of Asia. Beneath the
+"pretentiously simple" surface (T. E. Lawrence) it is a vivid study of a Greek army as a mobile
+*polis* — electing generals, debating in assembly, sacrificing and reading omens — and the source of
+the proverbial cry **"Thalatta! Thalatta!"**
 
 ## Significance
 

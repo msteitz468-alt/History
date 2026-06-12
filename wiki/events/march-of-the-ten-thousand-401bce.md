@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [Cyrus the Younger's bid to seize the Persian throne from his brother, the availability of Greek mercenaries after the Peloponnesian War, inter-satrapal rivalry in western Anatolia]
 consequences: [the death of Cyrus and collapse of his coup, the fighting retreat of the Greek army to the Black Sea, the panhellenist myth of Persian vulnerability, Xenophon's Anabasis]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [event, classical-antiquity, anatolia, near-east]
 ---
 
@@ -55,9 +55,10 @@ Alexander]]** would eventually carry out.
 ## Consequence Analysis
 
 caused_by: [[cyrus-the-younger|Cyrus']] failed bid for the throne and the post-war glut
-of Greek mercenaries. produced: [[xenophon|Xenophon's]] *Anabasis*; the panhellenist
-conviction of Persian weakness that shaped a century of Greek thinking about Asia and
-ultimately the [[alexander-the-great|Macedonian conquest]].
+of Greek mercenaries. produced: [[xenophon|Xenophon's]] *Anabasis* (now ingested as
+[[xenophon-expedition-of-cyrus|*The Expedition of Cyrus*]] — itself an instrument of the panhellenist
+case it helped create); the panhellenist conviction of Persian weakness that shaped a century of
+Greek thinking about Asia and ultimately the [[alexander-the-great|Macedonian conquest]].
 
 ## Related
 
