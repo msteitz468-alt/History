@@ -1370,3 +1370,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-11 section | CAH X — The Augustan Empire | Section: Cycle 4 — Tiberius to Vespasian: the Julio-Claudians & the Year of the Four Emperors (Chs 5–6, Wiedemann) | Pages created: 7 | Pages updated: 0
 
 ## 2026-06-11 section | CAH X — The Augustan Empire | Section: Cycle 5 — Government & administration of the empire (Chs 7–12: court, finances, Senate, provinces, army, justice) | Pages created: 6 | Pages updated: 0
+
+## 2026-06-11 section | CAH X — The Augustan Empire | Section: Cycle 6 — The Western provinces (Ch 13: Italy, Spain, Gaul, Germany, the Danube/Balkans, Africa) | Pages created: 7 | Pages updated: 0
