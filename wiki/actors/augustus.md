@@ -9,7 +9,7 @@ affiliated_with: [the Caesarian cause; the Second Triumvirate; the Principate he
 opposed_by: [the Liberators; Mark Antony; Sextus Pompeius; Lepidus]
 key_events: [the [[second-triumvirate|triumvirate]] (43), [[battle-of-philippi-42bce|Philippi]] (42), the Perusine War (41–40), the defeat of Sextus (36), [[battle-of-actium-31bce|Actium]] (31), [[death-of-antony-and-cleopatra-30bce|Alexandria]] (30), the settlements of 27 and 23 BCE]
 key_processes: [the foundation of the Principate]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, italy]
 ---
@@ -103,4 +103,6 @@ enthusiasm for Octavian "comes less naturally to us now."
 - System: [[principate]] · transformed: [[roman-republic]] · successor: Tiberius
 - Source: [[bowman-cah-v10-1996]] (Chs. 1–3, Pelling & Crook); the ancient *Life* is now ingested as
   **[[suetonius-lives-of-the-caesars|Suetonius, *Lives of the Caesars*]]** (the longest and most
-  admiring of the twelve), alongside his own **Res Gestae**.
+  admiring of the twelve), alongside his own **Res Gestae**. The Augustan literary world — and its
+  tensions — appears in the ingested **[[ovid-metamorphoses|Ovid]]**, whom Augustus exiled to Tomis in
+  8 CE.
