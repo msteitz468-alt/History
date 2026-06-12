@@ -13,7 +13,7 @@ scale_immediate: hemispheric
 scale_consequential: hemispheric
 causes: ["Trade networks linking the Red Sea and Mediterranean", "Infestation of black rats and fleas carrying Yersinia pestis"]
 consequences: ["Demographic collapse (estimated 25-50% population loss)", "Fiscal crisis and labor shortages", "Crippling of military recruitment for the reconquests", "Abandonment of arable land (agri deserti) and ruralization"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [event, late-antiquity, mediterranean-world]
 ---
@@ -68,4 +68,7 @@ The plague severely altered the trajectory of the late antique world:
 
 *   **Actors**: [[justinian]] · [[successors-of-justinian]] · [[lombards]]
 *   **Controversies**: [[causes-of-the-fall-of-the-western-roman-empire]]
-*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]
+*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]; the great eyewitness account of
+    **[[john-of-ephesus|John of Ephesus]]** is now ingested in
+    **[[pseudo-dionysius-zuqnin-chronicle|Pseudo-Dionysius of Tel-Mahre, Chronicle Part III]]** — a key
+    independent witness alongside Procopius.
