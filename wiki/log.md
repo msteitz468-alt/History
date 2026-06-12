@@ -1650,3 +1650,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | NCMH VI — c. 1300–c. 1415 (Jones ed., 2000) | Section: Cycle 5 — Part II "The Empire, the Low Countries & Iberia" (Adolf of Nassau→Lewis of Bavaria; the Luxemburgs & Rupert; the Low Countries; Crown of Aragon; Castile, Navarre & Portugal) | Pages created: 1 | Pages updated: 3
 
 ## 2026-06-12 section | NCMH VI — c. 1300–c. 1415 (Jones ed., 2000) | Section: Cycle 6 — Part III "The Church" (the Avignon papacy; the Great Schism) | Pages created: 2 | Pages updated: 1
+
+## 2026-06-12 section | NCMH VI — c. 1300–c. 1415 (Jones ed., 2000) | Section: Cycle 7 — Part IV "Eastern & Northern Europe" (Baltic Europe; the kingdoms of central Europe; the principalities of Rus′) | Pages created: 2 | Pages updated: 3

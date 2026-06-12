@@ -9,7 +9,7 @@ affiliated_with: [the Holy Roman Empire (Bohemia), the Latin Church, German sett
 opposed_by: [the [[mongol-invasion-of-europe-1241|Mongols/Tatars]], each other, the high nobility]
 key_events: [the Golden Bull of Hungary (1222), the [[mongol-invasion-of-europe-1241|Tatar invasion (1241)]], the rise and fall of Ottokar II of Bohemia]
 key_processes: [the "second westernisation" of central Europe, German eastward settlement, baronial constitutionalism]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, eastern-europe]
 ---
@@ -61,6 +61,28 @@ reform. Rowell stresses the period's **baronial constitutionalism**: the Golden 
 [[magna-carta-1215|English]] and Jerusalemite developments — the same "new general European
 order" of military Orders, reformed chapters and a powerful high nobility, now embracing the
 Slavonic and Magyar east.
+
+## The Fourteenth-Century Apogee (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (Claude Michaud, Ch. 18) makes the fourteenth century the **apogee**
+of the three kingdoms, each associated "with the vigorous personality of an exceptional sovereign"
+after the extinction of their old native dynasties and a phase of succession crisis:
+
+- **Bohemia** under the **Luxemburgs** — above all **Charles IV** (king 1346, emperor 1355–1378),
+  the *pater patriae*, who made **Prague** an imperial capital, founded its **university (1348)**,
+  and issued the **[[holy-roman-empire-late-medieval|Golden Bull of 1356]]**.
+- **Poland**, reunited at Cracow (1320), reached its height under **Casimir III "the Great"**
+  (1333–1370) — the only Polish king so surnamed — who codified the law, founded the University of
+  Cracow (1364), built towns and castles, and welcomed Jewish settlement; lacking an heir, he passed
+  the crown to the **Angevins of Hungary**.
+- **Hungary** under the **Angevins** — **Charles-Robert** (Caroberto), who broke the magnate
+  "feudal anarchy," and his son **Louis "the Great"** (1342–1382), the realm's golden age, who for a
+  time also held Poland.
+
+These "long and great reigns marked a period of clear equilibrium," and a tendency toward the
+**union of crowns** by dynastic marriage — the Přemyslid Wenceslas III had briefly held all three
+thrones (1305) — that foreshadowed the Jagiellonian hegemony, sealed when Poland's crown passed to
+[[grand-duchy-of-lithuania|Lithuania's]] Jogaila (the Union of Krewo, 1385).
 
 ## Related
 

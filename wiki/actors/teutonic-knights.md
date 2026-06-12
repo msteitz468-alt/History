@@ -9,7 +9,7 @@ affiliated_with: [the papacy, the Holy Roman Empire, the German ministeriales an
 opposed_by: [the pagan Prussians, the Lithuanians and Samogitians, the dukes of Pomerelia]
 key_events: [the Golden Bull of Rimini (1226), the conquest of Prussia (from 1230), the absorption of the Brethren of the Sword (1237), the Treaty of Christburg (1249)]
 key_processes: [the Baltic Crusade, the Ostsiedlung (German eastward settlement)]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, organization, high-middle-ages, eastern-europe, northern-europe]
 ---
@@ -62,6 +62,20 @@ religious corporation that became a territorial sovereign on the pagan Baltic fr
 crusade, colonisation and German eastward expansion — the matrix of later Prussia. Its turn to
 the Baltic was confirmed when the **[[fall-of-acre-1291|fall of Acre]]** (1291) ended the
 Order's Levantine raison d'être.
+
+## The Fourteenth-Century Ordensstaat and Its Crisis (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (S.C. Rowell, Ch. 17) shows the Order's **monastic state
+(*Ordensstaat*)** at its height in the fourteenth century — a centralised, bureaucratic, prosperous
+territory (its grand master's residence the vast brick castle of **Marienburg**), enriched by the
+[[hanseatic-league|Hanseatic]] grain and amber trade and by a steady stream of crusading volunteers.
+Its great enterprise was the ***reysa*** — the seasonal crusade against pagan
+**[[grand-duchy-of-lithuania|Lithuania]]**, "established in the chivalric calendar throughout the
+Catholic world" (Chaucer's Knight rode "in Lettow... and in Ruce"). But the Order's raison d'être
+**collapsed** when Lithuania converted to Catholicism in the **Union of Krewo (1385–1386)** and
+joined Poland: the crusade lost its justification, and the combined Polish–Lithuanian power crushed
+the Order at **Tannenberg/Grunwald (1410)** — beginning the long decline that ended its
+sovereignty in 1525.
 
 ## Related
 

@@ -9,7 +9,7 @@ affiliated_with: [the Riurikid dynasty, the Orthodox Church (the metropolitan of
 opposed_by: [the [[mongol-empire|Mongols/Golden Horde]], the Polovtsians, Catholic Poland/Hungary (in the west)]
 key_events: [the battle of the Kalka (1223), the fall of Vladimir (1238) and Kiev (1240)]
 key_processes: [the fragmentation of Kievan Rus′, the Mongol conquest and the "Tatar yoke"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, eastern-europe]
 ---
@@ -58,6 +58,21 @@ a **reorientation of power northward and eastward** — away from Kiev toward Vl
 (under figures like Alexander Nevsky) and the rising Moscow — and the long subordination of the
 eastern Slavs to a steppe overlord, while the south-western lands (Galicia-Volyn) gravitated
 toward Catholic Poland and Hungary.
+
+## The Fourteenth Century: The Rise of Moscow and Lithuania (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (Nancy Shields Kollmann, Ch. 19) carries the story forward: "the
+state centred at Moscow that became Russia emerged from one of the Rus′ principalities over the
+course of the century." In c. 1300 the lands were still marked by "political and cultural diversity"
+under the overlordship of the **Golden Horde** (the Kipchak khanate at Sarai). Two powers then rose
+to gather the Rus′ inheritance: in the west, the **[[grand-duchy-of-lithuania|Grand Duchy of
+Lithuania]]**, which absorbed Smolensk, Kiev and the western principalities (the future Ukrainian and
+Belarusian lands); and in the north-east, the **principality of Moscow**, whose princes won the
+khans' favour, the office of grand prince, and the seat of the Orthodox **metropolitan**. Moscow's
+prestige rose sharply when **Dmitrii Donskoi** defeated a Horde army at **Kulikovo (1380)** —
+though Tatar overlordship was soon reimposed. By 1400 the Rus′ world was effectively partitioned
+between a **Lithuanian** west and a **Muscovite** north-east — the configuration from which modern
+Russia, Ukraine and Belarus would emerge.
 
 ## Related
 

@@ -14,8 +14,8 @@ reliability_notes: >
   or stripped, and map plates are garbage. Navigate by chapter-title headings (all-caps in the
   OCR) and running footers, as done for Vols 1–5. Editor: Michael Jones (Nottingham). Replaces the
   old CMH Vol. VII, "Decline of the Empire and Papacy."
-pages_created: 16
-pages_updated: 17
+pages_created: 18
+pages_updated: 20
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -110,6 +110,13 @@ follow c. line 38500. These are not read as content.
   Captured Zutshi on the Avignon papacy (the seven popes, the Palais des Papes, fiscalism) and
   Kaminsky on the Great Schism (the 1378 conclave, the rival obediences, the conciliar resolution at
   Constance). (Pages created: 2 | Pages updated: 1.)
+- **2026-06-12 — Cycle 7 (Part IV, "Eastern & Northern Europe").** Created
+  `actors/grand-duchy-of-lithuania.md` and `actors/hanseatic-league.md`. Updated
+  `actors/teutonic-knights.md` (the fourteenth-century Ordensstaat, the *reysa*, Tannenberg 1410),
+  `actors/central-european-kingdoms.md` (the apogee under Charles IV, Casimir the Great & Louis the
+  Great), and `actors/rus-principalities.md` (the rise of Moscow & Lithuania, Kulikovo 1380).
+  Captured Rowell on Baltic Europe, Michaud on the central European kingdoms, and Kollmann on the
+  Rus′. (Pages created: 2 | Pages updated: 3.)
 
 ## Volume Synthesis Note
 
