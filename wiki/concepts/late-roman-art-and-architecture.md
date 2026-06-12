@@ -99,3 +99,29 @@ art of late antiquity.
 - `contrasts_with:` the naturalistic classicism of the [[high-empire|High Empire]] and the homogeneous
   late-antique art of CAH XIII
 - Source: [[bowman-cah-v12-2005]] (Ch. 19, Janet Huskinson)
+
+## The fourth century: art and the pagan/Christian dichotomy (CAH XIII)
+
+[[cameron-cah-v13-1998|CAH XIII]] Ch. 24 (**Jas Elsner**) carries the story to 425, calling late-antique art
+"one of the great transitions in the history of western art" — the first wholesale shift of the classical
+canon **toward abstraction** since the fifth century BCE. Elsner's arguments:
+
+- **Continuity *and* innovation, not decline.** Imperial art traditions persisted (the colossal bronze of
+  Constantius II, the Theodosian marble portraits, the columns of Theodosius and Arcadius, the obelisk base
+  of Theodosius, great basilical churches). The apparent "decline" in large-scale sculpture is better read
+  as a **transference of patronage to new media** — superb **ivories, silver treasure** (Sevso,
+  Kaiseraugst), **wall/vault mosaics**, *opus sectile*, glass cage-cups, and the **illuminated codex**
+  (the Vatican Virgil) — not "degeneration of skill."
+- **Christianization of the cityscape**: emperors now built **churches not temples**, and in Rome the great
+  martyr-churches rose on the **periphery** (St Peter's, S. Lorenzo, S. Agnese *fuori le mura*) — reshaping
+  the experience of the processional city.
+- **The methodological key — images are "multi-strand."** Elsner attacks the assumption that a
+  Christian-themed image proves a Christian patron, or that "single images have single meanings." The same
+  motif (the sacrifice of Isaac, say) could be made by, and **carry meaning for, pagans, Jews and
+  Christians alike** — dissolving the rigid **pagan/Christian dichotomy** and the static reading of
+  spolia. The fourth century was a "high point of religious imagery" shared across sects.
+
+This dovetails with the volume's broader anti-"decline," anti-dichotomy reading (Brown, Cameron): late-
+antique visual culture as a **vital, shared, transforming** repertoire, not a degraded one.
+
+- Source (fourth century): [[cameron-cah-v13-1998]] (Ch. 24, Jas Elsner)
