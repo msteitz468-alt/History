@@ -9,7 +9,7 @@ affiliated_with: [[[roman-empire]], [[origins-of-christianity]]]
 opposed_by: [[[maxentius]], [[licinius]]]
 key_events: [[[battle-of-the-milvian-bridge-312]], [[edict-of-milan-313]], [[council-of-nicaea-325]], [[founding-of-constantinople-330]]]
 key_processes: [[[christianization-of-the-roman-empire]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, person, late-antiquity, italy]
 ---
@@ -76,4 +76,7 @@ his sons' bloody elimination of rivals.
   of the empire, [[origins-of-christianity|Christianity]]
 - His city: [[founding-of-constantinople-330]]; built on [[diocletian|Diocletian's]]
   [[roman-tetrarchy|reforms]]
-- Source: [[bowman-cah-v12-2005]] (Ch. 4, Averil Cameron)
+- Source: [[bowman-cah-v12-2005]] (Ch. 4, Averil Cameron); texts of Constantine and his Christian legend
+  are now ingested in **[[edwards-constantine-and-christendom|Constantine and Christendom]]** — the
+  (disputed) *Oration to the Saints*, the *Discovery of the Cross*, and the
+  [[donation-of-constantine|Donation of Constantine]].

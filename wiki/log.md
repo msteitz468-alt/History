@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | Constantine and Christendom (TTH 39; trans./intro Mark J. Edwards) | Late Antiquity, Early Middle Ages | mediterranean, italy, levant | Pages created: 1 | Pages updated: 2
+
 ## 2026-06-12 ingest | The Ecclesiastical History of Evagrius Scholasticus (TTH 33; trans./intro Michael Whitby) | Late Antiquity | levant, near-east, anatolia | Pages created: 2 | Pages updated: 2
 
 ## 2026-06-12 ingest | The Chronicle of Pseudo-Joshua the Stylite (TTH 32; trans./intro Trombley & Watt) | Late Antiquity | mesopotamia, near-east | Pages created: 2 | Pages updated: 1

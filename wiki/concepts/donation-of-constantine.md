@@ -5,7 +5,7 @@ origin: a forged document produced in the Frankish-papal milieu of the 8th centu
 applies_to_periods: [Early Middle Ages]
 applies_to_regions: [mediterranean, western-europe]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -50,3 +50,7 @@ documents can be tested and dated by internal evidence.
 NCMH II treats the Donation within the larger problem of **forgery and the cult of the written record** in
 the early medieval West. The exact date and place of composition (Rome vs. Francia; 750s–760s vs. later) and
 its precise intended use remain debated among specialists.
+
+The text itself is now ingested (as "The Edict of Constantine to Pope Silvester") in
+**[[edwards-constantine-and-christendom|Constantine and Christendom]]** (TTH 39), alongside the related
+Constantinian legends — the *Oration to the Saints* and the *Discovery of the Cross*.
