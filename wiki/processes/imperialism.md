@@ -8,7 +8,7 @@ region: [global]
 process_type: [political, economic, ideological]
 driven_by: [[[industrialization]], inter-state competition, [[fossil-fuel-energy-transition|new transport and military technology]], capitalist demand for raw materials and markets, ideologies of civilization and race]
 produces: [the New Imperialism / scramble for Africa, colonial states, [[decolonization]], modern globalization, post-colonial inequalities]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-06-12
 tags: [process, long-19th-century, global]
 ---
@@ -111,4 +111,6 @@ and the colonial production of famine see **[[davis-late-victorian-holocausts|Da
 Holocausts*]]** (the [[late-victorian-famines-1876|El Niño famines of 1876–1902]] and the "making of the
 Third World") and **[[hochschild-king-leopolds-ghost|Hochschild, *King Leopold's Ghost*]]**
 (the [[congo-free-state|Congo Free State]]); for the
-critique of imperial knowledge, **[[said-orientalism|Said's *Orientalism*]]**.
+critique of imperial knowledge, **[[said-orientalism|Said's *Orientalism*]]** and, for the administrative
+machinery of "[[colonial-knowledge|colonial governmentality]]" (census, survey, legal codification),
+**[[cohn-colonialism-forms-of-knowledge|Cohn's *Colonialism and Its Forms of Knowledge*]]**.

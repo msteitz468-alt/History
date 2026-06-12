@@ -5,7 +5,7 @@ origin: Edward Said, Orientalism (1978), drawing on Foucault's discourse theory 
 applies_to_periods: [Long 19th Century, World Wars Era, Cold War, Contemporary]
 applies_to_regions: [near-east, south-asia, north-africa, western-europe, transregional]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -49,5 +49,7 @@ critics, however, concede that it permanently changed the terms of debate.
 
 - `defined_by:` [[said-orientalism|Edward Said]] (drawing on Foucault and Gramsci); `analyzes:`
   [[imperialism|imperialism]] and Western knowledge of the East.
-- `founded:` postcolonial studies; `related_to:` [[cohn-colonialism-forms-of-knowledge|colonial forms of
-  knowledge]] (Cohn) and [[eurocentrism|Eurocentrism]].
+- `founded:` postcolonial studies; `complemented_by:` [[colonial-knowledge|colonial forms of knowledge]]
+  (Cohn's *[[cohn-colonialism-forms-of-knowledge|Colonialism and Its Forms of Knowledge]]*, which traces
+  the administrative machinery — census, survey, law — behind the discourse) and
+  [[eurocentrism|Eurocentrism]].
