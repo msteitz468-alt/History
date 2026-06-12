@@ -97,3 +97,28 @@ central plank of the volume's broader case for **continuity over catastrophe**.
   [[christianization-of-the-roman-empire|the church]]
 - The best-documented case: [[roman-egypt|Egypt]] (CAH XII Ch. 10)
 - Source: [[bowman-cah-v12-2005]] (Ch. 9, Jean-Michel Carrié)
+
+## The fourth-century city: the "end of the classical city" (CAH XIII)
+
+[[cameron-cah-v13-1998|CAH XIII]] Ch. 12 (**Bryan Ward-Perkins**) carries the story into the fourth and
+fifth centuries. The ***civitas*** remained the **basic administrative unit** — defined by its **curia**,
+not its size — and its administrative role was even **enhanced** by the demands of imperial taxation. But
+the **curiales lost power and status** to the imperial service in two ways: the **confiscation of civic
+revenues** and a sharply **increased land-tax** drained local wealth to the centre; and the new
+**superstructure** of multiplied provinces, dioceses and prefectures put real authority in the hands of
+imperial governors. Civic office turned from a coveted honour into a **burden to escape** (the *munera*,
+enforced by floggings; the 192 laws *De decurionibus* mostly aimed at stopping decurions fleeing into
+imperial service).
+
+The decisive consequence Ward-Perkins traces is the **collapse of aristocratic civic munificence** — the
+death of the **"classical city."** Once power and prestige lay in imperial careers, aristocrats saw "little
+gain in spending on traditional civic amenities"; the epigraphic habit of recording local office and
+benefaction **virtually disappeared**, replaced by inscriptions recording only imperial titles. The pace
+varied regionally: **Italy and the North** lost the tradition early (only Rome's senators still building);
+the **East** and **Africa** preserved a reduced munificence into the fifth century (revived briefly by
+Valentinian I's restitution of 374) — but "very small beer" beside the High Empire, and **nothing survived
+the Vandal invasion**. The other great transformation was the **Christianization of the cityscape** —
+basilicas and episcopal complexes replacing the old monumental fora as the new focus of urban life and
+patronage.
+
+- Source (fourth century): [[cameron-cah-v13-1998]] (Ch. 12, Bryan Ward-Perkins)

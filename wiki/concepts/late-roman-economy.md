@@ -95,3 +95,30 @@ rather than collapse.
 - `contrasts_with:` the "catastrophe / fall" model and single-theory (Weber/Polanyi/Finley/Braudel)
   explanations
 - Source: [[bowman-cah-v12-2005]] (Ch. 12, Mireille Corbier)
+
+## The fourth-century rural and urban economy (CAH XIII)
+
+[[cameron-cah-v13-1998|CAH XIII]] Chs. 9–10 (**C. R. Whittaker & Peter Garnsey**) carry the economy into
+the fourth century — and form one of the volume's strongest **anti-"decline"** statements. The land
+remained the source of nearly all wealth and revenue (the *annona militaris* the chief tax, devoted as
+ever to army pay). Their arguments:
+
+- **No general agrarian crisis.** Third-century war damage was real but **regionally patchy** and largely
+  **recovered** once frontiers stabilized (Themistius: the population returned to the land after
+  Adrianople); the Balkans suffered no *Katastrophe* (no major city fell to Goths or Huns in the 4th–5th
+  c.). Fresh archaeology in Gaul/the Rhineland shows **far more fourth-century material** and continued
+  occupation than once thought.
+- **The "*agri deserti*" deflated.** The mass of legislation on deserted land was **fiscal, not economic**
+  in concern; over-taxation was **not** a general problem (Diocletian's new land-tax on Italy aside);
+  Lactantius' picture of crushing taxation is biased. Marginal land going out of use is "marginal to total
+  production." Manpower-shortage arguments rest on anecdote and on the (fiscally-motivated)
+  **[[roman-colonate|colonate]]** laws.
+- **Barbarian settlement** (*laeti*, *dediticii*, *tributarii*, and Theodosius' Gothic *foederati*)
+  **maintained cultivation and supplied recruits**, but settling allies who paid no tax and obeyed their
+  own chiefs **removed regions from central control** — feeding the fifth-century growth of local warlords
+  and the rise of the great **patrons** (Salvian's poor "preferring barbarians to Roman tax-collectors").
+
+The thesis: the late-Roman economy shows **continuity, adaptation and regional variation, not
+empire-wide collapse** — the loss was of **central fiscal control**, not of production.
+
+- Source (fourth century): [[cameron-cah-v13-1998]] (Chs. 9–10, C. R. Whittaker & Peter Garnsey)
