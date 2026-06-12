@@ -7,7 +7,7 @@ period_active: [Late Antiquity]
 controlled_by: [the eastern Roman (Byzantine) empire]
 events_here: [the dedication of the Great Church (537), the collapse and rebuilding of the dome (558)]
 processes_here: [the Christianization of the imperial capital, the architecture of the age of Justinian]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [place, anatolia, late-antiquity]
 ---
@@ -64,4 +64,6 @@ model for Ottoman imperial mosques), and remains the defining image of the late-
   Tralles and Isidore of Miletus; the supreme monument of the [[eastern-roman-empire-425-518|eastern empire]]
 - `part_of:` the Christianization of [[late-roman-cities|the late-antique city]] and the building programme of
   the age of Justinian; the seat of the [[council-of-chalcedon-451|Chalcedonian]] imperial church
-- Source: [[cameron-cah-v14-2000]] (Ch. 31)
+- Source: [[cameron-cah-v14-2000]] (Ch. 31); the great contemporary verse description — Paul the
+  Silentiary's ekphrasis recited at the rededication of 563 — is now ingested in
+  **[[bell-three-political-voices-justinian|Three Political Voices from the Age of Justinian]]**.

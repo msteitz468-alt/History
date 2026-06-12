@@ -9,7 +9,7 @@ affiliated_with: [the eastern Roman (Byzantine) empire, Chalcedonian Christianit
 opposed_by: [the Vandals, the Ostrogoths, the Sasanids (Khusro I), the Monophysites, the Nika rioters]
 key_events: [the codification of Roman law (529–534), the Nika Riots (532), the building of Hagia Sophia (532–537), the reconquest of Africa and Italy, the Justinianic Plague (541–542)]
 key_processes: [the "reconquest" of the west, the codification of Roman law, the enforcement of orthodoxy]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [actor, person, late-antiquity, mediterranean-world]
 ---
@@ -99,4 +99,6 @@ the plague, the Lombards, and the coming Persian and Arab wars would soon expose
 - Source: [[cameron-cah-v14-2000]] (Ch. 3, Averil Cameron); his ecclesiastical policy is documented in
   the ingested **[[price-acts-constantinople-553|Acts of the Council of Constantinople of 553]]** (the
   [[second-council-of-constantinople-553|Fifth Ecumenical Council]] and the
-  [[three-chapters-controversy|Three Chapters]]).
+  [[three-chapters-controversy|Three Chapters]]). The political ideology of his reign is documented in
+  **[[bell-three-political-voices-justinian|Three Political Voices from the Age of Justinian]]** (Agapetus,
+  the *Dialogue on Political Science*, Paul the Silentiary) — see [[byzantine-imperial-ideology]].
