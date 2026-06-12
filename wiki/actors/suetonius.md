@@ -9,7 +9,7 @@ affiliated_with: [the imperial court of Trajan and Hadrian, Pliny the Younger (h
 opposed_by: []
 key_events: [his service as imperial secretary (a bibliothecis, a studiis, ab epistulis), his dismissal by Hadrian]
 key_processes: [the writing of imperial biography]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, person, late-antiquity, italy]
 ---
@@ -58,4 +58,6 @@ medieval and Renaissance "mirrors of princes" and for Einhard's *Life of Charlem
 - `documented:` [[julius-caesar|Julius Caesar]], [[augustus|Augustus]], [[tiberius|Tiberius]],
   [[caligula|Caligula]], [[claudius|Claudius]], [[nero|Nero]], the four-emperor year,
   [[vespasian|Vespasian]], [[titus|Titus]], [[domitian|Domitian]].
-- `contrasts_with:` [[tacitus|Tacitus]] (annalistic analysis vs. thematic biography); `affiliated_with:` his patron **Pliny the Younger**.
+- `contrasts_with:` [[tacitus|Tacitus]] (annalistic analysis vs. thematic biography); `affiliated_with:`
+  his patron **[[pliny-the-younger|Pliny the Younger]]** (whose *[[pliny-the-younger-letters|Letters]]*
+  record his patronage).

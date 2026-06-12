@@ -9,7 +9,7 @@ affiliated_with: [the Roman Senate, the Flavian and Trajanic regimes, Pliny the 
 opposed_by: []
 key_events: [his senatorial career (quaestor, praetor 88, consul 97, proconsul of Asia c. 112/13), the writing of the Histories and the Annals]
 key_processes: [the writing of imperial Roman history, the senatorial critique of the principate]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, person, late-antiquity, italy]
 ---
@@ -76,4 +76,6 @@ through Gibbon to the modern critique of despotism).
 
 - `produced:` the *[[tacitus-annals|Annals]]* and the *Histories*; `part_of:` the tradition of Roman historiography (after Sallust and [[livy|Livy]]).
 - `documented:` the reigns of [[tiberius|Tiberius]], [[claudius|Claudius]] and [[nero|Nero]], and his analysis of the [[principate|principate]].
-- `concurrent_with:` the friendship of **Pliny the Younger** and the reigns of Nerva, Trajan and Hadrian.
+- `concurrent_with:` the friendship of **[[pliny-the-younger|Pliny the Younger]]** (whose
+  *[[pliny-the-younger-letters|Letters]]* are addressed to Tacitus and are our richest source on his
+  character) and the reigns of Nerva, Trajan and Hadrian.

@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | Pliny the Younger, Complete Letters (trans./intro Walsh; OWC 2006) | Late Antiquity | italy, mediterranean, anatolia | Pages created: 3 | Pages updated: 3
+
 ## 2026-06-12 ingest | Cicero, Political Speeches (trans./intro Berry; OWC 2006) | Classical Antiquity | italy, sicily, mediterranean | Pages created: 1 | Pages updated: 2
 
 ## 2026-06-12 ingest | Cicero, The Republic and The Laws (trans. Rudd; OWC 1998) | Classical Antiquity | italy, mediterranean | Pages created: 2 | Pages updated: 2

@@ -9,7 +9,7 @@ affiliated_with: [the army; the Senate; the adoptive succession; the Spanish pro
 opposed_by: [Decebalus of Dacia; the Parthian Empire; the Jewish diaspora (the revolt of 115–117)]
 key_events: [adoption by Nerva (97), the [[dacian-wars-101-106|Dacian Wars]] (101–106), the [[trajans-parthian-war-114-117|Parthian War]] (114–117)]
 key_processes: [the empire's expansion to its greatest extent]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, late-antiquity, italy]
 ---
@@ -71,4 +71,6 @@ arranged on his deathbed by Plotina) of Hadrian continued the adoptive successio
   wars (greatest extent); succeeded by [[hadrian]]
 - From the Spanish [[hispania-roman|colonial elite]]; his Parthian conquests trigger the Jewish
   diaspora revolt (see [[roman-judaea]])
-- Source: [[bowman-cah-v11-2000]] (Ch. 2)
+- Source: [[bowman-cah-v11-2000]] (Ch. 2); a contemporary source is now ingested in
+  **[[pliny-the-younger-letters|Pliny the Younger's *Letters*]]** Book 10 — his governorship of
+  Bithynia-Pontus, and the famous **rescript on the Christians** (10.96–97).
