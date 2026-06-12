@@ -2,14 +2,14 @@
 title: Kievan Rus′
 actor_type: state
 date_start: c. 880s CE (Rurikid seizure of Kiev)
-date_end: 1240 CE (Mongol sack of Kiev) — this page covers to c. 1054
+date_end: 1240 CE (Mongol sack of Kiev) — this page covers to c. 1200
 period: [Early Middle Ages, High Middle Ages]
 region: [eastern-europe, steppe]
 affiliated_with: [the Rurikid dynasty, [[byzantine-empire|Byzantium]], the Varangian–Greek trade route]
 opposed_by: [the Pechenegs, the Khazar khaganate, the Volga Bulgars, Byzantium (intermittently)]
 key_events: [[[conversion-of-vladimir-988]]]
 key_processes: [the Christianisation of Rus′, the Varangian river trade]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, early-middle-ages, high-middle-ages, eastern-europe]
 ---
@@ -29,6 +29,19 @@ The Rus′ — Scandinavian (Varangian) traders and warriors operating the **Vol
 ## Conversion and Apogee
 
 The decisive turn was the **[[conversion-of-vladimir-988|conversion of Vladimir I (the Great) in 988]]**, which made Orthodox Christianity the state religion and bound Rus′ to the Byzantine cultural and ecclesiastical world. Under Vladimir and his son **Yaroslav the Wise** (d. 1054) Kiev reached its height: the building of the cathedral of **Holy Wisdom** at Kiev, the first written law (the ***Pravda Russkaia***, from which private landholding can be confirmed only from the later eleventh century), a network of dynastic marriages across Latin and Orthodox Europe, and the elaboration of a Church-Slavonic literate culture.
+
+## Fragmentation in the 11th–12th Centuries (NCMH IV)
+
+[[luscombe-ncmh-v4-2004|NCMH IV]] (Martin Dimnik, Ch. 9, "Kievan Rus′, the Bulgars and
+the southern Slavs, c. 1020–c. 1200") carries the story past the apogee. After Yaroslav
+the Wise (d. 1054), whose succession arrangement (the "rota" rotation of princes among
+the towns by seniority) sought to keep the realm united, Rus′ entered a long process of
+**political fragmentation** into competing principalities (Kiev, Novgorod, Chernigov,
+Galicia-Volhynia, and the rising Vladimir-Suzdal′ in the north-east). Despite a brief
+restoration under Vladimir Monomakh (1113–25), the primacy of Kiev decayed; the realm
+became a loose family confederation of increasingly autonomous principalities — the
+"appanage" pattern that would leave the Rus′ lands divided on the eve of the Mongol
+conquest of the thirteenth century.
 
 ## Significance
 

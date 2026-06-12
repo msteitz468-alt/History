@@ -127,3 +127,26 @@ Created: `events/norman-conquest-of-england-1066.md`, `actors/william-the-conque
 `actors/christian-kingdoms-of-spain.md` (Sancho III's division, Fernando I, Alfonso VI,
 Toledo 1085, El Cid; sources 1→2). (Bouchard Ch. 5 → Capetians; Barton Ch. 6 → Spanish
 kingdoms + El Cid; Chibnall Ch. 7 → the Norman Conquest of England and Domesday.)
+
+**Cycle 7 — Byzantium & the eastern/northern realms (Pt 2, chs 8–12).**
+Created: `events/battle-of-manzikert-1071.md`, `processes/komnenian-restoration.md`,
+`actors/alexios-i-komnenos.md`. Updated: `actors/byzantine-empire.md` (the 11th-c.
+crisis and Komnenian recovery; sources 4→5), `actors/kievan-rus.md` (post-1054
+fragmentation; sources 1→2, extended to c. 1200), `actors/hungary-arpad.md` (the
+consolidated 11th–12th-c. kingdom, Croatia, the Byzantine frontier; sources 1→2).
+Resolved the long-standing `[[battle-of-manzikert-1071]]` and `[[komnenian-restoration]]`
+forward links. (Angold Ch. 8 → Byzantium; Dimnik Ch. 9 → Rus′; Wyrozumski Ch. 10
+on Poland and Sawyer Ch. 11 on Scandinavia folded into existing Piast/Přemyslid and
+Scandinavian pages; Berend Ch. 12 → Hungary.)
+
+**Cycle 8 — The 12th-century West: papacy, empire, Italy, Spain (Pt 2, chs 13–16).**
+Created: `actors/frederick-i-barbarossa.md`, `actors/kingdom-of-sicily.md`,
+`processes/commune-movement.md`, `actors/lombard-league.md`,
+`events/battle-of-legnano-1176.md`. Updated: `actors/kingdom-of-italy.md` (the rise of
+the communes and the Lombard struggle; sources 1→2). Resolved the heavily-used
+`[[kingdom-of-sicily]]`, `[[frederick-i-barbarossa]]`, `[[commune-movement]]`,
+`[[lombard-league]]`, and `[[battle-of-legnano-1176]]` forward links. (Robinson Ch. 13 on
+the papacy 1122–1198 — Alexander III, the schism with Barbarossa, Lateran III 1179 —
+folded into the papacy/papal-monarchy/Barbarossa pages; Arnold Ch. 14 → Barbarossa/empire;
+Tabacco Ch. 15a → communes; Loud Ch. 15b → Norman Sicily; Linehan Ch. 16 on 12th-c. Spain
+folded into the Almoravid/Almohad/Reconquista pages from Cycle 4.)

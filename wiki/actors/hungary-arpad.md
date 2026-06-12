@@ -9,7 +9,7 @@ affiliated_with: [the Árpád dynasty, the see of Esztergom/Gran, [[otto-iii|Ott
 opposed_by: [the Ottonian Reich (to 955), Byzantium, the pagan Magyar reaction (Koppány, Ajtony)]
 key_events: [[[battle-of-lechfeld-955]], the coronation of Stephen I 1000/1001]
 key_processes: [the Magyar raids, the settlement and Christianisation of Hungary]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, dynasty, early-middle-ages, high-middle-ages, eastern-europe]
 ---
@@ -25,6 +25,23 @@ The Magyars — organised (per Constantine Porphyrogenitus) in **seven tribes** 
 ## Settlement, Conversion, and the Christian Kingdom
 
 Under Prince **Géza** (d. 997) the Árpáds consolidated power and opened the realm to Latin missionaries. His son **Vajk**, baptised **[[stephen-i-of-hungary|Stephen (István)]]**, completed the transformation: he crushed the pagan and rival-clan reaction (Koppány, later Ajtony), and around **1000/1001 was crowned the first Christian king of Hungary**, receiving a royal crown associated with **[[otto-iii|Otto III]]** and **Pope Sylvester II** ([[gerbert-of-aurillac|Gerbert]]) and an ecclesiastical province centred on **Esztergom (Gran)** — part of the same Otto III programme as the [[synod-of-gniezno-1000|Gniezno settlement]] for Poland. Stephen organised the kingdom into **counties (megye)** under royal *ispáns*, founded bishoprics and monasteries, and issued law-codes.
+
+## The Consolidated Kingdom, 11th–12th Centuries (NCMH IV)
+
+[[luscombe-ncmh-v4-2004|NCMH IV]] (Nóra Berend, Ch. 12, "Hungary in the eleventh and
+twelfth centuries") carries the Árpád kingdom past its foundation. After recurrent
+pagan revolts and succession struggles, kings **Ladislas I (László, 1077–95)** and
+**Coloman (Kálmán, 1095–1116)** consolidated the Christian monarchy, codified its laws,
+and expanded the realm — Coloman acquiring **Croatia and the Dalmatian coast** (1102),
+which drew Hungary into Adriatic and Italian affairs and into rivalry with Venice. In
+the twelfth century Hungary became a significant regional power and a contested
+frontier between Latin and Orthodox Christendom: **[[komnenian-restoration|Manuel I
+Komnenos]]** intervened repeatedly in Hungarian succession disputes and briefly drew the
+kingdom into the Byzantine orbit, before **Béla III** (1172–96) — raised at the
+Byzantine court — restored a strong, prosperous, westward-looking monarchy. Berend
+stresses Hungary's character as a **multi-ethnic frontier kingdom** (Catholic and
+Orthodox Christians, Muslims, Jews, and pagans) at the meeting of Latin Europe, the
+steppe, and Byzantium.
 
 ## Significance
 

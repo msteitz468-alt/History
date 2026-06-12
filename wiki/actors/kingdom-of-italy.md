@@ -9,7 +9,7 @@ affiliated_with: [Pavia (capital), the marches of Friuli, Ivrea, Tuscany, Spolet
 opposed_by: [the Magyars, the Sicilian Arabs (Fraxinetum, Garigliano), the [[ottonian-dynasty|Ottonians]] (conquest 961)]
 key_events: [[[coronation-of-otto-i-962]], the battle of Fiorenzuola 923]
 key_processes: [post-Carolingian political fragmentation, incastellamento]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, early-middle-ages, high-middle-ages, mediterranean]
 ---
@@ -33,6 +33,20 @@ Otto I conquered the kingdom (951, definitively 961), married **Adelaide**, depo
 ## Government: Carolingian Forms, Fragmenting Reality
 
 Sergi stresses **continuity of forms with dissolving substance**. Pavia's chancery issued capitularies until 898 and thereafter only diplomata; the realm kept its Carolingian subdivision into marches, counties, and minor districts. But underneath, public authority devolved: free smallholders (the ***arimanni***, descendants of the Carolingian *liberi homines*, not an ethnic Lombard residue) commended themselves and their lands to great landowners for protection; the **curtes** grew; and the crown stopped mobilising free men in favour of vassals and lords. **Immunity** evolved from mere exemption into the positive exercise of *districtus* (justice, punishment, troop-levy), granted ever further down the hierarchy — to minor churches, a parish priest at Voghera, even twenty-nine laymen licensed to build a castle. This is the documentary face of [[encellulement|incastellamento]] and the [[feudal-revolution-debate|"feudal" fragmentation]] in its Italian form.
+
+## The Rise of the Communes (11th–12th c.) (NCMH IV)
+
+[[luscombe-ncmh-v4-2004|NCMH IV]] (Giovanni Tabacco, Chs 4a and 15a) carries the story
+into the eleventh and twelfth centuries, when the dissolution of comital and episcopal
+public power and the wealth of the [[commercial-revolution|commercial revival]] gave
+birth to the self-governing **[[commune-movement|city-communes]]** — Milan, Genoa, Pisa,
+Cremona, Bologna, Florence and the rest. The kingdom of Italy became, in effect, a
+patchwork of autonomous urban republics under a nominal and distant imperial crown. When
+**[[frederick-i-barbarossa|Frederick Barbarossa]]** tried to make that crown real
+(Roncaglia 1158; the destruction of Milan 1162), the cities formed the
+**[[lombard-league|Lombard League]]**, defeated him at **[[battle-of-legnano-1176|Legnano
+(1176)]]**, and won recognition of their self-government at the **Peace of Constance
+(1183)** — confirming northern Italy's distinctive character as a land of city-republics.
 
 ## Significance
 
