@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | The Chronicle of Pseudo-Joshua the Stylite (TTH 32; trans./intro Trombley & Watt) | Late Antiquity | mesopotamia, near-east | Pages created: 2 | Pages updated: 1
+
 ## 2026-06-12 ingest | Pseudo-Dionysius of Tel-Mahre, Chronicle Part III / Chronicle of Zuqnin (TTH 22; trans./intro Witakowski) | Late Antiquity, Early Middle Ages | mesopotamia, near-east, anatolia | Pages created: 2 | Pages updated: 1
 
 ## 2026-06-12 ingest | Vegetius, Epitome of Military Science (TTH 16; trans./intro Milner) | Late Antiquity | italy, mediterranean | Pages created: 2 | Pages updated: 1

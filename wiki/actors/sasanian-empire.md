@@ -9,7 +9,7 @@ affiliated_with: [[[zoroastrianism]], the Sasanian dynasty, Iranshahr]
 opposed_by: [[[roman-empire|Rome]]/[[byzantine-empire|Byzantium]], the [[white-huns|Hephthalites]], the [[gokturk|Türks]], the Arab-Muslim armies]
 key_events: [Shapur I's capture of Valerian, wars with Byzantium, Khusro II's invasion 602-628 CE, Battle of Qadisiyya 637 CE]
 key_processes: [[[empire]], [[universal-religions]], [[silk-roads]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [actor, empire, late-antiquity, early-middle-ages, iran-plateau]
 ---
@@ -80,3 +80,8 @@ coins, seals, rock reliefs, and archaeology (Daryaee's own work; the Idea of Ira
 project). James Howard-Johnston's thesis that Khusro II's overreach "destroyed the
 ancient world order" frames the empire's fall as the hinge between antiquity and the
 Islamic Near East. Compare [[fall-of-rome-causes]] and [[empire]].
+
+A contemporary witness to the Roman–Persian frontier is now ingested as the
+**[[watt-pseudo-joshua-stylite|Chronicle of Pseudo-Joshua the Stylite]]**, the best source for the
+**[[anastasian-war-502-506|Anastasian War (502–506)]]** between Kavadh I and Anastasius — the opening
+round of the sixth-century wars.
