@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: regional
 causes: [the debt crisis of the 60s (dispossessed peasants and bankrupt nobles), Catiline's electoral failures and ruin, the agrarian distress unrelieved after Rullus' bill failed]
 consequences: [the execution of five conspirators under the SCU, Cicero's elevation and later vulnerability, the defeat of Catiline at Pistoria, the deepening of political polarization]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [event, classical-antiquity, italy, political]
 ---

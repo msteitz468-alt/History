@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | Cicero, Political Speeches (trans./intro Berry; OWC 2006) | Classical Antiquity | italy, sicily, mediterranean | Pages created: 1 | Pages updated: 2
+
 ## 2026-06-12 ingest | Cicero, The Republic and The Laws (trans. Rudd; OWC 1998) | Classical Antiquity | italy, mediterranean | Pages created: 2 | Pages updated: 2
 
 ## 2026-06-12 ingest | Sallust, Catiline's Conspiracy / The Jugurthine War / Histories (trans./intro Batstone; OWC 2010) | Classical Antiquity | italy, north-africa, mediterranean | Pages created: 2 | Pages updated: 2
