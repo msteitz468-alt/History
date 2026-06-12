@@ -67,6 +67,49 @@ its annexation as a province under Claudius (46 CE). Beyond the river lay the re
 the **Dacians** (united briefly under Burebista) and the first collisions with the Iranian
 **Sarmatians**.
 
+## The High Empire: the militarized frontier and the rise of the Illyriciani (CAH XI, Wilkes)
+
+[[bowman-cah-v11-2000|CAH XI]] Ch. 19 (also **Wilkes**) carries the Danube lands from AD 70 to 192
+— a period of "steady but unremarkable assimilation" of the Celtic, Illyrian, and Thracian peoples
+to a **Latin provincial culture**, dominated above all by the **army**: by the end of the period
+**12 of the empire's 30 legions** and over a third of the auxilia stood along the Danube.
+
+- **The threats and the frontier.** Against the **Sarmatian Jazyges and Roxolani** of the plains
+  and the revived kingdom of **Dacia**, the Flavians built a continuous cordon of riverbank bases.
+  **Trajan's conquest of Dacia (106)** transformed the strategic map — engineering feats included
+  the Danube **bridge** and the **Iron Gate canal** (AD 101). The province was a salient encircling
+  the Jazyges; it was later split into three Dacias and (under Marcus) reunited under a consular
+  legate.
+- **Hadrian's frontier policy.** Hadrian fixed the Danube as the limit, the army's role becoming
+  **static** — guaranteeing **client treaties** (subsidies, "granting" a king to the Quadi) and
+  enforcing **Discipulina Augusti** (training for an increasingly inactive army). Decades of peace
+  brought rising prosperity and regulated cross-frontier trade.
+- **The Marcomannic Wars.** Migration pressure drove the Marcomanni and Quadi to **invade as far as
+  Italy** (c. 170), opening more than a decade of [[marcomannic-wars-166-180|war]] directed by
+  Marcus in person; some Germans and Sarmatians were settled inside the empire, and Marcus may have
+  contemplated annexing **Marcomannia and Sarmatia** beyond the river (a Roman army wintered at
+  Trenčín, 120 km north of the Danube) before his death at **Vindobona (180)**. **Commodus** reverted
+  to client relationships and intensified riverbank surveillance (the *latrunculi* fort inscriptions).
+- **The explosion of urbanization.** The Danube lands were among the **least urbanized** of the
+  west — first organized through the imperialistic **veteran colony** (Vespasianic Siscia, Sirmium,
+  Scupi; Trajanic Poetovio, Ratiaria, Oescus, and **Ulpia Traiana Sarmizegetusa** in Dacia). From
+  the Flavians, power returned to the native nobility (the *princeps*/*praepositus* of the
+  *civitas*), and **Hadrian** drove a wave of **native *municipia*** — incorporating the prosperous
+  frontier towns that grew beside the legionary fortresses (distinct from the military *canabae*) —
+  so that some **66 new cities** arose after his accession (Carnuntum, Aquincum, Singidunum, the 13
+  Thracian *poleis* on Greek lines: Nicopolis ad Istrum, Marcianopolis).
+- **Economy and mines.** The economy was largely **internal to the army** and its associated
+  communities and veteran colonies, monetized and import-fed (north-Italian *sigillata*, Istrian
+  and privileged Spanish oil) before shifting to more local production under Hadrian. The region's
+  great resource was **minerals** under imperial management: **Noricum iron**, Dalmatian/Pannonian
+  silver-lead, Moesian silver (the *metalla* coinages), and above all **Dacian gold** at
+  **Alburnus Maior** — worked by imported Dalmatian miners, and documented by the **wax writing
+  tablets** (AD 131–167) of labour contracts and sales.
+
+The cumulative result: rooted provincial armies tied to their frontier communities, producing the
+**Illyriciani** — the Danubian military men (Pertinax, Valerius Maximianus) who anticipated the
+**soldier-emperors of the third century**.
+
 ## Significance
 
 Wilkes' Danube is the empire's true strategic spine. The conquest of the middle Danube under
@@ -86,4 +129,6 @@ traditions.
   Primus' Danubian legions)
 - Administered per [[roman-provincial-administration]]; contrast [[roman-germany|the abandoned
   German frontier]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 13, Wilkes)
+- High-Empire: [[dacian-wars-101-106|Dacian conquest]], the [[marcomannic-wars-166-180|Marcomannic
+  Wars]], the [[roman-frontiers|frontier]] and [[roman-city-government|municipalization]]
+- Sources: [[bowman-cah-v10-1996]] (Ch. 13, Wilkes) · [[bowman-cah-v11-2000]] (Ch. 19, Wilkes)
