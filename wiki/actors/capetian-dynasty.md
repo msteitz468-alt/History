@@ -9,7 +9,7 @@ affiliated_with: [the Robertines, the archbishopric of Rheims, [[cluny]]]
 opposed_by: [the last Carolingians (Charles of Lorraine), the great territorial princes]
 key_events: [the election of Hugh Capet 987]
 key_processes: [the rise of the French territorial principalities, [[feudal-revolution-debate|the mutation de l'an mil]], the thirteenth-century consolidation of the French monarchy]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [actor, dynasty, early-middle-ages, high-middle-ages, western-europe]
 ---
@@ -70,6 +70,18 @@ yet bound to the crown), the steady absorption of great fiefs (Toulouse, Champag
 French Flanders), and the alliance with — and eventual mastery over — the papacy. The
 dynasty's outward, Mediterranean thrust ran through Louis IX's brother **[[charles-of-anjou|Charles
 of Anjou]]**, king of Sicily.
+
+## The End of the Direct Line and the Valois Succession (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (Michael Jones, Ch. 12a) records the dynasty's sudden close. After
+[[philip-iv-capetian|Philip IV]] — "the culmination of the medieval French monarchy" (Strayer) —
+his three sons **Louis X (1314–1316), Philip V (1316–1322) and Charles IV (1322–1328)** each died
+without a surviving son, ending the **direct Capetian line** in 1328 after three and a half
+centuries. The crown passed to the cadet **[[valois-dynasty|Valois]]** branch (Philip VI), over the
+rival claim of **[[edward-iii-of-england|Edward III]]** of England through his Capetian mother —
+the dynastic origin of the **[[hundred-years-war-1337|Hundred Years War]]**. The exclusion of
+female-line succession (later rationalised as "Salic law") and the change of dynasty re-exposed the
+fissures that Philip IV's authoritarian rule had masked.
 
 ## Significance
 

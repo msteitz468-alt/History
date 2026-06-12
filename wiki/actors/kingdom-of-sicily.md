@@ -9,7 +9,7 @@ affiliated_with: [[[papacy|the papacy]] (overlord), "the Hauteville dynasty"]
 opposed_by: [[[byzantine-empire|Byzantium]], "the western emperors", "the rebellious south-Italian baronage", "the north-African Muslim powers"]
 key_events: ["the coronation of Roger II (1130)", [[norman-conquest-of-southern-italy]], "the Constitutions of Melfi (1231)", "the conquest by Charles of Anjou (1266)", [[sicilian-vespers-1282|the Sicilian Vespers (1282)]]]
 key_processes: []
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, mediterranean]
 ---
@@ -91,6 +91,18 @@ also **emperor**.
   twenty-year War of the Vespers ended in the **Peace of Caltabellotta (1302)**, leaving two
   Sicilian kingdoms: Aragonese island Sicily ("Trinacria," under **Frederick III**) and Angevin
   Naples, the latter bound ever closer to Guelf [[florence|Florence]] and its bankers.
+
+## The Fourteenth-Century Two Kingdoms (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (the "Italian south" chapter) follows the two Sicilian kingdoms
+through the fourteenth century. **Angevin Naples** reached a cultured zenith under **Robert "the
+Wise" (1309–1343)** — a leader of the Guelf cause, patron of Giotto, Petrarch and Boccaccio — but
+declined into dynastic turmoil under **Joanna I** and the Angevin succession disputes, drawn into the
+[[hundred-years-war-1337|wars]] and the [[papacy|Great Schism]]. **Aragonese Sicily** ("Trinacria"),
+under the cadet Aragonese line, remained poorer and politically fragmented among its baronage until
+its reabsorption into the [[crown-of-aragon|Crown of Aragon]]. The Mezzogiorno, exporting grain and
+raw materials and dominated by Tuscan and Catalan merchants, settled into the "underdeveloped"
+periphery that would mark its early-modern history.
 
 ## Related
 

@@ -66,8 +66,11 @@ The war's effects were structural and lasting:
   rise of [[rise-of-vernacular-literatures|written English]] in government).
 - **Devastation of France.** The *chevauchées* and the free companies ravaged the French
   countryside, compounding the [[late-medieval-crisis|crisis]] of plague and famine.
-- **The later phases.** English fortunes were reversed by the French recovery under **Charles V**
-  (Cycle 4), revived under Henry V (Agincourt 1415, the Treaty of Troyes 1420), and finally lost —
+- **The later phases.** English fortunes were reversed by the French recovery under
+  **[[valois-dynasty|Charles V "the Wise"]]** and the constable du Guesclin (who had retaken almost
+  all the English gains by 1380), revived under Henry V (Agincourt 1415, the Treaty of Troyes 1420)
+  — the [[valois-dynasty|Valois]] realm meanwhile fracturing in Charles VI's madness and the
+  Armagnac–Burgundian civil war — and finally lost —
   all but Calais — by 1453, by which time the war had helped forge two consolidated national
   monarchies. (The fifteenth-century close belongs to NCMH VII.)
 

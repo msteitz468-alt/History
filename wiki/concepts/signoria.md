@@ -5,7 +5,7 @@ origin: Emic ("signore" = lord); the personal lordships that displaced communal 
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [mediterranean, western-europe]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -72,6 +72,20 @@ revision warns against reading it "as a degradation from an ideal, free and demo
 period of dark and bloody oppression": given the communes' chronic disorder, sharp instruments
 were needed — *gatta inguantata mal piglia sorci*, "a cat with gloves on can hardly catch mice."
 The signoria is the matrix of the Renaissance principality.
+
+## The Fourteenth-Century Consolidation (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (John Law, Ch. 13a) shows the *signorie* hardening into **territorial
+states** in the fourteenth century. **Henry VII of Luxemburg's** Italian expedition (1310–1313)
+revealed that northern Italy "had no recent tradition of centralised, let alone imperial rule" — "a
+mosaic of lordships (*signorie*) and communes" still split by the [[guelphs-and-ghibellines|Guelf–Ghibelline]]
+rivalry — and his failure cleared the way for the dynastic lords to expand. The greatest was the
+**[[visconti-of-milan|Visconti of Milan]]**, who built the largest signorial state in Lombardy
+(briefly seeming poised to dominate the whole north under Giangaleazzo, d. 1402); the **della Scala**
+(Verona), **Este** (Ferrara), **Gonzaga** (Mantua), and **Carrara** (Padua) ruled comparable
+principalities. By 1400 the personal, often informal lordships of Ezzelino's generation had become
+**hereditary regional states** with courts, bureaucracies, and (in the Visconti case) imperial
+titles — the political form from which the Renaissance principalities directly grew.
 
 ## Related
 

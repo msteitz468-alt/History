@@ -1644,3 +1644,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | NCMH VI — c. 1300–c. 1415 (Jones ed., 2000) | Section: Cycle 2 — Part I "General Themes B" (trade, chivalry & the aristocracy, court patronage & International Gothic, architecture, vernacular literature) | Pages created: 1 | Pages updated: 4
 
 ## 2026-06-12 section | NCMH VI — c. 1300–c. 1415 (Jones ed., 2000) | Section: Cycle 3 — Part II "The British Isles" (England: Edward II & Edward III, Richard II; Wales; Scotland; Ireland) | Pages created: 6 | Pages updated: 2
+
+## 2026-06-12 section | NCMH VI — c. 1300–c. 1415 (Jones ed., 2000) | Section: Cycle 4 — Part II "France & Italy" (the last Capetians & early Valois, France under Charles V & VI; the Italian north, Florence, the Italian south) | Pages created: 2 | Pages updated: 5

@@ -7,7 +7,7 @@ period_active: [High Middle Ages, Late Middle Ages, Early Modern]
 controlled_by: [the Florentine commune (Guelf), nominally [[charles-of-anjou|Charles of Anjou]] (overlord 1267–c.1278)]
 events_here: [the murder of Buondelmonte (1216), the battle of Montaperti (1260), the Ordinances of Justice (1293)]
 processes_here: [[[commercial-revolution|commercial and banking revolution]], the [[guelphs-and-ghibellines|Guelf–Ghibelline]] feud, the rise of the guild republic]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [place, mediterranean, western-europe, high-middle-ages]
 ---
@@ -63,6 +63,20 @@ the culture — Brunetto Latini, the *dolce stil nuovo*, Cavalcanti, **Dante**, 
 the chroniclers Compagni and Villani — that would flower in the next century. Florence is the
 volume's great case of **economic power translated into political form**, the antithesis of the
 [[signoria|signorial]] cities around it.
+
+## The Fourteenth Century: Crisis, the Ciompi, and the Territorial State (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (the "Florence and the republican tradition" chapter) carries the
+city through the century's storms. The **collapse of the great banking houses** (the **Bardi and
+Peruzzi** failures of the 1340s, after Edward III's default) and the **[[black-death|Black Death]]
+(1348)**, which may have halved the population, shook the economy; yet Florence remained Europe's
+financial capital and **expanded its territorial state**, absorbing its Tuscan neighbours (Arezzo,
+Pisa 1406). Acute class conflict produced the **Ciompi revolt (1378)**, when the unenfranchised wool
+workers briefly seized power and won their own guilds — the most radical of the era's
+[[late-medieval-crisis|urban risings]] — before the *popolo grasso* restored oligarchic control. As
+the threat of [[visconti-of-milan|Visconti]] Milan loomed, Florentine chancellors (Salutati, later
+Bruni) articulated a self-conscious **"civic humanism,"** defending the city's republican liberty
+against signorial tyranny — the ideology that frames its early-Renaissance identity.
 
 ## Related
 

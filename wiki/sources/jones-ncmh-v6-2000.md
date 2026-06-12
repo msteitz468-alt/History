@@ -14,8 +14,8 @@ reliability_notes: >
   or stripped, and map plates are garbage. Navigate by chapter-title headings (all-caps in the
   OCR) and running footers, as done for Vols 1–5. Editor: Michael Jones (Nottingham). Replaces the
   old CMH Vol. VII, "Decline of the Empire and Papacy."
-pages_created: 11
-pages_updated: 9
+pages_created: 13
+pages_updated: 13
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -89,6 +89,14 @@ follow c. line 38500. These are not read as content.
   Captured Ormrod on Edward II & Edward III, Barron on Richard II, and the chapters on Wales,
   Scotland (Bruce, Bannockburn, the Treaty of Edinburgh) and Ireland. (Pages created: 6 | Pages
   updated: 2.)
+- **2026-06-12 — Cycle 4 (Part II, "France & Italy").** Created `actors/valois-dynasty.md` and
+  `actors/visconti-of-milan.md`. Updated `actors/capetian-dynasty.md` (the end of the direct line &
+  the Valois succession), `concepts/signoria.md` (the fourteenth-century territorial signorie),
+  `places/florence.md` (the Ciompi & civic humanism), `actors/kingdom-of-sicily.md` (Robert the Wise's
+  Naples & Aragonese Sicily), and `events/hundred-years-war-1337.md` (the French recovery under
+  Charles V). Captured Jones on the last Capetians & early Valois, Autrand on Charles V & VI, Law on
+  the Italian north, the Florence chapter, and the "Italian south" chapter. (Pages created: 2 | Pages
+  updated: 5.)
 
 ## Volume Synthesis Note
 
