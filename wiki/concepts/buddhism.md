@@ -5,7 +5,7 @@ origin: the teaching of the Buddha (Siddhartha Gautama) in northern India, c. 5t
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion]
 applies_to_regions: [south-asia, central-asia, east-asia, china, japan, korea, silk-road, southeast-asia]
 contested: no
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-10
 tags: [concept]
 ---
@@ -133,4 +133,6 @@ CWH IV stresses Buddhism's **economic and institutional** dimensions — monaste
 commercial actors — over purely doctrinal history, and its role as connective tissue in the
 "networks" thesis. The Mahayana shift, the Gandharan art synthesis, and the dating of
 transmission to China are reconstructed from texts, inscriptions, cave-temple art, and
-travelers' records. See also [[universal-religions]].
+travelers' records. See also [[universal-religions]], the dedicated **[[mahayana-buddhism|Mahayana
+Buddhism]]** page, and the ingested **[[lotus-sutra-watson|Lotus Sutra]]** — a primary scripture of the
+Mahayana.
