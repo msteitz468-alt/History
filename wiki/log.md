@@ -1446,3 +1446,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | CAH XII — The Crisis of Empire AD 193–337 | Section: Government & administration (Chs 5–7) | Pages created: 3 | Pages updated: 1
 
 ## 2026-06-12 section | CAH XII — The Crisis of Empire AD 193–337 | Section: The provinces (Chs 8–10) | Pages created: 1 | Pages updated: 2
+
+## 2026-06-12 section | CAH XII — The Crisis of Empire AD 193–337 | Section: The economy (Chs 11–12) | Pages created: 2 | Pages updated: 1

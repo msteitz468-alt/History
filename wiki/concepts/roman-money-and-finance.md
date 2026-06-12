@@ -96,10 +96,22 @@ prosperity. The degree of monetization, the "productivity" of credit, and the ca
 banking decline remain contested, constrained by the impossibility of quantifying private financial
 volume.
 
+## The coinage in the crisis (CAH XII)
+
+The financial world Andreau describes for the High Empire was transformed by the
+[[third-century-crisis|third-century crisis]]: the steady **debasement** of the silver denarius and
+antoninianus (from Caracalla's antoninianus of 215 to the silver collapse of c. 253–270), the
+reforms of [[aurelian|Aurelian]] (274), [[diocletian|Diocletian]] (286–296, with the Price Edict of
+301) and [[constantine-the-great|Constantine]] (the gold **solidus**), and the survival and then
+overhaul of the Augustan tax system into the **iugatio–capitatio**. This monetary and fiscal history
+— and Mireille Corbier's caution that debasement cannot be equated with proportional inflation — is
+treated in [[late-roman-coinage]]; its wider economic stakes in [[late-roman-economy]].
+
 ## Related
 
 - The financial side of [[roman-imperial-trade|trade]] (auctions, the markets of Rome and Ostia)
   and the fortunes built on the [[roman-agrarian-economy|land]]
 - The wealth of [[high-imperial-senatorial-order|senators]] and the [[imperial-finances|imperial
   fiscus]]; the coinage debased per [[roman-industry-technology]]
-- Source: [[bowman-cah-v11-2000]] (Ch. 26, Jean Andreau)
+- The crisis-era monetary collapse and reform: [[late-roman-coinage]], [[late-roman-economy]]
+- Sources: [[bowman-cah-v11-2000]] (Ch. 26, Jean Andreau); [[bowman-cah-v12-2005]] (Chs. 11–12, Mireille Corbier)
