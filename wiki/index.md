@@ -1,6 +1,6 @@
 # World History Wiki — Master Catalog
 
-Last updated: 2026-06-11 (CAH Vol. V complete — The Fifth Century B.C.; 33 pages created, 14 pre-existing pages updated, across the Large-Volume Protocol's 7 section cycles. Built out the Greek fifth century from the Persian-War aftermath to the fall of Athens (404): the Delian League and the Athenian empire, the radical democracy (Ephialtes, Pericles), the First and great Peloponnesian Wars (the plague, Sicily, the Ionian War, Lysander), fifth-century Sicily (Hiero, Ducetius, democratic Syracuse), and the High Classical cultural flowering — art, the Parthenon, drama, the sophists, panhellenic games — together with the fifth-century source/method (Thucydides and the historiography of the Pentekontaetia). The direct continuation of CAH IV; hands forward to CAH VI.)
+Last updated: 2026-06-11 (CAH Vol. VI complete — The Fourth Century B.C.; 41 pages created, 16 pre-existing pages updated, across the Large-Volume Protocol's 8 section cycles. Built out the Greek fourth century from the fall of Athens (404) to the death of Alexander (323): the Spartan hegemony and its collapse (Lysander, Agesilaus, the Corinthian War, the King's Peace), the resurgence of Athens (Conon, the Second Athenian Confederacy), the Theban hegemony (Epaminondas, Pelopidas, Leuctra, the liberation of Messenia, Mantinea), the Achaemenid empire and its regional surveys (the satrapy, Mausolus, Evagoras of Cyprus, Persian-period Judah and the Samaritan schism, native Egypt), the West and North (Dionysius I's Syracuse, Magonid Carthage, the Celts, Odrysian Thrace, the Bosporan grain-kingdom), the alternatives to the polis (federalism, the schools of Plato and Aristotle, fourth-century warfare and art), and the rise of Macedon (Dion & Timoleon in Sicily, Philip II, Chaeronea, the League of Corinth, and Alexander at Gaugamela). Completes the second edition of the Greek CAH; the direct continuation of CAH V, handing forward to the Hellenistic world of CAH VII.)
 
 This index lists every page in the wiki. Update after every ingest session.
 Entries are grouped by directory. Within each group, pages are listed in
@@ -207,12 +207,13 @@ creation order with a one-line description.
 | `boardman-cah-v3p3-1982.md` | The Cambridge Ancient History, Volume III, Part 3: The Expansion of the Greek World, Eighth to Sixth Centuries B.C. (2nd ed.) | 1982 | reference |
 | `boardman-cah-v4-1988.md` | The Cambridge Ancient History, Volume IV: Persia, Greece and the Western Mediterranean, c. 525 to 479 B.C. (2nd ed.) | 1988 | reference |
 | `lewis-cah-v5-1992.md` | The Cambridge Ancient History, Volume V: The Fifth Century B.C. (2nd ed.) | 1992 | reference |
+| `lewis-cah-v6-1994.md` | The Cambridge Ancient History, Volume VI: The Fourth Century B.C. (2nd ed.) | 1994 | reference |
 
 ---
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **CAH Vol. V** ingest (recomputed by file
+Counts reflect actual files on disk as of the **CAH Vol. VI** ingest (recomputed by file
 count; the detailed catalog tables above are maintained selectively and may lag — recent
 volumes' new and updated pages are catalogued in their source pages and `log.md` rather
 than relisted here).
@@ -220,14 +221,14 @@ than relisted here).
 | Category | Pages |
 |---|---|
 | Periods | 24 |
-| Events | 62 |
-| Processes | 75 |
-| Actors | 181 |
-| Places | 78 |
-| Concepts | 100 |
+| Events | 73 |
+| Processes | 77 |
+| Actors | 204 |
+| Places | 79 |
+| Concepts | 104 |
 | Comparisons | 0 |
 | Controversies | 27 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 16 |
-| **Total** | **563** |
+| Sources | 17 |
+| **Total** | **605** |
