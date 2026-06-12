@@ -8,7 +8,7 @@ region: [global]
 process_type: [political, economic, ideological]
 driven_by: [[[industrialization]], inter-state competition, [[fossil-fuel-energy-transition|new transport and military technology]], capitalist demand for raw materials and markets, ideologies of civilization and race]
 produces: [the New Imperialism / scramble for Africa, colonial states, [[decolonization]], modern globalization, post-colonial inequalities]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-10
 tags: [process, long-19th-century, global]
 ---

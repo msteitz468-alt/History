@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-12 (**Edward W. Said, *Orientalism*** (1978) ingested — Gap 1. Created the source page **[[said-orientalism]]** and the concept page **[[orientalism]]** (the Western discourse that constructed "the Orient" as the European Other and underwrote imperial domination; knowledge as power, after Foucault; the founding of postcolonial studies — with its major critiques registered). Enriched **[[imperialism]]**.)
+
 Last updated: 2026-06-12 (**Adam Smith, *The Wealth of Nations*** (1776) ingested — Gap 1, a foundational primary source. Created the source page **[[smith-wealth-of-nations]]**, the actor page **[[adam-smith]]**, and the concept page **[[classical-political-economy]]** (the division of labour, the invisible hand, the critique of mercantilism and case for free trade, the labour theory of value; the intellectual charter of market capitalism, later built on and contested by Ricardo, Malthus and Marx). Enriched **[[industrialization]]**.)
 
 Last updated: 2026-06-12 (**T. S. Ashton, *The Industrial Revolution 1760–1830*** (1948) ingested — Gap 1. Created the source page **[[ashton-industrial-revolution]]** (the classic economic account of British industrialization — cheap capital, the cotton/iron/steam innovations, expanding markets; the "optimist" position on living standards). Enriched **[[industrialization]]**.)
