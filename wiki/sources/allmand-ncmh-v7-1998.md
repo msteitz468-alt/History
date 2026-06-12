@@ -14,8 +14,8 @@ reliability_notes: >
   in the TOC/contributors list, and footnote digits are garbled or stripped, and map plates are
   garbage. Navigate by chapter-title headings (all-caps in the OCR) and running footers, as for
   Vols 1–6. Editor: Christopher Allmand (Liverpool). Replaces the final volume of the old CMH.
-pages_created: 1
-pages_updated: 2
+pages_created: 26
+pages_updated: 20
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -128,4 +128,63 @@ the Conclusion (from c. line 36417) follow. The bibliography and tables are not 
 
 ## Volume Synthesis Note
 
-(Written after all eight cycles are processed — Step 3 of the Large-Volume Protocol.)
+NCMH VII is the **final volume of the New Cambridge Medieval History**, and Christopher Allmand built
+it as a deliberate argument against the old image of the fifteenth century as "the final century of
+the traditional Middle Ages... a period of decay and decline." Its most striking structural choice —
+placing **sixteen thematic chapters (Parts I–III) before** the regional "states" chapters (Part IV) —
+embodies the claim that "both men and politics are part of a wider world picture which encompasses
+ideas, political, religious, cultural and artistic, as well as economic and social change." Where
+[[jones-ncmh-v6-2000|NCMH VI]] framed the fourteenth century as the "apocalyptic" age of the
+[[black-death|plague]] and the [[late-medieval-crisis|crisis]], Allmand's volume narrates **recovery,
+dynamism, and the crossing of thresholds into the modern world**.
+
+Allmand's Conclusion draws the threads together. The volume's first lesson is **diversity**: late-
+medieval Europe "had accepted a considerable diversity of political systems" — princely monarchy
+across the west, the republics of [[swiss-confederation|Switzerland]] and Venice, the popular
+experiment of [[hussite-wars-1419|Hussite Bohemia]], the federal and pactist unions of
+[[crown-of-aragon|Aragon]], [[kalmar-union-1397|Kalmar]] and [[grand-duchy-of-lithuania|Poland-
+Lithuania]] — and a corresponding variety of representative institutions (Fortescue's *dominium
+politicum et regale* of England against the *dominium regale* of France). The second is the
+**consolidation of monarchy**: "as the fifteenth century proceeded, the momentum of monarchy
+noticeably increased," resting on **legitimacy and dynasticism** (the closed "imperial" crown, the
+family tree as propaganda) and producing the [[new-monarchy|"new monarchies"]] — [[louis-xi-of-france|
+Louis XI's]] France, the early [[tudor-dynasty|Tudors]], the [[catholic-monarchs|Catholic Monarchs]] —
+though Horrox's England and Chevalier's France both **qualify** the thesis, stressing personal
+monarchy and decentralisation over bureaucratic absolutism.
+
+A third master-theme is the **rising weight of the laity** and the engines that empowered it. The
+volume's thematic core — Rapp on [[late-medieval-lay-religion|religion]], Verger on the
+[[medieval-university|universities]], Black on [[renaissance-humanism|humanism]], McKitterick on the
+[[printing-revolution|printing revolution]] — traces a better-educated, more literate lay world,
+served by the manuscript and then the printed book, in which "the movement towards giving the laity a
+greater role in the Church's affairs began at least a century before the Reformation." Humanism is
+recast (Black, against Burckhardt) not as a new philosophy of man but as the literary and educational
+**badge of the ruling class**; printing is judged, with some hedging, "the most long-lasting single
+advance made in fifteenth-century Europe." Underlying all of this is the **economic recovery** after
+mid-century (Childs, Dyer, Dobson): a smaller post-plague population on more land, a contraction-then-
+expansion of [[early-modern-commerce|commerce]], the shift of the commercial centre of gravity from
+the Mediterranean toward the [[urbanization|Atlantic]], and the resilience of the towns.
+
+The fourth theme is the **threshold of a wider world**. Three of the volume's chapters reach beyond
+Latin Christendom and beyond the Middle Ages entirely: Fernández-Armesto on the
+[[age-of-discovery|Atlantic discoveries]], and Zachariadou and Bryer on the
+[[fall-of-constantinople-1453|fall of Constantinople (1453)]] and the [[ottoman-empire|Ottoman]]
+ascendancy. The two great frontiers of the faiths moved in opposite directions within forty years —
+the [[fall-of-granada-1492|Reconquista completed at Granada (1492)]] as Byzantium fell to Mehmed II —
+while a new Orthodox empire rose in [[ivan-iii-vasilyevich|Muscovy]] ("the Third Rome") and the
+Portuguese and Castilians opened the ocean routes. The **military revolution** in embryo (Allmand's
+own chapter) — standing armies, gunpowder artillery, the angle bastion — and the
+[[italian-renaissance-state-system|Italian states-system]] of resident diplomacy and balance of
+power supplied the political and military machinery of the early-modern age.
+
+**Cross-volume tensions.** The volume mostly *extends* rather than contradicts its predecessors,
+carrying forward the backbone narratives of NCMH IV–VI: the [[hundred-years-war-1337|Hundred Years
+War]] to its close, the [[papacy|papacy]] from the [[great-schism-1378|Schism]] through
+[[conciliarism|conciliarism's]] defeat to the Renaissance popes, the [[holy-roman-empire-late-medieval|
+Empire]] toward its 1495 reform, and the [[byzantine-empire|Byzantine]] decline to extinction. Its
+sharpest historiographical interventions are against received frameworks rather than other volumes:
+Black's anti-Burckhardtian humanism, Horrox's and Chevalier's deflation of the "new monarchy," Bryer's
+insistence that 1453 mattered most to the Roman Orthodox themselves, Mallett's rejection of the
+"economic depression of the Renaissance," and Dyer's case against demographic determinism in the
+countryside. Together they leave the wiki with a fifteenth century that is the **bridge** the volume
+set out to describe — not the twilight of the Middle Ages but the workshop of the early-modern world.
