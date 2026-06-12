@@ -77,6 +77,34 @@ Comata* the right to hold magistracies and enter the Senate at Rome — extendin
 privilege Narbonensis already enjoyed. The economy (Italian land-accumulation, colonial land-
 divisions, mining) Goudineau largely reserves for CAH XI.
 
+## The High Empire: the silent, prosperous provinces (CAH XI, Goudineau)
+
+[[bowman-cah-v11-2000|CAH XI]] Ch. 14 (also **Goudineau**) covers AD 70–192, when the Gallic
+provinces fall almost entirely **out of the historical record** — Jullian's "silence... a good
+omen" — mentioned only for the **persecution of the Christians of Lyons (177)** and the **banditry
+of Maternus** under Commodus. Domitian's creation of the **Germanies** placed the Tres Galliae
+safely *behind* the frontier zone. With no narrative texts, the chapter is built from **epigraphy
+and archaeology**, and its themes are the depth of integration and the scale of rural prosperity:
+
+- **Thorough Romanization.** By the second century Gaul was "thoroughly romanized": the **Latin
+  right** (granted to Narbonensis by Caesar, extended to the Tres Galliae perhaps only under the
+  Flavians) and the spread of **Latin** had effectively displaced Celtic — Goudineau argues even
+  the "barbarous speech" Irenaeus preached to was bad Latin, not Gaulish. "Resistance" and
+  "survivals" are the wrong frame; Old French descends from Latin.
+- **A revised countryside.** Aerial photography and rescue archaeology (the motorway/TGV transects)
+  reveal a **density of rural settlement** six or seven times higher than once thought (Picardy: a
+  great site every 2–3 km), prompting an upward revision of Gaul's **population to well over 10
+  million**. The misnamed "*villae*" were varied **farmhouses** evolving from Iron Age forms, the
+  basic unit ~25–30 ha, with no thousand-hectare *latifundia*.
+- **Small towns.** The ***agglomérations secondaires*** ("small towns") — 75 in the Aeduan/
+  Lingones/Sequani region alone, many with baths, sanctuaries, even theatres — flourished under the
+  Flavians and second century *alongside* (not in competition with) the growing *civitas* capitals,
+  serving agriculture, crafts, mining, and cult.
+- **Agriculture and export.** Above all a land of **stock-raising** (the Italian *bos
+  brachycephalos* enlarging native breeds) and **cereals** (the Gallic reaping machine, the
+  *vallus*), with booming **viticulture** — Domitian's vine edict (AD 92) plainly **not enforced**,
+  since Gaulish wine in its own "Gaulish amphorae" now reached the Rhine camps, Britain, and Ostia.
+
 ## Significance
 
 Goudineau's Gaul is the test case of the empire's **heterogeneous, composite character**: not a
@@ -91,5 +119,5 @@ the steady **juridical integration of provincial elites** into the Roman governi
 - Parallels the [[romanization-of-italy]] and [[hispania-roman|Roman Spain]]; the frontier with
   [[roman-germany]]
 - Administered per [[roman-provincial-administration]]; the [[year-of-the-four-emperors-69ce|68–69
-  crisis]] (Vindex)
-- Source: [[bowman-cah-v10-1996]] (Ch. 13d, Goudineau)
+  crisis]] (Vindex); High-Empire banditry ([[roman-banditry|Maternus]])
+- Sources: [[bowman-cah-v10-1996]] (Ch. 13d, Goudineau) · [[bowman-cah-v11-2000]] (Ch. 14, Goudineau)

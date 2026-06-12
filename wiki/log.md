@@ -1396,3 +1396,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | CAH XI — The High Empire AD 70–192 | Section: Rome and Italy (Ch 12, Purcell) | Pages created: 1 | Pages updated: 0
 
 ## 2026-06-12 section | CAH XI — The High Empire AD 70–192 | Section: Spain (Ch 13, Alföldy) | Pages created: 0 | Pages updated: 1
+
+## 2026-06-12 section | CAH XI — The High Empire AD 70–192 | Section: Gaul (Ch 14, Goudineau) | Pages created: 0 | Pages updated: 1
