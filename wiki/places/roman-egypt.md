@@ -83,6 +83,33 @@ apparatus that turned the country into the granary and treasury of the empire �
 the Senate, and so closely from the emperor's rivals, that command of Egypt could help decide who
 *was* emperor.
 
+## Egypt from Severus to Constantine (CAH XII)
+
+[[bowman-cah-v12-2005|CAH XII]] Ch. 10 (**Alan Bowman**) gives Egypt a chapter to itself — uniquely
+among provinces — because its **papyri** light up the [[third-century-crisis|third-century]] in
+detail unmatched anywhere, and bear directly on the "crisis" debate. Key developments:
+
+- **Severan municipalization**: during his visit (199/200) **Septimius Severus** granted
+  **councils (*boulai*)** to Alexandria and the nome metropoleis — creating a metropolitan **curial
+  class** to bear administrative burdens (with collective responsibility for tax) and giving the
+  towns the self-conscious trappings of **Greek poleis** (gymnasia, games, the corn-dole). After 212
+  virtually all were Roman citizens.
+- **Reform attempts**: a coherent overhaul under the **Philippi** (240s, Marcellus and Salutaris —
+  land, liturgies, the *rationalis/katholikos*), and then the **Diocletianic overhaul** (c. 287–312):
+  the **division of Egypt** into provinces (Thebaid, then Aegyptus Iovia/Herculia) within the
+  **diocese of Oriens**; the end of the **Alexandrian tetradrachm** (296); the **iugatio–capitatio**
+  tax system (the Optatus edict, 297) backed by *censitores* and a land survey; new local officers
+  (*logistes, syndikos, exactor*) drawn from the curial elite; the replacement of toparchies by
+  *pagi*; and the **15-year indiction cycles** (from 312).
+- **Revisionist deflation of "crisis"**: Bowman stresses that the Egyptian evidence will **not bear
+  the weight** of a "third-century economic crisis." Long-term tax yields were **stable**; large-scale
+  *agri deserti* and depopulation are now doubted (localized in the over-documented Fayum); coin
+  **debasement was real but runaway price-inflation was not** (serious price rises only from the 270s,
+  largely a remonetization effect). The **Diocletianic achievement** was to overhaul a malfunctioning
+  system into one that worked — remonetization, the iugatio–capitatio, and (under Constantine) the
+  **solidus** — pointing forward to the stable, increasingly **privatized** landholding of Byzantine
+  Egypt, with little sign yet of the colonate or the great estate.
+
 ## Related
 
 - Annexed by [[augustus]] from [[ptolemaic-egypt|Cleopatra's Ptolemaic kingdom]]; its prefect
@@ -90,5 +117,7 @@ the Senate, and so closely from the emperor's rivals, that command of Egypt coul
 - The southern expeditions of [[augustan-imperial-expansion]]; the grain feeding
   [[imperial-finances|Rome]]; contrast the council-based [[roman-provincial-administration|civic
   provinces]]
+- The late-antique transformation: [[late-roman-cities]], [[late-roman-administration]];
+  [[diocletian|Diocletian's]] reforms and the [[third-century-crisis|crisis]] debate
 - Companion (CAH X Ch. 14): [[roman-greek-east|Greece]], [[roman-syria|Syria]], [[roman-judaea|Judaea]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 14b, Bowman)
+- Sources: [[bowman-cah-v10-1996]] (Ch. 14b, Bowman); [[bowman-cah-v12-2005]] (Ch. 10, Bowman)

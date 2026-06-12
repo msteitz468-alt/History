@@ -95,11 +95,32 @@ through which Roman power reached far beyond the administered line**. The readin
 (see [[roman-grand-strategy]]); it also rests heavily on archaeology that is far more advanced in
 the West (Britain especially) than in the strategically weightier East.
 
+## The frontiers in the crisis and after (CAH XII)
+
+[[bowman-cah-v12-2005|CAH XII]] Ch. 8 (**John Wilkes**) carries the frontiers through the
+[[third-century-crisis|crisis]]. Under the **Severans** the limits *advanced* — to the **Tigris**
+(the new province of Mesopotamia), to the **northern Sahara fringe** (the African oasis-forts and
+the *Nova Praetentura* of Mauretania), and in Britain — the high-water mark of direct occupation.
+The crisis then concentrated its damage on **four invasion zones** (the lower Rhine/northern Gaul,
+the upper Rhine/upper Danube, the lower Danube/Black Sea, and the eastern provinces), with much of
+the empire (Britain, Africa, Spain) little touched; the "epigraphic habit" collapsed around 250.
+Wilkes (with Mann and Isaac, against Luttwak) again **rejects empire-wide "grand strategy."** The
+response was reactive: subsidies, the evacuation of **Dacia** and the **Agri Decumates** for shorter
+lines, and — under [[diocletian|Diocletian]] and [[constantine-the-great|Constantine]] — a vast,
+**centrally directed** programme of fortification: the densely-forted **Strata Diocletiana**
+(Arabia–Palmyra–Euphrates), the **Saxon Shore** coastal forts, the **claustra Alpium Iuliarum**
+barring Italy, walled cities and hill-refuges, and bridgehead forts. Many Severan units still appear
+in the **Notitia Dignitatum**. The chapter also tracks the rise of the **imperial "sub-capitals"**
+(Trier, Milan, Sirmium, Nicomedia, Antioch, Thessalonica, and finally
+[[founding-of-constantinople-330|Constantinople]]) as the centre of gravity shifted from Rome to the
+frontiers.
+
 ## Related
 
 - The frontier wars and settlements of the period: the [[marcomannic-wars-166-180|Marcomannic
   Wars]], [[dacian-wars-101-106|Dacian Wars]], [[trajans-parthian-war-114-117|Parthian War]]
-- The army that held them (Cycle 3); the [[roman-imperial-army|imperial army]] of CAH X
+- The army that held them: [[roman-imperial-army]], [[late-roman-army]]; the [[third-century-crisis|crisis]]
+  and the [[sassanid-empire|Sassanid]] threat
 - The central scholarly dispute: [[roman-grand-strategy]]
 - `contrasts_with:` the modern notion of a fixed national border; the [[battle-of-teutoburg-forest-9ce|Teutoburg]] limit
-- Source: [[bowman-cah-v11-2000]] (Ch. 8, C. R. Whittaker)
+- Sources: [[bowman-cah-v11-2000]] (Ch. 8, Whittaker); [[bowman-cah-v12-2005]] (Ch. 8, Wilkes)
