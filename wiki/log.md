@@ -1245,3 +1245,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-11 section | CAH Vol. VI | Section: Cycle 8 — Alexander the Great + Epilogue (Chs 16–18: events of the reign, Greece & the conquered territories, Hornblower's Epilogue) | Pages created: 1 | Pages updated: 1
 
 ## 2026-06-11 ingest-complete | The Cambridge Ancient History Vol. VI — The Fourth Century B.C. (Lewis, Boardman, Hornblower & Ostwald eds., 2nd ed. 1994) | Total pages created: 41 | Total pages updated: 16 | Sections processed: 8 | index.md statistics recomputed by on-disk file count (Total 605). Source already .md in raw/Markdown/ (no PDF). Completes the second edition of the Greek CAH (Vols III–VI); the wiki now holds a continuous Greek narrative from the Bronze Age to the death of Alexander. Next backbone volume in Processing-List order: CAH VII (the Hellenistic world / rise of Rome).
+
+## 2026-06-11 admin | Pushed completed CAH Vol. VI ingest to GitHub (git@github.com:msteitz468-alt/History.git) — 659ac18..0933665 on main; raw/ remains gitignored.
