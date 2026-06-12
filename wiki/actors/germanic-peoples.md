@@ -104,3 +104,22 @@ peoples through the fourth century. Heather's chapter on the **Goths** is the mo
 - `contrasts_with:` the [[sassanid-empire|Sassanid Empire]] — a centralized state, where the Germani were
   fluid confederations; the [[arab-desert-peoples|Arab desert peoples]] of the eastern frontier
 - Sources: [[bowman-cah-v12-2005]] (Ch. 13, Todd); [[cameron-cah-v13-1998]] (Ch. 15, Todd; Ch. 16, Heather)
+
+## Update — the successor kingdoms (5th–6th c., CAH XIV)
+
+By the fifth century the *foederati* had become **territorial kingdoms** carved out of the western empire —
+the endpoint of the long process this page traces. [[cameron-cah-v14-2000|CAH XIV]] (Wood, Ch. 5) treats
+them as the political heirs of Rome in the West:
+
+- **[[theoderic-the-great|Ostrogothic Italy]]** under Theoderic (493–526) — the most "Roman" of the
+  kingdoms, preserving senate and administration, destroyed by [[justinian|Justinian's]] Gothic War.
+- **[[vandal-kingdom|Vandal Africa]]** under Geiseric (439–534) — the only sea-power, Arian persecutor,
+  swept away by Belisarius.
+- **[[clovis|Frankish Gaul]]** under Clovis (the Merovingians) — uniquely **Catholic**, and so the most
+  durable, the nucleus of medieval Francia.
+- **Visigothic Spain**, the **Burgundians**, the **Sueves**, the **Lombards** (Italy from 568), and
+  **Anglo-Saxon Britain** complete the map.
+
+The decisive structural variable was **religion**: the Arian kingdoms (Vandal, Visigothic, Ostrogothic) were
+divided from their Catholic provincial subjects, while Clovis's conversion aligned crown, aristocracy and
+Church. Source: [[cameron-cah-v14-2000]] (Ch. 5, Ian Wood).
