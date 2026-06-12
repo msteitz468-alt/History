@@ -64,8 +64,32 @@ of "his dear and well-beloved" subjects and the trauma of the war — a French *
 Autrand stresses that the king remained "the mainspring of political action," the sacral and human
 "fount of grace" at the apex of the developing state.
 
+## The Recovery and the "New Monarchy" (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Bernard Chevalier, The Recovery of France 1450–1520, Ch. 19b)
+takes the Valois state from its mid-century fragility to the threshold of the Italian Wars. After
+**Charles VII** won the [[hundred-years-war-1337|Hundred Years War]] (1453) and built the standing
+army and permanent taxation, the central drama was the struggle between **royal sovereignty and the
+princely polyarchy** — the great, well-organised principalities of Burgundy, Brittany, Bourbon and
+Anjou. **[[louis-xi-of-france|Louis XI]]** (r. 1461–83) broke their capacity to resist, absorbing
+**Burgundy** (1477) and the **Angevin lands** (1481); the *Guerre Folle* (1485) and the **Breton
+marriage** of Charles VIII to **Anne of Brittany** (1491) completed the territorial unification.
+
+Chevalier qualifies the old "rise of the centralised nation-state" narrative: the renascent monarchy
+was a **decentralised** state of ~5,000 officers, ten provincial *gouvernements*, multiplying
+provincial *parlements*, and largely autonomous **bonnes villes** — a "monarchy strongly tempered by
+aristocracy," its absolutism more **"mystical"** (the *roi très chrétien*, the sacred *ampoule*, the
+Gallican Church) than bureaucratic. Riding a Europe-wide **economic recovery** (population returning
+toward 15 million), the kings turned, under **Charles VIII** and **Louis XII**, from the "royal"
+policy of unification to an **"aristocratic and imperial"** one — the **Italian Wars** as "wars of
+magnificence," expressing a humanist-fed **national consciousness** (the Trojan/Gallic myth, the
+French language as the badge of service) and an imperial vocation that would culminate in **Francis
+I's** bid for the imperial crown (1519). See the [[new-monarchy|"new monarchy"]] concept.
+
 ## Related
 
+- `followed_by:` the consolidation under [[louis-xi-of-france|Louis XI]] and the rise of the [[new-monarchy|French "new monarchy"]]; the Italian Wars.
+- `opposed_by:` the [[valois-burgundian-state|Valois Burgundian state]] (the greatest of the principalities, broken in 1477).
 - `followed:` the direct [[capetian-dynasty|Capetian]] line (extinct 1328); a cadet branch of it.
 - `opposed_by:` the [[edward-iii-of-england|Plantagenets]] in the [[hundred-years-war-1337|Hundred Years War]].
 - `part_of:` the [[late-medieval-crisis|fourteenth-century crisis]] and the rise of the [[late-medieval-political-thought|sovereign state]].

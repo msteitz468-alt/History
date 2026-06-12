@@ -69,8 +69,44 @@ politics into the early-modern period. Charles IV's weak son **Wenceslas** was d
 replaced by **Rupert of the Palatinate**, before the crown returned to the Luxemburgs and then the
 Habsburgs.
 
+## The Fifteenth Century: König und Reich (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Tom Scott, Germany and the Empire, Ch. 17) carries the story
+through the three emperors who spanned the century — the Luxemburg **Sigismund** (r. 1410–37) and
+the Habsburgs **Albert II** (1438–9) and the long-lived **Frederick III** (1440–93) — to the
+threshold of **Maximilian** (1493–1519). Its master theme is the **constitutional dualism of "König
+und Reich"**: the slow institutionalisation of the *Reich* as a political nation of estates
+(*Reichsstände*) alongside an essentially personal, feudal monarchy.
+
+- **A German Empire.** "Germany" was still an anachronism (the sources say "the German lands"), but
+  the **nation** displaced the plural over the century: the General Councils on German soil
+  (**Constance 1414–18, Basle 1431–9**) spread the language of *nationes*; the **"Holy Roman Empire
+  of the German Nation"** (term first recorded 1492) fused the universal *imperium* with a specific
+  German identity. Humanists (Celtis's edition of Tacitus's *Germania*) lent it heroic antiquity.
+- **An absentee, feudal monarchy.** Sigismund spent barely two years of his reign in Germany;
+  Frederick III withdrew to his Austrian lands for decades. Royal authority "depended heavily upon
+  the king's presence," and rested on **dynastic *Hausmacht*** rather than institutions. Frederick's
+  obsessive Habsburg consolidation (the motto *AEIOU*) and his **Concordat of Vienna (1448)** with
+  the papacy ultimately paid off: the **Treaty of Bratislava/Pressburg (1491)** secured the Habsburg
+  claim to Bohemia and Hungary, and Maximilian's marriage to **Mary of Burgundy (1477)** created the
+  Habsburg–Burgundian power that made the dynasty a European colossus.
+- **The Hussite wars and imperial reform.** Financing the anti-[[hussite-wars-1419|Hussite]]
+  crusades produced the first imperial **quota list (*Matrikel*, 1422)** and poll-tax schemes — the
+  faltering origins of the **Common Penny** voted at the great reforming **Diet of Worms (1495)**,
+  which also created the *Reichstag* proper and the *Reichskammergericht*. Yet no imperial standing
+  army emerged (in sharp contrast to [[valois-dynasty|France]]), and the *Reichstag* remained "very
+  far removed from a parliament."
+- **Frontiers and losses.** The century saw the Empire's edges fray: **Bohemia** severed by the
+  Hussite revolution and the "national" king **George of Poděbrady**; the **Swiss Confederation**
+  effectively separated (the Perpetual Accord of 1474; the Swabian War of 1499); the Burgundian
+  inheritance contested with France; the **Teutonic Order** forced under Polish suzerainty (Second
+  Peace of Thorn, 1466). Within Germany the great **territorial principalities** (Wittelsbach,
+  Hohenzollern, Wettin) consolidated through inheritance and *gute Polizei*, foreshadowing the
+  early-modern German states.
+
 ## Related
 
+- `followed_by:` the [[hussite-wars-1419|Hussite wars]] (which severed Bohemia) and the Habsburg–Burgundian union of 1477.
 - `followed:` the [[german-interregnum-1250|Interregnum]] and [[rudolf-of-habsburg|Rudolf I]]; the Hausmacht principle they established.
 - `part_of:` the [[late-medieval-political-thought|conflict over papal and imperial authority]] (Lewis of Bavaria, Marsilius, Ockham).
 - `contrasts_with:` the centralising national monarchies of [[valois-dynasty|France]] and [[edward-iii-of-england|England]].

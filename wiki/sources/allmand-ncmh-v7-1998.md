@@ -91,6 +91,15 @@ the Conclusion (from c. line 36417) follow. The bibliography and tables are not 
   `concepts/medieval-university.md` (Verger: the princely proliferation of universities), and
   `concepts/international-gothic.md` (Crossley: the transition to Renaissance naturalism; Curtis on
   music). (Pages created: 2 | Pages updated: 3.)
+- **2026-06-12 — Cycle 5 (Part IV, "The Empire, Bohemia, France & Burgundy").** Created
+  `actors/hus-jan.md`, `events/hussite-wars-1419.md` (Klassen: the Hussite revolution, Tabor, Žižka,
+  the Four Articles, Lipany 1434), `actors/valois-burgundian-state.md` (Schnerb: the four dukes, the
+  court, the Golden Fleece, Charles the Bold's fall 1477), `actors/order-of-the-golden-fleece.md`,
+  `actors/louis-xi-of-france.md` (Chevalier: king vs. princes, the recovery), and
+  `actors/joan-of-arc.md` (Vale). Updated `actors/holy-roman-empire-late-medieval.md` (Scott: König
+  und Reich, Sigismund→Maximilian, the 1495 reform), `events/hundred-years-war-1337.md` (the final
+  phase 1420–1453), and `actors/valois-dynasty.md` (the recovery and the new monarchy).
+  (Pages created: 6 | Pages updated: 3.)
 
 ## Volume Synthesis Note
 

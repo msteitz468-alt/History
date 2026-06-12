@@ -74,6 +74,31 @@ The war's effects were structural and lasting:
   all but Calais — by 1453, by which time the war had helped forge two consolidated national
   monarchies. (The fifteenth-century close belongs to NCMH VII.)
 
+## The Final Phase (1420–1453, NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Malcolm Vale, France at the End of the Hundred Years War, Ch. 19a)
+narrates the Valois near-collapse and recovery. The murder of **John the Fearless** at Montereau
+(1419) — "the hole through which the English entered France" — drove **Philip the Good** into the
+**Treaty of Troyes (1420)**, creating an **Anglo-Burgundian dual monarchy** of Henry V (then the
+infant Henry VI). The disinherited dauphin held the "**kingdom of Bourges**" south of the Loire.
+
+- **The turning of the moral tide.** **[[joan-of-arc|Joan of Arc]]** relieved **Orléans (1429)** and,
+  decisively, had the dauphin **crowned and anointed at Reims**, securing the sacral legitimacy the
+  Lancastrians could not match.
+- **The diplomatic turn.** The **Treaty of Arras (1435)** reconciled **[[valois-burgundian-state|
+  Burgundy]]** with **[[valois-dynasty|Charles VII]]**, "undermin[ing] the foundations of Lancastrian
+  power"; Paris was regained in 1436.
+- **The military recovery.** After suppressing the noble *Praguerie* (1440), Charles VII built a
+  **standing army** (the **compagnies d'ordonnance**, 1445–8; the *francs-archers*, 1448), financed
+  partly by the seized fortune of **Jacques Coeur**. The **Bureau brothers' siege artillery** and the
+  victories of **Formigny (1450)** and **Castillon (1453)** — where John Talbot fell — recovered
+  **Normandy** and **Guyenne**, leaving only **Calais** in English hands.
+
+The war thus accelerated the rise of the **fiscal-military Valois state** (permanent taxation, the
+standing army, the *noblesse de robe*) even as France remained "divided by law, language and custom,"
+not yet a nation — "the gradual and difficult progress towards absolutism had begun." Its sequel, the
+recovery and consolidation under [[louis-xi-of-france|Louis XI]], is treated separately (Ch. 19b).
+
 ## Related
 
 - `caused_by:` the [[philip-iv-capetian|Capetian]]–[[edward-i-plantagenet|Plantagenet]] rivalry over Aquitaine and the failure of the direct Capetian line.
