@@ -9,7 +9,7 @@ affiliated_with: [the Dutch Republic (States General), Amsterdam stock market]
 opposed_by: [Portuguese Estado da India, English East India Company, Asian states resisting monopoly (Banda, Ternate, Mataram)]
 key_events: [Banda massacre (1621), expulsion of the Portuguese from Japan and Taiwan, founding of Batavia (1619)]
 key_processes: [early-modern-commerce, indian-ocean-trade, global-silver-trade, plantation-economy]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [actor, organization, early-modern, indian-ocean]
 ---
@@ -75,3 +75,7 @@ a **transitional** form — bridging medieval partnership and the modern
 corporation — and as a hybrid **company-state** whose sovereignty and violence
 were as constitutive as its finance. See [[trade-diaspora]] for Curtin's
 provocative grouping of the companies with stateless merchant networks.
+
+The VOC's place in the wider **[[dutch-overseas-empire|Dutch overseas empire]]** (Atlantic and Indian
+Ocean together) is now treated in the ingested **[[emmer-dutch-overseas-empire|Emmer & Gommans, *The
+Dutch Overseas Empire, 1600–1800*]]**.

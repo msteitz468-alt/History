@@ -13,6 +13,10 @@ Format:
 
 ## 2026-06-12 admin | Processing-List Phases 7 (ANE/Egypt depth) and 8 (Ancient China depth) skipped — every named volume absent from the collection. Proceeding to Phase 9 (Greece & Rome Depth).
 
+## 2026-06-12 ingest | The Dutch Overseas Empire, 1600–1800 (Pieter C. Emmer & Jos J. L. Gommans, 2020) | Early Modern, Age of Expansion | atlantic-world, indian-ocean, southeast-asia | Pages created: 2 | Pages updated: 1
+
+## 2026-06-12 admin | All named Processing-List sources that exist in the collection are now ingested (114 named: 79 ingested, 35 absent/corrupt). Remaining list scope = the "[All files]" whole-folder/series directives of Phases 9–13 (the ~3,000-file sorted corpus).
+
 ## 2026-06-12 ingest | The Merchant Republics: Amsterdam, Antwerp, and Hamburg, 1648–1790 (Mary Lindemann, 2015) | Early Modern, Age of Expansion | northern-europe, western-europe | Pages created: 2 | Pages updated: 1
 
 ## 2026-06-12 ingest | Siege Warfare: The Fortress in the Early Modern World 1494–1660, Vol. 1 (Christopher Duffy, 1979) | Early Modern | italy, western-europe | Pages created: 2 | Pages updated: 1
