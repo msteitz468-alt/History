@@ -1452,3 +1452,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | CAH XII — The Crisis of Empire AD 193–337 | Section: The non-Roman world (Chs 13–16) | Pages created: 8 | Pages updated: 1
 
 ## 2026-06-12 section | CAH XII — The Crisis of Empire AD 193–337 | Section: Religion, culture & society (Chs 17–19) | Pages created: 3 | Pages updated: 1
+
+## 2026-06-12 ingest-complete | CAH XII — The Crisis of Empire AD 193–337 (Bowman, Garnsey & Cameron eds., 2nd ed. 2005) | Total pages created: 34 | Total pages updated: 4 | Sections processed: 6
