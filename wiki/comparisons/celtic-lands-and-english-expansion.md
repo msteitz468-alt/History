@@ -37,8 +37,15 @@ past history, "political will and chance" shaped the divergent results.
   England," secured by a great ring of castles.
 - **Scotland — the assertion of independence.** Scotland "entered that bloody and heroic phase"
   that would culminate in the successful assertion of its **independence as a kingdom** — the
-  opposite of the Welsh outcome (treated by Bartlett against the backdrop of Edward I's intervention
-  after 1286; see [[edward-i-plantagenet]]).
+  opposite of the Welsh outcome. After [[edward-i-plantagenet|Edward I]] adjudicated the
+  Balliol–Bruce succession (1292) and tried to make Scotland "a mere adjunct of the realm of
+  England," a sustained "people's war" (William Wallace; Stirling Bridge, 1297) and then
+  **[[robert-the-bruce|Robert the Bruce]]'s** victory at **[[battle-of-bannockburn-1314|Bannockburn]]
+  (1314)** secured independence (the Declaration of Arbroath, 1320; the Treaty of Edinburgh, 1328).
+  [[jones-ncmh-v6-2000|NCMH VI]] (the Scotland chapter) attributes the divergent Scottish outcome to
+  its "**developed**" system of government — "capable of continuing even after military disaster" —
+  and to a **native aristocratic leadership** loyal to the Scottish (not the English) crown, the
+  decisive contrast with Wales and Anglo-Norman Ireland.
 - **Ireland — enduring division.** In Ireland "it became clear that the division between **English
   and Gaelic Ireland**" would "characterise the indefinite future" — neither full conquest nor
   expulsion, but a lasting, unstable dualism.

@@ -14,8 +14,8 @@ reliability_notes: >
   or stripped, and map plates are garbage. Navigate by chapter-title headings (all-caps in the
   OCR) and running footers, as done for Vols 1–5. Editor: Michael Jones (Nottingham). Replaces the
   old CMH Vol. VII, "Decline of the Empire and Papacy."
-pages_created: 5
-pages_updated: 7
+pages_created: 11
+pages_updated: 9
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -80,6 +80,15 @@ follow c. line 38500. These are not read as content.
   `concepts/gothic-architecture.md` (Binski — the late-Gothic diversification), and
   `processes/rise-of-vernacular-literatures.md` (Havely — the three crowns of Florence, Chaucer).
   (Pages created: 1 | Pages updated: 4.)
+- **2026-06-12 — Cycle 3 (Part II, "The British Isles").** Created
+  `events/hundred-years-war-1337.md`, `actors/edward-iii-of-england.md`,
+  `actors/richard-ii-of-england.md`, `events/peasants-revolt-1381.md`,
+  `events/battle-of-bannockburn-1314.md`, `actors/robert-the-bruce.md`. Updated
+  `concepts/english-parliament.md` (the fourteenth-century maturation under the fiscal demands of
+  war) and `comparisons/celtic-lands-and-english-expansion.md` (the Scottish independence detail).
+  Captured Ormrod on Edward II & Edward III, Barron on Richard II, and the chapters on Wales,
+  Scotland (Bruce, Bannockburn, the Treaty of Edinburgh) and Ireland. (Pages created: 6 | Pages
+  updated: 2.)
 
 ## Volume Synthesis Note
 

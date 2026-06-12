@@ -5,7 +5,7 @@ origin: Emic; the term "parliament" for meetings of king and magnates first appe
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [british-isles]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -63,6 +63,21 @@ peasantry, who "probably gained little" from reforms that spoke of helping "the 
 it institutionalised the exclusion of the Jews. The principle invoked — the Roman-law maxim
 "**what touches all shall be approved by all**" — gave consent an ideological charter, but
 participation was confined to the propertied.
+
+## The Fourteenth-Century Maturation (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (W. Mark Ormrod, Ch. 11a; Caroline Barron, Ch. 11b) shows
+parliament consolidated by the **fiscal demands of war**. The "advent of long-term warfare with
+Scotland and France created virtually unprecedented military, administrative and fiscal burdens,"
+and the price of subjects' support was the maturing of parliament "as a taxative and legislative
+assembly." Under [[edward-iii-of-england|Edward III]] the **Commons** — knights and burgesses —
+became a permanent and self-conscious estate: it granted the taxes and customs that funded the
+[[hundred-years-war-1337|Hundred Years War]], presented common petitions that became statutes, and
+in the **Good Parliament (1376)** developed **impeachment** of royal ministers. Under
+[[richard-ii-of-england|Richard II]] it was "the voice of the financial (and other) interests of
+the urban and gentry 'middle classes'." War finance thus turned the consultative body of the
+thirteenth century into the institutional check on the crown that defined English government — and,
+in 1399, ratified Richard II's deposition.
 
 ## Historiography
 

@@ -1642,3 +1642,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | NCMH VI — c. 1300–c. 1415 (Jones ed., 2000) | Section: Cycle 1 — Introduction + Part I "General Themes A" (government & political thought, religious thought, universities, rural society, urban life, plague & family) | Pages created: 4 | Pages updated: 3
 
 ## 2026-06-12 section | NCMH VI — c. 1300–c. 1415 (Jones ed., 2000) | Section: Cycle 2 — Part I "General Themes B" (trade, chivalry & the aristocracy, court patronage & International Gothic, architecture, vernacular literature) | Pages created: 1 | Pages updated: 4
+
+## 2026-06-12 section | NCMH VI — c. 1300–c. 1415 (Jones ed., 2000) | Section: Cycle 3 — Part II "The British Isles" (England: Edward II & Edward III, Richard II; Wales; Scotland; Ireland) | Pages created: 6 | Pages updated: 2
