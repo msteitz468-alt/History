@@ -14,7 +14,7 @@ scale_immediate: global
 scale_consequential: global
 causes: [the defeat of the Axis, the exhaustion of the European empires, the atomic bomb, US and Soviet ascendancy]
 consequences: [the Cold War bipolar order, the nuclear age, the wave of [[decolonization]], the Great Acceleration]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [event, transition, cold-war]
 ---
@@ -54,7 +54,13 @@ the Bretton Woods institutions) and set the stage for the worldwide wave of
   and the [[great-acceleration|Great Acceleration]] and the rapid diffusion of
   [[industrialization]] to East Asia.
 
+## See also
+
+The war that this transition closes is now an event page —
+**[[second-world-war-1939|The Second World War (1939–1945)]]** (narrative after
+[[beevor-second-world-war|Beevor]]) — with its origins on **[[causes-of-the-second-world-war]]**.
+
 ## Related pages
 
-[[world-wars-era]] · [[cold-war]] · [[decolonization]] · [[great-acceleration]] ·
+[[second-world-war-1939]] · [[world-wars-era]] · [[cold-war]] · [[decolonization]] · [[great-acceleration]] ·
 [[anthropocene]] · [[world-health-organization]] · [[1991-end-of-cold-war]]
