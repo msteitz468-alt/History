@@ -5,7 +5,7 @@ date_range: 1800–1914 CE
 regions_covered: [global, western-europe, north-america, east-asia, south-asia, africa, latin-america, near-east, pacific]
 major_themes: [industrialization, fossil-fuel energy transition, the new imperialism, nationalism, mass migration, abolition, the demographic transition, global market integration]
 collection_coverage: moderate
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-10
 tags: [period]
 ---
@@ -108,7 +108,9 @@ wars. See [[1914-end-of-long-19th-century]].
 ## Historiography
 
 The "long nineteenth century" is Hobsbawm's periodization (*The Age of Revolution*,
-*Capital*, *Empire*); C. A. Bayly's *The Birth of the Modern World, 1780–1914*
+*Capital*, *Empire*) — now ingested directly: **[[hobsbawm-age-of-revolution|Age of Revolution]]**,
+**[[hobsbawm-age-of-capital|Age of Capital]]**, **[[hobsbawm-age-of-empire|Age of Empire]]**, framed by
+the **[[dual-revolution|dual revolution]]** thesis. C. A. Bayly's *The Birth of the Modern World, 1780–1914*
 reframed it as a story of global "connections and comparisons" rather than European
 diffusion. CWH VII's signature contributions are **multipolar**: Kaoru Sugihara's
 argument that East Asian, **labor-intensive** industrialization is as central to
