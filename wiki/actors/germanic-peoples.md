@@ -72,12 +72,35 @@ which were neither Roman nor barbarian." Increasingly the dominant relationship 
 material for the fifth-century transformation of the West. For the wiki this anchors the northern frontier
 counterpart to the eastern [[sassanid-empire|Sassanid]] pressure in the [[third-century-crisis|crisis]].
 
+## The fourth century: ethnogenesis and the Gothic crisis (CAH XIII)
+
+[[cameron-cah-v13-1998|CAH XIII]] Chs. 15–16 (**Malcolm Todd**; **Peter Heather**) carry the Germanic
+peoples through the fourth century. Heather's chapter on the **Goths** is the most consequential:
+
+- **A more independent Gothic society.** Against the orthodoxy that the Goths (the **Tervingi** of
+  Athanaric, the **Greuthungi**) cared only for a steady flow of Roman gifts, Heather argues they were
+  **independent-minded political entities** that resented Roman intrusion — twice persecuting Christianity
+  (associated with **Ulfilas**, whose Gothic Bible and Homoian mission spread among them) precisely as "an
+  alien Roman religion," and seeking to "hold their own, politically and ideologically, against the Roman
+  state." The peace of **369** reflected Gothic wishes more than Themistius' "tribute" rhetoric admitted.
+- **The Hunnic domino effect.** The intrusion of the **[[huns|Huns]]** (from c. 370) overturned the order
+  beyond the Danube — subduing the Alans and Goths and driving the Tervingi and Greuthungi to seek asylum
+  in **376** (the prelude to [[battle-of-adrianople-378|Adrianople]]). Heather stresses this was a
+  **protracted, indirect process**, not a single flood: independent Gothic kings (Odotheus, Radagaisus)
+  survived north of the Danube into the 400s.
+- **Inside the empire.** [[battle-of-adrianople-378|Adrianople (378)]] and [[theodosius-i|Theodosius']]
+  ***foedus* of 382** settled the Goths as **autonomous *foederati*** — the decisive precedent. The Gothic
+  *ethnogenesis* of the **Visigoths** under [[alaric|Alaric]] (the [[sack-of-rome-410|sack of Rome]], then
+  Aquitaine 418) and the displacement of **Vandals, Alans and Sueves** across the Rhine (406) completed the
+  transformation. Wood (Ch. 17) treats the resulting **first settlements**.
+
 ## Related
 
 - The northern pressure on the [[roman-frontiers|frontiers]] and the [[late-roman-army|late Roman army]]
   during the [[third-century-crisis|crisis]]; the abandonment of the Agri Decumates and Dacia
-- Earlier conflict: the [[marcomannic-wars-166-180|Marcomannic Wars]]; the seedbed of the later Germanic
-  migrations
+- Earlier conflict: the [[marcomannic-wars-166-180|Marcomannic Wars]]; driven into the empire by the
+  [[huns|Huns]] — [[battle-of-adrianople-378|Adrianople]], the *foedus* of [[theodosius-i|Theodosius I]],
+  [[alaric|Alaric]] and the [[sack-of-rome-410|sack of Rome]]
 - `contrasts_with:` the [[sassanid-empire|Sassanid Empire]] — a centralized state, where the Germani were
   fluid confederations; the [[arab-desert-peoples|Arab desert peoples]] of the eastern frontier
-- Source: [[bowman-cah-v12-2005]] (Ch. 13, Malcolm Todd)
+- Sources: [[bowman-cah-v12-2005]] (Ch. 13, Todd); [[cameron-cah-v13-1998]] (Ch. 15, Todd; Ch. 16, Heather)

@@ -108,3 +108,17 @@ period.
 - `contrasts_with:` the Germanic [[germanic-peoples|peoples]] beyond the Rhine/Danube — a state, not a
   *gens*
 - Source: [[bowman-cah-v12-2005]] (Ch. 14, Richard N. Frye)
+
+## The fourth century: Shapur II and the treaty of 363 (CAH XIII)
+
+[[cameron-cah-v13-1998|CAH XIII]] Chs. 13–14 (**R. C. Blockley**; **Benjamin Isaac**) carry the eastern
+frontier through the fourth century, dominated by the long reign of **Shapur II** (309–379). Renewing the
+struggle over **[[armenia|Armenia]]** and **Mesopotamia** lost at the [[peace-of-nisibis-298|peace of 298]],
+Shapur fought a protracted war of **sieges** against [[constantius-ii|Constantius II]], who held the
+fortified towns (above all **Nisibis**, besieged three times) in a deliberately defensive strategy. The
+turning point was [[julian|Julian's]] catastrophic invasion of 363: after Julian's death, **Jovian** bought
+peace by the humiliating **treaty of 363**, surrendering **Nisibis**, the trans-Tigritane lands, and Roman
+claims in Armenia. Renewed friction under [[valentinian-and-valens|Valens]] over Armenia ended with the
+**partition of Armenia (c. 387)** between Rome and Persia — and thereafter a remarkably **stable peace**
+(the embassies of Anthemius/Marutha to Yezdegerd I; the Persian Christians' synod of 410), the eastern
+frontier ceasing to be Rome's chief worry while the West fragmented.

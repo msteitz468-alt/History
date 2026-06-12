@@ -1462,3 +1462,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | CAH XIII — The Late Empire AD 337–425 | Section: Government & institutions (Chs 5–8) | Pages created: 3 | Pages updated: 1
 
 ## 2026-06-12 section | CAH XIII — The Late Empire AD 337–425 | Section: Economy & society (Chs 9–12) | Pages created: 1 | Pages updated: 2
+
+## 2026-06-12 section | CAH XIII — The Late Empire AD 337–425 | Section: Foreign relations & the barbarian world (Chs 13–17) | Pages created: 1 | Pages updated: 3

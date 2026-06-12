@@ -86,3 +86,16 @@ monarchy's fall.
   [[edict-of-milan-313|Edict of Milan]]; the wider [[christianization-of-the-roman-empire|Christianization]]
 - A flashpoint of [[shapur-i|Shapur I]]'s wars and the [[third-century-crisis|crisis]]
 - Source: [[bowman-cah-v12-2005]] (Ch. 15, C. S. Lightfoot)
+
+## The fourth century: contest and partition (CAH XIII)
+
+[[cameron-cah-v13-1998|CAH XIII]] (Chs. 1, 13–14) carries Armenia through the fourth century as the
+perennial bone of contention between Rome and **Shapur II's [[sassanid-empire|Persia]]**.
+[[constantius-ii|Constantius II]] secured the kingdom by diplomacy (restoring king **Arsaces**, 338) while
+fighting his defensive Mesopotamian war; but after [[julian|Julian's]] disaster and **Jovian's treaty of
+363** (which abandoned Roman claims), Persia pressed its advantage. Renewed war under
+[[valentinian-and-valens|Valens]] led at last to the **partition of Armenia (c. 387)**: the larger part
+fell under Persian suzerainty, the smaller under Rome, which formally installed the satraps of six
+trans-Euphrates districts. The kingdom's Christianization gave it a lasting western/religious orientation,
+but its **division between the two empires** — a direct consequence of the fourth-century contest — fixed
+the shape of the Armenian question for centuries.
