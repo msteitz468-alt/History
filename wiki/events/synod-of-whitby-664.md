@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [caused_by: [[christianisation-of-anglo-saxon-england|clash of Roman and Irish missionary traditions]], caused_by: [[british-isles|disputes over the calculation of Easter and tonsure]]]
 consequences: [produced: [[christianisation-of-anglo-saxon-england|adoption of Roman Easter and liturgical customs in Northumbria]], contributed_to: [[theodore-of-tarsus|unification of the Anglo-Saxon Church under Roman authority]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [event, early-middle-ages, british-isles]
 ---
@@ -60,3 +60,4 @@ The primary narrative source for the synod is Bede's *Historia Ecclesiastica Gen
 ## References
 
 - *The New Cambridge Medieval History, Volume 1: c. 500–c. 700*, edited by Paul Fouracre. Cambridge University Press, 2005 (Chapters 15, 16, and 17).
+- The annalistic record of the Iona-centred world is now ingested as the **[[charles-edwards-chronicle-of-ireland|Chronicle of Ireland]]**; see also **[[iona]]**, home of the Columban *familia* whose Easter custom was rejected here.

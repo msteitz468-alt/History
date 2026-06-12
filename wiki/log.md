@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | The Chronicle of Ireland (TTH 44; reconstruction/trans. Charles-Edwards) | Late Antiquity, Early Middle Ages | british-isles, northern-europe | Pages created: 2 | Pages updated: 1
+
 ## 2026-06-12 ingest | Constantine and Christendom (TTH 39; trans./intro Mark J. Edwards) | Late Antiquity, Early Middle Ages | mediterranean, italy, levant | Pages created: 1 | Pages updated: 2
 
 ## 2026-06-12 ingest | The Ecclesiastical History of Evagrius Scholasticus (TTH 33; trans./intro Michael Whitby) | Late Antiquity | levant, near-east, anatolia | Pages created: 2 | Pages updated: 2
