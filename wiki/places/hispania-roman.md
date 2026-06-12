@@ -81,6 +81,34 @@ above all the **imperial cult** (the *concilium provinciae* under the *flamen*, 
 disparate local elites into a homogeneous provincial aristocracy; the temple of Augustus at
 Tarraco, begun AD 15, set the model "at the request of the *Hispani*").
 
+## The High-Empire zenith (CAH XI, Alföldy)
+
+[[bowman-cah-v11-2000|CAH XI]] Ch. 13 (also **Alföldy**) calls the two generations after AD 69 the
+**zenith** of Roman Spain. Galba's proclamation had shown its weight; now **Vespasian's grant of
+the Latin right to "all" Spain** (the censorship of AD 73/4) and the resulting flood of **Flavian
+*municipia*** (reaching the previously thinly-Romanized interior and north-west) completed the
+peninsula's network of autonomous towns — documented in unique detail by the **Flavian municipal
+charters** (*Lex Irnitana*, *Lex Salpensana*, *Lex Malacitana*). Spaniards now reached the summit:
+the senators of the Flavian Senate, and the emperors **Trajan** and **Hadrian** (both of Italica)
+and the Baetican ancestry of **Marcus Aurelius** (Ucubi).
+
+- **Government** stayed Augustan: proconsular **Baetica** (a modest post — the trials of Baebius
+  Massa and Caecilius Classicus, Pliny prosecuting), praetorian **Lusitania** (a backwater — Otho's
+  exile), and the prestigious consular **Hispania Citerior** (an elite command with the legion and
+  a *iuridicus*, increasingly fixed to Asturia-Callaecia). The garrison was **legio VII Gemina**
+  (raised by Galba, based at *Legio*/León) plus ~5 auxiliary units, concentrated in the
+  **north-west** — now less to suppress revolt than to **control the gold-mining districts** and
+  Romanize and recruit from the least urbanized region.
+- **Mining** flourished for the *fiscus*: the **Vipasca** tablets (*Lex Metalli Vipascensis*)
+  reveal the *procurator metallorum*, *conductores*, and *coloni*; **Las Médulas** the spectacular
+  hydraulic *ruina montium* by which (Pliny) Asturia, Callaecia, and Lusitania yielded ~20,000
+  Roman pounds of **gold** a year.
+- **Exports** crowned the economy: above all **Baetican olive oil**, shipped under state control to
+  Rome and the Rhine/Danube armies — its scale fossilized in Rome's **Monte Testaccio** — plus
+  *garum*, wine, *terra sigillata* (Tritium Magallum), textiles, and *lapis specularis*. The two
+  greatest monuments of the age, the **Alcántara bridge** (Trajan) and the **Segovia aqueduct**,
+  symbolize the prosperity.
+
 ## Significance
 
 Alföldy's conclusion: a century after the conquest, Spain was "mature enough to become the
@@ -96,4 +124,6 @@ the measure of its development.
 - Home of the [[nero|Neronian]]-era intellectuals (Seneca, Lucan); parallels the
   [[romanization-of-italy|Romanization of Italy]] and [[roman-gaul|Gaul]]
 - Administered per [[roman-provincial-administration]]; garrisoned per [[roman-imperial-army]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 13c, Alföldy)
+- High-Empire municipal charters illustrate [[roman-city-government]] and
+  [[roman-citizenship-and-belonging|the Latin right]]; home of [[trajan]] and [[hadrian]]
+- Sources: [[bowman-cah-v10-1996]] (Ch. 13c, Alföldy) · [[bowman-cah-v11-2000]] (Ch. 13, Alföldy)
