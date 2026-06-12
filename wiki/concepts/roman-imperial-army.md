@@ -76,6 +76,45 @@ totalling perhaps **15,000–20,000 men** and 75–100 ships (chiefly triremes).
 **Greek** maritime tradition is reflected in the ships' names and the officer titles
 (trierarch, navarch, *praefectus classis*).
 
+## The High Empire: organization and the turn to frontier defence (CAH XI, Hassall)
+
+[[bowman-cah-v11-2000|CAH XI]] Ch. 9 (**M. Hassall**) describes the mature army of AD 70–192 — by
+Trajan's reign **30 legions** (c. 165,000 men), with auxiliaries and the fleets, *numeri*, and
+Rome garrison bringing the total close to **half a million**: "the largest standing army the
+world had yet known," and the best trained and equipped.
+
+- **The legion.** c. 5,500 men: nine cohorts of six 80-man centuries, plus (from the late first
+  century, as the Inchtuthil fortress shows) a **double-strength first cohort** of five 160-man
+  centuries, plus 120 cavalry. Commanded by a senatorial *legatus* (combined with the governorship
+  in single-legion provinces), with the experienced equestrian *praefectus castrorum*, a young
+  *tribunus laticlavius*, five equestrian *tribuni angusticlavii*, and **59 long-service
+  centurions** (25+ years) capped by the *primus pilus* — the *primi ordines* the professional
+  backbone, paid ~16× the ranker.
+- **The auxilia.** Now **over 380 regiments**, outnumbering the legions in manpower: *cohortes*
+  (quingenary ~480 / milliary ~800), cavalry *alae*, and the versatile part-mounted **cohortes
+  equitatae** — flexibly brigaded and split (the Antonine Wall forts, the Vindolanda tablets). Pay
+  ran one and a half to two *aurei* below the legionary in graded steps (cohort foot < part-mounted
+  trooper < *ala* trooper). Domitian raised army pay (legionary 9→12 *aurei*) c. AD 84.
+- **Citizenship and the diploma.** The auxiliary's reward for 25 years was **Roman citizenship**
+  and *conubium*, certified on a bronze **diploma** — "the only mechanism by which citizenship was
+  regularly extended in the frontier provinces." A change of AD 140 withdrew the retrospective
+  grant to children, probably because their sons now received citizenship on enlistment, like
+  legionaries' sons. Recruitment shifted from the Italian/Narbonese colonies toward **provincial
+  and local** sources (and soldiers' own sons), the ethnic character of units fading as they
+  settled.
+- **From field army to frontier garrison.** Hadrian's turn to **consolidation behind fixed
+  frontiers** redefined the army's primary role as **frontier defence**: auxiliaries and *numeri*
+  manning the *limites*, watchtowers, and rear policing, legions as local backup. The system's
+  **weakness was the absence of a strategic reserve** — met only by stripping one frontier for
+  another or raising new legions (Marcus' **II and III Italica**, AD 165) — a problem not solved
+  until Constantine's mobile field army. Discipline tracked the emperor (rigorous under the
+  camp-sharing Hadrian, decayed under [[commodus]]).
+- **Army and society.** In the frontier provinces the army's pay and demand reshaped local
+  economies (Samian ware, grain *paid for*), soldiers undertook civil works, census-taking, and
+  district administration (*centuriones regionarii*, *beneficiarii*), and intermarriage and local
+  recruitment steadily dissolved the line between garrison and province — "converting barbarians
+  into loyal citizens." See [[roman-frontiers]].
+
 ## Significance
 
 Augustus' army was the structural foundation of the Principate: a **de-politicized,
