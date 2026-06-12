@@ -69,8 +69,10 @@ restocking the Senate (a property census of 1 million sesterces, 18 BCE, made it
 something like a hereditary peerage), creating equestrian administrative posts and new
 senatorial commissions, and emerging as **supreme judge** and head of the legal order —
 "the principal formal difference between Republic and Empire." His reign (to **14 CE**)
-saw the **moral/marriage legislation**, the great expansion of the empire (the **Varus
-disaster**, 9 CE), and the anxious securing of a **dynastic succession** — his blood
+saw the **moral/marriage legislation**, the **[[augustan-imperial-expansion|great expansion
+of the empire]]** (Egypt, the Alps, the Danube, the recovery of the Parthian standards — and
+the **[[battle-of-teutoburg-forest-9ce|Varian disaster]]**, 9 CE), and the anxious securing
+of a **dynastic succession** — his blood
 heirs dying (Marcellus, Gaius, Lucius) until he adopted his stepson **Tiberius** (4 CE)
 as *collega imperii*.
 
