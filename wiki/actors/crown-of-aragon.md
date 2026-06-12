@@ -84,8 +84,30 @@ of Trastámara). When the ruling line failed, the **Compromise of Caspe (1412)**
 arbitration — gave the crown to the Castilian **Trastámara**, binding Aragon's future to Castile and
 foreshadowing the eventual union of the Spanish crowns.
 
+## The Fifteenth Century: Trastámara, Crisis and Union (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Mario del Treppo, Ch. 24a) carries the crown through its
+fifteenth-century transformation. The **Compromise of Caspe (1412)** installed the Castilian
+**Trastámara** Fernando I, but the crown remained a **federal, "pactist" union** of distinct realms —
+Aragon, Valencia and the principality of Catalonia — each with its own *corts*, *generalitat* and
+liberties, the king bound by contract (*pactisme*) with his subjects.
+
+- **Mediterranean empire.** **Alfonso V "the Magnanimous"** (1416–58) turned the crown outward,
+  conquering **[[kingdom-of-sicily|Naples]]** (1442) and ruling a western-Mediterranean empire from
+  there; on his death Naples passed to his bastard line (Ferrante) as an Aragonese protectorate.
+- **Catalan crisis.** Catalonia, and above all **Barcelona**, sank into civil war under **Joan II**
+  (the *remences* peasant revolts; the war of 1462–72), its public debt and patrician oligarchy
+  paralysing government — while **Valencia** rose to economic primacy.
+- **Ferdinand and the union.** **Ferdinand II** (r. 1479–1516) reformed the Catalan institutions (the
+  *redreç* recovery, the *consejo supremo de Aragón*, 1494) — a "restoration of the monarchy's lost
+  dignity," not a Castilian absolutist imposition. His marriage to **Isabella** (1469) and the union
+  of the crowns created the monarchy of the **[[catholic-monarchs|Catholic Monarchs]]** — but a
+  **personal, dynastic union only**: Aragon kept its pluralistic, federal character (and its
+  Mediterranean foreign policy, reabsorbing Naples in 1503) down to 1714.
+
 ## Related
 
 - `part_of:` the [[reconquista|Reconquista]] (Majorca, Valencia) and the western Mediterranean trade world.
+- `followed_by:` the union with Castile under the [[catholic-monarchs|Catholic Monarchs]] (a federal, personal union); `contains:` Aragonese [[kingdom-of-sicily|Naples]].
 - `opposed_by:` [[charles-of-anjou|Charles of Anjou]] after the [[sicilian-vespers-1282|Vespers]] (1282).
 - `contrasts_with:` [[christian-kingdoms-of-spain|Castile]] (the other great Reconquista power) and centralised [[philip-iv-capetian|France]].

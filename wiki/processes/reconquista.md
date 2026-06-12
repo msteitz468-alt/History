@@ -94,9 +94,23 @@ the long final phase ending with the conquest of **Granada (1492)** — the same
 Columbus's first voyage, folding the Iberian frontier experience into Atlantic
 expansion.
 
+## The Completion: Granada 1492 (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Angus MacKay, Ch. 24b) supplies the final act. After two and a
+half centuries in which the [[nasrid-granada|Nasrid emirate of Granada]] survived as a tributary
+client, the consolidated Castile of the **[[catholic-monarchs|Catholic Monarchs]]** waged the
+systematic war of 1482–1492 that ended in the **[[fall-of-granada-1492|surrender of Granada]]**
+(1 January 1492). MacKay stresses the conquest's **medieval, crusading and messianic** character
+(Ferdinand cast as the prophesied *Encubierto* destined for Granada, all Islam and Jerusalem) — even
+as it folded, in the same year, into the **expulsion of the Jews** and the launch of
+[[age-of-discovery|Atlantic expansion]]. The Reconquista thus closed exactly as the European frontier
+turned outward across the ocean — and as the [[ottoman-empire|Ottoman]] frontier advanced into the
+Balkans at the Mediterranean's other end.
+
 ## Related
 
 - [[al-andalus|al-Andalus]], [[caliphate-of-cordoba]] — the Muslim south it advanced against.
+- [[catholic-monarchs]], [[fall-of-granada-1492]] — the monarchs who completed it and the final conquest.
 - [[almoravids]], [[almohads]] — the Berber empires that resisted it.
 - [[christian-kingdoms-of-spain]], [[el-cid]] — the Christian agents and the era's emblematic figure.
 - [[crusades]] — the ideology assimilated to it.

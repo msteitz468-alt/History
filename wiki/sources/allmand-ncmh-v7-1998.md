@@ -108,6 +108,14 @@ the Conclusion (from c. line 36417) follow. The bibliography and tables are not 
   `comparisons/celtic-lands-and-english-expansion.md` (the fifteenth-century Pale, post-Glyn Dŵr
   Wales, Poynings' Law; Ireland/Scotland/Wales) and `concepts/new-monarchy.md` (the English case).
   (Pages created: 4 | Pages updated: 2.)
+- **2026-06-12 — Cycle 7 (Part IV, "Italy & Iberia").** Created
+  `processes/italian-renaissance-state-system.md` (Mallett & Ryder: the five powers, condottieri, the
+  Peace of Lodi 1454, balance of power to 1494), `actors/medici-of-florence.md`,
+  `actors/catholic-monarchs.md` (Isabella & Ferdinand, the federal union), `events/fall-of-granada-1492.md`,
+  `actors/aviz-dynasty.md` (Portugal, the launch of expansion), and `actors/swiss-confederation.md`.
+  Updated `processes/reconquista.md` (the completion at Granada) and `actors/crown-of-aragon.md`
+  (Caspe 1412, the pactist federal crown, Aragonese Naples, the union with Castile).
+  (Pages created: 6 | Pages updated: 2.)
 
 ## Volume Synthesis Note
 
