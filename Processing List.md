@@ -22,6 +22,11 @@ and index.md is updated. Append a log entry after completing each file.
 5. After completing each phase, pause and report: pages created, pages updated,
    controversies flagged, and gaps identified.
 
+> **Annotation key (added 2026-06-12):** entries tagged ***Missing*** are not present in the
+> collection (no file found); ***Missing (corrupt conversion)*** means a file exists but holds only
+> front matter / page-marker artifacts and cannot be read; parenthetical notes record where a work was
+> ingested via a different edition. All named entries *without* a tag are present and have been ingested.
+
 ---
 
 ## Phase 1 — Global Skeleton (Ingest First)
@@ -144,28 +149,28 @@ the period 284–750 CE.
 
 ```
 6. Middle Ages Series/Translated Texts for Historians (77 Books)/Translated Texts for Historians (77 Books)/
-  07. Michael and Mary Whitby - Chronicon Paschale 284–628 AD (Translated Texts for Historians, Book 7).pdf
+  07. Michael and Mary Whitby - Chronicon Paschale 284–628 AD (Translated Texts for Historians, Book 7).pdf — *Missing (corrupt conversion — front matter only)*
   09. Kenneth Baxter Wolf - Conquerors and Chroniclers of Early Medieval Spain (Translated Texts for Historians, Book 9).pdf
-  10. John Moorhead - Victor of Vita History of the Vandal Persecution (Translated Texts for Historians, Book 10).pdf
+  10. John Moorhead - Victor of Vita History of the Vandal Persecution (Translated Texts for Historians, Book 10).pdf — *Missing (corrupt conversion — front matter only)*
   11. Peter Heather, John Matthews - The Goths in the Fourth Century (Translated Texts for Historians, Book 11).pdf
-  15. Andrew Palmer and Duncan F. Kennedy - The Seventh Century in the West-Syrian Chronicles (Translated Texts for Historians, Book 15).pdf
+  15. Andrew Palmer and Duncan F. Kennedy - The Seventh Century in the West-Syrian Chronicles (Translated Texts for Historians, Book 15).pdf — *Missing*
   16. N. P. Milner - Vegetius Epitome of Military Science (Translated Texts for Historians, Book 16) (2nd Revised Edition).pdf
   22. Witold Witakowski - Pseudo-Dionysius of Tel-Mahre Chronicle, Part III (Translated Texts for Historians, Book 22).pdf
-  24. Maureen A. Tilley - Donatist Martyr Stories The Church in Conflict in Roman North Africa (Translated Texts for Historians, Book 24).pdf
-  31.  R. W. Thomson, James Howard-Johnston - The Armenian History Attributed to Sebeos (Translated Texts for Historians, Book 31).pdf
+  24. Maureen A. Tilley - Donatist Martyr Stories The Church in Conflict in Roman North Africa (Translated Texts for Historians, Book 24).pdf — *Missing*
+  31.  R. W. Thomson, James Howard-Johnston - The Armenian History Attributed to Sebeos (Translated Texts for Historians, Book 31).pdf — *Missing*
   32. John W. Watt - The Chronicle of Pseudo-Joshua the Stylite (Translated Texts for Historians, Book 32).pdf
   33. Michael Whitby - The Ecclesiastical History of Evagrius Scholasticus (Translated Texts for Historians, Book 33).pdf
   39.  M. J. Edwards - Constantine and Christendom (Translated Texts for Historians, Book 39).pdf
   44. T. M. Charles-Edwards - The Chronicle of Ireland Introduction, Text (Translated Texts for Historians, Book 44).pdf
-  45. Richard Price, Michael Gaddis - The Acts of the Council of Chalcedon (Translated Texts for Historians, Book 45) [Retail].pdf
+  45. Richard Price, Michael Gaddis - The Acts of the Council of Chalcedon (Translated Texts for Historians, Book 45) [Retail].pdf — *Missing*
   51. Richard Price - The Acts of the Council of Constantinople of 553 (Translated Texts for Historians, Book 51).pdf
   52. Peter N. Bell - Three Political Voices from the Age of Justinian (Translated Texts for Historians, Book 52).pdf
   54. A. T. Fear - Orosius Seven Books of History against the Pagans (Translated Texts for Historians, Book 54).pdf
   55. Geoffrey Greatrex, Sebastian Brock - The Chronicle of Pseudo-Zachariah (Translated Texts for Historians, Book 55).pdf
   57. Robert G. Hoyland - Theophilus of Edessa's Chronicle (Translated Texts for Historians, Book 57).pdf
   61. Phil Booth, Catherine Cubitt - The Acts of the Lateran Synod of 649 (Translated Texts for Historians, Book 61).pdf
-  63. Robert G. Hoyland, Carl Wurtzel - Khalifa ibn Khayyat's History on the Umayyad Dynasty (660–750) (Translated Texts for Historians, Book 63).pdf
-  64. Alexander O'Hara, Ian Wood - Jonas of Bobbio. Life of Columbanus, Life of John of Réomé, and Life of Vedast (Translated Texts for Historians, Book 64).pdf
+  63. Robert G. Hoyland, Carl Wurtzel - Khalifa ibn Khayyat's History on the Umayyad Dynasty (660–750) (Translated Texts for Historians, Book 63).pdf — *Missing*
+  64. Alexander O'Hara, Ian Wood - Jonas of Bobbio. Life of Columbanus, Life of John of Réomé, and Life of Vedast (Translated Texts for Historians, Book 64).pdf — *Missing*
   66. Calvin B. Kendall, Faith Wallis - Isidore of Seville (Translated Texts for Historians, Book 66).pdf
 ```
 
@@ -180,15 +185,15 @@ the period 284–750 CE.
   Burton Watson - Han Feizi. Basic Writings (Translations from the Asian Classics) [Retail].pdf
   Burton Watson - The Complete Works of Zhuangzi (Translations from the Asian Classics) [Retail].pdf
   Zhuangzi, Burton Watson - Zhuangzi. Basic Writings (Translations from the Asian Classics) [Retail].pdf
-  Sun Zi, Victor Mair - The Art of War. Sun Zi's Military Methods (Translations from the Asian Classics) [Retail].pdf
-  Liu An - The Huainanzi. A Guide to the Theory and Practice of Government in Early Han China (Translations from the Asian Classics) [Retail].pdf
-  Xi Zhu - The Original Meaning of the Yijing. Commentary on the Scripture of Change (Translations from the Asian Classics) (Retail).pdf
-  Harold David Roth - Original Tao. Inward Training (Nei-yeh) and the Foundations of Taoist Mysticism (Translations from the Asian Classics).pdf
-  Philip B. Yampolsky - The Platform Sutra of the Sixth Patriarch (Translations from the Asian Classics) [Retail].pdf
+  Sun Zi, Victor Mair - The Art of War. Sun Zi's Military Methods (Translations from the Asian Classics) [Retail].pdf — *Missing (Mair ed.; uningested Hackett ed. in collection)*
+  Liu An - The Huainanzi. A Guide to the Theory and Practice of Government in Early Han China (Translations from the Asian Classics) [Retail].pdf — *Missing (ingested via 'The Essential Huainanzi')*
+  Xi Zhu - The Original Meaning of the Yijing. Commentary on the Scripture of Change (Translations from the Asian Classics) (Retail).pdf — *Missing*
+  Harold David Roth - Original Tao. Inward Training (Nei-yeh) and the Foundations of Taoist Mysticism (Translations from the Asian Classics).pdf — *Missing*
+  Philip B. Yampolsky - The Platform Sutra of the Sixth Patriarch (Translations from the Asian Classics) [Retail].pdf — *Missing*
   Burton Watson - The Lotus Sutra (Translations from the Asian Classics).pdf
-  Ryuichi Abe, Yoshito S. Hakeda - The Awakening of Faith. Attributed to Asvaghosha (Translations from the Asian Classics).pdf
-  E. Bruce. Brooks, A. Taeko. Brooks - The Original Analects. Sayings of Confucius and His Successors (Translations from the Asian Classics).pdf
-  Shang Yang - The Book of Lord Shang. Apologetics of State Power in Early China (Translations from the Asian Classics) [Retail].pdf
+  Ryuichi Abe, Yoshito S. Hakeda - The Awakening of Faith. Attributed to Asvaghosha (Translations from the Asian Classics).pdf — *Missing*
+  E. Bruce. Brooks, A. Taeko. Brooks - The Original Analects. Sayings of Confucius and His Successors (Translations from the Asian Classics).pdf — *Missing*
+  Shang Yang - The Book of Lord Shang. Apologetics of State Power in Early China (Translations from the Asian Classics) [Retail].pdf — *Missing*
   Ō no Yasumaro - The Kojiki. An Account of Ancient Matters (Translations from the Asian Classics) [Retail].pdf
 ```
 
@@ -199,42 +204,42 @@ the period 284–750 CE.
 ### Mesopotamia
 ```
 2. Ancient & Classical Civilizations/Ancient Near East/Ancient Near East/Mesopotamia/
-  Erica Reiner, A. Leo Oppenheim - Ancient Mesopotamia. Portrait of a Dead Civilization (Retail).pdf
-  Nicholas Postgate - Early Mesopotamia. Society and Economy at the Dawn of History (Retail).pdf
-  Benjamin R. Foster - The Age of Agade. Inventing Empire in Ancient Mesopotamia (Retail).pdf
-  Francis Joannès - The Age of Empires. Mesopotamia in the First Millennium BC.pdf
-  Marc Van De Mieroop - The Ancient Mesopotamian City.pdf
-  John Nicholas Postgate - Bronze Age Bureaucracy. Writing and the Practice of Government in Assyria (Retail).pdf
+  Erica Reiner, A. Leo Oppenheim - Ancient Mesopotamia. Portrait of a Dead Civilization (Retail).pdf — *Missing*
+  Nicholas Postgate - Early Mesopotamia. Society and Economy at the Dawn of History (Retail).pdf — *Missing*
+  Benjamin R. Foster - The Age of Agade. Inventing Empire in Ancient Mesopotamia (Retail).pdf — *Missing*
+  Francis Joannès - The Age of Empires. Mesopotamia in the First Millennium BC.pdf — *Missing*
+  Marc Van De Mieroop - The Ancient Mesopotamian City.pdf — *Missing*
+  John Nicholas Postgate - Bronze Age Bureaucracy. Writing and the Practice of Government in Assyria (Retail).pdf — *Missing*
 ```
 
 ### Persia
 ```
 2. Ancient & Classical Civilizations/Ancient Near East/Ancient Near East/Persia/
-  A. T. Olmstead - History of the Persian Empire.pdf
-  Amélie Kuhrt - The Persian Empire. A Corpus of Sources from the Achaemenid Period (Retail).pdf
-  Irving Finkel - The Cyrus Cylinder. The King of Persia's Proclamation from Ancient Babylon (Retail).pdf
-  Eberhard Sauer - Sasanian Persia. Between Rome and the Steppes of Eurasia.pdf
+  A. T. Olmstead - History of the Persian Empire.pdf — *Missing*
+  Amélie Kuhrt - The Persian Empire. A Corpus of Sources from the Achaemenid Period (Retail).pdf — *Missing*
+  Irving Finkel - The Cyrus Cylinder. The King of Persia's Proclamation from Ancient Babylon (Retail).pdf — *Missing*
+  Eberhard Sauer - Sasanian Persia. Between Rome and the Steppes of Eurasia.pdf — *Missing*
 ```
 
 ### Egypt
 ```
 2. Ancient & Classical Civilizations/Ancient Egypt/Ancient Egypt/
-  Barry J. Kemp - Ancient Egypt Anatomy of a Civilization (3rd Edition) (Retail).pdf
-  Alan K. Bowman - Egypt after the Pharaohs, 332 BC-AD 642. From Alexander to the Arab Conquest, Revised Edition.pdf
-  Aidan Dodson - Amarna Sunset. Nefertiti, Tutankhamun, Ay, Horemheb, and the Egyptian Counter-Reformation [Retail].pdf
+  Barry J. Kemp - Ancient Egypt Anatomy of a Civilization (3rd Edition) (Retail).pdf — *Missing*
+  Alan K. Bowman - Egypt after the Pharaohs, 332 BC-AD 642. From Alexander to the Arab Conquest, Revised Edition.pdf — *Missing*
+  Aidan Dodson - Amarna Sunset. Nefertiti, Tutankhamun, Ay, Horemheb, and the Egyptian Counter-Reformation [Retail].pdf — *Missing*
 ```
 
 ### Hittites and Anatolia
 ```
-2. Ancient & Classical Civilizations/Ancient Near East/Ancient Near East/Anatolia, Armenia/
+2. Ancient & Classical Civilizations/Ancient Near East/Ancient Near East/Anatolia, Armenia/  — *Missing (section empty)*
   [Ingest all files in this section]
 ```
 
 ### Sumerians and Babylon
 ```
-2. Ancient & Classical Civilizations/Ancient Near East/Ancient Near East/Sumerians/
+2. Ancient & Classical Civilizations/Ancient Near East/Ancient Near East/Sumerians/  — *Missing (section empty)*
   [Ingest all files in this section]
-2. Ancient & Classical Civilizations/Ancient Near East/Ancient Near East/Babylon/
+2. Ancient & Classical Civilizations/Ancient Near East/Ancient Near East/Babylon/  — *Missing (section empty)*
   [Ingest all files in this section]
 ```
 
@@ -244,12 +249,12 @@ the period 284–750 CE.
 
 ```
 2. Ancient & Classical Civilizations/Ancient China/Ancient China/
-  John S. Major, Constance A. Cook - Ancient China. A History [Retail].pdf
-  Gideon Shelach-Lavi - The Archaeology of Early China. From Prehistory to the Han Dynasty (Retail).pdf
-  Nicola Di Cosmo - Ancient China and Its Enemies. The Rise of Nomadic Power in East Asian History.pdf
-  Li Feng - Bureaucracy and the State in Early China. Governing the Western Zhou.pdf
-  Roderick B. Campbell - Violence, Kinship and the Early Chinese State. The Shang and their World (Retail).pdf
-  Michael Nylan, Griet Vankeerberghen - Chang'an 26 BCE. An Augustan Age in China [Retail].pdf
+  John S. Major, Constance A. Cook - Ancient China. A History [Retail].pdf — *Missing*
+  Gideon Shelach-Lavi - The Archaeology of Early China. From Prehistory to the Han Dynasty (Retail).pdf — *Missing*
+  Nicola Di Cosmo - Ancient China and Its Enemies. The Rise of Nomadic Power in East Asian History.pdf — *Missing*
+  Li Feng - Bureaucracy and the State in Early China. Governing the Western Zhou.pdf — *Missing*
+  Roderick B. Campbell - Violence, Kinship and the Early Chinese State. The Shang and their World (Retail).pdf — *Missing*
+  Michael Nylan, Griet Vankeerberghen - Chang'an 26 BCE. An Augustan Age in China [Retail].pdf — *Missing*
 ```
 
 ---
