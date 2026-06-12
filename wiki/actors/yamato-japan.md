@@ -9,7 +9,7 @@ affiliated_with: [the Yamato court, Paekche (ally)]
 opposed_by: [the Tang-Silla alliance (defeated at the Paekchon River 663 CE)]
 key_events: [Yayoi-to-Kofun transition, introduction of Buddhism 538/552 CE, Battle of the Paekchon River 663 CE, building of Nara 710 CE]
 key_processes: [[[state-formation]], [[buddhism]], [[east-asian-cultural-sphere|adoption of Chinese statecraft]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [actor, state, late-antiquity, early-middle-ages, japan, east-asia]
 ---
@@ -67,3 +67,7 @@ Japan's own earliest chronicle the **Kojiki** (712) — which pointedly used the
 "all Under Heaven" in reference to Japan **without mentioning China**, a deliberate assertion
 of parity. CWH IV cautions against retrojecting later national categories onto this formative
 era.
+
+The court's own origin-myth — the descent of the imperial line from the sun goddess Amaterasu — is now
+ingested as the **[[kojiki-yasumaro|Kojiki]]** (712), the foundational text of [[shinto|Shinto]] and a
+primary witness to how Yamato legitimated its rule.
