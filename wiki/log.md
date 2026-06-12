@@ -1456,3 +1456,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 ingest-complete | CAH XII — The Crisis of Empire AD 193–337 (Bowman, Garnsey & Cameron eds., 2nd ed. 2005) | Total pages created: 34 | Total pages updated: 4 | Sections processed: 6
 
 ## 2026-06-12 section | CAH XIII — The Late Empire AD 337–425 | Section: Step 1 — Structural map & Section Plan | Pages created: 1 | Pages updated: 0
+
+## 2026-06-12 section | CAH XIII — The Late Empire AD 337–425 | Section: Chronological overview (Chs 1–4) | Pages created: 8 | Pages updated: 0
