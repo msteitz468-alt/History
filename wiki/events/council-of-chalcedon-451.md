@@ -13,7 +13,7 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [the clash of the Alexandrian and Antiochene christological schools, imperial pursuit of doctrinal unity, the Nestorian and Eutychian disputes]
 consequences: [the definition of Chalcedonian orthodoxy, the Monophysite schism, the permanent division of eastern Christianity, the Acacian and east–west ruptures]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [event, religious, late-antiquity, anatolia]
 ---
@@ -92,4 +92,6 @@ paradox of the Christian empire.
   the [[late-roman-church-institution|imperial church]]'s defining doctrine
 - `contributed_to:` the [[successors-of-justinian|religious disunity]] of the eastern provinces on the eve of
   the [[muhammad-and-the-rise-of-islam|Arab conquests]]
-- Source: [[cameron-cah-v14-2000]] (Ch. 27)
+- Source: [[cameron-cah-v14-2000]] (Ch. 27); the Greek narrative of the Council's long aftermath is now
+  ingested as **[[whitby-evagrius-ecclesiastical-history|Evagrius Scholasticus, *Ecclesiastical
+  History*]]**.
