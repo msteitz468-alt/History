@@ -1416,3 +1416,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 section | CAH XI — The High Empire AD 70–192 | Section: Judaea (Ch 22, Goodman) | Pages created: 0 | Pages updated: 1
 
 ## 2026-06-12 section | CAH XI — The High Empire AD 70–192 | Section: The Land (Ch 23, Garnsey) | Pages created: 1 | Pages updated: 0
+
+## 2026-06-12 section | CAH XI — The High Empire AD 70–192 | Section: Trade (Ch 24, Harris) | Pages created: 1 | Pages updated: 0
