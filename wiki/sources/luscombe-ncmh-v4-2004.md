@@ -32,8 +32,8 @@ reliability_notes: >
   This volume fills the single gap in the wiki's NCMH backbone (Vol. 4 was initially
   absent from the collection and supplied later as EPUBs, converted here). It sits
   between Reuter's NCMH III (ends c. 1024) and Abulafia's NCMH V (begins c. 1198).
-pages_created: 0
-pages_updated: 0
+pages_created: 53
+pages_updated: 11
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -150,3 +150,91 @@ the papacy 1122–1198 — Alexander III, the schism with Barbarossa, Lateran II
 folded into the papacy/papal-monarchy/Barbarossa pages; Arnold Ch. 14 → Barbarossa/empire;
 Tabacco Ch. 15a → communes; Loud Ch. 15b → Norman Sicily; Linehan Ch. 16 on 12th-c. Spain
 folded into the Almoravid/Almohad/Reconquista pages from Cycle 4.)
+
+**Cycle 9 — The Angevin/Capetian west, the Latin East & Islam (Pt 2, chs 17–23; completes the volume).**
+Created: `actors/henry-ii-of-england.md`, `actors/angevin-empire.md`,
+`actors/thomas-becket.md`, `actors/philip-ii-augustus.md`, `actors/crusader-states.md`,
+`actors/saladin.md`, `events/battle-of-hattin-1187.md`, `actors/seljuk-empire.md`,
+`events/fourth-crusade-1204.md`. These resolved a large cluster of forward links
+(`[[crusader-states]]`, `[[saladin]]`, `[[battle-of-hattin-1187]]`, `[[seljuk-empire]]`,
+`[[angevin-empire]]`, `[[henry-ii-of-england]]`, `[[thomas-becket]]`,
+`[[philip-ii-augustus]]`, `[[fourth-crusade-1204]]`). (Baldwin/Bur Ch. 17 → Capetians/Philip
+II; Keefe Ch. 18 → Henry II & the Angevin empire; Barrow Ch. 19 on Scotland/Wales/Ireland
+folded into the Angevin/Norman-Conquest pages; Magdalino Ch. 20 → Byzantium to 1204 / the
+Fourth Crusade; Mayer Ch. 21 → the crusader states & Hattin; Brett Ch. 22 → the
+Seljuks/Abbasids/Fatimids; Humphreys Ch. 23 → Zengids/Ayyubids/Saladin.)
+
+---
+
+## Volume Synthesis Note
+
+**The eleventh and twelfth centuries as "a unique fulcrum."** NCMH IV's organising
+argument is that this is the period in which medieval Europe was *made* — the hinge on
+which the early-medieval successor-world turned into the recognisably "high-medieval"
+order of monarchies, communes, universities, crusades, and a centralised Church. The
+volume's master-theme is **expansion and consolidation**: a [[medieval-agricultural-revolution|
+demographic and agricultural "take-off"]] (the population more than doubling) underwriting
+a [[commercial-revolution|commercial]] and [[urbanization|urban]] revival, the territorial
+expansion of Latin society on every frontier (the [[reconquista|Reconquista]], the
+[[norman-conquest-of-southern-italy|Norman conquests]], the Baltic, and the
+[[crusades|Crusades]]), and the consolidation of [[ius-commune|written law]],
+[[chivalry|knighthood]], and government. At the start of the period most of western
+Europe was backward beside the urban, commercial Islamic Mediterranean and Byzantium; by
+its close the balance had begun decisively to shift — the volume's quiet but insistent
+"first divergence."
+
+**The complementary architecture.** The single most important interpretive key is the
+volume's deliberate split into a thematic Part 1 and a narrative Part 2, *complementary
+rather than sequential*. The synthesis pass has reconnected the two halves at every
+point where the connection only becomes visible whole-volume: the
+[[gregorian-reform|Gregorian Reform]] (Part 1, Robinson) is the thematic face of the
+[[investiture-contest|Investiture Contest]] and [[salian-dynasty|Salian]] crisis narrated
+in Part 2 (Vollrath, Blumenthal); the [[crusades|crusade]] as idea and institution (Part
+1, Riley-Smith) is realised in the [[crusader-states|Latin East]] and broken at
+[[battle-of-hattin-1187|Hattin]] (Part 2, Mayer); the [[ius-commune|revival of law]] and
+the [[twelfth-century-renaissance|schools]] (Part 1, Landau/Luscombe) materialise in the
+[[medieval-university|universities]] of Bologna and Paris and in
+[[henry-ii-of-england|Henry II's]] common law and [[philip-ii-augustus|Philip Augustus's]]
+administration (Part 2); the [[commune-movement|communes]] (Part 1, Tabacco's thematic
+Italy) become the [[lombard-league|Lombard League]] that defeats [[frederick-i-barbarossa|
+Barbarossa]] (Part 2).
+
+**A divergence of monarchies.** Read across Part 2, the volume tells a comparative story
+of state-building that runs in opposite directions. The reform crisis *weakened* the
+[[salian-dynasty|German monarchy]] (the Investiture Contest empowering the princes and
+entrenching elective kingship), and [[frederick-i-barbarossa|Barbarossa's]] failure in
+Italy confirmed the autonomy of the [[commune-movement|communes]] and the
+[[kingdom-of-sicily|Norman-Sicilian]] *regno*. The same century *strengthened* the
+western monarchies of [[angevin-empire|Angevin England]] and [[capetian-dynasty|Capetian
+France]], which built durable institutions of justice and administration — the divergence
+crystallised in 1204, when [[philip-ii-augustus|Philip Augustus]] dismembered the Angevin
+empire even as the [[fourth-crusade-1204|Fourth Crusade]] dismembered Byzantium. The
+volume thus closes on two simultaneous catastrophes of over-extended composite powers
+(the Angevin empire and Byzantium) and the rise of the more compact, institutionally
+consolidated French and papal monarchies.
+
+**Christendom is not Europe.** A repeated editorial insistence — and a structural feature
+of the volume's geography — is that **Latin Catholicism, Christendom, and Europe are
+three different things**. Large Christian populations ([[eastern-churches|the eastern
+churches]]) lived under Islam; large Muslim ([[al-andalus|al-Andalus]], Sicily) and Jewish
+([[ashkenazi-jewry|Ashkenazi and Sephardic Jewry]]) populations lived within or beside
+Latin Europe; and the Greek, Slavic, and Islamic worlds are treated as integral, not
+peripheral. The volume's darker counter-theme is the hardening of Latin Christendom
+against its internal others — the [[ashkenazi-jewry|1096 massacres]], the turn against
+heresy, and the violence of the [[crusades|crusade]] and [[fourth-crusade-1204|1204]] —
+the early signs of the "persecuting society" that NCMH V will carry into the thirteenth
+century.
+
+**Cross-volume placement and tensions.** NCMH IV completes the wiki's NCMH backbone,
+sitting between [[reuter-ncmh-v3-1999|NCMH III]] (ends c. 1024) and
+[[abulafia-ncmh-v5-2000|NCMH V]] (begins c. 1198, not yet ingested), and filling the
+former [[high-middle-ages|High-Middle-Ages]] gap noted in earlier logs. It both extends
+and complicates Reuter's NCMH III: where Reuter left the [[feudal-revolution-debate|"feudal
+revolution"]] deliberately unresolved, NCMH IV's Susan Reynolds presses the sceptical case
+further, dismantling "[[feudalism|feudalism]]" itself as a coherent category (the
+[[feudalism-construct-debate|Brown–Reynolds critique]]) — a methodological through-line
+that links the two volumes. Its decentring of the [[investiture-contest|Investiture
+Contest]] ("not the root cause of reform") parallels the wiki's transformation-rather-than-
+catastrophe framing of the fall of Rome. And its terminal events — the Angevin collapse
+and 1204 — set up directly the thirteenth-century world that Abulafia's NCMH V will treat
+as an age of frontier expansion and the "persecuting society."
