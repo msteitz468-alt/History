@@ -8,7 +8,7 @@ region: [western-europe, mediterranean, iberia, british-isles, northern-europe, 
 process_type: cultural
 driven_by: ["the divergence of spoken Romance from written Latin", "Carolingian liturgical reform (Alcuin)", "lay literacy and royal/comital administration", "courtly patronage and the chanson de geste/romance", "royal standardization of law and chancery language"]
 produces: ["the written vernacular literatures of medieval Europe", "national chancery languages", "an emergent association of language with nationhood", "the displacement of Latin as the sole literary medium"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [process, high-middle-ages, western-europe]
 ---
@@ -86,6 +86,21 @@ possessed mature literatures and increasingly served as **chancery and law-code
 languages** (rex Francie not rex Francorum — see [[abulafia-ncmh-v5-2000|the volume's
 introduction]] on the territorialization of kingship), beginning the slow association of
 language with **nationhood** that matures in the later Middle Ages.
+
+## The Fourteenth-Century Flowering (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (Nick Havely, Ch. 10) treats the fourteenth century as the moment the
+vernacular achieved full literary **authority and self-consciousness**. **Dante's** *De Vulgari
+Eloquentia* (early in the century) theorised the "illustrious" vernacular and named its three high
+subjects — "prowess in arms, the flames of love, and the direction of the will" — and the *Commedia*
+demonstrated it; the "**three crowns of Florence**" (Dante, **Petrarch**, **Boccaccio**) wrote in
+both Latin and Italian, negotiating a shifting *rapprochement* (Auerbach) between the learned and
+the mother tongue (Boccaccio's *Teseida* claiming to be the first to "make the Muses sing of... war
+in the Italian mother tongue"). The same flowering produced **Chaucer** and Langland in English,
+and a rich French courtly literature (Machaut, Froissart) — the vernacular now the vehicle of major
+art, increasingly tied to the court and to emerging national identity. It is the literary
+counterpart of [[international-gothic|International Gothic]] and of the century's "greater weight to
+the voice of the laity."
 
 ## Related
 

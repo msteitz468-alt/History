@@ -14,8 +14,8 @@ reliability_notes: >
   or stripped, and map plates are garbage. Navigate by chapter-title headings (all-caps in the
   OCR) and running footers, as done for Vols 1–5. Editor: Michael Jones (Nottingham). Replaces the
   old CMH Vol. VII, "Decline of the Empire and Papacy."
-pages_created: 0
-pages_updated: 0
+pages_created: 5
+pages_updated: 7
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -64,7 +64,22 @@ follow c. line 38500. These are not read as content.
 
 ## Ingest Log
 
-(Per-cycle entries appended as each section cycle is completed.)
+- **2026-06-12 — Cycle 1 (Introduction + Part I, "General Themes A").** Created
+  `events/black-death.md`, `processes/late-medieval-crisis.md`,
+  `concepts/late-medieval-political-thought.md`, `processes/late-medieval-lay-religion.md`.
+  Updated `concepts/medieval-university.md` (the fourteenth-century proliferation & the *via
+  moderna*), `processes/urbanization.md` (the fourteenth-century urban contraction), and
+  `processes/state-formation.md` (the late-medieval sovereign state in theory). Captured Rigaudière
+  on government & political thought, Catto on religious thought & expression, the universities
+  chapter, Freedman on rural society, Leguay on urban life, and Klapisch-Zuber on plague & family
+  life. (Pages created: 4 | Pages updated: 3.)
+- **2026-06-12 — Cycle 2 (Part I, "General Themes B").** Created
+  `concepts/international-gothic.md`. Updated `processes/commercial-revolution.md` (Spufford — the
+  fourteenth-century culmination and contraction, the decline of the Champagne fairs, the
+  Bardi/Peruzzi crashes), `concepts/chivalry.md` (Keen — the princely orders of chivalry),
+  `concepts/gothic-architecture.md` (Binski — the late-Gothic diversification), and
+  `processes/rise-of-vernacular-literatures.md` (Havely — the three crowns of Florence, Chaucer).
+  (Pages created: 1 | Pages updated: 4.)
 
 ## Volume Synthesis Note
 

@@ -5,7 +5,7 @@ origin: Etic; the pointed-arch architecture born in the Île-de-France c. 1140; 
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [western-europe, northern-europe]
 contested: no
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -84,8 +84,22 @@ ideological lenses as a vehicle of clerical social control. The revisionist turn
 under-studied Spanish Gothic) makes "a single Gothic idiom representing an 'essential'
 thirteenth century" now seem "both improbable and unnecessary."
 
+## The Fourteenth-Century Diversification (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (Paul Binski, Ch. 8; and the architecture chapter) carries Gothic
+into the fourteenth century, whose "hallmark... is not internationalism... but rather extraordinary
+diversity." New **urban and court patronage** (Cologne, Prague, Siena, Bruges, and the ephemeral
+brilliance of papal **Avignon**) multiplied regional idioms, while the **Italian painters** (Giotto,
+Simone Martini, the Lorenzetti) created a new pictorial naturalism. In architecture the century
+produced its showiest regional manners — the English **Decorated Style** (summarised at Ely) and
+then the **Perpendicular**, and the spacious **mendicant** churches of southern France (Toulouse)
+whose influence spread into Germany. The courtly synthesis of these strands is the
+**[[international-gothic|International Gothic]]** of c. 1370–1430. The episode confirms the
+revisionist stress on **regional diversity** over a single Gothic idiom.
+
 ## Related
 
 - [[romanesque]] — the style it grew out of and replaced.
+- [[international-gothic]] — the courtly late-Gothic synthesis it culminated in.
 - [[capetian-dynasty]] — the monarchy whose heartland it arose in (Suger of St-Denis).
 - [[twelfth-century-renaissance]] — the contemporary intellectual revival.

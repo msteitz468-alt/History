@@ -5,7 +5,7 @@ origin: Emic; the social and ideological formation of the mounted warrior (miles
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [western-europe, mediterranean]
 contested: no
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -109,6 +109,22 @@ Stacey's underlying point — that an aristocracy of "barons, knights and urban 
 of disparate origins was welded into a **noble class** by shared chivalric culture — is
 the social-history counterpart to the volume's political theme of the consolidation of
 the European nobility.
+
+## The Fourteenth Century: The Princely Orders of Chivalry (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (Maurice Keen, Ch. 9) identifies "the most striking novel feature"
+of fourteenth-century knighthood: the **princely secular orders of chivalry**. Beginning with
+Charles-Robert of Hungary's **Society of St George (c. 1325)** — founded "a bare dozen years after
+the dramatic dissolution of the old crusading order of the Templars" — came the Castilian **Order
+of the Band**, the English **Garter (1348)**, the French **Star (1352)**, and the orders of the
+Empire, Savoy and Brittany. Their statutes "bear a family resemblance," restricting membership to
+the nobly born "and without reproach," and binding the companions to a "sovereign" or "master." Keen
+reads their rise as evidence of a "growing secular and princely orientation" of the chivalric
+ideal: founded in the wake of civil war or to cement a king's new nobility (the Society of St George
+"to protect the king from his enemies"), the orders **harnessed chivalry to the late-medieval
+[[late-medieval-political-thought|prince]]**, binding the aristocracy to the crown — even as the
+realities of the Hundred Years War strained the ideal. The orders are of a piece with the courtly,
+cosmopolitan culture of [[international-gothic|International Gothic]].
 
 ## Significance
 

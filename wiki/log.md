@@ -1638,3 +1638,7 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 ingest-complete | NCMH Vol. 5 — c. 1198–c. 1300 (David Abulafia ed., 2000) | Total pages created: 41 | Total pages updated: 18 | Sections processed: 6
 
 ## 2026-06-12 ingest-start | NCMH Vol. 6 — c. 1300–c. 1415 (Michael Jones ed., 2000) | Large-Volume Protocol Step 1: Section Plan written to wiki/sources/jones-ncmh-v6-2000.md (4 Parts → 8 section cycles). Content ingest (Cycle 1+) pending.
+
+## 2026-06-12 section | NCMH VI — c. 1300–c. 1415 (Jones ed., 2000) | Section: Cycle 1 — Introduction + Part I "General Themes A" (government & political thought, religious thought, universities, rural society, urban life, plague & family) | Pages created: 4 | Pages updated: 3
+
+## 2026-06-12 section | NCMH VI — c. 1300–c. 1415 (Jones ed., 2000) | Section: Cycle 2 — Part I "General Themes B" (trade, chivalry & the aristocracy, court patronage & International Gothic, architecture, vernacular literature) | Pages created: 1 | Pages updated: 4

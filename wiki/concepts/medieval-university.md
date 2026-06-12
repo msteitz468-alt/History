@@ -5,7 +5,7 @@ origin: Emic; the corporate "universitas" of masters and students emerging at Bo
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [western-europe, mediterranean]
 contested: no
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -83,6 +83,21 @@ the Dominicans **Albertus Magnus** and **Thomas Aquinas** and the Franciscan
 [[catharism|condemned heterodoxies]] (the Latin Averroism of Siger of Brabant, censured
 1270/1277). The university thus became the intellectual engine of the
 [[high-middle-ages|thirteenth-century apogee]].
+
+## The Fourteenth-Century Proliferation (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (Jeremy Catto, Ch. 2; and the universities chapter) shows the
+institution **proliferating across Europe** in the fourteenth century, as **new theology
+faculties** and "innumerable cathedral, monastic and friars' schools" multiplied the older
+Bologna/Paris centres — and as new universities were founded under princely and imperial patronage
+(Prague, 1348, the first east of the Rhine; Vienna; Cracow; Heidelberg). Intellectually the century
+was dominated by the ***via moderna*** — the critique of theological language associated with
+**William of Ockham** — and by a turn from pure speculation to **moral and pastoral** questions,
+with theologians increasingly drawn into the **government of the Church** and royal service (see
+[[late-medieval-lay-religion]]). The universities thus became not only schools but **political
+actors**, supplying the jurists and theologians who staffed the [[late-medieval-political-thought|sovereign
+states]] and, at Oxford and Prague, the seedbeds of the reforming and heterodox movements (Wyclif,
+the Bohemian reform).
 
 ## Related
 

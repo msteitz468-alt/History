@@ -8,7 +8,7 @@ region: [mesopotamia, near-east, north-africa, mesoamerica, andes, china, south-
 process_type: demographic
 driven_by: [[[agriculture-and-urbanism]], [[domestication]], surplus and storage, defense and warfare, ritual and pilgrimage, trade and exchange, state formation]
 produces: [[[city-state]], [[ruralization]], social stratification, [[writing-and-record-keeping]], the state, [[heterarchy|new forms of power]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [process, chalcolithic, early-bronze-age, mesopotamia]
 ---
@@ -101,6 +101,20 @@ Urbanization is inseparable from **[[ruralization]]** (its mirror image: the
 countryside remade as hinterland), from **state formation**, and from the
 emergence of **social stratification, slavery, disease, and forced migration**
 that Yoffee stresses cities produced "of unprecedented kinds and scales."
+
+## The Fourteenth-Century Contraction (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (Jean-Pierre Leguay, Ch. 5) marks the **reversal** of the
+thirteenth-century urban apogee: fourteenth-century towns were "profoundly affected by the
+economic contraction that followed previous expansion," aggravated by the famines of 1315–1322,
+the **[[black-death|Black Death]]** and recurrent plague. The result was "a sharp drop in
+population levels, barely compensated for by the influx of refugees from the countryside," with
+high taxation and coinage manipulation hampering trade and sharpening social tension (the urban
+revolts — the Florentine Ciompi, 1378; the Flemish risings). Yet the picture was uneven — some
+towns were devastated (Coventry), others "mysteriously spared" — and new foundations continued at
+the frontiers (the last Aquitaine *bastides*, the [[edward-i-plantagenet|Edwardian]] planted towns
+of Wales, and the [[teutonic-knights|Teutonic]] and German-Slav colonial towns of the Baltic
+east). The episode belongs to the wider [[late-medieval-crisis|late-medieval crisis]].
 
 ## End Conditions
 

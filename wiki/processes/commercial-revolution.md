@@ -8,7 +8,7 @@ region: [mediterranean, western-europe, northern-europe, eastern-europe, iberia,
 process_type: economic
 driven_by: ["urban and demographic growth", "the revival of Mediterranean trade", "Italian maritime republics", "credit and accounting innovation", "the Crusades and Levantine access", [[afro-eurasian-world-system]]]
 produces: ["a monetized, credit-based European economy", "the Italian and Hanseatic mercantile patriciates", "a 'first globalization' of trade by 1500", "the commercial preconditions for European oceanic expansion"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [process, high-middle-ages, late-middle-ages, mediterranean, western-europe]
 ---
@@ -132,6 +132,22 @@ this page describes were **not uniquely European**: comparable institutions
 (contracts, credit, brokerage, deposit banking) existed across Afro-Eurasia, so
 Europe's later advantage owed more to New World resources and armed trade than to
 superior commercial institutions (see [[great-divergence]]).
+
+## The Fourteenth-Century Culmination and Contraction (NCMH VI)
+
+[[jones-ncmh-v6-2000|NCMH VI]] (Peter Spufford, Ch. 7) treats the fourteenth century as a hinge:
+the first half was "the fruition and culmination of the so-called 'commercial revolution' of the
+long thirteenth century," with the European **money supply reaching its medieval maximum** around
+mid-century; the second half saw "the beginnings of many of the changes which accelerated in the
+fifteenth century." Two structural shifts stand out. First, the **decline of the Champagne fairs**:
+by 1300 they were "largely places for settling accounts," as Italian and Tuscan merchants
+established **permanent resident agents** in **Bruges, Paris and London** and transacted business
+"more efficiently" than the periodic fairs allowed (successor fairs grew up on the navigable rivers
+to serve the German interior the new system bypassed). Second, the [[late-medieval-crisis|crisis]]:
+plague, war, and the failures of the great Florentine super-companies (the **Bardi and Peruzzi**
+crashes of the 1340s, after Edward III's default) shook international finance, and a later
+**bullion famine** contracted the money supply — the monetary underside of the late-medieval
+downturn that Spufford made his special study.
 
 ## Related
 

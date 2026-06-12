@@ -8,7 +8,7 @@ region: [mesopotamia, near-east, iran-plateau, mediterranean, china, east-asia, 
 process_type: political
 driven_by: ["agricultural surplus and storage", "warfare and conquest", "[[urbanization]]", "long-distance [[trade-network-formation|trade]]", "ideology and religion", "control of information ([[writing-and-record-keeping]])", "managing [[pastoral-nomadism|nomad]] frontiers"]
 produces: ["[[empire]]", "[[city-state]]", "bureaucracy and taxation", "standing armies", "law", "social stratification", "[[slavery]]"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [process, classical-antiquity, early-middle-ages, mesopotamia, china]
 ---
@@ -143,6 +143,13 @@ the friction between royal centralisation and **urban autonomy** (the towns of
 [[county-of-flanders|Flanders]] blunting French absorption at [[battle-of-courtrai-1302|Courtrai]]).
 The episode confirms Tilly's "war made the state": the Anglo-French and Aragonese-Angevin wars
 were the proximate spur to fiscal and institutional innovation.
+
+In the fourteenth century ([[jones-ncmh-v6-2000|NCMH VI]], Albert Rigaudière) this state-building
+acquired its **theory**: the decline of the universal claims of empire and papacy and the doctrine
+that ***rex in regno suo imperator est*** ("the king is emperor in his own kingdom") elaborated the
+**sovereign territorial state** — see [[late-medieval-political-thought]]. The same century's
+[[late-medieval-crisis|demographic and fiscal crisis]] both strained and intensified the state, as
+war finance drove the growth of taxation and representative institutions.
 
 ## End Conditions
 
