@@ -13,6 +13,8 @@ Format:
 
 ## 2026-06-12 admin | Processing-List Phases 7 (ANE/Egypt depth) and 8 (Ancient China depth) skipped — every named volume absent from the collection. Proceeding to Phase 9 (Greece & Rome Depth).
 
+## 2026-06-12 ingest | The Merchant Republics: Amsterdam, Antwerp, and Hamburg, 1648–1790 (Mary Lindemann, 2015) | Early Modern, Age of Expansion | northern-europe, western-europe | Pages created: 2 | Pages updated: 1
+
 ## 2026-06-12 ingest | Siege Warfare: The Fortress in the Early Modern World 1494–1660, Vol. 1 (Christopher Duffy, 1979) | Early Modern | italy, western-europe | Pages created: 2 | Pages updated: 1
 
 ## 2026-06-12 ingest | Reformations: The Early Modern World, 1450–1650 (Carlos M. N. Eire, 2016) | Late Middle Ages, Early Modern | western-europe, mediterranean | Pages created: 2 | Pages updated: 2

@@ -8,7 +8,7 @@ region: [global, indian-ocean, mediterranean, atlantic-world, east-asia, central
 process_type: economic
 driven_by: [merchant ambition, the problem of distance/agency, demand for spices/silk/silver/sugar, militarized European maritime commerce, monetization and silver flows]
 produces: [the chartered joint-stock company, integrated Eurasian and Atlantic trade circuits, increasingly impersonal markets, the financial revolution]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [process, early-modern, indian-ocean, mediterranean]
 ---
@@ -153,4 +153,6 @@ partnerships; from kin-based to non-familial firms. The process feeds
 
 [[commercial-revolution]] · [[trade-diaspora]] · [[dutch-east-india-company]] ·
 [[english-east-india-company]] · [[indian-ocean-trade]] · [[global-silver-trade]] ·
-[[great-divergence]] · [[interpolity-law]]
+[[great-divergence]] · [[interpolity-law]] · the commercial city-republics
+([[merchant-republic|merchant republics]]) of Amsterdam, Antwerp and Hamburg studied in
+**[[lindemann-merchant-republics|Lindemann, *The Merchant Republics*]]**
