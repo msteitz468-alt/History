@@ -8,7 +8,7 @@ origin: >
 applies_to_periods: [Archaic Period, Classical Antiquity]
 applies_to_regions: [italy, mediterranean]
 contested: yes
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-11
 tags: [concept]
 ---
@@ -120,4 +120,4 @@ revival under Agathocles.
 - Setting: [[magna-graecia]] · [[city-state]] · event: [[battle-of-himera-480bce]]
 - The fall: [[hiero-i]] · [[syracuse]] · [[ducetius]] (the Sicel movement)
 - Fourth-century apogee/end: [[dionysius-i]] · [[dionysius-ii]] · [[dion-of-syracuse]] · ended by [[timoleon]]
-- Period: [[archaic-period]] · [[classical-antiquity]] · Sources: [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[lewis-cah-v5-1992|CAH V]] (Ch. 7, Asheri) · [[lewis-cah-v6-1994|CAH VI]] (Chs. 5, 13)
+- Period: [[archaic-period]] · [[classical-antiquity]] · Sources: [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[lewis-cah-v5-1992|CAH V]] (Ch. 7, Asheri) · [[lewis-cah-v6-1994|CAH VI]] (Chs. 5, 13); the construction of the tyrant-image is examined in **[[sanders-dionysius-i-syracuse|Sanders, *Dionysius I of Syracuse and Greek Tyranny*]]**

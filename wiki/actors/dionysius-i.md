@@ -9,7 +9,7 @@ affiliated_with: [Syracuse, Sparta, Locri, Philistus (his historian), mercenary 
 opposed_by: [[[carthage]], Rhegium and the Italiote Greeks, rival Sicilian cities, internal opposition]
 key_events: [seizure of power at Syracuse 405 BCE, the wars against Carthage, the destruction of Motya 396 BCE, the sack of Rhegium 387 BCE]
 key_processes: [[[western-greek-tyranny]], the rise of territorial monarchy, military and technological innovation]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, italy]
 ---
@@ -85,4 +85,6 @@ the largest power in the Greek world; the catapult and the quinquereme; the temp
 - City: [[syracuse]] · historian/apologist: Philistus · process: [[western-greek-tyranny]] · precursor: [[hiero-i]]
 - Enemies: [[carthage]] (destruction of Motya) · Rhegium · the Italiote Greeks · ally: [[sparta]]
 - Culture: Plato · successor: [[dionysius-ii]] · sequels: [[dion-of-syracuse]] · [[timoleon]]
-- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 5, Lewis)
+- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 5, Lewis); a revisionist reassessment is now ingested —
+  **[[sanders-dionysius-i-syracuse|Sanders, *Dionysius I of Syracuse and Greek Tyranny*]]** (the hostile
+  image as the work of Timaeus and Academic propaganda, against the lost pro-Dionysian Philistus).
