@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | Polybius, The Histories (trans. Waterfield; OWC 2010) | Classical Antiquity | mediterranean, italy, balkans | Pages created: 2 | Pages updated: 1
+
 ## 2026-06-12 ingest | Thucydides, The Peloponnesian War (trans. Hammond; OWC 2009) | Classical Antiquity | aegean, central-greece | Pages created: 1 | Pages updated: 2
 
 ## 2026-06-12 ingest | Herodotus, The Histories (trans. Waterfield; OWC 1998) | Classical Antiquity | aegean, near-east, iran-plateau | Pages created: 3 | Pages updated: 2

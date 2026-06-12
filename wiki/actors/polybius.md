@@ -9,8 +9,8 @@ affiliated_with: [[[achaean-league]], [[scipio-aemilianus]]]
 opposed_by: []
 key_events: [[[wars-of-the-diadochi-323]], [[social-war-220]], [[rise-of-rome]]]
 key_processes: [[[hellenistic-historiography]], [[hellenistic-world]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [actor, person, classical-antiquity, mediterranean-world]
 ---
 
@@ -46,6 +46,15 @@ of Achaea]], the [[cleomenean-war-229|Cleomenean War]], the [[social-war-220|Soc
 War]], and the [[fourth-syrian-war-219|Fourth Syrian War]] — though for these he
 himself depended on written sources, chiefly [[aratus-of-sicyon|Aratus']] *Memoirs*
 and Phylarchus.
+
+The work itself is now ingested as **[[polybius-histories|*The Histories*]]** (Waterfield trans.,
+OWC; intro/notes Brian McGing). Its enduring contribution to political thought — the **cycle of
+constitutions (*anacyclosis*)** and the **[[mixed-constitution|mixed constitution]]** of Book 6, by
+which the balance of consuls, Senate and people explains Roman stability — has its own page; through
+Cicero, Machiavelli, Montesquieu and John Adams it became the ancestor of modern **checks and
+balances**. On *Tyche* (Fortune), McGing stresses that Polybius explains Rome's rise in wholly human
+terms (institutions, courage, training) and reserves Fortune only for the **inexplicable larger
+design** — why Rome's empire came *now*.
 
 ## Counterfactual Significance
 
