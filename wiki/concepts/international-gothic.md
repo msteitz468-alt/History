@@ -49,8 +49,35 @@ princely state]] and the [[rise-of-vernacular-literatures|vernacular]]. Binski's
 **diversity and the shift of patronage to the cities** corrects any picture of a single declining
 "medieval" style, presenting instead a competitive, mobile, and experimental European art world.
 
+## The Fifteenth-Century Sequel: From International Gothic to the Renaissance (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Paul Crossley, Architecture and Painting, Ch. 15) takes up the
+story from the **International Style of c. 1400**, calling the fifteenth century one of "the most
+profound changes in visual language in the history of western art" — from late-Gothic courtly
+formality to "the accomplished naturalism of Leonardo and Michelangelo." Its two defining features:
+
+- **Acute diversity and a north–south divide.** A Europe of fragmenting polities and vernaculars
+  produced "an acute diversity of artistic styles," cut across by the "fundamental split" between the
+  **neo-classical language of Quattrocento Italy** (Brunelleschi, Masaccio, Donatello) and a
+  **vigorous Gothic** north of the Alps that resisted antique forms into the sixteenth century — even
+  as Italian and Netherlandish painting (the oil-painting revolution of van Eyck and his successors)
+  exchanged fruitfully.
+- **Against Burckhardt and Huizinga.** Crossley rejects the old polarity of a "waning," morbid,
+  courtly **northern** Middle Ages versus an optimistic, progressive **Italian** Renaissance,
+  stressing instead continuity (Panofsky's medieval "renascences") and cross-Alpine exchange.
+- **Art democratised.** Art "broke out from its old, elite setting in church and castle" into
+  bourgeois houses (devotional diptychs and panels), city streets (fountains, crosses, statues) and
+  the new mass medium of **graphic illustration and [[printing-revolution|print]]**, while pursuing a
+  newly "analytical, scientific attitude to nature" (Vasari's "imitation of the truths of Nature").
+
+This is the visual counterpart to the volume's intellectual transition — the rise of
+[[renaissance-humanism|humanism]] — and, in **music**, to the era of the Franco-Flemish polyphonists
+(Dunstable, Du Fay, Binchois, Ockeghem, Josquin) whose international style dominated fifteenth-century
+Europe (Gareth Curtis, Music, Ch. 16).
+
 ## Related
 
+- `followed_by:` the [[renaissance-humanism|Renaissance]] and the Quattrocento naturalism that succeeded the International Style north and south of the Alps.
 - `part_of:` the late-medieval flourishing of [[gothic-architecture|Gothic art and architecture]] and court culture.
 - `concurrent_with:` the [[papacy|Avignon papacy]] (a great new patronage centre) and the [[chivalry|orders of chivalry]].
 - `analogous_to:` the [[rise-of-vernacular-literatures|vernacular]] flowering — both expressions of the diversified, court-and-city culture of the fourteenth century.

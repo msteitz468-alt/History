@@ -82,6 +82,15 @@ the Conclusion (from c. line 36417) follow. The bibliography and tables are not 
   artillery at Formigny/Castillon, the angle bastion) and `processes/early-modern-commerce.md`
   (Childs: the contraction-then-expansion, Bruges/Antwerp, the Medici/Fugger/Coeur, the bullion
   famine). (Pages created: 1 | Pages updated: 2.)
+- **2026-06-12 — Cycle 4 (Part III, "Religious & Intellectual/Artistic Life").** Created
+  `concepts/renaissance-humanism.md` (Black: the *studia humanitatis*, Burckhardt vs. Kristeller,
+  humanism as the badge of the ruling class, the Greek revival) and `processes/printing-revolution.md`
+  (McKitterick: Gutenberg, the technology, the spread and trade, manuscript continuity). Updated
+  `processes/late-medieval-lay-religion.md` (Rapp: Observant preaching, Passion/Marian devotion,
+  indulgences & Purgatory, the *Malleus* and the witch-hunt, the "appetite for the divine"),
+  `concepts/medieval-university.md` (Verger: the princely proliferation of universities), and
+  `concepts/international-gothic.md` (Crossley: the transition to Renaissance naturalism; Curtis on
+  music). (Pages created: 2 | Pages updated: 3.)
 
 ## Volume Synthesis Note
 

@@ -99,9 +99,25 @@ actors**, supplying the jurists and theologians who staffed the [[late-medieval-
 states]] and, at Oxford and Prague, the seedbeds of the reforming and heterodox movements (Wyclif,
 the Bohemian reform).
 
+## The Fifteenth-Century Proliferation (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Jacques Verger, Schools and Universities, Ch. 11) describes a
+century of **expansion without intellectual brilliance**. A wave of **new foundations** — financed
+and promoted by **princes and towns** seeking "national and regional" universities of their own —
+roughly doubled the network, with the greatest intensity in the **Empire and central Europe**
+(Würzburg, Leipzig, Rostock, Louvain, the new German *studia*) and new universities also in Spain
+and Scotland. Alongside them came a wave of **university colleges** as endowed lodgings for poor
+students. The faculties were increasingly tied into clerical careers (by 1500 perhaps one in three
+clerics had spent time at a university, though most studied only arts), even as original scholarship
+gave way to the consolidation of the *via moderna* and *via antiqua* schools. The proliferation made
+the university a normal instrument of princely and civic ambition — and, with [[printing-revolution|
+printing]] arriving in many of the same towns, a key node of the emerging [[renaissance-humanism|
+humanist]] educational order.
+
 ## Related
 
 - [[twelfth-century-renaissance]] — the intellectual revival it crowned.
+- [[renaissance-humanism]] — the *studia humanitatis* that won a "firm, if subordinate" place in the fifteenth-century curriculum.
 - [[ius-commune]] — the law studied at Bologna.
 - [[mendicant-orders]] — the friars who dominated the thirteenth-century faculties.
 - [[gregorian-reform]], [[papal-monarchy]] — the institutions universities served and supplied.
