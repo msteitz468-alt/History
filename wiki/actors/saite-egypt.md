@@ -9,7 +9,7 @@ affiliated_with: [Sais (the capital), Carian and Ionian (Greek) mercenaries, Nau
 opposed_by: [[[neo-babylonian-empire|Babylon]] (Nebuchadnezzar II), [[kush-meroe|Kush]], finally [[achaemenid-empire|Persia]]]
 key_events: [the reunification under Psammetichus I (656), the battles of [[battle-of-megiddo-609bce|Megiddo (609)]] and [[battle-of-carchemish-605bce|Carchemish (605)]], the circumnavigation of Africa, the fall to Cambyses (525)]
 key_processes: [reunification, the building of an Egyptian navy, [[greek-colonization|Greek trade]] and mercenary service, [[orientalizing-revolution|the orientalizing transmission to Greece]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-11
 tags: [actor, dynasty, archaic-period, north-africa]
 ---
@@ -137,4 +137,5 @@ Herodotean episodes, while accepting the maritime achievements as solidly attest
 - Enemies: [[neo-babylonian-empire]] ([[nebuchadnezzar-ii]]) · [[achaemenid-empire]] (Cambyses) · Events: [[battle-of-megiddo-609bce]] · [[battle-of-carchemish-605bce]]
 - Greeks in Egypt: [[naucratis]] · [[orientalizing-revolution]] · mercenaries (Abu Simbel graffiti)
 - Successor: [[achaemenid-egypt]] (27th Dynasty) · conquest: [[persian-conquest-of-egypt-525bce]] · [[cambyses]] · [[udjahorresne]]
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 35, James) · [[boardman-cah-v3p3-1982]] (Ch. 36b, Braun) · [[boardman-cah-v4-1988]] (Ch. 3g, Ray)
+- Later native revival: [[late-period-egypt]] (28th–30th Dynasties, 404–332 BCE), which threw off Persian rule and consciously revived Saite art and royal titulary
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 35, James) · [[boardman-cah-v3p3-1982]] (Ch. 36b, Braun) · [[boardman-cah-v4-1988]] (Ch. 3g, Ray) · [[lewis-cah-v6-1994|CAH VI]] (Ch. 8e, Lloyd)

@@ -1233,3 +1233,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-11 section | CAH Vol. VI | Section: Cycle 2 — Corinthian War, King's Peace & Second Athenian Confederacy (Chs 4, 6) | Pages created: 7 | Pages updated: 2
 
 ## 2026-06-11 section | CAH Vol. VI | Section: Cycle 3 — Thebes in the 360s (Ch 7) | Pages created: 5 | Pages updated: 1
+
+## 2026-06-11 section | CAH Vol. VI | Section: Cycle 4 — Regional surveys I: Persian lands (Chs 8a–8e: Asia Minor, Mesopotamia, Judah, Cyprus/Phoenicia, Egypt) | Pages created: 5 | Pages updated: 2

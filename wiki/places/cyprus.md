@@ -6,8 +6,8 @@ coordinates: ~35.0°N, 33.0°E
 period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Early Iron Age, Archaic Period]
 controlled_by: [tribal / town-based Cypriot communities (no attested unification), indigenous Iron Age city-kingdoms, Phoenician Tyre (at Kition), Assyria, Egypt (Amasis), Persia]
 events_here: [the foundation of the eastern port-towns (Enkomi etc.) in MC III, the violent destruction of the Nitovikla fortress, the Late Cypriot copper-trade boom, the LC III collapse and Aegean settlement, the LBA destruction (~1075 BCE), the Phoenician colonization of Kition, Sargon II's conquest (~709), the ten Cypro-Archaic kingdoms, Amasis's annexation (~560), submission to Persia (~545)]
-processes_here: [[[trade-network-formation]], Phoenician colonization, copper production, [[orientalizing-revolution|orientalizing transmission]]]
-sources_ingested: 4
+processes_here: [[[trade-network-formation]], Phoenician colonization, copper production, [[orientalizing-revolution|orientalizing transmission]], Hellenization]
+sources_ingested: 5
 last_updated: 2026-06-11
 tags: [place, near-east, mediterranean, middle-bronze-age, early-iron-age, archaic-period]
 ---
@@ -160,6 +160,22 @@ Throughout, Cyprus's deep conservatism preserved Mycenaean-Greek elements in rel
 and language, above all the [[cypriot-syllabary|Cypriot syllabary]], the unique script
 in which Cypriot Greek was written for a millennium.
 
+## The fourth century: Evagoras and the Cypriot War (CAH VI)
+
+[[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 8d, F. G. Maier) carries the island into the fourth
+century, dominated by **[[evagoras-of-salamis|Evagoras of Salamis]]** (c. 411–374/3). Under
+cover of good relations with [[artaxerxes-ii|Artaxerxes II]] — and by sheltering and
+funding the Athenian [[conon]] before **Cnidus (394)** — Evagoras set out to **unify all
+Cyprus** under Salamis. When Citium, Soli and Amathus appealed to the King, the **Cypriot
+War** (c. 391–380) followed: Evagoras, allied with Athens and Egypt, briefly mastered the
+eastern Mediterranean (taking Tyre) before the **[[kings-peace-386bce|King's Peace]]**
+(which named Cyprus as the King's) isolated him; defeated off Citium and besieged in
+Salamis, he submitted in 380/79 on the famous terms of being subject "**as king to king**"
+(see [[achaemenid-satrapy]]). Maier stresses that Cypriot politics remained driven by the
+**interests of individual kingdoms**, not "national" feeling — Evagoras subdued Greek and
+Phoenician dynasties alike — even as his Hellenizing court accelerated the island's drift
+into the Greek cultural orbit, the prelude to its Ptolemaic future.
+
 ## Why this place mattered
 
 Cyprus is the **copper hinge** of the eastern Mediterranean — the island whose ore
@@ -176,4 +192,5 @@ island.
 - End: [[sea-peoples|Sea Peoples]] / [[bronze-age-collapse-1200bce|Bronze Age Collapse]]
 - Iron Age: [[phoenicians|Phoenicians]] (Kition colony) · [[early-iron-age|Early Iron Age]]
 - Cypro-Archaic: ten kingdoms · [[sargon-ii]] · [[esarhaddon]] · [[saite-egypt|Amasis]] · [[achaemenid-empire|Persia]] · script: [[cypriot-syllabary]]
-- Period: [[middle-bronze-age]] → [[late-bronze-age]] → [[early-iron-age]] → [[archaic-period]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[boardman-cah-v3p1-1982]] · [[boardman-cah-v3p3-1982]]
+- Fourth century: [[evagoras-of-salamis]] · the Cypriot War · [[kings-peace-386bce]] · [[achaemenid-satrapy]]
+- Period: [[middle-bronze-age]] → [[late-bronze-age]] → [[early-iron-age]] → [[archaic-period]] → [[classical-antiquity]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[boardman-cah-v3p1-1982]] · [[boardman-cah-v3p3-1982]] · [[lewis-cah-v6-1994|CAH VI]] (Ch. 8d, Maier)
