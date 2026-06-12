@@ -9,7 +9,7 @@ affiliated_with: [the Umayyad dynasty of al-Andalus, Córdoba and Madinat al-Zah
 opposed_by: [the Fatimids (over the Maghreb), the [[christian-kingdoms-of-spain|Christian kingdoms of the north]], provincial muwallad and Berber lords]
 key_events: [Abd al-Rahman III's assumption of the caliphate 929, al-Mansur's raids (sack of Barcelona 985, Santiago 997), the fitna from 1009]
 key_processes: [the centralisation of al-Andalus, the slave- and Berber-soldier army, the fitna and fragmentation]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, early-middle-ages, high-middle-ages, iberia]
 ---
@@ -38,4 +38,4 @@ The Caliphate of Córdoba was the high point of Islamic Spain: a centralised sta
 
 - `preceded_by:` the Umayyad amirate of al-Andalus (a continuation of the [[umayyad-caliphate|Damascus Umayyads]] after 750).
 - `opposed_by:` the [[christian-kingdoms-of-spain|Christian kingdoms of Spain]] and the Fatimids.
-- `followed_by:` the *taifa* kingdoms (from 1031).
+- `followed_by:` the *taifa* kingdoms (from 1031) — see [[al-andalus|al-Andalus]] for the post-caliphal history (taifas, [[almoravids|Almoravid]] and [[almohads|Almohad]] rule), covered in [[luscombe-ncmh-v4-2004|NCMH IV]] (Kennedy, Ch. 16).

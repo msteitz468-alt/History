@@ -89,3 +89,22 @@ Created: `processes/gregorian-reform.md`, `events/investiture-contest.md`,
 (church reform added to Major Developments). Note: `[[papacy]]`,
 `[[henry-iv-holy-roman-emperor]]`, `[[salian-dynasty]]`, and `[[urban-ii]]` are forward
 links to be resolved in Cycles 3 and 5 (the Part 2 papal/imperial narrative).
+
+**Cycle 3 — Learning, the laity, crusading, the eastern churches (Pt 1, chs 12–15).**
+Created: `processes/crusades.md`, `events/first-crusade-1095.md`, `actors/urban-ii.md`,
+`concepts/twelfth-century-renaissance.md`, `concepts/medieval-university.md`,
+`concepts/eastern-churches.md`. Resolved the period page's previously dangling
+`[[crusades]]` and `[[medieval-university]]` links, and the Cycle-2 `[[urban-ii]]`
+forward link. (Hamilton's Ch. 13 on religion & the laity — lay piety, pilgrimage, the
+cult of saints, and heresy/Cathars/Waldensians — folded into the crusades, monastic-revival,
+and twelfth-century-renaissance pages; a dedicated heresy/Cathar page is deferred to
+NCMH V Cycle 2, where the Albigensian Crusade is treated.)
+
+**Cycle 4 — al-Andalus, the Jews, literature, art (Pt 1, chs 16–19) — completes Part 1.**
+Created: `processes/reconquista.md`, `actors/almoravids.md`, `actors/almohads.md`,
+`places/al-andalus.md`, `actors/ashkenazi-jewry.md`, `concepts/romanesque.md`,
+`concepts/gothic-architecture.md`, `concepts/chanson-de-geste.md`. Updated:
+`actors/caliphate-of-cordoba.md` (forward to the post-caliphal al-Andalus; sources 1→2).
+Resolved the period page's dangling `[[reconquista]]` link. (Kennedy Ch. 16 → Iberian
+pages; Chazan Ch. 17 → Jewry; Ziolkowski Ch. 18 → chanson-de-geste/vernacular, with the
+Latin revival folded into twelfth-century-renaissance; Kidson Ch. 19 → Romanesque/Gothic.)
