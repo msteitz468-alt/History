@@ -73,6 +73,56 @@ annexed the kingdom (44) as the two provinces of **Mauretania Caesariensis** and
 Tingitana**. Romanization advanced through colonies and citizenship grants (the future emperor
 **Galba** governing Africa *extra ordinem* against renewed Numidian unrest, c. 45).
 
+## The High Empire: fiscal order, the oil boom, and the African elite (CAH XI, Shaw)
+
+[[bowman-cah-v11-2000|CAH XI]] Ch. 16 (**Brent D. Shaw**) carries Africa through AD 70–192 — the
+period when it became "increasingly organized militarily, the civic centres larger and more
+numerous, the economic production boomed, and the number of African families in the corridors of
+power steadily increased." Its central interpretive question is whether emperors had an "African
+policy" at all, or whether change was routine administration driven by **tax-raising** and
+**local-elite competition**.
+
+- **Vespasian's reorganization.** The one emperor (himself a former governor, with a wife from
+  Sabratha) who acted "radically": special legates redefining the *fossa regia* and tribal
+  boundaries, claiming *subseciva* for the *fiscus*, and tightening the **tax régime** — setting the
+  second-century agenda. The **Lex Manciana** (an early-Flavian estate law) dates from here.
+- **The fluid frontier.** A single legion (**III Augusta**, moved to **Lambaesis**) held the whole
+  Maghreb; the southern advance (Garamantes, Nasamones — Domitian's "I have forbidden the Nasamones
+  to exist") and the intermittent ***fossatum*** were, in Shaw's (and Whittaker's) reading, an
+  **administrative line to regulate transhumant movement**, not a defensive wall. The **Mauretanian
+  wars** (Pius–Commodus) are minimized as sporadic raiding/banditry, not "national resistance"; the
+  **Baquates treaties** at Volubilis and the citizenship grant of the **Tabula Banasitana** (AD
+  177) show diplomacy and a protectorate beyond the formal border. **Provincialized recruitment**
+  (the legion ~50% African after Hadrian) made the army a prime **agent of Romanization**.
+- **Tribes, estates, and the agrarian laws.** Boundary stones (Musulamii, Numidae, Suburbures) mark
+  Rome's effort to **control and tax** semi-nomads — regulating, not sedentarizing, their movement
+  (often via *attributio* of tribes to cities, and rural **markets** at desert/sown contact
+  points). The great **imperial-estate inscriptions** — the **Lex Manciana**, the **Lex Hadriana**,
+  and the dossiers of Henchir Mettich, Aïn el-Djemala, and Souk el-Khemis (the *saltus Burunitanus*
+  complaint to Commodus) — codified tenure (heritable usufruct for rent-share *metayage* plus
+  corvée). Shaw's revisionist verdict: these were **not philanthropy** but tax-driven, piecemeal-
+  on-petition measures that chiefly enriched a **wealthy African landlord class on the backs of
+  dependent *coloni***.
+- **The economy: wheat and the olive-oil boom.** Africa remained a pillar of the **annona** (a
+  large share of Rome's ~20 million *modii*), its road network feeding ports (Carthage, Hadrumetum,
+  Hippo). But the great growth area was **olive oil**: field surveys reveal presses every 1–2 km and
+  groves of thousands of hectares (the Kasserine–Sufetula zone alone perhaps 50+ million litres),
+  shipped in *Africana* amphorae that by the late Antonine period outstripped Spanish oil at Ostia
+  and **Monte Testaccio**. African **red-slip fine ware** spread Mediterranean-wide as an index of
+  the boom — capital-intensive production that again benefited the rich.
+- **Urbanization.** "The greatest age of municipalization": the relentless rhythm *civitas →
+  municipium → colonia* (after Timgad, AD 100, the title *colonia* turned honorific). Driven by
+  **patrons and *municipalis aemulatio*** more than imperial policy (Gigthis petitioning twice for
+  *Latium maius*) — Africa Proconsularis became "a land of cities" (500+ *civitates*), with the
+  Antonine "fever" of building: Timgad's library, Thysdrus' great amphitheatre, the **Antonine Baths
+  and new harbour of Carthage**.
+- **Romanization and religion.** Shaw favours **laissez-faire, elite-driven acculturation** over
+  imperial imposition: African *curiae* and the eager **flaminate** (the imperial cult), and the
+  notable **"purity" of Roman cults** (unlike Gaul's native epithets) — Italian-immigrant
+  competition pushing Africans to "prove their Roman-ness." The popular cults of **Saturn and
+  Caelestis** (romanized Ba'al and Tanit) were **not resistance** but, by the mid-second century,
+  increasingly tied to the romanized landed elite — a "secondary phase of Romanization."
+
 ## Significance
 
 Whittaker's Africa is a case study in the **frontier dynamics of Roman imperialism**: the steady
@@ -88,5 +138,8 @@ into a taxed, centuriated, garrisoned Roman province.
   separated under [[caligula]]; Mauretania annexed under [[claudius]]
 - Parallels the pacification-revolts of [[roman-gaul|Gaul]] and Britain; the corn supply feeding
   [[imperial-finances|Rome]]
-- Administered and taxed per [[roman-provincial-administration]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 13, Whittaker)
+- Administered and taxed per [[roman-provincial-administration]]; High-Empire municipalization
+  ([[roman-city-government]]) and the [[tabula-banasitana|Banasa citizenship grant]]
+- High-Empire frontier as zone: [[roman-frontiers]]; African senators feeding the
+  [[high-imperial-senatorial-order|Senate]] (Fronto, the Septimii)
+- Sources: [[bowman-cah-v10-1996]] (Ch. 13, Whittaker) · [[bowman-cah-v11-2000]] (Ch. 16, Brent Shaw)
