@@ -14,8 +14,8 @@ scale_immediate: civilizational
 scale_consequential: global
 causes: [great-power rivalry and the alliance system, [[nationalism]], [[imperialism|imperial competition]], the industrial-military capacities built across the [[long-19th-century|long nineteenth century]]]
 consequences: [the World Wars era, the collapse of the multinational empires, the rise of [[communism-and-fascism|communism and fascism]], twentieth-century [[genocide]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [event, transition, world-wars-era]
 ---
 
@@ -57,7 +57,15 @@ arms industries — were turned, after 1914, to destruction on an unprecedented 
 - Accelerated the discrediting of Europe's "civilizing mission" and the rise of
   anti-colonial [[decolonization|anti-imperialism]].
 
+## See also
+
+The war itself is now an event page — **[[first-world-war-1914|The First World War (1914–1918)]]** — and
+the much-debated question of *why* it broke out is treated on **[[causes-of-the-first-world-war|its own
+controversy page]]**, framed by **[[joll-origins-first-world-war|Joll's *Origins of the First World
+War*]]** (the alliance system, militarism and mobilization timetables, the Fischer thesis on German
+responsibility, and the "mood of 1914").
+
 ## Related pages
 
-[[long-19th-century]] · [[world-wars-era]] · [[nationalism]] · [[imperialism]] ·
-[[communism-and-fascism]] · [[genocide]] · [[1945-postwar-order]]
+[[first-world-war-1914]] · [[causes-of-the-first-world-war]] · [[long-19th-century]] · [[world-wars-era]] ·
+[[nationalism]] · [[imperialism]] · [[communism-and-fascism]] · [[genocide]] · [[1945-postwar-order]]

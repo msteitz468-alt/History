@@ -5,7 +5,7 @@ date_range: 1914–1945 CE
 regions_covered: [global, western-europe, eastern-europe, east-asia, near-east, north-america, africa]
 major_themes: [total war, the return of global war, genocide, communism and fascism, the Great Depression, the second demographic and industrial surge, decolonization's prelude]
 collection_coverage: moderate
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-10
 tags: [period]
 ---
@@ -37,11 +37,12 @@ and discredited liberal capitalism across much of the world.
 
 ## Major Developments
 
-- **The First World War (1914–1918)** ended four dynastic empires (Habsburg,
+- **[[first-world-war-1914|The First World War (1914–1918)]]** ended four dynastic empires (Habsburg,
   Ottoman, Romanov, Hohenzollern) and, with the post-war settlements, made the
   national state the supposed ideal — concentrating the era's genocides in the
   lands those empires had ruled. The **Armenian genocide** (1915) is its signal
-  atrocity (see [[genocide]]).
+  atrocity (see [[genocide]]). Its much-debated origins are treated on
+  **[[causes-of-the-first-world-war]]** (framed by [[joll-origins-first-world-war|Joll]]).
 - **The Russian Revolution (1917)** and the creation of the Soviet Union
   established the first state committed to [[communism-and-fascism|communism]], with
   forced-labor programs (the gulag) that reversed the near-completion of Russian
