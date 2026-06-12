@@ -107,6 +107,39 @@ way to Indian cottons). Silver flowed east toward China's favorable gold:silver
 ratio (1:5–6 versus 1:12 in Europe), the engine of [[global-silver-trade|the
 global silver economy]].
 
+## The Fifteenth-Century European Recovery (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Wendy Childs, Commerce and Trade, Ch. 7) supplies the European
+opening of this period: a century "generally seen as one of economic **contraction until the late
+1460s and then of expansion**," resting on a "tightly integrated" and "sophisticated" trade network
+flexible enough to specialise and adapt.
+
+- **A "world economy" in embryo.** Routes linked the Baltic/North Sea (the Hanse *kontors* at
+  Novgorod, Bergen, Bruges, London), the Atlantic, the Mediterranean and Black Sea, and the
+  east–west land roads via Prague. Their epitome was **Bruges** (later Antwerp), where "Baltic furs,
+  Icelandic stockfish, English cloth, Polish grain, Iberian wine, Florentine silk and Indian spices
+  could be purchased."
+- **Capitalist organisation.** Italians led with company forms, branches, bills of exchange,
+  double-entry bookkeeping and premium insurance — the **Medici** company (eight branches, ~60 staff)
+  rising fastest in the *hardest* years before its decline after Cosimo (d. 1464). But Catalans,
+  Germans (the **Fugger** of Augsburg, rising on mining and finance) and Englishmen (the **Staple
+  Company**; the Cely and Veckinchusen firms) were equally capable; the most spectacular career was
+  **Jacques Coeur** of Bourges (ennobled 1440, crashed for political reasons 1451).
+- **The three problems of the contraction.** Childs identifies three largely "external" pressures,
+  varying by region and date: **demographic decline** (worst early in the century, sparing the
+  east); the **"bullion famine"** (most acute in the 1450s–60s, as silver drained east for spices,
+  relieved only when new Saxon/Tyrolean/Bohemian mines came on stream from the 1460s); and
+  **war** (intermittent — the end of the Hundred Years War, Italian and Hanse–English conflicts, the
+  Ottoman disruption of the Black Sea and Levant after 1453). Crucially, **falling *volume* often
+  meant much less-fallen *value***, as trade shifted toward luxuries and higher-value cloth.
+- **The late-century expansion.** From the late 1460s population and bullion both grew; English
+  cloth exports climbed from ~40,000 to ~90,000 cloths a year; Bordeaux's wine fleet and Baltic
+  Sound traffic swelled; the new **printing/book trade** and the [[age-of-discovery|Atlantic
+  voyages]] opened. Winners and losers shifted — the Hanse lost the Baltic carrying trade to the
+  Dutch and English, **Bruges finally lost to Antwerp**, and the **commercial centre of gravity
+  began moving westward** toward the Atlantic and a "truly world economy," built on sea-going skills
+  "already familiar, honed and refined" across the century.
+
 ## Interaction and End Conditions
 
 The long-run trajectory ran (unevenly) from the generalist entrepreneur toward

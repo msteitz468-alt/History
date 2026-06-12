@@ -71,6 +71,41 @@ occurred in this period; change was generally incremental and locally
 contingent, and warfare across much of the world was waged effectively without
 reference to Western methods.
 
+## The Fifteenth-Century Antecedents (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Christopher Allmand, War, Ch. 8) documents in detail the
+**fifteenth-century changes that precede and underlie the "revolution,"** reinforcing the
+"medieval precedents" critique above. The most decisive long-run development was the
+**centralisation of military organisation and command** and the spread of **permanent (standing)
+armies**, paid and disciplined by the state rather than summoned as feudal hosts:
+
+- **Standing armies and central control.** Venice pioneered a permanent force, mediating between
+  senate and mercenary captains through the *provveditori* and *collaterali*; **France** built a
+  royal army between 1445 and 1450 — the mounted **compagnies d'ordonnance** (the king alone could
+  recruit, rendering other forces illegal) and the infantry **francs-archers** (1448). Burgundy's
+  military **ordinances** under Charles the Bold (1468–73), Hungary's reforms under **Hunyadi and
+  Matthias Corvinus**, the kingdom of Naples, and Spain's reforms during the Granada war all
+  followed. The Peace of Lodi (1454) sanctioned permanent armies in Italy even in peacetime.
+- **The footsoldier and gunpowder.** The trend ran toward infantry: the **Swiss pike square**
+  (decisive at Grandson, 1476), the Hussite **wagenburg** (Žižka), the English dismounted
+  archer, and the spread of the **handgun/culverin** (used by the English in France by the 1430s).
+- **Artillery and fortification.** The first half of the century was a period of experiment
+  (iron cannonballs from the 1430s, the trunnion, mobile gun-carriages); siege and field artillery
+  "came into its own" and proved itself at **Formigny (1450)** and **Castillon (1453)**, ending the
+  Hundred Years War. French artillery was "the best in Europe" and most impressed Italians at the
+  1494 invasion — which had already begun to provoke the architectural response, the **angle
+  bastion** (the future *trace italienne*). The high cost of cannon made it "the active instrument
+  of state centralisation."
+- **Diplomacy, professionalism and a new war literature.** War's huge cost forced reliance on the
+  public purse and on new taxes; leadership shifted from birth toward **experience**; Italy
+  developed **resident ambassadors** and balance-of-power **leagues** (Lodi). A practical war
+  literature emerged (Vegetius and Frontinus revived in print; Bueil's *Jouvencel*) marking the
+  move from the chivalric *fait d'armes* (Froissart) toward the "new style" professional soldier
+  (Commynes) and the rational, trainable conduct of war.
+
+These developments place the *origins* of the gunpowder-and-standing-army transformation firmly in
+the fifteenth century, before Roberts's 1560–1660 window — exactly the incrementalist point.
+
 ## Limitations and Use
 
 The concept remains analytically productive as a way of relating war, state

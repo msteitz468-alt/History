@@ -75,6 +75,13 @@ the Conclusion (from c. line 36417) follow. The bibliography and tables are not 
   fifteenth-century countryside and his critique of the "demographic crisis"), `processes/urbanization.md`
   (Dobson: the Italian merchant ascendancy, Antwerp, Hanseatic decline, civic humanism), and
   `concepts/feudalism.md` ("bastard feudalism"). (Pages created: 2 | Pages updated: 3.)
+- **2026-06-12 — Cycle 3 (Part II, "Economic and Social Developments B" — Commerce, War, Exploration).**
+  Created `processes/age-of-discovery.md` (Fernández-Armesto: the Atlantic exploration, the "culture
+  of explorers," the Portuguese voyages, Columbus & da Gama, the China/Islam comparison). Updated
+  `concepts/military-revolution.md` (Allmand: the fifteenth-century antecedents — standing armies,
+  artillery at Formigny/Castillon, the angle bastion) and `processes/early-modern-commerce.md`
+  (Childs: the contraction-then-expansion, Bruges/Antwerp, the Medici/Fugger/Coeur, the bullion
+  famine). (Pages created: 1 | Pages updated: 2.)
 
 ## Volume Synthesis Note
 
