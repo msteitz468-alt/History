@@ -8,7 +8,7 @@ region: [global, africa, south-asia, southeast-asia, near-east, east-asia, carib
 process_type: [political, ideological]
 driven_by: [anti-imperial [[nationalism]], the discrediting of Europe's "civilizing mission" by the world wars, socialist and self-determination ideologies, the economic exhaustion of the imperial powers, the Cold War]
 produces: [the global triumph of the nation state, the post-colonial world, Third World non-alignment, persistent post-colonial inequalities and conflicts]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [process, cold-war, world-wars-era, global]
 ---
@@ -101,7 +101,11 @@ globally triumphant** (see [[nationalism]]). Its ideological legacy persists —
 Chinese revolution and in Middle Eastern societies where Islamism became intertwined
 with anti-imperialism — even as the socialist and Gandhian alternatives faded.
 
+**[[westad-cold-war|Westad's *The Cold War: A World History*]]** argues that decolonization and the Cold
+War were deeply entangled — the newly independent world was the Cold War's principal battleground, and
+each superpower offered it a rival model of modernity.
+
 ## Related pages
 
-[[imperialism]] · [[nationalism]] · [[cold-war]] · [[self-strengthening]] ·
+[[imperialism]] · [[nationalism]] · [[cold-war]] · [[westad-cold-war]] · [[self-strengthening]] ·
 [[communism-and-fascism]] · [[genocide]] · [[contemporary]] · [[1945-postwar-order]]

@@ -5,7 +5,7 @@ date_range: 1945–1991 CE
 regions_covered: [global, north-america, eastern-europe, western-europe, east-asia, south-asia, africa, latin-america, near-east]
 major_themes: [bipolar superpower rivalry, the Great Acceleration, decolonization, the demographic explosion, the Green Revolution, nuclear danger, multipolar industrialization, development]
 collection_coverage: moderate
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-10
 tags: [period]
 ---
@@ -102,9 +102,11 @@ post-revisionists) is largely outside this volume's frame.
 
 ## Collection Coverage Note
 
-Rests on [[mcneill-cwh-v7-2015|CWH VII Book 1]]. Coverage is **moderate and
-structural** — strong on demography, energy, environment, decolonization, and
-public health; thin on the political-diplomatic Cold War (no event pages yet for
-the Korean or Vietnam wars, the Cuban Missile Crisis, or 1989). CWH VII **Book 2
-is absent from the collection**, including its dedicated chapters on the Cold War
-and on 1989, which remain a sourcing priority.
+Originally rested on [[mcneill-cwh-v7-2015|CWH VII Book 1]] (structural — demography,
+energy, environment, decolonization, public health). The **political-diplomatic and
+global narrative is now supplied** by **[[westad-cold-war|Westad's *The Cold War: A
+World History*]]** (the conflict as a worldwide contest over modernity, fought largely
+in the decolonizing Global South) and **[[judt-postwar|Judt's *Postwar*]]** (Europe
+since 1945). Discrete **event pages** for the Korean and Vietnam wars, the Cuban
+Missile Crisis, and 1989 are still to be written. CWH VII **Book 2 remains absent
+from the collection**, but its gap is now largely covered by Westad and Judt.

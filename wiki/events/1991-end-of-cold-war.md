@@ -14,7 +14,7 @@ scale_immediate: global
 scale_consequential: global
 causes: [the structural exhaustion of the Soviet system, the costs of superpower competition, reform and its unintended consequences]
 consequences: [the unipolar moment, the spread of the nation state to the former Soviet space, hyper-globalization, the East Asian ascent]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [event, transition, contemporary]
 ---
@@ -61,7 +61,11 @@ the region's decisive turning point preceded the global one. CWH VII, published 
 writes the post-1991 world as the still-open culmination of the
 [[great-acceleration|Great Acceleration]] and the [[anthropocene|Anthropocene]].
 
+For the global Cold War whose end this marks, see
+**[[westad-cold-war|Westad's *The Cold War: A World History*]]** (the Soviet collapse as contingent, not a
+simple American "victory") and **[[judt-postwar|Judt's *Postwar*]]** on 1989 in Europe.
+
 ## Related pages
 
-[[cold-war]] · [[contemporary]] · [[nationalism]] · [[east-asia-modern]] ·
+[[cold-war]] · [[westad-cold-war]] · [[contemporary]] · [[nationalism]] · [[east-asia-modern]] ·
 [[great-divergence]] · [[great-acceleration]] · [[1945-postwar-order]]

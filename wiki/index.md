@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-12 (**Odd Arne Westad, *The Cold War: A World History*** (2017) ingested — Gap 1. Created the source page **[[westad-cold-war]]** (the Cold War as a global contest over modernity with deep late-19th-century roots, fought largely in the decolonizing Global South; the contingent, non-triumphalist Soviet collapse). Enriched **[[cold-war]]**, **[[1991-end-of-cold-war]]**, and **[[decolonization]]** — supplying the political-diplomatic/global narrative the structural CWH VII account had lacked.)
+
 Last updated: 2026-06-12 (**A. J. P. Taylor, *The Origins of the Second World War*** (1961) ingested — Gap 1. Created the controversy page **[[causes-of-the-second-world-war]]** (the intentionalist mainstream — Hitler's racial-expansionist blueprint — against Taylor's field-changing revisionism that Hitler was an opportunist improviser and the war grew from the 1919 settlement and miscalculation; appeasement, the Depression, and the Asia-Pacific origins) and the source page **[[taylor-origins-second-world-war]]**. Enriched **[[second-world-war-1939]]**.)
 
 Last updated: 2026-06-12 (**Antony Beevor, *The Second World War*** (2012) ingested — Gap 1. Created the event page **[[second-world-war-1939]]** (the global, interconnected war — Khalkhin Gol to Poland to the decisive Eastern Front to the Pacific; ~60 million dead, the Holocaust, the war against civilians) and the source page **[[beevor-second-world-war]]**. Enriched **[[1945-postwar-order]]**.)
