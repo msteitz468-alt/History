@@ -65,6 +65,40 @@ military commands that became the provinces of **Germania Superior** (upper, at 
 **Germania Inferior** (lower, at Cologne) — garrisoned by the largest concentration of legions
 in the empire, and the cradle of the **Batavian Revolt** (Civilis, AD 69–70).
 
+## The High Empire: from war-zone to province (CAH XI, Rüger)
+
+[[bowman-cah-v11-2000|CAH XI]] Ch. 15 (also **Rüger**) carries the two Germanies through AD 70–192,
+when — after the **Batavian revolt** closed the era of imperial attention — Germania "vanished from
+the purview of imperial politics." Its themes:
+
+- **Garrison reduction and the *limes*.** The Rhine legions, compromised as Vitellians, were cut
+  from fourteen (under the Julio-Claudians) to four by the early second century (Xanten, Bonn,
+  Mainz, Strasbourg). **Domitian's Chattan war** (AD 83) secured the right-bank **Wetterau** and
+  began the **Upper German *limes*** — a patrol road and wooden towers, given a palisade under
+  Hadrian, then stone towers and a rampart-and-ditch by the third century; Germania Inferior kept
+  the **Rhine itself** as boundary. The legions stayed in the hinterland (Mainz, Strasbourg) as a
+  strategic reserve behind ~16,000 auxiliaries on the line.
+- **The making of provinces.** Around AD 85 the military districts were converted into the regular
+  **provinces** of Germania Superior and Inferior — a "brilliant move of imperial propaganda"
+  (Domitian's *Germania Capta* coins) that rhetorically "revised" the Varus disaster. The
+  northernmost continental *colonia*, **Colonia Ulpia Traiana** (near Xanten), was founded under
+  Trajan; *civitas* capitals and a few *municipia* (Nijmegen, Arae Flaviae) rose, freeing legions
+  for the Dacian wars.
+- **Citizenship and the villa landscape.** Veterans of legions and auxilia received **citizenship**
+  on discharge and settled near their garrisons; by the mid-second century so many families held it
+  that the four legions could be recruited from the Gallo-German hinterland alone, and the local
+  elites were citizens. The *missiones agrariae* produced the remarkable **portico-villa landscape**
+  west of Cologne (a *villa rustica* roughly every 2,000 m).
+- **The army as economic motor.** The soldiers' thrice- (then four-) yearly **cash pay** drove the
+  prosperity of the north-east Gallic economic zone (the *quadragesima Galliarum* tax ringing it).
+  Guilds of **nautae and negotiatores** worked the river/sea network (Bordeaux–London–Cologne–Trier–
+  Lyons); **stone** (Eifel millstones), **pottery** (the great *terra sigillata* works at
+  **Rheinzabern**), and metals were exported, while the fertile valleys supplied the **annona
+  militaris** of the two armies.
+- **The third-century sequel.** Two great confederacies form across the frontier — the **Alemanni**
+  (from c. 213, before the Upper German *limes*) and the **Franks** (after c. 257, east of the lower
+  Rhine) — the prelude to the loss of the Agri Decumates.
+
 ## Significance
 
 Rüger's frontier is the counterpart to Gruen's argument in
@@ -80,4 +114,5 @@ heavily militarized Germanies whose armies would make and unmake emperors (Vitel
   [[battle-of-teutoburg-forest-9ce]] (led by [[arminius]])
 - The frontier of [[roman-gaul|Gaul]]; the [[roman-imperial-army|legions]] of the Rhine; the
   Rhine armies in the [[year-of-the-four-emperors-69ce|civil war of 69]] (Vitellius)
-- Source: [[bowman-cah-v10-1996]] (Ch. 13f, Rüger)
+- High-Empire frontier theory: [[roman-frontiers]]; the *limes* and Agri Decumates
+- Sources: [[bowman-cah-v10-1996]] (Ch. 13f, Rüger) · [[bowman-cah-v11-2000]] (Ch. 15, Rüger)
