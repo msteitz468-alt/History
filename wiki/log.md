@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | Herodotus, The Histories (trans. Waterfield; OWC 1998) | Classical Antiquity | aegean, near-east, iran-plateau | Pages created: 3 | Pages updated: 2
+
 ## 2026-06-12 ingest-complete | NCMH Vol. 7 — c. 1415–c. 1500 (Christopher Allmand ed., 1998) | Total pages created: 26 | Total pages updated: 20 | Sections processed: 8
 
 ## 2026-06-12 section | NCMH VII — c. 1415–c. 1500 (Allmand ed., 1998) | Section: Cycle 8 — Part IV "Northern & Eastern Europe, Byzantium & the Ottomans" + Conclusion (Scandinavia; Hungary; Poland & Lithuania; Russia; Byzantium; the Latin east; the Ottoman world) | Pages created: 4 | Pages updated: 3

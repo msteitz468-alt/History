@@ -9,7 +9,7 @@ positions: [
   "the source-critical / oral-tradition reading — Herodotus as a 'maker of tales' (logopoios) whose value and limits both follow from the *kind* of oral tradition he used, which must be analysed, not simply believed or rejected"
 ]
 resolution_status: open
-last_updated: 2026-06-11
+last_updated: 2026-06-12
 tags: [controversy]
 ---
 
@@ -74,6 +74,22 @@ with the real history of the revolt.
   "either suggests there was a better account of the Ionian Revolt than that of Herodotus, or
   offers a basis on which to construct one" — the idiosyncrasies of his narrative are
   explicable *only* if he did **not** use earlier written histories.
+- **The text's own apparatus (from the [[herodotus-histories|primary source]]).** Carolyn Dewald
+  (intro to the Waterfield translation) makes the case that Herodotus's **self-conscious source-
+  citation and doubt** is the heart of his claim to be "father of history": he repeatedly flags
+  provisional information ("I am obliged to record the things I am told, but I am certainly not
+  required to believe them," 7.152), gives variant versions, names the *self-interest* of
+  informants, and reasons in his own first-person voice — so that the text reads as "an ongoing
+  workshop on how to think historically about *logoi*" (Lateiner). The strong sceptical case rests
+  on the **oral-tradition limit** (comparative study suggests ~three generations as the outside
+  range of accurate oral memory, which would make much of Books 1–4 unhistorical) and on the
+  tendency of ancient social memory to supply *personal* motives (Polycrates' ring; the cult
+  statues of Damia and Auxesia) where modern historians expect impersonal economic/strategic
+  forces. Against **Fehling's** "liar" thesis, Dewald notes that Herodotus's contemporaries —
+  living amid extensive inter-city travel — were unlikely to have preserved a work recognized as
+  fabricated, and that the same improbable tale could genuinely be heard from several places.
+  Momigliano observed that Herodotus regained respectability only in the **fifteenth century**, when
+  European explorers found his "real improbabilities" a useful model for describing new worlds.
 
 ## Resolution status
 
@@ -88,4 +104,4 @@ François Hartog's "imaginary Scythians"; the defence of his autopsy) remains li
 
 - Core narratives at stake: [[ionian-revolt-499bce]] · [[battle-of-marathon-490bce]] · [[battle-of-sepea-494bce]] · [[darius-scythian-expedition-513bce]]
 - Subjects: [[achaemenid-empire]] · [[scythians]] · [[cleomenes-i]] · [[miltiades]] · [[thrace]]
-- Period: [[archaic-period]] · [[classical-antiquity]] · Source: [[boardman-cah-v4-1988]] (Chs. 8 Murray, 9 Hammond)
+- Period: [[archaic-period]] · [[classical-antiquity]] · Sources: [[boardman-cah-v4-1988]] (Chs. 8 Murray, 9 Hammond); the primary text itself, [[herodotus-histories]] (intro by Dewald) and its author [[herodotus]].

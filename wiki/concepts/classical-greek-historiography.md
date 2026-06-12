@@ -8,8 +8,8 @@ origin: >
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [aegean, central-greece, mediterranean]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [concept]
 ---
 
@@ -45,9 +45,13 @@ Lewis divides the period by the quality of its evidence:
 - **[[thucydides]]** (c. 460–c. 400): the critical standard — source-checking, secular,
   organized by war-years; see his own page for method, selectivity, and the
   Pentekontaetia "change of plan."
-- **[[herodotus]]**: indispensable for the transition years and for the texture of early
-  fifth-century Greece, but with "no open chronological scheme"; his reliability is the
-  subject of [[herodotus-reliability]].
+- **[[herodotus]]** (c. 484–c. 425): the **inventor of the genre** — his word *historiē*
+  ("enquiry") named it — and our single richest narrative for the late Archaic and early
+  Classical eastern Mediterranean. Indispensable for the transition years and the texture of
+  early fifth-century Greece, but written in **paratactic, digressive "old-style" prose** with
+  "no open chronological scheme," reporting variant versions and marvels under his own critical
+  caveats. The primary text is now ingested as [[herodotus-histories|*The Histories*]] (Waterfield
+  trans.); his reliability is the standing controversy [[herodotus-reliability]].
 - **Diodorus Siculus** (1st c. BCE): his *Bibliotheke* summarizes **one earlier author at
   a time** — for the fifth century, **Ephorus** of Cyme (4th c.). His "years," forced to
   equate Roman consular and Athenian archon years, are mechanically unreliable: "the
