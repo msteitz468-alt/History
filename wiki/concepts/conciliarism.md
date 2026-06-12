@@ -5,7 +5,7 @@ origin: Emic; the doctrine — rooted in canon law and revived by the Great Schi
 applies_to_periods: [Late Middle Ages]
 applies_to_regions: [western-europe]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -43,6 +43,18 @@ height in two councils:
   sancta* (1415)** declared that the council held its power "immediately from Christ" and that all,
   "even the pope," must obey it in matters of faith, schism, and reform; ***Frequens*** required
   regular future councils.
+
+## The Fifteenth-Century Defeat (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Antony Black, Ch. 3) traces the movement's **defeat** in the
+fifteenth century. After Constance healed the schism, the **Council of Basel (1431–1449)** pushed
+the conciliar programme to its radical extreme — claiming standing authority over the pope and
+even electing an antipope (Felix V) — but it **overreached and disintegrated**, discredited by its
+own intransigence while the restored popes (Eugenius IV, who countered with the reunion Council of
+**Florence, 1439**) reasserted monarchical authority. The papacy resisted *Frequens*, and by **Pius
+II's bull *Execrabilis* (1460)** condemned appeals to a council as heretical. The conciliar idea
+survived as a latent constitutional tradition (and a French "Gallican" weapon) but ceased to be a
+practical check — leaving the path open to the **Renaissance papacy** (see [[papacy]]).
 
 ## Significance and Limits
 

@@ -14,8 +14,8 @@ reliability_notes: >
   in the TOC/contributors list, and footnote digits are garbled or stripped, and map plates are
   garbage. Navigate by chapter-title headings (all-caps in the OCR) and running footers, as for
   Vols 1–6. Editor: Christopher Allmand (Liverpool). Replaces the final volume of the old CMH.
-pages_created: 0
-pages_updated: 0
+pages_created: 1
+pages_updated: 2
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -63,7 +63,11 @@ the Conclusion (from c. line 36417) follow. The bibliography and tables are not 
 
 ## Ingest Log
 
-(Per-cycle entries appended as each section cycle is completed.)
+- **2026-06-12 — Cycle 1 (Introduction + Part I, "Politics, Representation & the Church").** Created
+  `concepts/new-monarchy.md`. Updated `concepts/conciliarism.md` (the fifteenth-century defeat —
+  Basel, Florence, Execrabilis) and `actors/papacy.md` (the restored & Renaissance papacy). Captured
+  Genet on politics and political culture, the representation chapter, and Black on popes and
+  councils. (Pages created: 1 | Pages updated: 2.)
 
 ## Volume Synthesis Note
 

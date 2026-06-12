@@ -111,6 +111,18 @@ stood above the pope — which finally healed the schism at the **Council of Con
 (Martin V, 1417). The medieval papacy thus ended the period **weakened and reformed-against**, its
 universal authority shaken.
 
+## The Restored and Renaissance Papacy (NCMH VII)
+
+[[allmand-ncmh-v7-1998|NCMH VII]] (Antony Black, Ch. 3) follows the papacy's recovery in the
+fifteenth century. The restored Roman popes (from **Martin V**, 1417) **defeated the conciliar
+challenge**: **Eugenius IV** outmanoeuvred the radical **Council of Basel** (1431–1449) with the
+reunion **Council of Florence (1439)**, and **Pius II's *Execrabilis* (1460)** condemned appeals to
+a council (see [[conciliarism]]). But the price of restoring monarchical authority was a retreat
+from universal reform: the papacy reconsolidated as an **Italian territorial principality** (the
+Papal States) and a **Renaissance court**, its popes increasingly patrons, dynasts and politicians.
+This **un-reformed, princely papacy** — powerful in Italy but compromised in its spiritual mission —
+is the institution that the **Reformation** would shortly confront.
+
 ## Significance and Longue Durée
 
 The eleventh-century reform made the papacy the engine of Latin Christendom's
