@@ -9,7 +9,7 @@ affiliated_with: [the Eupatrid aristocracy, the Alcmaeonid clan, at times Eretri
 opposed_by: [Megara (over Salamis), Mytilene (over Sigeum), Aegina]
 key_events: [the unification of Attica, Cylon's attempted coup (~636), Dracon's law-code (621), the war for Salamis, the reforms of Solon (594), the tyranny of Pisistratus]
 key_processes: [synoikism, the dismantling of monarchy, the codification of law, the broadening of political participation]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, central-greece]
 ---
@@ -133,4 +133,4 @@ was a cultural capital and a pawn among the kings, no longer an independent powe
 - Compare: [[sparta]] · [[corinth]] · [[greek-tyranny]] (which Athens resisted under Cylon)
 - Fourth century: [[conon]] · [[corinthian-war-395bce]] · [[second-athenian-confederacy]] · [[kings-peace-386bce]]
 - Hellenistic end: [[lamian-war-323]] · [[demetrius-of-phalerum]] · [[demetrius-i-poliorcetes]] · [[ruler-cult]]
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Chs. 43–44, Andrewes) · [[boardman-cah-v4-1988]] (Chs. 4–5, Lewis & Ostwald) · [[lewis-cah-v6-1994|CAH VI]] (Chs. 4, 6, Seager) · [[walbank-cah-v7-1-1984|CAH VII.1]] (Will, ch. 2)
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Chs. 43–44, Andrewes) · [[boardman-cah-v4-1988]] (Chs. 4–5, Lewis & Ostwald) · [[lewis-cah-v6-1994|CAH VI]] (Chs. 4, 6, Seager) · [[walbank-cah-v7-1-1984|CAH VII.1]] (Will, ch. 2); the postwar recovery (403–386) in **[[strauss-athens-after-peloponnesian-war|Strauss, *Athens after the Peloponnesian War*]]** (class, faction and policy)

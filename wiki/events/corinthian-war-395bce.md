@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: regional
 causes: [resentment of Sparta's high-handed expansionism after the Peloponnesian War, Persian gold distributed to Thebes/Corinth/Argos/Athens by Timocrates, a Theban-contrived border quarrel between Phocis and Locris]
 consequences: [the destruction of the Spartan fleet at Cnidus, the rebuilding of the Athenian Long Walls, military stalemate on land, the King's Peace of 386 that restored Spartan supremacy]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [event, classical-antiquity, peloponnese, aegean]
 ---
@@ -83,4 +83,5 @@ Greek affairs — "the only power to have derived unmitigated gain."
 - Belligerents: [[sparta]] · [[athens]] · Thebes · Corinth · Argos · [[achaemenid-empire]]
 - Figures: [[agesilaus-ii]] · [[lysander]] (d. Haliartus) · [[conon]] · Pharnabazus · Iphicrates · Antalcidas
 - Outcome: [[kings-peace-386bce]] · context: [[spartan-hegemony]]
-- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 4, Seager)
+- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 4, Seager); the Athenian domestic dimension in
+  **[[strauss-athens-after-peloponnesian-war|Strauss, *Athens after the Peloponnesian War*]]**.
