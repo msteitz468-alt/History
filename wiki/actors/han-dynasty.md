@@ -9,7 +9,7 @@ affiliated_with: [Confucian-Legalist statecraft, local elites]
 opposed_by: [the [[xiongnu]], rival warlords, the Yellow Turban rebels]
 key_events: [Emperor Wu's Xiongnu wars 141-87 BCE, Zhang Qian's mission to the Yuezhi 139 BCE, opening of the [[silk-roads|Silk Roads]], conquest of northern Korea 109 BCE]
 key_processes: [[[empire]], [[silk-roads]], [[confucianism|Confucian state ideology]], [[east-asian-cultural-sphere]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [actor, dynasty, classical-antiquity, late-antiquity, china, east-asia]
 ---
@@ -70,3 +70,7 @@ dynastic-cycle model. Excavated **wooden-slip documents** from frontier watchtow
 Dunhuang) now supply administrative detail on the Silk Roads garrisons. CWH IV stresses the
 Han as a true **empire**, not a nation-state — its rule over Korea explicitly likened to
 Rome's over Britain.
+
+A primary monument of early-Han thought is now ingested as the **[[huainanzi-essential|Huainanzi]]**
+(139 BCE), the syncretic "Huang-Lao" compendium compiled under **[[liu-an|Liu An]]** — illustrating the
+imperial ideology of the early Western Han before the turn to state Confucianism under Emperor Wu.

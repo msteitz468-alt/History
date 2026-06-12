@@ -5,7 +5,7 @@ origin: Warring States China; the foundational texts are the Laozi (Daodejing) a
 applies_to_periods: [Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages]
 applies_to_regions: [china, east-asia]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -58,3 +58,5 @@ contested.
 - `contrasts_with:` [[confucianism|Confucianism]] (social engagement) and [[legalism|Legalism]] (force
   and law); `interacted_with:` Buddhism.
 - `concept:` *wu wei*, *ziran*, the Dao; part of the [[axial-age|Axial Age]] flowering in China.
+- `developed_in:` the early-Han **[[huainanzi-essential|Huainanzi]]** (Huang-Lao syncretism — *wu wei*
+  applied to statecraft).
