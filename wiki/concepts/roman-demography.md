@@ -89,6 +89,6 @@ expectancy, the reality of family limitation, sex differentials, the gross popul
 - The [[antonine-plague-165|Antonine Plague]] as the first pandemic; exposure feeding the slave
   system (see [[roman-citizenship-and-belonging]])
 - Conditions the [[roman-agrarian-economy|agrarian economy]] (labour, the peasantry) and the
-  [[roman-society-status-family|family and household]]; the [[high-imperial-senatorial-order|Senate]]'s
-  replenishment
+  [[roman-family-and-household|family and household]]; the [[high-imperial-senatorial-order|Senate]]'s
+  replenishment ([[roman-social-structure-high-empire|elite mobility]])
 - Source: [[bowman-cah-v11-2000]] (Ch. 27, Bruce W. Frier)
