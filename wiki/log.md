@@ -13,6 +13,8 @@ Format:
 
 ## 2026-06-12 admin | Processing-List Phases 7 (ANE/Egypt depth) and 8 (Ancient China depth) skipped — every named volume absent from the collection. Proceeding to Phase 9 (Greece & Rome Depth).
 
+## 2026-06-12 ingest | Alexander the Great in his World (Carol G. Thomas, 2007) | Classical Antiquity | macedonia, near-east, mediterranean | Pages created: 1 | Pages updated: 1
+
 ## 2026-06-12 ingest | Macedonian Imperialism (Pierre Jouguet, 1926/1928) | Classical Antiquity | macedonia, near-east, north-africa, mediterranean | Pages created: 1 | Pages updated: 2
 
 ## 2026-06-12 ingest | Lysias (Oratory of Classical Greece, Vol. 2; trans. S. C. Todd) | Classical Antiquity | aegean, mediterranean | Pages created: 2 | Pages updated: 1

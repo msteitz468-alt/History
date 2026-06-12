@@ -9,7 +9,7 @@ affiliated_with: [[[philip-ii-of-macedon|Philip II]], Macedon, the Argead dynast
 opposed_by: [[[achaemenid-empire|Achaemenid Persia]] (Darius III), Porus, Tyre, Greek city-states]
 key_events: [accession 336 BCE, conquest of the Achaemenid Empire 334-330 BCE ([[battle-of-gaugamela-331bce|Gaugamela]]), founding of Alexandria 331 BCE, Indian campaign 327-325 BCE, death at Babylon 323 BCE]
 key_processes: [[[empire]], Hellenization, [[trade-network-formation]], [[silk-roads]], [[hellenistic-world]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-11
 tags: [actor, person, classical-antiquity, mediterranean, near-east]
 ---
@@ -110,6 +110,14 @@ megalomaniac; how deliberate was "Hellenization"; and how much of the Hellenisti
 synthesis was his design versus the work of his successors and local elites. His
 legend (the Alexander Romance) circulated across Afro-Eurasia from Europe to Iran and
 India — itself a marker of the connected world he helped create.
+
+**Carol G. Thomas, *Alexander the Great in his World* (2007)**, now ingested
+(**[[thomas-alexander-in-his-world]]**), approaches him through **context rather than narrative**:
+arguing that the key to Alexander lies less in psychologizing the man (whom the sources cannot deliver
+reliably) than in the **world that made him** — his Macedonian identity, the peculiar nature of the
+Macedonian kingdom and army, the Greek intellectual inheritance, and the Persian and Near Eastern
+setting he entered. It is also a useful survey of the **"many images" of Alexander** the fragmentary,
+late source-tradition has generated.
 
 ## Related
 
