@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the failure of the federate settlement, the fall and execution of [[stilicho|Stilicho]] (408), Honorius' refusal to negotiate]
 consequences: [the symbolic shock to the Roman world, Augustine's City of God, the Visigothic move into Gaul and Spain]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [event, transition, late-antiquity, italy]
 ---
@@ -74,4 +74,7 @@ the fall of the West]].
 - `analogous_to:` the [[gallic-sack-of-rome-390bce|Gallic sack of Rome]] (the previous fall of the city)
 - `produced:` Augustine's *City of God*; feeds the [[causes-of-the-fall-of-the-western-roman-empire|fall
   of the West]] controversy
-- Source: [[cameron-cah-v13-1998]] (Ch. 4, R. C. Blockley)
+- Source: [[cameron-cah-v13-1998]] (Ch. 4, R. C. Blockley); the great Christian apologetic response — the
+  argument that pagan Rome's past was far bloodier — is now ingested as
+  **[[fear-orosius-history-against-pagans|Orosius, *Seven Books of History against the Pagans*]]**
+  (companion to Augustine's *City of God*).
