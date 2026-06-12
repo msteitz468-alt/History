@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | Plutarch, Roman Lives — a selection of eight (trans. Waterfield; OWC 1999) | Classical Antiquity | italy, mediterranean | Pages created: 2 | Pages updated: 0
+
 ## 2026-06-12 ingest | Polybius, The Histories (trans. Waterfield; OWC 2010) | Classical Antiquity | mediterranean, italy, balkans | Pages created: 2 | Pages updated: 1
 
 ## 2026-06-12 ingest | Thucydides, The Peloponnesian War (trans. Hammond; OWC 2009) | Classical Antiquity | aegean, central-greece | Pages created: 1 | Pages updated: 2
