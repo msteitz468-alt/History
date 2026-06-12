@@ -5,7 +5,7 @@ date_range: "1000–1300 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road]
 major_themes: ["the thickening of Afro-Eurasian exchange webs", "the commercial revolution and a 'first globalization'", "the apogee of Song China", "the Crusades and Christian–Islamic frontier conflict", "cultural crystallization across Eurasian ecumenes", "the rise of universities and scholastic learning", "the eve of the Mongol conquests", "demographic expansion across the Old World", "Angkor, Cahokia, and regional apogees beyond Eurasia"]
 collection_coverage: strong
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [period]
 ---
@@ -57,6 +57,31 @@ reconquista) as of commerce. See [[crusades]].
 (Bologna, Paris, Oxford), scholasticism, the recovery of Aristotle via Arabic
 translation, Gothic architecture, and parallel intellectual flourishings in the
 Islamic world (al-Ghazali, Ibn Rushd) and Song China. See [[cultural-crystallization]].
+
+**The "take-off" of Latin Europe.** Beneath the political narrative lies a structural
+transformation that [[luscombe-ncmh-v4-2004|NCMH IV]] makes the foundation of the
+whole period in the west: a **[[medieval-agricultural-revolution|demographic and
+agricultural "take-off"]]** (the European population more than doubling 1000–1300),
+feeding the [[commercial-revolution|commercial]] and [[urbanization|urban]] revivals,
+the consolidation of seigneurial lordship and the order of [[chivalry|knighthood]]
+behind its proliferating castles, the [[ius-commune|revival of Roman and canon law]]
+and the birth of the [[medieval-university|universities]], and the sanctification of
+warrior violence ([[peace-of-god|Peace of God]] → [[just-war|just war]] →
+[[crusades|Crusade]]). The editors frame the eleventh and twelfth centuries as "a
+unique fulcrum": at the start most of western Europe was backward beside the urban,
+commercial Islamic Mediterranean and Byzantium; by the close the balance had begun
+decisively to shift.
+
+**The reform of the Latin Church.** The eleventh century's
+**[[gregorian-reform|Gregorian Reform]]** — against simony, clerical marriage, and lay
+investiture, in the name of the *libertas ecclesiae* — precipitated the
+**[[investiture-contest|Investiture Contest]]** (1075–1122) between
+[[gregory-vii|Gregory VII]] and the [[salian-dynasty|Salian]] emperors (Canossa 1077;
+Concordat of Worms 1122), produced the centralised **[[papal-monarchy|papal monarchy]]**
+of cardinals, legates, and Lateran councils, and released the greatest
+**[[medieval-monastic-revival|monastic revival]]** in European history (the
+[[cistercian-order|Cistercians]], Carthusians, and regular canons). NCMH IV warns
+against reading this whole transformation merely as a papal–imperial duel.
 
 **Regional apogees beyond Eurasia.** [[angkor|Angkor]] reached its monumental
 height; Cahokia peaked and declined; the Toltec and early Postclassic orders
@@ -137,7 +162,13 @@ state formation; **[[reuter-ncmh-v3-1999|NCMH III]]** (c. 900–c. 1024) now pro
 deep coverage of the period's opening quarter-century across the European and
 Mediterranean world (the Ottonian Reich, Capetian France, late Anglo-Saxon England,
 the emergent eastern kingdoms, Byzantium under the Macedonians, and the Caliphate of
-Córdoba). **NCMH IV–V** (Phase 3) remain the backbone still to be ingested for the
-bulk of the period; specialist Song, Seljuk, Crusader, and Indian Ocean material
-remains to be added. South and Southeast Asia and the interior of sub-Saharan Africa
-stay comparatively thin.
+Córdoba). **[[luscombe-ncmh-v4-2004|NCMH IV]]** (c. 1024–c. 1198, in two parts) now
+supplies the reference backbone for the central Middle Ages — the socioeconomic
+"take-off," the Gregorian Reform and Investiture Contest, the First and Second
+Crusades, the twelfth-century renaissance and the universities, the Norman conquests
+of England and Sicily, the communes, the Reconquista after Toledo (1085), and the
+Komnenian Byzantium — being ingested cycle by cycle (Cycle 1 covers the thematic
+socioeconomic and legal foundations above). **NCMH V** (c. 1198–c. 1300) remains to
+follow for the thirteenth century, along with specialist Song, Seljuk, Crusader, and
+Indian Ocean material. South and Southeast Asia and the interior of sub-Saharan
+Africa stay comparatively thin.

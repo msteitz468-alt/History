@@ -5,7 +5,7 @@ origin: Emic; church councils of Aquitaine and Burgundy from c. 975/989 (Charrou
 applies_to_periods: [Early Middle Ages, High Middle Ages]
 applies_to_regions: [western-europe, mediterranean]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -38,7 +38,22 @@ The Peace and Truce of God:
 - Its **causal relation** to the breakdown of public order — circular in the mutationist account, since the same scarcity of sources is read both as evidence of new violence and as evidence of new recording.
 - Its **geography**: a southern- and western-French / Burgundian / Catalan phenomenon that, like the *mutation* itself, fits poorly onto Germany and England, where royal authority persisted.
 
+## The Peace and the Sanctification of War (NCMH IV)
+
+[[luscombe-ncmh-v4-2004|NCMH IV]] (Ernst-Dieter Hehl, Ch. 7) places the Peace
+movement within the eleventh century's broader reworking of the Christian evaluation
+of violence. By developing ideas about how the **Church itself** could discharge the
+protective, peace-keeping tasks once reserved to kings, churchmen turned the Peace of
+God into one of the institutional precedents for ecclesiastically directed warfare:
+the same reforming impulse that recruited "knights of St Peter" and sanctified the
+defence of Christians led, via the [[just-war|just-war]] tradition, to the
+[[crusades|Crusade]] — and it was Urban II who, at Clermont in 1095, proclaimed both
+the Truce of God and the First Crusade. The Peace thus belongs to the genealogy of
+the militarisation of medieval Christianity, not only to the breakdown of public
+order around 1000.
+
 ## Related
 
 - `concurrent_with:` [[feudal-revolution-debate]], [[encellulement]]
-- `enabled:` the reform [[papacy]] and the ideology of the [[crusades|Crusade]].
+- `enabled:` the reform [[papacy]], the [[just-war|just-war]] tradition, and the ideology of the [[crusades|Crusade]].
+- [[chivalry]], [[three-orders]] — the warrior class whose violence the Peace sought to channel.

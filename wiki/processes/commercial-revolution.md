@@ -8,8 +8,8 @@ region: [mediterranean, western-europe, northern-europe, eastern-europe, iberia,
 process_type: economic
 driven_by: ["urban and demographic growth", "the revival of Mediterranean trade", "Italian maritime republics", "credit and accounting innovation", "the Crusades and Levantine access", [[afro-eurasian-world-system]]]
 produces: ["a monetized, credit-based European economy", "the Italian and Hanseatic mercantile patriciates", "a 'first globalization' of trade by 1500", "the commercial preconditions for European oceanic expansion"]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [process, high-middle-ages, late-middle-ages, mediterranean, western-europe]
 ---
 
@@ -26,9 +26,20 @@ of trade**. It is the European/Mediterranean segment of the broader
 portion" of the Afro-Eurasian zone, and in Richard Smith's typology a former
 **cul-de-sac** that grew into a genuine commercial center.
 
+[[luscombe-ncmh-v4-2004|NCMH IV]] (Derek Keene, Ch. 3, "Towns and the growth of
+trade") frames the two centuries "that opened with the decline of Córdoba and closed
+with the sack of Constantinople in 1204" as ones of vigorous commercial and urban
+development across the whole 4,000-km span from the Volga to Ireland — while stressing
+that for most of the period **western Europe remained backward and peripheral** by
+comparison with the highly commercialised, urbanised Islamic Mediterranean and Middle
+East, a relationship not conclusively reversed for half a millennium. The European
+revival was thus in part stimulated *from outside*, by trade with the richer Muslim
+and Byzantine south.
+
 ## Causal Drivers
 
-- **Urban and demographic growth** from the eleventh century, generating demand,
+- **Urban and demographic growth** from the eleventh century — itself driven by the
+  [[medieval-agricultural-revolution|agricultural "take-off"]] — generating demand,
   labor, and markets.
 - **The Italian maritime republics** — Venice, Genoa, Pisa, Amalfi — which seized
   the carrying trade of the Mediterranean, secured quarters in Byzantine and

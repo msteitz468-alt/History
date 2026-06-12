@@ -8,8 +8,8 @@ region: [western-europe]
 affiliated_with: [[[william-i-of-aquitaine|William the Pious of Aquitaine]], [[papacy]], Benedictine monasticism]
 opposed_by: [proprietary lordship over monasteries, simony]
 key_events: [[[foundation-of-cluny-909]]]
-key_processes: [[[carolingian-monasticism]], tenth-century monastic reform]
-sources_ingested: 1
+key_processes: [[[carolingian-monasticism]], tenth-century monastic reform, [[medieval-monastic-revival]]]
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, institution, early-middle-ages, high-middle-ages, western-europe]
 ---
@@ -43,8 +43,24 @@ Cluny demonstrated that a monastery could be **structurally independent** of the
 
 NCMH III is at pains to dismantle the older view that tenth-century reform *was* Cluny. Reform was a "dynamic and multi-faceted movement" with many independent centres — **Brogne** (Gerard of Brogne, reforming for the margraves of Flanders and the duke of Lotharingia), **[[gorze-reform|Gorze]]** near Metz (an episcopal proprietary house reformed by the bishops of Metz, the spearhead of reform in the Ottonian *Reichskirche*), **Einsiedeln**, the English **Regularis Concordia** houses, and the eremitic strand (**Romuald** of Ravenna, founder of Camaldoli). Cluny was the most famous, not the sum, of the movement.
 
+## The Eleventh-Century Apogee (NCMH IV)
+
+[[luscombe-ncmh-v4-2004|NCMH IV]] (Giles Constable, Ch. 10) shows Cluny at its
+eleventh-century **height** under Abbots Odilo and Hugh the Great: the community
+quadrupled between the tenth and mid-twelfth centuries, and Cluny stood at the head of
+a vast congregation — "the treasury of the entire Christian republic from which all
+people draw forth." Its monks supplied the reform papacy with personnel (all popes
+1073–1119 had been monks; Urban II was a Cluniac), making Cluny a seedbed of the
+[[gregorian-reform|Gregorian Reform]] even as its wealth and elaborate liturgy became,
+in the twelfth century, the foil against which the austere
+[[cistercian-order|Cistercians]] defined themselves (the Cluniac–Cistercian polemics
+of Peter the Venerable and Bernard of Clairvaux). Cluny thus stands at the hinge of
+the [[medieval-monastic-revival|monastic revival]]: the culmination of the old
+Benedictine model and the prompt for the new.
+
 ## Related
 
 - `part_of:` [[carolingian-monasticism]] (its Benedictine and Carolingian-reform inheritance) → tenth-century reform monasticism
+- `contrasts_with:` [[cistercian-order|Cîteaux]] — the austere new monasticism that reacted against Cluniac wealth.
 - `contrasts_with:` [[gorze-reform|Gorze]] — proprietary, episcopal, royal-linked reform vs. Cluny's self-directed *libertas* (the "Gorze–Kluny" distinction of Kassius Hallinger, which Wollasch refines).
 - `enabled:` the later **Gregorian reform** and the reform [[papacy]].
