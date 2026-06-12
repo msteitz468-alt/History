@@ -64,6 +64,60 @@ of Cappadocia and Commagene, dealt with Arabia and Palmyra, and conducted the Pa
 — his Mesene contact tied to the stimulation of the **Far Eastern caravan trade**, the first
 attested Palmyrene caravans dating to AD 19 and 24).
 
+## The High Empire: provincialization, prosperity, and the caravan trade (CAH XI, Sartre)
+
+[[bowman-cah-v11-2000|CAH XI]] Ch. 21 (**Maurice Sartre**, "Syria and Arabia") covers AD 70–192 —
+the period of **closer integration** of the whole Semitic Near East into the empire, on four
+themes: the absorption of the client states, the development of rural society, the evolution of
+civic life, and the apogee of Syrian trade.
+
+- **Provincialization.** The Flavian–Trajanic reorganization swept away the remaining client states
+  (Sartre notes Rome **preferred to wait for a ruler's death** over using force): **Commagene**
+  annexed (72), **Emesa** (the Sampsigerami) and the Lebanese tetrarchies absorbed, **Judaea**
+  raised to a province after 70 (renamed **Syria-Palaestina** during Bar Kochba), **Cilicia
+  Campestris** detached, and above all the **Nabataean kingdom annexed as the province of Arabia
+  (106)**, capital **Bostra**. The result: three provinces — **Syria** (consular, 3 legions),
+  **Judaea/Syria-Palaestina**, and **Arabia** — behind the unchanged **Euphrates frontier**, with a
+  *clientela* revived *beyond* the river (Edessa, Hatra, Characene) that smoothed the campaigns of
+  Trajan and Lucius Verus. The provinces enjoyed near-unbroken **peace**; the chief disorders were
+  banditry and nomad raids, both weak.
+- **Rural development.** Sartre's evidence is the exceptional survival of villages in the northern
+  **limestone massif** and the **Hauran** — both apparently near-deserted c. AD 1 but **densely
+  developed from the second century**, on olive (north) and cereals/vines/cattle (Hauran). Growth
+  rested on a sharp **population rise** and Roman organization (cadastration; perhaps a *Lex
+  Manciana*-type regime), producing not great estates but a coexistence of village landowners and
+  not-poor peasants. Where cities were sparse (southern Syria), villages developed real **communal
+  institutions**, the most important raised to ***metrokomiai*** on the former domains of Agrippa II.
+- **Civic life — cautious and divided.** Unlike Asia Minor, Syria saw **few new foundations** (Flavia
+  Neapolis, Capitolias; otherwise the **promotion of native towns** — Petra, Bostra — to *polis*
+  status, and the colonies Caesarea and **Aelia Capitolina** on Jerusalem's ruins). The *poleis* had
+  the full Greek apparatus and competed fiercely for **titles** (metropolis, autonomy, freedom),
+  cities suddenly advertising Alexandrian or Pompeian foundations — and choosing sides in 193 by
+  **rivalry** (Laodicea vs. Antioch, Tyre vs. Berytus). A sharp **north–south / coast–interior
+  divide** runs through everything: Roman citizenship, Greek games, and Hellenized names were common
+  in the long-Hellenized north and coast (which gave Rome senators like **Avidius Cassius** of
+  Cyrrhus), rare at Emesa, Petra, and Bostra (no Arabian senator is attested) — yet the elite of
+  Phoenicia and north Syria produced a brilliant flowering of **philosophers, sophists, jurists, and
+  novelists** (Lucian of Samosata, Numenius of Apamea, Apollodorus of Damascus, Ulpian of Tyre).
+- **Crafts and the apogee of trade.** A rich **artisan class** transformed local and imported goods:
+  the **purple-dyeing** of Tyre and Sidon, Sidonian **luxury glass** (branches even in Gaul),
+  Nabataean fine **ceramics**, and the **reworking of Chinese silk** into finer cloth — the most
+  lucrative link in the chain accruing to Syrian craftsmen. Syria sat astride the **eastern luxury
+  trade** (silk, spices, aromatics, ivory via India and Arabia Felix), whose two great routes were
+  controlled by the rival caravan cities: **Petra in decline** (trade diverted to Alexandria and
+  Palmyra since Augustus) and **Palmyra at its apogee** in the second century — a peregrine city
+  whose rich **camel-owning aristocracy** organized, escorted, and provisioned caravans to
+  Mesopotamia and the Persian Gulf (resident Palmyrenes at Ctesiphon, Vologesias, Spasinou Charax),
+  honouring its **caravan-chiefs** (*synodiarchai*) with statues. Sartre's key argument **refutes
+  Pliny's "ruin of the empire" topos**: the 25% customs duty, the merchants' and caravaneers'
+  commissions, and the craftsmen's value-added meant **most of the luxury price stayed within the
+  empire** — "Rome herself may have gone to ruin, but not the empire."
+
+Sartre's closing note: the steady **eastward and southward spread of Hellenism** (to the Hedjaz)
+ran alongside an increasing **Arab** presence on the desert edge, developing a culture of its own
+— a juxtaposition that gave the Syrian provinces their uniqueness and masked the coming rise of the
+Arabs.
+
 ## Significance
 
 Kennedy's Syria is the **strategic pivot of the Roman East**: the army that faced Parthia, the
@@ -80,4 +134,6 @@ the world that would later send Syrian families (the Emesene dynasty) to the hea
 - Supervised the client kingdom of [[herod-the-great|Herod]] / [[roman-judaea|Judaea]]; its
   governor Varus crushed the revolt of 4 BCE
 - Companion (CAH X Ch. 14): [[roman-greek-east|Greece]], [[roman-egypt|Egypt]], [[roman-judaea|Judaea]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 14c, Kennedy)
+- High-Empire: the annexation of Nabataea/Arabia (106), Palmyra's caravan trade, the
+  [[trajans-parthian-war-114-117|Parthian War]]; the [[roman-frontiers|Euphrates frontier]]
+- Sources: [[bowman-cah-v10-1996]] (Ch. 14c, Kennedy) · [[bowman-cah-v11-2000]] (Ch. 21, Sartre)
