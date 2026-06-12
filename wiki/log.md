@@ -1442,3 +1442,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-12 ingest-complete | CAH XI — The High Empire AD 70–192 (Bowman, Garnsey & Rathbone eds., 2nd ed. 2000) | Total pages created: 40 | Total pages updated: 10 | Sections processed: 7
 
 ## 2026-06-12 section | CAH XII — The Crisis of Empire AD 193–337 | Section: Narrative — Severans to Constantine (Chs 1–4) | Pages created: 17 | Pages updated: 0
+
+## 2026-06-12 section | CAH XII — The Crisis of Empire AD 193–337 | Section: Government & administration (Chs 5–7) | Pages created: 3 | Pages updated: 1

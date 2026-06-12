@@ -124,6 +124,20 @@ both their pay and gratuities as coming direct from the emperor"). But its cost 
 power to choose emperors — masked while the Julio-Claudian succession held — was revealed in the
 [[year-of-the-four-emperors-69ce|civil war of 68–69]].
 
+## The crisis and the late-Roman army (CAH XII)
+
+[[bowman-cah-v12-2005|CAH XII]] Ch. 5 (**Brian Campbell**) carries the army through the
+[[third-century-crisis|third-century crisis]] to its late-Roman form. The Principate's legion-based
+frontier army held the empire together through the crisis but adapted under two-front pressure
+(Persia + the Germanic confederations): the rising weight of **cavalry** and *vexillationes*, the
+exclusion of senators from command under [[gallienus|Gallienus]], and his concentration of an
+independent cavalry at Milan. [[diocletian|Diocletian]] roughly **doubled the legions** and
+re-emphasized a strong **frontier garrison** (the *Strata Diocletiana*), while
+[[constantine-the-great|Constantine]] privileged a mobile **field army** (*comitatenses*) over the
+**frontier troops** (*limitanei*), created the *magister peditum*/*equitum*, and abolished the
+praetorians (312). The result was the dual mobile/frontier army of late antiquity — fully treated in
+[[late-roman-army]].
+
 ## Related
 
 - Created by [[augustus]]; the *aerarium militare* and pay analysed in [[imperial-finances]]
@@ -131,4 +145,5 @@ power to choose emperors — masked while the Julio-Claudian succession held —
   [[year-of-the-four-emperors-69ce]]
 - Garrisons structure the [[roman-provincial-administration|provincial system]]; the auxiliary
   prefect [[arminius]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 11, Keppie)
+- Its late-antique transformation: [[late-roman-army]], [[late-roman-administration]]
+- Sources: [[bowman-cah-v10-1996]] (Ch. 11, Keppie); [[bowman-cah-v12-2005]] (Ch. 5, Campbell)
