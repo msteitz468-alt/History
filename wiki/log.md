@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest | Mencius (trans. Bloom; ed. Ivanhoe; Asian Classics) | Classical Antiquity | china, east-asia | Pages created: 2 | Pages updated: 2
+
 ## 2026-06-12 ingest | The Analects of Confucius (trans. Burton Watson; Asian Classics) | Archaic Period, Classical Antiquity | china, east-asia | Pages created: 1 | Pages updated: 2
 
 ## 2026-06-12 ingest | Isidore of Seville, On the Nature of Things (TTH 66; trans./intro Kendall & Wallis) | Late Antiquity, Early Middle Ages | iberia, mediterranean | Pages created: 2 | Pages updated: 1

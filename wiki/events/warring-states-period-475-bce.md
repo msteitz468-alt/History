@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[zhou-dynasty|collapse of Zhou royal authority]], rise of sovereign territorial states, military and administrative competition]
 consequences: [[[qin-dynasty|Qin unification of China 221 BCE]], the centralized bureaucratic imperial state, Legalist statecraft, the [[axial-age|classical schools of thought]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [event, transition, classical-antiquity, china, east-asia]
 ---
@@ -69,3 +69,7 @@ philosophical schools, which read it through the lens of the unification that fo
 The structural reading — that competitive state-formation, not any individual, produced the
 imperial state — makes it a leading East Asian case in the
 [[great-man-vs-structural-causation|structural-vs-contingent causation]] debate.
+
+The intellectual ferment of the age (the "Hundred Schools") is now represented by ingested primary
+texts: the Confucian **[[mencius-ivanhoe|Mencius]]**, the Legalist **[[han-feizi-watson|Han Feizi]]**,
+and the Daoist **[[zhuangzi-watson|Zhuangzi]]**.
