@@ -9,8 +9,8 @@ affiliated_with: [Ionia (Smyrna / Chios), the aoidoi (oral singers), the Homerid
 opposed_by: []
 key_events: [the monumental composition of the *Iliad* and *Odyssey*]
 key_processes: [the Greek oral epic tradition, [[ionian-migration-1050bce|the Ionian settlement of Asia Minor]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [actor, person, early-iron-age, anatolia, aegean]
 ---
 
@@ -98,4 +98,5 @@ describes, without resolving those disputes.
 - Subject: [[trojan-war-1250bce]] · [[mycenaean-civilization]] (the heroic age remembered)
 - Context: [[ionian-migration-1050bce]] · [[greek-dark-age]] · Concept: [[aegean-scripts]] (lost Linear B)
 - Shaped: [[greek-religion-and-mythology]] (the Olympian pantheon) · [[coming-of-the-greeks-1900bce]] (the epic dialect amalgam)
-- Source: [[edwards-cah-v2p2-1975]] (Ch. XXXIX(b), Kirk)
+- Source: [[edwards-cah-v2p2-1975]] (Ch. XXXIX(b), Kirk); the poem itself is now ingested as
+  **[[homer-iliad|*The Iliad*]]** (OWC; trans. Verity, intro Graziosi).

@@ -14,7 +14,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[unknown|Mycenaean expansion / raiding]], control of the Hellespont and Troad, [[mycenaean-civilization|Mycenaean palace competition]]]
 consequences: [[[homeric-poems-as-history|the Greek epic tradition]], [[troy|destruction of Troy VIIa]], the legendary Nostoi / migrations]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [event, war, late-bronze-age, bronze-age-collapse, aegean, anatolia]
 ---
@@ -125,4 +125,5 @@ adjudicate. See also [[ahhiyawa-question|the Aḫḫiyawa question]].
 - [[troy|Troy]] · [[mycenaean-civilization|Mycenaean civilization]]
 - [[ahhiyawa-question|The Aḫḫiyawa question]]
 - [[greek-dark-age|Greek Dark Age]] · [[bronze-age-collapse-1200bce|Bronze Age Collapse]]
-- [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2 (source)]]
+- [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2 (source)]]; the war's foundational (non-literal) source is
+  now ingested as **[[homer-iliad|Homer's *Iliad*]]**.
