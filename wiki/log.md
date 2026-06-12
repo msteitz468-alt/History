@@ -1374,3 +1374,5 @@ Processing-List order: CAH VI — The Fourth Century B.C. (converted in raw/Mark
 ## 2026-06-11 section | CAH X — The Augustan Empire | Section: Cycle 6 — The Western provinces (Ch 13: Italy, Spain, Gaul, Germany, the Danube/Balkans, Africa) | Pages created: 7 | Pages updated: 0
 
 ## 2026-06-11 section | CAH X — The Augustan Empire | Section: Cycle 7 — The Eastern provinces (Ch 14: Greece & Asia Minor, Egypt, Syria, Judaea) | Pages created: 4 | Pages updated: 0
+
+## 2026-06-11 section | CAH X — The Augustan Empire | Section: Cycle 8 — Roman society & culture (Chs 15–21: the city of Rome, religion, Christianity, social legislation, literature, art, law) | Pages created: 6 | Pages updated: 0
