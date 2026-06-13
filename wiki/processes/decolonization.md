@@ -8,8 +8,8 @@ region: [global, africa, south-asia, southeast-asia, near-east, east-asia, carib
 process_type: [political, ideological]
 driven_by: [anti-imperial [[nationalism]], the discrediting of Europe's "civilizing mission" by the world wars, socialist and self-determination ideologies, the economic exhaustion of the imperial powers, the Cold War]
 produces: [the global triumph of the nation state, the post-colonial world, Third World non-alignment, persistent post-colonial inequalities and conflicts]
-sources_ingested: 5
-last_updated: 2026-06-12
+sources_ingested: 6
+last_updated: 2026-06-13
 tags: [process, cold-war, world-wars-era, global]
 ---
 
@@ -167,4 +167,7 @@ dominance perpetuated the subordination that formal independence did not end.
 [[imperialism]] · [[nationalism]] · [[cold-war]] · [[westad-cold-war]] · [[reader-africa-biography]] ·
 [[gha-vol8-since-1935]] · [[african-nationalism]] · [[pan-africanism]] · [[apartheid]] ·
 [[sub-saharan-africa]] · [[scramble-for-africa]] · [[congo-free-state]] · [[self-strengthening]] ·
-[[communism-and-fascism]] · [[genocide]] · [[contemporary]] · [[1945-postwar-order]]
+[[communism-and-fascism]] · [[genocide]] · [[contemporary]] · [[1945-postwar-order]] · [[cambridge-history-of-africa-v8]]
+
+*The [[cambridge-history-of-africa-v8|Cambridge History of Africa, Vol. 8]] (1940–75) covers
+the African end of empire and the Cold War in Africa — a parallel authority to the GHA account.*

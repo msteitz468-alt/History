@@ -2405,3 +2405,6 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 section | Cambridge History of Africa | Vol. 6: 1870–1905 (Oliver & Sanderson, eds., 1985) | the Scramble for Africa | africa | Pages created: 0 | Pages updated: 2
 
 ## 2026-06-13 section | Cambridge History of Africa | Vol. 7: 1905–1940 (Roberts, ed., 1986) | high colonial period | africa | Pages created: 0 | Pages updated: 2
+
+## 2026-06-13 section | Cambridge History of Africa | Vol. 8: c. 1940–1975 (Crowder, ed., 1984) | decolonization & independence | africa | Pages created: 0 | Pages updated: 2
+## 2026-06-13 ingest-complete | The Cambridge History of Africa, Vols 1–8 (Fage & Oliver, gen. eds.) | Total pages created: 0 (8 source pages) | Total pages updated: 14 | parallel authority to UNESCO GHA; PDFs via pdftotext

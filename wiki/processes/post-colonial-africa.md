@@ -8,8 +8,8 @@ region: [west-africa, east-africa, central-africa, southern-africa, north-africa
 process_type: [political, economic]
 driven_by: [the achievement of political independence, the persistence of economic dependence, the legacy of colonial borders and structures, Cold War rivalry]
 produces: [the African nation-states, neo-colonial economic dependence, coups and one-party states, developmental and ideological experiments, the debt and structural-adjustment crises]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [process, cold-war, contemporary, africa]
 ---
 
@@ -57,5 +57,9 @@ the post-colonial era, into which the liberation of [[apartheid|Southern Africa]
 
 ## Related pages
 
-[[gha-vol8-since-1935]] · [[decolonization]] · [[colonial-economy]] · [[pan-africanism]] · [[apartheid]] ·
+[[gha-vol8-since-1935]] · [[cambridge-history-of-africa-v8]] · [[decolonization]] · [[colonial-economy]] · [[pan-africanism]] · [[apartheid]] ·
 [[cold-war]] · [[reader-africa-biography]] · [[contemporary]] · [[sub-saharan-africa]]
+
+*The [[cambridge-history-of-africa-v8|Cambridge History of Africa, Vol. 8]] (1984) covers the
+early independent state (one-party rule, coups, southern African liberation) — a parallel
+authority to the GHA account.*
