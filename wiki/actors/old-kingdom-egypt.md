@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [Nubian tribes, Libyans, Sinai bedawin ("sand-dwellers")]
 key_events: [[[fall-of-old-kingdom-2160bce]]]
 key_processes: [[[state-formation]], [[divine-kingship]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [actor, state, early-bronze-age, north-africa]
 ---
 
@@ -116,8 +116,19 @@ ization + fiscal exhaustion) is Smith's; the competing **climatic** explanation
 [[societal-collapse-and-environmental-determinism]]. See
 [[cambridge-ancient-history-methodology]].
 
+## Egypt in its African context (GHA II)
+
+The **UNESCO [[gha-vol2-ancient-civilizations|General History of Africa, Vol. II]]** treats Pharaonic Egypt
+deliberately **as an African civilization** — rooted in the Saharan and Nile-valley Neolithic and in
+continuous exchange with Nubia and the lands to the south — against the older European habit of detaching it
+from the continent. The volume opens with **Cheikh Anta Diop's** argument that the ancient Egyptians were a
+**Black African people**, the signature debate now recorded on **[[peopling-of-ancient-egypt]]**. Whatever
+one makes of Diop's strongest claims, the broader reframing of Egypt within its African world is now
+mainstream.
+
 ## Related
 
+- Source: [[gha-vol2-ancient-civilizations|GHA Vol. II]] · Controversy: [[peopling-of-ancient-egypt]]
 - Preceded by: [[early-dynastic-egypt]] · Person: [[djoser]] · Event: [[fall-of-old-kingdom-2160bce]]
 - Place: [[memphis]] · Concept: [[divine-kingship]] · [[writing-and-record-keeping]]
 - Process: [[state-formation]] · Period: [[early-bronze-age]]

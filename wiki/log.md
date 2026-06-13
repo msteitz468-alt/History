@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 section | GHA Vol. II (Ancient Civilizations of Africa) | Section: Egypt as an African civilization (chs. 1–5) | Pages created: 1 | Pages updated: 1 | (controversy: peopling-of-ancient-egypt; enriched old-kingdom-egypt)
+
 ## 2026-06-12 admin | Processing-List Phases 7 (ANE/Egypt depth) and 8 (Ancient China depth) skipped — every named volume absent from the collection. Proceeding to Phase 9 (Greece & Rome Depth).
 
 ## 2026-06-12 admin | PIVOT to Outstanding Sources.md. Audit: ~50 of ~75 gap-filling sources now in collection (entire Modern leg, Africa, Americas, much of Asia). Still missing: Russia (Gap 8), several global primaries (Muqaddimah, Gilgamesh, Secret History of Mongols, Behistun, Hammurabi), most world-systems (Abu-Lughod, Crosby, Diamond, Harper). Working gaps in list order, starting Gap 1 (Modern).
