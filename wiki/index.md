@@ -34,6 +34,8 @@ Last updated: 2026-06-12 (**Anthony Reid — *Southeast Asia in the Age of Comme
 
 Last updated: 2026-06-12 (**Michael D. Coe — *Angkor and the Khmer Civilization*** (Thames & Hudson, 2003) — INGEST COMPLETE (Large-Volume, 3 cycles + synthesis). The wiki's **first dedicated Southeast Asian source**, opening the long-flagged SE Asia gap (Gap 3). Created 5: **[[khmer-empire]]** (Angkor, 802–1431), **[[angkor]]** *(enriched existing)*, **[[jayavarman-vii]]**, **[[funan]]** (the pre-Angkorian Funan/Zhenla states), **[[devaraja]]** (the god-king cult), and the **[[southeast-asia]]** regional anchor. Enriched **[[indianization-of-southeast-asia]]** (the Khmer close-up: Oc Eo, the Zhenla temples), **[[angkor]]** (Coe's monuments — Angkor Wat, the Bayon, Zhou Daguan), **[[mahayana-buddhism]]** & **[[hinduism]]** (the Khmer state cults). Filed to `raw/3. Middle Ages/`. **Begins the Southeast Asia leg of Gap 3; the archipelago, Burma, Siam & Vietnam remain (Reid, Cambridge History of SE Asia next).**)
 
+Last updated: 2026-06-13 (**Jonathan Spence, *The Search for Modern China*** (1990; 4th ed. 2024) — INGEST COMPLETE (Large-Volume, 2 cycles + synthesis). The **spine for modern China** (Phase D), building out a near-total wiki gap. Created 5: **[[opium-wars]]** (Lin Zexu, the *Nemesis*, the Treaty of Nanjing & the "unequal treaty" system), **[[taiping-rebellion]]** (Hong Xiuquan's Heavenly Kingdom; ~20M+ dead), **[[fall-of-the-qing-1911]]** (the Wuchang uprising → Puyi's abdication; end of 2,000 years of empire), **[[mao-zedong]]** (rural revolution, the Long March, the PRC, the Great Leap famine & Cultural Revolution), **[[chinese-communist-revolution]]** (May Fourth → CCP → 1949 PRC → Maoist campaigns → Deng's reforms). Deepened **[[qing-dynasty]]**, **[[self-strengthening]]**, **[[contemporary]]**. Theme (Spence): China's long "search for modern China" — for a state and identity to restore strength after the 19th-century collapse. With Keay + Spence the wiki now has a China narrative from the Shang to the 21st century. Filed to `raw/4. Modern Times/`.)
+
 Last updated: 2026-06-13 (**John Keay, *China: A History*** (2009) — INGEST COMPLETE (single-pass spine). **Opens Phase D (China)** — the spine for the wiki's China gap, organized around the dynastic succession. Filled the worst gaps: created **[[china]]** (the civilizational anchor — cradle/core/periphery geography; the dynastic dynamic; the Mandate of Heaven), **[[shang-dynasty]]** (the first historical dynasty; oracle bones & the origins of Chinese writing), **[[qin-shi-huang]]** (the First Emperor — unification 221 BC, the Legalist standardizing state, the book-burning, the terracotta tomb; the contested historiography vs. Ashoka), **[[ming-dynasty]]** (Zhu Yuanzhang's Han restoration; the Yongle Forbidden City & Zheng He's treasure voyages), **[[qing-dynasty]]** (the Manchu conquest — Nurhaci's Banners, 1644, Kangxi/Qianlong's high Qing to 1912). Deepened **[[qin-dynasty]]** and **[[zhou-dynasty]]** (links into the spine). Resolves many dangling `[[ming-dynasty]]`/`[[qing-dynasty]]` links across the wiki. Theme (Keay): China's history is "of scale, not character" — dynasties "tolled the hours." Filed to `raw/4. Modern Times/`.)
 
 Last updated: 2026-06-13 (**Eugene Rogan, *The Arabs: A History*** (2009) — INGEST COMPLETE (Large-Volume, 2 cycles + synthesis). **Closes Phase C** — the spine for the **modern Arab world**, the wiki's thinnest region after the medieval Islamic centuries. Created 5: **[[arab-nationalism]]** (the *nahda* → Arabism; the pan-Arab/nation-state tension), **[[colonial-partition-of-the-arab-world]]** (the partition of North Africa; the WWI "three promises" — Husayn–McMahon, Sykes–Picot, Balfour — the Arab Revolt & the mandates), **[[arab-israeli-conflict]]** (the Nakba 1948 → the wars; the engine of ideological change), **[[gamal-abdel-nasser]]** (the Free Officers, Suez, pan-Arabism, the 1967 fall), **[[political-islam]]** (al-Banna's Brotherhood → Qutb → the post-1967/1979 rise). Deepened **[[middle-east-modern]]** (Rogan's thesis), **[[decolonization]]**, **[[eastern-question]]**, **[[ottoman-empire]]**. Theme (Rogan): modern Arab history is the Arabs living "by the rules set by the dominant powers" (Ottoman → colonial → Cold War → US/globalization) and striving to escape them — the "Arab malaise" tempered by Arab agency. **Phase C (Ottoman / post-1500 Islamic world) complete.** Filed to `raw/4. Modern Times/`.)
@@ -502,14 +504,14 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 | Category | Pages |
 |---|---|
 | Periods | 33 |
-| Events | 238 |
-| Processes | 152 |
-| Actors | 542 |
+| Events | 241 |
+| Processes | 153 |
+| Actors | 543 |
 | Places | 122 |
 | Concepts | 291 |
 | Comparisons | 1 |
 | Controversies | 53 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 144 |
-| **Total** | **1576** |
+| Sources | 145 |
+| **Total** | **1582** |

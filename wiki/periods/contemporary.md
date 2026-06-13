@@ -5,7 +5,7 @@ date_range: 1991–present
 regions_covered: [global]
 major_themes: [globalization, the climate crisis, the East Asian ascent, post-Cold-War order, renewed mass migration, demographic deceleration, digital connection]
 collection_coverage: weak
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-10
 tags: [period]
 ---
@@ -46,7 +46,12 @@ of sending and receiving countries than the nineteenth-century waves; and a
 - **The East Asian ascent:** China's rapid, coal-fired [[industrialization]] — "the
   fastest industrial revolution in world history" — and the broader return of Asia
   to the center of global production, the empirical core of the revisionist
-  [[great-divergence|Great Divergence]] story.
+  [[great-divergence|Great Divergence]] story. This rise was the fruit of **Deng
+  Xiaoping's post-1978 "reform and opening"** — the market turn within the one-party
+  state built by the [[chinese-communist-revolution|Chinese Communist Revolution]] —
+  which (as Jonathan Spence's [[spence-search-for-modern-china|*Search for Modern
+  China*]] traces) carried China's long "search" from [[mao-zedong|Mao's]] catastrophes
+  to superpower status.
 - **The climate crisis and the mature Anthropocene:** accelerating fossil-fuel
   consumption, the highest species-extinction rate in 65 million years, tropical
   deforestation, and possibly irreversible climate change (see
