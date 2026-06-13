@@ -80,9 +80,15 @@ al-Sudan* of al-Sa'di, *Ta'rikh al-Fattash*) from within the Sudan, and Moroccan
 (al-Fishtali's *Manahil*, the anonymous Spaniard's account, the *Chronique anonyme*) from the
 conquerors' side — a rare convergence that lets historians cross-check numbers and chronology.
 Hunwick (himself the editor of the *Ta'rikh al-Sudan*) treats Tondibi as the textbook case of the
-**gunpowder revolution** reaching the Sahel. The post-conquest Western Sudan — the Arma, the
-decline of the Niger cities, and the rise of the Kunta clerics — is treated further in this
-volume's Ch. 12 (Willis); see [[western-sudan-arma-pashalik]].
+**gunpowder revolution** reaching the Sahel. The **aftermath** is treated in this volume's Ch. 12
+(John Ralph Willis): the conquerors' offspring became the **[[western-sudan-arma-pashalik|Arma]]**
+soldier-caste, ruling the Middle Niger from Timbuktu through the *Makhzan* administration and
+breaking free of Morocco by c. 1612–60. Willis **tests and qualifies** the old "time of troubles"
+thesis — Arma rule was administratively weak and mercenary-dependent, but not the wholesale
+collapse of Sudanese Islamic civilisation it is sometimes painted as; the capture of
+[[ahmad-baba|Ahmad Baba]] was political, not religious, expediency. The volume's narrative closes
+with the **Kunta clerical realignment** under al-Mukhtar al-Kunti (d. 1811), the rise of
+trans-political Qadiri authority that prefigures the [[west-african-jihads|jihads]].
 
 ## Related pages
 

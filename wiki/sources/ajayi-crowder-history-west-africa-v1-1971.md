@@ -18,7 +18,7 @@ reliability_notes: >
   Dated in places (1971 archaeology and slave-trade demography have since been
   revised; Curtin's own Census 1969 figures here predate later upward revisions),
   but still a standard reference. Volume Two (post-1800) not in this ingest.
-pages_created: 8
+pages_created: 10
 pages_updated: 19
 ingested: 2026-06-12
 tags: [source]
@@ -62,4 +62,45 @@ Mossi states, the 1591 Moroccan invasion of Songhay).
 
 ## Volume Synthesis Note
 
-*(to be written in the Step 3 cross-section synthesis pass)*
+*History of West Africa* Vol. I is the nationalist-era **manifesto for the autonomy of African
+history**, and its single most important contribution to the wiki is **conceptual**: the
+argument, made from many angles across thirteen chapters, that West African states **grew
+indigenously out of stateless societies under the stimulus of trade** — not from foreign
+conquest or imported "Hamitic" kingship. This thesis is stated abstractly by **Horton** (Ch. 3,
+the [[stateless-societies|stateless-societies]] model and its "germs" of the state), defended
+polemically by **Horton** and **H.F.C. Smith** against the [[hamitic-hypothesis-african-states|Hamitic
+Hypothesis]], and then demonstrated empirically across the regional chapters: the **trans-Saharan
+gold trade** raising [[ghana-empire|Ghana]], [[mali-empire|Mali]], and [[songhay-empire|Songhay]]
+(Levtzion); the same logic in the central Sudan's [[kanem-bornu|Kanem-Bornu]] and the
+[[hausa-city-states|Hausa *birni*]] (Smith); and the **Atlantic trade** transforming the
+[[niger-delta-city-states|Ijo fishing villages]] into trading city-states (Alagoa), the
+[[akan-states|Akan forest kingdoms]] (Wilks), and [[dahomey|Dahomey]] and [[oyo-empire|Oyo]]
+(Akinjogbin). The volume thereby supplies the wiki's deepest worked model of
+[[state-formation|state formation]] driven by commerce.
+
+Three cross-cutting tensions give the volume its unity at the whole-book level. (1) **Trade as
+both creator and destroyer.** Commerce builds states, but the same chapters show its dark
+inversion: Curtin's South Atlantic System and Curtin/Akinjogbin's account of the slave trade as
+**self-destructive** of African production, and Suret-Canale's "contradiction" thesis that the
+Atlantic trade caused **political regression and re-segmentation on the coast** even as it
+consolidated the Fula-Islamic states inland. (2) **The persistence of the stateless.** The volume
+deliberately decentres the great states (Horton's ~35 million stateless West Africans; the Mossi
+ringed by never-subjugated Voltaic peoples; the [[griot-oral-tradition|source bias]] that
+over-records states because chroniclers and griots gravitated to them). (3) **The geography of
+durability.** Levtzion's elegant comparative point — Mali survived longest because its centre lay
+in the savannah, not the contested Sahil; Ghana and Songhay were destroyed suddenly by northern
+powers (Almoravids, [[moroccan-invasion-of-songhay-1591|Moroccans]]), Mali only gradually by a
+local one — generalises into a structural reading of the whole Sudanic sequence.
+
+**Cross-volume connections.** The volume sits beside the already-ingested **UNESCO General History
+of Africa** (Gap 2): it confirms and deepens GHA's treatments of Ghana, Mali, Songhay, Kanem-Bornu,
+the Hausa and the Atlantic trade, and on one point **productively conflicts** — Levtzion (1971)
+affirms the **Almoravid conquest of Ghana (1076)** that GHA III treats as overstated, a tension the
+wiki now preserves on the [[ghana-empire|Ghana page]]. It also shows the **historiography moving**:
+Shaw's 1966 lean toward **diffusion** of ironworking (Meroe/Carthage) against the later CWH IV/GHA
+independence consensus on [[nok-culture|Nok]]. Forward in time, the volume's terminal material — the
+18th-century Futa Jallon/Toro/Bundu theocracies (Suret-Canale) and the Kunta Qadiri realignment
+under al-Mukhtar al-Kunti (Willis) — hands directly to the wiki's [[west-african-jihads|jihad]] and
+[[sokoto-caliphate|Sokoto]] pages, and to the (unbought) **Volume II** that would carry West Africa
+past 1800. Together with the GHA series, this volume effectively **closes the West-African leg of
+Critical Gap 2**; the remaining Gap-2 item is the primary source *Ibn Battuta in Black Africa*.

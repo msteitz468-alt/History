@@ -9,7 +9,7 @@ affiliated_with: [the Hausa people, Islam (from the 14th c.), the trans-Saharan 
 opposed_by: [Songhay, Kanem-Bornu (intermittent overlords), the Jukun/Kwararafa, later the Fulani jihad]
 key_events: [the legendary Bayajidda/Daura origin, the Islamization of Kano (14th c.), Kano–Katsina rivalry, the Fulani jihad (1804–08)]
 key_processes: [[[trans-saharan-trade]], [[islamization-of-africa]], [[state-formation]], urbanism]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, west-africa]
 ---
@@ -66,6 +66,20 @@ officials** (*masu sarauta*), rewarded with territory in return for military and
 support — a delicate balance between king and fief-holders. As in his treatment of Kanem, Smith
 uses the Hausa case to **reject the [[hamitic-hypothesis-african-states|Hamitic Hypothesis]]**:
 the states grew indigenously from the urban revolution, not from foreign conquest.
+
+## Growth and rivalry, 1600–1800 (Ajayi & Crowder / Adeleye)
+
+A second chapter of [[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]]
+(R. A. Adeleye, Ch. 13, "Hausaland and Bornu 1600–1800") carries the story to the eve of the
+jihad, organised around the recurring theme of the **movement toward ever-larger political units**.
+**Kano** exemplifies the pattern: a 14th-century reorganisation of the army around the
+***madawaki*** (chief cavalry officer) and successive military-technological advances (armoured
+cavalry) let it expand into a short-lived "empire of Kano," pre-eminent among the cities though
+never able to impose lasting hegemony over its rival **Katsina** — the two forming the commercial
+and scholarly core of Hausaland, with **Zaria** a step behind. Across this period the cities
+remained caught between the larger powers — tributary at times to **[[songhay-empire|Songhay]]**,
+**[[kanem-bornu|Bornu]]** (then at its height under Idris Aloma), and the **Jukun of Kwararafa** —
+their chronic disunity leaving them exposed to the [[west-african-jihads|Sokoto jihad]] of 1804.
 
 ## Significance and end
 

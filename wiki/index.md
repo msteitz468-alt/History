@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-12 (**Ajayi & Crowder, eds. — *History of West Africa*, Volume One** (Longman, 1971) — INGEST COMPLETE (Large-Volume, 5 section cycles + synthesis). The standard Ibadan-school reference for **Gap 2**, on **state formation** from prehistory to c. 1800. Created 10 pages: **[[stateless-societies]]** (Horton's model), **[[hamitic-hypothesis-african-states]]** (the rejected diffusionist controversy), **[[west-africa]]** (regional anchor), **[[takrur]]**, **[[niger-delta-city-states]]** (Bonny/Kalabari — the War Canoe House), **[[mossi-states]]**, **[[akan-states]]** (Gonja/Akwamu/Denkyira/Fante), **[[moroccan-invasion-of-songhay-1591]]** (Tondibi), **[[western-sudan-arma-pashalik]]**, and **[[ahmad-baba]]**. Enriched 19 — incl. **[[ghana-empire]]** (Levtzion's al-Bakri & a flagged [CONTRADICTION] on the 1076 conquest), **[[mali-empire]]** (the savannah-capital survival thesis), **[[songhay-empire]]**, **[[kanem-bornu]]**, **[[hausa-city-states]]**, **[[state-formation]]**, **[[atlantic-slave-trade]]** (Curtin's South Atlantic System), **[[dahomey]]**/**[[oyo-empire]]** (Akinjogbin), **[[asante-empire]]**, **[[trans-saharan-trade]]**, **[[islamization-of-africa]]**, **[[west-african-jihads]]**, **[[nok-culture]]**. **Closes the West-African leg of Gap 2** (remaining: *Ibn Battuta in Black Africa*).)
+
 Last updated: 2026-06-12 (**UNESCO *General History of Africa*, Vol. VIII: *Africa since 1935*** (Mazrui & Wondji eds., 1993) — INGEST COMPLETE (Large-Volume, 6 sections + synthesis). The **final volume**, completing the **entire UNESCO GHA series (Vols II–VIII)**. Created **[[post-colonial-africa]]** (the post-1960 predicament — neo-colonialism, nation-building, coups) and **[[apartheid]]** (the system and the liberation of Southern Africa). Enriched 5 — **[[african-nationalism]]** (WWII catalyst), **[[decolonization]]** (the African independence struggle), **[[colonial-economy]]** (neo-colonialism), **[[pan-africanism]]** (the cultural renaissance & the OAU), **[[cold-war]]** (the African theatre). Filed to `raw/4. Modern Times/`. **Milestone: with the GHA series + Reader + Sundiata, Gap 2 (Sub-Saharan Africa) moves from "Absent" to moderate–strong across all periods.**)
 
 Last updated: 2026-06-12 (**UNESCO *General History of Africa*, Vol. VII: *Africa under Colonial Domination, 1880–1935*** (Boahen ed., 1985) — INGEST COMPLETE (Large-Volume, 6 sections + synthesis). The colonial-era reference for **Gap 2** — the African side of conquest and colonial rule. Created 6 pages: **[[african-resistance-to-colonial-rule]]** (Boahen's "initiatives and reactions"), **[[colonial-economy]]**, **[[colonial-rule-in-africa]]**, **[[african-nationalism]]**, **[[pan-africanism]]**, and **[[liberia]]**. Enriched **[[scramble-for-africa]]** (the resistance reframing), **[[merina-kingdom]]**, **[[solomonic-ethiopia]]** (Adwa survival; the 1935 Italian invasion). Filed to `raw/4. Modern Times/`.)
@@ -433,20 +435,20 @@ creation order with a one-line description.
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **NCMH Vol. 4** Ingest. Recent volumes'
+Counts reflect actual files on disk as of the **History of West Africa Vol. I** Ingest. Recent volumes'
 detailed new/updated pages are catalogued in their source pages and `log.md`.
 
 | Category | Pages |
 |---|---|
 | Periods | 24 |
-| Events | 188 |
+| Events | 189 |
 | Processes | 108 |
-| Actors | 393 |
-| Places | 105 |
-| Concepts | 219 |
+| Actors | 399 |
+| Places | 106 |
+| Concepts | 220 |
 | Comparisons | 0 |
-| Controversies | 43 |
+| Controversies | 44 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 30 |
-| **Total** | **1110** |
+| Sources | 31 |
+| **Total** | **1121** |
