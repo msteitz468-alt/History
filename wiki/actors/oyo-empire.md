@@ -8,8 +8,8 @@ region: [west-africa]
 affiliated_with: [the Yoruba peoples, Ife (spiritual metropolis), the Atlantic and savanna trades]
 opposed_by: [Nupe (which once drove Oyo into exile), Dahomey (a tributary), the Sokoto jihadists]
 key_events: [the recovery from Nupe exile, the conquest of Dahomey as a tributary (18th c.), the constitutional crises and collapse (early 19th c.)]
-key_processes: [[[atlantic-slave-trade]], state-formation, cavalry warfare]
-sources_ingested: 2
+key_processes: [[[atlantic-slave-trade]], [[state-formation]], cavalry warfare]
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, empire, early-modern, west-africa]
 ---
@@ -37,6 +37,23 @@ At its height in the eighteenth century Oyo controlled much of Yorubaland and ma
 **[[dahomey|Dahomey]]** a **tributary**, taxing the Atlantic slave trade of the "Slave Coast" through which
 it exported war captives for horses and goods. It was among the largest and best-organized West African
 states of the era.
+
+## The Gaha–Alafin struggle and Abiodun (Ajayi & Crowder / Akinjogbin)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (I. A. Akinjogbin,
+Ch. 9) reframes the famous mid-eighteenth-century struggle between the **Basorun Gaha** and the
+**Alafins** (c. 1754–74) not as mere tyranny but as a **policy dispute**: Gaha and the old military
+families favoured **continued imperial expansion**, while the Alafins — themselves wealthy
+**traders** or backed by the trading class — favoured **exploiting the already-conquered empire**.
+Gaha dominated and "encompassed the death" of several Alafins until **Abiodun** (acc. c. 1770)
+patiently outmanoeuvred and destroyed him in **1774**. Abiodun then reversed the policy: expansion
+stopped, the army was let weaken, and **revenue came from trade and tribute** — **Porto Novo**, the
+Oyo port, became the leading slaving port from 1776. Akinjogbin reads this turn toward the
+commercial exploitation of empire (and the suppression of the military families) as sowing the
+weakness behind Oyo's nineteenth-century collapse — though he stresses that, *during* the
+Gaha–Alafin years, Oyo's frontiers held intact (its border detachments even wiped out a strayed
+**Asante** column near Atakpame in 1764). Most Oyo-exported slaves, he notes, were **not Yoruba**
+but Bariba, Nupe, and Hausa from the tributary north.
 
 ## Collapse
 

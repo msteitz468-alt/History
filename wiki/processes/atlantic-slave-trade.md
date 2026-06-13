@@ -8,7 +8,7 @@ region: [atlantic-world, west-africa, central-africa, caribbean, andes, eastern-
 process_type: demographic
 driven_by: [plantation demand for labor (especially sugar), American demographic collapse, pre-existing African slavery and slave markets, European armed maritime commerce]
 produces: [the largest forced migration in history, African diaspora cultures of the Americas, demographic distortion in Atlantic Africa, the plantation complex, creole languages and Atlantic religions]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-12
 tags: [process, early-modern, atlantic-world, west-africa]
 ---
@@ -113,6 +113,34 @@ shaped how Christianity (Kongo) and Islam (the Sahel) were received and
 re-created in the Americas — from Vodou and Calinda to Muslim communities in
 Bahia (the 1835 revolt). North America, with lighter labor regimes, became
 self-sustaining and creole-dominated by the mid-eighteenth century.
+
+## The South Atlantic System and its Mediterranean roots (Ajayi & Crowder / Curtin)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (Philip D. Curtin,
+Ch. 7 — by the author of the field-defining *Atlantic Slave Trade: A Census*, 1969) frames the
+trade as the **largest intercontinental migration before the 19th century** ("for 300 years more
+Africans than Europeans crossed the Atlantic each year") and as the labour engine of the **South
+Atlantic System** — the integrated plantation-and-commerce complex spanning Brazil, the Caribbean,
+and the American South, drawing labour from Africa, silver from Spanish America, and shipping and
+food from the north. Curtin's revised **~10 million** Africans landed in the Americas is offered
+here, explicitly **scaling down** older guesses of 20 million or more.
+
+Two analytical contributions stand out:
+- **The Mediterranean genealogy of the plantation.** Curtin traces the slave plantation **back
+  before America**: Italian sugar estates on Crusader Cyprus and Crete, then Sicily, Iberia,
+  Madeira and São Tomé, each combining exotic-crop monoculture with gang slave labour — first fed
+  by Black Sea slaves (until Constantinople fell in 1453) and then, decisively, by **sub-Saharan
+  Africans**. The Portuguese maritime breakthrough (tacking back via the Azores) and the cheapening
+  of ocean transport then made it possible to reproduce the system on a "gigantic scale" 4,000
+  miles from market.
+- **The comparative forms of slavery.** Curtin stresses that **"slave" is one of the most
+  ambiguous words in the social sciences**: in West Africa (and the ancient/Islamic
+  Mediterranean) slavery was largely a **social** institution — a means of recruiting members into
+  a lineage, with second-generation slaves acquiring rights, rising as a master's agents, and
+  never racially marked. Plantation slavery was categorically different: the slave was a
+  **dehumanised labour-unit** in gang production, his African origin a permanent racial **badge**.
+  This distinction is the root of the [[slavery]] page's comparative treatment, and Curtin warns
+  it shaped the **racism** and the moral controversy that still colour the subject.
 
 ## End Conditions
 

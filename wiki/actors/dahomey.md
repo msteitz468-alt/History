@@ -8,8 +8,8 @@ region: [west-africa]
 affiliated_with: [the Fon people, the Atlantic slave trade]
 opposed_by: [the Oyo empire (overlord for much of the 18th c.), ultimately France]
 key_events: [Agaja's conquest of the coast and Whydah (1724–27), tributary status under Oyo, the conquest by France (1892–94)]
-key_processes: [[[atlantic-slave-trade]], state-formation, militarized absolutism]
-sources_ingested: 1
+key_processes: [[[atlantic-slave-trade]], [[state-formation]], militarized absolutism]
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, early-modern, west-africa]
 ---
@@ -36,6 +36,29 @@ financed the monarchy. Its participation has made it a central — and debated �
 **African agency** in the slave trade. For much of the eighteenth century Dahomey was itself a **tributary
 of the [[oyo-empire|Oyo empire]]**, whose cavalry it could not match, gaining full independence only after
 Oyo's decline.
+
+## Agaja, the 1730 treaty, and Tegbesu's absolutism (Ajayi & Crowder / Akinjogbin)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (I. A. Akinjogbin,
+Ch. 9) gives the closely documented 18th-century narrative. **Agaja's** conquest of Allada and
+**Whydah** (1724–27) was *not* an attempt to expand the slave trade: he made it a **royal
+monopoly** on pain of death, closed the surplus ports, and sold only enough to buy ammunition —
+disappointing the European traders who had backed him. His expansion provoked the cavalry power of
+**[[oyo-empire|Oyo]]**, and the **treaty of 1730** made Dahomey a **tributary of Oyo** for nearly
+a century (sealed by a hostage prince — the future **Tegbesu** — and exchanged princesses); a
+parallel 1730 settlement bound the European traders to concentrate at Whydah under a royal
+overseer (the **Yovogan**). The hard-pressed Agaja, fighting the dispossessed Whydahs, is credited
+with first fielding the women soldiers (the "**Amazons**") out of military desperation.
+
+**Tegbesu** (r. 1740–74), who had spent ten years as hostage in Oyo, built the **absolutism**: he
+purged over-mighty chiefs, decreed that only a designated son could succeed (even faking his own
+death in 1754 to test obedience), imported Oyo's **Ilari** royal-messenger system to spy on his
+officials, and judged that it was "**better to trade than to make war**." Akinjogbin's central
+thesis is that the **slave trade was self-destructive**: by carrying off or killing the virile,
+peaceful producers and breeding endemic raiding, it produced a long **economic depression** in
+Dahomey from the 1760s that no royal edict could reverse — a darker reading than the image of
+Dahomey as a thriving slave-state, and a key case in the debate over the trade's effect on Africa
+(see [[atlantic-slave-trade]]).
 
 ## Decline and conquest
 
