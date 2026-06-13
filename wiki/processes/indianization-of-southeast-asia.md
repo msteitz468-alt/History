@@ -8,7 +8,7 @@ region: [southeast-asia, south-asia, indian-ocean]
 process_type: [cultural, religious, economic]
 driven_by: ["the [[indian-ocean-trade|Indian Ocean spice trade]] (Roman demand drawing Indian merchants east)", "Indian merchant and brahman settlement", "the prestige of Sanskritic kingship and religion"]
 produces: ["Hindu-Buddhist kingdoms (Funan, Srivijaya, Angkor, Mataram/Java)", "Sanskrit as a court/sacred language", "Indian script, law, art, and temple architecture in SE Asia", "the spread of Hinduism and Buddhism beyond India"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [process, late-antiquity, southeast-asia]
 ---
@@ -75,14 +75,34 @@ Malaya), while **Theravada Buddhism** consolidated on the mainland (Burma, Siam,
 legacy persists in Balinese Hinduism, the region's scripts and vocabularies, and monuments like
 Borobudur and Angkor Wat.
 
+## Indianized statecraft: the temple-economy and the mandala (Hall)
+
+The [[tarling-cambridge-history-southeast-asia-v1-1992|Cambridge History of Southeast Asia]] (Kenneth
+Hall, Ch. 4) shows how Indian forms were put to work as a **political-economy**. What the early states
+adopted was not just gods and Sanskrit but an apparatus for **concentrating surplus and legitimacy**: the
+Hindu or Buddhist **temple** became an economic institution — drawing in donated land, labour, and wealth
+and redistributing prestige — and Indian **sacral kingship** ([[devaraja|the devaraja]], the king as a
+node of cosmic order) gave the centre a culturally-approved claim on its hinterland. Crucially, this was
+**selective local adoption**, not Indian conquest or colonisation: Southeast Asians took the
+[[mandala|mandala]] idea (the cosmic-political diagram of concentric circles) and built **status-centred
+"galactic polities"** of their own — from [[srivijaya|Srivijaya's]] pyramidal network of Malay ports to
+the temple-realms of central Java ([[majapahit#from-sailendra-java-to-singhasari|Borobudur, Prambanan]])
+and the [[khmer-empire|Angkorian]] temple-state. The companion religion chapter (de Casparis & Mabbett)
+stresses the same point — Indian religion was **Javanized/localised**, fused with indigenous ancestor and
+spirit cults rather than replacing them — and dates the **beginnings of Islam** to the very end of the
+period, the hinge into the [[islamization-of-southeast-asia|religious revolution]].
+
 ## Historiography
 
-Thapar (1966) gives the **trade-driven, merchant-and-brahman** account of origins. The wiki will
-deepen this — including the *devaraja* kingship, Srivijaya, and Angkor — as the **Cambridge History
-of Southeast Asia**, Coe's *Angkor and the Khmer Civilization*, and Reid's *Southeast Asia in the Age
-of Commerce* (all staged for Gap 3) are ingested.
+Thapar (1966) gives the **trade-driven, merchant-and-brahman** account of origins; the
+[[tarling-cambridge-history-southeast-asia-v1-1992|Cambridge History]] and [[coe-angkor-khmer-civilization-2018|Coe]]
+add the **temple-economy and mandala statecraft**, and [[reid-southeast-asia-age-of-commerce-v1-1988|Reid]]
+the early-modern sequel. The old debate — **direct Indian agency vs. local borrowing** — is now firmly
+settled toward **localisation**: Southeast Asians were active adapters, not passive recipients, of an
+Indian repertoire they reshaped to their own cosmologies and politics.
 
 ## Related pages
 
-[[indian-ocean-trade]] · [[hinduism]] · [[buddhism]] · [[khmer-empire]] · [[funan]] · [[sangam-age-south-india]] ·
-[[silk-roads]] · [[thapar-history-of-india-v1-1966]]
+[[indian-ocean-trade]] · [[hinduism]] · [[buddhism]] · [[khmer-empire]] · [[funan]] · [[srivijaya]] ·
+[[majapahit]] · [[champa]] · [[mandala]] · [[devaraja]] · [[sangam-age-south-india]] · [[silk-roads]] ·
+[[thapar-history-of-india-v1-1966]] · [[tarling-cambridge-history-southeast-asia-v1-1992]]
