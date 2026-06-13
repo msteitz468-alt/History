@@ -9,7 +9,7 @@ affiliated_with: [the sixteen mahajanapadas of the Ganga plain; patrons of the [
 opposed_by: [Kosala, Kasi, Avanti, the Vajji confederacy]
 key_events: [the consolidation of centralized administration under Bimbisara and Ajatashatru, the First Buddhist Council at Rajagriha]
 key_processes: [the Second Urbanization of the Ganga valley, [[state-formation]], early Indian coinage]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-11
 tags: [actor, state, archaic-period, south-asia]
 ---
@@ -46,6 +46,24 @@ Bivar notes that several historians of India read Magadha's rise toward centrali
 kingship as **reflecting the inspiration of the rising Achaemenid monarchy** on its
 northwestern doorstep — Cyrus had united Medes and Persians by 550, and by 515 Darius
 had carried Persian power to the Indus at [[gandhara|Gandhara]].
+
+## Why Magadha won, and the Nandas (Thapar)
+
+[[thapar-history-of-india-v1-1966|Thapar]] sets Magadha's rise within a **century-long four-state
+struggle** for the Gangetic plain (Kashi, Kosala, Magadha, and the [[gana-sangha|Vriji confederacy]]),
+and explains its victory **structurally**, not just by the ambition of Bimbisara and Ajatashatru:
+Magadha commanded the **lower Ganges** (river-trade revenue), and Ajatashatru's conquest of **Anga**
+linked that internal trade to lucrative **sea-borne foreign trade**; its hinterland gave rich soil,
+**forest timber and war-elephants**, and crucially **local iron deposits** for better weapons and a
+profitable iron trade. Magadha's triumph was thus "a victory for the **monarchical system**" over the
+republics. After the Shishunagas, the throne passed to the low-born **Nanda dynasty** (founder
+Mahapadma, of shudra/mixed origin) — "the first of a number of **non-kshatriya** dynasties" and,
+Thapar notes, "sometimes described as the first empire-builders of India": they built a huge standing
+army and systematic, official **land-tax collection**, germinating "the possibility of an imperial
+structure based on an essentially agrarian economy" — which **[[chandragupta-maurya|Chandragupta
+Maurya]]** realised when he usurped the Nanda throne in 321 BCE. This same period saw the
+crystallisation of the **untouchables** below the shudras — probably aboriginal forest peoples edged
+to the margins, their hunting/rush-weaving occupations deemed polluting.
 
 ## Chronology and its problems
 

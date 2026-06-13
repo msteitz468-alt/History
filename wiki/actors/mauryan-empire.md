@@ -9,7 +9,7 @@ affiliated_with: [Magadha, the city of [[pataliputra|Pataliputra]], Buddhist and
 opposed_by: [the Nanda dynasty (overthrown), the Seleucids, Kalinga]
 key_events: [overthrow of the Nandas c. 321 BCE, defeat of Seleucus Nikator, conquest of Kalinga c. 261 BCE, Ashoka's dhamma]
 key_processes: [[[empire]], [[state-formation]], [[buddhism|patronage of Buddhism]], [[vedic-age|culmination of the Second Urbanization]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [actor, empire, classical-antiquity, south-asia]
 ---
@@ -50,6 +50,28 @@ the developed annexed regions (the Gangetic valley, Avanti), and a lightly held 
 "merely mined for its natural wealth." It spread **horizontally** across regions, held
 together by a sprawling bureaucracy (governors, *amatyas*), a massive army, and dhamma as an
 ideology of unification.
+
+## A centralized bureaucracy? (Thapar)
+
+[[thapar-history-of-india-v1-1966|Thapar]] (1966) presents a **more strongly centralized** Mauryan
+state than CWH IV's "three tiers," drawing on the **Arthashastra** and Megasthenes: the king at the
+nucleus (Ashoka's "paternal despotism" — "all men are my children"); the *purohita* shading from
+chief priest into chief minister; a Treasurer and Chief Collector over a graded body of
+**superintendents** (of mines, mints, trade, weaving, agriculture, tolls, ships, the army…); a
+salaried hierarchy (the chief minister at 48,000 *panas*, an artisan at 120 — a 1:100 ratio); a
+four-province structure under royal-family viceroys with five-yearly inspectors; the village as the
+irreducible administrative unit (accountant + tax-collector under a headman); the famous Pataliputra
+city-government of **thirty officials in six committees of five** (Megasthenes); and, underpinning it
+all, a pervasive **espionage system** (the Arthashastra's spies disguised as recluses, merchants,
+ascetics, prostitutes). The tension between this *dirigiste* reading and CWH IV's "not a centralized
+monolith" is itself instructive — the truth likely lies between the Arthashastra's *prescriptive*
+ideal and the looser reality of ancient communications.
+
+On **decline**, Thapar weighs and rejects the old theories (a "brahman revolt" against Ashoka's
+Buddhism; non-violence "emasculating" the army — neither, she argues, fits the evidence) in favour of
+an **economic-pressure** explanation: the crushing cost of army, salaries, and frontier settlement
+strained the treasury, evidenced by the **debasement (falling silver content) of later Mauryan
+coins**.
 
 ## Collapse and Aftermath
 

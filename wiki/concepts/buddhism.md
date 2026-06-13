@@ -5,7 +5,7 @@ origin: the teaching of the Buddha (Siddhartha Gautama) in northern India, c. 5t
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion]
 applies_to_regions: [south-asia, central-asia, east-asia, china, japan, korea, silk-road, southeast-asia]
 contested: no
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-10
 tags: [concept]
 ---
@@ -32,6 +32,14 @@ and ended by following the **Eightfold Path** to *nirvana*, release from the cyc
 posited **no creator god and no enduring self** (*anatta*), and for centuries the Buddha was
 venerated only through **symbols** (the wheel, the empty throne, the *stupa*, the Bodhi tree)
 rather than images.
+
+[[thapar-history-of-india-v1-1966|Thapar]] situates this ferment **socially**: the heterodox sects
+arose in the **[[gana-sangha|tribal republics]]** (the Buddha a Shakya, Mahavira a Jnatrika), which
+were "less opposed to individualistic and independent opinion" than the orthodox Gangetic monarchies;
+and they drew crucial support from the rising **merchant/guild class**, whom the brahmanical order
+ranked below their economic power (see [[caste-varna]]). Buddhism's egalitarian disregard of caste
+and its ethic suited a commercialising, urbanising society — one reason it spread along the trade
+routes it would later follow across Asia.
 
 The faith's decisive turn from a regional teaching toward a **world religion** came with royal
 patronage under the **[[mauryan-empire|Mauryas]]**, above all **[[ashoka|Ashoka]]** (r.

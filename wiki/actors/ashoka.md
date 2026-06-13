@@ -9,8 +9,8 @@ affiliated_with: [the [[mauryan-empire|Mauryan Empire]], the Buddhist sangha]
 opposed_by: [Kalinga (conquered); rival claimants to the throne]
 key_events: [conquest of Kalinga c. 261 BCE, conversion to Buddhism, the rock and pillar edicts, Buddhist missions to Sri Lanka]
 key_processes: [[[empire]], [[buddhism|propagation of Buddhism]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [actor, person, classical-antiquity, south-asia]
 ---
 
@@ -50,6 +50,25 @@ CWH IV stresses that dhamma was not only piety but **imperial strategy**: a mean
 and ideologically unify his sprawling, variegated realm" — the ideological glue of a
 decentralized, three-tiered [[mauryan-empire|Mauryan]] state that could not be held by
 administration alone.
+
+## Dhamma was not Buddhism (Thapar)
+
+[[thapar-history-of-india-v1-1966|Thapar]] presses the **distinction between Dhamma and Buddhism**
+that earlier scholarship blurred. Reading Ashoka through the **Ceylonese Buddhist chronicles** had
+produced a caricature — a "sudden conversion" after Kalinga, the king as "both monk and monarch."
+Thapar separates the **two kinds of inscription**: a *small* group are declarations of Ashoka the
+lay Buddhist *to the Sangha* (where his voice is that of a confirmed, even intolerant believer,
+ordering dissident monks expelled); but the far more important *large* group — the **Major/Minor Rock
+and Pillar Edicts**, sited where crowds gathered — expound **Dhamma**, which is *not* a synonym for
+Buddhism and was *not* an attempt to make Buddhism a state religion. Dhamma was a deliberately
+**vague, non-sectarian "attitude of social responsibility"** — a plea for **toleration** (of people
+*and* of beliefs: "honour another man's sect"), qualified **non-violence** (he kept capital
+punishment and reserved the right to coerce troublesome forest tribes), and **welfare** (roads,
+shade-trees, wells, rest-houses) — devised as a **unifying focus** for a vast empire riddled with
+social tensions (the resented but wealthy [[caste-varna|vaishya]] merchant class, guild power,
+sect conflict, the strain of central rule). Thapar notes the irony that his **officers of Dhamma**
+hardened into an interfering quasi-priesthood, and that the policy ultimately **failed** — it was
+"too vague," leaving the structural tensions untouched.
 
 ## Significance
 
