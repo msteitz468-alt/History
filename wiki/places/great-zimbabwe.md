@@ -7,8 +7,8 @@ period_active: [High Middle Ages, Late Middle Ages]
 controlled_by: [the Shona state; preceded by Mapungubwe, succeeded by Torwa (Khami) and Mutapa]
 events_here: [foundation of the hill settlement (late 11th c.), construction of the Great Enclosure (14th c.), peak (15th c.), abandonment (late 15th c.)]
 processes_here: [[[indian-ocean-trade]], pastoralism, gold mining and trade]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [place, southern-africa, sub-saharan-africa, high-middle-ages]
 ---
 
@@ -66,5 +66,9 @@ gold trade**, via the [[swahili-coast|Swahili]] port of Sofala, that underwrote 
 
 ## Related pages
 
-[[reader-africa-biography]] · [[gha-vol4-12th-16th-century]] · [[sub-saharan-africa]] · [[swahili-coast]] ·
+[[reader-africa-biography]] · [[gha-vol4-12th-16th-century]] · [[cambridge-history-of-africa-v3]] · [[sub-saharan-africa]] · [[swahili-coast]] ·
 [[indian-ocean-trade]] · [[trans-saharan-trade]] · [[aksum]] · [[kush-meroe]]
+
+*The [[cambridge-history-of-africa-v3|Cambridge History of Africa, Vol. 3]] (1977) covers the
+southern African states and the East African interior in the Indian Ocean gold trade —
+corroborating the wiki's GHA-based account.*

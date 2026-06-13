@@ -2395,3 +2395,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 section | Cambridge History of Africa | Vol. 1: From the Earliest Times to c. 500 BC (Clark, ed., 1982) | African prehistory | africa | Pages created: 0 | Pages updated: 2 | OPENS CHA series (8 vols; parallel to GHA)
 
 ## 2026-06-13 section | Cambridge History of Africa | Vol. 2: c. 500 BC–AD 1050 (Fage, ed., 1978) | Classical–Early Medieval Africa | africa | Pages created: 0 | Pages updated: 2
+
+## 2026-06-13 section | Cambridge History of Africa | Vol. 3: c. 1050–1600 (Oliver, ed., 1977) | High Medieval–Early Modern Africa | africa | Pages created: 0 | Pages updated: 2
