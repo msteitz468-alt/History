@@ -12,8 +12,8 @@ reliability_notes: >
   Maghrib and the Funj Sudan, the Omani Swahili coast, and the Great Lakes kingdoms. Multi-author,
   peer-reviewed, authoritative for its date (1992); its slave-trade chapters (Inikori) take a strong
   "underdevelopment" line that the wiki records alongside the rival positions already on file.
-pages_created: 0
-pages_updated: 0
+pages_created: 7
+pages_updated: 8
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -54,11 +54,41 @@ European intrusion.
 
 ## Pages Created / Updated
 
-*To be completed as sections are processed (Protocol Step 2c–2e).*
+**Created (7):** [[barbary-regencies]] (Ottoman North Africa & the corsairs); [[asante-empire]],
+[[oyo-empire]], [[benin-kingdom]], [[dahomey]] (the Guinea forest/savanna states); [[luba-lunda]] (the
+Central African sacred-kingship tradition); [[great-lakes-kingdoms]] (Buganda, Bunyoro, Rwanda).
+
+**Updated (7):** [[atlantic-slave-trade]] and [[impact-of-atlantic-slave-trade-on-africa]] (Inikori/Rodney
+underdevelopment thesis); [[mamluk-sultanate]] (its Ottoman end, 1517); [[hausa-city-states]] (18th c.);
+[[kingdom-of-kongo]] (Mbwila, Kimpa Vita); [[cape-colony]] (the early Cape); [[solomonic-ethiopia]] (the
+Oromo migrations and Gondar); [[swahili-coast]] (the Portuguese and Omani phase).
 
 ## Volume Synthesis Note
 
-*To be written after all sections are processed (Protocol Step 3).*
+GHA Vol. V was, with Vol. IV, the most page-generative GHA volume for the wiki — **7 new pages and 8
+enrichments** — and it filled the wiki's largest remaining sub-Saharan gap: the **early-modern states** of
+the Atlantic-trade era.
+
+**Its organizing thesis is the Atlantic slave trade and its consequences.** The volume opens with Inikori's
+strong **underdevelopment** argument (the export trade as the foundation of the Atlantic economic order and
+a cause of African economic distortion), now recorded as the most expansive form of the transformationist
+pole on [[impact-of-atlantic-slave-trade-on-africa]]. The regional chapters then show African societies
+**responding to Atlantic and Saharan demand** in opposite ways: militarized trading states **rising** on the
+commerce (**[[asante-empire|Asante]]** on gold, **[[dahomey|Dahomey]]** and **[[oyo-empire|Oyo]]** on
+captives, **[[benin-kingdom|Benin]]** controlling its participation), while others were **hollowed out**
+(**[[kingdom-of-kongo|Kongo]]**, undone by the trade and Portuguese Angola). Beyond the Atlantic, the volume
+fills in the **Ottoman Maghrib** ([[barbary-regencies|the regencies and corsairs]]), the **Central African**
+sacred-kingship tradition ([[luba-lunda|Luba-Lunda]]), the **Omani** turn on the [[swahili-coast|Swahili
+coast]], Gondarine **[[solomonic-ethiopia|Ethiopia]]**, and the centralized **[[great-lakes-kingdoms|Great
+Lakes kingdoms]]** — the latter notable for being largely *outside* the slave-trade economy.
+
+**Cross-volume relationships.** Vol. V completes the wiki's pre-colonial sub-Saharan map: it carries Vol.
+IV's states (Songhay's end at Morocco's hands; Kongo's decline; the Swahili from apogee to Omani rule) into
+the early-modern centuries and hands off to Vol. VI (the nineteenth century — the jihad states, the mfecane,
+the eve of the Scramble). Its Inikori chapter ties directly into the wiki's standing
+[[impact-of-atlantic-slave-trade-on-africa|slave-trade controversy]], whose dependency/underdevelopment pole
+it most fully articulates. With this volume the wiki finally holds Asante, Oyo, Benin, Dahomey, Luba-Lunda,
+and the Great Lakes kingdoms — the major early-modern African states it had entirely lacked.
 
 ## Cross-links
 
