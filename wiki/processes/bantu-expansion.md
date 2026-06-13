@@ -8,7 +8,7 @@ region: [sub-saharan-africa, central-africa, east-africa, southern-africa, west-
 process_type: [demographic, economic, cultural, ideological]
 driven_by: ["agricultural and (later) iron-working advantage", "[[early-african-food-production|African food production]]", "demographic growth"]
 produces: ["the spread of farming/herding across central & southern Africa", "the Bantu language family across a third of the continent", "assimilation/displacement of forager and Khoe-San communities"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [process, neolithic, sub-saharan-africa]
 ---
@@ -125,7 +125,17 @@ farming/language-dispersal hypothesis (see
 trans-Saharan diffusion ([[reader-africa-biography|Reader]]) vs. independent
 sub-Saharan invention (CWH IV; [[nok-culture|Nok]]) — remains contested.
 
+## GHA III (Vansina)
+
+The **UNESCO [[gha-vol3-7th-11th-century|General History of Africa, Vol. III]]** (ch. 6,
+Lwanga-Lunyiigo & **Jan Vansina**) reviews the expansion as it stood by the 7th–11th centuries — the period
+when iron-using Bantu farming communities had consolidated across Central, East and Southern Africa and the
+first larger polities and cattle-cultures (the ancestors of [[great-zimbabwe|the Zimbabwe tradition]]) were
+forming. GHA III also treats the parallel **population movements of the Sudanic belt** (Nilo-Saharan and
+Chadic peoples), the other great linguistic substratum of the African interior.
+
 ## Related pages
 
-[[reader-africa-biography]] · [[sub-saharan-africa]] · [[early-african-food-production]] ·
-[[african-language-family-origins]] · [[nok-culture]] · [[trans-saharan-trade]]
+[[reader-africa-biography]] · [[gha-vol3-7th-11th-century]] · [[sub-saharan-africa]] ·
+[[early-african-food-production]] · [[african-language-family-origins]] · [[nok-culture]] ·
+[[trans-saharan-trade]]

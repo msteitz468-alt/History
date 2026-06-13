@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 section | GHA Vol. III (7th–11th c.) | Section: The Sudan & the Bantu (chs. 5–6) | Pages created: 0 | Pages updated: 1 | (bantu-expansion — Vansina, Sudanic movements)
+
 ## 2026-06-12 section | GHA Vol. III (7th–11th c.) | Section: Islam and Africa — framework (chs. 1–4) | Pages created: 1 | Pages updated: 1 | (islamization-of-africa; enriched islam)
 
 ## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. II: Ancient Civilizations of Africa (G. Mokhtar ed., 1981) | Total pages created: 3 | Total pages updated: 9 | Sections processed: 6 (+ synthesis). Filed (both copies) to raw/2. Ancient & Classical Civilizations/. Gap 2 ancient-period reference.
