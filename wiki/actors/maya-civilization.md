@@ -9,7 +9,7 @@ affiliated_with: ["the broader Mesoamerican world (Olmec inheritance, Teotihuaca
 opposed_by: ["rival Maya city-states (Tikal/Mutal vs Calakmul/Kaan)", "the Spanish (final conquest 1697)"]
 key_events: ["the Kaan–Mutal wars (526–682 CE)", "the Classic Maya collapse (c. 800–950 CE)", "the conquest of Nojpetén (1697)"]
 key_processes: ["[[mesoamerican-state-formation]]", "[[maize-domestication]]", "[[mesoamerican-calendar]]"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, civilization, mesoamerica, classical-antiquity, late-antiquity]
 ---
@@ -60,6 +60,20 @@ total**: Maya civilization continued in the northern Yucatán (Chichén Itzá, t
 highlands, and Maya peoples — millions of them, speaking some thirty Mayan languages — endure to the
 present. The **last independent Maya state, Nojpetén** (Tayasal), fell to the Spanish only in **1697**,
 nearly two centuries after Cortés.
+
+## Religion and the Popol Vuh
+
+The Maya religious imagination survives most fully in the **[[popol-vuh|Popol Vuh]]**, the sacred
+"Council Book" of the highland **K'iche'** (documented for the wiki via Tedlock's translation). It
+preserves the Maya **creation** (the world made by **Heart of Sky / Hurricane** and the **Sovereign
+Plumed Serpent**; the failed humans of mud and wood), the saga of the **Hero Twins Hunahpu and
+Xbalanque** and their defeat of the underworld **Xibalba** (a myth attested on **Classic Maya
+vase-painting** a millennium earlier — proof of deep continuity), and the creation of true humanity from
+**maize**. To be Maya was, literally, to be **made of corn**. The book also doubled as a **dynastic
+charter**, tracing the K'iche' lordly lineages to the first maize-men — the religious counterpart to the
+glyphic dynastic records of the Classic city-states. See [[popol-vuh]] and
+[[aztec-religion-and-human-sacrifice|Aztec religion]] for the shared Mesoamerican logic of reciprocal
+debt between humans and gods.
 
 ## Significance
 

@@ -19,7 +19,7 @@ Status key: `[ ]` pending · `[~]` in progress · `[x]` done · `[skip]` unusabl
 - [x] Berdan, *The Aztecs* (Reaktion, 2021) — done 2026-06-12 (created aztec-religion-and-human-sacrifice, aztec-economy; expanded aztec-empire, tenochtitlan)
 - [x] *The Broken Spears* (Aztec conquest account) — done 2026-06-12 (created spanish-conquest-of-mexico-1519, leon-portilla-broken-spears)
 - [x] Bernal Díaz, *The Conquest of New Spain* — done 2026-06-12 (created la-malinche, diaz-conquest-of-new-spain; enriched spanish-conquest-of-mexico-1519)
-- [ ] *Popol Vuh* (Tedlock) — Maya primary, single-pass/2 cycles
+- [x] *Popol Vuh* (Tedlock) — done 2026-06-12 (created popol-vuh, tedlock-popol-vuh; enriched maya-civilization)
 - [ ] Burkholder & Johnson, *Colonial Latin America* — 3–4 cycles
 - [ ] Galeano, *Open Veins of Latin America* — single-pass
 

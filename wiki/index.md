@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-12 (**Popol Vuh: The Mayan Book of the Dawn of Life** (trans. Dennis Tedlock, 1985) — INGEST COMPLETE (primary source, single-pass). The **Maya-voice** primary — the K'iche' creation epic, cosmological counterpart to the conquest narratives. Created **[[popol-vuh]]** (the creation by Heart of Sky & the Plumed Serpent; the failed mud/wood humans; the Hero Twins Hunahpu & Xbalanque and their defeat of Xibalba; humans made of **maize**; the dual cosmogony-plus-K'iche'-dynastic-charter; preservation under conquest) and the source page **[[tedlock-popol-vuh]]**; enriched **[[maya-civilization]]** (the religious/mythological dimension from the inside; the Hero Twins attested on Classic vases → deep continuity). Filed to `raw/2. Ancient & Classical Civilizations/`. **Phase A remaining: Colonial Latin America (Burkholder & Johnson), Open Veins (Galeano).**)
+
 Last updated: 2026-06-12 (**Bernal Díaz del Castillo — *The Conquest of New Spain*** (c. 1568; Cohen trans.) — INGEST COMPLETE (primary source, single-pass). The **Spanish-eyewitness** counterpart to *The Broken Spears*, completing a two-sided [[spanish-conquest-of-mexico-1519|conquest]]. Created **[[la-malinche]]** (Doña Marina/Malintzin — Cortés's Nahua interpreter & the contested human hinge of the conquest) and the source page **[[diaz-conquest-of-new-spain]]**; enriched **[[spanish-conquest-of-mexico-1519]]** with the Spanish side (Bernal Díaz converges with the Nahua account on the facts — gold-barter, the bearded-men prophecy, revulsion at sacrifice, the Tlaxcalan alliance & Cholula, Montezuma's "divided mind," Guatemoc's end — while framing it as crusading mission). Filed to `raw/2. Ancient & Classical Civilizations/`. **Phase A nearly done: remaining = Popol Vuh (Maya primary), Colonial Latin America, Open Veins.**)
 
 Last updated: 2026-06-12 (**Miguel León-Portilla, ed. — *The Broken Spears: The Aztec Account of the Conquest of Mexico*** (1959/2007) — INGEST COMPLETE (primary source, single-pass). The **indigenous-voice** primary for the Americas gap (Sahagún's Florentine Codex Bk 12, the 1528 Tlatelolco manuscript, the *Cantares* elegies). Created **[[spanish-conquest-of-mexico-1519]]** — the conquest event page told from the **Nahua side** (the eight omens; Motecuhzoma's terror; the Tlaxcalan alliance & Cholula; the Toxcatl massacre; the Noche Triste; smallpox & the siege; Cuauhtemoc's surrender 13 Aug 1521; the "broken spears" elegies) and the source page **[[leon-portilla-broken-spears]]**. Key theme: the Nahua sources themselves locate the cause in **indigenous disunity** (Tlaxcala joined the Spanish), and are strikingly non-moralising — grief reserved for the city. Filed to `raw/2. Ancient & Classical Civilizations/`. **Next Phase A: Bernal Díaz (the Spanish-eyewitness side of the same conquest).**)
@@ -469,10 +471,10 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 | Processes | 116 |
 | Actors | 431 |
 | Places | 112 |
-| Concepts | 238 |
+| Concepts | 239 |
 | Comparisons | 0 |
 | Controversies | 44 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 43 |
-| **Total** | **1201** |
+| Sources | 44 |
+| **Total** | **1203** |
