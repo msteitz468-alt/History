@@ -7,7 +7,7 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [Swahili city-states, Kilwa Sultanate]
 events_here: []
 processes_here: [[[indian-ocean-trade]], [[trans-saharan-trade]]]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-12
 tags: [place, east-africa, indian-ocean, high-middle-ages]
 ---
@@ -69,6 +69,15 @@ furthest point Persian-Gulf dhows could reach and return on a single monsoon, so
 Sofala" and its "meadows of gold"** were worked by intermediaries. Sofala (near modern Beira) tapped the
 gold of the Zimbabwe plateau, tying **[[great-zimbabwe|Great Zimbabwe]]** and its Mapungubwe/Mutapa
 neighbours into the Indian Ocean economy — the inland and maritime halves of one gold trade.
+
+## The classical stone-town age (GHA IV)
+
+The **UNESCO [[gha-vol4-12th-16th-century|General History of Africa, Vol. IV]]** (ch. 18, Matveiev, "The
+development of Swahili civilization") covers the coast's **apogee (12th–15th c.)** — the mature
+**stone-towns**, the dominance of **Kilwa** over the southern gold trade from [[great-zimbabwe|Sofala/
+Zimbabwe]], the coral-rag mosques and palaces (Husuni Kubwa), the Kilwa coinage, and the consolidation of
+**Kiswahili** as the language of an indigenous, Islamic, mercantile African civilization — just before the
+Portuguese sacked the towns after 1498.
 
 ## The early Islamic coast and the Zanj (GHA III)
 

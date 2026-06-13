@@ -7,7 +7,7 @@ period_active: [High Middle Ages, Late Middle Ages]
 controlled_by: [the Shona state; preceded by Mapungubwe, succeeded by Torwa (Khami) and Mutapa]
 events_here: [foundation of the hill settlement (late 11th c.), construction of the Great Enclosure (14th c.), peak (15th c.), abandonment (late 15th c.)]
 processes_here: [[[indian-ocean-trade]], pastoralism, gold mining and trade]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [place, southern-africa, sub-saharan-africa, high-middle-ages]
 ---
@@ -56,7 +56,15 @@ archaeology is unequivocal — Great Zimbabwe was built **by the ancestors of th
 with the great medieval cathedrals of Europe (see [[sub-saharan-africa]], on the rejection of the "Hamitic"
 diffusionism).
 
+## GHA IV note
+
+The **UNESCO [[gha-vol4-12th-16th-century|General History of Africa, Vol. IV]]** (ch. 21, Fagan, "The
+Zambezi and Limpopo basins 1100–1500") sets Great Zimbabwe within the full sequence of the gold-trading
+plateau states — **Mapungubwe → Great Zimbabwe → Mutapa and Torwa/Khami** — and stresses (against the
+old racist denialism) the **indigenous Shona** authorship of the stone architecture and the **Indian Ocean
+gold trade**, via the [[swahili-coast|Swahili]] port of Sofala, that underwrote their wealth.
+
 ## Related pages
 
-[[reader-africa-biography]] · [[sub-saharan-africa]] · [[swahili-coast]] · [[indian-ocean-trade]] ·
-[[trans-saharan-trade]] · [[aksum]] · [[kush-meroe]]
+[[reader-africa-biography]] · [[gha-vol4-12th-16th-century]] · [[sub-saharan-africa]] · [[swahili-coast]] ·
+[[indian-ocean-trade]] · [[trans-saharan-trade]] · [[aksum]] · [[kush-meroe]]
