@@ -9,7 +9,7 @@ affiliated_with: [Rome/Byzantium (ally and trading partner), the Indian Ocean tr
 opposed_by: [the [[kush-meroe|Kingdom of Kush]] (conquered c. 350 CE), Sasanian Persia, the early Caliphate]
 key_events: [rise to prominence late 1st c. BCE, establishment of Adulis as a treaty port, conquest of Kush c. 350 CE, conversion to Christianity (4th c.), control of Yemen (early 6th c.), collapse and relocation c. 700 CE]
 key_processes: [[[indian-ocean-trade]], [[trade-network-formation]], [[empire]], [[christianization]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, state, late-antiquity, horn-of-africa]
 ---
@@ -83,3 +83,20 @@ state-formation, stressing two arguments the wiki adopts (and flags as Reader's 
   **environmental collapse and demographic decline**. By c. 800 CE Aksum had nearly ceased to exist, its
   elite migrating south to seed the later medieval Ethiopian state. The same ecology that raised Aksum
   destroyed it.
+
+## Pre-Aksumite roots and Christian Aksum (GHA II)
+
+The **UNESCO [[gha-vol2-ancient-civilizations|General History of Africa, Vol. II]]** (chs. 13–16) frames
+Aksum between two bookends:
+
+- **Pre-Aksumite culture (the "D'MT" / Yeha horizon, c. 8th–4th c. BCE):** monumental temples (Yeha),
+  South-Arabian-style Sabaean inscriptions and the cult of the moon-god, terraced plough agriculture — the
+  indigenous-plus-Sabaean substratum from which Aksum grew.
+- **Christian Aksum:** King **Ezana's conversion** in the fourth century — effected through **Frumentius**
+  (consecrated first bishop of Aksum by Athanasius of Alexandria) and visible on Ezana's coins and
+  inscriptions as they shift from pagan to Christian symbols. Aksum thus tied itself to the **Coptic
+  (Monophysite) church of Alexandria**; the later **Nine Saints** spread monasticism and translated
+  scripture into **Ge'ez**. This church survived Aksum's political collapse to become the **Ethiopian
+  Orthodox** tradition and the spine of the medieval Christian Ethiopian state — making Aksum and
+  **[[christian-nubia|Christian Nubia]]** the two enduring African Christian civilizations of the Nile/Red
+  Sea world.
