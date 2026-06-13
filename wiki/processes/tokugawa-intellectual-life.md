@@ -8,7 +8,7 @@ region: [japan, east-asia]
 process_type: [ideological, cultural]
 driven_by: [the Tokugawa search for a stabilizing orthodoxy, the peace and literacy of the Edo order, sakoku and the Deshima window, economic and social crisis]
 produces: [Neo-Confucian orthodoxy, the rival Confucian schools, kokugaku (National Learning), rangaku (Dutch learning), the intellectual ferment behind the Meiji Restoration]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [process, early-modern, japan, east-asia]
 ---
@@ -60,6 +60,41 @@ politics. Restless polymaths like **Hiraga Gennai** and **Shiba Kōkan** embodie
 "for something new… nothing that was offered by the culture of the East," and from the 1790s
 men such as **Honda Toshiaki** argued Japan must end seclusion, build ships, and trade.
 
+## The secularization of thought (Cambridge History of Japan: Bitō)
+
+The [[cambridge-history-japan-v4-early-modern|Cambridge History]] (Bitō Masahide, ch. 8)
+locates the deeper shift behind this whole intellectual world: in the sixteenth and
+seventeenth centuries **"thought" — systematic ideas about morality and politics — became
+independent of religion** for the first time. Where through the fifteenth century Confucianism
+had been a clerical and aristocratic pursuit and the populace took its guidance from
+[[japanese-buddhism|Buddhism]], the stabilization of life under the new order shifted interest
+from salvation after death to **how to live in actual society**. Crucially, Bitō reads this
+not as a rejection of religion but as the *consequence of religion's permeation* of society;
+and the new thought was **addressed to society as a whole**, not to a single status — hence
+its wide penetration (unlike China, where Confucianism stayed an examination elite's
+preserve). Bitō ties this to the **status order**: his concept of ***yaku*** (function/role)
+defined what society expected of each class, producing a "rule by status" (*mibun*) under
+which those who kept their place were treated impartially by law, while the **ie (house)**
+system shielded the individual from arbitrary outside demand — the social philosophy of the
+[[bakuhan-system|bakuhan]] order.
+
+## History and nature in eighteenth-century thought (Cambridge History of Japan: Najita)
+
+Tetsuo Najita (ch. 12) gives the philosophical depth behind the **Kogaku** turn. **Ogyū
+Sorai (1666–1728)** best articulated a radical **historicism** — "the ultimate form of
+scholarly knowledge is history": reliable norms lie not in an observable cosmic *nature*
+(beyond the finite human mind) but in **documented human experience**, recoverable through the
+philological "study of ancient language" (*kobunjigaku*) — the recovery of the moral
+intentions locked in a distant founding epoch, in order to guide the rapidly changing present.
+Sorai was prefigured by the merchant-born **Itō Jinsai (1627–1705)**, who severed moral
+inquiry from the inherited hierarchy and, returning to **Mencius**, affirmed the universal
+moral potential of all human beings regardless of status. Najita's key point for the wiki:
+this **philological-historicist method** — turning from metaphysical Neo-Confucian abstraction
+to the critical study of ancient texts — is the common root from which both **Sorai's
+statecraft** and, applied to Japan's *own* ancient texts, the **[[shinto|kokugaku]]** of
+Motoori Norinaga grew. The complementary "nature" strand fed a Tokugawa **naturalism** that
+shaded into proto-scientific and political-economy thought (Andō Shōeki; Honda Toshiaki).
+
 ## Interaction and End Conditions
 
 Sansom's synthesis: "the decline of orthodox Confucianism, the revival of national history,
@@ -75,5 +110,6 @@ transformation.
 
 - [[edo-period]] · [[sakoku]] — the order and the closure within which this thought developed.
 - [[meiji-restoration-1868]] — the upheaval these currents helped produce.
-- [[genroku-culture]] — the parallel townsman cultural flowering.
+- [[genroku-culture]] · [[chonin-culture]] — the parallel townsman cultural flowering and society.
+- [[neo-confucianism]] — the imported orthodoxy and its Japanese career.
 - [[shinto]] · [[samurai]] — the nativist revival and the Confucian-samurai ethic; [[japan]].

@@ -34,6 +34,8 @@ Last updated: 2026-06-12 (**Anthony Reid — *Southeast Asia in the Age of Comme
 
 Last updated: 2026-06-12 (**Michael D. Coe — *Angkor and the Khmer Civilization*** (Thames & Hudson, 2003) — INGEST COMPLETE (Large-Volume, 3 cycles + synthesis). The wiki's **first dedicated Southeast Asian source**, opening the long-flagged SE Asia gap (Gap 3). Created 5: **[[khmer-empire]]** (Angkor, 802–1431), **[[angkor]]** *(enriched existing)*, **[[jayavarman-vii]]**, **[[funan]]** (the pre-Angkorian Funan/Zhenla states), **[[devaraja]]** (the god-king cult), and the **[[southeast-asia]]** regional anchor. Enriched **[[indianization-of-southeast-asia]]** (the Khmer close-up: Oc Eo, the Zhenla temples), **[[angkor]]** (Coe's monuments — Angkor Wat, the Bayon, Zhou Daguan), **[[mahayana-buddhism]]** & **[[hinduism]]** (the Khmer state cults). Filed to `raw/3. Middle Ages/`. **Begins the Southeast Asia leg of Gap 3; the archipelago, Burma, Siam & Vietnam remain (Reid, Cambridge History of SE Asia next).**)
 
+Last updated: 2026-06-13 (**The Cambridge History of Japan, Vol. 4: Early Modern Japan, 1550–1800** (Hall ed., 1991) — INGEST COMPLETE (Large-Volume, 4 cycles + synthesis). The authoritative deepening of the **early-modern Japan** spine (**Phase B / Japan**). Created 6: **[[bakuhan-system]]** (shogunate ruling through autonomous daimyo *han*; the shinpan/fudai/tozama balance, Buke shohatto, attainder, *sankin-kōtai*), **[[kokudaka-system]]** (Hideyoshi's Taikō survey → "one cultivator per parcel," *hei-nō-bunri*, fief→stipend), **[[hideyoshi-korea-invasions-1592-1598]]** (the Imjin War — devastated Korea, drained the Ming, hastened the Toyotomi fall), **[[christianity-in-japan]]** (the Kirishitan century → persecution → seclusion), **[[tokugawa-economy]]** (agricultural & commercial revolution, world-leading urbanization, the fiscal crisis & three reforms), **[[chonin-culture]]** (the townsman world; Hanley on rising living standards). Enriched 11: **[[azuchi-momoyama-period]]**, **[[edo-period]]**, **[[oda-nobunaga]]**, **[[toyotomi-hideyoshi]]**, **[[tokugawa-ieyasu]]**, **[[samurai]]**, **[[shogunate-bakufu]]**, **[[sakoku]]**, **[[genroku-culture]]**, **[[tokugawa-intellectual-life]]**, **[[neo-confucianism]]**. Theme: Azuchi-Momoyama + Edo as **one institutional transformation** — power over the land settled by the *bakuhan*/*kokudaka* order, then the country turned outward (Korea) and shut (sakoku). Filed to `raw/4. Modern Times/`.)
+
 Last updated: 2026-06-12 (**Percival Spear — *A History of India*, Volume Two** (Penguin, 1965) — INGEST COMPLETE (Large-Volume, 5 cycles + synthesis). The continuation of Thapar Vol. I from 1526 — completing the **Gap-3 India backbone** and a large slice of **Gap 1 (modern history)**. Created 13: **[[mughal-empire]]**, **[[akbar]]**, **[[aurangzeb]]**, **[[maratha-empire]]**, **[[battle-of-plassey-1757]]**, **[[british-raj]]**, **[[indian-rebellion-1857]]**, **[[indian-national-congress]]**, **[[mahatma-gandhi]]**, **[[muhammad-ali-jinnah]]**, **[[jawaharlal-nehru]]**, **[[partition-of-india-1947]]**, **[[indian-independence-movement]]**. Enriched 4 — **[[english-east-india-company]]** (trade→dominion: Plassey→diwani→Hastings), **[[delhi-sultanate]]** & **[[bhakti-movement]]** (the Mughal sequel; Sikh militarisation), **[[south-asia]]** (the modern era). Spear's continuist/benign Raj flagged against later drain/subaltern revisionism. Filed to `raw/3. Middle Ages/`. **India spine now complete prehistory→1947/64.**)
 
 Last updated: 2026-06-12 (**Romila Thapar — *A History of India*, Volume One** (Penguin/Pelican, 1966) — INGEST COMPLETE (Large-Volume, 6 section cycles + synthesis). The standard academic narrative of India to 1526 and the **structural backbone for Gap 3 (South Asia)**. Created 16: **[[indus-valley-civilization]]**, **[[vedic-period]]**, **[[gana-sangha]]** (the early republics), **[[satavahana-empire]]**, **[[sangam-age-south-india]]**, **[[indianization-of-southeast-asia]]**, **[[chola-empire]]**, **[[pallava-chalukya-rashtrakuta]]**, **[[harsha]]**, **[[rajputs]]**, **[[indian-feudalism]]**, **[[mahmud-of-ghazni]]**, **[[delhi-sultanate]]**, **[[bhakti-movement]]**, **[[vijayanagara-bahmani]]**, and the **[[south-asia]]** regional anchor. Enriched 11 — incl. **[[caste-varna]]** (varna-theory vs. jati-practice), **[[hinduism]]** (Vedic + popular synthesis; trinity/avatars/Gita), **[[ashoka]]** (Dhamma ≠ Buddhism), **[[mauryan-empire]]** (centralized-bureaucracy reading), **[[magadha]]**, **[[gupta-empire]]** ("classical age for whom?"), **[[buddhism]]** (Indian decline), **[[kushan-empire]]**, **[[indian-ocean-trade]]** (the Roman trade), **[[indo-european-origins]]** (the "Aryan question"). Filed to `raw/3. Middle Ages/`. **Begins Gap 3: India moves from "Weak" toward solid coverage, prehistory→1526.**)
@@ -482,14 +484,14 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 | Category | Pages |
 |---|---|
 | Periods | 32 |
-| Events | 231 |
-| Processes | 143 |
+| Events | 232 |
+| Processes | 144 |
 | Actors | 531 |
 | Places | 120 |
-| Concepts | 278 |
+| Concepts | 282 |
 | Comparisons | 1 |
 | Controversies | 51 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 134 |
-| **Total** | **1521** |
+| Sources | 135 |
+| **Total** | **1528** |
