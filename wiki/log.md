@@ -23,6 +23,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. III (7th–11th c.) | Section: Islam and Africa — framework (chs. 1–4) | Pages created: 1 | Pages updated: 1 | (islamization-of-africa; enriched islam)
 
+## 2026-06-12 section | GHA Vol. IV (12th–16th c.) | Section: The Maghrib — Almohads & after (chs. 2–5) | Pages created: 0 | Pages updated: 1 | (almohads — African/Maghribi view, gold trade)
+
 ## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. III: Africa from the Seventh to the Eleventh Century (El Fasi & Hrbek eds., 1988) | Total pages created: 3 | Total pages updated: 8 | Sections processed: 6 (+ synthesis). Filed (both copies) to raw/3. Middle Ages/. Gap 2 early-medieval reference.
 
 ## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. II: Ancient Civilizations of Africa (G. Mokhtar ed., 1981) | Total pages created: 3 | Total pages updated: 9 | Sections processed: 6 (+ synthesis). Filed (both copies) to raw/2. Ancient & Classical Civilizations/. Gap 2 ancient-period reference.

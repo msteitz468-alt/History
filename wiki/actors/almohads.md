@@ -8,8 +8,8 @@ region: [north-africa, iberia]
 affiliated_with: ["the Masmuda Berbers", "the doctrine of tawhid (divine unity)"]
 opposed_by: [[[christian-kingdoms-of-spain|the Christian Iberian kingdoms]], [[almoravids|the Almoravids]]]
 key_events: ["the conquest of the Almoravid Maghreb (1147)", "Battle of Alarcos (1195)", "Battle of Las Navas de Tolosa (1212)"]
-key_processes: [[[reconquista]]]
-sources_ingested: 2
+key_processes: [[[reconquista]], [[trans-saharan-trade]]]
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, dynasty, high-middle-ages, north-africa, iberia]
 ---
@@ -73,8 +73,20 @@ in the Christians' favour and the beginning of the end of al-Andalus. Their fall
 **North African counterweight** that had twice reversed the reconquest, and their fragmentation
 gave European merchants greater access to the Saharan gold trade.
 
+## The African / Maghribi view (GHA IV)
+
+The **UNESCO [[gha-vol4-12th-16th-century|General History of Africa, Vol. IV]]** (chs. 2–5, Saidi, Talbi,
+Hrbek, Idris) frames the Almohad century as the **apogee of Maghribi-Islamic civilization** — a North
+*African* empire (not merely an appendage of al-Andalus) whose unification of the Maghrib, urban
+florescence, and patronage of thought (Averroes, Ibn Tufayl) marked the region's high point before
+fragmentation into the **[[maghrib-successor-states|tripartite Maghrib]]** (Hafsids, Ziyanids, Marinids).
+GHA also stresses the Almohads' stake in the **[[trans-saharan-trade|trans-Saharan gold trade]]**: control
+of the desert termini and the West African gold that flowed through them underwrote Maghribi prosperity and
+tied the Almohad world to the empire of [[mali-empire|Mali]] rising to the south.
+
 ## Related
 
+- Source: [[gha-vol4-12th-16th-century|GHA Vol. IV]]
 - [[almoravids]] — the predecessor empire they overthrew.
 - [[reconquista]], [[al-andalus|al-Andalus]] — the Iberian context.
 - [[maghrib-successor-states]], [[nasrid-granada]] — the states that emerged from their collapse.
