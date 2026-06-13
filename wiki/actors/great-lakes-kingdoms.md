@@ -9,7 +9,7 @@ affiliated_with: [the interlacustrine Bantu societies, cattle-keeping aristocrac
 opposed_by: [each other (Buganda vs. Bunyoro); ultimately Britain and Germany]
 key_events: [the rise of the Cwezi/Bito traditions, the expansion of Bunyoro-Kitara, the rise of Buganda, the consolidation of Rwanda]
 key_processes: [state-formation, cattle-and-banana economies, long-distance trade]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, early-modern, east-africa]
 ---
@@ -54,7 +54,11 @@ Saharan slave trades (though touched late by the East African ivory and slave tr
 structures became, under colonial reinterpretation, the fault lines of some of the continent's gravest
 modern conflicts.
 
+> **GHA VI note.** The [[gha-vol6-19th-century|General History of Africa, Vol. VI]] (ch. 11, Cohen) covers
+> the kingdoms in the nineteenth century, when the **[[swahili-coast|Zanzibar]] ivory-and-slave caravans**
+> reached the Lakes — arming Buganda and reshaping the regional balance just before colonial conquest.
+
 ## Related pages
 
-[[gha-vol5-16th-18th-century]] · [[swahili-coast]] · [[bantu-expansion]] · [[genocide]] ·
-[[sub-saharan-africa]] · [[east-africa]]
+[[gha-vol5-16th-18th-century]] · [[gha-vol6-19th-century]] · [[swahili-coast]] · [[bantu-expansion]] ·
+[[genocide]] · [[sub-saharan-africa]] · [[east-africa]]

@@ -7,7 +7,7 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [Swahili city-states, Kilwa Sultanate]
 events_here: []
 processes_here: [[[indian-ocean-trade]], [[trans-saharan-trade]]]
-sources_ingested: 6
+sources_ingested: 7
 last_updated: 2026-06-12
 tags: [place, east-africa, indian-ocean, high-middle-ages]
 ---
@@ -69,6 +69,17 @@ furthest point Persian-Gulf dhows could reach and return on a single monsoon, so
 Sofala" and its "meadows of gold"** were worked by intermediaries. Sofala (near modern Beira) tapped the
 gold of the Zimbabwe plateau, tying **[[great-zimbabwe|Great Zimbabwe]]** and its Mapungubwe/Mutapa
 neighbours into the Indian Ocean economy — the inland and maritime halves of one gold trade.
+
+## The Zanzibar empire and the caravan trade (GHA VI)
+
+The **UNESCO [[gha-vol6-19th-century|General History of Africa, Vol. VI]]** (chs. 9–10, Salim & Kimambo)
+covers the coast's **nineteenth-century apogee under Oman/Zanzibar**: **Sayyid Said bin Sultan** moved his
+capital from Muscat to **Zanzibar (1832/40)**, built a **clove-plantation** economy worked by enslaved
+labour, and presided over a vast commercial reach as **Swahili-Arab caravans** drove deep into the interior
+for **ivory and slaves** — to the Great Lakes, the Congo, and beyond (the routes of Tippu Tip). This East
+African trade **transformed the interior**: arming and enriching some peoples (the Nyamwezi, the Yao),
+devastating others, and drawing the [[great-lakes-kingdoms|Great Lakes]] and [[luba-lunda|Luba-Lunda]] worlds
+into a single commercial system — on the eve of the European Scramble.
 
 ## Portuguese intrusion and the Omani (GHA V)
 
