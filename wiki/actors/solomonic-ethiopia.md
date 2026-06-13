@@ -9,7 +9,7 @@ affiliated_with: [the Ethiopian Orthodox (Täwahedo) Church, the Coptic Patriarc
 opposed_by: [the Muslim sultanates of Ifat and Adal, the Ottoman-backed Adalite jihad, later the Oromo migrations]
 key_events: [the rock-hewn churches of Lalibela (Zagwe), the Solomonid restoration under Yekuno Amlak (1270), the conquests of Amda Seyon (r. 1314–44), the reign of Zara Yaqob (r. 1434–68), the Adalite jihad of Ahmad Gran (1529–43)]
 key_processes: [[[christianization]], state-formation, the Christian–Muslim frontier]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, late-middle-ages, horn-of-africa]
 ---
@@ -65,7 +65,17 @@ expulsion, reaffirming Orthodox identity); and the founding of a permanent capit
 **Fasilidas** — the "**Gondarine period**" of castle-building and artistic florescence — before the 18th-
 century "Era of the Princes" (*Zemene Mesafint*) fragmented imperial authority among regional lords.
 
+## The nineteenth-century reunification (GHA VI)
+
+The **UNESCO [[gha-vol6-19th-century|General History of Africa, Vol. VI]]** (ch. 15, Pankhurst) covers
+Ethiopia's recovery from the "Era of the Princes": **Tewodros II** (r. 1855–68) began the reunification of
+the empire (and died resisting a British punitive expedition at Magdala, 1868); **Yohannes IV** continued
+it while fending off Egyptian and Mahdist invasions; and **Menelik II** completed it, expanding the empire
+to its modern bounds — setting the stage for Ethiopia's defeat of Italy at **Adwa (1896)**, the one African
+state to defeat the [[scramble-for-africa|Scramble]] (see [[imperialism]]).
+
 ## Related pages
 
-[[gha-vol4-12th-16th-century]] · [[gha-vol5-16th-18th-century]] · [[aksum]] · [[christian-nubia]] ·
-[[christianization]] · [[islam]] · [[sub-saharan-africa]] · [[horn-of-africa]]
+[[gha-vol4-12th-16th-century]] · [[gha-vol5-16th-18th-century]] · [[gha-vol6-19th-century]] · [[aksum]] ·
+[[christian-nubia]] · [[christianization]] · [[islam]] · [[scramble-for-africa]] · [[sub-saharan-africa]] ·
+[[horn-of-africa]]

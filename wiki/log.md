@@ -47,6 +47,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. V (16th–18th c.) | Section: The slave trade & the Atlantic order (chs. 1–5) | Pages created: 0 | Pages updated: 2 | (atlantic-slave-trade, impact-of-atlantic-slave-trade-on-africa — Inikori/Rodney underdevelopment thesis)
 
+## 2026-06-12 section | GHA Vol. VI (19th c.) | Section: Egypt, Sudan, Ethiopia, Madagascar (chs. 13–16) | Pages created: 2 | Pages updated: 1 | (muhammad-ali-egypt, merina-kingdom; enriched solomonic-ethiopia)
+
 ## 2026-06-12 section | GHA Vol. VI (19th c.) | Section: East & Central Africa (chs. 9–12) | Pages created: 0 | Pages updated: 2 | (swahili-coast — Zanzibar caravan trade; great-lakes-kingdoms)
 
 ## 2026-06-12 section | GHA Vol. VI (19th c.) | Section: The Mfecane & Southern Africa (chs. 5–8) | Pages created: 0 | Pages updated: 2 | (mfecane — Ngcongco/Omer-Cooper view added to controversy; cape-colony — Great Trek)
