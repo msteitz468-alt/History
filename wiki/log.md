@@ -71,6 +71,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. VII (colonial 1880–1935) | Section: Partition, conquest & resistance (chs. 1–8) | Pages created: 1 | Pages updated: 1 | (african-resistance-to-colonial-rule; enriched scramble-for-africa)
 
+## 2026-06-12 section | GHA Vol. VIII (since 1935) | Section: Underdevelopment & economic independence (Section III) | Pages created: 1 | Pages updated: 0 | (post-colonial-africa)
+
 ## 2026-06-12 section | GHA Vol. VIII (since 1935) | Section: The struggle for independence, 1945–60+ (Section II) | Pages created: 0 | Pages updated: 1 | (decolonization — the African independence struggle, Nkrumah/Mau Mau/Algeria)
 
 ## 2026-06-12 section | GHA Vol. VIII (since 1935) | Section: Africa in WWII, 1935–45 (Section I) | Pages created: 0 | Pages updated: 1 | (african-nationalism — WWII as catalyst)
