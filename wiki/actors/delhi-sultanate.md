@@ -9,7 +9,7 @@ affiliated_with: ["Turkish/Afghan Muslim ruling class", "Sunni Islam / the Calip
 opposed_by: ["the [[rajputs|Rajput]] and regional Hindu kingdoms", "the Mongols (on the NW frontier)", "Timur", "[[vijayanagara-bahmani|Vijayanagara]]"]
 key_events: ["the second battle of Tarain (1192) & founding (1206)", "Ala-ud-din Khalji's reforms (c. 1296–1316)", "Muhammad bin Tughluq's experiments", "Timur's sack of Delhi (1398)"]
 key_processes: ["[[state-formation]]", "[[indian-feudalism|the iqta system]]", "the coming of Islam to India"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, late-middle-ages, south-asia]
 ---
@@ -59,6 +59,18 @@ nobility, backed by an efficient espionage. His famous **market/price controls**
 standing army cheaply. He repelled the **Mongols** and launched the campaigns that first carried
 Sultanate power into the **Deccan** — the intervention that would soon throw up
 [[vijayanagara-bahmani|Vijayanagara and the Bahmani kingdom]].
+
+## The Mughal sequel (Spear)
+
+[[spear-history-of-india-v2-1965|Spear, Vol. II]] picks up where the Sultanate left off. After Timur's
+1398 sack, the Sultanate shrank ("From Delhi to Palam is the realm of Shah Alam") and the **Lodi
+Afghans** ruled a brittle feudal confederacy until **Babur** — invited in by a disaffected governor —
+destroyed Sultan Ibrahim Lodi at **Panipat (1526)**, founding the [[mughal-empire|Mughal Empire]].
+Spear stresses the **continuity**: the Mughals inherited and perfected the Sultanate's
+[[indian-feudalism|land-revenue]] and provincial machinery (the Afghan **Sher Shah Sur** providing the
+crucial administrative "blue-print"), so the Sultanate is best read not as a closed chapter but as the
+first phase of the Indo-Muslim imperial state that the Mughals — and then the British — would carry
+forward.
 
 ## Significance
 

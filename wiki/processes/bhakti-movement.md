@@ -8,7 +8,7 @@ region: [south-asia, india]
 process_type: [religious, social]
 driven_by: ["popular devotion (bhakti) against brahmanical ritual and caste", "the coalescence of Hindu devotion with [[islam|Sufi]] mysticism and Islamic ideas of social equality", "the urban artisan and lower-caste classes of the Sultanate towns"]
 produces: ["vernacular devotional literature", "the teachings of Kabir and Nanak (and the roots of Sikhism)", "a partial Hindu–Muslim religious rapprochement", "an enduring anti-caste devotional tradition"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [process, late-middle-ages, south-asia]
 ---
@@ -53,6 +53,24 @@ artisan** world of the Sultanate towns:
 - **Nanak** (1469–1530), of a rural Punjabi family, went further, describing **God without reference
   to either Hindu or Muslim conceptions** (the formless **True One** of the *Adi Granth*). His
   teaching and community became the foundation of **Sikhism**.
+
+## The Mughal-era flowering and the vernaculars (Spear)
+
+[[spear-history-of-india-v2-1965|Spear, Vol. II]] traces the movement's continued vitality under the
+[[mughal-empire|Mughals]] and its **decisive role in shaping the modern Indian languages**. The bhakti
+"religion of the heart" spread from western India (the Maratha *sant* poets) into the Punjab, where
+**Guru Nanak** founded what became the **Sikhs**; **Chaitanya** (16th c.) carried Krishna-devotion
+through Bengal and restored Krishna's holy city of Brindaban; and **Tulsidas** of Benares (1534–1623)
+wrote his Hindi *Ramayana* (the *Ramcharitmanas*), "almost the Bible of the north Indian people,"
+laying the foundation of modern **Hindi** — as the movement did for **Marathi** and **Bengali**. By
+using the vernacular and loosening (even as they sometimes recrystallised) caste bonds, the bhakti
+cults gave India's regional languages their literary "personality."
+
+The Sikh case shows bhakti's political edge under Mughal pressure: Nanak's syncretist, peaceful,
+monotheist sect was **militarised** after [[aurangzeb|Aurangzeb]] executed **Guru Tegh Bahadur (1675)**;
+**Guru Gobind Singh** completed its transformation into a distinct community (the *Khalsa*, the *Granth
+Sahib* as scripture, holy warriors and martyrdom) that would "alternately disrupt and rule the Punjab"
+for three centuries.
 
 ## Significance
 
