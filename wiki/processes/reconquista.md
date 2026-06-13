@@ -8,7 +8,7 @@ region: [iberia, north-africa, mediterranean]
 process_type: political
 driven_by: ["the fragmentation of al-Andalus (the taifa kingdoms)", "the demographic and military expansion of the northern Christian kingdoms", "the parias tribute system", "crusading ideology and the military orders", "frontier settlement (repoblación)"]
 produces: ["the Christian kingdoms of León-Castile, Aragon, Navarre, and Portugal", "the fall of Toledo (1085), the Almoravid/Almohad reaction, and Las Navas de Tolosa (1212)", "a frontier society of convivencia and conflict"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [process, high-middle-ages, iberia, mediterranean]
 ---
@@ -106,6 +106,14 @@ as it folded, in the same year, into the **expulsion of the Jews** and the launc
 [[age-of-discovery|Atlantic expansion]]. The Reconquista thus closed exactly as the European frontier
 turned outward across the ocean — and as the [[ottoman-empire|Ottoman]] frontier advanced into the
 Balkans at the Mediterranean's other end.
+
+Alan Mikhail's [[mikhail-gods-shadow|*God's Shadow*]] builds on this conjunction a **contested**
+argument: that the **crusading, "Moor-slaying" (*Matamoros*) mentality** of the Reconquista was
+carried directly across the Atlantic — Columbus (a veteran of the Granada war) sailing as a
+holy warrior against Islam, and the conquistadors recasting Native Americans through the same
+anti-Muslim frame. For Mikhail the global rivalry with the [[ottoman-empire|Ottomans]] is the
+key context of 1492; critics judge the causal claim overstated (see
+[[ottoman-impact-on-european-expansion]]).
 
 ## Related
 

@@ -14,7 +14,7 @@ scale_immediate: hemispheric
 scale_consequential: global
 causes: [Iberian oceanic expansion, the search for a westward route to Asia, the prior biological isolation of the Americas from Afro-Eurasia]
 consequences: [American demographic collapse, the Atlantic slave trade, global redistribution of crops and animals, the integration of a planetary world system, the rise of plantation economies]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-13
 tags: [event, transition, early-modern, atlantic-world]
 ---
@@ -78,6 +78,15 @@ a westward route to Asia. `enabled:` the prior **biological isolation** of the
 Americas, which left their peoples immunologically defenseless and their
 ecologies open to Old World species. `concurrent_with:` the silver economy and
 the rise of oceanic empires.
+
+Alan Mikhail's [[mikhail-gods-shadow|*God's Shadow*]] presses a stronger,
+**contested** version of the causation: that **fear of the [[ottoman-empire|Ottomans]]**
+was "the very reason Europeans went to America" — Ottoman dominance of the
+Mediterranean and the eastern trade routes "ejecting" Iberia onto the oceans, and
+Columbus sailing as a [[reconquista|Reconquista]] crusader carrying holy war against
+Islam to the New World. Critics regard this as inflating one real factor
+(anti-Islamic crusading ideology) into the master cause; see
+[[ottoman-impact-on-european-expansion]].
 
 ## Consequence Analysis
 

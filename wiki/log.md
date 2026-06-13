@@ -2325,3 +2325,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 
 ## 2026-06-13 section | Finkel, Osman's Dream | Section: Reform, the Eastern Question, and the end (chs 12–16 + epilogue) | Pages created: 3 | Pages updated: 1
 ## 2026-06-13 ingest-complete | Caroline Finkel, Osman's Dream: The History of the Ottoman Empire | Total pages created: 5 | Total pages updated: 2 | Sections processed: 2
+
+## 2026-06-13 ingest | Alan Mikhail, God's Shadow: The Ottoman Sultan Who Shaped the Modern World | Early Modern | near-east/anatolia/iberia/americas | Pages created: 1 | Pages updated: 3
