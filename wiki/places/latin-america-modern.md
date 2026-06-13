@@ -7,8 +7,8 @@ period_active: [Age of Expansion, Long 19th Century, World Wars Era, Cold War, C
 controlled_by: [Spanish and Portuguese empires, then independent nation states under varying elite, caudillo, populist, and military regimes]
 events_here: [the wars of independence (1808–1824), the Haitian Revolution, the Spanish–American War (1898), the Mexican Revolution (1910–1917), the Great Depression]
 processes_here: [[[nationalism]], the liberal export economy, import-substitution [[industrialization]], populism, US informal empire]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [place, latin-america, long-19th-century]
 ---
 
@@ -36,7 +36,11 @@ experimenters with social change (the Mexican Revolution, populism, later social
 - **Independence (1808–1824).** Napoleon's conquest of Iberia triggered the wars;
   after a failed first round (defeated by 1814), a second succeeded, so that by the
   **Battle of Ayacucho (1824)** all of Spanish America was independent except Cuba and
-  Puerto Rico (held until 1898). Brazil became an independent monarchy.
+  Puerto Rico (held until 1898). Brazil became an independent monarchy. *This arc now
+  has its own dedicated page — see [[spanish-american-independence|The Wars of
+  Spanish American Independence]] — built from the colonial side in Burkholder &
+  Johnson; the deeper colonial roots are at [[colonial-latin-america]] and
+  [[bourbon-reforms]].*
 - **The liberal export economy (later 19th c.).** Integration into global trade as a
   primary-products exporter produced new urban working and middle classes — and the
   **US ascendancy**: the **Spanish–American War (1898)** and **Platt Amendment**
@@ -85,14 +89,18 @@ emphasizing Latin Americans as world-historical actors.
 
 ## Collection Coverage Note
 
-Rests on [[mcneill-cwh-v7-2015|CWH VII Book 1]]'s single regional chapter — strong on
-the political-economic arc, thinner on discrete events (no dedicated pages yet for the
-independence wars, the Mexican or Cuban revolutions). The wiki's earlier American
-coverage was archaeological/pre-Columbian (see [[aztec-empire]], [[inca-empire]],
-[[tenochtitlan]]); this is its **first sustained post-conquest Latin American narrative**.
+Rests on [[mcneill-cwh-v7-2015|CWH VII Book 1]]'s single regional chapter for the
+modern arc, now joined by the full colonial backdrop from
+[[burkholder-johnson-colonial-latin-america|Burkholder & Johnson]] — the
+[[colonial-latin-america|colonial order]], the [[bourbon-reforms]], and a dedicated
+[[spanish-american-independence|independence]] page. Still thinner on later discrete
+events (no dedicated pages yet for the Mexican or Cuban revolutions). The wiki's
+earlier American coverage was archaeological/pre-Columbian (see [[aztec-empire]],
+[[inca-empire]], [[tenochtitlan]]); the post-conquest narrative now runs conquest →
+colony → independence → modern era.
 
 ## Related pages
 
 [[nationalism]] · [[imperialism]] · [[united-states]] · [[industrialization]] ·
 [[atlantic-revolutions]] · [[columbian-exchange-1492]] · [[long-19th-century]] ·
-[[cold-war]]
+[[cold-war]] · [[colonial-latin-america]] · [[spanish-american-independence]] · [[bourbon-reforms]]
