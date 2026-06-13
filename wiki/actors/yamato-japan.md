@@ -9,7 +9,7 @@ affiliated_with: [the Yamato court, Paekche (ally)]
 opposed_by: [the Tang-Silla alliance (defeated at the Paekchon River 663 CE)]
 key_events: [Yayoi-to-Kofun transition, introduction of Buddhism 538/552 CE, the [[taika-reform-645|Taika Reform (645)]], Battle of the Paekchon River 663 CE, building of Nara 710 CE]
 key_processes: [[[state-formation]], [[japanese-buddhism]], [[shinto]], [[east-asian-cultural-sphere|adoption of Chinese statecraft]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-13
 tags: [actor, state, late-antiquity, early-middle-ages, japan, east-asia]
 ---
@@ -87,6 +87,23 @@ sovereign and shared in choosing his successor. The decisive turn came with the
 confederation into the centralized imperial state of the [[nara-period|Nara]] and
 [[heian-period|Heian]] periods. Sacred legitimacy rested on descent from [[shinto|Amaterasu]];
 the very word for government, *matsurigoto*, meant "the business of worship."
+
+## The Korean connection (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v1-ancient|Cambridge History]] (Brown, ch. 2; Okazaki, ch. 5)
+documents how active Yamato's continental relations became in the **later fourth century**,
+driven by the demand for **iron** (for weapons and tools) and by Korean power politics.
+The emblem is the **seven-pronged sword (*shichishitō*)** preserved at Isonokami — a
+ceremonial, not military, blade forged in **Paekche in 369** and presented to a Yamato king,
+its inscription matching the *Nihon shoki* account. **Paekche**, locked in war with
+**Koguryŏ** and pressed by rising **Silla**, sought Yamato's support; Yamato sought Korean
+iron and goods. Importantly, the Cambridge authors **question the old nationalist claim**
+that Yamato ruled a colony (**Mimana/Kaya**) in southern Korea: the *Kojiki* never mentions
+Mimana, Korean sources and archaeology give little support, and the claim is now treated as
+later projection — though the contacts themselves (the sword; the 414 Kwanggaet'o stele
+mentioning a Japanese incursion of 391) are firmly attested. This continental traffic was
+the channel through which iron, [[japanese-buddhism|Buddhism]], writing, and statecraft
+reached Japan.
 
 ## Related
 

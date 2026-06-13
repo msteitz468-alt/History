@@ -8,7 +8,7 @@ region: [japan, east-asia, korea]
 process_type: [economic, demographic, cultural, technological]
 driven_by: ["introduction of paddy rice from Korea/China ~900 BCE", "migration + indigenous Jomon adaptation", "[[agricultural-origins]]"]
 produces: ["the Yayoi rice-farming society", "rapid population growth and inter-communal violence", "the Japonic language spread", "early Japanese state formation"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [process, neolithic, japan, east-asia]
 ---
@@ -111,7 +111,22 @@ populations, permanent villages, and the first **social stratification** — viv
 by the large defended Yayoi settlement excavated at **Yoshinogari** in northern Kyūshū.
 This is the substrate from which [[yamato-japan|Yamato]] and the Japanese state arose.
 
+## The Yayoi transition (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v1-ancient|Cambridge History]] (Kidder, ch. 1) adds
+archaeological depth. **Wet-rice agriculture** is traced not merely to Korea but ultimately
+to the **Yangtze delta** (the Wu/Yue region) of the temperate zone — some Japanese
+vocabulary has been linked to that area's speech — entering north Kyūshū (the threshold site
+of **Itazuke**) and spreading **up the Inland Sea** to the Kinki and Tōkai and on to the
+Kantō/Tōhoku, reaching northern Tōhoku before the period closed; the spread is dated by
+imported **Han Chinese bronze mirrors**. The hallmark of Yayoi culture was the **storage
+pot** and the raised granary (against damp and field-mice). Crucially, current excavation
+has **revised** the old view that Jōmon and Yayoi peoples occupied separate environments:
+large sites (e.g. Kusakari, Higuchi) contain **both** Jōmon and Yayoi dwellings, indicating
+coexistence and gradual transition rather than simple replacement.
+
 ## Related
 
 - [[yamato-japan]] — the polity that grew from Yayoi society.
+- [[cambridge-history-japan-v1-ancient]] — the authoritative archaeological reference.
 - [[japan]] · [[mason-caiger-history-of-japan]] — anchor and narrative spine.
