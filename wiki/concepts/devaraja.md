@@ -5,7 +5,7 @@ origin: Instituted by Jayavarman II of the Khmer Empire (802 CE); rooted in Indi
 applies_to_periods: [Early Middle Ages, High Middle Ages]
 applies_to_regions: [southeast-asia]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -43,7 +43,10 @@ the later turn to **Theravada Buddhism**, which had no place for a temple-buildi
 
 The devaraja is the classic case of [[indianization-of-southeast-asia|Indianized]] kingship and a key
 to why Angkor built on such a scale — comparable to other sacral-kingship systems (pharaonic Egypt,
-the Mesoamerican god-kings) that Coe, as a comparativist, has in view. Its **precise meaning is
+the Mesoamerican god-kings) that Coe, as a comparativist, has in view. It is also the high Angkorian
+form of what Geertz later generalised as the [[theatre-state|theatre state]] — kingship as cosmic
+spectacle, the monument as the very act of rule — the model Reid extends to the courts of the
+[[southeast-asian-age-of-commerce|age of commerce]]. Its **precise meaning is
 debated**: older scholarship (Cœdès) read it as the literal worship of a royal *linga* identifying
 king and god; later scholars (Kulke) argue the term referred more narrowly to a portable image or a
 specific state cult, and caution against over-reading the inscriptions. Either way it names the

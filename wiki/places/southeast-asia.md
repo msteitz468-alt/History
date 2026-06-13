@@ -104,6 +104,23 @@ mainland (Burma, Siam, Cambodia, Laos) and **Islam** in the archipelago (carried
 Muslim traders), followed by **European** intrusion (Portuguese, Dutch, Spanish, French, British) and
 the colonial and Cold-War twentieth century.
 
+## Festivals, play, and the theatre state (Reid)
+
+A mild climate and a dependable rice-fish-fruit diet, Reid suggests, gave Southeast Asians unusual
+**time for leisure** — though for them festival and ritual were less "free time" than a **social
+obligation** as weighty as work (Thai and Malay used the everyday word for *work* to describe ritual
+participation). Public cultural life was largely **orchestrated by the court** as a
+[[theatre-state|theatre state]] (Geertz's "exemplary centre"): vast processions of gilded elephants and
+*naga*-prowed royal galleys at coronations, funerals, the great Islamic and Buddhist feasts, and the
+monsoon's "sending away of the waters" displayed the ruler as the cosmic fulcrum and — paradoxically —
+the disciplined unity the [[debt-bondage-in-southeast-asia|loosely-structured polity]] otherwise lacked.
+Popular play carried the same charge: **cockfighting** (exclusively male, ringed by status-laden
+betting), kite-flying, top- and nut-contests, dice, cards, and chess were vehicles of gambling through
+which status and debt were negotiated. The world religions disapproved (Theravada of bloodshed,
+Confucianism and Islam of gambling), but rulers rarely suppressed the cockfight. Crucially, these
+festivals **reinforced hierarchy** rather than inverting it — there was little of the role-reversal of
+European carnival.
+
 ## Why this region mattered
 
 Southeast Asia was the **hinge of Afro-Eurasian maritime trade** (spices above all), a zone of
@@ -122,5 +139,5 @@ beyond the Khmer to the archipelago, Burma, Siam, and Vietnam.
 
 [[khmer-empire]] · [[funan]] · [[angkor]] · [[indianization-of-southeast-asia]] · [[indian-ocean-trade]] ·
 [[southeast-asian-age-of-commerce]] · [[women-in-precolonial-southeast-asia]] ·
-[[debt-bondage-in-southeast-asia]] · [[hinduism]] · [[buddhism]] ·
+[[debt-bondage-in-southeast-asia]] · [[theatre-state]] · [[hinduism]] · [[buddhism]] ·
 [[coe-angkor-khmer-civilization-2018]] · [[reid-southeast-asia-age-of-commerce-v1-1988]]
