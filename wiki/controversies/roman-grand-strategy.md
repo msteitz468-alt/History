@@ -67,4 +67,8 @@ unsettled strand.
   ([[marcomannic-wars-166-180]], [[dacian-wars-101-106]], [[trajans-parthian-war-114-117]])
 - `contrasts_with:` modern fixed national borders; cf. the limits set after
   [[battle-of-teutoburg-forest-9ce|Teutoburg]]
-- Source: [[bowman-cah-v11-2000]] (Ch. 8, C. R. Whittaker)
+- A key test case for the broader concept of [[strategy]] and the comparative
+  [[strategic-practice-across-civilizations|practice of strategy across civilizations]]:
+  the *Cambridge History of Strategy* adopts Kagan's "objectives + priorities + resource
+  allocation" test, on which even pre-modern empires can be said to practise strategy.
+- Source: [[bowman-cah-v11-2000]] (Ch. 8, C. R. Whittaker); [[cambridge-history-of-strategy-v1]]
