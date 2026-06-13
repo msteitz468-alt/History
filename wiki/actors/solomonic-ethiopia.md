@@ -9,7 +9,7 @@ affiliated_with: [the Ethiopian Orthodox (Täwahedo) Church, the Coptic Patriarc
 opposed_by: [the Muslim sultanates of Ifat and Adal, the Ottoman-backed Adalite jihad, later the Oromo migrations]
 key_events: [the rock-hewn churches of Lalibela (Zagwe), the Solomonid restoration under Yekuno Amlak (1270), the conquests of Amda Seyon (r. 1314–44), the reign of Zara Yaqob (r. 1434–68), the Adalite jihad of Ahmad Gran (1529–43)]
 key_processes: [[[christianization]], state-formation, the Christian–Muslim frontier]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, late-middle-ages, horn-of-africa]
 ---
@@ -73,6 +73,14 @@ the empire (and died resisting a British punitive expedition at Magdala, 1868); 
 it while fending off Egyptian and Mahdist invasions; and **Menelik II** completed it, expanding the empire
 to its modern bounds — setting the stage for Ethiopia's defeat of Italy at **Adwa (1896)**, the one African
 state to defeat the [[scramble-for-africa|Scramble]] (see [[imperialism]]).
+
+**[[gha-vol7-colonial-1880-1935|GHA Vol. VII]]** (chs. 10, 25) then treats Ethiopia, with
+**[[liberia|Liberia]]**, as one of the **two African states that survived the colonial era independent** —
+through Adwa and adroit diplomacy — and its modernization under **Haile Selassie**, until the **Fascist
+Italian invasion of 1935** under Mussolini (poison gas, the occupation of 1936–41) extinguished that
+independence until liberation in 1941. The 1935 assault on Africa's great symbol of independence was a
+galvanizing shock for [[pan-africanism|Pan-Africanism]] and [[african-nationalism|African nationalism]]
+worldwide.
 
 ## Related pages
 

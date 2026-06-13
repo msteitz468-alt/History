@@ -59,6 +59,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. VI (19th c.) | Section: The 19th-c. setting & abolition (chs. 1–4) | Pages created: 0 | Pages updated: 1 | (atlantic-slave-trade — abolition & legitimate commerce)
 
+## 2026-06-12 section | GHA Vol. VII (colonial 1880–1935) | Section: Ethiopia & Liberia 1914–35; conclusion (ch. 25 + concl.) | Pages created: 0 | Pages updated: 1 | (solomonic-ethiopia — the two surviving states, the 1935 Italian invasion)
+
 ## 2026-06-12 section | GHA Vol. VII (colonial 1880–1935) | Section: Politics & nationalism, 1919–35 (chs. 19–24) | Pages created: 2 | Pages updated: 0 | (african-nationalism, pan-africanism)
 
 ## 2026-06-12 section | GHA Vol. VII (colonial 1880–1935) | Section: Colonial society & religion (chs. 16–18) | Pages created: 1 | Pages updated: 0 | (colonial-rule-in-africa)
