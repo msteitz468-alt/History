@@ -8,7 +8,7 @@ region: [global, africa, south-asia, southeast-asia, near-east, east-asia, carib
 process_type: [political, ideological]
 driven_by: [anti-imperial [[nationalism]], the discrediting of Europe's "civilizing mission" by the world wars, socialist and self-determination ideologies, the economic exhaustion of the imperial powers, the Cold War]
 produces: [the global triumph of the nation state, the post-colonial world, Third World non-alignment, persistent post-colonial inequalities and conflicts]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-12
 tags: [process, cold-war, world-wars-era, global]
 ---
@@ -148,6 +148,19 @@ political kingdom**" (Nkrumah's adaptation of the Gospel — win political power
   murder of [[decolonization|Lumumba]]) — already covered above.
 
 By the mid-1960s most of Africa was independent; the settler south remained the long final frontier.
+
+## The Arab experience (Rogan)
+
+Eugene Rogan's [[rogan-the-arabs|*The Arabs*]] frames Arab decolonization as the end of the
+**European-colonial era** and the start of the **Cold War era** — independence often "in name
+alone." Egypt's nominal independence (1922) reserved British control of the
+[[arab-israeli-conflict|Suez Canal]] and Sudan; the French and British **mandates**
+([[colonial-partition-of-the-arab-world|Syria, Lebanon, Iraq, Palestine, Transjordan]]) ended
+between the 1930s and 1940s; and **Algeria** won independence only after a savage war
+(1954–62). Real sovereignty came with the post-war revolutionary leaders, above all
+[[gamal-abdel-nasser|Nasser]], whose nationalization of Suez (1956) symbolized the Arab bid to
+escape foreign "rules" — though, Rogan argues, the Cold War superpowers and (later) US
+dominance perpetuated the subordination that formal independence did not end.
 
 ## Related pages
 

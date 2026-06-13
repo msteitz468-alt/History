@@ -2331,3 +2331,6 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 ingest | Lord Kinross, The Ottoman Centuries (targeted) | Late Middle Ages, Early Modern | anatolia/balkans/near-east | Pages created: 1 | Pages updated: 2
 
 ## 2026-06-13 section | Rogan, The Arabs | Section: The Ottoman & colonial Arab world (Intro + chs 1–8) | Pages created: 2 | Pages updated: 3
+
+## 2026-06-13 section | Rogan, The Arabs | Section: The independent Arab world (chs 9–14 + epilogue) | Pages created: 3 | Pages updated: 1
+## 2026-06-13 ingest-complete | Eugene Rogan, The Arabs: A History | Total pages created: 5 | Total pages updated: 4 | Sections processed: 2 | CLOSES PHASE C (OTTOMAN/ARAB)

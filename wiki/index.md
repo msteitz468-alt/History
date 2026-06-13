@@ -34,6 +34,8 @@ Last updated: 2026-06-12 (**Anthony Reid — *Southeast Asia in the Age of Comme
 
 Last updated: 2026-06-12 (**Michael D. Coe — *Angkor and the Khmer Civilization*** (Thames & Hudson, 2003) — INGEST COMPLETE (Large-Volume, 3 cycles + synthesis). The wiki's **first dedicated Southeast Asian source**, opening the long-flagged SE Asia gap (Gap 3). Created 5: **[[khmer-empire]]** (Angkor, 802–1431), **[[angkor]]** *(enriched existing)*, **[[jayavarman-vii]]**, **[[funan]]** (the pre-Angkorian Funan/Zhenla states), **[[devaraja]]** (the god-king cult), and the **[[southeast-asia]]** regional anchor. Enriched **[[indianization-of-southeast-asia]]** (the Khmer close-up: Oc Eo, the Zhenla temples), **[[angkor]]** (Coe's monuments — Angkor Wat, the Bayon, Zhou Daguan), **[[mahayana-buddhism]]** & **[[hinduism]]** (the Khmer state cults). Filed to `raw/3. Middle Ages/`. **Begins the Southeast Asia leg of Gap 3; the archipelago, Burma, Siam & Vietnam remain (Reid, Cambridge History of SE Asia next).**)
 
+Last updated: 2026-06-13 (**Eugene Rogan, *The Arabs: A History*** (2009) — INGEST COMPLETE (Large-Volume, 2 cycles + synthesis). **Closes Phase C** — the spine for the **modern Arab world**, the wiki's thinnest region after the medieval Islamic centuries. Created 5: **[[arab-nationalism]]** (the *nahda* → Arabism; the pan-Arab/nation-state tension), **[[colonial-partition-of-the-arab-world]]** (the partition of North Africa; the WWI "three promises" — Husayn–McMahon, Sykes–Picot, Balfour — the Arab Revolt & the mandates), **[[arab-israeli-conflict]]** (the Nakba 1948 → the wars; the engine of ideological change), **[[gamal-abdel-nasser]]** (the Free Officers, Suez, pan-Arabism, the 1967 fall), **[[political-islam]]** (al-Banna's Brotherhood → Qutb → the post-1967/1979 rise). Deepened **[[middle-east-modern]]** (Rogan's thesis), **[[decolonization]]**, **[[eastern-question]]**, **[[ottoman-empire]]**. Theme (Rogan): modern Arab history is the Arabs living "by the rules set by the dominant powers" (Ottoman → colonial → Cold War → US/globalization) and striving to escape them — the "Arab malaise" tempered by Arab agency. **Phase C (Ottoman / post-1500 Islamic world) complete.** Filed to `raw/4. Modern Times/`.)
+
 Last updated: 2026-06-13 (**Lord Kinross, *The Ottoman Centuries: The Rise and Fall of the Turkish Empire*** (1977) — INGEST COMPLETE (targeted). A classic single-volume Ottoman narrative; with the spine already built by Imber/Finkel/Mikhail, it was mined for the **clearest remaining gap** plus enrichment. Created **[[mehmed-ii]]** ("the Conqueror"/*Fatih* — the sultan who took Constantinople 1453 and made the Ottomans an imperial power claiming the inheritance of Rome & Byzantium: *Kaisar-i-Rûm*, the rebuilding of Istanbul, the Greek Orthodox Patriarchate & *millet* order, religious tolerance + political ruthlessness, the conquest-state). Deepened **[[fall-of-constantinople-1453]]** (Mehmed & the new Rome) and **[[ottoman-empire]]**. Filed to `raw/4. Modern Times/`.)
 
 Last updated: 2026-06-13 (**Alan Mikhail, *God's Shadow: The Ottoman Sultan Who Shaped the Modern World*** (2020) — INGEST COMPLETE (single-pass). An argumentative biography of **[[selim-i|Selim I]]** that doubles as a revisionist world history. Created **[[ottoman-impact-on-european-expansion]]** (controversy — Mikhail's bold thesis that fear of the Ottomans drove European overseas expansion and that the Ottomans "made the modern world," vs. the skeptical/multicausal view). Deepened **[[selim-i]]** (the fuller biography — the unlikely fratricidal rise, "God's Shadow"/most-influential-sultan thesis, the majority-Muslim empire & the caliphate), **[[columbian-exchange-1492]]** and **[[reconquista]]** (Mikhail's contested "Columbus as crusader" / Ottomans-drove-1492 reframing). Theme (Mikhail): Islam and the Ottomans belong at the center of early-modern world history, not the margins — a welcome corrective whose boldest causal claims are debated. A Phase C source complementing Imber (structure) and Finkel (narrative). Filed to `raw/3. Middle Ages/`.)
@@ -498,14 +500,14 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 | Category | Pages |
 |---|---|
 | Periods | 33 |
-| Events | 237 |
-| Processes | 150 |
-| Actors | 537 |
+| Events | 238 |
+| Processes | 152 |
+| Actors | 538 |
 | Places | 121 |
-| Concepts | 290 |
+| Concepts | 291 |
 | Comparisons | 1 |
 | Controversies | 53 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 142 |
-| **Total** | **1564** |
+| Sources | 143 |
+| **Total** | **1570** |
