@@ -9,7 +9,7 @@ affiliated_with: [[[trans-saharan-trade]], [[islam]], "the Mande/Mandinka (Mandi
 opposed_by: [[[ghana-empire|the declining Ghana/Wagadu]], "the Sosso kingdom", "the Mossi", "later Songhay and Tuareg"]
 key_events: ["the battle of Kirina (c. 1235)", "Mansa Musa's pilgrimage to Mecca (1324)"]
 key_processes: [[[trans-saharan-trade]], [[state-formation]], [[islam]], [[afro-eurasian-world-system]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [actor, empire, high-middle-ages, late-middle-ages, west-africa]
 ---
@@ -95,6 +95,30 @@ later fourteenth century: **succession disputes**, the loss of **Timbuktu to the
 raids from the south, and above all the **rise of [[songhay-empire|Songhay]]**, which stripped away Mali's
 eastern provinces and cities. Mali contracted to a western Mande rump, fading by c. 1600 — the gold-empire
 torch passing to Gao.
+
+## The Ibn Khaldun chronicle and why Mali endured (Ajayi & Crowder / Levtzion)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (Nehemia
+Levtzion, Ch. 4) supplies the **documentary spine** that complements the Sunjata epic:
+from **Sundiata** (= Mari-Djata of the Arabic sources) onward, **Ibn Khaldun** preserves a
+detailed dynastic chronicle — Mansa Uli (pilgrim under Baybars), the freed-slave usurper
+**Sakura**, **[[mansa-musa|Mansa Musa]]** (1312–37) and his brother **Sulayman** (whose court
+Ibn Battuta visited in 1352–3), and a recurring **dynastic cycle** in which a generation of
+able kings is followed by weak ones, the throne alternating between the lines of Mari-Djata and
+his brother Abu-Bakr, with powerful **court officials** repeatedly restoring the state. Levtzion
+notes the intermediate kingdom of **Sosso** under Sumanguru Kante between Ghana and Mali, and
+the gradual **southward shift of the political centre of gravity** from the Sahil into the
+savannah.
+
+His sharpest comparative argument explains Mali's **longevity**: alone among the great Sudanic
+empires, Mali's capital and power-base lay **south of the Sahil**, in the Malinke savannah — so
+it could rise while Sosso still flourished and **survive its own successor, Songhay**, by more
+than two centuries. **Ghana and Songhay**, with their centres in the contested Sahil, were each
+destroyed suddenly **by powers from the north** (the [[almoravids|Almoravids]] and the
+[[moroccan-invasion-of-songhay-1591|Moroccans]]); Mali declined only **gradually**, and was
+finally eliminated not by an outside conqueror but by the rise of a **local** Sudanese power,
+the Bambara. Levtzion also details the empire's reliance on **slave villages, slave soldiers
+and slave officials** (the crown the largest slaveholder) — a structure inherited by Songhay.
 
 ## Related
 

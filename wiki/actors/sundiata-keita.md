@@ -9,7 +9,7 @@ affiliated_with: [the Keita lineage, the Mande/Mandinka clans, [[mali-empire|Mal
 opposed_by: [Soumaoro Kanté (Sumanguru), king of Sosso]
 key_events: [the Battle of Krina/Kirina (c. 1235), the assembly of Kurukan Fuga]
 key_processes: [[[state-formation]], [[trans-saharan-trade]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, person, high-middle-ages, west-africa]
 ---
@@ -40,6 +40,19 @@ agreed a division of offices, lands and rights among the lineages — a charter 
 constitution") that the Mande remember as the foundation of their social order. He established the capital
 at **Niani**, took control of the gold-and-salt arteries of the [[trans-saharan-trade|trans-Saharan
 trade]], and founded the **Keita dynasty** that would culminate in [[mansa-musa|Mansa Musa]].
+
+## The documentary cross-check (Ajayi & Crowder / Levtzion)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (Levtzion, Ch. 4)
+supplies the crucial point that **Sundiata is not only a legend**: the **Mari-Djata** who opens
+Ibn Khaldun's chronicle of the kings of Mali — the great king who "overcame the Sosso, conquered
+their land and wrested power from their hands" — should "undoubtedly be identified with the
+Sundjata of the oral traditions." Whereas the authenticity of the *pre*-Sundiata Keita kings
+cannot be established, **from Sundiata onward the dynasty is documented**. The intermediate
+**Sosso** kingdom under **Sumanguru Kante**, absent from every other Arabic source, is likewise
+known only through oral tradition but fits the documented sequence (Ghana → Sosso → Mali). Sundiata
+is thus a rare case where the [[griot-oral-tradition|griot tradition]] and the external written
+record **converge** on the same historical figure.
 
 ## Significance
 

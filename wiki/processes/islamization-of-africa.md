@@ -8,7 +8,7 @@ region: [north-africa, west-africa, east-africa, sahara, sub-saharan-africa, hor
 process_type: [religious, cultural, economic]
 driven_by: [the Arab conquests, trans-Saharan and Indian Ocean trade, the social and fiscal advantages of conversion, Sufi and merchant missionary activity, Berber religious movements]
 produces: [a Muslim North Africa, Islamized Sahel trading states, the Swahili Muslim coast, Arabic literacy and law in Africa, a lasting Christian–Muslim frontier]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [process, early-middle-ages, north-africa, west-africa, east-africa]
 ---
@@ -50,6 +50,29 @@ The volume distinguishes the routes by which Islam entered the continent:
 3. **The East African coast — the Indian Ocean.** Muslim traders from Arabia and the Gulf settling along
    the **[[swahili-coast|Swahili coast]]** and the Comoros seeded the Islamic, Kiswahili-speaking merchant
    civilization that would define the coast.
+
+## The Sudanic pattern in detail (Ajayi & Crowder)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (Levtzion, Ch. 4;
+H.F.C. Smith, Ch. 5) gives the Sahelian channel its sharpest formulation. Islam in the Western
+Sudan ran along a clear **social gradient**: the Muslim North-African traders converted, first,
+**other traders** and the **rulers** who controlled the trade — "for a long time it was limited to
+these two influential elements" — while it "left little impression among the stateless peoples or
+the commoners." Islam thus functioned both as an **external force** (the [[almoravids|Almoravid]]
+jihad) and as an **internal factor of cohesion or disintegration** within the Sudanic states.
+Levtzion's organising triad — **trade, states, and Islam** — captures the feedback: commerce
+carried the faith, the faith furnished literate administrators and diplomatic ties, and both
+strengthened the states.
+
+The **earliest** Sudanic Muslim courts were in the far west and the Niger bend, **not** the
+better-known later centres: **[[takrur|Takrur]]** (War-Djabi, d. 1040–41) Islamised even its
+common people early, while the king of **Gao (Kawkaw)** was already Muslim by 985 (al-Mahallabi) —
+arguably the first major Sudanese ruler to convert. Conversion was often **superficial and
+syncretic** at first: al-Bakri describes Muslim kings "hedged by traditional non-Muslim
+ceremonial," and in [[kanem-bornu|Kanem]] the **divine-kingship** ritual seclusion of the *mai*
+persisted long after the dynasty's official conversion. Smith uses both Kanem and Hausaland to
+**reject the [[hamitic-hypothesis-african-states|Hamitic Hypothesis]]** that Islam and statehood
+alike were imported by lighter-skinned northerners.
 
 ## Consequences
 

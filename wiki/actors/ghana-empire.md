@@ -9,7 +9,7 @@ affiliated_with: [the Soninke people; North African Muslim merchants resident at
 opposed_by: [the [[trans-saharan-trade|Almoravids]] (11th c.); rival Sahelian states]
 key_events: [emergence as a powerful kingdom by c. 800 CE, control of the Sahelian gold-salt trade, the double-city of Kumbi Saleh, conversion of the ruling class to Islam (11th c.)]
 key_processes: [[[trans-saharan-trade]], [[empire]], [[islamization-of-africa]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [actor, empire, early-middle-ages, west-africa]
 ---
@@ -65,6 +65,31 @@ the nearby trade city of **[[jenne-jeno|Jenne-jeno]]** reveals a *heterarchical*
 non-despotic, "self-organizing" urbanism (Roderick McIntosh) without kings or
 monumental power-symbols, a distinctively West African path that complicates older
 state-centric models of how trade cities arise.
+
+## The Wagadu legend and al-Bakri's portrait (Ajayi & Crowder / Levtzion)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (Nehemia
+Levtzion, Ch. 4) frames Ghana within his organising triad of **trade, states, and Islam**
+and reconciles the **oral** and **documentary** traditions. The Soninke tell of **Wagadu**,
+a kingdom enriched by a guardian **snake (Bida)** to whom a virgin was sacrificed annually;
+when the snake was killed, the curse brought desiccation and the gold migrated to **Bure** —
+a legend Levtzion reads as a memory of the kingdom and of the eastward/southward shift of the
+goldfields. The seventeenth-century Timbuktu chronicles (*Ta'rikh al-Fattash*, *Ta'rikh
+al-Sudan*) call the same realm **Kaya-Magha** ("king of gold"), with its capital at Kumbi.
+Against this, **al-Bakri's 1067–8 description** (the high point of the documentary record)
+gives the concrete detail: the king Tunka Manin, **matrilineal succession** ("a king is
+succeeded only by his sister's son" — perhaps a Berber influence), the royal monopoly on gold
+**nuggets** (only gold *dust* left to the people, lest the price collapse), taxes on imported
+salt and exported gold, and the twin towns of the capital.
+
+**On the Almoravid conquest** Levtzion (1971) presents the **conquest of Ghana in 1076–7** as
+historical — the outcome of long Sanhaja–Soninke tension, achieved by Abu-Bakr b. 'Umar after
+the [[almoravids|Almoravid]] movement split, and a blow that "destroyed the power of Ghana,
+contributed to the Islamisation of the Soninke, and accelerated their dispersion," though
+Almoravid domination of the Sudan was brief. *[CONTRADICTION]* — this is the older view; the
+later **GHA III** scholarship on this page treats the conquest as **overstated**, stressing
+gradual commercial Islamisation and trade-route shifts over a single military conquest. The
+wiki preserves both: the dispute is itself part of the historiography of Ghana's decline.
 
 ## Significance
 

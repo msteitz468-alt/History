@@ -9,8 +9,8 @@ affiliated_with: [[[mali-empire]], [[islam]], [[trans-saharan-trade]]]
 opposed_by: []
 key_events: ["accession to the Mali throne (c. 1312)", "the pilgrimage to Mecca (1324)"]
 key_processes: [[[trans-saharan-trade]], [[islam]], [[afro-eurasian-world-system]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [actor, person, late-middle-ages, west-africa]
 ---
 
@@ -35,6 +35,20 @@ architects, and books back to the empire, and strengthened Mali's ties to the
 broader *dar al-Islam*. It is the principal reason Musa entered European geographic
 knowledge: the **Catalan Atlas of 1375** depicts him enthroned, crowned, and holding
 a golden nugget — "the richest and most noble king" of the lands of the Black gold.
+
+## In the dynastic chronicle (Ajayi & Crowder / Levtzion)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (Levtzion, Ch. 4)
+places Musa (also **Gongo Musa**, after his mother) within Ibn Khaldun's dynastic chronicle: he
+belonged to the **collateral branch of Abu-Bakr** (Sundiata's brother), and his accession
+"infused new life" into a kingship weakened by the failures of Mari-Djata's direct line. Levtzion
+notes that he secured the succession for his own son Magha by depriving his brother **Sulayman**,
+causing later strife; that he opened **diplomatic relations with the Marinid sultans of Morocco**
+(embassies exchanged under both Musa and Sulayman); and that his fame entered Europe earlier than
+the famous 1375 Catalan Atlas — already on **Angelino Dulcert's map of 1339** ("Rex Melly"). A
+striking detail of the **oral** tradition, by contrast: the griots **belittle Musa** beside their
+god-hero Sundiata — the inverse of his towering reputation in the Arabic sources, a neat
+illustration of how emic and etic memory diverge (see [[griot-oral-tradition]]).
 
 ## Significance
 

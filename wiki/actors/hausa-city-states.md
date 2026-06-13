@@ -8,8 +8,8 @@ region: [west-africa]
 affiliated_with: [the Hausa people, Islam (from the 14th c.), the trans-Saharan and Sudanic trade]
 opposed_by: [Songhay, Kanem-Bornu (intermittent overlords), the Jukun/Kwararafa, later the Fulani jihad]
 key_events: [the legendary Bayajidda/Daura origin, the Islamization of Kano (14th c.), Kano–Katsina rivalry, the Fulani jihad (1804–08)]
-key_processes: [[[trans-saharan-trade]], [[islamization-of-africa]], state-formation, urbanism]
-sources_ingested: 3
+key_processes: [[[trans-saharan-trade]], [[islamization-of-africa]], [[state-formation]], urbanism]
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, west-africa]
 ---
@@ -46,6 +46,26 @@ under its ***sarki*** (king) and walled for defence. Their wealth rested on:
 
 The states were chronically **disunited**, frequently warring with one another and intermittently tributary
 to Songhay, Kanem-Bornu, or the Jukun of Kwararafa — a disunity that left them vulnerable.
+
+## The *birni* and the birth of the Hausa state (Ajayi & Crowder / H.F.C. Smith)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (H. F. C. Smith,
+Ch. 5) reads the rise of the Hausa states as a textbook case of **[[state-formation|state
+formation]] out of a [[stateless-societies|stateless]] society**: the replacement of authority
+based on **kinship** by authority based on **control of territory**, and of many tiny independent
+units by a few large centralised ones. The engine was the ***birni*** — the **walled,
+cosmopolitan city**, distinguished from the ordinary *gari* by three features: it was peopled by
+**immigrants of diverse origins lacking kinship ties** (drawn by fertile land, iron, *iskoki*
+shrines, or converging trade routes — Kano sits amid the best farmland and easily worked
+iron-stone); it was **always fortified**, its walls enclosing farmland and sheltering the
+surrounding countryside (hence a centre of power reaching far beyond the city); and it was the
+seat of a **new kind of ruler**, the ***sarki***, styled not "king of the city" but ***sarkin
+kasa***, "king of the country." Smith stresses the government was **feudal**, not a simple
+hereditary autocracy: the sarki's power rested on the service (*barance*) of **fief-holding
+officials** (*masu sarauta*), rewarded with territory in return for military and administrative
+support — a delicate balance between king and fief-holders. As in his treatment of Kanem, Smith
+uses the Hausa case to **reject the [[hamitic-hypothesis-african-states|Hamitic Hypothesis]]**:
+the states grew indigenously from the urban revolution, not from foreign conquest.
 
 ## Significance and end
 

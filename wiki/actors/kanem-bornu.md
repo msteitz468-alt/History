@@ -9,7 +9,7 @@ affiliated_with: [the Zaghawa/Kanembu, the Sefuwa (Sayfawa) dynasty, Islam, the 
 opposed_by: [the Sao peoples, the Bulala, later Bornu's rivals]
 key_events: [the founding of the Sefuwa dynasty, the conversion of Mai Umme (late 11th c.), the shift of the capital from Kanem to Bornu (14th–15th c.), the apogee under Mai Idris Alooma (late 16th c.)]
 key_processes: [[[trans-saharan-trade]], [[islamization-of-africa]], [[empire]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, empire, early-middle-ages, west-africa]
 ---
@@ -47,6 +47,33 @@ Pressure from the rival **Bulala** drove the Sefuwa in the 14th–15th centuries
 reached its apogee under **Mai Idris Alooma** (late 16th c.), who imported firearms and Turkish military
 advisers — a rare sub-Saharan power engaging the gunpowder age — before a long decline ended the Sefuwa
 line in 1846.
+
+## Forging the Kanuri, the first empire, and the flight to Bornu (Ajayi & Crowder / H.F.C. Smith)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (H. F. C. Smith,
+Ch. 5) gives the fullest pre-1500 reconstruction. The **Kanuri people** were *forged*, not
+inherited: the **Sefawa** (Sayfawa), ruling the Magumi nomads, welded a set of Teda-Daza-speaking
+groups (Kayi, Tomagra, Tubu, Ngalaga…) into one nation in the first millennium CE — and the
+kinglists show the mechanism was a **deliberate policy of intertribal marriage**, with the
+maiship descending through the non-Magumi mothers, giving every constituent group a stake in the
+dynasty. The legend credits an Arab hero, **Sayf b. Dhi Yazan**; **divine kingship** (the king
+never seen eating; the sacred object **mune**) was probably borrowed from settled peoples and
+reinforced the unity. Smith **rejects the [[hamitic-hypothesis-african-states|Hamitic
+Hypothesis]]** for Kanem outright: the Magumi were not Berber invaders but **negroid
+Nilo-Saharan nomads** of the south-central Sahara, and the diffusionist story cannot even explain
+how segmentary nomads produced the centralised Sefawa monarchy.
+
+The **first Kanuri empire** peaked under **Mai Dunama Dibbalemi** (mid-13th c.), who controlled
+the **Fezzan** (a governor installed at Traghan, 800 miles north of the capital Njimi), fielded
+tens of thousands of horse, founded a *madrasa* for Kanuri students in Cairo — and, by destroying
+the sacred **mune**, may have triggered the political crisis that followed. A long **"time of
+troubles"** ensued: the **Bulala wars** of the later 14th century killed mai after mai and finally
+forced **Mai 'Umar b. Idris to abandon Kanem for Bornu**, west of the lake — after which, the
+*girgam* records, "none of our rulers ever returned to Kanem." Decades of dynastic chaos (rival
+Idrisid and Dawudid lines; nine mais in twenty years) ended only with **'Ali Gaji** (late 15th
+c.), remembered as one of the three greatest Sefawa rulers and the consolidator of the **Bornu**
+state. Smith also traces here the origins of Bornu's **feudal fief system** (the *cima*, "master
+of the frontier") and its court titulature.
 
 ## Significance
 

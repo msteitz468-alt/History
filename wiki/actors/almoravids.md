@@ -9,7 +9,7 @@ affiliated_with: ["the Sanhaja Berber confederation", "the Maliki ulama of Moroc
 opposed_by: [[[christian-kingdoms-of-spain|León-Castile]], [[el-cid|El Cid]], [[almohads|the Almohads]]]
 key_events: ["Battle of Sagrajas/Zallaqa (1086)", "the annexation of the taifa kingdoms", "the founding of Marrakesh (c. 1070)"]
 key_processes: [[[reconquista]], [[islamization-of-africa]], [[trans-saharan-trade]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, dynasty, high-middle-ages, north-africa, iberia]
 ---
@@ -59,6 +59,26 @@ jurists, the persecution of Christians and Jews that drove some — including th
 philosopher families — into exile or flight), and their power in Morocco was destroyed
 by the rising **[[almohads|Almohad]]** movement, which took Marrakesh in **1147**. A
 second taifa period briefly followed in Spain before the Almohads crossed in their turn.
+
+## The Saharan birth and the southern front (Ajayi & Crowder / Levtzion)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (Levtzion, Ch. 4)
+supplies the **Sudanic** half of the story, which the Iberian narrative usually omits. The
+movement began with the Juddala chief **Yahya b. Ibrahim**, who, returning from Mecca via
+Qairawan and dismayed at the superficial Islam of the Saharan **Sanhaja**, brought back the
+jurist **'Abdallah ibn Yasin** to teach the desert tribes. From a *ribat*-like base 'Abdallah
+welded the **Lamtuna, Juddala and Masufa** into the *al-Murabitun*, who set out to control both
+termini of the western trans-Saharan trade — taking **Sijilmasa** in the north and recapturing
+the Berber emporium of **Awdaghost** (1054–5) in the south. The movement then **split**: Yusuf b.
+Tashfin built the empire in Morocco and Spain, while **Abu-Bakr b. 'Umar** turned south and
+**conquered [[ghana-empire|Ghana]] in 1076–7**, a campaign Levtzion treats as historical — it
+"destroyed the power of Ghana, contributed to the Islamisation of the Soninke, and accelerated
+their dispersion." (Later scholarship, recorded on the [[ghana-empire|Ghana page]], disputes how
+"conquest"-like this was.) The southern adventure ultimately **weakened the Sanhaja** themselves:
+their best contingents drained off to Morocco and Spain, leaving the desert tribes exposed to the
+later **Banu Hassan** Arab invasion — survivors retreating into the *zawaya* learning-centres
+that became the clerical **Marabout** clans. The Almoravids' Sudanic role allied them with the
+Muslim kingdom of **[[takrur|Takrur]]** against pagan Ghana.
 
 ## Significance
 

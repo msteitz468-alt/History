@@ -9,7 +9,7 @@ affiliated_with: [[[trans-saharan-trade]], [[islam]], "the Songhay people", "the
 opposed_by: [[[mali-empire|Mali]], "the Mossi", "the Tuareg", "Saadian Morocco"]
 key_events: ["the rise of the kingdom of Gao", "expansion into an empire from the late 15th century", "the Moroccan conquest (1591)"]
 key_processes: [[[trans-saharan-trade]], [[state-formation]], [[islamization-of-africa]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, empire, late-middle-ages, west-africa]
 ---
@@ -60,7 +60,29 @@ savanna and its integration, via the Sahara, into the
 [[afro-eurasian-world-system|hemispheric economy]] — until gunpowder and the Atlantic
 reorientation of trade ended its world.
 
-## Related
+## Origins and the 16th-century apogee (Ajayi & Crowder / Levtzion & Hunwick)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] supplies both
+ends of the Songhay story. **Levtzion (Ch. 4)** on the deep origins: the Songhay were a
+*heterogeneous* river people — dominant **Sorko fishermen**, with **Gow hunters** and **Do
+farmers** — whose mobility on the Niger (the war-fleet was decisive) drove both their dispersion
+and their later imperial reach. Their first dynasty, the **Dya**, was founded (per the
+dragon-killer myth) at **Kukiya**, with **Gao (Kawkaw)** emerging in the 8th century as the
+trans-Saharan terminus; al-Mahallabi (985) describes a **Muslim king of Kawkaw**, making the
+ruler of Gao arguably the **first major Sudanese ruler to adopt Islam**, even before
+[[takrur|Takrur]]. After a period under Mali, **'Ali Kolon** founded the **Sonni** dynasty
+(c. 1275); **Sonni 'Ali the Great** (1464–92) then took the already-independent Timbuktu (1469)
+and Jenne (1473), and **Askia Muhammad** (1493–1528) expanded at Mali's expense.
+
+**Hunwick (Ch. 6)** on the 16th-century apogee: Askia Muhammad's elaborate administration (the
+*fari-mundyo*, *hi-koi* master of the fleet, *korei-farima* for Arab/Berber traders, Muslim
+*qadis*), his **1496–98 pilgrimage** and investiture by the 'Abbasid caliph as **deputy over
+"the lands of Takrur"** (the ideological frame for his jihads, encouraged by **al-Maghili**),
+and the long golden reign of **Askia Dawud** (1549–82). The fatal weakness was the **nepotic
+succession system** (key offices redistributed among the askia's brothers each reign) and the
+salt-tax dispute with Morocco over **Taghaza**, which gave Ahmad al-Mansur his pretext — ending
+in the [[moroccan-invasion-of-songhay-1591|Moroccan invasion and the rout at Tondibi (1591)]],
+after which the askias survived only as a minor state in **Dendi**.
 
 ## GHA IV: Sonni Ali and the Askias
 

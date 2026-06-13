@@ -8,7 +8,7 @@ region: [north-africa, sub-saharan-africa, west-africa, transregional]
 process_type: economic
 driven_by: [the domesticated camel, demand for Sudanic gold and slaves, demand for Saharan salt, the unifying spread of Islam]
 produces: [the integration of North and sub-Saharan Africa, the wealth of [[ghana-empire|Ghana]] and the Sudanic empires, the "birth of Afro-Eurasia"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [process, north-africa, sub-saharan-africa]
 ---
@@ -51,6 +51,29 @@ The trade's logic was complementary scarcity: the Sudan needed concentrated, tra
 ceramics, and metalware** flowed south. Because salt, gold, and slaves leave few archaeological
 traces, the trade's **early phases are hard to date** — the crux of a long scholarly dispute
 (see [[pre-islamic-trans-saharan-trade]]).
+
+## The routes, the silent trade, and the shifting entrepôts (Ajayi & Crowder)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (Levtzion, Ch. 4;
+H.F.C. Smith, Ch. 5) details the trade's geography and mechanics. There were **two great
+corridors**: a **western** one linking Morocco's **Sijilmasa** through the Berber emporium of
+**Awdaghost** to [[ghana-empire|Ghana]]; and a **central** one from **Tripoli** through the
+Fezzan port of **Zawila** and the oasis of **Bilma** to [[kanem-bornu|Kanem]] — the latter, Smith
+notes, as practicable and important as the much better-known western route. **Gold** (from Bambuk,
+then increasingly **Bure** on the Upper Niger) was, "until the discovery of America, the principal
+source of gold for both the Muslim world and Europe" — yet the Sudanese kept the **goldfields
+secret**, and the gold itself often changed hands at the frontier by the famous **"silent
+trade"** (wares laid out and exchanged without the parties meeting). The Sudanic kings did not own
+the mines; they taxed the **flow** (salt in, gold out), and Ghana even hoarded gold **nuggets** to
+keep the price up.
+
+The Niger's commercial geography **shifted** with the goldfields and the empires: as **Bure**
+replaced Bambuk and the Akan forest opened up, the river entrepôts of **Jenne** (port for the
+forest gold) and **Timbuktu** rose; **Timbuktu superseded Walata** as the principal desert
+terminus in the later 14th century (traced through the changing trans-Saharan route on the
+Dulcert 1339 and Cresques 1375 maps). Levtzion frames the whole system as one leg of his triad —
+**trade, states, and Islam** — in which commerce stimulated state-building and the states in turn
+secured the routes.
 
 ## Precursors and Establishment
 
