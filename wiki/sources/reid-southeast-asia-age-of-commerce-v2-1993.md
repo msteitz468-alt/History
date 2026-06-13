@@ -20,7 +20,7 @@ reliability_notes: >
   authoritative, though its boom-crisis model and unitary "crisis" have been qualified by later work
   (esp. Lieberman's mainland *Strange Parallels*).
 pages_created: 0
-pages_updated: 0
+pages_updated: 1
 ingested: 2026-06-12
 tags: [source]
 ---

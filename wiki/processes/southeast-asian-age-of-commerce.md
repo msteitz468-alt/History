@@ -8,7 +8,7 @@ region: [southeast-asia, indian-ocean]
 process_type: economic
 driven_by: ["[[indian-ocean-trade]]", "global demand for spices & forest products", "the bullion flows of the early-modern world economy"]
 produces: ["the rise of cosmopolitan Muslim & port-state polities (Melaka, Aceh, Banten, Makassar)", "intensified urbanisation", "a literary/cultural florescence (the '[[theatre-state|Southeast Asian Renaissance]]')", "the seventeenth-century crisis & European (VOC) dominance"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [process, southeast-asia, indian-ocean]
 ---
@@ -24,11 +24,36 @@ Southeast Asia experienced an integrated **commercial boom**: a long upswing of 
 state-building, and cultural florescence, driven by surging world demand for the region's **spices**
 (cloves, nutmeg, mace from Maluku; pepper from Sumatra and the Malay world) and forest and sea
 products, and fed by the bullion of the early-modern world economy. The boom crested and then broke in
-a **"seventeenth-century crisis"** (the subject of [[reid-southeast-asia-age-of-commerce-v1-1988|Volume
-2]], *Expansion and Crisis*), after which the **Dutch East India Company (VOC)** and a more inward,
-agrarian, absolutist order displaced the open, cosmopolitan trading world. *Volume 1, "The Lands Below
-the Winds," is the thematic social-and-cultural portrait of that world; this page is created from Vol. 1
-and will be completed by Vol. 2's economic-and-political narrative.*
+a **"seventeenth-century crisis"** (the subject of [[reid-southeast-asia-age-of-commerce-v2-1993|Volume
+2]], *Expansion and Crisis*), after which the **[[dutch-east-india-company|Dutch East India Company
+(VOC)]]** and a more inward, agrarian, absolutist order displaced the open, cosmopolitan trading world.
+*Volume 1, "The Lands Below the Winds," gives the thematic social-and-cultural portrait of that world;
+Volume 2, "Expansion and Crisis," supplies the economic-and-political narrative summarised below.*
+
+## The economic boom (Vol. 2, Ch. I)
+
+Reid puts the case for the age of commerce "in its economic dimension, the only one that can be measured
+and compared with other parts of the world." Southeast Asia, uniquely accessible to seaborne traffic and
+commanding the maritime route between **China** (the largest market in recorded history) and the markets
+of India, the Middle East, and Europe, "naturally responded to every quickening of international
+trade" — but the fifteenth-to-seventeenth centuries were exceptional because the region played a
+**central role in the global "long sixteenth century" boom**. The high-value items Braudel saw as
+essential to the birth of merchant capitalism — **pepper, cloves, and nutmeg** — *originated* in
+Southeast Asia (cloves only in Maluku's Ternate–Tidore–Ambon; nutmeg and mace only in tiny Banda; pepper
+spreading explosively across Sumatra and the Malay world to take over India's role as Europe's chief
+supplier). Spices were a small share of total tonnage — bulk **rice, salt, dried fish, and Indian
+cloth** filled more hold-space — but they carried the biggest profits, drew the long-distance traders,
+and serve as the best **index of the trade cycle**: Malukan exports leapt around **1400**, dipped
+mid-century, then surged in a long boom cresting c. **1640**. The boom was **fed by bullion** — a flood
+of **New World (Mexican/Peruvian) and Japanese silver**, the latter exchanged in Southeast Asian
+entrepôts (Manila, Hoi An/Faifo) for Chinese silk because China banned direct Japan trade. Reid's
+chapter thesis: **"It was the sea trade which created the age of commerce; the caravan trade flourished
+as a consequence"** — overland routes (the painful ox-cart caravans across the Malay isthmus, the
+Vientiane–Ayutthaya haul) were maintained for **military**, not commercial, reasons. The turn came as the
+Asian entrepôts lost the long-distance trade to European **beachheads** — Portuguese **Melaka (1511)**,
+Spanish **Manila (1571)**, and above all Dutch **Batavia (1619)** — and the
+[[dutch-east-india-company|VOC]] began manipulating the spice market (fixing prices at two-to-three times
+earlier levels, until even Indian clove consumption collapsed).
 
 ## Definition and scope
 
