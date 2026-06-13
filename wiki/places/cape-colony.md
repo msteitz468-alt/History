@@ -7,7 +7,7 @@ period_active: [Early Modern, Age of Expansion, Long 19th Century]
 controlled_by: [Dutch East India Company (1652–1795), Britain (1795–1803, 1806–1910)]
 events_here: [Dutch settlement (1652), Khoisan war (1659), frontier wars with the Xhosa (from 1779), British conquest (1806), the mineral revolution (from 1867)]
 processes_here: [[[atlantic-slave-trade|slavery]], settler colonialism, the Cape frontier, [[southern-african-mineral-revolution|mineral revolution]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [place, southern-africa, sub-saharan-africa, early-modern]
 ---
@@ -53,7 +53,13 @@ slavery, frontier conquest, and a chronically "short" (i.e. cheap-labour-hungry)
 preconditions for the [[southern-african-mineral-revolution|mineral revolution]] and ultimately apartheid.
 Its frontier turmoil also fed, and was fed by, the upheavals of the **[[mfecane|mfecane]]** to the east.
 
+> **GHA V note.** The [[gha-vol5-16th-18th-century|General History of Africa, Vol. V]] (ch. 23, Denoon)
+> treats the **early Cape** within a continent-wide southern African frame — the indigenous **Khoisan** and
+> Bantu-speaking societies whose world the 1652 Dutch settlement began to disrupt — rather than as a
+> European story, emphasizing African societies *before* and *during* the first century of settler intrusion.
+
 ## Related pages
 
-[[reader-africa-biography]] · [[sub-saharan-africa]] · [[mfecane]] · [[southern-african-mineral-revolution]] ·
-[[dutch-east-india-company]] · [[atlantic-slave-trade]] · [[scramble-for-africa]]
+[[reader-africa-biography]] · [[gha-vol5-16th-18th-century]] · [[sub-saharan-africa]] · [[mfecane]] ·
+[[southern-african-mineral-revolution]] · [[dutch-east-india-company]] · [[atlantic-slave-trade]] ·
+[[scramble-for-africa]]

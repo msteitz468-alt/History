@@ -9,7 +9,7 @@ affiliated_with: [the Ethiopian Orthodox (Täwahedo) Church, the Coptic Patriarc
 opposed_by: [the Muslim sultanates of Ifat and Adal, the Ottoman-backed Adalite jihad, later the Oromo migrations]
 key_events: [the rock-hewn churches of Lalibela (Zagwe), the Solomonid restoration under Yekuno Amlak (1270), the conquests of Amda Seyon (r. 1314–44), the reign of Zara Yaqob (r. 1434–68), the Adalite jihad of Ahmad Gran (1529–43)]
 key_processes: [[[christianization]], state-formation, the Christian–Muslim frontier]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, late-middle-ages, horn-of-africa]
 ---
@@ -56,7 +56,16 @@ medieval Christian civilizations** — and the only one to survive into modern t
 its Ge'ez literature and the *Kebra Nagast*, and its self-image as a chosen Christian island ("Prester
 John's" kingdom in European imagination) make it a unique synthesis of African and biblical traditions.
 
+## After Gran: the Oromo and Gondar (GHA V)
+
+The **UNESCO [[gha-vol5-16th-18th-century|General History of Africa, Vol. V]]** (ch. 24, Haberland) carries
+Ethiopia past the devastation of Ahmad Gran's jihad into the early-modern centuries: the great **Oromo
+migrations** that reshaped the highlands' ethnic map; the brief, divisive **Jesuit** episode (and its
+expulsion, reaffirming Orthodox identity); and the founding of a permanent capital at **Gondar** (1636) by
+**Fasilidas** — the "**Gondarine period**" of castle-building and artistic florescence — before the 18th-
+century "Era of the Princes" (*Zemene Mesafint*) fragmented imperial authority among regional lords.
+
 ## Related pages
 
-[[gha-vol4-12th-16th-century]] · [[aksum]] · [[christian-nubia]] · [[christianization]] · [[islam]] ·
-[[sub-saharan-africa]] · [[horn-of-africa]]
+[[gha-vol4-12th-16th-century]] · [[gha-vol5-16th-18th-century]] · [[aksum]] · [[christian-nubia]] ·
+[[christianization]] · [[islam]] · [[sub-saharan-africa]] · [[horn-of-africa]]
