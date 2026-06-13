@@ -5,7 +5,7 @@ date_range: "710–794 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the mature Chinese-modeled centralized imperial state", "the Taihō legal codes", "state Buddhism (Tōdaiji & the provincial temple system)", "the first national histories & poetry", "continental cultural borrowing"]
 collection_coverage: moderate
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -21,8 +21,9 @@ from Mason & Caiger's [[mason-caiger-history-of-japan|*A History of Japan*]] (ch
 
 ## Overview
 
-The Nara state ran on the **Taihō Code** (701–702), which created a Department of
-Worship ([[shinto|Shintō]] rites) and a Department of State, a provincial structure of
+The Nara state was the mature **[[ritsuryo-state|ritsuryō state]]** — the Chinese-modeled
+legal-bureaucratic order — running on the **Taihō Code** (701–702), which created a Department
+of Worship ([[shinto|Shintō]] rites) and a Department of State, a provincial structure of
 ~66 provinces and ~600 districts, a population census every six years, allotment ricefields
 held in theory by the Crown, and taxation in rice, products, labor, and military service.
 It was the high-water mark of the imported Chinese model of direct imperial rule —

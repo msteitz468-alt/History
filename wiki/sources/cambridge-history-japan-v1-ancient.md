@@ -19,8 +19,8 @@ reliability_notes: >
   ([[sansom-short-cultural-history-japan|Sansom]]), it is given presumptive weight. Ingested
   via the **Large-Volume Protocol** (~29,200 lines, Introduction + 10 chapters → 4 cycles).
   Emphasis: **deepen the existing ancient-Japan spine pages** and add discrete-topic pages.
-pages_created: 0
-pages_updated: 2
+pages_created: 1
+pages_updated: 5
 ingested: 2026-06-13
 tags: [source]
 ---
@@ -39,7 +39,7 @@ scholarship, and to add discrete-topic pages.
 | Cycle | Chapters | Theme | Key page operations |
 |---|---|---|---|
 | 1. Prehistory & the Yamato kingdom ✅ | Intro + chs 1–2 (earliest societies — Jōmon/Yayoi; the Yamato kingdom) | Behavioral Modernity → Late Antiquity | **Enriched** [[early-agriculture-japan]] (Yayoi archaeology — rice from the Yangtze delta, Jōmon/Yayoi coexistence revision), [[yamato-japan]] (the Korean connection — the seven-pronged sword, iron trade, the Mimana-colony revisionism) |
-| 2. The reform century & the Nara state | chs 3–4 (Asuka enlightenment, the Great Reforms, the imperial state; the Nara state) | Late Antiquity → Early Middle Ages | **Enrich** [[taika-reform-645]], [[nara-period]], [[shotoku-taishi]]; **create** `ritsuryo-state` (the Chinese-modeled legal-bureaucratic state) |
+| 2. The reform century & the Nara state ✅ | chs 3–4 (Asuka enlightenment, the Great Reforms, the imperial state; the Nara state) | Late Antiquity → Early Middle Ages | **Created** `ritsuryo-state` (the Chinese-modeled legal-bureaucratic state — ritsu/ryō codes, Taihō 701, Temmu's kabane nobility, handen/soyōchō); **enriched** [[taika-reform-645]] (Four-Article Edict & authenticity debate), [[nara-period]], [[shotoku-taishi]] |
 | 3. The continent, kami & Buddha worship | chs 5–7 (Japan & the continent — Korea/Yamatai; early kami worship; early Buddha worship) | Late Antiquity → Early Middle Ages | **Enrich** [[shinto]] (the evolution of Shintō), [[japanese-buddhism]] (Soga/Ritsuryō/Nara Buddhism), [[yamato-japan]] (the Korean connection); **create** a Japan–Korea/continent page if warranted |
 | 4. Nara society, culture & historical consciousness + synthesis | chs 8–10 (Nara economic & social institutions; Asuka–Nara culture; the evolution of historical consciousness) | Early Middle Ages | **Enrich** [[nara-period]] (shōen, land tenure, literacy), [[kojiki-yasumaro]] (the chronicles & historical consciousness — linealism/vitalism/optimism). Then synthesis. |
 

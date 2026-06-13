@@ -8,8 +8,8 @@ region: [japan, east-asia]
 affiliated_with: [the Yamato imperial line, the Soga clan, Buddhism]
 opposed_by: [the anti-Buddhist Mononobe & Nakatomi factions (earlier)]
 key_events: ["regency for Empress Suiko", "the 'Seventeen-Article Constitution'", "the first official embassies to Sui China"]
-key_processes: [[[japanese-buddhism]], [[state-formation]]]
-sources_ingested: 1
+key_processes: [[[japanese-buddhism]], [[state-formation]], [[ritsuryo-state]]]
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, person, late-antiquity, japan, east-asia]
 ---
@@ -48,9 +48,19 @@ state realized two generations later in the [[taika-reform-645|Taika Reform]] an
 [[nara-period|Nara]] order. He became, and remains, the emblematic founder-figure of
 Japanese Buddhism and civilized government.
 
+## Note (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v1-ancient|Cambridge History]] (Inoue, ch. 3) places Shōtoku's
+**Seventeen Injunctions (604)** as the **opening term** of the long arc of centralization —
+"midway" to which stood the [[taika-reform-645|Taika]] Four-Article Edict (646), and whose
+culmination was the **[[ritsuryo-state|Taihō code]]** (701). It situates his work in the
+"Asuka enlightenment," the first concentrated absorption of Chinese learning, law, and
+Buddhism by a court increasingly modeling itself on the continent.
+
 ## Related
 
 - [[taika-reform-645]] — the realization of his centralizing principles.
+- [[ritsuryo-state]] — the codified state his principles foreshadowed.
 - [[japanese-buddhism]] — the faith he championed.
 - [[yamato-japan]] · [[nara-period]] — the state he helped shape.
 - [[tang-dynasty]] — the Sinic model (here via Sui China).

@@ -14,7 +14,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["the Soga clan's overreach & the 645 coup", "the example of [[tang-dynasty|Tang]] centralized government", "[[shotoku-taishi|Prince Shōtoku's]] earlier centralizing principles"]
 consequences: ["the centralized imperial state & the Taihō Code", "the [[nara-period|Nara]] order", "state landholding & taxation", "the eclipse of the autonomous uji clans"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [event, transition, late-antiquity, japan, east-asia]
 ---
@@ -62,6 +62,21 @@ from the people, allotted ricefields held in theory by the Crown, and paid arist
   held it as a near-monopoly of **bureaucratic office** (a deliberate "principle of
   compensation"), so the reform was a political but **not a social** revolution.
 
+## The Great Reforms and their authenticity (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v1-ancient|Cambridge History]] (Inoue, ch. 3) deepens and
+qualifies the account. The reform program is encapsulated in the **Four-Article Edict** of
+New Year 646 — which Inoue compares to the 1868 Charter Oath, each issued in an emperor's
+name to meet a foreign threat (Tang China; the West). The new regime moved fast: a **census
+and land survey**, the **collection of weapons**, curbs on official abuse, and an edict
+**forbidding the private sale of land** and the clan chieftains' seizure of *be* people and
+estates. A long scholarly **authenticity debate** surrounds the edict — its wording matches
+later codes, leading some (Tsuda) to think it fabricated or misdated — but Inoue concludes it
+genuinely "stood midway between the **Seventeen Injunctions of 604** ([[shotoku-taishi|Shōtoku]])
+and the **Taihō code of 701**." Reform was consolidated by **Emperor Temmu** (after the
+**Jinshin civil war of 672**), who built "government by imperial relatives" and the new
+**kabane** nobility — the bridge to the codified **[[ritsuryo-state|ritsuryō state]]**.
+
 ## Significance
 
 Mason and Caiger highlight the Taika–Taihō state as "a singular example of a society
@@ -73,6 +88,7 @@ making 645 a genuine turning point in Japanese history.
 
 ## Related
 
+- [[ritsuryo-state]] — the codified Chinese-modeled state the reform culminated in.
 - [[nara-period]] — the state the reform built.
 - [[shotoku-taishi]] — the ideological forerunner.
 - [[fujiwara-clan]] — the line founded by the reform's co-author.
