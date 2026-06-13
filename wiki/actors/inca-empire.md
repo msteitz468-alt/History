@@ -9,7 +9,7 @@ affiliated_with: ["the Inca of Cuzco", "the Sun cult (Inti)", [[tiwanaku|Tiwanak
 opposed_by: ["the Chanca confederation", "the Chimú", "the Spanish"]
 key_events: ["the Chanca war and Pachacuti's accession (1438)", "the expansion into the four suyos", "the Spanish conquest (1532–1533)"]
 key_processes: [[[andean-state-formation]], [[state-formation]], [[empire]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [actor, empire, late-middle-ages, andes]
 ---
@@ -64,6 +64,37 @@ tribute (*mit'a*), and by record-keeping on knotted-cord **[[khipu|khipus]]** (s
 only partly deciphered). Notably, the Inca economy operated **without markets or money**
 over most of its territory, organizing exchange through state redistribution and
 reciprocal labor obligation rather than commerce.
+
+## The machinery of empire (D'Altroy)
+
+Terence D'Altroy's [[daltroy-incas-2004|lecture course]] details how **~100,000 ethnic Incas ruled 10–12
+million people** across a million square kilometres in scarcely a century. Modern radiocarbon work pushes
+the story back: the pre-imperial **Killke phase** began c. 1000 CE and the Incas dominated the Cuzco
+basin by the early 1300s — so the [[pachacuti|Pachacuti]] narrative (the Chanca war, conventionally
+1438) caps a **century-long** local rise, not a sudden one. Expansion ran through **Pachacuti →
+Thupa Inka Yupanki → Wayna Qhapaq** (who died c. 1527 in an Ecuador **smallpox** epidemic, triggering the
+**Waskhar–Atawallpa** civil war that Atawallpa won just as Pizarro landed in 1532). The empire's tools:
+
+- **Militarism of logistics, not technology** — modular armies of conscripts (war as a **labour duty**,
+  the *mit'a*), each ethnic unit in its own dress and arms; success owed to alliances, overwhelming force,
+  storehouse-fed campaigns, and a **defense-in-depth** frontier of forts and garrisons, not to superior
+  weapons (quilted cotton armour the Spanish themselves adopted).
+- **Decimal administration** — at least 80 provinces (a province conceived as a *population*, not a
+  territory), households grouped in units of 10 to 10,000 under hereditary **kuraka** lords, with a
+  periodic **census** recorded on [[khipu|khipu]].
+- **The colonization (*mitmaq*) program** — the forced resettlement of perhaps **3–5 million people** for
+  political, military, and economic ends.
+- **An infrastructure of empire** — the **[[qhapaq-nan|40,000 km road network]]**, ~2,000 waystations
+  (*tampu*), and great **storehouses (*qollqa*)**; provincial centres that Craig Morris called "artificial
+  urbanism" (founded on empty ground, barely occupied, lacking cemeteries — the personnel knew they were
+  temporary).
+- **An economy without markets or money** — run on **[[mita-and-andean-reciprocity|labour tax and
+  reciprocity]]**, the state feeding its workers from the storehouses (see also vertical ecological
+  control and the *ayllu*).
+
+Crucially, D'Altroy stresses the **[[split-inheritance-and-royal-mummies|split-inheritance/royal-mummy
+cult]]** as the engine that *drove* the conquests: a dead emperor's *panaqa* kept his estates and mummy
+in perpetuity, so each new ruler had to **conquer fresh lands** to fund his own reign and afterlife.
 
 ## Significance
 

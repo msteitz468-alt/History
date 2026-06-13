@@ -8,8 +8,8 @@ region: [andes]
 process_type: political
 driven_by: [Pacific marine resources, irrigation agriculture, highland–coast exchange, shared religious iconography]
 produces: [Norte Chico/Caral, [[chavin|Chavín]], [[moche|the Moche]], [[tiwanaku|Tiwanaku]] and Wari, ultimately the [[inca-empire|Inca]]]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [process, andes, classical-antiquity, late-middle-ages]
 ---
 
@@ -67,3 +67,12 @@ Mesoamerica and the Old World.
 No terminal end within this volume: each horizon's collapse seeded the next, a pulsing rhythm
 of integration and fragmentation that continued to the **Inca** and was cut short only by the
 Spanish conquest.
+
+The [[inca-empire|Inca]] are the culmination D'Altroy's [[daltroy-incas-2004|*The Incas*]] makes legible:
+Tawantinsuyu **synthesised** the deep Andean repertoire — [[norte-chico|Norte Chico's]] non-market
+urbanism, the [[tiwanaku|Tiwanaku]]/Wari highland-state and road traditions, and the pan-Andean ethic of
+**[[mita-and-andean-reciprocity|reciprocity, the ayllu, and vertical complementarity]]** — and scaled it
+into empire through the [[khipu|khipu]], the [[qhapaq-nan|road system]], and the
+[[split-inheritance-and-royal-mummies|mummy-driven imperative to conquer]]. The Andean pathway thus
+reached statehood on principles — labour-tribute, redistribution, verticality — wholly distinct from the
+market-and-coin logic of Afro-Eurasia.
