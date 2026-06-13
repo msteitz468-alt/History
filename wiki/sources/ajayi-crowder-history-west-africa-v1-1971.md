@@ -18,8 +18,8 @@ reliability_notes: >
   Dated in places (1971 archaeology and slave-trade demography have since been
   revised; Curtin's own Census 1969 figures here predate later upward revisions),
   but still a standard reference. Volume Two (post-1800) not in this ingest.
-pages_created: 0
-pages_updated: 0
+pages_created: 3
+pages_updated: 4
 ingested: 2026-06-12
 tags: [source]
 ---

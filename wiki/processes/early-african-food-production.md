@@ -16,8 +16,8 @@ produces:
   - "Pre-domestication cultivation and early ceramic technology"
   - "Sahelian cereal package (pearl millet, sorghum, African rice, fonio, cowpea)"
   - "[[bantu-expansion|Bantu agricultural dispersal]] across central/southern Africa"
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [process, economic, africa, sub-saharan-africa, "Mesolithic", "Neolithic"]
 ---
 
@@ -105,6 +105,36 @@ Lane stresses that Africa's low standing in origins research reflects a *presume
 (and increasingly questioned) absence of "primary" domestication centres south of
 the Sahara — a bias the volume actively corrects, and one the wiki flags per
 CLAUDE.md's collection-bias mandate.
+
+## The West African indigenous domesticates (Ajayi & Crowder / Shaw)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (Thurstan
+Shaw, Ch. 2) reaches, from 1960s archaeology, the same headline as Ehret and Lane: West
+Africa was an **independent centre of domestication**, and the Near Eastern winter
+cereals (wheat, barley) could **not** cross into the tropical savannah because they need
+winter rain. In their place West Africans domesticated **tropical** staples:
+
+- **Yams** (*Dioscorea cayenensis*) — indigenously domesticated in the **forest–savannah
+  margin**, where the vine needs trees to climb but is killed by dense shade. Shaw's
+  mechanism is a plausible "rubbish-heap" origin: yam tops cut off and discarded at rock
+  shelters re-sprout, and Later Stone Age people learn to plant them; the worn teeth of
+  the **Iwo Eleru** skeleton are read as evidence of eating sandy tubers. The **absence
+  of stone hoes** does not imply absence of agriculture (digging sticks suffice).
+- **African rice** (*Oryza glaberrima*) and **fonio/acha** (*Digitaria*) — domesticated
+  in the more northerly (Sahelian) part of West Africa and becoming regional staples, but
+  not spreading east or south.
+- **Sorghum and millets** — the savannah grain package, in place across the Sudan belt by
+  the later 2nd millennium BCE.
+
+Shaw stresses the **Saharan barrier**: the desiccation from c. 3000 BCE both isolated
+sub-Saharan Africa from Near Eastern developments *and* meant African food production
+developed on its own tropical foundation. He also notes the long-running idea of a
+"major centre of plant domestication near the headwaters of the Niger" — already
+discountenanced by botanists in 1971, and superseded by the Tichitt/Sahelian evidence (see
+above). On the **animal** side, domestic cattle, sheep and goats spread into the West
+African region during the 2nd–1st millennia BCE as the drying Sahara displaced
+pastoralists southward — though Shaw cautions there was then **no direct osteological
+evidence** from West Africa itself.
 
 ## The Bantu question
 

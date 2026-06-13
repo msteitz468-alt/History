@@ -8,7 +8,7 @@ region: [mesopotamia, near-east, iran-plateau, mediterranean, china, east-asia, 
 process_type: political
 driven_by: ["agricultural surplus and storage", "warfare and conquest", "[[urbanization]]", "long-distance [[trade-network-formation|trade]]", "ideology and religion", "control of information ([[writing-and-record-keeping]])", "managing [[pastoral-nomadism|nomad]] frontiers"]
 produces: ["[[empire]]", "[[city-state]]", "bureaucracy and taxation", "standing armies", "law", "social stratification", "[[slavery]]"]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-12
 tags: [process, classical-antiquity, early-middle-ages, mesopotamia, china]
 ---
@@ -150,6 +150,40 @@ that ***rex in regno suo imperator est*** ("the king is emperor in his own kingd
 **sovereign territorial state** — see [[late-medieval-political-thought]]. The same century's
 [[late-medieval-crisis|demographic and fiscal crisis]] both strained and intensified the state, as
 war finance drove the growth of taxation and representative institutions.
+
+## State Formation in West Africa (Ajayi & Crowder / Horton)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (Robin
+Horton, Ch. 3) offers the wiki's most detailed *bottom-up* model of how states emerge,
+built from the West African evidence and explicitly opposed to the
+[[hamitic-hypothesis-african-states|diffusionist]] view that African kingship was
+imported. Two arguments stand out:
+
+- **Continuity, not rupture.** The transition from
+  [[stateless-societies|stateless society]] to state "has not, by and large, involved
+  any drastic discontinuities," only "changes of balance and emphasis." *Territorial*
+  stateless societies (Horton's Types 2 & 3) already contain the "germs" of the state:
+  sovereignty over a defined tract under the laws of the earth-spirit; a
+  first-occupant/landowning lineage that can become a **royal** lineage; complementary
+  office-holding lineages that prefigure a **council of chiefs**; and **secret
+  societies** that can incubate the specialisation of political roles. By contrast the
+  *pure* segmentary-lineage type (Tiv, central Ibo), with its insistence on the
+  **equivalence of equal-and-rival segments**, structurally **blocks** the role
+  differentiation a state requires — "a great gulf fixed."
+- **Commerce as the engine.** "There can be little doubt about the importance of
+  commerce in relation to West African state formation": the great states map onto the
+  **junctions and termini of trade routes**, developing from the Sahel down into the
+  forest and out to the coast as the [[trans-saharan-trade|trade routes]] and then the
+  [[atlantic-slave-trade|Atlantic trade]] did. Horton's cleanest proof is the
+  *intra-cultural* contrast: among the eastern Ijo, fishing villages stayed stateless
+  while those that entered the Atlantic trade turned founding lineages into royal
+  lineages and headmen into kings (the [[niger-delta-city-states|Niger Delta
+  city-states]]); the **negative cases** of trading-but-stateless Tiv and Ibo are
+  explained by their Type-1 organisation, which resists state-building even under
+  commercial stimulus. This is the regional confirmation of the general principle that
+  control of exchange is a recurrent engine of states (cf. [[ghana-empire|Ghana's]] gold
+  monopoly), set here against any theory of state-building by **alien ideology or
+  conquest**.
 
 ## End Conditions
 

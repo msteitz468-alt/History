@@ -5,7 +5,7 @@ origin: West African (Mande) institution; as a historiographical problem, centra
 applies_to_periods: [Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Long 19th Century]
 applies_to_regions: [west-africa, sub-saharan-africa]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -38,6 +38,23 @@ are vessels of speech, the memory of mankind."
   performer's caste and purpose** — reliable, linguists caution, only two or three centuries deep, and
   unreliable for literal chronology. It is strongest as evidence of **social structure, values, memory and
   identity**, and must be triangulated with archaeology and external (Arabic, European) texts.
+
+## The asymmetry: states vs. stateless societies (Horton)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (Robin
+Horton, Ch. 3) draws out a consequence that shapes the whole archive of African history:
+**oral tradition is far richer for states than for [[stateless-societies|stateless
+societies]].** The great states keep **specialist court historians** (the griots), so
+their traditions can run 200, 500, even 1,000 years deep; stateless societies, lacking
+that office, have traditions "nothing like as deep, as rich, or as continuous." Horton is
+also sharply sceptical of a common method: collecting *all* variant versions of a
+tradition and extracting a "common denominator" gets one no nearer historical truth — his
+Niger Delta village whose variants all reduce to "seven men who came down from the sky"
+makes the point. His conclusion is not to discard oral tradition (he collected it himself)
+but to insist it be **triangulated** with linguistic maps, culture-trait maps, and
+archaeology. This asymmetry is itself a **source bias**: because chroniclers and griots
+alike gravitated to the commercial states, the historical record over-represents states
+and under-represents the millions who lived statelessly.
 
 ## Significance and critique (contested)
 
