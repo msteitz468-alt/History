@@ -31,7 +31,7 @@ state of Qin perfected the **Legalist** techniques of the
 **[[warring-states-period-475-bce|Warring States]]**: household registration, universal
 taxation and conscription, county-and-commandery administration, and a merit-based
 officialdom. Between **230 and 221 BCE** the last Qin king conquered the other six
-kingdoms and proclaimed himself **Qin Shi Huangdi**, "First Emperor."
+kingdoms and proclaimed himself **[[qin-shi-huang|Qin Shi Huangdi]]**, "First Emperor."
 
 ## The Imperial System
 

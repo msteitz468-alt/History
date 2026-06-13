@@ -69,3 +69,7 @@ oracle-bone inscriptions; the precise conquest date (c. 1045 BCE) is debated and
 the southern bronze cultures) has dismantled the older image of a single uniform
 Shang-Zhou "China," revealing multiple regional Bronze Age civilizations — part of CWH
 IV's broader insistence on early China's connectedness to Central Asia and beyond.
+
+Within the [[china|Chinese]] dynastic spine, the Zhou succeeded the **[[shang-dynasty|Shang]]**
+(justifying the conquest by the [[mandate-of-heaven|Mandate of Heaven]]) and gave way, through
+the Warring States, to unification under the [[qin-shi-huang|First Emperor]] (221 BCE).

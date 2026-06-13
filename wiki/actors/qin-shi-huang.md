@@ -1,0 +1,89 @@
+---
+title: Qin Shi Huang (the First Emperor)
+actor_type: person
+date_start: 259 BCE
+date_end: 210 BCE
+period: [Classical Antiquity]
+region: [china, east-asia]
+affiliated_with: [the state and [[qin-dynasty|Qin dynasty]], Legalism, the chancellor Li Si]
+opposed_by: [the other Warring States (Chu, Wei, Zhao, Han, Yan, Qi), the Confucian scholars]
+key_events: ["the unification of China (221 BCE)", "the standardization of script, weights, coinage", "the book-burning (213 BCE)", "the building of the Great Wall & his tomb (the terracotta army)"]
+key_processes: [[[qin-dynasty]], the founding of the Chinese imperial system]
+sources_ingested: 1
+last_updated: 2026-06-13
+tags: [actor, person, classical-antiquity, china, east-asia]
+---
+
+# Qin Shi Huang (the First Emperor) (259–210 BCE; r. as emperor 221–210 BCE)
+
+The king of [[qin-dynasty|Qin]] (born **Zheng**) who **unified China in 221 BCE**, founded the
+**imperial system** that would endure (in principle) for over two millennia, and took the title
+***huangdi*** ("emperor") as the **First Emperor** (*Shi Huangdi*). From John Keay's
+[[keay-china-a-history|*China: A History*]].
+
+## Unification and the imperial title
+
+Ascending the Qin throne as a boy, Zheng completed the conquest of the rival
+[[warring-states-period-475-bce|Warring States]] (Chu, Wei, Zhao, Han, Yan, Qi) by **221 BCE** — the first ruler
+to impose unity on the whole of "core" China. Rejecting the old royal style, he proclaimed
+himself ***huangdi***, emperor, and is known to history simply by that title. Keay stresses the
+novelty: there was "no precedent for such a vast … empire," and the First Emperor knew he was
+"breaking new ground."
+
+## The Legalist transformation
+
+Guided by the **Legalist** chancellor **Li Si** ("China's First Unifier"), the First Emperor
+built a centralized administrative state on the doctrine that order rests on **law and the
+ruler's strength, not Confucian virtue and precedent**. He:
+
+- abolished the old feudal order, dividing the empire into directly-administered **commanderies
+  and counties** staffed by appointed officials;
+- **standardized** the **script** (the "Small Seal"), **weights and measures**, **coinage**
+  (the round coin with a square hole, which lasted 2,000 years), and even **cart axle-widths**
+  (a uniform road gauge);
+- registered households for taxation and grouped them for conscription;
+- disarmed the former states (melting their weapons into colossal statues).
+
+Keay underlines that the **standardization of the script** was "of incalculable significance":
+it created a written language common to the literate elite across all dialects — the basis of
+China's claim to a single continuous civilization.
+
+## The book-burning and the scholars
+
+The First Emperor showed "nothing but contempt for traditional scholarship." When Confucians
+urged a return to ancient ways, Li Si's response was the **book-burning of 213 BCE** — ordering
+the destruction of the *Odes*, *Documents*, and the works of the "hundred schools" (sparing only
+practical texts on medicine, divination, and agriculture), reportedly followed by the execution
+or burial of some 460 scholars. The aim was "to see to it that no one … used the past to
+criticise the present." Keay notes the impact was **exaggerated** (books were few, the archives
+retained copies) and ironic: it entrenched the very reverence for the classics it sought to
+destroy.
+
+## Megaprojects and death
+
+The reign was one of "gargantuan public works": the linking of frontier walls into a precursor
+of the **Great Wall**, vast road and canal building, and above all his own **tomb** near
+Xianyang — the underground necropolis guarded by the **terracotta army** of thousands of
+life-size figures. Obsessed with immortality, the emperor died in 210 BCE while touring his
+realm; the [[qin-dynasty|Qin dynasty]] collapsed within four years, swept away by rebellion and
+succeeded by the [[han-dynasty|Han]].
+
+## Counterfactual significance and historiography
+
+The First Emperor is the **founder of imperial China** — the architect of the unified,
+bureaucratic, standardized state that the [[han-dynasty|Han]] inherited and that lasted to 1912.
+Keay highlights the **contested historiography**: the Han-era historian [[sima-qian|Sima Qian]]
+(the *Shiji*) painted him as a "greedy," cruel "oriental despot" lacking the virtue on which the
+[[mandate-of-heaven|Mandate]] depended — yet the emperor's own inscriptions claim he "brought
+peace to the world" and "worked tirelessly for the common good." Keay draws a pointed comparison
+with the near-contemporary [[ashoka|Ashoka]] of [[mauryan-empire|Maurya India]]: judged kindly
+because known only from his own inscriptions, where the First Emperor — known from hostile
+sources — is condemned. Mao's Red Guards later **rehabilitated** him as China's first
+revolutionary against the past.
+
+## Related
+
+- [[qin-dynasty]] — the dynasty he founded; [[han-dynasty]] — its long-lived successor.
+- [[warring-states-period-475-bce]] · [[zhou-dynasty]] — the states he unified; [[han-feizi]] · [[confucianism]] — Legalism and the scholarship he attacked.
+- [[mandate-of-heaven]] — the doctrine his critics invoked against him; [[sima-qian]] — his ambivalent historian.
+- [[china]] — the unified civilization he created; [[ashoka]] — the contrasted contemporary emperor.
