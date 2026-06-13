@@ -5,7 +5,7 @@ date_range: "1603–1868 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the Tokugawa peace (pax Tokugawa)", "the baku-han system", "sakoku (the closed country)", "the four-class order & the bureaucratization of the samurai", "monetization & the commercial revolution", "the rise of the merchants & chōnin urban culture", "the rural landlord-entrepreneur class"]
 collection_coverage: moderate
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -55,7 +55,12 @@ townsman culture flourished beneath the rigid official order.
   urban culture of the **"floating world" (ukiyo)**: the novels of **Ihara Saikaku**, the
   puppet (Bunraku) and **Kabuki** drama of **Chikamatsu Monzaemon** (the "Shakespeare of
   Japan," dramatizing the conflict of duty *giri* and feeling *ninjō*), and (later) the
-  woodblock print.
+  woodblock print. This townsman renaissance is treated on its own page,
+  **[[genroku-culture]]** (Sansom).
+- **Intellectual life.** The era's thought — **Neo-Confucian** orthodoxy (Zhu Xi) and its
+  rivals, the nativist **National Learning (kokugaku)**, and **Dutch Learning (rangaku)** —
+  is treated at **[[tokugawa-intellectual-life]]**; together with the agrarian/fiscal crisis,
+  these currents fed the [[meiji-restoration-1868|Meiji Restoration]].
 
 ## Key Actors
 

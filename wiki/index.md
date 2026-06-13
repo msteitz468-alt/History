@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-13 (**A Short Cultural History of Japan (G. B. Sansom, 1931/1952)** — LARGE-VOLUME **INGEST COMPLETE** (4 cycles + synthesis). The **cultural-depth complement** to the Mason political spine for Phase B (Japan); by design it created few new pages and instead deepened the period & religion pages. Created 3: **[[heian-court-culture]]** (the classical age — calligraphy, kana, *Genji*, *yamato-e*, *mono no aware*), **[[genroku-culture]]** (the chōnin "Floating World" — ukiyo, Kabuki, the print), **[[tokugawa-intellectual-life]]** (Neo-Confucianism, *kokugaku*, *rangaku* → the intellectual prehistory of the Meiji Restoration). Enriched 10: **[[shinto]]** (the indigenous cult — "a religion of love and gratitude"; Dual Shintō), **[[japanese-buddhism]]** (esoteric Tendai/Shingon & Amidism), **[[zen-buddhism]]** (Zen as the dominant culture of the warrior age — the Gozan), **[[nara-period]]**, **[[heian-period]]**, **[[kamakura-period]]**, **[[muromachi-period]]**, **[[edo-period]]**, **[[sakoku]]**, **[[fujiwara-clan]]**. Sansom's thesis sharpens Mason's: the *friction* of assimilation ("outward form rather than inward significance") punctuated by native breakthroughs (Heian & Genroku); the Buddhist imprint of immanence & transience on Japanese aesthetics. Filed to `raw/4. Modern Times/`. **With Mason + Sansom the Japan gap is well filled (political spine + cultural body, prehistory→1867); remaining Japan depth = The Tale of Genji + the Cambridge History of Japan vols.**)
+
 Last updated: 2026-06-13 (**A History of Japan (Mason & Caiger, rev. ed. 1997)** — LARGE-VOLUME **INGEST COMPLETE** (4 cycles + synthesis). Opens & substantially fills the **Japan gap** (CLAUDE.md "narrative thin") — the standard single-volume spine, prehistory → 1945. Created 25 pages: the anchor **[[japan]]**; periods **[[nara-period]]**, **[[heian-period]]**, **[[kamakura-period]]**, **[[muromachi-period]]**, **[[azuchi-momoyama-period]]**, **[[edo-period]]**, **[[meiji-period]]**; events **[[taika-reform-645]]**, **[[mongol-invasions-of-japan-1274-1281]]**, **[[meiji-restoration-1868]]**, **[[russo-japanese-war-1904]]**, **[[pacific-war-1941-1945]]**; actors **[[shotoku-taishi]]**, **[[fujiwara-clan]]**, **[[minamoto-no-yoritomo]]**, **[[samurai]]**, **[[oda-nobunaga]]**, **[[toyotomi-hideyoshi]]**, **[[tokugawa-ieyasu]]**; concepts/processes **[[japanese-buddhism]]**, **[[shogunate-bakufu]]**, **[[zen-buddhism]]**, **[[sakoku]]**, **[[japanese-imperialism]]**. Enriched 9: **[[shinto]]**, **[[yamato-japan]]**, **[[early-agriculture-japan]]**, **[[tang-dynasty]]**, **[[mongol-empire]]**, **[[catholic-reformation]]**, **[[military-revolution]]**, **[[industrialization]]**. Thesis: island isolation → a distinctive civilization + conscious/selective/domesticated borrowing; the sacred throne sidelined-but-never-usurped beneath a pluralist delegated polity (Fujiwara → shoguns); the warrior age → the Tokugawa closed-country peace that seeded Meiji modernization, empire, and the 1945 catastrophe. Filed to `raw/4. Modern Times/`. **Phase B (Japan) spine COMPLETE; remaining depth = Sansom, The Tale of Genji, Cambridge History of Japan vols.**)
 
 Last updated: 2026-06-13 (**Open Veins of Latin America (Eduardo Galeano, 1971)** — INGEST COMPLETE (standard single-pass). The **dependency-theory counterpoint** closing Phase A's Latin America cluster, read deliberately **against** Burkholder & Johnson. A committed-standpoint *dependentista* polemic — the popular manifesto of the view that Latin America's poverty is the *product* of five centuries of extraction. Created **[[galeano-open-veins]]** (source), **[[dependency-theory]]** (Prebisch/ECLA → Frank/Cardoso; core-periphery & unequal exchange; its institutionalist & East-Asian critiques), and the controversy **[[causes-of-latin-american-underdevelopment]]** (dependency vs. institutionalist vs. measured vs. culturalist — registering the **[CONTRADICTION]** with Burkholder). Enriched **[[colonial-latin-america]]**, **[[potosi-and-colonial-silver]]** ("Spain owned the cow, others drank the milk"), **[[plantation-economy]]** ("King Sugar" monoculture-as-curse), **[[latin-america-modern]]**. **Phase A (Americas) — conquest + colonial + dependency arc now COMPLETE; optional remaining = Guamán Poma (Andean-voice primary).**)
@@ -467,7 +469,7 @@ creation order with a one-line description.
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **Mason & Caiger, *A History of Japan*** ingest
+Counts reflect actual files on disk as of the **Sansom, *A Short Cultural History of Japan*** ingest
 (recounted from disk — the prior table had drifted well below the true totals). Recent volumes'
 detailed new/updated pages are catalogued in their source pages and `log.md`.
 
@@ -475,13 +477,13 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 |---|---|
 | Periods | 32 |
 | Events | 231 |
-| Processes | 141 |
+| Processes | 142 |
 | Actors | 530 |
 | Places | 120 |
-| Concepts | 272 |
+| Concepts | 274 |
 | Comparisons | 1 |
 | Controversies | 50 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 130 |
-| **Total** | **1507** |
+| Sources | 131 |
+| **Total** | **1511** |

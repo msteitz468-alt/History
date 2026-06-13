@@ -5,7 +5,7 @@ origin: the Tokugawa bakufu's maritime-prohibition edicts of 1633–1639 (the te
 applies_to_periods: [Early Modern, Age of Expansion, Long 19th Century]
 applies_to_regions: [japan, east-asia]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -62,9 +62,21 @@ hence the stress on the active Korean, Ryūkyū, Ainu, and Dutch/Chinese channel
 success in foreign relations actually helped **legitimize** Tokugawa rule. The policy ended
 under Western pressure (Perry, 1853), helping bring down the bakufu.
 
+## The Deshima window: Dutch Learning (Sansom)
+
+Sansom stresses that the Dutch post at **Deshima** was not only a trade outlet but Japan's
+**one window onto Western knowledge**. After Shogun **Yoshimune** lifted the ban on foreign
+(non-Christian) books in **1720**, scholars built ***rangaku*** ("Dutch learning") from almost
+nothing — painfully compiling dictionaries and translating works on **medicine** and
+astronomy (**Sugita Genpaku's** anatomy, 1774). So even at its most closed, *sakoku* admitted
+a thin but consequential stream of Western science that, by 1800, gave Japan a real grasp of
+European learning and contributed to the intellectual ferment behind the
+[[meiji-restoration-1868|Restoration]] (see [[tokugawa-intellectual-life]]).
+
 ## Related
 
 - [[edo-period]] · [[shogunate-bakufu]] — the order that imposed it.
+- [[tokugawa-intellectual-life]] — *rangaku* and the thought it admitted.
 - [[global-silver-trade]] — the bullion drain it sought to stop.
 - [[catholic-reformation]] — the missionary Christianity it suppressed.
 - [[meiji-restoration-1868]] — the regime change after its forced end.
