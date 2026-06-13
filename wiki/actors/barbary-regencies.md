@@ -9,7 +9,7 @@ affiliated_with: [the Ottoman Empire (nominal suzerainty), the Janissary corps, 
 opposed_by: [Habsburg Spain, the Mediterranean Christian powers, the Knights of Malta]
 key_events: [the Ottoman seizure of Algiers (1516) under the Barbarossa brothers, the Ottoman conquest of Egypt (1517), the apogee of the corsair economy (17th c.)]
 key_processes: [[[trans-saharan-trade]], Mediterranean corsairing, [[islamization-of-africa]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, early-modern, north-africa]
 ---
@@ -46,6 +46,16 @@ GHA V stresses that **Morocco remained independent** of the Ottomans — ruled b
 then the **Alawi** dynasty (which still reigns). It was the Saadi sultan **Ahmad al-Mansur** who, hungry for
 West African gold, sent the musket army across the Sahara that destroyed the **[[songhay-empire|Songhay
 empire]] at Tondibi (1591)** — the most dramatic North African intervention in sub-Saharan history.
+
+## The French conquest and Abd al-Qadir (GHA VI)
+
+The **UNESCO [[gha-vol6-19th-century|General History of Africa, Vol. VI]]** (chs. 17–19) covers the
+**nineteenth-century end of the regency order**: the **French invasion of Algiers in 1830** — the opening of
+the colonial conquest of the Maghrib — and the long, heroic **resistance of Abd al-Qadir** (the *amir* who
+built a state and waged jihad against the French until 1847), a foundational figure of Algerian national
+memory. Tunisia and Morocco pursued anxious **defensive-modernization** reforms to stave off European
+control, while the **trans-Saharan trade** declined as European coastal commerce drew the Sudan's trade
+seaward — all preludes to the [[scramble-for-africa|Scramble]].
 
 ## Significance
 
