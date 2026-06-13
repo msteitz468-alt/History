@@ -7,7 +7,7 @@ period_active: [Neolithic, Bronze Age, Early Iron Age, Archaic Period, Classical
 controlled_by: ["[[indus-valley-civilization]]", "[[magadha]]/[[mauryan-empire]]", "[[gupta-empire]]", "[[chola-empire]]", "[[delhi-sultanate]]", "the Mughals (Vol. II)", "the British Raj"]
 events_here: []
 processes_here: ["[[caste-varna]]", "[[indian-feudalism]]", "[[bhakti-movement]]", "[[indian-ocean-trade]]", "[[indianization-of-southeast-asia]]"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [place, south-asia, india]
 ---
@@ -47,7 +47,15 @@ through the whole narrative.
   the south; the [[rajputs|Rajputs]] and [[indian-feudalism|"Indian feudalism"]].
 - **The coming of Islam:** [[mahmud-of-ghazni|Mahmud's raids]], then the [[delhi-sultanate|Delhi
   Sultanate]] (1206–1526), the [[bhakti-movement|Bhakti–Sufi]] ferment, and [[vijayanagara-bahmani|Vijayanagara
-  and the Bahmani]] in the Deccan — to the eve of the Mughals (Vol. II).
+  and the Bahmani]] in the Deccan — to the eve of the Mughals.
+- **The Mughal & British era (1526–1947):** the [[mughal-empire|Mughal Empire]] ([[akbar|Akbar]],
+  [[aurangzeb|Aurangzeb]]) and its decline; the [[maratha-empire|Marathas]]; the
+  [[english-east-india-company|East India Company's]] conquest from [[battle-of-plassey-1757|Plassey]]
+  and the [[british-raj|British Raj]]; the [[indian-rebellion-1857|1857 Rebellion]]; the
+  [[indian-independence-movement|national movement]] ([[indian-national-congress|Congress]],
+  [[mahatma-gandhi|Gandhi]], [[muhammad-ali-jinnah|Jinnah]]) — to **independence and
+  [[partition-of-india-1947|Partition]] (1947)** and [[jawaharlal-nehru|Nehru's]] republic. (Covered
+  in [[spear-history-of-india-v2-1965|Spear, Vol. II]].)
 
 ## Why this region mattered
 
