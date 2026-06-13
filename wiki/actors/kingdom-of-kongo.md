@@ -9,8 +9,8 @@ affiliated_with: [the BaKongo people, Portugal (from 1483), Christianity (from 1
 opposed_by: [Ndongo/Angola, the Jaga invaders, ultimately Portugal (Mbwila, 1665)]
 key_events: [the founding at Mbanza Kongo, Portuguese contact (1483), the baptism of João I (1491), the reign of Afonso I (1509–43), the battle of Mbwila (1665)]
 key_processes: [[[atlantic-slave-trade]], [[christianization]], state-formation]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [actor, state, late-middle-ages, early-modern, central-africa]
 ---
 
@@ -71,6 +71,6 @@ slave trade]]** and the predatory rise of Portuguese **Angola** — central to t
 
 ## Related pages
 
-[[gha-vol4-12th-16th-century]] · [[gha-vol5-16th-18th-century]] · [[atlantic-slave-trade]] ·
+[[gha-vol4-12th-16th-century]] · [[gha-vol5-16th-18th-century]] · [[cambridge-history-of-africa-v4]] · [[atlantic-slave-trade]] ·
 [[impact-of-atlantic-slave-trade-on-africa]] · [[luba-lunda]] · [[christianization]] ·
 [[congo-free-state]] (the later, unrelated colonial state) · [[sub-saharan-africa]]

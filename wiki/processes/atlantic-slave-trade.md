@@ -8,7 +8,7 @@ region: [atlantic-world, west-africa, central-africa, caribbean, andes, eastern-
 process_type: demographic
 driven_by: [plantation demand for labor (especially sugar), American demographic collapse, pre-existing African slavery and slave markets, European armed maritime commerce]
 produces: [the largest forced migration in history, African diaspora cultures of the Americas, demographic distortion in Atlantic Africa, the plantation complex, creole languages and Atlantic religions]
-sources_ingested: 6
+sources_ingested: 7
 last_updated: 2026-06-13
 tags: [process, early-modern, atlantic-world, west-africa]
 ---
@@ -254,4 +254,8 @@ community) of **Palmares** in Brazil, destroyed by *paulistas* only in the 1690s
 [[columbian-exchange-1492]] · [[plantation-economy]] · [[early-modern-migrations]] ·
 [[trans-saharan-trade]] · [[slavery]] · [[early-modern]] ·
 [[intercultural-relations-early-modern]] · [[impact-of-atlantic-slave-trade-on-africa]] ·
-[[reader-africa-biography]] · [[sub-saharan-africa]]
+[[reader-africa-biography]] · [[cambridge-history-of-africa-v4]] · [[sub-saharan-africa]]
+
+*The [[cambridge-history-of-africa-v4|Cambridge History of Africa, Vol. 4]] (1975) treats the
+1600–1790 era through the slave trade and the African states it shaped (Asante, Dahomey, Oyo,
+Kongo/Angola) — a parallel authority to the GHA account and to [[impact-of-atlantic-slave-trade-on-africa]].*
