@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-12 (**Anthony Reid — *Southeast Asia in the Age of Commerce, 1450–1680*, Volume Two: *Expansion and Crisis*** (Yale, 1993) — INGEST COMPLETE (Large-Volume, 5 cycles + synthesis). The **economic-political narrative** completing the [[southeast-asian-age-of-commerce|age of commerce]] for **Gap 3 (SE Asia)** — boom → cities → religious revolution → absolutism → crisis. Created 5: **[[southeast-asian-port-polity]]** (the cosmopolitan entrepôt; cities bigger in 1600 than 1850; the van Leur/Meilink-Roelofsz capitalism debate), **[[melaka]]** (the paradigmatic entrepôt; Parameswara→1511), **[[islamization-of-southeast-asia]]** (the connected "religious revolution"), **[[southeast-asian-absolutism]]** (gunpowder kingship & its conciliar rivals), and **[[seventeenth-century-general-crisis]]** (SE Asia in the global crisis debate). Enriched 6 — **[[southeast-asian-age-of-commerce]]** (economic boom + crisis + "origins of poverty"), **[[indian-ocean-trade]]**, **[[buddhism]]** (Theravada sangha reform), **[[islam]]** (the archipelago), **[[military-revolution]]** (the SE Asian test case), **[[dutch-east-india-company]]** ("winner of the crisis"). Lieberman's mainland critique flagged throughout. Filed to `raw/3. Middle Ages/`. **Both Reid volumes done → strong maritime/archipelago spine; Cambridge History of SE Asia next for Srivijaya, Majapahit, Champa, Burma, Siam, Vietnam.**)
+
 Last updated: 2026-06-12 (**Anthony Reid — *Southeast Asia in the Age of Commerce, 1450–1680*, Volume One: *The Lands Below the Winds*** (Yale, 1988) — INGEST COMPLETE (Large-Volume, 3 cycles + synthesis). The **regional-framing backbone** for **Gap 3 (Southeast Asia)** — the maritime region as a single culture-area, complementing Coe's single-civilization Khmer anchor. Created 4: **[[southeast-asian-age-of-commerce]]** (Reid's Braudelian 1450–1680 boom-and-crisis thesis), **[[women-in-precolonial-southeast-asia]]** (the autonomy-of-women argument), **[[debt-bondage-in-southeast-asia]]** (the manpower-not-land social order), and **[[theatre-state]]** (Geertz's exemplary-centre concept, applied to the commercial-age courts and back to the [[devaraja]]). Enriched **[[southeast-asia]]** (the "lands below the winds" unity, demography, material/social/festival life) and **[[devaraja]]**. Flagged Lieberman's mainland-integration critique throughout. Filed to `raw/3. Middle Ages/`. **Vol. 2 (*Expansion and Crisis*) and the Cambridge History of SE Asia remain — to build Srivijaya, Majapahit, Champa, Burma, Siam, Vietnam.**)
 
 Last updated: 2026-06-12 (**Michael D. Coe — *Angkor and the Khmer Civilization*** (Thames & Hudson, 2003) — INGEST COMPLETE (Large-Volume, 3 cycles + synthesis). The wiki's **first dedicated Southeast Asian source**, opening the long-flagged SE Asia gap (Gap 3). Created 5: **[[khmer-empire]]** (Angkor, 802–1431), **[[angkor]]** *(enriched existing)*, **[[jayavarman-vii]]**, **[[funan]]** (the pre-Angkorian Funan/Zhenla states), **[[devaraja]]** (the god-king cult), and the **[[southeast-asia]]** regional anchor. Enriched **[[indianization-of-southeast-asia]]** (the Khmer close-up: Oc Eo, the Zhenla temples), **[[angkor]]** (Coe's monuments — Angkor Wat, the Bayon, Zhou Daguan), **[[mahayana-buddhism]]** & **[[hinduism]]** (the Khmer state cults). Filed to `raw/3. Middle Ages/`. **Begins the Southeast Asia leg of Gap 3; the archipelago, Burma, Siam & Vietnam remain (Reid, Cambridge History of SE Asia next).**)
@@ -452,13 +454,13 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 |---|---|
 | Periods | 25 |
 | Events | 192 |
-| Processes | 113 |
+| Processes | 114 |
 | Actors | 422 |
-| Places | 108 |
-| Concepts | 225 |
+| Places | 109 |
+| Concepts | 228 |
 | Comparisons | 0 |
 | Controversies | 44 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 36 |
-| **Total** | **1164** |
+| Sources | 37 |
+| **Total** | **1170** |

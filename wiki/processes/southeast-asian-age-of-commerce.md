@@ -118,12 +118,44 @@ sharp falloff in dated Javanese court chronicles after c. 1675) as evidence of t
 pluralistic, secular, cosmopolitan urban culture** that commerce had nourished — the cultural face of
 the crisis.
 
+## The crisis and the "origins of poverty" (Vol. 2, Ch. V)
+
+Reid's central and most-debated claim is that the boom did not simply fade but **broke** in the
+[[seventeenth-century-general-crisis|general crisis of the seventeenth century]]. He places the
+**turning point at 1629** — the year of the spectacular failed attempts to expel the Dutch from Melaka
+and Batavia — with the trade indices declining from c. 1630 and the "death throes" of the era running to
+the **1680s**. The crisis had **global** roots Southeast Asia shared: the worldwide trade downturn of
+1620–50, the contraction of the **silver** supply (Potosí's collapse after 1630; Japan's withdrawal from
+overseas trade in 1635 and its 1668 silver-export ban), the **Ming collapse** that gutted Chinese
+demand, and the **Little Ice Age**. Southeast Asia was hit **especially hard** because it had gained
+most from the boom (its spices and pepper were over half of Europe's homeward Asian cargoes in the
+1620s), and **especially permanently** — because maritime trade was so central to it, and because the
+[[dutch-east-india-company|VOC]], "the undoubted winner of the crisis," used monopoly and force (Banda
+1621; the destruction of the Javanese ports; the 1677 Mataram treaty) to capture what survived.
+
+Reid's most provocative thesis gives the chapter its title — **"the origins of Southeast Asian
+poverty."** Because the region's favourable ecology spared it the mass die-offs seen in China and
+Europe, the crisis registered less as demographic collapse than as a **retreat from the world economy**:
+the Asian-ruled trading cities lost their place both in world trade and within their own societies, and
+the long-term shift was **the reduced importance of commerce, merchants, urbanism, and cosmopolitanism**
+in Southeast Asian life — together with a new **distrust of external ideas**. The
+[[southeast-asian-absolutism|absolutist states]] forged in the competition for trade, arms, and men
+turned inward, resorting to symbolic assertions of primacy where real competition had eased. On the
+question of **capitalism**, Reid (following Braudel) concludes the region had gone **further than most of
+the world down the path of reliance on maritime trade, but less far toward the accumulation of capital
+in private and corporate hands** — and so, lacking the VOC's combination of decentralisation and
+cohesion, its heterogeneous cities "had no chance of surviving the fierce competition of the seventeenth
+century." This retreat, on Reid's reading, set the stage for the relative impoverishment that European
+[[colonialism]] would deepen.
+
 ## End conditions
 
-Reid's central and most-debated claim: the boom did not simply fade but **broke** in a mid-to-late
-seventeenth-century crisis (climatic downturn, VOC monopoly violence, fiscal-military strain), after
-which Southeast Asian states turned inward, commercial cities shrank, and the region's autonomous
-trading world gave way to European-dominated commerce — the threshold of the colonial era.
+The age of commerce ended in the seventeenth-century crisis, c. **1629–1680s**. Its most **permanent**
+legacies were not commercial but cultural and religious: the [[islamization-of-southeast-asia|scriptural
+faiths]] (Islam, Christianity, reformed Theravada, Confucianism) that the era had spread proved
+**irreversible**, fixing the region's enduring religious map even as the commercial, urban, cosmopolitan
+world that had carried them receded. The autonomous trading world gave way to a more inward, agrarian
+order and, ultimately, to European-dominated commerce — the threshold of the colonial era.
 
 ## Historiography
 

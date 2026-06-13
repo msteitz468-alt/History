@@ -19,8 +19,8 @@ reliability_notes: >
   gives Southeast Asia its place in the global **seventeenth-century crisis** debate. Field-defining and
   authoritative, though its boom-crisis model and unitary "crisis" have been qualified by later work
   (esp. Lieberman's mainland *Strange Parallels*).
-pages_created: 4
-pages_updated: 5
+pages_created: 5
+pages_updated: 6
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -59,4 +59,41 @@ the seventeenth century**.
 
 ## Volume Synthesis Note
 
-*(to be written in the Step 3 cross-section synthesis pass)*
+Volume 2 supplies the **narrative engine** that Volume 1's thematic portrait lacked, and together the two
+volumes now anchor the wiki's [[southeast-asian-age-of-commerce|age of commerce]] as a complete
+interpretive system. Its argument is a single arc: a **commercial boom** (Ch. I) — Southeast Asia's
+spices and pepper at the heart of Braudel's "long sixteenth century," fed by New World and Japanese
+silver — generated a wave of **cosmopolitan trading cities** (Ch. II), drove a connected **religious
+revolution** toward the scriptural faiths (Ch. III), and funded a new **gunpowder absolutism** (Ch. IV);
+then the whole edifice **broke** in the [[seventeenth-century-general-crisis|seventeenth-century crisis]]
+(Ch. V), leaving the region poorer, more inward, and ripe for European domination. Each chapter became a
+wiki page: [[southeast-asian-port-polity]], [[melaka]], [[islamization-of-southeast-asia]],
+[[southeast-asian-absolutism]], and [[seventeenth-century-general-crisis]], with the umbrella
+[[southeast-asian-age-of-commerce]] page enriched across all five.
+
+The volume's deepest contribution is **integrative**: it writes Southeast Asia *into* global early-modern
+history. The region is no longer a passive recipient awaiting colonisation but a central player in the
+Braudelian world economy, the global silver circuit, the [[military-revolution|military revolution]], and
+the [[seventeenth-century-general-crisis|general crisis]] debate (Hobsbawm, Trevor-Roper, Goldstone). The
+recurring analytical thread is the **comparison with Europe** (the van Leur/Meilink-Roelofsz argument
+over capitalism, the property-rights difference, the [[dutch-east-india-company|VOC]]'s unique fusion of
+decentralisation and cohesion) — and the consistent finding that Southeast Asia went *further* toward
+maritime-trade dependence but *less far* toward the impersonal accumulation of capital, which is why its
+crisis proved so much more permanent than Europe's. Reid's boldest and most contested claim, **"the
+origins of Southeast Asian poverty,"** turns the region's later backwardness into a *historical product*
+of the crisis and VOC monopoly rather than a timeless "traditional" condition — paired with the striking
+demographic argument (from Vol. 1 and Ch. II here) that **colonialism de-urbanised** a region that had
+been more urban in 1600 than in 1850.
+
+**Cross-source tensions.** The standing counterweight, flagged on every page, is **Victor Lieberman**'s
+*Strange Parallels*: the **mainland** states (Burma, Siam, Vietnam) followed a long-run rhythm of
+**administrative integration and territorial consolidation** that does not fit a maritime boom-and-bust
+or a mid-century "crisis," so Reid's model is strongest for the **archipelago** and weakest for the
+Confucian/agrarian mainland (Vietnam is his own acknowledged exception). The "age of commerce" and
+"general crisis" frames, the unitary dating (1629 turning point), and the "origins of poverty" thesis all
+remain live debates. **What this completes and what remains.** With both Reid volumes the wiki now has a
+strong **maritime/archipelago** spine for Southeast Asia (the commercial cities, Islam, the VOC, the
+crisis) atop Coe's mainland Khmer anchor. Still to be built as discrete polities — the natural next
+source being the **Cambridge History of Southeast Asia** (Tarling): **Srivijaya, Majapahit, Champa,
+Pagan/Burma, Ayutthaya/Siam, and Vietnam** (several now exist only as forward-links or as passing
+mentions on the thematic pages).

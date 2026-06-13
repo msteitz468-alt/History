@@ -9,8 +9,8 @@ affiliated_with: [the Dutch Republic (States General), Amsterdam stock market]
 opposed_by: [Portuguese Estado da India, English East India Company, Asian states resisting monopoly (Banda, Ternate, Mataram)]
 key_events: [Banda massacre (1621), expulsion of the Portuguese from Japan and Taiwan, founding of Batavia (1619)]
 key_processes: [early-modern-commerce, indian-ocean-trade, global-silver-trade, plantation-economy]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [actor, organization, early-modern, indian-ocean]
 ---
 
@@ -79,3 +79,20 @@ provocative grouping of the companies with stateless merchant networks.
 The VOC's place in the wider **[[dutch-overseas-empire|Dutch overseas empire]]** (Atlantic and Indian
 Ocean together) is now treated in the ingested **[[emmer-dutch-overseas-empire|Emmer & Gommans, *The
 Dutch Overseas Empire, 1600–1800*]]**.
+
+## The VOC and the end of the Southeast Asian age of commerce (Reid)
+
+Anthony Reid's [[reid-southeast-asia-age-of-commerce-v2-1993|*Age of Commerce*]] casts the VOC as **"the
+undoubted winner of the seventeenth-century crisis in Asia"** and the decisive agent that ended the
+[[southeast-asian-age-of-commerce|age of commerce]]. Where the heterogeneous, ruler-dominated
+[[southeast-asian-port-polity|Southeast Asian trading cities]] could not pool capital or institutionalise
+property rights, the Company combined **decentralisation with cohesion** — acting with "unprecedented
+unity of purpose" in Asia while pooling capital in a complex legal structure at home — making it, in
+Reid's judgment, "the most effective capitalist institution of seventeenth-century Southeast Asia, and
+probably the world." Its monopoly violence dismantled the autonomous trading world: the seizure of
+nutmeg-rich **Banda (1621)**, the throttling of rival entrepôts, the conquest of **Makassar (1669)**, and
+the **1677 treaty** with [[southeast-asian-absolutism|Mataram's]] Amangkurat II — which gave the VOC a
+monopoly on cloth, opium, rice, and sugar and the cession of the north-coast ports. Because maritime
+trade was so central to Southeast Asia, the crisis the VOC engineered there was **far more permanent**
+than the parallel crisis in Europe — part of what Reid calls the "[[seventeenth-century-general-crisis|origins
+of Southeast Asian poverty]]," and the threshold of the colonial era in the [[southeast-asia|region]].
