@@ -5,7 +5,7 @@ origin: A 20th-century concept (the term popularized by Erich Ludendorff's *Der 
 applies_to_periods: [World Wars Era, Long 19th Century]
 applies_to_regions: [transregional]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -61,6 +61,7 @@ whole), and frames the trajectory from 1914 toward the even more total violence 
 
 ## Related
 
+- [[war-economy]] — its realization on the home front (the command economy and the growth of the state).
 - [[first-world-war-1914]] · [[second-world-war-1939]] — the wars it describes; [[world-wars-era]] — the period.
-- [[winter-cambridge-history-first-world-war-v1]] — the source; [[strategy]] — the broader analysis of war aims and means.
+- [[winter-cambridge-history-first-world-war-v1]] · [[winter-cambridge-history-first-world-war-v2]] — the sources; [[strategy]] — the broader analysis of war aims and means.
 - [[nuclear-arms-race]] — the ultimate horizon of total war (mutual annihilation) in the [[cold-war|Cold War]].
