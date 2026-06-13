@@ -71,6 +71,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. VII (colonial 1880–1935) | Section: Partition, conquest & resistance (chs. 1–8) | Pages created: 1 | Pages updated: 1 | (african-resistance-to-colonial-rule; enriched scramble-for-africa)
 
+## 2026-06-12 section | GHA Vol. VIII (since 1935) | Section: Socio-cultural change (Section V) | Pages created: 0 | Pages updated: 1 | (pan-africanism — the cultural renaissance, Achebe/Soyinka/Négritude)
+
 ## 2026-06-12 section | GHA Vol. VIII (since 1935) | Section: Nation-building & post-colonial politics (Section IV) | Pages created: 0 | Pages updated: 1 | (colonial-economy — neo-colonialism continuity; nation-building covered in post-colonial-africa)
 
 ## 2026-06-12 section | GHA Vol. VIII (since 1935) | Section: Underdevelopment & economic independence (Section III) | Pages created: 1 | Pages updated: 0 | (post-colonial-africa)
