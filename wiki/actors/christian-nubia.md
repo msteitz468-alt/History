@@ -9,7 +9,7 @@ affiliated_with: [Coptic/Monophysite Christianity, Byzantine Egypt, Fatimid and 
 opposed_by: [the Blemmyes, Muslim Egypt (the Baqt treaty, later Mamluk pressure), the Funj]
 key_events: [conversion of the Nobades (543), the Arab invasions and the Baqt treaty (652), the fall of Dongola (14th c.), the fall of Soba (c. 1504)]
 key_processes: [[[christianization]], [[trade-network-formation]], Islamization]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, state, late-antiquity, early-middle-ages, north-africa, sub-saharan-africa]
 ---
@@ -67,6 +67,17 @@ a literate church culture writing in **Old Nubian** (a Nubian language in a Copt
 alongside Greek and Coptic. The **Baqt** with Fatimid Egypt held, and Nubian bishops were still consecrated
 by the Coptic Patriarch of Alexandria — a confident, wealthy African Christian state at the very moment
 Islam was consolidating all around it.
+
+## The end: Mamluk pressure and the Funj (GHA IV)
+
+The **UNESCO [[gha-vol4-12th-16th-century|General History of Africa, Vol. IV]]** (ch. 16, Kropáček) traces
+the **slow death of Christian Nubia**: repeated **Mamluk** interventions and the installation of a Muslim
+king at Dongola (1316), the steady infiltration of Arab nomads, and the gradual, uneven Islamization of the
+population — yet Christian communities persisted remarkably long (a bishop was still buried with his scrolls
+at Qasr Ibrim in **1372**, and a Portuguese chaplain in the 1520s heard of 150 surviving Nubian churches).
+The southern kingdom of **Alodia/Soba** finally fell around **1504** to the rising **Funj** sultanate (with
+the Abdallab Arabs), completing the Islamization of the Nilotic Sudan and closing the millennium-long
+Christian chapter.
 
 ## Significance
 
