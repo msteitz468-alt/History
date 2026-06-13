@@ -113,6 +113,24 @@ emperor order). **Ended** in 1333 when **Emperor Go-Daigo**, allied with defecti
 houses (Ashikaga, Nitta), destroyed the Hōjō — the brief **Kemmu Restoration** — which
 collapsed into the [[muromachi-period|Muromachi/Ashikaga]] order.
 
+## The culture of mappō (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v3-medieval|Cambridge History]] (H. Paul Varley) reads the
+era's elite culture as the product of ***mappō*** **pessimism** — the Buddhist sense of
+living in "the latter days of the law," an age of decline — fused with a **nostalgia for the
+[[heian-period|Heian]] past**. This tone pervades the period's masterworks: **Kamo no
+Chōmei's *Hōjōki*** (the hermit's meditation on impermanence) and the great war tale the
+***Heike monogatari***, the chronicle of the [[minamoto-no-yoritomo|Taira's]] fated
+destruction. Varley credits *mappō* with shaping the age's central aesthetic precepts —
+***yūgen*** (mystery and depth), ***sabi*** (loneliness), and ***wabi*** (the plain and
+humble) — already visible in the last great imperial poetry anthology, the **Shinkokinshū
+(1205)**, with its taste for "the weathered and withered, the desolate and lonely." (Varley
+controversially traces these precepts to Heian roots rather than to [[zen-buddhism|Zen]] —
+see [[zen-and-medieval-japanese-aesthetics]].) On religion, Ōsumi Kazuo frames the
+[[japanese-buddhism|new Kamakura schools]] (Pure Land, Shin, Zen, Nichiren) as
+**"revolutionary"** — the first time Buddhism was fully adapted to Japanese concerns and
+rooted among the common people.
+
 ## Historiography
 
 A central debate (Mass; Sansom ends his Vol. 1 at 1333, not 1185) is whether Kamakura

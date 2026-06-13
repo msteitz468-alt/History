@@ -5,7 +5,7 @@ origin: imported from Korea (Paekche) to the Yamato court in 538/552 CE; develop
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, Contemporary]
 applies_to_regions: [japan, east-asia]
 contested: no
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -118,6 +118,24 @@ degenerate "latter age" when the old disciplines no longer availed:
   invasions]] as divine punishment; his intolerant, this-worldly sect still endures.
 - **[[zen-buddhism|Zen]]** — the meditation school (Eisai's Rinzai, Dōgen's Sōtō), treated
   on its own page; it shaped the warrior ethos and the classic Japanese aesthetic.
+
+## Why the Kamakura schools were "revolutionary" (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v3-medieval|Cambridge History]] (Ōsumi Kazuo) gives the most
+authoritative account of what made the new [[kamakura-period|Kamakura]] schools — Pure Land
+(Jōdo), True Pure Land (Jōdo Shin), Zen (Sōtō and Rinzai), and Nichiren (Hokke) — a genuine
+turning point. They were "revolutionary," Ōsumi argues, because **for the first time
+Buddhism was fully adapted to Japanese concerns and put down roots among the common
+people**: Hōnen and Shinran's Pure Land teaching did not restrict salvation to those with
+specialized religious training (ordinary people could reach enlightenment through the simple
+**nembutsu** or through faith); Nichiren offered a **"this-world" salvation** with guidance
+and hope for everyday life; and figures like **Ippen** absorbed [[shinto|Shintō]] practices,
+making the new faith compatible with popular spiritual inclinations. Ōsumi also notes the
+dynamic with the **old establishment**: the entrenched schools first responded with
+**persecution** (most of the new founders spent years in **exile**), but the new sects' very
+existence then acted as a **catalyst forcing the established schools to reform and revive
+themselves**. (Ōsumi's generation reacts against the immediate-postwar tendency to read the
+new sects mainly as reflections of class or regional values.)
 
 ## A vehicle of continental culture (Sansom)
 

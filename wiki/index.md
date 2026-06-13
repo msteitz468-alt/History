@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-13 (**The Cambridge History of Japan, Vol. 3: Medieval Japan (Yamamura ed., 1990)** — LARGE-VOLUME **INGEST COMPLETE** (4 cycles + synthesis). The authoritative Cambridge reference on **medieval Japan (1185–1603)** — the warrior age from the Kamakura bakufu through the Muromachi/Ashikaga order to the *sengoku* eve of unification. Created 4 pages — **[[medieval-shoen]]** (the estate system: shiki hierarchy; jitō encroachment via *ukesho*/*shitaji chūbun*; Nagahara's dissolution into fiefs + the medieval peasant & *sō* villages), **[[shugo-daimyo]]** (the constable → territorial lord: *hanzei*/*tansen*; Hall's rehabilitation of the Ashikaga bakufu; the shugo-vs-kokujin debate), **[[medieval-japanese-commerce]]** (Yamamura's commercial revolution — monetization on Chinese coin, *za* guilds, money-without-a-mint), and the controversy **[[zen-and-medieval-japanese-aesthetics]]** (Varley/Ruch vs. Sansom/Mason on whether Zen shaped medieval taste). Deepened 8: **[[kamakura-period]]** (Mass — the bakufu as a court of justice; Hōjō revisionism; Jōkyū War 1221; the *mappō* aesthetic), **[[muromachi-period]]** (Hall's Ashikaga rehabilitation; the Ming tribute system; Ruch's common culture), **[[shogunate-bakufu]]**, **[[minamoto-no-yoritomo]]** (the shugo/jitō legacy), **[[mongol-invasions-of-japan-1274-1281]]** (Kawazoe — the war that broke Kamakura: no reward land → *tokusei*), **[[samurai]]**, **[[zen-buddhism]]** ([CONTRADICTION]), **[[japanese-buddhism]]** (Ōsumi — the "revolutionary" Kamakura schools). Theme: the **transfer of power over the land from capital to warriors** — institutional, economic, diplomatic, and cultural. Filed to `raw/4. Modern Times/`. **Phase B (Japan) remaining: CHJ Vols 4 (Early Modern), 5 (19th c.), 6 (20th c.) + New CHJ 2.**)
+
 Last updated: 2026-06-13 (**The Cambridge History of Japan, Vol. 1: Ancient Japan (Brown ed., 1993)** — LARGE-VOLUME **INGEST COMPLETE** (4 cycles + synthesis). The wiki's first **Cambridge reference volume on Japan** — the authoritative, interdisciplinary deepening of the ancient-Japan spine. By design created 1 page — **[[ritsuryo-state]]** (the Chinese-modeled legal-bureaucratic state: *ritsu/ryō* codes, Taihō 701, Temmu's kabane nobility, handen land & soyōchō taxes) — and deepened 8: **[[early-agriculture-japan]]** (rice from the Yangtze delta; Jōmon/Yayoi coexistence), **[[yamato-japan]]** (the Korea iron nexus; the seven-pronged sword; the **Mimana-colony revisionism**), **[[taika-reform-645]]** (the Four-Article Edict & authenticity debate), **[[nara-period]]** (the early shōen eroding the ritsuryō system), **[[shotoku-taishi]]**, **[[shinto]]** (pan-Asian/Pacific roots; the 5-part cosmos), **[[japanese-buddhism]]** (ritsuryō/state Buddhism on the Tang/Silla model), **[[kojiki-yasumaro]]** (Brown's linealism/vitalism/optimism). Theme: a **less indigenous, more continental** ancient Japan; the making of the *ritsuryō* state (Shōtoku 604 → Taika 646 → Taihō 701); and why the sacred imperial line anchors Japanese historical consciousness. Filed to `raw/4. Modern Times/`. **Phase B (Japan) remaining: CHJ Vols 3 (Medieval), 4 (Early Modern), 5 (19th c.), 6 (20th c.) + New CHJ 2.**)
 
 Last updated: 2026-06-13 (**The Tale of Genji (Murasaki Shikibu, c. 1001–1020; trans. Arthur Waley)** — INGEST COMPLETE (standard single-pass, **primary source**). The central literary primary for Heian Japan, read after the Mason+Sansom cultural framing. Created **[[murasaki-shikibu]]** (the Heian court lady, author of the Genji & a famous *Diary*) and **[[tale-of-genji]]** (the 54-chapter romance of Prince Genji "the Shining One" — the **world's first psychological novel**; *mono no aware* & impermanence; the kana women's literature; its millennium-long afterlife). Source page **[[waley-tale-of-genji]]** records the classical-Japanese original & Waley's free, abridging translation. Enriched **[[heian-court-culture]]** and **[[heian-period]]** (the supreme monument of Heian culture now ingested directly). **Phase B (Japan) remaining: the Cambridge History of Japan vols (1, 3–6) + New CHJ 2.**)
@@ -481,13 +483,13 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 |---|---|
 | Periods | 32 |
 | Events | 231 |
-| Processes | 142 |
+| Processes | 143 |
 | Actors | 531 |
 | Places | 120 |
-| Concepts | 276 |
+| Concepts | 278 |
 | Comparisons | 1 |
-| Controversies | 50 |
+| Controversies | 51 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 133 |
-| **Total** | **1516** |
+| Sources | 134 |
+| **Total** | **1521** |

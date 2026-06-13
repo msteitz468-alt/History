@@ -116,6 +116,25 @@ formidable Ming; and control over the **Kyūshū tandai** that handled legal Chi
 chapter also treats relations with **Korea** and the **Ryūkyūs** and the disruptive
 ***wakō*** pirates who shadowed all East Asian commerce.
 
+## Elite and common culture reassessed (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v3-medieval|Cambridge History]] refines the cultural story on
+two fronts. **H. Paul Varley** locates the period's aesthetic in *mappō* pessimism plus
+**Heian nostalgia** (see [[kamakura-period]]) and credits the **military patronage** of the
+shoguns — above all **Yoshimitsu**, whose **Kitayama epoch (1368–1408)** brought **Noh** to
+its refined, courtly form under his protégé **Zeami**. Varley reads Yoshimitsu's lavish
+patronage as **political ambition**: by combining the military and civil elements of rule
+(even mimicking the imperial calendar of formal events) he aimed at a kind of **"feudal
+kingship."** Varley's pointed revision — that the medieval arts reflect indigenous,
+Heian-rooted taste **with which Zen merely coincided** — runs against the Sansom/Mason
+"Zen-saturation" reading recorded on [[zen-buddhism]]; see
+[[zen-and-medieval-japanese-aesthetics]]. **Barbara Ruch**, meanwhile, opens the long-ignored
+**"common culture" of the nonelite majority** — itinerant storytellers, shamans, women as
+cultural actors, popular songs and picture-scrolls, the new **common gods** (kannon, jizō,
+gods of fortune) as "a powerfully unifying social force," and the *Heike monogatari*
+popularized into **national myth** — arguing that the rarefied precepts (*yūgen*, *sabi*)
+"play no role at all" in these common arts.
+
 ## Geographic Scope
 
 Centered on Kyoto until the Ōnin War, then radically decentralized into scores of daimyo
