@@ -9,7 +9,7 @@ affiliated_with: [the Li imperial house (of mixed Chinese-Xianbei descent)]
 opposed_by: [the Eastern Türks, the Tibetan Empire, the [[caliphate|Abbasid Caliphate]], Koguryŏ]
 key_events: [defeat of the Eastern Türks 630 CE, conquest of Paekche 660 and Koguryŏ 668 CE, Battle of Talas 751 CE, An Lushan rebellion 755 CE]
 key_processes: [[[empire]], [[silk-roads]], civil service examinations, [[buddhism]], [[east-asian-cultural-sphere]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-10
 tags: [actor, dynasty, early-middle-ages, china, east-asia]
 ---
@@ -74,7 +74,11 @@ cosmopolitan Tang order gave way to the commercialized, examination-governed, an
 The Tang created the enduring late-imperial Chinese order — meritocratic bureaucracy,
 print culture, Neo-Confucianism — and stood at the western-facing hub of the second Silk
 Roads era, its cosmopolitanism radiating models of statecraft, writing, and Buddhism across
-the **[[east-asian-cultural-sphere|East Asian cultural sphere]]**.
+the **[[east-asian-cultural-sphere|East Asian cultural sphere]]**. Among the most thorough
+borrowers was **[[japan|Japan]]**, whose [[taika-reform-645|Taika Reform]] and
+[[nara-period|Nara]] state consciously modeled their law codes, bureaucracy, and capital
+plan (Nara/Heian on Chang'an's grid) on the Tang — then domesticated them into a
+distinctively Japanese civilization.
 
 ## Historiography
 

@@ -8,8 +8,8 @@ region: [japan, east-asia, korea]
 process_type: [economic, demographic, cultural, technological]
 driven_by: ["introduction of paddy rice from Korea/China ~900 BCE", "migration + indigenous Jomon adaptation", "[[agricultural-origins]]"]
 produces: ["the Yayoi rice-farming society", "rapid population growth and inter-communal violence", "the Japonic language spread", "early Japanese state formation"]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [process, neolithic, japan, east-asia]
 ---
 
@@ -99,3 +99,19 @@ By ~500 CE (Kofun period) paddy intensification and centralized land development
 had reshaped much of the archipelago, feeding into the formation of the early
 Japanese state. Rice remains central to Japanese identity, ritual, and the
 *satoyama* landscape ideal.
+
+## Note (Mason & Caiger)
+
+Mason and Caiger's [[mason-caiger-history-of-japan|history]] stress that **Jōmon
+pottery** (rope-marked) was made **before 10,000 BCE** — among the earliest in the world —
+by gatherer-hunter-fishers who practiced rudimentary cultivation from ~5000 BCE. The
+**Yayoi** transformation (wet rice, bronze and iron, weaving, the potter's wheel) spread
+rapidly west-to-east after ~500 BCE, probably via continental migrants, enabling denser
+populations, permanent villages, and the first **social stratification** — vividly shown
+by the large defended Yayoi settlement excavated at **Yoshinogari** in northern Kyūshū.
+This is the substrate from which [[yamato-japan|Yamato]] and the Japanese state arose.
+
+## Related
+
+- [[yamato-japan]] — the polity that grew from Yayoi society.
+- [[japan]] · [[mason-caiger-history-of-japan]] — anchor and narrative spine.

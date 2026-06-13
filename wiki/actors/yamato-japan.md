@@ -7,10 +7,10 @@ period: [Late Antiquity, Early Middle Ages]
 region: [japan, east-asia]
 affiliated_with: [the Yamato court, Paekche (ally)]
 opposed_by: [the Tang-Silla alliance (defeated at the Paekchon River 663 CE)]
-key_events: [Yayoi-to-Kofun transition, introduction of Buddhism 538/552 CE, Battle of the Paekchon River 663 CE, building of Nara 710 CE]
-key_processes: [[[state-formation]], [[buddhism]], [[east-asian-cultural-sphere|adoption of Chinese statecraft]]]
-sources_ingested: 2
-last_updated: 2026-06-10
+key_events: [Yayoi-to-Kofun transition, introduction of Buddhism 538/552 CE, the [[taika-reform-645|Taika Reform (645)]], Battle of the Paekchon River 663 CE, building of Nara 710 CE]
+key_processes: [[[state-formation]], [[japanese-buddhism]], [[shinto]], [[east-asian-cultural-sphere|adoption of Chinese statecraft]]]
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [actor, state, late-antiquity, early-middle-ages, japan, east-asia]
 ---
 
@@ -71,3 +71,26 @@ era.
 The court's own origin-myth — the descent of the imperial line from the sun goddess Amaterasu — is now
 ingested as the **[[kojiki-yasumaro|Kojiki]]** (712), the foundational text of [[shinto|Shinto]] and a
 primary witness to how Yamato legitimated its rule.
+
+## Society and the road to the centralized state (Mason & Caiger)
+
+Mason and Caiger's [[mason-caiger-history-of-japan|narrative]] details Yamato social
+structure and the transition it underwent. Power was displayed in the **kofun** — the
+keyhole tombs whose greatest, the tomb of Emperor Nintoku (Osaka), covers 32 hectares and
+took ~20 years to build, their slopes ringed with **haniwa** clay cylinders. Society was
+organized into **uji** (aristocratic kinship groups) commanding hereditary occupational
+corporations called **be** (potters, weavers, soldiers, rice-growers, including skilled
+Korean/Chinese immigrants); the great uji leaders at court could be more powerful than the
+sovereign and shared in choosing his successor. The decisive turn came with the
+**Soga–Mononobe** struggle over [[japanese-buddhism|Buddhism]] (Soga victory 587), then the
+645 coup and the **[[taika-reform-645|Taika Reform]]**, which converted this clan
+confederation into the centralized imperial state of the [[nara-period|Nara]] and
+[[heian-period|Heian]] periods. Sacred legitimacy rested on descent from [[shinto|Amaterasu]];
+the very word for government, *matsurigoto*, meant "the business of worship."
+
+## Related
+
+- [[taika-reform-645]] — the reform that transformed the Yamato confederation.
+- [[nara-period]] · [[heian-period]] — the imperial state that emerged.
+- [[shotoku-taishi]] · [[fujiwara-clan]] — the key actors of the transition and after.
+- [[japan]] · [[shinto]] · [[japanese-buddhism]] — anchor and religious foundations.
