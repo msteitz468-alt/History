@@ -5,7 +5,7 @@ date_range: "710–794 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the mature Chinese-modeled centralized imperial state", "the Taihō legal codes", "state Buddhism (Tōdaiji & the provincial temple system)", "the first national histories & poetry", "continental cultural borrowing"]
 collection_coverage: moderate
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -65,6 +65,25 @@ Kyūshū, and Shikoku; the northern frontier still contested with the Ainu.
 chiefly to escape the entrenched Nara monasteries — which opens the [[heian-period|Heian
 period]]. **Preceded by** the [[yamato-japan|Yamato/Asuka]] era and the
 [[taika-reform-645|Taika Reform]].
+
+## Chinese learning and the conflict of native and alien (Sansom)
+
+George Sansom's [[sansom-short-cultural-history-japan|cultural history]] frames the Nara age
+as the wholesale import of Chinese civilization onto a materially "poor" native base — and
+sounds his signature theme: a "young people in an early stage of rapid development" were
+"likely to **borrow more than they could assimilate, to take over outward form rather than
+inward significance**," so that the history of Japan after the [[taika-reform-645|Taika
+Reform]] becomes "the history of a **conflict between native habits and alien principles**."
+The imported package was not only [[japanese-buddhism|Buddhism]] but **Confucianism** — the
+cult of the **family** and **filial piety** (the *Classic of Filial Piety* was part of every
+school's curriculum by the end of the eighth century), and a theory of the state in which
+the ruler holds Heaven's mandate by **virtue** (deposable if deficient) rather than, as in
+Japan, by [[shinto|divine ancestry]] — a tension the Japanese resolved in their own way.
+Sansom argues (against some) that Japanese **ancestor worship** grew chiefly from Confucian
+doctrine, not from early Shintō. The Nara cultural legacy — the great monasteries
+(Hōryūji, Tōdaiji), and the cosmopolitan treasures of the **Shōsōin** (textiles,
+instruments, and goods from across Asia to Persia) — embodies this absorption of continental
+high culture.
 
 ## Historiography
 

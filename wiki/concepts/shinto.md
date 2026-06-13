@@ -5,7 +5,7 @@ origin: the indigenous ritual and mythological tradition of Japan; given literar
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Long 19th Century, World Wars Era, Contemporary]
 applies_to_regions: [japan, east-asia]
 contested: yes
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -63,6 +63,34 @@ cloistered emperors, and shoguns) but the throne itself was **never usurped**; a
 oracle was decisive in blocking the monk Dōkyō from the throne in 770. The long fusion with
 Buddhism worked through ***honji suijaku*** (kami as local manifestations of buddhas), a
 single religious world until the Meiji separation.
+
+## A religion of love and gratitude (Sansom)
+
+George Sansom's classic [[sansom-short-cultural-history-japan|cultural history]] gives the
+indigenous cult its fullest characterization. Early Shintō was "an untutored pantheism" —
+a vision of the universe "composed of a myriad sentient parts" — but, crucially, **a
+religion of love and gratitude rather than of fear** (Aston): its rites existed "to praise
+and thank as much as to placate." The genial Japanese landscape bred reverence not only for
+the awesome (sun, storm) and useful (the well, the cooking-pot) but for the **lovely** —
+rocks, streams, trees, flowers — so that Shintō is the deep root of the Japanese
+**aesthetic sensibility to nature** (a striking tree or rock still marked as holy). Sansom
+notes the religion's "prolific but feeble" imagination — gods "confused and shadowy," no
+idols, no clear idea of an immortal soul, **no abstract morality**: its code was "not
+ethical but customary and ceremonial."
+
+Its **outstanding feature was ritual purity**. Offences (*tsumi*) and taboo (*imi*) centered
+on **uncleanness** — dirt, sickness, wounds (the word *kega* means both wound and
+defilement), and above all **death and blood** (birth and death were removed to special
+huts; the capital was moved on a sovereign's death). The Great **Purification Ritual**
+(*harae*) listed "heavenly" offences (Susa-no-wo's agricultural crimes) and "earthly" ones.
+Religious function was carried by **hereditary corporations** — the **Imibe** (abstainers
+keeping ritual purity), the **Nakatomi** (liturgists who addressed the gods on the ruler's
+behalf), and the **Urabe** (diviners) — though the priesthood was small and most officials
+performed rites. That ruler and priest were originally one (the queen-sorceress **Himiko**)
+underlies the word ***matsurigoto*** ("government" = "religious observances"), used of the
+ministers' work — administration as a form of worship. The cult was never homogeneous: local
+cults (notably the **Izumo** earth-god pantheon) fused with the **Yamato** sun-worship as
+tribes coalesced.
 
 ## Related
 

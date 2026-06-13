@@ -17,7 +17,7 @@ reliability_notes: >
   Mason-built period pages with cultural substance** and to create dedicated cultural pages.
   Ingested via the Large-Volume Protocol (~23,500 lines, 7 Parts → 4 cycles).
 pages_created: 0
-pages_updated: 0
+pages_updated: 3
 ingested: 2026-06-13
 tags: [source]
 ---
@@ -33,7 +33,7 @@ by the standard political periods but focused on **religion, the arts, letters, 
 
 | Cycle | Parts / Chapters | Period(s) | Key page operations |
 |---|---|---|---|
-| 1. Origins, the indigenous cult & the Chinese impact | Parts I–II, chs I–VI (origins; myths/chronicles; the indigenous cult; introduction of Chinese learning; Taikwa; Nara) | Late Antiquity → Early Middle Ages | **Enrich** [[shinto]] (the indigenous cult), [[japanese-buddhism]] (arrival, Nara state Buddhism, Shōsōin), [[nara-period]], [[taika-reform-645]], [[shotoku-taishi]]; **create** `kojiki-nihon-shoki` (chronicles) and/or a Japanese-script/Chinese-learning concept as warranted |
+| 1. Origins, the indigenous cult & the Chinese impact ✅ | Parts I–II, chs I–VI (origins; myths/chronicles; the indigenous cult; introduction of Chinese learning; Taikwa; Nara) | Late Antiquity → Early Middle Ages | **Enriched** [[shinto]] (the indigenous cult — a religion of love & gratitude; ritual purity; the Imibe/Nakatomi/Urabe), [[nara-period]] (Confucianism & the conflict of native/alien; Sansom's theme), [[japanese-buddhism]] (Buddhism as part of the continental package) |
 | 2. Heian court culture | Part III, chs VII–XIII (Heian government, religion — Tendai/Shingon, art, letters, the Fujiwara, the Taira) | Early–High Middle Ages | **Create** `heian-court-culture` (the golden age — kana, Genji, the Pillow Book, yamato-e, the aesthetic of *mono no aware*); **enrich** [[heian-period]], [[japanese-buddhism]] (esoteric Buddhism), [[fujiwara-clan]] |
 | 3. The warrior age: Kamakura & Muromachi culture | Parts IV–V, chs XIV–XVIII (feudalism; Hōjō; Kamakura religion/art/letters; Ashikaga; Muromachi religion & arts) | High–Late Middle Ages | **Enrich** [[kamakura-period]], [[muromachi-period]], [[zen-buddhism]], [[japanese-buddhism]] (Kamakura sects), [[samurai]]; **create** a Japanese-aesthetics concept (*wabi/sabi/yūgen*, Noh, tea, ink painting, gardens) if not covered |
 | 4. Sengoku & Yedo culture + synthesis | Parts VI–VII, chs XIX–XXIII (the country at war; Western contact; Adzuchi–Momoyama; the Tokugawa regime; Genroku; the breakdown of feudalism) | Early Modern → Age of Expansion | **Create** `genroku-culture` (the Tokugawa townsman renaissance) and `tokugawa-intellectual-life` (Neo-Confucianism, kokugaku/National Learning, rangaku); **enrich** [[edo-period]], [[azuchi-momoyama-period]], [[sakoku]]. Then synthesis. |

@@ -5,7 +5,7 @@ origin: imported from Korea (Paekche) to the Yamato court in 538/552 CE; develop
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, Contemporary]
 applies_to_regions: [japan, east-asia]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -89,6 +89,19 @@ degenerate "latter age" when the old disciplines no longer availed:
   invasions]] as divine punishment; his intolerant, this-worldly sect still endures.
 - **[[zen-buddhism|Zen]]** — the meditation school (Eisai's Rinzai, Dōgen's Sōtō), treated
   on its own page; it shaped the warrior ethos and the classic Japanese aesthetic.
+
+## A vehicle of continental culture (Sansom)
+
+George Sansom's [[sansom-short-cultural-history-japan|cultural history]] stresses that
+Buddhism arrived as part of a single **continental cultural package** — together with
+**Confucianism**, Chinese writing, art, and statecraft — that "quickly overlaid" Japan's
+materially poor native culture after contact. In the [[nara-period|Nara age]] this produced
+both a great monastic art (the sutra-copying bureaus, the Hōryūji and Tōdaiji) and Sansom's
+characteristic tension: the Japanese at first "took over outward form rather than inward
+significance," so that deep assimilation — the genuinely Japanese transformation of Buddhism
+— came only later (the [[heian-period|Heian]] esoteric sects and the popular
+[[kamakura-period|Kamakura]] schools). Buddhism also **coexisted and fused** with
+[[shinto|Shintō]] rather than displacing it.
 
 ## Significance
 
