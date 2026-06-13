@@ -179,6 +179,36 @@ local-assimilation** account for *Europe's* Indo-Europeanization — the very pr
 [[indo-european-migrations|migrations process page]] (European/Balkan branch) and
 [[balkans]].
 
+## The South Asian end: the "Aryan question" (Thapar)
+
+[[thapar-history-of-india-v1-1966|Romila Thapar's *A History of India*]] (1966) supplies the
+**Indian receiving-end** of the dispute — the "coming of the Aryans" into the subcontinent, where
+the debate carries unusual political charge. Her positions, written in the post-independence secular
+tradition:
+
+- **"Aryan" is linguistic, not racial.** Thapar insists *Aryan* "is in fact a linguistic term
+  indicating a speech-group of Indo-European origin, and is **not an ethnic term**," so that "to
+  refer to the coming of the Aryans is therefore inaccurate" (she uses it only by convention). This
+  is the same de-racialising move Crossland made on the European side.
+- **Migration and acculturation, not a single invasion.** She frames the Indo-Aryan arrival from the
+  Iranian plateau (c. 1500 BCE) as a **gradual migration of semi-nomadic pastoralists** who
+  encountered, fought (the *Dasas*/*Panis* of the Rig-Veda), and over centuries **assimilated** the
+  indigenous population — the conquered becoming the fourth *varna* (see [[caste-varna]]). The
+  pre-Aryan/Aryan **fusion** (Harappan fertility cults surviving into [[hinduism]]) is, for her, the
+  making of Indian civilization — an ethnogenesis parallel to Garašanin's Balkan account above.
+- **Archaeology: the Painted-Grey Ware correlate.** She tentatively links the Indo-Aryans to the
+  **Painted-Grey Ware** culture (c. 1100–500 BCE) of the western Ganges valley — iron-using,
+  horse-breeding agriculturists whose profile "broadly tallies" with the Vedic description, and which
+  is sometimes found stratified *above* the decayed [[indus-valley-civilization|Harappan]] levels —
+  while noting the **horse is conspicuously absent at Harappan sites**.
+
+Her 1966 framing still carries traces of the older "intrusion/decline" model for Harappa's end, which
+later scholarship has softened toward gradual, climatic decline with no violent Aryan destruction. The
+modern **steppe-aDNA** evidence (a steppe genetic component reaching South Asia in the 2nd millennium
+BCE) broadly supports a migration into India, against the **"indigenous Aryans / Out-of-India"**
+position advanced by Hindu-nationalist writers — a politicised strand Thapar's secular,
+migration-and-assimilation reading was written precisely to resist. See [[vedic-period]].
+
 ## Where Things Stand
 
 **Partially resolved, tilting to the steppe.** Ancient DNA since 2015 has given the

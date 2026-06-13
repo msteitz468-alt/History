@@ -5,8 +5,8 @@ origin: the beliefs and practices recognizable as Hinduism emerged in the post-M
 applies_to_periods: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [south-asia, southeast-asia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [concept]
 ---
 
@@ -16,9 +16,21 @@ tags: [concept]
 
 **Hinduism** — in the form recognizable today — emerged in the **post-Mauryan period**
 (c. 200 BCE–300 CE), evolving out of the older **Vedic** sacrificial religion (see
-[[vedic-age]]). In [[benjamin-cwh-v4-2015|CWH IV]] (Kaul, Ch 18) this period "witnessed the
+[[vedic-period]]). In [[benjamin-cwh-v4-2015|CWH IV]] (Kaul, Ch 18) this period "witnessed the
 emergence of those beliefs and practices that we popularly recognize as Hinduism today,"
 above all the shift from Vedic **sacrifice** to **devotion** and **temple image-worship**.
+
+[[thapar-history-of-india-v1-1966|Thapar]] (Vol. I) traces the **two roots** that fused into
+Hinduism. The **Vedic** strand: the [[vedic-period|Rig-Vedic]] gods (**Indra** the warrior-rainmaker,
+**Agni** the fire intermediary, **Varuna**, **Surya**, **Soma**, **Yama**), the centrality of
+**sacrifice** (the engine of brahman priestly power, and incidentally of early Indian mathematics and
+anatomy), and the later speculative turn — the *Nasadiya* **Creation Hymn**'s doubt, the ascetic
+movements, and the **Upanishads**' search for the relation of *atman* to the universal soul, out of
+which crystallised **Karma**, transmigration, and **Dharma**. The **pre-Aryan** strand: the Harappan
+**fertility cults** (the Mother Goddess, the bull, the horned deity, sacred trees) that Thapar argues
+"continued in Hindu worship." Hinduism, in her reading, is precisely the long **synthesis** of these
+brahmanical-Vedic and popular non-Aryan religious worlds — the abstract Vedic systems appealing to a
+few, "the majority [preferring] more earthly forms of religion."
 
 ## Bhakti and Puja
 
