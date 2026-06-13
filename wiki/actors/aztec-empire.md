@@ -83,10 +83,10 @@ Cholula, Huexotzinco) for sacrificial captives.
 The conquest, too, Berdan reads from the **indigenous** side (Ch. 10): the fall of Tenochtitlan (1521)
 was not the end of the Aztec world but the start of a fraught **blending** — in 1524 the *tlamatinime*
 (wise men) courteously but firmly refused the friars' demand to abandon their gods, and Nahua artisans
-soon rendered Christian triptychs in traditional **featherwork**. *(The conquest itself is treated in
-depth from both sides in the [[broken-spears|Broken Spears]] and Bernal Díaz, the next sources in the
-Americas cluster.)* See [[aztec-religion-and-human-sacrifice]] and [[aztec-economy]] for the cosmology and
-the market-and-pochteca economy.
+soon rendered Christian triptychs in traditional **featherwork**. *(The conquest has its own page —
+[[spanish-conquest-of-mexico-1519]] — told from the Nahua side via [[leon-portilla-broken-spears|The
+Broken Spears]] and, next, the Spanish side via Bernal Díaz.)* See [[aztec-religion-and-human-sacrifice]]
+and [[aztec-economy]] for the cosmology and the market-and-pochteca economy.
 
 ## Significance
 

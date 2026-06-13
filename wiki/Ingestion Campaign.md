@@ -17,7 +17,7 @@ Status key: `[ ]` pending · `[~]` in progress · `[x]` done · `[skip]` unusabl
 
 ## Phase A — Finish the Americas (in flight)
 - [x] Berdan, *The Aztecs* (Reaktion, 2021) — done 2026-06-12 (created aztec-religion-and-human-sacrifice, aztec-economy; expanded aztec-empire, tenochtitlan)
-- [ ] *The Broken Spears* (Aztec conquest account) — primary, single-pass
+- [x] *The Broken Spears* (Aztec conquest account) — done 2026-06-12 (created spanish-conquest-of-mexico-1519, leon-portilla-broken-spears)
 - [ ] Bernal Díaz, *The Conquest of New Spain* — primary, single-pass
 - [ ] *Popol Vuh* (Tedlock) — Maya primary, single-pass/2 cycles
 - [ ] Burkholder & Johnson, *Colonial Latin America* — 3–4 cycles
