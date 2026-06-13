@@ -9,8 +9,8 @@ affiliated_with: [Magadha, the city of [[pataliputra|Pataliputra]], Buddhist and
 opposed_by: [the Nanda dynasty (overthrown), the Seleucids, Kalinga]
 key_events: [overthrow of the Nandas c. 321 BCE, defeat of Seleucus Nikator, conquest of Kalinga c. 261 BCE, Ashoka's dhamma]
 key_processes: [[[empire]], [[state-formation]], [[buddhism|patronage of Buddhism]], [[vedic-age|culmination of the Second Urbanization]]]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [actor, empire, classical-antiquity, south-asia]
 ---
 
@@ -66,6 +66,14 @@ all, a pervasive **espionage system** (the Arthashastra's spies disguised as rec
 ascetics, prostitutes). The tension between this *dirigiste* reading and CWH IV's "not a centralized
 monolith" is itself instructive — the truth likely lies between the Arthashastra's *prescriptive*
 ideal and the looser reality of ancient communications.
+
+The **[[kautilya-arthashastra|Arthashastra]]** behind this reading is now ingested directly as a
+primary source (see [[kautilya]]). Its picture of the state — the *danda*-based order resting on
+*[[kautilyan-statecraft|matsya-nyaya]]*, the *saptanga* seven limbs of sovereignty, the
+superintendent-run economy with its welfare obligations, and the *[[raja-mandala|circle-of-kings]]*
+foreign policy — is the **prescriptive ideal-type** the wiki triangulates against Megasthenes and
+the Ashokan edicts. It supplies the Mauryan state its theoretical self-image, even where real
+control fell short of the blueprint.
 
 On **decline**, Thapar weighs and rejects the old theories (a "brahman revolt" against Ashoka's
 Buddhism; non-violence "emasculating" the army — neither, she argues, fits the evidence) in favour of

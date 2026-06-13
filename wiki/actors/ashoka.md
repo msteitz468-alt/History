@@ -9,8 +9,8 @@ affiliated_with: [the [[mauryan-empire|Mauryan Empire]], the Buddhist sangha]
 opposed_by: [Kalinga (conquered); rival claimants to the throne]
 key_events: [conquest of Kalinga c. 261 BCE, conversion to Buddhism, the rock and pillar edicts, Buddhist missions to Sri Lanka]
 key_processes: [[[empire]], [[buddhism|propagation of Buddhism]]]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [actor, person, classical-antiquity, south-asia]
 ---
 
@@ -86,3 +86,16 @@ contemporary, first-person royal speech — supplemented by later Buddhist legen
 exaggerate his piety). Scholarly debate centers on the **balance between sincere conversion
 and political calculation** in dhamma, and on the edicts' Achaemenid inspiration. His
 afterlife as a symbol (adopted by modern India) is itself a historiographical theme.
+
+## Dhamma vs. danda: the two poles of Mauryan kingship
+
+Ashoka's *dhamma* of righteous, compassionate, broadly non-violent rule is best read as the
+deliberate **counterpoint to the *danda*-based realpolitik** of the
+**[[kautilya-arthashastra|Arthashastra]]** that his grandfather [[chandragupta-maurya|Chandragupta]]
+and the minister [[kautilya|Kautilya]] are said to have used to *build* the empire. Where
+[[kautilyan-statecraft|Kautilyan statecraft]] founds order on coercion (the king's rod restraining
+*matsya-nyaya*, "the law of the fishes") and conquest (the *[[raja-mandala|vijigishu]]* mastering the
+circle of kings), Ashoka after Kalinga renounces conquest by arms for "conquest by dhamma"
+(*dhamma-vijaya*) and recasts the king's paternalism in moral rather than purely administrative
+terms. The two together define the **span of ancient Indian political thought** — secular pragmatism
+and ethical kingship — within a single dynasty.

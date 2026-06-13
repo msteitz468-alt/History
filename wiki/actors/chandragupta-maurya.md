@@ -5,12 +5,12 @@ date_start: c. 340 BCE (birth, approximate)
 date_end: c. 297 BCE (abdication/death)
 period: [Classical Antiquity]
 region: [south-asia]
-affiliated_with: [the [[mauryan-empire|Mauryan Empire]], Magadha, Kautilya Chanakya]
+affiliated_with: [the [[mauryan-empire|Mauryan Empire]], Magadha, [[kautilya|Kautilya Chanakya]]]
 opposed_by: [the Nanda dynasty, Seleucus Nikator]
 key_events: [overthrow of the Nandas c. 321 BCE, defeat of Seleucus Nikator, unification of the subcontinent]
 key_processes: [[[empire]], [[state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [actor, person, classical-antiquity, south-asia]
 ---
 
@@ -57,4 +57,9 @@ became the archetype of empire-building and statecraft in the South Asian tradit
 His history is heavily **legendary**, drawn from later Sanskrit drama, Jain tradition, and
 Greco-Roman chroniclers (Plutarch, the synchronism with Seleucus that anchors ancient Indian
 chronology). The blurred line between the historical Chandragupta and the literary figure of
-the Arthashastra's ideal king is itself a theme of CWH IV's treatment.
+the Arthashastra's ideal king is itself a theme of CWH IV's treatment. The
+**[[kautilya-arthashastra|Arthashastra]]** ascribed to his minister **[[kautilya|Kautilya]]** is now
+ingested directly: it presents Chandragupta's reign as the realization of the *[[raja-mandala|vijigishu]]*
+("would-be conqueror") who masters the [[kautilyan-statecraft|seven limbs of sovereignty]] — though,
+on the modern dating, the text may post-date him by centuries, making it his *ideal* portrait rather
+than his record.

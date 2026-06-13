@@ -5,8 +5,8 @@ origin: an Indic term (concentric circles of a cosmic/political diagram) adopted
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
 applies_to_regions: [southeast-asia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [concept]
 ---
 
@@ -16,7 +16,8 @@ The **mandala** is the dominant scholarly model of the **classical Southeast Asi
 defined not by fixed boundaries and a centralised bureaucracy but by a **centre radiating influence
 outward through concentric, overlapping circles of allegiance** that faded with distance. The term is
 Indic (a mandala is a cosmic-political diagram of concentric circles, used for the array of kings around
-a would-be conqueror in the *Arthashastra*); **O. W. Wolters** adapted it as the key to the region's
+a would-be conqueror in the *Arthashastra* — see the **[[raja-mandala|raja-mandala / circle of kings]]**,
+the Kautilyan ancestor of this concept); **O. W. Wolters** adapted it as the key to the region's
 statecraft, and it is cognate with **Stanley Tambiah's "galactic polity,"** **Paul Wheatley's** *nagara*,
 and **Clifford Geertz's** [[theatre-state|*negara* / theatre state]]. Documented for the wiki through the
 [[tarling-cambridge-history-southeast-asia-v1-1992|Cambridge History of Southeast Asia]] (Keith Taylor,
@@ -66,6 +67,6 @@ however, it remains the standard frame for the classical Southeast Asian polity.
 
 ## Related
 
-[[theatre-state]] · [[devaraja]] · [[southeast-asian-port-polity]] · [[southeast-asian-absolutism]] ·
+[[raja-mandala]] (the Kautilyan ancestor) · [[theatre-state]] · [[devaraja]] · [[southeast-asian-port-polity]] · [[southeast-asian-absolutism]] ·
 [[srivijaya]] · [[majapahit]] · [[khmer-empire]] · [[indianization-of-southeast-asia]] ·
 [[southeast-asia]] · [[tarling-cambridge-history-southeast-asia-v1-1992]]
