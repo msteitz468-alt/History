@@ -9,7 +9,7 @@ affiliated_with: [[[trans-saharan-trade]], [[islam]], "the Mande/Mandinka (Mandi
 opposed_by: [[[ghana-empire|the declining Ghana/Wagadu]], "the Sosso kingdom", "the Mossi", "later Songhay and Tuareg"]
 key_events: ["the battle of Kirina (c. 1235)", "Mansa Musa's pilgrimage to Mecca (1324)"]
 key_processes: [[[trans-saharan-trade]], [[state-formation]], [[islam]], [[afro-eurasian-world-system]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, empire, high-middle-ages, late-middle-ages, west-africa]
 ---
@@ -85,8 +85,20 @@ c. 1235)**; and the assembly of **Kurukan Fuga**, where the Mande clans gave the
 chronicle but as the charter of Mande identity and the prime case of the
 [[griot-oral-tradition|griot oral tradition]] — to be triangulated with Ibn Battuta and archaeology.
 
+## GHA IV: apogee and decline
+
+The **UNESCO [[gha-vol4-12th-16th-century|General History of Africa, Vol. IV]]** (chs. 6–7, Niane &
+Ly-Tall) gives the fullest narrative of Mali's arc. After Sundiata, the "second Mandingo expansion" carried
+Mali to its **apogee under [[mansa-musa|Mansa Musa]]** (r. c. 1312–37) and his successor **Sulayman** —
+the era of [[ibn-battuta-black-africa|Ibn Battuta's]] eyewitness visit (1352–53). Decline followed from the
+later fourteenth century: **succession disputes**, the loss of **Timbuktu to the Tuareg (1433)**, **Mossi**
+raids from the south, and above all the **rise of [[songhay-empire|Songhay]]**, which stripped away Mali's
+eastern provinces and cities. Mali contracted to a western Mande rump, fading by c. 1600 — the gold-empire
+torch passing to Gao.
+
 ## Related
 
+- Source: [[gha-vol4-12th-16th-century|GHA Vol. IV]] · [[ibn-battuta-black-africa|Ibn Battuta]]
 - [[niane-sundiata]] — the founding epic; [[sundiata-keita]] — the founder; [[griot-oral-tradition]].
 - [[mansa-musa]] — its most famous ruler.
 - [[ghana-empire]] — the predecessor Wagadu state; [[songhay-empire]] — the successor.

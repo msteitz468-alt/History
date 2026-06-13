@@ -8,9 +8,9 @@ region: [west-africa, sub-saharan-africa]
 affiliated_with: [[[trans-saharan-trade]], [[islam]], "the Songhay people", "the city of Gao"]
 opposed_by: [[[mali-empire|Mali]], "the Mossi", "the Tuareg", "Saadian Morocco"]
 key_events: ["the rise of the kingdom of Gao", "expansion into an empire from the late 15th century", "the Moroccan conquest (1591)"]
-key_processes: [[[trans-saharan-trade]], [[state-formation]], [[islam]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+key_processes: [[[trans-saharan-trade]], [[state-formation]], [[islamization-of-africa]]]
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [actor, empire, late-middle-ages, west-africa]
 ---
 
@@ -62,7 +62,22 @@ reorientation of trade ended its world.
 
 ## Related
 
+## GHA IV: Sonni Ali and the Askias
+
+The **UNESCO [[gha-vol4-12th-16th-century|General History of Africa, Vol. IV]]** (ch. 8, Cissoko) gives the
+fullest account of Songhay's apogee. From its base at **Gao**, the empire was forged by the warrior-king
+**Sonni Ali** (r. 1464–1492), who seized **Timbuktu (1468)** and **Jenne (1473)** from Mali and Tuareg
+control and built a river-and-cavalry power across the Niger Bend. His successor **Askia Muhammad Ture**
+(r. 1493–1528) — founder of the **Askia dynasty** — reorganized the empire on Islamic-administrative lines,
+made a famous **pilgrimage to Mecca (1496–97)** (returning as *caliph* of the western Sudan), and patronized
+the **Timbuktu** scholarly renaissance centred on the **Sankore** mosque-university and the jurist
+al-Maghili. Songhay was the **largest state in West African history** until its sudden destruction by a
+**Moroccan** musket army at **Tondibi (1591)** — gunpowder ending the era of the Sahelian gold empires.
+
+## Related
+
+- Source: [[gha-vol4-12th-16th-century|GHA Vol. IV]]
 - [[mali-empire]], [[ghana-empire]] — the predecessor Western Sudanic empires.
 - [[trans-saharan-trade]] — the commercial basis of all three.
 - [[military-history-middle-millennium]] — the gunpowder armies that ended Songhay (1591).
-- [[islam]] — the faith of its ruling elite and the Timbuktu scholars.
+- [[islamization-of-africa]] — the faith of its ruling elite and the Timbuktu scholars.
