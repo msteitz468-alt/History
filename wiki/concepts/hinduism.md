@@ -5,7 +5,7 @@ origin: the beliefs and practices recognizable as Hinduism emerged in the post-M
 applies_to_periods: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [south-asia, southeast-asia]
 contested: yes
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -96,6 +96,13 @@ that has structured South Asian life ever since, and — through "cultural borro
 political legitimation" — shaped early **Southeast Asian** kingdoms (Java, Sumatra) alongside
 [[buddhism|Buddhism]]. Its rise paralleled (and partly responded to) the heterodox challenge
 of Buddhism and [[jainism|Jainism]].
+
+The most spectacular **Southeast Asian** expression was the [[khmer-empire|Khmer]] **[[devaraja|god-king]]**
+state, where Coe's [[coe-angkor-khmer-civilization-2018|*Angkor and the Khmer Civilization*]] shows
+**Shaiva** and **Vaishnava** worship made the official cult of empire: the royal **linga** on the
+temple-mountain, **Vishnu** enshrined at **[[angkor|Angkor Wat]]**, and the combined **Harihara** —
+Indian sacral kingship transplanted and monumentalised on a scale unmatched even in India, before the
+mainland's later turn to Theravada Buddhism.
 
 ## Limitations and Critiques
 

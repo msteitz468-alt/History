@@ -16,8 +16,8 @@ reliability_notes: >
   Theravada/post-Angkor centuries. The single best concise anchor for the **Khmer/Angkor** corner of
   **Critical Gap 3 (Southeast Asia)** — the wiki's first dedicated treatment of a mainland SE Asian
   civilization.
-pages_created: 4
-pages_updated: 3
+pages_created: 5
+pages_updated: 4
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -54,4 +54,30 @@ institutions of a classic agrarian-ritual state.
 
 ## Volume Synthesis Note
 
-*(to be written in the Step 3 cross-section synthesis pass)*
+Coe's *Angkor* is the wiki's **first dedicated Southeast Asian source** — the opening of the
+long-flagged "Absent — critical gap" region. It supplies a complete, coherent **mainland SE Asian
+anchor**: the [[southeast-asia|regional frame]] (monsoon, rice, the India–China between), the
+[[funan|pre-Angkorian states]], the [[khmer-empire|Khmer Empire]] and its monumental capital
+[[angkor|Angkor]], the [[devaraja|god-king]] ideology, the marquee king [[jayavarman-vii|Jayavarman
+VII]], and the decline. It directly **realises the [[indianization-of-southeast-asia|Indianization]]
+process** the India volumes had only sketched — giving it archaeological flesh (Oc Eo's Sanskrit and
+Roman coins; the Zhenla Shiva-lingas; the devaraja).
+
+Three threads organise the volume. (1) **Indianization as selective local adoption** — the Khmer took
+Indian kingship, gods, script, and temple form and built something on a scale unmatched in India
+itself, *not* by Indian conquest; Coe (a comparativist) treats the **devaraja temple-mountain** as a
+classic sacral-kingship engine alongside Egypt and the Maya. (2) **Water as the basis of power** — the
+monsoon, the Tonle Sap's reversal, and the barays of the "hydraulic city" (Groslier) underwrote the
+rice economy and the labour for Angkor, even as the system's fragility figures in the **collapse
+debate**. (3) **The religious arc** — from Hindu Shaiva/Vaishnava devaraja, through Jayavarman VII's
+Mahayana-Buddhist interruption (the Bayon), to the **Theravada turn** that, being anti-monumental,
+helped end the temple-building state.
+
+**Cross-source connections.** Coe slots beside the India backbone (Thapar/Spear) via Indianization,
+[[hinduism|Hinduism]], and [[mahayana-buddhism|Buddhism]]; beside the [[indian-ocean-trade|Indian
+Ocean trade]] (Oc Eo); and beside the existing CWH-derived [[angkor|Angkor urbanism]] and collapse
+pages, which it deepens. **Limitations**: a single-civilization, general-reader book — light on the
+post-Angkor centuries, on Champa and the other mainland/island states, and on controversy. The Khmer
+are now solidly anchored, but the rest of Southeast Asia (the archipelago — Srivijaya, Majapahit;
+Burma, Siam, Vietnam) remains to be built from **Reid's *Southeast Asia in the Age of Commerce*** and
+the **Cambridge History of Southeast Asia**, both staged for Gap 3.

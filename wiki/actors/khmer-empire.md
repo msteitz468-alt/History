@@ -52,6 +52,21 @@ rebuilt the capital as **Angkor Thom** with the **Bayon** at its heart, and laun
 building and welfare programme — temporarily **displacing the Hindu devaraja** with a Buddhist
 kingship.
 
+## Society, economy, and religion
+
+Coe reconstructs Classic Khmer society largely from inscriptions and from the **eyewitness account of
+the Chinese envoy Zhou Daguan** (resident at Angkor 1296–97). The economy rested on **rice** and ran
+**without coinage** — barter in rice, cloth, and Chinese goods, with **pervasive taxation in kind**
+(on land, rice, salt, cloth, even market stalls). It was heavily dependent on **slaves** and
+corvée labour, who built and worked the temples, barays, and fields; temple inscriptions list
+thousands of bonded dependents. The famous debate over the **"hydraulic city"** runs through the
+period: B.-P. Groslier argued the great barays irrigated the rice that fed a huge urban population,
+while others (and Zhou Daguan's silence on baray-irrigation) stress **flood-retreat farming** and read
+the barays as flood-control and **cosmological** (the temple-mountain's surrounding ocean) as much as
+utilitarian. Royal religion was the **[[devaraja|devaraja]]** cult — Shaiva, Vaishnava, then (under
+Jayavarman VII) Mahayana Buddhist; Zhou also noted the women's prominent role in trade and a society
+of striking ritual display.
+
 ## Significance
 
 The Khmer Empire is the supreme achievement of the [[indianization-of-southeast-asia|Indianized]]
@@ -60,13 +75,20 @@ wholly its own, on a scale (Greater Angkor sprawled over ~1,000 km²) unmatched 
 world. It is the wiki's anchor for **mainland Southeast Asian** statehood, and the parent of modern
 **Cambodia**.
 
-## Decline
+## Decline and the Theravada transformation
 
-After Jayavarman VII the empire slowly contracted (see [[coe-angkor-khmer-civilization-2018|Cycle 3]]):
-the turn to **Theravada Buddhism** (which dispensed with the temple-building royal cult), mounting
-pressure from the rising **Thai** of Ayutthaya, and the strains on the hydraulic system led to the
-**abandonment of Angkor** (the Thai sack of c. 1431 is the conventional marker) and the shift of the
-Khmer centre toward Phnom Penh.
+After Jayavarman VII the empire slowly contracted. Coe and the wider literature point to a convergence
+of causes: the **turn to Theravada Buddhism** (a populist, monastic, *anti*-monumental faith that
+"dispensed with" the temple-building royal [[devaraja|devaraja]] cult, so that great-temple
+construction simply **stopped**); the rising power of the **Thai** kingdoms (Sukhothai, then
+**Ayutthaya**), which sacked Angkor and carried off its bronzes in the **fifteenth century** (the sack
+of **c. 1431** is the conventional marker); and strains on the vast, aging **hydraulic system**. The
+court shifted south toward **Phnom Penh**, oriented to maritime trade. On the *environmental* reading
+(treated on the [[angkor|Angkor]] page from CWH V), the Greater Angkor waterworks were intrinsically
+**fragile**, so that political weakening triggered silting and system failure — though scholars
+(Radkau, James C. Scott) caution that "abandonment" may have meant a freer, not merely a ruined, life
+for the hinterland population. The Khmer survived as the smaller kingdom of **Cambodia**; Angkor Wat
+became (and remains) a living Theravada temple and the national symbol.
 
 ## Related pages
 
