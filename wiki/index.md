@@ -1,6 +1,6 @@
 # World History Wiki — Master Catalog
 
-Last updated: 2026-06-13 (**Colonial Latin America (Burkholder & Johnson, 10th ed.)** — LARGE-VOLUME INGEST IN PROGRESS, **Cycles 1–2 of 4 complete**. *Cycle 2 — The colonial state & economy (Chs 3–5):* created **[[colonial-spanish-american-administration]]** (Council of the Indies, viceroyalties, audiencias, the bureaucracy-creolizing sale of offices), **[[encomienda]]** (anchoring the full labor sequence — encomienda → repartimiento/mita → wage labor/debt peonage → yanaconaje → Indian slavery → repartimiento de bienes), **[[potosi-and-colonial-silver]]** (the Cerro Rico, mercury amalgamation, Toledo's mita), and **[[spiritual-conquest-and-colonial-church]]** (the patronato, mendicants & Jesuits, missions/syncretism/Guadalupe, the Inquisition, the Church economy); enriched **[[mita-and-andean-reciprocity]]**, **[[global-silver-trade]]** (fleet system & Manila galleon), **[[virgin-soil-epidemics]]** (serial colonial waves), **[[atlantic-slave-trade]]** (Brazil's demand side). *Cycle 1 — Conquest & its world (Chs 1–2):* created **[[colonial-latin-america]]** (the anchor), **[[spanish-conquest-of-peru-1532]]** (the long-missing Andes conquest), **[[pizarro-francisco]]**, **[[las-casas-bartolome]]**, **[[black-legend]]**; enriched **[[inca-empire]]**, **[[columbian-exchange-1492]]**, **[[spanish-conquest-of-mexico-1519]]**. **Next: Cycle 3 — colonial society (Chs 6–8: the casta system, the hacienda, family & daily life).**)
+Last updated: 2026-06-13 (**Colonial Latin America (Burkholder & Johnson, 10th ed.)** — LARGE-VOLUME INGEST IN PROGRESS, **Cycles 1–3 of 4 complete**. *Cycle 3 — Colonial society (Chs 6–8):* created **[[casta-system]]** (the *sociedad de castas* — race ordered by wealth/lineage/culture; *limpieza de sangre*; the mixed castes; women & family) and **[[hacienda]]** (the great estate, debt peonage, the symbiosis with the free rural poor); enriched **[[colonial-latin-america]]** (society layer) and **[[atlantic-slave-trade]]** (urban-vs-plantation slave society, manumission, Palmares). *Cycle 2 — The colonial state & economy (Chs 3–5):* **[[colonial-spanish-american-administration]]**, **[[encomienda]]** (the full labor sequence), **[[potosi-and-colonial-silver]]**, **[[spiritual-conquest-and-colonial-church]]**; enriched **[[mita-and-andean-reciprocity]]**, **[[global-silver-trade]]**, **[[virgin-soil-epidemics]]**, **[[atlantic-slave-trade]]**. *Cycle 1 — Conquest & its world (Chs 1–2):* **[[colonial-latin-america]]** (anchor), **[[spanish-conquest-of-peru-1532]]**, **[[pizarro-francisco]]**, **[[las-casas-bartolome]]**, **[[black-legend]]**; enriched **[[inca-empire]]**, **[[columbian-exchange-1492]]**, **[[spanish-conquest-of-mexico-1519]]**. **Next: Cycle 4 — reform, crisis & independence (Bourbon/Pombaline reforms, the wars of independence) + synthesis.**)
 
 Last updated: 2026-06-12 (**Popol Vuh: The Mayan Book of the Dawn of Life** (trans. Dennis Tedlock, 1985) — INGEST COMPLETE (primary source, single-pass). The **Maya-voice** primary — the K'iche' creation epic, cosmological counterpart to the conquest narratives. Created **[[popol-vuh]]** (the creation by Heart of Sky & the Plumed Serpent; the failed mud/wood humans; the Hero Twins Hunahpu & Xbalanque and their defeat of Xibalba; humans made of **maize**; the dual cosmogony-plus-K'iche'-dynastic-charter; preservation under conquest) and the source page **[[tedlock-popol-vuh]]**; enriched **[[maya-civilization]]** (the religious/mythological dimension from the inside; the Hero Twins attested on Classic vases → deep continuity). Filed to `raw/2. Ancient & Classical Civilizations/`. **Phase A remaining: Colonial Latin America (Burkholder & Johnson), Open Veins (Galeano).**)
 
@@ -463,7 +463,7 @@ creation order with a one-line description.
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **Colonial Latin America (Burkholder & Johnson), Cycle 2**
+Counts reflect actual files on disk as of the **Colonial Latin America (Burkholder & Johnson), Cycle 3**
 ingest (recounted from disk — the prior table had drifted well below the true totals). Recent volumes'
 detailed new/updated pages are catalogued in their source pages and `log.md`.
 
@@ -471,13 +471,13 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 |---|---|
 | Periods | 25 |
 | Events | 225 |
-| Processes | 138 |
+| Processes | 139 |
 | Actors | 523 |
 | Places | 119 |
-| Concepts | 266 |
+| Concepts | 267 |
 | Comparisons | 1 |
 | Controversies | 49 |
 | Timelines | 0 |
 | Queries | 0 |
 | Sources | 128 |
-| **Total** | **1474** |
+| **Total** | **1476** |

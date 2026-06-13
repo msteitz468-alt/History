@@ -16,8 +16,8 @@ reliability_notes: >
   ([[spanish-conquest-of-mexico-1519]]) opened — bridging the pre-Columbian civilizations
   ([[aztec-empire]], [[inca-empire]]) and the modern Latin America already sketched in
   [[latin-america-modern]]. Ingested via the Large-Volume Protocol.
-pages_created: 9
-pages_updated: 7
+pages_created: 11
+pages_updated: 9
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -37,7 +37,7 @@ the Bourbon/Pombaline reforms that set the stage for independence.
 |---|---|---|---|
 | 1. Conquest & its world ✅ | 1–2 (America, Iberia & Africa before the Conquest; The Age of Conquest) | The Iberian/Atlantic frame & the broader conquest | **Created** `colonial-latin-america`, `spanish-conquest-of-peru-1532`, `pizarro-francisco`, `las-casas-bartolome`, `black-legend`; **enriched** [[spanish-conquest-of-mexico-1519]], [[columbian-exchange-1492]], [[inca-empire]] |
 | 2. The colonial state & economy ✅ | 3–5 (Ruling New World Empires; Population & Labor; Production, Exchange & Defense) | Administration, labor, silver | **Created** `colonial-spanish-american-administration`, `encomienda`, `potosi-and-colonial-silver`, `spiritual-conquest-and-colonial-church`; **enriched** [[mita-and-andean-reciprocity]], [[global-silver-trade]], [[virgin-soil-epidemics]], [[atlantic-slave-trade]] |
-| 3. Colonial society | 6–8 (The Social Economy; The Family & Society; Living in an Empire) | Race, family, Church, culture | **Create** `casta-system` (sociedad de castas), `hacienda`; enrich [[atlantic-slave-trade]], [[catholic-church]] as warranted |
+| 3. Colonial society ✅ | 6–8 (The Social Economy; The Family & Society; Living in an Empire) | Race, family, Church, culture | **Created** `casta-system` (sociedad de castas), `hacienda`; **enriched** [[colonial-latin-america]] (society layer), [[atlantic-slave-trade]] (colonial slave society) |
 | 4. Reform, crisis & independence + synthesis | later chapters (Bourbon/Pombaline reforms; the 18th-c economy; the wars of independence) | The late colonial order & its end | **Create** `bourbon-reforms`, `spanish-american-independence`; enrich [[latin-america-modern]]. Then synthesis. |
 
 ### Anticipated page operations

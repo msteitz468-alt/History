@@ -237,6 +237,18 @@ new mixed castes (**mulattos/pardos**, *zambos*) of the [[casta-system|sociedad 
 castas]]. The institution links the labor sequence of [[encomienda|Spanish-American
 forced labor]] to the plantation complex.
 
+Burkholder and Johnson also detail colonial **slave society**. Conditions diverged
+sharply between **city and plantation**: urban slaves (hired out for a share of
+their wages, working as artisans and market women) enjoyed better material
+conditions, access to royal and ecclesiastical courts, and far higher rates of
+**manumission** — chiefly **self-purchase**, which built the large free-black
+populations (40% of Salvador, 20% of Rio by 1800). Even so, freedom was often hedged
+with conditions, and most slaves died in bondage; plantation discipline was savage
+(whippings, mutilation of runaways, execution of rebels). Slaves humanized captivity
+through Catholic **cofradías** and African-identity associations (Congos, Yorubas),
+and resisted above all by **flight** — most dramatically in the *quilombo* (maroon
+community) of **Palmares** in Brazil, destroyed by *paulistas* only in the 1690s.
+
 ## Related
 
 [[columbian-exchange-1492]] · [[plantation-economy]] · [[early-modern-migrations]] ·

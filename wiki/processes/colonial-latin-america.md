@@ -128,10 +128,30 @@ the history of slavery and the *castas*, and gender history. The interpretive
 charge of the whole field is framed by the [[black-legend|Black Legend]] debate
 over Spanish cruelty, propaganda, and the ethics of conquest.
 
+## Colonial society (the institutional and social pages)
+
+The colonial world's structures are now built out across linked pages:
+
+- **Government** — [[colonial-spanish-american-administration]] (viceroyalties,
+  audiencias, the Council of the Indies, the bureaucracy-creolizing sale of offices).
+- **Church** — [[spiritual-conquest-and-colonial-church]] (the *patronato*, the
+  mendicant/Jesuit spiritual conquest, missions and syncretism, the Inquisition,
+  the Church economy).
+- **Labor & economy** — [[encomienda]] (and the whole labor sequence),
+  [[potosi-and-colonial-silver]], [[global-silver-trade]],
+  [[mita-and-andean-reciprocity]], [[hacienda]].
+- **Society & race** — the **[[casta-system|sociedad de castas]]** (race ordered by
+  wealth, lineage, and culture as much as biology; *limpieza de sangre*; the mixed
+  castes; the constrained lives of women), the **[[hacienda|great estate]]** and its
+  symbiosis with the free rural poor, and the [[atlantic-slave-trade|slave society]]
+  of city and plantation.
+
 ## Related
 
 - [[spanish-conquest-of-mexico-1519]] · [[spanish-conquest-of-peru-1532]] — the two foundational conquests.
 - [[columbian-exchange-1492]] — the biological premise.
+- [[casta-system]] · [[hacienda]] · [[encomienda]] — society, the estate, and labor.
+- [[colonial-spanish-american-administration]] · [[spiritual-conquest-and-colonial-church]] — state and Church.
 - [[latin-america-modern]] — the successor world.
 - [[black-legend]] — the controversy that frames the field.
 - [[las-casas-bartolome]] — the conscience of the conquest debate.
