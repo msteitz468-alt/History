@@ -107,6 +107,17 @@ decline in its South Asian homeland, displaced by a resurgent
 [[hinduism|Hinduism]] and the advance of [[islam|Islam]] in the north, falls within
 this same period.)
 
+[[thapar-history-of-india-v1-1966|Thapar]] gives the wiki's fullest account of that **Indian
+decline**. Its seeds were internal: the great monasteries grew **affluent and isolated** — richly
+endowed, employing slaves and hired labour, the monks eating in vast refectories rather than begging
+— drifting from the common people and "diminishing much of its religious strength." It then lost the
+**merchant/guild patronage** that had sustained it as trade contracted under
+[[indian-feudalism|feudalism]], while a resurgent Brahmanism out-competed it — **Shankara** borrowing
+the Buddhists' own monastic-organisational methods (the *mathas*) to displace them, and Hinduism
+finally **absorbing the Buddha as the ninth avatar of [[hinduism|Vishnu]]**. (By contrast Thapar
+notes **Jainism**, sustained as a tight "parish religion," held its adherents far better.) The Turkish
+sack of the great monastic universities (Nalanda) completed the eclipse.
+
 ## Buddhism in Early Modern East Asia (CWH VI)
 
 [[bentley-cwh-v6-2015|CWH VI]] (Menegon & Cogan) overturns the old view of early

@@ -18,7 +18,7 @@ reliability_notes: >
   "Indian feudalism" model she advances for the post-Gupta regional states is itself debated).
   This volume is the **structural backbone for Critical Gap 3 (South & Southeast Asia)** — India
   has been "Weak" in the collection (a few Asian-Classics primary texts only).
-pages_created: 9
+pages_created: 12
 pages_updated: 11
 ingested: 2026-06-12
 tags: [source]
