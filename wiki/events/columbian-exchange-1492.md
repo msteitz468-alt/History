@@ -14,8 +14,8 @@ scale_immediate: hemispheric
 scale_consequential: global
 causes: [Iberian oceanic expansion, the search for a westward route to Asia, the prior biological isolation of the Americas from Afro-Eurasia]
 consequences: [American demographic collapse, the Atlantic slave trade, global redistribution of crops and animals, the integration of a planetary world system, the rise of plantation economies]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [event, transition, early-modern, atlantic-world]
 ---
 
@@ -108,3 +108,26 @@ The disease side of the Exchange — the **[[virgin-soil-epidemics|Great Dying]]
 the [[virgin-soil-epidemics|virgin-soil epidemics]] that, in Charles Mann's [[mann-1491-2005|*1491*]],
 often ran *ahead* of the Europeans and turned a populous, managed hemisphere into the
 "[[pristine-myth|wilderness]]" the settlers mistook for its natural state.
+
+## The livestock-and-ecology side (Burkholder & Johnson)
+
+Burkholder and Johnson's [[burkholder-johnson-colonial-latin-america|colonial
+textbook]] details the **biological transfer's reshaping of the American
+landscape**, often as dramatic as the disease catastrophe. European **livestock**
+— horses, cattle, pigs, sheep, goats, chickens reaching Hispaniola in 1493 —
+exploded across a hemisphere with few predators and (after the die-off) emptied
+land: feral cattle and horses exceeded 50 million on the southern plains by 1700.
+The classic case is the **Valley of the Mezquital** north of Mexico City, where
+sheep grew from 34,000 (1539) to 4.4 million (1589), displaced the depopulated
+native farmers, and turned irrigated cropland into eroded, mesquite-covered desert
+within a single century — a feedback loop of depopulation and overgrazing. Old
+World **weeds** (the giant thistle "as tall as a mounted horseman" on the pampas)
+rode in on disturbed soil; **mining** at [[potosi-and-colonial-silver|Potosí]]
+scarred the land and leached mercury; and the draining of the lakes of the Valley
+of Mexico (after the 1607 and 1629 floods) destroyed the Mexica's lacustrine
+economy. Paradoxically, because the **demographic collapse** withdrew so much human
+pressure — abandoned terraces, raised fields, and dams — Latin America's **forests
+in 1800 were more extensive than in 1492**, reinforcing the
+[[pristine-myth|"pristine myth"]] argument. The transfer also remade indigenous
+cultures: the **horse** revolutionized the Apache, Comanche, Mapuche, and Pampas
+peoples; Andeans and Mexicans became muleteers, cowboys, and shepherds.

@@ -14,8 +14,8 @@ scale_immediate: civilizational
 scale_consequential: hemispheric
 causes: ["Iberian overseas expansion (the [[columbian-exchange-1492|Columbian Exchange]])", "indigenous disunity — Tlaxcalan & other allies against the Mexica", "the [[virgin-soil-epidemics|smallpox]] pandemic of 1520"]
 consequences: ["the fall of the [[aztec-empire|Aztec empire]] & founding of New Spain", "the [[virgin-soil-epidemics|demographic collapse]] of central Mexico", "the beginning of Spanish colonial Latin America", "a foundational trauma & mestizo identity"]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [event, transition, late-middle-ages, mesoamerica]
 ---
 
@@ -110,7 +110,19 @@ sixteenth-century need to **excuse Motecuhzoma's failure** and dignify a gloriou
 neutral reportage, but the authentic "vision of the vanquished." Set beside [[diaz-conquest-of-new-spain|Bernal
 Díaz's]] Spanish eyewitness account, it makes the conquest a genuinely two-sided history.
 
+Burkholder and Johnson's [[burkholder-johnson-colonial-latin-america|textbook]]
+sets Mexico within the **wider conquest**: it was the **template** Pizarro copied in
+[[spanish-conquest-of-peru-1532|Peru]] (seizing the ruler, exploiting native
+division, riding the [[virgin-soil-epidemics|epidemic]]), and the springboard for
+the "ebb tide" campaigns into Central America (Alvarado against the K'iche'),
+Yucatán (Maya resistance to 1697), and the northern frontier. It also stresses the
+overlooked role of **black conquistadors** (Juan Garrido fought with Cortés) and
+locates the conquest in the moral debate — Las Casas vs. Sepúlveda, the
+[[colonial-latin-america|Valladolid]] confrontation, and the
+[[black-legend|Black Legend]] — over its justice and cruelty.
+
 ## Related
 
 [[aztec-empire]] · [[tenochtitlan]] · [[virgin-soil-epidemics]] · [[columbian-exchange-1492]] ·
-[[aztec-religion-and-human-sacrifice]] · [[leon-portilla-broken-spears]] · [[diaz-conquest-of-new-spain]]
+[[aztec-religion-and-human-sacrifice]] · [[leon-portilla-broken-spears]] · [[diaz-conquest-of-new-spain]] ·
+[[spanish-conquest-of-peru-1532]] · [[colonial-latin-america]] · [[las-casas-bartolome]] · [[black-legend]]

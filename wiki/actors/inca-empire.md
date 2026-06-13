@@ -9,8 +9,8 @@ affiliated_with: ["the Inca of Cuzco", "the Sun cult (Inti)", [[tiwanaku|Tiwanak
 opposed_by: ["the Chanca confederation", "the Chimú", "the Spanish"]
 key_events: ["the Chanca war and Pachacuti's accession (1438)", "the expansion into the four suyos", "the Spanish conquest (1532–1533)"]
 key_processes: [[[andean-state-formation]], [[state-formation]], [[empire]]]
-sources_ingested: 4
-last_updated: 2026-06-12
+sources_ingested: 5
+last_updated: 2026-06-13
 tags: [actor, empire, late-middle-ages, andes]
 ---
 
@@ -132,8 +132,29 @@ primitive, Pizarro was "amazed by the size of Tawantinsuyu" even *after* the cat
 how thoroughly the conquest erased the Andean past: the first full history of the conquest, Prescott's,
 did not appear until **1847**.
 
+## The conquest as event, and the neo-Inca state (Burkholder & Johnson)
+
+Burkholder and Johnson's [[burkholder-johnson-colonial-latin-america|textbook]]
+supplies the conquest's full narrative, now on its own page:
+**[[spanish-conquest-of-peru-1532|The Spanish Conquest of Peru (1532–33)]]**. Two
+points deepen the account here. First, the conquest did **not** end with Atawallpa's
+death (1533) or even the fall of Cuzco: Pizarro's puppet **Manco Inca** escaped,
+besieged Cuzco with up to 50,000 men in 1536, and — failing to dislodge the
+Spanish — withdrew to **Vilcabamba**, where a **neo-Inca state survived until 1572**,
+when Viceroy Francisco de Toledo captured and beheaded the last Sapa Inca,
+**Tupac Amaru**, in Cuzco's central square. The conquest saga thus spanned forty
+years. Second, the conquerors nearly destroyed themselves in the **Peruvian civil
+wars (1537–48)** — Pizarro vs. Almagro, the assassination of Pizarro (1541), and
+**Gonzalo Pizarro's revolt** against the *encomienda*-curbing **New Laws (1542)** —
+which only royal authority (Pedro de la Gasca) finally ended. The aftermath: the
+[[potosi-and-colonial-silver|Potosí]] silver economy and the deadly colonial
+[[mita-and-andean-reciprocity|mita]] within the new
+[[colonial-latin-america|colonial order]].
+
 ## Related
 
+- [[spanish-conquest-of-peru-1532]] — the conquest as a dedicated event page.
+- [[colonial-latin-america]] — the colonial world built on Tawantinsuyu's ruins.
 - [[andean-state-formation]] — the long Andean process the Inca culminate.
 - [[virgin-soil-epidemics]] — the smallpox die-off that preceded and enabled the conquest.
 - [[pre-columbian-americas]] — the hemispheric overview the Inca anchor in the Andes.

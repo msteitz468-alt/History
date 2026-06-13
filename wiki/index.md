@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-13 (**Colonial Latin America (Burkholder & Johnson, 10th ed.)** — LARGE-VOLUME INGEST IN PROGRESS, **Cycle 1 of 4 complete** (Chs 1–2, *Conquest & its world*). The systematic colonial-LatAm source that bridges the pre-Columbian empires and modern Latin America. Created the overarching anchor **[[colonial-latin-america]]** (the c.1492–1825 Iberian colonial order as a process — conquest, demographic catastrophe, evangelization, racial hierarchy, the silver-and-slavery economy, in four phases); the long-missing **[[spanish-conquest-of-peru-1532]]** (the Inca civil-war-and-epidemic preconditions; Cajamarca & Atawallpa's ransom and garroting; Manco Inca's 1536 rising; the conquistadors' civil wars; Vilcabamba to Tupac Amaru 1572) — the Andes counterpart to the Mexico page; **[[pizarro-francisco]]**; **[[las-casas-bartolome]]** (the New Laws of 1542; Valladolid 1550–51 vs. Sepúlveda); and the controversy **[[black-legend]]**. Enriched **[[inca-empire]]** (the conquest as event + Vilcabamba/Tupac Amaru + the Peruvian civil wars), **[[columbian-exchange-1492]]** (the livestock-and-ecology side — the Mezquital desertification case; forests more extensive in 1800), and **[[spanish-conquest-of-mexico-1519]]** (as the template Pizarro copied; the Black-Legend moral frame). **Next: Cycle 2 — the colonial state & economy (Chs 3–5: encomienda, viceroyalties, Potosí silver).**)
+
 Last updated: 2026-06-12 (**Popol Vuh: The Mayan Book of the Dawn of Life** (trans. Dennis Tedlock, 1985) — INGEST COMPLETE (primary source, single-pass). The **Maya-voice** primary — the K'iche' creation epic, cosmological counterpart to the conquest narratives. Created **[[popol-vuh]]** (the creation by Heart of Sky & the Plumed Serpent; the failed mud/wood humans; the Hero Twins Hunahpu & Xbalanque and their defeat of Xibalba; humans made of **maize**; the dual cosmogony-plus-K'iche'-dynastic-charter; preservation under conquest) and the source page **[[tedlock-popol-vuh]]**; enriched **[[maya-civilization]]** (the religious/mythological dimension from the inside; the Hero Twins attested on Classic vases → deep continuity). Filed to `raw/2. Ancient & Classical Civilizations/`. **Phase A remaining: Colonial Latin America (Burkholder & Johnson), Open Veins (Galeano).**)
 
 Last updated: 2026-06-12 (**Bernal Díaz del Castillo — *The Conquest of New Spain*** (c. 1568; Cohen trans.) — INGEST COMPLETE (primary source, single-pass). The **Spanish-eyewitness** counterpart to *The Broken Spears*, completing a two-sided [[spanish-conquest-of-mexico-1519|conquest]]. Created **[[la-malinche]]** (Doña Marina/Malintzin — Cortés's Nahua interpreter & the contested human hinge of the conquest) and the source page **[[diaz-conquest-of-new-spain]]**; enriched **[[spanish-conquest-of-mexico-1519]]** with the Spanish side (Bernal Díaz converges with the Nahua account on the facts — gold-barter, the bearded-men prophecy, revulsion at sacrifice, the Tlaxcalan alliance & Cholula, Montezuma's "divided mind," Guatemoc's end — while framing it as crusading mission). Filed to `raw/2. Ancient & Classical Civilizations/`. **Phase A nearly done: remaining = Popol Vuh (Maya primary), Colonial Latin America, Open Veins.**)
@@ -461,20 +463,21 @@ creation order with a one-line description.
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **Coe, Angkor and the Khmer Civilization** Ingest. Recent volumes'
+Counts reflect actual files on disk as of the **Colonial Latin America (Burkholder & Johnson), Cycle 1**
+ingest (recounted from disk — the prior table had drifted well below the true totals). Recent volumes'
 detailed new/updated pages are catalogued in their source pages and `log.md`.
 
 | Category | Pages |
 |---|---|
 | Periods | 25 |
-| Events | 193 |
-| Processes | 116 |
-| Actors | 431 |
-| Places | 112 |
-| Concepts | 239 |
-| Comparisons | 0 |
-| Controversies | 44 |
+| Events | 225 |
+| Processes | 136 |
+| Actors | 523 |
+| Places | 118 |
+| Concepts | 265 |
+| Comparisons | 1 |
+| Controversies | 49 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 44 |
-| **Total** | **1203** |
+| Sources | 128 |
+| **Total** | **1470** |

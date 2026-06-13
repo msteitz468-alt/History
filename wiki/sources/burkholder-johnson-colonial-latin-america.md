@@ -16,8 +16,8 @@ reliability_notes: >
   ([[spanish-conquest-of-mexico-1519]]) opened — bridging the pre-Columbian civilizations
   ([[aztec-empire]], [[inca-empire]]) and the modern Latin America already sketched in
   [[latin-america-modern]]. Ingested via the Large-Volume Protocol.
-pages_created: 0
-pages_updated: 0
+pages_created: 5
+pages_updated: 3
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -35,7 +35,7 @@ the Bourbon/Pombaline reforms that set the stage for independence.
 
 | Cycle | Chapters | Theme | Key page operations |
 |---|---|---|---|
-| 1. Conquest & its world | 1–2 (America, Iberia & Africa before the Conquest; The Age of Conquest) | The Iberian/Atlantic frame & the broader conquest | **Create** `colonial-latin-america` (the overarching anchor); enrich [[spanish-conquest-of-mexico-1519]], [[columbian-exchange-1492]], [[inca-empire]] (the broader conquest of Peru/Brazil) |
+| 1. Conquest & its world ✅ | 1–2 (America, Iberia & Africa before the Conquest; The Age of Conquest) | The Iberian/Atlantic frame & the broader conquest | **Created** `colonial-latin-america`, `spanish-conquest-of-peru-1532`, `pizarro-francisco`, `las-casas-bartolome`, `black-legend`; **enriched** [[spanish-conquest-of-mexico-1519]], [[columbian-exchange-1492]], [[inca-empire]] |
 | 2. The colonial state & economy | 3–5 (Ruling New World Empires; Population & Labor; Production, Exchange & Defense) | Administration, labor, silver | **Create** `encomienda`, `colonial-spanish-american-administration` (viceroyalties/audiencias), `potosi-and-colonial-silver`; enrich [[mita-and-andean-reciprocity]], [[global-silver-trade]], [[virgin-soil-epidemics]] |
 | 3. Colonial society | 6–8 (The Social Economy; The Family & Society; Living in an Empire) | Race, family, Church, culture | **Create** `casta-system` (sociedad de castas), `hacienda`; enrich [[atlantic-slave-trade]], [[catholic-church]] as warranted |
 | 4. Reform, crisis & independence + synthesis | later chapters (Bourbon/Pombaline reforms; the 18th-c economy; the wars of independence) | The late colonial order & its end | **Create** `bourbon-reforms`, `spanish-american-independence`; enrich [[latin-america-modern]]. Then synthesis. |
