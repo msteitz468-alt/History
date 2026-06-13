@@ -41,6 +41,13 @@ Soviets "revisionists," Moscow calling Maoism dogmatic adventurism). The rupture
 violent in the **border clashes of 1969** along the Ussuri River, which raised the real
 prospect of war between the two powers.
 
+## Causal Analysis
+
+- `caused_by:` **ideological rivalry** over leadership of world communism, inflamed by
+  Khrushchev's **de-Stalinization** and doctrine of **"peaceful coexistence"** (which Mao saw
+  as betrayal); clashing **national interests** (the reneged nuclear-sharing deal, border
+  disputes); and Mao's radicalism (the Great Leap, the 1958 Taiwan crisis).
+
 ## Consequence Analysis
 
 - `produced:` the **fragmentation of the Communist world** into two competing poles, ending
@@ -51,6 +58,12 @@ prospect of war between the two powers.
   that pressured the USSR and advanced **[[detente]]**.
 - A more **multipolar** Cold War in which national interest visibly trumped ideological
   solidarity.
+
+## Actors
+
+- The **People's Republic of China** ([[mao-zedong|Mao Zedong]]) and the **Soviet Union**
+  (Khrushchev), with the **United States** the eventual beneficiary of the rupture. See
+  [[china]], [[detente]].
 
 ## Significance
 

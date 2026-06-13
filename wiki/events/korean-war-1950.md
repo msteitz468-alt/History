@@ -65,6 +65,12 @@ no peace treaty.
 - A vast human cost (several million dead, mostly Korean civilians) and the entrenchment of
   Kim Il Sung's regime.
 
+## Actors
+
+- **North Korea** (Kim Il Sung) and **South Korea** (Syngman Rhee); the **United States** and
+  the UN coalition; the **People's Republic of China** ([[mao-zedong|Mao Zedong]]); and the
+  **Soviet Union** (Stalin) behind the scenes. See [[united-states]], [[china]], [[containment]].
+
 ## Historiography
 
 Once read through the lens of monolithic Communist aggression directed from Moscow, the war

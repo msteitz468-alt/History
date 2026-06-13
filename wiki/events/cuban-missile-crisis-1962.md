@@ -44,16 +44,26 @@ resolved on **28 October** by a deal: the USSR would **withdraw the missiles** i
 a public US pledge **not to invade Cuba** and a **secret** American agreement to remove its
 **Jupiter missiles from Turkey**. The world stepped back from the precipice.
 
-## Causal & Consequence Analysis
+## Causal Analysis
 
-- `caused_by:` Khrushchev's secret deployment; the US Jupiters in Turkey; the defense of Cuba
-  after the Bay of Pigs; the logic of the [[nuclear-arms-race]].
+- `caused_by:` Khrushchev's secret deployment of missiles to Cuba; the defense of a vulnerable
+  revolutionary ally after the **Bay of Pigs** (1961); the US **Jupiter missiles in Turkey**;
+  and the strategic imbalance — the logic of the [[nuclear-arms-race]].
+
+## Consequence Analysis
+
 - `produced:` a sobering recognition on both sides of nuclear danger — the **Washington–Moscow
   "hotline"** (1963), the **Partial Test Ban Treaty** (1963), and the first real movement
   toward **[[detente]]**.
 - `produced:` Khrushchev's weakened standing (a factor in his 1964 fall) and a Soviet
   determination never again to be caught in strategic inferiority — fueling the arms build-up
   that produced rough **parity** by the 1970s.
+
+## Actors
+
+- The **United States** (John F. Kennedy and the ExComm), the **Soviet Union** (Nikita
+  Khrushchev), and **Cuba** (Fidel Castro). See [[united-states]], [[nuclear-arms-race]],
+  [[detente]].
 
 ## Historiography
 

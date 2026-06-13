@@ -44,22 +44,31 @@ principal mechanism of the **economic division of Europe**: it consolidated a We
 built around a revived West Germany and accelerated the parallel **[[berlin-blockade-1948|crisis
 over Germany]]**.
 
-## Causal & Consequence Analysis
+## Causal Analysis
 
-- `caused_by:` Europe's dollar shortage and the political danger of Communist advance amid
-  postwar misery; the strategy of [[containment]].
+- `caused_by:` Europe's postwar **dollar shortage** and economic collapse, which the Bretton
+  Woods measures and UNRRA relief had failed to remedy.
+- `contributed_to:` the political **danger of Communist advance** amid postwar misery (the
+  French, Italian, and Belgian Communist parties) — and the strategy of [[containment]].
+
+## Consequence Analysis
+
 - `produced:` the **recovery of Western Europe** (industrial output surged), the
   **consolidation of the Western bloc**, and impetus toward **European integration** (the
   OEEC, the road to the European Coal and Steel Community).
-- `produced:` the **economic division of Europe** and a sharpened Cold War — the USSR's
-  countermove was the Cominform (1947) and later Comecon.
-
-## Significance
+- `produced:` the **economic division of Europe** and a sharpened Cold War — Stalin's refusal
+  (and the USSR's countermoves, the Cominform of 1947 and later Comecon).
 
 The Marshall Plan is the paradigmatic case of **economic statecraft as grand strategy**: it
 revived the West European power centres that [[containment|Kennan]] deemed vital, bound them
 to the United States, and drew the dividing line of the [[cold-war|Cold War]] across the
-continent. Its success also made it a model (and a myth) invoked in later aid debates.
+continent.
+
+## Actors
+
+- [[united-states]] (George C. Marshall, Truman) — author and funder; the states of **Western
+  Europe** — recipients (via the OEEC); the **Soviet Union** — which rejected it and barred
+  its bloc. See [[containment]], [[nato]], [[cold-war]].
 
 ## Related
 

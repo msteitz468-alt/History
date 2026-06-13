@@ -44,10 +44,14 @@ missiles that blunted Soviet air power. Unable to win, **Gorbachev** resolved to
 under the **Geneva Accords (1988)** the Soviets **withdrew by 15 February 1989**, leaving a
 communist government that survived only until 1992.
 
-## Causal & Consequence Analysis
+## Causal Analysis
 
-- `caused_by:` the collapse of the PDPA regime and the Soviet determination to save a
-  bordering client; the fear of post-Iran Islamist contagion.
+- `caused_by:` the collapse of the PDPA regime into chaos and the Soviet determination to save
+  a bordering client; the fear of **Islamist contagion** into Soviet Central Asia after the
+  Iranian revolution (1979).
+
+## Consequence Analysis
+
 - `produced:` the **death of [[detente]]** — the invasion sank US Senate ratification of
   SALT II, brought a grain embargo and the 1980 Olympic boycott, and inaugurated the
   confrontational **"second Cold War"** of the early 1980s.
@@ -57,6 +61,12 @@ communist government that survived only until 1992.
 - `enabled:` the strengthening of a transnational **jihadist** movement (the "Afghan Arabs")
   whose later trajectory ran toward al-Qaeda — a long-term consequence reaching into the
   [[contemporary|post-Cold-War]] era.
+
+## Actors
+
+- The **Soviet Union**, the Afghan communist government (**PDPA**), and the **mujahideen**,
+  backed by the **United States** (Operation Cyclone), **Pakistan** (the ISI), and **Saudi
+  Arabia**. See [[detente]], [[1991-end-of-cold-war]].
 
 ## Related
 

@@ -38,6 +38,13 @@ Britain mounted a round-the-clock **airlift**, flying in food, coal, and supplie
 million West Berliners for **nearly eleven months**. Unable to stop the airlift without
 shooting down aircraft, Stalin **lifted the blockade in May 1949**.
 
+## Causal Analysis
+
+- `caused_by:` the **division of Germany** and the Western powers' move to a separate West
+  German state — above all the June 1948 **currency reform** (the Deutsche Mark).
+- `contributed_to:` **Stalin's gamble** to force the Western powers out of Berlin (or abandon
+  a western Germany) by blockading the isolated city.
+
 ## Consequence Analysis
 
 - `produced:` the founding of **[[nato]]** (April 1949), as the crisis crystallized Western
@@ -48,6 +55,12 @@ shooting down aircraft, Stalin **lifted the blockade in May 1949**.
 - A major **propaganda victory** for the West: West Berlin became the showcase of the "free
   world" behind the Iron Curtain, and the airlift recast the recent enemy (the Germans) as a
   protected ally.
+
+## Actors
+
+- The **Soviet Union** (Stalin) vs. the **United States, Britain, and France** (the Western
+  occupying powers), with the **West Berliners** as the population sustained by the airlift.
+  See [[united-states]], [[nato]], [[marshall-plan-1948]].
 
 ## Significance
 

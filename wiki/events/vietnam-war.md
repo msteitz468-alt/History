@@ -50,16 +50,25 @@ era's great hot war and the most damaging US defeat of the Cold War.
   **30 April 1975**, **reunifying Vietnam under communism**. Neighboring Cambodia fell to the
   genocidal **Khmer Rouge** the same year.
 
-## Causal & Consequence Analysis
+## Causal Analysis
 
 - `caused_by:` Vietnamese **anticolonial nationalism** and the French (then American) refusal
   to accept it; the **Cold War overlay** that turned a decolonization struggle into a
-  superpower test (Washington acted on "worst-case assumptions" despite finding "no evidence
-  of mass popular support for Communism," driven by the domino theory).
+  superpower test — Washington acted on "worst-case assumptions" despite finding "no evidence
+  of mass popular support for Communism," driven by [[containment]] and the **domino theory**.
+
+## Consequence Analysis
+
 - `produced:` a communist, reunified Vietnam; a profound **US strategic and moral defeat**
   ("the Vietnam syndrome"); **millions of dead** (mostly Vietnamese); the Cambodian
   catastrophe; and a lasting demonstration of the **limits of superpower military power**
   against a determined nationalist insurgency.
+
+## Actors
+
+- **North Vietnam / the Vietminh** (Ho Chi Minh), **France**, the **United States**, and
+  **South Vietnam**, with the **Soviet Union** and the **People's Republic of China** backing
+  the North. See [[united-states]], [[containment]], [[decolonization]].
 
 ## Historiography
 

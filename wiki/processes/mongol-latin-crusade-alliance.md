@@ -15,79 +15,62 @@ tags: [process, high-middle-ages, late-middle-ages, near-east]
 
 # The Mongol–Latin (Ilkhanid–Western) Crusade Alliance
 
-The sustained but ultimately **abortive diplomacy** by which the [[ilkhanate|Mongol
-Ilkhans of Persia]] sought a **joint attack with Latin Christendom on the
-[[mamluk-sultanate|Mamluk Sultanate]]** of Egypt and Syria, c. 1262–1322. Repeatedly
-proposed and never effectively realized, it is one of the great **"might-have-beens"** of
+The sustained but ultimately **abortive diplomacy** by which the [[ilkhanate|Mongol Ilkhans of
+Persia]] sought a **joint attack with Latin Christendom on the [[mamluk-sultanate|Mamluk
+Sultanate]]** of Egypt and Syria, c. 1262–1322 — one of the great "might-have-beens" of
 medieval history and the central diplomatic theme of [[jackson-mongols-and-the-west|Peter
-Jackson's]] study — and a striking reversal: the [[mongol-conquests-13th-century|Mongol
-threat]] of 1241 and 1260 became, after the empire's fragmentation, a hoped-for crusading
-partner.
+Jackson's]] study.
 
-## The reversal of 1260–1262
+## Definition and Scope
 
-In 1260 the Franks of Acre had let **Hülegü's** army pass — even leaning toward the
-**Mamluks** — to avoid a Mongol attack, and the Mamluks' victory at
-**[[battle-of-ain-jalut-1260|Ain Jalut]]** (1260) checked the Ilkhanate. But the
-**dissolution of the Mongol empire** (1260–1) left Hülegü exposed: hostile Mongol kinsmen
-(the [[golden-horde|Golden Horde]]) to his rear, and Mamluk Egypt as a standing incitement
-to his Muslim subjects. He needed allies. In **April 1262** he wrote to **Louis IX** of
-France proposing that the French fleet blockade Egypt by sea while he attacked by land —
-the opening of a half-century of overtures.
+The process is the **half-century of Ilkhanid–Western diplomatic contact** aimed at a
+coordinated war against the Mamluks: embassies, treaty proposals, and a few attempted joint
+operations between the Mongol Ilkhans and the popes and kings of France, England, Aragon, and
+Sicily. It is a *diplomatic* process — real as negotiation, but never realized as joint war.
 
-## A diplomacy of missed connections
+## Causal Drivers
 
-Hülegü's successors **Abaqa**, **Arghun**, **Ghazan**, and **Öljeitü** sent embassy after
-embassy to the popes and to the kings of France, England, Aragon, and Sicily. The record is
-a catalogue of frustration:
+After the empire's [[mongol-conquests-13th-century|fragmentation]] (1260–1), Hülegü was
+exposed — hostile Mongol kinsmen (the [[golden-horde|Golden Horde]]) to his rear, Mamluk Egypt
+a standing incitement to his Muslim subjects — and needed allies; the **Mamluk victory at
+[[battle-of-ain-jalut-1260|Ain Jalut]]** (1260) made Egypt the common enemy. On the Latin
+side, the hope rested on the **[[medieval-european-images-of-the-mongols|image of the Mongols
+as an anti-Muslim ally]]** (and possible converts).
 
-- Mongol envoys were **intercepted in Sicily** (King Manfred, allied with the Mamluks,
-  shipped one embassy home) and **brawled with Mamluk ambassadors** in the main square of
-  Genoa (1268).
-- The **Lord Edward** (later Edward I) reached Palestine in 1271 and Abaqa sent the general
-  Samaghar against the Mamluks — but the Mongol raid was small, withdrew before Baybars,
-  and **no effective joint operation occurred**; Edward left in 1272.
-- The Aragonese crusade foundered in a storm (1269); the French crusade of 1270 was
-  diverted to **Tunis**, where an Ilkhanid embassy arrived to find Louis IX dead.
-- At the **Second Council of Lyons (1274)** Abaqa's envoys created a sensation by
-  undergoing **public baptism**, and Arghun later (1287–8) sent the Nestorian cleric
-  **Rabban Sauma** to the Western courts — but grand promises of a synchronized campaign,
-  and even of the Ilkhan's conversion to Christianity, never translated into coordinated war.
+## Major Phases
 
-Meanwhile the Mamluk sultans **Baybars** and **Qalawun**, kept fully informed by their
-**efficient intelligence network**, were spurred to finish off the isolated Frankish
-outposts — a process **completed with the fall of Acre in 1291**, the very thing the
-alliance was meant to prevent.
+1. **Opening (1262–68):** Hülegü's 1262 letter to Louis IX; Abaqa's embassies to Clement IV
+   and Aragon.
+2. **High diplomacy (1271–91):** the Lord Edward's coordination with Samaghar (1271); Abaqa's
+   envoys' **public baptism at the Second Council of Lyons (1274)**; Arghun's emissary
+   **Rabban Sauma** to the Western courts (1287–8) — all without effective joint war, while
+   the Mamluks took **Acre (1291)**.
+3. **Ghazan and the end (1295–1322):** Ghazan's three Syrian campaigns (the 1299–1300 victory
+   near Homs and brief seizure of Damascus; the 1303 disaster); Öljeitü's last overtures; the
+   **Ilkhanate–Mamluk peace (c. 1322)** ends the project.
 
-## Ghazan's campaigns and the end
+## Geographic Spread
 
-The Ilkhan **Ghazan** (1295–1304) — paradoxically a **Muslim convert** — came closest. He
-invaded Syria three times: in **1299–1300** he crushed the Mamluks near Homs (Wadi
-al-Khaznadar) and briefly took **Damascus**, raising messianic excitement in the West that
-"Ghazan was certain to conquer Egypt" — but his forces withdrew within weeks, and Latin
-help (a small Cypriot expedition under Amaury of Lusignan) achieved nothing. His **1303
-campaign was a disaster**, and he died in 1304. **Öljeitü** made the last overtures into
-the 1310s; with the **Ilkhanate's peace with the Mamluks (c. 1322)** the project lapsed for
-good.
+The diplomacy linked the **Ilkhanate** (Persia/Iraq) to the courts of **France, England,
+Aragon, Sicily, and the papacy**, with the contested ground being **Syria and Palestine**;
+Mongol envoys travelled across the Mediterranean (and were intercepted in Sicily or brawled
+with Mamluk ambassadors in Genoa), and Rabban Sauma reached Rome, Paris, and Bordeaux.
 
-## Why it failed
+## Interaction
 
-Jackson stresses the structural obstacles: the **vast distances** and the difficulty of
-synchronizing a steppe cavalry campaign with a seaborne crusade; the **divergent aims**
-(the Ilkhans wanted Syria as their own conquest, not the restoration of Frankish states);
-mutual suspicion (Western hopes hung on the illusory prospect of Mongol **conversion**,
-which the Ilkhans never seriously entertained as the price of alliance); the distraction of
-the popes by other crusade projects and the papal–imperial struggle; and the Mamluks'
-superior intelligence and interior lines. The "alliance" was real as diplomacy but
-**never** as joint war.
+The alliance was shaped by the **[[golden-horde]]–Ilkhanate** feud (the Horde allied with the
+Mamluks against its fellow Mongols), by the **[[crusades]]** (whose waning energy it tried to
+revive), and by the Western **[[medieval-european-images-of-the-mongols|image of the Mongols]]**;
+it generated much of the era's [[medieval-latin-missions-to-asia|missionary]] and
+[[medieval-europe-asia-trade|commercial]] contact.
 
-## Significance
+## End Conditions
 
-The episode shows the Mongols transformed in the Western imagination from apocalyptic enemy
-([[medieval-european-images-of-the-mongols]]) to providential ally — and its failure helped
-seal the **end of the Crusader states** (1291) and the survival of Mamluk Egypt. It also
-generated much of the era's contact: embassies, the travels of Rabban Sauma, and the
-information that fed Europe's widening picture of Asia.
+The project **failed and lapsed**: vast distances and the difficulty of synchronizing a steppe
+campaign with a seaborne crusade, divergent aims (the Ilkhans wanted Syria for themselves, not
+restored Frankish states), the illusory hope of Mongol conversion, papal distraction, and
+superior Mamluk intelligence all defeated it. Its failure helped seal the **end of the
+Crusader states (1291)**, and it ended formally with the Ilkhanate–Mamluk peace (c. 1322).
 
 ## Related
 

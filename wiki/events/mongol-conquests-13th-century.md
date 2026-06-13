@@ -77,6 +77,14 @@ the Kipchak confederacy, and many more.
   a model of rule claimed by the Timurids, Mughals, and Qing. May: "after the dust
   settled, the world had irrefutably changed and could never return to the way it once was."
 
+## Actors
+
+- **[[genghis-khan]]** and his successors (Ögödei, Möngke, Batu, Hülegü, Khubilai) commanding
+  the **[[mongol-army]]**; the conquered states ([[abbasid-caliphate|Abbasids]],
+  [[song-dynasty|Song]], the Jin, Xixia, Khwarazm, the [[rus-principalities|Rus′]]); and the
+  [[mamluk-sultanate|Mamluks]], who halted them at [[battle-of-ain-jalut-1260|Ain Jalut]]. See
+  [[mongol-empire]].
+
 ## Historiography
 
 The conquests' reputation runs "the gamut from the 'Tatar Yoke' to the Pax Mongolica."

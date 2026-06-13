@@ -25,7 +25,7 @@ the infrastructure of connection on which the great Mongol-era transfers travell
 [[may-mongol-conquests-2012|Timothy May]] treats it as the most consequential of the
 empire's structural achievements.
 
-## Definition and scope
+## Definition and Scope
 
 The proverb captured the ideal — that "a virgin carrying a gold urn filled with jewels
 could walk from one end of the empire to another without being molested." May treats
@@ -36,7 +36,7 @@ after 1260 — but trade and revenue continued *across* the front lines, because
 *Altan Urugh* (Golden Family) collected rents from each other's territories and had a
 shared interest in keeping the routes open. The Polos crossed a Eurasia at war.
 
-## Causal drivers
+## Causal Drivers
 
 May, following Janet Abu-Lughod and Thomas Allsen, locates the breakthrough in a
 **change of mindset**, not merely the elimination of rival toll-takers. Pre-conquest
@@ -62,17 +62,36 @@ commercial hub with royal warehouses, granaries, and walled desert wells across 
 - **A continental silver stratum** and shared demand for luxury goods (*nasij* brocade,
   porcelain) linking markets from England to China.
 
-## Geographic spread and phases
+## Major Phases
 
-The unified empire (1206–1260) created the first Pax Mongolica from Mongolia outward.
-After the dissolution into four khanates the peace **fragmented but did not collapse**:
-trade and tribute crossed even hostile borders, and the route between the
-[[ilkhanate|Ilkhanate]] and the Yuan increasingly went **by sea** around India when the
-[[golden-horde|Golden Horde]]–Ilkhanate war closed the land link. Periods of renewed
-peace (after Qaidu's death in 1301; under Abu Said and Üzbek Khan in the 1320s–30s)
-restored overland flows.
+1. **Unified empire (1206–1260):** a single Chinggisid order creates the first Pax
+   Mongolica from Mongolia outward.
+2. **Fragmented but connected (1260–c. 1300):** after the dissolution into four khanates
+   the peace **fragmented but did not collapse** — trade and tribute crossed even hostile
+   borders, and the [[ilkhanate|Ilkhanate]]–Yuan link increasingly went **by sea** around
+   India when the [[golden-horde|Golden Horde]]–Ilkhanate war closed the land route.
+3. **Indian-summer revivals (c. 1300–1340):** renewed peace after Qaidu's death (1301) and
+   under Abu Said and Üzbek Khan (1320s–30s) restored overland flows — Pegolotti's "safe
+   road to Cathay."
 
-## End conditions
+## Geographic Spread
+
+At its height the connected zone ran from the **Carpathians and the Black Sea to the Sea of
+Japan**, linking the four khanates and reaching, via merchants and envoys, into Latin Europe,
+the Mamluk world, and India. New routes opened **beyond the old [[silk-roads|Silk Road]]**
+(the northern steppe roads; the sea route around India), making the integration broader than
+any earlier Eurasian network.
+
+## Interaction
+
+The Pax Mongolica is the enabling infrastructure of the **[[chinggis-exchange]]** and the
+revival of the **[[silk-roads]]**; it carried the Mongol–Latin
+[[medieval-europe-asia-trade|trade]], [[medieval-latin-missions-to-asia|missions]], and
+[[mongol-latin-crusade-alliance|diplomacy]] — and, fatally, the **[[black-death|Black
+Death]]**. It rested on the [[mongol-empire|empire's]] military power and the *Altan Urugh's*
+shared interest in revenue.
+
+## End Conditions
 
 The Pax Mongolica unravelled in the mid-fourteenth century through the same channels it
 had opened. Its own connectivity carried the **[[black-death|Black Death]]** west out of

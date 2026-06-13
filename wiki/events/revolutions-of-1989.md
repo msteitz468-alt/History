@@ -62,6 +62,20 @@ were largely shaped by the gradual discovery of the scope of Soviet tolerance."
 - A foundational moment of the [[contemporary|post-Cold-War]] order and the "third wave" of
   democratization.
 
+## Causal Analysis
+
+- `caused_by:` **Gorbachev's abandonment of the Brezhnev Doctrine** (the decisive factor: Soviet
+  tolerance, above), the **economic exhaustion** of the communist regimes, long-suppressed
+  **national and democratic aspirations**, and the human-rights leverage of the **Helsinki**
+  process (see [[detente]]).
+
+## Actors
+
+- The **peoples of Eastern Europe** and their movements (Poland's **Solidarity** under Lech
+  Wałęsa; Czechoslovakia's Civic Forum under Václav Havel), the **communist regimes**, and
+  **Mikhail Gorbachev's Soviet Union** (whose restraint was decisive). See [[cold-war]],
+  [[1991-end-of-cold-war]].
+
 ## Historiography
 
 The events are a touchstone in debates over the Cold War's end: how much credit belongs to
