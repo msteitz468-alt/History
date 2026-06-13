@@ -8,8 +8,8 @@ region: [north-africa, west-africa, central-africa, east-africa, southern-africa
 process_type: [political, social, cultural]
 driven_by: [the need to administer conquered territories cheaply, settler and metropolitan interests, missionary activity, the colonial reordering of African society]
 produces: [systems of colonial administration (indirect/direct rule, assimilation), new social classes, missions and independent churches, the spread of Islam, the demographic shocks of early colonialism]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [process, world-wars-era, africa]
 ---
 
@@ -61,5 +61,9 @@ identities, weak extractive states) shaped post-colonial Africa.
 
 ## Related pages
 
-[[gha-vol7-colonial-1880-1935]] · [[colonial-economy]] · [[imperialism]] · [[colonial-knowledge]] ·
+[[gha-vol7-colonial-1880-1935]] · [[cambridge-history-of-africa-v7]] · [[colonial-economy]] · [[imperialism]] · [[colonial-knowledge]] ·
 [[african-nationalism]] · [[decolonization]] · [[genocide]] · [[sub-saharan-africa]]
+
+*The [[cambridge-history-of-africa-v7|Cambridge History of Africa, Vol. 7]] (1986) covers the
+consolidation of colonial rule 1905–1940 (economy, administration, the World Wars & Depression)
+— a parallel authority to the GHA account.*

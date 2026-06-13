@@ -8,8 +8,8 @@ region: [west-africa, east-africa, central-africa, southern-africa, north-africa
 process_type: [political, ideological]
 driven_by: [the grievances of colonial rule, the Western-educated elite, the discrediting of Europe by the world wars, Pan-Africanism and diaspora ideas, the colonial economy's dislocations]
 produces: [the independence movements, the post-colonial nation-states, Pan-African organizations]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [process, world-wars-era, africa]
 ---
 
@@ -65,6 +65,10 @@ independence. After 1945, nationalism became a **mass movement**.
 
 ## Related pages
 
-[[gha-vol7-colonial-1880-1935]] · [[gha-vol8-since-1935]] · [[pan-africanism]] · [[decolonization]] ·
+[[gha-vol7-colonial-1880-1935]] · [[gha-vol8-since-1935]] · [[cambridge-history-of-africa-v7]] · [[cambridge-history-of-africa-v8]] · [[pan-africanism]] · [[decolonization]] ·
 [[african-resistance-to-colonial-rule]] · [[colonial-rule-in-africa]] · [[nationalism]] · [[imperialism]] ·
 [[sub-saharan-africa]]
+
+*The Cambridge History of Africa Vols [[cambridge-history-of-africa-v7|7]] (1905–40) and
+[[cambridge-history-of-africa-v8|8]] (1940–75) trace early nationalism and its triumph in
+decolonization — a parallel authority to the GHA account.*
