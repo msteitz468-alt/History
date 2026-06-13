@@ -59,6 +59,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. VI (19th c.) | Section: The 19th-c. setting & abolition (chs. 1–4) | Pages created: 0 | Pages updated: 1 | (atlantic-slave-trade — abolition & legitimate commerce)
 
+## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. VI: Africa in the Nineteenth Century until the 1880s (J. F. Ade Ajayi ed., 1989) | Total pages created: 4 | Total pages updated: 8 | Sections processed: 6 (+ synthesis). Filed to raw/4. Modern Times/. Gap 2 nineteenth-century reference.
+
 ## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. V: Africa from the Sixteenth to the Eighteenth Century (B. A. Ogot ed., 1992) | Total pages created: 7 | Total pages updated: 8 | Sections processed: 6 (+ synthesis). Filed to raw/4. Modern Times/. Gap 2 early-modern reference (the Atlantic-trade era states).
 
 ## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. IV: Africa from the Twelfth to the Sixteenth Century (D. T. Niane ed., 1984) | Total pages created: 3 | Total pages updated: 9 | Sections processed: 6 (+ synthesis). Filed to raw/3. Middle Ages/. Gap 2 high-medieval reference (the great empires).

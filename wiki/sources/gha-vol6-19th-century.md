@@ -13,8 +13,8 @@ reliability_notes: >
   ivory-and-slave empire, Ethiopian reunification, and the French conquest of Algeria. Multi-author,
   peer-reviewed, authoritative for its date (1989). It deliberately stresses African initiative on the eve
   of colonial conquest, against the older "prelude to partition" framing.
-pages_created: 0
-pages_updated: 0
+pages_created: 4
+pages_updated: 8
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -55,11 +55,40 @@ followed.
 
 ## Pages Created / Updated
 
-*To be completed as sections are processed (Protocol Step 2c–2e).*
+**Created (4):** [[west-african-jihads]] (the 19th-c. Islamic revolutions); [[sokoto-caliphate]] (the
+largest 19th-c. African state); [[muhammad-ali-egypt]] (defensive modernization); [[merina-kingdom]]
+(Madagascar's unifying state).
+
+**Updated (8):** [[atlantic-slave-trade]] (abolition & legitimate commerce); [[mfecane]] (the Ngcongco/
+Omer-Cooper traditional view, balancing the Cobbing controversy); [[cape-colony]] (the Great Trek);
+[[swahili-coast]] (the Zanzibar caravan trade) and [[great-lakes-kingdoms]] (its reach into the interior);
+[[solomonic-ethiopia]] (the 19th-c. reunification); [[barbary-regencies]] (the French conquest of Algeria);
+[[hausa-city-states]] and [[oyo-empire]] (their conquest/collapse in the jihad era).
 
 ## Volume Synthesis Note
 
-*To be written after all sections are processed (Protocol Step 3).*
+GHA Vol. VI gave the wiki its **nineteenth-century African backbone** — the century *before* colonial
+conquest — with **4 new pages and 8 enrichments**. Its insistent argument, against the old "prelude to
+partition" framing, is that nineteenth-century Africa was an **age of African initiative**: of indigenous
+revolution, state-building, and modernization that the European Scramble cut short but did not cause.
+
+Four great processes organize the volume. (1) The **West African jihads** ([[west-african-jihads]]) remade
+the savanna, founding the **[[sokoto-caliphate|Sokoto Caliphate]]** (the largest African state of the
+century) and the Massina and Tukulor empires. (2) The **economic revolution** of **abolition** and the turn
+to "legitimate commerce" reorganized the Atlantic coast (and, paradoxically, expanded slavery *within*
+Africa — feeding the [[impact-of-atlantic-slave-trade-on-africa|underdevelopment debate]]). (3)
+**State-building** through upheaval — the **[[mfecane|Mfecane]]** in the south, the **[[swahili-coast|
+Zanzibar]]** caravan empire reaching the [[great-lakes-kingdoms|Lakes]]. (4) **Defensive modernization** —
+**[[muhammad-ali-egypt|Muhammad Ali's Egypt]]**, **[[solomonic-ethiopia|Ethiopia's reunification]]**, and
+the **[[merina-kingdom|Merina]]** kingdom — African and Malagasy states reforming to meet European power.
+
+**Cross-volume relationships.** Vol. VI carries forward Vol. V's states (the Hausa absorbed by Sokoto, Oyo's
+collapse, Kongo/Luba-Lunda drawn into the East African trade, the Maghrib's regencies meeting French
+conquest) and sets up Vol. VII (colonial conquest, 1880–1935). It directly **balances the wiki's standing
+[[mfecane]] controversy** by adding the Ngcongco/Omer-Cooper traditional view against Reader's Cobbing
+endorsement, and it deepens the [[scramble-for-africa|Scramble]] page's account of *why* a vigorous,
+state-building continent was nonetheless conquered. With this volume the wiki finally holds the
+**nineteenth-century jihad states, the modernizing monarchies, and the Zanzibar trade** at proper depth.
 
 ## Cross-links
 
