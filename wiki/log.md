@@ -15,6 +15,8 @@ Format:
 
 ## 2026-06-12 admin | PIVOT to Outstanding Sources.md. Audit: ~50 of ~75 gap-filling sources now in collection (entire Modern leg, Africa, Americas, much of Asia). Still missing: Russia (Gap 8), several global primaries (Muqaddimah, Gilgamesh, Secret History of Mongols, Behistun, Hammurabi), most world-systems (Abu-Lughod, Crosby, Diamond, Harper). Working gaps in list order, starting Gap 1 (Modern).
 
+## 2026-06-12 section | Africa: A Biography of the Continent (John Reader) | Section: Settlers (chs. 40–46) | Pages created: 3 | Pages updated: 0 | (cape-colony, mfecane, southern-african-mineral-revolution)
+
 ## 2026-06-12 section | Africa: A Biography of the Continent (John Reader) | Section: Foreign Influences (chs. 31–39) | Pages created: 1 | Pages updated: 1 | (controversy: impact-of-atlantic-slave-trade-on-africa)
 
 ## 2026-06-12 section | Africa: A Biography of the Continent (John Reader) | Section: African Civilizations (chs. 20–30) | Pages created: 2 | Pages updated: 5

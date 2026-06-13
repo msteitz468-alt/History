@@ -14,8 +14,8 @@ reliability_notes: >
   colonialism), lighter and now somewhat dated on the internal political detail of individual states (for
   which the UNESCO General History of Africa volumes are the reference). Its environmental framing is a
   argument to be noted, not a neutral baseline. The wiki uses it as the continent-wide spine for Gap 2.
-pages_created: 3
-pages_updated: 6
+pages_created: 6
+pages_updated: 5
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -71,8 +71,14 @@ state-level pages this spine creates.
 - *Chs. 31–35 (Portuguese initiatives, Prester John, Kongo) noted for the synthesis pass / deferred to the
   UNESCO volumes for a dedicated Kongo page.*
 
-*Sections 1–3 (deep prehistory, human origins, food production/iron) and Sections 6–8 (settlers, the
-Scramble, decolonization) still to process.*
+**Section 6 — Settlers (chs. 40–46), processed 2026-06-12:**
+- **Created:** [[cape-colony]] (Dutch settlement, Khoisan dispossession, slavery, Trekboers, frontier wars,
+  British conquest); [[mfecane]] (with the **Cobbing** revisionist controversy — slaving and settler
+  labour-raiding vs the Shaka-centred myth); [[southern-african-mineral-revolution]] (Kimberley and the
+  Rand; the compound/pass-law/migrant-labour system as the institutional ancestor of apartheid).
+
+*Sections 1–3 (deep prehistory, human origins, food production/iron) and Sections 7–8 (the Scramble,
+decolonization) still to process.*
 
 ## Volume Synthesis Note
 
