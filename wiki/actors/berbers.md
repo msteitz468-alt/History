@@ -9,7 +9,7 @@ affiliated_with: [Carthage (allies and subjects), Rome (client kings, then provi
 opposed_by: [Carthage and Rome at various times; Numidia vs. Carthage in the Punic Wars]
 key_events: [Libyan/Tehenou contact with Egypt, the kingdom of Numidia under Masinissa, the Jugurthine War, the Roman annexation of Mauretania, the Arab conquest]
 key_processes: [[[trans-saharan-trade]], state-formation, Romanization, Islamization]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, people, north-africa, classical-antiquity]
 ---
@@ -52,6 +52,17 @@ Berbers supplied **Carthage's** armies (the famous Numidian cavalry) and farmed 
 rural resistance to the Romanized coastal elite). Never fully assimilated, Berber language and identity
 survived Vandal, Byzantine and ultimately Arab conquest; the **Amazigh** peoples (Tuareg, Kabyle, Riffian,
 Shilha and others) persist across the Maghrib and Sahara to this day.
+
+## The Arab conquest and Berber Islam (GHA III)
+
+The **UNESCO [[gha-vol3-7th-11th-century|General History of Africa, Vol. III]]** (chs. 9–10, Monès & Talbi)
+recounts the **Arab conquest of the Maghrib (late 7th c.)** and the **fierce Berber resistance** — the
+foundation of **Kayrawan** (670) by Uqba ibn Nafi, and the legendary stands of **Kusayla** and the
+priestess-queen **al-Kahina**. Once Islamized, the Berbers turned their characteristic **independence**
+(earlier voiced in Donatism) into Islamic forms: they embraced **Kharijism** and built breakaway states
+(the Rustamids of Tahert, the Midrarids of Sijilmasa, the Berghwata) that asserted Maghribi autonomy from
+the eastern Caliphate — the prelude to the great Berber empires of the [[almoravids|Almoravids]] and
+Almohads. Their conversion is the western arm of the [[islamization-of-africa|Islamization of Africa]].
 
 ## Significance
 

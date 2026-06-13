@@ -9,7 +9,7 @@ affiliated_with: [Coptic/Monophysite Christianity, Byzantine Egypt, Fatimid and 
 opposed_by: [the Blemmyes, Muslim Egypt (the Baqt treaty, later Mamluk pressure), the Funj]
 key_events: [conversion of the Nobades (543), the Arab invasions and the Baqt treaty (652), the fall of Dongola (14th c.), the fall of Soba (c. 1504)]
 key_processes: [[[christianization]], [[trade-network-formation]], Islamization]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, late-antiquity, early-middle-ages, north-africa, sub-saharan-africa]
 ---
@@ -56,6 +56,17 @@ From the late thirteenth century, **Mamluk** intervention, Arab nomadic immigrat
 eroded the kingdoms: **Dongola** fell in the fourteenth century (its throne hall became a mosque), and the
 southern kingdom of **Alodia/Soba** finally collapsed around **1504** before the rising **Funj** sultanate
 — completing the Islamization of the Sudan.
+
+## The height of the civilization (GHA III)
+
+The **UNESCO [[gha-vol3-7th-11th-century|General History of Africa, Vol. III]]** (ch. 8, Jakobielski)
+treats the **9th–11th centuries as Christian Nubia's apogee** — the period of the unified kingdom of
+**Makuria** (which had absorbed Nobatia), its prosperous capital at **Old Dongola** with its great
+churches, the flowering of the **Faras cathedral** wall-paintings (the "Faras school" of Nubian art), and
+a literate church culture writing in **Old Nubian** (a Nubian language in a Coptic-derived alphabet)
+alongside Greek and Coptic. The **Baqt** with Fatimid Egypt held, and Nubian bishops were still consecrated
+by the Coptic Patriarch of Alexandria — a confident, wealthy African Christian state at the very moment
+Islam was consolidating all around it.
 
 ## Significance
 
