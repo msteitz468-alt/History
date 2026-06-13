@@ -12,8 +12,8 @@ reliability_notes: >
   trading empires. Multi-author, peer-reviewed, authoritative for its date (1988); some archaeological and
   dating detail is now superseded. Strong on the Islamic Maghrib, the Sahara, and trans-Saharan trade;
   the sub-Saharan chapters rest heavily on archaeology and historical linguistics.
-pages_created: 0
-pages_updated: 0
+pages_created: 3
+pages_updated: 8
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -54,11 +54,39 @@ engaged Islam on their own terms.
 
 ## Pages Created / Updated
 
-*To be completed as sections are processed (Protocol Step 2c–2e).*
+**Created (3):** [[islamization-of-africa]] (the gradual, trade-borne spread of Islam through three
+channels); [[fatimid-caliphate]] (the Berber-based Ismaili empire that founded Cairo); [[kanem-bornu]] (the
+Lake Chad state and the longest-lived African dynasty).
+
+**Updated (8):** [[islam]] (Africa cross-link); [[bantu-expansion]] (Vansina); [[christian-nubia]] (its
+apogee); [[berbers]] (the Arab conquest and Berber Islam); [[almoravids]] (Saharan/Sahel framing);
+[[ghana-empire]] (al-Bakri; the Almoravid-conquest debate); [[swahili-coast]] (the early Islamic coast and
+the Zanj); [[aksum]] (post-Aksumite Ethiopia and the Muslim world).
 
 ## Volume Synthesis Note
 
-*To be written after all sections are processed (Protocol Step 3).*
+GHA Vol. III gave the wiki its **early-medieval African backbone**, the bridge between the ancient
+civilizations of [[gha-vol2-ancient-civilizations|Vol. II]] and the great medieval empires of Vol. IV.
+Across six section cycles it created **3 pages** and enriched **8**.
+
+**Its unifying theme is the coming of Islam — and the agency of Africans in receiving it.** The volume's
+through-line, captured in the new **[[islamization-of-africa]]** page, is that Islam spread across the
+continent **gradually and through commerce**, not the sword: North Africa was conquered but converted
+slowly (Christian Berber and Coptic communities persisting for centuries); the Sahel's rulers
+([[ghana-empire|Ghana]], [[kanem-bornu|Kanem]]) adopted Islam through the **gold trade** and the merchant
+class; the **[[swahili-coast|Swahili coast]]** was Islamized by Indian Ocean settlers. Throughout, the
+volume foregrounds **Berber agency** — the **[[fatimid-caliphate|Fatimids]]** (a Kutama-Berber Ismaili
+empire that founded Cairo) and the **[[almoravids|Almoravids]]** (a Sanhaja desert movement that unified the
+Maghrib, al-Andalus, and reached into the Sahel) — making this as much a chapter of *North* African
+history as of the Sudan.
+
+**Cross-volume relationships.** Vol. III deepens what Vol. II began (carrying Nubia to its Christian apogee,
+the Berbers from Libyans to Muslims) and sets up Vol. IV (Ghana → Mali; Kanem → Bornu; the Swahili
+stone-towns). It coheres with the wiki's existing [[islam]], [[trans-saharan-trade]] and [[crusades]]
+coverage. One interpretive nuance is recorded rather than asserted: the traditional **"Almoravid conquest of
+Ghana" (c. 1076)** is flagged as **contested/overstated** on [[ghana-empire]], per GHA III's revisionist
+view. As a 1988 reference its archaeology is dated in places, but its framing — Islam as an African
+acquisition, the Sahel and the Maghrib as one connected world — remains the standard.
 
 ## Cross-links
 
