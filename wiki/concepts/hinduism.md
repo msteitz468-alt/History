@@ -32,6 +32,38 @@ which crystallised **Karma**, transmigration, and **Dharma**. The **pre-Aryan** 
 brahmanical-Vedic and popular non-Aryan religious worlds — the abstract Vedic systems appealing to a
 few, "the majority [preferring] more earthly forms of religion."
 
+## The making of classical Hinduism (Thapar)
+
+[[thapar-history-of-india-v1-1966|Thapar]] traces the **post-Mauryan crystallisation** of the
+religion. The heterodox attack on Vedic sacrifice strengthened the **monotheistic** trend latent in
+the Upanishads, producing the **trinity** (Brahma the creator — soon receding; **Vishnu** the
+preserver; **Shiva** the destroyer) within a cyclical cosmology, of which **Vaishnavism** and
+**Shaivism** became the two great sects. **Vishnu** acquired his **avatars** (incarnations entering
+the world to defeat evil — the ninth being the **Buddha**, co-opted as Buddhism faded; the tenth,
+**Kalkin**, yet to come — a parallel to the Maitreya/Messiah idea); **Shiva** evolved from the Vedic
+**Rudra** and the Tamil **Murugan**, absorbing fertility cults (the *lingam*, the bull). Popular
+worship of animals, trees, rivers (the purifying **Ganges**), and the cow continued beneath the great
+gods. Crucially, the **Vedas became the brahmans' preserve** while the people took the **Epics, the
+Puranas, and the Dharmashastras** as their scripture: the once-secular Epic heroes (Rama, Krishna)
+became avatars of Vishnu, and the **Bhagavad Gita** was interpolated into the Mahabharata — its
+doctrine (do your *dharma*-ordained duty without attachment to results; Krishna absolving Arjuna of
+the sin of killing kin in a righteous war) becoming "the sacred book *par excellence* of the Hindus."
+Thapar stresses Hinduism is **not a revealed religion** founded by a historical person but a long
+**synthesis** of Vedic and popular cults — and that the word "Hindu" itself was an 8th-century **Arab**
+coinage for the people of India.
+
+## Southern developments: Shankara, Ramanuja, and the Tamil saints
+
+The southern chapters add the **philosophical and devotional** flowering. The Tamil
+[[pallava-chalukya-rashtrakuta|Pallava-era]] **"saints"** (Shaiva and Vaishnava hymnists) drove a
+popular **Tamil [[bhakti-movement|devotional cult]]** that, in turn, fed back into pan-Indian Hinduism.
+**Shankara** (Shankaracharya, from Kerala) reinterpreted the **Vedanta** as **Advaita (monism)** —
+the perceived world is *maya* (illusion); reality is the undifferentiated Absolute, glimpsed through
+ascetic discipline — and, borrowing the Buddhists' own organisational methods, founded **mathas** at
+the four corners of India (Badrinath, Puri, Dvarka, Shringeri) to propagate it, helping to **displace
+Buddhism**. Later, **Ramanuja** advanced a theistic **Vaishnava** alternative (qualified non-dualism),
+giving *bhakti* a rigorous philosophy.
+
 ## Bhakti and Puja
 
 Two innovations define the new religion:
