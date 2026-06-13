@@ -8,7 +8,7 @@ region: [global, africa, south-asia, southeast-asia, near-east, east-asia, carib
 process_type: [political, ideological]
 driven_by: [anti-imperial [[nationalism]], the discrediting of Europe's "civilizing mission" by the world wars, socialist and self-determination ideologies, the economic exhaustion of the imperial powers, the Cold War]
 produces: [the global triumph of the nation state, the post-colonial world, Third World non-alignment, persistent post-colonial inequalities and conflicts]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [process, cold-war, world-wars-era, global]
 ---
@@ -132,8 +132,26 @@ became independent between 1960 and 1975. His themes:
   **70+ coups in the first 30 years**, one-party states, presidents-for-life and military rule, with
   Nigeria and Rwanda as the nightmares and post-apartheid South Africa (1994) as a "flickering hope."
 
+## The African independence struggle (GHA VIII)
+
+The **UNESCO [[gha-vol8-since-1935|General History of Africa, Vol. VIII]]** (Section II, chs. 5–10) gives the
+fullest African account of **decolonization, 1945–60s**, under Mazrui's banner "**Seek ye first the
+political kingdom**" (Nkrumah's adaptation of the Gospel — win political power first, the rest will follow):
+
+- **West Africa** led the way by largely **constitutional** routes — **Kwame Nkrumah's** Convention People's
+  Party and the independence of **Ghana (1957)**, the first sub-Saharan colony to be freed, then **Nigeria
+  (1960)** and the French territories in the "year of Africa" (1960).
+- **Settler colonies fought harder**: the **Mau Mau** war in Kenya (1952–60), the bitter **Algerian War of
+  Independence (1954–62)**, and the protracted armed struggles against Portuguese rule (Angola, Mozambique,
+  Guinea-Bissau) and against white-minority regimes in [[apartheid|Southern Africa]].
+- The **Congo crisis (1960)** showed how independence could be hijacked by Cold War and secession (the
+  murder of [[decolonization|Lumumba]]) — already covered above.
+
+By the mid-1960s most of Africa was independent; the settler south remained the long final frontier.
+
 ## Related pages
 
 [[imperialism]] · [[nationalism]] · [[cold-war]] · [[westad-cold-war]] · [[reader-africa-biography]] ·
+[[gha-vol8-since-1935]] · [[african-nationalism]] · [[pan-africanism]] · [[apartheid]] ·
 [[sub-saharan-africa]] · [[scramble-for-africa]] · [[congo-free-state]] · [[self-strengthening]] ·
 [[communism-and-fascism]] · [[genocide]] · [[contemporary]] · [[1945-postwar-order]]
