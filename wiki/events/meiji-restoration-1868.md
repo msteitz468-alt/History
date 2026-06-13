@@ -14,7 +14,7 @@ scale_immediate: civilizational
 scale_consequential: global
 causes: ["the forced opening by the West (Perry, 1853) & the unequal treaties", "the bakufu's loss of legitimacy under foreign pressure", "the reformist strength of the western tozama han"]
 consequences: ["the abolition of the shogunate & restoration of direct imperial rule", "the [[meiji-period|Meiji modernization]]", "the end of feudalism & the samurai class", "Japan's rise as a great power"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [event, transition, long-19th-century, japan, east-asia]
 ---
@@ -64,6 +64,33 @@ capital").
   (achieved 1894).
 - `enabled:` Japan's emergence as the first non-Western **great power**.
 
+## Jansen's reading: a transition, not a coup (Cambridge History of Japan Vol. 5)
+
+The [[cambridge-history-japan-v5-nineteenth-century|Cambridge History Vol. 5]] (Marius
+Jansen) insists the Restoration be read **as a whole century-long transition**, not the events
+of 1867–68 alone: "limited to the events of 1867 and 1868, it constituted little more than a
+coup that shifted rule from one sector of the ruling class to another," but seen as a process
+from the late-Tokugawa [[opening-of-japan-1853-1858|opening]] to the constitutional state of
+1889, it was **revolutionary**. Jansen sets it among Japan's great structural transitions
+between civil and warrior rule (Yamato→ritsuryō; Heian→Kamakura; now warrior→civil), each
+**preceded by a long preparation** (the bureaucratization of the samurai, the Tempō reforms'
+new administrator-officials) and each clothed in **archaicizing, revivalist rhetoric** — here
+the "return to antiquity" of imperial restoration (the Heian and Meiji shrines, the reign-name
+chosen from the *Book of Changes*, the rewriting of history to decry "military usurpation").
+
+## Historiography
+
+Jansen traces how interpretation tracked the political climate. The **prewar orthodoxy** (not
+yet dead) made the Restoration the triumph of selfless imperial-loyalist *shishi* awakening a
+"long-slumbering imperial consciousness" — laudatory, nationalist, and equitably allocating
+credit among the southwestern *han*. Against it, an early-twentieth-century revisionism
+(**Tokutomi Sohō**) separated the leaders from their achievement and credited **"inexorable
+trends"** — the fragility of feudal society and the rise of "stouthearted rural leaders" —
+rather than great men, often to advance liberal politics. Postwar **Marxist** scholarship
+debated whether the Restoration was a bourgeois revolution or an "absolutist" reordering. The
+Cambridge consensus: a **legitimacy transfer led from within the ruling class** that
+nonetheless set in motion genuinely revolutionary change.
+
 ## Significance
 
 The Restoration is read not as a sudden revolution but as a **legitimacy transfer** that
@@ -75,6 +102,8 @@ transformations.
 ## Related
 
 - [[meiji-period]] — the modernization it launched.
+- [[opening-of-japan-1853-1858]] — the foreign shock that precipitated it.
+- [[meiji-constitution-1889]] · [[ito-hirobumi]] — the state it eventually built.
 - [[edo-period]] · [[shogunate-bakufu]] — the order it ended.
 - [[japanese-imperialism]] — the great-power expansion that followed.
 - [[shinto]] · [[japan]] — the restored sacred throne and the realm.

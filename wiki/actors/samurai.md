@@ -9,7 +9,7 @@ affiliated_with: [the warrior houses (Minamoto, Taira, Hōjō, Ashikaga, Tokugaw
 opposed_by: [the civil court aristocracy (displaced), rival warrior houses]
 key_events: ["the Gempei War", "the founding of the [[shogunate-bakufu|bakufu]]", "the Mongol invasions"]
 key_processes: [[[shogunate-bakufu]], [[feudalism]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-13
 tags: [actor, movement, high-middle-ages, japan, east-asia]
 ---
@@ -79,7 +79,21 @@ elaboration (Cycle 3).
   administrators during the centuries of peace" — frozen in place as the ruling estate of the
   **[[bakuhan-system|bakuhan]]** order.
 - **Meiji:** their privileges (stipends, the right to bear swords) **abolished** in the
-  1870s as Japan built a modern conscript army. *(Cycle 4.)*
+  1870s as Japan built a modern conscript army. The
+  [[cambridge-history-japan-v5-nineteenth-century|Cambridge History Vol. 5]] (Vlastos) details
+  the **disestablishment and its backlash**: the conscription law (1872), the ban on
+  sword-wearing, and the commutation of hereditary stipends into one-off bonds dissolved the
+  warrior estate, reducing the ~2 million-strong **shizoku** (former-samurai status group) to
+  pensioners. The response came in two forms. **Shizoku revolts** — armed risings of
+  disaffected ex-samurai in the southwest, culminating in **Saigō Takamori's Satsuma
+  Rebellion (1877)**, the last samurai war, crushed by the peasant conscript army — proved
+  that the military monopoly of the warrior was finished. The peaceful alternative was the
+  **People's Rights movement (*jiyū minken*)**: led initially by Restoration losers (Itagaki
+  Taisuke, Gotō Shōjirō of Tosa) who, splitting from the oligarchy in 1873, demanded an
+  **elected national assembly** — a decade-long coalition of shizoku, wealthy commoners,
+  urban intellectuals, and aggrieved farmers whose agitation helped force the
+  **[[meiji-constitution-1889|constitution of 1889]]**. Thus the samurai both **lost their
+  estate and supplied the leadership** of the new state.
 
 ## Significance
 
@@ -93,5 +107,6 @@ defined the age, and whose disestablishment marks the birth of modern Japan.
 - [[feudalism]] — the comparative European institution.
 - [[shugo-daimyo]] · [[medieval-shoen]] — the offices and estates through which warrior land-power grew.
 - [[kokudaka-system]] · [[bakuhan-system]] — the survey that separated them from the land and the order that froze them as rulers.
+- [[meiji-restoration-1868]] · [[meiji-constitution-1889]] — the revolution they led and the state that disestablished them.
 - [[minamoto-no-yoritomo]] · [[kamakura-period]] · [[muromachi-period]] — their rise and rule.
 - [[zen-buddhism]] — the spirituality of the warrior.

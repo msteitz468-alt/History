@@ -5,7 +5,7 @@ date_range: "1868–1912 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["deliberate modernization & Westernization", "state-led industrialization (the first non-Western industrial revolution)", "the Meiji Constitution & the Diet (1889)", "treaty revision & great-power status", "the end of the samurai class", "the rise of empire (Taiwan, Korea)"]
 collection_coverage: moderate
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -49,6 +49,22 @@ striking coherence of purpose. Borrowing was conscious and selective, then **dom
   (1894–95)]]** and **[[russo-japanese-war-1904|Russo-Japanese (1904–5)]]** wars won Taiwan,
   Korea (annexed 1910), and recognition as a great power (the Anglo-Japanese Alliance, 1902).
 
+## Building the centralized state (Cambridge History of Japan Vol. 5)
+
+The [[cambridge-history-japan-v5-nineteenth-century|Cambridge History Vol. 5]] (Beasley,
+ch. 10) details the institutional construction the Mason spine sketches. The foundational act
+was the **abolition of the domains** (*haihan chiken*, 1871) — the daimyo persuaded to
+surrender their *han*, replaced by centrally appointed prefectures, ending feudal
+decentralization at a stroke. There followed a powerful **Home Ministry** appointing governors
+and a national police; a uniform conscript army and school system; and, after a long
+oligarchic debate, the **[[meiji-constitution-1889|Meiji Constitution (1889)]]** —
+[[ito-hirobumi|Itō Hirobumi's]] Prussian-model settlement creating an Imperial Diet while
+reserving sovereignty to the emperor. Jansen stresses that the leadership, by century's end,
+was "largely satisfied that proper wisdom and institutions had been found," and during the
+1890s **co-opted the popular-rights politicians** into the cabinet system (Itō forming his own
+Seiyūkai party in 1900) — the consolidation of an oligarch-guided constitutional order rather
+than genuine parliamentary supremacy.
+
 ## Key Actors
 
 - The Meiji oligarchs (***genrō***): **Ōkubo Toshimichi**, **Itō Hirobumi** (architect of
@@ -86,6 +102,8 @@ Vol. 5 (the Nineteenth Century).
 ## Related
 
 - [[meiji-restoration-1868]] — the founding event.
+- [[meiji-constitution-1889]] · [[ito-hirobumi]] — the constitutional settlement and its architect.
+- [[meiji-modernization]] — the modernization process (bunmei kaika, Iwakura mission).
 - [[industrialization]] — Japan as the first non-Western industrializer.
 - [[japanese-imperialism]] · [[russo-japanese-war-1904]] — the rise of empire.
 - [[edo-period]] · [[pacific-war-1941-1945]] — before and after; [[japan]] — the realm.
