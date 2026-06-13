@@ -9,12 +9,17 @@ affiliated_with: [Berber/Libyan desert peoples; commerce with Carthage and Roman
 opposed_by: [Rome (raids and one triumph); the "Troglodyte Ethiopians" they raided for slaves]
 key_events: [emergence c. 1000 BCE, peak 1st–3rd c. CE (capital Garama), foggara irrigation florescence, decline after 300 CE, Arab conquest of the Fezzan (7th c.)]
 key_processes: [[[trans-saharan-trade]], [[empire]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [actor, state, classical-antiquity, north-africa]
 ---
 
 # The Garamantes
+
+> **GHA II note.** The UNESCO [[gha-vol2-ancient-civilizations|General History of Africa, Vol. II]] (ch. 20)
+> treats the Garamantes as a Saharan **[[berbers|Libyco-Berber]]** people and pioneers of the early
+> **[[trans-saharan-trade|trans-Saharan routes]]** — a mixed population the classical authors counted among
+> the desert "Ethiopians."
 
 ## Overview
 

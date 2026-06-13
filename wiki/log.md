@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 section | GHA Vol. II (Ancient Civilizations of Africa) | Section: North Africa & the Sahara in antiquity (chs. 17–20) | Pages created: 1 | Pages updated: 1 | (berbers; enriched garamantes)
+
 ## 2026-06-12 section | GHA Vol. II (Ancient Civilizations of Africa) | Section: Aksum and Ethiopia (chs. 13–16) | Pages created: 0 | Pages updated: 1 | (aksum — pre-Aksumite D'MT/Yeha; Christian Aksum, Ezana/Frumentius)
 
 ## 2026-06-12 section | GHA Vol. II (Ancient Civilizations of Africa) | Section: Nubia and Kush (chs. 8–12) | Pages created: 1 | Pages updated: 1 | (christian-nubia; enriched kush-meroe)
