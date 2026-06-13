@@ -34,6 +34,8 @@ Last updated: 2026-06-12 (**Anthony Reid — *Southeast Asia in the Age of Comme
 
 Last updated: 2026-06-12 (**Michael D. Coe — *Angkor and the Khmer Civilization*** (Thames & Hudson, 2003) — INGEST COMPLETE (Large-Volume, 3 cycles + synthesis). The wiki's **first dedicated Southeast Asian source**, opening the long-flagged SE Asia gap (Gap 3). Created 5: **[[khmer-empire]]** (Angkor, 802–1431), **[[angkor]]** *(enriched existing)*, **[[jayavarman-vii]]**, **[[funan]]** (the pre-Angkorian Funan/Zhenla states), **[[devaraja]]** (the god-king cult), and the **[[southeast-asia]]** regional anchor. Enriched **[[indianization-of-southeast-asia]]** (the Khmer close-up: Oc Eo, the Zhenla temples), **[[angkor]]** (Coe's monuments — Angkor Wat, the Bayon, Zhou Daguan), **[[mahayana-buddhism]]** & **[[hinduism]]** (the Khmer state cults). Filed to `raw/3. Middle Ages/`. **Begins the Southeast Asia leg of Gap 3; the archipelago, Burma, Siam & Vietnam remain (Reid, Cambridge History of SE Asia next).**)
 
+Last updated: 2026-06-13 (**Sima Qian, *Records of the Grand Historian: Qin Dynasty* (the *Shi ji*)** (c. 91 BCE; trans. Burton Watson) — INGEST COMPLETE (primary, single-pass). The foundational primary source behind the Qin pages. Created **[[sima-qian]]** (the Grand Historian — founder of Chinese historiography; the *Shi ji*'s five-part form & the "Grand Historian remarks" verdicts; the Li Ling affair & his choice of castration over death to finish the work; his moral-didactic method and the *Shi ji* as an indirect critique of his master Han Wudi). Deepened **[[qin-shi-huang]]** (Sima Qian's dramatic portrait — Lü Buwei, the "10,000 generations" decree, the immortality quest, the Jing Ke assassination attempt) and **[[qin-dynasty]]** (the *Shi ji* as primary source; the "silkworm" expansion). Resolves the dangling `[[sima-qian]]` link. Filed to `raw/2. Ancient & Classical Civilizations/`.)
+
 Last updated: 2026-06-13 (**Jonathan Spence, *The Search for Modern China*** (1990; 4th ed. 2024) — INGEST COMPLETE (Large-Volume, 2 cycles + synthesis). The **spine for modern China** (Phase D), building out a near-total wiki gap. Created 5: **[[opium-wars]]** (Lin Zexu, the *Nemesis*, the Treaty of Nanjing & the "unequal treaty" system), **[[taiping-rebellion]]** (Hong Xiuquan's Heavenly Kingdom; ~20M+ dead), **[[fall-of-the-qing-1911]]** (the Wuchang uprising → Puyi's abdication; end of 2,000 years of empire), **[[mao-zedong]]** (rural revolution, the Long March, the PRC, the Great Leap famine & Cultural Revolution), **[[chinese-communist-revolution]]** (May Fourth → CCP → 1949 PRC → Maoist campaigns → Deng's reforms). Deepened **[[qing-dynasty]]**, **[[self-strengthening]]**, **[[contemporary]]**. Theme (Spence): China's long "search for modern China" — for a state and identity to restore strength after the 19th-century collapse. With Keay + Spence the wiki now has a China narrative from the Shang to the 21st century. Filed to `raw/4. Modern Times/`.)
 
 Last updated: 2026-06-13 (**John Keay, *China: A History*** (2009) — INGEST COMPLETE (single-pass spine). **Opens Phase D (China)** — the spine for the wiki's China gap, organized around the dynastic succession. Filled the worst gaps: created **[[china]]** (the civilizational anchor — cradle/core/periphery geography; the dynastic dynamic; the Mandate of Heaven), **[[shang-dynasty]]** (the first historical dynasty; oracle bones & the origins of Chinese writing), **[[qin-shi-huang]]** (the First Emperor — unification 221 BC, the Legalist standardizing state, the book-burning, the terracotta tomb; the contested historiography vs. Ashoka), **[[ming-dynasty]]** (Zhu Yuanzhang's Han restoration; the Yongle Forbidden City & Zheng He's treasure voyages), **[[qing-dynasty]]** (the Manchu conquest — Nurhaci's Banners, 1644, Kangxi/Qianlong's high Qing to 1912). Deepened **[[qin-dynasty]]** and **[[zhou-dynasty]]** (links into the spine). Resolves many dangling `[[ming-dynasty]]`/`[[qing-dynasty]]` links across the wiki. Theme (Keay): China's history is "of scale, not character" — dynasties "tolled the hours." Filed to `raw/4. Modern Times/`.)
@@ -506,12 +508,12 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 | Periods | 33 |
 | Events | 241 |
 | Processes | 153 |
-| Actors | 543 |
+| Actors | 544 |
 | Places | 122 |
 | Concepts | 291 |
 | Comparisons | 1 |
 | Controversies | 53 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 145 |
-| **Total** | **1582** |
+| Sources | 146 |
+| **Total** | **1584** |

@@ -9,7 +9,7 @@ affiliated_with: [the state and [[qin-dynasty|Qin dynasty]], Legalism, the chanc
 opposed_by: [the other Warring States (Chu, Wei, Zhao, Han, Yan, Qi), the Confucian scholars]
 key_events: ["the unification of China (221 BCE)", "the standardization of script, weights, coinage", "the book-burning (213 BCE)", "the building of the Great Wall & his tomb (the terracotta army)"]
 key_processes: [[[qin-dynasty]], the founding of the Chinese imperial system]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, person, classical-antiquity, china, east-asia]
 ---
@@ -67,6 +67,24 @@ Xianyang — the underground necropolis guarded by the **terracotta army** of th
 life-size figures. Obsessed with immortality, the emperor died in 210 BCE while touring his
 realm; the [[qin-dynasty|Qin dynasty]] collapsed within four years, swept away by rebellion and
 succeeded by the [[han-dynasty|Han]].
+
+## The primary source: Sima Qian's portrait
+
+The dramatic First Emperor known to history comes above all from
+**[[sima-qian|Sima Qian's]]** [[sima-qian-records-qin|*Records of the Grand Historian*]] (the
+*Shi ji*) — the principal primary source, whose "Basic Annals of the First Emperor" juxtaposes
+the monarch's grandiose self-celebrating stone **inscriptions** with "grim accounts of the
+cruelty, folly, and oppression" of his rule. Its memorable episodes shaped his legend: the
+scandal of his mother and **Lü Buwei** (the merchant-minister rumored to be his true father);
+his proclamation that, abolishing posthumous names, he and his heirs would reign "**First,
+Second … for 10,000 generations**"; his adoption of the "power of water" (black, the number six,
+severity and the law); his obsessive **search for the immortals and the herbs of everlasting
+life** (dispatching expeditions, touring to the sacred mountains); and the near-miss
+**assassination by Jing Ke**, sent by the prince of Yan, which (Sima Qian notes) "had it
+succeeded, might have changed the whole course of Chinese history." Sima Qian had thin sources —
+the First Emperor had burned the rival states' records — and his hostile portrait is, in part,
+an **indirect critique of his own master, Han Wudi**, whom he saw as a Legalist-style despot in
+Confucian dress.
 
 ## Counterfactual significance and historiography
 

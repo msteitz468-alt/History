@@ -9,7 +9,7 @@ affiliated_with: [Legalist statecraft]
 opposed_by: [the six rival Warring States (conquered), the [[xiongnu]], rebel armies]
 key_events: [unification of China 221 BCE, building of the Great Wall, conquest of the south 214 BCE]
 key_processes: [[[state-formation]], [[empire]], Legalism, [[silk-roads]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-10
 tags: [actor, dynasty, classical-antiquity, china, east-asia]
 ---
@@ -66,3 +66,9 @@ supplies a corrective. Its rise is the central East Asian case for **structural*
 The **[[legalism|Legalist]]** ideology that armed the Qin state is now represented by the ingested
 **[[han-feizi-watson|Han Feizi: Basic Writings]]** — the philosophy embraced by the First Emperor and
 Li Si.
+
+The **primary source** for the dynasty is now ingested as
+**[[sima-qian-records-qin|Sima Qian's *Records of the Grand Historian* (Qin chapters)]]** — the
+*Shi ji*, which traces Qin's "silkworm" expansion from a northwestern border fief to empire and
+supplies the dramatic, morally charged portrait of the [[qin-shi-huang|First Emperor]]. Its
+author **[[sima-qian|Sima Qian]]** is the founder of Chinese historiography.

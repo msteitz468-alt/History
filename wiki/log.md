@@ -2341,3 +2341,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 
 ## 2026-06-13 section | Spence, Search for Modern China | Section: Republic, revolution & the People's Republic (chs 12–28) | Pages created: 2 | Pages updated: 1
 ## 2026-06-13 ingest-complete | Jonathan Spence, The Search for Modern China | Total pages created: 5 | Total pages updated: 3 | Sections processed: 2
+
+## 2026-06-13 ingest | Sima Qian, Records of the Grand Historian: Qin Dynasty (Shi ji) | Classical Antiquity | china | Pages created: 1 | Pages updated: 2
