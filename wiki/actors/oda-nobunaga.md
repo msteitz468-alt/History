@@ -9,7 +9,7 @@ affiliated_with: [the Oda clan, Tokugawa Ieyasu (ally), the emperor (instrumenta
 opposed_by: [rival daimyo (Imagawa, Takeda, Mōri), the militant Buddhist sects (Tendai, Ishiyama Honganji)]
 key_events: ["the battle of Okehazama (1560)", "entry into Kyoto (1568)", "the destruction of Hieizan (1571)", "the battle of Nagashino (1575)"]
 key_processes: [[[azuchi-momoyama-period|the reunification of Japan]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, person, early-modern, japan, east-asia]
 ---
@@ -45,7 +45,14 @@ conquests, and expanded by force and innovation.
   the Takeda cavalry — a landmark in the [[military-revolution|gunpowder transformation]]
   of warfare.
 - **Administration.** Within his domains he built great stone **castles** (Azuchi),
-  standardized currency, abolished customs barriers, and promoted trade.
+  standardized currency, abolished customs barriers, and promoted trade. The
+  [[cambridge-history-japan-v4-early-modern|Cambridge History]] (Asao Naohiro) stresses the
+  **liberating** thrust of these measures: his **free-market, free-guild** edicts
+  (*rakuichi-rakuza*) and abolition of toll barriers "released society from the restrictions
+  that had fettered the daily lives of the medieval populace," dissolving the monopolistic
+  *za* of the [[medieval-japanese-commerce|medieval economy]] and the proprietary tolls of
+  the old order — clearing ground for the [[kokudaka-system|kokudaka]] settlement his
+  successors would impose.
 
 He was killed in 1582 when his general **Akechi Mitsuhide** turned on him at the Honnōji
 in Kyoto; [[toyotomi-hideyoshi|Hideyoshi]] avenged him and inherited his project.

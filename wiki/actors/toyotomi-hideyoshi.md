@@ -9,7 +9,7 @@ affiliated_with: [Oda Nobunaga (his lord), the imperial court (as kampaku), the 
 opposed_by: [rival daimyo (Shimazu, Hōjō), Ming China & Korea (his invasions)]
 key_events: ["the completion of reunification (1582–90)", "the sword hunt (1588)", "the land survey (1582–98)", "the invasions of Korea (1592, 1597)"]
 key_processes: [[[azuchi-momoyama-period|the reunification of Japan]], [[global-silver-trade]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, person, early-modern, japan, east-asia]
 ---
@@ -55,6 +55,23 @@ Two great measures fixed the early-modern social order:
   the Jesuits and had **26 Christians executed (1597)** after the San Felipe affair — early
   warning shots in the suppression that the Tokugawa would complete (see [[sakoku]]).
 
+## The institutional legacy (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v4-early-modern|Cambridge History]] (Hall, Asao, Wakita)
+upgrades Hideyoshi from colorful upstart to the **architect of the early-modern state**. His
+**Taikō cadastral survey** was no mere fiscal exercise: by standardizing measurement (the
+*tan–se–bu* and the Kyoto *masu*), recording a single registered cultivator per parcel, and
+assessing every holding in rice yield, it founded the **[[kokudaka-system|kokudaka system]]**
+that organized land, taxation, and military service for the next 250 years. Together with the
+sword hunt it accomplished ***hei-nō-bunri***, the legal separation of warrior and peasant.
+When his conquest was completed in **1591** he became the realm's **supreme proprietor** —
+all daimyo held their lands as fiefs granted back in return for allegiance — establishing the
+logic the [[tokugawa-ieyasu|Tokugawa]] would inherit as the **[[bakuhan-system|bakuhan
+system]]**. Hideyoshi also pioneered, within the unified realm, the **hostage system**
+(daimyo wives and children resident at the center) that Iemitsu would generalize as
+*sankin-kōtai*. His legitimation through the symbolism of the Kyoto court and the language of
+*tenka* and *kōgi* (Asao) set the template for later warrior rule.
+
 ## Counterfactual significance
 
 Hideyoshi **completed the unification and engineered the class structure** of early-modern
@@ -65,6 +82,7 @@ Sekigahara (1600). His Korean adventure stands as the great strategic folly of t
 ## Related
 
 - [[oda-nobunaga]] · [[tokugawa-ieyasu]] — the other two unifiers.
+- [[kokudaka-system]] — the land system his survey founded; [[bakuhan-system]] — the order it underlay.
 - [[samurai]] — the class his sword hunt defined; [[azuchi-momoyama-period]] — his era.
 - [[global-silver-trade]] — the silver economy of his Japan; [[sakoku]] — the Christian suppression he began.
 - [[japan]] · [[ming-dynasty|Ming China]] — realm and the target of his invasions.

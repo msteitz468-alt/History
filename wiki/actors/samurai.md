@@ -9,7 +9,7 @@ affiliated_with: [the warrior houses (Minamoto, Taira, Hōjō, Ashikaga, Tokugaw
 opposed_by: [the civil court aristocracy (displaced), rival warrior houses]
 key_events: ["the Gempei War", "the founding of the [[shogunate-bakufu|bakufu]]", "the Mongol invasions"]
 key_processes: [[[shogunate-bakufu]], [[feudalism]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [actor, movement, high-middle-ages, japan, east-asia]
 ---
@@ -64,7 +64,20 @@ elaboration (Cycle 3).
   land from both below and above.
 - **Tokugawa:** the samurai become a **bureaucratized, stipended hereditary estate**,
   separated from the land and gathered in castle-towns, increasingly administrators rather
-  than fighters. *(Cycle 3.)*
+  than fighters. The [[cambridge-history-japan-v4-early-modern|Cambridge History]] (Hall,
+  Wakita) traces the two linked transformations precisely. First, ***hei-nō-bunri*** — the
+  product of [[toyotomi-hideyoshi|Hideyoshi's]] [[kokudaka-system|Taikō land survey]] and
+  sword hunts — drew a hard legal line between the warrior, withdrawn into the daimyo's castle
+  town, and the disarmed peasant (*hyakushō*) in the village. Second, over the seventeenth
+  century the samurai were converted from **enfeoffed fief-holders** (*chigyō-tori*) who
+  exercised direct proprietary authority over the cultivators of their land into **salaried
+  stipendiaries** paid from the daimyo's granary — "the evolution from fief to stipend and
+  from personal to bureaucratic authority." The transition was uneven (frontier domains like
+  Satsuma, Aizu, and Sendai kept enfeoffed rural samurai, though often the "fief" was a
+  prestige fiction), but the **rice stipend became the mark of institutional maturity**. The
+  consequence was a large hereditary warrior class — "a heavy load of hereditary fighters and
+  administrators during the centuries of peace" — frozen in place as the ruling estate of the
+  **[[bakuhan-system|bakuhan]]** order.
 - **Meiji:** their privileges (stipends, the right to bear swords) **abolished** in the
   1870s as Japan built a modern conscript army. *(Cycle 4.)*
 
@@ -79,5 +92,6 @@ defined the age, and whose disestablishment marks the birth of modern Japan.
 - [[shogunate-bakufu]] — the government the samurai staffed and led.
 - [[feudalism]] — the comparative European institution.
 - [[shugo-daimyo]] · [[medieval-shoen]] — the offices and estates through which warrior land-power grew.
+- [[kokudaka-system]] · [[bakuhan-system]] — the survey that separated them from the land and the order that froze them as rulers.
 - [[minamoto-no-yoritomo]] · [[kamakura-period]] · [[muromachi-period]] — their rise and rule.
 - [[zen-buddhism]] — the spirituality of the warrior.

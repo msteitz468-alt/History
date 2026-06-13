@@ -5,7 +5,7 @@ date_range: "1568–1600 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the reunification of Japan under Nobunaga & Hideyoshi", "the gunpowder military revolution", "the breaking of militant Buddhism", "the sword hunt & the freezing of the class order", "the first European (Iberian) contact & Christianity", "grand castle-and-screen (Momoyama) art"]
 collection_coverage: moderate
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -53,6 +53,31 @@ painting** (the **Kanō school** — Eitoku — and Hasegawa Tōhaku) — a gran
 **secular** art for a confident new ruling class, alongside the refined **tea ceremony**
 (Sen no Rikyū). The era marks the decisive **secularization** of Japanese high culture.
 
+## Unification as institutional transformation (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v4-early-modern|Cambridge History]] (Hall's Introduction;
+Asao Naohiro, ch. 2; Wakita Osamu, ch. 3) recasts these decades as far more than a war of
+conquest: they were the **birth of the early-modern state**. The decisive instruments were
+institutional. [[toyotomi-hideyoshi|Hideyoshi's]] nationwide cadastral survey (the **Taikō
+kenchi**) and his **sword hunt (1588)** together accomplished ***hei-nō-bunri*** — the
+permanent separation of a disarmed, registered peasantry (*hyakushō*) in the villages from
+a [[samurai|samurai]] class drawn off into the daimyo's castle towns. The survey's principle
+of **"one cultivator per parcel"** abolished the overlapping-rights order of the medieval
+[[medieval-shoen|shōen]] and founded the **[[kokudaka-system|kokudaka system]]** of
+assessment in rice yield. By 1591, as supreme proprietor, Hideyoshi held all daimyo lands
+in principle and granted them back as fiefs in return for allegiance and quantified military
+service (*gun'yaku*) — the template the [[tokugawa-ieyasu|Tokugawa]] would inherit as the
+**[[bakuhan-system|bakuhan system]]**.
+
+Asao stresses that the unifiers built **legitimacy** as well as power: the concepts of
+*tenka* ("the realm") and *kōgi* (public authority dedicated to the people's good), backed by
+the symbolism of the Kyoto court, set the moral frame within which shogun and daimyo claimed
+their places. Asao also notes the era's paradoxically **liberating** side — Nobunaga's
+free-market (*rakuichi-rakuza*) measures "released society from the restrictions that had
+fettered the daily lives of the medieval populace." The volume's editors deliberately treat
+Azuchi-Momoyama not as a discrete epoch but as the **"preamble" to the longer Edo period** —
+the Tokugawa polity is unintelligible without the Oda–Toyotomi institutional foundation.
+
 ## Key Actors
 
 [[oda-nobunaga]] · [[toyotomi-hideyoshi]] · [[tokugawa-ieyasu]] — the three unifiers.
@@ -77,8 +102,9 @@ exaggerating Christianity's role, which was real but regionally confined.
 
 ## Collection Coverage Note
 
-Covered by the Mason & Caiger spine; to be deepened by the Cambridge History of Japan
-Vol. 4 (Early Modern).
+Covered by the Mason & Caiger spine and deepened by the
+[[cambridge-history-japan-v4-early-modern|Cambridge History of Japan Vol. 4]] (Hall, Asao,
+and Wakita on unification as the institutional birth of the early-modern state).
 
 ## Related
 

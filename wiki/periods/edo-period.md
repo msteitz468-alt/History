@@ -5,7 +5,7 @@ date_range: "1603–1868 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the Tokugawa peace (pax Tokugawa)", "the baku-han system", "sakoku (the closed country)", "the four-class order & the bureaucratization of the samurai", "monetization & the commercial revolution", "the rise of the merchants & chōnin urban culture", "the rural landlord-entrepreneur class"]
 collection_coverage: moderate
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -62,6 +62,26 @@ townsman culture flourished beneath the rigid official order.
   is treated at **[[tokugawa-intellectual-life]]**; together with the agrarian/fiscal crisis,
   these currents fed the [[meiji-restoration-1868|Meiji Restoration]].
 
+## The bakuhan order in depth (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v4-early-modern|Cambridge History]] (Hall, ch. 4) makes the
+**[[bakuhan-system]]** the master concept of the period: not the bakufu alone but a **dual
+structure** in which the shogunate ruled through a coalition of largely autonomous daimyo
+**[[shugo-daimyo|han]]** that held three-quarters of the land base — "the shogun's
+government was essentially an expanded version of *han* government." Stability rested on a
+deliberate **balance of power** among the classes of daimyo (the collateral *shinpan*, the
+office-holding hereditary *fudai*, and the marginalized *tozama*) and on three control
+mechanisms: the **Buke shohatto** code, the shogun's right of **attainder and transfer**
+(under the first five shoguns ≈ half the taxable land base changed hands), and above all
+**sankin-kōtai** — alternate attendance with families held hostage in Edo, which Hall calls
+"the most effective mechanism developed by the Tokugawa shoguns." Underpinning everything
+was the **[[kokudaka-system]]**, the assessment of land in rice yield that quantified
+taxation and military service and drove the conversion of [[samurai]] from fief-holders into
+salaried administrators. Harold Bolitho's chapter on the **han** (ch. 5) restores the domain
+to the center of Japanese life: for the common people the *han* — not the distant shogun or
+emperor — was "the only form of government they knew," providing their roads, laws, order,
+and famine relief.
+
 ## Key Actors
 
 - The **Tokugawa shoguns** ([[tokugawa-ieyasu|Ieyasu]], Hidetada, Iemitsu, the reformer
@@ -93,12 +113,15 @@ modernization — its great legacy to modern Japan.
 
 ## Collection Coverage Note
 
-Covered by the Mason & Caiger spine; to be deepened by the Cambridge History of Japan
-Vol. 4 (Early Modern) and *Early Modern Japan in Asia and the World*.
+Covered by the Mason & Caiger spine and deepened by the
+[[cambridge-history-japan-v4-early-modern|Cambridge History of Japan Vol. 4]] (Hall on the
+bakuhan system; Bolitho on the han); to be further deepened by *Early Modern Japan in Asia
+and the World*.
 
 ## Related
 
 - [[tokugawa-ieyasu]] · [[shogunate-bakufu]] — founder and institution.
+- [[bakuhan-system]] · [[kokudaka-system]] — the political and land-assessment structures.
 - [[sakoku]] — the closed-country policy.
 - [[samurai]] — the ruling class, now bureaucratized.
 - [[azuchi-momoyama-period]] · [[meiji-restoration-1868|the Meiji Restoration]] — before and after.

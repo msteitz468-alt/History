@@ -9,7 +9,7 @@ affiliated_with: [the Tokugawa house, Nobunaga & Hideyoshi (allies/overlords), t
 opposed_by: [Ishida Mitsunari & the "western" daimyo, the Toyotomi loyalists]
 key_events: ["the battle of Sekigahara (1600)", "becoming shōgun (1603)", "the founding of the Edo bakufu", "the siege of Osaka castle (1615)"]
 key_processes: [[[shogunate-bakufu]], [[edo-period]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, person, early-modern, japan, east-asia]
 ---
@@ -43,6 +43,23 @@ the foundations of the **[[shogunate-bakufu|baku-han system]]** that his son and
 peace]]. Frugal, cautious, and famously patient, he was lucky in his long life and capable
 heirs; he had himself **deified** at Nikkō as a protective spirit.
 
+## The bakuhan founder (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v4-early-modern|Cambridge History]] (Hall, ch. 4) stresses how
+much of the [[bakuhan-system|bakuhan order]] Ieyasu **carried over from his own experience as
+a daimyo** in Mikawa: "many features of Tokugawa administration, including its policy of
+proprietary authority, derived from precedents established when Ieyasu himself was still a
+daimyo." Rather than abolish the daimyo and rule through a private officer corps, he and his
+first two successors built a **dual structure** — the shogun's quarter of the land (*tenryō*)
+plus a controlled coalition of *han* holding the rest — and a graduated **balance of power**
+among collateral (*shinpan*), hereditary (*fudai*), and outside (*tozama*) lords. As shogun
+he claimed the office's twin meaning: not only the **rights** of the emperor's military
+delegate but the **responsibility** to govern for the realm (*tenka*), most visibly the
+exclusive conduct of foreign relations — a responsibility his line would invoke in closing
+the country (see [[sakoku]]). His reign converted the personal supremacy of the unifiers into
+a transmissible institution resting on the **[[kokudaka-system|kokudaka]]** assessment of
+land and service.
+
 ## Counterfactual significance
 
 Where Hideyoshi failed to found a dynasty, Ieyasu **succeeded completely** — the central
@@ -54,6 +71,6 @@ longest peace in Japanese history.
 ## Related
 
 - [[oda-nobunaga]] · [[toyotomi-hideyoshi]] — the other two unifiers.
-- [[shogunate-bakufu]] · [[edo-period]] — the institution and era he founded.
+- [[shogunate-bakufu]] · [[bakuhan-system]] · [[edo-period]] — the institution, order, and era he founded.
 - [[sakoku]] — the closed-country policy his line completed.
 - [[japan]] — the realm he pacified.

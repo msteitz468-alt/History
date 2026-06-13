@@ -5,7 +5,7 @@ origin: the military government created by Minamoto no Yoritomo at Kamakura (118
 applies_to_periods: [Kamakura, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century]
 applies_to_regions: [japan, east-asia]
 contested: no
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -61,8 +61,9 @@ captured:
   trade), with strong [[shugo-daimyo|shugo]] *advancing* rather than threatening bakufu rule
   so long as shogunal primacy held. It shrank to Kyoto after the Ōnin War (1467–77) and
   disintegrated in the *sengoku* age. See [[muromachi-period]] and [[shugo-daimyo]].
-- **Tokugawa bakufu (1603–1868)** — the mature, stable shogunate of the early-modern peace
-  (the *baku-han* system). *(Cycle 3.)*
+- **Tokugawa bakufu (1603–1868)** — the mature, stable shogunate of the early-modern peace,
+  the **[[bakuhan-system|bakuhan]]** order in which the shogunate ruled the country through a
+  controlled coalition of autonomous daimyo domains (*han*). See below.
 
 Thus power was often **doubly delegated** — emperor → shogun → regent — yet the
 **emperor was never deposed**, only sidelined: the throne's [[shinto|sacred legitimacy]]
@@ -86,6 +87,22 @@ regents' private vassals (*miuchibito*) eclipsing the gokenin — a concentratio
 the [[mongol-invasions-of-japan-1274-1281|Mongol-war]] fiscal crisis, helped bring the
 Kamakura bakufu down.
 
+## The Tokugawa bakufu and the bakuhan system (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v4-early-modern|Cambridge History]] (John W. Hall, ch. 4)
+defines the mature early-modern shogunate as one half of the **[[bakuhan-system|bakuhan
+system]]**: the bakufu directly held only ~a quarter of the land (the *tenryō*) and ruled
+the rest **through** ~260 daimyo *han*, "the shogun's government … essentially an expanded
+version of *han* government." Where Mass's Kamakura bakufu was a court of law, the Tokugawa
+bakufu was a machine of **graduated control and balance** — the *shinpan*/*fudai*/*tozama*
+ranking of daimyo, the **Buke shohatto** code, the power of attainder and transfer, and
+**sankin-kōtai** (alternate attendance with hostages in Edo) — all resting on the
+**[[kokudaka-system|kokudaka]]** assessment of land and military service. Hall stresses that
+the regime converted **military into civil government**, claiming legitimacy not from force
+alone but from proximity to the *tennō* and the status of *kōgi* (public authority for the
+people's good) — and that the shogun's distinctive prerogative was the **exclusive conduct of
+foreign relations** ([[sakoku]]).
+
 ## Significance
 
 The bakufu institutionalized **warrior rule** as the normal government of Japan for ~700
@@ -100,5 +117,6 @@ hinge into modern Japan (Cycle 4).
 - [[kamakura-period]] · [[muromachi-period]] — its first two phases.
 - [[medieval-shoen]] — the estate disputes its courts existed to settle.
 - [[shugo-daimyo]] — the provincial governors of the Kamakura/Muromachi bakufu.
+- [[bakuhan-system]] · [[kokudaka-system]] — the mature Tokugawa structure and its land backbone.
 - [[shinto]] — the sacred throne in whose name it ruled.
 - [[japan]] — the realm it governed.
