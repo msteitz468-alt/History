@@ -8,7 +8,7 @@ region: [mesoamerica, andes, caribbean, atlantic-world, southern-cone]
 process_type: [political, economic, demographic, cultural]
 driven_by: [[[spanish-conquest-of-mexico-1519]], [[spanish-conquest-of-peru-1532]], [[columbian-exchange-1492]], Iberian overseas expansion, [[global-silver-trade|silver]], [[atlantic-slave-trade|the Atlantic slave trade]]]
 produces: [[[latin-america-modern]], the [[casta-system|sociedad de castas]], a silver-based world economy, a vast Catholic mission field, [[spanish-american-independence|the independent republics]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [process, early-modern, mesoamerica, andes, atlantic-world]
 ---
@@ -127,6 +127,17 @@ study of the demographic collapse (see [[pre-columbian-american-population]]),
 the history of slavery and the *castas*, and gender history. The interpretive
 charge of the whole field is framed by the [[black-legend|Black Legend]] debate
 over Spanish cruelty, propaganda, and the ethics of conquest.
+
+`[CONTRADICTION]` — **the colony and underdevelopment.** Burkholder & Johnson present
+the colonial order as a **complex, negotiated, internally varied** formation and
+resist reducing it to a single act of plunder. Eduardo Galeano's
+[[galeano-open-veins|*Open Veins of Latin America*]] (1971) reads the *entire* three
+centuries (and beyond) as one continuous **extraction** that directly *caused* Latin
+American poverty — the [[dependency-theory|dependency]] thesis that "our wealth has
+always generated our poverty by nourishing the prosperity of others." The two poles
+frame the standing controversy over the
+[[causes-of-latin-american-underdevelopment|causes of Latin American underdevelopment]]
+(dependency/extraction vs. institutionalist vs. measured-historiographical accounts).
 
 ## Colonial society (the institutional and social pages)
 

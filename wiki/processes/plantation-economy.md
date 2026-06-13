@@ -8,8 +8,8 @@ region: [atlantic-world, caribbean, andes, west-africa, eastern-north-america]
 process_type: economic
 driven_by: [European demand for sugar and tropical staples, the availability of enslaved African labor, capital from European merchant credit, the search for export profit]
 produces: [the mature Atlantic slave system, gang labor, racialized slave societies, enormous planter wealth, the consumer revolution in Europe]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [process, early-modern, atlantic-world, caribbean]
 ---
 
@@ -92,15 +92,33 @@ twentieth centuries (Natal, Queensland, the US Cotton South) even as slavery was
 abolished (British 1834; US 1865; Brazil 1888) — and its planter/slave social
 types and racial legacies shaped post-emancipation societies to the present.
 
+## "King Sugar" and the monoculture critique (Galeano)
+
+Eduardo Galeano's [[galeano-open-veins|*Open Veins of Latin America*]] (1971) gives the
+plantation its sharpest [[dependency-theory|dependentista]] reading: the
+plantation→***latifundio*** is "a sieve for the draining-off of natural wealth."
+"**King Sugar**" and the other export monocultures (cacao, cotton, coffee, rubber,
+henequen, quebracho) each ran a **boom-and-bust cycle** that ravaged soil and society
+and then collapsed into "a culture of poverty" — the Brazilian Northeast (once the
+richest, now the poorest region), Barbados, Haiti, monocultural Cuba. His law: "**the
+more a product is desired by the world market, the greater the misery it brings to the
+Latin American peoples whose sacrifice creates it.**" Galeano also stresses (with Marx)
+that the international division of labor "was not organized by the Holy Ghost but by
+men" — the islands were *condemned* to sugar. This causal claim — that monoculture
+*produced* underdevelopment — is contested at
+[[causes-of-latin-american-underdevelopment]].
+
 ## Historiography
 
 Debate continues over the plantation's net historical contribution: David Eltis
 attributes it largely to "Europe's sweet tooth," Walter Rodney to African
 underdevelopment; Russell Menard insists the Barbadian "sugar revolution" was
 evolutionary, not revolutionary. Burnard defends the plantation as a "vital early
-modern institution" whose impact — for ill more than good — was decisive.
+modern institution" whose impact — for ill more than good — was decisive. Galeano's
+monoculture-as-curse thesis sits at the polemical, dependency end of this spectrum.
 
 ## Related
 
 [[atlantic-slave-trade]] · [[columbian-exchange-1492]] · [[early-modern-migrations]] ·
-[[slavery]] · [[great-divergence]] · [[early-modern]] · [[military-revolution]]
+[[slavery]] · [[great-divergence]] · [[early-modern]] · [[military-revolution]] ·
+[[dependency-theory]] · [[galeano-open-veins]] · [[causes-of-latin-american-underdevelopment]]

@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-13 (**Open Veins of Latin America (Eduardo Galeano, 1971)** — INGEST COMPLETE (standard single-pass). The **dependency-theory counterpoint** closing Phase A's Latin America cluster, read deliberately **against** Burkholder & Johnson. A committed-standpoint *dependentista* polemic — the popular manifesto of the view that Latin America's poverty is the *product* of five centuries of extraction. Created **[[galeano-open-veins]]** (source), **[[dependency-theory]]** (Prebisch/ECLA → Frank/Cardoso; core-periphery & unequal exchange; its institutionalist & East-Asian critiques), and the controversy **[[causes-of-latin-american-underdevelopment]]** (dependency vs. institutionalist vs. measured vs. culturalist — registering the **[CONTRADICTION]** with Burkholder). Enriched **[[colonial-latin-america]]**, **[[potosi-and-colonial-silver]]** ("Spain owned the cow, others drank the milk"), **[[plantation-economy]]** ("King Sugar" monoculture-as-curse), **[[latin-america-modern]]**. **Phase A (Americas) — conquest + colonial + dependency arc now COMPLETE; optional remaining = Guamán Poma (Andean-voice primary).**)
+
 Last updated: 2026-06-13 (**Colonial Latin America (Burkholder & Johnson, 10th ed., 2019)** — LARGE-VOLUME **INGEST COMPLETE** (4 cycles + synthesis). The Americas gap's systematic **colonial backbone** (c. 1492–1825), bridging the pre-Columbian empires and modern Latin America. Created 13: the anchor **[[colonial-latin-america]]**; the conquest layer **[[spanish-conquest-of-peru-1532]]**, **[[pizarro-francisco]]**, **[[las-casas-bartolome]]**, **[[black-legend]]**; the state/economy layer **[[colonial-spanish-american-administration]]**, **[[encomienda]]**, **[[potosi-and-colonial-silver]]**, **[[spiritual-conquest-and-colonial-church]]**; the society layer **[[casta-system]]**, **[[hacienda]]**; and the reform/independence layer **[[bourbon-reforms]]**, **[[spanish-american-independence]]**. Enriched **[[inca-empire]]**, **[[columbian-exchange-1492]]**, **[[spanish-conquest-of-mexico-1519]]**, **[[mita-and-andean-reciprocity]]**, **[[global-silver-trade]]**, **[[virgin-soil-epidemics]]**, **[[atlantic-slave-trade]]**, **[[latin-america-modern]]**. Argument: the colonial order as **process not plan** — coercion & catastrophe, a race-and-wealth caste society, a silver-and-slavery economy, ending when Bourbon-reform Creole alienation met the 1808 crisis, with colonial structures surviving into the republics. Filed to `raw/4. Modern Times/`. **Phase A (Americas): conquest + colonial spine complete; remaining = Open Veins (Galeano).**)
 
 Last updated: 2026-06-12 (**Popol Vuh: The Mayan Book of the Dawn of Life** (trans. Dennis Tedlock, 1985) — INGEST COMPLETE (primary source, single-pass). The **Maya-voice** primary — the K'iche' creation epic, cosmological counterpart to the conquest narratives. Created **[[popol-vuh]]** (the creation by Heart of Sky & the Plumed Serpent; the failed mud/wood humans; the Hero Twins Hunahpu & Xbalanque and their defeat of Xibalba; humans made of **maize**; the dual cosmogony-plus-K'iche'-dynastic-charter; preservation under conquest) and the source page **[[tedlock-popol-vuh]]**; enriched **[[maya-civilization]]** (the religious/mythological dimension from the inside; the Hero Twins attested on Classic vases → deep continuity). Filed to `raw/2. Ancient & Classical Civilizations/`. **Phase A remaining: Colonial Latin America (Burkholder & Johnson), Open Veins (Galeano).**)
@@ -463,7 +465,7 @@ creation order with a one-line description.
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **Colonial Latin America (Burkholder & Johnson) — INGEST COMPLETE**
+Counts reflect actual files on disk as of the **Galeano, *Open Veins of Latin America*** ingest
 (recounted from disk — the prior table had drifted well below the true totals). Recent volumes'
 detailed new/updated pages are catalogued in their source pages and `log.md`.
 
@@ -474,10 +476,10 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 | Processes | 140 |
 | Actors | 523 |
 | Places | 119 |
-| Concepts | 267 |
+| Concepts | 268 |
 | Comparisons | 1 |
-| Controversies | 49 |
+| Controversies | 50 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 128 |
-| **Total** | **1478** |
+| Sources | 129 |
+| **Total** | **1481** |

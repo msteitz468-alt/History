@@ -7,7 +7,7 @@ period_active: [Age of Expansion, Long 19th Century, World Wars Era, Cold War, C
 controlled_by: [Spanish and Portuguese empires, then independent nation states under varying elite, caudillo, populist, and military regimes]
 events_here: [the wars of independence (1808–1824), the Haitian Revolution, the Spanish–American War (1898), the Mexican Revolution (1910–1917), the Great Depression]
 processes_here: [[[nationalism]], the liberal export economy, import-substitution [[industrialization]], populism, US informal empire]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [place, latin-america, long-19th-century]
 ---
@@ -85,7 +85,12 @@ Charlip writes against both a purely external ("foreign domination") and a purel
 internal account, stressing the **two-way** negotiation of global and domestic forces
 and Latin American agency. The framework resonates with dependency theory (the
 unequal exchange between manufactured-goods and primary-products exporters) while
-emphasizing Latin Americans as world-historical actors.
+emphasizing Latin Americans as world-historical actors. The pure-external pole is
+stated most forcefully by Eduardo Galeano's [[galeano-open-veins|*Open Veins of Latin
+America*]] (1971), the popular manifesto of [[dependency-theory|dependency]]: five
+centuries of "open veins" draining the region's wealth to Europe and the US. Charlip's
+two-way model is precisely a corrective to that mono-causal externalism — the spectrum
+mapped at [[causes-of-latin-american-underdevelopment]].
 
 ## Collection Coverage Note
 
@@ -103,4 +108,5 @@ colony → independence → modern era.
 
 [[nationalism]] · [[imperialism]] · [[united-states]] · [[industrialization]] ·
 [[atlantic-revolutions]] · [[columbian-exchange-1492]] · [[long-19th-century]] ·
-[[cold-war]] · [[colonial-latin-america]] · [[spanish-american-independence]] · [[bourbon-reforms]]
+[[cold-war]] · [[colonial-latin-america]] · [[spanish-american-independence]] · [[bourbon-reforms]] ·
+[[dependency-theory]] · [[galeano-open-veins]] · [[causes-of-latin-american-underdevelopment]]

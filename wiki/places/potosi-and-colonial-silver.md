@@ -7,7 +7,7 @@ period_active: [Early Modern, Age of Expansion]
 controlled_by: ["[[inca-empire|the Inca]] (region)", "the Spanish Crown (Viceroyalty of Peru)"]
 events_here: [the 1545 silver strike, the introduction of mercury amalgamation (1571), Toledo's reorganization of the mita (1572)]
 processes_here: [[[global-silver-trade]], [[mita-and-andean-reciprocity]], [[encomienda]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [place, andes, early-modern]
 ---
@@ -73,6 +73,22 @@ workers; thirty-plus dams powered seventy mills by the early seventeenth century
 "*Vale un Potosí*" ("worth a Potosí") entered Spanish as a synonym for fabulous
 riches; the mountain remains, for historians, the emblem of the silver economy's
 double character — global wealth built on Andean death.
+
+## Potosí as the emblem of "the open veins" (Galeano)
+
+For Eduardo Galeano's [[galeano-open-veins|*Open Veins of Latin America*]] (1971),
+Potosí is **the** symbol of the [[dependency-theory|dependency]] thesis: the richest
+place on earth became one of the poorest, "a desolate warren of deep, empty tunnels."
+His epigram — **"Spain owned the cow, others drank the milk"** — captures the drain:
+the Crown, perpetually mortgaged to German, Genoese, and Flemish bankers (the
+Fuggers, Welsers), passed the silver straight through to finance European capitalism
+(Marx's *primitive accumulation*), while Spain deindustrialized and the Andes were
+bled. By a late-seventeenth-century reckoning Spain controlled barely ~5% of the
+trade with "its own" colonies. Galeano's reading — that Potosí's wealth *caused*
+Andean poverty — is the extraction pole of the
+[[causes-of-latin-american-underdevelopment|underdevelopment controversy]], to be set
+against the more measured institutional account in
+[[burkholder-johnson-colonial-latin-america|Burkholder & Johnson]].
 
 ## Related
 
