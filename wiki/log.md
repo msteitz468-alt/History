@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 section | GHA Vol. II (Ancient Civilizations of Africa) | Section: Nubia and Kush (chs. 8–12) | Pages created: 1 | Pages updated: 1 | (christian-nubia; enriched kush-meroe)
+
 ## 2026-06-12 section | GHA Vol. II (Ancient Civilizations of Africa) | Section: Egypt under foreign rule (chs. 6–7) | Pages created: 0 | Pages updated: 2 | (roman-egypt, ptolemaic-egypt — African-context notes)
 
 ## 2026-06-12 section | GHA Vol. II (Ancient Civilizations of Africa) | Section: Egypt as an African civilization (chs. 1–5) | Pages created: 1 | Pages updated: 1 | (controversy: peopling-of-ancient-egypt; enriched old-kingdom-egypt)
