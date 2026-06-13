@@ -2308,3 +2308,6 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 section | The Cambridge History of Japan, Vol. 6 (Twentieth Century) | Section: External relations — empire, continental expansion, the Pacific War (Part II, chs 5–7) | Pages created: 2 | Pages updated: 1
 
 ## 2026-06-13 section | The Cambridge History of Japan, Vol. 6 (Twentieth Century) | Section: Economic development — industrialization, depression/war, the miracle (Part III, chs 8–10) | Pages created: 1 | Pages updated: 1
+
+## 2026-06-13 section | The Cambridge History of Japan, Vol. 6 (Twentieth Century) | Section: Social & intellectual change (Part IV, chs 11–14) | Pages created: 1 | Pages updated: 1
+## 2026-06-13 ingest-complete | The Cambridge History of Japan, Vol. 6 (The Twentieth Century, 1900–1974) | Total pages created: 6 | Total pages updated: 5 | Sections processed: 4

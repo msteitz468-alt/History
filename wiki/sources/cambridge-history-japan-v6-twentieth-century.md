@@ -22,8 +22,8 @@ reliability_notes: >
   volume's own part divisions). Emphasis: **build out the 20th-century Japan spine** (Taishō
   democracy, militarism, the empire, the Occupation, the economic miracle, intellectual
   revolt) and deepen the existing imperial/war pages.
-pages_created: 0
-pages_updated: 0
+pages_created: 6
+pages_updated: 5
 ingested: 2026-06-13
 tags: [source]
 ---
@@ -54,8 +54,47 @@ through the tension of **change vs. continuity** across the great 1945 divide.
 | 1. Domestic politics: party government → militarism → the postwar order ✅ | Intro + Part I (chs 1–3: party cabinets 1898–1932; politics & mobilization 1931–45; postwar politics 1945–73) | Long 19th Century, World Wars Era, Cold War | **Created** [[taisho-period]] (Taishō democracy & party cabinets; the constitution's ambiguity — Mitani) and [[japanese-militarism]] (the 1930s collapse of party rule into a military-bureaucratic state — Berger; postwar stabilization → LDP — Fukui). **Enriched** [[meiji-period]] (the constitution interpreted for party rule, re-interpreted for militarism), [[pacific-war-1941-1945]] (home-front mobilization, the IRAA) |
 | 2. External relations: empire, continental expansion, the Pacific War ✅ | Part II (chs 5–7: the colonial empire 1895–1945; continental expansion 1905–41; the Pacific War) | Long 19th Century, World Wars Era | **Created** [[japanese-colonial-empire]] (Taiwan/Korea/Karafuto/Kwantung/Nan'yō — the only non-Western modern empire; development & exploitation — Peattie) and [[manchurian-incident-1931]] (the Kwantung Army's *fait accompli* — Hata). **Enriched** [[japanese-imperialism]] (Peattie's anomaly + Hata's *gekokujō*); the Pacific War (Coox) was deepened in Cycle 1 |
 | 3. Economic development: industrialization → depression/war → the miracle ✅ | Part III (chs 8–10: industrialization 1885–1920; depression, recovery & war 1920–45; the postwar economy 1945–73) | Long 19th Century, World Wars Era, Cold War | **Created** [[japanese-economic-miracle]] (postwar high growth & the Occupation economic reforms — land/zaibatsu/labor; the enterprise system & dual structure — Kosai, with Crawcour/Nakamura on the prewar base). **Enriched** [[industrialization]] (the 20th-c Japanese arc — "interrupted but not broken"). *(The Occupation itself is already covered on [[pacific-war-1941-1945]]; its economic reforms folded into the miracle page rather than duplicated.)* |
-| 4. Social & intellectual change + synthesis | Part IV (chs 11–14: rural society 1900–50; labor & industrial relations; socialism/liberalism/Marxism; the revolt against the West) | World Wars Era, Cold War | **Create** [[japanese-revolt-against-the-west]] (concept — restorationism, culturalism, the "overcoming modernity" debate — Najita & Harootunian). **Enrich** [[tokugawa-intellectual-life]] or [[japanese-imperialism]] (the intellectual roots of expansion), [[contemporary]] (postwar society). Synthesis pass + Volume Synthesis Note. |
+| 4. Social & intellectual change + synthesis ✅ | Part IV (chs 11–14: rural society 1900–50; labor & industrial relations; socialism/liberalism/Marxism; the revolt against the West) | World Wars Era, Cold War | **Created** [[japanese-revolt-against-the-west]] (restorationism, Pan-Asianism, cultural particularism, the 1942 "overcoming modernity" debate — Najita & Harootunian). **Enriched** [[tokugawa-intellectual-life]] (the *kokugaku*/*kokutai* legacy's 20th-c afterlife). Synthesis complete. |
 
 (Section boundaries follow the volume's four explicit Parts, as the Large-Volume Protocol
 prescribes for Cambridge volumes; emphasis throughout is **building out the 20th-century Japan
 spine** with discrete-topic creations plus deepening of the imperial/war pages.)
+
+## Volume Synthesis Note
+
+CHJ Vol. 6 **completed the Cambridge History of Japan backbone** in the wiki, building out the
+previously thin twentieth-century coverage with six new pages ([[taisho-period]],
+[[japanese-militarism]], [[japanese-colonial-empire]], [[manchurian-incident-1931]],
+[[japanese-economic-miracle]], [[japanese-revolt-against-the-west]]) and deepening five
+existing ones. Its organizing frame is **Peter Duus's three trajectories** across a century he
+dates from the 1895 [[first-sino-japanese-war-1894-1895|Sino-Japanese War]] to the 1972–73
+shocks: politics **"from instability to stability,"** external relations **"from autonomy to
+dependence,"** and the economy **"from success to success"** — all read through the tension of
+**change vs. continuity** across the great 1945 divide ("Imperial Japan" vs. "Japan
+Incorporated").
+
+Politically, the arc runs from the **[[taisho-period|Taishō-democratic]] party cabinets** —
+which Mitani shows were an *interpretation* of the ambiguous [[meiji-constitution-1889|Meiji
+constitution]] rather than a change to it — through the **[[japanese-militarism|collapse into
+militarism]]** in the 1930s (a *re-interpretation* of the same constitution, exploiting the
+independent military command) to postwar **stabilization** under the LDP. Diplomatically, the
+**[[japanese-colonial-empire|formal empire]]** (Peattie's "only non-Western modern empire")
+gave way to the uncontrolled **[[manchurian-incident-1931|continental expansion]]** (Hata's
+*gekokujō*) that, with [[japanese-imperialism|imperial ideology]], led to the
+[[pacific-war-1941-1945|Pacific War]] and total defeat — then to dependence within the American
+Cold War order. Economically, the volume insists on **continuity**: modern growth from the
+1880s, the heavy-industry build-out of the 1930s war economy, and the postwar
+**[[japanese-economic-miracle|miracle]]** form one arc "interrupted but not broken." And
+intellectually, Najita & Harootunian's **[[japanese-revolt-against-the-west|revolt against the
+West]]** traces the dialectical counterpart to [[meiji-modernization|*bunmei kaika*]] — the
+critique of imported modernity that, in its restorationist and particularist forms, fed
+militarism and culminated in the 1942 "overcoming modernity" debate.
+
+Where it touches the rest of the wiki it closes loops opened by the earlier volumes: it carries
+[[meiji-period|Meiji's]] constitutional ambiguity and imperial ambition to their 20th-century
+conclusions, completes the [[industrialization|industrialization]] story, and extends the
+[[tokugawa-intellectual-life|nativist intellectual]] tradition into the modern "revolt against
+the West." With Vols 1, 3, 4, 5, and 6 — plus Mason & Caiger, Sansom, and *Genji* — the wiki's
+**Japan coverage is now authoritatively deep from prehistory to 1973**, the deepest non-Western
+national history in the collection. Remaining for Phase B: *Early Modern Japan in Asia and the
+World* (New CHJ 2), a thematic complement rather than a backbone volume.

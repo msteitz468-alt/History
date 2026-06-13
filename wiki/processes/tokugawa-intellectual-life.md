@@ -8,7 +8,7 @@ region: [japan, east-asia]
 process_type: [ideological, cultural]
 driven_by: [the Tokugawa search for a stabilizing orthodoxy, the peace and literacy of the Edo order, sakoku and the Deshima window, economic and social crisis]
 produces: [Neo-Confucian orthodoxy, the rival Confucian schools, kokugaku (National Learning), rangaku (Dutch learning), the intellectual ferment behind the Meiji Restoration]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-13
 tags: [process, early-modern, japan, east-asia]
 ---
@@ -121,6 +121,16 @@ learning onto a Confucian moral core, the seed of the later Meiji slogan *wakon 
 of the late Tokugawa, by relocating ultimate authority in the **emperor and the *kokutai***,
 supplied the ideology that **political centralization** would harness after 1868.
 
+This nativist legacy had a long twentieth-century afterlife. The
+[[cambridge-history-japan-v6-twentieth-century|Cambridge History Vol. 6]] (Najita &
+Harootunian, ch. 14) traces how the *kokugaku*/*kokutai* inheritance — the assertion of a
+unique Japanese spiritual essence against universalist Western categories — resurfaced in the
+twentieth-century **[[japanese-revolt-against-the-west|revolt against the West]]**: the
+restorationist nationalism of Kita Ikki and Ōkawa Shūmei, "cultural particularism," and the
+1942 **"overcoming modernity"** debate, in which the *bunmei kaika* Westernization that
+Tokugawa thought had helped enable was now repudiated in the name of "the blood of the
+Japanese."
+
 ## Interaction and End Conditions
 
 Sansom's synthesis: "the decline of orthodox Confucianism, the revival of national history,
@@ -138,4 +148,5 @@ transformation.
 - [[meiji-restoration-1868]] — the upheaval these currents helped produce.
 - [[genroku-culture]] · [[chonin-culture]] — the parallel townsman cultural flowering and society.
 - [[neo-confucianism]] — the imported orthodoxy and its Japanese career.
+- [[japanese-revolt-against-the-west]] — the 20th-c afterlife of the nativist/particularist current.
 - [[shinto]] · [[samurai]] — the nativist revival and the Confucian-samurai ethic; [[japan]].
