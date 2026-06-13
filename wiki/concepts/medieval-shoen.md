@@ -87,15 +87,30 @@ independent warrior lines, and (combined with the cash economy and the
 [[mongol-invasions-of-japan-1274-1281|Mongol-war]] costs) impoverished many lesser
 **gokenin**, helping erode the Kamakura order.
 
-## The long dissolution
+## The long dissolution (Nagahara)
 
-Across the [[muromachi-period|Muromachi period]] the warrior conquest of the shōen
-accelerated: jitō and provincial men used shitaji chūbun and ukesho to absorb proprietary
-income, while the rising **[[shugo-daimyo|shugo]]** taxed and parcelled estates from above.
-By the fifteenth century the capital proprietors' control was largely hollow, and in the
-*sengoku* age the shōen system gave way to the consolidated territorial domains of the
-warring **daimyo** — the institutional bridge from the medieval estate to the early-modern
-*han*.
+Nagahara Keiji's analysis (the metamorphosis of *shōen into fief*) identifies **three
+pivotal causes** of the system's demise across the [[muromachi-period|Muromachi period]] —
+all expressions of a single process begun in Kamakura, the decline of the central
+proprietor as the warrior class rose:
+
+1. **The jitō from below.** [[medieval-shoen|Jitō]] used *wayo*, *ukesho*, and *shitaji
+   chūbun* to usurp proprietary rights until, by the fifteenth century, they had become
+   **kokujin-ryōshu** (local overlords) holding contiguous, self-standing power bases.
+2. **The shugo from above.** The Muromachi **[[shugo-daimyo|shugo]]**, granted new
+   land-dispute authority and the right to levy *hanzei* (half the proprietary dues) and
+   *tansen*, absorbed estate income to build vassal organizations — the **shugo-domain
+   system**.
+3. **Change at the village level.** Self-governing peasant communities (***sō***, the
+   ancestors of Tokugawa villages) gained autonomy, stripping proprietors of rights even
+   over crimes committed locally; large **peasant leagues (*ikki*)** struck directly at the
+   estate — the rising of **1428** disrupted shōen tax collection, and that of **1441**
+   forced the bakufu to issue a ***tokusei* (debt-cancellation) edict**.
+
+Proprietors fought the inevitable with appeals to the bakufu and out-of-court settlements,
+but by the *sengoku* age the shōen had given way to the consolidated territorial domains of
+the warring **daimyo** — the institutional bridge from the medieval estate to the
+early-modern *han*.
 
 ## Related
 

@@ -5,7 +5,7 @@ date_range: "1336–1573 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the Ashikaga shogunate & its weakness", "the Northern & Southern Courts", "the Ōnin War & the descent into the Warring States (sengoku)", "the rise of the daimyo & castle-towns", "the flowering of Zen-inflected culture (Noh, tea, ink painting, gardens)"]
 collection_coverage: moderate
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -69,6 +69,36 @@ artists and men of letters joining its fraternity. Meanwhile the **popular sects
 Land; the militant Nichiren/Hokke leagues) surged amid the post-Ōnin disorder — a "rising
 democratic sentiment" of self-governing religious communities ultimately crushed by force.
 
+## The Ashikaga bakufu reassessed (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v3-medieval|Cambridge History]] substantially **rehabilitates**
+the Ashikaga regime against the "weak shogunate" verdict that Mason & Caiger inherited.
+**John W. Hall** argues that judged by government efficiency the Ashikaga "should not be
+dismissed too lightly": under **Yoshimitsu** and **Yoshinori** a military government for the
+first time **possessed all aspects of secular authority**. Shogunal control was built on the
+**kanrei** (deputy-shogun) system rotating among three great [[shugo-daimyo|shugo]] houses
+(giving the bakufu their combined military backing against any challenger), the practice of
+**shugo residence in Kyoto**, the end of the Southern-Court war, and selective force against
+recalcitrant shugo. Hall also recovers the bakufu's **economic base** — landholdings,
+merchant taxes, patronage of **za** (guilds), road and barrier **tolls**, and above all the
+**tribute trade with Ming China** — "evidence of the burgeoning medieval economy." After the
+**Ōnin War (1467–77)** that authority shrank almost to Kyoto and its environs, though the
+bakufu persisted *in form* into the sixteenth century; Hall attributes the decline to a
+broad **trend toward local autonomy** rather than mere institutional weakness.
+
+## Local government: shugo, kokujin, and decentralization (Cambridge History of Japan)
+
+**Imatani Akira** traces how local power escaped the center. The bakufu's regional offices —
+the Kantō **kubō** and the Kyūshū **tandai** — became sources of rebellion rather than
+control, driving the decentralization of the periphery. Meanwhile the **shugo** transformed
+into regional hegemons by acquiring the **hanzei** (the right to half a [[medieval-shoen|shōen's]]
+proprietary dues), the provincewide **tansen** tax, expanded land-dispute enforcement, and a
+hereditary hold on the office — building vassal organizations and **shugo domains** of their
+own. The chapter foregrounds the scholarly debate (**Nagahara**'s shugo-centered vs.
+**Kurokawa**'s kokujin-centered readings) over who truly drove the late-medieval order. The
+full institutional story is on [[shugo-daimyo]]; the consequent collapse of the estate
+economy is on [[medieval-shoen]].
+
 ## Geographic Scope
 
 Centered on Kyoto until the Ōnin War, then radically decentralized into scores of daimyo
@@ -91,12 +121,16 @@ dynamic early-modern economy and the classic culture.
 
 ## Collection Coverage Note
 
-Covered by the Mason & Caiger spine; to be deepened by the Cambridge History of Japan
-Vol. 3 (Medieval).
+Covered by the Mason & Caiger spine and deepened by the
+[[cambridge-history-japan-v3-medieval|Cambridge History of Japan Vol. 3]] (Hall on the
+bakufu's efficiency and economy; Imatani on shugo/kokujin decentralization; Nagahara on the
+shōen's demise).
 
 ## Related
 
 - [[kamakura-period]] — the predecessor warrior age.
 - [[shogunate-bakufu]] · [[samurai]] — the institutions of warrior rule.
+- [[shugo-daimyo]] — the provincial governors who became territorial lords.
+- [[medieval-shoen]] — the estate system that dissolved in this age.
 - [[zen-buddhism]] — the spirit of Muromachi culture.
 - [[japan]] · [[ming-dynasty|Ming China]] — anchor and the trading partner.

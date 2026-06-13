@@ -9,7 +9,7 @@ affiliated_with: [the warrior houses (Minamoto, Taira, Hōjō, Ashikaga, Tokugaw
 opposed_by: [the civil court aristocracy (displaced), rival warrior houses]
 key_events: ["the Gempei War", "the founding of the [[shogunate-bakufu|bakufu]]", "the Mongol invasions"]
 key_processes: [[[shogunate-bakufu]], [[feudalism]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, movement, high-middle-ages, japan, east-asia]
 ---
@@ -56,7 +56,12 @@ elaboration (Cycle 3).
 
 - **Kamakura/Muromachi:** provincial vassals of the [[shogunate-bakufu|bakufu]]; then, as
   central authority collapsed, the self-made **daimyo** and their retainers of the Warring
-  States.
+  States. The [[cambridge-history-japan-v3-medieval|Cambridge History]] traces the precise
+  institutional ladder: the estate-level [[medieval-shoen|jitō]] steward rose into the
+  **kokujin** (local overlord) with a contiguous power base, while the provincial
+  **[[shugo-daimyo|shugo]]** built territorial domains by absorbing [[medieval-shoen|shōen]]
+  income (via *hanzei*) and organizing their own vassal bands — the warrior conquest of the
+  land from both below and above.
 - **Tokugawa:** the samurai become a **bureaucratized, stipended hereditary estate**,
   separated from the land and gathered in castle-towns, increasingly administrators rather
   than fighters. *(Cycle 3.)*
@@ -73,5 +78,6 @@ defined the age, and whose disestablishment marks the birth of modern Japan.
 
 - [[shogunate-bakufu]] — the government the samurai staffed and led.
 - [[feudalism]] — the comparative European institution.
+- [[shugo-daimyo]] · [[medieval-shoen]] — the offices and estates through which warrior land-power grew.
 - [[minamoto-no-yoritomo]] · [[kamakura-period]] · [[muromachi-period]] — their rise and rule.
 - [[zen-buddhism]] — the spirituality of the warrior.

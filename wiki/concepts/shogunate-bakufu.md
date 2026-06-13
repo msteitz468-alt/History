@@ -53,8 +53,14 @@ captured:
   figurehead shoguns; ruled by the **Jōei Code (1232)**; repelled the
   [[mongol-invasions-of-japan-1274-1281|Mongols]]; fell to Go-Daigo (1333). See
   [[kamakura-period]].
-- **Ashikaga (Muromachi) bakufu (1336–1573)** — weaker, dependent on provincial deputies;
-  disintegrated in the Ōnin War and the *sengoku* age. See [[muromachi-period]].
+- **Ashikaga (Muromachi) bakufu (1336–1573)** — traditionally seen as weaker and dependent
+  on provincial deputies; but the [[cambridge-history-japan-v3-medieval|Cambridge History]]
+  (John W. Hall) **reassesses** it as an efficient regime that under **Yoshimitsu** and
+  **Yoshinori** held *all* secular authority, governing through the rotating **kanrei**
+  deputyship and a diverse fiscal base (merchant/guild taxes, tolls, the Ming tribute
+  trade), with strong [[shugo-daimyo|shugo]] *advancing* rather than threatening bakufu rule
+  so long as shogunal primacy held. It shrank to Kyoto after the Ōnin War (1467–77) and
+  disintegrated in the *sengoku* age. See [[muromachi-period]] and [[shugo-daimyo]].
 - **Tokugawa bakufu (1603–1868)** — the mature, stable shogunate of the early-modern peace
   (the *baku-han* system). *(Cycle 3.)*
 
@@ -93,5 +99,6 @@ hinge into modern Japan (Cycle 4).
 - [[samurai]] — the warrior class it organized.
 - [[kamakura-period]] · [[muromachi-period]] — its first two phases.
 - [[medieval-shoen]] — the estate disputes its courts existed to settle.
+- [[shugo-daimyo]] — the provincial governors of the Kamakura/Muromachi bakufu.
 - [[shinto]] — the sacred throne in whose name it ruled.
 - [[japan]] — the realm it governed.
