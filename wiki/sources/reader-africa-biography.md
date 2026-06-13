@@ -14,8 +14,8 @@ reliability_notes: >
   colonialism), lighter and now somewhat dated on the internal political detail of individual states (for
   which the UNESCO General History of Africa volumes are the reference). Its environmental framing is a
   argument to be noted, not a neutral baseline. The wiki uses it as the continent-wide spine for Gap 2.
-pages_created: 2
-pages_updated: 5
+pages_created: 3
+pages_updated: 6
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -62,8 +62,17 @@ state-level pages this spine creates.
 - *Trans-Saharan gold trade and African disease ecology (chs. 24, 26, 28) substantially overlap existing
   pages — to fold a Reader note into [[trans-saharan-trade]] in the synthesis pass.*
 
-*Sections 1–3 (deep prehistory, human origins, food production/iron) and Sections 5–8 (foreign influences,
-settlers, the Scramble, decolonization) still to process.*
+**Section 5 — Foreign Influences (chs. 31–39), processed 2026-06-12:**
+- **Created:** [[impact-of-atlantic-slave-trade-on-africa]] (the Lovejoy/Manning transformation-and-
+  depopulation thesis vs the Eltis/Thornton minimization; the gun–slave cycle dispute — a `[CONTRADICTION]`
+  with the Thornton-based main page).
+- **Updated:** [[atlantic-slave-trade]] (Reader's African petty-trader supply side — Miles, Antera Duke;
+  the cowrie currency; the gun–slave cycle; Manning's demographic catastrophe; maize and cassava).
+- *Chs. 31–35 (Portuguese initiatives, Prester John, Kongo) noted for the synthesis pass / deferred to the
+  UNESCO volumes for a dedicated Kongo page.*
+
+*Sections 1–3 (deep prehistory, human origins, food production/iron) and Sections 6–8 (settlers, the
+Scramble, decolonization) still to process.*
 
 ## Volume Synthesis Note
 
