@@ -45,12 +45,14 @@ Two great measures fixed the early-modern social order:
 
 ## The Korean invasions and Christianity
 
-- **The invasions of Korea (1592, 1597)** — Hideyoshi's vast, disastrous attempt to
-  conquer Ming China through Korea: initial success was undone by Chinese intervention and
-  Korean naval victories; the armies withdrew on his death, having "gained absolutely
-  nothing" while devastating Korea and weakening the Ming. Mason and Caiger see them as the
-  overreach of a man who did not grasp the difference between war at home (settled under the
-  throne) and war against whole foreign peoples.
+- **The [[hideyoshi-korea-invasions-1592-1598|invasions of Korea (1592, 1597)]]** —
+  Hideyoshi's vast, disastrous attempt to conquer Ming China through Korea: initial success
+  was undone by Chinese intervention and Korean naval victories; the armies withdrew on his
+  death, having "gained absolutely nothing" while devastating Korea and weakening the Ming.
+  Mason and Caiger see them as the overreach of a man who did not grasp the difference between
+  war at home (settled under the throne) and war against whole foreign peoples. (Treated in
+  full, with the [[cambridge-history-japan-v4-early-modern|Cambridge History's]] account, on
+  the event page.)
 - **Christianity** — initially tolerant, he issued an **expulsion edict (1587)** against
   the Jesuits and had **26 Christians executed (1597)** after the San Felipe affair — early
   warning shots in the suppression that the Tokugawa would complete (see [[sakoku]]).

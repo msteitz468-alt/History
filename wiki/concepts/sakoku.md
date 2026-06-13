@@ -5,7 +5,7 @@ origin: the Tokugawa bakufu's maritime-prohibition edicts of 1633–1639 (the te
 applies_to_periods: [Early Modern, Age of Expansion, Long 19th Century]
 applies_to_regions: [japan, east-asia]
 contested: yes
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -62,6 +62,24 @@ hence the stress on the active Korean, Ryūkyū, Ainu, and Dutch/Chinese channel
 success in foreign relations actually helped **legitimize** Tokugawa rule. The policy ended
 under Western pressure (Perry, 1853), helping bring down the bakufu.
 
+## The anti-Christian road to seclusion (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v4-early-modern|Cambridge History]] (Jurgis Elisonas, ch. 7)
+shows that seclusion grew directly out of the **suppression of [[christianity-in-japan|Japanese
+Christianity]]**: the same five **closed-country directives (*sakoku-rei*, 1633–39)** that
+expelled the Portuguese were addressed to the Nagasaki commissioners and fused three aims the
+shogunate "clearly thought interconnected" — banning Japanese travel abroad (a **capital
+crime after 1635**), reducing the European presence, and "the merciless persecution of
+Christianity." Elisonas describes the policy's **two faces**: inward, the inquisition
+(*shūmon aratame*), the trampling-tests (*fumie*), and compulsory Buddhist temple
+registration (*terauke*) that turned anti-Christian surveillance into a permanent instrument
+of social control; outward, the conviction that the "Christian peril" could be eliminated only
+by **total isolation** from its sources. The expulsion of the Portuguese in **1639** and the
+beheading of their 1640 Macao embassy "ended the Christian Century." On this reading, *sakoku*
+was less an economic or xenophobic reflex than the **logical endpoint of the Tokugawa decision
+to extirpate Christianity** — the prerogative the bakufu reserved to itself as guarantor of
+the realm ([[shogunate-bakufu]]).
+
 ## The Deshima window: Dutch Learning (Sansom)
 
 Sansom stresses that the Dutch post at **Deshima** was not only a trade outlet but Japan's
@@ -78,6 +96,6 @@ European learning and contributed to the intellectual ferment behind the
 - [[edo-period]] · [[shogunate-bakufu]] — the order that imposed it.
 - [[tokugawa-intellectual-life]] — *rangaku* and the thought it admitted.
 - [[global-silver-trade]] — the bullion drain it sought to stop.
-- [[catholic-reformation]] — the missionary Christianity it suppressed.
+- [[christianity-in-japan]] · [[catholic-reformation]] — the missionary Christianity it suppressed.
 - [[meiji-restoration-1868]] — the regime change after its forced end.
 - [[japan]] — the country closed.
