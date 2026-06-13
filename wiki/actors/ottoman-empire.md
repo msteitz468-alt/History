@@ -9,7 +9,7 @@ affiliated_with: [the Anatolian Turkish frontier (gazi) society, Sunni Islam]
 opposed_by: [the [[byzantine-empire|Byzantine empire]], the Balkan Christian states (Serbia, Bulgaria), the crusaders, Timur, the Safavids, the Mamluks, the Habsburgs]
 key_events: [the emergence in Bithynia (c. 1300), the crossing into Europe (1354), the battle of [[battle-of-kosovo-1389|Kosovo]] (1389), Nicopolis (1396), the catastrophe at Ankara (1402), Çaldıran (1514), the conquest of Egypt (1517), Mohács (1526)]
 key_processes: [the conquest of the Balkans, the building of a frontier state, the slave household, the timar system, the "military revolution"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [actor, state, late-middle-ages, anatolia, balkans, near-east]
 ---
@@ -134,8 +134,25 @@ ignite the **Jelali revolts** that convulsed Anatolia. The empire survived with 
 resilience," but the centralized order of the apogee had given way to a tax-farming,
 infantry-heavy, less sultan-dominated state.
 
+## Revival and the great turning point, 1650–1700 (Finkel)
+
+Caroline Finkel's [[finkel-osmans-dream|*Osman's Dream*]] carries the narrative past Imber's
+1650 endpoint. The mid-seventeenth-century crisis was checked by a **military and
+administrative revival under the [[ottoman-empire|Köprülü]] grand viziers** (from Köprülü
+Mehmed Pasha, 1656) — a household dynasty of vezirs who restored order, finances, and the
+offensive, conquering Crete (Iraklion, 1669) and pressing into Habsburg and Polish lands. The
+revival ended at the **[[siege-of-vienna-1683|second siege of Vienna (1683)]]**: its failure
+triggered the Holy League's chain of victories, the loss of Buda (1686), and the **Treaty of
+Karlowitz (1699)** — the surrender of Hungary and the **turn from expansion to retreat**.
+Finkel insists this was a shift in the balance of power, not the simple senescence of a "Sick
+Man" (see [[ottoman-decline-thesis]]): the empire remained resilient and adaptive, but
+thereafter **diplomacy rather than conquest** increasingly governed its dealings with Europe —
+the world of the [[eastern-question]] and the [[tanzimat-reforms]].
+
 ## Related
 
+- [[finkel-osmans-dream]] — the narrative spine for the post-1650 story above.
+- [[ottoman-decline-thesis]] — the debate over how to read the empire's later centuries.
 - [[imber-ottoman-empire-1300-1650]] — the structural study underpinning the 1512–1650 account above.
 - [[selim-i]] · [[suleiman-the-magnificent]] — the conquering and apogee sultans.
 - [[devshirme]] · [[janissaries]] · [[timar-system]] · [[ottoman-law-kanun]] — the institutions of power.

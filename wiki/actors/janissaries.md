@@ -9,7 +9,7 @@ affiliated_with: [the Ottoman sultan (as his slave household, kapıkulu)]
 opposed_by: [the empire's enemies in the field; later, reforming sultans]
 key_events: ["the battle of Ankara (1402)", "the battle of Varna (1444)", "the fall of Constantinople (1453)", "the Ottoman 'military revolution' (post-1590)"]
 key_processes: [[[devshirme]], [[ottoman-empire]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, military-force, early-modern, near-east, anatolia]
 ---
@@ -49,9 +49,14 @@ Ottoman army" — and, as the [[devshirme]] could no longer supply the numbers, 
 Expansion changed the corps' politics. A large, salaried, increasingly hereditary body
 resident in the capital, the Janissaries became a **fiscal and political force**: their pay
 strained the treasury (a crisis in 1623 after four accession-bonuses in six years), and they
-repeatedly **mutinied** over arrears and policy — and could make or unmake sultans. Their later
-history as a conservative praetorian guard, obstructing reform, ended only with their violent
-**abolition in 1826** (the "Auspicious Incident").
+repeatedly **mutinied** over arrears and policy — and could make or unmake sultans. Caroline
+Finkel's [[finkel-osmans-dream|*Osman's Dream*]] shows them at the center of the recurrent
+"Ottoman-style revolutions" of the seventeenth and eighteenth centuries — depositions of
+sultans and grand viziers (the 1648, 1687–88, and 1703 "Edirne Incident" uprisings) in which
+the corps, allied with the *ulema* and the Istanbul crowd, enforced its will. Their later
+history as a conservative praetorian guard, **obstructing reform** (they destroyed Selim III's
+"New Order" army in 1807), ended only with their violent **abolition by Mahmud II in 1826**
+(the "Auspicious Incident").
 
 ## Significance
 

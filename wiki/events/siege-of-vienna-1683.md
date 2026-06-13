@@ -1,0 +1,89 @@
+---
+title: "The Second Siege of Vienna (1683) and the Treaty of Karlowitz (1699)"
+date_start: 1683
+date_end: 1699
+date_precision: year
+dating_method: documentary
+period: [Early Modern, Age of Expansion]
+region: [balkans, anatolia, eastern-europe]
+location: [Vienna, Hungary, Belgrade, Karlowitz (Sremski Karlovci)]
+actors_primary: [the Ottoman Empire (Grand Vizier Merzifonlu Kara Mustafa Pasha), the Habsburg Monarchy, the Polish-Lithuanian Commonwealth (Jan Sobieski), the Holy League]
+actors_secondary: [Venice, Poland-Lithuania, Russia, the Papacy, the Köprülü grand viziers]
+event_type: [battle, war]
+scale_immediate: regional
+scale_consequential: civilizational
+causes: [the Köprülü-era restoration of Ottoman aggression, Kara Mustafa Pasha's ambition, the long Ottoman-Habsburg contest over Hungary]
+consequences: [the failure of the siege and the chain of Ottoman defeats, the formation of the Holy League, the Treaty of Karlowitz (1699), the loss of Hungary, the turn from Ottoman expansion to retreat]
+sources_ingested: 1
+last_updated: 2026-06-13
+tags: [event, early-modern, balkans, anatolia]
+---
+
+# The Second Siege of Vienna (1683) and the Treaty of Karlowitz (1699)
+
+The failed Ottoman siege of the Habsburg capital in 1683 and the sixteen-year war it touched
+off — ending in the **Treaty of Karlowitz (1699)**, the great turning point at which the
+Ottoman Empire passed decisively **from expansion to retreat**. From Caroline Finkel's
+[[finkel-osmans-dream|*Osman's Dream*]].
+
+## Narrative
+
+The later seventeenth century had seen an Ottoman military **revival under the
+[[ottoman-empire|Köprülü]]** grand viziers. In 1683 Grand Vizier **Merzifonlu Kara Mustafa
+Pasha** led a great army to besiege **Vienna** — the second Ottoman attempt on the city since
+[[suleiman-the-magnificent|Süleyman's]] failure in 1529. The siege collapsed when a relief army
+— including the Polish king **Jan Sobieski** — broke the Ottoman lines. Finkel stresses the
+**psychological impact**: to western observers "the tide of Ottoman conquest was turning,"
+though the Ottomans "had no idea that it was merely the first in a chain of defeats." Kara
+Mustafa was executed for the failure (December 1683).
+
+The defeat provoked the formation of the **Holy League (1684)** — the Habsburgs,
+Poland-Lithuania, Venice, and the Papacy (later joined by Russia) — and a disastrous run of
+losses: **Buda fell in 1686** (held since [[suleiman-the-magnificent|Süleyman's]] conquest of
+1526), and the empire, "for the first time ever," sought to **initiate peace negotiations**
+with its enemies. Even a renewed Köprülü revival under **Fazıl Mustafa Pasha** could not
+reverse the tide.
+
+## The Treaty of Karlowitz (1699)
+
+After sixteen years of war, the **Treaty of Karlowitz (1699)** — mediated by England and the
+Dutch — deprived the Ottomans "for ever of much of the European territory they had until
+recently called their own," above all **Hungary and Transylvania** to the Habsburgs (with
+losses also to Poland, Venice, and Russia). Finkel highlights two markers of a changed world:
+the treaty was negotiated by a **chancery bureaucrat, not a military pasha** (thereafter
+standard practice), and **diplomacy rather than military might** increasingly set the terms of
+the Ottoman encounter with Europe.
+
+## Causal Analysis
+
+- `caused_by:` the [[ottoman-empire|Köprülü-era]] restoration of Ottoman military confidence
+  and Kara Mustafa Pasha's overreaching ambition against Vienna.
+- `contributed_to:` the long Ottoman–Habsburg struggle over **Hungary** dating to
+  [[suleiman-the-magnificent|Mohács (1526)]].
+
+## Consequence Analysis
+
+- `produced:` the **loss of Hungary** and the first major Ottoman territorial retreat in
+  Europe — the symbolic end of the Ottoman advance.
+- `produced:` a domestic crisis: the perception that Mustafa II had "compromised Muslim honour"
+  at Karlowitz fed the **Edirne Incident of 1703** (a revolt deposing the sultan).
+- `enabled:` the new pattern of the eighteenth century — **diplomacy over aggression**, the
+  Ottomans increasingly on the defensive against a rising Habsburg Austria and Romanov Russia
+  (cf. [[eastern-question]]).
+- `contributed_to:` the later "[[ottoman-decline-thesis|decline]]" narrative — though Finkel
+  cautions that retreat on one frontier was not the simple senescence of the whole empire.
+
+## Significance
+
+Karlowitz is conventionally the **hinge** of Ottoman history: the moment the empire stopped
+expanding and began the long, contested retreat that would last into the twentieth century.
+Finkel uses it to complicate the "rise–decline–fall" story (see [[ottoman-decline-thesis]]):
+the empire remained resilient, adaptive, and far from moribund, but the **balance of power with
+Europe had shifted** for good.
+
+## Related
+
+- [[ottoman-empire]] — the empire whose expansion this ended.
+- [[suleiman-the-magnificent]] — the first (1529) siege of Vienna and the conquest of Hungary now lost.
+- [[ottoman-decline-thesis]] — the historiographical debate this turning point feeds.
+- [[eastern-question]] — the eighteenth/nineteenth-century retreat that followed; [[habsburg-monarchy|the Habsburgs]].
