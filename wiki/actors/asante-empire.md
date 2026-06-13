@@ -8,8 +8,8 @@ region: [west-africa]
 affiliated_with: [the Akan peoples, the gold and Atlantic trades]
 opposed_by: [Denkyira, the coastal Fante, ultimately Britain (the Anglo-Asante wars)]
 key_events: [the defeat of Denkyira (1701), the unification under the Golden Stool, expansion under Opoku Ware, the Anglo-Asante wars (19th c.)]
-key_processes: [[[atlantic-slave-trade]], [[trans-saharan-trade|gold trade]], state-formation]
-sources_ingested: 1
+key_processes: [[[atlantic-slave-trade]], [[trans-saharan-trade|gold trade]], [[state-formation]]]
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, empire, age-of-expansion, west-africa]
 ---
@@ -29,6 +29,20 @@ united the Akan chiefdoms and threw off the overlordship of **Denkyira**. Its sy
 core was the **Golden Stool (Sika Dwa Kofi)** — said to have descended from the sky to embody the soul of
 the Asante nation — uniting the previously independent chiefdoms under the **Asantehene** at Kumasi while
 preserving their internal autonomy: a sophisticated federal kingship.
+
+## The rise out of the Akan world (Ajayi & Crowder / Wilks)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (Ivor Wilks,
+Ch. 10) sets Asante's birth within the longer **[[akan-states|southern Akan]]** sequence. The
+founding lineages belonged to the **Oyoko** (and other) matriclans of the Kumasi area, who had
+migrated north from the forest country of Adanse around Lake Bosumtwe. Asante rose by
+**defeating Denkyira in a series of wars (1699–1701)** — the gold-rich power that had dominated
+the region — absorbing many Denkyira chiefs into the Kumasi division. Wilks stresses that Asante
+was the **latest and largest** of the trade-driven states (after Bono, Akwamu, and Denkyira) that
+the maritime gold trade had thrown up since 1471, and that its rise rode the same **bow-to-gun
+military transition** and the same logic of engrossing trade. Its consolidation is thus the
+culmination, not the beginning, of West African forest state-formation — the theme Wilks pursues
+across the Mossi, Gonja, and Akan worlds alike (see [[akan-states]], [[mossi-states]]).
 
 ## Power: gold, kola, and the Atlantic
 

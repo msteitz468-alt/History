@@ -8,7 +8,7 @@ region: [west-africa, sahara]
 process_type: [religious, political, ideological]
 driven_by: [Islamic revivalism (the Qadiriyya and Tijaniyya Sufi orders), Fulani grievances, the call to reform "mixed" Islam and corrupt rulers, literacy and a scholarly clerical class]
 produces: [the Sokoto Caliphate, the Massina caliphate, the Tukulor empire, the Islamization of the West African savanna, a vast expansion of slavery, the conquest of the Hausa states]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [process, long-19th-century, west-africa]
 ---
@@ -29,6 +29,28 @@ the largely Muslim, often pastoralist **Fulani (Fulbe)** clerical class against 
 oppressive, venal, and only nominally Muslim (practising a "mixed" Islam tolerant of pagan custom). A
 charismatic scholar would declare a **jihad** against such a ruler, rally Muslim (and Fulani) support, and
 build a new state governed by the **sharia** and led by a learned imam-amir.
+
+## The eighteenth-century precursors (Ajayi & Crowder / Suret-Canale)
+
+[[ajayi-crowder-history-west-africa-v1-1971|*History of West Africa* Vol. I]] (J. Suret-Canale,
+Ch. 11) shows the 19th-century jihads had **18th-century forerunners in the western Atlantic
+hinterland**: the Fula-Islamic theocracies of **Futa Jallon** (where newly-settled Fulbe
+immigrants seized the country with local allies, reducing the older "masters of the soil" to
+servitude), **Futa Toro**, and **Bundu**. Suret-Canale frames these as a structural shift from
+the **tribal pagan kingdom** — where royal authority absorbed the functions of *chefs de terre*
+and war-leaders and rested on royal slave-soldiers — to a **community of believers (the *Umma*)**
+replacing units of blood alone: "the theocratic and oligarchic republic replaced the tribal
+monarchy." Because the Mande-tradition states already had a princely/royal-slave oligarchy with
+a "feudal aspect," the new Islamic states could **integrate** the old structures rather than
+destroy them.
+
+He pairs this with a darker **"contradiction"** thesis (after Abdoulaye Ly): along the coast the
+**Atlantic slave trade caused political *regression*** — the lure of European goods and the
+endemic warfare of slave-raiding broke up the fragile medieval kingdoms (Mali, the Wolof Jolof)
+and even drove a **return to segmentary society**, while inland the same pressures helped
+consolidate the Fula-Islamic states. The slave trade thus simultaneously **built and dissolved**
+states across the region — a key argument in the debate over the trade's effect on Africa (see
+[[atlantic-slave-trade]]).
 
 ## The major jihad states
 
