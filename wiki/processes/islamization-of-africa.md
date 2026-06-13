@@ -8,8 +8,8 @@ region: [north-africa, west-africa, east-africa, sahara, sub-saharan-africa, hor
 process_type: [religious, cultural, economic]
 driven_by: [the Arab conquests, trans-Saharan and Indian Ocean trade, the social and fiscal advantages of conversion, Sufi and merchant missionary activity, Berber religious movements]
 produces: [a Muslim North Africa, Islamized Sahel trading states, the Swahili Muslim coast, Arabic literacy and law in Africa, a lasting Christian–Muslim frontier]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [process, early-middle-ages, north-africa, west-africa, east-africa]
 ---
 
@@ -86,5 +86,10 @@ alike were imported by lighter-skinned northerners.
 
 ## Related pages
 
-[[gha-vol3-7th-11th-century]] · [[islam]] · [[trans-saharan-trade]] · [[ghana-empire]] · [[berbers]] ·
+[[gha-vol3-7th-11th-century]] · [[cambridge-history-of-africa-v2]] · [[islam]] · [[trans-saharan-trade]] · [[ghana-empire]] · [[berbers]] ·
 [[almoravids]] · [[swahili-coast]] · [[christian-nubia]] · [[sub-saharan-africa]]
+
+*The [[cambridge-history-of-africa-v2|Cambridge History of Africa, Vol. 2]] (1978) covers the
+**Arab conquest and the rise of Islam** in North Africa, the Fatimid revolution, and the
+opening of the Sahara–Sudan trade routes that carried Islam south — corroborating the wiki's
+GHA-based account.*

@@ -8,8 +8,8 @@ region: [sub-saharan-africa, central-africa, east-africa, southern-africa, west-
 process_type: [demographic, economic, cultural, ideological]
 driven_by: ["agricultural and (later) iron-working advantage", "[[early-african-food-production|African food production]]", "demographic growth"]
 produces: ["the spread of farming/herding across central & southern Africa", "the Bantu language family across a third of the continent", "assimilation/displacement of forager and Khoe-San communities"]
-sources_ingested: 4
-last_updated: 2026-06-12
+sources_ingested: 5
+last_updated: 2026-06-13
 tags: [process, neolithic, sub-saharan-africa]
 ---
 
@@ -136,6 +136,11 @@ Chadic peoples), the other great linguistic substratum of the African interior.
 
 ## Related pages
 
-[[reader-africa-biography]] · [[gha-vol3-7th-11th-century]] · [[sub-saharan-africa]] ·
+[[reader-africa-biography]] · [[gha-vol3-7th-11th-century]] · [[cambridge-history-of-africa-v2]] · [[sub-saharan-africa]] ·
 [[early-african-food-production]] · [[african-language-family-origins]] · [[nok-culture]] ·
 [[trans-saharan-trade]]
+
+*The [[cambridge-history-of-africa-v2|Cambridge History of Africa, Vol. 2]] (1978) treats this
+as "the emergence of Bantu Africa" — the Iron-Age spread of Bantu-speaking, iron-using farming
+communities through Central, East, and Southern Africa — a parallel authority to the wiki's
+GHA-based account.*
