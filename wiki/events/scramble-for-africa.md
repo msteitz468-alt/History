@@ -13,7 +13,7 @@ scale_immediate: continental
 scale_consequential: global
 causes: [[[imperialism|New Imperialism]] and great-power rivalry, [[industrialization|industrial]] "tools of empire", the [[southern-african-mineral-revolution|mineral revolution]], strategic competition (the route to India, the Nile), missionary and humanitarian pretexts]
 consequences: [the partition of nearly all Africa into European colonies, arbitrary borders, colonial labour and extraction economies, African resistance and later [[decolonization|decolonization]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [event, long-19th-century, africa]
 ---
@@ -63,6 +63,11 @@ African societies resisted widely — from the Lozi's legal protests to armed de
 vain: **Ethiopia under Menelik II destroyed an Italian army at Adwa (1896)**, the one major state to defeat
 the Scramble and remain independent. But against industrial firepower most resistance was crushed (see
 [[imperialism]] on the technological asymmetry; Omdurman, 1898).
+
+The **UNESCO [[gha-vol7-colonial-1880-1935|General History of Africa, Vol. VII]]** (Boahen, ed.) reframes
+conquest entirely around **[[african-resistance-to-colonial-rule|African initiatives and resistance]]** —
+rejecting the colonial myth of "pacification" and recovering the determined, varied, and costly African
+responses (Samori, the Maji Maji, the Herero, the Asante, the Mahdiyya) that the conquerors had to suppress.
 
 ## Consequences
 
