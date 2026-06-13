@@ -9,7 +9,7 @@ affiliated_with: [[[mongol-empire]], "the Jochid line", [[mamluk-sultanate|the M
 opposed_by: [[[ilkhanate]], "the Chaghatayids", [[timur|Timur]], "the rising principality of Moscow"]
 key_events: ["Batu's western campaign 1236–42", "the Berke–Hülegü war", "the sack of Kaffa & the Black Death 1346", "Timur's devastation of Sarai 1390s"]
 key_processes: [[[pax-mongolica]], [[chinggis-exchange]], [[silk-roads]], "the Turkicization of the western steppe"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [actor, empire, high-middle-ages, late-middle-ages, steppe, eastern-europe]
 ---
@@ -82,6 +82,18 @@ acquisition of the rich pastures and caravan routes of **Azerbaijan**... Russia 
 was peripheral" — so the temptation to read the Golden Horde as a chapter of *Russian*
 history, rather than of the **Mongol Empire**, "should be resisted."
 
+## Relations with Latin Christendom
+
+[[jackson-mongols-and-the-west|Jackson]] traces the Horde's long shift from
+**confrontation to coexistence** with the Catholic West. After the raids on Hungary
+(1285) and Poland (1287), large-scale attacks gave way to raiding and then to a working
+relationship — anchored by the **Genoese and Venetian** trading colonies of the Black Sea
+(Caffa, Tana) that made the Horde rich. But the Horde's **protectorates over non-Latin
+states** — the schismatic Rus′, Bulgarians, and Byzantines, and pagan Lithuania —
+ironically **shielded those polities from Latin (Polish, Hungarian, crusading) pressure**,
+making the Mongols an indirect guarantor of Orthodox and pagan Eastern Europe against the
+Catholic powers.
+
 ## Significance
 
 The Golden Horde is the principal Mongol legacy in **Russia and Eastern Europe** — a
@@ -96,4 +108,4 @@ Mongolica]] until plague and Timur broke it.
 - [[ilkhanate]] — its great Mongol rival; [[mamluk-sultanate]] — its ally against the Ilkhanate.
 - [[rus-principalities]] — its long-ruled subjects; [[timur]] — its destroyer.
 - [[pax-mongolica]] · [[chinggis-exchange]] · [[black-death]] — the connective system it joined and the plague that broke it.
-- [[may-mongol-conquests-2012]] · [[morgan-the-mongols]] — the sources.
+- [[may-mongol-conquests-2012]] · [[morgan-the-mongols]] · [[jackson-mongols-and-the-west]] — the sources.

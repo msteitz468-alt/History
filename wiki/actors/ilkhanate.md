@@ -9,7 +9,7 @@ affiliated_with: [[[mongol-empire]], "the Toluid line", "the Yuan dynasty (ally)
 opposed_by: [[[mamluk-sultanate]], [[golden-horde|the Golden Horde]], "the Chaghatayids"]
 key_events: ["the sack of Baghdad 1258", "the defeat at Ain Jalut 1260", "Ghazan's conversion to Islam c. 1295", "the end of the line 1335"]
 key_processes: [[[pax-mongolica]], [[chinggis-exchange]], "the Islamization of the Mongols", "the Persianization of high culture"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, empire, high-middle-ages, late-middle-ages, iran-plateau, near-east]
 ---
@@ -40,6 +40,15 @@ Chaghatayids to the east, the Mamluks to the southwest — with its sole ally (t
 reachable only by the **sea route around India**, the Ilkhanate nonetheless built, May
 notes, "a rational state": minted currency, a centralized administration, and the *iqta*/
 *timar* revenue-grant system for its still-nomadic army.
+
+From Hülegü's 1262 letter to Louis IX onward, the Ilkhans pursued the
+**[[mongol-latin-crusade-alliance|crusade alliance with Latin Christendom]]** against the
+Mamluks — a half-century of embassies to the popes and the Western kings (including envoys
+who underwent public baptism at Lyons in 1274, and Arghun's emissary Rabban Sauma) that
+[[jackson-mongols-and-the-west|Jackson]] shows never produced effective joint war.
+Ghazan's three Syrian campaigns (the victory near Homs and brief seizure of Damascus in
+**1299–1300**; the 1303 disaster) were the closest it came; the Mamluks took the last
+Crusader outpost, Acre, in **1291**.
 
 Under **Ghazan Khan** (r. 1295–1304) the Ilkhanate became the **first Mongol state to
 convert to Islam** — a turn that raised persecution of Christians and Buddhists, alarmed
@@ -77,4 +86,5 @@ generations, and its collapse left the vacuum Timur would fill.
 - [[golden-horde]] — its Mongol rival to the north; [[mamluk-sultanate]] — its enemy to the southwest.
 - [[baghdad]] · [[abbasid-caliphate]] · [[battle-of-ain-jalut-1260]] — its founding conquests and limits.
 - [[rashid-al-din]] — its great historian-vizier; [[timur]] — heir to its territory.
-- [[pax-mongolica]] · [[chinggis-exchange]] — the connective system it anchored; [[may-mongol-conquests-2012]] — the source.
+- [[mongol-latin-crusade-alliance]] — its abortive anti-Mamluk diplomacy with the West.
+- [[pax-mongolica]] · [[chinggis-exchange]] — the connective system it anchored; [[may-mongol-conquests-2012]] · [[jackson-mongols-and-the-west]] — the sources.
