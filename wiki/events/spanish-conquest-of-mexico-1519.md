@@ -14,7 +14,7 @@ scale_immediate: civilizational
 scale_consequential: hemispheric
 causes: ["Iberian overseas expansion (the [[columbian-exchange-1492|Columbian Exchange]])", "indigenous disunity — Tlaxcalan & other allies against the Mexica", "the [[virgin-soil-epidemics|smallpox]] pandemic of 1520"]
 consequences: ["the fall of the [[aztec-empire|Aztec empire]] & founding of New Spain", "the [[virgin-soil-epidemics|demographic collapse]] of central Mexico", "the beginning of Spanish colonial Latin America", "a foundational trauma & mestizo identity"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [event, transition, late-middle-ages, mesoamerica]
 ---
@@ -63,6 +63,20 @@ The book closes on the *icnocuicatl* — songs of sorrow — whose most famous l
 
 > *Broken spears lie in the roads;* / *we have torn our hair in our grief.* / *The houses are roofless now,
 > and their walls* / *are red with blood…*
+
+## The Spanish account (Bernal Díaz)
+
+The conqueror's side is given by the foot-soldier **Bernal Díaz del Castillo** in
+[[diaz-conquest-of-new-spain|*The Conquest of New Spain*]] (c. 1568). Strikingly, it **converges with the
+Nahua account on the facts** while differing in framing: both record the **gold-barter** motive, the
+**prophecy of bearded men from the east**, the Spaniards' **revulsion at human sacrifice**, the
+**Tlaxcalan alliance** and **Cholula massacre**, Montezuma's noble "divided mind," and Guatemoc's brave
+last defence and cruel end (tortured for his gold, later executed). Where the Nahua elegies grieve,
+Bernal Díaz **justifies** — a sincere crusading "sense of mission" — even as he candidly records massacre,
+torture, forcible conversion, and the endless, often-disappointed hunt for gold. His decisive addition is
+the central role of the interpreter **[[la-malinche|Doña Marina / La Malinche]]**, the Nahua noblewoman
+(sold into bondage as a child) whose command of Nahuatl and Maya made Cortés's diplomacy, intelligence,
+and alliance-building possible — arguably the human hinge of the conquest.
 
 ## Causal Analysis
 
