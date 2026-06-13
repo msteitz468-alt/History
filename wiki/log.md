@@ -35,6 +35,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. IV (12th–16th c.) | Section: The Maghrib — Almohads & after (chs. 2–5) | Pages created: 0 | Pages updated: 1 | (almohads — African/Maghribi view, gold trade)
 
+## 2026-06-12 section | GHA Vol. V (16th–18th c.) | Section: The slave trade & the Atlantic order (chs. 1–5) | Pages created: 0 | Pages updated: 2 | (atlantic-slave-trade, impact-of-atlantic-slave-trade-on-africa — Inikori/Rodney underdevelopment thesis)
+
 ## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. IV: Africa from the Twelfth to the Sixteenth Century (D. T. Niane ed., 1984) | Total pages created: 3 | Total pages updated: 9 | Sections processed: 6 (+ synthesis). Filed to raw/3. Middle Ages/. Gap 2 high-medieval reference (the great empires).
 
 ## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. III: Africa from the Seventh to the Eleventh Century (El Fasi & Hrbek eds., 1988) | Total pages created: 3 | Total pages updated: 8 | Sections processed: 6 (+ synthesis). Filed (both copies) to raw/3. Middle Ages/. Gap 2 early-medieval reference.

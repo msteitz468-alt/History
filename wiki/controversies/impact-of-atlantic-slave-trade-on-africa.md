@@ -26,6 +26,13 @@ about the trade's responsibility for Africa's relative poverty and "underdevelop
 
 ## Positions
 
+- **Underdevelopment / dependency (Rodney, Inikori).** The strongest version of the case against the trade,
+  given fullest voice in **[[gha-vol5-16th-18th-century|GHA Vol. V]]** (J. E. Inikori, ch. 4): the export
+  slave trade was the **foundation of the Atlantic economic order** and an active engine of African
+  **underdevelopment** — draining the most productive labour, distorting and arresting indigenous economies,
+  and channelling the resulting profits, raw materials, and markets into **European capital accumulation**
+  and ultimately the Industrial Revolution (Walter Rodney's *How Europe Underdeveloped Africa*). *Held by:*
+  Rodney, Inikori, the dependency school. (This is the most expansive form of the transformationist pole.)
 - **Transformation and depopulation (Lovejoy, Manning, Miller, Reader).** The trade **fundamentally
   transformed** African societies: it entrenched and expanded **domestic slavery**, replaced chiefly
   political economies with systems run by **warlords and merchant-creditors**, and inflicted **demographic
@@ -65,5 +72,5 @@ growth).
 
 ## Related pages
 
-[[atlantic-slave-trade]] · [[reader-africa-biography]] · [[sub-saharan-africa]] · [[slavery]] ·
-[[trans-saharan-trade]] · [[imperialism]]
+[[atlantic-slave-trade]] · [[gha-vol5-16th-18th-century]] · [[reader-africa-biography]] ·
+[[sub-saharan-africa]] · [[slavery]] · [[trans-saharan-trade]] · [[imperialism]]

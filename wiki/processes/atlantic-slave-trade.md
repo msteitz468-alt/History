@@ -8,7 +8,7 @@ region: [atlantic-world, west-africa, central-africa, caribbean, andes, eastern-
 process_type: demographic
 driven_by: [plantation demand for labor (especially sugar), American demographic collapse, pre-existing African slavery and slave markets, European armed maritime commerce]
 produces: [the largest forced migration in history, African diaspora cultures of the Americas, demographic distortion in Atlantic Africa, the plantation complex, creole languages and Atlantic religions]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [process, early-modern, atlantic-world, west-africa]
 ---
@@ -157,6 +157,16 @@ account that the wiki preserves alongside Thornton's:
   cassava especially (storable underground for years, beyond raiders' reach) spread food production into
   new land and may have driven Africa's first real population spurt — much of it then consumed by the
   trade's own growth.
+
+## GHA V: the trade and the Atlantic economic order
+
+The **UNESCO [[gha-vol5-16th-18th-century|General History of Africa, Vol. V]]** (chs. 4–5, Inikori &
+Harris) treats the slave trade as the **structural foundation of the early-modern Atlantic economy** — the
+forced-labour system that built the American plantation complex and, in Inikori's strong thesis, fed
+**European capital accumulation** while **underdeveloping** Africa (draining labour, distorting economies).
+It is paired with J. E. Harris's survey of the **African diaspora** in both the New World *and* the Old (the
+Indian Ocean and Mediterranean trades). These positions are weighed against the minimizing view on the
+controversy page **[[impact-of-atlantic-slave-trade-on-africa]]**.
 
 ## Historiography
 
