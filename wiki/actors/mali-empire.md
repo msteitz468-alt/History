@@ -9,8 +9,8 @@ affiliated_with: [[[trans-saharan-trade]], [[islam]], "the Mande/Mandinka (Mandi
 opposed_by: [[[ghana-empire|the declining Ghana/Wagadu]], "the Sosso kingdom", "the Mossi", "later Songhay and Tuareg"]
 key_events: ["the battle of Kirina (c. 1235)", "Mansa Musa's pilgrimage to Mecca (1324)"]
 key_processes: [[[trans-saharan-trade]], [[state-formation]], [[islam]], [[afro-eurasian-world-system]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [actor, empire, high-middle-ages, late-middle-ages, west-africa]
 ---
 
@@ -74,8 +74,20 @@ economy]] via the Sahara, known to the Mediterranean world as a fabulously rich
 realm, yet reconstructable for historians only through the distinctive blend of oral,
 archaeological, and Arabic-textual evidence that Conrad's chapter foregrounds.
 
+## The Sundiata epic as primary source
+
+The wiki now holds the founding tradition itself: **[[niane-sundiata|*Sundiata: An Epic of Old Mali*]]**,
+D. T. Niane's transcription of the griot Mamadou Kouyaté. It supplies the inside account of the empire's
+origin — **[[sundiata-keita|Sundiata Keita]]'s** rise from a mocked, crippled childhood; his exile and
+return; the breaking of the sorcerer-king **Soumaoro Kanté of Sosso** at the **Battle of Krina (Kirina,
+c. 1235)**; and the assembly of **Kurukan Fuga**, where the Mande clans gave the new empire its
+**constitution** and recognized Sundiata as *mansa*, with the capital at **Niani**. Read not as literal
+chronicle but as the charter of Mande identity and the prime case of the
+[[griot-oral-tradition|griot oral tradition]] — to be triangulated with Ibn Battuta and archaeology.
+
 ## Related
 
+- [[niane-sundiata]] — the founding epic; [[sundiata-keita]] — the founder; [[griot-oral-tradition]].
 - [[mansa-musa]] — its most famous ruler.
 - [[ghana-empire]] — the predecessor Wagadu state; [[songhay-empire]] — the successor.
 - [[trans-saharan-trade]] — the commercial basis of its power.

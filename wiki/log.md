@@ -15,6 +15,8 @@ Format:
 
 ## 2026-06-12 admin | PIVOT to Outstanding Sources.md. Audit: ~50 of ~75 gap-filling sources now in collection (entire Modern leg, Africa, Americas, much of Asia). Still missing: Russia (Gap 8), several global primaries (Muqaddimah, Gilgamesh, Secret History of Mongols, Behistun, Hammurabi), most world-systems (Abu-Lughod, Crosby, Diamond, Harper). Working gaps in list order, starting Gap 1 (Modern).
 
+## 2026-06-12 ingest | Sundiata: An Epic of Old Mali (D. T. Niane / griot Mamadou Kouyaté, 1960/1965) | High Middle Ages | west-africa | Pages created: 3 | Pages updated: 1 | Filed to raw/3. Middle Ages/
+
 ## 2026-06-12 ingest-complete | Africa: A Biography of the Continent (John Reader, 1997) | Total pages created: 7 | Total pages updated: 8 | Sections processed: 8 (+ synthesis). Filed to raw/3. Middle Ages/. First continent-wide spine for Gap 2 (Sub-Saharan Africa).
 
 ## 2026-06-12 section | Africa: A Biography of the Continent (John Reader) | Section: Founding Factors / Humanity Emerging / The African Options (chs. 1–19, consolidated) | Pages created: 0 | Pages updated: 1 | (bantu-expansion; §1–2 overlap existing pages)
