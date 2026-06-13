@@ -8,7 +8,7 @@ region: [global, east-asia, china, japan, near-east, eastern-europe]
 process_type: [political, economic, ideological]
 driven_by: [the pressure of Western industrial, military, and economic power; inter-state competition; the desire to preserve sovereignty]
 produces: [selective adoption of Western technology and institutions, Meiji Japan's transformation, divergent developmental outcomes, the groundwork for twentieth-century Asian industrialization]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [process, long-19th-century, east-asia, global]
 ---
@@ -75,6 +75,19 @@ room for) and a partial cause of the later, faster diffusion of [[industrializat
 to East Asia and thus of the **partial reversal of the [[great-divergence|Great
 Divergence]]**. It overlaps [[nationalism]] (reform in the name of the people/nation)
 and prefigures twentieth-century [[decolonization]] and developmentalism.
+
+## The Chinese case (Spence)
+
+Jonathan Spence's [[spence-search-for-modern-china|*Search for Modern China*]] gives the Chinese
+self-strengthening movement its narrative: the **Tongzhi Restoration** reformers — the very
+provincial statesmen (Zeng Guofan, **Li Hongzhang**, Zuo Zongtang) who had crushed the
+**[[taiping-rebellion|Taiping]]** — who from the 1860s built arsenals, shipyards, and a modern
+navy and adopted Western technology while preserving the Confucian order ("Chinese learning for
+the essence, Western learning for use"). Its inadequacy was exposed by humiliating defeat in the
+**[[first-sino-japanese-war-1894-1895|Sino-Japanese War (1895)]]** — Japan's
+[[meiji-modernization|fuller modernization]] outpacing China's partial reform — which in turn
+spurred the more radical **1898 reform movement**, the Boxer catastrophe, and ultimately the
+[[fall-of-the-qing-1911|1911 Revolution]].
 
 ## End Conditions
 

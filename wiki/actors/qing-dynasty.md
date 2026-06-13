@@ -54,10 +54,11 @@ century of prosperity, population growth, and cultural patronage, and the **conq
 largest empire in Chinese history** — incorporating Mongolia, Tibet, and Xinjiang (the "New
 Territories"). As the dynasty "coeval with Europe's global expansion" (Keay), it received the
 British **Macartney embassy (1793)** and rebuffed it. The nineteenth century brought
-catastrophe: the **Opium Wars** and the "unequal treaties," the devastating **Taiping** and
-other rebellions, the loss of tributaries and territory, and failed self-strengthening — the
-"death throes of empire." The Qing fell in the **Revolution of 1911**, ending over two thousand
-years of imperial rule; the boy "Last Emperor" Puyi abdicated in 1912. (The dynasty's modern
+catastrophe: the **[[opium-wars|Opium Wars]]** and the "unequal treaties," the devastating
+**[[taiping-rebellion|Taiping]]** and other rebellions, the loss of tributaries and territory,
+and failed [[self-strengthening|self-strengthening]] — the "death throes of empire." The Qing
+fell in the **[[fall-of-the-qing-1911|Revolution of 1911]]**, ending over two thousand years of
+imperial rule; the boy "Last Emperor" Puyi abdicated in 1912. (The dynasty's modern
 crisis and fall are treated in detail by Spence and the Cambridge volumes.)
 
 ## Significance: a conquest dynasty and the "New Qing" debate

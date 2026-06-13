@@ -2336,3 +2336,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 ingest-complete | Eugene Rogan, The Arabs: A History | Total pages created: 5 | Total pages updated: 4 | Sections processed: 2 | CLOSES PHASE C (OTTOMAN/ARAB)
 
 ## 2026-06-13 ingest | John Keay, China: A History (single-pass spine) | Bronze Age–World Wars Era | china/east-asia | Pages created: 5 | Pages updated: 2 | OPENS PHASE D (CHINA)
+
+## 2026-06-13 section | Spence, Search for Modern China | Section: The fall of imperial China (chs 1–11) | Pages created: 3 | Pages updated: 2
