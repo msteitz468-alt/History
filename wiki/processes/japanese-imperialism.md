@@ -8,7 +8,7 @@ region: [japan, east-asia, korea, china, southeast-asia]
 process_type: [political, military, economic, ideological]
 driven_by: [the drive for great-power status & security, resource and market needs, emulation of Western empire, ultranationalism & the kokutai ideology]
 produces: [the colonial empire (Taiwan, Korea, Manchuria), the Greater East Asia Co-Prosperity Sphere, the Pacific War, the postwar independence of Asian colonies]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [process, long-19th-century, world-wars-era, japan, east-asia]
 ---
@@ -36,9 +36,10 @@ bellicose" than the government.
 - **Defining the frontiers (1870s–90s).** The **Taiwan expedition (1874)**; the
   Sakhalin–Kurile exchange with Russia (1875); incorporation of **Okinawa (1879)**; the
   Korea treaty of Kanghwa (1876).
-- **The Sino-Japanese War (1894–95).** Victory over Qing China won **Taiwan** and a large
-  indemnity (Treaty of Shimonoseki); the **Triple Intervention** (Russia, Germany, France)
-  then robbed Japan of its mainland gains — a lasting grievance.
+- **The [[first-sino-japanese-war-1894-1895|Sino-Japanese War (1894–95)]].** Victory over Qing
+  China won **Taiwan** and a large indemnity (Treaty of Shimonoseki); the **Triple
+  Intervention** (Russia, Germany, France) then robbed Japan of its mainland gains — a lasting
+  grievance.
 - **The [[russo-japanese-war-1904|Russo-Japanese War (1904–5)]].** The first defeat of a
   European great power by an Asian state: Japan won Port Arthur, southern Sakhalin, and
   paramountcy in Korea (**annexed 1910**) and southern Manchuria. The **Anglo-Japanese
@@ -50,6 +51,25 @@ bellicose" than the government.
   Manchukuo)**; the **China War from 1937** (the **Rape of Nanking**); the proclamation of
   the **New Order / Co-Prosperity Sphere**; the move into Indochina; and the
   [[pacific-war-1941-1945|Pacific War (1941–45)]].
+
+## Iriye: imperialism as the behavior of a modern state (Cambridge History of Japan Vol. 5)
+
+The [[cambridge-history-japan-v5-nineteenth-century|Cambridge History Vol. 5]] (Akira Iriye,
+ch. 12) deepens the account of the **origins** of this expansion and presses an interpretive
+case. Against a narrowly economic ("Leninist") reading, Iriye argues that **Japanese
+imperialism was the behavior of a modern *state*, not of mature capitalism** — which in the
+1890s was "just getting under way." The driver was the **coalescence of domestic forces**
+toward centralized authority and mass society: Japan expanded "because it was politically and
+militarily equipped to do so and because national opinion firmly supported such action."
+Strikingly, even the [[samurai|Asianist and popular-rights opposition]], hostile to the
+government's Westernizing, fed a **heightened patriotism** that "solidified the basis of the
+Japanese state as it staged its first imperialist ventures." The **[[first-sino-japanese-war-1894-1895|First
+Sino-Japanese War (1894–95)]]** was the hinge: victory and the Treaty of Shimonoseki won
+Taiwan and a vast indemnity (funding the Yawata steel works), ended Chinese suzerainty over
+Korea, and — via the **Triple Intervention's** seizure of the spoils — set Japan on the road
+to the [[russo-japanese-war-1904|war with Russia]]. War and empire then **reinforced the very
+trends** (centralization, industrialization, militarization) that had produced them, while
+breeding new tensions over "the burden as well as the glory of empire."
 
 ## Character and end
 
@@ -70,6 +90,7 @@ with the United States — the collision that produced the Pacific War.
 ## Related
 
 - [[meiji-period]] · [[meiji-restoration-1868]] — the modernization that empowered it.
+- [[first-sino-japanese-war-1894-1895]] — the war that inaugurated the empire.
 - [[russo-japanese-war-1904]] — the breakthrough to great-power status.
 - [[pacific-war-1941-1945]] — its catastrophic climax.
 - [[imperialism]] · [[japan]] — the global process and the homeland.

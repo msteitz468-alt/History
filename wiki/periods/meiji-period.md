@@ -5,7 +5,7 @@ date_range: "1868–1912 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["deliberate modernization & Westernization", "state-led industrialization (the first non-Western industrial revolution)", "the Meiji Constitution & the Diet (1889)", "treaty revision & great-power status", "the end of the samurai class", "the rise of empire (Taiwan, Korea)"]
 collection_coverage: moderate
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -72,6 +72,21 @@ than genuine parliamentary supremacy.
   Iwasaki (Mitsubishi) and Shibusawa.
 - **Emperor Meiji** — the symbol in whose name the transformation was made.
 
+## The conservative reaction (Cambridge History of Japan Vol. 5)
+
+The [[cambridge-history-japan-v5-nineteenth-century|Cambridge History Vol. 5]] (Kenneth Pyle,
+ch. 11) traces a crucial countercurrent: the **conservative reaction against the early-Meiji
+"enlightenment."** As the millennial optimism of *bunmei kaika* faded, conservatives — first
+moralists defending Confucian and national values against wholesale Westernization (Motoda
+Eifu; the **Imperial Rescript on Education, 1890**), then a new **bureaucratic conservatism**
+(Yamagata's local-government and social programs) — built "a powerful conservative orthodoxy"
+by 1900. Pyle stresses the ambivalence this bred: reformers like Tokutomi Sohō abandoned
+liberalism; critics such as Tanaka Shōzō (the **Ashio copper-mine pollution** case) decried
+modern civilization as destroying "moral structures … a thousand years" old; and a stifled
+younger generation turned to despair or radicalism. The conservative settlement — emperor,
+*kokutai*, family-state, and bureaucratic guidance — became the **ideological mold of the
+twentieth-century Japanese state**.
+
 ## Geographic Scope
 
 A unifying nation-state radiating from **Tokyo**, integrated by railway and telegraph;
@@ -96,8 +111,10 @@ tensions of the 20th century.
 
 ## Collection Coverage Note
 
-Covered by the Mason & Caiger spine; to be deepened by the Cambridge History of Japan
-Vol. 5 (the Nineteenth Century).
+Covered by the Mason & Caiger spine and deepened by the
+[[cambridge-history-japan-v5-nineteenth-century|Cambridge History of Japan Vol. 5]] (Beasley
+on the constitution and institutions; Hirakawa on the turn to the West; Pyle on conservatism;
+Iriye on the rise to great-power status).
 
 ## Related
 
@@ -105,5 +122,5 @@ Vol. 5 (the Nineteenth Century).
 - [[meiji-constitution-1889]] · [[ito-hirobumi]] — the constitutional settlement and its architect.
 - [[meiji-modernization]] — the modernization process (bunmei kaika, Iwakura mission).
 - [[industrialization]] — Japan as the first non-Western industrializer.
-- [[japanese-imperialism]] · [[russo-japanese-war-1904]] — the rise of empire.
+- [[japanese-imperialism]] · [[first-sino-japanese-war-1894-1895]] · [[russo-japanese-war-1904]] — the rise of empire.
 - [[edo-period]] · [[pacific-war-1941-1945]] — before and after; [[japan]] — the realm.

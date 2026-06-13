@@ -2299,3 +2299,6 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 section | The Cambridge History of Japan, Vol. 5 (Nineteenth Century) | Section: The Meiji Restoration & the new state (chs 5, 6, 10) | Pages created: 2 | Pages updated: 3
 
 ## 2026-06-13 section | The Cambridge History of Japan, Vol. 5 (Nineteenth Century) | Section: Modernization — society, economy & the turn to the West (chs 7–9) | Pages created: 2 | Pages updated: 1
+
+## 2026-06-13 section | The Cambridge History of Japan, Vol. 5 (Nineteenth Century) | Section: Conservatism & the drive to great-power status (chs 11–12) | Pages created: 1 | Pages updated: 3
+## 2026-06-13 ingest-complete | The Cambridge History of Japan, Vol. 5 (The Nineteenth Century, 1800–1900) | Total pages created: 6 | Total pages updated: 9 | Sections processed: 4

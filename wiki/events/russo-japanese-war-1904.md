@@ -14,7 +14,7 @@ scale_immediate: regional
 scale_consequential: global
 causes: ["Russo-Japanese rivalry over Korea & Manchuria", "Russia's expansion via the trans-Siberian railway", "the failure of negotiations"]
 consequences: ["Japan's emergence as a recognized great power", "the first defeat of a European power by an Asian state", "Japanese control of Korea (annexed 1910) & southern Manchuria", "a contributory cause of the 1905 Russian Revolution"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [event, long-19th-century, japan, east-asia]
 ---
@@ -43,6 +43,11 @@ and Port Arthur and conceded Japan's paramountcy in Korea.
 
 - `caused_by:` **Russo-Japanese rivalry over Korea and Manchuria** as both empires expanded
   into the power vacuum of a weakening China.
+- `caused_by:` the **[[first-sino-japanese-war-1894-1895|Triple Intervention of 1895]]** — by
+  forcing Japan to disgorge the Liaodong peninsula, which Russia then occupied (Port Arthur),
+  the three powers turned Japanese expansionist energy directly against Russia (the revenge
+  slogan *gashin shōtan*). The [[cambridge-history-japan-v5-nineteenth-century|Cambridge
+  History Vol. 5]] (Iriye) treats this as the direct sequel to the Sino-Japanese war.
 - `contributed_to:` the **Anglo-Japanese Alliance** (which kept other powers neutral) and
   the breakdown of negotiations.
 
