@@ -5,7 +5,7 @@ date_range: 1945–1991 CE
 regions_covered: [global, north-america, eastern-europe, western-europe, east-asia, south-asia, africa, latin-america, near-east]
 major_themes: [bipolar superpower rivalry, the Great Acceleration, decolonization, the demographic explosion, the Green Revolution, nuclear danger, multipolar industrialization, development]
 collection_coverage: strong
-sources_ingested: 6
+sources_ingested: 8
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -110,14 +110,19 @@ energy, environment, decolonization, public health). The **political-diplomatic 
 global narrative is now supplied** by **[[westad-cold-war|Westad's *The Cold War: A
 World History*]]** (the conflict as a worldwide contest over modernity, fought largely
 in the decolonizing Global South) and **[[judt-postwar|Judt's *Postwar*]]** (Europe
-since 1945). The **diplomatic-structural backbone is now being supplied directly** by the
-**[[leffler-westad-cold-war-v1|Cambridge History of the Cold War]]** (3 vols, Leffler &
-Westad, eds.) — Vol. I (Origins) ingested 2026-06-13, creating **[[containment]]**,
-**[[marshall-plan-1948]]**, **[[nato]]**, **[[berlin-blockade-1948]]**,
-**[[korean-war-1950]]**, and **[[nuclear-arms-race]]** (Vols II–III to follow, supplying the
-Cuban Missile Crisis, Vietnam, détente, Afghanistan, and 1989). CWH VII **Book 2 remains
-absent from the collection**, but its gap is now covered by Westad, Judt, and the Cambridge
-History of the Cold War.
+since 1945). The **diplomatic-structural backbone is now supplied directly** by the **Cambridge History
+of the Cold War** (3 vols, Leffler & Westad, eds., 2010 — all ingested 2026-06-13:
+[[leffler-westad-cold-war-v1|I Origins]], [[leffler-westad-cold-war-v2|II Crises and
+Détente]], [[leffler-westad-cold-war-v3|III Endings]]). This created the wiki's discrete
+Cold War event/structure pages: **[[containment]]**, the **[[marshall-plan-1948|Marshall
+Plan]]**, **[[nato]]**, the **[[berlin-blockade-1948|Berlin Blockade]]**, the
+**[[korean-war-1950|Korean War]]**, the **[[nuclear-arms-race]]**, the
+**[[cuban-missile-crisis-1962|Cuban Missile Crisis]]**, the **[[vietnam-war|Vietnam War]]**,
+the **[[sino-soviet-split]]**, **[[detente]]**, the
+**[[soviet-war-in-afghanistan-1979|Soviet–Afghan War]]**, and the
+**[[revolutions-of-1989]]** (closing the gaps the period page had flagged). CWH VII **Book 2
+remains absent from the collection**, but its gap is now well covered by Westad, Judt, and
+the Cambridge History of the Cold War.
 
 The **African theatre** of the Cold War is now supplied by the **[[gha-vol8-since-1935|UNESCO General
 History of Africa, Vol. VIII]]** (Section VII): the entanglement of African decolonization and

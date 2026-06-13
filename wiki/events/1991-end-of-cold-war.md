@@ -14,8 +14,8 @@ scale_immediate: global
 scale_consequential: global
 causes: [the structural exhaustion of the Soviet system, the costs of superpower competition, reform and its unintended consequences]
 consequences: [the unipolar moment, the spread of the nation state to the former Soviet space, hyper-globalization, the East Asian ascent]
-sources_ingested: 3
-last_updated: 2026-06-10
+sources_ingested: 4
+last_updated: 2026-06-13
 tags: [event, transition, contemporary]
 ---
 
@@ -27,9 +27,16 @@ tags: [event, transition, contemporary]
 
 ## Narrative
 
-The collapse of communism in Eastern Europe (**1989**) and the dissolution of the
-**Soviet Union (1991)** ended the bipolar order and opened the
-[[contemporary|Contemporary]] period. In [[mcneill-cwh-v7-2015|CWH VII]]'s framing,
+The collapse of communism in Eastern Europe (the **[[revolutions-of-1989|Revolutions of
+1989]]**) and the dissolution of the **Soviet Union (1991)** ended the bipolar order and
+opened the [[contemporary|Contemporary]] period. The diplomatic-political story — narrated in
+the **[[leffler-westad-cold-war-v3|Cambridge History of the Cold War]]** — centres on
+**Mikhail Gorbachev**: his reforms (*perestroika*, *glasnost*), his abandonment of the
+**Brezhnev Doctrine** (letting Eastern Europe go without force), the failure of the
+**[[soviet-war-in-afghanistan-1979|Afghan war]]**, the **reunification of Germany (1990)**,
+and the Soviet collapse (December 1991). The volume stresses the **contingency and speed** of
+this "incredibly swift transition," framing the end less as a Western "victory" by
+[[containment]] than as a transformation driven from within the Soviet system. In [[mcneill-cwh-v7-2015|CWH VII]]'s framing,
 1989–1991 is less a triumph of one ideology than a hinge in the long material story:
 it coincided with the maturing of the post-1970 wave of "**new globalization**"
 (Tyrrell) and the decisive **East Asian ascent** that was recentering the world
@@ -67,5 +74,6 @@ simple American "victory") and **[[judt-postwar|Judt's *Postwar*]]** on 1989 in 
 
 ## Related pages
 
-[[cold-war]] · [[westad-cold-war]] · [[contemporary]] · [[nationalism]] · [[east-asia-modern]] ·
-[[great-divergence]] · [[great-acceleration]] · [[1945-postwar-order]]
+[[cold-war]] · [[revolutions-of-1989]] · [[soviet-war-in-afghanistan-1979]] · [[detente]] ·
+[[westad-cold-war]] · [[leffler-westad-cold-war-v3]] · [[contemporary]] · [[nationalism]] ·
+[[east-asia-modern]] · [[great-divergence]] · [[great-acceleration]] · [[1945-postwar-order]]

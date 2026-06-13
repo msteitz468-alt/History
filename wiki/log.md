@@ -2370,3 +2370,6 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 section | Cambridge History of the Cold War | Vol. I: Origins (Leffler & Westad, eds., 2010) | Cold War | global | Pages created: 6 | Pages updated: 1
 
 ## 2026-06-13 section | Cambridge History of the Cold War | Vol. II: Crises and Détente (2010) | Cold War | global | Pages created: 5 | Pages updated: 0
+
+## 2026-06-13 section | Cambridge History of the Cold War | Vol. III: Endings (2010) | Cold War | global | Pages created: 3 | Pages updated: 2
+## 2026-06-13 ingest-complete | The Cambridge History of the Cold War, Vols I–III (Leffler & Westad, eds., 2010) | Total pages created: 15 | Total pages updated: 2 | Sections processed: 3 | fills the Cold War gap
