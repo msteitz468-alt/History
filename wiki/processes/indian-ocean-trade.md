@@ -8,7 +8,7 @@ region: [indian-ocean, south-asia, southeast-asia, near-east, arabian-peninsula,
 process_type: economic
 driven_by: ["the monsoon wind system", "local fishing and sailing communities", "Hindu, Muslim, Buddhist, and Jewish merchant institutions", "South Indian merchant guilds", "the demand of the Chinese and Islamic 'engines'", [[afro-eurasian-world-system]]]
 produces: ["a poly-religious maritime trading world", "the Islamization of coastal Southeast Asia and East Africa", "the Swahili and Gujarati port cities", "cross-cultural transmission of goods, faiths, and ideas"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [process, early-middle-ages, high-middle-ages, late-middle-ages, early-modern, indian-ocean]
 ---
@@ -115,6 +115,22 @@ around it, and even small South Indian states curbed European ambitions. The
 ocean's integration into a global economy ran above all on **silver** flowing
 east (see [[global-silver-trade]]). This is the maritime arena of
 [[early-modern-commerce]] and of the [[english-east-india-company|EIC]] and VOC.
+
+## The Southeast Asian terminus: the entrepôt network (Reid)
+
+Anthony Reid's [[reid-southeast-asia-age-of-commerce-v2-1993|*Age of Commerce*]] fleshes out the
+**eastern terminus** of this world. The same monsoon system that governed the western ocean dictated that
+ships could not cross the whole Cairo-to-Canton route in one season, so a chain of
+[[southeast-asian-port-polity|entrepôts]] arose at the **intersection of the monsoonal sectors** — above
+all the **Straits of Malacca** — where Gujarati, Tamil, Arab, Chinese, and Japanese shippers met to
+exchange cargoes and await the change of winds. A succession held the role — [[funan|Funan's]] Oc Eo,
+then Champa and Srivijaya, then fifteenth-century Pasai and **[[melaka|Melaka]]** — until the Portuguese
+seizure of Melaka (1511) *dispersed* the trade to Aceh, Banten, Patani, Johor, Ayutthaya, and Makassar,
+and finally the VOC concentrated it at **Batavia** (c. 1650). Reid's wider argument is that the
+**[[southeast-asian-age-of-commerce|age of commerce]]** (c. 1400–1650) marked an unusually intense phase
+of this ancient trade, in which Southeast Asia supplied the high-value spices (cloves, nutmeg, pepper)
+that Braudel saw as essential to early merchant capitalism, fed by a flood of New World and Japanese
+**silver**.
 
 ## Related
 

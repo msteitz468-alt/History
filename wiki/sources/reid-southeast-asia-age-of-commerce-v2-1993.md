@@ -19,8 +19,8 @@ reliability_notes: >
   gives Southeast Asia its place in the global **seventeenth-century crisis** debate. Field-defining and
   authoritative, though its boom-crisis model and unitary "crisis" have been qualified by later work
   (esp. Lieberman's mainland *Strange Parallels*).
-pages_created: 0
-pages_updated: 1
+pages_created: 2
+pages_updated: 2
 ingested: 2026-06-12
 tags: [source]
 ---
