@@ -8,13 +8,22 @@ region: [north-africa, iberia, west-africa]
 affiliated_with: ["the Sanhaja Berber confederation", "the Maliki ulama of Morocco and al-Andalus"]
 opposed_by: [[[christian-kingdoms-of-spain|León-Castile]], [[el-cid|El Cid]], [[almohads|the Almohads]]]
 key_events: ["Battle of Sagrajas/Zallaqa (1086)", "the annexation of the taifa kingdoms", "the founding of Marrakesh (c. 1070)"]
-key_processes: [[[reconquista]]]
-sources_ingested: 1
+key_processes: [[[reconquista]], [[islamization-of-africa]], [[trans-saharan-trade]]]
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, dynasty, high-middle-ages, north-africa, iberia]
 ---
 
 # The Almoravids (al-Murabitun)
+
+> **African-context note (GHA III).** The UNESCO [[gha-vol3-7th-11th-century|General History of Africa,
+> Vol. III]] (ch. 13, Hrbek & Devisse) frames the Almoravids as a **Saharan Berber (Sanhaja) religious
+> movement** that arose among the desert nomads who controlled the western [[trans-saharan-trade|trans-
+> Saharan trade]] — a reforming jihad that unified the Maghrib and al-Andalus *and* projected power south
+> into the Sahel, traditionally credited (though now debated) with the conquest of the [[ghana-empire|empire
+> of Ghana]]'s capital c. 1076. They are the western counterpart to the [[fatimid-caliphate|Fatimids]]: a
+> Berber empire born of the desert and the gold trade — the [[islamization-of-africa|Islamization of
+> Africa]] turning back northward.
 
 The **Almoravids** (Arabic *al-murabitun*, "those who bind themselves together" in
 defence of the faith) were a Berber religious-military movement that built an empire
