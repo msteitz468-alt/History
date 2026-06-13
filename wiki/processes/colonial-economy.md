@@ -8,7 +8,7 @@ region: [north-africa, west-africa, central-africa, east-africa, southern-africa
 process_type: [economic]
 driven_by: [European demand for raw materials, the imperative that colonies pay for themselves, settler and company interests, the colonial state's coercive power over land and labour]
 produces: [cash-crop and extractive export economies, forced and migrant labour systems, infrastructure geared to export, the "development of underdevelopment", post-colonial dependency]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [process, world-wars-era, africa]
 ---
@@ -53,8 +53,17 @@ underdevelopment"** — the structural foundation of post-colonial economic depe
 historians also note African **agency** within the colonial economy (peasant cash-croppers, migrant
 workers, traders) and real, if uneven, growth.
 
+## Continuity into independence: neo-colonialism (GHA VIII)
+
+The **UNESCO [[gha-vol8-since-1935|General History of Africa, Vol. VIII]]** (Sections III–IV) shows the
+colonial economy's **structures outliving colonial rule**: the new states inherited export-dependent,
+externally-controlled economies, so that political independence did not bring economic independence —
+**Nkrumah's "neo-colonialism"** (see [[post-colonial-africa]]). The "development of underdevelopment"
+thesis (Coquery-Vidrovitch in the volume; Rodney) treats the colonial economy as the direct origin of
+Africa's post-colonial dependence and the 1980s debt crisis.
+
 ## Related pages
 
-[[gha-vol7-colonial-1880-1935]] · [[imperialism]] · [[southern-african-mineral-revolution]] ·
-[[congo-free-state]] · [[late-victorian-famines-1876]] · [[impact-of-atlantic-slave-trade-on-africa]] ·
-[[decolonization]] · [[sub-saharan-africa]]
+[[gha-vol7-colonial-1880-1935]] · [[gha-vol8-since-1935]] · [[post-colonial-africa]] · [[imperialism]] ·
+[[southern-african-mineral-revolution]] · [[congo-free-state]] · [[late-victorian-famines-1876]] ·
+[[impact-of-atlantic-slave-trade-on-africa]] · [[decolonization]] · [[sub-saharan-africa]]
