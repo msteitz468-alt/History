@@ -9,7 +9,7 @@ affiliated_with: [the Merina people, Britain (missionaries and advisers, early 1
 opposed_by: [the coastal Malagasy kingdoms (Sakalava, Betsimisaraka), ultimately France]
 key_events: [the unification of Imerina, the conquests of Radama I, the reaction under Ranavalona I, the Christianization and modernization under later monarchs, the French conquest (1895–96)]
 key_processes: [state-formation, Christianization, defensive modernization]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, long-19th-century, madagascar, east-africa]
 ---
@@ -51,7 +51,11 @@ centralized Malagasy monarchy that unified the island, engaged Christianity and 
 own terms, and resisted (ultimately unsuccessfully) the colonial conquest, paralleling the
 self-strengthening projects of Egypt and Ethiopia.
 
+> **GHA VII note.** The [[gha-vol7-colonial-1880-1935|General History of Africa, Vol. VII]] (ch. 9) covers
+> Madagascar's **resistance and reaction to the French conquest** (1895–96) and the subsequent risings (the
+> *menalamba* revolt) and nationalist stirrings under colonial rule, 1896–1935.
+
 ## Related pages
 
-[[gha-vol6-19th-century]] · [[muhammad-ali-egypt]] · [[solomonic-ethiopia]] · [[swahili-coast]] ·
-[[imperialism]] · [[sub-saharan-africa]]
+[[gha-vol6-19th-century]] · [[gha-vol7-colonial-1880-1935]] · [[muhammad-ali-egypt]] · [[solomonic-ethiopia]] ·
+[[liberia]] · [[swahili-coast]] · [[imperialism]] · [[sub-saharan-africa]]
