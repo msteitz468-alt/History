@@ -23,6 +23,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. III (7th–11th c.) | Section: Islam and Africa — framework (chs. 1–4) | Pages created: 1 | Pages updated: 1 | (islamization-of-africa; enriched islam)
 
+## 2026-06-12 section | GHA Vol. IV (12th–16th c.) | Section: The central & western Sudan (chs. 9–14) | Pages created: 1 | Pages updated: 1 | (hausa-city-states; enriched kanem-bornu)
+
 ## 2026-06-12 section | GHA Vol. IV (12th–16th c.) | Section: Mali and Songhay (chs. 6–8) | Pages created: 0 | Pages updated: 2 | (songhay-empire — Sonni Ali, Askias, Tondibi; mali-empire — apogee & decline)
 
 ## 2026-06-12 section | GHA Vol. IV (12th–16th c.) | Section: The Maghrib — Almohads & after (chs. 2–5) | Pages created: 0 | Pages updated: 1 | (almohads — African/Maghribi view, gold trade)

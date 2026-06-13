@@ -9,7 +9,7 @@ affiliated_with: [the Zaghawa/Kanembu, the Sefuwa (Sayfawa) dynasty, Islam, the 
 opposed_by: [the Sao peoples, the Bulala, later Bornu's rivals]
 key_events: [the founding of the Sefuwa dynasty, the conversion of Mai Umme (late 11th c.), the shift of the capital from Kanem to Bornu (14th–15th c.), the apogee under Mai Idris Alooma (late 16th c.)]
 key_processes: [[[trans-saharan-trade]], [[islamization-of-africa]], [[empire]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, empire, early-middle-ages, west-africa]
 ---
@@ -54,7 +54,14 @@ Kanem-Bornu is the **longest-lived state in African history** and the central Af
 trans-Saharan system — proof that the Sahelian "empire of trade and Islam" pattern ran the full width of
 the Sudan, not only in the gold-rich west.
 
+> **GHA IV note.** The [[gha-vol4-12th-16th-century|General History of Africa, Vol. IV]] (ch. 10, Lange)
+> covers exactly the period of the **Sefuwa shift from Kanem to Bornu** under Bulala pressure (14th–15th c.)
+> and Bornu's re-consolidation — the hinge between the Kanem and Bornu phases of the dynasty. The
+> contemporary **[[hausa-city-states|Hausa city-states]]** to the west were partly shaped by Bornu's
+> influence on their kingship.
+
 ## Related pages
 
-[[gha-vol3-7th-11th-century]] · [[trans-saharan-trade]] · [[islamization-of-africa]] · [[ghana-empire]] ·
-[[mali-empire]] · [[sub-saharan-africa]] · [[sahara]]
+[[gha-vol3-7th-11th-century]] · [[gha-vol4-12th-16th-century]] · [[hausa-city-states]] ·
+[[trans-saharan-trade]] · [[islamization-of-africa]] · [[ghana-empire]] · [[mali-empire]] ·
+[[sub-saharan-africa]] · [[sahara]]
