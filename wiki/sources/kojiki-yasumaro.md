@@ -15,7 +15,7 @@ reliability_notes: >
   preserves the earliest Japanese verse and is a work of literary art. Original language: an idiosyncratic
   Sino-Japanese script. Translation: Gustav Heldt.
 pages_created: 1
-pages_updated: 2
+pages_updated: 3
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -49,6 +49,28 @@ identity. Its myths — Amaterasu, the imperial regalia, the divine descent of t
 Japanese culture, art and politics ever since, including the modern ideology of imperial Japan (and,
 through revival, postwar culture). With the slightly later *Nihon Shoki* (720), it is the primary source
 for **early Japan and its religion**.
+
+## Japanese historical consciousness (Cambridge History of Japan)
+
+Delmer Brown's chapter on "the early evolution of historical consciousness" in the
+[[cambridge-history-japan-v1-ancient|Cambridge History of Japan]] reads the Kojiki and *Nihon
+Shoki* as expressing **three characteristics** of the early Japanese historical outlook, each
+in tension with an imported (Chinese/Buddhist) opposite:
+
+- **Linealism** — a belief in the **sacred, unbroken descent** of the ruling line (genealogy
+  as history), against the Chinese idea of a **cyclical rise and fall of dynasties**.
+- **Vitalism** — a preoccupation with the **life-creating power of the [[shinto|kami]]** and
+  the enrichment of physical life, against the Confucian principle that history turns on
+  **virtuous vs. unvirtuous conduct**.
+- **Optimism** — a conviction that the **future will be better** than the present, against
+  Buddhist doctrines of inevitable decline (***mappō***) and the Confucian "golden age of
+  antiquity."
+
+Brown argues these emerged from "prehistorical" belief (the Yayoi seasonal/agrarian cycle
+giving way, in the Burial-Mound period, to a **linear** concern with the succession of
+hereditary rulers) and account for the distinctiveness of the Japanese historical outlook —
+the chronicles being, above all, instruments of the [[ritsuryo-state|ritsuryō state's]]
+sacred-imperial legitimation.
 
 ## Pages Created / Updated
 

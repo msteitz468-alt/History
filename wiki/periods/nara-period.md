@@ -5,7 +5,7 @@ date_range: "710–794 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the mature Chinese-modeled centralized imperial state", "the Taihō legal codes", "state Buddhism (Tōdaiji & the provincial temple system)", "the first national histories & poetry", "continental cultural borrowing"]
 collection_coverage: moderate
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -85,6 +85,20 @@ doctrine, not from early Shintō. The Nara cultural legacy — the great monaste
 (Hōryūji, Tōdaiji), and the cosmopolitan treasures of the **Shōsōin** (textiles,
 instruments, and goods from across Asia to Persia) — embodies this absorption of continental
 high culture.
+
+## Society, economy, and the early shōen (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v1-ancient|Cambridge History]] (Torao, ch. 8) shows the
+[[ritsuryo-state|ritsuryō]] land system already being undermined **within** the Nara period
+by the **early shōen (manor)**. The well-documented **Kuwabara-shō** in Echizen — bought by
+**Tōdaiji's** Construction Office in 754 and built up by reclaiming virgin land with **wage
+labor** (not slaves) under local-gentry managers backed by capital-temple patronage — shows
+how great temples and aristocrats acquired private, productive estates even "at a time when
+all people and land had been placed, in theory, under governmental control." These
+proprietorships, sanctioned by the very government whose handen system they eroded, are the
+seed of the [[heian-period|Heian shōen]] economy. (Brown, ch. 10, also reads the Nara
+chronicles for the [[kojiki-yasumaro|linealism/vitalism/optimism]] of early Japanese
+historical consciousness.)
 
 ## Historiography
 

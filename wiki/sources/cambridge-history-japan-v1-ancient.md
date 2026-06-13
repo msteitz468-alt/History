@@ -20,7 +20,7 @@ reliability_notes: >
   via the **Large-Volume Protocol** (~29,200 lines, Introduction + 10 chapters → 4 cycles).
   Emphasis: **deepen the existing ancient-Japan spine pages** and add discrete-topic pages.
 pages_created: 1
-pages_updated: 7
+pages_updated: 9
 ingested: 2026-06-13
 tags: [source]
 ---
@@ -41,11 +41,38 @@ scholarship, and to add discrete-topic pages.
 | 1. Prehistory & the Yamato kingdom ✅ | Intro + chs 1–2 (earliest societies — Jōmon/Yayoi; the Yamato kingdom) | Behavioral Modernity → Late Antiquity | **Enriched** [[early-agriculture-japan]] (Yayoi archaeology — rice from the Yangtze delta, Jōmon/Yayoi coexistence revision), [[yamato-japan]] (the Korean connection — the seven-pronged sword, iron trade, the Mimana-colony revisionism) |
 | 2. The reform century & the Nara state ✅ | chs 3–4 (Asuka enlightenment, the Great Reforms, the imperial state; the Nara state) | Late Antiquity → Early Middle Ages | **Created** `ritsuryo-state` (the Chinese-modeled legal-bureaucratic state — ritsu/ryō codes, Taihō 701, Temmu's kabane nobility, handen/soyōchō); **enriched** [[taika-reform-645]] (Four-Article Edict & authenticity debate), [[nara-period]], [[shotoku-taishi]] |
 | 3. The continent, kami & Buddha worship ✅ | chs 5–7 (Japan & the continent — Korea/Yamatai; early kami worship; early Buddha worship) | Late Antiquity → Early Middle Ages | **Enriched** [[shinto]] (Matsumae — prehistoric roots & pan-Asian/Pacific elements; the 5-part cosmos; Jōmon dogū & marebito; Yayoi shamanism), [[japanese-buddhism]] (Sonoda — "ritsuryō Buddhism" / state Buddhism on the Tang/Silla model). *(The continent/Korea ch. 5 was folded into the Cycle-1 yamato-japan enrichment.)* |
-| 4. Nara society, culture & historical consciousness + synthesis | chs 8–10 (Nara economic & social institutions; Asuka–Nara culture; the evolution of historical consciousness) | Early Middle Ages | **Enrich** [[nara-period]] (shōen, land tenure, literacy), [[kojiki-yasumaro]] (the chronicles & historical consciousness — linealism/vitalism/optimism). Then synthesis. |
+| 4. Nara society, culture & historical consciousness + synthesis ✅ | chs 8–10 (Nara economic & social institutions; Asuka–Nara culture; the evolution of historical consciousness) | Early Middle Ages | **Enriched** [[nara-period]] (the early shōen — Tōdaiji's Kuwabara-shō, 754 — eroding the ritsuryō land system) and [[kojiki-yasumaro]] (Brown's linealism/vitalism/optimism). Synthesis complete. |
 
 (Chapter groupings follow thematic divisions; the emphasis throughout is **enriching the
 existing spine** with Cambridge authority, plus a few discrete-topic creations.)
 
 ## Volume Synthesis Note
 
-*(to be written in the Step 3 cross-section synthesis pass)*
+CHJ Vol. 1 did for the wiki's **ancient Japan** what a Cambridge reference volume should: it
+**deepened, corrected, and put scholarly authority behind** the spine that Mason, Sansom, and
+the Kojiki/Genji primaries had built — creating only one new page ([[ritsuryo-state]]) and
+instead enriching eight existing ones. Its hallmark is the **holistic, interdisciplinary
+method** (Brown's introduction): reading archaeology, textual criticism, and comparative study
+*together*, and treating the [[kojiki-yasumaro|Kojiki/Nihon Shoki]] as ideologically shaped
+documents rather than transparent records.
+
+Several through-lines tie the volume to the wiki. (1) **A less indigenous, more continental
+ancient Japan**: wet rice traced to the [[early-agriculture-japan|Yangtze delta]];
+[[shinto|Shintō's]] cosmos blending north-Asian shamanism with Pacific motifs;
+[[japanese-buddhism|"ritsuryō Buddhism"]] modeled on Tang and Silla; and the
+[[yamato-japan|Yamato-Korea]] iron-and-diplomacy nexus — with the pointed **revision** of the
+old nationalist "Mimana colony" claim. (2) **The making of the [[ritsuryo-state|ritsuryō
+state]]** as the organizing thread from [[shotoku-taishi|Shōtoku's]] 604 Injunctions through
+the [[taika-reform-645|Taika]] Four-Article Edict (646) and Temmu's consolidation to the
+Taihō code (701) — and its erosion, **already in the [[nara-period|Nara]] period**, by the
+early [[heian-period|shōen]]. (3) The **distinctiveness of early Japanese historical
+consciousness** (Brown's linealism/vitalism/optimism), which explains *why* the sacred,
+unbroken imperial line — the wiki's recurring Japanese motif — became the axis of the
+country's self-understanding, against Chinese cyclical and Buddhist declinist time.
+
+Where it touches other volumes it reinforces and refines: it gives Mason's political spine its
+deep archaeological and legal underpinning, supplies the *ritsuryō* concept that Mason and
+Sansom assumed, and grounds the [[shinto]] and [[japanese-buddhism]] pages (and the
+[[tang-dynasty|East Asian]] context) in current scholarship. It is the authoritative base for
+ancient Japan; the medieval, early-modern, and modern Cambridge volumes (3–6) remain to give
+the later periods the same depth.

@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-13 (**The Cambridge History of Japan, Vol. 1: Ancient Japan (Brown ed., 1993)** — LARGE-VOLUME **INGEST COMPLETE** (4 cycles + synthesis). The wiki's first **Cambridge reference volume on Japan** — the authoritative, interdisciplinary deepening of the ancient-Japan spine. By design created 1 page — **[[ritsuryo-state]]** (the Chinese-modeled legal-bureaucratic state: *ritsu/ryō* codes, Taihō 701, Temmu's kabane nobility, handen land & soyōchō taxes) — and deepened 8: **[[early-agriculture-japan]]** (rice from the Yangtze delta; Jōmon/Yayoi coexistence), **[[yamato-japan]]** (the Korea iron nexus; the seven-pronged sword; the **Mimana-colony revisionism**), **[[taika-reform-645]]** (the Four-Article Edict & authenticity debate), **[[nara-period]]** (the early shōen eroding the ritsuryō system), **[[shotoku-taishi]]**, **[[shinto]]** (pan-Asian/Pacific roots; the 5-part cosmos), **[[japanese-buddhism]]** (ritsuryō/state Buddhism on the Tang/Silla model), **[[kojiki-yasumaro]]** (Brown's linealism/vitalism/optimism). Theme: a **less indigenous, more continental** ancient Japan; the making of the *ritsuryō* state (Shōtoku 604 → Taika 646 → Taihō 701); and why the sacred imperial line anchors Japanese historical consciousness. Filed to `raw/4. Modern Times/`. **Phase B (Japan) remaining: CHJ Vols 3 (Medieval), 4 (Early Modern), 5 (19th c.), 6 (20th c.) + New CHJ 2.**)
+
 Last updated: 2026-06-13 (**The Tale of Genji (Murasaki Shikibu, c. 1001–1020; trans. Arthur Waley)** — INGEST COMPLETE (standard single-pass, **primary source**). The central literary primary for Heian Japan, read after the Mason+Sansom cultural framing. Created **[[murasaki-shikibu]]** (the Heian court lady, author of the Genji & a famous *Diary*) and **[[tale-of-genji]]** (the 54-chapter romance of Prince Genji "the Shining One" — the **world's first psychological novel**; *mono no aware* & impermanence; the kana women's literature; its millennium-long afterlife). Source page **[[waley-tale-of-genji]]** records the classical-Japanese original & Waley's free, abridging translation. Enriched **[[heian-court-culture]]** and **[[heian-period]]** (the supreme monument of Heian culture now ingested directly). **Phase B (Japan) remaining: the Cambridge History of Japan vols (1, 3–6) + New CHJ 2.**)
 
 Last updated: 2026-06-13 (**A Short Cultural History of Japan (G. B. Sansom, 1931/1952)** — LARGE-VOLUME **INGEST COMPLETE** (4 cycles + synthesis). The **cultural-depth complement** to the Mason political spine for Phase B (Japan); by design it created few new pages and instead deepened the period & religion pages. Created 3: **[[heian-court-culture]]** (the classical age — calligraphy, kana, *Genji*, *yamato-e*, *mono no aware*), **[[genroku-culture]]** (the chōnin "Floating World" — ukiyo, Kabuki, the print), **[[tokugawa-intellectual-life]]** (Neo-Confucianism, *kokugaku*, *rangaku* → the intellectual prehistory of the Meiji Restoration). Enriched 10: **[[shinto]]** (the indigenous cult — "a religion of love and gratitude"; Dual Shintō), **[[japanese-buddhism]]** (esoteric Tendai/Shingon & Amidism), **[[zen-buddhism]]** (Zen as the dominant culture of the warrior age — the Gozan), **[[nara-period]]**, **[[heian-period]]**, **[[kamakura-period]]**, **[[muromachi-period]]**, **[[edo-period]]**, **[[sakoku]]**, **[[fujiwara-clan]]**. Sansom's thesis sharpens Mason's: the *friction* of assimilation ("outward form rather than inward significance") punctuated by native breakthroughs (Heian & Genroku); the Buddhist imprint of immanence & transience on Japanese aesthetics. Filed to `raw/4. Modern Times/`. **With Mason + Sansom the Japan gap is well filled (political spine + cultural body, prehistory→1867); remaining Japan depth = The Tale of Genji + the Cambridge History of Japan vols.**)
@@ -471,7 +473,7 @@ creation order with a one-line description.
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **Tale of Genji (Waley)** ingest
+Counts reflect actual files on disk as of the **Cambridge History of Japan Vol. 1** ingest
 (recounted from disk — the prior table had drifted well below the true totals). Recent volumes'
 detailed new/updated pages are catalogued in their source pages and `log.md`.
 
@@ -482,10 +484,10 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 | Processes | 142 |
 | Actors | 531 |
 | Places | 120 |
-| Concepts | 275 |
+| Concepts | 276 |
 | Comparisons | 1 |
 | Controversies | 50 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 132 |
-| **Total** | **1514** |
+| Sources | 133 |
+| **Total** | **1516** |
