@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: regional
 causes: [[[impact-of-atlantic-slave-trade-on-africa|Delagoa Bay slave-raiding]], Cape-frontier labour-raiding, competition for resources and drought, Zulu state expansion (traditional view)]
 consequences: [the consolidation of the Zulu, Sotho, Swazi and Ndebele states, depopulation of parts of the Highveld, a contested "empty land" narrative later used by apartheid ideology]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [event, long-19th-century, southern-africa]
 ---
@@ -63,8 +63,17 @@ reframing that Reader endorses while not erasing Zulu agency. The episode is a p
 **historiography serves politics** — the "empty land" myth underwrote both settler land claims and
 apartheid.
 
+The **standard view this revisionism reacted against** is well represented by the **UNESCO
+[[gha-vol6-19th-century|General History of Africa, Vol. VI]]** (ch. 5, Ngcongco, 1989), which — in the
+**Omer-Cooper "Zulu aftermath" tradition** — treats the Mfecane as a genuine **African revolution in
+state-formation**: an internally-generated process of military and political innovation (the Zulu
+*amabutho* regimental system) that, for all its violence, **built new and larger states** (Sotho, Swazi,
+Ndebele, Gaza, Kololo) across southern and central Africa. Reader (1997), following Cobbing, contests this
+internal-revolution framing; GHA VI exemplifies the position it argues against — which is exactly why the
+debate remains live.
+
 ## Related pages
 
-[[reader-africa-biography]] · [[sub-saharan-africa]] · [[cape-colony]] ·
+[[reader-africa-biography]] · [[gha-vol6-19th-century]] · [[sub-saharan-africa]] · [[cape-colony]] ·
 [[impact-of-atlantic-slave-trade-on-africa]] · [[atlantic-slave-trade]] ·
 [[southern-african-mineral-revolution]] · [[scramble-for-africa]]

@@ -7,7 +7,7 @@ period_active: [Early Modern, Age of Expansion, Long 19th Century]
 controlled_by: [Dutch East India Company (1652–1795), Britain (1795–1803, 1806–1910)]
 events_here: [Dutch settlement (1652), Khoisan war (1659), frontier wars with the Xhosa (from 1779), British conquest (1806), the mineral revolution (from 1867)]
 processes_here: [[[atlantic-slave-trade|slavery]], settler colonialism, the Cape frontier, [[southern-african-mineral-revolution|mineral revolution]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [place, southern-africa, sub-saharan-africa, early-modern]
 ---
@@ -57,6 +57,12 @@ Its frontier turmoil also fed, and was fed by, the upheavals of the **[[mfecane|
 > treats the **early Cape** within a continent-wide southern African frame — the indigenous **Khoisan** and
 > Bantu-speaking societies whose world the 1652 Dutch settlement began to disrupt — rather than as a
 > European story, emphasizing African societies *before* and *during* the first century of settler intrusion.
+>
+> **GHA VI note.** The [[gha-vol6-19th-century|General History of Africa, Vol. VI]] (chs. 6–7) covers the
+> nineteenth-century crisis: the impact of the **[[mfecane|Mfecane]]** on the frontier, the British
+> abolition of slavery (1834) and the resulting **Great Trek** (1836–40) of Boers into the interior — the
+> founding of the Boer republics — and the three-way contest of **British, Boers and Africans** that
+> reshaped South Africa before the mineral revolution.
 
 ## Related pages
 

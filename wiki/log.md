@@ -47,6 +47,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. V (16th–18th c.) | Section: The slave trade & the Atlantic order (chs. 1–5) | Pages created: 0 | Pages updated: 2 | (atlantic-slave-trade, impact-of-atlantic-slave-trade-on-africa — Inikori/Rodney underdevelopment thesis)
 
+## 2026-06-12 section | GHA Vol. VI (19th c.) | Section: The Mfecane & Southern Africa (chs. 5–8) | Pages created: 0 | Pages updated: 2 | (mfecane — Ngcongco/Omer-Cooper view added to controversy; cape-colony — Great Trek)
+
 ## 2026-06-12 section | GHA Vol. VI (19th c.) | Section: The 19th-c. setting & abolition (chs. 1–4) | Pages created: 0 | Pages updated: 1 | (atlantic-slave-trade — abolition & legitimate commerce)
 
 ## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. V: Africa from the Sixteenth to the Eighteenth Century (B. A. Ogot ed., 1992) | Total pages created: 7 | Total pages updated: 8 | Sections processed: 6 (+ synthesis). Filed to raw/4. Modern Times/. Gap 2 early-modern reference (the Atlantic-trade era states).
