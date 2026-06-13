@@ -20,8 +20,8 @@ reliability_notes: >
   fresh-angle discrete pages** (the *kinsei*/early-modernity debate, the Tokugawa status order,
   the Ryukyu/Hokkaido peripheries, environmental history) and **deepen the existing
   early-modern spine**. The final source of **Phase B (Japan)**.
-pages_created: 0
-pages_updated: 0
+pages_created: 4
+pages_updated: 8
 ingested: 2026-06-13
 tags: [source]
 ---
@@ -48,8 +48,41 @@ global circuits.
 |---|---|---|---|
 | 1. The character of the early modern state ✅ | Intro + Part I (chs 1–6: end of civil war & state formation; mature-state politics 1650–1830; regional authority; Tokugawa philosophy; foreign relations & coastal defense; the Meiji Restoration) | Early Modern, Long 19th Century | **Created** [[kinsei-early-modernity]] (Howell's genealogy of "early modern"/*kinsei*; *kinsei* ≠ feudalism; the periodization debate). **Enriched** [[sakoku]] (Hellyer's "four gates" — foreign relations not closure), [[edo-period]] (regional authority/mature-state politics; the early-modern reframing), [[azuchi-momoyama-period]] (Pitelka — end of civil war → early-modern state) |
 | 2. Economy, environment, and technology ✅ | Part II (chs 7–12: international economy; the Tokugawa economy; environmental history; science; Western knowledge; military reform) | Early Modern, Long 19th Century | **Created** [[japanese-environmental-history]] (Walker's Pacific context — marine-fertilizer metabolism, deforestation, famine, the Meiji turn from conformity to control). **Enriched** [[tokugawa-economy]] (Komuro & Gramlich-Oka on rulers/producers/consumers; the ecological base), [[tokugawa-intellectual-life]] (Marcon's socio-historical philosophy; Frumer's scientific communities; Hsiung on Western knowledge) |
-| 3. Social practices and cultures + synthesis | Part III (chs 13–21: religion; the medical revolution; print culture; labor & migration; the status order; Ryukyu & Hokkaido; the early modern city; popular movements; civilization & enlightenment) | Early Modern, Long 19th Century | **Create** [[tokugawa-status-order]] (concept — *mibun*; Ehlers) and [[ryukyu-kingdom]] (place — the peripheries: Ryukyu & Ainu/Hokkaido; Howell). **Enrich** [[christianity-in-japan]] (religion — Teeuwen), [[chonin-culture]] (print culture — Nenzi; the city — Gaubatz; popular movements — Walthall), [[meiji-modernization]] (civilization & enlightenment — Ghadimi). Synthesis pass + Volume Synthesis Note. |
+| 3. Social practices and cultures + synthesis ✅ | Part III (chs 13–21: religion; the medical revolution; print culture; labor & migration; the status order; Ryukyu & Hokkaido; the early modern city; popular movements; civilization & enlightenment) | Early Modern, Long 19th Century | **Created** [[tokugawa-status-order]] (*mibun* — beyond the four classes; reciprocity; the Meiji dissolution — Ehlers) and [[ryukyu-kingdom]] (the Ryukyu & Hokkaido/Ainu peripheries; graduated sovereignty — Howell). **Enriched** [[chonin-culture]] (Nenzi/Gaubatz/Walthall — print, the city, popular protest), [[meiji-modernization]] (Ghadimi — civilization & enlightenment reconsidered), [[christianity-in-japan]] (Teeuwen — the wider religious settlement). Synthesis complete. |
 
 (Section boundaries follow the volume's three explicit Parts, as the Large-Volume Protocol
 prescribes for Cambridge volumes; emphasis is **fresh-angle creations + spine deepening**,
 since the narrative backbone is already in place from CHJ Vols 3–5.)
+
+## Volume Synthesis Note
+
+This volume **closed Phase B (Japan)** — the final source of the Japan campaign. As a
+*thematic* New Cambridge History rather than a narrative backbone, its job was not to re-tell
+the early-modern story (already deep from CHJ Vols 3–5) but to **reframe it through current
+scholarship and fresh angles**: it created four discrete-topic pages
+([[kinsei-early-modernity]], [[japanese-environmental-history]], [[tokugawa-status-order]],
+[[ryukyu-kingdom]]) and deepened eight existing ones.
+
+Its organizing argument is **Howell's "genealogies of early modernity"**: that Japanese
+*kinsei* is not a Eurocentric imposition but a periodization with an **independent, even
+older, East Asian pedigree**, and that *kinsei* "has nothing to do with feudalism" —
+overturning the older [[cambridge-history-japan-v4-early-modern|CHJ Vol. 4]] framing of
+Japanese early modernity as "more feudal than modern." The volume accordingly treats Tokugawa
+Japan **on its own terms and within Asian/global circuits**, and several chapters converge on
+that revisionism: Hellyer recasts [[sakoku|"seclusion"]] as a **four-gate foreign-relations
+system** of graduated sovereignty (with [[ryukyu-kingdom|Ryukyu and Hokkaido]] as its
+ambiguous edges); Walker reads the [[tokugawa-economy|economy]] through its **Pacific
+ecological metabolism** and the Meiji turn from conformity to **control over nature**; Ehlers
+replaces the four-class cliché with a **reciprocal status order** (*mibun*); and Frumer, Hsiung,
+and Marcon recover Japanese **science, philosophy, and the handling of Western knowledge** as
+active local enterprises. Throughout runs a **continuity** thesis — that Meiji "civilization
+and enlightenment" (Ghadimi) grew out of the literate, print-saturated, plural society of late
+[[tokugawa-intellectual-life|Tokugawa Japan]], not from a blank slate.
+
+Where it touches the rest of the wiki it **refines rather than rebuilds**: it adds the
+historiographical self-awareness ([[kinsei-early-modernity]]), the environmental and social-
+structural dimensions ([[japanese-environmental-history]], [[tokugawa-status-order]]), and the
+peripheries ([[ryukyu-kingdom]]) that the older narrative volumes underplayed. With its
+completion, **Phase B (Japan) is closed**: the wiki's Japan coverage now runs authoritatively
+from prehistory to 1973, the deepest non-Western national history in the collection. The
+campaign next turns to **Phase C (the Ottoman Empire)** and **Phase D (China)**.

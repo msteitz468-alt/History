@@ -5,7 +5,7 @@ origin: The Catholic (chiefly Jesuit) mission to Japan, opened by Francis Xavier
 applies_to_periods: [Early Modern]
 applies_to_regions: [japan, east-asia]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -79,6 +79,18 @@ the faith** and the mass had been driven to apostasy. A few isolated groups of
 **"crypto-Christians" (*kakure Kirishitan*)** survived in remote Kyūshū, but deprived of
 priests and texts they "imperceptibly drifted … into a syncretic folk creed tinctured with
 Buddhism and Shintō," only to be rediscovered after Japan reopened in the nineteenth century.
+
+## The wider religious settlement (New Cambridge History of Japan)
+
+The [[howell-early-modern-japan-asia-world|New Cambridge History of Japan Vol. II]] (Mark
+Teeuwen, ch. 13) sets the anti-Christian system within the **whole religious order** of
+[[edo-period|Tokugawa]] Japan. The compulsory **temple-registration (*terauke*)** system that
+began as anti-Christian surveillance became the backbone of a state-managed religious
+settlement: every household affiliated with a [[japanese-buddhism|Buddhist]] temple, while
+[[shinto|Shintō]] shrines, popular cults, and pilgrimage flourished alongside in a broadly
+**syncretic** religious life. On this reading the extirpation of Christianity was one element
+of a larger Tokugawa **domestication of religion** — turning institutional religion into an
+instrument of social registration and order rather than a rival to the state.
 
 ## Related
 

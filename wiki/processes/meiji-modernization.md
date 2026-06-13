@@ -8,7 +8,7 @@ region: [japan, east-asia]
 process_type: [cultural, economic, ideological, political]
 driven_by: [the drive to revise the unequal treaties & avert China's fate, the Meiji slogans (fukoku kyōhei, bunmei kaika), the Iwakura mission's survey of the West, the Tokugawa foundations of literacy and commerce]
 produces: [a Westernized state and society, the first non-Western industrial revolution, the oyatoi foreign-employee system and its replacement by Japanese, the "Japanization" of Western thought and institutions]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [process, long-19th-century, japan, east-asia]
 ---
@@ -77,6 +77,19 @@ Meiji modernization is the engine of the [[meiji-period|Meiji era]]: it produced
 imperial expansion ([[japanese-imperialism]]) by which Japan claimed great-power status. It is
 the paradigmatic case of **defensive, selective, state-led Westernization** — the model later
 developing states would study.
+
+## Civilization and enlightenment reconsidered (New Cambridge History of Japan)
+
+The [[howell-early-modern-japan-asia-world|New Cambridge History of Japan Vol. II]] (Amin
+Ghadimi, ch. 21) revisits ***bunmei kaika*** ("civilization and enlightenment") in early Meiji
+with current scholarship, treating it not as the simple importation of a finished Western
+"civilization" but as an **active, contested reworking** of the very concepts of civilization,
+enlightenment, and progress by Japanese thinkers — who debated what "civilization" meant and
+turned it to their own ends ([[fukuzawa-yukichi|Fukuzawa's]] functional, comparative use of the
+idea being the classic case). Placing the episode at the **close of an early-modern volume**
+underscores the New CHJ's continuity argument: Meiji "enlightenment" grew out of the literate,
+print-saturated, intellectually plural society of late [[tokugawa-intellectual-life|Tokugawa
+Japan]], not from a blank slate.
 
 ## End Conditions
 

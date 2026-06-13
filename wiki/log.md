@@ -2315,3 +2315,6 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 section | Early Modern Japan in Asia and the World (New CHJ II) | Section: The character of the early modern state (Intro + Part I, chs 1–6) | Pages created: 1 | Pages updated: 3
 
 ## 2026-06-13 section | Early Modern Japan in Asia and the World (New CHJ II) | Section: Economy, environment, and technology (Part II, chs 7–12) | Pages created: 1 | Pages updated: 2
+
+## 2026-06-13 section | Early Modern Japan in Asia and the World (New CHJ II) | Section: Social practices and cultures (Part III, chs 13–21) | Pages created: 2 | Pages updated: 3
+## 2026-06-13 ingest-complete | Early Modern Japan in Asia and the World (New CHJ II; Howell ed.) | Total pages created: 4 | Total pages updated: 8 | Sections processed: 3 | CLOSES PHASE B (JAPAN)

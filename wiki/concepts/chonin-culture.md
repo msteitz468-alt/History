@@ -5,7 +5,7 @@ origin: The urban-commoner (chōnin) society and culture of the Edo period, anal
 applies_to_periods: [Early Modern, Age of Expansion]
 applies_to_regions: [japan, east-asia]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -67,6 +67,21 @@ lifestyle** (long dismissed by professional historians) reframes Tokugawa societ
 rising, broadly shared well-being rather than mere immiseration — part of the same case that
 makes the Edo economy a **foundation for later modernization**.
 
+## Print, the city, and popular protest (New Cambridge History of Japan)
+
+The [[howell-early-modern-japan-asia-world|New Cambridge History of Japan Vol. II]] enriches
+the townsman world on three fronts. **Laura Nenzi** (ch. 15) treats **print culture** as
+"flows of people and things" — the commercial publishing boom, guidebooks, travel, and
+information networks that knit a literate national public, the medium of chōnin culture.
+**Thomas Gaubatz** (ch. 19) anatomizes **the early modern city** itself — its wards,
+governance, and social geography — as the distinctive space of commoner life. And **Anne
+Walthall** (ch. 20) recovers **popular movements** — peasant petitions and riots (*ikki*),
+urban smashings (*uchikowashi*), and the martyrs they produced — showing that commoners were
+not only consumers of culture but **political actors** who contested authority within (and
+sometimes against) the [[tokugawa-status-order|status order]]. Together these chapters extend
+chōnin culture from the arts into the **social and political life** of the early-modern
+commoner.
+
 ## Significance
 
 Chōnin culture marks the **entry of the urban commoner into Japanese history** as a cultural
@@ -81,4 +96,4 @@ repeatedly failed to suppress.
 - [[genroku-culture]] — the artistic flowering of this townsman world (the floating-world arts).
 - [[tokugawa-economy]] — the commercial revolution and urbanization that created the chōnin.
 - [[edo-period]] · [[bakuhan-system]] — the era and order; [[samurai]] — the status superiors they out-earned.
-- [[tokugawa-intellectual-life]] — the parallel world of thought.
+- [[tokugawa-status-order]] — the *mibun* system the chōnin occupied; [[tokugawa-intellectual-life]] — the parallel world of thought.
