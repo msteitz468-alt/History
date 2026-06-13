@@ -7,7 +7,7 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [Swahili city-states, Kilwa Sultanate]
 events_here: []
 processes_here: [[[indian-ocean-trade]], [[trans-saharan-trade]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [place, east-africa, indian-ocean, high-middle-ages]
 ---
@@ -70,9 +70,16 @@ Sofala" and its "meadows of gold"** were worked by intermediaries. Sofala (near 
 gold of the Zimbabwe plateau, tying **[[great-zimbabwe|Great Zimbabwe]]** and its Mapungubwe/Mutapa
 neighbours into the Indian Ocean economy — the inland and maritime halves of one gold trade.
 
+## Ancient Azania (GHA II)
+
+The **UNESCO [[gha-vol2-ancient-civilizations|General History of Africa, Vol. II]]** (chs. 22–23) covers the
+coast's **ancient** phase — the **"Azania"** of the *Periplus of the Erythraean Sea* and its port of
+**Rhapta** — the Indian Ocean trade of the East African shore centuries before the medieval stone-towns,
+and the early Bantu and Cushitic settlement of the hinterland.
+
 ## Related
 
-- Source: [[reader-africa-biography|Reader, *Africa: A Biography*]] · [[sub-saharan-africa]]
+- Source: [[gha-vol2-ancient-civilizations|GHA Vol. II]] (ancient Azania) · [[reader-africa-biography|Reader, *Africa: A Biography*]] · [[sub-saharan-africa]]
 - Process: [[indian-ocean-trade]] · [[trans-saharan-trade]] (the African counterpart inland)
 - Concept/Actor: [[islam]] · [[aksum]] (the earlier Red Sea trading state)
 - Places: [[great-zimbabwe|Great Zimbabwe]] (the inland gold source) · [[jenne-jeno]] (West African trade city) · [[zheng-he]] (the Ming voyages)

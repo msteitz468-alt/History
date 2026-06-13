@@ -9,8 +9,8 @@ affiliated_with: [iron-using farming communities of central Nigeria]
 opposed_by: [[[unknown]]]
 key_events: [florescence of the Nok terracotta tradition, early ironworking at Taruga]
 key_processes: [[[african-ironworking]], [[bantu-expansion|early West African food production]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [actor, archaic-period, west-africa, sub-saharan-africa]
 ---
 
@@ -46,4 +46,7 @@ West Africa** centuries before any documented contact across the Sahara. With th
 Known entirely through **archaeology**, Nok exemplifies CWH IV's argument that Africa's
 "dark centuries" were dark only for lack of **written** sources — archaeology and radiocarbon
 dating have steadily pushed back both the antiquity and the independence of sub-Saharan
-complexity.
+complexity. The **UNESCO [[gha-vol2-ancient-civilizations|General History of Africa, Vol. II]]** (ch. 24,
+West Africa before the 7th c.) treats Nok and the early ironworking at **Taruga** as the West African
+anchor of the continent's early Iron Age (see [[bantu-expansion]] on the diffusion-vs-independent-invention
+debate over African iron).

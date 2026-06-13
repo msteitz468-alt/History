@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 section | GHA Vol. II (Ancient Civilizations of Africa) | Section: Sub-Saharan Africa in antiquity (chs. 21–29 + Conclusion) | Pages created: 0 | Pages updated: 3 | (sub-saharan-africa, nok-culture, swahili-coast — early Iron Age, Azania, Madagascar)
+
 ## 2026-06-12 section | GHA Vol. II (Ancient Civilizations of Africa) | Section: North Africa & the Sahara in antiquity (chs. 17–20) | Pages created: 1 | Pages updated: 1 | (berbers; enriched garamantes)
 
 ## 2026-06-12 section | GHA Vol. II (Ancient Civilizations of Africa) | Section: Aksum and Ethiopia (chs. 13–16) | Pages created: 0 | Pages updated: 1 | (aksum — pre-Aksumite D'MT/Yeha; Christian Aksum, Ezana/Frumentius)

@@ -7,7 +7,7 @@ period_active: [Deep Prehistory–Contemporary]
 controlled_by: [indigenous states and societies; from the 19th c. the European colonial empires; post-1960 independent African states]
 events_here: [[[bantu-expansion]], [[trans-saharan-trade]], [[atlantic-slave-trade]], [[scramble-for-africa]], [[decolonization]]]
 processes_here: [[[bantu-expansion]], [[early-african-food-production]], [[trans-saharan-trade]], [[atlantic-slave-trade]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [place, sub-saharan-africa, africa]
 ---
@@ -75,6 +75,24 @@ by **archaeology** (Jenne-jeno overturning the "Arab stimulus" model of West Afr
 ([[ibn-battuta-black-africa|Ibn Battuta]]). The authoritative synthesis is the eight-volume UNESCO
 *General History of Africa*, written largely by African scholars; Reader supplies the accessible
 continent-wide narrative.
+
+## The early Iron Age subcontinent (GHA II)
+
+The **UNESCO [[gha-vol2-ancient-civilizations|General History of Africa, Vol. II]]** (chs. 21–29) gives the
+authoritative ancient-period survey of Africa south of the Sahara, c. 1000 BCE–700 CE:
+
+- **The early Iron Age** spreading with the [[bantu-expansion|Bantu expansion]] across East, Central and
+  Southern Africa — diagnostic pottery traditions (Urewe, Kwale) and ironworking communities reaching the
+  Limpopo by the early first millennium CE; **[[nok-culture|Nok]]** in West Africa as the earliest known
+  sub-Saharan ironworking and terracotta sculpture.
+- **The East African coast** — the ancient **"Azania"** of the *Periplus*, with its port of **Rhapta**,
+  trading ivory and other goods into the Indian Ocean centuries before the [[swahili-coast|Swahili
+  stone-towns]] rose on the same shore.
+- **West, Central and Southern Africa** before the seventh century — the long coexistence of
+  hunter-gatherers (Khoisan), herders and the incoming farmers.
+- **Madagascar** — settled in the first millennium CE by **Austronesian** seafarers from island Southeast
+  Asia (the [[austronesian-dispersal|Austronesian dispersal]]), whose Malayo-Polynesian language became
+  Malagasy — alongside African and later Arab contributions: a unique Afro-Asian fusion.
 
 ## Collection Coverage Note
 
