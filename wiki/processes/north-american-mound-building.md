@@ -8,8 +8,8 @@ region: [eastern-north-america, north-america]
 process_type: cultural
 driven_by: [the Eastern Agricultural Complex and later maize, long-distance exchange, ritual/cosmological integration, corporate labor]
 produces: [Poverty Point, Hopewell, the Mississippian world ([[cahokia|Cahokia]]), Hohokam and Ancestral Pueblo ([[chaco-canyon|Chaco]])]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [process, eastern-north-america, archaic-period]
 ---
 
@@ -68,3 +68,11 @@ The Southwest's Mesoamerican connections feed directly into the
 [[north-american-states-debate|debate over whether states existed north of Mexico]]. This
 process runs alongside [[mesoamerican-state-formation]] and [[andean-state-formation]] as a
 third, distinct New World pathway.
+
+Charles Mann's [[mann-1491-2005|*1491*]] sets the mound-builders within the wider
+[[pristine-myth|managed-landscape]] argument: [[cahokia|Cahokia]] (at its c. 1100 CE peak larger than
+contemporary London) and the engineered bottomland of the American Bottom were a **humanized landscape**,
+and the eastern woodlands the colonists found "natural" were in part shaped by Indian **fire-management**
+(clearing underbrush, creating game-rich parklands). The depopulation of these societies by
+[[virgin-soil-epidemics|introduced epidemics]] — and the consequent regrowth — was, on Mann's account,
+part of what produced the "[[pristine-myth|virgin wilderness]]" of the European imagination.
