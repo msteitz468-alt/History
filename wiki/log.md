@@ -71,6 +71,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. VII (colonial 1880–1935) | Section: Partition, conquest & resistance (chs. 1–8) | Pages created: 1 | Pages updated: 1 | (african-resistance-to-colonial-rule; enriched scramble-for-africa)
 
+## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. VII: Africa under Colonial Domination, 1880–1935 (A. Adu Boahen ed., 1985) | Total pages created: 6 | Total pages updated: 3 | Sections processed: 6 (+ synthesis). Filed to raw/4. Modern Times/. Gap 2 colonial-era reference.
+
 ## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. VI: Africa in the Nineteenth Century until the 1880s (J. F. Ade Ajayi ed., 1989) | Total pages created: 4 | Total pages updated: 8 | Sections processed: 6 (+ synthesis). Filed to raw/4. Modern Times/. Gap 2 nineteenth-century reference.
 
 ## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. V: Africa from the Sixteenth to the Eighteenth Century (B. A. Ogot ed., 1992) | Total pages created: 7 | Total pages updated: 8 | Sections processed: 6 (+ synthesis). Filed to raw/4. Modern Times/. Gap 2 early-modern reference (the Atlantic-trade era states).

@@ -13,8 +13,8 @@ reliability_notes: >
   (1985); editor A. Adu Boahen is a leading exponent of the "African agency"/initiatives-and-reactions
   framing. The volume is explicitly committed to recovering African perspectives on conquest and colonial
   rule, against Eurocentric "pacification" narratives.
-pages_created: 0
-pages_updated: 0
+pages_created: 6
+pages_updated: 3
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -54,11 +54,41 @@ merely victims.
 
 ## Pages Created / Updated
 
-*To be completed as sections are processed (Protocol Step 2c–2e).*
+**Created (6):** [[african-resistance-to-colonial-rule]] (the "initiatives and reactions" to conquest);
+[[liberia]] (the settler-republic survivor); [[colonial-economy]] (extraction, cash crops, forced labour);
+[[colonial-rule-in-africa]] (administration, society, religion); [[african-nationalism]] and
+[[pan-africanism]] (the political response).
+
+**Updated (3):** [[scramble-for-africa]] (the African-resistance reframing); [[merina-kingdom]] (the French
+conquest); [[solomonic-ethiopia]] (the two surviving states and the 1935 Italian invasion).
 
 ## Volume Synthesis Note
 
-*To be written after all sections are processed (Protocol Step 3).*
+GHA Vol. VII gave the wiki its **colonial-era backbone for Africa** — the African side of the
+[[imperialism|imperialism]] and [[scramble-for-africa|Scramble]] story — with **6 new pages and 3
+enrichments**, the most thematically dense GHA volume (it generated process/concept pages rather than state
+pages).
+
+**Its organizing conviction, Boahen's, is African agency.** Against the colonial narrative of "pacification"
+and passive subjects, the volume frames the whole period as **African initiatives and reactions**: armed
+[[african-resistance-to-colonial-rule|resistance]] to conquest (Samori, the Maji Maji, the Herero, Ethiopia
+at Adwa); adaptation to and within the **[[colonial-economy|colonial economy]]** and
+**[[colonial-rule-in-africa|colonial rule]]**; the Africanization of Christianity and Islam; and finally the
+political **[[african-nationalism|nationalism]]** and **[[pan-africanism|Pan-Africanism]]** that colonialism
+itself incubated. Its verdict on colonialism is a negative "balance sheet" — a brief, violent, extractive,
+and socially disruptive episode — but one in which Africans were agents, and which **generated the forces
+that would destroy it**.
+
+**Cross-volume relationships.** Vol. VII completes the wiki's chronological arc on Africa, slotting between
+Vol. VI (the independent nineteenth century) and Vol. VIII (decolonization). Its new pages tie tightly into
+the already-ingested modern leg: [[colonial-economy]] connects to the [[southern-african-mineral-revolution]]
+and the [[impact-of-atlantic-slave-trade-on-africa|underdevelopment debate]]; [[colonial-rule-in-africa]] to
+[[colonial-knowledge|Cohn's]] colonial knowledge and the [[congo-free-state]]; [[african-nationalism]] and
+[[pan-africanism]] feed directly into [[decolonization]]. The volume's African-resistance reframing also
+deepens the standing [[scramble-for-africa]] page, and its account of Ethiopia and Liberia completes the
+story of the two states that survived the colonial era. With this volume the wiki holds the colonial period
+as a continent-wide process of conquest, exploitation, and incubated resistance — ready for Vol. VIII's
+decolonization.
 
 ## Cross-links
 
