@@ -23,6 +23,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. III (7th–11th c.) | Section: Islam and Africa — framework (chs. 1–4) | Pages created: 1 | Pages updated: 1 | (islamization-of-africa; enriched islam)
 
+## 2026-06-12 section | GHA Vol. IV (12th–16th c.) | Section: Madagascar & Africa in the world (chs. 24–26) | Pages created: 0 | Pages updated: 2 | (trans-saharan-trade — Devisse; sub-saharan-africa — medieval golden age)
+
 ## 2026-06-12 section | GHA Vol. IV (12th–16th c.) | Section: East & Central Africa (chs. 18–23) | Pages created: 1 | Pages updated: 2 | (kingdom-of-kongo; enriched great-zimbabwe, swahili-coast)
 
 ## 2026-06-12 section | GHA Vol. IV (12th–16th c.) | Section: Egypt, Nubia & the Horn (chs. 15–17) | Pages created: 1 | Pages updated: 1 | (solomonic-ethiopia; enriched christian-nubia — Funj end)

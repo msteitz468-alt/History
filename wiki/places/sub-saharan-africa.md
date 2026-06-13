@@ -7,7 +7,7 @@ period_active: [Deep Prehistory–Contemporary]
 controlled_by: [indigenous states and societies; from the 19th c. the European colonial empires; post-1960 independent African states]
 events_here: [[[bantu-expansion]], [[trans-saharan-trade]], [[atlantic-slave-trade]], [[scramble-for-africa]], [[decolonization]]]
 processes_here: [[[bantu-expansion]], [[early-african-food-production]], [[trans-saharan-trade]], [[atlantic-slave-trade]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [place, sub-saharan-africa, africa]
 ---
@@ -93,6 +93,18 @@ authoritative ancient-period survey of Africa south of the Sahara, c. 1000 BCE�
 - **Madagascar** — settled in the first millennium CE by **Austronesian** seafarers from island Southeast
   Asia (the [[austronesian-dispersal|Austronesian dispersal]]), whose Malayo-Polynesian language became
   Malagasy — alongside African and later Arab contributions: a unique Afro-Asian fusion.
+
+## Africa's medieval golden age (GHA IV)
+
+By the twelfth–sixteenth centuries — the span of the **UNESCO [[gha-vol4-12th-16th-century|General History
+of Africa, Vol. IV]]** — sub-Saharan Africa hosted a constellation of **powerful, wealthy, literate
+states**: the gold empires of [[mali-empire|Mali]] and [[songhay-empire|Songhay]], the
+[[hausa-city-states|Hausa]] cities and [[kanem-bornu|Kanem-Bornu]], Christian [[solomonic-ethiopia|Ethiopia]]
+and [[christian-nubia|Nubia]], the [[swahili-coast|Swahili]] city-states, [[great-zimbabwe|Great Zimbabwe]]
+and [[kingdom-of-kongo|Kongo]] — all integrated, via the [[trans-saharan-trade|trans-Saharan]] and
+[[indian-ocean-trade|Indian Ocean]] trades, into the Afro-Eurasian world economy whose gold they largely
+supplied. This is the medieval African golden age the volume documents, against the colonial myth of a
+continent "without history."
 
 ## Collection Coverage Note
 

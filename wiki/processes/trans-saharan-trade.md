@@ -8,10 +8,19 @@ region: [north-africa, sub-saharan-africa, west-africa, transregional]
 process_type: economic
 driven_by: [the domesticated camel, demand for Sudanic gold and slaves, demand for Saharan salt, the unifying spread of Islam]
 produces: [the integration of North and sub-Saharan Africa, the wealth of [[ghana-empire|Ghana]] and the Sudanic empires, the "birth of Afro-Eurasia"]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [process, north-africa, sub-saharan-africa]
 ---
+
+> **Africa in the medieval world economy (GHA IV).** The UNESCO
+> [[gha-vol4-12th-16th-century|General History of Africa, Vol. IV]] (chs. 25–26, Niane & **Devisse**,
+> "Africa in inter-continental relations") argues that **West African gold was a load-bearing pillar of the
+> medieval Mediterranean and European economy** — the bullion behind the gold coinages of the Almoravids,
+> the Italian city-states and beyond, drawn north across the desert from Ghana, Mali and Songhay. Africa, in
+> this reading, was not peripheral but **integral** to the Afro-Eurasian system on the eve of the European
+> maritime expansion (Mansa Musa's 1324 hajj, which depressed Cairo's gold price, is the emblem). See
+> [[indian-ocean-trade]] for the eastern counterpart and [[sub-saharan-africa]].
 
 # Trans-Saharan Trade
 
