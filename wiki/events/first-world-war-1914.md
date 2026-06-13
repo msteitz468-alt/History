@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: global
 causes: [[[causes-of-the-first-world-war|see the origins controversy]], the alliance system, militarism and mobilization timetables, [[nationalism]], [[imperialism|imperial rivalry]], the July Crisis]
 consequences: [collapse of the Habsburg/Romanov/Ottoman/Hohenzollern empires, the Russian Revolution, the Versailles settlement, [[communism-and-fascism|communism and fascism]], the path to the [[second-world-war-1939|Second World War]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [event, world-wars-era, western-europe]
 ---
 
@@ -38,6 +38,19 @@ Russia's collapse. The war globalized through the Ottoman theatres (Gallipoli, M
 Revolt), the colonies, and the war at sea (Jutland, unrestricted submarine warfare). **Russia's
 revolutions of 1917** took it out of the war; American entry (1917) and the failure of the German spring
 offensive of 1918 brought the **Armistice of 11 November 1918**.
+
+## A total and global war (Winter)
+
+[[winter-cambridge-history-first-world-war-v1|Jay Winter's *Cambridge History*]] reframes the
+conflict as the **first [[total-war|total war]]** and a genuinely **global** event — "no
+region of the planet, or nearly none, was spared." Beyond the European fronts it drew in the
+colonial empires on a vast scale: **colonial soldiers and labourers** (Indian, African, and
+Vietnamese troops; the ~140,000-strong **Chinese Labour Corps** digging trenches and serving
+the tank corps), campaigns across **Africa** and the Middle East, and economic and cultural
+mobilization reaching Latin America and East Asia. Total war's logic — the mobilization of
+whole societies and the erosion of the **soldier/civilian distinction** (blockade, submarine
+warfare, the bombing of cities, occupation) — also underwrote mass atrocity, above all the
+**Armenian genocide**, which Winter situates "under the cover of" total war.
 
 ## Causal Analysis
 
@@ -65,5 +78,6 @@ curve" accounts of the British army.
 
 ## Related pages
 
-[[causes-of-the-first-world-war]] · [[joll-origins-first-world-war]] · [[1914-end-of-long-19th-century]] ·
-[[world-wars-era]] · [[second-world-war-1939]] · [[communism-and-fascism]] · [[nationalism]]
+[[causes-of-the-first-world-war]] · [[joll-origins-first-world-war]] · [[total-war]] · [[1914-end-of-long-19th-century]] ·
+[[world-wars-era]] · [[second-world-war-1939]] · [[communism-and-fascism]] · [[nationalism]] ·
+[[winter-cambridge-history-first-world-war-v1]]
