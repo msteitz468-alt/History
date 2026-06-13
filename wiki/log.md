@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. II: Ancient Civilizations of Africa (G. Mokhtar ed., 1981) | Total pages created: 3 | Total pages updated: 9 | Sections processed: 6 (+ synthesis). Filed (both copies) to raw/2. Ancient & Classical Civilizations/. Gap 2 ancient-period reference.
+
 ## 2026-06-12 section | GHA Vol. II (Ancient Civilizations of Africa) | Section: Sub-Saharan Africa in antiquity (chs. 21–29 + Conclusion) | Pages created: 0 | Pages updated: 3 | (sub-saharan-africa, nok-culture, swahili-coast — early Iron Age, Azania, Madagascar)
 
 ## 2026-06-12 section | GHA Vol. II (Ancient Civilizations of Africa) | Section: North Africa & the Sahara in antiquity (chs. 17–20) | Pages created: 1 | Pages updated: 1 | (berbers; enriched garamantes)
