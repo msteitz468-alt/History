@@ -9,8 +9,8 @@ affiliated_with: [[[pastoral-nomadism]], "the Chinggisid line", "the Yuan, Ilkha
 opposed_by: [[[song-dynasty|Southern Song]], [[abbasid-caliphate|Abbasid Caliphate]], "the Mamluks", "Japan", "the Delhi Sultanate"]
 key_events: ["the conquest of the Jin and Xixia", "the sack of Baghdad (1258)", "the conquest of Song China (1279)", "the division into four khanates"]
 key_processes: [[[afro-eurasian-world-system]], [[pastoral-nomadism]], [[silk-roads]], [[state-formation]]]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [actor, empire, high-middle-ages, late-middle-ages, steppe, central-asia]
 ---
 
@@ -121,10 +121,21 @@ modifications of existing legal traditions." The "largest contiguous empire in
 history" was, Arnason stresses, "a fleeting formation, unduly magnified and sometimes
 romanticized by later historians."
 
+## The limits of expansion: Japan (Mason & Caiger)
+
+The Mongol reach had a maritime limit. After Kublai Khan made China the **Yuan** dynasty,
+he twice tried to force the submission of **[[japan|Japan]]** — seaborne invasions of
+**[[mongol-invasions-of-japan-1274-1281|1274 and 1281]]** launched from conquered Korea —
+and both fleets were wrecked by typhoons the Japanese called the ***kamikaze*** ("divine
+wind"). With the failed expeditions against Vietnam and Java, the Japan disasters mark the
+**outer bound of Mongol conquest** — where steppe cavalry power could not be projected
+across the sea.
+
 ## Related
 
 - [[genghis-khan]] — the founder.
 - [[pastoral-nomadism]] — the steppe military system the Mongols perfected.
 - [[afro-eurasian-world-system]], [[silk-roads]] — the exchange networks the Pax Mongolica integrated.
+- [[mongol-invasions-of-japan-1274-1281]] — the failed seaborne invasions (the limit of expansion).
 - [[timur]], [[ming-dynasty]] — the successor and reaction states (to be developed).
 - [[state-formation]], [[empire]] — the comparative frames (Arnason, Ch 18).

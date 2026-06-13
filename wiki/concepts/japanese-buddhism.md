@@ -68,18 +68,41 @@ Both spread into the countryside, became great **shōen** landholders, inspired 
 and architecture (e.g. the Byōdōin Phoenix Hall), and **absorbed Shintō** through the
 *honji suijaku* identification of kami with buddhas.
 
+## The Kamakura revolution: Buddhism becomes a mass religion
+
+The [[kamakura-period|Kamakura period]] (1185–1333) saw Buddhism, hitherto monastic and
+elite, become a **genuinely popular religion**, stripped of esoteric trappings — a response
+to the era's turmoil and the widespread belief that the world had entered ***mappō***, the
+degenerate "latter age" when the old disciplines no longer availed:
+
+- **Pure Land (Amidism).** **Hōnen** (1133–1212) taught that salvation came not by arduous
+  self-cultivation but by faith in the **Amida** Buddha, expressed in the ***nembutsu*** —
+  reciting *Namu Amida Butsu* ("Homage to Amida") — to be reborn in Amida's **Pure Land**;
+  his **Jōdo** sect made religion accessible to all. His radical disciple **Shinran**
+  (1173–1262) — who broke his monastic vows, married, and founded the **Shinshū** —
+  taught that even **one** heartfelt invocation sufficed, since faith itself was Amida's
+  gift; he shifted Japanese Buddhism "from monks to the laity." (Amidism had earlier
+  inspired the Byōdōin Phoenix Hall.) Jōdo and Shinshū became the largest Buddhist sects.
+- **Nichiren** (1222–82) — a fisherman's son turned fiery prophet — preached exclusive
+  devotion to the **Lotus Sutra** (the chant *Namu Myōhō Renge Kyō*), denounced all rival
+  sects, and fused religion with **nationalism**, prophesying the [[mongol-invasions-of-japan-1274-1281|Mongol
+  invasions]] as divine punishment; his intolerant, this-worldly sect still endures.
+- **[[zen-buddhism|Zen]]** — the meditation school (Eisai's Rinzai, Dōgen's Sōtō), treated
+  on its own page; it shaped the warrior ethos and the classic Japanese aesthetic.
+
 ## Significance
 
 Buddhism was the vehicle of high continental civilization into Japan — writing, art,
 architecture, learning, and statecraft all arrived in its train — yet, once absorbed, it
 "continued to flourish as an element of a distinctively Japanese civilization," fused with
-Shintō rather than replacing it. Its later popular transformation (Pure Land, Nichiren,
-and **Zen**) in the warrior age is treated with the [[heian-period|medieval]] cycle.
+Shintō rather than replacing it. Its Kamakura-era popularization (Pure Land, Nichiren, Zen)
+made it, for the first time, the faith of the whole people.
 
 ## Related
 
 - [[buddhism]] — the wider tradition.
 - [[shinto]] — the indigenous faith it coexisted and fused with.
 - [[shotoku-taishi]] — its great early patron.
-- [[nara-period]] · [[heian-period]] · [[japan]] — its institutional history.
+- [[nara-period]] · [[heian-period]] · [[kamakura-period]] · [[japan]] — its institutional history.
+- [[zen-buddhism]] — the meditation school treated separately.
 - [[tang-dynasty]] — the source of the Heian sects.
