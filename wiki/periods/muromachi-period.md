@@ -99,6 +99,23 @@ own. The chapter foregrounds the scholarly debate (**Nagahara**'s shugo-centered
 full institutional story is on [[shugo-daimyo]]; the consequent collapse of the estate
 economy is on [[medieval-shoen]].
 
+## Commerce and East Asia (Cambridge History of Japan)
+
+Beneath the politics ran a **commercial revolution**: **Kozo Yamamura** shows commerce
+growing steadily from Kamakura and accelerating through the Muromachi era — rising
+agricultural productivity, urban growth, **za** guilds, bills of exchange, the spread of
+**imported Chinese coin** even among rural cultivators, and the commutation of dues into
+cash. (The full account is on [[medieval-japanese-commerce]].) On foreign relations,
+**Kawazoe Shōji** stresses the tie between diplomacy and domestic power: the bakufu could not
+control foreign relations until late in **Yoshimitsu's** rule, because the traditional
+trading centre — the Kyūshū **dazaifu** — lay in the hands of the renegade Southern Court
+until 1392. Kawazoe gives **four reasons** for Yoshimitsu's entry into the **Ming tribute
+system**: the **income** needed to fund his lavish art patronage; the **legitimacy** of
+recognition (he styled himself "king of Japan"); **security** against a potentially
+formidable Ming; and control over the **Kyūshū tandai** that handled legal China trade. The
+chapter also treats relations with **Korea** and the **Ryūkyūs** and the disruptive
+***wakō*** pirates who shadowed all East Asian commerce.
+
 ## Geographic Scope
 
 Centered on Kyoto until the Ōnin War, then radically decentralized into scores of daimyo
@@ -132,5 +149,6 @@ shōen's demise).
 - [[shogunate-bakufu]] · [[samurai]] — the institutions of warrior rule.
 - [[shugo-daimyo]] — the provincial governors who became territorial lords.
 - [[medieval-shoen]] — the estate system that dissolved in this age.
+- [[medieval-japanese-commerce]] — the commercial revolution beneath the wars.
 - [[zen-buddhism]] — the spirit of Muromachi culture.
 - [[japan]] · [[ming-dynasty|Ming China]] — anchor and the trading partner.

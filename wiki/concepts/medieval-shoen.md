@@ -112,9 +112,26 @@ but by the *sengoku* age the shōen had given way to the consolidated territoria
 the warring **daimyo** — the institutional bridge from the medieval estate to the
 early-modern *han*.
 
+## The medieval peasantry (Nagahara)
+
+In a second chapter ("The Medieval Peasant") Nagahara argues that the **shōen system itself
+created the medieval peasantry** — that "the introduction and development of the shōen system
+had a greater impact on the living conditions of peasants in Japan than did the founding of
+the [[kamakura-period|Kamakura bakufu]]," making the estate "the central defining
+characteristic of the medieval period." Across the period the **autonomy of rural
+communities** grew: villages acquired rights of **self-governance, welfare, and taxation**,
+freeing themselves first from the central proprietor and later from the local overlord —
+the rise of the self-governing ***sō*** that culminates in the peasant **ikki**. Nagahara's
+distinctive contribution is a concrete portrait of **everyday peasant life — food, clothing,
+and shelter — on a shōen**, restoring the cultivators as historical agents rather than a
+faceless tax base. This growing village autonomy, alongside the warrior pressures from above,
+is the "from below" force in the shōen's dissolution; the parallel monetization of dues is
+treated under [[medieval-japanese-commerce]].
+
 ## Related
 
 - [[kamakura-period]] · [[muromachi-period]] — the periods in which the system matured and dissolved.
+- [[medieval-japanese-commerce]] — the monetization that eroded the estate economy.
 - [[shogunate-bakufu]] — the bakufu that appointed and adjudicated the jitō.
 - [[minamoto-no-yoritomo]] — creator of the shugo/jitō offices.
 - [[shugo-daimyo]] — the provincial governors who absorbed the estates from above *(Cycle 2)*.

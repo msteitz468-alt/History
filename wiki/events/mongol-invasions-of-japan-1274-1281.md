@@ -69,6 +69,21 @@ wind"), revived in 1944–45 for the suicide pilots of the Pacific War.
 - `enabled:` the powerful myth of **divine protection** of the sacred land — fuel for later
   Japanese exceptionalism and nationalism.
 
+## The diplomacy of refusal (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v3-medieval|Cambridge History]] (Kawazoe Shōji) sets the war
+in its East Asian diplomatic frame. The Mongols' initial aim was not conquest but
+**leverage**: opening relations with Japan would tighten their hold on the **Koryŏ** kingdom
+of Korea and prevent the Japanese from aiding the **Southern Sung**, whom the Mongols were
+then fighting. Kublai's letters (carried through the Korean king from 1266, reaching Dazaifu
+in 1268) demanded "friendly relations" under the threat of arms. Kawazoe offers **three
+reasons** the Japanese rebuffed every overture: they read the Mongol request as a
+**declaration of war**; their information about Mongol intentions was **biased**, since it
+came largely through the Southern Sung who were themselves at war with the Mongols; and Japan
+was a **warrior-governed society** whose ruling class was temperamentally disposed to fight
+rather than submit. The Hōjō refusal was thus not mere arrogance but a reading of the
+situation shaped by Japan's place in the East Asian order.
+
 ## The fiscal aftermath in detail (Cambridge History of Japan)
 
 The [[cambridge-history-japan-v3-medieval|Cambridge History]] (Ishii Susumu) traces exactly
