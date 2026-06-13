@@ -9,8 +9,8 @@ affiliated_with: [[[tenochtitlan|Tenochtitlan]], "the Mexica", "the Triple Allia
 opposed_by: ["the Tarascan/Purépecha Empire", "Tlaxcala", "conquered Mesoamerican city-states", "the Spanish"]
 key_events: ["formation of the Triple Alliance (1428)", "imperial expansion under Moctezuma I and Ahuitzotl", "the Spanish conquest (1519–1521)"]
 key_processes: [[[mesoamerican-state-formation]], [[state-formation]], [[empire]]]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [actor, empire, late-middle-ages, mesoamerica]
 ---
 
@@ -53,6 +53,40 @@ agriculture, vast market exchange (the great market of Tlatelolco), and the
 professional long-distance merchants (*pochteca*). State religion centered on the war
 and sun god Huitzilopochtli and large-scale human sacrifice tied to warfare and
 cosmic maintenance.
+
+## From migration to empire (Berdan)
+
+Frances Berdan's [[berdan-aztecs-2021|*The Aztecs*]] fills in the Mexica's road to power. "Aztec" is a
+broad term (popularised only by Humboldt c. 1810) for the **Nahuatl-speaking peoples** of the Basin of
+Mexico; the **Mexica** were one such group, late-arriving **Chichimeca** migrants who, by their own
+*Codex Mendoza* history, journeyed from a legendary **Aztlan** led by their patron god
+**Huitzilopochtli**. They reached the Basin already crowded with Toltec-descended city-states, served as
+mercenary vassals (to Colhuacan, then Azcapotzalco), and founded **Tenochtitlan** on its lake island in
+**1325** (the eagle-on-the-cactus omen). Three deliberate strategies built their position: making the
+island liveable (chinampas, the aqueduct, the Templo Mayor); **subservience-then-alliance** as
+mercenaries; and **legitimating elite marriages** into Toltec/Colhua dynasties (the first *tlatoani*,
+Acamapichtli, 1372). When Azcapotzalco's ruler died in 1427, the Mexica threw off its yoke and forged the
+**Triple Alliance** (1428/1430).
+
+Berdan stresses the empire was a deliberate, multifaceted enterprise run by **six imperial rulers**
+(Itzcoatl → the two Motecuhzomas, Axayacatl, Tizoc, Ahuitzotl), each conforming to the ideal of the
+warrior-king yet bringing his own temper (Ahuitzotl the conqueror who even promoted commoners; the second
+Motecuhzoma the haughty elitist). The **Triple Alliance** of Tenochtitlan, Texcoco, and Tlacopan held
+together for ~90 years through autonomous domains, complementary strengths (Mexica arms, Acolhua
+law/engineering), scripted mutual-respect rituals, and an uneven tribute split (2/5–2/5–1/5). It was a
+**hegemonic** empire — 38 tributary provinces / 271 city-states, conquered rulers left in place if they
+paid — supplemented by Roman-style **client states** along the Tarascan frontier. Underpinning it all was
+a **culture of warfare**: every boy a trained warrior, a capture-based military hierarchy topped by eagle
+and jaguar knights, wars of conquest for tribute and the ritualised **"flowery wars"** (against Tlaxcala,
+Cholula, Huexotzinco) for sacrificial captives.
+
+The conquest, too, Berdan reads from the **indigenous** side (Ch. 10): the fall of Tenochtitlan (1521)
+was not the end of the Aztec world but the start of a fraught **blending** — in 1524 the *tlamatinime*
+(wise men) courteously but firmly refused the friars' demand to abandon their gods, and Nahua artisans
+soon rendered Christian triptychs in traditional **featherwork**. *(The conquest itself is treated in
+depth from both sides in the [[broken-spears|Broken Spears]] and Bernal Díaz, the next sources in the
+Americas cluster.)* See [[aztec-religion-and-human-sacrifice]] and [[aztec-economy]] for the cosmology and
+the market-and-pochteca economy.
 
 ## Significance
 

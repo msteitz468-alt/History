@@ -7,8 +7,8 @@ period_active: [Late Middle Ages, Early Modern]
 controlled_by: [Aztec (Mexica) Triple Alliance]
 events_here: []
 processes_here: [[[urbanization]], [[ruralization]], [[mesoamerican-state-formation]]]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [place, mesoamerica, late-middle-ages]
 ---
 
@@ -77,6 +77,22 @@ Tenochtitlan is the latest and one of the greatest of the volume's cities — an
 independent American imperial metropolis whose scale, tribute economy, and
 ceremonial centrality rival any Old World capital, captured at the very moment of
 its violent end.
+
+## The founding and the island city (Berdan)
+
+Frances Berdan's [[berdan-aztecs-2021|*The Aztecs*]] details the city's improbable rise. The Mexica
+founded it in **1325** on a poor lake island — the spot marked by Huitzilopochtli's omen of an **eagle on
+a cactus** (the image on the *Codex Mendoza*'s first folio, and on the modern Mexican flag) — after
+generations as despised mercenary vassals. They made the cramped island liveable by reclaiming farmland
+from the lakebed as **chinampas** ("floating gardens," though they did not float), building an **aqueduct**
+from the Chapultepec springs, and raising the **Templo Mayor** (*Huey Teocalli*) at the sacred core,
+which they enlarged thirteen times. The city was divided into four quarters and many *calpolli*
+neighbourhoods, knit to the shore by causeways and thronged with the canoe traffic that fed the great
+**Tlatelolco market** (see [[aztec-economy]]). As the [[aztec-empire|Triple Alliance]] capital, tribute
+from 38 provinces flowed into it "on the backs of lines and lines of human porters." Its ceremonial heart
+— the Templo Mayor as the mythic mountain **Coatepec** — made the city the stage of Aztec
+[[aztec-religion-and-human-sacrifice|cosmic ritual]]. The Spanish razed it in 1521 and built **Mexico
+City** directly on top.
 
 ## Related
 
