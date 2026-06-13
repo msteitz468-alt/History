@@ -7,7 +7,7 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [Swahili city-states, Kilwa Sultanate]
 events_here: []
 processes_here: [[[indian-ocean-trade]], [[trans-saharan-trade]]]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-06-12
 tags: [place, east-africa, indian-ocean, high-middle-ages]
 ---
@@ -69,6 +69,15 @@ furthest point Persian-Gulf dhows could reach and return on a single monsoon, so
 Sofala" and its "meadows of gold"** were worked by intermediaries. Sofala (near modern Beira) tapped the
 gold of the Zimbabwe plateau, tying **[[great-zimbabwe|Great Zimbabwe]]** and its Mapungubwe/Mutapa
 neighbours into the Indian Ocean economy — the inland and maritime halves of one gold trade.
+
+## Portuguese intrusion and the Omani (GHA V)
+
+The **UNESCO [[gha-vol5-16th-18th-century|General History of Africa, Vol. V]]** (ch. 25, Salim) covers the
+coast's **early-modern eclipse and realignment**: the **Portuguese** seizure and sack of the stone-towns
+after 1498 (Fort Jesus at Mombasa, 1593) and their disruptive monopoly over the gold and ivory trade, then
+the towns' appeal to **Oman**, whose forces expelled the Portuguese from Mombasa (**1698**) and brought the
+coast into the **Omani** sphere — the prelude to the nineteenth-century Zanzibar sultanate, the clove
+plantations, and the great East African ivory-and-slave trade into the interior.
 
 ## The classical stone-town age (GHA IV)
 

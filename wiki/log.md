@@ -35,6 +35,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. IV (12th–16th c.) | Section: The Maghrib — Almohads & after (chs. 2–5) | Pages created: 0 | Pages updated: 1 | (almohads — African/Maghribi view, gold trade)
 
+## 2026-06-12 section | GHA Vol. V (16th–18th c.) | Section: East Africa, the Great Lakes & Madagascar (chs. 25–29) | Pages created: 1 | Pages updated: 1 | (great-lakes-kingdoms; enriched swahili-coast — Portuguese & Omani)
+
 ## 2026-06-12 section | GHA Vol. V (16th–18th c.) | Section: Southern Africa & the Horn (chs. 23–24) | Pages created: 0 | Pages updated: 2 | (cape-colony — early Cape; solomonic-ethiopia — Oromo, Gondar)
 
 ## 2026-06-12 section | GHA Vol. V (16th–18th c.) | Section: Central Africa (chs. 19–22) | Pages created: 1 | Pages updated: 1 | (luba-lunda; enriched kingdom-of-kongo — Mbwila, Kimpa Vita)
