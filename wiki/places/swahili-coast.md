@@ -7,7 +7,7 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [Swahili city-states, Kilwa Sultanate]
 events_here: []
 processes_here: [[[indian-ocean-trade]], [[trans-saharan-trade]]]
-sources_ingested: 7
+sources_ingested: 8
 last_updated: 2026-06-12
 tags: [place, east-africa, indian-ocean, high-middle-ages]
 ---
@@ -89,6 +89,26 @@ after 1498 (Fort Jesus at Mombasa, 1593) and their disruptive monopoly over the 
 the towns' appeal to **Oman**, whose forces expelled the Portuguese from Mombasa (**1698**) and brought the
 coast into the **Omani** sphere — the prelude to the nineteenth-century Zanzibar sultanate, the clove
 plantations, and the great East African ivory-and-slave trade into the interior.
+
+## The eyewitness of 1331: Mogadishu, Mombasa, Kilwa (Ibn Battuta)
+
+The wiki's **only contemporary eyewitness** of the classical coast is **[[ibn-battuta|Ibn Battuta]]**,
+who sailed down from Aden c. 1329/1331 ([[ibn-battuta-black-africa|*Ibn Battuta in Black Africa*]]).
+He describes **Mogadishu** as "endless in its size," a powerful merchant city famed for its exported
+cloths, ruled by a "shaikh" (Abu Bakr, of Barbara origin, Arabic-speaking) with an elaborate
+Friday-and-Saturday court protocol and a **council in which the *qadi* judged *sharia* cases and the
+ministers and amirs the rest** — and the striking custom by which local hosts (*sunbuq* boatmen)
+claimed and brokered each arriving merchant's trade. He found **Mombasa** a pious, banana-and-fish
+island of expertly built **wooden mosques**, dependent on the mainland (*Sawahil*) for grain. And he
+praised **Kilwa** as "amongst the most beautiful of cities," its sultan **al-Hasan Abu al-Mawahib**
+("father of gifts") a generous warrior who waged *razzias* against the unbelieving inland **Zunuj**,
+set aside the canonical fifth of the booty, and gave alms in ivory and slaves (his successor Da'ud
+being his miserly opposite). Ibn Battuta confirms the coast's economic logic — luxury imports
+(Persian glass, Chinese pottery, Indian cloth) paid for by **ivory, gold (from Sofala and inland
+"Yufi"), ambergris, and slaves** carried down by non-Muslim African merchant corporations — and its
+character as a **fundamentally African, Kiswahili-speaking world** thinly Arabised at the top. He
+notes the dynasties' habit of claiming descent from Muslim "pioneers" from Arabia, while making clear
+the towns were no Middle-Eastern settler colonies.
 
 ## The classical stone-town age (GHA IV)
 

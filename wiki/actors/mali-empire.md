@@ -9,7 +9,7 @@ affiliated_with: [[[trans-saharan-trade]], [[islam]], "the Mande/Mandinka (Mandi
 opposed_by: [[[ghana-empire|the declining Ghana/Wagadu]], "the Sosso kingdom", "the Mossi", "later Songhay and Tuareg"]
 key_events: ["the battle of Kirina (c. 1235)", "Mansa Musa's pilgrimage to Mecca (1324)"]
 key_processes: [[[trans-saharan-trade]], [[state-formation]], [[islam]], [[afro-eurasian-world-system]]]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-12
 tags: [actor, empire, high-middle-ages, late-middle-ages, west-africa]
 ---
@@ -95,6 +95,31 @@ later fourteenth century: **succession disputes**, the loss of **Timbuktu to the
 raids from the south, and above all the **rise of [[songhay-empire|Songhay]]**, which stripped away Mali's
 eastern provinces and cities. Mali contracted to a western Mande rump, fading by c. 1600 — the gold-empire
 torch passing to Gao.
+
+## The eyewitness court of Mansa Sulaiman (Ibn Battuta, 1352–54)
+
+The wiki now holds the **only contemporary eyewitness description** of Mali's court:
+**[[ibn-battuta|Ibn Battuta]]'s** visit of 1352–54, under **Mansa Sulaiman** (r. 1341–60), in
+[[ibn-battuta-black-africa|*Ibn Battuta in Black Africa*]]. He found Sulaiman a **"miserly king"**
+(the blacks "used to hate" him for it, recalling the generosity of [[mansa-musa|Mansa Musa]]), yet
+his account of the court is unmatched: the king's **raised cupola** with arches sheathed in beaten
+gold and silver; the audience dais (***banbi***) under a tree, shaded by a silk parasol topped with
+a golden bird; the king in red Roman cloth and golden cap, preceded by 300 armed slaves and gold-and-
+silver-bearing singers; the interpreter-bard **Dugha**; and the **ritual self-abasement** of
+subjects, who stripped to rags and **threw dust on their heads** when addressed (and swore oaths by
+"the law of Mansa Sulaiman"). He documents a genuinely **constitutional** texture beneath the
+absolutism — the *qadi* publicly compelling the king to compensate a wronged merchant; petitioners
+invoking the Prophet against the sultan — and the institution of the **co-queen (Qasa)**, "his
+partner in the kingship," whose name was pronounced with his in the pulpit and whose attempted coup
+(with the king's cousin Jatil) Ibn Battuta narrates in detail.
+
+His celebrated **double-edged verdict** is a key document of how the Islamic heartland viewed the
+Sudan: he praised Mali's **rarity of injustice, the security of travellers, and the meticulous
+devotion to prayer and Qur'an-memorisation** (children chained until they learned it by heart), while
+deploring the **nudity** of women and slave-girls at court, the dusting rituals, the bird-costumed
+poets, and the eating of non-*halal* meat. Read alongside [[niane-sundiata|*Sundiata*]] (the Mande
+inside view) and Levtzion's Arabic-textual reconstruction, it triangulates the picture of the empire
+at its height — see [[griot-oral-tradition]].
 
 ## The Ibn Khaldun chronicle and why Mali endured (Ajayi & Crowder / Levtzion)
 

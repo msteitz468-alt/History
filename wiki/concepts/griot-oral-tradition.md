@@ -5,7 +5,7 @@ origin: West African (Mande) institution; as a historiographical problem, centra
 applies_to_periods: [Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Long 19th Century]
 applies_to_regions: [west-africa, sub-saharan-africa]
 contested: yes
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -38,6 +38,23 @@ are vessels of speech, the memory of mankind."
   performer's caste and purpose** — reliable, linguists caution, only two or three centuries deep, and
   unreliable for literal chronology. It is strongest as evidence of **social structure, values, memory and
   identity**, and must be triangulated with archaeology and external (Arabic, European) texts.
+
+## The earliest external eyewitness of the griot (Ibn Battuta, 1352–54)
+
+The wiki's earliest *outside* description of the institution is **[[ibn-battuta|Ibn Battuta]]'s**, in
+[[ibn-battuta-black-africa|*Ibn Battuta in Black Africa*]]. At the court of **[[mali-empire|Mansa
+Sulaiman]]** he watched the king's **interpreter and spokesman Dugha** — "a noble black and a leader
+of theirs" — who not only relayed petitions to the enthroned king but, on festival days, **performed
+as a bard**: seated with his wives and concubines, he played a reed-and-calabash instrument and **sang
+the sultan's expeditions and deeds**, for which the sultan rewarded him with 200 *mithqals* of gold.
+Crucially, Ibn Battuta also records the **juld' (sing. *jali*) — poets who dressed in feathered
+bird-costumes** with wooden beaks and recited a kind of **praise-preaching**, reminding the king of
+his predecessors' good deeds ("So do good, that good will be recounted after you") before laying their
+heads on his lap. He was explicitly told **"this performance is old amongst them; they continued it
+from before Islam"** — a fourteenth-century attestation that the *jeli*/griot's genealogical
+praise-function (and the very word *jali*) **pre-dates Islam** in the Mande world, exactly the role the
+[[niane-sundiata|*Sundiata* epic]] embodies. This is the documentary anchor showing the griot tradition
+the wiki describes was already mature and self-consciously ancient by 1352.
 
 ## The asymmetry: states vs. stateless societies (Horton)
 

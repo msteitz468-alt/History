@@ -9,7 +9,7 @@ affiliated_with: [[[mali-empire]], [[islam]], [[trans-saharan-trade]]]
 opposed_by: []
 key_events: ["accession to the Mali throne (c. 1312)", "the pilgrimage to Mecca (1324)"]
 key_processes: [[[trans-saharan-trade]], [[islam]], [[afro-eurasian-world-system]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, person, late-middle-ages, west-africa]
 ---
@@ -49,6 +49,18 @@ the famous 1375 Catalan Atlas — already on **Angelino Dulcert's map of 1339** 
 striking detail of the **oral** tradition, by contrast: the griots **belittle Musa** beside their
 god-hero Sundiata — the inverse of his towering reputation in the Arabic sources, a neat
 illustration of how emic and etic memory diverge (see [[griot-oral-tradition]]).
+
+## Remembered for generosity (Ibn Battuta, 1352)
+
+Visiting Mali under the "miserly" **Mansa Sulaiman** twenty years after Musa's death,
+**[[ibn-battuta|Ibn Battuta]]** ([[ibn-battuta-black-africa|*Ibn Battuta in Black Africa*]]) records
+that "the blacks used to hate Mansa Sulaiman because of his miserliness," recalling instead **Mansa
+Musa** as "generous and noble," who "loved the white men and was kind to them": he gave the Granadan
+poet-architect **Abu Ishaq al-Sahili** four thousand *mithqals* in a single day (al-Sahili, who built
+for Musa, is buried at Timbuktu), and rewarded an old benefactor who had once given him a trifling sum
+in childhood with seven hundred *mithqals*, robes, and slaves. Ibn Battuta also fixes Musa's place in
+the dynastic sequence (**Musa → Magha → Sulaiman**) — the contemporary memory complementing the Arabic
+chroniclers' and the Mande oral record.
 
 ## Significance
 

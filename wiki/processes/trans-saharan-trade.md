@@ -8,7 +8,7 @@ region: [north-africa, sub-saharan-africa, west-africa, transregional]
 process_type: economic
 driven_by: [the domesticated camel, demand for Sudanic gold and slaves, demand for Saharan salt, the unifying spread of Islam]
 produces: [the integration of North and sub-Saharan Africa, the wealth of [[ghana-empire|Ghana]] and the Sudanic empires, the "birth of Afro-Eurasia"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [process, north-africa, sub-saharan-africa]
 ---
@@ -74,6 +74,21 @@ terminus in the later 14th century (traced through the changing trans-Saharan ro
 Dulcert 1339 and Cresques 1375 maps). Levtzion frames the whole system as one leg of his triad —
 **trade, states, and Islam** — in which commerce stimulated state-building and the states in turn
 secured the routes.
+
+## Crossing the desert: an eyewitness (Ibn Battuta, 1352)
+
+The wiki's one **eyewitness** of the crossing itself is **[[ibn-battuta|Ibn Battuta]]**
+([[ibn-battuta-black-africa|*Ibn Battuta in Black Africa*]]), who travelled Sijilmasa→Walata in two
+months in 1352. He describes **Taghaza**, the desolate **rock-salt mine** where houses and mosque were
+built of salt slabs, worked by Massufa slaves — "in spite of the insignificance of the village, the
+trading in it comes to many *qintars* of gold dust" — and confirms that in the Sudan **salt itself
+served as currency** ("they cut it up and trade with it in pieces"), a camel-load rising from 8–10
+*mithqals* at Walata to 20–40 at Mali. He details the **takshif**, the hired Massufa scout sent ahead
+to Walata with the caravan's letters to arrange lodging and bring out water (whose death could doom the
+whole caravan), and the role of the one-eyed but peerless desert **guide**. His return leg shows the
+*other* great currency of the southern trade: the **copper rods** of Takadda, exchanged by the hundred
+for a gold *mithqal* and carried to Gobir and Bornu. These are the human texture behind the abstractions
+of "gold, salt, and the camel."
 
 ## Precursors and Establishment
 

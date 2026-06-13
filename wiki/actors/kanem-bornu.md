@@ -9,7 +9,7 @@ affiliated_with: [the Zaghawa/Kanembu, the Sefuwa (Sayfawa) dynasty, Islam, the 
 opposed_by: [the Sao peoples, the Bulala, later Bornu's rivals]
 key_events: [the founding of the Sefuwa dynasty, the conversion of Mai Umme (late 11th c.), the shift of the capital from Kanem to Bornu (14th–15th c.), the apogee under Mai Idris Alooma (late 16th c.)]
 key_processes: [[[trans-saharan-trade]], [[islamization-of-africa]], [[empire]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [actor, empire, early-middle-ages, west-africa]
 ---
@@ -74,6 +74,18 @@ Idrisid and Dawudid lines; nine mais in twenty years) ended only with **'Ali Gaj
 c.), remembered as one of the three greatest Sefawa rulers and the consolidator of the **Bornu**
 state. Smith also traces here the origins of Bornu's **feudal fief system** (the *cima*, "master
 of the frontier") and its court titulature.
+
+## An eyewitness echo (Ibn Battuta, 1353)
+
+[[ibn-battuta|Ibn Battuta]], reporting from **Takadda** on his way home in 1353
+([[ibn-battuta-black-africa|*Ibn Battuta in Black Africa*]]), gives a contemporary external glimpse of
+**Bornu** at forty days' distance: a Muslim country whose king, **Idris**, "does not appear before the
+people nor speak to them except from behind a curtain" — a 14th-century attestation of the
+**[[sacral kingship|sacral-kingship]] / ritual seclusion** that H. F. C. Smith traces deep in Sefawa
+tradition. He notes the **copper rods** mined and minted at Takadda were a principal currency carried
+**to Bornu** (and to Gobir/Kubar), which exported in return "beautiful slave women and eunuchs and
+heavy fabrics" — locating Bornu firmly within the central [[trans-saharan-trade|trans-Saharan]]
+exchange network.
 
 ## Significance
 

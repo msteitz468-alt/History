@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-12 (**Ibn Battuta — *Ibn Battuta in Black Africa*** (Hamdun & King, trans., 1975/1994) — INGEST COMPLETE (standard single-pass; primary source). The **only 14th-c. eyewitness** of both the East African city-states and the Mali empire, closing **Gap 2's** primary-source need. Created **[[ibn-battuta]]** (the great traveller) and the source page. Enriched 6: **[[mali-empire]]** (the eyewitness court of Mansa Sulaiman — the banbi, dusting, Dugha, the co-queen Qasa), **[[griot-oral-tradition]]** (the earliest external notice of the *jali*, "old amongst them… from before Islam"), **[[swahili-coast]]** (Mogadishu/Mombasa/Kilwa, Sultan al-Hasan "father of gifts"), **[[kanem-bornu]]** (Bornu's veiled king Idris; the Takadda copper trade), **[[trans-saharan-trade]]** (Taghaza salt, the takshif, salt-as-currency), **[[mansa-musa]]** (remembered for generosity). Filed to `raw/3. Middle Ages/`. **With this, Critical Gap 2 (Sub-Saharan Africa) is fully worked through the Outstanding-Sources list.**)
+
 Last updated: 2026-06-12 (**Ajayi & Crowder, eds. — *History of West Africa*, Volume One** (Longman, 1971) — INGEST COMPLETE (Large-Volume, 5 section cycles + synthesis). The standard Ibadan-school reference for **Gap 2**, on **state formation** from prehistory to c. 1800. Created 10 pages: **[[stateless-societies]]** (Horton's model), **[[hamitic-hypothesis-african-states]]** (the rejected diffusionist controversy), **[[west-africa]]** (regional anchor), **[[takrur]]**, **[[niger-delta-city-states]]** (Bonny/Kalabari — the War Canoe House), **[[mossi-states]]**, **[[akan-states]]** (Gonja/Akwamu/Denkyira/Fante), **[[moroccan-invasion-of-songhay-1591]]** (Tondibi), **[[western-sudan-arma-pashalik]]**, and **[[ahmad-baba]]**. Enriched 19 — incl. **[[ghana-empire]]** (Levtzion's al-Bakri & a flagged [CONTRADICTION] on the 1076 conquest), **[[mali-empire]]** (the savannah-capital survival thesis), **[[songhay-empire]]**, **[[kanem-bornu]]**, **[[hausa-city-states]]**, **[[state-formation]]**, **[[atlantic-slave-trade]]** (Curtin's South Atlantic System), **[[dahomey]]**/**[[oyo-empire]]** (Akinjogbin), **[[asante-empire]]**, **[[trans-saharan-trade]]**, **[[islamization-of-africa]]**, **[[west-african-jihads]]**, **[[nok-culture]]**. **Closes the West-African leg of Gap 2** (remaining: *Ibn Battuta in Black Africa*).)
 
 Last updated: 2026-06-12 (**UNESCO *General History of Africa*, Vol. VIII: *Africa since 1935*** (Mazrui & Wondji eds., 1993) — INGEST COMPLETE (Large-Volume, 6 sections + synthesis). The **final volume**, completing the **entire UNESCO GHA series (Vols II–VIII)**. Created **[[post-colonial-africa]]** (the post-1960 predicament — neo-colonialism, nation-building, coups) and **[[apartheid]]** (the system and the liberation of Southern Africa). Enriched 5 — **[[african-nationalism]]** (WWII catalyst), **[[decolonization]]** (the African independence struggle), **[[colonial-economy]]** (neo-colonialism), **[[pan-africanism]]** (the cultural renaissance & the OAU), **[[cold-war]]** (the African theatre). Filed to `raw/4. Modern Times/`. **Milestone: with the GHA series + Reader + Sundiata, Gap 2 (Sub-Saharan Africa) moves from "Absent" to moderate–strong across all periods.**)
@@ -435,7 +437,7 @@ creation order with a one-line description.
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **History of West Africa Vol. I** Ingest. Recent volumes'
+Counts reflect actual files on disk as of the **Ibn Battuta in Black Africa** Ingest. Recent volumes'
 detailed new/updated pages are catalogued in their source pages and `log.md`.
 
 | Category | Pages |
@@ -443,12 +445,12 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 | Periods | 24 |
 | Events | 189 |
 | Processes | 108 |
-| Actors | 399 |
+| Actors | 400 |
 | Places | 106 |
 | Concepts | 220 |
 | Comparisons | 0 |
 | Controversies | 44 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 31 |
-| **Total** | **1121** |
+| Sources | 32 |
+| **Total** | **1123** |
