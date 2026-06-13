@@ -5,7 +5,7 @@ date_range: "1603–1868 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the Tokugawa peace (pax Tokugawa)", "the baku-han system", "sakoku (the closed country)", "the four-class order & the bureaucratization of the samurai", "monetization & the commercial revolution", "the rise of the merchants & chōnin urban culture", "the rural landlord-entrepreneur class"]
 collection_coverage: moderate
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -104,6 +104,24 @@ administration by experienced officials rather than ideologues.
 - The **Tokugawa shoguns** ([[tokugawa-ieyasu|Ieyasu]], Hidetada, Iemitsu, the reformer
   Yoshimune); the **daimyo**; the rising **merchant** and **landlord-entrepreneur** classes.
 
+## The bakumatsu decline (Cambridge History of Japan Vol. 5)
+
+The [[cambridge-history-japan-v5-nineteenth-century|Cambridge History Vol. 5]] (Jansen,
+Bolitho) reframes the regime's last decades — the ***bakumatsu*** — as a long downward spiral
+that the [[opening-of-japan-1853-1858|Western opening]] accelerated rather than caused.
+Matsudaira Sadanobu's **Kansei reforms (1789–93)** were the last partly successful effort to
+shore up the order; the **Tempō crisis (1830s–40s)** exposed its exhaustion — the **Tempō
+famine**, the ideologically-driven **Ōshio Heihachirō revolt (1837)** that burned much of
+Osaka, and **Mizuno Tadakuni's** failed Tempō reforms (his attempt to concentrate
+landholdings around Edo and Osaka alienated the daimyo and brought his dismissal; Edo
+townsmen stoned his residence). Jansen draws a structural parallel with the earlier
+[[kamakura-period|Kamakura]] and [[muromachi-period|Ashikaga]] *bakumatsu*: each shogunate
+lost control of its vassals when it could no longer **deliver rewards and impose sanctions**,
+amid succession disputes, deepening foreign trade, and a vogue for the "irregular and
+unconventional." Notably, the Tempō reforms also bred a **new kind of samurai bureaucrat** in
+the bakufu and the reforming domains — leading some historians to locate the origins of the
+modern bureaucratic state here.
+
 ## Geographic Scope
 
 A unified archipelago centered on **Edo**, knit by the great highways (the Tōkaidō) and the
@@ -140,7 +158,7 @@ and the World*.
 - [[tokugawa-ieyasu]] · [[shogunate-bakufu]] — founder and institution.
 - [[bakuhan-system]] · [[kokudaka-system]] — the political and land-assessment structures.
 - [[tokugawa-economy]] — the agricultural and commercial revolution and the fiscal crisis.
-- [[sakoku]] — the closed-country policy.
+- [[sakoku]] · [[opening-of-japan-1853-1858]] — the closed country and its forced opening.
 - [[samurai]] — the ruling class, now bureaucratized.
 - [[azuchi-momoyama-period]] · [[meiji-restoration-1868|the Meiji Restoration]] — before and after.
 - [[global-silver-trade]] · [[japan]] — the economy and the realm.

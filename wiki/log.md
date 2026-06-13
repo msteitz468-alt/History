@@ -2293,3 +2293,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 
 ## 2026-06-13 section | The Cambridge History of Japan, Vol. 4 (Early Modern) | Section: Thought, society & popular culture (chs 8, 12, 13, 14) | Pages created: 1 | Pages updated: 2
 ## 2026-06-13 ingest-complete | The Cambridge History of Japan, Vol. 4 (Early Modern Japan, 1550–1800) | Total pages created: 6 | Total pages updated: 11 | Sections processed: 4
+
+## 2026-06-13 section | The Cambridge History of Japan, Vol. 5 (Nineteenth Century) | Section: The late-Tokugawa crisis & the opening of the ports (Intro + chs 1–4) | Pages created: 1 | Pages updated: 3

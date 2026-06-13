@@ -97,5 +97,6 @@ European learning and contributed to the intellectual ferment behind the
 - [[tokugawa-intellectual-life]] — *rangaku* and the thought it admitted.
 - [[global-silver-trade]] — the bullion drain it sought to stop.
 - [[christianity-in-japan]] · [[catholic-reformation]] — the missionary Christianity it suppressed.
+- [[opening-of-japan-1853-1858]] — its forced end by Perry and the unequal treaties.
 - [[meiji-restoration-1868]] — the regime change after its forced end.
 - [[japan]] — the country closed.

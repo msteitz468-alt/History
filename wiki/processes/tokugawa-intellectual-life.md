@@ -8,7 +8,7 @@ region: [japan, east-asia]
 process_type: [ideological, cultural]
 driven_by: [the Tokugawa search for a stabilizing orthodoxy, the peace and literacy of the Edo order, sakoku and the Deshima window, economic and social crisis]
 produces: [Neo-Confucian orthodoxy, the rival Confucian schools, kokugaku (National Learning), rangaku (Dutch learning), the intellectual ferment behind the Meiji Restoration]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [process, early-modern, japan, east-asia]
 ---
@@ -94,6 +94,32 @@ to the critical study of ancient texts — is the common root from which both **
 statecraft** and, applied to Japan's *own* ancient texts, the **[[shinto|kokugaku]]** of
 Motoori Norinaga grew. The complementary "nature" strand fed a Tokugawa **naturalism** that
 shaded into proto-scientific and political-economy thought (Andō Shōeki; Honda Toshiaki).
+
+## Late-Tokugawa thought and the road to the Restoration (Cambridge History of Japan Vol. 5)
+
+The [[cambridge-history-japan-v5-nineteenth-century|Cambridge History Vol. 5]] (H. D.
+Harootunian, ch. 3) shows how, in the *bakumatsu* decades, these intellectual currents
+**turned political and converged on the throne**. Two strands mattered most:
+
+- **Mito learning (*mitogaku*)** fused [[neo-confucianism|Confucian]] loyalism with
+  history and the foreign crisis. **Aizawa Seishisai's** *New Theses* (*Shinron*, 1825),
+  written after interrogating Western sailors at Mito, argued that the Western threat was
+  less military invasion than the **spiritual subversion** of the commoners through
+  Christianity and trade — and that Japan could resist only by cultivating its own unifying
+  state religion centered on the emperor: the doctrine of ***kokutai*** ("national essence").
+  Aizawa's call to "**revere the emperor and expel the barbarian**" (*sonnō jōi*) became the
+  slogan of the loyalist activists who made the [[meiji-restoration-1868|Restoration]].
+- **Nativism (*kokugaku*)** was **politicized and activated** by **Hirata Atsutane** and his
+  school, whose "restoration of worship" spread a [[shinto|Shintō]]-centered, emperor-revering
+  creed through rural elites across the country — the grassroots religious base of the
+  Restoration's "return to antiquity."
+
+Alongside these ran the **"Eastern ethics, Western science"** (*tōyō dōtoku, seiyō gakugei*)
+synthesis of men like **Sakuma Shōzan** — the attempt to graft Western military and technical
+learning onto a Confucian moral core, the seed of the later Meiji slogan *wakon yōsai*
+("Japanese spirit, Western technique"). Harootunian's larger argument: the cultural ferment
+of the late Tokugawa, by relocating ultimate authority in the **emperor and the *kokutai***,
+supplied the ideology that **political centralization** would harness after 1868.
 
 ## Interaction and End Conditions
 
