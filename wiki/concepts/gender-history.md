@@ -5,8 +5,8 @@ origin: "Emerged from women's history and second-wave feminism (1970s–80s); th
 applies_to_periods: ["Behavioral Modernity", "Neolithic", "Archaic Period", "Classical Antiquity", "Late Antiquity", "Early Middle Ages", "High Middle Ages", "Late Middle Ages", "Long 19th Century", "World Wars Era", "Cold War", "Contemporary"]
 applies_to_regions: [global]
 contested: yes
-sources_ingested: 3
-last_updated: 2026-06-10
+sources_ingested: 4
+last_updated: 2026-06-13
 tags: [concept, historiographical, social, global]
 ---
 
@@ -223,3 +223,4 @@ without imposing modern Western categories.
 `analogous_to: [[eurocentrism]]`
 `part_of: [[world-history-as-field]]`
 `concurrent_with: [[family-and-biopolitics]]`
+`analogous_to: [[history-of-sexuality]]` — the sibling field (Foucault, Butler) on the construction of sexual categories.
