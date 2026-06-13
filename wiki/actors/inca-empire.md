@@ -9,8 +9,8 @@ affiliated_with: ["the Inca of Cuzco", "the Sun cult (Inti)", [[tiwanaku|Tiwanak
 opposed_by: ["the Chanca confederation", "the Chimú", "the Spanish"]
 key_events: ["the Chanca war and Pachacuti's accession (1438)", "the expansion into the four suyos", "the Spanish conquest (1532–1533)"]
 key_processes: [[[andean-state-formation]], [[state-formation]], [[empire]]]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [actor, empire, late-middle-ages, andes]
 ---
 
@@ -87,9 +87,25 @@ and the burdens of [[early-modern-migrations|mita labor]] in the silver mines
 that followed (the deadly **Potosí mita** from 1574) compounded the Andean
 demographic collapse charted at [[pre-columbian-american-population]].
 
+## The conquest: epidemic before Pizarro (Mann)
+
+Charles Mann's [[mann-1491-2005|*1491*]] underscores that the [[virgin-soil-epidemics|Great Dying]]
+**preceded and enabled** the Spanish conquest of *Tawantinsuyu*. **Smallpox**, spreading overland ahead
+of the Europeans, appears to have killed the emperor **Wayna Qhapaq** and his heir, triggering the
+**civil war** between **Atawallpa** and **Waskar** that left the empire convulsed when Francisco Pizarro
+arrived. At **Cajamarca (16 November 1532)**, just **168 Spaniards** — using horses, steel, cannon, and
+the ambush of the lightly-armed imperial retinue — seized Atawallpa from the midst of an army of
+thousands. Mann stresses that the conquistadors triumphed less through technology alone than because they
+struck a society **already shattered by disease and dynastic war**; far from confirming the Inca as
+primitive, Pizarro was "amazed by the size of Tawantinsuyu" even *after* the catastrophe. Mann also notes
+how thoroughly the conquest erased the Andean past: the first full history of the conquest, Prescott's,
+did not appear until **1847**.
+
 ## Related
 
 - [[andean-state-formation]] — the long Andean process the Inca culminate.
+- [[virgin-soil-epidemics]] — the smallpox die-off that preceded and enabled the conquest.
+- [[pre-columbian-americas]] — the hemispheric overview the Inca anchor in the Andes.
 - [[tiwanaku]] — the earlier Andean center whose sacred prestige the Inca claimed.
 - [[aztec-empire]] — the contemporaneous Mesoamerican empire (the volume's other American case).
 - [[columbian-exchange-1492]] — the disease catastrophe that enabled the conquest.

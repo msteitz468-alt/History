@@ -14,8 +14,8 @@ scale_immediate: hemispheric
 scale_consequential: global
 causes: [Iberian oceanic expansion, the search for a westward route to Asia, the prior biological isolation of the Americas from Afro-Eurasia]
 consequences: [American demographic collapse, the Atlantic slave trade, global redistribution of crops and animals, the integration of a planetary world system, the rise of plantation economies]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [event, transition, early-modern, atlantic-world]
 ---
 
@@ -103,3 +103,8 @@ timing of smallpox's arrival, and how far disease (versus violence and forced
 labor) drove the collapse. The Exchange also anchors the broader debate over the
 ethics and language of "discovery" versus conquest and imposition (cf.
 [[early-modern-migrations]], [[intercultural-relations-early-modern]]).
+
+The disease side of the Exchange — the **[[virgin-soil-epidemics|Great Dying]]** — now has its own page:
+the [[virgin-soil-epidemics|virgin-soil epidemics]] that, in Charles Mann's [[mann-1491-2005|*1491*]],
+often ran *ahead* of the Europeans and turned a populous, managed hemisphere into the
+"[[pristine-myth|wilderness]]" the settlers mistook for its natural state.

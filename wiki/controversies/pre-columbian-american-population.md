@@ -5,7 +5,7 @@ period_involved: [Late Middle Ages, Early Modern]
 regions_involved: [caribbean, mesoamerica, andes, north-america, amazonia]
 positions: [low counts (Verlinden, Kroeber; hundreds of thousands to ~8 million hemispheric), high counts (Borah & S.F. Cook, Dobyns; tens of millions to 100+ million), measured middle (Livi Bacci, Moya Pons; intermediate ranges)]
 resolution_status: open
-last_updated: 2026-06-10
+last_updated: 2026-06-12
 tags: [controversy]
 ---
 
@@ -64,6 +64,25 @@ initial collapse.
   epidemic is December 1518, but it may have come earlier (Cook notes a possible
   chain of infection from young carriers on the 1493 fleet) — bearing directly on
   whether pre-observation epidemics can be assumed.
+
+## Mann's framing: Dobyns and "Numbers from Nowhere" (1491)
+
+Charles C. Mann's [[mann-1491-2005|*1491*]] (2005) dramatizes the debate around its pivotal figure,
+**Henry F. Dobyns**. Working in Peru in the early 1960s (on a rural-aid project led, fittingly, by
+**Allan Holmberg** himself — the [[holmbergs-mistake|namesake]] of "Holmberg's Mistake"), Dobyns was
+struck in colonial parish archives by the vast disparity between recorded **burials and baptisms** —
+Indians dying of European disease "in huge numbers, at incredible rates," an observation that hit him
+"like a club right between the eyes." His **1966** article applied a high **depopulation ratio** (a ~95%
+die-off) to derive hemispheric totals of **90–112 million** — a paper whose colleagues, one historian
+quipped, "are still struggling to get out of the crater it left in anthropology." Mann sets this against
+the old **low counts** — James Mooney's 1.15 million (1928) and Kroeber's 8.4 million hemispheric (1930s,
+"less than one person for every six square miles") — and against its fiercest critic, **David Henige**,
+whose *Numbers from Nowhere* (1998) is "a landmark in the literature of demographic vilification":
+applying figures "like 95 percent," Henige argues, "implies a level of knowledge that's impossible." Mann
+also foregrounds the **stakes** Cook's CWH VI account notes — high numbers magnify the scale of the loss
+and the complexity of pre-contact societies, so the dispute is unavoidably moral as well as quantitative,
+and some critics suspect the high counts of advancing a political agenda. Mann himself leans toward the
+high-counter / [[virgin-soil-epidemics|virgin-soil-epidemic]] case while registering the skeptics.
 
 ## Status
 
