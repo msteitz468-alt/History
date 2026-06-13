@@ -8,8 +8,8 @@ region: [west-africa, east-africa, central-africa, southern-africa, north-africa
 process_type: [political, military, ideological]
 driven_by: [the defence of sovereignty, land, religion, and economic independence against European conquest]
 produces: [the (mostly) failed armed resistance of the Scramble era, the foundations of later nationalism, the colonial "pacification" narrative the GHA rejects]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [process, long-19th-century, world-wars-era]
 ---
 
@@ -55,5 +55,9 @@ economic, and political resistance of the colonial decades.
 
 ## Related pages
 
-[[gha-vol7-colonial-1880-1935]] · [[scramble-for-africa]] · [[imperialism]] · [[genocide]] ·
+[[gha-vol7-colonial-1880-1935]] · [[cambridge-history-of-africa-v6]] · [[scramble-for-africa]] · [[imperialism]] · [[genocide]] ·
 [[african-nationalism]] · [[decolonization]] · [[solomonic-ethiopia]] · [[sub-saharan-africa]]
+
+*The [[cambridge-history-of-africa-v6|Cambridge History of Africa, Vol. 6]] (1985) covers the
+spectrum of African responses to conquest (Samori, the Mahdiyya, Adwa) — a parallel authority
+to the GHA account.*

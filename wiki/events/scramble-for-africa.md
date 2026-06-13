@@ -13,8 +13,8 @@ scale_immediate: continental
 scale_consequential: global
 causes: [[[imperialism|New Imperialism]] and great-power rivalry, [[industrialization|industrial]] "tools of empire", the [[southern-african-mineral-revolution|mineral revolution]], strategic competition (the route to India, the Nile), missionary and humanitarian pretexts]
 consequences: [the partition of nearly all Africa into European colonies, arbitrary borders, colonial labour and extraction economies, African resistance and later [[decolonization|decolonization]]]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [event, long-19th-century, africa]
 ---
 
@@ -81,6 +81,9 @@ responses (Samori, the Maji Maji, the Herero, the Asante, the Mahdiyya) that the
 
 ## Related pages
 
-[[reader-africa-biography]] · [[imperialism]] · [[congo-free-state]] ·
+[[reader-africa-biography]] · [[cambridge-history-of-africa-v6]] · [[imperialism]] · [[congo-free-state]] ·
 [[southern-african-mineral-revolution]] · [[sub-saharan-africa]] · [[cape-colony]] · [[decolonization]] ·
 [[long-19th-century]]
+
+*The [[cambridge-history-of-africa-v6|Cambridge History of Africa, Vol. 6]] (1985) is devoted
+to the 1870–1905 partition and conquest — a parallel authority to the GHA account.*
