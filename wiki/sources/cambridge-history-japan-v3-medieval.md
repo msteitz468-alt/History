@@ -18,8 +18,8 @@ reliability_notes: >
   ([[sansom-short-cultural-history-japan|Sansom]]). Ingested via the **Large-Volume Protocol**
   (~36,000 lines, Introduction + 12 chapters → 4 cycles). Emphasis: **deepen the existing
   medieval-Japan spine pages** and add discrete-topic pages (medieval shōen, shugo daimyo).
-pages_created: 0
-pages_updated: 0
+pages_created: 1
+pages_updated: 4
 ingested: 2026-06-13
 tags: [source]
 ---
@@ -38,7 +38,7 @@ pages.
 
 | Cycle | Chapters | Theme | Key page operations |
 |---|---|---|---|
-| 1. The Kamakura order & its fall | Intro + chs 1–3 (the Kamakura bakufu; medieval shōen; the decline of the Kamakura bakufu — Mongol invasions, the fall) | High–Late Middle Ages | **Enrich** [[kamakura-period]], [[shogunate-bakufu]], [[minamoto-no-yoritomo]], [[mongol-invasions-of-japan-1274-1281]]; **create** `medieval-shoen` (the estate system as the medieval socio-economic base) |
+| 1. The Kamakura order & its fall ✅ | Intro + chs 1–3 (the Kamakura bakufu; medieval shōen; the decline of the Kamakura bakufu — Mongol invasions, the fall) | High–Late Middle Ages | **Created** [[medieval-shoen]] (shiki hierarchy; jitō encroachment via *ukesho* & *shitaji chūbun*; partible→unitary inheritance). **Enriched** [[kamakura-period]] (Hōjō judicial state, Jōkyū War 1221, Mongol-war fiscal slide → tokuso autocracy → 1333), [[shogunate-bakufu]] (bakufu as court of law; hyōjōshū/hikitsuke; Mass's anti-conciliar revisionism), [[minamoto-no-yoritomo]] (shugo/jitō as his durable legacy), [[mongol-invasions-of-japan-1274-1281]] (no reward land → gokenin impoverishment → *tokusei* decrees → fall) |
 | 2. The Muromachi order | chs 4–6 (the Muromachi bakufu; shugo & kokujin; the decline of the shōen system) | Late Middle Ages | **Enrich** [[muromachi-period]], [[shogunate-bakufu]], [[samurai]]; **create** `shugo-daimyo` (the provincial military governors → territorial lords) |
 | 3. Medieval economy & East Asia | chs 7–9 (the medieval peasant; the growth of commerce; Japan & East Asia) | High–Late Middle Ages | **Enrich** [[muromachi-period]] (commerce/monetization), [[medieval-shoen]] (peasant society), [[mongol-invasions-of-japan-1274-1281]]/East Asian relations; **create** a medieval-economy/peasant page if warranted |
 | 4. Medieval culture & Kamakura Buddhism + synthesis | chs 10–12 (cultural life; the other side of culture; Buddhism in the Kamakura period) | High–Late Middle Ages | **Enrich** [[zen-buddhism]], [[japanese-buddhism]], [[muromachi-period]] (Noh, tea, Higashiyama), [[kamakura-period]]. Then synthesis. |

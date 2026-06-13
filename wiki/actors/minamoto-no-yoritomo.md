@@ -9,7 +9,7 @@ affiliated_with: [the Minamoto (Genji) clan, the eastern warrior houses, the Kyo
 opposed_by: [the Taira (Heike) clan, his brother Yoshitsune, rival Minamoto]
 key_events: ["the Gempei War (1180–85)", "the appointment of shugo & jitō (1185)", "becoming sei-i-tai-shōgun (1192)"]
 key_processes: [[[shogunate-bakufu]], [[samurai]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, person, high-middle-ages, japan, east-asia]
 ---
@@ -48,6 +48,21 @@ without overthrowing the [[heian-period|court or the shōen]]. In **1192** he wa
   imperial system rather than abolishing it, he created the durable **dyarchy** of court
   and bakufu.
 
+## The shugo and jitō: the durable institutional legacy (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v3-medieval|Cambridge History]] (Jeffrey P. Mass) locates
+Yoritomo's lasting achievement precisely in the offices he created in the **Gempei
+aftermath**: the **shugo** (provincial constable) and especially the **[[medieval-shoen|jitō]]**
+(estate steward). The jitō — a bakufu-appointed, bakufu-protected, heritable shiki holder
+planted inside the [[medieval-shoen|shōen]] — was the institutional wedge by which warrior
+power penetrated the estate economy and, over the next three centuries, hollowed out the
+capital proprietors. Mass stresses that the bakufu's authority over these stewards was
+exercised above all **judicially**: jitō were "the primary objects of complaint and
+control," and the maturing Kamakura courts existed largely to adjudicate the land disputes
+they provoked. Yoritomo thus bequeathed not just a military government but the **legal
+machinery of warrior landholding** — the framework within which Japanese feudal society
+actually grew.
+
 ## Counterfactual significance
 
 Where Kiyomori had tried to dominate as a court insider and failed, Yoritomo created a
@@ -61,4 +76,5 @@ Yoshitsune, as the true architect of the warrior age.
 - [[shogunate-bakufu]] — the institution he created.
 - [[kamakura-period]] — the era he opened.
 - [[samurai]] — the class he raised to power.
+- [[medieval-shoen]] — the estate system his jitō office reshaped.
 - [[japan]] — the realm; the court he ruled alongside.

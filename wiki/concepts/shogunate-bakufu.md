@@ -5,7 +5,7 @@ origin: the military government created by Minamoto no Yoritomo at Kamakura (118
 applies_to_periods: [Kamakura, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century]
 applies_to_regions: [japan, east-asia]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -62,6 +62,24 @@ Thus power was often **doubly delegated** — emperor → shogun → regent — 
 **emperor was never deposed**, only sidelined: the throne's [[shinto|sacred legitimacy]]
 made it the indispensable source of the shogun's own authority.
 
+## The Kamakura bakufu as a judicial state (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v3-medieval|Cambridge History]] (Jeffrey P. Mass) recasts the
+early bakufu less as a conquering military regime than as a **court of law for warriors**.
+Under the **Hōjō regent Yasutoki** it developed a graded judicial apparatus: the
+***hyōjōshū*** (board of councillors), the ***hikitsuke*** (investigatory boards that heard
+land suits), and an appeals office (***osso bugyō***), all working from the **Jōei Code
+(1232)** by procedure, precedent (*senrei*), and right of appeal. The institution's
+authority rested on its credible promise to **adjudicate and guarantee** vassals' estate
+rights — which is why the [[medieval-shoen|jitō]] disputes generated the thousands of
+documents on which the period's history rests. Mass adds a **revisionist** corrective: the
+**hyōjōshū was "a bakufu invention and a vehicle of the regent"** (following Goble against
+Satō's "conciliar government" reading) — power flowed to the Hōjō *tokuso* line, not to a
+shared council. The same Hōjō dominance hardened into **tokuso autocracy** after 1285, the
+regents' private vassals (*miuchibito*) eclipsing the gokenin — a concentration that, with
+the [[mongol-invasions-of-japan-1274-1281|Mongol-war]] fiscal crisis, helped bring the
+Kamakura bakufu down.
+
 ## Significance
 
 The bakufu institutionalized **warrior rule** as the normal government of Japan for ~700
@@ -74,5 +92,6 @@ hinge into modern Japan (Cycle 4).
 - [[minamoto-no-yoritomo]] — its founder.
 - [[samurai]] — the warrior class it organized.
 - [[kamakura-period]] · [[muromachi-period]] — its first two phases.
+- [[medieval-shoen]] — the estate disputes its courts existed to settle.
 - [[shinto]] — the sacred throne in whose name it ruled.
 - [[japan]] — the realm it governed.

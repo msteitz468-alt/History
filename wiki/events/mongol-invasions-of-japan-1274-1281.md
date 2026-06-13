@@ -14,7 +14,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["Kublai Khan's demand that Japan submit to the [[mongol-empire|Mongol empire]]", "the Hōjō bakufu's refusal to acknowledge inferior status"]
 consequences: ["the repulse of the Mongols & survival of Japanese independence", "the financial strain & decline of the [[kamakura-period|Kamakura bakufu]]", "the 'divine wind' (kamikaze) myth of divine protection"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [event, high-middle-ages, japan, east-asia]
 ---
@@ -68,6 +68,31 @@ wind"), revived in 1944–45 for the suicide pilots of the Pacific War.
   and fall (1333).
 - `enabled:` the powerful myth of **divine protection** of the sacred land — fuel for later
   Japanese exceptionalism and nationalism.
+
+## The fiscal aftermath in detail (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v3-medieval|Cambridge History]] (Ishii Susumu) traces exactly
+how the victory undid the victors. Repelling the Mongols first **strengthened** the
+[[shogunate-bakufu|bakufu]]: it extended Kamakura's hitherto weak authority into western
+Japan and over the Kyoto court, and from the **Shimotsuki incident of 1285** the Hōjō main
+line (**tokuso**) and its private vassals (**miuchibito**) ruled autocratically, eclipsing
+the older **gokenin** elite. But this peak was "illusory." The structural damage:
+
+- **No reward land.** A *defensive* war yielded no confiscated estates, so the bakufu could
+  not compensate the warriors, temples, and shrines who claimed credit — breaking the
+  lord–vassal bargain of service-for-reward.
+- **Impoverished gokenin.** Many vassals were already failing from **partible inheritance**
+  fragmenting their holdings and from debt in the **growing cash economy**; bearing their
+  own war costs, they sold or pawned their lands and fell into a landless mass.
+- **The *tokusei* remedy.** The bakufu's radical relief — ***tokusei* (debt-cancellation)
+  decrees**, the first major one in 1284, annulling gokenin debts and ordering pawned land
+  returned at no cost — only briefly steadied them; lenders and lesser houses alike were
+  destabilized, and many gokenin were absorbed by shugo, miuchibito, or commercially
+  enriched **akutō** ("evil bands").
+
+The cumulative warrior discontent with Hōjō autocracy and broken obligations fed the
+antibakufu movement that **Go-Daigo** rode to the destruction of the
+[[kamakura-period|Kamakura bakufu]] in 1333.
 
 ## Significance
 
