@@ -5,7 +5,7 @@ date_range: "1185–1333 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the first warrior government (bakufu)", "the rise of the samurai & Japanese feudalism", "dyarchy — Kamakura and the Kyoto court", "the Hōjō regency", "the Mongol invasions", "the popular Buddhist revolution (Pure Land, Nichiren, Zen)"]
 collection_coverage: moderate
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -47,7 +47,12 @@ authority while the bakufu guaranteed order.
 - **The popular Buddhist revolution.** The age's most lasting legacy: Buddhism became a
   **mass religion** — [[japanese-buddhism|Pure Land]] (Hōnen, Shinran), Nichiren, and
   [[zen-buddhism|Zen]] (Eisai, Dōgen). A vigorous **Nara-revival** sculpture (Unkei)
-  accompanied the rebuilding of war-damaged temples.
+  accompanied the rebuilding of war-damaged temples. As Sansom's
+  [[sansom-short-cultural-history-japan|cultural history]] stresses, it was in Kamakura that
+  **[[zen-buddhism|Zen]] was taken up by the warrior class** — beginning the fusion of the
+  [[samurai|samurai]] ethos with Zen discipline that would define [[muromachi-period|Muromachi]]
+  culture; Chinese masters (1214–1280) brought the "unadulterated" doctrine that produced the
+  first Japanese "National Teachers" (Kokushi).
 
 ## Key Actors
 

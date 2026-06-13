@@ -5,7 +5,7 @@ date_range: "1336–1573 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the Ashikaga shogunate & its weakness", "the Northern & Southern Courts", "the Ōnin War & the descent into the Warring States (sengoku)", "the rise of the daimyo & castle-towns", "the flowering of Zen-inflected culture (Noh, tea, ink painting, gardens)"]
 collection_coverage: moderate
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -59,6 +59,15 @@ patronized by Yoshimasa); **Noh** drama (perfected by **Kanami** and **Zeami** u
 Yoshimitsu's patronage, built on the principle of "no-action" and stylized suggestion);
 **flower arrangement**; and **dry-landscape (karesansui) gardens**. The vocabulary of Zen
 taste — *wabi*, *sabi*, *yūgen* — dates from this age and still defines Japanese aesthetics.
+
+Sansom's [[sansom-short-cultural-history-japan|cultural history]] stresses how thoroughly
+**[[zen-buddhism|Zen]] institutions** underpinned this flowering: the **Gozan** (Five
+Monasteries), patronized by the shoguns, were the age's centres of learning (the "Literature
+of the Five Monasteries"), education (the **Ashikaga College**; the **terakoya** schools),
+and even diplomacy and finance — Zen being "the official if not the state religion," with
+artists and men of letters joining its fraternity. Meanwhile the **popular sects** (Pure
+Land; the militant Nichiren/Hokke leagues) surged amid the post-Ōnin disorder — a "rising
+democratic sentiment" of self-governing religious communities ultimately crushed by force.
 
 ## Geographic Scope
 

@@ -5,7 +5,7 @@ origin: the Chinese Chan school, transmitted to Japan by Eisai (Rinzai, 1191) an
 applies_to_periods: [High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Contemporary]
 applies_to_regions: [japan, east-asia]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -55,6 +55,24 @@ favoring **naturalness, austere simplicity, suggestion, and restraint** (the val
 It also appealed powerfully to the **[[samurai|warrior class]]**, who valued "religious
 exercises that cultivated a strong, self-reliant character" and disciplined body and mind;
 Zen monks further served Japan's rulers as advisers, especially on relations with China.
+
+## Zen as the dominant culture of the warrior age (Sansom)
+
+George Sansom's [[sansom-short-cultural-history-japan|cultural history]] shows how, taken up
+by the [[samurai|warrior class]] in [[kamakura-period|Kamakura]] times and patronized by the
+[[muromachi-period|Ashikaga]] shoguns and barons, Zen became so pervasive it "might well be
+described as the official if not the state religion." Its grip was institutional as much as
+spiritual: the **Gozan** ("Five Monasteries" of Kyoto and Kamakura, headed by the Nanzenji,
+Rinzai pre-eminent) formed a network through which Zen monks ran much of the age's
+**diplomacy and trade** (the China trade, embassy documents) and even pioneered
+**accounting** and church finance. Zen monks were the great **educators** — the **Ashikaga
+College** (up to 3,000 students by 1550, the chief centre of Chinese classical learning) and
+the spreading **terakoya** village schools — and "the most important academies were in their
+hands." Their learning, pragmatic outlook, and "almost laical way of living" made it natural
+for **artists and men of letters to join the fraternity**, so that "there were very few
+departments of life into which Zen monks did not penetrate." (The age's great Zen mentor was
+**Musō Kokushi**, adviser to Ashikaga Takauji.) This cultural saturation is the soil from
+which the classic Zen arts — ink painting, tea, Noh, gardens — grew (see [[muromachi-period]]).
 
 ## Significance
 
