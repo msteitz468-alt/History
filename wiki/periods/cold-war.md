@@ -5,7 +5,7 @@ date_range: 1945–1991 CE
 regions_covered: [global, north-america, eastern-europe, western-europe, east-asia, south-asia, africa, latin-america, near-east]
 major_themes: [bipolar superpower rivalry, the Great Acceleration, decolonization, the demographic explosion, the Green Revolution, nuclear danger, multipolar industrialization, development]
 collection_coverage: moderate
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-10
 tags: [period]
 ---
@@ -110,3 +110,10 @@ in the decolonizing Global South) and **[[judt-postwar|Judt's *Postwar*]]** (Eur
 since 1945). Discrete **event pages** for the Korean and Vietnam wars, the Cuban
 Missile Crisis, and 1989 are still to be written. CWH VII **Book 2 remains absent
 from the collection**, but its gap is now largely covered by Westad and Judt.
+
+The **African theatre** of the Cold War is now supplied by the **[[gha-vol8-since-1935|UNESCO General
+History of Africa, Vol. VIII]]** (Section VII): the entanglement of African decolonization and
+**[[post-colonial-africa|post-colonial]]** politics in superpower rivalry — the **Congo crisis** and
+Lumumba's murder, the Angola/Mozambique wars, the [[apartheid|Southern African]] liberation struggle (Soviet
+and Cuban support vs. Western/apartheid intervention), and the proxy conflicts of the Horn — the Cold War
+"fought largely in the decolonizing Global South" of which [[westad-cold-war|Westad]] writes.

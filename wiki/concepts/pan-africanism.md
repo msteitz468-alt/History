@@ -35,7 +35,9 @@ others — turned Pan-Africanism decisively toward **African independence**, and
 liberation of their countries. After independence it took institutional form in the **Organization of
 African Unity (1963)** — though here it split between **Nkrumah's** vision of immediate political union and
 the more gradualist, sovereignty-preserving line that prevailed (and which kept the colonial borders; see
-[[decolonization]]).
+[[decolonization]]). GHA VIII (Section VI) treats the OAU's two great causes as **regional economic
+integration** and, above all, **the liberation of the remaining colonies and [[apartheid|white-minority
+regimes]]** of Southern Africa — the unfinished business that Pan-Africanism carried to 1994.
 
 ## Significance and tensions (contested)
 
