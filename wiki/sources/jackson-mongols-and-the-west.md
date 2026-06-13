@@ -18,8 +18,8 @@ reliability_notes: >
   the depth of the supposed Mongol–Western alliance, the reality of Mongol "conversion"
   hopes, and the scale of the medieval "expansion of horizons." Given full presumptive
   weight on Mongol–Latin diplomatic, missionary, and commercial contact.
-pages_created: 0
-pages_updated: 0
+pages_created: 4
+pages_updated: 4
 ingested: 2026-06-13
 tags: [source]
 ---
@@ -59,3 +59,34 @@ a wider world was real but partial, and quickly lost.
 
 (A specialist secondary monograph, used to deepen the Mongol–Europe nexus — the threat,
 the crusade diplomacy, the missions, and the opening of Asia to Latin travellers.)
+
+## Volume Synthesis Note
+
+Jackson's book gives the wiki its **Mongol–Latin Christendom axis**, the one face of the
+Mongol moment that the world-historical ([[may-mongol-conquests-2012|May]]) and institutional
+([[morgan-the-mongols|Morgan]]) treatments left thin. Its organizing movement is from
+**threat to opportunity to disappointment**. The collision of 1241–2 (Cycle 1) fixed a
+lasting terror and a hostile **image** of the Mongols (Cycle 2) — the swing from "King
+David"/Prester John hope to Gog-and-Magog apocalypse. After the empire's fragmentation,
+that threat became, in Western eyes, an **opportunity** on three fronts (Cycles 3–4): the
+[[mongol-latin-crusade-alliance|Ilkhanid crusade alliance]] against the
+[[mamluk-sultanate|Mamluks]], the [[medieval-latin-missions-to-asia|Franciscan/Dominican
+missions]] that reached a Latin archbishopric in Beijing, and the
+[[medieval-europe-asia-trade|Italian trade]] that ran to Cathay.
+
+The book's deepest contribution is its **deflationary discipline**. Where older scholarship
+(and, in its expansive mode, May) celebrates a Mongol-driven "expansion of horizons,"
+Jackson shows that each strand of contact was **largely abortive or quickly reversed**: the
+alliance never produced joint war and the Crusader states fell anyway (1291); the missions
+and the China church evaporated with the conversion of the western khanates to Islam, the
+[[black-death|plague]], and the [[mongol-empire|fall of the Yuan]] (1368); the open road to
+Cathay was already nostalgic when Pegolotti described it. This sharpens the wiki's
+**[[chinggis-exchange|Chinggis Exchange]]** page: the medieval "opening" of Asia was real
+but fragile, and its chief lasting legacy may have been the *memory* of a route east — a spur
+to the later oceanic voyages.
+
+Against the wiki's other Mongol sources, Jackson **converges** with Morgan in source-critical
+caution (the limits of the evidence, the distortions of Matthew Paris and Rashid al-Din) and
+**qualifies** May's enthusiasm without contradicting his core claim of Eurasian integration.
+No [CONTRADICTION] arose; the three together — May (impact), Morgan (institutions), Jackson
+(the Western encounter) — now give the wiki a rounded treatment of the Mongol Empire.

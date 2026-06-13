@@ -2361,3 +2361,6 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 section | Jackson, The Mongols and the West | Section: Threat & image (chs 4–6, images of the enemy) | Pages created: 1 | Pages updated: 1
 
 ## 2026-06-13 section | Jackson, The Mongols and the West | Section: Diplomacy & the khanates (chs 7–9, Ilkhanate/Golden Horde/Temür) | Pages created: 1 | Pages updated: 2
+
+## 2026-06-13 section | Jackson, The Mongols and the West | Section: Mission, commerce & horizons (chs 10–12 + Conclusion) | Pages created: 2 | Pages updated: 1
+## 2026-06-13 ingest-complete | Peter Jackson, The Mongols and the West, 1221–1410 | Total pages created: 4 | Total pages updated: 4 | Sections processed: 4 | PHASE E (MONGOL–LATIN AXIS)

@@ -5,7 +5,7 @@ origin: Coined by Timothy May in *The Mongol Conquests in World History* (2012),
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [steppe, central-asia, china, east-asia, iran-plateau, near-east, eastern-europe, silk-road]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -76,10 +76,27 @@ Anatolia, the spread of gunpowder) were *underway* before the Mongols and were
 on Africa or the New World." The concept works best as a frame for **Eurasian
 integration**, weakest when stretched into a single-cause theory of modernity.
 
+## The expansion of Europe's horizons
+
+One much-celebrated facet of the Exchange is the **widening of the Western field of
+vision**: under the Mongol peace, Latin envoys, missionaries, and merchants crossed Asia
+for the first time, and Europe gained real (if filtered) knowledge of Inner Asia and China.
+[[jackson-mongols-and-the-west|Peter Jackson]] anatomizes this Mongol–Latin contact in
+three strands — the [[mongol-latin-crusade-alliance|abortive crusade alliance]] against the
+Mamluks, the [[medieval-latin-missions-to-asia|Franciscan and Dominican missions]] (reaching
+an archbishopric at Khanbaligh/Beijing), and the [[medieval-europe-asia-trade|Italian trade]]
+(Marco Polo; Pegolotti's "perfectly safe" road to Cathay) — but he is **deflationary**: the
+"discovery" was partial, distorted by inherited categories (see
+[[medieval-european-images-of-the-mongols]]), and largely **reversed** when the khanates
+fragmented, converted to Islam, and the routes closed in the mid-14th century. What survived
+was the *memory* of an open road east — itself a spur to the later oceanic search for the
+Indies.
+
 ## Related
 
 - [[columbian-exchange-1492]] — the model and the sequel (Crosby); [[pax-mongolica]] — the
   precondition; [[silk-roads]] — the routes it revived.
 - [[mongol-empire]] · [[genghis-khan]] — the empire and the man whose name it bears.
-- [[black-death]] — its deadliest cargo; [[may-mongol-conquests-2012]] — the source.
+- [[black-death]] — its deadliest cargo; [[may-mongol-conquests-2012]] · [[jackson-mongols-and-the-west]] — the sources.
+- [[mongol-latin-crusade-alliance]] · [[medieval-latin-missions-to-asia]] · [[medieval-europe-asia-trade]] — the Mongol–Latin strands (Jackson).
 - [[afro-eurasian-world-system]] — the network it integrated at fullest extent.
