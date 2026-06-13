@@ -59,6 +59,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. VI (19th c.) | Section: The 19th-c. setting & abolition (chs. 1–4) | Pages created: 0 | Pages updated: 1 | (atlantic-slave-trade — abolition & legitimate commerce)
 
+## 2026-06-12 section | GHA Vol. VII (colonial 1880–1935) | Section: The colonial economy (chs. 12–15) | Pages created: 1 | Pages updated: 0 | (colonial-economy)
+
 ## 2026-06-12 section | GHA Vol. VII (colonial 1880–1935) | Section: Survivors & the Great War (chs. 9–11) | Pages created: 1 | Pages updated: 1 | (liberia; enriched merina-kingdom)
 
 ## 2026-06-12 section | GHA Vol. VII (colonial 1880–1935) | Section: Partition, conquest & resistance (chs. 1–8) | Pages created: 1 | Pages updated: 1 | (african-resistance-to-colonial-rule; enriched scramble-for-africa)
