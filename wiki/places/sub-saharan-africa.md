@@ -87,5 +87,6 @@ deep interior before the era of written sources.
 ## Related pages
 
 [[reader-africa-biography]] · [[bantu-expansion]] · [[trans-saharan-trade]] · [[atlantic-slave-trade]] ·
-[[scramble-for-africa]] · [[decolonization]] · [[aksum]] · [[kush-meroe]] · [[jenne-jeno]] ·
-[[ghana-empire]] · [[mali-empire]] · [[swahili-coast]] · [[great-zimbabwe]]
+[[impact-of-atlantic-slave-trade-on-africa]] · [[scramble-for-africa]] · [[decolonization]] · [[aksum]] ·
+[[kush-meroe]] · [[jenne-jeno]] · [[ghana-empire]] · [[mali-empire]] · [[swahili-coast]] ·
+[[great-zimbabwe]] · [[cape-colony]] · [[mfecane]] · [[southern-african-mineral-revolution]]

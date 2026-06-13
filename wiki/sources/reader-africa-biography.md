@@ -15,7 +15,7 @@ reliability_notes: >
   which the UNESCO General History of Africa volumes are the reference). Its environmental framing is a
   argument to be noted, not a neutral baseline. The wiki uses it as the continent-wide spine for Gap 2.
 pages_created: 7
-pages_updated: 7
+pages_updated: 8
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -88,16 +88,57 @@ state-level pages this spine creates.
   catastrophe; the *évolués*; the OAU's retention of arbitrary colonial borders; the post-independence
   "dreams and nightmares" of coups and strongmen).
 
-*Sections 1–3 (deep prehistory, human origins, food production/iron) still to process — these largely
-reinforce existing archaeology-based pages and Reader's environmental thesis already captured in
-[[sub-saharan-africa]].*
+**Sections 1–3 — Founding Factors / Humanity Emerging / The African Options (chs. 1–19), processed
+2026-06-12 (consolidated):** These deep-prehistory parts largely reinforce existing archaeology-based pages.
+- **§1 (geology, climate, soils):** Reader's environmental thesis is already the backbone of the new
+  [[sub-saharan-africa]] page.
+- **§2 (human origins, Out of Africa):** overlaps the existing [[human-origins]] / [[out-of-africa-migration]]
+  pages (Africa as the cradle of humanity) — no new pages needed.
+- **§3 (food production, iron, Bantu):** **Updated** [[bantu-expansion]] with Reader's linguistic narrative
+  (Bleek, Greenberg's four families, Guthrie's Benue/Cameroon cradle), his demolition of the **Hamitic
+  hypothesis**, and his **trans-Saharan-diffusion** view of iron origins (vs. the page's independent-
+  invention lean) plus the deforestation cost.
 
 ## Volume Synthesis Note
 
-*To be written after all sections are processed (Protocol Step 3).*
+Reader's *Africa: A Biography of the Continent* gave the wiki its **first continent-wide spine for
+Sub-Saharan Africa**, taking the region's coverage from CLAUDE.md's "Absent — Critical gap" toward
+*moderate*. Across eight sections it generated **7 new pages** ([[sub-saharan-africa]], [[great-zimbabwe]],
+[[cape-colony]], [[mfecane]], [[southern-african-mineral-revolution]], [[scramble-for-africa]], and the
+controversy [[impact-of-atlantic-slave-trade-on-africa]]) and **enriched 8** existing ones ([[aksum]],
+[[kush-meroe]], [[jenne-jeno]], [[swahili-coast]], [[atlantic-slave-trade]], [[imperialism]],
+[[decolonization]], [[bantu-expansion]]).
+
+**The unifying argument** is *environmental*: Africa's ancient, eroded geology, thin and capricious soils,
+and uniquely heavy **disease burden** (malaria, the tsetse fly) set the constraints within which its
+peoples built their societies — so that African history is the story of **indigenous innovation against a
+hard environment**, not (as the discredited **Hamitic hypothesis** held) of civilization imported from
+outside. This thread runs from the Bantu expansion, through Aksum and Great Zimbabwe (states raised and
+then destroyed by their own ecological success), to Jenne-jeno's non-coercive urbanism — each a case of
+Africans as "innovators in their own right."
+
+**The book's second half darkens into the history of external predation**: the Atlantic slave trade (which
+Reader, siding with Lovejoy and Manning, reads as demographically and socially **transformative** — against
+the Thornton/Eltis minimization now recorded on [[impact-of-atlantic-slave-trade-on-africa]]); the Cape
+settler frontier; the mineral revolution that invented the migrant-labour and pass-law machinery of
+apartheid; the Scramble's fraudulent treaties; and a decolonization that delivered arbitrary borders, Cold
+War proxy violence (the Congo), and the post-independence "nightmare" of coups and strongmen.
+
+**Cross-volume tensions.** Reader (a 1997 journalistic synthesis) sits productively against the wiki's
+Cambridge-reference backbone. Two genuine divergences are now flagged for tracking: (1) on the **slave
+trade's impact on Africa**, Reader's transformationism vs. Thornton's (CWH VI) minimization and skepticism
+of the gun–slave cycle — promoted to a controversy page; (2) on the **origin of African iron**, Reader's
+trans-Saharan **diffusion** vs. CWH IV/Nok's case for **independent sub-Saharan invention** — noted on
+[[bantu-expansion]]. Both are recorded, unadjudicated, per the Contradiction Protocol. The state-level
+political detail Reader treats lightly (Ghana, Mali, Songhai, Kongo, Ethiopia, the Hausa) is the natural
+work of the **UNESCO General History of Africa** volumes and the West African and primary sources that
+follow in Gap 2.
 
 ## Cross-links
 
-By John Reader; the continent-wide spine for [[sub-saharan-africa|Sub-Saharan Africa]] (Gap 2); to be
-deepened by the UNESCO [[gha-vol2-ancient-civilizations|General History of Africa]] volumes and the
-primary sources [[niane-sundiata|Sundiata]] and [[ibn-battuta-black-africa|Ibn Battuta in Black Africa]].
+By John Reader; the continent-wide spine for [[sub-saharan-africa|Sub-Saharan Africa]] (Gap 2). Created
+[[great-zimbabwe]], [[cape-colony]], [[mfecane]], [[southern-african-mineral-revolution]],
+[[scramble-for-africa]], and [[impact-of-atlantic-slave-trade-on-africa]]; enriched [[aksum]],
+[[kush-meroe]], [[jenne-jeno]], [[swahili-coast]], [[atlantic-slave-trade]], [[decolonization]] and
+[[bantu-expansion]]. To be deepened by the UNESCO **General History of Africa** volumes and the primary
+sources Sundiata and Ibn Battuta in Black Africa.

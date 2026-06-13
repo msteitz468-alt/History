@@ -8,8 +8,8 @@ region: [sub-saharan-africa, central-africa, east-africa, southern-africa, west-
 process_type: [demographic, economic, cultural, ideological]
 driven_by: ["agricultural and (later) iron-working advantage", "[[early-african-food-production|African food production]]", "demographic growth"]
 produces: ["the spread of farming/herding across central & southern Africa", "the Bantu language family across a third of the continent", "assimilation/displacement of forager and Khoe-San communities"]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [process, neolithic, sub-saharan-africa]
 ---
 
@@ -84,6 +84,30 @@ is now seen as a **gradual, centuries-long process** that grew "as much by absor
 and farming peoples as by migration" — converging with the genetics-led assimilation account
 above.
 
+## Reader's account (and the iron-origins tension)
+
+**[[reader-africa-biography|Reader]]** gives the classic linguistic narrative: **Bleek** coined "Bantu"
+(*ba-ntu*, "people") as a purely **linguistic** label (no racial meaning); **Greenberg** placed it within
+the **Niger–Congo** family, one of Africa's **four** families (with Khoisan, Nilo-Saharan, Afro-Asiatic);
+and **Guthrie's** word-root analysis located the **cradle-land in the Benue valley / Cameroon grassfields**,
+whence proto-Bantu **forest root-crop cultivators** dispersed from ~5,000 years ago, slowly through the
+forest (~22 km/decade) then rapidly beyond it, reaching the southern limit by ~the 4th century CE — "an
+event unmatched in world history." Reader uses the linguistics to **demolish the racist "Hamitic
+hypothesis"** (Seligman's "pastoral conquering Hamites" bringing civilization to "dark agricultural
+Negroes"), noting Greenberg showed the most specialized African pastoralism was **Nilo-Saharan**, not
+Afro-Asiatic.
+
+On **iron**, Reader leans the **opposite way from this page's CWH IV account**: he argues an independent
+sub-Saharan invention of iron-smelting is **improbable** (no precedent for reaching iron without prior
+copper-working), and that iron most likely **diffused across the Sahara** via Berber traders and the
+Phoenician/Carthaginian network — the earliest sub-Saharan smelting at **Taruga (Jos plateau, ~2,600 BP)**
+sitting where the trans-Saharan routes met the Niger. He agrees, though, that **Meroë was not the source**
+(West/Central African iron is older). The wiki preserves both the **diffusion** (Reader) and **independent-
+invention** (Burstein/CWH IV, Nok) positions as an open question. Reader also stresses iron's **ecological**
+cost — the staggering charcoal demand (≈1 tonne of charcoal for enough iron to make three hoes) drove
+**deforestation** that may have aborted some Sahelian states even as forest clearance opened grassland for
+cattle.
+
 ## End Conditions
 
 By ~500 CE farming, herding, and (often) iron-working communities coexisted with
@@ -97,4 +121,11 @@ The simple "Bantu migration carried farming + iron south in one wave" model is n
 regarded as too crude; genetics and linguistics favour a protracted,
 assimilation-heavy process. The expansion is a key test case for the
 farming/language-dispersal hypothesis (see
-[[historical-linguistics-and-agriculture]]).
+[[historical-linguistics-and-agriculture]]). The **origin of African iron** —
+trans-Saharan diffusion ([[reader-africa-biography|Reader]]) vs. independent
+sub-Saharan invention (CWH IV; [[nok-culture|Nok]]) — remains contested.
+
+## Related pages
+
+[[reader-africa-biography]] · [[sub-saharan-africa]] · [[early-african-food-production]] ·
+[[african-language-family-origins]] · [[nok-culture]] · [[trans-saharan-trade]]
