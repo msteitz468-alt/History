@@ -13,7 +13,7 @@ scale_immediate: civilizational
 scale_consequential: global
 causes: [[[causes-of-the-first-world-war|see the origins controversy]], the alliance system, militarism and mobilization timetables, [[nationalism]], [[imperialism|imperial rivalry]], the July Crisis]
 consequences: [collapse of the Habsburg/Romanov/Ottoman/Hohenzollern empires, the Russian Revolution, the Versailles settlement, [[communism-and-fascism|communism and fascism]], the path to the [[second-world-war-1939|Second World War]]]
-sources_ingested: 2
+sources_ingested: 4
 last_updated: 2026-06-13
 tags: [event, world-wars-era, western-europe]
 ---
@@ -67,6 +67,9 @@ Fischer thesis), and the **ideological** (the nationalist, social-Darwinist "moo
 - `enabled:` the rise of [[communism-and-fascism|communism and fascism]], the grievances exploited by Nazi
   Germany, and thus the path to the [[second-world-war-1939|Second World War]]; the acceleration of
   [[decolonization|anti-colonial]] nationalism and the discrediting of Europe's "civilizing mission."
+- `produced:` a continent in mourning — at least **2 million widows** and ~**6 million orphans** — and a
+  new culture of **[[war-memory-and-mourning|commemoration]]** (the Tombs of the Unknown Soldier, Armistice
+  Day, the village war memorial) that shaped how the twentieth century remembered war (Winter, Vol. III).
 
 ## Historiography
 
@@ -78,6 +81,6 @@ curve" accounts of the British army.
 
 ## Related pages
 
-[[causes-of-the-first-world-war]] · [[joll-origins-first-world-war]] · [[total-war]] · [[1914-end-of-long-19th-century]] ·
-[[world-wars-era]] · [[second-world-war-1939]] · [[communism-and-fascism]] · [[nationalism]] ·
-[[winter-cambridge-history-first-world-war-v1]]
+[[causes-of-the-first-world-war]] · [[joll-origins-first-world-war]] · [[total-war]] · [[war-economy]] · [[war-memory-and-mourning]] ·
+[[1914-end-of-long-19th-century]] · [[world-wars-era]] · [[second-world-war-1939]] · [[communism-and-fascism]] · [[nationalism]] ·
+[[winter-cambridge-history-first-world-war-v1]] · [[winter-cambridge-history-first-world-war-v2]] · [[winter-cambridge-history-first-world-war-v3]]
