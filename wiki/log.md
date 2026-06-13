@@ -2343,3 +2343,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 ingest-complete | Jonathan Spence, The Search for Modern China | Total pages created: 5 | Total pages updated: 3 | Sections processed: 2
 
 ## 2026-06-13 ingest | Sima Qian, Records of the Grand Historian: Qin Dynasty (Shi ji) | Classical Antiquity | china | Pages created: 1 | Pages updated: 2
+
+## 2026-06-13 section | Sima Qian, Records of the Grand Historian (Han II) | Section: Emperor Wu — expansion & the Xiongnu wars (Part I treatises + Part II) | Pages created: 1 | Pages updated: 2

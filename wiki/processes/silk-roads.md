@@ -8,7 +8,7 @@ region: [china, central-asia, steppe, iran-plateau, mesopotamia, mediterranean, 
 process_type: economic
 driven_by: ["[[trade-network-formation|exchange demand]]", "[[empire|imperial]] peace and infrastructure", "[[pastoral-nomadism|nomadic]] carriers and protectors", "elite demand for silk and prestige goods", "oasis city-states", "the Pax Mongolica"]
 produces: ["Afro-Eurasian integration", "the spread of [[buddhism|Buddhism]], Christianity, Manichaeism, [[islam|Islam]]", "transmission of technology and disease", "cosmopolitan oasis cities", "[[afro-eurasian-world-system|the medieval world system]]", "[[divergence-convergence|convergence]]"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-10
 tags: [process, silk-road, classical-antiquity, early-middle-ages, central-asia]
 ---
@@ -38,7 +38,11 @@ third-century contraction.
 
 Opened at the eastern end by the [[han-dynasty|Han]] mission of **Zhang Qian** (from
 139 BCE) into Central Asia, seeking allies (the [[yuezhi]]) against the
-[[xiongnu]]. The mature first era rested on the simultaneous strength of **four
+[[xiongnu]]. The contemporary record of this opening is **[[sima-qian|Sima Qian's]]**
+**Account of Dayuan (Ferghana)** in [[sima-qian-records-han-ii|*Records of the Grand
+Historian: Han Dynasty II*]]: Zhang Qian's reports of the western lands and
+[[han-wudi|Emperor Wu's]] campaigns to obtain the "**heavenly horses**" of Ferghana drew Han
+power into the Tarim oases and inaugurated the eastern trade. The mature first era rested on the simultaneous strength of **four
 powers** straddling the routes: [[han-dynasty|Han]] China, the steppe and Bactrian
 [[kushan-empire|Kushans]], [[parthian-empire|Parthia]], and [[roman-empire|Rome]].
 Roman demand for silk (and anxiety about the bullion drain it caused — Pliny's
