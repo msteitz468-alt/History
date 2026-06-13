@@ -66,3 +66,4 @@ Finkel cautions that the "Sick Man" framing was itself a polemical European cons
 - [[ottoman-empire]] — the empire at issue; [[tanzimat-reforms]] — its reforming response.
 - [[siege-of-vienna-1683]] — the turning point that began the retreat; [[fall-of-the-ottoman-empire-1922]] — the resolution.
 - [[ottoman-decline-thesis]] — the debate over the "Sick Man" framing; [[first-world-war-1914]] — where the question exploded.
+- [[colonial-partition-of-the-arab-world]] — the carve-up of the Arab provinces the question produced; [[middle-east-modern]].

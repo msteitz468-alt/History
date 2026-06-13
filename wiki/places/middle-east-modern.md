@@ -7,7 +7,7 @@ period_active: [Age of Expansion, Long 19th Century, World Wars Era, Cold War, C
 controlled_by: [Ottoman Empire, Qajar/Pahlavi Iran, Alawi Morocco, European mandates (Britain, France), independent nation states]
 events_here: [[[smallpox-eradication]] (variolation roots), the Eastern Question, the post-WWI mandates, the 1948 creation of Israel, the 1951–53 Iranian oil crisis, the 2011 Arab Spring]
 processes_here: [[[self-strengthening]] (Tanzimat), [[nationalism]], [[decolonization]], [[industrialization]], the global resurgence of religion]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [place, near-east, long-19th-century]
 ---
@@ -81,6 +81,24 @@ trends (the "glocal" frame, after Roland Robertson). This complements the
 [[great-divergence|Great Divergence]] revisionism and the volume's broader
 anti-[[eurocentrism|Eurocentrism]].
 
+## The Arab world: living by others' rules (Rogan)
+
+Eugene Rogan's [[rogan-the-arabs|*The Arabs: A History*]] supplies the Arab-centered narrative
+the CWH chapter only sketches. Rogan dates **modern Arab history from the Ottoman conquest of
+the Arab lands (c. 1500)** — when the Arabs first came to be ruled by an external power — and
+argues that ever since they have negotiated the modern age **"by the rules set by the dominant
+powers of the day,"** through four eras: the **Ottoman**, the **European colonial**, the **Cold
+War**, and the present age of **US domination and globalization**. The Arabs were "most
+empowered when there was more than one dominant power" to play off; each transition opened
+opportunity but deepened foreign intrusion. Against this runs the **"Arab malaise"** (Samir
+Kassir) — a sense of powerlessness — measured against two eras of greatness: the first five
+Islamic centuries and the nineteenth-century cultural renaissance, the ***nahda***. Rogan
+insists on Arab **agency** (responsible for "successes and failures alike") and on the recurring
+gap between Western promises of "liberation" and the reality of occupation (Napoleon 1798;
+Maude in Baghdad 1917; Bush 2003). The wiki's discrete Arab-world pages —
+[[arab-nationalism]], [[colonial-partition-of-the-arab-world]], [[arab-israeli-conflict]],
+[[gamal-abdel-nasser]], [[political-islam]] — rest on this account.
+
 ## Collection Coverage Note
 
 This page rests on [[mcneill-cwh-v7-2015|CWH VII Book 1]]'s single regional chapter,
@@ -93,3 +111,6 @@ absent from the collection, would have supplied it).
 
 [[islam]] · [[self-strengthening]] · [[nationalism]] · [[decolonization]] ·
 [[imperialism]] · [[comparative-religion]] · [[long-19th-century]] · [[cold-war]]
+
+The modern Arab world (Rogan): [[arab-nationalism]] · [[colonial-partition-of-the-arab-world]] ·
+[[arab-israeli-conflict]] · [[gamal-abdel-nasser]] · [[political-islam]] · [[ottoman-empire]]

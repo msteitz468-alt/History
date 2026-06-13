@@ -2329,3 +2329,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 ingest | Alan Mikhail, God's Shadow: The Ottoman Sultan Who Shaped the Modern World | Early Modern | near-east/anatolia/iberia/americas | Pages created: 1 | Pages updated: 3
 
 ## 2026-06-13 ingest | Lord Kinross, The Ottoman Centuries (targeted) | Late Middle Ages, Early Modern | anatolia/balkans/near-east | Pages created: 1 | Pages updated: 2
+
+## 2026-06-13 section | Rogan, The Arabs | Section: The Ottoman & colonial Arab world (Intro + chs 1–8) | Pages created: 2 | Pages updated: 3

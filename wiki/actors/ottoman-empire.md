@@ -168,6 +168,7 @@ the **continuities** between empire and republic against the myth of a clean bre
 
 - [[finkel-osmans-dream]] — the narrative spine for the post-1650 story above.
 - [[tanzimat-reforms]] · [[eastern-question]] · [[fall-of-the-ottoman-empire-1922]] — the empire's last two centuries.
+- [[colonial-partition-of-the-arab-world]] · [[arab-nationalism]] · [[middle-east-modern]] — the Arab provinces and their post-Ottoman fate.
 - [[ottoman-decline-thesis]] — the debate over how to read the empire's later centuries.
 - [[imber-ottoman-empire-1300-1650]] — the structural study underpinning the 1512–1650 account above.
 - [[selim-i]] · [[suleiman-the-magnificent]] — the conquering and apogee sultans.
