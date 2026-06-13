@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: hemispheric
 causes: [Mongol world-conquest ideology, the pursuit of the Cumans, the destruction of Kievan Rus′]
 consequences: [the devastation of Hungary and Poland, the sudden Mongol retreat, the lasting menace of the Golden Horde]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [event, high-middle-ages, eastern-europe, central-asia]
 ---
 
@@ -35,6 +35,26 @@ passed through Moravia; the main army under Batu routed **Béla IV** of Hungary 
 Sajó river, 11 April 1241)**, devastating the kingdom while Béla fled to an Adriatic island. In
 1242 a squadron pushed through Bosnia to the Dalmatian coast (Split, Kotor, Ragusa) — but then,
 at the onset of spring 1242, **Batu's armies abruptly withdrew** east into the Pontic steppe.
+
+### Jackson's monograph: the campaign in detail
+
+[[jackson-mongols-and-the-west|Jackson's]] full study adds the texture. The Polish prong
+under Batu's brother **Orda** and Chaghadai's son **Baidar** attacked Sandomir (13 Feb.
+1241), beat Bolesław V, and then destroyed **Henry the Pious** at **Liegnitz (9 April)** —
+his head paraded on a lance — before turning south through Moravia to rejoin Batu rather
+than press toward the nearby Bohemian king Václav. **Four armies** converged on Hungary
+through the Carpathian passes. Crucially, on the eve of the campaign the Hungarians had
+**lynched the Cuman khan Köten** on suspicion of collusion, destroying their one body of
+allies experienced in steppe warfare and driving his followers to ravage the country; the
+episode fed a lasting Western confusion of Cumans with Mongols. After **Mohi** the Mongols
+found Béla's chancellor's body, seized the **royal seal, and issued bogus decrees** telling
+the population to stay put. Conquest was eased because Hungary "had almost no city protected
+by walls" — its defences were earthen "mud-pies," the few stone castles confined to the
+Austrian border; when the **Danube froze on Christmas Day 1241** the Mongols crossed to the
+western bank and hunted Béla down the Dalmatian coast to the island of **Trogir (Trau)**.
+Panic ran "as far afield as the Netherlands and Spain," yet Béla got no help: Duke
+**Frederick II of Austria** lured the fugitive king to a castle and extorted money and three
+counties from him.
 
 ## Causal Analysis
 
@@ -75,3 +95,4 @@ internal divisions** of the Golden Horde rather than by European resistance.
 - `produced:` the devastation of [[central-european-kingdoms|Hungary and Poland]] and the overlordship of the Golden Horde.
 - `concurrent_with:` the [[frederick-ii-hohenstaufen|papal–imperial struggle]] that paralysed a Latin response.
 - `analogous_to:` the Mongol invasion of Syria (1260), checked at [[battle-of-ain-jalut-1260|Ain Jalut]] — another army withdrawn at a critical juncture.
+- Sources: [[abulafia-ncmh-v5-2000|NCMH V]] (Jackson) · [[jackson-mongols-and-the-west|Jackson, *The Mongols and the West*]].

@@ -2355,3 +2355,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 ingest | Kautilya, The Arthashastra | Classical Antiquity | south-asia | Pages created: 3 | Pages updated: 4 | PHASE E (INDIA DEPTH)
 
 ## 2026-06-13 ingest | David Morgan, The Mongols (1986) | High Middle Ages, Late Middle Ages | steppe/central-asia/iran-plateau/eastern-europe | Pages created: 3 | Pages updated: 4 | PHASE E (MONGOL DEPTH)
+
+## 2026-06-13 section | Jackson, The Mongols and the West | Section: Collision (Intro + chs 1–3, the invasions of 1241–4) | Pages created: 1 (source plan) | Pages updated: 1
