@@ -2297,3 +2297,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 section | The Cambridge History of Japan, Vol. 5 (Nineteenth Century) | Section: The late-Tokugawa crisis & the opening of the ports (Intro + chs 1–4) | Pages created: 1 | Pages updated: 3
 
 ## 2026-06-13 section | The Cambridge History of Japan, Vol. 5 (Nineteenth Century) | Section: The Meiji Restoration & the new state (chs 5, 6, 10) | Pages created: 2 | Pages updated: 3
+
+## 2026-06-13 section | The Cambridge History of Japan, Vol. 5 (Nineteenth Century) | Section: Modernization — society, economy & the turn to the West (chs 7–9) | Pages created: 2 | Pages updated: 1

@@ -8,7 +8,7 @@ region: [global, western-europe, east-asia, north-america, south-asia]
 process_type: [economic, technological, environmental, demographic]
 driven_by: [[[fossil-fuel-energy-transition]], easing of local resource constraints, mechanization, [[industrious-revolution]], capital accumulation, state and military demand]
 produces: [[[great-acceleration]], [[anthropocene]], mass urbanization, [[great-divergence]] and its later partial reversal, the modern world economy]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-13
 tags: [process, long-19th-century, cold-war, global]
 ---
@@ -119,4 +119,9 @@ and village enterprise**, and crucially **built on Tokugawa foundations** — a 
 money economy, high literacy, manual skills, and the rural [[edo-period|landlord-entrepreneur]]
 — funded by the **land tax** drawn from the agricultural majority. Japan thus became the
 first society outside the West to industrialize, and the model later followed across East
-Asia.
+Asia. The [[cambridge-history-japan-v5-nineteenth-century|Cambridge History of Japan Vol. 5]]
+(E. S. Crawcour, ch. 9) reinforces the **continuity** reading: Meiji growth was less a
+break than an acceleration of the already-commercialized [[tokugawa-economy|Tokugawa economy]],
+and the early Meiji decades (1868–85) were a period of institutional groundwork and the
+**Matsukata deflation** rather than rapid factory growth — the takeoff came after. The wider
+project of which it was the economic core is treated on [[meiji-modernization]].
