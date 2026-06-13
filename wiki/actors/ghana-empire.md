@@ -8,9 +8,9 @@ region: [west-africa, sub-saharan-africa]
 affiliated_with: [the Soninke people; North African Muslim merchants resident at Kumbi]
 opposed_by: [the [[trans-saharan-trade|Almoravids]] (11th c.); rival Sahelian states]
 key_events: [emergence as a powerful kingdom by c. 800 CE, control of the Sahelian gold-salt trade, the double-city of Kumbi Saleh, conversion of the ruling class to Islam (11th c.)]
-key_processes: [[[trans-saharan-trade]], [[empire]], [[islamization]]]
-sources_ingested: 2
-last_updated: 2026-06-10
+key_processes: [[[trans-saharan-trade]], [[empire]], [[islamization-of-africa]]]
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [actor, empire, early-middle-ages, west-africa]
 ---
 
@@ -79,3 +79,16 @@ Ghana is known almost entirely through **Arabic geographers** (al-Bakri and othe
 archaeology at Kumbi Saleh and the Niger cities — its own people left no written records.
 CWH IV warns against the old bias of dating African developments to their **first mention in
 foreign sources**: Ghana was clearly powerful well before the surviving descriptions.
+
+## GHA III: al-Bakri's Ghana and the Almoravid question
+
+The **UNESCO [[gha-vol3-7th-11th-century|General History of Africa, Vol. III]]** (ch. 14, Devisse; ch. 6,
+de Medeiros) supplies the classic eleventh-century portrait drawn from **al-Bakri (1068)**: the **Soninke**
+empire of **Wagadu**, its twin capital at **Kumbi Saleh** (a royal/pagan town and a separate Muslim
+merchants' town), the king's gold monopoly and bureaucracy, and the Saharan emporium of **Awdaghust**. GHA
+also reframes the long-told story that the **[[almoravids|Almoravids]] conquered Ghana c. 1076**: recent
+scholarship (Devisse and others) treats this as **overstated** — relations between the desert Sanhaja and
+the Soninke were as much commercial and gradual as military, and Ghana's decline owed more to shifting
+trade routes and the rise of successor states than to a single conquest. The **Islamization** of Ghana, as
+elsewhere in the Sahel, came chiefly **through the merchant class (the Wangara)**, not the sword (see
+[[islamization-of-africa]]).

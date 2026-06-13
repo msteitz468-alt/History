@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 section | GHA Vol. III (7th–11th c.) | Section: West Africa — trade, Ghana, Chad, Guinea (chs. 14–18) | Pages created: 1 | Pages updated: 1 | (kanem-bornu; enriched ghana-empire)
+
 ## 2026-06-12 section | GHA Vol. III (7th–11th c.) | Section: The Sahara, Fatimids & Almoravids (chs. 11–13) | Pages created: 1 | Pages updated: 1 | (fatimid-caliphate; enriched almoravids)
 
 ## 2026-06-12 section | GHA Vol. III (7th–11th c.) | Section: Egypt, Nubia & the Maghrib under Islam (chs. 7–10) | Pages created: 0 | Pages updated: 2 | (christian-nubia — apogee; berbers — Arab conquest & resistance)
