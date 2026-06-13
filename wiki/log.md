@@ -2379,3 +2379,6 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 ingest | Cambridge World History of Sexualities, Vol. 2: Systems of Thought and Belief (2024) | transregional | global | Pages created: 1 | Pages updated: 1 | off-list raw/ file (epub)
 
 ## 2026-06-13 ingest | Cambridge World History of Sexualities, Vol. 3: Sites of Knowledge and Practice (2024) | all periods | global | Pages created: 1 | Pages updated: 1 | off-list raw/ file (epub)
+
+## 2026-06-13 ingest | Cambridge World History of Sexualities, Vol. 4: Modern Sexualities (2024) | Long 19th C–Contemporary | global | Pages created: 2 | Pages updated: 1 | off-list raw/ file (pdf)
+## 2026-06-13 ingest-complete | The Cambridge World History of Sexualities, Vols 1–4 (Wiesner-Hanks & Kuefler, eds., 2024) | Total pages created: 6 | Total pages updated: 2 | Volumes: 4

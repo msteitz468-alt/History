@@ -5,7 +5,7 @@ origin: Emerged as a field in the 1970s–80s from women's history, gay/lesbian 
 applies_to_periods: [transregional]
 applies_to_regions: [transregional]
 contested: yes
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -75,6 +75,6 @@ and ties it closely to [[gender-history]].
 ## Related
 
 - [[gender-history]] — the sibling analytic (Scott, Butler); [[family-and-biopolitics]] — sexuality, reproduction, and state power.
-- [[sexuality-in-world-belief-systems]] — the cross-cultural evidence (how traditions construed sex); [[urban-sexual-cultures]] — the city as the site of sexual practice.
+- [[sexuality-in-world-belief-systems]] — the cross-cultural evidence (how traditions construed sex); [[urban-sexual-cultures]] — the city as the site of sexual practice; [[modern-sexuality]] · [[sexual-revolution]] — the modern transformation.
 - [[roman-family-and-household]] · [[late-antique-family]] · [[women-in-precolonial-southeast-asia]] — period/regional cases the field illuminates.
-- [[cambridge-world-history-of-sexualities-v1]] · [[cambridge-world-history-of-sexualities-v2]] · [[cambridge-world-history-of-sexualities-v3]] — the sources.
+- [[cambridge-world-history-of-sexualities-v1]] · [[cambridge-world-history-of-sexualities-v2]] · [[cambridge-world-history-of-sexualities-v3]] · [[cambridge-world-history-of-sexualities-v4]] — the sources (4 vols).
