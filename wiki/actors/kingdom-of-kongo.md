@@ -9,7 +9,7 @@ affiliated_with: [the BaKongo people, Portugal (from 1483), Christianity (from 1
 opposed_by: [Ndongo/Angola, the Jaga invaders, ultimately Portugal (Mbwila, 1665)]
 key_events: [the founding at Mbanza Kongo, Portuguese contact (1483), the baptism of João I (1491), the reign of Afonso I (1509–43), the battle of Mbwila (1665)]
 key_processes: [[[atlantic-slave-trade]], [[christianization]], state-formation]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, late-middle-ages, early-modern, central-africa]
 ---
@@ -58,7 +58,19 @@ Atlantic system** — a sophisticated kingdom that engaged Christianity and Euro
 own initiative, only to be hollowed out by the slave trade. Afonso I's letters are among the most important
 **African voices** in the documentary record of the period.
 
+## GHA V: the long unravelling
+
+The **UNESCO [[gha-vol5-16th-18th-century|General History of Africa, Vol. V]]** (ch. 19, Vansina/Obenga)
+follows Kongo through the seventeenth and eighteenth centuries: the catastrophic defeat at **Mbwila (1665)**,
+the fragmentation into rival factions and the long civil wars, and the rise of the remarkable prophet-movement
+of **Kimpa Vita (Dona Beatriz)** — a young noblewoman who preached an **Africanized Christianity** (the
+Antonian movement) and was burned as a heretic in 1706 — before a partial reunification. Kongo's trajectory
+is GHA V's prime case of an African Christian state **hollowed out by the [[atlantic-slave-trade|Atlantic
+slave trade]]** and the predatory rise of Portuguese **Angola** — central to the
+[[impact-of-atlantic-slave-trade-on-africa|underdevelopment debate]].
+
 ## Related pages
 
-[[gha-vol4-12th-16th-century]] · [[atlantic-slave-trade]] · [[impact-of-atlantic-slave-trade-on-africa]] ·
-[[christianization]] · [[congo-free-state]] (the later, unrelated colonial state) · [[sub-saharan-africa]]
+[[gha-vol4-12th-16th-century]] · [[gha-vol5-16th-18th-century]] · [[atlantic-slave-trade]] ·
+[[impact-of-atlantic-slave-trade-on-africa]] · [[luba-lunda]] · [[christianization]] ·
+[[congo-free-state]] (the later, unrelated colonial state) · [[sub-saharan-africa]]
