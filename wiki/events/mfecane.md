@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: regional
 causes: [[[impact-of-atlantic-slave-trade-on-africa|Delagoa Bay slave-raiding]], Cape-frontier labour-raiding, competition for resources and drought, Zulu state expansion (traditional view)]
 consequences: [the consolidation of the Zulu, Sotho, Swazi and Ndebele states, depopulation of parts of the Highveld, a contested "empty land" narrative later used by apartheid ideology]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [event, long-19th-century, southern-africa]
 ---
 
@@ -74,6 +74,9 @@ debate remains live.
 
 ## Related pages
 
-[[reader-africa-biography]] · [[gha-vol6-19th-century]] · [[sub-saharan-africa]] · [[cape-colony]] ·
+[[reader-africa-biography]] · [[gha-vol6-19th-century]] · [[cambridge-history-of-africa-v5]] · [[sub-saharan-africa]] · [[cape-colony]] ·
 [[impact-of-atlantic-slave-trade-on-africa]] · [[atlantic-slave-trade]] ·
 [[southern-african-mineral-revolution]] · [[scramble-for-africa]]
+
+*The [[cambridge-history-of-africa-v5|Cambridge History of Africa, Vol. 5]] (1976) treats this
+as "the Nguni outburst" — a parallel authority to the GHA account.*

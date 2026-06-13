@@ -8,8 +8,8 @@ region: [west-africa, sahara]
 process_type: [religious, political, ideological]
 driven_by: [Islamic revivalism (the Qadiriyya and Tijaniyya Sufi orders), Fulani grievances, the call to reform "mixed" Islam and corrupt rulers, literacy and a scholarly clerical class]
 produces: [the Sokoto Caliphate, the Massina caliphate, the Tukulor empire, the Islamization of the West African savanna, a vast expansion of slavery, the conquest of the Hausa states]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [process, long-19th-century, west-africa]
 ---
 
@@ -73,5 +73,8 @@ which these states (Sokoto above all) would be absorbed.
 
 ## Related pages
 
-[[gha-vol6-19th-century]] · [[sokoto-caliphate]] · [[hausa-city-states]] · [[islamization-of-africa]] ·
+[[gha-vol6-19th-century]] · [[cambridge-history-of-africa-v5]] · [[sokoto-caliphate]] · [[hausa-city-states]] · [[islamization-of-africa]] ·
 [[trans-saharan-trade]] · [[scramble-for-africa]] · [[sub-saharan-africa]]
+
+*The [[cambridge-history-of-africa-v5|Cambridge History of Africa, Vol. 5]] (1976) covers the
+19th-century West African jihads — a parallel authority to the GHA account.*
