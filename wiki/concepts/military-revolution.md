@@ -5,8 +5,8 @@ origin: Coined by Michael Roberts (1955) for 1560–1660 Sweden/Netherlands; exp
 applies_to_periods: [Late Middle Ages, Early Modern, Age of Expansion]
 applies_to_regions: [western-europe, near-east, east-asia, south-asia, global]
 contested: yes
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-06-13
 tags: [concept]
 ---
 
@@ -134,3 +134,14 @@ techniques, so the European military edge was "never more than a slight edge" un
 century. There, as in Europe, the deepest effect of the new weaponry was internal — strengthening
 gun-owning regimes over their hinterlands and fuelling the [[southeast-asian-absolutism|gunpowder
 absolutism]] of Aceh, Mataram, and Ayutthaya.
+
+**Japan** is a striking parallel (Mason & Caiger, [[mason-caiger-history-of-japan|*A History
+of Japan*]]). The matchlock musket, introduced by the **Portuguese** in the 1540s, was
+rapidly copied and mass-produced; at **Nagashino (1575)** [[oda-nobunaga|Oda Nobunaga]]
+deployed massed, disciplined **volley fire** to annihilate the Takeda cavalry — a textbook
+instance of the new infantry firepower, decades before Europe's classic volley tactics. As
+elsewhere in Asia, the deepest effect was **internal**: firearms (and the new stone
+[[azuchi-momoyama-period|castles]] built to resist them) underwrote the **reunification**
+of Japan and the centralizing power of the unifiers. Tokugawa Japan then largely **set
+firearms aside** during its long [[sakoku|closed-country]] peace — a reminder that the
+"revolution" advanced unevenly and could be deliberately reversed.

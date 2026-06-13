@@ -8,8 +8,8 @@ region: [mediterranean, western-europe, iberia, italy, atlantic-world]
 process_type: religious
 driven_by: [the Protestant challenge, late-medieval reform movements, the papacy and new religious orders, Catholic monarchies]
 produces: [the Council of Trent's reforms, the Jesuits and other new orders, a disciplined reformed clergy, global Catholic missions, the confessional state]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [process, early-modern, mediterranean, western-europe]
 ---
 
@@ -51,8 +51,25 @@ Habsburgs) made the renewed Church an instrument of power. By the mid-seventeent
 **confessional boundaries of Europe had stabilized**, and the militant phase gave way to a consolidated,
 disciplined, globally extended Catholicism.
 
+## The mission to Japan — and its destruction (Mason & Caiger)
+
+The Catholic Reformation's **global mission** reached its most dramatic Asian success, and
+sharpest reversal, in **[[japan|Japan]]**. Jesuits (from Francis Xavier, 1549) won
+hundreds of thousands of converts, concentrated in northern **Kyūshū**, where the port of
+**Nagasaki** was virtually governed by the Society and several daimyo were Christian. But
+the religion's strength in a region far from the center alarmed the unifiers: **Hideyoshi**
+issued an expulsion edict (1587) and executed 26 Christians (1597), and the **Tokugawa**
+then mounted a full persecution — torture, forced apostasy, and thousands of martyrdoms —
+culminating in the suppression of the **Shimabara rebellion (1637)** and the **[[sakoku]]**
+closure that expelled the Iberians and banned Christianity for over two centuries. The
+Japan mission is thus both the high-water mark of the Reformation-era Catholic outreach and
+the clearest case of its **limits** where it met a strong, centralizing state. (See also
+the parallel mission field of [[spiritual-conquest-and-colonial-church|colonial Latin
+America]].)
+
 ## Related
 
 - `caused_by:` the [[protestant-reformation-1517|Protestant Reformation]] (and late-medieval reform);
   `part_of:` the [[eire-reformations|age of the Reformations]] and the [[early-modern|early modern world]].
 - `produced:` the Council of Trent, the Jesuits, global Catholic missions, the confessional state.
+- [[sakoku]] · [[edo-period]] · [[toyotomi-hideyoshi]] — the Japanese suppression of the mission.

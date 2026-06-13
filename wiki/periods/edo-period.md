@@ -1,0 +1,100 @@
+---
+title: Edo Period (Tokugawa Japan, 1603–1868)
+period_number: 19
+date_range: "1603–1868 CE"
+regions_covered: [japan, east-asia]
+major_themes: ["the Tokugawa peace (pax Tokugawa)", "the baku-han system", "sakoku (the closed country)", "the four-class order & the bureaucratization of the samurai", "monetization & the commercial revolution", "the rise of the merchants & chōnin urban culture", "the rural landlord-entrepreneur class"]
+collection_coverage: moderate
+sources_ingested: 1
+last_updated: 2026-06-13
+tags: [period]
+---
+
+# Edo Period (1603–1868)
+
+The two and a half centuries of **Tokugawa peace** — the longest era of internal and
+external peace in [[japan|Japanese]] history — named for the shoguns' capital, **Edo**
+(modern Tokyo). Founded by [[tokugawa-ieyasu|Ieyasu]] after Sekigahara, the
+[[shogunate-bakufu|Tokugawa bakufu]] governed through the **baku-han system**, sealed the
+country off under [[sakoku]], and presided over a commercial and cultural transformation
+that — paradoxically, behind closed borders — prepared Japan for rapid modernization. From
+Mason & Caiger's [[mason-caiger-history-of-japan|*A History of Japan*]] (chs 13–14).
+
+## Overview
+
+The first three shoguns (Ieyasu, Hidetada, Iemitsu) built a system designed above all for
+**stability** — "the strength of the Edo government lay not in its capacity to fight but in
+its capacity to prevent a fight from starting." Civil war and religious war became things
+of the past; the samurai turned from warriors into administrators; and a money economy and
+townsman culture flourished beneath the rigid official order.
+
+## Major Developments
+
+- **The baku-han system.** The [[shogunate-bakufu|shogunate]] directly ruled ~a quarter of
+  Japan (the *tenryō*); the rest was divided among ~260 **daimyo** domains (***han***),
+  self-governing but bound to the bakufu. The lords were controlled by the **buke sho hatto**
+  (1615), the division into **fudai** (hereditary vassals, who staffed the bakufu) and
+  **tozama** (outside lords), and above all by **sankin kōtai** (alternate attendance) —
+  daimyo spending alternate years in Edo, families held hostage there — which financially
+  shackled them. The court and Buddhist clergy were likewise regulated into political
+  impotence; Mason and Caiger call the order a pluralist "coalescence of elites."
+- **[[sakoku]] (the closed country, from 1639).** After the Christian **Shimabara rebellion
+  (1637)**, the bakufu banned Christianity, forbade Japanese to leave or return, expelled
+  the Portuguese, and confined foreign trade to **Nagasaki** (the Dutch at Dejima and the
+  Chinese) — with controlled relations with Korea, Okinawa, and the Ainu via Tsushima,
+  Satsuma, and Matsumae.
+- **The bureaucratized samurai.** With no wars to fight, the [[samurai|samurai]] became a
+  **stipended, urban, literate administrative class** schooled in Confucianism — "the abacus
+  replaced the sword" — and chronically indebted to merchants.
+- **The commercial revolution.** **Monetization** spread money and credit nationwide; the
+  three great cities — **Edo** (~1 million, the largest city in the world), **Osaka** (the
+  commercial/credit hub), and **Kyoto** (crafts) — anchored a unified national market; a
+  **rural landlord-entrepreneur class** drove rising agricultural output and rural industry.
+- **The rise of the merchants & chōnin culture.** Despite their low official (Confucian)
+  status, the **merchants** (*chōnin*) prospered (the house of Mitsui) and created a vibrant
+  urban culture of the **"floating world" (ukiyo)**: the novels of **Ihara Saikaku**, the
+  puppet (Bunraku) and **Kabuki** drama of **Chikamatsu Monzaemon** (the "Shakespeare of
+  Japan," dramatizing the conflict of duty *giri* and feeling *ninjō*), and (later) the
+  woodblock print.
+
+## Key Actors
+
+- The **Tokugawa shoguns** ([[tokugawa-ieyasu|Ieyasu]], Hidetada, Iemitsu, the reformer
+  Yoshimune); the **daimyo**; the rising **merchant** and **landlord-entrepreneur** classes.
+
+## Geographic Scope
+
+A unified archipelago centered on **Edo**, knit by the great highways (the Tōkaidō) and the
+Osaka market into a single economy — yet sealed from the wider world except at Nagasaki and
+the controlled han frontiers.
+
+## Transition
+
+**Preceded by** the [[azuchi-momoyama-period|Azuchi–Momoyama]] reunification (Sekigahara,
+1600). **Ended** by the crisis of Western intervention (Perry, 1853) and the
+[[shogunate-bakufu|bakufu's]] collapse in the **Meiji Restoration (1868)** — the subject of
+Cycle 4.
+
+## Historiography
+
+Mason and Caiger reject the crude Marxist reading of a "rising merchant class subverting
+feudalism"; they see samurai and merchants as **complementary and symbiotic**. They stress
+that [[sakoku]], for all it cost Japan in the scientific and industrial revolutions, let the
+country develop "in its own way" and remain **cohesively Japanese**, so that it could absorb
+Westernization after 1850 without the elite alienation that befell colonized Asia. The
+**bureaucratization, common political culture, commercial economy, and rural
+entrepreneurship** of the Edo order are read as the foundations of Japan's swift
+modernization — its great legacy to modern Japan.
+
+## Collection Coverage Note
+
+Covered by the Mason & Caiger spine; to be deepened by the Cambridge History of Japan
+Vol. 4 (Early Modern) and *Early Modern Japan in Asia and the World*.
+
+## Related
+
+- [[tokugawa-ieyasu]] · [[shogunate-bakufu]] — founder and institution.
+- [[sakoku]] — the closed-country policy.
+- [[samurai]] — the ruling class, now bureaucratized.
+- [[azuchi-momoyama-period]] · [[meiji-restoration-1868|the Meiji Restoration]] — before and after.
+- [[global-silver-trade]] · [[japan]] — the economy and the realm.
