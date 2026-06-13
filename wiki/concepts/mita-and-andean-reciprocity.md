@@ -5,8 +5,8 @@ origin: the Andean labour-tax and reciprocity system, analyzed by John V. Murra 
 applies_to_periods: [Late Middle Ages, Early Modern]
 applies_to_regions: [andes]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [concept]
 ---
 
@@ -60,7 +60,25 @@ verticality — quite unlike the market-and-coin logic of Afro-Eurasia. The Span
 mit'a** into the brutal forced-labour draft for the **Potosí silver mines**, severing the reciprocal
 obligation that had given it meaning.
 
+## The colonial mita (Burkholder & Johnson)
+
+Burkholder and Johnson detail how the Spanish kept the *name* and rotational *form*
+of the mita while inverting its meaning. Viceroy **Francisco de Toledo's
+reorganization of 1572** delivered ~**13,000–13,500 Indian men a year** to
+[[potosi-and-colonial-silver|Potosí]] (and ~2,000 to the Huancavelica mercury mine):
+one-seventh of the adult males of sixteen highland provinces, serving one year in
+seven, hauling ore by candlelight amid mercury vapor and (later) blasting. The
+authors' verdict: a system that "began as reciprocal obligations within the *ayllu*"
+had become "the forced transfer of wealth from poor Indians to rich Spaniards." Its
+deepest effect was **demographic flight**: to escape the mita and tribute,
+hundreds of thousands abandoned their *ayllus* to become **[[encomienda|*forasteros*
+and *yanaconas*]]** (exempt from the draft) — by the 1680s the Indian population of
+Upper Peru had halved, and in the mita provinces half the population was reclassified
+as forastero/yanacona, intensifying the burden on those who remained. The colonial
+mita thus sits within the wider [[encomienda|sequence of colonial labor systems]].
+
 ## Related
 
 [[inca-empire]] · [[qhapaq-nan]] · [[khipu]] · [[cuzco]] · [[split-inheritance-and-royal-mummies]] ·
-[[andean-state-formation]] · [[aztec-empire]] · [[daltroy-incas-2004]]
+[[andean-state-formation]] · [[aztec-empire]] · [[daltroy-incas-2004]] ·
+[[potosi-and-colonial-silver]] · [[encomienda]] · [[colonial-latin-america]]

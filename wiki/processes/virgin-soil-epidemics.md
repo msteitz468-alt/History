@@ -8,8 +8,8 @@ region: [caribbean, mesoamerica, andes, north-america, amazonia, eastern-north-a
 process_type: demographic
 driven_by: ["the [[columbian-exchange-1492|Columbian Exchange]] of Old World pathogens", "the Americas' long isolation from Eurasian crowd diseases (no acquired immunity)", "European contact, conquest, and the slave/livestock trade"]
 produces: ["the depopulation of the Americas (up to ~90–95% in worst-hit regions)", "the collapse of Indigenous states & the ease of European conquest", "the 'pristine wilderness' that was in fact post-catastrophe regrowth", "[[pristine-myth|the myth of the untouched continent]]"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [process, early-modern, americas]
 ---
 
@@ -73,7 +73,28 @@ well-attested Caribbean smallpox outbreak is 1518). Critics warn against treatin
 timing, magnitude, and weight relative to violence remain debated — see
 [[pre-columbian-american-population]].
 
+## The colonial-era waves and the demographic nadir (Burkholder & Johnson)
+
+Burkholder and Johnson trace the **serial** character of the catastrophe across the
+[[colonial-latin-america|colonial period]], stressing that it was not one die-off
+but recurring waves over two centuries. Smallpox (from 1518), **measles** (1530s),
+a hemorrhagic pestilence (mid-1540s), **typhus/plague** (1576), influenza, and later
+**yellow fever and malaria** from Africa struck again and again. Crucially the
+**timing of the nadir varied by region**: central Mexico bottomed out in the second
+quarter of the seventeenth century (Borah's much-debated figures: ~25 million in
+1518 — or, for cautious scholars, 10–13 million — down to ~0.75 million by 1622)
+before recovery; the **Andes** and **Peru** did not reach their low point until the
+**1718–20 epidemic**; the Caribbean peoples were essentially eliminated. The authors
+also foreground the **non-disease multipliers** — conquest violence, the collapse of
+indigenous welfare systems, forced labor ([[encomienda|the mita]]) lowering
+fertility, and **flight/forced resettlement** (*congregación*/*reducción*) that
+itself spread infection by concentrating populations. By the mid-seventeenth century
+Spanish America's native population was perhaps under 10% — maybe under 5% — of its
+1500 size. The colonial demographic record (post-1560 tax data) yields the narrower,
+more reliable figures debated at [[pre-columbian-american-population]].
+
 ## Related
 
 [[columbian-exchange-1492]] · [[pre-columbian-american-population]] · [[holmbergs-mistake]] ·
-[[pristine-myth]] · [[pre-columbian-americas]] · [[inca-empire]] · [[aztec-empire]] · [[mann-1491-2005]]
+[[pristine-myth]] · [[pre-columbian-americas]] · [[inca-empire]] · [[aztec-empire]] · [[mann-1491-2005]] ·
+[[colonial-latin-america]] · [[encomienda]] · [[burkholder-johnson-colonial-latin-america]]

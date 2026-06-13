@@ -8,8 +8,8 @@ region: [global, andes, east-asia, japan, mesoamerica, near-east]
 process_type: economic
 driven_by: [Chinese demand for silver (the silverization of the Ming fiscal system), silver-price arbitrage, American and Japanese mine discoveries, European and Asian merchant profit-seeking]
 produces: [the birth of global trade (Manila galleon, 1571), the Price Revolution, the financing of the Spanish empire and Tokugawa unification, the integration of a planetary economy]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [process, early-modern, east-asia, andes, global]
 ---
 
@@ -89,8 +89,30 @@ China trade and **import-substituting** Indian cotton textiles with domestic
 machine production — moves that reversed the silver flow and opened the
 industrial era (see [[industrious-revolution]], [[great-divergence]]).
 
+## The American supply side and the fleet system (Burkholder & Johnson)
+
+Burkholder and Johnson supply the colonial-American production-and-shipping end of
+the trade. American silver came from **[[potosi-and-colonial-silver|Potosí]]** (Upper
+Peru, 1545) and the Mexican mines (Zacatecas 1546, Guanajuato 1550, etc.), unlocked
+by **mercury amalgamation** (Mexico 1550s, Peru 1571) — which made the Crown's
+**Huancavelica** and Almadén mercury monopolies, not the market, the master variable
+of output. Mexican registered output far outstripped Peru's by the eighteenth
+century, reaching 200+ million pesos in 1801–10. The metal moved under a
+**state-controlled trading system**: the **House of Trade (*Casa de Contratación*)**
+and the Seville (later Cádiz) **consulado** monopoly; the convoy **fleet system**
+(the *flota* to Veracruz, the *galeones* to Cartagena/Portobelo, joining at Havana)
+that confined legal trade to three American ports and reliably delivered bullion to
+Spain (lost to enemies only in 1628 and 1656). Two leakages mattered: the
+**Manila galleon** from Acapulco, which sent so much silver to China for silk and
+porcelain that the **peso** became an Asian currency (prompting bans in 1631), and
+massive **contraband** (by ~1700 perhaps seven-eighths of goods shipped to the
+Indies were foreign-made, with French and Dutch merchants fronting through consulado
+members). As the fleet system broke down after the 1620s and registered trade
+collapsed, contraband may have carried more bullion to Europe than ever.
+
 ## Related
 
 [[early-modern-commerce]] · [[indian-ocean-trade]] · [[columbian-exchange-1492]] ·
 [[dutch-east-india-company]] · [[english-east-india-company]] ·
-[[afro-eurasian-world-system]] · [[great-divergence]] · [[coinage]]
+[[afro-eurasian-world-system]] · [[great-divergence]] · [[coinage]] ·
+[[potosi-and-colonial-silver]] · [[colonial-latin-america]] · [[mita-and-andean-reciprocity]]

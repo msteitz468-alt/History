@@ -8,8 +8,8 @@ region: [atlantic-world, west-africa, central-africa, caribbean, andes, eastern-
 process_type: demographic
 driven_by: [plantation demand for labor (especially sugar), American demographic collapse, pre-existing African slavery and slave markets, European armed maritime commerce]
 produces: [the largest forced migration in history, African diaspora cultures of the Americas, demographic distortion in Atlantic Africa, the plantation complex, creole languages and Atlantic religions]
-sources_ingested: 5
-last_updated: 2026-06-12
+sources_ingested: 6
+last_updated: 2026-06-13
 tags: [process, early-modern, atlantic-world, west-africa]
 ---
 
@@ -219,6 +219,23 @@ themes: volume and direction; the trade's workings and impact within Africa; and
 societies (the Herskovits–Frazier debate, revived by Mintz & Price versus
 Thornton; Ira Berlin's "Atlantic Creoles"; Heywood & Thornton on West Central
 Africa; Diouf and Gomez on Muslim slaves).
+
+## The American demand side: colonial Latin America (Burkholder & Johnson)
+
+Burkholder and Johnson supply the receiving end in [[colonial-latin-america|colonial
+Latin America]]. As the indigenous population collapsed, neither free immigration
+nor the small Iberian slave population could meet labor demand, so Spain and Portugal
+shipped slaves **directly from Africa**. Because Portugal already controlled the
+African coast, **Brazil** dwarfed Spanish-American imports: the **sugar** boom (from
+the 1570s, replacing Indian slaves on the Pernambuco and Bahia *engenhos* by the
+1620s) and the post-1695 **gold** rush in Minas Gerais drove imports to **over 2.5
+million** Africans by 1810. The colonial trade was demographically distorted —
+roughly **two males to one female** (planters preferred men) and **lethally high
+mortality** in the tropical lowlands — so the plantation zones depended on a constant
+*new* inflow rather than natural increase. Slaves and free blacks also seeded the
+new mixed castes (**mulattos/pardos**, *zambos*) of the [[casta-system|sociedad de
+castas]]. The institution links the labor sequence of [[encomienda|Spanish-American
+forced labor]] to the plantation complex.
 
 ## Related
 
