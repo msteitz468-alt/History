@@ -2313,3 +2313,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 ingest-complete | The Cambridge History of Japan, Vol. 6 (The Twentieth Century, 1900–1974) | Total pages created: 6 | Total pages updated: 5 | Sections processed: 4
 
 ## 2026-06-13 section | Early Modern Japan in Asia and the World (New CHJ II) | Section: The character of the early modern state (Intro + Part I, chs 1–6) | Pages created: 1 | Pages updated: 3
+
+## 2026-06-13 section | Early Modern Japan in Asia and the World (New CHJ II) | Section: Economy, environment, and technology (Part II, chs 7–12) | Pages created: 1 | Pages updated: 2

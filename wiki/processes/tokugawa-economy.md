@@ -8,7 +8,7 @@ region: [japan, east-asia]
 process_type: economic
 driven_by: [the [[edo-period|Tokugawa peace]], the [[kokudaka-system|kokudaka land settlement]], rapid urbanization and the castle-town system, the [[bakuhan-system|bakuhan]] separation of warrior and peasant]
 produces: [one of the world's most urbanized pre-industrial societies, a national market centered on Osaka and Edo, a wealthy merchant (chōnin) class, the bakufu/han fiscal crisis and the three great reforms, the foundations of Japan's later industrialization]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [process, early-modern, japan, east-asia]
 ---
@@ -99,6 +99,18 @@ The Tokugawa economy is the material substrate of [[chonin-culture]] and
 post-1868 industrialization**: a commercialized countryside, a national market, a literate
 mercantile class, and sophisticated financial institutions already in place.
 
+## Rulers, producers, and consumers; the ecological base (New Cambridge History of Japan)
+
+The [[howell-early-modern-japan-asia-world|New Cambridge History of Japan Vol. II]] adds two
+fresh angles. Komuro Masamichi & Bettina Gramlich-Oka (ch. 8) reframe the economy through the
+interplay of **rulers, producers, and consumers** — foregrounding consumption, household
+economy, and monetary policy rather than the older ruler-centered fiscal story. And Brett
+Walker's environmental chapter (ch. 9) supplies the **ecological metabolism** beneath the
+commercial revolution: the cash-crop boom depended on **marine fertilizers** (herring mulch,
+whale oil) and recycled urban nightsoil — a "transfer of energy from the Pacific to Japan's
+fields" — while eighteenth-century **famine** (the Tenmei famine of 1782–88) marked the system's
+ecological limits. The full account is on [[japanese-environmental-history]].
+
 ## End Conditions
 
 The process did not end so much as accelerate and burst its bounds: by the nineteenth century
@@ -112,4 +124,5 @@ Restoration]] (covered in CHJ Vols 5–6).
 - [[kokudaka-system]] · [[bakuhan-system]] — the land and political settlements it grew within.
 - [[chonin-culture]] · [[genroku-culture]] — the townsman society and culture it funded.
 - [[sakoku]] — the closed-country frame within which it developed.
+- [[japanese-environmental-history]] — the ecological base (marine fertilizer, forests, famine).
 - [[industrialization]] — the later transformation it is said to have prepared.

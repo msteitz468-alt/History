@@ -8,7 +8,7 @@ region: [japan, east-asia]
 process_type: [ideological, cultural]
 driven_by: [the Tokugawa search for a stabilizing orthodoxy, the peace and literacy of the Edo order, sakoku and the Deshima window, economic and social crisis]
 produces: [Neo-Confucian orthodoxy, the rival Confucian schools, kokugaku (National Learning), rangaku (Dutch learning), the intellectual ferment behind the Meiji Restoration]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-13
 tags: [process, early-modern, japan, east-asia]
 ---
@@ -130,6 +130,20 @@ restorationist nationalism of Kita Ikki and Ōkawa Shūmei, "cultural particular
 1942 **"overcoming modernity"** debate, in which the *bunmei kaika* Westernization that
 Tokugawa thought had helped enable was now repudiated in the name of "the blood of the
 Japanese."
+
+## Philosophy, science, and Western knowledge (New Cambridge History of Japan)
+
+The [[howell-early-modern-japan-asia-world|New Cambridge History of Japan Vol. II]] deepens the
+intellectual story with current scholarship. **Federico Marcon** (ch. 4) gives a
+**socio-historical** account of Tokugawa philosophy — not a parade of schools but thought
+embedded in the academies, patronage, and print culture of the [[bakuhan-system|bakuhan]]
+order. **Yulia Frumer** (ch. 10) recovers the **scientific communities** and the emergence of
+science in early-modern Japan (astronomy, calendrical and measurement practices) as genuine
+local knowledge-making, not mere reception of the West. And **Hansun Hsiung** (ch. 11) reframes
+"**the problem of Western knowledge**" in late Tokugawa Japan: *rangaku* was less a heroic
+window onto a superior West than a contested, selectively appropriated body of knowledge whose
+authority Japanese scholars debated and managed — part of the volume's larger insistence on
+treating Japanese [[kinsei-early-modernity|early modernity]] on its own terms.
 
 ## Interaction and End Conditions
 
