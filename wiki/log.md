@@ -2306,3 +2306,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 section | The Cambridge History of Japan, Vol. 6 (Twentieth Century) | Section: Domestic politics — party government, militarism, the postwar order (Intro + Part I, chs 1–3) | Pages created: 2 | Pages updated: 2
 
 ## 2026-06-13 section | The Cambridge History of Japan, Vol. 6 (Twentieth Century) | Section: External relations — empire, continental expansion, the Pacific War (Part II, chs 5–7) | Pages created: 2 | Pages updated: 1
+
+## 2026-06-13 section | The Cambridge History of Japan, Vol. 6 (Twentieth Century) | Section: Economic development — industrialization, depression/war, the miracle (Part III, chs 8–10) | Pages created: 1 | Pages updated: 1

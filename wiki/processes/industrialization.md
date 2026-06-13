@@ -8,7 +8,7 @@ region: [global, western-europe, east-asia, north-america, south-asia]
 process_type: [economic, technological, environmental, demographic]
 driven_by: [[[fossil-fuel-energy-transition]], easing of local resource constraints, mechanization, [[industrious-revolution]], capital accumulation, state and military demand]
 produces: [[[great-acceleration]], [[anthropocene]], mass urbanization, [[great-divergence]] and its later partial reversal, the modern world economy]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-06-13
 tags: [process, long-19th-century, cold-war, global]
 ---
@@ -124,4 +124,12 @@ Asia. The [[cambridge-history-japan-v5-nineteenth-century|Cambridge History of J
 break than an acceleration of the already-commercialized [[tokugawa-economy|Tokugawa economy]],
 and the early Meiji decades (1868–85) were a period of institutional groundwork and the
 **Matsukata deflation** rather than rapid factory growth — the takeoff came after. The wider
-project of which it was the economic core is treated on [[meiji-modernization]].
+project of which it was the economic core is treated on [[meiji-modernization]]. The
+**twentieth-century** continuation is carried by the
+[[cambridge-history-japan-v6-twentieth-century|Cambridge History of Japan Vol. 6]] (Crawcour,
+Nakamura, Kosai): a **World War I export boom**, the build-out of heavy and chemical industry
+through the 1930s **recovery and wartime** mobilization (so that defeat destroyed plant but not
+technical capacity), and then the postwar **[[japanese-economic-miracle|economic miracle]]**
+(c. 1955–73) that made Japan the first non-Western economy to reach the front rank — Duus's
+theme of Japanese economic growth as a continuous arc "interrupted but not broken" by the
+mid-century upheavals.
