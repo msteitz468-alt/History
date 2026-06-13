@@ -57,6 +57,22 @@ syncretism — "the germ for a Muslim state in India"); the militarisation of th
 Nanak's peace to Guru Gobind Singh's *Khalsa* after Aurangzeb executed Guru Tegh Bahadur, 1675); and
 the rise of the **Marathas** under Sivaji.
 
+## Decline, collapse, and confusion
+
+After Aurangzeb's death (1707) and the brief recovery under Bahadur Shah, the empire **disintegrated**
+rapidly. Spear (Vol. II, Ch. 6) traces the slide: weak emperors and over-mighty nobles, the draining
+legacy of the Deccan wars, and external blows — above all the Persian **Nadir Shah's** invasion and
+**sack of Delhi (1739)**, which carried off the Peacock Throne and shattered Mughal prestige, followed
+by repeated Afghan (Abdali) incursions. Power devolved to **successor states** that were nominally
+Mughal but effectively independent — **Hyderabad** (the Nizam), **Awadh/Oudh**, **Bengal** (the
+Nawabs) — while the **[[maratha-empire|Marathas]]** expanded across the centre and the **Sikhs** rose
+in the Punjab. The Maratha bid for all-India supremacy was broken by the Afghans at the **Third Battle
+of Panipat (1761)**; into the resulting vacuum, with no power able to impose itself, stepped the
+**[[english-east-india-company|English East India Company]]** from Bengal. The empire survived as a
+shadow — "From Delhi to Palam is the realm of Shah Alam" — its emperor a pensioner first of the
+Marathas, then of the British, until the [[indian-rebellion-1857|1857 Rebellion]] swept the dynasty
+away.
+
 ## Significance and the Mughal–British continuity
 
 The Mughals gave India its longest era of stable central government since the Mauryas, a fusion

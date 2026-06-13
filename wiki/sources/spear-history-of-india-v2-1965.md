@@ -18,8 +18,8 @@ reliability_notes: >
   later scholarship (and Indian nationalist historiography) sharply contests. Authoritative as a
   narrative spine. This volume continues the **Gap 3 (South Asia)** backbone past 1526 and supplies a
   large slice of **Gap 1 (Modern history 1750–present)** for India.
-pages_created: 3
-pages_updated: 2
+pages_created: 5
+pages_updated: 3
 ingested: 2026-06-12
 tags: [source]
 ---

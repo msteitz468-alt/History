@@ -9,7 +9,7 @@ affiliated_with: [the English (later British) Crown and Parliament]
 opposed_by: [Dutch East India Company, Portuguese Estado da India, French Compagnie des Indes, Mughal successor states, Mysore (Tipu Sultan)]
 key_events: [chartering (1600), first joint-stock for multiple voyages (1613), restructurings (1657, 1693, 1709), conquest of Bengal (from 1757), defeat of Tipu Sultan (1799)]
 key_processes: [early-modern-commerce, indian-ocean-trade, global-silver-trade]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [actor, organization, early-modern, south-asia]
 ---
@@ -47,6 +47,32 @@ Mysore** in 1799, became the dominant military power in India. Its later
 **protection** paid for by Indian rulers. The Seven Years' War (1756–63), fought
 in India, the Americas, and Europe, was in part a war between these company-states
 and their sponsors.
+
+## How the Company won (Spear)
+
+[[spear-history-of-india-v2-1965|Spear, Vol. II]] supplies the detail of that transformation and a
+distinctive argument about *why* the English succeeded. India was always a **"second best"** to the
+spice-rich East Indies, from which the Dutch had violently excluded them (the **Massacre of Amboyna**,
+1623). Denied a monopoly, the English merchants had to **compete** — with the Dutch, the French, and
+strong Indian governments and merchants — for bulkier, lower-margin Indian goods (textiles, saltpetre,
+indigo, silk), paying largely in **silver bullion** (India taking little English broadcloth). Spear's
+paradox: this **enforced competition was an excellent schooling** — it forced the English to study
+Indian markets, conditions, and character far more closely than the monopolist Dutch, giving them "a
+skill in dealing with the Indians that even the French never achieved," an "unconscious preparation"
+for the political stage. Through the 17th century the Company was the Mughals' **maritime auxiliary**
+(Roe's 1618 agreement; the bases at Surat → Bombay, Madras, Calcutta), careful after one rebuff by
+Aurangzeb not to challenge the empire "until there was hardly anything left to challenge in 1756."
+
+The leap from trade to territory came in **Bengal**: **[[battle-of-plassey-1757|Plassey (1757)]]**,
+Clive's conspiracy installing the puppet Nawab Mir Jafar; the "financial bleeding" of the plundered
+province; **Buxar (1764)**; and the decisive grant of the **diwani (revenue authority) of Bengal and
+Bihar (1765)**, which made the Company the **Mughal revenue agent** — and so the virtual ruler — of
+India's richest province, behind a screen of Indian "Mughal trappings and titles." **Warren Hastings**
+(Governor-General from 1772) then gave this Company-state "coherent shape" — deposing the Indian
+revenue deputies for a **Board of Revenue and English district collectors** ("the real beginning of
+British administration in India") — and defended it until the *Company Bahadur* of Bengal, with its
+bridgeheads at Madras and Bombay, was "one of the recognized great powers of India." The Anglo-French
+**Carnatic wars** (Dupleix, Clive) had meanwhile eliminated the French as rivals.
 
 ## In the Wiki's Framework
 
