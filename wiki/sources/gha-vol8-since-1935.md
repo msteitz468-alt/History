@@ -13,8 +13,8 @@ reliability_notes: >
   Multi-author, peer-reviewed; co-edited by Ali Mazrui. Written close to its events (to c. 1990) and
   strongly committed to African and Pan-Africanist perspectives; its later chapters shade into engaged
   contemporary analysis rather than settled history.
-pages_created: 0
-pages_updated: 0
+pages_created: 2
+pages_updated: 5
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -54,11 +54,39 @@ volume is unusually rich on **socio-cultural** renaissance (literature, religion
 
 ## Pages Created / Updated
 
-*To be completed as sections are processed (Protocol Step 2c–2e).*
+**Created (2):** [[post-colonial-africa]] (the post-1960 predicament — neo-colonialism, nation-building,
+coups); [[apartheid]] (the system and the liberation of Southern Africa).
+
+**Updated (5):** [[african-nationalism]] (WWII as catalyst); [[decolonization]] (the African independence
+struggle); [[colonial-economy]] (the neo-colonialism continuity); [[pan-africanism]] (the cultural
+renaissance and the OAU/liberation agenda); [[cold-war]] (the African theatre).
 
 ## Volume Synthesis Note
 
-*To be written after all sections are processed (Protocol Step 3).*
+GHA Vol. VIII — the **final volume** — completed the wiki's nine-volume General History of Africa ingest,
+carrying the African story from the Second World War to the 1990s with **2 new pages and 5 enrichments**.
+Because the wiki's modern leg (from Gap 1: [[decolonization]], [[cold-war]], [[contemporary]]) and GHA Vol.
+VII (nationalism, the colonial economy, Pan-Africanism) were already strong, this volume worked largely by
+**deepening and connecting** existing pages.
+
+**Its argument is the recovery of African sovereignty and its limits.** The **Second World War**
+catalysed mass [[african-nationalism|nationalism]]; **[[decolonization|decolonization]]** restored political
+independence ("seek ye first the political kingdom"); but **economic dependence** persisted as
+**neo-colonialism**, and **nation-building** within arbitrary colonial borders bred coups, one-party rule,
+and civil war — the post-1960 predicament captured in the new [[post-colonial-africa]] page. The volume's
+distinctive strengths are its rich **socio-cultural** chapters (the literature of Achebe, Soyinka, and
+Négritude; the Africanization of religion; the decolonizing of the African mind) and its account of the
+**final liberation of Southern Africa** — the defeat of **[[apartheid|apartheid]]** in 1994 as the closing
+act of African decolonization and the vindication of [[pan-africanism|Pan-Africanism]].
+
+**Cross-volume relationships — and the completion of the series.** With Vol. VIII the wiki has now ingested
+**all eight published volumes** of the UNESCO General History of Africa (Vols II–VIII; Vol. I, on prehistory
+and methodology, was not in the collection). Together with [[reader-africa-biography|Reader]] and the
+primary [[niane-sundiata|Sundiata]], they have transformed **[[sub-saharan-africa|Sub-Saharan Africa]]** from
+CLAUDE.md's "Absent — Critical gap" into a coverage band of *moderate-to-strong* across every period from
+the ancient civilizations to the present — the single largest gap-filling effort the wiki has undertaken.
+Vol. VIII ties the African story directly into the wiki's global modern leg (Hobsbawm, Westad, Judt) and
+leaves, as the natural next steps, the deepening of individual post-colonial nations and events.
 
 ## Cross-links
 

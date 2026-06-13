@@ -83,6 +83,10 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. VIII (since 1935) | Section: Africa in WWII, 1935–45 (Section I) | Pages created: 0 | Pages updated: 1 | (african-nationalism — WWII as catalyst)
 
+## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. VIII: Africa since 1935 (A. Mazrui & C. Wondji eds., 1993) | Total pages created: 2 | Total pages updated: 5 | Sections processed: 6 (+ synthesis). Filed to raw/4. Modern Times/. COMPLETES the UNESCO General History of Africa series (Vols II–VIII all ingested).
+
+## 2026-06-12 admin | UNESCO General History of Africa series COMPLETE — Vols II–VIII ingested (Vol. I, prehistory/methodology, absent from collection). With Reader and Sundiata, Gap 2 (Sub-Saharan Africa) coverage moved from "Absent" to moderate-strong across all periods. Remaining Gap-2 items: Ajayi & Crowder, History of West Africa; Ibn Battuta in Black Africa (primary).
+
 ## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. VII: Africa under Colonial Domination, 1880–1935 (A. Adu Boahen ed., 1985) | Total pages created: 6 | Total pages updated: 3 | Sections processed: 6 (+ synthesis). Filed to raw/4. Modern Times/. Gap 2 colonial-era reference.
 
 ## 2026-06-12 ingest-complete | UNESCO General History of Africa, Vol. VI: Africa in the Nineteenth Century until the 1880s (J. F. Ade Ajayi ed., 1989) | Total pages created: 4 | Total pages updated: 8 | Sections processed: 6 (+ synthesis). Filed to raw/4. Modern Times/. Gap 2 nineteenth-century reference.
