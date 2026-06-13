@@ -5,7 +5,7 @@ date_range: "794–1185 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the Fujiwara regency & rule through puppet emperors", "the rise of the shōen estate system", "familism eclipsing the centralized state", "the golden age of court literature (Genji, the Pillow Book)", "Tendai & Shingon Buddhism", "cloistered-emperor (insei) rule", "the seeds of feudalism"]
 collection_coverage: moderate
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -75,12 +75,12 @@ The Heian court took literature with utmost seriousness. The invention of the ph
 **kana** script (~900) freed Japanese-language prose, producing — largely from **women**
 of the court (men still wrote in Chinese) — the **nikki** (confessional diaries, e.g. the
 *Kagerō* and *Sarashina* diaries), Sei Shōnagon's witty ***Pillow Book*** (*Makura no
-Sōshi*, the first *zuihitsu* miscellany), and above all Murasaki Shikibu's
-***Tale of Genji*** (*Genji Monogatari*, c. 1008) — arguably the **world's first mature
-psychological novel**, its great themes the complexity of human relationships and the
-**impermanence of things**. Imperial poetry anthologies (the ***Kokinshū***, c. 905)
-fixed the 31-syllable *tanka* as the classical form. *(The Tale of Genji is slated for
-its own ingest via the Waley translation.)*
+Sōshi*, the first *zuihitsu* miscellany), and above all [[murasaki-shikibu|Murasaki
+Shikibu's]] ***[[tale-of-genji|Tale of Genji]]*** (*Genji Monogatari*, c. 1008) — arguably
+the **world's first mature psychological novel**, its great themes the complexity of human
+relationships and the **impermanence of things**. Imperial poetry anthologies (the
+***Kokinshū***, c. 905) fixed the 31-syllable *tanka* as the classical form. *(The Tale of
+Genji is now ingested as a primary source — the [[waley-tale-of-genji|Waley translation]].)*
 
 ## Religion
 
@@ -116,8 +116,9 @@ versus merely **supplemented** the old court order.
 
 ## Collection Coverage Note
 
-Covered here by the Mason & Caiger spine; to be greatly deepened by *The Tale of Genji*
-(primary) and the Cambridge History of Japan volumes.
+Covered by the Mason & Caiger spine, the Sansom cultural history, and now the
+[[waley-tale-of-genji|*Tale of Genji*]] (primary); to be further deepened by the Cambridge
+History of Japan volumes.
 
 ## Related
 

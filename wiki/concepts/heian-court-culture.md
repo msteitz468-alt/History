@@ -5,7 +5,7 @@ origin: the aristocratic court culture of Heian-period Japan (794–1185), esp. 
 applies_to_periods: [Early Middle Ages, High Middle Ages]
 applies_to_regions: [japan, east-asia]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -35,10 +35,12 @@ sliding in its late Fujiwara phase toward luxury and decadence.
 The decisive enabling event was the invention of the phonetic **kana** syllabary (~900,
 ascribed to [[japanese-buddhism|Kūkai]]), which freed Japanese-language prose from Chinese
 script. Since men still wrote officially in Chinese, the great vernacular masterpieces came
-largely from **court women**: Murasaki Shikibu's ***Tale of Genji*** (c. 1008) — "anticipating
-modern novels of the psychological school" — and Sei Shōnagon's ***Pillow Book***, alongside
-the confessional *nikki* diaries and the imperial poetry anthologies (the ***Kokinshū***,
-c. 905, which fixed the 31-syllable *tanka*). See [[heian-period]] for the literary detail.
+largely from **court women**: [[murasaki-shikibu|Murasaki Shikibu's]] ***[[tale-of-genji|Tale
+of Genji]]*** (c. 1008) — "anticipating modern novels of the psychological school" — and Sei
+Shōnagon's ***Pillow Book***, alongside the confessional *nikki* diaries and the imperial
+poetry anthologies (the ***Kokinshū***, c. 905, which fixed the 31-syllable *tanka*). The
+*Genji* — the supreme monument of this culture — is now ingested directly as a primary source
+(the [[waley-tale-of-genji|Waley translation]]). See [[heian-period]] for the literary detail.
 
 ## Calligraphy, painting, and architecture
 
