@@ -7,8 +7,8 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [Swahili city-states, Kilwa Sultanate]
 events_here: []
 processes_here: [[[indian-ocean-trade]], [[trans-saharan-trade]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [place, east-africa, indian-ocean, high-middle-ages]
 ---
 
@@ -62,8 +62,17 @@ abruptly: the Portuguese, rounding the Cape in 1498, sacked Kilwa and Mombasa in
 early sixteenth century and seized the gold trade, redirecting the coast's fortunes
 into the early-modern era.
 
+## Sofala and the gold of the interior (Reader)
+
+**[[reader-africa-biography|Reader]]** stresses the coast's southern terminus: **Kilwa** was the
+furthest point Persian-Gulf dhows could reach and return on a single monsoon, so beyond it the **"Land of
+Sofala" and its "meadows of gold"** were worked by intermediaries. Sofala (near modern Beira) tapped the
+gold of the Zimbabwe plateau, tying **[[great-zimbabwe|Great Zimbabwe]]** and its Mapungubwe/Mutapa
+neighbours into the Indian Ocean economy — the inland and maritime halves of one gold trade.
+
 ## Related
 
+- Source: [[reader-africa-biography|Reader, *Africa: A Biography*]] · [[sub-saharan-africa]]
 - Process: [[indian-ocean-trade]] · [[trans-saharan-trade]] (the African counterpart inland)
 - Concept/Actor: [[islam]] · [[aksum]] (the earlier Red Sea trading state)
-- Places: [[jenne-jeno]] (West African trade city) · [[zheng-he]] (the Ming voyages)
+- Places: [[great-zimbabwe|Great Zimbabwe]] (the inland gold source) · [[jenne-jeno]] (West African trade city) · [[zheng-he]] (the Ming voyages)
