@@ -6,8 +6,8 @@ coordinates: ~10°N 105°E (mainland) / equatorial archipelago
 period_active: [Neolithic, Bronze Age, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 controlled_by: ["[[funan]] & Zhenla", "the [[khmer-empire|Khmer Empire]]", "Srivijaya & Majapahit", "Pagan/Ava (Burma)", "Ayutthaya (Siam)", "Dai Viet", "European colonial powers"]
 events_here: []
-processes_here: ["[[indianization-of-southeast-asia]]", "[[indian-ocean-trade]]", "[[state-formation]]", "[[islamization-of-africa|the spread of Islam (archipelago)]]"]
-sources_ingested: 1
+processes_here: ["[[indianization-of-southeast-asia]]", "[[indian-ocean-trade]]", "[[southeast-asian-age-of-commerce]]", "[[state-formation]]", "[[islamization-of-africa|the spread of Islam (archipelago)]]"]
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [place, southeast-asia]
 ---
@@ -19,7 +19,50 @@ world (Indonesia, Malaysia, the Philippines) between India and China — is one 
 **critical gaps** (CLAUDE.md: "Absent"). This anchor page frames the region; its civilizations and
 processes have their own pages as they are ingested. Currently grounded in Michael D. Coe's
 [[coe-angkor-khmer-civilization-2018|*Angkor and the Khmer Civilization*]] (2003) — the wiki's first
-dedicated Southeast Asian source — supplemented by the [[indianization-of-southeast-asia]] process page.
+dedicated Southeast Asian source — and now substantially deepened by **Anthony Reid**'s
+[[reid-southeast-asia-age-of-commerce-v1-1988|*Southeast Asia in the Age of Commerce*, Vol. 1]] (1988),
+which supplies the **whole-region framework** and especially the archipelago/maritime world.
+
+## "The lands below the winds": a single culture-region (Reid)
+
+Reid's foundational argument is that maritime Southeast Asia, for all its "bewildering variety of
+language, culture, and religion," formed a **single coherent culture-region** down to the seventeenth
+century. The name itself records this: Indian, Persian, Arab, and Malay traders called the region **"the
+lands below the winds"** (the [[southeast-asian-age-of-commerce|age of commerce]]) because the seasonal
+**monsoons** carried their shipping to it; the Chinese saw it as one whole, the **Nanyang** ("Southern
+Ocean"). Reid grounds the unity in three things. **(1) A common physical environment** — water and
+forest dominate a thinly peopled land; the **Sunda Shelf** (dry land uniting Sumatra, Java, Borneo, and
+the mainland as recently as 15,000 years ago) is now one of the world's richest fishing grounds; gentle,
+predictable monsoon winds and abundant shoreline timber made it "a region uniquely favourable to
+maritime activity." This produced a shared **rice-and-fish diet** (with fermented fish paste, palm wine,
+and the universal stimulant **betel**), the pile-built **pole house**, and shifting cultivation of a
+still-forested land. **(2) Common ancestry & interaction** — over half the people spoke closely related
+**Austronesian** languages (from a proto-Austronesian parent c. 5,000 years ago); Mon-Khmer,
+Vietnamese, and Tai speakers borrowed heavily from the longer-established peoples. **(3) Intense intra-
+regional maritime commerce** — crucially, Indian and Chinese influence arrived **by trade, not conquest
+or colonization**, so the region kept its distinctiveness while borrowing; the Malay trade language
+spread from Sumatra to the Philippines to coastal Vietnam. Reid singles out **cultural traits that
+distinguish Southeast Asia from both India and China**: the concept of **"soul-stuff"/spirit** animating
+living things; the **prominence of women** in descent, ritual, marketing, and agriculture; and the
+centrality of **debt/bondage** as the determinant of social obligation. **Vietnam** is the great
+borderline case — sharing Southeast Asian diet and pleasures but bound to China in script, statecraft,
+chopsticks, and dense settlement — and functions as the **frontier between Southeast Asia and China**.
+
+## A sparse, healthy, lightly-peopled world (demography)
+
+Reid reconstructs an early-modern Southeast Asia of **little more than ~23 million people in 1600** —
+extraordinarily **sparse** at about **5.5 persons/km²**, against ~32 for South Asia and ~37 for China
+(Europe roughly double Southeast Asia's density). Population clustered in a few **wet-rice pockets**
+(the Red River delta, Upper Burma, Central/East Java, Bali, South Sulawesi, Pampanga) and in
+surprisingly large **trading cities**; outside them lay "a vast tropical jungle," home to tigers,
+bandits, and game. Strikingly, growth was **near-zero before 1800** and then explosive in the colonial
+nineteenth–twentieth centuries — a contrast Reid attributes **not** to any European health improvement
+(early visitors judged Southeast Asian health *good*, with early near-universal marriage and notable
+parental affection) but chiefly to **endemic low-level warfare**. Wars aimed less at killing than at
+**seizing manpower**; the demographic damage came from devastated rice crops, mass deportation of
+captives, famine, and the constant **need to be ready for flight** (which suppressed births). Java, Siam,
+and Lower Burma each suffered sharp population collapses from such warfare. Where stability prevailed
+(abundant food, good health, early marriage), numbers rose quickly.
 
 ## The defining frame: the monsoon, rice, and the "Indian–Chinese" between
 
@@ -59,4 +102,5 @@ beyond the Khmer to the archipelago, Burma, Siam, and Vietnam.
 ## Related pages
 
 [[khmer-empire]] · [[funan]] · [[angkor]] · [[indianization-of-southeast-asia]] · [[indian-ocean-trade]] ·
-[[hinduism]] · [[buddhism]] · [[coe-angkor-khmer-civilization-2018]]
+[[southeast-asian-age-of-commerce]] · [[hinduism]] · [[buddhism]] ·
+[[coe-angkor-khmer-civilization-2018]] · [[reid-southeast-asia-age-of-commerce-v1-1988]]
