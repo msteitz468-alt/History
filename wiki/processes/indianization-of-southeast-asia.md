@@ -8,7 +8,7 @@ region: [southeast-asia, south-asia, indian-ocean]
 process_type: [cultural, religious, economic]
 driven_by: ["the [[indian-ocean-trade|Indian Ocean spice trade]] (Roman demand drawing Indian merchants east)", "Indian merchant and brahman settlement", "the prestige of Sanskritic kingship and religion"]
 produces: ["Hindu-Buddhist kingdoms (Funan, Srivijaya, Angkor, Mataram/Java)", "Sanskrit as a court/sacred language", "Indian script, law, art, and temple architecture in SE Asia", "the spread of Hinduism and Buddhism beyond India"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [process, late-antiquity, southeast-asia]
 ---
@@ -50,6 +50,22 @@ conquest or mass migration. Southeast Asian elites took up Indian forms (which c
 a sophisticated apparatus of rule) and **adapted them to indigenous societies**; there was no Indian
 empire in the region. The result was a family of civilizations that were genuinely Southeast Asian
 yet shared a Sanskritic-Buddhist "ecumene" with India.
+
+## The Khmer case on the ground (Coe)
+
+Michael D. Coe's [[coe-angkor-khmer-civilization-2018|*Angkor and the Khmer Civilization*]] gives the
+wiki its first **archaeological close-up** of Indianization. At **[[funan|Oc Eo]]**, the Mekong-delta
+port of the "Funan" culture, resident **Indian merchants** in a town tied into the Rome–India–China
+[[indian-ocean-trade|sea trade]] left the **earliest writing** of the Khmer area (Sanskrit on seals
+and rings) and the first **Hindu cult objects** (Vishnu, Shiva, Brahma in gold leaf) — the concrete
+beginning of the process. As power shifted inland to the **Zhenla** kingdoms, Indianization deepened
+into **royal religion**: the worship of **Shiva (the linga)**, **Vishnu**, and the combined
+**Harihara**, and the building of Sanskrit-inscribed brick temples (Sambor Prei Kuk / Ishanapura),
+maturing into the **devaraja** god-kingship of [[khmer-empire|Angkor]]. The Khmer thus exemplify
+Coe's (and the consensus) reading: **selective local adoption** of Indian forms by indigenous delta
+elites — not Indian conquest or colonisation — building a civilization that was genuinely Khmer yet
+Sanskritic. (Indian tradition linked Funan to the brahman **Kaundinya**, the same figure Thapar's
+account names as introducing Indian culture to Cambodia.)
 
 ## End conditions
 
