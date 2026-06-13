@@ -2,15 +2,15 @@
 title: The Rise of the Ottoman Empire
 actor_type: state
 date_start: c. 1300 (Osman in Bithynia)
-date_end: 1922 (abolition of the sultanate) — this page covers the rise to 1402
-period: [Late Middle Ages]
-region: [anatolia, balkans, near-east]
+date_end: 1922 (abolition of the sultanate) — this page covers the rise to 1402 and, via Imber, the structure of power to 1650
+period: [Late Middle Ages, Early Modern]
+region: [anatolia, balkans, near-east, levant, mesopotamia, north-africa]
 affiliated_with: [the Anatolian Turkish frontier (gazi) society, Sunni Islam]
-opposed_by: [the [[byzantine-empire|Byzantine empire]], the Balkan Christian states (Serbia, Bulgaria), the crusaders, Timur]
-key_events: [the emergence in Bithynia (c. 1300), the crossing into Europe (1354), the battle of [[battle-of-kosovo-1389|Kosovo]] (1389), Nicopolis (1396), the catastrophe at Ankara (1402)]
-key_processes: [the conquest of the Balkans, the building of a frontier state]
-sources_ingested: 1
-last_updated: 2026-06-12
+opposed_by: [the [[byzantine-empire|Byzantine empire]], the Balkan Christian states (Serbia, Bulgaria), the crusaders, Timur, the Safavids, the Mamluks, the Habsburgs]
+key_events: [the emergence in Bithynia (c. 1300), the crossing into Europe (1354), the battle of [[battle-of-kosovo-1389|Kosovo]] (1389), Nicopolis (1396), the catastrophe at Ankara (1402), Çaldıran (1514), the conquest of Egypt (1517), Mohács (1526)]
+key_processes: [the conquest of the Balkans, the building of a frontier state, the slave household, the timar system, the "military revolution"]
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [actor, state, late-middle-ages, anatolia, balkans, near-east]
 ---
 
@@ -97,8 +97,49 @@ near-collapse at **Ankara (1402)** to the empire of Mehmed II and Bayezid II.
   Spain (1492)**. Power was passing to a **merchant** rather than imperialist milieu — just as the
   Portuguese rounding of Africa began to threaten the Levant trade.
 
+## The structure of power and the apogee, 1512–1650 (Imber)
+
+Colin Imber's [[imber-ottoman-empire-1300-1650|*The Ottoman Empire, 1300–1650*]] carries the
+story to the mid-seventeenth century and anatomizes the **institutions** that made the empire.
+He stresses that the Ottoman state was **dynastic, multinational, and sultan-centered**, not
+simply "Turkish" or "Islamic": by 1650 it spanned Europe, Asia, and Africa, Christians
+outnumbered Muslims in many provinces, and the political élite was largely of convert and
+Balkan/Caucasian origin — "it was ultimately the person of the sultan … that held the Empire
+together."
+
+**The conquering and apogee sultans.** [[selim-i|Selim I]] (1512–20) doubled the empire,
+crushing the [[safavid-empire|Safavids]] at **Çaldıran (1514)** and conquering the
+[[mamluk-sultanate|Mamluk]] lands — **Syria (1516)** and **Egypt (1517)** — and with the Holy
+Cities the primacy of Sunni Islam. [[suleiman-the-magnificent|Süleyman the Magnificent]]
+(1520–66) brought the empire to its **apogee**: Belgrade, Rhodes, **Mohács (1526)**, the siege
+of **Vienna (1529)**, Baghdad (1534), Barbarossa's Mediterranean, and the codification of the
+**[[ottoman-law-kanun|kanun]]**. The empire reached its **maximum size** in 1590.
+
+**The machinery of empire.** Imber's institutional chapters show the empire resting on: a
+distinctive **succession** practice (royal **fratricide**, made notorious by Mehmed III's
+killing of 19 brothers in 1595, replaced after 1603 by **seniority** and the confinement of
+princes); the **[[devshirme|slave household (kapıkulu)]]** levied from Christian boys to staff
+army and government; the **[[janissaries|Janissary]]** slave-infantry corps; the
+**[[timar-system|timar]]** cavalry-fief order in the provinces; and the dual
+**[[ottoman-law-kanun|shari'a/kanun]]** legal system dividing society into the *askeri*
+(military/servant) and tax-paying *reaya*.
+
+**The Times of Trouble, 1590–1650.** The classical order entered crisis. The **"military
+revolution"** — firearms and entrenched infantry — made the [[timar-system|timar cavalry]]
+obsolete, swelling the [[janissaries|Janissaries]] (~8,000 in 1527 to ~39,000 by 1609) and
+straining the treasury for cash. Costly, indecisive wars with the Habsburgs (the 1593–1606
+war, ending at **Zsitvatorok, 1606**, on terms of rough parity) and Safavids combined with a
+**deteriorating climate (Little Ice Age)**, landlessness, and the easy spread of firearms to
+ignite the **Jelali revolts** that convulsed Anatolia. The empire survived with "extraordinary
+resilience," but the centralized order of the apogee had given way to a tax-farming,
+infantry-heavy, less sultan-dominated state.
+
 ## Related
 
+- [[imber-ottoman-empire-1300-1650]] — the structural study underpinning the 1512–1650 account above.
+- [[selim-i]] · [[suleiman-the-magnificent]] — the conquering and apogee sultans.
+- [[devshirme]] · [[janissaries]] · [[timar-system]] · [[ottoman-law-kanun]] — the institutions of power.
+- [[safavid-empire]] · [[mamluk-sultanate]] — the powers it fought and absorbed.
 - `produced:` the [[fall-of-constantinople-1453|conquest of Constantinople (1453)]] and the absorption of the Balkans and the [[byzantine-empire|Byzantine]] successor-states.
 - `opposed_by:` the declining [[byzantine-empire|Byzantine empire]] and the Balkan Christian states; checked by Timur at Ankara (1402).
 - `produced:` the conquest of the Balkans ([[battle-of-kosovo-1389|Kosovo]] 1389, Nicopolis 1396).

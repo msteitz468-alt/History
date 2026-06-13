@@ -2318,3 +2318,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 
 ## 2026-06-13 section | Early Modern Japan in Asia and the World (New CHJ II) | Section: Social practices and cultures (Part III, chs 13–21) | Pages created: 2 | Pages updated: 3
 ## 2026-06-13 ingest-complete | Early Modern Japan in Asia and the World (New CHJ II; Howell ed.) | Total pages created: 4 | Total pages updated: 8 | Sections processed: 3 | CLOSES PHASE B (JAPAN)
+
+## 2026-06-13 ingest | Colin Imber, The Ottoman Empire 1300–1650: The Structure of Power | Late Middle Ages, Early Modern | anatolia/balkans/near-east | Pages created: 6 | Pages updated: 1 | OPENS PHASE C (OTTOMAN)
