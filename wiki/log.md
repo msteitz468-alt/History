@@ -35,6 +35,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. IV (12th–16th c.) | Section: The Maghrib — Almohads & after (chs. 2–5) | Pages created: 0 | Pages updated: 1 | (almohads — African/Maghribi view, gold trade)
 
+## 2026-06-12 section | GHA Vol. V (16th–18th c.) | Section: West Africa — the Guinea states (chs. 12–18) | Pages created: 4 | Pages updated: 1 | (asante-empire, oyo-empire, benin-kingdom, dahomey; enriched hausa-city-states)
+
 ## 2026-06-12 section | GHA Vol. V (16th–18th c.) | Section: North Africa & the Sudan under the Ottomans (chs. 6–11) | Pages created: 1 | Pages updated: 1 | (barbary-regencies; enriched mamluk-sultanate)
 
 ## 2026-06-12 section | GHA Vol. V (16th–18th c.) | Section: The slave trade & the Atlantic order (chs. 1–5) | Pages created: 0 | Pages updated: 2 | (atlantic-slave-trade, impact-of-atlantic-slave-trade-on-africa — Inikori/Rodney underdevelopment thesis)

@@ -9,7 +9,7 @@ affiliated_with: [the Hausa people, Islam (from the 14th c.), the trans-Saharan 
 opposed_by: [Songhay, Kanem-Bornu (intermittent overlords), the Jukun/Kwararafa, later the Fulani jihad]
 key_events: [the legendary Bayajidda/Daura origin, the Islamization of Kano (14th c.), Kano–Katsina rivalry, the Fulani jihad (1804–08)]
 key_processes: [[[trans-saharan-trade]], [[islamization-of-africa]], state-formation, urbanism]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, west-africa]
 ---
@@ -55,7 +55,11 @@ Swahili city-states). Their independent era ended with the **Fulani jihad of Usm
 which conquered the Hausa kingdoms and folded them into the **Sokoto Caliphate** — but **Hausa** language
 and culture became, and remain, one of the largest in Africa.
 
+> **GHA V note.** The [[gha-vol5-16th-18th-century|General History of Africa, Vol. V]] (ch. 16, Laya)
+> carries the Hausa story into the **eighteenth century**, when **Kano**, **Katsina**, and **Gobir** were
+> at their commercial height — and on the eve of the **Sokoto jihad (1804)** that would conquer them.
+
 ## Related pages
 
-[[gha-vol4-12th-16th-century]] · [[kanem-bornu]] · [[songhay-empire]] · [[trans-saharan-trade]] ·
-[[islamization-of-africa]] · [[sub-saharan-africa]]
+[[gha-vol4-12th-16th-century]] · [[gha-vol5-16th-18th-century]] · [[kanem-bornu]] · [[songhay-empire]] ·
+[[trans-saharan-trade]] · [[islamization-of-africa]] · [[sub-saharan-africa]]
