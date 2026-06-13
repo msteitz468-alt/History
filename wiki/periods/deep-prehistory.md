@@ -5,8 +5,8 @@ date_range: "before 3.3 million BP"
 regions_covered: [africa, global]
 major_themes: ["hominin evolution", "bipedalism", "australopithecines", "pre-stone-tool hominins"]
 collection_coverage: weak
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [period]
 ---
 
@@ -102,4 +102,8 @@ Coverage of Deep Prehistory from ingested sources: **weak**. The *Cambridge
 World History* Vol. 1 Introduction (ingested 2026-06-10) provides only a
 sketch of this period; the focus of that volume is the Paleolithic era of
 *Homo sapiens*. Phase 11 specialist sources will be required for fuller
-coverage.
+coverage. The **[[cambridge-history-of-africa-v1|Cambridge History of Africa, Vol. 1]]**
+(J. Desmond Clark, ed., 1982) adds an authoritative older treatment of the **origins and
+evolution of the African Hominidae** — Africa as the hearth of human evolution — though,
+like CAH I, its hominin taxonomy and dating predate the major late-20th- and 21st-century
+discoveries.

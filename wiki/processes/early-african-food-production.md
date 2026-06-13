@@ -16,8 +16,8 @@ produces:
   - "Pre-domestication cultivation and early ceramic technology"
   - "Sahelian cereal package (pearl millet, sorghum, African rice, fonio, cowpea)"
   - "[[bantu-expansion|Bantu agricultural dispersal]] across central/southern Africa"
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-06-13
 tags: [process, economic, africa, sub-saharan-africa, "Mesolithic", "Neolithic"]
 ---
 
@@ -195,6 +195,14 @@ ancestor of West African urbanism and statehood.
   introgression of Near Eastern taurine cattle) is an active research question not
   fully resolved here.
 
+The **[[cambridge-history-of-africa-v1|Cambridge History of Africa, Vol. 1]]** (ed. J.
+Desmond Clark, 1982) corroborates this independent-origins picture from the archaeological
+side — its chapters on "the origins of indigenous African agriculture" and "early food
+production in sub-Saharan Africa" establish the Sahara and the Sahel as hearths of native
+domestication (sorghum, the millets, African rice, yams) distinct from the Near Eastern
+package — a parallel authority to the wiki's UNESCO GHA-based account.
+
 `part_of: [[african-language-family-origins]]`
 `enabled: [[neolithic]]`
 `caused_by: [[mesolithic|Holocene climatic transition]]`
+- Sources: see also [[cambridge-history-of-africa-v1]] (Clark, 1982).
