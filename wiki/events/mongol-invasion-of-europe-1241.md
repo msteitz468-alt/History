@@ -95,4 +95,5 @@ internal divisions** of the Golden Horde rather than by European resistance.
 - `produced:` the devastation of [[central-european-kingdoms|Hungary and Poland]] and the overlordship of the Golden Horde.
 - `concurrent_with:` the [[frederick-ii-hohenstaufen|papal–imperial struggle]] that paralysed a Latin response.
 - `analogous_to:` the Mongol invasion of Syria (1260), checked at [[battle-of-ain-jalut-1260|Ain Jalut]] — another army withdrawn at a critical juncture.
+- `produced:` the [[medieval-european-images-of-the-mongols|Western image of the "Tartars"]] — the swing from "King David" to Gog and Magog.
 - Sources: [[abulafia-ncmh-v5-2000|NCMH V]] (Jackson) · [[jackson-mongols-and-the-west|Jackson, *The Mongols and the West*]].
