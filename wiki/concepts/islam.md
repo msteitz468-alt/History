@@ -5,8 +5,8 @@ origin: Founded in early-7th-century Arabia (the preaching of Muhammad, d. 632);
 applies_to_periods: [Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion]
 applies_to_regions: [arabian-peninsula, near-east, levant, mesopotamia, iran-plateau, north-africa, central-asia, south-asia, southeast-asia, west-africa, east-africa, iberia, anatolia, china]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [concept]
 ---
 
@@ -120,6 +120,7 @@ school"; see the historiography note on [[early-middle-ages]]).
 - [[muhammad]], [[caliphate]], [[abbasid-caliphate]] — the founder and the early polities (to be developed).
 - [[christianity]], [[buddhism]] — the other two "world religions" of Part IV.
 - [[trans-saharan-trade]], [[indian-ocean-trade]], [[afro-eurasian-world-system]] — the commercial webs Islam bound together.
+- [[islamization-of-africa]] — the gradual, trade-borne spread of Islam across North, West and East Africa (GHA III).
 - [[intercultural-relations-early-modern]] — Sufism, Sikhism, and Islam's early modern dialogues.
 - [[comparative-religion]] — Ottoman toleration as a foil in the European "discovery of religion."
 - [[crusades]] — the principal zone of Christian–Muslim "expanding webs of conflict."
