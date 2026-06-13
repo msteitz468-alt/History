@@ -5,7 +5,7 @@ origin: imported from Korea (Paekche) to the Yamato court in 538/552 CE; develop
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, Contemporary]
 applies_to_regions: [japan, east-asia]
 contested: no
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -40,6 +40,21 @@ existence is inherently **suffering**; and that release (*nirvana*) comes by ext
 selfish craving through moral conduct, meditation, and wisdom. In Shōtoku's day this was
 pursued as **individual monastic effort**. Japanese Buddhism became overwhelmingly
 **Mahāyāna** ("Great Vehicle"), eclipsing the earlier Nara "Hīnayāna" schools.
+
+## "Ritsuryō Buddhism": Buddhism as a department of state (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v1-ancient|Cambridge History]] (Sonoda, ch. 7) frames the
+post-645 transformation as the rise of ***ritsuryō* Buddhism** — the conversion of
+**Soga clan Buddhism into state Buddhism** on the [[tang-dynasty|Tang]] and especially
+**Silla** Korean model (many Japanese monks returned via Silla). Patronage passed from the
+Soga to the **emperor** — who, the authors stress, derived his authority "primarily" from his
+role as **chief priest of [[shinto|kami]] worship** and only secondarily as patron of Buddhism.
+Early ritsuryō Buddhism was less doctrinal than **practical and magical** — court masses
+(*hōe*), image-making, and rites for **this-worldly state protection**. **Temmu** (after 672)
+sponsored it heavily while simultaneously exalting Ise and the kami cult, integrating the
+sangha into the [[ritsuryo-state|ritsuryō state]] under clerical-office regulation. This
+state-Buddhist system culminated in the Nara provincial-temple (*kokubunji*) network and the
+Tōdaiji.
 
 ## Nara state Buddhism
 

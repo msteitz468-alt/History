@@ -5,7 +5,7 @@ origin: the indigenous ritual and mythological tradition of Japan; given literar
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Long 19th Century, World Wars Era, Contemporary]
 applies_to_regions: [japan, east-asia]
 contested: yes
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -104,6 +104,23 @@ suijaku* doctrine that the kami are local "manifestations" of the buddhas — cr
 by the close of the Heian period (~1100). Yet fusion was never total: a "Pure Shintō" always
 kept its own shrinking territory (the shrines of **Ise** preserved strict anti-Buddhist
 taboos — a Buddhist priest needed a wig even to enter the town).
+
+## Prehistoric roots and pan-Asian elements (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v1-ancient|Cambridge History]] (Matsumae, ch. 6) stresses that
+Shintō was **"not an entirely indigenous development."** Its cosmos — the **High Plain of
+Heaven** (*Takamanohara*), Earth, the underworld of the dead (*Yomi no Kuni*), the ocean
+realm (*Watatsumi*), and the utopian land across the sea (*Tokoyo no Kuni*) — blends a
+**north-Asian shamanistic** three-level structure (shared with Siberia, Mongolia, the Altaic
+world) with motifs (the dragon-king's undersea palace, the utopia in the sea) found across
+south China, Korea, Southeast Asia, and Polynesia. Its roots reach into the prehistoric:
+**Jōmon** fertility cult (the pregnant **dogū** figurines, phallic stone rods, serpent-as-
+water-spirit, ritual tooth-extraction and tattooing of Pacific affinity; the **marebito**
+"guest kami" welcomed yearly from *Tokoyo*, with Melanesian parallels), giving way in the
+**Yayoi** to **shamanism** (oracle-bone divination guiding government — cf. the queen-shaman
+**Himiko**) and the worship of a **rice spirit** with wet-rice agriculture. So the kami-way
+crystallized from aboriginal belief overlaid by continental and island-Asian elements — a
+finding that complicates any notion of a pure, primordial native religion.
 
 ## Related
 
