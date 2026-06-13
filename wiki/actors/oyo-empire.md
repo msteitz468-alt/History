@@ -9,7 +9,7 @@ affiliated_with: [the Yoruba peoples, Ife (spiritual metropolis), the Atlantic a
 opposed_by: [Nupe (which once drove Oyo into exile), Dahomey (a tributary), the Sokoto jihadists]
 key_events: [the recovery from Nupe exile, the conquest of Dahomey as a tributary (18th c.), the constitutional crises and collapse (early 19th c.)]
 key_processes: [[[atlantic-slave-trade]], state-formation, cavalry warfare]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, empire, early-modern, west-africa]
 ---
@@ -51,7 +51,13 @@ Oyo is the classic **savanna-cavalry empire** of the Guinea region and a notable
 checks on kingship** in pre-colonial Africa — the dominant Yoruba power before the nineteenth-century
 upheavals.
 
+> **GHA VI note.** The [[gha-vol6-19th-century|General History of Africa, Vol. VI]] (ch. 26, Asiwaju)
+> details Oyo's **collapse** in the early nineteenth century and the **Yoruba wars** that followed — the
+> jihad-linked Ilorin revolt, the sack of Old Oyo (c. 1836), and the rise of new Yoruba powers such as
+> **Ibadan** amid the turmoil that fed the Atlantic slave trade right up to abolition.
+
 ## Related pages
 
-[[gha-vol5-16th-18th-century]] · [[atlantic-slave-trade]] · [[dahomey]] · [[benin-kingdom]] ·
-[[asante-empire]] · [[hausa-city-states]] · [[sub-saharan-africa]]
+[[gha-vol5-16th-18th-century]] · [[gha-vol6-19th-century]] · [[west-african-jihads]] ·
+[[atlantic-slave-trade]] · [[dahomey]] · [[benin-kingdom]] · [[asante-empire]] · [[hausa-city-states]] ·
+[[sub-saharan-africa]]

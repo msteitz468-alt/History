@@ -47,6 +47,8 @@ Format:
 
 ## 2026-06-12 section | GHA Vol. V (16th–18th c.) | Section: The slave trade & the Atlantic order (chs. 1–5) | Pages created: 0 | Pages updated: 2 | (atlantic-slave-trade, impact-of-atlantic-slave-trade-on-africa — Inikori/Rodney underdevelopment thesis)
 
+## 2026-06-12 section | GHA Vol. VI (19th c.) | Section: The West African jihads & Guinea states (chs. 21–27) | Pages created: 2 | Pages updated: 2 | (west-african-jihads, sokoto-caliphate; enriched hausa-city-states, oyo-empire)
+
 ## 2026-06-12 section | GHA Vol. VI (19th c.) | Section: The Maghrib & the Sahara (chs. 17–20) | Pages created: 0 | Pages updated: 1 | (barbary-regencies — French conquest of Algeria, Abd al-Qadir)
 
 ## 2026-06-12 section | GHA Vol. VI (19th c.) | Section: Egypt, Sudan, Ethiopia, Madagascar (chs. 13–16) | Pages created: 2 | Pages updated: 1 | (muhammad-ali-egypt, merina-kingdom; enriched solomonic-ethiopia)

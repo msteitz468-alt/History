@@ -9,7 +9,7 @@ affiliated_with: [the Hausa people, Islam (from the 14th c.), the trans-Saharan 
 opposed_by: [Songhay, Kanem-Bornu (intermittent overlords), the Jukun/Kwararafa, later the Fulani jihad]
 key_events: [the legendary Bayajidda/Daura origin, the Islamization of Kano (14th c.), Kano–Katsina rivalry, the Fulani jihad (1804–08)]
 key_processes: [[[trans-saharan-trade]], [[islamization-of-africa]], state-formation, urbanism]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, west-africa]
 ---
@@ -58,6 +58,11 @@ and culture became, and remain, one of the largest in Africa.
 > **GHA V note.** The [[gha-vol5-16th-18th-century|General History of Africa, Vol. V]] (ch. 16, Laya)
 > carries the Hausa story into the **eighteenth century**, when **Kano**, **Katsina**, and **Gobir** were
 > at their commercial height — and on the eve of the **Sokoto jihad (1804)** that would conquer them.
+>
+> **GHA VI note.** The [[gha-vol6-19th-century|General History of Africa, Vol. VI]] (ch. 22) covers the
+> **end of Hausa independence**: **Usman dan Fodio's jihad (1804)** overthrew the Hausa kings and absorbed
+> the city-states as **emirates of the [[sokoto-caliphate|Sokoto Caliphate]]** — under which the Hausa
+> commercial and craft economy continued, now under Fulani-led Islamic rule (see [[west-african-jihads]]).
 
 ## Related pages
 
