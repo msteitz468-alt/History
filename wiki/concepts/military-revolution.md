@@ -5,8 +5,8 @@ origin: Coined by Michael Roberts (1955) for 1560–1660 Sweden/Netherlands; exp
 applies_to_periods: [Late Middle Ages, Early Modern, Age of Expansion]
 applies_to_regions: [western-europe, near-east, east-asia, south-asia, global]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [concept]
 ---
 
@@ -126,3 +126,11 @@ The **fortress** dimension central to Parker's version of the thesis is now docu
 **[[duffy-siege-warfare|Duffy, *Siege Warfare*]]** and the dedicated **[[trace-italienne|*trace
 italienne*]]** page — the bastioned fortress whose costly sieges are argued to have driven army growth
 and state-building.
+
+**Southeast Asia** offers a notable test case (Reid, [[reid-southeast-asia-age-of-commerce-v2-1993|*Age
+of Commerce*]] Vol. 2): firearms were Chinese inventions that reached the region *before* the Portuguese
+(via the Mongols and Zheng He), and the leading port-states quickly bought, hired, or copied European
+techniques, so the European military edge was "never more than a slight edge" until the nineteenth
+century. There, as in Europe, the deepest effect of the new weaponry was internal — strengthening
+gun-owning regimes over their hinterlands and fuelling the [[southeast-asian-absolutism|gunpowder
+absolutism]] of Aceh, Mataram, and Ayutthaya.
