@@ -8,7 +8,7 @@ region: [west-africa, east-africa, central-africa, southern-africa, north-africa
 process_type: [political, ideological]
 driven_by: [the grievances of colonial rule, the Western-educated elite, the discrediting of Europe by the world wars, Pan-Africanism and diaspora ideas, the colonial economy's dislocations]
 produces: [the independence movements, the post-colonial nation-states, Pan-African organizations]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [process, world-wars-era, africa]
 ---
@@ -52,8 +52,19 @@ The 1919–35 period was **formative rather than triumphant**: it built the lead
 and grievances on which the post-1945 mass nationalism and **[[decolonization|decolonization]]** would draw.
 GHA VII's framing — colonialism generating the forces that destroyed it — runs directly into Vol. VIII.
 
+## The Second World War as catalyst (GHA VIII)
+
+The **UNESCO [[gha-vol8-since-1935|General History of Africa, Vol. VIII]]** (Section I, chs. 2–4) opens with
+the **Second World War as the great accelerator** of African nationalism. Africa was a major theatre and
+arsenal: the **Italian conquest of Ethiopia (1935)** and the North African campaigns made it a battleground,
+and the colonies supplied **soldiers (hundreds of thousands of African troops), labour, and raw materials**.
+The war **discredited European prestige** (the fall of France; Japan's defeats of Western powers in Asia),
+spread **Atlantic Charter** rhetoric of self-determination, and returned **ex-servicemen** with new
+horizons and grievances — so that the **5th Pan-African Congress (1945)** could turn squarely toward
+independence. After 1945, nationalism became a **mass movement**.
+
 ## Related pages
 
-[[gha-vol7-colonial-1880-1935]] · [[pan-africanism]] · [[decolonization]] ·
+[[gha-vol7-colonial-1880-1935]] · [[gha-vol8-since-1935]] · [[pan-africanism]] · [[decolonization]] ·
 [[african-resistance-to-colonial-rule]] · [[colonial-rule-in-africa]] · [[nationalism]] · [[imperialism]] ·
 [[sub-saharan-africa]]
