@@ -9,7 +9,7 @@ affiliated_with: [the Yuezhi confederation, Buddhist and Zoroastrian and Hindu c
 opposed_by: [the [[sasanian-empire|Sasanians]], the Hephthalites]
 key_events: [Yuezhi migration into Bactria 2nd c. BCE, crossing of the Hindu Kush into India c. 1st c. CE, patronage of Mahayana Buddhism]
 key_processes: [[[silk-roads]], [[trade-network-formation]], [[buddhism|spread of Buddhism]], [[empire]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [actor, empire, classical-antiquity, central-asia, south-asia]
 ---
@@ -61,6 +61,23 @@ and Greek deities. Under Kushan rule two great schools of religious sculpture fl
 subjects to render the **first anthropomorphic Buddha images**, and the indigenous **Mathura**
 school in red sandstone, which sculpted Buddhas, Jain *tirthankaras*, and Hindu deities alike —
 a visual record of the empire's religious pluralism.
+
+## The succession of north-western powers (Thapar)
+
+[[thapar-history-of-india-v1-1966|Thapar]] sets the Kushans within the **chain of intrusive powers**
+that ruled the north-west after the Mauryas, each driven by upheavals on the Central Asian steppe:
+the **Bactrian/Indo-Greeks** (Yavanas), then the **Shakas** (Scythians, displaced westward by the
+**Yueh-chi**; their first Indian king Maues/Moga c. 80 BCE; later the western satraps Nahapana and
+**Rudradaman**, whose c. 150 CE **Junagarh inscription** is the earliest important Sanskrit
+inscription), and finally the **Yueh-chi/Kushanas** themselves (Kujula Khadphises uniting the five
+tribes; Vima issuing gold coinage imitating Roman *denarii*; then **Kanishka**). She notes the
+**Shaka Era of 78 CE** associated with the dynasty (still used by the Indian government), the Kushan
+role in linking Indian history to **Chinese annals** and Central Asia (Kanishka died fighting there;
+a Kushan king was defeated by the Han general Pan Ch'ao), and the dynasty's end as **vassals of the
+Sassanians** after Ardashir's heirs took Peshawar and Taxila (mid-3rd c.). Crucially, Thapar treats
+these foreign rulers as a problem for the **caste order**: too powerful to be outcastes, the Greeks
+and Shakas were assigned a "**fallen kshatriya**" status — a "shrewd manoeuvre," and another instance
+of caste theory bending to practice (see [[caste-varna]]).
 
 ## Significance
 

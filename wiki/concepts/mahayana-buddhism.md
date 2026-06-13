@@ -5,7 +5,7 @@ origin: emerged in India c. 1st c. BCE–1st c. CE as a movement within Buddhism
 applies_to_periods: [Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
 applies_to_regions: [south-asia, central-asia, east-asia, china, japan, korea]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -31,6 +31,19 @@ tradition around the ideal of the **bodhisattva** and the promise of **universal
   (Avalokiteshvara/Guanyin, Amitabha, Maitreya) become objects of devotion.
 - **Emptiness (*shunyata*).** The Madhyamaka philosophy (Nagarjuna) holds all phenomena to be "empty" of
   inherent self-existence — a metaphysical signature of the Mahayana.
+
+## The Kushan-era context and Gandhara art (Thapar)
+
+[[thapar-history-of-india-v1-1966|Thapar]] ties the Mahayana's rise to the cosmopolitan, trade-rich
+**[[kushan-empire|Kushan]]** north-west and its **Indo-Hellenic** contacts. The arrival of
+Alexandrine Greco-Roman sculptural style along the west-Asian trade routes "coincided with the
+introduction of the multiplicity of saints and heavens in Buddhist theology, which lent themselves
+ideally to sculpture and painting" — producing the hybrid **Gandhara art** that rendered the first
+anthropomorphic **Buddha images**. She notes Buddhism's appeal to the Greeks and other foreigners
+precisely because it "provided easier access to Indian society than did the caste-determined attitude
+of Brahmanism" — and traces a two-way exchange in which Buddhist legend shaped western movements
+(Manichaeism, Gnosticism; the Buddha–Christ parallels) while **Zoroastrianism** influenced the
+Mahayana in turn.
 
 ## Spread and Forms
 

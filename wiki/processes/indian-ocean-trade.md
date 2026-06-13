@@ -8,8 +8,8 @@ region: [indian-ocean, south-asia, southeast-asia, near-east, arabian-peninsula,
 process_type: economic
 driven_by: ["the monsoon wind system", "local fishing and sailing communities", "Hindu, Muslim, Buddhist, and Jewish merchant institutions", "South Indian merchant guilds", "the demand of the Chinese and Islamic 'engines'", [[afro-eurasian-world-system]]]
 produces: ["a poly-religious maritime trading world", "the Islamization of coastal Southeast Asia and East Africa", "the Swahili and Gujarati port cities", "cross-cultural transmission of goods, faiths, and ideas"]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [process, early-middle-ages, high-middle-ages, late-middle-ages, early-modern, indian-ocean]
 ---
 
@@ -43,6 +43,23 @@ cooperation, across religious and ethnic lines, actually made the trade work.
 - **The pull of the "engines"** — the demand of [[afro-eurasian-world-system|China
   and the Islamic heartland]], and China's Middle-Millennium shift from overland
   Silk Roads toward Indian Ocean maritime outlets (Quanzhou, Guangzhou).
+
+## The Roman trade with India (Thapar)
+
+[[thapar-history-of-india-v1-1966|Thapar]] documents an earlier **classical peak** (1st c. BCE – 3rd
+c. CE): the **Roman trade**, "the most profitable of the overseas trade," concentrated on **South
+India**. Mediterranean **yavana** merchants kept establishments in the Satavahana and Tamil kingdoms;
+the *[[periplus-maris-erythraei|Periplus Maris Erythraei]]* (c. 1st c. CE) details the ports and
+cargoes — **Barygaza/Broach** (the oldest, largest western entrepôt), Barbaricum on the Indus, and
+the Tamil coast — and the **monsoon** sailing (known to Arab sailors before its "discovery" by
+Hippalus) that made mid-ocean voyages feasible. India exported **spices, muslin, gems, ivory, silk
+yarn, and exotic animals**; Rome paid largely in **gold coin**, whose hoards across the Deccan and
+south (mostly Augustus/Tiberius, the debased Nero issues spurned) measure the trade's volume — and
+prompted **Pliny's complaint** that India drained 550 million sesterces a year from Rome. At
+**Arikamedu** (the Periplus's Padouke) excavation revealed an actual **Roman trading settlement**
+where muslin was made to Roman specification. The same routes carried the trade onward to
+**Southeast Asia and China** (see [[indianization-of-southeast-asia]]). India also re-exported
+**Chinese silk** via Taxila/Broach when Parthia blocked the direct route west.
 
 ## Major Phases
 
