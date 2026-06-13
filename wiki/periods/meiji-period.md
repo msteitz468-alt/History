@@ -5,7 +5,7 @@ date_range: "1868–1912 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["deliberate modernization & Westernization", "state-led industrialization (the first non-Western industrial revolution)", "the Meiji Constitution & the Diet (1889)", "treaty revision & great-power status", "the end of the samurai class", "the rise of empire (Taiwan, Korea)"]
 collection_coverage: moderate
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -85,7 +85,12 @@ liberalism; critics such as Tanaka Shōzō (the **Ashio copper-mine pollution** 
 modern civilization as destroying "moral structures … a thousand years" old; and a stifled
 younger generation turned to despair or radicalism. The conservative settlement — emperor,
 *kokutai*, family-state, and bureaucratic guidance — became the **ideological mold of the
-twentieth-century Japanese state**.
+twentieth-century Japanese state**. The [[cambridge-history-japan-v6-twentieth-century|Cambridge
+History Vol. 6]] (Mitani) underlines the long consequence of the **constitution's ambiguity**:
+its mix of imperial sovereignty and divided powers neither mandated nor forbade
+[[taisho-period|party government]], so that the same document could be *interpreted* to permit
+the party cabinets of the [[taisho-period|Taishō]] era (1918–32) and then *re-interpreted* to
+license the [[japanese-militarism|military-dominated state]] of the 1930s.
 
 ## Geographic Scope
 
@@ -95,9 +100,9 @@ expanding into a colonial empire (Hokkaidō, Okinawa, Taiwan, Korea, the Manchur
 ## Transition
 
 **Preceded by** the [[edo-period|Edo period]] (ended by the [[meiji-restoration-1868|Meiji
-Restoration]]). **Followed by** the **Taishō** era (1912–26) of "Taishō democracy," and the
-drift toward militarism and the [[pacific-war-1941-1945|Pacific War]] (Cycle 4's later
-chapters).
+Restoration]]). **Followed by** the [[taisho-period|Taishō period]] (1912–26) of "Taishō
+democracy," and the drift toward [[japanese-militarism|militarism]] and the
+[[pacific-war-1941-1945|Pacific War]].
 
 ## Historiography
 

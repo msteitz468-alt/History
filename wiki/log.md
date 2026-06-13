@@ -2302,3 +2302,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 
 ## 2026-06-13 section | The Cambridge History of Japan, Vol. 5 (Nineteenth Century) | Section: Conservatism & the drive to great-power status (chs 11–12) | Pages created: 1 | Pages updated: 3
 ## 2026-06-13 ingest-complete | The Cambridge History of Japan, Vol. 5 (The Nineteenth Century, 1800–1900) | Total pages created: 6 | Total pages updated: 9 | Sections processed: 4
+
+## 2026-06-13 section | The Cambridge History of Japan, Vol. 6 (Twentieth Century) | Section: Domestic politics — party government, militarism, the postwar order (Intro + Part I, chs 1–3) | Pages created: 2 | Pages updated: 2

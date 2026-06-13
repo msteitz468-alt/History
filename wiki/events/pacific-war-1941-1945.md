@@ -14,7 +14,7 @@ scale_immediate: hemispheric
 scale_consequential: global
 causes: ["the unwinnable [[japanese-imperialism|war in China]] (from 1937)", "the US oil embargo of 1941", "Japan's refusal to withdraw its army from China", "the drive for a self-sufficient Asian empire"]
 consequences: ["the total defeat & devastation of Japan (incl. the atomic bombings)", "the Allied Occupation & the 1947 'peace constitution'", "the end of the Japanese empire & acceleration of Asian decolonization", "Japan's postwar reinvention"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [event, world-wars-era, japan, east-asia, pacific]
 ---
@@ -68,6 +68,20 @@ peace treaty (1951; effective April 1952).
   military** in policymaking; the belief that Japanese spirit could overcome American
   industrial might (a fatal "inadequate appreciation of the will of foreign peoples to
   resist").
+
+## The home front and the road to war (Cambridge History of Japan Vol. 6)
+
+The [[cambridge-history-japan-v6-twentieth-century|Cambridge History Vol. 6]] (Gordon Berger,
+ch. 2) shows that the war abroad was preceded by the building of a **mobilized home front**:
+the [[japanese-militarism|collapse of party government]] after 1932, the **National
+Mobilization Law (1938)**, the rise of "reformist" bureaucrats bent on a planned war economy,
+and the dissolution of the political parties into the single **Imperial Rule Assistance
+Association (IRAA, 1940)**. Berger stresses that the decisions of 1940–41 — the Axis alliance,
+the move into Southeast Asia for oil and strategic materials, and ultimately war with the
+Anglo-American powers — were driven by the army's quest for **continental autonomy** and the
+"golden opportunity" that the German conquest of Western Europe seemed to open in the colonial
+south. Alvin Coox's detailed operational chapter (ch. 7) traces the war itself from "Tora!
+Tora! Tora!" through Midway to Okinawa and Japan *in extremis*.
 
 ## Consequence Analysis
 
