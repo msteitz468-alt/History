@@ -5,7 +5,7 @@ date_range: "1568–1600 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the reunification of Japan under Nobunaga & Hideyoshi", "the gunpowder military revolution", "the breaking of militant Buddhism", "the sword hunt & the freezing of the class order", "the first European (Iberian) contact & Christianity", "grand castle-and-screen (Momoyama) art"]
 collection_coverage: moderate
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -77,6 +77,12 @@ free-market (*rakuichi-rakuza*) measures "released society from the restrictions
 fettered the daily lives of the medieval populace." The volume's editors deliberately treat
 Azuchi-Momoyama not as a discrete epoch but as the **"preamble" to the longer Edo period** —
 the Tokugawa polity is unintelligible without the Oda–Toyotomi institutional foundation.
+
+The [[howell-early-modern-japan-asia-world|New Cambridge History of Japan Vol. II]] (Morgan
+Pitelka, ch. 1) frames these decades as **"the end of civil war and the formation of the early
+modern state"** — stressing that unification was not merely military conquest but the building
+of new institutions of rule, urban life (the castle town), material culture, and diplomacy that
+inaugurated Japan's [[kinsei-early-modernity|early modernity]].
 
 ## Key Actors
 

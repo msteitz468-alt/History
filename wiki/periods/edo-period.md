@@ -5,7 +5,7 @@ date_range: "1603–1868 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the Tokugawa peace (pax Tokugawa)", "the baku-han system", "sakoku (the closed country)", "the four-class order & the bureaucratization of the samurai", "monetization & the commercial revolution", "the rise of the merchants & chōnin urban culture", "the rural landlord-entrepreneur class"]
 collection_coverage: moderate
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -122,6 +122,18 @@ unconventional." Notably, the Tempō reforms also bred a **new kind of samurai b
 the bakufu and the reforming domains — leading some historians to locate the origins of the
 modern bureaucratic state here.
 
+## Regional authority and the "early modern" reframing (New Cambridge History of Japan)
+
+The [[howell-early-modern-japan-asia-world|New Cambridge History of Japan Vol. II]] (2023)
+revisits the Tokugawa order with current scholarship. David Howell's chapter on **regional
+authority** stresses that the [[bakuhan-system|bakuhan]] order rested on a genuine division of
+sovereignty — the shogunate could not act unilaterally even in foreign relations (Hellyer's
+"[[sakoku|four gates]]"), and the *han* exercised real autonomy. Kiri Paramore traces the
+**political thought of the mature state (1650–1830)**, and the volume as a whole treats the
+period firmly as **"early modern" on its own terms** rather than "late feudal" — Howell's
+introduction overturning the older [[cambridge-history-japan-v4-early-modern|CHJ Vol. 4]]
+equation of *kinsei* with feudalism (see [[kinsei-early-modernity]]).
+
 ## Geographic Scope
 
 A unified archipelago centered on **Edo**, knit by the great highways (the Tōkaidō) and the
@@ -157,6 +169,7 @@ and the World*.
 
 - [[tokugawa-ieyasu]] · [[shogunate-bakufu]] — founder and institution.
 - [[bakuhan-system]] · [[kokudaka-system]] — the political and land-assessment structures.
+- [[kinsei-early-modernity]] — the periodization debate over "early modern" Japan.
 - [[tokugawa-economy]] — the agricultural and commercial revolution and the fiscal crisis.
 - [[sakoku]] · [[opening-of-japan-1853-1858]] — the closed country and its forced opening.
 - [[samurai]] — the ruling class, now bureaucratized.

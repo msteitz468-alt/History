@@ -5,7 +5,7 @@ origin: the Tokugawa bakufu's maritime-prohibition edicts of 1633–1639 (the te
 applies_to_periods: [Early Modern, Age of Expansion, Long 19th Century]
 applies_to_regions: [japan, east-asia]
 contested: yes
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -79,6 +79,24 @@ beheading of their 1640 Macao embassy "ended the Christian Century." On this rea
 was less an economic or xenophobic reflex than the **logical endpoint of the Tokugawa decision
 to extirpate Christianity** — the prerogative the bakufu reserved to itself as guarantor of
 the realm ([[shogunate-bakufu]]).
+
+## The "four gates": foreign relations, not closure (New Cambridge History of Japan)
+
+The [[howell-early-modern-japan-asia-world|New Cambridge History of Japan Vol. II]] (Robert
+Hellyer, ch. 5) presses the now-dominant revisionist reading still further: Tokugawa Japan is
+better understood not as a "closed country" but as a realm whose foreign relations were
+**channeled through four codified gateways**, each managed by a different actor — **Nagasaki**
+(Chinese and Dutch trade, by the mid-eighteenth century mostly medicinal goods for copper and
+marine products), **Matsumae** (relations with the [[ryukyu-kingdom|Ainu]] in the north),
+**Satsuma** (indirect control of the [[ryukyu-kingdom|Ryūkyū kingdom]] in the south), and
+**Tsushima** (mediation with Korea to the west). Hellyer stresses that the shogunate, though
+the central authority, **could not act unilaterally** — it had to recognize the agency of
+Satsuma and Tsushima in their own foreign dealings — and that its monopolistic trade tools
+resembled those of the **English East India Company**. He sets Japan within a **Pacific
+context**: the shogunate's drive to **limit silver outflow** to China was shared across the
+region, shaping Japan's whole "interface with the outside world." On this reading *sakoku* names
+not isolation but a **distinctive early-modern East Asian foreign-relations system** (see
+[[kinsei-early-modernity]]).
 
 ## The Deshima window: Dutch Learning (Sansom)
 
