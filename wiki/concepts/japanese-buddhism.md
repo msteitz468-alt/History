@@ -5,7 +5,7 @@ origin: imported from Korea (Paekche) to the Yamato court in 538/552 CE; develop
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, Contemporary]
 applies_to_regions: [japan, east-asia]
 contested: no
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -67,6 +67,20 @@ China c. 800:
 Both spread into the countryside, became great **shōen** landholders, inspired much art
 and architecture (e.g. the Byōdōin Phoenix Hall), and **absorbed Shintō** through the
 *honji suijaku* identification of kami with buddhas.
+
+Sansom's [[sansom-short-cultural-history-japan|cultural history]] adds depth here.
+**Tendai** (Saichō/Dengyō Daishi) was deliberately **eclectic** — meditative, disciplinary,
+and esoteric as well as Lotus-based — and so became "the home of many schisms," the womb of
+most later Japanese sects. **Shingon** (Kūkai/Kōbō Daishi — a polymath remembered as saint,
+poet, sculptor, and supposed inventor of *kana*) was **Tantric/esoteric**, centered on the
+cosmic Buddha **Dainichi** (Mahāvairocana), working through *mantra*, *mandala*, and ritual
+gesture; its dualism (*ryōbu*) made it easy to identify Dainichi with the sun goddess
+[[shinto|Amaterasu]] and so to fuse Buddhism and Shintō. Crucially, the Heian age also saw
+the rise of **Amidism (Pure Land devotion)** — Kūya "the Saint of the Market Place" and
+Genshin's best-selling *Ōjōyōshū* (985) — teaching salvation by **faith in Amida** (*tariki*,
+"the strength of another") through the **nembutsu** (*Namu Amida Butsu*), in contrast to
+salvation by one's own effort (*jiriki*). All Heian sects absorbed Amida worship; only in
+the [[kamakura-period|Kamakura]] era did it harden into the separate Jōdo and Shinshū sects.
 
 ## The Kamakura revolution: Buddhism becomes a mass religion
 

@@ -5,7 +5,7 @@ origin: the indigenous ritual and mythological tradition of Japan; given literar
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Long 19th Century, World Wars Era, Contemporary]
 applies_to_regions: [japan, east-asia]
 contested: yes
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -91,6 +91,19 @@ underlies the word ***matsurigoto*** ("government" = "religious observances"), u
 ministers' work — administration as a form of worship. The cult was never homogeneous: local
 cults (notably the **Izumo** earth-god pantheon) fused with the **Yamato** sun-worship as
 tribes coalesced.
+
+## Dual Shintō (ryōbu): the Heian fusion with Buddhism (Sansom)
+
+Sansom traces the slow, phased **fusion** of Shintō with [[japanese-buddhism|Buddhism]] in
+the Heian period. The esoteric **Shingon** doctrine of one reality under two aspects
+(*ryōbu*, "two divisions") made it natural to identify the cosmic Buddha **Dainichi** with
+**Amaterasu** — and, tellingly, the **Shintō priesthood themselves often proposed** such
+identifications, even adopting Buddhist features (carved images after 900; temple-influenced
+shrine architecture). The fully theorized **Dual Shintō (*Ryōbu Shintō*)** — the *honji
+suijaku* doctrine that the kami are local "manifestations" of the buddhas — crystallized only
+by the close of the Heian period (~1100). Yet fusion was never total: a "Pure Shintō" always
+kept its own shrinking territory (the shrines of **Ise** preserved strict anti-Buddhist
+taboos — a Buddhist priest needed a wig even to enter the town).
 
 ## Related
 

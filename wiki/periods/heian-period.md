@@ -5,7 +5,7 @@ date_range: "794–1185 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the Fujiwara regency & rule through puppet emperors", "the rise of the shōen estate system", "familism eclipsing the centralized state", "the golden age of court literature (Genji, the Pillow Book)", "Tendai & Shingon Buddhism", "cloistered-emperor (insei) rule", "the seeds of feudalism"]
 collection_coverage: moderate
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -58,6 +58,16 @@ monasteries, and rising provincial warriors.
 - **Emperor Kammu** (founder of Kyoto rule); the cloistered emperors **Go-Sanjō**,
   **Shirakawa**, **Toba**.
 - The court women writers — **Murasaki Shikibu**, **Sei Shōnagon**.
+
+## Heian court culture (the classical age)
+
+The Heian court produced the **classical age of Japanese culture** — now treated on its own
+page, **[[heian-court-culture]]** (Sansom). Its essence: a tiny, insulated aristocracy for
+whom "aesthetic enjoyment was the chief business," organized around **calligraphy** (the
+master art), the **kana**-enabled vernacular literature, the *yamato-e* picture-scrolls (the
+*Genji* scroll), the **Byōdōin Phoenix Hall**, and the sensibility of ***mono no aware*** —
+the moment when borrowed Chinese civilization was fully **domesticated** into something
+Japanese.
 
 ## The golden age of court literature
 
