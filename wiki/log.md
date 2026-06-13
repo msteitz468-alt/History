@@ -2349,3 +2349,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 section | Sima Qian, Records of the Grand Historian (Han II) | Section: Statecraft, economy & the historian's verdict (Treatise 30 + Parts III–IV) | Pages created: 1 | Pages updated: 2
 
 ## 2026-06-13 ingest-complete | Sima Qian, Records of the Grand Historian: Han Dynasty II (Shi ji) | Total pages created: 2 | Total pages updated: 4 | Sections processed: 2 | COMPLETES SIMA QIAN PRIMARIES (Phase D core)
+
+## 2026-06-13 ingest | Timothy May, The Mongol Conquests in World History | High Middle Ages, Late Middle Ages | steppe/central-asia/china/iran-plateau/eastern-europe/silk-road | Pages created: 5 | Pages updated: 4 | OPENS PHASE E (MONGOLS + INDIA)

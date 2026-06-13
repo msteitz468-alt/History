@@ -13,8 +13,8 @@ scale_immediate: hemispheric
 scale_consequential: hemispheric
 causes: [the plague pathogen carried along the Mongol-era trade routes from Central Asia, a population at its demographic ceiling, prior famine and malnutrition]
 consequences: [the loss of perhaps a third or more of Europe's population, the late-medieval agrarian crisis, rising real wages and the decline of western serfdom, the peasant revolts, recurrent epidemics]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [event, late-middle-ages, western-europe, mediterranean]
 ---
 
@@ -45,7 +45,14 @@ closing the century) that prevented demographic recovery for generations.
 
 - `caused_by:` the **plague pathogen** carried west from Central Asia along the trade routes that
   the Mongol *Pax* had opened (the "distant yet palpable impact of Asia on fourteenth-century
-  Europe," in Jones's framing).
+  Europe," in Jones's framing). [[may-mongol-conquests-2012|Timothy May]] traces the specific
+  vector: probably out of the central-Eurasian steppe (Issyk Kul, 1338–9), the plague reached the
+  [[golden-horde|Jochid]] army besieging the Genoese colony of **Kaffa** in the Crimea (1346),
+  where the Mongols — in an early instance of biological warfare — catapulted plague corpses into
+  the town; Genoese ships then carried it through the Bosphorus to Messina and the Mediterranean
+  (1347–8). For May the plague is "the most deadly result of the Mongol Empire" and the deadliest
+  cargo of the **[[chinggis-exchange|Chinggis Exchange]]** — and, recurring in waves, a prime cause
+  of the [[mongol-empire|empire's]] own collapse.
 - `contributed_to:` a population **already at its ceiling** and, in many regions, **already
   declining before 1347** — Tuscany's population fell "very markedly" in the second quarter of the
   century; northern France and Italy show pre-plague stagnation — so that the plague struck a
@@ -84,7 +91,8 @@ medieval demography "high-risk."
 
 ## Related
 
-- `caused_by:` the trade routes of the [[mongol-empire|Mongol]] world; `preceded_by:` the Great Famine (1315–1322).
+- `caused_by:` the trade routes of the [[mongol-empire|Mongol]] world ([[pax-mongolica]]) — Kaffa, 1346; `preceded_by:` the Great Famine (1315–1322).
+- `part_of:` the [[chinggis-exchange]] (its deadliest cargo); see [[may-mongol-conquests-2012]].
 - `part_of:` the [[late-medieval-crisis|late-medieval crisis]] (the "calamitous fourteenth century").
 - `produced:` the late-medieval agrarian crisis, rising wages and the decline of western [[feudalism|serfdom]], the peasant revolts, and the demographic reversal of the [[urbanization|urban apogee]].
 - `contributed_to:` the anxious religiosity of [[late-medieval-lay-religion|late-medieval lay piety]].

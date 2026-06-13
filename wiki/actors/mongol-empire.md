@@ -9,7 +9,7 @@ affiliated_with: [[[pastoral-nomadism]], "the Chinggisid line", "the Yuan, Ilkha
 opposed_by: [[[song-dynasty|Southern Song]], [[abbasid-caliphate|Abbasid Caliphate]], "the Mamluks", "Japan", "the Delhi Sultanate"]
 key_events: ["the conquest of the Jin and Xixia", "the sack of Baghdad (1258)", "the conquest of Song China (1279)", "the division into four khanates"]
 key_processes: [[[afro-eurasian-world-system]], [[pastoral-nomadism]], [[silk-roads]], [[state-formation]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-13
 tags: [actor, empire, high-middle-ages, late-middle-ages, steppe, central-asia]
 ---
@@ -60,16 +60,22 @@ unity":
 
 - **The Khanate of the Great Khan / Yuan dynasty** (1271–1368) — China, Mongolia,
   Tibet, Manchuria; nominal primacy over the others (Khubilai Khan).
-- **The Ilkhanate** (1260–1335) — Iran, Iraq, Azerbaijan, the Caucasus, parts of
+- **The [[ilkhanate|Ilkhanate]]** (1260–1335) — Iran, Iraq, Azerbaijan, the Caucasus, parts of
   Anatolia (patron of [[rashid-al-din|Rashid al-Din's]] world history).
 - **The Chaghadaid Khanate** — Central Asia, until [[timur|Timur's]] rise (1370) and
   beyond in the east.
-- **The Golden Horde** (1260–1480) — the northwestern steppe and the Russian
-  principalities (the "Tatar Yoke").
+- **The [[golden-horde|Golden Horde]]** (Jochid Khanate, 1242–1502) — the northwestern steppe and the
+  Russian principalities (the "Tatar Yoke").
 
 Mid-fourteenth-century crises collapsed the Ilkhanate (1335) and Yuan (1368); the
 fall of the Yuan conventionally ends the "Mongol period," though from a Muslim
 vantage the "Mongolian moment" extends to the Timurids' demise (1500).
+[[may-mongol-conquests-2012|Timothy May]] stresses that the dissolution was not the
+end of integration: across their civil wars the khanates kept the
+[[pax-mongolica|Pax Mongolica]] and its trade alive, until the **[[black-death|Black
+Death]]** — carried west along the empire's own routes (Kaffa, 1346) — gutted their
+armies, cities, and bureaucracies and "played a major role in collapse" (Schamiloglu
+on the Golden Horde especially).
 
 ## The Western Campaigns and the Frontiers of Europe (NCMH V)
 
@@ -105,7 +111,10 @@ khanates; the spread of Tibetan Buddhism at the Yuan court). It bequeathed a mod
 rule to later empires that paid it homage (Timurid, Mughal, Qing) and to those that
 denied the debt (Ming, Muscovy, the Ottomans). This Old-World integration, Biran
 argues, "contributed to the discovery of the New World and helped shape the early
-modern period." It also carried the [[black-death|Black Death]] west.
+modern period." It also carried the [[black-death|Black Death]] west. May gathers this
+whole bundle of transfers under the label of the **[[chinggis-exchange|Chinggis
+Exchange]]** — an explicit analogue to (and, he argues, precursor of) the
+[[columbian-exchange-1492|Columbian Exchange]].
 
 ## Significance and Historiography
 
@@ -133,8 +142,10 @@ across the sea.
 
 ## Related
 
-- [[genghis-khan]] — the founder.
+- [[genghis-khan]] — the founder; [[mongol-conquests-13th-century]] — the campaigns that built it.
 - [[pastoral-nomadism]] — the steppe military system the Mongols perfected.
+- [[pax-mongolica]] — the peace it imposed; [[chinggis-exchange]] — the continental exchange it enabled.
+- [[golden-horde]] · [[ilkhanate]] — the two successor khanates with dedicated pages.
 - [[afro-eurasian-world-system]], [[silk-roads]] — the exchange networks the Pax Mongolica integrated.
 - [[mongol-invasions-of-japan-1274-1281]] — the failed seaborne invasions (the limit of expansion).
 - [[timur]], [[ming-dynasty]] — the successor and reaction states (to be developed).

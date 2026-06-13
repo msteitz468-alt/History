@@ -8,8 +8,8 @@ region: [china, central-asia, steppe, iran-plateau, mesopotamia, mediterranean, 
 process_type: economic
 driven_by: ["[[trade-network-formation|exchange demand]]", "[[empire|imperial]] peace and infrastructure", "[[pastoral-nomadism|nomadic]] carriers and protectors", "elite demand for silk and prestige goods", "oasis city-states", "the Pax Mongolica"]
 produces: ["Afro-Eurasian integration", "the spread of [[buddhism|Buddhism]], Christianity, Manichaeism, [[islam|Islam]]", "transmission of technology and disease", "cosmopolitan oasis cities", "[[afro-eurasian-world-system|the medieval world system]]", "[[divergence-convergence|convergence]]"]
-sources_ingested: 3
-last_updated: 2026-06-10
+sources_ingested: 4
+last_updated: 2026-06-13
 tags: [process, silk-road, classical-antiquity, early-middle-ages, central-asia]
 ---
 
@@ -98,7 +98,7 @@ Middle Millennium the center of gravity of China's external trade **shifted from
 overland routes toward the sea** — as China's population moved south and its
 [[song-dynasty|Song]]- and Yuan-era ports (Quanzhou, Guangzhou, Hangzhou) turned
 toward the [[indian-ocean-trade|Indian Ocean]]. The overland routes then enjoyed a
-final great revival under the **Pax Mongolica** (mid-13th–14th c.), when the
+final great revival under the **[[pax-mongolica|Pax Mongolica]]** (mid-13th–14th c.), when the
 [[mongol-empire|Mongol]] conquests lowered transaction costs across the whole breadth
 of Eurasia, let a single silver stratum circulate from England to China, and enabled
 the integrated [[afro-eurasian-world-system|eight-circuit world system]] (Abu-Lughod)
@@ -106,6 +106,10 @@ in which the Silk Roads were one set of circuits among several. The same routes
 carried the [[black-death|Black Death]] west in the 1340s; with the Mongol order's
 fragmentation and the Ming retreat from the overland frontier, the land routes
 declined relative to the maritime ones on the eve of European oceanic expansion.
+[[may-mongol-conquests-2012|Timothy May]] treats this revival as the infrastructure of
+the **[[chinggis-exchange|Chinggis Exchange]]** — the Mongols reversing the old
+steppe–sedentary trade so that merchants came to them, and tying the routes together
+with the *yam* relay and *ortagh* merchant partnerships.
 
 ## Causal Drivers
 

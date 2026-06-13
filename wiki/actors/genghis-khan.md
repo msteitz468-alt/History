@@ -9,8 +9,8 @@ affiliated_with: [[[mongol-empire]], [[pastoral-nomadism]], "the Chinggisid line
 opposed_by: ["the Jurchen Jin", "the Tangut Xixia", "the Khwarazmian Empire", "rival Mongol and Turkic clans"]
 key_events: ["unification of the Mongol and Turkic tribes (1206)", "the invasion of the Khwarazmian Empire (1219–1221)", "campaigns against Jin and Xixia"]
 key_processes: [[[pastoral-nomadism]], [[state-formation]], [[afro-eurasian-world-system]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [actor, person, high-middle-ages, steppe]
 ---
 
@@ -46,6 +46,20 @@ khanates, and left its mark on the later history of the Inner Eurasian heartland
 - **Death (1227)** during the final Xixia campaign; succeeded by his son Ögödei, with
   the empire continuing to expand under his descendants.
 
+## Trade Policy and the Reversal of Steppe Commerce
+
+[[may-mongol-conquests-2012|Timothy May]] emphasizes a side of Chinggis Khan often lost
+behind the conqueror: he was an active **promoter of trade** who reversed the old terms
+of steppe–sedentary commerce. Where nomads had previously gone to border markets as the
+weaker party, the newly wealthy Mongols made merchants **come to them** and paid fair
+prices — Chinggis cultivated Muslim traders from early on (the Baljuna covenant), posted
+route guards (*qaraqchin*) at the 1206 *quriltai*, and personally financed an
+international caravan to the Khwarazmian Empire. Its **massacre at Otrar (1218)** —
+"at bottom a pocket book issue" (Allsen), since Chinggis and his princes had invested in
+it — triggered the annihilation of Khwarazm and the westward expansion. This commercial
+mindset is the seed of the [[pax-mongolica|Pax Mongolica]] and the
+[[chinggis-exchange|Chinggis Exchange]] that bear his name.
+
 ## Counterfactual Significance
 
 Chinggis Khan is a paradigmatic test case for **Great Man vs. structural causation**
@@ -61,7 +75,9 @@ as political reach.
 
 ## Related
 
-- [[mongol-empire]] — the empire he founded.
+- [[mongol-empire]] — the empire he founded; [[mongol-conquests-13th-century]] — its campaigns.
 - [[pastoral-nomadism]] — the steppe military and political system he reorganized.
+- [[pax-mongolica]] · [[chinggis-exchange]] — the peace and the exchange that carry his name.
 - [[timur]] — the later Central Asian conqueror who claimed Chinggisid legitimacy.
 - [[state-formation]] — the comparative analysis of his achievement (Arnason).
+- [[may-mongol-conquests-2012]] — Timothy May's world-historical synthesis.
