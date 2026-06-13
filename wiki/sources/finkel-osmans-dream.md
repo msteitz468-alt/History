@@ -18,8 +18,8 @@ reliability_notes: >
   reforms, and the empire's end. Ingested via the **Large-Volume Protocol** (~4,300 lines of
   narrative, 16 chapters → 2 cycles), with emphasis on the **post-1650 material that Imber does
   not cover**.
-pages_created: 0
-pages_updated: 0
+pages_created: 5
+pages_updated: 2
 ingested: 2026-06-13
 tags: [source]
 ---
@@ -52,7 +52,33 @@ complementary.
 | Cycle | Chapters | Theme | Key page operations |
 |---|---|---|---|
 | 1. From apogee to the great turning point (to c. 1700) ✅ | chs 1–11 (rise; the dynasty; imperial vision; Selim & Süleyman; the sedentary sultan; government by faction; the pashas & grandees; the empire unravels; the Köprülü era) | Early Modern, Age of Expansion | **Created** [[ottoman-decline-thesis]] (controversy — Finkel's revisionism vs. the "decline" paradigm) and [[siege-of-vienna-1683]] (the failed second siege & the Treaty of Karlowitz, 1699: the turn from expansion to retreat). **Enriched** [[ottoman-empire]] (the Köprülü revival → Vienna/Karlowitz turning point), [[janissaries]] (their praetorian power & the "Ottoman-style revolutions") |
-| 2. Reform, the Eastern Question, and the end (1700–1922) + synthesis | chs 12–16 + epilogue (the power of the provinces; the "New Order"; the crisis of identity; the Islamic empire; the storm before the calm; the end) | Age of Expansion, Long 19th Century, World Wars Era | **Create** [[tanzimat-reforms]] (the nineteenth-century "re-ordering"), [[eastern-question]] (the Great Powers and the empire's dismemberment), and [[fall-of-the-ottoman-empire-1922]] (event — Abdülhamid II, the Young Turks, WWI & the Armenian catastrophe, abolition → the Turkish Republic). **Enrich** [[ottoman-empire]]. Synthesis + Volume Synthesis Note. |
+| 2. Reform, the Eastern Question, and the end (1700–1922) + synthesis ✅ | chs 12–16 + epilogue (the power of the provinces; the "New Order"; the crisis of identity; the Islamic empire; the storm before the calm; the end) | Age of Expansion, Long 19th Century, World Wars Era | **Created** [[tanzimat-reforms]] (the New Order → Tanzimat "reordering"), [[eastern-question]] (the Great Powers & the empire's dismemberment), and [[fall-of-the-ottoman-empire-1922]] (Young Turks, WWI & the Armenian genocide, abolition → the Turkish Republic). **Enriched** [[ottoman-empire]] (the reform century & dissolution). Synthesis complete. |
 
 (Emphasis throughout is the **post-1650 narrative** that complements Imber; the 1300–1650 rise
 and apogee are deepened only where Finkel adds narrative color the structural account lacks.)
+
+## Volume Synthesis Note
+
+*Osman's Dream* gave the wiki the **narrative spine** that the structural
+[[imber-ottoman-empire-1300-1650|Imber]] could not: a continuous account carrying the Ottoman
+story from the apogee through the post-1650 transformation to the empire's end, and an explicit
+**anti-"decline" thesis** ([[ottoman-decline-thesis]]). It created five discrete-topic pages
+and deepened the [[ottoman-empire]] and [[janissaries]] spine.
+
+The post-1650 arc the ingest emphasized runs: the **[[ottoman-empire|Köprülü revival]]** and
+its end at the **[[siege-of-vienna-1683|second siege of Vienna (1683)]]** and the **Treaty of
+Karlowitz (1699)** — the turn from expansion to retreat; the long
+**[[eastern-question|Eastern Question]]** retreat before Austria and Russia, with the
+[[janissaries|Janissaries]] enforcing recurrent "Ottoman-style revolutions"; the century of
+**[[tanzimat-reforms|reform]]** (Selim III's New Order, Mahmud II's destruction of the
+Janissaries, the Tanzimat, the 1876 constitution); and finally the
+**[[fall-of-the-ottoman-empire-1922|dissolution]]** — Young Turks, the First World War, the
+Armenian genocide, and the abolition of the sultanate, ending in the Turkish Republic.
+
+Finkel's organizing claim, woven through every page created here, is that the **"rise–decline–
+fall" / "Sick Man of Europe" caricature distorts** the empire's history: its later centuries
+were as much an era of **transformation, reform, and resilience** as of retreat, and there are
+strong **continuities into the Turkish Republic** that the republic's founding myth denied.
+Together with [[imber-ottoman-empire-1300-1650|Imber]] (the structure of power to 1650), Finkel
+gives the wiki a **complete Ottoman backbone, c. 1300–1922** — the foundation of Phase C, to be
+deepened by Mikhail (Selim I), Kinross, and Rogan.

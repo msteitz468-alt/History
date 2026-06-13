@@ -149,9 +149,25 @@ Man" (see [[ottoman-decline-thesis]]): the empire remained resilient and adaptiv
 thereafter **diplomacy rather than conquest** increasingly governed its dealings with Europe —
 the world of the [[eastern-question]] and the [[tanzimat-reforms]].
 
+## Retreat, reform, and dissolution, 1700–1922 (Finkel)
+
+Through the eighteenth and nineteenth centuries the empire faced a long retreat before
+Habsburg Austria and Romanov Russia — the [[eastern-question|Eastern Question]] of European
+diplomacy — punctuated by efforts at **[[tanzimat-reforms|reform]]**: Selim III's "New Order,"
+Mahmud II's destruction of the [[janissaries]] (1826), and the **Tanzimat** "reordering"
+(1839–76) that built a centralized, codified, secularizing state and a first constitution
+(1876). The reforms could neither contain Balkan Christian nationalism nor escape European
+financial tutelage, and after Abdülhamid II's autocracy the **Young Turk revolution (1908)**
+opened the final phase. Entry into the [[first-world-war-1914|First World War]] on the German
+side led to defeat, the **Armenian genocide**, the loss of the Arab provinces, and — after the
+nationalist resistance under Mustafa Kemal — the **abolition of the sultanate (1922)** and the
+founding of the **Turkish Republic** (see [[fall-of-the-ottoman-empire-1922]]). Finkel stresses
+the **continuities** between empire and republic against the myth of a clean break.
+
 ## Related
 
 - [[finkel-osmans-dream]] — the narrative spine for the post-1650 story above.
+- [[tanzimat-reforms]] · [[eastern-question]] · [[fall-of-the-ottoman-empire-1922]] — the empire's last two centuries.
 - [[ottoman-decline-thesis]] — the debate over how to read the empire's later centuries.
 - [[imber-ottoman-empire-1300-1650]] — the structural study underpinning the 1512–1650 account above.
 - [[selim-i]] · [[suleiman-the-magnificent]] — the conquering and apogee sultans.

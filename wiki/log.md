@@ -2322,3 +2322,6 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 ingest | Colin Imber, The Ottoman Empire 1300–1650: The Structure of Power | Late Middle Ages, Early Modern | anatolia/balkans/near-east | Pages created: 6 | Pages updated: 1 | OPENS PHASE C (OTTOMAN)
 
 ## 2026-06-13 section | Finkel, Osman's Dream | Section: From apogee to the great turning point (chs 1–11) | Pages created: 2 | Pages updated: 2
+
+## 2026-06-13 section | Finkel, Osman's Dream | Section: Reform, the Eastern Question, and the end (chs 12–16 + epilogue) | Pages created: 3 | Pages updated: 1
+## 2026-06-13 ingest-complete | Caroline Finkel, Osman's Dream: The History of the Ottoman Empire | Total pages created: 5 | Total pages updated: 2 | Sections processed: 2

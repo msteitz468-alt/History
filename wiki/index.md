@@ -34,6 +34,8 @@ Last updated: 2026-06-12 (**Anthony Reid — *Southeast Asia in the Age of Comme
 
 Last updated: 2026-06-12 (**Michael D. Coe — *Angkor and the Khmer Civilization*** (Thames & Hudson, 2003) — INGEST COMPLETE (Large-Volume, 3 cycles + synthesis). The wiki's **first dedicated Southeast Asian source**, opening the long-flagged SE Asia gap (Gap 3). Created 5: **[[khmer-empire]]** (Angkor, 802–1431), **[[angkor]]** *(enriched existing)*, **[[jayavarman-vii]]**, **[[funan]]** (the pre-Angkorian Funan/Zhenla states), **[[devaraja]]** (the god-king cult), and the **[[southeast-asia]]** regional anchor. Enriched **[[indianization-of-southeast-asia]]** (the Khmer close-up: Oc Eo, the Zhenla temples), **[[angkor]]** (Coe's monuments — Angkor Wat, the Bayon, Zhou Daguan), **[[mahayana-buddhism]]** & **[[hinduism]]** (the Khmer state cults). Filed to `raw/3. Middle Ages/`. **Begins the Southeast Asia leg of Gap 3; the archipelago, Burma, Siam & Vietnam remain (Reid, Cambridge History of SE Asia next).**)
 
+Last updated: 2026-06-13 (**Caroline Finkel, *Osman's Dream: The History of the Ottoman Empire*** (2007) — INGEST COMPLETE (Large-Volume, 2 cycles + synthesis). The **narrative spine** for Phase C — carrying the Ottoman story past Imber's 1650 endpoint to the empire's end, with an explicit **anti-"decline" thesis**. Created 5: **[[ottoman-decline-thesis]]** (controversy — Finkel's revisionism vs. the "Sick Man"/"rise–decline–fall" paradigm), **[[siege-of-vienna-1683]]** (the failed second siege & the Treaty of Karlowitz 1699 — the turn from expansion to retreat), **[[tanzimat-reforms]]** (the New Order → Tanzimat "reordering" → 1876 constitution), **[[eastern-question]]** (the Great Powers & the empire's dismemberment), **[[fall-of-the-ottoman-empire-1922]]** (Young Turks, WWI & the Armenian genocide, abolition → the Turkish Republic). Enriched **[[ottoman-empire]]** (the Köprülü revival, the reform century, and dissolution) and **[[janissaries]]** (their praetorian power). Theme (Finkel): reject the caricature of an empire that simply "rose, declined, and fell" — its later centuries were as much **transformation, reform, and resilience** as retreat, with strong continuities into the Turkish Republic. With Imber + Finkel the wiki has a **complete Ottoman backbone c. 1300–1922**. Filed to `raw/4. Modern Times/`.)
+
 Last updated: 2026-06-13 (**Colin Imber, *The Ottoman Empire, 1300–1650: The Structure of Power*** (3rd ed., 2019) — INGEST COMPLETE (single-pass, structural). **Opens Phase C (Ottoman / post-1500 Islamic world)**, a critical gap. The foundational structural study: a chronology spine 1300–1650 + thematic chapters on the dynasty, recruitment, provinces, law, taxation, army, and fleet. Created 6: **[[selim-i]]** (conqueror of the Arab lands — Çaldıran 1514, the Mamluk conquest, the Holy Cities & Sunni primacy), **[[suleiman-the-magnificent]]** (the apogee — Mohács, Vienna, Baghdad; the Lawgiver), **[[devshirme]]** (the child-levy & slave household *kapıkulu*), **[[janissaries]]** (the slave-infantry corps & the "military revolution"), **[[timar-system]]** (the cavalry-fief land/tax order & its decline), **[[ottoman-law-kanun]]** (the dual *shari'a*/*kanun* legal order; the *askeri*/*reaya* divide). Enriched **[[ottoman-empire]]** (extended from the rise-to-1402 framing to the full 1300–1650 arc: the structure of power, the apogee, and the post-1590 "Times of Trouble" — military revolution, treasury crisis, Jelali revolts). Theme (Imber): a **dynastic, multinational, sultan-centered** empire held together by the person of the sultan, the slave household, the *timar* cavalry, and the *shari'a*/*kanun* order. Filed to `raw/3. Middle Ages/`.)
 
 Last updated: 2026-06-13 (**Early Modern Japan in Asia and the World, c. 1580–1877** (David L. Howell ed., *New* Cambridge History of Japan, Vol. II, 2023) — INGEST COMPLETE (Large-Volume, 3 cycles + synthesis). **Closes Phase B (Japan)** — a thematic complement reframing the early-modern era through current scholarship. Created 4: **[[kinsei-early-modernity]]** (Howell's genealogy — *kinsei* ≠ feudalism; the periodization debate), **[[japanese-environmental-history]]** (Walker — the Pacific ecological metabolism; the Meiji turn from conformity to control), **[[tokugawa-status-order]]** (*mibun* beyond the four classes; reciprocity — Ehlers), **[[ryukyu-kingdom]]** (the Ryukyu & Hokkaido/Ainu peripheries; graduated sovereignty — Howell). Enriched 8: **[[sakoku]]** (Hellyer's "four gates"), **[[edo-period]]**, **[[azuchi-momoyama-period]]**, **[[tokugawa-economy]]**, **[[tokugawa-intellectual-life]]** (Marcon/Frumer/Hsiung), **[[chonin-culture]]** (Nenzi/Gaubatz/Walthall), **[[meiji-modernization]]** (Ghadimi), **[[christianity-in-japan]]** (Teeuwen). Theme (Howell): treat Japanese early modernity **on its own terms and within Asian/global circuits**, not as a lagging echo of Europe. Filed to `raw/4. Modern Times/`. **Phase B (Japan) complete — prehistory→1973, the deepest non-Western national history in the collection.**)
@@ -492,14 +494,14 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 | Category | Pages |
 |---|---|
 | Periods | 33 |
-| Events | 235 |
-| Processes | 149 |
+| Events | 237 |
+| Processes | 150 |
 | Actors | 536 |
 | Places | 121 |
-| Concepts | 289 |
+| Concepts | 290 |
 | Comparisons | 1 |
-| Controversies | 51 |
+| Controversies | 52 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 139 |
-| **Total** | **1554** |
+| Sources | 140 |
+| **Total** | **1560** |
