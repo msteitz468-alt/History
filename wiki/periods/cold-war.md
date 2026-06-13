@@ -4,9 +4,9 @@ period_number: 23
 date_range: 1945–1991 CE
 regions_covered: [global, north-america, eastern-europe, western-europe, east-asia, south-asia, africa, latin-america, near-east]
 major_themes: [bipolar superpower rivalry, the Great Acceleration, decolonization, the demographic explosion, the Green Revolution, nuclear danger, multipolar industrialization, development]
-collection_coverage: moderate
-sources_ingested: 5
-last_updated: 2026-06-10
+collection_coverage: strong
+sources_ingested: 6
+last_updated: 2026-06-13
 tags: [period]
 ---
 
@@ -36,9 +36,12 @@ of the developing world.
 
 ## Major Developments
 
-- **The bipolar order and the nuclear age:** the US–Soviet rivalry, NATO and the
-  Warsaw Pact, the arms race, and proxy wars (Korea, Vietnam, Afghanistan,
-  Angola, and across Latin America, Africa, and Asia).
+- **The bipolar order and the nuclear age:** the US–Soviet rivalry, **[[containment]]**
+  (Kennan, the Truman Doctrine, NSC-68), the **[[marshall-plan-1948|Marshall Plan]]**,
+  **[[nato|NATO]]** and the Warsaw Pact, the **[[berlin-blockade-1948|Berlin crises]]**, the
+  **[[nuclear-arms-race|nuclear arms race]]** and MAD, and proxy wars — the
+  **[[korean-war-1950|Korean War]]**, Vietnam, Afghanistan, Angola, and across Latin America,
+  Africa, and Asia.
 - **The Great Acceleration (from c. 1950):** the steepest rise in energy use,
   population, urbanization, consumption, and environmental impact in human history
   — and, in reaction, the birth of modern popular **environmentalism** after c.
@@ -107,9 +110,14 @@ energy, environment, decolonization, public health). The **political-diplomatic 
 global narrative is now supplied** by **[[westad-cold-war|Westad's *The Cold War: A
 World History*]]** (the conflict as a worldwide contest over modernity, fought largely
 in the decolonizing Global South) and **[[judt-postwar|Judt's *Postwar*]]** (Europe
-since 1945). Discrete **event pages** for the Korean and Vietnam wars, the Cuban
-Missile Crisis, and 1989 are still to be written. CWH VII **Book 2 remains absent
-from the collection**, but its gap is now largely covered by Westad and Judt.
+since 1945). The **diplomatic-structural backbone is now being supplied directly** by the
+**[[leffler-westad-cold-war-v1|Cambridge History of the Cold War]]** (3 vols, Leffler &
+Westad, eds.) — Vol. I (Origins) ingested 2026-06-13, creating **[[containment]]**,
+**[[marshall-plan-1948]]**, **[[nato]]**, **[[berlin-blockade-1948]]**,
+**[[korean-war-1950]]**, and **[[nuclear-arms-race]]** (Vols II–III to follow, supplying the
+Cuban Missile Crisis, Vietnam, détente, Afghanistan, and 1989). CWH VII **Book 2 remains
+absent from the collection**, but its gap is now covered by Westad, Judt, and the Cambridge
+History of the Cold War.
 
 The **African theatre** of the Cold War is now supplied by the **[[gha-vol8-since-1935|UNESCO General
 History of Africa, Vol. VIII]]** (Section VII): the entanglement of African decolonization and

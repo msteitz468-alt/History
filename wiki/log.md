@@ -2366,3 +2366,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 ingest-complete | Peter Jackson, The Mongols and the West, 1221–1410 | Total pages created: 4 | Total pages updated: 4 | Sections processed: 4 | PHASE E (MONGOL–LATIN AXIS)
 
 ## 2026-06-13 ingest | The Cambridge History of Strategy, Vols I & II (Duyvesteyn & Heuser, eds., 2024) | all periods (antiquity–present) | transregional | Pages created: 4 | Pages updated: 1 | off-list raw/ file
+
+## 2026-06-13 section | Cambridge History of the Cold War | Vol. I: Origins (Leffler & Westad, eds., 2010) | Cold War | global | Pages created: 6 | Pages updated: 1
