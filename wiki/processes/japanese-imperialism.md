@@ -8,7 +8,7 @@ region: [japan, east-asia, korea, china, southeast-asia]
 process_type: [political, military, economic, ideological]
 driven_by: [the drive for great-power status & security, resource and market needs, emulation of Western empire, ultranationalism & the kokutai ideology]
 produces: [the colonial empire (Taiwan, Korea, Manchuria), the Greater East Asia Co-Prosperity Sphere, the Pacific War, the postwar independence of Asian colonies]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [process, long-19th-century, world-wars-era, japan, east-asia]
 ---
@@ -47,10 +47,27 @@ bellicose" than the government.
 - **The First World War & the 1920s.** As a nominal Allied power Japan seized Germany's
   Pacific islands and Shandong, pressed the **Twenty-One Demands** on China (1915), and
   intervened in Siberia.
-- **The descent to total war (1931–45).** The army's seizure of **Manchuria (1931,
-  Manchukuo)**; the **China War from 1937** (the **Rape of Nanking**); the proclamation of
-  the **New Order / Co-Prosperity Sphere**; the move into Indochina; and the
+- **The descent to total war (1931–45).** The army's seizure of **[[manchurian-incident-1931|Manchuria
+  (1931, Manchukuo)]]**; the **China War from 1937** (the **Rape of Nanking**); the
+  proclamation of the **New Order / Co-Prosperity Sphere**; the move into Indochina; and the
   [[pacific-war-1941-1945|Pacific War (1941–45)]].
+
+## The empire reconsidered (Cambridge History of Japan Vol. 6)
+
+The [[cambridge-history-japan-v6-twentieth-century|Cambridge History Vol. 6]] deepens the
+account on two fronts. **Mark Peattie** (ch. 5) anatomizes the **[[japanese-colonial-empire|formal
+colonial empire]]** (Taiwan, Korea, Karafuto, Kwantung, the Nan'yō) as a historical
+**anomaly** — the only non-Western modern empire, built by a nation that had itself barely
+escaped colonization and was still shedding its own [[opening-of-japan-1853-1858|unequal
+treaties]]. Driven first by **security** (a compact, contiguous, continent-directed empire)
+rather than by capital, it combined genuine colonial **development** with **exploitation** and
+an assimilationist ideology (*dōka*) belied by discrimination. **Ikuhiko Hata** (ch. 6) shows
+how the **informal** continental expansion escaped civilian control: the
+[[manchurian-incident-1931|Manchurian Incident (1931)]] was a *fait accompli* by field officers
+(*gekokujō*) that the cabinet could not reverse — confirming Iriye's earlier point (Vol. 5)
+that Japanese imperialism was driven by the **state and its military**, not chiefly by mature
+capitalism, and tying the empire's expansion directly to the
+[[japanese-militarism|collapse of party government]] at home.
 
 ## Iriye: imperialism as the behavior of a modern state (Cambridge History of Japan Vol. 5)
 
@@ -90,7 +107,8 @@ with the United States — the collision that produced the Pacific War.
 ## Related
 
 - [[meiji-period]] · [[meiji-restoration-1868]] — the modernization that empowered it.
-- [[first-sino-japanese-war-1894-1895]] — the war that inaugurated the empire.
+- [[japanese-colonial-empire]] — the formal empire (Taiwan, Korea, etc.); [[japanese-militarism]] — the home-front collapse that drove expansion.
+- [[first-sino-japanese-war-1894-1895]] · [[manchurian-incident-1931]] — the war that began the empire and the act that escalated it.
 - [[russo-japanese-war-1904]] — the breakthrough to great-power status.
 - [[pacific-war-1941-1945]] — its catastrophic climax.
 - [[imperialism]] · [[japan]] — the global process and the homeland.
