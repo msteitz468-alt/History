@@ -9,8 +9,8 @@ affiliated_with: [the Gulf Coast "Olmec Heartland" (Veracruz/Tabasco), interregi
 opposed_by: [[[unknown]]]
 key_events: [San Lorenzo apogee 1200–900 BCE, rise of La Venta c. 900–400 BCE, carving of the colossal heads]
 key_processes: [[[mesoamerican-state-formation]], [[trade-network-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [actor, archaic-period, mesoamerica]
 ---
 
@@ -50,3 +50,23 @@ parallel, mutually influencing developments across several Preclassic regions. C
 toward the latter — emphasizing **interregional trade and intercultural relations** as the
 engine of complexity — while granting the Olmec an undeniable, lasting imprint. The debate
 often turns on the spread of a shared **Olmec art style**. See [[mesoamerican-state-formation]].
+
+## Mann's account: San Lorenzo, La Venta, and the sister-culture case (1491)
+
+Charles Mann's [[mann-1491-2005|*1491*]] (Ch. 7) fills in the heartland story. The name itself is an
+accident — "Olmec" is Nahuatl for "people of the land of rubber" (they did work, and may have invented,
+**rubber**, chemically treating *Castilla elastica* latex), but the Mexica applied it to a *different*,
+later people; the archaeological culture should properly be the "La Venta culture," though the wrong name
+stuck. From c. 1800 BCE the Olmec built **San Lorenzo** — at ~2.7 sq mi, "the first large-scale
+settlement in North America," its ceremonial centre raised on a platform of nearly three million cubic
+yards of imported rock — adorned with the **colossal basalt heads** (portraits of dead kings, hauled
+ten-ton from mountains fifty miles off) and an art of fetuses, were-jaguars, and elite cranial
+deformation. San Lorenzo fell c. 1200 BCE (its heads smashed and ritually buried); **La Venta** (c.
+1150–400 BCE) succeeded it, its 103-foot fluted clay mound the centre of a city Mann calls "Buckingham
+Palace and the Vatican rolled into one." Mann **endorses the sister-culture view** (Flannery & Marcus):
+the Olmec were the *first* but not the *mother* of Mesoamerican civilization — one of four or five
+regional power centres (Olmec Gulf Coast, the Central Basin, Oaxaca, the Maya, and perhaps Chalcatzingo)
+locked in **"competitive interaction,"** trading goods and especially **ideas**. His analogy: China arose
+before its Asian neighbours but isn't called "Asia's mother culture," because they *built their own*
+distinct systems from a shared legacy — *inheriting* (as the Norte Chico's heirs did) differs from
+*copying*.

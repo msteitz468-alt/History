@@ -7,7 +7,7 @@ positions:
   - "Clovis-first: Clovis hunters (~13,500 BP) were the founding population, entering via the ice-free corridor"
   - "Pre-Clovis: a population (likely coastal) preceded Clovis by centuries to millennia; Clovis is a later in-continent development"
 resolution_status: partially-resolved
-last_updated: 2026-06-10
+last_updated: 2026-06-12
 tags: [controversy, periodization, "Behavioral Modernity", north-america, south-america]
 ---
 
@@ -80,4 +80,22 @@ See [[colonization-americas-14500bp]], [[clovis-culture]], and the structurally
 parallel [[australasian-colonization-timing]] (same early-vs-late, coastal-route
 shape, on the other end of the dispersal).
 
-*Source: Waguespack, CWH Vol. I, Ch. 19 — see [[christian-cwh-v1-2015]].*
+## Monte Verde and the fall of the consensus (Mann)
+
+Charles Mann's [[mann-1491-2005|*1491*]] (Ch. 5, "Pleistocene Wars") dramatizes the moment the
+Clovis-first orthodoxy broke. The decisive site was **Monte Verde**, a waterlogged riverbank in southern
+**Chile** excavated by **Tom Dillehay** and Mario Pino (1977–85): a preserved village of hide tents,
+firmly dated to **at least 12,800 years ago**, with more tentative hints of habitation **>32,000** years
+ago. Because Monte Verde lies **10,000 miles south of the Bering Strait** — far beyond where people could
+have walked in the few centuries the [[clovis-culture|Clovis]] model allowed, and probably *before* the
+"ice-free corridor" opened (whose very existence new research questioned) — it implied arrival thousands
+of years earlier, perhaps by a coastal/maritime route. The dispute was "forceful, even rancorous"
+("People refused to shake my hand at meetings," Dillehay told Mann; "it was like I was killing their
+children"). In **1997** a panel of prominent skeptics, **C. Vance Haynes** among them, visited the site
+and publicly conceded it: "Monte Verde is real... a whole new ball game." But Mann records the
+**continuing pushback** — **Stuart Fiedel** attacked Dillehay's final report as so poorly documented that
+the provenance (and thus the age) of the crucial undatable **stone tools** could not be verified, and
+Haynes himself then called for "further testing." The orthodoxy fell, but no firm new consensus on dates
+or routes replaced it.
+
+*Sources: Waguespack, CWH Vol. I, Ch. 19 — see [[christian-cwh-v1-2015]]; Mann, [[mann-1491-2005|*1491*]].*
