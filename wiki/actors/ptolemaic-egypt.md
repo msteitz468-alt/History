@@ -9,10 +9,15 @@ affiliated_with: [Macedon, the Greek and Macedonian settler class, the Egyptian 
 opposed_by: [[[seleucid-empire]], [[antigonid-dynasty]], native Egyptian revolts, [[rome|Rome]]]
 key_events: [[[wars-of-the-diadochi-323]], [[syrian-wars]], [[battle-of-raphia-217]]]
 key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]], [[ruler-cult]]]
-sources_ingested: 4
-last_updated: 2026-06-11
+sources_ingested: 5
+last_updated: 2026-06-12
 tags: [actor, dynasty, state, classical-antiquity, egypt]
 ---
+
+> **African-context note (GHA II).** The UNESCO [[gha-vol2-ancient-civilizations|General History of Africa,
+> Vol. II]] (ch. 6) reads Ptolemaic Egypt as an **African** as well as a Hellenistic power: its reach up the
+> Nile toward [[kush-meroe|Meroë]], the elephant-hunting and Red Sea trade routes down the African coast,
+> and the deep fusion of Greek and **Egyptian** religion and society. See [[peopling-of-ancient-egypt]].
 
 ## Overview
 

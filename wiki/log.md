@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-12 section | GHA Vol. II (Ancient Civilizations of Africa) | Section: Egypt under foreign rule (chs. 6–7) | Pages created: 0 | Pages updated: 2 | (roman-egypt, ptolemaic-egypt — African-context notes)
+
 ## 2026-06-12 section | GHA Vol. II (Ancient Civilizations of Africa) | Section: Egypt as an African civilization (chs. 1–5) | Pages created: 1 | Pages updated: 1 | (controversy: peopling-of-ancient-egypt; enriched old-kingdom-egypt)
 
 ## 2026-06-12 admin | Processing-List Phases 7 (ANE/Egypt depth) and 8 (Ancient China depth) skipped — every named volume absent from the collection. Proceeding to Phase 9 (Greece & Rome Depth).

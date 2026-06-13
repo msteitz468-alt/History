@@ -7,12 +7,19 @@ period_active: [Late Antiquity]
 controlled_by: [the Roman emperor, through an equestrian prefect; from 30 BCE]
 events_here: [the annexation of Egypt (30 BCE), the southern expeditions of Cornelius Gallus and Petronius, the proclamation of Vespasian by the prefect (69 CE)]
 processes_here: [the depoliticization and fiscal exploitation of Egypt, the grafting of Roman administration onto the Ptolemaic bureaucracy]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [place, egypt, north-africa, late-antiquity]
 ---
 
 # Roman Egypt
+
+> **African-context note (GHA II).** The UNESCO [[gha-vol2-ancient-civilizations|General History of Africa,
+> Vol. II]] (chs. 6–7) frames Greco-Roman Egypt within its **African** setting: the live southern frontier
+> with [[kush-meroe|Meroë]] (the expeditions of Cornelius Gallus and Petronius, then the Augustan
+> settlement; later the Blemmyes and Nobatae), the Red Sea and Nile trade reaching into the African
+> interior, and Egypt as a bridge between the Mediterranean and Black Africa — not merely an eastern Roman
+> province. See also [[peopling-of-ancient-egypt]].
 
 The richest province of the empire — annexed by [[augustus|Octavian]] in **30 BCE** and held as
 a uniquely controlled domain under an **equestrian prefect**, its vast grain and revenue
