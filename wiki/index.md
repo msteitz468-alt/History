@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-13 (**A History of Japan (Mason & Caiger, rev. ed. 1997)** — LARGE-VOLUME **INGEST COMPLETE** (4 cycles + synthesis). Opens & substantially fills the **Japan gap** (CLAUDE.md "narrative thin") — the standard single-volume spine, prehistory → 1945. Created 25 pages: the anchor **[[japan]]**; periods **[[nara-period]]**, **[[heian-period]]**, **[[kamakura-period]]**, **[[muromachi-period]]**, **[[azuchi-momoyama-period]]**, **[[edo-period]]**, **[[meiji-period]]**; events **[[taika-reform-645]]**, **[[mongol-invasions-of-japan-1274-1281]]**, **[[meiji-restoration-1868]]**, **[[russo-japanese-war-1904]]**, **[[pacific-war-1941-1945]]**; actors **[[shotoku-taishi]]**, **[[fujiwara-clan]]**, **[[minamoto-no-yoritomo]]**, **[[samurai]]**, **[[oda-nobunaga]]**, **[[toyotomi-hideyoshi]]**, **[[tokugawa-ieyasu]]**; concepts/processes **[[japanese-buddhism]]**, **[[shogunate-bakufu]]**, **[[zen-buddhism]]**, **[[sakoku]]**, **[[japanese-imperialism]]**. Enriched 9: **[[shinto]]**, **[[yamato-japan]]**, **[[early-agriculture-japan]]**, **[[tang-dynasty]]**, **[[mongol-empire]]**, **[[catholic-reformation]]**, **[[military-revolution]]**, **[[industrialization]]**. Thesis: island isolation → a distinctive civilization + conscious/selective/domesticated borrowing; the sacred throne sidelined-but-never-usurped beneath a pluralist delegated polity (Fujiwara → shoguns); the warrior age → the Tokugawa closed-country peace that seeded Meiji modernization, empire, and the 1945 catastrophe. Filed to `raw/4. Modern Times/`. **Phase B (Japan) spine COMPLETE; remaining depth = Sansom, The Tale of Genji, Cambridge History of Japan vols.**)
+
 Last updated: 2026-06-13 (**Open Veins of Latin America (Eduardo Galeano, 1971)** — INGEST COMPLETE (standard single-pass). The **dependency-theory counterpoint** closing Phase A's Latin America cluster, read deliberately **against** Burkholder & Johnson. A committed-standpoint *dependentista* polemic — the popular manifesto of the view that Latin America's poverty is the *product* of five centuries of extraction. Created **[[galeano-open-veins]]** (source), **[[dependency-theory]]** (Prebisch/ECLA → Frank/Cardoso; core-periphery & unequal exchange; its institutionalist & East-Asian critiques), and the controversy **[[causes-of-latin-american-underdevelopment]]** (dependency vs. institutionalist vs. measured vs. culturalist — registering the **[CONTRADICTION]** with Burkholder). Enriched **[[colonial-latin-america]]**, **[[potosi-and-colonial-silver]]** ("Spain owned the cow, others drank the milk"), **[[plantation-economy]]** ("King Sugar" monoculture-as-curse), **[[latin-america-modern]]**. **Phase A (Americas) — conquest + colonial + dependency arc now COMPLETE; optional remaining = Guamán Poma (Andean-voice primary).**)
 
 Last updated: 2026-06-13 (**Colonial Latin America (Burkholder & Johnson, 10th ed., 2019)** — LARGE-VOLUME **INGEST COMPLETE** (4 cycles + synthesis). The Americas gap's systematic **colonial backbone** (c. 1492–1825), bridging the pre-Columbian empires and modern Latin America. Created 13: the anchor **[[colonial-latin-america]]**; the conquest layer **[[spanish-conquest-of-peru-1532]]**, **[[pizarro-francisco]]**, **[[las-casas-bartolome]]**, **[[black-legend]]**; the state/economy layer **[[colonial-spanish-american-administration]]**, **[[encomienda]]**, **[[potosi-and-colonial-silver]]**, **[[spiritual-conquest-and-colonial-church]]**; the society layer **[[casta-system]]**, **[[hacienda]]**; and the reform/independence layer **[[bourbon-reforms]]**, **[[spanish-american-independence]]**. Enriched **[[inca-empire]]**, **[[columbian-exchange-1492]]**, **[[spanish-conquest-of-mexico-1519]]**, **[[mita-and-andean-reciprocity]]**, **[[global-silver-trade]]**, **[[virgin-soil-epidemics]]**, **[[atlantic-slave-trade]]**, **[[latin-america-modern]]**. Argument: the colonial order as **process not plan** — coercion & catastrophe, a race-and-wealth caste society, a silver-and-slavery economy, ending when Bourbon-reform Creole alienation met the 1808 crisis, with colonial structures surviving into the republics. Filed to `raw/4. Modern Times/`. **Phase A (Americas): conquest + colonial spine complete; remaining = Open Veins (Galeano).**)
@@ -465,21 +467,21 @@ creation order with a one-line description.
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **Galeano, *Open Veins of Latin America*** ingest
+Counts reflect actual files on disk as of the **Mason & Caiger, *A History of Japan*** ingest
 (recounted from disk — the prior table had drifted well below the true totals). Recent volumes'
 detailed new/updated pages are catalogued in their source pages and `log.md`.
 
 | Category | Pages |
 |---|---|
-| Periods | 25 |
-| Events | 226 |
-| Processes | 140 |
-| Actors | 523 |
-| Places | 119 |
-| Concepts | 268 |
+| Periods | 32 |
+| Events | 231 |
+| Processes | 141 |
+| Actors | 530 |
+| Places | 120 |
+| Concepts | 272 |
 | Comparisons | 1 |
 | Controversies | 50 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 129 |
-| **Total** | **1481** |
+| Sources | 130 |
+| **Total** | **1507** |

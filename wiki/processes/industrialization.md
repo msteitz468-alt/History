@@ -8,8 +8,8 @@ region: [global, western-europe, east-asia, north-america, south-asia]
 process_type: [economic, technological, environmental, demographic]
 driven_by: [[[fossil-fuel-energy-transition]], easing of local resource constraints, mechanization, [[industrious-revolution]], capital accumulation, state and military demand]
 produces: [[[great-acceleration]], [[anthropocene]], mass urbanization, [[great-divergence]] and its later partial reversal, the modern world economy]
-sources_ingested: 3
-last_updated: 2026-06-10
+sources_ingested: 4
+last_updated: 2026-06-13
 tags: [process, long-19th-century, cold-war, global]
 ---
 
@@ -108,3 +108,15 @@ The classic short account of the British case is now ingested as **[[ashton-indu
 *The Industrial Revolution 1760–1830*]]** (the "optimist" pole of the standard-of-living debate); its
 contemporary intellectual frame is **[[smith-wealth-of-nations|Adam Smith's *Wealth of Nations*]]** (1776)
 and **[[classical-political-economy|classical political economy]]**.
+
+**Japan — the first non-Western industrializer.** Mason & Caiger's
+[[mason-caiger-history-of-japan|history]] details the paradigm case of *catch-up*
+industrialization: the [[meiji-period|Meiji]] state (after 1868) deliberately built
+railways, telegraphs, model textile mills, mines, and shipyards, hired foreign experts and
+sent students abroad, then sold enterprises to private **zaibatsu** (Mitsui, Mitsubishi).
+It was **gradual** (only the foundations laid by 1900), **state-led but completed by private
+and village enterprise**, and crucially **built on Tokugawa foundations** — a commercial
+money economy, high literacy, manual skills, and the rural [[edo-period|landlord-entrepreneur]]
+— funded by the **land tax** drawn from the agricultural majority. Japan thus became the
+first society outside the West to industrialize, and the model later followed across East
+Asia.
