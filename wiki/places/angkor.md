@@ -7,8 +7,8 @@ period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages, High Mid
 controlled_by: [Funan, Chenla, Khmer Empire]
 events_here: []
 processes_here: [[[urbanization]]]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [place, southeast-asia, late-antiquity]
 ---
 
@@ -76,6 +76,25 @@ reclaiming it rather than a destroyed one, and the hinterland population may hav
 Scott, *The Art of Not Being Governed*). The fourteenth/fifteenth-century shift of
 Khmer power toward the maritime trade-oriented south (Phnom Penh) is also part of
 the story. See [[environmental-history-middle-millennium]].
+
+## The monuments and the hydraulic city (Coe)
+
+Michael D. Coe's [[coe-angkor-khmer-civilization-2018|*Angkor and the Khmer Civilization*]] (2003)
+fills in the monumental and dynastic detail. Recent **LiDAR** survey (Damian Evans) confirms Greater
+Angkor as a low-density urban sprawl of ~**1,000 km²**, organised around colossal **barays** (the
+East, West, and Jayatataka reservoirs) fed by the monsoon and the Tonle Sap — the hydraulic basis of
+its wet-rice economy. The supreme monument, **Angkor Wat**, was built by **Suryavarman II** (early
+12th c.) for **Vishnu**: a five-towered temple-mountain in concentric galleries and moat, **facing
+west** (which led Cœdès to read it as a royal **funerary temple**), its Third Gallery carrying the
+masterpiece bas-reliefs — the **Churning of the Sea of Milk**, the epics' battles, and the procession
+of Suryavarman II — plus ~1,900 *apsaras*; Eleanor Mannikka has argued (controversially) that its
+dimensions encode a **solar-cosmological** scheme. After the **Cham sack of 1177**,
+**[[jayavarman-vii|Jayavarman VII]]** rebuilt the capital as **Angkor Thom**, its state temple the
+**Bayon** crowned with serene **face-towers** of the bodhisattva **Avalokiteshvara** (likely the
+king's own face), and added Ta Prohm, the Elephant Terrace, and Neak Pean. The earlier jewel
+**Banteay Srei** and the eyewitness account of the Chinese envoy **Zhou Daguan** (1296–97) round out
+Coe's portrait of the living city. Angkor Wat, a working Buddhist temple since the 15th century, is
+today the **national symbol of Cambodia**.
 
 ## Why this place mattered
 

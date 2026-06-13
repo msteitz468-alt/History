@@ -16,8 +16,8 @@ reliability_notes: >
   Theravada/post-Angkor centuries. The single best concise anchor for the **Khmer/Angkor** corner of
   **Critical Gap 3 (Southeast Asia)** — the wiki's first dedicated treatment of a mainland SE Asian
   civilization.
-pages_created: 2
-pages_updated: 1
+pages_created: 4
+pages_updated: 3
 ingested: 2026-06-12
 tags: [source]
 ---

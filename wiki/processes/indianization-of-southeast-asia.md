@@ -40,7 +40,7 @@ is remembered for **introducing Indian culture to Cambodia** (Funan). Over the f
 this seeded a string of **Sanskritised courts** — adopting Indian kingship ideology (the *devaraja*),
 Sanskrit as a sacred/administrative language, Indian scripts, law (*dharmashastra*), and **Hindu and
 Buddhist** religion and temple architecture — culminating in **Srivijaya** (Sumatra), the Sailendras
-and Mataram (Java), and ultimately **[[angkor-khmer|Angkor]]** (Cambodia).
+and Mataram (Java), and ultimately the **[[khmer-empire|Khmer Empire of Angkor]]** (Cambodia).
 
 ## Character: adoption, not conquest
 
@@ -84,5 +84,5 @@ of Commerce* (all staged for Gap 3) are ingested.
 
 ## Related pages
 
-[[indian-ocean-trade]] · [[hinduism]] · [[buddhism]] · [[angkor-khmer]] · [[sangam-age-south-india]] ·
+[[indian-ocean-trade]] · [[hinduism]] · [[buddhism]] · [[khmer-empire]] · [[funan]] · [[sangam-age-south-india]] ·
 [[silk-roads]] · [[thapar-history-of-india-v1-1966]]

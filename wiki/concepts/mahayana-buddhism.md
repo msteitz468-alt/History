@@ -5,7 +5,7 @@ origin: emerged in India c. 1st c. BCE–1st c. CE as a movement within Buddhism
 applies_to_periods: [Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
 applies_to_regions: [south-asia, central-asia, east-asia, china, japan, korea]
 contested: yes
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -52,7 +52,13 @@ where translators such as **Kumarajiva** rendered its scriptures into Chinese, a
 and **Japan**. It generated the great East Asian schools — **Tiantai/Tendai** (centred on the Lotus
 Sutra), **Pure Land**, **Chan/Zen**, **Huayan**, and **Nichiren** — and, in its esoteric form,
 **Vajrayana** in Tibet. It interacted deeply with **[[daoism|Daoism]]** and **[[confucianism|Confucianism]]**
-to become a pillar of the East Asian cultural sphere.
+to become a pillar of the East Asian cultural sphere. It also spread south-east, via the
+[[indianization-of-southeast-asia|Indianization]] of mainland Southeast Asia, where it became (for a
+time) a **state religion**: most spectacularly under the [[khmer-empire|Khmer]] king
+**[[jayavarman-vii|Jayavarman VII]]** (late 12th c.), whose **Bayon** at Angkor Thom is crowned with
+the serene faces of the bodhisattva **Avalokiteshvara**, and who — as a Mahayanist — temporarily
+displaced the Hindu *devaraja* with a Buddhist kingship of welfare and public works (Coe). Mainland
+Southeast Asia later turned overwhelmingly to **Theravada**.
 
 ## Significance and Debate
 
