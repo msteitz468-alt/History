@@ -5,7 +5,7 @@ origin: the urban commoner (chōnin) culture of the Genroku era (c. 1680–1709)
 applies_to_periods: [Early Modern, Age of Expansion]
 applies_to_regions: [japan, east-asia]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [concept]
 ---
@@ -56,6 +56,18 @@ after Nobunaga, Hideyoshi, and Ieyasu broke its power. The old forms kept vitali
 so far as they were enlivened by contact with the commoners' activities." Even Edo's growth
 failed to inspire architecture (the gaudy Shōgunal **mausolea at Nikkō** the chief monument).
 
+## The economic base (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v4-early-modern|Cambridge History]] (Nakai & McClain) supplies
+the **material foundation** of this renaissance: the Genroku townsman world rested on the most
+explosive urbanization in the pre-industrial world. By 1700 **Edo** was the largest city on
+earth and 5–7% of Japanese lived in cities of over 100,000 (against ~2% in Europe); the
+[[tokugawa-economy|commercial revolution]] concentrated unprecedented merchant wealth (the
+**Mitsui** houses; the **Dōjima rice exchange**) in **Osaka** and Edo. Genroku culture is the
+cultural expression of that **chōnin** prosperity — and of the structural inversion whereby
+the low-status townsman commanded the money while the ruling [[samurai]] sank into debt. The
+broader townsman society is treated on [[chonin-culture]].
+
 ## Significance
 
 Genroku culture marks the **democratization of Japanese art** — the shift of cultural
@@ -68,6 +80,7 @@ a commoner class gaining it.
 ## Related
 
 - [[edo-period]] — the Tokugawa order and economy that produced it.
+- [[tokugawa-economy]] · [[chonin-culture]] — the commercial base and the townsman society.
 - [[tokugawa-intellectual-life]] — the era's parallel intellectual currents.
 - [[samurai]] — the class whose cultural primacy the chōnin displaced.
 - [[heian-court-culture]] · [[zen-buddhism]] — the earlier court and warrior aesthetics; [[japan]].

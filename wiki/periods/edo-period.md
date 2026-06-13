@@ -5,7 +5,7 @@ date_range: "1603–1868 CE"
 regions_covered: [japan, east-asia]
 major_themes: ["the Tokugawa peace (pax Tokugawa)", "the baku-han system", "sakoku (the closed country)", "the four-class order & the bureaucratization of the samurai", "monetization & the commercial revolution", "the rise of the merchants & chōnin urban culture", "the rural landlord-entrepreneur class"]
 collection_coverage: moderate
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -82,6 +82,23 @@ to the center of Japanese life: for the common people the *han* — not the dist
 emperor — was "the only form of government they knew," providing their roads, laws, order,
 and famine relief.
 
+## The economy and eighteenth-century reform politics (Cambridge History of Japan)
+
+The [[cambridge-history-japan-v4-early-modern|Cambridge History]] (Furushima, Nakai & McClain,
+Tsuji) shows the Edo peace generating a **commercial and agricultural revolution** that made
+Japan one of the most urbanized societies on earth (Edo the world's largest city by 1700;
+5–7% of Japanese in big cities vs. ~2% in Europe) — the full account is on
+[[tokugawa-economy]]. The paradox of the period is that this booming money economy enriched
+the low-status **merchants** while impoverishing the **samurai**, whose income was fixed in
+rice; bakufu and *han* **land-tax revenue could not keep pace**, producing a chronic fiscal
+strain. Tsuji Tatsuya reads the era's political history through the resulting **three great
+reforms** — Yoshimune's **Kyōhō** retrenchment (1716–45), **Tanuma Okitsugu's** mercantilist
+turn (reviled then, rehabilitated now), and Matsudaira Sadanobu's moralizing **Kansei**
+reaction (1787–93). His revisionist conclusion (with Hall): once the Confucian rhetoric is
+stripped away the leaders' **policy aims were much alike**, and the real development was the
+quiet **professionalization of the bakufu bureaucracy**, especially the Finance Office —
+administration by experienced officials rather than ideologues.
+
 ## Key Actors
 
 - The **Tokugawa shoguns** ([[tokugawa-ieyasu|Ieyasu]], Hidetada, Iemitsu, the reformer
@@ -122,6 +139,7 @@ and the World*.
 
 - [[tokugawa-ieyasu]] · [[shogunate-bakufu]] — founder and institution.
 - [[bakuhan-system]] · [[kokudaka-system]] — the political and land-assessment structures.
+- [[tokugawa-economy]] — the agricultural and commercial revolution and the fiscal crisis.
 - [[sakoku]] — the closed-country policy.
 - [[samurai]] — the ruling class, now bureaucratized.
 - [[azuchi-momoyama-period]] · [[meiji-restoration-1868|the Meiji Restoration]] — before and after.
