@@ -63,8 +63,13 @@ producing accounts "closer to historical fiction than true history" yet "highly 
 literature." His judgments are shaped by **Confucian** ethics and a loathing of **Legalism** and
 its harsh penal methods — a loathing surely deepened by his own ordeal in the palace prison.
 Crucially, his hostile portrait of the Qin is also an **indirect critique of his own master,
-Han Wudi**, who (Sima Qian saw) resembled the First Emperor in his expansionism, harsh laws,
-ruinous projects, and quest for immortality.
+[[han-wudi|Han Wudi]]**, who (Sima Qian saw) resembled the First Emperor in his expansionism,
+harsh laws, ruinous projects, and quest for immortality. His chapters on Wu's reign (in
+[[sima-qian-records-han-ii|*Records of the Grand Historian: Han Dynasty II*]]) sharpen the point
+through the **collective biographies** — the **"Biographies of the Harsh Officials"** (a quiet
+indictment of Legalist cruelty under Wu), the sympathetic **"Wandering Knights,"** and the
+appreciative **"Money-makers"** — a method of moral commentary by juxtaposed lives that became a
+model for Chinese historiography.
 
 ## Significance
 
@@ -76,6 +81,6 @@ and the **literary form, moral seriousness, and critical voice** of its historio
 
 ## Related
 
-- [[sima-qian-records-qin]] — his account of the Qin (the source of this page); [[qin-shi-huang]] — his great dramatic subject.
-- [[han-dynasty]] — the dynasty he served; Emperor Wu, the *Shi ji*'s implicit target.
+- [[sima-qian-records-qin]] · [[sima-qian-records-han-ii]] — his accounts of the Qin and the high Han (the sources of this page); [[qin-shi-huang]] — his great dramatic subject.
+- [[han-dynasty]] — the dynasty he served; [[han-wudi|Emperor Wu]], the *Shi ji*'s implicit target.
 - [[confucianism]] — the ethics of his judgments; [[han-feizi]] — the Legalism he condemned; [[china]] — the civilization whose history he founded.

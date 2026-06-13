@@ -9,7 +9,7 @@ affiliated_with: [Confucian-Legalist statecraft, local elites]
 opposed_by: [the [[xiongnu]], rival warlords, the Yellow Turban rebels]
 key_events: [Emperor Wu's Xiongnu wars 141-87 BCE, Zhang Qian's mission to the Yuezhi 139 BCE, opening of the [[silk-roads|Silk Roads]], conquest of northern Korea 109 BCE]
 key_processes: [[[empire]], [[silk-roads]], [[confucianism|Confucian state ideology]], [[east-asian-cultural-sphere]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-10
 tags: [actor, dynasty, classical-antiquity, late-antiquity, china, east-asia]
 ---
@@ -46,6 +46,15 @@ seek the **Yuezhi**) opened sustained contact with Central Asia; the resulting g
 oasis routes became the **[[silk-roads|Silk Roads]]**, exchanging Chinese silk for horses,
 jade, and western goods. The Han also conquered **northern Korea** (109 BCE), ruling it
 through commanderies (notably **Lelang**) for 400 years.
+
+The **primary source for Wu's reign** is now ingested as
+[[sima-qian-records-han-ii|Sima Qian's *Records of the Grand Historian: Han Dynasty II*]] (the
+*Shi ji*): the Account of the [[xiongnu|Xiongnu]] and the biographies of the cavalry generals
+[[han-wudi|Wei Qing and Huo Qubing]]; the Account of Dayuan (the [[silk-roads|Silk Road's]]
+opening); and the **"Treatise on the Balanced Standard"** documenting the
+**[[han-state-economy|salt-and-iron monopolies]]** that funded the wars. Its author
+[[sima-qian|Sima Qian]] — castrated by [[han-wudi|Emperor Wu]] — wrote the reign as an implicit
+**critique** of imperial overreach (the fuller picture is on [[han-wudi]]).
 
 ## Decline and the Birth of East Asia
 

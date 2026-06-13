@@ -16,8 +16,8 @@ reliability_notes: >
   cycles. It is the contemporary record of the reign — and, as the wiki's [[sima-qian]] page
   notes, an **implicit critique** of Wu's expansionism, harsh laws, ruinous projects, and quest
   for immortality, written by the man Wu had castrated.
-pages_created: 0
-pages_updated: 0
+pages_created: 2
+pages_updated: 4
 ingested: 2026-06-13
 tags: [source]
 ---
@@ -49,3 +49,37 @@ officials, the wandering knights, and the money-makers**.
 
 (A **primary source**, used to fill the central gap — Emperor Wu — and to deepen the Han spine
 and the Sima Qian / Chinese-historiography pages.)
+
+## Volume Synthesis Note
+
+Watson's *Han Dynasty II* is the *Shi ji* turned on **Sima Qian's own age** — the reign of
+[[han-wudi|Emperor Wu]], the man who had the historian castrated. Read whole, the volume is less
+a chronicle than a sustained, structurally encoded **argument about the costs of empire**, and
+that argument is the volume's chief contribution to the wiki. Its three registers — the
+treatises, the war biographies, and the collective lives — each carry the same indictment from a
+different angle.
+
+The **military narrative** (Wei Qing, Huo Qubing, Li Guang, the Account of the [[xiongnu|Xiongnu]],
+the Account of Dayuan) supplies the contemporary record behind the wiki's expansion pages: the
+cavalry revolution that pushed the Xiongnu back, the Zhang Qian missions that opened the
+[[silk-roads|Silk Roads]] and the "heavenly horses" of Ferghana, and the conquests of Yue and
+Chaoxian. But Sima Qian undercuts the triumph — the glittering favourite Huo Qubing against the
+loyal, unrewarded, suicide-driven Li Guang — making victory itself a study in caprice and waste.
+
+The **"Treatise on the Balanced Standard"** ([[han-state-economy]]) is the analytical core: it
+shows *how the wars were paid for* — the salt-and-iron monopolies, equable marketing, currency
+manipulation, and merchant taxes that made the Han state a direct economic actor. Set beside the
+war biographies it completes a causal chain the wiki can now trace end-to-end: **frontier
+ambition → fiscal crisis → state intervention in the economy → pressure on the agrarian order**.
+The companion "Money-makers" and "Harsh Officials" biographies turn that chain into moral
+commentary by juxtaposed lives — a technique that became a permanent feature of Chinese
+historiography (deepening [[sima-qian]]).
+
+Against the wiki's other China sources, this volume **anchors the high Han from the inside**.
+Where [[keay-china-a-history|Keay]] narrates the dynasty from the outside and the
+[[huainanzi-essential|Huainanzi]] gives the Huang-Lao thought-world *before* Wu's turn to state
+Confucianism, the *Shi ji* gives the reign's events and fiscal machinery in the words of a
+hostile eyewitness. No contradictions arose; rather, it converts several second-hand
+[[han-dynasty|Han]] claims into primary attestation and supplies the contemporary critique that
+makes Wu's reign legible as the moment the early-Han frugal state became the interventionist
+empire later dynasties argued over.
