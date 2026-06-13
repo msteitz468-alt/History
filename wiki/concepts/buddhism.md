@@ -5,8 +5,8 @@ origin: the teaching of the Buddha (Siddhartha Gautama) in northern India, c. 5t
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion]
 applies_to_regions: [south-asia, central-asia, east-asia, china, japan, korea, silk-road, southeast-asia]
 contested: no
-sources_ingested: 5
-last_updated: 2026-06-10
+sources_ingested: 6
+last_updated: 2026-06-12
 tags: [concept]
 ---
 
@@ -145,6 +145,18 @@ conquest but by merchants, monks, and monasteries along the Silk Roads, it becam
 genuinely trans-Eurasian faith, knitting India, Central Asia, and East Asia into a shared
 religious world. Its westward Silk Roads dominance only receded with the spread of
 **Islam** across Central Asia from the eighth century.
+
+## Theravada in mainland Southeast Asia (the age-of-commerce reform)
+
+Anthony Reid's [[reid-southeast-asia-age-of-commerce-v2-1993|*Age of Commerce*]] adds the early-modern
+**mainland** chapter. **Theravada Buddhism** (the "Doctrine of the Elders," the Pali canon) had been
+accepted by the major mainland states — Burma, Siam, Cambodia, Laos — before 1400, but as part of the
+[[islamization-of-southeast-asia|religious revolution]] of 1400–1650 the **sangha** (the monastic order)
+was **reformed into a unified body under royal control** and made a popular spiritual force that
+outweighed the local spirit cults. This is the same period in which the Theravada turn, being
+anti-monumental, helped end the temple-building [[khmer-empire|Angkorian]] state. Theravada thus became
+the mainland counterpart to the archipelago's turn to Islam — both scriptural, universalist orthodoxies
+spreading with the commercial age.
 
 ## Historiography
 

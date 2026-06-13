@@ -5,7 +5,7 @@ origin: Founded in early-7th-century Arabia (the preaching of Muhammad, d. 632);
 applies_to_periods: [Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion]
 applies_to_regions: [arabian-peninsula, near-east, levant, mesopotamia, iran-plateau, north-africa, central-asia, south-asia, southeast-asia, west-africa, east-africa, iberia, anatolia, china]
 contested: yes
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [concept]
 ---
@@ -114,6 +114,19 @@ whether the religion/civilization distinction holds for Christianity (Latin
 Christendom arguably became a civilization too — see [[christianity]]). The
 historicity of the earliest Islamic centuries is itself debated (the "skeptical
 school"; see the historiography note on [[early-middle-ages]]).
+
+## Islam in Southeast Asia
+
+Anthony Reid's [[reid-southeast-asia-age-of-commerce-v2-1993|*Age of Commerce*]] traces Islam's
+trade-borne spread through the **archipelago** — the [[islamization-of-southeast-asia|Islamization of
+Southeast Asia]]. After a long "quarantine" stage as a tolerated merchant minority (Pasai, c. 1297),
+Islam's great advance came 1400–1650, springing from Muslim [[melaka|Melaka]] along the spice routes; the
+militant anti-Portuguese sultanates of Aceh and Banten and the conversion of Mataram and Makassar carried
+it into the rural hinterlands. Spread by locally-married merchants and Sufi teachers rather than by
+conquest, it was culturally accommodating yet demanded clear markers — the renunciation of **pork** and
+**circumcision** — so that "becoming Muslim" fused with "becoming Malay" as a change of ethnic identity.
+Today the archipelago (Indonesia, Malaysia, the southern Philippines) is the demographic heartland of the
+Muslim world.
 
 ## Related
 
