@@ -8,7 +8,7 @@ region: [atlantic-world, west-africa, central-africa, caribbean, andes, eastern-
 process_type: demographic
 driven_by: [plantation demand for labor (especially sugar), American demographic collapse, pre-existing African slavery and slave markets, European armed maritime commerce]
 produces: [the largest forced migration in history, African diaspora cultures of the Americas, demographic distortion in Atlantic Africa, the plantation complex, creole languages and Atlantic religions]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [process, early-modern, atlantic-world, west-africa]
 ---
@@ -167,6 +167,19 @@ forced-labour system that built the American plantation complex and, in Inikori'
 It is paired with J. E. Harris's survey of the **African diaspora** in both the New World *and* the Old (the
 Indian Ocean and Mediterranean trades). These positions are weighed against the minimizing view on the
 controversy page **[[impact-of-atlantic-slave-trade-on-africa]]**.
+
+## GHA VI: abolition and "legitimate commerce"
+
+The **UNESCO [[gha-vol6-19th-century|General History of Africa, Vol. VI]]** (ch. 4, Daget) treats the
+nineteenth-century **abolition and suppression** of the Atlantic trade from the African side. Abolition was
+**protracted and uneven** — British abolition (1807) and the naval suppression patrols ran alongside a
+trade that, driven by Cuban and Brazilian sugar and coffee, **continued at near-peak volume into the 1860s**
+(more than 3 million more carried after 1807). Its end forced a wrenching **economic transition** in West
+Africa to "**legitimate commerce**" — palm oil, groundnuts, and other commodities — which reorganized
+coastal economies, empowered new merchant classes, and, paradoxically, often **expanded slavery *within*
+Africa** (to produce the new exports), a continuity GHA stresses and that fed directly into the
+[[impact-of-atlantic-slave-trade-on-africa|transformation debate]]. The economic dislocation of abolition
+was itself one of the pressures leading toward the European [[scramble-for-africa|Scramble]].
 
 ## Historiography
 
