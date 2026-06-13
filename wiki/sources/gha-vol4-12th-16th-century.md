@@ -12,8 +12,8 @@ reliability_notes: >
   Solomonic Ethiopia, the Swahili city-states, Great Zimbabwe/Mutapa and the first Central African kingdoms.
   Multi-author, peer-reviewed, authoritative for its date (1984), edited by the historian of the Sundiata
   epic D. T. Niane. The richest GHA volume for sub-Saharan state-level history; some archaeology now dated.
-pages_created: 0
-pages_updated: 0
+pages_created: 3
+pages_updated: 9
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -53,11 +53,37 @@ shaped by, the wider Afro-Eurasian world on the eve of the European maritime int
 
 ## Pages Created / Updated
 
-*To be completed as sections are processed (Protocol Step 2c–2e).*
+**Created (3):** [[hausa-city-states]] (the walled-city civilization of northern Nigeria);
+[[solomonic-ethiopia]] (Zagwe/Lalibela and the Solomonid restoration); [[kingdom-of-kongo]] (the great
+west-central African state and the early Atlantic encounter).
+
+**Updated (9):** [[almohads]] (Maghribi-civilization view); [[mali-empire]] (apogee & decline);
+[[songhay-empire]] (Sonni Ali, the Askias, Tondibi); [[kanem-bornu]] (the Bornu shift); [[christian-nubia]]
+(the Funj end); [[great-zimbabwe]] and [[swahili-coast]] (their medieval apogee); [[trans-saharan-trade]]
+and [[sub-saharan-africa]] (Africa in the medieval world economy).
 
 ## Volume Synthesis Note
 
-*To be written after all sections are processed (Protocol Step 3).*
+GHA Vol. IV is the **richest GHA volume for sub-Saharan political history**, and it transformed the wiki's
+[[sub-saharan-africa|Gap 2]] medieval coverage from sketch to substance. Across six section cycles it
+created **3 pages** and enriched **9**.
+
+**Its argument is that the twelfth-to-sixteenth centuries were Africa's medieval golden age** — a
+continent of **powerful, wealthy, literate states** fully woven into the Afro-Eurasian world economy. The
+volume lets the wiki finally hold, at proper depth, the **gold empires** ([[mali-empire|Mali]],
+[[songhay-empire|Songhay]]), the **city-state civilizations** ([[hausa-city-states|Hausa]],
+[[swahili-coast|Swahili]]), the **Christian kingdoms** ([[solomonic-ethiopia|Ethiopia]],
+[[christian-nubia|Nubia]]), the **southern gold states** ([[great-zimbabwe|Great Zimbabwe]]→Mutapa), and the
+**central African kingdoms** ([[kingdom-of-kongo|Kongo]]) — and, through Devisse's closing chapters, to see
+**West African gold as a pillar of the medieval Mediterranean economy** rather than a curiosity at its edge.
+
+**Cross-volume relationships.** Vol. IV carries forward everything GHA III began (Ghana→Mali; Kanem→Bornu;
+the Islamic and Christian frontiers) and hands off to Vol. V (the Atlantic-slave-trade era; Kongo's fate;
+the Moroccan conquest of Songhay). It coheres with the wiki's [[islam]], [[crusades]],
+[[atlantic-slave-trade]] and Cambridge-backbone pages, and its **Kongo** chapter ties directly into the
+already-ingested [[impact-of-atlantic-slave-trade-on-africa|slave-trade controversy]]. As a 1984 reference
+some archaeology is dated, but its framing — Africa's medieval states as sophisticated, connected, and
+indigenous — is now the standard, and is the through-line the wiki's [[sub-saharan-africa]] page now carries.
 
 ## Cross-links
 
