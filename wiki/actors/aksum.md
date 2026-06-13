@@ -9,8 +9,8 @@ affiliated_with: [Rome/Byzantium (ally and trading partner), the Indian Ocean tr
 opposed_by: [the [[kush-meroe|Kingdom of Kush]] (conquered c. 350 CE), Sasanian Persia, the early Caliphate]
 key_events: [rise to prominence late 1st c. BCE, establishment of Adulis as a treaty port, conquest of Kush c. 350 CE, conversion to Christianity (4th c.), control of Yemen (early 6th c.), collapse and relocation c. 700 CE]
 key_processes: [[[indian-ocean-trade]], [[trade-network-formation]], [[empire]], [[christianization]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-12
 tags: [actor, state, late-antiquity, horn-of-africa]
 ---
 
@@ -64,3 +64,22 @@ Aksum is reconstructed from **coinage, monumental archaeology, Ge'ez and Greek i
 and external (Roman, later Arabic) accounts. CWH IV places it within the late-antique "birth of
 Afro-Eurasia," when Christianity and then Islam reintegrated Africa into a Eurasian
 civilizational sphere.
+
+## Reader's environmental reading
+
+**[[reader-africa-biography|Reader]]** treats Aksum as the proof-case of **indigenous** African
+state-formation, stressing two arguments the wiki adopts (and flags as Reader's environmental thesis):
+
+- **Why here?** The northern **Ethiopian plateau** is ecologically unique in Africa — high enough (much of
+  Africa's land above 2,000 m is in Ethiopia) to escape malaria and the tsetse fly, well-watered, and home
+  to indigenous crops, above all **teff**, a cereal uniquely adapted to ripen its grain even when the rains
+  fail. South Arabian contributions (the plough, terracing, the script that became **Ge'ez**) were
+  **grafted onto an indigenous rootstock by choice, not conquest** — Aksum was "basically African, with a
+  touch of foreign influence," not a foreign outpost.
+- **Why it fell.** A centuries-long **wetter climatic phase** (a northward-extended monsoon giving two
+  rainy seasons) underwrote Aksum's boom and its "mania for the gigantic" (the 700-tonne stelae). But
+  deforestation for iron-smelting and building, soil erosion, and then a **reversion to a single dry season
+  after c. 750 CE** — compounded by the Arab destruction of Adulis and the loss of Red Sea trade — caused
+  **environmental collapse and demographic decline**. By c. 800 CE Aksum had nearly ceased to exist, its
+  elite migrating south to seed the later medieval Ethiopian state. The same ecology that raised Aksum
+  destroyed it.

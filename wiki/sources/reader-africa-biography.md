@@ -14,8 +14,8 @@ reliability_notes: >
   colonialism), lighter and now somewhat dated on the internal political detail of individual states (for
   which the UNESCO General History of Africa volumes are the reference). Its environmental framing is a
   argument to be noted, not a neutral baseline. The wiki uses it as the continent-wide spine for Gap 2.
-pages_created: 0
-pages_updated: 0
+pages_created: 2
+pages_updated: 4
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -52,7 +52,17 @@ state-level pages this spine creates.
 
 ## Pages Created / Updated
 
-*To be completed as sections are processed (Protocol Step 2c–2e).*
+**Section 4 — African Civilizations (chs. 20–30), processed 2026-06-12 (in progress):**
+- **Created:** [[sub-saharan-africa]] (the regional anchor + Reader's environmental thesis);
+  *(jenne-jeno already existed — enriched.)*
+- **Updated:** [[jenne-jeno]] (the ecological reading of non-coercive urbanism); [[aksum]] (indigenous
+  state-formation; the wet-phase boom and environmental collapse); [[kush-meroe]] (Meroitic iron and its
+  environmental collapse; refutation of the "Nile corridor" diffusionism).
+- *Still to process in Section 4:* Great Zimbabwe / southern-African gold (chs. 23, 30), the
+  trans-Saharan gold trade and "Merrie Africa" (chs. 26, 28), African disease ecology (ch. 24).
+
+*Sections 1–3 (deep prehistory, human origins, food production/iron) and Sections 5–8 (foreign influences,
+settlers, the Scramble, decolonization) still to process.*
 
 ## Volume Synthesis Note
 

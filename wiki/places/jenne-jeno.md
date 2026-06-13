@@ -7,8 +7,8 @@ period_active: [Late Antiquity, Early Middle Ages, High Middle Ages]
 controlled_by: [self-governing corporate groups; later Mali sphere]
 events_here: [founding as a village c. 200 BCE, growth into a 33-hectare walled city by the late 1st millennium CE]
 processes_here: [[[urbanization]], [[agriculture-and-urbanism]], [[trans-saharan-trade]]]
-sources_ingested: 3
-last_updated: 2026-06-10
+sources_ingested: 4
+last_updated: 2026-06-12
 tags: [place, west-africa, sub-saharan-africa, late-antiquity]
 ---
 
@@ -67,8 +67,21 @@ it the hub of a regional trade network across the Niger basin. Heir to the proto
 **[[ghana-empire|Ghana]]** built its wealth, and a southern terminus of the
 [[trans-saharan-trade|trans-Saharan trade]].
 
+## The ecological reading (Reader)
+
+**[[reader-africa-biography|Reader]]** grounds the heterarchy in the **ecology of the inland Niger delta**
+— a Belgium-sized floodplain of extreme, unpredictable annual flooding. Survival demanded deep
+**specialization** (rice-farmers, herders, fishermen, each with secret local knowledge), yet specialization
+in an unpredictable environment is fatally fragile unless risk is spread across groups. The paradox —
+specialization *vs.* diversification — was resolved socially: distinct ethnic/occupational communities
+(Marka, Bambara, Fulani, Bozo) lived intermixed, bound by shared myths and reciprocal obligation into one
+economy with **no group ruling the others**. Reader stresses how the site **"unshackled West African
+history from the Arab-stimulus paradigm"**: urbanism here was indigenous and a **millennium older** than
+the trans-Saharan Muslim trade once credited with creating it (see [[sub-saharan-africa]]).
+
 ## Related
 
+- Source: [[reader-africa-biography|Reader, *Africa: A Biography*]] · [[sub-saharan-africa]]
 - Concept: [[heterarchy]] · [[urbanism]] · [[city-state]]
 - Places: [[teotihuacan|Teotihuacan]] (anonymous rule) · [[uruk|Uruk]] (contrast)
 - Process: [[agriculture-and-urbanism]] · [[urbanization]] · [[trans-saharan-trade]]

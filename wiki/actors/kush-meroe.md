@@ -9,8 +9,8 @@ affiliated_with: [the cult of Amun at Napata/Thebes, later the god Apedemak; the
 opposed_by: [the Assyrians, the 26th-dynasty Egyptians, Roman Egypt, the rising [[aksum|Aksum]]]
 key_events: [transformation of a Nubian chieftaincy into a kingdom (9th c. BCE), the 25th "Kushite" dynasty conquest of Egypt (c. 728 BCE), Assyrian expulsion from Egypt (664 BCE), shift of capital to Meroe (after c. 300 BCE), fall to Aksum (c. 350 CE)]
 key_processes: [[[trade-network-formation]], [[empire]], [[indian-ocean-trade]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [actor, state, classical-antiquity, north-africa, sub-saharan-africa]
 ---
 
@@ -112,7 +112,20 @@ For the 25th-dynasty period, CAH III.2 (James) works mainly from Piye's stela, t
 stelae of Taharqa, the Shabako Stone, and the Assyrian records — a far richer base than for
 the Napatan homeland itself, which remains archaeologically thin.
 
+## Reader: Meroë's iron and its environmental collapse
+
+**[[reader-africa-biography|Reader]]** highlights Meröe as a major **iron-producing** centre — its huge
+**slag mounds** testify to an industry that armed the state (weapons far outnumber tools in the finds) —
+and argues that this very industry drove its **environmental collapse** in the 2nd century CE: trees were
+felled for smelting-charcoal faster than they regrew, bringing deforestation, erosion and the loss of the
+agricultural base. Reader also uses Kush/Meroë to **refute the diffusionist "Nile corridor" thesis** (that
+civilization flowed *up* the Nile into Black Africa): not one Meroitic artefact has been found west of the
+Nile, and West/Central African ironworking is **older** than Meroë's — so Meroë cannot have been the source
+of sub-Saharan iron. For Africa as a whole, he writes, "the Nile was a cul-de-sac," its relationship to the
+interior "that of the pillager and the pillaged."
+
 ## Related
 
+- Source: [[reader-africa-biography|Reader, *Africa: A Biography*]] · [[sub-saharan-africa]]
 - Egypt successor: [[saite-egypt]] · Adversary: [[neo-assyrian-empire]] ([[esarhaddon]], [[ashurbanipal]]) · Event: [[sack-of-thebes-663bce]]
 - Rival for Asia: [[sennacherib-siege-jerusalem-701bce]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 35) · [[benjamin-cwh-v4-2015|CWH IV]]
