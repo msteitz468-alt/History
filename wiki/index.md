@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-12 (**Charles C. Mann — *1491: New Revelations of the Americas Before Columbus*** (2005) — INGEST COMPLETE (Large-Volume, 5 cycles + synthesis). **Opens the Americas gap** (CLAUDE.md "Weak — archaeology only; narrative absent") with the revisionist ("High Counter") synthesis, organised around overturning **[[holmbergs-mistake]]** (the myth of the timeless Indian). Created 9: **[[pre-columbian-americas]]** (the overview anchor), **[[holmbergs-mistake]]**, **[[virgin-soil-epidemics]]** (the Great Dying), **[[norte-chico]]** (the Americas' oldest cities, contemporary with Sumer), **[[maize-domestication]]** (teosinte→maize), **[[maya-civilization]]**, **[[terra-preta]]** (the built Amazon), **[[pristine-myth]]** (the managed-landscape thesis), and **[[haudenosaunee-confederacy]]** (the Great Law of Peace). Enriched 6 — the standing controversies **[[pre-columbian-american-population]]** (Dobyns/Henige) and **[[clovis-first-vs-pre-clovis]]** (Monte Verde 1997), plus **[[columbian-exchange-1492]]**, **[[inca-empire]]** (smallpox before Pizarro), **[[olmec]]** (sister-culture case), **[[north-american-mound-building]]**. Three revisions: more populous, earlier, more environmentally engineered — the "wilderness" as post-catastrophe regrowth. Meggers/Henige/Vale counter-critiques flagged throughout. Filed to `raw/2. Ancient & Classical Civilizations/`. **Next in the Americas cluster: Berdan (Aztecs), D'Altroy (Inca), the primaries (Popol Vuh, Broken Spears, Bernal Díaz, Guamán Poma), and colonial Latin America.**)
+
 Last updated: 2026-06-12 (**Cambridge History of Southeast Asia, Vol. 1** (Tarling ed., 1992) — TARGETED INGEST COMPLETE (Chs 3–5; 2 cycles + synthesis). A focused pass to fill the **discrete-polity gaps** for Gap 3 (the prehistory chapter and the c. 1500–1800 Part Two were skipped as redundant with the Reid volumes). Created 7: the six classical polities — **[[srivijaya]]** (the Palembang maritime thalassocracy), **[[majapahit]]** (the Hindu-Buddhist Javanese empire), **[[champa]]** (the Austronesian coastal enclaves), **[[pagan-kingdom]]** (the first unifier of the Irrawaddy), **[[ayutthaya]]** (the Tai trading kingdom), **[[dai-viet]]** (sinicized early Vietnam) — plus **[[mandala]]** (the galactic-polity model of the SE Asian state: power as status not territory; Wolters/Wheatley/Geertz). Enriched **[[southeast-asia]]** (a "classical polities" typology — agrarian temple-states vs maritime entrepôts) and **[[indianization-of-southeast-asia]]** (Hall's temple-economy & mandala statecraft; localisation not conquest). Filed to `raw/3. Middle Ages/`. **With this, Critical Gap 3 (South & Southeast Asia) is substantially closed** — India prehistory→1947, SE Asia's classical polities + commercial age + frameworks all in place.)
 
 Last updated: 2026-06-12 (**Anthony Reid — *Southeast Asia in the Age of Commerce, 1450–1680*, Volume Two: *Expansion and Crisis*** (Yale, 1993) — INGEST COMPLETE (Large-Volume, 5 cycles + synthesis). The **economic-political narrative** completing the [[southeast-asian-age-of-commerce|age of commerce]] for **Gap 3 (SE Asia)** — boom → cities → religious revolution → absolutism → crisis. Created 5: **[[southeast-asian-port-polity]]** (the cosmopolitan entrepôt; cities bigger in 1600 than 1850; the van Leur/Meilink-Roelofsz capitalism debate), **[[melaka]]** (the paradigmatic entrepôt; Parameswara→1511), **[[islamization-of-southeast-asia]]** (the connected "religious revolution"), **[[southeast-asian-absolutism]]** (gunpowder kingship & its conciliar rivals), and **[[seventeenth-century-general-crisis]]** (SE Asia in the global crisis debate). Enriched 6 — **[[southeast-asian-age-of-commerce]]** (economic boom + crisis + "origins of poverty"), **[[indian-ocean-trade]]**, **[[buddhism]]** (Theravada sangha reform), **[[islam]]** (the archipelago), **[[military-revolution]]** (the SE Asian test case), **[[dutch-east-india-company]]** ("winner of the crisis"). Lieberman's mainland critique flagged throughout. Filed to `raw/3. Middle Ages/`. **Both Reid volumes done → strong maritime/archipelago spine; Cambridge History of SE Asia next for Srivijaya, Majapahit, Champa, Burma, Siam, Vietnam.**)
@@ -456,13 +458,13 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 |---|---|
 | Periods | 25 |
 | Events | 192 |
-| Processes | 114 |
-| Actors | 428 |
-| Places | 109 |
-| Concepts | 229 |
+| Processes | 116 |
+| Actors | 430 |
+| Places | 110 |
+| Concepts | 233 |
 | Comparisons | 0 |
 | Controversies | 44 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 38 |
-| **Total** | **1178** |
+| Sources | 39 |
+| **Total** | **1188** |
