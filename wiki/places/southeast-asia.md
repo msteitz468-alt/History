@@ -4,10 +4,10 @@ place_type: region
 modern_equivalent: [Myanmar, Thailand, Cambodia, Laos, Vietnam, Malaysia, Singapore, Indonesia, Philippines, Brunei, Timor-Leste]
 coordinates: ~10°N 105°E (mainland) / equatorial archipelago
 period_active: [Neolithic, Bronze Age, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
-controlled_by: ["[[funan]] & Zhenla", "the [[khmer-empire|Khmer Empire]]", "Srivijaya & Majapahit", "Pagan/Ava (Burma)", "Ayutthaya (Siam)", "Dai Viet", "European colonial powers"]
+controlled_by: ["[[funan]] & Zhenla", "the [[khmer-empire|Khmer Empire]]", "[[srivijaya]] & [[majapahit]]", "[[pagan-kingdom|Pagan]]/Ava (Burma)", "[[ayutthaya]] (Siam)", "[[dai-viet|Dai Viet]]", "[[champa]]", "European colonial powers"]
 events_here: []
-processes_here: ["[[indianization-of-southeast-asia]]", "[[indian-ocean-trade]]", "[[southeast-asian-age-of-commerce]]", "[[state-formation]]", "[[islamization-of-africa|the spread of Islam (archipelago)]]"]
-sources_ingested: 2
+processes_here: ["[[indianization-of-southeast-asia]]", "[[indian-ocean-trade]]", "[[southeast-asian-age-of-commerce]]", "[[islamization-of-southeast-asia]]", "[[state-formation]]"]
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [place, southeast-asia]
 ---
@@ -98,11 +98,26 @@ bronze ritual objects circulated as marks of status across the islands.
 From the early centuries CE, mainland and island elites selectively adopted **Indian** religion
 (Hinduism, then Mahayana and Theravada Buddhism), Sanskrit, script, law, and the *devaraja* kingship —
 the **[[indianization-of-southeast-asia|Indianization]]** that produced [[funan|Funan]], the
-[[khmer-empire|Khmer Empire]], **Srivijaya** (Sumatra), the Sailendras and **Majapahit** (Java), and
-**Pagan** (Burma). From c. 1300 two further waves reshaped the region: **Theravada Buddhism** on the
-mainland (Burma, Siam, Cambodia, Laos) and **Islam** in the archipelago (carried by Indian-Ocean
-Muslim traders), followed by **European** intrusion (Portuguese, Dutch, Spanish, French, British) and
-the colonial and Cold-War twentieth century.
+[[khmer-empire|Khmer Empire]], [[srivijaya|Srivijaya]] (Sumatra), the [[sailendra|Sailendras]] and
+[[majapahit|Majapahit]] (Java), and [[pagan-kingdom|Pagan]] (Burma). From c. 1300 two further waves
+reshaped the region: **Theravada Buddhism** on the mainland (Burma, Siam, Cambodia, Laos) and **Islam**
+in the archipelago (carried by Indian-Ocean Muslim traders), followed by **European** intrusion
+(Portuguese, Dutch, Spanish, French, British) and the colonial and Cold-War twentieth century.
+
+## The classical polities (now mapped)
+
+The [[tarling-cambridge-history-southeast-asia-v1-1992|Cambridge History of Southeast Asia]] (Keith
+Taylor) supplies the wiki's dedicated pages for the early kingdoms, which fall into a clear pattern.
+**Inland agrarian temple-states** mobilised the great rice plains and dominated their coasts —
+[[khmer-empire|Angkor]] (the Mekong/Tonle Sap) and [[pagan-kingdom|Pagan]] (the Irrawaddy/Kyaukse) — both
+monumental, both ended as the **Tai** peoples descended in the thirteenth century after the Mongol
+shock. **Maritime entrepôt powers** lived off the Straits trade — [[srivijaya|Srivijaya]] (the Palembang
+thalassocracy, succeeded by [[melaka|Melaka]]) and the coastal-Austronesian [[champa|Champa]]. The
+**Tai successor**, [[ayutthaya|Ayutthaya]] (founded 1351, it sacked Angkor in 1431), fused Angkorian
+administration, Tai manpower, and Chinese commerce. In Java the agrarian-maritime [[majapahit|Majapahit]]
+empire (1293–c. 1527) was the Hindu-Buddhist apogee before the Muslim turn. And on the China frontier,
+[[dai-viet|Dai Viet]] — the **sinicized** exception, shaped by a millennium inside the Chinese empire
+rather than by Indianization.
 
 ## Festivals, play, and the theatre state (Reid)
 

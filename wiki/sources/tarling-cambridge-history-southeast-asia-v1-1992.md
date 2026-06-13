@@ -18,8 +18,8 @@ reliability_notes: >
   peer-reviewed; this targeted pass gives the wiki its first dedicated pages for **Srivijaya, Majapahit,
   Champa, Pagan, Ayutthaya, and early Vietnam (Dai Viet)** — the polities the thematic Reid pages and the
   Coe Khmer anchor had left as forward-links.
-pages_created: 0
-pages_updated: 0
+pages_created: 6
+pages_updated: 1
 ingested: 2026-06-12
 tags: [source]
 ---
