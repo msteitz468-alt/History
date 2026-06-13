@@ -8,7 +8,7 @@ region: [steppe, central-asia, china, east-asia, iran-plateau, near-east, easter
 process_type: [economic, political]
 driven_by: [[[mongol-empire]], [[genghis-khan]], [[pastoral-nomadism]]]
 produces: [[[chinggis-exchange]], [[silk-roads]], [[black-death]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [process, high-middle-ages, late-middle-ages, silk-road]
 ---
@@ -83,11 +83,21 @@ of the Ilkhanate (1335) and the Yuan (1368), and Timur's later devastation of th
 Jochid cities, ended the integrated system — though the routes and the appetite for
 their goods outlived it, feeding into the early-modern world.
 
+## A note of caution
+
+The term itself invites overstatement. [[morgan-the-mongols|David Morgan]] quotes Herbert
+Franke's deflation — "the *Pax Mongolica* is no more than one of those brilliant
+simplifications that can serve as chapter titles for world history books" — and notes the
+concept is modelled on the *Pax Romana*. The peace was real but **partial and intermittent**:
+punctuated by the khanates' civil wars, never extending security uniformly, and resting as
+much on the threat of Mongol violence as on settled order. The wiki uses the term for the
+genuine connectivity the empire created while keeping Morgan's caution against romanticizing
+it.
+
 ## Related
 
 - [[chinggis-exchange]] — what the peace made possible; [[silk-roads]] — the routes it
   secured and extended.
 - [[mongol-empire]] · [[genghis-khan]] — the political order behind it.
 - [[golden-horde]] · [[ilkhanate]] — successor states that sustained it across their wars.
-- [[black-death]] — the cargo that ended it; [[may-mongol-conquests-2012]] — the source.
-</content>
+- [[black-death]] — the cargo that ended it; [[may-mongol-conquests-2012]] · [[morgan-the-mongols]] — the sources.

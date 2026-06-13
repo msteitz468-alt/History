@@ -98,4 +98,3 @@ of the most sophisticated statements of statecraft in the ancient world.
 - [[raja-mandala]] — the foreign-policy theory built on the *saptanga* state.
 - [[mauryan-empire]] · [[chandragupta-maurya]] — the state it idealizes; [[ashoka]] — the *dhamma* counterpoint.
 - [[caste-varna]] — the social order it upholds; [[pataliputra]] — the Mauryan capital.
-</content>

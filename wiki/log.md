@@ -2353,3 +2353,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 ingest | Timothy May, The Mongol Conquests in World History | High Middle Ages, Late Middle Ages | steppe/central-asia/china/iran-plateau/eastern-europe/silk-road | Pages created: 5 | Pages updated: 4 | OPENS PHASE E (MONGOLS + INDIA)
 
 ## 2026-06-13 ingest | Kautilya, The Arthashastra | Classical Antiquity | south-asia | Pages created: 3 | Pages updated: 4 | PHASE E (INDIA DEPTH)
+
+## 2026-06-13 ingest | David Morgan, The Mongols (1986) | High Middle Ages, Late Middle Ages | steppe/central-asia/iran-plateau/eastern-europe | Pages created: 3 | Pages updated: 4 | PHASE E (MONGOL DEPTH)

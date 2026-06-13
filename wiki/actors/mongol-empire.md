@@ -9,7 +9,7 @@ affiliated_with: [[[pastoral-nomadism]], "the Chinggisid line", "the Yuan, Ilkha
 opposed_by: [[[song-dynasty|Southern Song]], [[abbasid-caliphate|Abbasid Caliphate]], "the Mamluks", "Japan", "the Delhi Sultanate"]
 key_events: ["the conquest of the Jin and Xixia", "the sack of Baghdad (1258)", "the conquest of Song China (1279)", "the division into four khanates"]
 key_processes: [[[afro-eurasian-world-system]], [[pastoral-nomadism]], [[silk-roads]], [[state-formation]]]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-13
 tags: [actor, empire, high-middle-ages, late-middle-ages, steppe, central-asia]
 ---
@@ -126,9 +126,18 @@ notes: whether the empire fell from "overstretch" (Biran thinks its power-maximi
 strategies could have sustained further growth — fragmentation came from intra-dynastic
 struggle and civilizational tensions, not exhaustion) and whether the Mongols imposed
 a universal law code (*yasa*) — now doubted in favour of "context-dependent
-modifications of existing legal traditions." The "largest contiguous empire in
+modifications of existing legal traditions" (see the controversy **[[the-mongol-yasa]]**,
+where [[morgan-the-mongols|Morgan]] argues the "Great Yasa" as a single written code
+very likely never existed). The "largest contiguous empire in
 history" was, Arnason stresses, "a fleeting formation, unduly magnified and sometimes
-romanticized by later historians."
+romanticized by later historians" — a caution [[morgan-the-mongols|Morgan]] echoes,
+quoting Franke that "the Pax Mongolica is no more than one of those brilliant
+simplifications that can serve as chapter titles for world history books."
+
+On the empire's institutions, see **[[mongol-army]]** (the decimal force whose
+organization doubled as the empire's administrative skeleton): Morgan stresses that the
+conquests turned on the army's **character, not its size**, and were bounded by the
+**pasture** the horse-herds required (a key limit on Mongol expansion into Syria).
 
 ## The limits of expansion: Japan (Mason & Caiger)
 

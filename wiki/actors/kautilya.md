@@ -75,4 +75,3 @@ Buddhist *dhamma* of righteous, non-violent rule — is the deliberate counterpo
 - [[kautilya-arthashastra]] — his treatise; [[kautilyan-statecraft]] · [[raja-mandala]] — its theory.
 - [[ashoka]] — the Mauryan grandson whose *dhamma* inverts Kautilya's *danda*.
 - [[pataliputra]] — the Mauryan capital; [[caste-varna]] — the social order he upheld.
-</content>

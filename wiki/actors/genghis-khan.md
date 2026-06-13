@@ -9,7 +9,7 @@ affiliated_with: [[[mongol-empire]], [[pastoral-nomadism]], "the Chinggisid line
 opposed_by: ["the Jurchen Jin", "the Tangut Xixia", "the Khwarazmian Empire", "rival Mongol and Turkic clans"]
 key_events: ["unification of the Mongol and Turkic tribes (1206)", "the invasion of the Khwarazmian Empire (1219–1221)", "campaigns against Jin and Xixia"]
 key_processes: [[[pastoral-nomadism]], [[state-formation]], [[afro-eurasian-world-system]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [actor, person, high-middle-ages, steppe]
 ---
@@ -35,10 +35,12 @@ khanates, and left its mark on the later history of the Inner Eurasian heartland
   loyalty (the *nökör* companions) rather than pure kinship, defeated his rivals, and
   was acclaimed Chinggis Khan in 1206.
 - **Reorganization.** He broke the old tribal structure into a **decimal military
-  system** (units of 10/100/1,000/10,000) cutting across clans, established the
+  system** (units of 10/100/1,000/10,000) cutting across clans — the [[mongol-army|Mongol
+  army]] that was also the empire's administrative skeleton — established the
   *keshig* imperial guard, promoted by merit and loyalty, and (by tradition)
-  promulgated the *jasaq*/*yasa* — though the idea of a single fixed Mongol law code
-  is now questioned in favour of adaptive use of existing legal traditions.
+  promulgated the *jasaq*/*yasa* — though [[morgan-the-mongols|Morgan]] argues the idea of
+  a single fixed written Mongol law code is largely a later construction (see
+  [[the-mongol-yasa]]).
 - **Conquests.** Campaigns against the Tangut **Xixia** and the Jurchen **Jin** in
   north China, then the devastating destruction of the **Khwarazmian Empire**
   (1219–1221) in Central Asia and Iran — the campaigns that opened the empire's
@@ -80,4 +82,5 @@ as political reach.
 - [[pax-mongolica]] · [[chinggis-exchange]] — the peace and the exchange that carry his name.
 - [[timur]] — the later Central Asian conqueror who claimed Chinggisid legitimacy.
 - [[state-formation]] — the comparative analysis of his achievement (Arnason).
-- [[may-mongol-conquests-2012]] — Timothy May's world-historical synthesis.
+- [[mongol-army]] — the force he built; [[the-mongol-yasa]] — the disputed law code.
+- [[may-mongol-conquests-2012]] · [[morgan-the-mongols]] — the sources.

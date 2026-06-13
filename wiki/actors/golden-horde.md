@@ -9,7 +9,7 @@ affiliated_with: [[[mongol-empire]], "the Jochid line", [[mamluk-sultanate|the M
 opposed_by: [[[ilkhanate]], "the Chaghatayids", [[timur|Timur]], "the rising principality of Moscow"]
 key_events: ["Batu's western campaign 1236–42", "the Berke–Hülegü war", "the sack of Kaffa & the Black Death 1346", "Timur's devastation of Sarai 1390s"]
 key_processes: [[[pax-mongolica]], [[chinggis-exchange]], [[silk-roads]], "the Turkicization of the western steppe"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, empire, high-middle-ages, late-middle-ages, steppe, eastern-europe]
 ---
@@ -69,6 +69,19 @@ the steppe pastures and the Volga and Black Sea trade. As Jochid unity fractured
 later 14th century, the balance shifted: **Moscow's** rise and **Lithuania's** expansion
 both fed on the Horde's plague-driven weakness and its need to decentralize authority.
 
+[[morgan-the-mongols|Morgan]] fills in the mechanics. The Mongols stayed in the southern
+steppe and let the Rus′ princes administer their own affairs, supervised by resident
+agents (the **basqaq**, a word that entered Russian) and a series of **censuses** to
+ensure full and prompt tax payment. Princes had to travel to Sarai to receive their
+patents of office — often making their wills before setting out. The "realistic"
+**Alexander Nevsky** chose collaboration, even suppressing resistance led by his own
+kin; in John Fennell's sharp formulation, "the so-called 'Tatar Yoke' began not so much
+with Batu's invasion of Russia as with Aleksandr's betrayal of his brothers" (1252).
+Morgan underscores the deeper point: Horde foreign policy "focused overwhelmingly upon
+acquisition of the rich pastures and caravan routes of **Azerbaijan**... Russia itself
+was peripheral" — so the temptation to read the Golden Horde as a chapter of *Russian*
+history, rather than of the **Mongol Empire**, "should be resisted."
+
 ## Significance
 
 The Golden Horde is the principal Mongol legacy in **Russia and Eastern Europe** — a
@@ -83,5 +96,4 @@ Mongolica]] until plague and Timur broke it.
 - [[ilkhanate]] — its great Mongol rival; [[mamluk-sultanate]] — its ally against the Ilkhanate.
 - [[rus-principalities]] — its long-ruled subjects; [[timur]] — its destroyer.
 - [[pax-mongolica]] · [[chinggis-exchange]] · [[black-death]] — the connective system it joined and the plague that broke it.
-- [[may-mongol-conquests-2012]] — the source.
-</content>
+- [[may-mongol-conquests-2012]] · [[morgan-the-mongols]] — the sources.

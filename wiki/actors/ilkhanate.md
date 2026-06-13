@@ -78,4 +78,3 @@ generations, and its collapse left the vacuum Timur would fill.
 - [[baghdad]] · [[abbasid-caliphate]] · [[battle-of-ain-jalut-1260]] — its founding conquests and limits.
 - [[rashid-al-din]] — its great historian-vizier; [[timur]] — heir to its territory.
 - [[pax-mongolica]] · [[chinggis-exchange]] — the connective system it anchored; [[may-mongol-conquests-2012]] — the source.
-</content>

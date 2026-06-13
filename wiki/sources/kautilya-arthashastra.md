@@ -84,4 +84,3 @@ not as direct evidence (a caution [[thapar-history-of-india-v1-1966|Thapar]] als
 Its enduring importance is as the classic statement of the **secular, amoral-pragmatic
 strand** of Indian statecraft — the realpolitik tradition against which Ashoka's *dhamma*
 and later *dharmashastra* moralism define themselves.
-</content>

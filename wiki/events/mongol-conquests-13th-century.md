@@ -93,4 +93,3 @@ The wiki's fuller historiographical discussion is on [[mongol-empire]].
 - [[pax-mongolica]] · [[chinggis-exchange]] — the integrative consequences.
 - [[mongol-invasion-of-europe-1241]] · [[mongol-invasions-of-japan-1274-1281]] · [[battle-of-ain-jalut-1260]] — component campaigns and limits.
 - [[golden-horde]] · [[ilkhanate]] — successor khanates; [[may-mongol-conquests-2012]] — the source.
-</content>

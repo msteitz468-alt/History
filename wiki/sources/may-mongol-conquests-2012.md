@@ -81,5 +81,4 @@ where they overlap; no contradictions arose. May's tone is informal (digressions
 Olivia Newton-John's *Xanadu* and Chinggis Khan vodka), but the scholarship is sound
 and the source criticism (the catalogue of Chinese, Persian, Arabic, Mongolian, and
 Latin sources in the introduction) is a useful primary-source map in itself.
-</content>
 </invoke>

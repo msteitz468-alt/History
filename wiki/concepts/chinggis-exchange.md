@@ -83,4 +83,3 @@ integration**, weakest when stretched into a single-cause theory of modernity.
 - [[mongol-empire]] · [[genghis-khan]] — the empire and the man whose name it bears.
 - [[black-death]] — its deadliest cargo; [[may-mongol-conquests-2012]] — the source.
 - [[afro-eurasian-world-system]] — the network it integrated at fullest extent.
-</content>

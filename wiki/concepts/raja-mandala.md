@@ -74,4 +74,3 @@ model of overlapping circles of allegiance and prestige. The doctrine's modern r
 - [[kautilyan-statecraft]] — the *saptanga* states the circle arrays; [[kautilya-arthashastra]] — the text.
 - [[mandala]] — the Southeast Asian descendant concept; [[chandragupta-maurya]] — the *vijigishu* in practice.
 - [[mauryan-empire]] — the empire built by conquest of the circle; [[kautilya]] — the author.
-</content>
