@@ -18,7 +18,7 @@ reliability_notes: >
   "Indian feudalism" model she advances for the post-Gupta regional states is itself debated).
   This volume is the **structural backbone for Critical Gap 3 (South & Southeast Asia)** — India
   has been "Weak" in the collection (a few Asian-Classics primary texts only).
-pages_created: 12
+pages_created: 16
 pages_updated: 11
 ingested: 2026-06-12
 tags: [source]
@@ -62,4 +62,43 @@ Sultanate, the Bhakti movement, and Vijayanagara.
 
 ## Volume Synthesis Note
 
-*(to be written in the Step 3 cross-section synthesis pass)*
+Thapar's *A History of India* Vol. I is the **structural backbone for Critical Gap 3 (South Asia)** —
+the spine on which the wiki's scattered India pages (built from the Cambridge World History and the
+Asian-Classics primary texts) now hang as a connected narrative from the Indus cities to 1526. Its
+enduring contribution is **method**: the post-independence, secular-materialist insistence on reading
+**beneath the dynasties** to society, economy, and religion, explicitly against three distortions she
+names in Chapter 1 — the colonial "stagnant/spiritual East," the nationalist "Hindu Golden Age," and
+the misleading **Hindu/Muslim periodization**. That program generates the analytic threads that unify
+the whole volume.
+
+Four such threads recur across the cycles. (1) **Caste theory vs. practice.** The varna scheme is a
+brahmanical *theory*; real society ran on *jati*, and the gap between the two is Thapar's repeated
+solvent — the Satavahanas marrying Shakas while boasting of "protecting the four varnas," the Greeks
+and Shakas filed as "fallen kshatriyas," the Rajputs' manufactured Agnikula pedigree (see
+[[caste-varna]], [[rajputs]]). (2) **North vs. South.** The Gangetic plain breeds land-based unitary
+empires; the sea-oriented, region-cut peninsula breeds durable Tamil/Dravidian states and a maritime
+economy — with the Deccan as bridge (the [[satavahana-empire|Satavahanas]], [[chola-empire|Cholas]],
+[[vijayanagara-bahmani|Vijayanagara]]). (3) **Orthodoxy vs. heterodoxy.** Brahmanism, the
+[[gana-sangha|republic]]-born [[buddhism|Buddhist]]/[[jainism|Jain]] revolt, and the popular
+[[bhakti-movement|Bhakti]]–Sufi devotion form a continuous dialectic, mediated by the rising merchant
+and artisan classes. (4) **Trade and the wider world.** India is never insular — the Roman
+[[indian-ocean-trade|trade]], the [[indianization-of-southeast-asia|Indianization of Southeast Asia]],
+the Sino-Indian Buddhist transmission, and the central-Asian invasions repeatedly tie the subcontinent
+into Eurasian history.
+
+Two of Thapar's framings show their **age** and are flagged as such on the relevant pages, to be
+revisited as newer sources are ingested: the **"intrusion/invasion" decline of [[indus-valley-civilization|Harappa]]**
+and the **"Aryan" migration** (now nuanced by aDNA — see [[indo-european-origins]]); and the
+**"Indian feudalism"** model ([[indian-feudalism]]), a powerful but contested Marxisant reading of the
+post-Gupta economy. Her older view of a **highly centralized Mauryan state** also sits in productive
+tension with the later CWH IV "not a monolith" reading (flagged on [[mauryan-empire]]).
+
+**Cross-source and forward connections.** The volume confirms and deepens the CWH-derived pages
+(Mauryas, Ashoka, Guptas, Kushans, Buddhism, Hinduism) and supplies the missing structural pieces
+(Indus, Vedic age, the Cholas and southern dynasties, the Sultanate, Bhakti, Vijayanagara). It links
+outward to the Africa gap (the Indian Ocean trade), to East Asia (the Buddhist transmission), and
+forward to **Vol. II (Percival Spear)** at the 1526 Mughal threshold — and, for **Southeast Asia**, it
+plants the [[indianization-of-southeast-asia]] anchor pending Reid, Coe, and the Cambridge History of
+Southeast Asia. With this ingest, **India moves from "Weak" toward solid coverage from prehistory to
+1526**; the remaining Gap-3 work is the Mughal/early-modern and Southeast-Asian material staged in
+`raw/`.

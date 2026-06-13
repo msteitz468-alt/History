@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-12 (**Romila Thapar — *A History of India*, Volume One** (Penguin/Pelican, 1966) — INGEST COMPLETE (Large-Volume, 6 section cycles + synthesis). The standard academic narrative of India to 1526 and the **structural backbone for Gap 3 (South Asia)**. Created 16: **[[indus-valley-civilization]]**, **[[vedic-period]]**, **[[gana-sangha]]** (the early republics), **[[satavahana-empire]]**, **[[sangam-age-south-india]]**, **[[indianization-of-southeast-asia]]**, **[[chola-empire]]**, **[[pallava-chalukya-rashtrakuta]]**, **[[harsha]]**, **[[rajputs]]**, **[[indian-feudalism]]**, **[[mahmud-of-ghazni]]**, **[[delhi-sultanate]]**, **[[bhakti-movement]]**, **[[vijayanagara-bahmani]]**, and the **[[south-asia]]** regional anchor. Enriched 11 — incl. **[[caste-varna]]** (varna-theory vs. jati-practice), **[[hinduism]]** (Vedic + popular synthesis; trinity/avatars/Gita), **[[ashoka]]** (Dhamma ≠ Buddhism), **[[mauryan-empire]]** (centralized-bureaucracy reading), **[[magadha]]**, **[[gupta-empire]]** ("classical age for whom?"), **[[buddhism]]** (Indian decline), **[[kushan-empire]]**, **[[indian-ocean-trade]]** (the Roman trade), **[[indo-european-origins]]** (the "Aryan question"). Filed to `raw/3. Middle Ages/`. **Begins Gap 3: India moves from "Weak" toward solid coverage, prehistory→1526.**)
+
 Last updated: 2026-06-12 (**Ibn Battuta — *Ibn Battuta in Black Africa*** (Hamdun & King, trans., 1975/1994) — INGEST COMPLETE (standard single-pass; primary source). The **only 14th-c. eyewitness** of both the East African city-states and the Mali empire, closing **Gap 2's** primary-source need. Created **[[ibn-battuta]]** (the great traveller) and the source page. Enriched 6: **[[mali-empire]]** (the eyewitness court of Mansa Sulaiman — the banbi, dusting, Dugha, the co-queen Qasa), **[[griot-oral-tradition]]** (the earliest external notice of the *jali*, "old amongst them… from before Islam"), **[[swahili-coast]]** (Mogadishu/Mombasa/Kilwa, Sultan al-Hasan "father of gifts"), **[[kanem-bornu]]** (Bornu's veiled king Idris; the Takadda copper trade), **[[trans-saharan-trade]]** (Taghaza salt, the takshif, salt-as-currency), **[[mansa-musa]]** (remembered for generosity). Filed to `raw/3. Middle Ages/`. **With this, Critical Gap 2 (Sub-Saharan Africa) is fully worked through the Outstanding-Sources list.**)
 
 Last updated: 2026-06-12 (**Ajayi & Crowder, eds. — *History of West Africa*, Volume One** (Longman, 1971) — INGEST COMPLETE (Large-Volume, 5 section cycles + synthesis). The standard Ibadan-school reference for **Gap 2**, on **state formation** from prehistory to c. 1800. Created 10 pages: **[[stateless-societies]]** (Horton's model), **[[hamitic-hypothesis-african-states]]** (the rejected diffusionist controversy), **[[west-africa]]** (regional anchor), **[[takrur]]**, **[[niger-delta-city-states]]** (Bonny/Kalabari — the War Canoe House), **[[mossi-states]]**, **[[akan-states]]** (Gonja/Akwamu/Denkyira/Fante), **[[moroccan-invasion-of-songhay-1591]]** (Tondibi), **[[western-sudan-arma-pashalik]]**, and **[[ahmad-baba]]**. Enriched 19 — incl. **[[ghana-empire]]** (Levtzion's al-Bakri & a flagged [CONTRADICTION] on the 1076 conquest), **[[mali-empire]]** (the savannah-capital survival thesis), **[[songhay-empire]]**, **[[kanem-bornu]]**, **[[hausa-city-states]]**, **[[state-formation]]**, **[[atlantic-slave-trade]]** (Curtin's South Atlantic System), **[[dahomey]]**/**[[oyo-empire]]** (Akinjogbin), **[[asante-empire]]**, **[[trans-saharan-trade]]**, **[[islamization-of-africa]]**, **[[west-african-jihads]]**, **[[nok-culture]]**. **Closes the West-African leg of Gap 2** (remaining: *Ibn Battuta in Black Africa*).)
@@ -437,20 +439,20 @@ creation order with a one-line description.
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **Ibn Battuta in Black Africa** Ingest. Recent volumes'
+Counts reflect actual files on disk as of the **Thapar, A History of India Vol. I** Ingest. Recent volumes'
 detailed new/updated pages are catalogued in their source pages and `log.md`.
 
 | Category | Pages |
 |---|---|
-| Periods | 24 |
+| Periods | 25 |
 | Events | 189 |
-| Processes | 108 |
-| Actors | 400 |
-| Places | 106 |
-| Concepts | 220 |
+| Processes | 111 |
+| Actors | 410 |
+| Places | 107 |
+| Concepts | 221 |
 | Comparisons | 0 |
 | Controversies | 44 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 32 |
-| **Total** | **1123** |
+| Sources | 33 |
+| **Total** | **1139** |
