@@ -7,7 +7,7 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [Swahili city-states, Kilwa Sultanate]
 events_here: []
 processes_here: [[[indian-ocean-trade]], [[trans-saharan-trade]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [place, east-africa, indian-ocean, high-middle-ages]
 ---
@@ -69,6 +69,17 @@ furthest point Persian-Gulf dhows could reach and return on a single monsoon, so
 Sofala" and its "meadows of gold"** were worked by intermediaries. Sofala (near modern Beira) tapped the
 gold of the Zimbabwe plateau, tying **[[great-zimbabwe|Great Zimbabwe]]** and its Mapungubwe/Mutapa
 neighbours into the Indian Ocean economy — the inland and maritime halves of one gold trade.
+
+## The early Islamic coast and the Zanj (GHA III)
+
+The **UNESCO [[gha-vol3-7th-11th-century|General History of Africa, Vol. III]]** (chs. 21–22, 26) covers the
+coast's **formative Islamic phase (8th–11th c.)**: Muslim traders from the Gulf and Arabia settling among
+the Bantu-speaking coastal communities and the **Comoros**, the first coastal mosques, and the growth of
+the export trade in ivory, gold (via Sofala), mangrove poles and **enslaved people** — the **"Zanj"** of the
+Arabic sources. The volume's striking closing chapter on the **African diaspora in Asia** traces these East
+Africans into the Islamic world — most dramatically the **Zanj Rebellion (869–883)**, when enslaved East
+African labourers drained the salt-marshes of southern Iraq rose in a massive, nearly decade-long revolt
+that shook the Abbasid Caliphate.
 
 ## Ancient Azania (GHA II)
 

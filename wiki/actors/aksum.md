@@ -9,7 +9,7 @@ affiliated_with: [Rome/Byzantium (ally and trading partner), the Indian Ocean tr
 opposed_by: [the [[kush-meroe|Kingdom of Kush]] (conquered c. 350 CE), Sasanian Persia, the early Caliphate]
 key_events: [rise to prominence late 1st c. BCE, establishment of Adulis as a treaty port, conquest of Kush c. 350 CE, conversion to Christianity (4th c.), control of Yemen (early 6th c.), collapse and relocation c. 700 CE]
 key_processes: [[[indian-ocean-trade]], [[trade-network-formation]], [[empire]], [[christianization]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [actor, state, late-antiquity, horn-of-africa]
 ---
@@ -100,3 +100,14 @@ Aksum between two bookends:
   Orthodox** tradition and the spine of the medieval Christian Ethiopian state — making Aksum and
   **[[christian-nubia|Christian Nubia]]** the two enduring African Christian civilizations of the Nile/Red
   Sea world.
+
+## Post-Aksumite Ethiopia and the Muslim world (GHA III)
+
+The **UNESCO [[gha-vol3-7th-11th-century|General History of Africa, Vol. III]]** (chs. 19–20, Mekouria &
+Cerulli) carries the story past Aksum's fall: the **southward shift** of the Christian kingdom into the
+central Ethiopian highlands (the prelude to the **Zagwe** dynasty and its rock-hewn churches at Lalibela),
+and **Ethiopia's relations with the rising Muslim world**. Tradition holds that the Aksumite king (the
+*najashi*) sheltered the Prophet's early followers in the **first hijra to Abyssinia** (c. 615) — earning
+Christian Ethiopia a measure of respect in Islamic tradition — even as Muslim settlement on the **Dahlak
+islands** and the Red Sea coast gradually enclosed the highland Christian state, which entered its long
+medieval isolation "asleep," in Gibbon's phrase, "amid the encircling forces of Islam."
