@@ -9,7 +9,7 @@ affiliated_with: [the revived Abbasid caliphate at Cairo, the Genoese slave trad
 opposed_by: [[[mongol-empire|the Mongol Il-khanate]], the crusader states, Cilician Armenia]
 key_events: [the battle of [[battle-of-ain-jalut-1260|Ain Jalut]] (1260), the fall of Antioch (1268), the fall of Tripoli (1289), the [[fall-of-acre-1291|fall of Acre]] (1291)]
 key_processes: [the rise of slave-soldier rule, the destruction of the crusader states, the Mamluk–Mongol wars]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, state, high-middle-ages, near-east, levant]
 ---
@@ -72,3 +72,6 @@ simplified into the two great blocs of Mamluk Egypt-Syria and the Mongol Il-khan
 - `produced:` the [[battle-of-ain-jalut-1260|defeat of the Mongols (1260)]] and the [[fall-of-acre-1291|destruction of the crusader states (1291)]].
 - `opposed_by:` the [[mongol-empire|Mongol Il-khanate]]; `replaced:` the Ayyubids of [[saladin|Saladin's]] dynasty.
 - `affiliated_with:` the [[republic-of-genoa|Genoese]] Black Sea slave trade that supplied its soldiers.
+- `ended_by:` the **Ottoman conquest of Egypt (1517)** — covered from the African side in
+  [[gha-vol5-16th-18th-century|GHA Vol. V]] (ch. 6, Vesely), which begins the Ottoman era in North Africa
+  and the rise of the [[barbary-regencies|Barbary regencies]].
