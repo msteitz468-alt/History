@@ -15,7 +15,7 @@ reliability_notes: >
   which the UNESCO General History of Africa volumes are the reference). Its environmental framing is a
   argument to be noted, not a neutral baseline. The wiki uses it as the continent-wide spine for Gap 2.
 pages_created: 7
-pages_updated: 6
+pages_updated: 7
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -83,8 +83,14 @@ state-level pages this spine creates.
   Adwa 1896 — and consequences).
 - **Updated:** [[imperialism]] (linked the dedicated Scramble page).
 
-*Sections 1–3 (deep prehistory, human origins, food production/iron) and Section 8 (decolonization)
-still to process.*
+**Section 8 — The First Dance of Freedom (chs. 54–55), processed 2026-06-12:**
+- **Updated:** [[decolonization]] (the African experience — the Congo/Lumumba/Mobutu Cold War-proxy
+  catastrophe; the *évolués*; the OAU's retention of arbitrary colonial borders; the post-independence
+  "dreams and nightmares" of coups and strongmen).
+
+*Sections 1–3 (deep prehistory, human origins, food production/iron) still to process — these largely
+reinforce existing archaeology-based pages and Reader's environmental thesis already captured in
+[[sub-saharan-africa]].*
 
 ## Volume Synthesis Note
 

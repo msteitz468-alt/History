@@ -15,6 +15,8 @@ Format:
 
 ## 2026-06-12 admin | PIVOT to Outstanding Sources.md. Audit: ~50 of ~75 gap-filling sources now in collection (entire Modern leg, Africa, Americas, much of Asia). Still missing: Russia (Gap 8), several global primaries (Muqaddimah, Gilgamesh, Secret History of Mongols, Behistun, Hammurabi), most world-systems (Abu-Lughod, Crosby, Diamond, Harper). Working gaps in list order, starting Gap 1 (Modern).
 
+## 2026-06-12 section | Africa: A Biography of the Continent (John Reader) | Section: The First Dance of Freedom (chs. 54–55) | Pages created: 0 | Pages updated: 1 | (decolonization — African experience, Congo/Lumumba)
+
 ## 2026-06-12 section | Africa: A Biography of the Continent (John Reader) | Section: The Scramble (chs. 47–51) | Pages created: 1 | Pages updated: 1 | (scramble-for-africa)
 
 ## 2026-06-12 section | Africa: A Biography of the Continent (John Reader) | Section: Settlers (chs. 40–46) | Pages created: 3 | Pages updated: 0 | (cape-colony, mfecane, southern-african-mineral-revolution)

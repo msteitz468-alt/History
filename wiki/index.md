@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-12 (**Reader, *Africa: A Biography* — Section 8 (The First Dance of Freedom, chs. 54–55).** Enriched **[[decolonization]]** with the African experience: the **Congo/Lumumba/Mobutu** Cold War-proxy catastrophe (Belgian unpreparedness, the CIA's role in Lumumba's murder), the *évolués*, the **OAU's** retention of arbitrary colonial borders, and the post-independence "dreams and nightmares" of coups and strongmen.)
+
 Last updated: 2026-06-12 (**Reader, *Africa: A Biography* — Section 7 (The Scramble, chs. 47–51).** Created **[[scramble-for-africa]]** (the 1881–1914 partition; the **Berlin Conference** with no Africans present; the fraudulent concession-treaty mechanism via the Lozi/Lewanika and Lochner/Rhodes BSAC case; the "tools of empire," resistance — Ethiopia at Adwa, 1896 — and the colonial-extraction legacy). Enriched **[[imperialism]]**.)
 
 Last updated: 2026-06-12 (**Reader, *Africa: A Biography* — Section 6 (Settlers, chs. 40–46).** Created **[[cape-colony]]** (Dutch settlement from 1652, Khoisan dispossession, slavery, the Trekboer frontier and Xhosa wars, British conquest), **[[mfecane]]** (the c. 1815–40 upheavals — with the **Cobbing** revisionist controversy that slaving out of Delagoa Bay and Cape labour-raiding, not Shaka's Zulu, drove the "crushing"), and **[[southern-african-mineral-revolution]]** (Kimberley diamonds and Witwatersrand gold; the compound, pass-law and migrant-labour system that Reader calls the institutional ancestor of apartheid).)

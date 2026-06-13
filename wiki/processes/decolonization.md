@@ -8,8 +8,8 @@ region: [global, africa, south-asia, southeast-asia, near-east, east-asia, carib
 process_type: [political, ideological]
 driven_by: [anti-imperial [[nationalism]], the discrediting of Europe's "civilizing mission" by the world wars, socialist and self-determination ideologies, the economic exhaustion of the imperial powers, the Cold War]
 produces: [the global triumph of the nation state, the post-colonial world, Third World non-alignment, persistent post-colonial inequalities and conflicts]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-12
 tags: [process, cold-war, world-wars-era, global]
 ---
 
@@ -105,7 +105,35 @@ with anti-imperialism — even as the socialist and Gandhian alternatives faded.
 War were deeply entangled — the newly independent world was the Cold War's principal battleground, and
 each superpower offered it a rival model of modernity.
 
+## The African experience (Reader)
+
+**[[reader-africa-biography|Reader]]** narrates decolonization from the African side, where ~45 colonies
+became independent between 1960 and 1975. His themes:
+
+- **Unpreparedness and the Congo catastrophe.** The Belgian Congo — superficially a "paragon" colony,
+  rich in copper, cobalt and diamonds, run by an alliance of state, Catholic Church and mining
+  corporations — was among the **least prepared**: at independence (June 1960) it had a handful of
+  university graduates, **no Congolese army officers, doctors or lawyers**, and a 40:1 black-white wage
+  gap. Belgium conceded independence in barely 18 months. Within days the army mutinied, Katanga
+  (Tshombe, backed by Belgian mining interests) seceded, and the state collapsed.
+- **The Cold War proxy.** Reader uses the Congo to show how independent African states "became **pawns in
+  the Cold War**." When premier **Patrice Lumumba** appealed to the Soviet Union, the US read him as a
+  Soviet asset; **Eisenhower's outrage was taken by CIA director Dulles as "implicit authorization" to
+  assassinate** him. Lumumba was deposed by the CIA-cultivated **Joseph Mobutu**, handed to his Katangan
+  enemies, and murdered (Jan. 1961) — becoming a pan-African martyr while Mobutu built a Western-backed
+  dictatorship (renaming the country **Zaire**).
+- **The *évolués*.** African nationalist leadership often emerged from the frustrated colonial-educated
+  elite — denied real equality (the Congo's near-useless *immatriculation*) and so redirecting their
+  ambitions from joining the colonial order to overthrowing it.
+- **Arbitrary borders kept.** The **Organization of African Unity (1963)** chose to **retain the
+  "nonsensical" colonial boundaries** (Nyerere's word) rather than risk endless border wars — locking in
+  the Scramble's arbitrary map.
+- **"Dreams and nightmares."** Reader's bleak coda: early optimism (and real 1965–80 growth) gave way to
+  **70+ coups in the first 30 years**, one-party states, presidents-for-life and military rule, with
+  Nigeria and Rwanda as the nightmares and post-apartheid South Africa (1994) as a "flickering hope."
+
 ## Related pages
 
-[[imperialism]] · [[nationalism]] · [[cold-war]] · [[westad-cold-war]] · [[self-strengthening]] ·
+[[imperialism]] · [[nationalism]] · [[cold-war]] · [[westad-cold-war]] · [[reader-africa-biography]] ·
+[[sub-saharan-africa]] · [[scramble-for-africa]] · [[congo-free-state]] · [[self-strengthening]] ·
 [[communism-and-fascism]] · [[genocide]] · [[contemporary]] · [[1945-postwar-order]]
