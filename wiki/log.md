@@ -2389,3 +2389,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 
 ## 2026-06-13 section | Cambridge History of the First World War (Winter, ed.) | Vol. III: Civil Society (2014) | World Wars Era | global | Pages created: 1 | Pages updated: 2
 ## 2026-06-13 ingest-complete | The Cambridge History of the First World War, Vols I–III (Jay Winter, ed., 2014) | Total pages created: 6 | Total pages updated: 2 | Sections processed: 3 (+ synthesis)
+
+## 2026-06-13 section | New Cambridge Modern History (Modern) | Vol. I: The Renaissance 1493–1520 (Potter, ed., 1957) | Early Modern | europe | Pages created: 1 | Pages updated: 1 | OPENS NCMH-Modern series (13 vols)

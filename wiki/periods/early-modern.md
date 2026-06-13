@@ -5,8 +5,8 @@ date_range: 1500–1700 CE
 regions_covered: [atlantic-world, western-europe, mesoamerica, andes, west-africa, east-asia, near-east, south-asia, indian-ocean, southeast-asia]
 major_themes: [the construction of a global world, Columbian Exchange, oceanic empires, the silver-driven world economy, confessionalization and religious expansion, the military revolution debate, chartered companies, plantation slavery]
 collection_coverage: moderate
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [period]
 ---
 
@@ -37,6 +37,13 @@ European maritime dominance was real at sea by 1700 but remained thin on land:
 the [[military-revolution|"military revolution"]] did not translate into
 European superiority over the great Asian land empires until well into the
 eighteenth or nineteenth century.
+
+Within Europe, the period opens with the **[[italian-wars-1494|Italian Wars]]
+(1494–1559)** — the Habsburg–Valois struggle over a wealthy, fragmented Italy — which
+generalized the Italian balance-of-power model into a continental **state system** with
+**resident diplomacy**, and drove the military revolution. This and the European
+state-system story are now being built out from the **[[new-cambridge-modern-history-v1|New
+Cambridge Modern History]]** (Modern series, 1493–1945; ingestion begun 2026-06-13).
 
 The defining structural facts of the period are the
 [[columbian-exchange-1492|Columbian Exchange]], the catastrophic demographic
