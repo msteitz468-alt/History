@@ -14,7 +14,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the long Ottoman encirclement of a shrunken Byzantium, Mehmed II's gunpowder siege technology, the failure of western/crusade aid, Byzantine and Orthodox division over Church union]
 consequences: [the end of the [[byzantine-empire|Byzantine Empire]], the Ottoman Empire as heir of Rome, the Orthodox Church under the sultan, Moscow as "Third Rome", a spur to Italian humanism and to Atlantic exploration]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [event, transition, late-middle-ages, near-east, balkans]
 ---
@@ -74,8 +74,20 @@ its head, assumed all power," opening a generation of relentless **holy war** an
 deflates the western myth of 1453 as a cosmic rupture, stressing continuity for the Roman Orthodox
 under a new *taxis* (order) — though he acknowledges the date's enduring symbolic weight.
 
+## Mehmed the Conqueror and the new Rome (Kinross)
+
+Lord Kinross's [[kinross-ottoman-centuries|*The Ottoman Centuries*]] frames the conquest as the
+making of an empire: from his accession **[[mehmed-ii|Mehmed II]]** "had seen himself as the
+heir to the classical Roman Empire and its Christian successor," and the capture of the city
+confirmed him as **Kaisar-i-Rûm** ("Caesar of Rome," successor to Augustus and Constantine).
+He rebuilt the ruined capital as **Istanbul**, repopulated it, and — preserving Hagia Sophia's
+mosaics and re-establishing the **Greek Orthodox Patriarchate** under his protection — turned a
+conquest into an imperial and multi-confessional order. The fuller portrait is on
+[[mehmed-ii]].
+
 ## Related
 
+- [[mehmed-ii]] — the Conqueror; his fuller biography.
 - `caused_by:` the [[ottoman-empire|Ottoman]] gunpowder ascendancy under Mehmed II; `produced:` the end of the [[byzantine-empire|Byzantine Empire]].
 - `concurrent_with:` the [[ivan-iii-vasilyevich|rise of Muscovy]] (the "Third Rome") and the Italian [[renaissance-humanism|Renaissance]] (the Greek émigrés).
 - `contrasts_with:` the [[fall-of-granada-1492|fall of Granada]] (1492); `contributed_to:` the [[age-of-discovery|age of discovery]].

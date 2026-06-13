@@ -79,7 +79,7 @@ near-collapse at **Ankara (1402)** to the empire of Mehmed II and Bayezid II.
   the **war-mongers** of holy war (*djihad*). **Murad II** (1421–51) inclined to peace and vassalage,
   but after defeats by the crusaders (Hunyadi) avenged himself at **Varna (1444)** and **Kosovo
   (1448)**.
-- **Mehmed II "the Conqueror" (1451–81).** The **[[fall-of-constantinople-1453|fall of Constantinople
+- **[[mehmed-ii|Mehmed II "the Conqueror"]] (1451–81).** The **[[fall-of-constantinople-1453|fall of Constantinople
   (1453)]]** made the Ottoman Empire "the successor of the Byzantine" and gave the war party total
   power (Halil executed). Mehmed abolished the vassal states and annexed them directly — Serbia
   (1459), the Morea (1460), Trebizond (1461), Bosnia (1463) — and fought Venice (1463–79), seizing

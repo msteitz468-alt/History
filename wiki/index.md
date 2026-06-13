@@ -34,6 +34,8 @@ Last updated: 2026-06-12 (**Anthony Reid — *Southeast Asia in the Age of Comme
 
 Last updated: 2026-06-12 (**Michael D. Coe — *Angkor and the Khmer Civilization*** (Thames & Hudson, 2003) — INGEST COMPLETE (Large-Volume, 3 cycles + synthesis). The wiki's **first dedicated Southeast Asian source**, opening the long-flagged SE Asia gap (Gap 3). Created 5: **[[khmer-empire]]** (Angkor, 802–1431), **[[angkor]]** *(enriched existing)*, **[[jayavarman-vii]]**, **[[funan]]** (the pre-Angkorian Funan/Zhenla states), **[[devaraja]]** (the god-king cult), and the **[[southeast-asia]]** regional anchor. Enriched **[[indianization-of-southeast-asia]]** (the Khmer close-up: Oc Eo, the Zhenla temples), **[[angkor]]** (Coe's monuments — Angkor Wat, the Bayon, Zhou Daguan), **[[mahayana-buddhism]]** & **[[hinduism]]** (the Khmer state cults). Filed to `raw/3. Middle Ages/`. **Begins the Southeast Asia leg of Gap 3; the archipelago, Burma, Siam & Vietnam remain (Reid, Cambridge History of SE Asia next).**)
 
+Last updated: 2026-06-13 (**Lord Kinross, *The Ottoman Centuries: The Rise and Fall of the Turkish Empire*** (1977) — INGEST COMPLETE (targeted). A classic single-volume Ottoman narrative; with the spine already built by Imber/Finkel/Mikhail, it was mined for the **clearest remaining gap** plus enrichment. Created **[[mehmed-ii]]** ("the Conqueror"/*Fatih* — the sultan who took Constantinople 1453 and made the Ottomans an imperial power claiming the inheritance of Rome & Byzantium: *Kaisar-i-Rûm*, the rebuilding of Istanbul, the Greek Orthodox Patriarchate & *millet* order, religious tolerance + political ruthlessness, the conquest-state). Deepened **[[fall-of-constantinople-1453]]** (Mehmed & the new Rome) and **[[ottoman-empire]]**. Filed to `raw/4. Modern Times/`.)
+
 Last updated: 2026-06-13 (**Alan Mikhail, *God's Shadow: The Ottoman Sultan Who Shaped the Modern World*** (2020) — INGEST COMPLETE (single-pass). An argumentative biography of **[[selim-i|Selim I]]** that doubles as a revisionist world history. Created **[[ottoman-impact-on-european-expansion]]** (controversy — Mikhail's bold thesis that fear of the Ottomans drove European overseas expansion and that the Ottomans "made the modern world," vs. the skeptical/multicausal view). Deepened **[[selim-i]]** (the fuller biography — the unlikely fratricidal rise, "God's Shadow"/most-influential-sultan thesis, the majority-Muslim empire & the caliphate), **[[columbian-exchange-1492]]** and **[[reconquista]]** (Mikhail's contested "Columbus as crusader" / Ottomans-drove-1492 reframing). Theme (Mikhail): Islam and the Ottomans belong at the center of early-modern world history, not the margins — a welcome corrective whose boldest causal claims are debated. A Phase C source complementing Imber (structure) and Finkel (narrative). Filed to `raw/3. Middle Ages/`.)
 
 Last updated: 2026-06-13 (**Caroline Finkel, *Osman's Dream: The History of the Ottoman Empire*** (2007) — INGEST COMPLETE (Large-Volume, 2 cycles + synthesis). The **narrative spine** for Phase C — carrying the Ottoman story past Imber's 1650 endpoint to the empire's end, with an explicit **anti-"decline" thesis**. Created 5: **[[ottoman-decline-thesis]]** (controversy — Finkel's revisionism vs. the "Sick Man"/"rise–decline–fall" paradigm), **[[siege-of-vienna-1683]]** (the failed second siege & the Treaty of Karlowitz 1699 — the turn from expansion to retreat), **[[tanzimat-reforms]]** (the New Order → Tanzimat "reordering" → 1876 constitution), **[[eastern-question]]** (the Great Powers & the empire's dismemberment), **[[fall-of-the-ottoman-empire-1922]]** (Young Turks, WWI & the Armenian genocide, abolition → the Turkish Republic). Enriched **[[ottoman-empire]]** (the Köprülü revival, the reform century, and dissolution) and **[[janissaries]]** (their praetorian power). Theme (Finkel): reject the caricature of an empire that simply "rose, declined, and fell" — its later centuries were as much **transformation, reform, and resilience** as retreat, with strong continuities into the Turkish Republic. With Imber + Finkel the wiki has a **complete Ottoman backbone c. 1300–1922**. Filed to `raw/4. Modern Times/`.)
@@ -498,12 +500,12 @@ detailed new/updated pages are catalogued in their source pages and `log.md`.
 | Periods | 33 |
 | Events | 237 |
 | Processes | 150 |
-| Actors | 536 |
+| Actors | 537 |
 | Places | 121 |
 | Concepts | 290 |
 | Comparisons | 1 |
 | Controversies | 53 |
 | Timelines | 0 |
 | Queries | 0 |
-| Sources | 141 |
-| **Total** | **1562** |
+| Sources | 142 |
+| **Total** | **1564** |
