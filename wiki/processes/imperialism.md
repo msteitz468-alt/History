@@ -52,7 +52,8 @@ prove partial or transitory." This page covers modern imperialism, including the
 
 ## The New Imperialism (c. 1870–1914)
 
-The most intense phase: the **scramble for Africa** and the extension of formal and
+The most intense phase: the **[[scramble-for-africa|scramble for Africa]]** (the partition settled at the
+Berlin Conference, 1884–85) and the extension of formal and
 informal empire across Asia and the Pacific, enabled by the [[industrialization|second
 industrial revolution]] and new "tools of empire" (Headrick) — steamships, railways,
 telegraphs, quinine, repeating rifles, and machine guns. Colonial wars became

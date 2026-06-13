@@ -14,8 +14,8 @@ reliability_notes: >
   colonialism), lighter and now somewhat dated on the internal political detail of individual states (for
   which the UNESCO General History of Africa volumes are the reference). Its environmental framing is a
   argument to be noted, not a neutral baseline. The wiki uses it as the continent-wide spine for Gap 2.
-pages_created: 6
-pages_updated: 5
+pages_created: 7
+pages_updated: 6
 ingested: 2026-06-12
 tags: [source]
 ---
@@ -77,8 +77,14 @@ state-level pages this spine creates.
   labour-raiding vs the Shaka-centred myth); [[southern-african-mineral-revolution]] (Kimberley and the
   Rand; the compound/pass-law/migrant-labour system as the institutional ancestor of apartheid).
 
-*Sections 1–3 (deep prehistory, human origins, food production/iron) and Sections 7–8 (the Scramble,
-decolonization) still to process.*
+**Section 7 — The Scramble (chs. 47–51), processed 2026-06-12:**
+- **Created:** [[scramble-for-africa]] (the Berlin Conference partition; the fraudulent
+  concession-treaty mechanism — the Lozi/Lewanika & Lochner/Rhodes BSAC case; drivers, resistance —
+  Adwa 1896 — and consequences).
+- **Updated:** [[imperialism]] (linked the dedicated Scramble page).
+
+*Sections 1–3 (deep prehistory, human origins, food production/iron) and Section 8 (decolonization)
+still to process.*
 
 ## Volume Synthesis Note
 
