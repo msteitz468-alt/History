@@ -18,7 +18,7 @@ reliability_notes: >
   regional unity have been qualified by later scholarship). Complements the Khmer-focused
   [[coe-angkor-khmer-civilization-2018|Coe]] by supplying the **regional framework** and especially
   the **archipelago/maritime** world for Critical Gap 3 (Southeast Asia).
-pages_created: 1
+pages_created: 3
 pages_updated: 1
 ingested: 2026-06-12
 tags: [source]

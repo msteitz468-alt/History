@@ -74,6 +74,25 @@ lake and flood the plain, underwrote the **hydraulic civilization** of [[khmer-e
 Second, the region's **position astride the maritime route between India and China** made it a
 crossroads of [[indian-ocean-trade|trade]] and of cultural borrowing.
 
+## Material culture: light houses, precious metal (Reid)
+
+Reid's portrait of everyday material life (Ch. III) turns on the contrast captured in a Burmese saying —
+"parsimonious" in house and food, "splendid and extravagant in their dress." Southeast Asians invested
+**almost nothing in housing**: the universal **pile house** of wood, bamboo, and thatch was cheap,
+perishable, and **literally portable** (poles rested on, not in, the ground; three Siamese houses were
+carried off "in less than an hour," 300 rebuilt at Ayutthaya in two days). Elevation on poles answered
+flooding and ranked the cosmos vertically — animals and refuse below, humans in the middle, the sacred
+rice-store and ancestors in the rafters; rulers built higher than subjects. Only crowded, timber-short
+Java, Bali, and north Vietnam had begun to build on the ground. Against this impermanence stood
+**"noble temples"** — Angkor, Pagan, Borobudur, the gilded stupas, and the distinctive multi-tiered
+archipelago mosque — the only buildings made to last. **Dress** displayed wealth (especially gold
+jewellery and the *kris*) but, strikingly, varied little between rich and poor or even male and female;
+to outsiders the bare feet, bare heads, and bare torsos read as "nakedness." **Metalwork was "the key
+to power"**: iron for war and the plough, the smith both low-status and sacred (metalworking myths in
+state-founding legends), with the region a net importer of all industrial metals except **tin** (the
+Malay Peninsula–Bangka belt supplied much of Asia, a pillar of Melaka's wealth). Gongs, krises, and
+bronze ritual objects circulated as marks of status across the islands.
+
 ## Indianization and its successors
 
 From the early centuries CE, mainland and island elites selectively adopted **Indian** religion
@@ -102,5 +121,6 @@ beyond the Khmer to the archipelago, Burma, Siam, and Vietnam.
 ## Related pages
 
 [[khmer-empire]] · [[funan]] · [[angkor]] · [[indianization-of-southeast-asia]] · [[indian-ocean-trade]] ·
-[[southeast-asian-age-of-commerce]] · [[hinduism]] · [[buddhism]] ·
+[[southeast-asian-age-of-commerce]] · [[women-in-precolonial-southeast-asia]] ·
+[[debt-bondage-in-southeast-asia]] · [[hinduism]] · [[buddhism]] ·
 [[coe-angkor-khmer-civilization-2018]] · [[reid-southeast-asia-age-of-commerce-v1-1988]]
