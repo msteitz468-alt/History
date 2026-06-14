@@ -2457,3 +2457,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 ingest | Seymour Drescher, Abolition: A History of Slavery and Antislavery (2009) | Early Modern–Cold War | atlantic-world, global | Pages created: 2 (drescher-abolition, williams-thesis-abolition-debate) | Pages updated: 1 (abolition-of-slavery) | closes slavery/abolition loop; econocide + reversion theses
 
 ## 2026-06-14 placeholder | Cambridge History of Ancient China (Loewe & Shaughnessy, 1999) | TOC-ONLY (text not in collection — OCR-test stub only) | Pages created: 1 (source placeholder w/ Section Plan) | Pages updated: 0 | NOT a content ingest; awaiting full text
+
+## 2026-06-14 ingest | Basil Davidson, The African Past (1964) | antiquity–colonial | sub-saharan-africa | Pages created: 2 (african-historiography, davidson-the-african-past) | Pages updated: 2 (swahili-coast, mali-empire) | primary-source anthology; gap region

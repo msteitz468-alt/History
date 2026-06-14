@@ -9,8 +9,8 @@ affiliated_with: [[[trans-saharan-trade]], [[islam]], "the Mande/Mandinka (Mandi
 opposed_by: [[[ghana-empire|the declining Ghana/Wagadu]], "the Sosso kingdom", "the Mossi", "later Songhay and Tuareg"]
 key_events: ["the battle of Kirina (c. 1235)", "Mansa Musa's pilgrimage to Mecca (1324)"]
 key_processes: [[[trans-saharan-trade]], [[state-formation]], [[islam]], [[afro-eurasian-world-system]]]
-sources_ingested: 6
-last_updated: 2026-06-13
+sources_ingested: 7
+last_updated: 2026-06-14
 tags: [actor, empire, high-middle-ages, late-middle-ages, west-africa]
 ---
 
@@ -155,3 +155,6 @@ and slave officials** (the crown the largest slaveholder) — a structure inheri
 - [[jenne-jeno]], [[swahili-coast]] — West and East African trade urbanism.
 - [[islam]] — adopted by the elite through trade.
 - [[cambridge-history-of-africa-v3]] — Cambridge History of Africa Vol. 3 (1977) on the western Sudanic empires (parallel to GHA).
+- [[davidson-the-african-past|Davidson, *The African Past*]] — the documentary record: **Ibn
+  Battuta's** eyewitness account of Mali (1352–53), **Ibn Khaldun** on the Mansas, and **Leo
+  Africanus** on Timbuktu; see [[african-historiography]] for the source base.

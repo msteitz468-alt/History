@@ -7,8 +7,8 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [Swahili city-states, Kilwa Sultanate]
 events_here: []
 processes_here: [[[indian-ocean-trade]], [[trans-saharan-trade]]]
-sources_ingested: 8
-last_updated: 2026-06-12
+sources_ingested: 9
+last_updated: 2026-06-14
 tags: [place, east-africa, indian-ocean, high-middle-ages]
 ---
 
@@ -139,7 +139,19 @@ and the early Bantu and Cushitic settlement of the hinterland.
 
 ## Related
 
-- Source: [[gha-vol2-ancient-civilizations|GHA Vol. II]] (ancient Azania) · [[reader-africa-biography|Reader, *Africa: A Biography*]] · [[sub-saharan-africa]]
+## The documentary record (Davidson)
+
+The coast is among the best-documented regions of pre-colonial sub-Saharan Africa, and
+[[davidson-the-african-past|Davidson's *The African Past*]] gathers the key witnesses: the
+Greco-Roman ***Periplus of the Erythraean Sea*** (1st c. CE) describing the early "Azanian" trade;
+the tenth-century Arab geographer **al-Mas'udi**; **Ibn Battuta**, who visited **Kilwa** in 1331 and
+judged it one of the most beautifully built towns he had seen; the **Kilwa Chronicle** (the town's
+own dynastic history of Shirazi origins and its mastery of the Sofala gold trade); and the
+**Portuguese** accounts of the coast they sacked after 1500. Together they exemplify the
+combination of foreign and indigenous written sources central to [[african-historiography|African
+historiography]].
+
+- Source: [[davidson-the-african-past|Davidson, *The African Past*]] (the primary chronicles) · [[gha-vol2-ancient-civilizations|GHA Vol. II]] (ancient Azania) · [[reader-africa-biography|Reader, *Africa: A Biography*]] · [[sub-saharan-africa]]
 - Process: [[indian-ocean-trade]] · [[trans-saharan-trade]] (the African counterpart inland)
 - Concept/Actor: [[islam]] · [[aksum]] (the earlier Red Sea trading state)
 - Places: [[great-zimbabwe|Great Zimbabwe]] (the inland gold source) · [[jenne-jeno]] (West African trade city) · [[zheng-he]] (the Ming voyages)
