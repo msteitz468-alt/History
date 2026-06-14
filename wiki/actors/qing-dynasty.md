@@ -9,8 +9,8 @@ affiliated_with: [the Manchus (Jurchen), the Banner system, the Confucian-bureau
 opposed_by: [the Ming & "Southern Ming" loyalists, the Mongols, the western powers (Opium Wars), the Taiping & other rebels, the 1911 revolutionaries]
 key_events: ["Nurhaci's unification of the Jurchen & the Banners (1616)", "the renaming as Manchu/Qing (1636)", "the conquest of Beijing (1644)", "the Kangxi & Qianlong high Qing", "the 1911 Revolution"]
 key_processes: [the Manchu conquest, the expansion to China's greatest extent, the high-Qing prosperity, the 19th-century crisis]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [actor, dynasty, early-modern, china, east-asia]
 ---
 
@@ -75,3 +75,5 @@ in Confucian style.
 - [[ming-dynasty]] — the dynasty it conquered; [[mongol-empire]] — the earlier conquest dynasty (Yuan) it echoed.
 - [[china]] — the realm it brought to its greatest extent; [[confucianism]] · [[neo-confucianism]] — the order it adopted.
 - [[han-dynasty]] · [[tang-dynasty]] · [[song-dynasty]] — the other "great dynasties"; [[opium-wars|the Opium Wars]] — its 19th-century crisis.
+- The [[cambridge-history-of-china|CHC]] Late Qing volume anchors the crisis sequence: the [[taiping-rebellion|Taiping Rebellion]] → the [[self-strengthening-movement|Self-Strengthening Movement]] (technology-only reform, ti-yong) → its failure in 1894–95 → the [[boxer-rebellion|Boxer Rebellion]] (1899–1901) → the [[fall-of-the-qing-1911|1911 Revolution]].
+- [[cambridge-history-of-china]] — the source (Late Qing volume).
