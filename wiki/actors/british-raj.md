@@ -9,8 +9,8 @@ affiliated_with: ["the British Empire", "the English-educated Indian class", "th
 opposed_by: ["the 1857 rebels", "the [[indian-national-congress|national movement]]"]
 key_events: ["Cornwallis's Permanent Settlement (1793)", "Wellesley's subsidiary alliances", "Bentinck's reforms (suttee abolition, English education)", "Dalhousie's annexations", "the transfer to the Crown (1858)"]
 key_processes: ["[[state-formation]]", "westernization & English education", "economic restructuring (the 'drain')"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [actor, state, long-19th-century, south-asia]
 ---
 
@@ -71,6 +71,6 @@ spine to be balanced by those later readings as further sources are ingested.
 
 ## Related pages
 
-[[english-east-india-company]] · [[battle-of-plassey-1757]] · [[indian-rebellion-1857]] ·
-[[mughal-empire]] · [[indian-national-congress]] · [[mahatma-gandhi]] · [[south-asia]] ·
-[[spear-history-of-india-v2-1965]]
+[[english-east-india-company]] · [[battle-of-plassey-1757]] · [[battle-of-buxar-1764]] ·
+[[indian-rebellion-1857]] · [[mughal-empire]] · [[indian-national-congress]] · [[mahatma-gandhi]] ·
+[[south-asia]] · [[spear-history-of-india-v2-1965]] · [[cambridge-history-of-india-v5]]

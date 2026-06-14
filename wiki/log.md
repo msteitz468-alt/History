@@ -2445,3 +2445,8 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 ingest-complete | The Cambridge History of War, Vols II & IV | Total pages created: 4 | Total pages updated: 3 | Sections processed: 2
 
 ## 2026-06-14 supplement | NCMH IV (luscombe-ncmh-v4-2004, already ingested 2026-06-12) | added concordat-of-worms-1122 + scholasticism (folded-in pages now broken out) | Pages created: 2 | Pages updated: 3 | NOTE: duplicate source page created in error was removed
+
+## 2026-06-14 ingest | Cambridge History of India, Vol. III: Turks and Afghans (Haig, 1928) | Late Middle Ages | south-asia | Pages created: 2 (alauddin-khalji, muhammad-bin-tughluq) | Pages updated: 2 | dated 1928 ref, read critically; gap region
+## 2026-06-14 ingest | Cambridge History of India, Vol. IV: The Mughul Period (Burn, 1937) | Early Modern | south-asia | Pages created: 2 (babur, sher-shah-suri) | Pages updated: 1 | dated 1937 ref, read critically; gap region
+## 2026-06-14 ingest | Cambridge History of India, Vol. V: British India 1497–1858 (Dodwell, 1929) | Age of Expansion | south-asia | Pages created: 1 (battle-of-buxar-1764) | Pages updated: 3 | dated/imperial 1929 ref, read critically; gap region
+## 2026-06-14 ingest-complete | The Cambridge History of India, Vols III–V | Total pages created: 5 | Total pages updated: 6 | medieval-to-colonial India spine (flagged weak region)

@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["the Company's abuse of trade privileges & the fortification of Calcutta", "Siraj-ud-daula's seizure of Calcutta (1756) & the 'Black Hole' incident", "Clive's conspiracy with disaffected Bengali nobles and financiers against the Nawab"]
 consequences: ["Company control of [[bengal|Bengal]] via the puppet Nawab Mir Jafar", "the 'financial bleeding of Bengal'", "the [[english-east-india-company|diwani]] grant (1765) and the foundation of British territorial dominion in India"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [event, age-of-expansion, south-asia]
 ---
 
@@ -63,5 +63,7 @@ British rule, a theme later nationalist and economic historiography would develo
 
 ## Related pages
 
-[[english-east-india-company]] · [[mughal-empire]] · [[maratha-empire]] · [[british-raj]] ·
-[[south-asia]] · [[spear-history-of-india-v2-1965]]
+- `followed_by:` [[battle-of-buxar-1764]] — the 1764 victory and the diwani grant (1765) that
+  completed Plassey's work and made the Company a territorial sovereign ([[cambridge-history-of-india-v5|CHI Vol. V]]).
+- [[english-east-india-company]] · [[mughal-empire]] · [[maratha-empire]] · [[british-raj]] ·
+[[south-asia]] · [[spear-history-of-india-v2-1965]] · [[cambridge-history-of-india-v5]]

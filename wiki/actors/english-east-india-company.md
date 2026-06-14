@@ -9,8 +9,8 @@ affiliated_with: [the English (later British) Crown and Parliament]
 opposed_by: [Dutch East India Company, Portuguese Estado da India, French Compagnie des Indes, Mughal successor states, Mysore (Tipu Sultan)]
 key_events: [chartering (1600), first joint-stock for multiple voyages (1613), restructurings (1657, 1693, 1709), conquest of Bengal (from 1757), defeat of Tipu Sultan (1799)]
 key_processes: [early-modern-commerce, indian-ocean-trade, global-silver-trade]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-14
 tags: [actor, organization, early-modern, south-asia]
 ---
 
@@ -103,3 +103,17 @@ as a **transitional, hybrid company-state** whose power rested on military force
 as much as on finance and management. Its trajectory from trade to territorial
 rule makes it the prime case study for the early modern entanglement of commerce,
 sovereignty, and empire. See [[trade-diaspora]] and [[dutch-east-india-company]].
+
+## The conquest of Bengal (CHI Vol. V)
+
+The [[cambridge-history-of-india-v5|Cambridge History of India, Vol. V]] (Dodwell, 1929) supplies
+the detailed conquest chronology. The Company's territorial empire was founded in **Bengal** in two
+steps: **[[battle-of-plassey-1757|Plassey (1757)]]** made it the kingmaker behind puppet nawabs,
+and **[[battle-of-buxar-1764|Buxar (1764)]]** — a straight victory over the combined armies of the
+deposed Mir Kasim, the Nawab of Awadh, and the Mughal emperor Shah Alam II — won the **diwani**
+(the Treaty of Allahabad, 1765: the revenue administration of Bengal, Bihar, and Orissa). The
+Company thereafter governed and taxed as a sovereign behind a Mughal fiction, funding its further
+conquests (against Mysore, the [[maratha-empire|Marathas]], Sind, and the Punjab) from Indian
+revenue, until the [[indian-rebellion-1857|Rebellion of 1857]] ended Company rule and the
+[[british-raj|Crown]] took over (1858). (CHI Vol. V is a dated imperial-era reference, used
+critically.)
