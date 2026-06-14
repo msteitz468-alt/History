@@ -2410,3 +2410,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 ingest-complete | The Cambridge History of Africa, Vols 1–8 (Fage & Oliver, gen. eds.) | Total pages created: 0 (8 source pages) | Total pages updated: 14 | parallel authority to UNESCO GHA; PDFs via pdftotext
 
 ## 2026-06-13 section | New Cambridge Modern History (Modern) | Vol. II: The Reformation 1520–1559 (Elton, ed.) | Early Modern | europe | Pages created: 1 | Pages updated: 1
+
+## 2026-06-13 section | New Cambridge Modern History (Modern) | Vol. III: Counter-Reformation & Price Revolution 1559–1610 (Wernham, ed.) | Early Modern | europe | Pages created: 1 | Pages updated: 1

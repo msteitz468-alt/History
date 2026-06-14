@@ -8,7 +8,7 @@ region: [mediterranean, western-europe, iberia, italy, atlantic-world]
 process_type: religious
 driven_by: [the Protestant challenge, late-medieval reform movements, the papacy and new religious orders, Catholic monarchies]
 produces: [the Council of Trent's reforms, the Jesuits and other new orders, a disciplined reformed clergy, global Catholic missions, the confessional state]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [process, early-modern, mediterranean, western-europe]
 ---
@@ -73,3 +73,4 @@ America]].)
   `part_of:` the [[eire-reformations|age of the Reformations]] and the [[early-modern|early modern world]].
 - `produced:` the Council of Trent, the Jesuits, global Catholic missions, the confessional state.
 - [[sakoku]] · [[edo-period]] · [[toyotomi-hideyoshi]] — the Japanese suppression of the mission.
+- [[new-cambridge-modern-history-v3]] — NCMH Modern Vol. III (1559–1610) on the Counter-Reformation's consolidation after Trent and the confessional age.
