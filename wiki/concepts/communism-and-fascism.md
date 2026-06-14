@@ -5,8 +5,8 @@ origin: Communism descends from Marx (mid-19th c.), via Lenin's Russian Revoluti
 applies_to_periods: [World Wars Era, Cold War]
 applies_to_regions: [global, eastern-europe, western-europe, east-asia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [concept]
 ---
 
@@ -100,5 +100,9 @@ Nolte, Robert Paxton, Roger Griffin.
 
 ## Related pages
 
-[[genocide]] · [[nationalism]] · [[world-wars-era]] · [[cold-war]] ·
-[[decolonization]] · [[technology-and-innovation]] · [[population-politics]]
+[[russian-revolution-1917]] · [[great-depression]] · [[genocide]] · [[nationalism]] · [[world-wars-era]] · [[cold-war]] ·
+[[decolonization]] · [[technology-and-innovation]] · [[population-politics]] · [[new-cambridge-modern-history-v12]]
+
+*The origins now have dedicated pages: the [[russian-revolution-1917|Russian Revolution]] (the
+birth of communism) and the [[great-depression]] (the crisis that brought the fascists to
+power), both from the [[new-cambridge-modern-history-v12|New Cambridge Modern History, Vol. XII]].*

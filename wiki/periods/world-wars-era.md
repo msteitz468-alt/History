@@ -5,8 +5,8 @@ date_range: 1914–1945 CE
 regions_covered: [global, western-europe, eastern-europe, east-asia, near-east, north-america, africa]
 major_themes: [total war, the return of global war, genocide, communism and fascism, the Great Depression, the second demographic and industrial surge, decolonization's prelude]
 collection_coverage: moderate
-sources_ingested: 4
-last_updated: 2026-06-10
+sources_ingested: 5
+last_updated: 2026-06-14
 tags: [period]
 ---
 
@@ -105,8 +105,11 @@ bombings, and whether 1914 or 1945 marks the sharper twentieth-century break.
 Rests on [[mcneill-cwh-v7-2015|CWH VII Book 1]] (chapters on energy/environment,
 genocide, communism and fascism, and the regional surveys). Coverage is **moderate
 and thematic**: strong on the structural reading of destruction and ideology, thin
-on operational and diplomatic narrative. No dedicated event pages yet exist for
-either world war, the Russian Revolution, the Holocaust, or the Great Depression —
-all priorities. CWH VII **Book 2 is absent from the collection**, so the social and
-cultural experience of the era (and Richard Overy's dedicated war chapter, which
+on operational and diplomatic narrative. Dedicated event pages now exist for the
+**[[first-world-war-1914|First]]** and **[[second-world-war-1939|Second World Wars]]**, the
+**[[russian-revolution-1917|Russian Revolution]]**, and the **[[great-depression|Great
+Depression]]** — the last two built from the **[[new-cambridge-modern-history-v12|New Cambridge
+Modern History, Vol. XII]]** (with the Russian Revolution chapter deep-read). A dedicated
+**Holocaust** page remains a priority. CWH VII **Book 2 is absent from the collection**, so the
+social and cultural experience of the era (and Richard Overy's dedicated war chapter, which
 sits in Book 2) is not yet covered.
