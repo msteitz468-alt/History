@@ -5,8 +5,8 @@ origin: "As an academic discipline, world history coalesced from the 1960s and e
 applies_to_periods: ["Classical Antiquity", "Late Antiquity", "Early Middle Ages", "High Middle Ages", "Late Middle Ages", "Early Modern", "Age of Expansion", "Long 19th Century", "World Wars Era", "Cold War", "Contemporary"]
 applies_to_regions: [global]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-14
 tags: [concept, historiographical, global]
 ---
 
@@ -133,3 +133,8 @@ central insight of Part I: world history is "nothing new."
 `contrasts_with: [[big-history]]`
 `analogous_to: [[periodization-world-history]]`
 `analogous_to: [[divergence-convergence]]`
+
+*The [[new-cambridge-modern-history-v13|New Cambridge Modern History, Companion Volume]] (Burke,
+ed., 1979) reflects on "the evolution of world history, 1493–1945" — the historiography and the
+demographic/economic/social structures underlying the modern period — a mid-20th-century example
+of the field reflecting on how it writes the modern world.*

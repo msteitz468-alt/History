@@ -2430,3 +2430,6 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 section | New Cambridge Modern History (Modern) | Vol. XI: Material Progress & World-Wide Problems 1870–98 (Hinsley, ed.) | Long 19th Century | europe, global | Pages created: 2 | Pages updated: 1 | deep-read (new-imperialism grounded in chapter text; 2nd-industrial-rev lighter)
 
 ## 2026-06-14 section | New Cambridge Modern History (Modern) | Vol. XII: Shifting Balance of World Forces 1898–1945 (Mowat, ed.) | World Wars Era | global | Pages created: 2 | Pages updated: 2 | deep-read (Russian Revolution grounded in Deutscher chapter; Depression lighter)
+
+## 2026-06-14 section | New Cambridge Modern History (Modern) | Vol. XIII: Companion Volume (Burke, ed., 1979) | thematic/reference | europe | Pages created: 0 | Pages updated: 1 | light-touch
+## 2026-06-14 ingest-complete | The New Cambridge Modern History (Modern series), Vols I–XIII (+ CMH IX Napoleon) | series complete | europe/global | fills Early-Modern→Modern Europe gap
