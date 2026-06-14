@@ -5,7 +5,7 @@ origin: A 20th-century concept (the term popularized by Erich Ludendorff's *Der 
 applies_to_periods: [World Wars Era, Long 19th Century]
 applies_to_regions: [transregional]
 contested: yes
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-14
 tags: [concept]
 ---
@@ -66,3 +66,4 @@ whole), and frames the trajectory from 1914 toward the even more total violence 
 - [[winter-cambridge-history-first-world-war-v1]] · [[winter-cambridge-history-first-world-war-v2]] — the sources; [[strategy]] — the broader analysis of war aims and means.
 - [[nuclear-arms-race]] — the ultimate horizon of total war (mutual annihilation) in the [[cold-war|Cold War]].
 - [[industrialization-of-warfare]] — the underlying process (industrialization + bureaucratization + nationalism) of which total war is the 1914–45 culmination ([[cambridge-history-of-war-v4|CHW Vol. 4]]).
+- [[war-economy]] · [[strategic-bombing-campaign]] · [[the-holocaust]] — the WWII total-war complex (economy, the air war, and the genocidal extreme), per [[cambridge-history-second-world-war-v3|CHSWW Vol. III]] (Geyer & Tooze): total war "overwhelms and eats up society."

@@ -8,8 +8,8 @@ region: [western-europe, eastern-europe, north-america, transregional]
 process_type: [economic, political]
 driven_by: [the insatiable material demands of [[total-war]], the munitions crisis, mass conscription, the failure of the market to allocate war resources]
 produces: [the command/managed war economy, the lasting expansion of the state, planning precedents for the 1930s and the Second World War, postwar economic instability]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [process, world-wars-era, western-europe]
 ---
 
@@ -81,8 +81,32 @@ interventions of the 1930s, and above all the still-greater mobilization of the
 [[second-world-war-1939|Second World War]]. The financial dislocations it left seeded the
 instability of the interwar global economy.
 
+## The Second World War economy (Tooze / CHSWW Vol. III)
+
+The pattern recurred on a far greater scale in the **[[second-world-war-1939|Second World War]]**,
+the subject of the [[cambridge-history-second-world-war-v3|Cambridge History of the Second World
+War, Vol. III]] (Geyer & **Adam Tooze**), framed as the "**war of the factories**." Its central
+analytical points:
+
+- **Material preponderance decided the war.** The Allied coalition (above all the **United States**,
+  the "arsenal of democracy," with the USSR and the British Empire) commanded a crushing
+  superiority in GDP, coal, oil, steel, and food. The resource-poor Axis — Germany short of **oil**
+  and food, Japan dependent on vulnerable **sea transport** — could not match Allied output once
+  the war became a prolonged contest of production.
+- **Tooze's *Wages of Destruction* thesis.** Nazi Germany was *not* the rich, smoothly efficient
+  war machine of legend but a comparatively **resource-constrained** economy gambling on rapid
+  conquest to escape its limits; its plunder, slave labour, and "**destruction through labour**"
+  were attempts to square an impossible material balance — and a direct link between the war economy
+  and the genocidal exploitation of the [[the-holocaust|occupied East]].
+- **Total mobilization of society.** As Geyer and Tooze put it, total war "overwhelms and eats up
+  society": forced and foreign labour, the displacement of millions, rationing, the agrarian crisis,
+  and the bombing of the industrial cities (see [[strategic-bombing-campaign]]) made the whole
+  population a war resource and a war target.
+
 ## Related
 
 - [[total-war]] — the concept this realizes on the home front; [[first-world-war-1914]] — the war.
 - [[world-wars-era]] — the period; [[second-world-war-1939]] — where the pattern recurred at greater scale.
+- [[strategic-bombing-campaign]] · [[the-holocaust]] — the air war on the economy, and the genocidal extreme of "destruction through labour."
+- [[winter-cambridge-history-first-world-war-v2]] · [[cambridge-history-second-world-war-v3]] — the sources.
 - [[winter-cambridge-history-first-world-war-v2]] — the source.

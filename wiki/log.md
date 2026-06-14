@@ -2465,3 +2465,7 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 ingest-complete | The Oxford Handbook of Early Modern European History, 1350–1750 (Vols I & II) | Total pages created: 4 | Total pages updated: 3 | thematic handbook; filled science/state/court/consumption gaps
 
 ## 2026-06-14 ingest | Felipe Guamán Poma de Ayala, Nueva corónica y buen gobierno (c. 1615; Pease ed., Tomo I — PRIMARY) | Early Modern | andes | Pages created: 2 (guaman-poma-de-ayala, guaman-poma-nueva-coronica) | Pages updated: 1 (encomienda) | indigenous-Andean primary source; gap region; last Americas-gap item
+
+## 2026-06-14 ingest | Cambridge History of the Second World War, Vol. I: Fighting the War (Ferris & Mawdsley, 2015) | World Wars Era | global | Pages created: 1 (strategic-bombing-campaign) | Pages updated: 1 (second-world-war-1939) | hybrid-light; military/strategic
+## 2026-06-14 ingest | Cambridge History of the Second World War, Vol. III: Total War: Economy, Society and Culture (Geyer & Tooze, 2015) | World Wars Era | global | Pages created: 1 (the-holocaust) | Pages updated: 2 (war-economy, total-war) | deep; Tooze economic scholarship
+## 2026-06-14 ingest-complete | The Cambridge History of the Second World War (Vols I & III; Vol II absent) | Total pages created: 4 | Total pages updated: 3 | filled Holocaust + strategic-bombing gaps; WWII war economy (Tooze)
