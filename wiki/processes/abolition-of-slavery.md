@@ -8,7 +8,7 @@ region: [atlantic-world, caribbean, eastern-north-america, southern-cone, west-a
 process_type: [ideological, political, economic, social]
 driven_by: ["evangelical and Enlightenment moral revolution", "enslaved resistance and revolution (Haiti)", "British state and naval power", "free-labour ideology and political economy", "economic change in the industrialising core"]
 produces: ["the end of the legal Atlantic slave trade and of New World slavery", "the emancipation of the European serfs", "indentured 'coolie' migration as a substitute labour system", "the international anti-slavery regime", "the framing of slavery as a crime against humanity"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-14
 tags: [process, long-19th-century, atlantic-world]
 ---
@@ -87,22 +87,39 @@ of industrial free-labour economies]], and [[new-imperialism|European colonialis
 (which justified itself partly as anti-slavery while imposing new forced labour). It produced the
 modern international **human-rights** framing of slavery as a crime against humanity.
 
+## Drescher's cycle: extension → crisis → contraction → reversion
+
+[[drescher-abolition|Seymour Drescher's *Abolition*]] (2009) — the standard synthesis — frames the
+whole history as a **cycle** rather than a linear ascent. Slavery underwent a vast early-modern
+**extension** (to its Atlantic peak); a revolutionary-era **crisis** (the American, French/
+[[haitian-revolution-1791|Haitian]], and Latin American revolutions, and British abolitionism
+"without revolution"); a nineteenth-century **contraction** (the emancipations); and — crucially —
+a twentieth-century **reversion**. The reversion thesis is Drescher's most arresting contribution:
+the twentieth century saw coerced labour return on a massive scale — the **Soviet Gulag**, **Nazi
+forced labour and camps**, and other totalitarian and colonial systems — so the nineteenth-century
+abolitions were **not an irreversible triumph** but one swing of a recurring pendulum. He also
+stresses that British abolition rested on an **unprecedented popular mobilisation** (mass
+petitions, boycotts, public opinion) — the first sustained humanitarian movement around the
+suffering of distant strangers.
+
 ## End Conditions
 
 Legal chattel slavery was effectively abolished worldwide by the late twentieth century, but the
-process **has no clean end**: Vol. 4 closes on twentieth- and twenty-first-century **coerced
-labour** — forced labour under colonial and totalitarian regimes, debt bondage, gendered
+process **has no clean end**. The dedicated [[cambridge-world-history-slavery-v4|CWHS Vol. 4]] and
+Drescher alike close on twentieth- and twenty-first-century **coerced labour** — forced labour
+under colonial and totalitarian regimes (Drescher's "reversion"), debt bondage, gendered
 servitude, and contemporary **human trafficking** ("modern slavery"), which by some estimates
 binds more people than the historical Atlantic trade ever did.
 
 ## Historiography
 
-The central debate is **why slavery ended while still profitable**:
+The central debate is **why slavery ended while still profitable** — the **Williams thesis vs.
+Drescher's econocide**, now treated on its own page: [[williams-thesis-abolition-debate]].
 - **Eric Williams** (*Capitalism and Slavery*, 1944) argued abolition followed the **economic
   decline** of the West Indian sugar economy — slavery was abandoned because it had ceased to pay.
-- **Seymour Drescher** (*Econocide*, 1977; co-editor of this volume) demolished the decline
-  thesis with the data: the British slave system was **expanding and profitable** when abolished
-  — abolition was therefore an act of moral and political will against economic interest
+- **Seymour Drescher** (*Econocide*, 1977; *[[drescher-abolition|Abolition]]*, 2009) demolished the
+  decline thesis with the data: the British slave system was **expanding and profitable** when
+  abolished — abolition was therefore an act of moral and political will against economic interest
   ("econocide"), not a rationalisation of decline.
 - This Williams–Drescher axis still structures the field, alongside work foregrounding **enslaved
   agency** (Haiti and slave resistance as causes, not just beneficiaries, of abolition) and the
@@ -115,5 +132,6 @@ The central debate is **why slavery ended while still profitable**:
 `contrasts_with: [[atlantic-slave-trade]]`
 
 *From [[cambridge-world-history-slavery-v4|The Cambridge World History of Slavery, Vol. 4]]
-(Eltis, Engerman, Drescher & Richardson, 2017). To be cross-checked against Drescher's standalone
-*Abolition* (in the ingest queue).*
+(Eltis, Engerman, Drescher & Richardson, 2017) and [[drescher-abolition|Seymour Drescher,
+*Abolition: A History of Slavery and Antislavery*]] (2009) — the two cross-checked and consonant
+(Drescher co-edited Vol. 4). See [[williams-thesis-abolition-debate]].*

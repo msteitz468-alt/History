@@ -2453,3 +2453,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 
 ## 2026-06-14 ingest | The Bāburnāma (Babur, trans. Beveridge — PRIMARY) | Early Modern | south-asia, central-asia | Pages created: 1 (baburnama) | Pages updated: 1 (babur) | deep-read primary; gap region
 ## 2026-06-14 ingest | William Dalrymple, The Last Mughal (2006) | Long 19th Century | south-asia | Pages created: 2 (dalrymple-the-last-mughal, bahadur-shah-zafar) | Pages updated: 1 (indian-rebellion-1857) | deep-read; Mutiny-Papers Delhi account; gap region
+
+## 2026-06-14 ingest | Seymour Drescher, Abolition: A History of Slavery and Antislavery (2009) | Early Modern–Cold War | atlantic-world, global | Pages created: 2 (drescher-abolition, williams-thesis-abolition-debate) | Pages updated: 1 (abolition-of-slavery) | closes slavery/abolition loop; econocide + reversion theses
