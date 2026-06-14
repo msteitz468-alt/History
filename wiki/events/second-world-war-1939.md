@@ -13,8 +13,8 @@ scale_immediate: global
 scale_consequential: global
 causes: [[[causes-of-the-second-world-war|see the origins controversy]], the unresolved legacies of [[first-world-war-1914|1914–18]] and Versailles, [[communism-and-fascism|Nazi and fascist expansionism]], the Great Depression, the failure of collective security]
 consequences: [~60 million dead, the Holocaust, the defeat of fascism, the [[1945-postwar-order|postwar order]] and the United Nations, the [[cold-war|Cold War]] and the US–Soviet superpower duopoly, [[decolonization]], the nuclear age]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-06-14
 tags: [event, world-wars-era, transregional]
 ---
 
@@ -61,8 +61,23 @@ Debate concentrates on **origins** (see [[causes-of-the-second-world-war]]), on 
 bombing and the atomic bombs**, and on the relative weight of the Eastern Front, long underplayed in
 Western narratives that Beevor and others have corrected.
 
+## The war as coalition and total war (CHSWW)
+
+The [[cambridge-history-second-world-war-v1|Cambridge History of the Second World War]] frames the
+conflict as, above all, a **coalition war decided by the matching of strategy to resources** across
+global theatres (Vol. I, *Fighting the War*) and as the supreme **[[total-war]]** that "overwhelms
+and eats up society" (Vol. III, *Total War: Economy, Society and Culture*, Geyer & Tooze). Two
+strands the wiki now develops from it: the **[[strategic-bombing-campaign|strategic bombing
+campaign]]** (the air war against the enemy's economy and cities) and the **[[war-economy|war
+economy]]** — where the Allies' overwhelming material preponderance, mobilised through the
+[[total-war]] state, ground down the resource-poor Axis. Its catastrophic core, the
+**[[the-holocaust|Holocaust]]**, is treated as both genocide and the extreme of the war's
+"destruction through labour" and displacement. (The series' Vol. II, *Politics and Ideology*, is
+absent from the collection.)
+
 ## Related pages
 
 [[causes-of-the-second-world-war]] · [[beevor-second-world-war]] · [[taylor-origins-second-world-war]] ·
+[[strategic-bombing-campaign]] · [[the-holocaust]] · [[war-economy]] · [[total-war]] ·
 [[first-world-war-1914]] · [[1945-postwar-order]] · [[cold-war]] · [[genocide]] ·
-[[communism-and-fascism]]
+[[communism-and-fascism]] · [[cambridge-history-second-world-war-v1]] · [[cambridge-history-second-world-war-v3]]
