@@ -9,8 +9,8 @@ affiliated_with: [[[neo-confucianism]], [[confucianism]], [[afro-eurasian-world-
 opposed_by: ["the Khitan Liao", "the Tangut Xixia", "the Jurchen Jin", [[mongol-empire|the Mongols]]]
 key_events: ["the founding of the Song (960)", "the loss of the north to the Jin (1127)", "the Mongol conquest (1279)"]
 key_processes: [[[afro-eurasian-world-system]], [[commercial-revolution]], [[state-formation]], [[cultural-crystallization]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [actor, dynasty, high-middle-ages, china, east-asia]
 ---
 
@@ -82,6 +82,7 @@ follow.
 
 - [[neo-confucianism]] — the intellectual order revitalized under the Song.
 - [[tang-dynasty]], [[sui-dynasty]] — the preceding reunification and apogee.
-- [[mongol-empire]] — the conqueror of the Southern Song (1279).
+- [[mongol-empire]] · [[yuan-dynasty]] · [[kublai-khan]] — the conquerors of the Southern Song (1279). The [[cambridge-history-of-china|CHC]] Vol. 6 frames the Song as ringed and ultimately overrun by the steppe **"conquest dynasties"** (Liao, Xi Xia, Jin, then the Mongol Yuan).
 - [[commercial-revolution]], [[afro-eurasian-world-system]] — the economy the Song anchored.
 - [[cultural-crystallization]] — the 10th–13th c. reorientation in which Song China is a principal case.
+- [[cambridge-history-of-china]] — the source (Alien Regimes volume, on the Song's conquerors).

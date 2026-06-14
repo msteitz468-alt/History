@@ -9,8 +9,8 @@ affiliated_with: [[[pastoral-nomadism]], "the Chinggisid line", "the Yuan, Ilkha
 opposed_by: [[[song-dynasty|Southern Song]], [[abbasid-caliphate|Abbasid Caliphate]], "the Mamluks", "Japan", "the Delhi Sultanate"]
 key_events: ["the conquest of the Jin and Xixia", "the sack of Baghdad (1258)", "the conquest of Song China (1279)", "the division into four khanates"]
 key_processes: [[[afro-eurasian-world-system]], [[pastoral-nomadism]], [[silk-roads]], [[state-formation]]]
-sources_ingested: 5
-last_updated: 2026-06-13
+sources_ingested: 6
+last_updated: 2026-06-14
 tags: [actor, empire, high-middle-ages, late-middle-ages, steppe, central-asia]
 ---
 
@@ -157,5 +157,6 @@ across the sea.
 - [[golden-horde]] · [[ilkhanate]] — the two successor khanates with dedicated pages.
 - [[afro-eurasian-world-system]], [[silk-roads]] — the exchange networks the Pax Mongolica integrated.
 - [[mongol-invasions-of-japan-1274-1281]] — the failed seaborne invasions (the limit of expansion).
+- [[yuan-dynasty]] · [[kublai-khan]] — the empire's East Asian successor state, the Mongol dynasty of China ([[cambridge-history-of-china|CHC]] Vol. 6).
 - [[timur]], [[ming-dynasty]] — the successor and reaction states (to be developed).
 - [[state-formation]], [[empire]] — the comparative frames (Arnason, Ch 18).
