@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["the cumulative unease at aggressive [[british-raj|westernizing]] reform & Dalhousie's annexations (Oudh, the doctrine of lapse)", "sepoy grievances (overseas service, status)", "the greased-cartridge incident (cow & pig fat)"]
 consequences: ["the abolition of the East India Company & transfer of India to the British Crown (1858)", "post-Mutiny caution: respect for the 'established classes' and slower westernization", "the recasting of the army; the long-run shift of Indian hopes to the new English-educated class"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [event, long-19th-century, south-asia]
 ---
 
@@ -68,7 +68,23 @@ historiography contests, reclaiming 1857 as a proto-national uprising.)
   education in the next generation, now driven from the Indian side. The road to the
   [[indian-national-congress|national movement]] runs from here.
 
+## Delhi 1857 and the last Mughal (Dalrymple)
+
+[[dalrymple-the-last-mughal|William Dalrymple's *The Last Mughal*]] (2006) retells the revolt from
+**Delhi** and the court of the last emperor **[[bahadur-shah-zafar|Bahadur Shah Zafar]]**, using
+the Persian/Urdu **"Mutiny Papers"** — the rebel city's own records — to recover the uprising from
+the Indian side. The mutinous Meerut sepoys made the aged, powerless poet-emperor their figurehead
+in May 1857; the **legitimacy of the Mughal crown** was what briefly bound Hindu and Muslim rebels,
+sepoys and *jihadi* preachers, together. Dalrymple's interpretive theses (recorded here as
+**positions**, not settled fact): the revolt had a serious **religious dimension** (the *ghazis*
+and "Wahhabi"-influenced clerics preaching jihad alongside material grievances), and it was a
+reaction to the increasingly **aggressive, evangelising, racially exclusive** late Company. The
+British **recapture of Delhi (September 1857)** brought a savage sack, mass executions, the shooting
+of the Mughal princes, and Zafar's trial and **exile to Rangoon** — the deliberate extinction of
+the dynasty of [[babur|Babur]]. (Set beside Spear's interpretation above.)
+
 ## Related pages
 
-[[british-raj]] · [[english-east-india-company]] · [[mughal-empire]] · [[maratha-empire]] ·
-[[indian-national-congress]] · [[south-asia]] · [[spear-history-of-india-v2-1965]]
+[[bahadur-shah-zafar]] · [[british-raj]] · [[english-east-india-company]] · [[mughal-empire]] ·
+[[maratha-empire]] · [[indian-national-congress]] · [[south-asia]] ·
+[[spear-history-of-india-v2-1965]] · [[dalrymple-the-last-mughal]]

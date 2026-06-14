@@ -2450,3 +2450,6 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 ingest | Cambridge History of India, Vol. IV: The Mughul Period (Burn, 1937) | Early Modern | south-asia | Pages created: 2 (babur, sher-shah-suri) | Pages updated: 1 | dated 1937 ref, read critically; gap region
 ## 2026-06-14 ingest | Cambridge History of India, Vol. V: British India 1497–1858 (Dodwell, 1929) | Age of Expansion | south-asia | Pages created: 1 (battle-of-buxar-1764) | Pages updated: 3 | dated/imperial 1929 ref, read critically; gap region
 ## 2026-06-14 ingest-complete | The Cambridge History of India, Vols III–V | Total pages created: 5 | Total pages updated: 6 | medieval-to-colonial India spine (flagged weak region)
+
+## 2026-06-14 ingest | The Bāburnāma (Babur, trans. Beveridge — PRIMARY) | Early Modern | south-asia, central-asia | Pages created: 1 (baburnama) | Pages updated: 1 (babur) | deep-read primary; gap region
+## 2026-06-14 ingest | William Dalrymple, The Last Mughal (2006) | Long 19th Century | south-asia | Pages created: 2 (dalrymple-the-last-mughal, bahadur-shah-zafar) | Pages updated: 1 (indian-rebellion-1857) | deep-read; Mutiny-Papers Delhi account; gap region
