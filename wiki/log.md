@@ -2433,3 +2433,9 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 
 ## 2026-06-14 section | New Cambridge Modern History (Modern) | Vol. XIII: Companion Volume (Burke, ed., 1979) | thematic/reference | europe | Pages created: 0 | Pages updated: 1 | light-touch
 ## 2026-06-14 ingest-complete | The New Cambridge Modern History (Modern series), Vols I–XIII (+ CMH IX Napoleon) | series complete | europe/global | fills Early-Modern→Modern Europe gap
+
+## 2026-06-14 section | Cambridge World History of Slavery | Vol. 1: The Ancient Mediterranean World (Bradley & Cartledge, 2011) | Classical Antiquity | mediterranean | Pages created: 2 | Pages updated: 1 | light/deep hybrid (slave-society concept deep)
+## 2026-06-14 section | Cambridge World History of Slavery | Vol. 2: AD 500–1420 (Perry, Eltis, Engerman & Richardson, 2021) | Early–Late Middle Ages | global | Pages created: 2 | Pages updated: 0 | deep-read (medieval-slavery, gap material)
+## 2026-06-14 section | Cambridge World History of Slavery | Vol. 3: AD 1420–1804 (Eltis & Engerman, 2011) | Early Modern | atlantic-world/global | Pages created: 2 | Pages updated: 3 | light-touch + creolization
+## 2026-06-14 section | Cambridge World History of Slavery | Vol. 4: AD 1804–2016 (Eltis, Engerman, Drescher & Richardson, 2017) | Long 19th C–Contemporary | global | Pages created: 2 | Pages updated: 1 | deep-read (abolition)
+## 2026-06-14 ingest-complete | The Cambridge World History of Slavery, Vols 1–4 | Total pages created: 8 | Total pages updated: 5 | Sections processed: 4
