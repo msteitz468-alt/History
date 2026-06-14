@@ -9,8 +9,8 @@ affiliated_with: [the Li imperial house (of mixed Chinese-Xianbei descent)]
 opposed_by: [the Eastern Türks, the Tibetan Empire, the [[caliphate|Abbasid Caliphate]], Koguryŏ]
 key_events: [defeat of the Eastern Türks 630 CE, conquest of Paekche 660 and Koguryŏ 668 CE, Battle of Talas 751 CE, An Lushan rebellion 755 CE]
 key_processes: [[[empire]], [[silk-roads]], civil service examinations, [[buddhism]], [[east-asian-cultural-sphere]]]
-sources_ingested: 3
-last_updated: 2026-06-10
+sources_ingested: 4
+last_updated: 2026-06-14
 tags: [actor, dynasty, early-middle-ages, china, east-asia]
 ---
 
@@ -88,3 +88,11 @@ multi-ethnic** character against older Sinocentric readings, and tracks the long
 the open early Tang to a more ethnically self-conscious late Tang. Debates concern the
 social reach of the examination system (still largely aristocratic in practice) and the
 economic "Tang–Song transition" toward the world's largest medieval economy.
+
+The [[cambridge-history-of-china|Cambridge History of China]] (Sui-Tang volume) anchors two of
+these themes on their own pages: the **[[chinese-examination-system|examination system (keju)]]**,
+which matured under the Tang as the gateway to office, and the **[[an-lushan-rebellion|An Lushan
+Rebellion (755–763)]]** — the structural catastrophe (over-mighty frontier *jiedushi* + a brittle
+court) that broke the high Tang, halved the registered population, and triggered the fiscal and
+social transformation (the twice-a-year tax; the rise of the south) leading to the
+[[song-dynasty|Song]]. See [[cambridge-history-of-china]].
