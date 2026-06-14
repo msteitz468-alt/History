@@ -8,8 +8,8 @@ region: [mediterranean, near-east, mesopotamia, levant, china, korea, north-afri
 process_type: economic
 driven_by: ["warfare and conquest", "[[trade-network-formation|long-distance trade]]", "[[urbanization]] and market demand", "[[state-formation|state]] coercive power", "[[empire|imperial]] expansion", "interaction of strong states with weaker peripheries"]
 produces: ["slave societies (Athens, Roman Italy)", "chattel agriculture", "military and administrative slavery", "domestic and sexual servitude", "manumission and ex-slave classes"]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [process, classical-antiquity, mediterranean]
 ---
 
@@ -147,3 +147,17 @@ organized approach (drawing on Patterson's *Slavery and Social Death* and the
 *Cambridge World History of Slavery*) is the current standard, deliberately setting
 the canonical Greco-Roman cases against African, Chinese, Near Eastern, and Islamic
 systems.
+
+## The Cambridge World History of Slavery
+
+The dedicated four-volume [[cambridge-world-history-slavery-v1|*Cambridge World History of
+Slavery*]] (Eltis & Engerman, gen. eds.) is the fullest expression of this comparative standard.
+**Vol. 1** (Bradley & Cartledge, 2011) treats the ancient Mediterranean and supplies the
+[[slave-society]] concept used throughout: Greece and Rome as the first two of the canonical five
+"genuine slave societies," chattel slavery as **social death**, and borderline cases such as the
+Spartan [[helots]] (a serf-like population the Spartans nonetheless called "slaves"). It stresses
+that there was **never sustained ancient opposition to slavery**, and that the rise of
+[[rise-of-christianity|Christianity]] accommodated rather than challenged it. The later volumes
+carry the story forward: [[medieval-slavery|Vol. 2]] (500–1420), the
+[[atlantic-slave-trade|Atlantic system]] (Vol. 3, 1420–1804), and
+[[abolition-of-slavery|abolition and modern coerced labour]] (Vol. 4, 1804–2016).
