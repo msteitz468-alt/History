@@ -57,7 +57,9 @@ Catholic, universal monarchy — and forced to concede the **Peace of Augsburg (
 inheritance: his son **Philip II** took **Spain, the Netherlands, Italy, and the Americas**;
 his brother **Ferdinand I** took the **Austrian lands and the imperial title**. The two
 Habsburg lines — Spanish and Austrian — would dominate European politics for the next century
-and a half.
+and a half — though the **Spanish line declined** under Charles's successors, exhausted by the
+[[thirty-years-war-1618|Thirty Years War]] and the revolts of Catalonia and Portugal (1640), as
+France rose to continental pre-eminence.
 
 ## Significance
 

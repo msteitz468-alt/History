@@ -2412,3 +2412,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 section | New Cambridge Modern History (Modern) | Vol. II: The Reformation 1520–1559 (Elton, ed.) | Early Modern | europe | Pages created: 1 | Pages updated: 1
 
 ## 2026-06-13 section | New Cambridge Modern History (Modern) | Vol. III: Counter-Reformation & Price Revolution 1559–1610 (Wernham, ed.) | Early Modern | europe | Pages created: 1 | Pages updated: 1
+
+## 2026-06-13 section | New Cambridge Modern History (Modern) | Vol. IV: Decline of Spain & Thirty Years War 1609–48/59 (Cooper, ed.) | Early Modern | europe | Pages created: 1 | Pages updated: 2

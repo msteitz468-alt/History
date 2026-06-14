@@ -5,8 +5,8 @@ origin: a debate opened by Eric Hobsbawm and Hugh Trevor-Roper (1950s–60s) ove
 applies_to_periods: [Early Modern]
 applies_to_regions: [global, southeast-asia, east-asia, china, japan, western-europe, mediterranean]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-13
 tags: [concept]
 ---
 
@@ -78,3 +78,9 @@ administratively across exactly this period (*Strange Parallels*), so a single "
 unity of the region and overweights the maritime/archipelago experience. The broader "general crisis"
 itself remains debated — its reality, its synchronicity, and the relative weight of trade, bullion,
 climate, and politics.
+
+The European heart of the crisis is documented for the wiki through the
+**[[new-cambridge-modern-history-v4|New Cambridge Modern History, Vol. IV]]** (1609–48/59): the
+**[[thirty-years-war-1618|Thirty Years War]]**, the decline of Spain (the 1640 revolts of Catalonia
+and Portugal), and the mid-century revolts and economic downturn across Europe — the classic
+materials of the Hobsbawm/Trevor-Roper "general crisis" debate.
