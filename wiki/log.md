@@ -2478,3 +2478,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 section | Cambridge History of China | Cycle 6: Republican China | World Wars Era | china | Pages created: 3 (republic-of-china-1912, warlord-era, kuomintang) | Pages updated: 1 (chinese-communist-revolution)
 ## 2026-06-14 section | Cambridge History of China | Cycle 7: The PRC | Cold War | china | Pages created: 3 (maoist-china, great-leap-forward, cultural-revolution) | Pages updated: 1 (mao-zedong)
 ## 2026-06-14 ingest-complete | The Cambridge History of China (Chinese 11-vol compilation) | Total pages created: 13 | Total pages updated: 11 | Sections processed: 7 | Chinese translation layer flagged
+
+## 2026-06-14 ingest | Dieter Kuhn, Die Song-Dynastie (960–1279) (1987, German) | High–Late Middle Ages | china | Pages created: 2 (tang-song-transition, kuhn-die-song-dynastie) | Pages updated: 2 (song-dynasty, neo-confucianism) | German language layer; fills the CHC Song gap

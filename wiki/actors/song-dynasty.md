@@ -9,7 +9,7 @@ affiliated_with: [[[neo-confucianism]], [[confucianism]], [[afro-eurasian-world-
 opposed_by: ["the Khitan Liao", "the Tangut Xixia", "the Jurchen Jin", [[mongol-empire|the Mongols]]]
 key_events: ["the founding of the Song (960)", "the loss of the north to the Jin (1127)", "the Mongol conquest (1279)"]
 key_processes: [[[afro-eurasian-world-system]], [[commercial-revolution]], [[state-formation]], [[cultural-crystallization]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-14
 tags: [actor, dynasty, high-middle-ages, china, east-asia]
 ---
@@ -68,6 +68,19 @@ captured Kaifeng, forcing the court south to **Hangzhou** (the **Southern Song**
 until the [[mongol-empire|Mongol]] conquest completed in **1279** — "the most
 enriching and empowering conquest" of the Mongol expansion (Arnason).
 
+## A "new society" of scholar-officials (Kuhn)
+
+[[kuhn-die-song-dynastie|Dieter Kuhn's *Die Song-Dynastie*]] (1987) — read here to fill the Song
+gap left by the Chinese [[cambridge-history-of-china|CHC]] compilation — frames the dynasty as
+**"a new society reflected in its culture."** Its argument: the Song marks the decisive
+**[[tang-song-transition|Tang–Song transition]]** in which the hereditary medieval **aristocracy**
+was replaced by a new elite of **scholar-officials** (*shi-da-fu* / *Beamten-Gelehrte*) defined by
+classical education and success in the **[[chinese-examination-system|examinations]]**, not by
+birth. The Song "embodied like no other dynasty the **state of the scholar-officials**," and its
+distinctive culture — Neo-Confucian philosophy, landscape painting, print learning, antiquarianism —
+is the mirror of that transformed society. This social reading complements the economic
+("commercial revolution") and world-systemic (von Glahn) accounts above.
+
 ## Significance
 
 The Song embodies several of the volume's central themes at once: the Chinese
@@ -85,4 +98,5 @@ follow.
 - [[mongol-empire]] · [[yuan-dynasty]] · [[kublai-khan]] — the conquerors of the Southern Song (1279). The [[cambridge-history-of-china|CHC]] Vol. 6 frames the Song as ringed and ultimately overrun by the steppe **"conquest dynasties"** (Liao, Xi Xia, Jin, then the Mongol Yuan).
 - [[commercial-revolution]], [[afro-eurasian-world-system]] — the economy the Song anchored.
 - [[cultural-crystallization]] — the 10th–13th c. reorientation in which Song China is a principal case.
-- [[cambridge-history-of-china]] — the source (Alien Regimes volume, on the Song's conquerors).
+- [[tang-song-transition]] — the social transformation (aristocracy → literati) that made the Song a "new society" ([[kuhn-die-song-dynastie|Kuhn]]).
+- [[cambridge-history-of-china]] — the source (Alien Regimes volume, on the Song's conquerors); [[kuhn-die-song-dynastie]] — Kuhn's social-cultural history of the Song.

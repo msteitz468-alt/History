@@ -5,8 +5,8 @@ origin: A revitalization of Confucian thought in Song China (11th–12th c.), sy
 applies_to_periods: [High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion]
 applies_to_regions: [china, east-asia, korea, japan]
 contested: no
-sources_ingested: 3
-last_updated: 2026-06-13
+sources_ingested: 4
+last_updated: 2026-06-14
 tags: [concept]
 ---
 
@@ -98,3 +98,4 @@ fuller story is on [[tokugawa-intellectual-life]].
 - [[educational-institutions]] — the examination system it came to underpin.
 - [[intercultural-relations-early-modern]] — Confucianism's early modern dialogues and spread.
 - [[mandate-of-heaven]] — the older legitimating doctrine it carried forward.
+- [[tang-song-transition]] · [[song-dynasty]] — Neo-Confucianism as the philosophy of the new Song **scholar-official** class ([[kuhn-die-song-dynastie|Kuhn]]); [[kuhn-die-song-dynastie]] — the source.
