@@ -5,7 +5,7 @@ date_range: 1700–1800 CE
 regions_covered: [atlantic-world, western-europe, north-america, caribbean, south-asia, east-asia, indian-ocean, west-africa, central-asia]
 major_themes: [maturing oceanic empires, the first global wars, the eighteenth-century crisis of the Asian land empires, the apex of the Atlantic slave and plantation system, industrious revolutions, the Enlightenment and the Atlantic Revolutions]
 collection_coverage: moderate
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [period]
 ---
@@ -46,8 +46,12 @@ reshape forced-labor regimes and migration in the following century.
 ## Major Developments
 
 - **The first global wars**: the War of the Spanish Succession, the Austrian
-  Succession, and above all the Seven Years' War; British naval supremacy
-  confirmed at Lagos and Quiberon Bay (1759).
+  Succession, and above all the **[[seven-years-war-1756|Seven Years' War]]**; British naval
+  supremacy confirmed at Lagos and Quiberon Bay (1759) — fought under the logic of the
+  **[[balance-of-power]]** (codified at Utrecht, 1713).
+- **The [[enlightenment|Enlightenment]]**: the eighteenth-century "Age of Reason" — critical
+  reason and science applied to religion, politics, and society — and the intellectual seedbed
+  of the Atlantic revolutions.
 - **Collapse of the Asian gunpowder empires**: Mughal disintegration after 1707,
   Safavid fall (1722), Maratha ascendancy, and the British conquest of Bengal
   (from 1757) and defeat of Tipu Sultan of Mysore (1799).
