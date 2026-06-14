@@ -9,8 +9,8 @@ affiliated_with: ["the Timurid/Turkish dynasty", "Persianate Islamic culture", "
 opposed_by: ["the Afghan/Lodi and Sur dynasties", "the [[rajputs|Rajputs]] (until co-opted)", "the [[maratha-empire|Marathas]], Sikhs, and ultimately the [[english-east-india-company|English]]"]
 key_events: ["the first battle of Panipat (1526)", "Akbar's reign (1556–1605)", "Aurangzeb's reign (1658–1707)", "the post-1707 decline"]
 key_processes: ["[[state-formation]]", "[[indian-ocean-trade]]", "Indo-Persian cultural synthesis"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [actor, empire, early-modern, south-asia]
 ---
 
@@ -84,7 +84,23 @@ European trading companies stepped; its **formal** end came only with the [[indi
 Rebellion]], a century after its real power was gone — a measure of the dynastic loyalty Akbar had
 created.
 
+## Dynastic backbone and decline (CHI Vol. IV)
+
+The [[cambridge-history-of-india-v4|Cambridge History of India, Vol. IV]] (Burn, 1937) supplies the
+fuller dynastic narrative. The empire was founded by **[[babur]]** at Panipat (1526); nearly lost
+by his son **Humayun** to the Afghan **[[sher-shah-suri|Sher Shah Suri]]** (who ruled 1540–55 and
+left the administrative blueprint the Mughals adopted); restored by Humayun in 1555; and brought to
+its apogee by **[[akbar]]** (1556–1605) and his successors **Jahangir** and **Shah Jahan**. Under
+**[[aurangzeb]]** (1658–1707) the empire reached its greatest extent but exhausted itself in the
+**Deccan wars** against the [[maratha-empire|Marathas]]. After 1707 the **later Mughals** (Bahadur
+Shah I, Jahandar Shah, Farrukh-siyar, Muhammad Shah) presided over rapid disintegration — Nadir
+Shah's sack of Delhi (1739), the rise of autonomous successor states (Hyderabad, Bengal, Awadh) and
+the Marathas — leaving the throne a shadow that the [[english-east-india-company|English East India
+Company]] would inherit. (CHI Vol. IV is a dated 1937 reference, read against the modern
+[[spear-history-of-india-v2-1965|Spear]] account.)
+
 ## Related pages
 
-[[akbar]] · [[aurangzeb]] · [[delhi-sultanate]] · [[rajputs]] · [[maratha-empire]] ·
-[[english-east-india-company]] · [[bhakti-movement]] · [[south-asia]] · [[spear-history-of-india-v2-1965]]
+[[babur]] · [[sher-shah-suri]] · [[akbar]] · [[aurangzeb]] · [[delhi-sultanate]] · [[rajputs]] ·
+[[maratha-empire]] · [[english-east-india-company]] · [[bhakti-movement]] · [[south-asia]] ·
+[[spear-history-of-india-v2-1965]] · [[cambridge-history-of-india-v4]]
