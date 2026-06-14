@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+Last updated: 2026-06-13 (**New Cambridge Modern History (Modern), Vol. V: The Ascendancy of France, 1648–88** (F. L. Carsten, ed.) — INGEST COMPLETE. Created **[[absolutism]]** (absolute monarchy — Louis XIV as paradigm: divine right, Versailles, intendants, Colbert/mercantilism; with the modern scholarly qualification that "absolutism" was negotiated, not total) + source page w/ Section Plan; enriched **[[early-modern]]**. Filed to `raw/4. Modern Times/`.)
+
 Last updated: 2026-06-13 (**New Cambridge Modern History (Modern), Vol. IV: The Decline of Spain and the Thirty Years War, 1609–48/59** (J. P. Cooper, ed.) — INGEST COMPLETE. Created **[[thirty-years-war-1618]]** (the Thirty Years War 1618–48 — the four phases, Gustavus Adolphus & Wallenstein, the devastation of Germany, and the Peace of Westphalia / the "sovereign-state order") + source page w/ Section Plan; enriched **[[seventeenth-century-general-crisis]]** and **[[habsburg-empire]]** (the decline of Spain). Filed to `raw/4. Modern Times/`.)
 
 Last updated: 2026-06-13 (**New Cambridge Modern History (Modern), Vol. III: Counter-Reformation and Price Revolution, 1559–1610** (R. B. Wernham, ed.) — INGEST COMPLETE. Created **[[price-revolution]]** (the sustained 16th-c. inflation — American silver + population growth + debasement; the quantity theory of money; depressed real wages & fiscal strain) + source page w/ Section Plan; enriched **[[catholic-reformation]]** (the Counter-Reformation after Trent). Filed to `raw/4. Modern Times/`.)
