@@ -5,8 +5,8 @@ origin: Synthesized for The Cambridge World History Vol. V (2015) by Clifford J.
 applies_to_periods: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 applies_to_regions: [steppe, china, iran-plateau, anatolia, western-europe, near-east]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-14
 tags: [concept]
 ---
 
@@ -98,6 +98,9 @@ debated here is exactly what Black's chapter contests. See
 
 ## Related
 
+- [[medieval-warfare]] — the empirical, global process page (recruitment, cavalry/siege/infantry,
+  the regional military cultures) drawn from the [[cambridge-history-of-war-v2|Cambridge History
+  of War, Vol. 2]]; this page is its analytical lens.
 - [[pastoral-nomadism]] — the steppe military system at the heart of the chapter.
 - [[mongol-empire]] — the apex of steppe warfare.
 - [[military-revolution]] — the early modern sequel to this story (CWH VI).
