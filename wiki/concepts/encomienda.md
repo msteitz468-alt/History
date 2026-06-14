@@ -5,8 +5,8 @@ origin: Castilian Reconquest precedent, transplanted to the Caribbean (1490s–1
 applies_to_periods: [Early Modern, Age of Expansion]
 applies_to_regions: [caribbean, mesoamerica, andes, atlantic-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [concept]
 ---
 
@@ -105,3 +105,15 @@ whole subject is freighted by the [[black-legend|Black Legend]].
 - [[las-casas-bartolome]] — the New Laws' architect.
 - [[hacienda]] — the later great estate (Cycle 3).
 - [[atlantic-slave-trade]] — the African labor that replaced Indians in the plantation zones.
+
+## The indigenous testimony (Guamán Poma)
+
+The fullest **indigenous** indictment of the colonial labour regime is
+[[guaman-poma-de-ayala|Felipe Guamán Poma de Ayala's]] *[[guaman-poma-nueva-coronica|Nueva corónica
+y buen gobierno]]* (c. 1615). Written and illustrated by an Andean nobleman who had served the
+colonial administration, it catalogues — case by case, in text and in nearly 400 drawings — the
+abuses of *encomenderos*, *corregidores*, priests, and mine-owners under the *encomienda* and
+*mita*: extortion, forced labour, sexual violence, and the demographic collapse of the Andean
+population. Appealing over the colonists' heads to the king, Guamán Poma protested that the Indians
+were treated "worse than slaves brought from Guinea" — a rare interior, indigenous view of what the
+encomienda meant to those subject to it (a *situated* witness; see the page for his biases).

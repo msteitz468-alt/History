@@ -2463,3 +2463,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 ingest | Oxford Handbook of Early Modern European History Vol. I: Peoples and Place (Scott, ed., 2015) | Early Modern | europe | Pages created: 1 (consumer-revolution) | Pages updated: 1 (early-modern) | hybrid-light; thematic gaps
 ## 2026-06-14 ingest | Oxford Handbook of Early Modern European History Vol. II: Cultures and Power (Scott, ed., 2015) | Early Modern | europe | Pages created: 3 (scientific-revolution, fiscal-military-state, court-society) | Pages updated: 2 (absolutism, balance-of-power) | hybrid-light; thematic gaps
 ## 2026-06-14 ingest-complete | The Oxford Handbook of Early Modern European History, 1350–1750 (Vols I & II) | Total pages created: 4 | Total pages updated: 3 | thematic handbook; filled science/state/court/consumption gaps
+
+## 2026-06-14 ingest | Felipe Guamán Poma de Ayala, Nueva corónica y buen gobierno (c. 1615; Pease ed., Tomo I — PRIMARY) | Early Modern | andes | Pages created: 2 (guaman-poma-de-ayala, guaman-poma-nueva-coronica) | Pages updated: 1 (encomienda) | indigenous-Andean primary source; gap region; last Americas-gap item
