@@ -9,7 +9,7 @@ affiliated_with: [the Timurid dynasty, the [[mughal-empire|Mughal Empire]] (foun
 opposed_by: [the Uzbeks (Shaybani Khan) in Central Asia, the [[delhi-sultanate|Lodi]] sultanate, the [[rajputs|Rajput]] confederacy under Rana Sanga]
 key_events: ["the loss of Samarkand and Fergana to the Uzbeks", "the seizure of Kabul (1504)", "the first battle of Panipat (1526)", "the battle of Khanwa (1527)"]
 key_processes: [[[state-formation]], the founding of the [[mughal-empire|Mughal Empire]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-14
 tags: [actor, person, early-modern, south-asia, central-asia]
 ---
@@ -44,8 +44,14 @@ leaving an insecure realm to his son [[mughal-empire|Humayun]].
 Babur wrote, in Chaghatai Turkish, the **[[baburnama|Baburnama]]** (*Memoirs of Babur*) — a
 candid, vivid, self-aware autobiography unmatched in medieval Islamic literature, ranging over
 warfare, politics, friendship, wine, poetry, and acute natural-historical observation of the
-lands and peoples he knew (including his famously mixed first impressions of India). It is a major
-**primary source** for the period (present in the collection, awaiting its own ingest).
+lands and peoples he knew. In it Babur records his own faults, drinking and "repentance," his
+griefs and friendships with rare honesty, alongside precise notes on the fruits, wines, animals,
+and revenues of every country he passed through. His ambivalent verdict on his new dominion is
+among the most quoted lines in Indian history: *"Hindūstān is a country of few charms…
+there are no good horses, no good dogs, no grapes… no Hot-baths, no Colleges, no candles"* — yet
+he balanced it against India's "masses of gold and silver" and vast population, which is why he
+stayed. The [[baburnama]] (read here in **Annette Beveridge's** 1921 translation from the Turki)
+is a major **primary source** for the founding of the empire.
 
 ## Significance
 
