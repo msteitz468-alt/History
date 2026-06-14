@@ -8,8 +8,8 @@ region: [global]
 process_type: [political, economic, ideological]
 driven_by: [[[industrialization]], inter-state competition, [[fossil-fuel-energy-transition|new transport and military technology]], capitalist demand for raw materials and markets, ideologies of civilization and race]
 produces: [the New Imperialism / scramble for Africa, colonial states, [[decolonization]], modern globalization, post-colonial inequalities]
-sources_ingested: 6
-last_updated: 2026-06-12
+sources_ingested: 7
+last_updated: 2026-06-14
 tags: [process, long-19th-century, global]
 ---
 
@@ -115,3 +115,8 @@ Third World") and **[[hochschild-king-leopolds-ghost|Hochschild, *King Leopold's
 critique of imperial knowledge, **[[said-orientalism|Said's *Orientalism*]]** and, for the administrative
 machinery of "[[colonial-knowledge|colonial governmentality]]" (census, survey, legal codification),
 **[[cohn-colonialism-forms-of-knowledge|Cohn's *Colonialism and Its Forms of Knowledge*]]**.
+
+The intense late-19th-century phase — the **[[new-imperialism|New Imperialism]]** (1870–1914) of the
+[[scramble-for-africa|African partition]] and Asian spheres — now has its own page, built from the
+**[[new-cambridge-modern-history-v11|New Cambridge Modern History, Vol. XI]]**, which reads it as the
+political face of industrial-demographic expansion.

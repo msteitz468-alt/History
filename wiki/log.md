@@ -2426,3 +2426,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 ingest | Cambridge Modern History (Acton ser., 1907), Vol. IX: Napoleon | Age of Expansion–Long 19th C | europe | Pages created: 2 | Pages updated: 1 | dated source; substitutes for absent NCMH-Modern Vol IX
 
 ## 2026-06-14 section | New Cambridge Modern History (Modern) | Vol. X: Zenith of European Power 1830–70 (Bury, ed.) | Long 19th Century | europe | Pages created: 3 | Pages updated: 1 | deep-read mode (1848 & Italian unification grounded in chapter text)
+
+## 2026-06-14 section | New Cambridge Modern History (Modern) | Vol. XI: Material Progress & World-Wide Problems 1870–98 (Hinsley, ed.) | Long 19th Century | europe, global | Pages created: 2 | Pages updated: 1 | deep-read (new-imperialism grounded in chapter text; 2nd-industrial-rev lighter)
