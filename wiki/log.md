@@ -2439,3 +2439,7 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 section | Cambridge World History of Slavery | Vol. 3: AD 1420–1804 (Eltis & Engerman, 2011) | Early Modern | atlantic-world/global | Pages created: 2 | Pages updated: 3 | light-touch + creolization
 ## 2026-06-14 section | Cambridge World History of Slavery | Vol. 4: AD 1804–2016 (Eltis, Engerman, Drescher & Richardson, 2017) | Long 19th C–Contemporary | global | Pages created: 2 | Pages updated: 1 | deep-read (abolition)
 ## 2026-06-14 ingest-complete | The Cambridge World History of Slavery, Vols 1–4 | Total pages created: 8 | Total pages updated: 5 | Sections processed: 4
+
+## 2026-06-14 section | Cambridge History of War | Vol. II: War and the Medieval World (Curry & Graff, 2020) | Early–Late Middle Ages | global | Pages created: 2 | Pages updated: 1 | deep-read (medieval-warfare, global/comparative)
+## 2026-06-14 section | Cambridge History of War | Vol. IV: War and the Modern World (Chickering et al., 2012) | Long 19th C–Contemporary | global | Pages created: 2 | Pages updated: 2 | deep-read (industrialization-of-warfare)
+## 2026-06-14 ingest-complete | The Cambridge History of War, Vols II & IV | Total pages created: 4 | Total pages updated: 3 | Sections processed: 2

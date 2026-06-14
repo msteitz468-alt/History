@@ -5,7 +5,7 @@ origin: A term for the intense burst of European (and US/Japanese) overseas empi
 applies_to_periods: [Long 19th Century]
 applies_to_regions: [transregional, africa, south-asia, southeast-asia, east-asia]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-14
 tags: [concept]
 ---
@@ -70,4 +70,5 @@ Asia) that fed the **[[first-world-war-1914|First World War]]**.
 
 - [[imperialism]] — the general concept; [[scramble-for-africa]] — its African core; [[second-industrial-revolution]] — its economic engine.
 - [[balance-of-power]] — the rivalry that drove it; [[first-world-war-1914]] · [[decolonization]] — its consequences.
-- [[new-cambridge-modern-history-v11]] — the source.
+- [[industrialization-of-warfare]] — the industrial firepower that made cheap conquest possible and provoked non-Western military modernisation ([[cambridge-history-of-war-v4|CHW Vol. 4]]).
+- [[new-cambridge-modern-history-v11]] · [[cambridge-history-of-war-v4]] — the sources.
