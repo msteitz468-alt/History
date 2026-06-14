@@ -8,8 +8,8 @@ region: [china, east-asia]
 process_type: [political, ideological, social]
 driven_by: [the failure of the Republic & warlordism, anti-imperialist nationalism, the May Fourth movement & Marxism, peasant grievance, the war with Japan]
 produces: [the People's Republic of China, the transformation of Chinese society, the Maoist campaigns (Great Leap, Cultural Revolution), the reform-era rise of China]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [process, world-wars-era, cold-war, china, east-asia]
 ---
 
@@ -71,3 +71,4 @@ state at immense human cost.
 - [[mao-zedong]] — its principal leader; [[fall-of-the-qing-1911]] — the imperial collapse that opened it.
 - [[opium-wars]] · [[taiping-rebellion]] · [[self-strengthening]] — the long crisis it resolved; [[japanese-imperialism]] — the invasion that empowered it.
 - [[cold-war]] · [[china]] · [[contemporary]] — the era, the realm, and the reform-era rise that followed.
+- [[republic-of-china-1912]] · [[kuomintang]] · [[warlord-era]] — the Republican order it overthrew (its rivalry with the KMT the central thread); [[cambridge-history-of-china|CHC]] Republican volumes.
