@@ -2471,3 +2471,10 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 ingest-complete | The Cambridge History of the Second World War (Vols I & III; Vol II absent) | Total pages created: 4 | Total pages updated: 3 | filled Holocaust + strategic-bombing gaps; WWII war economy (Tooze)
 
 ## 2026-06-14 section | Cambridge History of China (Chinese trans., 11-vol) | Cycle 1: Qin-Han (Eng. Vol. 1) | Classical Antiquity | china | Pages created: 2 (cambridge-history-of-china source, wang-mang) | Pages updated: 1 (han-dynasty) | MULTI-SESSION; Chinese translation layer; Cycles 2-7 pending
+
+## 2026-06-14 section | Cambridge History of China | Cycle 3: Alien Regimes & Yuan | High–Late Middle Ages | china | Pages created: 2 (yuan-dynasty, kublai-khan) | Pages updated: 2 (mongol-empire, song-dynasty)
+## 2026-06-14 section | Cambridge History of China | Cycle 4: Ming | Early Modern | china | Pages created: 1 (zheng-he-voyages) | Pages updated: 2 (ming-dynasty, swahili-coast)
+## 2026-06-14 section | Cambridge History of China | Cycle 5: Late Qing | Long 19th C | china | Pages created: 2 (self-strengthening-movement, boxer-rebellion) | Pages updated: 1 (qing-dynasty)
+## 2026-06-14 section | Cambridge History of China | Cycle 6: Republican China | World Wars Era | china | Pages created: 3 (republic-of-china-1912, warlord-era, kuomintang) | Pages updated: 1 (chinese-communist-revolution)
+## 2026-06-14 section | Cambridge History of China | Cycle 7: The PRC | Cold War | china | Pages created: 3 (maoist-china, great-leap-forward, cultural-revolution) | Pages updated: 1 (mao-zedong)
+## 2026-06-14 ingest-complete | The Cambridge History of China (Chinese 11-vol compilation) | Total pages created: 13 | Total pages updated: 11 | Sections processed: 7 | Chinese translation layer flagged

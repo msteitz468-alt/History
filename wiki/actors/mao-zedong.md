@@ -9,8 +9,8 @@ affiliated_with: [the Chinese Communist Party, the People's Republic of China]
 opposed_by: [the Guomindang (Chiang Kai-shek), Imperial Japan, intra-party rivals, the USSR (after the Sino-Soviet split)]
 key_events: ["the founding of the CCP (1921)", "the rural soviets & the Long March (1934–35)", "the founding of the PRC (1949)", "the Great Leap Forward & the Cultural Revolution"]
 key_processes: [[[chinese-communist-revolution]], the building of the People's Republic]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [actor, person, world-wars-era, cold-war, china, east-asia]
 ---
 
@@ -73,3 +73,4 @@ founded, transformed by Deng's reforms, became the world's second superpower.
 - [[chinese-communist-revolution]] — the revolution he led; [[fall-of-the-qing-1911]] — the imperial collapse that opened the revolutionary century.
 - [[japanese-imperialism]] — the invasion that strengthened the Communists; [[cold-war]] — the era he shaped (the Sino-Soviet split, the Nixon opening).
 - [[china]] · [[contemporary]] — the realm he reunified and the reform era that followed him.
+- [[maoist-china]] — the PRC under his rule; [[great-leap-forward]] · [[cultural-revolution]] — his two catastrophic campaigns ([[cambridge-history-of-china|CHC]] PRC volumes).
