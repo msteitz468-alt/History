@@ -2459,3 +2459,7 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 placeholder | Cambridge History of Ancient China (Loewe & Shaughnessy, 1999) | TOC-ONLY (text not in collection — OCR-test stub only) | Pages created: 1 (source placeholder w/ Section Plan) | Pages updated: 0 | NOT a content ingest; awaiting full text
 
 ## 2026-06-14 ingest | Basil Davidson, The African Past (1964) | antiquity–colonial | sub-saharan-africa | Pages created: 2 (african-historiography, davidson-the-african-past) | Pages updated: 2 (swahili-coast, mali-empire) | primary-source anthology; gap region
+
+## 2026-06-14 ingest | Oxford Handbook of Early Modern European History Vol. I: Peoples and Place (Scott, ed., 2015) | Early Modern | europe | Pages created: 1 (consumer-revolution) | Pages updated: 1 (early-modern) | hybrid-light; thematic gaps
+## 2026-06-14 ingest | Oxford Handbook of Early Modern European History Vol. II: Cultures and Power (Scott, ed., 2015) | Early Modern | europe | Pages created: 3 (scientific-revolution, fiscal-military-state, court-society) | Pages updated: 2 (absolutism, balance-of-power) | hybrid-light; thematic gaps
+## 2026-06-14 ingest-complete | The Oxford Handbook of Early Modern European History, 1350–1750 (Vols I & II) | Total pages created: 4 | Total pages updated: 3 | thematic handbook; filled science/state/court/consumption gaps

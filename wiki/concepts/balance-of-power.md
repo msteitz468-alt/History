@@ -5,7 +5,7 @@ origin: Renaissance Italian statecraft (the 15th-c. state system), generalized i
 applies_to_periods: [Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War]
 applies_to_regions: [western-europe, transregional]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-14
 tags: [concept]
 ---
@@ -61,4 +61,5 @@ the modern [[strategy|state system]].
 
 - [[war-of-spanish-succession]] — the classic balancing war; [[italian-renaissance-state-system]] · [[italian-wars-1494]] — its origins.
 - [[absolutism]] — the domestic counterpart; [[strategy]] · [[strategic-practice-across-civilizations]] — the wider analysis; [[cold-war]] — a modern bipolar balance.
-- [[new-cambridge-modern-history-v6]] — the source.
+- [[fiscal-military-state]] — the war-finance machinery competing states needed (Simms on the shifting balance; the emergence of resident diplomacy) ([[oxford-handbook-early-modern-europe-v2|Oxford Handbook]]).
+- [[new-cambridge-modern-history-v6]] · [[oxford-handbook-early-modern-europe-v2]] — the sources.
