@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: global
 causes: [anti-clericalism and resentment of clerical privilege, the sale of indulgences, the new university-trained clerical stratum, printing, prior reform movements (Wycliffe, Hus)]
 consequences: [the permanent division of Latin Christianity, the wars of religion, confessional state-building, the Catholic (Counter-) Reformation, the global expansion of competing Christianities]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-13
 tags: [event, transition, early-modern, western-europe]
 ---
 
@@ -87,3 +87,8 @@ toleration) · [[educational-institutions]]
 A current full synthesis of the era is now ingested — **[[eire-reformations|Carlos Eire, *Reformations:
 The Early Modern World, 1450–1650*]]** — which frames it as plural "Reformations" (Protestant, Radical,
 [[catholic-reformation|Catholic]]) and traces the long "desacralization" of the world toward secularity.
+The **[[new-cambridge-modern-history-v2|New Cambridge Modern History, Vol. II]]** (Elton, ed.) adds the
+detailed political-religious narrative of 1520–1559 — the German movements, the Swiss and Genevan
+reformations (Zwingli, Calvin), the radical Anabaptists, the national Reformations (Scandinavia, France,
+England), and the failure of **[[habsburg-empire|Charles V]]** to restore religious unity, sealed by the
+**Peace of Augsburg (1555)** and its principle *cuius regio, eius religio*.
