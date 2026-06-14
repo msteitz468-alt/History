@@ -2416,3 +2416,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-13 section | New Cambridge Modern History (Modern) | Vol. IV: Decline of Spain & Thirty Years War 1609–48/59 (Cooper, ed.) | Early Modern | europe | Pages created: 1 | Pages updated: 2
 
 ## 2026-06-13 section | New Cambridge Modern History (Modern) | Vol. V: The Ascendancy of France 1648–88 (Carsten, ed.) | Early Modern | europe | Pages created: 1 | Pages updated: 1
+
+## 2026-06-14 section | New Cambridge Modern History (Modern) | Vol. VI: Rise of Great Britain and Russia 1688–1715/25 (Bromley, ed.) | Early Modern | europe, russia | Pages created: 2 | Pages updated: 1

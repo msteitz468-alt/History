@@ -5,8 +5,8 @@ origin: A 17th–18th-century European form of monarchy; the term "absolutism" i
 applies_to_periods: [Early Modern, Age of Expansion]
 applies_to_regions: [western-europe, eastern-europe]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [concept]
 ---
 
@@ -70,5 +70,6 @@ defined themselves. It shaped state-building, the fiscal-military state, and the
 ## Related
 
 - [[habsburg-empire]] — a rival dynastic power; [[early-modern]] — the period; [[military-revolution]] — the army behind the state.
+- [[peter-the-great]] — the autocratic-modernizing variant in Russia; [[balance-of-power]] — the inter-state logic of the age.
 - [[french-revolution-1789]] · [[enlightenment]] — the later reaction against the *ancien régime*.
 - [[new-cambridge-modern-history-v5]] — the source.
