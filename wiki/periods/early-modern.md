@@ -5,8 +5,8 @@ date_range: 1500–1700 CE
 regions_covered: [atlantic-world, western-europe, mesoamerica, andes, west-africa, east-asia, near-east, south-asia, indian-ocean, southeast-asia]
 major_themes: [the construction of a global world, Columbian Exchange, oceanic empires, the silver-driven world economy, confessionalization and religious expansion, the military revolution debate, chartered companies, plantation slavery]
 collection_coverage: moderate
-sources_ingested: 4
-last_updated: 2026-06-13
+sources_ingested: 5
+last_updated: 2026-06-14
 tags: [period]
 ---
 
@@ -130,6 +130,17 @@ The period is the proving ground for **world and global history** as a field
 - **Eurocentrism**: the field's self-conscious effort to decenter Europe while
   acknowledging that the source base and the historiography remain
   overwhelmingly Anglophone and Europe-centered (see [[eurocentrism]]).
+- **What "early modernity" means**: the [[oxford-handbook-early-modern-europe-v1|Oxford Handbook of
+  Early Modern European History]] (Hamish Scott, 2015) argues — in its editor's Introduction — that
+  "early modern" marks a shift in periodization itself: away from defining an age by **event-
+  bookends** (1453, 1517, 1789) or a central figure (the Age of Charles V or Louis XIV) and toward
+  defining it by **salient structural characteristics** (demographic, economic, social, cultural)
+  as the discipline ceased to be the study of elites and high politics. The Handbook's thematic
+  organisation — fundamentals, societies and economies, beliefs, then ideas, empire, government,
+  and war ([[oxford-handbook-early-modern-europe-v2|Vol. II]]) — embodies this structural rather
+  than narrative conception of the period. It also foregrounds the **[[consumer-revolution]]**, the
+  **[[scientific-revolution]]**, and the **[[fiscal-military-state]]** as defining early-modern
+  developments.
 
 ## Collection Coverage Note
 
