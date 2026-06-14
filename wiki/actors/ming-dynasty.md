@@ -9,8 +9,8 @@ affiliated_with: [Han Chinese restoration after Mongol rule, the Confucian-burea
 opposed_by: [the Mongol Yuan (overthrown), the northern Mongols, the Manchus (who succeeded them), peasant rebels (Li Zicheng)]
 key_events: ["the founding by Zhu Yuanzhang (1368)", "the Yongle emperor & the move to Beijing", "Zheng He's treasure voyages (1405–33)", "the fall to rebellion & the Manchus (1644)"]
 key_processes: [the restoration of Han Chinese rule, the Confucian examination state, Ming maritime expansion]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [actor, dynasty, early-modern, china, east-asia]
 ---
 
@@ -68,3 +68,5 @@ founding the Qing.
 - [[mongol-empire]] — the Yuan it overthrew; [[qing-dynasty]] — the Manchu dynasty that succeeded it.
 - [[han-dynasty]] · [[tang-dynasty]] · [[song-dynasty]] — the earlier "great dynasties"; [[china]] — the realm.
 - [[confucianism]] · [[neo-confucianism]] — the examination-state ideology; [[indian-ocean-trade]] — the world of Zheng He's voyages.
+- [[zheng-he-voyages]] — the Yongle treasure fleets (1405–33) and their abandonment ([[cambridge-history-of-china|CHC]] Ming volumes); [[chinese-examination-system]] — the Ming "eight-legged essay" examination state.
+- [[cambridge-history-of-china]] — the source (Ming volumes).

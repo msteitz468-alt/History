@@ -50,7 +50,7 @@ The Swahili coast linked the [[indian-ocean-trade|Indian Ocean system]] to the
 **southern African interior** (Great Zimbabwe's gold) and, through the wider Muslim
 ecumene, to the same world of commerce, law, and pilgrimage that bound the
 [[afro-eurasian-world-system|Afro-Eurasian system]]. The Ming admiral
-[[zheng-he|Zheng He]] reached Malindi in the early fifteenth century — a giraffe
+[[zheng-he-voyages|Zheng He]] reached Malindi in the early fifteenth century — a giraffe
 sent thence to the Chinese court is the era's most famous token of the connection.
 
 ## Why this place mattered
@@ -154,4 +154,4 @@ historiography]].
 - Source: [[davidson-the-african-past|Davidson, *The African Past*]] (the primary chronicles) · [[gha-vol2-ancient-civilizations|GHA Vol. II]] (ancient Azania) · [[reader-africa-biography|Reader, *Africa: A Biography*]] · [[sub-saharan-africa]]
 - Process: [[indian-ocean-trade]] · [[trans-saharan-trade]] (the African counterpart inland)
 - Concept/Actor: [[islam]] · [[aksum]] (the earlier Red Sea trading state)
-- Places: [[great-zimbabwe|Great Zimbabwe]] (the inland gold source) · [[jenne-jeno]] (West African trade city) · [[zheng-he]] (the Ming voyages)
+- Places: [[great-zimbabwe|Great Zimbabwe]] (the inland gold source) · [[jenne-jeno]] (West African trade city) · [[zheng-he-voyages]] (the Ming voyages)
