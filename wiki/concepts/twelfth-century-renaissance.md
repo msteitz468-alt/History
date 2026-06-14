@@ -6,7 +6,7 @@ applies_to_periods: [High Middle Ages]
 applies_to_regions: [western-europe, mediterranean]
 contested: yes
 sources_ingested: 1
-last_updated: 2026-06-12
+last_updated: 2026-06-14
 tags: [concept]
 ---
 
@@ -61,6 +61,7 @@ obscures the period's own originality.
 
 ## Related
 
+- [[scholasticism]] — the dialectical method (Anselm, Abelard, Lombard) at its intellectual core ([[luscombe-ncmh-v4-2004|NCMH IV]], Part 1 ch. 12).
 - [[medieval-university]] — the institution it produced.
 - [[ius-commune]] — the legal revival at its core.
 - [[carolingian-renaissance]], [[ottonian-renaissance]] — the earlier revivals it built on.

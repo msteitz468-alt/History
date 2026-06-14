@@ -2443,3 +2443,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 section | Cambridge History of War | Vol. II: War and the Medieval World (Curry & Graff, 2020) | Early–Late Middle Ages | global | Pages created: 2 | Pages updated: 1 | deep-read (medieval-warfare, global/comparative)
 ## 2026-06-14 section | Cambridge History of War | Vol. IV: War and the Modern World (Chickering et al., 2012) | Long 19th C–Contemporary | global | Pages created: 2 | Pages updated: 2 | deep-read (industrialization-of-warfare)
 ## 2026-06-14 ingest-complete | The Cambridge History of War, Vols II & IV | Total pages created: 4 | Total pages updated: 3 | Sections processed: 2
+
+## 2026-06-14 supplement | NCMH IV (luscombe-ncmh-v4-2004, already ingested 2026-06-12) | added concordat-of-worms-1122 + scholasticism (folded-in pages now broken out) | Pages created: 2 | Pages updated: 3 | NOTE: duplicate source page created in error was removed

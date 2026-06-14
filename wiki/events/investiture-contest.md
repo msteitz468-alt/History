@@ -14,7 +14,7 @@ scale_consequential: civilizational
 causes: [[[gregorian-reform]], "the doctrine of the libertas ecclesiae", "the practice of lay investiture and prelates' homage to kings", "Gregory VII's assertion of papal supremacy (Dictatus Papae, 1075)"]
 consequences: ["the Concordat of Worms (1122)", "the separation of spiritual and lay authority", "the weakening of the German monarchy and the rise of the princes", "the consolidation of the papal monarchy", "a durable papal–imperial rivalry"]
 sources_ingested: 1
-last_updated: 2026-06-12
+last_updated: 2026-06-14
 tags: [event, high-middle-ages, western-europe, mediterranean]
 ---
 
@@ -91,5 +91,7 @@ papacy; Vollrath on the Salians).
 ## Related
 
 - `part_of:` [[gregorian-reform]]
+- `followed_by:` [[concordat-of-worms-1122]] — the 1122 compromise that ended the contest (the regalia/spiritualia distinction).
 - [[gregory-vii]], [[henry-iv-holy-roman-emperor]], [[dictatus-papae]] — protagonists and manifesto.
 - [[papal-monarchy]], [[salian-dynasty]] — the institutions transformed.
+- [[luscombe-ncmh-v4-2004]] — the backbone source (Part 1 ch. 8–11 on the church and reform).

@@ -32,11 +32,16 @@ reliability_notes: >
   This volume fills the single gap in the wiki's NCMH backbone (Vol. 4 was initially
   absent from the collection and supplied later as EPUBs, converted here). It sits
   between Reuter's NCMH III (ends c. 1024) and Abulafia's NCMH V (begins c. 1198).
-pages_created: 53
+pages_created: 55
 pages_updated: 11
 ingested: 2026-06-12
 tags: [source]
 ---
+
+> **Supplement (2026-06-14):** two pages were added that the original 9-cycle ingest had folded
+> into other pages — [[concordat-of-worms-1122]] (the 1122 settlement that ended the Investiture
+> Contest, from Part 1 ch. 9) and [[scholasticism]] (the dialectical method of the schools, from
+> Part 1 ch. 12). Both cross-linked into [[investiture-contest]] and [[twelfth-century-renaissance]].
 
 # The New Cambridge Medieval History, Volume 4: c. 1024–c. 1198 (2004)
 
