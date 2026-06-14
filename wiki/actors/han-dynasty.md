@@ -9,8 +9,8 @@ affiliated_with: [Confucian-Legalist statecraft, local elites]
 opposed_by: [the [[xiongnu]], rival warlords, the Yellow Turban rebels]
 key_events: [Emperor Wu's Xiongnu wars 141-87 BCE, Zhang Qian's mission to the Yuezhi 139 BCE, opening of the [[silk-roads|Silk Roads]], conquest of northern Korea 109 BCE]
 key_processes: [[[empire]], [[silk-roads]], [[confucianism|Confucian state ideology]], [[east-asian-cultural-sphere]]]
-sources_ingested: 3
-last_updated: 2026-06-10
+sources_ingested: 4
+last_updated: 2026-06-14
 tags: [actor, dynasty, classical-antiquity, late-antiquity, china, east-asia]
 ---
 
@@ -55,6 +55,20 @@ opening); and the **"Treatise on the Balanced Standard"** documenting the
 **[[han-state-economy|salt-and-iron monopolies]]** that funded the wars. Its author
 [[sima-qian|Sima Qian]] — castrated by [[han-wudi|Emperor Wu]] — wrote the reign as an implicit
 **critique** of imperial overreach (the fuller picture is on [[han-wudi]]).
+
+## Government and the Wang Mang interregnum (CHC)
+
+The [[cambridge-history-of-china|Cambridge History of China]] (Vol. 1, Qin-Han) deepens the picture
+of how the Han was actually governed. It stresses that effective rule rested ultimately on
+**coercion** softened by Confucian "humane" ideals, that politics turned heavily on the fortunes of
+**imperial consort-clans** (whose women and families repeatedly shaped policy and succession), and
+that Han statecraft oscillated between a **"modernist" tendency** (looking to Qin precedents —
+strong central control, state monopolies, expansion, as under [[han-wudi|Emperor Wu]]) and a
+**"reformist" tendency** (looking to the idealized Zhou — retrenchment, ritual, restraint). That
+reformist current culminated in **[[wang-mang|Wang Mang]]**, the consort-clan magnate who usurped
+the throne and founded the **Xin dynasty (9–23 CE)**, dividing the Han into **Former (Western)** and
+**Later (Eastern)** halves; his archaizing land, slavery, and currency reforms failed amid a Yellow
+River catastrophe and the Red Eyebrows revolt, and the Han was restored in 25 CE.
 
 ## Decline and the Birth of East Asia
 

@@ -2469,3 +2469,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 ingest | Cambridge History of the Second World War, Vol. I: Fighting the War (Ferris & Mawdsley, 2015) | World Wars Era | global | Pages created: 1 (strategic-bombing-campaign) | Pages updated: 1 (second-world-war-1939) | hybrid-light; military/strategic
 ## 2026-06-14 ingest | Cambridge History of the Second World War, Vol. III: Total War: Economy, Society and Culture (Geyer & Tooze, 2015) | World Wars Era | global | Pages created: 1 (the-holocaust) | Pages updated: 2 (war-economy, total-war) | deep; Tooze economic scholarship
 ## 2026-06-14 ingest-complete | The Cambridge History of the Second World War (Vols I & III; Vol II absent) | Total pages created: 4 | Total pages updated: 3 | filled Holocaust + strategic-bombing gaps; WWII war economy (Tooze)
+
+## 2026-06-14 section | Cambridge History of China (Chinese trans., 11-vol) | Cycle 1: Qin-Han (Eng. Vol. 1) | Classical Antiquity | china | Pages created: 2 (cambridge-history-of-china source, wang-mang) | Pages updated: 1 (han-dynasty) | MULTI-SESSION; Chinese translation layer; Cycles 2-7 pending
