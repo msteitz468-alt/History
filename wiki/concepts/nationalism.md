@@ -5,8 +5,8 @@ origin: Modern nationalism crystallized from the seventeenth–eighteenth centur
 applies_to_periods: [Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 applies_to_regions: [global]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [concept]
 ---
 
@@ -90,6 +90,11 @@ claim to represent).
 
 ## Related pages
 
-[[atlantic-revolutions]] · [[imperialism]] · [[self-strengthening]] ·
+[[atlantic-revolutions]] · [[revolutions-of-1848]] · [[italian-unification]] · [[german-unification]] ·
+[[imperialism]] · [[self-strengthening]] ·
 [[decolonization]] · [[genocide]] · [[communism-and-fascism]] · [[population-politics]] ·
 [[eurocentrism]] · [[long-19th-century]] · [[world-wars-era]]
+
+*Its mid-19th-century high tide — the [[revolutions-of-1848|1848 revolutions]] and the
+[[italian-unification|Italian]] and [[german-unification|German]] unifications — is documented
+from the [[new-cambridge-modern-history-v10|New Cambridge Modern History, Vol. X]].*
