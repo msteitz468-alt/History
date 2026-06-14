@@ -8,8 +8,8 @@ region: [atlantic-world, north-america, western-europe, caribbean, latin-america
 process_type: [political, ideological]
 driven_by: [the fiscal aftermath of the Seven Years' War, Enlightenment ideas of popular sovereignty and natural rights, imperial centralizing pressure, the circulation of news and ideas across the Atlantic]
 produces: [the large-scale republic, the national state, the first wave of decolonization, modern [[nationalism]], abolitionism]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [process, transition, long-19th-century, atlantic-world]
 ---
 
@@ -74,5 +74,10 @@ follows.
 
 ## Related pages
 
+[[american-revolution]] · [[french-revolution-1789]] · [[enlightenment]] ·
 [[nationalism]] · [[decolonization]] · [[atlantic-slave-trade]] · [[united-states]] ·
-[[latin-america-modern]] · [[long-19th-century]] · [[age-of-expansion]]
+[[latin-america-modern]] · [[long-19th-century]] · [[age-of-expansion]] · [[new-cambridge-modern-history-v8]]
+
+*The two anchor revolutions now have dedicated pages — the [[american-revolution|American
+Revolution]] (1765–83) and the [[french-revolution-1789|French Revolution]] (1789–99) — built
+from the [[new-cambridge-modern-history-v8|New Cambridge Modern History, Vol. VIII]].*
