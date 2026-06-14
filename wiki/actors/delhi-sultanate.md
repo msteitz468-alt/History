@@ -9,8 +9,8 @@ affiliated_with: ["Turkish/Afghan Muslim ruling class", "Sunni Islam / the Calip
 opposed_by: ["the [[rajputs|Rajput]] and regional Hindu kingdoms", "the Mongols (on the NW frontier)", "Timur", "[[vijayanagara-bahmani|Vijayanagara]]"]
 key_events: ["the second battle of Tarain (1192) & founding (1206)", "Ala-ud-din Khalji's reforms (c. 1296–1316)", "Muhammad bin Tughluq's experiments", "Timur's sack of Delhi (1398)"]
 key_processes: ["[[state-formation]]", "[[indian-feudalism|the iqta system]]", "the coming of Islam to India"]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-14
 tags: [actor, state, late-middle-ages, south-asia]
 ---
 
@@ -79,7 +79,20 @@ and set in motion the **encounter of Islam and Indian society** — the "assimil
 produced the [[bhakti-movement|Bhakti–Sufi]] religious ferment, new languages (Urdu's roots), and
 Indo-Islamic architecture. It is the bridge from Thapar's Vol. I to the **Mughal** era of Vol. II.
 
+## The rulers (CHI Vol. III)
+
+The dynastic detail is deepened by the [[cambridge-history-of-india-v3|Cambridge History of India,
+Vol. III]] (Haig, 1928). Two reigns are now treated on their own pages: **[[alauddin-khalji|Ala-ud-din
+Khalji]]** (r. 1296–1316), the Sultanate's apogee — Mongol defence, the centralised land-revenue and
+price-control state, and the first conquest of the Deccan under Malik Kafur; and
+**[[muhammad-bin-tughluq]]** (r. 1325–1351), under whom the Sultanate reached its widest extent and
+then fragmented amid the failed Daulatabad capital-transfer and token-currency experiments, the
+secessions of [[vijayanagara-bahmani|Vijayanagara and the Bahmanis]] being the lasting result.
+(CHI Vol. III is a dated 1928 reference, mined for political narrative and read against the modern
+[[thapar-history-of-india-v1-1966|Thapar]] account above.)
+
 ## Related pages
 
-[[rajputs]] · [[mahmud-of-ghazni]] · [[indian-feudalism]] · [[bhakti-movement]] ·
-[[vijayanagara-bahmani]] · [[chola-empire]] · [[south-asia]] · [[thapar-history-of-india-v1-1966]]
+[[alauddin-khalji]] · [[muhammad-bin-tughluq]] · [[rajputs]] · [[mahmud-of-ghazni]] ·
+[[indian-feudalism]] · [[bhakti-movement]] · [[vijayanagara-bahmani]] · [[chola-empire]] ·
+[[south-asia]] · [[thapar-history-of-india-v1-1966]] · [[cambridge-history-of-india-v3]]

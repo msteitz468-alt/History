@@ -9,8 +9,8 @@ affiliated_with: ["the Deccan and the south", "Hinduism (Vijayanagara) / Islam (
 opposed_by: ["each other (across the Krishna/Tungabhadra frontier)", "the [[delhi-sultanate|Delhi Sultanate]]"]
 key_events: ["the founding of Vijayanagara (~1336) and the Bahmani kingdom (1347)", "the conquest of Madurai (1370)", "the Vijayanagara–Bahmani wars over the Raichur Doab"]
 key_processes: ["[[state-formation]]", "[[indian-ocean-trade]]"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [actor, state, late-middle-ages, south-asia]
 ---
 
@@ -62,7 +62,23 @@ she is at pains to deny) but as a **regional power struggle** in which both side
 the other faith and fought co-religionists freely. Vijayanagara was the last great Hindu empire of the
 south; its capital Hampi remains one of India's most spectacular ruins.
 
+## The Bahmani sultanate in detail (CHI Vol. III)
+
+The [[cambridge-history-of-india-v3|Cambridge History of India, Vol. III]] (Haig, 1928) devotes
+several chapters to the **Bahmani kingdom** itself. Founded in 1347 when the Deccan governors
+revolted from [[muhammad-bin-tughluq|Muhammad bin Tughluq]] and raised **Ala-ud-din Hasan Bahman
+Shah** to the throne, it was the first independent Muslim power of the Deccan, ruling from Gulbarga
+and later **Bidar**. Its high point came under the great Persian minister **Mahmud Gawan**
+(d. 1481), who expanded the kingdom to its widest extent and reformed its administration — but the
+Bahmani state was riven by a bitter factional rivalry between the **"foreigners" (afaqis** —
+Persian and other immigrant Muslims) and the **"Deccanis"** (locally born Muslims and Abyssinians),
+and Mahmud Gawan's execution on a forged charge accelerated its decline. In the decades after 1490
+the kingdom fragmented into the **five Deccan sultanates** (Bijapur, Golconda, Ahmadnagar, Bidar,
+Berar), which in 1565 combined to crush Vijayanagara at **Talikota**. (CHI Vol. III is dated, mined
+here for the Bahmani dynastic narrative.)
+
 ## Related pages
 
-[[delhi-sultanate]] · [[chola-empire]] · [[bhakti-movement]] · [[indian-ocean-trade]] ·
-[[south-asia]] · [[thapar-history-of-india-v1-1966]]
+[[delhi-sultanate]] · [[alauddin-khalji]] · [[muhammad-bin-tughluq]] · [[chola-empire]] ·
+[[bhakti-movement]] · [[indian-ocean-trade]] · [[south-asia]] ·
+[[thapar-history-of-india-v1-1966]] · [[cambridge-history-of-india-v3]]
