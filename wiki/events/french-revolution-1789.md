@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: global
 causes: [the fiscal crisis of the absolutist state, Enlightenment ideas, social grievances of commoners and bourgeoisie, the example of the American Revolution, harvest failure]
 consequences: [the destruction of the ancien régime, the Declaration of the Rights of Man, modern ideological politics (left/right, nationalism), the Napoleonic era, the Atlantic revolutionary wave]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-14
 tags: [event, age-of-expansion, western-europe]
 ---
@@ -56,9 +56,10 @@ Thermidorian reaction and the Directory (1795–99), ending with **Napoleon's co
 - `produced:` **modern ideological politics** — nationalism, the citizen-army and *levée en
   masse*, the left/right spectrum, and the revolutionary tradition (and its conservative
   reaction, Burke).
-- `produced:` the **Napoleonic era** and a generation of European war; the export of
-  revolutionary law (the Civil Code) and the inspiration (and repression) of the wider
-  [[atlantic-revolutions|Atlantic revolutions]] (Haiti, Latin America).
+- `produced:` the **[[napoleon|Napoleonic]]** era and the **[[napoleonic-wars]]** — a
+  generation of European war; the export of revolutionary law (the **Civil Code**) and the
+  inspiration (and repression) of the wider [[atlantic-revolutions|Atlantic revolutions]]
+  (Haiti, Latin America).
 - Conventionally marks the opening of the [[1789-atlantic-revolutions|"long" 19th century]] /
   modern politics.
 

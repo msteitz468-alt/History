@@ -2422,3 +2422,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 section | New Cambridge Modern History (Modern) | Vol. VII: The Old Regime 1713–63 (Lindsay, ed.) | Age of Expansion | europe, global | Pages created: 2 | Pages updated: 1
 
 ## 2026-06-14 section | New Cambridge Modern History (Modern) | Vol. VIII: The American and French Revolutions 1763–93 (Goodwin, ed.) | Age of Expansion | atlantic-world, europe | Pages created: 2 | Pages updated: 1
+
+## 2026-06-14 ingest | Cambridge Modern History (Acton ser., 1907), Vol. IX: Napoleon | Age of Expansion–Long 19th C | europe | Pages created: 2 | Pages updated: 1 | dated source; substitutes for absent NCMH-Modern Vol IX
