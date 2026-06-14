@@ -117,8 +117,14 @@ evolutionary, not revolutionary. Burnard defends the plantation as a "vital earl
 modern institution" whose impact — for ill more than good — was decisive. Galeano's
 monoculture-as-curse thesis sits at the polemical, dependency end of this spectrum.
 
+The [[cambridge-world-history-slavery-v3|Cambridge World History of Slavery, Vol. 3]] (Eltis &
+Engerman, 2011) situates the mature plantation complex within a global continuum of early-modern
+coerced labour — from white indentured servitude, through the [[second-serfdom|East European
+manorial estate]], to indigenous American and Southeast Asian slavery — and traces the
+plantation's distinctive cultural product in [[creolization]].
+
 ## Related
 
-[[atlantic-slave-trade]] · [[columbian-exchange-1492]] · [[early-modern-migrations]] ·
+[[atlantic-slave-trade]] · [[creolization]] · [[columbian-exchange-1492]] · [[early-modern-migrations]] ·
 [[slavery]] · [[great-divergence]] · [[early-modern]] · [[military-revolution]] ·
 [[dependency-theory]] · [[galeano-open-veins]] · [[causes-of-latin-american-underdevelopment]]

@@ -8,8 +8,8 @@ region: [atlantic-world, west-africa, central-africa, caribbean, andes, eastern-
 process_type: demographic
 driven_by: [plantation demand for labor (especially sugar), American demographic collapse, pre-existing African slavery and slave markets, European armed maritime commerce]
 produces: [the largest forced migration in history, African diaspora cultures of the Americas, demographic distortion in Atlantic Africa, the plantation complex, creole languages and Atlantic religions]
-sources_ingested: 7
-last_updated: 2026-06-13
+sources_ingested: 8
+last_updated: 2026-06-14
 tags: [process, early-modern, atlantic-world, west-africa]
 ---
 
@@ -249,9 +249,23 @@ through Catholic **cofradías** and African-identity associations (Congos, Yorub
 and resisted above all by **flight** — most dramatically in the *quilombo* (maroon
 community) of **Palmares** in Brazil, destroyed by *paulistas* only in the 1690s.
 
+## The Atlantic system in global perspective (CWHS Vol. 3)
+
+The [[cambridge-world-history-slavery-v3|Cambridge World History of Slavery, Vol. 3]] (Eltis &
+Engerman, 2011) frames the Atlantic trade as the largest node in a **global early-modern web of
+coerced labour**, not a sui-generis horror. It sets the African plantation slavery beside
+**European indentured/white servitude** (which supplied much early Caribbean and Chesapeake
+labour before African slavery hardened into the norm), **indigenous American slavery** (North and
+South), slavery in **Southeast Asia and early-modern China**, and the **manorial
+[[second-serfdom|second serfdom]]** of East Central Europe — a continuum from indenture through
+serfdom to chattel slavery. Within the Atlantic, the volume's signature thematic contribution is
+**[[creolization]]**: the genesis of new African-American cultures, languages, and religions
+among the enslaved, and the demographic divide between creole (American-born) and "saltwater"
+(African-born) slaves.
+
 ## Related
 
-[[columbian-exchange-1492]] · [[plantation-economy]] · [[early-modern-migrations]] ·
+[[columbian-exchange-1492]] · [[plantation-economy]] · [[creolization]] · [[early-modern-migrations]] ·
 [[trans-saharan-trade]] · [[slavery]] · [[early-modern]] ·
 [[intercultural-relations-early-modern]] · [[impact-of-atlantic-slave-trade-on-africa]] ·
 [[reader-africa-biography]] · [[cambridge-history-of-africa-v4]] · [[sub-saharan-africa]]

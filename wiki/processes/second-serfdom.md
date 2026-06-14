@@ -8,8 +8,8 @@ region: [eastern-europe, northern-europe]
 process_type: [economic, social]
 driven_by: ["weak states and an underdeveloped urban sector east of the Elbe", "a powerful, numerous landed nobility", "western demand for Baltic grain and cattle", "the labour shortage after the demographic crisis"]
 produces: ["the demesne-and-labour-service (Gutsherrschaft) estate", "the legal tying of peasants to the soil", "the grain-export economy of the Baltic", "the east–west divergence of European rural society"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-14
 tags: [process, late-middle-ages, eastern-europe]
 ---
 
@@ -70,6 +70,16 @@ because enserfment lagged the population fall by generations and ran *against* t
 direction, the cause must lie in the regional balance of power between lords, peasants, towns and
 the state — not in plague mortality alone. This is part of his broader critique of the
 "demographic crisis" as a sufficient explanation of fifteenth-century rural change.
+
+## As a coerced-labour regime (CWHS Vol. 3 & 4)
+
+The [[cambridge-world-history-slavery-v3|Cambridge World History of Slavery]] treats East
+Central European **manorialism (1500–1800)** as one regime on the early-modern continuum of
+coerced labour, alongside [[atlantic-slave-trade|Atlantic slavery]], white servitude, and
+indigenous bondage — the unfree tied to the land rather than owned as chattel. Vol. 4 then takes
+up the **[[abolition-of-slavery|emancipation of the serfs]]** (Habsburg lands 1781/1848,
+Russia 1861) as part of the same nineteenth-century wave of emancipation that ended New World
+slavery — linking the end of European serfdom to global abolition.
 
 ## Related
 
