@@ -64,9 +64,9 @@ Some regions are tracked at finer resolution, nested under the global periods:
 Cross-regional cuts through a single moment, showing what was happening everywhere at once.
 
 - **[[synchronic-1200bce|c. 1200 BCE]]** — the Bronze Age Collapse
-- _c. 1 CE — the age of empires (Rome, Han, Parthia, Kushan)_ — planned
-- _c. 1200 CE — the Eurasian high-medieval world on the eve of the Mongols_ — planned
-- _c. 1500 CE — the world the Columbian Exchange connected_ — planned
+- **[[synchronic-1ce|c. 1 CE]]** — the age of empires (Rome, Han, Parthia, Kushan)
+- **[[synchronic-1200ce|c. 1200 CE]]** — the Eurasian high-medieval world on the eve of the Mongols
+- **[[synchronic-1500ce|c. 1500 CE]]** — the world the Columbian Exchange connected
 
 ---
 

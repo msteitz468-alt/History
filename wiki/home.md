@@ -20,8 +20,8 @@ History is anchored in **time**. Every page belongs to at least one of the 24 pe
 
 - **[[master-timeline|Master Timeline]]** — the full chronological spine, period by period,
   with prev/next wiring and the great transitions between them.
-- **Synchronic snapshots** ("meanwhile, around the world"): **[[synchronic-1200bce|c. 1200 BCE — the Bronze Age Collapse]]**
-  _(more snapshots to come: c. 1 CE, c. 1200 CE, c. 1500 CE)_
+- **Synchronic snapshots** ("meanwhile, around the world"): [[synchronic-1200bce|c. 1200 BCE]] ·
+  [[synchronic-1ce|c. 1 CE]] · [[synchronic-1200ce|c. 1200 CE]] · [[synchronic-1500ce|c. 1500 CE]]
 
 ---
 
