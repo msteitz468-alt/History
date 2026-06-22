@@ -7,11 +7,28 @@ tags: [hub, region, central-asia]
 
 # Central Asia — Regional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> The pivot of the Old World — the Silk Road heartland where Hellenistic, Iranian, Indian, Chinese,
+> and steppe worlds met and mixed. The exhaustive auto-list is the **Bases view** below.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · related: [[hubs/regions/steppe|Steppe]] ·
+[[hubs/regions/silk-road|Silk Road]] · [[hubs/regions/iran-plateau|Iran]] · [[hubs/regions/south-asia|South Asia]]
+
+---
+
+## Key threads
+- **Hellenistic Bactria:** [[bactria|Bactria]], the [[greco-bactrian-kingdom|Greco-Bactrian Kingdom]],
+  the city of [[ai-khanoum|Ai-Khanoum]], and the Indo-Greek [[menander-i|Menander I]].
+- **Kushan & Sogdian worlds:** the [[kushan-empire|Kushan Empire]] and the [[sogdians|Sogdians]],
+  master-merchants of the [[silk-roads|Silk Roads]].
+- **Islamic & Turkic:** [[mahmud-of-ghazni|Mahmud of Ghazni]]; the [[mongol-empire|Mongol Empire]];
+  [[babur|Babur]], who launched from here to found Mughal India.
+- **Modern:** the [[soviet-war-in-afghanistan-1979|Soviet war in Afghanistan]].
+
+## Connectors
+[[pastoral-nomadism|Pastoral nomadism]] · [[medieval-europe-asia-trade|Europe–Asia trade]] ·
+[[medieval-latin-missions-to-asia|Latin missions to Asia]].
+
+---
 
 ## All Central Asia pages (live)
 
@@ -21,17 +38,9 @@ filters:
     - 'tags.contains("central-asia")'
 views:
   - type: table
-    name: Central Asia pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: Central Asia pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `central-asia` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.

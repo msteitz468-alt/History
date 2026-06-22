@@ -1,19 +1,38 @@
 ---
-title: "the Steppe — Regional Hub"
+title: "The Steppe — Regional Hub"
 hub_type: region
 last_updated: 2026-06-22
 tags: [hub, region, steppe]
 ---
 
-# the Steppe — Regional Hub
+# The Steppe — Regional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> The grassland corridor running from Hungary to Mongolia — cradle of the horse nomads who, for three
+> millennia, repeatedly overran the settled empires of Eurasia. The exhaustive auto-list is the
+> **Bases view** below. See also the transregional [[hubs/regions/eurasian-steppe|Eurasian Steppe]] hub.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · related: [[hubs/regions/eurasian-steppe|Eurasian Steppe]] ·
+[[hubs/regions/central-asia|Central Asia]] · [[hubs/themes/warfare|Warfare]]
 
-## All the Steppe pages (live)
+---
+
+## Key threads
+- **Early nomads:** the [[indo-european-migrations|Indo-European migrations]] out of the steppe; the
+  [[scythians|Scythians]] ([[darius-scythian-expedition-513bce|Darius's expedition]]),
+  [[cimmerians|Cimmerians]], and the [[bosporan-kingdom|Bosporan Kingdom]].
+- **Xiongnu & Huns:** the [[xiongnu|Xiongnu]] confederacy against Han China; the [[huns|Huns]] in the west.
+- **The Mongols:** [[genghis-khan|Genghis Khan]] and the [[mongol-empire|Mongol Empire]] —
+  the [[mongol-army|Mongol army]], the [[mongol-conquests-13th-century|conquests]],
+  [[kublai-khan|Kublai Khan]], and the [[golden-horde|Golden Horde]].
+- The underlying way of life: [[pastoral-nomadism|pastoral nomadism]].
+
+## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
+- [[indo-european-origins|Indo-European origins]] (the steppe / Kurgan hypothesis) ·
+  [[the-mongol-yasa|the Mongol Yasa]].
+
+---
+
+## All Steppe pages (live)
 
 ```base
 filters:
@@ -21,17 +40,9 @@ filters:
     - 'tags.contains("steppe")'
 views:
   - type: table
-    name: the Steppe pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: Steppe pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `steppe` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.

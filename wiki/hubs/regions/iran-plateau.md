@@ -1,19 +1,37 @@
 ---
-title: "the Iranian Plateau — Regional Hub"
+title: "The Iranian Plateau — Regional Hub"
 hub_type: region
 last_updated: 2026-06-22
 tags: [hub, region, iran-plateau]
 ---
 
-# the Iranian Plateau — Regional Hub
+# The Iranian Plateau — Regional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> The seat of the great Iranian empires — Achaemenid, Parthian, and Sasanian — Rome's eastern rival
+> and the bridge between the Near East and Central Asia. The exhaustive auto-list is the **Bases
+> view** below.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · parent: [[hubs/regions/near-east|Near East]] ·
+related: [[hubs/regions/central-asia|Central Asia]] · [[hubs/themes/empire-and-collapse|Empire & Collapse]]
 
-## All the Iranian Plateau pages (live)
+---
+
+## Key threads
+- **Predecessors:** [[elam|Elam]] · the [[medes|Medes]] · the [[persian-plateau-second-millennium|second-millennium plateau]].
+- **Achaemenid Persia:** the [[achaemenid-empire|Achaemenid Empire]] — [[cyrus-the-great|Cyrus]],
+  [[xerxes-i|Xerxes]], [[artaxerxes-ii|Artaxerxes II]] — and [[zoroastrianism|Zoroastrianism]];
+  ended by [[alexander-the-great|Alexander]].
+- **Parthia & the Sasanians:** the [[parthian-empire|Parthian Empire]] → the [[sasanian-empire|Sasanian Empire]]
+  ([[ardashir-i|Ardashir I]], [[shapur-i|Shapur I]]), Rome's great rival, until the Islamic conquest.
+- **Medieval Iran:** the [[seljuk-empire|Seljuks]] and the Mongol [[ilkhanate|Ilkhanate]].
+
+## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
+- [[herodotus-reliability|Herodotus]] as a source for Achaemenid Persia ·
+  [[indo-european-origins|Indo-European origins]] and the coming of the Iranians.
+
+---
+
+## All Iranian Plateau pages (live)
 
 ```base
 filters:
@@ -21,17 +39,9 @@ filters:
     - 'tags.contains("iran-plateau")'
 views:
   - type: table
-    name: the Iranian Plateau pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: Iran pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `iran-plateau` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.
