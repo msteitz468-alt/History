@@ -149,12 +149,12 @@ philosophy (*falsafa*), science, and mysticism (*Sufism*) are absent. Priority l
 |---|---|---|---|
 | *The Venture of Islam* (3 vols.) — Marshall Hodgson | `[LIBRARY]` | ✅ | all 3 vols ingested (`hodgson-venture-of-islam-v1/v2/v3`, 134 pages) — the Gap-4b backbone |
 | *Philosophy in the Islamic World* — Peter Adamson | `[BUY]` | ✅ | ingested (`adamson-philosophy-islamic-world-2016`) — incl. the medieval Jewish-philosophy tradition |
-| *The Cambridge Companion to Arabic Philosophy* — Adamson & Taylor (eds.) | `[BUY]` | ❌ | reference companion |
+| *The Cambridge Companion to Arabic Philosophy* — Adamson & Taylor (eds.) | `[BUY]` | ✅ | ingested (`adamson-taylor-cambridge-companion-arabic-philosophy-2005`) — systematic-topic + Latin-reception layer |
 | *The Cambridge Companion to Classical Islamic Theology* — Tim Winter (ed.) | `[BUY]` | ✅ | ingested (`winter-cambridge-companion-islamic-theology-2008`) — kalam/theology layer |
 | *Sharīʿa: Theory, Practice, Transformations* — Wael Hallaq | `[BUY]` | ❌ | Islamic law (+ his *Origins and Evolution of Islamic Law*) |
 | *Islamic Science and the Making of the European Renaissance* — George Saliba | `[BUY]` | ❌ | science |
 | *Mystical Dimensions of Islam* — Annemarie Schimmel | `[BUY]` | ❌ | the standard work on Sufism |
-| *The Muqaddimah* — Ibn Khaldun (Rosenthal trans.) | `[BUY]` | ❌ | primary; also key for the historiography hub (see Gap 9) |
+| *The Muqaddimah* — Ibn Khaldun (Rosenthal trans.) | `[BUY]` | ✅ | ingested (`ibn-khaldun-muqaddimah`) — primary; 23 pages; also key for the historiography hub (see Gap 9) |
 | *The Incoherence of the Philosophers* — al-Ghazali ↔ *The Incoherence of the Incoherence* — Ibn Rushd | `[BUY]` | ❌ | the defining falsafa/kalam debate; ingest as a paired controversy |
 | *Hayy ibn Yaqzan* — Ibn Tufayl | `[BUY]` | ❌ | primary; philosophical novel |
 | *Encyclopaedia of Islam* (Brill) | `[LIBRARY]` | ❌ | authoritative reference for gap-filling |
@@ -241,7 +241,7 @@ the Muqaddimah, the Odyssey, and the Aeneid are not.
 |---|---|---|---|
 | *The Histories* — Polybius | — | ✅ | `polybius-histories` |
 | *The Annals of Imperial Rome* — Tacitus | — | ✅ | `tacitus-annals` |
-| *The Muqaddimah* — Ibn Khaldun (Rosenthal/Dawood) | `[BUY]` | ❌ | also listed under Gap 4b; high value |
+| *The Muqaddimah* — Ibn Khaldun (Rosenthal/Dawood) | `[BUY]` | ✅ | ingested (`ibn-khaldun-muqaddimah`); also listed under Gap 4b |
 | *The Travels of Ibn Battuta* (Mackintosh-Smith ed.) | `[BUY]` | 🟡 | Black-Africa portion in; full *Travels* not |
 | *The Secret History of the Mongols* — de Rachewiltz trans. | `[LIBRARY]` | ❌ | only Mongol-authored account of Chinggis |
 | *Behistun Inscription* — translated text | `[BUY]` | ❌ | Achaemenid royal inscription |
