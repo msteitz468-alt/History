@@ -224,7 +224,7 @@ History of Japan volumes, and Genji are in. Sadler and Keene remain.
 | *The Penguin History of Modern Russia* — Robert Service | `[BUY]` | ❌ | 1900–present |
 | *The Primary Chronicle* (Nestor) — Samuel Cross trans. | `[BUY]` | ✅ | `cross-primary-chronicle-laurentian-1953` (all 4 subagents complete; source page + claims; 11+ pages updated with direct quotes + source criticism; foundational for Kievan Rus' / early-middle-ages) |
 | *Russia: A History* — Gregory Freeze (ed.) | `[BUY]` | ✅ | `freeze-russia-a-history-2002` (2nd ed. multi-author survey; source page + claims from 6 subagents on all periods; complements Riasanovsky/Service) |
-| *The Gulag Archipelago* — Solzhenitsyn (abridged) | `[BUY]` | ❌ | 20th-c. primary testimony |
+| *The Gulag Archipelago* — Solzhenitsyn (abridged) | `[BUY]` | ✅ | `solzhenitsyn-gulag-archipelago-1973` (abridged Ericson); source + solzhenitsyn-aleksandr + gulag-system process + kengir-uprising-1954 event created; 3 subagents + main-thread reconciliation complete with grounded quotes/lines; primary testimony on Soviet camps/repression and moral analysis; filed. Strengthens Gap 8. |
 | *The Cambridge History of Russia* (3 vols.) | `[LIBRARY]` | ❌ | academic reference |
 
 ---

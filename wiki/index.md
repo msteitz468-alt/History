@@ -74,6 +74,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `french-invasion-of-russia-1812.md` | French Invasion of Russia (Patriotic War of 1812) | 1812-06-24 | eastern-europe |
 | `great-northern-war-1700.md` | Great Northern War | 1700 | eastern-europe, northern-europe |
 | `hungarian-revolution-1956.md` | Hungarian Revolution of 1956 | 1956-10-23 | eastern-europe |
+| `kengir-uprising-1954.md` | Kengir Uprising | 1954-05 | eastern-europe, steppe | (from Gulag Archipelago; 40 days of prisoner self-rule in Special Camp)
 | `legislative-commission-1767.md` | Legislative Commission | 1767 | eastern-europe |
 | `livonian-war-1558.md` | Livonian War | 1558 | eastern-europe, northern-europe |
 | `molotov-ribbentrop-pact-1939.md` | Molotov-Ribbentrop Pact | 1939-08-23 | eastern-europe, western-europe |
@@ -161,7 +162,8 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `rise-of-moscow.md` | The Rise of Moscow | Late Middle Ages, Early Modern | eastern-europe |
 | `serfdom-in-russia.md` | Serfdom in Russia | Early Modern, Age of Expansion | eastern-europe |
 | `soviet-collectivization.md` | Soviet Collectivization | World Wars Era | eastern-europe |
-| `soviet-industrialization.md` | Soviet Industrialization | World Wars Era | eastern-europe |
+| `soviet-industrialization.md` | Soviet Industrialization | World Wars Era | eastern-europe | (updated Gulag Archipelago lines 2801–5200: Belomor/Frenkel camp labor) |
+| `gulag-system.md` | Gulag System | World Wars Era–Cold War | eastern-europe, steppe, central-asia | (created from Solzhenitsyn; Archipelago as inherent "sewage disposal system"; camp mechanics, moral analysis) |
 | `war-communism.md` | War Communism | World Wars Era | eastern-europe |
 | `westernization-of-russia.md` | Westernization of Russia | Early Modern, Age of Expansion | eastern-europe |
 
@@ -377,6 +379,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | File | Title | Year | Type |
 |---|---|---|---|
 | `christian-cwh-v1-2015.md` | The Cambridge World History, Volume I: Introducing World History, to 10,000 BCE | 2015 | reference |
+| `solzhenitsyn-gulag-archipelago-1973.md` | The Gulag Archipelago (Abridged) | 1973 (abridged 1985) | primary | (3 ranges; created gulag-system process + kengir-uprising-1954 event; updated solzhenitsyn-aleksandr, stalin-joseph, soviet-union, soviet-industrialization, great-purge, de-stalinization, nkvd, world-wars-era, cold-war) |
 | `barker-cwh-v2-2015.md` | The Cambridge World History, Volume II: A World with Agriculture, 12,000 BCE–500 CE | 2015 | reference |
 | `yoffee-cwh-v3-2015.md` | The Cambridge World History, Volume III: Early Cities in Comparative Perspective, 4000 BCE–1200 CE | 2015 | reference |
 | `benjamin-cwh-v4-2015.md` | The Cambridge World History, Volume IV: A World with States, Empires, and Networks, 1200 BCE–900 CE | 2015 | reference |

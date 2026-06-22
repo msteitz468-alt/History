@@ -9,7 +9,7 @@ affiliated_with: [[soviet-union|Soviet Union]], [[bolshevik-party|Bolshevik Part
 opposed_by: ["Political Opponents", [[stalin-joseph|Stalin's victims]]]
 key_events: [[great-purge|Great Purge / Ezhovshchina]]
 key_processes: [[great-purge|Great Purge / Ezhovshchina]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-22
 tags: [actor, institution, world-wars-era, eastern-europe]
 ---
@@ -26,3 +26,6 @@ The OGPU lost its separate institutional status, and its activities and personne
 
 ## Historical Significance
 The NKVD was the primary institutional arm of Stalinist terror, responsible for some of the worst human rights abuses of the twentieth century. The NKVD’s star had risen while the party’s had fallen; and Beria, when replacing Yezhov, entered the small circle of Stalin’s close advisers. The ‘organs’, as the security police were known, were at Stalin’s elbow whenever he needed them. Fearsome as it was, moreover, the NKVD itself operated in dread of Stalin (line 1768). Ezhov himself and many of his collaborators were eventually executed in the purge, illustrating the "permanent purge" dynamic of the era. Its state security functions were later split off and ultimately reconstituted in the KGB. An immense punitive industry was developed with guaranteed employment for torturers, jailors, stenographers, van-drivers, executioners, grave-diggers and camp-guards (line 1712).
+
+## Camp Guards and "Dogs' Service" (from Solzhenitsyn range lines 2801–5200; administered [[gulag-system]]; contributed_to [[great-purge]] and [[soviet-industrialization]])
+Range details “camp keepers” (lagershchiki) from colonel down: selected for cruelty (laxity eliminated); arrogance, autocracy, greed, lasciviousness, malice (lines 4309–4349). “The percentage of the merciless and cruel among the camp keepers is much higher.” (line 4315) Self-guarding: zeks as guards “cruel to their own brothers” (line 4371). “Dogs’ service”: officers/dogs committees; dogs fed better than prisoners (line 4293). Lower jailers sometimes sympathetic but officers virtually never; “universal law of the inverse ratio between social position and humaneness.” (line 4367) Campside stink zone spread camp ideology to free society (lines 4385–). Quotes/lines from range; links [[stalin-joseph]], [[soviet-union]]. Updated sources_ingested.
