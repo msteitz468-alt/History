@@ -1,6 +1,8 @@
 ---
 title: Early Prehistory
 period_number: 2
+preceded_by: [[[deep-prehistory|Deep Prehistory]]]
+followed_by: [[[late-prehistory|Late Prehistory]]]
 date_range: "3.3 million–300,000 BP"
 regions_covered: [africa, near-east, europe, east-asia, south-asia]
 major_themes: ["Homo genus evolution", "Oldowan and Acheulean technologies", "Out of Africa 1", "fire management origins", "brain size increase", "Homo heidelbergensis"]

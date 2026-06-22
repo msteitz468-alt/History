@@ -1,6 +1,8 @@
 ---
 title: World Wars Era
 period_number: 22
+preceded_by: [[[long-19th-century|Long 19th Century]]]
+followed_by: [[[cold-war|Cold War]]]
 date_range: 1914–1945 CE
 regions_covered: [global, western-europe, eastern-europe, east-asia, near-east, north-america, africa]
 major_themes: [total war, the return of global war, genocide, communism and fascism, the Great Depression, the second demographic and industrial surge, decolonization's prelude]

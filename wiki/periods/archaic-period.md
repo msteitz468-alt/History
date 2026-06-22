@@ -1,6 +1,8 @@
 ---
 title: Archaic Period
 period_number: 13
+preceded_by: [[[early-iron-age|Early Iron Age]]]
+followed_by: [[[classical-antiquity|Classical Antiquity]]]
 date_range: "800–500 BCE"
 regions_covered: [near-east, mesopotamia, levant, anatolia, iran-plateau, mediterranean, iberia, balkans, china, south-asia, north-africa, mesoamerica, andes]
 major_themes: ["the first territorial empires", "Neo-Assyrian and Achaemenid imperialism", "Greek colonization and the polis", "the Axial Age", "alphabetic literacy", "coinage", "the Eastern Zhou and Spring and Autumn period", "Mahajanapadas", "the rise of mounted steppe nomads"]

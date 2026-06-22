@@ -1,6 +1,8 @@
 ---
 title: Early Iron Age
 period_number: 12
+preceded_by: [[[late-bronze-age|Late Bronze Age]]]
+followed_by: [[[archaic-period|Archaic Period]]]
 date_range: "1,200–800 BCE (regionally diachronous)"
 regions_covered: [near-east, levant, anatolia, mesopotamia, iran-plateau, mediterranean, iberia, china, south-asia, north-africa, sub-saharan-africa, mesoamerica]
 major_themes: ["aftermath of the Bronze Age Collapse", "iron metallurgy", "Neo-Assyrian resurgence", "Phoenician expansion", "the Greek 'Dark Age'", "Western Zhou and its fall", "Vedic age", "alphabetic writing", "small states and tribal polities"]

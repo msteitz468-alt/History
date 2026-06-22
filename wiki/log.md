@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-22 admin | Hub architecture — first slice | Created home.md portal + master-timeline.md + synchronic-1200bce.md; wired preceded_by/followed_by on all 23 spine period pages. Begins the macro navigation layer (Hybrid MOC + Bases views). Next exemplars: warfare, rome, historiography-hub.
+
 ## 2026-06-12 section | GHA Vol. III (7th–11th c.) | Section: East, Central & Southern Africa; Madagascar (chs. 19–26) | Pages created: 0 | Pages updated: 2 | (swahili-coast — early Islamic coast, Zanj; aksum — post-Aksumite Ethiopia)
 
 ## 2026-06-12 section | GHA Vol. III (7th–11th c.) | Section: West Africa — trade, Ghana, Chad, Guinea (chs. 14–18) | Pages created: 1 | Pages updated: 1 | (kanem-bornu; enriched ghana-empire)

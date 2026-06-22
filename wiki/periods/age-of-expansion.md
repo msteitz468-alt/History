@@ -1,6 +1,8 @@
 ---
 title: Age of Expansion
 period_number: 20
+preceded_by: [[[early-modern|Early Modern]]]
+followed_by: [[[long-19th-century|Long 19th Century]]]
 date_range: 1700–1800 CE
 regions_covered: [atlantic-world, western-europe, north-america, caribbean, south-asia, east-asia, indian-ocean, west-africa, central-asia]
 major_themes: [maturing oceanic empires, the first global wars, the eighteenth-century crisis of the Asian land empires, the apex of the Atlantic slave and plantation system, industrious revolutions, the Enlightenment and the Atlantic Revolutions]

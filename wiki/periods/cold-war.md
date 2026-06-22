@@ -1,6 +1,8 @@
 ---
 title: Cold War
 period_number: 23
+preceded_by: [[[world-wars-era|World Wars Era]]]
+followed_by: [[[contemporary|Contemporary]]]
 date_range: 1945–1991 CE
 regions_covered: [global, north-america, eastern-europe, western-europe, east-asia, south-asia, africa, latin-america, near-east]
 major_themes: [bipolar superpower rivalry, the Great Acceleration, decolonization, the demographic explosion, the Green Revolution, nuclear danger, multipolar industrialization, development]

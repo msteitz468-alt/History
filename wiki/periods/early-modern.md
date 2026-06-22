@@ -1,6 +1,8 @@
 ---
 title: Early Modern
 period_number: 19
+preceded_by: [[[late-middle-ages|Late Middle Ages]]]
+followed_by: [[[age-of-expansion|Age of Expansion]]]
 date_range: 1500–1700 CE
 regions_covered: [atlantic-world, western-europe, mesoamerica, andes, west-africa, east-asia, near-east, south-asia, indian-ocean, southeast-asia]
 major_themes: [the construction of a global world, Columbian Exchange, oceanic empires, the silver-driven world economy, confessionalization and religious expansion, the military revolution debate, chartered companies, plantation slavery]

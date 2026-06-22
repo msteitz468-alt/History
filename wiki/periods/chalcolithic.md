@@ -1,6 +1,8 @@
 ---
 title: Chalcolithic
 period_number: 7
+preceded_by: [[[neolithic|Neolithic]]]
+followed_by: [[[early-bronze-age|Early Bronze Age]]]
 date_range: 5,500–3,300 BCE (regionally variable; overlaps Late Neolithic and Early Bronze Age)
 regions_covered: [near-east, mesopotamia, levant, anatolia, iran-plateau, southeast-europe, balkans]
 major_themes: [copper metallurgy, secondary products, craft specialization, proto-urban centers, social differentiation]

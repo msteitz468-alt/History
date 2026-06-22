@@ -1,6 +1,8 @@
 ---
 title: Classical Antiquity
 period_number: 14
+preceded_by: [[[archaic-period|Archaic Period]]]
+followed_by: [[[late-antiquity|Late Antiquity]]]
 date_range: "500–31 BCE"
 regions_covered: [mediterranean, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, north-africa, iberia, western-europe, south-asia, china, steppe]
 major_themes: ["Classical Greece and the polis at its height", "the Greco-Persian and Peloponnesian Wars", "Alexander and the Hellenistic world", "the rise of Rome", "the Mauryan Empire", "Qin unification and the early Han", "the first Silk Roads era", "Hellenistic science and cosmopolitanism", "mass chattel slavery"]

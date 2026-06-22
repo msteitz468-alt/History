@@ -1,6 +1,8 @@
 ---
 title: Early Middle Ages
 period_number: 16
+preceded_by: [[[late-antiquity|Late Antiquity]]]
+followed_by: [[[high-middle-ages|High Middle Ages]]]
 date_range: "600–1000 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, arabian-peninsula, central-asia, north-africa, west-africa, east-africa, south-asia, china, japan, korea, steppe, indian-ocean, silk-road]
 major_themes: ["the rise of Islam and the caliphates", "the Abbasid golden age", "Tang China and the second Silk Roads era", "the Carolingian Empire", "Byzantium's survival and golden age", "the formation of Japan and unified Korea", "trans-Saharan and Indian Ocean trade", "the spread of world religions", "post-imperial state-building", "barbarian law codes and wergild", "the North Sea emporium network (wics)", "the gold-to-silver monetary transition (sceattas)", "proprietary churches (Eigenkirchen)", "Insular art and Northumbrian learning", "Christianisation of the Germanic and Anglo-Saxon peoples"]

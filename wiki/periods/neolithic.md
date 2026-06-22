@@ -1,6 +1,8 @@
 ---
 title: Neolithic
 period_number: 6
+preceded_by: [[[mesolithic|Mesolithic]]]
+followed_by: [[[chalcolithic|Chalcolithic]]]
 date_range: "9,500–3,000 BCE (regionally diachronous; see note)"
 regions_covered: [near-east, levant, anatolia, iran-plateau, south-asia, china, japan, korea, southeast-asia, melanesia, sub-saharan-africa, west-africa, mesoamerica, andes, north-america, europe, mediterranean]
 major_themes: ["origins of agriculture", "plant and animal domestication", "sedentism", "village life", "the Neolithic Revolution", "demographic expansion", "emergent inequality", "secondary products", "pottery", "foraging-farming frontier"]

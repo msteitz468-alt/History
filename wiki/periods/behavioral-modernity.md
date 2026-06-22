@@ -1,6 +1,8 @@
 ---
 title: Behavioral Modernity
 period_number: 4
+preceded_by: [[[late-prehistory|Late Prehistory]]]
+followed_by: [[[mesolithic|Mesolithic]]]
 date_range: "50,000–12,000 BP"
 regions_covered: [africa, europe, near-east, east-asia, south-asia, southeast-asia, australia, north-america, andes, amazonia, eastern-north-america]
 major_themes: ["Out of Africa 2 dispersal", "global colonization", "Neanderthal extinction", "Late Glacial Maximum", "cave art and symbolic culture", "Paleolithic lifeways", "climate and human migration", "Clovis culture", "megafaunal extinctions", "Natufian culture and pre-agriculture"]

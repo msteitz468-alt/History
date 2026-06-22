@@ -1,6 +1,8 @@
 ---
 title: High Middle Ages
 period_number: 17
+preceded_by: [[[early-middle-ages|Early Middle Ages]]]
+followed_by: [[[late-middle-ages|Late Middle Ages]]]
 date_range: "1000–1300 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road]
 major_themes: ["the thickening of Afro-Eurasian exchange webs", "the commercial revolution and a 'first globalization'", "the apogee of Song China", "the Crusades and Christian–Islamic frontier conflict", "cultural crystallization across Eurasian ecumenes", "the rise of universities and scholastic learning", "the eve of the Mongol conquests", "demographic expansion across the Old World", "Angkor, Cahokia, and regional apogees beyond Eurasia"]

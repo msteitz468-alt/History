@@ -1,6 +1,8 @@
 ---
 title: Late Prehistory
 period_number: 3
+preceded_by: [[[early-prehistory|Early Prehistory]]]
+followed_by: [[[behavioral-modernity|Behavioral Modernity]]]
 date_range: "300,000–50,000 BP"
 regions_covered: [africa, europe, near-east, east-asia, south-asia]
 major_themes: ["Homo sapiens emergence", "Neanderthals", "Middle Stone Age technologies", "archaic modern humans", "Levant populations", "Homo sapiens-Neanderthal contact", "fire management", "early symbolic behavior"]

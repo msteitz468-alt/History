@@ -1,6 +1,8 @@
 ---
 title: Long 19th Century
 period_number: 21
+preceded_by: [[[age-of-expansion|Age of Expansion]]]
+followed_by: [[[world-wars-era|World Wars Era]]]
 date_range: 1800–1914 CE
 regions_covered: [global, western-europe, north-america, east-asia, south-asia, africa, latin-america, near-east, pacific]
 major_themes: [industrialization, fossil-fuel energy transition, the new imperialism, nationalism, mass migration, abolition, the demographic transition, global market integration]

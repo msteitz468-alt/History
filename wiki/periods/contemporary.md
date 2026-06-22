@@ -1,6 +1,8 @@
 ---
 title: Contemporary
 period_number: 24
+preceded_by: [[[cold-war|Cold War]]]
+followed_by: []
 date_range: 1991–present
 regions_covered: [global]
 major_themes: [globalization, the climate crisis, the East Asian ascent, post-Cold-War order, renewed mass migration, demographic deceleration, digital connection]
