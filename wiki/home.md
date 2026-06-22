@@ -49,10 +49,32 @@ Narrative arcs that tie a civilization's periods, actors, events, and places tog
 
 ## Regional hubs — history by where
 
-One landing page per region of the world. _(skeleton — stubs being filled in)_
+One landing page per region of the world. Each auto-lists its pages via a live Bases view;
+curated narrative spines are written over time. _(skeleton — stubs being filled in)_
 
-- [[hubs/regions/china|China]] · [[hubs/regions/japan|Japan]] · [[hubs/regions/near-east|Near East]] ·
-  [[hubs/regions/west-africa|West Africa]] · [[hubs/regions/andes|Andes]] · [[hubs/regions/mediterranean|Mediterranean]] …
+- **Africa:** [[hubs/regions/north-africa|North Africa]] · [[hubs/regions/west-africa|West Africa]] ·
+  [[hubs/regions/east-africa|East Africa]] · [[hubs/regions/horn-of-africa|Horn of Africa]] ·
+  [[hubs/regions/central-africa|Central Africa]] · [[hubs/regions/southern-africa|Southern Africa]] ·
+  [[hubs/regions/sub-saharan-africa|Sub-Saharan Africa]]
+- **Americas:** [[hubs/regions/mesoamerica|Mesoamerica]] · [[hubs/regions/andes|Andes]] ·
+  [[hubs/regions/north-america|North America]] · [[hubs/regions/eastern-north-america|Eastern North America]] ·
+  [[hubs/regions/caribbean|Caribbean]]
+- **Near East & Central Asia:** [[hubs/regions/near-east|Near East]] · [[hubs/regions/mesopotamia|Mesopotamia]] ·
+  [[hubs/regions/levant|Levant]] · [[hubs/regions/anatolia|Anatolia]] · [[hubs/regions/iran-plateau|Iranian Plateau]] ·
+  [[hubs/regions/arabian-peninsula|Arabian Peninsula]] · [[hubs/regions/central-asia|Central Asia]] ·
+  [[hubs/regions/steppe|Steppe]]
+- **South & East Asia:** [[hubs/regions/south-asia|South Asia]] · [[hubs/regions/southeast-asia|Southeast Asia]] ·
+  [[hubs/regions/east-asia|East Asia]] · [[hubs/regions/china|China]] · [[hubs/regions/japan|Japan]] ·
+  [[hubs/regions/korea|Korea]]
+- **Europe:** [[hubs/regions/western-europe|Western Europe]] · [[hubs/regions/eastern-europe|Eastern Europe]] ·
+  [[hubs/regions/northern-europe|Northern Europe]] · [[hubs/regions/mediterranean|Mediterranean]] ·
+  [[hubs/regions/iberia|Iberia]] · [[hubs/regions/british-isles|British Isles]] · [[hubs/regions/balkans|Balkans]] ·
+  [[hubs/regions/scandinavia|Scandinavia]]
+- **Oceania:** [[hubs/regions/australia|Australia]] · [[hubs/regions/polynesia|Polynesia]] ·
+  [[hubs/regions/melanesia|Melanesia]]
+- **Transregional:** [[hubs/regions/silk-road|Silk Road]] · [[hubs/regions/indian-ocean|Indian Ocean World]] ·
+  [[hubs/regions/atlantic-world|Atlantic World]] · [[hubs/regions/mediterranean-world|Mediterranean World]] ·
+  [[hubs/regions/eurasian-steppe|Eurasian Steppe]]
 
 ---
 
