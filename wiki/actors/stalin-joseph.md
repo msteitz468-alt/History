@@ -8,9 +8,7 @@ region: [eastern-europe]
 affiliated_with: [[soviet-union|Soviet Union]], [[bolshevik-party|Bolshevik Party]]]
 opposed_by: [[trotsky-leon|Leon Trotsky]], [[menshevik-party|Mensheviks]], [[white-movement|White Movement]], [[adolf-hitler|Adolf Hitler]], [[united-states|United States]]]
 key_events: [[russian-revolution-1917|October Revolution of 1917]], [[soviet-industrialization|First Five-Year Plan]], [[soviet-collectivization|Collectivization of Agriculture]], [[great-purge|Great Purge]], [[molotov-ribbentrop-pact-1939|Molotov-Ribbentrop Pact]], [[battle-of-stalingrad-1942|Battle of Stalingrad]], [[battle-of-kursk-1943|Battle of Kursk]]]
-key_processes: [[soviet-industrialization|Soviet Industrialization]], [[soviet-collectivization|Soviet Collectivization]], [[great-purge|Great Purge]], [[de-stalinization|De-Stalinization]] (posthumous)]
-
-From Freeze (ed.) 2002 chronology: "1929 ... Stalin calls for mass collectivization and liquidation of kulaks (27 December)" (lines 18465–18473); "1930 Mass collectivization launched (5 January)" (lines 18475–18477); "1932–3 Famine in Ukraine and elsewhere" (lines 18481–18483); "1934 ... assassination of Sergei Kirov (December)" (lines 18487–18489); "1936 ... show trial of Zinoviev, Kamenev, and others (August); ... Ezhov appointed head of NKVD (September); promulgation of Stalin Constitution (December)" (lines 18493–18495); "1937 ... execution of Marshal Tukhachevskii and Red Army officers (June); height of ‘Great Terror’ (to late 1938)" (lines 18495–18497); "1938 ... Beria succeeds Ezhov as head of NKVD (December)" (lines 18499–18501); "1939 Nazi–Soviet pact (August)" (lines 18501–18503); "1953 ... death of Stalin (5 March)" (lines 18559–18561). See [[soviet-collectivization]], [[nkvd]].
+key_processes: [[soviet-industrialization|Soviet Industrialization]], [[soviet-collectivization|Soviet Collectivization]], [[great-purge|Great Purge]], [[de-stalinization|De-Stalinization]] (posthumous)
 sources_ingested: 5
 last_updated: 2026-06-22
 tags: [actor, person, world-wars-era, cold-war, eastern-europe]
@@ -22,6 +20,19 @@ Joseph Dzhugashvili, later known as Joseph Stalin, was born in 1879 in the small
 Stalin’s early life had been hard. Born to a Georgian couple... his real name was Iosif Dzhugashvili. His birthday was given out officially as 21 December 1879; but the parish records indicate that he entered this world a year earlier... Iosif’s father was a child-beating drunkard who died leaving the family penniless... He quickly picked up the Russian language... After being expelled from the seminary, he wandered over the Transcaucasus... he sided with the Bolsheviks... Young Dzhugashvili, whose pseudonym was first Koba and then Stalin (or ‘Man of Steel’), reacted positively to themes of dictatorship, terror, modernity, progress and leadership in Lenin’s writings (Service, lines 1557–1559).
 
 He was crude and brutal even by Bolshevik standards... On the Southern front in 1918 he had put villages to the torch... but for Lenin’s intervention would have drowned scores of innocent former Imperial Army officers on a prison barge moored on the river Volga (line 1565). His lack of intellectual sophistication did not mean that he was unmotivated by ideas... he was conscious enough of the gaps in his education to take on Jan Sten as a private tutor in philosophy in the 1920s. He was also a voracious reader, supposedly getting through a daily quota of 500 pages (lines 1567). That this maladjusted character, whose mistrustfulness was close to paranoia, should have won the struggle to succeed Lenin boded ill for his opponents (line 1569). He also had a craving for adulation... The cult of Stalin was also a response to the underlying requirements of the regime... The tsar-like image of Stalin was useful in affirming that the state possessed a strong, determined leader (line 1573). Full regal pomp was nevertheless eschewed... he always made sure to have his photograph taken with groups of delegates. The display of ordinariness was a basic aspect of his mystique (line 1575).
+
+## Chronology (from Freeze ed. 2002)
+- 1929: Stalin calls for mass collectivization and liquidation of kulaks (27 December).
+- 1930: Mass collectivization launched (5 January).
+- 1932–3: Famine in Ukraine and elsewhere.
+- 1934: Assassination of Sergei Kirov (December).
+- 1936: Show trial of Zinoviev, Kamenev, and others (August); Ezhov appointed head of NKVD (September); promulgation of Stalin Constitution (December).
+- 1937: Execution of Marshal Tukhachevskii and Red Army officers (June); height of ‘Great Terror’ (to late 1938).
+- 1938: Beria succeeds Ezhov as head of NKVD (December).
+- 1939: Nazi–Soviet pact (August).
+- 1953: Death of Stalin (5 March).
+
+See [[soviet-collectivization]], [[nkvd]] for details.
 
 ## Key Decisions and Achievements
 - **Socialism in One Country and First Five-Year Plan:** Stalin formulated the thesis... The large factories and mines... Thirty-eight per cent of industrial capital stock by the end of 1934 was located in factories built in the previous half-dozen years... Mines and factories were claimed to have doubled their production since 1928. This was exaggeration. Yet even sceptical estimates put the annual expansion in industrial output at ten per cent between 1928 and 1941 (lines 1474).

@@ -6,8 +6,8 @@ date_precision: approximate
 period: [Cold War]
 region: [eastern-europe]
 process_type: economic
-driven_by: [[brezhnev-leonid|Leonid Brezhnev]], the administrative nomenklatura, rigid economic centralism, and massive military spending]
-produces: economic deceleration, grain harvest failures, resource dependency (oil/gas exports), social issues (alcoholism, low morale), and the underground economy]
+driven_by: [[brezhnev-leonid|Leonid Brezhnev]], the administrative nomenklatura, rigid economic centralism, and massive military spending
+produces: economic deceleration, grain harvest failures, resource dependency (oil/gas exports), social issues (alcoholism, low morale), and the underground economy
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [process, cold-war, eastern-europe]

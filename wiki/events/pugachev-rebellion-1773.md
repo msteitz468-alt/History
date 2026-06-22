@@ -43,9 +43,3 @@ The rebellion produced:
 
 ## Historiography
 Freeze (2002) frames Pugachev as the largest 18th-century uprising, triggered by the 1762 noble emancipation manifesto that broke the reciprocal service justification for serfdom, allowing the “pretender myth” of Peter III to mobilize Cossacks, Turkic peoples, factory serfs, and central Russian serfs. Over 1,500 landlords were killed. The rebellion exposed the moral incompatibility of justice and serfdom and prompted Catherine’s 1775 provincial reforms to address “under-government.” It ended vague emancipation talk and strengthened the crown-gentry alliance. Contrasts with earlier views by emphasizing social structure and myth over mere brigandage.
-
-## Consequence Analysis
-The Pugachev Rebellion produced:
-* **Gentry-Crown Alliance:** The shock of the rebellion ended any vague progressive thoughts Catherine II had regarding serf emancipation, forging a close, defensive alliance between the autocracy and the gentry (L3370-3372).
-* **Local Government Reform (1775):** Frightened by the collapse of local authority, Catherine II restructured the empire's administration, dividing the country into fifty smaller provinces to tighten police and military control (L3374-3376, L3380-3382).
-* **Cossack Suppression:** The state abolished the Zaporozhian Sech on the Dnieper (1775), renamed the Yaik Cossacks as the Ural Cossacks, and renamed the Yaik River as the Ural River to erase the memory of the rebellion (L3390).
