@@ -7,7 +7,7 @@ date_range: "1000–1300 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road]
 major_themes: ["the thickening of Afro-Eurasian exchange webs", "the commercial revolution and a 'first globalization'", "the apogee of Song China", "the Crusades and Christian–Islamic frontier conflict", "cultural crystallization across Eurasian ecumenes", "the rise of universities and scholastic learning", "the eve of the Mongol conquests", "demographic expansion across the Old World", "Angkor, Cahokia, and regional apogees beyond Eurasia"]
 collection_coverage: strong
-sources_ingested: 5
+sources_ingested: 8
 last_updated: 2026-06-22
 tags: [period]
 ---
@@ -48,6 +48,8 @@ revived gold coinage. See [[afro-eurasian-world-system]] and [[commercial-revolu
 the most commercialized, urbanized, and technologically advanced society of the
 age — paper money, woodblock printing, gunpowder, the compass, an examination-based
 bureaucracy, and a revitalized [[neo-confucianism|Neo-Confucian]] order — even as
+
+**Kievan Rus' apogee and fragmentation (Primary Chronicle, lines 6001-9000):** Yaroslav the Wise (d. 1054) built St. Sophia, Golden Gate, promoted books/translation ("Vladimir plowed... we reap"), appointed Hilarion Metropolitan (1051), oversaw Crypt Monastery foundation. Division of Rus' (1026, 1054 testament) initiated appanage strife among Rurikids. Boris/Gleb cult (1015 murders, 1072 translation) and Theodosius (d. 1074) hagiography exemplify monastic culture. Polovcian (Cuman) raids begin 1061; 1068 Al'ta defeat triggers Kiev revolt; 1093 Stugna/Torchesk disasters prompt chronicle's moral exegesis on sins inviting pagan chastisement ("God sent the pagans upon us... Righteous art thou, oh Lord"). See kievan-rus.md and source page.
 it ceded the north to the Khitan Liao and Jurchen Jin. See [[song-dynasty]].
 
 **The Crusades and frontier conflict.** From 1095 Latin Christendom launched the
@@ -97,7 +99,7 @@ II]] and the [[german-interregnum-1250|Interregnum]], devolved power to its terr
 and a new elective, **Hausmacht** kingship ([[rudolf-of-habsburg|the Habsburgs]]). See
 [[state-formation]].
 
-**The fragmentation of Rus′ and the Mongol conquest.** Following the death of Yaroslav the Wise (1054), [[kievan-rus|Kievan Rus′]] fragmented into autonomous principalities under the appanage system. In the northeast, the **[[colonisation-of-northeast-russia|colonisation of Northeast Russia]]** shifted the geopolitical center of gravity to cities like **[[vladimir|Vladimir]]** and **[[moscow|Moscow]]**, while **[[novgorod|Novgorod]]** flourished as a merchant republic. The fragmented principalities were overwhelmed by the **[[mongol-empire|Mongol invasion]]** (1237–1240). Rulers like **[[alexander-nevsky|Alexander Nevsky]]** navigated this 'Tartar yoke' while defending the western frontier from Sweden and the Teutonic Knights at the **[[battle-on-the-ice-1242|Battle on the Ice]]** (1242).
+**The fragmentation of Rus′ and the Mongol conquest.** Following the death of Yaroslav the Wise (1054), [[kievan-rus|Kievan Rus′]] fragmented into autonomous principalities under the appanage system. Primary Chronicle (Laurentian) testimony from the 1090s–1110s (Cross ed., ll. 9001–12000) details the collapse: the 1097 Lyubech congress apportioned domains hereditarily ("Svyatopolk retaining Kiev, the heritage of Izyaslav, while Vladimir holds the domain of Vsevolod...") with a Holy Cross oath against internal war; it was immediately followed by the blinding of Vasil'ko Rostislavich at Svyatopolk's instigation (detailed treachery and act described; "Such a crime as this has never been perpetrated in Rus’"); subsequent wars, Hungarian intervention defeated by Bonyak + David, Uvetichi judgment (1100) depriving David Igorich of Vladimir-Volynsk, and the major 1103 coalition victory over Polovtsians at Suten' (20 princes slain). Despite a brief restoration under Vladimir Monomakh (1113–25; see his Testament for 83 campaigns and 19 Polovtsian treaties), the primacy of Kiev decayed. In the northeast, the **[[colonisation-of-northeast-russia|colonisation of Northeast Russia]]** shifted the geopolitical center of gravity to cities like **[[vladimir|Vladimir]]** and **[[moscow|Moscow]]**, while **[[novgorod|Novgorod]]** flourished as a merchant republic. The fragmented principalities were overwhelmed by the **[[mongol-empire|Mongol invasion]]** (1237–1240). Rulers like **[[alexander-nevsky|Alexander Nevsky]]** navigated this 'Tartar yoke' while defending the western frontier from Sweden and the Teutonic Knights at the **[[battle-on-the-ice-1242|Battle on the Ice]]** (1242). See kievan-rus.md and cross-primary-chronicle-laurentian-1953.md for Primary Chronicle extracts.
 
 **Regional apogees beyond Eurasia.** [[angkor|Angkor]] reached its monumental
 height; Cahokia peaked and declined; the Toltec and early Postclassic orders
@@ -154,7 +156,7 @@ Geniza documents; Latin Europe's charters, chronicles, and
 scholastic corpus expand enormously; Byzantium is well documented. Archaeology
 (Novgorod birch-bark letters, Angkorean inscriptions, Geniza-era trade goods)
 increasingly supplements texts, and is primary where texts are thin (Cahokia,
-sub-Saharan Africa, Polynesia).
+sub-Saharan Africa, Polynesia). For eastern Europe, the *Russian Primary Chronicle* (Laurentian Text) is the central native source for Kievan Rus' fragmentation and Polovtsian wars into the early 12th c. (Sylvester 1116 redaction at St. Michael's; composite with earlier layers); higher reliability for 11th c. than origins legends. See kievan-rus.md and cross-primary-chronicle-laurentian-1953.md (ll. 9001–16299 extracts). Cross-check with archaeology and Byzantine/Arabic material essential. Notes in range 12001–16299 detail the Sylvester colophon ("the colophon of Sylvester was on a separate leaf"; lines ~14506-14508), Monomakh Testament composition ("fusion of at least two intrinsically unrelated documents"; "military activity against the nomads was more strenuous... than the annals themselves would indicate"; composed shortly before 19 May 1125 death; lines ~14519-14535), Lyubech 1097 appanage settlement ("momentarily consecrated the status quo"; specific domains listed; lines ~14363-14375), letter to Oleg (at Mstislav's instance post-Murom 1096; lines ~14617 ff.), and identifications/corrections (e.g., Polovtsian chiefs in Byzantine politics; Kherson siege topography; lines ~14111 ff., ~12330 ff.). The prayer derives from Byzantine Lenten services (lines ~14633 ff.).
 
 **Major debates.** The causes and meaning of the European "commercial revolution"
 and whether it constitutes a genuine first globalization (Abu-Lughod's
@@ -197,6 +199,7 @@ the period's social and cultural backbone here: the transformation of the
 (the Champagne fairs, the Atlantic sea route, Italian super-companies), the
 [[rise-of-vernacular-literatures|rise of the vernaculars]], and the thirteenth-century
 flowering of [[gothic-architecture|Gothic]]. **Cycle 2** ("The Church") added the
+The Primary Chronicle (ingested) now grounds the Rus' fragmentation narrative for the opening decades.
 [[papacy|papal monarchy's]] zenith, the [[albigensian-crusade-1209|Albigensian Crusade]] and
 [[catharism|heresy]], the [[medieval-inquisition|Inquisition]], the [[mendicant-orders|friars]],
 [[medieval-anti-judaism|the persecution of the Jews]], and scholasticism. **Cycle 3** ("The

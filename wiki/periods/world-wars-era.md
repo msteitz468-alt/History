@@ -7,7 +7,7 @@ date_range: 1914–1945 CE
 regions_covered: [global, western-europe, eastern-europe, east-asia, near-east, north-america, africa]
 major_themes: [total war, the return of global war, genocide, communism and fascism, the Great Depression, the second demographic and industrial surge, decolonization's prelude]
 collection_coverage: moderate
-sources_ingested: 7
+sources_ingested: 8
 last_updated: 2026-06-22
 tags: [period]
 ---
@@ -28,6 +28,8 @@ technologies — airplanes, poison gas, tanks, radios, and ultimately atomic wea
 war-related food-supply failures than to bullets.
 
 The major powers fighting each other were bigger than ever — products of
+
+Key dated events from Freeze (ed.) 2002 chronology for the Russian/Soviet theater: "1914 Outbreak of First World War" (lines 18393–18395); "1917 February Revolution (23 February–1 March) ... abdication of Nicholas II (2 March) ... Bolshevik seizure of power (25 October)" (lines 18403–18411); "1918 ... civil war commences" (lines 18413–18415); "1939 Nazi–Soviet pact (August); Soviet invasion of eastern Poland (September)" (lines 18501–18505); "1941 Nazi Germany invades USSR (22 June)" (lines 18513–18515); "1945 ... German unconditional surrender (9 May)" (lines 18531–18533). See also [[russian-empire|Russian Empire]], [[soviet-union|Soviet Union]], [[february-revolution-1917]], [[october-revolution-1917]], [[russian-civil-war-1918]], [[stalin-joseph]], [[great-purge]].
 nineteenth-century empire-building, national consolidation, and Russian and US
 landed expansion — and far better equipped to know what resources they had, to
 compel their delivery, and to move them at will. The era also stands out for the

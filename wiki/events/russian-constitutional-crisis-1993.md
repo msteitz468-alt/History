@@ -8,12 +8,14 @@ region: [eastern-europe]
 location: [Moscow]
 actors_primary: [[yeltsin-boris|Boris Yeltsin]], Russian Parliament]
 actors_secondary: [Ruslan Khasbulatov, Alexander Rutskoy, Russian Army]
+
+From Freeze (ed.) 2002: "1993 ... mounting conflict between Yeltsin and Parliament, which votes to strip the President of his economic powers (March); national referendum of 25 April shows support for Yeltsin (58 per cent of votes) and constitution; Yeltsin dismisses parliament and announces new elections (21 September); after parliament impeaches Yeltsin and poses armed resistance, Yeltsin storms the Parliament building, with upward of 200 killed (3–4 October); ... national vote to approve constitution (57 per cent) and to elect new Duma ... (12 December)" (lines 18701–18709).
 event_type: collapse
 scale_immediate: regional
 scale_consequential: civilizational
 causes: [power struggle between president and parliament, opposition to economic shock therapy, disputes over the new constitution]
 consequences: [shelling of the parliament building, dissolution of the Supreme Soviet, adoption of a new constitution with a powerful presidency]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-22
 tags: [event, contemporary, eastern-europe]
 ---

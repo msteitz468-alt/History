@@ -8,7 +8,7 @@ region: [eastern-europe]
 process_type: cultural
 driven_by: [[gorbachev-mikhail|Mikhail Gorbachev]], the need to enlist the intelligentsia against conservative bureaucracy, and popular desire for freedom of expression]
 produces: the exposure of Stalinist crimes, environmental awareness (Chernobyl), public criticism of the regime, the rise of nationalist movements, and political pluralism]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [process, cold-war, contemporary, eastern-europe]
 ---
@@ -25,6 +25,7 @@ tags: [process, cold-war, contemporary, eastern-europe]
 - **Introduction and Thaw (1986–1987):** The relaxation of censorship allowed the publication of previously banned literary works (such as Pasternak's *Doctor Zhivago*) and the return of exiled figures like Andrei Sakharov. In July 1987, Gorbachev resumed de-Stalinization, permitting criticism of Stalin's terror.
 - **Explosive Openness (1988–1989):** The media began publishing details about historical atrocities, including the Katyn Forest massacre and the mass graves of Stalin's victims (such as Kurapaty near Minsk, Line 7165). Public discussion expanded to current issues, such as the failing economy and the war in Afghanistan.
 - **Political Pluralism and Nationalisms (1990–1991):** Glasnost led to the legal recognition of diverse political groups and political parties. Crucially, it allowed non-Russian ethnic groups to openly express their grievances against Moscow, leading to the rise of popular fronts and nationalist independence movements in the Baltic and Transcaucasian republics.
+  - Freeze (ed.) 2002 chronology: "1986 Chernobyl disaster (26 April)" (lines 18669–18671); "1987 Twenty-Seventh Party Congress (February–March); new law on ‘socialist enterprise’" (lines 18673–18675); "1989 ... miners’ strike (July 1989); first national movement, Sajudis, forms in Lithuania (November)" (lines 18679–18681); "1991 ... attempted coup ... resignation of Gorbachev (25 December); formal dissolution of the USSR (31 December)" (lines 18689–18695).
 
 ## Geographic Spread
 While starting as a top-down policy in Moscow, glasnost spread rapidly across all fifteen republics of the USSR, finding its most radical expression in the Baltic states (Estonia, Latvia, Lithuania), Ukraine, and Georgia.

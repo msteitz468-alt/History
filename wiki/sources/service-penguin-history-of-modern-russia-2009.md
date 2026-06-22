@@ -72,7 +72,7 @@ This range covers late Stalinist problems (1952–53), the succession struggle a
 - **Economic and social context (from range):** Brezhnev "developed socialism" rhetoric; party membership to 17.4m by 1981; private plots critical; worker turnover 20%/yr; widespread cynicism ("They pretend to pay us and we pretend to work") (lines 2604, 2676, 2864, 2910). Khrushchev on peaceful coexistence, but retained class analysis (lines 2543, 2620).
 
 **Causal and Consequence Links (from range):**
-- De-Stalinization (secret speech) contributed_to [[hungarian-revolt-1956]] and Polish unrest by undermining legitimacy in satellites (lines 2489–2497).
+- De-Stalinization (secret speech) contributed_to [[hungarian-revolution-1956]] and Polish unrest by undermining legitimacy in satellites (lines 2489–2497).
 - Anti-Party Group defeat preceded_by Khrushchev's policy amalgam and fear of terror return; caused_by CC intervention (lines 2503).
 - Brezhnev stabilization caused_by reaction to Khrushchev's "merry-go-round" of reorganizations (lines 2721).
 - Perestroika/glasnost driven_by recognition of pre-crisis condition and Chernobyl lessons; produced rising nationalism and economic disarray (lines 3135, 3201–3208, 3260).
@@ -94,7 +94,7 @@ All grounded strictly in assigned range (no external knowledge). Other agents co
 
 **Major Processes**: [[soviet-industrialization]], [[soviet-collectivization]], [[great-purge]], [[war-communism]], [[new-economic-policy]], [[de-stalinization]], [[brezhnev-stagnation]], [[glasnost]], [[perestroika]], [[economic-shock-therapy]], [[dissolution-of-the-soviet-union]]
 
-**Other frequent targets**: [[great-purge]], [[prague-spring-1968]], [[cuban-missile-crisis-1962]], [[chernobyl-disaster-1986]], [[bolshevik-party]], [[nkvd]], [[red-army]]
+**Other frequent targets**: [[great-purge]], [[prague-spring-1968]], [[cuban-missile-crisis-1962]], [[chernobyl-disaster-1986]], [[bolshevik-party]], [[nkvd]] (Red Army referenced in text only)
 
 Sub-agents must link **only** to pages that already exist on disk or the ones explicitly scaffolded above. Use precise link taxonomy (caused_by vs preceded_by, etc.). Ground every claim in a direct quote + line reference from your assigned range.
 

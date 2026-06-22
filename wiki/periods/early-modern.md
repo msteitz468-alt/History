@@ -7,7 +7,7 @@ date_range: 1500–1700 CE
 regions_covered: [atlantic-world, western-europe, mesoamerica, andes, west-africa, east-asia, near-east, south-asia, indian-ocean, southeast-asia]
 major_themes: [the construction of a global world, Columbian Exchange, oceanic empires, the silver-driven world economy, confessionalization and religious expansion, the military revolution debate, chartered companies, plantation slavery]
 collection_coverage: moderate
-sources_ingested: 6
+sources_ingested: 7
 last_updated: 2026-06-22
 tags: [period]
 ---
@@ -56,6 +56,15 @@ collapse of the Americas, the Atlantic slave trade and the plantation complex,
 the silver-fueled integration of a world economy spanning Potosí, Seville,
 Amsterdam, and Canton, the worldwide expansion of Christianity and Islam, and
 the rise of the chartered company as a hybrid state-commercial actor.
+
+## Russia in the Early Modern Period (from Freeze (ed.) 2002)
+Muscovy/Russia participated as a land empire on the Eurasian periphery, expanding eastward while contending with steppe, Poland-Lithuania, and Sweden. "Sixteenth-century Muscovy was a diverse ensemble of regions, ethnic groups, cultures... Moscow’s sovereigns devised strategies of governance that were flexible, integrating, and minimalist" (Kollmann, l1415). Long sixteenth century shaped by "tension between the interventionist policies of a state desperate to control its people and the nagging realities of geography, limited resources, and cultural diversity" (l1421). Expansion secured Volga (Kazan 1552, Astrakhan 1556), Novgorod 1478, western Siberia from 1580s; Livonian War drained resources (l1429–1473).
+
+Social structures peculiar: enserfment finalized 1580s–90s via "forbidden years" to support cavalry pomest'e élite amid tax rises and depopulation (l2077–2081). Oprichnina (1565–72) "more likely was the fruit of Ivan IV’s own personal devils" with no positive outcomes (l1479). Culture syncretic; state tolerated diversity; not styled "Third Rome" in 16th c. (l2205). Zemskie sobory and petitions integrated élite symbolically; minimalist state co-opted rather than replaced institutions (l2255, l1847).
+
+Time of Troubles (1598–1613) exposed weaknesses: Riurikid extinction, famine, social revolt (Bolotnikov), foreign interventions; resolved by election of Michael Romanov 1613 (Torke, l2339–2540). Seventeenth c. "restless transition": Romanov consolidation (Filaret co-rule), wars yielding territorial losses but recovery; Ulozhenie 1649 codified serfdom; Ukraine incorporation (Pereiaslavl 1654, Andrusovo 1667); Nikon schism/raskol weakened Church; Western influences (theatre, music) despite resistance (l2543–3021). Fedor abolished mestnichestvo 1682 invoking "general welfare"; Sofia regency advanced some reforms but ended in 1689 coup (l3087, l3265).
+
+Peter the Great (from 1689/1696 sole rule) inaugurated "imperial, radically Europeanized period": Azov campaigns (1695 failure, 1696 success), Grand Embassy (1697–98), Northern War victory at Poltava 1709, standing army/navy, Table of Ranks, St Petersburg capital, Church subordination to Holy Synod, cultural Westernization (Alexander, l3317–3785). "his reforms... emerged directly from the traditions of the seventeenth century and hardly constituted a ‘revolution’" (l3301). By 1700 Russia entered European state system as rising power.
 
 ## Major Developments
 

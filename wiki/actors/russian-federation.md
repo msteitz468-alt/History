@@ -9,7 +9,7 @@ affiliated_with: []
 opposed_by: []
 key_events: [[russian-constitutional-crisis-1993|1993 Constitutional Crisis]], [[first-chechen-war-1994|First Chechen War]], [[russian-financial-crisis-1998|1998 Financial Crisis]]]
 key_processes: [[economic-shock-therapy|Economic Shock Therapy]], [[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [actor, state, contemporary]
 ---
@@ -17,6 +17,8 @@ tags: [actor, state, contemporary]
 # Russian Federation
 
 The **Russian Federation** is the primary successor state to the Soviet Union following its dissolution in December 1991.
+
+From Freeze (ed.) 2002 chronology: "1991 ... Russia, Ukraine, and Belarus agree on formation of Commonwealth of Independent States (CIS) (8 December); CIS formally constituted in Alma-Ata, Kazakhstan (21 December); resignation of Gorbachev (25 December); formal dissolution of the USSR (31 December)" (lines 18691–18695). "1992 Gaidar introduces radical ‘shock therapy’ economic reforms (January)" (lines 18697–18699). "1993 ... Yeltsin storms the Parliament building ... national vote to approve constitution (57 per cent) ... (12 December)" (lines 18705–18709). "1996 ... Yeltsin winning 54 per cent ..." (lines 18729–18731). "1999 ... Vladimir Putin as prime minister (August) ... Yeltsin’s surprise resignation, the prime minister, Putin, becomes the acting president (31 December)" (lines 18751–18753). "2000 ... presidential election, with Putin obtaining 53 per cent of the vote (26 March)" (lines 18755–18761). "2001 ... Russia and China sign Good Neighbour Treaty..." (lines 18767–18771). See also [[yeltsin-boris]], [[gorbachev-mikhail]], [[economic-shock-therapy]].
 
 ## Biography / Description
 The Russian Federation emerged as an independent sovereign state following the collapse of the USSR. Under its first president, [[yeltsin-boris|Boris Yeltsin]], the country embarked on a rapid transition from a state-directed communist system to a market-based economy and democratic governance. 

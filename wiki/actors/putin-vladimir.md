@@ -14,6 +14,8 @@ last_updated: 2026-06-22
 tags: [actor, person, cold-war, contemporary, eastern-europe]
 ---
 
+From Freeze (2002, lines 13787–14233): Putin (ex-KGB Lt-Col, East Germany; aide to Sobchak; deputy chief of staff 1997; FSB director July 1998; Security Council Mar 1999; PM Aug 1999 after Stepashin). Appointed amid Dagestan/Chechen threats; after Sept 1999 bombings persuaded invasion of Chechnya (broad public support vs first war); Groznyi retaken; poll rating 2%→50% by Dec. Unity party (bankrolled by oligarchs) strong in Dec 1999 Duma. Yeltsin resigned 31 Dec 1999 (Putin acting; granted Yeltsin/family immunity). Elected Pres 26 Mar 2000 53% (vs Ziuganov 39.7m vs 21.9m). Rebuilding priority: "dictatorship of laws"; 7 super-districts (May 2000, plenipotentiaries often generals; 80% illegal laws revised in yr); Council of Federation reformed (governors out, no immunity); 13% flat tax; judicial (juries), civil service, military reforms (reduce land forces 1.2m→865k; Kursk sinking emblematic Aug 2000). Land law 2001 (non-ag sales). Economy boom (deval + oil 11→30$/bbl; GDP +8.3% 2000); but poverty/debt risks. Dual patriotism: prerev symbols + Soviet anthem; positive Soviet legacy + Orthodox ("Holy Rus"). Approval ~74% Aug 2001. Post-9/11 support to US for Chechnya dividends. (Grounded in range.)
+
 # Vladimir Putin
 
 ## Biography / Description

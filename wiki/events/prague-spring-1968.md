@@ -13,6 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [appointment of Alexander Dubcek, economic stagnation in Czechoslovakia, abolition of censorship, demand for "socialism with a human face", Dubček ignoring Soviet hints of military penalty]
 consequences: [Warsaw Pact invasion on night of 20–21 August 1968, tanks rolled into Prague, Dubcek arrested and flown to Russia then injected with drugs and threatened with execution, compliant Husák installed, Brezhnev Doctrine imposed (right and duty of Pact members to intervene militarily on threat to socialism), ideological retrenchment in USSR, dissenters like Pavel Litvinov sentenced, siege mentality gripped regime]
+
+From Freeze (2002, lines 12035–12037): After Czech "Action Programme" (Apr 1968) proclaimed "own separate road to socialism" and new statutes (secret balloting, term limits, factions), Dubček promised Warsaw Pact loyalty but experiment "too threatening"; invasion 21 Aug; Husák installed. (Grounded in range.)
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [event, cold-war, eastern-europe]

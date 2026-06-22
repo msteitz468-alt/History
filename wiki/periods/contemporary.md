@@ -7,7 +7,7 @@ date_range: 1991–present
 regions_covered: [global]
 major_themes: [globalization, the climate crisis, the East Asian ascent, post-Cold-War order, renewed mass migration, demographic deceleration, digital connection]
 collection_coverage: weak
-sources_ingested: 7
+sources_ingested: 8
 last_updated: 2026-06-22
 tags: [period]
 ---
@@ -40,6 +40,7 @@ of sending and receiving countries than the nineteenth-century waves; and a
 
 - **The post-Cold-War order:** the brief "unipolar moment," the spread of the
   national state to the former Soviet space (formalized in the **[[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]**), and the proliferation of conflicts along the seams of former multinational empires (the Balkans, the Caucasus). In the new **[[russian-federation|Russian Federation]]**, the decade was defined by **[[yeltsin-boris|Boris Yeltsin's]]** presidency, the painful transition of **[[economic-shock-therapy|Economic Shock Therapy]]**, the **[[russian-constitutional-crisis-1993|1993 Constitutional Crisis]]**, the **[[first-chechen-war-1994|First Chechen War]]**, and the **[[russian-financial-crisis-1998|1998 Financial Crisis]]**. Service details the terminal phase: the failed August 1991 coup (lines 3466–3484), Yeltsin's Belovezha Accords dissolving the USSR (8 Dec 1991, lines 3510–3514), price liberalization ("shock therapy") on 2 Jan 1992 causing 245% inflation in January alone (lines 3539, 3543), voucher privatization enabling nomenklatura managers and "oligarchs" (lines 3565, 3704), the violent 1993 storming of the White House (lines 3623), and the rise of Putin after 1999 (lines 3758–3775) who reasserted state control over business and regions while presiding over oil-driven recovery and the 2008 Georgia war.
+  - From Freeze (ed.) 2002 chronology: "1992 Gaidar introduces radical ‘shock therapy’ economic reforms (January)" (lines 18697–18699); "1993 ... Yeltsin dismisses parliament ... Yeltsin storms the Parliament building, with upward of 200 killed (3–4 October); ... national vote to approve constitution (57 per cent) ... (12 December)" (lines 18701–18709); "1996 ... Yeltsin winning 54 per cent of the vote against Ziuganov’s 40 per cent (3 July)" (lines 18727–18731); "1999 ... Vladimir Putin as prime minister (August); ... launches invasion of Chechnia (23 September); ... Yeltsin’s surprise resignation, the prime minister, Putin, becomes the acting president (31 December)" (lines 18747–18753); "2000 ... presidential election, with Putin obtaining 53 per cent of the vote (26 March)" (lines 18755–18761). See [[russian-federation|Russian Federation]], [[yeltsin-boris]], [[economic-shock-therapy]].
 - **Hyper-globalization:** tightly integrated markets, global supply chains, and
   the connectedness that Thomas Zeiler's (absent Book 2) chapter calls
   "globalization" in the strong sense — competition intensified as distance ceased
@@ -97,6 +98,8 @@ Anthropocene," and even "the contemporary" are categories shaped by the very
 processes they describe, and that the field of world history is itself a product of
 this connected age (Wiesner-Hanks's preface). Periodization of the present remains
 genuinely open: 1989/1991, 2001, and 2008 all have advocates as sub-period breaks.
+
+From Freeze (2002, lines 11201–14900, esp. ch. 15): Yeltsin era (1991–1999) defined by "shock therapy" (2 Jan 1992 price liberalization: 2509% inflation 1992; GDP -43% 1991–97), voucher privatization (~70% enterprises by 1996), rigged "shares-for-loans" (1996–8; Yukos acquired for $159m vs $7–10bn value), 1993 constitutional crisis (White House stormed), First Chechen War (1994–6; Khasaviurt Accords), 1996 election (Yeltsin 35%→54% vs Ziuganov via oligarch funding/media), and 17 Aug 1998 meltdown (default on $40bn T-bills; ruble crash, approval 2%). "Family"/oligarch influence (Berezovskii, Potanin, Diachenko) and high turnover (5 PMs) accelerated state disintegration (tax revenue collapse, regional sovereignty assertions, "grab-ization"). Putin (PM Aug 1999; acting Pres 31 Dec 1999; elected 53% Mar 2000) rebuilt via 7 super-districts (plenipotentiaries), Council of Federation reform, 13% flat tax, land privatization (July 2001, non-ag), and "dual patriotism" (prerevolutionary symbols + Soviet anthem; positive Soviet legacy + Orthodox ties). Boom from 1998 devaluation + oil prices (11→30$/bbl); but persistent poverty (~31%), demographic crisis (male life expectancy 59 in 2000), inequality (decile 14:1). Complements Service with Freeze's emphasis on weak state, corruption, and social costs of transition. (Grounded exclusively in range.)
 
 ## Collection Coverage Note
 

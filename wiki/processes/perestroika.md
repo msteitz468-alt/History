@@ -8,7 +8,7 @@ region: [eastern-europe]
 process_type: political
 driven_by: [[gorbachev-mikhail|Mikhail Gorbachev]], the need to escape the economic stagnation of the late Soviet period, and reformist elements in the Party]
 produces: economic disintegration, budget deficits, the rise of private cooperatives, and the [[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-22
 tags: [process, cold-war, contemporary, eastern-europe]
 ---
@@ -26,6 +26,7 @@ tags: [process, cold-war, contemporary, eastern-europe]
 - **Glasnost and Chernobyl Turning Point (1986):** Glavlit relaxed June 1986; radical editors appointed. Sakharov returned Dec 1986. 26 Apr 1986 Chernobyl explosion: staff incompetence caused core overheating and explosion; radiation spread; local politicians panicked; Ryzhkov visited. Gorbachev concluded defects could not be corrected by "administrative tinkering"; "misinformation, indiscipline and organizational manipulation were intrinsic"; ventilation was "crucial for the medium-term survival" (lines 3160–3170, 3129–3135).
 - **Economic and Political Reform Peak (1987–mid 1988):** Jan 1987 plenum: democratization, multi-candidate elections, elected directors. June 1987 plenum adopted Law on State Enterprise (effective Jan 1988): enterprise autonomy after state orders, wholesale price setting, elected directors, mixed economy in services/small industry. "Pre-crisis condition"; over-centralized methods had to be abandoned (lines 3174–3180).
 - **19th Party Conference Shift (June 1988):** Congress of People's Deputies created; Supreme Soviet to become working parliament; party economic departments disbanded; size of central party apparatus reduced. Amendments forced through despite opposition. Power base moved from party to state (lines 3230–3240).
+  - Freeze (ed.) 2002 chronology anchors: "1985 Mikhail Gorbachev elected General Secretary (11 March)" (lines 18665–18667); "1987 Twenty-Seventh Party Congress (February–March); new law on ‘socialist enterprise’" (lines 18673–18675); "1988 Nineteenth Party Conference transforms role of Communist Party (June)" (lines 18677–18678); "1991 ... resignation of Gorbachev (25 December)" (lines 18693–18695). "1992 Gaidar introduces radical ‘shock therapy’ economic reforms (January)" (lines 18697–18699).
 
 ## Geographic Spread
 Perestroika affected the entire Soviet Union and encouraged similar reform movements in the Warsaw Pact satellite states, leading to the collapse of communism in Eastern Europe in 1989.

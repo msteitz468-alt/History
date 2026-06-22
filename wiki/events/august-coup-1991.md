@@ -13,13 +13,15 @@ scale_immediate: civilizational
 scale_consequential: global
 causes: [fear of the new Union Treaty, desire to preserve the Soviet centralized state, hardline opposition to Gorbachev's reforms]
 consequences: [collapse of the coup, banning of the Communist Party, rise of Boris Yeltsin, acceleration of the dissolution of the USSR]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-22
 tags: [event, cold-war, eastern-europe]
 ---
 # August Coup
 ## Narrative
 On 18 August 1991, hardline officials (Oleg Shenin, Oleg Baklanov, Valentin Varennikov, Valeri Boldin) visited Gorbachev at his Foros dacha in Crimea. Telephones were cut; they demanded he transfer powers to Vice-President Gennadi Yanaev and declare an emergency. Gorbachev refused and "swore at them lustily before sending them packing" (line 3466). The plotters (Yanaev, Valentin Pavlov, Vladimir Kryuchkov, Dmitry Yazov, Baklanov, Vasili Starodubtsev, Alexander Tizyakov, Boris Pugo) formed the State Committee for the Emergency Situation. A manifesto "A Word to the People" had appeared 23 July, railing against the Motherland "perishing" and calling Russians to save the USSR (lines 3456–3461). On 19 August the coup was announced; Gorbachev was declared ill; tanks entered Moscow. Yeltsin raced to the RSFSR Supreme Soviet ("White House"), climbed a Taman Division tank at 1pm, and "announced his defiance of the State Committee" (lines 3474–3476). Barricades formed; Muscovites formed a human chain. Three young men (Dmitri Komar, Ilya Krichevski, Vladimir Usov) were killed near the White House on 20–21 August (line 3480). Military commanders refused to storm; Alpha Division uncooperative. By midday 21 August the plotters flew to Foros to plead with Gorbachev, who called Lukyanov a traitor (line 3484). The coup collapsed; plotters arrested. "From the night of 18–19 August nothing went right for the conspiracy" (line 3470). "Outlandish incompetence was shown" at the press conference (Yanaev's twitching fingers; Pavlov drunk, line 3470).
+
+Additional from Freeze (ed.) 2002 chronology: "1991 ... ultimatum to Gorbachev to resign in favour of Gennadii Ianaev signals beginning of attempted coup (18 August); Yeltsin makes his way to White House to lead opposition to putsch (19 August); attempted coup collapses (21 August)" (lines 18689–18693). "Estonia, Latvia, Ukraine, Belarus, Moldova, and Azerbaijan declare independence (August–September); Chechnia declares independence (November)" (lines 18691–18693).
 
 ## Causal Analysis
 - `caused_by:` **hardline communist opposition** to Gorbachev's New Union Treaty (to be signed 20 August), which would have decentralized power to the republics ("the terms of the proposed Union Treaty were accepted in principle by the Central Committee", line 3444); the "extraordinary political discontent" after economic collapse and "Word to the People" (lines 3452–3462); and the **desire of the security establishment** (KGB Kryuchkov, military Yazov/Varennikov, Interior Pugo) to preserve the monolithic Soviet state and reverse reforms. "They had practically written the manifesto for a coup d’état" (line 3462).

@@ -9,7 +9,7 @@ affiliated_with: [[romanov-dynasty|Romanov Dynasty]]
 opposed_by: ["Ottoman Empire", "Sweden", "Poland", "Revolutionary movements"]
 key_events: [[treaty-of-nystad-1721|Treaty of Nystad]], [[great-northern-war-1700|Great Northern War]], [[french-invasion-of-russia-1812|French Invasion of 1812]], [[crimean-war-1853|Crimean War]], [[decembrist-revolt-1825|Decembrist Revolt]], [[emancipation-of-the-serfs-1861|Emancipation of the Serfs]], [[revolution-of-1905|1905 Revolution]], [[february-revolution-1917|February Revolution]]]
 key_processes: [[westernization-of-russia|Westernization]], [[serfdom-in-russia|Serfdom]], [[eastward-expansion-of-russia|Eastward Expansion]], [[industrialization-of-russia|Industrialization]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-22
 tags: [actor, empire, age-of-expansion, long-19th-century, world-wars-era]
 ---
@@ -17,6 +17,8 @@ tags: [actor, empire, age-of-expansion, long-19th-century, world-wars-era]
 # Russian Empire
 
 The **Russian Empire** was a historical state that existed from 1721 to 1917, ruling vast territories across Europe, Asia, and North America.
+
+Key dates from Freeze (ed.) 2002 chronology (full span of empire): "1721 Adoption of imperial title" (earlier in list); "1800–1855 Pre-Reform Russia" (lines 18085+); "1855–1890 Great Reforms and Counter-Reform" (lines 18177+); "1890–1914 Revolutionary Russia" (lines 18295+); "1894–1917 Reign of Nicholas II" (lines 18313–18315); "1914–1921 War, Revolution, Civil War" (lines 18391+); "1917 ... abdication of Nicholas II (2 March)" (lines 18403–18411). "Formal end" implied in 1917 events. See [[long-19th-century]], [[nicholas-ii]], [[february-revolution-1917]].
 
 ## Biography / Description
 The Russian Empire was proclaimed by Peter the Great on November 2, 1721, following the Treaty of Nystad which concluded the Great Northern War. Peter was declared "Emperor" by the Senate, succeeding the Tsardom of Russia. 

@@ -216,14 +216,14 @@ History of Japan volumes, and Genji are in. Sadler and Keene remain.
 
 ## Critical Gap 8 — Russia and Eastern Europe
 
-**Status: SUBSTANTIALLY FILLED.** Riasanovsky's *A History of Russia* has been ingested, providing the core narrative spine covering Kievan Rus', Muscovy, Imperial Russia, the Soviet Union, and the Russian Federation to 2000. Other specific sources remain target acquisitions.
+**Status: SUBSTANTIALLY FILLED.** Riasanovsky's *A History of Russia* (to ~2000) + Robert Service, *The Penguin History of Modern Russia* (3rd ed. 2009; deep political narrative 1900–2009, "Soviet compound" thesis, 1990s–Putin detail) ingested. Core spine + modern interpretive depth now present. Remaining targets (specific monographs) still noted below.
 
 | Source | Flag | Status | Notes |
 |---|---|---|---|
 | *A History of Russia* — Riasanovsky & Steinberg | `[BUY]` | ✅ | `riasanovsky-history-russia-2000` (6th Edition ingested) |
 | *The Penguin History of Modern Russia* — Robert Service | `[BUY]` | ❌ | 1900–present |
-| *The Primary Chronicle* (Nestor) — Samuel Cross trans. | `[BUY]` | ❌ | foundational Kievan Rus primary |
-| *Russia: A History* — Gregory Freeze (ed.) | `[BUY]` | ❌ | multi-author survey |
+| *The Primary Chronicle* (Nestor) — Samuel Cross trans. | `[BUY]` | ✅ | `cross-primary-chronicle-laurentian-1953` (all 4 subagents complete; source page + claims; 11+ pages updated with direct quotes + source criticism; foundational for Kievan Rus' / early-middle-ages) |
+| *Russia: A History* — Gregory Freeze (ed.) | `[BUY]` | ✅ | `freeze-russia-a-history-2002` (2nd ed. multi-author survey; source page + claims from 6 subagents on all periods; complements Riasanovsky/Service) |
 | *The Gulag Archipelago* — Solzhenitsyn (abridged) | `[BUY]` | ❌ | 20th-c. primary testimony |
 | *The Cambridge History of Russia* (3 vols.) | `[LIBRARY]` | ❌ | academic reference |
 

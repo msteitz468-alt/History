@@ -9,8 +9,8 @@ affiliated_with: [the Eastern Roman state, the Orthodox Church]
 opposed_by: [[[sasanian-empire|Sasanian Persia]], the [[caliphate|Caliphate]], Avars, Bulgars, Slavs, the Seljuk and Ottoman Turks]
 key_events: [reign of Justinian 527-565 CE, Arab conquests 630s-640s CE, survival of the Eastern Roman state, Fourth Crusade sack of Constantinople 1204, Ottoman conquest 1453]
 key_processes: [[[empire]], [[christianity|Orthodox Christianity]], [[silk-roads]], Roman legal codification]
-sources_ingested: 7
-last_updated: 2026-06-12
+sources_ingested: 8
+last_updated: 2026-06-22
 tags: [actor, empire, late-antiquity, early-middle-ages, high-middle-ages, anatolia, mediterranean]
 ---
 
@@ -35,6 +35,8 @@ taxation, law, and a professional army, while becoming progressively more Greek 
 language and more thoroughly Christian in identity. Constantinople, the great walled
 city on the Bosporus astride the trade routes between the [[silk-roads|Silk Roads]] and
 the Mediterranean, was the largest Christian city in the world.
+
+**Relations with Kievan Rus' (Primary Chronicle, lines 6001-9000):** Vladimir returns from Cherson (seized to force Anna marriage): brings statues/horses, gives city back; imports Greek artisans for tithe church; "Khersonian priests"; Cherson loot (images, vessels, crosses) given to Anastasius of Kherson (6001-6005, 6155-6161). 1018 Boleslav takes Yaroslav's sisters as part of Cherven deal (6766-6767). 1043: Yaroslav sends son Vladimir vs "Greece"/Tsar'grad (Emperor Monomakh); storm wrecks Rus' ships; 6000 stranded return overland; Vyshata joins them ("If I survive, it will be with the soldiers"); Greeks capture/blind many; peace after 3 years, Vyshata returned; Yaroslav's sister marries Kazimir, recovers 800 Boleslav captives (7036-7061). 1051: Yaroslav appoints Hilarion Metropolitan "of Rus'" (not Greek from Constantinople, lines 7079-7091). Metropolitans Theopemptos consecrates Vladimir's church 1039 (7027-7029); John (eunuch) etc. (8498-8512). Crypt Monastery links via Athos (Antonius tonsured there, lines 7092-7113). 1091+ interactions continue in later annals. These entries document Rus' dependence on Byzantine clergy/artisans/rites post-988 and intermittent conflict (raids, 1043). See kievan-rus.md and conversion-of-vladimir-988.md.
 
 ## Justinian and the Second Silk Roads Era
 
@@ -92,6 +94,8 @@ when [[conversion-of-boris-i-864|Boris's conversion (864)]] and the
 ## The Macedonian Apogee (886–1025)
 
 [[reuter-ncmh-v3-1999|NCMH III]] (Shepard) covers the high point of medieval Byzantium under the **[[macedonian-dynasty|Macedonian dynasty]]**. The long tenth century carried the empire from a defensive **equilibrium** (Leo VI's law-books and the *Book of the Eparch*; Constantine VII's scholar-emperorship and ceremonial, palace-based "Solomonic" rule) to an aggressive **expansion** under the soldier-emperors — **Nikephoros II Phokas** (reconquest of Crete 961, Antioch 969), **John I Tzimiskes**, and above all **[[basil-ii|Basil II "the Bulgar-Slayer"]]** (976–1025), who annexed **[[conquest-of-bulgaria-1018|Bulgaria (1018)]]** and pushed the frontiers to the Danube, Euphrates, and Caucasus. The era's great internal tension was the struggle of the central state against the **military aristocracy** (the *dynatoi* — Phokas, Skleros), and its great external success the drawing of **[[kievan-rus|Rus′]]** into the Orthodox world (the [[conversion-of-vladimir-988|conversion of 988]], sealed by the Varangian alliance). For Byzantium, Reuter notes, the long tenth century was "as much a golden age as an age of iron." This apogee was followed within fifty years by the eleventh-century crisis (Manzikert, 1071).
+
+**Relations with Kievan Rus′ (per Primary Chronicle Laurentian Text, ll. 3000–6000):** Early raids and treaties dominate. 863–866: Askold/Dir 200 ships attack Tsar’grad (Michael III); Photius + Virgin's veil storm wrecks them. 907/911–912: Oleg 2000 ships (wheels/sails); demands tribute; detailed trade treaty (12 grivny/man, supplies, baths, Perun/Volos oath; Russes shields on gates; full legal code on murder/theft/ransom/slaves/inheritance; envoys shown relics/crown/nails/purple robe). 941: Igor ravages Bithynia etc.; Greek fire ("lightning from heaven") repulses. 944/945: Igor/coalition (incl. Pechenegs) treaty with Romanus/Constantine/Stephen (envoys list incl. for Olga; certificates, city-priority allowances starting Kiev, Kherson protections, "If a Christian kill a Russ..."; sworn Perun + St. Elias church). 968: Pechenegs (nomads) vs Rus; Olga escape. 971: Svyatoslav vs John Tzimiskes (Pereyaslavets/Dorostolon); treaty (peace, no attack Kherson/Bulgaria; Perun/Volos oath). 986–988: missions to Vladimir (Greeks criticize others); 987 envoys to "Tsar'grad" (Hagia Sophia liturgy "we knew not whether we were in heaven or on earth"); 988 Vladimir takes Kherson (Anastasius betrays water); demands sister Anna ("Unless you give her to me to wife, I shall deal with your own city"); emperors condition on baptism ("It is not meet for Christians to give in marriage to pagans"); Anna sails reluctantly ("as if I were setting out into captivity"); Vladimir baptised in Kherson St. Basil (eyes healed); marries; takes relics/Anna/priests; creed/7 councils instruction. See [[kievan-rus]], [[conversion-of-vladimir-988]], [[cross-primary-chronicle-laurentian-1953]]. Rus' raids force diplomacy; conversion binds to Byzantine Orthodoxy/Varangian Guard service.
 
 ## Crisis and the Komnenian Restoration (1025–1180) (NCMH IV)
 

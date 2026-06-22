@@ -9,7 +9,7 @@ affiliated_with: [[romanov-dynasty|Romanov Dynasty]], [[russian-empire|Russian E
 opposed_by: [the Bolsheviks, the Mensheviks, the Socialist Revolutionaries, the Constitutional Democrats (Cadets), and the Empire of Japan]
 key_events: [the Russo-Japanese War (1904–05), the Revolution of 1905, the October Manifesto (1905), the First World War (1914), the February Revolution (1917), the abdication of Nicholas II (1917)]
 key_processes: ["industrialization-of-russia", [[populism-in-russia|Populism in Russia]], "state-formation", "dissolution-of-empire"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [actor, person, long-19th-century, world-wars-era, eastern-europe]
 ---
@@ -17,6 +17,8 @@ tags: [actor, person, long-19th-century, world-wars-era, eastern-europe]
 # Nicholas II of Russia
 
 **Nicholas II** (1868–1918; r. 1894–1917) was the last Emperor of Russia. His reign witnessed rapid industrialization and agricultural reform under Witte and Stolypin, alongside military defeats in the Russo-Japanese War and World War I. His refusal to yield autocratic power and his mismanagement of the state during World War I led to the collapse of the Romanov dynasty in the February Revolution of 1917.
+
+From Freeze (ed.) 2002: "1894–1917 Reign of Nicholas II" (lines 18313–18315); "1895 ‘Senseless dreams’ speech by Nicholas II" (lines 18317–18319); "1904–5 Russo-Japanese War" (lines 18351–18353); "1905 Bloody Sunday (9 January); October Manifesto (17 October) promising political reform and civil rights" (lines 18359–18361); "1906 First State Duma; Stolypin land reforms" (lines 18363–18365); "1914 Outbreak of First World War" (lines 18393–18395); "1917 February Revolution (23 February–1 March) ... abdication of Nicholas II (2 March)" (lines 18403–18411).
 
 ## Biography / Description
 

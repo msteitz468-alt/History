@@ -7,7 +7,7 @@ date_range: "1300–1500 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road, mesoamerica, andes]
 major_themes: ["the Pax Mongolica and the integrated Eurasian system", "the Black Death and the fourteenth-century crisis", "the breakup of the Mongol empire and Timur", "the rise of the Ottomans and the fall of Constantinople (1453)", "Ming China and the Zheng He voyages", "the apogee of Mali (Mansa Musa)", "the rise of the Aztec and Inca empires", "the eve of European oceanic expansion"]
 collection_coverage: strong
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-22
 tags: [period]
 ---
@@ -38,6 +38,8 @@ poised to weld the two hemispheres into one world, the threshold that the next
 volume (CWH VI) takes up.
 
 ## Major Developments
+
+**Rise of Muscovy (from Freeze (ed.) 2002, Martin ch.):** After Mongol sack of Kiev 1240, "the institutions that had given cohesion both to Kievan Rus and to the post-invasion principalities were crumbling"; south-west detached to Poland/Lithuania; "the Daniilovichi of Moscow" gained khan favour over legitimate heirs (l1103–1109). Ivan Kalita secured Vladimir throne post-1325 after eliminating Tver rival; "with the exception of a few brief interludes... the princes of Moscow retained the position of grand prince until their dynastic line expired at the end of the sixteenth century" (l1097–1099). Territorial control: Moscow river fully, Oka/Volga segments; acquisitions (Beloozero, Uglich, Galich, Starodub, Rostov influence) (l1129–1135). Kulikovo 1380: Dmitrii Donskoi victory over Mamai; "no other branch of Riurikids ever again challenged the seniority of the Muscovite line" though Tokhtamysh reimposed 1382 (l1294–1295). "vertical succession" confirmed by Vasilii II victory in civil war vs uncles (blinding etc.); "limited the division of lands" (l1397–1399). Church: "furnished the Daniilovichi with ideological concepts that legitimized their rule"; "gathering the Rus lands" (l1381–1382). By 1425 "Muscovy had strengthened both its material and ideological foundations" for centralized state exploiting Golden Horde/Lithuania weakening (l1387–1399). "the new state of Muscovy was thus poised to... become a mighty Eastern European power" (l1399).
 
 **The integrated Eurasian system at its peak.** Under the Pax Mongolica, merchants,
 missionaries, and envoys (Marco Polo, Ibn Battuta, Rabban Sauma) crossed Eurasia

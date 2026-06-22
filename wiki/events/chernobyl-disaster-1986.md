@@ -13,7 +13,7 @@ scale_immediate: civilizational
 scale_consequential: global
 causes: [design flaws of the RBMK reactor, operator errors during a safety test, Soviet culture of secrecy]
 consequences: [massive radioactive contamination, rise of ecological movements in the USSR, acceleration of the policy of glasnost]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [event, cold-war, eastern-europe]
 ---
@@ -21,6 +21,7 @@ tags: [event, cold-war, eastern-europe]
 
 ## Narrative
 There had been several explosions in Soviet civilian nuclear power stations since built under Khrushchev; lessons not learned; supervision and training remained lamentable; no mention of past explosions allowed in press. Zhores Medvedev (in emigration) had deduced a disaster in the Urals from indirect data, but discussion banned. On 26 April 1986 a horrific jolt: accident at nuclear power station near Ukrainian town of Chernobyl. Core of reactor overheated; station staff, instead of instantly shutting down, tried various cooling measures. Incompetence caused explosion. Result catastrophic radiation. Local politicians panicked; some secretly moved families out of Ukraine. Winds carried radioactive particles north and west; Belorussia and eastern Poland affected; Scandinavian newspapers revealed disaster. Clamour of world public opinion; assumption Politburo deliberately pretending nothing happened (conventional practice). But Politburo itself had difficulty getting rapid accurate information. As enormity became evident, Gorbachev announced dispatch of investigative team from Moscow; Ryzhkov courageously visited in person (lines 3127–3132).
+  - Freeze (ed.) 2002 chronology entry: "1986 Chernobyl disaster (26 April)" (lines 18669–18671). Tbilisi disorders also noted same year (lines 18669–18671).
 
 For Gorbachev reports were almost as appalling as the human and natural devastation. "A long chain of negligence, incompetence and disorganization was to blame. Workers were careless; technicians were ill-trained; local politicians were ignorant; and central ministers and scientific consultants had omitted to put a reasonable set of safeguards into operation." In 1921 Lenin had declared Kronstadt mutiny the flash that led to NEP. Gorbachev made no similar statement. But Chernobyl had deep impact. He could no longer fail to understand that defects could not be corrected by administrative tinkering. "Misinformation, indiscipline and organizational manipulation were intrinsic to its workings. The lethal atmosphere over Chernobyl was a metaphor for the conditions in Soviet public life. A ventilation of the country's problems was no longer merely desirable; it was crucial for the medium-term survival of the USSR as a superpower" (lines 3133–3135).
 ## Narrative

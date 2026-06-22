@@ -57,7 +57,14 @@ Simultaneously, the Second All-Russian Congress of Soviets met in Petrograd. Mod
 
 ## Historiography
 
-Historiography on the October Revolution is deeply divided:
+Historiography on the October Revolution is deeply divided: liberal views see it as coup against democratic promise; Soviet as inevitable proletarian victory; recent (Freeze 2002 Orlovsky lines 7949–8230) stress objective conditions (war/economic collapse, govt weakness, Kornilov fiasco) plus Bolshevik exploitation, with Lenin "bombard[ing] the Central Committee with letters demanding... seize power" but party divided (Kamenev/Zinoviev 10-2 CC vote 10 Oct for uprising "without setting a timetable", lines 8219–8223); Trotsky/MRC key to execution "under the cover of soviet legitimacy" (lines 8225); "Bolsheviks brilliantly exploited the situation, but owed much to ‘objective conditions’" (lines 8227). Not pre-ordained; Kornilov "farce and fiasco" eroded Kerensky without guaranteeing Oct methods/timing (line 8085). "Strikes... main ‘form of participatory politics’" (Koenker/Rosenberg). Updated from Service/Riasanovsky with Freeze's emphasis on dual power erosion, popular radicalism (not just elite manipulation), and multi-ethnic/nationality strains accelerating crisis.
+
+## Consequence Analysis (expanded from Freeze)
+
+- `produced:` Bolshevik "Workers’ and Peasants’ Government"; Decrees on Peace and Land; immediate move to one-party rule (dissolution of Constituent Assembly Jan 1918 after SR plurality; lines 8283–8284 from range).
+- `produced:` [[russian-civil-war-1918|Russian Civil War]] and War Communism as "crucible of communism" (lines 8235).
+- `enabled:` Red Guards and armed worker militias as ongoing power base.
+- `followed_by:` Rebuilding the state via party-state fusion, Cheka (Dzerzhinskii "sword of the revolution"), nomenklatura (lines 8251–8282).
 - **Soviet and Marxist Historiography:** Depicts October as a heroic, popular socialist revolution of the Russian working class led by the vanguard Bolshevik Party, executing the laws of historical materialism.
 - **Liberal and Totalitarian Historiography:** Analyzes October as a classic, minority coup d'état staged by a disciplined group of conspirators (the Bolsheviks) who hijacked a popular democratic revolution and imposed a dictatorship.
 - **Social History Revisionism:** Focuses on the radicalization of the workers, sailors, and soldiers from below, arguing that the Bolsheviks succeeded because their slogans aligned with the spontaneous demands of the popular masses.
