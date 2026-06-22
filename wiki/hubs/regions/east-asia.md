@@ -7,11 +7,34 @@ tags: [hub, region, east-asia]
 
 # East Asia — Regional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> The Sinic world — China and the societies that shared its script, statecraft, and Confucian-Buddhist
+> culture: Japan, Korea, and Vietnam. This is the overarching hub; the deepest detail lives in the
+> [[hubs/civilizations/china|China]] portal and the [[hubs/regions/japan|Japan]] and
+> [[hubs/regions/korea|Korea]] hubs. The exhaustive auto-list is the **Bases view** below.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · sub-hubs:
+[[hubs/civilizations/china|China]] · [[hubs/regions/japan|Japan]] · [[hubs/regions/korea|Korea]]
+
+---
+
+## The shared world
+- **China** — the civilizational core; see the [[hubs/civilizations/china|China portal]] for the full
+  dynastic arc (Shang → Qing → modern).
+- **Japan** — from [[yamato-japan|Yamato]] through the [[meiji-restoration-1868|Meiji Restoration]] to
+  the [[japanese-economic-miracle|postwar miracle]]; see the [[hubs/regions/japan|Japan hub]].
+- **Korea** — the [[korea-three-kingdoms|Three Kingdoms]] to the [[korean-war-1950|Korean War]];
+  see the [[hubs/regions/korea|Korea hub]].
+- The unifying frame: the [[east-asia-modern|modern East Asia]] of imperialism, war, and revolution —
+  the [[first-sino-japanese-war-1894-1895|Sino-Japanese]] and [[russo-japanese-war-1904|Russo-Japanese]] wars,
+  the [[pacific-war-1941-1945|Pacific War]], and the Cold War ([[korean-war-1950|Korea]], the
+  [[sino-soviet-split|Sino-Soviet split]]).
+- Cultural substrate: [[confucianism|Confucianism]], [[buddhism|Buddhism]], and the
+  [[industrious-revolution|industrious revolution]].
+
+## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
+- The [[great-divergence|Great Divergence]] — East Asia and the origins of modern growth.
+
+---
 
 ## All East Asia pages (live)
 
@@ -21,17 +44,9 @@ filters:
     - 'tags.contains("east-asia")'
 views:
   - type: table
-    name: East Asia pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: East Asia pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `east-asia` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.

@@ -7,11 +7,23 @@ tags: [hub, region, korea]
 
 # Korea — Regional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> The peninsula between China and Japan — long an independent civilization, repeatedly a battleground,
+> and in the twentieth century the front line of the Cold War. Coverage is **thin**; the curated spine
+> reflects the few pages the collection currently supports.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · parent: [[hubs/regions/east-asia|East Asia]]
+
+---
+
+## Key threads
+- The [[korea-three-kingdoms|Three Kingdoms]] — Goguryeo, Baekje, and Silla — and the formation of
+  Korean civilization.
+- [[hideyoshi-korea-invasions-1592-1598|Hideyoshi's invasions (1592–98)]] — the devastating Japanese
+  assault repelled with Ming help.
+- The [[first-sino-japanese-war-1894-1895|Sino-Japanese War]] and Japanese annexation.
+- The [[korean-war-1950|Korean War (1950–53)]] — division into North and South.
+
+---
 
 ## All Korea pages (live)
 
@@ -21,17 +33,9 @@ filters:
     - 'tags.contains("korea")'
 views:
   - type: table
-    name: Korea pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: Korea pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `korea` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.
