@@ -50,6 +50,27 @@ absorbed by Rome through the [[first-macedonian-war-214-205bce|Macedonian Wars]]
 
 ---
 
+## Cross-sections
+
+Read the Greek world thematically rather than chronologically:
+
+- **The polis & politics:** the citizen city-state was Greece's defining invention — from
+  [[greek-tyranny|tyranny]] through [[athenian-democracy|Athenian democracy]] and Spartan oligarchy
+  ([[spartan-agoge|the agoge]]) to the [[greek-federalism|federal leagues]] and the
+  [[hellenistic-polis|Hellenistic polis]] under monarchy.
+- **Philosophy & science:** the [[presocratics|Presocratics]] → the [[sophists|Sophists]] →
+  [[plato|Plato]] and [[aristotle|Aristotle]] → the schools of the [[hellenistic-science|Hellenistic age]],
+  Greece's deepest legacy to later thought.
+- **Drama, art & the games:** [[athenian-drama|Athenian drama]] · [[classical-greek-art|classical art]] ·
+  the [[panhellenic-games|panhellenic games]] that bound the Greeks across their political divisions.
+- **Religion & identity:** [[greek-religion-and-mythology|myth and religion]], [[polis-religion|civic cult]],
+  the oracle at [[delphi|Delphi]], and the [[hellenic-identity|sense of Hellenic identity]] forged against Persia.
+- **Language & economy:** the unifying [[koine-greek|koine]] of the Hellenistic world; the
+  [[archaic-greek-economy|economy]] of colonization, coinage, and trade; and war as a way of life
+  ([[hoplite-warfare|the hoplite]], [[greek-warfare|Greek warfare]] — see [[hubs/themes/warfare|Warfare]]).
+
+---
+
 ## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
 - [[herodotus-reliability|How reliable is Herodotus?]] · [[homeric-poems-as-history|the Homeric poems as history]].
 - [[axial-age-controversy|The Axial Age]] · [[seleucid-hellenization|how deep did Hellenization go?]]

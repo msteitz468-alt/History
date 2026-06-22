@@ -49,6 +49,32 @@ alongside Safavid Iran — rule most of the Islamic world at its early-modern he
 
 ---
 
+## Cross-sections
+
+Read the Islamic world thematically rather than dynasty by dynasty:
+
+- **Faith & the great schism:** the community split over the succession to [[muhammad-and-the-rise-of-islam|Muhammad]]
+  in the [[first-fitna-656|First]] and [[second-fitna-680|Second Fitna]] — the origin of the enduring
+  **Sunni–Shia** divide that still maps onto [[fatimid-caliphate|Fatimid]], [[ottoman-empire|Ottoman]], and
+  Safavid history.
+- **Law & the state:** Islamic governance fused religious law (*sharia*) with rulers' administrative law —
+  seen concretely in the Ottoman [[ottoman-law-kanun|kanun]]; the caliph–sultan distinction
+  ([[rashidun-caliphate|caliphate]] as religious leadership, [[seljuk-empire|sultanate]] as military power)
+  structured authority after the Abbasids.
+- **Learning & science:** the Abbasid translation movement at [[baghdad|Baghdad]] preserved and advanced
+  Greek science, mathematics, and medicine — a golden age whose influence flowed back into Europe through
+  [[al-andalus|al-Andalus]] and the [[caliphate-of-cordoba|Caliphate of Córdoba]].
+- **Cities & trade:** Islam was a religion of merchants and cities, anchoring the great commercial
+  networks — [[trans-saharan-trade|trans-Saharan]] gold, the [[indian-ocean-trade|Indian Ocean]] monsoon
+  routes, and the overland [[silk-roads|Silk Roads]] — which also carried the faith to
+  [[islamization-of-africa|Africa]] and [[islamization-of-southeast-asia|Southeast Asia]].
+
+> _Collection note: the wiki currently has few dedicated pages for Islamic theology, law (fiqh), Sufism,
+> and science as such — a known gap. This section links the political/commercial pages that do exist; the
+> intellectual-history pages are a priority for future ingestion._
+
+---
+
 ## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
 - The [[ottoman-decline-thesis|Ottoman "decline" thesis]] ·
   [[ottoman-impact-on-european-expansion|the Ottoman impact on European expansion]].

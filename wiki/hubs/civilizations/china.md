@@ -55,11 +55,23 @@ the [[cultural-revolution|Cultural Revolution]], the [[sino-soviet-split|Sino-So
 ---
 
 ## Cross-sections
-- **Thought:** [[confucianism|Confucianism]] · [[daoism|Daoism]] · Legalism ([[han-feizi|Han Feizi]]).
-- **Statecraft:** the dynastic cycle, the examination system, and bureaucratic empire — see
-  [[state-formation|state formation]] and [[empire|empire]].
-- **China & its neighbors:** the [[east-asian-cultural-sphere|East Asian cultural sphere]];
-  the [[first-sino-japanese-war-1894-1895|Sino-Japanese War]] and [[manchurian-incident-1931|Manchurian Incident]].
+
+Read China thematically across the dynasties:
+
+- **Thought:** the three teachings — [[confucianism|Confucianism]] (and its later
+  [[neo-confucianism|Neo-Confucian]] synthesis), [[daoism|Daoism]], and Buddhism — in tension with
+  [[legalism|Legalism]] ([[han-feizi|Han Feizi]]), the philosophy of the Qin state.
+- **Statecraft & legitimacy:** the [[mandate-of-heaven|Mandate of Heaven]] and the "dynastic cycle";
+  bureaucratic empire staffed through the [[chinese-examination-system|examination system]] — the
+  meritocratic civil service that defined imperial governance (see [[state-formation|state formation]],
+  [[empire|empire]]).
+- **Economy & technology:** the [[song-dynasty|Song]] [[commercial-revolution|commercial revolution]] —
+  paper money, the [[printing-revolution|printing revolution]], gunpowder, and the canal-linked rice
+  economy — and the [[industrious-revolution|industrious revolution]] of the late-imperial era.
+- **China & its neighbours:** the [[east-asian-cultural-sphere|East Asian cultural sphere]] (shared
+  script, Confucianism, Buddhism) radiating to Korea, Japan, and Vietnam; the [[silk-roads|Silk Roads]]
+  west; and the modern collisions — the [[first-sino-japanese-war-1894-1895|Sino-Japanese War]] and the
+  [[manchurian-incident-1931|Manchurian Incident]].
 
 ## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
 - The [[great-divergence|Great Divergence]] — why did China not industrialize first?
