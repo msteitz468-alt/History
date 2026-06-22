@@ -7,7 +7,7 @@ period_coverage: [Late Antiquity, Early Middle Ages, High Middle Ages]
 region_coverage: [near-east, arabian-peninsula, iran-plateau, levant, mesopotamia]
 methodological_approach: [interpretive single-author synthesis — civilizational, religious, and intellectual history; world-historical comparison]
 reliability_notes: "Hodgson's landmark three-volume synthesis (Vol. 1 covers origins to the decline of the High Caliphate, c. 945). DISTINCTIVE scholarship with its own conceptual vocabulary (Islamicate vs. Islamic; Irano-Semitic; the agrarianate-citied society; the Piety-Minded) — warrants DEEP reading, not light-touch. Foundational for Islamic intellectual/religious history (the wiki's Gap 4b). Single-author and interpretive, so flag where his framework is idiosyncratic vs. consensus."
-pages_created: 0
+pages_created: 42
 pages_updated: 0
 ingested: 2026-06-22
 tags: [source]
@@ -53,10 +53,39 @@ Body content: lines **427–22,781**; later lines are bibliography/glossary/inde
 | **E** Falsafah & Kalam | 17928–20212 | Book Two V: Speculation — Falsafah and Kalam c.750–945 (the translation movement, philosophy, theology) | `islamic-philosophy`, `kalam`, `mutazilism`, `the-translation-movement` |
 | **F** Adab & dissipation | 20213–22781 | Book Two VI–VII: Adab — Arabic literary culture c.813–945; the Dissipation of the Absolutist Tradition 813–945 (decline, the Buyids) | `adab-arabic-literary-culture`, `dissipation-of-the-high-caliphate`, `buyid-dynasty` |
 
-## Claim list (filled on the main thread after agents finish)
+## Claim list — 42 pages (2 scaffold + 40 from 6 agents)
 
-_(to be populated in Step 4)_
+**Scaffold:** [[islamicate]] · [[abbasid-caliphate]].
+**A — Framework & method:** [[irano-semitic-tradition]] · [[agrarian-citied-society]] ·
+[[islamic-civilization-historiography]] · [[piety-minded-opposition]].
+**B — Rise of Islam:** [[quran]] · [[pre-islamic-arabia]] · [[the-hijra-622]] · [[early-muslim-community]] ·
+[[mecca]] · [[medina]].
+**C — Opposition & Abbasid power:** [[kharijites]] · [[shia-islam]] · [[sunni-shia-split]] ·
+[[abbasid-revolution-750]] · [[imamate]] · [[abu-muslim]] · [[al-mansur]].
+**D — Shari'ah & piety:** [[sharia]] · [[fiqh]] · [[hadith]] · [[sunni-islam]] · [[ulama]] · [[early-sufism]] ·
+[[shafii-muhammad-ibn-idris]] · [[ibn-hanbal-ahmad]] · [[mihna-833]] · [[tabari-muhammad-ibn-jarir]].
+**E — Falsafah & Kalam:** [[the-translation-movement]] · [[islamic-philosophy]] · [[kalam]] · [[mutazilism]] ·
+[[asharism]] · [[al-kindi]] · [[al-farabi]] · [[hunayn-ibn-ishaq]].
+**F — Adab & dissipation:** [[adab-arabic-literary-culture]] · [[dissipation-of-the-high-caliphate]] ·
+[[buyid-dynasty]] · [[turkish-military-slaves-abbasid]] · [[zanj-revolt-869]].
 
 ## Volume Synthesis Note
 
-_(to be written in Step 4 after all agents complete)_
+Vol. 1 gives the wiki its first real **Islamic intellectual and religious history** — the long-flagged
+Gap 4b. The political backbone (caliphates, conquests) existed; what was missing was the *content* of
+the civilization, which these 42 pages supply: the [[quran|Quran]] and the [[early-muslim-community|early
+umma]]; the elaboration of the [[sharia|Shari'ah]], [[fiqh]], and [[hadith|Hadith]] by the
+[[ulama|'ulama]]; the crystallization of [[sunni-islam|Sunni]] and [[shia-islam|Shi'i]] Islam out of the
+[[kharijites|Kharijite]]/[[piety-minded-opposition|piety-minded]] ferment; the speculative traditions of
+[[kalam]] ([[mutazilism|Mu'tazila]], [[asharism|Ash'aris]]) and [[islamic-philosophy|falsafah]]
+([[al-kindi|al-Kindi]], [[al-farabi|al-Farabi]]) seeded by [[the-translation-movement|the translation
+movement]]; the rise of [[early-sufism|Sufism]]; and the [[adab-arabic-literary-culture|adab]] of the
+courtly class.
+
+The volume's lasting contribution is **conceptual**: Hodgson's [[islamicate|Islamicate]]/Islamic
+distinction, the [[irano-semitic-tradition|Irano-Semitic]] substrate, the [[agrarian-citied-society|agrarianate-citied
+society]], and the [[piety-minded-opposition|piety-minded]] as the engine of cultural initiative — a
+vocabulary that reframes how the whole civilization is read. Because it is single-author and
+interpretive, pages flag where Hodgson's framing is his own rather than consensus. This is volume 1 of
+3 (the Classical Age to c. 945); [[hodgson-venture-of-islam-v1-1974|Vol. 2]] (Middle Periods) and Vol. 3
+(Gunpowder Empires) follow.
