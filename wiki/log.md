@@ -11,6 +11,16 @@ Format:
 
 ---
 
+## 2026-06-22 ingest-complete | The Oxford Handbook of Modern German History (Smith, ed., 2011) | Periods 19–24 (Early Modern → Contemporary) | western-europe, eastern-europe | Pages created: 65 (7 scaffold + 58 from 6 Sonnet agents) | Pages updated: 0 | First run of the deployed-subagent strategy. Built the wiki's modern-German backbone (Prussia→Kaiserreich→Weimar→Nazi Germany→FRG/GDR→reunification) + the german-sonderweg controversy. Main-thread reconciliation fixed 13 broken cross-links (naming variants, person-name order, forward-links). See source page for the full claim list + synthesis.
+
+## 2026-06-22 ingest-complete | The Oxford Handbook of Modern African History (Parker & Reid, eds., 2013) | Long 19th Century → Contemporary | sub-saharan-africa (+ all African regions) | Pages created: 24 (5 Sonnet agents) | Pages updated: 0 | Thematic/social-cultural layer (ecology, demography, diaspora, colonial state, religion, gender, urbanization, youth, culture, media) atop the existing political backbone; deliberately link-not-duplicate. See source page for claim list + synthesis. Gap noted: Ch.7 Warfare (no page).
+
+## 2026-06-22 section | Oxford Handbook of Modern African History (Parker & Reid 2013) — Agent 4 | Chs. 18–22: Education & Literacy; Women & Gender; Urbanization & Urban Cultures; Health & Healing; Youth | Long 19th Century, World Wars Era, Cold War, Contemporary | sub-saharan-africa, west-africa, east-africa, southern-africa, central-africa, north-africa | Pages created: 5 | Pages updated: 0
+
+## 2026-06-22 section | Oxford Handbook of Modern German History (Smith 2011) — Agent D | Chs. 17–19: Total War 1914–1918; German National Economy 1917–1945 (Tooze); Dictatorship & Democracy 1918–1939 (Mergel) | World Wars Era | western-europe | Pages created: 11 | Pages updated: 2 (index.md, log.md)
+
+## 2026-06-22 section | Oxford Handbook of Modern German History (Smith 2011) — Agent E | Chs. 20–25: Religion 1870–1945; German Modernism; Nationalism 1870–1945; Todesraum; Three Horsemen of the Holocaust; Migration 1880–1948 | Long 19th Century, World Wars Era | western-europe, eastern-europe | Pages created: 6 | Pages updated: 1 (source page pages_created count)
+
 ## 2026-06-22 admin | Hub architecture — polish | (1) Deduped fall-of-western-roman-empire (merged to canonical, repointed link). (2) Trimmed index.md 591->258 lines (ingest log lives in log.md), added Home banner + populated Timelines table. (3) Normalized civ tags: rome(103)/greece(69)/islamic-world(29); repointed civ Bases views. (4) Added 3 synchronic snapshots: c. 1 CE, c. 1200 CE, c. 1500 CE; wired into master-timeline + home. Hub architecture + polish COMPLETE.
 
 ## 2026-06-22 admin | Hub architecture — stubs fleshed out | All 51 stub hubs replaced with full narrative spines + curated key-threads (linked to real pages) + tuned Bases views: 6 themes, 3 civilizations (china/islam/greece), 42 regions. Full sweep: 0 broken links, all code fences balanced. Navigation layer complete. Remaining polish: more synchronic snapshots, index.md trim, duplicate fall-of-western-roman file, tag normalization for rome/greece/islam Bases views.
@@ -2490,3 +2500,5 @@ The authoritative Cambridge reference on **medieval Japan (1185–1603)** — th
 ## 2026-06-14 ingest-complete | The Cambridge History of China (Chinese 11-vol compilation) | Total pages created: 13 | Total pages updated: 11 | Sections processed: 7 | Chinese translation layer flagged
 
 ## 2026-06-14 ingest | Dieter Kuhn, Die Song-Dynastie (960–1279) (1987, German) | High–Late Middle Ages | china | Pages created: 2 (tang-song-transition, kuhn-die-song-dynastie) | Pages updated: 2 (song-dynasty, neo-confucianism) | German language layer; fills the CHC Song gap
+
+## 2026-06-22 section | Smith (ed.), Oxford Handbook of Modern German History (2011) | Agent B range: Ch.7–12 | Age of Expansion + Long 19th Century | western-europe | Pages created: 9 (atlantic-revolutions-german-lands, german-economic-old-order-transition, zollverein, german-pauperism-vormarz, german-population-transition, german-jewish-emancipation, german-nationalism-formation, german-idealism-and-literature, german-triconfessional-society) | Pages updated: 0 | parallel ingest; Agent B exclusive range

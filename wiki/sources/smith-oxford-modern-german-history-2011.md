@@ -7,7 +7,7 @@ period_coverage: [Early Modern, Age of Expansion, Long 19th Century, World Wars 
 region_coverage: [western-europe, eastern-europe]
 methodological_approach: [thematic multi-author handbook — social, cultural, political, economic, and military history]
 reliability_notes: "Authoritative OUP multi-author reference (35 chapters by leading scholars). Thematic rather than narrative; foregrounds the historiography (the Sonderweg debate, the place of the Holocaust, the question of German modernity). Presumptive weight as a Cambridge/Oxford-tier reference."
-pages_created: 0
+pages_created: 65
 pages_updated: 0
 ingested: 2026-06-22
 tags: [source]
@@ -59,10 +59,55 @@ pages are scaffolded above; agents link to them.
 | **E** Race, culture, Holocaust, migration | 8099–10204 | 20–25: Religion 1870–1945; German Modernism; Nationalism 1870–1945; Todesraum (mass death) 1914–1945; Three Horsemen of the Holocaust; Migration 1880–1948 | World Wars Era | `german-modernism`, `kristallnacht-1938`, `volksgemeinschaft`, antisemitism pages; enrich `[[the-holocaust]]`, `[[nazi-germany]]` |
 | **F** Postwar → Berlin Republic | 10205–13513 | 26–35: Defeat & Occupation (1945); Two Germanies 1949–1961; the 1960s; Mass Consumption / Post-industrial; Religion 1945–1990; Culture after Trauma; the Two States Internationally; 1989 & Unification; European Integration since 1945; Toward a Multicultural Society? | Cold War, Contemporary | `west-germany`, `east-germany`, `fall-of-the-berlin-wall-1989`, `german-reunification-1990`, `ostpolitik`, `wirtschaftswunder`; enrich `[[cold-war]]`, `[[berlin-blockade-1948]]` |
 
-## Claim list (filled on the main thread after agents finish)
+## Claim list — 65 pages (7 scaffold + 58 from 6 agents)
 
-_(to be populated in Step 4)_
+**Scaffold (main thread):** [[prussia]] · [[german-confederation]] · [[german-empire]] ·
+[[weimar-republic]] · [[nazi-germany]] · [[otto-von-bismarck]] · [[german-sonderweg]] (controversy).
+
+**A — Foundations → Napoleonic:** [[frederick-the-great]] · [[war-and-the-german-states-1740-1815]] ·
+[[german-enlightenment]] · [[german-cosmopolitanism]] · [[german-regionalism]] · [[gender-in-modern-germany]].
+**B — Vormärz, nationalism, economy:** [[atlantic-revolutions-german-lands]] ·
+[[german-economic-old-order-transition]] · [[zollverein]] · [[german-pauperism-vormarz]] ·
+[[german-population-transition]] · [[german-jewish-emancipation]] · [[german-nationalism-formation]] ·
+[[german-idealism-and-literature]] · [[german-triconfessional-society]].
+**C — Unification & Kaiserreich:** [[austro-prussian-war-1866]] · [[franco-prussian-war-1870]] ·
+[[herero-nama-genocide-1904]] · [[kulturkampf]] · [[german-industrialization]] · [[german-colonialism]] ·
+[[great-transformation-germany-1850-1914]] · [[kaiserreich-constitutional-system]] · [[wilhelm-ii]] · [[weltpolitik]].
+**D — WWI, Weimar, Nazi economy:** [[november-revolution-1918]] · [[hindenburg-program-1916]] ·
+[[dawes-plan-1924]] · [[german-home-front-ww1]] · [[total-war-germany-1914-1918]] ·
+[[german-war-economy-1914-1945]] · [[weimar-democracy-and-its-collapse]] · [[adolf-hitler]] ·
+[[gustav-stresemann]] · [[walther-rathenau]] · [[augusterlebnis]].
+**E — Race, culture, Holocaust, migration:** [[religion-in-germany-1870-1945]] · [[german-modernism]] ·
+[[volksgemeinschaft]] · [[todesraum-mass-death-1914-1945]] · [[german-antisemitism]] · [[kristallnacht-1938]] ·
+[[german-migration-1880-1948]] · [[german-nationalism-1870-1945]].
+**F — Postwar → Berlin Republic:** [[west-germany]] · [[east-germany]] · [[konrad-adenauer]] ·
+[[willy-brandt]] · [[helmut-kohl]] · [[wirtschaftswunder]] · [[two-germanies-cold-war]] ·
+[[german-european-integration]] · [[german-multiculturalism]] · [[the-1968-generation-germany]] ·
+[[ostpolitik]] · [[vergangenheitsbewaltigung]] · [[fall-of-the-berlin-wall-1989]] · [[german-reunification-1990]].
 
 ## Volume Synthesis Note
 
-_(to be written in Step 4 after all agents complete)_
+The *Handbook* gave the wiki its first dedicated **modern German** backbone — previously Germany
+appeared only obliquely (Carolingians, the Holy Roman Empire, scattered WWII/Holocaust pages). The 65
+pages now span the Holy Roman Empire's last century to the Berlin Republic, organized around the
+volume's central historiographical move: the **collapse of the *Sonderweg* paradigm**. Smith frames
+German history not as a uniquely deviant "special path" to 1933 but as a **connected** history —
+transnational, colonial, European — while keeping the Holocaust analytically central. That framing is
+captured in the standing [[german-sonderweg]] controversy and threaded through the Kaiserreich,
+Weimar-collapse, and Nazi pages.
+
+Three cross-cutting threads emerged from the parallel extraction that the section divisions obscured.
+First, **continuity of the colonial and racial imagination** runs from [[german-colonialism]] and the
+[[herero-nama-genocide-1904]] through [[volksgemeinschaft]] and the [[the-holocaust|Holocaust]] — the
+volume's "connected" reading of German racism. Second, the **two German nationalisms**
+([[german-nationalism-formation]], 1740–1850; [[german-nationalism-1870-1945]]) show the concept
+mutating from a liberal-unifying to an exclusionary-racial register. Third, the postwar pages
+([[vergangenheitsbewaltigung]], [[two-germanies-cold-war]], [[german-european-integration]]) frame the
+Federal Republic as defined by *coming to terms with* that past. Tensions with other ingested sources:
+[[german-war-economy-1914-1945]] aligns with Tooze's account already on [[war-economy]]; the
+[[the-holocaust]] page (from the Cambridge WWII ingest) is now complemented by the *Three Horsemen*
+analytic of antisemitism + eastern empire + racial community.
+
+> Method note: this was the first run of the **deployed-subagent strategy**. Six Sonnet agents on
+> disjoint line-ranges produced 58 pages with zero file collisions; main-thread reconciliation fixed
+> 13 broken cross-links (naming variants, person-name order, and forward-links to uncreated pages).

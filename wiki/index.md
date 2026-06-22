@@ -49,6 +49,10 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `out-of-africa-2-60kbp.md` | Out of Africa 2 — Dispersal of Behaviorally Modern Homo sapiens | ~60,000–50,000 BP | global |
 | `colonization-australasia-50kbp.md` | Pleistocene Colonization of Australasia (Sahul) | ~50,000–67,000 BP (disputed) | australia, melanesia |
 | `colonization-americas-14500bp.md` | Pleistocene Colonization of the Americas | ~14,500 BP | north-america, south-america |
+| `kristallnacht-1938.md` | Kristallnacht (November Pogrom), 1938 | 1938-11-09 | western-europe |
+| `november-revolution-1918.md` | November Revolution (Germany, 1918) | 1918-10-29 | western-europe |
+| `hindenburg-program-1916.md` | Hindenburg Program (1916–1918) | 1916-08 | western-europe |
+| `dawes-plan-1924.md` | Dawes Plan (1924) | 1924 | western-europe, atlantic-world |
 
 ---
 
@@ -81,6 +85,20 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `early-agriculture-europe.md` | Early Agricultural Society in Europe | Neolithic–Chalcolithic | europe |
 | `urbanization.md` | Urbanization (The Formation of Cities) | Chalcolithic–High Middle Ages | global |
 | `ruralization.md` | Ruralization (Countryside as Urban Hinterland) | Chalcolithic–Late Antiquity | mesopotamia, mesoamerica, andes |
+| `atlantic-revolutions-german-lands.md` | Atlantic Revolutions in the German Lands, 1776–1849 | Age of Expansion–Long 19th Century | western-europe, atlantic-world |
+| `german-economic-old-order-transition.md` | End of the German Economic Old Order: The Great Transition, 1750–1860 | Age of Expansion–Long 19th Century | western-europe |
+| `zollverein.md` | Zollverein (German Customs Union), 1818–1871 | Long 19th Century | western-europe |
+| `german-pauperism-vormarz.md` | German Pauperism and the Vormärz Social Crisis, 1820–1848 | Long 19th Century | western-europe |
+| `german-population-transition.md` | German Population Transition and Migration, 1760–1884 | Age of Expansion–Long 19th Century | western-europe, atlantic-world |
+| `german-jewish-emancipation.md` | German Jewish Emancipation, 1781–1871 | Age of Expansion–Long 19th Century | western-europe |
+| `german-nationalism-formation.md` | Formation of German Nationalism, 1740–1850 | Age of Expansion–Long 19th Century | western-europe |
+| `religion-in-germany-1870-1945.md` | Religion and Religious Groups in Germany, 1870–1945 | Long 19th Century–World Wars Era | western-europe |
+| `german-antisemitism.md` | German Antisemitism, 1870–1945 | Long 19th Century–World Wars Era | western-europe, eastern-europe |
+| `german-migration-1880-1948.md` | German Migration, 1880–1948 | Long 19th Century–World Wars Era | western-europe, eastern-europe, atlantic-world |
+| `german-home-front-ww1.md` | German Home Front in World War I | World Wars Era | western-europe |
+| `total-war-germany-1914-1918.md` | Total War in Germany, 1914–1918 | World Wars Era | western-europe |
+| `german-war-economy-1914-1945.md` | The German National War Economy, 1914–1945 | World Wars Era | western-europe |
+| `weimar-democracy-and-its-collapse.md` | Weimar Democracy and Its Collapse, 1918–1933 | World Wars Era | western-europe |
 
 ---
 
@@ -91,6 +109,9 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `neanderthals.md` | Neanderthals (Homo neanderthalensis) | other (hominin) | Late Prehistory–Behavioral Modernity |
 | `clovis-culture.md` | Clovis Culture | movement (archaeological culture) | Behavioral Modernity |
 | `natufian-culture.md` | Natufian Culture | movement (archaeological culture) | Mesolithic–Neolithic |
+| `adolf-hitler.md` | Adolf Hitler | person | World Wars Era |
+| `gustav-stresemann.md` | Gustav Stresemann | person | World Wars Era |
+| `walther-rathenau.md` | Walther Rathenau | person | World Wars Era |
 
 ---
 
@@ -148,6 +169,13 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `city-state.md` | City-State | political |
 | `founded-cities.md` | Founded and Imagined Cities | analytical |
 | `imperial-city.md` | The Imperial City | political |
+| `german-modernism.md` | German Modernism | cultural / historiographical |
+| `volksgemeinschaft.md` | Volksgemeinschaft | ideological / political |
+| `todesraum-mass-death-1914-1945.md` | Todesraum — The Experience of Mass Death, 1914–1945 | analytical / historiographical |
+| `german-nationalism-1870-1945.md` | German Nationalism in the Nation-State Era, 1870–1945 | ideological / political |
+| `augusterlebnis.md` | Augusterlebnis (The August Experience, 1914) | historiographical / political |
+| `german-idealism-and-literature.md` | German Idealism, Romanticism, and Literary Realism, 1810–1890 | cultural |
+| `german-triconfessional-society.md` | German Triconfessional Society: Protestants, Catholics, and Jews, 1760–1871 | historiographical |
 
 ---
 
@@ -237,22 +265,23 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 
 ## Summary Statistics
 
-Counts reflect actual files on disk as of the **Cambridge History of Japan Vol. 1** ingest
-(recounted from disk — the prior table had drifted well below the true totals). Recent volumes'
-detailed new/updated pages are catalogued in their source pages and `log.md`.
+Counts recounted from disk on **2026-06-22** after the Oxford Handbook of Modern German History and
+Modern African History ingests (the prior table had been raced by parallel agents and drifted low).
+Per-page new/updated details live in each source page and `log.md`.
 
 | Category | Pages |
 |---|---|
 | Periods | 33 |
-| Events | 241 |
-| Processes | 153 |
-| Actors | 544 |
+| Events | 280 |
+| Processes | 209 |
+| Actors | 581 |
 | Places | 122 |
-| Concepts | 291 |
-| Comparisons | 1 |
-| Controversies | 53 |
-| Timelines | 0 |
+| Concepts | 338 |
+| Comparisons | 3 |
+| Controversies | 56 |
+| Timelines | 5 |
 | Queries | 0 |
-| Sources | 146 |
-| **Total** | **1584** |
+| Sources | 207 |
+| Hubs | 54 |
+| **Total (all `.md`)** | **1893** |
 
