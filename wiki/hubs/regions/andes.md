@@ -1,19 +1,41 @@
 ---
-title: "the Andes — Regional Hub"
+title: "The Andes — Regional Hub"
 hub_type: region
 last_updated: 2026-06-22
 tags: [hub, region, andes]
 ---
 
-# the Andes — Regional Hub
+# The Andes — Regional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> The second independent hearth of New World civilization — a vertical world of states without
+> writing or the wheel that nonetheless built the largest empire in the pre-Columbian Americas, and
+> later the silver that financed the early-modern global economy. The exhaustive auto-list is the
+> **Bases view** below.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · related: [[hubs/regions/mesoamerica|Mesoamerica]] ·
+[[hubs/themes/trade-economy|Trade & Economy]] · [[hubs/themes/state-formation|State Formation]]
 
-## All the Andes pages (live)
+---
+
+## Indigenous civilizations
+[[colonization-americas-14500bp|First peopling]] → [[early-agriculture-americas|early agriculture]] →
+[[norte-chico|Norte Chico]] (the earliest American monumental society) → [[andean-state-formation|state formation]]:
+[[moche|Moche]], [[tiwanaku|Tiwanaku]] → the [[inca-empire|Inca Empire]], its capital [[cuzco|Cuzco]],
+and the [[qhapaq-nan|Qhapaq Ñan]] road system.
+
+## Conquest & the silver economy
+The [[spanish-conquest-of-peru-1532|Spanish conquest of Peru (1532)]] ([[pizarro-francisco|Pizarro]]) →
+[[colonial-latin-america|colonial Latin America]] and [[colonial-spanish-american-administration|Spanish administration]] →
+[[potosi-and-colonial-silver|Potosí silver]] feeding the [[global-silver-trade|global silver trade]] ·
+the [[hacienda|hacienda]] · the indigenous chronicler [[guaman-poma-de-ayala|Guamán Poma de Ayala]].
+
+## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
+- [[pre-columbian-american-population|Pre-Columbian population]] ·
+  [[causes-of-latin-american-underdevelopment|Latin American underdevelopment]] · [[black-legend|the Black Legend]].
+
+---
+
+## All Andes pages (live)
 
 ```base
 filters:
@@ -21,17 +43,9 @@ filters:
     - 'tags.contains("andes")'
 views:
   - type: table
-    name: the Andes pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: Andes pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `andes` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.
