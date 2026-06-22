@@ -7,7 +7,7 @@ period_coverage: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 region_coverage: [near-east, iran-plateau, mesopotamia, central-asia]
 methodological_approach: [thematic multi-author Cambridge Companion — history of theology (kalam) and systematic doctrine]
 reliability_notes: "Authoritative multi-author reference on classical Islamic theology (kalam). Part I is historical (Qur'an/hadith, the early creed, falsafa, the developed kalam tradition, orthodoxy); Part II is thematic (God's attributes, creation, ethics, revelation, God's existence, worship, law, Sufism, epistemology, eschatology). Deepens the kalam pages already built from the Venture of Islam and Adamson; ENRICHMENT pass — link existing, create theology-specific gaps."
-pages_created: 0
+pages_created: 22
 pages_updated: 0
 ingested: 2026-06-22
 tags: [source]
@@ -52,10 +52,31 @@ endnotes/bibliography/index.
 | **E** Worship, law, Sufism | 8520–10499 | 11–13: Worship; theological dimensions of Islamic law; Theology and Sufism | `islamic-theology-of-worship`, `theology-and-islamic-law`; link [[sharia]], [[philosophical-sufism]] |
 | **F** Epistemology & eschatology | 10500–12500 | 14–15: Epistemology and divine discourse; Eschatology | `islamic-epistemology-theology`, `islamic-eschatology` |
 
-## Claim list (filled on the main thread after agents finish)
+## Claim list — 22 pages (2 scaffold + 20 from 6 agents)
 
-_(to be populated in Step 4)_
+**Scaffold:** [[al-ashari]] · [[al-maturidi]].
+**A — Scripture & the early creed:** [[early-islamic-creed]] · [[early-theological-sects]] ·
+[[abd-al-jabbar-al-hamadhani]].
+**B — Falsafa, kalam, orthodoxy:** [[maturidism]] · [[developed-kalam-tradition]] · [[al-baqillani]] ·
+[[islamic-orthodoxy]] · [[sunni-orthodoxy-formation]].
+**C — God: attributes & creation:** [[divine-attributes-islam]] · [[createdness-of-the-quran]] ·
+[[islamic-theology-of-creation]].
+**D — Ethics, revelation, God's existence:** [[islamic-theological-ethics]] ·
+[[islamic-theology-of-revelation]] · [[arguments-for-gods-existence-islam]].
+**E — Worship, law, Sufism:** [[islamic-theology-of-worship]] · [[theology-and-islamic-law]] ·
+[[kalam-sufi-rapprochement]].
+**F — Epistemology & eschatology:** [[islamic-epistemology-theology]] · [[islamic-eschatology]] · [[barzakh]].
 
 ## Volume Synthesis Note
 
-_(to be written in Step 4 after all agents complete)_
+A focused enrichment of the wiki's **kalam/theology** layer, deepening the pages the Venture-of-Islam and
+Adamson ingests had sketched. It adds the two founder-figures of Sunni theology ([[al-ashari]],
+[[al-maturidi]]) and the [[maturidism|Māturīdī]] school as the long-overlooked counterpart to
+[[asharism|Ashʿarism]]; the systematic doctrinal controversies that defined classical theology — the
+[[divine-attributes-islam|divine attributes]] and the [[createdness-of-the-quran|createdness of the
+Qur'an]], the [[islamic-theological-ethics|good/evil rationalism-vs-voluntarism]] dispute,
+[[islamic-theology-of-creation|creation]] and [[arguments-for-gods-existence-islam|the proofs of God]],
+[[islamic-eschatology|eschatology]] ([[barzakh]]) and [[islamic-epistemology-theology|theological
+epistemology]]; and the historical formation of [[islamic-orthodoxy|orthodoxy]] and the
+[[kalam-sufi-rapprochement|reconciliation of kalam and Sufism]]. Ingested after, and tightly linked to,
+the philosophy build — together they give the wiki a thorough classical Islamic intellectual history.
