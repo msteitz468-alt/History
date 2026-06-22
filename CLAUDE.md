@@ -497,9 +497,18 @@ exist on disk. Subagents must inherit names, never invent the structural ones.
 ### Step 2 — Split the book by disjoint line-ranges
 
 Divide the raw text into **N contiguous, non-overlapping chunks** by line number.
-- Typically **2–5 agents**; up to **10** for very large or multi-volume sources.
-- **Bigger/denser books get more agents.** For dense or multi-doctrine books, run
-  **multiple passes per major section** so no doctrine is missed.
+
+- **Size the agent count to the book, not to a fixed number.** Base N on **substantive body length ×
+  density** (count the *body* lines, excluding front matter, endnotes, bibliography, and index — these
+  can be half the file). A useful rule of thumb is **one agent per ~2,000–3,500 body lines**, with a
+  floor of 2–3 and up to **10** for very large or multi-volume references. Do NOT default to 6: a short
+  book (e.g. ~2,700 body lines) wants ~3 agents, not 6 — over-splitting starves agents of context (a
+  200-line range can't cover its subject).
+- **Weight the chunks by content density and importance, not by even section boundaries.** A dense or
+  pivotal stretch deserves its own agent (or more than one — for dense or multi-doctrine material, run
+  **multiple passes over one major section** so no doctrine is missed); lighter, thinner material can be
+  combined into a single larger range. Align chunk edges to natural section/chapter boundaries *where it
+  doesn't fight the weighting* — content weight wins over tidy boundaries.
 - Ranges must be **disjoint** — every line belongs to exactly one chunk.
 
 ### Step 3 — Spawn one Sonnet subagent per chunk (parallel / background)

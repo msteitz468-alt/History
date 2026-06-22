@@ -150,7 +150,7 @@ philosophy (*falsafa*), science, and mysticism (*Sufism*) are absent. Priority l
 | *The Venture of Islam* (3 vols.) — Marshall Hodgson | `[LIBRARY]` | ✅ | all 3 vols ingested (`hodgson-venture-of-islam-v1/v2/v3`, 134 pages) — the Gap-4b backbone |
 | *Philosophy in the Islamic World* — Peter Adamson | `[BUY]` | ✅ | ingested (`adamson-philosophy-islamic-world-2016`) — incl. the medieval Jewish-philosophy tradition |
 | *The Cambridge Companion to Arabic Philosophy* — Adamson & Taylor (eds.) | `[BUY]` | ❌ | reference companion |
-| *The Cambridge Companion to Classical Islamic Theology* — Tim Winter (ed.) | `[BUY]` | ❌ | kalam |
+| *The Cambridge Companion to Classical Islamic Theology* — Tim Winter (ed.) | `[BUY]` | ✅ | ingested (`winter-cambridge-companion-islamic-theology-2008`) — kalam/theology layer |
 | *Sharīʿa: Theory, Practice, Transformations* — Wael Hallaq | `[BUY]` | ❌ | Islamic law (+ his *Origins and Evolution of Islamic Law*) |
 | *Islamic Science and the Making of the European Renaissance* — George Saliba | `[BUY]` | ❌ | science |
 | *Mystical Dimensions of Islam* — Annemarie Schimmel | `[BUY]` | ❌ | the standard work on Sufism |
