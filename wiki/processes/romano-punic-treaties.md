@@ -10,7 +10,7 @@ driven_by: [mutual commercial interest, geopolitical containment of Greek expans
 produces: [zones of commercial restriction, political non-interference understandings, the diplomatic framework that failed in 264 BCE]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [process, classical-antiquity, archaic-period, mediterranean, north-africa]
+tags: [process, classical-antiquity, archaic-period, mediterranean, north-africa, rome]
 ---
 
 # The Romano-Punic Treaty Series (508–241 BCE)

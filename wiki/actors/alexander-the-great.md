@@ -11,7 +11,7 @@ key_events: [accession 336 BCE, conquest of the Achaemenid Empire 334-330 BCE ([
 key_processes: [[[empire]], Hellenization, [[trade-network-formation]], [[silk-roads]], [[hellenistic-world]]]
 sources_ingested: 4
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, mediterranean, near-east]
+tags: [actor, person, classical-antiquity, mediterranean, near-east, greece]
 ---
 
 # Alexander the Great

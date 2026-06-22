@@ -10,7 +10,7 @@ driven_by: [[[lysander]], [[agesilaus-ii|Agesilaus II]], Spartan victory in the 
 produces: [[[corinthian-war-395bce|the Corinthian War]], the [[kings-peace-386bce|King's Peace]], the [[second-athenian-confederacy|Second Athenian Confederacy]], the rise of Thebes]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [process, classical-antiquity, peloponnese]
+tags: [process, classical-antiquity, peloponnese, greece]
 ---
 
 # The Spartan Hegemony (the "Second Spartan Empire")

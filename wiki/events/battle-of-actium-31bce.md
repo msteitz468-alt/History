@@ -15,7 +15,7 @@ causes: [the final breakdown of the [[second-triumvirate|triumvirate]], Octavian
 consequences: [the end of the civil wars, Octavian's sole mastery of the Roman world, the fall of Ptolemaic Egypt, the foundation of the Principate]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, balkans, battle]
+tags: [event, classical-antiquity, balkans, battle, rome]
 ---
 
 # The Battle of Actium (2 September 31 BCE)

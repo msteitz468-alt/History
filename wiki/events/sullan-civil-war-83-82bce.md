@@ -15,7 +15,7 @@ causes: [Sulla's outlawry by the Cinnan regime, the rival claims to legitimacy f
 consequences: [[[sullan-proscriptions-82bce|the proscriptions]], Sulla's dictatorship, [[sullan-constitution|the Sullan settlement]], the punishment of Samnium and Etruria, the rise of Pompey and Crassus]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, italy, war]
+tags: [event, classical-antiquity, italy, war, rome]
 ---
 
 # Sulla's Civil War (83–82 BCE)

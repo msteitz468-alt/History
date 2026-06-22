@@ -7,7 +7,7 @@ applies_to_regions: [western-europe, north-africa, near-east, britain, balkans, 
 contested: yes
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [concept]
+tags: [concept, rome]
 ---
 
 # Roman Frontiers (the Frontier as Zone, not Line)

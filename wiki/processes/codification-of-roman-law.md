@@ -10,7 +10,7 @@ driven_by: [the unmanageable accumulation of imperial constitutions, the bureauc
 produces: [the Codex Theodosianus, the Corpus Iuris Civilis, the civil-law tradition, the barbarian law codes]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [process, late-antiquity, mediterranean-world]
+tags: [process, late-antiquity, mediterranean-world, rome]
 ---
 
 # The Codification of Roman Law

@@ -10,7 +10,7 @@ driven_by: ["[[indian-ocean-trade]]", "the [[southeast-asian-age-of-commerce|age
 produces: ["a Muslim archipelago (Indonesia, Malaysia, the southern Philippines)", "the fusion of Malay & Muslim identity", "a Malay-language Islamic scholarly literature", "the religious map of modern maritime Southeast Asia"]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [process, southeast-asia, indian-ocean]
+tags: [process, southeast-asia, indian-ocean, islamic-world]
 ---
 
 # The Islamization of Southeast Asia

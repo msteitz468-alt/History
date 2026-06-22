@@ -15,7 +15,7 @@ causes: [the Helvetian migration and Germanic pressure on the Gallic frontier, C
 consequences: [the Roman conquest of all Gaul to the Rhine, Caesar's veteran army and fortune, the demographic catastrophe of Gaul, the power base for the civil war]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, western-europe, war]
+tags: [event, classical-antiquity, western-europe, war, rome]
 ---
 
 # Caesar's Conquest of Gaul (58–50 BCE)

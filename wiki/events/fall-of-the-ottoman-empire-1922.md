@@ -16,7 +16,7 @@ causes: [the contradictions of [[tanzimat-reforms|reform]] & autocracy, the [[ea
 consequences: [the Armenian genocide, the loss of the Arab provinces, the abolition of the sultanate (1922) & caliphate (1924), the founding of the Turkish Republic, the modern Middle East state system]
 sources_ingested: 1
 last_updated: 2026-06-13
-tags: [event, transition, world-wars-era, near-east, anatolia]
+tags: [event, transition, world-wars-era, near-east, anatolia, islamic-world]
 ---
 
 # The Fall of the Ottoman Empire (1908–1922)

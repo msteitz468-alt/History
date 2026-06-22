@@ -11,7 +11,7 @@ key_events: [[[jugurthine-war-112-105bce]], the defeat of the Cimbri and Teutone
 key_processes: [[[marian-army-reforms]], [[optimates-populares]]]
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, italy]
+tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
 # Gaius Marius

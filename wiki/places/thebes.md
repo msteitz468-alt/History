@@ -9,7 +9,7 @@ events_here: [the Theban war of liberation against the [[hyksos|Hyksos]], the bu
 processes_here: [[[second-intermediate-period]], [[temple-economy]]]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [place, north-africa, late-bronze-age, middle-bronze-age]
+tags: [place, north-africa, late-bronze-age, middle-bronze-age, greece]
 ---
 
 # Thebes (Waset)

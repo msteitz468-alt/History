@@ -14,7 +14,7 @@ key_events:
 key_processes: [roman-expansion-italy]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, institution, classical-antiquity, archaic-period, mediterranean, western-europe]
+tags: [actor, institution, classical-antiquity, archaic-period, mediterranean, western-europe, rome]
 ---
 
 # The Latin League

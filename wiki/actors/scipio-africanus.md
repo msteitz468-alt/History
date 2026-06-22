@@ -11,7 +11,7 @@ key_events: [[[second-punic-war-218-201bce]], capture of [[new-carthage]] (209),
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, italy, iberia, north-africa]
+tags: [actor, person, classical-antiquity, italy, iberia, north-africa, rome]
 ---
 
 # Scipio Africanus

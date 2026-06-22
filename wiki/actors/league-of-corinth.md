@@ -11,7 +11,7 @@ key_events: [the congress at Corinth 337 BCE, the declaration of war on Persia, 
 key_processes: [Macedonian hegemony over Greece, the Common Peace tradition]
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [actor, organization, classical-antiquity, central-greece]
+tags: [actor, organization, classical-antiquity, central-greece, greece]
 ---
 
 # The League of Corinth

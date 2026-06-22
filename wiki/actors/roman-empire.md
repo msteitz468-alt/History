@@ -11,7 +11,7 @@ key_events: [Pax Romana, Crisis of the Third Century, Constantine and Christiani
 key_processes: [[[empire]], [[silk-roads]], [[christianity|Christianization]], [[slavery]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-10
-tags: [actor, empire, late-antiquity, mediterranean, western-europe]
+tags: [actor, empire, late-antiquity, mediterranean, western-europe, rome]
 ---
 
 # The Roman Empire

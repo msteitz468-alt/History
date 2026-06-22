@@ -11,7 +11,7 @@ key_events: []
 key_processes: [[[third-century-crisis]]]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [actor, person, late-antiquity, italy]
+tags: [actor, person, late-antiquity, italy, rome]
 ---
 
 # Aurelian

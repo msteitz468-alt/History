@@ -61,7 +61,7 @@ absorbed by Rome through the [[first-macedonian-war-214-205bce|Macedonian Wars]]
 ```base
 filters:
   and:
-    - 'tags.contains("greece") or tags.contains("balkans")'
+    - 'tags.contains("greece")'
 views:
   - type: table
     name: Greek-world pages by date
@@ -71,5 +71,5 @@ views:
         direction: ASC
 ```
 
-> **Bases note:** Greek pages are tagged variously (`balkans`, `mediterranean`, `anatolia` for Ionia);
-> this view approximates. A later pass could add a `greece` tag for precision.
+> **Bases note:** ~69 pages carry a normalized `greece` tag (added 2026-06-22), so this view lists the
+> Greek world comprehensively. New Greek-world pages should include `greece` in their frontmatter `tags`.

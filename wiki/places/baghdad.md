@@ -9,7 +9,7 @@ events_here: []
 processes_here: [[[urbanization]]]
 sources_ingested: 1
 last_updated: 2026-06-10
-tags: [place, mesopotamia, near-east, early-middle-ages]
+tags: [place, mesopotamia, near-east, early-middle-ages, islamic-world]
 ---
 
 # Baghdad (Abbasid Foundation)

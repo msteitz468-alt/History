@@ -15,7 +15,7 @@ causes: [the Persian army of occupation left by [[xerxes-i|Xerxes]] under Mardon
 consequences: [the destruction of Mardonius' army and the end of the Persian invasion, the liberation of Ionia, the burning of the Persian fleet at Mycale, the foundation of the Delian League and Athenian hegemony]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, central-greece, anatolia]
+tags: [event, classical-antiquity, central-greece, anatolia, greece]
 ---
 
 # Plataea and Mycale (479 BCE)

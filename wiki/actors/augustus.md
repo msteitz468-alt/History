@@ -11,7 +11,7 @@ key_events: [the [[second-triumvirate|triumvirate]] (43), [[battle-of-philippi-4
 key_processes: [the foundation of the Principate]
 sources_ingested: 4
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, italy]
+tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
 # Augustus (Gaius Octavius / Imp. Caesar Divi filius)

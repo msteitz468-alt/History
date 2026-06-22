@@ -11,7 +11,7 @@ key_events: [foundation 478/477 BCE, battle of the Eurymedon, the Thasian war 46
 key_processes: [the transformation of a free alliance into an empire, imperial tribute, [[athenian-democracy]]]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, organization, classical-antiquity, aegean]
+tags: [actor, organization, classical-antiquity, aegean, greece]
 ---
 
 # The Delian League (Athenian Empire)

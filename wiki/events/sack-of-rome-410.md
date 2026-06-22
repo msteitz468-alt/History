@@ -15,7 +15,7 @@ causes: [the failure of the federate settlement, the fall and execution of [[sti
 consequences: [the symbolic shock to the Roman world, Augustine's City of God, the Visigothic move into Gaul and Spain]
 sources_ingested: 2
 last_updated: 2026-06-12
-tags: [event, transition, late-antiquity, italy]
+tags: [event, transition, late-antiquity, italy, rome]
 ---
 
 # The Sack of Rome (410)

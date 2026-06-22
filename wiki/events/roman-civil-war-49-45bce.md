@@ -15,7 +15,7 @@ causes: [the optimate drive to strip Caesar of his command, Caesar's need to avo
 consequences: [Caesar's victory and dictatorship, the deaths of Pompey and Cato, the end of the Republic's free politics, the road to the Ides]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, italy, war]
+tags: [event, classical-antiquity, italy, war, rome]
 ---
 
 # Caesar's Civil War (49–45 BCE)

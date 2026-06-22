@@ -7,7 +7,7 @@ applies_to_regions: [anatolia, balkans, near-east]
 contested: no
 sources_ingested: 1
 last_updated: 2026-06-13
-tags: [concept]
+tags: [concept, islamic-world]
 ---
 
 # Ottoman Law (*Shari'a* and *Kanun*)

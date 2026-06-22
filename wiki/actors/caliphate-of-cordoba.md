@@ -11,7 +11,7 @@ key_events: [Abd al-Rahman III's assumption of the caliphate 929, al-Mansur's ra
 key_processes: [the centralisation of al-Andalus, the slave- and Berber-soldier army, the fitna and fragmentation]
 sources_ingested: 2
 last_updated: 2026-06-12
-tags: [actor, state, early-middle-ages, high-middle-ages, iberia]
+tags: [actor, state, early-middle-ages, high-middle-ages, iberia, islamic-world]
 ---
 
 # The Caliphate of Córdoba

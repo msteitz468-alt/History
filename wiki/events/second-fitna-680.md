@@ -15,7 +15,7 @@ causes: [caused_by: [[umayyad-caliphate|hereditary succession of Yazid I]], caus
 consequences: [produced: [[abd-al-malik|consolidation of Marwanid Umayyad rule]], produced: [[schism-in-islam|permanent institutionalization of Shi'a identity]], contributed_to: [[abd-al-malik|administrative and currency reforms of Abd al-Malik]]]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [event, early-middle-ages, arabian-peninsula, near-east, levant]
+tags: [event, early-middle-ages, arabian-peninsula, near-east, levant, islamic-world]
 ---
 
 # Second Fitna (680–692)

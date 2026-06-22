@@ -10,7 +10,7 @@ applies_to_regions: [italy, mediterranean]
 contested: yes
 sources_ingested: 4
 last_updated: 2026-06-11
-tags: [concept]
+tags: [concept, greece]
 ---
 
 # Western Greek (Sicilian) Tyranny

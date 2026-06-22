@@ -11,7 +11,7 @@ key_events: [the consulship of 59, the [[first-triumvirate]], the [[caesar-galli
 key_processes: [[[optimates-populares]], the fall of the Republic]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, italy]
+tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
 # Gaius Julius Caesar

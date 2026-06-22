@@ -15,7 +15,7 @@ causes: [[[second-punic-war-218-201bce]], the Roman decision to seek a decisive 
 consequences: [the defection of much of southern Italy and Syracuse, the entrenchment of the [[fabian-strategy|Fabian strategy]], the survival-test of the Roman alliance system]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, italy, battle]
+tags: [event, classical-antiquity, italy, battle, rome]
 ---
 
 # The Battle of Cannae (216 BCE)

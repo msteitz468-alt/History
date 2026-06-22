@@ -9,7 +9,7 @@ events_here: [the Antonine Plague at Rome, imperial adventus ceremonies, the ali
 processes_here: [provincialization of Italy, monumentalization of Rome, euergetism]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [place, italy, mediterranean-world, late-antiquity]
+tags: [place, italy, mediterranean-world, late-antiquity, rome]
 ---
 
 # Rome and Italy under the High Empire

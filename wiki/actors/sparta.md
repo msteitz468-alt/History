@@ -11,7 +11,7 @@ key_events: [the First Messenian War (~740–710), the defeat at Hysiae (669), t
 key_processes: [helot serfdom, the militarization of society, the building of the Spartan Alliance, the [[spartan-hegemony]]]
 sources_ingested: 6
 last_updated: 2026-06-12
-tags: [actor, state, archaic-period, peloponnese]
+tags: [actor, state, archaic-period, peloponnese, greece]
 ---
 
 # Sparta (Archaic)

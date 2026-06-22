@@ -7,7 +7,7 @@ applies_to_regions: [arabian-peninsula, near-east, levant, mesopotamia, iran-pla
 contested: yes
 sources_ingested: 4
 last_updated: 2026-06-12
-tags: [concept]
+tags: [concept, islamic-world]
 ---
 
 ## Definition

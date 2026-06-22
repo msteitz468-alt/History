@@ -12,7 +12,7 @@ applies_to_regions: [aegean, central-greece, peloponnese, anatolia, mediterranea
 contested: yes
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [concept]
+tags: [concept, greece]
 ---
 
 # Fourth-Century Greek Historiography

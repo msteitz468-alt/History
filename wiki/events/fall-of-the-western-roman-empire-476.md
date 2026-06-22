@@ -4,7 +4,7 @@ date_start: 476
 date_end: 476
 date_precision: year
 period: [Late Antiquity]
-region: [italy, western-europe]
+region: [italy, western-europe, mediterranean]
 location: [Ravenna, Italy]
 actors_primary: [Odoacer, Romulus Augustulus, Orestes]
 actors_secondary: [Ricimer, the barbarian successor kingdoms, the eastern emperor Zeno]
@@ -15,7 +15,7 @@ causes: [the collapse of Hunnic power after Attila (453), the loss of Africa to 
 consequences: [the end of the western imperial line, the rise of the barbarian successor kingdoms, the survival of the empire in the East]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [event, transition, late-antiquity, italy, western-europe]
+tags: [event, transition, late-antiquity, italy, western-europe, mediterranean, rome]
 ---
 
 # The Fall of the Western Roman Empire (476)
@@ -77,6 +77,16 @@ already complete in substance — a reading central to the modern late-antiquity
 preface, which notes that a western political terminus could as well be placed in the 470s or c. 540).
 476's symbolic weight derives from Odoacer's *not* replacing the emperor; the deeper causes feed the
 standing [[causes-of-the-fall-of-the-western-roman-empire|controversy on the fall of the West]].
+
+The longer historiographical arc runs from **Gibbon**, who made 476 the archetype of "decline and
+fall," through the **"barbarian invasions"** school (external conquest) and **Pirenne**, who argued
+that Roman Mediterranean unity actually survived until the Arab conquests broke it (see
+[[pirenne-thesis|the Pirenne thesis]]), to the modern **Late Antiquity / "transformation"** school
+(Peter Brown, Walter Goffart) that recasts the fifth century as a gradual accommodation in which the
+"barbarians" were absorbed rather than victorious. On this longer view the process is better dated
+from **376** (the Gothic crossing of the Danube and [[battle-of-adrianople-378|Adrianople, 378]]) than
+from 476 — the choice of 476 itself is a historiographical artefact, since contemporaries did not
+regard it as the end of Rome.
 
 ## Related
 

@@ -9,7 +9,7 @@ events_here: [the Shaft Grave burials (~1650–1500 BCE), the building of the Cy
 processes_here: [[[mycenaean-civilization]], [[trade-network-formation]]]
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [place, aegean, mediterranean, late-bronze-age]
+tags: [place, aegean, mediterranean, late-bronze-age, greece]
 ---
 
 # Mycenae

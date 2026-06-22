@@ -15,7 +15,7 @@ causes: [[[nature-of-roman-imperialism]], the appeals of Rhodes, Pergamon and At
 consequences: [the defeat of Macedon at Cynoscephalae, the [[freedom-of-the-greeks|"freedom of the Greeks"]] proclaimed at the Isthmus 196, the extension of Roman interest into Asia Minor, the collision course with Antiochus III]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, balkans, war]
+tags: [event, classical-antiquity, balkans, war, greece]
 ---
 
 # The Second Macedonian War (200–196 BCE)

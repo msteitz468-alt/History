@@ -15,7 +15,7 @@ causes: [Caesar's perpetual dictatorship and the rumours of kingship, the senato
 consequences: [the failure to restore the Republic, the rise of Octavian and Antony, the renewed civil wars, the Second Triumvirate and the proscriptions]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, italy, political]
+tags: [event, classical-antiquity, italy, political, rome]
 ---
 
 # The Assassination of Julius Caesar (15 March 44 BCE)

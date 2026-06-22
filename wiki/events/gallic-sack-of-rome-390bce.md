@@ -23,7 +23,7 @@ consequences:
   - contributed_to: "[[roman-recovery-fourth-century|Rome's fourth-century expansion as recovery and overcompensation]]"
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, mediterranean, western-europe]
+tags: [event, classical-antiquity, mediterranean, western-europe, rome]
 ---
 
 # The Gallic Sack of Rome

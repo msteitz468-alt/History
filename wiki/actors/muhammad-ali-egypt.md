@@ -11,7 +11,7 @@ key_events: [the seizure of power (1805), the massacre of the Mamluks (1811), th
 key_processes: [state-formation, defensive modernization, cotton export economy]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [actor, state, long-19th-century, egypt, north-africa]
+tags: [actor, state, long-19th-century, egypt, north-africa, islamic-world]
 ---
 
 # Muhammad Ali's Egypt

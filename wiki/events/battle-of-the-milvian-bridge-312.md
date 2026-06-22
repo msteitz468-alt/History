@@ -15,7 +15,7 @@ causes: [[[roman-tetrarchy]], [[unknown]]]
 consequences: [[[edict-of-milan-313]], [[christianization-of-the-roman-empire]]]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [event, late-antiquity, italy]
+tags: [event, late-antiquity, italy, rome]
 ---
 
 # Battle of the Milvian Bridge

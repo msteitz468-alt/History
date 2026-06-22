@@ -10,7 +10,7 @@ driven_by: [the dissolution of the Roman tax-state, the shift from office-based 
 produces: [the early medieval aristocracy, localized political community, the seedbed of feudal lordship]
 sources_ingested: 5
 last_updated: 2026-06-12
-tags: [process, late-antiquity, early-middle-ages, western-europe]
+tags: [process, late-antiquity, early-middle-ages, western-europe, rome]
 ---
 
 # State, Lordship and Community in the Post-Roman West

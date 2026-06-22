@@ -10,7 +10,7 @@ driven_by: [Islamic revivalism (the Qadiriyya and Tijaniyya Sufi orders), Fulani
 produces: [the Sokoto Caliphate, the Massina caliphate, the Tukulor empire, the Islamization of the West African savanna, a vast expansion of slavery, the conquest of the Hausa states]
 sources_ingested: 3
 last_updated: 2026-06-13
-tags: [process, long-19th-century, west-africa]
+tags: [process, long-19th-century, west-africa, islamic-world]
 ---
 
 # The Nineteenth-Century West African Jihads

@@ -9,7 +9,7 @@ events_here: [the devastation of the triumviral wars, the Augustan settlement of
 processes_here: [the Roman organization of the Greek world, urbanization, the integration of provincial elites]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [place, mediterranean, anatolia, classical-antiquity, late-antiquity]
+tags: [place, mediterranean, anatolia, classical-antiquity, late-antiquity, rome, greece]
 ---
 
 # The Roman Greek East (Greece and Asia Minor)

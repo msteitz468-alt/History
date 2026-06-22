@@ -15,7 +15,7 @@ causes: [Theban refusal to dissolve the Boeotian Confederacy under the 371 Commo
 consequences: [the destruction of the myth of Spartan invincibility, the death of King Cleombrotus and 400 of 700 Spartiates, the end of the Spartan hegemony, the Theban hegemony and the liberation of Messenia]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, central-greece]
+tags: [event, classical-antiquity, central-greece, greece]
 ---
 
 # The Battle of Leuctra, 371 BCE

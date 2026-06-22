@@ -10,7 +10,7 @@ driven_by: [the conquest of the Greek East, war booty and Greek slaves, the emba
 produces: [Latin literature, Greek-influenced religion and art, the Hellenized villa economy, the cultural ambivalence of Roman elite identity]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [process, classical-antiquity, italy]
+tags: [process, classical-antiquity, italy, greece]
 ---
 
 # The Hellenization of Roman Culture

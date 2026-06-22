@@ -9,7 +9,7 @@ events_here: [the annexation of Egypt (30 BCE), the southern expeditions of Corn
 processes_here: [the depoliticization and fiscal exploitation of Egypt, the grafting of Roman administration onto the Ptolemaic bureaucracy]
 sources_ingested: 2
 last_updated: 2026-06-12
-tags: [place, egypt, north-africa, late-antiquity]
+tags: [place, egypt, north-africa, late-antiquity, rome]
 ---
 
 # Roman Egypt

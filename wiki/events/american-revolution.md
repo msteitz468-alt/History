@@ -17,7 +17,6 @@ sources_ingested: 1
 last_updated: 2026-06-14
 tags: [event, age-of-expansion, north-america, atlantic-world]
 ---
-
 # The American Revolution (1765–1783)
 
 The **American Revolution** was the revolt of Britain's thirteen North American colonies that

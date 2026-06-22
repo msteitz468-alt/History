@@ -10,7 +10,7 @@ driven_by: [the primacy of food and land as wealth, the demands of the army and 
 produces: [the expansion of cultivation in the West, cash-crop specialization, the consolidation of large estates, the persistence of the peasantry]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [process, late-antiquity, mediterranean-world]
+tags: [process, late-antiquity, mediterranean-world, rome]
 ---
 
 # The Roman Agrarian Economy (the Land)

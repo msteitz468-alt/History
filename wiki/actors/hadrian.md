@@ -11,7 +11,7 @@ key_events: [accession and abandonment of Trajan's eastern conquests (117), the 
 key_processes: [the consolidation of the empire within fixed frontiers]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, person, late-antiquity, italy]
+tags: [actor, person, late-antiquity, italy, rome]
 ---
 
 # Hadrian (Publius Aelius Hadrianus)

@@ -10,7 +10,7 @@ driven_by: [imperial patronage from Constantine, the episcopate and the church a
 produces: [the Christian Roman and Byzantine order, the legal category of "pagan", the religious ordering of society]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [process, late-antiquity, mediterranean-world]
+tags: [process, late-antiquity, mediterranean-world, rome]
 ---
 
 # The Christianization of the Roman Empire

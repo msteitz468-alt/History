@@ -11,7 +11,7 @@ key_events: [[[third-punic-war-149-146bce]], [[numantine-war-153-133bce]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, italy, north-africa, iberia]
+tags: [actor, person, classical-antiquity, italy, north-africa, iberia, rome]
 ---
 
 # Scipio Aemilianus

@@ -11,7 +11,7 @@ key_events: [[[battle-of-hattin-1187]], "the conquest of Fatimid Egypt", "the re
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [actor, person, high-middle-ages, near-east, levant]
+tags: [actor, person, high-middle-ages, near-east, levant, islamic-world]
 ---
 
 # Saladin (Salah al-Din)

@@ -9,7 +9,7 @@ events_here: [the founding of Roman Carthage, the revolt of Tacfarinas (AD 17–
 processes_here: [the militarization of the African frontier, the cadastration and taxation of the land, the conflict of desert and sown]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [place, north-africa, classical-antiquity, late-antiquity]
+tags: [place, north-africa, classical-antiquity, late-antiquity, rome]
 ---
 
 # Roman Africa (Augustus to Vespasian)

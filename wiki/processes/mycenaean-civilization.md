@@ -10,7 +10,7 @@ driven_by: [the Middle Helladic Greeks, Minoan influence, new warrior elites, pa
 produces: [the palace states of Bronze Age Greece, Linear B (Greek), the Homeric heroic tradition, the takeover of Crete, the eastern-Mediterranean trade network]
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [process, late-bronze-age, aegean, mediterranean]
+tags: [process, late-bronze-age, aegean, mediterranean, greece]
 ---
 
 # Mycenaean Civilization

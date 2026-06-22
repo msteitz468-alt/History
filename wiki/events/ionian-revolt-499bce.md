@@ -15,7 +15,7 @@ causes: [the failure of the Persian attack on Naxos and Aristagoras' resulting i
 consequences: [the sack of Miletus and end of Ionian primacy, the burning of Sardis (the "beginning of evils"), the Persian drive to punish Athens and Eretria, [[battle-of-marathon-490bce|Marathon]] and the Persian Wars, the polarity of Greek liberty vs oriental despotism]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, archaic-period, anatolia, aegean]
+tags: [event, archaic-period, anatolia, aegean, greece]
 ---
 
 # The Ionian Revolt (499–494 BCE)

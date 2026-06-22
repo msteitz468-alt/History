@@ -11,7 +11,7 @@ key_events: [the Pannonian and German commands under Augustus, the recovery afte
 key_processes: [[[principate|the consolidation of the Principate]]]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, person, late-antiquity, italy]
+tags: [actor, person, late-antiquity, italy, rome]
 ---
 
 # Tiberius (Tiberius Julius Caesar Augustus)

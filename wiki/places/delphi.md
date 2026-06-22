@@ -9,7 +9,7 @@ events_here: [the blossoming of the oracle (~750), the First Sacred War and dest
 processes_here: [[[greek-colonization|Greek colonization]] (oracular sanction), Archaic political revolution, the panhellenic sanctuary]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [place, central-greece, mediterranean, archaic-period]
+tags: [place, central-greece, mediterranean, archaic-period, greece]
 ---
 
 # Delphi and the Oracle of Apollo

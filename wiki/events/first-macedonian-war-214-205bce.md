@@ -15,7 +15,7 @@ causes: [the Hannibal–Philip treaty (215), Philip's advance into Illyria, Rome
 consequences: [the Peace of Phoenice (205), the broadening of Roman contacts across the Greek world, the prelude to the Second Macedonian War]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, balkans, war]
+tags: [event, classical-antiquity, balkans, war, greece]
 ---
 
 # The First Macedonian War (214–205 BCE)

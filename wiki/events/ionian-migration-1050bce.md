@@ -16,7 +16,7 @@ causes: [[[dorian-invasion-1120bce|the Dorian invasion]], depopulation and overc
 consequences: [the Greek cities of the Asia Minor coast, the Ionian dialect, the Panionic league, the birth of the polis, the matrix of Homer and Ionian science]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, migration, early-iron-age, anatolia, aegean]
+tags: [event, migration, early-iron-age, anatolia, aegean, greece]
 ---
 
 # The Greek Settlement of Asia Minor

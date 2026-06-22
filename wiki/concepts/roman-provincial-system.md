@@ -7,7 +7,7 @@ applies_to_regions: [mediterranean, iberia, north-africa, anatolia, western-euro
 contested: no
 sources_ingested: 3
 last_updated: 2026-06-11
-tags: [concept, classical-antiquity, mediterranean]
+tags: [concept, classical-antiquity, mediterranean, rome]
 ---
 
 # The Roman Provincial System

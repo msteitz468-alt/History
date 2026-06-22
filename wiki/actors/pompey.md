@@ -11,7 +11,7 @@ key_events: [the [[sullan-civil-war-83-82bce|civil war]], the revolt of Lepidus 
 key_processes: [the rise of the extraordinary military commands, the unravelling of the [[sullan-constitution]]]
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, italy]
+tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
 # Gnaeus Pompeius Magnus ("Pompey the Great")

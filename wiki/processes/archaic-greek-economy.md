@@ -10,7 +10,7 @@ driven_by: [the recovery of the Near East and its demand for goods, a slowly ris
 produces: [the peasantization of small farmers, specialized trade and industry, the rise of cities, the spread of coinage, the social crises that produced tyranny and reform]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [process, archaic-period, mediterranean-world]
+tags: [process, archaic-period, mediterranean-world, greece]
 ---
 
 # The Archaic Greek Economic Transformation

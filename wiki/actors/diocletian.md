@@ -11,7 +11,7 @@ key_events: [[[great-persecution-303]]]
 key_processes: [[[third-century-crisis]], [[militarization-of-the-roman-state]]]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [actor, person, late-antiquity, balkans]
+tags: [actor, person, late-antiquity, balkans, rome]
 ---
 
 # Diocletian

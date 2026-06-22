@@ -7,7 +7,7 @@ applies_to_regions: [mediterranean-world, greece, anatolia, italy]
 contested: no
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [concept]
+tags: [concept, rome]
 ---
 
 # Medicine in the Roman Empire (and Galen)

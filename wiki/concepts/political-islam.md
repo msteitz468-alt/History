@@ -7,7 +7,7 @@ applies_to_regions: [egypt, near-east, levant, north-africa, arabian-peninsula]
 contested: yes
 sources_ingested: 1
 last_updated: 2026-06-13
-tags: [concept]
+tags: [concept, islamic-world]
 ---
 
 # Political Islam (Islamism)

@@ -15,7 +15,7 @@ causes: [resentment of Sparta's high-handed expansionism after the Peloponnesian
 consequences: [the destruction of the Spartan fleet at Cnidus, the rebuilding of the Athenian Long Walls, military stalemate on land, the King's Peace of 386 that restored Spartan supremacy]
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, peloponnese, aegean]
+tags: [event, classical-antiquity, peloponnese, aegean, greece]
 ---
 
 # The Corinthian War, 395–386 BCE

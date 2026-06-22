@@ -15,7 +15,7 @@ causes: [[[causes-of-second-punic-war]], the Barcid recovery of Spain, Rome's se
 consequences: [Roman naval & territorial supremacy in the western Mediterranean, the acquisition of Spain as provinces, the disarming of Carthage, the rise of [[masinissa|Numidia]], the transformation of Italian agriculture, the eastward turn of Roman power]
 sources_ingested: 2
 last_updated: 2026-06-12
-tags: [event, classical-antiquity, italy, iberia, north-africa, war]
+tags: [event, classical-antiquity, italy, iberia, north-africa, war, rome]
 ---
 
 # The Second Punic War (218–201 BCE)

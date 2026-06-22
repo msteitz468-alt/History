@@ -9,7 +9,7 @@ events_here: [the Cantabrian–Asturian War (26–19 BCE), the proclamation of G
 processes_here: [the conquest and Romanization of Iberia, urbanization, the rise of the "colonial elites"]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [place, iberia, classical-antiquity, late-antiquity]
+tags: [place, iberia, classical-antiquity, late-antiquity, rome]
 ---
 
 # Roman Spain (Hispania)

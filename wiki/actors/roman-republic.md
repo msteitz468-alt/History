@@ -11,7 +11,7 @@ key_events: [Punic Wars 264-146 BCE, conquest of the Hellenistic East, civil war
 key_processes: [[[empire]], [[slavery]], [[trade-network-formation]], provincialization]
 sources_ingested: 4
 last_updated: 2026-06-11
-tags: [actor, state, classical-antiquity, archaic-period, mediterranean, western-europe]
+tags: [actor, state, classical-antiquity, archaic-period, mediterranean, western-europe, rome]
 ---
 
 # The Roman Republic

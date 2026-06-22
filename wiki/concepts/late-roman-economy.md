@@ -7,7 +7,7 @@ applies_to_regions: [mediterranean-world, italy, north-africa, near-east, egypt,
 contested: yes
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [concept]
+tags: [concept, rome]
 ---
 
 # The Late Roman Economy and the Question of Fragmentation

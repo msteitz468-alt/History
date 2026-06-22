@@ -15,7 +15,7 @@ causes: [the destruction of Athenian power in the [[sicilian-expedition|Sicilian
 consequences: [the surrender of Athens (404 BCE), the dismantling of the Long Walls, the end of the Athenian empire and democracy (temporarily), Spartan hegemony]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, aegean, transition]
+tags: [event, classical-antiquity, aegean, transition, greece]
 ---
 
 # The Fall of Athens (the Ionian War), 413–404 BCE

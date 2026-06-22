@@ -11,7 +11,7 @@ key_events: [adoption by Nerva (97), the [[dacian-wars-101-106|Dacian Wars]] (10
 key_processes: [the empire's expansion to its greatest extent]
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [actor, person, late-antiquity, italy]
+tags: [actor, person, late-antiquity, italy, rome]
 ---
 
 # Trajan (Marcus Ulpius Traianus)

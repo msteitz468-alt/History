@@ -10,7 +10,7 @@ driven_by: [the post-Hannibalic confiscation of ager publicus, the inflow of con
 produces: [the displacement of the peasantry, the latifundia, the law de modo agrorum, the Gracchan land reform of 133]
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [process, classical-antiquity, italy]
+tags: [process, classical-antiquity, italy, rome]
 ---
 
 # The Agrarian Crisis of the Roman Republic

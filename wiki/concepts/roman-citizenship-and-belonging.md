@@ -7,7 +7,7 @@ applies_to_regions: [mediterranean-world, italy, western-europe, near-east, nort
 contested: yes
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [concept]
+tags: [concept, rome]
 ---
 
 # Belonging and Exclusion in the Roman Empire (Citizenship, Barbarism, *Infamia*)

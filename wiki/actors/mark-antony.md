@@ -11,7 +11,7 @@ key_events: [the [[julius-caesar-assassination-44bce|aftermath of the Ides]], th
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, mediterranean]
+tags: [actor, person, classical-antiquity, mediterranean, rome]
 ---
 
 # Marcus Antonius "Mark Antony"

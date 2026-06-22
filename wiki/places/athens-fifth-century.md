@@ -9,7 +9,7 @@ events_here: [reforms of Cleisthenes 508/7 BCE, Persian Wars, [[peloponnesian-wa
 processes_here: [[[city-state|democracy]], [[slavery]], [[axial-age]], imperial tribute]
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [place, mediterranean, classical-antiquity]
+tags: [place, mediterranean, classical-antiquity, greece]
 ---
 
 # Fifth-Century Athens

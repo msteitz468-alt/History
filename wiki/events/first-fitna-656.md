@@ -15,7 +15,7 @@ causes: [caused_by: [[rashidun-caliphate|assassination of Caliph Uthman]], contr
 consequences: [produced: [[umayyad-caliphate|rise of the Umayyad dynasty]], produced: [[schism-in-islam|Sunni-Shi'a sectarian division]], contributed_to: [[kharijites|emergence of the Kharijite sect]]]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [event, late-antiquity, early-middle-ages, arabian-peninsula, near-east]
+tags: [event, late-antiquity, early-middle-ages, arabian-peninsula, near-east, islamic-world]
 ---
 
 # First Fitna (656–661)

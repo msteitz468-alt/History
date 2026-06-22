@@ -7,7 +7,7 @@ applies_to_regions: [italy, mediterranean-world, western-europe, near-east]
 contested: no
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [concept]
+tags: [concept, rome]
 ---
 
 # The Roman Imperial Army and Navy (Augustus to Nero)

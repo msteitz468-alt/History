@@ -11,7 +11,7 @@ applies_to_regions: [mediterranean, peloponnese, central-greece, anatolia]
 contested: yes
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [concept]
+tags: [concept, greece]
 ---
 
 # Archaic Greek Tyranny

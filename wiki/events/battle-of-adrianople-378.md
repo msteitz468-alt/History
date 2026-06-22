@@ -15,7 +15,7 @@ causes: [the Hunnic irruption driving the Goths to the Danube (c. 375), the mism
 consequences: [the destruction of the eastern field army and death of Valens, the accession of [[theodosius-i|Theodosius I]], the settlement of the Goths as autonomous foederati (382)]
 sources_ingested: 2
 last_updated: 2026-06-12
-tags: [event, late-antiquity, balkans]
+tags: [event, late-antiquity, balkans, rome]
 ---
 
 # The Battle of Adrianople (378)

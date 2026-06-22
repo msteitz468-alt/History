@@ -11,7 +11,7 @@ key_events: [the codification of Roman law (529–534), the Nika Riots (532), th
 key_processes: [the "reconquest" of the west, the codification of Roman law, the enforcement of orthodoxy]
 sources_ingested: 4
 last_updated: 2026-06-12
-tags: [actor, person, late-antiquity, mediterranean-world]
+tags: [actor, person, late-antiquity, mediterranean-world, rome]
 ---
 
 # Justinian I

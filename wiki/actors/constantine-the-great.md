@@ -11,7 +11,7 @@ key_events: [[[battle-of-the-milvian-bridge-312]], [[edict-of-milan-313]], [[cou
 key_processes: [[[christianization-of-the-roman-empire]]]
 sources_ingested: 2
 last_updated: 2026-06-12
-tags: [actor, person, late-antiquity, italy]
+tags: [actor, person, late-antiquity, italy, rome]
 ---
 
 # Constantine the Great

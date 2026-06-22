@@ -22,7 +22,7 @@ consequences:
   - "enabled: [[roman-conquest-of-italy]] — the centuriate army and allied-state system"
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, transition, archaic-period, mediterranean, western-europe]
+tags: [event, transition, archaic-period, mediterranean, western-europe, rome]
 ---
 
 # Foundation of Rome and the Regal Period

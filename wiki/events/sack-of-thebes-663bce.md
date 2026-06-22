@@ -15,7 +15,7 @@ causes: [the [[kush-meroe|Kushite (25th-Dynasty)]] attempt to retake Egypt from 
 consequences: [the end of Kushite power in Egypt, the rise of the [[saite-egypt|Saite 26th Dynasty]] as an Assyrian client, the high-water mark of Assyrian expansion]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, archaic-period, north-africa]
+tags: [event, archaic-period, north-africa, greece]
 ---
 
 # The Assyrian Sack of Thebes (c. 663 BCE)

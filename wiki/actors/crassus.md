@@ -11,7 +11,7 @@ key_events: [the [[spartacus-revolt-73-71bce|Spartacus revolt]], the consulship 
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, italy]
+tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
 # Marcus Licinius Crassus

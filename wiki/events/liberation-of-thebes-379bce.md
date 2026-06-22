@@ -15,7 +15,7 @@ causes: [the Spartan seizure of the Theban citadel in 382 under cover of the Kin
 consequences: [the expulsion of the Spartan garrison, the restoration of Theban democracy and the Boeotian Confederacy, the catalyst for the Second Athenian Confederacy and the rise of Thebes]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, central-greece]
+tags: [event, classical-antiquity, central-greece, greece]
 ---
 
 # The Liberation of Thebes, 382–379 BCE

@@ -7,7 +7,7 @@ applies_to_regions: [egypt, mediterranean-world, near-east]
 contested: no
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [concept]
+tags: [concept, greece]
 ---
 
 ## Overview

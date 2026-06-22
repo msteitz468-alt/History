@@ -10,7 +10,7 @@ applies_to_regions: [aegean, central-greece, mediterranean]
 contested: yes
 sources_ingested: 2
 last_updated: 2026-06-12
-tags: [concept]
+tags: [concept, greece]
 ---
 
 # Classical Greek Historiography (Sources for the Fifth Century)

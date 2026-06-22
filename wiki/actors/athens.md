@@ -11,7 +11,7 @@ key_events: [the unification of Attica, Cylon's attempted coup (~636), Dracon's 
 key_processes: [synoikism, the dismantling of monarchy, the codification of law, the broadening of political participation]
 sources_ingested: 5
 last_updated: 2026-06-11
-tags: [actor, state, archaic-period, central-greece]
+tags: [actor, state, archaic-period, central-greece, greece]
 ---
 
 # Athens (Archaic)

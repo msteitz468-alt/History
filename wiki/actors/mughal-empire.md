@@ -11,7 +11,7 @@ key_events: ["the first battle of Panipat (1526)", "Akbar's reign (1556–1605)"
 key_processes: ["[[state-formation]]", "[[indian-ocean-trade]]", "Indo-Persian cultural synthesis"]
 sources_ingested: 2
 last_updated: 2026-06-14
-tags: [actor, empire, early-modern, south-asia]
+tags: [actor, empire, early-modern, south-asia, islamic-world]
 ---
 
 # The Mughal Empire

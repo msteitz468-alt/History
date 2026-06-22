@@ -23,7 +23,7 @@ consequences:
   - "followed_by: Canuleian law rescinding the Tables' ban on intermarriage (445 BCE)"
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, mediterranean, western-europe]
+tags: [event, classical-antiquity, mediterranean, western-europe, rome]
 ---
 
 # Publication of the Twelve Tables

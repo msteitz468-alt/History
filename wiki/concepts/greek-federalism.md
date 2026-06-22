@@ -10,7 +10,7 @@ applies_to_regions: [central-greece, peloponnese, north-greece, mediterranean]
 contested: yes
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [concept]
+tags: [concept, greece]
 ---
 
 # Greek Federalism (the Koinon and the Alternatives to the Polis)

@@ -11,7 +11,7 @@ key_events: [the first preaching (c. 610), the hijra to Medina (622), the return
 key_processes: [the rise of Islam, the unification of Arabia, the prelude to the Arab conquests]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [actor, person, late-antiquity, arabian-peninsula]
+tags: [actor, person, late-antiquity, arabian-peninsula, islamic-world]
 ---
 
 # Muḥammad and the Rise of Islam

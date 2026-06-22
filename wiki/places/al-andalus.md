@@ -9,7 +9,7 @@ events_here: ["the collapse of the Caliphate (1009–1031)", "the fall of Toledo
 processes_here: [[[reconquista]], [[commercial-revolution]]]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [place, iberia, mediterranean, high-middle-ages]
+tags: [place, iberia, mediterranean, high-middle-ages, islamic-world]
 ---
 
 # Al-Andalus (Muslim Iberia)

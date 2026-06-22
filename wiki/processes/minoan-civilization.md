@@ -10,7 +10,7 @@ driven_by: [Cretan seapower & trade, the palace economy, an unbroken local devel
 produces: [the palace civilization, the Aegean scripts, Mycenaean civilization (by transmission), the "thalassocracy" tradition]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [process, middle-bronze-age, late-bronze-age, aegean, mediterranean]
+tags: [process, middle-bronze-age, late-bronze-age, aegean, mediterranean, greece]
 ---
 
 # Minoan Civilization (Bronze Age Crete)

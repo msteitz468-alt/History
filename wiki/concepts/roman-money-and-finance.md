@@ -7,7 +7,7 @@ applies_to_regions: [italy, mediterranean-world, egypt]
 contested: yes
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [concept]
+tags: [concept, rome]
 ---
 
 # Roman Money, Banking, and Finance

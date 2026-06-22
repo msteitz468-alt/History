@@ -15,7 +15,7 @@ causes: [[[nature-of-roman-imperialism]], Masinissa's encroachments and Carthage
 consequences: [the annihilation of Carthage, the province of Africa, the end of Punic high culture, the demonstration of Roman ruthlessness]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, north-africa, war]
+tags: [event, classical-antiquity, north-africa, war, rome]
 ---
 
 # The Third Punic War (149–146 BCE)

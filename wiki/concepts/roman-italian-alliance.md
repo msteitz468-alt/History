@@ -7,7 +7,7 @@ applies_to_regions: [italy, mediterranean-world]
 contested: no
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [concept]
+tags: [concept, rome]
 ---
 
 # The Roman–Italian Alliance System (the *socii*)

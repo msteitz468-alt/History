@@ -26,7 +26,7 @@ consequences:
   - enabled: "[[second-punic-war-218-201bce|Second Punic War]] — Carthaginian sense of injustice over Sardinia, Hamilcar Barca's Iberian build-up"
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, mediterranean, north-africa]
+tags: [event, classical-antiquity, mediterranean, north-africa, rome]
 ---
 
 # The First Punic War (264–241 BCE)

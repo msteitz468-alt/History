@@ -9,7 +9,7 @@ events_here: [the organization of the Three Gauls (27–12 BCE), the altar of Co
 processes_here: [the integration and urbanization of Gaul, the rise of the Narbonensian elites]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [place, western-europe, classical-antiquity, late-antiquity]
+tags: [place, western-europe, classical-antiquity, late-antiquity, rome]
 ---
 
 # Roman Gaul

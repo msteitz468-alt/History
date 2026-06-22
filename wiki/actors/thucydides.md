@@ -11,7 +11,7 @@ key_events: [[[peloponnesian-war|Peloponnesian War]], the loss of Amphipolis 424
 key_processes: [the writing of critical history, [[classical-greek-historiography]]]
 sources_ingested: 2
 last_updated: 2026-06-12
-tags: [actor, person, classical-antiquity, aegean]
+tags: [actor, person, classical-antiquity, aegean, greece]
 ---
 
 # Thucydides

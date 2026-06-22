@@ -16,7 +16,7 @@ causes: [[[alexander-the-great]], [[unknown|absence of a competent Argead heir]]
 consequences: [[[hellenistic-world]], [[hellenistic-monarchy]], [[ptolemaic-egypt]], [[seleucid-empire]], [[antigonid-dynasty]], extinction of the Argead dynasty, [[seleucid-era]]]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, mediterranean-world]
+tags: [event, classical-antiquity, mediterranean-world, greece]
 ---
 
 ## Narrative

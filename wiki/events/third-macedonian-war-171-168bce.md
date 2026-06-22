@@ -15,7 +15,7 @@ causes: [[[nature-of-roman-imperialism]], the incompatibility of Macedon's reviv
 consequences: [the end of the [[antigonid-dynasty|Antigonid kingdom]], the four Macedonian republics, the deportation of 1,000 Achaeans, the harsh new Roman tone in Greece]
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, balkans, war]
+tags: [event, classical-antiquity, balkans, war, greece]
 ---
 
 # The Third Macedonian War (171–168 BCE)

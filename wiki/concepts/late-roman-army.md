@@ -7,7 +7,7 @@ applies_to_regions: [mediterranean-world, balkans, near-east, germania]
 contested: yes
 sources_ingested: 2
 last_updated: 2026-06-12
-tags: [concept]
+tags: [concept, rome]
 ---
 
 # The Late Roman Army

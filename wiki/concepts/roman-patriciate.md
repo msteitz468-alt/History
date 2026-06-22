@@ -7,7 +7,7 @@ applies_to_regions: [mediterranean, western-europe]
 contested: yes
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [concept, classical-antiquity, archaic-period, mediterranean, western-europe]
+tags: [concept, classical-antiquity, archaic-period, mediterranean, western-europe, rome]
 ---
 
 # The Roman Patriciate

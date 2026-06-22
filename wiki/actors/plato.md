@@ -11,7 +11,7 @@ key_events: [the death of Socrates 399 BCE, the founding of the Academy c. 387 B
 key_processes: [the formation of the philosophical schools, the theory of Forms, the professionalization of higher education]
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, aegean]
+tags: [actor, person, classical-antiquity, aegean, greece]
 ---
 
 # Plato and the Academy

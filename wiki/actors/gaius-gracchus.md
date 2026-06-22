@@ -11,7 +11,7 @@ key_events: [the tribunates of 123–122, the senatus consultum ultimum and his 
 key_processes: [[[agrarian-crisis-roman-republic]], [[optimates-populares]], [[roman-italian-alliance]]]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, italy]
+tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
 # Gaius Sempronius Gracchus

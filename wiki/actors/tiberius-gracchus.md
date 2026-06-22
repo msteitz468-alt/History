@@ -11,7 +11,7 @@ key_events: [the tribunate and agrarian law of 133, his death]
 key_processes: [[[agrarian-crisis-roman-republic]], [[optimates-populares]]]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, italy]
+tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
 # Tiberius Sempronius Gracchus

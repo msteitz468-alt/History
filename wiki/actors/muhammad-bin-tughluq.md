@@ -11,7 +11,7 @@ key_events: ["accession (1325)", "the transfer of the capital to Daulatabad (132
 key_processes: [[[state-formation]], the fragmentation of the [[delhi-sultanate|Sultanate]]]
 sources_ingested: 1
 last_updated: 2026-06-14
-tags: [actor, person, late-middle-ages, south-asia]
+tags: [actor, person, late-middle-ages, south-asia, islamic-world]
 ---
 
 # Muhammad bin Tughluq

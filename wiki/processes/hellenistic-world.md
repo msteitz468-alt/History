@@ -10,7 +10,7 @@ driven_by: [[[alexander-the-great]], [[wars-of-the-diadochi-323]], [[hellenistic
 produces: [[[hellenistic-monarchy]], [[ruler-cult]], [[koine-greek]], [[alexandria]]]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [process, classical-antiquity, mediterranean-world]
+tags: [process, classical-antiquity, mediterranean-world, greece]
 ---
 
 ## Definition and Scope

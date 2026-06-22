@@ -9,7 +9,7 @@ events_here: [Pompey's settlement (64 BCE), the Parthian invasion (40–38 BCE),
 processes_here: [the establishment of the great eastern military province, the supervision and absorption of the client states]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [place, near-east, levant, late-antiquity]
+tags: [place, near-east, levant, late-antiquity, rome]
 ---
 
 # Roman Syria

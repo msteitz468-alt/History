@@ -11,7 +11,7 @@ key_events: [accession 359 BCE, the reform of the Macedonian army, the Third Sac
 key_processes: [the rise of Macedon, the eclipse of the city-state, the professionalization of war]
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, north-greece]
+tags: [actor, person, classical-antiquity, north-greece, greece]
 ---
 
 # Philip II of Macedon

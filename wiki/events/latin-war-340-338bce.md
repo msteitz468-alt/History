@@ -22,7 +22,7 @@ consequences:
   - enabled: "[[roman-expansion-italy|Roman expansion southward into Samnium and beyond]]"
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, mediterranean, western-europe]
+tags: [event, classical-antiquity, mediterranean, western-europe, rome]
 ---
 
 # The Latin War

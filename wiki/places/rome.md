@@ -9,7 +9,7 @@ events_here: []
 processes_here: [[[urbanization]], [[ruralization]]]
 sources_ingested: 3
 last_updated: 2026-06-11
-tags: [place, mediterranean, classical-antiquity]
+tags: [place, mediterranean, classical-antiquity, rome]
 ---
 
 # Rome (The Archetypal Imperial City)

@@ -10,7 +10,7 @@ driven_by: [patrician monopoly of office and legal knowledge, hoplite army creat
 produces: [tribunate-of-the-plebs, twelve-tables-450bce, licinian-sextian-laws-367bce, lex-hortensia-287bce, Roman mixed oligarchy, nobilitas]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [process, classical-antiquity, archaic-period, mediterranean, western-europe]
+tags: [process, classical-antiquity, archaic-period, mediterranean, western-europe, rome]
 ---
 
 # The Struggle of the Orders

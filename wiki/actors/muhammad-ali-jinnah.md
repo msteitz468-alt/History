@@ -11,7 +11,7 @@ key_events: ["early Congress–League cooperation (the Lucknow Pact, 1916)", "th
 key_processes: ["[[indian-independence-movement]]", "the two-nation theory"]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [actor, person, world-wars-era, south-asia]
+tags: [actor, person, world-wars-era, south-asia, islamic-world]
 ---
 
 # Muhammad Ali Jinnah

@@ -9,7 +9,7 @@ events_here: [the Augustan offensive to the Elbe (12 BCE–AD 9), the Varian dis
 processes_here: [the militarization of the Rhine, the resettlement of Germanic tribes, the Romanization of the frontier]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [place, western-europe, central-europe, late-antiquity]
+tags: [place, western-europe, central-europe, late-antiquity, rome]
 ---
 
 # Roman Germany and the Rhine Frontier

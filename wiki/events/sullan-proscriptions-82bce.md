@@ -15,7 +15,7 @@ causes: [Sulla's victory in the [[sullan-civil-war-83-82bce|civil war]], the dem
 consequences: [the death of c. 40+ senators and c. 1,600 equites, mass confiscation and redistribution of property, the disgrace of the proscribed line for two generations, the enrichment of the Sullani, lasting political trauma]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, italy, political]
+tags: [event, classical-antiquity, italy, political, rome]
 ---
 
 # The Sullan Proscriptions (82–81 BCE)

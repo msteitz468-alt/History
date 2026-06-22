@@ -10,7 +10,7 @@ driven_by: [military defeat and the loss of territory, the example of European p
 produces: [a centralized modern bureaucratic state, legal and educational reform, Ottomanism, the 1876 constitution, the contradictions that fed the Young Turk revolution]
 sources_ingested: 1
 last_updated: 2026-06-13
-tags: [process, long-19th-century, near-east]
+tags: [process, long-19th-century, near-east, islamic-world]
 ---
 
 # Ottoman Reform (the New Order and the Tanzimat)

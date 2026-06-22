@@ -11,7 +11,7 @@ key_events: ["the battle of Ankara (1402)", "the battle of Varna (1444)", "the f
 key_processes: [[[devshirme]], [[ottoman-empire]]]
 sources_ingested: 2
 last_updated: 2026-06-13
-tags: [actor, military-force, early-modern, near-east, anatolia]
+tags: [actor, military-force, early-modern, near-east, anatolia, islamic-world]
 ---
 
 # The Janissaries (*Yeniçeri*, "New Troops")

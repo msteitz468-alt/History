@@ -10,7 +10,7 @@ applies_to_regions: [central-greece, aegean]
 contested: no
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [concept]
+tags: [concept, greece]
 ---
 
 # Athenian Drama (Tragedy and Comedy)

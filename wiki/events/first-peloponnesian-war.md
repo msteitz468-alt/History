@@ -15,7 +15,7 @@ causes: [[[ephialtes-reform-462bce|the break with Sparta after the rebuff of Cim
 consequences: [the [[thirty-years-peace-446bce|Thirty Years' Peace]] (446/5), the Athenian land empire in central Greece (won then lost), the Athenian Long Walls, the recognition of the Athens–Sparta dualism]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, central-greece]
+tags: [event, classical-antiquity, central-greece, greece]
 ---
 
 # The First Peloponnesian War, 460–446 BCE

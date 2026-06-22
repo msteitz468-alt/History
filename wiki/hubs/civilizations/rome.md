@@ -98,7 +98,7 @@ reconquest and [[codification-of-roman-law|legal codification]] are Rome's longe
 ```base
 filters:
   and:
-    - 'tags.contains("rome") or tags.contains("roman-republic") or tags.contains("roman-empire")'
+    - 'tags.contains("rome")'
 views:
   - type: table
     name: Rome pages by date
@@ -111,7 +111,5 @@ views:
         direction: ASC
 ```
 
-> **Bases note:** Rome pages are tagged variously (`rome`, plus mediterranean/italy region tags).
-> This view keys on the `rome` tag; if a page you expect is missing, it likely needs a `rome` tag
-> added to its frontmatter. If the `or` expression errors in your Bases version, tell me and I'll
-> split it.
+> **Bases note:** ~103 pages carry a normalized `rome` tag (added 2026-06-22), so this view lists the
+> civilization comprehensively. New Rome pages should include `rome` in their frontmatter `tags`.

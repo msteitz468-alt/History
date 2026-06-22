@@ -12,7 +12,7 @@ key_events: [foundation-of-rome-753bce, expulsion-of-the-tarquins-509]
 key_processes: [urbanization, state-formation]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, dynasty, archaic-period, mediterranean, western-europe]
+tags: [actor, dynasty, archaic-period, mediterranean, western-europe, rome]
 ---
 
 # The Roman Kings (Regal Period)

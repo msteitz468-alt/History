@@ -11,7 +11,7 @@ key_events: [the battle of [[battle-of-ain-jalut-1260|Ain Jalut]] (1260), the fa
 key_processes: [the rise of slave-soldier rule, the destruction of the crusader states, the Mamluk–Mongol wars]
 sources_ingested: 2
 last_updated: 2026-06-12
-tags: [actor, state, high-middle-ages, near-east, levant]
+tags: [actor, state, high-middle-ages, near-east, levant, islamic-world]
 ---
 
 # The Mamluk Sultanate

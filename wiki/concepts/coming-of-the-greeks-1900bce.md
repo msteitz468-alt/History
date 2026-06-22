@@ -7,7 +7,7 @@ applies_to_regions: [aegean, mediterranean, anatolia]
 contested: yes
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [concept]
+tags: [concept, greece]
 ---
 
 # The Coming of the Greeks and the Prehistory of the Greek Language

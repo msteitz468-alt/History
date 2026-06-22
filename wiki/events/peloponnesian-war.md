@@ -15,7 +15,7 @@ causes: [[[delian-league|the growth of Athenian power]] and Spartan fear of it (
 consequences: [the fall of the Athenian empire, the end of the radical democracy (temporarily), Spartan hegemony, the exhaustion of the Greek city-states, the opening for Macedon]
 sources_ingested: 2
 last_updated: 2026-06-12
-tags: [event, classical-antiquity, central-greece]
+tags: [event, classical-antiquity, central-greece, greece]
 ---
 
 # The Peloponnesian War, 431–404 BCE

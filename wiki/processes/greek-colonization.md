@@ -10,7 +10,7 @@ driven_by: [overpopulation and land-hunger, civil strife and exile, trade opport
 produces: [hundreds of independent daughter-poleis from Spain to the Black Sea, the spread of Hellenic culture and the alphabet, the monetized trade economy, the metropolis–apoikia network]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [process, archaic-period, mediterranean-world]
+tags: [process, archaic-period, mediterranean-world, greece]
 ---
 
 # Greek Colonization (Archaic)

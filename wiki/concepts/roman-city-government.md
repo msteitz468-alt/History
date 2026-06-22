@@ -7,7 +7,7 @@ applies_to_regions: [mediterranean-world, italy, western-europe, near-east, nort
 contested: no
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [concept]
+tags: [concept, rome]
 ---
 
 # The City as the Unit of Empire (Municipal Self-Government)

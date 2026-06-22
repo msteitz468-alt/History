@@ -11,7 +11,7 @@ key_events: [[[battle-of-manzikert-1071]], "the entry into Baghdad (1055)"]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [actor, empire, high-middle-ages, iran-plateau, near-east, anatolia]
+tags: [actor, empire, high-middle-ages, iran-plateau, near-east, anatolia, islamic-world]
 ---
 
 # The Seljuk Empire (the Great Seljuks)

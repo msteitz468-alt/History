@@ -9,7 +9,7 @@ events_here: [the Lydian attacks (Gyges to Croesus), the overseas colonization o
 processes_here: [[[greek-colonization|Greek colonization]], [[orientalizing-revolution|orientalizing trade]], the rise of Ionian rationalism, the monetization of the economy]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [place, anatolia, mediterranean, archaic-period]
+tags: [place, anatolia, mediterranean, archaic-period, greece]
 ---
 
 # Ionia and the Eastern Greeks

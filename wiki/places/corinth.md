@@ -9,7 +9,7 @@ events_here: [the Isthmian Games (the [[freedom-of-the-greeks|196 proclamation]]
 processes_here: [[[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [place, balkans, mediterranean-world, classical-antiquity]
+tags: [place, balkans, mediterranean-world, classical-antiquity, greece]
 ---
 
 # Corinth

@@ -61,7 +61,7 @@ alongside Safavid Iran — rule most of the Islamic world at its early-modern he
 ```base
 filters:
   and:
-    - 'tags.contains("near-east") or tags.contains("arabian-peninsula") or tags.contains("islam")'
+    - 'tags.contains("islamic-world")'
 views:
   - type: table
     name: Islamic-world pages by date
@@ -71,6 +71,6 @@ views:
         direction: ASC
 ```
 
-> **Bases note:** there is no single `islam` tag across the corpus; this view approximates via region
-> tags. Pages on the Islamic world filed under other regions (Iberia, South Asia, West Africa) appear
-> in those regional hubs. A later pass could add an `islamic-world` tag for precision.
+> **Bases note:** ~29 core pages carry a normalized `islamic-world` tag (added 2026-06-22). Pages on the
+> Islamic world also filed under regional hubs (Iberia/al-Andalus, South Asia/Mughals, West Africa/Sokoto)
+> appear in those hubs too. New Islamic-world pages should include `islamic-world` in their `tags`.

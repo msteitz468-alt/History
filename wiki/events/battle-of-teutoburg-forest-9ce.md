@@ -15,7 +15,7 @@ causes: [[[augustan-imperial-expansion|the Roman penetration of Germany]], Varus
 consequences: [the loss of three legions, the abandonment of permanent occupation between Rhine and Elbe, the long-run fixing of the Rhine as the imperial frontier, [[unknown|the disputed scale of its strategic effect]]]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, late-antiquity, western-europe, transition]
+tags: [event, late-antiquity, western-europe, transition, rome]
 ---
 
 # The Varian Disaster (the *clades Variana*), September AD 9

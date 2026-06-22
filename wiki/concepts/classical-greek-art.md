@@ -10,7 +10,7 @@ applies_to_regions: [central-greece, aegean, mediterranean]
 contested: no
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [concept]
+tags: [concept, greece]
 ---
 
 # Classical Greek Art (Archaic to Classical)

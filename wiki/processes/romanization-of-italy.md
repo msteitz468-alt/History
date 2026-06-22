@@ -10,7 +10,7 @@ driven_by: [the enfranchisement of Italy after the Social War, the social upheav
 produces: [a culturally unified Roman Italy, the extinction of the Italic languages, the privileged status of Italy in the empire]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [process, classical-antiquity, italy]
+tags: [process, classical-antiquity, italy, rome]
 ---
 
 # The Romanization of Italy (Sulla to Augustus)

@@ -15,7 +15,7 @@ causes: [Umayyad–Berber expansion across North Africa, the internal division o
 consequences: [the destruction of the Visigothic kingdom, the creation of al-Andalus, the establishment of Umayyad rule in the western Mediterranean, the Christian retreat to the northern mountains and the founding of Asturias, the long process of the Reconquista]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [event, early-middle-ages, iberia]
+tags: [event, early-middle-ages, iberia, islamic-world]
 ---
 
 # The Umayyad Conquest of Hispania, 711

@@ -11,7 +11,7 @@ key_events: [accession (54), the murder of Agrippina (59), the Great Fire of Rom
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, person, late-antiquity, italy]
+tags: [actor, person, late-antiquity, italy, rome]
 ---
 
 # Nero (Nero Claudius Caesar Augustus Germanicus)

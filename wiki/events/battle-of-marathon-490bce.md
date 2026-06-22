@@ -15,7 +15,7 @@ causes: [Persian vengeance for Athenian help in the [[ionian-revolt-499bce|Ionia
 consequences: [the repulse of the first Persian invasion, the surge of Athenian confidence and the founding-legend of the democracy, the stiffening of Greek will before Xerxes, the rise of Miltiades and the prelude to the great invasion of 480]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, central-greece]
+tags: [event, classical-antiquity, central-greece, greece]
 ---
 
 # The Battle of Marathon (490 BCE)

@@ -11,7 +11,7 @@ key_events: [the proclamation of al-Mahdi (909), founding of Mahdiyya, the conqu
 key_processes: [[[islamization-of-africa]], [[trans-saharan-trade]], [[indian-ocean-trade]], [[empire]]]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [actor, state, early-middle-ages, north-africa, egypt]
+tags: [actor, state, early-middle-ages, north-africa, egypt, islamic-world]
 ---
 
 # The Fatimid Caliphate

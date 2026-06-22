@@ -11,7 +11,7 @@ key_events: [[[third-macedonian-war-171-168bce]], Pydna (168)]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, balkans]
+tags: [actor, person, classical-antiquity, balkans, greece]
 ---
 
 # Perseus of Macedon

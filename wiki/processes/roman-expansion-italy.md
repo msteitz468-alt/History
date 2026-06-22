@@ -19,7 +19,7 @@ produces:
   - Growth of slavery as an institution
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [process, classical-antiquity, mediterranean, western-europe]
+tags: [process, classical-antiquity, mediterranean, western-europe, rome]
 ---
 
 # Roman Expansion in Italy

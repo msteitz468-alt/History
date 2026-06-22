@@ -11,7 +11,7 @@ applies_to_regions: [mediterranean, aegean, central-greece, peloponnese]
 contested: yes
 sources_ingested: 2
 last_updated: 2026-06-11
-tags: [concept]
+tags: [concept, greece]
 ---
 
 # Polis Religion (Religion and the State in Archaic Greece)

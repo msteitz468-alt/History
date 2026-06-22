@@ -9,7 +9,7 @@ events_here: [the accession of Herod (40/37 BCE), the revolt at Herod's death (4
 processes_here: [the Herodian transformation of Judaea, the slide from client kingdom to province]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [place, levant, near-east, late-antiquity]
+tags: [place, levant, near-east, late-antiquity, rome]
 ---
 
 # Roman Judaea (Herodian Kingdom and Province)

@@ -10,7 +10,7 @@ driven_by: [the Arab conquests, trans-Saharan and Indian Ocean trade, the social
 produces: [a Muslim North Africa, Islamized Sahel trading states, the Swahili Muslim coast, Arabic literacy and law in Africa, a lasting Christian–Muslim frontier]
 sources_ingested: 3
 last_updated: 2026-06-13
-tags: [process, early-middle-ages, north-africa, west-africa, east-africa]
+tags: [process, early-middle-ages, north-africa, west-africa, east-africa, islamic-world]
 ---
 
 # The Islamization of Africa

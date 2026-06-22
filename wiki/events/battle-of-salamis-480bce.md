@@ -15,7 +15,7 @@ causes: [[[xerxes-i|Xerxes']] advance and the sack of Athens, Themistocles' dete
 consequences: [the destruction of much of the Persian fleet, Xerxes' withdrawal to Asia, the survival of the Greek cause, the prelude to Plataea and the rise of Athenian sea power]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, central-greece]
+tags: [event, classical-antiquity, central-greece, greece]
 ---
 
 # The Battle of Salamis (480 BCE)

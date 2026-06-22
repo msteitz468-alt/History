@@ -11,7 +11,7 @@ key_events: [the emergence in Bithynia (c. 1300), the crossing into Europe (1354
 key_processes: [the conquest of the Balkans, the building of a frontier state, the slave household, the timar system, the "military revolution"]
 sources_ingested: 3
 last_updated: 2026-06-13
-tags: [actor, state, late-middle-ages, anatolia, balkans, near-east]
+tags: [actor, state, late-middle-ages, anatolia, balkans, near-east, islamic-world]
 ---
 
 # The Rise of the Ottoman Empire (c. 1300–1402)

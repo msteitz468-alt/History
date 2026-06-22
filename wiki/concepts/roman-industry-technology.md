@@ -7,7 +7,7 @@ applies_to_regions: [mediterranean-world, western-europe, italy]
 contested: yes
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [concept]
+tags: [concept, rome]
 ---
 
 # Roman Industry and Technology

@@ -11,7 +11,7 @@ key_events: [study in Plato's Academy from c. 367 BCE, the tutoring of Alexander
 key_processes: [the formation of the philosophical schools, the systematization of knowledge, empirical natural science]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, aegean]
+tags: [actor, person, classical-antiquity, aegean, greece]
 ---
 
 # Aristotle and the Lyceum

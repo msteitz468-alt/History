@@ -11,7 +11,7 @@ key_events: [the Theodosian Code (438), the Council of Chalcedon (451), the Heno
 key_processes: [the survival of the eastern empire, the divergence of East and West, the fiscal strengthening of Byzantium]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [actor, state, late-antiquity, anatolia]
+tags: [actor, state, late-antiquity, anatolia, rome]
 ---
 
 # The Eastern Roman Empire, 425–518

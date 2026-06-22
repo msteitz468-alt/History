@@ -15,7 +15,7 @@ causes: [the incompatible spheres-of-influence claims of Rome and Antiochus, the
 consequences: [the [[peace-of-apamea-188bce|Peace of Apamea]], the confinement of the Seleucids behind the Taurus, the aggrandizement of Pergamon and Rhodes]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, anatolia, war]
+tags: [event, classical-antiquity, anatolia, war, rome]
 ---
 
 # The Roman–Syrian War (192–188 BCE)

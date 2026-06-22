@@ -11,7 +11,7 @@ applies_to_regions: [central-greece, aegean]
 contested: yes
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [concept]
+tags: [concept, greece]
 ---
 
 # Athenian Democracy

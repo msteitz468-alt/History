@@ -11,7 +11,7 @@ key_events: [first-fitna-656, second-fitna-680, siege-of-constantinople-674, bat
 key_processes: [rise-of-islam, arab-conquests, arabization-of-administration]
 sources_ingested: 2
 last_updated: 2026-06-12
-tags: [actor, state, early-middle-ages, levant, near-east]
+tags: [actor, state, early-middle-ages, levant, near-east, islamic-world]
 ---
 
 # Umayyad Caliphate

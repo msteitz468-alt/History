@@ -10,7 +10,7 @@ driven_by: [[[epaminondas]], Pelopidas, the victory at [[battle-of-leuctra-371bc
 produces: [the liberation of Messenia, the founding of Megalopolis and the Arcadian League, the permanent crippling of Sparta, the multipolar exhaustion that opened the way for Macedon]
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [process, classical-antiquity, central-greece]
+tags: [process, classical-antiquity, central-greece, greece]
 ---
 
 # The Theban Hegemony, 371–362 BCE

@@ -12,7 +12,7 @@ tags: [controversy]
 # Causes of the Fall of the Western Roman Empire
 
 > **Standing controversy** (CLAUDE.md). Companion to the event page
-> [[fall-of-western-roman-empire-476|Fall of the Western Roman Empire]].
+> [[fall-of-the-western-roman-empire-476|Fall of the Western Roman Empire]].
 
 ## The Dispute
 
@@ -85,5 +85,5 @@ methodological: was 476 a **catastrophe** (Ward-Perkins) or a **transformation**
 
 ## See Also
 
-[[fall-of-western-roman-empire-476]] · [[roman-empire]] · [[byzantine-empire]] ·
+[[fall-of-the-western-roman-empire-476]] · [[roman-empire]] · [[byzantine-empire]] ·
 [[late-antiquity]] · [[hunnic-migrations]] · [[great-man-vs-structural-causation]]

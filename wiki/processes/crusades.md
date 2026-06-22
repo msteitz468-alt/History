@@ -10,7 +10,7 @@ driven_by: [[[gregorian-reform]], [[just-war]], "the pilgrimage tradition", "the
 produces: [[[crusader-states|the crusader states]], "the military-religious orders (Templars, Hospitallers)", "the indulgence and the crusade vow", "the militarisation of medieval Christendom", "lasting Latin–Byzantine and Christian–Muslim antagonism"]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [process, high-middle-ages, levant, mediterranean, western-europe]
+tags: [process, high-middle-ages, levant, mediterranean, western-europe, islamic-world]
 ---
 
 ## Definition and Scope

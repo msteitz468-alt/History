@@ -7,7 +7,7 @@ applies_to_regions: [mediterranean-world, italy, near-east, north-africa, egypt]
 contested: yes
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [concept]
+tags: [concept, rome]
 ---
 
 # Banditry (*Latrocinium*) in the Roman Empire

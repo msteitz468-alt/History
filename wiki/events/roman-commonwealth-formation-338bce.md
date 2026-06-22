@@ -21,7 +21,7 @@ consequences:
   - enabled: "[[roman-colonization|Latin colony program that extended the commonwealth's reach throughout Italy]]"
 sources_ingested: 1
 last_updated: 2026-06-11
-tags: [event, classical-antiquity, mediterranean, western-europe]
+tags: [event, classical-antiquity, mediterranean, western-europe, rome]
 ---
 
 # Formation of the Roman Commonwealth

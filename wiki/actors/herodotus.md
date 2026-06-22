@@ -11,7 +11,7 @@ key_events: [the [[greco-persian-wars-499bce|Greco-Persian Wars]] (his subject),
 key_processes: [the invention of history-writing (historiē), Greek ethnography and geography]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [actor, person, classical-antiquity, aegean]
+tags: [actor, person, classical-antiquity, aegean, greece]
 ---
 
 # Herodotus of Halicarnassus

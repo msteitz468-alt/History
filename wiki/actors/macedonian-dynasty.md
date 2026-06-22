@@ -11,7 +11,7 @@ key_events: [reconquest of Crete 961, capture of Antioch 969, [[conquest-of-bulg
 key_processes: [the Byzantine military reconquest, the codification of law and ceremony]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [actor, dynasty, early-middle-ages, high-middle-ages, anatolia, mediterranean]
+tags: [actor, dynasty, early-middle-ages, high-middle-ages, anatolia, mediterranean, greece]
 ---
 
 # The Macedonian Dynasty (Byzantium, 867–1056)

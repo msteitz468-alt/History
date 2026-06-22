@@ -16,7 +16,7 @@ causes: [[[achaemenid-empire|Persian imperial expansion]] absorbing Ionia, the [
 consequences: [the survival and independence of mainland Greece, the rise of Athens and the [[delian-league|Delian League]], the classical Athenian cultural flowering, the invention of history-writing]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [event, war, classical-antiquity, aegean]
+tags: [event, war, classical-antiquity, aegean, greece]
 ---
 
 # The Greco-Persian Wars (499–479 BCE)

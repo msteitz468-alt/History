@@ -11,7 +11,7 @@ key_events: [battle-of-yarmuk-636, battle-of-qadisiyya-637, conquest-of-egypt-64
 key_processes: [rise-of-islam, arab-conquests]
 sources_ingested: 2
 last_updated: 2026-06-12
-tags: [actor, state, late-antiquity, early-middle-ages, arabian-peninsula, near-east]
+tags: [actor, state, late-antiquity, early-middle-ages, arabian-peninsula, near-east, islamic-world]
 ---
 
 # Rashidun Caliphate

@@ -10,7 +10,7 @@ driven_by: [the demand of the great cities and the frontier armies, the navigabi
 produces: [long- and medium-distance exchange in staples and luxuries, the wealth of merchant freedmen, the eastern luxury trade]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [process, late-antiquity, mediterranean-world]
+tags: [process, late-antiquity, mediterranean-world, rome]
 ---
 
 # Trade in the Roman Empire

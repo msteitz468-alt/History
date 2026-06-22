@@ -11,7 +11,7 @@ key_events: [the jihad against Gobir (1804), the founding of Sokoto (1809), the 
 key_processes: [[[west-african-jihads]], [[islamization-of-africa]], [[trans-saharan-trade]], state-formation]
 sources_ingested: 1
 last_updated: 2026-06-12
-tags: [actor, state, long-19th-century, west-africa]
+tags: [actor, state, long-19th-century, west-africa, islamic-world]
 ---
 
 # The Sokoto Caliphate

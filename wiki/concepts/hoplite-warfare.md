@@ -10,7 +10,7 @@ applies_to_regions: [mediterranean, peloponnese, aegean]
 contested: yes
 sources_ingested: 3
 last_updated: 2026-06-11
-tags: [concept]
+tags: [concept, greece]
 ---
 
 # Hoplite Warfare
