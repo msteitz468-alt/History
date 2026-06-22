@@ -7,11 +7,28 @@ tags: [hub, region, east-africa]
 
 # East Africa — Regional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> The Indian Ocean's African shore and its interior kingdoms — a region defined by maritime trade,
+> Bantu settlement, and the meeting of African, Arab, and Asian worlds. Coverage is **moderate**
+> (a known collection gap); the curated spine below reflects what the sources support.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · related: [[hubs/regions/sub-saharan-africa|Sub-Saharan Africa]] ·
+[[hubs/regions/indian-ocean|Indian Ocean World]] · [[hubs/regions/horn-of-africa|Horn of Africa]]
+
+---
+
+## Key threads
+- The [[swahili-coast|Swahili coast]] — Islamized city-states (Kilwa, Mombasa) woven into
+  [[hubs/regions/indian-ocean|Indian Ocean]] trade.
+- The [[great-lakes-kingdoms|Great Lakes kingdoms]] of the interior.
+- The [[merina-kingdom|Merina kingdom]] of Madagascar.
+- [[islamization-of-africa|Islamization]] along the coast; the deeper substrate of the
+  [[bantu-expansion|Bantu expansion]].
+
+## Collection note & debates
+East Africa is thinly covered relative to North and West Africa. See [[hubs/historiography-hub|Historiography]]
+for [[austronesian-dispersal|the Austronesian settlement of Madagascar]].
+
+---
 
 ## All East Africa pages (live)
 
@@ -21,17 +38,9 @@ filters:
     - 'tags.contains("east-africa")'
 views:
   - type: table
-    name: East Africa pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: East Africa pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `east-africa` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.
