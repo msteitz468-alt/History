@@ -7,7 +7,7 @@ period_coverage: [Early Modern, Age of Expansion, Long 19th Century, World Wars 
 region_coverage: [near-east, iran-plateau, anatolia, south-asia, arabian-peninsula]
 methodological_approach: [interpretive single-author synthesis — civilizational, political, and intellectual history; world-historical comparison]
 reliability_notes: "Vol. 3 of Hodgson's synthesis (completed posthumously), covering the Gunpowder Empires (Safavid, Mughal, Ottoman) and the modern transformation. Introduces the 'Great Western Transmutation' as the frame for the modern Islamic predicament. The most compact volume; the Epilogue is reflective. Single-author and interpretive. Concludes [[hodgson-venture-of-islam-v1-1974|Vol. 1]] and [[hodgson-venture-of-islam-v2-1974|Vol. 2]]."
-pages_created: 0
+pages_created: 37
 pages_updated: 0
 ingested: 2026-06-22
 tags: [source]
@@ -52,10 +52,39 @@ Ingested via the **deployed-subagent strategy** with deep section reads. Body co
 | **E** Hegemony & modernism | 1931–3144 | Book Six II–III: European World Hegemony (19th c.); Modernism in Turkey (Westernization) | `islamic-modernism`, `european-hegemony-islamic-world`, `ottoman-westernization`; link [[tanzimat-reforms]], [[muhammad-ali-egypt]] |
 | **F** The modern conscience | 3145–4774 | Epilogue: the Islamic Heritage and the Modern Conscience | `islamic-heritage-modern-conscience`, `modern-islamic-predicament` |
 
-## Claim list (filled on the main thread after agents finish)
+## Claim list — 37 pages (1 scaffold + 36 from 6 agents)
 
-_(to be populated in Step 4)_
+**Scaffold:** [[safavid-empire]].
+**A — Safavid Iran:** [[ismail-i-safavid]] · [[qizilbash]] · [[safavid-shiism]] · [[shah-abbas]] · [[chaldiran-1514]].
+**B — Mughal India:** [[din-i-ilahi]] · [[mughal-hindu-muslim-coexistence]] · [[akbar-religious-policy]] ·
+[[mansabdari-system]] · [[sulh-e-kull]] · [[abulfazl-allami]] · [[sirhindi-ahmad]].
+**C — Ottoman classical empire:** [[ottoman-classical-system]] · [[millet-system]] · [[ebu-s-suud]] ·
+[[sinan-mimar]] · [[bektashi-order]] · [[koprulu-viziers]] · [[tulip-age]].
+**D — The Western transmutation:** [[great-western-transmutation]] · [[technicalism]] · [[gunpowder-empires]] ·
+[[generation-of-1789-islam]] · [[complementary-dependence]] · [[european-world-hegemony-1800]].
+**E — Hegemony & modernism:** [[european-hegemony-islamic-world]] · [[ottoman-westernization]] ·
+[[islamic-modernism]] · [[salafiyya]] · [[al-afghani]] · [[muhammad-abduh]] · [[rashid-rida]] ·
+[[ataturk-mustafa-kemal]].
+**F — The modern conscience:** [[islamic-heritage-modern-conscience]] · [[modern-islamic-predicament]] ·
+[[development-gap]].
 
 ## Volume Synthesis Note
 
-_(to be written in Step 4 after all agents complete)_
+Vol. 3 completes the wiki's end-to-end Hodgson backbone, covering the early-modern **gunpowder empires**
+and the modern transformation. Book Five recasts the three empires as one phenomenon
+([[gunpowder-empires]]): the Shi'i [[safavid-empire|Safavid]] state that made Iran permanently Twelver
+([[safavid-shiism]], [[chaldiran-1514|Chaldiran]]); the [[mughal-empire|Mughal]] experiment in
+Hindu-Muslim coexistence ([[akbar-religious-policy|Akbar's policy]], [[din-i-ilahi]], [[sulh-e-kull]],
+and its [[sirhindi-ahmad|Sirhindi]]/Aurangzeb reaction); and the [[ottoman-empire|Ottoman]]
+[[ottoman-classical-system|Shari'ah-military system]] ([[devshirme]], [[millet-system]], [[sinan-mimar|Sinan]]).
+
+Book Six is built around Hodgson's signature modern concepts: the **[[great-western-transmutation|Great
+Western Transmutation]]** ([[technicalism]]) as the rupture that the [[generation-of-1789-islam|Generation
+of 1789]] first registered, producing [[european-hegemony-islamic-world|European world hegemony]],
+[[complementary-dependence|complementary economic dependence]], and the [[development-gap]]. The Islamic
+responses — [[ottoman-westernization|Westernization]] ([[ataturk-mustafa-kemal|Atatürk]]) and
+[[islamic-modernism|Islamic modernism]] ([[al-afghani|Afghani]], [[muhammad-abduh|Abduh]],
+[[rashid-rida|Rida]], the [[salafiyya]]) — set the stage for [[political-islam]]. The Epilogue
+([[islamic-heritage-modern-conscience]], [[modern-islamic-predicament]]) is Hodgson's reflective close on
+what the heritage can mean now. Concludes [[hodgson-venture-of-islam-v1-1974|Vol. 1]] and
+[[hodgson-venture-of-islam-v2-1974|Vol. 2]]; 0 broken links.
