@@ -265,23 +265,22 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 
 ## Summary Statistics
 
-Counts recounted from disk on **2026-06-22** after the Oxford Handbook of Modern German History and
-Modern African History ingests (the prior table had been raced by parallel agents and drifted low).
-Per-page new/updated details live in each source page and `log.md`.
+Counts recounted from disk on **2026-06-22** after the Modern Irish History and Cambridge History of
+Southeast Asia Vol. 2 ingests. Per-page new/updated details live in each source page and `log.md`.
 
 | Category | Pages |
 |---|---|
-| Periods | 33 |
-| Events | 280 |
-| Processes | 209 |
-| Actors | 581 |
-| Places | 122 |
-| Concepts | 338 |
+| Periods | 34 |
+| Events | 309 |
+| Processes | 236 |
+| Actors | 615 |
+| Places | 123 |
+| Concepts | 356 |
 | Comparisons | 3 |
-| Controversies | 56 |
+| Controversies | 57 |
 | Timelines | 5 |
 | Queries | 0 |
-| Sources | 207 |
+| Sources | 209 |
 | Hubs | 54 |
-| **Total (all `.md`)** | **1893** |
+| **Total (all `.md`)** | **2006** |
 
