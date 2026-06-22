@@ -23,7 +23,7 @@ tags: [event, age-of-expansion, long-19th-century, british-isles]
 The legislation that abolished the separate Kingdom of Ireland's Parliament and merged Ireland into a
 new **United Kingdom of Great Britain and Ireland** from 1 January 1801. Pushed through in the wake of
 the [[irish-rebellion-1798|1798 rebellion]] — partly by patronage and bribery — it was promoted by
-Pitt with an implied promise of [[catholic-emancipation|Catholic Emancipation]] that George III blocked,
+Pitt with an implied promise of [[catholic-emancipation-1829|Catholic Emancipation]] that George III blocked,
 poisoning the Union at its birth.
 
 For the next 120 years the Union defined Irish politics: the constitutional question of whether Ireland

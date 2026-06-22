@@ -7,7 +7,7 @@ period_coverage: [Early Modern, Age of Expansion, Long 19th Century, World Wars 
 region_coverage: [british-isles]
 methodological_approach: [thematic + chronological multi-author handbook — political, social, economic, religious, cultural history; strong on historiography]
 reliability_notes: "Authoritative OUP multi-author reference (37 chapters). Part I is thematic/historiographical (empire, colonialism, landscape, religion, gender, culture); Part II is broadly chronological (1580 plantation → the Troubles and peace). Foregrounds the Irish 'revisionism' debate and the colony-vs-metropole question. Note: print-edition OCR text layer has mangled casing in places. Presumptive reference-tier weight."
-pages_created: 0
+pages_created: 57
 pages_updated: 0
 ingested: 2026-06-22
 tags: [source]
@@ -57,10 +57,46 @@ lines 20,324+ are the Index.
 | **E** Long 19th c → Revolution | 14690–16833 | 27–31: Famine & Land 1845–80; Emigration 1800–1920; Home Rule & its Enemies; Ireland & the First World War; The Irish Revolution | `home-rule-movement`, `charles-stewart-parnell`, `irish-land-war`, `easter-rising-1916`, `irish-war-of-independence-1919`, `michael-collins`; link [[great-famine-ireland-1845]] |
 | **F** Two states → the Troubles | 16834–20323 | 32–37: Southern Ireland 1922–32; De Valera's Ireland; Unionism 1921–72; Second World War; the Lemass Legacy; the Long War & its end | `irish-civil-war-1922`, `sean-lemass`, `edward-carson`, `the-troubles`, `good-friday-agreement-1998`, `republic-of-ireland`; link [[irish-free-state]], [[northern-ireland]], [[eamon-de-valera]] |
 
-## Claim list (filled on the main thread after agents finish)
+## Claim list — 57 pages (7 scaffold + 50 from 6 agents)
 
-_(to be populated in Step 4)_
+**Scaffold (main thread):** [[ireland]] · [[irish-free-state]] · [[northern-ireland]] ·
+[[act-of-union-1801]] · [[great-famine-ireland-1845]] · [[eamon-de-valera]] ·
+[[irish-historiography-revisionism]] (controversy).
+**A — Themes I (empire & land):** [[ireland-and-empire]] · [[irish-patriotism]] · [[irish-nationalism]] ·
+[[ulster-unionism]] · [[irish-land-question]] · [[irish-diaspora]] · [[eucharistic-congress-dublin-1932]].
+**B — Themes II (society & culture):** [[irish-economic-history]] · [[religion-in-ireland]] ·
+[[women-in-irish-history]] · [[irish-literary-culture]] · [[irish-visual-and-material-culture]] ·
+[[irish-film-and-broadcasting]] · [[devotional-revolution-ireland]] · [[celtic-revival-ireland]].
+**C — Early modern:** [[plantation-of-ireland-1556-1660]] · [[irish-rebellion-1641]] ·
+[[cromwellian-conquest-of-ireland]] · [[confederation-of-kilkenny]] · [[war-of-the-three-kingdoms-ireland-1689-1691]] ·
+[[restoration-ireland-1660-1688]] · [[protestant-ascendancy]] · [[irish-continental-diaspora-1600-1750]] ·
+[[early-hanoverian-ireland-1690-1750]].
+**D — 18th c → Union:** [[irish-famine-1740]] · [[irish-language]] · [[ireland-atlantic-world]] ·
+[[irish-patriot-politics]] · [[wolfe-tone]] · [[irish-rebellion-1798]] · [[daniel-o-connell]] ·
+[[catholic-emancipation-1829]] · [[emergence-catholic-nation]].
+**E — Long 19th c → Revolution:** [[home-rule-movement]] · [[charles-stewart-parnell]] · [[irish-land-war]] ·
+[[irish-emigration-1800-1920]] · [[ireland-first-world-war-1914]] · [[easter-rising-1916]] ·
+[[irish-war-of-independence-1919]] · [[michael-collins]].
+**F — Two states → the Troubles:** [[irish-civil-war-1922]] · [[cumann-na-ngaedheal]] · [[republic-of-ireland]] ·
+[[edward-carson]] · [[irish-neutrality-ww2]] · [[sean-lemass]] · [[the-troubles]] ·
+[[anglo-irish-agreement-1985]] · [[good-friday-agreement-1998]].
 
 ## Volume Synthesis Note
 
-_(to be written in Step 4 after all agents complete)_
+The *Handbook* built the wiki's modern-Irish backbone essentially from scratch (only Roman-era and
+global-famine pages existed before). The 57 pages span the Ulster plantation to the Good Friday
+Agreement, organized around the volume's framing controversy: the **[[irish-historiography-revisionism|revisionism
+debate]]** and the unresolved **colony-vs-metropole** question (the "colonized and colonizers" theme),
+which now recurs across the empire, land, famine, and nationalism pages.
+
+Three threads cut across the section divisions. First, **land** is the spine of Irish modernity —
+[[irish-land-question]] → the [[great-famine-ireland-1845|Famine]] → the [[irish-land-war|Land War]] →
+the land settlement that defused the agrarian question even as the national one intensified. Second,
+**religion as national identity** — the [[devotional-revolution-ireland|devotional revolution]],
+[[catholic-emancipation-1829|emancipation]], and the [[emergence-catholic-nation|emergence of the
+Catholic nation]] — set against [[ulster-unionism|Ulster unionism]] and the partition it secured.
+Third, **diaspora** ([[irish-diaspora]], [[irish-emigration-1800-1920]]) made Irish history transnational,
+feeding both American nationalist funding and the Atlantic revolutionary ideas of [[wolfe-tone]] and the
+republican tradition. Method note: second run of the deployed-subagent strategy with agents barred from
+editing index/log/source — which eliminated the bookkeeping race; residual cleanup was 2 page collisions
+(Agent A oversteps) + naming-variant repoints + forward-link de-linking.
