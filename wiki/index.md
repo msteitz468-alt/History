@@ -265,22 +265,23 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 
 ## Summary Statistics
 
-Counts recounted from disk on **2026-06-22** after the Modern Irish History and Cambridge History of
-Southeast Asia Vol. 2 ingests. Per-page new/updated details live in each source page and `log.md`.
+Counts recounted from disk on **2026-06-22** after the Venture of Islam (3 vols) and Adamson
+*Philosophy in the Islamic World* ingests (the Gap-4b Islamic intellectual-history build).
+Per-page new/updated details live in each source page and `log.md`.
 
 | Category | Pages |
 |---|---|
 | Periods | 34 |
-| Events | 309 |
-| Processes | 236 |
-| Actors | 615 |
-| Places | 123 |
-| Concepts | 356 |
-| Comparisons | 3 |
+| Events | 320 |
+| Processes | 257 |
+| Actors | 691 |
+| Places | 126 |
+| Concepts | 428 |
+| Comparisons | 4 |
 | Controversies | 57 |
 | Timelines | 5 |
 | Queries | 0 |
-| Sources | 209 |
+| Sources | 213 |
 | Hubs | 54 |
-| **Total (all `.md`)** | **2006** |
+| **Total (all `.md`)** | **2194** |
 

@@ -470,6 +470,89 @@ page — this conflict is often more significant than purely textual disputes.
 
 ---
 
+## Ingest Workflow — Deployed Subagent Strategy (DEFAULT, as of 2026-06-22)
+
+This is the **primary ingest method for all sources going forward.** It parallelizes
+claim extraction across Sonnet subagents while keeping all scaffolding, reconciliation,
+and validation on the main thread. The Standard and Large-Volume protocols below are now
+**reference material** for the per-page schema, section logic, and historiography
+requirements that this method's main-thread steps draw on — not separate workflows to
+choose between.
+
+The non-negotiable principle: **the main thread owns structure; subagents own bulk
+extraction.** Subagents never decide taxonomy, naming, or cross-links — they fill in
+claims within boundaries the main thread has already drawn.
+
+### Step 1 — Scaffold first, on the main thread
+
+Read enough of the source (TOC, introduction, conclusion, and targeted sampling) to:
+- Write the **source page** in `wiki/sources/` (with the Section Plan for large volumes).
+- Create the **key person/concept/place pages** that everything else will link to.
+- Decide the **topic taxonomy** and **establish naming conventions** for every page the
+  ingest will create.
+
+Do not spawn any agent until the naming conventions and the set of linkable page names
+exist on disk. Subagents must inherit names, never invent the structural ones.
+
+### Step 2 — Split the book by disjoint line-ranges
+
+Divide the raw text into **N contiguous, non-overlapping chunks** by line number.
+- Typically **2–5 agents**; up to **10** for very large or multi-volume sources.
+- **Bigger/denser books get more agents.** For dense or multi-doctrine books, run
+  **multiple passes per major section** so no doctrine is missed.
+- Ranges must be **disjoint** — every line belongs to exactly one chunk.
+
+### Step 3 — Spawn one Sonnet subagent per chunk (parallel / background)
+
+Use the Agent tool with **`model: sonnet`** and `run_in_background: true`, one agent per
+chunk. Each agent's prompt must contain:
+- Its **exclusive line-range** (read only that range).
+- The **schema and naming conventions** from this file.
+- The **established page names** it may link to (from Step 1).
+- **Exclusive ownership of the claim titles it creates** — assign each agent a distinct
+  title namespace/prefix or topic set so **two agents never write the same file**.
+- The instruction to extract claims **with grounding quotes from its range only** — no
+  outside knowledge, no reading beyond its range.
+
+### Step 4 — Review and tie together, on the main thread
+
+After all agents finish:
+- **Dedupe** overlapping claims.
+- **Fix cross-links** between the new pages (subagents only linked to Step-1 names).
+- **Fill the source page's claim list.**
+- **Remove agent artifacts** — stray instructions, prompt echoes, or `</content>`-style
+  tags left in files (grep for these before proceeding).
+- **Reconcile naming** across everything the agents produced.
+
+### Step 5 — Lint and validate
+
+Run, and fix until clean:
+- the **schema validator**,
+- the **wikilink checker** (must report **0 broken links**),
+- the **alias-sync script**.
+
+### Step 6 — Bookkeeping, file the source, commit (and push)
+
+After reconciliation and lint, before/with the commit:
+
+1. **Update `Outstanding Sources.md`** (repo root): if the ingested source is a line item there,
+   change its status marker to ✅ (or 🟡 for partial multi-volume) and update the note. This keeps the
+   sourcing roadmap honest about what is now in the collection.
+2. **File the source** into the appropriate `raw/` subfolder (matching the Processing List / existing
+   structure — numbered era folders like `4. Modern Times`, or underscore-prefixed grouping folders
+   like `_africa-cha` for a multi-volume set). Move the ingested text file (`.md`/`.txt`) **and** its
+   original (`.pdf`/`.epub`) out of `raw/` root into that folder, so `raw/` root only ever holds the
+   un-ingested queue.
+3. **Commit** per the standing rules below. **Push only once the whole source is complete** (commit per
+   section is fine; push at the end). Append the `log.md` entry and update `index.md`. Commit messages
+   end with the standard `Co-Authored-By` trailer.
+
+> The two protocols that follow remain authoritative for **what each page must contain**
+> (page types, frontmatter, link taxonomy, historiography sections) and for **how to draw
+> section boundaries** in large volumes (the Section Plan). Apply them within Steps 1–2 above.
+
+---
+
 ## Ingest Workflow — Standard (books under ~400 pages)
 
 For each source in Processing List.md that is under approximately 400 pages:
