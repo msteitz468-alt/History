@@ -118,7 +118,7 @@ debated — the ecological reading of the Maya is resilient; Angkor and Norse
 Greenland have moved toward contingency-and-resilience readings; Great Zimbabwe
 remains thin. The broader methodological dispute over **environmental determinism**
 as a mode of world-historical explanation is unresolved and recurs across the wiki
-(see [[geographic-determinism]] when created, and [[pleistocene-megafaunal-extinction]]).
+(see geographic determinism when created, and [[pleistocene-megafaunal-extinction]]).
 
 ## Related
 

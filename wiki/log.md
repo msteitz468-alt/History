@@ -11,6 +11,10 @@ Format:
 
 ---
 
+## 2026-06-22 ingest-complete | The Muqaddimah (Ibn Khaldun, full Rosenthal translation) | Late Middle Ages | north-africa, near-east, iran-plateau | Pages created: 23 (2 scaffold + 21 from 8 weighted agents) | Pages updated: 0 | Primary source — the founding text of the philosophy of history. ilm al-umran; asabiyya->royal authority->the dynastic cycle; cities & sedentary decline; the labor theory of value & fiscal theory of decline; the critique of the sciences; his critical historiographical method. 8 agents weighted toward the sociology (chs I-V) over the link-heavy sciences survey (ch VI). Reconciliation consolidated 3 overlapping dynastic-cycle pages into one. Enriches existing ibn-khaldun + asabiyyah. 0 broken.
+
+## 2026-06-22 ingest-complete | The Cambridge Companion to Arabic Philosophy (Adamson & Taylor, eds., 2005) | Early-Late Middle Ages | near-east, iran-plateau, iberia | Pages created: 13 (3 lean agents) | Pages updated: 0 | Lean enrichment over already-ingested philosophy: figure chapters linked (existed); value in the systematic-topic pages (logic, natural philosophy, soul, metaphysics, political philosophy) + the Latin-West reception (Toledo translators, Latin Averroism, Gerard of Cremona). 0 broken.
+
 ## 2026-06-22 ingest-complete | The Cambridge Companion to Classical Islamic Theology (Winter, ed., 2008) | Early → Late Middle Ages | near-east, central-asia, iran-plateau | Pages created: 22 (2 scaffold + 20 from 6 agents) | Pages updated: 0 | Enrichment of the kalam/theology layer: al-Ashari + al-Maturidi + Maturidism; the doctrinal controversies (divine attributes, createdness of the Quran, theological ethics, creation, proofs of God, eschatology, epistemology); orthodoxy formation + kalam-Sufi rapprochement. Reconciliation: deduped falsafa->islamic-philosophy; 0 broken.
 
 ## 2026-06-22 ingest-complete | Philosophy in the Islamic World (Adamson, 2016) | Early Middle Ages → Contemporary | near-east, iran-plateau, iberia, south-asia | Pages created: 50 (1 scaffold + 49 from 6 agents) | Pages updated: 0 | Philosophy-focused ENRICHMENT pass after the Venture volumes: linked existing falsafa/kalam figures, filled the gaps — the whole medieval JEWISH philosophy tradition (Saadia, Ibn Gabirol, Maimonides, Gersonides, Crescas, Kabbalah) in its Islamic context, the Andalusians (Ibn Bajja, Ibn Tufayl), post-Avicennan/Illuminationist philosophy, Mulla Sadra and the Safavid/Indian/Ottoman/modern traditions (Iqbal, Mernissi). 0 broken links. Completes the Gap-4b build (~184 pages across Hodgson ×3 + Adamson). Filed sources: raw/_islam-intellectual-history/ + raw/4. Modern Times/; updated Outstanding Sources.md.
@@ -920,7 +924,7 @@ periods/mesolithic.md (cross-links + sources_ingested 1→2). Dangling links lef
 intentionally for later cycles/sources: [[sedentism]], [[neolithic-communities]],
 [[secondary-products-revolution]], [[archaeogenetics]], [[pastoralism]],
 [[agriculture-and-urbanism]], [[early-agriculture-china]], [[chalcolithic]],
-[[early-bronze-age]], [[geographic-determinism]]. index.md/overview.md to be
+[[early-bronze-age]], geographic determinism. index.md/overview.md to be
 updated in the synthesis pass.
 
 ## 2026-06-10 ingest-complete | The Cambridge World History, Volume II: A World with Agriculture, 12,000 BCE–500 CE (Barker & Goucher, eds.) | Total pages created: 24 | Total pages updated: 2 | Sections processed: 6

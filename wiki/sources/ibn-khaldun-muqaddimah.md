@@ -7,7 +7,7 @@ period_coverage: [Late Middle Ages]
 region_coverage: [north-africa, near-east, iran-plateau, iberia]
 methodological_approach: [primary source — philosophy of history, sociology, political economy; the founding text of the "science of civilization"]
 reliability_notes: "Ibn Khaldun's prolegomenon to his universal history (the Kitab al-'Ibar), c. 1377 — the founding work of the philosophy of history and arguably of sociology. The full Franz Rosenthal translation (3 vols). Ingested from a re-wrapped .txt (raw/_muqaddimah-wrapped.txt). The author Ibn Khaldun ([[ibn-khaldun]]) and his concept of [[asabiyyah]] already exist (from the Venture of Islam ingest); this primary-source ingest enriches them by capturing the work's full argument."
-pages_created: 0
+pages_created: 23
 pages_updated: 0
 ingested: 2026-06-22
 tags: [source]
@@ -55,10 +55,28 @@ Weighted: 6 agents on the original sociology (Chs I–V), 2 link-heavy agents on
 | **G** The intellectual sciences | 16820–21999 | Ch VI part 1: the sciences in general; the rational/philosophical sciences (logic, the natural sciences, metaphysics); Ibn Khaldun's **critique of philosophy** and of astrology/alchemy | `ibn-khaldun-on-the-sciences`, `ibn-khaldun-critique-of-philosophy`; LINK [[islamic-philosophy]], [[islamic-science-medieval]] |
 | **H** The religious sciences | 22000–27000 | Ch VI part 2: the traditional/religious sciences (Qur'an, hadith, fiqh, kalam, Sufism, the language sciences) — Ibn Khaldun's survey | `ibn-khaldun-on-the-religious-sciences`; LINK [[kalam]], [[fiqh]], [[sufism]], [[hadith]], [[ibn-khaldun-historiography]] |
 
-## Claim list (filled on the main thread after agents finish)
+## Claim list — 23 pages (2 scaffold + 21 from 8 agents)
 
-_(to be populated in Step 4)_
+**Scaffold:** [[the-muqaddimah]] · [[ilm-al-umran]].
+**A — Civilization & environment:** [[ibn-khaldun-on-environment-and-civilization]] · [[sedentary-vs-bedouin-civilization]] · [[ibn-khaldun-seven-zones-geography]].
+**B — Bedouin civilization:** [[bedouin-and-sedentary-society]] · [[four-generation-rule]] · [[arab-tribal-character]].
+**C — Asabiyya & royal authority:** [[royal-authority-mulk-ibn-khaldun]] · [[group-feeling-and-power]] · [[religious-propaganda-and-asabiyyah]].
+**D — Dynasties & the cycle:** [[the-dynastic-cycle-ibn-khaldun]] · [[ibn-khaldun-on-the-caliphate]] · [[islamic-government-ranks-ibn-khaldun]].
+**E — Cities:** [[cities-and-sedentary-decline-ibn-khaldun]] · [[royal-authority-and-urban-foundation]] · [[urban-economics-ibn-khaldun]] · [[urban-decay]].
+**F — Economics:** [[ibn-khaldun-economics]].
+**G — Intellectual sciences:** [[ibn-khaldun-on-the-sciences]] · [[ibn-khaldun-critique-of-philosophy]].
+**H — Religious sciences:** [[ibn-khaldun-on-the-religious-sciences]] · [[ibn-khaldun-historiography]].
 
 ## Volume Synthesis Note
 
-_(to be written in Step 4 after all agents complete)_
+A primary-source ingest of the founding text of the philosophy of history. It captures the full argument
+of Ibn Khaldun's [[ilm-al-umran|science of civilization]]: the environmental shaping of society; the
+[[bedouin-and-sedentary-society|desert/sedentary]] dynamic; [[asabiyyah|group feeling]] as the engine
+that carries tribes to [[royal-authority-mulk-ibn-khaldun|royal authority]] and founds dynasties; the
+[[the-dynastic-cycle-ibn-khaldun|three-generation life-cycle]] of states and the
+[[cities-and-sedentary-decline-ibn-khaldun|rise and decay of cities]]; his [[ibn-khaldun-economics|labor
+theory of value and fiscal theory of decline]]; and his survey and [[ibn-khaldun-critique-of-philosophy|critique
+of the sciences]], capped by his [[ibn-khaldun-historiography|critical historical method]] — testing
+reports against the inherent nature of civilization. It enriches the existing [[ibn-khaldun]] and
+[[asabiyyah]] pages (from the Venture of Islam ingest). Reconciliation consolidated three overlapping
+dynastic-cycle pages (agents covering Chs II–III each hit it) into one canonical page.

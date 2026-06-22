@@ -196,7 +196,7 @@ heterarchy/hierarchy debate should be expanded then. (b) The
 pages (still to be created) are the natural bridge to the Bronze Age volumes.
 (c) Standing dangling links left intentionally for future sources:
 [[chalcolithic]], [[early-bronze-age]], [[younger-dryas]] (referenced but not yet
-a page), [[geographic-determinism]], [[pre-columbian-population-debate]]. (d) The
+a page), geographic determinism, [[pre-columbian-population-debate]]. (d) The
 volume's overlapping-chronology design means Vol. III and Vol. IV will *re-cover*
 some of this ground from the urban/state angle — flag updates rather than
 creations there.

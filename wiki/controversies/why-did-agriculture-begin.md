@@ -82,4 +82,4 @@ unresolved.
 - Period: [[neolithic]], [[mesolithic]]
 - Compare the separate but adjacent debate on **geographic determinism (Diamond)
   and its critics** — a standing controversy to be created when a relevant source
-  is ingested. *(dangling: [[geographic-determinism]])*
+  is ingested. *(dangling: geographic determinism)*
