@@ -13,13 +13,13 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [power struggle between president and parliament, opposition to economic shock therapy, disputes over the new constitution]
 consequences: [shelling of the parliament building, dissolution of the Supreme Soviet, adoption of a new constitution with a powerful presidency]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [event, contemporary, eastern-europe]
 ---
 # 1993 Russian Constitutional Crisis
 ## Narrative
-In late 1992 and 1993, a bitter power struggle developed between Russian President Boris Yeltsin and the Russian parliament (the Supreme Soviet, led by Ruslan Khasbulatov and Vice President Alexander Rutskoy) over economic shock therapy and the draft of a new constitution. On September 21, 1993, Yeltsin unconstitutionally dissolved the parliament and called for new elections. The parliament rejected the decree, voted to impeach Yeltsin, and barricaded themselves in the parliament building ("the White House"), gathering armed supporters. On October 3, Rutskoy and Khasbulatov urged their followers to launch armed attacks on the Ostankino television center and the Moscow mayor's office. On October 4, Yeltsin ordered the army to shell the parliament building. Tank fire reduced the building to ruins, forcing the rebels to surrender. Over a hundred people were killed.
+In late 1992 and 1993, a bitter power struggle developed between Russian President Boris Yeltsin and the Russian parliament (the Supreme Soviet, led by Ruslan Khasbulatov and Vice President Alexander Rutskoy) over economic shock therapy and the draft of a new constitution. Yeltsin had "plotted simply to disperse the Supreme Soviet" and on 18 September brought back Gaidar (line 3617). On 21 September 1993 he issued Decree No. 1400 dissolving parliament. The deputies barricaded the White House with arms and food; Rutskoy declared himself Acting President. On 3 October Makashov's units attacked Ostankino TV; Rutskoy urged march on Kremlin. On 4 October Yeltsin ordered Grachëv's army to retake it: "a gaping hole was blasted in the building"; Rutskoi, Khasbulatov and supporters arrested (lines 3619–3623). "These ‘October Events’ were quickly exploited by Yeltsin" for further market reforms and a constitutional referendum (line 3625). The new Constitution gave the president "virtually unrestricted authority" (line 3637). "It was not to be" a compromise; "both sides agreed that Russia needed a period of firm rule" but disagreed on policies (line 3615).
 
 ## Causal Analysis
 - `caused_by:` **fundamental hostility** between Yeltsin's reformist, pro-Western administration and the conservative parliament, which opposed marketization and lamented the breakup of the Soviet Union (Line 7323); and the **flawed constitutional structure** of the early post-Soviet Russian state, which lacked clear divisions of power.

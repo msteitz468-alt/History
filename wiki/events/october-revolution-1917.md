@@ -11,8 +11,8 @@ actors_secondary: [[kerensky-alexander|Alexander Kerensky]], [[provisional-gover
 event_type: [revolution, political]
 scale_immediate: regional
 scale_consequential: global
-causes: [the collapse of the Provisional Government's authority following the Kornilov Affair, the deep unpopularity of the continuing war, peasant land hunger and spontaneous seizures of gentry estates, Lenin's strategic drive for immediate armed insurrection, Trotsky's coordination of the Military Revolutionary Committee]
-consequences: [the overthrow of the Provisional Government, the establishment of the Soviet government (Council of People's Commissars), the Bolshevik seizure of power, the dissolution of the Constituent Assembly, the Russian Civil War]
+causes: [[february-revolution-1917]] + Provisional Government paralysis (Kornilov failure, economic collapse, failure to deliver peace/land); Bolshevik urban soviet majorities by Sept/Oct; Lenin’s relentless pressure for immediate seizure (Service lines 743–759)
+consequences: overthrow of Provisional Government; [[soviet-union]]; Decrees on Peace and Land; dispersal of Constituent Assembly; [[russian-civil-war-1918]]; first communist state (Service lines 774–799)
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [event, world-wars-era, eastern-europe, russia]

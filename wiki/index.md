@@ -222,7 +222,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `romanov-dynasty.md` | Romanov Dynasty | dynasty | early-modern, age-of-expansion, long-19th-century, world-wars-era |
 | `rublev-andrei.md` | Andrei Rublev | person | Late Middle Ages |
 | `rurikid-dynasty.md` | The Rurikid Dynasty | dynasty | Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern |
-| `russian-empire.md` | Russian Empire | empire | age-of-expansion, long-19th-century, world-wars-era |
+| `russian-empire.md` | Russian Empire | empire | age-of-expansion, long-19th-century, world-wars-era | (updated Service 2009 Ch.1) |
 | `russian-federation.md` | Russian Federation | state | contemporary |
 | `sarmatians.md` | The Sarmatians | movement | Classical Antiquity, Late Antiquity |
 | `sergius-of-radonezh.md` | Sergius of Radonezh | person | Late Middle Ages |
@@ -410,6 +410,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `jones-ncmh-v6-2000.md` | The New Cambridge Medieval History, Volume 6 — c. 1300–c. 1415 | 2000 | reference |
 | `allmand-ncmh-v7-1998.md` | The New Cambridge Medieval History, Volume 7 — c. 1415–c. 1500 (Section Plan; ingest pending) | 1998 | reference |
 | `riasanovsky-history-russia-2000.md` | A History of Russia (6th Edition) | 2000 | secondary |
+| `service-penguin-history-of-modern-russia-2009.md` | The Penguin History of Modern Russia: From Tsarism to the Twenty-First Century (3rd ed.) — Robert Service | 2009 | secondary |
 
 ---
 

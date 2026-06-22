@@ -13,13 +13,13 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [Chechnya's declaration of independence, Russian fear of disintegration, Yeltsin's political calculations]
 consequences: [catastrophic Russian military defeat, massive civilian casualties, de facto independence of Chechnya, Samashki massacre]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [event, contemporary, eastern-europe]
 ---
 # First Chechen War
 ## Narrative
-In late 1994, seeking to prevent the secession of Chechnya and demonstrate federal authority, Russian President Boris Yeltsin ordered a military invasion of the republic. Russian Defense Minister Pavel Grachev promised a quick, bloodless victory, but the invasion turned into a catastrophe. The Russian army proved to be in an appalling condition, suffering heavy losses during the initial tank assaults on Grozny. Heavy Russian bombardments reduced Grozny to rubble, killing mostly ethnic Russian citizens, while Chechen fighters withdrew to the hills to wage a guerrilla war. Following the death of over 40,000 people and high-profile atrocities (such as the Samashki massacre of civilians by interior forces), Russian General Aleksandr Lebed and Chechen leader Aslan Maskhadov signed the Khasavyurt Accord in August 1996, ending the war and granting Chechnya de facto independence.
+In late 1994, seeking to prevent the secession of Chechnya and demonstrate federal authority, Russian President Boris Yeltsin ordered a military invasion of the republic (Dzhokhar Dudaev had declared independence Nov 1991). Already in 1993 Yeltsin had asserted central prerogatives against "separatist tendencies". Defense Minister Pavel Grachev persuaded Yeltsin of quick victory to divert from army corruption and secure oil assets in Grozny. The invasion turned into a catastrophe. "The Russian army proved to be in an appalling condition"; Grozny reduced to rubble by artillery and air (mostly killing ethnic Russians); Chechens waged guerrilla war in mountains. Dudaev killed via satellite phone; after 40,000+ dead and atrocities (e.g. Samashki), Aleksandr Lebed negotiated Khasavyurt Accord Aug 1996 granting de facto independence (lines 3603, 3676–3677). "Leading liberals Grigori Yavlinski and Yegor Gaidar were among the few politicians to censure the invasion" (line 3678). "Yeltsin recognized his blunder over Chechnya too late" (line 3678).
 
 ## Causal Analysis
 - `caused_by:` **Chechnya's declaration of independence** under former Soviet general Dzhokhar Dudayev; **Russian fear of a "domino effect"** where other republics would break away from the Russian Federation; **Yeltsin's stubbornness and pride**; and **Defense Minister Grachev's gross underestimation** of Chechen fighting capabilities (Line 7335).

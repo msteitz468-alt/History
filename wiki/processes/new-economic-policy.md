@@ -3,11 +3,50 @@ title: New Economic Policy (NEP)
 date_start: 1921
 date_end: 1928
 date_precision: year
-period: [World Wars Era]
+period: [world-wars-era]
 region: [eastern-europe]
 process_type: economic
-driven_by: [[lenin-vladimir|Vladimir Lenin]], [[bolshevik-party|Bolshevik Party]], the need to recover from the devastation of [[war-communism|War Communism]], peasant unrest, and the Kronstadt Rebellion]
-produces: [[soviet-industrialization|First Five-Year Plan]], the rise of the "Nepmen" and "Kulaks", the "Scissors Crisis", and the inner-party succession struggle]
+driven_by: [[lenin-vladimir]], Bolshevik Party (after Kronstadt mutiny and Tambov revolt), exhaustion of War Communism
+produces: partial economic recovery 1921–27; "Nepmen"; "scissors crisis"; "Urals-Siberian method" of grain seizures (1928); Stalin-Bukharin split; transition to Five-Year Plan and collectivization
+sources_ingested: 1
+last_updated: 2026-06-22
+tags: [process, world-wars-era, soviet-union]
+---
+
+# New Economic Policy (NEP)
+
+**New Economic Policy (NEP, 1921–1928)**: Lenin’s tactical retreat from War Communism that re-legalized private trade in grain (tax-in-kind replacing requisitioning), small-scale manufacturing and retail commerce while retaining state control of large industry, banking and foreign trade. It saved the Bolshevik regime from collapse but generated its own instabilities and was abandoned by Stalin in 1928–29.
+
+## Definition and Scope
+
+Introduced at the Tenth Party Congress (March 1921) after the Kronstadt naval mutiny (sailors demanded multi-party democracy and end to grain seizures) and Tambov peasant revolt. "The retreat in economics was to be accompanied by an offensive in politics." NEP permitted peasants to trade surpluses (initially locally, then nationally), re-legalized private small workshops, reopened retail shops, abolished rationing (Nov 1921), and allowed richer peasants to hire labour and rent land (1922). Large factories were reorganized into state "trusts." Lenin described elements as "state capitalism." The policy ended War Communism’s full nationalization and coercion.
+
+From Service (2009, lines 1140–1152): "Some such gamble was essential for the regime to survive." "Lenin had to come into the open to persuade these officials to soften their stance."
+
+## Causal Drivers
+
+- Exhaustion of War Communism: industrial output ~86% below 1913; grain harvest only three-fifths of pre-war average; urban diet <1/3 from state rations; black market dominant.
+- Peasant and worker resistance: Kronstadt (Feb–Mar 1921), Tambov and other rural revolts (1920–21), industrial strikes.
+- Lenin’s recognition (after conversations with peasants) that force alone could not sustain the dictatorship.
+
+## Major Phases
+
+- 1921–22: core introduction (tax-in-kind, small private trade).
+- 1922–25: expansion (concessions to foreign capital sought; peasant households permitted to hire/rent; trade treaties).
+- 1925–27: "scissors crisis" (industrial prices 3× pre-war relative to agriculture); partial recovery but procurement shortfalls.
+- 1927–28: renewed crisis; Stalin’s Urals/Siberia trip (Jan 1928) revives coercive requisitioning ("Urals-Siberian method"); Shakhty trial intimidates specialists. NEP irretrievable by 1928–29.
+
+## Geographic Spread and Interaction
+
+Applied across RSFSR and early Soviet republics. Strengthened "middle-peasantization" in villages. Revived "nepmen" in towns (traders in scarce goods). Created fiscal and cultural space for non-Russian national expression under korenizatsiya. Interacted with succession struggle: Trotsky criticized "scissors"; Bukharin defended NEP ("Enrich yourselves!"); Stalin used procurement crisis to break with Bukharin.
+
+## End Conditions
+
+Stalin’s 1928 grain procurement campaign and industrialization drive ended NEP. Bukharin defended it; Stalin prevailed. By winter 1927–28 state grain purchases halved year-on-year. The policy’s instabilities (private profit vs central planning; "Nepmen" and kulak "threat"; administrative evasion) were cited by Stalin to justify the break.
+
+## Historiography (per Service)
+
+Service treats NEP as Lenin’s pragmatic recognition that the compound could not survive without economic relaxations, but insists the political dictatorship was never relaxed. The compound’s basic ingredients remained. Bukharin’s "evolutionary" phase clashed with Stalin’s impatience. The collection uses Service to document how NEP produced real recovery (output back to ~1913 levels) yet contained the seeds of its own destruction through renewed procurement crises and factional politics. Gaps: quantitative data on black market and regional variation.
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [process, world-wars-era, eastern-europe]

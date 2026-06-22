@@ -7,8 +7,8 @@ date_range: 1991–present
 regions_covered: [global]
 major_themes: [globalization, the climate crisis, the East Asian ascent, post-Cold-War order, renewed mass migration, demographic deceleration, digital connection]
 collection_coverage: weak
-sources_ingested: 5
-last_updated: 2026-06-10
+sources_ingested: 7
+last_updated: 2026-06-22
 tags: [period]
 ---
 
@@ -39,7 +39,7 @@ of sending and receiving countries than the nineteenth-century waves; and a
 ## Major Developments
 
 - **The post-Cold-War order:** the brief "unipolar moment," the spread of the
-  national state to the former Soviet space (formalized in the **[[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]**), and the proliferation of conflicts along the seams of former multinational empires (the Balkans, the Caucasus). In the new **[[russian-federation|Russian Federation]]**, the decade was defined by **[[yeltsin-boris|Boris Yeltsin's]]** presidency, the painful transition of **[[economic-shock-therapy|Economic Shock Therapy]]**, the **[[russian-constitutional-crisis-1993|1993 Constitutional Crisis]]**, the **[[first-chechen-war-1994|First Chechen War]]**, and the **[[russian-financial-crisis-1998|1998 Financial Crisis]]**.
+  national state to the former Soviet space (formalized in the **[[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]**), and the proliferation of conflicts along the seams of former multinational empires (the Balkans, the Caucasus). In the new **[[russian-federation|Russian Federation]]**, the decade was defined by **[[yeltsin-boris|Boris Yeltsin's]]** presidency, the painful transition of **[[economic-shock-therapy|Economic Shock Therapy]]**, the **[[russian-constitutional-crisis-1993|1993 Constitutional Crisis]]**, the **[[first-chechen-war-1994|First Chechen War]]**, and the **[[russian-financial-crisis-1998|1998 Financial Crisis]]**. Service details the terminal phase: the failed August 1991 coup (lines 3466–3484), Yeltsin's Belovezha Accords dissolving the USSR (8 Dec 1991, lines 3510–3514), price liberalization ("shock therapy") on 2 Jan 1992 causing 245% inflation in January alone (lines 3539, 3543), voucher privatization enabling nomenklatura managers and "oligarchs" (lines 3565, 3704), the violent 1993 storming of the White House (lines 3623), and the rise of Putin after 1999 (lines 3758–3775) who reasserted state control over business and regions while presiding over oil-driven recovery and the 2008 Georgia war.
 - **Hyper-globalization:** tightly integrated markets, global supply chains, and
   the connectedness that Thomas Zeiler's (absent Book 2) chapter calls
   "globalization" in the strong sense — competition intensified as distance ceased

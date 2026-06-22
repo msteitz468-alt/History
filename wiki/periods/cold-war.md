@@ -7,8 +7,8 @@ date_range: 1945–1991 CE
 regions_covered: [global, north-america, eastern-europe, western-europe, east-asia, south-asia, africa, latin-america, near-east]
 major_themes: [bipolar superpower rivalry, the Great Acceleration, decolonization, the demographic explosion, the Green Revolution, nuclear danger, multipolar industrialization, development]
 collection_coverage: strong
-sources_ingested: 8
-last_updated: 2026-06-13
+sources_ingested: 10
+last_updated: 2026-06-22
 tags: [period]
 ---
 
@@ -43,6 +43,7 @@ of the developing world.
   **[[nato|NATO]]** and the Warsaw Pact, the **[[berlin-blockade-1948|Berlin crises]]**, the
   **[[nuclear-arms-race|nuclear arms race]]** and MAD, and proxy wars — the
   **[[korean-war-1950|Korean War]]**, the **[[vietnam-war|Vietnam War]]**, and the **[[soviet-war-in-afghanistan-1979|Soviet-Afghan War]]**. Within the **[[soviet-union|Soviet Union]]**, this era spanned late Stalinism (with the cultural purge of **[[zhdanovshchina|Zhdanovshchina]]**), the political liberalization and international crises under **[[khrushchev-nikita|Nikita Khrushchev]]** (including the **[[de-stalinization|De-Stalinization]]** campaign, the crushing of the **[[hungarian-revolution-1956|Hungarian Revolution]]**, and the **[[cuban-missile-crisis-1962|Cuban Missile Crisis]]**), the long stagnation and interventions under **[[brezhnev-leonid|Leonid Brezhnev]]** (the **[[brezhnev-stagnation|Brezhnev Stagnation]]** and the **[[prague-spring-1968|Prague Spring]]**), and the reform attempts of **[[gorbachev-mikhail|Mikhail Gorbachev]]** (through **[[perestroika|Perestroika]]** and **[[glasnost|Glasnost]]**), which led to the **[[chernobyl-disaster-1986|Chernobyl Disaster]]**, the **[[august-coup-1991|August Coup]]**, and the final **[[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]**.
+- **Terminal crisis of the Soviet compound (1989–1991):** As detailed in Robert Service, *The Penguin History of Modern Russia* (2009), Gorbachev's perestroika and glasnost unleashed uncontrollable forces. Private co-operatives (lines 3301–3303) aggravated shortages ("these same goods were not being sold in state-owned enterprises"); coal-miner strikes in Kuzbass, Donbass and Karaganda (1989) were settled peacefully with wage concessions, breaking the post-Civil War pattern of repression (lines 3307–3308). The March 1989 Congress of People's Deputies elections delivered "the greatest electoral shock to the communists since the Constituent Assembly polls in 1917–18", defeating 38 province-level party secretaries (line 3309). Nationalist unrest culminated in the April 1989 Tbilisi massacre of 19 unarmed civilians (line 3313). Gorbachev's refusal to intervene militarily allowed the 1989 collapse of communist regimes across Eastern Europe ("the dominoes were tumbling fast"; "great was the work of his hands", lines 3369–3377). By 1990–91 economic output was collapsing, the "500 Days Plan" was compromised (line 3432), and hardliners issued "A Word to the People" manifesto (July 1991, lines 3456–3461) before launching the August Coup.
 - **The Great Acceleration (from c. 1950):** the steepest rise in energy use,
   population, urbanization, consumption, and environmental impact in human history
   — and, in reaction, the birth of modern popular **environmentalism** after c.

@@ -14,6 +14,34 @@ last_updated: 2026-06-22
 tags: [actor, person, world-wars-era, eastern-europe]
 ---
 # Leon Trotsky
+
+**Lev Davidovich Trotsky** (1879–1940; real name Lev Bronshtein) was a leading Bolshevik after 1917, People’s Commissar for Foreign Affairs (1917–18) and for Military Affairs (1918–25), organizer of the October insurrection and architect of the Red Army victory in the Civil War. Brilliant orator, writer and organizer, he was Lenin’s closest rival and eventual loser in the succession struggle.
+
+## Early Career and 1917
+
+A Jew from southern Ukraine, Trotsky was radicalized early, exiled to Siberia, escaped dramatically, and worked with Lenin on *Iskra*. At the 1903 Second Congress he denounced Lenin for splitting the party. He served as firebrand deputy chairman of the 1905 Petersburg Soviet and covered the Balkan wars as correspondent. Returning from North America in May 1917, he joined the Bolsheviks (horrified by Menshevik collaboration with the Provisional Government). His oratory was a major asset; he defended the Socialist-Revolutionary leader Chernov from a mob. Imprisoned after July Days, he became the party’s spokesman in the Petrograd Soviet.
+
+From Service (2009, lines 1025–1033): "His fluency of tongue and pen were a great asset. ... It was he who had saved the Socialist-Revolutionary leader Viktor Chernov... from being torn apart by a mob." "His brilliance had been proved before 1918. What took everyone aback was his organizational capacity and ruthlessness as he transformed the Red Army into a fighting force."
+
+## October Revolution and Brest-Litovsk
+
+Trotsky coordinated the Military-Revolutionary Committee that seized power on 25 October 1917. He suggested naming the government Sovnarkom to avoid "bourgeois" connotations. At Brest-Litovsk he pursued "neither war nor peace," publishing secret treaties and calling for revolution. When Germans advanced, he supported Lenin’s decision to sign the harsh treaty (3 Mar 1918) and abstained in the final vote.
+
+## Civil War and Red Army
+
+As People’s Commissar for Military Affairs Trotsky turned the nascent Red Army into a disciplined force. He ordered deserters shot (including party members), recruited ex-Imperial officers (with commissars and hostage families for loyalty), and travelled in a special railway carriage with map room and printing press. He won key victories: recapture of Kazan (Sept 1918), defeat of Kolchak (1919), and repulsion of Denikin and Yudenich. Lenin initially doubted him but came to rely on him.
+
+From Service (lines 1023–1035): "Trotski’s adaptiveness to the role... was impressive." "He ordered deserters to be shot on the spot, and did not give a damn if some of them were communist party activists."
+
+## Succession Struggle and Defeat
+
+Trotsky advocated accelerated industrialization, state planning, and European revolution. He criticized NEP "scissors crisis" (1923) and the stifling of party democracy (The New Course). Stalin, Zinoviev and Kamenev allied against him as "anti-Leninist." Trotsky lost his military post (Jan 1925) and Politburo seat (Dec 1925). The United Opposition (with Zinoviev/Kamenev) was crushed in 1926–27; Trotsky was expelled from the party (Nov 1927) and exiled to Alma-Ata (1928). He refused to recant.
+
+From Service (lines 1318–1356): Stalin used "Socialism in One Country" against Trotsky’s internationalism. "Fear of Trotski continued to be greater than annoyance with Stalin."
+
+## Historiography (per Service)
+
+Service presents Trotsky as a man of extraordinary talents (literary prose, military flair, oratory) whose arrogance and timing cost him power. His ruthlessness in the Civil War ("Terrorism and Communism") matched Lenin’s. The collection notes Trotsky’s decisive role in 1917–21 military victory and his later marginalization. Gaps: full personal papers and deeper analysis of his Jewish identity in Russian politics.
 ## Biography / Description
 Leon Trotsky (born Lev Bronstein) was born in 1879. A brilliant orator, writer, and organizer, he early became a prominent Marxist revolutionary, active in the 1905 Russian Revolution where he chaired the St. Petersburg Soviet. Initially taking an independent stance between the Bolshevik and Menshevik factions, he joined the Bolsheviks in 1917. He played a central role in masterminding the October Revolution and served as the first Soviet Commissar for Foreign Affairs, negotiating the peace talks at Brest-Litovsk. As Commissar of War during the Russian Civil War (1918–1920), he built the Red Army from scratch and successfully defended the Soviet regime. Following Lenin's death, he lost the succession struggle to Joseph Stalin. He was expelled from the Party, exiled from the USSR in 1929, and ultimately assassinated on Stalin's orders in Mexico in August 1940.
 
