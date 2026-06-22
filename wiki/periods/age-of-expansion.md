@@ -1,14 +1,14 @@
 ---
 title: Age of Expansion
 period_number: 20
-preceded_by: [[[early-modern|Early Modern]]]
-followed_by: [[[long-19th-century|Long 19th Century]]]
+preceded_by: [[early-modern|Early Modern]]
+followed_by: [[long-19th-century|Long 19th Century]]
 date_range: 1700–1800 CE
 regions_covered: [atlantic-world, western-europe, north-america, caribbean, south-asia, east-asia, indian-ocean, west-africa, central-asia]
 major_themes: [maturing oceanic empires, the first global wars, the eighteenth-century crisis of the Asian land empires, the apex of the Atlantic slave and plantation system, industrious revolutions, the Enlightenment and the Atlantic Revolutions]
 collection_coverage: moderate
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-22
 tags: [period]
 ---
 
@@ -59,6 +59,7 @@ reshape forced-labor regimes and migration in the following century.
   (from 1757) and defeat of Tipu Sultan of Mysore (1799).
 - **Qing expansion**: the destruction of the Zunghars and conquest of Muslim
   Central Asia in the 1750s.
+- **Russian imperial expansion and Enlightenment**: Under **[[catherine-the-great|Catherine the Great]]**, Russia annexed Crimea, won decisive victories against the Ottoman Empire, and partitioned Poland (1772, 1793, 1795) alongside Prussia and Austria (see **[[first-partition-of-poland-1772|Partitions of Poland]]**). Despite Catherine's Enlightenment rhetoric (manifested in the **[[legislative-commission-1767|Legislative Commission]]**), she brutally suppressed the **[[pugachev-rebellion-1773|Pugachev Rebellion]]** (1773–1774) and codified the absolute authority of the nobility over the serfs. The Russian Enlightenment flourished with figures like **[[lomonosov-mikhail|Mikhail Lomonosov]]**, but ended in censorship under the impact of the French Revolution, targeting critics like **[[radishchev-alexander|Alexander Radishchev]]** and **[[novikov-nikolai|Nikolai Novikov]]**.
 - **Apex of Atlantic slavery and plantation production**: peak volumes of the
   slave trade; the plantation complex at its most extensive.
 - **Industrious revolutions**: labor- and household-intensive intensification in
@@ -72,7 +73,7 @@ reshape forced-labor regimes and migration in the following century.
   [[english-east-india-company|English East India Company]] and
   [[dutch-east-india-company|VOC]] as territorial as well as commercial powers.
 - Land powers: Qing China, the Maratha confederacy, the Mughal successor states,
-  Durrani Afghanistan, and an expanding Russia.
+  Durrani Afghanistan, and an expanding Russian Empire under **[[catherine-the-great|Catherine the Great]]**.
 - Revolutionary actors: the thirteen colonies/United States, the enslaved
   insurgents of Saint-Domingue, and Revolutionary France.
 
@@ -116,4 +117,4 @@ As with the [[early-modern|Early Modern]] period, only **Book 2 of CWH VI**
 Qing, and the Russian and Iberian empires without dedicated pages here. The
 standing collection map rates the post-1700 world as a critical gap; CWH VI's
 thematic chapters give strong coverage of warfare, trade, slavery, production,
-and religion but not of the period's political narratives region by region.
+and religion but not of the period's political narratives region by region. The gap on Russia and Eastern Europe has been addressed by the ingestion of Riasanovsky (2000).

@@ -7,7 +7,7 @@ period: [Cold War]
 region: [central-asia, south-asia]
 location: [Afghanistan]
 actors_primary: [the Soviet Union, the Afghan communist government (PDPA), the mujahideen]
-actors_secondary: [the United States, Pakistan, Saudi Arabia, [[containment]], [[detente]]]
+actors_secondary: [the United States, Pakistan, Saudi Arabia, [[containment]], [[detente]], [[brezhnev-leonid|Leonid Brezhnev]], [[gorbachev-mikhail|Mikhail Gorbachev]]]
 event_type: [war]
 scale_immediate: regional
 scale_consequential: global
@@ -71,5 +71,6 @@ communist government that survived only until 1992.
 ## Related
 
 - `part_of:` the [[cold-war]]; `produced:` the end of [[detente]] and contributed to the [[1991-end-of-cold-war|Soviet collapse]].
+- `concurrent_with:` the [[brezhnev-stagnation|Brezhnev Stagnation]] era.
 - `analogous_to:` the US [[vietnam-war|Vietnam War]] (a superpower quagmire against a nationalist/Islamist insurgency).
 - [[leffler-westad-cold-war-v3]] — the source.

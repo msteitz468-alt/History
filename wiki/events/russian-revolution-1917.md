@@ -28,16 +28,7 @@ Vol. XII]] (Isaac Deutscher's chapter).
 
 ## Narrative
 
-The First World War broke a regime already strained. The **February Revolution (1917)** —
-bread riots and strikes in **Petrograd**, the mutiny of the garrison — toppled **Nicholas II**;
-a liberal **Provisional Government** shared uneasy "dual power" with the **soviets** (workers'
-and soldiers' councils). Its fatal choice to continue the war, amid land hunger and economic
-collapse, eroded its support. **Lenin** (returned in April) and the **Bolsheviks**, with the
-slogan "Peace, Land, Bread" and "All power to the soviets," seized power in the **October
-Revolution (1917)**. They made peace with Germany (Brest-Litovsk, 1918), but faced a brutal
-**Civil War (1918–21)** against the "Whites" and Allied intervention, which the Red Army (under
-**Trotsky**) won — at the cost of famine, terror, and "war communism." The **USSR** was founded
-in 1922.
+The First World War broke a regime already strained. The **[[february-revolution-1917|February Revolution (1917)]]** — bread riots and strikes in **[[saint-petersburg|Petrograd]]**, the mutiny of the garrison — toppled **[[nicholas-ii|Nicholas II]]**; a liberal **[[provisional-government|Provisional Government]]** shared uneasy **[[dual-power-1917|Dual Power]]** with the **[[petrograd-soviet|Petrograd Soviet]]** (workers' and soldiers' councils). Its fatal choice to continue the war, amid land hunger and economic collapse, eroded its support. **[[lenin-vladimir|Vladimir Lenin]]** (returned in April) and the **[[bolshevik-party|Bolshevik Party]]**, with the slogan "Peace, Land, Bread" and "All power to the soviets," seized power in the **[[october-revolution-1917|October Revolution (1917)]]**. They made peace with Germany (**[[treaty-of-brest-litovsk-1918|Treaty of Brest-Litovsk]]**, 1918), but faced a brutal **[[russian-civil-war-1918|Russian Civil War (1918–1920)]]** against the "Whites" and Allied intervention, which the Red Army (under **[[trotsky-leon|Leon Trotsky]]**) won — at the cost of famine, terror, and **[[war-communism|War Communism]]**. The **[[soviet-union|Soviet Union (USSR)]]** was founded in 1922.
 
 ## Causal Analysis
 
@@ -67,10 +58,7 @@ Deutscher (NCMH XII) stresses deep **structural** causes alongside the war:
 
 ## Actors
 
-- The **Bolsheviks** (Lenin, Trotsky) and the **soviets**, against the **tsarist old regime**
-  (Nicholas II) and then the **Provisional Government**; the **peasantry** and concentrated
-  **industrial proletariat** as the social base; the **Whites** and Allied interventionists in
-  the civil war. See [[communism-and-fascism]].
+- The [[bolshevik-party|Bolsheviks]] ([[lenin-vladimir|Vladimir Lenin]], [[trotsky-leon|Leon Trotsky]]) and the [[petrograd-soviet|soviets]], against the [[romanov-dynasty|tsarist old regime]] ([[nicholas-ii|Nicholas II]]) and then the [[provisional-government|Provisional Government]]; the peasantry and concentrated industrial proletariat as the social base; the [[white-movement|Whites]] and Allied interventionists in the [[russian-civil-war-1918|civil war]]. See [[communism-and-fascism]].
 
 ## Historiography
 

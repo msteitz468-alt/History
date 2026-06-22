@@ -1,7 +1,7 @@
 ---
 title: Contemporary
 period_number: 24
-preceded_by: [[[cold-war|Cold War]]]
+preceded_by: [[cold-war|Cold War]]
 followed_by: []
 date_range: 1991–present
 regions_covered: [global]
@@ -39,8 +39,7 @@ of sending and receiving countries than the nineteenth-century waves; and a
 ## Major Developments
 
 - **The post-Cold-War order:** the brief "unipolar moment," the spread of the
-  national state to the former Soviet space, and the proliferation of conflicts
-  along the seams of former multinational empires (the Balkans, the Caucasus).
+  national state to the former Soviet space (formalized in the **[[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]**), and the proliferation of conflicts along the seams of former multinational empires (the Balkans, the Caucasus). In the new **[[russian-federation|Russian Federation]]**, the decade was defined by **[[yeltsin-boris|Boris Yeltsin's]]** presidency, the painful transition of **[[economic-shock-therapy|Economic Shock Therapy]]**, the **[[russian-constitutional-crisis-1993|1993 Constitutional Crisis]]**, the **[[first-chechen-war-1994|First Chechen War]]**, and the **[[russian-financial-crisis-1998|1998 Financial Crisis]]**.
 - **Hyper-globalization:** tightly integrated markets, global supply chains, and
   the connectedness that Thomas Zeiler's (absent Book 2) chapter calls
   "globalization" in the strong sense — competition intensified as distance ceased

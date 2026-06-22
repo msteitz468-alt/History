@@ -1,14 +1,14 @@
 ---
 title: Early Middle Ages
 period_number: 16
-preceded_by: [[[late-antiquity|Late Antiquity]]]
-followed_by: [[[high-middle-ages|High Middle Ages]]]
+preceded_by: [[late-antiquity|Late Antiquity]]
+followed_by: [[high-middle-ages|High Middle Ages]]
 date_range: "600–1000 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, arabian-peninsula, central-asia, north-africa, west-africa, east-africa, south-asia, china, japan, korea, steppe, indian-ocean, silk-road]
 major_themes: ["the rise of Islam and the caliphates", "the Abbasid golden age", "Tang China and the second Silk Roads era", "the Carolingian Empire", "Byzantium's survival and golden age", "the formation of Japan and unified Korea", "trans-Saharan and Indian Ocean trade", "the spread of world religions", "post-imperial state-building", "barbarian law codes and wergild", "the North Sea emporium network (wics)", "the gold-to-silver monetary transition (sceattas)", "proprietary churches (Eigenkirchen)", "Insular art and Northumbrian learning", "Christianisation of the Germanic and Anglo-Saxon peoples"]
 collection_coverage: strong
-sources_ingested: 6
-last_updated: 2026-06-12
+sources_ingested: 7
+last_updated: 2026-06-22
 tags: [period]
 ---
 
@@ -21,7 +21,7 @@ it is also the opening phase of the **[[middle-millennium|Middle Millennium]]**
 (500–1500 CE): the first stretch of the long thickening of Afro-Eurasian
 [[afro-eurasian-world-system|exchange webs]] that the volume traces, anchored on the
 Abbasid–Tang–Byzantine "engines" and the [[silk-roads|second Silk Roads era]]. Its defining event is the **rise of
-[[islam|Islam]]** and the explosive expansion of the **[[caliphate|caliphates]]**:
+[[islam|Islam]]** and the explosive expansion of the **caliphates**:
 within a century of the Hijra (622 CE) the Arab conquests had absorbed the entire
 [[sasanian-empire|Sasanian Empire]] and Rome's Levantine, Egyptian, and North
 African provinces, reaching the Indus and the Atlantic. The
@@ -39,13 +39,13 @@ Abbasid devolution), opening onto the [[high-middle-ages]].
 
 ## Major Developments
 
-**The rise of Islam and the conquests.** From the Arabian preaching of [[muhammad-and-the-rise-of-islam|Muhammad]] (d. 632) the **[[rashidun-caliphate|Rashidun]]** and **[[umayyad-caliphate|Umayyad]]** caliphates conquered an empire stretching from Spain (711–718) to the Indus (711) within roughly ninety years — one of the most rapid imperial expansions in history. Key battles include the decisive **[[battle-of-yarmuk-636|Battle of Yarmouk]]** (636), which stripped Byzantium of Syria and the Levant, and the subsequent conquest of Egypt and Sasanian Persia. Caliph **[[abd-al-malik|Abd al-Malik]]** (r. 685–705) consolidated the state after the **[[second-fitna-680|Second Fitna]]**, initiating the **[[arabization-of-administration|Arabization of the bureaucracy]]**, minting Islamic coinage, and constructing the **[[construction-of-dome-of-the-rock-691|Dome of the Rock]]**. See also the **[[first-fitna-656|First Fitna]]**.
+**The rise of Islam and the conquests.** From the Arabian preaching of [[muhammad-and-the-rise-of-islam|Muhammad]] (d. 632) the **[[rashidun-caliphate|Rashidun]]** and **[[umayyad-caliphate|Umayyad]]** caliphates conquered an empire stretching from Spain (711–718) to the Indus (711) within roughly ninety years — one of the most rapid imperial expansions in history. Key battles include the decisive **[[battle-of-yarmuk-636|Battle of Yarmouk]]** (636), which stripped Byzantium of Syria and the Levant, and the subsequent conquest of Egypt and Sasanian Persia. Caliph **[[abd-al-malik|Abd al-Malik]]** (r. 685–705) consolidated the state after the **[[second-fitna-680|Second Fitna]]**, initiating the **Arabization of the bureaucracy**, minting Islamic coinage, and constructing the **Dome of the Rock**. See also the **[[first-fitna-656|First Fitna]]**.
 
 **The Abbasid golden age.** The **[[abbasid-caliphate|Abbasids]]** (750–1258) built a centralized, bureaucratic, cosmopolitan empire from [[baghdad|Baghdad]], sponsoring the translation movement, the preservation and extension of Greek and Indian science, and a commercial system spanning the Indian Ocean and the Sahara. See [[abbasid-caliphate]].
 
-**Tang China and the second Silk Roads era.** After the [[sui-dynasty|Sui]] reunification (581), the **[[tang-dynasty|Tang]]** (618–907) created a prosperous, cosmopolitan, bureaucratic empire whose stability — paired with the Abbasid and Byzantine revivals — drove the **[[silk-roads|second Silk Roads era]]**: goods, religions (Buddhism, Nestorian Christianity, Islam, Manichaeism), and disease flowing across Eurasia. See [[east-asia-classical]].
+**Tang China and the second Silk Roads era.** After the [[sui-dynasty|Sui]] reunification (581), the **[[tang-dynasty|Tang]]** (618–907) created a prosperous, cosmopolitan, bureaucratic empire whose stability — paired with the Abbasid and Byzantine revivals — drove the **[[silk-roads|second Silk Roads era]]**: goods, religions (Buddhism, Nestorian Christianity, Islam, Manichaeism), and disease flowing across Eurasia. See east-asia-classical.
 
-**Byzantium's survival and recovery.** Shorn of its richest provinces by the Arab conquests and pressed by Avars, Bulgars, and the iconoclast controversy, [[byzantine-empire|Byzantium]] nonetheless survived behind [[constantinople|Constantinople's]] walls (resisting the **[[siege-of-constantinople-626|Siege of Constantinople (626)]]** and later Arab sieges) and reorganized its administration under the **[[theme-system|Theme System]]**. The state enjoyed a 9th–10th-century "golden age" of stability and cultural revival.
+**Byzantium's survival and recovery.** Shorn of its richest provinces by the Arab conquests and pressed by Avars, Bulgars, and the iconoclast controversy, [[byzantine-empire|Byzantium]] nonetheless survived behind Constantinople's walls (resisting the **[[siege-of-constantinople-626|Siege of Constantinople (626)]]** and later Arab sieges) and reorganized its administration under the **[[theme-system|Theme System]]**. The state enjoyed a 9th–10th-century "golden age" of stability and cultural revival.
 
 **The Frankish Ascendancy.** In the Latin West, the Merovingian kingdoms consolidated under Chlothar II, but central power devolved to the Mayors of the Palace. Pippin II of Herstal secured Austrasian supremacy over Neustria at the **[[battle-of-tertry-687|Battle of Tertry]]** (687); after the family's near-collapse in 714, **[[charles-martel|Charles Martel]]** refounded its dominance and **[[pippin-iii|Pippin III]]** converted it into kingship, deposing the last Merovingian with papal sanction (**[[pippinid-coup-751|the coup of 751]]**) and sealing the Frankish–papal alliance. The **[[carolingian-empire|Carolingian Empire]]** reached its zenith under **[[charlemagne|Charlemagne]]** (768–814), crowned emperor in 800 (**[[coronation-of-charlemagne-800]]**), who assembled a realm from the Pyrenees to the Elbe and sponsored the **Carolingian Renaissance**. Under **[[louis-the-pious|Louis the Pious]]** (814–840) the ideology of imperial unity collided with Frankish partible inheritance; civil war (**[[battle-of-fontenoy-841|Fontenoy]]**, 841) produced the **[[treaty-of-verdun-843|Treaty of Verdun]]** (843), dividing the empire among **[[lothar-i|Lothar I]]**, **[[louis-the-german|Louis the German]]** (East Francia), and **[[charles-the-bald|Charles the Bald]]** (West Francia) and seeding the divergence of France and Germany. Whether Carolingian rule (through the **[[missi-dominici|missi]]** and **[[carolingian-capitularies|capitularies]]**) reconstituted Roman public authority or merely glossed a plunder-driven hegemony is debated: see [[nature-of-carolingian-government]]. See [[carolingian-empire]].
 
@@ -53,9 +53,9 @@ Abbasid devolution), opening onto the [[high-middle-ages]].
 
 **The British Isles and Christianisation.** The Christianisation of Anglo-Saxon England involved competing Roman and Irish missions, resolved in favor of Roman practice at the **[[synod-of-whitby-664|Synod of Whitby]]** (664). Archbishop **[[theodore-of-tarsus|Theodore of Tarsus]]** reorganized the English diocesan structure under Canterbury. Northumbrian hegemony in northern Britain was broken by the Picts at the **[[battle-of-nechtansmere-685|Battle of Nechtansmere]]** (685).
 
-**Slav Expansions and Northern Europe.** Slavic migrations expanded into Central Europe and the Balkans, forming the first Slavic federation under the **[[empire-of-samo|Empire of Samo]]** (r. 623–658). In Scandinavia, the **[[scandinavia-vendel-period|Vendel Period]]** (c. 550–800) represented an era of elite boat graves and long-distance trade preceding the Viking Age. Around the millennium a wave of **Christian state-formation** transformed the eastern and northern periphery into durable kingdoms (NCMH III): the **[[boleslaw-i-chrobry|Piast]]** Polish state (Mieszko I's baptism, 966; the **[[synod-of-gniezno-1000|Act of Gniezno]]**, 1000), **[[premyslid-bohemia|Přemyslid Bohemia]]** (as an imperial fief), the **[[hungary-arpad|Árpád]]** kingdom of Hungary (**[[stephen-i-of-hungary|St Stephen]]**, crowned c. 1000/1001), and **[[kievan-rus|Kievan Rus′]]** — the latter taking Orthodox Christianity from Byzantium at the **[[conversion-of-vladimir-988|conversion of Vladimir I (988)]]**, setting eastern Europe on a confessional path distinct from the Latin west.
+**Slav Expansions and Northern Europe.** Slavic migrations expanded into Central Europe and the Balkans, forming the first Slavic federation under the **[[empire-of-samo|Empire of Samo]]** (r. 623–658). In Scandinavia, the **Vendel Period** (c. 550–800) represented an era of elite boat graves and long-distance trade preceding the Viking Age. Around the millennium a wave of **Christian state-formation** transformed the eastern and northern periphery into durable kingdoms (NCMH III): the **[[boleslaw-i-chrobry|Piast]]** Polish state (Mieszko I's baptism, 966; the **[[synod-of-gniezno-1000|Act of Gniezno]]**, 1000), **[[premyslid-bohemia|Přemyslid Bohemia]]** (as an imperial fief), the **[[hungary-arpad|Árpád]]** kingdom of Hungary (**[[stephen-i-of-hungary|St Stephen]]**, crowned c. 1000/1001), and **[[kievan-rus|Kievan Rus′]]** — the latter taking Orthodox Christianity from Byzantium at the **[[conversion-of-vladimir-988|conversion of Vladimir I (988)]]**, setting eastern Europe on a confessional path distinct from the Latin west.
 
-**The formation of Japan and unified Korea.** [[japan|Japan]] built a Chinese-style imperial court (Nara 710, Heian 794) and Buddhist state; in Korea, [[silla|Silla]] unified the peninsula (668) before yielding to [[goryeo|Koryŏ]] (935). See [[east-asia-classical]].
+**The formation of Japan and unified Korea.** [[japan|Japan]] built a Chinese-style imperial court (Nara 710, Heian 794) and Buddhist state; in Korea, Silla unified the peninsula (668) before yielding to Koryŏ (935). See east-asia-classical.
 
 **African and Indian Ocean networks.** [[ghana-empire|Ghana]] rose on the trans-Saharan gold–salt trade; the [[swahili-coast|Swahili coast]] and [[aksum|Aksum/Ethiopia]] tied East Africa into a flourishing Indian Ocean commerce, intensified by Islam. See [[trans-saharan-trade]] and [[indian-ocean-trade]].
 
@@ -82,10 +82,11 @@ Abbasid devolution), opening onto the [[high-middle-ages]].
 - The post-Carolingian western kingdoms: the **[[capetian-dynasty|Capetians]]** (Hugh Capet, 987) over a fragmenting west Francia of [[treaty-of-saint-clair-sur-epte-911|Normandy]], Flanders, and Aquitaine; the **[[kingdom-of-italy|kingdom of Italy]]** (Berengar, Hugh of Arles); and the precociously centralised **[[kingdom-of-england-late-anglo-saxon|late Anglo-Saxon England]]** (Æthelstan, Edgar, the Benedictine reform, then the Danish conquest of 1016).
 - **[[mercia]]** and the Anglo-Saxon kingdoms; **[[offa-of-mercia|Offa]]**.
 - **[[empire-of-samo|Samo's Empire]]**.
+- The **[[rurikid-dynasty|Rurikid Dynasty]]** and **[[kievan-rus|Kievan Rus′]]**; **[[oleg-of-kiev]]**, **[[olga-of-kiev|Olga]]**, **[[sviatoslav-i|Svyatoslav I]]**, and Grand Prince Vladimir I (the Great) (see **[[conversion-of-vladimir-988]]**).
 - **[[tang-dynasty]]** China.
-- **[[silla]]** / **[[goryeo|Koryŏ]]** Korea; Nara/Heian **[[japan]]**.
+- **silla** / **Koryŏ** Korea; Nara/Heian **[[japan]]**.
 - **[[ghana-empire|Ghana]]**, the **[[swahili-coast|Swahili city-states]]**.
-- Steppe powers: the **[[gokturk|Türk khaganates]]**, Uyghurs, Khazars.
+- Steppe powers: the **Türk khaganates**, Uyghurs, Khazars.
 
 ## Geographic Scope
 
@@ -111,4 +112,4 @@ The most fully integrated Afro-Eurasian system the world had yet seen: a continu
 
 Note a specific narrative gap: as explained in the volume's Preface (p. xiii), a planned chapter on Romans and Lombards in Italy in the seventh century was never submitted for NCMH Vol. 1, leaving a gap in the narrative of seventh-century Italy in our backbone reference source.
 
-Gaps per CLAUDE.md: the interior of sub-Saharan Africa, Southeast Asia, and South Asia remain comparatively thin; post-1500 material is outside this period.
+Gaps per CLAUDE.md: the interior of sub-Saharan Africa, Southeast Asia, and South Asia remain comparatively thin; post-1500 material is outside this period. The gap on Russia and Eastern Europe has been addressed by the ingestion of Riasanovsky (2000).

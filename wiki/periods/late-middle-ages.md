@@ -1,14 +1,14 @@
 ---
 title: Late Middle Ages
 period_number: 18
-preceded_by: [[[high-middle-ages|High Middle Ages]]]
-followed_by: [[[early-modern|Early Modern]]]
+preceded_by: [[high-middle-ages|High Middle Ages]]
+followed_by: [[early-modern|Early Modern]]
 date_range: "1300–1500 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road, mesoamerica, andes]
 major_themes: ["the Pax Mongolica and the integrated Eurasian system", "the Black Death and the fourteenth-century crisis", "the breakup of the Mongol empire and Timur", "the rise of the Ottomans and the fall of Constantinople (1453)", "Ming China and the Zheng He voyages", "the apogee of Mali (Mansa Musa)", "the rise of the Aztec and Inca empires", "the eve of European oceanic expansion"]
 collection_coverage: strong
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-22
 tags: [period]
 ---
 
@@ -27,15 +27,15 @@ connection breeds vulnerability as well as wealth.
 
 The recovery reshaped the political map. The Mongol order fragmented and was
 briefly revived by [[timur|Timur]] (d. 1405); the **[[ottoman-empire|Ottomans]]**
-rose to take [[constantinople|Constantinople]] in 1453, ending the
+rose to take Constantinople in 1453, ending the
 [[byzantine-empire|Byzantine Empire]]; **[[ming-dynasty|Ming]] China** turned the
-treasure fleets of [[zheng-he|Zheng He]] (1405–1433) across the Indian Ocean and
+treasure fleets of Zheng He (1405–1433) across the Indian Ocean and
 then withdrew them; [[mali-empire|Mali]] reached its apogee under [[mansa-musa|Mansa
 Musa]]; and in the Americas the **[[aztec-empire|Aztec]]** and **[[inca-empire|Inca]]**
 empires assembled the largest states the hemisphere had known. By 1500 — the
 volume's terminus — Europe's improving cartography and gunpowder navies were
 poised to weld the two hemispheres into one world, the threshold that the next
-volume ([[bentley-cwh-v6|CWH VI]]) takes up.
+volume (CWH VI) takes up.
 
 ## Major Developments
 
@@ -54,19 +54,21 @@ collapse, social upheaval, and economic restructuring across Afro-Eurasia. See
 Ilkhanate, Golden Horde, Chaghatai) fragmented; [[timur|Timur]] briefly rebuilt a
 Central Asian empire from Samarkand before his death in 1405.
 
+**The Rise of Moscow and overthrow of the Mongol yoke.** In Eastern Europe, the principality of Moscow consolidated its power as the center of the 'gathering of the Russian lands' under the Rurikid dynasty. **[[ivan-i-kalita|Ivan I Kalita]]** secured the grand princely title and tribute-collection rights. Under **[[dmitry-donskoy|Dmitry Donskoy]]**, Moscow led a Russian coalition to defeat the Golden Horde at the **[[battle-of-kulikovo-1380|Battle of Kulikovo]]** (1380). This process culminated under Ivan III (the Great), who annexed Novgorod (1478) and formally threw off Mongol suzerainty at the **[[stand-on-the-ugra-1480|Stand on the Ugra]]** (1480), laying the foundations of Muscovite autocracy (see **[[rise-of-moscow|The Rise of Moscow]]**).
+
 **The rise of the Ottomans.** The [[ottoman-empire|Ottoman]] gunpowder state
-absorbed the Balkans and Anatolia and took [[constantinople|Constantinople]]
+absorbed the Balkans and Anatolia and took Constantinople
 (1453), extinguishing the last Roman state and mastering, with the Europeans, the
 new gunpowder warfare that closes the period (Rogers).
 
 **Ming China and the treasure voyages.** The [[ming-dynasty|Ming]] (1368) restored
-a Han-Chinese empire; [[zheng-he|Zheng He's]] vast fleets reached East Africa
+a Han-Chinese empire; Zheng He's vast fleets reached East Africa
 (1405–1433) before the voyages were discontinued and their records destroyed.
 
 **The apogee of Mali and the Sahelian states.** [[mali-empire|Mali]] under
 [[mansa-musa|Mansa Musa]] (whose 1324 pilgrimage placed him on the 1375 Catalan
 Atlas) dominated the trans-Saharan gold trade; Gao expanded toward the Songhay
-Empire. See [[western-sudan-states]].
+Empire. See western-sudan-states.
 
 **The rise of the American empires.** [[aztec-empire|Tenochtitlan's Triple Alliance]]
 (from 1428) and the [[inca-empire|Inca]] (from 1438) built the largest
@@ -75,8 +77,9 @@ pre-Columbian states — the subjects of the volume's final two chapters.
 ## Key Actors
 
 - The Mongol successor states: **Yuan**, **Ilkhanate**, **Golden Horde**, **Chaghatai**; **[[timur|Timur]]**.
+- The rising **[[rurikid-dynasty|Rurikids of Moscow]]**; **[[ivan-i-kalita|Ivan I Kalita]]**, **[[dmitry-donskoy|Dmitry Donskoy]]**, and Ivan III (the Great) (see **[[rise-of-moscow|The Rise of Moscow]]**).
 - The **[[ottoman-empire|Ottomans]]**; the fall of **[[byzantine-empire|Byzantium]]** (1453).
-- **[[ming-dynasty|Ming China]]**; **[[zheng-he|Zheng He]]**.
+- **[[ming-dynasty|Ming China]]**; **Zheng He**.
 - **[[mali-empire|Mali]]** and **[[mansa-musa|Mansa Musa]]**; Gao/Songhay.
 - Latin Europe: the Hundred Years' War states, the Italian Renaissance city-states, Iberia on the eve of Atlantic expansion.
 - The **[[aztec-empire|Aztec]]** and **[[inca-empire|Inca]]** empires.
@@ -100,15 +103,15 @@ navigation begins to close the hemispheric gap.
 [[kedar-cwh-v5-2015|CWH V]]. The threshold events are the European voyages of
 oceanic exploration (Portuguese rounding of Africa from the 1480s; Columbus 1492)
 and the mastery of gunpowder, which together open the [[early-modern|Early Modern]]
-period and the genuine globalization taken up by [[bentley-cwh-v6|CWH VI]]. This is
-a true [[transition]]: 1492 and the Columbian Exchange is a standing transition
+period and the genuine globalization taken up by CWH VI. This is
+a true transition: 1492 and the Columbian Exchange is a standing transition
 page on the wiki's list.
 
 ## Historiography
 
 **Source quality.** Very rich for the Eurasian core and now, increasingly, for the
 connections between regions: the Mongol-era world historians (above all
-[[rashid-al-din|Rashid al-Din]]'s *Compendium of Chronicles*, c. 1300 — the one
+Rashid al-Din's *Compendium of Chronicles*, c. 1300 — the one
 near-hemispheric history of the age), the great travel accounts (Marco Polo, Ibn
 Battuta, Wang Dayuan), Ming and European archives, and abundant material evidence.
 For the Americas, Spanish-recorded indigenous traditions (Aztec annals, Inca
@@ -137,6 +140,6 @@ post-1500 Islamic worlds and for the Americas (archaeology only). Only
 [[kedar-cwh-v5-2015|CWH V]] has been ingested for this period to date, giving the
 world-systemic frame and comparative coverage of the Mongol aftermath, the Sahelian
 states, and the American empires. The *New Cambridge Medieval History* Vols. 6–7
-(Phase 3) and [[bentley-cwh-v6|CWH VI]] are the principal sources still to be
+(Phase 3) and CWH VI are the principal sources still to be
 ingested for narrative depth; Ottoman, Timurid, Ming, Aztec, and Inca specialist
-material remains a gap.
+material remains a gap. The gap on Russia and Eastern Europe has been addressed by the ingestion of Riasanovsky (2000).

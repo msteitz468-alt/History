@@ -1,0 +1,28 @@
+---
+title: Vladimir
+place_type: city
+modern_equivalent: Vladimir, Vladimir Oblast, Russia
+coordinates: [56.1290, 40.4066]
+period_active: [High Middle Ages, Late Middle Ages, Early Modern]
+controlled_by: [Rurikid princes of Vladimir-Suzdal, the Golden Horde (overlordship), [[moscow|Moscow]]]
+events_here: [the transfer of the Grand Princely seat (1169), the Mongol sack of Vladimir (1238)]
+processes_here: [the shift of the Russian political center to the northeast, forest colonization]
+sources_ingested: 1
+last_updated: 2026-06-22
+tags: [place, eastern-europe, high-middle-ages, late-middle-ages]
+---
+# Vladimir
+## Description
+**Vladimir** (historically Vladimir-on-the-Klyazma) is an ancient city in northeastern European Russia, situated on the Klyazma River. Founded in the late eleventh or early twelfth century (possibly by Vladimir Monomakh), Vladimir replaced Kiev as the political and economic center of the Russian state in the late twelfth century, becoming the capital of the powerful Grand Principality of Vladimir-Suzdal.
+
+## Historical Significance
+As Kiev declined in the twelfth century, the center of Russian political gravity shifted north and east to the Volga-Oka forest zone. In **1169 CE**, Grand Prince **Andrew Bogoliubskii** sacked Kiev and transferred the seat of the Grand Prince to his favorite northern town of Vladimir, making it the capital of Great Russia (l. 1427). His brother, Vsevolod III ("of the Large Nest"), ruled from Vladimir until 1212 CE, building fortresses, palaces, and magnificent stone churches.
+
+Vladimir developed a brilliant and original school of stone architecture, blending Byzantine models with Romanesque influences from the West. Key monuments include:
+* The **Cathedral of the Assumption** (Dormition Cathedral), which served as the coronation site of the grand princes and the prototype for the cathedral in the Moscow Kremlin.
+* The **Cathedral of Saint Dmitrii**, famous for its intricate relief carvings.
+* The nearby **Church of the Intercession of the Virgin on the Nerl** (1166–1171 CE), widely celebrated as a masterpiece of medieval Russian architecture (l. 1077).
+
+In **1238 CE**, Vladimir was besieged, captured, and sacked by the Mongols under Batu, who massacred the population and killed the grand princely family. Under the Mongol yoke, the title of "Grand Prince of Vladimir" remained the supreme title in Russia, and the khans of the Golden Horde invested the Russian princes with this office in Vladimir. 
+
+In the fourteenth century, Moscow defeated its rivals (notably Tver) and annexed the Grand Principality of Vladimir. Grand Prince Ivan Kalita added the territory directly to Moscow's domain, though the grand princely title remained technically linked to Vladimir.

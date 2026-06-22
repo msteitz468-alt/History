@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-22 ingest-complete | A History of Russia (6th Edition) (Riasanovsky, 2000) | Early Middle Ages → Contemporary | eastern-europe, steppe, central-asia, east-asia | Pages created: 150 (1 source page + 149 from 4 parallel weighted agents) | Pages updated: 12 | The wiki's first sustained Russian history backbone, addressing the deepest regional gap in the collection (Critical Gap 8: Russia and Eastern Europe). Spans from early Slavic prehistory, Kievan Rus', and appanage fragmentation, to the rise of Moscow, the Tsardom and Russian Empire, the Soviet Union, and the Russian Federation to 2000. Weighted line-range extraction guide for 4 parallel agents (Prehistory/Kievan, Muscovy/18th Century, 19th Century, Soviet/Federation). Main thread consolidated, deduplicated naming collisions, updated all 9 Russian-related period overviews, resolved 0 broken links. Filed source to raw/4. Modern Times/.
+
 ## 2026-06-22 ingest-complete | The Muqaddimah (Ibn Khaldun, full Rosenthal translation) | Late Middle Ages | north-africa, near-east, iran-plateau | Pages created: 23 (2 scaffold + 21 from 8 weighted agents) | Pages updated: 0 | Primary source — the founding text of the philosophy of history. ilm al-umran; asabiyya->royal authority->the dynastic cycle; cities & sedentary decline; the labor theory of value & fiscal theory of decline; the critique of the sciences; his critical historiographical method. 8 agents weighted toward the sociology (chs I-V) over the link-heavy sciences survey (ch VI). Reconciliation consolidated 3 overlapping dynastic-cycle pages into one. Enriches existing ibn-khaldun + asabiyyah. 0 broken.
 
 ## 2026-06-22 ingest-complete | The Cambridge Companion to Arabic Philosophy (Adamson & Taylor, eds., 2005) | Early-Late Middle Ages | near-east, iran-plateau, iberia | Pages created: 13 (3 lean agents) | Pages updated: 0 | Lean enrichment over already-ingested philosophy: figure chapters linked (existed); value in the systematic-topic pages (logic, natural philosophy, soul, metaphysics, political philosophy) + the Latin-West reception (Toledo translators, Latin Averroism, Gerard of Cremona). 0 broken.
@@ -652,7 +654,7 @@ overarching war page; resolves the wiki-wide `[[peloponnesian-war]]` link, with 
 to the Cycle-7 pages), `events/archidamian-war.md`, `events/plague-of-athens-430bce.md`,
 `actors/cleon.md`, `actors/brasidas.md`. Updated: `actors/pericles.md` (war leadership,
 strategy, Funeral Oration, plague death). Dangling links for Cycle 7: `[[sicilian-expedition]]`,
-`[[fall-of-athens-404bce]]`; also still open: `[[archidamus-ii]]`, `[[corinth]]`.
+`[[fall-of-athens-404bce]]`; also still open: `archidamus-ii`, `[[corinth]]`.
 
 ## 2026-06-11 section | CAH Vol. V (Lewis et al. 1992) | Cycle 5 — Greek culture, religion & society (Ch. 8a–8h: Pollitt, Wycherley, Richardson, Burkert, Knox, Davies, Ostwald) | Classical Antiquity | central-greece, aegean | Pages created: 5 | Pages updated: 3
 
@@ -712,8 +714,8 @@ and "after the peace" (Thucydides son of Melesias ostracized 443, Thurii 444/3, 
 `[[first-peloponnesian-war]]`, `[[peace-of-callias-449bce]]`, `[[thirty-years-peace-446bce]]`
 and `[[pausanias-regent]]` dangling links. Updated: `actors/sparta.md` (Sparta after the
 Persian Wars; sources 2→3), `actors/delian-league.md` (instruments of empire + the Samian
-revolt). Dangling links still open: `[[parthenon]]`, `[[areopagus]]`, `[[archidamian-war]]`,
-`[[naupactus]]`, `[[corinth]]` (exists?), `[[aegina]]` (exists).
+revolt). Dangling links still open: `[[parthenon]]`, `areopagus`, `[[archidamian-war]]`,
+`naupactus`, `[[corinth]]` (exists?), `[[aegina]]` (exists).
 
 ## 2026-06-11 section | CAH Vol. V (Lewis et al. 1992) | Cycle 2 — The Delian League to 449 (Ch. 3, Rhodes) + The Athenian Revolution (Ch. 4, Rhodes) | Classical Antiquity | aegean, central-greece | Pages created: 7 | Pages updated: 3
 
@@ -735,7 +737,7 @@ the fall of Themistocles (ostracism, medism charge, flight to Artaxerxes). Creat
 `concepts/ostracism.md` (fifth-century ostracisms), `places/athens-fifth-century.md` (Ephialtic
 reform + empire mechanics). New dangling links to resolve later: `[[peace-of-callias-449bce]]`,
 `[[thirty-years-peace-446bce]]`, `[[first-peloponnesian-war]]`, `[[pausanias-regent]]`,
-`[[areopagus]]`, `[[parthenon]]`, `[[archidamian-war]]`.
+`areopagus`, `[[parthenon]]`, `[[archidamian-war]]`.
 
 ## 2026-06-11 section | CAH Vol. V (Lewis et al. 1992) | Cycle 1 — Sources/Chronology/Method (Ch. 1, Lewis) + Greece after the Persian Wars (Ch. 2, Davies) | Classical Antiquity | aegean, central-greece, mediterranean | Pages created: 3 | Pages updated: 5
 
@@ -758,7 +760,7 @@ fifth-century crisis of the polis), `concepts/coinage.md` (post-war monetization
 `processes/trade-network-formation.md` (the grain-trade revolution). Standing dangling
 links to resolve in later cycles: `[[delian-league]]`, `[[peloponnesian-war]]`,
 `[[ephialtes]]`, `[[pericles]]`, `[[cimon]]`, `[[brasidas]]`, `[[herodotus]]`,
-`[[panhellenic-games]]`, `[[delos]]`.
+`[[panhellenic-games]]`, `delos`.
 
 ## 2026-06-11 phase-start | CAH Vol. V — The Fifth Century B.C. (Lewis, Boardman, Davies & Ostwald eds., 1992) | Structural map read (TOC + preface; 11 chapters, Ch. 8 subdivided 8a–8h, running 479→404 BC). Source page `sources/lewis-cah-v5-1992.md` written with frontmatter and a 7-cycle Section Plan committed to disk. The direct continuation of CAH IV; narrows to the Greek world (Persia/west deferred to Vol. VI). Beginning Cycle 1 (Chs 1–2: sources/chronology/method + Greece after the Persian Wars).
 
@@ -1001,11 +1003,11 @@ complex society, Soninke/Ghana legacy; sources_ingested 1→2). Resolves danglin
 Health check across all 58 pages. Mandatory-field check clean: all 4 event pages
 have populated causes/consequences; all 6 period pages have Historiography sections.
 RESOLVED (link management): (1) 4 malformed prose-as-wikilinks de-linked or
-consolidated — `[[Oldowan stone tool technology]]` + `[[Oldowan and Acheulean
-stone tool technologies]]` → single slug `[[oldowan-acheulean-technology]]`;
-`[[brain size increase and dietary shift in early Homo]]` and `[[colonization of
+consolidated — `Oldowan stone tool technology` + `[[Oldowan and Acheulean
+stone tool technologies]]` → single slug `oldowan-acheulean-technology`;
+`brain size increase and dietary shift in early Homo` and `[[colonization of
 Siberia]]` → plain text (latter matches existing frontmatter). (2) Folded case
-study `[[brzesc-kujawski]]` redirected to [[early-agriculture-europe]] per the
+study `brzesc-kujawski` redirected to [[early-agriculture-europe]] per the
 fold-into-regional-pages decision; stale "(Cycle N)" annotations removed in
 neolithic-communities.md. (3) Orphan period page deep-prehistory given an inbound
 link from early-prehistory Transition. Post-fix: 0 malformed links; remaining 8
@@ -1028,7 +1030,7 @@ landscapes, no herd animals, Nanchoc valley folded in); processes/early-agricult
 (Chs 22–23, Whittle + Bogucki/Grygiel — leapfrog colonization+assimilation,
 regional diversity, household production critique of intensification, materiality/
 worldview, Brześć Kujawski longhouses/burials/copper folded in). Resolves dangling
-[[early-agriculture-europe]]. New dangling: [[pre-columbian-population-debate]]
+[[early-agriculture-europe]]. New dangling: pre-columbian-population-debate
 (standing controversy for a future Americas source).
 
 ## 2026-06-10 section | Cambridge World History Vol. III | Section: Cycle 1 — Introduction & framing (Ch. 1, Yoffee & Terrenato) | Pages created: 6 | Pages updated: 1
@@ -1108,7 +1110,7 @@ Monks Mound, grid+Grand Plaza, axis mundi, Mound 72 sacrifice, abandoned by 1350
 places/jerusalem.md (Killebrew Ch 20 — city created/recreated "in stone and imagination,"
 City of David to Dome of the Rock, contested archaeology); concepts/founded-cities.md
 (Ch 22 synthesis "Imagined cities" — foundation + imagination, Kostof/Sontag/Yoffee).
-Resolves danglers [[baghdad]], [[cahokia]], [[jerusalem]]. New: [[pre-columbian-population-debate]].
+Resolves danglers [[baghdad]], [[cahokia]], [[jerusalem]]. New: pre-columbian-population-debate.
 
 ## 2026-06-10 section | Cambridge World History Vol. III | Section: Cycle 7 — Part VI, Early Imperial Cities (Chs. 23–26) | Pages created: 4 | Pages updated: 0
 
@@ -1157,8 +1159,8 @@ independent sub-Saharan iron; bumped sources_ingested to 2) and places/jenne-jen
 trans-Saharan trade-node role and Tichitt→Ghana commercial lineage; bumped sources_ingested to
 3). Resolves dangling [[aksum]], [[ghana-empire]], [[trans-saharan-trade]], [[garamantes]],
 [[nok-culture]], [[kush-meroe]]. Still dangling for future sourcing: [[indian-ocean-trade]],
-[[swahili-coast]] (Rhapta/Azania noted within aksum), [[islamization]], [[christianization]],
-[[african-ironworking]], [[reliability-of-herodotus]]. Note: sub-Saharan Africa is otherwise
+[[swahili-coast]] (Rhapta/Azania noted within aksum), islamization, christianization,
+african-ironworking, reliability-of-herodotus. Note: sub-Saharan Africa is otherwise
 absent/weak in the collection (CLAUDE.md map) — these pages honestly reflect an
 archaeology-and-Arabic-sources base. This completes the ten reading cycles of Vol. IV; next is
 the Step 3 synthesis pass.
@@ -1179,8 +1181,8 @@ southeast-asia-pacific (added McNiven's New Guinea agricultural intensification 
 societies, and the maritime peopling cross-link; bumped sources_ingested to 2). Resolves /
 connects dangling [[austronesian-dispersal]], [[australasian-colonization-timing]] (existing
 controversies now linked). Still dangling for later cycles / future sourcing:
-[[state-formation]], [[trade-network-formation]], [[geographic-determinism-diamond]],
-[[pre-columbian-population-debate]]. Note: Oceania is otherwise absent from the collection
+[[state-formation]], [[trade-network-formation]], geographic-determinism-diamond,
+pre-columbian-population-debate. Note: Oceania is otherwise absent from the collection
 (CLAUDE.md map) — this single chapter is the wiki's whole base for the region.
 Next: Cycle 10 — Africa (Chs 23–24, Burstein & Austen).
 
@@ -1203,9 +1205,9 @@ places/tikal (added Classic Maya divine kingship, stelae, Long Count, and the 79
 collapse cascade that CWH III had deferred), places/cahokia (added the deep mound-building
 lead-up: Poverty Point→Hopewell→Late Woodland platform mounds→Mississippian c. 950 CE).
 Resolves dangling [[teotihuacan]] (deepened), [[cahokia]] (deepened). Still dangling for later
-cycles / future sourcing: [[chavin]], [[state-formation]], [[empire]], [[urbanization]],
-[[trade-network-formation]], [[writing-and-record-keeping]], [[pre-columbian-population-debate]],
-[[great-man-vs-structural-causation]], [[ruralization]]. Note: Americas coverage remains
+cycles / future sourcing: chavin, [[state-formation]], [[empire]], [[urbanization]],
+[[trade-network-formation]], [[writing-and-record-keeping]], pre-columbian-population-debate,
+great-man-vs-structural-causation, [[ruralization]]. Note: Americas coverage remains
 archaeology-only per the CLAUDE.md collection map — these pages are honest to that thin base.
 Next: Cycle 9 — Australasia & the Pacific (Ch 22, McNiven).
 
@@ -1229,9 +1231,9 @@ actors/kushan-empire (added Kanishka, the Fourth Buddhist Council in Kashmir, de
 rajatiraja/kaisara titulature, the Gandhara and Mathura sculpture schools). Resolves dangling
 [[ashoka]], [[buddha]], [[mauryan-empire]], [[chandragupta-maurya]], [[gupta-empire]],
 [[caste-varna]], [[jainism]], [[hinduism]], [[vedic-age]]. Still dangling for later cycles:
-[[feudalism]], [[hunnic-migrations]], [[caliphate]]/[[abbasid-caliphate]]/[[umayyad-caliphate]],
-[[islam]], [[universal-religions]], [[indian-ocean-trade]], [[aksum]], [[ghana-empire]],
-[[swahili-coast]], [[meroe]], [[trans-saharan-trade]]. Next: Cycle 8 — The Americas (Chs 20–21).
+[[feudalism]], hunnic-migrations, caliphate/[[abbasid-caliphate]]/[[umayyad-caliphate]],
+[[islam]], universal-religions, [[indian-ocean-trade]], [[aksum]], [[ghana-empire]],
+[[swahili-coast]], meroe, [[trans-saharan-trade]]. Next: Cycle 8 — The Americas (Chs 20–21).
 
 ## 2026-06-10 section | Cambridge World History Vol. IV | Section: Cycle 6 — East Asia (Chs 15–17) | Pages created: 16 | Pages updated: 2
 Processed Ch 15 (East Asia, Holcombe), Ch 16 (Confucianism and the state, Xinzhong Yao),
@@ -1254,8 +1256,8 @@ transformation, Buddhist monasteries as infrastructure, Talas 751) and actors/pa
 empire (Persian silk-weaving rivalry; Gan Ying turned back 97 CE). Resolves dangling
 [[han-dynasty]], [[tang-dynasty]], [[kushan-empire]], [[buddhism]], [[confucianism]],
 [[mandate-of-heaven]], [[xiongnu]], [[sogdians]]. Still dangling for later cycles:
-[[ashoka]], [[buddha]], [[mauryan-empire]], [[gupta-empire]], [[caliphate]]/[[abbasid-caliphate]]/[[umayyad-caliphate]],
-[[gokturk]], [[universal-religions]], [[islam]], [[feudalism]], [[mediterranean-world]],
+[[ashoka]], [[buddha]], [[mauryan-empire]], [[gupta-empire]], caliphate/[[abbasid-caliphate]]/[[umayyad-caliphate]],
+gokturk, universal-religions, [[islam]], [[feudalism]], [[mediterranean-world]],
 [[indian-ocean-trade]]. Next: Cycle 7 — South Asia (Chs 18–19).
 
 ## 2026-06-10 section | Cambridge World History Vol. IV | Section: Cycle 5 — Mediterranean & Late Antique Europe (Chs 12–14) | Pages created: 11 | Pages updated: 0
@@ -1279,9 +1281,9 @@ Pirenne). CWH IV (Pazdernik) framing emphasized transformation-not-fall read fro
 surviving Constantinople. Resolves dangling [[alexander-the-great]], [[hellenistic-world]],
 [[byzantine-empire]], [[carolingian-empire]], [[roman-republic]], [[roman-empire]].
 Still dangling for later cycles: [[han-dynasty]], [[kushan-empire]], [[parthian-empire]]
-(created Cyc 4), [[caliphate]], [[buddhism]], [[christianity]], [[hunnic-migrations]],
-[[macedon]], [[carthage]], [[thucydides]], [[herodotus]], [[feudalism]],
-[[great-man-vs-structural-causation]]. Next: Cycle 6 — East Asia (Chs 15–17).
+(created Cyc 4), caliphate, [[buddhism]], [[christianity]], hunnic-migrations,
+macedon, [[carthage]], [[thucydides]], [[herodotus]], [[feudalism]],
+great-man-vs-structural-causation. Next: Cycle 6 — East Asia (Chs 15–17).
 
 ## 2026-06-10 section | Cambridge World History Vol. IV | Section: Cycle 4 — Part II Western & Central Eurasia (Chs 10–11: Daryaee, Lerner) | Pages created: 7 | Pages updated: 0
 
@@ -1295,7 +1297,7 @@ middleman; quasi-feudal), actors/sasanian-empire (Zoroastrian state religion;
 concepts/zoroastrianism (Gathas ~1000 BCE; Axial case; state religion), places/bactria
 (BMAC/Oxus Civ→Achaemenid→Ai Khanum/Greco-Bactrian→Kushan crossroads). Resolves many
 dangling links from Cycles 1–3. Still dangling for later cycles: [[alexander-the-great]],
-[[hellenistic-world]], [[kushan-empire]], [[caliphate]]/[[umayyad-caliphate]]/[[abbasid-caliphate]],
+[[hellenistic-world]], [[kushan-empire]], caliphate/[[umayyad-caliphate]]/[[abbasid-caliphate]],
 [[byzantine-empire]]. Next: Cycle 5 — Mediterranean & Late Antique Europe (Chs 12–14).
 
 ## 2026-06-10 section | Cambridge World History Vol. IV | Section: Cycle 3 — Part I-B (Chs 6–9: Science & Technology, Gender & Sexuality, Art, Pastoral Nomads) | Pages created: 3 | Pages updated: 2
@@ -1337,8 +1339,8 @@ periods/archaic-period, periods/classical-antiquity, periods/late-antiquity,
 periods/early-middle-ages (periods 12–16, none existed before); processes/state-formation,
 processes/empire, processes/trade-network-formation, processes/silk-roads.
 Many dangling links seeded for later cycles ([[achaemenid-empire]], [[han-dynasty]],
-[[axial-age]], [[caliphate]], [[sasanian-empire]], etc.) plus standing-controversy
-stubs to promote ([[bronze-age-collapse-causes]], [[fall-of-rome-causes]],
+[[axial-age]], caliphate, [[sasanian-empire]], etc.) plus standing-controversy
+stubs to promote (bronze-age-collapse-causes, [[fall-of-rome-causes]],
 [[herodotus-reliability]], [[axial-age-controversy]]). index.md to be updated in
 the Step 3 synthesis pass. Next: Cycle 2 — Part I-A (Chs 2–5: economy, gender/power,
 slavery, Axial Age).
@@ -1987,7 +1989,7 @@ Whole-volume connections drawn in the synthesis: (1) the **complementary Part 1 
 
 Began the Large-Volume ingest of *History of West Africa* Vol. I, the standard nationalist-era (Ibadan-school) reference, completing the wiki's Gap-2 (sub-Saharan Africa) West-Africa block after the GHA series. Cycle 1 covers the three thematic introductory chapters. Mabogunje (Ch. 1, land & peoples) supplies the regional framework — the east–west succession of ecological zones (Sahara/Sahel/savannah/forest/coast), the ethnographic survey of peoples (Mande, Senegambian, Songhay, Mossi, Hausa, Kanuri, the forest peoples, Fulani), and the "movement south" thesis (geography permissive, not deterministic). Shaw (Ch. 2, prehistory) on West Africa's independent tropical domesticates (yams, African rice, fonio, sorghum/millet), the Saharan-desiccation barrier that meant sub-Saharan Africa skipped the Bronze Age and re-entered wider contact through iron, the Nok culture as the earliest sub-Saharan ironworking (with the Meroe-vs-Carthage diffusion debate), and the Igbo-Ukwu/cire-perdue bronze tradition. Horton (Ch. 3, stateless societies) — the conceptually pivotal chapter — defines statelessness (four-point definition; ~35 million West Africans), the segmentary-lineage typology (Type 1 Tiv/Ibo vs territorial Types 2/3), and the indigenous-development model of state formation (continuity not rupture; trade as engine; rejection of the Hamitic Hypothesis).
 
-Created: `concepts/stateless-societies.md`, `controversies/hamitic-hypothesis-african-states.md`, `places/west-africa.md` (the regional anchor for the whole volume). Updated: `actors/nok-culture.md` (sources 2→3; added the Saharan-barrier/no-Bronze-Age framing and the diffusion-vs-independence revisionism, Shaw favouring diffusion in 1966 against the later CWH IV/GHA II independence consensus), `processes/state-formation.md` (sources 4→5; Horton's bottom-up West African model), `processes/early-african-food-production.md` (sources 2→3; Shaw's West African indigenous domesticates), `concepts/griot-oral-tradition.md` (sources 1→2; the states-vs-stateless oral-tradition asymmetry as a source bias). Forward links left for later cycles: [[niger-delta-city-states]], [[mossi-states]], [[igbo-people]], [[ife]], [[fulani]].
+Created: `concepts/stateless-societies.md`, `controversies/hamitic-hypothesis-african-states.md`, `places/west-africa.md` (the regional anchor for the whole volume). Updated: `actors/nok-culture.md` (sources 2→3; added the Saharan-barrier/no-Bronze-Age framing and the diffusion-vs-independence revisionism, Shaw favouring diffusion in 1966 against the later CWH IV/GHA II independence consensus), `processes/state-formation.md` (sources 4→5; Horton's bottom-up West African model), `processes/early-african-food-production.md` (sources 2→3; Shaw's West African indigenous domesticates), `concepts/griot-oral-tradition.md` (sources 1→2; the states-vs-stateless oral-tradition asymmetry as a source bias). Forward links left for later cycles: [[niger-delta-city-states]], [[mossi-states]], igbo-people, ife, fulani.
 
 ## 2026-06-12 section | History of West Africa Vol. I (Ajayi & Crowder, eds., 1971) | Section: Cycle 2 — The Sudanic states to the 16th c. (Chs 4–6) | Pages created: 2 | Pages updated: 10
 
@@ -2039,7 +2041,7 @@ Created: `concepts/gana-sangha.md` (the early Indian republics + the Buddhist so
 
 Cycle 3 covers the post-Mauryan centuries (c. 200 BCE–300 CE). Ch. 5 (Disintegration of Empire): the succession of north-western intrusive powers — Bactrian/Indo-Greeks, Shakas (Scythians displaced by the Yueh-chi; the satrap Rudradaman's Junagarh inscription), and Kushanas (Kujula, Vima, Kanishka, the Shaka Era of 78 CE, the Fourth Buddhist Council, missions to China) — the Satavahanas of the Deccan (the north–south bridge; Gautamiputra's defeat of the Shakas), and the Sangam-age Tamil south (Cheras/Cholas/Pandyas, Sangam literature, Murugan, Roman trade); plus the trade routes (the Royal Highway/Grand Trunk Road, the monsoon, the Old Silk Road). Ch. 6 (Rise of the Mercantile Community): guilds (shreni, the Nasik inscription, guild-as-banker), the money economy, the Roman trade with South India (the Periplus, Arikamedu, the bullion drain Pliny decried), the Indianization of Southeast Asia (merchants and brahmans, Kaundinya in Cambodia), Sino-Indian Buddhist contact (White Horse Monastery, the oasis monasteries), Indo-Hellenic exchange (Gandhara art, Buddha–Christ parallels), and the social strain of assimilating foreigners ("fallen kshatriyas," Manu's law code).
 
-Created: `actors/satavahana-empire.md`, `actors/sangam-age-south-india.md`, `processes/indianization-of-southeast-asia.md` (a foundational Gap-3/Southeast Asia page). Updated: `actors/kushan-empire.md` (1→2; the Greek→Shaka→Kushana succession & the "fallen kshatriya" device), `processes/indian-ocean-trade.md` (2→3; the classical Roman trade), `concepts/mahayana-buddhism.md` (1→2; the Kushan/Gandhara context). Forward links left: [[chola-empire]] (Cycle 4), [[angkor-khmer]], [[periplus-maris-erythraei]], [[south-asia]].
+Created: `actors/satavahana-empire.md`, `actors/sangam-age-south-india.md`, `processes/indianization-of-southeast-asia.md` (a foundational Gap-3/Southeast Asia page). Updated: `actors/kushan-empire.md` (1→2; the Greek→Shaka→Kushana succession & the "fallen kshatriya" device), `processes/indian-ocean-trade.md` (2→3; the classical Roman trade), `concepts/mahayana-buddhism.md` (1→2; the Kushan/Gandhara context). Forward links left: [[chola-empire]] (Cycle 4), angkor-khmer, periplus-maris-erythraei, [[south-asia]].
 
 ## 2026-06-12 section | A History of India Vol. I (Romila Thapar, 1966) | Section: Cycle 4 — The Classical pattern & the South (Chs 7–9) | Pages created: 3 | Pages updated: 2
 
@@ -2073,7 +2075,7 @@ Created: `actors/mughal-empire.md`, `actors/akbar.md`, `actors/aurangzeb.md`. Up
 
 Cycle 2 covers the Mughal collapse and the Company's rise. Ch. 6 (Decline, Collapse, Confusion): the post-1707 disintegration — weak emperors, Nadir Shah's sack of Delhi (1739), the successor states (Hyderabad, Awadh, Bengal), the Marathas and Sikhs, and the Third Battle of Panipat (1761). The Marathas (from Ch. 4): Sivaji's rise (guerrilla war, Afzal Khan, the sack of Surat 1664), Maratha nationalism welding Brahmin and Sudra, and its souring into a hated "Maratha imperialism" defeated before it began. Ch. 5 (Europeans and Mughal India): the Portuguese strong-point empire (Albuquerque, Goa) and its sterile cultural legacy; the Dutch (Amboyna 1623); the English East India Company (1600), driven to India as a "second best," schooled by enforced competition, the Mughals' maritime auxiliary; the French (Dupleix). Chs. 7–9 (the English in Bengal): Plassey (1757), Clive and the puppet Mir Jafar, the "financial bleeding of Bengal," Buxar (1764), the diwani grant (1765) making the Company the Mughal revenue agent, and Warren Hastings giving the Company-state administrative shape.
 
-Created: `actors/maratha-empire.md` (resolving the [[maratha-empire]] forward links), `events/battle-of-plassey-1757.md`. Updated: `actors/english-east-india-company.md` (1→2; Spear's "how the Company won" — the competition-as-schooling thesis, Plassey→diwani→Hastings), `actors/mughal-empire.md` (re-touch; the decline section). Forward links left: [[british-raj]], [[indian-rebellion-1857]], [[bengal]] (Cycle 3).
+Created: `actors/maratha-empire.md` (resolving the [[maratha-empire]] forward links), `events/battle-of-plassey-1757.md`. Updated: `actors/english-east-india-company.md` (1→2; Spear's "how the Company won" — the competition-as-schooling thesis, Plassey→diwani→Hastings), `actors/mughal-empire.md` (re-touch; the decline section). Forward links left: [[british-raj]], [[indian-rebellion-1857]], bengal (Cycle 3).
 
 ## 2026-06-12 section | A History of India Vol. II (Percival Spear, 1965) | Section: Cycle 3 — Conquest & consolidation of the Raj (Chs 10–12) | Pages created: 2 | Pages updated: 0
 
@@ -2107,7 +2109,7 @@ Created: `actors/funan.md` (Funan/Oc Eo & Zhenla), `places/southeast-asia.md` (t
 
 Cycle 2 covers the imperial heart of the book. The founding: Jayavarman II's consecration as chakravartin on Mahendraparvata (AD 802) and the institution of the devaraja ("god who is king") cult; Hariharalaya (Roluos) and the first barays/temple-mountains (Indravarman's Bakong); Yasovarman's move to Angkor. The hydraulic civilization (the Tonle Sap, the great barays, LiDAR-mapped Greater Angkor). The great kings: Suryavarman II (acc. 1113, Vishnu devotee, builder of Angkor Wat with its Churning-of-the-Sea-of-Milk reliefs; the Mannikka solar-cosmology thesis; Cœdès's funerary reading); the Cham sack of Angkor (1177); and the apogee under the Mahayana Buddhist Jayavarman VII (reconquest 1181, Angkor Thom and the Bayon's Avalokiteshvara face-towers, 102 hospitals, the suspension of the devaraja).
 
-Created: `actors/khmer-empire.md` (resolving the [[khmer-empire]]/[[angkor-khmer]] forward-links), `actors/jayavarman-vii.md`. Updated: `places/angkor.md` (2→3; Coe's monumental/dynastic detail added to the existing CWH urbanism page), `concepts/mahayana-buddhism.md` (2→3; the Khmer royal Mahayana under Jayavarman VII). Reconciled the legacy [[angkor-khmer]] link → [[khmer-empire]] in indianization-of-southeast-asia.
+Created: `actors/khmer-empire.md` (resolving the [[khmer-empire]]/angkor-khmer forward-links), `actors/jayavarman-vii.md`. Updated: `places/angkor.md` (2→3; Coe's monumental/dynastic detail added to the existing CWH urbanism page), `concepts/mahayana-buddhism.md` (2→3; the Khmer royal Mahayana under Jayavarman VII). Reconciled the legacy angkor-khmer link → [[khmer-empire]] in indianization-of-southeast-asia.
 
 ## 2026-06-12 section | Angkor and the Khmer Civilization (Michael D. Coe, 2003) | Section: Cycle 3 — Khmer society, religion & decline (Chs 6–7) | Pages created: 1 | Pages updated: 2
 
@@ -2117,7 +2119,7 @@ Created: `concepts/devaraja.md` (the god-king cult). Updated: `actors/khmer-empi
 
 ## 2026-06-12 ingest-complete | Angkor and the Khmer Civilization (Michael D. Coe, 2003) | Total pages created: 5 | Total pages updated: 4 | Sections processed: 3
 
-The wiki's **first dedicated Southeast Asian source**, opening the long-flagged "Absent" SE Asia gap with a complete mainland anchor. Created (5): southeast-asia (regional anchor), funan (Funan/Zhenla), khmer-empire, jayavarman-vii, devaraja. Updated (4): indianization-of-southeast-asia, angkor (the existing CWH urbanism page, deepened with Coe's monuments), mahayana-buddhism, hinduism. Synthesis threads: Indianization as selective local adoption (the devaraja temple-mountain as a sacral-kingship engine), water as the basis of Angkorian power (the hydraulic city & the collapse debate), and the religious arc (Shaiva/Vaishnava devaraja → Jayavarman VII's Mahayana → the Theravada turn). Reconciled the legacy [[angkor-khmer]] link to [[khmer-empire]]. Source `.md` filed to `raw/3. Middle Ages/`. index.md banner + statistics refreshed (total → 1159). **The Khmer/Angkor corner of SE Asia is now anchored; the archipelago (Srivijaya, Majapahit), Burma, Siam, and Vietnam remain — Reid's *Age of Commerce* and the Cambridge History of SE Asia next.** Git commit and push follow.
+The wiki's **first dedicated Southeast Asian source**, opening the long-flagged "Absent" SE Asia gap with a complete mainland anchor. Created (5): southeast-asia (regional anchor), funan (Funan/Zhenla), khmer-empire, jayavarman-vii, devaraja. Updated (4): indianization-of-southeast-asia, angkor (the existing CWH urbanism page, deepened with Coe's monuments), mahayana-buddhism, hinduism. Synthesis threads: Indianization as selective local adoption (the devaraja temple-mountain as a sacral-kingship engine), water as the basis of Angkorian power (the hydraulic city & the collapse debate), and the religious arc (Shaiva/Vaishnava devaraja → Jayavarman VII's Mahayana → the Theravada turn). Reconciled the legacy angkor-khmer link to [[khmer-empire]]. Source `.md` filed to `raw/3. Middle Ages/`. index.md banner + statistics refreshed (total → 1159). **The Khmer/Angkor corner of SE Asia is now anchored; the archipelago (Srivijaya, Majapahit), Burma, Siam, and Vietnam remain — Reid's *Age of Commerce* and the Cambridge History of SE Asia next.** Git commit and push follow.
 
 ## 2026-06-12 section | Reid, Southeast Asia in the Age of Commerce, Vol. 1 | Section: Cycle 1 — The region & physical life (Chs I–II) | Pages created: 1 | Pages updated: 1
 

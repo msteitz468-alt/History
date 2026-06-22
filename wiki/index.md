@@ -53,6 +53,50 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `november-revolution-1918.md` | November Revolution (Germany, 1918) | 1918-10-29 | western-europe |
 | `hindenburg-program-1916.md` | Hindenburg Program (1916–1918) | 1916-08 | western-europe |
 | `dawes-plan-1924.md` | Dawes Plan (1924) | 1924 | western-europe, atlantic-world |
+| `assassination-of-paul-i-1801.md` | Assassination of Paul I | 1801-03-23 | eastern-europe |
+| `august-coup-1991.md` | August Coup | 1991-08-19 | eastern-europe |
+| `battle-of-kulikovo-1380.md` | Battle of Kulikovo | 1380-09-08 | eastern-europe |
+| `battle-of-kursk-1943.md` | Battle of Kursk | 1943-07-05 | eastern-europe |
+| `battle-of-poltava-1709.md` | Battle of Poltava | 1709-07-08 | eastern-europe |
+| `battle-of-stalingrad-1942.md` | Battle of Stalingrad | 1942-08-23 | eastern-europe |
+| `battle-of-the-kalka-river-1223.md` | Battle of the Kalka River | 1223-05-31 | eastern-europe, steppe |
+| `battle-on-the-ice-1242.md` | Battle on the Ice | 1242-04-05 | eastern-europe |
+| `chernobyl-disaster-1986.md` | Chernobyl Disaster | 1986-04-26 | eastern-europe |
+| `conquest-of-astrakhan-1556.md` | Conquest of Astrakhan | 1554 | eastern-europe, steppe |
+| `council-of-florence-1439.md` | Council of Florence | 1439 | western-europe, eastern-europe |
+| `crimean-war-1853.md` | Crimean War | 1853 CE | eastern-europe, near-east, mediterranean-world |
+| `decembrist-revolt-1825.md` | Decembrist Revolt | 1825-12-26 | eastern-europe |
+| `emancipation-of-the-serfs-1861.md` | Emancipation of the Serfs | 1861-03-03 | eastern-europe |
+| `expulsion-of-vsevolod-1136.md` | Expulsion of Prince Vsevolod | 1136 | eastern-europe |
+| `february-revolution-1917.md` | February Revolution (1917) | 1917-03-08 | eastern-europe |
+| `first-chechen-war-1994.md` | First Chechen War | 1994-12-11 | eastern-europe |
+| `first-partition-of-poland-1772.md` | First Partition of Poland | 1772 | eastern-europe |
+| `french-invasion-of-russia-1812.md` | French Invasion of Russia (Patriotic War of 1812) | 1812-06-24 | eastern-europe |
+| `great-northern-war-1700.md` | Great Northern War | 1700 | eastern-europe, northern-europe |
+| `hungarian-revolution-1956.md` | Hungarian Revolution of 1956 | 1956-10-23 | eastern-europe |
+| `legislative-commission-1767.md` | Legislative Commission | 1767 | eastern-europe |
+| `livonian-war-1558.md` | Livonian War | 1558 | eastern-europe, northern-europe |
+| `molotov-ribbentrop-pact-1939.md` | Molotov-Ribbentrop Pact | 1939-08-23 | eastern-europe, western-europe |
+| `october-revolution-1917.md` | October Revolution (1917) | 1917-11-06 | eastern-europe |
+| `prague-spring-1968.md` | Prague Spring | 1968-01-05 | eastern-europe |
+| `pruth-river-campaign-1711.md` | Pruth River Campaign | 1711 | eastern-europe |
+| `pugachev-rebellion-1773.md` | Pugachev Rebellion | 1773 | eastern-europe, steppe |
+| `revolution-of-1905.md` | Revolution of 1905 | 1905-01-22 | eastern-europe |
+| `russian-civil-war-1918.md` | Russian Civil War | 1918-05-25 | eastern-europe, steppe, central-asia |
+| `russian-constitutional-crisis-1993.md` | 1993 Russian Constitutional Crisis | 1993-09-21 | eastern-europe |
+| `russian-financial-crisis-1998.md` | 1998 Russian Financial Crisis | 1998-08-17 | eastern-europe |
+| `second-partition-of-poland-1793.md` | Second Partition of Poland | 1793-01-23 | eastern-europe |
+| `siege-of-kazan-1552.md` | Siege of Kazan | 1552 | eastern-europe, steppe |
+| `stand-on-the-ugra-1480.md` | Stand on the Ugra River | 1480 | eastern-europe |
+| `third-partition-of-poland-1795.md` | Third Partition of Poland | 1795-10-24 | eastern-europe |
+| `time-of-troubles-1598.md` | Time of Troubles | 1598 | eastern-europe |
+| `treaty-of-andrusovo-1667.md` | Treaty of Andrusovo | 1667-01-30 | eastern-europe |
+| `treaty-of-brest-litovsk-1918.md` | Treaty of Brest-Litovsk | 1918-03-03 | eastern-europe |
+| `treaty-of-nystad-1721.md` | Treaty of Nystad | 1721-08-30 | eastern-europe, northern-europe |
+| `treaty-of-rapallo-1922.md` | Treaty of Rapallo | 1922-04-16 | western-europe, eastern-europe |
+| `union-of-pereyaslav-1654.md` | Union of Pereyaslav | 1654-01-18 | eastern-europe |
+| `uprising-of-ivan-bolotnikov-1606.md` | Uprising of Ivan Bolotnikov | 1606 | eastern-europe |
+| `uprising-of-stepan-razin-1670.md` | Uprising of Stepan Razin | 1670 | eastern-europe, steppe |
 
 ---
 
@@ -99,6 +143,27 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `total-war-germany-1914-1918.md` | Total War in Germany, 1914–1918 | World Wars Era | western-europe |
 | `german-war-economy-1914-1945.md` | The German National War Economy, 1914–1945 | World Wars Era | western-europe |
 | `weimar-democracy-and-its-collapse.md` | Weimar Democracy and Its Collapse, 1918–1933 | World Wars Era | western-europe |
+| `brezhnev-stagnation.md` | Brezhnev Stagnation | Cold War | eastern-europe |
+| `colonisation-of-northeast-russia.md` | The Colonization of Northeast Russia | High Middle Ages, Late Middle Ages | eastern-europe |
+| `de-stalinization.md` | De-Stalinization | Cold War | eastern-europe |
+| `dissolution-of-the-soviet-union.md` | Dissolution of the Soviet Union | Cold War | eastern-europe, central-asia, steppe |
+| `eastward-expansion-of-russia.md` | Eastward Expansion of Russia | Early Modern, Age of Expansion | central-asia, east-asia, steppe |
+| `economic-shock-therapy.md` | Economic Shock Therapy | Contemporary | eastern-europe |
+| `glasnost.md` | Glasnost | Cold War, Contemporary | eastern-europe |
+| `great-purge.md` | The Great Purge | World Wars Era | eastern-europe |
+| `great-reforms-of-alexander-ii.md` | The Great Reforms of Alexander II | Long 19th Century | eastern-europe |
+| `industrialization-of-russia.md` | Industrialization of Russia | Long 19th Century, World Wars Era | eastern-europe |
+| `new-economic-policy.md` | New Economic Policy (NEP) | World Wars Era | eastern-europe |
+| `perestroika.md` | Perestroika | Cold War, Contemporary | eastern-europe |
+| `polonisation-of-lithuania.md` | The Polonization of Lithuania | Late Middle Ages, Early Modern | eastern-europe |
+| `populism-in-russia.md` | Populism in Russia (Narodnichestvo) | Long 19th Century, World Wars Era | eastern-europe |
+| `raskol-schism.md` | Raskol (Schism) | Early Modern | eastern-europe |
+| `rise-of-moscow.md` | The Rise of Moscow | Late Middle Ages, Early Modern | eastern-europe |
+| `serfdom-in-russia.md` | Serfdom in Russia | Early Modern, Age of Expansion | eastern-europe |
+| `soviet-collectivization.md` | Soviet Collectivization | World Wars Era | eastern-europe |
+| `soviet-industrialization.md` | Soviet Industrialization | World Wars Era | eastern-europe |
+| `war-communism.md` | War Communism | World Wars Era | eastern-europe |
+| `westernization-of-russia.md` | Westernization of Russia | Early Modern, Age of Expansion | eastern-europe |
 
 ---
 
@@ -112,6 +177,66 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `adolf-hitler.md` | Adolf Hitler | person | World Wars Era |
 | `gustav-stresemann.md` | Gustav Stresemann | person | World Wars Era |
 | `walther-rathenau.md` | Walther Rathenau | person | World Wars Era |
+| `alexander-i.md` | Alexander I of Russia | person | Long 19th Century |
+| `alexander-ii.md` | Alexander II of Russia | person | Long 19th Century |
+| `alexander-iii.md` | Alexander III of Russia | person | Long 19th Century |
+| `alexander-nevsky.md` | Alexander Nevsky | person | High Middle Ages |
+| `anna-ivanovna.md` | Empress Anne | person | Age of Expansion |
+| `bolotnikov-ivan.md` | Ivan Bolotnikov | person | Early Modern |
+| `bolshevik-party.md` | Bolshevik Party | organization | World Wars Era, Cold War |
+| `boyar-duma.md` | Boyar Duma | institution | Early Modern |
+| `brezhnev-leonid.md` | Leonid Brezhnev | person | Cold War |
+| `catherine-i-alexeevna.md` | Empress Catherine I | person | Age of Expansion |
+| `catherine-the-great.md` | Catherine the Great | person | age-of-expansion |
+| `cheka.md` | The Cheka | institution | World Wars Era |
+| `dmitry-donskoy.md` | Dmitry Donskoy | person | Late Middle Ages |
+| `elizabeth-petrovna.md` | Empress Elizabeth | person | Age of Expansion |
+| `false-dmitry-i.md` | False Dmitry I (Gregory Otrepiev) | person | Early Modern |
+| `godunov-boris.md` | Boris Fyodorovich Godunov | person | Early Modern |
+| `gorbachev-mikhail.md` | Mikhail Gorbachev | person | Cold War, Contemporary |
+| `ivan-i-kalita.md` | Ivan I Kalita | person | Late Middle Ages |
+| `ivan-iv-vasilyevich.md` | Ivan IV Vasilyevich | person | Early Modern |
+| `kerensky-alexander.md` | Alexander Kerensky | person | World Wars Era |
+| `khazar-khaganate.md` | The Khazar Khaganate | state | Early Middle Ages |
+| `khmelnitsky-bogdan.md` | Bogdan Khmelnitsky | person | Early Modern |
+| `khrushchev-nikita.md` | Nikita Khrushchev | person | Cold War |
+| `lenin-vladimir.md` | Vladimir Lenin | person | World Wars Era |
+| `lomonosov-mikhail.md` | Mikhail Lomonosov | person | Age of Expansion |
+| `menshevik-party.md` | Menshevik Party | organization | World Wars Era |
+| `molotov-viacheslav.md` | Viacheslav Molotov | person | World Wars Era, Cold War |
+| `naqshbandiyya.md` | Naqshbandiyya | organization | Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary |
+| `nicholas-i.md` | Nicholas I of Russia | person | Long 19th Century |
+| `nicholas-ii.md` | Nicholas II of Russia | person | Long 19th Century, World Wars Era |
+| `nikon-patriarch.md` | Patriarch Nikon | person | Early Modern |
+| `nkvd.md` | The NKVD | institution | World Wars Era |
+| `novikov-nikolai.md` | Nikolai Novikov | person | Age of Expansion |
+| `oleg-of-kiev.md` | Oleg of Kiev | person | Early Middle Ages |
+| `olga-of-kiev.md` | Olga of Kiev | person | Early Middle Ages |
+| `paul-i-petrovich.md` | Tsar Paul I | person | Age of Expansion |
+| `peter-ii-alexeevich.md` | Tsar Peter II | person | Age of Expansion |
+| `peter-iii-fyodorovich.md` | Tsar Peter III | person | Age of Expansion |
+| `petrograd-soviet.md` | Petrograd Soviet of Workers' and Soldiers' Deputies | institution | World Wars Era |
+| `provisional-government.md` | Russian Provisional Government | institution | World Wars Era |
+| `radishchev-alexander.md` | Alexander Radishchev | person | Age of Expansion |
+| `razin-stepan.md` | Stepan Razin | person | Early Modern |
+| `romanov-dynasty.md` | Romanov Dynasty | dynasty | early-modern, age-of-expansion, long-19th-century, world-wars-era |
+| `rublev-andrei.md` | Andrei Rublev | person | Late Middle Ages |
+| `rurikid-dynasty.md` | The Rurikid Dynasty | dynasty | Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern |
+| `russian-empire.md` | Russian Empire | empire | age-of-expansion, long-19th-century, world-wars-era |
+| `russian-federation.md` | Russian Federation | state | contemporary |
+| `sarmatians.md` | The Sarmatians | movement | Classical Antiquity, Late Antiquity |
+| `sergius-of-radonezh.md` | Sergius of Radonezh | person | Late Middle Ages |
+| `shuisky-vasily.md` | Basil IV Shuisky (Tsar Vasily Shuisky) | person | Early Modern |
+| `soviet-union.md` | Soviet Union | state | world-wars-era, cold-war |
+| `speransky-mikhail.md` | Mikhail Speransky | person | Long 19th Century |
+| `stalin-joseph.md` | Joseph Stalin | person | World Wars Era, Cold War |
+| `stolypin-pyotr.md` | Pyotr Stolypin | person | Long 19th Century |
+| `sviatoslav-i.md` | Sviatoslav I | person | Early Middle Ages |
+| `trotsky-leon.md` | Leon Trotsky | person | World Wars Era |
+| `white-movement.md` | White Movement | movement | World Wars Era |
+| `witte-sergei.md` | Sergei Witte | person | Long 19th Century |
+| `yaroslav-the-wise.md` | Yaroslav the Wise | person | High Middle Ages |
+| `yeltsin-boris.md` | Boris Yeltsin | person | Cold War, Contemporary |
 
 ---
 
@@ -137,6 +262,14 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `jericho.md` | Jericho (Tell es-Sultan) | city | levant |
 | `catalhoyuk.md` | Çatal Hüyük (Çatalhöyük) | city | anatolia |
 | `eridu.md` | Eridu (Tell Abu Shahrain) | city | mesopotamia |
+| `kiev.md` | Kiev | city | Kyiv, Ukraine |
+| `moscow.md` | Moscow | city | Moscow, Russia |
+| `novgorod.md` | Novgorod | city | Veliky Novgorod, Russia |
+| `pskov.md` | Pskov | city | Pskov, Pskov Oblast, Russia |
+| `saint-petersburg.md` | Saint Petersburg | city | Saint Petersburg, Russia |
+| `sarai.md` | Sarai | city | Selitrennoye, Astrakhan Oblast, Russia (Old Sarai) |
+| `tushino.md` | Tushino | other | Tushino District, Moscow, Russia |
+| `vladimir.md` | Vladimir | city | Vladimir, Vladimir Oblast, Russia |
 
 ---
 
@@ -176,6 +309,20 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `augusterlebnis.md` | Augusterlebnis (The August Experience, 1914) | historiographical / political |
 | `german-idealism-and-literature.md` | German Idealism, Romanticism, and Literary Realism, 1810–1890 | cultural |
 | `german-triconfessional-society.md` | German Triconfessional Society: Protestants, Catholics, and Jews, 1760–1871 | historiographical |
+| `bironovshchina.md` | Bironovshchina | political |
+| `democratic-centralism.md` | Democratic Centralism | political |
+| `dual-power-1917.md` | Dual Power (Dvoyevlastiye) | political |
+| `dvoeverie.md` | Dvoeverie | cultural |
+| `marxism-leninism.md` | Marxism-Leninism | ideological |
+| `mestnichestvo.md` | Mestnichestvo | social |
+| `moscow-the-third-rome.md` | Moscow the Third Rome | ideological |
+| `official-nationality.md` | Official Nationality | ideological |
+| `oprichnina.md` | Oprichnina | political |
+| `silver-age-of-russian-culture.md` | The Silver Age of Russian Culture | cultural |
+| `slavophilism.md` | Slavophilism | ideological |
+| `socialist-realism.md` | Socialist Realism | cultural |
+| `westernizers.md` | The Westernizers | ideological |
+| `zhdanovshchina.md` | Zhdanovshchina | cultural |
 
 ---
 
@@ -202,6 +349,8 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `austronesian-dispersal.md` | The Austronesian Dispersal | open |
 | `what-defines-a-city.md` | What Defines a City? | open |
 | `hierarchy-vs-heterarchy-early-cities.md` | Hierarchy vs Heterarchy in Early Cities | partially-resolved |
+| `collapse-of-imperial-russia.md` | The Collapse of Imperial Russia (Optimist vs. Pessimist Debate) | open |
+| `death-of-prince-dmitry-1591.md` | Death of Prince Dmitry of Uglich (1591) | resolved-by-consensus |
 
 ---
 
@@ -260,6 +409,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `abulafia-ncmh-v5-2000.md` | The New Cambridge Medieval History, Volume 5 — c. 1198–c. 1300 | 2000 | reference |
 | `jones-ncmh-v6-2000.md` | The New Cambridge Medieval History, Volume 6 — c. 1300–c. 1415 | 2000 | reference |
 | `allmand-ncmh-v7-1998.md` | The New Cambridge Medieval History, Volume 7 — c. 1415–c. 1500 (Section Plan; ingest pending) | 1998 | reference |
+| `riasanovsky-history-russia-2000.md` | A History of Russia (6th Edition) | 2000 | secondary |
 
 ---
 
@@ -272,16 +422,15 @@ Per-page new/updated details live in each source page and `log.md`.
 | Category | Pages |
 |---|---|
 | Periods | 34 |
-| Events | 320 |
-| Processes | 257 |
-| Actors | 691 |
-| Places | 126 |
-| Concepts | 428 |
+| Events | 364 |
+| Processes | 282 |
+| Actors | 778 |
+| Places | 134 |
+| Concepts | 507 |
 | Comparisons | 4 |
-| Controversies | 57 |
+| Controversies | 59 |
 | Timelines | 5 |
 | Queries | 0 |
-| Sources | 213 |
+| Sources | 218 |
 | Hubs | 54 |
-| **Total (all `.md`)** | **2194** |
-
+| **Total (all `.md`)** | **2444** |

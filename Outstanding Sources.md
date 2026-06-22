@@ -23,7 +23,7 @@ Acquisition flags (unchanged): `[BUY]` `[LIBRARY]` `[OUT OF PRINT]` `[NO TRANSLA
 
 What the cross-check reveals as the **biggest remaining holes** (see ranked detail in the relevant gaps):
 
-1. **Russia & Eastern Europe (Gap 8) — entirely unfilled.** Every source still missing. The collection's deepest structural void: no Muscovy, no Imperial Russia, no Soviet narrative.
+1. **Russia & Eastern Europe (Gap 8) — substantially filled.** Riasanovsky's *A History of Russia* (6th ed., 2000) has been ingested, providing the core narrative spine. Other specific sources remain target acquisitions.
 2. **World-Systems & Transregional (Gap 10) — entirely unfilled.** Crosby, Abu-Lughod, Diamond, Harper, Hansen all still missing despite the wiki's transregional schema.
 3. **Islamic intellectual history (Gap 4b, new) — entirely unfilled.** Politics covered; theology, law, philosophy, science, Sufism absent.
 4. **Core ancient primary sources (Gap 9) — mostly missing.** Gilgamesh, Hammurabi, the Muqaddimah, Odyssey, Aeneid, Secret History of the Mongols.
@@ -216,13 +216,11 @@ History of Japan volumes, and Genji are in. Sadler and Keene remain.
 
 ## Critical Gap 8 — Russia and Eastern Europe
 
-**Status: ENTIRELY UNFILLED — the collection's deepest structural void.** Not one
-source on this list is in. No Muscovy, no Imperial Russia, no Soviet narrative.
-**Highest reingestion/acquisition priority.**
+**Status: SUBSTANTIALLY FILLED.** Riasanovsky's *A History of Russia* has been ingested, providing the core narrative spine covering Kievan Rus', Muscovy, Imperial Russia, the Soviet Union, and the Russian Federation to 2000. Other specific sources remain target acquisitions.
 
 | Source | Flag | Status | Notes |
 |---|---|---|---|
-| *A History of Russia* — Riasanovsky & Steinberg | `[BUY]` | ❌ | standard textbook; the natural backbone |
+| *A History of Russia* — Riasanovsky & Steinberg | `[BUY]` | ✅ | `riasanovsky-history-russia-2000` (6th Edition ingested) |
 | *The Penguin History of Modern Russia* — Robert Service | `[BUY]` | ❌ | 1900–present |
 | *The Primary Chronicle* (Nestor) — Samuel Cross trans. | `[BUY]` | ❌ | foundational Kievan Rus primary |
 | *Russia: A History* — Gregory Freeze (ed.) | `[BUY]` | ❌ | multi-author survey |

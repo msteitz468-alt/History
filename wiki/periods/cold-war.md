@@ -1,8 +1,8 @@
 ---
 title: Cold War
 period_number: 23
-preceded_by: [[[world-wars-era|World Wars Era]]]
-followed_by: [[[contemporary|Contemporary]]]
+preceded_by: [[world-wars-era|World Wars Era]]
+followed_by: [[contemporary|Contemporary]]
 date_range: 1945–1991 CE
 regions_covered: [global, north-america, eastern-europe, western-europe, east-asia, south-asia, africa, latin-america, near-east]
 major_themes: [bipolar superpower rivalry, the Great Acceleration, decolonization, the demographic explosion, the Green Revolution, nuclear danger, multipolar industrialization, development]
@@ -42,8 +42,7 @@ of the developing world.
   (Kennan, the Truman Doctrine, NSC-68), the **[[marshall-plan-1948|Marshall Plan]]**,
   **[[nato|NATO]]** and the Warsaw Pact, the **[[berlin-blockade-1948|Berlin crises]]**, the
   **[[nuclear-arms-race|nuclear arms race]]** and MAD, and proxy wars — the
-  **[[korean-war-1950|Korean War]]**, Vietnam, Afghanistan, Angola, and across Latin America,
-  Africa, and Asia.
+  **[[korean-war-1950|Korean War]]**, the **[[vietnam-war|Vietnam War]]**, and the **[[soviet-war-in-afghanistan-1979|Soviet-Afghan War]]**. Within the **[[soviet-union|Soviet Union]]**, this era spanned late Stalinism (with the cultural purge of **[[zhdanovshchina|Zhdanovshchina]]**), the political liberalization and international crises under **[[khrushchev-nikita|Nikita Khrushchev]]** (including the **[[de-stalinization|De-Stalinization]]** campaign, the crushing of the **[[hungarian-revolution-1956|Hungarian Revolution]]**, and the **[[cuban-missile-crisis-1962|Cuban Missile Crisis]]**), the long stagnation and interventions under **[[brezhnev-leonid|Leonid Brezhnev]]** (the **[[brezhnev-stagnation|Brezhnev Stagnation]]** and the **[[prague-spring-1968|Prague Spring]]**), and the reform attempts of **[[gorbachev-mikhail|Mikhail Gorbachev]]** (through **[[perestroika|Perestroika]]** and **[[glasnost|Glasnost]]**), which led to the **[[chernobyl-disaster-1986|Chernobyl Disaster]]**, the **[[august-coup-1991|August Coup]]**, and the final **[[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]**.
 - **The Great Acceleration (from c. 1950):** the steepest rise in energy use,
   population, urbanization, consumption, and environmental impact in human history
   — and, in reaction, the birth of modern popular **environmentalism** after c.
@@ -64,11 +63,11 @@ of the developing world.
 - **Smallpox eradication (certified 1980):** a Cold War collaboration across the
   ideological divide and a landmark of internationalist public health (see
   [[smallpox-eradication]]).
-
+ 
 ## Key Actors
-
+ 
 - The two superpowers: the **United States** (see [[united-states]]) and the
-  **Soviet Union**; the People's Republic of **China** as a third pole after 1949.
+  **[[soviet-union|Soviet Union]]** (under leaders like **[[stalin-joseph|Joseph Stalin]]**, **[[khrushchev-nikita|Nikita Khrushchev]]**, **[[brezhnev-leonid|Leonid Brezhnev]]**, and **[[gorbachev-mikhail|Mikhail Gorbachev]]**); the People's Republic of **China** as a third pole after 1949.
 - The **non-aligned movement** and newly independent post-colonial states; figures
   of decolonization (Gandhi, Nasser, Nehru, Nkrumah, Fanon).
 - International institutions: the **United Nations**, the WHO (smallpox), the

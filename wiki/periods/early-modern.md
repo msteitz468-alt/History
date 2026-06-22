@@ -1,14 +1,14 @@
 ---
 title: Early Modern
 period_number: 19
-preceded_by: [[[late-middle-ages|Late Middle Ages]]]
-followed_by: [[[age-of-expansion|Age of Expansion]]]
+preceded_by: [[late-middle-ages|Late Middle Ages]]
+followed_by: [[age-of-expansion|Age of Expansion]]
 date_range: 1500–1700 CE
 regions_covered: [atlantic-world, western-europe, mesoamerica, andes, west-africa, east-asia, near-east, south-asia, indian-ocean, southeast-asia]
 major_themes: [the construction of a global world, Columbian Exchange, oceanic empires, the silver-driven world economy, confessionalization and religious expansion, the military revolution debate, chartered companies, plantation slavery]
 collection_coverage: moderate
-sources_ingested: 5
-last_updated: 2026-06-14
+sources_ingested: 6
+last_updated: 2026-06-22
 tags: [period]
 ---
 
@@ -72,6 +72,7 @@ the rise of the chartered company as a hybrid state-commercial actor.
 - **Oceanic and gunpowder empires**: Portuguese and Dutch armed trade in the
   Indian Ocean; the Ottoman, Safavid, and Mughal land empires; Ming–Qing
   consolidation; Russian expansion across Siberia.
+- **The consolidation of Muscovite Russia and the Time of Troubles**: The extinction of the Rurikid dynasty led to a period of severe political crisis, foreign invasion, and social upheaval known as the **[[time-of-troubles-1598|Time of Troubles]]** (1598–1613), resolved by the establishment of the **[[romanov-dynasty|Romanov dynasty]]**. The 17th century saw the formal legal codification of **[[serfdom-in-russia|serfdom in Russia]]** (1649) and a major religious split within the Russian Orthodox Church, the **[[raskol-schism|Raskol Schism]]** (1650s). In the late 17th century, **[[peter-the-great|Peter the Great]]** initiated the radical **[[westernization-of-russia|westernization of Russia]]** to secure a Baltic outlet.
 - **Confessional expansion and dialogue**: Catholic and Protestant Reformations,
   Jesuit missions in China, Japan, and the Americas, the spread of Islam through
   Sufi networks, and the emergence of syncretic forms (Sikhism, Latin American
@@ -86,6 +87,7 @@ the rise of the chartered company as a hybrid state-commercial actor.
 - Land empires: the [[mongol-empire|post-Chinggisid]] successor steppe orders,
   Ming and Qing China (see [[song-dynasty]], [[tang-dynasty]] for antecedents),
   the Ottoman, Safavid, and Mughal empires.
+- The **[[romanov-dynasty|Romanov Dynasty]]** of Russia; **[[peter-the-great|Peter the Great]]**.
 - American empires at contact: the [[aztec-empire|Aztec]] and [[inca-empire|Inca]].
 - West African states: successors to [[mali-empire|Mali]] and
   [[songhay-empire|Songhay]], and the Kingdom of Kongo.
@@ -157,7 +159,7 @@ Ottoman early-modern, Ming, Qing). These are flagged gaps. Per the standing
 collection map, the post-1500 Islamic world (Ottoman/Safavid/Mughal), the
 post-1500 Americas beyond archaeology, sub-Saharan Africa, and Russia/Eastern
 Europe remain thinly sourced; CWH VI's thematic chapters partially offset this
-but do not replace dedicated regional volumes.
+but do not replace dedicated regional volumes. The gap on Russia and Eastern Europe has been addressed by the ingestion of Riasanovsky (2000).
 
 A dedicated single-author synthesis of the religious transformation of the period is now ingested —
 **[[eire-reformations|Carlos Eire, *Reformations: The Early Modern World, 1450–1650*]]** — covering the

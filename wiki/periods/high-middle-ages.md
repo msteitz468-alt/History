@@ -1,14 +1,14 @@
 ---
 title: High Middle Ages
 period_number: 17
-preceded_by: [[[early-middle-ages|Early Middle Ages]]]
-followed_by: [[[late-middle-ages|Late Middle Ages]]]
+preceded_by: [[early-middle-ages|Early Middle Ages]]
+followed_by: [[late-middle-ages|Late Middle Ages]]
 date_range: "1000–1300 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road]
 major_themes: ["the thickening of Afro-Eurasian exchange webs", "the commercial revolution and a 'first globalization'", "the apogee of Song China", "the Crusades and Christian–Islamic frontier conflict", "cultural crystallization across Eurasian ecumenes", "the rise of universities and scholastic learning", "the eve of the Mongol conquests", "demographic expansion across the Old World", "Angkor, Cahokia, and regional apogees beyond Eurasia"]
 collection_coverage: strong
-sources_ingested: 4
-last_updated: 2026-06-12
+sources_ingested: 5
+last_updated: 2026-06-22
 tags: [period]
 ---
 
@@ -97,6 +97,8 @@ II]] and the [[german-interregnum-1250|Interregnum]], devolved power to its terr
 and a new elective, **Hausmacht** kingship ([[rudolf-of-habsburg|the Habsburgs]]). See
 [[state-formation]].
 
+**The fragmentation of Rus′ and the Mongol conquest.** Following the death of Yaroslav the Wise (1054), [[kievan-rus|Kievan Rus′]] fragmented into autonomous principalities under the appanage system. In the northeast, the **[[colonisation-of-northeast-russia|colonisation of Northeast Russia]]** shifted the geopolitical center of gravity to cities like **[[vladimir|Vladimir]]** and **[[moscow|Moscow]]**, while **[[novgorod|Novgorod]]** flourished as a merchant republic. The fragmented principalities were overwhelmed by the **[[mongol-empire|Mongol invasion]]** (1237–1240). Rulers like **[[alexander-nevsky|Alexander Nevsky]]** navigated this 'Tartar yoke' while defending the western frontier from Sweden and the Teutonic Knights at the **[[battle-on-the-ice-1242|Battle on the Ice]]** (1242).
+
 **Regional apogees beyond Eurasia.** [[angkor|Angkor]] reached its monumental
 height; Cahokia peaked and declined; the Toltec and early Postclassic orders
 reshaped Mesoamerica; the Tiwanaku–Wari horizon gave way in the Andes to regional
@@ -109,7 +111,8 @@ states; [[ghana-empire|Ghana]] gave way to the rising Mali.
 - **[[byzantine-empire|Byzantium]]** under the Macedonian and Komnenian dynasties, to the Fourth Crusade (1204).
 - Latin Christendom: the reform [[papacy]], the **[[crusader-states]]**, the Norman and Hohenstaufen worlds.
 - The **[[khmer-empire|Khmer Empire]]** at [[angkor|Angkor]]; the **[[chola-empire|Cholas]]** of South India.
-- **[[kamakura-japan|Kamakura Japan]]**; **Koryŏ** Korea.
+- **Kamakura Japan**; **Koryŏ** Korea.
+- The **[[rus-principalities|Rus′ Principalities]]** under the Mongol Golden Horde; **[[novgorod]]**, **[[vladimir]]**, and **[[alexander-nevsky|Alexander Nevsky]]**.
 - The **[[mongol-empire|Mongols]]** under [[genghis-khan|Chinggis Khan]] (from 1206), who close the period.
 
 ## Geographic Scope
@@ -147,7 +150,7 @@ extent — the immediate prelude to the fourteenth-century crisis.
 **Source quality.** Abundant and diverse for the Eurasian core: Song China's
 printed administrative and literary record is exceptionally rich; the Islamic
 world produces voluminous chronicles, biographical dictionaries, and the
-[[cairo-geniza|Geniza]] documents; Latin Europe's charters, chronicles, and
+Geniza documents; Latin Europe's charters, chronicles, and
 scholastic corpus expand enormously; Byzantium is well documented. Archaeology
 (Novgorod birch-bark letters, Angkorean inscriptions, Geniza-era trade goods)
 increasingly supplements texts, and is primary where texts are thin (Cahokia,
@@ -205,4 +208,4 @@ the [[frederick-ii-hohenstaufen|Hohenstaufen]] collapse and the rise of the
 [[county-of-flanders|Flanders]] ([[battle-of-courtrai-1302|Courtrai]]). Later cycles will follow
 for Italy, the Mediterranean frontiers, and the northern/eastern frontiers, along with specialist
 Song, Seljuk, Crusader, and Indian Ocean material. South and
-Southeast Asia and the interior of sub-Saharan Africa stay comparatively thin.
+Southeast Asia and the interior of sub-Saharan Africa stay comparatively thin. The gap on Russia and Eastern Europe has been addressed by the ingestion of Riasanovsky (2000).

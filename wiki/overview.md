@@ -1,6 +1,6 @@
 # Coverage Map and Gap Register
 
-Last updated: 2026-06-11 (after CAH Vol. IV — Persia, Greece and the Western Mediterranean, c. 525–479 BC)
+Last updated: 2026-06-22 (after Nicholas V. Riasanovsky, *A History of Russia*, 6th Edition, 2000)
 
 This page tracks the current state of wiki coverage: what periods and regions
 are well-documented, where gaps exist, and what is known to be missing.
@@ -72,7 +72,7 @@ Update after each ingest session.
 | Eurasian Steppe | strong | Neolithic/Bronze pastoralism (CWH II); CWH IV — Xiongnu, the Türks; CWH V — the Turkic Islamization, nomadic migrations/conquests (Khazanov), and the Mongol Empire |
 | Western Europe | strong | Neolithic LBK (CWH II); Greek/Roman (CWH III); CWH IV — Roman West, Late Antiquity, Carolingians; CWH V — the commercial revolution, the Hanse, universities/scholasticism, Crusades, cultural crystallization; CWH VI — the Reformation and wars of religion, the high-wage economy and onset of industrialization, oceanic empires, the "discovery of religion"; CWH VII — the industrial heartland: the fossil-fuel transition and industrialization, the New Imperialism, nationalism, the world wars and their ideologies (communism & fascism, genocide) |
 | Northern Europe | weak | Neolithic: forager-farmer frontier (CWH II) |
-| Eastern Europe | weak | Neolithic aDNA/LBK only (CWH II); otherwise absent |
+| Eastern Europe | strong | Neolithic aDNA/LBK (CWH II); Rurikid dynasty and Kievan Rus' (Early/High Middle Ages); Rise of Moscow and overthrow of Mongol yoke (Late Middle Ages); Tsardom and Russian Empire (Early Modern/Age of Expansion/Long 19th Century); Soviet Union and Russian Federation (World Wars/Cold War/Contemporary) via Riasanovsky (2000). |
 | Mediterranean | strong | Neolithic colonization (CWH II); poleis + Rome (CWH III); CWH IV — Phoenicians, Athens, Hellenistic world, Roman Empire; CWH V — the medieval commercial revolution (Italian republics), Byzantium, Crusades, the "first globalization" of trade |
 | Iberia | weak | Neolithic aDNA (CWH II); CWH IV — Phoenician/Carthaginian & Roman Iberia, Visigoths→Umayyad (lightly) |
 | British Isles | weak | Neolithic: early dairying, causewayed enclosures (CWH II) |
@@ -101,7 +101,7 @@ are ingested and gaps are filled or confirmed.
 | Sub-Saharan Africa (post-1500 CE) | Minor | CWH IV + V to ~1500; CWH VI adds the Atlantic slave trade and Kongo; CWH VII now supplies the modern narrative (Cooper: slave trade, abolition, Zulu/Sahel states, partition, decolonization). Great Zimbabwe and event-level colonial history still thin |
 | Americas (post-contact / colonial) | Minor | CWH V (pre-Columbian to conquest); CWH VI (Columbian Exchange, plantation complex); CWH VII adds the modern narratives — Latin America (Charlip) and the United States (Tyrrell). Discrete events (independence wars, the Mexican/Cuban revolutions) still lack pages |
 | Oceania (narrative/post-contact) | Significant | CWH IV gives the deep archaeological/voyaging history; CWH V's regional Part V has no Oceania chapter; collection otherwise absent for the region |
-| Russia / Eastern Europe (all periods) | Critical | Neolithic aDNA/LBK only (CWH II); otherwise collection absent |
+| Russia / Eastern Europe (all periods) | Resolved | Addressed by the ingestion of Nicholas V. Riasanovsky, *A History of Russia*, 6th Edition (2000), covering Kievan Rus', the appanage period, the rise of Moscow, the Tsardom and Russian Empire, the Soviet Union, and the Russian Federation to 2000. |
 | Southeast Asia (classical & later) | Significant | CWH II/III + CWH IV (agriculture/Austronesian context); the classical-to-modern narrative remains thin |
 | Post-1750 world — social/cultural & event-level | Significant | CWH VII Book 1 supplies the structural, political, and regional architecture, but Book 2 "Shared Transformations?" (urbanization, migration, family, religion, science, sport, the commodities, the Atlantic-revolutions/Cold-War/1989 "moments") is absent from the source — as is event-level coverage of the world wars, the Russian/Chinese revolutions, the Holocaust, the Depression, and the Cold War conflicts |
 | India / South Asia (post-Gupta) | Moderate | Vedic→Mauryan→Gupta (CWH IV); CWH V adds the Delhi Sultanate/Islam in India and the Buddhist diffusion; a dedicated South Asian narrative is still thin |
@@ -110,7 +110,7 @@ are ingested and gaps are filled or confirmed.
 | Japan — narrative history | Moderate | Collection thin (Yamato, CWH IV; courtly/Kamakura glimpses, CWH V) |
 | Medieval East Asia — secondary literature | Moderate | CWH V adds the Song state and the East Asian order; specialist monographs still thin |
 | Post-1800 world (periods 21–24) | Moderate | CWH VII Book 1 now covers periods 21–24 thematically and structurally (the Anthropocene, industrialization, demography, the politics of empire/nation/ideology, six regional surveys). Remaining gaps are social-cultural (Book 2 absent), event-level, and post-2015 |
-| Russia / Soviet Union (modern) | Significant | CWH VII touches the USSR via communism/fascism, Witte-era industrialization, and the world wars, but Russia/Eastern Europe has no dedicated narrative in any volume (Neolithic aDNA aside) — still the collection's deepest regional gap |
+| Russia / Soviet Union (modern) | Resolved | Addressed by the ingestion of Nicholas V. Riasanovsky, *A History of Russia*, 6th Edition (2000), covering the Russian Empire, the Soviet Union, and the Russian Federation. |
 | Early Modern empires (regional narratives) | Significant | CWH VI Book 2 gives strong thematic/global coverage but its Book 1 "Foundations" (Ottoman, Safavid, Mughal, Ming–Qing, Russia, Iberia empire surveys, and the crossroads regions) is absent from the collection file — the chief gap left by the volume |
 
 ---

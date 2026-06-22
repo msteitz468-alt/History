@@ -1,8 +1,8 @@
 ---
 title: World Wars Era
 period_number: 22
-preceded_by: [[[long-19th-century|Long 19th Century]]]
-followed_by: [[[cold-war|Cold War]]]
+preceded_by: [[long-19th-century|Long 19th Century]]
+followed_by: [[cold-war|Cold War]]
 date_range: 1914–1945 CE
 regions_covered: [global, western-europe, eastern-europe, east-asia, near-east, north-america, africa]
 major_themes: [total war, the return of global war, genocide, communism and fascism, the Great Depression, the second demographic and industrial surge, decolonization's prelude]
@@ -45,17 +45,14 @@ and discredited liberal capitalism across much of the world.
   lands those empires had ruled. The **Armenian genocide** (1915) is its signal
   atrocity (see [[genocide]]). Its much-debated origins are treated on
   **[[causes-of-the-first-world-war]]** (framed by [[joll-origins-first-world-war|Joll]]).
-- **The Russian Revolution (1917)** and the creation of the Soviet Union
-  established the first state committed to [[communism-and-fascism|communism]], with
-  forced-labor programs (the gulag) that reversed the near-completion of Russian
-  serf/abolition by 1900.
+- **[[russian-revolution-1917|The Russian Revolution (1917)]]** (including the **[[february-revolution-1917|February Revolution]]** and **[[october-revolution-1917|October Revolution]]**) and the creation of the **[[soviet-union|Soviet Union]]** (initially led by **[[lenin-vladimir|Vladimir Lenin]]** and **[[trotsky-leon|Leon Trotsky]]** of the **[[bolshevik-party|Bolshevik Party]]**) established the first state committed to Marxist-Leninist communism. This was followed by the **[[russian-civil-war-1918|Russian Civil War]]**, the establishment of **[[war-communism|War Communism]]** and the subsequent **[[new-economic-policy|New Economic Policy (NEP)]]**, and Stalinist consolidation under rapid **[[soviet-industrialization|Soviet Industrialization]]** and forced **[[soviet-collectivization|Soviet Collectivization]]**, leading to the **[[great-purge|Great Purge]]** and the forced-labor Gulag system (administered by the **[[nkvd|NKVD]]**).
 - **The Great Depression (1929–c. 1939)** and the interwar collapse of global
   trade and migration (restrictive legislation after 1920 curbed the great
   nineteenth-century flows).
 - **The rise of fascism** in Italy and Nazi Germany; state-led and socialist
   [[industrialization]] programs of varying success across the interwar world.
 - **The Second World War (1939–1945)** — the most destructive event in human
-  history — and **the Holocaust**, the era's defining genocide.
+  history — and **the Holocaust**, the era's defining genocide. Key Soviet conflicts included the **[[battle-of-stalingrad-1942|Battle of Stalingrad]]** and the **[[battle-of-kursk-1943|Battle of Kursk]]**, following the **[[molotov-ribbentrop-pact-1939|Molotov-Ribbentrop Pact]]**.
 - **Hiroshima and Nagasaki (1945):** the first use of atomic weapons. Josephson
   notes the bombs may have been used as much to demonstrate their power as from
   military necessity — the "golden spike" candidate (radioactive fallout, 1945–1963)
@@ -66,10 +63,8 @@ and discredited liberal capitalism across much of the world.
 
 ## Key Actors
 
-- The **Allied** and **Axis** coalitions; the **Soviet Union** under Lenin and
-  Stalin; **Nazi Germany** under Hitler; **Imperial Japan**; the **United States**
-  (see [[united-states]]) emerging as the dominant industrial and military power.
-- Movements and ideologies: [[communism-and-fascism|communism and fascism]];
+- The **Allied** and **Axis** coalitions; the **[[soviet-union|Soviet Union]]** under **[[lenin-vladimir|Vladimir Lenin]]**, **[[trotsky-leon|Leon Trotsky]]**, and **[[stalin-joseph|Joseph Stalin]]** (with security apparatuses like the **[[cheka|Cheka]]** and **[[nkvd|NKVD]]**); **Nazi Germany** under Hitler; **Imperial Japan**; the **United States** (see [[united-states]]) emerging as the dominant industrial and military power.
+- Movements and ideologies: [[marxism-leninism|Marxism-Leninism]], [[democratic-centralism|Democratic Centralism]], [[socialist-realism|Socialist Realism]], and fascism;
   anti-colonial [[nationalism]] gathering force in India, the Middle East, and East
   Asia as a prelude to post-war [[decolonization]].
 

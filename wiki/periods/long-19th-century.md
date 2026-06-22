@@ -1,14 +1,14 @@
 ---
 title: Long 19th Century
 period_number: 21
-preceded_by: [[[age-of-expansion|Age of Expansion]]]
-followed_by: [[[world-wars-era|World Wars Era]]]
+preceded_by: [[age-of-expansion|Age of Expansion]]
+followed_by: [[world-wars-era|World Wars Era]]
 date_range: 1800–1914 CE
 regions_covered: [global, western-europe, north-america, east-asia, south-asia, africa, latin-america, near-east, pacific]
 major_themes: [industrialization, fossil-fuel energy transition, the new imperialism, nationalism, mass migration, abolition, the demographic transition, global market integration]
 collection_coverage: moderate
-sources_ingested: 5
-last_updated: 2026-06-10
+sources_ingested: 6
+last_updated: 2026-06-22
 tags: [period]
 ---
 
@@ -74,6 +74,7 @@ global dominance.
   produced emancipations across the Atlantic world and (very gradually) Russian
   serf emancipation (1861) — though Alessandro Stanziani's revisionism stresses
   how incomplete and reversible "free labor" actually was.
+- **Russian Autocracy, Reform, and Revolution**: Under **[[alexander-i|Alexander I]]**, Russia defeated the **[[french-invasion-of-russia-1812|French invasion of 1812]]**. Nicholas I countered the **[[decembrist-revolt-1825|Decembrist Revolt]]** (1825) with the conservative doctrine of **[[official-nationality|Official Nationality]]**. Defeat in the **[[crimean-war-1853|Crimean War]]** (1853–1856) exposed Russia's backwardness, prompting the **[[great-reforms-of-alexander-ii|Great Reforms of Alexander II]]**, centered on the **[[emancipation-of-the-serfs-1861|Emancipation of the Serfs]]** (1861). The rise of **[[populism-in-russia|populism]]** led to Alexander II's assassination in 1881. Under Alexander III and Nicholas II, the state drove rapid **[[industrialization-of-russia|industrialization]]** via the **[[witte-sergei|Witte System]]** and built the Trans-Siberian Railway, but social tensions culminated in the **[[revolution-of-1905|Revolution of 1905]]** and subsequent failed agrarian reforms under **[[stolypin-pyotr|Pyotr Stolypin]]**.
 
 ## Key Actors
 
@@ -86,6 +87,7 @@ global dominance.
   "[[self-strengthening|self-strengthening]]" response.
 - Resisting/adapting states: the **Ottoman Empire**, **Siam**, **Ethiopia**
   (Adwa, 1896), **Japan** — the "self-strengtheners" of R. Bin Wong's chapter.
+- The **[[russian-empire|Russian Empire]]**; **[[alexander-i]]**, **[[nicholas-i]]**, **[[alexander-ii]]**, **[[alexander-iii]]**, **[[nicholas-ii]]**, and ministers like **[[speransky-mikhail|Mikhail Speransky]]**, **[[witte-sergei|Sergei Witte]]**, and **[[stolypin-pyotr|Pyotr Stolypin]]**.
 
 ## Geographic Scope
 
@@ -136,4 +138,4 @@ dedicated event pages yet for the Napoleonic Wars, the revolutions of 1848, the
 American Civil War, German/Italian unification, or the partition of Africa as
 discrete events), and **Book 2 ("Shared Transformations?")** — urbanization,
 migration in depth, family, religion, science, the Atlantic revolutions — is
-**absent from the collection** and remains a sourcing priority.
+**absent from the collection** and remains a sourcing priority. The gap on Russia and Eastern Europe has been addressed by the ingestion of Riasanovsky (2000).
