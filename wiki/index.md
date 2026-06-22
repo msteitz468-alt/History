@@ -380,6 +380,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 |---|---|---|---|
 | `christian-cwh-v1-2015.md` | The Cambridge World History, Volume I: Introducing World History, to 10,000 BCE | 2015 | reference |
 | `solzhenitsyn-gulag-archipelago-1973.md` | The Gulag Archipelago (Abridged) | 1973 (abridged 1985) | primary | (3 ranges; created gulag-system process + kengir-uprising-1954 event; updated solzhenitsyn-aleksandr, stalin-joseph, soviet-union, soviet-industrialization, great-purge, de-stalinization, nkvd, world-wars-era, cold-war) |
+| `cambridge-history-of-russia-v2-2006.md` | The Cambridge History of Russia, Volume II: Imperial Russia, 1689–1917 (Lieven ed.) | 2006 | reference | (ingest complete; source + 6+ subagent ranges 4147–34115; ~32 pages updated with empire/periphery, nationalities, culture, society/econ/gov, foreign/military/police, 1917 path claims; synthesis note; filed) |
 | `barker-cwh-v2-2015.md` | The Cambridge World History, Volume II: A World with Agriculture, 12,000 BCE–500 CE | 2015 | reference |
 | `yoffee-cwh-v3-2015.md` | The Cambridge World History, Volume III: Early Cities in Comparative Perspective, 4000 BCE–1200 CE | 2015 | reference |
 | `benjamin-cwh-v4-2015.md` | The Cambridge World History, Volume IV: A World with States, Empires, and Networks, 1200 BCE–900 CE | 2015 | reference |
@@ -414,6 +415,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `allmand-ncmh-v7-1998.md` | The New Cambridge Medieval History, Volume 7 — c. 1415–c. 1500 (Section Plan; ingest pending) | 1998 | reference |
 | `riasanovsky-history-russia-2000.md` | A History of Russia (6th Edition) | 2000 | secondary |
 | `service-penguin-history-of-modern-russia-2009.md` | The Penguin History of Modern Russia: From Tsarism to the Twenty-First Century (3rd ed.) — Robert Service | 2009 | secondary |
+| `freeze-russia-a-history-2002.md` | Russia: A History (Second Edition) — Gregory L. Freeze (ed.) | 2002 | secondary | (multi-author survey; updates from Riasanovsky with post-1991 archival depth on social/economic/nationalities; pages updated incl. february-revolution-1917, pugachev-rebellion-1773, gorbachev-mikhail, stalin-joseph, brezhnev-stagnation and many Russian actors/periods/processes) |
 
 ---
 
