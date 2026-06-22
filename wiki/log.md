@@ -11,6 +11,8 @@ Format:
 
 ---
 
+## 2026-06-22 admin | Hub architecture — stubs fleshed out | All 51 stub hubs replaced with full narrative spines + curated key-threads (linked to real pages) + tuned Bases views: 6 themes, 3 civilizations (china/islam/greece), 42 regions. Full sweep: 0 broken links, all code fences balanced. Navigation layer complete. Remaining polish: more synchronic snapshots, index.md trim, duplicate fall-of-western-roman file, tag normalization for rome/greece/islam Bases views.
+
 ## 2026-06-22 admin | Hub architecture — stub tree | Created 51 stub hubs (6 themes, 3 civilizations: china/islam/greece, 42 regions with >=3 tagged pages each), each with a provisional live Bases view + links back to home/timeline. Expanded home.md into a grouped regional index. Skeleton now fully navigable — every home.md link resolves. Remaining: flesh out stubs, more synchronic snapshots, index.md trim.
 
 ## 2026-06-22 admin | Hub architecture — exemplar hubs | Built hubs/themes/warfare.md (theme MOC), hubs/civilizations/rome.md (civilization portal), hubs/historiography-hub.md (indexes 55 controversies by dispute_type). Hybrid pattern: curated narrative spine + live Bases views. Remaining: theme/civ/region stubs, more synchronic snapshots, index.md trim.

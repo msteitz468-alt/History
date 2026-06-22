@@ -7,11 +7,24 @@ tags: [hub, region, melanesia]
 
 # Melanesia — Regional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> New Guinea and the near Pacific — a site of **independent agricultural origins** and a staging
+> ground for the peopling of the wider Pacific. Coverage is thin; the curated spine reflects this.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · related: [[hubs/regions/polynesia|Polynesia]] ·
+[[hubs/regions/australia|Australia]] · [[hubs/themes/technology|Technology]]
+
+---
+
+## Key threads
+- [[colonization-australasia-50kbp|The colonization of Australasia]] — Melanesia on the route to Australia.
+- [[early-agriculture-southeast-asia-pacific|Early agriculture in the SE Asia–Pacific zone]] — the New
+  Guinea highlands as one of the world's independent hearths of plant domestication.
+- [[pacific-voyaging-and-settlement|Pacific voyaging and settlement]].
+
+## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
+- [[australasian-colonization-timing|The timing of Australasian colonization]].
+
+---
 
 ## All Melanesia pages (live)
 
@@ -21,17 +34,9 @@ filters:
     - 'tags.contains("melanesia")'
 views:
   - type: table
-    name: Melanesia pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: Melanesia pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `melanesia` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.

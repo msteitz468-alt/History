@@ -1,19 +1,39 @@
 ---
-title: "the Mediterranean World — Regional Hub"
+title: "The Mediterranean World — Transregional Hub"
 hub_type: region
 last_updated: 2026-06-22
 tags: [hub, region, mediterranean-world]
 ---
 
-# the Mediterranean World — Regional Hub
+# The Mediterranean World — Transregional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> The integrated classical system — the Greco-Roman *oikoumenē* at its height, when a single political
+> and economic order ringed the sea from Iberia to Syria. Where the [[hubs/regions/mediterranean|Mediterranean]]
+> region hub spans all eras, this connector focuses on the period when the basin was **one world**.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · see also: [[hubs/regions/mediterranean|Mediterranean region]] ·
+[[hubs/civilizations/rome|Rome]] · [[hubs/civilizations/greece|Greece]]
 
-## All the Mediterranean World pages (live)
+---
+
+## The unified classical Mediterranean
+[[greek-colonization|Greek colonization]] and [[magna-graecia|Magna Graecia]] knit the western basin
+to the Aegean; the [[wars-of-the-diadochi-323|Hellenistic kingdoms]] the eastern. Rome then unified
+the whole: [[roman-imperial-trade|imperial trade]], the [[roman-agrarian-economy|agrarian economy]],
+and universal [[constitutio-antoniniana-212|citizenship (212)]] made the sea a single market and polity.
+
+## Late-antique transformation
+[[christianization-of-the-roman-empire|Christianization]] ([[edict-of-milan-313|Milan]],
+[[great-persecution-303|the Great Persecution]], [[theodosius-i|Theodosius]]); the
+[[justinianic-plague-541|Justinianic Plague]] and [[justinian|Justinian]]'s last attempt to reunify the basin;
+the [[closing-of-the-athenian-academy-529|closing of the Academy]] marking the end of the classical world.
+
+## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
+- The [[pirenne-thesis|Pirenne thesis]] — when did Mediterranean unity actually end?
+
+---
+
+## All Mediterranean-world pages (live)
 
 ```base
 filters:
@@ -21,17 +41,9 @@ filters:
     - 'tags.contains("mediterranean-world")'
 views:
   - type: table
-    name: the Mediterranean World pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: Mediterranean-world pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `mediterranean-world` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.

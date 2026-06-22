@@ -7,11 +7,25 @@ tags: [hub, region, polynesia]
 
 # Polynesia — Regional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> The last great frontier of human settlement — the islands of the remote Pacific, reached by the
+> most sophisticated open-ocean voyaging in pre-modern history. Coverage is thin but distinctive.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · related: [[hubs/regions/melanesia|Melanesia]] ·
+[[hubs/regions/indian-ocean|Indian Ocean World]]
+
+---
+
+## Key threads
+- [[pacific-voyaging-and-settlement|Pacific voyaging and settlement]] — the Austronesian expansion
+  across the world's largest ocean.
+- [[polynesian-chiefdoms|Polynesian chiefdoms]] — the societies that developed on the islands.
+- [[rapa-nui|Rapa Nui (Easter Island)]] — the easternmost outpost and its much-debated history.
+
+## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
+- [[austronesian-dispersal|The Austronesian dispersal]] · [[societal-collapse-and-environmental-determinism|environmental collapse]]
+  narratives (Rapa Nui).
+
+---
 
 ## All Polynesia pages (live)
 
@@ -21,17 +35,9 @@ filters:
     - 'tags.contains("polynesia")'
 views:
   - type: table
-    name: Polynesia pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: Polynesia pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `polynesia` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.

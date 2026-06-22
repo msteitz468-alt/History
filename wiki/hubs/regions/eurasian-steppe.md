@@ -1,19 +1,36 @@
 ---
-title: "the Eurasian Steppe — Regional Hub"
+title: "The Eurasian Steppe — Transregional Hub"
 hub_type: region
 last_updated: 2026-06-22
 tags: [hub, region, eurasian-steppe]
 ---
 
-# the Eurasian Steppe — Regional Hub
+# The Eurasian Steppe — Transregional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> The continuous grassland highway from the Carpathians to Manchuria — the corridor along which
+> peoples, languages, and armies moved across the whole of Eurasia. This connector frames the steppe
+> as a *system*; for the peoples and empires, see the [[hubs/regions/steppe|Steppe region hub]].
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · see also: [[hubs/regions/steppe|Steppe region]] ·
+[[hubs/regions/central-asia|Central Asia]] · [[hubs/themes/warfare|Warfare]]
 
-## All the Eurasian Steppe pages (live)
+---
+
+## Key threads
+- The [[indo-european-migrations|Indo-European migrations]] — the steppe as the likely Indo-European
+  homeland, dispersing languages across Eurasia.
+- The early horse nomads: [[cimmerians|Cimmerians]] and [[scythians|Scythians]]
+  ([[darius-scythian-expedition-513bce|Darius's failed expedition]]).
+- The [[huns|Huns]] — the western end of a steppe shockwave that helped topple Rome.
+- The recurring pattern: mobile pastoralists repeatedly conquering settled empires, from the Xiongnu
+  to the Mongols — the deepest asymmetry in Eurasian history (see [[hubs/regions/steppe|Steppe]]).
+
+## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
+- [[indo-european-origins|Indo-European origins]] — the steppe (Kurgan) hypothesis vs. its rivals.
+
+---
+
+## All Eurasian Steppe pages (live)
 
 ```base
 filters:
@@ -21,17 +38,9 @@ filters:
     - 'tags.contains("eurasian-steppe")'
 views:
   - type: table
-    name: the Eurasian Steppe pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: Eurasian Steppe pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `eurasian-steppe` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.

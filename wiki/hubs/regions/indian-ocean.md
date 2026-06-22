@@ -1,19 +1,35 @@
 ---
-title: "the Indian Ocean World — Regional Hub"
+title: "The Indian Ocean World — Transregional Hub"
 hub_type: region
 last_updated: 2026-06-22
 tags: [hub, region, indian-ocean]
 ---
 
-# the Indian Ocean World — Regional Hub
+# The Indian Ocean World — Transregional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> The maritime arena that, powered by the monsoon, bound East Africa, Arabia, India, and Southeast
+> Asia into a single commercial and cultural system long before Europeans arrived — and which they
+> then fought to control. A connector linking the regional hubs around the rim.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · rim:
+[[hubs/regions/east-africa|East Africa]] · [[hubs/regions/arabian-peninsula|Arabia]] ·
+[[hubs/regions/south-asia|South Asia]] · [[hubs/regions/southeast-asia|Southeast Asia]] ·
+related: [[hubs/themes/trade-economy|Trade & Economy]]
 
-## All the Indian Ocean World pages (live)
+---
+
+## Key threads
+- [[indian-ocean-trade|Indian Ocean trade]] and [[trade-network-formation|trade-network formation]];
+  the [[afro-eurasian-world-system|Afro-Eurasian world system]].
+- The [[swahili-coast|Swahili coast]]; [[srivijaya|Srivijaya]] and the entrepôt of [[melaka|Melaka]];
+  the [[southeast-asian-age-of-commerce|age of commerce]] and [[islamization-of-southeast-asia|Islamization]].
+- The [[zheng-he-voyages|Zheng He voyages]] — Ming China's brief projection of maritime power.
+- The European intrusion: [[early-modern-commerce|early-modern commerce]] and the
+  [[dutch-east-india-company|Dutch East India Company]].
+
+---
+
+## All Indian Ocean pages (live)
 
 ```base
 filters:
@@ -21,17 +37,9 @@ filters:
     - 'tags.contains("indian-ocean")'
 views:
   - type: table
-    name: the Indian Ocean World pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: Indian Ocean pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `indian-ocean` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.
