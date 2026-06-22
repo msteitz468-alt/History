@@ -7,11 +7,23 @@ tags: [hub, region, northern-europe]
 
 # Northern Europe — Regional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> The North Sea and Baltic world — Germanic peoples, the trading network of the Hanse, and the
+> military-religious frontier of the Teutonic Order. Coverage here is thin and overlaps the
+> [[hubs/regions/western-europe|Western]], [[hubs/regions/eastern-europe|Eastern]], and
+> [[hubs/regions/scandinavia|Scandinavian]] hubs.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]]
+
+---
+
+## Key threads
+- The [[germanic-peoples|Germanic peoples]] of late antiquity.
+- The [[hanseatic-league|Hanseatic League]] — the Baltic and North Sea trading network.
+- The [[teutonic-knights|Teutonic Knights]] and the Baltic crusades.
+- The [[valois-burgundian-state|Valois-Burgundian state]] of the Low Countries.
+- The Irish monastic centre of [[iona|Iona]].
+
+---
 
 ## All Northern Europe pages (live)
 
@@ -21,17 +33,9 @@ filters:
     - 'tags.contains("northern-europe")'
 views:
   - type: table
-    name: Northern Europe pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: Northern Europe pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `northern-europe` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.

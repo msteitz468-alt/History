@@ -7,11 +7,37 @@ tags: [hub, region, iberia]
 
 # Iberia — Regional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> The peninsula where Rome, Islam, and Latin Christendom successively met — and from which Europe
+> launched its oceanic expansion. The exhaustive auto-list is the **Bases view** below.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · related: [[hubs/civilizations/islam|Islam]] ·
+[[hubs/regions/atlantic-world|Atlantic World]] · [[hubs/civilizations/rome|Rome]]
+
+---
+
+## Ancient & Roman Iberia
+[[gades-tartessos|Gades and Tartessos]]; [[phoenician-colonization|Phoenician]] and Carthaginian
+footholds ([[new-carthage|New Carthage]], [[hamilcar-barca|Hamilcar]], [[hannibal|Hannibal]]);
+[[hispania-roman|Roman Hispania]] and its hard conquest ([[numantine-war-153-133bce|Numantia]],
+[[viriathus|Viriathus]], [[sertorian-war-80-72bce|Sertorius]]).
+
+## Visigothic & Islamic Iberia
+The Visigothic kingdom ([[leovigild|Leovigild]], [[third-council-of-toledo-589|Toledo]],
+[[isidore-of-seville|Isidore]], the [[liber-iudiciorum|Liber Iudiciorum]]) → the
+[[umayyad-conquest-of-hispania-711|Umayyad conquest (711)]] and [[al-andalus|al-Andalus]]
+([[caliphate-of-cordoba|Córdoba]], the [[almoravids|Almoravids]] and [[almohads|Almohads]],
+[[nasrid-granada|Nasrid Granada]]).
+
+## Reconquista & expansion
+The [[reconquista|Reconquista]] ([[el-cid|El Cid]], the [[christian-kingdoms-of-spain|Christian kingdoms]],
+[[crown-of-aragon|Aragon]], [[kingdom-of-asturias|Asturias]]) → the [[catholic-monarchs|Catholic Monarchs]]
+and the [[fall-of-granada-1492|fall of Granada (1492)]] → the [[aviz-dynasty|Aviz]] launch of the
+[[age-of-discovery|Age of Discovery]].
+
+## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
+- The [[black-legend|Black Legend]] · the *convivencia* and the nature of [[reconquista|Reconquista]] society.
+
+---
 
 ## All Iberia pages (live)
 
@@ -21,17 +47,9 @@ filters:
     - 'tags.contains("iberia")'
 views:
   - type: table
-    name: Iberia pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: Iberia pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `iberia` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.

@@ -1,19 +1,44 @@
 ---
-title: "the Balkans — Regional Hub"
+title: "The Balkans — Regional Hub"
 hub_type: region
 last_updated: 2026-06-22
 tags: [hub, region, balkans]
 ---
 
-# the Balkans — Regional Hub
+# The Balkans — Regional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> Southeastern Europe — homeland of Macedon, Roman and Byzantine heartland, and the long frontier
+> between Christendom and the Ottoman world. The exhaustive auto-list is the **Bases view** below.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · related: [[hubs/civilizations/greece|Greece]] ·
+[[hubs/regions/eastern-europe|Eastern Europe]] · [[hubs/regions/anatolia|Anatolia]]
 
-## All the Balkans pages (live)
+---
+
+## Ancient & Hellenistic
+[[thracians|Thracians]] ([[odrysian-kingdom|Odrysian Kingdom]]) and [[illyrians|Illyrians]]; the rise
+of Macedon and, after Alexander, the [[antigonid-dynasty|Antigonid]] kingdom and the
+Macedonian Wars that brought Rome east ([[first-macedonian-war-214-205bce|First]],
+[[second-macedonian-war-200-196bce|Second]], [[third-macedonian-war-171-168bce|Third]];
+[[achaean-war-146bce|the Achaean War]]).
+
+## Roman & Byzantine
+The [[danubian-balkan-provinces|Danubian provinces]]; the [[dacian-wars-101-106|Dacian Wars]];
+[[battle-of-adrianople-378|Adrianople (378)]] and the [[avars-and-the-balkans|Avar-Slav]] settlement;
+the [[byzantine-empire|Byzantine]] recovery ([[basil-ii|Basil II]], the [[conquest-of-bulgaria-1018|conquest of Bulgaria]]).
+
+## Bulgarian empires & the Ottoman conquest
+The [[first-bulgarian-empire|First Bulgarian Empire]] ([[conversion-of-boris-i-864|Boris I's conversion]]);
+the [[fourth-crusade-1204|Fourth Crusade]] and [[latin-empire-of-constantinople|Latin Empire]];
+the Ottoman advance ([[battle-of-kosovo-1389|Kosovo]], [[fall-of-constantinople-1453|1453]],
+[[siege-of-vienna-1683|Vienna 1683]]).
+
+## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
+- [[seleucid-hellenization|Hellenization]] and the depth of Greek culture in the interior.
+
+---
+
+## All Balkans pages (live)
 
 ```base
 filters:
@@ -21,17 +46,9 @@ filters:
     - 'tags.contains("balkans")'
 views:
   - type: table
-    name: the Balkans pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: Balkans pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `balkans` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.

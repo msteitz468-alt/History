@@ -7,11 +7,21 @@ tags: [hub, region, scandinavia]
 
 # Scandinavia — Regional Hub
 
-> **Stub hub** — part of the wiki's navigation skeleton. The live Bases view below auto-lists every
-> page tagged for this region; a curated narrative spine and "key threads" list are written in a
-> later pass. See [[home|Home]] for the full hub map and [[master-timeline|the timeline]] for chronology.
+> The Nordic world — homeland of the Vikings, whose raiding, trading, and settlement reshaped early
+> medieval Europe, and later of the union that bound the three northern kingdoms. Coverage is thin;
+> the curated spine reflects the few pages the collection supports.
 
-[[home|← Home]] · [[master-timeline|Master Timeline]] · [[overview|Coverage Map]]
+[[home|← Home]] · [[master-timeline|Master Timeline]] · related: [[hubs/regions/northern-europe|Northern Europe]] ·
+[[hubs/regions/british-isles|British Isles]]
+
+---
+
+## Key threads
+- [[norse-scandinavia|Norse Scandinavia]] — the society from which the Vikings came.
+- The [[viking-age|Viking Age]] — raiding, trading, and settlement from the British Isles to Kievan Rus'.
+- The [[kalmar-union-1397|Kalmar Union (1397)]] — the dynastic union of Denmark, Norway, and Sweden.
+
+---
 
 ## All Scandinavia pages (live)
 
@@ -21,17 +31,9 @@ filters:
     - 'tags.contains("scandinavia")'
 views:
   - type: table
-    name: Scandinavia pages
-    order:
-      - title
-      - date_start
-      - period
-      - region
+    name: Scandinavia pages by date
+    order: [title, date_start, period, region]
     sort:
       - property: date_start
         direction: ASC
 ```
-
-> **Bases note (stub):** the filter above is provisional. If it under-lists, the relevant pages may
-> need a `scandinavia` tag normalized into their frontmatter, or the filter expression adjusted to your
-> installed Bases version.
