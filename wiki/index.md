@@ -447,6 +447,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `andrew-george-epic-of-gilgamesh-1999.md` | The Epic of Gilgamesh (Andrew George trans.) | 1999 (2nd ed. 2019) | primary | (4 subagent ranges + main-thread; source + gilgamesh/enkidu created, uruk/early-bronze-age updated; ~80 grounded claims on tyranny/friendship/death/quest/flood/Netherworld + Sumerian variants; Volume Synthesis Note; oldest world lit, Uruk legendary king) |
 | `code-of-hammurabi.md` | The Code of Hammurabi (L.W. King trans.) | c. 1750 BCE (L.W. King trans. early 20th c.) | primary | (scaffold + 2 staggered subagent ranges; 42 grounded claims with quotes/lines; Volume Synthesis Note; prologue/282 casuistic laws/epilogue; social classes, talion, family/commerce/agriculture rules; updated hammurabi + babylon-first-dynasty + middle-bronze-age) |
 | `homer-odyssey-lombardo.md` | Homer, The Odyssey (Stanley Lombardo trans.) | c. 750–700 BCE (monumental; Lombardo trans. 2000) | primary | (scaffold + 4 staggered subagent ranges; ~80 grounded claims with quotes/lines; Volume Synthesis Note; 24-book nostos: Telemachy, Phaeacians/apologoi, return/recognition, climax/peace; updated odysseus/penelope/ithaca + homer; complements Iliad) |
+| `sun-tzu-the-art-of-war.md` | The Art of War (Sun Tzu, trans. Lionel Giles 1910) | c. 5th–4th c. BCE (Giles 1910) | primary | (Deployed Subagent Strategy: source page + Section Plan (Giles Intro + 13 chs) on main; 3452-line text split to 3 ranges; 3 subagents extracted verbatim claims exclusively (intro bio/text history/commentators + Ch I-III Laying Plans/Waging War/Attack by Stratagem; Ch IV-X Tactical Dispositions/Energy/Weak-Strong/Maneuvering/Variations/Marching/Terrain; Ch XI-XIII Nine Situations/Attack by Fire/Use of Spies + notes). Key: "All warfare based on deception"; "know enemy and self"; win without fighting; five constant factors; nine situations; five spies (converted as linchpin); fire as adjunct; desperate ground unity (shuai-jan). Grounded [[actors/sun-tzu]], [[concepts/strategy]], [[concepts/deception-in-warfare]], [[concepts/indirect-approach]], [[hubs/warfare/strategy]]. Cross to Freedman, Brands New Makers, Paret. Source + .txt filed to raw/2. Ancient & Classical Civilizations/. Co-Authored-By: Claude Code (xAI)) |
 | `hansen-silk-road-2012.md` | The Silk Road: A New History (Valerie Hansen) | 2012 | secondary | (scaffold + 4 staggered subagent ranges; ~83 grounded claims with quotes/lines; Volume Synthesis Note; small-scale/local trade vs. cultural transmission via migrants/Sogdians; religious tolerance pre-Islam; documents from 7 oasis sites; updated silk-roads.md + periods/hubs) |
 | `abu-lughod-before-european-hegemony-1989.md` | Before European Hegemony: The World System A.D. 1250–1350 — Janet L. Abu-Lughod | 1989 | secondary | (scaffold + 5 staggered subagent ranges on OCR sidecar; ~45 grounded claims with verbatim + lines; Volume Synthesis Note; 8 circuits / polycentric / no hegemon / Mamluk gatekeeper / Chinese cores / "Fall of East precedes Rise of West"; updated afro-eurasian-world-system + high-middle-ages + quanzhou + genoa/venice + mamluk-sultanate + southeast-asia; Gap 10) |
 | `virgil-aeneid.md` | Virgil, The Aeneid (Robert Fagles trans.; Knox intro) | 29–19 BCE (composed); this edition Viking Penguin, 2006 | primary | (scaffold + 5 staggered subagent ranges; ~100 grounded claims with quotes/lines; Volume Synthesis Note; pietas/fatum vs. furor, Homeric models, Dido/Turnus/Camilla, Augustus/Rome destiny, founding cost; updated virgil + aeneas + cross-links; complements Georgics and Iliad/Odyssey) |
@@ -522,11 +523,11 @@ Per-page new/updated details live in each source page and `log.md`.
 | Processes | 314 |
 | Actors | 907 |
 | Places | 159 |
-| Concepts | 674 |
+| Concepts | 689 |
 | Comparisons | 16 |
 | Controversies | 62 |
 | Timelines | 5 |
 | Queries | 0 |
-| Sources | 277 |
+| Sources | 281 |
 | Hubs | 141 |
-| **Total (all `.md`)** | **3068** |
+| **Total (all `.md`)** | **3087** |
