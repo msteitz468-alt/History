@@ -191,7 +191,7 @@ imperial backbone wants specialist depth. Huang's *1587* is the notable remainin
 | *China: A History* — John Keay | `[BUY]` | ✅ | `keay-china-a-history` |
 | *The Song Dynasty* — Dieter Kuhn | `[BUY]` | ✅ | `kuhn-die-song-dynastie` (German ed.) |
 | *The Mongol Conquests* — Timothy May | `[BUY]` | ✅ | `may-mongol-conquests-2012` |
-| *1587, A Year of No Significance* — Ray Huang | `[BUY]` | ❌ | late-Ming classic; still wanted |
+| *1587, A Year of No Significance* — Ray Huang | `[BUY]` | ✅ | late-Ming classic; ingested 2026-06-22 via Deployed Subagent Strategy (4 ranges); full actor pages for Wanli, Zhang Juzheng, Shen Shixing, Hai Rui, Qi Jiguang, Li Zhi + enriched ming-dynasty + source claims with verbatim quotes. Fills Critical Gap 6 depth. |
 | *The Search for Modern China* — Jonathan Spence | `[BUY]` | ✅ | `spence-search-for-modern-china` |
 | *Zizhi Tongjian* — Sima Guang | `[NO TRANSLATION]` | ⚪ | no complete English translation |
 | *Records of the Grand Historian (Shiji)* — Sima Qian, Watson trans. | `[BUY]` | 🟡 | Qin + Han II volumes ingested; full Shiji partial |
