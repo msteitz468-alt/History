@@ -7,8 +7,8 @@ date_range: "1,200–800 BCE (regionally diachronous)"
 regions_covered: [near-east, levant, anatolia, mesopotamia, iran-plateau, mediterranean, iberia, china, south-asia, north-africa, sub-saharan-africa, mesoamerica]
 major_themes: ["aftermath of the Bronze Age Collapse", "iron metallurgy", "Neo-Assyrian resurgence", "Phoenician expansion", "the Greek 'Dark Age'", "Western Zhou and its fall", "Vedic age", "alphabetic writing", "small states and tribal polities"]
 collection_coverage: moderate
-sources_ingested: 3
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-06-23
 tags: [period]
 ---
 
@@ -197,3 +197,5 @@ European and Near Eastern Iron Age and thinner for Asia; sub-Saharan African
 ironworking and the Americas are covered only at overview scale here. Flag:
 absolute dates for this period (especially in the Levant and central
 Mediterranean) are actively contested.
+
+**Grounded claims from Budge/Romer range lines 1–4500 (2026-06-23 ingest)**: "Extensive collections of chapters that appear in the Book of the Dead also continued to be used in burials throughout the Late Period (from around 700 BC) and down into Ptolemaic and Roman times, just as did some of the chapters – sometimes known as ‘spells’ – from the Pyramid Texts and the Coffin Texts until, eventually, the pagan faith was banned by order of the Christian Roman emperors." (ll. ~786). "The Recension of the Book of the Dead in use in Ptolemaïc times was the Saïte" (ll. ~915). taxonomy: followed_by: Early Iron Age and later continuations of Egyptian funerary spells (overlaps [[late-bronze-age]]–[[early-iron-age]]). Updated preserving prior. See [[romer-egyptian-book-of-the-dead-2008]].

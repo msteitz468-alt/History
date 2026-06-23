@@ -40,13 +40,13 @@ state-level pages this spine creates.
 | Section (Part) | Chapters | Period | Region | Key topics / pages |
 |---|---|---|---|---|
 | 1. The Founding Factors | 1–4 | Deep Prehistory | continent | continental geology, Rift Valley, climate, soils — the environmental frame |
-| 2. Humanity Emerging | 5–10 | Deep Prehistory–Behavioral Modernity | east-africa | hominin evolution, [[out-of-africa-migration\|Out of Africa]], cognition, [[human-origins]] |
-| 3. The African Options | 11–19 | Behavioral Modernity–Early Iron Age | sub-saharan-africa | language, [[early-african-food-production\|food production]], [[pastoralism]], [[bantu-expansion\|iron and the Bantu expansion]] |
-| 4. African Civilizations | 20–30 | Classical Antiquity–Late Middle Ages | nile, horn, east, southern | [[kush-meroe\|Kush/Meroë]], [[aksum\|Aksum]], [[great-zimbabwe\|Great Zimbabwe]], [[swahili-coast\|Swahili coast]], [[trans-saharan-trade\|gold and trade]] |
-| 5. Foreign Influences | 31–39 | Late Middle Ages–Early Modern | west, central, atlantic | Islam, the Portuguese, the rise of the [[atlantic-slave-trade\|Atlantic slave trade]] |
+| 2. Humanity Emerging | 5–10 | Deep Prehistory–Behavioral Modernity | east-africa | hominin evolution, [[out-of-africa-migration|Out of Africa]], cognition, [[human-origins]] |
+| 3. The African Options | 11–19 | Behavioral Modernity–Early Iron Age | sub-saharan-africa | language, [[early-african-food-production|food production]], [[pastoralism]], [[bantu-expansion|iron and the Bantu expansion]] |
+| 4. African Civilizations | 20–30 | Classical Antiquity–Late Middle Ages | nile, horn, east, southern | [[kush-meroe|Kush/Meroë]], [[aksum|Aksum]], [[great-zimbabwe|Great Zimbabwe]], [[swahili-coast|Swahili coast]], [[trans-saharan-trade|gold and trade]] |
+| 5. Foreign Influences | 31–39 | Late Middle Ages–Early Modern | west, central, atlantic | Islam, the Portuguese, the rise of the [[atlantic-slave-trade|Atlantic slave trade]] |
 | 6. Settlers | 40–46 | Early Modern–Long 19th Century | southern-africa | the Cape, Boer/Bantu/British frontier, mineral revolution |
-| 7. The Scramble | 47–53 | Long 19th Century | continent | the [[scramble-for-africa\|partition of Africa]], conquest, colonial rule |
-| 8. The First Dance of Freedom | 54–55 | World Wars Era–Cold War | continent | [[decolonization\|decolonization]], independence, the post-colonial predicament |
+| 7. The Scramble | 47–53 | Long 19th Century | continent | the [[scramble-for-africa|partition of Africa]], conquest, colonial rule |
+| 8. The First Dance of Freedom | 54–55 | World Wars Era–Cold War | continent | [[decolonization|decolonization]], independence, the post-colonial predicament |
 
 (Chapters end ~ch. 55; the remainder of the file is notes, bibliography, and index.)
 

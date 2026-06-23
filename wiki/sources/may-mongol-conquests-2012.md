@@ -44,7 +44,7 @@ Catalyst")** narrates the rise of [[genghis-khan|Chinggis Khan]], the expansion,
 and "the world of 1350" — a Eurasia whose political map had been irrevocably redrawn,
 with more than twenty states erased. **Part Two ("The Chinggis Exchange")** is the
 heart of the book: the systematic, often unintended **transfers** that the empire set
-in motion — the [[pax-mongolica|Pax Mongolica]] and its trade; new forms of warfare
+in motion — the Pax Mongolica and its trade; new forms of warfare
 (gunpowder's westward diffusion); a portable administrative repertoire (the *yam* postal
 relay, the *ortagh* merchant partnerships, the census and tax system); the spread of
 world religions and the khanates' conversions; the **[[black-death|Black Death]]**; mass
@@ -63,7 +63,7 @@ to Chinggis Khan.
 
 - The **[[chinggis-exchange|Chinggis Exchange]]** concept page — the book's signature
   thesis and a direct analytic bridge to the [[columbian-exchange-1492|Columbian Exchange]].
-- The **[[pax-mongolica|Pax Mongolica]]** process page — the Mongol peace and the trade
+- The **Pax Mongolica** process page — the Mongol peace and the trade
   integration of Eurasia (the *yam*, the *ortagh*, secure routes).
 - The **[[mongol-conquests-13th-century|Mongol Conquests]]** transition page (on
   CLAUDE.md's standing transitions list).

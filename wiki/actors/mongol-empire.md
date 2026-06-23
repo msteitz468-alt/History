@@ -95,7 +95,7 @@ fall of the Yuan conventionally ends the "Mongol period," though from a Muslim
 vantage the "Mongolian moment" extends to the Timurids' demise (1500).
 [[may-mongol-conquests-2012|Timothy May]] stresses that the dissolution was not the
 end of integration: across their civil wars the khanates kept the
-[[pax-mongolica|Pax Mongolica]] and its trade alive, until the **[[black-death|Black
+Pax Mongolica and its trade alive, until the **[[black-death|Black
 Death]]** — carried west along the empire's own routes (Kaffa, 1346) — gutted their
 armies, cities, and bureaucracies and "played a major role in collapse" (Schamiloglu
 on the Golden Horde especially).
@@ -164,7 +164,7 @@ conquests turned on the army's **character, not its size**, and were bounded by 
 From the *Secret History* (de Rachewiltz, ll. 7001–11000): pre-1206 campaigns completed unification. At Qalaqal†it Sands the "Uru’ut and the Mangqut" vanguard "rush after men armed with spears And strip them of their blood-stained clothing" (ll. 10299-10305); "four hounds" Jebe et al. "advance feeding on dew And riding on the wind" (ll. 10239-10241) `part_of` emerging elite forces. Naiman defeat: Tayang Qan’s forces "tumbling down from the height of Naqu Cliff... like heaps of rotten logs" (ll. 10467-10471) `produced` fall of Naiman power `contributed_to` [[mongol-empire]] formation. Jamuqa deserted Naiman after demoralizing Tayang ("Frightened to death by the words from my mouth He has climbed up the mountain" ll. 10443-10445) `contributed_to` victory. Justice: "made this case a matter of law" for Naya’a (ll. 10554-10555); Sübe’etei mission "making this a matter of law, whoever then transgresses it shall be seized and beaten" with explicit hunt limits to preserve army mounts (ll. 10846-10854) `produced` decrees later associated with yasa/admin law `part_of` [[mongol-army]] and state centralization. Rebellious groups "distributed here and there down to the last one" (ll. 10756-10757) `contributed_to` breaking old tribal bonds in favor of merit/decimal. These `preceded_by` the 1206 quriltai; `enabled` the Jin/Xixia and western campaigns.
 
 **Verification from *Secret History of the Mongols* (de Rachewiltz, ll. 16086–22035, supplement + indexes)**: 
-- Ögödei’s post stations and levies: "They were made to provide post-station masters and post-horse keepers... At a single stage of the post there had to be twenty post-horse keepers..." and "one two-year-old wether out of every flock shall be given as levy for Our soup... one one-year-old sheep out of every hundred sheep... for the poor" (ll. 17707-17718, 17694-17699; also subjects index "post-relay system: 279-81" ll. ~20586; "levies... 279, 280" ll. ~20632). part_of: administrative consolidation under Ögödei; enabled: [[pax-mongolica]] communications and [[chinggis-exchange]].
+- Ögödei’s post stations and levies: "They were made to provide post-station masters and post-horse keepers... At a single stage of the post there had to be twenty post-horse keepers..." and "one two-year-old wether out of every flock shall be given as levy for Our soup... one one-year-old sheep out of every hundred sheep... for the poor" (ll. 17707-17718, 17694-17699; also subjects index "post-relay system: 279-81" ll. ~20586; "levies... 279, 280" ll. ~20632). part_of: administrative consolidation under Ögödei; enabled: pax mongolica communications and [[chinggis-exchange]].
 - Guard and discipline: detailed orders on nightguards/dayguards, "The nightguards shall stand at the door and around the Palace tent..." "If a member of the Guard... fails to take his turn... three strokes... seven... thirty-seven" (ll. 17132-17454 approx). part_of: [[mongol-army]] structure.
 - Succession and assembly: accession details and "Elder brother Ča’adai installed his younger brother Ögödei Qa’an as qan" (ll. 16446-16462). concurrent_with: transfer of guards/domain (ll. 16448+).
 Updated with direct quotes + taxonomy for verification of institutions.
@@ -184,7 +184,7 @@ across the sea.
 
 - [[genghis-khan]] — the founder; [[mongol-conquests-13th-century]] — the campaigns that built it.
 - [[pastoral-nomadism]] — the steppe military system the Mongols perfected.
-- [[pax-mongolica]] — the peace it imposed; [[chinggis-exchange]] — the continental exchange it enabled.
+- pax mongolica — the peace it imposed; [[chinggis-exchange]] — the continental exchange it enabled.
 - [[golden-horde]] · [[ilkhanate]] — the two successor khanates with dedicated pages.
 - [[afro-eurasian-world-system]], [[silk-roads]] — the exchange networks the Pax Mongolica integrated.
 - [[mongol-invasions-of-japan-1274-1281]] — the failed seaborne invasions (the limit of expansion).

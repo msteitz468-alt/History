@@ -8,7 +8,7 @@ region: [steppe, eastern-europe, central-asia, silk-road]
 affiliated_with: [[[mongol-empire]], "the Jochid line", [[mamluk-sultanate|the Mamluk Sultanate (ally)]]]
 opposed_by: [[[ilkhanate]], "the Chaghatayids", [[timur|Timur]], "the rising principality of Moscow"]
 key_events: ["Batu's western campaign 1236–42", "the Berke–Hülegü war", "the sack of Kaffa & the Black Death 1346", "Timur's devastation of Sarai 1390s"]
-key_processes: [[[pax-mongolica]], [[chinggis-exchange]], [[silk-roads]], "the Turkicization of the western steppe"]
+key_processes: [pax mongolica, [[chinggis-exchange]], [[silk-roads]], "the Turkicization of the western steppe"]
 sources_ingested: 4
 last_updated: 2026-06-22
 tags: [actor, empire, high-middle-ages, late-middle-ages, steppe, eastern-europe]
@@ -22,8 +22,8 @@ Khan's]] eldest son **Jochi** — was the northwestern of the four successor sta
 Kazakhstan and exercising long-term overlordship of the **[[rus-principalities|Rus′
 principalities]]**. It is the most important Mongol polity for the history of Russia and
 Eastern Europe — the "Tatar Yoke" of Russian nationalist memory — and, per
-[[may-mongol-conquests-2012|Timothy May]], a major node of the [[pax-mongolica|Pax
-Mongolica]] and the [[chinggis-exchange|Chinggis Exchange]].
+[[may-mongol-conquests-2012|Timothy May]], a major node of the Pax
+Mongolica and the [[chinggis-exchange|Chinggis Exchange]].
 
 ## Names and structure
 
@@ -107,13 +107,13 @@ Catholic powers.
 The Golden Horde is the principal Mongol legacy in **Russia and Eastern Europe** — a
 region the wiki's source base otherwise covers thinly. It shaped Muscovy's tax and postal
 institutions and its autocratic style, anchored the Mongol–Mamluk axis that contained the
-Ilkhanate, and was a pillar of the trans-Eurasian trade of the [[pax-mongolica|Pax
-Mongolica]] until plague and Timur broke it.
+Ilkhanate, and was a pillar of the trans-Eurasian trade of the Pax
+Mongolica until plague and Timur broke it.
 
 ## Related
 
 - [[mongol-empire]] — the parent empire; [[genghis-khan]] — ancestor of the Jochid line.
 - [[ilkhanate]] — its great Mongol rival; [[mamluk-sultanate]] — its ally against the Ilkhanate.
 - [[rus-principalities]] — its long-ruled subjects; [[timur]] — its destroyer.
-- [[pax-mongolica]] · [[chinggis-exchange]] · [[black-death]] — the connective system it joined and the plague that broke it.
+- pax mongolica · [[chinggis-exchange]] · [[black-death]] — the connective system it joined and the plague that broke it.
 - [[may-mongol-conquests-2012]] · [[morgan-the-mongols]] · [[jackson-mongols-and-the-west]] — the sources.

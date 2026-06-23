@@ -5,8 +5,8 @@ origin: compiled in its surviving form under the Dynasty of Isin (ends 1794 BCE)
 applies_to_periods: [Early Bronze Age, Middle Bronze Age]
 applies_to_regions: [mesopotamia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-23
 tags: [concept]
 ---
 
@@ -56,6 +56,7 @@ first king attested **both** in the list and by his own inscription is
 reign-lengths shrink to human proportions and agree with contemporary evidence,
 giving the historian firm ground. Synchronisms (e.g. Rimush of Akkad vs. "Kaku
 king of Ur") allow whole blocks of nominally successive dynasties to be collapsed.
+The Epic prologue (ll. 1039–1041) credits Gilgamesh (fifth king of Uruk's dynasty after the Flood per the list tradition) with restoring "the cult-centres destroyed by the Deluge, / and set in place for the people the rites of the cosmos"; this **concurrent_with** the post-diluvian re-establishment of kingship "in the city of Kish" followed by Uruk in the king-list scheme (as discussed in the source's introduction, ll. 832–870). From Sumerian poems apparatus in range (ll. 10001–12899): "AKKA King of Kish, possibly Gilgamesh’s nephew" (glossary, ll. 12449); the "Gilgamesh and Akka" poem is among the five earlier independent Sumerian traditions (publication notes, ll. 12732–35) that supplement the list's schematic ED dynasties.
 
 ## Contested points
 

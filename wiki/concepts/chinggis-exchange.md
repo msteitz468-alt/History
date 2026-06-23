@@ -29,12 +29,12 @@ The Chinggis Exchange is *not* the simple claim that the Mongols caused everythi
 afterward — May opens his book by satirizing the "Mongol mania" that would trace the
 Bolshevik Revolution, the Cold War, and even disco back to Chinggis Khan. The Exchange
 
-**Verification from *Secret History* (de Rachewiltz indexes + supplement, ll. 16086–22035)**: Post stations/levies as infrastructure of connectivity: "post-relay system... 279-81"; "levies... to support post-station system, 280" (subjects index ll. ~20586, 20636); Ögödei "had post stations set up so that our messengers could ride in haste" (ll. 17750-17756). enabled: [[pax-mongolica]] and thus the Chinggis Exchange (concurrent_with administrative reforms; part_of empire integration). Name index entries for trade routes, cities (e.g. "Buqar (pl.; Bukhara)", "Semisgen (pl.; ... Samarkand)") provide anchors for exchange nodes. Updated.
+**Verification from *Secret History* (de Rachewiltz indexes + supplement, ll. 16086–22035)**: Post stations/levies as infrastructure of connectivity: "post-relay system... 279-81"; "levies... to support post-station system, 280" (subjects index ll. ~20586, 20636); Ögödei "had post stations set up so that our messengers could ride in haste" (ll. 17750-17756). enabled: pax mongolica and thus the Chinggis Exchange (concurrent_with administrative reforms; part_of empire integration). Name index entries for trade routes, cities (e.g. "Buqar (pl.; Bukhara)", "Semisgen (pl.; ... Samarkand)") provide anchors for exchange nodes. Updated.
 is the set of transfers **directly linked to, or arising as a ramification of, Mongol
 activity**, in which the Mongols were typically *facilitators* (securing routes,
 moving populations, patronizing talent) rather than sole agents — "most of the Chinggis
 Exchange was the result of the efforts of the subjects of the Mongols and outsiders."
-Its precondition was the [[pax-mongolica|Pax Mongolica]]: the security and connectivity
+Its precondition was the Pax Mongolica: the security and connectivity
 of the largest contiguous empire in history.
 
 ## What was exchanged
@@ -42,7 +42,7 @@ of the largest contiguous empire in history.
 - **Trade and wealth.** Secure routes, the *yam* postal relay, and *ortagh* merchant
   partnerships turned long-distance bulk trade into "an economically sound
   proposition" (Allsen); a single silver stratum and a flood of luxury goods moved
-  from England to China (see [[pax-mongolica]], [[silk-roads]]).
+  from England to China (see pax mongolica, [[silk-roads]]).
 - **Military technology.** The westward diffusion of **gunpowder** and gunpowder
   weapons, the counterweight trebuchet, and new siege and cavalry methods (the
   Sultanate of [[delhi-sultanate|Delhi]] adopting gunpowder by c. 1290; debated Mongol
@@ -96,7 +96,7 @@ Indies.
 
 ## Related
 
-- [[columbian-exchange-1492]] — the model and the sequel (Crosby); [[pax-mongolica]] — the
+- [[columbian-exchange-1492]] — the model and the sequel (Crosby); pax mongolica — the
   precondition; [[silk-roads]] — the routes it revived.
 - [[mongol-empire]] · [[genghis-khan]] — the empire and the man whose name it bears.
 - [[black-death]] — its deadliest cargo; [[may-mongol-conquests-2012]] · [[jackson-mongols-and-the-west]] — the sources.

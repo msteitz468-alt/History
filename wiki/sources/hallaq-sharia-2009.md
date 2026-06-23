@@ -7,7 +7,7 @@ period_coverage: [Early Middle Ages, High Middle Ages, Late Middle Ages, Early M
 region_coverage: [near-east, levant, iran-plateau, north-africa, south-asia, southeast-asia, central-asia]
 methodological_approach: [legal history + critical theory — the standard scholarly account of Islamic law from formation to modern transformation]
 reliability_notes: "Wael Hallaq's Sharīʿa (2009) is the leading single-volume scholarly account of Islamic law. Part I treats the pre-modern tradition (formation, legal theory/usul al-fiqh, the schools, law & society, governance); Part II surveys the substantive law (ritual, contracts, family, property, offenses, jihad, courts); Part III advances his influential — and contested — thesis that colonial and nation-state modernity did not reform but structurally DESTROYED the sharia as a functioning system. DEEP ingest filling the wiki's Islamic-law layer."
-pages_created: 0
+pages_created: 37
 pages_updated: 0
 ingested: 2026-06-22
 tags: [source]
@@ -53,10 +53,26 @@ Deployed-subagent strategy, **6 agents** mapped to the book's chapter groups, we
 | **E** Modernity I (colonization) | 14193–17501 | 13–15: The conceptual framework; the jural colonization of India & SE Asia; hegemonic modernity in MENA | `colonial-transformation-of-islamic-law`, `anglo-muhammadan-law`, `islamic-law-and-modernity` |
 | **F** Modernity II (the nation-state) | 17502–22500 | 16–18: Modernizing the law in the age of nation-states; legal methodology; Repercussions | `codification-of-islamic-law`, `islamic-law-nation-state`, `destruction-of-the-sharia-thesis`, `modern-islamic-legal-reform` |
 
-## Claim list (filled on the main thread after agents finish)
+## Claim list — 37 pages (2 scaffold + 35 from 6 agents)
 
-_(to be populated in Step 4)_
+**Scaffold:** [[usul-al-fiqh]] · [[madhhab]].
+**A — Formation & legal theory:** [[ijma-consensus]] · [[qiyas-analogy]] · [[islamic-legal-reasoning]] · [[abu-hanifa]] · [[malik-ibn-anas]] · [[formative-period-islamic-law]].
+**B — Schools, society, governance:** [[hanafi-school]] · [[maliki-school]] · [[shafii-school]] · [[hanbali-school]] · [[circle-of-justice]] · [[mufti-and-fatwa]] · [[jurist-ruler-relationship-islamic]] · [[women-and-islamic-law-premodern]] · [[moral-community-islamic]].
+**C — Substantive law I:** [[islamic-ritual-law-ibadat]] · [[islamic-contract-law]] · [[islamic-family-law]] · [[islamic-property-law]].
+**D — Substantive law II & courts:** [[islamic-criminal-law]] · [[islamic-law-of-jihad]] · [[qadi-judiciary]] · [[islamic-law-of-evidence]] · [[dhimmi]].
+**E — Modernity I (colonization):** [[islamic-law-and-modernity]] · [[colonial-transformation-of-islamic-law]] · [[anglo-muhammadan-law]] · [[the-mecelle]] · [[adatrecht-and-reception-theory]].
+**F — Modernity II (the nation-state):** [[codification-of-islamic-law]] · [[islamic-law-nation-state]] · [[maqasid-al-sharia]] · [[destruction-of-the-sharia-thesis]] · [[modern-islamic-legal-reform]] · [[transformation-of-islamic-legal-education]].
 
 ## Volume Synthesis Note
 
-_(to be written in Step 4 after all agents complete)_
+A DEEP ingest filling the wiki's Islamic-law layer end to end. Part I supplies the theory and the
+institutions — [[usul-al-fiqh|legal theory]] (with [[shafii-muhammad-ibn-idris|al-Shāfiʿī]], [[ijma-consensus|ijmāʿ]],
+[[qiyas-analogy|qiyās]]), the four [[madhhab|schools]], the [[mufti-and-fatwa|muftī/fatwā]] machinery of
+legal change, and the [[circle-of-justice|Circle of Justice]] binding jurists and rulers. Part II maps
+the substantive law — [[islamic-ritual-law-ibadat|ritual]], [[islamic-contract-law|contracts]],
+[[islamic-family-law|family & succession]], [[islamic-property-law|property]],
+[[islamic-criminal-law|offenses]], [[islamic-law-of-jihad|jihād]], and the [[qadi-judiciary|qāḍī court]].
+Part III carries Hallaq's signature — and contested — thesis: that colonial codification and the modern
+[[islamic-law-nation-state|nation-state]] did not reform but structurally
+[[destruction-of-the-sharia-thesis|destroyed the sharia]] as a functioning system. It deepens the existing
+[[sharia]], [[fiqh]], [[taqlid-and-ijtihad]], and [[theology-and-islamic-law]] pages.

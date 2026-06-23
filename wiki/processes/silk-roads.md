@@ -98,7 +98,7 @@ Middle Millennium the center of gravity of China's external trade **shifted from
 overland routes toward the sea** — as China's population moved south and its
 [[song-dynasty|Song]]- and Yuan-era ports (Quanzhou, Guangzhou, Hangzhou) turned
 toward the [[indian-ocean-trade|Indian Ocean]]. The overland routes then enjoyed a
-final great revival under the **[[pax-mongolica|Pax Mongolica]]** (mid-13th–14th c.), when the
+final great revival under the **Pax Mongolica** (mid-13th–14th c.), when the
 [[mongol-empire|Mongol]] conquests lowered transaction costs across the whole breadth
 of Eurasia, let a single silver stratum circulate from England to China, and enabled
 the integrated [[afro-eurasian-world-system|eight-circuit world system]] (Abu-Lughod)

@@ -1,7 +1,7 @@
 ---
 title: "Mesopotamia — Regional Hub"
 hub_type: region
-sources_ingested: 1
+sources_ingested: 3
 last_updated: 2026-06-23
 tags: [hub, region, mesopotamia]
 ---
@@ -19,8 +19,9 @@ related: [[hubs/themes/state-formation|State Formation]] · [[hubs/themes/trade-
 
 ## Sumer & the first cities
 [[uruk|Uruk]], [[eridu|Eridu]], [[ur|Ur]], [[lagash|Lagash]] → [[early-dynastic-sumer|Early Dynastic Sumer]]
+Sumerian Gilgamesh poems (ll. 7001–10000) add: Huwawa/Bull exploits, Enkidu's Netherworld seizure and detailed report on fates (sons, deaths, offerings; ll. 8518–8800), Gilgamesh's Netherworld governorship and Uruk tomb (Euphrates diversion, ll. 9665+), legacy via statues (ll. 9803+). These **part_of** legendary traditions of ED Sumerian kingship, netherworld, and piety.
 ([[urukagina|Urukagina]], the [[lagash-umma-border-war|Lagash–Umma border war]], [[gudea|Gudea]]);
-[[urbanization|urbanization]] and [[state-formation|state formation]].
+[[urbanization|urbanization]] and [[state-formation|state formation]]. The *Epic of Gilgamesh* (Standard Version Tablets I–IV, ll. 771–4000) supplies the legendary portrait of Gilgamesh of Uruk, Enkidu's creation and taming, the assembly deliberations, and the Cedar Forest preparations as core cultural memory of the period. The *Epic* (Sumerian poems + OB fragments in [[andrew-george-epic-of-gilgamesh-1999]], ll. 10001–12899) supplies legendary memory of Gilgamesh/Akka conflict, Huwawa episodes, and netherworld traditions from this era's city-state world.
 
 ## The first empires
 [[sargon-of-akkad|Sargon]] and the [[akkadian-empire|Akkadian Empire]] ([[naram-sin|Naram-Sin]],

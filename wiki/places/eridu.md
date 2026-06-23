@@ -63,6 +63,8 @@ The sequence shows the temple growing *in place*, by continuous rebuilding on
 consecrated ground, across many centuries — the archaeological backbone of the
 argument that the Sumerian city crystallized around its temple.
 
+**From Sumerian Gilgamesh poems (ll. 7001–10000)**: In "Gilgamesh and the Netherworld", when the ball falls, Gilgamesh goes "alone to Eridu, the house of Ea" and weeps: "O Father Enki, my ball fell into the Netherworld..."; Enki helps, instructing Utu to open Netherworld for Enkidu's shade (ll. 9018–8672). This **part_of** Eridu's role as seat of Enki/Ea in ED legendary tradition.
+
 ## Significance
 
 Eridu supplies the **deep-time, single-site** demonstration of what

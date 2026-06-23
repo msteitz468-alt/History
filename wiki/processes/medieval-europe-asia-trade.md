@@ -6,7 +6,7 @@ date_precision: decade
 period: [High Middle Ages, Late Middle Ages]
 region: [central-asia, china, mediterranean, near-east, steppe, indian-ocean]
 process_type: [economic]
-driven_by: [[[pax-mongolica]], "Mongol elite demand for luxury goods", "the Genoese & Venetian Black Sea colonies", [[silk-roads|the trans-Asian routes]]]
+driven_by: [pax mongolica, "Mongol elite demand for luxury goods", "the Genoese & Venetian Black Sea colonies", [[silk-roads|the trans-Asian routes]]]
 produces: ["European commercial knowledge of Asia", "Marco Polo's book", "the slave & silk & spice trades of the Black Sea"]
 sources_ingested: 1
 last_updated: 2026-06-13
@@ -16,8 +16,8 @@ tags: [process, high-middle-ages, late-middle-ages, central-asia]
 # Medieval Europe–Asia Trade under the Mongols
 
 The penetration of **Latin (chiefly Italian) merchants into Mongol Asia**, c. 1260–1350 — the
-commercial strand of Mongol–Western contact, made possible by the [[pax-mongolica|Pax
-Mongolica]] and the [[silk-roads|trans-Asian routes]]. From [[jackson-mongols-and-the-west|Jackson's]]
+commercial strand of Mongol–Western contact, made possible by the Pax
+Mongolica and the [[silk-roads|trans-Asian routes]]. From [[jackson-mongols-and-the-west|Jackson's]]
 "Traders and Adventurers."
 
 ## Definition and Scope
@@ -33,7 +33,7 @@ mercantile networks that exploited it; it is the economic counterpart of the era
 The conquests created a **wealthy Mongol elite** eager for luxuries unavailable in the steppe
 (above all **gold brocade**, the *nasij* known as *panna tartarica*), and the Mongols
 **actively promoted trade** — issuing **paiza** safe-conduct tablets, granting use of the
-*yam* relays, and financing merchant partnerships (***ortogh***). The [[pax-mongolica]] made
+*yam* relays, and financing merchant partnerships (***ortogh***). The pax mongolica made
 long-distance trade secure and calculable.
 
 ## Major Phases
@@ -54,7 +54,7 @@ the gateways to the [[golden-horde|Golden Horde]] — east to Tabriz, across Cen
 
 ## Interaction
 
-It ran on the **[[pax-mongolica]]** and the **[[silk-roads]]**, formed one of the three
+It ran on the **pax mongolica** and the **[[silk-roads]]**, formed one of the three
 strands of Mongol–Latin contact (with [[medieval-latin-missions-to-asia|missions]] and
 [[mongol-latin-crusade-alliance|crusade diplomacy]]), enriched the Italian maritime cities,
 and produced the travel literature (Marco Polo, Pegolotti) that shaped Europe's
@@ -71,6 +71,6 @@ Indies** ("would Columbus have sailed?").
 
 ## Related
 
-- [[pax-mongolica]] · [[silk-roads]] — the peace and routes it ran on; [[chinggis-exchange]] — the wider opening.
+- pax mongolica · [[silk-roads]] — the peace and routes it ran on; [[chinggis-exchange]] — the wider opening.
 - [[medieval-latin-missions-to-asia]] · [[mongol-latin-crusade-alliance]] — the religious and diplomatic strands.
 - [[golden-horde]] — the Black Sea gateway; [[black-death]] — the cargo that came back; [[jackson-mongols-and-the-west]] — the source.

@@ -7,8 +7,8 @@ date_range: 1,550–1,200 BCE (Near East; regionally variable)
 regions_covered: [near-east, mesopotamia, levant, anatolia, north-africa, iran-plateau, aegean, mediterranean]
 major_themes: [the great-powers system, international diplomacy, chariot warfare, empire, the palace economy, long-distance luxury trade, the Indo-European expansions]
 collection_coverage: strong
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-23
 tags: [period]
 ---
 
@@ -148,6 +148,8 @@ Iranian grey-ware cultures.
 
 The collection now covers the Late Bronze Age **strongly across its whole span**
 through two Cambridge volumes: **[[edwards-cah-v2p1-1973|CAH Vol. II.1]]** (to c.
+
+**Grounded claims from Budge/Romer (Egyptian Book of the Dead) range lines 1–4500 (2026-06-23)**: "The third compilation, the Book of the Dead, is dated to the five-century-long New Kingdom, which began about 1550 BC, though a few chapters are known that are half a century older." (ll. ~784). "with the beginning of the XVIIIth Dynasty that work enters a new phase of its existence; ... the Recension of the Book of the Dead which we find in common use from the XVIIIth to the XXIInd Dynasty is generally called the Theban Recension." (ll. ~909). "papyri... from about B.C. 1600 to B.C. 900" (ll. ~854). taxonomy: part_of: [[late-bronze-age]] New Kingdom Theban elite religion; produced: Papyrus of Ani (~1250 BCE) hymns/spells. "The Papyrus of Ani... hymns to RĀ and Osiris, and texts referring to the Judgment Scene" (ll. ~860). Updated preserving prior. See [[romer-egyptian-book-of-the-dead-2008]].
 1380 BCE) — Egypt to Amenhotep III, the rise of Hatti and Mitanni, the Canaanite
 city-states, and the Minoan-zenith / Mycenaean-rise Aegean — and
 **[[edwards-cah-v2p2-1975|CAH Vol. II.2]]** (c. 1380–1000 BCE) — the

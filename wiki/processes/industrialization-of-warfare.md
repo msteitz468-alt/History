@@ -6,7 +6,7 @@ date_precision: approximate
 period: [Long 19th Century, World Wars Era, Cold War, Contemporary]
 region: [western-europe, eastern-europe, north-america, east-asia, transregional]
 process_type: [technological, military, political, economic]
-driven_by: ["the [[industrial-revolution|Industrial Revolution]] (mass production, railways, telegraph)", "the [[nation-state|nation-state]] and bureaucratization", "[[nationalism]] and mass mobilisation", "great-power and imperial competition", "scientific research harnessed to weapons development"]
+driven_by: ["the [[industrial-revolution|Industrial Revolution]] (mass production, railways, telegraph)", "the nation-state and bureaucratization", "[[nationalism]] and mass mobilisation", "great-power and imperial competition", "scientific research harnessed to weapons development"]
 produces: ["mass conscript armies", "[[total-war|total war]]", "the military-industrial complex", "weapons of mass destruction (chemical, nuclear)", "the laws of armed conflict"]
 sources_ingested: 1
 last_updated: 2026-06-14
@@ -41,7 +41,7 @@ The volume's organising thesis: **mass war was the product of three converging d
   breech-loading, then automatic firearms; steel artillery; the steam and then steel navy) and,
   through **railways and the telegraph**, the movement and command of armies on a continental
   scale.
-- **The fiscal-bureaucratic [[nation-state]]** could conscript, register, tax, and supply mass
+- **The fiscal-bureaucratic nation state** could conscript, register, tax, and supply mass
   populations — turning the whole of society into a resource for war.
 - **[[nationalism]]** converted subjects into citizen-soldiers and citizen-producers, making the
   "nation in arms" possible and the distinction between combatant and civilian increasingly
@@ -78,7 +78,7 @@ world.
 
 ## Interaction
 
-The process is inseparable from the [[industrial-revolution]], the rise of the [[nation-state]]
+The process is inseparable from the [[industrial-revolution]], the rise of the nation state
 and [[nationalism]], [[new-imperialism]], and the [[great-divergence|industrial divergence]] that
 gave the West its temporary military supremacy. It produces [[total-war]] as its defining
 twentieth-century form and the **military-industrial complex** as its institutional legacy.

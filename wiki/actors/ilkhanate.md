@@ -8,7 +8,7 @@ region: [iran-plateau, mesopotamia, near-east, central-asia]
 affiliated_with: [[[mongol-empire]], "the Toluid line", "the Yuan dynasty (ally)"]
 opposed_by: [[[mamluk-sultanate]], [[golden-horde|the Golden Horde]], "the Chaghatayids"]
 key_events: ["the sack of Baghdad 1258", "the defeat at Ain Jalut 1260", "Ghazan's conversion to Islam c. 1295", "the end of the line 1335"]
-key_processes: [[[pax-mongolica]], [[chinggis-exchange]], "the Islamization of the Mongols", "the Persianization of high culture"]
+key_processes: [pax mongolica, [[chinggis-exchange]], "the Islamization of the Mongols", "the Persianization of high culture"]
 sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, empire, high-middle-ages, late-middle-ages, iran-plateau, near-east]
@@ -87,4 +87,4 @@ generations, and its collapse left the vacuum Timur would fill.
 - [[baghdad]] · [[abbasid-caliphate]] · [[battle-of-ain-jalut-1260]] — its founding conquests and limits.
 - [[rashid-al-din]] — its great historian-vizier; [[timur]] — heir to its territory.
 - [[mongol-latin-crusade-alliance]] — its abortive anti-Mamluk diplomacy with the West.
-- [[pax-mongolica]] · [[chinggis-exchange]] — the connective system it anchored; [[may-mongol-conquests-2012]] · [[jackson-mongols-and-the-west]] — the sources.
+- pax mongolica · [[chinggis-exchange]] — the connective system it anchored; [[may-mongol-conquests-2012]] · [[jackson-mongols-and-the-west]] — the sources.

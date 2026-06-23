@@ -80,6 +80,8 @@ the [[fall-of-ur-2004bce|Elamite and Subarian sack of Ur]] (~2004 BCE) under
 Ibbi-Sin, mourned in the Sumerian **Lamentations over the Destruction of Ur** —
 after which "never again was Ur to play an important part in history."
 
+**From Sumerian Gilgamesh poems (ll. 7001–10000)**: In "Gilgamesh and the Netherworld", Gilgamesh goes "alone to Ur, the house of Sîn" to petition for the fallen ball/mallet and Enkidu: "O Father Sîn, today my ball fell into the Netherworld..." (ll. 9002–9014). This **part_of** Ur's legendary role as seat of Sîn in ED tradition. (Note parallel to Royal Tombs' funerary practices.)
+
 ## Why this place mattered
 
 Ur is the showcase of Early Dynastic wealth, art, and funerary religion, and

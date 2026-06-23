@@ -7,8 +7,8 @@ period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Classical 
 controlled_by: [Early Dynastic Egypt, Old Kingdom Egypt, New Kingdom Egypt]
 events_here: [[[unification-of-egypt-3100bce]], [[fall-of-old-kingdom-2160bce]]]
 processes_here: [[[urbanization]], [[agriculture-and-urbanism]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-23
 tags: [place, north-africa, early-bronze-age]
 ---
 
@@ -90,3 +90,5 @@ cities converged toward Near Eastern forms.
 - States: [[early-dynastic-egypt]] · [[old-kingdom-egypt]] · Event: [[unification-of-egypt-3100bce]]
 - Process: [[urbanization]] · Period: [[early-bronze-age]]
 - Concept: [[ritual-and-urban-performance]] · [[urbanism]] · [[divine-kingship]]
+
+**Grounded claims from Budge/Romer range lines 1–4500 (2026-06-23 ingest)**: "Seker, a very ancient god of the dead whose kingdom formed the Other World of the people of Memphis, and is represented to-day by the great necropolis of Sakkârah." (ll. ~2103). "Among the places which the deceased expected to visit in the Other World was the celestial Memphis, the abode of the spirit of Ptah·." (ll. ~2486, Ch. CVI). taxonomy: part_of: [[memphis|Memphis]] (Sakkara necropolis + celestial Ptah abode); preceded_by: Memphite beliefs in funerary texts. "THE CHAPTER OF GIVING OFFERINGS TO THE DECEASED IN THE-PTAH-KA (Memphis)." (TOC/contents ll. ~423). Updated preserving prior. See [[romer-egyptian-book-of-the-dead-2008]].

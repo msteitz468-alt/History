@@ -8,7 +8,7 @@ region: [china, east-asia, steppe, central-asia]
 affiliated_with: [the house of Genghis (grandson), the [[mongol-empire|Mongol Empire]] (Great Khan), the [[yuan-dynasty|Yuan dynasty]] (founder)]
 opposed_by: [the [[song-dynasty|Southern Song]], his brother Ariq Böke and rival Mongol khans, Japan and Đại Việt (failed invasions)]
 key_events: ["election as Great Khan and civil war with Ariq Böke (1260–64)", "founding of the Yuan dynasty (1271)", "conquest of the Southern Song (completed 1279)", "the failed invasions of Japan (1274, 1281) and Southeast Asia"]
-key_processes: [[[mongol-conquests-13th-century]], the founding of the [[yuan-dynasty|Yuan]], [[pax-mongolica]]]
+key_processes: [[[mongol-conquests-13th-century]], the founding of the [[yuan-dynasty|Yuan]], pax mongolica]
 sources_ingested: 1
 last_updated: 2026-06-14
 tags: [actor, person, high-middle-ages, china, east-asia, steppe]
@@ -38,7 +38,7 @@ imperial forms, patronized Tibetan Buddhism, employed Confucian advisers and a m
 administration (Mongols, Central Asian *semu*, and Chinese), and sought to govern China as a Chinese
 emperor while preserving Mongol identity and the privileged position of the conquerors. His court —
 visited and famously described by **Marco Polo** — was the cosmopolitan hub of the
-[[pax-mongolica|Pax Mongolica]]. His ambitions overreached, though: the great seaborne **invasions
+Pax Mongolica. His ambitions overreached, though: the great seaborne **invasions
 of Japan (1274, 1281)** and campaigns into Đại Việt, Champa, and Java failed at huge cost.
 
 ## Significance
@@ -53,5 +53,5 @@ conquest elite ruling over it.
 ## Related
 
 `part_of: [[mongol-empire]]` · `produced: [[yuan-dynasty]]` · `opposed_by: [[song-dynasty]]`
-[[yuan-dynasty]] · [[mongol-empire]] · [[mongol-conquests-13th-century]] · [[pax-mongolica]] ·
+[[yuan-dynasty]] · [[mongol-empire]] · [[mongol-conquests-13th-century]] · pax mongolica ·
 [[mongol-invasions-of-japan-1274-1281]] · [[cambridge-history-of-china]]

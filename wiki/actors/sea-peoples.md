@@ -43,7 +43,7 @@ The Egyptian sources (the Great Karnak Inscription and "Israel" stele of
 | **Sherden (Shardana)** | earlier serve as mercenaries in Egyptian armies; linked by some to Sardinia |
 | **Shekelesh** | linked by some to Sicily (Sikels) |
 | **Tursha (Teresh)** | linked by some to the Tyrrhenians / Etruscans |
-| **Akawasha (Ekwesh)** | argued by some to be [[ahhiyawa-question\|Achaeans / Aḫḫiyawa]] |
+| **Akawasha (Ekwesh)** | argued by some to be [[ahhiyawa-question|Achaeans / Aḫḫiyawa]] |
 | **Lukka** | southwest Anatolia (later Lycia); appear already in the Amarna age |
 | **Denyen (Danuna)** | linked variously to the Danaoi or to Cilician Adana |
 | **Weshesh** | unidentified |

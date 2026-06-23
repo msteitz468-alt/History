@@ -8,7 +8,7 @@ region: [china, east-asia, steppe, central-asia]
 affiliated_with: [the [[mongol-empire|Mongol Empire]] (its East Asian successor), the house of Kublai]
 opposed_by: [the [[song-dynasty|Southern Song]] (until 1279), the Red Turban rebels, the rising [[ming-dynasty|Ming]]]
 key_events: ["Mongol conquest of the Jin (1234) and the Southern Song (completed 1279)", "Kublai's proclamation of the Yuan (1271)", "the failed invasions of Japan (1274, 1281)", "the mid-14th-c. crises and the Red Turban rebellions", "expulsion to the steppe (1368)"]
-key_processes: [[[mongol-conquests-13th-century|Mongol conquest]], [[pax-mongolica|Pax Mongolica]], the "conquest dynasty" rule of China]
+key_processes: [[[mongol-conquests-13th-century|Mongol conquest]], Pax Mongolica, the "conquest dynasty" rule of China]
 sources_ingested: 1
 last_updated: 2026-06-14
 tags: [actor, dynasty, high-middle-ages, late-middle-ages, china, east-asia]
@@ -40,7 +40,7 @@ Chinese majority:
   suspended for decades, sidelining the Confucian gentry.
 - The Mongols relied on **foreign and non-Chinese personnel** (Muslims, Tibetans, even Marco Polo's
   Europe) and on Tibetan Buddhism, while keeping Chinese institutions running for revenue.
-- The **[[pax-mongolica|Pax Mongolica]]** integrated China into a Eurasian network of trade and
+- The **Pax Mongolica** integrated China into a Eurasian network of trade and
   exchange to an unprecedented degree (the context for Marco Polo and for the disease and
   commercial flows of the 13th–14th centuries).
 - Two great seaborne **invasions of Japan** (1274, 1281) failed, wrecked by storms (the *kamikaze*).
@@ -65,5 +65,5 @@ debate). It is the second great "conquest" of China, prefiguring the Manchu [[qi
 ## Related
 
 `part_of: [[mongol-empire]]` · `caused_by: [[mongol-conquests-13th-century]]` · `produced: [[ming-dynasty]]` (by reaction) · `contains: [[kublai-khan]]`
-[[mongol-empire]] · [[kublai-khan]] · [[song-dynasty]] · [[ming-dynasty]] · [[pax-mongolica]] ·
+[[mongol-empire]] · [[kublai-khan]] · [[song-dynasty]] · [[ming-dynasty]] · pax mongolica ·
 [[mongol-invasions-of-japan-1274-1281]] · [[cambridge-history-of-china]]

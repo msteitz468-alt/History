@@ -58,5 +58,5 @@ The observatory's period of peak activity was under al-Ṭūsī's directorship i
 - `part_of: [[post-avicennan-philosophy]]`
 - `caused_by: [[nasir-al-din-tusi]]` (his patronage relationship with Hülegü made it possible)
 - `produced: [[school-of-shiraz]]` (intellectual tradition migrated south)
-- `concurrent_with: [[pax-mongolica]]`
+- `concurrent_with: pax mongolica`
 - `analogous_to: [[islamic-philosophy]]` (new institutional home for continuing tradition)

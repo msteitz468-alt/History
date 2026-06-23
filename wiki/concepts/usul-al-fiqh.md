@@ -19,7 +19,7 @@ method: the theory of the [[quran|Qur'an]] and [[hadith|Sunna]] as sources, of t
 interpretation of revealed texts, of consensus (*ijmāʿ*) and analogical reasoning (*qiyās*), and of the
 interpretive effort ([[taqlid-and-ijtihad|ijtihād]]) by which a qualified jurist reaches a ruling.
 
-Traditionally traced to [[al-shafii|al-Shāfiʿī]]'s *Risāla*, uṣūl al-fiqh matured into the master-science
+Traditionally traced to [[shafii-muhammad-ibn-idris|al-Shāfiʿī]]'s *Risāla*, uṣūl al-fiqh matured into the master-science
 of the [[madhhab|legal schools]], defining what counted as valid legal argument across [[sharia|the
 sharia]]. It is, in Hallaq's account, the rational backbone that made Islamic law a self-governing
 juristic system independent of the state.

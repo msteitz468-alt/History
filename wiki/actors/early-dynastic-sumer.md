@@ -9,7 +9,7 @@ affiliated_with: []
 opposed_by: [Elam, [[akkadian-empire|Akkad (later conqueror)]]]
 key_events: [[[lagash-umma-border-war]], [[unknown|Lugalzaggisi's conquest]]]
 key_processes: [[[urbanization]], [[state-formation]], [[writing-and-record-keeping]], [[temple-economy]]]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-23
 tags: [actor, state, early-bronze-age, mesopotamia]
 ---
@@ -74,7 +74,7 @@ the king-list omits entirely). Landmarks:
 - **Enmebaragisi of Kish** — earliest ruler attested by his own inscription.
 - **Gilgamesh of Uruk** and his war with **Agga of Kish** — the first glimpse of
   the inter-city struggle for supremacy (and a key text in the
-  [[hierarchy-vs-heterarchy-early-cities|"primitive democracy" debate]]). The Sumerian poem "Gilgamesh and Akka" (in range, ll. 6501–6730) details the assemblies of elders and young men of Uruk debating submission to Kish ("let us submit to the house of Kish, let us not wage war!" vs. young men's "let us not submit... let us wage war!"); Gilgamesh follows the young men, Enkidu participates in the action, Akka is captured then freed (ll. 6659–6725). This **preceded_by** (in Sumerian tradition) the Huwawa/Cedar Forest expedition recounted in "Gilgamesh and Huwawa" (ll. 6735–7000), where Huwawa is tricked of his auras and slain (Enlil disapproves). These poems **part_of** the legendary corpus for Early Dynastic Uruk.
+  [[hierarchy-vs-heterarchy-early-cities|"primitive democracy" debate]]). In the Standard Version (ll. 771–4000) Gilgamesh as "shepherd of Uruk-the-Sheepfold" (ll. 784, 1091) tyrannizes the people, prompting divine creation of Enkidu (ll. 1141–1161); he addresses the assembly of elders ("Hear me, O elders of Uruk-the-City!", ll. 2052–2066) and young men to announce the Cedar Forest expedition despite warnings, then instructs regents during his absence (ll. 2447–2453). These episodes from the Standard Version **concurrent_with** the legendary traditions of Early Dynastic Uruk. The Sumerian poem "Gilgamesh and Akka" details assemblies debating submission to Kish; Gilgamesh follows the young men. This **preceded_by** (in Sumerian tradition) the Huwawa/Cedar Forest expedition. These poems **part_of** the legendary corpus for Early Dynastic Uruk. Additional from range apparatus (ll. 10001–12899): the five Sumerian poems listed with editions (Akka, Huwawa A/B, Bull of Heaven, Netherworld, Death of Gilgamesh; ll. 12732–80); "HUWAWA An old form of the name Humbaba" (glossary, ll. 12545). OB fragments detail Uruk's sevenfold gates, elders' counsel against Huwawa ("You are young, Gilgamesh, borne along by emotion...", ll. 10518–36), and the assembly setting.
 - **The First Dynasty of Ur** (Mesannepada) — where the king-list's reign-lengths
   first shrink to human scale and agree with contemporary inscriptions; the era of
   the [[ur|Royal Tombs of Ur]].
@@ -120,6 +120,11 @@ Absolute dates follow the [[mesopotamian-chronology|middle chronology]]; CAH's
 uncalibrated radiocarbon is superseded. The "primitive democracy" reading of early
 kingship (Jacobsen) is a live interpretive question, not settled fact. See
 [[cambridge-ancient-history-methodology]].
+
+**Grounded claims from Sumerian Gilgamesh poems (exclusive range: Andrew George trans., ll. 7001–10000)**:
+- Huwawa poem end and Bull of Heaven locate heroic exploits in the city-state world (e.g., "the sons of his city who had come with him" lop branches, Gilgamesh calls "O city, he who has a wife, to his wife!" in Huwawa B, ll. 7478–84; Bull fills Uruk and Kullab, ll. 7951–53). **part_of** [[early-dynastic-sumer|Early Dynastic Sumer]] legendary kingship.
+- "Gilgamesh and the Netherworld" and "Death of Gilgamesh" show ED Sumerian views on netherworld governance, mourning rites, tomb construction (Euphrates diversion in Uruk, ll. 9665–83), and legacy through statues ("how their names are pronounced will never be forgotten!", ll. 9807) and offspring (Aruru "for the sake of their names gave (men) offspring", ll. 9811). These **produced** cultural practices of funerary piety in the city-state period.
+- Gilgamesh petitions Enki at Eridu and goes "alone to Ur, the house of Sîn" (ll. 9002–4); Ur recension alludes to Amorite disruption of Sumerian netherworld offerings post-Ur III (ll. 8820–32). **concurrent_with** historical memories of ED/Ur III transitions.
 
 ## Related
 

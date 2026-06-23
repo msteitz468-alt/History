@@ -5,8 +5,8 @@ origin: emic to ancient monarchies; analytically developed by Frazer (The Golden
 applies_to_periods: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Classical Antiquity, Late Antiquity]
 applies_to_regions: [north-africa, mesopotamia, near-east, east-asia, mesoamerica, andes]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: [concept]
 ---
 
@@ -48,7 +48,7 @@ reading: a deified king was a *practical necessity* of empire — only a **god**
 could legitimately appoint a human governor to act as another city-god's steward,
 something no mere mortal could authorize. Mesopotamian royal deification thus
 appears tied to the rise of **territorial empire** over the older city-state order,
-and it largely lapsed after Ur III.
+and it largely lapsed after Ur III. In contrast, the Gilgamesh traditions from Sumerian poems/OB fragments (ll. 10001–12899 [[andrew-george-epic-of-gilgamesh-1999]]) depict the semi-divine king confronting mortality: Enkidu affirms Gilgamesh's kingship by destiny ("to be king of the people Enlil made it your destiny", ll. 10279–83) yet the core message is that "death they dispensed to mankind, life they kept for themselves" (tavern-keeper, ll. 11367–71). These **contrasts_with** imperial deification.
 
 ## Etic use and variation
 

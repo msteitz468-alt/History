@@ -100,11 +100,11 @@ The Ismaili project ultimately failed: the lands of the [[buyid-dynasty|Būyids]
 
 | Tradition | Relation to Ismaili Neoplatonism |
 |---|---|
-| [[islamic-philosophy\|Falsafah]] | Shares Neoplatonic framework; Ismailis Islamicize it more explicitly and add Imamate theology |
-| [[mutazilism\|Muʿtazilism]] | Shares negative theology; Ismailis go further with double negation |
-| [[asharism\|Ashʿarism]] | Rival Sunni theology; later critiqued Ismaili *taʿlīm* (al-Ghazālī's critique) |
-| [[ikhwan-al-safa\|Brethren of Purity]] | May overlap; Brethren likely had Ismaili sympathies |
-| [[sufism\|Sufism]] | Some overlap on esoteric/exoteric distinction; separate development |
+| [[islamic-philosophy|Falsafah]] | Shares Neoplatonic framework; Ismailis Islamicize it more explicitly and add Imamate theology |
+| [[mutazilism|Muʿtazilism]] | Shares negative theology; Ismailis go further with double negation |
+| [[asharism|Ashʿarism]] | Rival Sunni theology; later critiqued Ismaili *taʿlīm* (al-Ghazālī's critique) |
+| [[ikhwan-al-safa|Brethren of Purity]] | May overlap; Brethren likely had Ismaili sympathies |
+| [[sufism|Sufism]] | Some overlap on esoteric/exoteric distinction; separate development |
 
 ## Historiography
 

@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [Nubian tribes, Libyans, Sinai bedawin ("sand-dwellers")]
 key_events: [[[fall-of-old-kingdom-2160bce]]]
 key_processes: [[[state-formation]], [[divine-kingship]]]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-23
 tags: [actor, state, early-bronze-age, north-africa]
 ---
 
@@ -91,6 +91,8 @@ days"), propped up by powerful provincial families (Shemay at Koptos), until
 [[fall-of-old-kingdom-2160bce|onset of the First Intermediate Period]]. The
 collapse is mirrored in a **pessimistic literature** of lament foreign to the
 confident earlier age.
+
+**Grounded claims from Budge/Romer range lines 1–4500 (2026-06-23 ingest)**: "The Heliopolitan Recension... Vth and VIth Dynasties... inscribed in hieroglyphics upon the walls and chambers of the Pyramids at Sakkâra" (ll. ~905). "During the reign of Men-kau-RĀ (Mycerinus), a king of the IVth Dynasty, it is said that Chapters XXXB., LXIV., and CXLVIII. were “found” by Heru-tā-tā-f, the son of Khufu" (ll. ~903). "the Pyramid Texts... the oldest known religious literature" (ll. ~782). taxonomy: part_of / preceded_by: [[old-kingdom-egypt|Old Kingdom Egypt]] Pyramid Age origins of Book of the Dead recensions. "the change... foundations of the sepulchral customs and of the system of mummification which were universal among the historical Egyptians were then laid." (ll. ~898). Updated preserving prior. See [[romer-egyptian-book-of-the-dead-2008]].
 
 ## Government and society
 

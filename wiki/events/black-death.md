@@ -91,7 +91,7 @@ medieval demography "high-risk."
 
 ## Related
 
-- `caused_by:` the trade routes of the [[mongol-empire|Mongol]] world ([[pax-mongolica]]) — Kaffa, 1346; `preceded_by:` the Great Famine (1315–1322).
+- `caused_by:` the trade routes of the [[mongol-empire|Mongol]] world (pax mongolica) — Kaffa, 1346; `preceded_by:` the Great Famine (1315–1322).
 - `part_of:` the [[chinggis-exchange]] (its deadliest cargo); see [[may-mongol-conquests-2012]].
 - `part_of:` the [[late-medieval-crisis|late-medieval crisis]] (the "calamitous fourteenth century").
 - `produced:` the late-medieval agrarian crisis, rising wages and the decline of western [[feudalism|serfdom]], the peasant revolts, and the demographic reversal of the [[urbanization|urban apogee]].

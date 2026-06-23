@@ -120,7 +120,7 @@ route guards (*qaraqchin*) at the 1206 *quriltai*, and personally financed an
 international caravan to the Khwarazmian Empire. Its **massacre at Otrar (1218)** —
 "at bottom a pocket book issue" (Allsen), since Chinggis and his princes had invested in
 it — triggered the annihilation of Khwarazm and the westward expansion. This commercial
-mindset is the seed of the [[pax-mongolica|Pax Mongolica]] and the
+mindset is the seed of the Pax Mongolica and the
 [[chinggis-exchange|Chinggis Exchange]] that bear his name.
 
 ## Counterfactual Significance
@@ -140,7 +140,7 @@ as political reach.
 
 - [[mongol-empire]] — the empire he founded; [[mongol-conquests-13th-century]] — its campaigns.
 - [[pastoral-nomadism]] — the steppe military and political system he reorganized.
-- [[pax-mongolica]] · [[chinggis-exchange]] — the peace and the exchange that carry his name.
+- pax mongolica · [[chinggis-exchange]] — the peace and the exchange that carry his name.
 - [[timur]] — the later Central Asian conqueror who claimed Chinggisid legitimacy.
 - [[state-formation]] — the comparative analysis of his achievement (Arnason).
 - [[mongol-army]] — the force he built; [[the-mongol-yasa]] — the disputed law code.

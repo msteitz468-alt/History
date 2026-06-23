@@ -5,7 +5,7 @@ period_involved: [Early Bronze Age, Classical Antiquity, Late Antiquity]
 regions_involved: [mesopotamia, west-africa, mesoamerica, south-asia, mediterranean]
 positions: [centralized hierarchy / archaic state, heterarchy / distributed power, mixed / case-specific]
 resolution_status: partially-resolved
-last_updated: 2026-06-11
+last_updated: 2026-06-23
 tags: [controversy]
 ---
 
@@ -43,9 +43,9 @@ checked by an **assembly of elders and free men**. Its prime text is the Sumeria
 epic of **Gilgamesh and Agga** ([[uruk|Uruk]] vs. Kish), in which Gilgamesh, having
 been refused by the senate of elders, wins the backing of the assembly of fighting
 men to resist — read as a memory of a deliberative, two-chamber polity behind the
-later façade of one-man rule. CAH ([[edwards-cah-v1p2-1971]], Ch. XIII, Gadd)
+later façade of one-man rule. In the Standard Version (ll. 771–4000) Gilgamesh "convened [the assembly,] the crowd gathered round" (ll. 2038); he addresses "the elders of Uruk-the-City" (ll. 2052) and "the young men of Uruk" (ll. 2076), who offer counsel against the Humbaba expedition (ll. 2130–2152); the "senior advisers" and regents play advisory roles (ll. 2455+). CAH ([[edwards-cah-v1p2-1971]], Ch. XIII, Gadd)
 records the debate while cautioning it rests largely on inference from myth and
-from the land-tenure behind [[urukagina|Urukagina's reforms]].
+from the land-tenure behind [[urukagina|Urukagina's reforms]]. The Standard Version assemblies **concurrent_with** (and support) the heterarchy evidence from the Sumerian poem.
 
 **3. Mixed / case-specific.**
 Most cities combined both; the analytical task is to specify the *balance* in each

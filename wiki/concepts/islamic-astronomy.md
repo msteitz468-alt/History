@@ -21,7 +21,7 @@ Maragha, Samarqand), compiled the *zīj* astronomical tables, and — crucially,
 
 The objection was not observational but philosophical-mathematical: Ptolemy's equant violated the
 principle of uniform circular motion. To repair it, astronomers of the [[maragha-school|Maragha school]]
-devised new theorems — above all the [[tusi-couple|Ṭūsī couple]] of [[al-tusi|Naṣīr al-Dīn al-Ṭūsī]] and
+devised new theorems — above all the [[tusi-couple|Ṭūsī couple]] of [[nasir-al-din-tusi|Naṣīr al-Dīn al-Ṭūsī]] and
 the lunar and planetary models of [[ibn-al-shatir|Ibn al-Shāṭir]] — that reproduced Ptolemy's predictions
 with physically consistent models. These same mathematical devices reappear in
 [[islamic-science-and-copernicus|Copernicus]], a central thread of the argument that Islamic astronomy

@@ -5,10 +5,10 @@ modern_equivalent: Luxor / Karnak, Upper Egypt
 coordinates: ~25.7°N, 32.6°E
 period_active: [Middle Bronze Age, Late Bronze Age]
 controlled_by: [Egypt (Theban dynasties)]
-events_here: [the Theban war of liberation against the [[hyksos|Hyksos]], the building of Karnak and the Theban necropolis]
+events_here: [the Theban war of liberation against the [[hyksos|Hyksos]], the building of Karnak and the Theban necropolis, Papyrus of Ani (famous Book of the Dead exemplar, c. 1250 BCE)]
 processes_here: [[[second-intermediate-period]], [[temple-economy]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: [place, north-africa, late-bronze-age, middle-bronze-age, greece]
 ---
 
@@ -59,3 +59,13 @@ also the single richest source of New Kingdom history.
 - People: [[ahmose-i]] · [[hatshepsut]] · [[thutmose-iii]] · [[amenhotep-iii]] · [[mentuhotpe-ii]]
 - Process: [[second-intermediate-period]] · [[temple-economy]] · Rival capital: [[memphis]] · Hyksos seat: [[avaris]]
 - Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]
+- [[romer-egyptian-book-of-the-dead-2008|Book of the Dead (Papyrus of Ani)]] — primary for Theban New Kingdom funerary magic, [[osiris|Osiris]] judgment, [[anubis|Anubis]]/[[thoth|Thoth]]/[[maat|Maat]] in Duat.
+
+**Grounded claims from Budge/Romer range lines 1–4500 (2026-06-23 ingest)**: "The greater number of the papyri inscribed with selections of texts from the Book of the Dead have been found in the tombs of Thebes... for this reason the Recension of the Book of the Dead which we find in common use from the XVIIIth to the XXIInd Dynasty is generally called the Theban Recension." (ll. ~909). "the Papyrus of Ani supplies us with Introductions to Chapters XVIII. and CXXV., and hymns to RĀ and Osiris, and texts referring to the Judgment Scene" (ll. ~860). "Vignette: The scribe Ani standing... Behind him stands his wife Thuthu, a member of the College of Åmen-Rā at Thebes" (ll. 3656). taxonomy: part_of: [[thebes|Thebes]] provenance and elite practice in [[late-bronze-age]]. "A HYMN OF PRAISE TO RA¯ ... Behold Osiris,1 Ani the scribe..." (ll. 3658). Updated preserving prior content. See source.
+
+**Grounded from range 4501-9000 (judgment Ch. CXXV main-thread recovery)**:
+- Famous judgment vignette from Papyrus of Ani (Thebes): heart weighed "against the feather of Maāt by Anubis... Thoth... recording... Osiris... with Isis and Nephthys... 42 assessors" (ll. ~1035+ and ~3790+). part_of Theban Recension; produced magical protection for deceased.
+- "I have not committed iniquity against men... I have not robbed with violence... I have not slain man or woman..." (ll. ~7562-7578, full list of ~42 confessions). concurrent_with Theban New Kingdom elite practice; contributed_to "true of voice" in Duat.
+- "I am pure, I am pure, I am pure, I am pure!" (ll. ~7570s). enabled passing before Osiris in Theban papyri.
+- "Let the scale of the balance be at rest." (ll. ~4207+). contributed_to verdict for Theban deceased (e.g. Ani).
+All preserve prior content; added with quotes + ll. + taxonomy. See full recovery block in source page.

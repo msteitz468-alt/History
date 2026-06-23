@@ -21,7 +21,7 @@ tags: [hub, region, silk-road]
 - The [[silk-roads|Silk Roads]] themselves and the [[trade-network-formation|formation of trade networks]].
 - The [[sogdians|Sogdians]] — the great middleman merchants of Central Asia.
 - The [[afro-eurasian-world-system|Afro-Eurasian world system]] the routes helped create.
-- The [[pax-mongolica|Pax Mongolica]] — the 13th-century Mongol peace that reopened the roads end to end.
+- The Pax Mongolica — the 13th-century Mongol peace that reopened the roads end to end.
 
 ## Carried along the routes
 Religions (Buddhism, Islam, Nestorian Christianity), technologies (paper, the stirrup), and the

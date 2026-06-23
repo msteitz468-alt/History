@@ -23,7 +23,7 @@ Zahirism is one of several historical responses to the foundational problem of I
 
 ## Origins and Development
 
-The school takes its name from the approach (not a personal name) of Dawud ibn Khalaf (d. 884 CE), a student of [[al-shafii|al-Shafi'i]]. Al-Shafi'i had himself sought to systematize and restrict the use of independent judgment (*ra'y*), allowing only constrained reasoning (*qiyas*) and insisting on the primacy of sound hadith. Dawud pushed further, rejecting even this moderate use of analogy in favor of strict literal reading.
+The school takes its name from the approach (not a personal name) of Dawud ibn Khalaf (d. 884 CE), a student of [[shafii-muhammad-ibn-idris|al-Shafi'i]]. Al-Shafi'i had himself sought to systematize and restrict the use of independent judgment (*ra'y*), allowing only constrained reasoning (*qiyas*) and insisting on the primacy of sound hadith. Dawud pushed further, rejecting even this moderate use of analogy in favor of strict literal reading.
 
 The school attracted adherents in the eastern Islamic world but never achieved the political patronage that sustained the four major schools. It survived primarily through the writings of its greatest champion, the Andalusi scholar [[ibn-hazm|Ibn Hazm]] (d. 1064), who produced the most elaborate defense of Zahiri principles and applied them across jurisprudence, theology, and logic.
 

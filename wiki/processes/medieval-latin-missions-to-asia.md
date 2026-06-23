@@ -6,7 +6,7 @@ date_precision: decade
 period: [High Middle Ages, Late Middle Ages]
 region: [central-asia, china, near-east, steppe, indian-ocean]
 process_type: [religious]
-driven_by: [[[mongol-empire|Mongol religious toleration]], "the Mendicant Orders (Franciscans & Dominicans)", [[pax-mongolica|the Pax Mongolica]], "hopes of converting the Mongols"]
+driven_by: [[[mongol-empire|Mongol religious toleration]], "the Mendicant Orders (Franciscans & Dominicans)", the Pax Mongolica, "hopes of converting the Mongols"]
 produces: ["the Latin archbishopric of Khanbaligh", "European knowledge of Asia (Carpini, Rubruck)", "the Catholic missions' collapse after 1368"]
 sources_ingested: 1
 last_updated: 2026-06-13
@@ -17,7 +17,7 @@ tags: [process, high-middle-ages, late-middle-ages, central-asia]
 
 The remarkable, ultimately short-lived effort by the **Franciscan and Dominican** orders to
 **carry Catholic Christianity across Mongol Asia** (c. 1245–1370), made possible by Mongol
-**religious toleration** and the security of the [[pax-mongolica|Pax Mongolica]]. From
+**religious toleration** and the security of the Pax Mongolica. From
 [[jackson-mongols-and-the-west|Peter Jackson's]] study.
 
 ## Definition and Scope
@@ -57,7 +57,7 @@ months on the Coromandel coast) — a genuinely trans-Eurasian Catholic presence
 
 ## Interaction
 
-The missions ran on the **[[pax-mongolica]]** and alongside the
+The missions ran on the **pax mongolica** and alongside the
 [[medieval-europe-asia-trade|Italian trade]] and the [[mongol-latin-crusade-alliance|crusade
 diplomacy]]; they generated Europe's first detailed knowledge of Inner Asia and China
 ([[medieval-european-images-of-the-mongols]]) and depended on Mongol toleration and Eastern
@@ -73,6 +73,6 @@ being real but **fragile and largely reversed**.
 
 ## Related
 
-- [[pax-mongolica]] — the security they travelled on; [[medieval-europe-asia-trade]] — their commercial counterpart.
+- pax mongolica — the security they travelled on; [[medieval-europe-asia-trade]] — their commercial counterpart.
 - [[mongol-latin-crusade-alliance]] — the diplomatic strand; [[medieval-european-images-of-the-mongols]] — the curiosity that drove them.
 - [[golden-horde]] · [[ilkhanate]] · [[mongol-empire]] — the polities they worked in; [[jackson-mongols-and-the-west]] — the source.

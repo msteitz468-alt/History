@@ -53,7 +53,7 @@ China** (the Yuan); (6) **Expansion to the West** — Russia (the Golden Horde) 
   **pasture**).
 - Enrichment of [[mongol-empire]] (institutions and historiography), [[golden-horde]]
   (the *basqaq*, Alexander Nevsky, the "Tatar Yoke" revision, Russia as peripheral),
-  [[genghis-khan]] (the *yasa* and the army), and [[pax-mongolica]] (a skeptical note).
+  [[genghis-khan]] (the *yasa* and the army), and pax mongolica (a skeptical note).
 
 ## Reliability and stance
 

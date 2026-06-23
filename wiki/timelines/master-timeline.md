@@ -20,30 +20,30 @@ tags: [hub, timeline]
 
 | # | Period | Date Range | Coverage | Major transition into the next |
 |---|---|---|---|---|
-| 1 | [[deep-prehistory\|Deep Prehistory]] | before 3.3 Mya BP | weak | — |
-| 2 | [[early-prehistory\|Early Prehistory]] | 3.3 Mya–300,000 BP | moderate | emergence of _Homo sapiens_ |
-| 3 | [[late-prehistory\|Late Prehistory]] | 300,000–50,000 BP | moderate | behavioral modernity |
-| 4 | [[behavioral-modernity\|Behavioral Modernity]] | 50,000–12,000 BP | strong | end of the Ice Age |
-| 5 | [[mesolithic\|Mesolithic]] | 12,000–9,500 BP | moderate | adoption of farming |
-| 6 | [[neolithic\|Neolithic]] | 9,500–3,000 BCE | strong | metallurgy, first cities |
-| 7 | [[chalcolithic\|Chalcolithic]] | 5,500–3,300 BCE | moderate | bronze, urban states |
-| 8 | [[early-bronze-age\|Early Bronze Age]] | 3,300–2,100 BCE | moderate | — |
-| 9 | [[middle-bronze-age\|Middle Bronze Age]] | 2,100–1,550 BCE | moderate | — |
-| 10 | [[late-bronze-age\|Late Bronze Age]] | 1,550–1,200 BCE | strong | **[[bronze-age-collapse-1200bce\|the Bronze Age Collapse]]** |
-| 11 | _[[bronze-age-collapse-1200bce\|Bronze Age Collapse]]_ (transition) | ~1,200–1,150 BCE | strong | systemic collapse of palace economies |
-| 12 | [[early-iron-age\|Early Iron Age]] | 1,200–800 BCE | moderate | rise of the polis & alphabet |
-| 13 | [[archaic-period\|Archaic Period]] | 800–500 BCE | strong | classical efflorescence |
-| 14 | [[classical-antiquity\|Classical Antiquity]] | 500–31 BCE | strong | Roman imperial order |
-| 15 | [[late-antiquity\|Late Antiquity]] | 31 BCE–600 CE | strong | **[[fall-of-the-western-roman-empire-476\|fall of the Western Roman Empire]]**; rise of Islam |
-| 16 | [[early-middle-ages\|Early Middle Ages]] | 600–1000 CE | strong | commercial & demographic takeoff |
-| 17 | [[high-middle-ages\|High Middle Ages]] | 1000–1300 CE | strong | **[[mongol-conquests-13th-century\|the Mongol conquests]]**; crisis of the 14th c. |
-| 18 | [[late-middle-ages\|Late Middle Ages]] | 1300–1500 CE | strong | **[[columbian-exchange-1492\|1492 & the Columbian Exchange]]** |
-| 19 | [[early-modern\|Early Modern]] | 1500–1700 CE | moderate | global trade, gunpowder empires |
-| 20 | [[age-of-expansion\|Age of Expansion]] | 1700–1800 CE | moderate | **[[french-revolution-1789\|1789 & the Atlantic Revolutions]]** |
-| 21 | [[long-19th-century\|Long 19th Century]] | 1800–1914 CE | moderate | **[[1914-end-of-long-19th-century\|1914]]** |
-| 22 | [[world-wars-era\|World Wars Era]] | 1914–1945 CE | moderate | **[[1945-postwar-order\|1945 & the postwar order]]** |
-| 23 | [[cold-war\|Cold War]] | 1945–1991 CE | strong | **[[1991-end-of-cold-war\|1991 & the end of the Cold War]]** |
-| 24 | [[contemporary\|Contemporary]] | 1991–present | weak | — |
+| 1 | [[deep-prehistory|Deep Prehistory]] | before 3.3 Mya BP | weak | — |
+| 2 | [[early-prehistory|Early Prehistory]] | 3.3 Mya–300,000 BP | moderate | emergence of _Homo sapiens_ |
+| 3 | [[late-prehistory|Late Prehistory]] | 300,000–50,000 BP | moderate | behavioral modernity |
+| 4 | [[behavioral-modernity|Behavioral Modernity]] | 50,000–12,000 BP | strong | end of the Ice Age |
+| 5 | [[mesolithic|Mesolithic]] | 12,000–9,500 BP | moderate | adoption of farming |
+| 6 | [[neolithic|Neolithic]] | 9,500–3,000 BCE | strong | metallurgy, first cities |
+| 7 | [[chalcolithic|Chalcolithic]] | 5,500–3,300 BCE | moderate | bronze, urban states |
+| 8 | [[early-bronze-age|Early Bronze Age]] | 3,300–2,100 BCE | moderate | — |
+| 9 | [[middle-bronze-age|Middle Bronze Age]] | 2,100–1,550 BCE | moderate | — |
+| 10 | [[late-bronze-age|Late Bronze Age]] | 1,550–1,200 BCE | strong | **[[bronze-age-collapse-1200bce|the Bronze Age Collapse]]** |
+| 11 | _[[bronze-age-collapse-1200bce|Bronze Age Collapse]]_ (transition) | ~1,200–1,150 BCE | strong | systemic collapse of palace economies |
+| 12 | [[early-iron-age|Early Iron Age]] | 1,200–800 BCE | moderate | rise of the polis & alphabet |
+| 13 | [[archaic-period|Archaic Period]] | 800–500 BCE | strong | classical efflorescence |
+| 14 | [[classical-antiquity|Classical Antiquity]] | 500–31 BCE | strong | Roman imperial order |
+| 15 | [[late-antiquity|Late Antiquity]] | 31 BCE–600 CE | strong | **[[fall-of-the-western-roman-empire-476|fall of the Western Roman Empire]]**; rise of Islam |
+| 16 | [[early-middle-ages|Early Middle Ages]] | 600–1000 CE | strong | commercial & demographic takeoff |
+| 17 | [[high-middle-ages|High Middle Ages]] | 1000–1300 CE | strong | **[[mongol-conquests-13th-century|the Mongol conquests]]**; crisis of the 14th c. |
+| 18 | [[late-middle-ages|Late Middle Ages]] | 1300–1500 CE | strong | **[[columbian-exchange-1492|1492 & the Columbian Exchange]]** |
+| 19 | [[early-modern|Early Modern]] | 1500–1700 CE | moderate | global trade, gunpowder empires |
+| 20 | [[age-of-expansion|Age of Expansion]] | 1700–1800 CE | moderate | **[[french-revolution-1789|1789 & the Atlantic Revolutions]]** |
+| 21 | [[long-19th-century|Long 19th Century]] | 1800–1914 CE | moderate | **[[1914-end-of-long-19th-century|1914]]** |
+| 22 | [[world-wars-era|World Wars Era]] | 1914–1945 CE | moderate | **[[1945-postwar-order|1945 & the postwar order]]** |
+| 23 | [[cold-war|Cold War]] | 1945–1991 CE | strong | **[[1991-end-of-cold-war|1991 & the end of the Cold War]]** |
+| 24 | [[contemporary|Contemporary]] | 1991–present | weak | — |
 
 ---
 

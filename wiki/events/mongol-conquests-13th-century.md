@@ -12,7 +12,7 @@ event_type: [war, migration, transition]
 scale_immediate: hemispheric
 scale_consequential: global
 causes: [[[genghis-khan]], [[pastoral-nomadism]], "the decomposition of steppe order after the Liao/Jin", "Mongol security and trade interests"]
-consequences: [[[mongol-empire]], [[pax-mongolica]], [[chinggis-exchange]], [[black-death]], [[golden-horde]], [[ilkhanate]], "the redrawing of the Eurasian political map"]
+consequences: [[[mongol-empire]], pax mongolica, [[chinggis-exchange]], [[black-death]], [[golden-horde]], [[ilkhanate]], "the redrawing of the Eurasian political map"]
 sources_ingested: 6
 last_updated: 2026-06-22
 tags: [event, transition, high-middle-ages, late-middle-ages, steppe]
@@ -25,8 +25,8 @@ Khan]] and his successors built the **[[mongol-empire|largest contiguous land em
 history]]** and, in doing so, redrew the political map of Eurasia within two generations.
 They are one of the wiki's standing **transition** events: [[may-mongol-conquests-2012|Timothy
 May]] argues the "Mongol moment" is the dividing line between the pre-modern and modern
-ages — the conquests served as the **catalyst** that, via the [[pax-mongolica|Pax
-Mongolica]] and the [[chinggis-exchange|Chinggis Exchange]], integrated Afro-Eurasia at
+ages — the conquests served as the **catalyst** that, via the Pax
+Mongolica and the [[chinggis-exchange|Chinggis Exchange]], integrated Afro-Eurasia at
 fullest extent.
 
 ## Narrative
@@ -76,7 +76,7 @@ Updated with quotes, line refs, taxonomy.
   alliance via sable ll. 3448-3452) `contributed_to` the rise of a leader who could
   transcend clan fragmentation.
 - Security and trade motives recur in May's account: several campaigns (Xixia, Otrar)
-  were driven by the protection of Mongolia and of [[pax-mongolica|trade]] rather than
+  were driven by the protection of Mongolia and of trade rather than
   by a master plan of world conquest.
 
 ## Consequence Analysis
@@ -84,7 +84,7 @@ Updated with quotes, line refs, taxonomy.
 - `produced: [[mongol-empire]]` and its **dissolution into four khanates** (1260–65) —
   the Yuan, the [[ilkhanate|Ilkhanate]], the [[chaghatayid-khanate|Chaghatayid Khanate]],
   and the [[golden-horde|Jochid Khanate/Golden Horde]].
-- `produced: [[pax-mongolica]]` → `produced: [[chinggis-exchange]]` — the peace and the
+- `produced: pax mongolica` → `produced: [[chinggis-exchange]]` — the peace and the
   continental exchange of trade, technology, religion, peoples, and art.
 - `enabled: [[black-death]]` — the plague carried west along the routes the conquests
   secured.
@@ -114,7 +114,7 @@ The wiki's fuller historiographical discussion is on [[mongol-empire]].
 ## Related
 
 - [[mongol-empire]] — the polity created; [[genghis-khan]] — its founder.
-- [[pax-mongolica]] · [[chinggis-exchange]] — the integrative consequences.
+- pax mongolica · [[chinggis-exchange]] — the integrative consequences.
 - [[mongol-invasion-of-europe-1241]] · [[mongol-invasions-of-japan-1274-1281]] · [[battle-of-ain-jalut-1260]] — component campaigns and limits.
 - [[golden-horde]] · [[ilkhanate]] — successor khanates; [[may-mongol-conquests-2012]] — the source.
 

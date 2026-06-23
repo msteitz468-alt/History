@@ -110,7 +110,7 @@ This selective stance shaped the subsequent Ashʿarite tradition: later theologi
 | *Maqāṣid al-Falāsifa* | al-Ghazālī's own précis of Avicenna; set up the *Tahāfut*'s targets |
 | *Munqidh min al-Ḍalāl* (Deliverer from Error) | al-Ghazālī's philosophical autobiography; contextualizes the *Tahāfut* in his intellectual development |
 | *Iḥyāʾ ʿUlūm al-Dīn* (Revival of the Religious Sciences) | His major constructive work; the positive counterpart to the *Tahāfut*'s critique |
-| *Tahāfut al-Tahāfut* ([[ibn-rushd\|Averroes]]) | Averroes' point-by-point rebuttal from an Aristotelian perspective |
+| *Tahāfut al-Tahāfut* ([[ibn-rushd|Averroes]]) | Averroes' point-by-point rebuttal from an Aristotelian perspective |
 
 ## Historiography
 
