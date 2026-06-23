@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [Elam, [[akkadian-empire|Akkad (later conqueror)]]]
 key_events: [[[lagash-umma-border-war]], [[unknown|Lugalzaggisi's conquest]]]
 key_processes: [[[urbanization]], [[state-formation]], [[writing-and-record-keeping]], [[temple-economy]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-06-23
 tags: [actor, state, early-bronze-age, mesopotamia]
 ---
 
@@ -74,7 +74,7 @@ the king-list omits entirely). Landmarks:
 - **Enmebaragisi of Kish** — earliest ruler attested by his own inscription.
 - **Gilgamesh of Uruk** and his war with **Agga of Kish** — the first glimpse of
   the inter-city struggle for supremacy (and a key text in the
-  [[hierarchy-vs-heterarchy-early-cities|"primitive democracy" debate]]).
+  [[hierarchy-vs-heterarchy-early-cities|"primitive democracy" debate]]). The Sumerian poem "Gilgamesh and Akka" (in range, ll. 6501–6730) details the assemblies of elders and young men of Uruk debating submission to Kish ("let us submit to the house of Kish, let us not wage war!" vs. young men's "let us not submit... let us wage war!"); Gilgamesh follows the young men, Enkidu participates in the action, Akka is captured then freed (ll. 6659–6725). This **preceded_by** (in Sumerian tradition) the Huwawa/Cedar Forest expedition recounted in "Gilgamesh and Huwawa" (ll. 6735–7000), where Huwawa is tricked of his auras and slain (Enlil disapproves). These poems **part_of** the legendary corpus for Early Dynastic Uruk.
 - **The First Dynasty of Ur** (Mesannepada) — where the king-list's reign-lengths
   first shrink to human scale and agree with contemporary inscriptions; the era of
   the [[ur|Royal Tombs of Ur]].

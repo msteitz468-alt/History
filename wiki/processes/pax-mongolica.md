@@ -8,8 +8,8 @@ region: [steppe, central-asia, china, east-asia, iran-plateau, near-east, easter
 process_type: [economic, political]
 driven_by: [[[mongol-empire]], [[genghis-khan]], [[pastoral-nomadism]]]
 produces: [[[chinggis-exchange]], [[silk-roads]], [[black-death]]]
-sources_ingested: 2
-last_updated: 2026-06-13
+sources_ingested: 4
+last_updated: 2026-06-22
 tags: [process, high-middle-ages, late-middle-ages, silk-road]
 ---
 
@@ -28,6 +28,8 @@ empire's structural achievements.
 ## Definition and Scope
 
 The proverb captured the ideal — that "a virgin carrying a gold urn filled with jewels
+
+**Verification from *Secret History* (de Rachewiltz, ll. 16086–22035)**: "We shall have post stations set up and provide post-station masters... there will be peace for the many peoples, and for the messengers in particular convenience in travelling." (ll. 17658-17664; subjects "post-relay system 279-81"). This directly grounds the post-station system as produced by Ögödei (preceded_by Činggis campaigns; enabled: security for travel/trade concurrent_with [[pax-mongolica]]). Also "garrisons... so I let the people live in peace" (ll. 17776-17784). Updated with quotes + taxonomy.
 could walk from one end of the empire to another without being molested." May treats
 this as exaggeration with a real core: the Eurasian routes were **more secure than they
 had ever been**, and entirely new ones opened beyond the old [[silk-roads|Silk Road]].
@@ -120,3 +122,5 @@ it.
 - [[mongol-empire]] · [[genghis-khan]] — the political order behind it.
 - [[golden-horde]] · [[ilkhanate]] — successor states that sustained it across their wars.
 - [[black-death]] — the cargo that ended it; [[may-mongol-conquests-2012]] · [[morgan-the-mongols]] — the sources.
+
+**Claims from Secret History (de Rachewiltz, ll. 7001–11000)**: Foundations in army discipline and loyalty that later enabled secure routes. Sübe’etei orders: "making this a matter of law... cut them down on the spot" and hunt/battue limits "to spare the army mounts before they become too lean" (ll. 10846-10854, 10816-10818) `contributed_to` the controlled, non-predatory force that underpinned later pax. "Four hounds" and unit cohesion at Naqu (ll. 10221-10474) `produced` reliable command structure. Naya’a merit case (ll. 10549-10625) `contributed_to` trustworthy officers. These `preceded_by: [[genghis-khan]]` campaigns; `enabled: [[pax-mongolica]]` by creating disciplined instrument. Grounded in range.

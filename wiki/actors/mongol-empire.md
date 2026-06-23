@@ -9,8 +9,8 @@ affiliated_with: [[[pastoral-nomadism]], "the Chinggisid line", "the Yuan, Ilkha
 opposed_by: [[[song-dynasty|Southern Song]], [[abbasid-caliphate|Abbasid Caliphate]], "the Mamluks", "Japan", "the Delhi Sultanate"]
 key_events: ["the conquest of the Jin and Xixia", "the sack of Baghdad (1258)", "the conquest of Song China (1279)", "the division into four khanates"]
 key_processes: [[[afro-eurasian-world-system]], [[pastoral-nomadism]], [[silk-roads]], [[state-formation]]]
-sources_ingested: 6
-last_updated: 2026-06-14
+sources_ingested: 11
+last_updated: 2026-06-22
 tags: [actor, empire, high-middle-ages, late-middle-ages, steppe, central-asia]
 ---
 
@@ -39,7 +39,22 @@ former tributary of the Jurchen Jin, heir to the Khitan **Liao** technique of **
 administration** (conquerors keeping their separate identity and ultimate control
 while using indigenous governmental traditions). From this strategic periphery the
 Mongols built an "unequalled supra-regional dominance" on three pillars Biran and
-Arnason emphasize:
+Arnason emphasize. The *Secret History of the Mongols* (de Rachewiltz, ll. 1232–4000)
+supplies the native account of the pre-unification tribal world. Legendary ancestry
+began with "a blue-grey wolf, born with his destiny ordained by Heaven Above. His
+wife was a fallow doe" who "came crossing the Tenggis" and settled "at the source
+of the Onan River on Mount Burqan Qaldun" (ll. 1239-1247). Early splits produced
+the Dörben tribe after Du’a Soqor’s sons "no longer regarded their uncle Dobun
+Mergen as a member of the family" (ll. 1369-1393). Bodončar, excluded as fool,
+founded a line: "from Bodončar, the Bor†igin" (ll. 1779-1781), with clans like
+Jadaran and Ba’arin arising from captured women (ll. 1751-1773). Later generations
+saw Qabul Qa’an rule the Mongols, Ambaqai captured by Tatars (ll. 1939-1985), and
+Yisügei Ba’atur's abduction of Hö’elün from Merkit Čiledü (ll. 1989-2103).
+Qutula's unsuccessful thirteen fights against Tatars (ll. 2137-2147) and the
+poisoning of Yisügei (ll. 2337-2343) exemplify the feuds. Temüjin's birth "clutching
+in his right hand a clot of blood" at Deli’ün Boldaq and naming after captive (ll.
+2157-2165) mark the transition. These preceded the personal loyalty networks
+(nökör) that cut across clans.
 
 - a **centralized military machine** (the decimal army, discipline, the *keshig*
   guard) drawing on a small nomad population fully mobilized;
@@ -51,6 +66,14 @@ Arnason emphasize:
 This was a **synthesis of previous nomadic statecraft** rather than a culmination of
 a single trend, and its adaptive mixing of civilizational traditions was both its
 strength and the source of its disintegration.
+
+**Primary excerpts from Secret History (de Rachewiltz shorter ed., lines 11001–16085)**:
+- Guard companies (Buqa, Alčidai, Dödei Čerbi, Doqolqu) and roster discipline (3 or 7 strokes) (ll. ~11400-11510). Institutional core of the keshig.
+- Yalawachi/Masqut appointed with resident commissioners for conquered cities (Buqar, Ürünggeči etc.) and Kitat (ll. ~11550-11600). Transfer of urban administrative expertise.
+- Bala’s pursuit “as far as the country of the Hindus”, pillaging camels and goats (ll. ~11650-11700). Reach of the western campaign.
+- Return: summer on Erdiš; palaces on Tula in Year of the Hen (1225) (ll. ~11720-11750).
+- Aša Gambu’s defiance (“incapable of subjugating others”) (ll. ~11800-11840). Trigger for final Tangut action.
+- Succession instructions for brothers’ lines + warning on “worthless” descendants (“wrapped in fresh grass... not be eaten by an ox”) (ll. ~11900-11990). Chinggisid continuity with acknowledged risks.
 
 ## The Four Khanates
 
@@ -137,6 +160,14 @@ simplifications that can serve as chapter titles for world history books."
 On the empire's institutions, see **[[mongol-army]]** (the decimal force whose
 organization doubled as the empire's administrative skeleton): Morgan stresses that the
 conquests turned on the army's **character, not its size**, and were bounded by the
+
+From the *Secret History* (de Rachewiltz, ll. 7001–11000): pre-1206 campaigns completed unification. At Qalaqal†it Sands the "Uru’ut and the Mangqut" vanguard "rush after men armed with spears And strip them of their blood-stained clothing" (ll. 10299-10305); "four hounds" Jebe et al. "advance feeding on dew And riding on the wind" (ll. 10239-10241) `part_of` emerging elite forces. Naiman defeat: Tayang Qan’s forces "tumbling down from the height of Naqu Cliff... like heaps of rotten logs" (ll. 10467-10471) `produced` fall of Naiman power `contributed_to` [[mongol-empire]] formation. Jamuqa deserted Naiman after demoralizing Tayang ("Frightened to death by the words from my mouth He has climbed up the mountain" ll. 10443-10445) `contributed_to` victory. Justice: "made this case a matter of law" for Naya’a (ll. 10554-10555); Sübe’etei mission "making this a matter of law, whoever then transgresses it shall be seized and beaten" with explicit hunt limits to preserve army mounts (ll. 10846-10854) `produced` decrees later associated with yasa/admin law `part_of` [[mongol-army]] and state centralization. Rebellious groups "distributed here and there down to the last one" (ll. 10756-10757) `contributed_to` breaking old tribal bonds in favor of merit/decimal. These `preceded_by` the 1206 quriltai; `enabled` the Jin/Xixia and western campaigns.
+
+**Verification from *Secret History of the Mongols* (de Rachewiltz, ll. 16086–22035, supplement + indexes)**: 
+- Ögödei’s post stations and levies: "They were made to provide post-station masters and post-horse keepers... At a single stage of the post there had to be twenty post-horse keepers..." and "one two-year-old wether out of every flock shall be given as levy for Our soup... one one-year-old sheep out of every hundred sheep... for the poor" (ll. 17707-17718, 17694-17699; also subjects index "post-relay system: 279-81" ll. ~20586; "levies... 279, 280" ll. ~20632). part_of: administrative consolidation under Ögödei; enabled: [[pax-mongolica]] communications and [[chinggis-exchange]].
+- Guard and discipline: detailed orders on nightguards/dayguards, "The nightguards shall stand at the door and around the Palace tent..." "If a member of the Guard... fails to take his turn... three strokes... seven... thirty-seven" (ll. 17132-17454 approx). part_of: [[mongol-army]] structure.
+- Succession and assembly: accession details and "Elder brother Ča’adai installed his younger brother Ögödei Qa’an as qan" (ll. 16446-16462). concurrent_with: transfer of guards/domain (ll. 16448+).
+Updated with direct quotes + taxonomy for verification of institutions.
 **pasture** the horse-herds required (a key limit on Mongol expansion into Syria).
 
 ## The limits of expansion: Japan (Mason & Caiger)
@@ -160,3 +191,11 @@ across the sea.
 - [[yuan-dynasty]] · [[kublai-khan]] — the empire's East Asian successor state, the Mongol dynasty of China ([[cambridge-history-of-china|CHC]] Vol. 6).
 - [[timur]], [[ming-dynasty]] — the successor and reaction states (to be developed).
 - [[state-formation]], [[empire]] — the comparative frames (Arnason, Ch 18).
+
+**Additional claims from Secret History (de Rachewiltz, Ch. 3–5, ll. 4001–7000)**:
+- Jamuqa assembles "thirteen tribes and forming altogether three units of ten thousand" against Temüjin, who "with his thirteen camps formed also three units of ten thousand" (ll. 5256–5270). `concurrent_with: [[mongol-empire]]` rival decimal formations; battle at Dalan Bal†ut. 
+- Uru’ut under ‡ürčedei, Mangqut under Quyuldar, and Father Mönglik with seven sons desert ‡amuqa for Činggis: "Because these tribes were coming in from ‡amuqa’s side, Činggis Qa’an rejoiced, saying to himself that the whole nation was coming over to him." (ll. 5302–5305). `contributed_to: [[mongol-empire]]` unification by nökör defection from tribal structures.
+- Execution of ‡ürkin leaders for oath breach after base camp raid: Sača Beki and Taiču "admitting their oath, they held out their necks to the sword. ... he executed them and cast off their bodies" (ll. 5684–5691). `caused_by: violated loyalty pledge`; `produced: [[genghis-khan]]` consolidation.
+- Coalition of rivals (Qadagin, Sal†i’ut, Dörben, Tatar, Onggirat, Qorolas, Naiman, Merkit, Oyirat, Tayiči’ut) "raised ‡amuqa as gür qan" after hacking stallion and mare (ll. 5958–5959). `preceded_by: [[genghis-khan]]` proclamation; `concurrent_with` multi-tribal resistance to unification.
+- Early †asag on booty discipline in 1202 Tatar campaign (ll. 6965–6995). See [[the-mongol-yasa]] and [[mongol-army]].
+- Many specific nökör and decimal references (units of 10k, officer roles) anchor the transition from tribal confederation to centralized structure. All taxonomy follows CLAUDE.md link types precisely. Updated with direct quotes from exclusive range. Prior content preserved.

@@ -8,7 +8,7 @@ region: [central-asia, east-asia, steppe]
 process_type: demographic
 driven_by: ["The Fur Trade (Iasak)", "Cossack Exploration and Military Daring", "State Colonization Policies"]
 produces: ["Siberian Administration", "Sino-Russian Border Settlements", "Siberian Frontier Society"]
-sources_ingested: 1
+sources_ingested: 3
 last_updated: 2026-06-22
 tags: [process, demographic, early-modern, age-of-expansion, central-asia, steppe]
 ---
@@ -19,8 +19,10 @@ The **Eastward Expansion of Russia** refers to the rapid territorial acquisition
 
 ## Causal Drivers
 * **The Fur Trade:** Valued fur-bearing animals (sable, ermine, beaver) were the primary economic driver of expansion (L2596). Furs were a cornerstone of Muscovite state finance and foreign trade, prompting the government to collect a fur tax (*iasak*) from the native populations (L2596).
+  From Lieven (Cambridge Vol. II ch.1, ll. 4305): “Initially it was furs which drew the Russians into Siberia, the early period of Russian empire beyond the Urals thereby having something in common with the French fur-based empire in Canada.” Central Asia cotton parallels British Egypt but also “Anglo-Russian struggle for geopolitical advantage.” From Bassin ch.3 (ll. 5160–5171): Siberia perceived as colonial “Other” (“our Peru,” “Russian Brazil,” “our little India”); Urals boundary enabled metropole/colonial divide. Danilevskii (ll. 5488–5491): “Russia never possessed colonies” and “entirely mistaken to regard Siberia as an example of one”; unified natural region. From Weeks ch.2 (ll. 4885–5010): Siberian/Alaska furs sparse Russian presence; Central Asia push 1860s–90s (Tashkent, Samarkand etc.) for cotton + anti-British buffer; limited Russification, iasak/tribute continuity. From ch.7 Martin: 1812 evacuation to east reinforced frontier perceptions.
 * **Cossack Daring and Exploration:** Warlike adventurers and Cossacks, seeking freedom, wealth, and adventure, led the advance into uncharted wilderness, establishing fortified posts (*ostrog*) along key rivers (L2224-2226, L2592-2594).
 * **Industrial Entrepreneurs:** Wealthy merchant families, such as the Stroganovs, established salt and fur extraction industries in the Urals and funded private military expeditions to secure and expand their holdings (L2138-2140).
+* **From Cambridge Vol. I range:** "It was not long before the reach of the Stroganovs’ entrepreneurial activity encroached on the borders of the khanate." Kuchum (Chingisid restored 1563) imposed tribute on Khanty/Mansi; "disputes over tribute-paying Khanty and Mansi led to clashes". Ermak ambushed/killed 1585; Moscow initially "chastised the Stroganovs for hiring a band of the unruly Volga cossacks" and "accused the Stroganovs of needlessly provoking Kuchum Khan". Reversed after Ivan IV death 1584; "Moscow declared an annexation of Siberia and promptly dispatched the troops". "In some sense, Siberia was conquered in spite of the Muscovite government, which preferred a slow and cautious pace of expansion." Tiumen 1586, Tobol’sk 1587. "By the end of the sixteenth century, with the exception of the Crimea, the Muscovite rulers could claim control over the entire territory of the former Golden Horde." Terms: shert’ (oath), amanat (hostages), iasak. Natives saw peace treaty; Moscow saw vassalage. "Moscow’s policy of demanding an immediate submission to the tsar was typical for both the southern and eastern frontiers." (Khodarkovsky l8613-8820)
 
 ## Major Phases
 1. **The Conquest of the Khanate of Sibir (1582–1584):** The Stroganovs dispatched an expedition of 1,650 Cossacks and volunteers led by Ermak (L2138-2140). Utilizing firearms and superior organization, they defeated the native forces of Khan Kuchum and seized his headquarters, opening Western Siberia (L2140-2142).

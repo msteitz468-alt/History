@@ -9,7 +9,7 @@ affiliated_with: [[romanov-dynasty|Romanov Dynasty]], [[russian-empire|Russian E
 opposed_by: [the Bolsheviks, the Mensheviks, the Socialist Revolutionaries, the Constitutional Democrats (Cadets), and the Empire of Japan]
 key_events: [the Russo-Japanese War (1904–05), the Revolution of 1905, the October Manifesto (1905), the First World War (1914), the February Revolution (1917), the abdication of Nicholas II (1917)]
 key_processes: ["industrialization-of-russia", [[populism-in-russia|Populism in Russia]], "state-formation", "dissolution-of-empire"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-22
 tags: [actor, person, long-19th-century, world-wars-era, eastern-europe]
 ---

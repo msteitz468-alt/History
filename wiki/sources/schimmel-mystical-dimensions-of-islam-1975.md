@@ -7,7 +7,7 @@ period_coverage: [Early Middle Ages, High Middle Ages, Late Middle Ages, Early M
 region_coverage: [near-east, iran-plateau, central-asia, south-asia, anatolia, north-africa]
 methodological_approach: [phenomenological + philological history of Sufism — the standard single-volume survey]
 reliability_notes: "Annemarie Schimmel's Mystical Dimensions of Islam (1975) is the standard scholarly survey of Sufism in English. Deep, sympathetic, philologically grounded; strong on the experiential vocabulary, the orders, and the mystical poetry (Persian, Turkish, Indo-Muslim). Ingested as a DEEP enrichment pass deepening the wiki's Sufism layer (the existing sufism / philosophical-sufism / tariqa-orders / early-sufism / dhikr / rumi / ibn-arabi pages)."
-pages_created: 0
+pages_created: 38
 pages_updated: 0
 ingested: 2026-06-22
 tags: [source]
@@ -52,10 +52,27 @@ of `raw/_schimmel-wrapped.txt`; later lines are endnotes, bibliography, and inde
 | **E** Mystical poetry | 11500–13054 | 7: The Rose and the Nightingale — Persian and Turkish mystical poetry | `persian-sufi-poetry`, `attar`, `jami`, `yunus-emre`, `sufi-symbolism`; link [[rumi]] |
 | **F** Indo-Pakistan & epilogue | 13055–15500 | 8–9: Sufism in Indo-Pakistan; Epilogue | `sufism-in-south-asia`, `indo-muslim-mystical-poetry`; link the orders to [[chishtiyya]] |
 
-## Claim list (filled on the main thread after agents finish)
+## Claim list — 38 pages (2 scaffold + 36 from 6 agents)
 
-_(to be populated in Step 4)_
+**Scaffold:** [[al-hallaj]] · [[junayd]].
+**A — Formative period:** [[sufism-historiography]] · [[rabia-al-adawiyya]] · [[dhul-nun-al-misri]] · [[al-muhasibi]] · [[hasan-al-basri]] · [[bayazid-bistami]].
+**B — The Path:** [[maqamat-and-ahwal]] · [[tawakkul-trust]] · [[fana-and-baqa]] · [[sufi-love-mysticism]] · [[nafs-stages-of-the-soul]].
+**C — Man & the orders:** [[al-insan-al-kamil]] · [[wilaya-sainthood]] · [[sufi-prophetology]] · [[qadiriyya]] · [[chishtiyya]] · [[shadhiliyya]] · [[mevlevi-order]] (links existing [[naqshbandiyya]]).
+**D — Theosophical Sufism:** [[wahdat-al-wujud]] · [[sufi-metaphysics]] · [[ibn-al-farid]] · [[shabistari-mahmud]].
+**E — Mystical poetry:** [[persian-sufi-poetry]] · [[sufi-symbolism]] · [[mantiq-al-tayr]] · [[jami]] · [[yunus-emre]] · [[ahmad-yasawi]].
+**F — Indo-Pakistan:** [[sufism-in-south-asia]] · [[indo-muslim-mystical-poetry]] · [[malfuzat]] · [[nizamuddin-auliya]] · [[shah-waliullah]] · [[shah-abdul-latif]] · [[bullhe-shah]] · [[mir-dard-khwaja]].
 
 ## Volume Synthesis Note
 
-_(to be written in Step 4 after all agents complete)_
+A DEEP enrichment of the wiki's Sufism layer, built around the polarity Schimmel makes central — the
+"sober" path of [[junayd|Junayd]] versus the "intoxicated" ecstasy of [[bayazid-bistami|Bāyazīd]] and
+[[al-hallaj|al-Ḥallāj]]. It supplies the formative figures ([[rabia-al-adawiyya|Rābiʿa]],
+[[dhul-nun-al-misri|Dhūʾl-Nūn]], [[al-muhasibi|al-Muḥāsibī]], [[hasan-al-basri|Ḥasan al-Baṣrī]]); the
+experiential vocabulary of the path ([[maqamat-and-ahwal|stations & states]], [[fana-and-baqa]],
+[[nafs-stages-of-the-soul|the stages of the soul]], [[sufi-love-mysticism|love-mysticism]]); the
+doctrines of [[al-insan-al-kamil|the Perfect Man]], [[wilaya-sainthood|sainthood]], and
+[[wahdat-al-wujud|the Unity of Being]]; the institutional [[tariqa-orders|orders]]
+([[qadiriyya]], [[chishtiyya]], [[shadhiliyya]], [[mevlevi-order]]); and the great mystical-poetic
+traditions — [[persian-sufi-poetry|Persian]] ([[mantiq-al-tayr|ʿAṭṭār]], [[jami|Jāmī]]),
+Turkish ([[yunus-emre]], [[ahmad-yasawi]]), and [[indo-muslim-mystical-poetry|Indo-Muslim]]. With the
+Adamson/Venture/theology layers, it rounds out the wiki's classical Islamic intellectual & spiritual history.

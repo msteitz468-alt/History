@@ -9,7 +9,7 @@ affiliated_with: [the [[rurikid-dynasty|Rurikid Dynasty]], [[moscow|Moscow]]]
 opposed_by: [the [[khazar-khaganate|Golden Horde]] (Mamai, Tokhtamysh), the Rurikid princes of Tver, the Grand Duchy of Lithuania]
 key_events: [the Battle of the Vozha River (1378), the Battle of Kulikovo (1380), the Sack of Moscow by Tokhtamysh (1382)]
 key_processes: [the rise of Moscow, the first military challenge to Mongol rule]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [actor, person, late-middle-ages, eastern-europe]
 ---
@@ -24,6 +24,8 @@ He is legendary for leading the first unified Russian coalition to defeat a majo
 * **Battle of the Vozha River (1378 CE):** Dmitry achieved the first significant Russian victory over a Mongol force on the Vozha River, signaling Moscow's growing defiance of the Horde.
 * **Battle of Kulikovo (1380 CE):** In response to a massive invasion force mobilized by the Mongol strongman Mamai (allied with Lithuania), Dmitry seized the initiative, crossed the Don, and routed the Mongol army on September 8, 1380. Dmitry himself fought on foot in the thick of the battle and was found unconscious among the dead (l. 1519).
 * **Survival of Tokhtamysh's Raid (1382 CE):** Only two years after Kulikovo, Khan Tokhtamysh of the Horde sacked and burned Moscow by ruse. Dmitry, caught unprepared, was forced to resubmit to the khan and pay tribute in exchange for confirmation as Grand Prince.
+
+**Additional from Cambridge History of Russia Vol. I (Perrie ed. 2006, Martin ch. ll. 4298–4698):** Young heir after Ivan II/Uzbek deaths 1341; patents initially via Mamai's khan (Navruz etc.); defied Mamai transfers of patent to Mikhail Aleksandrovich of Tver’ (1370/1375) and tribute after 1373; militarily defeated Mikhail 1375 (with Suzdal’ + other NE + Novgorod support); Mikhail renounced Novgorod claim and independent Lithuania/Horde ties (ll. 4400–4429). Joined Dmitrii Konstantinovich of Suzdal’-Nizhnii Novgorod to restore Volga order 1377; clashed with Mamai band 1378; assembled coalition (Rostov, Iaroslavl’, Beloozero, Ustiug, Kolomna, Pereiaslavl’ etc.) vs Mamai at Kulikovo 1380 (ll. 4411–4420). After Tokhtamysh defeated Mamai and sacked Moscow 1382, "Dmitrii, who remained the grand prince of Vladimir, sent his son Vasilii to Tokhtamysh with tribute payments; Vasilii remained as a hostage" (ll. 4420–4421). "Dmitrii’s strength rested on his ability to marshal the military support necessary to overcome his rivals" in absence of firm khan aid; "after the 1370s, no other branch of the dynasty disputed the Moscow princes’ claim to the throne of Vladimir" (ll. 4484–4486). Stone walls Moscow 1367; alliances (Suzdal’ marriage 1366); expulsions of rival princes from appanages (Starodub, Galich, Rostov to Ustiug) (ll. 4472–4476). See [[golden-horde]], [[moscow]], [[rurikid-dynasty]], [[ivan-i-kalita]].
 * **Princely Consolidation:** Dmitry utilized his final years to rebuild Moscow and reinforce his authority over Tver, Riazan, and other Russian principalities.
 
 ## Historical Significance

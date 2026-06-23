@@ -9,7 +9,7 @@ affiliated_with: [the [[rurikid-dynasty|Rurikid Dynasty]], [[moscow|Moscow]]]
 opposed_by: [the Rurikid princes of Tver]
 key_events: [the Tver Uprising (1327), the relocation of the Metropolitan seat to Moscow (1328)]
 key_processes: [the rise of Moscow, the gathering of tribute, territorial acquisition]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [actor, person, late-middle-ages, eastern-europe]
 ---
@@ -24,6 +24,8 @@ Under Ivan I, Moscow established its economic and religious primacy in northeast
 * **Tribute Collection:** In reward for his loyalty, the khan commissioned Ivan Kalita to collect tribute for the Horde from all other Russian principalities. Ivan used this position to accumulate substantial revenue, pocketing a portion of the funds to enrich Moscow's treasury.
 * **Relocation of the Metropolitan Seat (1328 CE):** In 1326, Metropolitan Peter of the Russian Orthodox Church died while staying in Moscow. Ivan Kalita persuaded Peter's successor, Metropolitan Theognost, to permanently settle in Moscow in 1328. This made Moscow the religious capital of Russia, adding immense spiritual prestige to the upstart principality (l. 1499).
 * **Territorial Acquisition:** Ivan I used his accumulated wealth to purchase entire appanages from bankrupt rulers, buy individual villages, and ransom Russian prisoners from the Mongols to settle them on Muscovite lands. He added the grand principality of Vladimir to his domain, keeping the capital in Moscow.
+
+**Additional from Cambridge History of Russia Vol. I (Perrie ed. 2006, Martin ch. ll. 3709–4242):** As Daniil Aleksandrovich’s son, gained Vladimir after Iurii via Uzbek favour (after Mikhail of Tver’ execution); "with the transfer of the patent to the Daniilovich prince the khan’s favour replaced the dynasty’s traditional pattern of succession" (ll. 3985–4001). Added Serpukhov, Kolomna, Mozhaisk (full Moskva River + Oka Kolomna–Serpukhov); Pereiaslavl’-Zalesskii remained Moscow possession until 1341; later Kostroma attached (ll. 4062–4065). Used tribute collection (passing from baskaki to grand prince) + silver from Novgorod to pay khan + gifts, gaining credibility; "broad scholarly agreement that the Moscow princes’ control over Novgorod’s supplies of goods, such as luxury fur, as well as the silver... enabled them to pay the tribute" (ll. 4093–4105). Arranged daughters’ marriages to resistant lines (Konstantin of Rostov 1328; Iaroslavl’/Beloozero after 1339 support for Aleksandr of Tver’) for personal seniority (ll. 4223–4224). Novgorod conflicts over tribute; focus on controlling its commercial resources (ll. 4119–4121). See [[golden-horde]], [[moscow]], [[novgorod]], [[rurikid-dynasty]], [[dmitry-donskoy]].
 
 ## Historical Significance
 Ivan Kalita’s reign was crucial in establishing the foundations of Moscow’s rise. By aligning with the Golden Horde and maintaining relative peace in his lands, he attracted boyars, free farmers, and merchants seeking security from Mongol raids. 

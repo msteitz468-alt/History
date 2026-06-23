@@ -1,7 +1,8 @@
 ---
 title: "Mesopotamia — Regional Hub"
 hub_type: region
-last_updated: 2026-06-22
+sources_ingested: 1
+last_updated: 2026-06-23
 tags: [hub, region, mesopotamia]
 ---
 

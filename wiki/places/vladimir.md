@@ -7,7 +7,7 @@ period_active: [High Middle Ages, Late Middle Ages, Early Modern]
 controlled_by: [Rurikid princes of Vladimir-Suzdal, the Golden Horde (overlordship), [[moscow|Moscow]]]
 events_here: [the transfer of the Grand Princely seat (1169), the Mongol sack of Vladimir (1238); note also Vladimir-Volynsk events in Primary Chronicle 1097–1100 (blinding of Vasil'ko aftermath, sieges, domain reassignments; ll. 9434–9655, 9770–9846)]
 processes_here: [the shift of the Russian political center to the northeast, forest colonization; 11th-c. Rurikid appanage conflicts (Volynsk Vladimir)]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-22
 tags: [place, eastern-europe, high-middle-ages, late-middle-ages]
 ---
@@ -26,5 +26,7 @@ Vladimir developed a brilliant and original school of stone architecture, blendi
 * The nearby **Church of the Intercession of the Virgin on the Nerl** (1166–1171 CE), widely celebrated as a masterpiece of medieval Russian architecture (l. 1077).
 
 In **1238 CE**, Vladimir was besieged, captured, and sacked by the Mongols under Batu, who massacred the population and killed the grand princely family. Under the Mongol yoke, the title of "Grand Prince of Vladimir" remained the supreme title in Russia, and the khans of the Golden Horde invested the Russian princes with this office in Vladimir. 
+
+**Detailed from Cambridge History of Russia Vol. I (Perrie ed. 2006, Martin ch. ll. 3709–4292):** "the city of Vladimir was besieged and burned, and Suzdal’ was sacked" during 1237–8 winter campaign; Rostov/Tver’/Moscow also hit; "despite the efforts of its prince Iaroslav Vsevolodich to rebuild it, recovered at a slow pace" as refugees settled elsewhere; "Tver’ and Moscow... became dynamic political and economic centres" (ll. 3770–3842). The grand principality of Vladimir remained the leading NE position; princes of Vladimir (Aleksandr Nevskii, Dmitrii etc.) held it with Horde patents; Ivan Daniilovich and successors attached territories (Pereiaslavl’-Zalesskii, Kostroma etc.) to it while basing power in Moscow; by mid-14th c. under Daniilovichi (ll. 3923–4065, 4213). See [[golden-horde]], [[moscow]], [[rurikid-dynasty]], [[kievan-rus]].
 
 In the fourteenth century, Moscow defeated its rivals (notably Tver) and annexed the Grand Principality of Vladimir. Grand Prince Ivan Kalita added the territory directly to Moscow's domain, though the grand princely title remained technically linked to Vladimir.

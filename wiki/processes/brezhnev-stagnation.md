@@ -8,7 +8,7 @@ region: [eastern-europe]
 process_type: economic
 driven_by: [[brezhnev-leonid|Leonid Brezhnev]], the administrative nomenklatura, rigid economic centralism, and massive military spending
 produces: economic deceleration, grain harvest failures, resource dependency (oil/gas exports), social issues (alcoholism, low morale), and the underground economy
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [process, cold-war, eastern-europe]
 ---
@@ -25,6 +25,7 @@ The **Brezhnev Stagnation** (often referred to in Russian as the *Zastoy*) was a
 ## Major Phases
 - **Consolidation and Emasculated Reform (1964–1970):** The government repealed Khrushchev's reorganizations. The Liberman-Kosygin economic reforms of 1965, which attempted to prioritize profits and sales over volume, were gradually emasculated by the bureaucratic ministries.
 - **Détente and Oil Boom (1971–1978):** A period of apparent prosperity. Living standards rose, and the USSR achieved strategic parity with the US. The export of Siberian oil and gas kept the economy afloat.
+- From [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]] (Hopf ll. 17703): Stagnation context fed into 'Subsequent suppression of the latter [quest for difference in Eastern Europe], combined with support for NLMs, led to a Soviet Union encircled by states allied against it.' (ll. 17703). taxonomy: contributed_to international isolation and costs; part_of drivers of [[cold-war]] end. Added to Causal Drivers / Interaction.
 - **Severe Deceleration and Crisis (1979–1985):** A sharp economic downturn. The year 1979 marked the first of an unprecedented four successive years of bad grain harvests. Growth rates of the GNP fell to an estimated 2.0% by 1981–1982, and chronic shortages of basic foods and consumer goods became ubiquitous (Line 6647, 6629).
 
 ## Geographic Spread

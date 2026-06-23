@@ -5,7 +5,8 @@ period_involved: [High Middle Ages, Late Middle Ages]
 regions_involved: [steppe, central-asia, iran-plateau, china]
 positions: [the traditional view (a written law code), Morgan's skeptical view (no single written code), the intermediate view (an evolving body of custom + decrees)]
 resolution_status: partially-resolved
-last_updated: 2026-06-13
+sources_ingested: 1
+last_updated: 2026-06-22
 tags: [controversy]
 ---
 
@@ -78,3 +79,9 @@ state really was (a theme also of [[mongol-empire|the empire's]] historiography 
 - [[genghis-khan]] — the supposed lawgiver; [[mongol-empire]] — the polity at issue.
 - [[morgan-the-mongols]] — the source of the skeptical case; [[mongol-army]] — the decrees Juwayni actually describes.
 - [[great-man-vs-structural-causation]] — the broader question of how institutionalized vs. charismatic the Mongol order was.
+
+**Verification from *Secret History* (de Rachewiltz indexes, ll. ~20588-20590)**: "†asaq: see law; see also the entry in RSH’s Index of Grammar &Lexis, 2.1325; and RSH 3.95-97, 112-13". Subjects index "law: breach of... 252; ... see also great norm" (ll. ~20612+); "great norm/principle (yeke yosu/töre...): principle of mutual obligations between lord and subject, 178..." (ll. ~20450). concurrent_with: administrative decrees rather than fixed code (part_of debate on source reliability). No use of "yasa" for a comprehensive written code in the native text's sections covered. Strengthens Morgan position with native source. Updated Related + note.
+
+**Additional from Ch. 3–5 range (ll. 4001–7000)**: In 1202 Tatar campaign, "Činggis Qa’an jointly issued the following decree" (explicitly glossed as †asag) forbidding stopping for booty until victory, then share (ll. 6965–6995). This is a pragmatic administrative order on campaign conduct, not a general legal code or "Great Yasa". `part_of: [[the-mongol-yasa]]` (as example of decree later conflated with code); `contributed_to: [[mongol-army]]` discipline. Directly supports Morgan's view that "fragments" are military/administrative decrees (Juwayni parallel); native text uses "decree" / †asag for specific rules, not a fixed constitution. No reference to a binding written Yasa here. Prior content preserved; added with verbatim quote and taxonomy.
+
+**Additional from Ch. 6–8 range (ll. 7001–11000)**: Explicit use of †asaq/law for specific cases and orders. For Naya’a: "He got very angry and, ordering that Naya’a be rigorously and minutely questioned, made this case a matter of law." (ll. 10553-10555); after confirmation "He showed favour to him too, saying, ‘He is a truthful man, I shall entrust him with an important task!’" (ll. 10621-10625). For Sübe’etei expedition: "Thus, making this a matter of law, whoever then transgresses it shall be seized and beaten. Send to Us those who transgress Our order if it looks that they are personally known to Us; as for the many who are not known to Us, just cut them down on the spot." (ll. 10846-10854); also "If you make a battue... hunt with moderation... let the horses go with their mouths free" (ll. 10834-10842). These are pragmatic decrees on justice, discipline and logistics during campaigns `part_of: [[the-mongol-yasa]]` debate (support intermediate/custom+case+admin-decrees view); `contributed_to: [[mongol-army]]` operational law. `produced` enforcement mechanisms without evidence of a single written "Great Yasa" code. Directly aligns with Morgan: native text records ad hoc "matter of law" rulings and standing orders, not a fixed constitution. Verbatim from range only; prior content preserved.

@@ -8,7 +8,7 @@ region: [eastern-europe]
 process_type: economic
 driven_by: [[lenin-vladimir]], Bolshevik Party (after Kronstadt mutiny and Tambov revolt), exhaustion of War Communism
 produces: partial economic recovery 1921–27; "Nepmen"; "scissors crisis"; "Urals-Siberian method" of grain seizures (1928); Stalin-Bukharin split; transition to Five-Year Plan and collectivization
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [process, world-wars-era, soviet-union]
 ---
@@ -20,6 +20,8 @@ tags: [process, world-wars-era, soviet-union]
 ## Definition and Scope
 
 Introduced at the Tenth Party Congress (March 1921) after the Kronstadt naval mutiny (sailors demanded multi-party democracy and end to grain seizures) and Tambov peasant revolt. "The retreat in economics was to be accompanied by an offensive in politics." NEP permitted peasants to trade surpluses (initially locally, then nationally), re-legalized private small workshops, reopened retail shops, abolished rationing (Nov 1921), and allowed richer peasants to hire labour and rent land (1922). Large factories were reorganized into state "trusts." Lenin described elements as "state capitalism." The policy ended War Communism’s full nationalization and coercion.
+
+Index cross-check from [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]] (Suny ed. 2006, index range ll. 27001–33679): "New Economic Policy (NEP) (1921–8) 51, 159, 166, 384, 390–4" (ll. 28517). Verifies coverage of NEP scope, assessment, nationalities interaction and end conditions in the volume. (Grounded exclusively in final index range only.)
 
 From Service (2009, lines 1140–1152): "Some such gamble was essential for the regime to survive." "Lenin had to come into the open to persuade these officials to soften their stance."
 

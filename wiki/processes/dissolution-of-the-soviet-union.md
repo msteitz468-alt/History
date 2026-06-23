@@ -8,7 +8,7 @@ region: [eastern-europe, central-asia, steppe]
 process_type: political
 driven_by: [[gorbachev-mikhail|Mikhail Gorbachev]]'s reforms, the rise of nationalisms, the popular fronts in the Baltic republics, and the rivalry between Gorbachev and [[yeltsin-boris|Boris Yeltsin]]
 produces: fifteen independent states, the Commonwealth of Independent States (CIS), the end of the Cold War, and severe economic and geopolitical instability]
-sources_ingested: 2
+sources_ingested: 4
 last_updated: 2026-06-22
 tags: [process, cold-war, eastern-europe]
 ---
@@ -21,6 +21,9 @@ The **Dissolution of the Soviet Union** was the political process that led to th
 - **Economic Collapse:** The failures of **[[perestroika|Perestroika]]** produced severe shortages of food and consumer goods, inflation, and a breakdown of trade networks, eroding the population's faith in the Soviet system.
 - **Rivalry between Gorbachev and Yeltsin:** Boris Yeltsin, as President of the Russian SFSR, championed Russian sovereignty and cooperated with non-Russian republics to dismantle the central Soviet institutions in his struggle for power against Gorbachev.
 - **Loss of Eastern Europe (1989):** Gorbachev's decision not to intervene in the peaceful revolutions that overthrew communist regimes in Eastern Europe severely weakened the credibility and authority of the Soviet center.
+- From [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]] (Hopf ll. 17535, 17703): 'Gorbachev’s expectation that East European states would remain Soviet allies, that they would become Social Democracies, along with the Soviet Union, reflected his confidence in common human values. Deviance was impossible in Eastern Europe since the Soviet vanguard identity was no more.' 'The Gorbachev revolution eliminated that Soviet Great Power vanguard identity that had fixed the Soviet Union and the US in a global competition...' (ll. 17535, 17703). taxonomy: enabled 1989 losses; contributed_to [[dissolution-of-the-soviet-union]] as driver. Added to Causal Drivers and Major Phases.
+
+From [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]] (index, ll. 22001–27000): "economic reform (from 1987) 321, 333–4, 404–5" (ll. ~24371); "Belovezhskaya Accord (1991) 357" (ll. 22585); "Alma Ata (Almaty), Kazakhstan, riots (1986) 345, 513" (ll. ~22105); "Democratic Russia movement 330" (ll. ~24089). taxonomy: contributed_to nationalities unrest and final accords as drivers; produced formal dissolution. Updated Causal Drivers and Major Phases.
 
 ## Major Phases
 - **The Baltic Vanguard (1988–1990):** Estonia, Latvia, and Lithuania led the way by organizing "People's Fronts," declaring the right to reject Soviet laws (Estonia, November 1988), and asserting that their 1940 incorporation into the USSR was null and void. On March 11, 1990, Lithuania declared full independence. "Estonia proclaimed its economic autonomy and Lithuania declared its right to overrule the USSR’s legislation" (line 3315). A human chain of one million across the three Baltic states protested the Nazi-Soviet Pact in August 1989 (line 3359).

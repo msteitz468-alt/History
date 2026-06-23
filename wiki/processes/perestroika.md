@@ -8,7 +8,7 @@ region: [eastern-europe]
 process_type: political
 driven_by: [[gorbachev-mikhail|Mikhail Gorbachev]], the need to escape the economic stagnation of the late Soviet period, and reformist elements in the Party]
 produces: economic disintegration, budget deficits, the rise of private cooperatives, and the [[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]
-sources_ingested: 3
+sources_ingested: 5
 last_updated: 2026-06-22
 tags: [process, cold-war, contemporary, eastern-europe]
 ---
@@ -34,6 +34,9 @@ Perestroika affected the entire Soviet Union and encouraged similar reform movem
 ## Interaction
 - **With Glasnost:** Gorbachev launched **[[glasnost|Glasnost]]** (openness) to enlist the support of the intelligentsia against conservative bureaucrats who opposed perestroika. Freedom of expression soon unchained forces (such as nationalism) that perestroika could not control.
 - **With the Nomenklatura:** State managers and bureaucrats utilized the relaxation of state controls to spontaneously appropriate state assets ("spontaneous privatization"), laying the foundations for the post-Soviet oligarch class.
+- **With foreign policy/identity (from [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]], Hopf ll. 17507–17535):** Perestroika intertwined with 'new identity' that 'abandoned the identity of vanguard...' leading to transformed interests in Eastern Europe and NLMs; 'Gorbachev’s expectation that East European states would remain Soviet allies... reflected his confidence in common human values. Deviance was impossible in Eastern Europe since the Soviet vanguard identity was no more.' '"If we have proclaimed freedom and democracy for ourselves, then how can we deny it to others?"' 'the discourse shifted radically...' (ll. 17507, 17535, 17537, 17539). taxonomy: enabled non-intervention; contributed_to [[dissolution-of-the-soviet-union]]. Added to Major Phases and Interaction.
+
+From [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]] (index, ll. 22001–27000): "economic reform (from 1987) 321, 333–4, 404–5" (ll. ~24371); "Law on the State Enterprise (1987) 333, 404, 463" (ll. 24429); "500-day Plan (1990) 334–5, 405" (ll. ~24375); "democratic centralism, end of 328" (ll. ~24073). taxonomy: part_of [[perestroika]] economic/political phases; produced autonomy measures and contributed_to later disintegration. Updated Major Phases and End Conditions.
 
 ## End Conditions
 Perestroika ended in December 1991 with the **[[dissolution-of-the-soviet-union|dissolution of the Soviet Union]]**. The failure to successfully transition from a command to a market economy under perestroika led directly to the severe economic crisis of the early post-Soviet years and the launch of Yegor Gaidar's **[[economic-shock-therapy|economic shock therapy]]** in independent Russia.

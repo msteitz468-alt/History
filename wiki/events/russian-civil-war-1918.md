@@ -11,9 +11,9 @@ actors_secondary: [[trotsky-leon|Leon Trotsky]], [[cheka|the Cheka]], Admiral Al
 event_type: war
 scale_immediate: civilizational
 scale_consequential: global
-causes: [Bolshevik October Revolution (1917), dismissal of the Constituent Assembly, signing of the Treaty of Brest-Litovsk, rise of anti-communist movements]
+causes: [Bolshevik October Revolution (1917), dismissal of the Constituent Assembly, signing of the Treaty of Brest-Litovsk, rise of anti-communist movements]; contributed_to: German occupation post-Brest and Entente intervention (von Hagen lines 3663–3687 from [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]]): 'After the winter assault of the Central Powers, the eastern front became the occupation regime... The Entente... sent advisers, some arms... to the anti-Bolshevik forces who became known as the Whites.' 'It provided the Bolshevik state with one of its most powerful founding myths, that of “capitalist encirclement”.' Preceded by: 'The Bolsheviks who seized power in October 1917 proclaimed peace... The Germans... advanced on the fledgling revolutionary dictatorship.' Lenin 'bought peace with the surrender of the western borderlands... not forgiven for many years by patriotic Bolsheviks' (lines 3633–3638). 'The war also continued by proxy...'
 consequences: [Bolshevik consolidation of power, birth of the USSR, economic ruin, millions of deaths from famine and epidemics, defeat of the White movement]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [event, world-wars-era, eastern-europe]
 ---

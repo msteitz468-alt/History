@@ -9,8 +9,8 @@ affiliated_with: [[[mongol-empire]], "the Jochid line", [[mamluk-sultanate|the M
 opposed_by: [[[ilkhanate]], "the Chaghatayids", [[timur|Timur]], "the rising principality of Moscow"]
 key_events: ["Batu's western campaign 1236–42", "the Berke–Hülegü war", "the sack of Kaffa & the Black Death 1346", "Timur's devastation of Sarai 1390s"]
 key_processes: [[[pax-mongolica]], [[chinggis-exchange]], [[silk-roads]], "the Turkicization of the western steppe"]
-sources_ingested: 3
-last_updated: 2026-06-13
+sources_ingested: 4
+last_updated: 2026-06-22
 tags: [actor, empire, high-middle-ages, late-middle-ages, steppe, eastern-europe]
 ---
 
@@ -81,6 +81,14 @@ Morgan underscores the deeper point: Horde foreign policy "focused overwhelmingl
 acquisition of the rich pastures and caravan routes of **Azerbaijan**... Russia itself
 was peripheral" — so the temptation to read the Golden Horde as a chapter of *Russian*
 history, rather than of the **Mongol Empire**, "should be resisted."
+
+**Detailed rule over north-eastern Russia (Cambridge History of Russia Vol. I, Perrie ed. 2006, Janet Martin ch., ll. 3709–4292):** The Mongol invasion did not immediately destroy Kievan Rus’ heritage: Riurikid dynasty and Orthodox Church persisted as defining institutions, with princes required to recognise Horde suzerainty (ll. 3754–3787). North-eastern Russia (Vladimir/Suzdalia) suffered severe demographic and economic impact (Vladimir burned 1238; ~10%+ pop loss + conscription for Sarai/New Sarai construction and Karakorum/China; Black Death 1353 killed metropolitan and grand prince, waves caused est. 25% decline) yet experienced gradual recovery with population redistribution to Tver’ and Moscow, revived crafts exceeding pre-invasion levels, and masonry construction from early 14th c. (ll. 3770–3846). Commercial integration: tribute/gifts down Volga to Sarai; Khan Mangu Temir pressured for Novgorod Baltic trade guarantees and free transit; Russian merchants reached Sarai, Astrakhan’, Tana, Kafa, Surozh (ll. 3854–3859). 
+
+Succession and politics: Initial respect for Vsevolodichi tradition (Iaroslav, brief Sviatoslav division, Andrei 1249); khan intervention overrode it when Aleksandr Nevskii evicted Andrei with Tatar force 1252 and ruled 1252–63 cooperatively, enforcing Novgorod census (ll. 3923–3948). Later resistance (Dmitrii Aleksandrovich) met with replacement by brother Andrei; Dmitrii retained support via Nogai against Sarai (ll. 3958–3975). Daniilovichi (sons of Daniil Aleksandrovich of Moscow) used Sarai favour to break lateral seniority tradition: khan patents replaced dynastic norms; Ivan Daniilovich (Kalita) secured Vladimir throne (ll. 3977–4001). Ties to south-western Rus’ loosened; focus on NE Russia + Novgorod + Horde (ll. 4006–4110). Metropolitans (Kirill Sarai bishopric 1261; Maksim residence to Vladimir 1299; Petr/Feognost/Aleksei) received Horde privileges (tax/military exemptions) while preserving "Kiev and all Rus’" see unity against Galicia/Lithuania challenges; Petr collaborated with Moscow (Dormition church, burial, cult) (ll. 4129–4182). By mid-14th c. Daniilovichi dependent on khans (Uzbek) amid other branches’ reluctance and Novgorod tensions over tribute (ll. 4213–4242).
+
+Crisis and decline: Post-1359 (Berdibek overthrow) turbulence (plague in Sarai 1346–7/1364/1370s; trade disruption; multiple khans; Mamai western power, Tokhtamysh east); Tokhtamysh took Sarai 1378, defeated Mamai 1381; Timur defeated Tokhtamysh and sacked Sarai/Astrakhan’/Tana 1395–6 (ll. 4320–4347). Dmitrii Ivanovich received initial patent via Mamai, defied tribute/transfers to Tver’, defeated Mikhail of Tver’ 1375 and Mamai at Kulikovo 1380 with NE coalition; Tokhtamysh sacked Moscow 1382 forcing submission (ll. 4362–4425). Continued patents/tribute until Vasilii II era; renegade Tatars (Kasim/Iakub) entered Muscovite service; shift in perceived power balance (ll. 4437–4461). 
+
+**Causal analysis (this range):** Horde suzerainty caused_by military conquest and patent system; commercial/tribute networks contributed_to both extraction and limited Rus’ recovery. Plague and internal khan rivalries (Mamai/Tokhtamysh/Timur) contributed_to Horde weakening that enabled Muscovite consolidation (Daniilovich rise preceded_by khan favour but followed_by internal coalitions). Novgorod trade with Horde enabled_by khan pressure on grand princes but contrasted_with growing Muscovite rivalry. All grounded strictly in ll. 3709–4698. See also [[rus-principalities]], [[moscow]], [[novgorod]], [[sarai]], [[late-middle-ages]].
 
 ## Relations with Latin Christendom
 

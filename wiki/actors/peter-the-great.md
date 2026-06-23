@@ -9,7 +9,7 @@ affiliated_with: [the Romanov dynasty, the Tsardom/Empire of Russia]
 opposed_by: [Sweden (Charles XII), the Ottoman Empire, the conservative boyars and the strel'tsy]
 key_events: [the Grand Embassy to western Europe (1697–98), the suppression of the strel'tsy (1698), the Great Northern War (1700–21), the founding of St Petersburg (1703), the victory at Poltava (1709), the proclamation of the Russian Empire (1721)]
 key_processes: [[[state-formation]], "the westernization of Russia", [[balance-of-power]], [[military-revolution]]]
-sources_ingested: 2
+sources_ingested: 5
 last_updated: 2026-06-22
 tags: [actor, person, early-modern, eastern-europe, russia]
 ---
@@ -35,6 +35,9 @@ in "the changed relations of East and West," the subject of M. S. Anderson's cha
   decisive **Battle of Poltava (1709)**; by the Treaty of Nystad (1721) Russia took the eastern
   Baltic provinces, supplanting Sweden as the regional hegemon — a major shift in the European
   [[balance-of-power|balance of power]].
+  From Bushkovitch (Cambridge History of Russia Vol. II, ll. 15003–15064 exclusive range): Motives complex — "The competition for power and territory was unavoidable, and in addition the religious factor is not to be discounted"; Great Embassy 1697-8 discussions of Baltic port; Ingria/Kexholm "part of Novgorod and then of Russia since the beginning of recorded history and were lost only in the Time of Troubles"; "the population remained to a large extent Orthodox"; marched on Narva first (disturbing ally Augustus); after Narva defeat "in 1702–3 he captured Ingria... At the mouth of the Neva Peter began to build St Petersburg, precisely the naval and commercial port he had wanted"; 1706-8 offers to keep only "St Petersburg and its immediate vicinity"; post-Poltava "Peter took Viborg in 1710 to provide a better defensive perimeter"; "At Nystad in August, 1721, Peter got all he wanted: Ingria, Karelia, Viborg, Estonia and Livonia. Russia had a port, with a large defensive perimeter around it, and was now a European power, dominant in the north-east." Justifications mixed secular (Pufendorf just war recovery of unjustly taken territories, "Sweden’s failure to uphold Russian claims to Livonia") and religious ("he clearly believed that God was on his side"; objected to liturgy claiming fight "for the cross of Christ" — "Sweden was proud, and the war was not about faith, but about measure"). "Many motives made up Peter’s decision... He felt that his cause was just, even according to the latest European thinking. He believed that Russia needed a port to maintain its prosperity and power." `caused_by:` Baltic access + territorial recovery + prestige; `produced:` [[treaty-of-nystad-1721|Treaty of Nystad]] + [[saint-petersburg|Saint Petersburg]]; `part_of:` [[great-northern-war-1700|Great Northern War]]. Persian campaigns "entirely commercial in inspiration" for silk areas. 
+
+From Fuller (imperial army, ll. 15859–15889): "Peter I initially sought to engage capable military specialists abroad, but soon ordered all males of the gentry estate into permanent service in the army, navy or bureaucracy"; "Table of Ranks in 1722, he established the principle that acquisition of an officer’s rank conferred nobiliary status even on commoners." "Peter the Great who devised expedients to extract more cash... poll (or soul) tax of 1718 that required every male peasant as well as most of the male residents... to pay to the state an annual sum of 74 (later 70) kopecks... he was able to push state income up to 8.7 million roubles by the close of his reign. Whereas military outlays had constituted roughly 60 per cent of state expenditure in old Muscovy, under Peter they may have consumed between 70 and 80 per cent of the state budget." `produced:` service state + poll tax fiscal base; `part_of:` westernization-of-russia.
 - **Westernizing reforms (1699–1724).** A "series of great innovations": a reorganized,
   Western-style **standing army and navy** ([[military-revolution]]); a new administrative
   apparatus (the Senate, the colleges, the provinces); subordination of the **Church** (the
@@ -42,12 +45,16 @@ in "the changed relations of East and West," the subject of M. S. Anderson's cha
   merit; compelled adoption of Western dress and customs (the famous beard tax); new taxation
   (the poll tax) and state-fostered industry; and the founding of a new capital, **St
   Petersburg** (1703), Russia's "window on the West."
+  From Wirtschafter (Cambridge History of Russia Vol. II, ll. 9331–9333): "Established in 1722 by Peter the Great, the Table of Ranks regulated promotion and ennoblement in military, state and court service. In state service, promotion to rank eight conferred hereditary nobility, whereas ranks nine to fourteen granted personal nobility." Personal nobles had privileges but children did not inherit; created service-related raznochintsy. `produced:` avenues for social mobility + raznochintsy category. 
+  From Engel (ll. 10825–10827): 1701 law "mandating German clothes, hats and footwear applied to the wives and children of men of all ranks of the service nobility, as well as of leading merchants, military personnel... only clergy and peasants were exempted." Part of broader effort to transform elite women as consorts for new service men; fines for non-compliance. `part_of:` westernization-of-russia; `contributed_to:` elite cultural shift.
 
 ## Counterfactual significance
 
 Peter did not single-handedly invent Russian westernization (it had seventeenth-century
 roots), but he drove it with such force and at such cost that he reoriented the country
 permanently toward Europe and made it a permanent great power — at the price of entrenching
+
+From ch.9 (Nathans range 8001+): Under Peter pragmatic: "bans on Jewish settlement were not rescinded, neither were they renewed. Peter imported a number of Jewish converts... employed them at various levels... His successors, however, quickly reverted to a hard line." Elizabeth I "reissued older decrees barring Jews" (l8089–8091). Early empire multiethnic foundations set stage for later policies. For Islam: Peter continued moderated toleration for "loyal subjects, good tax-payers and soldiers"; Muslim elites entered nobility (l8441–8443). `preceded_by:` Muscovite bans; `produced:` empire as multi-confessional polity.
 **serfdom** and an autocratic, service state. His reforms were coercive and uneven, and
 provoked lasting debate (the later Slavophile/Westernizer controversy) over whether he
 modernized Russia or deformed it. His reign is the classic case of **revolution from above**.
@@ -58,6 +65,8 @@ Peter is the founder of imperial Russia and a turning point in European history:
 vast new power to the states system, shifted the [[balance-of-power|balance]] in the north and
 east, and set the template for autocratic modernization that echoes through Russian history. He
 helps fill the wiki's flagged **Russia/Eastern Europe** gap.
+
+From Lieven (Cambridge History of Russia Vol. II intro + ch.1, ll. 4155, 4323, 5141–5142): Peter’s proclamation as emperor (1721) and successors created “effective military and fiscal state apparatus” making Russia “core member of the European concert of great powers.” 1721 Senate ceremony in St Petersburg added “imperator vse-rossiiskii” using foreign Latin terms “imperiia and imperator” to brand Russia a European empire. Reforms (with Catherine) initiated “full-scale Westernisation of the country’s ruling elites” — one of two “great clichés” uniting the imperial era. “Until the emergence of Japan... the only example of a non-Western polity which had challenged effectively the might of the European great powers.” (ll. 4295). Baltic acquisition opened trade routes; Finland annexed for St Petersburg security (ll. 4305–4307). Peter’s St Petersburg as “window on the West” embodied shift (cf. saint-petersburg.md, Hughes ch.4).
 
 ## Additional Detail from Freeze (ed.) 2002 (Alexander ch., lines 3311–3800)
 Early career: "Peter I is associated with many ‘firsts’... the first to travel incessantly by land and water and to venture abroad, the first to be titled emperor and ‘the Great, Most Wise Father of the Fatherland’" (l3327–3337). 1682 Streltsy mutiny forced co-tsarship w/ Ivan V under Sofia; 1689 coup after Streltsy 15 May massacre (Peter witnessed, "suffered a nervous shock"); Sofia to Novodevichii (l3415–3417). "Peter did not, however, immediately assume Sofia’s role in government" (l3419). Azov: 1695 siege failed ("lack of a flotilla precluded any naval blockade"; storm losses); 1696 success with Voronezh fleet; "the fortress’s capitulation with stunning ease on 19–20 July 1696"; Roman triumph with "He came, he saw, he conquered" (l3431–3439).

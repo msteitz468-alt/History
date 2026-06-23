@@ -13,13 +13,15 @@ scale_immediate: civilizational
 scale_consequential: global
 causes: [failure of Anglo-French-Soviet negotiations, Munich Agreement (1938), Hitler's planned invasion of Poland, Soviet desire to avoid war]
 consequences: [outbreak of World War II, partition of Poland, Soviet annexation of the Baltic states, Soviet annexation of Bessarabia]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [event, world-wars-era, eastern-europe]
 ---
 # Molotov-Ribbentrop Pact
 ## Narrative
 On August 23, 1939, Soviet Foreign Commissar Viacheslav Molotov and German Foreign Minister Joachim von Ribbentrop signed a treaty of strict neutrality and nonaggression in Moscow. While the public treaty declared peaceful relations between the two ideologically opposed regimes, it was accompanied by a **secret protocol** that divided Eastern Europe into spheres of influence. Strengthened by the pact, Germany invaded Poland on September 1, 1939. On September 3, Great Britain and France declared war on Germany, initiating the Second World War. On September 17, Soviet troops entered eastern Poland, and subsequently annexed the Baltic states and Bessarabia.
+
+From Cambridge History of Russia Vol. III (Barber/Harrison, ll. 6006–6011): The pact 'bought two more years of peace, although this was peace only in a relative sense and was mainly used for further war preparations. While selling war materials to Germany Stalin assimilated eastern Poland, annexed the Baltic states and the northern part of Romania, attacked Finland and continued to expand war production and military enrolment. In the summer of 1940 Hitler decided to end the “peace”... he launched the greatest land invasion force in history against the Soviet Union.' `contributed_to` Soviet territorial gains and preparations; `followed_by` 1941 invasion (preceded_by pact). Added to Narrative/Causal.
 
 ## Causal Analysis
 - `caused_by:` the **extreme Soviet suspicion of the Western democracies** following the Munich Agreement (1938), from which the USSR was excluded (Line 6243); the **failure of Anglo-French-Soviet negotiations** in the summer of 1939 due to Western hesitation and Polish refusal to allow Red Army transit; and **Stalin's desire to divert the impending war** away from Soviet borders while gaining territorial buffers.

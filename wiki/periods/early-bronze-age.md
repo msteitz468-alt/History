@@ -7,8 +7,8 @@ date_range: 3,300–2,100 BCE (Near East; regionally variable)
 regions_covered: [mesopotamia, near-east, levant, anatolia, north-africa, south-asia, aegean]
 major_themes: [first cities, state formation, writing, bronze metallurgy, city-states, kingship]
 collection_coverage: moderate
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 5
+last_updated: 2026-06-23
 tags: [period]
 ---
 
@@ -47,6 +47,7 @@ and [[chalcolithic|Chalcolithic]].
   divine kingship — ending in the structural [[fall-of-old-kingdom-2160bce|collapse
   into the First Intermediate Period]] (~2160 BCE).
 - **City-states and warfare** — [[early-dynastic-sumer|Mesopotamian city-states]]
+- **Legendary literature** — the *Epic of Gilgamesh* (and its Sumerian precursors) preserves the memory of Uruk's king Gilgamesh and Enkidu; one of the earliest profound meditations on kingship, friendship, mortality, and the flood myth in world literature ([[andrew-george-epic-of-gilgamesh-1999]]). In the Standard Version prologue (ll. 957–1070) Gilgamesh is "two-thirds of him god but one third human" (ll. 1049), builder of Uruk's walls, seeker of life who "reached through sheer force Uta-napishti the Distant" (ll. 1037); the gods respond to complaints of his tyranny by creating Enkidu from clay as counterpart (ll. 1141–1161). Enkidu's taming by Shamhat ("For six days and seven nights / Enkidu was erect, as he coupled with Shamhat", ll. 1343–1345) leads to civilization and friendship; Gilgamesh and Enkidu's journey preparations and dreams (Tablets II–IV) and slaying of Humbaba (with Shamash's winds, ll. 3303–3315) exemplify heroic kingship and its costs. The epic **part_of** Early Bronze Age legendary tradition **concurrent_with** the city-state system. In Tablets VII–VIII (ll. 4251–4784), Enkidu dreams of the "House of Dust" ("where dust is their sustenance and clay their food, / where they are clad like birds in coats of feathers"; ll. 4299–4301) before dying; Gilgamesh laments "like a lioness deprived of her cubs" (VIII 60), fashions a statue and grave goods, and offers to underworld gods so "May she welcome my friend and walk at his side!" (ll. 4658+). This grief **caused_by** death **produced** the wanderings (Tablet IX, ll. 4799+). Uta-napishti teaches that "both Death and Life they did establish, / but the day of Death they do not disclose" (X 5746–5748). The epic **part_of** Early Bronze Age legendary tradition **concurrent_with** Early Dynastic Sumer.
   ([[uruk|Uruk]], [[ur|Ur]], [[lagash|Lagash]], Kish, Umma) competing over land,
   water, and trade under a theology of [[temple-economy|divine land-ownership]];
   ephemeral hegemonies tracked (unreliably) by the [[sumerian-king-list|Sumerian

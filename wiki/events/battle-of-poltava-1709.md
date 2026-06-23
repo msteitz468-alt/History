@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["[[great-northern-war-1700|Great Northern War (1700-1721)]]", "Swedish loss of supply train at the Battle of Lesnaia", "Defection of Hetman Ivan Mazepa to Sweden"]
 consequences: ["Total collapse of Swedish military hegemony in Europe", "[[treaty-of-nystad-1721|End of Swedish Baltic empire and Treaty of Nystad]]", "Revival of the anti-Swedish coalition of Russia, Saxony, and Denmark", "[[pruth-river-campaign-1711|Encirclement of Russia in the Pruth River Campaign]]"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [event, early-modern, age-of-expansion, eastern-europe]
 ---
@@ -25,6 +25,8 @@ The **Battle of Poltava** was fought on July 8, 1709 (June 27, OS), and resulted
 After a freezing winter in Ukraine, during which the Swedes were cut off from their supply bases, Charles XII laid siege to the small Russian fortress of Poltava (L2884-L2890). The main Russian army came to the rescue of the fortress, confronting the Swedes in the open field (L2888-2890). 
 
 The Swedish force (numbering 22,000 to 28,000) put up a fierce fight but was overwhelmed by the Russian army (over 40,000 strong) and its vast superiority in light and heavy artillery (L2890). The Swedish lines broke; the majority of the Swedish troops and generals surrendered on the field or days later near the Dnieper River, which they could not cross (L2890). Charles XII and his ally, the Ukrainian Hetman Ivan Mazepa, escaped to Ottoman territory (L2890).
+
+From Cambridge History of Russia Vol. II index (ll. 24001–30000): "at Poltava 498" (multiple incl. l25359); "Lesnaia, battle of (1708) 498" (l26609); Great Northern War army context "under Peter the Great 531–2" "success (1700–1825) 531–9" "imperial army" "symbiotic relation to state 530" (ll. 25387–25415). `caused_by:` supply loss at Lesnaia + Mazepa defection + Russian artillery superiority; `produced:` collapse of Swedish hegemony; `part_of:` [[great-northern-war-1700|Great Northern War]] and [[russian-empire|Russian Empire]] military rise.
 
 ## Causal Analysis
 The battle was caused by:

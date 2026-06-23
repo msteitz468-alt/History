@@ -31,6 +31,7 @@ The siege was caused by:
 * **Border Security:** Muscovy suffered from frequent, large-scale raids by the Tartar armies of Kazan, Astrakhan, and the Crimea, which devastated the southeastern frontier and drained state finances to maintain defense lines (L2088).
 * **Volga Control:** The Muscovite state sought to control the entire course of the Volga River to secure commercial trade routes to the Caspian Sea and Persia (L2090, L2512).
 * **Military Reforms:** The campaign was enabled by Ivan IV's recent military reforms, which standardized gentry service, placed new emphasis on artillery and engineering, and added regular musketeer (*streltsy*) regiments to the army (L2082-2086).
+* **Post-conquest policy (range):** "the long-term strategic and economic importance of the conquest of Kazan’ was obvious: to control the riches of the mid-Volga area, to gain access to the wealth of Siberia and to dominate the commercial routes to Central Asia and China as well as Iran and the Caucasus." Moscow used "mixture of carrots and sticks" vs Spanish model; "Belatedly and unconvincingly Moscow also tried to make Kazan’ into its own Reconquista." (Khodarkovsky l8342-8355) Nogais "crucial allies"; Ivan called 'White Tsar'. (l8419-8444) To [[conquest-of-astrakhan-1556]], [[golden-horde]], [[eastward-expansion-of-russia]].
 
 ## Consequence Analysis
 The capture of Kazan produced:

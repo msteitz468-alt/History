@@ -7,7 +7,7 @@ date_range: "1000–1300 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road]
 major_themes: ["the thickening of Afro-Eurasian exchange webs", "the commercial revolution and a 'first globalization'", "the apogee of Song China", "the Crusades and Christian–Islamic frontier conflict", "cultural crystallization across Eurasian ecumenes", "the rise of universities and scholastic learning", "the eve of the Mongol conquests", "demographic expansion across the Old World", "Angkor, Cahokia, and regional apogees beyond Eurasia"]
 collection_coverage: strong
-sources_ingested: 8
+sources_ingested: 13
 last_updated: 2026-06-22
 tags: [period]
 ---
@@ -115,7 +115,7 @@ states; [[ghana-empire|Ghana]] gave way to the rising Mali.
 - The **[[khmer-empire|Khmer Empire]]** at [[angkor|Angkor]]; the **[[chola-empire|Cholas]]** of South India.
 - **Kamakura Japan**; **Koryŏ** Korea.
 - The **[[rus-principalities|Rus′ Principalities]]** under the Mongol Golden Horde; **[[novgorod]]**, **[[vladimir]]**, and **[[alexander-nevsky|Alexander Nevsky]]**.
-- The **[[mongol-empire|Mongols]]** under [[genghis-khan|Chinggis Khan]] (from 1206), who close the period.
+- The **[[mongol-empire|Mongols]]** under [[genghis-khan|Chinggis Khan]] (from 1206), who close the period. The *Secret History* (de Rachewiltz, ll. 1232–4000) records Temüjin's youth: legendary wolf/doe ancestry and settlement at Burqan Qaldun source of Onan (ll. 1239-1247); Alan Qo'a's "sons of Heaven" (ll. 1497-1511) and arrow unity (ll. 1527-1529); Bodončar's founding after exclusion (ll. 1557-1781); Yisügei's abduction of Hö’elün (ll. 1989-2103) and poisoning (ll. 2337-2343); Temüjin's birth with blood clot and naming (ll. 2157-2165); betrothal to Börte (ll. 2181-2329); Tayiči’ut abandonment and Ho'elun's foraging (ll. 2522-2622); killing of Bekter (ll. 2640-2793); capture and escape via Sorqan Šira (ll. 2804-3108); first nökör Bo’orču and Jelme (ll. 3150-3497); marriage, sable gift to Ong Qan (ll. 3416-3464); and Merkit raid on Börte leading to early alliances (ll. 3616-4000). These `preceded_by` unification and illustrate clan fragmentation and personal loyalty.
 
 ## Geographic Scope
 
@@ -146,6 +146,10 @@ failing for Germany, England, and León.
 states and forged the largest contiguous empire in history, ushering in the
 "Pax Mongolica" that briefly unified the Eurasian exchange system at its maximum
 extent — the immediate prelude to the fourteenth-century crisis.
+
+**Verification from *Secret History of the Mongols* (de Rachewiltz, exclusive range ll. 16086–22035, indexes & supplement)**: Colophon dates composition: "The writing of this book was completed... in the Year of the Rat, in the month of the Roebuck..." at Köde’e Aral (ll. 17874-17882); subjects index "Year of the Rat: ... 1228, 269; 1240; ... and composition of SH, 282" (ll. ~21474-21476). This anchors the native chronicle to the High Middle Ages (preceded_by unification; concurrent_with Ögödei accession at 1228 quriltai). Subjects index also lists "Year of the Pig (1227)" for Činggis ascension (ll. ~21474). Strengthens historiography note for period and [[genghis-khan]]. Updated with direct grounding.
+
+**Additional from Secret History (de Rachewiltz, ll. 7001–11000)**: Details the 1203-1205 campaigns that achieved Mongol unification on the steppe during the High Middle Ages. Betrayal plot and flight at Qalaqal†it (ll. 7621-8000+); Naiman defeat at Naqu Cliff with mass panic deaths "like heaps of rotten logs" and "Činggis Qa’an utterly defeated and conquered the people of the Naiman tribe on the southern slopes of the Altai" (ll. 10465-10490) `produced` steppe unification `preceded_by: [[high-middle-ages]]` tribal fragmentation. Sübe’etei expedition orders establish "matter of law" for discipline and conservation ("making this a matter of law... hunt with moderation" ll. 10834-10854) `contributed_to` administrative foundations of empire. Merit promotion ("He is a truthful man, I shall entrust him with an important task!" ll. 10623-10625) and "four hounds" elite (ll. 10221-10261) `part_of` nökör/merit system. These `concurrent_with` the eve of outward expansion and `enabled: [[mongol-conquests-13th-century]]`. Grounded exclusively in assigned range; prior content preserved.
 
 ## Historiography
 
@@ -211,4 +215,6 @@ the [[frederick-ii-hohenstaufen|Hohenstaufen]] collapse and the rise of the
 [[county-of-flanders|Flanders]] ([[battle-of-courtrai-1302|Courtrai]]). Later cycles will follow
 for Italy, the Mediterranean frontiers, and the northern/eastern frontiers, along with specialist
 Song, Seljuk, Crusader, and Indian Ocean material. South and
-Southeast Asia and the interior of sub-Saharan Africa stay comparatively thin. The gap on Russia and Eastern Europe has been addressed by the ingestion of Riasanovsky (2000).
+Southeast Asia and the interior of sub-Saharan Africa stay comparatively thin. The gap on Russia and Eastern Europe has been addressed by the ingestion of Riasanovsky (2000) and Cambridge History of Russia Vol. I (Perrie ed. 2006).
+
+**North-eastern Russia and the Golden Horde onset (from Cambridge History of Russia Vol. I, Janet Martin ch., ll. 3709–3927):** On the eve of the Mongol invasion, Kievan Rus’ institutions persisted: Riurikid dynasty with senior prince at Kiev and Orthodox metropolitan there; north-eastern principalities (Vladimir aka Suzdalia/Rostov-Suzdal’) mostly attached to grand principality of Vladimir and periodically redistributed (Rostov hereditary exception for Konstantin Vsevolodich’s line); 1214 church eparchy split but remained under Kiev (ll. 3717–3752). Invasion 1237–8 caused severe dislocation: Vladimir "besieged and burned, and Suzdal’ was sacked"; Rostov, Tver’, Moscow attacked; numerous princes killed; Vernadsky est. ≥10% Russian pop dead/captive; repeated incursions + labour conscription for Sarai construction compounded losses (ll. 3770–3783). Region subordinated to Juchi’s ulus/Golden Horde (Kipchak Khanate); princes required to recognise suzerainty (ll. 3785–3787). Early post-invasion succession: Iaroslav Vsevolodich (d.1246); Sviatoslav brief division among sons; Andrei and Aleksandr return from Karakorum 1249; Andrei evicted 1252 by Aleksandr Nevskii with Tatar force; Aleksandr Nevskii grand prince of Vladimir 1252–63 in co-operation with Horde, enforcing census in resistant Novgorod (ll. 3923–3948). These established the framework for khan patents and tribute that defined the close of the High Middle Ages in eastern Europe. See also [[late-middle-ages]], [[golden-horde]], [[moscow]], [[novgorod]], [[rurikid-dynasty]].

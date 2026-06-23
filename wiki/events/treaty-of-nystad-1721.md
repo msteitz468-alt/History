@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: hemispheric
 causes: ["[[great-northern-war-1700|Great Northern War (1700-1721)]]", "[[battle-of-poltava-1709|Russian victory at the Battle of Poltava]]", "Russian military raids into Sweden proper (1719-1721)"]
 consequences: ["Proclamation of the Russian Empire", "Russian acquisition of Livonia, Estonia, Ingermanland, and Karelia", "Decline of Sweden to a second-rate power"]
-sources_ingested: 1
+sources_ingested: 3
 last_updated: 2026-06-22
 tags: [event, early-modern, age-of-expansion, eastern-europe, northern-europe]
 ---
@@ -28,6 +28,8 @@ Under the provisions of the treaty:
 * **Territorial Cessions:** Russia acquired Livonia, Estonia, Ingermanland, part of Karelia, and several Baltic islands (including Ösel and Dagö) (L2902).
 * **Restorations and Compensation:** Russia returned the bulk of occupied Finland to Sweden and paid two million rix-dollars (L2902).
 * **Strategic Control:** The acquisition of the Baltic coast and strategically located fortress towns like Viborg gave Russia complete control over the Gulf of Finland and secured the new capital, St. Petersburg (L2902).
+
+From Cambridge History of Russia Vol. II index (ll. 24001–30000): "Treaty of Nystad (1721) 499" (l24877); "Great Northern War (with Sweden) (1700–21)" "to Russia (1721) 499" (ll. 24851–24877); "Ingria 495" "taken by Russia 496, 499" (ll. 25405–25409). `caused_by:` [[great-northern-war-1700|Great Northern War]] Russian victories (Poltava, raids); `produced:` Livonia/Estonia/Ingermanland/Karelia cessions, Russian Empire proclamation (Senate 1721), decline of Sweden; `part_of:` [[russian-empire|Russian Empire]] Baltic foundation. "naval power" cross (ll. 25003).
 
 ## Causal Analysis
 The treaty was caused by:

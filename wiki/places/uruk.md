@@ -7,8 +7,8 @@ period_active: [Chalcolithic, Early Bronze Age, Middle Bronze Age, Late Bronze A
 controlled_by: [Sumerian city-state of Uruk, later Babylonia]
 events_here: []
 processes_here: [[[urbanization]], [[writing-and-record-keeping]], [[temple-economy]]]
-sources_ingested: 3
-last_updated: 2026-06-11
+sources_ingested: 6
+last_updated: 2026-06-23
 tags: [place, mesopotamia, near-east, early-bronze-age]
 ---
 
@@ -105,6 +105,8 @@ overruling them, hinting at a more complex, partly assembly-based politics, not
 pure despotism (the "primitive democracy" debate; see
 [[hierarchy-vs-heterarchy-early-cities]], [[heterarchy]]).
 
+The *Epic of Gilgamesh* (primary source) supplies the legendary portrait of Gilgamesh as Uruk's semi-divine king and builder of its walls, his friendship with Enkidu, and the city's enduring symbol of civilization and human achievement. It is the "national epic" of Uruk, grounding its historical primacy in emotional and philosophical terms. The prologue describes the city: "He built the rampart of Uruk-the-Sheepfold, / of holy Eanna, the sacred storehouse. / ... [A square mile is] city, [a square mile] date-grove, a square mile is clay-pit, half a square mile the temple of Ishtar: [three square miles] and a half is Uruk’s expanse." (ll. 977–999). The people's complaint against Gilgamesh's tyranny ("Gilgamesh lets no son go free to his father... lets no girl go free to her bridegroom", ll. 1085–1105) reaches the gods, leading to Enkidu's creation **to rest** the city. In Tablet II Gilgamesh convenes the assembly of elders and young men of Uruk (ll. 2048–2153); the elders advise caution on the Cedar Forest journey. Before departure Gilgamesh instructs regents: "Judge the lawsuit of the weak, call to account those who do wrong" (ll. 2449–2450); "The regents stood there wishing him well, / the young men of Uruk ran behind in a mob, / and the regents kissed his feet" (ll. 2455–2459). These details **part_of** the legendary portrait of Uruk's polity and Gilgamesh's rule. In Tablet VIII (ll. 4438–4444), Gilgamesh calls for the people of Uruk to mourn: "May the young men of Uruk-the-Sheepfold mourn you, / [who] witnessed our battle when we slew the Bull of Heaven!" The funeral rites and laments **part_of** collective mourning **produced_by** Enkidu's death (ll. 4400–4784). The Sumerian poem "Gilgamesh and Akka" (in range, ll. 6501–6730) depicts the assembly of elders and young men of Uruk debating war with Kish ("let us not submit to the house of Kish, let us wage war!"), with Gilgamesh overriding elders but heeding the young men; this **preceded_by** the legendary exploits and illustrates early Uruk political dynamics (assembly vs. king). Enkidu's role and the Cedar Forest/Bull episodes are recalled as shared deeds of the two heroes from Uruk (ll. 4506–4510, 5156–5162).
+
 ## Why this place mattered
 
 Uruk is the clearest case in the volume of the link **urbanization → writing**,
@@ -118,3 +120,4 @@ the [[early-bronze-age|Early Bronze Age]].
 - State: [[early-dynastic-sumer]] · Concept: [[sumerian-king-list]] · [[temple-economy]]
 - Process: [[urbanization]] · [[writing-and-record-keeping]] · Period: [[early-bronze-age]] · [[chalcolithic]]
 - Concept: [[urban-revolution]] · [[urbanism]] · [[city-state]]
+- Literary: [[gilgamesh|Gilgamesh]] and [[enkidu|Enkidu]] (the epic as Uruk's foundational legend); [[andrew-george-epic-of-gilgamesh-1999|Andrew George trans.]] (primary source)

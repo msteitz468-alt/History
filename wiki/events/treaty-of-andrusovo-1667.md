@@ -19,6 +19,8 @@ tags: [event, early-modern, eastern-europe]
 ---
 # Treaty of Andrusovo
 
+**Narrative and analysis from Cambridge History of Russia Vol. I (exclusive range ~13940-13960, Davies ch.):** Climax of Thirteen Years War (1654-67). After Vyhovs'kyi betrayal/Hadiach, Sheremetev surrender at Chudnov 1660, raids/counter-raids, Doroshenko Ottoman alliance and 1670s escalation, Andrusovo 13-yr armistice (30 Jan 1667) signed after Andrusovo talks. Poles conceded Smolensk/Seversk/Chernigov to Muscovy; confirmed sovereignty over left-bank Ukraine; temporary control of Kiev (postponed resolution). "With the signing of the Andrusovo Armistice the Poles finally conceded Smolensk, Seversk and Chernigov to Muscovy (a concession they had been ready to make in 1656 at Vilnius) and confirmed Muscovite sovereignty over left-bank Ukraine. They also left Muscovy in temporary control of Kiev..." (lines 13946-13950) `caused_by:` military exhaustion + Polish need vs Turks; `produced:` partition of Ukraine along Dnieper; `followed_by:` Eternal Peace 1686; `enabled:` Muscovite consolidation of left bank and greater control over hetmanate/Zaporozhians. Later Chyhyryn campaigns and Golitsyn expeditions built on this. Scale consequential civilizational (rise of Russian power vs Commonwealth decline).
+
 ## Narrative
 The **Treaty of Andrusovo** (Truce of Andrusovo) was signed on January 30, 1667, between the Russian Tsardom and Poland-Lithuania, establishing a 13.5-year truce that ended the Russo-Polish War of 1654–1667 (L2456-2458). The Russian delegation was led by the diplomat Athanasius Ordyn-Nashchokin (L2456).
 

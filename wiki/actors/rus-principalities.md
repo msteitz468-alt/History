@@ -9,8 +9,8 @@ affiliated_with: [the Riurikid dynasty, the Orthodox Church (the metropolitan of
 opposed_by: [the [[mongol-empire|Mongols/Golden Horde]], the Polovtsians, Catholic Poland/Hungary (in the west)]
 key_events: [the battle of the Kalka (1223), the fall of Vladimir (1238) and Kiev (1240)]
 key_processes: [the fragmentation of Kievan Rus′, the Mongol conquest and the "Tatar yoke"]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-22
 tags: [actor, state, high-middle-ages, eastern-europe]
 ---
 
@@ -28,6 +28,8 @@ with one another."
 Power across the Rus′ lands remained the monopoly of the **Riurikid** clan, divided into four
 dominant branches operating from regional patrimonies: the **Iur′evichi** of Vladimir-Suzdal in
 the north-east; the **Olgovichi** of Chernigov in the south; the **Iziaslavichi** of Volyn and
+
+**Post-invasion north-eastern Russia and Horde overlordship (Cambridge History of Russia Vol. I, Perrie ed. 2006, Martin ch. ll. 3709–4698):** Invasion did not destroy all norms: NE towns like Rostov, Tver’, Iaroslavl’ untouched; Novgorod Baltic trade continued; Riurikid lines and metropolitan of Kiev/all Rus’ persisted (cross-ref). Vladimir principality (Suzdalia) core of NE; most appanages periodically redistributed from grand principality (Rostov hereditary exception); bishoprics split 1214 but under Kiev (ll. 3735–3752). Severe impact 1237–8 (Vladimir burned/Suzdal’ sacked; attacks on Rostov/Tver’/Moscow; princes killed; 10%+ pop loss + conscription for Sarai) + Black Death 1353 (metropolitan/grand prince killed; 25% decline) (ll. 3770–3821). Subordination to Golden Horde required suzerainty recognition; commercial/tribute flows via Volga to Sarai; khan pressure promoted Novgorod trade (ll. 3785–3859). Succession initially traditional (Vsevolodichi) but khans overrode (Aleksandr Nevskii 1252 eviction; Daniilovich patents replaced seniority) (ll. 3923–4001). Metropolitans moved activities/see toward Vladimir/Moscow while defending see unity; Petr aided Moscow (ll. 4129–4182). By mid-14th Daniilovich dependent on khans; internal consolidation (Dmitrii Donskoi coalitions, expulsions) and civil war resolution led to Muscovite hegemony (ll. 4213–4698). See [[golden-horde]], [[moscow]], [[novgorod]], [[rurikid-dynasty]], [[kievan-rus]], [[late-middle-ages]].
 Galicia in the west; and the **Rostislavichi** of Smolensk in the centre. **Kiev** (for its
 prestige and ancient wealth) and **Novgorod** (for its vast fur-bearing hinterland and trade with
 north-west Europe) stood above the system as contested prizes. Cohesion survived only through the

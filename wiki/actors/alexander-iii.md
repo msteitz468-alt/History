@@ -9,7 +9,7 @@ affiliated_with: [[romanov-dynasty|Romanov Dynasty]], [[russian-empire|Russian E
 opposed_by: [the revolutionary underground, liberal constitutionalists, and educational reformers]
 key_events: [the Zemstvo Counter-reform (1890), the establishment of the State Gentry Land Bank (1885), the creation of land captains (1889), the initiation of the Trans-Siberian Railway (1891)]
 key_processes: ["counter-reforms in Russia", "industrialization-of-russia", "Russification"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [actor, person, long-19th-century, eastern-europe]
 ---

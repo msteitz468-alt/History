@@ -24,6 +24,8 @@ The **Conquest of Astrakhan** occurred in two stages between 1554 and 1556, culm
 
 Following the fall of Kazan in 1552, Russian forces advanced down the Volga River and seized Astrakhan for the first time in 1554, deposing the reigning khan and installing a vassal candidate, Yamgurchei, in his place (L2090). However, this vassal khan soon established clandestine contacts with the Crimean Khanate, violating his allegiance to Moscow (L2090). In response, Russian forces launched a second campaign, seizing Astrakhan once more in 1556 and formally annexing the territory directly into the Russian state (L2090).
 
+**From Cambridge Vol. I range (Khodarkovsky):** "In the spring of 1554, following Ismail’s advice, Ivan sent an army of 30,000 men down the Volga to rendezvous with Ismail’s Nogais and to install on the Astrakhan’ throne a Muscovite and Nogai protégé, Dervish Ali from the Astrakhan’ dynasty." Yamgurchi fled; "Moscow declared Dervish to be the new khan of Astrakhan’." "Moscow’s annexation of Astrakhan’ transformed Moscow overnight into a significant player in the Caucasus region." Later Ottoman pressure led to Terek fort demolition 1571 and reopening route. (l8458-8572) Nogais "remained Moscow’s crucial allies." (l8446)
+
 ## Causal Analysis
 The conquest was caused by:
 * **Securing the Volga trade:** Following the capture of the Middle Volga at Kazan, Astrakhan at the mouth of the river remained the final obstacle to total Russian control of the Volga commerce route to the Caspian Sea (L2090).

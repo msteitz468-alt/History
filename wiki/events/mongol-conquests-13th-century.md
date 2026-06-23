@@ -13,8 +13,8 @@ scale_immediate: hemispheric
 scale_consequential: global
 causes: [[[genghis-khan]], [[pastoral-nomadism]], "the decomposition of steppe order after the Liao/Jin", "Mongol security and trade interests"]
 consequences: [[[mongol-empire]], [[pax-mongolica]], [[chinggis-exchange]], [[black-death]], [[golden-horde]], [[ilkhanate]], "the redrawing of the Eurasian political map"]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 6
+last_updated: 2026-06-22
 tags: [event, transition, high-middle-ages, late-middle-ages, steppe]
 ---
 
@@ -49,6 +49,14 @@ More than **twenty states vanished** — Xixia, Jin, Song, Kara Khitai, Khwarazm
 Ismaili "Assassin" state, the Abbasid Caliphate, the Seljuks of Rum, Vladimir-Suzdal,
 the Kipchak confederacy, and many more.
 
+**Verification from *Secret History* (de Rachewiltz shorter, ll. 16086–22035)**: 
+- Final Tang’ut campaign and Činggis death: detailed account of illness at Čo’orqat, fight at Alašai, "Having destroyed the Tang’ut people, Činggis Qa’an came back and in the Year of the Pig (1227) ascended to Heaven" (ll. 16102-16426, 16418-16422; name index entries for Tang’ut ll. ~19348, Burqan/Iluqu/Šidurqu ll. ~18172+). caused_by: broken promises of Burqan; produced: destruction "down to the offspring of their offspring" (ll. 16390). 
+- Ögödei western support: "Batu, Büri, Güyük, Möngge... brought the Qanglin, Kibča’ut... Orusut... under submission" (ll. 16848-16866, 16978+); subjects index "campaigns against... the Qanglin... 274" (ll. ~19926). contributed_to: extension of [[mongol-conquests-13th-century]].
+- Name index cross-refs (e.g. "Karakorum: see Qara Qorum" ll. ~18602; specific § for events) provide citation anchors.
+Updated with quotes, line refs, taxonomy.
+
+**Verification from *Secret History of the Mongols* (de Rachewiltz, ll. 7001–11000)**: The Naiman campaign (Year of the Rat, 1204) completed a key phase of unification before the 1206 quriltai. Činggis "finished off Tayang Qan" after Naiman "tumbling down from the height of Naqu Cliff... like heaps of rotten logs" (ll. 10473-10471); "Činggis Qa’an utterly defeated and conquered the people of the Naiman tribe on the southern slopes of the Altai" (ll. 10487-10490). Jamuqa "separated from the Naiman" after demoralizing Tayang (ll. 10429-10455) `contributed_to` victory. Merkit remnants pursued: Sübe’etei "provided with an iron cart" to chase Qudu, Qal and Čila’un "to the furthest limit, To the bottom of the deep" with strict discipline orders ("making this a matter of law... cut them down on the spot"; battue moderation to spare geldings ll. 10760-10854, 10834-10842) `part_of` [[mongol-army]] logistics and `produced` long-range pursuit capability. "Four hounds" (‡ebe, Qubilai, ‡elme, Sübe’etei) and "four steeds" (Bo’orču, Muqali, Boroqul, Čila’un) `part_of` core command structure. "The Merkit who had submitted earlier rose again in rebellion... he had the Merkit distributed here and there down to the last one" (ll. 10746-10757) `contributed_to` tribal dissolution. These `preceded_by` the formal 1206 proclamation and `enabled` the Jin and Khwarazm campaigns. `concurrent_with` the shift from tribal confederation to decimal state.
+
 ## Causal Analysis
 
 - `caused_by: [[genghis-khan]]` — the organizational and charismatic achievement that
@@ -58,7 +66,15 @@ the Kipchak confederacy, and many more.
   horse-archers, mobility) the Mongols perfected.
 - `caused_by: "the decomposition of steppe order"` — the collapse of Liao and the weak
   Jin grip on Mongolia created the "unsettled conditions on a strategic periphery"
-  (Arnason) in which a unifier could arise.
+  (Arnason) in which a unifier could arise. The *Secret History* (de Rachewiltz, ll. 1232–4000)
+  details the internal dynamics: splits (Dörben ll. 1369-1393), Bodončar founding Borjigin
+  (ll. 1779-1781), Ambaqai's capture and revenge call (ll. 1939-1985), Yisügei abduction of
+  Hö’elün from Čiledü (ll. 1989-2103), Qutula's 13 fights vs Tatars (ll. 2137-2147),
+  poisoning of Yisügei (ll. 2337-2343), Tayiči’ut abandonment of family (ll. 2532-2534),
+  and Merkit revenge raid (ll. 3616-3644). These feuds and abductions `preceded_by` the
+  unification; personal nökör bonds (Bo’orču ll. 3206-3296; Jelme ll. 3492-3496; Ong Qan
+  alliance via sable ll. 3448-3452) `contributed_to` the rise of a leader who could
+  transcend clan fragmentation.
 - Security and trade motives recur in May's account: several campaigns (Xixia, Otrar)
   were driven by the protection of Mongolia and of [[pax-mongolica|trade]] rather than
   by a master plan of world conquest.
@@ -101,3 +117,11 @@ The wiki's fuller historiographical discussion is on [[mongol-empire]].
 - [[pax-mongolica]] · [[chinggis-exchange]] — the integrative consequences.
 - [[mongol-invasion-of-europe-1241]] · [[mongol-invasions-of-japan-1274-1281]] · [[battle-of-ain-jalut-1260]] — component campaigns and limits.
 - [[golden-horde]] · [[ilkhanate]] — successor khanates; [[may-mongol-conquests-2012]] — the source.
+
+**Grounded claims from Secret History (de Rachewiltz shorter, ll. 4001–7000, Ch. 3–5)**:
+- Coalition battle at Köyiten (1201): Buyiruq Qan and Quduqa "knowing how to produce a rainstorm by magic, started to conjure it up, but the magic storm rolled back and it was right upon themselves" leading to scatter (ll. 6060–6070). `contributed_to: [[mongol-conquests-13th-century]]` early success vs. anti-Mongol alliance.
+- Pursuit and battle vs Tayiči’ut A’uču at Ülengüt Turas; all-night fight, Chinggis neck wound treated by ‡elme (ll. 6112–6144). `preceded_by: [[genghis-khan]]` survival.
+- Jamuqa plunders his own electing people after defeat (ll. 6100–6102). `contrasts_with: [[genghis-khan]]` nökör loyalty model.
+- Earlier Dalan Bal†ut defeat and Jamuqa's boiling of Činòs princes alive + dragging Čaqa’an U’a's head (ll. 5272–5286). `contributed_to` eventual Mongol victory via rival brutality.
+- Pre-1206 rival wars (Merkit remnants, ‡ürkin, Tatars 1202) as direct prelude: "From old days, the Tatar people have been our mortal enemies, the people who have destroyed our fathers and forefathers." (ll. 5444–5445); joint attack with Ong Qan. `caused_by: [[genghis-khan]]` unification phase; `part_of: [[mongol-conquests-13th-century]]`.
+All quotes verbatim; taxonomy per CLAUDE.md. Integrated into Narrative/Causal sections with attribution. Prior content preserved.

@@ -9,7 +9,7 @@ affiliated_with: [[soviet-union|Soviet Union]], [[bolshevik-party|Bolshevik Part
 opposed_by: [[yeltsin-boris|Boris Yeltsin]] (politically), Communist Hardliners / August Coup leaders]
 key_events: [[chernobyl-disaster-1986|Chernobyl Disaster]], [[august-coup-1991|August Coup]], [[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]]
 key_processes: [[perestroika|Perestroika]], [[glasnost|Glasnost]], [[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]]
-sources_ingested: 3
+sources_ingested: 5
 last_updated: 2026-06-22
 tags: [actor, person, cold-war, contemporary, eastern-europe]
 ---
@@ -45,6 +45,10 @@ Counterfactual: If Gorbachev had not been General Secretary the decisions of sum
 
 ## Historiography
 Service stresses that Gorbachev had no grand plan; external pressures (Reagan's SDI), unpredictable events (Chernobyl) and his own personality were decisive. He began as buoyant optimist confident Soviet science could match the USA. The 19th Conference marked the shift of power base from party to state. Nationalism had been "the hatred that dared not speak its name"; glasnost and anti-corruption campaigns in the republics while granting press and assembly freedom were explosive. Gorbachev overestimated the attractiveness of his ideas and underestimated inter-ethnic enmities frozen by the dictatorship (lines 3139, 3202, 3260).
+
+From [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]] (Hopf, ll. 17507–17549): Gorbachev's 'new identity was enacted in ... foreign policy of new thinking. Having abandoned the identity of vanguard and centre of the world revolutionary movement, interests in NLMs in the developing world, and in Communist regimes in Eastern Europe and China were transformed.' 'East European allies lost institutional entrée into the Kremlin...' Gorbachev 'told the assembled leaders that it was time for them to act independently of Moscow.' '"it is time we stopped running fraternal parties like obkoms..."' 'If we have proclaimed freedom and democracy for ourselves, then how can we deny it to others?' 'the discourse shifted radically because of the marginalisation of the CCID, and the empowerment of a minority point of view...' (ll. 17507, 17513, 17537, 17539). taxonomy: produced by identity shift; contributed_to non-intervention and [[cold-war]] end; part_of [[perestroika]] foreign dimension. Added to Key Decisions (foreign policy) and Historiography.
+
+From [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]] (index, ll. 22001–27000): "Gorbachev’s interest in democracy 320–1" (ll. 24053); "democratic centralism, end of 328" (ll. ~24073); "Inter-Regional Group of Deputies, within Congress 328" (ll. ~24279). taxonomy: contributed_to [[perestroika]] political reforms and democratization; produced power base shifts from party. Updated Key Decisions and Biography.
 
 ## Counterfactual Significance
 A more cautious successor to Chernenko might have continued Andropov-style discipline without opening the floodgates of glasnost or political restructuring. The compound might have muddled through for another decade. Gorbachev's wager on the intelligentsia and society, combined with his personal dominance in initiating change, made the 1985–1991 transformation possible — and made the peaceful end of the Cold War and Eastern European communism possible as well. Without him the system would not have reformed itself out of existence so rapidly.

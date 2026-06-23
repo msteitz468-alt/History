@@ -7,8 +7,8 @@ period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Iron Age]
 controlled_by: [First Dynasty of Ur, Akkadian Empire, Third Dynasty of Ur, Babylonia]
 events_here: []
 processes_here: [[[urbanization]], [[trade-network-formation]], [[temple-economy]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: [place, mesopotamia, near-east, early-bronze-age]
 ---
 

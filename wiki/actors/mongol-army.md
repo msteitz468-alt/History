@@ -9,8 +9,8 @@ affiliated_with: [[[mongol-empire]], [[genghis-khan]], [[pastoral-nomadism]]]
 opposed_by: ["the Jin and Song", "the Khwarazmian Empire", [[mamluk-sultanate|the Mamluks]], "the Rus' and the Latin West"]
 key_events: [the conquests of Khwarazm/Jin/Song, the western campaign, the defeat at Ain Jalut 1260]
 key_processes: [[[mongol-conquests-13th-century]], [[pastoral-nomadism]]]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 5
+last_updated: 2026-06-22
 tags: [actor, military-force, high-middle-ages, late-middle-ages, steppe]
 ---
 
@@ -48,6 +48,8 @@ to **break up the old tribal formations**, distributing conquered and rival peop
 units that cut across clan loyalties and answered to commanders appointed by merit and
 loyalty — at once a military and a **political** instrument of unification. The system was
 not original (the Liao and earlier steppe powers used it) but the Mongols applied it with
+
+**Verification from *Secret History* (de Rachewiltz, ll. 16086–22035 indexes)**: "units of a thousand, 191, 192, 202..." "units of ten thousand, 104..." (ll. ~21224+); detailed guard org "nightguards... eighty... dayguards... seventy" (ll. ~20772+); "cmdrs. of a thousand... list of ninety-five" (ll. ~20026). part_of: decimal + keshig/guard system; enabled: merit-based command (concurrent_with nökör loyalty). Subjects "Guard, the... organization of, 191, 224, 226" (ll. ~20456). Updated with quotes and taxonomy.
 unmatched thoroughness.
 
 ## Size — and its limits
@@ -78,3 +80,20 @@ Yasa]]. Its limits — logistics and pasture — were as historically decisive a
 - [[pastoral-nomadism]] — the society that produced it; [[mongol-conquests-13th-century]] — its campaigns.
 - [[the-mongol-yasa]] — the decrees behind the "Yasa" myth; [[battle-of-ain-jalut-1260]] — the limit it met.
 - [[morgan-the-mongols]] — the source.
+
+**Claims from Secret History (de Rachewiltz, ll. 4001–7000)**:
+- Pre-proclamation decimal usage: allies field "two units of ten thousand" (ll. 4051); "one unit of ten thousand" (ll. 4071); coalition vs Chinggis "three units of ten thousand" (ll. 5256). `part_of: [[mongol-army]]` early decimal before full 1206 organization.
+- Qorči requests "leader of ten thousand" + privileges as reward for vision (ll. 4823–4839). `contributed_to` merit system.
+- Officer appointments post-qan making: "Činggis Qa’an ordered the younger brother of Bo’orču, Ögölei Čerbi, to carry a quiver, Qači’un Toqura’un to carry a quiver, and the two brothers ‡etei and Doqolqu Čerbi each to carry a quiver." Stewards and "far-flying shafts" / "near-flying arrows" (ll. 4957–5052); Sübe’etei’s rat/crow/felt-cover pledge of service (ll. 5053–5076). `produced: [[mongol-army]]` command structure and nökör integration; `preceded_by: [[genghis-khan]]` acclamation.
+- ‡elme, Bo’orču singled as foundational shadows: "When I had no friend but my shadow, Became my shadows" (ll. 5081–5087). `caused_by: nökör loyalty`.
+- ‡ebe integrated after confession: renamed "†ebe arrow" and "Keep by my side!" (ll. 6470–6474). 
+
+**Claims from Secret History (de Rachewiltz, ll. 7001–11000)**:
+- Elite "four hounds" (‡ebe, Qubilai, ‡elme, Sübe’etei): "feeding “four hounds” on human flesh, leashing them with iron chains... Their foreheads are of hardened copper, They have chisels for snouts, And awls for tongues; With hearts of iron, And swords for whips" (ll. 10223-10238) `part_of` vanguard/special forces.
+- Uru’ut/Mangqut: "They rush after men armed with spears And strip them of their blood-stained clothing; Chasing after men armed with swords, They fell and kill them" (ll. 10299-10305) `part_of` proven fighting units.
+- Battle array: "advance in ‘caragana’ marching-order, to stand in ‘lake’ battle-formation and fight a ‘chisel’ combat" (ll. 10171-10173) `part_of` coordinated tactics.
+- Naiman collapse: enemy "tumbling down from the height of Naqu Cliff, they piled on top of each other; they fell breaking their bones and died crushing each other till they were like heaps of rotten logs" (ll. 10465-10471) `produced` decisive victory.
+- Sübe’etei orders: long pursuit "If they grow wings and fly up into the sky, you, Sübe’etei, will you not fly up like a gerfalcon... making this a matter of law, whoever then transgresses it shall be seized and beaten... cut them down on the spot" (ll. 10776-10854); "do not allow the soldiers to fix the crupper to the saddle... let the horses go with their mouths free" and "hunt with moderation" (ll. 10840-10842) `produced` discipline code for expeditions `contributed_to` army sustainability.
+- Tribal dissolution: Merkit "distributed here and there down to the last one" after revolt (ll. 10756-10757) `contributed_to` decimal cross-clan structure. `preceded_by: [[mongol-conquests-13th-century]]` Naiman phase.
+- †asag decree enforces discipline on booty during campaign (ll. 6965–6995). Directly informs army admin (see [[the-mongol-yasa]]).
+All verbatim; precise CLAUDE.md taxonomy applied. Added to Decimal organization and Significance sections. Prior content preserved.

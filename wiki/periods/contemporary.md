@@ -7,7 +7,7 @@ date_range: 1991–present
 regions_covered: [global]
 major_themes: [globalization, the climate crisis, the East Asian ascent, post-Cold-War order, renewed mass migration, demographic deceleration, digital connection]
 collection_coverage: weak
-sources_ingested: 8
+sources_ingested: 11
 last_updated: 2026-06-22
 tags: [period]
 ---
@@ -40,6 +40,7 @@ of sending and receiving countries than the nineteenth-century waves; and a
 
 - **The post-Cold-War order:** the brief "unipolar moment," the spread of the
   national state to the former Soviet space (formalized in the **[[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]**), and the proliferation of conflicts along the seams of former multinational empires (the Balkans, the Caucasus). In the new **[[russian-federation|Russian Federation]]**, the decade was defined by **[[yeltsin-boris|Boris Yeltsin's]]** presidency, the painful transition of **[[economic-shock-therapy|Economic Shock Therapy]]**, the **[[russian-constitutional-crisis-1993|1993 Constitutional Crisis]]**, the **[[first-chechen-war-1994|First Chechen War]]**, and the **[[russian-financial-crisis-1998|1998 Financial Crisis]]**. Service details the terminal phase: the failed August 1991 coup (lines 3466–3484), Yeltsin's Belovezha Accords dissolving the USSR (8 Dec 1991, lines 3510–3514), price liberalization ("shock therapy") on 2 Jan 1992 causing 245% inflation in January alone (lines 3539, 3543), voucher privatization enabling nomenklatura managers and "oligarchs" (lines 3565, 3704), the violent 1993 storming of the White House (lines 3623), and the rise of Putin after 1999 (lines 3758–3775) who reasserted state control over business and regions while presiding over oil-driven recovery and the 2008 Georgia war.
+- From [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]] (Hopf ll. 17703): 'The Russian Federation understands itself today as a Great Power who can either join European Social Democratic civilisation as a counterweight to US liberal market hegemony, or bandwagon with that hegemony in order to pursue more narrow tactical considerations in defence of its own fissiparous periphery.' 'What is the Soviet Union? What is Russia? These are questions about a state’s identity.' (ll. 17703). taxonomy: followed_by post-1991 identity formation in [[contemporary]]. Added to Overview/Major Developments.
   - From Freeze (ed.) 2002 chronology: "1992 Gaidar introduces radical ‘shock therapy’ economic reforms (January)" (lines 18697–18699); "1993 ... Yeltsin dismisses parliament ... Yeltsin storms the Parliament building, with upward of 200 killed (3–4 October); ... national vote to approve constitution (57 per cent) ... (12 December)" (lines 18701–18709); "1996 ... Yeltsin winning 54 per cent of the vote against Ziuganov’s 40 per cent (3 July)" (lines 18727–18731); "1999 ... Vladimir Putin as prime minister (August); ... launches invasion of Chechnia (23 September); ... Yeltsin’s surprise resignation, the prime minister, Putin, becomes the acting president (31 December)" (lines 18747–18753); "2000 ... presidential election, with Putin obtaining 53 per cent of the vote (26 March)" (lines 18755–18761). See [[russian-federation|Russian Federation]], [[yeltsin-boris]], [[economic-shock-therapy]].
 - **Hyper-globalization:** tightly integrated markets, global supply chains, and
   the connectedness that Thomas Zeiler's (absent Book 2) chapter calls
@@ -107,6 +108,8 @@ From Freeze (2002, lines 11201–14900, esp. ch. 15): Yeltsin era (1991–1999) 
 2015 vantage that predates much of what now defines the period. Coverage is
 structural and thematic (energy, climate, demography, the East Asian ascent), with
 no event-level pages. It is now supplemented on its European side by
+
+From [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]] (Suny intro, lines 1579–1590): Gorbachev 'efforts... to restrain the power of the Communist Party, awaken public opinion and political participation through glasnost’, and allow greater freedom to the non-Russian peoples' seemed to confirm modernisation model but 'with the failure of the Gorbachev revolution this reading of Soviet history was bitterly attacked by the more conservative who harked back to more fatalistic interpretations – that the USSR was condemned by Russian political culture or its utopian drive for an anti-capitalist alternative to a dismal collapse.' 'The volume is not simply a history of the ethnically Russian part of the country but rather of the two great multinational states – tsarist and Soviet – as well as the post-Soviet republics.' 'Among the unifying themes of the volume are: the tensions between nations and empire in the evolution of the Russian and Soviet states...' 'For the historians... understanding the present and future of Russia, the Soviet Union and the non-Russian peoples can only come by exploring the experiences through which they have become what they are.' Post-1991 access 'portended the possibility of a neutral, balanced history' but 'old disputes proved to be tenacious'. Volume provides 'clear narratives as well as a variety of interpretations so that they may sort through the various controversies of the Soviet past.'
 **[[judt-postwar|Judt's *Postwar*]]** (to 2005), globally by [[westad-cold-war|Westad]]
 and [[roberts-westad-penguin-history-world|Roberts & Westad]], and by a rare post-2015
 interpretive vantage in **[[zielonka-lost-future|Zielonka's *The Lost Future*]]** (2023)
@@ -114,3 +117,5 @@ on democratic short-termism, climate and intergenerational justice; CWH VII **Bo
 remains absent**. This is still the wiki's thinnest and most recent period and a standing
 sourcing priority; confident narrative should not be written here beyond what the
 long-run structural sources support.
+
+From [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]] (index, ll. 22001–27000): "economic reform (from 1987) 321, 333–4, 404–5" (ll. ~24371); "500-day Plan (1990) 334–5, 405" (ll. ~24375); "August 1998 crisis 371–4" (ll. 24627); "Democratic Russia movement 330" (ll. ~24089). taxonomy: contributed_to perestroika failures and post-Soviet transition crises; followed_by in [[contemporary]] economy and opposition politics. Updated Major Developments.

@@ -5,8 +5,8 @@ origin: Coined by Timothy May in *The Mongol Conquests in World History* (2012),
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [steppe, central-asia, china, east-asia, iran-plateau, near-east, eastern-europe, silk-road]
 contested: no
-sources_ingested: 2
-last_updated: 2026-06-13
+sources_ingested: 5
+last_updated: 2026-06-22
 tags: [concept]
 ---
 
@@ -28,6 +28,8 @@ pre-modern and the modern ages."
 The Chinggis Exchange is *not* the simple claim that the Mongols caused everything
 afterward — May opens his book by satirizing the "Mongol mania" that would trace the
 Bolshevik Revolution, the Cold War, and even disco back to Chinggis Khan. The Exchange
+
+**Verification from *Secret History* (de Rachewiltz indexes + supplement, ll. 16086–22035)**: Post stations/levies as infrastructure of connectivity: "post-relay system... 279-81"; "levies... to support post-station system, 280" (subjects index ll. ~20586, 20636); Ögödei "had post stations set up so that our messengers could ride in haste" (ll. 17750-17756). enabled: [[pax-mongolica]] and thus the Chinggis Exchange (concurrent_with administrative reforms; part_of empire integration). Name index entries for trade routes, cities (e.g. "Buqar (pl.; Bukhara)", "Semisgen (pl.; ... Samarkand)") provide anchors for exchange nodes. Updated.
 is the set of transfers **directly linked to, or arising as a ramification of, Mongol
 activity**, in which the Mongols were typically *facilitators* (securing routes,
 moving populations, patronizing talent) rather than sole agents — "most of the Chinggis

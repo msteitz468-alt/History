@@ -8,7 +8,7 @@ region: [eastern-europe]
 process_type: cultural
 driven_by: [[gorbachev-mikhail|Mikhail Gorbachev]], the need to enlist the intelligentsia against conservative bureaucracy, and popular desire for freedom of expression]
 produces: the exposure of Stalinist crimes, environmental awareness (Chernobyl), public criticism of the regime, the rise of nationalist movements, and political pluralism]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-22
 tags: [process, cold-war, contemporary, eastern-europe]
 ---

@@ -9,7 +9,7 @@ affiliated_with: [[soviet-union|Soviet Union]], [[bolshevik-party|Bolshevik Part
 opposed_by: [[russian-empire|Russian Empire]], [[trotsky-leon|Leon Trotsky]] (initially), [[menshevik-party|Mensheviks]], Socialist Revolutionaries, [[white-movement|White Movement]]]
 key_events: [[russian-revolution-1917|October Revolution of 1917]], [[treaty-of-brest-litovsk-1918|Treaty of Brest-Litovsk]], [[war-communism|War Communism]], [[new-economic-policy|New Economic Policy]]]
 key_processes: [[war-communism|War Communism]], [[new-economic-policy|New Economic Policy]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [actor, person, world-wars-era, eastern-europe]
 ---
@@ -24,6 +24,8 @@ Born in Simbirsk to a family of mixed Jewish, German, Kalmyk and Russian element
 Lenin returned to Russia in 1905, showed tactical flexibility, and proposed a "provisional revolutionary democratic dictatorship of the proletariat and the peasantry" after tsarism’s overthrow, anticipating terror. After 1907 he resumed émigré polemics in Switzerland, losing support over his 1914 call for Russia’s military defeat. By 1917 he was 47, older and more experienced than most Central Committee colleagues.
 
 From Service (2009, lines 820–834): "Lenin was the fastest at adjusting to the change [of open politics after February]. ... His ability to rouse a crowd was such that adversaries recorded that he could make the hairs stand on the back of their necks with excitement." "The USSR would not have come into being without Lenin’s intolerant confidence."
+
+From [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]] (Suny lines 3011–3023): Intellectual differences between Lenin and Martov: 'Lenin also approached politics with passion, but his was a passion more of reason than of moral sensibility... Lenin repeatedly made it clear that he despised the political moralising so common to Russian socialism. For Lenin, the revolution was a matter of rationality and discipline not the romantic heroism of the struggle for justice.' In What Is To Be Done? 'left to themselves workers were unable to see beyond the economic struggle... it was necessary to create a party... of full-time revolutionaries to direct the mass movement, who embodied the full consciousness that the masses lacked and were obedient to party discipline.' (Steinberg lines 3027–3033). Smith (lines 4165–4167): Lenin 'blitzed the Central Committee with demands... “History will not forgive us if we do not assume power now.”' On peace: fought hard for Brest-Litovsk despite schism; 'bought peace with the surrender of the western borderlands to the enemy and was not forgiven for many years by patriotic Bolsheviks' (von Hagen lines 3635–3636).
 
 ## Role in 1917 and October Revolution
 

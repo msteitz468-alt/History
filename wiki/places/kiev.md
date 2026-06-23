@@ -52,6 +52,8 @@ Strategic on Dnieper ("way from the Varangians to the Greeks"); political capita
 - 988: Post-Kherson return and Christianisation (see [[conversion-of-vladimir-988]]).
 - Later: treaties, assemblies.
 
+**From Cambridge History of Russia Vol. I range 11001-15000:** Frontier crossing point for First False Dmitrii 1604 ("crossed the Russian frontier near Kiev"); later Polish claims, Pereiaslav 1654, Andrusovo temporary control to Moscow 1667, Eternal Peace 1686. "In the autumn of 1604 the pretender crossed the Russian frontier near Kiev with a small army of Polish troops and cossacks." "They also left Muscovy in temporary control of Kiev, having agreed to postpone final resolution of the Kiev question..." (lines 11003-11005, 13949-13950) `part_of:` [[time-of-troubles-1598]] invasion start; [[treaty-of-andrusovo-1667]] negotiations.
+
 **Sources:** Primary Chronicle Laurentian (Cross trans., ll. 3000–6000 range) for foundational narrative. 
 
 `controlled_by:` [[kievan-rus|Kievan Rus']], later powers. `events_here:` listed above. `processes_here:` Christianisation of Rus′, Varangian river trade.
