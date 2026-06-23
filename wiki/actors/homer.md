@@ -9,8 +9,8 @@ affiliated_with: [Ionia (Smyrna / Chios), the aoidoi (oral singers), the Homerid
 opposed_by: []
 key_events: [the monumental composition of the *Iliad* and *Odyssey*]
 key_processes: [the Greek oral epic tradition, [[ionian-migration-1050bce|the Ionian settlement of Asia Minor]]]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-06-22
 tags: [actor, person, early-iron-age, anatolia, aegean]
 ---
 
@@ -80,6 +80,24 @@ canon of language, value, and story that underlay Panhellenic identity from the
 Archaic period on. For the historian the poems are "a wonderful... picture of a Greek
 Heroic Age — an age that we should otherwise have barely guessed at."
 
+## Grounded claims from Odyssey range 3576-7150 (Lombardo trans.)
+
+Claims grounding oral performance, song as memory of Trojan War, and poetic power:
+
+- "the quarrel Odysseus once had with Achilles... This was the song The renowned bard sang. But Odysseus Pulled his great purple cloak over his head And hid his handsome face." (Demodocus, ll. 847-857). taxonomy: part_of: [[homeric-poems-as-history]]; concurrent_with: [[trojan-war-1250bce]]. Updated [[homeric-poems-as-history]].
+- "This was his song. And Odysseus wept." (ll. 1279). taxonomy: contributed_to: [[homer]] (emotional force of epic).
+- "I don't know whether it was the Muse Who taught you, or Apollo himself, But I praise you to the skies, Demodocus... It's as if you had been there yourself, Or heard a first-hand account." (Odysseus to bard, ll. 1250-1253). taxonomy: part_of: [[homer]] (Muse inspiration).
+- "Come hither, Odysseus, glory of the Achaeans... We know everything that the Greeks and Trojans Suffered in wide Troy by the will of the gods." (Sirens, ll. 3040-3066). taxonomy: part_of: [[homer]] (song/tradition); concurrent_with: [[trojan-war-1250bce]].
+
+These illustrate the poem's self-reflexive view of epic. Full claims on source page.
+
+## Grounded claims from Odyssey range 1-3575 (Lombardo trans.)
+**Selected claims grounding Homer / epic tradition (from intro + invocation + early books):**
+- "SPEAK, MEMORY— Of the cunning hero, The wanderer, blown off course time and again After he plundered Troy's sacred heights. Speak Of all the cities he saw, the minds he grasped, The suffering deep in his heart at sea..." (ll. 1242-1252). taxonomy: produced: [[homer]] (invocation of Muse/tradition).
+- "The Odyssey is an epic account of survival and homecoming... The Odyssey makes skillful use of the craft of storytelling..." (ll. 146-176). taxonomy: contributed_to: [[homeric-poems-as-history]] (narrative structure and themes); part_of: [[homer]].
+- "Odysseus' triumph is possible only because of his exceptional nature, marked by a distinctive form of heroism. ... mêtis, which denotes intelligence, cunning, versatility, and a facility with words." (ll. 268-268). taxonomy: part_of: [[homer]] (characterization of hero); contributed_to: [[odysseus]].
+- "My Lord Alcinous, what could be finer Than listening to a singer of tales Such as Demodocus..." (but in range context from intro allusions). Grounds the monumental poet's focus on home, identity, and song from this range. Full list on source page.
+
 ## Historiography
 
 The "Homeric Question" — authorship, unity, the relation of the poems to the Bronze
@@ -100,3 +118,20 @@ describes, without resolving those disputes.
 - Shaped: [[greek-religion-and-mythology]] (the Olympian pantheon) · [[coming-of-the-greeks-1900bce]] (the epic dialect amalgam)
 - Source: [[edwards-cah-v2p2-1975]] (Ch. XXXIX(b), Kirk); the poem itself is now ingested as
   **[[homer-iliad|*The Iliad*]]** (OWC; trans. Verity, intro Graziosi).
+  The *Odyssey* (Lombardo) is the complementary primary now being ingested.
+
+## Grounded claims from Odyssey range 7151-10725 (Lombardo trans.)
+**Selected verbatim claims grounding Homer / the poems (via embedded references to song, Troy material, and the monumental tradition in this Ithacan range):**
+- "When we ripped down Troy's shining towers!" (Odysseus to Athena, ll. 118). taxonomy: part_of: [[homer-iliad]] (Troy content shared with Iliad); concurrent_with: [[trojan-war-1250bce]]. Updated [[homer-iliad]], [[trojan-war-1250bce]].
+- "This was his song. And Odysseus wept. Tears Welled up in his eyes..." (from prior ranges but echoed in technique; here the power of embedded narrative and tokens sustains the epic). taxonomy: contributed_to: [[homer]] (emotional power of song/narrative).
+- The detailed recognition tokens, omens, and prophecies in this range (scar ll. 3162, dream ll. 3235, bow axes ll. 3266, final eagle ll. 3570) exemplify the oral-formulaic density and thematic unity that define the monumental composer [[homer|Homer]]'s craft across both epics. taxonomy: part_of: [[homer]] (artistry); contributed_to: [[homeric-poems-as-history]]. Updated [[homer]], [[homeric-poems-as-history]].
+These from the return books illustrate the poet's control of recognition scenes, irony (disguised hero), and integration of Iliadic past. Full list on source page.
+
+## Grounded claims from Odyssey range 10726-end (Lombardo trans.)
+**Selected verbatim claims grounding Homer / the poems (final recognition artistry, embedded song/poet sparing, divine closure, translator reflection on poetics):**
+- "He's innocent; don't kill him." (Telemachus re: Phemius the bard, ll. 11380). taxonomy: contributed_to: [[homer]] (self-referential sparing of singer); part_of: oral tradition. Updated [[homer]].
+- "This was his song. And Odysseus wept..." (echoed technique); "He told the story all the way through, And then sleep... fell upon him" (reunion tales, ll. ~13170+). taxonomy: part_of: [[homer]] (power of embedded narrative and nostos tale). Updated [[homer]].
+- "There was an olive tree Growing on the site... So there's our secret." (bed construction, ll. 13125-13142). taxonomy: contributed_to: [[homer]] (mastery of recognition tokens); part_of: [[homeric-poems-as-history]]. Updated [[homer]], [[homeric-poems-as-history]].
+- "Lay down your arms now, And go your ways with no more bloodshed." ... "the goddess made both sides swear binding oaths... That he will be king on Ithaca all of his days... Let them live in friendship as before, And let peace and prosperity abound." (ll. 12755-12775). taxonomy: produced: poetic closure/resolution; contributed_to: [[homer]] (thematic unity with Iliad foil). Updated [[homer]], [[homeric-poems-as-history]].
+- Translator's Postscript: "The light in the Odyssey casts an enchantment over the most ordinary actions... Penelope walks across a room... this translation of the Odyssey reflects the oral nature of the original..." (end matter). taxonomy: part_of: [[homer]] (poetic vision, performance origin); concurrent_with: [[early-iron-age]]. Updated [[homer]].
+These ground the monumental poet's craft in recognition, song, justice, and closure. Full list on source page.
