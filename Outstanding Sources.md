@@ -24,7 +24,7 @@ Acquisition flags (unchanged): `[BUY]` `[LIBRARY]` `[OUT OF PRINT]` `[NO TRANSLA
 What the cross-check reveals as the **biggest remaining holes** (see ranked detail in the relevant gaps):
 
 1. **Russia & Eastern Europe (Gap 8) — substantially filled.** Riasanovsky's *A History of Russia* (6th ed., 2000) has been ingested, providing the core narrative spine. Other specific sources remain target acquisitions.
-2. **World-Systems & Transregional (Gap 10) — substantially filled.** Abu-Lughod, Hansen, Crosby, and Harper ingested (polycentric systems, Silk Road, Columbian Exchange, and climate-disease dynamics); Diamond still missing.
+2. **World-Systems & Transregional (Gap 10) — substantially filled.** Abu-Lughod, Hansen, Crosby, Harper, and Diamond all ingested (polycentric systems, Silk Road, Columbian Exchange, climate-disease dynamics, and geographic/ultimate causes).
 3. **Islamic intellectual history (Gap 4b, new) — entirely unfilled.** Politics covered; theology, law, philosophy, science, Sufism absent.
 4. **Core ancient primary sources (Gap 9) — mostly missing.** Gilgamesh, Hammurabi, the Muqaddimah, Odyssey, Aeneid, Secret History of the Mongols.
 5. **China backbone depth (Gap 6) — covered but shallow.** The imperial spine rests on a single light-touch survey read; specialist depth (e.g. Huang's *1587*) still wanted.
@@ -157,7 +157,7 @@ philosophy (*falsafa*), science, and mysticism (*Sufism*) are absent. Priority l
 | *The Muqaddimah* — Ibn Khaldun (Rosenthal trans.) | `[BUY]` | ✅ | ingested (`ibn-khaldun-muqaddimah`) — primary; 23 pages; also key for the historiography hub (see Gap 9) |
 | *The Incoherence of the Philosophers* — al-Ghazali ↔ *The Incoherence of the Incoherence* — Ibn Rushd | `[BUY]` | ✅ | BOTH ingested (`ghazali-incoherence-of-philosophers` + `ibn-rushd-incoherence-of-incoherence`); the falsafa/kalam debate, tied together by the `philosophy-versus-theology-in-islam` controversy page |
 | *Hayy ibn Yaqzan* — Ibn Tufayl | `[BUY]` | ✅ | ingested (`ibn-tufayl-hayy-ibn-yaqzan`, 11 pages); primary; philosophical novel |
-| *Encyclopaedia of Islam* (Brill) | `[LIBRARY]` | ❌ | authoritative reference for gap-filling |
+| *Encyclopaedia of Islam* (Brill) | `[LIBRARY]` | ❌ | authoritative reference for gap-filling. NB: the companion **Index of Subjects** (Bearman, 1996) is now ingested as a finding-aid source page (`encyclopaedia-of-islam-index-subjects-1996`); the encyclopaedia *proper* is still outstanding |
 
 ---
 

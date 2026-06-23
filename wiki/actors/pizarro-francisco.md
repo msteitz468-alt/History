@@ -67,3 +67,4 @@ he did not cause.
 - [[inca-empire]] — the state he overthrew.
 - [[colonial-latin-america]] — the world his conquest opened.
 - [[black-legend]] — the controversy over the conquerors' cruelty.
+- [[collision-at-cajamarca-1532]] — the 1532 ambush that captured Atahuallpa, Diamond's emblem of [[guns-germs-and-steel|guns, germs, and steel]].

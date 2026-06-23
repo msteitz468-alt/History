@@ -147,3 +147,5 @@ belongs to the [[black-legend|Black Legend]] debate.
 - [[inca-empire]] — the conquered state, with the fuller dynastic background.
 - [[columbian-exchange-1492]] — the epidemic context.
 - [[black-legend]] — the controversy over conquest violence.
+- [[collision-at-cajamarca-1532]] — the opening ambush and capture of Atahuallpa, treated in detail.
+- [[guns-germs-and-steel]] · [[geographic-determinism]] — Diamond's reading of why the proximate odds favoured the Spanish.

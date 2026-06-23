@@ -318,4 +318,8 @@ Range 3 contribution (2026-06-22). Strict range-only (end matter only).
   Quote: [cross-ref to 1986 work's preface/prologue/conclusion: "the Europeans’ displacement and replacement of the native peoples in the temperate zones was more a matter of biology than of military conquest"; "portmanteau biota"; Neo-Europes as "Britain’s off-shore farm" writ large; 50M+ 19th-c. migration; 30%+ of world ag exports from US/Canada/Argentina/Uruguay/Australia/NZ in 1982].
   Location: See [[crosby-ecological-imperialism-1986]] (ingested 2026-06-22)
   Target pages: [[crosby-columbian-exchange-1972]], [[crosby-ecological-imperialism-1986]], [[columbian-exchange-1492]], [[neo-europes]]
+
+## Relation to Diamond's *Guns, Germs, and Steel*
+
+Crosby (1972) named and documented the *proximate* biological exchange — the crops, animals, and above all the [[virgin-soil-epidemics|virgin-soil epidemics]] that depopulated the Americas. [[diamond-guns-germs-and-steel-1997|Diamond (1997)]] supplies the *ultimate* causal layer beneath it: most lethal Old World crowd diseases descended from herd animals that Eurasia possessed and the Americas lacked, an inequality rooted in [[geographic-determinism|geography]] and the [[continental-axes|orientation of the continents]]. The two works are standard companions; see [[guns-germs-and-steel]] and [[collision-at-cajamarca-1532]].
   Link type: followed_by: / part_of:

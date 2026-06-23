@@ -6,11 +6,12 @@ date_precision: exact
 period: [early-modern]
 region: [andes, western-europe, atlantic-world]
 location: Cajamarca, Peru
-actors_primary: [francisco-pizarro, atahuallpa, inca-empire, spanish-conquistadors]
-actors_secondary: [hernando-pizarro, diego-de-almagro, huascar (rival Inca claimant), spanish crown]
+actors_primary: ["[[pizarro-francisco|Francisco Pizarro]]", "Atahuallpa", "[[inca-empire|the Inca Empire]]", "the Spanish conquistadors"]
+actors_secondary: ["Hernando Pizarro", "Diego de Almagro", "Huáscar (rival Inca claimant)", "the Spanish crown"]
 event_type: battle / conquest / political
 scale_immediate: regional
 scale_consequential: hemispheric
+part_of: [[spanish-conquest-of-peru-1532]]
 causes: ["superior Spanish steel weapons, armor, and cavalry", "Inca political disarray from recent civil war and epidemic (likely smallpox) that killed Huayna Capac", "Atahuallpa's overconfidence and underestimation of the small Spanish force", "Spanish use of surprise, horses for shock, and firearms/cannons", "broader Eurasian advantages in germs, writing, political organization, and technology stemming from earlier food production and geography"]
 consequences: ["capture and eventual execution of Atahuallpa", "rapid Spanish control of the Inca capital Cuzco and core empire", "collapse of the largest Native American state", "acceleration of European conquest of the Andes and broader Americas", "massive transfer of silver and wealth to Europe via the Potosí and other mines", "demographic catastrophe among Andean populations from disease and exploitation"]
 sources_ingested: 1
@@ -20,7 +21,7 @@ tags: [event, early-modern, andes, columbian-exchange, geographic-determinism]
 
 # Collision at Cajamarca (16 November 1532)
 
-On 16 November 1532, Francisco Pizarro and a tiny force of roughly 168 Spaniards (including 62 horsemen) captured the Inca emperor Atahuallpa in the presence of his army of thousands at the highland Peruvian town of Cajamarca. The event is one of the most dramatic and symbolically charged moments in world history — a microcosm of the collision between Eurasian and Native American societies after 1492.
+On 16 November 1532, [[pizarro-francisco|Francisco Pizarro]] and a tiny force of roughly 168 Spaniards (including 62 horsemen) captured the Inca emperor Atahuallpa in the presence of his army of thousands at the highland Peruvian town of Cajamarca. It was the opening and decisive blow of the [[spanish-conquest-of-peru-1532|Spanish conquest of Peru]], and [[diamond-guns-germs-and-steel-1997|Jared Diamond]] uses it as the framing case for [[guns-germs-and-steel|the entire "guns, germs, and steel" thesis]] — a microcosm of the collision between Eurasian and Native American societies after 1492.
 
 Atahuallpa had just won a civil war against his half-brother Huascar and was at the height of his power as absolute ruler of the largest empire in the pre-Columbian Americas. Pizarro’s band had marched inland from the coast, exploiting the empire’s recent trauma (an epidemic, probably smallpox, that had already killed the previous emperor Huayna Capac and many others, triggering the succession crisis).
 
@@ -55,10 +56,17 @@ Diamond uses Cajamarca in Chapter 3 as the vivid hook for the entire book: the o
 
 ## Actors
 
-- **Francisco Pizarro**: Leader of the expedition; combined audacity, ruthlessness, and exploitation of local conditions.
+- **[[pizarro-francisco|Francisco Pizarro]]**: Leader of the expedition; combined audacity, ruthlessness, and exploitation of local conditions.
 - **Atahuallpa**: Last independent Inca emperor; victor in the civil war but fatally miscalculated the Spanish threat.
-- **Inca Empire**: Largest and most administratively sophisticated Native American state; built on earlier Andean traditions but vulnerable to the combination of disease, civil war, and the specific technologies the Spaniards brought.
+- **[[inca-empire|Inca Empire]]**: Largest and most administratively sophisticated Native American state; built on earlier Andean traditions but vulnerable to the combination of disease, civil war, and the specific technologies the Spaniards brought.
 - Broader Spanish forces and the Spanish crown (institutional and logistical backing).
+
+## Related
+
+- Part of: [[spanish-conquest-of-peru-1532|The Spanish Conquest of Peru (1532–1533)]] · analogous: [[spanish-conquest-of-mexico-1519|Conquest of Mexico (1519)]]
+- Framework: [[guns-germs-and-steel]] · [[continental-axes]] · [[geographic-determinism]]
+- Biological mechanism: [[virgin-soil-epidemics]] · [[columbian-exchange-1492]]
+- Actors: [[pizarro-francisco]] · [[inca-empire]]
 
 ## Historiography
 

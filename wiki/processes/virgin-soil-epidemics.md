@@ -100,7 +100,10 @@ more reliable figures debated at [[pre-columbian-american-population]].
 
 [[columbian-exchange-1492]] · [[pre-columbian-american-population]] · [[holmbergs-mistake]] ·
 [[pristine-myth]] · [[pre-columbian-americas]] · [[inca-empire]] · [[aztec-empire]] · [[mann-1491-2005]] ·
-[[colonial-latin-america]] · [[encomienda]] · [[burkholder-johnson-colonial-latin-america]]
+[[colonial-latin-america]] · [[encomienda]] · [[burkholder-johnson-colonial-latin-america]] ·
+[[guns-germs-and-steel]] · [[collision-at-cajamarca-1532]]
+
+**Why the asymmetry ran one way.** [[diamond-guns-germs-and-steel-1997|Diamond]] supplies the ultimate cause behind virgin-soil mortality: most lethal Old World crowd diseases (smallpox, measles, influenza, tuberculosis) evolved from pathogens of domesticated herd animals, of which Eurasia had thirteen and the Americas effectively one. Dense, livestock-keeping, trade-linked Eurasian populations bred and survived these germs; isolated American populations, lacking comparable domesticates, had neither the diseases nor the acquired immunity — so the epidemiological exchange was overwhelmingly unidirectional. See [[guns-germs-and-steel]].
 
 ## Continuation of Virgin-Soil Effects (Crosby)
 

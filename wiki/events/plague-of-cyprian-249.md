@@ -45,7 +45,7 @@ Unlike the Antonine Plague (which is widely identified as smallpox), the biologi
 
 *   **`contributed_to:` [[controversies/fall-of-rome-causes|Military and Fiscal Collapse]]**: The extreme loss of life severely depleted the pool of eligible recruits for the Roman army just as the empire faced Gothic invasions (e.g. Cniva's victory at Abritus in 251 CE) and Persian attacks under Shapur I. The resulting labor shortage forced the hyper-debasement of the silver currency (the *antoninianus*) to pay remaining troops (Harper 2017, line 1864).
 *   **`enabled:` [[actors/cyprian|Christianization of the Empire]]**: The failure of traditional pagan civic cults to stop the mortality led to their decay. Conversely, the public charity organized by Christians—caring for the sick and burying the dead regardless of status—won massive numbers of converts, transforming Christianity into a mass movement (Harper 2017, line 1928).
-*   **`preceded_by:` [[concepts/environmental-history-middle-millennium|Late Roman Transition Cooling]]**: The plague struck during a phase of climate disorganization (c. 150–450 CE) initiated by solar decline and volcanic cooling, which triggered widespread droughts in North Africa and a severe failure of the Nile floods in Egypt (Harper 2017, line 1689).
+*   **`preceded_by:` [[concepts/roman-climate-optimum|Late Roman Transition Cooling]]**: The plague struck during a phase of climate disorganization (c. 150–450 CE) initiated by solar decline and volcanic cooling, which triggered widespread droughts in North Africa and a severe failure of the Nile floods in Egypt (Harper 2017, line 1689).
 
 ---
 
@@ -53,5 +53,5 @@ Unlike the Antonine Plague (which is widely identified as smallpox), the biologi
 
 *   **Actors:** [[actors/roman-empire]] · [[actors/cyprian]] · [[actors/germanic-peoples]]
 *   **Places:** [[places/rome]] · [[places/carthage]] · [[places/alexandria]]
-*   **Concepts:** [[concepts/environmental-history-middle-millennium]] · [[controversies/fall-of-rome-causes]]
+*   **Concepts:** [[concepts/roman-climate-optimum]] · [[controversies/fall-of-rome-causes]]
 *   **Sources:** [[sources/harper-fate-of-rome-2017]]

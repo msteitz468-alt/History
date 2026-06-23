@@ -101,7 +101,8 @@ Crosby’s book named and framed the phenomenon. In the 2003 Preface he reflects
 
 - Primary source grounding: [[crosby-columbian-exchange-1972]] (Ch. 1 contrasts and Ch. 2 pandemic detail)
 - Closely related: [[virgin-soil-epidemics]], [[pre-columbian-american-population]], [[atlantic-slave-trade]], [[early-modern]], [[age-of-expansion]], [[atlantic-world]]
-- Updated conquest anchors: [[spanish-conquest-of-mexico-1519]], [[spanish-conquest-of-peru-1532]]
+- Updated conquest anchors: [[spanish-conquest-of-mexico-1519]], [[spanish-conquest-of-peru-1532]], [[collision-at-cajamarca-1532]]
 - Updated actors: [[aztec-empire]], [[inca-empire]]
+- Ultimate cause behind the disease asymmetry: [[diamond-guns-germs-and-steel-1997|Diamond]]'s [[guns-germs-and-steel|guns, germs, and steel]] thesis — Old World crowd diseases evolved from herd animals Eurasia had and the Americas lacked (see [[geographic-determinism]]). Diamond treats Crosby's biological mechanisms as the proximate downstream of his geographic ultimate causes.
 
 This page serves as the anchor for the biological and demographic dimension of the early modern Atlantic world.

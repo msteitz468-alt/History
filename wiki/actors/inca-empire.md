@@ -162,3 +162,4 @@ which only royal authority (Pedro de la Gasca) finally ended. The aftermath: the
 - [[aztec-empire]] — the contemporaneous Mesoamerican empire (the volume's other American case).
 - [[columbian-exchange-1492]] — the disease catastrophe that enabled the conquest.
 - [[proto-globalization]] — the "worlds together / worlds apart" frame (Olstein, Ch 25).
+- [[collision-at-cajamarca-1532]] — the capture of Atahuallpa; [[geographic-determinism|Diamond's]] structural reading of the asymmetry.

@@ -7,8 +7,8 @@ period_coverage: [behavioral-modernity, neolithic, chalcolithic, early-bronze-ag
 region_coverage: [eurasia, near-east, east-asia, china, western-europe, north-america, mesoamerica, andes, amazonia, sub-saharan-africa, australia, new-guinea, polynesia, atlantic-world]
 methodological_approach: comparative biogeography, archaeology, anthropology, and history; distinction between ultimate causes (geography, domestication, diffusion) and proximate causes (guns, germs, steel, writing, political organization); use of "natural experiments" (Polynesian islands, hemisphere collisions) to test hypotheses
 reliability_notes: Influential and widely read synthesis arguing that continental differences in environment (available domesticable species, axes/orientation affecting diffusion, area and population size) explain divergent historical trajectories and the rise of Eurasian (and derived) dominance, rather than racial or innate cultural superiority. Draws on archaeology, genetics, linguistics, epidemiology, and history. Criticized for environmental/geographic determinism, underplaying culture, contingency, and individual agency (see geographic determinism controversy). 1997 original; 2003 Afterword updates. Complements and is complemented by Crosby's *Columbian Exchange* and *Ecological Imperialism* on proximate biological mechanisms.
-pages_created: 0
-pages_updated: 0
+pages_created: 5
+pages_updated: 11
 ingested: 2026-06-22
 last_updated: 2026-06-22
 tags: [source, neolithic, early-modern, geographic-determinism, eurasia, americas, africa, australia, columbian-exchange]
@@ -68,7 +68,7 @@ Subagents must link exclusively to these established pages (or pages explicitly 
 - [[neo-europes]]
 - [[portmanteau-biota]]
 - [[early-bronze-age]], [[neolithic]], [[behavioral-modernity]], and other relevant periods
-- [[eurasia]], [[near-east]], [[east-asia]], [[north-america]], [[mesoamerica]], [[andes]], [[sub-saharan-africa]], [[australia]], [[new-guinea]], [[polynesia]]
+- Eurasia, [[near-east]], [[east-asia]], [[north-america]], [[mesoamerica]], [[andes]], [[sub-saharan-africa]], [[australia]], [[melanesia|New Guinea]], [[polynesia]]
 - [[atlantic-world]]
 - [[imperialism]]
 - [[agricultural-origins]], existing food-production related processes
@@ -153,13 +153,13 @@ All claims consolidated and deduplicated from the three subagent ranges (strict 
 - Claim: Polynesia (and the Moriori vs. Maori divergence on the Chathams vs. North Island New Zealand) serves as a natural experiment: common ancestral society <1,000 years earlier produced hunter-gatherer bands in cold marginal islands vs. dense agricultural chiefdoms in fertile ones purely due to environment.
   Quote: "both groups had diverged from a common origin less than a millennium earlier... The Moriori reverted to being hunter-gatherers, while the North Island Maori turned to more intensive farming."
   Location: Ch 2
-  Target pages: [[new-guinea]], [[australia]], [[geographic-determinism]]
+  Target pages: [[melanesia|New Guinea]], [[australia]], [[geographic-determinism]]
   Link type: analogous_to:
 
 - Claim: Austronesian expansion (from Taiwan/South China ~3000+ BCE) carried a maritime Neolithic package (outrigger canoes, pigs/dogs, taro/bananas/rice) across half the globe to Madagascar and Easter Island; success varied with whether resident populations already practiced food production (limited impact in New Guinea; replacement in Indonesia/Philippines).
   Quote: "the Austronesian expansion... was among the biggest population movements of the last 6,000 years... variable outcomes... strikingly illustrate the role of food production in human population movements."
   Location: Ch 17
-  Target pages: [[new-guinea]], [[east-asia]], [[neolithic]]
+  Target pages: [[melanesia|New Guinea]], [[east-asia]], [[neolithic]]
   Link type: produced:
 
 - Claim: Bantu expansion from Cameroon/Nigeria homeland carried iron + crops across most of subequatorial Africa, engulfing or replacing Pygmy and Khoisan groups (linguistic and genetic legacies remain); Africa’s north-south axis and barriers slowed overall development compared with Eurasia.

@@ -5,8 +5,8 @@ origin: Synthesized for The Cambridge World History Vol. V (2015) by Joachim Rad
 applies_to_periods: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 applies_to_regions: []
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: [concept]
 ---
 
@@ -60,7 +60,7 @@ Radkau identifies several long cycles rather than one master narrative:
   anti-avalanche rules); the origins of "sustainable forestry" (von Carlowitz 1713,
   pre-modern Japan) read critically as elite resource control, not innocent
   conservation.
-- **The epidemiological–demographic cycle** — the [[plague-of-justinian|Plague of
+- **The epidemiological–demographic cycle** — the [[justinianic-plague-541|Plague of
   Justinian]] (541–750) marking, for some, "the definitive end of antiquity" and
   weakening Byzantium before the Arab conquests; the [[black-death|Black Death]]
   (climax c. 1350); and the gradual build-up of immunities that let population settle
@@ -69,9 +69,14 @@ Radkau identifies several long cycles rather than one master narrative:
 
 ## The Climate Question
 
-The period spans the **Medieval Climate Optimum** (warm) and the onset of the
-**Little Ice Age** (cooling from c. 1300, sharply visible only from the sixteenth
-century). Radkau is cautious: pre-modern sources record *weather*, not *climate*;
+The millennium opens in the cold trough of the **Late Antique Little Ice Age** (LALIA,
+c. 536–660) — the volcanic-and-solar cooling that, in Kyle Harper's reading, combined with
+the [[justinianic-plague-541|Justinianic Plague]] to close antiquity; for the full Roman-era
+climate sequence (Roman Climate Optimum → Late Roman Transition → LALIA) see the dedicated
+[[roman-climate-optimum|Roman climate and disease regime]] page. The period then spans the
+**Medieval Climate Optimum** (warm) and the onset of the **Little Ice Age** (cooling from
+c. 1300, sharply visible only from the sixteenth century). Radkau is cautious: pre-modern
+sources record *weather*, not *climate*;
 regional variation was huge (Ellenblum: the European warm period coincided with
 cold, drought, and famine in the eastern Mediterranean). He warns against
 "how-climate-made-history" determinism while granting climate a real role.
@@ -91,6 +96,7 @@ mill, the heavy plough).
 ## Related
 
 - [[societal-collapse-and-environmental-determinism]] — the major controversy this chapter frames.
-- [[black-death]], [[plague-of-justinian]] — the epidemiological cycle.
+- [[roman-climate-optimum]] — the adjacent Roman-era climate/disease framework (c. 200 BCE–660 CE) that this page overlaps at its LALIA opening; see [[sources/harper-fate-of-rome-2017|Harper 2017]].
+- [[black-death]], [[justinianic-plague-541|Plague of Justinian]] — the epidemiological cycle.
 - [[pastoral-nomadism]] — the nomadic realm.
 - [[technology-and-innovation]] — the material drivers of environmental change.

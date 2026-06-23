@@ -169,6 +169,20 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `war-communism.md` | War Communism | World Wars Era | eastern-europe |
 | `westernization-of-russia.md` | Westernization of Russia | Early Modern, Age of Expansion | eastern-europe |
 | `plague-of-cyprian-249.md` | The Plague of Cyprian | 249–262 CE | mediterranean, north-africa | (created from Harper; third-century pandemic contributing to military/fiscal crisis and Christianization) |
+| `collision-at-cajamarca-1532.md` | Collision at Cajamarca | 1532 | andes, atlantic-world | (created from Diamond; capture of Atahuallpa, part of the Spanish conquest of Peru; emblem of the guns/germs/steel thesis) |
+| `persian-conquest-of-egypt-525bce.md` | The Persian Conquest of Egypt | 525 BCE | north-africa, near-east |
+| `claudian-conquest-of-britain-43ce.md` | The Claudian Conquest of Britain | 43 CE | british-isles, western-europe |
+| `umayyad-conquest-of-hispania-711.md` | The Umayyad Conquest of Hispania | 711–716 CE | iberia, north-africa |
+| `carolingian-conquest-of-lombard-italy-774.md` | The Carolingian Conquest of the Lombard Kingdom | 773–774 | western-europe, mediterranean |
+| `muslim-conquest-of-sicily-827.md` | The Muslim Conquest of Sicily | 827–902 | mediterranean |
+| `conquest-of-bulgaria-1018.md` | The Byzantine Conquest of Bulgaria | 1014–1018 | balkans |
+| `norman-conquest-of-southern-italy.md` | The Norman Conquest of Southern Italy and Sicily | c. 1016–1091 | mediterranean |
+| `norman-conquest-of-england-1066.md` | The Norman Conquest of England | 1066–1071 | british-isles, western-europe |
+| `mongol-conquests-13th-century.md` | The Mongol Conquests | 1206–1279 | steppe, central-asia, china, eurasia |
+| `columbian-exchange-1492.md` | 1492 and the Columbian Exchange | 1492–ongoing | atlantic-world |
+| `spanish-conquest-of-mexico-1519.md` | The Spanish Conquest of Mexico | 1519–1521 | mesoamerica |
+| `spanish-conquest-of-peru-1532.md` | The Spanish Conquest of Peru | 1532–1533 | andes |
+| `cromwellian-conquest-of-ireland.md` | Cromwellian Conquest and Settlement of Ireland | 1649–1660 | british-isles |
 
 ---
 
@@ -249,6 +263,8 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `yaroslav-the-wise.md` | Yaroslav the Wise | person | High Middle Ages |
 | `yeltsin-boris.md` | Boris Yeltsin | person | Cold War, Contemporary |
 | `cyprian.md` | Cyprian | person | Late Antiquity | (bishop of Carthage; witness to the third-century pandemic) |
+| `galen.md` | Galen | person | Classical Antiquity | (physician of Pergamum; eyewitness to the Antonine Plague) |
+| `procopius.md` | Procopius | person | Late Antiquity | (historian of Justinian; star witness to the Justinianic Plague) |
 
 ---
 
@@ -282,6 +298,8 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `sarai.md` | Sarai | city | Selitrennoye, Astrakhan Oblast, Russia (Old Sarai) |
 | `tushino.md` | Tushino | other | Tushino District, Moscow, Russia |
 | `vladimir.md` | Vladimir | city | Vladimir, Vladimir Oblast, Russia |
+| `constantinople.md` | Constantinople | city | Istanbul, Türkiye |
+| `carthage.md` | Carthage | city | Tunis, Tunisia |
 
 ---
 
@@ -335,6 +353,10 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `socialist-realism.md` | Socialist Realism | cultural |
 | `westernizers.md` | The Westernizers | ideological |
 | `zhdanovshchina.md` | Zhdanovshchina | cultural |
+| `roman-climate-optimum.md` | Roman Climate Optimum and the Environmental History of the Empire | analytical |
+| `guns-germs-and-steel.md` | Guns, Germs, and Steel (Diamond's thesis) | analytical |
+| `geographic-determinism.md` | Geographic Determinism | analytical / historiographical |
+| `continental-axes.md` | Continental Axes and Diffusion | analytical |
 
 ---
 
@@ -437,6 +459,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `service-penguin-history-of-modern-russia-2009.md` | The Penguin History of Modern Russia: From Tsarism to the Twenty-First Century (3rd ed.) — Robert Service | 2009 | secondary |
 | `freeze-russia-a-history-2002.md` | Russia: A History (Second Edition) — Gregory L. Freeze (ed.) | 2002 | secondary | (multi-author survey; updates from Riasanovsky with post-1991 archival depth on social/economic/nationalities; pages updated incl. february-revolution-1917, pugachev-rebellion-1773, gorbachev-mikhail, stalin-joseph, brezhnev-stagnation and many Russian actors/periods/processes) |
 | `harper-fate-of-rome-2017.md` | The Fate of Rome: Climate, Disease, and the End of an Empire (Kyle Harper) | 2017 | secondary | (staggered subagent ranges; climate change (RCO, Late Roman Transition, LALIA) and pandemics (Antonine, Cyprian, Justinianic) in the decline and fall of the Roman Empire) |
+| `encyclopaedia-of-islam-index-subjects-1996.md` | The Encyclopaedia of Islam (New Edition) — Index of Subjects (comp. P.J. Bearman) | 1996 | reference | (finding-aid to EI2 Vols I–VIII + Suppl. 1–6; source page only — an index, no claims; OCR-noisy; does NOT close the EoI-proper gap) |
 
 ---
 

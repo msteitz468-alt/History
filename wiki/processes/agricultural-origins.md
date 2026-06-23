@@ -105,3 +105,12 @@ The reframing of agricultural origins from a single "Neolithic Revolution" to a
 plural, contingent, non-linear process is the central historiographical
 achievement of this volume — see [[neolithic-revolution]] for the conceptual
 history and [[why-did-agriculture-begin]] for the live debate.
+
+[[diamond-guns-germs-and-steel-1997|Diamond]] turns this process into the *ultimate*
+cause of the modern world's inequalities: because only a few regions held rich suites
+of domesticable plants and large mammals (the [[continental-axes|"Ancient Fourteen"]],
+thirteen of them Eurasian), food production arose earliest and most productively in
+Eurasia, and its package then spread fastest along the continent's east–west axis —
+yielding the surpluses, dense populations, germs, writing, and states that decided later
+collisions such as [[collision-at-cajamarca-1532|Cajamarca]]. See [[guns-germs-and-steel]],
+[[continental-axes]], and [[geographic-determinism]].

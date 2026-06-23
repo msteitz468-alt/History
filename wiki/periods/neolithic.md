@@ -212,3 +212,14 @@ relevant regional pages; later phases (CAH, specialist prehistory in Phase 11)
 will deepen Southwest Asia, Europe, and the Near East but will not match Vol. II's
 breadth for the under-resourced regions. Honest caveat: archaeogenetics and
 residue dating move fast, so specific first-appearance dates here are provisional.
+
+## The Neolithic's Long Shadow (Diamond)
+
+[[diamond-guns-germs-and-steel-1997|Jared Diamond]] makes the uneven geography of this
+period the ultimate cause of world history's later divergences: the few regions with rich
+domesticable biota (above all the [[near-east|Fertile Crescent]] and [[china|China]]) gained
+food production earliest, and Eurasia's east–west axis let that package spread across shared
+latitudes far faster than the north–south axes of the Americas and Africa allowed. The
+resulting head start in population, germs, technology, writing, and states is, on his account,
+why post-1492 collisions ran as they did. See [[guns-germs-and-steel]], [[continental-axes]],
+and [[geographic-determinism]].
