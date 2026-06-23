@@ -28,7 +28,7 @@ produces:
   - afro-atlantic-religious-traditions
   - pan-africanism
   - black-internationalism
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [process, Early Modern, Age of Expansion, Long 19th Century, Cold War, Contemporary, atlantic-world, indian-ocean, sub-saharan-africa]
 ---
@@ -82,6 +82,8 @@ The central historiographical tension in diaspora studies since the 1930s:
 **Paul Gilroy** (*The Black Atlantic*, 1993): explored the role of black thinkers and activists in the creation of a "counterculture of modernity" — a more fluid, transformative culture shaped by efforts to overcome racial exclusion from Enlightenment modernity.
 
 Recent scholarship (J. Lorand Matory, Stefania Capone, Stephan Palmié, David Brown) has moved beyond the search for origins, showing how diasporic cultures were created through active, historically situated processes of reinvention — not simple retention or wholesale rupture.
+
+Morgan (2009) emphasizes the middle ground and pre-existing fluidity: African ethnic identities were "flexible and inchoate" even in the homeland ("Wolof rarely thought of themselves as Wolof"); "many could choose among a variety of self-identifications." The Middle Passage "compounded the complications" via randomization and trauma yet produced "strong shipmate bond[s]". Specific retentions salient in contexts (Kongo ritual in Brazil; Stono rebels from Kongo using homeland military tactics and Catholicism; Akwamu war captives leading Danish St. John revolt drawing on statecraft knowledge). Broad shared cultural principles (aesthetic, religious) enabled exchange across groups. Two-way Atlantic movement: returnees and Brazilian (Bahian) diaspora on Slave Coast fed terms and influences back (e.g., "Nago" usage). "Africans did not come to the New World in uniformly homogeneous groupings or as totally heterogeneous crowds." (Morgan, Africa and the Atlantic).
 
 ## African American Religions
 

@@ -8,8 +8,8 @@ region: [atlantic-world, west-africa, central-africa, caribbean, andes, eastern-
 process_type: demographic
 driven_by: [plantation demand for labor (especially sugar), American demographic collapse, pre-existing African slavery and slave markets, European armed maritime commerce]
 produces: [the largest forced migration in history, African diaspora cultures of the Americas, demographic distortion in Atlantic Africa, the plantation complex, creole languages and Atlantic religions]
-sources_ingested: 8
-last_updated: 2026-06-14
+sources_ingested: 9
+last_updated: 2026-06-22
 tags: [process, early-modern, atlantic-world, west-africa]
 ---
 
@@ -76,6 +76,8 @@ conditions). The two purchase modes were **shipboard trade** and **factory
 trade** (fortified coastal posts). Almost half of all captives left from West
 Central Africa; Lower Guinea supplied about a third, Upper Guinea about
 15 percent, with Mozambique a late entrant.
+
+From Morgan's analysis of agency and regionalism: the trade operated as a largely sellers' market pre-abolition; African traders received 3–4 times higher prices by 1800 than a century earlier due to European competition. Regional differences in slave exports, mortality, and resistance were pronounced and primarily African-centered (e.g., Upper Guinea high revolt rates and low shipments; West-Central Africa dominant volume and lower mortality). Credit and pawnship arrangements were critical lubricants, often enforced through African political or private-order mechanisms. "the Atlantic slave trade was largely a sellers’ market." (Morgan, Africa and the Atlantic). African rulers and merchants secured better terms, port charges, and tributes over time.
 
 ## Major Phases
 
