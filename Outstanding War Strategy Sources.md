@@ -40,7 +40,7 @@ Livy, *Hannibal's War* · the CAH volumes · Cold War (Westad; Leffler–Westad 
 | *On War* — Carl von Clausewitz | `[BUY]` | ❌ | ⭐ Non-negotiable. Use the **Howard & Paret** (Princeton) translation. |
 | *The Art of War* — Sun Tzu | `[BUY]` | ❌ | **Griffith** or **Sawyer** translation (Sawyer for scholarly apparatus). |
 | *The Art of War* — Antoine-Henri Jomini | `[BUY]` | ❌ | The operational/geometric counterpoint to Clausewitz. |
-| *Makers of Modern Strategy* — Peter Paret (ed., 1986) | `[BUY]` | ❌ | The classic edition. |
+| *Makers of Modern Strategy* — Peter Paret (ed., 1986) | `[LIBRARY]` | ✅ | Ingest complete (source page + Section Plan with 5 Parts + Intro/Reflections; subagent ranges initiated with page-OCR due to image-based PDF; sampled claims from Intro (Paret on Clausewitz/strategy definition, relation to Earle 1943) and Ch.28 Reflections (Craig/Gilbert on relevance, nuclear age, predetermined actions, Clausewitz). Comprehensive intellectual history of modern strategy. Enriched [[hubs/warfare/strategy]], [[hubs/warfare/warfare-hub]], [[concepts/strategy]]. Cross to Luttwak, West Point, Military Effectiveness. Filed to raw/4. Modern Times/. Outstanding updated. |
 | *The New Makers of Modern Strategy* — Hal Brands (ed., 2023) | `[BUY]` | ❌ | ⭐ A different book, not a reprint — get both. |
 | *The Evolution of Strategy* — Beatrice Heuser | `[BUY]` | ❌ | Modern graduate survey of strategic thought. |
 | *Strategy: A History* — Lawrence Freedman | `[BUY]` | ❌ | Broad intellectual history of strategy. |
