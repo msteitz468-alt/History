@@ -67,4 +67,5 @@ prosopographical inference. See [[second-punic-war-218-201bce]].
   ally: [[masinissa]] · defeated: [[hannibal]]
 - Rival strategy: [[fabius-maximus]] · [[fabian-strategy]]
 - Later war: [[antiochus-iii-the-great]]
-- Sources: [[astin-cah-v8-1989]] · [[polybius]]
+- Tactical analyses (hubs/warfare): [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-new-carthage-209bce|New Carthage]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-ilipa-206bce|Ilipa]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-zama-202bce|Zama]]
+- Sources: [[astin-cah-v8-1989]] · [[polybius]] · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy]]

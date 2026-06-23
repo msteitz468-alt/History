@@ -74,4 +74,5 @@ rhetorical. The **Alpine route** remains unresolved. See
   [[battle-of-zama-202bce]] · [[siege-of-saguntum-219bce]]
 - Opponents: [[fabius-maximus]] · [[scipio-africanus]] · later host:
   [[antiochus-iii-the-great]]
-- Sources: [[astin-cah-v8-1989]] · [[polybius]] · [[livy]]
+- Tactical analyses (hubs/warfare): [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-the-trebia-218bce|Trebia]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-lake-trasimene-217bce|Trasimene]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae|Cannae]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-zama-202bce|Zama]]
+- Sources: [[astin-cah-v8-1989]] · [[polybius]] · [[livy]] · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy]]

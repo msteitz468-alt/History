@@ -72,4 +72,5 @@ standard control.
 - Part of: [[second-punic-war-218-201bce]] · victor: [[scipio-africanus]] ·
   vanquished: [[hannibal]] · ally: [[masinissa]]
 - Contrast: [[battle-of-cannae-216bce]] (the envelopment reversed)
-- Source: [[astin-cah-v8-1989]]
+- Tactical analysis (hubs/warfare): [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-zama-202bce|Zama — Tactical Analysis]]
+- Source: [[astin-cah-v8-1989]] · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy, *The Fall of Carthage*]]

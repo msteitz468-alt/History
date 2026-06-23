@@ -94,4 +94,5 @@ decision** ("long before" 149 — perhaps 153, perhaps 162/1) is debated.
   [[nature-of-roman-imperialism]]
 - Concurrent: destruction of [[corinth]] (146) · province:
   [[roman-provincial-system]]
-- Source: [[astin-cah-v8-1989]] (Ch. 5, Harris)
+- Detailed analysis (hubs/warfare): [[hubs/warfare/classical-antiquity/third-punic-war/third-punic-war|War hub]] · [[hubs/warfare/classical-antiquity/third-punic-war/siege-of-carthage-149-146bce|Siege of Carthage (149–146)]]
+- Source: [[astin-cah-v8-1989]] (Ch. 5, Harris) · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy, *The Fall of Carthage*]]

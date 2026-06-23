@@ -62,4 +62,5 @@ indispensability — Manilius did real work at Carthage before Scipio arrived. S
   [[carthage]]
 - Family: [[scipio-africanus]] (adoptive grandfather) · L. Aemilius Paullus (father)
 - Circle: [[polybius]] · debate: [[nature-of-roman-imperialism]]
-- Source: [[astin-cah-v8-1989]] (Ch. 5, Harris)
+- Tactical analysis (hubs/warfare): [[hubs/warfare/classical-antiquity/third-punic-war/siege-of-carthage-149-146bce|Siege of Carthage (149–146)]]
+- Source: [[astin-cah-v8-1989]] (Ch. 5, Harris) · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy]]

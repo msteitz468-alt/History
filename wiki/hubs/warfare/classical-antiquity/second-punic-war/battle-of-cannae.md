@@ -155,3 +155,4 @@ But its more durable lesson at the staff-college level is **cautionary**, and ex
 - Sequel & strategy: [[battle-of-zama-202bce]] · [[fabian-strategy]] · [[scipio-africanus]]
 - Sources: [[polybius]] · [[livy]]
 - Concept: [[total-war]] (the annihilation ideal and its limits)
+- Comparable analyses (hubs/warfare): [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-the-trebia-218bce|Trebia (218)]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-lake-trasimene-217bce|Trasimene (217)]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-ilipa-206bce|Ilipa (206 — Scipio inverts Cannae)]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-zama-202bce|Zama (202 — the answer to Cannae)]]

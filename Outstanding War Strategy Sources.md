@@ -72,7 +72,7 @@ Livy, *Hannibal's War* · the CAH volumes · Cold War (Westad; Leffler–Westad 
 
 | Source | Flag | Status | Notes |
 |---|---|---|---|
-| *The Fall of Carthage* (The Punic Wars) — Adrian Goldsworthy | `[BUY]` | ❌ | ⭐ Deepens the existing **Second Punic War** hub. |
+| *The Fall of Carthage* (The Punic Wars) — Adrian Goldsworthy | `[BUY]` | ✅ | ⭐ Ingested 2026-06-23 (Deployed Subagent Strategy: source page + Section Plan; 9 staggered Sonnet agents drafted 10 template-grade analyses (3,800–6,400 words), reconciled + linted to 0 broken links on main). **Built the First & Third Punic War hubs from scratch** and deepened the Second beyond Cannae: Ecnomus, Bagradas, Aegates / Trebia, Trasimene, Metaurus, New Carthage, Ilipa, Zama / Siege of Carthage. New actors hasdrubal-barca, atilius-regulus, xanthippus; reciprocal links from war event pages + actors + warfare hub. Created [[sources/goldsworthy-the-fall-of-carthage-2000]]. Filed to raw/2. Ancient & Classical Civilizations/. |
 | *Cannae* — Adrian Goldsworthy | `[BUY]` | ✅ | Ingest complete (source page + 5 subagent ranges + main reconciliation). Primary modern tactical study of the double envelopment (detailed OOB, numbers debate in appendices, phase mechanics, contingency, source criticism Polybius vs Livy). Created [[sources/goldsworthy-cannae-2001]]; heavily enriched the existing [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae]] (new Goldsworthy section + quotes on deployment, Hasdrubal discipline, Libyan wheel, compression, why it worked) and [[events/battle-of-cannae-216bce]]. Source + EPUB filed to raw/2. Ancient & Classical Civilizations/. |
 | *The Roman Army at War 100 BC–AD 200* — Adrian Goldsworthy | `[BUY]` | ❌ | Doctrine, command, and battle mechanics of the legions. |
 | *Lost Battles* — Philip Sabin | `[BUY]` | ❌ | Rigorous analytical reconstruction/modeling of ancient battles. |
@@ -156,7 +156,7 @@ Livy, *Hannibal's War* · the CAH volumes · Cold War (Westad; Leffler–Westad 
 
 ## Notes & priorities
 
-- **Buy-first quick wins (upgrade existing pages immediately):** Goldsworthy *Fall of Carthage* + *Cannae* (Second Punic War / Cannae pages); Timothy May *Mongol Art of War* (Ain Jalut page).
+- **Buy-first quick wins (upgrade existing pages immediately):** ~~Goldsworthy *Fall of Carthage* + *Cannae*~~ ✅ both ingested (the full Punic Wars cluster — all three war hubs + 11 battle/siege analyses — is now built); Timothy May *Mongol Art of War* (Ain Jalut page) remains the top outstanding quick win.
 - **Backbone first:** the West Point History of Warfare + Esposito atlas + Clausewitz (Howard/Paret) + Sun Tzu + the new & old *Makers of Modern Strategy* establish the analytical frame for everything else.
 - **Complete the Cambridge spine:** the collection already holds *Cambridge History of War* v2 & v4 — sourcing the remaining volumes gives a uniform period backbone.
 - This list was compiled from subject knowledge; **verify current editions/translations at acquisition** (esp. Clausewitz = Howard/Paret; Sun Tzu = Griffith/Sawyer; Delbrück = Univ. of Nebraska reprint).

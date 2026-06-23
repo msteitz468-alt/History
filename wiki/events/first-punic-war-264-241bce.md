@@ -280,4 +280,5 @@ Polybius's citations is a major historiographical project.
   [[roman-expansion-italy]]
 - Controversy: [[philinus-treaty-controversy]] · [[causes-of-second-punic-war]]
 - Concept: [[roman-republican-religion]] (sacred chickens 249 BCE as confirmatory anecdote for the auspicial system, not evidence of religious skepticism — North, Ch. 12)
-- Source: [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard; Ch. 12, North)
+- Detailed analyses (hubs/warfare): [[hubs/warfare/classical-antiquity/first-punic-war/first-punic-war|War hub]] · [[hubs/warfare/classical-antiquity/first-punic-war/battle-of-ecnomus-256bce|Ecnomus (256)]] · [[hubs/warfare/classical-antiquity/first-punic-war/battle-of-the-bagradas-255bce|Bagradas (255)]] · [[hubs/warfare/classical-antiquity/first-punic-war/battle-of-the-aegates-islands-241bce|Aegates Islands (241)]]
+- Source: [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard; Ch. 12, North) · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy, *The Fall of Carthage*]]

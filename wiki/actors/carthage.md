@@ -308,6 +308,7 @@ annexed as the province of **Africa**.
   [[causes-of-second-punic-war]] · [[nature-of-roman-imperialism]]
 - Barcids: [[hamilcar-barca]] · [[hannibal]] · [[new-carthage]] · vs.
   [[scipio-africanus]] · [[masinissa]]
+- Warfare hubs: [[hubs/warfare/classical-antiquity/first-punic-war/first-punic-war|First]] · [[hubs/warfare/classical-antiquity/second-punic-war/second-punic-war|Second]] · [[hubs/warfare/classical-antiquity/third-punic-war/third-punic-war|Third Punic War]]
 - Sources: [[boardman-cah-v3p2-1991]] (Ch. 32, Culican) · [[boardman-cah-v3p3-1982]]
   (Ch. 38, Graham) · [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[lewis-cah-v6-1994|CAH VI]]
   (Ch. 9a, Picard) · [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard) ·

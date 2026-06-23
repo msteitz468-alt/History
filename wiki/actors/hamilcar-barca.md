@@ -61,4 +61,5 @@ witness to the family's growing wealth and quasi-monarchic self-presentation.
 - Sons/successors: [[hannibal]] · Hasdrubal · place: [[new-carthage]]
 - State: [[carthage]] · wars: [[first-punic-war-264-241bce]] ·
   [[mercenary-war-241-237bce]]
-- Cause-debate: [[causes-of-second-punic-war]] · source: [[astin-cah-v8-1989]]
+- Warfare hub: [[hubs/warfare/classical-antiquity/first-punic-war/first-punic-war|First Punic War]] (his undefeated Sicilian command)
+- Cause-debate: [[causes-of-second-punic-war]] · source: [[astin-cah-v8-1989]] · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy]]

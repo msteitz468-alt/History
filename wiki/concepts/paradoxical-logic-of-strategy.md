@@ -58,12 +58,19 @@ Critiques (not adjudicated here): May overgeneralize across cultures/eras; some 
 
 Cross-references Luttwak's earlier works on grand strategy (Rome, Byzantium) and the associated controversy over whether Rome had a conscious, scientific system of frontiers.
 
+## Van Creveld's Parallel: Linear Technology vs. Paradoxical War
+Martin van Creveld's *Technology and War* (Range 5 / Conclusions) supplies a direct technological counterpart. Technology (in physical nature) operates by **linear** logic: repeatable one-to-one cause-effect, "the world of again and again and again," specialization, integration into streamlined systems without slack, insulation from uncertainty via prediction and control, and efficiency. War, however, is "primarily a contest between two belligerents" possessing "independent will"; its logic is "not linear but paradoxical." "The same action will not always lead to the same result. The opposite, indeed, is closer to the truth." Uncertainty "forms a necessary part of war and can be eliminated only at the cost of turning conflict into a charade." Military excellence therefore rests on "an ability to tolerate uncertainty, cope with it, and make use of it" rather than eliminating it through ever more perfect systems. 
+
+Applying technological linear principles (e.g., hyper-efficient, centralized, non-redundant, highly specialized logistics or C3) to war "would be useless or worse": the directing brain can be cut, single points of failure cascade, specialization prevents substitution under fire. War's infrastructure and systems must incorporate redundancy and tolerance precisely because the opponent reacts. Van Creveld returns to Clausewitz (war as "an act of violence" producing "hardship and of suffering, of stress and fear and pain and death") to show that core elements remain "immune to technology": the "affair of the heart" (courage, honor, duty, loyalty, sacrifice) and the fundamental functions (supplying, communicating, intelligence, securing, fixing, maneuvering, protecting, striking). "To explain the way technology relates to the logic of war, and hence should be used in it, is the last task of the present volume; and, quite possibly, it is the most important one." The bibliographical note in range calls Luttwak's work "brilliant" on the paradoxical side.
+
+This reinforces that paradoxical logic is not merely stylistic but structural: technology can (and does) change the *shape* of war in every domain, yet cannot alter war's essence or its logic. Future tech will "alter the shape of war" without ending it or rendering its paradoxical character obsolete.
+
 ## Related
 - [[concepts/strategy]] (the practice of strategy; practice-focused complement)
 - [[hubs/warfare/strategy]] and [[hubs/warfare/warfare-hub]]
 - [[controversies/roman-grand-strategy]] (Luttwak's grand strategy model for Rome)
 - [[fabian-strategy]] (deliberate avoidance as paradoxical choice)
 - [[grand-strategy]], [[levels-of-strategy]], [[armed-suasion]]
-- Sources: [[luttwak-strategy-the-logic-of-war-and-peace-2002]], Luttwak's grand strategy books (referenced)
+- Sources: [[luttwak-strategy-the-logic-of-war-and-peace-2002]], [[sources/van-creveld-technology-and-war-1989]] (Range 5), Luttwak's grand strategy books (referenced)
 
 Co-Authored-By: Grok 4.3 (xAI) <grok@x.ai>

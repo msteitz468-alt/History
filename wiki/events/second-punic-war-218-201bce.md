@@ -149,7 +149,7 @@ witness for a period the Greek sources illuminate only obliquely.
   [[mercenary-war-241-237bce]] · [[romano-punic-treaties]]
 - Battles & sieges: [[siege-of-saguntum-219bce]] · [[battle-of-cannae-216bce]] ·
   [[battle-of-zama-202bce]]
-- Detailed Analyses (hubs/warfare hierarchy): [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae|Cannae Tactical Analysis]] · [[hubs/warfare/classical-antiquity/second-punic-war/second-punic-war|War overview page]]
+- Detailed analyses (hubs/warfare): [[hubs/warfare/classical-antiquity/second-punic-war/second-punic-war|War hub]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-the-trebia-218bce|Trebia (218)]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-lake-trasimene-217bce|Trasimene (217)]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae|Cannae (216)]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-the-metaurus-207bce|Metaurus (207)]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-new-carthage-209bce|New Carthage (209)]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-ilipa-206bce|Ilipa (206)]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-zama-202bce|Zama (202)]]
 - Strategy: [[fabian-strategy]] · place: [[new-carthage]]
 - Consequences: [[roman-provincial-system]] · the war against [[philip-v|Macedon]]
   (200) · [[masinissa|Numidia]]
