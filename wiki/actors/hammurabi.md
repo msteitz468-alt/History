@@ -78,7 +78,22 @@ a series with the laws of **Lipit-Ishtar of Isin**, the **laws of Eshnunna**, th
 accession. Since "no evidence exists for the actual application of Hammurabi's
 laws" in the contracts, and the code omits much of criminal law, its standing is
 debated: probably a **monument of royal justice and a gesture of uniform rule** over
-a freshly conquered realm rather than a working statute-book. On the Code's
+a freshly conquered realm rather than a working statute-book.
+
+**Grounded claims from Code of Hammurabi range 1–265 (L.W. King trans.)**
+
+Selected claims illuminating Hammurabi's justice ideology, self-presentation, and specific rules (verbatim quotes with original line numbers; link taxonomy per CLAUDE.md):
+1. "then Anu and Bel called by name me, Hammurabi, the exalted prince, who feared God, to bring about the rule of righteousness in the land, to destroy the wicked and the evil-doers; so that the strong should not harm the weak" (ll. 7). taxonomy: produced: [[hammurabi]]. 
+2. "Hammurabi, the prince, called of Bel am I, making riches and increase, enriching Nippur and Dur-ilu beyond compare, sublime patron of E-kur; who reestablished Eridu and purified the worship of E-apsu; who conquered the four quarters of the world, made great the name of Babylon" (ll. 9). taxonomy: part_of: [[babylon-first-dynasty]]. 
+3. "When Marduk sent me to rule over men, to give the protection of right to the land, I did right and righteousness in . . . , and brought about the well-being of the oppressed." (ll. 11). taxonomy: contributed_to: [[hammurabi]]. 
+4. "If any one ensnare another, putting a ban upon him, but he can not prove it, then he that ensnared him shall be put to death." (ll. 15). taxonomy: part_of: [[hammurabi]]. 
+6. "If a judge try a case, reach a decision, and present his judgment in writing; if later error shall appear in his decision, and it be through his own fault, then he shall pay twelve times the fine set by him in the case, and he shall be publicly removed from the judge's bench, and never again shall he sit there to render judgement." (ll. 23). taxonomy: contributed_to: [[hammurabi]]. 
+11. "If any one break a hole into a house (break in to steal), he shall be put to death before that hole and be buried." (ll. 53). taxonomy: part_of: [[hammurabi]]. 
+15. "The field, garden, and house of a chieftain, of a man, or of one subject to quit-rent, can not be sold." (ll. 85). taxonomy: part_of: [[hammurabi]]. 
+16. "If any one be too lazy to keep his dam in proper condition, and does not so keep it; if then the dam break and all the fields be flooded, then shall he in whose dam the break occurred be sold for money, and the money shall replace the corn which he has caused to be ruined." (ll. 119). taxonomy: contributed_to: [[hammurabi]]. 
+18. "If a man's wife be surprised (in flagrante delicto) with another man, both shall be tied and thrown into the water, but the husband may pardon his wife and the king his slaves." (ll. 201). taxonomy: part_of: [[hammurabi]]. 
+20. "If a man wish to separate from a woman who has borne him children, or from his wife who has borne him children: then he shall give that wife her dowry, and a part of the usufruct of field, garden, and property, so that she can rear her children. When she has brought up her children, a portion of all that is given to the children, equal as that of one son, shall be given to her. She may then marry the man of her heart." (ll. 217). taxonomy: part_of: [[amorites]]. 
+(Full set of 20 grounded claims from range, including additional procedure, theft, military, agricultural, commerce, and family rules, recorded during ingest for lines 1–265.) On the Code's
 threefold society — *awīlum* ("gentleman"), *muškēnum* ("subject/commoner"),
 *wardum* ("slave") — see below.
 
@@ -105,6 +120,23 @@ on the unresolved **[[mesopotamian-chronology|middle/low/high chronology]]** deb
 (the "Venus tablets" of his descendant Ammiṣaduqa are a key, inconclusive datum);
 this volume uses the middle chronology (1792–1750). See
 [[cambridge-ancient-history-methodology]].
+
+**Grounded claims from Code of Hammurabi range 266–531 (L.W. King trans.)**
+
+This range supplies later family, class, injury, professional, wage, and slave rules plus the complete Epilogue (self-praise, stele dedication in Babylon's E-Sagil, protection of the weak, permanence instructions, and god-invoked curses). All claims verbatim from the range (ll. 266–531); only established names used.
+
+- "If a man marry a woman, and she bear sons to him; if then this woman die, then shall her father have no claim on her dowry; this belongs to her sons." (ll. 269). part_of: [[hammurabi]].
+- "If his wife bear sons to a man, or his maid-servant have borne sons... then the sons of the wife and of the maid-servant shall divide the paternal property in common." "If, however, the father while still living did not say to the sons of the maid-servant: 'My sons,' ... the sons of the maid-servant shall not share with the sons of the wife, but the freedom of the maid and her sons shall be granted." (ll. 285, ~287-289). part_of: [[hammurabi]] (inheritance and manumission rules distinguishing wife vs. maid-servant lines).
+- "If a son strike his father, his hands shall be hewn off." (ll. 337). part_of: [[hammurabi]].
+- "If a man put out the eye of another man, his eye shall be put out. [ An eye for an eye ] ... If he put out the eye of a freed man... he shall pay one gold mina." "If he put out the eye of a man's slave... he shall pay one-half of its value." (ll. 339, 341-343). part_of: [[hammurabi]] (talion for equals; graduated compensation by status: free-born / freed / slave).
+- "If a physician make a large incision with an operating knife and cure it... he shall receive ten shekels in money." "If a physician make a large incision with the operating knife, and kill him... his hands shall be cut off." "If a physician make a large incision in the slave of a freed man, and kill him, he shall replace the slave with another slave." (ll. 373, 379, 381). part_of: [[hammurabi]] (professional liability scaled by patient class).
+- "If a builder build a house for some one and complete it, he shall give him a fee of two shekels in money for each sar of surface." "If a builder build a house for some one, and does not construct it properly, and the house which he built fall in and kill its owner, then that builder shall be put to death." ... "If it kill a slave of the owner, then he shall pay slave for slave..." (ll. 399, ~401-405). part_of: [[hammurabi]] (builder fees and talionic liability).
+- "If any one hire a day laborer, he shall pay him from the New Year until the fifth month ... six gerahs in money per day; from the sixth month to the end of the year he shall give him five gerahs per day." (ll. 489). part_of: [[hammurabi]] (seasonal wage scales).
+- "LAWS of justice which Hammurabi, the wise king, established. ... That the strong might not injure the weak, in order to protect the widows and orphans, I have in Babylon the city where Anu and Bel raise high their head, in E-Sagil, the Temple... set up these my precious words, written upon my memorial stone, before the image of me, as king of righteousness." (ll. 511-513). produced: [[hammurabi]] self-presentation; part_of: [[babylon]] (stele location). 
+- "In future time, through all coming generations, let the king, who may be in the land, observe the words of righteousness which I have written on my monument; let him not alter the law of the land which I have given..." (ll. 519). contributed_to: [[hammurabi]] legacy in [[babylon-first-dynasty]] and [[middle-bronze-age]].
+- "If a succeeding ruler... do not annul my law... may the great God (Anu)... withdraw from him the glory of royalty, break his scepter... May Bel... order a rebellion... years of scarcity, years of famine... May Ea... shut up his rivers... May Shamash... shatter his dominion... [full sequence of divine curses by Sin, Adad, Ishtar, Nergal, Nin-tu etc.]" (ll. ~521-525). produced: the curse mechanism attached to the laws; contributed_to: authority of [[hammurabi]] in [[mesopotamia]].
+
+These ground the social hierarchy (free-born/freed/slave distinctions), talion, economic controls, and especially the Epilogue's ideological program in the actor's own words. Complements the Mari-based deflation in the main narrative.
 
 ## Related
 

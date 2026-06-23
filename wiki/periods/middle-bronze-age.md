@@ -135,6 +135,17 @@ Intermediate Period, the EB–MB break in the Levant). Closes toward the
 Hittite Old Kingdom, the Kassites, and the international system of the later second
 millennium. The boundary is conventional and regional.
 
+**Grounded claims from Code of Hammurabi range 1–265 (L.W. King trans.)**
+
+Selected claims providing primary evidence for social structure, agriculture, military tenure, commerce, and family in the Middle Bronze Age (verbatim quotes with original line numbers; link taxonomy per CLAUDE.md):
+5. "If any one bring an accusation against a man, and the accused go to the river and leap into the river, if he sink in the river his accuser shall take possession of his house. But if the river prove that the accused is not guilty, and he escape unhurt, then he who had brought the accusation shall be put to death, while he who leaped into the river shall take possession of the house that had belonged to his accuser." (ll. 17). taxonomy: concurrent_with: [[mesopotamia]]. 
+7. "If any one steal the property of a temple or of the court, he shall be put to death, and also the one who receives the stolen thing from him shall be put to death." (ll. 25). taxonomy: part_of: [[babylon]]. 
+8. "If any one steal cattle or sheep, or an ass, or a pig or a goat, if it belong to a god or to the court, the thief shall pay thirtyfold therefor; if they belonged to a freed man of the king he shall pay tenfold; if the thief has nothing with which to pay he shall be put to death." (ll. 29). taxonomy: part_of: [[middle-bronze-age]]. 
+13. "If a chieftain or a man (common soldier), who has been ordered to go upon the king's highway for war does not go, but hires a mercenary, if he withholds the compensation, then shall this officer or man be put to death, and he who represented him shall take possession of his house." (ll. 65). taxonomy: part_of: [[middle-bronze-age]]. 
+16. "If any one be too lazy to keep his dam in proper condition, and does not so keep it; if then the dam break and all the fields be flooded, then shall he in whose dam the break occurred be sold for money, and the money shall replace the corn which he has caused to be ruined." (ll. 119). taxonomy: contributed_to: [[hammurabi]]. 
+19. "If a man is taken prisoner in war, and there is a sustenance in his house, but his wife leave house and court, and go to another house: because this wife did not keep her court, and went to another house, she shall be judicially condemned and thrown into the water." (ll. 209). taxonomy: contributed_to: [[middle-bronze-age]]. 
+(Claims on prologue ideology, judicial accountability, land inalienability, cultivation duties, merchant agents, adultery, divorce, and incest from the range further document the period's institutions and hierarchies; full set of 20 recorded in range ingest.)
+
 ## Historiography
 
 **Source quality.** Far richer than the EBA: continuous royal and administrative
@@ -169,6 +180,18 @@ chronology used by CAH.
 and Anatolian threads are moderate and archaeological. The **rest of the Middle
 Bronze backbone (CAH Vols. II.2–IV) is missing from the collection** — a sourcing
 gap; see [[../../Outstanding Sources|Outstanding Sources]].
+
+**Grounded claims from Code of Hammurabi range 266–531 (L.W. King trans.)**
+
+The later laws + full Epilogue provide primary grounding for social structure, economic regulation, and royal ideology in the period. Verbatim quotes; only established links.
+
+- Inheritance and family: "If a man marry a woman, and she bear sons to him; if then this woman die, then shall her father have no claim on her dowry; this belongs to her sons." (ll. 269) and rules on maid-servant sons sharing only if publicly acknowledged by father (ll. 285, ~287-289). part_of: [[hammurabi]] legal collection in [[middle-bronze-age]].
+- Class-differentiated talion and injury: eye-for-eye and bone-for-bone only for social equals; payment of one mina for freed man, half-value for slave; similar for teeth and strikes (ll. 339, 341-343, 345). part_of: [[hammurabi]]; illuminates hierarchy in [[mesopotamia]] during the period.
+- Professional fees and liability: physician success fee 10 shekels (free), 5 (freed), 2 (slave); malpractice hands cut off or slave replacement (ll. 373, 379, 381); builder 2 shekels/sar fee, death or slave-for-slave for collapse (ll. 399, ~401-405). part_of: [[hammurabi]]; economic rules of [[middle-bronze-age]].
+- Wages/hire: day laborer 6 gerahs/day (long season) / 5 gerahs (rest of year); oxen+cart+driver 180 ka corn/day; herdsman 10× penalty for fraud (ll. 489, 485, ~473). part_of: [[hammurabi]]. contributed_to: regulation of labor in [[middle-bronze-age]] [[mesopotamia]].
+- Epilogue purpose and curses: "That the strong might not injure the weak, in order to protect the widows and orphans, I have in Babylon... in E-Sagil... set up these my precious words... before the image of me, as king of righteousness." (ll. 513). "let him not alter the law of the land which I have given..." (ll. 519). If altered: Anu withdraw glory/break scepter; Bel rebellion/famine; Ea rivers shut; full divine curses (ll. ~521-525). produced: [[hammurabi]] ideological framing; contributed_to: [[middle-bronze-age]] conceptions of royal justice in [[mesopotamia]] and [[babylon-first-dynasty]].
+
+These supply concrete casuistic content (social classes via free-born/freed/slave/maid-servant distinctions, talion limits, fees/wages) and the Epilogue's program directly from the primary.
 
 ## Related
 

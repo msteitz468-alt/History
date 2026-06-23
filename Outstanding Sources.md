@@ -245,7 +245,7 @@ the Muqaddimah, the Odyssey, and the Aeneid are not.
 | *Behistun Inscription* — translated text | `[BUY]` | ❌ | Achaemenid royal inscription |
 | *The Epic of Gilgamesh* — Andrew George trans. | `[BUY]` | ✅ (all 4 subagents complete + main-thread synthesis/reconciliation; ~80 grounded claims across full text + Sumerian poems/fragments; pages gilgamesh/enkidu/uruk/early-bronze-age + related updated with quotes/lines) | oldest surviving narrative literature; legendary Uruk king, friendship, mortality, flood myth. Gap 9 primary filled. |
 | *The Egyptian Book of the Dead* — Wallis Budge trans. (Romer intro) | `[BUY]` | ✅ (4 ranges complete: 3 subagents + main-thread recovery for Ch. CXXV; ~67 grounded claims with quotes/lines; full reconciliation + Volume Synthesis Note; source + osiris/anubis/thoth/maat/thebes/memphis/periods updated; index + log finalized) | funerary spells; Osiris judgment, negative confessions, transformations, Duat navigation. Gap 9 primary filled. |
-| *The Code of Hammurabi* — L.W. King trans. | `[BUY]` | ❌ | Babylonian law code |
+| *The Code of Hammurabi* — L.W. King trans. | `[BUY]` | ✅ (scaffold + 2 staggered subagent ranges on 530-line text; 42 grounded claims; Volume Synthesis Note; updated hammurabi actor + babylon-first-dynasty + middle-bronze-age; log/index/final bookkeeping complete) | Babylonian law code (prologue, 282 casuistic laws, epilogue). Gap 9 primary filled. |
 | *The Iliad* | — | ✅ | `homer-iliad` |
 | *The Odyssey* — Homer (Emily Wilson trans.) | `[BUY]` | ❌ | Iliad in; Odyssey not |
 | *The Aeneid* — Virgil (Sarah Ruden trans.) | `[BUY]` | ❌ | Georgics in; Aeneid not |
