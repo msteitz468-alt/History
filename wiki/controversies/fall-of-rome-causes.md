@@ -58,12 +58,7 @@ defended the tax base, a vicious spiral once Africa and Gaul were lost. Often co
 with positions 2 and 3.
 
 **5. Environmental and epidemic factors.**
-Recent work (**Kyle Harper**) stresses **climate change** (the end of the Roman Climate
-Optimum, the Late Antique Little Ice Age) and **pandemic disease** (the Antonine and
-Cyprianic plagues; later the Justinianic plague) as exogenous shocks degrading
-population, recruitment, and revenue. *Strength:* new paleoclimatic and genetic
-(*Yersinia pestis*) evidence. *Weakness:* timing the demographic impact precisely
-remains difficult.
+Stressed by **Kyle Harper** (*The Fate of Rome*, 2017), who argues that the Roman Empire was an ecological entity whose political success was dependent upon the stable, warm **Roman Climate Optimum (RCO)**. The transition to the unstable **Late Roman Transition** and cooling **Late Antique Little Ice Age (LALIA)** degraded agricultural output, while Rome's urban and transport networks acted as a biological "superconductor" for pathogens. The resulting Antonine, Cyprianic, and Justinianic Plagues acted as massive exogenous shocks that degraded the tax base, caused agricultural abandonment (*agri deserti*), and collapsed the recruit pool (dropping Byzantine troops from 645k to 150k). *Strength:* backed by paleoclimatic ice-core/speleothem data and ancient DNA verification of *Yersinia pestis*. *Weakness:* traditional historians warn of environmental and biological determinism, insisting institutional factors remained key.
 
 **6. The state-collapse trigger.**
 A model proposed by **Guy Halsall** (*New Cambridge Medieval History*, Vol. 1 Ch. 2): barbarian migrations were a **result**, not a cause, of the western Roman state's collapse. The dissolution of the Roman fiscal-military machine created political vacuums on the frontier and in the provinces. Local populations and incoming warrior elites responded by forming new, fluid coalitions—triggering rapid **[[ethnogenesis]]** as a rational strategy in social competition. Barbarians did not destroy Rome; rather, they were drawn into a Roman vacuum.

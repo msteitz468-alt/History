@@ -41,12 +41,10 @@ months at Consentia.
 
 ## Causal Analysis
 
-- `caused_by:` the **failure of the federate settlement** — the western government's refusal to grant
-  Alaric the land and command his people sought (Blockley: the sack was "a confession of his failure to
-  win a settlement").
-- `caused_by:` the **fall of [[stilicho|Stilicho]]** (408) and the massacre of the federates' families,
-  which swelled Alaric's army and removed the one Roman able to manage him.
-- `contributed_to:` **Honorius' intransigence** and the dysfunction of the Ravenna court.
+*   **`caused_by`**: the **failure of the federate settlement** — the western government's refusal to grant Alaric the land and command his people sought (Blockley: the sack was "a confession of his failure to win a settlement").
+*   **`caused_by`**: the **fall of [[actors/stilicho|Stilicho]]** (408) and the massacre of the federates' families, which swelled Alaric's army and removed the one Roman able to manage him (Harper 2017, line 2213).
+*   **`contributed_to`**: the **displacement of peoples driven by Hun migration**, itself triggered by a severe steppe megadrought (c. 350–370 CE) that forced the Huns westward as climate refugees (Harper 2017, line 2199).
+*   **`contributed_to`**: **Honorius' intransigence** and the dysfunction of the Ravenna court.
 
 ## Consequence Analysis
 

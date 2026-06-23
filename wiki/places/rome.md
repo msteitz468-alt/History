@@ -276,10 +276,23 @@ culturally open to Greek influence, politically governed by an increasingly clos
 oligarchy, militarily formidable, and demographically expanding — on the threshold
 of Mediterranean engagement.
 
+## Rome in the High and Late Empire: Population, Infrastructure, and Disease Ecology
+
+Kyle Harper's *The Fate of Rome* (2017) provides a detailed environmental and biological history of the city during its imperial peak and subsequent collapse:
+
+*   **Demographic Peak:** During the Roman Climate Optimum (RCO), Rome became the first city in human history to surpass **one million residents** (c. 1st–2nd centuries CE) (Harper 2017, line 329). This massive population was sustained by a state-managed grain dole that supported 200,000 citizens with 80,000 tons of wheat imported annually from Egypt and North Africa via a dedicated flotilla of grain ships (Harper 2017, line 785).
+*   **Late Antique Collapse:** Following the combination of Justinianic Plague waves, the Gothic Wars, and the cooling of the Late Antique Little Ice Age (LALIA), Rome’s population entered a catastrophic spiral, collapsing to approximately **20,000 inhabitants** by c. 650 CE (Harper 2017, lines 346, 3098). At one point in 547 CE during the Gothic Wars, Procopius claimed only 500 inhabitants remained (Harper 2017, line 3098).
+*   **Disease Ecology and Mortality:** 
+    *   **September Spikes:** Christian tombstones and epigraphy demonstrate that mortality in Rome spiked dramatically in late summer and autumn, particularly in **September**, due to waterborne pathogens and malaria (Harper 2017, line 1012).
+    *   **Infrastructure and Malaria:** The massive expansion of Roman infrastructure—such as the paving of the Via Appia directly through the Pontine Marshes—created artificial pools of stagnant water that served as breeding grounds for *Anopheles* mosquitoes, facilitating the spread of malaria (*Plasmodium falciparum*) (Harper 2017, line 1042).
+    *   **Epidemic Relapses:** In AD 191, Rome suffered a severe relapse of the Antonine Plague, causing daily death tolls to exceed 2,000 (Harper 2017, line 1514).
+    *   **Malarial Shield:** In AD 452, the local disease ecology of the Pontine marshes and malaria acted as a biological shield for Rome, decimating the forces of Attila the Hun and forcing his retreat from Italy (Harper 2017, line 2230).
+
 ## Related
 
-- Places: [[tenochtitlan|Tenochtitlan]] · [[nineveh|Nineveh]] · [[baghdad|Baghdad]] · [[uruk|Uruk]] · [[latium]]
+- Places: [[tenochtitlan|Tenochtitlan]] · [[nineveh|Nineveh]] · [[baghdad|Baghdad]] · [[uruk|Uruk]] · [[latium]] · [[places/constantinople]] · [[places/carthage]] · [[places/alexandria]]
 - Concept: [[imperial-city]] · [[city-state]] · [[eurocentrism]] · [[urbanism]] · [[latial-culture]] · [[early-roman-source-criticism]]
 - Process: [[urbanization]] · [[ruralization]] · [[agriculture-and-urbanism]]
 - Archaic Rome: [[etruscans]] (the Tarquins) · [[etruria]] · [[roman-kings]] · [[foundation-of-rome-753bce]]
-- Sources: [[yoffee-cwh-v3-2015]] (Ch. 25, Terrenato) · [[boardman-cah-v4-1988]] (Ch. 13, Ridgway) · [[walbank-cah-v7-2-1989]] (Chs. 2–3, Torelli/Momigliano)
+- Sources: [[yoffee-cwh-v3-2015]] (Ch. 25, Terrenato) · [[boardman-cah-v4-1988]] (Ch. 13, Ridgway) · [[walbank-cah-v7-2-1989]] (Chs. 2–3, Torelli/Momigliano) · [[sources/harper-fate-of-rome-2017]]
+

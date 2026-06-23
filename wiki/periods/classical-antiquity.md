@@ -7,8 +7,8 @@ date_range: "500–31 BCE"
 regions_covered: [mediterranean, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, north-africa, iberia, western-europe, south-asia, china, steppe]
 major_themes: ["Classical Greece and the polis at its height", "the Greco-Persian and Peloponnesian Wars", "Alexander and the Hellenistic world", "the rise of Rome", "the Mauryan Empire", "Qin unification and the early Han", "the first Silk Roads era", "Hellenistic science and cosmopolitanism", "mass chattel slavery"]
 collection_coverage: strong
-sources_ingested: 4
-last_updated: 2026-06-11
+sources_ingested: 5
+last_updated: 2026-06-23
 tags: [period]
 ---
 
@@ -28,6 +28,12 @@ are linked end-to-end for the first time by the **[[silk-roads|first Silk Roads
 era]]**.
 
 The conventional terminus (31 BCE, Actium) marks the end of the Roman Republic and
+the Hellenistic kingdoms alike and the threshold of the [[late-antiquity|Roman
+imperial]] order. The volume's expanded frame keeps Persia, India, and China in
+view throughout, refusing the older equation of "classical" with Greece and Rome
+alone.
+
+This period also witnessed the onset of the **Roman Climate Optimum (RCO)** (c. 200 BCE – 150 CE), a phase of warm, wet, and stable climate that began in the middle Roman Republic. As environmental historian Kyle Harper argues (*The Fate of Rome*, 2017), the RCO was a critical enabler of Mediterranean agricultural and demographic expansion. Warmer temperatures extended the limits of cultivation and boosted crop yields, allowing the Roman world to temporarily escape Malthusian constraints. Deforestation for agriculture, building, and fuel proceeded on a massive scale, which also altered regional climates. By the late first century BCE, the city of Rome had surpassed one million residents, and the total imperial population reached approximately 60 million on the eve of the transition to [[late-antiquity|Late Antiquity]] (eventually peaking at 75 million before the onset of the [[events/antonine-plague-165|Antonine Plague]] in 165 CE marked the end of the RCO and the beginning of the climate's transition) (Harper 2017, lines 329, 362, 505, 746).
 
 **Grounded claims from Hansen Silk Road range 2601-5200**:
 - "Carbon-dated to 320 CE±80." (ll. 502, Kizil caves). taxonomy: part_of: [[classical-antiquity]].
@@ -35,22 +41,27 @@ The conventional terminus (31 BCE, Actium) marks the end of the Roman Republic a
 - "In each of the Silk Road communities... trade existed, but it was limited." (ll. 100). taxonomy: contrasts_with: [[silk-roads]].
 - "Pelliot referred to the pass as Tchalderang; the modern spelling is Shaldïrang." (ll. 616, Kucha caravan passes). taxonomy: enabled: [[silk-roads]]. Updated [[silk-roads]], [[central-asia]].
 
-
 **Grounded claims from Aeneid range 6801-13600 (Fagles trans.)** (Virgil, composing in this period under Augustus, provides the era's central foundation myth):
 - Jupiter's command and Anchises' prophecy frame Roman destiny: master "an Italy" to "bring the entire world beneath the rule of law" and sire "a people sprung from Teucer’s noble blood" (ll. 8113-8116); "Italy’s realm, the land of Rome" for Ascanius (ll. 8233); "children born of Italian stock... future heirs of our name and our renown" founding Alba Longa line (ll. 13577-13600). taxonomy: produced: [[classical-antiquity]]. Updated [[classical-antiquity]], [[aeneas]], [[augustus]], [[italy]].
 - Pietas vs. personal desire (Aeneas leaving Dido "driven by duty... obeys the gods’ commands", ll. 8555-8567; "I set sail for Italy—all against my will", ll. 8463) defines the Roman ideal. Dido's curse projects "endless war" (ll. 9185-9189). taxonomy: part_of: [[classical-antiquity]]. Updated [[classical-antiquity]], [[mediterranean-world]].
 - Katabasis and golden bough: "the descent to the Underworld is easy... there the struggle, there the labor lies" (ll. 11933-11936). Links to Homeric models while forging Roman etiology. taxonomy: contrasts_with: [[homer-iliad]] [[homer-odyssey]]. Updated [[classical-antiquity]].
 All from range only, verbatim, established names exclusively. CLAUDE.md compliant. Updated [[classical-antiquity]], [[aeneas]], [[virgil]], [[augustus]], [[italy]], [[mediterranean-world]], [[homer-iliad]], [[homer-odyssey]], [[trojan-war-1250bce]].
-the Hellenistic kingdoms alike and the threshold of the [[late-antiquity|Roman
-imperial]] order. The volume's expanded frame keeps Persia, India, and China in
-view throughout, refusing the older equation of "classical" with Greece and Rome
-alone.
 
 **Grounded claims from Hansen Silk Road range 282-2600** (Valerie Hansen, *The Silk Road: A New History*, Intro + Ch. 1–early 2):
 - "The first written description of the Silk Road trade concerns Zhang Qian (d. 113 BCE), a Chinese envoy from Chang’an to Central Asia in the second century BCE, during the reign of Emperor Wu of the Han Dynasty (reigned 140–87 BCE)." (ll. 380-381). taxonomy: produced: [[silk-roads]]. Updated [[silk-roads]], [[china]].
 - "After Zhang Qian’s return, the Han dynasty gradually extended its control into the northwest. By the end of the second century BCE it secured the Gansu corridor and Dunhuang." (ll. 384-385). taxonomy: enabled: [[silk-roads]]. Updated [[silk-roads]], [[central-asia]], [[classical-antiquity]].
 - "These oases resembled small city-states more than kingdoms." (ll. 396). taxonomy: part_of: [[central-asia]]. Updated [[central-asia]].
 All from this range only; verbatim + lines; established names only.
+
+**Grounded claims from Harper Range 1 (lines 254–1199)** (Kyle Harper, *The Fate of Rome*, 2017):
+- "The discovery of rapid climate change in the Holocene is a revelation. We are learning that the Romans were, in planetary perspective, lucky. The empire reached its maximal extent and prosperity in the folds of a late Holocene climate period called the Roman Climate Optimum (RCO). The RCO reveals itself as a phase of warm, wet, and stable climate across much of the Mediterranean heartland of empire." (line 362). taxonomy: enabled: [[classical-antiquity]]. Updated [[classical-antiquity]].
+- "The RCO would not only have extended the limits of cultivation, it also amplified the productivity of the land. Yields in Mediterranean agriculture respond positively to increasing temperature... rise of 1°C would have rendered... an additional 5 million hectares of land suitable for arable cultivation; that is enough land to feed 3–4 million hungry bodies." (line 746). taxonomy: contributed_to: [[classical-antiquity]] agricultural expansion. Updated [[classical-antiquity]].
+- "But the Romans did fell forests in massive swaths. Woodland was cleared for agriculture, and the Roman economic machine consumed huge forests for fire and fuel." (line 742). taxonomy: part_of: [[classical-antiquity]] environmental dynamics. Updated [[classical-antiquity]].
+- "The loss of forest cover suppresses rainfall in the Mediterranean. Deforestation increases albedo (the energy reflected back off the earth’s surface), so that more heat is reflected away from the ground. In consequence, there is less evaporation of soil moisture into the lower atmosphere." (line 744). taxonomy: contributed_to: [[classical-antiquity]] regional climate changes. Updated [[classical-antiquity]].
+- "Sometime around the first century of this era, the population of Rome itself probably topped one million inhabitants, the first city to do so... At the peak in the middle of the second century, some seventy-five million people in all came under Roman sway..." (line 329). taxonomy: part_of: [[classical-antiquity]] demographic expansion. Updated [[classical-antiquity]].
+- "It is evident that Italians in the Roman imperial period were shorter than their Iron Age and early Republican ancestors. Average male femur length declined... For Roman women, the loss was even greater." (line 970). taxonomy: part_of: [[classical-antiquity]] public health. Updated [[classical-antiquity]].
+- "Using this approach, it has been suggested that life expectancy at birth (e0) was 27.3 for females and 26.2 for males in Roman Egypt." (line 900). taxonomy: part_of: [[classical-antiquity]] demographic regime. Updated [[classical-antiquity]].
+All from range only, verbatim + lines, established names exclusively. CLAUDE.md compliant. Updated [[classical-antiquity]].
 
 ## Major Developments
 

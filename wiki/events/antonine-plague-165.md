@@ -49,25 +49,19 @@ widely (commonly cited as a substantial fraction of the population over its dura
 ## Consequence Analysis
 
 - `contributed_to:` the **strain on military manpower** exactly as the [[marcomannic-wars-166-180|Marcomannic
-  Wars]] broke out — Marcus had to raise new legions and even enrol slaves and gladiators.
-- `contributed_to:` **economic and fiscal stress** (Marcus auctioned imperial treasures), and the
-  public hysteria that the volume links to an episode of **anti-Christian activity** (the
-  martyrdom of Justin before the prefect Rusticus).
+  Wars]] broke out — Marcus had to raise new legions and even enrol slaves, gladiators, and outlaws (Harper 2017, line 1522).
+- `contributed_to:` **economic and fiscal stress** (Marcus auctioned imperial treasures), a temporary collapse of provincial mint production and debasement of silver coinages (such as a 10-year cessation of silver coinage in Alexandria) (Harper 2017, line 1526), and a sharp drop in real land values due to demographic contraction (Harper 2017, line 1530).
 - `concurrent_with:` and aggravating the broader **crisis of Marcus' reign**, the plague is
   conventionally grouped with the Danube wars and the accession of Commodus as ending the "golden
   age."
 
 ## Significance
 
-The Antonine Plague is the first securely attested **empire-wide pandemic** in Roman history. Its
-demographic and economic impact — striking simultaneously with sustained barbarian pressure and
-costly frontier war — is widely seen as a key element in the **weakening of the High Empire** and
-a foreshadowing of the more severe disruptions (including the Plague of Cyprian) of the third
-century.
+The Antonine Plague is the first securely attested **empire-wide pandemic** in Roman history, caused by the smallpox virus (*Variola major*) (Harper 2017, line 1230). Smuggled into the empire via the Red Sea trade axis, it carried an estimated overall mortality rate of 10% (and up to 20% in heavily hit urban areas), claiming 7 to 8 million lives (Harper 2017, lines 1208, 1544). Its demographic and economic impact — striking simultaneously with sustained barbarian pressure and costly frontier war — is widely seen as a key element in the **weakening of the High Empire** and the acceleration of its provincialization (Harper 2017, line 1557).
 
 ## Related
 
-- `caused_by:` the army returning from the [[trajans-parthian-war-114-117|Parthian War]];
-  `concurrent_with:` the [[marcomannic-wars-166-180|Marcomannic Wars]] under [[marcus-aurelius]]
-- Documented by Galen (see Roman [[origins-of-christianity|society]]); a factor in the age of crisis
-- Source: [[bowman-cah-v11-2000]] (Ch. 3)
+- `caused_by:` smallpox vector arriving from East Africa/Red Sea;
+  `concurrent_with:` the [[marcomannic-wars-166-180|Marcomannic Wars]] under [[marcus-aurelius]] and [[actors/lucius-verus|Lucius Verus]]
+- Documented by [[actors/galen|Galen]], who fled Rome in AD 166 to escape the disease (Harper 2017, line 1210).
+- Sources: [[bowman-cah-v11-2000]] (Ch. 3) · [[sources/harper-fate-of-rome-2017]]

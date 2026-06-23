@@ -41,8 +41,8 @@ The pandemic did not vanish but returned in regional waves every 10 to 15 years.
 
 ## Causal Analysis
 
-*   **Pathogenic Vector (`caused_by`):** The plague was caused by *Yersinia pestis*, a flea-borne bacterium. It occurred at the end of the **Roman Climate Optimum** and the start of the **Late Antique Little Ice Age** (536 CE onward), which may have disrupted rodent habitats in Central Asia or East Africa, driving them into contact with human trade routes.
-*   **Commercial Integration (`enabled`):** The high integration of the Byzantine Mediterranean trading network—particularly the massive state-controlled grain shipments from Egypt to Constantinople—provided a rapid transit system for infected rats and fleas.
+*   **Pathogenic Vector (`caused_by`):** The plague was caused by *Yersinia pestis*, a flea-borne bacterium. It occurred at the end of the **Roman Climate Optimum** and the start of the **Late Antique Little Ice Age (LALIA)** (536 CE onward) (Harper 2017, line 386). A cluster of massive volcanic explosions (in 536 and 540–541 CE) caused solar dimming and severe cold seasons, which disrupted rodent habitats in Central Asia or East Africa, driving them into contact with human trade routes (Harper 2017, line 2431).
+*   **Commercial Integration (`enabled`):** The high integration of the Byzantine Mediterranean trading network—particularly the massive state-controlled grain shipments from Egypt to Constantinople—provided a rapid transit system for infected rats and fleas (Harper 2017, line 2252). The Roman-built built environment was an ideal habitat for black rats (*Rattus rattus*), facilitating their migration and rural penetration across Europe (Harper 2017, lines 2264, 2388).
 
 ---
 
@@ -59,16 +59,16 @@ graph TD
 
 The plague severely altered the trajectory of the late antique world:
 *   **Demographic Collapse:** The loss of up to half the urban population and a significant percentage of rural labor shattered the Roman tax-base.
-*   **Fiscal and Economic Crisis:** The scarcity of labor drove up wages while reducing agricultural output. Land was abandoned on a massive scale, leading to a rise in *agri deserti* (uncultivated fields). The state was forced to debase currency and cut military pay.
-*   **Military Overstretch:** The pool of recruits for the Roman army contracted dramatically. This directly crippled Justinian’s ability to defend his newly reconquered western territories (Italy, Africa, Spania) and maintain the Danube frontier, paving the way for the **[[lombards|Lombard invasion of Italy (568)]]** and the **[[successors-of-justinian|Slav and Avar incursions]]** in the Balkans.
+*   **Fiscal and Economic Crisis:** The scarcity of labor drove up wages while reducing agricultural output. Land was abandoned on a massive scale, leading to a rise in *agri deserti* (uncultivated fields). The fiscal crisis of the plague era forced Justinian to withhold and cut military salaries, making him the first Roman emperor to fail to pay his troops (Harper 2017, line 3159).
+*   **Military Overstretch:** The pool of recruits for the Roman army contracted dramatically, with the total force size collapsing from 645,000 to just 150,000 men (Harper 2017, line 3153). This directly crippled Justinian’s ability to defend his newly reconquered western territories (Italy, Africa, Spania) and maintain the Danube frontier, paving the way for the **[[lombards|Lombard invasion of Italy (568)]]** and the **[[successors-of-justinian|Slav and Avar incursions]]** in the Balkans.
 
 ---
 
 ## Related Pages
 
 *   **Actors**: [[justinian]] · [[successors-of-justinian]] · [[lombards]]
-*   **Controversies**: [[causes-of-the-fall-of-the-western-roman-empire]]
-*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]; the great eyewitness account of
+*   **Controversies**: [[causes-of-the-fall-of-the-western-roman-empire]] · [[controversies/fall-of-rome-causes]]
+*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]] · [[sources/harper-fate-of-rome-2017]]; the great eyewitness account of
     **[[john-of-ephesus|John of Ephesus]]** is now ingested in
     **[[pseudo-dionysius-zuqnin-chronicle|Pseudo-Dionysius of Tel-Mahre, Chronicle Part III]]** — a key
     independent witness alongside Procopius.
