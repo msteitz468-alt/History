@@ -146,7 +146,7 @@ Warfare is not one thing. Different environments and technologies produce distin
 - **Naval and maritime power** (sea control, trade protection, power projection)
 - **Siege and fortification warfare** (trace italienne, modern engineering)
 - **Steppe and nomadic warfare** (mobility, horse-archers, operational tempo — see [[mongol-army]])
-- **Asymmetric and irregular warfare** (guerrilla, insurgency, raiding)
+- **Asymmetric and irregular warfare** (guerrilla, insurgency, raiding) — historically conceptualized in Carl von Clausewitz's [[concepts/peoples-war-clausewitz|Volkskrieg]] doctrine as a strategic means of defense, serving as the theoretical origin of modern [[guerrilla-warfare|guerrilla warfare]] and partisan theory.
 - **Total and industrialized warfare** (mass mobilization, economies of war, air power, nuclear)
 
 Each domain has its own logic, constraints, and historical arc.

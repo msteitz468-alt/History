@@ -100,6 +100,18 @@ These events (drawn from the wiki's event pages) illustrate strategic principles
 
 For exhaustive lists, see the live views in the [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]].
 
+## Clausewitz's War Plans and the Political Synthesis (Book Eight)
+
+In Book Eight of *On War*, Clausewitz provides the ultimate political synthesis of his strategic theory. He establishes that war planning is not a purely military exercise but must be cast "from a mold" dictated by political purpose. Rulers must determine where their war falls on the spectrum of objectives: from unlimited wars aimed at the military overthrow of the enemy to limited wars fought for modest diplomatic concessions. This framework integrates the concepts of [[war-as-continuation-of-policy]], [[absolute-vs-real-war]], [[center-of-gravity]] (Schwerpunkt), [[culminating-point-of-victory]], and [[war-aims-and-limited-war-clausewitz]].
+
+## The Clausewitz Reception and Misreading Problem
+
+Because Clausewitz died leaving *On War* as a largely unrevised manuscript (with only Book One, Chapter One fully polished), his work has been highly vulnerable to selective quotation and misinterpretation. 
+* **The Attrition Critique:** Generals like Moltke the Elder extracted Clausewitz's emphasis on resolution and decisive battle, while critics like Liddell Hart blamed him for the bloody stalemates of World War I, calling him the "apostle of total war."
+* **The Nuclear Reclamation:** In the Cold War, strategist Bernard Brodie reclaimed Clausewitz, demonstrating that in the nuclear age, his insistence on the absolute subordination of military means to political ends is the only logical path to avoiding mutual destruction. 
+
+For the full reception history and analysis, see [[brodie-on-clausewitz]] and the main [[clausewitz-carl-von|Carl von Clausewitz]] actor page.
+
 ## Related
 
 - **Main hub**: [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]] (operational warfare, recurring problems, logistics, domains).
@@ -108,6 +120,6 @@ For exhaustive lists, see the live views in the [[hubs/warfare/warfare-hub|Warfa
 - **Key controversies**: [[roman-grand-strategy]], [[military-revolution-thesis]]
 - **Specific systems**: [[mongol-army]], [[kautilyan-statecraft]], [[fabian-strategy]]
 - **Sub-hubs**: [[hubs/warfare/naval-and-air-power-theory|Naval & Air Power Theory]]
-- **Sources**: [[cambridge-history-of-strategy-v1]], [[cambridge-history-of-strategy-v2]], [[murray-making-of-strategy-1994|The Making of Strategy (1994)]], [[sources/jablonsky-roots-of-strategy-4-1999|Roots of Strategy, Book 4 (1999)]], [[sources/freedman-strategy-a-history-2013|Strategy: A History (Freedman 2013)]]
+- **Sources**: [[cambridge-history-of-strategy-v1]], [[cambridge-history-of-strategy-v2]], [[murray-making-of-strategy-1994|The Making of Strategy (1994)]], [[sources/jablonsky-roots-of-strategy-4-1999|Roots of Strategy, Book 4 (1999)]], [[sources/clausewitz-on-war-1832|On War (1832)]], [[sources/freedman-strategy-a-history-2013|Strategy: A History (Freedman 2013)]]
 
 This page serves as the dedicated strategy-focused entry point within the Warfare & Strategy section. It deliberately points outward to the deeper comparative work and to the event pages that show strategy in action.

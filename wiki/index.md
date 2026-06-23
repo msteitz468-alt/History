@@ -368,6 +368,21 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `guns-germs-and-steel.md` | Guns, Germs, and Steel (Diamond's thesis) | analytical |
 | `geographic-determinism.md` | Geographic Determinism | analytical / historiographical |
 | `continental-axes.md` | Continental Axes and Diffusion | analytical |
+| `absolute-vs-real-war.md` | Absolute vs. Real War | analytical |
+| `battle-decision-and-exploitation.md` | Battle Decision and Exploitation (Clausewitz) | analytical |
+| `brodie-on-clausewitz.md` | Brodie's Reading of Clausewitz | historiographical |
+| `center-of-gravity.md` | Center of Gravity (Schwerpunkt) | analytical |
+| `clausewitz-on-theory.md` | Clausewitz on Theory | analytical |
+| `culminating-point-of-victory.md` | Culminating Point of Victory | analytical |
+| `defense-vs-attack-clausewitz.md` | Defense vs. Attack (Clausewitz) | analytical |
+| `friction-in-war.md` | Friction in War | analytical |
+| `logistics-and-supply-clausewitz.md` | Logistics and Supply (Clausewitz) | analytical |
+| `military-genius.md` | Military Genius | analytical |
+| `moral-forces-in-war.md` | Moral Forces in War (Clausewitz) | analytical |
+| `peoples-war-clausewitz.md` | Peoples' War (Volkskrieg) | analytical |
+| `remarkable-trinity.md` | Remarkable Trinity (Wunderliche Dreifaltigkeit) | analytical |
+| `war-aims-and-limited-war-clausewitz.md` | War Aims and Limited War (Clausewitz) | analytical |
+| `war-as-continuation-of-policy.md` | War as Continuation of Policy | analytical |
 
 ---
 
@@ -502,6 +517,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `gat-war-in-human-civilization-2006.md` | War in Human Civilization (Azar Gat) | 2006 | secondary | (Deployed Subagent Strategy: source page + Section Plan (3 Parts) + 6 staggered subagent ranges on extracted text + main reconciliation; evolutionary/anthropological synthesis across all periods. Core: war rooted in HG "state of nature" (high violent death rates, raids/ambushes); agriculture/sedentism scaled it; state largely war "spin-off" enabling civilization; modern affluent liberal democracies + nukes flipped calculus (decline among them). Created/anchored [[concepts/hunter-gatherer-warfare]], [[concepts/evolutionary-origins-of-war]], [[processes/evolution-of-war]]; enriched [[hubs/warfare/warfare-hub]] (deep-time baseline + Leviathan + modern transformation) + strategy sub-hub. Cross to prehistory periods, fiscal-military-state, total-war, Diamond/GGS, prior strategy/West Point/Military Effectiveness sources. Filed to raw/4. Modern Times/. Outstanding War Strategy roadmap updated.) |
 | `murray-making-of-strategy-1994.md` | The Making of Strategy: Rulers, States, and War | 1994 | secondary | (scaffold + 3 staggered subagent ranges + main-thread recovery; 19 chapters of comparative strategic history; 7-factor strategy-making framework and Knox's 3-revolution/continuity framework; updated [[strategy]], [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]], and [[hubs/warfare/strategy|Strategy sub-hub]]) |
 | `millett-murray-military-effectiveness-vol1-wwi-2010.md` | Military Effectiveness, Volume 1: The First World War (Millett & Murray eds., new ed.) | 2010 (orig. 1988) | secondary | (source page + 2 subagent ranges on extracted intro/framework text + main reconciliation; 4-level analytical framework (political/strategic/operational/tactical) for comparative evaluation of 7 powers' WWI performance; adaptation/innovation/cultural factors; new intro reflections on post-Cold War relevance + Iraq lessons; created [[concepts/military-effectiveness]]; updates to strategy hubs/concepts + WWI pages; complements Luttwak + Cambridge strategy sources; Outstanding updated) |
+| `millett-murray-military-effectiveness-vol2-interwar-2010.md` | Military Effectiveness, Volume 2: The Interwar Period (Millett & Murray eds., new ed.) | 2010 (orig. 1988) | secondary | (source page + 6 Range Extraction blocks via Deployed Subagent Strategy + OCR on image PDF + main recovery/synthesis; 4-level framework applied to Soviet/French/US/British/Japanese/Italian/German interwar preparation, innovation, and adaptation failures; Consolidated Volume Synthesis; cross to Vol. 1, [[concepts/military-effectiveness]], strategy hubs; Outstanding ✅) |
 | `west-point-history-american-revolution-2017.md` | The West Point History of the American Revolution (Rogers & Seidule series eds.; Watson, Lengel, Conway) | 2017 | secondary | (West Point History of Warfare series vol.; military history of the Revolution; 6-chapter Section Plan; 6 subagent claim-digests, all pages main-thread authored; 13 actors + 21 events + west-point + the campaign hub and **18 template-compliant deep battle/siege analyses** in hubs/warfare/age-of-expansion/american-revolutionary-war/; complements [[new-cambridge-modern-history-v8]]; 0 broken links) |
 | `doughty-gruber-warfare-western-world-v1-1996.md` | Warfare in the Western World, Vol. I: Military Operations from 1600 to 1871 (Doughty, Gruber et al.) | 1996 | secondary | (Tier 1 USMA survey backbone; "new material only" scope — Revolution & Civil War cited not re-done; 5 war hubs + **12 deep analyses** (Breitenfeld, Lützen, Blenheim, Rossbach, Leuthen, Austerlitz, Jena–Auerstedt, Borodino/1812, Leipzig, Waterloo, Königgrätz, Sedan) + 4 actors + 3 concepts (limited war → nation in arms → Napoleonic warfare); drafted via "agents draft, I finish"; 0 broken links) |
 | `jablonsky-roots-of-strategy-4-1999.md` | Roots of Strategy, Book 4: Mahan, Corbett, Douhet, Mitchell (ed. David Jablonsky) | 1999 | primary | (Naval & air power theory reader for the [[hubs/warfare/strategy\|Strategy]] sub-hub; "agents draft, I finish" — 4 Sonnet agents, one per theorist; created [[mahan-alfred-thayer\|Mahan]]/[[sea-power]], [[corbett-julian\|Corbett]]/[[maritime-strategy]], [[douhet-giulio\|Douhet]]/[[command-of-the-air]], [[mitchell-william\|Mitchell]]/[[air-power]] + cross-cutting [[strategic-bombardment]] + [[grand-strategy]] + new sub-hub [[hubs/warfare/naval-and-air-power-theory\|Naval & Air Power Theory]]; 0 broken links) |
@@ -509,13 +525,13 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `heuser-evolution-of-strategy-2010.md` | The Evolution of Strategy: Thinking War from Antiquity to the Present (Beatrice Heuser) | 2010 | secondary | (Deployed Subagent Strategy: source page + full Section Plan (7 Parts/20 chs) on main; 50k-line text split to 6 ranges; 6 subagents + main reconciliation + Consolidated Volume Synthesis. Traces fluctuating Western strategic thought (not linear progress): definitions/dimensions, long-term constants (mindsets, ethics, recruitment, battle avoidance), Napoleonic/Total War paradigm & challenges (total mobilisation/annihilation/cult of offensive, indirect approaches, Ludendorff/NS), naval/maritime (Mahan vs Corbett, Jeune École, fleet-in-being, nuclear impact), air/nuclear (Trenchard colonial roots, 4 schools, Brodie deterrence/MAD), asymmetric/small wars (Callwell, Santa Cruz/Lyautey/Galula/Thompson/Petraeus COIN, hearts/minds), post-WW search (Beaufre, Summers Clausewitz critique, limited/coercion/defensive defence, bureaucratic politics). Enriched [[hubs/warfare/strategy]], [[hubs/warfare/warfare-hub]], [[concepts/strategy]], [[concepts/grand-strategy]], [[concepts/total-war]], [[concepts/limited-war]], [[concepts/air-power-theory]], [[concepts/maritime-strategy]], [[concepts/irregular-warfare]], [[concepts/counterinsurgency]], [[concepts/deterrence]]. Cross to Paret 1986, Brands 2023, Freedman 2013, Luttwak, Sun Tzu, Cambridge Strategy History (Duyvesteyn/Heuser). Source + .txt filed to raw/4. Modern Times/. Co-Authored-By: Claude Code (xAI)) |
 | `gat-nations-2013.md` | Nations: The Long History and Deep Roots of Political Ethnicity and Nationalism (Azar Gat & Alexander Yakobson) | 2013 | secondary | (Deep-roots/anti-modernist theory of nationalism; companion to [[gat-war-in-human-civilization-2006\|War in Human Civilization]]; "agents draft, I finish" — 4 Sonnet agents across 7 chapters; created controversy [[antiquity-of-nations]] + concepts [[nation]], [[ethnicity]], [[national-state]], [[premodern-european-nationhood]], [[civic-and-ethnic-nationalism]]; enriched [[nationalism]] (nationalism as political ethnicity); 0 broken links) |
 | `murray-millett-military-innovation-interwar-1996.md` | Military Innovation in the Interwar Period (Williamson Murray & Allan R. Millett, eds.) | 1996 | secondary | (War-college standard on how militaries innovate; companion to [[murray-millett-a-war-to-be-won-2000\|A War to Be Won]] + [[military-effectiveness]]; "agents draft, I finish" — 6 Sonnet agents on the 7 case studies; created framework [[military-innovation]] + concepts [[armored-warfare]], [[amphibious-warfare]], [[carrier-aviation]], [[close-air-support]], [[radar-and-air-defense]], [[submarine-warfare]]; enriched [[strategic-bombardment]]; 0 broken links) |
+| `clausewitz-on-war-1832.md` | On War (Carl von Clausewitz, Howard & Paret trans. 1984) | 1832 (1984 ed.) | primary | (Foundational strategy treatise; 5 subagent ranges + main-thread reconciliation; created/updated 15 concept/actor/hub pages including culminating-point-of-victory, center-of-gravity, absolute-vs-real-war, peoples-war-clausewitz, clausewitz-on-theory, moral-forces-in-war, and Brodie's commentary; 0 broken links in modified files) |
 
 ---
 
 ## Summary Statistics
 
-Counts recounted from disk on **2026-06-22** after the Venture of Islam (3 vols) and Adamson
-*Philosophy in the Islamic World* ingests (the Gap-4b Islamic intellectual-history build).
+Counts recounted from disk on **2026-06-23** after the On War (1832) ingest.
 Per-page new/updated details live in each source page and `log.md`.
 
 | Category | Pages |
@@ -525,11 +541,11 @@ Per-page new/updated details live in each source page and `log.md`.
 | Processes | 314 |
 | Actors | 907 |
 | Places | 159 |
-| Concepts | 689 |
+| Concepts | 704 |
 | Comparisons | 16 |
 | Controversies | 62 |
 | Timelines | 5 |
 | Queries | 0 |
-| Sources | 281 |
+| Sources | 282 |
 | Hubs | 141 |
-| **Total (all `.md`)** | **3087** |
+| **Total (all `.md`)** | **3103** |

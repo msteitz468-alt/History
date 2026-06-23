@@ -9,7 +9,7 @@ affiliated_with: []
 opposed_by: []
 key_events: []
 key_processes: []
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-23
 tags: [actor, person, long-19th-century, western-europe]
 ---
@@ -44,6 +44,46 @@ Freedman pairs Clausewitz with Jomini as the twin exponents of the new science o
 
 Both nonetheless belong to Freedman's "Strategies of Force": their "basic instinct" was that "with the 'retirement of the enemy from the field of battle,' terms could be imposed." This is the opposite pole from the strategies of cunning Freedman associates with [[sun-tzu]] and, later, [[liddell-hart-basil|Liddell Hart]] — Clausewitz "saw little historical evidence that tricks (stratagems) could be effective." His enduring influence lay in grasping the new post-1789 factor of popular passion, "which led him to make it part of his trinity."
 
+## Primary Text: On War — Key Arguments by Book
+
+### Book One: On the Nature of War
+Clausewitz defines war fundamentally as "nothing but a duel on a larger scale," an "act of force to compel our enemy to do our will" (Chapter One, §2). In abstract theory, war is driven to the absolute by three reciprocal interactions: the maximum use of force, the aim to disarm the enemy, and the maximum exertion of strength. In practice, this absolute is moderated because war is never an isolated act, consists of successive decisions, and is subject to the resistant medium of [[friction-in-war]]. 
+* **The Trinity:** War is a "paradoxical trinity" (§28) composed of primordial passion (people), the play of chance and probability (commander and army), and rational subordination to policy (government).
+* **War and Policy:** Section 24 contains the famous dictum: "war is not merely an act of policy but a true political instrument, a continuation of political intercourse, carried on with other means."
+* **Military Genius:** Requisite generalship requires a harmonious combination of intellect and temperament, featuring *coup d’oeil* (intuitive recognition of truth) and determination (moral courage to accept responsibility in danger).
+
+### Book Two: On the Theory of War
+Clausewitz establishes that "a positive doctrine is unattainable" due to moral forces, the positive reaction of the enemy, and the uncertainty of all information (Chapter Two). The proper role of theory is not to serve as an operational manual, but to "guide him in his self-education, not to accompany him to the battlefield."
+
+### Book Three: On Strategy in General
+Strategy is defined as "the use of the engagement for the purpose of the war" (Chapter One). Clausewitz outlines five elements of strategy: moral, physical, mathematical, geographical, and statistical. He asserts the primacy of **moral forces**: "the physical seem little more than the wooden hilt, while the moral factors are the precious metal, the real weapon, the finely-honed blade" (Chapter Three). He identifies "superiority of numbers" as the most general principle of strategy (Chapter Eight) and devalues the geometrical factor relative to Jomini: "this elegant piece of geometry is nothing but a toy" (Book Five Chapter Ten).
+
+### Book Four: The Engagement
+Clausewitz treats the engagement (*Gefecht*) as the center of gravity of war. He argues that defeat is primarily a moral collapse rather than a physical one: "physical casualties are not the only losses... their moral strength is also shaken." Victory requires the enemy’s moral capitulation, which is exploited through pursuit (*Verfolgung*), which Clausewitz notes is often more productive than the battle itself.
+
+### Book Five: Military Forces
+Focuses on operational organization, base of operations, and logistics. Clausewitz insists that **maintenance and supply** must be regarded as a "condition of war, and never as its object" (Chapter Fourteen).
+
+### Book Six: Defense
+The longest book in *On War* establishes that **defense is the stronger form of war** because it has the advantages of waiting, prepared positions, and time, though it serves a negative object (preservation). The active defense culminates in the counteroffensive—the "flashing sword of retaliation." Chapter Twenty-Six ("Arming the Nation") outlines the theory of **peoples' war** (*Volkskrieg*), where scattered popular resistance wears down the occupier like smoldering embers.
+
+### Book Seven: The Attack
+Strategy of the attack is weaker but has a positive purpose (conquest). Its power decays as it advances due to friction and the need to guard territory, leading to the **culminating point of victory**—the point beyond which further advance yields diminishing returns and invites a decisive counter-stroke.
+
+### Book Eight: War Plans
+Clausewitz integrates his theory into a political synthesis. He historicizes absolute war (revealed by Napoleon) and defines the spectrum of real war: from unlimited wars of overthrow to limited wars of limited aims. He establishes that the political object is the supreme governor of war plans, and that the commander-in-chief should be a member of the cabinet.
+
+---
+
+## Historiography: Reception and Misreadings
+
+* **Moltke the Elder:** Helmuth von Moltke closely integrated Clausewitz's emphasis on resolution, *coup d'oeil*, and flexibility into Prussian doctrine. He echoed Clausewitz in viewing strategy as a "system of expedients" under pressure.
+* **Liddell Hart's Misreading:** Post-WWI British critics, notably B. H. Liddell Hart, blamed Clausewitz for the Western Front's attrition, labeling him the "apostle of total war" who prioritized mass and destruction over maneuver. As Bernard Brodie points out, this misreading arose from ignoring Clausewitz's extensive writing on limited war.
+* **Lenin's Marxist Synthesis:** Vladimir Lenin studied *On War* in exile, approvingly quoting §24 and applying the dialectic between war and politics to revolutionary class struggle.
+* **Brodie's Nuclear Synthesis:** Bernard Brodie rescued Clausewitz from twentieth-century obsolescence. He argued that in the nuclear age, where absolute war means mutual destruction, Clausewitz’s insistence on the absolute subordination of military means to political policy is the only rational basis for strategy.
+
+---
+
 ## Related
 
 - [[strategy]]
@@ -52,5 +92,10 @@ Both nonetheless belong to Freedman's "Strategies of Force": their "basic instin
 - [[total-war]]
 - [[limited-war]]
 - [[annihilation-and-exhaustion]]
+- [[peoples-war-clausewitz]]
+- [[clausewitz-on-theory]]
+- [[logistics-and-supply-clausewitz]]
+- [[war-aims-and-limited-war-clausewitz]]
+- [[brodie-on-clausewitz]]
 - [[jomini-antoine-henri|Antoine-Henri Jomini]]
 - [[sources/freedman-strategy-a-history-2013]]

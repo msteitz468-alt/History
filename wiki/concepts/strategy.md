@@ -5,7 +5,7 @@ origin: The Greek *strategos* ("general"); the abstract *strategía* in its mode
 applies_to_periods: [Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 applies_to_regions: [transregional]
 contested: yes
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-23
 tags: [concept]
 ---
@@ -114,6 +114,44 @@ The logic has static (reversal of opposites) and dynamic forms. The "culminating
 See dedicated pages: [[paradoxical-logic-of-strategy]], [[levels-of-strategy]], [[armed-suasion]], [[grand-strategy]], [[military-effectiveness]]. The Millett/Murray/Watman 4-level framework (political/strategic/operational/tactical) and emphasis on (non-)translation of effectiveness across levels, adaptation, and cultural factors provide a structured tool for evaluating military institutions. It complements Luttwak's paradoxical logic (reversals and disharmony) and the practice-focused Cambridge/Murray comparative studies.
 
 This theoretical lens explains why "best" lower-level solutions often fail higher up and why deliberate harmonization across levels and dimensions is required. It complements (and is cross-referenced with) the deflationary "messy, frustrating... ad hockery" verdict of practice studies and Luttwak's own grand strategy analyses (Rome/Byzantium controversy).
+
+## Clausewitz's Definition and Strategic Elements (Book Three)
+
+In Book Three of [[sources/clausewitz-on-war-1832|*On War*]], Carl von Clausewitz establishes his formal definition of strategy and analyzes the core elements that dictate strategic planning and execution.
+
+### The Definition: Tactics vs. Strategy
+Clausewitz draws a sharp, structural distinction between tactics and strategy (Book Three, Chapter One):
+> "Tactics teaches the use of the armed forces in the engagement; strategy, the use of the engagements for the purpose of the war."
+Under this framework, tactics is concerned with the immediate fight—the direct clash of forces in space and time. Strategy, by contrast, operates on a higher plane of logic: it must plan the entire campaign, connect individual battles, and direct their cumulative results toward the political object of the war. Because strategy must deal with the unknown and look far into the future, Clausewitz notes that "in strategy everything is very simple, but that does not mean that everything is very easy."
+
+### The Five Elements of Strategy (Book Three, Chapter Two)
+Clausewitz identifies five distinct categories of factors that shape strategy:
+1. **Moral Elements:** The psychological and spiritual attributes of the commander and the troops.
+2. **Physical Elements:** The size of the army, its composition, and the ratio of branches (infantry, cavalry, artillery).
+3. **Mathematical Elements:** The geometric layout of lines of operations, angles of attack, and concentration.
+4. **Geographical Elements:** The influence of terrain, mountains, rivers, and roads.
+5. **Statistical Elements:** Logistics, supply, and the administrative support system of the state.
+
+### The Primacy of Moral Factors
+Of the five elements, Clausewitz insists that the moral factors are the most critical, yet they are the most frequently ignored by prescriptive theorists who prefer simple, material calculations:
+> "the moral elements are among the most important in war... they constitute the spirit that permeates war as a whole... the physical seem little more than the wooden hilt, while the moral factors are the precious metal, the real weapon, the finely-honed blade" (Chapter Three).
+The primary moral qualities are the commander's talent and resolution, the army’s military virtue (*Kriegertugend*), and the popular passion of the nation. See [[moral-forces-in-war]] for the full analysis.
+
+### Core Strategic Principles in Book Three
+Clausewitz outlines several key operational principles that govern strategy:
+* **Superiority of Numbers:** He calls this "the most general principle of strategy," arguing that "in tactics, as in strategy, superiority of numbers is the most common element in victory" (Chapter Eight). However, strategy must seek this superiority at the *decisive point*, which requires the skill to concentrate forces in space and time.
+* **Surprise and Cunning:** While surprise (*Überraschung*) is the ideal path to superiority, Clausewitz is skeptical of its strategic efficacy: "it is very rare in strategy for one side to surprise the other by some major movement... surprise belongs primarily to tactics" (Chapter Nine). Similarly, he devalues cunning (*List*): "accurate and penetrating understanding is a more useful and essential asset for the commander than any gift for cunning."
+* **Concentration of Forces:** "The best strategy is always to be very strong; first in general, and then at the decisive point... There is no simpler and more imperative rule for strategy than this: keep your forces concentrated" (Chapter Eleven).
+* **Economy of Force:** Clausewitz warns against leaving forces idle. Every soldier must be employed: "all forces destined for a strategic purpose should be used simultaneously... any part of the force that is not active is a source of weakness" (Chapter Fourteen).
+* **Suspension of Action:** Clausewitz notes that actual campaigns are characterized by long pauses: "action in war is never continuous... pause and inaction are the rule, progress the exception" (Chapter Sixteen). This occurs because of friction, the strength of the defense, and the imperfect information of both commanders.
+
+## Clausewitz vs. Jomini on the Geometrical Factor
+
+One of the deepest divisions in nineteenth-century strategic thought was the debate over the "geometrical factor" in war. Antoine-Henri Jomini’s *Précis de l'Art de la Guerre* (1838) argued that strategy was governed by scientific, geometric lines—specifically the use of "interior lines" to concentrate against a divided enemy. 
+
+Clausewitz explicitly rejects this geometric reductionism in Book Three, Chapter Fifteen ("The Geometrical Factor"):
+> "In strategy... the geometrical element is not nearly as important as it is in tactics... this elegant piece of geometry is nothing but a toy: it rests on a series of substitutions at the expense of truth."
+While Jomini treated interior lines and strategic angles as absolute principles, Clausewitz argues that they are constantly modified by friction, terrain, and moral forces. A geometric advantage is useless if the commander lacks the resolution to fight, or if their army suffers from poor morale and bad logistics. Strategy cannot be reduced to a draft-board calculation; it is a human contest of wills operating in a highly resistant element.
 
 ## Limitations
 

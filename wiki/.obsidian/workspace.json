@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3ebb97a2666d4351",
+        "id": "1b0b7189676faa15",
         "type": "tabs",
         "children": [
           {
-            "id": "08418376b00cee67",
+            "id": "4dae37f6fe1a3f0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "battle-of-cannae"
+              "title": "New tab"
             }
           }
         ]
@@ -183,10 +179,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "08418376b00cee67",
+  "active": "4dae37f6fe1a3f0f",
   "lastOpenFiles": [
     "hubs/warfare/warfare-hub.md",
+    "periods/age-of-expansion.md.tmp.462038.9cf498560850",
+    "periods/age-of-expansion.md.tmp.462038.93b0597d11a7",
+    "hubs/warfare/age-of-expansion/american-revolutionary-war/american-revolutionary-war.md",
+    "events/american-revolution.md.tmp.462038.b45996aecfa9",
+    "hubs/warfare/age-of-expansion/american-revolutionary-war/siege-of-yorktown.md",
+    "events/american-revolution.md.tmp.462038.c7977057a2e8",
+    "hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-cowpens.md",
+    "events/battle-of-cold-harbor-1864.md",
+    "events/battle-of-the-wilderness-1864.md",
+    "events/american-revolution.md.tmp.462038.e7eac00cf1fc",
+    "hubs/warfare/long-19th-century/american-civil-war/battle-of-shiloh-1862.md",
+    "events/battle-of-five-forks-1865.md",
+    "hubs/warfare/long-19th-century/american-civil-war/battle-of-nashville-1864.md",
+    "events/battle-of-nashville-1864.md",
+    "events/battle-of-franklin-1864.md",
+    "events/atlanta-campaign-1864.md",
+    "hubs/warfare/age-of-expansion/american-revolutionary-war/american-revolutionary-war.md.tmp.462038.90f14213766d",
+    "hubs/warfare/long-19th-century/american-civil-war/battle-of-chancellorsville-1863.md",
+    "hubs/warfare/long-19th-century/american-civil-war/american-civil-war.md",
+    "hubs/warfare/age-of-expansion/american-revolutionary-war/siege-of-yorktown.md.tmp.462038.42e935b0e9e6",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae.md",
+    "hubs/warfare/long-19th-century/american-civil-war/battle-of-five-forks-1865.md",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae.md.tmp.393460.434ada2ffa7e",
     "hubs/warfare/battle-template.md.tmp.393460.f87eed6fac68",
     "hubs/warfare/templates/battle-analysis-template.md.tmp.393460.1b3c727c880f",
@@ -196,29 +213,8 @@
     "hubs/warfare/battle-template.md",
     "hubs/warfare/templates/battle-analysis-template.md",
     "hubs/warfare/late-bronze-age/hittite-egyptian-wars/battle-of-qadesh-1274bce.md",
-    "hubs/warfare/late-bronze-age/hittite-egyptian-wars",
-    "hubs/warfare/late-bronze-age",
-    "hubs/warfare/classical-antiquity/alexanders-campaigns",
-    "hubs/warfare/templates",
     "hubs/warfare/high-middle-ages/mongol-conquests/battle-of-ain-jalut-1260.md",
-    "hubs/warfare/high-middle-ages/mongol-conquests",
-    "hubs/warfare/high-middle-ages",
     "hubs/warfare/classical-antiquity/second-punic-war/second-punic-war.md",
-    "hubs/warfare/classical-antiquity/second-punic-war",
-    "hubs/themes/warfare.md",
-    "comparisons/theatre-state-and-the-bases-of-power.md",
-    "comparisons/unfree-labor-systems-compared.md",
-    "comparisons/managing-religious-pluralism-compared.md",
-    "hubs/historiography-hub.md",
-    "processes/bourbon-reforms.md",
-    "processes/atlantic-slave-trade.md",
-    "processes/apartheid.md",
-    "processes/agricultural-origins.md",
-    "processes/afro-eurasian-world-system.md",
-    "processes/african-nationalism.md",
-    "processes/african-labour-migration.md",
-    "processes/abolition-of-slavery.md",
-    "comparisons/educational-institutions-in-comparative-perspective.md",
-    "events/battle-of-ain-jalut-1260.md"
+    "hubs/themes/warfare.md"
   ]
 }
