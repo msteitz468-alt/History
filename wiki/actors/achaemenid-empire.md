@@ -9,8 +9,8 @@ affiliated_with: [[[zoroastrianism]], the Persians and Medes]
 opposed_by: [Greek city-states, Scythians, [[alexander-the-great|Macedon]], Egypt (in revolt)]
 key_events: [conquest of Babylon 539 BCE, Greco-Persian Wars 490/480-479 BCE, Battle of Gaugamela 331 BCE]
 key_processes: [[[empire]], [[state-formation]], [[trade-network-formation]]]
-sources_ingested: 3
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-06-23
 tags: [actor, empire, archaic-period, classical-antiquity, iran-plateau]
 ---
 
@@ -68,7 +68,12 @@ franca and tolerated local cults and institutions (even upholding Ionian Greek
 democracies). This rehabilitated, tolerant Achaemenid — against the Greek "oriental
 despotism" trope — is the achievement of the modern "Achaemenid history" school.
 
-## The Eastern Satrapies: Central Asia and the Indus
+The Behistun inscription (see [[behistun-inscription]]) is the primary vehicle for this ideology in Darius's own words. It opens with his genealogy ("I am Darius the king, son of Hystaspes, an Achaemenid, a Persian, son of a Persian, an Aryan, of Aryan seed") and recounts killing the Magian Gaumata (who impersonated Bardiya/Smerdis) and suppressing nine rebellions ("liar-kings") in one year through 19 battles "by the favor of Ahuramazda." All opposition is framed as drauga ("the Lie"); Darius restores arta (truth/order) and the ayadana (places of worship) the usurper had destroyed. The text also lists provinces and records building activities. It is royal propaganda presenting Darius's version, correcting Greek accounts (Herodotus has two Magi; Ctesias uses Spendadates). The 19th-c. vocabulary edition provides etymologies and cross-refs invaluable for philology and history.
+
+## The Eastern Satrapies (enriched from Behistun onomastics)
+Provinces such as Gadara/Gandhara (country along the Indus and tributaries from the mountains; VIIth satrapy), Thatagush/Sattagydia (Paropamisus/Hindu Kush, bounded by Arachosia, Gandara, Margush, Saka), Asagarta (between Media and Parthia, politically tied to Media; rebel Chitratakhma claimed Cyaxares descent), Khwarizm/'Uvarazmish (at Oxus mouth), Athura (Assyria, primitive orthography), and 'Ufratauva (Euphrates, Arian etymology) are attested. Arian colonization inferences (e.g., native names in Susiana revolt imply penetration by Persian monarchy era). Gandhara name later migrated west to Candahar area via ~A.D. 400 relic transport + Yue-chi incursions (Chinese sources trace water-pot of Fo).
+
+## The Eastern Satrapies: Central Asia and the Indus (enriched)
 
 [[boardman-cah-v4-1988|CAH Vol. IV]] (Chs. 3c–3d, Francfort and Bivar) documents the
 empire's **eastern half**, too often overshadowed by the Greek wars. Beyond the
@@ -77,6 +82,8 @@ Margiana, Aria, Arachosia and Drangiana]]** in Central Asia, and **[[gandhara|Ga
 Sattagydia, Pactyica and Hindus]]** along the Indus — that made the Achaemenid state
 an **Indian and Central Asian power**, its frontier the Indus two centuries before
 [[alexander-the-great|Alexander]]:
+
+From the Behistun vocabulary: Gadara/Gandhara = country along the Indus and tributaries descending from the mountains (VIIth satrapy of Herodotus). Thatagush (Sattagydia) = Paropamisus (Hindu Kush) region, bounded by Arachosia, Gandara, Margush, Saka. Arian etymologies throughout; native names in Susiana revolt (Atrina, Upadarma) imply early Arian colonization by the Persian monarchy era. Gandhara name later carried west (to Candahar area) via ~A.D. 400 popular emigration carrying the water-pot relic of Fo (Chinese sources). Khwarizm/'Uvarazmish at the mouth of the Oxus with ancient reverence. Asagarta (Sagartia) between Media and Parthia (politically dependent on Media); rebel Chitratakhma claimed descent from Cyaxares' family; its reduction is claimed by Darius as action "in Media."
 
 - **Reach to the Indus.** Cyrus campaigned through Arachosia to the Hindu Kush; after
   **[[scylax-of-caryanda|Scylax of Caryanda]]** charted the Indus (c. 517), Darius

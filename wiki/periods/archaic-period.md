@@ -7,7 +7,7 @@ date_range: "800–500 BCE"
 regions_covered: [near-east, mesopotamia, levant, anatolia, iran-plateau, mediterranean, iberia, balkans, china, south-asia, north-africa, mesoamerica, andes]
 major_themes: ["the first territorial empires", "Neo-Assyrian and Achaemenid imperialism", "Greek colonization and the polis", "the Axial Age", "alphabetic literacy", "coinage", "the Eastern Zhou and Spring and Autumn period", "Mahajanapadas", "the rise of mounted steppe nomads"]
 collection_coverage: strong
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [period]
 ---
@@ -131,7 +131,7 @@ historical books reach their formative editing; Greek sources begin
 ([[herodotus|Herodotus]], writing in the 5th c., is the great narrative source for
 the Persian Wars and is himself a standing wiki controversy on reliability,
 [[herodotus-reliability]]). Persian self-representation survives in royal
-inscriptions (Behistun) and Persepolis administrative tablets, but the
+inscriptions (Behistun) and Persepolis administrative tablets, but the primary Behistun text (Darius's own account of the rebellions and consolidation) is now directly available via [[behistun-inscription]].
 Greco-Roman lens dominates and must be corrected for.
 
 **Major debates.** The reality and meaning of the [[axial-age|Axial Age]]

@@ -9,7 +9,7 @@ affiliated_with: [the steppe Iranian-speaking nomads, the Greek Black Sea coloni
 opposed_by: [the [[cimmerians|Cimmerians]], Urartu, [[neo-assyrian-empire|Assyria]], the Sarmatians (later), Darius I of Persia (later)]
 key_events: [the displacement of the Cimmerians, the raids into Western Asia, the contribution to the fall of the Cimmerians under Madyes, the trade with Olbia]
 key_processes: [steppe nomadism, the animal-style art tradition, [[trade-network-formation]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-11
 tags: [actor, movement, archaic-period, eurasian-steppe, steppe]
 ---
@@ -90,8 +90,8 @@ empire — the contact-zone that kept Central Asia "militarily active."
   the Amyrgian king Amorges, then met his **death** fighting steppe nomads (the
   Massagetae of Queen **Tomyris**, or the Derbikes). **Darius I** campaigned against
   the **Saka tigrakhauda in 519 BCE**, bridging the Amu Darya, capturing their chief
-  **Skunkha** (depicted, pointed cap and all, on the Bisitun relief), and installing a
-  client — after which the *tigrakhauda* appear in Achaemenid inscriptions.
+  **Skunkha** (Sakukha; depicted with the national high/pointed conical cap on the Behistun relief; Tigrakhuda = "pointed-hatted" or Tigris-dwelling western Saka on the upper Tigris, listed near Babylon/Assyria in satrapy catalogues; high caps link to Nimrud iconography for periods of Scythian control/alliance in Assyria), and installing a
+  client — after which the *tigrakhauda* appear in Achaemenid inscriptions. The Behistun vocabulary (see [[behistun-inscription]]) provides onomastic grounding and art-historical links; the mutilated 5th column records Darius's personal campaign against the Saka.
 - **Service in the empire.** Saka cavalry rode in the Persian army: they broke through
   the **Athenian centre at [[battle-of-marathon-490bce|Marathon]]** (490) beside the
   Persians, served as **marines in Xerxes' navy**, and were among the troops left with
@@ -101,6 +101,8 @@ empire — the contact-zone that kept Central Asia "militarily active."
   **kurgans** — wooden burial chambers under mounds up to 60 m across, with sacrificed
   horses, cannabis-smoking gear (Hdt. IV.73–5), and gold **animal-style** ornament —
   the same culture-complex as the western Scythians, in touch eastward with China.
+
+Sakā tyaiy paradraya ("Scythians beyond the sea") = European/northern Scythians (Thracians and barbarians of the Danube, Dniester, Don regions), separately enumerated from Tigrakhudd in the Nakhsh-i-Rustam satrapy list and subdued in Darius's famous Hellespont expedition (recorded in the mutilated 5th column at Behistun; see [[behistun-inscription]]).
 
 This eastern material confirms the page's central caution: **"Scythian"/"Saka" names a
 shared steppe culture and a recurring Greek/Persian label, not a single nation.**
