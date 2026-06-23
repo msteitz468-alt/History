@@ -20,6 +20,8 @@ tags: [event, early-modern, western-europe, eastern-europe]
 
 # The Thirty Years War (1618–1648)
 
+> **⚔️ Military analysis:** see **[[hubs/warfare/early-modern/thirty-years-war/thirty-years-war|Thirty Years' War — military/operational analysis (the Swedish intervention & the military revolution)]]** in the warfare hub.
+
 The **Thirty Years War** was the great central-European conflict of 1618–48 — at once the
 last and worst of the European wars of religion and the first general war of the modern
 **state system** — fought mainly on the soil of the Holy Roman Empire and ending in the

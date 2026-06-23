@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, atlantic-world, north-america]
 
 # The Seven Years War (1756–1763)
 
+> **⚔️ Military analysis:** see **[[hubs/warfare/age-of-expansion/seven-years-war/seven-years-war|Seven Years' War — operational analysis (Frederick the Great's campaigns)]]** in the warfare hub.
+
 The **Seven Years War** (1756–63) was the first genuinely **global war** — fought across
 Europe, North America, the Caribbean, West Africa, India, and the world's oceans — pitting a
 British–Prussian alliance against a Franco–Austrian–Russian–Spanish coalition. It established

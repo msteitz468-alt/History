@@ -66,6 +66,6 @@ All analyses link reciprocally to the main narrative event page [[events/america
 - [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]]
 - [[hubs/warfare/long-19th-century/american-civil-war| (this war folder)]]
 - Main narrative: [[events/american-civil-war-1861-1865]]
-- Source: [[sources/rogers-seidule-west-point-history-civil-war-2014|The West Point History of the Civil War (Rogers & Seidule, 2014)]]
+- Source: [[sources/rogers-seidule-west-point-history-civil-war-2014|The West Point History of the Civil War (Rogers & Seidule, 2014)]] · **survey context:** [[doughty-gruber-warfare-western-world-v1-1996|Warfare in the Western World, Vol. I]] (Doughty & Gruber, chs. 11–14) frames the war as the move from limited war toward [[total-war|total war]].
 - Specific battle analyses link here and to their events/ pages.
 - Final: [[hubs/warfare/long-19th-century/american-civil-war/appomattox-campaign-1865|Appomattox Campaign — Tactical Analysis]] (drafted from Range 5; expand with other ranges per template).

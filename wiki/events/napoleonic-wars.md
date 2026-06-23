@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, long-19th-century, western-europe]
 
 # The Napoleonic Wars (1803–1815)
 
+> **⚔️ Military analysis:** see **[[hubs/warfare/long-19th-century/napoleonic-wars/napoleonic-wars|Napoleonic Wars — campaign & operational analysis (Austerlitz → Waterloo)]]** in the warfare hub.
+
 The **Napoleonic Wars** were the series of conflicts by which **[[napoleon|Napoleonic France]]**
 fought, and ultimately lost, a bid for mastery of Europe — the climax of the wars begun by the
 [[french-revolution-1789|Revolution]], fought "from the Urals to the Atlantic." They remade the

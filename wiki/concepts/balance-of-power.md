@@ -30,7 +30,7 @@ analytically. Its roots lie in Renaissance Italy's "equilibrium" of five states 
 ## The principle in practice
 
 - **Anti-hegemonial coalitions.** When one power threatens dominance, others combine against
-  it: the Grand Alliance against **Louis XIV** in the **[[war-of-spanish-succession|War of the
+  it: the Grand Alliance against **Louis XIV** in the **[[war-of-the-spanish-succession-1701|War of the
   Spanish Succession]]** (1701–14) is the classic case — fought precisely to prevent a union of
   the French and Spanish crowns.
 - **The "holder of the balance."** A power (often **Britain**) throws its weight to the weaker
@@ -59,7 +59,7 @@ the modern [[strategy|state system]].
 
 ## Related
 
-- [[war-of-spanish-succession]] — the classic balancing war; [[italian-renaissance-state-system]] · [[italian-wars-1494]] — its origins.
+- [[war-of-the-spanish-succession-1701|War of the Spanish Succession]] — the classic balancing war; [[italian-renaissance-state-system]] · [[italian-wars-1494]] — its origins.
 - [[absolutism]] — the domestic counterpart; [[strategy]] · [[strategic-practice-across-civilizations]] — the wider analysis; [[cold-war]] — a modern bipolar balance.
 - [[fiscal-military-state]] — the war-finance machinery competing states needed (Simms on the shifting balance; the emergence of resident diplomacy) ([[oxford-handbook-early-modern-europe-v2|Oxford Handbook]]).
 - [[new-cambridge-modern-history-v6]] · [[oxford-handbook-early-modern-europe-v2]] — the sources.

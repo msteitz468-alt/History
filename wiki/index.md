@@ -497,6 +497,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `murray-making-of-strategy-1994.md` | The Making of Strategy: Rulers, States, and War | 1994 | secondary | (scaffold + 3 staggered subagent ranges + main-thread recovery; 19 chapters of comparative strategic history; 7-factor strategy-making framework and Knox's 3-revolution/continuity framework; updated [[strategy]], [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]], and [[hubs/warfare/strategy|Strategy sub-hub]]) |
 | `millett-murray-military-effectiveness-vol1-wwi-2010.md` | Military Effectiveness, Volume 1: The First World War (Millett & Murray eds., new ed.) | 2010 (orig. 1988) | secondary | (source page + 2 subagent ranges on extracted intro/framework text + main reconciliation; 4-level analytical framework (political/strategic/operational/tactical) for comparative evaluation of 7 powers' WWI performance; adaptation/innovation/cultural factors; new intro reflections on post-Cold War relevance + Iraq lessons; created [[concepts/military-effectiveness]]; updates to strategy hubs/concepts + WWI pages; complements Luttwak + Cambridge strategy sources; Outstanding updated) |
 | `west-point-history-american-revolution-2017.md` | The West Point History of the American Revolution (Rogers & Seidule series eds.; Watson, Lengel, Conway) | 2017 | secondary | (West Point History of Warfare series vol.; military history of the Revolution; 6-chapter Section Plan; 6 subagent claim-digests, all pages main-thread authored; 13 actors + 21 events + west-point + the campaign hub and **18 template-compliant deep battle/siege analyses** in hubs/warfare/age-of-expansion/american-revolutionary-war/; complements [[new-cambridge-modern-history-v8]]; 0 broken links) |
+| `doughty-gruber-warfare-western-world-v1-1996.md` | Warfare in the Western World, Vol. I: Military Operations from 1600 to 1871 (Doughty, Gruber et al.) | 1996 | secondary | (Tier 1 USMA survey backbone; "new material only" scope — Revolution & Civil War cited not re-done; 5 war hubs + **12 deep analyses** (Breitenfeld, Lützen, Blenheim, Rossbach, Leuthen, Austerlitz, Jena–Auerstedt, Borodino/1812, Leipzig, Waterloo, Königgrätz, Sedan) + 4 actors + 3 concepts (limited war → nation in arms → Napoleonic warfare); drafted via "agents draft, I finish"; 0 broken links) |
 
 ---
 
@@ -509,15 +510,15 @@ Per-page new/updated details live in each source page and `log.md`.
 | Category | Pages |
 |---|---|
 | Periods | 35 |
-| Events | 472 |
-| Processes | 312 |
-| Actors | 890 |
+| Events | 473 |
+| Processes | 314 |
+| Actors | 894 |
 | Places | 159 |
-| Concepts | 644 |
+| Concepts | 653 |
 | Comparisons | 16 |
 | Controversies | 61 |
 | Timelines | 5 |
 | Queries | 0 |
-| Sources | 266 |
-| Hubs | 113 |
-| **Total (all `.md`)** | **2978** |
+| Sources | 271 |
+| Hubs | 140 |
+| **Total (all `.md`)** | **3026** |

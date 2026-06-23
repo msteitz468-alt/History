@@ -20,6 +20,8 @@ tags: [event, long-19th-century, western-europe]
 
 # The Unification of Germany
 
+> **⚔️ Military analysis:** see **[[hubs/warfare/long-19th-century/wars-of-german-unification/wars-of-german-unification|Wars of German Unification — operational analysis (the Moltke/Prussian system)]]** in the warfare hub.
+
 The **unification of Germany** was the process (1862–71) by which **Prussia**, under
 **Otto von Bismarck**, united the German states (excluding Austria) into the **German Empire**
 — achieved not by the liberal nationalism of [[revolutions-of-1848|1848]] but by Prussian

@@ -109,4 +109,4 @@ control on which its whole expeditionary posture rested.
 - **Event / narrative:** [[american-revolution]] · **Period:** [[age-of-expansion]]
 - **Army & commanders:** [[continental-army]], [[washington-george]], [[greene-nathanael]], [[cornwallis-charles]]
 - **Strategy concepts:** [[fabian-strategy]], [[fiscal-military-state]], [[military-revolution]]
-- **Source:** [[west-point-history-american-revolution-2017]]
+- **Source:** [[west-point-history-american-revolution-2017]] · **survey context:** [[doughty-gruber-warfare-western-world-v1-1996|Warfare in the Western World, Vol. I]] (Doughty & Gruber, ch. 5) treats the Revolution as "the people at war" within its arc from limited war to the [[nation-in-arms|nation in arms]].
