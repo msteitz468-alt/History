@@ -28,6 +28,14 @@ were transmitted across that gap by an **oral, illiterate** tradition (writing h
 vanished with [[aegean-scripts|Linear B]]). They therefore "may reflect events,
 objects, customs, beliefs and techniques from any or every period within this
 five-hundred-year range" — fusing the **Late Bronze Age** of the subject, the **Dark
+
+## Grounded claims from Odyssey range 3576-7150 (Lombardo trans.)
+
+- "the quarrel Odysseus once had with Achilles... This was the song The renowned bard sang." (Demodocus on Troy events, ll. 847). taxonomy: part_of: [[homeric-poems-as-history]].
+- "It's as if you had been there yourself, Or heard a first-hand account." (Odysseus on Demodocus, ll. 1253). taxonomy: contributed_to: oral tradition claims.
+- Sirens: "We know everything that the Greeks and Trojans Suffered in wide Troy by the will of the gods." (ll. 3062). taxonomy: part_of: [[homeric-poems-as-history]].
+
+Full list and taxonomy on the source page. These support the poems as vehicles for Trojan memory in Early Iron Age context.
 Age** of transmission, and the **Ionian present** of composition into a single
 inseparable amalgam. The historian's task is to identify which element belongs to
 which age — and the chronic danger is that "conservatism or conscious archaism" can

@@ -7,7 +7,7 @@ period_coverage: [High Middle Ages]
 region_coverage: [iberia, north-africa, near-east]
 methodological_approach: [primary source — philosophical rebuttal (point-by-point reply)]
 reliability_notes: "Ibn Rushd's Tahāfut al-Tahāfut (c. 1180), the systematic reply to al-Ghazālī's Incoherence of the Philosophers — quoting al-Ghazālī passage by passage and answering each of his twenty Discussions. Averroes defends the falāsifa (especially Aristotle) but also criticizes Avicenna's Neoplatonizing departures from Aristotle and faults al-Ghazālī's dialectics; he defends real causation against occasionalism and the eternity of the world. Ingested (van den Bergh translation) as the second half of the al-Ghazālī ↔ Ibn Rushd controversy."
-pages_created: 0
+pages_created: 14
 pages_updated: 0
 ingested: 2026-06-22
 tags: [source]
@@ -52,10 +52,26 @@ weighted toward the metaphysics and the key causality reply. Body content: lines
 | **D** God's knowledge & the heavens | 10401–13574 | Metaphysics Disc 12–16 — God's knowledge of Himself and of particulars; the heavens and their movers | `averroes-on-gods-knowledge` |
 | **E** Physics: causality, soul, resurrection | 13575–15200 | Physics Disc 1–4 — the **denial of necessary causation** (vs al-Ghazālī's occasionalism); the soul's immortality; **bodily resurrection** | `averroes-on-causality`, `averroes-on-resurrection`, `averroes-defense-of-philosophy` |
 
-## Claim list (filled on the main thread after agents finish)
+## Claim list — 14 pages (2 scaffold + 12 from 5 agents)
 
-_(to be populated in Step 4)_
+**Scaffold:** [[tahafut-al-tahafut]] · [[philosophy-versus-theology-in-islam]] (controversy).
+**A — Eternity:** [[averroes-on-eternity]] · [[averroes-demonstrative-vs-dialectical]].
+**B — Creation & agency:** [[averroes-on-creation-and-agency]].
+**C — Unity, attributes, simplicity:** [[averroes-on-divine-attributes]] · [[divine-unity-islamic-philosophy]] · [[divine-simplicity-philosophical]] · [[analogical-predication-metaphysics]].
+**D — God's knowledge & the heavens:** [[averroes-on-gods-knowledge]] · [[averroes-on-the-heavens]].
+**E — Causality, soul & resurrection:** [[averroes-on-causality]] · [[averroes-on-resurrection]] · [[averroes-defense-of-philosophy]].
 
 ## Volume Synthesis Note
 
-_(to be written in Step 4 after all agents complete)_
+The second half of the [[philosophy-versus-theology-in-islam|al-Ghazālī ↔ Ibn Rushd controversy]], pairing
+each Averroist reply with the al-Ghazālī page from the previous ingest: [[averroes-on-eternity]] answers
+[[eternity-of-the-world]], [[averroes-on-causality]] answers [[ghazali-on-causality]],
+[[averroes-on-gods-knowledge]] answers [[god-knowledge-of-particulars]], and
+[[averroes-on-resurrection]] answers [[bodily-resurrection-islam]]. Its two-front argument is captured
+throughout — against [[al-ghazali|al-Ghazālī]] (whose refutations Averroes deems merely
+[[averroes-demonstrative-vs-dialectical|dialectical, not demonstrative]]) and against [[ibn-sina|Avicenna]]
+(whose [[emanationism-avicennan|emanation]] and [[necessary-being-avicenna|necessary/contingent]] scheme
+Averroes treats as a Neoplatonic distortion of Aristotle). The [[averroes-defense-of-philosophy|defense of
+philosophy]] and the [[averroes-on-causality|defense of real causation]] became, via
+[[arabic-philosophy-latin-reception|the Latin translation]], foundational for [[latin-averroism|Latin
+Averroism]]. Completes the controversy and rounds out the wiki's classical Islamic philosophy.
