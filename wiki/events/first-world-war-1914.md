@@ -13,7 +13,7 @@ scale_immediate: civilizational
 scale_consequential: global
 causes: [[[causes-of-the-first-world-war|see the origins controversy]], the alliance system, militarism and mobilization timetables, [[nationalism]], [[imperialism|imperial rivalry]], the July Crisis]
 consequences: [collapse of the Habsburg/Romanov/Ottoman/Hohenzollern empires, the Russian Revolution, the Versailles settlement, [[communism-and-fascism|communism and fascism]], the path to the [[second-world-war-1939|Second World War]]]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-13
 tags: [event, world-wars-era, western-europe]
 ---
@@ -78,6 +78,8 @@ war-guilt clause of Versailles through the **Fischer controversy** (German respo
 "shared-responsibility" and contingency accounts (Clark's *Sleepwalkers*). The war's conduct and meaning
 are also contested: the "lions led by donkeys" critique of the generals versus revisionist "learning
 curve" accounts of the British army.
+
+Military effectiveness is analyzed comparatively in Millett and Murray, *Military Effectiveness*, Vol. 1 (new ed. 2010) via a 4-level framework (political, strategic, operational, tactical). Key insight: excellence at lower levels does not redeem higher-level failures (German tactical brilliance produced more total defeats due to strategic myopia). Editors' 2010 introduction stresses adaptation/innovation under uncertainty, cultural factors, and lessons for later conflicts (Iraq 2003: conventional success followed by failure to recognize/adapt to insurgency; "déjà vu" with Vietnam; Mattis on studying history). Provides an essential analytical baseline beyond narrative/operational accounts.
 
 ## Related pages
 

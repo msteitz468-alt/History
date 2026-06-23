@@ -29,7 +29,7 @@ Livy, *Hannibal's War* · the CAH volumes · Cold War (Westad; Leffler–Westad 
 | *Warfare in the Western World* — Robert Doughty et al. (2 vols) | `[BUY]` | ❌ | The USMA survey text; operations + tactics across all periods. |
 | *The Art of War in the Western World* — Archer Jones | `[BUY]` | ❌ | Operational/tactical analysis spanning antiquity→modern; excellent structural backbone. |
 | *A War to Be Won* — Williamson Murray & Allan R. Millett | `[BUY]` | ❌ | Gold-standard operational synthesis of WWII for graduate teaching. |
-| *Military Effectiveness* — Allan R. Millett & Williamson Murray (eds., 3 vols) | `[LIBRARY]` | ❌ | The analytical framework set (political/strategic/operational/tactical levels). |
+| *Military Effectiveness* — Allan R. Millett & Williamson Murray (eds., 3 vols) | `[LIBRARY]` | 🟡 | Vol. 1 (WWI, new ed. 2010) ingested: source page + framework claims (4 levels: political/strategic/operational/tactical; non-translation of excellence e.g. German case; adaptation/innovation/cultural factors; editors' 2010 intro on post-Cold War/Iraq lessons); new [[concepts/military-effectiveness]]; updates to [[concepts/strategy]], warfare hubs. Vols. 2–3 pending. Analytical baseline for military institutions. | 
 | *Military Innovation in the Interwar Period* — Williamson Murray & Allan R. Millett (eds.) | `[BUY]` | ❌ | Case method for doctrine/innovation; staple grad text. |
 | *The Making of Strategy: Rulers, States, and War* — Williamson Murray, MacGregor Knox & Alvin Bernstein (eds.) | `[BUY]` | ✅ | Fully ingested 2026-06-23: source page, 19 chapters of claims, 7-factor strategy-making framework, Knox's 3-revolutions. |
 

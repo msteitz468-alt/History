@@ -7,7 +7,7 @@ tags: [hub, warfare, strategy]
 
 # Warfare & Strategy Hub
 
-> Warfare is one of the densest themes in the wiki, with hundreds of battle, war, siege, and conquest events plus the processes, institutions, and ideas that made organized violence possible. This hub treats **warfare** (the conduct, technology, and organization of armed conflict) and **strategy** (the linking of political ends to military and non-military means) as an integrated domain of historical analysis. See the dedicated sub-hub [[hubs/warfare/strategy|Strategy]] for the paradoxical logic of strategy, levels framework, armed suasion, and comparative practice (Luttwak, Cambridge History of Strategy, etc.).
+> Warfare is one of the densest themes in the wiki, with hundreds of battle, war, siege, and conquest events plus the processes, institutions, and ideas that made organized violence possible. This hub treats **warfare** (the conduct, technology, and organization of armed conflict) and **strategy** (the linking of political ends to military and non-military means) as an integrated domain of historical analysis. See the dedicated sub-hub [[hubs/warfare/strategy|Strategy]] for the paradoxical logic of strategy, levels framework, armed suasion, and comparative practice (Luttwak, Cambridge History of Strategy, Millett/Murray military effectiveness framework, etc.).
 
 ## Detailed Hierarchical Structure
 

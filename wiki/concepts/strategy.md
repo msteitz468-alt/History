@@ -111,7 +111,9 @@ The logic has static (reversal of opposites) and dynamic forms. The "culminating
 
 **Armed suasion** (deterrence/compellence via posture) is pervasive and likewise paradoxical (effective dissuasion invites circumvention via subversion/proxy wars; latent suasion common; "more" can be less). Nuclear deterrence as extreme case. Postheroic limits (casualty aversion in low-birth-rate societies) shrink usable domains to remote bombardment.
 
-See dedicated pages: [[paradoxical-logic-of-strategy]], [[levels-of-strategy]], [[armed-suasion]], [[grand-strategy]]. This theoretical lens explains why "best" lower-level solutions often fail higher up and why deliberate harmonization across levels and dimensions is required. It complements (and is cross-referenced with) the deflationary "messy, frustrating... ad hockery" verdict of practice studies and Luttwak's own grand strategy analyses (Rome/Byzantium controversy).
+See dedicated pages: [[paradoxical-logic-of-strategy]], [[levels-of-strategy]], [[armed-suasion]], [[grand-strategy]], [[military-effectiveness]]. The Millett/Murray/Watman 4-level framework (political/strategic/operational/tactical) and emphasis on (non-)translation of effectiveness across levels, adaptation, and cultural factors provide a structured tool for evaluating military institutions. It complements Luttwak's paradoxical logic (reversals and disharmony) and the practice-focused Cambridge/Murray comparative studies.
+
+This theoretical lens explains why "best" lower-level solutions often fail higher up and why deliberate harmonization across levels and dimensions is required. It complements (and is cross-referenced with) the deflationary "messy, frustrating... ad hockery" verdict of practice studies and Luttwak's own grand strategy analyses (Rome/Byzantium controversy).
 
 ## Limitations
 
