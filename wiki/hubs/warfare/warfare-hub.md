@@ -75,9 +75,9 @@ These problems reset with each technological or social change:
 
 Strategy is the bridge between political purpose and the use (or threat) of force.
 
-See the dedicated sub-hub:
+See the dedicated sub-hubs:
 
-**[[hubs/warfare/strategy|Strategy]]**
+**[[hubs/warfare/strategy|Strategy]]** · **[[hubs/warfare/naval-and-air-power-theory|Naval & Air Power Theory]]** (Mahan, Corbett, Douhet, Mitchell — the modern theory of the sea and air domains)
 
 ## Deep-Time Evolutionary Baseline (Gat 2006)
 

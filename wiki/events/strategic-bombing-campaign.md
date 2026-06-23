@@ -29,8 +29,10 @@ the destruction of cities).
 
 ## Narrative
 
-Pre-war air-power theory (Douhet, Trenchard, the US "industrial web" school) held that fleets of
-bombers could be decisive by themselves. After the German *Blitz* on British cities (1940–41) and
+Pre-war air-power theory ([[douhet-giulio|Douhet]], Trenchard, [[mitchell-william|Mitchell]], the
+US "industrial web" school) held that fleets of bombers could be decisive by themselves — the
+doctrine of [[strategic-bombardment]] and [[command-of-the-air]] (see the
+[[hubs/warfare/naval-and-air-power-theory|Naval & Air Power Theory]] sub-hub). After the German *Blitz* on British cities (1940–41) and
 the discovery that bombers could not hit precise targets by night, **RAF Bomber Command** turned to
 **area bombing** of German cities (the dehousing of workers and the breaking of morale), while the
 **US Army Air Forces** pursued daylight "precision" bombing of key industries (oil, ball-bearings,

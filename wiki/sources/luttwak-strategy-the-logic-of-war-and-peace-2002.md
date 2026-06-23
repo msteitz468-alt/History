@@ -37,7 +37,7 @@ The work emphasizes that linear, "more is better" or direct approaches routinely
 
 ## Use in the Wiki
 - Primary theoretical grounding for updates to [[concepts/strategy]], new or expanded pages on paradoxical logic, levels of strategy, armed suasion, and grand strategy.
-- Enriches [[hubs/warfare/strategy.md]] and [[hubs/warfare/warfare-hub]] with Luttwak's framework as a major 20th-century contribution (contrasted with practice-oriented Cambridge/Murray syntheses already used).
+- Enriches [[hubs/warfare/strategy]] and [[hubs/warfare/warfare-hub]] with Luttwak's framework as a major 20th-century contribution (contrasted with practice-oriented Cambridge/Murray syntheses already used).
 - Cross-links to existing Luttwak references: [[controversies/roman-grand-strategy]] (Luttwak's earlier grand strategy model for Rome), and his Byzantine work ([[luttwak-grand-strategy-of-the-byzantine-empire-2009]]; richer diplomacy + maneuver system for survival in weakness; feeds [[concepts/byzantine-grand-strategy]] and [[hubs/warfare/strategy]]).
 - Examples (e.g., nuclear deterrence paradoxes, Gulf War, WWII air power) can inform relevant event/hub pages and the WWII war hub.
 - Complements other strategy sources in the collection (Cambridge History of Strategy volumes, Murray et al. *The Making of Strategy*).
