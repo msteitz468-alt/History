@@ -79,6 +79,17 @@ See the dedicated sub-hub:
 
 **[[hubs/warfare/strategy|Strategy]]**
 
+## Deep-Time Evolutionary Baseline (Gat 2006)
+
+Azar Gat's *War in Human Civilization* (2006) supplies the ultimate-cause foundation for the hub's long arc:
+
+- War predates agriculture and the state by the full span of Homo evolution (~99.5% of genus history spent as hunter-gatherers). Violent death rates in many documented forager societies reached 15–35% of adult males (raids and ambushes the lethal norm; open battles rarer). Motivations: resources (especially meat), reproductive access (women as primary "prize"), status, revenge, and coalitional psychology rooted in kin selection and ethnocentrism. See [[concepts/hunter-gatherer-warfare]] and [[concepts/evolutionary-origins-of-war]].
+- Agriculture/sedentism scaled violence (storable wealth, population density, fortifications as sedentism response rather than war "invention"). Tribal raiding endemic; pastoralists often more predatory than foragers due to mobility + numbers.
+- The state (Leviathan) is largely a "spin-off" of war-making: superior war performers suppressed internal feuds while projecting force, enabling dense ordered societies, division of labour, and civilization — at the cost of hierarchy and exposure to larger wars. Per-capita violent death often fell under effective states except during their most destructive conflicts.
+- Modernity (guns + markets → fiscal-military states; industrial explosion; liberal democracy + ultimate weapons) flipped the calculus for affluent liberal polities: positive-sum growth and nuclear stakes made major war between them irrational and rare. Pre-modern participatory polities (Athens, Rome) still voted for material agrarian gains through war. Risks persist via failed states, nationalism, and proliferation.
+
+Cross-reference: full source page [[gat-war-in-human-civilization-2006]]; [[processes/evolution-of-war]]; period pages from deep-prehistory through contemporary. Complements operational analyses (West Point vols, Murray & Millett, Luttwak) with evolutionary and anthropological depth.
+
 It organizes coverage of strategic practice, recurring features, major traditions, and a curated list of illustrative events/campaigns (with direct links to the event pages where they exist). The flagship resource remains:
 
 **[[strategic-practice-across-civilizations|Strategic Practice across Civilizations]]** — the major cross-civilizational comparison (universal features vs. culture-specific ways of war). Key verdict: actual practice was usually "messy, frustrating, and often guided by luck" rather than the clean rational model of modern theory.
