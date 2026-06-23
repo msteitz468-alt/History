@@ -2,9 +2,15 @@
 title: "Warfare & Conflict — Thematic Hub"
 hub_type: theme
 theme: warfare
-last_updated: 2026-06-22
+last_updated: 2026-06-23
 tags: [hub, theme, warfare]
 ---
+
+> **Note:** This page has been superseded. Please use the dedicated first-class hub:
+
+**[[hubs/warfare/warfare-hub|Warfare & Strategy Hub]]**
+
+It provides expanded coverage of operational warfare (chronological transformations, recurring problems, logistics, domains) and strategic thought/traditions, with live Bases views and integration of the major [[strategic-practice-across-civilizations|strategic practice comparison]]. All future development lives there.
 
 # Warfare & Conflict — Thematic Hub
 

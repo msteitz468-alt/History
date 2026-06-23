@@ -80,3 +80,5 @@ strictly universal.
 - [[mongol-army]] · [[raja-mandala]] · [[kautilyan-statecraft]] · [[military-revolution]] — specific strategic systems and turning points.
 - [[cambridge-history-of-strategy-v1]] · [[cambridge-history-of-strategy-v2]] — the sources.
 - [[empire-formation-and-collapse-patterns]] — narrow focus on surplus-extraction mechanisms as a residual structural variable.
+- [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]] — the dedicated top-level hub (with [[hubs/warfare/strategy|Strategy]] sub-page).
+- [[hubs/warfare/strategy|Strategy]] — the dedicated strategy sub-hub page.

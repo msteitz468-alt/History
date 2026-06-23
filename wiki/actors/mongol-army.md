@@ -80,6 +80,7 @@ Yasa]]. Its limits — logistics and pasture — were as historically decisive a
 - [[pastoral-nomadism]] — the society that produced it; [[mongol-conquests-13th-century]] — its campaigns.
 - [[the-mongol-yasa]] — the decrees behind the "Yasa" myth; [[battle-of-ain-jalut-1260]] — the limit it met.
 - [[morgan-the-mongols]] — the source.
+- [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]] — primary landing page for all military history and strategy content (steppe warfare, operational art, etc.).
 
 **Claims from Secret History (de Rachewiltz, ll. 4001–7000)**:
 - Pre-proclamation decimal usage: allies field "two units of ten thousand" (ll. 4051); "one unit of ten thousand" (ll. 4071); coalition vs Chinggis "three units of ten thousand" (ll. 5256). `part_of: [[mongol-army]]` early decimal before full 1206 organization.

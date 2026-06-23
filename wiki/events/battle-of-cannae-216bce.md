@@ -74,3 +74,4 @@ military theory.
 - Part of: [[second-punic-war-218-201bce]] · commander: [[hannibal]]
 - Response: [[fabian-strategy]] · [[fabius-maximus]]
 - Consequence: defection of [[syracuse]] · source: [[astin-cah-v8-1989]]
+- **Detailed Tactical Analysis**: [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae|West Point-style analysis of objectives, deployment, phases, and lessons learned]]

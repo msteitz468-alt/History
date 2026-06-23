@@ -116,6 +116,9 @@ model and its role in explaining European expansion.
 
 ## Related
 
+- [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]] — the dedicated hub for warfare transformations and strategic practice (includes the Military Revolution debate and the broader early-modern transformation).
+- [[hubs/warfare/strategy|Strategy]] sub-page — for the strategic implications of the revolution.
+
 Builds on the wiki's [[military-history-middle-millennium]] (the 500–1500
 backdrop) and feeds [[state-formation]] and [[empire]]. Contrasts with the
 European maritime dimension — naval mastery, not land tactics, was where British

@@ -83,3 +83,4 @@ in reading ancient royal sources. Absolute dates depend on the
 - Combatants: [[ramesses-ii]] · [[muwatalli-ii]] · States: [[new-kingdom-egypt]] · [[hittites]]
 - Outcome: [[egyptian-hittite-treaty-1259bce]] · Place: [[ugarit]] (sent a contingent) · Amurru
 - Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]
+- **Detailed Tactical Analysis**: [[hubs/warfare/late-bronze-age/hittite-egyptian-wars/battle-of-qadesh-1274bce|West Point-style analysis of the Hittite ambush and Egyptian recovery]].

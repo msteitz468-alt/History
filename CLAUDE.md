@@ -60,7 +60,7 @@ wiki/
   actors/               # People, states, dynasties, institutions, movements
   places/               # Geographic and political entities
   concepts/             # Analytical and historiographical frameworks
-  comparisons/          # Cross-period, cross-civilization comparison pages
+  comparisons/          # Cross-period, cross-civilization comparison pages (see comparisons-plan.md for the plan)
   controversies/        # Disputed interpretations and scholarly debates
   timelines/            # Standalone chronological reference pages
   queries/              # Filed answers to significant questions
@@ -470,7 +470,7 @@ page — this conflict is often more significant than purely textual disputes.
 
 ---
 
-## Ingest Workflow — Deployed Subagent Strategy (DEFAULT, as of 2026-06-22)
+## Ingest Workflow — Deployed Subagent Strategy (DEFAULT, as of 2026-06-22; staggered batching added for rate limits)
 
 This is the **primary ingest method for all sources going forward.** It parallelizes
 claim extraction across Sonnet subagents while keeping all scaffolding, reconciliation,
@@ -511,7 +511,7 @@ Divide the raw text into **N contiguous, non-overlapping chunks** by line number
   doesn't fight the weighting* — content weight wins over tidy boundaries.
 - Ranges must be **disjoint** — every line belongs to exactly one chunk.
 
-### Step 3 — Spawn one Sonnet subagent per chunk (parallel / background)
+### Step 3 — Spawn one Sonnet subagent per chunk (staggered batches + background)
 
 Use the Agent tool with **`model: sonnet`** and `run_in_background: true`, one agent per
 chunk. Each agent's prompt must contain:
@@ -522,6 +522,20 @@ chunk. Each agent's prompt must contain:
   title namespace/prefix or topic set so **two agents never write the same file**.
 - The instruction to extract claims **with grounding quotes from its range only** — no
   outside knowledge, no reading beyond its range.
+
+**Staggered deployment (rate-limit mitigation):** Never launch all subagents at once.
+Spawn in small batches of 2 (or at most 3 for lighter/thinner ranges). After issuing the
+`spawn_subagent` calls for a batch, run `run_terminal_command` with `sleep 35` (35 seconds)
+before launching the next batch. This spaces out peak concurrent TPM usage. Use 65 seconds
+(or longer) if rate limits (429 / token exhaustion) occur again. Collect every returned
+subagent task_id. Once all batches are launched, use `wait_commands_or_subagents`
+(mode "wait_all" or "wait_any") and/or `get_command_or_subagent_output` (polling specific
+ids) to monitor progress and completion. Always prepare small per-range cache files first
+(`/tmp/..._cache/range_N_START_END.txt` or equivalent) so each agent can do cheap one-shot
+reads of *only* its slice. If any subagent fails (e.g. 429 resource-exhausted), the main
+thread performs immediate recovery for *that range alone* (read its small cache slice via
+sed/read_file and extract the claims), labels the block "Main-thread recovery (rate limit
+on subagent)", and lets the other agents continue. Do not restart a rate-limited agent.
 
 ### Step 4 — Review and tie together, on the main thread
 
@@ -847,6 +861,8 @@ event pages. File in `wiki/events/` with tag `transition`. Standing list:
 
 ### Comparative Civilization Pages
 Explicit structural comparisons. File in `wiki/comparisons/`. File permanently.
+
+See `comparisons-plan.md` (in the repo root) for the detailed implementation plan, prioritized pages, frontmatter template, and workflow.
 
 ### Counterfactual Pages
 File in `wiki/queries/` with tag `counterfactual`.

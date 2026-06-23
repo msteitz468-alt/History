@@ -62,3 +62,4 @@ the Mamluks then defended for decades.
 - `caused_by:` the [[mongol-empire|Mongol]] invasion and the sack of Baghdad (1258).
 - `produced:` the consolidation of the [[mamluk-sultanate|Mamluk Sultanate]] and the rise of Baybars.
 - `analogous_to:` the later Mamluk victory at Homs (1281) — the Euphrates frontier held.
+- **Detailed Tactical Analysis**: [[hubs/warfare/high-middle-ages/mongol-conquests/battle-of-ain-jalut-1260|West Point-style analysis of the Mamluk ambush, terrain use, and Mongol errors]].

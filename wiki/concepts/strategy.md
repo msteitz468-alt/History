@@ -92,3 +92,4 @@ biasing the record toward states and the West.
 - [[military-revolution]] — the early-modern transformation of the *means* of strategy.
 - [[kautilyan-statecraft]] · [[raja-mandala]] — an ancient Indian theory of statecraft and interstate strategy.
 - [[cambridge-history-of-strategy-v1]] · [[cambridge-history-of-strategy-v2]] — the sources.
+- [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]] and [[hubs/warfare/strategy|Strategy]] sub-page — the dedicated hub coverage.

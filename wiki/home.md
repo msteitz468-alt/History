@@ -29,11 +29,16 @@ History is anchored in **time**. Every page belongs to at least one of the 24 pe
 
 Cross-cutting dynamics that run across every period and region.
 
-- **[[hubs/themes/warfare|Warfare & Conflict]]** _(built)_
 - [[hubs/themes/religion|Religion & Belief]] · [[hubs/themes/trade-economy|Trade & Economy]] ·
   [[hubs/themes/state-formation|State Formation]] · [[hubs/themes/technology|Technology]] ·
   [[hubs/themes/disease-demography|Disease & Demography]] · [[hubs/themes/empire-and-collapse|Empire & Collapse]]
   _(stubs — being filled in)_
+
+## Warfare & Strategy
+
+A first-class domain with its own dedicated hub — operational conduct of war and the linking of political ends to force.
+
+- **[[hubs/warfare/warfare-hub|Warfare & Strategy Hub]]** (chronological transformations, recurring problems, strategic traditions, logistics & finance, ideas of war; live Bases views for events and processes; flagship [[strategic-practice-across-civilizations|strategic practice comparison]])
 
 ---
 
