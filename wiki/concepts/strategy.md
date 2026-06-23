@@ -153,6 +153,14 @@ Clausewitz explicitly rejects this geometric reductionism in Book Three, Chapter
 > "In strategy... the geometrical element is not nearly as important as it is in tactics... this elegant piece of geometry is nothing but a toy: it rests on a series of substitutions at the expense of truth."
 While Jomini treated interior lines and strategic angles as absolute principles, Clausewitz argues that they are constantly modified by friction, terrain, and moral forces. A geometric advantage is useless if the commander lacks the resolution to fight, or if their army suffers from poor morale and bad logistics. Strategy cannot be reduced to a draft-board calculation; it is a human contest of wills operating in a highly resistant element.
 
+## Van Creveld on Command and the Management of Uncertainty
+
+In *[[sources/van-creveld-command-in-war-1985|Command in War]]* (1985), Martin van Creveld supplies a vital operational dimension to strategic theory by defining command as a perpetual quest for certainty. Every command system is designed to overcome "the fog of war" by gathering, processing, and acting upon information. Van Creveld identifies a fundamental strategic choice in how military organizations manage uncertainty:
+- **Centralized Control (*Befehlstaktik*):** Attempting to process all information at headquarters to issue detailed, centralized directives. This often leads to information overload, paralysis, and micro-management.
+- **Decentralized Mission Command (*[[concepts/auftragstaktik|Auftragstaktik]]*):** Tolerating uncertainty by pushing decision-making authority down to subordinate commanders who possess immediate, local ground-truth, guided only by the high-level intent of the commander.
+
+To prevent the inevitable distortion of reports through formal hierarchical channels, commanders historically rely on the **[[concepts/directed-telescope|Directed Telescope]]**—informal observers, aides, or liaison officers sent directly to critical points to verify reports and report back ground-truth directly. Command is thus not a static hierarchy but a dynamic, adaptive system balancing centralized intent with decentralized execution.
+
 ## Limitations
 
 As an etic category, "strategy" risks **anachronism** (reading modern instrumental

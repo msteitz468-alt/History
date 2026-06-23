@@ -57,7 +57,7 @@ Livy, *Hannibal's War* · the CAH volumes · Cold War (Westad; Leffler–Westad 
 
 | Source | Flag | Status | Notes |
 |---|---|---|---|
-| *Supplying War* — Martin van Creveld | `[BUY]` | ❌ | ⭐ Logistics from Wallenstein→Patton; essential and under-taught. |
+| *Supplying War* — Martin van Creveld | `[BUY]` | ✅ | Ingest complete (source page + 6 subagent ranges on extracted text + main reconciliation + Consolidated Volume Synthesis). Classic case-study analysis of logistics as the fundamental constraint on strategy (magazine system, living off the country, railways, motorization). Enriched [[hubs/warfare/strategy]], [[hubs/warfare/operational-art]], [[hubs/warfare/logistics]], [[hubs/warfare/warfare-hub]]; key concepts (magazine-system, line-of-communication, umbilical-cord-of-supply). Source + EPUB filed to raw/4. Modern Times/. | 
 | *Command in War* — Martin van Creveld | `[BUY]` | ❌ | The history of command-and-control. |
 | *Technology and War* — Martin van Creveld | `[BUY]` | ❌ | Technology's effect on the conduct of war. |
 | *The Face of Battle* — John Keegan | `[BUY]` | ❌ | ⭐ The tactical-experience method (Agincourt / Waterloo / Somme). Template for battle pages. |
