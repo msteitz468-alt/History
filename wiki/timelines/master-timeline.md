@@ -1,7 +1,7 @@
 ---
 title: Master Timeline
 hub_type: timeline
-last_updated: 2026-06-22
+last_updated: 2026-06-22 (cross-checked against The Times Atlas of World History 1999 ed. for selected geographic/chronological anchors)
 tags: [hub, timeline]
 ---
 

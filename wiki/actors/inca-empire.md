@@ -9,8 +9,8 @@ affiliated_with: ["the Inca of Cuzco", "the Sun cult (Inti)", [[tiwanaku|Tiwanak
 opposed_by: ["the Chanca confederation", "the Chimú", "the Spanish"]
 key_events: ["the Chanca war and Pachacuti's accession (1438)", "the expansion into the four suyos", "the Spanish conquest (1532–1533)"]
 key_processes: [[[andean-state-formation]], [[state-formation]], [[empire]]]
-sources_ingested: 5
-last_updated: 2026-06-13
+sources_ingested: 6
+last_updated: 2026-06-22
 tags: [actor, empire, late-middle-ages, andes]
 ---
 
@@ -72,8 +72,8 @@ million people** across a million square kilometres in scarcely a century. Moder
 the story back: the pre-imperial **Killke phase** began c. 1000 CE and the Incas dominated the Cuzco
 basin by the early 1300s — so the [[pachacuti|Pachacuti]] narrative (the Chanca war, conventionally
 1438) caps a **century-long** local rise, not a sudden one. Expansion ran through **Pachacuti →
-Thupa Inka Yupanki → Wayna Qhapaq** (who died c. 1527 in an Ecuador **smallpox** epidemic, triggering the
-**Waskhar–Atawallpa** civil war that Atawallpa won just as Pizarro landed in 1532). The empire's tools:
+Thupa Inka Yupanki → Wayna Qhapaq** (who died in the 1520s in a pre-Pizarro epidemic — "their faces being covered with scabs"; most sources identify smallpox — killing the emperor, heir Ninan Cuyoche, generals Mihcnaca Mayta, governors, and many royals and triggering the
+**Waskhar–Atawallpa** civil war that Atawallpa won just as Pizarro landed in 1532). "Had the land not been divided between Huascar and Atahualpa, we would not have been able to enter or win the land unless we could gather a thousand Spaniards..." (Pedro Pizarro). The empire's tools:
 
 - **Militarism of logistics, not technology** — modular armies of conscripts (war as a **labour duty**,
   the *mit'a*), each ethnic unit in its own dress and arms; success owed to alliances, overwhelming force,

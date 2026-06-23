@@ -9,8 +9,8 @@ affiliated_with: [[[tenochtitlan|Tenochtitlan]], "the Mexica", "the Triple Allia
 opposed_by: ["the Tarascan/Purépecha Empire", "Tlaxcala", "conquered Mesoamerican city-states", "the Spanish"]
 key_events: ["formation of the Triple Alliance (1428)", "imperial expansion under Moctezuma I and Ahuitzotl", "the Spanish conquest (1519–1521)"]
 key_processes: [[[mesoamerican-state-formation]], [[state-formation]], [[empire]]]
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-06-22
 tags: [actor, empire, late-middle-ages, mesoamerica]
 ---
 
@@ -83,9 +83,9 @@ Cholula, Huexotzinco) for sacrificial captives.
 The conquest, too, Berdan reads from the **indigenous** side (Ch. 10): the fall of Tenochtitlan (1521)
 was not the end of the Aztec world but the start of a fraught **blending** — in 1524 the *tlamatinime*
 (wise men) courteously but firmly refused the friars' demand to abandon their gods, and Nahua artisans
-soon rendered Christian triptychs in traditional **featherwork**. *(The conquest has its own page —
+soon rendered Christian triptychs in traditional **featherwork**. The smallpox pandemic of 1520 (introduced via Narváez's black slave who "quickly infected the whole country") killed Cuitláhuac and vast numbers during the siege ("streets... filled with bodies"; "They died in heaps, like bedbugs," per Motolinía); it provided Cortés critical respite after the Noche Triste and shattered command structures. *(The conquest has its own page —
 [[spanish-conquest-of-mexico-1519]] — told from the Nahua side via [[leon-portilla-broken-spears|The
-Broken Spears]] and, next, the Spanish side via Bernal Díaz.)* See [[aztec-religion-and-human-sacrifice]]
+Broken Spears]] and, next, the Spanish side via Bernal Díaz; see also Crosby Ch. 2 for the virgin-soil mechanics.)* See [[aztec-religion-and-human-sacrifice]]
 and [[aztec-economy]] for the cosmology and the market-and-pochteca economy.
 
 ## Significance

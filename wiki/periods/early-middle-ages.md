@@ -7,7 +7,7 @@ date_range: "600–1000 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, arabian-peninsula, central-asia, north-africa, west-africa, east-africa, south-asia, china, japan, korea, steppe, indian-ocean, silk-road]
 major_themes: ["the rise of Islam and the caliphates", "the Abbasid golden age", "Tang China and the second Silk Roads era", "the Carolingian Empire", "Byzantium's survival and golden age", "the formation of Japan and unified Korea", "trans-Saharan and Indian Ocean trade", "the spread of world religions", "post-imperial state-building", "barbarian law codes and wergild", "the North Sea emporium network (wics)", "the gold-to-silver monetary transition (sceattas)", "proprietary churches (Eigenkirchen)", "Insular art and Northumbrian learning", "Christianisation of the Germanic and Anglo-Saxon peoples"]
 collection_coverage: strong
-sources_ingested: 10
+sources_ingested: 11
 last_updated: 2026-06-22
 tags: [period]
 ---
@@ -27,7 +27,7 @@ within a century of the Hijra (622 CE) the Arab conquests had absorbed the entir
 African provinces, reaching the Indus and the Atlantic. The
 **[[abbasid-caliphate|Abbasid Caliphate]]** (from 750, capital [[baghdad|Baghdad]])
 presided over a cultural and scientific "golden age" at the hub of Afro-Eurasian
-trade.
+trade. As detailed in Lapidus, the period built directly on late antique frameworks (Roman/Byzantine urban-bureaucratic and Sasanian hybrid central/feudal models with religious pluralism), with the Arab conquests and caliphal evolution producing new garrison cities (amsar), gradual conversions and Arabization, and the crystallization of Islamic law, theology, and communal forms (Lapidus 2014 Ch. 1, 6–10, 15–19; see [[lapidus-a-history-of-islamic-societies-2014]]). The umma, sharia, and Sufi currents took shape alongside imperial cosmopolitanism.
 
 **Grounded claims from Hansen Silk Road range 2601-5200**:
 - "Ten kings ruled between 502 and the Chinese invasion of 640." (ll. 688, Gaochang/Turfan). taxonomy: part_of: [[early-middle-ages]].

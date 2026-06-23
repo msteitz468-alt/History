@@ -14,8 +14,8 @@ scale_immediate: civilizational
 scale_consequential: hemispheric
 causes: ["Iberian overseas expansion (the [[columbian-exchange-1492|Columbian Exchange]])", "indigenous disunity — Tlaxcalan & other allies against the Mexica", "the [[virgin-soil-epidemics|smallpox]] pandemic of 1520"]
 consequences: ["the fall of the [[aztec-empire|Aztec empire]] & founding of New Spain", "the [[virgin-soil-epidemics|demographic collapse]] of central Mexico", "the beginning of Spanish colonial Latin America", "a foundational trauma & mestizo identity"]
-sources_ingested: 3
-last_updated: 2026-06-13
+sources_ingested: 4
+last_updated: 2026-06-22
 tags: [event, transition, late-middle-ages, mesoamerica]
 ---
 
@@ -52,10 +52,10 @@ The Nahua texts arrange the conquest as a tragic arc:
   rout (*la Noche Triste*, 1520).
 - **Siege and fall (Chs. 11–16).** The Spaniards return with brigantines and tens of thousands of
   indigenous allies and **besiege** Tenochtitlan. **Smallpox** ([[virgin-soil-epidemics|the Great
-  Dying]]) ravages the defenders and kills the new ruler **Cuitlahuac**. In a last bid, **Cuauhtemoc**
+  Dying]]) ravages the defenders and kills the new ruler **Cuitlahuac** (Cuitláhuac). The epidemic struck during/after the Noche Triste retreat: "When the Christians were exhausted from war, God saw fit to send the Indians smallpox, and there was a great pestilence in the city." It was introduced by "a black man suffering from smallpox" in Narváez's force; "he infected the household in Cempoala... quickly infected the whole country" (Bernal Díaz called him "a very black dose [for Mexico]"). The sixty days of epidemic in the city gave Cortés respite to reorganize. "Had there been no epidemic, the Aztecs, their war-making potential unimpaired..., could have pursued the Spaniards." When the city fell "the streets, squares, houses, and courts were filled with bodies, so that it was almost impossible to pass. Even Cortés was sick from the stench in his nostrils." (Crosby, Ch. 2, drawing on Aguilar, Bernal Díaz, Motolinía, Sahagún, López de Gómara). In a last bid, **Cuauhtemoc**
   dresses a warrior in the **Quetzal-Owl regalia** of Ahuitzotl to terrify the enemy — to no avail.
   Cuauhtemoc **surrenders on the day 1-Serpent, year 3-House — 13 August 1521**; the city, starving and
-  full of "the stench of the rotting bodies," falls.
+  full of "the stench of the rotting bodies," falls. Motolinía: "more than one half of the population died" in most provinces; "They died in heaps, like bedbugs." Cook & Borah: central Mexico population ~25M pre-conquest to 16.8M a decade later.
 
 ## The elegies
 

@@ -27,7 +27,9 @@ cultural exchanges began to circulate on a planetary scale for the first time.
 The Cambridge World History titles its volume on this era *The Construction of a
 Global World* — and the verb matters: the global world was not discovered but
 built, through migration, conquest, trade, missionary religion, and the violent
-imposition of new labor regimes.
+imposition of new labor regimes. Contemporaries experienced this as competitive national Atlantics (Spanish bureaucratic-silver; Portuguese archipelago/South Atlantic; British late-surge integration; French Caribbean-centered; Dutch transit-oriented), per Greene & Morgan 2009.
+
+In East Asia the Ming dynasty (1368–1644) exemplified the limits of a sophisticated agrarian-bureaucratic order facing internal rigidities even as the wider world globalized. Ray Huang's microhistory of 1587 (Year of the Pig) shows a throne withdrawing into ritual "make-believe" (mausoleum construction as "living ancestor," foot procession for rain prayer) while the Civil Service—now "masters" of an empire of small plots, pawnshop credit, and intermingled tenures—could not adapt its moral-archetype governance (exemplified by Hai Rui) or pragmatic experiments (Zhang Juzheng, Qi Jiguang) to accumulating problems of finance, frontier management, and succession. The "cleavage between the top and the bottom" diagnosed by Shen Shixing left the dynasty sliding "into an abyss" through inertia, with consequences visible by the Manchu conquest of 1644. `part_of:` global early modern divergence; `contrasts_with:` contemporaneous European state centralization and military revolution.
 
 This was not a story of a developed European core acting on a passive world.
 As Dirk Hoerder stresses, capitalist development, sophisticated commerce, and
@@ -36,7 +38,7 @@ Mediterranean economies; what changed was that European territorial states
 fused **state power with mercantile investment** — armed trade backed by
 public-funded soldiery — and projected it across oceans. The Ming and Qing,
 the Ottoman, Safavid, and Mughal empires, the kingdoms of West Africa, and the
-Aztec and Inca polities were all major actors in this world, not its objects.
+Aztec and Inca polities were all major actors in this world, not its objects. In East Asia the Ming (see [[ming-dynasty]], [[qi-jiguang]], [[li-zhi]], [[huang-1587-a-year-of-no-significance-1981]]) exemplified the limits of a highly integrated agrarian-bureaucratic state facing military and intellectual challenges it could not institutionally absorb.
 European maritime dominance was real at sea by 1700 but remained thin on land:
 the [[military-revolution|"military revolution"]] did not translate into
 European superiority over the great Asian land empires until well into the

@@ -137,7 +137,7 @@ history is a separate, wholly-unfilled gap (4b below).
 | *The Ottoman Centuries* — Lord Kinross | `[BUY]` | ✅ | `kinross-ottoman-centuries` |
 | *Safavid Iran* — Andrew Newman | — | ⚪ | already in the raw collection (Modern Times); not yet a wiki source page |
 | *God's Shadow* — Alan Mikhail | `[BUY]` | ✅ | `mikhail-gods-shadow` |
-| *A History of Islamic Societies* — Ira Lapidus | `[BUY]` | ❌ | comprehensive global survey; still wanted |
+| *A History of Islamic Societies* — Ira Lapidus | `[BUY]` | ✅ | comprehensive global survey (6 subagent ranges + main reconciliation); source page + ~7 new pages (Buwayhids, iqtaʿ, military slavery, wahdat al-wujud, convivencia, etc.) + updates to early-middle-ages, high-middle-ages, ottoman/safavid/mughal, periods; fills Gap 4 (social-institutional narrative + modern revival/transnational patterns). Co-Authored-By: Grok (xAI) <grok@x.ai> |
 | *The Arabs* — Eugene Rogan | `[BUY]` | ✅ | `rogan-the-arabs` |
 
 ### Gap 4b — Islamic Intellectual History *(new — wholly unfilled)*

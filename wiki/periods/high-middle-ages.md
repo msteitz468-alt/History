@@ -29,6 +29,25 @@ uneven, **[[afro-eurasian-world-system|world system of exchange]]** — and in
 - "and volume of Silk Road trade, 237" (ll. 9201). taxonomy: contrasts_with: [[silk-roads]].
 - "and itinerant traders, 237–38" (ll. 8960). taxonomy: part_of: [[silk-roads]].
 
+**Grounded claims from Lapidus Range 2 (post-Abbasid consolidation, 945–c. 1500 Middle East focus):**
+- Buwayhids (945–1055) pioneered post-imperial type: titular caliphs + family appanages + slave armies + iqta' grants (Ch. 20).
+- Samanids preserved eastern Abbasid admin; Bukhara as first major Persian-Islamic cultural center (Ch. 20).
+- Ghaznavids (slave dynasty) standardized slave armies, iqta', caliphal patronage, Persian revival; expanded to India (Ch. 20).
+- Saljuqs (1055 onward) briefly reunited domains but nomadic practices (appanages, atabeg) caused fragmentation; Manzikert 1071 opened Anatolia (Ch. 20).
+- Mongols/Ilkhans (13th c.): initial devastation followed by Ghazan-era reconstruction and absorption into Persian-Islamic culture; tuyul grants (Ch. 20).
+- Timurids: Turko-Mongol + Persian + Naqshbandi synthesis; major patronage in Samarqand/Herat (Ch. 20).
+- Fatimids (969–1171 Egypt): Isma'ili caliphate, Cairo founding, trade rerouting, court ceremonial, da'wa (Ch. 20).
+- Ayyubids/Mamluks: unification of Egypt/Syria; perfected mamluk slave system; Sunni institutional revival via madrasas/khanaqas; iqta' in Syria (Ch. 20).
+- Crusader response: slow Muslim unification under Zengi/Nur al-Din/Saladin; Hattin 1187 (Ch. 20).
+- Iqta' vs. European feudalism: revocable tax grants, preserved public authority distinction; no full serfdom/vassalage system (Ch. 20).
+- Persian literary/arts revival dominant in east (Firdawsi, Nizami, Rumi, Hafiz, Timurid painting); Arabic in west (Ch. 20).
+- Women: economic independence (dowries, awqaf, wages); high divorce; public roles despite elite seclusion ideals (Ch. 21).
+- Schools of law + Sufi orders as primary communal cadres; madrasas (Nizam al-Mulk); silsila/khanaqa institutionalization (Ch. 21).
+- al-Ghazali synthesis: Ihya' integrated law + Sufi experience as normative Sunni ideal (Ch. 23).
+- Ibn Sina, Suhrawardi, Ibn al-ʿArabi (wahdat al-wujud): gnostic/theosophical alternatives; popular saint veneration (Ch. 23).
+- Mass conversion 10th–13th c.: Sufis key; shift from elite to majority Muslim identity (Ch. 21).
+- Link types preserved: produced, contributed_to, contrasts_with, part_of, enabled, preceded_by, followed_by (no sequence/causation conflation).
+
 **Grounded claims from Abu-Lughod Before European Hegemony range 8401-12400**:
 1. "Even after the Mongol II-Khans converted to Islam, the enmity between the Mongols and the Mamluks, who ruled Syria and Egypt, abated only briefly during the first half of the fourteenth century. This hiatus may have been partially responsible for the fact that Cairo reached her apex during the reign of Sultan al-Nasir Muhammad (1294-1340...), when her population reached half a million." (ll. 8817-8826). taxonomy: part_of: [[high-middle-ages]] Mamluk apogee in the Middle East heartland. Updated [[high-middle-ages]].
 2. "In the fourteenth century, the Gulf and the Red Sea were rival seas." (ll. 8552-8553). taxonomy: concurrent_with: route competition within [[afro-eurasian-world-system]] during [[high-middle-ages]]. Updated [[high-middle-ages]].

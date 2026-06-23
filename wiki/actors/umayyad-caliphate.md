@@ -9,14 +9,16 @@ affiliated_with: [Umayyad dynasty, Damascus]
 opposed_by: [Byzantine Empire, Kharijites, Alids (Shi'ites), Abbasid Caliphate]
 key_events: [first-fitna-656, second-fitna-680, siege-of-constantinople-674, battle-of-guadalete-711]
 key_processes: [rise-of-islam, arab-conquests, arabization-of-administration]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-22
 tags: [actor, state, early-middle-ages, levant, near-east, islamic-world]
 ---
 
 # Umayyad Caliphate
 
 The **Umayyad Caliphate** (661–750 CE) was the second of the four major Islamic caliphates established after the death of Muhammad. It was ruled by the **Umayyad dynasty**, originating from the Quraysh tribe of Mecca. Establishing their capital at **Damascus** in Syria, the Umayyads centralized the imperial administration, built a professional military and navy, and directed the second great wave of Arab conquests, extending the empire from the Iberian Peninsula in the west to Sind and Transoxiana in the east.
+
+Lapidus emphasizes the transformation from tribal coalition to imperial state: "The caliphate was transformed from a coalition of nomadic conquerors into a new form of Middle Eastern empire, defined and legitimized in both historic imperial and in Islamic terms." (Lapidus 2014, Ch. 8). Muʿawiya embodied traditional Arab virtues (ḥilm) while expanding police/financial powers; Marwanids pursued centralization with Syrian armies policing Iraq, Arabic tax registers, censuses, and landmarks like the Dome of the Rock asserting Islamic supremacy.
 
 ## History and Dynastic Phases
 

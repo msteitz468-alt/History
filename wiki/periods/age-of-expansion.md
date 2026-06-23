@@ -27,7 +27,7 @@ China), began to take shape.
 Two large movements define the period. First, the **maturing of the oceanic
 empires and their wars**: the Anglo-French struggle from North America to India
 made the Seven Years' War (1756–63) the first conflict often called a "global
-war," and British naval mastery, public finance, and amphibious power-projection
+war," and British naval mastery, public finance, and amphibious power-projection. National Atlantics reached peaks and crises; reform (Bourbons), revolution (Atlantic Revolutions), and shifts (Dutch to transit) mark the era's Atlantic dynamics (Greene & Morgan).
 gave Britain the decisive edge by 1759–63. Second, the **eighteenth-century
 reordering of the Asian land empires**: the near-total collapse of the Mughal
 Empire, the fall of Safavid Persia, the rise of the Marathas, Afghan, Burmese,

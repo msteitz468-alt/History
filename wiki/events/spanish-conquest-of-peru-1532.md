@@ -14,8 +14,8 @@ scale_immediate: civilizational
 scale_consequential: hemispheric
 causes: ["the [[virgin-soil-epidemics|epidemic]] that killed Wayna Qhapaq (c.1527) and triggered the Inca civil war", "the [[inca-empire|Waskar–Atawallpa succession war]]", "Iberian overseas expansion & the lure of the rumored southern kingdom", "Spanish steel, horses, and the Cajamarca ambush"]
 consequences: ["the fall of the [[inca-empire|Inca empire]] & the founding of the Viceroyalty of Peru", "the [[virgin-soil-epidemics|Andean demographic collapse]]", "the [[potosi-and-colonial-silver|Potosí silver economy]] & the colonial [[mita-and-andean-reciprocity|mita]]", "the neo-Inca state of Vilcabamba (to 1572)"]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-06-22
 tags: [event, transition, early-modern, andes]
 ---
 
@@ -44,14 +44,13 @@ royal *capitulación* naming him governor of Peru — and, fatefully, leaving Al
 with a lesser title. The unequal rewards seeded the **factionalism** that would
 later tear the conquerors apart.
 
-**The empire he found was broken.** In the late 1520s an epidemic (smallpox, or by
-some accounts *bartonellosis*) swept the northern Andes, killing the Sapa Inca
-**Wayna Qhapaq (Huayna Capac)** and his heir. The succession war that followed
+**The empire he found was broken.** In the late 1520s (likely 1520s pandemic originating from the north) an epidemic (smallpox most probable per Crosby) swept the northern Andes *before* Pizarro, killing the Sapa Inca
+**Wayna Qhapaq (Huayna Capac)** and many captains/royals with shocking rapidity ("their faces being covered with scabs"). The succession war that followed
 pitted **Waskar (Huáscar)** in Cuzco against **Atawallpa (Atahuallpa)**, who
 commanded the professional army on the northern frontier. Atawallpa had just won —
 his forces had taken Cuzco and were savaging Waskar's supporters (especially the
 **Cañari**) — when Pizarro landed in 1532. Disease and civil war had done the
-invaders' work in advance.
+invaders' work in advance. Pedro Pizarro: "Had this Huayna Capac been alive when we Spaniards entered this land, it would have been impossible for us to win it, for he was much beloved by all his vassals." "Had the land not been divided between Huascar and Atahualpa, we would not have been able to enter or win the land unless we could gather a thousand Spaniards for the task..." (Crosby Ch. 2).
 
 **Cajamarca (16 November 1532).** Pizarro lured Atawallpa, fresh from victory and
 escorted by an army of perhaps 40,000, into the central plaza of Cajamarca, where
