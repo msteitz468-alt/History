@@ -13,8 +13,8 @@ scale_immediate: hemispheric
 scale_consequential: regional
 causes: [the Yongle Emperor's drive for prestige and legitimacy, the projection of Ming power and the tribute system across maritime Asia, the inherited maritime and shipbuilding capacity of Yuan/Song China]
 consequences: [the temporary extension of Ming prestige and the tribute network across the Indian Ocean, no territorial empire or sustained trade, the abandonment of state voyaging and the turn to maritime restriction (haijin) — a celebrated contrast with later European expansion]
-sources_ingested: 1
-last_updated: 2026-06-14
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: [event, late-middle-ages, china, indian-ocean]
 ---
 
@@ -28,6 +28,11 @@ over why China did not pursue overseas expansion. From the [[cambridge-history-o
 History of China]] (Ming volumes).
 
 ## Narrative
+
+From Richard Hall’s synthesis (drawing on Ma Huan and other accounts): Zheng He (“Three-Jewel Eunuch”), a Muslim from Yunnan, commanded fleets of up to 300 ships and 30,000 men on seven voyages (1405–1433). The largest “treasure ships” exceeded 500 tons. Destinations included Calicut (recognised as the premier Western Ocean emporium), Malindi (famous giraffes sent to Beijing), Hormuz, and East African ports. The expeditions combined tributary diplomacy, trade intelligence, and display of power. Ma Huan (Muslim interpreter) chronicled them. Zheng died in Calicut in 1433 during the last voyage; the fleets were never sent again. The Indian Ocean saw a sudden, massive Chinese intrusion followed by abrupt withdrawal, leaving “scarcely a trace” — a stark contrast with the sustained Portuguese effort that followed. (Hall, *Empires of the Monsoon*, relevant sections on Ming armadas.)
+
+## Historiography Note (added from Hall)
+The voyages remain a celebrated anomaly: impressive projection of Ming prestige yet no lasting empire or commercial infrastructure. Hall notes the “perplexing, almost irrational” quality when viewed against the existing wealthy Indian Ocean trading arena. The only tangible East African evidence is the trilingual Galle tablet (1410). Cross-referenced with CWH and specialist Ming sources.
 
 Between **1405 and 1433** the Ming dispatched seven armadas under the command of **Zheng He**, a
 Muslim eunuch admiral from Yunnan. The "treasure fleets" were vast — hundreds of vessels and tens

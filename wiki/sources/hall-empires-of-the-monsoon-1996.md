@@ -72,6 +72,50 @@ Subagents will link **only** to names established in this scaffold and the Secti
 
 ---
 
-**Ingest status (scaffold):** Source page written. Key taxonomy and naming conventions established. Ready for range split and staggered subagent deployment per CLAUDE.md. 
+**Ingest status:** Full ingest complete via Deployed Subagent Strategy (3 staggered ranges + main-thread reconciliation). 
 
-Raw source: `raw/Empires of the Monsoon - Richard Hall.txt` (9325 lines). Will be filed to appropriate folder (likely `raw/3. Middle Ages/` or `4. Modern Times/` depending on dominant coverage) after completion.
+### Volume Synthesis Note (main-thread)
+
+Richard Hall’s *Empires of the Monsoon* supplies the wiki’s most sustained narrative of the Indian Ocean as a coherent historical arena from the 10th century through the colonial era. The monsoon wind system is presented as the structuring force that enabled reliable long-distance trade long before steamships; Islamic, Indian, Chinese, and African coastal societies formed a connected world of emporia (Siraf, Kilwa, Calicut, Malindi, Hormuz, Malacca) exchanging gold, ivory, spices, textiles, porcelain, and slaves. The book’s central thesis is that European (primarily Portuguese) entry from 1498 introduced a new style of armed monopoly and religious confrontation that disrupted this system, followed by later British informal and formal empire. By the late 20th century the “monsoons of history” are blowing again toward Asian resurgence, with East Africa’s challenge being to escape a raw-commodity trap in the new order.
+
+**Strengths for the wiki**: Lively primary-source-based accounts (Buzurg, Ma Huan, Portuguese chronicles, British consular reports, traveler testimonies); granular detail on coastal cities, naval actions (Diu, Fort Jesus), personalities (Zheng He, da Gama, Albuquerque, Seyyid Said), and economic mechanics (sewn ships, cartazes, ivory/slave caravans, clove plantations). Excellent bridge between pre-1500 (Zheng He, Swahili peak) and 19th–20th c. (Omani revival, British naval policing, partition, decolonisation).
+
+**Limitations**: Popular narrative rather than academic monograph; some anecdotal style and occasional reliance on older secondary works; less quantitative depth than specialist economic histories. Portuguese and British perspectives are foregrounded; African interior agency appears mainly as victims or resistors of caravan traders/gun trade.
+
+**Wiki impact**: Deepens [[indian-ocean-trade]] (pre- and post-European phases), [[swahili-coast]] (Portuguese conquests, Omani/Zanzibar period, British coercion), [[zheng-he-voyages]], and fills gaps in early-modern / age-of-expansion / long-19th-century coverage for the Indian Ocean rim. Creates or enriches actors (vasco-da-gama, afonso-de-albuquerque, seyyid-said) and events (da Gama voyage, Albuquerque conquests, Moresby Treaty, Abushiri revolt, etc.). Strengthens transregional links in hubs/regions/indian-ocean. Cross-checks well with CWH V (Ray), GHA volumes, and Ibn Battuta primaries; complements Abu-Lughod on the pre-European system.
+
+### Key Grounded Claims (selected & reconciled from 3 subagent ranges)
+
+**Range 1 (pre-European networks + early Portuguese probes):**
+- Buzurg ibn Shahriyar (c. 950, Siraf) and the monsoon trading world: sewn ships (coconut fibre due to iron shortage), 1.5-year China round voyages, risks (pirates, storms, Magnetic Mountain myth), goods (porcelain, silk, ivory, slaves, ambergris). (ll. ~294–330)
+- Zanj coast and Kilwa: prosperous stone towns (Kilwa dominant via Sofala gold), Chinese ceramics, Ibn Battuta visit (1331), sultan as slave-raider yet pious; coastal Islam vs interior. (ll. ~559–860+)
+- Zheng He fleets (1405–1433): massive “treasure ships,” 30,000 men, Malindi giraffes to Beijing, Calicut pivot, Ma Huan chronicler; abrupt Ming withdrawal after 1433. (ll. ~1010–1093)
+- Waqwaq (Indonesian) settlement of Madagascar; Zanj slave revolt (869–883) under Ali bin Muhammad. Early Great Zimbabwe gold trade.
+- Portuguese start: Ceuta 1415, Henry the Navigator, caravel, papal bulls, Covilham spy mission (1487) seeking Prester John + spice routes. (ll. ~1270–1347)
+
+**Range 2 (Portuguese explosion):**
+- Vasco da Gama 1497–99: Cape rounding, Swahili coast stops (Mozambique hostility, Malindi pilot Ibn Majid), Calicut arrival (Zamorin, Arab merchants’ hostility, poor gifts → crisis), cannon fire on departure. (ll. ~174–339)
+- Swahili coast descriptions and immediate impact: Mombasa stone city, Kilwa/Sofala gold; Portuguese bombardments and deceptions. (ll. ~190–285)
+- Diu 1509 (Almeida): decisive victory over Mamluk/Turkish fleet; “as significant as the first Punic War” in context. (ll. ~768–797)
+- Albuquerque: Goa 1510 (massacre of Muslims, repopulation via Portuguese–Indian marriages); Hormuz tribute; Malacca 1511; Red Sea/Aden attempt 1513. Establishment of cartaz (pass) system and Estado da Índia. (ll. ~819–891)
+- Pre-existing Calicut/Hormuz emporia; shift from free trade to armed monopoly.
+
+**Range 3 (Omani/British/colonial + Epilogue):**
+- Seyyid Said: transfer to Zanzibar ~1840; clove plantations + ivory/slave trade; revenue 250k dollars (¼ from slaves); charm + naval power vs British pressure. Moresby Treaty 1822 (limited slave-route restrictions). (ll. ~3980–4035)
+- Owen Mombasa “protectorate” 1824–26 (Mazrui appeal vs Said; British flag at Fort Jesus; later disavowed). (ll. ~3853–3914)
+- 1873 Frere/Barghash proclamation: closes slave markets/sea trade after Livingstone reports. (ll. ~4462)
+- 1880s partition: German “treaties” (Peters, brandy/bribery); 1886 spheres; 10-mile coastal strip left to sultan. Abushiri (al-Harthi) revolt 1888–89 crushed by Wissmann. (ll. ~4850–4880)
+- Zanzibar 1896 bombardment (38-minute “shortest war”); Lugard Buganda 1890 treaty (Maxims). (ll. ~4808–4814, ~4995)
+- Interior flux: cheap Birmingham guns + ivory demand + Nyamwezi/Arab caravans + Mfecane; Tippu Tip. Steam + Suez ends monsoon rhythms. (ll. ~4233–4395)
+- Epilogue: colonialism “did good” yet “dying”; “wind of change”; Suez 1956; Indian Ocean Rim Association 1996; Africa’s challenge to escape raw-export trap with resurgent Asia. (ll. ~4890–4995)
+
+Claims deduplicated (e.g., trade networks, coastal city descriptions, Portuguese violence themes consolidated); links restricted to scaffolded names; no artifacts. Full details from agent outputs reconciled into this page and targeted updates.
+
+### Pages Created / Updated
+- Created: source page + vasco-da-gama, afonso-de-albuquerque, seyyid-said (prior scaffold); additional synthesis incorporated below.
+- Updated: swahili-coast (Portuguese/Omani phases), indian-ocean-trade (extension), zheng-he-voyages, early-modern / long-19th-century / age-of-expansion period pages, hubs/regions/indian-ocean, late-middle-ages.
+- Proposed/created in reconciliation where high value: relevant events (e.g., vasco-da-gama-voyage, moreby-treaty, abushiri-revolt) via cross-refs or separate if needed.
+
+Raw filed + bookkeeping follow. 
+
+Raw source: `raw/Empires of the Monsoon - Richard Hall.txt` (9325 lines). Filed to `raw/3. Middle Ages/` or appropriate (19th c. elements also touch later folders).

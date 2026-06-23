@@ -262,7 +262,7 @@ controversy hubs.
 |---|---|---|---|
 | *The Silk Road* — Valerie Hansen | `[BUY]` | ✅ (scaffold + 4 staggered subagent ranges; ~83 grounded claims; Volume Synthesis Note; updated silk-roads.md + periods/hubs; log/index/final bookkeeping) | Documentary synthesis of 7 oasis sites; debunks high-volume trade myth; cultural transmission via migrants. Gap 10/others filled. |
 | *Before European Hegemony: AD 1250–1350* — Janet Abu-Lughod | `[BUY]` | ✅ `abu-lughod-before-european-hegemony-1989` (5 staggered subagent ranges per Deployed Subagent Strategy; ~45 grounded claims with verbatim + lines; Volume Synthesis Note; updated afro-eurasian-world-system + high-middle-ages + key circuits/ports/actors) | Polycentric Afro-Eurasian world system 1250-1350 (8 circuits, 3 subsystems); no hegemon; Mongol catalyst + Mamluk/Chinese cores; "Fall of the East" preceded "Rise of the West"; critique of Wallerstein/Eurocentrism. Fills Gap 10. |
-| *Empires of the Monsoon* — Richard Hall | `[BUY]` | ❌ | Indian Ocean trade |
+| *Empires of the Monsoon* — Richard Hall | `[BUY]` | ✅ (full ingest: 3 staggered subagent ranges + main reconciliation + synthesis; source + 3+ actors + updates to swahili-coast / indian-ocean-trade / zheng-he-voyages / periods; key claims on Zheng He, da Gama, Albuquerque, Seyyid Said, colonial partition) | Indian Ocean trade; narrative of Portuguese impact, Omani/Swahili coast, colonial transition |
 | *The Indian Ocean in World History* — Edward Alpers | `[BUY]` | ❌ | concise survey |
 | *Atlantic History: A Critical Appraisal* — Greene & Morgan (eds.) | `[LIBRARY]` | ❌ | historiographical survey |
 | *The Columbian Exchange* — Alfred Crosby | `[BUY]` | ❌ | foundational; would anchor the 1492 pages |

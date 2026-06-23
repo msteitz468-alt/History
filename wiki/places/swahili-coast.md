@@ -58,6 +58,12 @@ sent thence to the Chinese court is the era's most famous token of the connectio
 The coast shows [[islam|Islam]] and long-distance trade producing an indigenous
 African urban civilization, integrated into the hemispheric economy yet politically
 fragmented into competing city-states. Its history closes the Middle Millennium. The arrival of the Portuguese (Vasco da Gama 1498, subsequent conquests) and later the Omani expulsion of the Portuguese (Fort Jesus 1698) and the rise of Zanzibar under Seyyid Said mark the transition into the Early Modern and colonial eras (see [[hall-empires-of-the-monsoon-1996]]).
+
+### Portuguese and Omani Transformations (from Hall)
+Vasco da Gama’s 1498 landfalls (Mozambique hostility, Mombasa stone city with lofty houses, Malindi alliance + pilot) exposed the coast to European naval power. Portuguese used bombardments, deception, and alliances against Arab/Swahili rulers; Kilwa and Mombasa were attacked early. Albuquerque and successors established coastal pressure (raids on Brava, Hoja; later Fort Jesus at Mombasa). Omani recovery culminated in the 1698 siege and capture of Fort Jesus, ending major Portuguese presence north of Mozambique. Seyyid Said later moved his capital to Zanzibar (~1840), developing clove plantations and making the island the hub of ivory/slave trade reaching the interior. British naval and consular activity (Owen “protectorate” 1824–26 at Mombasa, Moresby 1822 and later treaties, 1873 slave-market closure, 1896 bombardment) progressively subordinated the coast. The long Swahili/Arab trading phase gave way to colonial partition and “enforced tutelage.” (Hall, *Empires of the Monsoon*, Parts Two & Three.)
+
+## Historiography / Collection Note (updated)
+Pre-1500 drawn from Ibn Battuta, al-Idrisi, archaeology (stone towns, Chinese porcelain). Post-1500 heavily enriched by Portuguese chronicles and British records via Hall. Cross with GHA volumes and primary Ibn Battuta selections. European sources foreground coastal violence and trade disruption; African interior dynamics (gold states, caravan systems) appear as responses. Bias note: collection strong on Islamic/trade phases; thinner on detailed Portuguese administrative records.
 abruptly: the Portuguese, rounding the Cape in 1498, sacked Kilwa and Mombasa in the
 early sixteenth century and seized the gold trade, redirecting the coast's fortunes
 into the early-modern era.

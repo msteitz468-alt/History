@@ -25,9 +25,14 @@ story of states or of single dominant powers but as **"the making of maritime
 communities"** — the fishing, sailing, ship-owning, and merchant groups whose
 cooperation, across religious and ethnic lines, actually made the trade work.
 
+Extended by Hall’s narrative: the system persisted in recognisable form into the 15th century (monsoon rhythms, sewn ships, emporia such as Calicut, Hormuz, Kilwa, Siraf). Portuguese entry (1498 onward) introduced armed monopoly (cartaz/pass system, fort enclaves at Goa, Malacca, Hormuz; bombardments of coastal cities) and religious confrontation, shifting from participation to attempted domination. Later phases (Omani revival under Seyyid Said, British naval policing, steam/Suez, colonial partition) further transformed it into a zone of European informal/formal empire before late-20th-c. Asian reorientation.
+
 ## Causal Drivers
 
 - **The monsoon system**, whose predictable seasonal reversal governed sailing
+- **European naval power and ideology** (post-1498): Portuguese crown sponsorship, caravel technology, heavy cannon, crusading/anti-Islamic drive (Hall). Later British abolitionist + strategic (India route) pressure.
+- **Commodity demand shifts**: medieval spices/porcelain/gold/ivory; 19th c. cheap muskets for interior ivory; clove plantations; industrial cotton displacement of Indian handlooms.
+- **Institutional networks**: Arab/Persian/Indian merchant diasporas, Gujarati textiles, Swahili city-states; later chartered companies and colonial customs systems.
   schedules and made the ocean a navigable, integrated arena.
 - **Local demand and local communities.** Ray's central correction: indigenous
   fishing and sailing communities "played an important and steady role" — the system
@@ -93,9 +98,13 @@ caste or ethnic attributions for the communities involved.
 Indian Ocean trade was the maritime counterpart of the [[silk-roads|overland Silk
 Roads]] and the eastern partner of the European [[commercial-revolution|commercial
 revolution]] (joined via Egypt and the Italians). Its medieval, polycentric,
-relatively non-militarized character ended after 1500, when Portuguese armed
-trading (the *cartaz* system) and later Dutch and English companies imposed European
-naval power — the transition taken up by [[bentley-cwh-v6-2015|CWH VI]].
+relatively non-militarized character was transformed after 1500.
+
+**Portuguese phase (Hall)**: Vasco da Gama (1498) and Afonso de Albuquerque introduced heavy naval cannon, the *cartaz* (pass) system, and fortified enclaves (Goa 1510, Malacca 1511, Hormuz). Coastal cities (Kilwa, Mombasa) faced bombardment or tribute demands. Religious confrontation with resident Muslim traders marked a shift from participation to attempted monopoly.
+
+**Later transformations (Hall)**: Omani revival (Fort Jesus 1698; Seyyid Said’s Zanzibar capital ~1840 with clove plantations) briefly restored Arab commercial dominance. British naval policing (Moresby Treaty 1822, 1873 slave-market closure, 1896 Zanzibar bombardment) plus steam/Suez (1869) and cheap firearms for ivory caravans completed the subordination of monsoon rhythms and local networks. Interior (Nyamwezi, Tippu Tip) and plantation economies fed global demand until colonial partition.
+
+The underlying monsoon geography and cultural connections reassert themselves in 20th-c. decolonisation and the Indian Ocean Rim initiatives. (See [[hall-empires-of-the-monsoon-1996]], Parts Two–Three + Epilogue; cross with [[bentley-cwh-v6-2015|CWH VI]].)
 
 ## The Early Modern Militarization (CWH VI)
 
