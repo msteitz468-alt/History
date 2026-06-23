@@ -5,7 +5,7 @@ The collection is exceptionally strong for Greco-Roman antiquity, the medieval
 Mediterranean and Europe, and pre-modern East Asia. The gaps below are real
 and will limit wiki quality in those areas until addressed.
 
-**Last reviewed: 2026-06-22** — every entry below was cross-checked against the
+**Last reviewed: 2026-06-23** — Abu-Lughod (Gap 10) marked ingested; every entry below was cross-checked against the
 205 source pages now in `wiki/sources/`. Most of Gaps 1–7 have been substantially
 closed since this list was first drafted; the live status is marked per row.
 
@@ -24,7 +24,7 @@ Acquisition flags (unchanged): `[BUY]` `[LIBRARY]` `[OUT OF PRINT]` `[NO TRANSLA
 What the cross-check reveals as the **biggest remaining holes** (see ranked detail in the relevant gaps):
 
 1. **Russia & Eastern Europe (Gap 8) — substantially filled.** Riasanovsky's *A History of Russia* (6th ed., 2000) has been ingested, providing the core narrative spine. Other specific sources remain target acquisitions.
-2. **World-Systems & Transregional (Gap 10) — entirely unfilled.** Crosby, Abu-Lughod, Diamond, Harper, Hansen all still missing despite the wiki's transregional schema.
+2. **World-Systems & Transregional (Gap 10) — partially filled.** Abu-Lughod and Hansen ingested (polycentric pre-1500 systems + Silk Road sites); Crosby, Diamond, Harper still missing.
 3. **Islamic intellectual history (Gap 4b, new) — entirely unfilled.** Politics covered; theology, law, philosophy, science, Sufism absent.
 4. **Core ancient primary sources (Gap 9) — mostly missing.** Gilgamesh, Hammurabi, the Muqaddimah, Odyssey, Aeneid, Secret History of the Mongols.
 5. **China backbone depth (Gap 6) — covered but shallow.** The imperial spine rests on a single light-touch survey read; specialist depth (e.g. Huang's *1587*) still wanted.
@@ -207,7 +207,7 @@ History of Japan volumes, and Genji are in. Sadler and Keene remain.
 |---|---|---|---|
 | *Japan: A Short Cultural History* — G.B. Sansom | `[OUT OF PRINT]` | ✅ | `sansom-short-cultural-history-japan` |
 | *A History of Japan* — R.H.P. Mason & J.G. Caiger | `[BUY]` | ✅ | `mason-caiger-history-of-japan` |
-| *The Cambridge History of Japan* (6 vols.) | `[LIBRARY]` | 🟡 | v1, 3, 4, 5, 6 ingested; v2 (Heian) not |
+| *The Cambridge History of Japan* (6 vols.) | `[LIBRARY]` | ✅ | all 6 ingested (`cambridge-history-japan-v1`…`v6`; v2 Heian = `cambridge-history-japan-v2-heian`) |
 | *Shogun: The Life of Tokugawa Ieyasu* — A.L. Sadler | `[OUT OF PRINT]` | ✅ | ingested (`sadler-shogun-tokugawa-ieyasu-1937`, 58 pages); the unification/early-Edo narrative |
 | *The Tale of Genji* — Murasaki Shikibu | `[BUY]` | ✅ | `waley-tale-of-genji` (Waley trans., not Tyler) |
 | *Meiji and His World* — Donald Keene | `[BUY]` | ❌ | Meiji Restoration; still wanted |
@@ -221,11 +221,11 @@ History of Japan volumes, and Genji are in. Sadler and Keene remain.
 | Source | Flag | Status | Notes |
 |---|---|---|---|
 | *A History of Russia* — Riasanovsky & Steinberg | `[BUY]` | ✅ | `riasanovsky-history-russia-2000` (6th Edition ingested) |
-| *The Penguin History of Modern Russia* — Robert Service | `[BUY]` | ❌ | 1900–present |
+| *The Penguin History of Modern Russia* — Robert Service | `[BUY]` | ✅ `service-penguin-history-of-modern-russia-2009` (scaffold + 4 subagent ranges per Deployed Subagent Strategy; claims with verbatim quotes/lines; "Soviet compound" thesis; updates to periods, Lenin/Stalin/Khrushchev/Brezhnev/Gorbachev/Yeltsin/Putin + key events 1917/1991 etc.; Volume Synthesis + lint) | Narrative political history 1900–2009 with post-1991 archives; redefines totalitarianism as compound of hierarchy + informal practices; deep on leadership/contingency. Gap 8 substantially filled (with Riasanovsky + Freeze). |
 | *The Primary Chronicle* (Nestor) — Samuel Cross trans. | `[BUY]` | ✅ | `cross-primary-chronicle-laurentian-1953` (all 4 subagents complete; source page + claims; 11+ pages updated with direct quotes + source criticism; foundational for Kievan Rus' / early-middle-ages) |
 | *Russia: A History* — Gregory Freeze (ed.) | `[BUY]` | ✅ | `freeze-russia-a-history-2002` (2nd ed. multi-author survey; source page + claims from 6 subagents on all periods; complements Riasanovsky/Service) |
 | *The Gulag Archipelago* — Solzhenitsyn (abridged) | `[BUY]` | ✅ | `solzhenitsyn-gulag-archipelago-1973` (abridged Ericson); source + solzhenitsyn-aleksandr + gulag-system process + kengir-uprising-1954 event created; 3 subagents + main-thread reconciliation complete with grounded quotes/lines; primary testimony on Soviet camps/repression and moral analysis; filed. Strengthens Gap 8. |
-| *The Cambridge History of Russia* (3 vols.) | `[LIBRARY]` | 🟡 (V1 + V2 complete; V3 in progress) | `cambridge-history-of-russia-v1-2006` (Vol I complete); `cambridge-history-of-russia-v2-2006` (Vol II complete: all ranges 4147–34115 subagents + synthesis; empire/periphery, nationalities, 1917 triggers, etc. grounded); Vol III (Suny v3-2006) source scaffolded + all 5 subagents complete (1545-6000; 6001-10500; 10501-16000; 16001-22000; 22001-27000 + bib/index 27001-end). Main-thread reconciliation + Volume Synthesis Note added. Source pages_updated: 45. ~15+ unique pages strengthened with post-1991 archival depth on Stalinism/WWII, Khrushchev/Brezhnev/Gorbachev, nationalities, perestroika/dissolution, foreign policy/identity. ✅ Complete. Raw filed to raw/4. Modern Times/. |
+| *The Cambridge History of Russia* (3 vols.) | `[LIBRARY]` | ✅ (V1 + V2 + V3 complete) | `cambridge-history-of-russia-v1-2006` (Vol I complete); `cambridge-history-of-russia-v2-2006` (Vol II complete); `cambridge-history-of-russia-v3-2006` (Vol III complete: scaffold + 5 subagent ranges 1545–33679 + main-thread reconciliation + Volume Synthesis Note; pages_updated: 45; post-1991 archival depth on Stalinism/WWII, nationalities, perestroika/dissolution, foreign policy/identity, etc.). Raw filed to raw/4. Modern Times/. |
 
 ---
 
@@ -261,7 +261,7 @@ controversy hubs.
 | Source | Flag | Status | Notes |
 |---|---|---|---|
 | *The Silk Road* — Valerie Hansen | `[BUY]` | ✅ (scaffold + 4 staggered subagent ranges; ~83 grounded claims; Volume Synthesis Note; updated silk-roads.md + periods/hubs; log/index/final bookkeeping) | Documentary synthesis of 7 oasis sites; debunks high-volume trade myth; cultural transmission via migrants. Gap 10/others filled. |
-| *Before European Hegemony: AD 1250–1350* — Janet Abu-Lughod | `[BUY]` | ❌ | foundational world-systems |
+| *Before European Hegemony: AD 1250–1350* — Janet Abu-Lughod | `[BUY]` | ✅ `abu-lughod-before-european-hegemony-1989` (5 staggered subagent ranges per Deployed Subagent Strategy; ~45 grounded claims with verbatim + lines; Volume Synthesis Note; updated afro-eurasian-world-system + high-middle-ages + key circuits/ports/actors) | Polycentric Afro-Eurasian world system 1250-1350 (8 circuits, 3 subsystems); no hegemon; Mongol catalyst + Mamluk/Chinese cores; "Fall of the East" preceded "Rise of the West"; critique of Wallerstein/Eurocentrism. Fills Gap 10. |
 | *Empires of the Monsoon* — Richard Hall | `[BUY]` | ❌ | Indian Ocean trade |
 | *The Indian Ocean in World History* — Edward Alpers | `[BUY]` | ❌ | concise survey |
 | *Atlantic History: A Critical Appraisal* — Greene & Morgan (eds.) | `[LIBRARY]` | ❌ | historiographical survey |
