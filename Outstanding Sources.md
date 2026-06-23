@@ -153,7 +153,7 @@ philosophy (*falsafa*), science, and mysticism (*Sufism*) are absent. Priority l
 | *The Cambridge Companion to Classical Islamic Theology* — Tim Winter (ed.) | `[BUY]` | ✅ | ingested (`winter-cambridge-companion-islamic-theology-2008`) — kalam/theology layer |
 | *Sharīʿa: Theory, Practice, Transformations* — Wael Hallaq | `[BUY]` | ❌ | Islamic law (+ his *Origins and Evolution of Islamic Law*) |
 | *Islamic Science and the Making of the European Renaissance* — George Saliba | `[BUY]` | ❌ | science |
-| *Mystical Dimensions of Islam* — Annemarie Schimmel | `[BUY]` | ❌ | the standard work on Sufism |
+| *Mystical Dimensions of Islam* — Annemarie Schimmel | `[BUY]` | ✅ | ingested (`schimmel-mystical-dimensions-of-islam-1975`) — 38 pages; the Sufism layer |
 | *The Muqaddimah* — Ibn Khaldun (Rosenthal trans.) | `[BUY]` | ✅ | ingested (`ibn-khaldun-muqaddimah`) — primary; 23 pages; also key for the historiography hub (see Gap 9) |
 | *The Incoherence of the Philosophers* — al-Ghazali ↔ *The Incoherence of the Incoherence* — Ibn Rushd | `[BUY]` | ❌ | the defining falsafa/kalam debate; ingest as a paired controversy |
 | *Hayy ibn Yaqzan* — Ibn Tufayl | `[BUY]` | ❌ | primary; philosophical novel |
@@ -225,7 +225,7 @@ History of Japan volumes, and Genji are in. Sadler and Keene remain.
 | *The Primary Chronicle* (Nestor) — Samuel Cross trans. | `[BUY]` | ✅ | `cross-primary-chronicle-laurentian-1953` (all 4 subagents complete; source page + claims; 11+ pages updated with direct quotes + source criticism; foundational for Kievan Rus' / early-middle-ages) |
 | *Russia: A History* — Gregory Freeze (ed.) | `[BUY]` | ✅ | `freeze-russia-a-history-2002` (2nd ed. multi-author survey; source page + claims from 6 subagents on all periods; complements Riasanovsky/Service) |
 | *The Gulag Archipelago* — Solzhenitsyn (abridged) | `[BUY]` | ✅ | `solzhenitsyn-gulag-archipelago-1973` (abridged Ericson); source + solzhenitsyn-aleksandr + gulag-system process + kengir-uprising-1954 event created; 3 subagents + main-thread reconciliation complete with grounded quotes/lines; primary testimony on Soviet camps/repression and moral analysis; filed. Strengthens Gap 8. |
-| *The Cambridge History of Russia* (3 vols.) | `[LIBRARY]` | 🟡 (V1 + V2 complete; V3 in progress) | `cambridge-history-of-russia-v1-2006` (Vol I complete); `cambridge-history-of-russia-v2-2006` (Vol II complete: all ranges 4147–34115 subagents + synthesis; empire/periphery, nationalities, 1917 triggers, etc. grounded); Vol III (Suny v3-2006) source scaffolded; first Vol III subagent on 1545-6000 (Intro + fin de siècle to 1917 revs). Post-1991 archives for 20th c./non-Russians/collapse. |
+| *The Cambridge History of Russia* (3 vols.) | `[LIBRARY]` | 🟡 (V1 + V2 complete; V3 in progress) | `cambridge-history-of-russia-v1-2006` (Vol I complete); `cambridge-history-of-russia-v2-2006` (Vol II complete: all ranges 4147–34115 subagents + synthesis; empire/periphery, nationalities, 1917 triggers, etc. grounded); Vol III (Suny v3-2006) source scaffolded + all 5 subagents complete (1545-6000; 6001-10500; 10501-16000; 16001-22000; 22001-27000 + bib/index 27001-end). Main-thread reconciliation + Volume Synthesis Note added. Source pages_updated: 45. ~15+ unique pages strengthened with post-1991 archival depth on Stalinism/WWII, Khrushchev/Brezhnev/Gorbachev, nationalities, perestroika/dissolution, foreign policy/identity. ✅ Complete. Raw filed to raw/4. Modern Times/. |
 
 ---
 
@@ -241,9 +241,9 @@ the Muqaddimah, the Odyssey, and the Aeneid are not.
 | *The Annals of Imperial Rome* — Tacitus | — | ✅ | `tacitus-annals` |
 | *The Muqaddimah* — Ibn Khaldun (Rosenthal/Dawood) | `[BUY]` | ✅ | ingested (`ibn-khaldun-muqaddimah`); also listed under Gap 4b |
 | *The Travels of Ibn Battuta* (Mackintosh-Smith ed.) | `[BUY]` | 🟡 | Black-Africa portion in; full *Travels* not |
-| *The Secret History of the Mongols* — de Rachewiltz trans. | `[LIBRARY]` | ❌ | only Mongol-authored account of Chinggis |
+| *The Secret History of the Mongols* — de Rachewiltz trans. (shorter version) | `[LIBRARY]` | ✅ (source scaffolded; Subagents 1/3/5 succeeded + main-thread recoveries for 2/4; all ranges covered; reconciliation & Volume Synthesis Note added) | only Mongol-authored account of Chinggis; direct primary quotes + native perspective added to genghis-khan, mongol-empire, mongol-conquests etc. |
 | *Behistun Inscription* — translated text | `[BUY]` | ❌ | Achaemenid royal inscription |
-| *The Epic of Gilgamesh* — Andrew George trans. | `[BUY]` | ❌ | oldest surviving narrative literature |
+| *The Epic of Gilgamesh* — Andrew George trans. | `[BUY]` | 🟡 (source page + gilgamesh/enkidu pages scaffolded; 4 subagents on 771–12899) | oldest surviving narrative literature; legendary Uruk king, friendship, mortality, flood myth. Fills Gap 9 primary. |
 | *The Egyptian Book of the Dead* — Wallis Budge trans. | `[BUY]` | ❌ | funerary text |
 | *The Code of Hammurabi* — L.W. King trans. | `[BUY]` | ❌ | Babylonian law code |
 | *The Iliad* | — | ✅ | `homer-iliad` |
