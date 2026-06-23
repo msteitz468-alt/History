@@ -208,7 +208,7 @@ History of Japan volumes, and Genji are in. Sadler and Keene remain.
 | *Japan: A Short Cultural History* — G.B. Sansom | `[OUT OF PRINT]` | ✅ | `sansom-short-cultural-history-japan` |
 | *A History of Japan* — R.H.P. Mason & J.G. Caiger | `[BUY]` | ✅ | `mason-caiger-history-of-japan` |
 | *The Cambridge History of Japan* (6 vols.) | `[LIBRARY]` | 🟡 | v1, 3, 4, 5, 6 ingested; v2 (Heian) not |
-| *Shogun: The Life of Tokugawa Ieyasu* — A.L. Sadler | `[OUT OF PRINT]` | ❌ | Edo-period actor biography; still wanted |
+| *Shogun: The Life of Tokugawa Ieyasu* — A.L. Sadler | `[OUT OF PRINT]` | ✅ | ingested (`sadler-shogun-tokugawa-ieyasu-1937`, 58 pages); the unification/early-Edo narrative |
 | *The Tale of Genji* — Murasaki Shikibu | `[BUY]` | ✅ | `waley-tale-of-genji` (Waley trans., not Tyler) |
 | *Meiji and His World* — Donald Keene | `[BUY]` | ❌ | Meiji Restoration; still wanted |
 
