@@ -278,7 +278,7 @@ controversy hubs.
 
 | Source | Flag | Status | Notes |
 |---|---|---|---|
-| *The Times Atlas of World History* | `[BUY]` | ❌ | geographic reference |
+| *The Times Atlas of World History* | `[BUY]` | 🟡 | `times-atlas-of-world-history-1999` (reference atlas ingested as cartographic support; source page created with Section Plan by historical sections; limited text extraction due to map format; used for geographic scope, place extents, and timeline cross-checks. Not full narrative ingest per low-priority reference status). Filed PDF retained for maps. |
 | *The Oxford Dictionary of the Ancient World* | `[BUY]` | ❌ | factual reference |
 | *The Penguin Atlas of Medieval History* — Colin McEvedy | `[OUT OF PRINT]` | ❌ | medieval cartography |
 | *The Penguin Atlas of Ancient History* — Colin McEvedy | `[OUT OF PRINT]` | ❌ | ancient cartography |

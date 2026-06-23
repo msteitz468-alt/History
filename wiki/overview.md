@@ -1,6 +1,6 @@
 # Coverage Map and Gap Register
 
-Last updated: 2026-06-22 (after Nicholas V. Riasanovsky, *A History of Russia*, 6th Edition, 2000)
+Last updated: 2026-06-22 (after *The Times Atlas of World History* (New Edition, 1999) reference ingest + Guns, Germs, and Steel (Diamond))
 
 This page tracks the current state of wiki coverage: what periods and regions
 are well-documented, where gaps exist, and what is known to be missing.
