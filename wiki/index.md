@@ -504,6 +504,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `doughty-gruber-warfare-western-world-v1-1996.md` | Warfare in the Western World, Vol. I: Military Operations from 1600 to 1871 (Doughty, Gruber et al.) | 1996 | secondary | (Tier 1 USMA survey backbone; "new material only" scope — Revolution & Civil War cited not re-done; 5 war hubs + **12 deep analyses** (Breitenfeld, Lützen, Blenheim, Rossbach, Leuthen, Austerlitz, Jena–Auerstedt, Borodino/1812, Leipzig, Waterloo, Königgrätz, Sedan) + 4 actors + 3 concepts (limited war → nation in arms → Napoleonic warfare); drafted via "agents draft, I finish"; 0 broken links) |
 | `jablonsky-roots-of-strategy-4-1999.md` | Roots of Strategy, Book 4: Mahan, Corbett, Douhet, Mitchell (ed. David Jablonsky) | 1999 | primary | (Naval & air power theory reader for the [[hubs/warfare/strategy\|Strategy]] sub-hub; "agents draft, I finish" — 4 Sonnet agents, one per theorist; created [[mahan-alfred-thayer\|Mahan]]/[[sea-power]], [[corbett-julian\|Corbett]]/[[maritime-strategy]], [[douhet-giulio\|Douhet]]/[[command-of-the-air]], [[mitchell-william\|Mitchell]]/[[air-power]] + cross-cutting [[strategic-bombardment]] + [[grand-strategy]] + new sub-hub [[hubs/warfare/naval-and-air-power-theory\|Naval & Air Power Theory]]; 0 broken links) |
 | `freedman-strategy-a-history-2013.md` | Strategy: A History (Lawrence Freedman) | 2013 | secondary | (Backbone intellectual history of strategy for the [[hubs/warfare/strategy\|Strategy]] sub-hub; Large-Volume + "agents draft, I finish" — 8 Sonnet agents across 5 parts; built the strategic-thought canon the wiki lacked — actors [[clausewitz-carl-von\|Clausewitz]], [[jomini-antoine-henri\|Jomini]], [[sun-tzu\|Sun Tzu]], [[machiavelli-niccolo\|Machiavelli]], [[delbruck-hans\|Delbrück]], [[fuller-jfc\|Fuller]], [[liddell-hart-basil\|Liddell Hart]], [[schelling-thomas\|Schelling]], [[boyd-john\|Boyd]] + concepts [[annihilation-and-exhaustion]], [[indirect-approach]], [[deterrence]], [[guerrilla-warfare]], [[counterinsurgency]], [[ooda-loop]], [[revolution-in-military-affairs]], [[revolutionary-strategy]], [[business-strategy]]; "art of creating power" / underdog thesis; 0 broken links) |
+| `gat-nations-2013.md` | Nations: The Long History and Deep Roots of Political Ethnicity and Nationalism (Azar Gat & Alexander Yakobson) | 2013 | secondary | (Deep-roots/anti-modernist theory of nationalism; companion to [[gat-war-in-human-civilization-2006\|War in Human Civilization]]; "agents draft, I finish" — 4 Sonnet agents across 7 chapters; created controversy [[antiquity-of-nations]] + concepts [[nation]], [[ethnicity]], [[national-state]], [[premodern-european-nationhood]], [[civic-and-ethnic-nationalism]]; enriched [[nationalism]] (nationalism as political ethnicity); 0 broken links) |
 
 ---
 
@@ -520,11 +521,11 @@ Per-page new/updated details live in each source page and `log.md`.
 | Processes | 314 |
 | Actors | 907 |
 | Places | 159 |
-| Concepts | 669 |
+| Concepts | 674 |
 | Comparisons | 16 |
-| Controversies | 61 |
+| Controversies | 62 |
 | Timelines | 5 |
 | Queries | 0 |
-| Sources | 276 |
+| Sources | 277 |
 | Hubs | 141 |
-| **Total (all `.md`)** | **3061** |
+| **Total (all `.md`)** | **3068** |

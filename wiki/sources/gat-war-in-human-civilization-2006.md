@@ -41,6 +41,8 @@ The central thesis: war is ancient and near-universal among humans, driven by ev
 - Controversies: inform or expand existing debates on human nature/causation (Great Man vs structural; geographic determinism); potentially new or cross-link to "innate vs. learned war" or "origins of war" interpretive disputes.
 - Cross-references to already-ingested: [[guns-germs-and-steel|Guns, Germs, and Steel]] (Diamond), [[diamond-guns-germs-and-steel-1997]], military-effectiveness framework, Luttwak paradoxical logic, fiscal-military-state, just-war, hoplite-warfare, etc.
 
+**Companion volume:** [[sources/gat-nations-2013|*Nations: The Long History and Deep Roots of Political Ethnicity and Nationalism* (Gat & Yakobson, 2013)]] applies the same evolutionary kin–culture foundation to the political community, arguing that nations and [[national-state|national states]] have deep premodern roots (see [[ethnicity]], [[nation]], [[antiquity-of-nations]]).
+
 Raw source (EPUB) + extracted .txt filed to `raw/4. Modern Times/`.
 
 ## Historiography Note

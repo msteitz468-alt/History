@@ -5,8 +5,8 @@ origin: Modern nationalism crystallized from the seventeenth–eighteenth centur
 applies_to_periods: [Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 applies_to_regions: [global]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-14
+sources_ingested: 3
+last_updated: 2026-06-23
 tags: [concept]
 ---
 
@@ -75,6 +75,24 @@ state-building (David Bell's paradox: nationalist leaders must often "scramble t
 define — and coercively consolidate — the identity of the very collectivity" they
 claim to represent).
 
+## Deep roots: nationalism as political ethnicity (Gat & Yakobson)
+
+[[sources/gat-nations-2013|Azar Gat & Alexander Yakobson, *Nations* (2013)]] press the
+non-modernist case furthest. Their argument: nationalism is "one particular form of a broader
+phenomenon, that of **[[ethnicity|political ethnicity]]**," and "ethnicity has always been
+highly political, ever since the emergence of the state and even before." If one accepts
+Gellner's *own* definition of the nation as "a rough congruence between culture or ethnicity
+and state," then nations "are not confined to modern times": [[national-state|national states]]
+were "quite prevalent during premodern times and outside Europe," and the medieval/early-modern
+European "dynastic monarchies… in fact tended to be **national monarchies**" (see
+[[premodern-european-nationhood]]). Premodern empires were not "ethnically blind" but "grounded
+in and relied upon a dominant ethnic nucleus." On this view modernity did not *create* the
+nation but **released, transformed, and enhanced** it through mass empowerment, and the
+[[civic-and-ethnic-nationalism|civic/ethnic dichotomy]] is "greatly overdrawn." Gat's evolutionary
+foundation is the same kin–culture argument as his [[gat-war-in-human-civilization-2006|War in
+Human Civilization]]. Whether this stretches "nation" anachronistically is exactly what the
+[[antiquity-of-nations]] controversy turns on.
+
 ## Limitations and critiques
 
 - **The dark side:** popular sovereignty was invoked by liberal republics and by
@@ -83,13 +101,16 @@ claim to represent).
   directly to twentieth-century [[genocide]] — the greatest concentration of which
   occurred in the lands of the collapsed Habsburg, Ottoman, and Romanov empires.
 - **Modernist vs. perennialist debate:** how old are nations? Roshwald takes a
-  middle position.
+  middle position. This is a first-class scholarly controversy — see
+  [[antiquity-of-nations|The Antiquity of Nations]] for the full map of positions
+  (modernism, ethnosymbolism, the deep-roots/perennialist case, primordialism).
 - **Universal form, diverse content:** whether Euro-Atlantic models of nationhood can
   accommodate genuinely diverse identities and a stable, egalitarian world order
   remains, he concludes, an open question.
 
 ## Related pages
 
+[[nation]] · [[ethnicity]] · [[national-state]] · [[premodern-european-nationhood]] · [[civic-and-ethnic-nationalism]] · [[antiquity-of-nations]] ·
 [[atlantic-revolutions]] · [[revolutions-of-1848]] · [[italian-unification]] · [[german-unification]] ·
 [[imperialism]] · [[self-strengthening]] ·
 [[decolonization]] · [[genocide]] · [[communism-and-fascism]] · [[population-politics]] ·
