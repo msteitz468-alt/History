@@ -155,7 +155,7 @@ philosophy (*falsafa*), science, and mysticism (*Sufism*) are absent. Priority l
 | *Islamic Science and the Making of the European Renaissance* — George Saliba | `[BUY]` | ✅ | ingested (`saliba-islamic-science-renaissance-2007`) — 24 pages; the Islamic-science layer |
 | *Mystical Dimensions of Islam* — Annemarie Schimmel | `[BUY]` | ✅ | ingested (`schimmel-mystical-dimensions-of-islam-1975`) — 38 pages; the Sufism layer |
 | *The Muqaddimah* — Ibn Khaldun (Rosenthal trans.) | `[BUY]` | ✅ | ingested (`ibn-khaldun-muqaddimah`) — primary; 23 pages; also key for the historiography hub (see Gap 9) |
-| *The Incoherence of the Philosophers* — al-Ghazali ↔ *The Incoherence of the Incoherence* — Ibn Rushd | `[BUY]` | 🟡 | al-Ghazali's *Incoherence* ingested (`ghazali-incoherence-of-philosophers`, 11 pages); Ibn Rushd's reply still in raw/ (the defining falsafa/kalam debate — pair when the reply is ingested) |
+| *The Incoherence of the Philosophers* — al-Ghazali ↔ *The Incoherence of the Incoherence* — Ibn Rushd | `[BUY]` | ✅ | BOTH ingested (`ghazali-incoherence-of-philosophers` + `ibn-rushd-incoherence-of-incoherence`); the falsafa/kalam debate, tied together by the `philosophy-versus-theology-in-islam` controversy page |
 | *Hayy ibn Yaqzan* — Ibn Tufayl | `[BUY]` | ❌ | primary; philosophical novel |
 | *Encyclopaedia of Islam* (Brill) | `[LIBRARY]` | ❌ | authoritative reference for gap-filling |
 
