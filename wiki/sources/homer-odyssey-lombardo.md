@@ -202,5 +202,18 @@ For the wiki this is the essential primary complement to the already-ingested *I
 
 Limitations: the translation is modern and performance-oriented (Lombardo); the text is one version of a fluid oral tradition; geography and "history" are mythic rather than documentary. It should be read alongside the Iliad source, the Homer actor page, the Homeric controversy, CAH Vol. II discussions of the heroic age, and later receptions.
 
+**Grounded claims from Aeneid range 6801-13600 (Fagles trans.)**
+
+*Aeneid* (this range, Books 4-6) fuses and transforms the *Odyssey* model:
+- The Dido episode and Underworld descent parallel Odysseus' encounters (Calypso, Circe, Nausicaa, Nekyia) but redirect from nostos/homecoming to founding empire: "I set sail for Italy—all against my will" (ll. 8463-8464). "the descent to the Underworld is easy... there the struggle, there the labor lies" (ll. 11933-11936). taxonomy: contrasts_with: [[homer-odyssey]]; part_of: [[aeneas]]. Updated [[homer-odyssey]], [[aeneas]], [[virgil]].
+- Sibyl katabasis invokes Odyssey-style mythic parallels: "If Orpheus could summon up the ghost of his wife... Pollux... Theseus, mighty Hercules" (ll. 11913-11925). Dido shade encounter ("Phoenician Dido... his enemy forever", ll. 12761, 12817) echoes but inverts Odysseus/Penelope fidelity. taxonomy: contrasts_with: [[homer-odyssey]]. Updated [[homer-odyssey]], [[aeneas]].
+- Jupiter/Anchises vision of "Italy" and "Alba Longa" transforms the homecoming theme into Roman destiny: "you can rejoice with me in Italy, found at last" (ll. 13469); "Silvius... he founds our race" (ll. 13593-13600). taxonomy: produced: [[classical-antiquity]]; contrasts_with: [[homer-odyssey]] nostos. Updated [[homer-odyssey]], [[italy]], [[classical-antiquity]].
+- Cave "marriage" and Dido curse project conflict forward ("endless war", ll. 9185+), echoing suitors/violence but for Punic/Roman scale. taxonomy: contrasts_with: [[homer-odyssey]]. Updated [[homer-odyssey]], [[mediterranean-world]].
+All verbatim from exclusive range; only established page names ([[homer-odyssey]] etc.). CLAUDE.md link taxonomy. Updated [[homer-odyssey]], [[aeneas]], [[virgil]], [[classical-antiquity]], [[italy]], [[mediterranean-world]], [[trojan-war-1250bce]].
+
+**Grounded claims from Aeneid range 20401-27200 (Fagles trans.)**:
+- "For Virgil’s performance in Latin is a reperformance of the Iliad and the Odyssey in Greek, a 'Homerization' of the legendary past of Rome. ... Virgil presents an Odyssey of wandering in the first half of the Aeneid and an Iliad of warfare in the second. ... the second, Iliadic half of the Aeneid has many Odyssean elements, chief among them perhaps the objective of the warfare waged: not to destroy an enemy capital but to found one’s own... to 'win home' to the promised city, Rome." (ll. 27199). taxonomy: part_of: [[homer-odyssey]] model; contrasts_with: [[homer-iliad]]. Updated [[homer-odyssey]], [[homer-iliad]], [[aeneas]].
+- All from range 20401-27200 only; verbatim + lines; established names only. Updated [[homer-odyssey]], [[aeneas]], [[virgil]].
+
 ## Ingest complete
 Scaffold + Section Plan on main thread (with key pages odysseus.md, penelope.md, ithaca.md created/established). Four disjoint ranges extracted via staggered subagents (caches only, 20/20/23/18 claims). Main-thread reconciliation (complementary coverage, no verbatim dupes, cross-links reviewed). Volume Synthesis Note added. Source frontmatter, log, index, Outstanding Sources updated. Raw source filed. No artifacts; only established names; 0 broken links on core pages. Per CLAUDE.md Deployed Subagent Strategy.

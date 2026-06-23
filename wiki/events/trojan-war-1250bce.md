@@ -127,3 +127,36 @@ adjudicate. See also [[ahhiyawa-question|the Aḫḫiyawa question]].
 - [[greek-dark-age|Greek Dark Age]] · [[bronze-age-collapse-1200bce|Bronze Age Collapse]]
 - [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2 (source)]]; the war's foundational (non-literal) source is
   now ingested as **[[homer-iliad|Homer's *Iliad*]]**.
+
+**Grounded claims from Aeneid range 20401-27200 (Fagles trans.)**:
+- "Pallas dies, pounding enemy earth with his bloody mouth as Turnus trumpets over him... 'The Pallas I send him back will serve him right! ... But the welcome he gave Aeneas costs him dear.'" (ll. 21257). taxonomy: part_of: retribution motif; preceded_by: [[trojan-war-1250bce]] (Homeric pattern). Updated [[trojan-war-1250bce]].
+- "In the same breath, blazing with wrath he plants his iron sword hilt-deep in his enemy’s heart. ... His life breath fled with a groan of outrage down to the shades below." (ll. 27235). taxonomy: part_of: [[trojan-war-1250bce]] retribution echo in [[aeneas]]'s act. contrasts_with: founding objective. Updated [[trojan-war-1250bce]], [[aeneas]].
+- All from range 20401-27200 only; established names; strict CLAUDE.md taxonomy. Updated [[trojan-war-1250bce]], [[homer-iliad]].
+
+**Grounded claims from Aeneid range 6801-13600 (Fagles trans.)**
+
+Virgil's *Aeneid* (this range) positions the Trojan survivors' story as direct predecessor to Rome:
+- References to Priam, Hector, and the fall recur (e.g., Aeneas carrying "his fathers’ gods, who stooped to shoulder his father bent with age" ll. ~9110; earlier "Three, four times blest, my comrades lucky to die beneath the soaring walls of Troy" echoed in Dido context). taxonomy: preceded_by: [[trojan-war-1250bce]]. Updated [[aeneas]], [[trojan-war-1250bce]].
+- The Underworld includes "ghosts of great-souled heroes" and explicit Homeric parallels (Orpheus, Theseus, Hercules ll. 11913+). Aeneas' katabasis continues the nostos tradition but redirects it to Italy. taxonomy: contrasts_with: [[homer-odyssey]]; part_of: [[homer-iliad]] legacy. Updated [[homer-iliad]], [[homer-odyssey]], [[trojan-war-1250bce]].
+- Anchises reveals "your children born of Italian stock who wait for life, bright souls, future heirs of our name and our renown" starting with Silvius founding Alba Longa (ll. 13577-13600). This forges the legendary bridge from Trojan War survivors to Roman/Italian future. taxonomy: produced: [[classical-antiquity]]. Updated [[trojan-war-1250bce]], [[aeneas]], [[italy]].
+All verbatim from range only; only established names used. Strict taxonomy per CLAUDE.md. Updated [[trojan-war-1250bce]], [[aeneas]], [[homer-iliad]], [[homer-odyssey]], [[classical-antiquity]], [[italy]].
+
+**Grounded claims from Aeneid range 1-6800 (Fagles trans.)**
+- "Poor doomed fools, / have you gone mad, you Trojans? ... Trojans, never trust that horse. Whatever it is, / I fear the Greeks, especially bearing gifts." (ll. 3565-85). taxonomy: contributed_to: [[trojan-war-1250bce]] (warning ignored). Updated [[trojan-war-1250bce]], [[aeneas]].
+- "If Fate and our own wits had not gone against us, / surely Laocoön would have driven us on, now, / to rip the Greek lair open with iron spears / and Troy would still be standing— / proud fortress of Priam, you would tower still!" (ll. 3601-09). taxonomy: contributed_to: [[trojan-war-1250bce]] fall. Updated [[trojan-war-1250bce]].
+- "Such was the fate of Priam, his death, his lot on earth, / with Troy blazing before his eyes, her ramparts down, / the monarch who once had ruled in all his glory / the many lands of Asia, Asia’s many tribes." (ll. 4963-69). taxonomy: part_of: [[trojan-war-1250bce]]. Updated [[trojan-war-1250bce]], [[aeneas]].
+- "Three times I tried to fling my arms around her neck, / three times I embraced—nothing . . . her phantom / sifting through my fingers, / light as wind, quick as a dream in flight." (ll. 5611-17). taxonomy: part_of: loss during [[trojan-war-1250bce]]. Updated [[aeneas]], [[trojan-war-1250bce]].
+- "Aeneas’ devotion to his family was famous. Book 2 describes how... he carries his father, Anchises, on his shoulders out of the burning city, holding his son Ascanius by the hand" (ll. 683-). taxonomy: produced: pietas; part_of: [[trojan-war-1250bce]] survivor narrative. Updated [[aeneas]].
+
+**Grounded claims from Aeneid range 13601-20400 (Fagles trans.)**:
+- Latinus recalls Dardanus "sprang up in these fields" (ll. ~14279-14281 context). preceded_by: [[trojan-war-1250bce]]. part_of: Italian origins. Updated [[trojan-war-1250bce]], [[aeneas]].
+- "This was the first cause of all the pain and struggle, this first kindled the country people’s lust for war" (stag by Iulus, ll. 15779-15781). produced: outbreak of war in Italy. contrasts_with: [[trojan-war-1250bce]] (Trojan fall). Updated [[classical-antiquity]], [[aeneas]].
+- Gates of War: "All Italy blazed—" (ll. 15537); full muster "They reforge in the furnace all their fathers’ swords" (ll. 15573). contributed_to: [[italy]]. part_of: [[mediterranean-world]]. Updated [[trojan-war-1250bce]].
+- Evander alliance: shared blood from Atlas/Dardanus/Mercury "branches sprung from the same blood" (ll. 16291-16292). enabled: Roman foundation post-Trojan. Updated [[trojan-war-1250bce]], [[aeneas]].
+- Shield: "There is the story of Italy, Rome in all her triumphs" from wolf/Romulus through "Caesar Augustus leading Italy into battle" (ll. 17677-17811). produced: post-[[trojan-war-1250bce]] destiny. Updated [[augustus]], [[classical-antiquity]].
+- Nisus/Euryalus "One love bound them" raid and deaths ("sword goes plunging clean through Euryalus’ ribs... on his lifeless friend") (ll. 18427-19085). part_of: pietas; contrasts_with: Iliadic warrior deaths in [[trojan-war-1250bce]]. Updated [[aeneas]], [[homer-iliad]].
+All from range 13601-20400 only; verbatim + original lines; established names only; strict CLAUDE.md taxonomy.
+
+**Grounded claims from Aeneid range 27201-end (Fagles trans.)**:
+- "Or as Knox puts it, pungently, “The death agonies of Troy are the birthpangs of Rome” (Commager, p. 125), and the entire chain reaction binds together the Iliad, the Odyssey, and the Aeneid." (ll. 1). taxonomy: contrasts_with: [[homer-iliad]]; contrasts_with: [[homer-odyssey]]; produced: Roman foundation myth part_of: [[virgil]] for [[classical-antiquity]]. Updated [[virgil]], [[aeneas]], [[augustus]], [[trojan-war-1250bce]].
+- "2.211 the fateful image of Pallas: The Palladium; a small, sacred statue of Pallas Athena in full armor, and a talisman that safeguarded Troy, but was carried away from its shrine on the city heights by Diomedes and Ulysses, leaving the city vulnerable and the goddess outraged, 9.180." (ll. 533). taxonomy: part_of: [[trojan-war-1250bce]]; contrasts_with: [[homer-iliad]]. Updated [[trojan-war-1250bce]], [[homer-iliad]].

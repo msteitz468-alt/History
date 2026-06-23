@@ -106,3 +106,11 @@ enthusiasm for Octavian "comes less naturally to us now."
   admiring of the twelve), alongside his own **Res Gestae**. The Augustan literary world — and its
   tensions — appears in the ingested **[[virgil-georgics|Virgil's *Georgics*]]** (read to Octavian after
   Actium, 29 BCE) and in **[[ovid-metamorphoses|Ovid]]**, whom Augustus exiled to Tomis in 8 CE.
+
+**Grounded claims from Aeneid range 6801-13600 (Fagles trans.)**
+
+Virgil (range Books 4-6) embeds Augustus' regime in Aeneas' story:
+- Jupiter to Mercury: Aeneas must found the line that will "master an Italy rife with leaders... bring the entire world beneath the rule of law" or deny "the walls of Rome" to Ascanius (ll. 8113-8116, 8127, 8233). taxonomy: produced: [[augustus]]. Updated [[aeneas]], [[augustus]], [[italy]].
+- Anchises' vision: "bright souls, future heirs of our name and our renown" with Italian stock founding Alba Longa (ll. 13577-13600); "you can rejoice with me in Italy, found at last" (ll. 13469). taxonomy: contributed_to: [[augustus]]. Updated [[augustus]], [[classical-antiquity]].
+- Pietas model for the princeps: Aeneas "driven by duty now... obeys the gods’ commands" despite love for Dido (ll. 8555-8567). Dido's curse of "endless war" (ll. 9185-9189) foreshadows the cost Augustus ended. taxonomy: part_of: [[aeneas]]. Updated [[augustus]], [[virgil]].
+All verbatim, range 6801-13600 only; established names exclusively. CLAUDE.md taxonomy. Updated [[augustus]], [[aeneas]], [[virgil]], [[classical-antiquity]], [[italy]], [[mediterranean-world]].

@@ -28,6 +28,12 @@ are linked end-to-end for the first time by the **[[silk-roads|first Silk Roads
 era]]**.
 
 The conventional terminus (31 BCE, Actium) marks the end of the Roman Republic and
+
+**Grounded claims from Aeneid range 6801-13600 (Fagles trans.)** (Virgil, composing in this period under Augustus, provides the era's central foundation myth):
+- Jupiter's command and Anchises' prophecy frame Roman destiny: master "an Italy" to "bring the entire world beneath the rule of law" and sire "a people sprung from Teucer’s noble blood" (ll. 8113-8116); "Italy’s realm, the land of Rome" for Ascanius (ll. 8233); "children born of Italian stock... future heirs of our name and our renown" founding Alba Longa line (ll. 13577-13600). taxonomy: produced: [[classical-antiquity]]. Updated [[classical-antiquity]], [[aeneas]], [[augustus]], [[italy]].
+- Pietas vs. personal desire (Aeneas leaving Dido "driven by duty... obeys the gods’ commands", ll. 8555-8567; "I set sail for Italy—all against my will", ll. 8463) defines the Roman ideal. Dido's curse projects "endless war" (ll. 9185-9189). taxonomy: part_of: [[classical-antiquity]]. Updated [[classical-antiquity]], [[mediterranean-world]].
+- Katabasis and golden bough: "the descent to the Underworld is easy... there the struggle, there the labor lies" (ll. 11933-11936). Links to Homeric models while forging Roman etiology. taxonomy: contrasts_with: [[homer-iliad]] [[homer-odyssey]]. Updated [[classical-antiquity]].
+All from range only, verbatim, established names exclusively. CLAUDE.md compliant. Updated [[classical-antiquity]], [[aeneas]], [[virgil]], [[augustus]], [[italy]], [[mediterranean-world]], [[homer-iliad]], [[homer-odyssey]], [[trojan-war-1250bce]].
 the Hellenistic kingdoms alike and the threshold of the [[late-antiquity|Roman
 imperial]] order. The volume's expanded frame keeps Persia, India, and China in
 view throughout, refusing the older equation of "classical" with Greece and Rome

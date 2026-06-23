@@ -7,7 +7,7 @@ period_coverage: [High Middle Ages]
 region_coverage: [iberia, north-africa]
 methodological_approach: [primary source — philosophical allegory/novel]
 reliability_notes: "Ibn Ṭufayl's Hayy ibn Yaqzān (c. 1170), the philosophical tale of a child who grows up alone on an equatorial island and, by unaided reason, ascends through the study of nature to knowledge of the Necessary Being and mystical union — then meets a religious man and finds that the truth of philosophy and the truth of revelation coincide. A landmark of Andalusian falsafa and the autodidactic tradition; later a key text for early-modern Europe (the 'self-taught philosopher'). Ingested (Goodman translation, with his substantial introduction) as a primary-source deepening of the existing hayy-ibn-yaqzan and ibn-tufayl pages."
-pages_created: 0
+pages_created: 11
 pages_updated: 0
 ingested: 2026-06-22
 tags: [source]
@@ -43,10 +43,22 @@ Deployed-subagent strategy, **3 lean agents**. Body content: Goodman's introduct
 | **B** The rational ascent | 2200–3899 | the interpretive scheme (the seven septenaries) + the tale's opening: Hayy's origin (the spontaneous-generation vs. the doe account), his empirical study of nature, and his reasoning up to the Necessary Being | `hayy-rational-ascent`, `spontaneous-generation-debate-islam` |
 | **C** Mystical union & the harmony of reason and revelation | 3900–4813 | the tale's climax — Hayy's mystical experience of God — and the ending: the encounter with Absāl and Salamān, the coincidence of philosophy and revelation, and why the masses still need religion | `religion-philosophy-harmony-islam`, `absal-and-salaman` |
 
-## Claim list (filled on the main thread after agents finish)
+## Claim list — 11 pages (1 source + 10 from 3 agents)
 
-_(to be populated in Step 4)_
+**A — Context & the autodidactic project:** [[the-philosophical-tale]] · [[autodidacticism-islamic-philosophy]] · [[fitra-islamic-philosophy]] · [[abu-yaqub-yusuf-almohad]].
+**B — The rational ascent:** [[hayy-rational-ascent]] · [[spontaneous-generation-debate-islam]].
+**C — Mystical union & reason-revelation harmony:** [[religion-philosophy-harmony-islam]] · [[absal-and-salaman]] · [[mystical-union-islamic]] · [[mimesis-celestial-ibn-tufayl]].
 
 ## Volume Synthesis Note
 
-_(to be written in Step 4 after all agents complete)_
+A primary-source deepening of the [[hayy-ibn-yaqzan]] and [[ibn-tufayl]] pages with the full argument of
+the tale. It captures the [[autodidacticism-islamic-philosophy|autodidactic project]] (grounded in
+[[fitra-islamic-philosophy|fiṭra]], the innate endowment) and the genre of [[the-philosophical-tale|the
+philosophical tale]]; the [[hayy-rational-ascent|seven-stage rational ascent]] from the bare study of
+nature to the [[necessary-being-avicenna|Necessary Being]] (with the [[spontaneous-generation-debate-islam|
+spontaneous-generation]] origin); the [[mystical-union-islamic|mystical union]] beyond discursive reason;
+and the work's central thesis — the [[religion-philosophy-harmony-islam|coincidence of philosophy and
+revelation]] dramatized by [[absal-and-salaman|Absāl and Salamān]], which connects directly to the
+[[philosophy-versus-theology-in-islam|falsafa–kalam debate]] and [[averroes-defense-of-philosophy|Averroes']]
+harmonization. Translated by Pococke (1671), the tale also seeded the early-modern European
+[[arabic-philosophy-latin-reception|reception]] of the self-taught philosopher.
