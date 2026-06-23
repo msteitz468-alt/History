@@ -38,6 +38,9 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `age-of-expansion.md` | Age of Expansion | 1700–1800 CE | moderate |
 | `long-19th-century.md` | Long 19th Century | 1800–1914 CE | moderate |
 | `world-wars-era.md` | World Wars Era | 1914–1945 CE | moderate |
+| `world-war-ii-1939-1945.md` | World War II | event | world-wars-era | (new from West Point V1 range 1: prelude/Poland opening; range 3: Barbarossa narrative/causes) |
+| `invasion-of-poland-1939.md` | Invasion of Poland | event | world-wars-era | (narrative stub; full analysis in hubs) |
+| `hubs/warfare/world-wars-era/second-world-war/operation-barbarossa-1941.md` | Operation Barbarossa | campaign analysis | world-wars-era | (new full template analysis from Megargee range_3: planning, phases Smolensk/Kiev/Typhoon, Final Solution beginnings, 9 principles, OOB tables) |
 | `cold-war.md` | Cold War | 1945–1991 CE | moderate |
 | `contemporary.md` | Contemporary | 1991–present | weak |
 
@@ -61,6 +64,12 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `battle-of-kursk-1943.md` | Battle of Kursk | 1943-07-05 | eastern-europe |
 | `battle-of-poltava-1709.md` | Battle of Poltava | 1709-07-08 | eastern-europe |
 | `battle-of-stalingrad-1942.md` | Battle of Stalingrad | 1942-08-23 | eastern-europe |
+| `american-civil-war-1861-1865.md` | American Civil War | 1861–1865 | north-america, eastern-north-america |
+| `battle-of-antietam-1862.md` | Battle of Antietam | 1862-09-17 | eastern-north-america |
+| `battle-of-fredericksburg-1862.md` | Battle of Fredericksburg | 1862-12-11/15 | eastern-north-america |
+| `battle-of-chancellorsville-1863.md` | Battle of Chancellorsville | 1863-04-30/05-06 | eastern-north-america |
+| `battle-of-gettysburg-1863.md` | Battle of Gettysburg | 1863-07-01/03 | eastern-north-america |
+| `battle-of-chickamauga-1863.md` | Battle of Chickamauga | 1863-09-19/20 | eastern-north-america |
 | `battle-of-the-kalka-river-1223.md` | Battle of the Kalka River | 1223-05-31 | eastern-europe, steppe |
 | `battle-on-the-ice-1242.md` | Battle on the Ice | 1242-04-05 | eastern-europe |
 | `chernobyl-disaster-1986.md` | Chernobyl Disaster | 1986-04-26 | eastern-europe |
@@ -479,6 +488,8 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `encyclopaedia-of-islam-index-subjects-1996.md` | The Encyclopaedia of Islam (New Edition) — Index of Subjects (comp. P.J. Bearman) | 1996 | reference | (finding-aid to EI2 Vols I–VIII + Suppl. 1–6; source page only — an index, no claims; OCR-noisy; does NOT close the EoI-proper gap) |
 | `brills-first-encyclopaedia-of-islam-1913-1936.md` | E.J. Brill's First Encyclopaedia of Islam, 1913–1936 (Houtsma et al.) | 1913-1936 | reference | (EI1; B–D range primarily extracted; source page + Section Plan; OCR-noisy reference for Islamic actors/places/concepts/doctrines; will enrich Baghdad, Buyids, Khurrami revolt, Bada', etc.; partial) |
 | `rogers-seidule-west-point-history-civil-war-2014.md` | The West Point History of the Civil War (Rogers & Seidule, general eds.) | 2014 | secondary | (West Point History of Warfare series vol.; 6-chapter operational/tactical treatment; source page + war hub + detailed battle analyses in hubs/warfare/long-19th-century/american-civil-war/ per CLAUDE.md Warfare Hub rules and template; reciprocal links to events/american-civil-war-1861-1865; fills highest-priority Civil War slot in Outstanding War Strategy Sources) |
+| `rogers-seidule-west-point-history-world-war-ii-v1-2015.md` | The West Point History of World War II, Volume 1 (Rogers & Seidule eds.) | 2015 | secondary | (West Point History of Warfare series vol.; intro + 5 chapters + conclusion to mid-1942; source page + war hub + detailed hub analyses for Poland, France 1940, Britain 1940, Barbarossa, Pearl Harbor, Midway per template; processes for war-economies-wwii + home-fronts-wwii; fills WWII slot in Outstanding War Strategy Sources) |
+| `rogers-seidule-west-point-history-world-war-ii-v1-2015.md` | The West Point History of World War II, Volume 1 (Rogers & Seidule eds.) | 2015 | secondary | (range 1 subagent complete: Waddell Road to War + Citino Poland/early; source claims + new main event + Poland hub analysis page using locked template + events stub; updates to period/hub/log/index; verbatim prelude/Blitzkrieg/Poland claims only) |
 
 ---
 
