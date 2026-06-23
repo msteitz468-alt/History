@@ -22,7 +22,7 @@ This war hub page provides the operational and campaign-level overview. Individu
 - **Economies and Peoples at War**: Home fronts, production, resources (Overy).
 - **Conclusion at Midpoint**: Situation mid-1942, transition points (Rogers).
 
-(Volume 1 covers up to ~mid-1942; later volumes for full war. Expand hub with additional sources for full coverage.)
+(Volume 1 covers up to ~mid-1942; Volume 2 covers 1942 turning points through 1945 victory, occupation, and assessment. Expand with Vol. 2 source.)
 
 ## Key Commanders
 - Axis: Adolf Hitler, Hermann Göring, Heinz Guderian, Erich von Manstein, Isoroku Yamamoto, Hideki Tojo.
@@ -59,6 +59,33 @@ Early Pacific expansion details (Malaya: Yamashita ~60k vs Percival ~90k; relent
 - [[processes/home-fronts-wwii|Home Fronts in WWII]] (mobilization, morale, gender/racial policies, propaganda, contrasts US/UK vs. Axis coercion).
 
 Pacific Opening analyses (Pearl Harbor campaign and Midway battle) complete from Drea Range 4. All hub pages use the canonical template (OOB/casualty tables, all nine FM 3-0 Principles of War with honoured/violated examples, Modern Doctrine Parallels, verbatim primary grounding, staff-college depth). Additional analyses for later phases (Stalingrad, Normandy, etc.) from other sources per Outstanding War Strategy Sources.md and future ingests. All analyses link reciprocally to the main narrative event page and this hub.
+
+## Detailed Tactical Analyses (from West Point History of World War II, Volume 2, 2016)
+
+**Ch. 1: The Allies Turn the Tide (Citino):**
+- Turning points: Guadalcanal (prototype triphibious/air lodgment), Stalingrad context, El Alamein context, Kasserine Pass (tactical Axis win/strategic Allied), Kursk (Citadel failure, 500k German casualties, permanent loss of Eastern initiative), Operation Husky/Sicily ("bitter victory," Palermo first European city by US Army, Mussolini overthrown), Salerno/Avalanche (near-disaster saved by arty/naval gunfire), Tarawa (high cost, proved US will), Operation Cartwheel (13 landings, Rabaul bypassed). 
+- Hub analyses: [[guadalcanal-campaign-1942]], [[battle-of-kasserine-pass-1943]], [[battle-of-kursk-1943]], [[operation-husky-1943]], [[salerno-landings-1943]], [[tarawa-1943]], [[operation-cartwheel-1943]]. Reciprocal links to [[events/world-war-ii-1939-1945]].
+
+**Ch. 2: Strategic Sea Power and Airpower (Overy):**
+- U-boat Atlantic war, strategic bombing of Germany/Japan, carrier operations, logistics at sea/air.
+- Range 2 extraction (this subagent): detailed claims on Pacific submarine commerce raiding (Lockwood aggressive forward ops; 5.3M tons sunk by 288 US boats at cost of 48; Japanese escort/sub failures); strategic bombing of Japan (B-29 shift to Marianas; Hansell precision failed jet stream/weather; LeMay low-level incendiary: Tokyo 9 Mar 1945 279 B-29s/1500 tons/25 sq mi firestorm/100k dead; total 5 largest cities destroyed, 700k casualties, 9M homeless); Leyte Gulf (largest naval battle; Taffy 3 escort carriers/destroyers vs Kurita Center Force at Samar—heroic smoke/torpedo attacks, Kurita inexplicable retreat; kamikaze debut; Combined Fleet destroyed as effective force); Iwo Jima/Okinawa air enablers (P-51 range, B-29 emergency fields; kamikaze costs; 6,900 US Marines +12.5k total dead); Allied jointness/logistics (Mulberry, air-ground-sea integration) as decisive. Grounded quotes in source page claims block. Cross-links: [[strategic-bombing-campaign]], [[events/world-war-ii-1939-1945]], main hub. Template analyses to be added for Leyte Gulf campaign, Japan strategic air campaign (supplementing existing [[strategic-bombing-campaign]]), submarine raiding as sea power process. Note: Atlantic U-boat specifics not in this range chunk.
+
+**Ch. 3: Waging Global War (Citino):**
+- Coalition strategy, Tehran Conference, Overlord planning, global coordination. See Range 3 claims in source page: Big Three (Atlantic Charter, Casablanca unconditional surrender + CBO priority, Tehran invasion date); Combined Chiefs of Staff; Eisenhower unity enforcement vs. Axis non-coordination; "There is only one thing worse than fighting with Allies..."; unprecedented cooperation despite self-interests; focus on victory and postwar (Bretton Woods, Dumbarton Oaks, Yalta, Potsdam).
+
+**Ch. 4: Victory in Europe (Citino):**
+- Normandy (Overlord, D-Day, bocage, Cobra, Falaise), liberation of France, Ardennes (Battle of the Bulge), advance into Germany. Grounded from Range 3: D-Day/Neptune (7,000 ships; weather delay; Eisenhower order; Arkansas bombardment + demolition teams clearing obstacles; Omaha intense fire/small groups up bluffs 8am, large inland by 11am; Utah easier + airborne linkup; USCG landing craft role); Market-Garden (Arnhem 10k/12k casualties for 1st Airborne); German late-war (Volkssturm "old men and boys"; ideological fanaticism/opportunism/fear per Neitzel; air as "scourge of the Panzers" post-weather clear in Bulge); surrender (Eisenhower curt Jodl meeting: "brief, stern word... 'That is all.'"). 
+- Hub analyses: [[operation-overlord-1944]] (D-Day phases, 7k ships, Omaha small-group initiative, 9 principles, coalition unity, logistics/Mulberry, historiography per Hastings/D'Este/primary memoirs); [[battle-of-the-bulge-1944]] (Ardennes terrain/weather, initial German surprise vs Allied air response once clear, Volkssturm/ideological factors, Patton relief, principles analysis). Reciprocal links to [[events/world-war-ii-1939-1945]]. Full claims and primary notes in source page Range 3 block.
+
+**Ch. 5: The Defeat of Japan (Love):**
+- Central Pacific island hopping (Tarawa, Kwajalein, Saipan, Tinian, Guam, Iwo Jima, Okinawa), Leyte Gulf, strategic bombing/firebombing, atomic bombs on Hiroshima/Nagasaki, Soviet entry.
+- New detailed hub analyses (range_4 grounded + Vol. 2 Ch.5): [[hubs/warfare/world-wars-era/second-world-war/battle-of-iwo-jima-1945|Battle of Iwo Jima — Tactical Analysis]] (1945; triphibious, airfield objective, Kuribayashi defense-in-depth, 9 principles, air enabler for B-29/P-51); [[hubs/warfare/world-wars-era/second-world-war/battle-of-okinawa-1945|Battle of Okinawa — Tactical Analysis]] (1945; largest Pacific amphibious, Shuri Line, kamikaze peak, 82 days, 12.5k US KIA); [[hubs/warfare/world-wars-era/second-world-war/hiroshima-nagasaki-1945|Hiroshima and Nagasaki — Atomic Bombings Analysis]] (6/9 Aug 1945; strategic culmination of airpower + island hopping; unconditional surrender enforcement; casualties, decision context, modern parallels). Reciprocal links to [[events/world-war-ii-1939-1945]] and war hub. Grounded in range_4 (Guadalcanal prototype lessons: triphibious, air lodgment, material vs will, "first hole" + unconditional surrender decision) + Ch.5.
+
+**Ch. 6: Occupation, Demobilization, and Assessing Victory (Waddell):**
+- Potsdam, occupation of Germany/Japan, war crimes trials (Nuremberg, Tokyo), demobilization, GI Bill, assessment of victory, Cold War seeds.
+- New process page (range_4 + Ch.6): [[processes/occupation-of-japan-1945|Occupation of Japan (1945–1952)]] (SCAP/MacArthur; phases from surrender to "reverse course"; drivers unconditional surrender + atomic/Soviet shock; reforms, demob, end 1952; interaction with strategic bombing/island hopping; historiography). Links to atomic/Iwo/Okinawa pages and main event. Grounded in range_4 unconditional surrender goal + material turning point.
+
+(Use Vol. 2 source for claims in subagents; add detailed pages per template as extraction completes. Reciprocal links to events and main WWII event.)
 
 ## Related
 - [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]]
