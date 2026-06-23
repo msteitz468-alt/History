@@ -162,6 +162,21 @@ Technological change rarely stands alone. It interacts with social organization,
 
 See the dedicated concept page and the broader discussion in the [[hubs/warfare/strategy|Strategy]] sub-hub.
 
+### Military innovation (the interwar laboratory)
+
+How militaries develop new doctrine, technology, and organization is its own analytical problem —
+why, under shared austerity and rapid technological change, some interwar (1918–1939) services
+innovated brilliantly and others failed. The framework and its seven case studies (from
+[[sources/murray-millett-military-innovation-interwar-1996|Murray & Millett, *Military Innovation
+in the Interwar Period*]], 1996):
+
+- **Framework:** [[military-innovation]] — concrete strategic problem + institutional culture +
+  honest doctrine and experimentation; changing the *context* of war beats raw technical lead.
+- **Case studies:** [[armored-warfare]] · [[amphibious-warfare]] · [[carrier-aviation]] ·
+  [[close-air-support]] · [[radar-and-air-defense]] (Dowding's system, the premier success) ·
+  [[submarine-warfare]] ("innovation ignored") · [[strategic-bombardment|strategic bombing]].
+- Complements the [[military-effectiveness]] framework and the [[revolution-in-military-affairs]] debate.
+
 ## Ideas, Ethics, and Historiography of War
 
 - [[just-war|Just war theory]] and moral frameworks

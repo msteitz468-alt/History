@@ -5,7 +5,7 @@ origin: Giulio Douhet, "The Command of the Air" (1921/1927) and William Mitchell
 applies_to_periods: [World Wars Era, Cold War, Contemporary]
 applies_to_regions: [western-europe, north-america, mediterranean, east-asia]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-23
 tags: [concept]
 ---
@@ -82,6 +82,35 @@ Mitchell's American, hemispheric-defense framing was the more moderate; but afte
 court-martial and 1926 resignation his predictions "became increasingly inflated and more
 closely aligned to Douhet's 'command of the air.'"
 
+## Interwar innovation: doctrine ahead of capability
+
+Murray's case study in *[[sources/murray-millett-military-innovation-interwar-1996|Military
+Innovation in the Interwar Period]]* (1996) treats strategic bombing as one of the seven test
+cases of [[military-innovation]], and as the one "particularly influenced by external factors":
+the breakneck pace of aviation technology, the trauma of the First World War (escape from "another
+terrible war of attrition on the ground"), and the "romantic" mythology of flight that gave
+airmen and the public a faith running far ahead of evidence. Its appeal was the promise to
+"attack the enemy's economic and social base from the opening moments of conflict," pursuing
+"objects which were beyond, not only the range, but also the strategy of armies and navies."
+
+The comparative verdict is sobering, and it cuts against the doctrine's own confidence:
+
+- **Britain** — Bomber Command made strategic bombing the RAF's reason for independent existence,
+  but **top-down control enforced an unworkable doctrine**: at the outbreak of war the force was
+  "almost completely… inability… to execute any air power missions." Murray uses it as his
+  warning that top-down leadership "will get it very, very wrong" when the underlying idea is wrong.
+- **United States** — the Air Corps Tactical School built the rival **daylight-precision /
+  "industrial-web"** doctrine, more discriminating than Douhet but, like the British, untested
+  against the peacetime "imponderables" (Could bombers find and hit targets? Could they defend
+  themselves?).
+- **Germany** — the **Luftwaffe** pointedly did *not* build a heavy-bomber strategic force,
+  integrating air power instead into combined-arms continental war ([[close-air-support]],
+  [[armored-warfare]]) — a different reading of the same strategic problem.
+
+The through-line to [[radar-and-air-defense]]: Dowding's integrated air-defense system was the
+contextual innovation that falsified Baldwin's "the bomber will always get through," and with it
+the interwar bomber-supremacy doctrine.
+
 ## Limitations and Critiques
 
 Strategic bombardment was, in Jablonsky's words, the doctrine of **visionaries** rather than
@@ -109,6 +138,7 @@ descendants of the argument begun here.
 
 - **Theorists:** [[douhet-giulio]], [[mitchell-william]]
 - **Doctrine pages:** [[command-of-the-air]], [[air-power]], [[total-war]], [[limited-war]]
+- **Interwar innovation:** [[military-innovation]], [[radar-and-air-defense]], [[close-air-support]], [[armored-warfare]]
 - **In action:** [[strategic-bombing-campaign|Combined Bomber Offensive]], [[hubs/warfare/world-wars-era/second-world-war/strategic-bombing-japan-1944-1945|Strategic Bombing of Japan]]
 - **Hub:** [[hubs/warfare/naval-and-air-power-theory]]
-- **Source:** [[sources/jablonsky-roots-of-strategy-4-1999|Roots of Strategy, Book 4]] (ed. Jablonsky, 1999)
+- **Sources:** [[sources/jablonsky-roots-of-strategy-4-1999|Roots of Strategy, Book 4]] (ed. Jablonsky, 1999) · [[sources/murray-millett-military-innovation-interwar-1996|Military Innovation in the Interwar Period]] (Murray & Millett, 1996)
