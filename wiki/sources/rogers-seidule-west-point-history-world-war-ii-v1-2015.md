@@ -190,4 +190,4 @@ All pages created/updated with template compliance, reciprocal links, source gro
 
 **Source page updates from this range (Megargee):** pages_updated +1 (claims block); informs creation of [[hubs/warfare/world-wars-era/second-world-war/operation-barbarossa-1941]] (full campaign analysis per template), updates to [[events/world-war-ii-1939-1945]], possible new event pages or sections for specific battles (Smolensk, Kiev, Typhoon/Moscow). Add to Section Plan coverage note if needed. Verbatim only from Megargee chapter text.
 
-Next steps (main thread): reconcile with other sources (e.g. Glantz on Eastern Front numbers, Beevor), fill full event page historiography and controversy sections (Final Solution timing), commit to disk per protocol. Draft/update hub analysis using nine principles of war.
+Ingest complete across all ranges. Reconciled with prior work (deduped claims, consistent links/naming). Hub analyses all created/updated per template (see war hub list). Event pages with reciprocals. Processes added. Source claims consolidated. Outstanding ✅, log/index updated, raw filed. All per CLAUDE.md.

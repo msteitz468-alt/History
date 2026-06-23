@@ -1,0 +1,94 @@
+---
+title: World War II
+date_start: 1939-09-01
+date_end: 1945-09-02
+date_precision: exact
+dating_method: documentary
+period: ["World Wars Era"]
+region: ["europe", "east-asia", "pacific", "north-africa", "western-europe", "eastern-europe", "north-america"]
+location: ["Global theaters; primary European and Pacific"]
+actors_primary: ["[[adolf-hitler|Adolf Hitler]] (Nazi Germany)", "[[benito-mussolini|Benito Mussolini]] (Fascist Italy)", "[[japan-imperial|Imperial Japan]]", "[[winston-churchill|Winston Churchill]] (UK)", "[[joseph-stalin|Joseph Stalin]] (USSR)", "[[franklin-d-roosevelt|Franklin D. Roosevelt]] (USA)"]
+actors_secondary: ["[[neville-chamberlain|Neville Chamberlain]]", "[[heinz-guderian|Heinz Guderian]]", "[[gerd-von-rundstedt|Gerd von Rundstedt]]", "[[fedor-von-bock|Fedor von Bock]]", "[[eduard-rydz-smigly|Eduard Rydz-Śmigły]] (Poland)"]
+event_type: war
+scale_immediate: global
+scale_consequential: global
+causes: ["[[treaty-of-versailles|Versailles Treaty]] flaws and resentments", "[[great-depression|Great Depression]] radicalization and economic crisis", "rise of totalitarian regimes in Germany, Italy, Japan", "failure of [[league-of-nations|League of Nations]] and collective security (esp. US non-participation)", "aggressive expansion: Manchuria 1931, Rhineland 1936, Anschluss 1938, Munich 1938, Czechoslovakia 1939", "[[molotov-ribbentrop-pact-1939|Nazi-Soviet Non-Aggression Pact]] enabling German invasion of Poland", "militarism and rearmament programs outpacing democracies"]
+consequences: ["[[holocaust|Holocaust]] and mass civilian deaths (est. 60+ million total dead)", "defeat and occupation of Axis powers", "rise of [[united-states|United States]] and [[soviet-union|Soviet Union]] as superpowers", "end of European colonial empires prelude", "[[united-nations|United Nations]] formation", "Cold War division of Europe and world", "technological leaps (atomic weapons, rocketry, radar, computing)"]
+sources_ingested: 2
+last_updated: 2026-06-23
+tags: [event, world-wars-era, global, war]
+---
+
+# World War II (1939–1945)
+
+**Full narrative overview and sources:** This page anchors the era. See [[hubs/warfare/world-wars-era/second-world-war/second-world-war|War Hub]] for operational/campaign detail and links to individual battle analyses (e.g. [[hubs/warfare/world-wars-era/second-world-war/invasion-of-poland-1939|Invasion of Poland analysis]]). Cross-reference [[causes-of-the-second-world-war|causes controversy]] and [[first-world-war-1914]] transition.
+
+## Narrative
+
+The Second World War began in Europe on 1 September 1939 when German forces invaded Poland under Operation Case White, following the Nazi-Soviet Non-Aggression Pact of 23 August 1939. Britain and France declared war on Germany on 3 September 1939 after Hitler ignored the deadline to withdraw. What had begun as a European conflict rapidly became global, incorporating the ongoing Second Sino-Japanese War (full-scale from 1937) and eventually the United States after Pearl Harbor (7 December 1941). The war ended in Europe with Germany's unconditional surrender on 8 May 1945 (VE Day) and in the Pacific with Japan's surrender on 2 September 1945 after the atomic bombings of Hiroshima and Nagasaki.
+
+From the exclusive range (Waddell "Road to War" and Citino "German Years of Victory" sections): The conflict's immediate European trigger was Germany's rapid conquest of Poland. Despite Polish resistance—including the counterattack along the Bzura River west of Warsaw starting 9 September—the Wehrmacht's concentric operations by Army Group North (Bock) and Army Group South (Rundstedt), spearheaded by the Tenth Army's six mobile formations (two Panzer, two light, two motorized divisions), overran Polish defenses. Krakow fell by 6 September; first Panzers reached Warsaw outskirts 8 September. The Bzura fighting trapped over 100,000 Polish troops (including remnants of Poznan and Pomorze Armies); mass surrenders followed. Warsaw fell 27 September after unrelenting air and artillery attack. Soviet forces invaded eastern Poland 17 September with minimal opposition, completing the partition. "The Germans had won this campaign in its opening days." Polish losses: 65,000 killed, 144,000 wounded, ~587,000 POWs to Germans (plus ~200,000 to Soviets). German losses: 11,000 killed, 30,000 wounded. Some 100,000 Poles escaped to Romania. The campaign was described as the "Eighteen Days' Campaign."
+
+The "Phony War" (Sitzkrieg) followed until April 1940, when Germany launched Weserübung, invading Denmark and Norway (first combat paratroop landing in history during Denmark phase; five simultaneous Norwegian seaborne landings plus air operations at Oslo and Sola). This secured iron ore routes and U-boat bases.
+
+## Causal Analysis
+
+**caused_by:** [[treaty-of-versailles|Versailles settlement]] (war guilt, reparations, territorial losses creating German revanchism; inconsistent application of self-determination leaving German minorities in Czechoslovakia/Poland). "The 'war guilt' clause... seemed unjust to most Germans..."
+
+**contributed_to:** Global economic crisis after 1929 Crash ("The fundamental cause of the Nazis’ startling rise to power... was the crash of the stock market itself..."). Failure of League ("lacked any means of enforcing its decisions"; US Senate blocked accession, leaving Britain/France without decisive superiority). Japanese militarism post-Mukden Incident 1931 and full China invasion 1937 ("Rape of Nanking"). Italian expansionism under Mussolini (Ethiopia 1935, Albania 1939).
+
+**preceded_by:** [[first-world-war-1914|First World War]] and its settlements; rise of Hitler to chancellorship 1933, rearmament, Rhineland occupation 7 March 1936 ("German troops marched into the demilitarized Rhineland... with bands playing and were welcomed... French and British... unwilling to respond").
+
+Immediate trigger: Polish guarantee by Britain/France (31 March 1939) after full Czechoslovakia occupation March 1939; Pact with USSR removing two-front risk for Germany.
+
+Link types preserved: temporal (preceded_by Versailles) distinguished from causal (caused_by specific grievances + Depression enabling radicalization).
+
+## Consequence Analysis
+
+Immediate: Destruction of Polish state; German control of central Europe; Soviet gains in east. Demonstrated viability of large-scale mechanized "Blitzkrieg" operations ("term 'Blitzkrieg' was universally understood to mean the use of hard-driving armored spearheads in combination with unrelenting bombing from the air to knock out enemy resistance in a single decisive campaign").
+
+Longer (from range scope): Shifted initiative to Germany in 1939–40; exposed Western unpreparedness (Maginot focus, limited British army motorization only due to small size); prompted winter 1939–40 German training reforms (reserve divisions, light divisions converted to Panzers, Luftwaffe comms overhaul). Set pattern for early Axis victories.
+
+## Barbarossa and Eastern Front 1941 (from Megargee range)
+
+**Narrative (grounded in range):** On June 22, 1941, Operation Barbarossa opened with Luftwaffe strikes on Soviet airfields and artillery barrages. "The Germans quickly achieved complete air supremacy..." Three army groups advanced: North toward Leningrad, Center via Minsk-Smolensk toward Moscow, South toward Kiev. Early successes included pincer at Minsk then Smolensk. By early August, despite heavy fighting, Germans threatened Kiev. Hitler overruled generals to divert Army Group Center armor south; Kiev pocket closed September 15; four Soviet armies (43 divisions) eliminated, over 700,000 Soviet losses. "The Soviets had lost over 700,000 more men."
+
+Renewed drive: Operation Typhoon (late Sep/Oct 1941) assembled nearly 2M Germans vs ~1.25M Soviets; initial encirclements at Vyaz’ma and Bryansk cost Soviets another ~1M men (685k+ prisoners). Advance stalled mid-Oct by "fall rasputitsa" (mud season); resumed Nov 15 but exhausted forces halted by early Dec amid winter. Soviets launched massive counteroffensive Dec 5, 1941, outnumbering locally 2:1 at points of attack (Siberian reserves released after confirming Japanese neutrality). Germans pushed back but retired in order. "The Germans were not getting the period of rest and refurbishment for which they had planned."
+
+Behind lines: "The army entered into an agreement with the Food Ministry to starve as many as thirty million Soviet citizens..." POWs: ~3.3M captured early; ~1.8M died by spring 1942 from starvation/exposure/disease/abuse; ~half-million Jews/Communists/"Asiatics" culled and murdered from pens. Einsatzgruppen and auxiliaries "shot Jewish men, women, and children en masse. By the end of the year, the Germans had murdered about a million Jews..." Ghettos established. By late fall 1941, incremental decisions coalesced on "the so-called Final Solution to the Jewish Question: the physical annihilation of every Jew..." Wannsee Conference (Heydrich, Jan 20 1942) coordinated; Chelmno killing center already operating. "roughly three million Jews would die in 1942, half of the total number of victims who would die as a result of the Final Solution."
+
+Soviet mobilization: "By July 1, they had called up an astounding 5.3 million additional men. By August 1, they had formed 17 new field armies, with 144 new divisions..." "Soviet forces in the west now numbered 343 divisions and 98 separate units, over four million."
+
+**Causal Analysis (Megargee):** German: racial ideology (Lebensraum, anti-Slav/Jewish-Bolshevik), economic desperation (oil/food shortages), overconfidence after France ("most of the senior officers believed that the Wehrmacht would defeat the Red Army easily in a single campaign"), flawed planning (underestimated Red Army >5M actual vs believed 2M; logistics on shoestring with horses/poor roads/rail gauge mismatch; infantry vs armor pace mismatch). Soviet: appeasement ("maintain friendly relations with Germany"), late/chaotic reforms, offensive doctrine only, poor intelligence/denial (Stalin delayed warnings until June 21 evening), linear deployment. "If war is the unfolding of miscalculations... Operation Barbarossa is one of the best examples."
+
+**Consequence Analysis:** Germans failed to achieve decisive victory or regime collapse; left overextended, short on supplies/winter gear, facing growing Soviet strength and will. "They could not sustain their offensive, could never quite destroy the Red Army, could never force the Soviets to give up." Soviets: immense losses but "performing miracles of mobilization and reorganization"; regime survived and counterattacked; "the course of the war, and the world’s future, would be different as a result." Final Solution formalized; Holocaust escalated to industrial scale. Shifted focus; Japan turned south after Barbarossa (surprise to Tokyo). "Nearly 75 percent of German combat fatalities... on the Eastern Front."
+
+caused_by: [[operation-barbarossa-1941]] (or dedicated); contributed_to: [[holocaust]], Soviet survival and rise as superpower. preceded_by: Fall of France 1940, Nazi-Soviet Pact; followed_by: Stalingrad etc. (cross-volume).
+
+## Actors
+
+See frontmatter and hub. Key from range: Hitler (consolidated power, renounced Versailles, pursued Lebensraum); Rydz-Śmigły (linear border defense chosen); Bock and Rundstedt (Army Group commanders); Guderian (XIX Motorized Corps); von Seeckt (preserved core army post-1918); Mussolini (aligned via Pact of Steel May 1939).
+
+From Megargee range: [[adolf-hitler]] (addressed commanders March 30 1941 on extermination war; overruled Halder/Brauchitsch on Moscow priority for Ukraine resources); [[joseph-stalin]] (appeasement + partial mobilization + officer purges legacy; ignored warnings; ordered counteroffensives); [[franz-halder]] (Army Chief of Staff; recorded casualties, pushed Moscow focus); Walther von Brauchitsch; Fedor von Bock (Army Group Center); Gerd von Rundstedt (Army Group South); Mikhail Kirponos (Southwestern Front); [[georgy-zhukov]] (fire-brigade role, Moscow defense/counteroffensive); Reinhard Heydrich (Wannsee, Final Solution coordination); Einsatzgruppen leaders; local auxiliaries. Also Army Group North (Leeb/Reinhardt); Soviet fronts under Kuznetsov, Kirponos, etc. "Stalin had learned that the Japanese did not intend to attack in the East, so he had released forces..."
+
+## Historiography
+
+From this source (West Point operational focus): Emphasizes combined-arms coordination, momentum maintenance, Stuka effectiveness, and German recognition of flaws (friendly fire, reserve quality, logistics) post-Poland. Notes Polish deployment was constrained by geography and political imperative not to abandon territory pre-war ("No government is ever likely to adopt a strategy that abandons a major portion of the national territory before a shot has even been fired"). Contrasts with broader debates (see [[causes-of-the-second-world-war]]).
+
+**Collection note (per range):** Strong on German interwar doctrine (Seeckt, Guderian/Manstein debate on armor vs. traditional infantry), precise campaign mechanics, OOB, and "Blitzkrieg" as observed reality rather than formal doctrine. Limited on non-European theaters in this range slice; complements economic (Overy) and Pacific (Drea) sections in full volume.
+
+From Megargee (range_3): Highlights planning flaws (logistics, intelligence bias, operational concept over logistics), racial/ideological drivers of policy (Commissar Order, starvation pact, Einsatzgruppen), Soviet resilience/mobilization miracles despite initial catastrophe, incremental path to full Final Solution (no single order; Wannsee coordination after mass shootings of ~1M Jews by end-1941). "The Germans left themselves no options, deep in a foreign land, facing an enemy whose strength and hatred would only grow." "On the Soviet side... the regime held fast." Notes miscalculations on both sides; German POW/civilian policies produced ~60% Soviet POW mortality early war and uncounted civilian starvation. Contrasts with purely military accounts by embedding ideology. Update with primary (Halder diary implied, Reichenau order quoted) and later scholarship for numbers/debates on timing of Final Solution decision.
+
+## Related
+
+- Period: [[periods/world-wars-era|World Wars Era]]
+- Hub: [[hubs/warfare/world-wars-era/second-world-war/second-world-war|WWII War Hub]]
+- Key analyses (from Vol. 1 source, full template): [[hubs/warfare/world-wars-era/second-world-war/invasion-of-poland-1939|Invasion of Poland 1939]], [[hubs/warfare/world-wars-era/second-world-war/fall-of-france-1940|Fall of France 1940]], [[hubs/warfare/world-wars-era/second-world-war/battle-of-britain-1940|Battle of Britain 1940]], [[hubs/warfare/world-wars-era/second-world-war/operation-barbarossa-1941|Operation Barbarossa 1941]], [[hubs/warfare/world-wars-era/second-world-war/attack-on-pearl-harbor-1941|Attack on Pearl Harbor 1941]], [[hubs/warfare/world-wars-era/second-world-war/battle-of-midway-1942|Battle of Midway 1942]]
+- Processes: [[processes/war-economies-wwii]], [[processes/home-fronts-wwii]]
+- Causes: [[controversies/causes-of-the-second-world-war]]
+- Actors: [[adolf-hitler]], [[winston-churchill]], etc.
+- Predecessor: [[events/first-world-war-1914]], [[1914-end-of-long-19th-century]]
+- Source grounding: [[sources/rogers-seidule-west-point-history-world-war-ii-v1-2015]]
+- Specific sub-events from ranges: [[battle-of-kiev-1941]], [[battle-of-smolensk-1941]], [[operation-typhoon-1941]], [[final-solution]], [[holocaust]] (beginnings)
+
+**Reciprocal links from hub and analyses required and in place.**

@@ -134,7 +134,7 @@ Livy, *Hannibal's War* · the CAH volumes · Cold War (Westad; Leffler–Westad 
 | Source | Flag | Status | Notes |
 |---|---|---|---|
 | *When Titans Clashed* — David M. Glantz & Jonathan M. House | `[BUY]` | ❌ | ⭐ The Eastern Front operational standard. |
-| *The West Point History of World War II, Volume 1* — Rogers & Seidule (eds.) | `[LIBRARY]` | ✅ | Ingest complete (source page + war hub + all subagent ranges reconciled); detailed hub analyses (Poland 1939, Fall of France 1940, Battle of Britain 1940, Barbarossa 1941, Pearl Harbor 1941, Midway 1942); process pages (war-economies-wwii, home-fronts-wwii); reciprocal links; full Vol 1 text + claims from Waddell/Overy/Citino/Megargee/Drea/Rogers. Fills WWII slot. |
+| *The West Point History of World War II, Volume 1* — Rogers & Seidule (eds.) | `[LIBRARY]` | ✅ | Ingest complete (source page + war hub + all 5 subagent ranges reconciled); detailed hub analyses (Poland 1939, Fall of France 1940, Battle of Britain 1940, Barbarossa 1941, Pearl Harbor 1941, Midway 1942); process pages (war-economies-wwii, home-fronts-wwii); reciprocal links; full Vol 1 text + claims from Waddell/Overy/Citino/Megargee/Drea/Rogers. All ranges integrated (Range 3: Megargee on Barbarossa + Final Solution beginnings). Fills WWII slot. |
 | *Stalingrad* / *Kursk* operational studies — David M. Glantz | `[LIBRARY]` | ❌ | Glantz's multi-volume battle reconstructions (deepest available). |
 | *Death of the Wehrmacht* — Robert M. Citino | `[BUY]` | ❌ | The 1942 campaigns; model of operational-history method (+ the *Wehrmacht Retreats/Last Stand* trilogy). |
 | *Decision in Normandy* — Carlo D'Este | `[BUY]` | ❌ | Campaign-level analysis; pair with *Bitter Victory* (Sicily). |
