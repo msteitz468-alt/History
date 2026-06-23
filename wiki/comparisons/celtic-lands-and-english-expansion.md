@@ -1,10 +1,12 @@
 ---
 title: The Celtic Lands and English Expansion (Wales, Scotland, Ireland)
-period: [High Middle Ages]
-regions_compared: [british-isles]
+comparison_type: cross-regional
+periods_covered: [High Middle Ages]
+regions_covered: [british-isles]
 cases: [Wales, Scotland, Ireland]
 axis_of_comparison: divergent responses to English power in the thirteenth century
-last_updated: 2026-06-12
+sources_ingested: 1
+last_updated: 2026-06-22
 tags: [comparison, high-middle-ages, british-isles]
 ---
 
@@ -89,5 +91,5 @@ Wales, Chs. 22a–c) carries the comparison forward. The three lands' divergent 
 
 - `part_of:` the expansion of the [[edward-i-plantagenet|Edwardian English state]] (the conquest of Wales, the Scottish wars).
 - `concurrent_with:` the [[wars-of-the-roses-1455|Wars of the Roses]] (which drew in Anglo-Ireland and Wales) and the [[tudor-dynasty|Tudor settlement]] (Poynings' Law).
-- `analogous_to:` the frontier conquests of the [[teutonic-knights|Baltic]] and [[reconquista|Iberia]] — consolidating powers against peripheral societies.
+- `analogous_to:` the frontier conquests of the [[teutonic-knights|Baltic]] and [[reconquista|Iberia]] — consolidating powers against peripheral societies; extended in [[frontier-societies-and-core-expansion]] across Chinese, Russian, and other cases.
 - `contrasts_with:` the divergent fates of Wales (conquest), Scotland (independence) and Ireland (division).

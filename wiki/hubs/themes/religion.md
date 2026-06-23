@@ -70,3 +70,7 @@ views:
       - property: date_start
         direction: ASC
 ```
+
+## Related
+
+- [[religious-authority-and-institutions-across-major-traditions]] — structural comparison of ulama, Church, sangha, and Brahminical authority.

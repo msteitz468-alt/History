@@ -72,7 +72,8 @@ questions of performance, information, landscape, power, creation, and empire.
 | 6 — Creations | `baghdad`, `cahokia`, `jerusalem`, `founded-cities` (4) | |
 | 7 — Imperial | `nineveh`, `tenochtitlan`, `rome`, `imperial-city` (4) | |
 | 8 — Synthesis | (index.md, overview.md updated) | |
-| **Total** | **29** | **1** |
+| **Comparison synthesis** | `early-cities-in-comparative-perspective` (1) | |
+| **Total** | **30** | **1** |
 
 ## Volume Synthesis Note
 
@@ -104,6 +105,8 @@ and [[what-defines-a-city]] controversies. A second recurring move is the
 **dissolution of the urban–rural dichotomy**: urbanization is always also
 [[ruralization]] (Uruk's central-place hinterland, Teotihuacan's Axotlan,
 Tiwanaku's qochas, the Aztec altepetl).
+
+A dedicated synthesis page [[early-cities-in-comparative-perspective]] now distills the volume's six-axis experiment into a single structural comparison (performance, information technology, landscapes, power/heterarchy, creation, and imperial cities), cross-linking the individual place and concept pages created during the original ingest.
 
 Read against the volumes already ingested, Vol. III is the **direct successor to
 the [[agriculture-and-urbanism]] thread** opened in [[barker-cwh-v2-2015|Vol. II]]:

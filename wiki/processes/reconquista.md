@@ -123,3 +123,4 @@ key context of 1492; critics judge the causal claim overstated (see
 - [[christian-kingdoms-of-spain]], [[el-cid]] — the Christian agents and the era's emblematic figure.
 - [[crusades]] — the ideology assimilated to it.
 - [[crown-of-aragon]], [[nasrid-granada]], [[maghrib-successor-states]] — the thirteenth-century conquerors, the surviving Muslim state, and the fragmented Maghrib behind them.
+- [[frontier-societies-and-core-expansion]] — Iberian frontier as one case of divergent peripheral responses.

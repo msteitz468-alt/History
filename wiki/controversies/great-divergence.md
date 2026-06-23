@@ -88,4 +88,4 @@ without settling the question.
 [[industrious-revolution]] · [[early-modern-commerce]] · [[plantation-economy]] ·
 [[global-silver-trade]] · [[atlantic-slave-trade]] · [[military-revolution-thesis]] ·
 [[eurocentrism]] · [[early-modern]] · [[age-of-expansion]] · [[industrialization]] ·
-[[great-acceleration]] · [[long-19th-century]]
+[[great-acceleration]] · [[long-19th-century]] · [[commercial-revolutions-compared]] (the medieval/early modern commercial phase)

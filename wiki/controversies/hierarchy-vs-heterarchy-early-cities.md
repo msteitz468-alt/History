@@ -73,3 +73,4 @@ govern the comparative study of cities.
 - Concepts: [[heterarchy]] · [[city-state]] · [[urban-revolution]] · [[urbanism]]
 - Places: [[jenne-jeno|Jenne-jeno]] · [[teotihuacan|Teotihuacan]] · [[mohenjo-daro|Mohenjo-daro]] · [[uruk|Uruk]]
 - Controversy: [[what-defines-a-city]]
+- Comparison: [[early-cities-in-comparative-perspective]] (CWH Vol. III synthesis of power distribution across early cities)

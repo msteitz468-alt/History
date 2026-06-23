@@ -95,3 +95,4 @@ CWH III's portrait of the city's internal planning and anonymous rulership.
 - Places: [[tikal|Tikal]] (contrast: king cult) · [[classic-maya|Classic Maya]] · [[tiwanaku|Tiwanaku]] · [[tenochtitlan|Tenochtitlan]] · [[uruk|Uruk]]
 - Process: [[urbanization]] · [[ruralization]] · [[mesoamerican-state-formation]] · [[trade-network-formation]]
 - Concept: [[urbanism]] · [[heterarchy]] · [[mesoamerican-calendar]] · Controversy: [[hierarchy-vs-heterarchy-early-cities]]
+- Comparison: [[early-cities-in-comparative-perspective]] (heterarchy, landscape, and power distribution)

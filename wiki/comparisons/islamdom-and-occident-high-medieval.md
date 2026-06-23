@@ -1,13 +1,14 @@
 ---
 title: Islamdom and the Occident — A Structural Comparison (c. 1100–1300)
-period_involved:
-  - High Middle Ages
-regions_involved:
+comparison_type: civilizational-structural
+periods_covered: [High Middle Ages]
+regions_covered:
   - mediterranean-world
   - near-east
   - iran-plateau
   - western-europe
-comparison_type: civilizational-structural
+civilizations_compared: [Islamdom, Latin Christendom (the Occident)]
+axis_of_comparison: civilizational comparison of legitimation, law, religion, society, and high culture (Hodgson)
 sources_ingested: 1
 last_updated: 2026-06-22
 tags:
@@ -101,3 +102,5 @@ The most consequential Islamicate influence on the Occident was unintentional an
 Hodgson explicitly criticizes "the most brilliant interpretation of Islamicate culture as resulting from a closed circle of concepts"—that of Gustave von Grunebaum—for deriving Islamdom's formative assumptions "negatively, by way of contrast (what Islam lacks)" from Occidental norms, and for treating "Western Man" as a mythological being whose cultural traits are "the highest and most human yet achieved." He also criticizes Toynbee's "Arabic" vs. "Iranic" civilization distinction as perceiving a real phenomenon but "much exaggerating the isolation of Syria and Egypt."
 
 The comparison in this chapter represents Hodgson's most sustained contribution to the comparative history of civilizations, and one of the most sophisticated treatments of the Islam-West comparison in twentieth-century historiography.
+
+See also [[religious-authority-and-institutions-across-major-traditions]] for the focused treatment of 'ulama vs Church vs sangha/Brahmin structures, and [[legal-legitimation-styles-compared]], which deepens the moralism-vs-formalism contrast above into a comparison of the *grounds* of legal authority (revealed-juristic vs. reason-and-precedent vs. sovereign-mandate) across Islamic, Roman/canon, and Chinese law.

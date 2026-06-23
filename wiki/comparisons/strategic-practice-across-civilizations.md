@@ -4,8 +4,9 @@ comparison_type: cross-civilizational
 civilizations_compared: [ancient China, Achaemenid Persia, Greece, Rome, Byzantium, the Caliphates, the Mongol Empire, Mughal India, Ming/Qing China, the Ottomans, the Habsburgs, early-modern Europe]
 periods_covered: [Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion]
 regions_covered: [transregional]
+axis_of_comparison: universal features versus culture-specific patterns of strategic practice
 sources_ingested: 2
-last_updated: 2026-06-13
+last_updated: 2026-06-22
 tags: [comparison]
 ---
 
@@ -78,3 +79,4 @@ strictly universal.
 - [[strategy]] — the concept and definition; [[roman-grand-strategy]] — the controversy over reading "grand strategy" into a pre-modern empire.
 - [[mongol-army]] · [[raja-mandala]] · [[kautilyan-statecraft]] · [[military-revolution]] — specific strategic systems and turning points.
 - [[cambridge-history-of-strategy-v1]] · [[cambridge-history-of-strategy-v2]] — the sources.
+- [[empire-formation-and-collapse-patterns]] — narrow focus on surplus-extraction mechanisms as a residual structural variable.

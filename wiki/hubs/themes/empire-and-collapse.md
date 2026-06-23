@@ -51,6 +51,7 @@ tags: [hub, theme, empire-and-collapse]
 - [[ottoman-decline-thesis|The Ottoman "decline" thesis]] ·
   [[societal-collapse-and-environmental-determinism|collapse and environmental determinism]] ·
   [[nature-of-roman-imperialism|the nature of Roman imperialism]].
+- [[empire-formation-and-collapse-patterns]] — comparison of surplus-extraction mechanisms (narrow residual axis).
 
 ---
 

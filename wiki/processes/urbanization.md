@@ -167,3 +167,4 @@ process never reverses after its inception.
 - Concepts: [[urbanism]] · [[urban-revolution]] · [[city-state]] · [[heterarchy]] · [[ruralization]]
 - Process: [[agriculture-and-urbanism]] · [[domestication]]
 - Controversy: [[what-defines-a-city]] · [[hierarchy-vs-heterarchy-early-cities]]
+- Comparison: [[early-cities-in-comparative-perspective]] (six features of early urbanism tested cross-culturally)

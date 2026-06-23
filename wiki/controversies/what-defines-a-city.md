@@ -64,3 +64,4 @@ failure to be resolved.
 - Concepts: [[urbanism]] · [[urban-revolution]] · [[heterarchy]] · [[city-state]]
 - Process: [[urbanization]]
 - Controversy: [[hierarchy-vs-heterarchy-early-cities]]
+- Comparison: [[early-cities-in-comparative-perspective]] (the volume's explicit cross-civilizational test of urban definitions)

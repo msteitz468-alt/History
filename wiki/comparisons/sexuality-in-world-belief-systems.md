@@ -4,8 +4,9 @@ comparison_type: cross-civilizational
 civilizations_compared: [ancient Egypt, Greece and Rome, traditional South Asia, China, the Abrahamic religions (Judaism, Christianity, Islam), Buddhism, Africa, Oceania, the Americas]
 periods_covered: [Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Long 19th Century, Contemporary]
 regions_covered: [transregional]
+axis_of_comparison: culturally specific frameworks for desire, the body, marriage, and identity across belief systems
 sources_ingested: 1
-last_updated: 2026-06-13
+last_updated: 2026-06-22
 tags: [comparison]
 ---
 
@@ -83,6 +84,8 @@ The comparison's payoff is the demonstration of **deep variation** — procreati
 (South Asia) vs. status-and-act (Greco-Roman) — against which a few recurring concerns
 (marriage, fertility, the management of desire, gender hierarchy) stand out. It anchors the
 constructionist argument of the [[history-of-sexuality]] in concrete cross-cultural evidence.
+
+See also [[religious-authority-and-institutions-across-major-traditions]] for the institutional structures (ulama, Church, sangha, Brahmin) that framed these sexual regimes.
 
 ## Related
 

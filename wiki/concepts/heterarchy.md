@@ -67,3 +67,4 @@ This is the subject of the [[hierarchy-vs-heterarchy-early-cities]] controversy.
 - Places: [[jenne-jeno|Jenne-jeno]] · [[teotihuacan|Teotihuacan]] · [[uruk|Uruk]]
 - Process: [[agriculture-and-urbanism]] · [[urbanization]]
 - Controversy: [[hierarchy-vs-heterarchy-early-cities]] · [[what-defines-a-city]]
+- Comparison: [[early-cities-in-comparative-perspective]] (the volume's six-axis experiment that made heterarchy central)

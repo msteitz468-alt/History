@@ -87,3 +87,4 @@ the trans-Saharan Muslim trade once credited with creating it (see [[sub-saharan
 - Process: [[agriculture-and-urbanism]] · [[urbanization]] · [[trans-saharan-trade]]
 - Actors: [[ghana-empire|Ghana]] · [[nok-culture|Nok culture]]
 - Controversy: [[hierarchy-vs-heterarchy-early-cities]] · [[what-defines-a-city]]
+- Comparison: [[early-cities-in-comparative-perspective]] (heterarchy and distributed power in early cities)

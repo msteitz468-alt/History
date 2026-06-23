@@ -92,6 +92,7 @@ disappears.
 ## Related
 
 - [[afro-eurasian-world-system]] — the concrete network proto-globalization describes.
+- [[polycentric-world-systems-and-trade-networks]] — polycentric trade systems compared structurally with the European-cored Atlantic.
 - [[middle-millennium]] — the period this concept characterizes.
 - [[early-modern]] — the period in which proto-globalization becomes globalization.
 - [[cultural-crystallization]], [[axial-age]] — the Eisenstadt scheme it sits within.

@@ -103,3 +103,4 @@ Athens with [[places/jenne-jeno|Jenne-jeno]].
 - Process: [[urbanization]] · [[agriculture-and-urbanism]] · [[ruralization]]
 - Concepts: [[urban-revolution]] · [[city-state]] · [[heterarchy]] · [[writing-and-record-keeping]]
 - Controversy: [[what-defines-a-city]] · [[hierarchy-vs-heterarchy-early-cities]]
+- Comparison: [[early-cities-in-comparative-perspective]] (the six-axis cross-civilizational synthesis from CWH Vol. III)

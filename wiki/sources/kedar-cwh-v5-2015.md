@@ -165,3 +165,5 @@ and Radkau's environmental chapter promotes the long-pending **Diamond-collapse*
 standing controversy to a full page.
 
 **Totals:** 27 pages created, 19 updated, across 9 reading cycles.
+
+A dedicated comparison page [[commercial-revolutions-compared]] now synthesizes the commercial dimensions across the volume's trade networks and state-formation sections with Reid's SE Asian material and the European commercial revolution, highlighting drivers, effects, and divergent paths (Song engine, European cul-de-sac-to-center, SE Asian passageway interrupted by crisis).

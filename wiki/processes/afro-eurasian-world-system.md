@@ -156,4 +156,9 @@ persisted and were reorganized under the Ottoman, Timurid, and Ming states. By
 the first time, dissolving the Afro-Eurasian world system into the genuinely global
 one of the [[early-modern|Early Modern]] era — the subject of [[bentley-cwh-v6|CWH VI]].
 
+## Related
+
+- [[commercial-revolutions-compared]] — the Song as one of the system's commercial engines, compared with European and Southeast Asian cases.
+- [[polycentric-world-systems-and-trade-networks]] — this 13th-century system compared structurally with the Indian Ocean world and the European-cored Atlantic system.
+
 

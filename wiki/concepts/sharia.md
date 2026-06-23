@@ -101,3 +101,4 @@ The intellectual disciplines associated with Shari'ah-mindedness extended beyond
 - concurrent_with: [[abbasid-caliphate]]
 - contrasts_with: [[shia-islam]] (parallel Shar'i systems with divergent hadith authority)
 - source: [[hodgson-venture-of-islam-v1-1974]]
+- See also: [[legal-legitimation-styles-compared]] — shari'a as the revealed-juristic type, compared with Roman/canon and Chinese imperial law.

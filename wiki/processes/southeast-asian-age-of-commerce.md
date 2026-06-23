@@ -167,3 +167,10 @@ Vietnam) followed an **agrarian, administrative-integration** rhythm only loosel
 maritime commercial cycle, and questions how unified or synchronised the "crisis" really was; others
 debate the degree of genuine regional unity Reid posits and the weight given to a single
 seventeenth-century turning point. The framework remains foundational even where contested.
+
+## Related
+
+- [[commercial-revolution]] — the parallel European expansion.
+- [[song-dynasty]] and [[afro-eurasian-world-system]] — the Chinese engine and broader system.
+- [[great-divergence]] — longer-term implications of the different trajectories.
+- [[commercial-revolutions-compared]] — the cross-civilizational comparison of the three commercial booms.

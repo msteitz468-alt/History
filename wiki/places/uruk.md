@@ -127,4 +127,5 @@ the [[early-bronze-age|Early Bronze Age]].
 - State: [[early-dynastic-sumer]] · Concept: [[sumerian-king-list]] · [[temple-economy]]
 - Process: [[urbanization]] · [[writing-and-record-keeping]] · Period: [[early-bronze-age]] · [[chalcolithic]]
 - Concept: [[urban-revolution]] · [[urbanism]] · [[city-state]]
+- Comparison: [[early-cities-in-comparative-perspective]] (info technology and early urban template)
 - Literary: [[gilgamesh|Gilgamesh]] and [[enkidu|Enkidu]] (the epic as Uruk's foundational legend); [[andrew-george-epic-of-gilgamesh-1999|Andrew George trans.]] (primary source)

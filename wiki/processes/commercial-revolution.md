@@ -156,3 +156,4 @@ downturn that Spufford made his special study.
 - [[indian-ocean-trade]], [[silk-roads]] — the Asian trades Europe plugged into.
 - [[coinage]] — the monetary instruments revived in this period.
 - [[crusades]] — the conflict that opened Levantine markets.
+- [[commercial-revolutions-compared]] — structural comparison with the Song and Southeast Asian commercial expansions.

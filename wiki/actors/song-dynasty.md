@@ -97,6 +97,7 @@ follow.
 - [[tang-dynasty]], [[sui-dynasty]] — the preceding reunification and apogee.
 - [[mongol-empire]] · [[yuan-dynasty]] · [[kublai-khan]] — the conquerors of the Southern Song (1279). The [[cambridge-history-of-china|CHC]] Vol. 6 frames the Song as ringed and ultimately overrun by the steppe **"conquest dynasties"** (Liao, Xi Xia, Jin, then the Mongol Yuan).
 - [[commercial-revolution]], [[afro-eurasian-world-system]] — the economy the Song anchored.
+- [[commercial-revolutions-compared]] — comparison of the Song commercial florescence with the European and Southeast Asian cases.
 - [[cultural-crystallization]] — the 10th–13th c. reorientation in which Song China is a principal case.
 - [[tang-song-transition]] — the social transformation (aristocracy → literati) that made the Song a "new society" ([[kuhn-die-song-dynastie|Kuhn]]).
 - [[cambridge-history-of-china]] — the source (Alien Regimes volume, on the Song's conquerors); [[kuhn-die-song-dynastie]] — Kuhn's social-cultural history of the Song.

@@ -71,3 +71,4 @@ Andean comparand to gridded [[teotihuacan|Teotihuacan]] and Mesopotamian
 - Process: [[urbanization]] · [[ruralization]]
 - Concept: [[urbanism]] · [[ritual-and-urban-performance]] · [[heterarchy]]
 - Controversy: [[what-defines-a-city]]
+- Comparison: [[early-cities-in-comparative-perspective]] (urban landscapes and ruralization)

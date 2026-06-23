@@ -126,3 +126,5 @@ multi-empire Afro-Eurasian system as the proper unit of analysis, with the
 raises is the differential *durability* of imperial order — China's repeated
 reunification versus the Mediterranean's permanent post-Roman fragmentation. See
 [[state-formation]] for the underlying political process.
+
+See also [[empire-formation-and-collapse-patterns]] for a focused comparison of surplus-extraction mechanisms as a variable in imperial resilience.

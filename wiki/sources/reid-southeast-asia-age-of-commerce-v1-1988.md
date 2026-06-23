@@ -88,3 +88,5 @@ remains for the gap**: this volume is the *social-cultural* portrait; the *econo
 Crisis*)**, which will complete the [[southeast-asian-age-of-commerce|age-of-commerce]] page. Still
 unbuilt as discrete polities: **Srivijaya, Majapahit, Champa, Pagan/Burma, Ayutthaya/Siam, and
 Vietnam** — to come from Reid Vol. 2 and the **Cambridge History of Southeast Asia**.
+
+A cross-civilizational comparison page [[commercial-revolutions-compared]] now places the SE Asian Age of Commerce alongside the Song and European cases.

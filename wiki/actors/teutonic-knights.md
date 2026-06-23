@@ -82,3 +82,4 @@ sovereignty in 1525.
 - `part_of:` the [[crusades|crusading movement]] redirected to the pagan Baltic frontier.
 - `concurrent_with:` the German **Ostsiedlung** noted in [[frederick-ii-hohenstaufen|the Empire]] and the [[central-european-kingdoms|Piast]] lands.
 - `opposed_by:` the pagan Prussians and the Lithuanians; `affiliated_with:` the papacy and the Empire.
+- Comparison: [[frontier-societies-and-core-expansion]] (Baltic frontier response).

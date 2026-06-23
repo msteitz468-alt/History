@@ -362,7 +362,19 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 
 ## Comparisons (`wiki/comparisons/`)
 
-*(none yet)*
+| File | Title | Axis |
+|------|-------|------|
+| `celtic-lands-and-english-expansion.md` | The Celtic Lands and English Expansion (Wales, Scotland, Ireland) | Divergent responses to English power (conquest vs. independence vs. enduring division) |
+| `islamdom-and-occident-high-medieval.md` | Islamdom and the Occident — A Structural Comparison (c. 1100–1300) | Civilizational comparison of legitimation, law, society and high culture (Hodgson) |
+| `sexuality-in-world-belief-systems.md` | Sexuality in World Belief Systems | Cross-civilizational comparison of frameworks for desire, the body, and regulation |
+| `strategic-practice-across-civilizations.md` | Strategic Practice Across Civilizations | Recurring vs. culture-specific patterns of strategy across major civilizations |
+| `polycentric-world-systems-and-trade-networks.md` | Polycentric World-Systems and Trade Networks Compared | Degree of hegemony / mode of integration — polycentric & low-coercion vs. single-cored & coercive |
+| `legal-legitimation-styles-compared.md` | Legal Legitimation Styles Compared | The ground of legal authority (revealed-juristic vs. reason-and-precedent vs. sovereign-mandate) and its consequences |
+| `early-cities-in-comparative-perspective.md` | Early Cities in Comparative Perspective | Six cross-cultural features of early urbanism (performance, information technology, landscape, power/heterarchy, creation, imperial functions) |
+| `commercial-revolutions-compared.md` | Commercial Revolutions Compared (Song China, High Medieval Europe, Southeast Asian Age of Commerce) | Drivers, social/political effects, and divergent trajectories of three commercial expansions |
+| `frontier-societies-and-core-expansion.md` | Frontier Societies and Responses to Core Expansion | Divergent peripheral responses (conquest, independence, division) under core pressure |
+| `religious-authority-and-institutions-across-major-traditions.md` | Religious Authority and Institutions Across Major Traditions | 'Ulama, Church, sangha, and Brahminical structures and state integration |
+| `empire-formation-and-collapse-patterns.md` | Empire Formation, Universal Aspirations, and Collapse Patterns | Surplus-extraction mechanisms as a variable in imperial resilience (narrow axis) |
 
 ---
 
