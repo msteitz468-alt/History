@@ -478,6 +478,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `harper-fate-of-rome-2017.md` | The Fate of Rome: Climate, Disease, and the End of an Empire (Kyle Harper) | 2017 | secondary | (staggered subagent ranges; climate change (RCO, Late Roman Transition, LALIA) and pandemics (Antonine, Cyprian, Justinianic) in the decline and fall of the Roman Empire) |
 | `encyclopaedia-of-islam-index-subjects-1996.md` | The Encyclopaedia of Islam (New Edition) — Index of Subjects (comp. P.J. Bearman) | 1996 | reference | (finding-aid to EI2 Vols I–VIII + Suppl. 1–6; source page only — an index, no claims; OCR-noisy; does NOT close the EoI-proper gap) |
 | `brills-first-encyclopaedia-of-islam-1913-1936.md` | E.J. Brill's First Encyclopaedia of Islam, 1913–1936 (Houtsma et al.) | 1913-1936 | reference | (EI1; B–D range primarily extracted; source page + Section Plan; OCR-noisy reference for Islamic actors/places/concepts/doctrines; will enrich Baghdad, Buyids, Khurrami revolt, Bada', etc.; partial) |
+| `rogers-seidule-west-point-history-civil-war-2014.md` | The West Point History of the Civil War (Rogers & Seidule, general eds.) | 2014 | secondary | (West Point History of Warfare series vol.; 6-chapter operational/tactical treatment; source page + war hub + detailed battle analyses in hubs/warfare/long-19th-century/american-civil-war/ per CLAUDE.md Warfare Hub rules and template; reciprocal links to events/american-civil-war-1861-1865; fills highest-priority Civil War slot in Outstanding War Strategy Sources) |
 
 ---
 

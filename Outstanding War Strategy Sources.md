@@ -24,7 +24,7 @@ Livy, *Hannibal's War* · the CAH volumes · Cold War (Westad; Leffler–Westad 
 
 | Source | Flag | Status | Notes |
 |---|---|---|---|
-| *The West Point History of Warfare* — Clifford J. Rogers, Ty Seidule, Samuel Watson (eds.) | `[LIBRARY]` | ❌ | ⭐ The USMA's own multi-volume illustrated text — the literal "West Point style." Highest priority. |
+| *The West Point History of Warfare* — Clifford J. Rogers, Ty Seidule, Samuel Watson (eds.) | `[LIBRARY]` | 🟡 | ⭐ The USMA's own multi-volume illustrated text — the literal "West Point style." Highest priority. Civil War volume (Rogers & Seidule) ingested: source page, war hub, main event page, detailed battle analyses (First Bull Run, Shiloh started; more from subagents), reciprocal links per Warfare Hub codification. Full text extracted and ranges processed. |
 | *The West Point Atlas of American Wars* — Vincent J. Esposito (2 vols) | `[LIBRARY]` | ❌ | ⭐ Campaign-map standard; pairs directly with battle pages. |
 | *Warfare in the Western World* — Robert Doughty et al. (2 vols) | `[BUY]` | ❌ | The USMA survey text; operations + tactics across all periods. |
 | *The Art of War in the Western World* — Archer Jones | `[BUY]` | ❌ | Operational/tactical analysis spanning antiquity→modern; excellent structural backbone. |
