@@ -24,7 +24,7 @@ Acquisition flags (unchanged): `[BUY]` `[LIBRARY]` `[OUT OF PRINT]` `[NO TRANSLA
 What the cross-check reveals as the **biggest remaining holes** (see ranked detail in the relevant gaps):
 
 1. **Russia & Eastern Europe (Gap 8) — substantially filled.** Riasanovsky's *A History of Russia* (6th ed., 2000) has been ingested, providing the core narrative spine. Other specific sources remain target acquisitions.
-2. **World-Systems & Transregional (Gap 10) — partially filled.** Abu-Lughod and Hansen ingested (polycentric pre-1500 systems + Silk Road sites); Crosby, Diamond, Harper still missing.
+2. **World-Systems & Transregional (Gap 10) — substantially filled.** Abu-Lughod, Hansen, Crosby, and Harper ingested (polycentric systems, Silk Road, Columbian Exchange, and climate-disease dynamics); Diamond still missing.
 3. **Islamic intellectual history (Gap 4b, new) — entirely unfilled.** Politics covered; theology, law, philosophy, science, Sufism absent.
 4. **Core ancient primary sources (Gap 9) — mostly missing.** Gilgamesh, Hammurabi, the Muqaddimah, Odyssey, Aeneid, Secret History of the Mongols.
 5. **China backbone depth (Gap 6) — covered but shallow.** The imperial spine rests on a single light-touch survey read; specialist depth (e.g. Huang's *1587*) still wanted.
@@ -266,9 +266,9 @@ controversy hubs.
 | *The Indian Ocean in World History* — Edward Alpers | `[BUY]` | ✅ (2 subagent ranges + main reconciliation; source + periplus concept, kilwa-kisiwani, busaidi-dynasty, indian-ocean-slave-trade-19c created; enriched indian-ocean-trade, swahili-coast, zheng-he-voyages, periods/hubs; claims on monsoons, Srivijaya, Kilwa, Zheng He, Portuguese/Ottoman, British/Omani, oil, piracy, nationalism, environment) | concise survey; fills narrative gaps across eras |
 | *Atlantic History: A Critical Appraisal* — Greene & Morgan (eds.) | `[LIBRARY]` | ✅ | historiographical survey of the Atlantic history field (2009); subagent extraction across 3 ranges; created [[concepts/atlantic-history]] with framing, objections, propositions, and Part I/II/III synthesis; enriched hub + processes (african-diaspora, atlantic-slave-trade); source claims with verbatim quotes. |
 | *The Columbian Exchange* — Alfred Crosby | `[BUY]` | ✅ | foundational 1972 (30th anniv. ed. ingested); anchors [[columbian-exchange-1492]] + [[virgin-soil-epidemics]] with verbatim claims on asymmetry, virgin-soil pandemics, New World crops → Old World demography (maize/potato yields, Ireland/China/Africa impacts), ongoing exchange. Source page + synthesis. |
-| *Ecological Imperialism* — Alfred Crosby | `[BUY]` | ❌ | European biological expansion |
+| *Ecological Imperialism* — Alfred Crosby | `[BUY]` | ✅ | `crosby-ecological-imperialism-1986` (scaffold + 3 staggered subagent ranges per Deployed Subagent Strategy; grounded claims on portmanteau biota, Neo-Europes, weeds/animals/ills mechanisms, NZ case study, 1789 NSW appendix, 19th-c. demographic swarming + global food role; new/updated [[ecological-imperialism]], [[neo-europes]], [[portmanteau-biota]], [[biological-expansion-of-europe]] + cross-links to [[columbian-exchange-1492]]/[[crosby-columbian-exchange-1972]]/periods/places; Volume Synthesis + log/index/final bookkeeping). Fills Critical Gap 10. |
 | *Guns, Germs, and Steel* — Jared Diamond | `[BUY]` | ❌ | needed for the geographic-determinism controversy |
-| *The Fate of Rome* — Kyle Harper | `[BUY]` | ❌ | climate/pandemic in Roman decline |
+| *The Fate of Rome* — Kyle Harper | `[BUY]` | ✅ | `harper-fate-of-rome-2017` (scaffold + 3 staggered subagent ranges per Deployed Subagent Strategy; climate optimum [RCO], transition, and LALIA cooling; Antonine/Cyprian/Justinianic plague demographics; state/fiscal/military collapse). Source page + synthesis. |
 
 ---
 

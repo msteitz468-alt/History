@@ -8,7 +8,7 @@
 _Last updated: 2026-06-23. The running ingest log formerly duplicated at the top of this page now
 lives solely in [[log|log.md]], the canonical append-only record of all ingests and sessions._
 
-**New:** [[ibn-battuta-travels-1829|full *Travels of Ibn Battuta* (Lee 1829)]] ingested (Late Middle Ages transregional primary). **[[hall-empires-of-the-monsoon-1996|Empires of the Monsoon (Hall 1996)]]** ingested (full Indian Ocean narrative, Portuguese impact, Swahili/Omani/British East Africa, Epilogue). **[[alpers-indian-ocean-in-world-history-2014|The Indian Ocean in World History (Alpers 2014)]]** ingested (concise survey from ancient to contemporary; new pages for Periplus, Kilwa, Busaidi, 19th-c. slave trade + updates across trade/Swahili/Zheng He/periods/hubs). **[[behistun-inscription|Behistun Inscription]]** ingested (Darius I's own account of 522–521 BCE accession and rebellions; new pages behistun, darius-i, gaumata-magush, arika + direct quotes enriching achaemenid-empire, scythians, archaic-period).
+**New:** [[crosby-ecological-imperialism-1986|Ecological Imperialism (Crosby 1986)]] ingested (Gap 10; portmanteau biota, Neo-Europes, biological expansion of Europe; new concepts + process page; cross-links to columbian-exchange-1492 + prior Crosby work). [[ibn-battuta-travels-1829|full *Travels of Ibn Battuta* (Lee 1829)]] ingested (Late Middle Ages transregional primary). **[[hall-empires-of-the-monsoon-1996|Empires of the Monsoon (Hall 1996)]]** ingested (full Indian Ocean narrative, Portuguese impact, Swahili/Omani/British East Africa, Epilogue). **[[alpers-indian-ocean-in-world-history-2014|The Indian Ocean in World History (Alpers 2014)]]** ingested (concise survey from ancient to contemporary; new pages for Periplus, Kilwa, Busaidi, 19th-c. slave trade + updates across trade/Swahili/Zheng He/periods/hubs). **[[behistun-inscription|Behistun Inscription]]** ingested (Darius I's own account of 522–521 BCE accession and rebellions; new pages behistun, darius-i, gaumata-magush, arika + direct quotes enriching achaemenid-empire, scythians, archaic-period).
 
 ---
 
@@ -168,6 +168,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `gulag-system.md` | Gulag System | World Wars Era–Cold War | eastern-europe, steppe, central-asia | (created from Solzhenitsyn; Archipelago as inherent "sewage disposal system"; camp mechanics, moral analysis) |
 | `war-communism.md` | War Communism | World Wars Era | eastern-europe |
 | `westernization-of-russia.md` | Westernization of Russia | Early Modern, Age of Expansion | eastern-europe |
+| `plague-of-cyprian-249.md` | The Plague of Cyprian | 249–262 CE | mediterranean, north-africa | (created from Harper; third-century pandemic contributing to military/fiscal crisis and Christianization) |
 
 ---
 
@@ -225,6 +226,12 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `razin-stepan.md` | Stepan Razin | person | Early Modern |
 | `romanov-dynasty.md` | Romanov Dynasty | dynasty | early-modern, age-of-expansion, long-19th-century, world-wars-era |
 | `rublev-andrei.md` | Andrei Rublev | person | Late Middle Ages |
+| `qi-jiguang.md` | Qi Jiguang (Ch'i Chi-kuang) | person | early-modern (china) | (subagent Ch. 6: mandarin duck formation, Chichou command, battle wagons, Zhang patronage, 1588 death in poverty; full actor page overhaul with quotes)
+| `li-zhi.md` | Li Zhi (Li Chih) | person | early-modern (china) | (subagent Ch. 7: tonsure 1588, Hall of Buddha, Keng debate, "divided conscience," 1602 suicide; full actor page with self-criticism quotes and Huang framing)
+| `shen-shixing.md` | Shen Shixing (Shen Shih-hsing) | person | early-modern (china) | (range 2: rest Ch. 2 + Ch. 3; full development of peacemaker role, Kao Ch'i-yu crisis survival, 1587 lenient evaluation, succession deadlock mediation and 1591 confidential-note resignation; dual-character bureaucracy analysis; quotes from pp.61-93)
+| `wanli-emperor.md` | Wanli Emperor (Zhu Yijun) | person | early-modern (china) | (range 2: Ch. 3 succession deadlock, legal/moral analysis, negative power, Cheng-te parallel, dehumanization of monarchy, 1591 crisis; pages 75-98)
+| `zhang-juzheng.md` | Zhang Juzheng (Chang Chü-cheng) | person | early-modern (china) | (range 2: rest Ch. 2; tax drive details, dual bureaucracy critique, ostentatious living, literati insults, over-centralization exposure, quotes pp.61-87)
+| `ming-dynasty.md` | The Ming Dynasty | dynasty | Late Middle Ages, Early Modern | (updated with detailed military institutions/limits + intellectual dissent sections from Huang Ch. 6–7) |
 | `rurikid-dynasty.md` | The Rurikid Dynasty | dynasty | Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern |
 | `russian-empire.md` | Russian Empire | empire | age-of-expansion, long-19th-century, world-wars-era | (updated Service 2009 Ch.1) |
 | `russian-federation.md` | Russian Federation | state | contemporary |
@@ -241,6 +248,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `witte-sergei.md` | Sergei Witte | person | Long 19th Century |
 | `yaroslav-the-wise.md` | Yaroslav the Wise | person | High Middle Ages |
 | `yeltsin-boris.md` | Boris Yeltsin | person | Cold War, Contemporary |
+| `cyprian.md` | Cyprian | person | Late Antiquity | (bishop of Carthage; witness to the third-century pandemic) |
 
 ---
 
@@ -380,6 +388,8 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 
 | File | Title | Year | Type |
 |---|---|---|---|
+| `huang-1587-a-year-of-no-significance-1981.md` | 1587, A Year of No Significance: The Ming Dynasty in Decline (Ray Huang) | 1981 | secondary | (multiple subagent ranges incl. 6501-8700: Ch. 6 Qi Jiguang full + Ch. 7 Li Zhi full; detailed military (mandarin duck, Chichou wagons, structural limits) and intellectual dissent sections; 12+ new grounded claims appended to source page with verbatim quotes + locations; qi-jiguang.md, li-zhi.md, ming-dynasty.md substantially updated; established links only; no appendices text in this range slice) |
+| `crosby-columbian-exchange-1972.md` | The Columbian Exchange: Biological and Cultural Consequences of 1492 — Alfred W. Crosby (30th Anniversary Edition 2003) | 1972 (2003 ed.) | secondary | (subagent ranges; Ch. 5 New World foods/crops impact on Old World demography and agriculture (maize, potato, manioc, sweet potato yields and regional effects Europe/Africa/Asia); Ch. 6 conclusion and continuation; detailed claims + index-grounded locators appended to source; major updates to [[columbian-exchange-1492]]; Range 3 end matter (2003 bib by Vallvé + full index) used for verification of pp. 165–202 crops/demography, 212–218 migration, animals 64–113. 15+ claims block. Only established links. Co-Authored-By: Grok (xAI) <grok@x.ai>) |
 | `christian-cwh-v1-2015.md` | The Cambridge World History, Volume I: Introducing World History, to 10,000 BCE | 2015 | reference |
 | `solzhenitsyn-gulag-archipelago-1973.md` | The Gulag Archipelago (Abridged) | 1973 (abridged 1985) | primary | (3 ranges; created gulag-system process + kengir-uprising-1954 event; updated solzhenitsyn-aleksandr, stalin-joseph, soviet-union, soviet-industrialization, great-purge, de-stalinization, nkvd, world-wars-era, cold-war) |
 | `cambridge-history-of-russia-v2-2006.md` | The Cambridge History of Russia, Volume II: Imperial Russia, 1689–1917 (Lieven ed.) | 2006 | reference | (ingest complete; source + 6+ subagent ranges 4147–34115; ~32 pages updated with empire/periphery, nationalities, culture, society/econ/gov, foreign/military/police, 1917 path claims; synthesis note; filed) |
@@ -426,6 +436,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `riasanovsky-history-russia-2000.md` | A History of Russia (6th Edition) | 2000 | secondary |
 | `service-penguin-history-of-modern-russia-2009.md` | The Penguin History of Modern Russia: From Tsarism to the Twenty-First Century (3rd ed.) — Robert Service | 2009 | secondary |
 | `freeze-russia-a-history-2002.md` | Russia: A History (Second Edition) — Gregory L. Freeze (ed.) | 2002 | secondary | (multi-author survey; updates from Riasanovsky with post-1991 archival depth on social/economic/nationalities; pages updated incl. february-revolution-1917, pugachev-rebellion-1773, gorbachev-mikhail, stalin-joseph, brezhnev-stagnation and many Russian actors/periods/processes) |
+| `harper-fate-of-rome-2017.md` | The Fate of Rome: Climate, Disease, and the End of an Empire (Kyle Harper) | 2017 | secondary | (staggered subagent ranges; climate change (RCO, Late Roman Transition, LALIA) and pandemics (Antonine, Cyprian, Justinianic) in the decline and fall of the Roman Empire) |
 
 ---
 
@@ -438,15 +449,15 @@ Per-page new/updated details live in each source page and `log.md`.
 | Category | Pages |
 |---|---|
 | Periods | 34 |
-| Events | 364 |
+| Events | 365 |
 | Processes | 282 |
-| Actors | 778 |
+| Actors | 779 |
 | Places | 135 |
 | Concepts | 507 |
 | Comparisons | 4 |
 | Controversies | 59 |
 | Timelines | 5 |
 | Queries | 0 |
-| Sources | 219 |
+| Sources | 221 |
 | Hubs | 54 |
-| **Total (all `.md`)** | **2444** |
+| **Total (all `.md`)** | **2447** |

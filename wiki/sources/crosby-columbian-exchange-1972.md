@@ -313,3 +313,9 @@ Range 3 contribution (2026-06-22). Strict range-only (end matter only).
   Location: About the Author (end matter).
   Target pages: [[crosby-columbian-exchange-1972]]
   Link type: part_of:
+
+- Claim: *Ecological Imperialism* (1986) is the direct sequel/extension, shifting focus from the initial 1492 exchange and Great Dying to the longer-term biological mechanisms (portmanteau biota of weeds, livestock, pathogens) that created "Neo-Europes" with European demographic/ecological dominance in temperate zones and global food-export consequences.
+  Quote: [cross-ref to 1986 work's preface/prologue/conclusion: "the Europeans’ displacement and replacement of the native peoples in the temperate zones was more a matter of biology than of military conquest"; "portmanteau biota"; Neo-Europes as "Britain’s off-shore farm" writ large; 50M+ 19th-c. migration; 30%+ of world ag exports from US/Canada/Argentina/Uruguay/Australia/NZ in 1982].
+  Location: See [[crosby-ecological-imperialism-1986]] (ingested 2026-06-22)
+  Target pages: [[crosby-columbian-exchange-1972]], [[crosby-ecological-imperialism-1986]], [[columbian-exchange-1492]], [[neo-europes]]
+  Link type: followed_by: / part_of:
