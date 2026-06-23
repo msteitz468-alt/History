@@ -45,7 +45,7 @@ Livy, *Hannibal's War* · the CAH volumes · Cold War (Westad; Leffler–Westad 
 | *The Evolution of Strategy* — Beatrice Heuser | `[BUY]` | ❌ | Modern graduate survey of strategic thought. |
 | *Strategy: A History* — Lawrence Freedman | `[BUY]` | ❌ | Broad intellectual history of strategy. |
 | *A History of Military Thought* — Azar Gat | `[BUY]` | ❌ | Deep intellectual history, Enlightenment→nuclear age. |
-| *Strategy: The Logic of War and Peace* — Edward N. Luttwak | `[BUY]` | ❌ | The paradoxical logic of strategy. |
+| *Strategy: The Logic of War and Peace* — Edward N. Luttwak | `[BUY]` | ✅ | Ingest complete (source page + 4 subagent ranges on extracted .txt + main reconciliation). Core: paradoxical logic (reversals, culminating point); 5 levels of strategy (technical–grand) + horizontal dimension (disharmony common); armed suasion (deterrence/compellence paradoxes); grand strategy confluence/harmony requirements; nonstrategies; Gulf War/Instant Thunder appendices. New concepts: [[paradoxical-logic-of-strategy]], [[levels-of-strategy]], [[armed-suasion]]. Updated [[concepts/strategy]] (theoretical complement), [[hubs/warfare/strategy]] (Luttwak framework), [[hubs/warfare/warfare-hub]]. Cross to [[roman-grand-strategy]] controversy. All claims verbatim-grounded. Source filed to raw/4. Modern Times/. | 
 | *The Grand Strategy of the Roman Empire* — Edward N. Luttwak | `[BUY]` | ❌ | Feeds Classical-Antiquity hub directly. |
 | *The Grand Strategy of the Byzantine Empire* — Edward N. Luttwak | `[BUY]` | ❌ | Feeds Late-Antiquity / Early-Middle-Ages hubs. |
 | *Some Principles of Maritime Strategy* — Julian S. Corbett | `[BUY]` | ❌ | Naval-strategy canon. |

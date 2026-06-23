@@ -100,6 +100,19 @@ deterrence by display and 'awe'**, **dynastic-marriage diplomacy**), while much 
 technology, and material circumstance — Clausewitz's dictum that "every age has its own kind
 of war."
 
+## Luttwak's Paradoxical Logic and Levels of Strategy (Theoretical Complement)
+Edward N. Luttwak's *Strategy: The Logic of War and Peace* (rev. & enl. 2002) supplies the major modern theoretical counterpart to practice-focused comparative work. Strategy operates under a distinct **paradoxical logic** (opposites interact and reverse; linear/direct/efficient action is often self-defeating because the adversary reacts and anticipates) that differs from ordinary "linear" logic of non-conflictual life. 
+
+"Si vis pacem, para bellum" is not banality but accepted paradox: readiness to fight dissuades *or* persuades the weak to yield without fighting. In strategy alone, a "bad" road can be good precisely because it is bad (less defended, unanticipated); efficiency is routinely self-defeating.
+
+The logic has static (reversal of opposites) and dynamic forms. The "culminating point of success/victory": the advancing "victor" weakens via lengthening supply lines, relaxation, accumulated errors while the "defeated" strengthens via shortening lines and moral pressure. Overshooting leads to reversal (German 1941–42 offensives in USSR; Verdun "failure of success").
+
+**Five vertical levels** (technical → tactical → operational → theater → grand strategy) interact bidirectionally with the horizontal (adversary) dimension. Harmony cannot be assumed; vertical success can be net loss at grand strategy if dimensions are in disharmony (Pearl Harbor: tactical/operational triumph so adverse at grand strategy level it was worse than failure would have been). Theater strategy relates strength to specific territory (front length, depth, barriers) but political priorities often override pure military logic (inelastic forward defense despite theater favoring elasticity).
+
+**Armed suasion** (deterrence/compellence via posture) is pervasive and likewise paradoxical (effective dissuasion invites circumvention via subversion/proxy wars; latent suasion common; "more" can be less). Nuclear deterrence as extreme case. Postheroic limits (casualty aversion in low-birth-rate societies) shrink usable domains to remote bombardment.
+
+See dedicated pages: [[paradoxical-logic-of-strategy]], [[levels-of-strategy]], [[armed-suasion]], [[grand-strategy]]. This theoretical lens explains why "best" lower-level solutions often fail higher up and why deliberate harmonization across levels and dimensions is required. It complements (and is cross-referenced with) the deflationary "messy, frustrating... ad hockery" verdict of practice studies and Luttwak's own grand strategy analyses (Rome/Byzantium controversy).
+
 ## Limitations
 
 As an etic category, "strategy" risks **anachronism** (reading modern instrumental

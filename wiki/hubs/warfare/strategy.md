@@ -41,6 +41,7 @@ See the full comparison page for detailed case studies and the "deflationary ver
 
 - **[[kautilyan-statecraft]] and [[raja-mandala]]** — Ancient Indian theory of statecraft and the "circle of kings" (mandala) as a model for interstate relations.
 - **Roman grand strategy debate** — [[roman-grand-strategy]] (the Luttwak controversy): Did Rome have a conscious, long-term grand strategy?
+- **Luttwak's paradoxical logic and levels framework** — [[paradoxical-logic-of-strategy]], [[levels-of-strategy]], [[armed-suasion]], [[grand-strategy]] (from *Strategy: The Logic of War and Peace*, rev. 2002): strategy operates by reversal and contradiction (linear efficiency self-defeating); five vertical levels interact with horizontal adversary dynamics; armed suasion (deterrence/compellence via posture) is pervasive and paradoxical; grand strategy requires deliberate harmonization across dimensions. Theoretical complement to practice-focused works.
 - **[[fabian-strategy]]** — Deliberate battle-avoidance and attrition (named for Fabius Maximus against Hannibal).
 - **Byzantine and medieval traditions** — Emphasis on diplomacy, deception, and limited war (Leo VI's *Tactica*).
 - **Early modern and beyond** — Rise of the fiscal-military state, permanent armies, and the professionalization of strategic thought.
