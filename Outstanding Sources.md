@@ -210,7 +210,7 @@ History of Japan volumes, and Genji are in. Sadler and Keene remain.
 | *The Cambridge History of Japan* (6 vols.) | `[LIBRARY]` | ✅ | all 6 ingested (`cambridge-history-japan-v1`…`v6`; v2 Heian = `cambridge-history-japan-v2-heian`) |
 | *Shogun: The Life of Tokugawa Ieyasu* — A.L. Sadler | `[OUT OF PRINT]` | ✅ | ingested (`sadler-shogun-tokugawa-ieyasu-1937`, 58 pages); the unification/early-Edo narrative |
 | *The Tale of Genji* — Murasaki Shikibu | `[BUY]` | ✅ | `waley-tale-of-genji` (Waley trans., not Tyler) |
-| *Meiji and His World* — Donald Keene | `[BUY]` | ❌ | Meiji Restoration; still wanted |
+| *Meiji and His World* — Donald Keene | `[BUY]` | ✅ | ingested (`keene-emperor-of-japan-meiji-2002`, 65 pages); the definitive Meiji-era narrative |
 
 ---
 
