@@ -69,7 +69,8 @@ These problems reset with each technological or social change:
 - **Sea power and power projection**: [[battle-of-salamis-480bce|Salamis]], [[battle-of-actium-31bce|Actium]], the age of sail, and carrier/strike warfare. Maritime supremacy enabled (or required) global empires.
 - **Paying for war**: The deepest driver. Ties directly to [[hubs/themes/state-formation|state formation]], taxation, credit, and bureaucracy ([[fiscal-military-state]]).
 - **Steppe vs. sown / nomadic vs. sedentary**: The longest-running asymmetry in Eurasian history. Nomadic mobility repeatedly overturned agrarian empires until gunpowder and settled logistics closed the gap.
-- **Logistics, supply, and endurance**: Armies and fleets are limited by what they can feed, move, and resupply. Often more decisive than tactics.
+- **Logistics, supply, and endurance**: Armies and fleets are limited by what they can feed, move, and resupply. Often more decisive than tactics. Van Creveld (*Supplying War*) demonstrates across eras (magazine system through motorized) that detailed pre-planned supply often proves inadequate; "most armies seem to have prepared their campaigns as best they could on an ad hoc basis"; Overlord's elaborate logistic plans were "an exercise in conservatism, even pusillanimity"; Allied 1944 victories "were due as much to their disregard for the preconceived logistic plans as to their implementation." Optimum service-to-combat ratios are campaign-specific (theoretically up to 100:1); calculation is "an almost impossible task." Ultimately, "the willingness ... to override the plans, to improvise and take risks, that determined the outcome." The moral is to the physical "as three to one" (Napoleon); intellect alone is insufficient — hubris to believe otherwise. Links: [[van-creveld-supplying-war-1977]], [[hubs/warfare/strategy]].
+- **Command, control, and information management (C3)**: The challenge of directing forces and managing uncertainty on the battlefield. Van Creveld (*Command in War*) traces how command systems have struggled with the balance between centralization and decentralization, from the standardized drill of the Roman legion to the French autonomous corps system and the Prussian doctrine of decentralized mission command (*Auftragstaktik*), often bypassing formal chains with a *directed telescope*. Links: [[sources/van-creveld-command-in-war-1985]], [[concepts/auftragstaktik]], [[concepts/directed-telescope]].
 
 ## Strategy: Ends, Means, and Traditions
 
@@ -224,7 +225,7 @@ views:
 - **Related hubs**: [[hubs/themes/state-formation|State Formation]] (fiscal and political foundations) · [[hubs/themes/technology|Technology]] (weapon systems and logistics) · [[hubs/themes/empire-and-collapse|Empire & Collapse]]
 - **Comparisons**: [[strategic-practice-across-civilizations|Strategic Practice across Civilizations]] (flagship cross-civilizational analysis of universal vs. culture-specific strategy)
 - **Controversies**: [[military-revolution-thesis]]
-- **Sources**: Cambridge History of War volumes, Cambridge History of Strategy, [[military-revolution]], [[murray-making-of-strategy-1994|The Making of Strategy (1994)]]
+- **Sources**: Cambridge History of War volumes, Cambridge History of Strategy, [[sources/van-creveld-command-in-war-1985|Command in War (1985)]], [[military-revolution]], [[murray-making-of-strategy-1994|The Making of Strategy (1994)]]
 
 > **Bases note**: Filters rely on `event_type`, `process_type`, and tags. Adjust for your Obsidian Bases plugin version if expressions are not supported.
 

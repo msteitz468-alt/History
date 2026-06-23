@@ -85,6 +85,10 @@ total control**."
 
 The [[strategic-practice-across-civilizations]] page places non-Western traditions on equal footing with the Western canon.
 
+Van Creveld's *[[sources/van-creveld-command-in-war-1985|Command in War]]* (1985) frames strategy through the history of command and the quest for certainty. Command systems manage uncertainty either by increasing centralization (direct control, which risks information overload) or by decentralization (tolerating uncertainty via *[[concepts/auftragstaktik|Auftragstaktik]]* or mission command), using informal reporting like the *[[concepts/directed-telescope|directed telescope]]* to bypass bureaucratic friction.
+
+Van Creveld's *[[van-creveld-supplying-war-1977|Supplying War]]* supplies a core caution for all strategic traditions: logistics is the ultimate constraint. Even "genius" plans collapse against the "umbilical cord"; detailed preparations for Overlord proved overly conservative and were productively disregarded in execution. Service/combat ratios defy precise theoretical optimization and are handled ad hoc in practice. "In the final account, it was the willingness - or lack of it - to override the plans, to improvise and take risks, that determined the outcome." The study ends by affirming that "the human intellect alone is not, after all, the best instrument for waging war" and endorsing Napoleon's "the moral is to the physical as three to one." Strategic thought must incorporate these limits or remain hubristic.
+
 ## Illustrative Events and Campaigns
 
 These events (drawn from the wiki's event pages) illustrate strategic principles in action. Links point to the dedicated event pages where they exist. For detailed West Point-style tactical analyses (objectives, deployment, phases, lessons), see the hierarchy under the period/war:
@@ -120,6 +124,6 @@ For the full reception history and analysis, see [[brodie-on-clausewitz]] and th
 - **Key controversies**: [[roman-grand-strategy]], [[military-revolution-thesis]]
 - **Specific systems**: [[mongol-army]], [[kautilyan-statecraft]], [[fabian-strategy]]
 - **Sub-hubs**: [[hubs/warfare/naval-and-air-power-theory|Naval & Air Power Theory]]
-- **Sources**: [[cambridge-history-of-strategy-v1]], [[cambridge-history-of-strategy-v2]], [[murray-making-of-strategy-1994|The Making of Strategy (1994)]], [[sources/jablonsky-roots-of-strategy-4-1999|Roots of Strategy, Book 4 (1999)]], [[sources/clausewitz-on-war-1832|On War (1832)]], [[sources/freedman-strategy-a-history-2013|Strategy: A History (Freedman 2013)]]
+- **Sources**: [[cambridge-history-of-strategy-v1]], [[cambridge-history-of-strategy-v2]], [[sources/van-creveld-command-in-war-1985|Command in War (1985)]], [[murray-making-of-strategy-1994|The Making of Strategy (1994)]], [[sources/jablonsky-roots-of-strategy-4-1999|Roots of Strategy, Book 4 (1999)]], [[sources/clausewitz-on-war-1832|On War (1832)]], [[sources/freedman-strategy-a-history-2013|Strategy: A History (Freedman 2013)]]
 
 This page serves as the dedicated strategy-focused entry point within the Warfare & Strategy section. It deliberately points outward to the deeper comparative work and to the event pages that show strategy in action.

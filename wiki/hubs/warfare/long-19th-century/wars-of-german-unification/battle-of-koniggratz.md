@@ -100,6 +100,17 @@ The Prussian artillery was placed too far in the rear, a doctrinal error acknowl
 
 Benedek chose a position with a river at his back. He "prepared their position in a lackadaisical fashion and uncharacteristically massed their artillery to the rear" — inverting their one tactical advantage. His infantry doctrine (mass bayonet charges following skirmisher lines, copied from French methods of 1859) was catastrophically wrong against needle guns: "such tactics would prove most vulnerable in 1866 to accurate fire from breech-loading rifles." Benedek recognized disaster was coming — he asked his emperor to make peace before the battle — but was refused. The fatal decision was his emperor's, not his.
 
+## 6a. Command, Control, and Communications (C3) Analysis
+
+According to Martin van Creveld's analysis in *[[sources/van-creveld-command-in-war-1985|Command in War]]*, the 1866 campaign and the battle of Königgrätz represent a critical transition in C3 history, validating Helmuth von Moltke's decentralized command philosophy:
+
+- **The Myth of Centralized Planning**: Far from being a "masterpiece of command" executed like a railway timetable, the battle was an unforeseen, last-minute improvisation. Moltke did not plan it as a set piece; it was fought against an enemy whose whereabouts had been lost for forty-eight hours.
+- **Auftragstaktik (Mission Command)**: Faced with the loss of tactical control on the modern battlefield (due to dispersion forced by breech-loading rifles), the Prussians decentralized command. Responsibility was delegated down to company commanders (*Hauptleute*). Under this doctrine of *[[concepts/auftragstaktik|Auftragstaktik]]*, subordinates were expected to exercise independent initiative to achieve the commander's intent.
+- **Telegraph and Dispersed Command**: While the wired telegraph enabled strategic monitoring of the field armies, it was vulnerable, slow to set up, and useless for real-time tactical control. The campaign proved that dispersed forces larger than 30,000 men could not be commanded from a single central headquarters.
+- **General Staff Officers as a Directed Telescope**: Bypassing the telegraph and formal channels, Moltke used trusted General Staff officers sent directly to the field armies. They rode throughout the theater, observing events first-hand and serving as a *[[concepts/directed-telescope|directed telescope]]* for high command.
+- **Strategic Safety Margins**: Because subordinate commanders sometimes acted without understanding his plans, Moltke built large safety margins into his strategy. Planning went only as far as the first encounter, treating strategy as a "system of expedients" resilient enough to accommodate tactical blunders.
+- **Organizational Stability**: The Prussian General Staff was a highly stable, seniority-based institution (*eingespielt*). This reduced internal information needs and allowed officers to operate without fear of mistakes, which is a prerequisite for initiative and learning.
+
 ## 7. Lessons Learned — The Principles of War (FM 3-0)
 
 **1. Objective (direct every military operation toward a clearly defined, decisive, and achievable goal)**

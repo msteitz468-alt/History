@@ -60,6 +60,8 @@ Staff-college-level analysis of the largest amphibious invasion in history and t
 
 **Key tactical mechanisms:** Combined arms (naval/air/land); small-unit initiative on Omaha; logistics (Mulberry, over-beach); deception.
 
+Van Creveld's analysis of the logistic instrument in this campaign: the detailed Overlord plans for fuel and supplies "quickly turned out to be an exercise in conservatism, even pusillanimity"; "the logistic instrument itself functioned very differently from what had been expected." "it would hardly be an exaggeration to say that the victories the Allies won in 1944 were due as much to their disregard for the preconceived logistic plans as to their implementation." "In the final account, it was the willingness - or lack of it - to override the plans, to improvise and take risks, that determined the outcome." See [[van-creveld-supplying-war-1977]] (Ch. 8 conclusions) for broader implications on why logistics trumps rigid planning.
+
 ## 5. Outcome and Casualties
 
 - Successful lodgment achieved despite Omaha near-failure.
@@ -92,6 +94,18 @@ Overlord is the reference for large-scale joint forcible entry, combined-arms in
 ## 9. Historiography and Primary Sources
 
 Grounded in D-Day captions and range footnotes: Eisenhower "Six Great Decisions"; Montgomery Memoirs ("master plan"); Bradley Soldier's Story (Cobra). Critiques: Hastings Overlord, D'Este Decision in Normandy. West Point emphasizes coalition, logistics, and operational effectiveness over material alone. "Normandy must also be explained in ideological terms."
+
+## Logistics Reality vs. Planning (van Creveld, *Supplying War* 1977, Ch. 7 exclusive range)
+
+Detailed 18-month modeling produced rigid assumptions of systematic German river-line defense and slow advance (Seine D+90). In practice, plans collapsed on D-Day due to surf, resistance, and navigation errors; beaches unloaded "far in excess of what the plans had allowed for" only by "disregarding all the plans." "Within hours of the first landings, all plans for orderly unloading were brought to nought by the heavy surf..."
+
+Consumption overestimated and performance under-estimated: truck companies assumed 50 miles forward lift/day (actual ≥30% higher); truck supply viable only to 75 miles from railheads (exceeded 3–4×); division 650 tons/day (pursuit ~300–350). Patton ignored logisticians entirely and fed six divisions through Avranches bottleneck in 72 hours; western Seine bank cleared 11 days ahead of the "impossible" schedule.
+
+**Broad Front vs. narrow thrust (Sept 1944):** Montgomery argued for concentrating all maintenance behind 2nd British + 1st US for "one really powerful and full-blooded thrust" to Ruhr/Berlin. Source calculations (using SHAEF's own 200-ton GTR companies, 650 tpd consumption, 130-mile distance to Dortmund): marginally feasible for 18 divisions "though only just" by reallocating from halted 3rd Army + Brest forces + British resources (no net US-to-UK truck transfer needed). Eisenhower insisted on broad approach and Antwerp first; single thrust "too risky." British ultimately lived off Seine/Channel ports; Antwerp opening (late Nov) shortened US distances from 400+ miles.
+
+Source assessment: "an exercise in logistic pusillanimity unparalleled in modern military history." The "prudent accountants" of planning would never have supported the unscheduled thrust even if means existed in theory. Eisenhower bears responsibility for failing to adjust priorities in time, but "almost superhuman foresight" required given Patton's momentum vs. Montgomery's earlier pace. Montgomery's references to Berlin (400+ miles) and "knifelike thrust" into the heart of Germany weakened his position. "In the final account, the question as to whether Montgomery’s plan presented a real alternative to Eisenhower’s strategy must be answered in the negative."
+
+See full extraction in [[sources/van-creveld-supplying-war-1977]] Range 4 and [[events/world-war-ii-1939-1945]].
 
 ## Related
 

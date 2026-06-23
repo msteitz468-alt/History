@@ -36,6 +36,31 @@ From Overy/Love/Waddell (Ch.2/5/6): Submarine commerce raiding sank 5.3M tons Ja
 
 See [[hubs/warfare/world-wars-era/second-world-war/second-world-war|War Hub]] for template analyses of these campaigns (OOB tables, 9 principles, Modern Doctrine Parallels, verbatim grounding). Reciprocals added.
 
+## Logistics Analysis from van Creveld, *Supplying War* (1977) — Range 4 (North Africa 1941–42; Normandy 1944)
+
+From exclusive range (Ch. 6 "Sirte to Alamein"; Ch. 7 "War of the accountants"). Logistics, not just generalship or convoys, dictated possibilities. All claims grounded exclusively in this source range.
+
+**North Africa (Rommel / Panzerarmee Afrika):**
+
+- Port capacities (Tripoli, Benghazi, Tobruk) set absolute limits on maintainable forces and convoy sizes. Tobruk "theoretically capable of unloading 1,500 tons a day, but in practice rarely exceeded 600." Navy advised against relying on it.
+- Internal distances caused the decisive waste: "Rommel’s difficulties... stemmed less from a dearth of supplies from Europe than from the impossible length of his line of communications inside Africa." Ten percent of fuel used to move the other ninety; ~35% of vehicles out of repair on 1,000-mile hauls. "thirty to fifty per cent of all the fuel landed in North Africa was wasted between Tripoli and the front."
+- Sea losses important only in Nov–Dec 1941 period; Italians often delivered above Rommel's consumption (e.g. avg 72k tons/mo July–Oct 1941). "the importance usually attributed to the ‘battle of the convoys’ is grossly exaggerated."
+- 1942 advance: after Tobruk (22 June), supplies fell to 32k tons (fuel shortage for escort); unloaded at Tripoli not closer ports. Tobruk handled "barely 20,000" of needed 100k tons/mo. At El Alamein opening, down to "three basic loads of fuel — instead of the thirty or so which he claimed were needed in Africa."
+- Malta less decisive than Tobruk's small size + RAF exposure from Egypt and sheer distances. "only a railway could solve the supply problem." Rommel given generous truck allocation relative to other German formations and "all the forces that could be supported."
+- Conclusion in range: "for all Rommel’s tactical brilliance, the problem of supplying an Axis force for an advance into the Middle East was insoluble." "Hitler’s original decision to send a force to defend a limited area in North Africa was correct. Rommel’s repeated defiance of his orders... was mistaken and should never have been tolerated."
+
+See new [[actors/rommel-erwin]] page and [[concepts/umbilical-cord-of-supply]] for details.
+
+**Normandy / Overlord supply (1944):**
+
+- Massive 18-month planning produced rigid model assuming slow deliberate advance (Seine D+90); planners pessimistic (127 truck company deficit predicted). Actual: beaches discharged far beyond plans once priorities ignored; additional divisions landed early; Patton ignored tables and pushed 6 divisions through Avranches in 72 hours, reaching Seine 11 days ahead of "impossible" schedule.
+- Planner assumptions conservative: 50 miles forward lift/day per truck co. (actual +30%); supply by truck only to 75 miles from railhead (exceeded 3-4x); 650 tons/division/day (pursuit used ~300-350).
+- Broad front vs narrow thrust (Sept 1944): Montgomery demanded "one really powerful and full-blooded thrust" north via Ruhr with "all the maintenance resources it needs without any qualification." Calculations in source: 18 divisions (Brit 2nd + US 1st) to Dortmund (~130 miles) marginally feasible by reallocating from Patton (halted) + other ops ("it could have been done, though only just"). But would immobilize 12 divisions, leave base hundreds of miles rear, risk emergencies.
+- Eisenhower: any single thrust "too risky"; Antwerp essential first; broad approach. British did not ultimately need Antwerp for their sector.
+- Source verdict: "an exercise in logistic pusillanimity unparalleled in modern military history." Planners "prudent accountants"; apparatus unlikely to support unscheduled drive. Eisenhower bears responsibility for not shifting priorities but "almost superhuman foresight" would have been required at the moment Patton was surging and Montgomery inching forward. Montgomery's Berlin/knifelike talk undermined his case. "the question as to whether Montgomery’s plan presented a real alternative... must be answered in the negative."
+
+Cross: [[hubs/warfare/world-wars-era/second-world-war/operation-overlord-1944]], [[actors/rommel-erwin]], source [[sources/van-creveld-supplying-war-1977]].
+
 ## Operational Synthesis from Murray & Millett, *A War to Be Won* (2000)
 This comprehensive operational history emphasizes battlefield reality over ideology alone: Allies had to win by fighting, through superior production, logistics, coalition (despite frictions), and adaptation. Key claims (verbatim-grounded; full in source page):
 

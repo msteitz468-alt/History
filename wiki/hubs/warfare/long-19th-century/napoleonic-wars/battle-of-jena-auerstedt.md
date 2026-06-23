@@ -108,6 +108,16 @@ Strategic consequences were immediate: Frederick William III refused to make pea
 
 - *Prussian command collapse at Auerstedt.* When Brunswick was killed and the king failed to assume command, the 64,000-man army lost any capacity for coordinated action. This was not a French decision but a Prussian failure that transformed a difficult French position into a decisive victory.
 
+## 6a. Command, Control, and Communications (C3) Analysis
+
+According to Martin van Creveld's analysis in *[[sources/van-creveld-command-in-war-1985|Command in War]]*, the 1806 campaign and the double battle of Jena-Auerstedt represent a revolution in strategic command. This revolution was not technological, but organizational and conceptual:
+
+- **Autonomous Corps Structure**: The dividing of the Grand Army into large, self-contained corps of 20,000–30,000 men allowed each part to operate independently. Because a corps could not be overwhelmed in a single afternoon, Napoleon could tolerate communication delays. The corps was the primary tool for reducing information processing demands on the central headquarters.
+- **Extreme Operational Friction**: The campaign was plagued by command blunders. Corps crossed each other's paths (Davout and Bernadotte), units were left without orders for days (Augereau), and lateral communication broke down. Napoleon himself misidentified the Prussian main force, believing he faced it at Jena when it was actually at Auerstedt.
+- **Decentralization as a Shield Against Friction**: Despite these C3 failures, the French won because the decentralized system allowed subordinate commanders to act on their own initiative. Davout fought and won a decisive action at Auerstedt completely isolated from Napoleon, while Bernadotte's command failure did not collapse the campaign.
+- **The Directed Telescope**: Napoleon counterbalanced the formal hierarchy's information distortions by deploying a team of personal aides-de-camp (the *[[concepts/directed-telescope|directed telescope]]*) directly to critical points to report unfiltered ground truths.
+- **Cognitive Vulnerability of the Single Node**: The French system relied on the emperor's brain as the central processor, meaning any miscalculation or wishful thinking by Napoleon could disrupt the entire army, contrasting with the later Prussian general staff system of co-equal collaborators.
+
 ## 7. Lessons Learned — The Principles of War (FM 3-0)
 
 **Objective** — *Honored (French); ambiguous (Prussian).* Napoleon's objective was clear: destroy Prussian field armies before Russia could intervene. The Prussians entered the campaign without a coherent strategic objective, dispersed initially over eighty-five miles, and reacted to French moves throughout.
