@@ -8,7 +8,7 @@
 _Last updated: 2026-06-23. The running ingest log formerly duplicated at the top of this page now
 lives solely in [[log|log.md]], the canonical append-only record of all ingests and sessions._
 
-**New:** [[ibn-battuta-travels-1829|full *Travels of Ibn Battuta* (Lee 1829)]] ingested (Late Middle Ages transregional primary). **[[hall-empires-of-the-monsoon-1996|Empires of the Monsoon (Hall 1996)]]** ingested (full Indian Ocean narrative, Portuguese impact, Swahili/Omani/British East Africa, Epilogue).
+**New:** [[ibn-battuta-travels-1829|full *Travels of Ibn Battuta* (Lee 1829)]] ingested (Late Middle Ages transregional primary). **[[hall-empires-of-the-monsoon-1996|Empires of the Monsoon (Hall 1996)]]** ingested (full Indian Ocean narrative, Portuguese impact, Swahili/Omani/British East Africa, Epilogue). **[[alpers-indian-ocean-in-world-history-2014|The Indian Ocean in World History (Alpers 2014)]]** ingested (concise survey from ancient to contemporary; new pages for Periplus, Kilwa, Busaidi, 19th-c. slave trade + updates across trade/Swahili/Zheng He/periods/hubs).
 
 ---
 

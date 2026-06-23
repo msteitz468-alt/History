@@ -8,9 +8,9 @@ region: [indian-ocean, south-asia, southeast-asia, near-east, arabian-peninsula,
 process_type: economic
 driven_by: ["the monsoon wind system", "local fishing and sailing communities", "Hindu, Muslim, Buddhist, and Jewish merchant institutions", "South Indian merchant guilds", "the demand of the Chinese and Islamic 'engines'", [[afro-eurasian-world-system]]]
 produces: ["a poly-religious maritime trading world", "the Islamization of coastal Southeast Asia and East Africa", "the Swahili and Gujarati port cities", "cross-cultural transmission of goods, faiths, and ideas"]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-06-23
-tags: [process, early-middle-ages, high-middle-ages, late-middle-ages, early-modern, long-19th-century, indian-ocean]
+tags: [process, early-middle-ages, high-middle-ages, late-middle-ages, early-modern, long-19th-century, contemporary, indian-ocean]
 ---
 
 ## Definition and Scope
@@ -104,7 +104,7 @@ relatively non-militarized character was transformed after 1500.
 
 **Later transformations (Hall)**: Omani revival (Fort Jesus 1698; Seyyid Said’s Zanzibar capital ~1840 with clove plantations) briefly restored Arab commercial dominance. British naval policing (Moresby Treaty 1822, 1873 slave-market closure, 1896 Zanzibar bombardment) plus steam/Suez (1869) and cheap firearms for ivory caravans completed the subordination of monsoon rhythms and local networks. Interior (Nyamwezi, Tippu Tip) and plantation economies fed global demand until colonial partition.
 
-The underlying monsoon geography and cultural connections reassert themselves in 20th-c. decolonisation and the Indian Ocean Rim initiatives. (See [[hall-empires-of-the-monsoon-1996]], Parts Two–Three + Epilogue; cross with [[bentley-cwh-v6-2015|CWH VI]].)
+The underlying monsoon geography and cultural connections reassert themselves in 20th-c. decolonisation and the Indian Ocean Rim initiatives. Alpers provides a thematic overview linking ancient foundations, Islamic integration, early modern European intrusions (Portuguese vs. Ottoman), 19th-c. transformations, and 20th/21st-c. themes (oil, air travel, nationalism, environment, piracy, geopolitics). (See [[hall-empires-of-the-monsoon-1996]], [[alpers-indian-ocean-in-world-history-2014]]; cross with [[bentley-cwh-v6-2015|CWH VI]].)
 
 ## The Early Modern Militarization (CWH VI)
 
