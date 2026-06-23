@@ -9,8 +9,8 @@ affiliated_with: [[[delhi-sultanate|the Delhi Sultanate]], the Tughluq dynasty]
 opposed_by: [rebel provincial governors, the southern kingdoms ([[vijayanagara-bahmani|Vijayanagara, the Bahmanis]]), famine and his own overreach]
 key_events: ["accession (1325)", "the transfer of the capital to Daulatabad (1327)", "the token (copper) currency (c. 1330)", "the Khurasan and Qarachil expeditions", "the secession of the Deccan and the south (1330s–40s)"]
 key_processes: [[[state-formation]], the fragmentation of the [[delhi-sultanate|Sultanate]]]
-sources_ingested: 1
-last_updated: 2026-06-14
+sources_ingested: 2
+last_updated: 2026-06-22
 tags: [actor, person, late-middle-ages, south-asia, islamic-world]
 ---
 
@@ -32,8 +32,8 @@ catastrophically executed projects:
   much of the population and administrative class of **Delhi** to relocate the ~1,500 km south.
   The forced migration caused great suffering and resentment; Delhi was partly depopulated, and
   the experiment was eventually reversed, having weakened both centres. (The contemporary traveller
-  [[ibn-battuta|Ibn Battuta]], who served as a *qadi* at his court, left a vivid eyewitness
-  account.)
+  [[ibn-battuta|Ibn Battuta]], who served for years as a *qadi* at his court, left a vivid eyewitness
+  account in [[ibn-battuta-travels-1829|the full Rihla (Lee trans., 1829)]].)
 - **The token currency (c. 1330).** Anticipating modern fiduciary money, Muhammad issued **brass
   and copper tokens** to circulate at the value of silver. Because the mint was not a state
   monopoly and forgery was rampant, the coinage collapsed; the treasury had to redeem the tokens
@@ -64,4 +64,4 @@ Khalji]] to its long decline, and the birth of the independent Deccan and region
 ## Related
 
 `part_of: [[delhi-sultanate]]` · `preceded_by: [[alauddin-khalji]]` · `produced: [[vijayanagara-bahmani]]` (the Deccan secessions — Vijayanagara and the Bahmani sultanate)
-[[ibn-battuta]] · [[south-asia]] · [[cambridge-history-of-india-v3]]
+[[ibn-battuta]] · [[ibn-battuta-travels-1829]] · [[south-asia]] · [[cambridge-history-of-india-v3]]

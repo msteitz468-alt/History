@@ -8,6 +8,8 @@
 _Last updated: 2026-06-23. The running ingest log formerly duplicated at the top of this page now
 lives solely in [[log|log.md]], the canonical append-only record of all ingests and sessions._
 
+**New:** [[ibn-battuta-travels-1829|full *Travels of Ibn Battuta* (Lee 1829)]] ingested (Late Middle Ages transregional primary).
+
 ---
 
 ## Periods (`wiki/periods/`)

@@ -240,7 +240,7 @@ the Muqaddimah, the Odyssey, and the Aeneid are not.
 | *The Histories* — Polybius | — | ✅ | `polybius-histories` |
 | *The Annals of Imperial Rome* — Tacitus | — | ✅ | `tacitus-annals` |
 | *The Muqaddimah* — Ibn Khaldun (Rosenthal/Dawood) | `[BUY]` | ✅ | ingested (`ibn-khaldun-muqaddimah`); also listed under Gap 4b |
-| *The Travels of Ibn Battuta* (Mackintosh-Smith ed.) | `[BUY]` | 🟡 | Black-Africa portion in; full *Travels* not |
+| *The Travels of Ibn Battuta* (Lee 1829 trans.; this file) | — | ✅ (full *Rihla* abridgment ingested via Deployed Subagent Strategy + main-thread reconciliation; 3 staggered ranges; source + 4 new + 8+ updates; synthesis complete) | full itinerary now in (India/China/Anatolia/Horde + Africa cross-refs); Black Africa selections previously covered separately |
 | *The Secret History of the Mongols* — de Rachewiltz trans. (shorter version) | `[LIBRARY]` | ✅ (source scaffolded; Subagents 1/3/5 succeeded + main-thread recoveries for 2/4; all ranges covered; reconciliation & Volume Synthesis Note added) | only Mongol-authored account of Chinggis; direct primary quotes + native perspective added to genghis-khan, mongol-empire, mongol-conquests etc. |
 | *Behistun Inscription* — translated text | `[BUY]` | ❌ | Achaemenid royal inscription |
 | *The Epic of Gilgamesh* — Andrew George trans. | `[BUY]` | ✅ (all 4 subagents complete + main-thread synthesis/reconciliation; ~80 grounded claims across full text + Sumerian poems/fragments; pages gilgamesh/enkidu/uruk/early-bronze-age + related updated with quotes/lines) | oldest surviving narrative literature; legendary Uruk king, friendship, mortality, flood myth. Gap 9 primary filled. |

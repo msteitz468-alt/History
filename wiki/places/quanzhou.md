@@ -7,7 +7,7 @@ period_active: [high-middle-ages, late-middle-ages]
 controlled_by: [Southern Song dynasty, Yuan dynasty (Mongol), Ming dynasty]
 events_here: []
 processes_here: [afro-eurasian-world-system, indian-ocean-trade, silk-road (maritime circuits)]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [place, east-asia, high-middle-ages, trade-port, indian-ocean]
 ---
@@ -24,7 +24,7 @@ Built on the shores of an enormous artificial lake (West Lake) connected by the 
 
 Quanzhou exported silk and porcelain—China's most demanded industrial goods—and absorbed silver and other bullion. Chinese advances in paper manufacture, printing, siderurgy (iron/steel using coal), and state-managed paper money supported large-scale production and exchange. The city exemplified the "agro-urban" settlements tied to rural silk production organized through peasant family units and guilds.
 
-Italians and Arabs knew it as Zaytun. Both Polo and Battuta ranked it above all others. It anchored the Far Eastern subsystem and, through relay networks via Malacca and Indian intermediaries, supplied the Mamluk and European circuits with high-value manufactures.
+Italians and Arabs knew it as Zaytun. Both Polo and Battuta ranked it above all others. Ibn Battuta (in the Lee 1829 translation of the *Rihla*) describes the port's scale, the manufacture of porcelain in the district, the Muslim quarter with its mosques and colleges, paper money in daily use, and the general prosperity and administrative order under the Yuan. It anchored the Far Eastern subsystem and, through relay networks via Malacca and Indian intermediaries, supplied the Mamluk and European circuits with high-value manufactures.
 
 ## Control and Historical Trajectory
 

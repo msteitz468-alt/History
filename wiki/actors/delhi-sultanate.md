@@ -9,8 +9,8 @@ affiliated_with: ["Turkish/Afghan Muslim ruling class", "Sunni Islam / the Calip
 opposed_by: ["the [[rajputs|Rajput]] and regional Hindu kingdoms", "the Mongols (on the NW frontier)", "Timur", "[[vijayanagara-bahmani|Vijayanagara]]"]
 key_events: ["the second battle of Tarain (1192) & founding (1206)", "Ala-ud-din Khalji's reforms (c. 1296–1316)", "Muhammad bin Tughluq's experiments", "Timur's sack of Delhi (1398)"]
 key_processes: ["[[state-formation]]", "[[indian-feudalism|the iqta system]]", "the coming of Islam to India"]
-sources_ingested: 3
-last_updated: 2026-06-14
+sources_ingested: 4
+last_updated: 2026-06-22
 tags: [actor, state, late-middle-ages, south-asia]
 ---
 
@@ -88,6 +88,8 @@ price-control state, and the first conquest of the Deccan under Malik Kafur; and
 **[[muhammad-bin-tughluq]]** (r. 1325–1351), under whom the Sultanate reached its widest extent and
 then fragmented amid the failed Daulatabad capital-transfer and token-currency experiments, the
 secessions of [[vijayanagara-bahmani|Vijayanagara and the Bahmanis]] being the lasting result.
+The contemporary qadi **[[ibn-battuta|Ibn Battuta]]** supplies primary eyewitness testimony on the
+court, the sultan's personality, and daily administration (see [[ibn-battuta-travels-1829]]).
 (CHI Vol. III is a dated 1928 reference, mined for political narrative and read against the modern
 [[thapar-history-of-india-v1-1966|Thapar]] account above.)
 
@@ -95,4 +97,5 @@ secessions of [[vijayanagara-bahmani|Vijayanagara and the Bahmanis]] being the l
 
 [[alauddin-khalji]] · [[muhammad-bin-tughluq]] · [[rajputs]] · [[mahmud-of-ghazni]] ·
 [[indian-feudalism]] · [[bhakti-movement]] · [[vijayanagara-bahmani]] · [[chola-empire]] ·
-[[south-asia]] · [[thapar-history-of-india-v1-1966]] · [[cambridge-history-of-india-v3]]
+[[south-asia]] · [[thapar-history-of-india-v1-1966]] · [[cambridge-history-of-india-v3]] ·
+[[ibn-battuta-travels-1829]]
