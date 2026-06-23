@@ -151,7 +151,7 @@ philosophy (*falsafa*), science, and mysticism (*Sufism*) are absent. Priority l
 | *Philosophy in the Islamic World* — Peter Adamson | `[BUY]` | ✅ | ingested (`adamson-philosophy-islamic-world-2016`) — incl. the medieval Jewish-philosophy tradition |
 | *The Cambridge Companion to Arabic Philosophy* — Adamson & Taylor (eds.) | `[BUY]` | ✅ | ingested (`adamson-taylor-cambridge-companion-arabic-philosophy-2005`) — systematic-topic + Latin-reception layer |
 | *The Cambridge Companion to Classical Islamic Theology* — Tim Winter (ed.) | `[BUY]` | ✅ | ingested (`winter-cambridge-companion-islamic-theology-2008`) — kalam/theology layer |
-| *Sharīʿa: Theory, Practice, Transformations* — Wael Hallaq | `[BUY]` | ✅ | ingested (`hallaq-sharia-2009`) — 37 pages; the Islamic-law layer. (His *Origins and Evolution of Islamic Law* still in raw/, not yet ingested) |
+| *Sharīʿa: Theory, Practice, Transformations* — Wael Hallaq | `[BUY]` | ✅ | ingested (`hallaq-sharia-2009`) — 37 pages; the Islamic-law layer. His *Origins and Evolution of Islamic Law* also ingested (`hallaq-origins-evolution-islamic-law-2005`, 20 pages; formative period) |
 | *Islamic Science and the Making of the European Renaissance* — George Saliba | `[BUY]` | ✅ | ingested (`saliba-islamic-science-renaissance-2007`) — 24 pages; the Islamic-science layer |
 | *Mystical Dimensions of Islam* — Annemarie Schimmel | `[BUY]` | ✅ | ingested (`schimmel-mystical-dimensions-of-islam-1975`) — 38 pages; the Sufism layer |
 | *The Muqaddimah* — Ibn Khaldun (Rosenthal trans.) | `[BUY]` | ✅ | ingested (`ibn-khaldun-muqaddimah`) — primary; 23 pages; also key for the historiography hub (see Gap 9) |
