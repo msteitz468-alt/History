@@ -248,7 +248,7 @@ the Muqaddimah, the Odyssey, and the Aeneid are not.
 | *The Code of Hammurabi* — L.W. King trans. | `[BUY]` | ✅ (scaffold + 2 staggered subagent ranges on 530-line text; 42 grounded claims; Volume Synthesis Note; updated hammurabi actor + babylon-first-dynasty + middle-bronze-age; log/index/final bookkeeping complete) | Babylonian law code (prologue, 282 casuistic laws, epilogue). Gap 9 primary filled. |
 | *The Iliad* | — | ✅ | `homer-iliad` |
 | *The Odyssey* — Homer (Stanley Lombardo trans.; this file) | `[BUY]` | ✅ (scaffold + 4 staggered subagent ranges on 14k-line text; ~80 grounded claims; Volume Synthesis Note; odysseus/penelope/ithaca + homer updated; log/index/final bookkeeping; complements existing Iliad) | nostos epic; mêtis, xenia, household, recognition. Gap 9 primary filled (with Iliad). |
-| *The Aeneid* — Virgil (Sarah Ruden trans.) | `[BUY]` | ❌ | Georgics in; Aeneid not |
+| *The Aeneid* — Virgil (Robert Fagles trans.; this file) | `[BUY]` | ✅ (scaffold + 5 staggered subagent ranges on 34k-line text; ~100 grounded claims; Volume Synthesis Note; aeneas + virgil updated + cross-links; log/index/final bookkeeping complete) | National epic of Rome (Aeneas’ journey, pietas, founding myth). Gap 9 primary filled (with Georgics). |
 
 ---
 
