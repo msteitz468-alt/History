@@ -105,7 +105,7 @@ Angkor are in. Classic surveys and several Mughal sources remain.
 | Source | Flag | Status | Notes |
 |---|---|---|---|
 | *A History of India* — Romila Thapar (2 vols.) | `[BUY]` | ✅ | `thapar-…-v1` + `spear-…-v2` (the Penguin pair) |
-| *The Wonder That Was India* — A.L. Basham | `[BUY]` | ❌ | classic ancient-India survey; still wanted |
+| *The Wonder That Was India* — A.L. Basham | `[BUY]` | ✅ | `basham-wonder-that-was-india-1954` (classic cultural survey of pre-Muslim India; scaffold + 4 subagent ranges on full extracted text per Deployed Subagent Strategy; grounded claims on Harappa/Indus, Aryan/Vedic culture, Mauryas/Ashoka, Gupta/Harsa, society/varna/caste, religions (Vedic/Buddhism/Jainism/Hinduism details), arts, literature (Sanskrit/Tamil epics/drama/kavya/Sangam), sciences/math/medicine/logic, epilogue/global heritage; source page + Volume Synthesis; cross-links to periods, south-asia, key concepts/actors/places; log/index/final bookkeeping). Fills Gap 3 South Asia depth. |
 | *The Cambridge History of India* (multiple vols.) | `[LIBRARY]` | 🟡 | v3–5 ingested; v1–2 not |
 | *The Arthashastra* — Kautilya (Olivelle trans.) | `[BUY]` | ✅ | `kautilya-arthashastra` |
 | *The Manusmriti* — Patrick Olivelle translation | `[BUY]` | ❌ | foundational Hindu law code; still wanted |
