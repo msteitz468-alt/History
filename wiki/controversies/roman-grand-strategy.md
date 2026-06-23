@@ -19,15 +19,18 @@ reality. Raised in [[bowman-cah-v11-2000|CAH XI]] Ch. 8 (**C. R. Whittaker**); s
 
 ## Position 1 — Grand strategy and scientific frontiers (Luttwak)
 
-**Edward Luttwak**, *The Grand Strategy of the Roman Empire* (1976), argued that Rome pursued a
-**coherent, evolving strategic system**: from Julio-Claudian client-state "hegemonic" control, to
-the "scientific," **preclusive defence** of fixed linear frontiers (Hadrian's Wall, the German
-*limes*, the Euphrates line) in the High Empire, to "defence in depth" in the late empire. On this
-reading the great wall systems were **strategic barriers** sited to maximize military advantage,
-the river lines were **defensive frontiers**, and the role of client kings diminished as the
-system matured. The view drew on Victorian and French imperial conceptions of the "scientific
-frontier" (the term coined on British India's North-West Frontier) and on the idea of natural,
-defensible boundaries.
+**Edward Luttwak**, *The Grand Strategy of the Roman Empire* (1976; rev. ed. 2016), argued that Rome pursued a
+**coherent, evolving strategic system** across three successive grand strategies (detailed with deployment data, fortifications, and literary evidence): 
+
+- **Julio-Claudian (hegemonic expansionism)**: client states + mobile armies; extreme economy of force; no fixed frontiers (*limes* = penetration road); legions as concentrated striking forces; "potential force" and perceptual power dominant; clients provided glacis, absorbed low-intensity threats, and enabled flexibility. "The sphere of imperial control had no fixed boundaries and was limited only by the range at which others perceived Roman power as still powerful enough to compel obedience."
+
+- **Flavian–Severan ("scientific" frontiers / preclusive defence)**: annexation of clients; fixed perimeter defences (walls, palisades, fossata, burgi); dense tactical deployments of legions + large auxilia; higher costs, less elasticity; reaction to penetration rather than prevention.
+
+- **Late (defence-in-depth)**: layered system (frontier troops/*limitanei*, provincial forces, central mobile field armies/*comitatenses*); walled towns and hard points as interior strongholds; new mobile threats met with reforms (Gallienus/Diocletian/Constantine: vexillationes, reorganisation); inherently unstable and costly in societal/logistical terms but resilient through depth; territorial losses accepted.
+
+On this reading the great wall systems were **strategic barriers** (or elements of preclusive systems) sited to maximize military advantage; the river lines were **defensive frontiers**; the role of client kings diminished as the system matured. The view drew on Victorian and French imperial conceptions of the "scientific frontier" (the term coined on British India's North-West Frontier) and on the idea of natural, defensible boundaries. The 2016 preface engages four decades of debate, stressing that strategy is inferred from actions (not documents) and that Roman aristocratic political culture was well-suited to paradoxical strategic reasoning. Epilogue evaluates the three systems on pp. 219–222; Appendix clarifies power (dynamic/perceptual) vs. force (pp. 223–228). 
+
+See full source page [[luttwak-grand-strategy-of-the-roman-empire-2016]] for verbatim grounding and locators. Cross to [[luttwak-grand-strategy-of-the-byzantine-empire-2009]] (explicit sequel/contrast: richer diplomacy-heavy system for survival in weakness).
 
 ## Position 2 — Open frontiers, no strategic system (Mann, Isaac, Whittaker)
 
