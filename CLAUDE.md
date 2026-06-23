@@ -870,6 +870,80 @@ Use as analytical tools to reveal which causes were contingent vs. structural.
 
 ---
 
+## Warfare Hub — The High-Detail Section
+
+`wiki/hubs/warfare/` is the **one part of the wiki deliberately built at higher resolution
+than everything else.** While the rest of the wiki summarizes, the warfare hub does
+graduate-level, West Point / staff-college-grade tactical and operational analysis. This
+is intentional and applies *only* here — do not let this depth standard leak into the
+ordinary `events/`, `actors/`, or `periods/` pages.
+
+### Structure
+
+Battle and campaign analyses are filed by a three-level path:
+
+```
+hubs/warfare/[period]/[war]/[battle].md
+```
+
+- `[period]` — a kebab-case period name from the temporal framework (e.g. `classical-antiquity`).
+- `[war]` — a war-slug folder (e.g. `second-punic-war`), which also holds a `[war].md`
+  hub page linking its battles and giving the campaign/operational overview.
+- `[battle].md` — the deep tactical analysis page.
+
+The hub root holds the cross-cutting pages: `warfare-hub.md`, the `strategy`/tactics
+sub-hubs, and `templates/`.
+
+### Division of labor: hub vs. events/
+
+- The **`events/` page owns the narrative** — what happened, causes, consequences, the
+  broader story, full source list — at normal wiki resolution.
+- The **`hubs/warfare/` analysis page owns the conduct of the battle** — objectives,
+  terrain, order of battle, the phased mechanics of the engagement, the critical
+  decisions, the doctrinal lessons.
+- Every analysis page links its `events/` page via `event_page`, and the `events/` page
+  gets a **reciprocal link** back from its Related section. Keep narrative/historiography
+  light on the hub page; depth there goes on the conduct of the fight.
+
+### Battle-analysis standard (the locked standard)
+
+The **single source of truth** for frontmatter and section structure is
+`wiki/hubs/warfare/templates/battle-analysis-template.md`. Copy it; do not redefine the
+schema inline. (`hubs/warfare/battle-template.md` is just a pointer to it.)
+
+Frontmatter is flat and quoted (Obsidian-Bases-friendly; no nested maps): `analysis_type`
+(`battle` | `campaign` | `siege`), `war` (matches the parent folder), `commander_a/b`,
+`forces_a/b`, `casualties_a/b` (with source attribution where disputed),
+`scale_immediate/consequential`, `event_page`, `key_sources`.
+
+Content standard for a battle analysis:
+- **2,500–3,500+ words.**
+- **Order-of-battle and casualty TABLES.**
+- Work through **all nine U.S. principles of war (FM 3-0)** — Objective, Offensive, Mass,
+  Economy of Force, Maneuver, Unity of Command, Security, Surprise, Simplicity — noting
+  which each side **honoured and violated**, with concrete examples.
+- **Quote primary sources verbatim and analyse each author's bias**; reconcile or flag
+  conflicting accounts (numbers, sequence, location).
+- Always include a **"Modern Doctrine Parallels"** section.
+- The nine canonical body sections: Strategic Context & Objectives · Terrain, Weather &
+  Intelligence · Order of Battle & Deployment · Course of the Battle (phases) · Outcome &
+  Casualties · Critical Decisions · Lessons (Principles of War) · Modern Doctrine Parallels
+  · Historiography & Primary Sources.
+
+### Reference exemplar
+
+`wiki/hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae.md` is the
+**worked exemplar that sets the standard.** When in doubt about depth, frontmatter, or
+section handling, match Cannae.
+
+### Sourcing
+
+The sourcing roadmap for this section is `Outstanding War Strategy Sources.md` (repo root) —
+a tiered, de-duplicated list of the graduate/West-Point-grade strategy and operational-art
+literature to acquire for deepening the hub.
+
+---
+
 ## Collection Coverage Map
 
 | Period | Coverage | Notes |
