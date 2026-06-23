@@ -151,8 +151,8 @@ philosophy (*falsafa*), science, and mysticism (*Sufism*) are absent. Priority l
 | *Philosophy in the Islamic World* — Peter Adamson | `[BUY]` | ✅ | ingested (`adamson-philosophy-islamic-world-2016`) — incl. the medieval Jewish-philosophy tradition |
 | *The Cambridge Companion to Arabic Philosophy* — Adamson & Taylor (eds.) | `[BUY]` | ✅ | ingested (`adamson-taylor-cambridge-companion-arabic-philosophy-2005`) — systematic-topic + Latin-reception layer |
 | *The Cambridge Companion to Classical Islamic Theology* — Tim Winter (ed.) | `[BUY]` | ✅ | ingested (`winter-cambridge-companion-islamic-theology-2008`) — kalam/theology layer |
-| *Sharīʿa: Theory, Practice, Transformations* — Wael Hallaq | `[BUY]` | ❌ | Islamic law (+ his *Origins and Evolution of Islamic Law*) |
-| *Islamic Science and the Making of the European Renaissance* — George Saliba | `[BUY]` | ❌ | science |
+| *Sharīʿa: Theory, Practice, Transformations* — Wael Hallaq | `[BUY]` | ✅ | ingested (`hallaq-sharia-2009`) — 37 pages; the Islamic-law layer. (His *Origins and Evolution of Islamic Law* still in raw/, not yet ingested) |
+| *Islamic Science and the Making of the European Renaissance* — George Saliba | `[BUY]` | ✅ | ingested (`saliba-islamic-science-renaissance-2007`) — 24 pages; the Islamic-science layer |
 | *Mystical Dimensions of Islam* — Annemarie Schimmel | `[BUY]` | ✅ | ingested (`schimmel-mystical-dimensions-of-islam-1975`) — 38 pages; the Sufism layer |
 | *The Muqaddimah* — Ibn Khaldun (Rosenthal trans.) | `[BUY]` | ✅ | ingested (`ibn-khaldun-muqaddimah`) — primary; 23 pages; also key for the historiography hub (see Gap 9) |
 | *The Incoherence of the Philosophers* — al-Ghazali ↔ *The Incoherence of the Incoherence* — Ibn Rushd | `[BUY]` | ❌ | the defining falsafa/kalam debate; ingest as a paired controversy |
@@ -243,8 +243,8 @@ the Muqaddimah, the Odyssey, and the Aeneid are not.
 | *The Travels of Ibn Battuta* (Mackintosh-Smith ed.) | `[BUY]` | 🟡 | Black-Africa portion in; full *Travels* not |
 | *The Secret History of the Mongols* — de Rachewiltz trans. (shorter version) | `[LIBRARY]` | ✅ (source scaffolded; Subagents 1/3/5 succeeded + main-thread recoveries for 2/4; all ranges covered; reconciliation & Volume Synthesis Note added) | only Mongol-authored account of Chinggis; direct primary quotes + native perspective added to genghis-khan, mongol-empire, mongol-conquests etc. |
 | *Behistun Inscription* — translated text | `[BUY]` | ❌ | Achaemenid royal inscription |
-| *The Epic of Gilgamesh* — Andrew George trans. | `[BUY]` | 🟡 (source page + gilgamesh/enkidu pages scaffolded; 4 subagents on 771–12899) | oldest surviving narrative literature; legendary Uruk king, friendship, mortality, flood myth. Fills Gap 9 primary. |
-| *The Egyptian Book of the Dead* — Wallis Budge trans. | `[BUY]` | ❌ | funerary text |
+| *The Epic of Gilgamesh* — Andrew George trans. | `[BUY]` | ✅ (all 4 subagents complete + main-thread synthesis/reconciliation; ~80 grounded claims across full text + Sumerian poems/fragments; pages gilgamesh/enkidu/uruk/early-bronze-age + related updated with quotes/lines) | oldest surviving narrative literature; legendary Uruk king, friendship, mortality, flood myth. Gap 9 primary filled. |
+| *The Egyptian Book of the Dead* — Wallis Budge trans. (Romer intro) | `[BUY]` | ✅ (all 4 subagents complete + main-thread recovery for range 4501-9000 judgment Ch. CXXV; ~80+ claims; synthesis in source; osiris/anubis/thoth/maat/thebes/periods updated) | funerary spells; Osiris judgment, negative confessions, transformations. Gap 9 primary filled. |
 | *The Code of Hammurabi* — L.W. King trans. | `[BUY]` | ❌ | Babylonian law code |
 | *The Iliad* | — | ✅ | `homer-iliad` |
 | *The Odyssey* — Homer (Emily Wilson trans.) | `[BUY]` | ❌ | Iliad in; Odyssey not |
