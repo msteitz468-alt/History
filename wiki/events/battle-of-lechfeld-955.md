@@ -11,7 +11,7 @@ actors_secondary: [Conrad the Red, Bishop Ulrich of Augsburg, Duke Burchard of S
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[unknown|the great Magyar invasion of 955]], the besieging of Augsburg, two generations of nomadic raiding into Latin Europe]
+causes: [the great Magyar invasion of 955, the besieging of Augsburg, two generations of nomadic raiding into Latin Europe]
 consequences: [the end of Magyar raids on the West, the consolidation of [[otto-i|Otto I's]] kingship, the settling and Christianisation of [[hungary-arpad|Hungary]], the prestige underpinning the [[coronation-of-otto-i-962|imperial coronation of 962]]]
 sources_ingested: 1
 last_updated: 2026-06-12

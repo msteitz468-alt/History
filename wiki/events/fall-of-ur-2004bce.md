@@ -8,7 +8,7 @@ period: [Middle Bronze Age]
 region: [mesopotamia, near-east]
 location: [Ur; southern Mesopotamia]
 actors_primary: [[[third-dynasty-of-ur]] (Ibbi-Sin), [[elam|Elam]], [[amorites|the Amorites]]]
-actors_secondary: [[[unknown|Ishbi-Erra of Isin]], the Subarians, the Gutians]
+actors_secondary: [Ishbi-Erra of Isin, the Subarians, the Gutians]
 event_type: collapse
 scale_immediate: regional
 scale_consequential: civilizational

@@ -5,7 +5,7 @@ modern_equivalent: [Hisarlik, Çanakkale Province, Turkey]
 coordinates: [39.96 N, 26.24 E]
 period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Archaic Period, Classical Antiquity]
 controlled_by: [[[early-bronze-age-anatolia|Early Bronze Anatolian kingdoms]]]
-events_here: [[[unknown]]]
+events_here: [unknown]
 processes_here: [[[early-bronze-age-anatolia]], [[urbanization]], [[trade-network-formation]]]
 sources_ingested: 3
 last_updated: 2026-06-11

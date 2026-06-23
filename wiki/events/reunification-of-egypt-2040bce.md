@@ -11,7 +11,7 @@ actors_secondary: [the nomarchs of Asyut and Hermopolis]
 event_type: political
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[first-intermediate-period|the prolonged Theban–Heracleopolitan war]], [[unknown|the "rebellion of This"]], Theban military superiority]
+causes: [[[first-intermediate-period|the prolonged Theban–Heracleopolitan war]], the "rebellion of This", Theban military superiority]
 consequences: [[[middle-kingdom-egypt|the foundation of the Middle Kingdom]], the re-centralization of Egypt, the cult of Mont and then Amun]
 sources_ingested: 1
 last_updated: 2026-06-11

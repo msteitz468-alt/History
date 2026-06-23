@@ -105,7 +105,7 @@ level with the older civilizations:
   **[[ugarit|Ugarit]]** and the Levant, and above all **[[cyprus|Cyprus]]** (the hub
   of the copper trade, the oxhide ingots, the Cape Gelidonya wreck) — and west to
   **Sicily, Italy (Scoglio del Tonno) and Malta**.
-- **Aḫḫiyawa.** From this period the Hittites treat with **[[unknown|Aḫḫiyawa]]**, a
+- **Aḫḫiyawa.** From this period the Hittites treat with **Aḫḫiyawa**, a
   western sea-power ranking "with Egypt, Babylon, and Assyria" and tied to
   **Millawanda/Miletus** (the Tawagalawa letter; Piyamaradu). Whether Aḫḫiyawa = the
   Mycenaean Greeks is the [[ahhiyawa-question|volume's own unresolved dispute]] — but

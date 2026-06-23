@@ -99,7 +99,7 @@ groups formed behind them. The named groups:
 - **Habiru** — not an ethnic group but **bands of "free companions"** (brigands and
   mercenaries) who plundered towns or fought for the petty kings; the Mari evidence
   (a Sutian and Iamutbal men called Habiru) shows the term was **descriptive, not
-  ethnic** — an important early datum in the long [[unknown|Habiru/Hebrew]] debate.
+  ethnic** — an important early datum in the long Habiru/Hebrew debate.
 
 The picture is the enduring tension of **steppe and sown**: "the struggle between
 nomads and settlers, having its origins in physical conditions, could never cease."

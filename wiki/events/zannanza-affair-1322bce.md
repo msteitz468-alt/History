@@ -58,13 +58,13 @@ native commoner."
 ## Consequence Analysis
 
 - produced: the **murder of Zannanza** and the accession of the commoner-vizier
-  **[[unknown|Ay]]** (who appears to have married the royal widow), then
+  **Ay** (who appears to have married the royal widow), then
   [[horemheb|Horemheb]];
 - produced: a lasting **breach with Hatti** — Šuppiluliuma, enraged, attacked the
   Egyptian border province of **Amqa**;
 - enabled: the **plague** carried home from Amqa by the returning Hittite army, which
   would kill Šuppiluliuma himself and his successor and ravage Hatti for years (the
-  subject of [[unknown|Muršili II's plague-prayers]]).
+  subject of Muršili II's plague-prayers).
 
 ## Counterfactual significance
 
@@ -72,7 +72,7 @@ The volume frames it explicitly as a missed turning point: "by over-cautious
 hesitation Šuppiluliumash missed the chance of making one of his sons pharaoh of
 Egypt." Had Zannanza lived, a Hittite would have sat on the throne of Egypt — a
 union of the two greatest powers of the age. Its failure instead set Egypt and Hatti
-on the collision course that ran to the [[unknown|battle of Qadesh]].
+on the collision course that ran to the battle of Qadesh.
 
 ## Historiography
 
@@ -85,5 +85,5 @@ See [[shuppiluliuma-i]] and [[cambridge-ancient-history-methodology]].
 ## Related
 
 - Actors: [[tutankhamun]] · [[shuppiluliuma-i]] · [[horemheb]] · Source-archive: [[amarna-letters]]
-- Followed by: the [[unknown|Egyptian–Hittite wars]] / [[unknown|Qadesh]] · Period: [[late-bronze-age]]
+- Followed by: the Egyptian–Hittite wars / Qadesh · Period: [[late-bronze-age]]
 - Source: [[edwards-cah-v2p2-1975]]

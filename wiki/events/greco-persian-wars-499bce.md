@@ -58,7 +58,7 @@ centre in Greece."
 Revolt]]** and the fateful **Athenian and Eretrian intervention**, which drew Persian retribution
 westward; and the dynastic momentum by which each king (Darius, then Xerxes) was bound to extend his
 predecessor's conquests. Herodotus also reads deeper causes into the clash — the overreaching of
-autocratic power beyond its natural limits (`[[unknown]]` as to how far this moral schema reflects
+autocratic power beyond its natural limits (`unknown` as to how far this moral schema reflects
 real causation).
 
 ## Consequence Analysis

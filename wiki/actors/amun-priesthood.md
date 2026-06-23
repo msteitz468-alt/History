@@ -66,7 +66,7 @@ personnel** built a long-term concentration of power that, CAH judges, was in th
 The Amun priesthood is the institutional key to two of Egyptian history's great
 turning points. Its swelling power under [[amenhotep-iii|Amenophis III]] is widely
 read as a principal provocation of **Akhenaten's religious revolution** (the
-[[unknown|Amarna]] period, beyond this volume) — the pharaoh's attempt to break the
+Amarna period, beyond this volume) — the pharaoh's attempt to break the
 Theban establishment by promoting the sole god **Aten**. And its eventual dominance
 foreshadows the **Theban priest-kings** of the late New Kingdom, when the High Priest
 of Amun would in effect rule Upper Egypt. It is the wiki's prime case of a

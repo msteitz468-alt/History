@@ -6,7 +6,7 @@ date_end: c. 200 CE
 period: [Archaic Period, Classical Antiquity]
 region: [west-africa, sub-saharan-africa]
 affiliated_with: [iron-using farming communities of central Nigeria]
-opposed_by: [[[unknown]]]
+opposed_by: [unknown]
 key_events: [florescence of the Nok terracotta tradition, early ironworking at Taruga]
 key_processes: [[[african-ironworking]], [[bantu-expansion|early West African food production]]]
 sources_ingested: 3

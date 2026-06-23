@@ -12,7 +12,7 @@ actors_secondary: [[[early-bronze-age-aegean|the Early Helladic population]]]
 event_type: migration
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[indo-european-migrations]], [[unknown]]]
+causes: [[[indo-european-migrations]], unknown]
 consequences: [the Greek language in Greece, the Middle Helladic culture, [[mycenaean-civilization|the Mycenaean civilization]]]
 sources_ingested: 2
 last_updated: 2026-06-11
@@ -47,7 +47,7 @@ and the main body arriving ~1900 BCE.
 ## Causal Analysis
 
 - **caused_by:** [[indo-european-migrations]] — part of the broader Indo-European
-  dispersal from the north/steppe; the proximate trigger is `[[unknown]]`.
+  dispersal from the north/steppe; the proximate trigger is `unknown`.
 - The **mechanism** is contested. The older "invasion from the north" account
   founders on the fact that **no convincing northern prototype of Minyan ware has
   been found** in Macedonia or Thrace.

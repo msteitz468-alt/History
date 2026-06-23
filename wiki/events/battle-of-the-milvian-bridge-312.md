@@ -11,7 +11,7 @@ actors_secondary: []
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[roman-tetrarchy]], [[unknown]]]
+causes: [[[roman-tetrarchy]], unknown]
 consequences: [[[edict-of-milan-313]], [[christianization-of-the-roman-empire]]]
 sources_ingested: 1
 last_updated: 2026-06-12
@@ -42,7 +42,7 @@ Constantine, having secured Gaul, moved to eliminate Maxentius and gain Italy an
 which the sources report incompatibly: **Lactantius** places a dream on the eve of battle (the
 chi-rho painted on the shields); **Eusebius**, writing years later, describes a **cross of light in
 the sky** ("by this conquer") followed by a dream of Christ. The historicity and nature of the vision
-are irrecoverable (`causes: [[unknown]]`).
+are irrecoverable (`causes: unknown`).
 
 ## Consequence Analysis
 

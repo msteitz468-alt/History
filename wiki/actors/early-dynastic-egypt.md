@@ -6,7 +6,7 @@ date_end: ~2686 BCE (accession of Djoser, Dynasty III)
 period: [Early Bronze Age]
 region: [north-africa]
 affiliated_with: []
-opposed_by: [[[unknown|Lower Egyptian kingdom (pre-unification)]], Nubian A-Group, Libyan Tjehenu, Sinai bedawin]
+opposed_by: [Lower Egyptian kingdom (pre-unification), Nubian A-Group, Libyan Tjehenu, Sinai bedawin]
 key_events: [[[unification-of-egypt-3100bce]]]
 key_processes: [[[predynastic-egypt]], [[state-formation]], [[urbanization]]]
 sources_ingested: 1

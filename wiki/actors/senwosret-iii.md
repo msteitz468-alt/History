@@ -7,7 +7,7 @@ period: [Middle Bronze Age]
 region: [north-africa, levant]
 affiliated_with: [[[middle-kingdom-egypt]] (Twelfth Dynasty)]
 opposed_by: [Kush / the Iuntiu of Nubia, the provincial nomarchs, the Amu of Palestine]
-key_events: [[[unknown|the Nubian campaigns and the Semna frontier]]]
+key_events: [the Nubian campaigns and the Semna frontier]
 key_processes: [[[state-formation]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11

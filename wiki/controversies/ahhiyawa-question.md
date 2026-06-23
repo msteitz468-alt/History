@@ -72,5 +72,5 @@ and through later Greek legend — and, by extension, whether the Hittite west
 ## Related
 
 - Greeks: [[mycenaean-civilization]] · Hittites: [[hittites]] · [[mursili-ii]] · [[shuppiluliuma-i]]
-- Place: [[troy|Troy/Wiluša]] · [[unknown|Miletus/Millawanda]] · Source: [[edwards-cah-v2p2-1975]]
+- Place: [[troy|Troy/Wiluša]] · Miletus/Millawanda · Source: [[edwards-cah-v2p2-1975]]
 - Period: [[late-bronze-age]]

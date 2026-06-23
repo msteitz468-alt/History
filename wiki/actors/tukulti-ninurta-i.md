@@ -64,7 +64,7 @@ seizure of Marduk set the template for the long, bitter **Assyria–Babylonia
 antagonism**. His reign also exhibits the structural lesson of the volume's Assyrian
 chapters: **conquest outrunning the capacity to govern**, ending in assassination and
 swift decline — the Late Bronze great-powers system buckling on the eve of the
-[[unknown|collapse]].
+collapse.
 
 ## Historiography
 

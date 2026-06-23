@@ -66,7 +66,7 @@ territory from Mukish. Thereafter Ugarit remained (mostly) loyal through a long 
 of kings — Ar-Ḫalba, **Niqmepa** (punished with the loss of Siyannu and Ushnatu after
 a revolt, reducing the kingdom by a third), Ammishtamru II, Ibiranu, down to the last
 king **ʿAmmurapi** — its destiny arbitrated from the Hittite viceroyalty of
-**[[unknown|Carchemish]]** (the dignified Ini-Teshub). The archives preserve a
+**Carchemish** (the dignified Ini-Teshub). The archives preserve a
 remarkable run of **royal divorce cases** among the intermarried houses of Ugarit and
 Amurru, adjudicated by the Hittite Great Kings themselves.
 

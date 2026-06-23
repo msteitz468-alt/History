@@ -38,8 +38,8 @@ festivals, years 30, 34, 37). Throughout, the commoner-born **Queen Tiy** remain
 Amenophis III ruled an empire so secure that he scarcely needed to fight for it. His
 reign is the high noon of Late Bronze **diplomacy by royal marriage**: he took into
 his harem a succession of **Asiatic princesses** — from [[mitanni|Mitanni]], Babylon,
-and Arzawa — cementing alliances later vividly documented in the **[[unknown|Amarna
-letters]]** (which open in his reign). The marriage alliance with **[[mitanni|
+and Arzawa — cementing alliances later vividly documented in the **Amarna
+letters** (which open in his reign). The marriage alliance with **[[mitanni|
 Mitanni]]**, begun by his father Thutmose IV against the rising **[[hittites|
 Hittites]]**, was the keystone of his foreign policy — Egypt and Mitanni standing
 together as the **[[interpolity-law|"great powers"]]** at the apex of the

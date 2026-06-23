@@ -37,14 +37,14 @@ took the old throne-name **Tawannanna**).
 
 ## The struggle for Syria
 
-The contest with **[[mitanni|Mitanni]]** for [[unknown|Syria]] — "the crossroads of
+The contest with **[[mitanni|Mitanni]]** for Syria — "the crossroads of
 the Near East," whose possession "assured supremacy in the world as it then
 existed" — runs through two campaigns:
 
 - **First Syrian War:** he overran the country between the Euphrates and the
   Lebanon, reducing Aleppo, Mukiš ([[alalakh|Alalakh]]), the Nukhašše lands and
   others to vassalage, but halted at the Egyptian sphere; this is the world of the
-  [[amarna-letters|Amarna letters]], of **Aziru of [[unknown|Amurru]]** (whom he
+  [[amarna-letters|Amarna letters]], of **Aziru of Amurru** (whom he
   drew into the Hittite system) and the doomed loyalist **Rib-Adda of
   [[byblos|Byblos]]**.
 - **Second Syrian War:** provoked by Tushratta's counter-moves, he crossed the
@@ -60,7 +60,7 @@ Alšean support. Šuppiluliuma took up the cause of Tushratta's son **Kurtiwaza
 (Mattiwaza)**, married him to a daughter, and in the **Hurrian War** (six campaigns,
 led largely by his sons Telipinu, Arnuwanda and Piyaššili/Šarri-Kušuḫ) installed
 him as a Hittite client king at Waššukanni. Mitanni survived only as a rump buffer.
-Šuppiluliuma set his sons as kings in **Aleppo** and **[[unknown|Carchemish]]**,
+Šuppiluliuma set his sons as kings in **Aleppo** and **Carchemish**,
 controlling the Taurus and Amanus passes. The great unintended consequence: the
 destruction of Mitanni **freed [[ashur-uballit-i|Assyria]]**, "an event which,
 unwished for and of little consequence at the moment, became of great significance

@@ -7,7 +7,7 @@ period: [Early Iron Age]
 region: [mesopotamia, babylonia]
 affiliated_with: []
 opposed_by: [[[elam|Elam]], [[assyria-middle|Assyria]], [[arameans|Aramaeans]]]
-key_events: [[[unknown|the defeat of Elam]] under [[nebuchadnezzar-i|Nebuchadnezzar I]]]
+key_events: [the defeat of Elam under [[nebuchadnezzar-i|Nebuchadnezzar I]]]
 key_processes: []
 sources_ingested: 1
 last_updated: 2026-06-11
@@ -26,7 +26,7 @@ founder was **Marduk-kabit-ahheshu**, and its eleven kings ruled for some 132 ye
 ## A Babylonian Revival
 
 After the catastrophe of the Elamite sack — the loss of the cities and of the
-statue of [[unknown|Marduk]] — the nobles of the south rallied around Isin to
+statue of Marduk — the nobles of the south rallied around Isin to
 re-establish a native Babylonian kingship. The dynasty's high point came with its
 fourth king, **[[nebuchadnezzar-i|Nebuchadnezzar I]]** (r. 1124–1103 BCE), who
 defeated [[elam|Elam]] on the Ulai near Susa, recovered the Marduk statue, and is

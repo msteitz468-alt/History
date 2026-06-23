@@ -6,7 +6,7 @@ date_precision: approximate
 period: [Early Bronze Age]
 region: [levant]
 process_type: political
-driven_by: [[[unknown|in-migration of a new ("Canaanite") population]], [[trade-network-formation]]]
+driven_by: [in-migration of a new ("Canaanite") population, [[trade-network-formation]]]
 produces: [fortified Canaanite city-states, the Levantine urban template]
 sources_ingested: 1
 last_updated: 2026-06-11
@@ -77,7 +77,7 @@ Around the end of EB III the cities were **abandoned more or less simultaneously
 ('Ai, Megiddo, Beth-shan, Khirbet Karak, Jericho; Byblos burned), beginning a
 centuries-long **eclipse of urban life** (the EB–MB Intermediate Period). De Vaux
 links this to the **"great thrust from the desert"** that struck the whole Fertile
-Crescent at once — the **[[unknown|Amorites]]**, the same nomadic pressure
+Crescent at once — the **Amorites**, the same nomadic pressure
 associated with the [[fall-of-old-kingdom-2160bce|fall of the Egyptian Old
 Kingdom]] and the troubles that would later bring down the Third Dynasty of
 [[ur|Ur]]. He flags an open question: whether the Amorites caused the collapse or

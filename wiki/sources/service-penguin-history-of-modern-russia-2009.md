@@ -128,7 +128,7 @@ Sub-agents must link **only** to pages that already exist on disk or the ones ex
 - events/august-coup-1991.md, russian-constitutional-crisis-1993.md, first-chechen-war-1994.md (partial)
 - processes/perestroika.md, glasnost.md (partial), economic-shock-therapy.md, dissolution-of-the-soviet-union.md
 
-**Lint/validation note (subagent):** All links restricted to established list. Causes/consequences filled (or [[unknown]] where range silent). Grounded exclusively in range text. No new page names invented. Historiography/sections completed where required for periods/events.
+**Lint/validation note (subagent):** All links restricted to established list. Causes/consequences filled (or unknown where range silent). Grounded exclusively in range text. No new page names invented. Historiography/sections completed where required for periods/events.
 
 Next subagent ranges should continue reconciliation on main thread.
 
@@ -208,4 +208,4 @@ sources_ingested: 1
 - Lenin illness & testament (late 1922–Jan 1924): criticizes Stalin ("too crude"), warns of split; advocates worker influx to CC/CC C/ Rabkrin. Dies 21 Jan 1924; cult organized (embalmed mausoleum). (lines 1294–1304)
 - Succession struggle: Trotsky vs "troika" (Stalin/Kamenev/Zinoviev); "Socialism in One Country" (Stalin Dec 1924); "scissors crisis" (Trotsky 1923); NEP economic recovery but "Urals-Siberian method" of grain seizures (1928) signals end. Shakhty trial (1928) intimidates specialists. Stalin vs Bukharin ("Right Deviation") erupts over pace of industrialization/collectivization. (lines 1318–1450)
 
-**Pages primarily affected/updated by this range**: long-19th-century, world-wars-era, russian-empire, soviet-union, nicholas-ii, lenin-vladimir, stalin-joseph, trotsky-leon, february-revolution-1917, october-revolution-1917, russian-civil-war-1918, new-economic-policy (plus source page). All claims grounded exclusively in the 200–1450 line range. Cross-links use only established names; causes/consequences filled where range provides evidence (or [[unknown]]). Historiography sections incorporate Service's explicit arguments.
+**Pages primarily affected/updated by this range**: long-19th-century, world-wars-era, russian-empire, soviet-union, nicholas-ii, lenin-vladimir, stalin-joseph, trotsky-leon, february-revolution-1917, october-revolution-1917, russian-civil-war-1918, new-economic-policy (plus source page). All claims grounded exclusively in the 200–1450 line range. Cross-links use only established names; causes/consequences filled where range provides evidence (or unknown). Historiography sections incorporate Service's explicit arguments.

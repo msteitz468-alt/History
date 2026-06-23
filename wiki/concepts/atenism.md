@@ -46,7 +46,7 @@ as a heavenly king."
 
 ## The Great Hymn to the Aten
 
-The cult's masterpiece, preserved in the tomb of [[unknown|Ay]] and "often compared
+The cult's masterpiece, preserved in the tomb of Ay and "often compared
 with Psalm 104," is the **Great Hymn to the Aten** — a true poet's vision of a sole
 creator who quickens the child in the womb and the chick in the egg: "How manifold
 are thy works!... O Sole God, like unto whom there is no other!" Its phrasing draws

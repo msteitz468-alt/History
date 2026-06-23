@@ -6,7 +6,7 @@ date_end: ~2342 BCE
 period: [Early Bronze Age]
 region: [mesopotamia]
 affiliated_with: [[[lagash]], [[early-dynastic-sumer]]]
-opposed_by: [[[unknown|Lugalzaggisi of Umma]]]
+opposed_by: [Lugalzaggisi of Umma]
 key_events: []
 key_processes: [[[temple-economy]]]
 sources_ingested: 1

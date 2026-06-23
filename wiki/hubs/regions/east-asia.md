@@ -18,6 +18,10 @@ tags: [hub, region, east-asia]
 ---
 
 ## The shared world
+
+**Grounded claims from Hansen Silk Road range 282-2600** (Valerie Hansen, *The Silk Road: A New History*, Intro + Ch. 1–early 2):
+- "In addition to their writing system, the refugees introduced Buddhist teachings, a religion new to the area that subsequently had an enormous impact on all of East Asia." (ll. 572-573). taxonomy: produced: [[silk-roads]]. Updated [[silk-roads]], [[east-asia]].
+All from range only; verbatim + lines; established names only.
 - **China** — the civilizational core; see the [[hubs/civilizations/china|China portal]] for the full
   dynastic arc (Shang → Qing → modern).
 - **Japan** — from [[yamato-japan|Yamato]] through the [[meiji-restoration-1868|Meiji Restoration]] to

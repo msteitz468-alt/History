@@ -60,13 +60,13 @@ holding Assyria itself in vassalage.
 ## Rivalry and rapprochement with Egypt
 
 Mitanni was Egypt's chief antagonist in Syria. It stiffened the resistance of
-[[unknown|Qadesh]], Tunip, and the other city-states against **[[thutmose-iii|
+Qadesh, Tunip, and the other city-states against **[[thutmose-iii|
 Thutmose III]]**, whose campaigns reached the Euphrates against "Naharin"
 (Mitannian territory). But the rise of the **[[hittites|Hittites]]** drove the two
 powers together: under **Thutmose IV** a **marriage alliance** was sealed (a
 daughter of king Artatama entering the Egyptian harem), and Mitanni and Egypt stood
 together as allies through the reign of **[[amenhotep-iii|Amenophis III]]** — the
-relationship vividly documented in the [[unknown|Amarna letters]] (Tushratta of
+relationship vividly documented in the Amarna letters (Tushratta of
 Mitanni to the pharaoh), which open at the very end of this volume's coverage.
 
 ## The destruction (narrated in CAH II.2)

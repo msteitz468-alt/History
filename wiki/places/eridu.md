@@ -5,7 +5,7 @@ modern_equivalent: [Tell Abu Shahrain, southern Iraq]
 coordinates: [30.82 N, 45.99 E]
 period_active: [Chalcolithic, Early Bronze Age]
 controlled_by: [Ubaid communities, Sumerian city-state, Third Dynasty of Ur]
-events_here: [[[unknown]]]
+events_here: [unknown]
 processes_here: [[[urbanization]], [[urban-revolution]]]
 sources_ingested: 2
 last_updated: 2026-06-23

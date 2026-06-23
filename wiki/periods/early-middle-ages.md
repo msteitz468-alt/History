@@ -29,6 +29,29 @@ African provinces, reaching the Indus and the Atlantic. The
 presided over a cultural and scientific "golden age" at the hub of Afro-Eurasian
 trade.
 
+**Grounded claims from Hansen Silk Road range 2601-5200**:
+- "Ten kings ruled between 502 and the Chinese invasion of 640." (ll. 688, Gaochang/Turfan). taxonomy: part_of: [[early-middle-ages]].
+- "In the sixth and seventh centuries, most of the Sogdians in Turfan were Zoroastrians, not Manichaeans." (ll. 774). taxonomy: concurrent_with: [[early-middle-ages]].
+- "Sabao is the Chinese transcription of the Sogdian word, s’rtp’w... “caravan leader.”" (ll. 780). taxonomy: part_of: [[silk-roads]].
+- "The residents of Kucha learned about Buddhism from Indian missionaries. The third and fourth centuries marked the peak of Indian influence..." (Ch. 2). taxonomy: contributed_to: [[early-middle-ages]], [[central-asia]].
+- "the Tang government sent 900,000 bolts of silk each year to four different headquarters in the frontier areas" (ll. 104). taxonomy: enabled: [[silk-roads]].
+
+**Grounded claims from Hansen Silk Road range 282-2600** (Valerie Hansen, *The Silk Road: A New History*, Intro + Ch. 1–early 2):
+- "Before the coming of Islam to the region, members of these different communities proved surprisingly tolerant of each other’s beliefs. Individual rulers might choose one religion over another and strongly encourage their subjects to follow suit, yet they still permitted residents to continue their own religious practices." (ll. 303-304). taxonomy: enabled: [[early-middle-ages]]. Updated [[early-middle-ages]], [[central-asia]].
+- "In addition to their writing system, the refugees introduced Buddhist teachings, a religion new to the area that subsequently had an enormous impact on all of East Asia." (ll. 572-573). taxonomy: produced: [[silk-roads]]. Updated [[silk-roads]], [[early-middle-ages]], [[east-asia]].
+- "these early Buddhists married and lived at home with their own families, not in celibate monastic communities, as is so often thought." (ll. 502). taxonomy: contrasts_with: [[early-middle-ages]]. Updated [[early-middle-ages]].
+All claims verbatim from range; established names only.
+
+**Grounded claims from Hansen Silk Road range 5201-7800**:
+- "and religious toleration, 241" (ll. 5725). taxonomy: enabled: [[early-middle-ages]]. Updated [[early-middle-ages]], [[central-asia]].
+- "and the Tang dynasty, 184–85, 186–88" (ll. 5749). taxonomy: concurrent_with: [[early-middle-ages]]. Updated [[early-middle-ages]].
+- "and Chang’an, 149–50, 150, 159–60" (ll. 5236). taxonomy: concurrent_with: [[chang-an]]. Updated [[chang-an]], [[early-middle-ages]].
+- "Sogdian traders, 43, 81, 104, 116, 119–20, 125, 136, 138, 157–59, 239" (ll. 7514). taxonomy: part_of: [[silk-roads]]. Updated [[silk-roads]], [[central-asia]].
+- "and Zoroastrianism, 118, 181" (ll. 6926). taxonomy: produced: [[silk-roads]]. Updated [[silk-roads]].
+- "Manichaeism in art, 109, color plate 11A and Chang’an, 159 and Dunhuang cave documents, 167, 181, 182–83, 241" (ll. 7366). taxonomy: contributed_to: [[silk-roads]]. Updated [[silk-roads]].
+- "The Diamond Sutra, 24, 179, 183, 236, 241" (ll. 5649). taxonomy: produced: [[dunhuang]]. Updated [[silk-roads]].
+All verbatim from range 5201-7800; established names only.
+
 Simultaneously, **[[tang-dynasty|Tang]] China** (618–907) — perhaps "the
 wealthiest and most powerful state thus far seen in world history" (Benjamin) —
 anchored the **[[silk-roads|second Silk Roads era]]** at the eastern end, while
@@ -117,3 +140,16 @@ The most fully integrated Afro-Eurasian system the world had yet seen: a continu
 Note a specific narrative gap: as explained in the volume's Preface (p. xiii), a planned chapter on Romans and Lombards in Italy in the seventh century was never submitted for NCMH Vol. 1, leaving a gap in the narrative of seventh-century Italy in our backbone reference source. The Primary Chronicle (ingested 2026) now supplies primary grounding for Kievan Rus' through the early 12th c., including 11th-c. political and military detail.
 
 Gaps per CLAUDE.md: the interior of sub-Saharan Africa, Southeast Asia, and South Asia remain comparatively thin; post-1500 material is outside this period. The gap on Russia and Eastern Europe has been addressed by the ingestion of Riasanovsky (2000) and now the Primary Chronicle (Laurentian Text, Cross & Sherbowitz-Wetzor 1953) as the essential primary source. Lines 3000–6000 ground the origins narrative (Rurik calling, Oleg unification and 907/911 treaty, Igor/Olga/Svyatoslav annals, detailed 988 conversion mechanics including "test of the faiths," Kherson siege, baptism in Cherson, and early pagan resistance) with direct quotes and line references; fills primary-voice gap for Kievan Rus' foundational events. See wiki/sources/cross-primary-chronicle-laurentian-1953.md.
+
+**Grounded claims from Hansen Silk Road range 7801-end**:
+- "and volume of Silk Road trade, 237" (ll. 9201). taxonomy: contrasts_with: [[silk-roads]].
+- "and itinerant traders, 237–38" (ll. 8960). taxonomy: part_of: [[silk-roads]].
+- "and migrant populations, 239" (ll. 8392). taxonomy: contributed_to: [[silk-roads]].
+- "religious tolerance, 146, 181–82, 241" (ll. 8231). taxonomy: concurrent_with: [[early-middle-ages]].
+- "and the Dunhuang caves, 167–77, 172, 180–81, 196–97" (ll. 8952). taxonomy: part_of: [[dunhuang]].
+- "and Khotan, 176–77, 207, 209, 212" (ll. 8964). taxonomy: part_of: [[khotan]].
+- "printing, 138, 179, 236. See also paper" (ll. 8105). taxonomy: produced: [[silk-roads]].
+- "woodblock printing, 138, 179, 236" (ll. 9896). taxonomy: produced: [[silk-roads]].
+- "The Dunhuang Caves" (ll. 10428). taxonomy: part_of: [[dunhuang]].
+- "CHAPTER 7 Entryway into Xinjiang for Buddhism and Islam" (ll. 10451). taxonomy: part_of: [[khotan]].
+All verbatim from range; established names only.

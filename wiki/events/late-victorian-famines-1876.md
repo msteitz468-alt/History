@@ -11,7 +11,7 @@ actors_secondary: [Indian National Congress (emergent), famine commissions]
 event_type: [famine]
 scale_immediate: hemispheric
 scale_consequential: global
-causes: [[[unknown|strong El Niño/ENSO drought]], grain export and market integration under colonial rule, laissez-faire and Malthusian relief policy, declining state relief capacity (Qing)]
+causes: [strong El Niño/ENSO drought, grain export and market integration under colonial rule, laissez-faire and Malthusian relief policy, declining state relief capacity (Qing)]
 consequences: [mass mortality (~30–60 million, disputed), the making of the global periphery / Third World, Indian nationalist critique of colonial economics, famine codes and relief reform]
 sources_ingested: 1
 last_updated: 2026-06-12
@@ -39,7 +39,7 @@ genuinely uncertain (colonial demography is poor) and contested at the upper end
 
 ## Causal Analysis
 
-- `contributed_to: [[unknown]]` — a strong **ENSO/El Niño** oscillation failed monsoons across three
+- `contributed_to: unknown` — a strong **ENSO/El Niño** oscillation failed monsoons across three
   continents at once (Davis's use of climatic "teleconnections").
 - `caused_by: [[imperialism]]` — Davis's core claim is that drought became *famine* through political
   economy: **grain exports** from starving regions, **railways** serving paying demand, relief withheld or

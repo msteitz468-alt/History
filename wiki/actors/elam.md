@@ -7,7 +7,7 @@ period: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Bronze Age Collap
 region: [iran-plateau, near-east]
 affiliated_with: []
 opposed_by: [[[akkadian-empire]], [[third-dynasty-of-ur]], [[kassites|Kassite Babylon]], Mesopotamia generally]
-key_events: [[[fall-of-ur-2004bce|the Elamite sack of Ur]], defeat by [[hammurabi|Hammurabi]] (~1764 BCE), Kutir-Nahhunte I's sack of Akkad (~1730 BCE), the building of [[unknown|Dur-Untash (Chogha Zanbil)]], the Shutrukid sack of Babylon (~1158 BCE)]
+key_events: [[[fall-of-ur-2004bce|the Elamite sack of Ur]], defeat by [[hammurabi|Hammurabi]] (~1764 BCE), Kutir-Nahhunte I's sack of Akkad (~1730 BCE), the building of Dur-Untash (Chogha Zanbil), the Shutrukid sack of Babylon (~1158 BCE)]
 key_processes: [[[state-formation]], [[trade-network-formation]], [[writing-and-record-keeping]]]
 sources_ingested: 3
 last_updated: 2026-06-11

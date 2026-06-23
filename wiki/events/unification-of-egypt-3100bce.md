@@ -8,7 +8,7 @@ period: [Early Bronze Age]
 region: [north-africa]
 location: [Nile Valley, Hierakonpolis, the Delta apex, Memphis]
 actors_primary: [[[narmer]], [[early-dynastic-egypt]]]
-actors_secondary: [[[unknown|Scorpion]], [[unknown|Lower Egyptian kingdom]]]
+actors_secondary: [Scorpion, Lower Egyptian kingdom]
 event_type: political
 scale_immediate: regional
 scale_consequential: civilizational

@@ -11,7 +11,7 @@ actors_secondary: [[[pisistratidae|Hippias]], the genos of the Gephyraei]
 event_type: political
 scale_immediate: local
 scale_consequential: regional
-causes: [[[unknown]] — disputed: a private erotic-and-honour quarrel (Thucydides) versus a political plot to end the [[greek-tyranny|tyranny]] (the general Athenian view)]
+causes: [unknown — disputed: a private erotic-and-honour quarrel (Thucydides) versus a political plot to end the [[greek-tyranny|tyranny]] (the general Athenian view)]
 consequences: [the hardening of Hippias' rule, the cult of the Tyrannicides as founders of Athenian liberty, the ideological prehistory of [[isonomia]]]
 sources_ingested: 1
 last_updated: 2026-06-11
@@ -45,7 +45,7 @@ origin was "an erotic occurrence" — a private quarrel of love and honour that 
 took on political colour; **Aristotle** broadly followed him but differs in many details
 (making Thessalus, not Hipparchus, the insulter). The **general Athenian belief**, which
 Herodotus does not deny, was that the **motive was political** and the aim was to end the
-tyranny. Use [[unknown]]: Lewis treats the true motive as unrecoverable, noting "there
+tyranny. Use unknown: Lewis treats the true motive as unrecoverable, noting "there
 must have been different versions from the beginning."
 
 ## Consequence Analysis

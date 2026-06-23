@@ -11,7 +11,7 @@ actors_secondary: [[[severan-dynasty]]]
 event_type: political
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[roman-citizenship-and-belonging]], [[unknown]]]
+causes: [[[roman-citizenship-and-belonging]], unknown]
 consequences: [[[roman-citizenship-and-belonging]]]
 sources_ingested: 1
 last_updated: 2026-06-12
@@ -35,7 +35,7 @@ its exact terms and the dating (212 or 213) are debated, as is a possible exclus
 
 ## Causal Analysis
 
-The **motive is genuinely uncertain** (`caused_by: [[unknown]]`). Campbell weighs two readings:
+The **motive is genuinely uncertain** (`caused_by: unknown`). Campbell weighs two readings:
 
 - **Cassius Dio's cynical view**: Caracalla wished to widen the tax base, since the inheritance and
   manumission taxes fell only on citizens (and he had just doubled them). But Campbell notes there were

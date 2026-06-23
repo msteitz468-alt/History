@@ -57,6 +57,6 @@ with the Hittites.
 
 ## Related
 
-- Father: [[unknown|Ramesses I]] · Son: [[ramesses-ii]] · Predecessor-context: [[horemheb]]
+- Father: Ramesses I · Son: [[ramesses-ii]] · Predecessor-context: [[horemheb]]
 - Foe: [[hittites]] ([[muwatalli-ii]]) · State: [[new-kingdom-egypt]] · Institution: [[amun-priesthood]]
-- Place: [[unknown|Abydos]] · [[thebes]] · Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]
+- Place: Abydos · [[thebes]] · Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

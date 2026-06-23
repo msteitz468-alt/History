@@ -7,13 +7,13 @@ dating_method: stratigraphy / king-lists
 period: [Early Bronze Age]
 region: [mesopotamia]
 location: [Lagash (Girsu), Umma, the Gu'edena boundary]
-actors_primary: [[[lagash]], [[unknown|Umma]]]
-actors_secondary: [[[unknown|Eannatum]], [[unknown|Entemena]], [[unknown|Mesilim of Kish]]]
+actors_primary: [[[lagash]], Umma]
+actors_secondary: [Eannatum, Entemena, Mesilim of Kish]
 event_type: war
 scale_immediate: local
 scale_consequential: regional
 causes: [boundary dispute over the Gu'edena fields, control of irrigation canals, [[temple-economy|divine land-ownership]]]
-consequences: [[[unknown|Lagash hegemony under Eannatum]], the Stele of the Vultures, eventual conquest by Lugalzaggisi]
+consequences: [Lagash hegemony under Eannatum, the Stele of the Vultures, eventual conquest by Lugalzaggisi]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [event, early-bronze-age, mesopotamia]
@@ -55,7 +55,7 @@ land.
 - `caused_by: [[temple-economy]]` — the casus belli was framed entirely in terms
   of **divine land-ownership**: an affront to Ningirsu, which the ensi as the
   god's agent was bound (in a dream) to avenge.
-- `contributed_to: [[unknown]]` — the **material** stake was the boundary
+- `contributed_to: unknown` — the **material** stake was the boundary
   **canal** and its water; control of irrigation was among "the fruitful causes of
   strife between neighbours."
 

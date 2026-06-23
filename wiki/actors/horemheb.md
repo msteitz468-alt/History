@@ -28,7 +28,7 @@ A career soldier — "**Great Commander of the Army**" and King's Deputy under t
 [[tutankhamun|Tutankhamun]] — Horemheb was a "staff officer rather than a field
 commander" whose organizing ability brought him to power. He acted as the king's
 mouthpiece to foreign envoys and provincial governors, continued in office under
-[[unknown|Ay]], and succeeded him (probably as designated heir) without direct royal
+Ay, and succeeded him (probably as designated heir) without direct royal
 blood, his queen **Mutnodjme** apparently providing the dynastic link. He presented
 himself **not as a usurper but as the legitimate restorer**, even usurping
 Tutankhamun's Restoration Stela.
@@ -55,7 +55,7 @@ Two great projects define the reign:
 Horemheb closes the Amarna episode and **stabilizes the post-revolution state**, but
 his deeper significance is dynastic: childless, he passed the throne to his
 vizier-general **Ramesses I**, "regarded as founding a new dynasty" — the
-[[unknown|Nineteenth Dynasty]] of Sethos I and Ramesses II (Section 3). The
+Nineteenth Dynasty of Sethos I and Ramesses II (Section 3). The
 later king-lists treated him, not Tutankhamun or Ay, as the legitimate successor of
 [[amenhotep-iii|Amenophis III]], writing the Amarna kings out of history.
 
@@ -69,7 +69,7 @@ See [[cambridge-ancient-history-methodology]].
 
 ## Related
 
-- Served/succeeded: [[tutankhamun]] · [[unknown|Ay]] · Erased: [[akhenaten]] · [[atenism]] · [[amarna]]
+- Served/succeeded: [[tutankhamun]] · Ay · Erased: [[akhenaten]] · [[atenism]] · [[amarna]]
 - Restored: [[amun-priesthood]] · Place: [[thebes]] · [[memphis]]
-- Successor: [[unknown|Ramesses I]] → the [[unknown|Nineteenth Dynasty]] · State: [[new-kingdom-egypt]]
+- Successor: Ramesses I → the Nineteenth Dynasty · State: [[new-kingdom-egypt]]
 - Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

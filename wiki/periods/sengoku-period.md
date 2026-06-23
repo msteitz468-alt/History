@@ -13,7 +13,7 @@ tags: [period, japan]
 # Sengoku Period (the Warring States of Japan)
 
 The Sengoku ("Warring States") period was the century-plus of endemic civil war that followed the
-collapse of [[ashikaga-shogunate|Ashikaga]] central authority in the Ōnin War (1467–77). The shōgun and
+collapse of [[muromachi-period|Ashikaga]] central authority in the Ōnin War (1467–77). The shōgun and
 the old provincial governors gave way to self-made warlords — the *daimyō* — who built castle-centered
 domains and fought continuously for territory, while a culture of *gekokujō* ("the low overthrowing the
 high") overturned the established order.
@@ -30,7 +30,7 @@ its final decades.
 
 ## Transition
 
-It opens with the failure of the [[ashikaga-shogunate|Ashikaga bakufu]] and closes with the Tokugawa
+It opens with the failure of the [[muromachi-period|Ashikaga bakufu]] and closes with the Tokugawa
 settlement that ended the wars and inaugurated the [[edo-period|Edo period]].
 
 ## Historiography

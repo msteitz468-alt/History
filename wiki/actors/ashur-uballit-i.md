@@ -60,7 +60,7 @@ into Babylonia, defeated and slew the usurper," and installed his great-grandson
 **Kurigalzu II** — making the Assyrian king a **king-maker in Babylon**. His
 successors (his son **Enlil-nirari**, then **Arik-den-ili**) fought the Kassites and
 the Zagros hillmen indecisively, the rivalry running on to the decisive victory of
-[[unknown|Tukulti-Ninurta I]] a century later.
+Tukulti-Ninurta I a century later.
 
 ## Significance
 
@@ -71,7 +71,7 @@ volume draws out: the rise of Assyria was an **unintended consequence** of
 [[shuppiluliuma-i|Šuppiluliuma's]] destruction of the Mitannian buffer — "unwished
 for and of little consequence at the moment." He is the personal origin-point of the
 [[assyria-middle|Middle Assyrian kingdom]] that culminates in
-[[unknown|Tiglath-pileser I]].
+Tiglath-pileser I.
 
 ## Historiography
 
@@ -87,5 +87,5 @@ historiography. See [[cambridge-ancient-history-methodology]].
 
 - State: [[assyria-middle|Middle Assyrian kingdom]] · later [[neo-assyrian-empire]]
 - Freed by the fall of: [[mitanni]] (via [[shuppiluliuma-i]]) · Rival: [[kassites]] (Burnaburiaš II, Kurigalzu II)
-- Concept: [[amarna-letters]] · [[interpolity-law]] · Place: [[unknown|Ashur]]
+- Concept: [[amarna-letters]] · [[interpolity-law]] · Place: Ashur
 - Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

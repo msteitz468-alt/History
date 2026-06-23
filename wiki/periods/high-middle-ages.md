@@ -18,6 +18,25 @@ The High Middle Ages (1000–1300 CE) is the central act of the **"Middle Millen
 as framed by [[kedar-cwh-v5-2015|CWH V]]: the period in which the loosely linked
 civilizational ecumenes of Afro-Eurasia were drawn together into a single, if
 uneven, **[[afro-eurasian-world-system|world system of exchange]]** — and in
+
+**Grounded claims from Hansen Silk Road range 2601-5200**:
+- "The documents about the princes’ difficulties are among the forty thousand documents in multiple languages preserved in the library cave at Dunhuang, which was sealed sometime after 1002..." (ll. 144). taxonomy: part_of: [[high-middle-ages]].
+- "As late as 1400 Buddhism was still flourishing in Turfan, according to accounts from envoys." (ll. 42). taxonomy: concurrent_with: [[high-middle-ages]].
+- "the library cave at Dunhuang... embodies the tolerance of different religions that characterized Silk Road communities for nearly one thousand years." (ll. 144). taxonomy: produced: [[silk-roads]].
+- "In the 1300s the Mongol Empire began to unravel..." (ll. 42). taxonomy: followed_by: [[silk-roads]]. (temporal per range).
+
+**Grounded claims from Hansen Silk Road range 7801-end**:
+- "and volume of Silk Road trade, 237" (ll. 9201). taxonomy: contrasts_with: [[silk-roads]].
+- "and itinerant traders, 237–38" (ll. 8960). taxonomy: part_of: [[silk-roads]].
+- "and migrant populations, 239" (ll. 8392). taxonomy: contributed_to: [[silk-roads]].
+- "religious tolerance, 146, 181–82, 241" (ll. 8231). taxonomy: concurrent_with: [[early-middle-ages]].
+- "and the Dunhuang caves, 167–77, 172, 180–81, 196–97" (ll. 8952). taxonomy: part_of: [[dunhuang]].
+- "and Khotan, 176–77, 207, 209, 212" (ll. 8964). taxonomy: part_of: [[khotan]].
+- "printing, 138, 179, 236. See also paper" (ll. 8105). taxonomy: produced: [[silk-roads]].
+- "woodblock printing, 138, 179, 236" (ll. 9896). taxonomy: produced: [[silk-roads]].
+- "The Dunhuang Caves" (ll. 10428). taxonomy: part_of: [[dunhuang]].
+All verbatim from range; established names only.
+
 which that connection generated as much friction as commerce. From the eleventh
 century onward there were, at any moment, more people alive than in any prior
 epoch (Biraben's estimate rises from ~265M in 1000 to ~360M by 1200), and the

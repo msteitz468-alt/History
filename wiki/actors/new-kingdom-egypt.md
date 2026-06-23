@@ -35,7 +35,7 @@ be re-subdued. Where Old and Middle Kingdom kingship had rested on a theology of
 divine kingship, the New Kingdom king's power rested on **his control of the
 machinery of government — the army, the police, the bureaucracy, and the
 priesthood.** The realm was deliberately divided into a **South and a North**, each
-with its own vizier and treasurer, plus a **[[unknown|Viceroy of Kush]]** over Nubia,
+with its own vizier and treasurer, plus a **Viceroy of Kush** over Nubia,
 so that no one but the king held authority over the whole.
 
 ## The founders and the empire
@@ -74,14 +74,14 @@ Dynasty to its close. **[[akhenaten|Akhenaten]]** replaced the state cult with t
 exclusive worship of the [[atenism|Aten]], founded a new capital at
 **[[amarna|Akhetaten]]**, and proscribed [[amun-priesthood|Amun]] — a religious and
 fiscal upheaval that "overturned" Egypt's finances and let its grip on Syria slip
-(the [[amarna-letters|Amarna letters]] record [[unknown|Amurru]] and the Syrian
+(the [[amarna-letters|Amarna letters]] record Amurru and the Syrian
 vassals defecting to [[shuppiluliuma-i|Hatti]]). His successors reversed it:
 **[[tutankhamun|Tutankhamun]]** restored the old cults and abandoned Amarna; after
 his heirless death (the [[zannanza-affair-1322bce|Zannanza affair]]) and the brief
-reign of the vizier **[[unknown|Ay]]**, the general **[[horemheb|Horemheb]]**
+reign of the vizier **Ay**, the general **[[horemheb|Horemheb]]**
 dismantled the Aten temples, reformed the corrupt administration by edict, and passed
-the throne to **[[unknown|Ramesses I]]** — founding the [[unknown|Nineteenth
-Dynasty]] (Section 3). The later king-lists wrote the Amarna kings out of history
+the throne to **Ramesses I** — founding the Nineteenth
+Dynasty (Section 3). The later king-lists wrote the Amarna kings out of history
 entirely.
 
 ## The Ramesside twilight and the end of the New Kingdom (CAH II.2, Ch. XXXV)

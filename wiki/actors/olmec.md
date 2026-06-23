@@ -6,7 +6,7 @@ date_end: c. 400 BCE (decline of La Venta)
 period: [Late Bronze Age, Early Iron Age, Archaic Period]
 region: [mesoamerica]
 affiliated_with: [the Gulf Coast "Olmec Heartland" (Veracruz/Tabasco), interregional trade with the [[zapotec|Valley of Oaxaca]]]
-opposed_by: [[[unknown]]]
+opposed_by: [unknown]
 key_events: [San Lorenzo apogee 1200–900 BCE, rise of La Venta c. 900–400 BCE, carving of the colossal heads]
 key_processes: [[[mesoamerican-state-formation]], [[trade-network-formation]]]
 sources_ingested: 2

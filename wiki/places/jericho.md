@@ -5,7 +5,7 @@ modern_equivalent: [Tell es-Sultan, near Jericho, West Bank]
 coordinates: [31.87 N, 35.44 E]
 period_active: [Mesolithic, Neolithic, Chalcolithic, Early Bronze Age, Middle Bronze Age, Late Bronze Age]
 controlled_by: [[[natufian-culture]], Pre-Pottery Neolithic communities, Canaanite/Amorite city-state]
-events_here: [[[unknown]]]
+events_here: [unknown]
 processes_here: [[[early-agriculture-southwest-asia]], [[sedentism]], [[urbanization]], [[early-bronze-age-levant]]]
 sources_ingested: 2
 last_updated: 2026-06-11

@@ -12,7 +12,7 @@ actors_secondary: [[[polyperchon]], [[craterus]], [[olympias]], [[alexander-iv]]
 event_type: war
 scale_immediate: hemispheric
 scale_consequential: hemispheric
-causes: [[[alexander-the-great]], [[unknown|absence of a competent Argead heir]], rival ambitions of Alexander's marshals, the personal (not institutional) basis of Alexander's empire]
+causes: [[[alexander-the-great]], absence of a competent Argead heir, rival ambitions of Alexander's marshals, the personal (not institutional) basis of Alexander's empire]
 consequences: [[[hellenistic-world]], [[hellenistic-monarchy]], [[ptolemaic-egypt]], [[seleucid-empire]], [[antigonid-dynasty]], extinction of the Argead dynasty, [[seleucid-era]]]
 sources_ingested: 1
 last_updated: 2026-06-11

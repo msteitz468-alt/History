@@ -75,6 +75,6 @@ Ramesses II's, a caution against reading them literally. See
 ## Related
 
 - Predecessor: Sethnakhte (founder of the Twentieth Dynasty) · earlier [[merneptah]] · [[ramesses-ii]]
-- Enemy: [[sea-peoples|Sea Peoples]] (the [[unknown|Philistines]]) · [[bronze-age-collapse-1200bce|Bronze Age Collapse]] · Institution: [[amun-priesthood]]
-- Place: [[unknown|Medinet Habu]] / [[thebes]] · State: [[new-kingdom-egypt]]
+- Enemy: [[sea-peoples|Sea Peoples]] (the Philistines) · [[bronze-age-collapse-1200bce|Bronze Age Collapse]] · Institution: [[amun-priesthood]]
+- Place: Medinet Habu / [[thebes]] · State: [[new-kingdom-egypt]]
 - Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

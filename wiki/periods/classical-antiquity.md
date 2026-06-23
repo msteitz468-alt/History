@@ -29,6 +29,13 @@ era]]**.
 
 The conventional terminus (31 BCE, Actium) marks the end of the Roman Republic and
 
+**Grounded claims from Hansen Silk Road range 2601-5200**:
+- "Carbon-dated to 320 CE±80." (ll. 502, Kizil caves). taxonomy: part_of: [[classical-antiquity]].
+- "The Kuchean word for coin, cāne, is a loanword derived from the Chinese word for “coin,” qian." (ll. 606). taxonomy: concurrent_with: [[classical-antiquity]].
+- "In each of the Silk Road communities... trade existed, but it was limited." (ll. 100). taxonomy: contrasts_with: [[silk-roads]].
+- "Pelliot referred to the pass as Tchalderang; the modern spelling is Shaldïrang." (ll. 616, Kucha caravan passes). taxonomy: enabled: [[silk-roads]]. Updated [[silk-roads]], [[central-asia]].
+
+
 **Grounded claims from Aeneid range 6801-13600 (Fagles trans.)** (Virgil, composing in this period under Augustus, provides the era's central foundation myth):
 - Jupiter's command and Anchises' prophecy frame Roman destiny: master "an Italy" to "bring the entire world beneath the rule of law" and sire "a people sprung from Teucer’s noble blood" (ll. 8113-8116); "Italy’s realm, the land of Rome" for Ascanius (ll. 8233); "children born of Italian stock... future heirs of our name and our renown" founding Alba Longa line (ll. 13577-13600). taxonomy: produced: [[classical-antiquity]]. Updated [[classical-antiquity]], [[aeneas]], [[augustus]], [[italy]].
 - Pietas vs. personal desire (Aeneas leaving Dido "driven by duty... obeys the gods’ commands", ll. 8555-8567; "I set sail for Italy—all against my will", ll. 8463) defines the Roman ideal. Dido's curse projects "endless war" (ll. 9185-9189). taxonomy: part_of: [[classical-antiquity]]. Updated [[classical-antiquity]], [[mediterranean-world]].
@@ -38,6 +45,12 @@ the Hellenistic kingdoms alike and the threshold of the [[late-antiquity|Roman
 imperial]] order. The volume's expanded frame keeps Persia, India, and China in
 view throughout, refusing the older equation of "classical" with Greece and Rome
 alone.
+
+**Grounded claims from Hansen Silk Road range 282-2600** (Valerie Hansen, *The Silk Road: A New History*, Intro + Ch. 1–early 2):
+- "The first written description of the Silk Road trade concerns Zhang Qian (d. 113 BCE), a Chinese envoy from Chang’an to Central Asia in the second century BCE, during the reign of Emperor Wu of the Han Dynasty (reigned 140–87 BCE)." (ll. 380-381). taxonomy: produced: [[silk-roads]]. Updated [[silk-roads]], [[china]].
+- "After Zhang Qian’s return, the Han dynasty gradually extended its control into the northwest. By the end of the second century BCE it secured the Gansu corridor and Dunhuang." (ll. 384-385). taxonomy: enabled: [[silk-roads]]. Updated [[silk-roads]], [[central-asia]], [[classical-antiquity]].
+- "These oases resembled small city-states more than kingdoms." (ll. 396). taxonomy: part_of: [[central-asia]]. Updated [[central-asia]].
+All from this range only; verbatim + lines; established names only.
 
 ## Major Developments
 

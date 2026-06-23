@@ -93,7 +93,7 @@ Created: `actors/shuppiluliuma-i.md`, `actors/ashur-uballit-i.md`,
 Updated: `actors/mitanni.md` (its destruction by Šuppiluliuma I now narrated),
 `actors/kassites.md` (the Middle Kassite "great-power" age & Assyrian intervention),
 `actors/new-kingdom-egypt.md` (the Amarna revolution & end of the 18th Dynasty;
-resolved the `[[unknown|Amarna]]` forward-links), `actors/hittites.md` (wired the
+resolved the `Amarna` forward-links), `actors/hittites.md` (wired the
 Empire/Šuppiluliuma pointer, fixed a stale self-reference).
 
 ## 2026-06-11 section | CAH Vol. II.2 | Section 2: Hatti, Ugarit, Troy & the Aegean Zenith (Ch. XXI(a)–XXII(b)) | Pages created: 3 | Pages updated: 5
@@ -119,14 +119,14 @@ Created: `events/battle-of-qadesh-1274bce.md`, `events/egyptian-hittite-treaty-1
 `actors/tukulti-ninurta-i.md` (the sack of Babylon). Updated: `actors/kassites.md`
 (Tukulti-Ninurta's sack; fixed stale "unsourced II.2" note), `actors/assyria-middle.md`
 (Adad-nirari I → Tukulti-Ninurta I), `actors/mursili-ii.md`, `actors/shuppiluliuma-i.md`,
-`actors/hittites.md` (resolved the `[[unknown|Muwatalli II]]` and `[[unknown|battle of
-Qadesh]]` forward-links; fixed a stale self-reference).
+`actors/hittites.md` (resolved the `Muwatalli II` and `battle of
+Qadesh` forward-links; fixed a stale self-reference).
 
 ## 2026-06-11 section | CAH Vol. II.2 | Section 4: The Collapse — Sea Peoples, the Aegean recession, Exodus, Elam & Phrygia (Ch. XXVI–XXX) | Pages created: 6 | Pages updated: 4
 
 Created: `events/bronze-age-collapse-1200bce.md` (the standing transition page;
-resolves `[[unknown|Bronze Age Collapse]]`), `actors/sea-peoples.md` (resolves
-`[[unknown|Sea Peoples]]`; the constituent peoples and the Merneptah/Ramesses III
+resolves `Bronze Age Collapse`), `actors/sea-peoples.md` (resolves
+`Sea Peoples`; the constituent peoples and the Merneptah/Ramesses III
 assaults), `actors/philistines.md` (Peleset settlement and the pentapolis),
 `actors/phrygians.md` (post-Hittite Anatolia, the Mushki question, Neo-Hittite states
 and Urartu), `events/trojan-war-1250bce.md` (historicity via Troy VIIa, the Catalogue
@@ -137,8 +137,8 @@ depopulation, the Dorian/Ionian traditions), `actors/elam.md` (the Middle Elamit
 zenith — Untash-Napirisha and the Chogha Zanbil ziggurat, the Shutrukid sack of
 Babylon carrying the Hammurabi and Naram-Sin steles to Susa), `periods/late-bronze-age.md`
 (upgraded to `strong` coverage; wired the Amarna→Qadesh→collapse arc; resolved the
-collapse forward-link), and sed-resolved the `[[unknown|Sea Peoples]]` /
-`[[unknown|Bronze Age Collapse]]` forward-links across `ugarit`, `cyprus`, `troy`,
+collapse forward-link), and sed-resolved the `Sea Peoples` /
+`Bronze Age Collapse` forward-links across `ugarit`, `cyprus`, `troy`,
 `ramesses-iii`, `merneptah`, `assyria-middle`, `canaanite-civilization`, and
 `egyptian-hittite-treaty-1259bce`.
 
@@ -171,7 +171,7 @@ resolves the `[[greek-dark-age]]` forward-links from collapse/Mycenaean/Troy),
 West-Greek dialect), `events/dorian-invasion-1120bce.md` (the "Return of the
 Heracleidae" and the conquest of the Peloponnese), `events/ionian-migration-1050bce.md`
 (the Aeolic/Ionic/Dorian settlement of Asia Minor and the birth of the polis),
-`actors/homer.md` (the monumental composer; resolves the `[[unknown|Homer]]`
+`actors/homer.md` (the monumental composer; resolves the `Homer`
 forward-links), `controversies/homeric-poems-as-history.md` (the Homeric Question as a
 source-reliability dispute — the three layers, oral-formulaic theory, the Catalogue of
 Ships vs the chariot/palace-economy anachronisms), `concepts/coming-of-the-greeks-1900bce.md`
@@ -184,8 +184,8 @@ Mediterranean — Terramare/Apennine/Urnfield/Villanovan Italy, Sicily/Malta, Nu
 Sardinia and the Sherden, Iberia/Tartessus; resolves the western-Med gap). Updated:
 `actors/phrygians.md` (the European Briges = Phryges, the Lausitz intrusion, Troy VIIb
 Knobbed Ware, and the Brigian pressure that helped drive the Dorian migrations),
-`events/trojan-war-1250bce.md` (resolved `[[unknown|Homer]]`/`[[unknown|Greek epic
-tradition]]`; added Hammond's literary chronology and the Mopsus/Karatepe
+`events/trojan-war-1250bce.md` (resolved `Homer`/`Greek epic
+tradition`; added Hammond's literary chronology and the Mopsus/Karatepe
 confirmation), `actors/sea-peoples.md` (Daniel's Sherden = Sardis-vs-Sardinia debate,
 cross-linked to the Nuraghic civilization), `periods/early-iron-age.md` (wired the
 Aegean Dark Age / migrations / Homer developments and a Greek Key-Actors bullet),

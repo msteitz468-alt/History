@@ -6,7 +6,7 @@ date_end: ~3100 BCE
 period: [Early Bronze Age]
 region: [north-africa]
 affiliated_with: [[[early-dynastic-egypt]]]
-opposed_by: [[[unknown|Lower Egyptian kingdom]]]
+opposed_by: [Lower Egyptian kingdom]
 key_events: [[[unification-of-egypt-3100bce]]]
 key_processes: [[[state-formation]]]
 sources_ingested: 1

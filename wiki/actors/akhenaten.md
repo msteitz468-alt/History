@@ -66,7 +66,7 @@ king and his god," while building a whole new capital, "must have... overturned"
 Over-centralized, neglectful government bred the corruption and "arbitrary
 exactions" that [[horemheb|Horemheb]] later had to crush. Abroad, Egypt became "a
 broken reed": as the [[amarna-letters|Amarna letters]] record, Qatna, Nukhašše,
-Qadeš and above all [[unknown|Amurru]] (under Aziru) passed into
+Qadeš and above all Amurru (under Aziru) passed into
 [[shuppiluliuma-i|Hittite]] vassalage while the pharaoh did nothing. "It was
 doubtless the chaos caused by the economic consequences of Akhenaten's religious
 reforms that brought about a complete reversal to the old order as soon as he was
@@ -85,7 +85,7 @@ survives largely through what he built and what his enemies left intact.
 ## Historiography
 
 Reconstructed from the reliefs and **boundary stelae** of his ruined capital, the
-**Great Hymn to the Aten** (preserved in the tomb of [[unknown|Ay]]), the Amarna
+**Great Hymn to the Aten** (preserved in the tomb of Ay), the Amarna
 sculptors' studio models (including the **Nefertiti bust**), the Amarna letters, and
 the forensic re-examination of the royal mummies. Almost every biographical
 question — the co-regency, the identity of Smenkhkare, Nefertiti's fate, the date of

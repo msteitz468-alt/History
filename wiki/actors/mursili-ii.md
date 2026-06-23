@@ -6,7 +6,7 @@ date_end: ~1320 BCE (death after a ~25-year reign)
 period: [Late Bronze Age]
 region: [anatolia, near-east, levant]
 affiliated_with: [the [[hittites|Hittite kingdom]], the Syrian viceroyalty of Carchemish]
-opposed_by: [Arzawa and the Arzawa lands, the Kaska people, [[unknown|Aḫḫiyawa]], rebel Syrian vassals]
+opposed_by: [Arzawa and the Arzawa lands, the Kaska people, Aḫḫiyawa, rebel Syrian vassals]
 key_events: [the conquest of Arzawa (the "Ten-Year Annals"), the Kaska wars, the suppression of the Syrian revolts, the plague-prayers]
 key_processes: [[[imperialism]], [[interpolity-law]]]
 sources_ingested: 1
@@ -38,13 +38,13 @@ Annals"** narrate the reconquest:
   a fortified frontier *limes*;
 - **Azzi-Ḫayaša** in the east;
 - repeated **Syrian revolts** (Nukhašše, Qadeš), held by his brother
-  **Šarri-Kušuḫ**, viceroy of [[unknown|Carchemish]], until the latter's sudden
+  **Šarri-Kušuḫ**, viceroy of Carchemish, until the latter's sudden
   death; he confirmed the loyal **Niqmepa of [[ugarit|Ugarit]]** and the vassal kings
   of Aleppo and Carchemish.
 
 ## Aḫḫiyawa and the west
 
-Muršili's reign is the context for the rise of **[[unknown|Aḫḫiyawa]]** — a western
+Muršili's reign is the context for the rise of **Aḫḫiyawa** — a western
 power, "on the upswing," whose king "pretended to be an equal of the Great King" and
 backed the rebel coastal city **Millawanda** (Miletus). Whether Aḫḫiyawa is the
 **Mycenaean Greeks** is the volume's own unresolved dispute (see
@@ -75,12 +75,12 @@ history of religion — a king reasoning morally with his gods.
 
 Exceptionally well documented from his own **Annals** (the "Ten-Year" and
 "Comprehensive" annals), the **plague-prayers**, the Tawannanna texts, and the
-[[ugarit|Ugarit]] and [[unknown|Aḫḫiyawa]] treaty material — a rare case where a
+[[ugarit|Ugarit]] and Aḫḫiyawa treaty material — a rare case where a
 Bronze Age reign can be followed year by year, though almost entirely from the
 Hittite side. See [[cambridge-ancient-history-methodology]].
 
 ## Related
 
 - Father: [[shuppiluliuma-i]] · State: [[hittites]] · Capital: [[hattusha]] · Successor: [[muwatalli-ii|Muwatalli II]]
-- West: [[ahhiyawa-question]] · [[unknown|Aḫḫiyawa]] · [[mycenaean-civilization]] · Vassal: [[ugarit]]
+- West: [[ahhiyawa-question]] · Aḫḫiyawa · [[mycenaean-civilization]] · Vassal: [[ugarit]]
 - Concept: [[interpolity-law]] · Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

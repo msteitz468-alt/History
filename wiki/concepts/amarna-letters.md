@@ -33,7 +33,7 @@ across [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2]] (Chs. XVII–XX) — Ch. XX
    like merchants — a form of "**state trading**" that documents the diplomacy,
    gift-economy and marriage-alliance machinery of the period.
 2. **The vassals.** Letters from the petty princes of Syria-Palestine — Rib-Adda of
-   [[byblos|Byblos]], Aziru of [[unknown|Amurru]], Labaya of Shechem,
+   [[byblos|Byblos]], Aziru of Amurru, Labaya of Shechem,
    ʿAbdi-Heba of Jerusalem, Biridiya of Megiddo and dozens more — grovelling before
    "my Sun, my god," denouncing one another as traitors, and begging endlessly for
    troops that rarely came. They expose the **slow collapse of Egyptian control** in
@@ -45,7 +45,7 @@ The Palestinian letters are written in a **scholastic, hybrid jargon** — Akkad
 learned and mis-learned by Canaanite scribes in local schools, "abounding with
 Canaanitisms in vocabulary, syntax... and a formalizing of mistakes." To read them
 one must know not only Akkadian but Hebrew and Ugaritic. They thus also document the
-**[[unknown|Canaanite]] language substratum** two centuries before the Hebrew Bible,
+**Canaanite language substratum** two centuries before the Hebrew Bible,
 and the spread of cuneiform literacy (a fragment of the **Gilgamesh epic** turned up
 at Megiddo).
 

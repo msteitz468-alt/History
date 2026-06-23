@@ -20,7 +20,7 @@ The chief queen of [[akhenaten|Akhenaten]], "Neferneferuaten Nefertiti" — give
 **unprecedented public prominence** in the art and ritual of the
 [[atenism|Aten cult]], and one of the most recognizable faces of antiquity through
 the painted **Amarna bust**. Treated in [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2]]
-(Ch. XIX, Aldred), probably a daughter of the courtier (later king) **[[unknown|Ay]]**
+(Ch. XIX, Aldred), probably a daughter of the courtier (later king) **Ay**
 and so Akhenaten's cousin.
 
 ## Prominence
@@ -54,5 +54,5 @@ departed from Egyptian norms.
 ## Related
 
 - Husband: [[akhenaten]] · Religion: [[atenism]] · Capital: [[amarna]]
-- Father (probable): [[unknown|Ay]] · Daughters' marriages: [[tutankhamun]]
+- Father (probable): Ay · Daughters' marriages: [[tutankhamun]]
 - State: [[new-kingdom-egypt]] · Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

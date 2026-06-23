@@ -41,7 +41,7 @@ In the [[amarna-letters|Amarna letters]] the ʿApiru are the foes of princes and
 Egyptian officials alike — "each prince accuses his enemies of being in league with
 the ʿApiru." They are carefully distinguished from the **Sutu/Shasu** (true
 bedawin): both are donkey-nomads, but the ʿApiru are "less nomadic." A triumphal
-list of [[unknown|Amenophis II]] counts 3,600 ʿApiru among captives alongside Shasu,
+list of Amenophis II counts 3,600 ʿApiru among captives alongside Shasu,
 Hurrians and Canaanite merchants. The career of **Labaya of Shechem**, the
 ʿApiru-allied dynast who "gave the land of Shechem to the ʿApiru," is the one such
 life the letters let us follow.
@@ -66,7 +66,7 @@ prehistory of Israel.
   simple identification "ʿApiru = Israelites" is rejected by later scholarship: most
   ʿApiru were not Israelite and Israel was not simply ʿApiru. The volume's confident
   linkage reflects 1960s scholarship and should be read as **historiographically
-  dated** (compare the cautious treatment of the [[unknown|Exodus]] in Section 4).
+  dated** (compare the cautious treatment of the Exodus in Section 4).
 
 ## Significance
 
@@ -77,6 +77,6 @@ biblical Patriarchal and Conquest traditions.
 
 ## Related
 
-- Source-archive: [[amarna-letters]] · Society: [[canaanite-civilization]] · Distinguish from: [[unknown|Sutu/Shasu bedawin]]
-- Israel debate: [[unknown|the Exodus]] · [[unknown|Israel/Hebrew kingdom]] · cf. [[migration-in-human-history]]
+- Source-archive: [[amarna-letters]] · Society: [[canaanite-civilization]] · Distinguish from: Sutu/Shasu bedawin
+- Israel debate: the Exodus · Israel/Hebrew kingdom · cf. [[migration-in-human-history]]
 - Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

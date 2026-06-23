@@ -54,7 +54,7 @@ repertoire; from the coast the culture spread inland and south.
   el-'Ajjul). The Syrian cities ([[ugarit|Ugarit]], [[alalakh|Alalakh]], Qatna,
   Qadesh, Tunip, Amurru) are caught between [[new-kingdom-egypt|Egypt]],
   [[mitanni|Mitanni]], and the [[hittites|Hittites]], their feuds and pleas preserved
-  in the [[unknown|Amarna letters]].
+  in the Amarna letters.
 
 ## Geographic Spread and Interaction
 
@@ -66,8 +66,8 @@ maritime routes that carried tin, copper, timber, and Aegean goods.
 
 ## End Conditions
 
-The Bronze Age Canaanite world was shattered in the **~1200 BCE [[unknown|Sea
-Peoples]] disruption** that destroyed [[ugarit|Ugarit]] and many inland towns (the
+The Bronze Age Canaanite world was shattered in the **~1200 BCE Sea
+Peoples disruption** that destroyed [[ugarit|Ugarit]] and many inland towns (the
 [[bronze-age-collapse-1200bce|Bronze Age Collapse]]). But the culture did not vanish: it continued into
 the **Phoenician** city-states of the coast and the emergent **Israelite** highlands
 of the Iron Age.

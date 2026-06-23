@@ -57,7 +57,7 @@ Urḫi-Teshub, which a great-power peace helped secure.
   **Queen Puduḫepa** prominent), a contemplated state visit, and (Year 34 /
   ~1246 BCE) a **dynastic marriage**, Ḫattušili's daughter wedding Ramesses;
 - enabled: the resumption of trade and the prosperity of vassals like
-  [[ugarit|Ugarit]] and [[unknown|Amurru]] in the peaceful decades;
+  [[ugarit|Ugarit]] and Amurru in the peaceful decades;
 - the peace **held for the rest of the Bronze Age** — "Khatti is at peace,"
   [[merneptah|Merneptah's]] Israel Stela could still say, and Egypt even shipped
   grain to relieve a Hittite famine. It lapsed only when Hatti itself fell in the

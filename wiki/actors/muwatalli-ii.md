@@ -55,6 +55,6 @@ his removal of the capital and elevation of Ḫattušili sowed the **dynastic co
 
 ## Related
 
-- Father: [[mursili-ii]] · Brother/successor-rival: [[hattusili-iii]] · Son: [[unknown|Urḫi-Teshub (Muršili III)]]
+- Father: [[mursili-ii]] · Brother/successor-rival: [[hattusili-iii]] · Son: Urḫi-Teshub (Muršili III)
 - War: [[battle-of-qadesh-1274bce]] · [[ramesses-ii]] · State: [[hittites]] · Capital: [[hattusha]] · Vassal: [[ugarit]]
 - Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

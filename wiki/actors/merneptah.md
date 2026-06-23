@@ -60,5 +60,5 @@ Queen Tewosret, and the powerful chancellor **Bay**).
 ## Related
 
 - Father: [[ramesses-ii]] · Dynasty: [[new-kingdom-egypt]] · Successor (eventually): [[ramesses-iii]]
-- Threat: [[sea-peoples|Sea Peoples]] · Israel: [[habiru]] / [[unknown|the Exodus]] · Peace: [[egyptian-hittite-treaty-1259bce]]
+- Threat: [[sea-peoples|Sea Peoples]] · Israel: [[habiru]] / the Exodus · Peace: [[egyptian-hittite-treaty-1259bce]]
 - Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

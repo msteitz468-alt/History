@@ -50,7 +50,7 @@ destruction is part of the same horizon as the abandonment of the
 [[early-bronze-age-levant|Early Bronze Levantine cities]] ('Ai, Megiddo, Khirbet
 Karak, Jericho) and the [[fall-of-old-kingdom-2160bce|collapse of the Egyptian Old
 Kingdom]] — the synchronized ~2200 BCE crisis associated with the
-[[unknown|Amorite]] "thrust from the desert."
+Amorite "thrust from the desert."
 
 ## Revival under the Middle Kingdom
 

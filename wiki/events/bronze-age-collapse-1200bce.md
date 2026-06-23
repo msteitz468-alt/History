@@ -12,7 +12,7 @@ actors_secondary: [[[ugarit|Ugarit]], [[philistines|Philistines]], [[assyria-mid
 event_type: [collapse, transition]
 scale_immediate: civilizational
 scale_consequential: hemispheric
-causes: [[[sea-peoples|Sea Peoples]], [[unknown|systems collapse]], drought and famine, internal social breakdown, [[mycenaean-civilization|palace-economy fragility]], earthquake destructions]
+causes: [[[sea-peoples|Sea Peoples]], systems collapse, drought and famine, internal social breakdown, [[mycenaean-civilization|palace-economy fragility]], earthquake destructions]
 consequences: [[[early-iron-age|Early Iron Age]], [[philistines|Philistine settlement]], [[greek-dark-age|Greek Dark Age]], collapse of palatial literacy, [[phrygians|Anatolian reconfiguration]], rise of small territorial kingdoms]
 sources_ingested: 2
 last_updated: 2026-06-11
@@ -46,7 +46,7 @@ In the space of about forty years the following centres were destroyed,
 abandoned, or radically contracted:
 
 - **Anatolia**: [[hittites|Ḫattuša]], the Hittite capital, was burned and
-  abandoned; the empire fragmented into the [[unknown|Neo-Hittite]] successor
+  abandoned; the empire fragmented into the Neo-Hittite successor
   states of northern Syria and the southeast Anatolian plateau. The royal line
   vanishes from the record after Šuppiluliuma II.
 - **Syria–Levant**: [[ugarit|Ugarit]] was sacked and permanently abandoned, its

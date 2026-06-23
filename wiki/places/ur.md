@@ -63,7 +63,7 @@ Akkadian house by installing his daughter **[[enkheduanna|Enkheduanna]]** as
 *entu* (high-priestess) of the Moon-god **Nanna** — the first holder of an office
 that royal women would fill for nearly two thousand years, and the earliest author
 known by name. The **Second Dynasty of Ur** (its last king, **Kaku**) led the
-Sumerian revolt against Sargon's son [[unknown|Rimush]], who took the city and
+Sumerian revolt against Sargon's son Rimush, who took the city and
 dismantled its wall; Enkheduanna's lament records the disaster. Ur's greatest age
 still lay ahead, as capital of the [[mesopotamian-chronology|Third Dynasty of Ur]]
 after the [[gutian-invasion|fall of Akkad]].

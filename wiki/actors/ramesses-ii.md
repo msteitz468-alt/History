@@ -80,5 +80,5 @@ the standard exhibit for source-critical caution. See
 
 - War: [[battle-of-qadesh-1274bce]] · [[muwatalli-ii]] · Peace: [[egyptian-hittite-treaty-1259bce]] · [[hattusili-iii]]
 - Predecessor: [[sethos-i]] (father) · Successor: [[merneptah]] · State: [[new-kingdom-egypt]] · Institution: [[amun-priesthood]]
-- Place: [[unknown|Pi-Ramesse]] · [[thebes]] · Concept: [[interpolity-law]]
+- Place: Pi-Ramesse · [[thebes]] · Concept: [[interpolity-law]]
 - Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

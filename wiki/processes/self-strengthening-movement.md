@@ -58,7 +58,7 @@ Self-strengthening sits between the [[opium-wars|Opium Wars]]/[[taiping-rebellio
 that prompted it and the radical responses its failure provoked — the **Hundred Days' Reform**
 (1898), the [[boxer-rebellion|Boxer]] catastrophe (1900), and finally revolution
 ([[fall-of-the-qing-1911|1911]]). Its limits are the standard contrast with Japan's
-[[meiji-restoration|Meiji Restoration]]: partial, technology-only borrowing within a defended
+[[meiji-restoration-1868|Meiji Restoration]]: partial, technology-only borrowing within a defended
 Confucian order proved unable to match wholesale institutional transformation.
 
 ## Historiography
@@ -73,7 +73,7 @@ lagged Japan's**.
 `caused_by: [[opium-wars]]`
 `caused_by: [[taiping-rebellion]]`
 `followed_by: [[boxer-rebellion]]`
-`contrasts_with: [[meiji-restoration]]`
+`contrasts_with: [[meiji-restoration-1868]]`
 `part_of: [[qing-dynasty]]`
 
 *From the [[cambridge-history-of-china|Cambridge History of China]], Late Qing volume (Chinese

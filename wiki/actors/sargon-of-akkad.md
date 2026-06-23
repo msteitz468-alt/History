@@ -7,7 +7,7 @@ period: [Early Bronze Age]
 region: [mesopotamia, near-east]
 affiliated_with: [[[akkadian-empire]]]
 opposed_by: [[[early-dynastic-sumer|Lugalzaggisi and the Sumerian cities]], Elam, Subartu]
-key_events: [[[unknown|defeat of Lugalzaggisi]]]
+key_events: [defeat of Lugalzaggisi]
 key_processes: [[[state-formation]], [[imperialism]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11

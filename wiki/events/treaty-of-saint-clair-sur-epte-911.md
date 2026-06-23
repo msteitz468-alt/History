@@ -12,7 +12,7 @@ event_type: treaty
 scale_immediate: regional
 scale_consequential: civilizational
 causes: [decades of Viking raiding and overwintering on the Seine and Loire, the rout of the Vikings near Chartres (911), the west Frankish kings' inability to expel the settlers militarily]
-consequences: [the creation of the duchy of [[unknown|Normandy]], the Christianisation and assimilation of the Seine Vikings, the recognition of royal peace-making authority, the long-term emergence of the Norman power that would conquer England (1066) and southern Italy]
+consequences: [the creation of the duchy of Normandy, the Christianisation and assimilation of the Seine Vikings, the recognition of royal peace-making authority, the long-term emergence of the Norman power that would conquer England (1066) and southern Italy]
 sources_ingested: 1
 last_updated: 2026-06-12
 tags: [event, early-middle-ages, western-europe]

@@ -61,7 +61,7 @@ tributary to the Hyksos.
 The period runs parallel to — and is bound up with — the wider
 [[middle-bronze-age|Middle Bronze Age]] Near East: the Hyksos were part of the same
 [[amorites|West-Semitic]] world as [[hammurabi|Hammurabi's]] Babylon, and the
-[[unknown|Pan-Grave/Medjay]] Nubian warriors who fought for Thebes belong to the
+Pan-Grave/Medjay Nubian warriors who fought for Thebes belong to the
 same age. CAH (1973) firmly **rejects** the idea that the Hyksos came as a single
 organized invasion or that they were linked to the [[hurrians|Hurrian]] or
 Indo-Aryan movements; theirs was a **gradual infiltration**.

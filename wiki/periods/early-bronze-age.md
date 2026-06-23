@@ -59,7 +59,7 @@ and [[chalcolithic|Chalcolithic]].
   territorial empire]], ruled from the new capital of Agade; under
   [[naram-sin|Naram-Sin]] the king is **deified** ("god of Agade," "king of the
   four regions") and the empire reaches from the Gulf to the Mediterranean, with
-  maritime trade to the [[unknown|Harappan]] Indus (Meluhha). Cuneiform first
+  maritime trade to the Harappan Indus (Meluhha). Cuneiform first
   writes a Semitic language (Old Akkadian); [[enkheduanna|Enkheduanna]], Sargon's
   daughter and *entu* of Ur, is the earliest author known by name.
 - **The fall of Akkad (~2154 BCE)** — the empire disintegrates under Amorite and
@@ -87,7 +87,7 @@ and [[chalcolithic|Chalcolithic]].
 - **The ~2200 BCE crisis** — a synchronized collapse across the Fertile Crescent:
   the [[fall-of-old-kingdom-2160bce|fall of the Egyptian Old Kingdom]], the
   abandonment of the [[early-bronze-age-levant|Levantine cities]], and the
-  [[unknown|Amorite]] pressure that would soon end the Akkadian and Ur III states —
+  Amorite pressure that would soon end the Akkadian and Ur III states —
   associated by some with the **4.2-kiloyear** climatic event.
 
 ## Key Actors

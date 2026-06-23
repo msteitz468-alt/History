@@ -54,12 +54,12 @@ correspondence with Egypt.
 Ḫattušili III stabilized Hatti after a succession crisis and presided over the
 **diplomatic high-water mark of the Late Bronze great-powers system** — the
 Egyptian peace and the Babylonian alliance. But the **rise of Assyria** he so feared
-would, under his son [[unknown|Tudhaliya IV]] and grandsons, press Hatti toward the
+would, under his son Tudhaliya IV and grandsons, press Hatti toward the
 collapse of ~1200. His career is a prime exhibit of **dynastic instability and
 legitimacy-by-diplomacy**.
 
 ## Related
 
-- Brother: [[muwatalli-ii]] · Deposed: [[unknown|Urḫi-Teshub (Muršili III)]] · Queen: [[unknown|Puduḫepa]] · Son: [[unknown|Tudhaliya IV]]
+- Brother: [[muwatalli-ii]] · Deposed: Urḫi-Teshub (Muršili III) · Queen: Puduḫepa · Son: Tudhaliya IV
 - Peace: [[egyptian-hittite-treaty-1259bce]] · [[ramesses-ii]] · Rival: [[tukulti-ninurta-i|Assyria]] · Ally: [[kassites|Babylonia]]
 - State: [[hittites]] · Concept: [[interpolity-law]] · Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

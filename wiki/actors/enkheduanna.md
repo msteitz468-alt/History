@@ -7,7 +7,7 @@ period: [Early Bronze Age]
 region: [mesopotamia]
 affiliated_with: [[[akkadian-empire]], [[ur|Ur (cult of Nanna)]]]
 opposed_by: []
-key_events: [[[unknown|the revolt against Rimush and her exile from Ur]]]
+key_events: [the revolt against Rimush and her exile from Ur]
 key_processes: [[[writing-and-record-keeping]], [[temple-economy]]]
 sources_ingested: 1
 last_updated: 2026-06-11
@@ -37,7 +37,7 @@ Akkadian house. Enkheduanna left a **monument of her own** (the alabaster
 ## The lament and the revolt
 
 CAH connects her to the **Sumerian revolt that met the accession of Sargon's son
-[[unknown|Rimush]]**: when Ur rose and was crushed, a **lamentation ascribed to
+Rimush**: when Ur rose and was crushed, a **lamentation ascribed to
 Enkheduanna** depicts her as the victim of the disaster — driven into exile,
 powerless to appease the Moon-god's anger or her own brother's wrath against the
 rebel city. This poem (the **Exaltation of Inanna**, in the fuller modern reading)

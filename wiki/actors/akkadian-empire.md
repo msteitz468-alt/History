@@ -6,7 +6,7 @@ date_end: ~2154 BCE (Gutian overthrow)
 period: [Early Bronze Age]
 region: [mesopotamia, near-east]
 affiliated_with: []
-opposed_by: [[[early-dynastic-sumer|the Sumerian cities]], Elam, Lullubi, [[gutian-invasion|Gutians]], [[unknown|Amorites]]]
+opposed_by: [[[early-dynastic-sumer|the Sumerian cities]], Elam, Lullubi, [[gutian-invasion|Gutians]], Amorites]
 key_events: [[[gutian-invasion|fall of Akkad]]]
 key_processes: [[[state-formation]], [[imperialism]], [[trade-network-formation]], [[writing-and-record-keeping]]]
 sources_ingested: 1
@@ -84,7 +84,7 @@ because conquest disrupted the very trade it sought to control.)
 ## Collapse
 
 The dynasty unravelled under [[naram-sin|Naram-Sin's]] son **Shar-kali-sharri**,
-caught between the **[[unknown|Amorites]]** pressing from the northwest (he "overcame
+caught between the **Amorites** pressing from the northwest (he "overcame
 the Amorite in Basar," the Jebel Bishri) and the **Gutians** descending from the
 Zagros, with **Elam** breaking away under Kutik-In-Shushinak. The king-list marks
 the chaos with its one rhetorical cry — *"Who was king? Who was not king?"* — as
@@ -110,4 +110,4 @@ contemporary inscriptional core from this tradition. Dates follow the
 - Preceded by: [[early-dynastic-sumer]] (esp. Lugalzaggisi) · Followed by: [[gutian-invasion]] → [[mesopotamian-chronology|Third Dynasty of Ur]]
 - Event: [[gutian-invasion]] · Process: [[imperialism]] · [[trade-network-formation]] · [[writing-and-record-keeping]]
 - Place: [[ur]] · [[lagash]] · [[mari]] · [[uruk]] · Period: [[early-bronze-age]]
-- Analogous to: [[old-kingdom-egypt]] (contemporary "golden age") · the [[unknown|Harappan]] Indus (Meluhha)
+- Analogous to: [[old-kingdom-egypt]] (contemporary "golden age") · the Harappan Indus (Meluhha)

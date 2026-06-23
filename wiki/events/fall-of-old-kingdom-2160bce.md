@@ -8,11 +8,11 @@ period: [Early Bronze Age]
 region: [north-africa]
 location: [Memphis, Heracleopolis, Upper Egyptian nomes]
 actors_primary: [[[old-kingdom-egypt]]]
-actors_secondary: [[[unknown|the nomarchs]], [[unknown|Heracleopolis]]]
+actors_secondary: [the nomarchs, Heracleopolis]
 event_type: collapse
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: [[[unknown|fiscal exhaustion of the crown]], decentralization to hereditary nomarchs, fragmentation of crown lands, [[societal-collapse-and-environmental-determinism|possible low-Nile drought]], the over-long reign of Pepi II]
+causes: [fiscal exhaustion of the crown, decentralization to hereditary nomarchs, fragmentation of crown lands, [[societal-collapse-and-environmental-determinism|possible low-Nile drought]], the over-long reign of Pepi II]
 consequences: [[[first-intermediate-period|First Intermediate Period]], collapse of central authority, rise of regional powers (Heracleopolis, Thebes)]
 sources_ingested: 1
 last_updated: 2026-06-11
@@ -47,12 +47,12 @@ competing regional powers that would eventually pit Heracleopolis against a risi
 ## Causal Analysis
 
 Smith's account is firmly **structural**:
-- `caused_by: [[unknown|decentralization]]` — the **nomarchs** (provincial
+- `caused_by: decentralization` — the **nomarchs** (provincial
   governors) had turned their offices into **hereditary** local dynasties,
   building power bases at Elephantine, Coptos, Cusae, and elsewhere; the
   Fifth-Sixth Dynasty creation of "Governor of Upper Egypt" already signalled the
   crown's struggle to hold the south.
-- `caused_by: [[unknown|fiscal exhaustion]]` — "immense constructions undertaken
+- `caused_by: fiscal exhaustion` — "immense constructions undertaken
   at royal expense and innumerable funerary endowments **exempt from taxation**
   had exhausted the king's resources"; crown lands fragmented through inheritance
   into ever-smaller units, a "gradual equalization of wealth" draining the centre.
@@ -64,7 +64,7 @@ Smith's account is firmly **structural**:
 - `produced:` the **First Intermediate Period** — collapse of central authority,
   the rise of autonomous nomarchs (Ankhtify at Mo'alla, the Inyotefs at Thebes),
   and eventually the Heracleopolitan vs. Theban struggle resolved by
-  [[unknown|Mentuhotpe II's reunification]] (Middle Kingdom, Section 7).
+  Mentuhotpe II's reunification (Middle Kingdom, Section 7).
 - `produced:` a **pessimistic literature** of lament and social inversion (the
   Admonitions tradition) — the cultural mirror of the breakdown, "foreign to the
   spirit of the times that had gone before."
@@ -83,6 +83,6 @@ from the Abydos king-list, decrees, and provincial tomb biographies.
 
 ## Related
 
-- State: [[old-kingdom-egypt]] · Followed by: [[unknown|Middle Kingdom (reunification)]]
+- State: [[old-kingdom-egypt]] · Followed by: Middle Kingdom (reunification)
 - Controversy: [[societal-collapse-and-environmental-determinism]]
-- Period: [[early-bronze-age]] · Compare: [[unknown|Akkadian collapse]] (Section 6)
+- Period: [[early-bronze-age]] · Compare: Akkadian collapse (Section 6)

@@ -26,7 +26,7 @@ the volume's high chronology; modern dating ~1332–1323 BCE.
 
 He came to the throne **little more than nine years old**, married to
 Akhenaten's third daughter **Ankhesenpaaten**, after the brief shadowy reign of
-**Smenkhkare**. Under his advisers — chiefly the vizier **[[unknown|Ay]]** (a former
+**Smenkhkare**. Under his advisers — chiefly the vizier **Ay** (a former
 Master of the Horse to Akhenaten) and the general [[horemheb|Horemheb]] — the court
 **abandoned [[amarna|Akhetaten]]** for Memphis, restored the worship of
 [[amun-priesthood|Amun]], and changed the royal pair's names from *-aten* to
@@ -43,7 +43,7 @@ foetuses, presumed his stillborn children, lay in his tomb). With him "the famil
 Amosis... came to an end." His widow's extraordinary appeal to
 [[shuppiluliuma-i|Šuppiluliuma]] for a Hittite prince to marry — the
 [[zannanza-affair-1322bce|Zannanza affair]] — was the result; its failure left the
-throne to the commoner-vizier **[[unknown|Ay]]**, then to [[horemheb|Horemheb]].
+throne to the commoner-vizier **Ay**, then to [[horemheb|Horemheb]].
 
 ## Significance
 

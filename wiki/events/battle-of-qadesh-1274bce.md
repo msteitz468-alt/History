@@ -31,7 +31,7 @@ reckoning (the volume's high chronology dates it 1300).
 
 ## Narrative
 
-The issue was control of **Qadesh (Kinza) and [[unknown|Amurru]]**, the Hittites'
+The issue was control of **Qadesh (Kinza) and Amurru**, the Hittites'
 southernmost holdings, which the Nineteenth Dynasty was determined to recover (see
 [[sethos-i|Sethos I]] and [[ramesses-ii|Ramesses II]]). [[muwatalli-ii|Muwatalli
 II]] assembled "all countries from the ends of the sea to the land of Khatti" —
@@ -81,5 +81,5 @@ in reading ancient royal sources. Absolute dates depend on the
 ## Related
 
 - Combatants: [[ramesses-ii]] · [[muwatalli-ii]] · States: [[new-kingdom-egypt]] · [[hittites]]
-- Outcome: [[egyptian-hittite-treaty-1259bce]] · Place: [[ugarit]] (sent a contingent) · [[unknown|Amurru]]
+- Outcome: [[egyptian-hittite-treaty-1259bce]] · Place: [[ugarit]] (sent a contingent) · Amurru
 - Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]

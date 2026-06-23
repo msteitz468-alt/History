@@ -12,7 +12,7 @@ event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
 causes: [Claudius' need for military prestige and legitimacy, the symbolic value of conquering "beyond the Ocean", the wish to remove surplus legions from the Rhine, a British dynastic appeal]
-consequences: [the creation of the province of Britannia, Claudius' triumph, the integration of Britain into the empire for nearly four centuries, [[unknown|the later revolt of Boudica (60)]]]
+consequences: [the creation of the province of Britannia, Claudius' triumph, the integration of Britain into the empire for nearly four centuries, the later revolt of Boudica (60)]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [event, late-antiquity, britain]

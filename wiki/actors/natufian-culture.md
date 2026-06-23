@@ -7,7 +7,7 @@ period: [Mesolithic, Neolithic]
 region: [levant, near-east]
 affiliated_with: [[[early-agriculture-southwest-asia]], [[sedentism]]]
 opposed_by: []
-key_events: [[[unknown]]]
+key_events: [unknown]
 key_processes: [[[early-agriculture-southwest-asia]], [[sedentism]], [[domestication]]]
 sources_ingested: 1
 last_updated: 2026-06-11
@@ -48,7 +48,7 @@ historiography note on [[mesolithic]].
 CAH places the Natufian within a wider Epipalaeolithic Near Eastern mosaic: the
 **Zarzian** of the Zagros (radiocarbon ~12,000 BP), which the volume judges older
 than the Natufian, and the earlier **Baradostian** Upper Palaeolithic at
-[[unknown|Shanidar]] and Zarzi. The onset of **Neothermal** (early Holocene)
+Shanidar and Zarzi. The onset of **Neothermal** (early Holocene)
 conditions is the environmental backdrop — see
 [[postglacial-environment-near-east]].
 

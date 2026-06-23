@@ -7,7 +7,7 @@ period: [Early Bronze Age]
 region: [mesopotamia]
 affiliated_with: []
 opposed_by: [Elam, [[akkadian-empire|Akkad (later conqueror)]]]
-key_events: [[[lagash-umma-border-war]], [[unknown|Lugalzaggisi's conquest]]]
+key_events: [[[lagash-umma-border-war]], Lugalzaggisi's conquest]
 key_processes: [[[urbanization]], [[state-formation]], [[writing-and-record-keeping]], [[temple-economy]]]
 sources_ingested: 5
 last_updated: 2026-06-23

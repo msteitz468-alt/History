@@ -7,7 +7,7 @@ period: [Early Bronze Age]
 region: [mesopotamia, near-east]
 affiliated_with: [[[akkadian-empire]]]
 opposed_by: [[[early-dynastic-sumer|the rebel cities (Kish)]], Lullubi, Magan, [[gutian-invasion|Gutians]]]
-key_events: [[[unknown|the "Great Revolt"]], [[unknown|defeat of Lullubi (Victory Stele)]]]
+key_events: [the "Great Revolt", defeat of Lullubi (Victory Stele)]
 key_processes: [[[imperialism]], [[divine-kingship]], [[trade-network-formation]]]
 sources_ingested: 1
 last_updated: 2026-06-11

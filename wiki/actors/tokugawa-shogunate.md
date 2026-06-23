@@ -19,7 +19,7 @@ tags: [actor, state, early-modern, japan, east-asia]
 The Tokugawa shogunate (*Tokugawa bakufu*, or Edo bakufu) was the last of Japan's three warrior
 governments — the feudal military regime founded by [[tokugawa-ieyasu|Tokugawa Ieyasu]] after his victory
 at [[battle-of-sekigahara-1600|Sekigahara]] (1600) and his appointment as shōgun in **1603**. It ruled
-Japan from Edo (modern Tokyo) for over 250 years, until the [[meiji-restoration|Meiji Restoration]] of 1868.
+Japan from Edo (modern Tokyo) for over 250 years, until the [[meiji-restoration-1868|Meiji Restoration]] of 1868.
 
 Its power rested on the [[bakuhan-system|bakuhan system]] — direct rule of the shogunal domain plus
 oversight of some 250 semi-autonomous *daimyō* domains (*han*) — disciplined by institutions such as

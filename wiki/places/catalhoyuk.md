@@ -5,7 +5,7 @@ modern_equivalent: [Çatalhöyük, Konya Province, Turkey]
 coordinates: [37.67 N, 32.83 E]
 period_active: [Neolithic, Chalcolithic]
 controlled_by: [Neolithic Anatolian farming community]
-events_here: [[[unknown]]]
+events_here: [unknown]
 processes_here: [[[early-agriculture-southwest-asia]], [[sedentism]], [[urbanization]]]
 sources_ingested: 1
 last_updated: 2026-06-11

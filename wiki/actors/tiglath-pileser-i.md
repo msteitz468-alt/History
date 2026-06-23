@@ -8,7 +8,7 @@ region: [mesopotamia, near-east, anatolia]
 affiliated_with: [[[assyria-middle|Middle Assyria]]]
 opposed_by: [[[phrygians|Mushki]], the Nairi, the [[arameans|Aramaeans]], [[second-isin-dynasty|Babylon]] (Marduk-nadin-ahhe)]
 key_events: [the defeat of the Mushki, the march to the Mediterranean]
-key_processes: [[[bronze-age-collapse-1200bce|post-collapse reconfiguration]], [[unknown|Aramaean migrations]]]
+key_processes: [[[bronze-age-collapse-1200bce|post-collapse reconfiguration]], Aramaean migrations]
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [actor, person, early-iron-age, mesopotamia, anatolia, near-east]

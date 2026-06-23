@@ -7,12 +7,12 @@ dating_method: ~
 period: [Early Bronze Age]
 region: [mesopotamia, near-east]
 location: [Akkad/Sumer; the Zagros piedmont]
-actors_primary: [[[akkadian-empire]], [[gutian-invasion|the Gutians]], [[unknown|Utu-khegal of Uruk]]]
-actors_secondary: [[[unknown|Amorites]], Elam, [[gudea|Gudea of Lagash]]]
+actors_primary: [[[akkadian-empire]], [[gutian-invasion|the Gutians]], Utu-khegal of Uruk]
+actors_secondary: [Amorites, Elam, [[gudea|Gudea of Lagash]]]
 event_type: collapse
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[naram-sin|imperial overextension and internal Sumerian revolt]], [[unknown|Amorite pressure from the northwest]], [[unknown|Gutian incursion from the Zagros]], [[unknown|secession of Elam]]]
+causes: [[[naram-sin|imperial overextension and internal Sumerian revolt]], Amorite pressure from the northwest, Gutian incursion from the Zagros, secession of Elam]
 consequences: [[[mesopotamian-chronology|the Sumerian revival under the Third Dynasty of Ur]], [[gudea|the Lagash II cultural flowering]], the Sumerian "national" idea]
 sources_ingested: 1
 last_updated: 2026-06-11
@@ -31,7 +31,7 @@ hero, **Utu-khegal of Uruk**, expelled them and cleared the way for the
 
 The empire built by [[sargon-of-akkad|Sargon]] and [[naram-sin|Naram-Sin]] broke
 apart under Naram-Sin's son **Shar-kali-sharri**, who — like the later Ibbi-Sin of
-Ur — was caught between converging enemies: the **[[unknown|Amorites]]** he fought
+Ur — was caught between converging enemies: the **Amorites** he fought
 at **Basar** (Jebel Bishri) in the northwest, the **Gutians** of the Zagros, and a
 seceding **Elam**. After his ~25-year reign the dynasty fell into anarchy: the
 [[sumerian-king-list|king-list]] breaks its monotone to ask *"Who was king? Who
@@ -54,7 +54,7 @@ Uruk and Kullab, defeated the Gutian king **Tirigan** (whose reign the king-list
 gives as **forty days**), captured him with his family, "set his foot upon his
 neck, and restored the kingship of Sumer into its own hand." The deliverance was
 hailed, CAH says, as fervently as Egypt's later expulsion of the
-[[unknown|Hyksos]].
+Hyksos.
 
 ## Causal Analysis
 
@@ -92,7 +92,7 @@ CAH's account is firmly **political and military**, not climatic:
 
 [[akkadian-empire|Akkadian Empire]] (Shar-kali-sharri, last kings) · the
 **Gutians** · **Utu-khegal of Uruk** · [[gudea|Gudea of Lagash]] · the advancing
-**[[unknown|Amorites]]** and seceding **Elam**.
+**Amorites** and seceding **Elam**.
 
 ## Historiography
 
