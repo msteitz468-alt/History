@@ -69,6 +69,6 @@ For exhaustive lists, see the live views in the [[hubs/warfare/warfare-hub|Warfa
 - **Core concept**: [[strategy]]
 - **Key controversies**: [[roman-grand-strategy]], [[military-revolution-thesis]]
 - **Specific systems**: [[mongol-army]], [[kautilyan-statecraft]], [[fabian-strategy]]
-- **Sources**: [[cambridge-history-of-strategy-v1]], [[cambridge-history-of-strategy-v2]]
+- **Sources**: [[cambridge-history-of-strategy-v1]], [[cambridge-history-of-strategy-v2]], [[murray-making-of-strategy-1994|The Making of Strategy (1994)]]
 
 This page serves as the dedicated strategy-focused entry point within the Warfare & Strategy section. It deliberately points outward to the deeper comparative work and to the event pages that show strategy in action.

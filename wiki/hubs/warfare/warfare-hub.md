@@ -196,7 +196,7 @@ views:
 - **Related hubs**: [[hubs/themes/state-formation|State Formation]] (fiscal and political foundations) · [[hubs/themes/technology|Technology]] (weapon systems and logistics) · [[hubs/themes/empire-and-collapse|Empire & Collapse]]
 - **Comparisons**: [[strategic-practice-across-civilizations|Strategic Practice across Civilizations]] (flagship cross-civilizational analysis of universal vs. culture-specific strategy)
 - **Controversies**: [[military-revolution-thesis]]
-- **Sources**: Cambridge History of War volumes, Cambridge History of Strategy, [[military-revolution]]
+- **Sources**: Cambridge History of War volumes, Cambridge History of Strategy, [[military-revolution]], [[murray-making-of-strategy-1994|The Making of Strategy (1994)]]
 
 > **Bases note**: Filters rely on `event_type`, `process_type`, and tags. Adjust for your Obsidian Bases plugin version if expressions are not supported.
 

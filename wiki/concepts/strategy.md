@@ -5,8 +5,8 @@ origin: The Greek *strategos* ("general"); the abstract *strategía* in its mode
 applies_to_periods: [Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 applies_to_regions: [transregional]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-13
+sources_ingested: 3
+last_updated: 2026-06-23
 tags: [concept]
 ---
 
@@ -51,6 +51,30 @@ triumphs) to rally support, deter rivals, and shore up the ruler's own position.
 thus **instrumental and relational** — an ends–means link plus assumptions about an
 adversary's plans.
 
+## The Seven-Factor Strategy-Making Framework
+
+In their comparative analysis of seventeen states, [[murray-making-of-strategy-1994|Murray, Knox, and Bernstein (1994)]] define strategy not as a rigid system of rules, but as an adaptive process of constant adjustment to shifting circumstances under conditions of chance and uncertainty. They identify seven core domestic and international factors that shape the strategy-making process:
+
+1. **Geography**: The physical positioning, size, and geographic insulation of a state (e.g., the protective 3,000-mile Atlantic moat of the [[united-states]], the maritime insulation of England, and the lack of natural defensible borders creating a permanent security obsession in modern Israel).
+2. **History**: Path dependency and historical memory, especially traumatic defeats or founding myths (e.g., the German "stab-in-the-back" myth distorting interwar planning, or the Union's raiding and exhaustion legacy during the [[long-19th-century]]).
+3. **Nature of the State and Society**: The structure of government, regime type, and domestic politics. In the modern era, democratic constraints and public opinion restrict strategists (e.g., the populist dimensions of early U.S. strategy, the domestic preservation focus of the Prussian monarchy, or the compartmentalized royal diplomacy of Italy).
+4. **Economic and Industrial Capacity**: The fiscal system and capacity to exploit national wealth for war. Modern global wars require massive industrial production and credit (e.g., the English parliamentary taxation system creating the first public debt market to out-finance France, or the U.S. standardization of Liberty Ships).
+5. **Military Institutions and Doctrine**: The organizational culture, training, and strategic mindset of the armed forces (e.g., the Prussian-German General Staff's narrow operational focus (*Fachidiotie*) which neglected grand strategy, or the French interwar army's rigid "cult of the defensive").
+6. **Strategic Culture and Ideology**: The shared beliefs, values, and assumptions that guide policy (e.g., Spanish messianic imperialism equating state policy with the cause of God, or the Soviet Marxist-Leninist view of class war and ideological encirclement).
+7. **Individual Leadership**: The unique role of individual decision-makers in shaping, altering, or mismanaging strategy (e.g., Louis XIV's quest for personal *gloire*, Chamberlain's manipulation of cabinet reports to enforce appeasement, and Ben-Gurion's clear grasp of Israel's demographic limitations).
+
+## Revolutions and Continuities in Modern Strategy
+
+MacGregor Knox synthesizes the modern transition of strategy as driven by three structural revolutions:
+
+1. **Mass Politics**: Universal suffrage and mass mobilization forced governments to justify state actions in morally satisfying terms to the public. Strategy in the modern age became inextricably linked with propaganda and information control.
+2. **Industrialization**: Ceaseless economic and technological flux transformed war from a contest of maneuvers to a test of global industrial capacity and mass production.
+3. **Ideological Total War**: Ideologies like Nazism and Stalinism dismantled the traditional European distinction between combatants and civilians, making the total destruction of enemy societies and racial or class groups the ultimate objective of strategy.
+
+Despite these revolutions, the volume emphasizes that the basic Clausewitzian nature of war remains unchanged:
+- **Domestic Friction**: Strategic decisions are rarely the result of objective, rational planning; they are politically contested compromises between competing factions and bureaucratic organs.
+- **Strategic Overstretch**: States repeatedly fail to align their political objectives with their physical and fiscal resources (e.g., Habsburg Spain fighting on multiple fronts, and Italy's pursuit of a Roman empire on an inadequate industrial base).
+
 ## The central finding: strategy is messy
 
 The Cambridge History's most striking conclusion is **deflationary**. Against the "highly
@@ -72,7 +96,7 @@ is **culture-specific** — testing strategic studies' assumption of an "immutab
 unity of all strategic calculations." The comparative answer is mixed and is developed on
 the [[strategic-practice-across-civilizations]] page: some features recur strikingly across
 unconnected civilizations (the aspiration to **universal monarchy**, **peacetime
-deterrence**, **dynastic-marriage diplomacy**), while much is contingent on culture,
+deterrence by display and 'awe'**, **dynastic-marriage diplomacy**), while much is contingent on culture,
 technology, and material circumstance — Clausewitz's dictum that "every age has its own kind
 of war."
 
@@ -91,5 +115,5 @@ biasing the record toward states and the West.
 - [[roman-grand-strategy]] — the controversy (Luttwak vs. Kagan/Isaac) over whether even Rome had a "grand strategy"; a test case for this concept.
 - [[military-revolution]] — the early-modern transformation of the *means* of strategy.
 - [[kautilyan-statecraft]] · [[raja-mandala]] — an ancient Indian theory of statecraft and interstate strategy.
-- [[cambridge-history-of-strategy-v1]] · [[cambridge-history-of-strategy-v2]] — the sources.
+- [[cambridge-history-of-strategy-v1]] · [[cambridge-history-of-strategy-v2]] · [[murray-making-of-strategy-1994]] — the sources.
 - [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]] and [[hubs/warfare/strategy|Strategy]] sub-page — the dedicated hub coverage.

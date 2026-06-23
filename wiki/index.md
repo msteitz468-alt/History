@@ -41,6 +41,8 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `world-war-ii-1939-1945.md` | World War II | event | world-wars-era | (new from West Point V1 range 1: prelude/Poland opening; range 3: Barbarossa narrative/causes) |
 | `invasion-of-poland-1939.md` | Invasion of Poland | event | world-wars-era | (narrative stub; full analysis in hubs) |
 | `hubs/warfare/world-wars-era/second-world-war/operation-barbarossa-1941.md` | Operation Barbarossa | campaign analysis | world-wars-era | (new full template analysis from Megargee range_3: planning, phases Smolensk/Kiev/Typhoon, Final Solution beginnings, 9 principles, OOB tables) |
+| `hubs/warfare/world-wars-era/second-world-war/battle-of-leyte-gulf-1944.md` | Battle of Leyte Gulf | campaign analysis | world-wars-era | (new full template analysis from Vol 2 range_2 Overy/Love sea/air: largest naval battle, Taffy 3 vs Kurita Samar action, kamikaze, Combined Fleet destruction; OOB, 9 principles, modern parallels, primary quotes) |
+| `hubs/warfare/world-wars-era/second-world-war/strategic-bombing-japan-1944-1945.md` | Strategic Bombing of Japan | air campaign analysis | world-wars-era | (new full template analysis from Vol 2 range_2: B-29 Marianas, Hansell failure, LeMay incendiary shift, Tokyo firestorm stats, total effects; links [[strategic-bombing-campaign]]) |
 | `cold-war.md` | Cold War | 1945–1991 CE | moderate |
 | `contemporary.md` | Contemporary | 1991–present | weak |
 
@@ -489,6 +491,8 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `brills-first-encyclopaedia-of-islam-1913-1936.md` | E.J. Brill's First Encyclopaedia of Islam, 1913–1936 (Houtsma et al.) | 1913-1936 | reference | (EI1; B–D range primarily extracted; source page + Section Plan; OCR-noisy reference for Islamic actors/places/concepts/doctrines; will enrich Baghdad, Buyids, Khurrami revolt, Bada', etc.; partial) |
 | `rogers-seidule-west-point-history-civil-war-2014.md` | The West Point History of the Civil War (Rogers & Seidule, general eds.) | 2014 | secondary | (West Point History of Warfare series vol.; 6-chapter operational/tactical treatment; source page + war hub + detailed battle analyses in hubs/warfare/long-19th-century/american-civil-war/ per CLAUDE.md Warfare Hub rules and template; reciprocal links to events/american-civil-war-1861-1865; fills highest-priority Civil War slot in Outstanding War Strategy Sources) |
 | `rogers-seidule-west-point-history-world-war-ii-v1-2015.md` | The West Point History of World War II, Volume 1 (Rogers & Seidule eds.) | 2015 | secondary | (West Point History of Warfare series vol.; intro + 5 chapters + conclusion to mid-1942; source page + war hub + detailed hub analyses for Poland 1939, France 1940, Britain 1940, Barbarossa 1941, Pearl Harbor 1941, Midway 1942 per template; processes for war-economies-wwii + home-fronts-wwii; all 5 ranges reconciled; fills WWII slot in Outstanding War Strategy Sources) |
+| `murray-making-of-strategy-1994.md` | The Making of Strategy: Rulers, States, and War | 1994 | secondary | (scaffold + 3 staggered subagent ranges + main-thread recovery; 19 chapters of comparative strategic history; 7-factor strategy-making framework and Knox's 3-revolution/continuity framework; updated [[strategy]], [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]], and [[hubs/warfare/strategy|Strategy sub-hub]]) |
+| `west-point-history-american-revolution-2017.md` | The West Point History of the American Revolution (Rogers & Seidule series eds.; Watson, Lengel, Conway) | 2017 | secondary | (West Point History of Warfare series vol.; military history of the Revolution; 6-chapter Section Plan; 6 subagent claim-digests, all pages main-thread authored; 13 actors + 21 events + west-point + the campaign hub and **18 template-compliant deep battle/siege analyses** in hubs/warfare/age-of-expansion/american-revolutionary-war/; complements [[new-cambridge-modern-history-v8]]; 0 broken links) |
 
 ---
 
@@ -500,16 +504,16 @@ Per-page new/updated details live in each source page and `log.md`.
 
 | Category | Pages |
 |---|---|
-| Periods | 34 |
-| Events | 365 |
-| Processes | 282 |
-| Actors | 779 |
-| Places | 135 |
-| Concepts | 507 |
-| Comparisons | 4 |
-| Controversies | 59 |
+| Periods | 35 |
+| Events | 472 |
+| Processes | 312 |
+| Actors | 890 |
+| Places | 159 |
+| Concepts | 644 |
+| Comparisons | 16 |
+| Controversies | 61 |
 | Timelines | 5 |
 | Queries | 0 |
-| Sources | 221 |
-| Hubs | 54 |
-| **Total (all `.md`)** | **2447** |
+| Sources | 266 |
+| Hubs | 113 |
+| **Total (all `.md`)** | **2978** |
