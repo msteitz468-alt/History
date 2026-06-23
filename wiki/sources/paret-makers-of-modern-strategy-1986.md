@@ -8,7 +8,7 @@ region_coverage: [western-europe, eastern-europe, north-america, near-east, glob
 methodological_approach: intellectual history of strategic thought; essays on major theorists and practitioners from Renaissance to nuclear age; combines analysis of ideas with historical context of their application in war and policy
 reliability_notes: "Classic collection of 28 essays (some revised from 1943 Earle edition). Authoritative on development of modern strategic ideas. Strong on linking theory to practice (e.g., Clausewitz, Moltke, Liddell Hart, nuclear strategists). Some essays updated; others reprinted. Note: this is the 1986 Paret/Craig/Gilbert edition; a separate 2023 'New Makers' volume by Hal Brands exists in collection but is distinct. Bibliographical notes excellent for further reading. Complements Luttwak theoretical works and West Point/Military Effectiveness operational studies."
 pages_created: 1
-pages_updated: 4 (source page appended Range 0 Extraction block + Range 1 + Range 5 from subagent OCRs; log entries)
+pages_updated: 5 (source page appended/updated blocks for Ranges 0,1,3/4,5 from subagent OCRs; log entries)
 ingested: 2026-06-23
 last_updated: 2026-06-23
 tags: [source, strategy, intellectual-history, warfare, modern]
@@ -59,7 +59,7 @@ Source page scaffolded from PDF outline/TOC, sampled introduction, and conclusio
 
 **Range summary:** The volume is a comprehensive intellectual history. Part One traces origins (Machiavelli to dynastic/national war transition). Part Two expansion (Napoleon, Jomini, Clausewitz). Part Three industrial foundations (economic, Marx, general staff, sea power, American). Part Four 20th c. wars (doctrine, machine warfare, air, Soviet, coalitions). Part Five nuclear/revolutionary/future. Bibliographical notes provide roadmap.
 
-(Full subagent blocks from OCR ranges appended as completed below. Claims focus on evolution of ideas, key figures, interaction with policy/war. Ranges 0, 1, 5 integrated so far; others pending.)
+(Full subagent blocks from OCR ranges appended as completed below. Claims focus on evolution of ideas, key figures, interaction with policy/war. Ranges 0, 1, 3/4, 5 integrated so far; others pending.)
 
 ## Range 0 Extraction (PDF pp. 1-150 | Front matter, Acknowledgments, Introduction by Peter Paret, Part One ch. 1-4: Machiavelli, 17th c. military revolution, Vauban, Frederick/Guibert/Bülow)
 
