@@ -1,0 +1,51 @@
+---
+title: The Battle of Camden
+date_start: 1780-08-16
+date_end: 1780-08-16
+date_precision: exact
+period: [Age of Expansion]
+region: [north-america, eastern-north-america]
+location: [Camden, South Carolina]
+actors_primary: [the [[continental-army|Continental Army]], the British Army]
+actors_secondary: [[[gates-horatio]], [[cornwallis-charles]]]
+event_type: [battle]
+scale_immediate: regional
+scale_consequential: regional
+causes: [the American attempt to recover the South after Charleston, Gates's deployment errors]
+consequences: [destruction of the southern army, Gates's disgrace and replacement by Greene]
+sources_ingested: 1
+last_updated: 2026-06-23
+tags: [event, age-of-expansion, north-america]
+---
+
+# The Battle of Camden (16 August 1780)
+
+The rout that destroyed the second American southern army and seemingly confirmed British conquest of
+the Carolinas. **[[gates-horatio|Horatio Gates]]**, the "hero of [[battles-of-saratoga-1777|Saratoga]],"
+marched a hungry, fever-ridden force south to challenge **[[cornwallis-charles|Cornwallis]]**.
+
+## Narrative
+
+Believing he had 7,000 men (barely half fit for duty), Gates made the **critical error of posting raw
+militia, unsupported, opposite the British regulars** on his left. At first contact the militia "broke
+with ease"; the Continentals on the right fought hard "for three-quarters of an hour" until Tarleton's
+cavalry outflanked them and "even the Continentals folded." Tarleton pursued 22 miles. Gates himself
+"traversed 170 miles in three days" in flight and was soon replaced. Yet Cornwallis was "galled that
+his victory achieved so little" — beyond the battlefield it changed few allegiances.
+
+## Causal Analysis
+
+- `caused_by:` the American drive to **reverse the fall of [[siege-of-charleston-1780|Charleston]]**.
+- `contributed_to:` Gates's **faulty deployment** and exhausted, half-trained army — "promoted beyond
+  what his experience merited."
+
+## Consequence Analysis
+
+- `produced:` the **annihilation of the southern army** and Gates's disgrace.
+- `produced:` his replacement by **[[greene-nathanael|Nathanael Greene]]**, who would convert the ruin
+  into a war-winning campaign of attrition.
+
+## Related
+
+- `preceded_by:` [[siege-of-charleston-1780]] · `followed_by:` [[battle-of-kings-mountain-1780]]
+- `part_of:` [[american-revolution]] · [[gates-horatio]], [[cornwallis-charles]], [[greene-nathanael]] · [[age-of-expansion]] · [[west-point-history-american-revolution-2017]]

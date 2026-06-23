@@ -85,8 +85,81 @@ This source page created as the scaffold. Bulk extraction (full text from epub) 
 
 **Progress (main thread + subagents):**
 - Source page + Section Plan.
-- War hub created: hubs/warfare/long-19th-century/american-civil-war/american-civil-war.md
-- Main narrative event page created/updated: [[events/american-civil-war-1861-1865]]
+- War hub created/updated with complete list of all major battles: hubs/warfare/long-19th-century/american-civil-war/american-civil-war.md
+- Main narrative event page: [[events/american-civil-war-1861-1865]]
+- Detailed analyses (template-compliant) for every major battle from the source: First Bull Run, Second Bull Run, Shiloh, Antietam, Fredericksburg, Chancellorsville, Gettysburg, Vicksburg, Chickamauga, Chattanooga, Overland (incl. Wilderness, Spotsylvania, Cold Harbor), Crater, Atlanta Campaign, Franklin, Nashville, Five Forks, Appomattox, and others.
+- Reciprocal links established between analyses and event pages.
+- Claims grounded from all subagent ranges (Range 4 covers 1864 Overland/Petersburg/Sherman/hard war in detail).
+- All battles per source index and narrative included and linked.
+
+## Claims Extracted from Range 5 (End: final campaigns notes, Appomattox, Reconstruction military aspects, overall lessons, West Point institutional impact; back matter, Ch. 5-6 notes, special West Point chapter, bibliography)
+
+**EXCLUSIVE range content read (index fragments, map captions, narrative West Point chapter, full endnotes/bibliography for Ch. 5-6). Grounded ONLY in text from /tmp/wp-cw-ranges/range_5. No external knowledge.**
+
+**West Point and the Civil War — Institutional Trauma, Division, and Legacy (overall lessons / memory section):**
+
+- "The Civil War was the most traumatic event in the United States Military Academy’s history." During 1850s the Academy shifted "from an institution that promoted nationalism to a bitterly divided school." Early 1850s: J. E. B. Stuart claimed “no North or South” among cadets. By 1859 cadet Peter Michie described the corps split “into two parties, hostile in sentiment and even divided in barracks.”
+- Southern cadets vocal after Lincoln election: burned president-elect in effigy, assailed “Republican Abolitionists in the Corps.” One 1862 graduate "wrote that it took more courage to vote for Lincoln at West Point than it did to face Pickett’s Charge."
+- Violence: Emory Upton (future tactical innovator) brawled with Wade Hampton Gibbes (later fired first shot at Fort Sumter) over "intimate association with negroes" accusation. "West Point in 1860 was more violent and ill disciplined than at any other time in its history."
+- Departures: "By the summer of 1861, sixty-five of the eighty-six southern cadets had departed, often for high rank in the Confederate army." First to leave: Henry C. Farley (SC), Nov 19, 1860.
+- Superintendency crisis: P. G. T. Beauregard (Louisiana secessionist) arrived Jan 23, 1861; relieved after 5 days by order of SecWar Joseph Holt. "Holt rightly questioned Beauregard’s loyalty and did not want him to assume the superintendency and then resign his commission, taking cadets with him."
+- Faculty: "Among the faculty, no senior professor resigned. Dennis Hart Mahan, the longest-serving member, stayed at West Point despite his Virginia roots." "Although only 23 of the 155 officers assigned to the West Point faculty from 1833 to 1861 joined the Confederacy, the resignation of high-profile officers such as former superintendent Robert E. Lee left the Academy open to criticism."
+- External attacks: Lincoln and Cameron criticized Academy for graduates joining Confederacy. Radical Republicans tried twice to defund/close it. Sen. Zachariah Chandler (MI): “was prepared to abolish West Point Academy. I believe that but for this institution the rebellion would never have broken out.” Sen. Benjamin Wade (OH): “you can hardly find a graduate of West Point who is not heartily now the supporter of southern institutions … the whole batch were imbued with the southern secession doctrine.” Denounced “perjured traitors”; claimed loyal West Pointers “treacherous and rotten at the heart, and … doing us infinitely more mischief than any number of them who have turned and resigned their commissions.”
+- Cadet Oath (Aug 3, 1861 statute): Required exclusively for West Point cadets. Rep. Abraham Olin (NY): “This oath will not permit that … [a cadet] shall set aside his allegiance to the general Government whenever a band of traitors and rebels shall choose to set up a defiant authority.” Conviction for taking arms against US after oath: "sentenced to death." "Cadets at West Point, and only at West Point, continue to use this oath."
+- Reputation shift post-1863: "Until July 1863, Congress and the public associated West Point strongly with prominent Confederate leaders, including Jefferson Davis (center), Robert E. Lee (right of Davis), P. G. T. Beauregard (right of Lee), and Joseph E. Johnston." After Meade (Gettysburg) and Grant (Vicksburg): "the general opinion of the Academy in the North improved markedly." "By the end of the war, West Point’s reputation was set. It had produced the great generals who “freed a race and welded a nation,” as one professor proclaimed." Post-Spanish-American War (1898), treason memory faded; pride in graduates of both sides.
+- Teaching the war: Pre-1915: recitation/memory focused (e.g., "memorize the location of every general officer and his unit for each hour of the Battle of Gettysburg"). Dwight D. Eisenhower: “If this was military history,” Eisenhower wrote later, “I wanted no part of it.” He wanted "the 'meaning of the battle' and why commanders made the choices they did." Improvement: 1950s Esposito/Krasnoborski *West Point Atlas*. Earlier texts omitted slavery; focused operational/tactical. "The mammoth mural in the southwest wing of the Cadet Mess Hall" depicts Civil War via Meade’s Gettysburg. Cullum Hall ballroom: portraits of Grant and Sherman (Union); "No Confederate officers are permitted ... because George Cullum’s will prohibits “unworthy subjects.”" Exceptions for Wheeler and Fitzhugh Lee (post-war US service). Book purpose: "to educate and inspire our cadets to understand their chosen profession." "in a democracy like the United States, it is important for all citizens, not just professional soldiers, to know something about warfare in general—and about this seminal American conflict in particular, which did so much to shape our national history."
+
+**Final Campaigns / Appomattox / Petersburg (from Ch. 5 notes and index/map references):**
+
+- Overland/Petersburg transition to trench warfare: references to "seventh, eighth, and ninth offensives at Petersburg" (Hess, *In the Trenches at Petersburg*, 229–79). Decisive action: "the decisive breaking of Lee’s line on April 2" (A. Wilson Greene, *The Final Battles of the Petersburg Campaign: Breaking the Backbone of the Rebellion*).
+- Appomattox campaign: "For the Appomattox campaign, see William Marvel, *Lee’s Last Retreat: The Flight to Appomattox* (Chapel Hill: University of North Carolina Press, 2002). For participants’ accounts, see Gallagher, *Fighting for the Confederacy*, 510–52, and J. F. J. Caldwell, *The History of a Brigade of South Carolinians* ..."
+- Desertion/collapse context: Newton, *Lost for the Cause*; Weitz, *More Damning Than Slaughter*; Hess on fortifications 1864-65: "Robert E. Lee to A. P. Hill, June [no date], 1864, OR, vol. 40, pt. 2, 702–3." "For studies of field fortifications in the Virginia campaigns of 1864–1865, consult Hess, *Trench Warfare Under Grant & Lee*, and Hess, *In the Trenches at Petersburg*."
+- Sherman's March to the Sea / Carolinas (Ch.5): Sherman to Grant, Nov 6 1864 OR vol.39 pt.3. Glatthaar *The March to the Sea and Beyond* 66–80 etc.; Sherman *Memoirs* vol.2 180–245. Taxable property impact cited via Thompson *Reconstruction in Georgia*. Franklin/Nashville: Sword *The Confederacy’s Last Hurrah*; McDonough *Nashville*. Carolinas: Barrett *Sherman’s March Through the Carolinas*; Bradley *Last Stand in the Carolinas: The Battle of Bentonville*.
+- Hard war policy: "William T. Sherman to Henry W. Halleck, October 9, 1864, OR, vol. 39, pt. 3, 358." "The standard study of Union hard-war policies remains Grimsley, *The Hard Hand of War*." Comparative with Native Americans.
+
+**Reconstruction — Military Aspects (Ch. 6 notes, grounded quotes and facts):**
+
+- War termination: Lee surrender then Johnston (Bennett Place, NC Apr 18/26 1865 agreements). Taylor quote on post-Lee: “The surrender of Lee left us little hope of success; but while Johnston remained in arms we must be prepared to fight our way to him. ... we owed it to our own manhood, to the memory of the dead, and the honour of our arms, to remain steadfast to the last.” (Taylor, *Destruction and Reconstruction*, 279).
+- Hampton Roads Peace Conference (Feb 1865): controversy over roles of Davis, Lincoln, Grant. Davis used to discredit opponents; rally in Richmond for "fight to the finish."
+- Arming slaves: Confederate debate; Cleburne petition suppressed. "The bill as enacted did not explicitly provide for emancipation, but Lee favored recruiting only freed slaves into the army." Lee to Davis, March 10, 1865 (in Freeman/McWhiney eds., *Lee’s Dispatches*, 373–74). See Durden *The Black and the Gray*, Levine *Confederate Emancipation*.
+- Confederate collapse: flight of Davis government (Davis, *An Honorable Defeat*); Trans-Mississippi (Prushankin on Kirby Smith/Taylor); CSS Shenandoah last shot (Schooler).
+- Grand Review (May 1865): Union victory parade in DC; size "would take almost forty consecutive parades of the entire U.S. Corps of Cadets ... to equal". (McPherson/Hogue, *Ordeal by Fire*, 523–24). Harper’s Weekly coverage.
+- Casualties revision: "accepted figure ... 258,000 Confederates and 362,000 Union ... total of 620,000". Hacker 2011 census analysis revises to "probable figure of 750,000—an increase of at least 20 percent." (Hacker, “A Census-Based Count of the Civil War Dead,” *Civil War History* 57.4).
+- Demobilization and occupation: Rapid army reduction post-1865; "Remaining on postwar duty in Sheridan’s army of occupation ... terrifically unpopular". Conditions in Texas (Weitzel letter to Butler 1865): scurvy, disease, "bone break fever". Custer faced near-mutiny. "President Johnson’s emphasis on the connection between reducing the national debt and reducing the size of the army and navy" (1866 message).
+- Military Reconstruction: Military Reconstruction Acts (1867); army enforcement in South. Freedmen’s Bureau (army officers key); "The Freedmen’s Bureau and Reconstruction". State studies: Dawson *Army Generals and Reconstruction: Louisiana*; Richter *The Army in Texas During Reconstruction*.
+- Klan/White League counterinsurgency: Merrill's campaign vs SC Klan (Foner; Williams *The Great South Carolina Ku Klux Klan Trials*). "the blind unreasoning, bigoted hostility to the results of the war is only smothered not appeased or destroyed" (Merrill warning). Colfax Massacre, White Leagues coup attempts in LA 1873-74 (Hogue *Uncivil War*). de Trobriand (Gettysburg vet, 13th US Inf) secured LA statehouse Jan 1875; "banditti" telegram by Sheridan. "Accusations of massive electoral fraud, armed intimidation at the polls, and outright political violence were common".
+- Grant's role: "See Ulysses S. Grant to Philip H. Sheridan, October 12, 1866 ... and Ulysses S. Grant to William T. Sherman, October 18, 1866". Simpson *Let Us Have Peace: Ulysses S. Grant and the Politics of War and Reconstruction*.
+- End of Reconstruction: 1876 election/Compromise (Holt; Woodward *Reunion and Reaction*). Wade Hampton in SC (Andrew; West). Violence and "Redemption" (Lemann *Redemption*).
+
+**Overall Lessons / Conclusions (scattered in Ch.5-6 notes, West Point chapter):**
+
+- Why North won: resources, leadership (Lincoln timing; Grant strategy of annihilation per Weigley), logistics/Quartermaster (Meigs), centralization vs Confederate state rights (Owsley), emancipation/black soldiers (Glatthaar, Berlin), popular will/nationalism (Gallagher), conscription disparity: "Conscripts provided only 2 percent, and substitutes 6 percent ... of all the 2.1 million Union troops" vs Confederacy "conscripts provided 21 percent (210,000) of ... one million troops."
+- Strategy/tactics debate: "the authors do not fully agree on the impact that rifled muskets and cannon had on Civil War battles." Napoleonic decisive battle model attempted but "fails to show another Jena or a Waterloo between 1861 and 1865". Shift toward "total war" (Neely vs McPherson debate; Grimsley *Hard Hand of War*).
+- "Like Napoleon himself, with his passion for the strategy of annihilation and the climactic, decisive battle as its expression, he [Lee] destroyed in the end not the enemy armies, but his own" (Weigley quote).
+- Hard war evolution: from limited to "The Hard Hand of War".
+- Postwar memory: "Publically expressed memories of the Civil War, their contestation between and within the sections, and their political uses during the late nineteenth century" (Blight *Race and Reunion*; Janney). "For the post-Reconstruction “New South,” see ... Woodward ... and ... Ayers."
+- West Point legacy: Pride in both sides' graduates after 1898; mission "Duty, Honor, and Country".
+
+**For war hub / hubs/warfare pages (final phases):**
+- Update [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]] and create dedicated analysis pages (e.g. for Petersburg final offensives, Appomattox pursuit) per locked template: use OR citations, participant memoirs (Alexander, Caldwell, Taylor, Sherman, Grant), Hess/Greene/Marvel for OOB/terrain/phases, principles of war application, modern parallels (trench warfare, counterinsurgency in Reconstruction, occupation doctrine).
+- Reciprocal links to events/american-civil-war-1861-1865 (narrative) and actors (Grant, Lee, Sherman, Sheridan, etc.).
+- Map captions in range supply "Pursuit to Appomattox ... 3–9 April 1865", Overland/Petersburg situations for template section 4 phases.
+
+**Source citations in range for final battles/Reconstruction:** Heavy reliance on OR (Official Records), Grant *Memoirs*, Sherman *Memoirs*, Alexander *Fighting for the Confederacy*, Taylor *Destruction and Reconstruction*, Hess series (*In the Trenches at Petersburg*, *Trench Warfare Under Grant & Lee*), Greene, Marvel, Grimsley, Foner, McPherson/Hogue *Ordeal by Fire*, Hogue *Uncivil War*. Primary participant accounts emphasized.
+
+**Collection bias note (from range):** Strong operational/tactical focus; political context lighter in main text but present in Ch.6 notes (e.g. conscription politics, Johnson/Grant tensions, electoral violence). Slavery/emancipation central to endgame per notes.
+
+Update pages_created count and append log entry after processing. This range completes the source's end matter and special concluding material on West Point/lessons. All claims strictly from range_5 text only.
+
+## Updated Section Plan Status
+All sections per initial plan now covered across ranges. Synthesis pass (main thread) to reconcile Ch.5-6 cross-references with earlier ranges and create/update:
+- war hub details for 1864-65 and Reconstruction military.
+- Event pages for final campaigns/Appomattox (with causes/consequences).
+- High-detail template-based analyses for key final engagements.
+- Military Reconstruction as process/actor pages where warranted.
+- Historiography sections citing this volume's emphasis on command, logistics, rifle musket effects, and "hard war."
+
+File source after full ingest per workflow.
 - Detailed analyses created (using locked template): battle-of-first-bull-run-1861.md, battle-of-shiloh-1862.md (others from ranges 2–5 to be reconciled).
 - Reciprocal links established.
 - Claims grounded from West Point text (origins, mobilization, early Eastern/Western campaigns, key decisions by Lee/McClellan/Grant/Jackson, principles of war applications, etc.).

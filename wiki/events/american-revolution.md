@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: global
 causes: [post-Seven-Years-War British taxation of the colonies, "no taxation without representation", Enlightenment ideas of liberty and republicanism, colonial self-government]
 consequences: [the independence of the United States, the first modern democratic republic, a model for the French and Atlantic revolutions, the British fiscal/imperial reorientation]
-sources_ingested: 1
-last_updated: 2026-06-14
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: [event, age-of-expansion, north-america, atlantic-world]
 ---
 # The American Revolution (1765–1783)

@@ -1,5 +1,5 @@
 ---
-title: "Battle of Gettysburg — Tactical Analysis"
+title: "Gettysburg — Tactical Analysis"
 analysis_type: battle
 period: "Long 19th Century"
 war: "american-civil-war"
