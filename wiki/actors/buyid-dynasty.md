@@ -24,10 +24,22 @@ key_events:
   - "Seljuk displacement of Buyids 1055"
 key_processes:
   - "[[dissipation-of-the-high-caliphate]]"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: [actor, dynasty, early-middle-ages, high-middle-ages, iran-plateau, mesopotamia]
 ---
+
+## EI1 (Brill First Encyclopaedia of Islam) Claims
+Grounded from legible passages in the 1913–1936 reference (B–D range extraction).
+
+- "When in Djumada I 334 (December 945) he [Ahmad] entered Baghdad, the Caliph al-Mustakfi had to create him Amir al-Umara and give him the honorific title of Mu‘izz al-Dawla." A few weeks later (Djumada II 334 / January 946): "Mu‘izz al-Dawla had the unfortunate Caliph blinded, and proclaimed... al-Muti. The Caliphate now passed through a period of the deepest humiliation and the “Commander of the Faithful’ became a mere puppet in the hands of the Biyid Amirs."
+- ‘Adud al-Dawla (son of Rukn) "was now able to unite the whole kingdom under his sceptre and in his reign the dynasty reached its zenith." Patronage noted: encouraging poets/scholars, building, canals.
+- End: "In 447 (1055) however, the Saldjik Sultan Toghrul Beg entered Baghdad and put an end to Buyid rule." Last (al-Malik al-Rahim) confined.
+
+**Link taxonomy**: caused_by service under Mardawij + Dailamite power; produced: puppet status of [[abbasid-caliphate]]; part_of post-Samanid fragmentation; followed_by Seljuk order. Reciprocal updates to [[baghdad]] (334 entry, Amir al-Umara, west-side effects) and [[abbasid-caliphate]].
+
+(Additional claims from other ranges reconciled: full brother genealogy, internal wars, titles.)
+
 
 ## Overview
 

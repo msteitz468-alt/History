@@ -157,7 +157,7 @@ philosophy (*falsafa*), science, and mysticism (*Sufism*) are absent. Priority l
 | *The Muqaddimah* — Ibn Khaldun (Rosenthal trans.) | `[BUY]` | ✅ | ingested (`ibn-khaldun-muqaddimah`) — primary; 23 pages; also key for the historiography hub (see Gap 9) |
 | *The Incoherence of the Philosophers* — al-Ghazali ↔ *The Incoherence of the Incoherence* — Ibn Rushd | `[BUY]` | ✅ | BOTH ingested (`ghazali-incoherence-of-philosophers` + `ibn-rushd-incoherence-of-incoherence`); the falsafa/kalam debate, tied together by the `philosophy-versus-theology-in-islam` controversy page |
 | *Hayy ibn Yaqzan* — Ibn Tufayl | `[BUY]` | ✅ | ingested (`ibn-tufayl-hayy-ibn-yaqzan`, 11 pages); primary; philosophical novel |
-| *Encyclopaedia of Islam* (Brill) | `[LIBRARY]` | ❌ | authoritative reference for gap-filling. NB: the companion **Index of Subjects** (Bearman, 1996) is now ingested as a finding-aid source page (`encyclopaedia-of-islam-index-subjects-1996`); the encyclopaedia *proper* is still outstanding |
+| *Encyclopaedia of Islam* (Brill) | `[LIBRARY]` | 🟡 | authoritative reference for gap-filling (EI1 = First Edition 1913-1936). Source page `brills-first-encyclopaedia-of-islam-1913-1936` + full Deployed Subagent Strategy (5 ranges, main reconciliation) complete on available B–D + C extraction (Vol II focus + C material). ~12 new pages + 25+ updates (Buyids, Baghdad, Bada', Babak, Barmakids, Constantinople 1453, Cairo founding, Cordoba, Constantine (Algeria), etc.). Claims grounded + synthesis note filed. Index of Subjects (EI2) already ingested. Filed to raw/_islam-encyclopaedias/. Full A–Z awaits improved extraction. |
 
 ---
 

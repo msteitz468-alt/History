@@ -74,3 +74,11 @@ the center of the medieval Islamic world until 1258. See [[founded-cities]].
 4. "When these two regions [Persia and Iraq] were joined and under common rule... all elements of civilization... as well as thriving commerce and trade—flourished. Conversely, the break up of that unity always inhibited trade and culture." (ll. 8261-8271). taxonomy: enabled: [[afro-eurasian-world-system]] Gulf route. Updated [[baghdad]].
 **Taxonomy Used**: contributed_to, produced, concurrent_with, enabled, contrasts_with (CLAUDE.md).
 **Lint/Compliance Notes**: Range-exclusive; verbatim from Ch6 on Baghdad/Persian Gulf decline/shift to Hormuz/Qais under Mongols; established names only.
+
+**Grounded claims from E.J. Brill's First Encyclopaedia of Islam (EI1, 1913–1936)**
+- "BAGHDAD, the name of the largest town in the modern ‘Irak (Babylonia); once the brilliant residence of the ‘Abbasids and the metropolis of the Muhammadan world... The name Baghdad... is undoubtedly Iranian... al-Mansir laid the foundation-stone of his new capital in the year 145 (762). ... the Round Town... "
+- "In the year 196 (812) ... siege for the first 14 months. ... put to death (in the beginning of 198 = 813) ... The flourishing capital was reduced for the first time to ashes and ruins; a great fire raged over whole sections of the town and all the government archives were lost; in particular the west side, which had suffered most damage from this catastrophe never completely recovered..."
+- "In 334 (945) the Dailamite Ahmad Mu‘izz al-Dawla of the family of Buyids took possession of the capital... The Buyid prince at first occupied the palace of the former Emir, Munis... ‘Adud al-Dawla rebuilt al-Khuld..."
+- "The Nizamiya founded by the famous vizier Nizam al-Mulk in 457 (1065) soon attained a great reputation. ... The last two centuries of the ‘Abbasid caliphate were on the whole peaceful ones for Baghdad." (See also Seljuk entry 447/1055.)
+Taxonomy: produced: [[buyid-dynasty]] control and puppet Caliphate; part_of: fragmentation of late Abbasid power; preceded_by: Samarra interlude; concurrent_with: Seljuk protection. Updated [[baghdad]] + [[buyid-dynasty]].
+**Note**: EI1 (1913–36) perspective; cross-check with later sources.
