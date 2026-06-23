@@ -8,7 +8,7 @@ region_coverage: [western-europe, eastern-europe, north-america, near-east, glob
 methodological_approach: intellectual history of strategic thought; essays on major theorists and practitioners from Renaissance to nuclear age; combines analysis of ideas with historical context of their application in war and policy
 reliability_notes: "Classic collection of 28 essays (some revised from 1943 Earle edition). Authoritative on development of modern strategic ideas. Strong on linking theory to practice (e.g., Clausewitz, Moltke, Liddell Hart, nuclear strategists). Some essays updated; others reprinted. Note: this is the 1986 Paret/Craig/Gilbert edition; a separate 2023 'New Makers' volume by Hal Brands exists in collection but is distinct. Bibliographical notes excellent for further reading. Complements Luttwak theoretical works and West Point/Military Effectiveness operational studies."
 pages_created: 1
-pages_updated: 3 (source page appended Range 1 Extraction block + Range 5 Extraction block from subagent OCR; log entries)
+pages_updated: 4 (source page appended Range 0 Extraction block + Range 1 + Range 5 from subagent OCRs; log entries)
 ingested: 2026-06-23
 last_updated: 2026-06-23
 tags: [source, strategy, intellectual-history, warfare, modern]
@@ -59,7 +59,70 @@ Source page scaffolded from PDF outline/TOC, sampled introduction, and conclusio
 
 **Range summary:** The volume is a comprehensive intellectual history. Part One traces origins (Machiavelli to dynastic/national war transition). Part Two expansion (Napoleon, Jomini, Clausewitz). Part Three industrial foundations (economic, Marx, general staff, sea power, American). Part Four 20th c. wars (doctrine, machine warfare, air, Soviet, coalitions). Part Five nuclear/revolutionary/future. Bibliographical notes provide roadmap.
 
-(Full subagent blocks from OCR ranges will be appended upon completion. Claims focus on evolution of ideas, key figures, interaction with policy/war.)
+(Full subagent blocks from OCR ranges appended as completed below. Claims focus on evolution of ideas, key figures, interaction with policy/war. Ranges 0, 1, 5 integrated so far; others pending.)
+
+## Range 0 Extraction (PDF pp. 1-150 | Front matter, Acknowledgments, Introduction by Peter Paret, Part One ch. 1-4: Machiavelli, 17th c. military revolution, Vauban, Frederick/Guibert/Bülow)
+
+**EXCLUSIVE note:** ONLY this range (PDF pp. 1–150; OCR via pdftoppm -f 1 -l 150 -r 150 + tesseract on /tmp/makers-paret-range-ocr/). ALL claims, quotes, and locators EXCLUSIVELY from verbatim or close paraphrase in THIS range text. No outside knowledge, no other ranges.
+
+**Range summary (from content in range):** This PDF range (pp. 1-150) covers front matter, acknowledgments, Peter Paret's Introduction (defining strategy in Clausewitzian and broader terms, situating the 1986 volume as successor to Earle's 1943 Makers of Modern Strategy, and framing the history of strategic thought as applied reason interacting with social/political/economic context), and the opening of Part One on the origins of modern war. It includes Felix Gilbert's analysis of Machiavelli as the figure who tied military reform to political transformation and rejected condottieri in favor of militia; Gunther E. Rothenberg on the 17th-century military revolution's advances in discipline, tactics (volley/linear), and state control of force (Maurice, Gustavus, Montecuccoli); Henry Guerlac on Vauban's scientific contributions to fortification (three "systems," especially second system's defense-in-depth and dual offensive/defensive role for fortresses as bases) and evolving strategic thought; and the start of R. R. Palmer on the shift from dynastic (professional, limited, siege-oriented, class-bound) to national war (citizen armies, mobile, totalizing) in the Frederick/Guibert era, with explicit links back to Machiavelli's anticipations. The slice grounds the intellectual and institutional transition to modern strategy, with emphasis on context-idea interaction rather than technology alone. All claims drawn exclusively from OCR of this range.
+
+### Introduction by Peter Paret Claims
+- "CARL VON CLAUSEWITZ defined strategy as the use of combat, or the threat of combat, for the purpose of the war in which it takes place." (Introduction, p. 3). Target: [[concepts/strategy]] (core definition anchoring modern usage); [[hubs/warfare/strategy]] (foundational for hub).
+
+- "Strategy is the use of armed force to achieve the military objectives and, by extension, the political purpose of the war. To those engaged in the direction and conduct of war, strategy has often appeared more simply, in Moltke’s phrase, as a system of expedients... and may include the development, intellectual mastery, and utilization of all of the state’s resources for the purpose of implementing its policy in war." (Introduction). Target: [[concepts/strategy]] (distinguishes narrow operational and broad inclusive senses used throughout volume); [[hubs/warfare/strategy]].
+
+- "The essays explore ideas of soldiers and civilians since the Renaissance on the most effective application of their society’s military resources: how can the fighting power available, or potentially available, be used to best purpose?" (Introduction). Target: [[hubs/warfare/strategy]] (central question framing the collection); [[concepts/strategy]].
+
+- "The concept of this volume... derive from an earlier work... collection of twenty-one essays on 'military thought from Machiavelli to Hitler,' which Earle... brought out two years later under the title Makers of Modern Strategy." (Introduction). Target: [[concepts/strategy]] (self-conscious historiography of the field).
+
+- "In preparing the new volume, the editors have had no wish to discard the model of the old... collectively the essays... offer the reader a guide to strategic theory and to ideas on the use of organized violence from the time Machiavelli wrote his Arte della guerra to the present." (Introduction). Target: [[hubs/warfare/strategy]].
+
+- "The new volume has far more to say about American strategy than did its predecessor. It also contains four essays on the period since 1945... More generally, the new Makers of Modern Strategy takes a somewhat broader view of its subject." (Introduction). Target: [[concepts/strategy]].
+
+### Ch. 1 Machiavelli: The Renaissance of the Art of War (Felix Gilbert) Claims
+- "With these words from the famous last chapter of The Prince—'The exhortation to free Italy from the barbarians'—Machiavelli expressed an idea that recurs frequently in his writings: new military institutions and new processes in warfare are the most urgent and the most fundamental requirement of his time." (Ch. 1, p. 11). Target: [[actors/machiavelli]] (founding emphasis on military reform as political priority); [[concepts/strategy]]; [[periods/early-modern]].
+
+- "It hardly goes too far to say that Machiavelli became a political thinker because he was a military thinker. His view of the military problems of his time patterned his entire political outlook." (Ch. 1). Target: [[actors/machiavelli]] (central thesis of the chapter); [[concepts/strategy]] (strategy as driver of political thought).
+
+- "Machiavelli occupies a unique position in the field of military thought because his ideas are based on a recognition of the link between the changes that occurred in military organization and the revolutionary developments that took place in the social and political sphere." (Ch. 1). Target: [[actors/machiavelli]]; [[concepts/strategy]] (interaction of military and socio-political spheres).
+
+- "The military organization of the Middle Ages formed an integral part of the medieval world, and declined when the medieval social structure disintegrated... The impact of the money economy provided a broader opportunity for recruiting armies. New classes of men... were attracted into the services by money..." (Ch. 1). Target: [[periods/early-modern]] (transition from feudal to professional forces); [[concepts/strategy]] (economic drivers of military change).
+
+- "The importance of the invention of gunpowder has to be evaluated against the background of these general developments: first, the rise of a money economy; second, the attempt of the feudal overlord to free himself from dependence on his vassals... Gunpowder and firearms were not the cause... but they were an important contributory factor..." (Ch. 1). Target: [[periods/early-modern]].
+
+- "Machiavelli’s most famous... mission was that to Cesare Borgia... The stupidity with which the condottieri had fallen into Cesare’s trap further justified for Machiavelli the contempt he felt for the condottieri system." (Ch. 1). Target: [[actors/machiavelli]] (personal experience shaping doctrine).
+
+- "The most important official reflection of Machiavelli’s thought on military affairs is the law of December 1505, which ordered the organization of a Florentine militia. It was drafted by Machiavelli..." (Ch. 1). Target: [[actors/machiavelli]]; [[periods/early-modern]] (preference for citizen forces over mercenaries).
+
+### Ch. 2 Maurice of Nassau, Gustavus Adolphus... “Military Revolution” of the Seventeenth Century (Gunther E. Rothenberg) Claims
+- (Context from TOC + cross-references in range): The chapter addresses innovations in army constitution and utilization by Maurice of Nassau, Gustavus Adolphus, and Montecuccoli, emphasizing discipline, volley fire, linear tactics, and administrative control as key to the 17th c. military revolution. (Ch. 2, pp. 32ff; referenced in later chapters). Target: [[periods/early-modern]]; [[hubs/warfare/strategy]] (foundations of modern professional forces and command); [[concepts/strategy]].
+
+- "The seventeenth century, while enlarging armies beyond precedent, had advanced the principles of orderly administration and control. It had put a new emphasis on discipline, created a more complex hierarchy of tactical units, clarified the chains of command, turned army leaders into public officials, and made armed force into a servant of government." (Ch. 4 contextually summarizing prior; Ch. 2 develops). Target: [[periods/early-modern]] (military revolution as administrative and tactical transformation).
+
+### Ch. 3 Vauban: The Impact of Science on War (Henry Guerlac) Claims
+- "Vauban never thought that fortresses were important solely for defense; he was careful to stress their importance as bases for offensive operations against the enemy. The fortified places should be situated so as to command the means of communication within one’s own territory and to provide access to enemy soil by controlling important roads or bridgeheads." (Ch. 3, p. 64ff). Target: [[hubs/warfare/strategy]] (offensive use of fortifications); [[concepts/strategy]]; [[periods/early-modern]].
+
+- "Vauban... had made an important, even revolutionary improvement: he had freed himself from reliance on the main enceinte and taken the first steps toward a defense in depth." (Ch. 3, describing second system at Belfort/Besançon). Target: [[hubs/warfare/strategy]]; [[concepts/strategy]] (defense in depth innovation).
+
+- "In this work Maigret writes that 'the best kind of fortresses are those that forbid access to one’s country while at the same time giving an opportunity to attack the enemy in his own territory.'" (Ch. 3, systematizing Vauban). Target: [[hubs/warfare/strategy]].
+
+- "Vauban, in the memoir of 1678, concluded that the frontier would be adequately fortified if the strongholds were limited to two lines, each composed of about thirteen places, stretched across the northern frontier in imitation of infantry battle order... linked by a waterline." (Ch. 3). Target: [[periods/early-modern]] (systematic frontier defense).
+
+- "Vauban’s thinking seems to have evolved in the direction of favoring a thinner and thinner line... He seems almost to have come closer to the idea of Guibert that the true defense of a country is its army, not its fortifications." (Ch. 3, p. ~90). Target: [[hubs/warfare/strategy]]; [[periods/early-modern]].
+
+### Ch. 4 Frederick the Great, Guibert, Bülow: From Dynastic to National War (R. R. Palmer) Claims (partial, start of chapter in range)
+- "The period from 1740 to 1815... saw both the perfection of the older style of warfare and the launching of a newer style which in many ways we still follow. The contrast between the two styles is the main subject of this chapter." (Ch. 4, p. 91). Target: [[periods/early-modern]]; [[periods/age-of-expansion]] (transition point); [[concepts/strategy]].
+
+- "Citizen armies replaced professional armies. Aggressive, mobile, combative strategy replaced the slow strategy of siegecraft. Both had been anticipated by Machiavelli, but neither had been realized on a large scale since 1500." (Ch. 4). Target: [[concepts/strategy]]; [[actors/machiavelli]] (anticipation); [[hubs/warfare/strategy]].
+
+- "War before the French Revolution was essentially a clash between rulers. Since that event it has become increasingly a clash between peoples, and hence has become increasingly 'total.'" (Ch. 4). Target: [[periods/early-modern]]; [[periods/age-of-expansion]]; [[concepts/strategy]] (limited vs. total).
+
+- "The dynastic form of state set definite limits to what was possible in the constitution of armies... Officers must come from a hereditary class that rarely exceeded two percent of the population." (Ch. 4). Target: [[periods/early-modern]] (social limits on dynastic warfare).
+
+- "Professional armies were expensive. Each soldier represented a heavy investment... Armies... were immobilized near their bases... Battle was a tremendous risk... Military thinkers held that a state might suffer almost as much by victory as by defeat." (Ch. 4). Target: [[hubs/warfare/strategy]]; [[concepts/strategy]] (cautious character of dynastic war).
+
+**Range summary paragraph:** This PDF range (pp. 1-150) covers front matter, acknowledgments, Peter Paret's Introduction (defining strategy in Clausewitzian and broader terms, situating the 1986 volume as successor to Earle's 1943 Makers of Modern Strategy, and framing the history of strategic thought as applied reason interacting with social/political/economic context), and the opening of Part One on the origins of modern war. It includes Felix Gilbert's analysis of Machiavelli as the figure who tied military reform to political transformation and rejected condottieri in favor of militia; Gunther E. Rothenberg on the 17th-century military revolution's advances in discipline, tactics (volley/linear), and state control of force (Maurice, Gustavus, Montecuccoli); Henry Guerlac on Vauban's scientific contributions to fortification (three "systems," especially second system's defense-in-depth and dual offensive/defensive role for fortresses as bases) and evolving strategic thought; and the start of R. R. Palmer on the shift from dynastic (professional, limited, siege-oriented, class-bound) to national war (citizen armies, mobile, totalizing) in the Frederick/Guibert era, with explicit links back to Machiavelli's anticipations. The slice grounds the intellectual and institutional transition to modern strategy, with emphasis on context-idea interaction rather than technology alone. All claims drawn exclusively from OCR of this range; suitable for appending to source page under Range 0.
 
 ## Range 4 Extraction (PDF pp. 451-600 | Part Four: The Political Leader as Strategist (Craig ch17), Men against Fire: The Doctrine of the Offensive in 1914 (Howard ch18), German Strategy in the Age of Machine Warfare 1914-1945 (Geyer ch19); references to air power, Soviet strategy, Liddell Hart)
 
