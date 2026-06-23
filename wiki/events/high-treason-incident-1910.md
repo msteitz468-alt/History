@@ -12,8 +12,8 @@ location:
   - Tokyo, Japan
 actors_primary:
   - "[[kotoku-shusui]]"
-  - "[[kanno-suga]]"
-  - "[[miyashita-taikichi]]"
+  - "kanno suga"
+  - "miyashita taikichi"
 actors_secondary:
   - "[[katsura-taro]]"
   - "[[emperor-meiji]]"
@@ -21,10 +21,10 @@ event_type: political
 scale_immediate: civilizational
 scale_consequential: civilizational
 causes:
-  - "[[japanese-anarchist-movement]]"
-  - "[[meiji-repression-of-socialism]]"
+  - "japanese anarchist movement"
+  - "meiji repression of socialism"
 consequences:
-  - "[[suppression-of-japanese-socialism-1910s]]"
+  - "suppression of japanese socialism 1910s"
   - "[[death-of-emperor-meiji-1912]]"
 sources_ingested: 1
 last_updated: 2026-06-22
@@ -82,20 +82,20 @@ having "inspired the others with his anarchist teachings."
 
 ## Causal Analysis
 
-- `caused_by: [[japanese-anarchist-movement]]` — The direct organizational cause was the
+- `caused_by: japanese anarchist movement` — The direct organizational cause was the
   network of anarchist cells that formed in the years after Kōtoku's return from the United
   States in 1906, radicalized by his preaching of direct action.
-- `caused_by: [[meiji-repression-of-socialism]]` — State suppression, including the Security
+- `caused_by: meiji repression of socialism` — State suppression, including the Security
   Police Law (1900), successive bans on socialist publications, and imprisonment of leaders,
   pushed the movement from parliamentary socialism toward anarchism.
 - `contributed_to: [[russo-japanese-war-1904]]` — The war era heightened both nationalist
   fervor and socialist-pacifist opposition, sharpening the conflict.
-- `preceded_by: [[red-flag-incident-1908]]` — The 1908 crackdown on hard-line anarchists
+- `preceded_by: red flag incident 1908` — The 1908 crackdown on hard-line anarchists
   accelerated radicalization and intensified police surveillance.
 
 ## Consequence Analysis
 
-- `produced: [[suppression-of-japanese-socialism-1910s]]` — Keene observes that the
+- `produced: suppression of japanese socialism 1910s` — Keene observes that the
   convictions "satisfied the authorities who were eager to stamp out socialism. It would take
   another decade for the socialists to emerge from the winter of their discontent."
 - `enabled: [[death-of-emperor-meiji-1912]]` — The shock of learning that any of his subjects
@@ -109,9 +109,9 @@ having "inspired the others with his anarchist teachings."
 
 - **[[kotoku-shusui]]**: Spiritual mentor of Japanese anarchism; journalist, pacifist, translator
   of the *Communist Manifesto*; executed January 24–25, 1911.
-- **[[kanno-suga]]**: The most operationally committed of the conspirators; drew the "lucky
+- **kanno suga**: The most operationally committed of the conspirators; drew the "lucky
   number" to throw the first bomb; executed.
-- **[[miyashita-taikichi]]**: Organizer of the actual bomb-making; the plot's operational core.
+- **miyashita taikichi**: Organizer of the actual bomb-making; the plot's operational core.
 - **[[katsura-taro]]**: Prime minister who reported the verdicts to the emperor and later
   implemented the commutations.
 - **[[emperor-meiji]]**: The intended victim; reportedly distressed on learning of the trial

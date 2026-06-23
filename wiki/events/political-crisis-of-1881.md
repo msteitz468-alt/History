@@ -15,7 +15,7 @@ actors_primary:
   - "[[okuma-shigenobu|Ōkuma Shigenobu]]"
 actors_secondary:
   - "[[itagaki-taisuke|Itagaki Taisuke]]"
-  - "[[kuroda-kiyotaka|Kuroda Kiyotaka]]"
+  - "Kuroda Kiyotaka"
   - "[[iwakura-tomomi|Iwakura Tomomi]]"
 event_type: political
 scale_immediate: civilizational
@@ -29,7 +29,7 @@ consequences:
   - "Forced resignation of Ōkuma Shigenobu from the government"
   - "Imperial rescript of October 12, 1881, promising a parliament by 1890"
   - "Cancellation of the Hokkaidō Development Office property sale"
-  - "[[jiyu-to|Founding of the Jiyū-tō (Party of Liberty)]]"
+  - "[[meiji-political-parties|Founding of the Jiyū-tō (Party of Liberty)]]"
   - "[[meiji-constitution-1889|Meiji Constitution (1889)]]" — the crisis set in motion the decade-long drafting process
 sources_ingested: 1
 last_updated: 2026-06-22

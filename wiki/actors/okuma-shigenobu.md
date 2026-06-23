@@ -6,9 +6,9 @@ date_end: 1922 CE
 period: [Long 19th Century]
 region: [japan, east-asia]
 affiliated_with: [Meiji government (1868–1881), Kaishintō (Constitutional Progressive Party), Waseda University, second cabinet (1898)]
-opposed_by: [[[ito-hirobumi]], Satsuma-Chōshū clique, Yamagata Aritomo faction]
+opposed_by: [ito hirobumi, Satsuma-Chōshū clique, Yamagata Aritomo faction]
 key_events: ["Political Crisis of 1881 — forced out of government", "founding of Kaishintō 1882", "first general election 1890", "first Diet session 1890", "prime minister 1898 and 1914–1916"]
-key_processes: [[[freedom-and-popular-rights-movement]], [[meiji-political-parties]], [[meiji-modernization]]]
+key_processes: [freedom and popular rights movement, [[meiji-political-parties]], [[meiji-modernization]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, person, long-19th-century, japan, east-asia]

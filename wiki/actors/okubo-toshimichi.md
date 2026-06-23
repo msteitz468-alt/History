@@ -13,7 +13,7 @@ key_events:
   - "[[saga-rebellion-1874]] — traveled to Kyūshū to oversee suppression"
   - "[[satsuma-rebellion-1877]] — oversaw the military suppression of his former ally Saigō"
   - "assassination by Shimada Ichirō and five co-conspirators, May 14, 1878"
-key_processes: [[[meiji-modernization]], [[japanese-industrialization]]]
+key_processes: [meiji modernization, [[industrialization]]]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [actor, person, long-19th-century, japan, east-asia]
@@ -25,7 +25,7 @@ tags: [actor, person, long-19th-century, japan, east-asia]
 
 ## Career and Role
 
-Ōkubo rose from the lower ranks of the Satsuma samurai to become one of the three great figures of the Restoration (alongside **[[saigo-takamori|Saigō Takamori]]** and **Kido Takayoshi**). He was a member of the **[[iwakura-mission-1871-1873|Iwakura Mission]]** to Europe and America (1871–73), an experience that transformed his political vision. Unlike Saigō, who had stayed in Japan managing the government, Ōkubo returned convinced that Japan's military and economic gap with the West was vast and that the priority must be internal development, not overseas adventure.
+Ōkubo rose from the lower ranks of the Satsuma samurai to become one of the three great figures of the Restoration (alongside **[[saigo-takamori|Saigō Takamori]]** and **Kido Takayoshi**). He was a member of the **[[iwakura-mission-1871|Iwakura Mission]]** to Europe and America (1871–73), an experience that transformed his political vision. Unlike Saigō, who had stayed in Japan managing the government, Ōkubo returned convinced that Japan's military and economic gap with the West was vast and that the priority must be internal development, not overseas adventure.
 
 This conviction drove his opposition to the **[[seikanron-1873|Korea invasion proposal of 1873]]**. Working with Iwakura Tomomi, he secured the emperor's backing against Saigō and effectively forced the latter — along with Itagaki Taisuke and Etō Shimpei — out of the government. The personal cost was immense: Saigō had been his closest political ally since youth, and Satsuma samurai across the country blamed Ōkubo for destroying their hero.
 

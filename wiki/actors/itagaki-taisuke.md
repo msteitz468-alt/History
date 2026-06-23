@@ -8,8 +8,8 @@ period:
 region:
   - japan
 affiliated_with:
-  - "[[risshi-sha|Risshi-sha (Self-Help Society)]]"
-  - "[[jiyu-to|Jiyū-tō (Party of Liberty)]]"
+  - "[[freedom-and-popular-rights-movement|Risshi-sha (Self-Help Society)]]"
+  - "[[meiji-political-parties|Jiyū-tō (Party of Liberty)]]"
   - "[[freedom-and-popular-rights-movement|Freedom and Popular Rights Movement]]"
 opposed_by:
   - "[[meiji-oligarchs|Meiji oligarchs]]"

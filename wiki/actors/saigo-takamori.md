@@ -8,7 +8,7 @@ period:
 region:
   - japan
 affiliated_with:
-  - "[[satsuma-domain|Satsuma domain]]"
+  - "Satsuma domain"
   - "[[meiji-restoration-1868|Meiji Restoration forces]]"
 opposed_by:
   - "[[meiji-oligarchs|Meiji oligarchs]]"

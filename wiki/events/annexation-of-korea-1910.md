@@ -14,20 +14,20 @@ location:
 actors_primary:
   - "[[emperor-meiji]]"
   - "[[katsura-taro]]"
-  - "[[korean-empire]]"
+  - "korean empire"
 actors_secondary:
-  - "[[yi-wangyong]]"
+  - "yi wangyong"
   - "[[yamagata-aritomo]]"
 event_type: political
 scale_immediate: civilizational
 scale_consequential: hemispheric
 causes:
   - "[[russo-japanese-war-1904]]"
-  - "[[japanese-imperialism-meiji]]"
+  - "[[japanese-imperialism]]"
   - "[[korea-protectorate-1905]]"
 consequences:
-  - "[[japanese-colonial-korea]]"
-  - "[[korean-independence-movement]]"
+  - "japanese colonial korea"
+  - "korean independence movement"
 sources_ingested: 1
 last_updated: 2026-06-22
 tags:
@@ -72,22 +72,22 @@ state-adjacent Japanese culpability in the 1895 assassination of the Korean quee
   Portsmouth Treaty (1905), which recognized Japan's "paramount interests" in Korea.
 - `caused_by: [[korea-protectorate-1905]]` — The Eulsa Treaty (1905) established the
   protectorate and set up the Residency-General; annexation in 1910 was its logical completion.
-- `caused_by: [[japanese-imperialism-meiji]]` — The broader process of Meiji-era imperial
+- `caused_by: [[japanese-imperialism]]` — The broader process of Meiji-era imperial
   expansion, grounded in the Meiji state's strategic logic of creating a buffer zone and
   controlling Korea to prevent it from being used as a base by hostile powers.
-- `contributed_to: [[sino-japanese-war-1894]]` — Korea had been the original battleground of
+- `contributed_to: [[first-sino-japanese-war-1894-1895]]` — Korea had been the original battleground of
   Sino-Japanese rivalry; the 1895 Treaty of Shimonoseki formally ended Qing suzerainty over
   Korea, clearing the path for Japanese domination.
 
 ## Consequence Analysis
 
-- `produced: [[japanese-colonial-korea]]` — Thirty-five years of Japanese colonial rule
+- `produced: japanese colonial korea` — Thirty-five years of Japanese colonial rule
   (1910–1945), marked by cultural suppression, forced labor mobilization, and eventual
   dissolution of Korean independence.
-- `produced: [[korean-independence-movement]]` — The annexation galvanized Korean nationalist
+- `produced: korean independence movement` — The annexation galvanized Korean nationalist
   resistance, including the March 1st Movement (1919) and the establishment of the Korean
   Provisional Government in Shanghai.
-- `enabled: [[japanese-empire-expansion-1930s]]` — Korea became an industrial and agricultural
+- `enabled: japanese empire expansion 1930s` — Korea became an industrial and agricultural
   base for subsequent Japanese expansion into Manchuria and China.
 - `concurrent_with: [[high-treason-incident-1910]]` — In the same year, the Japanese state
   suppressed domestic anarchism, illustrating the dual face of Meiji-era power at its apex.
@@ -97,7 +97,7 @@ state-adjacent Japanese culpability in the 1895 assassination of the Korean quee
 - **[[emperor-meiji]]**: In whose name the annexation was effected; the Meiji state's imperial
   expansion culminated in this act in the final years of his reign.
 - **[[katsura-taro]]**: Prime minister during the annexation; signed the treaty.
-- **[[korean-empire]]**: The state dissolved by the treaty.
+- **korean empire**: The state dissolved by the treaty.
 - **[[yamagata-aritomo]]**: Genrō who had long advocated Japanese hegemony over Korea as a
   strategic necessity.
 

@@ -10,8 +10,8 @@ region:
   - east-asia
 affiliated_with:
   - "[[emperor-meiji]]"
-  - "[[imperial-japanese-army]]"
-  - "[[gakushuin-school]]"
+  - "imperial japanese army"
+  - "gakushuin school"
 opposed_by: []
 key_events:
   - "[[russo-japanese-war-1904]]"
@@ -19,7 +19,7 @@ key_events:
   - "[[death-of-emperor-meiji-1912]]"
   - "[[nogi-junshi-1912]]"
 key_processes:
-  - "[[meiji-military-culture]]"
+  - "meiji military culture"
 sources_ingested: 1
 last_updated: 2026-06-22
 tags:

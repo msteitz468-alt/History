@@ -6,8 +6,8 @@ date_precision: exact
 period: [Long 19th Century]
 region: [japan, east-asia]
 location: [Japan]
-actors_primary: [[[emperor-meiji]], [[yamagata-aritomo]]]
-actors_secondary: [[[ito-hirobumi]], [[itagaki-taisuke]]]
+actors_primary: [emperor meiji, [[yamagata-aritomo]]]
+actors_secondary: [ito hirobumi, [[itagaki-taisuke]]]
 event_type: political
 scale_immediate: civilizational
 scale_consequential: civilizational

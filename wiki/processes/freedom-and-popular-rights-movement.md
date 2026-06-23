@@ -15,7 +15,7 @@ driven_by:
   - "Influence of Western liberal and republican political thought"
   - "Yamagata Aritomo's December 1879 letter acknowledging the movement's legitimating grievances"
 produces:
-  - "[[jiyu-to|Jiyū-tō (Party of Liberty)]]"
+  - "[[meiji-political-parties|Jiyū-tō (Party of Liberty)]]"
   - "[[political-crisis-of-1881|Political crisis of 1881]]"
   - "Imperial rescript of October 1881 promising parliament by 1890"
   - "[[meiji-constitution-1889|Meiji Constitution (1889)]]" — as the long-term institutional response

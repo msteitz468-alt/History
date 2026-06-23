@@ -6,8 +6,8 @@ date_precision: exact
 period: [Long 19th Century]
 region: [japan, east-asia]
 location: [Tokyo]
-actors_primary: [[[emperor-meiji]], [[inoue-kowashi]]]
-actors_secondary: [[[motoda-nagazane]], [[yamagata-aritomo]]]
+actors_primary: [emperor meiji, [[inoue-kowashi]]]
+actors_secondary: [motoda nagazane, [[yamagata-aritomo]]]
 event_type: political
 scale_immediate: civilizational
 scale_consequential: civilizational
@@ -19,7 +19,7 @@ consequences:
   - produced: "a mandatory loyalty oath embedded in Japanese public education until 1945"
   - enabled: "emperor-worship rituals in schools — photographs of the emperor and empress were distributed to schools and teachers and students were commanded to bow before them on three major holidays"
   - contributed_to: "[[japanese-militarism]] — the Rescript's injunction that subjects 'offer yourselves courageously to the State' if emergency arose became a foundation of militarist ideology"
-  - produced: "[[meiji-shinto-state]] — deepened the merger of Shintō identity and civic obligation"
+  - produced: "meiji shinto state — deepened the merger of Shintō identity and civic obligation"
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [event, long-19th-century, japan, east-asia]

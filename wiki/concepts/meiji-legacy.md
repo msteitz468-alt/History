@@ -117,9 +117,9 @@ constrained in ways even he may not have known.
 ## Relation to Broader Historiography
 
 The Meiji legacy concept intersects with several standing historiographical controversies:
-- `analogous_to: [[great-man-vs-structural-causation]]` — The debate about Meiji's personal
+- `analogous_to: great man vs structural causation` — The debate about Meiji's personal
   agency is a case study in the Great Man problem.
-- `contrasts_with: [[showa-emperor-responsibility]]` — The nearly universal praise for Meiji
+- `contrasts_with: showa emperor responsibility` — The nearly universal praise for Meiji
   stands in sharp contrast to the contested responsibility of Hirohito for the Pacific War,
   raising questions about how imperial accountability is constructed in Japanese historiography.
 - `part_of: [[meiji-restoration-1868]]` — All assessments of Meiji's legacy are assessments

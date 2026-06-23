@@ -1,16 +1,16 @@
 ---
 title: Indian Ocean Trade (the Making of Maritime Communities)
 date_start: "antiquity; intensifying c. 500 CE"
-date_end: "c. 1500 CE (transformed by Portuguese entry)"
+date_end: "ongoing (transformed by Portuguese entry, later European colonialism, and 20th-c. Asian resurgence)"
 date_precision: century
 period: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 region: [indian-ocean, south-asia, southeast-asia, near-east, arabian-peninsula, east-africa, horn-of-africa, china]
 process_type: economic
 driven_by: ["the monsoon wind system", "local fishing and sailing communities", "Hindu, Muslim, Buddhist, and Jewish merchant institutions", "South Indian merchant guilds", "the demand of the Chinese and Islamic 'engines'", [[afro-eurasian-world-system]]]
 produces: ["a poly-religious maritime trading world", "the Islamization of coastal Southeast Asia and East Africa", "the Swahili and Gujarati port cities", "cross-cultural transmission of goods, faiths, and ideas"]
-sources_ingested: 4
-last_updated: 2026-06-12
-tags: [process, early-middle-ages, high-middle-ages, late-middle-ages, early-modern, indian-ocean]
+sources_ingested: 5
+last_updated: 2026-06-23
+tags: [process, early-middle-ages, high-middle-ages, late-middle-ages, early-modern, long-19th-century, indian-ocean]
 ---
 
 ## Definition and Scope

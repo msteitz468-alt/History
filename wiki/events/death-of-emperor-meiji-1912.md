@@ -12,22 +12,22 @@ location:
   - Tokyo; Kyoto (Fushimi Momoyama), Japan
 actors_primary:
   - "[[emperor-meiji]]"
-  - "[[emperor-taisho]]"
+  - "emperor taisho"
   - "[[nogi-maresuke]]"
 actors_secondary:
-  - "[[empress-shoken]]"
+  - "empress shoken"
   - "[[katsura-taro]]"
   - "[[yamagata-aritomo]]"
 event_type: political
 scale_immediate: civilizational
 scale_consequential: hemispheric
 causes:
-  - "[[meiji-declining-health-1911-1912]]"
-  - "[[uremia-diabetes-complications]]"
+  - "meiji declining health 1911 1912"
+  - "uremia diabetes complications"
 consequences:
-  - "[[taisho-era-japan]]"
+  - "taisho era japan"
   - "[[nogi-junshi-1912]]"
-  - "[[meiji-shrine-construction]]"
+  - "meiji shrine construction"
 sources_ingested: 1
 last_updated: 2026-06-22
 tags:
@@ -129,7 +129,7 @@ panegyric once he died.
 
 ## Causal Analysis
 
-- `caused_by: [[meiji-declining-health-1911-1912]]` — Cumulative deterioration from diabetes
+- `caused_by: meiji declining health 1911 1912` — Cumulative deterioration from diabetes
   (diagnosed 1904), chronic hepatitis (1906), and the physical demands he continued to impose
   on himself through maneuvers and public ceremonies.
 - `contributed_to: [[high-treason-incident-1910]]` — Keene suggests that learning for the
@@ -140,11 +140,11 @@ panegyric once he died.
 
 ## Consequence Analysis
 
-- `produced: [[taisho-era-japan]]` — The Taishō emperor succeeded; the new reign-name
+- `produced: taisho era japan` — The Taishō emperor succeeded; the new reign-name
   opened a period of greater democratic experimentation before the militarist turn of the 1930s.
 - `produced: [[nogi-junshi-1912]]` — General Nogi and his wife committed suicide that night,
   interpreting the emperor's death as their moment of final obligation.
-- `enabled: [[meiji-shrine-construction]]` — The Tokyo shrine to the deified emperor was
+- `enabled: meiji shrine construction` — The Tokyo shrine to the deified emperor was
   built in the absence of a nearby tomb; it remains the most-visited shrine in Japan at New Year.
 - `produced: [[meiji-legacy]]` — The emperor's death crystallized the interpretive question
   of his legacy and historical significance.
@@ -153,10 +153,10 @@ panegyric once he died.
 
 - **[[emperor-meiji]]**: Died July 30, 1912; stoic to the end, attending a university graduation
   ceremony and a Privy Council session in the weeks before his fatal collapse.
-- **[[emperor-taisho]]**: Succeeded immediately on the night of July 30; was suffering from
+- **emperor taisho**: Succeeded immediately on the night of July 30; was suffering from
   chicken pox and unable to attend his father's deathbed.
 - **[[nogi-maresuke]]**: Committed *junshi* on the night of the funeral, September 13.
-- **[[empress-shoken]]**: Managed the deathbed, recalled the emperor's wish for Momoyama
+- **empress shoken**: Managed the deathbed, recalled the emperor's wish for Momoyama
   interment, presided over the succession ceremony.
 - **[[katsura-taro]]**: Prime minister; wrote the funeral eulogy read by Emperor Taishō.
 

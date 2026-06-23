@@ -76,7 +76,7 @@ The Meiji constitutional design systematically limited party power:
 1. Cabinet responsible to the emperor, not the Diet
 2. If the House rejected the budget, the previous year's budget automatically applied — blunting
    the most powerful parliamentary weapon
-3. House of Peers (unelected, stocked with the new [[meiji-peerage]]) could veto House of
+3. House of Peers (unelected, stocked with the new meiji peerage) could veto House of
    Representatives legislation
 4. Privy Council had wide advisory powers on constitutional matters
 5. Military ministers had to be serving generals or admirals — giving the army and navy a veto

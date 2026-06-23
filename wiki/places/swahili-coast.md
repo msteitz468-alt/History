@@ -7,9 +7,9 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [Swahili city-states, Kilwa Sultanate]
 events_here: []
 processes_here: [[[indian-ocean-trade]], [[trans-saharan-trade]]]
-sources_ingested: 9
-last_updated: 2026-06-14
-tags: [place, east-africa, indian-ocean, high-middle-ages]
+sources_ingested: 10
+last_updated: 2026-06-23
+tags: [place, east-africa, indian-ocean, high-middle-ages, early-modern, long-19th-century]
 ---
 
 # The Swahili Coast (Kilwa, Mombasa, and the Stone Towns)
@@ -57,7 +57,7 @@ sent thence to the Chinese court is the era's most famous token of the connectio
 
 The coast shows [[islam|Islam]] and long-distance trade producing an indigenous
 African urban civilization, integrated into the hemispheric economy yet politically
-fragmented into competing city-states. Its history closes the Middle Millennium
+fragmented into competing city-states. Its history closes the Middle Millennium. The arrival of the Portuguese (Vasco da Gama 1498, subsequent conquests) and later the Omani expulsion of the Portuguese (Fort Jesus 1698) and the rise of Zanzibar under Seyyid Said mark the transition into the Early Modern and colonial eras (see [[hall-empires-of-the-monsoon-1996]]).
 abruptly: the Portuguese, rounding the Cape in 1498, sacked Kilwa and Mombasa in the
 early sixteenth century and seized the gold trade, redirecting the coast's fortunes
 into the early-modern era.
