@@ -51,7 +51,7 @@ All verbatim + lines from range; established names only.
 - "library cave at, 24, 167, 168, 169, 173–75, 177–79, 178, 180, 181–83, 187–88, 198, 199, 218–20, 222, 226, 228, 241" (ll. 5717). taxonomy: produced: [[dunhuang]]. Updated [[silk-roads]], [[dunhuang]].
 - "and religious toleration, 241" (ll. 5725). taxonomy: enabled: [[early-middle-ages]]. Updated [[early-middle-ages]], [[central-asia]].
 - "Hejiacun Village Hoard, 152–57, 153–54, 155, 239" (ll. 6297). taxonomy: produced: [[chang-an]]. Updated [[silk-roads]], [[chang-an]].
-- "and Chang’an, 149–50, 150, 159–60" (ll. 5236). taxonomy: concurrent_with: [[chang-an]]. Updated [[chang-an]], [[early-middle-ages]].
+- "and [[chang-an]], 149–50, 150, 159–60" (ll. 5236). taxonomy: concurrent_with: [[chang-an]]. Updated [[chang-an]], [[early-middle-ages]].
 All verbatim from range 5201-7800 index entries; established names only.
 
 **Grounded claims from Hansen Silk Road range 7801-end**:
@@ -59,10 +59,10 @@ All verbatim from range 5201-7800 index entries; established names only.
 - "and itinerant traders, 237–38" (ll. 8960). taxonomy: part_of: [[silk-roads]].
 - "and migrant populations, 239" (ll. 8392). taxonomy: contributed_to: [[silk-roads]].
 - "religious tolerance, 146, 181–82, 241" (ll. 8231). taxonomy: concurrent_with: [[early-middle-ages]].
-- "and the Dunhuang caves, 167–77, 172, 180–81, 196–97" (ll. 8952). taxonomy: part_of: [[dunhuang]].
-- "and Khotan, 176–77, 207, 209, 212" (ll. 8964). taxonomy: part_of: [[khotan]].
+- "and the [[dunhuang]] caves, 167–77, 172, 180–81, 196–97" (ll. 8952). taxonomy: part_of: [[dunhuang]].
+- "and [[khotan]], 176–77, 207, 209, 212" (ll. 8964). taxonomy: part_of: [[khotan]].
 - "woodblock printing, 138, 179, 236" (ll. 9896). taxonomy: produced: [[silk-roads]].
-- "The Dunhuang Caves" (ll. 10428). taxonomy: part_of: [[dunhuang]].
+- "The [[dunhuang]] Caves" (ll. 10428). taxonomy: part_of: [[dunhuang]].
 All verbatim from range; established names only.
 
 ---

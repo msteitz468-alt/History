@@ -45,11 +45,11 @@ All claims verbatim from range; established names only.
 **Grounded claims from Hansen Silk Road range 5201-7800**:
 - "and religious toleration, 241" (ll. 5725). taxonomy: enabled: [[early-middle-ages]]. Updated [[early-middle-ages]], [[central-asia]].
 - "and the Tang dynasty, 184–85, 186–88" (ll. 5749). taxonomy: concurrent_with: [[early-middle-ages]]. Updated [[early-middle-ages]].
-- "and Chang’an, 149–50, 150, 159–60" (ll. 5236). taxonomy: concurrent_with: [[chang-an]]. Updated [[chang-an]], [[early-middle-ages]].
+- "and Chang’an, 149–50, 150, 159–60" (ll. 5236). taxonomy: concurrent_with: Chang’an. Updated Chang’an, [[early-middle-ages]].
 - "Sogdian traders, 43, 81, 104, 116, 119–20, 125, 136, 138, 157–59, 239" (ll. 7514). taxonomy: part_of: [[silk-roads]]. Updated [[silk-roads]], [[central-asia]].
 - "and Zoroastrianism, 118, 181" (ll. 6926). taxonomy: produced: [[silk-roads]]. Updated [[silk-roads]].
 - "Manichaeism in art, 109, color plate 11A and Chang’an, 159 and Dunhuang cave documents, 167, 181, 182–83, 241" (ll. 7366). taxonomy: contributed_to: [[silk-roads]]. Updated [[silk-roads]].
-- "The Diamond Sutra, 24, 179, 183, 236, 241" (ll. 5649). taxonomy: produced: [[dunhuang]]. Updated [[silk-roads]].
+- "The Diamond Sutra, 24, 179, 183, 236, 241" (ll. 5649). taxonomy: produced: Dunhuang. Updated [[silk-roads]].
 All verbatim from range 5201-7800; established names only.
 
 Simultaneously, **[[tang-dynasty|Tang]] China** (618–907) — perhaps "the
@@ -146,10 +146,10 @@ Gaps per CLAUDE.md: the interior of sub-Saharan Africa, Southeast Asia, and Sout
 - "and itinerant traders, 237–38" (ll. 8960). taxonomy: part_of: [[silk-roads]].
 - "and migrant populations, 239" (ll. 8392). taxonomy: contributed_to: [[silk-roads]].
 - "religious tolerance, 146, 181–82, 241" (ll. 8231). taxonomy: concurrent_with: [[early-middle-ages]].
-- "and the Dunhuang caves, 167–77, 172, 180–81, 196–97" (ll. 8952). taxonomy: part_of: [[dunhuang]].
-- "and Khotan, 176–77, 207, 209, 212" (ll. 8964). taxonomy: part_of: [[khotan]].
+- "and the Dunhuang caves, 167–77, 172, 180–81, 196–97" (ll. 8952). taxonomy: part_of: Dunhuang.
+- "and Khotan, 176–77, 207, 209, 212" (ll. 8964). taxonomy: part_of: Khotan.
 - "printing, 138, 179, 236. See also paper" (ll. 8105). taxonomy: produced: [[silk-roads]].
 - "woodblock printing, 138, 179, 236" (ll. 9896). taxonomy: produced: [[silk-roads]].
-- "The Dunhuang Caves" (ll. 10428). taxonomy: part_of: [[dunhuang]].
-- "CHAPTER 7 Entryway into Xinjiang for Buddhism and Islam" (ll. 10451). taxonomy: part_of: [[khotan]].
+- "The Dunhuang Caves" (ll. 10428). taxonomy: part_of: Dunhuang.
+- "CHAPTER 7 Entryway into Xinjiang for Buddhism and Islam" (ll. 10451). taxonomy: part_of: Khotan.
 All verbatim from range; established names only.

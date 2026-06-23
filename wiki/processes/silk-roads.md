@@ -100,14 +100,14 @@ monasteries across Central Asia.
 - "In the sixth and seventh centuries, most of the Sogdians in Turfan were Zoroastrians, not Manichaeans." (ll. 774). taxonomy: concurrent_with: [[silk-roads]].
 
 **Grounded claims from Hansen Silk Road range 5201-7800**:
-- "library cave at, 24, 167, 168, 169, 173–75, 177–79, 178, 180, 181–83, 187–88, 198, 199, 218–20, 222, 226, 228, 241" (ll. 5717). taxonomy: produced: [[dunhuang]]. Updated [[silk-roads]], [[dunhuang]].
-- "The Diamond Sutra, 24, 179, 183, 236, 241" (ll. 5649). taxonomy: produced: [[dunhuang]]. Updated [[silk-roads]].
+- "library cave at, 24, 167, 168, 169, 173–75, 177–79, 178, 180, 181–83, 187–88, 198, 199, 218–20, 222, 226, 228, 241" (ll. 5717). taxonomy: produced: Dunhuang. Updated [[silk-roads]], Dunhuang.
+- "The Diamond Sutra, 24, 179, 183, 236, 241" (ll. 5649). taxonomy: produced: Dunhuang. Updated [[silk-roads]].
 - "and religious toleration, 241" (ll. 5725). taxonomy: enabled: [[early-middle-ages]]. Updated [[early-middle-ages]], [[central-asia]].
 - "Sogdian traders, 43, 81, 104, 116, 119–20, 125, 136, 138, 157–59, 239" (ll. 7514). taxonomy: part_of: [[silk-roads]]. Updated [[silk-roads]], [[central-asia]].
-- "Hejiacun Village Hoard, 152–57, 153–54, 155, 239" (ll. 6297). taxonomy: produced: [[chang-an]]. Updated [[silk-roads]], [[chang-an]].
-- "and Chang’an, 149–50, 150, 159–60" (ll. 5236). taxonomy: concurrent_with: [[chang-an]]. Updated [[chang-an]], [[early-middle-ages]].
+- "Hejiacun Village Hoard, 152–57, 153–54, 155, 239" (ll. 6297). taxonomy: produced: Chang’an. Updated [[silk-roads]], Chang’an.
+- "and Chang’an, 149–50, 150, 159–60" (ll. 5236). taxonomy: concurrent_with: Chang’an. Updated Chang’an, [[early-middle-ages]].
 - "Manichaeism in art, 109, color plate 11A and Chang’an, 159 and Dunhuang cave documents, 167, 181, 182–83, 241" (ll. 7366). taxonomy: contributed_to: [[silk-roads]]. Updated [[silk-roads]].
-- "cosmopolitanism, 30, 83, 128, 167, 181–82. See also Chang’an" (ll. 5344). taxonomy: part_of: [[chang-an]]. Updated [[silk-roads]], [[chang-an]].
+- "cosmopolitanism, 30, 83, 128, 167, 181–82. See also Chang’an" (ll. 5344). taxonomy: part_of: Chang’an. Updated [[silk-roads]], Chang’an.
 - "and Zoroastrianism, 118, 181" (ll. 6926). taxonomy: produced: [[silk-roads]]. Updated [[silk-roads]].
 - "and the Sogdian Ancient Letters, 116–19" (ll. 5741). taxonomy: contributed_to: [[silk-roads]]. Updated [[silk-roads]].
 All claims verbatim from range 5201-7800 index; established names only.
@@ -170,9 +170,9 @@ of epidemic disease, which travelled the same relays as silk.
 - "printing, 138, 179, 236. See also paper" (ll. 8105). taxonomy: produced: [[silk-roads]].
 - "woodblock printing, 138, 179, 236" (ll. 9896). taxonomy: produced: [[silk-roads]].
 - "religious tolerance, 146, 181–82, 241" (ll. 8231). taxonomy: concurrent_with: [[early-middle-ages]].
-- "and the Dunhuang caves, 167–77, 172, 180–81, 196–97" (ll. 8952). taxonomy: part_of: [[dunhuang]].
-- "and Khotan, 176–77, 207, 209, 212" (ll. 8964). taxonomy: part_of: [[khotan]].
-- "The Dunhuang Caves" (ll. 10428). taxonomy: part_of: [[dunhuang]].
+- "and the Dunhuang caves, 167–77, 172, 180–81, 196–97" (ll. 8952). taxonomy: part_of: Dunhuang.
+- "and Khotan, 176–77, 207, 209, 212" (ll. 8964). taxonomy: part_of: Khotan.
+- "The Dunhuang Caves" (ll. 10428). taxonomy: part_of: Dunhuang.
 - "Conclusion The History of the Overland Routes through Central Asia" (ll. 10453). taxonomy: contrasts_with: [[silk-roads]].
 All verbatim from range; established names only.
 

@@ -77,12 +77,12 @@ scale, not character."
 - [[mongol-empire]] — the conquest that produced the Yuan; [[east-asian-cultural-sphere|the East Asian sphere]] China anchored.
 
 **Grounded claims from Hansen Silk Road range 5201-7800**:
-- "and Chang’an, 17, 34, 65, 141, 143, 147" (ll. 5993). taxonomy: preceded_by: [[classical-antiquity]]. Updated [[china]].
-- "and Chang’an, 149–50, 150, 159–60" (ll. 5236). taxonomy: concurrent_with: [[chang-an]]. Updated [[china]], [[chang-an]].
-- "Eastern Market (Chang’an), 142, 148" (ll. 5574). taxonomy: part_of: [[chang-an]]. Updated [[china]].
-- "in Chang’an markets, 148–49, 157–58" (ll. 7346). taxonomy: contributed_to: [[chang-an]]. Updated [[china]].
+- "and [[chang-an]], 17, 34, 65, 141, 143, 147" (ll. 5993). taxonomy: preceded_by: [[classical-antiquity]]. Updated [[china]].
+- "and [[chang-an]], 149–50, 150, 159–60" (ll. 5236). taxonomy: concurrent_with: [[chang-an]]. Updated [[china]], [[chang-an]].
+- "Eastern Market ([[chang-an]]), 142, 148" (ll. 5574). taxonomy: part_of: [[chang-an]]. Updated [[china]].
+- "in [[chang-an]] markets, 148–49, 157–58" (ll. 7346). taxonomy: contributed_to: [[chang-an]]. Updated [[china]].
 - "Sogdian traders, 43, 81, 104, 116, 119–20, 125, 136, 138, 157–59, 239" (ll. 7514). taxonomy: part_of: [[silk-roads]]. Updated [[china]], [[silk-roads]].
 - "and Sogdian merchants, 159" (ll. 7248). taxonomy: part_of: [[silk-roads]]. Updated [[china]].
-- "cosmopolitanism, 30, 83, 128, 167, 181–82. See also Chang’an" (ll. 5344). taxonomy: part_of: [[chang-an]]. Updated [[china]].
+- "cosmopolitanism, 30, 83, 128, 167, 181–82. See also [[chang-an]]" (ll. 5344). taxonomy: part_of: [[chang-an]]. Updated [[china]].
 - "Hejiacun Village Hoard, 152–57, 153–54, 155, 239" (ll. 6297). taxonomy: produced: [[chang-an]]. Updated [[china]], [[chang-an]].
 All verbatim from range 5201-7800; established names only.

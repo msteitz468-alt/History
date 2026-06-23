@@ -68,11 +68,11 @@ uneven, **[[afro-eurasian-world-system|world system of exchange]]** — and in
 **Lint/Compliance Notes**: Range-exclusive; verbatim+lines from cache; established names only; CLAUDE.md compliant. Asia/China circuits and system integration claims.
 - "and migrant populations, 239" (ll. 8392). taxonomy: contributed_to: [[silk-roads]].
 - "religious tolerance, 146, 181–82, 241" (ll. 8231). taxonomy: concurrent_with: [[early-middle-ages]].
-- "and the Dunhuang caves, 167–77, 172, 180–81, 196–97" (ll. 8952). taxonomy: part_of: [[dunhuang]].
-- "and Khotan, 176–77, 207, 209, 212" (ll. 8964). taxonomy: part_of: [[khotan]].
+- "and the Dunhuang caves, 167–77, 172, 180–81, 196–97" (ll. 8952). taxonomy: part_of: Dunhuang.
+- "and Khotan, 176–77, 207, 209, 212" (ll. 8964). taxonomy: part_of: Khotan.
 - "printing, 138, 179, 236. See also paper" (ll. 8105). taxonomy: produced: [[silk-roads]].
 - "woodblock printing, 138, 179, 236" (ll. 9896). taxonomy: produced: [[silk-roads]].
-- "The Dunhuang Caves" (ll. 10428). taxonomy: part_of: [[dunhuang]].
+- "The Dunhuang Caves" (ll. 10428). taxonomy: part_of: Dunhuang.
 All verbatim from range; established names only.
 
 **Grounded claims from Abu-Lughod Before European Hegemony range 1-3500**:
