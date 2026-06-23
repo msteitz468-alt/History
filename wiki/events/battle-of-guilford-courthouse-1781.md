@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Battle of Guilford Courthouse (15 March 1781)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-guilford-courthouse|Guilford Courthouse — Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 The **Pyrrhic victory** that broke Cornwallis's army in the South. After the "Race to the Dan,"
 **[[greene-nathanael|Greene]]** — reinforced to over 4,000 and outnumbering [[cornwallis-charles|
 Cornwallis]]'s ~1,400 by more than two to one — chose to stand at Guilford Courthouse.

@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Battles of Saratoga (September–October 1777)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/battles-of-saratoga|Saratoga — Operational & Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 The **turning point of the [[american-revolution|Revolution]]**: the surrender of an entire British
 army that brought **France into the war**. General **[[burgoyne-john|John Burgoyne]]** invaded from
 Canada down the Hudson corridor to sever New England, but the supporting prongs failed —

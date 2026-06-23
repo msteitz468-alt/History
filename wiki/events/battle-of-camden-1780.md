@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Battle of Camden (16 August 1780)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-camden|Camden — Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 The rout that destroyed the second American southern army and seemingly confirmed British conquest of
 the Carolinas. **[[gates-horatio|Horatio Gates]]**, the "hero of [[battles-of-saratoga-1777|Saratoga]],"
 marched a hungry, fever-ridden force south to challenge **[[cornwallis-charles|Cornwallis]]**.

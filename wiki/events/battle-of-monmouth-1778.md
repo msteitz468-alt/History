@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Battle of Monmouth (28 June 1778)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-monmouth|Monmouth — Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 The proof that **[[valley-forge-1777|Valley Forge]] had remade the army**. When the
 [[franco-american-alliance-1778|French alliance]] forced Britain onto the defensive,
 [[clinton-henry|Clinton]] evacuated Philadelphia and marched 10,000 men across New Jersey to New York;

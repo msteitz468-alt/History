@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Battle of Brandywine (11 September 1777)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-brandywine|Brandywine — Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 The battle that opened the road to **Philadelphia**, the rebel capital. Landing 15,000 men at Head of
 Elk after a brutal sea voyage, [[howe-william|Howe]] advanced on the city; [[washington-george|
 Washington]] stood to defend the **Brandywine Creek** crossings at Chadds Ford.

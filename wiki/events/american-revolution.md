@@ -56,10 +56,36 @@ republic.
 - `produced:` the near-bankruptcy of **France** (whose intervention helped trigger its own
   1789 crisis) and a British reorientation toward Asia and a "second empire."
 
+## Military Dimension
+
+The military history of the war — the conduct of its campaigns, treated in detail from
+*[[west-point-history-american-revolution-2017|The West Point History of the American
+Revolution]]* — is anchored in the dedicated **[[hubs/warfare/age-of-expansion/american-revolutionary-war/american-revolutionary-war|warfare-hub campaign analysis]]**. In outline:
+the war opened at [[battles-of-lexington-and-concord-1775|Lexington and Concord]] and the
+[[siege-of-boston-1775|siege of Boston]]; [[washington-george|Washington]]'s
+[[continental-army|Continental Army]] survived the disasters of 1776
+([[battle-of-long-island-1776|Long Island]]) and struck back at [[battle-of-trenton-1776|
+Trenton]] and [[battle-of-princeton-1777|Princeton]]. The British took Philadelphia
+([[battle-of-brandywine-1777|Brandywine]]), but [[battles-of-saratoga-1777|Saratoga]] (1777)
+brought the decisive [[franco-american-alliance-1778|French alliance]]. After the army's
+professionalization at [[valley-forge-1777|Valley Forge]] and the proving fight at
+[[battle-of-monmouth-1778|Monmouth]], the war shifted south: British triumphs at
+[[siege-of-charleston-1780|Charleston]] and [[battle-of-camden-1780|Camden]] gave way to
+[[greene-nathanael|Greene]]'s war-winning attrition ([[battle-of-cowpens-1781|Cowpens]],
+[[battle-of-guilford-courthouse-1781|Guilford Courthouse]]), ending in the combined-arms,
+coalition victory at [[siege-of-yorktown-1781|Yorktown]] and the [[treaty-of-paris-1783|
+Treaty of Paris]].
+
+The *West Point History* stresses that the **French were indispensable**: "The Continental
+Army did not win the war in America; it was on the winning side." Its achievement was to
+**survive** until foreign intervention — above all French sea power — could tip the balance.
+
 ## Actors
 
-- The **thirteen colonies / United States** (Washington, Jefferson, Franklin) vs. **Great
-  Britain**; **France**, **Spain**, and the **Dutch Republic** as allies of the rebels; Native
+- The **thirteen colonies / United States** ([[washington-george|Washington]], Jefferson,
+  Franklin; the [[continental-army|Continental Army]]) vs. **Great Britain**
+  ([[howe-william|Howe]], [[clinton-henry|Clinton]], [[cornwallis-charles|Cornwallis]]);
+  **France**, **Spain**, and the **Dutch Republic** as allies of the rebels; Native
   nations and **Loyalists** divided by the war. See [[seven-years-war-1756]], [[enlightenment]].
 
 ## Historiography
@@ -73,4 +99,5 @@ excluded the enslaved, women, and Native peoples — tensions that shaped later 
 
 - `caused_by:` the fiscal aftermath of the [[seven-years-war-1756]]; `contributed_to:` [[enlightenment]] ideas.
 - `part_of:` the [[atlantic-revolutions]]; `produced:` a model for the [[french-revolution-1789]].
-- [[age-of-expansion]] — the period; [[new-cambridge-modern-history-v8]] — the source.
+- [[age-of-expansion]] — the period; [[new-cambridge-modern-history-v8]] (political/diplomatic) and [[west-point-history-american-revolution-2017]] (military) — the sources.
+- campaign hub: [[hubs/warfare/age-of-expansion/american-revolutionary-war/american-revolutionary-war|American Revolutionary War — operational analysis]].

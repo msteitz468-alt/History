@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, atlantic-world, north-america]
 
 # The Battle of the Chesapeake (5 September 1781)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-the-chesapeake|The Chesapeake — Naval Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 The naval action that decided the **[[siege-of-yorktown-1781|Yorktown]] campaign** — and, with it, the
 war. As [[washington-george|Washington]] and Rochambeau marched south, the French admiral **de Grasse**
 brought **26 ships of the line** from the West Indies to the Chesapeake; the British **Thomas Graves**

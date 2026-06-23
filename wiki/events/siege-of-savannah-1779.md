@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Siege of Savannah (1779)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/siege-of-savannah|Savannah — Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 The first major test — and failure — of **Franco-American cooperation** in the southern theater. After
 Britain opened its **"southern strategy"** by taking Savannah (December 1778) and Augusta, the French
 fleet of the **comte d'Estaing** descended on the Georgia coast, and with 5,000 French troops joined

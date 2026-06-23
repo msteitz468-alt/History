@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Battle of Long Island (27 August 1776)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-long-island|Long Island — Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 The largest battle of the war and a near-catastrophe for the **[[continental-army|Continental
 Army]]**. Having evacuated [[siege-of-boston-1775|Boston]], the British returned in overwhelming
 force — a "vast armada" of **427 vessels, 24,000 soldiers, and 10,000 sailors** — to take **New

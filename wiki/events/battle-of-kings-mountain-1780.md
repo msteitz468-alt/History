@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Battle of Kings Mountain (7 October 1780)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-kings-mountain|Kings Mountain — Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 A rare and decisive **militia triumph** in the Carolina backcountry civil war. Major **Patrick
 Ferguson**, inspector of Loyalist militia, commanded ~1,100 Loyalists on [[cornwallis-charles|
 Cornwallis]]'s western flank — "unsupported by regular troops" — and threatened the trans-mountain

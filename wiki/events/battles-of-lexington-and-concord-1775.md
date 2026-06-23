@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Battles of Lexington and Concord (19 April 1775)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/battles-of-lexington-and-concord|Lexington & Concord — Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 The first shots of the **[[american-revolution|American Revolution]]**. On the night of 18–19
 April 1775, General **Thomas Gage** — military governor of Massachusetts under the Coercive Acts —
 dispatched roughly **900 light infantry and grenadiers** to seize rebel leaders at Lexington and

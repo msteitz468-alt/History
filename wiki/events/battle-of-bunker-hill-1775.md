@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Battle of Bunker Hill (17 June 1775)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-bunker-hill|Bunker Hill — Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 The first major engagement of the **[[american-revolution|Revolution]]** and one of its bloodiest
 hours for the British — fought, despite its name, mainly on **Breed's Hill**. As the British army
 under siege in [[siege-of-boston-1775|Boston]] prepared to seize the Charlestown Peninsula,

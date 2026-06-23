@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Battle of Trenton (26 December 1776)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-trenton|Trenton — Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 The stroke that saved the **[[american-revolution|Revolution]]** at its lowest ebb. With the army
 shrunken and demoralized after the loss of [[battle-of-long-island-1776|New York]], Congress fled
 to Baltimore, and most enlistments due to expire on New Year's Day, [[washington-george|Washington]]

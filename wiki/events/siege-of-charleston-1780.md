@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Siege of Charleston (1780)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/siege-of-charleston|Charleston — Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 The greatest British battlefield success of the war and "one of the worst American disasters." Having
 finally committed serious resources to the South, [[clinton-henry|Clinton]] sailed from New York with
 **7,600 troops** and laid formal siege to Charleston.

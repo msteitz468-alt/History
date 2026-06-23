@@ -7,8 +7,8 @@ date_range: 1700–1800 CE
 regions_covered: [atlantic-world, western-europe, north-america, caribbean, south-asia, east-asia, indian-ocean, west-africa, central-asia]
 major_themes: [maturing oceanic empires, the first global wars, the eighteenth-century crisis of the Asian land empires, the apex of the Atlantic slave and plantation system, industrious revolutions, the Enlightenment and the Atlantic Revolutions]
 collection_coverage: moderate
-sources_ingested: 4
-last_updated: 2026-06-22
+sources_ingested: 5
+last_updated: 2026-06-23
 tags: [period]
 ---
 
@@ -54,6 +54,13 @@ reshape forced-labor regimes and migration in the following century.
 - **The [[enlightenment|Enlightenment]]**: the eighteenth-century "Age of Reason" — critical
   reason and science applied to religion, politics, and society — and the intellectual seedbed
   of the Atlantic revolutions.
+- **The first successful colonial war of independence**: the **[[american-revolution|American
+  Revolution]]** (1775–83), in which a [[continental-army|Continental Army]] under
+  [[washington-george|Washington]] — surviving the disasters of 1776 and professionalized at
+  [[valley-forge-1777|Valley Forge]] — held on until the [[franco-american-alliance-1778|French
+  alliance]] and French sea power turned the war, ending at [[siege-of-yorktown-1781|Yorktown]].
+  It also founded a national army and a durable settlement of civilian control over the
+  military (see the [[hubs/warfare/age-of-expansion/american-revolutionary-war/american-revolutionary-war|campaign analysis]]).
 - **Collapse of the Asian gunpowder empires**: Mughal disintegration after 1707,
   Safavid fall (1722), Maratha ascendancy, and the British conquest of Bengal
   (from 1757) and defeat of Tipu Sultan of Mysore (1799).

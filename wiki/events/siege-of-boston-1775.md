@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Siege of Boston (1775–1776)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/siege-of-boston|Siege of Boston — Operational Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 The eleven-month investment of British-held Boston that opened the **[[american-revolution|
 Revolutionary War]]** and gave [[washington-george|Washington]] his first command. After
 [[battles-of-lexington-and-concord-1775|Lexington and Concord]], New England militia penned General

@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Battle of Germantown (4 October 1777)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-germantown|Germantown — Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 [[washington-george|Washington]]'s audacious bid to reverse [[battle-of-brandywine-1777|Brandywine]]
 by surprising Howe's main body of ~9,000 outside Philadelphia. Buoyed by news of
 [[battles-of-saratoga-1777|Saratoga]], he exhorted his men that the army "will certainly not allow

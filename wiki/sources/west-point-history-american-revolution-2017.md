@@ -17,8 +17,8 @@ reliability_notes: >
   U.S. Army), which colors emphasis but not factual reliability. The text used was
   an OCR scan: front/back matter is noisy, but the body is clean. Complements the
   political/diplomatic account in [[new-cambridge-modern-history-v8]].
-pages_created: 0
-pages_updated: 0
+pages_created: 54
+pages_updated: 2
 ingested: 2026-06-23
 tags: [source]
 ---
@@ -52,7 +52,51 @@ and the campaigns from Boston to [[siege-of-yorktown-1781|Yorktown]].
 
 ## Claims and Pages
 
-*(filled on reconciliation — see log entry for the full created/updated list)*
+**Warfare hub (deep staff-college analyses — every major engagement, to the locked Cannae standard):**
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/american-revolutionary-war|American Revolutionary War (campaign hub)]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/battles-of-lexington-and-concord|Lexington & Concord]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-bunker-hill|Bunker Hill]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/siege-of-boston|Siege of Boston]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-long-island|Long Island]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-trenton|Trenton]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-princeton|Princeton]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/battles-of-saratoga|Saratoga]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-brandywine|Brandywine]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-germantown|Germantown]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-monmouth|Monmouth]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/siege-of-savannah|Savannah]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/siege-of-charleston|Charleston]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-camden|Camden]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-kings-mountain|Kings Mountain]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-cowpens|Cowpens]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-guilford-courthouse|Guilford Courthouse]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-the-chesapeake|The Chesapeake]] ·
+[[hubs/warfare/age-of-expansion/american-revolutionary-war/siege-of-yorktown|Yorktown]]
+
+**Actors (created):** [[washington-george]] · [[greene-nathanael]] · [[cornwallis-charles]] ·
+[[continental-army]] · [[steuben-friedrich]] · [[morgan-daniel]] · [[howe-william]] ·
+[[clinton-henry]] · [[burgoyne-john]] · [[gates-horatio]] · [[knox-henry]] · [[lafayette]] ·
+[[arnold-benedict]]
+
+**Places (created):** [[west-point]]
+
+**Events (created):** [[battles-of-lexington-and-concord-1775]] · [[battle-of-bunker-hill-1775]] ·
+[[siege-of-boston-1775]] · [[battle-of-long-island-1776]] · [[battle-of-trenton-1776]] ·
+[[battle-of-princeton-1777]] · [[battle-of-brandywine-1777]] · [[battle-of-germantown-1777]] ·
+[[battles-of-saratoga-1777]] · [[franco-american-alliance-1778]] · [[valley-forge-1777]] ·
+[[battle-of-monmouth-1778]] · [[siege-of-savannah-1779]] · [[siege-of-charleston-1780]] ·
+[[battle-of-camden-1780]] · [[battle-of-kings-mountain-1780]] · [[battle-of-cowpens-1781]] ·
+[[battle-of-guilford-courthouse-1781]] · [[battle-of-the-chesapeake-1781]] ·
+[[siege-of-yorktown-1781]] · [[treaty-of-paris-1783]]
+
+**Updated:** [[american-revolution]] (military dimension added; political/diplomatic account from
+[[new-cambridge-modern-history-v8]] retained) · [[age-of-expansion]] (period developments).
+
+**Note on scope:** Chapter 6 ("To the Constitution and beyond") carries the story past 1783 into
+the Confederation's fiscal-military crisis and the **Ohio Indian Wars** (Harmar's and St. Clair's
+defeats, [[continental-army|Wayne's Legion]] at Fallen Timbers, the Whiskey Rebellion). That
+state-formation thread is summarized on the [[continental-army]] and [[fiscal-military-state]]
+pages rather than given separate event pages, keeping this ingest centered on the Revolution.
 
 ## Reliability and Use
 

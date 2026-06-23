@@ -20,6 +20,8 @@ tags: [event, age-of-expansion, north-america]
 
 # The Battle of Princeton (3 January 1777)
 
+> **⚔️ Staff-college tactical analysis:** see **[[hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-princeton|Princeton — Tactical Analysis]]** in the warfare hub for the full order of battle, the phased conduct of the action, and the principles-of-war assessment.
+
 The second blow of the **Trenton-Princeton campaign** that completed the American revival. After
 [[battle-of-trenton-1776|Trenton]], [[cornwallis-charles|Cornwallis]] advanced with 8,000 men to
 trap Washington against the Delaware, boasting he would "bag the Old Fox in the morning."
