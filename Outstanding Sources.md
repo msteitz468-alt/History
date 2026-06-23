@@ -260,7 +260,7 @@ controversy hubs.
 
 | Source | Flag | Status | Notes |
 |---|---|---|---|
-| *The Silk Road* — Valerie Hansen | `[BUY]` | ❌ | Dunhuang-based account |
+| *The Silk Road* — Valerie Hansen | `[BUY]` | ✅ (scaffold + 4 staggered subagent ranges; ~83 grounded claims; Volume Synthesis Note; updated silk-roads.md + periods/hubs; log/index/final bookkeeping) | Documentary synthesis of 7 oasis sites; debunks high-volume trade myth; cultural transmission via migrants. Gap 10/others filled. |
 | *Before European Hegemony: AD 1250–1350* — Janet Abu-Lughod | `[BUY]` | ❌ | foundational world-systems |
 | *Empires of the Monsoon* — Richard Hall | `[BUY]` | ❌ | Indian Ocean trade |
 | *The Indian Ocean in World History* — Edward Alpers | `[BUY]` | ❌ | concise survey |

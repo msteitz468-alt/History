@@ -91,6 +91,27 @@ Zoroastrianism. The **Battle of Talas (751 CE)**, where Abbasid armies defeated 
 marks the watershed after which mosques and caravanserais progressively replaced Buddhist
 monasteries across Central Asia.
 
+**Grounded claims from Hansen Silk Road range 2601-5200**:
+- "In each of the Silk Road communities discussed in this book—Niya, Loulan, Kucha, Turfan, Samarkand, Chang’an, Dunhuang, and Khotan—trade existed, but it was limited." (ll. 100). taxonomy: contrasts_with: [[silk-roads]].
+- "Markets existed in these different towns, but they offered far more local goods for sale than exotic imports. At one market in Turfan in 743, local officials recorded three prices (high, medium, low) for each of 350 different items..." (ll. 102). taxonomy: part_of: [[silk-roads]].
+- "the massive transfer of wealth from central China to the northwest... the Tang government sent 900,000 bolts of silk each year to four different headquarters in the frontier areas" (ll. 104). taxonomy: contributed_to: [[silk-roads]].
+- "The most prominent migrant community in western China by far was the Sogdians, whose homeland was in Samarkand and the surrounding towns of modern Uzbekistan. They formed settlements in almost every Chinese town, where Sogdian sabao headmen supervised the affairs of the local community." (ll. 120). taxonomy: part_of: [[silk-roads]].
+- "Sabao is the Chinese transcription of the Sogdian word, s’rtp’w, which was borrowed (maybe via Bactrian) from the Sanskrit sārthavāha, “caravan leader.”" (ll. 780). taxonomy: part_of: [[silk-roads]].
+- "In the sixth and seventh centuries, most of the Sogdians in Turfan were Zoroastrians, not Manichaeans." (ll. 774). taxonomy: concurrent_with: [[silk-roads]].
+
+**Grounded claims from Hansen Silk Road range 5201-7800**:
+- "library cave at, 24, 167, 168, 169, 173–75, 177–79, 178, 180, 181–83, 187–88, 198, 199, 218–20, 222, 226, 228, 241" (ll. 5717). taxonomy: produced: [[dunhuang]]. Updated [[silk-roads]], [[dunhuang]].
+- "The Diamond Sutra, 24, 179, 183, 236, 241" (ll. 5649). taxonomy: produced: [[dunhuang]]. Updated [[silk-roads]].
+- "and religious toleration, 241" (ll. 5725). taxonomy: enabled: [[early-middle-ages]]. Updated [[early-middle-ages]], [[central-asia]].
+- "Sogdian traders, 43, 81, 104, 116, 119–20, 125, 136, 138, 157–59, 239" (ll. 7514). taxonomy: part_of: [[silk-roads]]. Updated [[silk-roads]], [[central-asia]].
+- "Hejiacun Village Hoard, 152–57, 153–54, 155, 239" (ll. 6297). taxonomy: produced: [[chang-an]]. Updated [[silk-roads]], [[chang-an]].
+- "and Chang’an, 149–50, 150, 159–60" (ll. 5236). taxonomy: concurrent_with: [[chang-an]]. Updated [[chang-an]], [[early-middle-ages]].
+- "Manichaeism in art, 109, color plate 11A and Chang’an, 159 and Dunhuang cave documents, 167, 181, 182–83, 241" (ll. 7366). taxonomy: contributed_to: [[silk-roads]]. Updated [[silk-roads]].
+- "cosmopolitanism, 30, 83, 128, 167, 181–82. See also Chang’an" (ll. 5344). taxonomy: part_of: [[chang-an]]. Updated [[silk-roads]], [[chang-an]].
+- "and Zoroastrianism, 118, 181" (ll. 6926). taxonomy: produced: [[silk-roads]]. Updated [[silk-roads]].
+- "and the Sogdian Ancient Letters, 116–19" (ll. 5741). taxonomy: contributed_to: [[silk-roads]]. Updated [[silk-roads]].
+All claims verbatim from range 5201-7800 index; established names only.
+
 ## The Maritime Turn and the Pax Mongolica (Middle Millennium, CWH V)
 
 [[kedar-cwh-v5-2015|CWH V]] (Smith, Ch 9) carries the story past the Tang. Over the
@@ -133,6 +154,27 @@ trade; together they constitute [[trade-network-formation]]. They were the princ
 vector for the trans-Eurasian spread of the [[universal-religions|universal
 religions]] and for the movement of technologies (sericulture, papermaking) — and
 of epidemic disease, which travelled the same relays as silk.
+
+**Grounded claims from Hansen Silk Road range 282-2600** (Valerie Hansen, *The Silk Road: A New History*, Intro + Ch. 1–early 2; all verbatim from range):
+- "In this example, just seven animals carried all of the Iranian merchant’s goods. Two were camels, but the other five were four cattle and a donkey, all important pack animals. The presence of Iranian merchants is notable, since China’s main trading partner was not Rome but Samarkand..." (ll. 290-291). taxonomy: contributed_to: [[silk-roads]]. Updated [[silk-roads]].
+- "The communities along the Silk Road were largely agricultural rather than commercial... The trade that took place was mainly local and often involved exchanges of goods, rather than the use of coins." (ll. 300-301). taxonomy: contrasts_with: [[silk-roads]]. Updated [[silk-roads]].
+- "Before the coming of Islam to the region, members of these different communities proved surprisingly tolerant of each other’s beliefs." (ll. 303). taxonomy: enabled: [[early-middle-ages]]. Updated [[early-middle-ages]], [[central-asia]].
+- "The first written description of the Silk Road trade concerns Zhang Qian (d. 113 BCE), a Chinese envoy from Chang’an to Central Asia..." (ll. 380-381). taxonomy: produced: [[silk-roads]]. Updated [[silk-roads]], [[china]].
+- "The surviving evidence from Kucha... suggests an alternative to the standard picture of the fabled Silk Road trade: rather than a long-distance trade initiated and staffed by private merchants, these materials indicate that the Chinese military contributed significantly to the Silk Road economy." (ll. 1081-1082). taxonomy: contributed_to: [[silk-roads]]. Updated [[silk-roads]], [[china]].
+- "Nothing is more valuable than information extracted from trash, because no one has edited it in any way." (ll. 311). taxonomy: produced: [[silk-roads]]. Updated [[silk-roads]].
+
+**Grounded claims from Hansen Silk Road range 7801-end**:
+- "and volume of Silk Road trade, 237" (ll. 9201). taxonomy: contrasts_with: [[silk-roads]].
+- "and itinerant traders, 237–38" (ll. 8960). taxonomy: part_of: [[silk-roads]].
+- "and migrant populations, 239" (ll. 8392). taxonomy: contributed_to: [[silk-roads]].
+- "printing, 138, 179, 236. See also paper" (ll. 8105). taxonomy: produced: [[silk-roads]].
+- "woodblock printing, 138, 179, 236" (ll. 9896). taxonomy: produced: [[silk-roads]].
+- "religious tolerance, 146, 181–82, 241" (ll. 8231). taxonomy: concurrent_with: [[early-middle-ages]].
+- "and the Dunhuang caves, 167–77, 172, 180–81, 196–97" (ll. 8952). taxonomy: part_of: [[dunhuang]].
+- "and Khotan, 176–77, 207, 209, 212" (ll. 8964). taxonomy: part_of: [[khotan]].
+- "The Dunhuang Caves" (ll. 10428). taxonomy: part_of: [[dunhuang]].
+- "Conclusion The History of the Overland Routes through Central Asia" (ll. 10453). taxonomy: contrasts_with: [[silk-roads]].
+All verbatim from range; established names only.
 
 ## End Conditions
 
