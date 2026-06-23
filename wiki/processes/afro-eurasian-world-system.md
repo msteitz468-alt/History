@@ -28,6 +28,15 @@ interactions" (alongside [[state-formation|conquest-driven state formation]] and
 The canonical reconstruction is **Janet Abu-Lughod's** *Before European Hegemony*
 (1989): by c. 1250–1350 the Old World's regional circuits had fused into a single
 system of roughly **eight interlocking circuits** — China to the Strait of Malacca;
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 8401-12400**:
+1. "the great coalescence of the Mesopotamian and Nile valley civilizations that had created the golden age of Islam was broken by the Mongol preemption of Iraq and Persia." (ll. 8815-8817). taxonomy: contributed_to: reconfiguration of [[afro-eurasian-world-system]] circuits. Updated [[afro-eurasian-world-system]].
+2. "In the fourteenth century, the Gulf and the Red Sea were rival seas." (ll. 8552-8553). taxonomy: concurrent_with: intra-system competition between Middle Eastern routes. Updated [[afro-eurasian-world-system]].
+3. "By the thirteenth century... Egypt was a vanguard for the world system. ... The link between the Red Sea, India, Malaya and the East Indies had been secured." (ll. 9714-9719). taxonomy: part_of: [[afro-eurasian-world-system]] core linkage via Red Sea. Updated [[afro-eurasian-world-system]].
+4. "Although she and her primary trading partner, Venice, managed to hold their joint monopoly throughout the fifteenth century, neither survived the decline in that route. The circumnavigation of Africa by Vasco da Gama proved to be the undoing of both." (ll. 9740-9743). taxonomy: followed_by: end of premodern [[afro-eurasian-world-system]] segment. Updated [[afro-eurasian-world-system]].
+5. "In this chapter we explored the many forces that conspired to weaken Egypt over the course of several centuries. The two-pronged military threat from European Crusaders and Central Asian Mongols set the process in motion. ... It was less her lack of business acumen than her lack of fire power... that caused her demotion from kingpin of the collapsing world system." (ll. 9760-9773). taxonomy: caused_by: combined Mongol/Mamluk/Black Death/Portuguese factors for [[afro-eurasian-world-system]] shift. Updated [[afro-eurasian-world-system]].
+**Taxonomy Used**: contributed_to, concurrent_with, part_of, followed_by, caused_by (per CLAUDE.md).
+**Lint/Compliance Notes**: Range-exclusive; Ch7 and Indian Ocean transition on Mideast as linchpin and its decline; established names.
 India to Malacca; China to the Black Sea; Arabia to East Africa and West India; the
 eastern Mediterranean to the Persian Gulf; Egypt to the Indian Ocean; the
 trans-Mediterranean; and the West European subsystem — to which CWH V adds the
@@ -127,6 +136,17 @@ spread of the [[middle-millennium|world religions]], and — fatefully — the
 "expanding webs of exchange and conflict," and the direct ancestor of the
 **proto-globalization** that Olstein (Ch 25) sees as the period's net outcome.
 
+**Grounded claims from Abu-Lughod Before European Hegemony range 4401-8400**:
+1. "Both cities played pivotal roles in joining Europe to the ongoing world economy of the east. Both became great naval and merchant powers, struggling for supremacy over the Mediterranean, hitherto an “Arab Sea,” and for exclusive and/or preferential trading concessions in the Black Sea areas, along the coast of Palestine, and in Egypt, which guarded the gateway to India and beyond." (ll. 4411-4416). taxonomy: part_of: the European circuit of [[afro-eurasian-world-system]]; contributed_to: the wider system. Updated [[genoa]], [[venice]].
+2. "the Crusades brought West and East into admittedly antagonistic but nevertheless permanent involvement with one another." (ll. 4473-4476). taxonomy: produced: permanent involvement linking the European circuit to heartland circuits in [[afro-eurasian-world-system]]. Updated [[afro-eurasian-world-system]].
+3. "the silk of Cathay that, as early as 1257, was being sold by Genoese merchants at the fairs of Champagne." (ll. 6983-6984). taxonomy: part_of: [[afro-eurasian-world-system]] northern circuit. Updated [[afro-eurasian-world-system]], [[genoa]].
+4. "the unification under the Mongols of much of the central Eurasian land mass put the termini of Europe and China in direct contact with one another for the first time in a thousand years." (ll. 7690-7693). taxonomy: produced: direct Europe-China contact; part_of: [[afro-eurasian-world-system]]. Updated [[mongol-empire]], [[afro-eurasian-world-system]].
+5. "What seems most likely .. .is that...[the plague] invaded China in 1331 ... [and] must then have traveled the caravan routes of Asia during the next fifteen years before reaching the Crimea in 1346; whereupon the bacillus took ship and proceeded to penetrate almost all of Europe and the Near East along routes radiating inland from seaports." (ll. 7153-7158). taxonomy: contributed_to: contraction of [[afro-eurasian-world-system]] via Mongol networks. Updated [[afro-eurasian-world-system]], [[mongol-empire]].
+6. "It was the Italian mariner nations who ensured a steady supply of new military recruits to the slave elite that governed Egypt. ... That was the price for continued trading rights in Egypt." (ll. 7512-7517). taxonomy: enabled: [[mamluk-sultanate]] perpetuation; part_of: southern route of [[afro-eurasian-world-system]]. Updated [[mamluk-sultanate]], [[afro-eurasian-world-system]].
+**Taxonomy Used**: part_of, produced, contributed_to, enabled (per CLAUDE.md).
+**Pages Touched/Updated**: [[afro-eurasian-world-system]], [[abu-lughod-before-european-hegemony-1989]], [[genoa]], [[venice]], [[mongol-empire]], [[mamluk-sultanate]].
+**Lint/Compliance Notes**: Range-exclusive; verbatim+lines; established names only; CLAUDE.md compliant.
+
 ## End Conditions
 
 The thirteenth/fourteenth-century system did not end so much as transform: plague
@@ -135,3 +155,5 @@ persisted and were reorganized under the Ottoman, Timurid, and Ming states. By
 1500, European Atlantic navigation began to extend the system across the oceans for
 the first time, dissolving the Afro-Eurasian world system into the genuinely global
 one of the [[early-modern|Early Modern]] era — the subject of [[bentley-cwh-v6|CWH VI]].
+
+

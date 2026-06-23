@@ -7,7 +7,7 @@ period_coverage: [Early Middle Ages, High Middle Ages]
 region_coverage: [japan, east-asia]
 methodological_approach: [multi-author Cambridge reference — political, institutional, religious, and cultural history]
 reliability_notes: "The Heian volume of the Cambridge History of Japan (794–1185), the authoritative English-language reference for the period. Completes the wiki's CHJ set (v1, v3–v6 already ingested). Covers the founding of Heian-kyō, the ritsuryō court, the Fujiwara regency, the shōen estate system and provincial administration, Chinese learning, the great age of aristocratic court culture (kana, the Tale of Genji), Heian Buddhism (Tendai/Shingon/Pure Land), religious practice, the insei (cloistered rule), and the rise of the warriors culminating in the Genpei War. Fills a thinly-covered period."
-pages_created: 0
+pages_created: 49
 pages_updated: 0
 ingested: 2026-06-22
 tags: [source]
@@ -47,10 +47,28 @@ LINK existing (never recreate): `heian-period`, `fujiwara-clan`, `japan`, `nara-
 | **G** Religious practice & insei | 26000–30653 | 8–9: Shintō-Buddhist syncretism, onmyōdō, goryō; the insei (cloistered rule) | `shinbutsu-shugo`, `onmyodo`, `insei`, `shirakawa-emperor` |
 | **H** The rise of the warriors | 30654–33200 | 10: provincial warrior bands, the Taira & Minamoto, the Hōgen/Heiji disturbances, Kiyomori, the Genpei War | `taira-clan`, `minamoto-clan`, `taira-no-kiyomori`, `hogen-heiji-disturbances`, `genpei-war` |
 
-## Claim list (filled on the main thread after agents finish)
+## Claim list — 49 pages (1 source + 48 from 8 agents)
 
-_(to be populated in Step 4)_
+**A — The Heian court:** [[heian-kyo]] · [[kanmu-emperor]] · [[emishi-wars-780]] · [[capital-transfer-nagaoka-784]] · [[fujiwara-yoshifusa]] · [[sugawara-michizane]] · [[heian-court-government]] · [[heian-foreign-relations]].
+**B — The capital & its society:** [[heian-court-society]] · [[kugyo-aristocracy]] · [[council-of-state-japan]] · [[heian-noble-mansion]] · [[heian-capital-economy]].
+**C — The Fujiwara regency:** [[fujiwara-regency]] · [[sekkan-system]] · [[fujiwara-michinaga]] · [[fujiwara-mototsune]] · [[fujiwara-yorimichi]].
+**D — Land & the provinces:** [[shoen]] · [[ritsuryo-decline]] · [[zuryo-provincial-governors]] · [[tato-field-managers]] · [[kokuga-provincial-headquarters]].
+**E — Learning & court culture:** [[chinese-learning-heian]] · [[kana-script]] · [[kokinshu]] · [[heian-literature]] · [[sei-shonagon]] (links existing [[tale-of-genji]], [[murasaki-shikibu]]).
+**F — Aristocratic Buddhism:** [[saicho]] · [[kukai]] · [[tendai]] · [[shingon]] · [[pure-land-buddhism]] · [[mount-hiei]] · [[koyasan]].
+**G — Religious practice & insei:** [[shinbutsu-shugo]] · [[goryo-vengeful-spirits]] · [[onmyodo]] · [[insei]] · [[insei-rule]] · [[shirakawa-emperor]].
+**H — The rise of the warriors:** [[bushidan]] · [[minamoto-clan]] · [[taira-clan]] · [[taira-no-kiyomori]] · [[revolt-of-masakado-935]] · [[hogen-heiji-disturbances-1156]] · [[genpei-war-1180]].
 
 ## Volume Synthesis Note
 
-_(to be written in Step 4 after all agents complete)_
+The Heian volume completes the wiki's Cambridge History of Japan set and fills a thinly-covered period. It
+runs from the founding of [[heian-kyo|Heian-kyō]] under [[kanmu-emperor|Kanmu]] and the [[ritsuryo-state|
+ritsuryō state]], through the apogee of [[fujiwara-regency|Fujiwara regency]] government ([[sekkan-system|
+sekkan]] marriage politics under [[fujiwara-michinaga|Michinaga]]) and the slow privatization of land and
+power (the [[shoen|shōen system]], the [[zuryo-provincial-governors|zuryō]], [[ritsuryo-decline|ritsuryō
+decline]]); the golden age of aristocratic [[heian-literature|vernacular literature]] ([[kana-script|kana]],
+the [[tale-of-genji|Tale of Genji]], [[sei-shonagon|the Pillow Book]]) and of [[tendai|Tendai]]/[[shingon|
+Shingon]]/[[pure-land-buddhism|Pure Land]] Buddhism and [[shinbutsu-shugo|kami-buddha]] religion; and the
+late-Heian shift of power to the [[insei|cloistered emperors]] and then to the provincial warriors — the
+[[taira-clan|Taira]] and [[minamoto-clan|Minamoto]], the [[hogen-heiji-disturbances-1156|Hōgen-Heiji
+disturbances]], and the [[genpei-war-1180|Genpei War]] that ended the Heian order and opened the
+[[kamakura-period|Kamakura]] age.

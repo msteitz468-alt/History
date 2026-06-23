@@ -59,6 +59,12 @@ French occupants, May 1302) and then **[[battle-of-courtrai-1302|Courtrai]]** (J
 
 ## Significance
 
+**Grounded claims from Abu-Lughod Before European Hegemony range 3501-7000**:
+- "the native upper-class in Bruges, during the fourteenth and fifteenth centuries, was not made up of merchants, save for a few exceptions, but of brokers, inn-keepers, drapiers, and commission agents" (ll. 5-8). taxonomy: part_of: [[county-of-flanders]] (Italians serviced local economy via brokers).
+- "As soon as the Italians established themselves permanently in Flanders, they began to organize 'nations' or colonies... Genoese, Venetian..." (ll. 48-50). taxonomy: contributed_to: Italian colonies in [[county-of-flanders]].
+- "The primary factors underlying the decline of Bruges and Ghent were natural, epidemic, political, and economic... The textile industry depended upon outside sources of raw materials, notably wool... England could withhold the supplies at will" (ll. 275-301). taxonomy: caused_by: external dependency for [[county-of-flanders]].
+- Plague "arrived in Flanders from Asia Minor by way of Genoa" (ll. 236-237); population of Bruges "declined precipitously at mid-century" (ll. 259-260). taxonomy: contributed_to: contraction of [[county-of-flanders]].
+
 The Courtrai victory had two lasting effects: it **secured the continuity of Flanders as a
 largely independent fief** under the French crown (it could be occupied but not absorbed, as
 Champagne had been — its high urbanisation the "main explanatory factor"), and it ended the

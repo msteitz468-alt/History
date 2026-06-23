@@ -5,99 +5,148 @@ year: 1989
 source_type: secondary
 period_coverage: [high-middle-ages]
 region_coverage: [western-europe, mediterranean, near-east, central-asia, south-asia, east-asia, silk-road]
-methodological_approach: historical sociology of world-systems; uses trade data, city sizes, political economy
-reliability_notes: Foundational text for pre-modern world-systems theory. Argues that a loosely integrated world economy existed in the 13th-14th centuries centered on the Mongol peace, Mamluk Egypt, Indian Ocean trade, and Chinese economy, before the rise of European dominance after 1350/1500. Critiques Eurocentrism and Wallerstein's starting point in 16th century. Uses secondary sources and some primary data on trade volumes, city populations, and political structures. Strong on transregional connections; weaker on some regions due to source availability at time of writing. Essential for understanding the "long 13th century" as a period of Afro-Eurasian integration.
-pages_created: 0
-pages_updated: 0
+methodological_approach: world-systems analysis; historical synthesis of trade routes, city sizes, political economies across Afro-Eurasia
+reliability_notes: Seminal critique of Eurocentrism in world-systems theory. Demonstrates a functioning (if polycentric, non-hegemonic) world economy existed 1250-1350 linking European city-states, Mamluk Middle East, Indian Ocean networks, and East Asia (Yuan China), facilitated by Mongol peace and maritime trade, before its disruption and the later rise of European dominance post-1350/1492. Relies on secondary syntheses of trade data, traveler accounts (Marco Polo, Ibn Battuta), and economic histories available in 1980s. Strong on transregional "circuits" and "cores"; some data now updated by later scholarship, but core thesis influential. Essential for understanding pre-modern globalization and the "long 13th century" as a high point of integration.
+pages_created: 1
+pages_updated: 14
 ingested: 2026-06-22
 tags: [source, world-system, high-middle-ages, silk-road]
 ---
 
 # Before European Hegemony: The World System A.D. 1250-1350
 
-Janet Abu-Lughod's 1989 book is a seminal work in historical sociology that demonstrates the existence of a pre-modern "world system" in the thirteenth and early fourteenth centuries. It challenges the notion that the modern world-system began with European expansion in the sixteenth century by showing that a complex, interlinked economy spanning from northwestern Europe to China existed between roughly 1250 and 1350, facilitated by the Pax Mongolica, Mamluk control of the Middle East, Indian Ocean trade networks, and the economic power of Sung/Yuan China. The system collapsed or restructured after the Black Death and the fragmentation of the Mongol empire, paving the way for later European hegemony.
+Janet Abu-Lughod's 1989 classic argues that a sophisticated, interlinked "world system" operated across Afro-Eurasia in the 13th and early 14th centuries—long before European hegemony—characterized by trade circuits connecting Italian merchants, Mamluk Egypt, Indian Ocean ports, Southeast Asia, and China under the umbrella of Mongol stability. This system featured no single dominant core or periphery but multiple overlapping "cores" (European, Middle Eastern, Asian) with dense exchanges of goods (silk, spices, textiles, bullion), ideas, technologies, and people. It collapsed or restructured after the Black Death and Mongol fragmentation, setting the stage for later European rise via different routes and institutions.
 
 ## Subject and Structure
 
-The book is organized into an introduction and three main parts corresponding to major subsystems or "circuits" of the 13th-century world economy:
+The book critiques Immanuel Wallerstein's modern world-system (starting ~1500 with European expansion) by showing an earlier, more balanced precursor. It maps eight "circuits" grouped into three subsystems:
 
-- Introduction and Chapter 1: Theoretical framework, critique of Eurocentrism, and overview of the eight circuits grouped into three larger systems (European, Mideast, Asian).
+- Introduction + Ch. 1: Theoretical setup, the 13th-c "moment," data on cities/trade, eight circuits diagram.
 
-- Part I: The European Subsystem – Emergence from old empires; cities of the Champagne fairs (Troyes, Provins); Bruges and Ghent in Flanders; merchant mariners of Genoa and Venice.
+- Part I: European Subsystem (Ch. 2-4): Champagne fairs (Troyes etc.), Flemish cloth cities (Bruges, Ghent), Italian maritime powers (Genoa, Venice) linking to Levant.
 
-- Part II: The Mideast Heartland – The three routes to the East; the Mongols and the Northeast Passage; Sindbad's way (Baghdad and Persian Gulf); Cairo's monopoly under the Slave Sultanate (Mamluks).
+- Part II: Mideast Heartland (Ch. 5-7): Mongol overland routes, Persian Gulf (Baghdad/Hormuz), Red Sea (Mamluk Cairo/Alexandria) as linchpin to Indian Ocean.
 
-- Part III: Asia – The Indian Ocean system (divided into three parts); the Indian subcontinent; the Strait and Narrow (Southeast Asia); all the silks of China.
+- Part III: Asia (Ch. 8-10): Indian subcontinent (Gujarat/Cambay), Malacca Strait entrepôts, Chinese ports (Quanzhou/Zayton, Hangzhou) as ultimate "core" for silk/manufactures.
 
-- Conclusion: Restructuring of the 13th-century world system, why it did not lead directly to European dominance, and theoretical implications for world-systems analysis.
+- Conclusion (Ch. 11): Why the system "failed to hegemonize," restructuring post-1350, lessons for world-systems theory (variability, no inevitable European path).
 
-Abu-Lughod uses data on trade routes, commodities (silk, spices, textiles, bullion), city sizes and functions, political structures, and merchant communities to map this system. She emphasizes that no single hegemon dominated; it was a polycentric network.
+Uses maps, city population estimates, commodity flows, and traveler texts to demonstrate integration without hegemony.
 
 ## Themes and Historiography
 
-- **World-systems before capitalism**: Extends Wallerstein's concept backward in time, showing core-periphery relations, unequal exchange, and integration without a single dominant core.
+- **Polycentric world economy**: Multiple cores (not Europe-centered); "cores" were commercial cities/regions, not states. Trade was "thick" in luxury/prestige goods but also bulk (textiles, foodstuffs locally).
 
-- **Pax Mongolica as enabler**: The Mongol empire's unification of Central Asia facilitated safe overland trade (the "Northeast Passage").
+- **Mongol peace as catalyst**: Unified Central Asia, enabling safe caravan trade (Northeast Passage); but overland was secondary to maritime in volume for some goods.
 
-- **Mamluk Egypt as linchpin**: Controlled the Red Sea and Indian Ocean access, monopolizing spice trade to Europe.
+- **Mamluks as gatekeepers**: Controlled spice route from Indian Ocean to Mediterranean; high markups, but facilitated exchange.
 
-- **Indian Ocean and Southeast Asian circuits**: Active trade between India, Southeast Asia (Srivijaya/Malacca), and China.
+- **Asian "cores"**: China as manufacturing powerhouse and silver sink; Indian Ocean as active arena with Gujarati, Arab, Chinese traders.
 
-- **China as economic powerhouse**: Despite political changes (Sung to Yuan), China was the "ultimate sink" for silver and source of silk and manufactures.
+- **No direct Rome-China trade**: Myth debunked; intermediaries and relay trade dominated. European "rise" post-1350 involved catching up, then Atlantic bypass.
 
-- **Why no European hegemony yet**: Europe was peripheral; the system was Asian-centered or balanced. The Black Death, Mongol collapse, and Ming withdrawal disrupted it. European rise came later via Atlantic routes and military/technological advantages.
+- **Why collapse?** Black Death (demographic shock), Mongol breakup, Ming isolationism, Timur disruptions; European recovery via different (state-backed, colonial) institutions.
 
-- **Critique of Eurocentrism**: Argues against viewing non-Western societies as static or isolated before 1500.
-
-The book draws on secondary literature from economic history, Islamic studies, Sinology, and Indian Ocean history available in the 1980s. It has been influential in global history, world-systems theory (e.g., influencing Chase-Dunn, Frank), and critiques of Eurocentric narratives. Later scholarship has refined some data (e.g., on trade volumes, Mongol impact) but the core thesis of a 13th-century world economy remains foundational.
+Abu-Lughod draws on economic historians (e.g., Lopez, Ashtor, Chaudhuri), area specialists, and some primary data. Influential in global history, critiques of Eurocentrism (e.g., with Frank, Blaut), and "reorienting" the 13th c as peak integration. Limitations: 1980s sources (some trade vol estimates revised); stronger on Mediterranean/Indian Ocean than deep Central Asia or quantitative data.
 
 ## Section Plan
 
-| Section | Chapters | Pages/Lines | Period | Region | Key Topics |
+| Section | Chapters | Approx. Lines (OCR) | Period | Region | Key Topics |
 |---|---|---|---|---|---|
-| Introduction & Theory | Intro, Ch. 1 | ~1-50 | High Middle Ages | Transregional | World system definition, 8 circuits, critique of Wallerstein |
-| European Subsystem | Ch. 2-4 | ~51-150 | High Middle Ages | western-europe, mediterranean | Champagne fairs, Flemish textiles, Italian merchants (Genoa/Venice) |
-| Mideast Heartland | Ch. 5-7 | ~153-250 | High Middle Ages | near-east, central-asia | Mongols & overland trade, Persian Gulf, Mamluk Cairo & Red Sea |
-| Asian Circuits | Ch. 8-10 | ~261-350 | High Middle Ages | south-asia, southeast-asia, east-asia | Indian subcontinent, Strait of Malacca, Chinese economy & silk |
-| Conclusion & Analysis | Ch. 11 | ~352-373 | High Middle Ages | Transregional | System collapse/restructuring, implications for world history |
+| Intro + Theory + Ch. 1 | Intro, Ch. 1 | ~400-~2000 | High Middle Ages | transregional (silk-road) | World system concept, 8 circuits/3 subsystems, 13th c "moment," data/methods, European emergence |
+| European Subsystem | Ch. 2-4 | ~2000-~5500 | High Middle Ages | western-europe, mediterranean | Champagne fairs, Flemish industry/commerce, Italian ports & Levant links |
+| Mideast Heartland | Ch. 5-7 | ~5500-~9000 | High Middle Ages | near-east, central-asia | Mongol routes, Persian Gulf, Mamluk Red Sea monopoly |
+| Asian Circuits | Ch. 8-10 | ~9000-~14000 | High Middle Ages | south-asia, southeast-asia, east-asia | India, Malacca Strait, China as economic core |
+| Conclusion | Ch. 11 + Bib/Index | ~14000-end | High Middle Ages | transregional | System restructuring post-1350, theoretical lessons, bib |
 
-## Key Actors, Events, Processes
+## Key Actors, Places, Processes (Initial)
 
-**Actors**:
-- Italian city-states and merchants (Genoa, Venice)
-- Mamluk Sultanate (Cairo)
-- Mongol Empire (various khanates)
-- Delhi Sultanate and Indian traders
-- Southeast Asian entrepôts (Srivijaya, Malacca)
-- Yuan/Sung China
-- European fairs and textile producers (Champagne, Flanders)
+**Actors/States**: Italian merchants (Genoa/Venice), Mamluk sultans, Mongol khans (Ilkhanate, Golden Horde, Yuan), Delhi sultans, SE Asian rulers, Chinese emperors (Yuan/Ming).
 
-**Places**:
-- Champagne fairs towns
-- Bruges, Ghent
-- Genoa, Venice
-- Cairo, Alexandria
-- Baghdad, Hormuz, Aden
-- Calicut, Cambay
-- Malacca, Srivijaya
-- Quanzhou (Zayton), Hangzhou
-- Samarkand, Tabriz
+**Places**: Champagne (Troyes), Bruges, Genoa, Venice, Cairo/Alexandria, Baghdad/Hormuz, Calicut, Malacca/Srivijaya, Quanzhou (Zayton), Hangzhou, Samarkand, Tabriz.
 
-**Processes**:
-- Formation of Afro-Eurasian world economy
-- Rise and fall of trade circuits
-- Transmission of technologies, religions, ideas
-- Role of nomads (Mongols) and maritime traders
-- Transition to European-dominated system post-1350
+**Processes**: Afro-Eurasian world system formation, relay trade networks, cultural/technological diffusion, rise of merchant capitalism in city-states, Mongol-enabled integration.
 
 ## Collection Coverage Note
 
-This is a key secondary source for understanding the 13th-14th century as a period of genuine global integration before the "rise of the West." It fills a major gap in the wiki's coverage of world-systems and transregional processes (see Gap 10 in Outstanding Sources). Strong on economic history, urban networks, and non-Eurocentric perspective. Complements primary sources like Marco Polo, Ibn Battuta, and Chinese records. The collection is strong on Mongol era and Indian Ocean; this provides the synthetic overview. Note limitations of 1980s data; cross-reference with more recent scholarship on specific circuits (e.g., Indian Ocean, Central Asia).
-
-Subagents will extract claims exclusively from their assigned line-ranges using only established page names. All claims must be grounded with verbatim quotes from the text and exact line references. Read ONLY your assigned range (via the provided cache file if applicable). Do not read outside your range. Use the link taxonomy precisely (caused_by, contributed_to, preceded_by, etc.). No new pages unless explicitly scaffolded.
-
-*Source page created as first step (per CLAUDE.md). This book is foundational for the wiki's treatment of pre-1500 world systems and the "long 13th century" as a period of Afro-Eurasian connectivity.*
+Key secondary for pre-1500 world systems and the "long 13th century" as a period of genuine (non-European-dominated) globalization—fills Gap 10 (world-systems/transregional). Strong on economic circuits, critique of teleological "rise of West," and integration of Mamluk/Mongol/Indian Ocean/Chinese data. Complements primaries (Polo, Battuta) and CWH vols on exchange/Mongols. Collection bias toward Eurasian core is mitigated here by explicit multi-core analysis. Use with caution on exact volumes (data vintage); cross with newer works (e.g., on Indian Ocean, Central Asia).
 
 ## Claims Extracted
 
-*(To be populated by subagents + main-thread synthesis)*
+*(Populated by subagents + main-thread synthesis)*
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 400-4400**:
+1. "The second half of the thirteenth century was a remarkable moment in world history. Never before had so many regions of the Old World come in contact with one another—albeit still only superficially." (ll. 425-428). taxonomy: part_of: [[afro-eurasian-world-system]] formation (coalescence phase). Updated [[abu-lughod-before-european-hegemony-1989]].
+2. "By the eleventh and, even more, twelfth century, many parts of the Old World began to become integrated into a system of exchange from which all apparently benefited. The apogee of this cycle came between the end of the thirteenth and the first decades of the fourteenth century, by which time even Europe and China had established direct, if decidedly limited, contact with each another." (ll. 436-442). taxonomy: produced: peak integration of [[afro-eurasian-world-system]]. Updated [[high-middle-ages]].
+3. "the world economy of the thirteenth century is not only fascinating in itself but, because it contained no single hegemonic power, provides an important contrast to the world system that grew out of it: the one Europe reshaped to its own ends and dominated for so long." (ll. 484-487). taxonomy: contrasts_with: later European hegemonic system; contributed_to: [[abu-lughod-before-european-hegemony-1989]] thesis.
+4. "Between A.D. 1250 and 1350 an international trade economy was developing that stretched all the way from northwestern Europe to China; it involved merchants and producers in an extensive (worldwide) if narrow network of exchange." (ll. 518-521). taxonomy: part_of: [[afro-eurasian-world-system]]. Updated [[abu-lughod-before-european-hegemony-1989]].
+5. "There were some eight interlinked subsystems involved, which, in turn, can be grouped into three larger circuits—the western European, the Middle Eastern, and the Far Eastern." (ll. 1617-1620). taxonomy: contains: the western European circuit (and others) as part_of [[afro-eurasian-world-system]].
+6. "I begin in Part I with the European subsystem ... since I wish to refute the image of Europe as inherently superior, it is important at the outset to establish the relatively primitive level of its development during medieval times." (ll. 1622-1627). taxonomy: contributed_to: non-Eurocentric analysis in [[abu-lughod-before-european-hegemony-1989]].
+7. "By the middle of the thirteenth century, three European nodes were forming into a single circuit of exchange: east-central France, which hosted the fairs of Champagne in four towns ... the textile-producing region of Flanders ... and the international trading ports on opposite sides of the Italian peninsula—Genoa facing west and Venice facing east." (ll. 1629-1633). taxonomy: part_of: the European circuit of [[afro-eurasian-world-system]]; produced: core of early European links to the wider system. Updated [[champagne-fairs]], [[bruges]], [[genoa]], [[venice]].
+8. "the Italians were the largest customers; it was they who introduced the techniques of banking, credit, and bookkeeping without which so complex a set of transactions could not have been negotiated; and finally, they were the key intermediaries, expanding demand and supply to the regions beyond Europe. They made the fairs truly international." (ll. 2508-2513). taxonomy: enabled: [[champagne-fairs]] international role; contributed_to: credit mechanisms of the European circuit (via [[genoa]], [[venice]]).
+**Taxonomy Used**: part_of, produced, contributed_to, enabled, contrasts_with, contains (per CLAUDE.md; no sequence/causation conflation).
+**Pages Touched/Updated**: [[abu-lughod-before-european-hegemony-1989]], [[afro-eurasian-world-system]], [[high-middle-ages]], [[champagne-fairs]], [[bruges]], [[genoa]], [[venice]].
+**Lint/Compliance Notes**: Range-exclusive (400-4400); verbatim+lines from cache only; established names only; no artifacts; CLAUDE.md compliant; subagent range summary: front matter/intro + Ch1 (theory, 13th c moment, 8 circuits, no hegemon, Eurocentrism critique) + early Part I (emergence from empires, full Champagne fairs organization/participants/decline start, Italian links).
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 4401-8400**:
+1. "Both cities played pivotal roles in joining Europe to the ongoing world economy of the east. Both became great naval and merchant powers, struggling for supremacy over the Mediterranean, hitherto an “Arab Sea,” and for exclusive and/or preferential trading concessions in the Black Sea areas, along the coast of Palestine, and in Egypt, which guarded the gateway to India and beyond." (ll. 4411-4416). taxonomy: part_of: the European circuit of [[afro-eurasian-world-system]]; contributed_to: the wider system. Updated [[genoa]], [[venice]].
+2. "the Crusades brought West and East into admittedly antagonistic but nevertheless permanent involvement with one another." (ll. 4473-4476). taxonomy: produced: permanent East-West involvement; part_of: [[afro-eurasian-world-system]]. Updated [[abu-lughod-before-european-hegemony-1989]].
+3. "the revival of the Champagne fairs in the twelfth century can be explained convincingly by both the enhanced demand for eastern goods stimulated by the Crusades and, because of the strategic position of the Italians in coastal enclaves of the Levant, the increased supplies of such goods they could now deliver." (ll. 4546-4552). taxonomy: contributed_to: [[champagne-fairs]] revival; part_of: the European circuit of [[afro-eurasian-world-system]]. Updated [[champagne-fairs]], [[genoa]], [[venice]].
+4. "the center of gravity [of Europe at least] had definitely moved to the ‘big four’ of northern and central Italy (Venice, Milan, Genoa and Florence) whose powerful merchants had a firm grip on the routes towards the fertile and industrious European hinterland" (ll. 4556-4560). taxonomy: part_of: the European circuit of [[afro-eurasian-world-system]]. Updated [[genoa]], [[venice]].
+5. "the Venetians wanted no high office; they wanted only to expand their merchant empire. They “appropriated the best part of the imperial territory” ... claiming three-eights of the city and empire, including all of Crete" (ll. 4757-4761). taxonomy: produced: Venetian merchant empire expansion; contributed_to: European circuit control of eastern trade within [[afro-eurasian-world-system]]. Updated [[venice]].
+6. "It would be hard to find a more advanced form of the institutions we associate with modern capitalism than this example in full flower in Genoa by the first half of the thirteenth century." (ll. 5142-5144). taxonomy: produced: advanced merchant capitalism institutions in [[genoa]]; part_of: the European circuit of [[afro-eurasian-world-system]]. Updated [[genoa]].
+7. "the silk of Cathay that, as early as 1257, was being sold by Genoese merchants at the fairs of Champagne." (ll. 6983-6984). taxonomy: part_of: [[afro-eurasian-world-system]]; contributed_to: [[champagne-fairs]] with Cathay silk via [[genoa]]. Updated [[champagne-fairs]], [[genoa]].
+8. "It was the Italian mariner nations who ensured a steady supply of new military recruits to the slave elite that governed Egypt. To that unique institution, in which neither feudal nor political position could be inherited but had to be continually recreated, the Italians provided the manpower needed to perpetuate its strength. That was the price for continued trading rights in Egypt." (ll. 7512-7517). taxonomy: enabled: [[mamluk-sultanate]]; contributed_to: Italian access to Egyptian ports in [[afro-eurasian-world-system]]. Updated [[mamluk-sultanate]], [[genoa]], [[venice]].
+**Taxonomy Used**: part_of, produced, contributed_to, enabled (per CLAUDE.md; no sequence/causation conflation).
+**Pages Touched/Updated**: [[abu-lughod-before-european-hegemony-1989]], [[afro-eurasian-world-system]], [[champagne-fairs]], [[genoa]], [[venice]], [[mamluk-sultanate]].
+**Lint/Compliance Notes**: Range-exclusive; verbatim+lines from cache only; established names only; no artifacts; CLAUDE.md compliant. Range summary: Ch4 Italian mariners (Genoa/Venice origins, Crusades impact, Fourth Crusade, ship tech, merchant capitalism, loca/commenda), shifts post-1260, Genoa-Brugs link, mid-century depression/Black Death, then Mideast northern/Mongol and middle routes, Mamluk rise.
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 8401-12400**:
+1. "although the Mongol conquest of Iraq and Persia altered many of the local patterns of port distribution in the Gulf—patterns that had persisted throughout the period of increasing anarchy during late Abbasid times—the Mongols cannot be blamed for destroying the middle trade route to the Far East. Not only did trade with India-China persist after Hulegu’s appearance but it took on a new life, as a result of the presence—albeit short-lived—of Italian merchants in the Il-Khanid realm." (ll. 8522-8531). taxonomy: contributed_to: continued [[afro-eurasian-world-system]] trade via [[mongol-empire]]; contrasts_with: destruction narrative for [[baghdad]]. Updated [[baghdad]].
+2. "In the fourteenth century, the Gulf and the Red Sea were rival seas." (ll. 8552-8553). taxonomy: concurrent_with: competition between Middle Eastern routes; produced: [[mamluk-sultanate]] advantage. Updated [[mamluk-sultanate]].
+3. "Even after the Mongol II-Khans converted to Islam, the enmity between the Mongols and the Mamluks, who ruled Syria and Egypt, abated only briefly during the first half of the fourteenth century. This hiatus may have been partially responsible for the fact that Cairo reached her apex during the reign of Sultan al-Nasir Muhammad (1294-1340, with two brief interruptions), when her population reached half a million." (ll. 8817-8826). taxonomy: part_of: [[mamluk-sultanate]] peak under [[high-middle-ages]]. Updated [[cairo]].
+4. "the Mamluks needed manpower to sustain their system. ... Only non-Muslims, particularly pagans, could be enslaved for military and governmental service. ... It was this “peculiar” system that elevated the slave trade to such strategic importance for the governors of Egypt and created a strange symbiosis with Genoa." (ll. 8845-8864). taxonomy: driven_by: slave trade for [[mamluk-sultanate]]; enabled: [[genoa]] role but use [[afro-eurasian-world-system]]. Updated [[mamluk-sultanate]].
+5. "Genoa... [became] the most important supplier of Circassian slaves for the Mamluk army" (ll. 8901-8902). taxonomy: contributed_to: [[mamluk-sultanate]] military capacity. Updated [[mamluk-sultanate]].
+6. "Under the rule of the Bahri Mamluks, the Karimi apparently monopolized the spice trade between Yemen and Egypt." (ll. 9109-9110). taxonomy: part_of: [[mamluk-sultanate]] control of [[afro-eurasian-world-system]] Indian Ocean link. Updated [[cairo]].
+7. "the “centre of Islam in the Indian Ocean shifted from the Persian Gulf to the Red Sea”" (ll. 9011-9012, quoting Toussaint). taxonomy: produced: [[mamluk-sultanate]]/[[cairo]] dominance in Red Sea route. Updated [[mamluk-sultanate]].
+8. "During the second half of the fourteenth century several negative trends converged in Egypt-Syria... the import of goods from India and beyond... no longer ensured the prosperity of the Karimi merchants who... lost to government monopolies their prominence... The Mamluk sultans sought to squeeze every possible drop of revenue from the transit trade" (ll. 9440-9456). taxonomy: contributed_to: post-Black Death state monopoly in [[mamluk-sultanate]]. Updated [[cairo]].
+9. "some 200,000 persons died in Cairo alone in the course of the plague... within a few years some 40 percent of Cairo’s population was wiped out. This is not inconsistent with Maqrizi’s view that from one-third to two-fifths of the combined population of Egypt and Syria died in the course of the plague." (ll. 9504-9513). taxonomy: caused_by: Black Death for decline; contributed_to: erosion of [[mamluk-sultanate]] economic base. Updated [[cairo]].
+**Taxonomy Used**: contributed_to, part_of, produced, enabled, concurrent_with, contrasts_with, caused_by (per CLAUDE.md link taxonomy; no conflation of sequence/causation).
+**Pages Touched/Updated**: [[abu-lughod-before-european-hegemony-1989]], [[afro-eurasian-world-system]], [[mongol-empire]], [[mamluk-sultanate]], [[baghdad]], [[cairo]], [[high-middle-ages]].
+**Lint/Compliance Notes**: Range-exclusive; verbatim+lines; established names only; no artifacts; CLAUDE.md compliant. Focus: Ch6 Sindbad’s Way (Baghdad/Persian Gulf/Hormuz fluctuations), Ch7 Cairo’s Monopoly (Mamluks/Red Sea/Karimi/Black Death/Genoa-Venice symbiosis). Selected 9 claims for source subsection.
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 12401-16400**:
+1. "In lieu, then, of real information and sources for the Straits area in medieval times, historians have imaginatively combined and recombined the same limited number of informational scraps." (ll. 12430-12437). taxonomy: part_of: [[southeast-asia]] source limitations and historiography. Updated [[abu-lughod-before-european-hegemony-1989]].
+2. "What at first appears to be a deviant case may actually hold the key to the later devolution of the system. The paradox is this. Throughout the centuries, the Strait area retained its monopoly position along the sea trade route between China and India, and thus, indirectly, the Arab world and Mediterranean Europe." (ll. 12580-12587). taxonomy: part_of: [[hubs/regions/indian-ocean|Indian Ocean]] circuits; contrasts_with: active gateway role in [[southeast-asia]]. Updated [[southeast-asia]].
+3. "The region changed from “gateway’” to dependency, at the mercy of powerful core trading partners. I believe that this situation of dependency was probably the “normal” one, and that the role of gateway is really the aberration that requires explanation." (ll. 12600-12605). taxonomy: produced: dependency status for [[southeast-asia]] entrepots. Updated [[southeast-asia]].
+4. "Southeast Asia was always inferior to the core areas because it neither produced nor shipped industrial goods in quantity. The southeast Asian economies, although important in the transit trade, provided only “agricultural produce and raw materials for Indian and Chinese industrial wares.”" (ll. 12616-12621). taxonomy: part_of: [[afro-eurasian-world-system]] as peripheral transit for [[southeast-asia]]. Updated [[southeast-asia]].
+5. "Once this policy of trade interdiction was reversed at the time of the Sung dynasty, and particularly after the so-called “Southern Sung” had retreated before the Mongol invaders, the role of the “Empire” of Srivijaya shrank. The petty principalities along the Strait were no longer indispensable as intermediaries..." (ll. 12680-12687). taxonomy: preceded_by: direct Chinese and Arab access; contributed_to: decline of intermediary role in [[southeast-asia]]. Updated [[southeast-asia]].
+6. "Iskandar Shah [King Alexander (the Great)], the name the founder of Malacca assumed after his conversion to Islam, succeeded in attracting overseas merchants who had formerly stopped at other entrepôts. His favorable terms of trade, his low tariffs, and his well-policed waters proved irresistible." (ll. 12734-12740). taxonomy: produced: rise of Malacca as [[southeast-asia]] entrepot. Updated [[southeast-asia]].
+7. "Ch’uan-chou (in Fukien), which Italians and Arabs called Zaytun, and which both Marco Polo and Ibn Battuta considered the greatest port in the world." (ll. 13633-13638). taxonomy: part_of: [[hubs/regions/indian-ocean|Indian Ocean]] sea trade terminus at [[quanzhou]]. Updated [[quanzhou]].
+8. "Of crucial importance is the fact that the “Fall of the East” preceded the “Rise of the West,” and it was this devolution of the preexisting system that facilitated Europe’s easy conquest." (ll. 14668-14671). taxonomy: preceded_by: devolution of [[afro-eurasian-world-system]] for later European hegemony. Updated [[abu-lughod-before-european-hegemony-1989]].
+**Taxonomy Used**: part_of, produced, contributed_to, preceded_by, contrasts_with (per CLAUDE.md link taxonomy).
+**Pages Touched/Updated**: [[abu-lughod-before-european-hegemony-1989]], [[southeast-asia]], [[quanzhou]], [[hubs/regions/indian-ocean|Indian Ocean]], [[high-middle-ages]].
+**Lint/Compliance Notes**: Range-exclusive; verbatim+lines; established names only; no artifacts; CLAUDE.md compliant. Range summary: Ch9 Strait and Narrow (SE Asia/Malacca entrepots, Srivijaya decline, dependency, Malacca harbor masters, Arab/Chinese roles); Ch10 All the Silks of China (Quanzhou/Zaytun, Hangzhou, silk/porcelain production, paper money, guilds, Hangchow description, technological superiority, Ming withdrawal/Black Death/economic collapse); Ch11 restructuring (multi-core system, Fall of East precedes Rise of West, variability of systems). Selected 8 claims.
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 16401-end**:
+1. "Europe. See also European subsystem. hegemony of, 353-356" (ll. 2797-2799). taxonomy: contrasts_with: [[afro-eurasian-world-system]] (polycentric no hegemon); contributed_to: [[abu-lughod-before-european-hegemony-1989]] conclusion (no direct path to European hegemony). Updated [[abu-lughod-before-european-hegemony-1989]].
+2. "Rise of the West, 15, 260, 361, 368" (ll. 3758). taxonomy: contrasts_with: [[afro-eurasian-world-system]] in [[high-middle-ages]]. Updated [[abu-lughod-before-european-hegemony-1989]].
+3. "Fall of the East, 361-362" (ll. 3824). taxonomy: followed_by: restructuring of [[afro-eurasian-world-system]]; part_of: [[abu-lughod-before-european-hegemony-1989]] Ch11. Updated [[abu-lughod-before-european-hegemony-1989]].
+4. "Rules of the game, change of, 361-362" (ll. 3775). taxonomy: produced: post-1350 changes without direct European path; contributed_to: lessons on world systems variability in [[abu-lughod-before-european-hegemony-1989]]. Updated [[abu-lughod-before-european-hegemony-1989]].
+5. "World economic systems ... restructuring, 365-368; restructuring vs. substitution, 366-367; ... variability of structures, 364 365" (ll. 4138-4147). taxonomy: part_of: [[afro-eurasian-world-system]]; contrasts_with: teleological substitution views. Updated [[abu-lughod-before-european-hegemony-1989]].
+6. "thirteenth-century world system ... restructuring, 364-368; ... variability of structures in, 364-365; world economy, 3-8, 8-20" (ll. 3962-3977). taxonomy: part_of: [[afro-eurasian-world-system]] during [[high-middle-ages]]. Updated [[high-middle-ages]].
+7. "Black Death/Bubonic Plague, 19, 72, 73, 87, 94-96, 125-126, 127, 130, 170, 171-174, 183, 184, 215, 230, 233, 235, 236, 244, 356, 359, 360 in China, 339-340, 341-343; in Egypt, 235, 236-239; ... trade routes and spread of, 126, 172 173" (ll. 2419-2431). taxonomy: caused_by: Black Death/Mongol impacts; contributed_to: restructuring of [[afro-eurasian-world-system]] post [[high-middle-ages]]. Updated [[abu-lughod-before-european-hegemony-1989]].
+8. "Mongols ... contribution to world economy of, 154; ... unintended consequences of Mongol success, 170-175" (ll. 3495-3499). taxonomy: enabled: [[afro-eurasian-world-system]] integration; contributed_to: later collapse/restructuring in [[abu-lughod-before-european-hegemony-1989]] conclusion. Updated [[abu-lughod-before-european-hegemony-1989]].
+9. "Northeast passage, Mongols and, 153—183 caravan centers, 175-182; ... lessons from, 182—183" (ll. 3567-3580). taxonomy: part_of: [[afro-eurasian-world-system]] (overland via silk-road analogs); contributed_to: theoretical lessons on variability. Updated [[abu-lughod-before-european-hegemony-1989]].
+10. "economic decline of ... of China, 344-347" (ll. 2754). taxonomy: contributed_to: end conditions for [[afro-eurasian-world-system]] peak in [[high-middle-ages]]. Updated [[abu-lughod-before-european-hegemony-1989]].
+**Taxonomy Used**: contrasts_with, contributed_to, part_of, followed_by, produced, caused_by, enabled (per CLAUDE.md; no sequence/causation conflation).
+**Pages Touched/Updated**: [[abu-lughod-before-european-hegemony-1989]], [[afro-eurasian-world-system]], [[high-middle-ages]].
+**Lint/Compliance Notes**: Range-exclusive; verbatim+lines from cache only; established names only (abu-lughod-before-european-hegemony-1989, afro-eurasian-world-system, high-middle-ages, silk-road analogs per scaffold); no artifacts; CLAUDE.md compliant. Range summary: Conclusion Ch11 + bib/index - restructuring post-1350, theoretical implications, no direct path to European hegemony, Black Death/Mongol collapse impacts. 4-8 selected for subsection edits on source + high-middle-ages.
+
+## Volume Synthesis Note
+
+Janet Abu-Lughod's *Before European Hegemony* (1989) supplies the wiki's primary secondary synthesis for the polycentric Afro-Eurasian world system of c. 1250–1350. Its central claim is that a functioning, interlinked world economy already existed across the Old World long before European hegemony: eight interlocked circuits grouped into three subsystems (western European, Middle Eastern/Mamluk, Far Eastern/Asian) with multiple co-existing "cores" rather than a single dominant power. Mongol stability (Pax Mongolica) lowered risks on overland routes and enabled the "Northeast Passage" for some goods, but the bulk of high-value exchange (spices, silk, porcelain, bullion) moved by sea. Mamluk Egypt and its Red Sea/Karimi networks served as the indispensable gatekeeper between the Indian Ocean and the Mediterranean; Chinese ports (especially Quanzhou/Zaytun and Hangzhou) functioned as the manufacturing powerhouse and ultimate demand sink.
+
+The book is explicitly anti-teleological. It demonstrates that the "Fall of the East"—demographic catastrophe from the Black Death, fragmentation of the Mongol khanates, Ming withdrawal from maritime projection, and Timurid disruptions—preceded and helped create the conditions for Europe's later Atlantic expansion, rather than Europe simply inheriting or replacing an earlier hegemon. The thirteenth-century system "failed to hegemonize" because of its very variability: differing institutions, credit mechanisms, and political structures across circuits meant no single logic of accumulation or conquest restructured the whole. This directly critiques Wallerstein's framing of the modern world-system as beginning only circa 1500 and supplies the conceptual language for a genuinely pre-European globalization.
+
+In the wiki this source fills Gap 10 (world-systems and transregional analysis). It cross-links and deepens [[high-middle-ages]], the process page [[afro-eurasian-world-system]], the silk-road and Indian Ocean hubs, key actors (Mamluk sultanate, republic-of-genoa, republic-of-venice, mongol-empire), and places (cairo, quanzhou, southeast-asia entrepôts). It complements but is distinct from Hansen's site-focused *Silk Road* (debunking volume myths while confirming cultural transmission) and the Cambridge World History volumes on exchange webs. Data limitations (1980s estimates of city sizes and flows) are noted in the reliability section; the core structural argument remains robust and has shaped subsequent global history. The source page and all derived claims preserve the book's insistence on the variability of world-systems and the absence of any inevitable European path.

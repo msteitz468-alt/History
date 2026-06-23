@@ -87,6 +87,16 @@ Java, Bali, and north Vietnam had begun to build on the ground. Against this imp
 **"noble temples"** — Angkor, Pagan, Borobudur, the gilded stupas, and the distinctive multi-tiered
 archipelago mosque — the only buildings made to last. **Dress** displayed wealth (especially gold
 jewellery and the *kris*) but, strikingly, varied little between rich and poor or even male and female;
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 12401-16400**:
+1. "In lieu, then, of real information and sources for the Straits area in medieval times, historians have imaginatively combined and recombined the same limited number of informational scraps." (ll. 12430-12437). taxonomy: part_of: [[southeast-asia]] historiography and source gaps. Updated [[southeast-asia]].
+2. "The region changed from “gateway’” to dependency, at the mercy of powerful core trading partners." (ll. 12600-12602). taxonomy: produced: dependency of [[southeast-asia]] on core regions in [[hubs/regions/indian-ocean|Indian Ocean]] trade. Updated [[southeast-asia]].
+3. "Southeast Asia was always inferior to the core areas because it neither produced nor shipped industrial goods in quantity. The southeast Asian economies, although important in the transit trade, provided only “agricultural produce and raw materials for Indian and Chinese industrial wares.”" (ll. 12616-12621). taxonomy: part_of: peripheral transit role of [[southeast-asia]] within [[afro-eurasian-world-system]]. Updated [[southeast-asia]].
+4. "Once this policy of trade interdiction was reversed at the time of the Sung dynasty... the role of the “Empire” of Srivijaya shrank. The petty principalities along the Strait were no longer indispensable as intermediaries, once Indian and particularly Arab ships were given freer, albeit supervised, access to several Chinese ports..." (ll. 12680-12688). taxonomy: contributed_to: decline of Srivijaya intermediary power in [[southeast-asia]]. Updated [[southeast-asia]].
+5. "There were four Harbor Masters, each of whom handled incoming and outgoing boats, collected duties on their merchandise... One was concerned exclusively with ships coming from the Middle East, Persia, India, and Ceylon, the second with ships from Sumatra and other points along the straits... the final harbor master with traders from Siam (Thailand), Cambodia, Ryu Kyu, Brunei, and, most important, China." (ll. 12863-12883). taxonomy: part_of: entrepot organization in [[southeast-asia]] for [[hubs/regions/indian-ocean|Indian Ocean]] circuits. Updated [[southeast-asia]].
+**Taxonomy Used**: part_of, produced, contributed_to (per CLAUDE.md).
+**Pages Touched/Updated**: [[southeast-asia]], [[abu-lughod-before-european-hegemony-1989]], [[hubs/regions/indian-ocean|Indian Ocean]].
+**Lint/Compliance Notes**: Range-exclusive; verbatim+lines; established names only; no artifacts; CLAUDE.md compliant. Focus: Ch9 Strait and Narrow (SE Asia/Malacca entrepots, Srivijaya decline to dependency, Malacca organization).
 to outsiders the bare feet, bare heads, and bare torsos read as "nakedness." **Metalwork was "the key
 to power"**: iron for war and the plough, the smith both low-status and sacred (metalworking myths in
 state-founding legends), with the region a net importer of all industrial metals except **tin** (the

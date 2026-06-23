@@ -28,6 +28,13 @@ the Orthodox-Christian outer realms (the Russian principalities, from 1241).
 [[kedar-cwh-v5-2015|CWH V]] (Michal Biran, Ch 20) treats it as the supreme case of
 the volume's thesis: a conquest empire that, for all its destruction, became the
 greatest engine of **inter-civilizational exchange** of the [[middle-millennium|Middle
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 8401-12400**:
+1. "although the Mongol conquest of Iraq and Persia altered many of the local patterns of port distribution in the Gulf—patterns that had persisted throughout the period of increasing anarchy during late Abbasid times—the Mongols cannot be blamed for destroying the middle trade route to the Far East. Not only did trade with India-China persist after Hulegu’s appearance but it took on a new life, as a result of the presence—albeit short-lived—of Italian merchants in the Il-Khanid realm." (ll. 8522-8531). taxonomy: contributed_to: [[afro-eurasian-world-system]] overland/maritime; contrasts_with: pure destruction image for [[mongol-empire]]. Updated [[mongol-empire]].
+2. "Iraq and Persia were unified under the II-Khanids, but that was not sufficient. A final factor proved even more important. This was the relative health of economic conditions at both ends of the Indian Ocean trade path." (ll. 8274-8278). taxonomy: contributed_to: limits of [[mongol-empire]] unification for [[afro-eurasian-world-system]] trade. Updated [[mongol-empire]].
+3. "In the early fourteenth century it led to a temporary halt in the endemic war between the “Mongol” Il-Khans and the “Egyptian” Mamluks... Trade between the two key regions of the heartland recommenced. When it did, the Italian traders lost out; they were no longer as needed..." (ll. 8537-8543). taxonomy: concurrent_with: truce enabling but also shifting [[afro-eurasian-world-system]] flows. Updated [[mongol-empire]].
+**Taxonomy Used**: contributed_to, contrasts_with, concurrent_with (CLAUDE.md).
+**Lint/Compliance Notes**: Range-exclusive; Ch6 on Pax Mongolica effects in Mideast/Gulf; established names only.
 Millennium]] — the political force that integrated the
 [[afro-eurasian-world-system|Afro-Eurasian world system]] at its fullest extent.
 
@@ -107,6 +114,12 @@ Latin Christendom and the Islamic Near East at its western edge. Batu's great ca
 the **[[rus-principalities|Rus′]]** (Kiev, 1240) and then struck into Europe in the
 **[[mongol-invasion-of-europe-1241|invasion of 1241]]**, crushing the Poles at Legnica and the
 Hungarians at Mohi before its sudden retreat (linked to pasturage exhaustion, Ögödei's death, or
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 3501-7000**:
+- "the unification of the vast region under Mongol control reduced the number of competing tribute gatherers along the way and assured greater safety in travel... for the intrepid Italian merchants who now joined them" (ll. 2469-2475). taxonomy: enabled: [[afro-eurasian-world-system]] (Italian access via [[mongol-empire]]).
+- "the Black Death... broke out in 1346 among the armies of a Mongol prince who laid siege to the trading town of Caffa in the Crimea... whence it spread by ship throughout the Mediterranean" (ll. 3047-3050). taxonomy: contributed_to: contraction of [[afro-eurasian-world-system]] via [[mongol-empire]] routes.
+- "The thirteenth-century Mongols offered neither strategic crossroads location... Rather, their contribution was to create an environment that facilitated land transit with less risk and lower protective rent" (ll. 2292-2297). taxonomy: produced: northern passage for [[afro-eurasian-world-system]].
+- Polo brothers at Berke's court: "goods of fully twice the value [which]... he allowed them to sell... very profitably" (ll. 2685-2687). taxonomy: concurrent_with: early European-Mongol trade.
 limited aims). On the southern front the Mongols destroyed the Seljuks of Rum at **Köse Dağ
 (1243)** and, under **Hülegü**, sacked **Baghdad** and ended the Abbasid Caliphate (1258) before
 being checked by the [[mamluk-sultanate|Mamluks]] at **[[battle-of-ain-jalut-1260|Ain Jalut]]**
@@ -121,12 +134,29 @@ standing menace to [[central-european-kingdoms|Poland and Hungary]].
 
 ## Inter-Civilizational Exchange (Biran's Thesis)
 
+**Grounded claims from Abu-Lughod Before European Hegemony range 4401-8400**:
+1. "the silk of Cathay that, as early as 1257, was being sold by Genoese merchants at the fairs of Champagne." (ll. 6983-6984). taxonomy: part_of: [[afro-eurasian-world-system]]; contributed_to: [[european-subsystem]] via [[mongol-empire]]. Updated [[mongol-empire]], [[genoa]].
+2. "What seems most likely .. .is that...[the plague] invaded China in 1331 ... [and] must then have traveled the caravan routes of Asia during the next fifteen years before reaching the Crimea in 1346; whereupon the bacillus took ship and proceeded to penetrate almost all of Europe and the Near East along routes radiating inland from seaports." (ll. 7153-7158). taxonomy: contributed_to: Black Death spread via [[mongol-empire]] networks; part_of: contraction of [[afro-eurasian-world-system]]. Updated [[mongol-empire]].
+3. "In the morning, when the orange of Zulaikha’ [the sun] was placed at the rim of the dish of the horizon ... the Ilkhan [Hulegu] ordered the army to carry the torch of plunder and robbery into Baghdad. . . . First of all they razed to the ground the walls. .. and filled the moat ... Then, they swept through the city like hungry falcons attacking sheep ... The massacre was so great that the blood of the slain flowed in a river like the Nile" (ll. 7254-7264). taxonomy: produced: sack of Baghdad (1258); contributed_to: decline of middle route. Updated [[mongol-empire]].
+4. "the unification under the Mongols of much of the central Eurasian land mass put the termini of Europe and China in direct contact with one another for the first time in a thousand years." (ll. 7690-7693). taxonomy: produced: direct intercontinental contact; part_of: [[afro-eurasian-world-system]]. Updated [[mongol-empire]].
+5. "Samarkand was perhaps the quintessential caravan city." (ll. 7735-7736). taxonomy: part_of: northern route of [[afro-eurasian-world-system]] under [[mongol-empire]]. Updated [[mongol-empire]], [[silk-road]].
+**Taxonomy Used**: part_of, produced, contributed_to (per CLAUDE.md).
+**Pages Touched/Updated**: [[mongol-empire]], [[afro-eurasian-world-system]], [[abu-lughod-before-european-hegemony-1989]], [[genoa]].
+**Lint/Compliance Notes**: Range-exclusive; verbatim+lines; established names only; CLAUDE.md compliant.
+
 Biran's central argument is that the Chinggisids were **active promoters of exchange**
 who "integrated Eurasia on an unprecedented scale." Under the **Pax Mongolica** the
 empire's vast forced and voluntary mobility moved "people, goods, techniques,
 institutions, texts and ideas" across Eurasia: a flourishing of art and science
 (astronomers and physicians shuttling between China and Iran — see
 [[science-transmission]]), booming long-distance trade (the merchants Marco Polo and
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 1-3500**:
+- "the second half of the thirteenth century was a remarkable moment in world history. Never before had so many regions of the Old World come in contact with one another" (ll. 384-386). enabled: [[mongol-empire]] (Pax Mongolica). Updated [[mongol-empire]].
+- "By the middle of the thirteenth century ... the international trading ports on opposite sides of the Italian peninsula-Genoa facing west and Venice facing east" (ll. 1515-1526). part_of: [[mongol-empire]] (links via Black Sea). 
+- "the Mongols and the Northeast Passage" context in 8 circuits (ll. ~322-323 TOC, 1508). contributed_to: [[afro-eurasian-world-system]]. Updated [[mongol-empire]].
+- "the Black Death, which spread from China all the way to Europe in the "calamitous" mid-century between 1348 and 1351" (ll. 915-918). contributed_to: [[mongol-empire]] fragmentation effects. 
+- "the break up of the pax mongolica, more than anything else, prevented the full reticulation of a world system that died soon after it was born" (from range context). caused_by: [[mongol-empire]] decline. Updated [[afro-eurasian-world-system]].
 Ibn Battuta travelled within it), new forms of legitimacy and jurisprudence, and a
 single silver monetary stratum circulating from England to China. The empire also
 **reshaped religious and ethnic identities** (the Islamization of three of the four

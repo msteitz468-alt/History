@@ -74,3 +74,11 @@ Indies** ("would Columbus have sailed?").
 - pax mongolica · [[silk-roads]] — the peace and routes it ran on; [[chinggis-exchange]] — the wider opening.
 - [[medieval-latin-missions-to-asia]] · [[mongol-latin-crusade-alliance]] — the religious and diplomatic strands.
 - [[golden-horde]] — the Black Sea gateway; [[black-death]] — the cargo that came back; [[jackson-mongols-and-the-west]] — the source.
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 1-3500**:
+- "By the middle of the thirteenth century, three European nodes were forming into a single circuit of exchange: ... the fairs of Champagne ... Bruges ... Ghent ... Genoa facing west and Venice facing east" (ll. 1515-1526). part_of: [[medieval-europe-asia-trade]].
+- "the Champagne fairs ... rendezvous for the whole of Europe" (ll. 2258-2259). contributed_to: [[medieval-europe-asia-trade]].
+- "the Italians ... key intermediaries, expanding demand and supply to the regions beyond Europe. They made the fairs truly international." (ll. 2656-2657). contributed_to: [[medieval-europe-asia-trade]] (Italian role).
+- "the last Italian merchants to visit the fairs came in 1350" (ll. 2844). followed_by: decline of [[medieval-europe-asia-trade]].
+- "the Black Death ... decimated most of the cities along the great sea route of world trade" (ll. 915-918). contributed_to: [[medieval-europe-asia-trade]] contraction. Updated [[afro-eurasian-world-system]].
+- "the Genoese had first sailed ... regular galley service between Genoa and Bruges was established, permitting the two parties to bypass the Champagne fairs" (ll. 3465-3473). enabled: shift in [[medieval-europe-asia-trade]].

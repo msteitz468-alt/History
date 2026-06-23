@@ -63,3 +63,11 @@ views:
       - property: date_start
         direction: ASC
 ```
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 1-3500**:
+- "the thirteenth century "world economy" which facilitated such pandemic prosperity for its rulers" (ll. 429-430). part_of: [[trade-economy]]. Updated [[afro-eurasian-world-system]].
+- "In all three culture areas recognized currencies were a sine qua non of international trade, with developments in western Europe coming much later and, if our contention is correct, derivatively" (ll. 769-772). contributed_to: [[trade-economy]] (credit mechanisms).
+- "the true originality of the Champagne fairs lay not in the goods they exchanged but "in the money market and the precocious workings of credit on display there"" (ll. 2743-2744). produced: [[trade-economy]].
+- "external geopolitical factors are absolutely crucial in determining whether or not a location will be "strategic" for world trade" (ll. 2920-2921). part_of: [[trade-economy]].
+- "there were some eight interlinked subsystems involved" (ll. 1504-1505). part_of: [[afro-eurasian-world-system]]. Updated [[trade-economy]].
+- "the Black Death ... decimated most of the cities along the great sea route of world trade" (ll. 915-918). contributed_to: [[trade-economy]] restructuring.

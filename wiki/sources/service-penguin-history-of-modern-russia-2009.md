@@ -7,8 +7,8 @@ period_coverage: [long-19th-century, world-wars-era, cold-war, contemporary]
 region_coverage: [eastern-europe, russia, central-asia, steppe]
 methodological_approach: narrative political history; post-1991 archival research; redefinition of totalitarianism as a "Soviet compound" combining official hierarchy with informal resistance, clientelism, and dysfunction as integral "lubricating oil"
 reliability_notes: "Leading Western specialist on 20th-century Russia (author of major Lenin and Stalin biographies). Draws on GARF, RTsKhIDNI and other archives opened after 1991. Strong on high politics, leadership personalities, and the limits of central control. Less emphasis on social history 'from below' than some revisionists. Third edition (2009) extends coverage through Putin's early presidencies."
-pages_created: 3
-pages_updated: 14
+pages_created: 8
+pages_updated: 35
 ingested: 2026-06-22
 tags: [source]
 ---
@@ -209,3 +209,11 @@ sources_ingested: 1
 - Succession struggle: Trotsky vs "troika" (Stalin/Kamenev/Zinoviev); "Socialism in One Country" (Stalin Dec 1924); "scissors crisis" (Trotsky 1923); NEP economic recovery but "Urals-Siberian method" of grain seizures (1928) signals end. Shakhty trial (1928) intimidates specialists. Stalin vs Bukharin ("Right Deviation") erupts over pace of industrialization/collectivization. (lines 1318–1450)
 
 **Pages primarily affected/updated by this range**: long-19th-century, world-wars-era, russian-empire, soviet-union, nicholas-ii, lenin-vladimir, stalin-joseph, trotsky-leon, february-revolution-1917, october-revolution-1917, russian-civil-war-1918, new-economic-policy (plus source page). All claims grounded exclusively in the 200–1450 line range. Cross-links use only established names; causes/consequences filled where range provides evidence (or unknown). Historiography sections incorporate Service's explicit arguments.
+
+## Volume Synthesis Note
+
+Robert Service's *The Penguin History of Modern Russia* (3rd ed., 2009) is the wiki's core single-volume narrative for Russia from the late tsarist era through the Soviet "experiment" to the early Putin years. Its distinctive contribution is the concept of the "Soviet compound": a durable order assembled under Lenin (one-party state, ideological autocracy, legal nihilism, ultra-centralist administration, state economic dominance) and remodelled under Stalin, sustained not only by terror and force but by graduated rewards, recurrent agitation ("activation" campaigns, denunciation, production quotas), and the tacit recognition that informal practices—clientelism, low effort, corruption, misinformation—were the necessary "lubricating oil" preventing the machinery from seizing up.
+
+Service stresses leadership and contingency: Lenin, Stalin, Khrushchev, Brezhnev, Gorbachev, Yeltsin and Putin all mattered enormously; outcomes were not predetermined. The compound had self-undermining features (nationalism, economic waste, environmental damage, elite cynicism) that Gorbachev's radical reforms (glasnost, perestroika, repeal of Article 6) released rather than cured, leading to the 1991 dissolution. Post-Soviet Russia achieved real gains (elections, market elements, reduced repression, great-power status restoration) but retained authoritarian concentration of power, criminality, inequality, and weak civic institutions. The burden of the past includes tsarist legacies of weak civil society and state dominance, not only Bolshevik innovation.
+
+In the wiki this source deepens coverage for long-19th-century through contemporary periods (especially world-wars-era, cold-war, contemporary), supplies rich grounded claims for key actors (Lenin through Putin), events (1917 revolutions, Civil War, Great Purge, 1991 coup/dissolution, 1993 crisis) and processes (NEP, collectivization, perestroika, shock therapy). It complements Riasanovsky (broader sweep) and Freeze (multi-author) with Service's archival depth and "compound" framing. It challenges both orthodox totalitarian models (by integrating the informal) and some revisionist emphases (by insisting on the centrality of dictatorship and terror). Limitations: strong on high politics and leaders; lighter on social history from below or quantitative economic analysis. The source page and extracted claims preserve Service's emphasis on the non-inevitable nature of Soviet longevity and post-1991 outcomes.

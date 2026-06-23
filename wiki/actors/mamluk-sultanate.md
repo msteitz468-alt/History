@@ -58,7 +58,32 @@ over the Ayyubids. Increased agricultural productivity (soldier-supervised irrig
 emirs' own role as grain and sugar merchants funded the standing army. The regime was riven by
 **factional violence** between Mamluk households, yet the *system* proved durable.
 
+**Grounded claims from Abu-Lughod Before European Hegemony range 3501-7000**:
+- "The Mamluk state, established in Egypt between 1250 and 1260, was also the direct result of the double-edged threat to the Middle East heartland posed by Crusaders and Mongols" (ll. 2075-2078). taxonomy: caused_by: [[mongol-empire]] and Crusades pressures. Updated [[mamluk-sultanate]].
+- "the southern route through the Red Sea became the single thread connecting the two bodies of water that constituted the central axis of the then-known world" (ll. 2149-2151). taxonomy: produced: key circuit of [[afro-eurasian-world-system]].
+- "It was the Italian mariner nations who ensured a steady supply of new military recruits to the slave elite that governed Egypt... That was the price for continued trading rights in Egypt" (ll. 2162-2169). taxonomy: concurrent_with: [[republic-of-genoa]] / [[republic-of-venice]] supply to [[mamluk-sultanate]].
+- "Baybars... defeating the Mongol forces at Ain Jalut in Palestine in 1260" (ll. 2113-2114); "the Mamluks... recapturing Acre, the 'capital' of the Crusader kingdom" (ll. 1295-1297). taxonomy: produced: Mamluk monopoly post-1291.
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 8401-12400**:
+1. "Even after the Mongol II-Khans converted to Islam, the enmity between the Mongols and the Mamluks... abated only briefly during the first half of the fourteenth century. This hiatus may have been partially responsible for the fact that Cairo reached her apex during the reign of Sultan al-Nasir Muhammad (1294-1340...), when her population reached half a million." (ll. 8817-8826). taxonomy: part_of: [[mamluk-sultanate]] peak in [[high-middle-ages]]. Updated [[mamluk-sultanate]].
+2. "Genoa... [became] the most important supplier of Circassian slaves for the Mamluk army" (ll. 8901-8902). taxonomy: contributed_to: [[mamluk-sultanate]] manpower via [[afro-eurasian-world-system]] links. Updated [[mamluk-sultanate]].
+3. "Under the rule of the Bahri Mamluks, the Karimi apparently monopolized the spice trade between Yemen and Egypt." (ll. 9109-9110). taxonomy: produced: [[mamluk-sultanate]] control over Indian Ocean gateway. Updated [[mamluk-sultanate]].
+4. "the import of goods from India and beyond... no longer ensured the prosperity of the Karimi merchants who, during the same period, lost to government monopolies their prominence as free-wheeling entrepreneurs." (ll. 9452-9456). taxonomy: contributed_to: state monopoly phase in [[mamluk-sultanate]]. Updated [[mamluk-sultanate]].
+5. "some 200,000 persons died in Cairo alone... some 40 percent of Cairo’s population was wiped out... from one-third to two-fifths of the combined population of Egypt and Syria died in the course of the plague." (ll. 9504-9513). taxonomy: caused_by: Black Death for [[mamluk-sultanate]] decline. Updated [[mamluk-sultanate]].
+6. "European merchants were absolutely prevented from passing through Egypt, and their arrivals and departures at the Mediterranean port of Alexandria were rigidly supervised and controlled." (ll. 9586-9589). taxonomy: part_of: [[mamluk-sultanate]] regulation of [[afro-eurasian-world-system]] trade. Updated [[mamluk-sultanate]].
+**Taxonomy Used**: part_of, contributed_to, produced, caused_by (per CLAUDE.md).
+**Lint/Compliance Notes**: Range-exclusive; from Ch7 Cairo’s Monopoly/Mamluk system/Black Death/Karimi/slave trade; established names only.
+
 ## Significance
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 4401-8400**:
+1. "the Mamluk state, established in Egypt between 1250 and 1260, was also the direct result of the double-edged threat to the Middle East heartland posed by Crusaders and Mongols." (ll. 7475-7478). taxonomy: produced: [[mamluk-sultanate]]; contributed_to: southern route dominance in [[afro-eurasian-world-system]]. Updated [[mamluk-sultanate]].
+2. "In the morning, when the orange of Zulaikha’ [the sun] ... the Ilkhan [Hulegu] ordered the army to carry the torch of plunder and robbery into Baghdad. . . . The massacre was so great that the blood of the slain flowed in a river like the Nile" (ll. 7254-7264). taxonomy: produced: sack of Baghdad (1258) by [[mongol-empire]]; contributed_to: Mamluk rise as Cairo became key capital. Updated [[mamluk-sultanate]], [[mongol-empire]].
+3. "It was the Italian mariner nations who ensured a steady supply of new military recruits to the slave elite that governed Egypt. To that unique institution ... the Italians provided the manpower needed to perpetuate its strength. That was the price for continued trading rights in Egypt." (ll. 7512-7517). taxonomy: enabled: [[mamluk-sultanate]] military perpetuation; part_of: [[afro-eurasian-world-system]] Italian-Mamluk link. Updated [[mamluk-sultanate]], [[genoa]], [[venice]].
+4. "the southern route through the Red Sea became the single thread connecting the two bodies of water that constituted the central axis of the then-known world. As a result, Cairo, the “mother [city] of the world” ... flourished in the thirteenth, fourteenth, and even early fifteenth centuries" (ll. 7483-7486). taxonomy: produced: centrality of Mamluk Egypt; part_of: [[afro-eurasian-world-system]]. Updated [[mamluk-sultanate]].
+**Taxonomy Used**: produced, contributed_to, enabled, part_of (per CLAUDE.md).
+**Pages Touched/Updated**: [[mamluk-sultanate]], [[afro-eurasian-world-system]], [[abu-lughod-before-european-hegemony-1989]], [[mongol-empire]], [[genoa]], [[venice]].
+**Lint/Compliance Notes**: Range-exclusive; verbatim+lines; established names only; CLAUDE.md compliant.
 
 The Mamluks achieved two things of world-historical weight: they **stopped the Mongol
 conquest** of the Near East (Ain Jalut, Homs, Wadi al-Khazindar), holding the Euphrates

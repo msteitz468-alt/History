@@ -61,3 +61,11 @@ views:
 - "The Dunhuang Caves" (ll. 10428). taxonomy: part_of: [[dunhuang]].
 - "Conclusion The History of the Overland Routes through Central Asia" (ll. 10453). taxonomy: contrasts_with: [[silk-roads]].
 All verbatim from range; established names only.
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 1-3500**:
+- "the thirteenth century "world economy" ... no single hegemonic power" (ll. 439-442). part_of: [[silk-road]] (as connector in 8 circuits). Updated [[afro-eurasian-world-system]].
+- "there were some eight interlinked subsystems involved ... three larger circuits" (ll. 1504-1508). contains: [[silk-road]] (northeast passage etc.). 
+- "the Mongols and the Northeast Passage" (TOC ll. 323). contributed_to: [[silk-road]] (Pax Mongolica). Updated [[mongol-empire]].
+- "goods were transferred, prices set, exchange rates agreed upon, contracts entered into, credit ... extended" (ll. 502-504). part_of: [[silk-road]] trade.
+- "the Black Death, which spread from China all the way to Europe" (ll. 915-916). concurrent_with: [[silk-road]] routes. Updated [[afro-eurasian-world-system]].
+All verbatim from range; established names only.

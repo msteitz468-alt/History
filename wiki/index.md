@@ -5,7 +5,7 @@
 > civilization, or region**, use the hubs from [[home|Home]]; for **coverage and gaps**, see
 > [[overview|the Coverage Map]].
 
-_Last updated: 2026-06-22. The running ingest log formerly duplicated at the top of this page now
+_Last updated: 2026-06-23. The running ingest log formerly duplicated at the top of this page now
 lives solely in [[log|log.md]], the canonical append-only record of all ingests and sessions._
 
 ---
@@ -386,6 +386,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `code-of-hammurabi.md` | The Code of Hammurabi (L.W. King trans.) | c. 1750 BCE (L.W. King trans. early 20th c.) | primary | (scaffold + 2 staggered subagent ranges; 42 grounded claims with quotes/lines; Volume Synthesis Note; prologue/282 casuistic laws/epilogue; social classes, talion, family/commerce/agriculture rules; updated hammurabi + babylon-first-dynasty + middle-bronze-age) |
 | `homer-odyssey-lombardo.md` | Homer, The Odyssey (Stanley Lombardo trans.) | c. 750–700 BCE (monumental; Lombardo trans. 2000) | primary | (scaffold + 4 staggered subagent ranges; ~80 grounded claims with quotes/lines; Volume Synthesis Note; 24-book nostos: Telemachy, Phaeacians/apologoi, return/recognition, climax/peace; updated odysseus/penelope/ithaca + homer; complements Iliad) |
 | `hansen-silk-road-2012.md` | The Silk Road: A New History (Valerie Hansen) | 2012 | secondary | (scaffold + 4 staggered subagent ranges; ~83 grounded claims with quotes/lines; Volume Synthesis Note; small-scale/local trade vs. cultural transmission via migrants/Sogdians; religious tolerance pre-Islam; documents from 7 oasis sites; updated silk-roads.md + periods/hubs) |
+| `abu-lughod-before-european-hegemony-1989.md` | Before European Hegemony: The World System A.D. 1250–1350 — Janet L. Abu-Lughod | 1989 | secondary | (scaffold + 5 staggered subagent ranges on OCR sidecar; ~45 grounded claims with verbatim + lines; Volume Synthesis Note; 8 circuits / polycentric / no hegemon / Mamluk gatekeeper / Chinese cores / "Fall of East precedes Rise of West"; updated afro-eurasian-world-system + high-middle-ages + quanzhou + genoa/venice + mamluk-sultanate + southeast-asia; Gap 10) |
 | `virgil-aeneid.md` | Virgil, The Aeneid (Robert Fagles trans.; Knox intro) | 29–19 BCE (composed); this edition Viking Penguin, 2006 | primary | (scaffold + 5 staggered subagent ranges; ~100 grounded claims with quotes/lines; Volume Synthesis Note; pietas/fatum vs. furor, Homeric models, Dido/Turnus/Camilla, Augustus/Rome destiny, founding cost; updated virgil + aeneas + cross-links; complements Georgics and Iliad/Odyssey) |
 | `romer-egyptian-book-of-the-dead-2008.md` | The Egyptian Book of the Dead (Budge trans., Romer intro) | 2008 (Penguin Classics ed.; Budge 1899/1909) | primary | (4 subagent ranges + main-thread recovery for judgment core; source + osiris/anubis/thoth/maat/thebes/memphis + periods updated; ~67 grounded claims with quotes/lines on Negative Confessions, heart-weighing, transformations, Duat navigation; Volume Synthesis Note added; Theban New Kingdom funerary spells, Osiris judgment, Maāt ethics) |
 | `barker-cwh-v2-2015.md` | The Cambridge World History, Volume II: A World with Agriculture, 12,000 BCE–500 CE | 2015 | reference |
@@ -438,12 +439,12 @@ Per-page new/updated details live in each source page and `log.md`.
 | Events | 364 |
 | Processes | 282 |
 | Actors | 778 |
-| Places | 134 |
+| Places | 135 |
 | Concepts | 507 |
 | Comparisons | 4 |
 | Controversies | 59 |
 | Timelines | 5 |
 | Queries | 0 |
-| Sources | 218 |
+| Sources | 219 |
 | Hubs | 54 |
 | **Total (all `.md`)** | **2444** |

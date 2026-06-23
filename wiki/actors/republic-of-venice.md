@@ -74,3 +74,9 @@ narratives of flight from the barbarians, the antiquity of the dogeship). NCMH I
 ninth-century reality from Frankish and Byzantine diplomatic records, the chronicle of John the Deacon, and
 charters, stressing Venice's emergence *out of* the Byzantine provincial system rather than as an
 independent foundation.
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 3501-7000**:
+- "Venice... appropriated the best part of the imperial territory... claiming three-eights of the city and empire, including all of Crete... made Venice the dominant force controlling European access to the spices and silks of Asia" (ll. 854-865). taxonomy: produced: [[republic-of-venice]] hegemony post-[[fourth-crusade-1204]].
+- "In Venice, the arrangements were closer to state capitalism with a strong subcomponent of individual enterprise" (ll. 988-989). taxonomy: contrasts_with: [[republic-of-genoa]]; part_of: [[republic-of-venice]].
+- "a variant had been developed, called the commenda or, in Venice, the colleganza" (ll. 1105-1107). taxonomy: produced: capital pooling in [[republic-of-venice]].
+- "Mamluk Egypt became the key transit point for the sea-borne eastern trade. Thus began the strangely ambivalent relationship between the Venetian traders who tried to gain monopolistic control over the spice trade and the equally monopolistic Mamluk state" (ll. 1299-1304). taxonomy: concurrent_with: [[republic-of-venice]] and [[mamluk-sultanate]].

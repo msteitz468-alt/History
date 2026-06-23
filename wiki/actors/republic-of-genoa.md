@@ -78,6 +78,12 @@ its Atlantic galleys reshaped the medieval economy.
 ## Related
 
 - `contrasts_with:` [[republic-of-venice|Venice]] (stable patrician republic) and Pisa (ruined at [[battle-of-meloria-1284|Meloria]]).
+
+**Grounded claims from Abu-Lughod Before European Hegemony range 3501-7000**:
+- "As soon as the Italians established themselves permanently in Flanders, they began to organize 'nations' or colonies which were composed of all the merchants from the same city.... Genoese, Venetian, Lucchese..." (ll. 48-50). taxonomy: contributed_to: [[republic-of-genoa]] (permanent colonies in Bruges).
+- "the 600 tons of cargo a large Genoese ship could carry in the thirteenth century was roughly equal to the shipping capacities of fourteenth-... and even sixteenth-century vessels" (ll. 912-915). taxonomy: enabled: [[republic-of-genoa]] reach.
+- "Genoa... Her countermove was to set out westward through the Atlantic... direct trade with Bruges was established on a regular basis" (ll. 1306-1321). taxonomy: produced: Atlantic/Bruges link for [[republic-of-genoa]].
+- "the primary item in that trade was the silk of Cathay that, as early as 1257, was being sold by Genoese merchants at the fairs of Champagne" (ll. 2843-2845). taxonomy: contributed_to: [[republic-of-genoa]] integration in [[afro-eurasian-world-system]].
 - `part_of:` the [[commercial-revolution|commercial revolution]] and the Italian maritime republics.
 - `concurrent_with:` the [[guelphs-and-ghibellines|Guelf–Ghibelline]] struggle (Genoa often Ghibelline/neutral, Pisa staunchly Ghibelline).
 - `enabled:` the fall of the Latin empire (Treaty of Nymphaion, 1261) — see [[charles-of-anjou]] and the Byzantine recovery.
