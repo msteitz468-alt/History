@@ -1,6 +1,6 @@
 # Coverage Map and Gap Register
 
-Last updated: 2026-06-22 (after *The Times Atlas of World History* (New Edition, 1999) reference ingest + Guns, Germs, and Steel (Diamond))
+Last updated: 2026-06-22 (after Penguin Atlas of Medieval History (McEvedy) reference + prior atlas/dictionary ingests)
 
 This page tracks the current state of wiki coverage: what periods and regions
 are well-documented, where gaps exist, and what is known to be missing.

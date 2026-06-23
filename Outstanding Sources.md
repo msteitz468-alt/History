@@ -280,6 +280,6 @@ controversy hubs.
 |---|---|---|---|
 | *The Times Atlas of World History* | `[BUY]` | 🟡 | `times-atlas-of-world-history-1999` (reference atlas ingested as cartographic support; source page created with Section Plan by historical sections; limited text extraction due to map format; used for geographic scope, place extents, and timeline cross-checks. Not full narrative ingest per low-priority reference status). Filed PDF retained for maps. |
 | *The Oxford Classical Dictionary* (Hammond & Scullard, 2nd ed. 1970) | `[BUY]` | 🟡 | `oxford-classical-dictionary-1970` (reference dictionary ingested as factual support; source page created noting alphabetical entries for classical world. Not narrative; use for quick facts in actors/places/concepts. PDF + text .md filed to raw/2. Ancient & Classical Civilizations/. Low-priority reference per guidelines.) |
-| *The Penguin Atlas of Medieval History* — Colin McEvedy | `[OUT OF PRINT]` | ❌ | medieval cartography |
+| *The Penguin Atlas of Medieval History* — Colin McEvedy | `[OUT OF PRINT]` | 🟡 | `mcevedy-penguin-atlas-medieval-history-1961` (reference atlas ingested as cartographic support; source page created. Schematic maps for medieval Europe/Mediterranean; low narrative value. PDF + text filed to raw/3. Middle Ages/. Not full ingest per low-priority guidelines.) |
 | *The Penguin Atlas of Ancient History* — Colin McEvedy | `[OUT OF PRINT]` | ❌ | ancient cartography |
 | *Chronology of the Ancient World* — E.J. Bickerman | `[OUT OF PRINT]` | ❌ | dating-precision reference |
