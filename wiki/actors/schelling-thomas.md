@@ -1,0 +1,53 @@
+---
+title: Thomas Schelling
+actor_type: person
+date_start: 1921
+date_end: 2016
+period: [Cold War, Contemporary]
+region: [north-america]
+affiliated_with: []
+opposed_by: []
+key_events: []
+key_processes: []
+sources_ingested: 1
+last_updated: 2026-06-23
+tags: [actor, person, cold-war, north-america]
+---
+
+# Thomas Schelling
+
+Thomas Schelling was the American economist and social scientist who, in Lawrence Freedman's account, "did more than any other to explore the conundrums of [[deterrence|deterrence]] and nuclear strategy." Trained as an economist, he worked on the implementation of the postwar Marshall Plan for economic reconstruction in Europe, an experience that "led to his general interest in negotiations of all types, particularly the process of finding points that could support an agreed solution, possibly through tacit as much as explicit bargaining." His interest in how "nations, people, or organizations go about committing themselves to threats and promises in bargaining positions" brought him into contact with the RAND Corporation in 1956, where he spent "a productive year" from 1958 to 1959. Though offered jobs in the Kennedy administration, he preferred to keep his independence, working only as a consultant. He was one of a cluster of figures in and around RAND in the 1950s — alongside Bernard Brodie, Albert Wohlstetter, and Herman Kahn — who, "despite their differences," built a framework for thinking about nuclear weapons that "acknowledged their horrific novelty yet tried to describe their strategic possibilities." His achievement was crowned by the award of the Nobel Prize in economics in 2005 "for 'having enhanced our understanding of conflict and cooperation through game-theory analysis.'"
+
+His principal works in this field were *The Strategy of Conflict* and *Arms and Influence*. Freedman ranks him "a more substantial theorist" than the more famous Kahn — author of *On Thermonuclear War* — "developing ways of thinking about conflict that illuminated nuclear issues while remaining relevant to broader strategic questions." After the mid-1960s, "when he felt he had said much of what he wanted to say about nuclear matters, he turned his attention to other issues, ranging from crime to cigarette smoking, but still applied the same essential approach." His reputation, Freedman notes, "depended on his gifts as a brilliant expositor who wrote with elegance and lucidity, traits for which this particular field of endeavor were not well known."
+
+## Strategic Thought
+
+**Strategy as interdependent decision.** Schelling started from "the special features of a game of strategy, compared with those of chance or skill: 'Each player's best choice depends on the action he expects the other to take, which he knows depends, in turn, on the other's expectation of his own.'" Strategy was therefore "all about interdependence, 'the conditioning of one's own behavior on the behavior of others.'" The theory lived in the mixture of conflict and cooperation: it "degenerates at one extreme if there is not scope for mutual accommodation... it degenerates at the other extreme if there is no conflict at all."
+
+**Game theory, held at arm's length.** Schelling "did not describe himself as a game theorist but rather a social scientist who used game theory on occasion." He "hit upon his big idea before he came across game theory as a means through which it could be expressed," and "always opposed the suggestion that strategy was or should be 'a branch of mathematics.'" He confessed to having learned more "from reading ancient Greek history and by looking at salesmanship than studying game theory," and judged the single greatest achievement of game theory to be the payoff matrix. Against his critics he observed: "I don't see that game theory is any more involved than Latin grammar or geophysics; but its quaint name makes mysterious and patronizing references to it an effective ploy." (John von Neumann and Oskar Morgenstern had founded the field with *The Theory of Games and Economic Behavior* in 1944.)
+
+**The power to hurt; coercion.** Schelling rethought the role of force. Where force had traditionally been brute — a country could "repel and expel, penetrate and occupy, seize, exterminate" — Schelling asserted that "the ability to hurt was 'among the most impressive attributes of military force.'" Its value lay not in actually inflicting suffering, "which would constitute a gross failure of strategy," but in what opponents would do to avoid it: "The power to hurt is bargaining power. To exploit it is diplomacy — vicious diplomacy, but diplomacy." Coercion — "influencing through threats rather than controlling the opponent's behavior" — sat at the heart of his theory. He split it into two: the defensive [[deterrence|deterrence]] ("persuading an enemy not to attack") and the offensive **compellence** ("inducing withdrawal or acquiescence"). "Deterrence demanded an opponent's inaction; compellence demanded action or ceasing adverse actions."
+
+**Commitment, chance, and the rationality of irrationality.** To inject credibility into nuclear threats that could be "exposed as bluff at the first challenge," Schelling "turned traditional concepts upside down," asking whether "there [could] be strategic advantages in accepting a loss of control." Rather than a "doomsday machine" that removes all choice, he posed the problem as **"The Threat That Leaves Something to Chance,"** in which "the final decision is not altogether under the threatener's control." This set up a "competition in risk-taking," turning conflict into "a contest of 'endurance, nerve, obstinacy and pain.'" His maxim: "Deterrence was possible because of a situation in which terrible things might happen (which was credible because of human irrationality) rather than a specific threat to do those things (which was incredible because of human rationality)." He illustrated this through the game of "chicken," where feigning recklessness — "swaggering, boasting, or feigning drunkenness" — could make "irrationality became rational."
+
+**Focal points and tacit bargaining.** Schelling argued that adversaries who cannot communicate directly can still "concert their intentions or expectations" by converging on salient **focal points** — "national boundaries and rivers, shorelines, the battle line itself, even parallels of latitude, the distinction between air and ground." Such coordination drew "on imagination more than on logic," depending on "analogy, precedent... symmetry," and on "prominent symbols and values in a shared culture." This same instinct underlay his case for stable, second-strike-only nuclear postures and for "arms control," a term coined in the 1950s for "induced or reciprocated 'self-control.'"
+
+## In Freedman's argument
+
+Schelling marks Freedman's pivotal move from **force to bargaining**. He "argued that not only was it possible to think of nuclear strategy in terms of bargaining and coercion but it was unwise to think of it in any other way." This "challenged the idea of a decisive victory directly by claiming that at least in the nuclear area it made no sense" — strategy shifted "from considerations of conquest and resistance to deterrence, intimidation, blackmail, and threats." Freedman pairs him with [[clausewitz-carl-von|Clausewitz]]: where Clausewitz "saw friction as undermining all but the most dogged of strategies, Schelling saw how these uncertainties might be used creatively, if recklessly."
+
+Freedman is not uncritical. He records that "critics complained, with some justice, that the methodology allowed talk about dreadful possibilities in dispassionate terms and contemplated moves that should never be countenanced by a civilized people." The abstraction of the nuclear "games" was a real limitation: the models "did not offer a way of transcending the Cold War conflict and failed to accommodate the ideological and geopolitical issues." On the focal-point thesis, Freedman echoes Hedley Bull's worry that the superpowers would be "'sending and receiving messages and ironing out understandings' with 'scarcely as much as a nod or a wink.'" Yet the achievement stands: "developing a way to think about conflict that could also accommodate cooperation."
+
+## Related
+
+- [[deterrence|Deterrence]]
+- [[strategy|Strategy]]
+- [[grand-strategy|Grand Strategy]]
+- [[clausewitz-carl-von|Carl von Clausewitz]]
+- [[liddell-hart-basil|B. H. Liddell Hart]]
+- [[indirect-approach|The Indirect Approach]]
+- [[boyd-john|John Boyd]]
+- [[business-strategy|Business Strategy]]
+- [[total-war|Total War]]
+- [[hubs/warfare/strategy|Warfare Hub: Strategy]]
+- [[sources/freedman-strategy-a-history-2013|Freedman, *Strategy: A History* (2013)]]

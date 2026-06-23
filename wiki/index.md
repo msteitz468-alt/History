@@ -503,6 +503,7 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `west-point-history-american-revolution-2017.md` | The West Point History of the American Revolution (Rogers & Seidule series eds.; Watson, Lengel, Conway) | 2017 | secondary | (West Point History of Warfare series vol.; military history of the Revolution; 6-chapter Section Plan; 6 subagent claim-digests, all pages main-thread authored; 13 actors + 21 events + west-point + the campaign hub and **18 template-compliant deep battle/siege analyses** in hubs/warfare/age-of-expansion/american-revolutionary-war/; complements [[new-cambridge-modern-history-v8]]; 0 broken links) |
 | `doughty-gruber-warfare-western-world-v1-1996.md` | Warfare in the Western World, Vol. I: Military Operations from 1600 to 1871 (Doughty, Gruber et al.) | 1996 | secondary | (Tier 1 USMA survey backbone; "new material only" scope — Revolution & Civil War cited not re-done; 5 war hubs + **12 deep analyses** (Breitenfeld, Lützen, Blenheim, Rossbach, Leuthen, Austerlitz, Jena–Auerstedt, Borodino/1812, Leipzig, Waterloo, Königgrätz, Sedan) + 4 actors + 3 concepts (limited war → nation in arms → Napoleonic warfare); drafted via "agents draft, I finish"; 0 broken links) |
 | `jablonsky-roots-of-strategy-4-1999.md` | Roots of Strategy, Book 4: Mahan, Corbett, Douhet, Mitchell (ed. David Jablonsky) | 1999 | primary | (Naval & air power theory reader for the [[hubs/warfare/strategy\|Strategy]] sub-hub; "agents draft, I finish" — 4 Sonnet agents, one per theorist; created [[mahan-alfred-thayer\|Mahan]]/[[sea-power]], [[corbett-julian\|Corbett]]/[[maritime-strategy]], [[douhet-giulio\|Douhet]]/[[command-of-the-air]], [[mitchell-william\|Mitchell]]/[[air-power]] + cross-cutting [[strategic-bombardment]] + [[grand-strategy]] + new sub-hub [[hubs/warfare/naval-and-air-power-theory\|Naval & Air Power Theory]]; 0 broken links) |
+| `freedman-strategy-a-history-2013.md` | Strategy: A History (Lawrence Freedman) | 2013 | secondary | (Backbone intellectual history of strategy for the [[hubs/warfare/strategy\|Strategy]] sub-hub; Large-Volume + "agents draft, I finish" — 8 Sonnet agents across 5 parts; built the strategic-thought canon the wiki lacked — actors [[clausewitz-carl-von\|Clausewitz]], [[jomini-antoine-henri\|Jomini]], [[sun-tzu\|Sun Tzu]], [[machiavelli-niccolo\|Machiavelli]], [[delbruck-hans\|Delbrück]], [[fuller-jfc\|Fuller]], [[liddell-hart-basil\|Liddell Hart]], [[schelling-thomas\|Schelling]], [[boyd-john\|Boyd]] + concepts [[annihilation-and-exhaustion]], [[indirect-approach]], [[deterrence]], [[guerrilla-warfare]], [[counterinsurgency]], [[ooda-loop]], [[revolution-in-military-affairs]], [[revolutionary-strategy]], [[business-strategy]]; "art of creating power" / underdog thesis; 0 broken links) |
 
 ---
 
@@ -517,13 +518,13 @@ Per-page new/updated details live in each source page and `log.md`.
 | Periods | 35 |
 | Events | 473 |
 | Processes | 314 |
-| Actors | 898 |
+| Actors | 907 |
 | Places | 159 |
-| Concepts | 660 |
+| Concepts | 669 |
 | Comparisons | 16 |
 | Controversies | 61 |
 | Timelines | 5 |
 | Queries | 0 |
-| Sources | 274 |
+| Sources | 276 |
 | Hubs | 141 |
-| **Total (all `.md`)** | **3041** |
+| **Total (all `.md`)** | **3061** |

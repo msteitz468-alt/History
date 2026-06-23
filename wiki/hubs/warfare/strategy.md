@@ -49,6 +49,40 @@ See the full comparison page for detailed case studies and the "deflationary ver
 - **Byzantine and medieval traditions** — Emphasis on diplomacy, deception, and limited war (Leo VI's *Tactica*).
 - **Early modern and beyond** — Rise of the fiscal-military state, permanent armies, and the professionalization of strategic thought.
 
+## The Intellectual History of Strategy (Freedman)
+
+Lawrence Freedman's *[[sources/freedman-strategy-a-history-2013|Strategy: A History]]* (2013) supplies
+the wiki's **backbone history of strategic thought** and the spine of the theorist/concept pages
+below. His short definition: strategy is "**the art of creating power**" — "getting more out of a
+situation than the starting balance of power would suggest," which is why **underdog strategies**
+(winning by guile, maneuver, and coalition rather than brute force) are its hardest test. His
+recurring contrast is "**Odysseus but not Achilles, [[sun-tzu|Sun Tzu]] and [[liddell-hart-basil|Liddell
+Hart]] but not [[clausewitz-carl-von|Clausewitz]] and [[jomini-antoine-henri|Jomini]]**" — the indirect
+over the direct. The book sweeps three domains and converges on strategy as a **narrative/"script"
+told in the future tense**, after the collapse of faith in central planning.
+
+**Origins.** [[sun-tzu|Sun Tzu]] · [[machiavelli-niccolo|Niccolò Machiavelli]] — cunning, deception,
+*fortuna* vs. *virtù*, winning without (or before) fighting.
+
+**Strategies of force — the military canon.**
+- [[clausewitz-carl-von|Clausewitz]] — war as the continuation of policy; the remarkable trinity; friction; the centre of gravity; absolute vs. real war.
+- [[jomini-antoine-henri|Jomini]] — the "false science": principles, interior lines, the decisive point.
+- [[delbruck-hans|Delbrück]] & the [[annihilation-and-exhaustion]] distinction; [[fuller-jfc|J. F. C. Fuller]] and mechanized "brain and brawn."
+- [[liddell-hart-basil|Liddell Hart]] and the [[indirect-approach]] — dislocation over destruction.
+- [[schelling-thomas|Thomas Schelling]] and nuclear-age [[deterrence]] — coercion, compellence, the rationality of irrationality.
+- [[guerrilla-warfare]] (Lawrence, Mao) and [[counterinsurgency]]; [[boyd-john|John Boyd]]'s [[ooda-loop]]; the [[revolution-in-military-affairs]] and its limits.
+
+**Strategy from below.** [[revolutionary-strategy]] — Marx, Bakunin, [[lenin-vladimir|Lenin]]'s vanguard, and the rival tradition of nonviolent resistance (Gandhi, King).
+
+**Strategy from above.** [[business-strategy]] — scientific management → Drucker → Porter → game theory → Mintzberg's deliberate-vs-emergent critique.
+
+**The limits of strategy (Part V).** All three domains — military, revolutionary, business — began
+confident that the right method would deliver decisive control, and all were undermined by
+experience: "victory in battle did not necessarily lead to victory in war." Freedman's verdict, after
+Eisenhower ("plans are worthless, but planning is everything"), is that strategies are "not so much
+means of asserting control over situations but **ways of coping with situations in which nobody was in
+total control**."
+
 The [[strategic-practice-across-civilizations]] page places non-Western traditions on equal footing with the Western canon.
 
 ## Illustrative Events and Campaigns
@@ -74,6 +108,6 @@ For exhaustive lists, see the live views in the [[hubs/warfare/warfare-hub|Warfa
 - **Key controversies**: [[roman-grand-strategy]], [[military-revolution-thesis]]
 - **Specific systems**: [[mongol-army]], [[kautilyan-statecraft]], [[fabian-strategy]]
 - **Sub-hubs**: [[hubs/warfare/naval-and-air-power-theory|Naval & Air Power Theory]]
-- **Sources**: [[cambridge-history-of-strategy-v1]], [[cambridge-history-of-strategy-v2]], [[murray-making-of-strategy-1994|The Making of Strategy (1994)]], [[sources/jablonsky-roots-of-strategy-4-1999|Roots of Strategy, Book 4 (1999)]]
+- **Sources**: [[cambridge-history-of-strategy-v1]], [[cambridge-history-of-strategy-v2]], [[murray-making-of-strategy-1994|The Making of Strategy (1994)]], [[sources/jablonsky-roots-of-strategy-4-1999|Roots of Strategy, Book 4 (1999)]], [[sources/freedman-strategy-a-history-2013|Strategy: A History (Freedman 2013)]]
 
 This page serves as the dedicated strategy-focused entry point within the Warfare & Strategy section. It deliberately points outward to the deeper comparative work and to the event pages that show strategy in action.

@@ -1,0 +1,56 @@
+---
+title: Carl von Clausewitz
+actor_type: person
+date_start: 1780
+date_end: 1831
+period: [Long 19th Century]
+region: [western-europe, eastern-europe]
+affiliated_with: []
+opposed_by: []
+key_events: []
+key_processes: []
+sources_ingested: 1
+last_updated: 2026-06-23
+tags: [actor, person, long-19th-century, western-europe]
+---
+
+# Carl von Clausewitz
+
+Carl von Clausewitz (born 1780) "learned his military craft in the Prussian army as it failed to resist Napoleon's mass army." Dismayed at Prussia's "craven subordination to victorious France," he joined the Russian army — hence his presence at [[napoleonic-warfare|Borodino]] in 1812 — before returning to Prussian service for the campaign that culminated at Waterloo. Like the bulk of the European officer class he had been "mesmerized by Napoleon," but in 1812 he saw "at close quarters the great man's fallibility: his loss of the killer instinct at the critical moment, the limits to his genius." Sent to direct the war school in an administrative capacity (he did not teach), he used the time to "collect his thoughts about this remarkable and transformational period of warfare and pull them together for a master-work, *On War*." He was still revising it when cholera struck him down in 1832; his widow oversaw the posthumous publication, leaving "commentators guessing about what might have been found had he lived to complete the work to his satisfaction."
+
+In Freedman's account Clausewitz is, alongside [[jomini-antoine-henri|Jomini]], one of the "two greatest nineteenth-century theorists of war." He is now "considered to be the greater of the two." His ambition in *On War* was "more than a textbook for an aspiring general" — "a whole theory of war," a conceptual framework durable enough that "subsequent generations" return to it. Its very ambiguities let "Marxists, Nazis, and liberals" each claim it.
+
+## Strategic Thought
+
+**War as a continuation of policy.** Clausewitz's "most famous dictum, that war is a continuation of policy by other means, is a charter for strategists." The point is that "insisting on political purpose takes war away from mindless violence." But it does not assert "that war is always a sensible expression of policy"; his stress fell on "the limits to strategy, the constraints that make it unwise to try to be too clever."
+
+**The remarkable trinity.** The "key to Clausewitz's greatness" lay in his mature observation that war was shaped by a
+
+> remarkable trinity — composed of primordial violence, hatred, and enmity, which are to be regarded as a blind natural force; of the play of chance and probability within which the creative spirit is free to roam; and of its element of subordination, as an instrument of policy, which makes [war] subject to reason alone.
+
+The trinity "superseded the dictum," for it suggested "that politics was not in command but one factor among three." Politics must set war's terms but "could not challenge the 'grammar of war.'" Clausewitz linked policy, chance, and hatred to government, army, and people respectively.
+
+**Friction and the fog of war.** Friction "helped explain the difference between war as it might be — that is, absolute and unrestrained — and actual war." In his celebrated passage: "Everything in war is simple, but the simplest thing is difficult. The difficulties accumulate and end by producing a kind of friction that is inconceivable unless one has experienced war." Action in war "became like walking in water," and "all actions take place in something virtually akin to dusk." Intelligence compounded this: "Many intelligence reports in war are contradictory; even more are false, and most are uncertain."
+
+**Absolute vs. real war.** War "in the ideal sense tended to absolute violence," but politics and friction explained why this was "unlikely to be realized." A war fought as "a complete untrammeled, absolute manifestation of violence" would "usurp the place of policy." His later thought increasingly accepted war "pursued for limited ends," generating the dialectic between the absolute and the actual — and what we now call escalation: "the slightest quarrel can produce a wholly disproportionate effect — a real explosion." This shift links to the wider tension between [[annihilation-and-exhaustion|annihilation and exhaustion]] and the distinction between [[total-war]] and [[limited-war]].
+
+**Centre of gravity and the primacy of battle.** The *Schwerpunkt*, "the central feature of the enemy's power," was "the point against which all our energies should be directed" — possibly an army, a capital city, or "the coherence of an alliance." Clausewitz held, "almost taken for granted in his time," that "once the enemy army was defeated in battle, the route to victory was clear." Yet "victory consists not only in the occupation of the battlefield, but in the destruction of the enemy's physical and psychic forces."
+
+**Resistance to fixed rules.** Clausewitz held that efforts to "equip the conduct of war with principles, rules, or even systems" failed because they could not "take an adequate account of the endless complexities involved." His sharpest line: "Pity the soldier who is supposed to crawl among these scraps of rules, not good enough for genius, which genius can ignore, or laugh at. No; what genius does is the best rule." When forced to choose between force and guile he chose force: "accurate and penetrating understanding is a more useful and essential asset for the commander than any gift for cunning." Among his other concepts is the "culminating point of victory," "the point at which further attack could lead to a reversal of fortunes."
+
+## In Freedman's argument
+
+Freedman pairs Clausewitz with Jomini as the twin exponents of the new science of [[strategy]], but draws a sharp contrast between them. Jomini's purpose "was instruction" and he "found Clausewitz's theorizing overblown"; Clausewitz in turn dismissed any attempt to reduce war to "principles, rules, or even systems." Where Jomini offered a prescriptive, usable checklist of maxims, Clausewitz offered a deeper but far less usable theory — one whose stress on friction, chance, and the trinity made it "celebrated as a greater theorist of war" even as "Jomini had enduring appeal to military planners." Clausewitz "showed" none of "the optimism" of Jomini, who wrote at Napoleon's peak.
+
+Both nonetheless belong to Freedman's "Strategies of Force": their "basic instinct" was that "with the 'retirement of the enemy from the field of battle,' terms could be imposed." This is the opposite pole from the strategies of cunning Freedman associates with [[sun-tzu]] and, later, [[liddell-hart-basil|Liddell Hart]] — Clausewitz "saw little historical evidence that tricks (stratagems) could be effective." His enduring influence lay in grasping the new post-1789 factor of popular passion, "which led him to make it part of his trinity."
+
+## Related
+
+- [[strategy]]
+- [[grand-strategy]]
+- [[hubs/warfare/strategy]]
+- [[total-war]]
+- [[limited-war]]
+- [[annihilation-and-exhaustion]]
+- [[jomini-antoine-henri|Antoine-Henri Jomini]]
+- [[sources/freedman-strategy-a-history-2013]]
