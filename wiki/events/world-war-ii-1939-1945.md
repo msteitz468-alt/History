@@ -36,6 +36,18 @@ From Overy/Love/Waddell (Ch.2/5/6): Submarine commerce raiding sank 5.3M tons Ja
 
 See [[hubs/warfare/world-wars-era/second-world-war/second-world-war|War Hub]] for template analyses of these campaigns (OOB tables, 9 principles, Modern Doctrine Parallels, verbatim grounding). Reciprocals added.
 
+## Operational Synthesis from Murray & Millett, *A War to Be Won* (2000)
+This comprehensive operational history emphasizes battlefield reality over ideology alone: Allies had to win by fighting, through superior production, logistics, coalition (despite frictions), and adaptation. Key claims (verbatim-grounded; full in source page):
+
+- "Moral righteousness alone does not win battles. Evil causes do not necessarily carry the seeds of their own destruction. Once engaged, even just wars have to be won—or lost—on the battlefield."
+- Logistics/coalition decisive: US as "arsenal of democracy" + Soviet manpower + British sea/air + Mulberries/Lend-Lease enabled sustained ops where Axis (German foraging/rail collapse in USSR; Japanese supply failures) failed.
+- Adaptation: All get next war wrong; "more effective are those that recognize the flaws in their vision of future war and adapt rapidly."
+- Campaign insights (cross to hub analyses): Barbarossa (logistics "at the bottom of German priorities," ideological "Vernichtungskrieg" rallied Soviets despite Stalin errors/purges); Atlantic/Bomber (U-boat "happy time" 1942 ended by convoys/air; Bomber indirect effects via flak/V-weapons diversion + 1944 oil/transport campaigns broke German economy); Pacific (submarine + carrier + island-hopping strangled Japan; Iwo/Okinawa air bases for LeMay + atomic); Overlord/Bulge (logistics crisis post-Normandy; exploitation shortfalls at Falaise/Market Garden; Bulge as "last gasp" with fuel shortages vs. Allied air once weather cleared).
+- Home fronts (ch19): Civilian deaths 2:1+ combat; bombing + atrocities defined total war (Europe ~1.5-2M from bombing, 6M+ Jews; Japan 240-300k dead + 8M+ homeless); women/labor shifts; postwar DPs (16M+), reconstruction (Marshall), trials shaped Cold War.
+- Final assessment: War won by fighting better — learned faster, mobilized sustainably, exploited Axis mistakes (overextension, rigidity). Ties to Luttwak paradoxical logic (success breeding failure) and Military Effectiveness levels.
+
+See war hub for full synthesis + reciprocals.
+
 The "Phony War" (Sitzkrieg) followed until April 1940, when Germany launched Weserübung, invading Denmark and Norway (first combat paratroop landing in history during Denmark phase; five simultaneous Norwegian seaborne landings plus air operations at Oslo and Sola). This secured iron ore routes and U-boat bases.
 
 ## Causal Analysis
