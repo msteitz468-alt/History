@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[second-punic-war-218-201bce]], the Roman decision to seek a decisive pitched battle after Trasimene]
 consequences: [the defection of much of southern Italy and Syracuse, the entrenchment of the [[fabian-strategy|Fabian strategy]], the survival-test of the Roman alliance system]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: [event, classical-antiquity, italy, battle, rome]
 ---
 
@@ -58,6 +58,8 @@ enabled: the entrenchment of the [[fabian-strategy|Fabian strategy of attrition]
 which governed the war in Italy from 216 to 210. Polybius devoted the whole of his
 sixth book to explaining the constitution of a state that could climb out of such
 an abyss.
+
+**Goldsworthy (2001) note:** Even the most complete battlefield victory did not produce strategic collapse. Hannibal gained southern allies but was now tied to protecting them; Rome fielded multiple armies and avoided another decisive confrontation with his main force. The long war of attrition favoured Roman manpower and growing operational quality. The survivors of Cannae later served under Scipio in the invasion of Africa.
 
 ## Historiography
 

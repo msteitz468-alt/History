@@ -73,7 +73,7 @@ Livy, *Hannibal's War* · the CAH volumes · Cold War (Westad; Leffler–Westad 
 | Source | Flag | Status | Notes |
 |---|---|---|---|
 | *The Fall of Carthage* (The Punic Wars) — Adrian Goldsworthy | `[BUY]` | ❌ | ⭐ Deepens the existing **Second Punic War** hub. |
-| *Cannae* — Adrian Goldsworthy | `[BUY]` | ❌ | ⭐ Battle-level study for the existing **Cannae** page. |
+| *Cannae* — Adrian Goldsworthy | `[BUY]` | ✅ | Ingest complete (source page + 5 subagent ranges + main reconciliation). Primary modern tactical study of the double envelopment (detailed OOB, numbers debate in appendices, phase mechanics, contingency, source criticism Polybius vs Livy). Created [[sources/goldsworthy-cannae-2001]]; heavily enriched the existing [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae]] (new Goldsworthy section + quotes on deployment, Hasdrubal discipline, Libyan wheel, compression, why it worked) and [[events/battle-of-cannae-216bce]]. Source + EPUB filed to raw/2. Ancient & Classical Civilizations/. |
 | *The Roman Army at War 100 BC–AD 200* — Adrian Goldsworthy | `[BUY]` | ❌ | Doctrine, command, and battle mechanics of the legions. |
 | *Lost Battles* — Philip Sabin | `[BUY]` | ❌ | Rigorous analytical reconstruction/modeling of ancient battles. |
 | *A War Like No Other* — Victor Davis Hanson | `[BUY]` | ❌ | Operational study of the Peloponnesian War (pair with Thucydides, already held). |

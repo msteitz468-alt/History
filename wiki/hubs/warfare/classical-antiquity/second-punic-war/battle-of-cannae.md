@@ -18,7 +18,7 @@ outcome: "Decisive Carthaginian victory; near-total destruction of the Roman arm
 scale_immediate: regional
 scale_consequential: civilizational
 event_page: "[[events/battle-of-cannae-216bce]]"
-key_sources: "Polybius (Bk III); Livy (Bk XXII); Goldsworthy; Daly; Sabin"
+key_sources: "Polybius (Bk III); Livy (Bk XXII); Goldsworthy *Cannae* (2001) — primary modern tactical study with detailed OOB/numbers debate, phase mechanics, source criticism, and contingency analysis; Daly; Sabin"
 last_updated: 2026-06-23
 tags: [warfare, battle-analysis, classical-antiquity, mediterranean, second-punic-war]
 ---
@@ -97,6 +97,30 @@ Among the Roman dead were the consul Aemilius Paullus, the proconsul Cn. Servili
 - **Played into the design:** drove exactly where Hannibal wanted, converting depth into immobility once compressed.
 - **Divided, politically driven command:** daily-rotating consuls and pressure to attack denied them a coherent, patient plan.
 - **Battle on the enemy's terms:** accepted open-ground battle that maximised the one arm in which they were outmatched.
+
+## 7. Goldsworthy (2001) — Key Tactical and Historiographical Contributions
+
+Goldsworthy’s *Cannae* is the essential modern reference for the battle’s mechanics and context.
+
+**Source handling:** Polybius is preferred as the most sober and militarily aware narrator for the fighting itself. Livy is valuable for Roman political reaction, the moral response in Rome, and the full aftermath, but more dramatic and shaped by patriotic/family traditions. Later sources (Appian, Plutarch) treated with extreme caution.
+
+**Numbers & OOB (Appendices 1–2):** Detailed discussion of Polybius’ post-Alps inscription figure as most reliable for Hannibal. Roman strength at Cannae: Polybius ~80k infantry + 6k cavalry (eight legions + alae); Livy offers variants (lower figures preferred by some moderns). Punic losses ~5,700 (Polybius) to ~8,000 (Livy) — exceptionally high for a victor (11–16%). Roman losses ~48–70k killed + 10–19k captured. Goldsworthy stresses practical implications for understanding the Roman centre’s compression.
+
+**Deployment & Mechanics (Ch. 4):** The “lunate” or bulged centre was deliberately advanced and weak to draw the Romans in. Libyan columns held in reserve (fresh, re-equipped with captured Roman arms) for the 90° wheel. Hasdrubal’s heavy cavalry on the left achieved local superiority, smashed the Roman right, then — crucially — re-formed under tight control and rode behind the entire Roman line to strike the left and then the infantry rear. Numidians kept the allied horse busy without decisive commitment. The Roman decision to narrow frontage and deepen maniples (political pressure + inexperience of many troops) turned numerical superiority into a liability once the centre was committed and gaps closed during the advance/pursuit.
+
+**Why it worked — and why it was contingent:** Goldsworthy repeatedly stresses that many things had to go exactly right. The Celtic/Spanish centre had to hold long enough but not too long. Hasdrubal had to exercise rare discipline (most ancient cavalry pursued and scattered). The Libyan counter-attack had to stop the Roman momentum. Even when surrounded, the Romans remained numerous and dangerous until unit cohesion and officer control collapsed over hours of repeated assaults, missile harassment of isolated knots, and fatigue. Fighting lasted much of the day; it was systematic slaughter more than instantaneous collapse.
+
+**Aftermath & Strategic Limits (Ch. 5):** Hannibal did not march on Rome (exhaustion after a long hard battle in summer heat; doctrinal preference for inducing defection over siege; risk of failure damaging prestige). Prisoner negotiations were rejected by a defiant Senate that thanked Varro for not despairing of the Republic. Southern Italy defected (Capua etc.), but the Latin core held. Rome raised new forces (including freed slaves) and reverted to multi-army attrition. The “Cannae legions” (survivors) later formed part of Scipio’s army that defeated Hannibal at Zama — one of history’s great ironies.
+
+**Legacy:** Frequently invoked (Schlieffen for 1914, Rommel, Schwarzkopf 1991), but Goldsworthy notes it was a battle very much of its time and place. Perfect tactics did not overcome Roman manpower depth, political will, and refusal to follow classical conventions of war termination.
+
+This section draws directly on Goldsworthy’s claims and quotes extracted for the ingest (see source page for full verbatim blocks). Cross to [[sources/goldsworthy-cannae-2001]]. 
+
+## 8. Historiography & Primary Sources (updated)
+
+Primary: Polybius Book III (best for battle narrative and Roman army); Livy Book XXII (political context, aftermath). Modern: Goldsworthy (2001) is the leading tactical study. Complements broader accounts in the CAH and specialist works (Daly, Sabin, Lazenby). 
+
+The hub analysis prioritises Polybius where sources conflict and notes the Scipionic-family shaping of the Varro/Paullus tradition.
 
 ## 7. Lessons Learned — The Principles of War (FM 3-0)
 
