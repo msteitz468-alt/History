@@ -8,7 +8,7 @@ region_coverage: [near-east, north-africa, mediterranean, western-europe, easter
 methodological_approach: comprehensive historical survey; political, social, economic, and cultural history of Islamic societies from origins to present, with regional and thematic analysis
 reliability_notes: Standard comprehensive survey (3rd edition 2014; earlier 1988, 2002). Updated with recent scholarship. Strong on social and institutional history, urbanism, religious communities (Sunni schools, Sufi orders, Shi'i), state formation, and modern transformations. Balanced, accessible for students; draws on secondary literature and primary sources. Excellent for global overview but less granular on specific events than monographs. Collection now has complementary specialist works (Hodgson, Adamson, Hallaq, etc.).
 pages_created: 8
-pages_updated: 20
+pages_updated: 21
 ingested: 2026-06-22
 last_updated: 2026-06-23
 tags: [source, early-middle-ages, high-middle-ages, late-middle-ages, early-modern, long-19th-century, near-east, islamic-world]

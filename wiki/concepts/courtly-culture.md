@@ -70,3 +70,4 @@ single comparative object. This is one of the volume's two "Eurasian commonaliti
 - [[imperial-city]], [[founded-cities]] — the urban settings of the great courts.
 - [[byzantine-empire]], [[song-dynasty]], [[tang-dynasty]] — the best-documented court systems.
 - [[art-and-power]] — courtly art as a representation of power.
+- [[courtly-culture-across-eurasia]] — the dedicated structural comparison page.

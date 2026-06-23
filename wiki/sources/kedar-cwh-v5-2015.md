@@ -24,7 +24,7 @@ reliability_notes: >
   candid that the "Middle Millennium" periodization is itself an argument (Ch 1,
   Ch 25), not a settled fact.
 pages_created: 27
-pages_updated: 19
+pages_updated: 20
 ingested: 2026-06-10
 tags: [source]
 ---
@@ -164,6 +164,8 @@ the wiki's [[indian-feudalism-debate]] by attacking the category "feudalism" its
 and Radkau's environmental chapter promotes the long-pending **Diamond-collapse**
 standing controversy to a full page.
 
-**Totals:** 27 pages created, 19 updated, across 9 reading cycles.
+**Totals:** 28 pages created, 19 updated, across 9 reading cycles.
 
 A dedicated comparison page [[commercial-revolutions-compared]] now synthesizes the commercial dimensions across the volume's trade networks and state-formation sections with Reid's SE Asian material and the European commercial revolution, highlighting drivers, effects, and divergent paths (Song engine, European cul-de-sac-to-center, SE Asian passageway interrupted by crisis).
+
+A dedicated comparison page [[courtly-culture-across-eurasia]] distills the Eurasian commonalities chapter (Ch 7) on courtly cultures: the court as a specialized community generating codes of conduct through favor-competition, with borrowing producing a single trans-regional system of power representation across western Europe, Byzantium, the Islamic world, India, China, and Japan.

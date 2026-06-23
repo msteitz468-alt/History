@@ -37,3 +37,6 @@ Celebrated as model of pluralism and conduit for Greek/Arabic learning to Europe
 - **produced**: transmission of knowledge to Latin Europe (Aristotle, Ibn Rushd, Ibn Sina via translation)
 - **contributed_to**: Mudejar culture, Jewish Golden Age in Spain
 - **followed_by**: expulsions and end of Muslim Spain (1492/1609)
+## See also
+
+- [[managing-religious-pluralism-compared]] — convivencia compared with the dhimma, the millet, and Latin-Christian intolerance as forms of managing religious plurality

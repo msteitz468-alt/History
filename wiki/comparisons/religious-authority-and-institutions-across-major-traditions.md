@@ -50,4 +50,5 @@ The comparison underscores that religious authority is never simply "spiritual" 
 - [[religion]] hub and the separate tradition pages ([[christianity]], [[islam]], [[hinduism]], [[confucianism]], [[buddhism]]).
 - Concepts: [[ulama]], [[sharia]], [[madrasa]], [[buddhism|the Buddhist sangha]], [[caste-varna|the Brahmin varna]], [[neo-confucianism]].
 - [[legal-legitimation-styles-compared]] — the legal counterpart: how each tradition grounds the authority of law.
+- [[educational-institutions-in-comparative-perspective]] — the educational counterpart: how each tradition institutionalised the transmission of knowledge.
 - Hubs: [[hubs/themes/religion|Religion & Belief]].

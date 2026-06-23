@@ -64,3 +64,4 @@ The system's longevity into the nineteenth century made it central to the "Easte
 - [[bektashi-order]] — Shī'ī-influenced Ṣūfī order that operated in the space the millet system could not accommodate
 - [[janissaries]] — the Janissary corps, unofficially associated with the Bektashī order
 - [[devshirme]] — the Christian levy that brought millet-community children into the Muslim Ottoman elite
+- [[managing-religious-pluralism-compared]] — the millet set against the dhimma, convivencia, and Latin-Christian intolerance

@@ -174,3 +174,4 @@ seventeenth-century turning point. The framework remains foundational even where
 - [[song-dynasty]] and [[afro-eurasian-world-system]] — the Chinese engine and broader system.
 - [[great-divergence]] — longer-term implications of the different trajectories.
 - [[commercial-revolutions-compared]] — the cross-civilizational comparison of the three commercial booms.
+- [[unfree-labor-systems-compared]] — SE Asian debt-bondage set against chattel slavery, serfdom, military slavery, and the mita.

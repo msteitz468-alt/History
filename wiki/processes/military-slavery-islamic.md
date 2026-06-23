@@ -49,3 +49,6 @@ Declined with centralizing cash armies, European military models, and abolition 
 - **contrasts_with**: European feudal vassalage
 - **enabled**: [[saljuq-empire]], [[ottoman-empire]] (janissary parallel)
 - **concurrent_with**: [[iqta-system]]
+## See also
+
+- [[unfree-labor-systems-compared]] — military slavery as one of five compared unfree-labor forms (the elite, upwardly-mobile type)

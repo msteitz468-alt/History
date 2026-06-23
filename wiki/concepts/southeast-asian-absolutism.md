@@ -85,3 +85,7 @@ integration and territorial consolidation** running on its own agrarian-administ
 (*Strange Parallels*). Whether early-modern Southeast Asian "absolutism" was a brittle commercial
 episode (Reid) or a durable state-building trend (Lieberman) is the central historiographical tension
 of the field — and bears directly on the [[southeast-asian-age-of-commerce|age of commerce]]'s "crisis."
+
+## See also
+
+- [[theatre-state-and-the-bases-of-power]] — SE Asian 'absolutism' as cosmic-centre power, compared with the bureaucratic-coercive model

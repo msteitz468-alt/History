@@ -370,11 +370,16 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `strategic-practice-across-civilizations.md` | Strategic Practice Across Civilizations | Recurring vs. culture-specific patterns of strategy across major civilizations |
 | `polycentric-world-systems-and-trade-networks.md` | Polycentric World-Systems and Trade Networks Compared | Degree of hegemony / mode of integration — polycentric & low-coercion vs. single-cored & coercive |
 | `legal-legitimation-styles-compared.md` | Legal Legitimation Styles Compared | The ground of legal authority (revealed-juristic vs. reason-and-precedent vs. sovereign-mandate) and its consequences |
+| `educational-institutions-in-comparative-perspective.md` | Educational Institutions in Comparative Perspective | Institutional autonomy vs. state-fusion across examination / madrasa / university / monastery |
+| `managing-religious-pluralism-compared.md` | Managing Religious Pluralism Compared (Dhimma, Millet, Convivencia) | Legal-institutional form for incorporating subordinate religions; stability-through-subordination vs. expulsion |
+| `unfree-labor-systems-compared.md` | Unfree Labor Systems Compared | What the unfree person was bound to (debt/capture/birth/service) and whether people or land was scarce |
+| `theatre-state-and-the-bases-of-power.md` | The Theatre State and the Bases of Power | Spectacle/exemplary-centre vs. coercion/bureaucracy as the constitution of the state |
 | `early-cities-in-comparative-perspective.md` | Early Cities in Comparative Perspective | Six cross-cultural features of early urbanism (performance, information technology, landscape, power/heterarchy, creation, imperial functions) |
 | `commercial-revolutions-compared.md` | Commercial Revolutions Compared (Song China, High Medieval Europe, Southeast Asian Age of Commerce) | Drivers, social/political effects, and divergent trajectories of three commercial expansions |
 | `frontier-societies-and-core-expansion.md` | Frontier Societies and Responses to Core Expansion | Divergent peripheral responses (conquest, independence, division) under core pressure |
 | `religious-authority-and-institutions-across-major-traditions.md` | Religious Authority and Institutions Across Major Traditions | 'Ulama, Church, sangha, and Brahminical structures and state integration |
 | `empire-formation-and-collapse-patterns.md` | Empire Formation, Universal Aspirations, and Collapse Patterns | Surplus-extraction mechanisms as a variable in imperial resilience (narrow axis) |
+| `courtly-culture-across-eurasia.md` | Courtly Culture across Eurasia | Courts as specialized communities generating codes of conduct through favor-competition; single Eurasian system via borrowing and exchange |
 
 ---
 

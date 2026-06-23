@@ -19,7 +19,7 @@ reliability_notes: >
   [[coe-angkor-khmer-civilization-2018|Coe]] by supplying the **regional framework** and especially
   the **archipelago/maritime** world for Critical Gap 3 (Southeast Asia).
 pages_created: 4
-pages_updated: 2
+pages_updated: 3
 ingested: 2026-06-12
 tags: [source]
 ---

@@ -68,3 +68,7 @@ from a *nineteenth-century Balinese* case, may not generalise cleanly to larger 
 polities, and risks treating "ritual" and "administration" as a false dichotomy. As a corrective to the
 purely coercive view of the state, however, and as a key to why these courts invested so prodigiously in
 spectacle and monument, it has been enormously productive.
+
+## See also
+
+- [[theatre-state-and-the-bases-of-power]] — the theatre-state model set against the bureaucratic-coercive state (spectacle vs. coercion)

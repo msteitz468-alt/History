@@ -161,3 +161,7 @@ that there was **never sustained ancient opposition to slavery**, and that the r
 carry the story forward: [[medieval-slavery|Vol. 2]] (500–1420), the
 [[atlantic-slave-trade|Atlantic system]] (Vol. 3, 1420–1804), and
 [[abolition-of-slavery|abolition and modern coerced labour]] (Vol. 4, 1804–2016).
+
+## See also
+
+- [[unfree-labor-systems-compared]] — chattel slavery set against debt-bondage, serfdom, military slavery, and the mita

@@ -79,3 +79,4 @@ collective learning in the service of religion and state — was shared.
 - [[medieval-university]] — the European institutional form.
 - [[science-transmission]] — the trans-regional movement of the knowledge these institutions held.
 - [[social-hierarchy-and-solidarity]] — knowledge as a basis of rank.
+- [[educational-institutions-in-comparative-perspective]] — the structural-contrast counterpart to this survey, on the axis of institutional autonomy vs. state-fusion.
