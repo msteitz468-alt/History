@@ -156,7 +156,7 @@ philosophy (*falsafa*), science, and mysticism (*Sufism*) are absent. Priority l
 | *Mystical Dimensions of Islam* — Annemarie Schimmel | `[BUY]` | ✅ | ingested (`schimmel-mystical-dimensions-of-islam-1975`) — 38 pages; the Sufism layer |
 | *The Muqaddimah* — Ibn Khaldun (Rosenthal trans.) | `[BUY]` | ✅ | ingested (`ibn-khaldun-muqaddimah`) — primary; 23 pages; also key for the historiography hub (see Gap 9) |
 | *The Incoherence of the Philosophers* — al-Ghazali ↔ *The Incoherence of the Incoherence* — Ibn Rushd | `[BUY]` | ✅ | BOTH ingested (`ghazali-incoherence-of-philosophers` + `ibn-rushd-incoherence-of-incoherence`); the falsafa/kalam debate, tied together by the `philosophy-versus-theology-in-islam` controversy page |
-| *Hayy ibn Yaqzan* — Ibn Tufayl | `[BUY]` | ❌ | primary; philosophical novel |
+| *Hayy ibn Yaqzan* — Ibn Tufayl | `[BUY]` | ✅ | ingested (`ibn-tufayl-hayy-ibn-yaqzan`, 11 pages); primary; philosophical novel |
 | *Encyclopaedia of Islam* (Brill) | `[LIBRARY]` | ❌ | authoritative reference for gap-filling |
 
 ---
