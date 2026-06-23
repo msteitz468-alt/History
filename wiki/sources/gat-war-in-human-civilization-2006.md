@@ -121,29 +121,44 @@ Main thread reconciled with other ranges.
 - State as "spin-off" of warfare enabling civilization (pp. 665–666). Target: [[processes/evolution-of-war]], [[concepts/fiscal-military-state]], [[hubs/warfare/warfare-hub]].
 - Pre-modern vs. modern democratic peace distinction (p. 658). Target: [[periods/classical-antiquity]], [[periods/world-wars-era]], [[periods/contemporary]].
 
-## Range 4–5 Extraction (Gat ranges 4–5): Grounded Claims (modernity + conclusion)
+## Range 4 Extraction (Gat range 4): Grounded Claims (early modernity / guns & markets)
 
-**EXCLUSIVE:** Ranges 4 and 5.
+**EXCLUSIVE:** Range 4 only (/tmp/gat-ranges/range_4_13925_17405.txt). Content is largely endnotes framing Part 3.
 
 **Key claims:**
 - "## Chapter 13. Introduction: The Explosion of Wealth and Power" ... "## Chapter 14. Guns and Markets: The New European States and a Global World". Guns + markets as producing distinctive European state form and global expansion. [[concepts/fiscal-military-state]], [[periods/early-modern]], [[periods/age-of-expansion]], [[hubs/warfare/warfare-hub]], [[processes/evolution-of-war]].
 - In pre-industrial times ... resources practically finite and the competition over them close to a zero-sum game ... away from the material deprivation, stagnation, zero-sum competition, and high mortality of agraria." (p. 549, 590).
-- "the violent option for fulfilling human desires has become much less promising than the peaceful option of competitive co-operation. Furthermore, the more affluent and satiated the society ... the less their incentives to take risks that might involve the loss of life and limb." (p. 672).
-- "The democratic peace did not exist among pre-modern democratic and republican city-states not because they were not democratic ... but because they were pre-modern, unaffected by the modern transformation." (p. 658). Target: [[periods/world-wars-era]], [[periods/contemporary]].
+- European "country-states" vs. Asian empires swallowed by larger structures; Tilly’s coercion/capital thesis augmented by geography and ethnicity. [[concepts/fiscal-military-state]].
+- Deep roots of modern European nations in post-migration period. Trade, military revolution, and state formation interlinked.
+
+## Range 5 Extraction (Gat range 5): Grounded Claims (late modernity + Conclusion synthesis)
+
+**EXCLUSIVE note:** ONLY this range /tmp/gat-ranges/range_5_17406_20884.txt (endnotes for Ch. 16 "Affluent Liberal Democracies, Ultimate Weapons, and the World" and Ch. 17 "Conclusion: Unravelling the Riddle of War", plus closing index material). ALL claims, quotes, and locators EXCLUSIVELY from this range. No outside knowledge.
+
+**Range summary:** Endnotes and apparatus for the final chapters. Critiques prior theories; details the modern decline of major war among affluent liberal democracies via Kantian factors (democracy + interdependence + IOs) + nuclear weapons; explains why conquest ceased to pay; flags persistent risks from terror, WMD proliferation, failed states, and non-liberal actors. Ties the entire book back to the opening "riddle of war" questions. Provides the volume's overall verdict on evolutionary roots interacting with material and political transformations.
+
+**Structured claims (grounded exclusively in range 5):**
+- "The book's core project unravels the 'riddle of war' by integrating evolutionary-biological roots (instincts for resources, reproduction/sex, status/honour/prestige, revenge, and pugnacity) with historical transformations under the state, modernity, affluence, and liberal regimes; war is not a mere 'cultural invention' à la Margaret Mead (or Vasquez's *The War Puzzle*)." Target: [[concepts/evolutionary-origins-of-war]], [[processes/evolution-of-war]], [[hubs/warfare/warfare-hub]].
+- Realist theories (Morgenthau's power-as-end, Waltz's structural/systemic realism, Mearsheimer's offensive structural realism) fail to explain why war occurs: they exhibit a "status-quo bias," treat the security dilemma as given without asking what is fought over ("coveted values," "profit," "spoils," resources). Target: [[hubs/warfare/strategy]], [[concepts/evolutionary-origins-of-war]].
+- Evolutionary approaches correctly root war in biological evolution but must be combined with historical/cultural evolution. Pure cultural or instinct-only accounts are rejected. Target: [[concepts/evolutionary-origins-of-war]].
+- Major war among advanced states has declined due to the rise of affluent liberal democracies (Kantian factors: democratic peace + economic interdependence/trade + international organizations), compounded by ultimate weapons (nuclear). Target: [[periods/contemporary]], [[periods/world-wars-era]], [[hubs/warfare/strategy]].
+- Democratic/liberal peace is real and dyadic; it strengthens with higher levels of liberalism/wealth/market society. Ancient Greek "imperfect" cases exist, but the modern pattern holds. Target: [[periods/contemporary]].
+- Affluence and "market civilization" make conquest unprofitable (industrial societies hard to exploit) and shift preferences away from relative gains/violence. Target: [[processes/evolution-of-war]].
+- Nuclear weapons create self-deterrence and zones of peace among nuclear-armed liberal states but do not eliminate war below the threshold or among non-liberal actors. Target: [[periods/contemporary]].
+- Liberal democracies succeed in major/total wars due to superior economic mobilization and alliances; they face constraints in "small wars" due to norms and casualty sensitivity. Target: [[concepts/military-effectiveness]], [[hubs/warfare/warfare-hub]].
+- Remaining risks center on terror/WMD in hands of non-state actors, rogue/failed states; "zones of turmoil" vs. "zones of peace." Target: [[periods/contemporary]].
+- Conquest rarely pays for advanced industrial powers; this undercuts motives that drove pre-modern war. Target: [[processes/evolution-of-war]].
+- Overall verdict: war's existence is explained by evolved human motivations interacting with material conditions and political structures; its decline (among advanced states) occurs when affluence + liberal institutions + ultimate weapons alter cost-benefit and normative calculations; risks remain where these conditions are absent. Target: [[hubs/warfare/warfare-hub]], [[concepts/evolutionary-origins-of-war]], [[processes/evolution-of-war]].
 
 ## Consolidated Synthesis (main-thread)
 
-Gat’s core answer to the riddle: war is deeply rooted in evolved human psychology and was ubiquitous in the forager state of nature (high per-capita violent death ~15–35% in many documented groups; raids/ambushes the lethal norm). Agriculture and sedentism scaled up group size, wealth concentration (livestock, stored crops), and therefore the stakes and organization of conflict; fortifications appeared with sedentism, not as proof war was invented then. The state (Leviathan) emerged in large part as a spin-off of war-making — the most effective war-makers created the institutions that suppressed internal feuding while projecting violence outward, enabling dense societies, division of labour, and "civilization" at the price of hierarchy and larger wars. In the modern transformation (guns + markets → fiscal-military states; industrial wealth/power explosion; liberal democracy + nuclear weapons), the calculus flipped for affluent liberal polities: positive-sum growth, high opportunity costs of war, and ultimate weapons made major war between them irrational and rare. Pre-modern participatory polities (Athens, Rome) still pursued material agrarian gains through war. Remaining risks: failed states, ethnic/nationalist conflict, terrorism, and WMD proliferation.
+Gat’s core answer to the riddle: war is deeply rooted in evolved human psychology and was ubiquitous in the forager state of nature (high per-capita violent death ~15–35% in many documented groups; raids/ambushes the lethal norm). Agriculture and sedentism scaled up group size, wealth concentration (livestock, stored crops), and therefore the stakes and organization of conflict; fortifications appeared with sedentism, not as proof war was invented then. The state (Leviathan) emerged in large part as a spin-off of war-making — the most effective war-makers created the institutions that suppressed internal feuding while projecting violence outward, enabling dense societies, division of labour, and "civilization" at the price of hierarchy and larger wars.
+
+In the modern transformation (guns + markets → fiscal-military states; industrial wealth/power explosion; liberal democracy + nuclear weapons), the calculus flipped for affluent liberal polities: positive-sum growth, high opportunity costs of war, and ultimate weapons made major war between them irrational and rare. Conquest ceased to pay; Kantian factors (democracy + interdependence + IOs) plus nuclear deterrence reinforce the peace among advanced states. Pre-modern participatory polities (Athens, Rome) still pursued material agrarian gains through war. Liberal democracies proved superior at total war mobilization but are constrained in small wars.
+
+Remaining risks: failed states, ethnic/nationalist conflict, terrorism, and WMD proliferation in non-liberal zones.
 
 Enriches [[hubs/warfare/warfare-hub]] (long arc from HG raiding baseline through agrarian intensification, state formation, military revolution, total war, to modern decline) and [[hubs/warfare/strategy]]. Anchors [[processes/evolution-of-war]], [[concepts/hunter-gatherer-warfare]], [[concepts/evolutionary-origins-of-war]]. Crosses to [[military-effectiveness]], Luttwak, fiscal-military-state, just-war, total-war, and all prehistory-to-contemporary periods. Complements Diamond (Guns, Germs, and Steel) on continental divergences and prior West Point/Murray-Millett/Luttwak operational works with ultimate-cause depth. No major contradictions flagged with existing wiki content; strengthens evolutionary and pre-state coverage where the collection was previously thin.
-
----
-
-**Co-Authored-By:** Claude Code (per standing ingest protocol)
-
-## Consolidated Synthesis (main-thread, post-reconciliation)
-
-[To be written after subagent claims are collected: overarching argument on why war exists, how agriculture/state transformed it, why modernity (esp. liberal affluence + nukes) changed the frequency among certain states, with verbatim grounding and precise cross-links to hubs/concepts/periods. Will include "Use in Wiki" updates and any flagged contradictions with prior sources.]
 
 ---
 
