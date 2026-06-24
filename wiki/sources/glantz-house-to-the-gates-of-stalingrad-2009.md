@@ -9,7 +9,7 @@ methodological_approach: [operational military history, archival research (Sovie
 reliability_notes: >
   David M. Glantz (with Jonathan M. House) delivers the most detailed operational history of the 1942 German summer campaign (Fall Blau / Case Blue) leading to Stalingrad. Vol. I of the Stalingrad Trilogy (University Press of Kansas, Modern War Studies). Draws on post-1991 Russian archival openings (Stavka, front/army/division records, NKVD reports) + German documents, divisional histories, and official German campaign history. Explicitly corrects errors in Chuikov memoirs and classic German accounts (Goerlitz, Carrell) regarding locations, unit compositions, and actions. Emphasizes the full campaign context: preliminaries (Kerch, 2nd Kharkov), the drive across the Don bend, Hitler's repeated plan alterations and force-splitting, logistics overextension, flank struggles (Caucasus/E delweiss and northern pinning actions), and Soviet responses (counterstrokes, Order 227). Unmatched for force data, command decision timelines, and showing how the German Sixth Army was already badly weakened "before it even reached the city proper." Limitations: Vol. 1 stops at early September 1942 arrival at Volga (urban battle and Uranus in Vols 2–3); lighter on political/ideological context than broader works.
 pages_created: 5
-pages_updated: 11
+pages_updated: 12
 ingested: 2026-06-24
 tags: [source, world-wars-era, eastern-europe]
 ---
