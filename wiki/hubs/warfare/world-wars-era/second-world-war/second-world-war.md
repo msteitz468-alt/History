@@ -17,7 +17,7 @@ This war hub page provides the operational and campaign-level overview. Individu
 
 - **Road to War / Prelude**: Interwar period, Versailles, rearmament, rise of Axis (Waddell/Overy contributions).
 - **Early German Campaigns / Blitzkrieg (1939-1941)**: Poland, Scandinavia, Low Countries, Fall of France, Battle of Britain (Citino/Overy).
-- **Barbarossa and Eastern Front 1941**: German invasion of USSR, key operations, beginnings of Final Solution (Megargee).
+- **Barbarossa and Eastern Front 1941–1945**: German invasion of USSR through Soviet strategic offensives (Megargee + Glantz/House). See dedicated analysis [[hubs/warfare/world-wars-era/second-world-war/operation-barbarossa-1941]] and Glantz/House operational synthesis (three periods, Red Army adaptation, maskirovka, force data).
 - **Pacific to Midway (1941-1942)**: Pearl Harbor, Japanese expansion (Malaya/Singapore 8 Dec 1941–15 Feb 1942; Philippines; Java/NEI), Coral Sea (May), Midway (June) (Drea). Two full hub analyses now complete from Range 4.
 - **Economies and Peoples at War**: Home fronts, production, resources (Overy).
 - **Conclusion at Midpoint**: Situation mid-1942, transition points (Rogers).

@@ -14,7 +14,7 @@ scale_immediate: global
 scale_consequential: global
 causes: ["[[treaty-of-versailles|Versailles Treaty]] flaws and resentments", "[[great-depression|Great Depression]] radicalization and economic crisis", "rise of totalitarian regimes in Germany, Italy, Japan", "failure of [[league-of-nations|League of Nations]] and collective security (esp. US non-participation)", "aggressive expansion: Manchuria 1931, Rhineland 1936, Anschluss 1938, Munich 1938, Czechoslovakia 1939", "[[molotov-ribbentrop-pact-1939|Nazi-Soviet Non-Aggression Pact]] enabling German invasion of Poland", "militarism and rearmament programs outpacing democracies"]
 consequences: ["[[holocaust|Holocaust]] and mass civilian deaths (est. 60+ million total dead)", "defeat and occupation of Axis powers", "rise of [[united-states|United States]] and [[soviet-union|Soviet Union]] as superpowers", "end of European colonial empires prelude", "[[united-nations|United Nations]] formation", "Cold War division of Europe and world", "technological leaps (atomic weapons, rocketry, radar, computing)"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-23
 tags: [event, world-wars-era, global, war]
 ---
