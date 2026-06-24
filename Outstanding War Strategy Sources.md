@@ -116,7 +116,7 @@ Livy, *Hannibal's War* · the CAH volumes · Hans Delbrück, *History of the Art
 | Source | Flag | Status | Notes |
 |---|---|---|---|
 | *How the North Won* — Herman Hattaway & Archer Jones | — | ✅ | ⭐ The operational/logistical standard for the war. Ingested 2026-06-23 (main-thread scaffold + Section Plan + pre-created author actor page; 8-10 staggered subagent ranges on 53k-line .txt). Source page + enriched ACW hub + event page. 0 broken links. Filed. |
-| *The American Way of War* — Russell F. Weigley | `[BUY]` | ❌ | Strategy of annihilation vs. attrition in U.S. military history. |
+| *The American Way of War* — Russell F. Weigley | `[BUY]` | ✅ | Strategy of annihilation vs. attrition in U.S. military history. Ingested 2026-06-23 (Deployed Subagent Strategy, 7 weighted ranges on 29k-line .txt); source page + actor (weigley-russell-f) + 2 concepts (american-way-of-war, strategy-of-annihilation); enriched ACW hub (key_sources + Grant/annihilation thesis context). 7 subagents produced verbatim claims across Parts I–V (Washington/Greene attrition origins, Civil War Lee vs. Grant, sea/air power, WWII applications, postwar perplexity/Korea/Vietnam/deterrence). Filed to raw/4. Modern Times/. 0 broken links. |
 | *Civil War Infantry Tactics* — Earl J. Hess | `[BUY]` | ❌ | The tactics revisionism (with *The Rifle Musket in Civil War Combat*). |
 | *Landscape Turned Red* (Antietam) / *Gettysburg* / *Chancellorsville* — Stephen W. Sears | `[BUY]` | ❌ | The model single-battle operational studies for battle pages. |
 | *The American Civil War and the Origins of Modern Warfare* — Edward Hagerman | `[BUY]` | ❌ | Field fortification, logistics, and the move to modern war. |
