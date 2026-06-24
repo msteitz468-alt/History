@@ -148,6 +148,18 @@ But its more durable lesson at the staff-college level is **cautionary**, and ex
 
 **Reconciling the accounts.** The two diverge on the **bank of the river** the armies fought on, on **casualty totals** (Polybius ~70,000 killed vs. Livy ~48,000 killed but ~19,000 captured), and on the colourful set-pieces. Modern reconstructions (Goldsworthy; Gregory Daly's dedicated study *Cannae*; Philip Sabin's quantitative battle-modelling in *Lost Battles*) generally follow Polybius on mechanism, treat the lower-to-middling casualty range (~48,000 killed) as most defensible, and read Livy's dramatic flourishes with caution. A live scholarly debate persists over whether the **double envelopment was pre-planned in full** or whether Hannibal's design was the yielding centre and the encirclement *emerged* opportunistically once the cavalry had won the wings — the evidence (and Hannibal's evident control of the centre's withdrawal) leans toward deliberate design.
 
+### Sabin *Lost Battles* (2009) Model Application
+Sabin applies his generic 5×4 zone playable model (M=8, AL=3 for Cannae) to test dynamics and alternatives. Punic army FV 84 (4 VHI Libyan veterans re-equipped with captured Roman arms in flanking columns + 6 AHI Celtic/Spanish + superior cavalry: 2 VHC Spanish under Hasdrubal, 2 AHC Celtic, 2 ALC Numidian holding wing + BC Hannibal). Roman FV 70 (massive 18 units mostly average/levy legions + 6k cav; Paullus/Varro uninspired).
+
+Key model-derived observations (grounded in Sabin Ch. 6/12):
+- Roman deeper/narrower frontage proved a liability once committed; adjustable Punic crescent + Libyan reserves allowed response.
+- Hasdrubal's left-wing victory did not require the entire heavy cavalry galloping the length of the field; a gradual "curtain" along the rear while leading squadrons struck the opposite wing is more realistic within command costs and time.
+- Celtic/Spanish centre absorbed the initial Roman pressure while buying time for the wings; their higher losses reflect the "spent" mechanics before the decisive Libyan wheel and rear attack.
+- Hannibal's personal presence (brilliant general FV + morale bonus) in the centre helped hold the yielding line; the model captures the "race against time" for the cavalry to close before Roman infantry momentum broke the Punic centre.
+- Post-refight: many proposed Roman deployments (shallower longer line) offer little gain within the model's friction and activation rules; the river flank implies the opposite wing was more constrained than often drawn.
+
+Cross to [[sources/sabin-lost-battles-2009]] and [[concepts/sabin-lost-battles-model]]. Complements Goldsworthy's narrative with quantitative FV yardsticks and refight experimentation.
+
 ## Related
 
 - Commanders/actors: [[hannibal]] · [[aemilius-paullus]] · (Varro, Maharbal, Hasdrubal, Mago — see event page)
