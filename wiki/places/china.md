@@ -86,3 +86,17 @@ scale, not character."
 - "cosmopolitanism, 30, 83, 128, 167, 181–82. See also [[chang-an]]" (ll. 5344). taxonomy: part_of: [[chang-an]]. Updated [[china]].
 - "Hejiacun Village Hoard, 152–57, 153–54, 155, 239" (ll. 6297). taxonomy: produced: [[chang-an]]. Updated [[china]], [[chang-an]].
 All verbatim from range 5201-7800; established names only.
+
+## Cold War and the Birth of the PRC (from Leffler & Westad Vol. I, Range 03 — Niu Jun)
+
+The international order in East Asia changed dramatically following the conclusion of the Sino-Japanese War in 1945; the two most consequential events of this period were the birth of the [[china|People’s Republic of China (PRC)]] on October 1, 1949, and the PRC’s entry into the Korean War 1950–53. These "confirmed the spread of the Cold War to East Asia and determined the long-term pattern of confrontation between the United States and the Soviet Union in the region." For China, "the decision to ally with the USSR and enter the Korean War meant that there was no alternative but to man Asia’s Cold War frontier against US encroachment."
+
+Pre-1945: US and USSR attempted to coordinate China policies on assumption of “peace under Jiang Jieshi.” US sought to maintain Jiang’s position and avoid civil war (via Hurley and Marshall missions). Stalin: relations with CCP "a lower priority than those with the United States and with Jiang Jieshi’s regime"; "there could only be one government in China, led by the GMD." "Both the United States and the USSR enjoyed considerable influence in China, but the GMD and the CCP still played the key roles."
+
+Civil war outcome and alliance: CCP victory "overturned the existing postwar international order in East Asia, which was based on the Yalta agreement and the ensuing 1945 Sino-Soviet treaty." New order based on Feb 1950 "Sino-Soviet Treaty of Friendship, Alliance, and Mutual Assistance" after Mao-Stalin negotiations in Moscow (Mao arrived Dec 1949; insisted on new treaty despite Stalin resistance; Zhou Enlai arrived Jan 1950). "From that point on, the Soviet Union began to supply economic, financial, and military assistance to the PRC on a grand scale." Supplementary agreement prohibited other countries entering Manchuria and Xinjiang.
+
+"Lean to one side": After victories, Mao’s concept of “leaning to one side” "vividly revealed the basic tendency and choice of the CCP’s leaders." Mikoian visited CCP HQ Xibaipo Jan 1949 (broad agreement on policies); Liu Shaoqi Moscow June 1949 completed preparations. CCP "lived in constant dread of various forms of US intervention". Incidents (Shenyang consulate, Nanjing Stuart residence search) and failed talks "disabused the top CCP leaders of any notion of developing normal relations with the United States". 30 June 1949 Mao "On the People’s Democratic Dictatorship" publicly announced lean to Soviet camp: "The war to turn China into a US colony, a war in which the United States of America supplies the money and guns and Chiang Kai-shek the men to fight for the United States and slaughter the Chinese people, has been an important component of the US imperialist policy of world-wide aggression since World War II."
+
+Updated [[china]]: added dedicated Cold War section on PRC birth, alliance formation, and positioning in bipolar order; links to [[mao-zedong]], [[soviet-union]], [[united-states]], [[korean-war-1950]], [[cold-war]], [[leffler-westad-cold-war-v1]].
+
+sources_ingested incremented; last_updated 2026-06-24. All verbatim quotes + locators from range_03.txt only.

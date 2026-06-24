@@ -8,8 +8,8 @@ region: [north-america, eastern-europe, transregional]
 process_type: [technological, political]
 driven_by: [the US–Soviet rivalry, [[containment]], the security dilemma, military-scientific competition]
 produces: [mutual assured destruction (MAD), the balance of terror, arms-control diplomacy, the threat of global annihilation]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-06-24
 tags: [process, cold-war, north-america]
 ---
 
@@ -18,6 +18,34 @@ tags: [process, cold-war, north-america]
 The **nuclear arms race** was the open-ended competition between the United States and the
 Soviet Union (later joined by other powers) to build ever-larger and more sophisticated
 **nuclear arsenals** during the [[cold-war|Cold War]]. It made the superpower confrontation
+
+From [[leffler-westad-cold-war-v1]] (McMahon, Mastny, Zhang chapters):
+
+**Eisenhower New Look (1953-61):** Nuclear weapons central for cost-efficiency and deterrence. NSC 162/2: "The major deterrent to aggression against Western Europe ... is the manifest determination of the United States to use its atomic capability and massive retaliatory striking power if the area is attacked." Eisenhower viewed "massive retaliation" (Dulles Jan 1954 speech) as key; believed any general war would become all-out nuclear ("there would be no individual freedom after the next global war"); planned only for total war to deter; yet threatened use (Korea endgame, Taiwan Strait 1954-55/1958 crises with nuclear forces/alerts). "Atomic war will destroy civilization." Recognized rough parity inevitable; U-2/satellites confirmed US superiority.
+
+**Kennedy shift and convergence (1961-63):** "Flexible response" to provide non-nuclear options, escape "all-or-nothing straightjacket." Increased spending on conventional and missiles (assumed "missile gap"). Berlin 1961: acknowledged "we shall have to use nuclear weapons in the end, if all else fails, to save Berlin." Missile gap disproven (Soviets had 10-25 ICBMs); by late 1962 concluded only alternative to "savagely destructive nuclear war" was mutual deterrence/MAD. Cuban Missile Crisis (Oct 1962) "closer to a nuclear holocaust than at any point"; led to Limited Test Ban Treaty 1963 and American University speech urging common interests.
+
+**Soviet side (Mastny):** Post-Stalin buildup context; nuclear weapons "whose supposed utility was but dimly understood." Khrushchev exploited Sputnik (1957) for prestige/"missile gap" misperception in West; nuclear threats (to UK/France 1956 despite lacking capability; Denmark/Norway). Berlin crisis included "Buria" exercise planning massive nuclear use. Cuba deployment of strategic + tactical nukes (Anadyr) to deter US; "we wanted to frighten the United States and deter it with regard to Cuba." Near-miss highlighted personalized power risks.
+
+**Sino-Soviet nuclear dimension (Zhang):** Mao 1954 requested Soviet atomic aid; Khrushchev refused ("huge waste" under Soviet protection), offered only research reactor "for peaceful use." Soviets sought joint uranium mining. 1957 protocol for bomb model but delivery delayed/conditional. 1958 tensions over joint projects seen as control. Post-split: Soviet 1961 acceptance of US test-ban/non-proliferation treaty (banning transfer/tech to non-nuclear states) viewed by Beijing as collusion to contain China; "protested that Soviet acceptance ... would violate China’s sovereignty"; CCP "decided to speed up China’s atomic project. In early November 1962, it set the year 1964 as the best time to explode its ﬁrst bomb."
+
+**Overall:** Nuclear dimension escalated 1950s superpower policies (Eisenhower reliance for "New Look" savings; Khrushchev bluff/threats); drove alliance fracture (Chinese quest for independent bomb); produced mutual deterrence recognition after Cuba; "the prospect of a future nuclear exchange ... deeply unsettled" leaders on both sides.
+
+## Causal Drivers
+- [[containment]] and security dilemma; economic constraints favoring nuclear over conventional (US); ideological confidence and personalized leadership (USSR/China).
+- Technological breakthroughs (H-bomb, ICBM, Sputnik, delivery systems).
+
+## Major Phases
+- Early monopoly (US 1945-49) to Soviet test (1949) and H-bomb race.
+- 1950s massive retaliation / New Look.
+- 1958-62 crises (Berlin, Cuba) leading to MAD acceptance.
+- Arms control beginnings (Limited Test Ban 1963).
+
+## Geographic/Interaction
+Transregional; interacted with [[sino-soviet-split]] (China accelerated independent program); [[hungarian-revolution-1956]] (nuclear threats during Suez overlap); European alliance tensions (nuclear sharing in NATO).
+
+## End Conditions
+Ongoing until 1991; transformed by arms control, economic strain, and eventual Soviet collapse. (All claims verbatim from range 04 only; linked exclusively to established names.)
 uniquely dangerous — for the first time, a great-power war could mean the **annihilation of
 civilization** — and shaped the strategy, diplomacy, and culture of the entire period. From
 [[leffler-westad-cold-war-v1|*The Cambridge History of the Cold War*, Vol. I]].

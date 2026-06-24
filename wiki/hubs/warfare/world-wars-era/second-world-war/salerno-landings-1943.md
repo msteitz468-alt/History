@@ -98,6 +98,20 @@ Citino quotes Clark admitting near-disaster and German respect for naval gunfire
 - [[events/world-war-ii-1939-1945]]
 - War hub: [[hubs/warfare/world-wars-era/second-world-war/second-world-war]]
 - Preceded by [[operation-husky-1943]]; leads to Italian campaign
+- Logistics detail: [[dworak-war-of-supply-2022]] (Range 02: mounting from Oran/Bizerte/Tripoli/Palermo; 531st Shore Regiment beach ops; DUKW diversion issues; Salerno port opening D+4; Naples clearance innovations under 6th Port/Pence Peninsula BS; "major port was not a prerequisite"; 202,066 men / 45k vehicles / 153k tons landed Sep 9–Oct 8 despite heaviest resistance to date)
+
+## Logistics & Sustainment (Dworak Range 02 verbatim)
+**Mounting**: "Only twenty-three days separated the cessation of combat on Sicily and the start of Avalanche." 8th Embarkation Group experience from Husky "helped make this second effort smoother". But "still major disconnects between the US Army and US Navy." Vessels "intentionally loaded beyond capacity". 
+
+**Beach Ops**: "The Fifth Army tried a new approach ... the 531st Shore Regiment" (veterans from Gela Husky beaches under Col. Roland Brown). "By D+3, dumps had been established west of Highway 18... clearance of all supplies from the beach to the dumps was complete." But navy saw "chaotic" conditions, supplies piled, night ops ceased; "insufficient time to fix all the problems seen in the previous campaign." DUKWs "chose to use these vehicles mainly inland as trucks inshore of the beach dumps" — "disastrous diversion"; Hewitt recommended future naval control of DUKWs/drivers until unload complete.
+
+**Port & Base Transition**: Salerno port "opened on D+4"; "sufficient space to berth three coaster vessels and three LSTs ... but ... fell within range of German artillery" so full ops delayed. "An advance echelon of base section personnel landed at Salerno on D+2". "VI Corps was ready to relinquish the responsibility of sustainment" by D+12; Fifth Army G4 took beaches. "Brigadier General Arthur Pence ... arrived in Italy on October 2 as the commander of the 6665th Base Group (Provisional), later to become the Fifth Army Peninsula BS."
+
+**Naples (key sustainment prize)**: "scene of utter destruction" (72 berths → 3 operable; Germans "sunk every available vessel" with bulkheads blown, mines, debris). "Engineers left larger sunken vessels in place and built piers over them." "Within two days, there were enough open berths to hold five Liberty ships and eight coasters; seventeen days later ... an additional ten berths." 6th Port: "first day of operations saw 5,380 long tons unloaded at Naples; within six months, the total exceeded 2,375,000 tons". "Within thirty days of its seizure, the port of Naples had sufficient throughput capability to support both the Fifth and Eighth Armies, a remarkable achievement." Additional ports Bagnoli/Pozzuoli/Nisida by late Oct. British command of port until Nov 1, then 6th Port sole.
+
+**Outcome**: "the Fifth Army landed 202,066 men, 45,262 vehicles, and 153,930 tons of supplies from September 9 to October 8. As in Sicily, Salerno proved that a major port was not a prerequisite for landing and maintaining an army." "One lesson that the Fifth Army did note from Operation Husky was that SOS personnel needed to arrive early in the landing and establish a formal base section as quickly as possible."
+
+**Update (Range 02)**: Added full sustainment analysis, verbatim quotes/locators on 531st, DUKWs, Naples piers/throughput, Pence 6665th/ Peninsula BS, 23-day turnaround. Complements tactical phases. Last updated: 2026-06-24.
 - Actors: Clark, Kesselring
 
 Co-Authored-By: Grok 4.3 (xAI) <grok@x.ai>

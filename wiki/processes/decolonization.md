@@ -8,8 +8,8 @@ region: [global, africa, south-asia, southeast-asia, near-east, east-asia, carib
 process_type: [political, ideological]
 driven_by: [anti-imperial [[nationalism]], the discrediting of Europe's "civilizing mission" by the world wars, socialist and self-determination ideologies, the economic exhaustion of the imperial powers, the Cold War]
 produces: [the global triumph of the nation state, the post-colonial world, Third World non-alignment, persistent post-colonial inequalities and conflicts]
-sources_ingested: 6
-last_updated: 2026-06-13
+sources_ingested: 7
+last_updated: 2026-06-24
 tags: [process, cold-war, world-wars-era, global]
 ---
 
@@ -57,6 +57,20 @@ especially decolonization's entanglement with [[nationalism]] and the
 - **c. 1945–1985:** independence spreads across Asia and Africa to the smaller
   Caribbean and Pacific states.
 
+## Cold War Intersections and Resources (Leffler & Westad CHCW Vol. I, Range 06)
+
+From [[leffler-westad-cold-war-v1]] (Bradley tail + Painter): Cold War prism shaped US responses to decolonization, especially where resources were at stake. "In 1953, the Eisenhower administration orchestrated the overthrow of the government of Muhammad Mossadeq in Iran. The CIA-led operation was prompted by a number of factors, including Mosaddeq’s nationalization of the AngloIranian Oil Company..." "the Soviet–American rivalry axiomatically shaped US perceptions and policy." (pp. 477)
+
+Bandung (April 1955): 30+ postcolonial leaders; Nehru: "If I join any of these big groups, I lose my identity … If all the world were to be divided up between these two big blocs what would be the result? The inevitable result would be war." Sukarno invoked "ties of common experience, the experience of colonialism" and "ideals of national independence and freedom." Produced Non-Aligned Movement (1961). (pp. 479–480)
+
+Nasser and Suez (1956): Military coup 1952; "Nasser challenged British control of the Suez Canal"; "Egypt’s stiﬀ military resistance to a British-French-Israeli operation" made Nasser "heroes in the colonized world." "two-thirds of the oil that went from the Persian Gulf to Western Europe passed through the canal." US opposed allied action (Eisenhower refused oil supplies, threatened aid cutoff to Israel); led to Eisenhower Doctrine. "Without Middle East oil, Eisenhower warned in early 1957, 'Western Europe would be endangered just as though there had been no Marshall Plan, no North Atlantic Treaty Organization.'" (pp. 480, 501–502)
+
+Oil nationalism intersected decolonization: Iranian Majlis actions 1947 "instructed the government to do whatever was necessary to recover Iran’s rights to its natural resources, especially the oil concession held by the Anglo-Iranian Oil Company". Post-1953 consortium restored Western terms. Later: Iraq Petroleum Co. repossession attempts; OPEC formation 1960 shifted power toward producers. (pp. 495, 503, 505)
+
+"Revolutionary nationalism in the Third World threatened Western access to vital raw materials..." US policy "oppose[d] revolutionary nationalism in the Third World" to secure oil. (Painter pp. 486, 507)
+
+Updated [[decolonization]] with resource-driven superpower interventions, Bandung/Non-Alignment quotes, Suez as oil transit flashpoint, and link to [[cold-war]] bipolar overlay on anticolonial movements. Cross to [[leffler-westad-cold-war-v1]].
+
 ## Structural tensions (Duara's argument)
 
 Duara reads decolonization through two unresolved tensions inherent in the
@@ -86,6 +100,14 @@ Duara emphasizes the neglected entanglement of decolonization with the
 socialist states, while others (Nehru) built mixed, state-interventionist economies.
 The Cold War both empowered and constrained new states, turning many into proxy
 arenas.
+
+From [[leffler-westad-cold-war-v1]] (Range 05, Bradley ch. "Decolonization, the global South, and the Cold War 1919–1962"):
+- "In 1900, most of Asia, Africa, the Caribbean, and the Middle East were ruled directly or indirectly by the Euro-American colonial powers... in the two decades after 1945 imperial order collapsed... the number [of UN members] had more than doubled to 117, with a majority of the increase made up of states in the global South" (pp. 464–465).
+- "the global move toward decolonization was rooted in local particularities that long preceded, ran parallel with, and ultimately persisted beyond the Cold War... The Cold War... tends to obscure the significance of transnational postcolonial visions in the global South that imagined a world apart both from the bipolar international system and from the imperial order" (pp. 465).
+- Pre-1945 roots: WWI conscripts returned with "deepened suspicion of the civilizational promises"; Wilson self-determination petitions (Zaghlul, Tilak, Ho Chi Minh) "met with silence"; racial equality clause rejected; Comintern training schools brought "thousands of activists from the colonial world to Moscow"; "first Pan-African Congress" 1919 Paris; Négritude (Césaire, Senghor); pan-Islamic at al-Azhar; Gandhi mass satyagraha (1930 salt march); Vietnamese "borrowing as much from indigenous political discourse and the ideas of Thomas Jefferson, Gandhi, and Sun Yat-sen as it did from Marx and Lenin" (pp. 466–469).
+- 1945 watershed: Japanese defeats "dislodged the region’s British, French, and Dutch rulers"; proclamations by Aung San (Burma), Sukarno (Indonesia), Ho (DRV); UN Charter/1948 UDHR "provided a powerful new vocabulary for making anticolonial claims"; "the coming of the Cold War in the global South was an almost unimagined contingency"; Stalin "provided almost no material assistance to the Vietnamese"; US Marshall cable: "we are not interested in seeing colonial empire administrations supplanted by a philosophy emanating from and controlled by the Kremlin" (pp. 470–473).
+- 1950+ intensification: Mao China + Korean War "brought the dynamics of the Cold War more fully"; US funded "as much as three-quarters of the cost of the [French Indochina] war"; Khrushchev (1956) "decolonization was a 'postwar development of world-historical significance'" and "peaceful coexistence"; Soviet aid to Nehru/India, Indonesia, Egypt; US "modernization theory" positing "American economy, society, and culture provided a universal model" with "racialized paternalism" (pp. 474–476).
+- "The Cold War both empowered and constrained new states, turning many into proxy arenas" while "local particularities" and "transnational postcolonial visions" persisted (p. 465). See also [[cold-war]], [[soviet-union]], [[united-states]], [[world-wars-era]].
 
 ## Key Actors
 

@@ -42,6 +42,18 @@ of national power," beneath which **maritime strategy** and then **naval strateg
 strategy") were nested subsets (see [[maritime-strategy]]). For both, sea power mattered
 because of its leverage on the *whole* contest, not for victory at sea as an end in itself.
 
+## Cold War Grand Strategies (from Leffler & Westad CHCW Vol. II, Range 01)
+
+In the Cold War "grand strategies dominated Cold War statecraft. They could no longer be deployed when military operations began, and retired when hostilities ended. Nor could such strategies remain static, for the Cold War's particular combination of limited violence with long duration required responding not only to the actions of adversaries but also to the constraints of resources, the demands of constituencies, and the persistent recalcitrance of reality when theory is applied to it." They "evolved in relation to one another, much as competitive species do within common ecosystems." (Gaddis, Ch. 1 "Grand strategies in the Cold War")
+
+**Stalin's grand strategy** had three objectives: (1) "continue the acceleration of history" Lenin began by industrializing Russia as revolutionary base; (2) "a fusion of traditional Russian imperialism with Marxist–Leninist ideology" for security of the socialist state (claiming tsarist lands + friendly spheres); (3) "await the self-destruction of capitalism" from "internal contradictions" producing inter-capitalist wars (as in WWI and WWII). "Imperialism now had a revolutionary purpose." "It was in this sense, then, that Stalin anticipated a 'cold war,' and developed a grand strategy for conducting it." (Gaddis Ch. 1)
+
+**Kennan/containment** countered with recognition that "Stalin's own system... contained more serious 'internal contradictions'" (no legitimacy from free elections; multinational empires overexpand and break). Democracy's legitimacy gave self-confidence; Marshall Plan + NATO + West German/Japanese rehab + Tito split showed "Stalin's strategy of exploiting capitalist rivalries lay in ruins." "All that the Americans and their allies needed to do henceforth... was to wait for a Soviet leader to detect this fact, abandon his nation's revolutionary-imperial aspirations." (Gaddis)
+
+Nuclear weapons and alliance dynamics produced stalemate. "Tails wagging dogs": small powers and allies leveraged great-power credibility (Ulbricht warnings, Rhee/Chiang coercion, Ho Chi Minh acting independently). Détente (Nixon–Kissinger) sought "set rules for what they all understood would continue to be a contest" via linkage but "sharpened the conflict." Soviet "strategic overstretch" (Third World interventions, economic opening, Helsinki human-rights concession) misjudged structures "like the Sicilian expedition" for Athens, handing enemies means to break stalemate. Gorbachev ultimately "abandoned the Soviet Union's revolutionary-imperial aspirations." "No single strategy, strategist, or state was responsible for this achievement. Rather, they each adapted to and evolved within their common ecosystem." (Gaddis Ch. 1 throughout, "A Clausewitzian conclusion")
+
+**Grounding for this section:** All verbatim or close from Range 01 slice, Gaddis Ch. 1. Locators: "Gaddis, Ch. 1", section titles as noted.
+
 ## Recurring instruments
 
 Grand strategy draws on a toolkit far wider than armies and fleets:

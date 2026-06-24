@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: global
 causes: [the division of Germany, the Western currency reform of 1948, Stalin's bid to force the West out of Berlin]
 consequences: [the Berlin Airlift, the founding of [[nato]], the creation of two German states (1949), the hardening of the bloc division]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-06-24
 tags: [event, cold-war, western-europe, eastern-europe]
 ---
 
@@ -55,6 +55,20 @@ shooting down aircraft, Stalin **lifted the blockade in May 1949**.
 - A major **propaganda victory** for the West: West Berlin became the showcase of the "free
   world" behind the Iron Curtain, and the airlift recast the recent enemy (the Germans) as a
   protected ally.
+
+## From Range 03 (Naimark in Leffler & Westad Vol. I)
+
+- "If the Cold War was born in the tensions surrounding the development of the Marshall Plan, its angry rejection by the Soviets, and the establishment of the Cominform, it was accelerated by the February 1948 coup in Czechoslovakia, the beginning of the Berlin blockade in June 1948, and the eruption of the Soviet–Yugoslav split in the summer of 1948." The blockade formed part of the wave that ended lingering restraints on full Sovietization.
+
+## From Range 02 (Pechatnov in Leffler & Westad Vol. I)
+
+"In a desperate attempt to stop what was happening, Stalin struck back at the Allies’ weakest point – their positions in West Berlin, deep inside the Soviet occupation zone. When Stalin closed the communication routes between the western zones of Germany and the western zones of Berlin, his main aim was to force the allies to reverse their decisions regarding western Germany."
+
+"even while undertaking such a dangerous gamble, Stalin was careful to avoid a direct military confrontation. There were no troop movements or other signs of military preparations, and when the allies introduced a massive airlift to West Berlin there was no attempt to disrupt it."
+
+"The Berlin blockade provided a stronger impetus than had ever existed for the Western powers to establish a separate West German state and to effect closer military cooperation."
+
+Soviet analysis: "the Western powers are transforming Germany into their stronghold and including it in the newly formed military-political bloc, directed against the Soviet Union and the new democracies."
 
 ## Actors
 

@@ -5,8 +5,8 @@ origin: Articulated by George F. Kennan (the 1946 "Long Telegram" and 1947 "X" a
 applies_to_periods: [Cold War]
 applies_to_regions: [north-america, transregional]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-06-24
 tags: [concept]
 ---
 
@@ -28,6 +28,8 @@ Soviet behavior in Eastern Europe, Iran, and Turkey ("I'm tired of babying the S
 1946). The intellectual breakthrough came from **George Kennan**, whose **"Long Telegram"**
 (February 1946) and pseudonymous **"X" article** ("The Sources of Soviet Conduct,"
 *Foreign Affairs*, July 1947) argued that Soviet hostility was driven by internal
+
+From [[leffler-westad-cold-war-v1|Vol. I, Range 01]]: Kennan's Long Telegram described Soviet leaders as "impervious to logic of reason," but "highly sensitive to logic of force." The "X" article concluded "no mystical, Messianic movement... can face frustration indefinitely without eventually adjusting itself... to the logic of that state of affairs." Truman's doctrine framed US intervention "in the name of freedom in Greece, and wherever else freedom was threatened." NSC 68 called for placing "the maximum strain on the Soviet structure of power."
 insecurity and ideology, was not amenable to negotiation, but was **not bent on war** and
 could be met by "the adroit and vigilant application of counter-force at a series of
 constantly shifting geographical and political points." The overriding aim, Kennan held,
@@ -66,6 +68,12 @@ Containment supplied the **conceptual through-line** of US Cold War policy from 
 statecraft (the Marshall Plan), and its proxy wars. Its eventual "success" — the internal
 collapse of Soviet communism (1989–91) — was claimed by its defenders as vindication of
 Kennan's original prediction that a contained USSR would ultimately mellow or break.
+
+## Soviet Perspective on Containment (from Range 02, Pechatnov)
+
+Kremlin viewed US policy, especially Marshall Plan, as deciding "to rebuild Western Europe (including the western part of Germany) as a junior partner in a transatlantic bloc against the USSR. Instead of a multipolar system... it now had to reckon with an American-led anti-Soviet global coalition." Marshall Plan seen as "Trojan horse" undermining Soviet security zone. Response: Cominform "two camps" discipline, full Sovietization acceleration, Berlin blockade gamble.
+
+Stalin shifted to "policy of tenacity and steadfastness": "To get anything from such partners, we must arm ourselves with the policy of tenacity and steadfastness."
 
 ## Related
 

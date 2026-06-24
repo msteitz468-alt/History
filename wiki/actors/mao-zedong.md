@@ -45,6 +45,22 @@ the **People's Republic of China** — "the Chinese people have stood up." The n
 land reform, allied with the USSR, fought the United States in the **Korean War (1950–53)**, and
 carried out the **First Five-Year Plan** and the collectivization of agriculture.
 
+## From Range 03 (Niu Jun in Leffler & Westad Vol. I) — PRC founding and alliance
+
+Postwar context: US and USSR coordinated on "peace under Jiang Jieshi" to support GMD legitimacy and avoid civil war. Stalin: CCP "a lower priority than those with the United States and with Jiang Jieshi’s regime"; told Americans they would support US policies and mediation; told Nationalists "there could only be one government in China, led by the GMD."
+
+Lean to one side: "Mao’s concept of 'leaning to one side' vividly revealed the basic tendency and choice of the CCP’s leaders." After civil war victories, Mikoian visited Xibaipo Jan 1949; "Mao praised Soviet aid to the CCP at its Central Committee meeting in March 1949, where he also essentially dictated the lean-to-one-side policy for the new regime." Liu Shaoqi led delegation to Moscow June 1949, concluding agreements with Stalin "on the substance of the CCP’s domestic and foreign policies following the founding of its regime."
+
+Treaty negotiations: CCP leaders "dissatisfied with the August 1945 treaty". Mao in Moscow (arrived 16 Dec 1949) insisted on termination despite Stalin initially claiming "the time was not right" and suggesting Port Arthur statement sufficed. After Mao stood fast and Stalin consulted advisers, agreement on new treaty reached; Zhou Enlai arrived 20 Jan 1950. Negotiations produced "Sino-Soviet Treaty of Friendship, Alliance, and Mutual Assistance" signed 14 Feb 1950. "From that point on, the Soviet Union began to supply economic, financial, and military assistance to the PRC on a grand scale." Supplementary agreement on no other countries in Manchuria/Xinjiang.
+
+Confrontation with US: CCP "lived in constant dread of various forms of US intervention, including a direct military intervention, schemes to sow division in the Chinese revolutionary camp, an embargo against the new China, or the obstruction of the final reunification of Taiwan with the mainland." Incidents in Shenyang (US consulate staff arrest) and Nanjing (search of ambassador John Leighton Stuart’s residence) highlighted anti-American sentiment; covert contacts with Stuart "disabused the top CCP leaders of any notion of developing normal relations with the United States". On 30 June 1949 Mao published “On the People’s Democratic Dictatorship,” announcing the new government would “lean to one side” in favor of the Soviet camp. Mao: "The war to turn China into a US colony, a war in which the United States of America supplies the money and guns and Chiang Kai-shek the men to fight for the United States and slaughter the Chinese people, has been an important component of the US imperialist policy of world-wide aggression since World War II."
+
+Road to Korea entry: China initially focused on Tibet/Taiwan; hoped not to intervene in Korea. Allowed return of Korean divisions from Chinese civil war. Mao told North Koreans May 1949 he did not approve attack on South. After US intervention and Taiwan Strait blockade (which "directly contradicted the final goals of the CCP" and forced abandonment of Taiwan campaign), Politburo 4 Aug 1950 Mao: "if the US imperialists were to succeed, they would be complacent, and would threaten us." Entry became "highly likely"; China redeployed PLA corps to Korean border.
+
+Updated [[mao-zedong]]: added detailed PRC founding, "lean to one side", Stalin-Mao treaty talks, US confrontation, Korea decision context from Niu Jun; links to [[china]], [[soviet-union]], [[united-states]], [[korean-war-1950]], [[cold-war]], [[leffler-westad-cold-war-v1]].
+
+sources_ingested incremented; last_updated 2026-06-24. Verbatim from range_03 only.
+
 ## The catastrophes: Great Leap and Cultural Revolution
 
 Mao's utopian radicalism then brought disaster. The **Great Leap Forward (1958–61)** — mass

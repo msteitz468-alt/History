@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hubs/warfare/classical-antiquity/first-punic-war/first-punic-war.md",
+                "file": "hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-long-island.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "first-punic-war"
+              "title": "battle-of-long-island"
             }
           }
         ]
@@ -185,8 +185,19 @@
   },
   "active": "4dae37f6fe1a3f0f",
   "lastOpenFiles": [
-    "hubs/warfare/classical-antiquity/first-punic-war/battle-of-ecnomus-256bce.md",
+    "concepts/biosphere-cold-war.md",
+    "concepts/transnational-organizations.md",
+    "concepts/western-europe-end-cold-war.md",
+    "concepts/science-technology-cold-war.md",
+    "events/soviet-collapse-1990-1991.md",
+    "processes/us-foreign-policy-reagan-bush.md",
+    "events/central-america-cold-war.md",
+    "events/southern-africa-cold-war.md",
+    "concepts/world-economy-cold-war-1970-1990.md",
+    "concepts/intellectual-history-late-twentieth-century.md",
+    "events/detente-collapse.md",
     "hubs/warfare/classical-antiquity/first-punic-war/first-punic-war.md",
+    "hubs/warfare/classical-antiquity/first-punic-war/battle-of-ecnomus-256bce.md",
     "hubs/warfare/classical-antiquity/second-punic-war/second-punic-war.md",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-zama-202bce.md",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-ilipa-206bce.md",
@@ -205,21 +216,10 @@
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-the-metaurus-207bce.md.tmp.14868.27a24496a48e",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-lake-trasimene-217bce.md.tmp.14868.4a24fcad8690",
     "hubs/warfare/tactics-and-battle-strategies.md",
-    "hubs/warfare/naval-and-air-power-theory.md",
-    "hubs/warfare/world-wars-era/second-world-war/battle-of-okinawa-1945.md",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-the-trebia-218bce.md.tmp.14868.1375d42793bf",
-    "hubs/warfare/classical-antiquity/first-punic-war/battle-of-the-aegates-islands-241bce.md",
     "hubs/warfare/classical-antiquity/first-punic-war/battle-of-the-aegates-islands-241bce.md.tmp.14868.159c1bc3149e",
     "hubs/warfare/classical-antiquity/first-punic-war/battle-of-ecnomus-256bce.md.tmp.14868.8866bfe64196",
     "hubs/warfare/classical-antiquity/first-punic-war/battle-of-ecnomus-256bce.md.tmp.14868.b7c287dbcebc",
-    "hubs/warfare/classical-antiquity/first-punic-war/battle-of-the-bagradas-255bce.md",
-    "hubs/warfare/classical-antiquity/first-punic-war/battle-of-the-bagradas-255bce.md.tmp.14868.deb7bbdd3e70",
-    "hubs/warfare/early-modern/thirty-years-war/thirty-years-war.md",
-    "hubs/warfare/early-modern/thirty-years-war/battle-of-lutzen.md",
-    "hubs/warfare/early-modern/thirty-years-war/battle-of-breitenfeld.md",
-    "hubs/warfare/classical-antiquity/alexanders-campaigns/battle-of-gaugamela-331bce.md",
-    "actors/xanthippus.md",
-    "actors/atilius-regulus.md",
-    "actors/hasdrubal-barca.md"
+    "hubs/warfare/classical-antiquity/first-punic-war/battle-of-the-bagradas-255bce.md.tmp.14868.deb7bbdd3e70"
   ]
 }

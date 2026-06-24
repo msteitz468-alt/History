@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["Casablanca Conference compromise strategy (further Mediterranean operations in exchange for commitment to cross-Channel)", "successful conclusion of Tunisian campaign gave Allies control of North Africa and air/sea bases", "desire to knock Italy out of the war and divert German forces from Eastern Front", "testing ground for large-scale Allied amphibious operations ahead of Overlord"]
 consequences: ["Allied conquest of Sicily", "overthrow of Mussolini (25 July 1943) and Italian armistice", "German evacuation preserved XIV Panzer Corps and supporting units for the defense of Italy (Salerno, Cassino, Anzio)", "Allied invasion of mainland Italy followed immediately; campaign became attritional war of no clear strategic purpose", "valuable but incomplete lessons for Overlord planning; exposed persistent problems of Allied command unity and pursuit", "first major blow against 'Fortress Europa' by Western Allies; Palermo first major European city taken by US Army in WWII"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-24
 tags: [event, world-wars-era, mediterranean, second-world-war, amphibious, campaign]
 ---
@@ -27,6 +27,10 @@ The second-largest amphibious operation in history (after Normandy) and the firs
 After the Axis defeat in Tunisia (May 1943), the Allies faced the question of where to strike next in the Mediterranean. The Casablanca Conference (January 1943) produced a compromise: the British gained agreement for further operations in the Mediterranean in return for renewed commitment to a 1944 cross-Channel invasion (Overlord). Sicily was selected as the target — the obvious gateway to Italy and a base that would give the Allies air and sea dominance in the central Mediterranean.
 
 Planning was marked by severe friction. Initial schemes for widely dispersed landings were deemed too risky by Montgomery, who imposed a more concentrated plan with the main effort by his Eighth Army in the southeast, relegating Patton's Seventh Army to a supporting role protecting the left flank. Eisenhower was overall commander; Alexander commanded 15th Army Group (ground forces). The final plan put British and Canadian forces on the east aiming for Catania and Messina, Americans on the south-central coast (Gela, Licata, Scoglitti).
+
+## Logistics and Sustainment (Dworak analysis)
+
+The operation served as a major test bed for lessons from Torch. Key issues included beach clearance at Scoglitti and other sites, use of DUKWs, rapid development of airfields, and the challenges of supporting two armies on an island with limited port infrastructure. The experience directly informed improvements for later landings in Italy and southern France. See [[dworak-war-of-supply-2022]] for detailed treatment of port operations, base development, and the transition from assault to sustained logistics.
 
 The invasion (9–10 July 1943) succeeded despite bad weather. Airborne drops were widely scattered and costly ("flying coffins"). Seaborne landings met varying resistance; the US 1st and 45th Divisions and British/Canadian formations established beachheads. German and Italian counterattacks (notably at Gela by the Hermann Göring Division) were repulsed with heavy naval gunfire support.
 
@@ -82,3 +86,19 @@ Official British, American, and Canadian campaign histories focus on national co
 ## Sources
 - [[sources/deste-bitter-victory-1988]] (primary detailed operational study)
 - [[sources/rogers-seidule-west-point-history-world-war-ii-v2-2016]] (Citino chapter)
+- [[dworak-war-of-supply-2022]] (detailed logistics: Eastern BS mounting from Mateur/Bizerte/Tunis; 1st Engineer Special Brigade as de facto base section; DUKW beach mobility; Palermo port clearance of 34 sunken vessels; Island BS activation under Col. Robert Sears; 60-day mounting timeline lesson; 77,520 personnel / 17,165 vehicles / 12k+ tons loaded; "de facto base section" role until SOS arrival; concurrent Tunisia sustainment and North Africa base rebalancing post-Husky)
+
+## Logistics & Sustainment (from [[dworak-war-of-supply-2022]], Range 02)
+The sustainment of [[operation-husky-1943]] marked the transition from "novice" ([[operation-torch-1942]]) to "journeyman" phase in [[mediterranean-world]] logistics. Eastern BS (under Pence) developed flexible support plan with general depot at Mateur, Tunisia. "With little experience or time for preparation, the Eastern BS had loaded 77,520 personnel, 17,165 vehicles, and more than 12,000 tons of supplies onto the Force 343 assault craft." (verbatim). 
+
+**Beach operations**: 1st Engineer Special Brigade acted "as the de facto base section in Sicily until the SOS could flow sufficient troops"; shore groups organized beaches, dumps, exits, de-waterproofing. DUKWs "the recognized heroes of the Sicily landings" — first combat use, hauled majority of supplies across soft sand beaches despite later diversion/maintenance issues. By D+3: 66,235 men, 17,766 tons, 7,416 vehicles ashore (plus Licata/Empedale ports). By end July: 111,824 men, 104,734 tons, 21,512 vehicles.
+
+**Port clearance & base transition**: Germans sank 34 vessels/barges at Palermo; engineers achieved 30% capacity in one week. Island BS (6625th Base Area Group → formal base section Sep 1 under Col. Robert Sears) relieved Seventh Army of admin burden by mid-August, allowing focus on follow-on ops (incl. [[operation-avalanche-1943]]). "with the activation of the Island BS, the Seventh Army was now free to focus on any follow-on missions."
+
+**Lessons applied**: Mounting required ~60 days minimum (9 load plans + 30 waterproof + 7 cargo shift + 14 load division). "Husky’s beach operations were not perfect, but they had greatly improved compared to the North African landings eight months earlier." Persistent gaps: joint planning (air/ground), beach leadership, DUKW misuse by divisions. "The mounting operation showed that the theater needed to allow at least sixty days..."
+
+**Causal links**: `contributed_to:` success of beach sustainment and Palermo port enabled rapid inland drive (Palermo capture July 22–23) and race for Messina. `produced:` formalization of base section doctrine and Engineer Special Brigade concept tested/validated for later ops. `enabled:` transition to Avalanche mounting from same NA bases with only 23 days separation.
+
+**Consequence**: Demonstrated that "a major port was not a prerequisite for landing and maintaining an army" but highlighted value of rapid port opening. Logistics "weighted the odds of a positive outcome in any battle." 
+
+**Update (Range 02)**: Enriched with verbatim Dworak claims on base development, mounting, beaches, DUKWs, Palermo clearance, Island BS, lessons vs Torch. All links to established names only. Last updated: 2026-06-24.
