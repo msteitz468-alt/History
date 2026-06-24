@@ -70,7 +70,7 @@ imperialism/20th-c. monographs are all in.
 | *The Origins of the First World War* — James Joll | `[BUY]` | ✅ | `joll-origins-first-world-war` |
 | *The Second World War* — Antony Beevor | `[BUY]` | ✅ | `beevor-second-world-war` |
 | *The Origins of the Second World War* — A.J.P. Taylor | `[BUY]` | ✅ | `taylor-origins-second-world-war` |
-| *The Cold War: A World History* — Odd Arne Westad | `[BUY]` | ✅ | `westad-cold-war` (+ Leffler–Westad CHCW v1–3) |
+| *The Cold War: A World History* — Odd Arne Westad | `[BUY]` | ✅ | `westad-cold-war` (+ Leffler–Westad CHCW v1–3 all ingested + reconciled) |
 | *Postwar: A History of Europe Since 1945* — Tony Judt | `[BUY]` | ✅ | `judt-postwar` |
 | *The Fate of the Universe* — Jan Zielonka | `[BUY]` | ✅ | `zielonka-lost-future` |
 

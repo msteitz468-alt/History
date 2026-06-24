@@ -38,6 +38,8 @@ leaving the Warsaw Pact. **Mikhail Gorbachev** abandoned the **Brezhnev Doctrine
 that Moscow would **not** use force to hold the bloc — and the revolutions' "pace and scale
 were largely shaped by the gradual discovery of the scope of Soviet tolerance."
 
+From [[leffler-westad-cold-war-v3]] (Brown): "'The Gorbachev revolution' was of decisive importance"; "changes of revolutionary dimensions – especially pluralisation of the political system"; "Cold War was over ... by the end of 1989". Gorbachev pursued "revolutionary goals by evolutionary means"; "Gorbachev evolved from Communist reformer to democratic socialist". Institutional shift (Shevardnadze for Gromyko) made non-intervention credible. Roberts: end "dramatic, decisive, and remarkably peaceful"; Soviet tolerance + internal change central among "all six explanations". (Lévesque Ch. 15 / Brown Ch. 12 / Roberts Ch. 24).
+
 ## Narrative
 
 - **Poland** led: the independent trade union **Solidarity** (born in the Gdańsk shipyard,
