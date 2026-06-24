@@ -72,8 +72,9 @@ told in the future tense**, after the collapse of faith in central planning.
 
 **Strategies of force — the military canon.**
 - [[clausewitz-carl-von|Clausewitz]] — war as the continuation of policy; the remarkable trinity; friction; the centre of gravity; absolute vs. real war.
-- [[jomini-antoine-henri|Jomini]] — the "false science": principles, interior lines, the decisive point.
-- [[delbruck-hans|Delbrück]] & the [[annihilation-and-exhaustion]] distinction; [[fuller-jfc|J. F. C. Fuller]] and mechanized "brain and brawn."
+- [[jomini-antoine-henri|Jomini]] — the "false science": principles, [[interior-lines|interior lines]], the [[decisive-points|decisive point]]. Primary text: [[sources/jomini-the-art-of-war-1862]]. Core ideas include the fundamental principle of massing at decisive points, choice of theater/base/line of operations, and distinction between strategy and grand tactics.
+- [[delbruck-hans|Delbrück]] & the [[annihilation-and-exhaustion]] distinction (primary grounding in *History of the Art of War* Vol. IV, 1985 trans.); [[fuller-jfc|J. F. C. Fuller]] and mechanized "brain and brawn."
+  - Delbrück’s etic framework (political constitution + national organization as the foundation of tactics/strategy) traces the rebirth of disciplined infantry and the institutional creation of standing armies (Maurice of Nassau’s drill, Le Tellier/Louvois reforms, Prussian canton system) and the persistence of the attrition pole even under Frederick (limited objectives, depots, winter quarters, subjective battle-seeking only when politically compelled). The Prussian reformers (Scharnhorst, Gneisenau) + Clausewitz then synthesized Napoleonic annihilation methods with the old discipline. See [[sources/delbruck-dawn-of-modern-warfare-vol-4-1985]] for verbatim blocks on polarity, oblique-order development (Leuthen → Torgau), and the “double-poled” nature of attrition strategy.
 - [[liddell-hart-basil|Liddell Hart]] and the [[indirect-approach]] — dislocation over destruction.
 - [[schelling-thomas|Thomas Schelling]] and nuclear-age [[deterrence]] — coercion, compellence, the rationality of irrationality.
 - [[guerrilla-warfare]] (Lawrence, Mao) and [[counterinsurgency]]; [[boyd-john|John Boyd]]'s [[ooda-loop]]; the [[revolution-in-military-affairs]] and its limits.

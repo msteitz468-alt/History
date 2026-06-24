@@ -9,7 +9,7 @@ affiliated_with: []
 opposed_by: []
 key_events: []
 key_processes: []
-sources_ingested: 1
+sources_ingested: 3
 last_updated: 2026-06-23
 tags: [actor, person, long-19th-century, western-europe]
 ---
@@ -89,3 +89,13 @@ single-pole faith in the decisive battle.
 - [[strategy|Strategy]]
 - [[hubs/warfare/strategy|Warfare hub: strategy]]
 - [[sources/freedman-strategy-a-history-2013|Freedman, *Strategy: A History* (2013)]]
+
+## Primary Text — History of the Art of War, Vol. IV: The Dawn of Modern Warfare (1985 trans.)
+Delbrück's final volume traces the rebirth of disciplined infantry in the Renaissance (Swiss squares → Spanish and German imitators, firearms integration), the refinement of linear and volley tactics under Maurice of Nassau, the full realization of combined-arms mobile warfare under Gustavus Adolphus, the institutionalization of permanent standing armies (France under Le Tellier/Louvois, Brandenburg-Prussia), the tactical and strategic debates of the eighteenth century, and the revolutionary shift to national armies and Napoleonic strategy (with the Prussian response led by Scharnhorst, Gneisenau, and Clausewitz).
+
+Key themes carried forward from earlier volumes:
+- Military organization as an expression of political constitution ("within the framework of political history").
+- The tension between annihilation (Niederwerfungsstrategie) and exhaustion/attrition (Ermattungsstrategie).
+- Frederick the Great as a practitioner of limited war and maneuver rather than pure decisive battle (a position that set Delbrück against the Prussian General Staff historians).
+
+See the dedicated source page [[sources/delbruck-dawn-of-modern-warfare-vol-4-1985]] for verbatim claims and the full four-book structure. Cross-references heavily to [[hubs/warfare/early-modern/early-modern]], [[hubs/warfare/strategy]], and the Thirty Years' War and Napoleonic operational analyses.
