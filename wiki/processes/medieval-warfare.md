@@ -8,7 +8,7 @@ region: [western-europe, mediterranean, near-east, steppe, central-asia, china, 
 process_type: [military, political, technological]
 driven_by: ["the [[state-formation|fiscal and organisational capacity of states]]", "the recurring [[pastoral-nomadism|steppe-nomad vs. agro-urban]] confrontation", "elite social structures (warrior aristocracies, military slavery)", "religious mobilisation ([[crusades|crusade]] and [[jihad]])", "siege and fortification technology"]
 produces: ["the mounted warrior aristocracy of Eurasia", "military slavery (mamluk, ghulam, devshirme)", "the castle-and-siege system", "standing and contract armies in late-medieval Europe", "the conditions for the [[military-revolution|gunpowder military revolution]]"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-24
 tags: [process, high-middle-ages, western-europe]
 ---
@@ -159,6 +159,36 @@ There is no single end point: the diffusion of **gunpowder** (cannon against for
 the fourteenth century, then handheld firearms), the **infantry revolution**, and the rise of
 larger, tax-funded standing armies gradually transform medieval into early-modern warfare across
 the fifteenth and sixteenth centuries — earlier and more decisively in some regions than others.
+
+## The Tactical Body: Dissolution and Rebirth (Delbrück)
+
+[[delbruck-medieval-warfare-vol-3-1982|Hans Delbrück's *Medieval Warfare*]] (Vol. III) supplies the
+deep structural reading of the whole period through a single idea — the **tactical body**. In
+antiquity, battle was decided "by the steadfast maintaining of formation… and the united force of
+disciplined… tactical units"; in the Middle Ages it was decided "by the personal skill and bravery
+of individuals." With the rise of the armoured **knight as an individual fighter**, the disciplined
+tactical body of the legion and phalanx **dissolved**: medieval armies had no drill ("This kind of
+drill was completely unknown in the Middle Ages"), no combined-arms tactics ("the three support arms
+did not have independent significance"), and so "the decisive reason for the change was the **loss of
+the tactical body**." The foot soldier's degradation followed from this, not the reverse.
+
+The Late Middle Ages then saw the **rebirth** of the tactical body — but, Delbrück insists, not by
+smooth evolution and not from one root:
+
+- The **English longbow** system (dismounted men-at-arms + archers in *herse*) won [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-crecy-1346|Crécy]] and Poitiers, but "remained only an
+  episode"; modern infantry "grew from a completely different root."
+- The Flemish **burgher phalanx** beat French chivalry at [[events/battle-of-courtrai-1302|Courtrai (1302)]] — the first time foot independently destroyed a knightly army in the open — but lost at
+  Rosebeke once denied its terrain, foreclosing a "burgher-army" path.
+- The Hussite **Wagenburg** (wagon-fort) was effective but "much too cumbersome… only an episode."
+- The decisive rebirth was the **Swiss pike square** — the disciplined tactical body restored "once
+  again… comparable to the phalanx and the legions," its cohesion drawn not from drill but from the
+  free-peasant **constitution**. For Delbrück the Middle Ages in military history "came to a close on
+  the day of **Murten** (1476)," where the Swiss overcame medieval war "at the highest imaginable
+  degree of [its] perfection." See the [[hubs/warfare/late-middle-ages/rise-of-the-swiss/rise-of-the-swiss|Rise of the Swiss]] hub.
+
+Throughout, Delbrück's [[sachkritik|Sachkritik]] cuts the chroniclers' army sizes down by an order
+of magnitude (Bouvines ~8,000 not 100,000+; Bannockburn possibly a Scots numerical *superiority*),
+a correction that itself reflects how small and unarticulated medieval armies really were.
 
 ## Historiography
 

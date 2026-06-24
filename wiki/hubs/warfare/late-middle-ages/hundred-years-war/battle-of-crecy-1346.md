@@ -18,7 +18,7 @@ outcome: "Decisive English victory; Edward III proceeds to besiege and take Cala
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[events/battle-of-crecy-1346]]"
-key_sources: "CHW Vol. 2 ch. 13 (Anne Curry) & ch. 23 (Kelly DeVries); Froissart; Ayton & Preston, The Battle of Crécy, 1346 (2005, outstanding); Rogers, War Cruel and Sharp (outstanding)"
+key_sources: "CHW Vol. 2 ch. 13 (Anne Curry) & ch. 23 (Kelly DeVries); Delbrück, History of the Art of War Vol. III (Sachkritik on numbers/tactics); Froissart; Ayton & Preston, The Battle of Crécy, 1346 (2005, outstanding); Rogers, War Cruel and Sharp (outstanding)"
 last_updated: "2026-06-24"
 tags: [warfare, battle-analysis, late-middle-ages, western-europe, hundred-years-war]
 ---
@@ -146,6 +146,37 @@ of the prepared killing ground. It is also the classic demonstration that **a co
 mass**: a smaller, paid, drilled, single-commanded force defeats a larger but unarticulated host —
 the same theme Curry traces forward to Agincourt and that runs through the wiki's
 [[hubs/warfare/warfare-hub|warfare hub]] (combined arms and articulation as enduring multipliers).
+
+## 8b. Delbrück — Sachkritik on the Numbers and the Tactics
+
+[[delbruck-medieval-warfare-vol-3-1982|Hans Delbrück]] (*History of the Art of War*, Vol. III)
+analysed Crécy as a problem in [[sachkritik|critical method]], and his reading both fixes the numbers
+and explains the mechanism:
+
+- **The numbers.** Delbrück anchors the English strength not on chronicles but on a **document**:
+  the royal treasurer **Walter de Wetewang's** roster for the ensuing siege of Calais, which shows
+  32,000 men; "if we deduct the reinforcements that did not join the army until after the battle,
+  the result is about 20,000" — though he confesses "a certain skepticism" at so high a figure and
+  cites Morris's tighter estimate of "4,000 mounted men… and 10,000 archers." Either way the French
+  "hosts" of the chroniclers are rejected.
+- **Why the English system worked — four interlocking elements.** Delbrück credits not the bow as a
+  weapon (crossbows were comparably effective elsewhere) but **command-created conditions**: (1)
+  **dismounted men-at-arms** stiffening the archers, who would otherwise have fled before a charge
+  reached them — knights on foot "show they would stay and die"; (2) a **flanking position** on a
+  ridge parallel to the French line of march, forcing them to wheel under fire; (3) the French
+  **piecemeal attacks** (15–16 separate charges), so the arrow-hail struck small groups in
+  succession rather than one massed wave — arrows telling "not only from the front but with still
+  greater effect from the side"; (4) the archers' **herse** (harrow/chequer) formation, letting rear
+  ranks shoot through the intervals.
+- **The verdict.** "It was… nothing but the skillful leadership of King Edward… But on the other
+  side, it was not any lack of determination on the part of the French knights… but their lack of
+  **discipline**, which led them into the enemy fire and to their defeat in small groups rather than
+  as a cohesive whole." Delbrück's larger point: the English combined phalanx of marksmen and
+  dismounted knights "remained only an episode" — **modern infantry grew "from a completely
+  different root," the Swiss** ([[hubs/warfare/late-middle-ages/rise-of-the-swiss/rise-of-the-swiss|Rise of the Swiss]]), not from Edward III.
+
+This adds a rigorous critical layer to the survey-grounded account above and independently confirms
+the army size (Curry's "14,000–15,000" sits just under Delbrück's "about 20,000").
 
 ## 9. Historiography and Primary Sources
 
