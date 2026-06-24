@@ -9,7 +9,7 @@ affiliated_with: ["Royal Military Academy Sandhurst", "British Commission for Mi
 opposed_by: []
 key_events: []
 key_processes: ["military-revolution", "linear-warfare", "limited-war-eighteenth-century"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-23
 tags: [actor, person, military-historian, early-modern, age-of-expansion, warfare-hub]
 ---
@@ -24,6 +24,7 @@ Long associated with the Department of War Studies at the Royal Military Academy
 ## Major Works (in the collection or referenced)
 - *Siege Warfare: The Fortress in the Early Modern World 1494–1660* (1979) and its sequel *The Fortress in the Age of Vauban and Frederick the Great* — foundational on the trace italienne and the dominance of siege in early modern war.
 - *Frederick the Great: A Military Life* (1985) — standard operational and personal study.
+- **Frederick the Great: A Military Life** (1985) — detailed military biography covering origins, the Silesian Wars, the Seven Years War campaigns, the War of the Bavarian Succession, Frederick's generalship, character ("Old Fritz"), and legacy. Central source for [[actors/frederick-the-great]] and Age of Expansion warfare hubs.
 - **The Military Experience in the Age of Reason** (1987) — the present source; a comparative social and cultural anatomy of eighteenth-century armies (Prussia, Austria, France, Russia, Britain and others), covering officer and private soldier life, motivation, honour, drill, campaign, battle, and siege, with attention to national differences and the subsequent "death of a memory" of these forces.
 
 ## Contribution to the Wiki
