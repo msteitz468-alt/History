@@ -33,3 +33,13 @@ Montgomery later complained (privately) about the failure to cut off the German 
 ## Historiography
 
 Heroic figure in British memory. D'Este and other revisionist accounts emphasize how his dominance of planning produced a lopsided, conservative plan that failed to exploit Allied material superiority for a decisive result. His relationship with Patton is often mythologized as personal rivalry; the deeper issue was structural coalition command under a weak Army Group commander (Alexander).
+
+## Normandy Campaign (D'Este, Decision in Normandy)
+
+D'Este's central thesis is that Montgomery's post-war "master plan" (British/Canadian forces deliberately holding/fixing German armour at Caen while Americans broke out in the west) was largely a retrospective construction. Pre-D-Day documents (14 Apr letter to Bradley/Dempsey, 7 May appreciation, 15 May St. Paul's briefing, 8 May document) show aggressive intent to seize Caen and the Caen-Falaise Plain early for airfields, Orne crossings, and maneuver space. "I am prepared to accept almost any risk... I would risk even the total loss of the armoured brigade groups."
+
+Reality: Caen not taken on D-Day. Repeated set-piece failures (Villers-Bocage, EPSOM) produced stalemate and high infantry casualties the British Army (a "wasting asset") could not sustain. 10 July conference: Dempsey proposed GOODWOOD as armoured demonstration/breakthrough east of Orne. Montgomery's 15 July "Notes" revised objectives downward. GOODWOOD produced pinning effect but tactical disappointment; Montgomery's signals and press conference were misleadingly optimistic, damaging credibility with Eisenhower, Tedder, and Bradley.
+
+Falaise gap: Montgomery concurred with Bradley's short-envelopment idea but prioritized long envelopment to Seine and "mangle" order over rapid closure; Bradley halted Patton at Argentan. D'Este presents primary evidence from all sides with no single villain. Eisenhower 23 May 1946 letter aligns with pre-invasion plans and contradicts Montgomery's later claims.
+
+See [[hubs/warfare/world-wars-era/second-world-war/operation-overlord-1944]], [[hubs/warfare/world-wars-era/second-world-war/operation-goodwood-1944]], [[hubs/warfare/world-wars-era/second-world-war/falaise-gap-1944]], and [[sources/deste-decision-in-normandy-1983]].
