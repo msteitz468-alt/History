@@ -18,8 +18,8 @@ outcome: "Decisive English victory; Edward III proceeds to besiege and take Cala
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[events/battle-of-crecy-1346]]"
-key_sources: "CHW Vol. 2 ch. 13 (Anne Curry) & ch. 23 (Kelly DeVries); Delbrück, History of the Art of War Vol. III (Sachkritik on numbers/tactics); Froissart; Ayton & Preston, The Battle of Crécy, 1346 (2005, outstanding); Rogers, War Cruel and Sharp (outstanding)"
-last_updated: "2026-06-24"
+key_sources: "CHW Vol. 2 ch. 13 (Anne Curry) & ch. 23 (Kelly DeVries); Delbrück, History of the Art of War Vol. III (Sachkritik on numbers/tactics); Froissart; Ayton & Preston, The Battle of Crécy, 1346 (2005, outstanding); Rogers, War Cruel and Sharp (outstanding); DeVries, Infantry Warfare in the Early Fourteenth Century (1996), ch. XIII (detailed formation, source criticism on archer placement, ditches, speech, rain effect, Courtrai parallel, verbatim chronicle grounding)"
+last_updated: "2026-06-24 (DeVries range 08/09: opening + maturation; Staveren/Vottem parallels; chevauchée + prep verbatim)"
 tags: [warfare, battle-analysis, late-middle-ages, western-europe, hundred-years-war]
 ---
 
@@ -32,6 +32,10 @@ system to Europe. Drawn from the [[cambridge-history-of-war-v2|Cambridge History
 (Anne Curry, ch. 13; Kelly DeVries on the weapons, ch. 23), whose argument is that Crécy was the
 first full vindication of a *recruited, paid, longbow-based army* against the larger but
 "amorphous" feudal host of France.
+
+**DeVries conclusions synthesis (range 10):** Crécy as culmination of the uniform infantry pattern 1302–1347. English "induced to dismount the cavalry and order as infantry"; "Edward III ordered his troops along a small ridge north of which stood the Bois de Crécy"; longbowmen "ordered along and protruding out from the flanks of the infantry lines" to "narrow their opponents' charges and to protect against flank attacks" rather than as "a killing machine"; "Their purpose was simply to narrow and confuse the attacker's charge so that when it fell onto the infantry troops, it did so in a disrupted and relatively impotent manner." At Crécy "the English cannons [...] seem to have been used in the same way." "it was, in almost every battle, the cavalry of these armies charging against infantry opponents which led directly to their defeat." (DeVries range 10; cross to Courtrai and Bannockburn as precedents). See [[sources/devries-infantry-warfare-early-fourteenth-century-1996]].
+
+**DeVries (range 08) contribution — Crécy opening and English maturation:** Edward III's main force (April 1346 order; "perhaps as many as 15,000, most of whom were infantry or archers"; 700–1,000 ships). Multiple English armies with "much success"; French king "chose not to attack the smaller English armies, but instead to do battle with the main force at Crécy-en-Ponthieu." Campaign: chevauchée "through the countryside, pillaging and devastating all the land." Builds directly on Morlaix (1342) experiments: troops "with their backs against a dense wood... dug ditches and pits along the flanks of the infantry line and across the battlefield." "As the Scots, Flemings, and Swiss all without the benefit of skilled longbowmen had found, this tactic was able to narrow and confuse the charge..." (Knighton: French into "'antrum obturatum,' a 'narrow cave'"). Now matured with longbow + dismount + contract army. Contemporaneous continental cases (Staveren/Vottem) confirm the "uniformity" pattern: "at Staveren in 1345 and at Vottem in 1346, the rebellious armies, infantry forces, defeated their cavalry-based opponents" via solid lines/ditches/cohesion. (Verbatim from range (DeVries range 08))
 
 ## 1. Strategic Context and Objectives
 
@@ -64,7 +68,7 @@ helps to explain their vulnerability in battle against the English."
 
 | Element | England | France |
 |---|---|---|
-| Total | c. 14,000–15,000 (Curry/CHW Vol. 2) | Substantially larger; uncounted |
+| Total | c. 14,000–15,000 (Curry/CHW Vol. 2; DeVries range 08 confirms "perhaps as many as 15,000, most of whom were infantry or archers") | Substantially larger; uncounted |
 | Infantry | c. 8,000 foot, **the majority longbowmen** | Hired **Genoese crossbowmen** as the missile arm |
 | Cavalry / men-at-arms | Men-at-arms **dismounted** to fight on foot beside the archers | Mounted **French chivalry** — the main striking arm |
 | Command | Edward III in overall command; the **Black Prince** commanding the right "battle" | Philip VI — but control fractured as contingents arrived |
@@ -195,8 +199,44 @@ Full operational depth belongs to **Andrew Ayton & Philip Preston, *The Battle o
 (2005) and **Clifford Rogers, *War Cruel and Sharp*** — both cited by the volume and **flagged
 outstanding** in the roadmap.
 
+## DeVries, *Infantry Warfare* (1996) — Crécy Chapter Enrichment (Range 09)
+
+**Key grounding (verbatim + "(DeVries range 09)") from DeVries's dedicated Crécy chapter reconstruction.** Focus: English post-Bannockburn maturation of dismounted men-at-arms + flank archery; why the stand succeeded; source criticism (esp. archer "herce" placement); explicit Courtrai comparison; French errors after Genoese failure.
+
+**Formation details:**
+- "dismounting to stand alongside the rest of the infantry. Even the sixteen-year-old Edward, the Black Prince, who was in command of the first line, was dismounted."
+- Archer placement: Baker and Récits place archers "along the flanks of the infantry" / "a lateribus regis exercitus quasi ale astarent" (wings). Villani places them behind. Froissart's "herce"/"erce" term has generated centuries of debate (Lloyd 1895, George 1895, Morris 1897, Oman 1905, Delbrück 1923, Burne 1955, Hardy 1976–92, Bradbury 1985, Sumption 1990). DeVries: "it certainly should not be an issue at Crécy" — contemporary sources establish flanks. "And as this was the established formation used by Edward III as seen before at Halidon Hill and later at Neville's Cross and Poitiers ... The archers can only have been ordered along the flanks of the infantry lines." (DeVries range 09)
+- "It seems certain that there were also some early gunpowder weapons with the English forces which were used in the battle..."
+
+**Preparation, speech, terrain works:**
+- Stood "from dawn to vespers"; ate; king's speech: faith in "God and the Blessed Virgin"; desire "to fight the French cavalry and not the infantry"; order "not to succumb to greed by taking any prisoners or seeking for booty before the battle was over" (or line would weaken).
+- Ditches (Baker): "quickly dug many holes in the earth in front of the first line, one foot deep and one foot wide, so that if it happened that the French cavalry were able to attack them, the horses might stagger because of the holes." (Latin quote in DeVries range 09)
+- Wagon fortress at rear; ridge between woods anchoring flanks.
+
+**Rain and opening:**
+- Heavy rain shower (thunder/lightning) made field muddy (no rain for >6 weeks per Burton); soaked Genoese crossbow strings ("useless"); English protected bowstrings "on their heads under the helmets."
+- French opened with trumpets/drums "to cause fear"; English replied with cannons. "Through it all, Edward III's soldiers stood solidly in their formation." (DeVries range 09)
+
+**Genoese + French self-disorder (Courtrai-style tactic failed):**
+- Genoese advanced "as seen in the battle of Courtrai, this was a standard French tactic" to disorder enemy for cavalry charge.
+- "the attack of the Genoese crossbowmen failed miserably, as these archers were completely stopped in their approach by a counter-attack of English longbowmen; some sources indicate that the Genoese were unable to discharge even one shot."
+- "The Genoese retreated, but were not allowed back to their lines as Philip VI, perceiving their flight to be treasonous, ordered their destruction by his own cavalry. This ... add[ed] further hindrances to the many cavalry charges which followed..."
+- Charges: "none could be called 'ordered'"; disrupted by own crossbowmen then "an archery onslaught". Jean le Bel: archers "fired so skillfully that some of those on horses, feeling the barbed arrows, did not wish to advance, while others charged forward as planned; some resisted them tirelessly, while others turned their backs on the enemy." (DeVries range 09)
+- "With the archers on the flanks, the French charges became directed at the center..."
+
+**Why it worked (DeVries synthesis):**
+- "Because of the numerous excellent original sources on the battle, the tactics of Crécy are simple to discern. So too are the causes of victory for the English and defeat for the French."
+- English chose defensible ridge/woods (flanks), wagon fort (rear), ditches; "ordered as infantry in a solid defensive formation on this high ground. Finally, lines of archers were positioned along the flanks"; provoked French cavalry "to charge uphill, through the hindrances of a constant archery deluge and over ditches which would cause disorder among those charging into his solid infantry formation."
+- Philip "knew what the English king desired" (seen at [[events/battle-of-cassel-1328|Cassel 1328]]) but could not exercise patience (possible Flemish reinforcements); lost advantage after Genoese failure; "errors compounded by pride."
+- English lines "received the disordered French charges without breaking."
+
+**Courtrai parallel (Le Bel & Villani):**
+- "It is perhaps no mistake that both Jean le Bel and Giovanni Villani compare the battle of Crécy to the battle of Courtrai. ... similarities ... choosing the battlefield, utilizing the natural terrain to protect his flanks, and placing his troops ... in a solid defensive formation. ... the way the two armies finally met in combat, one a charging cavalry and the other a solid defensive line of infantry. As at Courtrai, the infantry soldiers stood in unity, without giving way to their attackers. It was a great victory, one which would eventually supersede in importance not only the battle of Courtrai but almost all other medieval battles." (DeVries range 09)
+
+**Updates to OOB / phases / lessons:** Reinforces dismounted men-at-arms anchoring; flank (not herse) archers per contemporary sources; adds precise Baker ditch dimensions; rain as contributor to Genoese ineffectiveness; French command/pride failures after first setback; solid English cohesion "from dawn to vespers."
+
 ## Related
 
 - Commanders/actors: Edward III · Edward the Black Prince · Philip VI of France
 - War & campaign: [[hubs/warfare/late-middle-ages/hundred-years-war/hundred-years-war|Hundred Years' War]] · [[events/hundred-years-war-1337]] · [[events/battle-of-crecy-1346]]
-- Comparable battles: [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-agincourt-1415|Agincourt (1415)]] (the system at its peak); [[events/battle-of-bannockburn-1314|Bannockburn (1314)]] (infantry vs. cavalry).
+- Comparable battles: [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-agincourt-1415|Agincourt (1415)]] (the system at its peak); [[events/battle-of-bannockburn-1314|Bannockburn (1314)]] (infantry vs. cavalry); [[hubs/warfare/high-middle-ages/courtrai-war/battle-of-courtrai-1302|Courtrai (1302)]] (DeVries explicit parallel: solid infantry stand vs cavalry).

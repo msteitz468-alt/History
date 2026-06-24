@@ -75,6 +75,8 @@ fisc and provoke or avoid battle at choice — is the type-case. Siege, not fiel
 most wars: as France observes of the Crusades, "siege posed the greatest challenge to the army
 because it was forced to stay in one place."
 
+**High-medieval specifics from France Ch. 9–11 (Range 03)**: "Siege was a test of political will and resources on both sides." Many city sieges unsuccessful (Barbarossa at Milan: "a military solution in the Lombard plain was impossible"; Toulouse 1211/1217–18; Frederick II Brescia/Parma). "In the end it was the garrison, not the walls, that mattered." Mining most successful; "No machine in this period actually altered the balance of advantage between attack and defence." (Ch. 9) Armies "remained ad hoc bodies"; Bouvines "<20,000 men in all"; core always commander's household ("rather like onions"); "no clear chain of command"; changed "only slowly." (Ch. 10) Command required front-rank example and persuasion; "the medieval commander was first and foremost a man of rank"; professionals (e.g. Guérin at Bouvines) subordinate. (Ch. 11) All grounded in exclusive range.
+
 **Recruitment systems were the deep variable.** The volume's comparative point is that *who could
 be made to fight, and how they were paid*, shaped everything downstream:
 

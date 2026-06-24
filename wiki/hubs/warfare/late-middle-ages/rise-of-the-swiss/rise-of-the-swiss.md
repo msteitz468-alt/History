@@ -66,10 +66,11 @@ Marathon**.
 | **Sempach** | 9 Jul 1386 | Swiss flank attack destroys Leopold III's dismounted knights; Duke killed | **[[hubs/warfare/late-middle-ages/rise-of-the-swiss/battle-of-sempach-1386|Tactical analysis]]** |
 | **Burgundian Wars** (Grandson · Murten · Nancy) | 1476–77 | Swiss annihilate Charles the Bold's combined-arms army; Burgundy destroyed | **[[hubs/warfare/late-middle-ages/rise-of-the-swiss/burgundian-wars|Campaign analysis]]** |
 
-**Laupen (1339)** — the first open-field win: Bern hired the forest cantons (the "first forerunner"
-of the Swiss mercenary *Reisläufer* system) and, under **Rudolf von Erlach** (granted extraordinary
-disciplinary power by oath), held the Bramberg heights, let the forest-canton square draw off the
-knights, then "turned about, moved against the knights, and fell on them from the rear."
+**Laupen (1339)** — the first open-field win: Bern (pop. ~5–6k) hired forest cantons (1,000–1,200 troops) and mustered ~6,000 total infantry under knight **Rudolf von Erlach**. Opposed Freiburg + noble coalition (Kiburgs + counts of Neuchâtel, Gruyères, Nidau, Valengin, Aarburg, lord of Vaud + Savoy/Austrian ties). Siege of Laupen (former Freiburg holding) begun 10 June; relief battle 21 June.
+
+Per DeVries (Conflictus Laupensis): Bernese "determined to order their troops, all infantry, as 'a small wedge'—the Conflictus Laupensis uses the term 'parvus cuneus'—with troops facing out on all sides on top of a small hill." Freiburg "new knights" "waved their swords in the air in excitement and raced to attack"; cavalry rode "frightfully" around then attacked "fiercely." Bernese "bursting the chains of all their fear, like Samson, received the assault of the Freiburgers. And they took all of their Standards and slew the standard-bearers and many others, all infantry, and the rest they put to a pitiable flight. When those who were circling with their horses charged to their aid, the Bernese without delay either killed all of them or put them to flight." (p.309; DeVries range 07). Counts of Nidau/Valengin + lord of Vaud killed; 27 banners + 80 crowned helmets taken. Bernese losses 1,000–1,500. "the tactics used by the Bernese infantry and the outcome they caused against the Freiburger cavalry were very similar to almost all of these other battles." Solid hilltop wedge; "the infantry stood so solidly at Laupen that one must wonder if their formation could ever have been defeated by simply charging into it." Freiburg "exulted in their chivalric numbers and saw no need for any other strategy except for an immediate attack." (DeVries range 07)
+
+See [[sources/devries-infantry-warfare-early-fourteenth-century-1996]] (range 07). Open-field validation of infantry solidity post-Morgarten.
 
 ## The verdict: the Middle Ages end at Murten
 

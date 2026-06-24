@@ -193,6 +193,8 @@ of genuine east–west contact along the early Silk Roads; and the comparative
 question of why durable bureaucratic empire took root in China but not in the
 Mediterranean (a recurring CWH IV theme — see [[empire]]).
 
+Lendon (*Soldiers and Ghosts*, 2005) adds a major cultural-historiographical layer: military "change" in Greece and Rome was driven less by technology or functional adaptation than by competitive emulation of past models ("ghosts" — Homer above all for Greeks; mos maiorum and famous exemplars for Romans). This explains both striking continuities (hoplite ideals, aggressive Roman virtus) and the specific forms innovation took. Strong on Iliad as "nursery of ghosts," hoplite passive courage and "city-as-hoplite," Alexander's self-conscious emulation, the manipular legion as cultural compromise, Pydna as virtus vs. disciplina case study, and the late-antique revival of shield-wall tactics under antiquarian Greek influence. Complements Hanson (experiential), Goldsworthy (operational), and Sabin (modeling). See [[sources/lendon-soldiers-and-ghosts-2005]] and [[concepts/soldiers-and-ghosts]].
+
 **Recent revisionism.** Economic historians (von Reden, Ch 2) have reconstructed
 the period's economy as far more monetized and integrated than older "primitivist"
 models allowed; comparative imperiology now sets Rome, Han, Maurya, and the

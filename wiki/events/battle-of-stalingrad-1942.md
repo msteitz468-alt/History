@@ -81,9 +81,10 @@ Riasanovsky highlights that Stalingrad was a battle of extreme contrasts, showca
 
 ## Related
 - [[events/second-battle-of-kharkov-1942]]
-- [[hubs/warfare/world-wars-era/second-world-war/battle-of-stalingrad-1942]]
+- [[hubs/warfare/world-wars-era/second-world-war/battle-of-stalingrad-1942]] (operational analysis Ch. 7 phases/OOB/decisions from Glantz Range 07)
 - [[concepts/red-army-rebuild-1942]]
-- [[sources/glantz-house-to-the-gates-of-stalingrad-2009]] (and [[sources/glantz-house-when-titans-clashed-2015]])
+- [[sources/glantz-house-to-the-gates-of-stalingrad-2009]] (Range 07: Ch. 7 Endgame 1-19 Aug 1942 exclusive claims + OOB Tables 17-19)
+- [[sources/glantz-house-when-titans-clashed-2015]]
 
 ---
 

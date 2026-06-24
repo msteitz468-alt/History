@@ -106,7 +106,9 @@ navigation begins to close the hemispheric gap.
 
 ## Transition
 
-**Entry:** from the [[high-middle-ages]] at c. 1300 CE, with the
+**Entry:** from the [[high-middle-ages]] at c. 1300 CE, with the opening of a Europe-wide infantry revival (1302 Courtrai onward). Per DeVries: infantry armies fought "using distinctive, and in most cases, decisive tactics" with "the uniformity in tactics used by all these infantry armies throughout such a large geographical region" (Flemings, Scots, English dismounted, Swiss, etc.). Armies "primarily [...] fought on foot"; chose sites and dug ditches/pits to force "only one course of attack: a frontal assault"; cavalry charges "led directly to their defeat" except when infantry abandoned the stand (Mons-en-Pévèle, Cassel). English "dismount the cavalry and order as infantry" after Bannockburn, supplanting "the ancient tradition of their fathers." Longbow used to "narrow [...] charges" rather than as killing machine. (DeVries range 10) See [[sources/devries-infantry-warfare-early-fourteenth-century-1996]], [[hubs/warfare/tactics-and-battle-strategies]]. 
+
+**Entry (continued):** 
 [[mongol-empire|Mongol]]-integrated Eurasian system at its height.
 
 **Exit:** at 1500 CE, the terminus of the "Middle Millennium" and of

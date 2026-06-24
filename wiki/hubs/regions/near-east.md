@@ -34,6 +34,8 @@ tags: [hub, region, near-east]
   [[fall-of-the-ottoman-empire-1922|its fall]] → the [[colonial-partition-of-the-arab-world|partition of the Arab world]],
   [[arab-nationalism|Arab nationalism]] ([[gamal-abdel-nasser|Nasser]]), and the [[arab-israeli-conflict|Arab–Israeli conflict]].
 
+**1914 Ottoman entry and German global strategy (Strachan Range 09):** Secret alliance 2 Aug; Goeben/Breslau escape to Dardanelles (4–10 Aug) triggered Turkish commitment. Black Sea raid 29 Oct precipitated formal entry (Russia 2 Nov; Britain/France 5 Nov). Holy war proclaimed 14 Nov calling worldwide Muslim revolt. Enver’s plan targeted Egypt (Suez) and Caucasus alongside jihad. Logistical limits produced Sarikamish disaster and weak Sinai thrust (19k vs 70k). See [[events/turkey-entry-1914]], [[events/goeben-escape-1914]], [[concepts/holy-war-1914]]. `contributed_to:` Dardanelles closure, new theatres, global war character.
+
 ## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
 - [[mesopotamian-chronology|Mesopotamian chronology]] · the [[bronze-age-collapse-1200bce|Bronze Age Collapse]] ·
   [[the-exodus|the Exodus]] · [[ottoman-decline-thesis|the Ottoman decline thesis]].

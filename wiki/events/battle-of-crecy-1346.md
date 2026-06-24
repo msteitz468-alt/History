@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["caused_by: [[hundred-years-war-1337]]", "contributed_to: Edward III's 1346 chevauchée through Normandy", "the English longbow-and-contract-army system"]
 consequences: ["produced: the siege and capture of Calais (1347)", "enabled: the English victories at Poitiers (1356) and [[battle-of-agincourt-1415|Agincourt]] (1415)", "demonstrated the late-medieval [[military-revolution|infantry revolution]]"]
-sources_ingested: 1
-last_updated: 2026-06-24
+sources_ingested: 2
+last_updated: 2026-06-24 (DeVries range 09)
 tags: [event, late-middle-ages, western-europe]
 ---
 
@@ -61,3 +61,4 @@ Bohemia (killed).
 - War: [[hubs/warfare/late-middle-ages/hundred-years-war/hundred-years-war|Hundred Years' War hub]] · [[hundred-years-war-1337]]
 - Process: [[medieval-warfare]] · [[military-revolution]]
 - Source: [[cambridge-history-of-war-v2|Cambridge History of War, Vol. 2]] (Curry, ch. 13)
+- Additional tactical/source detail: [[sources/devries-infantry-warfare-early-fourteenth-century-1996|DeVries, Infantry Warfare... (1996)]] ch. XIII (range 09): English solid infantry formation + flank archers (Baker/Récits confirmation vs Froissart herce debate); ditches (Baker: 1ft deep/wide holes to disorder horses); king's speech and "from dawn to vespers" stand; rain effect on Genoese strings (English protected); Genoese destruction by own cavalry; explicit Courtrai comparison (Le Bel, Villani); "the infantry soldiers stood in unity, without giving way." (DeVries range 09)

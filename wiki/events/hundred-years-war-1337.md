@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the English kings' claim to the French crown, the disputed status of English-held Aquitaine/Gascony, the Anglo-French rivalry over Flanders and Scotland]
 consequences: [the consolidation of the English and French monarchies, the growth of taxation and parliaments, the forging of English and French national identity, the devastation of France]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [event, late-middle-ages, western-europe, british-isles]
 ---

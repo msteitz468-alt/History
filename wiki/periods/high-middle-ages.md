@@ -7,8 +7,8 @@ date_range: "1000–1300 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road]
 major_themes: ["the thickening of Afro-Eurasian exchange webs", "the commercial revolution and a 'first globalization'", "the apogee of Song China", "the Crusades and Christian–Islamic frontier conflict", "cultural crystallization across Eurasian ecumenes", "the rise of universities and scholastic learning", "the eve of the Mongol conquests", "demographic expansion across the Old World", "Angkor, Cahokia, and regional apogees beyond Eurasia"]
 collection_coverage: strong
-sources_ingested: 13
-last_updated: 2026-06-22
+sources_ingested: 14
+last_updated: 2026-06-23
 tags: [period]
 ---
 
@@ -126,6 +126,8 @@ it ceded the north to the Khitan Liao and Jurchen Jin. See [[song-dynasty]].
 Levant; the era's "expanding webs" were as much webs of conflict (crusade, jihad,
 reconquista) as of commerce. See [[crusades]].
 
+**Western warfare style.** Per France, *Western Warfare in the Age of the Crusades* (Ch. 12–13): staple was "destructive raiding punctuated with sieges and, more occasionally, by battle." Battle rare because "it needed both sides to resolve upon battle"; command and control (not technology alone) usually decisive. Cavalry mobility dominant but mass shock rare; infantry in mass formations essential throughout. No linear tactical evolution — change uneven, personality-dependent, lacking institutional memory. "each victory was sui generis." See [[proprietorial-warfare]], [[medieval-warfare]], [[medieval-campaign-style]], [[limits-of-tactical-evolution-medieval]], [[hubs/warfare/strategy]], [[hubs/warfare/tactics-and-battle-strategies]], [[sources/france-western-warfare-in-the-age-of-the-crusades-1999]].
+
 **Cultural crystallization and learning.** The rise of the [[medieval-university|university]]
 (Bologna, Paris, Oxford), scholasticism, the recovery of Aristotle via Arabic
 translation, Gothic architecture, and parallel intellectual flourishings in the
@@ -136,7 +138,9 @@ transformation that [[luscombe-ncmh-v4-2004|NCMH IV]] makes the foundation of th
 whole period in the west: a **[[medieval-agricultural-revolution|demographic and
 agricultural "take-off"]]** (the European population more than doubling 1000–1300),
 feeding the [[commercial-revolution|commercial]] and [[urbanization|urban]] revivals,
-the consolidation of seigneurial lordship and the order of [[chivalry|knighthood]]
+the consolidation of seigneurial lordship and the order of [[chivalry|knighthood]].
+
+**Proprietorial warfare and the military institutions of the Latin West.** Warfare bore a "common stamp" shaped by land as primary wealth, limited governmental competence, defensive technological bias, and western geography (France). The characteristic institutions were the castle (primarily a proprietorial home, estate-admin centre, and local government point, sited where lords held land rather than on abstract strategic routes; also an offensive base for garrisons) and the armoured knight (mobile retainer of landed proprietors). Armies were retinue-based ad hoc collections; infantry existed largely as necessary support (2–3 servants per knight plus urban sergeants and specialists) rather than as a coherent standing force. No reliable universal militia obligation existed. Raiding, devastation, and siege predominated; battle was risky and often avoided in favour of Vegetian methods (famine, raids, terror). Networks of castles + field army formed the decisive strategic combination (exemplified in the Latin Kingdom of Jerusalem and Baldwin V of Hainaut's 1184–85 defence). Social exclusivity produced conservatism; mercenaries and cash payments were integral despite elite ideology. See [[proprietorial-warfare]], [[medieval-castle]], [[medieval-infantry]], [[medieval-warfare]], [[hubs/warfare/strategy]], and [[sources/france-western-warfare-in-the-age-of-the-crusades-1999]]. (Grounded exclusively in France Ch. 6–8 cache range.)
 behind its proliferating castles, the [[ius-commune|revival of Roman and canon law]]
 and the birth of the [[medieval-university|universities]], and the sanctification of
 warrior violence ([[peace-of-god|Peace of God]] → [[just-war|just war]] →
@@ -244,6 +248,10 @@ European phenomenon; quantitative re-estimates of medieval populations and
 economies (Maddison, Broadberry); and the reframing of the period as the run-up to
 a Mongol-integrated world economy rather than as "feudal stagnation."
 
+**Military historiography (from France, *Western Warfare in the Age of the Crusades*).** Older accounts often assumed universal obligations or treated castles as purely strategic and battle as the norm. France provides a structural, proprietorial explanation for the "common stamp" of Western warfare 1000–1300: landholding logic drove castle and knight institutions; ad hoc retinues and cash explain both infantry presence and limits on cohesion; Vegetian raiding/siege predominated because of castle refuges and political realities. 
+
+From Ch. 9–11 (Range 03): "Siege was a test of political will and resources on both sides"; many city sieges unsuccessful due to inability to isolate (e.g. Barbarossa Milan: "a military solution in the Lombard plain was impossible"); "In the end it was the garrison, not the walls, that mattered." Mining most successful tactic; traction trebuchet dominant; counterweight new but "did not radically alter the balance"; "No machine in this period actually altered the balance of advantage between attack and defence." Armies "remained ad hoc bodies"; "At Bouvines, there were less than 20,000 men in all"; core always commander's household troops ("rather like onions"); "no clear chain of command"; "armies changed only slowly." Command by persuasion + front-rank example; "the medieval commander was first and foremost a man of rank"; professionals (Guérin bishop-elect of Senlis "the effective military commander" at Bouvines) subordinate. Explicitly contrasts with battle-centric readings and emphasises source-critical limits on numbers and the social fear of arming the lower orders. Complements tactical studies (Verbruggen) and operational crusade work (France's own *Victory in the East*). Recent work continues to debate the frequency of battle versus attrition and the pace of the late-medieval infantry revival. All grounded in exclusive range.
+
 ## Collection Coverage Note
 
 **Strong in potential, lightly ingested so far.** Per CLAUDE.md the collection is
@@ -257,6 +265,8 @@ the emergent eastern kingdoms, Byzantium under the Macedonians, and the Caliphat
 Córdoba). **[[luscombe-ncmh-v4-2004|NCMH IV]]** (c. 1024–c. 1198, in two parts) now
 supplies the reference backbone for the central Middle Ages — the socioeconomic
 "take-off," the Gregorian Reform and Investiture Contest, the First and Second
+
+**France (1999)** now supplies the essential structural analysis of Western warfare institutions (castle as proprietorial base; retinue infantry support; raid/siege predominance) for the High Middle Ages phase.
 Crusades, the twelfth-century renaissance and the universities, the Norman conquests
 of England and Sicily, the communes, the Reconquista after Toledo (1085), and the
 Komnenian Byzantium — being ingested cycle by cycle (Cycle 1 covers the thematic

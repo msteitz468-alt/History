@@ -14,7 +14,7 @@ scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[events/hundred-years-war-1337]]"
 key_sources: "CHW Vol. 2 ch. 13 (Anne Curry) & ch. 23 (Kelly DeVries); Froissart; Ayton & Preston, The Battle of Crécy (outstanding); Curry, Agincourt: A New History (outstanding); Rogers, War Cruel and Sharp (outstanding)"
-last_updated: "2026-06-24"
+last_updated: "2026-06-24 (DeVries range 09 Crécy enrichment)"
 tags: [warfare, campaign, late-middle-ages, western-europe, hundred-years-war]
 ---
 
@@ -46,12 +46,14 @@ success."
 Curry, following **Clifford Rogers**, sets the war inside an "infantry revolution": "massed infantry
 determined the outcome of all major battles" of the era — the Flemish at Courtrai (1302), the Scots
 at Bannockburn (1314), and "the English archers who overcame the might of French chivalry at Crécy
-(1346), Poitiers (1356), Agincourt (1415), and Verneuil (1424)." The English method fused:
+(1346), Poitiers (1356), Agincourt (1415), and Verneuil (1424)." The English method fused: dismounted men-at-arms in solid defensive line (knights fighting on foot), supported by archers (initially integrated when numbers required), exploiting terrain (hills, woods, prepared pits/ditches). Explicit early application at Morlaix (1342) per DeVries. Contemporaneous continental cases (DeVries range 08): "at Staveren in 1345 and at Vottem in 1346, the rebellious armies, infantry forces, defeated their cavalry-based opponents" via solid "tightly bunched" lines, ditches "made to hide in" (conceal + hinder), and fierce resistance with pikes/axes/falchions. Frisians abandoned some fortifications for an open defensive line when advantageous; Liège rebels positioned two days prior on the main road. French/HRE charges "in disarray" or "incautiously" with pride; "As at Staveren, the rebels prevailed." English at Crécy opening (~15,000, most infantry/archers) + chevauchée-to-prepared-stand builds on the same pattern (now with longbow integration). "by 1342 known and exercised at every military engagement. As at [[events/battle-of-boroughbridge-1322|Boroughbridge (1322)]], Dupplin Moor, and Halidon Hill..." Archers present (mostly in force) but "not positioned as at these other battles" (Dupplin/Halidon/Crécy) because "with his small numbers of troops, he would have made his infantry line so thin" — instead integrated into line. Direct continuation of Bannockburn-derived learning (post-Scottish defeats); precursor to Crécy maturation. "the English had won the battle." (DeVries range 07; see also [[sources/devries-infantry-warfare-early-fourteenth-century-1996]]).
+
+This system:
 
 - **The longbow** — yew or ash, drawn "to the cheek instead of the chest," its power the product of
   "a lifetime of training" that "made a difference" (unlike the low-skill crossbow). English archers
   had already broken the Scots at Dupplin Moor (1332) and Halidon Hill (1333).
-- **Dismounted men-at-arms** fighting on foot beside the archers, on a chosen defensive position.
+- **Dismounted men-at-arms** fighting on foot beside the archers, on a chosen defensive position. At Crécy (per DeVries 1996 range 09): Edward III ordered troops "as infantry in a solid defensive formation on this high ground" on a ridge between woods (flanks protected); "lines of archers were positioned along the flanks"; provoked cavalry "to charge uphill, through the hindrances of a constant archery deluge and over ditches which would cause disorder"; English stood "from dawn to vespers" in formation, received disordered charges "without breaking." (DeVries range 09) Explicit parallel drawn by Jean le Bel and Villani to Courtrai's infantry stand. See full analysis [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-crecy-1346]].
 - **A coordinated, paid, contract army.** The transforming change, Curry argues, "was the move away
   from infantry raised by commission of array to the inclusion of archers in mixed retinues raised
   by nobility and gentry… with all troops mounted" — supplied by **indenture** (contract) at set

@@ -11,9 +11,9 @@ actors_secondary: [Allied Powers, Red Army]
 event_type: battle
 scale_immediate: civilizational
 scale_consequential: global
-causes: [German plan to pinch off the Kursk salient (Operation Citadel), Soviet intelligence alerts, Soviet preparation of deep defensive lines]
+causes: [German plan to pinch off the Kursk salient (Operation Citadel), Soviet intelligence alerts, Soviet preparation of mature deep defensive system (concentric belts with integrated antitank strongpoints/regions, massive engineer minefields and mobile obstacle detachments, artillery groups, "aktivnost" active defense, and operational/strategic reserves per Glantz CSI Report No. 11)]
 consequences: [complete depletion of German armored reserves, launch of the Soviet counteroffensive, liberation of Ukraine]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [event, world-wars-era, eastern-europe]
 ---
@@ -33,4 +33,4 @@ In July 1943, the Germans launched their last major summer offensive on the East
 - **Joseph Stalin**, who approved the defensive strategy; **George Zhukov**, who designed the defense and counteroffensive; and German Field Marshal **Erich von Manstein**, who planned the German attack. See [[stalin-joseph]], zhukov-george.
 
 ## Historiography
-Riasanovsky notes that Kursk demonstrated the qualitative and quantitative improvements of the Red Army, which out-fought the best German units in massed armor engagements (Line 6289). It remains celebrated as the largest tank battle in history.
+Riasanovsky notes that Kursk demonstrated the qualitative and quantitative improvements of the Red Army, which out-fought the best German units in massed armor engagements (Line 6289). It remains celebrated as the largest tank battle in history. Glantz (CSI Report No. 11) provides the granular Soviet tactical mechanics: evolution from 1941 disasters through 1942 learning to the 1943 system of echeloned belts, PTOP antitank strongpoints, 1,500+ AT mines/km + mobile sappers, massive artillery concentrations (e.g. 380 guns for one division at Ponyri), and "aktivnost" that imposed disproportionate costs (hundreds of German AFVs destroyed by mines alone; Ponyri sector microcosm inflicted ~10,700 German K/W + 220 tanks/SPGs while holding the second belt for four days). The defense succeeded as a deliberate prelude to counteroffensives (Clausewitz "defense as stronger form").

@@ -12,7 +12,7 @@ event_type: [battle]
 scale_immediate: regional
 scale_consequential: regional
 causes: [[[philip-iv-capetian|Philip IV's annexation of Flanders]], the social conflict between patricians and craftsmen, the Bruges Matins (May 1302)]
-consequences: [the survival of [[county-of-flanders|Flanders]] as a fief, the breaking of patrician power, a blow to the military supremacy of mounted chivalry]
+consequences: [the survival of [[county-of-flanders|Flanders]] as a fief, the breaking of patrician power, a blow to the military supremacy of mounted chivalry; opening exemplar of Europe-wide infantry revival per DeVries (see below)]
 sources_ingested: 2
 last_updated: 2026-06-23
 tags: [event, high-middle-ages, late-middle-ages, western-europe]
@@ -25,6 +25,8 @@ the **flower of French chivalry** — "an astonishing event in military history.
 [[abulafia-ncmh-v5-2000|NCMH V]] (Wim Blockmans, Ch. 9b; William Chester Jordan, Ch. 11)
 treats it as both a social and a military watershed. It is traditionally called the **Battle
 of the Golden Spurs** for the hundreds of knightly spurs gathered from the French dead.
+
+**DeVries conclusions synthesis (range 10):** "There is but one main conclusion to this study: infantry armies fought battles during the early fourteenth century using distinctive, and in most cases, decisive tactics. [...] the uniformity in tactics used by all these infantry armies throughout such a large geographical region." Courtrai: "the Flemings at Courtrai [...] all fought using, as far as the original sources are concerned, only infantry soldiers"; battlefield chosen for Lys River + ditches; "ditches [...] filled with water"; "it was, in almost every battle, the cavalry of these armies charging against infantry opponents which led directly to their defeat." (DeVries range 10) Links: [[sources/devries-infantry-warfare-early-fourteenth-century-1996]], [[hubs/warfare/high-middle-ages/courtrai-war/battle-of-courtrai-1302]].
 
 ## Narrative
 
@@ -53,8 +55,7 @@ Artois** and many of Philip's chief advisers — including the legist **Pierre F
 Two lasting effects (Blockmans):
 
 - It **secured the continuity of the county of Flanders** as a largely independent fief under
-  the French crown — Philip recovered ground (Mons-en-Pévèle, 1304; the Treaty of
-  Athis-sur-Orge, 1305) but never absorbed Flanders.
+  the French crown — Philip recovered ground later at Mons-en-Pévèle (1304; Treaty of Athis-sur-Orge 1305 imposed harsh terms) but never fully absorbed Flanders. Post-Courtrai actions (Arques 1303, Mons-en-Pévèle 1304) per DeVries showed tactical continuity (dismounted close-order with goededags/pikes) and limits: at Arques, force division and loose-order contingent led to heavy losses and failure to exploit (circular "bowl or crown" formation held vs. French flanking preference); at Mons, Courtrai-style line + wagon fort nearly killed Philip in camp attack but heat, partial withdrawal, and counter produced rout, ending the broader independence movement. (DeVries range 02)
 - It **radically ended the predominance of the patricians**, producing "a far-reaching
   breakthrough in the artisans' claims for autonomous organisation and political
   participation," giving Flanders "arguably the most open and broadly based political system
