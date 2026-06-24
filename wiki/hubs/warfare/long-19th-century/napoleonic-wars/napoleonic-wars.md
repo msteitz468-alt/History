@@ -13,7 +13,7 @@ outcome: "French decisive dominance (1805–1809) then catastrophic collapse (18
 scale_immediate: civilizational
 scale_consequential: global
 event_page: "[[napoleonic-wars]]"
-key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), chs. 6–9; The Campaigns of Napoleon (Chandler 1966) for operational detail + OOBs + system analysis; Tactics and the Experience of Battle in the Age of Napoleon (Muir 1998) for battalion/regimental tactics...; Napoleon’s Last Victory and the Emergence of Modern War (Epstein 1994) for the 1809 campaign (Wagram as last victory + emergence of modern operational warfare with corps system in full use across theaters)"
+key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), chs. 6–9; The Campaigns of Napoleon (Chandler 1966) for operational detail + OOBs + system analysis; Tactics and the Experience of Battle in the Age of Napoleon (Muir 1998) for battalion/regimental tactics...; Napoleon’s Last Victory and the Emergence of Modern War (Epstein 1994) for the 1809 campaign (Wagram as last victory + emergence of modern operational warfare with corps system in full use across theaters); The Art of Warfare in the Age of Napoleon (Rothenberg 1978) for institutional comparison of French and coalition armies, the soldier's trade, tactical synthesis (column/line/skirmisher), staff problems, fortifications and medical services"
 last_updated: 2026-06-23
 tags: [warfare, campaign-analysis, long-19th-century, western-europe, eastern-europe, napoleonic-wars]
 ---
