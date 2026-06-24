@@ -25,7 +25,7 @@ Winter's *Cambridge History of the First World War*]].
 - **Total mobilization of society and economy.** War production is directed by the state;
   whole workforces (including women and, in the colonial empires, conscripted and recruited
   labour) are mobilized; the home front becomes a theatre of the war. (See
-  [[winter-cambridge-history-first-world-war-v2|"The State"]] on war economies.)
+  [[winter-cambridge-history-first-world-war-v2|"The State"]] on war economies.) Strachan Range 10 details the 1914 trigger: shell crises and gold-standard fragmentation forced central allocation (Germany's KRA 13 Aug) and state credit dominance, converting pre-war liberal economies into directed war economies far faster than anticipated. "The process of German mobilization had worked a more fundamental revolution in the mechanism of German credit than was realized at the time."
 - **Unlimited aims.** As Winter's contributors note of 1917, "the logic of total war
   dictated that societies had no choice but to fight on" — the war became "about survival,
   not ideals," foreclosing compromise peace.

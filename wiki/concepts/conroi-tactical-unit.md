@@ -45,6 +45,14 @@ Dense formation repeatedly praised: "They were serried in ranks / As if they wer
 
 Conrois combined into *batailles*. The royal French army at Cassel (1328) deployed in ten *batailles* with 177–196 banners. In the Latin Empire under Henry of Constantinople, the army was divided into fifteen *battles* of ~20 knights each (emperor's own ~50), with attacks delivered in staggered lines.
 
+## Evidence from France (Ch. 10) on Tactical Integration (Range 03)
+
+"Within these larger unities, knights seem to have been ordered in much smaller units of between 10 and 40, called conroi. In English armies of the late twelfth and thirteenth centuries, the knight–banneret seems to have been a minor commander with a force upwards of 13 knights, and was usually distinguished by carrying a square banner rather than a pennant. There were milites bannerii in the army with which Philip III attacked Foix in 1271."
+
+"these were not standardized units like modern sections, platoons and companies, and 'battles' varied enormously in size, being tactical units rather than organizational entities. Moreover, what little evidence we have shows that even within the smallest units there was little continuity of service in most cases. Moreover, considerations of rank disrupted these units as elements in a command structure."
+
+This reinforces the ad hoc, retinue-based, rank-sensitive nature of high-medieval tactical organisation. Conroi served as the building blocks within acies/batailles/schiera but did not create standing formations or overcome the social fragmentation of armies. See related [[concepts/high-medieval-armies]].
+
 ## Historiographical Importance
 
 Verbruggen uses the term and its attestations (vernacular poetry, chronicles) to demonstrate that medieval cavalry fought in organised small units with cohesion, not purely as individual heroes (correcting aspects of Delbrück and Oman). The conroi is the practical answer to the problem of fear, honour culture, and the need for mutual support in the charge. Banners and devices (liveries) identified units and fostered cohesion (e.g., Otto recognised by his conroi's device at Bouvines).

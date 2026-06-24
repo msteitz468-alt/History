@@ -47,6 +47,8 @@ shaped to their inexperience.
 fortified for eighteen months: deep dug-outs mined "thirty feet below the surface," thick wire, and
 machine guns sited to sweep no-man's-land. Their operational problem was to survive the bombardment
 and **win "the race for the parapet"** — to get their machine-gunners up the dug-out stairs and into
+
+**French sector and planning (Doughty).** Joffre chose the Somme to join British and French forces at the army boundary and shift the main effort to Britain. After Verdun compelled reductions, Sixth Army (Fayolle under Foch) with 11 divisions was to "support" the British: XX Corps north (cover British right), I Colonial and XXXV south. French possessed superior heavy artillery (552 pieces vs. 467 British main effort) and applied methodical battle doctrine (artillery first; bounded objectives; small-group infantry in depth). On 1 July French forces seized all first-day objectives south of the river (and on XX Corps front) with far lower relative losses than British; 4,000+ prisoners day 1, 8,000+ by day 3; later gains to Maisonette. Exploitation limited by Joffre's priority to British assistance and shifting difficulties. Joffre repeatedly pressed Haig for broader, more vigorous action (tense 3 July meeting); French continued attacks into autumn but results remained incremental. See [[events/battle-of-the-somme-1916]] and [[events/battle-of-verdun-1916]].
 action before the British infantry could cross.
 
 ## 2. Terrain, Weather, and Intelligence
