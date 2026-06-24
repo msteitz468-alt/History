@@ -664,7 +664,15 @@ The Appendix records the lived "experiences" of the new 1942 tank army/corps cad
 **Updated bookkeeping:** pages_created: 5; pages_updated: 11 (hub + event + source + cross); sources_ingested incremented to 4+. last_updated: 2026-06-24. Co-Authored-By trailer per protocol. Range 10 completes the source ingest for Ch. 10 synthesis per Section Plan.
 
 ---
-## Ingest Synthesis Note (main thread, post all subagent ranges 2026-06-24)
+## COMPLETE — All 10 Subagent Ranges Incorporated (main thread audit 2026-06-24)
+
+**Audit confirmation:** 
+- Source page contains dedicated verbatim claims blocks for **every range**: Range 01 (Preface/Prologue/Ch1), 02 (Ch2), 03 (Ch3 Prelims), 04 (Ch4 Blau I), 05 (Ch5 Blau II + Directive 45), 06 (Ch6 Great Bend + Order 227), 07 (Ch7 Endgame), 08 (Ch8 Volga arrival), 09 (Ch9 Flanks/Edelweiss + northern pinning), 10 (Ch10 Conclusions + Appendix).
+- Hub page is the main-thread reconciled synthesis drawing from all 10 (see numbered phases 1–6 + Strategic Context, OOB, Critical Decisions, full 9 Principles with examples from multiple ranges, Modern Doctrine, Historiography).
+- All unique content from each subagent (OOB tables, verbatim quotes with cache locators, decisions, overextension analysis, etc.) has been integrated. Supporting pages created by subagents (e.g. second-battle-of-kharkov-1942, paulus-friedrich, bock-fedor-von, plan-fall-blau, red-army-rebuild-1942) are cross-linked.
+- No subagent artifacts remain in core pages. All per CLAUDE.md (verbatim grounding only, established names, link taxonomy, deduping on main thread).
+
+This note added after full audit of source + hub + log + supporting files. All subagents accounted for.
 
 This ingest via Deployed Subagent Strategy (scaffold on main + 10 staggered subagents on disjoint ~17.6k-line caches) delivered:
 - Source page with full Section Plan and 10 Range-specific claims blocks (all verbatim-grounded + locators from Glantz text).

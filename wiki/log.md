@@ -3020,3 +3020,14 @@ Followed all CLAUDE.md: read ONLY assigned cache; schema/frontmatter/link taxono
 
 ## 2026-06-24 main | Range 09 integration (Glantz "To the Gates" Vol I, Ch. 9 Flanks) | World Wars Era | eastern-europe | Reviewed and reconciled subagent output for Range 09 (Edelweiss Caucasus + northern pinning: Voronezh, Rzhev-Sychevka/Wirbelwind diversions of 9th/11th Pz/GD, Zhizdra, Demiansk; 30 Jul Hoth wheel + asset transfers; Maikop/Krasnodar/passes/Mozdok/Novorossiisk details + OOB Tables 22/23; "already exhausted... before it even reached the city proper"; "empty victory"; Zeitzler/ "stretched to the breaking point"; "constant shifting"). Hub flanks section (Edelweiss parallel campaigns + northern actions + resource diversion/impact) polished and deduped with prior ranges (esp. Directive 45 from Range 05, arrival from Range 08, conclusions from Range 10). Source has complete Range 09 claims block with verbatim + linkage notes (contributed_to overextension via split + pinning; caused_by Hitler/OKH dispersed axes). Event causes updated with flank draining as precondition. pages_updated bumped. All grounded exclusively in range09 cache; established links only; 0 broken links. Hub now has full context of how flanks fatally weakened the Stalingrad thrust. Co-Authored-By: Grok 4.3
 
+
+## 2026-06-24 main-thread audit & confirmation | Glantz "To the Gates of Stalingrad" Vol I — ALL 10 subagent ranges | World Wars Era | eastern-europe | Full audit completed:
+- Source page: Dedicated "## Range XX claims" blocks present and populated for Ranges 01 (Preface+Ch1), 02 (Ch2), 03 (Ch3), 04 (Ch4), 05 (Ch5), 06 (Ch6), 07 (Ch7), 08 (Ch8), 09 (Ch9), 10 (Ch10+Appendix). All verbatim + locators + linkage notes.
+- Hub page: Comprehensive synthesis across all ranges in Strategic Context, OOB (multiple tables), numbered Course phases (Prelims Ch3, Blau I Ch4, Blau II Ch5+Directive 45, Great Bend Ch6+Order 227, Endgame Ch7, Flanks Ch9 with Edelweiss/Maikop/passes/Rzhev/Wirbelwind details), plus Ch8 arrival/corridor details woven in. Full 9 FM 3-0 principles, Critical Decisions, Modern Doctrine, Historiography updated from all sources. Supporting subagent pages (Kharkov event, Paulus, Bock, Plan Fall Blau, Red Army rebuild) cross-linked in Related.
+- Event page: Consolidated narrative + causes drawing from all phases.
+- No artifacts, 0 broken links, taxonomy followed. All subagents (including late-finishing Range 01 and Range 09) reconciled on main thread.
+- Confirmation notes added to source and hub.
+- Ingest of this source is now complete and audited.
+
+Co-Authored-By: Grok 4.3
+

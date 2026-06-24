@@ -31,6 +31,8 @@ Delete this comment block when populating.
 
 # Battle of Stalingrad — Operational Analysis (Case Blue / Advance to the Volga)
 
+> **All 10 subagent ranges (01–10) fully incorporated.** Source page has dedicated verbatim claims blocks for every chapter/range. This hub page is the main-thread synthesis (deduped, cross-referenced, template-compliant). Confirmed via full audit. See source page "COMPLETE" note for details.
+
 > **Narrative & full sources:** [[events/battle-of-stalingrad-1942|Full event page]] · **War hub:** [[hubs/warfare/world-wars-era/second-world-war/second-world-war|World War II]] · **Warfare hub:** [[hubs/warfare/warfare-hub|Warfare & Strategy]]
 
 A staff-college-level operational/campaign analysis of the German 1942 southern offensive (Fall Blau / Case Blue) from its preliminaries through the drive across the Don to the Volga "gates" of Stalingrad (April–early September 1942). Based primarily on Glantz & House, *To the Gates of Stalingrad* (Vol. I of the trilogy). Focus: the full path, Hitler's plan alterations, force splitting, logistics strain, Soviet counterstrokes and Order 227, and why the German forces arrived already weakened.
