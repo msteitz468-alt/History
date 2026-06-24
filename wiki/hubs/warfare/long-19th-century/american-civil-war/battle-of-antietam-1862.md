@@ -18,7 +18,7 @@ outcome: "Tactical draw / strategic Confederate withdrawal from Maryland after b
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[events/battle-of-antietam-1862|Battle of Antietam]]"
-key_sources: "Eicher, The Longest Night; OR Series I, Volume XIX, Part 1; Civil War Trust summary; maps by Frank Martini / Edward Krasnoborski in The West Point Atlas; Rogers & Seidule eds. The West Point History of the Civil War (2014)"
+key_sources: "Eicher, The Longest Night; OR Series I, Volume XIX, Part 1; Civil War Trust summary; maps by Frank Martini / Edward Krasnoborski in The West Point Atlas; Rogers & Seidule eds. The West Point History of the Civil War (2014); Stephen W. Sears, Landscape Turned Red (1983) — primary operational narrative and Carman-Gould veteran testimony"
 last_updated: "2026-06-23"
 tags: [warfare, battle-analysis, long-19th-century, eastern-north-america, american-civil-war]
 ---
@@ -103,7 +103,7 @@ The battle illustrates the challenges of applying mass and unity of command with
 
 - **Primary sources** — Official Records (OR) Series I Vol. XIX heavily cited in the source's OOB and maps. Contemporary art and photographs (Brady studio, Gardner) document aftermath.
 - **Conflicting accounts** — Numbers and exact sequence reconciled in Eicher and the West Point maps; source uses them for precise 16 Sep 1800 situation and gatefolds.
-- **Modern scholarship** — The source (Rogers & Seidule eds. 2014, Range 2) presents it as a pivotal operational halt to Lee's 1862 invasion within the broader Eastern Theater narrative. Complements tactical studies (e.g. Sears).
+- **Modern scholarship** — The source (Rogers & Seidule eds. 2014, Range 2) presents it as a pivotal operational halt to Lee's 1862 invasion within the broader Eastern Theater narrative. Complements tactical studies (e.g. Sears). Sears, *Landscape Turned Red* (1983), supplies the authoritative operational narrative and primary eyewitness depth via the Carman-Gould veteran survey. It traces the Lost Order discovery and McClellan’s subsequent caution despite the windfall, Lee’s deliberate stand at Sharpsburg, the sequential Union attacks, the Sunken Road and Burnside Bridge fights in terrain detail, A. P. Hill’s counterattack, and the failure to pursue. Cross-referenced in [[sources/sears-landscape-turned-red-1983]].
 
 **Grounding quotes from Range 2:**
 - "Antietam, ... Situation at 1800 Hours, 16 September 1862. ... Imagery from National Agriculture Imagery Program (NAIP)..."
@@ -114,4 +114,4 @@ The battle illustrates the challenges of applying mass and unity of command with
 - Commanders/actors: [[robert-e-lee|Robert E. Lee]], [[george-b-mcclellan|George B. McClellan]]
 - War & campaign: [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]] · [[events/battle-of-antietam-1862]]
 - Comparable battles: [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae|Cannae]] (for concentration and risk), other 1862 Eastern actions.
-- Source page: [[sources/rogers-seidule-west-point-history-civil-war-2014]] (Range 2 map/OOB claims)
+- Source page: [[sources/rogers-seidule-west-point-history-civil-war-2014]] (Range 2 map/OOB claims); [[sources/sears-landscape-turned-red-1983]] (operational narrative, Lost Order, Carman-Gould testimony, command decisions)
