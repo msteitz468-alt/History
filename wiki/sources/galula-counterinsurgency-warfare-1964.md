@@ -86,35 +86,66 @@ The work systematically contrasts revolutionary (insurgent) warfare with convent
 
 **Range summary:** This range establishes the two insurgent patterns with their vulnerabilities, demonstrates the fundamental mismatch of conventional and insurgent methods when adopted by the counterinsurgent, and derives the four laws (population support as objective; via active minority; conditional on demonstrated strength; requiring intensive concentrated successive effort) plus the explicit sequential strategy and supporting principles that must replace them. The four laws receive the heaviest verbatim treatment.
 
-*(Ranges 01 and 03 now appended.)*
+*(All ranges now appended in order.)*
 
 ### Range 01 (lines 1-2000: Front matter, Foreword, Introduction, Ch. 1 Revolutionary War Nature + early Ch. 2)
 
-**Topic: Asymmetry between insurgent and counterinsurgent (fly vs. lion)**
+**Topic: Asymmetry of revolutionary war**  
+**Grounding quote:** "There is an asymmetry between the opposite camps of a revolutionary war. This phenomenon results from the very nature of the war, from the disproportion of strength between the opponents at the outset, and from the difference in essence between their assets and their liabilities." (lines 789-792)  
+**Key claim:** Revolutionary war features a fundamental asymmetry: the insurgent starts with strategic initiative and intangible assets (especially a cause/ideology) while the counterinsurgent holds overwhelming tangible assets (government control, forces, resources) but carries the liability of maintaining order; the insurgent must grow from small to large, the counterinsurgent risks shrinking.  
+**Wiki links:** [[concepts/revolutionary-war]] [[concepts/counterinsurgency]] [[hubs/warfare/strategy]] [[sources/galula-counterinsurgency-warfare-1964]] [[actors/galula-david]]
 
-**Grounding quote:** "Revolutionary war, on the other hand, represents an exceptional case not only because, as we suspect, it has its special rules, different from those of the conventional war, but also because most of the rules applicable to one side do not work for the other. In a fight between a fly and a lion, the fly cannot deliver a knockout blow and the lion cannot fly. It is the same war for both camps in terms of space and time, yet there are two distinct warfares—the revolutionary’s and, shall we say, the counterrevolutionary’s." (lines ~618-628)
+**Topic: Asymmetry of revolutionary war — insurgent strategic initiative**  
+**Grounding quote:** "Since the insurgent alone can initiate the conflict (which is not to say that he is necessarily the first to use force), strategic initiative is his by definition. He is free to choose his hour, to wait safely for a favorable situation, unless external factors force him to accelerate his moves." (lines 793-795)  
+**Key claim:** Only the insurgent can start a revolutionary war; counterinsurgency is purely reactive. This gives the insurgent the ability to choose timing and build strength by legal/peaceful means before revealing intentions, limiting the counterinsurgent's pre-emptive options.  
+**Wiki links:** [[concepts/revolutionary-war]] [[concepts/counterinsurgency]] [[sources/galula-counterinsurgency-warfare-1964]] [[hubs/warfare/strategy]]
 
-**Key claim:** Revolutionary war has fundamentally asymmetric rules; the insurgent's congenital weakness is offset by political advantages and fluidity, while the counterinsurgent's strength is offset by rigidity and the need to protect everything.
+**Topic: Population as central objective**  
+**Grounding quote:** "The population represents this new ground. If the insurgent manages to dissociate the population from the counterinsurgent, to control it physically, to get its active support, he will win the war because, in the final analysis, the exercise of political power depends on the tacit or explicit agreement of the population or, at worst, on its submissiveness. Thus the battle for the population is a major characteristic of the revolutionary war." (lines 842-847)  
+**Key claim:** Because of his initial weakness, the insurgent cannot win by conventional attack on enemy forces or territory; the population is the decisive terrain that must be dissociated from the counterinsurgent, physically controlled, and actively mobilized to enable seizure of power.  
+**Wiki links:** [[concepts/revolutionary-war]] [[concepts/counterinsurgency]] [[hubs/warfare/strategy]] [[sources/galula-counterinsurgency-warfare-1964]] [[actors/galula-david]]
 
-**Wiki links:** [[concepts/counterinsurgency]] [[concepts/guerrilla-warfare]] [[sources/galula-counterinsurgency-warfare-1964]]
+**Topic: Political nature of the war**  
+**Grounding quote:** "The objective being the population itself, the operations designed to win it over (for the insurgent) or to keep it at least submissive (for the counterinsurgent) are essentially of a political nature. In this case, consequently, political action remains foremost throughout the war. ... every military move has to be weighed with regard to its political effects, and vice versa." (lines 875-882)  
+**Key claim:** In revolutionary war the population is the objective, making political action the primary instrument at all stages; military action is subordinate and must always be evaluated for its political impact, unlike conventional war where military operations become the principal instrument after political goals are set.  
+**Wiki links:** [[concepts/revolutionary-war]] [[concepts/counterinsurgency]] [[hubs/warfare/strategy]] [[sources/galula-counterinsurgency-warfare-1964]] [[periods/cold-war]]
 
-**Topic: The population as the central objective**
+**Topic: Gradual transition from peace to war**  
+**Grounding quote:** "This is hardly possible in the revolutionary war because the aggressor—the insurgent—lacks sufficient strength at the outset. Indeed, years may sometimes pass before he has built up significant political, let alone military, power. So there is usually little or no first shock, little or no surprise, no possibility of an early decisive battle." (lines 895-905)  
+**Key claim:** The insurgent's initial weakness precludes a sudden, decisive attack; the transition from peace to war is gradual, with the insurgency able to develop by legal means and the population often recognizing the threat even later than the counterinsurgent leadership.  
+**Wiki links:** [[concepts/revolutionary-war]] [[concepts/counterinsurgency]] [[sources/galula-counterinsurgency-warfare-1964]] [[hubs/warfare/strategy]]
 
-**Grounding quote:** "Objective: The Population ... In the conventional war, the object is to destroy the enemy's military forces and occupy his country. In revolutionary war, the objective is the population." (from Ch. 1 structure + related)
+**Topic: Protracted character**  
+**Grounding quote:** "The protracted nature of a revolutionary war does not result from a design by either side; it is imposed on the insurgent by his initial weakness. It takes time for a small group of insurgent leaders to organize a revolutionary movement, to raise and to develop armed forces, to reach a balance with the opponent, and to overpower him." (lines 914-917)  
+**Key claim:** Revolutionary war is protracted by necessity: the insurgent requires time to organize, build forces, and achieve balance; it ends quickly only if the counterinsurgent collapses early (e.g., Cuba) or a political settlement occurs, with historical examples lasting 3–22 years.  
+**Wiki links:** [[concepts/revolutionary-war]] [[concepts/counterinsurgency]] [[sources/galula-counterinsurgency-warfare-1964]] [[hubs/warfare/strategy]] [[periods/cold-war]] [[periods/world-wars-era]]
 
-**Key claim:** Unlike conventional war (enemy forces + territory), the objective in revolutionary war for both sides is the population; the insurgent needs its active support or at least passive complicity to survive and grow; the counterinsurgent needs it to deny that support and to obtain intelligence.
+**Topic: Cheap for insurgent / costly for counterinsurgent**  
+**Grounding quote:** "Promoting disorder is a legitimate objective for the insurgent. ... disorder—the normal state of nature—is cheap to create and very costly to prevent. ... Because the counterinsurgent cannot escape the responsibility for maintaining order, the ratio of expenses between him and the insurgent is high. It may be ten or twenty to one, or higher." (lines 931-933, 945-946)  
+**Key claim:** The insurgent can cheaply generate disorder (bombs, ambushes, threats) forcing the counterinsurgent to expend vastly more resources on protection everywhere; this cost asymmetry enables the insurgent to sustain protracted war while the counterinsurgent cannot afford to do so indefinitely.  
+**Wiki links:** [[concepts/revolutionary-war]] [[concepts/counterinsurgency]] [[hubs/warfare/strategy]] [[sources/galula-counterinsurgency-warfare-1964]] [[actors/galula-david]]
 
-**Wiki links:** [[concepts/counterinsurgency]] [[sources/galula-counterinsurgency-warfare-1964]]
+**Topic: Fluidity vs rigidity**  
+**Grounding quote:** "The insurgent is fluid because he has neither responsibility nor concrete assets; the counterinsurgent is rigid because he has both, and no amount of wailing can alter this fact for either side. ... only the insurgent can consistently wage profitable hit-and-run operations because the counterinsurgent alone offers profitable and fixed targets; only the insurgent, as a rule, is free to accept or refuse battle, the counterinsurgent being bound by his responsibility." (lines 970-972, 992-995)  
+**Key claim:** The insurgent remains fluid (loose organization, hit-and-run, refusal of battle) until balance is reached; the counterinsurgent is rigid due to responsibility for order, fixed assets, and the need to protect population/economy, limiting his options and initiative.  
+**Wiki links:** [[concepts/revolutionary-war]] [[concepts/counterinsurgency]] [[hubs/warfare/strategy]] [[sources/galula-counterinsurgency-warfare-1964]] [[concepts/guerrilla-warfare]]
 
-**Topic: Revolutionary war is a political war, protracted, cheap for insurgent / costly for counterinsurgent**
+**Topic: Power of ideology**  
+**Grounding quote:** "The insurgent cannot seriously embark on an insurgency unless he has a well-grounded cause with which to attract supporters among the population. A cause, as we have seen, is his sole asset at the beginning, and it must be a powerful one if the insurgent is to overcome his weakness." (lines 1009-1011)  
+**Key claim:** Ideology and a compelling cause are the insurgent's only initial asset and essential to attract supporters and overcome material inferiority; the counterinsurgent starts with a liability (maintaining order) rather than a comparable intangible advantage.  
+**Wiki links:** [[concepts/revolutionary-war]] [[concepts/counterinsurgency]] [[sources/galula-counterinsurgency-warfare-1964]] [[hubs/warfare/strategy]] [[actors/galula-david]]
 
-**Grounding quote:** "Revolutionary War Is a Political War ... Revolutionary War Is a Protracted War ... Insurgency Is Cheap, Counterinsurgency Costly ... Fluidity of the Insurgent, Rigidity of the Counterinsurgent ... The Power of Ideology ... Propaganda—A One-Sided Weapon" (Ch. 1 headings and discussion)
+**Topic: Propaganda — a one-sided weapon (ideology/propaganda asymmetry)**  
+**Grounding quote:** "The insurgent, having no responsibility, is free to use every trick; if necessary, he can lie, cheat, exaggerate. He is not obliged to prove; he is judged by what he promises, not by what he does. Consequently, propaganda is a powerful weapon for him. With no positive policy but with good propaganda, the insurgent may still win. The counterinsurgent is tied to his responsibilities and to his past, and for him, facts speak louder than words." (lines 1042-1048)  
+**Key claim:** Propaganda is asymmetric: the irresponsible insurgent can freely deceive and is judged on promises; the responsible counterinsurgent is judged on actions and facts, making propaganda only a secondary, limited tool that cannot compensate for bad policy.  
+**Wiki links:** [[concepts/revolutionary-war]] [[concepts/counterinsurgency]] [[sources/galula-counterinsurgency-warfare-1964]] [[hubs/warfare/strategy]]
 
-**Key claim:** Revolutionary war is political at all levels; it is protracted by design (time works for the insurgent); it is cheap and low-risk for the insurgent (small units, no decisive battle required) while the counterinsurgent must protect everything at high cost and appears rigid.
+**Topic: Revolutionary war remains unconventional until the end**  
+**Grounding quote:** "Once the insurgent has acquired strength and possesses significant regular forces, it would seem that the war should become a conventional one... But if the insurgent has understood his strategic problems well, revolutionary war never reverts to a conventional form. For one reason, the creation of a regular army by the insurgent does not mean an end to subversion and guerrilla activity. On the contrary, they increase in scope and intensity..." (lines 1059-1066)  
+**Key claim:** Even after acquiring regular forces, the successful insurgent maintains subversion, guerrilla activity, and population mobilization to preserve fluidity and avoid the rigidity that would allow the counterinsurgent to exploit fixed targets.  
+**Wiki links:** [[concepts/revolutionary-war]] [[concepts/counterinsurgency]] [[concepts/guerrilla-warfare]] [[sources/galula-counterinsurgency-warfare-1964]] [[hubs/warfare/strategy]]
 
-**Wiki links:** [[concepts/counterinsurgency]] [[sources/galula-counterinsurgency-warfare-1964]] [[hubs/warfare/strategy]]
-
-**Range summary:** Range 01 establishes the foundational asymmetry and the population as the true objective, the political/protracted/cheap-for-insurgent character of revolutionary war, and the prerequisites (cause + counterinsurgent weakness + geography + outside support). These set up the later derivation of counterinsurgent-specific laws and the sequential operational template.
+**Range summary:** This exclusive range (front matter through early Ch. 3) establishes Galula's core framework for the nature of revolutionary war: its inherent asymmetries (initiative, assets/liabilities, ideology/propaganda), population as the decisive objective and political character of the conflict, imposed gradual and protracted timeline, cost asymmetry favoring the insurgent, fluidity vs. rigidity, and the prerequisites (cause + counterinsurgent weakness + geography + later outside support) that enable success. All claims are grounded strictly in verbatim text from lines 1-2000 of the provided file; no external content or later chapters were used. Established wiki pages referenced exclusively as directed.
 
 ### Range 03 (lines 3801-5600: Ch. 6 From Strategy to Tactics + Ch. 7 The Operations — the six/eight steps + Concluding Remarks)
 
