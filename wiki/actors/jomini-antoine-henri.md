@@ -9,7 +9,7 @@ affiliated_with: []
 opposed_by: []
 key_events: []
 key_processes: []
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-23
 tags: [actor, person, long-19th-century, western-europe]
 ---
@@ -38,6 +38,20 @@ Clausewitz's own attack on those who would "equip the conduct of war with princi
 
 Both men, for Freedman, belong to the "Strategies of Force" — their "basic instinct" was that "with the 'retirement of the enemy from the field of battle,' terms could be imposed." This places them at the opposite pole from the strategies of cunning Freedman associates with [[sun-tzu]] and [[liddell-hart-basil|Liddell Hart]]: Jomini's strength was massing force at the decisive point, not guile.
 
+## Primary Text — The Art of War (1862 translation)
+
+This edition (translated by U.S. Army officers G.H. Mendell and W.P. Craighill and published at West Point) is the main English vehicle for Jomini's mature system. Jomini divides the art of war into five branches and argues that while war as a whole is an *art* (subject to morale, genius, passion, and chance), strategy admits of regulation by fixed principles.
+
+Key definitions and principles (verbatim grounding from the text):
+- "The art of war... consists of five principal parts, viz.: Strategy, Grand Tactics, Logistics, Tactics of the different arms, and the Art of the Engineer."
+- Strategy begins with agreement on the political character of the war, choice of theater and base of operations, determination of the zone of operations, objective points, and the line of operations "giving it the most advantageous direction; namely, that which promises the greatest number of favorable opportunities with the least danger."
+- **Fundamental principle**: Strategy is "the art of bringing the greatest part of the forces of an army upon the important point of the theater of war or of the zone of operations." Commanders mass force successively upon decisive points while securing their own communications.
+- Distinction: "Strategy decides where to act; logistics brings the troops to this point; grand tactics decides the manner of execution and the employment of the troops."
+- Even when principles are followed, "combats may be mentioned as often being quite independent of scientific combinations" and "the passions which agitate the masses... will have a permanent influence on its results."
+- Conclusion: Principles are valuable for avoiding error. "Every maxim relating to war will be good if it indicates the employment of the greatest portion of the means of action at the decisive moment and place."
+
+See [[sources/jomini-the-art-of-war-1862]] for full claims and ranges.
+
 ## Related
 
 - [[strategy]]
@@ -47,3 +61,4 @@ Both men, for Freedman, belong to the "Strategies of Force" — their "basic ins
 - [[sun-tzu]]
 - [[liddell-hart-basil|Basil Liddell Hart]]
 - [[sources/freedman-strategy-a-history-2013]]
+- [[sources/jomini-the-art-of-war-1862]]

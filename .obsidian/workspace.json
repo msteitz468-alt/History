@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "7d373604f17fa2d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "201d5e4bab9e6ea7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ae1ed2908f1a0b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/3. Middle Ages/The Cambridge Companion to Medieval English Law and Literature (Cambridge Companions to Literature).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Cambridge Companion to Medieval English Law and Literature (Cambridge Companions to Literature)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "649c0887c650aca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c48e549404cacf37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5d153f42ac3fff9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0dd8f931319fb8e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8fac4d8eb3b4aa4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "414523b970921962",
+    "type": "split",
+    "children": [
+      {
+        "id": "de0d5e6863f061cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b86d3bd4b0be506c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/concepts/islam.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for islam"
+            }
+          },
+          {
+            "id": "94d92870be6f9e04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/concepts/islam.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from islam"
+            }
+          },
+          {
+            "id": "2c9ef792ae8a892d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5d4a21a0901d35ee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f5a4d6e666288515",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/concepts/islam.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of islam"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0ae1ed2908f1a0b2",
+  "lastOpenFiles": [
+    "wiki/hubs/civilizations/islam.md.tmp.186100.36427960b795",
+    "wiki/hubs/civilizations/greece.md.tmp.186100.793e148fb83d",
+    "wiki/hubs/civilizations/greece.md.tmp.186100.74d8e4cc3002",
+    "wiki/hubs/civilizations/rome.md.tmp.186100.e1748ef8070c",
+    "wiki/hubs/civilizations/rome.md.tmp.186100.68aea628a6d9",
+    "raw/3. Middle Ages/Miriamne Ara Krummel, Tison Pugh - Jews in Medieval England. Teaching Representations of the Other (The New Middle Ages).md",
+    "wiki/hubs/civilizations/china.md",
+    "wiki/hubs/regions/eurasian-steppe.md",
+    "wiki/hubs/regions/mediterranean-world.md",
+    "wiki/hubs/regions/atlantic-world.md",
+    "wiki/hubs/regions/indian-ocean.md",
+    "wiki/hubs/regions/silk-road.md",
+    "wiki/hubs/regions/melanesia.md",
+    "wiki/hubs/regions/polynesia.md",
+    "wiki/hubs/regions/australia.md",
+    "wiki/hubs/regions/scandinavia.md",
+    "wiki/hubs/regions/balkans.md",
+    "wiki/hubs/regions/british-isles.md",
+    "wiki/hubs/regions/iberia.md",
+    "wiki/hubs/regions/mediterranean.md",
+    "wiki/hubs/regions/eastern-europe.md",
+    "wiki/hubs/regions/northern-europe.md",
+    "wiki/hubs/regions/western-europe.md",
+    "wiki/hubs/regions/steppe.md",
+    "wiki/hubs/regions/korea.md",
+    "wiki/hubs/regions/japan.md",
+    "wiki/hubs/regions/china.md",
+    "wiki/hubs/regions/east-asia.md",
+    "wiki/hubs/regions/southeast-asia.md",
+    "wiki/hubs/regions/south-asia.md",
+    "wiki/log.md.tmp.186100.62c6d0a8c6c4",
+    "wiki/hubs/civilizations/rome.md.tmp.186100.9731c3a21b44",
+    "wiki/hubs/historiography-hub.md.tmp.186100.42764c95e499",
+    "wiki/hubs/civilizations/rome.md.tmp.186100.700aeee26ba6",
+    "wiki/hubs/themes/warfare.md.tmp.186100.cecba7ff73ef",
+    "wiki/hubs/themes/warfare.md.tmp.186100.627e78d609eb"
+  ]
+}
