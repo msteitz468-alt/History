@@ -941,7 +941,126 @@ tags: [source, early-modern, military-history, warfare-hub, grand-siecle]
 ### Range 7 Extraction
 **Source grounding note:** Lines 25501-29500 (Part Five: Learning and Practicing the Art of Field Warfare + Positional Warfare early). All claims verbatim from this slice only.
 
-(Full agent output for Range 7 incorporated in synthesis and cross-refs; representative claims on field drill, training camps, and early positional integration preserved in hub and period updates.)
+**Claim: French infantry evolved smaller linear battalions independently of Dutch reforms, predating or paralleling Maurice of Nassau and undermining the applicability of Roberts's Military Revolution thesis to France.**
+
+**Grounding quote:** "Under Henri IV, the battalion became the standard combat unit for French infantry. Because French tactical units were already relatively small and formed in an essentially linear order... This alteration of French tactics, which so resembles the work of prince Maurice, occurred at roughly the same time as, or even predated, the Dutch reforms.116 In sum, the French appear to have independently evolved battalions of a size, composition, and disposition similar to the Dutch before the reforms of Maurice strongly influenced French practices. Consequently, the imitation of Dutch formations could hardly have brought a 'Military Revolution' in Roberts's sense."
+
+**Locator:** Weapons and Tactics (infantry battalion formations discussion, Henri IV era through early Louis XIII; references to company squares in Wars of Religion giving way to battalions of ~500-1,000 men with pikes centered and musketeers on wings).
+
+**Analysis:** This shows French tactical change as a gradual, domestic evolutionary process rooted in Wars of Religion necessities (partisan warfare, smaller units for flexibility) rather than a sharp imported revolution. It directly contests Roberts's model of Dutch/Swedish-driven transformation as the decisive break, illustrating how native practices contributed to more controllable linear orders that supported the growth of a standing royal army under emerging absolutist administration and state-formation pressures.
+
+**Links/taxonomy:**
+- contrasts_with: [[military-revolution]]
+- contrasts_with: [[parker-the-military-revolution-1988]]
+- preceded_by: [[early-modern]]
+- contributed_to: [[state-formation]]
+- part_of: [[sources/lynn-giant-of-the-grand-siecle-1997]]
+- part_of: [[france]]
+
+**Claim: French infantry battalion depth thinned gradually across the grand siècle from ten ranks to three or four ranks in practice by the War of the Spanish Succession, driven by reduced pikemen ratios and campaign losses.**
+
+**Grounding quote:** "Through the first decades of the personal reign of Louis XIV, it remained standard practice to form battalions in lines of six ranks. ... By the Dutch War, French formations had thinned even further, at least in practice. ... the War of the Spanish Succession continued to witness the thinning of battalion formations. ... Sturgill's study argues that at Malplaquet, the French infantry fought in four-rank lines. ... Describing practice in the War of the Spanish Succession, Puysegur testified that 'On entering on campaign, the largest part of the infantry stood in line in four ranks, the rest in three. [But] towards the end of the campaign, there were always very few in four ranks.'152 If this often quoted authority is correct, as a practical matter, the French ended the grand siecle with most of their infantry marshaled in only three ranks for battle."
+
+**Locator:** Weapons and Tactics (infantry formations evolution table and directives from 1630s-1700s; 1683/1693/1703 regulations and Puysegur observations).
+
+**Analysis:** The incremental reduction (ten deep early, six deep standard mid-century, five official in 1693 but often four or three in the field) reflects adaptation to changing pike/musket ratios (from 1:1 or heavier pike to 1:4+ by 1690s), the shift toward fusil, and the realities of attrition rather than a single doctrinal leap. This evolutionary thinning supported more linear firepower emphasis while exposing limits of control and cohesion in the large standing army, tying into state efforts to standardize and sustain forces amid fiscal-military demands.
+
+**Links/taxonomy:**
+- preceded_by: [[early-modern]]
+- contributed_to: [[state-formation]]
+- part_of: [[sources/lynn-giant-of-the-grand-siecle-1997]]
+- part_of: [[france]]
+- contributed_to: [[limited-war]]
+
+**Claim: The 1683 royal regulation "Drill that the King orders for all his infantry, French and foreign" was the first official general drill regulation issued directly by the French monarchy; it standardized movements for inspection and defined the fundamental tactical order.**
+
+**Grounding quote:** "Whatever the type of drill used before 1683, that year the king issued a new regulation entitled, 'Drill that the King orders for all his infantry, French and foreign.'143 It would appear to be the first officially prescribed general drill regulation issued directly by the French monarchy. ... The rationale for a standardized formal drill would seem to be that such a drill allowed infantry inspectors to view and judge units more fairly, since they all would perform the same movements. Still, since the drill standardized movements and formations, it also defined the basis for combat, the fundamental tactical order of French infantry. ... To this extent, the 1683 drill was a step toward the notion of drill not as simply a mastery of the manual of arms but of actual battle practice."
+
+**Locator:** Weapons and Tactics (pre-1683 unofficial drills vs. 1683 regulation; Gaya descriptions of battalion formation for drill with companies, musketeers to wings, pikemen center, sergeants on flanks; contrasted with combat orders).
+
+**Analysis:** This institutionalized training under direct royal authority, moving beyond handbook variety or ad hoc practice toward uniform, inspectable procedures that reinforced officer/NCO control over the rank and file. It formed part of the broader professionalization and centralization of the army under Louis XIV, enabling consistent tactical execution across a vastly expanded force and contributing to the fiscal-military state's capacity to field and evaluate large standing units.
+
+**Links/taxonomy:**
+- produced: [[louis-xiv]]
+- contributed_to: [[state-formation]]
+- part_of: [[sources/lynn-giant-of-the-grand-siecle-1997]]
+- part_of: [[france]]
+- contributed_to: [[absolutism]]
+
+**Claim: Large intervals between ranks (often 12-13 feet or two halberd lengths in drill) were deliberately maintained even after the fusil replaced the matchlock musket, due to the absence of cadenced marching until 1754 and the need to reposition elements within the battalion.**
+
+**Grounding quote:** "The very large distance between ranks in the drill allowed the men to handle their weapons (and to be closely observed while doing so), to march, and to deploy for battle. ... Two factors pressed for the maintenance of such large intervals. First, the French did not march in step, so reduced intervals would have made movement awkward, as men risked literally stepping on each others' heels. In fact, the first French drill regulation to stipulate marching in step did not come until 1754, making the French distinctly backward in this regard.146 Second, large intervals were required to shift pikemen, fusiliers, and musketeers sideways. ... battalions shrank the distances between ranks at the last minute before combat, sometimes down to point d'epee."
+
+**Locator:** Weapons and Tactics (1683 drill and 1703 regulation descriptions; Billon/Mallet/Gaya/Puysegur intervals; discussion of countermarch space and company breakdown for battle order).
+
+**Analysis:** Intervals enabled internal maneuvers (e.g., shifting pikemen to flanks/center, sergeants to edges) required by mixed pike/firearm companies and battalion-level drill that broke down line companies. Their persistence despite technological change (fusil) reveals conservative institutional inertia in training practices, limiting speed and cohesion while prioritizing visibility, control, and safety. This constrained the full tactical potential of linear formations in the mature grand siècle army and highlighted limits of state-driven standardization.
+
+**Links/taxonomy:**
+- preceded_by: [[early-modern]]
+- part_of: [[sources/lynn-giant-of-the-grand-siecle-1997]]
+- part_of: [[france]]
+- contrasts_with: [[military-revolution]]
+
+**Claim: French infantry retained conservative fire-by-ranks (and later a limited platoon imitation) while preferring the cold steel bayonet charge; this reflected a cultural emphasis on offensive vigor and speed over sustained firepower volume.**
+
+**Grounding quote:** "By the 1680s, the basic French manner of volley fire was a different form of fire by ranks. When a battalion stood firm, the first four ranks would kneel, and the fifth rank would remain standing, fire on command, and begin to reload. ... If the French set the pattern before the Nine Years' War, the Dutch soon replaced them in the lead. ... During the War of the Spanish Succession, the French later imitated with their own style of platoon fire, with the first rank kneeling, but it never equaled Dutch or English practice. ... The French preferred cold steel in the charge a prest, which put a premium on speed in closing with the enemy rather than halting to fire. ... 'In my opinion, the best method for the French infantry... is to charge with the bayonet on the end of the fusil.'185 ... As it turns out, firearms and not bayonets caused the greatest amount of wounds on the battlefield. At Malplaquet, for example, the best evidence indicates that two thirds of the wounds received by French troops came from the enemy's fusils, while only about 2 percent were inflicted by bayonets."
+
+**Locator:** Weapons and Tactics (firing orders section; Gaya descriptions; Parker at Malplaquet account; Villars quotes; statistical wound data).
+
+**Analysis:** This illustrates the persistence of an offensive, "French" tactical preference (arme blanche, holding fire to the last moment, silence in ranks) rooted in cultural self-perception and command assumptions, even as firepower technology advanced. It contributed to distinctive (and sometimes lagging) practices relative to Dutch/English platoon methods, affecting performance in the large-scale wars of the period and highlighting how institutional and cultural factors shaped the army's approach to limited war and field operations beyond pure technological or organizational change.
+
+**Links/taxonomy:**
+- contrasts_with: [[parker-the-military-revolution-1988]]
+- part_of: [[sources/lynn-giant-of-the-grand-siecle-1997]]
+- part_of: [[france]]
+- contributed_to: [[limited-war]]
+- part_of: [[hubs/warfare/age-of-expansion/war-of-the-spanish-succession/war-of-the-spanish-succession]]
+
+**Claim: French cavalry experienced only modest change in armament and tactics (retaining sword primacy with preparatory pistol fire, three-rank squadrons) but saw major organizational advance in the creation of permanent regiments during the grand siècle.**
+
+**Grounding quote:** "Cavalry enjoyed great prestige and remained a potent offensive force in battle throughout the grand siecle. ... Despite its tactical success, or perhaps because of it, French cavalry underwent only modest change in its armament, formations, and tactics, although it made a major advance in changing from a company to a regimental organization during the grand siecle. ... Throughout the reign of Louis XIV, native French cavalry adopted a depth of three ranks, as the Swedes had done before them. ... The safest generalization is that pistol fire always, or nearly always, played some role in the cavalry charge a la francaise during most of the century, but that it was fired preparatory to going at the enemy with the sword. ... French cavalry regiments were born in the grand siecle, for, unlike the infantry, cavalry regiments could not trace their origins back before 1635. ... Susane... considers the creation of the squadrons and regiments in 1671-72 as the true origin of the permanent regiments."
+
+**Locator:** Weapons and Tactics (cavalry weapons/tactics and organization sections; d'Aurignac, Puysegur, Villars references; company size fluctuations and 1635/1671-72 regimental developments; caracole debate).
+
+**Analysis:** Cavalry's slower evolution (persistent pistol use, trot-to-gallop charges, three ranks) contrasted with infantry's more visible thinning and drill formalization, yet the shift to stable regimental structures under royal control paralleled broader state centralization. This organizational professionalization supported the expanded army's operational needs in field warfare while underscoring cavalry's enduring prestige and role in delivering the decisive stroke within the era's limited-war framework.
+
+**Links/taxonomy:**
+- preceded_by: [[early-modern]]
+- contributed_to: [[state-formation]]
+- part_of: [[sources/lynn-giant-of-the-grand-siecle-1997]]
+- part_of: [[france]]
+- part_of: [[hubs/warfare/warfare-hub]]
+
+**Claim: Artillery development under Louis XIV distinguished field from siege/positional pieces; lighter "cannon de nouvelle invention" were introduced post-Dutch War for mobility and powder economy but rejected because they did not suit the predominant siege warfare and embrasure requirements.**
+
+**Grounding quote:** "Artillery increased in importance over the course of the grand siecle due to its value on the battlefield and its prominence in siege warfare, which certainly became the more common form of conflict during this period. ... cannon differentiated between those designed for positional warfare and those meant for the open field. ... French Artillery Systems under Louis XIV. ... Cannon de nouvelle invention resulted from discoveries... With much less metal, the new pieces were much lighter... Such pieces promised many advantages, but Louvois was attracted by the potential economies resulting from the use of less gunpowder. ... the new system was formally abolished in 1720. ... pieces de nouvelle invention did not fit easily with the seventeenth- and early eighteenth-century predilection for siege warfare. Fired through an embrasure, the new pieces damaged the openings both with their muzzle blast and by striking the sides of the embrasures as they recoiled."
+
+**Locator:** Weapons and Tactics (artillery section; Sully calibers, regimental guns vogue and abandonment, nouvelle invention tests under Louvois/Frezeliere, Vauban range calculations, siege trains, mortar bombardments; explicit field vs. siege split).
+
+**Analysis:** The failure of lighter field-optimized guns despite technical promise reveals how the era's strategic realities (siege predominance, fortress-centric operations) shaped materiel choices more than battlefield mobility alone. Royal initiatives under Louvois drove experimentation for fiscal and administrative reasons, but institutional and operational fit with positional warfare limited adoption; this ties artillery standardization and expense directly to state-formation advantages for the crown and the character of limited war.
+
+**Links/taxonomy:**
+- contributed_to: [[state-formation]]
+- part_of: [[sources/lynn-giant-of-the-grand-siecle-1997]]
+- part_of: [[france]]
+- contributed_to: [[louvois-francois-michel-le-tellier]]
+- contrasts_with: [[military-revolution]]
+- part_of: [[hubs/warfare/age-of-expansion/war-of-the-spanish-succession/war-of-the-spanish-succession]]
+
+**Claim: The "revolution in drill" (Dutch/Swedish innovations in precise maneuver under fire and weapons handling) was the element with truly profound implications adopted by the French; it enabled linear tactics by training troops in obedience, forbearance, and cohesion rather than fury.**
+
+**Grounding quote:** "Yet to deny the radical impact of some aspects of Dutch and Swedish technical innovation is not to argue that it fell short of being revolutionary in every detail. Quite the contrary, viewed from the French perspective, the Dutch creation of drill especially rates as an absolutely crucial innovation with profound implications both on the battlefield and beyond it. Drill developed by Maurice and further extended by Gustavus enabled maneuver and a rate of fire unknown before.8 This promise of tactical effectiveness lured French officers to the Netherlands and northern Germany... Under the direction of Maurice of Nassau, Dutch infantry learned to maneuver precisely under fire. ... Linear tactics, such as those employed by the Dutch, made the most of manpower by facing all weapons to the front in relatively thin formations. ... The best way to overcome this intrinsic disadvantage was to train troops to maneuver under fire, so that they could face front to flank or rear, whenever they were threatened, without losing cohesion."
+
+**Locator:** Learning and Practicing the Art of Field Warfare (opening of Ch. 15; references to de Gheyn manual, 32/42 steps for pike/musket, countermarch; contrast with pre-drill French practices and higher skill demands on infantry).
+
+**Analysis:** Drill transformed the soldier into a controlled instrument capable of sustaining linear order and forbearance under fire, directly supporting the effectiveness of the thinned battalions and larger royal armies. Its adoption was selective and imitative, reinforcing officer control in a command culture distrustful of rank-and-file initiative and contributing to the professionalized, inspectable force central to absolutist state power and the practice of field operations in the grand siècle.
+
+**Links/taxonomy:**
+- contributed_to: [[state-formation]]
+- part_of: [[sources/lynn-giant-of-the-grand-siecle-1997]]
+- part_of: [[france]]
+- enabled: [[limited-war]]
+- part_of: [[hubs/warfare/warfare-hub]]
 
 ### Range 8 Extraction
 **Source grounding note:** Lines 29501-32018 (Part Five: Positional Warfare). All claims verbatim from this slice only.
