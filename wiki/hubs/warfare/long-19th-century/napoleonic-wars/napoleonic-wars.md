@@ -13,7 +13,7 @@ outcome: "French decisive dominance (1805–1809) then catastrophic collapse (18
 scale_immediate: civilizational
 scale_consequential: global
 event_page: "[[napoleonic-wars]]"
-key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), chs. 6–9; The Campaigns of Napoleon (Chandler 1966) for operational detail + OOBs + system analysis"
+key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), chs. 6–9; The Campaigns of Napoleon (Chandler 1966) for operational detail + OOBs + system analysis; Tactics and the Experience of Battle in the Age of Napoleon (Muir 1998) for battalion/regimental tactics, arm interaction, command realities, morale/cohesion, and soldier experience across all arms"
 last_updated: 2026-06-23
 tags: [warfare, campaign-analysis, long-19th-century, western-europe, eastern-europe, napoleonic-wars]
 ---
@@ -47,3 +47,5 @@ zenith; and then its **limits and collapse**.
 - `part_of:` [[napoleonic-wars]] · commander: [[napoleon]]; opponents [[wellington-arthur-wellesley|Wellington]]
 - concepts: [[napoleonic-warfare]], [[nation-in-arms]] · `contrasts_with:` [[limited-war]]
 - [[long-19th-century]] — period · [[doughty-gruber-warfare-western-world-v1-1996]] — source · [[sources/chandler-the-campaigns-of-napoleon-1966]] — operational bible (corps system, *manoeuvre sur les derrières*, campaign reconstructions). Concepts: [[corps-system]], [[manoeuvre-sur-les-derrieres]].
+- [[sources/muir-tactics-and-the-experience-of-battle-in-the-age-of-napoleon-1998]] — tactical mechanics and "face of battle" layer: infantry/cavalry/artillery practice, morale & cohesion, command at all levels, eyewitness reality (complements Chandler). Concepts: [[napoleonic-tactics]], [[infantry-tactics-napoleonic]], [[morale-and-cohesion-napoleonic]].
+- [[actors/muir-rory]]
