@@ -115,7 +115,7 @@ Livy, *Hannibal's War* · the CAH volumes · Hans Delbrück, *History of the Art
 
 | Source | Flag | Status | Notes |
 |---|---|---|---|
-| *How the North Won* — Herman Hattaway & Archer Jones | `[BUY]` | ❌ | ⭐ The operational/logistical standard for the war. |
+| *How the North Won* — Herman Hattaway & Archer Jones | — | ✅ | ⭐ The operational/logistical standard for the war. Ingested 2026-06-23 (main-thread scaffold + Section Plan + pre-created author actor page; 8-10 staggered subagent ranges on 53k-line .txt). Source page + enriched ACW hub + event page. 0 broken links. Filed. |
 | *The American Way of War* — Russell F. Weigley | `[BUY]` | ❌ | Strategy of annihilation vs. attrition in U.S. military history. |
 | *Civil War Infantry Tactics* — Earl J. Hess | `[BUY]` | ❌ | The tactics revisionism (with *The Rifle Musket in Civil War Combat*). |
 | *Landscape Turned Red* (Antietam) / *Gettysburg* / *Chancellorsville* — Stephen W. Sears | `[BUY]` | ❌ | The model single-battle operational studies for battle pages. |

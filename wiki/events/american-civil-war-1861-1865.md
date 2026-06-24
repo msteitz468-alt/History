@@ -13,14 +13,14 @@ scale_immediate: civilizational
 scale_consequential: global
 causes: ["Sectional crisis over slavery and states' rights; election of Lincoln 1860; secession of Southern states; Fort Sumter"]
 consequences: ["Preservation of the Union; abolition of slavery (13th Amendment); transformation of U.S. into industrial power; massive casualties; end of chattel slavery; Reconstruction era; modern nation-state consolidation"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: "2026-06-23"
 tags: [event, long-19th-century, north-america, american-civil-war, war]
 ---
 
 # American Civil War (1861–1865)
 
-**Warfare hub:** [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war|Campaign and Operational Hub]] (detailed tactical analyses of individual battles)
+**Warfare hub:** [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war|Campaign and Operational Hub]] (detailed tactical analyses of individual battles) · Operational/logistical standard: [[sources/hattaway-jones-how-the-north-won-1983|How the North Won (Hattaway & Jones)]]
 
 ## Narrative
 
