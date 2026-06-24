@@ -9,7 +9,7 @@ affiliated_with: ["American Heritage (former editor)", "Civil War historiography
 opposed_by: []
 key_events: ["Maryland Campaign and Battle of Antietam (1983 study)", "Chancellorsville (1996)", "Gettysburg (2003)"]
 key_processes: ["modern operational narrative history of the American Civil War", "synthesis of primary eyewitness accounts for battle analysis"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-23
 tags: [actor, person, long-19th-century, north-america, civil-war-historian, warfare-hub]
 ---
