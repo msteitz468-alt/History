@@ -9,8 +9,8 @@ affiliated_with: [[[athens]], the [[alcmaeonids|Alcmaeonid]] family, the democra
 opposed_by: [[[cimon]], Thucydides son of Melesias, the conservative aristocracy, [[sparta]]]
 key_events: [the reform of the Areopagus 462/1 BCE, the citizenship law 451/0 BCE, jury pay, the Periclean building program, the Thirty Years' Peace 446/5 BCE, the Samian War 440 BCE, the outbreak of the [[peloponnesian-war|Peloponnesian War]] 431 BCE]
 key_processes: [the radical [[athenian-democracy]], the [[delian-league|Athenian empire]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: [actor, person, classical-antiquity, central-greece, aegean]
 ---
 
@@ -57,14 +57,16 @@ His **war strategy** ([[archidamian-war|Archidamian War]]) was revolutionary and
 **abandon the Attic countryside**, evacuate the population behind the **Long Walls**, decline
 hoplite battle, and rely on the **fleet**, the **allies**, and the imperial **revenue** —
 meeting invasion with seaborne **raids**, not pitched battle, until Sparta accepted the
-*status quo*. He delivered the **Funeral Oration** over the first year's dead (Thucydides'
+*status quo*. (Hanson: viewed pitched battle as “a terrible thing” to gamble city survival vs ~60,000 Peloponnesian/Boeotian hoplites in 431; after Delium Athenians never again invaded Boeotia in force.) He delivered the **Funeral Oration** over the first year's dead (Thucydides'
 vision of Athens as "the education of Greece"). But the strategy concentrated the population
 just as the **[[plague-of-athens-430bce|plague]]** struck (430): it killed perhaps a quarter
 of Athens, turned the city briefly against him (he was fined and deposed, then re-elected),
 and carried off **Pericles himself in 429**. Thucydides judged Periclean Athens "in name a
 democracy, but in fact rule by the first man," and thought no successor could control the
 Assembly as he had — a loss that opened the way to [[cleon]] and the later disasters of the
-war.
+war. (Grounded: Hanson Ch.5, range lines ~1-11, ~461-469, ~472-474.)
+
+**Kagan (2003)** adds: Athenians voted (against his advice) to sue for peace after second invasion + plague. Re-elected 429 but "had only a few months to live." Disease lingered "using up his body slowly and undermining the loftiness of his spirit" (Plutarch). Many friends, sister, legitimate sons died; secured citizenship for son by Aspasia. Dying words on his record: "no one of the Athenians now alive has put on mourning because of me" (Plutarch, Pericles 38.4). Last speech: statesman must "To know what must be done and to be able to explain it; to love ones country and to be incorruptible" (2.60.5). "The death of Pericles deprived Athens of a leader with unique qualities... He could decide on a policy and persuade the Athenians to adopt and remain committed to it, to restrain them from overly ambitious undertakings..." (Range 2: Ch. 7-8, THE DEATH OF PERICLES)
 
 ## Significance
 

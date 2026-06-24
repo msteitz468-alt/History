@@ -14,8 +14,8 @@ scale_immediate: "regional"
 scale_consequential: "regional"
 causes: ["Isolation of Spartan force on the island during Pylos operations", "Athenian interest in overcoming the garrison before winter", "Spartan failure to maintain observation posts at all usable landing sites over two months of inaction"]
 consequences: ["Spartan force compelled to surrender without significant Athenian losses", "Demonstration of the effectiveness of massed lightly armed troops against hoplites when surprise and terrain negate direct combat", "Political and moral impact; illustration of Cleon's capacity for a great deed despite his character as described by Thucydides", "Confirmation of the limits of hoplite warfare in certain terrain and against swarming tactics"]
-sources_ingested: 1
-last_updated: 2026-06-24
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: ["event", "classical-antiquity", "peloponnesian-war", "light-infantry", "battle-of-sphacteria-424bce"]
 ---
 
@@ -56,6 +56,14 @@ Athenians held back their hoplites and released a huge mass of unarmored men (ar
 Thucydides is unconditionally right. Modern scholarship that exalts Cleon or diminishes the deed to preserve consistency with his later nullity at Amphipolis misunderstands both the event and Thucydides. Study Clausewitz to understand the psychology of strategy and the nature of responsibility in command.
 
 Topography (Grundy 1896) confirms the analysis of surprise requirements.
+
+## Kagan Analysis (2003, Range 9001-13000)
+
+Kagan emphasizes the strategic context and political consequences. The Spartan landing of 420 men (Epitadas commanding) on Sphacteria was to block Athenian use of the bay; their capture as hostages provided Athens “a virtual guarantee of peace” (no more invasions of Attica while held). Spartans immediately sued for truce then full peace: offensive/defensive alliance, no territorial changes mentioned, Athenians to drop claims on Plataea. Spartans framed the defeat as miscalculation, not power shift: “This misfortune we have suffered came not from our want of power... though our resources remained the same we miscalculated” (4.18.2). Athenians “grasped for more” (4.21.2); the offer “might seem that the Athenians should have accepted the Spartan offer as representing the kind of peace Pericles had had in mind from the beginning of the war”.
+
+Tactically, Kagan highlights Demosthenes’ innovation with mass light-armed (including armed rowers): “It was not possible to attack them, for even as they fled they held the advantage, and when their pursuers turned, they were on them again.” Comon’s Messenian flanking path was decisive. The surrender of 292 (120 Spartiates) of 420 after 128 dead “shocked the Greek world. ‘In the eyes of the Greeks it was the most unexpected event in the war’ (4.40).” Cleon received highest honors (Prytaneum meals, theater seats) and dominated politics, pushing tribute assessment to 1,460 talents. “The promise of Cleon, mad as it was,” Thucydides remarks, “was fulfilled” (4.39.3).
+
+Links to approved: [[actors/brasidas]] (conspicuous bravery, wounded), [[actors/cleon]], [[actors/demosthenes-athenian-general]], [[actors/nicias]], [[places/athens]], [[places/sparta]], [[places/plataea]], [[hubs/warfare/classical-antiquity/]], [[hubs/warfare/tactics-and-battle-strategies]], [[concepts/hanson-peloponnesian-fighting]], [[sources/hanson-a-war-like-no-other-2005]], [[actors/kagan-donald]].
 
 ---
 

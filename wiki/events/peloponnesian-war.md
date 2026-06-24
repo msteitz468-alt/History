@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[delian-league|the growth of Athenian power]] and Spartan fear of it (Thucydides' "truest cause"), the disputes over Corcyra and Potidaea, the Megarian Decree, Corinthian hostility, the structural incompatibility of the two power-blocs]
 consequences: [the fall of the Athenian empire, the end of the radical democracy (temporarily), Spartan hegemony, the exhaustion of the Greek city-states, the opening for Macedon]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-23
 tags: [event, classical-antiquity, central-greece, greece]
 ---
 
@@ -35,7 +35,7 @@ the war is understood. It falls into three phases:
 2. **The Peace of Nicias and the [[sicilian-expedition|Sicilian Expedition]]** (421–413) —
    the unstable interlude and Athens' catastrophic gamble against [[syracuse|Syracuse]].
 3. **The Ionian (Decelean) War** (413–404) — Spartan war from the fort at Decelea, Persian
-   money, the oligarchic revolution, and the **[[fall-of-athens-404bce|fall of Athens]]**.
+   money (new treaty Feb 411 conceding Asian Greeks), the oligarchic revolution of 411 at [[places/athens]] (Four Hundred coup, Five Thousand interlude), Hellespont naval recovery (Cynossema, Cyzicus), and the **[[fall-of-athens-404bce|fall of Athens]]**. (See Kagan range on aftermath of Sicily, Rhodes/Euboea crises, Alcibiades' role, and Thrasybulus' Hellespont command.)
 
 ## The causes — aitiai and the "truest cause"
 
@@ -61,6 +61,8 @@ triumph at **Pylos** (425, with 120 Spartiate prisoners), and **[[brasidas|Brasi
 counter-stroke in Thrace (the loss of **Amphipolis**, 424). The simultaneous deaths of
 **[[cleon]]** and **Brasidas** at Amphipolis (422) opened the way to the inconclusive **Peace
 of Nicias** (421).
+
+**Kagan (2003, Range 2)**: Theban surprise attack on Plataea (March 431, 300+ Thebans; first atrocity executions of 180 captives) triggered full war; Archidamus' political delay at Oenoe before ravaging Attica. Periclean "minimal deterrence" at Sybota (433) saved Corcyra but failed strategically. Plague killed 4,400 hoplites + 300 cavalry (~1/3 pop.); crowding policy blamed; religious oracles invoked against Pericles. Athenians sued for peace against his advice; war party (Cleon) drove terror executions. Pericles re-elected but died Sept 429; "no one of the Athenians now alive has put on mourning because of me." New politicians "more equal to one another" (Thuc. via Kagan); Cleon from trade/manufacturing class, "first to shout" in assembly. Phormio's Gulf victories showed Athenian naval edge; Spartan sea/Persia turn; reserve funds halved by 429/8. "The original strategy for victory had failed, and the Athenians had as yet formulated no substitute." (Ch. 5-9; Theban attack, plague, Pericles' last days, new politicians)
 
 The peace collapsed; Athens, swayed by **Alcibiades**, launched the **[[sicilian-expedition|
 Sicilian Expedition]]** (415–413), which ended in total disaster at [[syracuse|Syracuse]].
@@ -88,6 +90,8 @@ Thucydides — over the reality of his "truest cause," the wisdom of Periclean s
 of his selection (the Melian Dialogue, the Sicilian books), and whether his pro-Athenian, class
 viewpoint distorts the picture of allied loyalty (see [[classical-greek-historiography]]).
 
+**Kagan (2003)** supplies the leading modern strategic narrative: stresses individual decisions, Pericles' political mastery and the vacuum after 429, precise calculations of resources/war aims (Sparta "freedom for the Greeks" vs. reality of fear), contingency of plague + leadership change opening path to Cleon-style "new politicians," and why Periclean attrition was not abandoned immediately. Complements Thucydides (primary) and Hanson (operational). (Range 2 claims focus on Archidamian phases 431-428/7.)
+
 ## Related
 
 - Phases: [[archidamian-war]] · [[sicilian-expedition]] · [[fall-of-athens-404bce]]
@@ -96,4 +100,4 @@ viewpoint distorts the picture of allied loyalty (see [[classical-greek-historio
 - People: [[pericles]] · [[cleon]] · [[brasidas]] · [[thucydides]]
 - Background: [[thirty-years-peace-446bce]] · [[plague-of-athens-430bce]] ·
   [[classical-greek-historiography]]
-- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Chs. 9–11; Lewis, Andrewes)
+- Sources: [[lewis-cah-v5-1992|CAH Vol. V]] (Chs. 9–11; Lewis, Andrewes); [[sources/kagan-the-peloponnesian-war-2003|Kagan 2003]] (Chs. 5-9, Archidamian)

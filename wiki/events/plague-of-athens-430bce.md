@@ -13,8 +13,8 @@ scale_immediate: local
 scale_consequential: regional
 causes: [the crowding of Attica's population inside the city walls under [[pericles|Pericles']] evacuation strategy, an unidentified epidemic disease arriving via the Piraeus]
 consequences: [the death of perhaps a quarter of the population including [[pericles]] (429), a heavy fall in Athenian manpower, a reported breakdown of moral order, a turn against the war]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: [event, classical-antiquity, central-greece]
 ---
 
@@ -38,6 +38,8 @@ Piraeus into improvised shelters in temples and vacant ground — ideal conditio
 contagion arriving by sea. The disease thus struck hardest precisely because of the
 evacuation that was meant to preserve the city.
 
+**Kagan (2003)** emphasizes the political weaponization of the plague: enemies "persuaded the people that the crowding of the city by the refugees from the countryside caused the plague" and blamed Pericles for pouring "the mob from the country within the walls and [giving] this mass of people no work to do" (Plutarch, Pericles 34.3-4). Religious dimension acute — older men recalled the oracle "A Dorian war will come and a plague with it"; the pious noted the plague spared the Peloponnesus. (Range 2: THE PLAGUE IN ATHENS, PERICLES UNDER FIRE)
+
 ## Scale and effects
 
 Lewis accepts a **death-rate of the order of a quarter** of those affected: Hagnon's force
@@ -54,6 +56,8 @@ lists (**4,400 hoplites and 300 cavalry** dead over the period) justify his view
   Athenians, for a time, against both the war and Pericles, who was fined and briefly
   deposed.
 
+**Kagan (2003)** supplies precise figures and timing: "Before it had run its course in 427 it killed forty-four hundred hoplites, three hundred cavalrymen, and an untold number of the lower classes, wiping out perhaps one-third of the city’s population." The second invasion + plague "pressed hard on them"; after Hagnon's infected return the war party gained ground and ordered terror reprisals (summary execution of Peloponnesian envoys, bodies thrown in pit). "The panic, fear, and collapse of the most sacred bonds of civilization were such that many neglected to give proper burial to the dead." (Range 2: THE PLAGUE (430-429), THE PLAGUE IN ATHENS; Ch. 7)
+
 ## Significance
 
 The plague is the great **contingency** of the Archidamian War — the accident that crippled
@@ -62,8 +66,10 @@ leadership of demagogues like **[[cleon]]** and the eventual disasters of the
 [[peloponnesian-war]]. Thucydides' account is also a landmark of **rational, observational
 description** of disease and of social collapse.
 
+**Kagan (2003)** stresses contingency and leadership vacuum: the plague arrived precisely because of Periclean crowding; it "changed their minds" against Pericles and the war; religious blame and political attacks (Cleon prominent) followed the second invasion. "The death of Pericles deprived Athens of a leader with unique qualities... No one had these traits in greater measure than Pericles himself." War party (likely Cleon-led) drove terror measures while Pericles sidelined. (Range 2: Ch. 7-8)
+
 ## Related
 
 - Context: [[archidamian-war]] · [[peloponnesian-war]] · [[pericles]] · [[athens-fifth-century]]
 - Source/chronicler: [[thucydides]] · [[classical-greek-historiography]]
-- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 9, Lewis)
+- Sources: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 9, Lewis); [[sources/kagan-the-peloponnesian-war-2003|Kagan 2003]] (Ch. 7, plague + Pericles under fire)

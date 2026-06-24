@@ -1,7 +1,7 @@
 ---
 title: Tactics and Battle Strategies
 hub_type: sub-hub
-last_updated: 2026-06-24
+last_updated: 2026-06-23
 tags: [hub, warfare, tactics, strategy]
 ---
 
@@ -23,6 +23,13 @@ Many principles recur, even as technology changes the specific tools:
 
 ## Selected Tactical and Operational Case Studies
 
+- **Peloponnesian War hoplite battles (Hanson, *A War Like No Other*, Ch. 5 Armor, range 5501-8500; Kagan *The Peloponnesian War*, range 13001-17000)**: Delium (424 BCE) and Mantinea (418) as rare traditional collisions amid attritional war. 
+
+  Delium (Kagan verbatim): Pagondas (Theban commander, >60) massed Thebans to 25-deep (usual 8); used 300 elite trained hoplites (first recorded professional corps separate from militia). Cavalry and light-armed on flanks. Athenian right routed Boeotian left (Thespiae/Tanagra/Orchomenus); Theban right slowly pushed Athenians. Pagondas sent two cavalry squadrons unseen around hill to appear in Athenian rear, causing panic. "This broke the momentum of the Athenian charge." Nightfall halted pursuit. Athenian losses: ~1,000 hoplites + general Hippocrates (heaviest of Ten Years' War) plus light troops. Boeotians later used "enormous flamethrower" to burn Delium fort. Famous for Socrates (hoplite) and Alcibiades (cavalry) fighting. First deep wing tactic foreshadowing Epaminondas/Philip/Alexander.
+
+  Amphipolis (422, Kagan): Brasidas used deception (sacrifices + Clearidas at northern/Thracian gate) to lure Cleon south, then elite 150 from southern gate struck disordered Athenian center during withdrawal maneuver; Clearidas flanked. ~600 Athenian dead incl. Cleon; 7 Spartans incl. Brasidas (mortally wounded in victory).
+
+  Mantinea campaign (418, Kagan): Agis forced battle after Eleans withdrew 3,000 hoplites over target dispute (Tegea vs Lepreum). Terrain: Mantinean plain ~18 mi N-S / 11 mi E-W at ~2,200 ft, slopes N, narrows 3 mi S of Mantinea to ~2-mi gap between Mytikas (W) and Kapnistra (E) ridges; sinkholes (Zanovistas, Sarandapotamos). Agis collected allies at Tegea, marched to Heracleum SE of Mantinea. (Approved links: [[hubs/warfare/classical-antiquity/]], [[alcibiades]], [[pericles]], [[brasidas]], [[nicias]])
 - **Detailed Analysis**: [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae|Battle of Cannae – Tactical Analysis]]
   - Narrative: [[battle-of-cannae-216bce|Cannae (216 BCE)]] — Hannibal's double envelopment. Classic example of using terrain, feigned weakness, and coordination of infantry and cavalry.
 - **[[battle-of-gaugamela-331bce|Gaugamela (331 BCE)]]** — Alexander's oblique order and cavalry hammer-and-anvil against the Persian center and flanks.
@@ -39,6 +46,7 @@ For many more specific battles, see the live event lists in the main [[hubs/warf
 - Medieval: cavalry dominance and the siege as the decisive act.
 - Early modern: linear tactics, drill, and the growing importance of artillery.
 - Modern: dispersion, combined arms teams, and the impact of machine guns, tanks, and air power.
+  - WWI Western Front (1916–18): [[concepts/elastic-defense-in-depth]] (1917: depth, economy of force, counterattack primacy over holding terrain; inductive from Somme experience) and [[concepts/infiltration-tactics-1918]] (1918: complementary firepower + maneuver; avoid strongpoints, deep penetration by specialized assault groups; short intense artillery support; decentralized initiative). Per [[sources/lupfer-dynamics-of-doctrine-1981]] Ch. 3 / Range 3: completed via collective effort and "remarkable training program"; process was inductive and tentative ("all tactical solutions were tentative"; "evidence from the battlefield was more respected than the doctrine"); "no panacea. A formula is harmful" (Rupprecht). OHL ([[ludendorff]], [[hindenburg]]) directed talent efficiently with "remarkable tolerance of dissent." Principles flexible yet precise for "common understanding and unity of effort." Enriches [[hubs/warfare/world-wars-era/]] and [[places/western-front]] analysis. See also [[hubs/warfare/strategy]].
 
 ## Related
 

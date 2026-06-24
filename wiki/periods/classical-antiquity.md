@@ -73,6 +73,8 @@ volume's regional case study), and the philosophical and artistic achievement
 (Socrates, Plato, Aristotle, tragedy, the classical orders). See
 [[classical-greece]].
 
+**Peloponnesian War fighting mechanics (from Hanson *A War Like No Other*, Ch.5 Armor/Ch.6 Walls, range 5501-8500 only)**: Hoplite battles rare (Delium 424: 25-deep Theban stack, friendly fire, 14% Athenian dead; Mantinea 418: Spartan pipes/discipline + right turn, ~7-8% dead). Pericles: pitched battle “a terrible thing.” Sieges dominant (Plataea 431-427 ramp/fire/circumvallation/breakout/execution/razing; Melos 416 males killed; Mycalessus 413 school massacre). Athenian naval sieges vs Spartan land limits. 415 Syracuse hoplite battle (tactical win, no strategic; 16-deep Syracusans). "poliorkia"; "The Thirty Years Slaughter." (Links only approved: [[concepts/hanson-peloponnesian-fighting]], [[hubs/warfare/classical-antiquity/]], [[pericles]], [[alcibiades]], [[brasidas]], [[nicias]], [[gylippus]].)
+
 **Alexander and the Hellenistic world.** [[alexander-the-great|Alexander of
 Macedon]] destroyed the Achaemenid Empire (Gaugamela, 331 BCE) and carried Greek
 culture to the Indus, enabling — indirectly — the rise of [[chandragupta-maurya|Chandragupta]]

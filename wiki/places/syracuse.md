@@ -7,9 +7,9 @@ period_active: [Archaic Period, Classical Antiquity]
 controlled_by: [the Corinthian colonists and the Gamoroi oligarchy; later the Deinomenid tyrants]
 events_here: [the foundation from Corinth (733 BCE), the planting of Acrae (663) and Casmenae (643), the foundation of Camarina (598) and its revolt]
 processes_here: [[[greek-colonization|Greek colonization]], the subjugation of the Sicels, agrarian oligarchy]
-sources_ingested: 1
-last_updated: 2026-06-11
-tags: [place, mediterranean, archaic-period]
+sources_ingested: 3
+last_updated: 2026-06-23
+tags: [place, mediterranean, archaic-period, classical-antiquity]
 ---
 
 # Syracuse (Archaic)
@@ -28,6 +28,16 @@ coastal plain to the west and south (the inland Sicel sites of Pantalica and Fin
 end at about the foundation date). The rich plain became the property of the **first
 settlers and their descendants, who lived in the city** — the ruling aristocracy
 tellingly called the **Gamoroi** ("land-sharers"), a landowning oligarchy — while later
+
+## Classical Period: Gela Congress (424 BCE) and Athenian Interventions
+
+During the Peloponnesian War Syracuse (Dorian, allied with Corinth and Sparta) faced Athenian intervention supporting Ionian cities and native Sicels. After initial Athenian success with 20 ships (427) preventing Syracusan victory over Leontini and capturing Messina, a larger 60-ship force under Sophocles, Eurymedon, and Pythodorus arrived in 424. 
+
+Gela (Syracuse ally) and Camarina (Athens ally) made separate peace and convened a congress at Gela. Hermocrates of Syracuse spoke for Sicilian unity: "We are, generally speaking, neighbors, and together we inhabit a single land surrounded by the sea and are called by one name, Siceliots. ... If we are wise, when foreigners attack us we shall always act together to repel them... And we shall never again call in strangers as allies or mediators." He ceded Morgantina to Camarina as evidence of good faith. The Siceliots agreed to peace on status quo; Athenians, lacking base and ally support, accepted and sailed home.
+
+On return the generals were convicted of accepting bribes; two exiled, one fined. Athenians suspected "Sicily for the Sicilians" was a cloak for "Sicily for the Syracusans." Kagan notes the first expedition had generated enthusiasm; the second's failure shocked them. (Grounded verbatim from Kagan range 13001-17000.)
+
+Syracuse remained the most powerful and aggressive state in Sicily, later seeking aid against the major Athenian invasion of 415 (including from Sparta and even Carthage).
 and lesser people lived in the poorer hill country. The Sicels of the territory were
 reduced to **serfs (the Cyllyrii)** or tribute-paying dependants.
 
@@ -51,6 +61,12 @@ territory Dunbabin reckoned at some **4,000 km²** — the base from which the f
   cities), and of the agrarian oligarchy (the Gamoroi).
 - The seed of the great Classical Syracuse — the city that would defeat Carthage at
   Himera (480) and Athens in the Sicilian Expedition (413).
+
+## Classical Period: The Sicilian Expedition (415–413 BCE)
+
+In 415 Athens intervened at Segesta's appeal against Selinus (backed by Syracuse). Kagan details the Athenian landing and operations against the city. After diplomatic and base-building failures (Rhegium neutrality, limited Segestan funds, Naxos/Catana bases), Athenians tricked the Syracusan army to Catana and landed unopposed south of the Anapus River opposite the temple of Olympian Zeus. They fortified a strong position protected from cavalry flanks and won a pitched battle the next day (Argives and Mantineans on right, Athenians center; superior discipline and experience overcame Syracusan depth and 1,500 cavalry; weather aided). “For the Athenians it was a tactical victory without strategic result” because lack of cavalry prevented effective pursuit; Syracusans regrouped behind walls. Athenians set trophy and withdrew to Catana.
+
+Syracusans, alarmed, reformed army (armed poorer men as hoplites, compulsory training, reduced generals to three including Hermocrates with full powers), extended walls, garrisoned approaches, and appealed to Corinth and Sparta. In 414 Athenians seized Epipolae plateau (key to preventing enclosure), built fort “The Circle” at Syce, and began circumvallation. Syracusans countered with a cross-wall; Athenians destroyed one in a daring midday raid by 300 hoplites. Construction of southern wall toward Great Harbor led to further fighting in which Lamachus was killed. Gylippus arrived overland (with Gongylus slipping in by sea), seized Labdalum, and built a counter-wall that broke the Athenian siege lines. Nicias relocated his fleet base to Plemmyrium on the south side of the harbor entrance. By Kagan's account, Syracuse came “so close to danger” (7.2-5) that surrender was discussed until Peloponnesian help reversed the momentum. The city ultimately repelled the greatest Athenian expeditionary force, with massive consequences for the Peloponnesian War.
 
 ## Related
 

@@ -5,10 +5,10 @@ modern_equivalent: [Boeotia, central Greece]
 coordinates: [38.4 N, 23.1 E]
 period_active: [Early Iron Age, Archaic Period, Classical Antiquity]
 controlled_by: [a dozen independent oligarchic cities (Thebes, Orchomenus, Thespiae, Tanagra, Plataea…), gradually federated under Thebes]
-events_here: [the life of Hesiod at Ascra, the slow Theban-led federation, Plataea's appeal to Athens (~519), Thebes's control of Boeotia south of Copais by ~500]
+events_here: [the life of Hesiod at Ascra, the slow Theban-led federation, Plataea's appeal to Athens (~519), Thebes's control of Boeotia south of Copais by ~500, Theban surprise attack on Plataea 431 BCE]
 processes_here: [federation, the persistence of agrarian oligarchy]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: [place, central-greece, mediterranean, archaic-period]
 ---
 

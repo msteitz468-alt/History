@@ -1,7 +1,7 @@
 ---
 title: "Warfare & Strategy Hub"
 hub_type: hub
-last_updated: 2026-06-24
+last_updated: 2026-06-23
 tags: [hub, warfare, strategy]
 ---
 
@@ -43,6 +43,9 @@ Narrative/historiography lives in the main `events/` page; the `hubs/warfare/` p
 
 - **The Keegan "face of battle" cluster** (from [[keegan-face-of-battle-1976|*The Face of Battle*]], 1976) — the experiential/mechanics layer:
   - [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-agincourt-1415|Agincourt (1415)]] (the crush and the "wall of dead" demythologised) · [[hubs/warfare/long-19th-century/napoleonic-wars/battle-of-waterloo|Waterloo (1815)]] (cavalry vs squares; the column's rear-first collapse) · [[hubs/warfare/world-wars-era/first-world-war/battle-of-the-somme-1916|The Somme, 1 July 1916]] ([[hubs/warfare/world-wars-era/first-world-war/first-world-war|First World War hub]]) — walking men vs machine guns.
+- **Peloponnesian War (Hanson *A War Like No Other*, range 5501-8500, Ch.5 Armor + Ch.6 Walls; Kagan *The Peloponnesian War* range 13001-17000)**: rare hoplite collisions (Delium 424, Amphipolis 422, Mantinea 418 campaign) with right-wing dominance, othismos, panic/friendly fire, Spartan discipline ("pipes"); sieges as dominant form (~21 vs 2 major battles; Plataea ramp/fire/circumvallation/execution; Melos/Mycalessus atrocities; Athenian naval specialty; 415 Syracuse small hoplite battle). 
+
+  Kagan-grounded: 424 Athenian "new strategies" under Demosthenes/Hippocrates (Megara walls seizure via traitors; Boeotia multi-site betrayal + Delium fort). Brasidas relief of Megara preserved Spartan access. Delium: Pagondas' 25-deep Thebans + rear cavalry surprise routed Athenians (~1000 hoplite dead). Brasidas' Thracian campaign: persuasion + night bridge seizure for Amphipolis; 422 battle used decoy gate + elite sally to rout Cleon (600 Athenian dead). Peace of Nicias (421) followed dual deaths; false peace featured Alcibiades' Peloponnesian circuit (Patrae alliance/walls) and coalition capture of Orchomenus before Mantinea. Sicilian Congress of Gela (424): Hermocrates' "Sicily for the Sicilians" ended first Athenian intervention. Links: [[hubs/warfare/classical-antiquity/]], [[concepts/hanson-peloponnesian-fighting]], [[pericles]], [[alcibiades]], [[brasidas]], [[nicias]], [[sources/hanson-a-war-like-no-other-2005]], [[actors/kagan-donald]]. (See tactics sub-hub for details.)
 
 - **The Rise of the Swiss cluster** (from [[delbruck-medieval-warfare-vol-3-1982|Delbrück, *Medieval Warfare*]], the rebirth of the infantry tactical body):
   - [[hubs/warfare/late-middle-ages/rise-of-the-swiss/rise-of-the-swiss|Rise of the Swiss]] hub — [[hubs/warfare/late-middle-ages/rise-of-the-swiss/battle-of-morgarten-1315|Morgarten (1315)]] · [[hubs/warfare/late-middle-ages/rise-of-the-swiss/battle-of-sempach-1386|Sempach (1386)]] · [[hubs/warfare/late-middle-ages/rise-of-the-swiss/burgundian-wars|the Burgundian Wars (1476–77)]] — plus Delbrück's [[sachkritik|Sachkritik]] layer on [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-crecy-1346|Crécy]].
@@ -72,6 +75,8 @@ Gunpowder, the *trace italienne*, drilled infantry, and vastly larger armies dro
 
 ### Industrial & Total War
 The [[industrialization-of-warfare|industrialization of warfare]], the *levée en masse*, and total mobilization of economies and societies produced the world wars and nuclear standoff. Post-1945 warfare often displaced into proxy, limited, or asymmetric forms.
+
+German tactical adaptation on the [[places/western-front]] (1916–18) offers a key case of doctrinal dynamics in industrial attrition: shift to [[concepts/elastic-defense-in-depth]] (1917) then [[concepts/infiltration-tactics-1918]] (spring 1918). Per [[sources/lupfer-dynamics-of-doctrine-1981]] Ch. 3 (Range 3): "incorporated many of the virtues of their elastic defense-in-depth"; "complementary use of firepower and maneuver"; "product of a thorough collective effort"; disseminated via "remarkable training program." Process inductive/tentative: "Evidence from the battlefield was more respected than the doctrine"; "all tactical solutions were tentative"; "no panacea. A formula is harmful" (Rupprecht). Corporate OHL direction under [[ludendorff]] and [[hindenburg]] used talent (e.g. Geyer) with "remarkable tolerance of dissent" and produced flexible yet unifying principles. See [[hubs/warfare/world-wars-era/first-world-war/first-world-war]], [[hubs/warfare/tactics-and-battle-strategies]], [[hubs/warfare/strategy]].
 
 ## Recurring Problems (Read Laterally)
 
