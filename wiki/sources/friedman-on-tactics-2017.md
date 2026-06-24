@@ -40,11 +40,11 @@ This is a key Tier 3 source for doctrinal clarity in the [[hubs/warfare/warfare-
 
 **Concepts (new or heavily updated):**
 - [[concepts/tactical-tenets]] (overview page for the nine)
-- Individual tenets where granularity warrants: [[concepts/maneuver]], [[concepts/mass]], [[concepts/firepower]], [[concepts/tempo]], [[concepts/deception]], [[concepts/surprise]], [[concepts/confusion]], [[concepts/shock]], [[concepts/moral-cohesion]]
+- Individual tenets where granularity warrants (to be expanded as pages): maneuver, mass, firepower, tempo, deception, surprise, confusion, shock, moral-cohesion
 - [[concepts/culminating-point-of-victory]] (tactical application; enrich existing Clausewitz strategic version)
-- [[concepts/tactics-and-strategy]] or "crossing-the-bridge" (linking tactics to strategy)
-- [[concepts/command-and-control]], [[concepts/environment-and-geography]] in tactical context
-- [[concepts/initiative]], offense vs defense at tactical level
+- [[concepts/tactics-and-strategy]] (linking tactics to strategy)
+- command-and-control, environment-and-geography in tactical context
+- initiative, offense vs defense at tactical level
 
 **Actors:**
 - [[friedman-b-a]] (new)

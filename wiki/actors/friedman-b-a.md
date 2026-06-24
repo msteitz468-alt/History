@@ -9,7 +9,7 @@ affiliated_with: [united-states-marine-corps, naval-institute-press]
 opposed_by: []
 key_events: []
 key_processes: []
-sources_ingested: 0
+sources_ingested: 1
 last_updated: 2026-06-23
 tags: [actor, person, contemporary, north-america]
 ---
