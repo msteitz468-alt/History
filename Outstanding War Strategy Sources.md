@@ -127,7 +127,7 @@ Livy, *Hannibal's War* · the CAH volumes · Hans Delbrück, *History of the Art
 |---|---|---|---|
 | *The First World War, Vol. I: To Arms* — Hew Strachan | `[BUY]` | ❌ | Operational/strategic depth complementing the held Cambridge WWI set. |
 | *Pyrrhic Victory* — Robert A. Doughty | `[BUY]` | ❌ | French strategy and operations 1914–18. |
-| *The Dynamics of Doctrine* — Timothy T. Lupfer | `[BUY]` | ❌ | ⭐ Classic Leavenworth study of German tactical adaptation. |
+| *The Dynamics of Doctrine* — Timothy T. Lupfer | `[BUY]` | ✅ | Ingest complete (Deployed Subagent Strategy: source page + 3 ranges on 3100-line text + main reconciliation). Created [[actors/lupfer-timothy-t]] + [[concepts/elastic-defense-in-depth]] + [[concepts/infiltration-tactics-1918]]; consolidated Primary Claims (stalemate context, elastic defense principles/zones/counterattack, 1918 infiltration/combined-arms/training, inductive corporate process, Rupprecht "no panacea"). Enriched WWI hub + tactics/strategy pages. 0 broken links. Source filed to raw/4. Modern Times/. |
 | *Stormtroop Tactics* — Bruce I. Gudmundsson | `[BUY]` | ❌ | German infiltration-tactics evolution. |
 | *Battle Tactics of the Western Front* — Paddy Griffith | `[BUY]` | ❌ | British tactical learning curve 1916–18. |
 
