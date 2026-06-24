@@ -43,6 +43,15 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `hubs/warfare/world-wars-era/second-world-war/operation-barbarossa-1941.md` | Operation Barbarossa | campaign analysis | world-wars-era | (new full template analysis from Megargee range_3: planning, phases Smolensk/Kiev/Typhoon, Final Solution beginnings, 9 principles, OOB tables) |
 | `hubs/warfare/world-wars-era/second-world-war/battle-of-leyte-gulf-1944.md` | Battle of Leyte Gulf | campaign analysis | world-wars-era | (new full template analysis from Vol 2 range_2 Overy/Love sea/air: largest naval battle, Taffy 3 vs Kurita Samar action, kamikaze, Combined Fleet destruction; OOB, 9 principles, modern parallels, primary quotes) |
 | `hubs/warfare/world-wars-era/second-world-war/strategic-bombing-japan-1944-1945.md` | Strategic Bombing of Japan | air campaign analysis | world-wars-era | (new full template analysis from Vol 2 range_2: B-29 Marianas, Hansell failure, LeMay incendiary shift, Tokyo firestorm stats, total effects; links [[strategic-bombing-campaign]]) |
+| `hubs/warfare/high-middle-ages/crusades/crusades.md` | The Crusades — campaign hub | campaign hub | high-middle-ages | (CHW v2 warfare pass 2026-06-24, France ch.10: logistics & siege, enemy disunity) |
+| `hubs/warfare/high-middle-ages/crusades/siege-of-antioch-1097.md` | Siege of Antioch (1097–98) | siege analysis | high-middle-ages | (CHW v2 warfare pass: starvation crisis, sea resupply, capture by treachery, Kerbogha sortie; gaps flagged to France, Victory in the East) |
+| `hubs/warfare/high-middle-ages/mongol-conquests/mongol-conquests.md` | Mongol Conquests — campaign hub | campaign hub | high-middle-ages | (CHW v2 warfare pass, Hautala ch.11: decimal army, multi-column ops, siege via Chinese engineers, terror) |
+| `hubs/warfare/late-middle-ages/hundred-years-war/hundred-years-war.md` | Hundred Years' War — campaign hub | campaign hub | late-middle-ages | (CHW v2 warfare pass, Curry ch.13: infantry/artillery revolutions, indenture armies, chevauchée) |
+| `hubs/warfare/late-middle-ages/hundred-years-war/battle-of-crecy-1346.md` | Battle of Crécy (1346) | battle analysis | late-middle-ages | (CHW v2 warfare pass: longbow + dismounted men-at-arms vs amorphous French host; gaps flagged to Ayton & Preston) |
+| `hubs/warfare/late-middle-ages/hundred-years-war/battle-of-agincourt-1415.md` | Battle of Agincourt (1415) | battle analysis | late-middle-ages | (CHW v2 warfare pass: defile + mud nullify numbers; gaps flagged to Curry, Agincourt: A New History) |
+| `events/siege-of-antioch-1097.md` | Siege of Antioch | event | high-middle-ages | (new narrative page; reciprocal to warfare analysis) |
+| `events/battle-of-crecy-1346.md` | Battle of Crécy | event | late-middle-ages | (new narrative page; reciprocal to warfare analysis) |
+| `events/battle-of-agincourt-1415.md` | Battle of Agincourt | event | late-middle-ages | (new narrative page; reciprocal to warfare analysis) |
 | `cold-war.md` | Cold War | 1945–1991 CE | moderate |
 | `contemporary.md` | Contemporary | 1991–present | weak |
 

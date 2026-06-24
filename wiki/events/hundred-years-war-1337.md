@@ -104,3 +104,4 @@ recovery and consolidation under [[louis-xi-of-france|Louis XI]], is treated sep
 - `caused_by:` the [[philip-iv-capetian|Capetian]]–[[edward-i-plantagenet|Plantagenet]] rivalry over Aquitaine and the failure of the direct Capetian line.
 - `part_of:` the [[late-medieval-crisis|calamitous fourteenth century]]; waged by [[edward-iii-of-england|Edward III]] and continued under [[richard-ii-of-england|Richard II]].
 - `produced:` the war-driven growth of [[english-parliament|taxation and representative institutions]] and of English and French national identity.
+- **Warfare hub (operational/tactical):** [[hubs/warfare/late-middle-ages/hundred-years-war/hundred-years-war|Hundred Years' War hub]] — deep analyses of [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-crecy-1346|Crécy (1346)]] and [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-agincourt-1415|Agincourt (1415)]].

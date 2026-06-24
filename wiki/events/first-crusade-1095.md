@@ -82,3 +82,4 @@ penitential motives over the older economic/younger-son explanations.
 - [[urban-ii]] — proclaimer; [[crusader-states]] — its territorial product.
 - [[just-war]], [[gregorian-reform]] — its ideological roots.
 - [[battle-of-manzikert-1071]] — the Byzantine disaster behind the appeal.
+- **Warfare hub (operational/tactical):** [[hubs/warfare/high-middle-ages/crusades/crusades|Crusades hub]] — deep analysis of the [[hubs/warfare/high-middle-ages/crusades/siege-of-antioch-1097|Siege of Antioch (1097–98)]].

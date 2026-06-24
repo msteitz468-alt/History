@@ -12,7 +12,7 @@ cross-cutting backbone; Tier 4 is period-by-period campaign and battle depth map
 **Acquisition flags:** `[BUY]` `[LIBRARY]` `[OUT OF PRINT]`.
 
 **Already in the collection (de-duplicated out of the lists below — do not re-source):**
-*Cambridge History of Strategy* v1–2 · *Cambridge History of War* v2 & v4 · *Cambridge History of
+*Cambridge History of Strategy* v1–2 · *Cambridge History of War* v2 (medieval) & v4 — **v2 re-ingested at warfare-hub spec 2026-06-24**, building the medieval hub scaffold (Crusades / Mongol Conquests / Hundred Years' War hubs + Antioch, Crécy, Agincourt analyses); as a survey it gives the operational/institutional layer but flags phase-level depth to the dedicated medieval monographs in Tier 4 below (May, France, Rogers, Verbruggen) · *Cambridge History of
 the First World War* v1–3 · *Cambridge History of the Second World War* v1 & v3 · Beevor, *The Second
 World War* · Christopher Duffy, *Siege Warfare* · Timothy May, *The Mongol Conquests in World History*
 (note: his *Mongol Art of War* below is a **different** book) · Vegetius, *Epitome* · Thucydides ·
