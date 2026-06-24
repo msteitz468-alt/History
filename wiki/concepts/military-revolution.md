@@ -5,7 +5,7 @@ origin: Coined by Michael Roberts (1955) for 1560–1660 Sweden/Netherlands; exp
 applies_to_periods: [Late Middle Ages, Early Modern, Age of Expansion]
 applies_to_regions: [western-europe, near-east, east-asia, south-asia, global]
 contested: yes
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-06-23
 tags: [concept]
 ---
@@ -26,6 +26,16 @@ globalized by **Geoffrey Parker** (*The Military Revolution*, 1988), who linked
 it explicitly to "the rise of the West." Related framings include the
 **"gunpowder empires"** (the Ottoman, Safavid, and Mughal states) and the
 **"fiscal-military state."**
+
+John A. Lynn's *Giant of the Grand Siècle* (1997) supplies the most detailed
+institutional study of the single largest army produced by the era — the French
+force that reached paper strengths above 400,000 in the 1690s. Lynn uses the
+French case to qualify both the Roberts-Parker tactical/fortification narrative
+and the high-level "war made the state" models: administration remained
+deliberately multi-tiered (central, provincial intendants, field armies, and
+regimental captains who often advanced personal credit), and the standing army
+functioned more as a frontier garrison force resulting from prior victories than
+as the primary engine of domestic coercion.
 
 ## The Argument
 

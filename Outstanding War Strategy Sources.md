@@ -97,7 +97,7 @@ Livy, *Hannibal's War* · the CAH volumes · Hans Delbrück, *History of the Art
 | Source | Flag | Status | Notes |
 |---|---|---|---|
 | *The Military Revolution* — Geoffrey Parker | `[BUY]` | ✅ | The thesis everything in this period argues with. Ingested 2026-06-24 (Deployed Subagent Strategy, source page + 5 ranges + actor + concept/hub enrichment; full global test + fortification driver emphasis + Frederick culmination). |
-| *Giant of the Grand Siècle* — John A. Lynn | `[BUY]` | ❌ | The French army 1610–1715; institutional/operational depth. |
+| *Giant of the Grand Siècle* — John A. Lynn | `[BUY]` | ✅ | The French army 1610–1715; institutional/operational depth. Ingested 2026-06-24 (Deployed Subagent Strategy, source page + actor + 9 ranges + main reconciliation; 4-tier admin model, standing army as consequence not cause, Mil Rev qualification, contributions/venality/positional warfare depth). Enriched [[military-revolution]], [[fiscal-military-state]], [[absolutism]], Spanish Succession hub. Filed to raw/4. Modern Times/. |
 | *Battle: A History of Combat and Culture* — John A. Lynn | `[BUY]` | ❌ | The "culture of combat" counter-thesis (vs. V.D. Hanson). |
 | *The Military Experience in the Age of Reason* — Christopher Duffy | `[BUY]` | ❌ | 18th-c. armies in the field (complements held *Siege Warfare*). |
 | *Frederick the Great: A Military Life* — Christopher Duffy | `[BUY]` | ❌ | Operational study of the model 18th-c. commander. |

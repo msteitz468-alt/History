@@ -13,7 +13,7 @@ outcome: "Allied victory checks French hegemony; the high point of limited-war d
 scale_immediate: regional
 scale_consequential: civilizational
 event_page: "[[war-of-the-spanish-succession-1701]]"
-key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), ch. 2"
+key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), ch. 2; Giant of the Grand Siècle (Lynn, 1997)"
 last_updated: 2026-06-23
 tags: [warfare, campaign-analysis, age-of-expansion, western-europe, war-of-the-spanish-succession]
 ---
@@ -24,7 +24,9 @@ tags: [warfare, campaign-analysis, age-of-expansion, western-europe, war-of-the-
 
 The great coalition war that checked the hegemony of **Louis XIV** — and, in Doughty & Gruber's
 reading, the demonstration that **decisive battle could still be won inside the age of
-[[limited-war|limited war]]**, by a commander willing to take strategic risks.
+[[limited-war|limited war]]**, by a commander willing to take strategic risks. Lynn's institutional
+study of the French army 1610–1715 supplies the essential context for the scale, logistics, and
+command culture of the forces Marlborough and Eugene faced.
 
 ## Why it matters militarily
 
@@ -41,4 +43,4 @@ constraints.
 ## Related
 
 - `part_of:` [[war-of-the-spanish-succession-1701]] · commander: [[marlborough-john-churchill]] · within [[limited-war]]
-- [[age-of-expansion]] — period · [[doughty-gruber-warfare-western-world-v1-1996]] — source.
+- [[age-of-expansion]] — period · [[doughty-gruber-warfare-western-world-v1-1996]] — source · [[sources/lynn-giant-of-the-grand-siecle-1997]] — institutional context for French army.
