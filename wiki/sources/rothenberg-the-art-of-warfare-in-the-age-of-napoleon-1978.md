@@ -7,8 +7,8 @@ period_coverage: [long-19th-century]
 region_coverage: [western-europe, eastern-europe, central-europe, iberia]
 methodological_approach: survey / institutional / doctrinal / comparative
 reliability_notes: ["Systematic survey of French Revolutionary/Napoleonic armies and their opponents with focus on organization, tactics, the 'art' at fighting level, staff, and support services rather than grand strategy or individual campaigns. Draws on printed sources, memoirs, and teaching experience; complements operational works (Chandler) and experiential tactical studies (Muir). Some limitations in depth on theory and high command. Extraction from scan shows typical OCR artifacts but content is clear and authoritative."]
-pages_created: 3
-pages_updated: 2
+pages_created: 4
+pages_updated: 3
 ingested: 2026-06-23
 tags: [source, long-19th-century, napoleonic, warfare]
 ---
