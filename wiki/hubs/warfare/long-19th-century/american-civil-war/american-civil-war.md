@@ -40,7 +40,7 @@ High-resolution staff-college analyses using the locked battle-analysis-template
 - [[battle-of-fredericksburg-1862|Fredericksburg — Tactical Analysis]] (11–15 Dec 1862; Burnside crossing; Lee victory)
 
 **Lee’s War in the East 1863:**
-- [[battle-of-chancellorsville-1863|Chancellorsville — Tactical Analysis]] (30 Apr–6 May 1863; incl. Salem Church; Jackson)
+- [[battle-of-chancellorsville-1863|Chancellorsville — Tactical Analysis]] (30 Apr–6 May 1863; incl. Salem Church; Jackson) — upgraded with full Sears (1996) operational depth, OOB, phases, 9 principles, verbatim primaries, and myth corrections
 - [[battle-of-gettysburg-1863|Gettysburg — Tactical Analysis]] (1–3 Jul 1863; First Day, Wheat Field, Devil’s Den, Pickett’s Charge 3 Jul)
 
 **Western Theater:**
@@ -66,6 +66,6 @@ All analyses link reciprocally to the main narrative event page [[events/america
 - [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]]
 - [[hubs/warfare/long-19th-century/american-civil-war| (this war folder)]]
 - Main narrative: [[events/american-civil-war-1861-1865]]
-- Sources: [[sources/rogers-seidule-west-point-history-civil-war-2014|The West Point History of the Civil War (Rogers & Seidule, 2014)]] (tactical analyses) · [[sources/hattaway-jones-how-the-north-won-1983|How the North Won (Hattaway & Jones, 1983/1991)]] (operational/logistical standard, high command, logistics-as-strategy, simultaneous advances) · [[sources/weigley-the-american-way-of-war-1973|The American Way of War (Russell F. Weigley, 1973)]] (strategic culture: attrition vs. annihilation thesis, Grant as exemplar of continuous pressure/annihilation, intellectual traditions). **Survey context:** [[doughty-gruber-warfare-western-world-v1-1996|Warfare in the Western World, Vol. I]] (Doughty & Gruber, chs. 11–14) frames the war as the move from limited war toward [[total-war|total war]].
+- Sources: [[sources/rogers-seidule-west-point-history-civil-war-2014|The West Point History of the Civil War (Rogers & Seidule, 2014)]] (tactical analyses) · [[sources/hattaway-jones-how-the-north-won-1983|How the North Won (Hattaway & Jones, 1983/1991)]] (operational/logistical standard, high command, logistics-as-strategy, simultaneous advances) · [[sources/weigley-the-american-way-of-war-1973|The American Way of War (Russell F. Weigley, 1973)]] (strategic culture: attrition vs. annihilation thesis, Grant as exemplar of continuous pressure/annihilation, intellectual traditions). **Survey context:** [[doughty-gruber-warfare-western-world-v1-1996|Warfare in the Western World, Vol. I]] (Doughty & Gruber, chs. 11–14) frames the war as the move from limited war toward [[total-war|total war]]. Specific battle depth: [[sources/sears-chancellorsville-1996]] (definitive operational study for Chancellorsville hub analysis).
 - Specific battle analyses link here and to their events/ pages.
 - Final: [[hubs/warfare/long-19th-century/american-civil-war/appomattox-campaign-1865|Appomattox Campaign — Tactical Analysis]] (drafted from Range 5; expand with other ranges per template).

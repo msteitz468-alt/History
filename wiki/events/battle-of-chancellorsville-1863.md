@@ -14,8 +14,8 @@ scale_immediate: regional
 scale_consequential: regional
 causes: ["Hooker's spring offensive to outflank Lee; Lee's bold division of forces and flanking march"]
 consequences: ["Stunning Confederate victory despite odds; mortal wounding of Stonewall Jackson; boosted Southern morale but irreplaceable loss; set stage for Gettysburg campaign"]
-sources_ingested: 1
-last_updated: "2026-06-23"
+sources_ingested: 2
+last_updated: "2026-06-24"
 tags: [event, long-19th-century, eastern-north-america, american-civil-war, battle]
 ---
 
@@ -39,6 +39,6 @@ Major Union defeat; loss of Jackson changed Confederate command structure for th
 
 ## Historiography
 
-Source provides exceptionally detailed timed map series for the campaign.
+Sears, *Chancellorsville* (1996) is the definitive operational study, restoring primary colors from OR Vol. XXV, Hooker Papers, and participant letters/diaries while correcting postwar myths. See the dedicated tactical analysis page for full order-of-battle, phases, and command detail. West Point History supplies the timed map series and OOB synthesis.
 
 See tactical analysis.
