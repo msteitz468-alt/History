@@ -5,8 +5,8 @@ origin: Coined by Michael Roberts (1955) for 1560–1660 Sweden/Netherlands; exp
 applies_to_periods: [Late Middle Ages, Early Modern, Age of Expansion]
 applies_to_regions: [western-europe, near-east, east-asia, south-asia, global]
 contested: yes
-sources_ingested: 4
-last_updated: 2026-06-13
+sources_ingested: 5
+last_updated: 2026-06-23
 tags: [concept]
 ---
 
@@ -137,6 +137,8 @@ techniques, so the European military edge was "never more than a slight edge" un
 century. There, as in Europe, the deepest effect of the new weaponry was internal — strengthening
 gun-owning regimes over their hinterlands and fuelling the [[southeast-asian-absolutism|gunpowder
 absolutism]] of Aceh, Mataram, and Ayutthaya.
+
+**Geoffrey Parker** (*The Military Revolution*, 1988) supplies the fullest single-volume statement and global test of the thesis. Parker relocates causal weight from Roberts's tactical reforms to the *trace italienne* and the siege-driven explosion in army size, logistics, and state finance. His chapters on the export of the system ("abroad") document both European successes in the Americas and the real but limited and late edge against the great Asian empires and "gunpowder empires." The source page contains the detailed chapter-by-chapter claims.
 
 **Japan** is a striking parallel (Mason & Caiger, [[mason-caiger-history-of-japan|*A History
 of Japan*]]). The matchlock musket, introduced by the **Portuguese** in the 1540s, was

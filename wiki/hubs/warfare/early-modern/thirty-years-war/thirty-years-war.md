@@ -13,7 +13,7 @@ outcome: "Swedish operational ascendancy; the military revolution demonstrated"
 scale_immediate: regional
 scale_consequential: civilizational
 event_page: "[[thirty-years-war-1618]]"
-key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), ch. 1"
+key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), ch. 1; Parker, The Military Revolution (1988), ch. 1 (Gustavus as full demonstration of the revolution)"
 last_updated: 2026-06-23
 tags: [warfare, campaign-analysis, early-modern, western-europe, thirty-years-war]
 ---
@@ -32,8 +32,7 @@ broader political/religious narrative lives on the [[thirty-years-war-1618|event
 Gustavus Adolphus combined **lighter mobile field artillery, disciplined salvo (volley) fire from
 shallow linear formations, smaller flexible tactical units, and the close integration of cavalry
 shock with infantry and gun firepower** — a combined-arms system that broke the dominance of the deep
-Spanish *tercio* and set the pattern European armies would follow for a century. Doughty & Gruber
-make his army the hinge of the military revolution.
+Spanish *tercio* and set the pattern European armies would follow for a century. Doughty & Gruber make his army the hinge of the military revolution. Parker (1988, ch. 1) concurs: Breitenfeld demonstrated the full offensive potential of the Dutch volley system plus light artillery and aggressive cavalry when applied at scale.
 
 ## Battle Analyses (this hub)
 
@@ -43,4 +42,4 @@ make his army the hinge of the military revolution.
 ## Related
 
 - `part_of:` [[thirty-years-war-1618]] · commander: [[gustavus-adolphus]] · `demonstrated:` [[military-revolution]]
-- [[early-modern]] — period · [[doughty-gruber-warfare-western-world-v1-1996]] — source.
+- [[early-modern]] — period · [[doughty-gruber-warfare-western-world-v1-1996]] — source · [[sources/parker-the-military-revolution-1988]] — source (detailed restatement of Roberts + fortification emphasis; Breitenfeld as vindication of volley + combined arms).
