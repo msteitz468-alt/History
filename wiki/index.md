@@ -1,6 +1,6 @@
 # World History Wiki — Master Catalog
 
-**New (2026-06-23):** Civil War Infantry Tactics (Earl J. Hess 2015) ingested — 4 pages created/updated (source + actor Hess + linear-tactics + civil-war-infantry-tactics concepts); 6 Range Primary Claims blocks integrated; ACW warfare hub + battle pages enriched with verbatim short-range linear practice, multiple maneuvers, column/line use. See [[sources/hess-civil-war-infantry-tactics-2015]] and log.md.
+**New (2026-06-24):** Verbruggen, *The Art of Warfare in Western Europe During the Middle Ages* (1997 trans.) ingested (Tier 4 high-middle-ages operational classic; Deployed Subagent Strategy: source page with Section Plan + 6 staggered ranges on ~72k-line extraction + main reconciliation). Created source + 2 war hubs + 2 full template battle analyses (Courtrai 1302, Bouvines 1214 with OOB tables, 9 FM 3-0 principles, Modern Doctrine Parallels, verbatim Verbruggen grounding); new concepts (conroi-tactical-unit, scara-carolingian-cavalry, knightly-cavalry-organisation-and-tactics); enriched events (Courtrai/Bouvines), warfare-hub, strategy/tactics hubs, Crusades hub, source synthesis. 0 broken links. Source + .txt filed to raw/3. Middle Ages/. Outstanding ✅. See [[sources/verbruggen-art-of-warfare-western-europe-middle-ages-1997]] and log.md.
 
 > **New here? Start at [[home|the Home portal]].** This page is the flat, categorical index of every
 > page by type. To navigate by **time**, use [[master-timeline|the Master Timeline]]; by **theme,

@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: regional
 causes: [[[philip-iv-capetian|Philip IV's annexation of Flanders]], the social conflict between patricians and craftsmen, the Bruges Matins (May 1302)]
 consequences: [the survival of [[county-of-flanders|Flanders]] as a fief, the breaking of patrician power, a blow to the military supremacy of mounted chivalry]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: [event, high-middle-ages, late-middle-ages, western-europe]
 ---
 
@@ -64,6 +64,19 @@ Militarily, Courtrai (with the contemporary infantry victories of the Scots and 
 "a heavy blow" to the assumption of noble military superiority: "New weapons, new social
 relations and new values had definitively eroded the hegemony of the nobles." It belongs with
 the early signs of the later-medieval **infantry revolution**.
+
+## Sources and Historiography
+
+Primary tactical reconstruction: [[sources/verbruggen-art-of-warfare-western-europe-middle-ages-1997|Verbruggen, *The Art of Warfare in Western Europe During the Middle Ages*]] (detailed use of the Courtrai chest, Heelu's vernacular poem, and Flemish urban militia organisation). Verbruggen places Courtrai as the landmark of infantry revival: "The splendid victory of the Flemish foot-soldiers in the battle of Courtrai, 11 July 1302, won them a place in history as the first to defeat a great knightly army since Roman times." The foot-soldiers "scored a brilliant victory, and became conscious of their own strength." Factors included social/economic maturation, "keen national feeling" in Flemish cities increasing "sense of fellow-feeling and [making] them stubborn and tenacious in war," and the knights having "passed their peak as a social class."
+
+**Key Verbruggen notes from this source range**:
+- Hundreds of knights fought dismounted "with the foot-soldiers at Courtrai, Arques, and Mons-en-Pévèle."
+- "Medieval foot-soldiers were apt to suffer from an inferiority complex and to lack confidence in their own ability" due to lowly status and lack of cohesiveness compared to knights, but these conditions changed for the Flemings.
+- Source criticism: "what is good in poetry does not necessarily mean good tactics, and historical accounts sometimes have to stress that, contrary to what the poets say, the fight was started in a proper and orderly fashion; often also they attribute a defeat to the fact that the ranks were thrown into disorder."
+
+See also the dedicated tactical analysis page.
+
+**See detailed staff-college analysis:** [[hubs/warfare/high-middle-ages/courtrai-war/battle-of-courtrai-1302|Battle of Courtrai — Tactical Analysis]] (expanded with verbatim Verbruggen extracts, OOB, phases, and nine principles analysis).
 
 ## Related
 
