@@ -58,10 +58,10 @@ This is the primary Tier 3 source for the classical antiquity wing of the warfar
 
 **Actors:**
 - [[delbruck-hans]] (update with this as key work)
-- [[alexander-the-great]], [[hannibal-barca]], [[scipio-africanus]], [[caesar-gaius-julius]], [[epaminondas]], [[pericles]], [[pyrrhus]], [[xerxes-i]], etc. (add or deepen military assessments)
+- [[alexander-the-great]], [[hannibal]], [[scipio-africanus]], [[julius-caesar]], [[epaminondas]], [[pericles]], [[pyrrhus-of-epirus]], [[xerxes-i]], etc. (add or deepen military assessments)
 
 **Concepts:**
-- [[phalanx]], [[hoplite-warfare]], [[sarissa]], [[manipular-legion]], [[cohort-tactics]], [[sachkritik]] (or delbruck-method / critical-examination), [[annihilation-and-exhaustion]] (background), army-strengths-calculation, oblique-order, double-envelopment, etc.
+- [[phalanx]], [[hoplite-warfare]], [[persian-army]], [[periclean-strategy]], [[mercenaries-in-greek-classical]], [[sachkritik]], [[annihilation-and-exhaustion]] (background); sarissa, manipular-legion, cohort-tactics, army-strengths-calculation, oblique-order, double-envelopment, etc. (covered inline, not yet standalone pages)
 
 **Periods:**
 - Update [[periods/archaic-period]], [[periods/classical-antiquity]] historiography and military development sections.
