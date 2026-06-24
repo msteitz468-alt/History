@@ -13,7 +13,7 @@ outcome: "French decisive dominance (1805–1809) then catastrophic collapse (18
 scale_immediate: civilizational
 scale_consequential: global
 event_page: "[[napoleonic-wars]]"
-key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), chs. 6–9; The Campaigns of Napoleon (Chandler 1966) for operational detail + OOBs + system analysis; Tactics and the Experience of Battle in the Age of Napoleon (Muir 1998) for battalion/regimental tactics, arm interaction, command realities, morale/cohesion, and soldier experience across all arms"
+key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), chs. 6–9; The Campaigns of Napoleon (Chandler 1966) for operational detail + OOBs + system analysis; Tactics and the Experience of Battle in the Age of Napoleon (Muir 1998) for battalion/regimental tactics...; Napoleon’s Last Victory and the Emergence of Modern War (Epstein 1994) for the 1809 campaign (Wagram as last victory + emergence of modern operational warfare with corps system in full use across theaters)"
 last_updated: 2026-06-23
 tags: [warfare, campaign-analysis, long-19th-century, western-europe, eastern-europe, napoleonic-wars]
 ---
@@ -38,6 +38,7 @@ zenith; and then its **limits and collapse**.
 
 - [[hubs/warfare/long-19th-century/napoleonic-wars/battle-of-austerlitz|Austerlitz (1805)]] — the masterpiece; the bait-and-counterstroke on the Pratzen.
 - [[hubs/warfare/long-19th-century/napoleonic-wars/battle-of-jena-auerstedt|Jena–Auerstedt (1806)]] — the annihilation of the Prussian army in a day.
+- [[hubs/warfare/long-19th-century/napoleonic-wars/battle-of-wagram-1809|Wagram (1809)]] — Napoleon's last clear victory; emergence of modern operational warfare (corps system, distributed maneuver, attrition on broad fronts).
 - [[hubs/warfare/long-19th-century/napoleonic-wars/russian-campaign-1812|Russian Campaign / Borodino (1812)]] — the system's culminating point and ruin.
 - [[hubs/warfare/long-19th-century/napoleonic-wars/battle-of-leipzig|Leipzig (1813)]] — coalition mass overwhelms the system.
 - [[hubs/warfare/long-19th-century/napoleonic-wars/battle-of-waterloo|Waterloo (1815)]] — the final defeat.
