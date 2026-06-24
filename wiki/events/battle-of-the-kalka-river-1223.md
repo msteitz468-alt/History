@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the Mongol western reconnaissance campaign under Jenghiz Khan, the flight of the Polovtsy nomads westward]
 consequences: [destruction of the Russian-Polovtsian coalition army, first historical contact between the Russians and the Mongols]
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-06-24
 tags: [event, high-middle-ages, eastern-europe, steppe]
 ---
 # Battle of the Kalka River
@@ -42,3 +42,13 @@ Due to poor coordination, mutual jealousy, and tactical division among the Russi
 
 ## Historiography
 The Battle of the Kalka River is recorded in detail in both the Russian chronicles (such as the *Primary Chronicle* and local regional chronicles) and Islamic sources. Historians emphasize that the battle was the first warning of the Mongol threat, which the Rurikid princes failed to heed, returning instead to their internecine appanage disputes.
+
+## Related
+
+- **Tactical analysis:** [[hubs/warfare/high-middle-ages/mongol-conquests/battle-of-kalka-river-1223]] — [[may-mongol-art-of-war-2016|May]]: classic feigned retreat over eight days; Kipchak stampede through Rus' camp; platform execution; intelligence harvest without conquest.
+- [[subedei]] · [[jebe]] · [[hubs/warfare/high-middle-ages/mongol-conquests/mongol-conquests|Mongol Conquests hub]]
+
+## Related
+
+- **Tactical analysis:** [[hubs/warfare/high-middle-ages/mongol-conquests/battle-of-kalka-river-1223]]
+- [[may-mongol-art-of-war-2016]]

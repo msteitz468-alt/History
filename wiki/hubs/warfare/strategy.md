@@ -1,7 +1,7 @@
 ---
 title: Strategy
 hub_type: sub-hub
-last_updated: 2026-06-23
+last_updated: 2026-06-24
 tags: [hub, warfare, strategy]
 ---
 
@@ -30,6 +30,12 @@ Certain patterns appear across widely separated societies and eras (drawn from t
 While the above recur, the actual "ways of war" and strategic cultures differ sharply:
 
 - **Nomadic vs. agrarian/maritime bases**: Mongol decimal horse-archer armies emphasized mobility and operational speed; Roman legions emphasized discipline, engineering, and logistics; Ottoman forces integrated gunpowder with established structures.
+
+### Mongol mobility and columns
+
+[[may-mongol-art-of-war-2016|Timothy May]] frames Mongol **strategy** as endurance-based **high mobility**: the average trooper possessed "three to five mounts" so he "could remain mobile even if one or two of his mounts were lost or exhausted," producing a style of warfare "not employed again until the twentieth century, when armies became mechanized." (L636–637) Campaigns were timed to rigid schedules yet commanders retained latitude within them; Denis Sinor: "the essence of it lay in a very rigid timetable to which all Mongol commanders were expected to adhere strictly." (L643–646)
+
+Invading armies advanced in **multiple columns** that converged on the enemy's center of power: against the Khwarazmian Empire Chinggis Khan used "at least four and perhaps five routes"; in Russia Sübedei, Batu, and Möngke approached from three directions, with further three-pronged advances into Eastern Europe — ultimately targeting Samarqand and Budapest. (L656–657) Scouts and pre-planned schedules let the Mongols "march divided but fight united," overwhelming opponents "by applying pressure to several points simultaneously" before concentrating for decisive battle. (L658) Preferred method: **annihilate the field army** first, then pursue enemy leaders to prevent rallying — see [[mongol-tactics]] and [[mongol-conquests]].
 
 - **Relation of warrior to state**: Varied from steppe warrior elites to citizen-soldier hoplites to professional standing armies of the fiscal-military state.
 

@@ -9,8 +9,8 @@ affiliated_with: [[[mongol-empire]], [[genghis-khan]], [[pastoral-nomadism]]]
 opposed_by: ["the Jin and Song", "the Khwarazmian Empire", [[mamluk-sultanate|the Mamluks]], "the Rus' and the Latin West"]
 key_events: [the conquests of Khwarazm/Jin/Song, the western campaign, the defeat at Ain Jalut 1260]
 key_processes: [[[mongol-conquests-13th-century]], [[pastoral-nomadism]]]
-sources_ingested: 5
-last_updated: 2026-06-22
+sources_ingested: 6
+last_updated: 2026-06-24
 tags: [actor, military-force, high-middle-ages, late-middle-ages, steppe]
 ---
 
@@ -74,12 +74,24 @@ of the empire, and the administrative decrees governing its training, communicat
 supply are, Morgan shows, the very texts later misremembered as the [[the-mongol-yasa|Great
 Yasa]]. Its limits — logistics and pasture — were as historically decisive as its victories.
 
+## May (2016) — organization and scale
+
+[[may-mongol-art-of-war-2016|Timothy May]] provides the operational anatomy Morgan summarizes:
+
+- **Decimal corps:** three field corps — *baraghun ghar* (right), *je'un ghar* (left), *töb/qol* (centre/pivot) — mirroring imperial command (Bo'orchu, Muqali, Naya under Chinggis).
+- **Recruitment:** not every male mobilized at once; census-driven conscription (1:7 households in Mongolia at 1206 ≈ 95,000 troops; 1:10 in Iran; 1:20 among Han Chinese). Möngke's peak: ~930,000+ men empire-wide (90 *tümet* in China alone at ~60% strength).
+- **[[keshig]]:** 10,000-strong officer pipeline and hostage system; keshik rank = one step up in field army.
+- **[[tamma]]:** frontier occupation force with *alginci* scouts — mobile "castle" on the steppe–sown border.
+- **Cerik & engineers:** sedentary garrison infantry and Muslim/Chinese siege corps (from 1214); without them, nomads could not hold cities.
+- **Doctrine:** [[mongol-tactics]] perfected steppe maneuvers; [[mongol-siege-warfare]] standardized reduction of fortresses before capitals.
+
 ## Related
 
 - [[mongol-empire]] · [[genghis-khan]] — the empire and founder it served.
 - [[pastoral-nomadism]] — the society that produced it; [[mongol-conquests-13th-century]] — its campaigns.
 - [[the-mongol-yasa]] — the decrees behind the "Yasa" myth; [[battle-of-ain-jalut-1260]] — the limit it met.
-- [[morgan-the-mongols]] — the source.
+- [[morgan-the-mongols]] · [[may-mongol-art-of-war-2016]] — sources.
+- [[hubs/warfare/high-middle-ages/mongol-conquests/mongol-conquests|Mongol Conquests hub]] — battle analyses.
 - [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]] — primary landing page for all military history and strategy content (steppe warfare, operational art, etc.).
 
 **Claims from Secret History (de Rachewiltz, ll. 4001–7000)**:

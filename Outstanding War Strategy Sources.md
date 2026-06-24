@@ -85,7 +85,7 @@ Livy, *Hannibal's War* · the CAH volumes · Cold War (Westad; Leffler–Westad 
 
 | Source | Flag | Status | Notes |
 |---|---|---|---|
-| *The Mongol Art of War* — Timothy May | `[BUY]` | ❌ | ⭐ Directly serves the existing **Mongol Conquests / Ain Jalut** branch (≠ his *Mongol Conquests*, already held). |
+| *The Mongol Art of War* — Timothy May | `[BUY]` | ✅ | ⭐ Ingest complete 2026-06-24 (Deployed Subagent Strategy: source page + 3 ranges + main reconciliation + 5 template-grade hub analyses). Built **Mongol Conquests war hub** from scratch: Chakirma'ut 1204, Kalka 1223, Caizhou 1234, Baghdad 1258, **Ain Jalut 1260** (full template upgrade). New actors [[subedei]], [[jebe]], [[hulegu]], [[kitbuqa]]; concepts [[mongol-tactics]], [[mongol-siege-warfare]], [[keshig]], [[tamma]], [[nerge]]; enriched [[mongol-army]], strategy/tactics hubs. 0 broken links targeted. Source + EPUB + .txt filed to raw/3. Middle Ages/. |
 | *The Art of Warfare in Western Europe during the Middle Ages* — J. F. Verbruggen | `[BUY]` | ❌ | The operational classic for medieval Western warfare. |
 | *Victory in the East* — John France | `[BUY]` | ❌ | Operational analysis of the First Crusade. |
 | *Western Warfare in the Age of the Crusades, 1000–1300* — John France | `[BUY]` | ❌ | Synthesis of high-medieval campaigning. |
@@ -156,7 +156,7 @@ Livy, *Hannibal's War* · the CAH volumes · Cold War (Westad; Leffler–Westad 
 
 ## Notes & priorities
 
-- **Buy-first quick wins (upgrade existing pages immediately):** ~~Goldsworthy *Fall of Carthage* + *Cannae*~~ ✅ both ingested (the full Punic Wars cluster — all three war hubs + 11 battle/siege analyses — is now built); Timothy May *Mongol Art of War* (Ain Jalut page) remains the top outstanding quick win.
+- **Buy-first quick wins (upgrade existing pages immediately):** ~~Goldsworthy *Fall of Carthage* + *Cannae*~~ ✅; ~~Timothy May *Mongol Art of War*~~ ✅ (full Mongol Conquests hub + 5 analyses). Next quick wins: Keegan *Face of Battle*; May-adjacent *Mongol Art of War* gaps filled — consider Verbruggen *Art of Warfare in Western Europe* or Timothy May's remaining ❌ Tier 4 medieval ops titles.
 - **Backbone first:** the West Point History of Warfare + Esposito atlas + Clausewitz (Howard/Paret) + Sun Tzu + the new & old *Makers of Modern Strategy* establish the analytical frame for everything else.
 - **Complete the Cambridge spine:** the collection already holds *Cambridge History of War* v2 & v4 — sourcing the remaining volumes gives a uniform period backbone.
 - This list was compiled from subject knowledge; **verify current editions/translations at acquisition** (esp. Clausewitz = Howard/Paret; Sun Tzu = Griffith/Sawyer; Delbrück = Univ. of Nebraska reprint).

@@ -1,7 +1,7 @@
 ---
 title: "Warfare & Strategy Hub"
 hub_type: hub
-last_updated: 2026-06-23
+last_updated: 2026-06-24
 tags: [hub, warfare, strategy]
 ---
 
@@ -36,7 +36,7 @@ Narrative/historiography lives in the main `events/` page; the `hubs/warfare/` p
   - [[hubs/warfare/classical-antiquity/third-punic-war/third-punic-war|Third Punic War]] hub — [[hubs/warfare/classical-antiquity/third-punic-war/siege-of-carthage-149-146bce|Siege of Carthage]]
 - **The Medieval cluster** (from the [[cambridge-history-of-war-v2|Cambridge History of War, Vol. 2]], warfare-spec pass 2026-06-24):
   - [[hubs/warfare/high-middle-ages/crusades/crusades|The Crusades]] hub — [[hubs/warfare/high-middle-ages/crusades/siege-of-antioch-1097|Siege of Antioch (1097–98)]]
-  - [[hubs/warfare/high-middle-ages/mongol-conquests/mongol-conquests|Mongol Conquests]] hub — [[hubs/warfare/high-middle-ages/mongol-conquests/battle-of-ain-jalut-1260|Ain Jalut (1260)]]
+  - [[hubs/warfare/high-middle-ages/mongol-conquests/mongol-conquests|Mongol Conquests]] hub ([[may-mongol-art-of-war-2016|May 2016]]) — [[hubs/warfare/high-middle-ages/mongol-conquests/battle-of-chakirmaut-1204|Chakirma'ut (1204)]] · [[hubs/warfare/high-middle-ages/mongol-conquests/battle-of-kalka-river-1223|Kalka (1223)]] · [[hubs/warfare/high-middle-ages/mongol-conquests/siege-of-caizhou-1234|Caizhou (1234)]] · [[hubs/warfare/high-middle-ages/mongol-conquests/siege-of-baghdad-1258|Baghdad (1258)]] · [[hubs/warfare/high-middle-ages/mongol-conquests/battle-of-ain-jalut-1260|Ain Jalut (1260)]]
   - [[hubs/warfare/late-middle-ages/hundred-years-war/hundred-years-war|Hundred Years' War]] hub — [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-crecy-1346|Crécy (1346)]] · [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-agincourt-1415|Agincourt (1415)]]
 
 More periods, wars, and battles will be added following the same template. The main event pages (e.g. [[events/battle-of-cannae-216bce]]) now link back to these detailed analyses.

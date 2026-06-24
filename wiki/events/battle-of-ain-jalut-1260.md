@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: hemispheric
 causes: [the Mongol invasion of Syria (1260), the sack of Baghdad (1258), Hülegü's withdrawal eastward]
 consequences: [the first major check to Mongol expansion, the survival of Mamluk Egypt and Islam in the Near East, the rise of Baybars]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-24
 tags: [event, high-middle-ages, levant]
 ---
 
@@ -62,4 +62,4 @@ the Mamluks then defended for decades.
 - `caused_by:` the [[mongol-empire|Mongol]] invasion and the sack of Baghdad (1258).
 - `produced:` the consolidation of the [[mamluk-sultanate|Mamluk Sultanate]] and the rise of Baybars.
 - `analogous_to:` the later Mamluk victory at Homs (1281) — the Euphrates frontier held.
-- **Detailed Tactical Analysis**: [[hubs/warfare/high-middle-ages/mongol-conquests/battle-of-ain-jalut-1260|West Point-style analysis of the Mamluk ambush, terrain use, and Mongol errors]].
+- **Detailed Tactical Analysis**: [[hubs/warfare/high-middle-ages/mongol-conquests/battle-of-ain-jalut-1260|Staff-college analysis]] — [[may-mongol-art-of-war-2016|May]]: hard-fought battle; Syrian desertions pivotal; "turning point" framed mainly by Möngke's death and Hülegü's withdrawal; Mamluks as Kipchak steppe-trained heavy cavalry.

@@ -1,7 +1,7 @@
 ---
 title: Tactics and Battle Strategies
 hub_type: sub-hub
-last_updated: 2026-06-23
+last_updated: 2026-06-24
 tags: [hub, warfare, tactics, strategy]
 ---
 
@@ -26,7 +26,7 @@ Many principles recur, even as technology changes the specific tools:
 - **Detailed Analysis**: [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae|Battle of Cannae – Tactical Analysis]]
   - Narrative: [[battle-of-cannae-216bce|Cannae (216 BCE)]] — Hannibal's double envelopment. Classic example of using terrain, feigned weakness, and coordination of infantry and cavalry.
 - **[[battle-of-gaugamela-331bce|Gaugamela (331 BCE)]]** — Alexander's oblique order and cavalry hammer-and-anvil against the Persian center and flanks.
-- **Mongol operational art** (see [[mongol-army]] and [[mongol-conquests-13th-century]]) — High tempo, reconnaissance, deception, and the ability to operate on multiple axes simultaneously.
+- **Mongol operational art** — [[mongol-tactics]] (arrow storm, caracole, feigned retreat, double envelopment, open-the-end, Fabian avoidance, deception, weather magic) and [[mongol-siege-warfare]] (circumvallation, engineer corps, conscripted levies); grounded in [[may-mongol-art-of-war-2016|May 2016]]. See also [[mongol-army]], [[battle-of-kalka-river-1223]], and [[mongol-conquests]] for campaign context; operational strategy (columns, annihilation, leader pursuit) in [[hubs/warfare/strategy|Mongol mobility and columns]].
 - **Infantry revival in the Late Middle Ages** — English longbow + dismounted men-at-arms (e.g., Crécy, Poitiers, Agincourt) and Swiss pike squares defeating feudal cavalry.
 - **Early gunpowder tactics** — The shift from massed shot to combined pike-and-shot formations, and the development of volley fire and drill.
 
@@ -46,6 +46,7 @@ For many more specific battles, see the live event lists in the main [[hubs/warf
 - [[hubs/warfare/strategy|Strategy]] (higher-level ends and traditions)
 - [[military-revolution]]
 - [[mongol-army]]
+- [[mongol-tactics]] · [[mongol-siege-warfare]]
 - [[strategic-practice-across-civilizations]]
 
 This page is intended as a growing resource for the tactical and operational layer of the larger warfare section.
