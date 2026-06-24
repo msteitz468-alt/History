@@ -147,7 +147,7 @@ Livy, *Hannibal's War* · the CAH volumes · Hans Delbrück, *History of the Art
 
 | Source | Flag | Status | Notes |
 |---|---|---|---|
-| *The Evolution of Nuclear Strategy* — Lawrence Freedman | `[BUY]` | ❌ | The standard history of nuclear strategic thought. |
+| *The Evolution of Nuclear Strategy* — Lawrence Freedman | `[BUY]` | ✅ | Ingested 2026-06-24 (Deployed Subagent Strategy: source page + 8 staggered ranges on ~17k-line body + main reconciliation). Created/updated: [[sources/freedman-evolution-of-nuclear-strategy-1981]], [[actors/freedman-lawrence]], [[actors/brodie-bernard]], [[actors/kahn-herman]], [[actors/wohlstetter-albert]], [[actors/gallois-pierre]], [[actors/beaufre-andre]]; core concepts [[concepts/nuclear-strategy]], [[concepts/massive-retaliation]], [[concepts/assured-destruction]], [[concepts/counterforce]], [[concepts/countervalue]], [[concepts/escalation-dominance]], [[concepts/limited-nuclear-war]], [[concepts/flexible-response]]; enriched [[concepts/deterrence]], [[processes/nuclear-deterrence]], [[periods/cold-war]], [[hubs/warfare/strategy]]. All claims verbatim-grounded; 0 broken links to established names. Filed to raw/4. Modern Times/. |
 | *Arms and Influence* — Thomas C. Schelling | `[BUY]` | ❌ | Coercion theory; foundational for deterrence pages. |
 | *Counterinsurgency Warfare: Theory and Practice* — David Galula | `[BUY]` | ❌ | The COIN classic. |
 | *The Army and Vietnam* — Andrew F. Krepinevich | `[BUY]` | ❌ | Doctrine/operations critique of the U.S. in Vietnam. |
