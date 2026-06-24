@@ -18,7 +18,7 @@ outcome: "Decisive English victory; opens the way to Henry V's conquest of Norma
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[events/battle-of-agincourt-1415]]"
-key_sources: "CHW Vol. 2 ch. 13 (Anne Curry); Gesta Henrici Quinti; Curry, Agincourt: A New History (2005, outstanding); Curry, The Battle of Agincourt: Sources and Interpretations (2000)"
+key_sources: "CHW Vol. 2 ch. 13 (Anne Curry); Keegan, The Face of Battle (1976), ch. 2; Gesta Henrici Quinti; Curry, Agincourt: A New History (2005, outstanding); Curry, The Battle of Agincourt: Sources and Interpretations (2000)"
 last_updated: "2026-06-24"
 tags: [warfare, battle-analysis, late-middle-ages, western-europe, hundred-years-war]
 ---
@@ -149,6 +149,44 @@ medieval mirror of modern warnings about culmination and over-stacking. The pris
 episode anchors discussions of the **law of armed conflict** and command under perceived threat
 (linking to the [[just-war|just-war]] and customs-of-war material in CHW Vol. 2 ch. 22).
 
+## 8b. The Face of Battle — Keegan's Human Mechanics
+
+[[keegan-face-of-battle-1976|John Keegan]] made Agincourt the first of his three case studies in
+*The Face of Battle* (1976), and his reconstruction (by the [[face-of-battle-method|physical-evidence
+method]], since no common soldier's voice survives) substantially supplies the phase-and-experience
+layer the operational sources leave thin:
+
+- **What the longbow actually did.** Against plate, not much: fifteenth-century armour "was composed
+  almost completely of steel sheet" shaped "to offer a glancing surface," so high-trajectory arrows
+  "cannot… have done a great deal of harm… to the men-at-arms." Their effect was **moral and
+  acoustic** — "a weird clanking and banging on the bowed heads and backs of the French." Horses,
+  armoured only on the face and chest, were far more vulnerable; the arrow-storm channelled and
+  enraged the French rather than shooting them down.
+- **The killing was done by the crush, not the arrow.** Keegan's central mechanism: the French
+  first division, packed eight to ten deep, suffered "unrelenting pressure from the rear… driving
+  them steadily into the weapon-strokes of the English," denying each man "that margin of room…
+  essential if men are to defend themselves." Fallen men became "a very effective stumbling block,"
+  and the **tumbling effect** "would have become cumulative."
+- **The "wall of dead" demythologised.** Bodies "do not… pile into walls, but lie in shapeless
+  sprawling hummocks"; the chronicle image of six-foot heaps is "ludicrous rather than grisly." What
+  happened was **envelopment** — archers and men-at-arms "toppled them over on top of each other…
+  and killed them on the ground." The unarmoured archers, swinging mallets and axes, did the close
+  butchery "two or three against one," each "act of execution… only a few seconds."
+- **The killing of the prisoners, re-read.** Comprehensible "in harsh tactical logic" (a feared
+  third charge plus the baggage-raid), but Keegan argues two hundred archers could not have
+  slaughtered well over a thousand armoured men; the order "was intended by its threat to terrorize
+  them into abject inactivity" — in practice "a noisy and bloody cattle-drive to the rear," lethal
+  but "not… in thousands, perhaps not even in hundreds."
+- **Compulsion and the wounded.** Both armies were driven as much by **compulsion** as courage — the
+  English by hunger and cold ("movement at least meant… body heat"), many French swept in "with all
+  the free-will of a man… going the wrong way on a moving-staircase." The French wounded faced a far
+  graver prognosis than the English: penetrating wounds meant peritonitis and sepsis, falls in
+  armour meant "broken backs," and exposure overnight in near-freezing temperatures killed many
+  where they lay.
+
+This layer turns the page's earlier "the volume gives no phase detail" caveat from a gap into a
+genuinely reconstructed account of the conduct of the fight.
+
 ## 9. Historiography and Primary Sources
 
 The chaplain's eyewitness *Gesta Henrici Quinti* is the indispensable English source, partisan to
@@ -162,7 +200,9 @@ remains the central moral and evidentiary controversy.
 strategic frame, and the coordination failure with full authority, but — by design — not a
 phase-by-phase reconstruction or settled orders of battle within these pages. The phase narrative
 and figures above follow the consensus of Curry's own dedicated studies; numbers are kept
-qualitative where the volume does not fix them. For the full reconstruction see **Anne Curry,
+qualitative where the volume does not fix them. Note that the **conduct and mechanics** of the fight
+(section 8b) are now well grounded in [[keegan-face-of-battle-1976|Keegan]]'s reconstruction —
+ingested 2026-06-24 — so the remaining gap is operational/numerical, not experiential. For the full reconstruction see **Anne Curry,
 *Agincourt: A New History*** (2005) and **Curry, *The Battle of Agincourt: Sources and
 Interpretations*** (2000) — **flagged outstanding** in the roadmap (note: held only via this survey
 chapter).

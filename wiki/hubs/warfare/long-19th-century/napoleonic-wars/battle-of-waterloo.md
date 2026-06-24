@@ -18,8 +18,8 @@ outcome: "Decisive Coalition victory; Napoleon abdicated four days later; Napole
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[napoleonic-wars]]"
-key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), ch. 9"
-last_updated: 2026-06-23
+key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), ch. 9; Keegan, The Face of Battle (1976), ch. 3"
+last_updated: 2026-06-24
 tags: [warfare, battle-analysis, long-19th-century, western-europe, napoleonic-wars]
 ---
 
@@ -139,6 +139,44 @@ The reverse-slope defense remains a recognized technique in modern ground combat
 The Grouchy failure — a subordinate commander who refused to exercise initiative and march toward the decisive battle — is a case study in the tension between mission orders and hierarchical command. Prussian military reformers (Scharnhorst, Gneisenau, Clausewitz) drew explicit lessons from the Napoleonic era about the need for junior commanders capable of independent judgment. The German Auftragstaktik (mission-type tactics) that later characterized the Prussian and Imperial German army was partly a response to the systemic failure Grouchy exemplified: a command culture that waited for explicit orders rather than responding to unfolding operational reality.
 
 The Waterloo campaign also illustrates the decisive effect of inter-army coordination — the same principle that underpinned the Trachenberg Plan in 1813. Coalition cohesion, maintained through political agreement and personal commitment between Wellington and Blücher, proved more robust than Napoleon's assumption that he could defeat each in turn.
+
+## 8b. The Face of Battle — Keegan's Human Mechanics
+
+[[keegan-face-of-battle-1976|John Keegan]] made Waterloo the central case of *The Face of Battle*
+(1976), drawing on the unmatched deposit of British personal testimony to reconstruct the
+[[face-of-battle-method|experience and mechanics]] beneath the operational narrative above. He
+analyses the day not as five phases (which "were not perceived at the time by any of the
+combatants") but by **categories of combat**:
+
+- **Cavalry versus squares.** Steady infantry in square almost always beat cavalry, because the
+  horses refused the steel: cuirassiers' mounts "came to a standstill, shaking and covered with
+  foam, at about twenty yards distance." The cavalry "got a somewhat new direction, which carried
+  them to either flank… which they all preferred to… riding on to our bayonets." Numbers explain it:
+  a square's face presented ~140 muskets to a squadron's ~18 sabres.
+- **Cavalry versus artillery.** Horsemen could "take" guns but not remove them, because "no
+  cavalryman… seemed prepared" to dismount under fire; the crews fled to the squares and returned to
+  fire into the cavalry's backs — "almost wholly one-sided."
+- **Infantry columns broke from the rear.** Keegan's most striking finding: the French assault
+  columns (and the Guard) collapsed because "it was at the back of the columns, not the front, that
+  the collapse began." Men in the rear "could see nothing," felt only "tremors of movement, edging
+  them rearward," and became a Canetti-style **"flight crowd."** "La Garde recule" was thus a
+  crowd-psychology event, not a clash of physical mass.
+- **Standing to be cannonaded.** The day's worst ordeal was passive: the Inniskillings lost ~450 of
+  750 men "standing motionless to be cannonaded." Keegan calls this "about the most unpleasant thing
+  that can happen to soldiers"; men begged, "are we to be massacred? Let us go and fight them."
+
+On the **human face**, Keegan foregrounds factors the operational account omits: pervasive
+**fatigue** (regiments that had marched fifty miles in two days and slept in the rain), suffocating
+**smoke** ("we could not see ten yards off") and **noise** that left Mercer "almost deaf";
+**drink** (gin guzzled in the ranks — though he judges alcohol had "no more than an indirect
+effect"); and naked **compulsion** (British cavalry herding unreliable allied troops at sword-point,
+officers and sergeants posted behind the ranks "to keep individual soldiers… from running away").
+What ultimately held the British line, he concludes, was **group solidarity, the colours, and
+officers' leadership by personal example** — for whom "honour" had become "an almost wholly abstract
+ideal, a matter of comportment, of exposure to risk," demonstrated by **wounds received** rather
+than enemies slain. The contrast with [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-agincourt-1415|Agincourt]] is explicit: at Waterloo smoke and gunfire dominate where Agincourt's noise
+was "chiefly human and animal," and single combat is now an accident of broken formations rather
+than the sought-after heart of battle.
 
 ## 9. Historiography and Primary Sources
 

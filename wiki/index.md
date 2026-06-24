@@ -52,6 +52,11 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 | `events/siege-of-antioch-1097.md` | Siege of Antioch | event | high-middle-ages | (new narrative page; reciprocal to warfare analysis) |
 | `events/battle-of-crecy-1346.md` | Battle of Crécy | event | late-middle-ages | (new narrative page; reciprocal to warfare analysis) |
 | `events/battle-of-agincourt-1415.md` | Battle of Agincourt | event | late-middle-ages | (new narrative page; reciprocal to warfare analysis) |
+| `sources/keegan-face-of-battle-1976.md` | The Face of Battle (Keegan, 1976) | source | — | (the experiential "face of battle" method; Agincourt/Waterloo/Somme case studies) |
+| `concepts/face-of-battle-method.md` | The Face of Battle (Keegan's Method) | concept | all | (critique of the "battle piece"; the human/mechanics layer of the warfare hub) |
+| `hubs/warfare/world-wars-era/first-world-war/first-world-war.md` | First World War — campaign hub | campaign hub | world-wars-era | (single-battle entry pending the WWI operational sources) |
+| `hubs/warfare/world-wars-era/first-world-war/battle-of-the-somme-1916.md` | The Somme, 1 July 1916 | battle analysis | world-wars-era | (Keegan ch.4: failed bombardment, walking men vs machine guns, ~60k casualties; full template) |
+| `events/battle-of-the-somme-1916.md` | The Somme (First Day) | event | world-wars-era | (new narrative page; reciprocal to warfare analysis) |
 | `cold-war.md` | Cold War | 1945–1991 CE | moderate |
 | `contemporary.md` | Contemporary | 1991–present | weak |
 

@@ -27,6 +27,8 @@ Each battle analysis page delivers **West Point / staff-college level examinatio
 
 Use the enhanced template at `hubs/warfare/templates/battle-analysis-template.md` (aim for 1500–4000+ words per analysis, with tables where data allows).
 
+The analytical charter for the **human/experiential layer** of these pages is [[face-of-battle-method|the face of battle]] ([[keegan-face-of-battle-1976|Keegan, 1976]]): what combat did to the body, and why men stood or ran — recovered by attending to all participants and reconstructing from physical evidence (Delbrück / "Inherent Military Probability"), not by repeating the conventional "battle piece."
+
 Narrative/historiography lives in the main `events/` page; the `hubs/warfare/` page provides the dedicated analytical deep dive.
 
 **Current examples**:
@@ -38,6 +40,9 @@ Narrative/historiography lives in the main `events/` page; the `hubs/warfare/` p
   - [[hubs/warfare/high-middle-ages/crusades/crusades|The Crusades]] hub — [[hubs/warfare/high-middle-ages/crusades/siege-of-antioch-1097|Siege of Antioch (1097–98)]]
   - [[hubs/warfare/high-middle-ages/mongol-conquests/mongol-conquests|Mongol Conquests]] hub ([[may-mongol-art-of-war-2016|May 2016]]) — [[hubs/warfare/high-middle-ages/mongol-conquests/battle-of-chakirmaut-1204|Chakirma'ut (1204)]] · [[hubs/warfare/high-middle-ages/mongol-conquests/battle-of-kalka-river-1223|Kalka (1223)]] · [[hubs/warfare/high-middle-ages/mongol-conquests/siege-of-caizhou-1234|Caizhou (1234)]] · [[hubs/warfare/high-middle-ages/mongol-conquests/siege-of-baghdad-1258|Baghdad (1258)]] · [[hubs/warfare/high-middle-ages/mongol-conquests/battle-of-ain-jalut-1260|Ain Jalut (1260)]]
   - [[hubs/warfare/late-middle-ages/hundred-years-war/hundred-years-war|Hundred Years' War]] hub — [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-crecy-1346|Crécy (1346)]] · [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-agincourt-1415|Agincourt (1415)]]
+
+- **The Keegan "face of battle" cluster** (from [[keegan-face-of-battle-1976|*The Face of Battle*]], 1976) — the experiential/mechanics layer:
+  - [[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-agincourt-1415|Agincourt (1415)]] (the crush and the "wall of dead" demythologised) · [[hubs/warfare/long-19th-century/napoleonic-wars/battle-of-waterloo|Waterloo (1815)]] (cavalry vs squares; the column's rear-first collapse) · [[hubs/warfare/world-wars-era/first-world-war/battle-of-the-somme-1916|The Somme, 1 July 1916]] ([[hubs/warfare/world-wars-era/first-world-war/first-world-war|First World War hub]]) — walking men vs machine guns.
 
 More periods, wars, and battles will be added following the same template. The main event pages (e.g. [[events/battle-of-cannae-216bce]]) now link back to these detailed analyses.
 
