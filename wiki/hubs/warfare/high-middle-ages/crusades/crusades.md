@@ -13,8 +13,8 @@ outcome: "Latin states established 1098–99, gradually rolled back; Acre falls 
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[events/first-crusade-1095]]"
-key_sources: "CHW Vol. 2 ch. 10 (John France); Gesta Francorum; Raymond of Aguilers; Fulcher of Chartres; Albert of Aachen; France, Victory in the East (outstanding)"
-last_updated: "2026-06-24"
+key_sources: "[[sources/france-victory-in-the-east-1994|France, Victory in the East (1994)]]; CHW Vol. 2 ch. 10 (John France); Gesta Francorum; Raymond of Aguilers; Fulcher of Chartres; Albert of Aachen"
+last_updated: "2026-06-23"
 tags: [warfare, campaign, high-middle-ages, near-east, crusades]
 ---
 
@@ -90,10 +90,7 @@ disciplined march-and-defence at **Arsuf** (7 September 1191).
 | Battle of Arsuf | 7 Sep 1191 | Field (Richard I defeats Saladin) | — |
 | Fall of Acre | 1291 | Siege (end of the Latin East) | [[events/fourth-crusade-1204|related]] |
 
-*(Only Antioch is worked to full battle-analysis depth here. The CHW survey supports the
-operational overview; phase-level reconstruction of the field battles — and of Hattin and Arsuf —
-awaits the dedicated studies the roadmap lists as outstanding: France's* Victory in the East *and*
-Western Warfare in the Age of the Crusades*.)*
+*(Only Antioch is worked to full battle-analysis depth here. The CHW survey (and now France's dedicated *Victory in the East*) supports the operational overview. Phase-level reconstruction of Dorylaeum, Jerusalem, and later battles (Hattin, Arsuf) draws on France 1994 for logistics, numbers, and enemy disunity analysis.)*
 
 ## Related
 

@@ -18,8 +18,8 @@ outcome: "Crusader capture of Antioch by treachery (3 June 1098), then defeat of
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[events/siege-of-antioch-1097]]"
-key_sources: "CHW Vol. 2 ch. 10 (John France); Gesta Francorum (GF); Raymond of Aguilers (RA); Fulcher of Chartres (FC); Albert of Aachen (AA); France, Victory in the East (1994, outstanding)"
-last_updated: "2026-06-24"
+key_sources: "[[sources/france-victory-in-the-east-1994|France, Victory in the East (1994)]]; CHW Vol. 2 ch. 10 (John France); Gesta Francorum (GF); Raymond of Aguilers (RA); Fulcher of Chartres (FC); Albert of Aachen (AA)"
+last_updated: "2026-06-23"
 tags: [warfare, battle-analysis, high-middle-ages, near-east, crusades]
 ---
 
@@ -29,8 +29,7 @@ tags: [warfare, battle-analysis, high-middle-ages, near-east, crusades]
 
 A staff-college-level analysis of the decisive episode of the First Crusade, where the campaign was
 nearly destroyed by its own logistics and then saved twice — by treachery and by a desperate
-sortie. Drawn from the [[cambridge-history-of-war-v2|Cambridge History of War, Vol. 2]] (John
-France, ch. 10), which treats the Crusades primarily as a problem of **logistics and siege**.
+sortie. Primary operational depth from [[sources/france-victory-in-the-east-1994|France, *Victory in the East* (1994)]]; supporting framework from the [[cambridge-history-of-war-v2|Cambridge History of War, Vol. 2]] (John France, ch. 10).
 
 ## 1. Strategic Context and Objectives
 

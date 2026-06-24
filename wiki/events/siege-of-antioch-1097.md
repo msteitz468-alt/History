@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["caused_by: [[first-crusade-1095]]", "contributed_to: the strategic necessity of taking a fortified city astride the road to Jerusalem", "Seljuq political disunity in Syria"]
 consequences: ["enabled: the capture of [[Jerusalem]] (1099) and the founding of the Latin East", "produced: the Principality of Antioch", "produced: the lasting crusader–Byzantine dispute over Antioch"]
-sources_ingested: 1
-last_updated: 2026-06-24
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: [event, high-middle-ages, near-east]
 ---
 
@@ -56,4 +56,4 @@ Bouillon · Adhémar of Le Puy (legate) · Yaghi Siyan (Seljuq governor) · Kerb
 - **Tactical analysis (West Point–style):** [[hubs/warfare/high-middle-ages/crusades/siege-of-antioch-1097|Siege of Antioch — Tactical Analysis]]
 - War: [[hubs/warfare/high-middle-ages/crusades/crusades|Crusades hub]] · [[first-crusade-1095]]
 - Process: [[medieval-warfare]] · [[crusades]]
-- Source: [[cambridge-history-of-war-v2|Cambridge History of War, Vol. 2]] (France, ch. 10)
+- Source: [[sources/france-victory-in-the-east-1994|France, *Victory in the East* (1994)]]; [[cambridge-history-of-war-v2|Cambridge History of War, Vol. 2]] (France, ch. 10)

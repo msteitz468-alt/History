@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[gregorian-reform]], [[just-war]], "the Seljuk conquest of Anatolia and the Byzantine appeal", "the pilgrimage tradition and the ideology of liberating Jerusalem"]
 consequences: [[[crusader-states|the crusader states]], "the launching of the crusading movement", "the 1096 massacres of Rhineland Jews", "lasting Latin–Byzantine and Christian–Muslim antagonism"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-23
 tags: [event, high-middle-ages, levant, western-europe]
 ---
 
@@ -83,3 +83,4 @@ penitential motives over the older economic/younger-son explanations.
 - [[just-war]], [[gregorian-reform]] — its ideological roots.
 - [[battle-of-manzikert-1071]] — the Byzantine disaster behind the appeal.
 - **Warfare hub (operational/tactical):** [[hubs/warfare/high-middle-ages/crusades/crusades|Crusades hub]] — deep analysis of the [[hubs/warfare/high-middle-ages/crusades/siege-of-antioch-1097|Siege of Antioch (1097–98)]].
+- **Operational monograph:** [[sources/france-victory-in-the-east-1994|France, *Victory in the East* (1994)]] — army sizes, Dorylaeum phases, Antioch siege mechanics, Jerusalem assault, source criticism.
