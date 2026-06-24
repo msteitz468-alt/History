@@ -106,7 +106,7 @@ Livy, *Hannibal's War* · the CAH volumes · Hans Delbrück, *History of the Art
 
 | Source | Flag | Status | Notes |
 |---|---|---|---|
-| *The Campaigns of Napoleon* — David G. Chandler | `[BUY]` | ❌ | ⭐ The operational bible of the period. |
+| *The Campaigns of Napoleon* — David G. Chandler | — | ✅ | ⭐ The operational bible of the period. Ingested 2026-06-23 (Deployed Subagent Strategy; source page + Section Plan + 10 ranges; 3 pages created, 8+ updated; 0 broken links; filed). |
 | *Tactics and the Experience of Battle in the Age of Napoleon* — Rory Muir | `[BUY]` | ❌ | Battalion/regiment-level tactics and combat psychology. |
 | *The Art of Warfare in the Age of Napoleon* — Gunther E. Rothenberg | `[BUY]` | ❌ | Systematic survey of armies, doctrine, and operations. |
 | *Napoleon's Last Victory and the Emergence of Modern War* — Robert M. Epstein | `[BUY]` | ❌ | The 1809 campaign and the "first modern war" thesis. |

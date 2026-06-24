@@ -13,7 +13,7 @@ outcome: "French decisive dominance (1805–1809) then catastrophic collapse (18
 scale_immediate: civilizational
 scale_consequential: global
 event_page: "[[napoleonic-wars]]"
-key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), chs. 6–9"
+key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), chs. 6–9; The Campaigns of Napoleon (Chandler 1966) for operational detail + OOBs + system analysis"
 last_updated: 2026-06-23
 tags: [warfare, campaign-analysis, long-19th-century, western-europe, eastern-europe, napoleonic-wars]
 ---
@@ -46,4 +46,4 @@ zenith; and then its **limits and collapse**.
 
 - `part_of:` [[napoleonic-wars]] · commander: [[napoleon]]; opponents [[wellington-arthur-wellesley|Wellington]]
 - concepts: [[napoleonic-warfare]], [[nation-in-arms]] · `contrasts_with:` [[limited-war]]
-- [[long-19th-century]] — period · [[doughty-gruber-warfare-western-world-v1-1996]] — source.
+- [[long-19th-century]] — period · [[doughty-gruber-warfare-western-world-v1-1996]] — source · [[sources/chandler-the-campaigns-of-napoleon-1966]] — operational bible (corps system, *manoeuvre sur les derrières*, campaign reconstructions). Concepts: [[corps-system]], [[manoeuvre-sur-les-derrieres]].

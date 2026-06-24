@@ -9,7 +9,7 @@ affiliated_with: [the French Republic and First Empire, the Revolution's heirs]
 opposed_by: [Great Britain, Austria, Prussia, Russia, the European coalitions]
 key_events: [the coup of 18 Brumaire (1799), the Concordat (1801), the Civil Code (1804), the proclamation of the Empire (1804), the Napoleonic Wars, the invasion of Russia (1812), Waterloo (1815)]
 key_processes: [[[french-revolution-1789]], [[napoleonic-wars]], [[nationalism]], [[balance-of-power]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-14
 tags: [actor, person, age-of-expansion, long-19th-century, western-europe]
 ---
@@ -23,7 +23,7 @@ warfare. The 1907 *Cambridge Modern History* devotes its whole ninth volume to h
 whose single personality dominated his age as few others "except those of Alexander the Great,
 of Julius Caesar, and of Charlemagne" — and, unlike Charles V or Louis XIV, "the architect of
 his own fortunes." From [[cambridge-modern-history-v9-napoleon|*The Cambridge Modern History*,
-Vol. IX]].
+Vol. IX]] and [[sources/chandler-the-campaigns-of-napoleon-1966|*The Campaigns of Napoleon* (Chandler, 1966)]].
 
 ## Career
 

@@ -5,7 +5,7 @@ origin: the operational system associated with Napoleon Bonaparte (c. 1796–181
 applies_to_periods: [Long 19th Century]
 applies_to_regions: [western-europe, eastern-europe]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-23
 tags: [concept]
 ---
@@ -36,3 +36,4 @@ mass.
 - `enabled_by:` [[nation-in-arms]] · associated actor: [[napoleon]]
 - `contrasts_with:` [[limited-war]] · `followed_by:` the Prussian system of [[moltke-helmuth|Moltke]] and [[total-war]]
 - [[doughty-gruber-warfare-western-world-v1-1996]] — source.
+- [[sources/chandler-the-campaigns-of-napoleon-1966]] — detailed operational narrative and analysis of the corps system and *manoeuvre sur les derrières* (Part Three + campaign reconstructions).
