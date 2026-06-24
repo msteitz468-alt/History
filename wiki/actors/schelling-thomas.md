@@ -46,6 +46,24 @@ Schelling marks Freedman's pivotal move from **force to bargaining**. He "argued
 
 Freedman is not uncritical. He records that "critics complained, with some justice, that the methodology allowed talk about dreadful possibilities in dispassionate terms and contemplated moves that should never be countenanced by a civilized people." The abstraction of the nuclear "games" was a real limitation: the models "did not offer a way of transcending the Cold War conflict and failed to accommodate the ideological and geopolitical issues." On the focal-point thesis, Freedman echoes Hedley Bull's worry that the superpowers would be "'sending and receiving messages and ironing out understandings' with 'scarcely as much as a nod or a wink.'" Yet the achievement stands: "developing a way to think about conflict that could also accommodate cooperation."
 
+## From *Arms and Influence* (primary source claims)
+
+**Power to hurt as the distinctive currency:** "The power to hurt—the sheer unacquisitive, unproductive power to destroy things that somebody treasures, to inflict pain and grief—is a kind of bargaining power... To exploit it is diplomacy—vicious diplomacy, but diplomacy."
+
+**Brute force vs. coercion:** "There is a difference between taking what you want and making someone give it to you... between brute force and intimidation, between conquest and blackmail, between action and threats. The purely 'military' or 'undiplomatic' recourse to forcible action is concerned with enemy strength, not enemy interests; the coercive use of the power to hurt, though, is the very exploitation of enemy wants and fears."
+
+**Compellence (coined term):** "Deterrence is passive; it posits a response to something unacceptable but is quiescent in the absence of provocation... To talk about the latter we need a word. I chose 'compellence.'"
+
+**Commitment and the rationality of irrationality:** Credibility often requires visible steps that remove one's own freedom of action ("burning bridges," trip-wires, delegation to automatic processes). "It is a paradox of deterrence that in threatening to hurt somebody if he misbehaves, it need not make a critical difference how much it would hurt you too—if you can make him believe the threat." It can be rational to appear (or become) less than fully rational or in control.
+
+**Manipulation of risk and "the threat that leaves something to chance":** In the nuclear age much strategy becomes a "competition in risk-taking." Limited war and probes serve to raise the shared probability that events will get out of hand. "The key to these threats is that, though one may or may not carry them out, the final decision is not altogether under the threatener's control."
+
+**Nuclear weapons used for influence:** From the 2008 Afterword: "What nuclear weapons have been used for, effectively, successfully, since August 1945, has not been on the battlefield or on population targets: they have been used for influence." The sixty-year taboo is "an asset to be treasured."
+
+**Idiom and termination:** Military moves function as a language ("idiom of military action"). Even after major exchanges, "residual weapons" turn the remainder of war into explicit or tacit bargaining; termination must be designed consciously (progressive armistice) rather than assumed to occur by exhaustion.
+
+See source page [[sources/schelling-arms-and-influence-1966]] for full grounded claims by range.
+
 ## Related
 
 - [[deterrence|Deterrence]]

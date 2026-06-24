@@ -28,7 +28,21 @@ The concept had a prewar ancestor in air-power theory — see [[command-of-the-a
 
 **Extended deterrence.** Wedded to a policy of containment, deterrence had to cover not only attacks on the United States "but also those directed against allies, and even the enemy's enemies." Herman Kahn distinguished three types — Type I (superpower nuclear exchanges), Type II (limited attacks involving allies), Type III (most other challenges). Protecting an ally with nuclear threats — "extended deterrence" — was the hardest case: "It was one thing to threaten nuclear retaliation to deter nuclear attack, quite another to threaten nuclear use to deter a non-nuclear event."
 
-## Schelling's Refinements (Range 05 Grounding)
+## Schelling's Primary Formulation (*Arms and Influence*, direct)
+
+Schelling's core reframing: "The power to hurt—the sheer unacquisitive, unproductive power to destroy things that somebody treasures, to inflict pain and grief—is a kind of bargaining power... To exploit it is diplomacy—vicious diplomacy, but diplomacy."
+
+"The usual distinction between diplomacy and force is not merely in the instruments, words or bullets, but in the relation between adversaries... To exploit [the power to hurt] is diplomacy—vicious diplomacy, but diplomacy."
+
+Brute force vs. coercion: "There is a difference between taking what you want and making someone give it to you... between brute force and intimidation... The purely 'military' or 'undiplomatic' recourse to forcible action is concerned with enemy strength, not enemy interests; the coercive use of the power to hurt, though, is the very exploitation of enemy wants and fears." Brute force succeeds when used; the power to hurt succeeds most when held in reserve (latent violence).
+
+**Compellence (coined to complete the vocabulary):** "Deterrence is passive... To talk about [bringing about desired action through fear of consequences] we need a word. I chose 'compellence.'"
+
+From the 2008 Afterword: nuclear weapons since 1945 "have been used for influence" far more than destruction; the taboo is "an asset to be treasured."
+
+(Secondary Range 05 grounding from Freedman remains below for context.)
+
+## Schelling's Refinements (Range 05 Grounding from secondary)
 
 Schelling rethought force as "the power to hurt" as "latent violence." "It was thus a form of bargaining... a diplomacy based on coercion." "Military strategy could no longer be the science of military victory. Rather it would be the art of coercion, intimidation and deterrence." A stable balance of terror viewed as "a massive and modern version of an ancient institution: the exchange of hostages." (Freedman 1981, p.193–194).
 
