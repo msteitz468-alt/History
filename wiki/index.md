@@ -1,5 +1,7 @@
 # World History Wiki — Master Catalog
 
+**New (2026-06-23):** Civil War Infantry Tactics (Earl J. Hess 2015) ingested — 4 pages created/updated (source + actor Hess + linear-tactics + civil-war-infantry-tactics concepts); 6 Range Primary Claims blocks integrated; ACW warfare hub + battle pages enriched with verbatim short-range linear practice, multiple maneuvers, column/line use. See [[sources/hess-civil-war-infantry-tactics-2015]] and log.md.
+
 > **New here? Start at [[home|the Home portal]].** This page is the flat, categorical index of every
 > page by type. To navigate by **time**, use [[master-timeline|the Master Timeline]]; by **theme,
 > civilization, or region**, use the hubs from [[home|Home]]; for **coverage and gaps**, see
