@@ -10,7 +10,7 @@ region: [south-asia]
 key_offices: "Barrister (London 1891, called to Inner Temple); Founder, Natal Indian Congress (1894); Editor, Indian Opinion (1903–1914); Founder/leader of Phoenix Settlement (1904) and Tolstoy Farm (1910); Satyagraha campaigns leader (1906–1914)"
 major_decisions: ["Adoption of satyagraha as method during 1906 Transvaal registration campaign", "Founding of Phoenix Settlement and simple communal living (1904)", "1908 Johannesburg mass burning of registration certificates", "1913 epic march and general strike involving women and Tamil miners", "Decision to leave South Africa in 1914 after settlement with Smuts and return to India"]
 primary_sources: "Collected Works of Mahatma Gandhi (Vols 1–12 and supplementary); letters written to Gandhi (National Gandhi Museum); papers of Gokhale, Polak, Kallenbach, Doke; Indian Opinion; contemporary Natal/Transvaal government records and Indian Office files; Gandhi's own contemporary letters and articles (as opposed to later Autobiography)"
-key_sources: "[[sources/guha-gandhi-before-india-2013|Guha, Gandhi Before India (2013)]]"
+key_sources: "[[sources/guha-gandhi-before-india-2013|Guha, Gandhi Before India (2013)]]; [[sources/guha-gandhi-the-years-that-changed-the-world-2018|Guha, Gandhi: The Years That Changed the World, 1914-1948 (2018)]]"
 scale: civilizational
 last_updated: 2026-06-25
 tags: [biography, detailed-analysis, long-19th-century, south-asia, mahatma-gandhi]
@@ -18,7 +18,7 @@ tags: [biography, detailed-analysis, long-19th-century, south-asia, mahatma-gand
 
 > **Summary & network:** [[actors/mahatma-gandhi|Mahatma Gandhi (summary actor page)]] · **Biography hub:** [[hubs/biographies/biographies-hub|Biographies Hub]]
 
-A graduate-level analytic study of Mohandas K. Gandhi's formation, the South African laboratory in which satyagraha was invented and tested, the mechanics of his key decisions 1893–1914, character in context, primary-source foundations, and the structural vs. contingent elements that produced the leader who returned to India in 1915. Draws primarily from Ramachandra Guha's *Gandhi Before India* (2013).
+A graduate-level analytic study of Mohandas K. Gandhi's formation, the South African laboratory in which satyagraha was invented and tested (1893–1914), the scaling of that method to the Indian subcontinent (1915–1948), the mechanics of his key decisions across both phases, character in context, primary-source foundations, and the structural vs. contingent elements that produced the leader who ended the British Raj yet could not prevent Partition. Draws primarily from Ramachandra Guha's two volumes: *Gandhi Before India* (2013) and *Gandhi: The Years That Changed the World, 1914-1948* (2018).
 
 ## 1. Formation and Early Influences
 
@@ -138,6 +138,67 @@ Key verbatim from Guha's synthesis range (for Legacy/Historiography):
 
 ---
 
-**Reciprocal link note**: The summary actor page at [[actors/mahatma-gandhi]] carries the compact overview and network links. This page holds the detailed analysis of formation, decisions, and primary-source texture for the 1869–1914 period.
+**Reciprocal link note**: The summary actor page at [[actors/mahatma-gandhi]] carries the compact overview and network links. This page holds the detailed analysis of formation, decisions, and primary-source texture across Gandhi's entire life (1869–1948), with the India years (1915–1948) treated at equal depth to the South African laboratory.
 
-*Further expansion and additional verbatim extracts will be integrated from the source after subagent processing of the full text.*
+*Vol. 2 (Guha 2018) material integrated post-scaffold via main-thread reconciliation after subagent extraction of the 1915–1948 narrative. See source page for Section Plan.*
+
+## India Phase (1915–1948): Scaling Satyagraha and the Limits of Moral Authority
+
+After departure from South Africa in July 1914, Gandhi returned to India in January 1915 already formed as the Mahatma. The next three decades saw the laboratory method scaled to a subcontinental civilization. Guha (2018) reconstructs the arc through Champaran/Kheda/Ahmedabad experiments (1917–18), Rowlatt hartal and Jallianwala (1919), Non-cooperation/Khilafat (1920–22, suspended after Chauri Chaura), Salt March/Dandi (1930), Round Tables, Poona Pact with Ambedkar (1932), Harijan tour, Quit India (1942), Noakhali/Bihar peace marches, Calcutta and Delhi fasts (1946–48), and final acceptance of Partition realities followed by assassination.
+
+**Major Phases continuation (building on SA phases)**
+
+**Phase 4: Experiments, Mass Mobilization, and Congress Capture (1915–1922)**  
+Champaran indigo satyagraha (Shukla-driven; 7,000 testimonies; enquiry victory abolishing tinkathia); Ahmedabad mill strike (first political fast); Kheda revenue remission. Rowlatt satyagraha and hartal; Jallianwala Bagh aftermath; Khilafat alliance; Calcutta and Nagpur Congress (linguistic PCCs, 4-anna membership, ~2 million members); Chauri Chaura suspension ("means as important as ends"). Personal: Saraladevi Chaudhurani intensity ended by "Law-Giver" letter; family strains (Harilal).  
+Key verbatim: Empire Theatre-style vow evolution; "swaraj and swadeshi must go together"; "until Hindu society is purged of this sin, swaraj is an impossibility."
+
+**Phase 5: Reflection, Sabarmati, and Salt March (1922–1931)**  
+Yerwada imprisonment (Prisoner 827; reading Gita/Koran/Ramayana/Gibbon/Faust; began *Satyagraha in South Africa* memoir); appendicitis release (1924); Kohat fast (21 days in Mohammad Ali’s house); Vaikom satyagraha (internal Hindu reform, incremental, Hindu-led); Salt March (240 miles, 78 marchers, Dandi 6 Apr 1930, "Hail, law breaker!"); Dharasana raid (Webb Miller reports); Gandhi–Irwin Pact.  
+Key verbatim: "potent... the mightiest instrument on earth"; Tagore cautions on passive resistance; "I want the cultures of all the lands... but I refuse to be blown off my feet."
+
+**Phase 6: Ambedkar, Harijan, and Congress Ministries (1931–1939)**  
+Round Tables; Poona Pact (raised reserved seats to 148 in joint electorates after fast); "Harijan" term and *Harijan* weekly; all-India tour ("shaming the Hindus"); second sabbatical and move to Sevagram/Segaon (1936); 1935 Government of India Act; 1937 ministries (prohibition, simplicity, bridge-building with Muslims). Debates with Ambedkar (*Annihilation of Caste*): Ambedkar on destruction of caste vs. Gandhi on varna reform and "untouchable by adoption."  
+Key verbatim (Ambedkar): "political tyranny nothing compared to social tyranny"; "Mahatmas have come and gone. But untouchables have remained"; Gandhi: "I am an untouchable by adoption."
+
+**Phase 7: War, Quit India, and Kasturba (1939–1944)**  
+Haripura/Tripuri crises (Bose re-election, CWC resignations, recapture); Rajkot fast (later withdrawn as coercive); WWII positioning (Cripps Mission failure); individual satyagraha (Vinoba first); Quit India (Sevagram WC July 1942; AICC Bombay Aug; "Do or Die"; pre-emptive arrests). Aga Khan Palace: Kasturba death (22 Feb 1944); Mahadev Desai death (15 Aug 1942); Gandhi’s protest letter to Viceroy.  
+Key verbatim: "Britain is morally indefensible"; "Do or Die"; "the coming in of Japan will mean the end of China."
+
+**Phase 8: Last Years, Partition, Fasts, and Martyrdom (1944–1948)**  
+Simla (1945, parity/League veto collapse); 1945–46 elections (League sweeps Muslim seats); Cabinet Mission and grouping failure; Direct Action Day/Great Calcutta Killing (16 Aug 1946); Noakhali peace mission (Srirampur base; one-sevak-per-village hostage model; modest refugee returns; brahmacharya "strangest experiment" with Manu); Bihar intervention (wells of corpses; "Bihar has sullied the fair name"); Nehru heir designation over Patel; Jinnah-as-PM proposal to Mountbatten (rejected by CWC); Calcutta fast (Sept 1947, "miracle," broken after pledges); Delhi arrival amid refugee violence; final fast (13–18 Jan 1948) with seven conditions forcing sterling balances payment and Delhi pledges; 30 Jan assassination at Birla House by Nathuram Godse ("Hé Ram"; three Beretta shots).  
+Key verbatim: "What sin have I committed that He should have kept me alive..."; "I am made that way"; "the light has gone out of our lives" (Nehru, immediately corrected: "the light shines"); Godse: "I am not at all sorry"; Ambedkar private: "a positive danger... bondage to superman"; Jinnah tribute (with limits); "You gave us a lawyer; we gave you back a Mahatma" (South Africa echo).
+
+## Expanded Signature Decisions (India years; append to existing table)
+
+| Decision / Moment | Context & Pressures | Choice Made | Intended Consequence | Actual Outcome | Counterfactual Note | Key Sources |
+|---|---|---|---|---|---|---|
+| Champaran defiance (Apr 1917) | Deportation order after Shukla plea | Stay, collect 7,000 testimonies, open schools | Test satyagraha on Indian soil | Enquiry victory; cadre formed (Desai, Patel, Rajendra Prasad) | Earlier exit might have delayed national prestige | Guha range 01 |
+| Chauri Chaura suspension (Feb 1922) | 23 policemen killed; eve of Bardoli | Unilateral halt + 5-day fast | Preserve moral integrity ("means as important as ends") | Congress divided; movement paused; "50 times" reflection | Continuation might have invited broader violence or faster exit | Guha range 02 |
+| Salt March (Mar–Apr 1930) | Purna Swaraj deadline; need universal symbol | 240-mile walk with 78 ashramites; Dandi breaking | Galvanize mass civil disobedience | International sympathy; mass arrests; Gandhi–Irwin Pact | Narrower issue might have stayed elite | Guha range 03 |
+| Poona Pact fast (Sep 1932) | Communal Award separate electorates | Indefinite fast ("vivisect Hinduism") | Force revision and Hindu reform | 148 reserved seats (joint); Harijan campaign | Separate electorates might have accelerated Dalit autonomy or deepened divisions | Guha range 04 |
+| Quit India resolution (Aug 1942) | Cripps failure + Japanese threat | "Do or Die"; mass non-violent struggle if British do not quit | Moral pressure for independence as precondition | Pre-emptive arrests; intense repression; long-term legitimacy erosion | Cooperation might have produced earlier Dominion status | Guha range 05 |
+| Noakhali settlement (Nov 1946–Feb 1947) | Revenge cycle after Calcutta | Village immersion (Srirampur); sevak-hostage model | Restore fearlessness and refugee returns | Modest returns; prayer meetings attended by Muslims; brahmacharya experiment | Without presence, refugee flight and fear total | Guha range 07 |
+| Calcutta fast (Sept 1947) | Renewed rioting reaches Hydari Manzil | Indefinite fast ("Do or Die" for capital) | Force repentance so he can go to Punjab | "Miracle"; violence ends; pledges; police sympathy fast | Continued burning might have spread; Mountbatten: "one man... no rioting" | Guha range 07–08 |
+| Delhi fast (13–18 Jan 1948) | Renewed riots; withheld sterling balances | 7 explicit conditions (mosques, movement, no boycott, Urs, trains) | Reunion of hearts; force payment and protection | Government pays balances; leaders pledge; fast broken | Non-payment might have justified further hardline; Delhi Muslims more exposed | Guha range 08 |
+| Jinnah-as-PM proposal (Apr 1947) | Mountbatten arrival + violence | Written offer: Jinnah forms Cabinet; Congress cooperates; Mountbatten referee | Buy harmony at any price | CWC rejects (except Ghaffar Khan); Partition proceeds | Acceptance might have tested Jinnah or delayed line | Guha range 07 |
+| Final openness on 30 Jan 1948 | Recent bomb; known RSS threats; long Patel talk | Maintain routine; affirm Delhi safe; walk to prayers | Complete reconciliation work | Assassinated en route | Heightened security might have postponed but not altered intent | Guha range 08 |
+
+## Character, Relationships, and Personal Life (India extension)
+
+Intense with Kasturba (political partner, jail companion, pining during separations; death in Aga Khan Palace 1944). Mahadev Desai as "hands and feet" and buffer (died of overwork 15 Aug 1942; Gandhi washed body and led cremation). Close but divergent with Nehru (heir despite village-vs-factory letters; pluralism vs. industrialization). Organizational partnership with Patel (elections, organization; occasional anger at experiments). Persistent outreach to Jinnah ("old nationalist" missed) despite "declaration of war" rhetoric. "Untouchable by adoption" with Ambedkar (admiration for fierceness; debates over power vs. moral reform). "Strangest experiment" with Manu (bed-sharing as purity test tied to violence as symptom of inner failing; opposition from inner circle including Patel "very angry"; paused). Loneliness after multiple deaths (Kasturba, Mahadev, Bajaj, Tagore, Andrews). Continued drive despite frailty ("I am made that way").
+
+## Death, Immediate Succession / Aftermath
+
+30 January 1948: after prolonged Patel discussion on Nehru rift and affirmation to Delhi Muslims that the city was safe for Sevagram departure, Gandhi was shot at point-blank range by Nathuram Godse (Beretta; three shots; "Hé Ram"). Body prepared by Brij Krishna (cold water despite January night; self-spun loincloth from last birthday). Procession (est. 1.5 million); pyre lit by Ramdas at Jamuna. Nehru: "the light has gone out... No, the light shines." Jinnah: one of the greatest men of the Hindu community. Ambedkar (private): "positive danger... bondage to superman." Immediate grief produced Nehru–Patel reconciliation and temporary RSS ban. No major communal riots for more than a decade. Ash immersions 14 Feb across India.
+
+## Long-term Legacy and Impact (Guha synthesis across both volumes)
+
+South Africa gave the method ("mightiest instrument"); India scaled it to end empire without the full-scale war seen elsewhere. Yet Partition bloodletting showed the limits when mass passions and elite calculations (League growth, Congress grouping rejection, British timeline) aligned against unity. Last fasts demonstrated personal moral authority could still force concrete pledges and asset transfers, but could not prevent the subcontinent’s division or protect all minorities. Martyrdom amplified the message (Nehru–Patel unity enabling state consolidation; decade of relative calm; global icon of non-violence). "You gave us a lawyer; we gave you back a Mahatma." Counterfactual: earlier British exit or different Ambedkar/Congress deal on representation might have altered the scale of 1946–47 violence. Gandhi’s "one indivisible whole" (swaraj + Hindu–Muslim unity + anti-untouchability + constructive programme) remained the moral benchmark and reproach.
+
+## Historiography and Primary Sources (both volumes + NMML)
+
+Guha’s two volumes triangulate *Collected Works* (full), NMML Gandhi Papers (opened post-1915), associate papers (Nehru, Patel, Polak, Kallenbach, Gokhale, Ambedkar), government archives (Indian Office, South Africa, viceroys Linlithgow/Wavell/Mountbatten), contemporary press (*Young India*, *Harijan*, *Dawn*, *Hindustan Times*), and oral/survivor testimony. Preference for documents written closest to events over retrospective autobiography or hagiography. Corrects both adulation and debunking (family strains, "over-calculated" Rowlatt, Rajkot coercive turn, brahmacharya experiment risks, "patronizing" tone with Ambedkar). Conflicting accounts reconciled or flagged (numbers in Calcutta/Noakhali; motives in Godse testimony vs. police reports on RSS). Primary bias notes: Ambedkar’s *Annihilation* and *What Congress...* as essential counter; Jinnah’s evolution from "staunchest nationalist" to two-nation; British private contempt (Willingdon: "curious little beast"; Churchill dancing at Cripps failure) vs. public tributes. Method: critical biography with explicit attention to what the subject later mythologized and to structural vs. contingent (Chauri Chaura timing; Mountbatten deadline; Jinnah illness). Both volumes stand as the authoritative modern scholarly spine for the full life.
+
+---
+
+**Reciprocal link note (final)**: The summary actor page at [[actors/mahatma-gandhi]] carries the compact overview and network links. This page holds the graduate-level analytic depth. Sources: Guha (2013) + Guha (2018) + NMML papers. Cross-links to events (Salt March 1930, Quit India 1942, Partition 1947, Assassination 1948), concepts/satyagraha, processes/indian-independence-movement, actors (Nehru, Jinnah, Patel, Ambedkar, Kasturba, Bose), and places (Sabarmati, Sevagram).

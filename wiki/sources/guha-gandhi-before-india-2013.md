@@ -65,7 +65,7 @@ Key themes: Gandhi as middle-caste Bania adapting and transcending caste norms; 
 ## Related Sources (for cross-reference)
 
 - *The Collected Works of Mahatma Gandhi* (esp. Vols 1–12) — primary corpus.
-- Later volume: Guha, *Gandhi: The Years That Changed the World, 1914–1948* (2018) — not yet ingested.
+- Later volume: Guha, *Gandhi: The Years That Changed the World, 1914–1948* (2018) — ingested 2026-06-25 (completes the biography).
 - Other: biographies by Fischer, Tendulkar; primary accounts by Polak, Doke, Andrews; government blue books.
 
 ---

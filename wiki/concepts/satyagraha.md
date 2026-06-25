@@ -5,7 +5,7 @@ origin: Coined in South Africa 1906–1907 by Mohandas K. Gandhi (with Maganlal 
 applies_to_periods: [long-19th-century, world-wars-era, cold-war, contemporary]
 applies_to_regions: [south-asia, southern-africa, north-america, and other sites of non-violent struggle]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-25
 tags: [concept, long-19th-century, south-asia]
 ---
@@ -72,8 +72,14 @@ Standing debates (flagged for future controversy pages if warranted):
 
 **Primary sources for the concept**: Gandhi's contemporary articles and letters in the *Collected Works* (esp. 1906–1914); letters from associates commenting on the campaigns; official records of the negotiations.
 
-See also: [[actors/mahatma-gandhi]], [[sources/guha-gandhi-before-india-2013]], [[processes/indian-independence-movement]].
+See also: [[actors/mahatma-gandhi]], [[sources/guha-gandhi-before-india-2013]], [[sources/guha-gandhi-the-years-that-changed-the-world-2018]], [[processes/indian-independence-movement]].
+
+## India Scaling (1915–1948; from Guha 2018)
+
+Champaran (1917): peasant testimonies + defiance of deportation order produced enquiry victory. Ahmedabad (1918): first political fast forced arbitration. Rowlatt (1919): all-India hartal + self-suspension after violence. Non-cooperation (1920–22): Khilafat alliance + Nagpur Congress capture (linguistic PCCs, 4-anna mass membership). Salt (1930): 240-mile march + Dandi breaking + Dharasana raid (international press). Poona Pact (1932): fast against separate electorates produced joint seats + Harijan campaign. Quit India (1942): "Do or Die" after Cripps failure; pre-emptive arrests + underground. Noakhali (1946–47): village immersion + sevak-hostage model + brahmacharya test amid violence. Calcutta fast (Sept 1947): "miracle" after pledges. Delhi fast (Jan 1948): seven conditions forced sterling balances + minority protections. "Means are as important as ends"; "potent... the mightiest instrument on earth"; last fasts showed both power and limits when mass passions and elite calculations (League growth, British timeline) aligned against unity.
+
+Key verbatim (India): Tagore on passive resistance temptation; "I want the cultures of all the lands... but I refuse to be blown off my feet"; Ambedkar: "political tyranny nothing compared to social tyranny"; "means are as important as ends"; "Do or Die"; "the coming in of Japan will mean the end of China"; fast statements and "Hé Ram" (30 Jan 1948).
 
 ---
 
-*This page establishes the core concept name and definition for cross-linking during ingestion of the Guha volume and later sources.*
+*This page establishes the core concept name and definition for cross-linking during ingestion of the Guha volumes and later sources.*

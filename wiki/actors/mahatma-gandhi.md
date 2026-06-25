@@ -8,9 +8,9 @@ period: [long-19th-century, world-wars-era]
 region: [south-asia]
 affiliated_with: ["[[indian-national-congress]]", "[[indian-independence-movement]]", "South African Indian community organizations"]
 opposed_by: ["[[british-raj|British Raj]]", "South African white governments (Natal/Transvaal)", "Hindu orthodoxy (over untouchability)", "a Hindu extremist (his assassin)"]
-key_events: ["South African satyagraha campaigns (1906–1914)", "Champaran (1917)", "Kheda and Ahmedabad mill strike (1918)", "Rowlatt hartal and Jallianwala Bagh aftermath (1919)", "Non-cooperation (1920–22)", "Salt March / Dandi (1930)", "Quit India (1942)"]
+key_events: ["South African satyagraha campaigns (1906–1914)", "Champaran (1917)", "Kheda and Ahmedabad mill strike (1918)", "Rowlatt hartal and Jallianwala Bagh aftermath (1919)", "Non-cooperation (1920–22)", "Salt March / Dandi (1930)", "Quit India (1942)", "Partition (1947)", "assassination (30 Jan 1948)"]
 key_processes: ["[[indian-independence-movement]]", "satyagraha / non-violent resistance", "Harijan uplift / anti-untouchability"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-25
 tags: [actor, person, long-19th-century, world-wars-era, south-asia]
 ---
@@ -24,7 +24,7 @@ freedom.
 
 **Detailed analytic biography**: [[hubs/biographies/long-19th-century/mahatma-gandhi|Detailed biography]] (formation, South African satyagraha laboratory, decision mechanics, and primary-source analysis).
 
-Documented initially through Percival Spear's [[spear-history-of-india-v2-1965|*A History of India*, Vol. II]] (1965); substantially deepened by Ramachandra Guha's [[sources/guha-gandhi-before-india-2013|*Gandhi Before India*]] (2013).
+Documented initially through Percival Spear's [[spear-history-of-india-v2-1965|*A History of India*, Vol. II]] (1965); substantially deepened by Ramachandra Guha's two-volume biography: [[sources/guha-gandhi-before-india-2013|*Gandhi Before India*]] (2013) and [[sources/guha-gandhi-the-years-that-changed-the-world-2018|*Gandhi: The Years That Changed the World, 1914-1948*]] (2018).
 
 ## Ideas: satya, ahimsa, satyagraha
 
@@ -55,6 +55,8 @@ movement** (1920–22, allied with the Muslim **Khilafat** cause) — which he c
 out of the Assembly. He branded the British government not a tyranny to be fought but a **"satanic"
 institution** with which no conscientious person could cooperate.
 
+Guha (2018) deepens the record: Champaran (1917) and Kheda/Ahmedabad (1918) as the first Indian laboratory tests; Round Tables and Poona Pact with Ambedkar (1932) over separate electorates and Harijan uplift; 1937 Congress ministries and "constructive programme"; 1942 Quit India ("Do or Die") after Cripps failure; Noakhali peace march and fasts against 1946–47 violence; Calcutta "miracle" (15 Aug 1947 with Suhrawardy) and Delhi fast (Jan 1948) forcing sterling balances payment and minority protections; reluctant acceptance of Partition; assassination 30 Jan 1948 by Nathuram Godse at Birla House. Last fasts demonstrated both the power and limits of personal moral authority when mass passions and elite calculations (League growth, British timeline) aligned against unity. "You gave us a lawyer; we gave you back a Mahatma" (South Africa echo).
+
 ## Significance
 
 Spear ranks Gandhi as the figure in whom "the inner meaning of modern Indian history" culminates — the
@@ -67,4 +69,4 @@ touchstone (and a reproach) for the [[jawaharlal-nehru|Nehruvian]] state that su
 ## Related pages
 
 [[indian-national-congress]] · [[indian-independence-movement]] · [[british-raj]] ·
-[[partition-of-india-1947]] · [[jawaharlal-nehru]] · [[south-asia]] · [[spear-history-of-india-v2-1965]] · [[sources/guha-gandhi-before-india-2013]] · [[hubs/biographies/long-19th-century/mahatma-gandhi]]
+[[partition-of-india-1947]] · [[jawaharlal-nehru]] · [[south-asia]] · [[spear-history-of-india-v2-1965]] · [[sources/guha-gandhi-before-india-2013]] · [[sources/guha-gandhi-the-years-that-changed-the-world-2018]] · [[hubs/biographies/long-19th-century/mahatma-gandhi]]
