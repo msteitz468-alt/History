@@ -9,8 +9,8 @@ affiliated_with: [[[continental-army]], [[american-revolution]]]
 opposed_by: [[[howe-william]], [[clinton-henry]], [[cornwallis-charles]]]
 key_events: [[[siege-of-boston-1775]], [[battle-of-long-island-1776]], [[battle-of-trenton-1776]], [[battle-of-princeton-1777]], [[battle-of-brandywine-1777]], [[battle-of-monmouth-1778]], [[siege-of-yorktown-1781]]]
 key_processes: [[[fiscal-military-state]]]
-sources_ingested: 1
-last_updated: 2026-06-23
+sources_ingested: 2
+last_updated: 2026-06-25
 tags: [actor, person, age-of-expansion, north-america]
 ---
 
@@ -59,9 +59,15 @@ or been destroyed in detail; without his scrupulous **subordination to civilian 
 secure. He became the first president (1789) and personally led 10,000 militia to suppress
 the **Whiskey Rebellion** (1794), demonstrating federal coercive capacity.
 
+## Chernow, Washington: A Life (2010)
+
+Chernow provides the most detailed modern portrait of the private Washington: the ambitious Virginia planter and land speculator; the master of ~300 enslaved people at peak who expressed growing unease with slavery yet did not free them in his lifetime (will provided for manumission after Martha's death; she acted sooner); the husband whose marriage to the wealthy widow Martha Custis was both economic alliance and genuine partnership (she managed Mount Vernon during his long absences and shared camp life in winter quarters); the man of formidable physical presence and controlled temper who cultivated a stoic public image modeled on Roman republican virtue. The biography draws on the full modern Papers editions to show Washington's evolution, his careful management of reputation, planter finances and daily routines, and the tension between his personal slaveholding and the liberty rhetoric of the Revolution he led.
+
 ## Related
 
 - `commanded:` [[continental-army]] · `part_of:` [[american-revolution]] · campaign hub: [[hubs/warfare/age-of-expansion/american-revolutionary-war/american-revolutionary-war|American Revolutionary War]]
 - `opposed_by:` [[howe-william]], [[clinton-henry]], [[cornwallis-charles]]
 - key subordinates: [[greene-nathanael]], [[knox-henry]], [[steuben-friedrich]], [[lafayette]], [[morgan-daniel]]
-- [[age-of-expansion]] — period; [[west-point-history-american-revolution-2017]] — source.
+- Spouse/partner: [[washington-martha]]
+- [[age-of-expansion]] — period; [[west-point-history-american-revolution-2017]] — source; [[sources/chernow-washington-a-life-2010]] — detailed biography source + [[hubs/biographies/age-of-expansion/washington-george|detailed biography]].
+
