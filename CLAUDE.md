@@ -65,6 +65,10 @@ wiki/
   timelines/            # Standalone chronological reference pages
   queries/              # Filed answers to significant questions
   sources/              # One summary page per ingested source
+
+  hubs/                 # High-resolution special sections (see Warfare Hub and Biography Hub below)
+    warfare/            # Tactical/operational battle and campaign analysis (West Point grade)
+    biographies/        # Graduate-level analytic lives (detailed vs. summary actors/)
 ```
 
 ---
@@ -269,6 +273,13 @@ tags: [actor, actor-type, period-name, region-name]
 ---
 ```
 
+**Summary vs. detailed treatment**: The `wiki/actors/[person-slug].md` page is the concise
+network-oriented summary (compact overview, role, high-level key events/processes, brief
+counterfactual significance, full but concise historiography, and dense network links).
+Very detailed analytic biographies for historically significant individuals live in the
+parallel high-resolution Biography Hub (`hubs/biographies/`) — see the dedicated
+"Biography Hub" section below.
+
 For **persons**: role/title, major decisions and their consequences, counterfactual
 significance (what changes without this actor — analytical, not celebratory).
 
@@ -277,6 +288,9 @@ economic base, military capacity, mechanisms of decline.
 
 For **institutions and movements**: founding conditions, structural features,
 how they shaped events and processes.
+
+Every detailed biography (`hubs/biographies/...`) must declare `actor_page` pointing to its
+summary and the summary actor page must carry a reciprocal link back.
 
 ---
 
@@ -488,6 +502,10 @@ claims within boundaries the main thread has already drawn.
 Read enough of the source (TOC, introduction, conclusion, and targeted sampling) to:
 - Write the **source page** in `wiki/sources/` (with the Section Plan for large volumes).
 - Create the **key person/concept/place pages** that everything else will link to.
+- For dedicated biographical sources or sources with major biographical cores: decide
+  whether a **detailed biography page** in `hubs/biographies/` is warranted (see
+  "Biography Hub" section) in addition to the standard summary actor page, and
+  pre-establish the name.
 - Decide the **topic taxonomy** and **establish naming conventions** for every page the
   ingest will create.
 
@@ -825,6 +843,8 @@ When I ask for a health check, report:
 - Controversies described inline not yet promoted to `controversies/`
 - `caused_by` links that appear to conflate sequence with causation
 - Period pages where `collection_coverage` is `weak` or `absent`
+- Detailed biography pages (hubs/biographies/) missing reciprocal link from their `actors/` summary (or vice versa)
+- Orphan detailed bios or summary actors that qualify for depth but lack a detailed page
 - 3–5 sources from Outstanding Sources.md to prioritize next
 - 3–5 analytical questions worth investigating
 
@@ -917,7 +937,7 @@ Frontmatter is flat and quoted (Obsidian-Bases-friendly; no nested maps): `analy
 `scale_immediate/consequential`, `event_page`, `key_sources`.
 
 Content standard for a battle analysis:
-- **2,500–3,500+ words.**
+- **3,500–5,500+ words.**
 - **Order-of-battle and casualty TABLES.**
 - Work through **all nine U.S. principles of war (FM 3-0)** — Objective, Offensive, Mass,
   Economy of Force, Maneuver, Unity of Command, Security, Surprise, Simplicity — noting
@@ -941,6 +961,88 @@ section handling, match Cannae.
 The sourcing roadmap for this section is `Outstanding War Strategy Sources.md` (repo root) —
 a tiered, de-duplicated list of the graduate/West-Point-grade strategy and operational-art
 literature to acquire for deepening the hub.
+
+---
+
+## Biography Hub — The High-Detail Section for Individuals
+
+`wiki/hubs/biographies/` is the **second part of the wiki deliberately built at higher resolution
+than everything else** (the first being the Warfare Hub). While the rest of the wiki (including
+ordinary `wiki/actors/` pages) summarizes, the biography hub provides graduate-level,
+analytically rigorous life studies of historically significant individuals. This is intentional
+and applies *only* here — do not let this depth standard leak into the ordinary `events/`,
+`actors/`, `periods/`, or other actor pages.
+
+### Division of labor: hubs/biographies vs. actors/
+
+- The **`actors/` page owns the summary** — compact overview, role, high-level key events/processes,
+  brief counterfactual significance, full (but concise) historiography, and dense network links —
+  at normal wiki resolution.
+- The **`hubs/biographies/` analysis page owns the depth** — formative context, phased career with
+  decision mechanics, tables (offices, decisions matrix), verbatim primary source analysis + bias
+  critique, multi-scale counterfactuals, character vs. structural factors, legacy assessment, and
+  detailed source criticism.
+- Every detailed biography page links its summary `actors/` page via `actor_page`, and the actor
+  page gets a **reciprocal link** (in Related or near the top) back to the detailed version. Keep
+  narrative light on the hub page; depth goes on the conduct and analysis of the life.
+- Events and processes continue to own discrete happenings; the bio page analyzes the
+  individual's choices within them.
+
+### Structure and naming
+
+Detailed biographies are filed under period folders using the temporal framework:
+
+```
+hubs/biographies/[period]/[person-slug].md
+```
+
+- `[period]` — kebab-case from the CLAUDE.md list (e.g. `classical-antiquity`, `age-of-expansion`).
+- `[person-slug].md` — exactly matches the corresponding `actors/[person-slug].md` for reliable linking.
+- The hub root holds: `biographies-hub.md` (portal + selection criteria + list of completed analyses)
+  and `templates/`.
+
+Figures spanning periods use the primary/most consequential period folder (or note multiples).
+
+### Biography-analysis standard (the locked standard)
+
+The **single source of truth** for frontmatter and section structure is
+`wiki/hubs/biographies/templates/biography-analysis-template.md`. Copy it; do not redefine the
+schema inline.
+
+Frontmatter is flat and quoted (Obsidian-Bases-friendly; no nested maps): `analysis_type: biography`,
+`actor_page`, `date_birth`/`date_death` + precision, `key_offices`, `major_decisions`,
+`primary_sources`, `key_sources`, `scale`, etc.
+
+Content standard for a detailed biography:
+- **3,500–5,000+ words** (flex by figure significance; current emphasis is 5,000+ as the practical
+  target for major lives).
+- **Tables**: offices/positions timeline; major decisions matrix (context | decision | intended
+  outcome | actual | counterfactual note | sources).
+- **Verbatim primary sources** with bias analysis; reconcile conflicting accounts.
+- Strong multi-level **counterfactual** treatment (personal agency vs. structural constraints).
+- Always include deep **Historiography and Primary Sources**.
+- The nine canonical body sections: Formation and Early Influences · Rise / Path to Power ·
+  Major Phases of Career · Signature Decisions and Their Mechanics · Intellectual/Policy/Military/
+  Religious Style and Methods · Character, Relationships, and Personal Life · Death, Immediate
+  Succession/Aftermath · Long-term Legacy and Impact · Historiography and Primary Sources.
+- Navigation header: summary link, related events/hubs, biographies-hub.
+
+### Selection criteria (historically significant individuals)
+
+Detailed biographies are reserved for figures with:
+- Civilizational, epochal, or trans-regional impact, **or**
+- Subjects of one or more high-quality dedicated biographical sources in the collection that supply
+  rich primary material justifying the depth.
+
+Exclude routine or composite figures, or cases where the source base is too thin. Start with
+exemplars drawn from already-ingested biographical works plus canonical cases.
+
+### Sourcing
+
+Leverage existing biographical monographs (via their source pages + Section Plans) plus reference
+series (CAH, CWH, NCMH) that contain strong biographical chapters. When ingesting a new dedicated
+life, the scaffold step must decide whether a detailed page is warranted and pre-establish the name.
+Prioritize primary-source richness and analytic payoff over volume of sources.
 
 ---
 
