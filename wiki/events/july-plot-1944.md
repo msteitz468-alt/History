@@ -20,7 +20,7 @@ tags: [event, world-wars-era, germany, adolf-hitler, july-plot, stauffenberg, re
 
 # July Plot (20 July 1944 Assassination Attempt on Hitler)
 
-**Event page grounded in Ian Kershaw, *Hitler 1936–1945: Nemesis* (2000), exclusive lines 22801–28500 cache extraction.**
+**Event page grounded in Ian Kershaw, *Hitler 1936–1945: Nemesis* (2000), primarily Range 05/06 cache extraction (lines ~22801–34200).**
 
 ## Narrative
 
