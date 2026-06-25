@@ -8,8 +8,9 @@ region_coverage: [eastern-europe, russia, caucasus]
 methodological_approach: archival political biography; massive use of Russian/Soviet archives (despite access issues), published primary documents, scans/microfilms, and international scholarly literature; challenges conventional wisdom on Lenin Testament, Trotsky, Georgian affair, etc.
 reliability_notes: ["Major scholarly biography emphasizing structural conditions, personality, and archives over pure 'great man' or 'system only'. Strong on Stalin's Georgian/Caucasus origins, early Bolshevik career, rise via party machine, personality cult roots, and counterfactuals (e.g. 'If Stalin had died'). Draws on Ostrovskii (young Stalin), Sakharov (Lenin Testament), Benvenuti (Trotsky weakness), Smith (Georgian affair). Notes access problems in Russian archives but compensates with published docs and scans. Balanced on achievements vs. human cost; highlights contradictions of Stalinism."]
 pages_created: 3
-pages_updated: 9
+pages_updated: 12
 ingested: 2026-06-25
+last_updated: 2026-06-25
 tags: [source, world-wars-era, eastern-europe]
 ---
 
@@ -62,16 +63,18 @@ All subagent claims and cross-references must use only these pre-established pag
 
 ## Subagent Line Ranges (disjoint, body only)
 
+Full re-extraction run (2026-06-25) using exact caches from filed source (57,818 lines total).
+
 - Range 01: lines 300–6000 (preface + Part I early: origins to early revolutionary)
 - Range 02: lines 6001–11000 (Part I continuation)
 - Range 03: lines 11001–16000 (Part I late)
 - Range 04: lines 16001–20000 (Part II early: Civil War)
 - Range 05: lines 20001–24000 (Part II mid)
-- Range 06: lines 24001–26000 (Part II late)
+- Range 06: lines 24001–26000 (Part II late / Coda "If Stalin Had Died")
 - Range 07: lines 26001–30000 (Part III early: rise)
 - Range 08: lines 30001–35000 (Part III mid: power consolidation)
 - Range 09: lines 35001–40000 (Part III late)
-- Range 10: lines 40001–43800 (Coda + end)
+- Range 10: lines 40001–45000 (final analysis + end of body)
 
 ## Primary Claims
 
@@ -243,9 +246,11 @@ S09/S10-01–15 (selected): General Secretary mechanics; Lenin Testament handlin
 
 **Key Coda (Range 10):** “HE WOULD DO IT. Stalin would force the collectivization... At least 5 million... ‘dekulakized’... horses would plummet from 35 million to 17 million... 5–7 million famine deaths... Scholars who argue that Stalin’s collectivization was necessary... are dead wrong.” Market systems compatible; NEP success produced the kulaks that class analysis targeted.
 
-## Volume Synthesis Note
+## Volume Synthesis Note (updated full run)
 
 Kotkin’s *Stalin: Volume 1* (2014) is the definitive modern archival synthesis locating Stalin’s rise at the intersection of imperial Russian structural legacies (autocracy, secret police, nationalities, backwardness), Bolshevik conspiratorial culture (party-state, class war, terror), and Stalin’s personal agency (apparatchik mastery, Georgian outsider drive, ruthlessness). Challenges “nonentity until late” and pure “system” myths: active 1917 editor/organizer; Civil War command (Tsaritsyn foreshadowed later conflicts); General Secretaryship 1922 as decisive base. Key arcs: Lenin Testament handling (power already entrenched); defeat of oppositions via apparatus + ideology (“Socialism in One Country” adaptation); NEP contradictions → 1927–28 coercive turn (grain crisis, Siberia, Article 107, Shakhty specialist terror). Coda counterfactual underscores structural pressures (collectivization scale, famine) while highlighting Stalin-specific implementation and costs. Method: massive published docs + scans + targeted archives; integrates Ostrovskii, Sakharov, Benvenuti, Smith et al. while offering fresh personality + structure synthesis. Strong on Caucasus origins and the “organizational weapon.” Adds depth to prior Russian coverage (Cambridge v3, Service, Freeze, Solzhenitsyn); explicitly notes collection bias/gaps on Eastern Europe/Russia. Cross-references heavily to [[stalin-joseph]], [[lenin-vladimir]], [[trotsky-leon]], [[soviet-union]], [[bolshevik-party]], [[russian-revolution-1917]], [[russian-civil-war]], [[soviet-collectivization]], [[soviet-industrialization]], [[great-purge]], [[world-wars-era]].
+
+**Full 10-range subagent extraction (Deployed Subagent Strategy, 2026-06-25)**: All disjoint caches processed. Representative new/expanded verbatim-grounded material integrated below and in actor/bio pages (Coda scale/stats, Siberia trip coercion mechanics + Article 107, Bukharin-Kamenev notes full quotes, early formation details, Civil War frictions, GS/Testament handling, 1928 plenum confrontations, Great Depression enabler role).
 
 All claims range-exclusive; 0 invented links; 0 broken wikilinks post-reconciliation.
 

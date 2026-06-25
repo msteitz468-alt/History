@@ -8,9 +8,9 @@ region_coverage: [global, eurasia, near-east, east-asia, africa, north-america, 
 methodological_approach: cartographic reference; chronological and thematic mapping of political, cultural, economic, and environmental developments; includes timelines, map sequences, and introductory essays
 reliability_notes: Authoritative visual reference atlas (first ed. 1978, this 1999 new edition edited by Richard Overy). Strong on political boundaries, trade routes, migrations, and urban development through time. Maps are interpretive and based on scholarly consensus of the era; scale and projection choices affect emphasis. Useful for geographic context, not primary narrative source. Text extraction from PDF limited due to map-heavy format (captions, chronologies, index extracted). Filed PDF contains the full visual content.
 pages_created: 1
-pages_updated: 0
-ingested: 2026-06-22
-last_updated: 2026-06-22
+pages_updated: 12
+ingested: 2026-06-22 (text/reference); pictures phase 2026-06-24
+last_updated: 2026-06-24
 tags: [source, reference, global, cartography, chronology]
 ---
 
@@ -37,6 +37,31 @@ The atlas is organized with front matter (Introduction, Chronology) followed by 
 | Back matter | Bibliography, Glossary, Index | — | — | Scholarly apparatus; detailed place/name index |
 
 (Exact page numbers and sub-map titles derived from the 1999 edition structure.)
+
+## Maps Extracted (pictures phase, 2026-06-24)
+
+Images stored under `wiki/assets/atlases/times-atlas-of-world-history-1999/`.
+
+Curated selection of 15 high-value historical maps chosen for broad utility across periods, processes, and places (not limited to warfare hub). Maps illustrate extents, trade networks, state formation, migrations/resistance, and decolonization. Further plates can be added from the 384-page volume as specific needs arise.
+
+Current plates (page-numbered for traceability + descriptive):
+- times-atlas-p050-se-asia-pre-civ-500bc.png (Southeast Asia before civilization, to 500 BCE)
+- times-atlas-p051-se-asia-trade-routes.png (early trade networks SE Asia)
+- times-atlas-p068-early-civilizations-eurasia.png (beginnings of Eurasian civilizations)
+- times-atlas-p092-roman-empire-height.png (Roman Empire at height, 31 BC–AD 235)
+- times-atlas-p093-roman-world-264bc.png (expansion of Roman power)
+- times-atlas-p144-islamic-spain-north-africa.png (Islamic Spain and North Africa)
+- times-atlas-p145-african-states-1000-1500.png (emergence of states in Africa, 1000–1500)
+- times-atlas-p146-muslim-world-800-1350.png (Muslim world Middle East & North Africa)
+- times-atlas-p155-france-reunification-1440.png (reunification of France 1440–1589)
+- times-atlas-p156-france-statebuilding-15c.png (state-building Low Countries / France)
+- times-atlas-p195-holy-roman-empire-18th.png (Holy Roman Empire / Germany 18th c.)
+- times-atlas-p196-germany-18th-century.png (Germany in the 18th century)
+- times-atlas-p250-anti-colonial-reaction-1881.png (anti-colonial reaction 1881–1917)
+- times-atlas-p251-anti-colonial-asia-africa.png (resistance movements Asia/Africa)
+- times-atlas-p284-decolonization-retreat-empire.png (retreat from empire since 1939)
+
+See embeds in periods/, processes/, places/ for usage. Full atlas retained for additional reference.
 
 ## Collection Coverage Note
 

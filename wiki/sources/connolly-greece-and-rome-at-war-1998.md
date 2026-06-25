@@ -9,9 +9,9 @@ methodological_approach: [material culture and experimental reconstruction, illu
 reliability_notes: >
   Peter Connolly (1935–). Leading modern illustrator and reconstructor of ancient arms, armour and formations. This 1998 new and revised edition (first 1981) is a standard visual and material reference for Greek and Roman military equipment, panoplies, phalanx and legion organisation, and tactical reconstructions. Connolly combines practical experimentation (reproducing shields, testing pilum handling, Boeotian shield functionality) with archaeological evidence (Olympia dedications, etc.) and literary sources. Includes substantial guest contributions: Dr Brian Dobson on Imperial army organisation, Dr Roger Tomlin on the later army. Excellent for grounding battle analyses in the warfare hub with concrete kit and formation details. Strong on enemies' equipment (Etruscans, Samnites, Celts, Carthaginians) and topics like siege warfare and naval. Limitations: Interpretive reconstructions; narrative is selective (detailed on Persian Wars, Hannibal, Pydna); some 1980s scholarship base; heavier on material than pure operational or grand-strategic analysis. Complements cultural approaches (Lendon) and modelling (Sabin).
 pages_created: 0
-pages_updated: 0
-ingested: 2026-06-23
-last_updated: 2026-06-23
+pages_updated: 3
+ingested: 2026-06-23 (text); pictures phase 2026-06-24
+last_updated: 2026-06-24
 tags: [source, warfare, classical-antiquity, equipment, reconstruction, phalanx, legion, battle-analysis]
 ---
 
@@ -88,6 +88,28 @@ Raw source to be filed to `raw/2. Ancient & Classical Civilizations/`.
 **Sources:** [[sources/lendon-soldiers-and-ghosts-2005]], [[sources/goldsworthy-roman-army-at-war-1996]], [[sources/goldsworthy-cannae-2001]], [[sources/hanson-a-war-like-no-other-2005]], [[sources/sabin-lost-battles-2009]], relevant CAH volumes, primary authors (Herodotus, Thucydides, Polybius, etc.)
 
 **Other pages:** [[periods/classical-antiquity]], [[periods/late-antiquity]]
+
+## Maps Extracted (pictures phase)
+
+Images stored under `wiki/assets/atlases/connolly-greece-and-rome-at-war-1998/`.
+
+Curated selection of quality illustrations and reconstructions from the 326-page heavily illustrated reference (pdftoppm extractions at 110 DPI, batches focused on high-value sections). Connolly's strength is detailed, practical reconstructions of equipment, formations, and battle mechanics. Selected for utility in the classical warfare hub, battle analyses (e.g. Cannae, Pydna), and concepts (phalanx, legion, equipment).
+
+Current plates (page-numbered + descriptive for key ones; curated from ~51 extracted):
+- connolly-p040-greek-phalanx-formation.png (detailed Greek phalanx in open/close/locked order, files, lochos, Argive shield)
+- connolly-p105-etruscan-italian-armor.png (6th c. Italian/Etruscan helmets, disc breastplates, cuirass reconstructions with labels)
+- connolly-p141-roman-marching-camp-numantia.png (Roman army entrenching, manipular camp plans, ramparts)
+- connolly-p145-punic-wars-context.png (manipular tactics, hastati/principes/triarii, pila use)
+- connolly-p015.png–p022.png range (early Greek/Persian Wars context and equipment)
+- connolly-p040.png–p050.png range (Macedonian sarissa phalanx)
+- connolly-p100.png–p120.png range (Punic/Republican equipment and tactics)
+- connolly-p140.png+ (Imperial equipment, siege, naval)
+
+Full set in assets folder. Selected for clear reconstructions of formations, kit, camps, and tactics to support classical antiquity warfare hub, Cannae, phalanx/legion concepts.
+
+Captions credit "Peter Connolly, *Greece and Rome at War* (new rev. ed. 1998), p. ~NNN".
+
+
 
 ## Primary Claims from the Text (Grounded Extractions)
 

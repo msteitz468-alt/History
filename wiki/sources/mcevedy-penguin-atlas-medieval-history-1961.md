@@ -8,9 +8,9 @@ region_coverage: [western-europe, northern-europe, eastern-europe, mediterranean
 methodological_approach: cartographic reference; schematic maps with timelines and minimal text showing political, ecclesiastical, and demographic developments in medieval Europe and the Mediterranean
 reliability_notes: Classic Penguin reference atlas by Colin McEvedy (first published 1961; multiple reprints). Features highly schematic, stylized maps emphasizing boundaries, routes, and population centers rather than topography. Excellent for quick overviews of political fragmentation, the spread of Christianity/Islam, trade, and the transition from late antiquity to the High Middle Ages. Text is minimal and captions are interpretive. OCR extraction from the PDF is poor quality; primary value is the visual/cartographic content. Not a narrative source.
 pages_created: 1
-pages_updated: 0
+pages_updated: 7
 ingested: 2026-06-22
-last_updated: 2026-06-22
+last_updated: 2026-06-24
 tags: [source, reference, high-middle-ages, late-middle-ages, cartography, medieval]
 ---
 
@@ -47,11 +47,29 @@ It is especially valuable for:
 
 Textual content in the PDF is limited and the OCR is poor; the maps themselves are the core resource (retained in the filed PDF).
 
+## Maps Extracted (thorough pictures-ingest 2026-06-24)
+
+Thorough extraction and curation of the 100-page PDF (pdftoppm -png -r 120). McEvedy's maps are highly schematic political boundary diagrams with consistent symbology for states, peoples, religions, and routes; facing text pages are minimal. Selected the clearest, most informative full-page plates for wiki use (political snapshots and base terrain). 6+ key maps renamed descriptively for traceability; full numeric set retained in assets/.
+
+- **mcevedy-med-p015-europe-physical.png**: Base physical map of Europe & Mediterranean (good agricultural land, conifer forest, mountains >1000m, marsh, desert, plateau). Excellent for terrain context in any medieval analysis or period geographic scope.
+- **mcevedy-med-p025-476-successor-kingdoms.png**: Political map A.D. 476 — fall of the Western Roman Empire and successor states (Visigothic Kingdom, Vandal Kingdom, Eastern Roman Empire, Western Roman remnant, Huns, Slavs, Berbers, etc.). Core for Late Antiquity/Early Middle Ages transition.
+- **mcevedy-med-p035-600-europe.png**: A.D. 600 — Frankish Kingdoms, Visigothic Kingdom, Eastern Roman Empire, Avar Khanate, Lombard, Persian Empire. Ideal overview of early medieval political fragmentation.
+- **mcevedy-med-p055-998-europe.png**: A.D. 998 — German Empire, Kingdom of France, Byzantine Empire, Fatimid Caliphate, Umayyad in Spain, Hungarian, Kievan Rus' area, etc. Strong snapshot bridging Early to High Middle Ages.
+- **mcevedy-med-p065-1092-crusades-era.png**: A.D. 1092 — German Empire, France, Byzantine Empire, Seljuk Sultanate, Fatimid Caliphate, Kingdom of Hungary, Polish principalities. Directly relevant to First Crusade and High Middle Ages eastern Mediterranean.
+- **mcevedy-med-p085-1430-late-medieval.png**: A.D. 1430 — England, France, German Empire, Poland-Lithuania, Ottoman Sultanate, Mamluk Sultanate, Golden Horde, Castile, Aragon, etc. Excellent for Late Middle Ages political geography.
+
+Additional plates (trade routes, physical variants) available in the assets directory for process pages or further use. All maps credited to McEvedy / Penguin Atlas of Medieval History.
+
 ## Use in the Wiki
 
 - Reference for geographic and chronological context in medieval entries.
 - Helps enforce the wiki's emphasis on the intersection of what happened, where, and when.
 - Complements the more detailed but less visual Cambridge volumes.
+- Primary value: situation overviews for period pages and campaign/battle context in the warfare hub (High and Late Middle Ages).
+
+**Example map embed:**
+![Europe physical base (McEvedy, Penguin Atlas of Medieval History)](assets/atlases/mcevedy-penguin-atlas-medieval-history-1961/mcevedy-med-p015-europe-physical.png)
+*(Curated from thorough extract; see full list above and [[sources/mcevedy-penguin-atlas-medieval-history-1961]].)*
 
 ## Historiography / Collection Note
 

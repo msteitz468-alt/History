@@ -9,8 +9,9 @@ methodological_approach: [biographical, military-narrative, archival, operationa
 reliability_notes: >
   Routledge & Kegan Paul 1985 (and later printings). The definitive modern English-language military biography of Frederick II of Prussia. Duffy draws on Frederick's own Politische Correspondenz (46 vols), Oeuvres (30 vols), contemporary Prussian General Staff histories, and physical battlefield surveys. Strong narrative of campaigns (Silesian Wars, Seven Years War, War of the Bavarian Succession) combined with analysis of generalship, army institutions, and Frederick's character as soldier-king. Complements Duffy's Siege Warfare volumes and The Military Experience in the Age of Reason (1987). Primary sources are exceptionally rich for the period; Duffy is critical of myth-making around "Old Fritz."
 pages_created: 1
-pages_updated: 5
+pages_updated: 6
 ingested: 2026-06-23
+# Note: Detailed biography page created in hubs/biographies (see Biography Hub)
 tags: [source, military-history, warfare-hub, age-of-expansion, frederick-the-great, seven-years-war, strategy]
 ---
 
