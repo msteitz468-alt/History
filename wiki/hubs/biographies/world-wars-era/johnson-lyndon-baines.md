@@ -8,9 +8,9 @@ date_death: "1973-01-22"
 date_precision: "exact"
 region: [north-america]
 key_offices: "U.S. Representative (Texas 10th District, 1937–1941); U.S. Senator (Texas, 1949–1961); Senate Majority Leader (1953–1961); U.S. Vice President (1961–1963); congressional secretary; college student body leader"
-major_decisions: "Refusal of Charles Marsh's oil partnership offer (1940); 1937 special congressional campaign; strategic alliance with Brown & Root; 1941 Senate campaign; decision to run in 1948 against Coke Stevenson; all-out modern campaign tactics (helicopter, spending); acceptance of South Texas machine votes (Box 13); apprenticeship to Richard Russell and mastery of Senate rules; engineering passage of Civil Rights Act of 1957 via compromise (Anderson-Aiken amendment); 1960 presidential bid and acceptance of VP nomination"
+major_decisions: "Refusal of Charles Marsh's oil partnership offer (1940); 1937 special congressional campaign; strategic alliance with Brown & Root; 1941 Senate campaign; decision to run in 1948 against Coke Stevenson; all-out modern campaign tactics (helicopter, spending); acceptance of South Texas machine votes (Box 13); apprenticeship to Richard Russell and mastery of Senate rules; engineering passage of Civil Rights Act of 1957 via compromise (Anderson-Aiken amendment); 1960 presidential bid and acceptance of VP nomination; conduct of the 1963 transition (Air Force One oath, EOB 274 command, early legislative strategy on civil rights and tax cut); handling of RFK feud and Kennedy staff during transition"
 primary_sources: "Extensive Caro interviews (hundreds, including with LBJ and contemporaries); LBJ's own papers and letters; Texas newspapers; Congressional Record; private papers of senators and staff; on-site Hill Country and Capitol research"
-key_sources: "[[sources/caro-years-of-lyndon-johnson-vol1-1982|Caro, The Path to Power (1982)]]; [[sources/caro-years-of-lyndon-johnson-vol2-1990|Caro, Means of Ascent (1990)]] (1941–1948); [[sources/caro-years-of-lyndon-johnson-vol3-2002|Caro, Master of the Senate (2002)]] (1949–1960 Senate career and 1957 CRA); later Caro volumes for continuation"
+key_sources: "[[sources/caro-years-of-lyndon-johnson-vol1-1982|Caro, The Path to Power (1982)]]; [[sources/caro-years-of-lyndon-johnson-vol2-1990|Caro, Means of Ascent (1990)]] (1941–1948); [[sources/caro-years-of-lyndon-johnson-vol3-2002|Caro, Master of the Senate (2002)]] (1949–1960 Senate career and 1957 CRA); [[sources/caro-years-of-lyndon-johnson-vol4-2012|Caro, The Passage of Power (2012)]] (1960 campaign, vice presidency, Dallas transition, and early Johnson presidency through 1964 legislative breakthroughs)"
 scale: "civilizational"
 last_updated: "2026-06-25"
 tags: [biography, detailed-analysis, world-wars-era, cold-war, long-19th-century, north-america, johnson-lyndon-baines, texas, new-deal, power, us-senate]
@@ -18,8 +18,7 @@ tags: [biography, detailed-analysis, world-wars-era, cold-war, long-19th-century
 
 <!--
 CANONICAL — see templates/biography-analysis-template.md. Do not redefine.
-This page is based on Vols. 1–3 of Caro and will be expanded further with Vol. 4 and synthesis.
-Senate years (1949–1960) and 1957 CRA treatment added during Vol. 3 ingest.
+This page is based on Vols. 1–4 of Caro. Senate years + 1957 CRA from Vol. 3; 1960 campaign, vice presidency, Dallas transition, and early 1964 legislative victories from Vol. 4.
 -->
 
 # Lyndon Baines Johnson — Detailed Biography
@@ -63,6 +62,8 @@ The hunger for power and willingness to use any means (deception, rigging, black
 **Lady Bird and Sam Rayburn** — Marriage to Lady Bird (November 1934, rushed with $2.50 Sears ring) brought stability and a gracious hostess who cooked for politicians and made Rayburn feel at home. Johnson cultivated Rayburn through regular Sunday breakfasts at their Kalorama apartment. Rayburn (with his own cotton-field populist background) became a key mentor and protector.
 
 **1937 special election for Buchanan's Tenth District seat (the "First Campaign")** — On Feb 23, 1937, while in Houston, Johnson saw the Houston Post headline "CONGRESSMAN JAMES P. BUCHANAN OF BRENHAM DIES" and "knew at once... 'this was my chance.'" The seat was the only realistic path to the first rung of elective national office. He instantly canceled a tour and drove 166 miles back to Austin. The Marshall Ford Dam's survival (Brown & Root already ~$500k in the red, Budget Bureau had just marked the project DISAPPROVED) made a friendly congressman existentially necessary. Wirtz's support was conditional on speed the dam required.
+
+**1960–1964: Vice Presidency, Assassination, and Transition (Caro Vol. 4)** — Lost 1960 nomination to JFK; accepted VP slot after RFK’s three interventions and “You Do It” pressure. Endured five years of marginalization, nicknames (“Rufus Cornpone”), exclusion from key meetings (final CMC deal made without him), and psychic cost (“being vice president is like being a cut dog”). On 22 Nov 1963 shielded by Youngblood in Dallas; learned “He’s gone” in Parkland cubicle; ordered announcement delay; sworn on AF1 with Jacqueline present. In seven weeks from EOB 274 used iron self-control, “Kennedy aura,” Byrd budget pressure, discharge petition activation, labor/civil-rights mobilization, and old Senate tactics to break the logjam. Declared “unconditional war on poverty” 8 Jan 1964 while cutting spending/employment. NSAM 273 maintained Vietnam continuity while preparing escalation options. The seven-week transition contained “the seeds of all that was to follow.”
 
 Wirtz supplied the strategy: make it a single-issue race as "Roosevelt's man" — more pro-Roosevelt than any rival. ("Of course it's a bunch of bullshit, this [Court-packing] plan, but if you'll flow with it, Roosevelt's friends will support you.") Seed money arrived immediately: Lady Bird secured $10,000 from her father (delivered Monday morning); Wirtz tapped Magnolia/"Umble" lobbying funds the same day.
 

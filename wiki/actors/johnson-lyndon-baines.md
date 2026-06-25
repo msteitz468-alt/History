@@ -7,9 +7,9 @@ period: [long-19th-century, world-wars-era, cold-war]
 region: [north-america]
 affiliated_with: [Democratic Party, New Deal, Brown & Root, Texas congressional delegation, Sam Rayburn]
 opposed_by: []
-key_events: [1937 special election to U.S. House (Tenth District), 1940 congressional campaign financing operation (Munsey Building), 1941 special Senate election (defeat by O'Daniel), "inactive" Navy service 1941–42, acquisition of KTBC radio (Lady Bird), 1948 Senate primary (87-vote "win" over Coke Stevenson via Box 13), 1949 swearing-in as junior Senator, rise to Senate Majority Leader (1953–1955), passage of Civil Rights Act of 1957, 1960 presidential campaign and acceptance of Democratic VP nomination, rural electrification / Marshall Ford Dam, Brown & Root alliance]
+key_events: [1937 special election to U.S. House (Tenth District), 1940 congressional campaign financing operation (Munsey Building), 1941 special Senate election (defeat by O'Daniel), "inactive" Navy service 1941–42, acquisition of KTBC radio (Lady Bird), 1948 Senate primary (87-vote "win" over Coke Stevenson via Box 13), 1949 swearing-in as junior Senator, rise to Senate Majority Leader (1953–1955), passage of Civil Rights Act of 1957, 1960 presidential campaign and acceptance of Democratic VP nomination, vice presidency (1961–1963) and RFK feud, John F. Kennedy assassination and Air Force One oath (1963-11-22), early presidency and passage of Civil Rights Act of 1964 + tax cut, 1964 election, rural electrification / Marshall Ford Dam, Brown & Root alliance]
 key_processes: [New Deal implementation and patronage in Texas, rural electrification, use of campaign money and contractor financing in congressional politics, machine-building via federal programs, mastery of Senate seniority/rules/filibuster and transformation of Majority Leader office, civil rights legislative compromise 1957, Southern bloc alliance and eventual break]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-25
 tags: [actor, person, world-wars-era, long-19th-century, cold-war, north-america, lyndon-johnson, texas, new-deal, power, us-senate, civil-rights]
 ---
@@ -59,6 +59,14 @@ Key episodes in the Senate mastery (detailed in Caro Vol. 3):
 - The Great Cause — Civil Rights Act of 1957: After Brown, Emmett Till, Autherine Lucy, and the Montgomery boycott victory, national pressure created a “rising tide.” Johnson forged the Hells Canyon–civil rights quid pro quo (southern votes for western dam in exchange for western support on weakening amendments). Russell’s July 2 speech exposed Part III enforcement powers; Eisenhower admitted limited understanding. Johnson directed Anderson (with Aiken) to strip Part III (52–38); O’Mahoney/ Cohen jury-trial + civil contempt language + Church non-segregated jury addendum created middle ground. South allowed bill to floor. Senate passed 72–18 (first civil rights bill since Reconstruction). Weak in substance but broke the myth of Southern invincibility and provided the “wedge.” Johnson’s August 7 speech framed it as pragmatic national unity step. Johnson’s earlier record (NYA, Longoria) showed expendable compassion; 1957 was the calculated pivot.
 - 1960 presidential bid and VP nomination: Ran, lost to JFK at convention, accepted VP slot after “You Do It” dynamics and convention maneuvering. Senate mastery ended; transition to national stage.
 
+## Vice Presidency and Transition (1960–1964) — The Passage of Power (Caro Vol. 4)
+
+Johnson lost the 1960 nomination to the younger, more telegenic John F. Kennedy. He accepted the vice-presidential nomination after intense pressure and Robert Kennedy’s attempt to force him off the ticket (three visits to the suite on July 14). As Vice President he was marginalized, subjected to open contempt by Kennedy staff (nicknamed “Rufus Cornpone” / “Uncle Cornpone”; Lady Bird “Little Pork Chop”), excluded from key deliberations (including the final CMC trade decision), and repeatedly humiliated in social and official settings. Attempts to retain de facto Senate leadership or obtain broad executive authority were rebuffed by caucus limits and a narrow Kennedy letter. The Kennedy–Johnson relationship, and especially the deep personal feud with Robert F. Kennedy, forms a central thread.
+
+On November 22, 1963, in Dallas, the assassination transformed everything. Agent Youngblood shielded Johnson on the floor of the car; in the Parkland cubicle O’Donnell delivered “He’s gone.” Johnson ordered delay of the announcement until he reached Air Force One, was sworn in with Jacqueline Kennedy present, and returned to Washington. In the following seven weeks (through the January 8, 1964 State of the Union) he operated from EOB 274 with iron self-control, used the “Kennedy aura” for continuity while asserting personal command, pressured Byrd on the budget (“I’m going to get you a budget I think you’ll be proud of”), activated the House discharge petition for the stalled civil rights bill, secured labor and civil-rights leaders’ mobilization, and broke the logjam. The tax bill and civil rights measure moved; on January 8 he declared “unconditional war on poverty” while announcing an actual reduction in federal spending and employment. The transition is presented as one of the most consequential and difficult in American history, conducted under the shadow of the RFK feud, looming Baker/Life scandals, and a grieving Kennedy circle. By the time of the early legislative victories Johnson had begun to “become a President.”
+
+Key linked pages from this volume: [[actors/kennedy-john-f]], [[actors/kennedy-robert-f]], [[actors/baker-bobby]].
+
 ## Significance and Counterfactuals
 
 Johnson's early career demonstrates how personal drive intersected with the new federal activism of the 1930s. The 1937 victory and the Brown & Root alliance delivered electricity and dams to the Hill Country while creating a durable financial-political machine. The 1940 Munsey operation turned Johnson from freshman into a national power broker. Counterfactually, a 1941 Senate win would have placed him in the upper chamber years earlier; the narrow defeat (altered boxes after an early lead) was the last major setback before his long ascent. By 1941 the core patterns — money as primary lever, organization via federal programs, secrecy, pragmatism/cynicism in alliances, relentless "touch every base" thoroughness — were fully formed.
@@ -72,7 +80,7 @@ See the detailed biography page and the source page for [[sources/caro-years-of-
 ## Related
 
 - Detailed analysis: [[hubs/biographies/world-wars-era/johnson-lyndon-baines|Lyndon Baines Johnson — Detailed Biography (Biography Hub)]]
-- Sources: [[sources/caro-years-of-lyndon-johnson-vol1-1982|Caro, The Path to Power (1982)]], [[sources/caro-years-of-lyndon-johnson-vol2-1990|Caro, Means of Ascent (1990)]], [[sources/caro-years-of-lyndon-johnson-vol3-2002|Caro, Master of the Senate (2002)]]
+- Sources: [[sources/caro-years-of-lyndon-johnson-vol1-1982|Caro, The Path to Power (1982)]], [[sources/caro-years-of-lyndon-johnson-vol2-1990|Caro, Means of Ascent (1990)]], [[sources/caro-years-of-lyndon-johnson-vol3-2002|Caro, Master of the Senate (2002)]], [[sources/caro-years-of-lyndon-johnson-vol4-2012|Caro, The Passage of Power (2012)]]
 - Senate mentor and Southern leader: [[actors/russell-richard|Richard B. Russell]]
 - Mentor: [[actors/sam-rayburn|Sam Rayburn]]
 - Spouse: [[actors/lady-bird-johnson|Lady Bird Johnson]]
@@ -81,4 +89,4 @@ See the detailed biography page and the source page for [[sources/caro-years-of-
 - Key processes: New Deal programs in Texas, rural electrification, money and media in mid-century American politics, transformation of Texas politics 1941–1948, Senate seniority and leadership institutionalization, 1950s civil rights legislative breakthrough
 - Allies: Brown & Root (Herman and George Brown)
 
-*This page incorporates material from Caro Vols. 1–3 (Path to Power, Means of Ascent, Master of the Senate). Vol. 4 (The Passage of Power) will add further expansion.*
+*This page incorporates material from Caro Vols. 1–4 (Path to Power, Means of Ascent, Master of the Senate, The Passage of Power). Vol. 4 covers the 1960 nomination fight, vice presidency, Dallas transition, and the first weeks of the Johnson presidency through early 1964 legislative breakthroughs.*
