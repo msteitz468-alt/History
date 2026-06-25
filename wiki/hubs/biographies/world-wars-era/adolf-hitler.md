@@ -344,7 +344,11 @@ Hitler’s immediate response (21 July broadcast/speech): 'A tiny clique of ambi
 
 ## 13. Historiography and Primary Sources (Nemesis emphasis)
 
-Kershaw's method reaches culmination: the 'working towards the Führer' dynamic explains radicalization even (especially) in defeat. Goebbels diaries remain the richest contemporary window into Hitler's thinking and mood. Military records and eyewitnesses (including bunker survivors) for mechanics of collapse. Strong caution on post-war memoirs and 'table talk'. Emphasizes societal complicity and structural forces alongside Hitler's personal centrality. Cross-reference specialized operational studies (Glantz/House for Eastern Front; Murray/Millett) for campaign detail; Tooze for economics. Together with *Hubris*, the indispensable integration of personal biography and societal explanation.
+Kershaw's method reaches culmination: the 'working towards the Führer' dynamic explains radicalization even (especially) in defeat. Goebbels diaries remain the richest contemporary window into Hitler's thinking and mood. Military records and eyewitnesses (including bunker survivors) for mechanics of collapse. Strong caution on post-war memoirs and 'table talk'. Emphasizes societal complicity and structural forces alongside Hitler's personal centrality. 
+
+**Range 09 (notes/bibliography) contribution:** Explicit source criticism prioritizes contemporary diaries (TBJG, Halder KTB, Koeppen, Dienstkalender) and archival/Nuremberg/IfZ records over postwar memoirs (Speer 'unreliable and greatly touched-up' per Sereny; Jodl 'legend' claim on Dunkirk halt; Höß/Eichmann chronology fallible; generals' self-exculpatory accounts). Specific qualifiers: Elser solo action demonstrated by Hoch (VfZ 1969); Ulex recollection doubted (Irving); Madagascar serious but collapsed with Sealion failure; Final Solution 'improvised'/cumulative (Browning/Burrin/Longerich/Aly; no blanket early order; local initiatives + broad mandate key); army complicity via accommodation despite protests (Krausnick/Wilhelm, Blaskowitz). Kershaw integrates structural ('working towards', polycracy) with personal will/ideology. (See source page Range 09 block for full qualifiers.)
+
+Cross-reference specialized operational studies (Glantz/House for Eastern Front; Murray/Millett) for campaign detail; Tooze for economics. Together with *Hubris*, the indispensable integration of personal biography and societal explanation.
 
 ---
 
