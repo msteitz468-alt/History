@@ -68,4 +68,4 @@ inequalities the system had built.
 ## Related pages
 
 [[gha-vol8-since-1935]] · [[southern-african-mineral-revolution]] · [[cape-colony]] · [[pan-africanism]] ·
-[[decolonization]] · [[cold-war]] · [[post-colonial-africa]] · [[sub-saharan-africa]]
+[[decolonization]] · [[cold-war]] · [[post-colonial-africa]] · [[sub-saharan-africa]] · [[sources/meredith-nelson-mandela-a-biography-2010]]
