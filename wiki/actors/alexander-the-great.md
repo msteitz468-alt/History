@@ -9,7 +9,7 @@ affiliated_with: [[[philip-ii-of-macedon|Philip II]], Macedon, the Argead dynast
 opposed_by: [[[achaemenid-empire|Achaemenid Persia]] (Darius III), Porus, Tyre, Greek city-states]
 key_events: [accession 336 BCE, conquest of the Achaemenid Empire 334-330 BCE ([[battle-of-gaugamela-331bce|Gaugamela]]), founding of Alexandria 331 BCE, Indian campaign 327-325 BCE, death at Babylon 323 BCE]
 key_processes: [[[empire]], Hellenization, [[trade-network-formation]], [[silk-roads]], [[hellenistic-world]]]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-06-25
 tags: [actor, person, classical-antiquity, mediterranean, near-east, greece]
 ---
@@ -119,6 +119,8 @@ setting he entered. It is also a useful survey of the **"many images" of Alexand
 late source-tradition has generated.
 
 **Robin Lane Fox, *Alexander the Great* (1973; 2004 reissue)** ([[fox-alexander-the-great-1973]]) supplies the richest narrative reconstruction among current sources. Explicitly "a search, not a story," it is grounded in close source criticism (especially Arrian/Ptolemy) and practical military/topographical reasoning. It adds detailed accounts of the Balkan prelude, the great set-piece battles and sieges (Granicus, Issus, Tyre, Gaugamela), the Gedrosian return, and the mechanics of fusion policy and army discipline. Its portraits of Philip's legacy and the limits Alexander faced are particularly valuable for the detailed biography.
+
+**Peter Green, *Alexander of Macedon, 356–323 B.C.* (1974/1991/2013)** ([[green-alexander-of-macedon-2013]]) provides the most sustained psychological and Badian-influenced political reading. Green depicts Alexander as a brilliant but obsessional conqueror whose successes fed narcissism into megalomania; he is more willing than Fox to accept "vulgate" anecdotes of brutality and court intrigue as reflecting real patterns (comparing purges to later tyrannies). Green emphasizes the growing alienation between Alexander and his Macedonian core and treats fusion policies as pragmatic responses to military overstretch rather than idealistic universalism. His treatment of Philip II's structural legacy (Ch. 1) and the Granicus propaganda appendix are especially strong. Complements Fox by supplying a coherent interpretive through-line.
 
 ## Related
 

@@ -10,7 +10,7 @@ region: [macedonia, balkans, near-east, levant, mesopotamia, iran-plateau, centr
 key_offices: "King of Macedon (336–323 BCE); Hegemon of the League of Corinth; King of Asia (self-proclaimed post-331)"
 major_decisions: "Turn west to Egypt after Issus (332); commit to seven-month siege of Tyre (332); policy of fusion (Roxane marriage, 30,000 Epigonoi, Susa weddings 324); halt at the Hyphasis/Beas (326); test of proskynesis (327); final Arabian expedition plans (323)"
 primary_sources: "Arrian (Ptolemy + Aristobulus), Plutarch, Diodorus Siculus, Quintus Curtius Rufus, Justin; Royal Diaries (via Eumenes/Diodotus); Callisthenes (fragments); Nearchus, Onesicritus, Chares, Ephippus, Aristobulus, Cleitarchus (lost, known via vulgate)"
-key_sources: "Robin Lane Fox, Alexander the Great (1973/2004); Carol G. Thomas, Alexander the Great in his World (2007); CAH VI (Bosworth/Hornblower chs. 16–18); CWH IV; A. B. Bosworth, Conquest and Empire"
+key_sources: "Peter Green, Alexander of Macedon (1974/1991/2013); Robin Lane Fox, Alexander the Great (1973/2004); Carol G. Thomas, Alexander the Great in his World (2007); CAH VI (Bosworth/Hornblower chs. 16–18); CWH IV; A. B. Bosworth, Conquest and Empire"
 scale: "hemispheric"
 last_updated: "2026-06-25"
 tags: [biography, detailed-analysis, classical-antiquity, macedonia, near-east]
@@ -97,8 +97,10 @@ Fox's contribution is topographical and logistical realism plus refusal to choos
 
 **Primary-source critique (synthesized):** Arrian/Ptolemy strongest on operations and the king's own orders; vulgate preserves valuable variant traditions (e.g., alternative Granicus timing) but inflates numbers and drama. Royal Diaries are valuable for the death sequence but shaped by politics. The Alexander Romance is largely legendary (Egyptian, centuries later) with occasional genuine kernels.
 
+**Peter Green (Alexander of Macedon, 1974/2013)** supplies the most explicitly psychological and power-political reading among current sources. Deeply indebted to Ernst Badian, Green portrays Alexander as a "militarily brilliant obsessional" whose successes fed superstitious narcissism into megalomania and godhead claims. He accepts more of the "lurid" vulgate material (Curtius, Justin, Plutarch anecdotes) as reflective of real Macedonian court brutality and Alexander's ruthlessness, comparing internal purges to Stalinist or Pol Pot patterns. Green stresses the widening gap between Alexander's ever-expanding goals and the exhaustion/limited aims of his Macedonian troops; fusion policies (Roxane, Epigonoi, Susa weddings) were pragmatic army-society engineering rather than idealism. His Appendix on Granicus propaganda is a model source-critical study. Green complements Fox's caution by providing a coherent (if bleak) character through-line grounded in Badianite realpolitik. His Ch. 1 on Philip II remains one of the best short accounts of the structural inheritance.
+
 Counterfactuals hinge on his early death: a longer reign might have produced more stable fusion or further over-extension; the Successors' wars were not inevitable from structural causes alone but accelerated by the absence of a clear adult heir and the accident of personality.
 
-**Navigation:** Summary: [[actors/alexander-the-great]] · Related campaigns: [[battle-of-gaugamela-331bce]] · Broader context: [[hellenistic-world]] · Period: [[periods/classical-antiquity]] · Source spine: [[fox-alexander-the-great-1973]]
+**Navigation:** Summary: [[actors/alexander-the-great]] · Related campaigns: [[battle-of-gaugamela-331bce]] · Broader context: [[hellenistic-world]] · Period: [[periods/classical-antiquity]] · Source spine: [[green-alexander-of-macedon-2013]] · [[fox-alexander-the-great-1973]] · [[thomas-alexander-in-his-world]]
 
 **Co-Authored-By: Grok 4.3 (xAI) + main-thread synthesis from Fox subagent ranges.**
