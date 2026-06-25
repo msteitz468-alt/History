@@ -1,0 +1,54 @@
+---
+title: Reichstag Election, July 1932
+date_start: 1932-07-31
+date_end: 1932-07-31
+date_precision: exact
+period: [World Wars Era]
+region: [western-europe]
+location: [germany]
+actors_primary: ["adolf-hitler", "nazi-party", "joseph-goebbels"]
+actors_secondary: ["franz-von-papen", "social-democratic-party"]
+event_type: election
+scale_immediate: national
+scale_consequential: civilizational
+causes: ["lifting-of-sa-ban-june-1932", "papen-dissolution", "continuing-depression", "nazi-toleration-then-opposition-to-papen", "previous-presidential-and-state-gains"]
+consequences: ["nazi-largest-party-230-seats-37.4-percent", "pyrrhic-victory-no-absolute-majority", "intensified-backstairs-negotiations", "august-1932-hindenburg-rejection", "continued-crisis-and-violence"]
+sources_ingested: 1
+last_updated: 2026-06-25
+tags: [event, world-wars-era, western-europe, nazi-rise, reichstag-election, 1932]
+---
+
+# Reichstag Election, 31 July 1932
+
+## Narrative
+
+The Nazis entered upon its fourth election campaign within four months. ... When the results were declared on 31 July, the Nazis could record another victory – of sorts. They had increased their share of the vote to 37.4 per cent. This made them, with 230 seats, easily the largest party in the Reichstag.³⁴² The Socialists had lost votes, compared with 1930; the KPD and Zentrum had made slight gains; the collapse of the bourgeois parties of the centre and right had advanced still further.
+
+The victory for the Nazis was, however, only a pyrrhic one. Compared with the Reichstag election results of 1930, let alone 1928, their advance was indeed astonishing. But from a more short-term perspective the outcome of the July election could even be regarded as disappointing. They had scarcely improved on the support they had won in the second presidential election and in the April state elections. Goebbels gave a sober assessment of the position: ‘We have won a tiny bit… Result: now we must come to power and exterminate (ausrotten) Marxism. One way or another! Something must happen. The time for opposition is over. Now deeds! Hitler is of the same opinion. Now events have to sort themselves out and then decisions have to be taken. We won’t get to an absolute majority this way.’³⁴³
+
+A summer of unprecedented political violence followed the lifting of the SA ban on 16 June: daily clashes, dozens of murders (17 in second half of June, 86 in July), Altona ‘Blood Sunday’.
+
+## Causal Analysis
+
+Hitler now had his chance to try to win power by the ballot-box. State elections in Oldenburg at the end of May and in Mecklenburg-Schwerin on 5 June brought the NSDAP respectively 48.4 and 49.0 per cent of the vote.³²⁷ On 19 June in Hessen the Nazis increased their proportion of the vote there to 44 per cent.³²⁸ An absolute majority in the Reichstag election did not seem out of the question.
+
+The level of violence was frightening... Nazi violence, it might be thought, ought to have put off the ‘respectable’ bourgeois following... But since such Nazi supporters saw the threat as lying on the Left, the anti-Communist thuggery purporting to serve the interests of the nation alienated remarkably few voters.
+
+Nazi toleration of the Papen government counted for little once the campaign was under way.
+
+## Consequence Analysis
+
+On 2 August, Hitler was still uncertain what to do... Within two days... Hitler had decided how to play his hand. He arranged a meeting with Schleicher in Berlin to put his demands: the Chancellorship for himself...
+
+The pyrrhic nature set up the August crisis and the 13 August rejection: largest party but no majority, and Hindenburg still refused the Chancellorship.
+
+## Historiography
+
+Kershaw underscores the limits of mobilization: even at peak the NSDAP could not reach absolute majority through elections alone. The violence of summer 1932 further illustrated the near-civil-war conditions that made élite ‘solutions’ (authoritarian government with or without Hitler) seem urgent to conservatives. The election confirmed Hitler’s veto power but exposed the ceiling on purely electoral strategy.
+
+**Grounded in range:** Kershaw ch. 10, election statistics, Goebbels diary, violence reports, Papen government context.
+
+## Sources
+
+Kershaw, *Hitler 1889–1936: Hubris* (1998), range 03.
+Cross: [[appointment-of-hitler-30-january-1933]], [[13-august-1932-hindenburg-rejection]], [[papen-government-1932]]

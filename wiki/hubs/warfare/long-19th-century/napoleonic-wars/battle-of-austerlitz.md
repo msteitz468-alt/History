@@ -43,6 +43,12 @@ The weather on the eve of battle was freezing, with fog thick in the low ground.
 
 The allied commanders received poor intelligence in return. They observed that Napoleon had only thinly spread forces on his right flank, and they concluded — as Napoleon intended — that his army was too weak to hold the Pratzen if they attacked south of it. Kutusov had doubts about the plan but was overruled; the tsar "believed any shortcomings in their battle plans would be negated by deficiencies in Napoleon's army and dispositions. They had no idea they had been tricked."
 
+**Cartographic support from Battles Map by Map (DK/Smithsonian):** Situation map of Austerlitz showing the Pratzen Heights, the French deceptive thin center/right, Soult's central assault, and the southern envelopment against the ponds.
+
+![Austerlitz (1805) — Napoleon's masterpiece: the false weakness on the right, the assault on the Pratzen, and the destruction of the allied flank (Battles Map by Map, p. 166)](assets/atlases/battles-map-by-map/bmb-p166.png)
+
+*Map from [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]].*
+
 ## 3. Order of Battle and Deployment
 
 | Category | France | Allied (Russia/Austria) |

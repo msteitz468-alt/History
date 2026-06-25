@@ -18,7 +18,7 @@ outcome: "Decisive Union victory; Confederate retreat from Pennsylvania"
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[events/american-civil-war-1861-1865]]"
-key_sources: "Stephen W. Sears, Gettysburg (2003) — primary operational narrative, eyewitness accounts (Haskell, Abbott, Fiske, Fremantle), detailed 'The Armies at Gettysburg' OOB appendix with OR casualties; Laino, Gettysburg Campaign Atlas 2nd ed. (for OOB); Philip Laino maps; Edward Krasnoborski maps #93a/b (West Point Atlas); Rowan Technology Solutions 2014; OR references; West Point History (Rogers & Seidule 2014)"
+key_sources: "Stephen W. Sears, Gettysburg (2003) — primary operational narrative, eyewitness accounts (Haskell, Abbott, Fiske, Fremantle), detailed 'The Armies at Gettysburg' OOB appendix with OR casualties; Laino, Gettysburg Campaign Atlas 2nd ed. (for OOB); Philip Laino maps; Edward Krasnoborski maps #93a/b (West Point Atlas); Rowan Technology Solutions 2014; OR references; West Point History (Rogers & Seidule 2014); [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]] (situation maps)"
 last_updated: "2026-06-23"
 tags: [warfare, battle-analysis, long-19th-century, eastern-north-america, american-civil-war]
 ---
@@ -29,6 +29,10 @@ tags: [warfare, battle-analysis, long-19th-century, eastern-north-america, ameri
 
 Grounded in Stephen W. Sears, *Gettysburg* (2003) — primary operational narrative and "The Armies at Gettysburg" appendix (OR + primary modifications); cross-referenced to Laino atlas, West Point maps, and OR. All claims verbatim from the 2003 text via 6 disjoint subagent ranges.
 
+**Cartographic support (thorough ACW atlas ingest):** West Point / Krasnoborski plates for Gettysburg campaign and battle situations (supplementing the campaign sample in assets).
+
+See [[sources/west-point-atlas-american-civil-war-griess]] for additional plates (p087+, p091+ etc.).
+
 ## 1. Strategic Context and Objectives
 
 **Confederate (Lee)** — After Chancellorsville, the Army of Northern Virginia held high confidence. "The universal feeling in the army was one of profound contempt for an enemy whom they have beaten so constantly." Lee sought a compensating eastern victory to offset the certain loss of Vicksburg. He rejected detaching forces west ("it becomes a question between Virginia and the Mississippi") and secured Davis's approval for invasion of Pennsylvania to draw the Federals north, live off the country, and win "a victory of real consequence won in the Northern heartland." Pre-campaign, Lee and Longstreet agreed: "We should assume the aggressive" while forcing the enemy to attack on ground of Confederate choosing. Subsistence shortages on the Rappahannock ("his men ... were hungry. They had been hungry there since the first of the year") made remaining in Virginia untenable.
@@ -36,6 +40,12 @@ Grounded in Stephen W. Sears, *Gettysburg* (2003) — primary operational narrat
 **Union (Meade)** — The Army of the Potomac had absorbed Fredericksburg and Chancellorsville but showed remarkable resilience ("This Army of the Potomac is truly a wonderful army ... They have something of the English bull-dog in them"). Officer corps plotted against Hooker; rank-and-file held. Massive mustering-out of two-year and nine-month regiments (30,500 men, >27% of infantry) plus Chancellorsville losses shrank the army. Lincoln directed Hooker (then Meade) to operate on the "inside track," shortening lines while Lee lengthened his, and to fight when opportunity offered. Meade assumed command 28 June; his task was rapid concentration to protect Washington/Baltimore while seeking to force Lee to attack on favorable ground.
 
 ## 2. Terrain, Weather, and Intelligence
+
+**Cartographic support from Battles Map by Map (DK/Smithsonian):** Detailed multi-day map of the Gettysburg battlefield with phases, key terrain, and force movements.
+
+![Gettysburg (1863) — Battle map showing Day 1-3 actions, deployments, and key features like Little Round Top and Cemetery Ridge (Battles Map by Map, p. 186)](assets/atlases/battles-map-by-map/bmb-p186-gettysburg.png)
+
+*Map from [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]]. Provides excellent visual context for the three-day battle.*
 
 **Ground:** Gettysburg sat at the convergence of ten roads. West of town: successive north-south ridgelines (Herr's, McPherson's/Oak, Seminary). South: the fishhook — Culp's Hill, Cemetery Hill and Ridge, Little Round Top and Round Top. "The most westerly ... Herr's Ridge. Immediately south ... rugged Culp's Hill and Cemetery Hill ... forming Cemetery Ridge ... Little Round Top and the taller Round Top." Broken ground at Devil's Den (boulders, "Slaughter Pen"), Wheat Field, Peach Orchard, and Plum Run valley favored cover but fragmented formations.
 

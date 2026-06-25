@@ -12,6 +12,7 @@ forces:
   persia: 100,000+ (including scythed chariots, vast cavalry and infantry)
 outcome: Decisive Macedonian victory; end of Achaemenid field army
 scale: civilizational
+key_sources: [[sources/ralby-atlas-of-military-history-2015|Ralby, Atlas of Military History (2015)]]
 ---
 
 # Battle of Gaugamela – Tactical Analysis
@@ -29,6 +30,12 @@ This page provides a structured, professional-level (West Point / military acade
 **Persian (Darius III)**:
 - Primary objective: Defend the empire's core using superior numbers, chariots, and cavalry on prepared ground.
 - Chose open plain near Gaugamela, leveling it for chariots.
+
+**Cartographic support from Ralby, Atlas of Military History (2015):** Alexander the Great campaigns c. 336–323 BCE, including Gaugamela and the conquest of Persia.
+
+![Alexander the Great c. 336–323 BCE (Ralby p. 068)](assets/atlases/ralby-atlas-of-military-history-2015/ralby-amh-p068-alexander-the-great-336-323bce.png)
+
+*Map from [[sources/ralby-atlas-of-military-history-2015]].*
 
 ## Terrain and Environment
 

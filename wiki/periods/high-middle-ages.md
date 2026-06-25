@@ -200,6 +200,9 @@ European and West African "cul-de-sacs." In the western hemisphere, Mesoamerica
 mutually unaware; Polynesia completes its eastward settlement (Hawaii, Rapa Nui,
 Aotearoa) within this window.
 
+![Europe and Near East c. 1092 on the eve of the Crusades — German Empire, Seljuk Sultanate, Byzantine and Fatimid powers](assets/atlases/mcevedy-penguin-atlas-medieval-history-1961/mcevedy-med-p065-1092-crusades-era.png)
+*Map from [[sources/mcevedy-penguin-atlas-medieval-history-1961]].*
+
 ## Transition
 
 **Entry:** from the [[early-middle-ages]] at c. 1000 CE, as the Tang, Carolingian,

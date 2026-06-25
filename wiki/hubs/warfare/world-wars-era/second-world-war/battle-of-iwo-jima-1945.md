@@ -18,7 +18,7 @@ outcome: "US victory after 36 days of brutal fighting; both airfields seized and
 scale_immediate: regional (small island but key Central Pacific node)
 scale_consequential: hemispheric / global (P-51 escort range to Japan; 2,200+ B-29 emergency landings saving thousands of aircrew; accelerated firebombing/atomic end to war; demonstrated Japanese inland defense costs)
 event_page: "[[events/world-war-ii-1939-1945]]"
-key_sources: "Robert W. Love Jr. 'The Defeat of Japan' (Ch. 5) in The West Point History of World War II, Volume 2 (Rogers & Seidule eds., 2016); range_4 text (Guadalcanal prototype for triphibious island assault, Henderson Field airpower model, material disadvantage lessons, 'first hole in Japan’s Pacific defenses'); cross-ref range_2 for specific Iwo air support quotes. Template analysis grounded in Vol. 2 operational style."
+key_sources: "Robert W. Love Jr. 'The Defeat of Japan' (Ch. 5) in The West Point History of World War II, Volume 2 (Rogers & Seidule eds., 2016); range_4 text (Guadalcanal prototype for triphibious island assault, Henderson Field airpower model, material disadvantage lessons, 'first hole in Japan’s Pacific defenses'); cross-ref range_2 for specific Iwo air support quotes. Template analysis grounded in Vol. 2 operational style; [[sources/murray-atlas-american-military-history-2005]] (Murray atlas Iwo Jima / Pacific map)"
 last_updated: 2026-06-23
 tags: [warfare, battle-analysis, world-wars-era, pacific, east-asia, second-world-war, amphibious, marines, air-power, island-hopping]
 ---
@@ -28,6 +28,10 @@ tags: [warfare, battle-analysis, world-wars-era, pacific, east-asia, second-worl
 > **Narrative & full sources:** [[events/world-war-ii-1939-1945|Full event page]] · **War hub:** [[hubs/warfare/world-wars-era/second-world-war/second-world-war|World War II — War Hub]] · **Warfare hub:** [[hubs/warfare/warfare-hub|Warfare & Strategy]] · **Source:** [[sources/rogers-seidule-west-point-history-world-war-ii-v2-2016|The West Point History of World War II, Volume 2 (2016)]] (Range 4 / Love Ch. 5 + Waddell Ch. 6 context + Guadalcanal prototype exclusively for foundational lessons)
 
 Staff-college-level analysis of the costliest Marine battle in US history as the penultimate step in Central Pacific island hopping. Focus: Kuribayashi's defense-in-depth (no beach defense, tunnel/cave system) vs US triphibious assault, naval gunfire/air preparation, airfield seizure and repair as decisive objective. Lessons from Guadalcanal (range_4) applied: airpower lodgment (Henderson model), material vs will, triphibious integration. Reciprocal links to main event, war hub, and [[hiroshima-nagasaki-1945]].
+
+![War in the Pacific 1944–1945, with focus on Iwo Jima and the Philippines (Allied advance, Japanese resistance and final surrenders)](assets/atlases/murray-atlas-american-military-history-2005/murray-amh-p190-iwo-jima-philippines-1945.png)
+
+*Map from [[sources/murray-atlas-american-military-history-2005]].*
 
 ## 1. Strategic Context and Objectives
 

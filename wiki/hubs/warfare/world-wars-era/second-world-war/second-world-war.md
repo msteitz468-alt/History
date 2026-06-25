@@ -3,7 +3,7 @@ title: "World War II — War Hub"
 hub_type: war
 period: "World Wars Era"
 war: "second-world-war"
-last_updated: 2026-06-23
+last_updated: 2026-06-24
 tags: [hub, warfare, world-wars-era, global]
 ---
 
@@ -12,6 +12,82 @@ tags: [hub, warfare, world-wars-era, global]
 **Narrative overview:** [[events/world-war-ii-1939-1945|World War II]] (full story, causes, political context, overall consequences, major turning points).
 
 This war hub page provides the operational and campaign-level overview. Individual battles and campaigns receive deep tactical/operational analysis in their dedicated `hubs/warfare/world-wars-era/second-world-war/[battle-or-campaign].md` pages.
+
+**Cartographic support:** More thorough pictures-ingest (2026-06-24) from the companion [[sources/west-point-atlas-second-world-war|West Point Atlas of World War II]] (168 plates). Expanded set (~50 plates total) now includes additional Eastern Front (Barbarossa 1941 offensive with Leningrad inset), North Africa (Gazala-Bir Hacheim), early campaigns, Pacific, and late war. Example early:
+
+![Example situation / campaign map from the West Point Atlas of World War II (page ~009)](assets/atlases/west-point-atlas-second-world-war/wwii-atlas-p009-early-war-europe.png)
+
+See source page for full expanded list and individual battle analyses for specific inserts in Terrain/OOB/Phases.
+
+Additional example (Eastern Front summer 1941):
+
+![The War in Eastern Europe — German Summer Offensive 1941 (West Point Atlas of World War II, page ~035)](assets/atlases/west-point-atlas-second-world-war/wwii-atlas-p035-eastern-europe-1941-offensive.png)
+
+Additional North Africa campaign context (complementing Gazala/Bir Hacheim notes):
+
+![North Africa WWII 1935–1945 — Rommel's first offensive in Cyrenaica (1941)](assets/atlases/ralby-atlas-of-military-history-2015/ralby-amh-p040-north-africa-wwii-1941.png)
+
+*Map from [[sources/ralby-atlas-of-military-history-2015]]*
+
+Additional early-war campaign example (Winter War):
+
+![The Winter War in Finland 1939–1940 (Soviet invasion phases, Karelian Isthmus, Moscow Peace Treaty)](assets/atlases/world-war-ii-map-by-map-2019/wwii-map-by-map-p045-winter-war-finland-1939-1940.png)
+
+*Map from [[sources/world-war-ii-map-by-map-2019]]*
+
+Additional 1940 campaign detail (Fall of France):
+
+![The Fall of France 1940 — German advances, Dunkirk, armistice, and division into occupied/Vichy zones](assets/atlases/world-war-ii-map-by-map-2019/wwii-map-by-map-p055-fall-of-france-1940.png)
+
+*Map from [[sources/world-war-ii-map-by-map-2019]]*
+
+Additional pivotal 1942 battle (Midway):
+
+![Battle of Midway 1942 — US ambush of Japanese carriers, phases and sinkings](assets/atlases/world-war-ii-map-by-map-2019/wwii-map-by-map-p126-battle-of-midway-1942.png)
+
+*Map from [[sources/world-war-ii-map-by-map-2019]]*
+
+Additional 1942 turning point (Stalingrad):
+
+![Stalingrad under siege 1942 — urban fighting, Soviet defenses, Volga crossings](assets/atlases/world-war-ii-map-by-map-2019/wwii-map-by-map-p150-stalingrad-under-siege-1942.png)
+
+*Map from [[sources/world-war-ii-map-by-map-2019]]*
+
+Additional 1944 invasion (D-Day):
+
+![The D-Day Landings 1944 — Normandy beaches, Operation Neptune, deception and forces](assets/atlases/world-war-ii-map-by-map-2019/wwii-map-by-map-p186-d-day-landings-normandy-1944.png)
+
+*Map from [[sources/world-war-ii-map-by-map-2019]]*
+
+Additional North Africa early campaign:
+
+![The Beginning of the North Africa Campaign 1940-41 — Italian offensives, British response, Cyrenaica](assets/atlases/world-war-ii-map-by-map-2019/wwii-map-by-map-p074-beginning-of-north-africa-campaign-1940.png)
+
+*Map from [[sources/world-war-ii-map-by-map-2019]]*
+
+Additional Eastern Front opening:
+
+![Operation Barbarossa 1941 — German invasion of the USSR, initial advances and axes](assets/atlases/world-war-ii-map-by-map-2019/wwii-map-by-map-p091-operation-barbarossa-1941.png)
+
+*Map from [[sources/world-war-ii-map-by-map-2019]]*
+
+Additional 1942 turning point (El Alamein):
+
+![Second Battle of El Alamein 1942 — Allied victory in Egypt, Rommel's retreat](assets/atlases/world-war-ii-map-by-map-2019/wwii-map-by-map-p130-second-battle-of-el-alamein-1942.png)
+
+*Map from [[sources/world-war-ii-map-by-map-2019]]*
+
+Additional late-war Western Front:
+
+![Battle of the Bulge 1944-45 — German Ardennes offensive, Allied pincer response](assets/atlases/world-war-ii-map-by-map-2019/wwii-map-by-map-p229-battle-of-the-bulge-1944.png)
+
+*Map from [[sources/world-war-ii-map-by-map-2019]]*
+
+Additional final push:
+
+![Soviet advance to Berlin 1945 — Eastern Front offensive leading to the capital](assets/atlases/world-war-ii-map-by-map-2019/wwii-map-by-map-p233-soviet-advance-to-berlin-1945.png)
+
+*Map from [[sources/world-war-ii-map-by-map-2019]]*
 
 ## Major Phases and Theaters (from West Point History Vol. 1 focus)
 

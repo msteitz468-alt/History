@@ -18,7 +18,7 @@ outcome: "Catastrophic British failure on most of the front; the bloodiest singl
 scale_immediate: "regional"
 scale_consequential: "global"
 event_page: "[[events/battle-of-the-somme-1916]]"
-key_sources: "Keegan, The Face of Battle (1976), ch. 4; British Official History; battalion war diaries quoted therein"
+key_sources: "Keegan, The Face of Battle (1976), ch. 4; British Official History; battalion war diaries quoted therein; [[sources/west-point-atlas-great-war-greiss|West Point Atlas for the Great War (Greiss)]] (situation maps); [[sources/banks-military-atlas-first-world-war-1975|A Military Atlas of the First World War (Banks, 1975)]] (Somme 1 July 1916 lines)"
 last_updated: "2026-06-24"
 tags: [warfare, battle-analysis, world-wars-era, western-europe, first-world-war]
 ---
@@ -33,6 +33,12 @@ climactic case study — the type-case of modern **industrial battle**. Keegan's
 [[face-of-battle-method|face-of-battle method]] is here at full stretch: the first day of the Somme
 is reconstructed as a **contest of competing technologies** and as a human catastrophe visited on a
 volunteer civilian army.
+
+**Cartographic support from Banks, A Military Atlas of the First World War (1975):** Somme front lines 1 July 1916 (opening assault).
+
+![Somme July 1916 (Banks p. 148)](assets/atlases/banks-military-atlas-first-world-war-1975/banks-p148-somme-july-1916.png)
+
+*Map from [[sources/banks-military-atlas-first-world-war-1975]].*
 
 ## 1. Strategic Context and Objectives
 
@@ -63,6 +69,10 @@ action before the British infantry could cross.
 - **What the gunners could not know.** Many gunners were "amateurs," who "had largely to guess at
   where their real targets, the German machine-gun crews, were hidden, and then very often lacked
   the skill to put a shell where they wanted it to fall."
+
+![Great War / Western Front situation map example (West Point Atlas for the Great War, page ~040)](assets/atlases/west-point-atlas-great-war/greatwar-p040-somme-context.png)
+
+*Map from the West Point Atlas for the Great War (Greiss ed.). See [[sources/west-point-atlas-great-war-greiss]].*
 
 ## 3. Order of Battle and Deployment
 

@@ -24,6 +24,10 @@ tags: [event, world-wars-era, balkans, western-europe, first-world-war]
 
 The five-week diplomatic and military crisis from the assassination of Archduke **Franz Ferdinand** in Sarajevo on 28 June 1914 to the outbreak of general European war in early August. It transformed a Balkan quarrel into a continental (and then global) war through the interaction of alliance commitments, mobilization timetables, and decision-making under time pressure.
 
+![Europe's plunge to disaster in the summer of 1914 — day-by-day timeline of the July Crisis with alignments, ultimatums, and mobilizations](assets/atlases/banks-military-atlas-first-world-war-1975/banks-p022-july-crisis-plunge-1914.png)
+
+*Map from [[sources/banks-military-atlas-first-world-war-1975]].*
+
 ## Narrative
 
 On 28 June 1914, heir-apparent Archduke Franz Ferdinand and his wife Sophie were assassinated in Sarajevo by Gavrilo Princip, a Bosnian Serb student associated with Young Bosnia and supported logistically by elements of Ujedinjenje ili Smrt ("Black Hand," led by Colonel Dragutin Dimitrijovic/Apis of the Serb intelligence service). The plot used weapons supplied via Serb army officers; Princip had crossed from Serbia. The Serb government under Nikola Pasic was aware of arms traffic risks but politically constrained by the army and nationalist opinion; it did not issue a specific warning to Vienna and treated the act as an internal Habsburg matter.

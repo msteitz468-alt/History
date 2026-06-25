@@ -9,12 +9,14 @@ affiliated_with: [[[philip-ii-of-macedon|Philip II]], Macedon, the Argead dynast
 opposed_by: [[[achaemenid-empire|Achaemenid Persia]] (Darius III), Porus, Tyre, Greek city-states]
 key_events: [accession 336 BCE, conquest of the Achaemenid Empire 334-330 BCE ([[battle-of-gaugamela-331bce|Gaugamela]]), founding of Alexandria 331 BCE, Indian campaign 327-325 BCE, death at Babylon 323 BCE]
 key_processes: [[[empire]], Hellenization, [[trade-network-formation]], [[silk-roads]], [[hellenistic-world]]]
-sources_ingested: 4
-last_updated: 2026-06-11
+sources_ingested: 5
+last_updated: 2026-06-25
 tags: [actor, person, classical-antiquity, mediterranean, near-east, greece]
 ---
 
 # Alexander the Great
+
+> **Detailed analytic biography:** [[hubs/biographies/classical-antiquity/alexander-the-great|Alexander the Great — Detailed Biography]] (in progress; prioritized per Biographies Hub selection criteria and this dedicated source)
 
 ## Overview
 
@@ -33,11 +35,8 @@ Heir to the militarized, professionalized kingdom built by his father **Philip I
 (who had subdued the Greek city-states at Chaeronea, 338 BCE), Alexander crossed into
 Asia in 334 BCE. He defeated **Darius III** at the **Granicus (334)**, **Issus (333)**,
 and decisively at **Gaugamela (331 BCE)**; took the Phoenician city of **Tyre** after a
-celebrated siege (332); was acknowledged in **Egypt**, where he founded **Alexandria**;
-and burned the Persian capital **Persepolis**. Pressing east through Bactria and
-Sogdiana, he campaigned into the **Punjab**, defeating **Porus** at the Hydaspes (326),
-before his exhausted army refused to go further. He died of fever in **Babylon in 323
-BCE**, aged 32, his empire undivided in name only.
+celebrated seven-month siege involving a mole from the old city, advanced torsion artillery, and personal assault (332); was acknowledged in **Egypt**, where he founded **Alexandria** (personally marking the plan); and burned the Persian capital **Persepolis**. Pressing east through Bactria and
+Sogdiana (marrying Roxane; ordering 30,000 Iranian boys trained as Macedonian-style Epigonoi), he campaigned into the **Punjab**, defeating **Porus** at the Hydaspes (326) with a night crossing and elephant countermeasures, before his exhausted army refused to go further at the Hyphasis. The return featured the disastrous Gedrosian desert march and fleet coordination. He died of fever in **Babylon in 323 BCE**, aged 32, his empire undivided in name only. (Detailed campaign mechanics and source critique from [[fox-alexander-the-great-1973]].)
 
 ## The Wars of the Successors
 
@@ -118,6 +117,8 @@ reliably) than in the **world that made him** — his Macedonian identity, the p
 Macedonian kingdom and army, the Greek intellectual inheritance, and the Persian and Near Eastern
 setting he entered. It is also a useful survey of the **"many images" of Alexander** the fragmentary,
 late source-tradition has generated.
+
+**Robin Lane Fox, *Alexander the Great* (1973; 2004 reissue)** ([[fox-alexander-the-great-1973]]) supplies the richest narrative reconstruction among current sources. Explicitly "a search, not a story," it is grounded in close source criticism (especially Arrian/Ptolemy) and practical military/topographical reasoning. It adds detailed accounts of the Balkan prelude, the great set-piece battles and sieges (Granicus, Issus, Tyre, Gaugamela), the Gedrosian return, and the mechanics of fusion policy and army discipline. Its portraits of Philip's legacy and the limits Alexander faced are particularly valuable for the detailed biography.
 
 ## Related
 

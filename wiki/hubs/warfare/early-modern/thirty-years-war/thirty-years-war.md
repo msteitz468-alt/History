@@ -13,7 +13,7 @@ outcome: "Swedish operational ascendancy; the military revolution demonstrated"
 scale_immediate: regional
 scale_consequential: civilizational
 event_page: "[[thirty-years-war-1618]]"
-key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), ch. 1; Parker, The Military Revolution (1988), ch. 1 (Gustavus as full demonstration of the revolution)"
+key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), ch. 1; Parker, The Military Revolution (1988), ch. 1 (Gustavus as full demonstration of the revolution); [[sources/chandler-atlas-of-military-strategy-1980|Chandler, Atlas of Military Strategy (1980)]]"
 last_updated: 2026-06-23
 tags: [warfare, campaign-analysis, early-modern, western-europe, thirty-years-war]
 ---
@@ -38,6 +38,16 @@ Spanish *tercio* and set the pattern European armies would follow for a century.
 
 - [[hubs/warfare/early-modern/thirty-years-war/battle-of-breitenfeld|Breitenfeld (1631)]] — the combined-arms system shatters Tilly's Imperial army; the military revolution vindicated.
 - [[hubs/warfare/early-modern/thirty-years-war/battle-of-lutzen|Lützen (1632)]] — a costly Swedish victory; Gustavus Adolphus killed.
+
+## Cartographic support
+
+![The Thirty Years War, 1618-48 — the triumph of the Emperor and the Bohemian Revolt crushed (Chandler Atlas of Military Strategy)](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p030-thirty-years-war-1618-48.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]]*
+
+![Key Strategic Areas 1610-1721](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p027-key-strategic-areas-1610-1721.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]] (showing theatres relevant to 30YW and contemporary wars)*
 
 ## Related
 

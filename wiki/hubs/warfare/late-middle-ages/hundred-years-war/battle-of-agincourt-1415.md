@@ -18,7 +18,7 @@ outcome: "Decisive English victory; opens the way to Henry V's conquest of Norma
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[events/battle-of-agincourt-1415]]"
-key_sources: "CHW Vol. 2 ch. 13 (Anne Curry); Keegan, The Face of Battle (1976), ch. 2; Gesta Henrici Quinti; Curry, Agincourt: A New History (2005, outstanding); Curry, The Battle of Agincourt: Sources and Interpretations (2000)"
+key_sources: "CHW Vol. 2 ch. 13 (Anne Curry); Keegan, The Face of Battle (1976), ch. 2; Gesta Henrici Quinti; Curry, Agincourt: A New History (2005, outstanding); Curry, The Battle of Agincourt: Sources and Interpretations (2000); [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]] (situation maps); [[sources/mcevedy-penguin-atlas-medieval-history-1961]] (late medieval political context)"
 last_updated: "2026-06-24"
 tags: [warfare, battle-analysis, late-middle-ages, western-europe, hundred-years-war]
 ---
@@ -60,6 +60,16 @@ king absent.
 - **Intelligence / tempo.** Henry **advanced his line** to within longbow range to provoke the
   French into attacking across the mud — seizing the initiative from a defensive posture, the
   signature of the English system.
+
+**Cartographic support from Battles Map by Map (DK/Smithsonian):** Detailed map of the Agincourt battlefield showing English longbow deployment, French advance, and the narrow defile.
+
+![Agincourt (1415) — Battle map showing English and French deployments and the decisive arrow storm (Battles Map by Map, p. 90)](assets/atlases/battles-map-by-map/bmb-p090-agincourt.png)
+
+*Map from [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]].*
+
+**Broader late medieval political context:**
+![Late medieval political map A.D. 1430 — England, France, and European powers during the later phases of the Hundred Years' War](assets/atlases/mcevedy-penguin-atlas-medieval-history-1961/mcevedy-med-p085-1430-late-medieval.png)
+*Map from [[sources/mcevedy-penguin-atlas-medieval-history-1961]].*
 
 ## 3. Order of Battle and Deployment
 

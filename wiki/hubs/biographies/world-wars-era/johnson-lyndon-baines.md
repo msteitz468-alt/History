@@ -16,6 +16,7 @@ last_updated: "2026-06-25"
 tags: [biography, detailed-analysis, world-wars-era, cold-war, long-19th-century, north-america, johnson-lyndon-baines, texas, new-deal, power, us-senate]
 ---
 
+
 <!--
 CANONICAL — see templates/biography-analysis-template.md. Do not redefine.
 This page is based on Vols. 1–4 of Caro. Senate years + 1957 CRA from Vol. 3; 1960 campaign, vice presidency, Dallas transition, and early 1964 legislative victories from Vol. 4.

@@ -7,7 +7,7 @@ period: [World Wars Era]
 region: [western-europe, eastern-europe]
 affiliated_with: [the NSDAP, [[adolf-hitler|Adolf Hitler]], the Axis powers]
 opposed_by: [the Allied powers, the resistance, the persecuted of Europe]
-key_events: [the Enabling Act 1933, [[kristallnacht-1938]], [[second-world-war-1939|the Second World War]], [[the-holocaust|the Holocaust]], the defeat of 1945]
+key_events: [the Enabling Act 1933, [[nazi-seizure-of-power-1933]], [[night-of-the-long-knives-1934]], [[kristallnacht-1938]], [[second-world-war-1939|the Second World War]], [[the-holocaust|the Holocaust]], the defeat of 1945]
 key_processes: [[[nationalism]], [[volksgemeinschaft]], total war, genocide]
 sources_ingested: 1
 last_updated: 2026-06-22
@@ -17,8 +17,8 @@ tags: [actor, state, world-wars-era, western-europe, eastern-europe]
 # Nazi Germany (the Third Reich, 1933–1945)
 
 The totalitarian one-party state established when **[[adolf-hitler|Adolf Hitler]]** and the NSDAP
-dismantled the [[weimar-republic|Weimar Republic]] in 1933. Through *Gleichschaltung* the regime
-absorbed civil society into a racial "people's community" ([[volksgemeinschaft]]), persecuted Jews and
+dismantled the [[weimar-republic|Weimar Republic]] in 1933. Through *Gleichschaltung* (spring/summer 1933) the regime
+absorbed civil society into a racial "people's community" ([[volksgemeinschaft]]); the process was 'for the most part undertaken voluntarily and with alacrity' with remarkably little direct initiative required from Hitler himself (Reich Governors law 7 April smashed remaining Länder sovereignty). The Enabling Act (23 March) allowed the Reichstag to vote itself out of existence. The 'Night of the Long Knives' (30 June 1934) eliminated the SA threat and secured army loyalty. Persecuted Jews and
 other targeted groups (the Nuremberg Laws, [[kristallnacht-1938|Kristallnacht]]), rearmed, and
 pursued territorial expansion.
 

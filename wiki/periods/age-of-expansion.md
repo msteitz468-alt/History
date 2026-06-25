@@ -94,6 +94,12 @@ the Qing; and the **Pacific** is opened to systematic European exploration
 (Cook). North America's political future is settled in Britain's favor by 1763,
 then reopened by revolution.
 
+**Cartographic support:** Holy Roman Empire fragmentation and German state-building in the 18th century (context for European balance and expansion).
+
+![Germany / Holy Roman Empire in the 18th century (industrial growth, principalities, religious division) (The Times Atlas of World History, 1999 ed., p. ~195)](assets/atlases/times-atlas-of-world-history-1999/times-atlas-p195-holy-roman-empire-18th.png)
+
+*Map from [[sources/times-atlas-of-world-history-1999|The Times Atlas of World History]].*
+
 ## Transition
 
 **From the [[early-modern|Early Modern]] period:** the consolidation of oceanic

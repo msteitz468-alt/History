@@ -18,7 +18,8 @@ outcome: "German operational successes (pockets at Minsk, Smolensk, Kiev, Vyazma
 scale_immediate: "civilizational"
 scale_consequential: "global"
 event_page: "[[events/world-war-ii-1939-1945]]"
-key_sources: "Geoffrey P. Megargee (West Point History Vol. 1); Halder diary references; Reichenau order (quoted); primary orders (Commissar, etc.); Soviet accounts of chaos (e.g. headgear trenches)"
+key_sources: "[[sources/world-war-ii-map-by-map-2019]] (Barbarossa map)"
+key_sources: "Geoffrey P. Megargee (West Point History Vol. 1); Halder diary references; Reichenau order (quoted); primary orders (Commissar, etc.); Soviet accounts of chaos (e.g. headgear trenches); [[sources/west-point-atlas-second-world-war|West Point Atlas of World War II]] (situation maps)"
 last_updated: "2026-06-23"
 tags: [warfare, battle-analysis, campaign, world-wars-era, eastern-europe, second-world-war]
 ---
@@ -47,6 +48,12 @@ Delete this comment block in real pages.
 
 # Operation Barbarossa — Operational Analysis
 
+**Cartographic support from World War II Map by Map (DK/Smithsonian, 2019):** Operation Barbarossa June 1941 — German invasion of the USSR.
+
+![Operation Barbarossa 1941 (p091)](assets/atlases/world-war-ii-map-by-map-2019/wwii-map-by-map-p091-operation-barbarossa-1941.png)
+
+*Map from [[sources/world-war-ii-map-by-map-2019]].*
+
 > **Narrative & full sources:** [[events/world-war-ii-1939-1945|World War II]] (full story, causes, political context, overall consequences, major turning points) · **War hub:** [[hubs/warfare/world-wars-era/second-world-war/second-world-war|Second World War]] · **Warfare hub:** [[hubs/warfare/warfare-hub|Warfare & Strategy]]
 
 A staff-college-level operational analysis of the 1941 German invasion of the Soviet Union (to Dec 5 counteroffensive), drawing exclusively from Megargee chapter in West Point History of World War II Vol. 1. Focus: planning, execution, logistics, ideology, key phases (border, Smolensk, Kiev, Typhoon), behind-lines policies including Final Solution beginnings. Reciprocal links to main event page and war hub.
@@ -66,6 +73,10 @@ The campaign occurred because France's rapid fall (1940) removed Western distrac
 - **Weather / season:** Critical later phases. "fall rasputitsa" ("the time without roads") turned roads to mud in Oct; supplies halted, aircraft grounded, units immobile. Winter (negative 5°F, >3 feet snow by Dec 5) exposed under-equipped Germans (clothing/building materials diverted for offensive supplies; "the men had their hands full just trying to survive").
 
 - **Intelligence:** Germans grossly underestimated Red Army size/dispositions ("believed that the Red Army numbered two million men. The true number by June 22 was already over five million. Moreover, the Germans overestimated the number of Red Army units in the western military districts by 30 percent to 50 percent"). Soviets knew of buildup but Stalin "suspected the British and the Poles of trying to bring the Soviet Union into the war"; "vaguely worded warning" only late 21 June; units attacked before orders received. Germans achieved initial surprise and air supremacy ("reconnaissance aircraft penetrated deep into Soviet airspace, unopposed"; "further air raids caught most of the Red air force on the ground, destroying hundreds of planes").
+
+![Eastern Front / Barbarossa situation map example (West Point Atlas of World War II, page ~029)](assets/atlases/west-point-atlas-second-world-war/wwii-atlas-p029-eastern-front.png)
+
+*Map from the West Point Atlas of World War II (see [[sources/west-point-atlas-second-world-war]]).*
 
 ## 3. Order of Battle and Deployment
 

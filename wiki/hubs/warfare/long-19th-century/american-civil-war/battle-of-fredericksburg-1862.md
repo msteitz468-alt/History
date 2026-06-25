@@ -18,7 +18,7 @@ outcome: "Decisive Confederate victory"
 scale_immediate: "regional"
 scale_consequential: "regional"
 event_page: "[[events/battle-of-fredericksburg-1862|Battle of Fredericksburg]]"
-key_sources: "Edward Krasnoborski maps #73a/b (West Point Atlas); Rowan Technology Solutions 2014; OR references via source; Eicher The Longest Night (context)"
+key_sources: "Edward Krasnoborski maps #73a/b (West Point Atlas); Rowan Technology Solutions 2014; OR references via source; Eicher The Longest Night (context); [[sources/west-point-atlas-american-civil-war-griess|West Point Atlas (Griess)]]"
 last_updated: "2026-06-23"
 tags: [warfare, battle-analysis, long-19th-century, eastern-north-america, american-civil-war]
 ---
@@ -42,6 +42,10 @@ Staff-college analysis grounded in Range 2 captions and maps of the source.
 - **Intelligence:** Lee had time to concentrate and entrench after Burnside's slow approach and bridge delays.
 
 Source maps: "Situation about 3:30 PM, 13 December 1862" and "Situation about Dark, 13 December 1862" (Krasnoborski #73a/b, Rowan 2014).
+
+![Situation about 3:30 PM, 13 December 1862 (Krasnoborski #73a, West Point Atlas)](assets/atlases/west-point-atlas-american-civil-war/fredericksburg-situation-1330pm-13dec-1862-kras73a.png)
+
+*Map credit: extracted from The West Point Military History Series Atlas for the American Civil War (Griess ed.). See [[sources/west-point-atlas-american-civil-war-griess|West Point Atlas source page]].*
 
 ## 3. Order of Battle and Deployment
 

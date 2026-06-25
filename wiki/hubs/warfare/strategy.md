@@ -1,6 +1,7 @@
 ---
 title: Strategy
 hub_type: sub-hub
+key_sources: [[sources/chandler-atlas-of-military-strategy-1980|Chandler, Atlas of Military Strategy (1980)]]
 last_updated: 2026-06-24
 tags: [hub, warfare, strategy]
 ---
@@ -12,6 +13,44 @@ tags: [hub, warfare, strategy]
 This page organizes the wiki's coverage of strategic *practice* across time and civilizations (as distinct from the operational details of warfare covered in the main [[hubs/warfare/warfare-hub|Warfare & Strategy Hub]]). It centers on the major comparative synthesis:
 
 **[[strategic-practice-across-civilizations|Strategic Practice across Civilizations]]**
+
+Example from Chandler Atlas of Military Strategy:
+
+![The Expansion of France, 1600-1714](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p040-expansion-of-france-1600-1714.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]]* (showing strategic acquisitions under Louis XIV)
+
+![The Battle of Blenheim, 1704 — Marlborough's decisive victory](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p006-blenheim-1704.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]]*
+
+![The Battle of Rossbach, 1757 — Frederick the Great's victory](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p080-rossbach-1757.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]]*
+
+![The Battle of Leuthen, 1757 — Frederick's oblique order triumph](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p081-leuthen-1757.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]]*
+
+![The Battle of Blenheim, 1704 — breakthrough and exploitation (second plate)](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p051-blenheim-1704.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]]*
+
+![The Battle of Ramillies, 1706 — Marlborough's victory](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p052-ramillies-1706.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]]*
+
+![The Austerlitz Campaign, 1805 — Ulm manoeuvre and decisive battle](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p106-austerlitz-campaign-1805.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]]*
+
+![Jena and Auerstadt, 1806](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p110-jena-auerstadt-1806.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]]*
+
+![The Waterloo Campaign, 1815](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p130-waterloo-campaign-1815.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]]*
 
 ## Recurring Features of Strategic Practice
 

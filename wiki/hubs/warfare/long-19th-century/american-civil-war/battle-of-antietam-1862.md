@@ -18,8 +18,8 @@ outcome: "Tactical draw / strategic Confederate withdrawal from Maryland after b
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[events/battle-of-antietam-1862|Battle of Antietam]]"
-key_sources: "Eicher, The Longest Night; OR Series I, Volume XIX, Part 1; Civil War Trust summary; maps by Frank Martini / Edward Krasnoborski in The West Point Atlas; Rogers & Seidule eds. The West Point History of the Civil War (2014); Stephen W. Sears, Landscape Turned Red (1983) — primary operational narrative and Carman-Gould veteran testimony"
-last_updated: "2026-06-23"
+key_sources: "Eicher, The Longest Night; OR Series I, Volume XIX, Part 1; Civil War Trust summary; maps by Frank Martini / Edward Krasnoborski in The West Point Atlas; Rogers & Seidule eds. The West Point History of the Civil War (2014); Stephen W. Sears, Landscape Turned Red (1983) — primary operational narrative and Carman-Gould veteran testimony; [[sources/murray-atlas-american-military-history-2005]] (Murray atlas Antietam map); [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]] (situation maps)"
+last_updated: "2026-06-24"
 tags: [warfare, battle-analysis, long-19th-century, eastern-north-america, american-civil-war]
 ---
 
@@ -28,6 +28,10 @@ tags: [warfare, battle-analysis, long-19th-century, eastern-north-america, ameri
 > **Narrative & full sources:** [[events/battle-of-antietam-1862|Full event page]] · **War hub:** [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war|American Civil War War Hub]] · **Warfare hub:** [[hubs/warfare/warfare-hub|Warfare & Strategy]]
 
 A staff-college-level analysis of objectives, terrain, order of battle, the phased conduct of the engagement, the critical decisions, and the lessons — at greater depth than the standard `events/` page. Grounded exclusively in Range 2 of the source (map situations, gatefold images, OOB references).
+
+![Battle of Antietam, September 17, 1862 — detailed campaign map showing key phases, Burnside Bridge, Bloody Lane / Cornfield areas, and the Confederate counter-moves](assets/atlases/murray-atlas-american-military-history-2005/murray-amh-p096-antietam-1862.png)
+
+*Map from [[sources/murray-atlas-american-military-history-2005]].*
 
 ## 1. Strategic Context and Objectives
 
@@ -42,6 +46,12 @@ A staff-college-level analysis of objectives, terrain, order of battle, the phas
 - **Ground:** Antietam Creek as a significant barrier (fords limited); rolling farmland with ridges, woodlots, the Sunken Road ("Bloody Lane" per source gatefold image 1: Carol M. Highsmith photo), and Burnside Bridge (image 2). These features canalized attacks and provided defensive anchors for Confederates on the west bank.
 - **Weather / season:** Mid-September; conditions allowed for the pre-battle deployment captured at 1800 Hours 16 Sep.
 - **Intelligence:** Union had Lee's operational orders; Confederates had good knowledge of local terrain but were surprised by the scale and timing of Union attacks. Source maps document Union crossing/approach situation.
+
+**Cartographic support from Battles Map by Map (DK/Smithsonian):** Detailed map of the Battle of Antietam showing the terrain around Antietam Creek, the Cornfield, Bloody Lane (Sunken Road), Burnside Bridge, and the key phases of the Union attacks and Confederate defensive stands.
+
+![Antietam (1862) — Union attacks across the creek and the bloody fighting at the Cornfield, Bloody Lane, and Burnside Bridge (Battles Map by Map, p. 182)](assets/atlases/battles-map-by-map/bmb-p182.png)
+
+*Map from [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]].*
 
 ## 3. Order of Battle and Deployment
 

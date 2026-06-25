@@ -13,8 +13,8 @@ outcome: "Decisive American/coalition strategic victory; independence recognized
 scale_immediate: regional
 scale_consequential: global
 event_page: "[[american-revolution]]"
-key_sources: "West Point History of the American Revolution (2017): Watson, Lengel, Conway"
-last_updated: 2026-06-23
+key_sources: "West Point History of the American Revolution (2017): Watson, Lengel, Conway; [[sources/murray-atlas-american-military-history-2005]] (Murray atlas maps for campaigns and battles); [[sources/ralby-atlas-of-military-history-2015|Ralby, Atlas of Military History (2015)]]"
+last_updated: 2026-06-24
 tags: [warfare, campaign-analysis, age-of-expansion, eastern-north-america, american-revolutionary-war]
 ---
 
@@ -28,6 +28,24 @@ strategy, operations, and logistics by which an initially disorganized
 French alliance — defeated the world's foremost military and naval power. The broader
 political, ideological, and diplomatic narrative lives on the **[[american-revolution]]**
 event page; this hub owns the *war*. Battle-level staff analyses are filed beneath this page.
+
+Additional cartographic support from [[sources/murray-atlas-american-military-history-2005|Atlas of American Military History (Stuart Murray, 2005)]].
+
+![Battle of Bunker Hill, June 17, 1775, and the fighting retreat from Concord to Boston (early Revolutionary War operations around Boston)](assets/atlases/murray-atlas-american-military-history-2005/murray-amh-p035-bunker-hill-lexington-1775.png)
+
+*Map from [[sources/murray-atlas-american-military-history-2005]].*
+
+![Treaty of Paris 1763: eastern North America after the French & Indian War (British gains set the stage for colonial tensions leading to the Revolution)](assets/atlases/murray-atlas-american-military-history-2005/murray-amh-p020-treaty-of-paris-1763.png)
+
+*Map from [[sources/murray-atlas-american-military-history-2005]].*
+
+![Battle of Lexington, April 19, 1775 — first shots of the Revolution (the "shot heard round the world")](assets/atlases/murray-atlas-american-military-history-2005/murray-amh-p034-lexington-april-1775.png)
+
+*Map from [[sources/murray-atlas-american-military-history-2005]].*
+
+![Struggle for New York, August–November 1776 — Long Island, Brooklyn Heights, White Plains, and Washington’s retreat across New Jersey](assets/atlases/murray-atlas-american-military-history-2005/murray-amh-p037-struggle-for-new-york-1776.png)
+
+*Map from [[sources/murray-atlas-american-military-history-2005]].*
 
 The wiki's source for this analysis is the U.S. Military Academy's cadet textbook,
 *[[west-point-history-american-revolution-2017|The West Point History of the American Revolution]]* (2017).
@@ -59,6 +77,18 @@ command or sustaining any one to a decision.
 3. **The northern turning point (1777).** [[battles-of-saratoga-1777|Saratoga]] — Burgoyne's surrender, and the diplomatic earthquake that brought France into the war.
 4. **The southern war (1778–81).** The British [[siege-of-savannah-1779|move south]]; the [[siege-of-charleston-1780|fall of Charleston]] and [[battle-of-camden-1780|Camden]]; the partisan war and [[battle-of-kings-mountain-1780|Kings Mountain]]; Greene's campaign of attrition with [[battle-of-cowpens-1781|Cowpens]] and [[battle-of-guilford-courthouse-1781|Guilford Courthouse]].
 5. **Decision in Virginia (1781).** Cornwallis to the Chesapeake; the Franco-American convergence and the [[siege-of-yorktown-1781|siege of Yorktown]].
+
+**Cartographic support from Ralby, Atlas of Military History (2015):** The American Revolution 1775–1783 overview and strategic context.
+
+![The American Revolution 1775–1783 (Ralby p. 200)](assets/atlases/ralby-atlas-of-military-history-2015/ralby-amh-p200-american-revolution-1775.png)
+
+*Map from [[sources/ralby-atlas-of-military-history-2015]].*
+
+**Cartographic support from Ralby, Atlas of Military History (2015):** Thirteen Colonies strategic map, 1778.
+
+![Thirteen Colonies map 1778 (Ralby p. 201)](assets/atlases/ralby-atlas-of-military-history-2015/ralby-amh-p201-thirteen-colonies-map-1778.png)
+
+*Map from [[sources/ralby-atlas-of-military-history-2015]].*
 
 ## Battle & Siege Analyses (this hub)
 

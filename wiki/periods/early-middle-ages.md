@@ -117,6 +117,18 @@ The Primary Chronicle (Laurentian Text, Cross trans.) supplies the foundational 
 
 The most fully integrated Afro-Eurasian system the world had yet seen: a continuous chain of large, commercially minded states (Tang–Central Asia–Abbasid–Byzantine–Carolingian) linked by the [[silk-roads|Silk Roads]], the [[indian-ocean-trade|Indian Ocean]], and the [[trans-saharan-trade|trans-Saharan]] caravan routes. Beyond this core, the Americas reach new heights (Maya Terminal Classic, [[teotihuacan|Teotihuacan's]] fall, the rise of [[chaco-canyon|Chaco]] and Cahokia) and Polynesian voyagers complete the settlement of the Pacific (reaching Aotearoa/New Zealand c. 9th c.) — covered in the regional cycles.
 
+**Cartographic support:** Emergence of organized states and trade networks across sub-Saharan Africa, 1000–1500 (Mali, Songhay, Great Zimbabwe, trans-Saharan gold routes).
+
+![Europe and Mediterranean political situation A.D. 476 — successor kingdoms after the fall of the Western Roman Empire](assets/atlases/mcevedy-penguin-atlas-medieval-history-1961/mcevedy-med-p025-476-successor-kingdoms.png)
+*Map from [[sources/mcevedy-penguin-atlas-medieval-history-1961]].*
+
+![Europe and Mediterranean A.D. 600 — Frankish kingdoms, Visigoths, Eastern Roman Empire, Avars and others](assets/atlases/mcevedy-penguin-atlas-medieval-history-1961/mcevedy-med-p035-600-europe.png)
+*Map from [[sources/mcevedy-penguin-atlas-medieval-history-1961]].*
+
+![Emergence of states in Africa 1000–1500 (The Times Atlas of World History, 1999 ed., p. ~145)](assets/atlases/times-atlas-of-world-history-1999/times-atlas-p145-african-states-1000-1500.png)
+
+*Map from [[sources/times-atlas-of-world-history-1999|The Times Atlas of World History]] (New Edition, ed. Richard Overy). Useful for [[processes/bantu-expansion]], [[places/west-africa]], and trans-Saharan networks.*
+
 ## Transition
 
 **Entry:** from [[late-antiquity]] at c. 600 CE, on the eve of Islam.

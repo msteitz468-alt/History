@@ -18,14 +18,18 @@ outcome: "Successful Allied lodgment in Northwest Europe; breakout (Cobra/Goodwo
 scale_immediate: regional
 scale_consequential: global (opened Western Front; decisive contribution to German defeat)
 event_page: "[[events/world-war-ii-1939-1945]]"
-key_sources: "Robert M. Citino in Rogers & Seidule (eds.), The West Point History of World War II, Vol. 2 (2016) Ch.4; D-Day captions and footnotes"
-last_updated: "2026-06-23"
+key_sources: "Robert M. Citino in Rogers & Seidule (eds.), The West Point History of World War II, Vol. 2 (2016) Ch.4; D-Day captions and footnotes; [[sources/west-point-atlas-second-world-war|West Point Atlas of World War II]] (situation maps); [[sources/murray-atlas-american-military-history-2005]] (Murray atlas Normandy map); [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]] (D-Day landings map)"
+last_updated: "2026-06-24"
 tags: [warfare, battle-analysis, campaign, world-wars-era, europe, second-world-war, amphibious]
 ---
 
 > **Narrative & full sources:** [[events/world-war-ii-1939-1945|Full event page]] · **War hub:** [[hubs/warfare/world-wars-era/second-world-war/second-world-war|War]] · **Warfare hub:** [[hubs/warfare/warfare-hub|Warfare & Strategy]] · **Source:** [[sources/rogers-seidule-west-point-history-world-war-ii-v2-2016|West Point History of World War II, Vol. 2 (2016)]]
 
 Staff-college-level analysis of the largest amphibious invasion in history and the eighty-day campaign that opened the decisive Western Front in 1944. Grounded primarily in Carlo D’Este, *Decision in Normandy* (with supporting claims from West Point Vol. 2 / Citino, van Creveld, and primary documents).
+
+![D-Day and the Normandy Campaign, June–July 1944 (Operation Overlord): beaches, airborne drops, and advance inland](assets/atlases/murray-atlas-american-military-history-2005/murray-amh-p180-normandy-overlord-1944.png)
+
+*Map from [[sources/murray-atlas-american-military-history-2005]].*
 
 > **Narrative & full sources:** [[events/operation-overlord-1944|Operation Overlord event page]] · **War hub:** [[hubs/warfare/world-wars-era/second-world-war/second-world-war|War]] · **Warfare hub:** [[hubs/warfare/warfare-hub|Warfare & Strategy]] · **Primary source for this analysis:** [[sources/deste-decision-in-normandy-1983|D'Este]]
 
@@ -43,6 +47,16 @@ The COSSAC three-division plan was judged unsound by both Eisenhower and Montgom
 - **Weather:** Decisive on 5–6 June. Eisenhower postponed 24 hours; launched on slim forecast. Post-invasion great storm (19–22 June) destroyed Mulberry at Omaha and set build-up back days.
 - **Intelligence:** Ultra tracked German moves (including 21st Panzer to Caen area); Fortitude fixed German reserves. Germans missed the full scale and location until too late; command fragmentation (OKW control of panzers, Rommel absent on 6 June) compounded errors.
 - **Key missed factor on D-Day:** Veteran 352nd Infantry Division had moved into Omaha sector; bombardment proved insufficient there.
+
+**Cartographic support from Battles Map by Map (DK/Smithsonian):** Overview map of the D-Day landings (Operation Overlord) highlighting the five assault beaches, airborne drop zones, and initial lodgment objectives in Normandy.
+
+![D-Day landings and Normandy campaign (1944) — beaches, airborne operations, and early advance (Battles Map by Map, p. 248)](assets/atlases/battles-map-by-map/bmb-p248.png)
+
+*Map from [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]].*
+
+![Normandy / Overlord area situation map example (West Point Atlas of World War II, page ~093)](assets/atlases/west-point-atlas-second-world-war/wwii-atlas-p093-normandy-overlord.png)
+
+*Map from the West Point Atlas of World War II. See [[sources/west-point-atlas-second-world-war]] for extraction and full set. Use alongside terrain description above.*
 
 ## 3. Order of Battle and Deployment
 

@@ -13,7 +13,7 @@ outcome: "Latin states established 1098–99, gradually rolled back; Acre falls 
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[events/first-crusade-1095]]"
-key_sources: "[[sources/france-victory-in-the-east-1994|France, Victory in the East (1994)]]; France (1999) Ch. 15; CHW Vol. 2 ch. 10 (John France); Gesta Francorum; Raymond of Aguilers; Fulcher of Chartres; Albert of Aachen"
+key_sources: "[[sources/france-victory-in-the-east-1994|France, Victory in the East (1994)]]; France (1999) Ch. 15; CHW Vol. 2 ch. 10 (John France); Gesta Francorum; Raymond of Aguilers; Fulcher of Chartres; Albert of Aachen; [[sources/riley-smith-atlas-of-the-crusades-1991|Riley-Smith, Atlas of the Crusades (1991)]]"
 last_updated: "2026-06-23"
 tags: [warfare, campaign, high-middle-ages, near-east, crusades]
 ---
@@ -48,6 +48,18 @@ victories need explanation." Two structural answers:
 
 Distance and supply dominated. "It is about 4,000 km from Paris to Jerusalem, and most of the
 participants on the First Crusade walked virtually all the way." Horses wasted: by October 1097
+
+## Maps from The Atlas of the Crusades (Riley-Smith, 1991)
+
+![Feudal holdings in the Kingdom of Jerusalem and County of Tripoli in the 12th century — showing lordships, cities, and bishoprics of the Latin East](assets/atlases/riley-smith-atlas-of-the-crusades-1991/riley-crusades-p040-latin-east-feudal-holdings-12thc.png)
+
+*Map from [[sources/riley-smith-atlas-of-the-crusades-1991]]*
+
+Additional map (Reconquista context):
+
+![Spain: The Reconquest Begins — early Christian/Muslim territorial control and victories](assets/atlases/riley-smith-atlas-of-the-crusades-1991/riley-crusades-p035-spain-reconquest-begins.png)
+
+*Map from [[sources/riley-smith-atlas-of-the-crusades-1991]]*
 a participant "was bewailing the lack of horses," and the army reached Jerusalem with "some 1,500
 cavalry." Heat killed — "about 500 perished of thirst in a single day" crossing Anatolia. Above
 all, **sieges starved the besiegers**: "siege posed the greatest challenge to the army because it

@@ -3,6 +3,7 @@ title: Second Punic War
 period: Classical Antiquity
 era: Punic Wars
 key_commanders: Hannibal, Scipio Africanus, Fabius Maximus, Hasdrubal Barca, Marcellus
+key_sources: [[sources/talbert-barrington-atlas-2000|Barrington Atlas of the Greek and Roman World (Talbert ed. 2000)]], [[sources/ralby-atlas-of-military-history-2015|Ralby, Atlas of Military History (2015)]]
 ---
 
 # Second Punic War (218–201 BCE)
@@ -12,6 +13,26 @@ key_commanders: Hannibal, Scipio Africanus, Fabius Maximus, Hasdrubal Barca, Mar
 This page is the hub for detailed tactical and operational analyses of the major
 battles and campaigns of the Second Punic War — the Hannibalic War, the best-recorded
 conflict of antiquity and the wiki's deepest warfare cluster.
+
+**Cartographic and reconstruction support:** Quality maps and illustrations from [[sources/connolly-greece-and-rome-at-war-1998|Peter Connolly, *Greece and Rome at War* (1998)]] — equipment reconstructions, formation diagrams, and battle arrays for phalanx, manipular legion, and Punic campaigns.
+
+Example (Italian equipment contemporary to early Punic period):
+
+![Reconstructions of 6th-century Italian/Etruscan helmets, disc breastplates, and armor (Connolly p. ~105)](assets/atlases/connolly-greece-and-rome-at-war-1998/connolly-p105.png)
+
+*From [[sources/connolly-greece-and-rome-at-war-1998]]. See assets for additional phalanx, sarissa, legion, and siege plates.*
+
+**Cartographic support from Barrington Atlas (Princeton University Press, 2000):** Map 1 Mare Internum — the central Mediterranean theater showing regions, coastlines, and key sites relevant to the Punic Wars.
+
+![Map 1 Mare Internum — central Mediterranean with regional divisions and scale (Barrington Atlas, Map 1)](assets/atlases/talbert-barrington-atlas-2000/barrington-p003-mare-internum.png)
+
+*Map from [[sources/talbert-barrington-atlas-2000|Barrington Atlas of the Greek and Roman World (Talbert ed., 2000)]].*
+
+**Cartographic support from Ralby, Atlas of Military History (2015):** The Punic Wars 264–146 BCE — Mediterranean theater overview showing Sicily, Italy, Spain, and North Africa.
+
+![The Punic Wars 264–146 BCE — Mediterranean theater (Ralby p. 026)](assets/atlases/ralby-atlas-of-military-history-2015/ralby-amh-p026-punic-wars-264-146bce.png)
+
+*Map from [[sources/ralby-atlas-of-military-history-2015]].*
 
 ## Strategic shape of the war
 

@@ -5,7 +5,7 @@ origin: "Contemporary term for the German popular experience of August 1914; sub
 applies_to_periods: [World Wars Era]
 applies_to_regions: [western-europe]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [concept, world-wars-era, western-europe]
 ---
@@ -20,7 +20,7 @@ The *Augusterlebnis* (August experience) refers to the collective psychological 
 - Public displays of collective enthusiasm were "largely confined to the big cities, where mostly middle-class people and members of student fraternities roamed the streets."
 - In rural Catholic regions, "uncertainty over the lack of manpower for the harvest and grief about the separation from loved-ones pushed any other concerns aside."
 - Public gatherings mixed curiosity and "carnivalesque" behavior (hunting automobiles supposedly carrying French gold) with "significant displays of panic, mostly about economic uncertainty, and feelings of outright depression."
-- The famous photograph of the Odeonsplatz in Munich on 2 August 1914 — showing [[adolf-hitler]] in an exuberant crowd — shows "almost exclusively... men, and most of them are clearly marked as middle-class by their straw hats, white collars, and suits."
+- The famous photograph of the Odeonsplatz in Munich on 2 August 1914 — showing [[adolf-hitler]] in an exuberant crowd — shows "almost exclusively... men, and most of them are clearly marked as middle-class by their straw hats, white collars, and suits." Hitler himself later recalled: "Overpowered by stormy enthusiasm, I fell down on my knees and thanked Heaven from an overflowing heart for granting me the good fortune of being permitted to live at this time" ([[sources/kershaw-hitler-hubris-1998]], Ch. 3).
 - At least 750,000 SPD rank-and-file members had attended anti-war rallies on 31 July; Social Democratic workers "displayed hardly any enthusiasm" as soldiers or factory workers.
 
 **The mythology**: The experience was almost immediately mythologized as unanimous national unity. This mythologized version — not the complex reality — was what mattered politically. It established the Volksgemeinschaft as the normative political ideal and provided the template for subsequent nationalist mobilization ([[smith-oxford-modern-german-history-2011]], ch. 17).

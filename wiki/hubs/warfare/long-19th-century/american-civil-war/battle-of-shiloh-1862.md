@@ -35,6 +35,12 @@ A staff-college-level analysis of objectives, terrain, order of battle, the phas
 
 ## 2. Terrain, Weather, and Intelligence
 
+**Cartographic support:** Kentucky-Tennessee theater 1861 developments (Shiloh / Corinth area context).
+
+![Kentucky - Tennessee, 1861 (Western Theater, Forts Henry/Donelson, Shiloh, Bragg movements) (West Point Atlas of the American Civil War, Griess ed., p. ~039)](assets/atlases/west-point-atlas-american-civil-war/acw-atlas-p039.png)
+
+*Map from [[sources/west-point-atlas-american-civil-war-griess]].*
+
 - **Ground:** Pittsburg Landing; Shiloh Church; woods, ravines, sunken roads (Hornet’s Nest); smoke and thickets broke formations and artillery support.
 - **Weather/season:** April; heavy rain night of April 6.
 - **Intelligence:** Complete tactical surprise for Confederates on April 6; Union unprepared in camp despite proximity.

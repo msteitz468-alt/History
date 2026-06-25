@@ -15,6 +15,12 @@ tags: [concept, greece]
 
 # Hoplite Warfare
 
+**Cartographic / reconstruction support:** Peter Connolly's detailed illustrations of hoplite equipment and phalanx formations.
+
+![Greek hoplite equipment and phalanx in close order (Connolly, *Greece and Rome at War*, p. ~040 area)](assets/atlases/connolly-greece-and-rome-at-war-1998/connolly-p040.png)
+
+*Reconstruction from [[sources/connolly-greece-and-rome-at-war-1998]].*
+
 **Hoplite warfare** — armoured spearmen (*hoplitai*, from the *hoplon* shield) fighting
 shoulder-to-shoulder in the dense **phalanx** — was the characteristic mode of Greek
 land battle from the seventh century onward, and a development of major social and

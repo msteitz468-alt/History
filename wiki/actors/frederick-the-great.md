@@ -30,6 +30,8 @@ tags:
 
 ## Overview
 
+> **Detailed analytic biography:** [[hubs/biographies/age-of-expansion/frederick-the-great|Detailed Biography (Biography Hub)]] — high-resolution treatment of decisions, primary sources, and counterfactual mechanics.
+
 Frederick II of Prussia (r. 1740–1786), known as Frederick the Great, was the defining Hohenzollern monarch of the eighteenth century and one of the central actors in reshaping the Central European balance of power. His reign inaugurated the prolonged Austro-Prussian dualism that would structure German politics until 1866, established [[prussia]] as a major European power, and served as the foundation for the later nationalist mythologies that linked Frederick to [[german-unification]] under Prussian leadership.
 
 ## Role in the Wars of 1740–1815

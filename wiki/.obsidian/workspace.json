@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-long-island.md",
+                "file": "actors/alexander-the-great.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "battle-of-long-island"
+              "title": "alexander-the-great"
             }
           }
         ]
@@ -185,6 +185,25 @@
   },
   "active": "4dae37f6fe1a3f0f",
   "lastOpenFiles": [
+    "hubs/biographies/classical-antiquity/alexander-the-great.md",
+    "hubs/biographies/age-of-expansion/frederick-the-great.md",
+    "hubs/biographies/long-19th-century/lincoln-abraham.md",
+    "hubs/biographies/world-wars-era/johnson-lyndon-baines.md",
+    "sources/donald-lincoln-1995.md",
+    "hubs/biographies/biographies-hub.md",
+    "hubs/biographies/long-19th-century",
+    "actors/lincoln-abraham.md",
+    "hubs/warfare/world-wars-era/second-world-war/battle-of-stalingrad-1942.md",
+    "hubs/warfare/world-wars-era/second-world-war/battle-of-britain-1940.md",
+    "hubs/warfare/world-wars-era/second-world-war/fall-of-france-1940.md",
+    "hubs/warfare/world-wars-era/second-world-war/battle-of-midway-1942.md",
+    "hubs/warfare/world-wars-era/second-world-war/battle-of-kursk-1943.md",
+    "hubs/warfare/world-wars-era/second-world-war/battle-of-iwo-jima-1945.md",
+    "hubs/warfare/world-wars-era/second-world-war/attack-on-pearl-harbor-1941.md",
+    "hubs/warfare/classical-antiquity/second-punic-war/battle-of-ilipa-206bce.md",
+    "hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae.md",
+    "hubs/warfare/classical-antiquity/first-punic-war/battle-of-ecnomus-256bce.md",
+    "hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-long-island.md",
     "concepts/biosphere-cold-war.md",
     "concepts/transnational-organizations.md",
     "concepts/western-europe-end-cold-war.md",
@@ -193,33 +212,14 @@
     "processes/us-foreign-policy-reagan-bush.md",
     "events/central-america-cold-war.md",
     "events/southern-africa-cold-war.md",
-    "concepts/world-economy-cold-war-1970-1990.md",
-    "concepts/intellectual-history-late-twentieth-century.md",
-    "events/detente-collapse.md",
-    "hubs/warfare/classical-antiquity/first-punic-war/first-punic-war.md",
-    "hubs/warfare/classical-antiquity/first-punic-war/battle-of-ecnomus-256bce.md",
-    "hubs/warfare/classical-antiquity/second-punic-war/second-punic-war.md",
-    "hubs/warfare/classical-antiquity/second-punic-war/battle-of-zama-202bce.md",
-    "hubs/warfare/classical-antiquity/second-punic-war/battle-of-ilipa-206bce.md",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-ilipa-206bce.md.tmp.14868.8f4aed080d16",
-    "hubs/warfare/classical-antiquity/third-punic-war/third-punic-war.md",
-    "hubs/warfare/classical-antiquity/third-punic-war/siege-of-carthage-149-146bce.md",
-    "hubs/warfare/warfare-hub.md",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-zama-202bce.md.tmp.14868.9554b3995d88",
-    "hubs/historiography-hub.md",
-    "hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae.md",
-    "hubs/warfare/classical-antiquity/second-punic-war/battle-of-new-carthage-209bce.md",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-new-carthage-209bce.md.tmp.14868.98cf1f1618ef",
-    "hubs/warfare/classical-antiquity/second-punic-war/battle-of-the-trebia-218bce.md",
-    "hubs/warfare/classical-antiquity/second-punic-war/battle-of-the-metaurus-207bce.md",
-    "hubs/warfare/classical-antiquity/second-punic-war/battle-of-lake-trasimene-217bce.md",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-the-metaurus-207bce.md.tmp.14868.27a24496a48e",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-lake-trasimene-217bce.md.tmp.14868.4a24fcad8690",
-    "hubs/warfare/tactics-and-battle-strategies.md",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-the-trebia-218bce.md.tmp.14868.1375d42793bf",
     "hubs/warfare/classical-antiquity/first-punic-war/battle-of-the-aegates-islands-241bce.md.tmp.14868.159c1bc3149e",
     "hubs/warfare/classical-antiquity/first-punic-war/battle-of-ecnomus-256bce.md.tmp.14868.8866bfe64196",
-    "hubs/warfare/classical-antiquity/first-punic-war/battle-of-ecnomus-256bce.md.tmp.14868.b7c287dbcebc",
-    "hubs/warfare/classical-antiquity/first-punic-war/battle-of-the-bagradas-255bce.md.tmp.14868.deb7bbdd3e70"
+    "hubs/warfare/classical-antiquity/first-punic-war/battle-of-ecnomus-256bce.md.tmp.14868.b7c287dbcebc"
   ]
 }

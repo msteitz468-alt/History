@@ -18,14 +18,20 @@ outcome: "Decisive Swedish-Protestant victory; Imperial army effectively destroy
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[thirty-years-war-1618]]"
-key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), ch. 1"
-last_updated: 2026-06-23
+key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), ch. 1; [[sources/chandler-atlas-of-military-strategy-1980|Chandler, Atlas of Military Strategy (1980)]]"
+last_updated: 2026-06-24
 tags: [warfare, battle-analysis, early-modern, western-europe, thirty-years-war]
 ---
 
 > **Narrative & full sources:** [[thirty-years-war-1618|Thirty Years' War (event page)]] · **War hub:** [[hubs/warfare/early-modern/thirty-years-war/thirty-years-war|Thirty Years' War]] · **Warfare hub:** [[hubs/warfare/warfare-hub|Warfare & Strategy]]
 
 The Battle of Breitenfeld on 17 September 1631 was the first major Protestant victory of the Thirty Years' War and the decisive operational demonstration of [[gustavus-adolphus]]'s combined-arms tactical system. Fought on open rolling terrain north of Leipzig ideally suited to the Imperial tercio, the battle was decided — in Doughty and Gruber's pointed formulation — "not by numbers but by discipline, firepower, and tactical flexibility." When the Saxon allies collapsed and fled, exposing the Swedish left, it was the very qualities that distinguished the Swedish system — shallow flexible formations, integrated light artillery, cavalry reinforced with infantry — that allowed Gustav Horn to realign, deliver devastating combined-arms fire into the dense tercios, and ultimately turn an apparent catastrophe into a comprehensive destruction of Tilly's army.
+
+## Cartographic support
+
+![The Thirty Years War, 1618-48 — strategic context for Breitenfeld (Chandler)](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p030-thirty-years-war-1618-48.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]]*
 
 ## 1. Strategic Context and Objectives
 
@@ -42,6 +48,12 @@ The battlefield was open, rolling country north of Leipzig near the village of B
 The date was September 7, 1631 (old style; conventional dating places the battle on 17 September new style), described by Doughty and Gruber as "a fine, warm autumn day." Weather played no significant role in the engagement itself — in sharp contrast to Lützen the following year, where fog would prove decisive. Visibility was good and the terrain dry, allowing rapid movement.
 
 Intelligence on both sides was adequate for the purpose of locating the enemy but did not provide either commander with detailed knowledge of the other's order of battle. Tilly expected to fight on terms favorable to his style of war. Gustavus Adolphus came with a clear sense of his own capabilities and a calculated willingness to accept battle even though his Saxon allies were, as events would prove, of questionable reliability under pressure.
+
+**Cartographic support from Battles Map by Map (DK/Smithsonian):** Clear situation map of Breitenfeld showing the Swedish thin-line deployment with integrated artillery, the deep Imperial tercios, the Saxon position on the left, and the critical flanking maneuvers.
+
+![Breitenfeld (1631) — Swedish and Imperial deployments and the decisive Swedish response to the Saxon collapse (Battles Map by Map, p. 130)](assets/atlases/battles-map-by-map/bmb-p130.png)
+
+*Map from [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]].*
 
 ## 3. Order of Battle and Deployment
 

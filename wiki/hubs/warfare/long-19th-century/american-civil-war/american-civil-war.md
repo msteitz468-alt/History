@@ -13,6 +13,30 @@ tags: [hub, warfare, long-19th-century, north-america]
 
 This war hub page provides the operational and campaign-level overview. Individual battles receive deep tactical analysis in their dedicated `hubs/warfare/long-19th-century/american-civil-war/[battle].md` pages.
 
+**Cartographic support:** Thoroughly ingested quality maps from the companion [[sources/west-point-atlas-american-civil-war-griess|West Point Atlas of American Wars — ACW volume (Griess ed.)]] (Krasnoborski/Martini plates). ~60 relevant maps extracted; used for Terrain, OOB, and phases in the analyses. Examples below and in battle pages. Additional maps from the broader [[sources/murray-atlas-american-military-history-2005|Atlas of American Military History (Stuart Murray, 2005)]] provide campaign context and Western/Eastern Theater overviews.
+
+Example (Kentucky-Tennessee theater 1861 with Shiloh inset):
+
+![Kentucky - Tennessee, 1861 (developments between Shiloh and Corinth; Western Theater context) (West Point Atlas of the American Civil War, Griess ed., p. ~039)](assets/atlases/west-point-atlas-american-civil-war/acw-atlas-p039.png)
+
+*Map from [[sources/west-point-atlas-american-civil-war-griess]].*
+
+![Grant takes the offensive in the West: Fort Donelson, February 1862 (Western Theater opening; gunboats and investment of the fort)](assets/atlases/murray-atlas-american-military-history-2005/murray-amh-p085-fort-donelson-grant-1862.png)
+
+*Map from [[sources/murray-atlas-american-military-history-2005]].*
+
+![McClellan suffers defeat on the Peninsula, 1862 (Eastern Theater; advance on Richmond, Seven Pines, and the shift to Lee command)](assets/atlases/murray-atlas-american-military-history-2005/murray-amh-p094-penisula-campaign-1862.png)
+
+*Map from [[sources/murray-atlas-american-military-history-2005]].*
+
+![Birds-eye view of the Seat of War around Richmond, showing the Battle on the Chickahominy River (Peninsula Campaign / Seven Days, June 1862)](assets/atlases/murray-atlas-american-military-history-2005/murray-amh-p084-birdseye-richmond-chickahominy-1862.png)
+
+*Map from [[sources/murray-atlas-american-military-history-2005]].*
+
+![The Seven Days' Battles, June 26–July 2, 1862 (detailed campaign map: Mechanicsville, Gaines' Mill, Savage Station, Malvern Hill)](assets/atlases/murray-atlas-american-military-history-2005/murray-amh-p095-seven-days-battles-1862.png)
+
+*Map from [[sources/murray-atlas-american-military-history-2005]].*
+
 ## Major Phases and Theaters (from West Point History)
 
 - **Origins and Borderlands (1860–early 1862)**: Secession, Fort Sumter, mobilization, First Bull Run, Shiloh, contest for Kentucky/Tennessee/Missouri.

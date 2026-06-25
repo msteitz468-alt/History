@@ -44,11 +44,11 @@ The move from Florence to Milan was decisive: it transformed a talented but unfi
 
 **First Milan (1482–1499):** Court entertainer, military consultant, and creator of the *Last Supper* and the great Sforza Horse (clay model destroyed by French archers in 1499). Intensive notebook activity begins in earnest. Scientific studies (anatomy, optics, proportion) directly feed artistic innovation.
 
-**Return to Florence (1500–1506):** Competition with the younger Michelangelo on the Battle of Anghiari mural (abandoned); beginning of the *Mona Lisa*; service as Borgia’s military engineer and cartographer (1502); continued dissection and water studies.
+**Return to Florence (1500–1506):** Competition with the younger Michelangelo on the Battle of Anghiari mural (abandoned); beginning of the *Mona Lisa*; service as Borgia’s military engineer and cartographer (1502); continued dissection and water studies. Father Ser Piero died July 1504 (notebook entry with minor dating/age inaccuracies; no inheritance).
 
-**Later Milan and Rome (1506–1516):** Service under French governors in Milan; move to Rome under Giuliano de’ Medici (brother of Pope Leo X). Deepest anatomical work (heart, layered figures). Increasing frustration with papal patronage and Roman artistic politics.
+**Return to Milan under French rule (1506–1513):** Left Florence (with diplomatic pressure from Louis XII and governor Charles d’Amboise) to settle Virgin of the Rocks dispute but stayed; French protection repeatedly extended Florentine obligations. Adopted ~14-year-old Francesco Melzi (1507) as pupil, scribe, assistant, and intellectual heir. Intense second anatomy campaign (1508–1513): dissected centenarian (discovered arteriosclerosis as cause of peaceful death), produced 240+ drawings and 13,000+ words; discovered aortic valve vortices (spiral eddies in sinuses of Valsalva close the valves; tested with glass model + grass seeds); injected wax into brain ventricles (sculptor technique) to map them; collaborated briefly with Pavia anatomist Marcantonio della Torre before the latter’s death in plague (retreated to Melzi villa); continued comparative anatomy (human/horse). Heavy water and geology work in Codex Leicester: revised simplistic microcosm-macrocosm (earth veins = blood) in favor of evaporation/rain cycle as true cause of mountain springs; correctly interpreted fossils on mountains as ancient seabed uplift (species clustering, multiple strata, trace fossils like earthworm tracks, shell growth rings) rather than biblical Deluge; “Il sole nó si muóve”; earthshine on the moon; gravity keeping seas spherical. Notebook intensity on analogies (body/machine, heart/seed, eddies/hair curls). Pageants including mechanical lion for Louis XII that opened to scatter lilies. Unbuilt “garden of delights” plans for d’Amboise (water jets, musical mill, aviary). Inheritance fight with half-brothers over uncle Francesco’s property (won life use of farmland east of Vinci with French help; returned on death). Fond but vulnerable letters to Melzi; “peace not war” note regarding Salai household dynamics.
 
-**France (1516–1519):** Final patron Francis I provided a generous stipend, residence at Clos Lucé, and respect. Leonardo brought the *Mona Lisa*, other paintings, and notebooks with him. Final “Deluge” drawings and continued theoretical work. Died 2 May 1519; buried at Amboise (remains presumed but uncertain).
+**Rome and final France (1513–1519):** (Covered primarily in other ranges; this range notes retrospective anatomy claims and forward references to French patronage.) Service under Giuliano de’ Medici; frustrations with papal commissions and anatomy restrictions; eventual move to Amboise under Francis I (1516). Melzi accompanied and preserved the legacy. Died 2 May 1519.
 
 ## 4. Signature Decisions and Their Mechanics
 
@@ -62,21 +62,31 @@ The move from Florence to Milan was decisive: it transformed a talented but unfi
 
 ## 5. Intellectual / Policy / Military / Religious Style and Methods
 
-Leonardo’s method was relentlessly empirical and visual. He trusted observation over received authority. “Experience is the mother of all certainty.” He dissected cadavers (including a centenarian and stillborns), drew layered anatomies, studied bird flight in real time, traced water eddies and hair curls, and attempted to derive mathematical rules from natural patterns (spirals, branching).
+Leonardo’s method was relentlessly empirical and visual. He trusted observation over received authority. “Experience is the mother of all certainty.” He dissected cadavers (including a centenarian and stillborns; total >30 bodies), drew layered anatomies, studied bird flight in real time, traced water eddies and hair curls, and attempted to derive mathematical rules from natural patterns (spirals, branching).
+
+Key second-round discoveries (1508–1513): 
+- Arteriosclerosis (“very dry, shrunken and withered” vessels in the centenarian vs. “supple and unconstricted” in a two-year-old).
+- Aortic valve vortices: spiral eddies in the sinuses of Valsalva help close the valves; demonstrated with glass model + grass seeds (“The revolving blood beats against the sides of the three valves and closes them”).
+- Brain ventricles via wax injection (sculptor technique): “Make two vent-holes... insert melted wax with a syringe... Then when the wax has set, take apart the brain.”
+- Body-as-machine analogies: muscles/bones as levers; “Though human ingenuity may make various inventions, it will never devise an invention more beautiful, more simple, more direct than does Nature.”
+
+Water and geology (Codex Leicester emphasis): revised earlier earth-veins = blood analogy; correctly identified evaporation + rain as the mechanism for mountain springs (“all the rivers are caused solely by the water vapors raised up into the air”). Fossils on mountains as ancient sea-bed uplift, not Deluge (“If the Deluge had carried the shells three hundred and four hundred miles... it would have carried them there mixed up with different species”; noted growth rings in shells and earthworm trace fossils). “The ancient bottoms of the sea have become mountain ridges.”
+
+Astronomy notes: “Il sole nó si muóve.” Earth not center of universe but of its companion elements. Moon reflects sunlight (earthshine); gravity keeps seas spherical. Planned astronomy treatise.
 
 In art he translated these studies directly: the muscles around the mouth for the *Mona Lisa* smile; optical understanding for the aerial perspective and *sfumato* in the *Last Supper* and landscapes; proportion for *Vitruvian Man*.
 
 He fused fantasy and rigor: flying machines that were mechanically implausible but based on accurate bird observation; ideal cities that were both visionary and rooted in real urban problems (plague, water supply).
 
-He had no interest in publishing systematic treatises in his lifetime; the notebooks were working laboratories, constantly revised.
+He had no interest in publishing systematic treatises in his lifetime; the notebooks were working laboratories, constantly revised. Cross-domain analogies (water/eddies/hair, heart/seed/umbilicus, body/machine) were central to his thinking.
 
 ## 6. Character, Relationships, and Personal Life
 
 Contemporary and near-contemporary sources describe Leonardo as handsome, graceful, strong, and charming in company, yet also solitary, easily distracted, and prone to abandoning projects. He was vegetarian (or close to it), kept pets, bought caged birds to free them, and was noted for his left-handed mirror writing.
 
-Relationships: deep but non-exclusive attachment to Salai (who remained in the household for decades and received bequests); profound quasi-paternal bond with Francesco Melzi, who became his literary heir and protector of the notebooks. Distant from his father and half-siblings. No recorded marriage or children.
+Relationships: deep but non-exclusive attachment to Salai (who remained in the household for decades and received bequests; salary contrast with Melzi noted); profound quasi-paternal bond with Francesco Melzi (adopted ~1507 at age 14 as pupil, scribe, assistant, and intellectual heir). Draft letter shows fondness mixed with frustration: “Good day, Master Francesco, Why in God’s name have you not answered a single one of all the letters I sent you?” Melzi preserved and organized the notebooks after death; later married and had eight children. Distant from his father (Ser Piero died 1504; notebook entry with minor inaccuracies; no inheritance) and half-siblings (inheritance dispute over uncle Francesco’s property, won life use with French help). No recorded marriage or children.
 
-Isaacson stresses the human, quirky qualities: obsessiveness, playfulness, and the tension between conception (which he loved) and execution (which bored him).
+Isaacson stresses the human, quirky qualities: obsessiveness, playfulness, and the tension between conception (which he loved) and execution (which bored him). “Peace not war” note to Salai around Melzi adoption period. Household included both young men into the later years.
 
 ## 7. Death, Immediate Succession / Aftermath
 

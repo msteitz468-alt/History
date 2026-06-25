@@ -18,7 +18,7 @@ outcome: "Decisive Allied victory; Franco-Bavarian army destroyed"
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[war-of-the-spanish-succession-1701]]"
-key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), ch. 2"
+key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), ch. 2; [[sources/chandler-atlas-of-military-strategy-1980|Chandler, Atlas of Military Strategy (1980)]]"
 last_updated: 2026-06-23
 tags: [warfare, battle-analysis, age-of-expansion, western-europe, war-of-the-spanish-succession]
 ---
@@ -35,6 +35,12 @@ The march to the Danube was itself a major strategic achievement, made possible 
 
 Having joined Eugene and the cautious imperial commander Prince Louis of Baden between the Rhine and the Danube (June 10–22), Marlborough had to remove Louis from the operational picture. He sent Louis with 30,000 men to besiege Ingolstadt, 30 miles east of Donauworth, "which in Imperial hands would have proved a formidable obstacle to any French or Bavarian advance on Vienna." With Louis occupied and his inhibiting influence removed, Marlborough and Eugene were free to seek a decisive engagement. After a preliminary victory at Donauworth (July 2), they found the French and Bavarians assembling on the north bank of the Danube and resolved to attack.
 
+**Cartographic support from Chandler, Atlas of Military Strategy (1980):** overall situation and Allied approach for the Battle of Blenheim, 1704.
+
+![The Battle of Blenheim, 1704 — Marlborough's decisive victory (Chandler, p. 006)](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p006-blenheim-1704.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]].*
+
 ## 2. Terrain, Weather, and Intelligence
 
 The Franco-Bavarian position near Blenheim occupied a plain four miles wide on the north bank of the Danube, roughly twelve miles west of Donauworth. The position had "considerable natural strength": the Danube and wooded hills above Lutzingen blocked any wide turning movement; the villages of Blenheim, Oberglau, and Lutzingen anchored the flanks and provided enfilading fire across the center; and the Nebel stream — a boggy tributary running across the plain — posed a significant obstacle to any attacker attempting to close with the enemy line.
@@ -42,6 +48,12 @@ The Franco-Bavarian position near Blenheim occupied a plain four miles wide on t
 The open ground between Blenheim and Oberglau sloped gently downward toward the Nebel, giving the defenders' cavalry and artillery clear fields of fire across any bridging operation. The Franco-Bavarian commanders judged this combination of river, stream, villages, and wooded hills sufficient to deter an attack. Weather on 13 August posed no unusual obstacle — the morning hours allowed Marlborough's engineers to bridge the Nebel under artillery exchange, and by early afternoon conditions were suitable for the combined-arms assault.
 
 Intelligence failures were catastrophic on the Franco-Bavarian side. Tallard and his colleagues "were so sure that they would not be attacked that they ignored initial reports of Marlborough's advance on the morning of August 13, assuming that he was merely covering his withdrawal toward Germany; and even when they saw that he was deploying his whole army before them, they did little to strengthen their lines." The Allied side had conducted effective reconnaissance: by the time French scouts reported the Allied advance, Marlborough and Eugene had already confirmed that the open ground between Blenheim and Oberglau "was held primarily by cavalry" — the critical weakness that the entire battle plan would exploit.
+
+**Cartographic support from Battles Map by Map (DK/Smithsonian):** Situation map of the Battle of Blenheim illustrating the Franco-Bavarian line anchored on the villages of Blenheim, Oberglau, and Lutzingen, the Nebel stream obstacle, and Marlborough's central breakthrough.
+
+![Blenheim (1704) — Allied assault across the Nebel and the decisive penetration of the weakly held Franco-Bavarian center (Battles Map by Map, p. 144)](assets/atlases/battles-map-by-map/bmb-p144.png)
+
+*Map from [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]].*
 
 ## 3. Order of Battle and Deployment
 
@@ -79,6 +91,12 @@ Intelligence failures were catastrophic on the Franco-Bavarian side. Tallard and
 | **Commanders** | Marlborough and Eugene unharmed | Tallard captured |
 
 The strategic consequences dwarfed even these figures. Within weeks, the French had withdrawn from the Danube and all German soil; the Electress of Bavaria agreed to disband her husband's army and surrender his fortresses; and Anglo-Imperial forces established themselves well west of the Rhine. "Vienna and the Empire were secure. Louis XIV was, for the first time, on the defensive."
+
+**Cartographic support from Chandler, Atlas of Military Strategy (1980):** breakthrough and exploitation at Blenheim, 1704.
+
+![The Battle of Blenheim, 1704 — breakthrough and exploitation (Chandler, p. 051)](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p051-blenheim-1704.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]].*
 
 ## 6. Critical Decisions — What Went Right and Wrong
 

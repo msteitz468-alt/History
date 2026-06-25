@@ -14,6 +14,16 @@ tags: [period]
 
 ## Overview
 
+Cartographic support from Barrington Atlas:
+
+![Britannia Superior (Roman Britain)](assets/atlases/talbert-barrington-atlas-2000/barrington-p150-britannia-superior.png)
+
+*Map from [[sources/talbert-barrington-atlas-2000]]*
+
+![Map 1 Mare Internum — central Mediterranean theater (regions, coastlines, key sites for Punic Wars)](assets/atlases/talbert-barrington-atlas-2000/barrington-p003-mare-internum.png)
+
+*Map from [[sources/talbert-barrington-atlas-2000|Barrington Atlas of the Greek and Roman World (Talbert ed., 2000)]].*
+
 Classical Antiquity (500–31 BCE) is, per CLAUDE.md, the **best-covered period in
 the collection**, and in [[benjamin-cwh-v4-2015|CWH IV]] it is the "midday" of the
 volume — the period of the largest, most articulate, and most interconnected
@@ -153,6 +163,12 @@ as its connective tissue and the Indian Ocean as a parallel maritime web. Africa
 appears via Carthage, Ptolemaic Egypt, and [[meroe|Kush/Meroe]]; the Americas
 (Maya Preclassic, Andean Chavín/early Nasca) and Oceania (Lapita-descended
 Polynesian expansion) follow independent paths treated in the regional cycles.
+
+**Cartographic support:** Situation of the Roman Empire at its territorial height.
+
+![Roman Empire at its height (31 BC–AD 235) — political and cultural reach from Atlantic to Euphrates (The Times Atlas of World History, New Edition 1999, p. ~092)](assets/atlases/times-atlas-of-world-history-1999/times-atlas-p092-roman-empire-height.png)
+
+*Map from [[sources/times-atlas-of-world-history-1999|The Times Atlas of World History]] (ed. Richard Overy).*
 
 ## Transition
 

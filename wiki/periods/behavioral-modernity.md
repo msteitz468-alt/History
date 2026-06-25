@@ -23,6 +23,12 @@ ecologies worldwide (~12,000 BP).
 
 This period represents ~95 percent of the history of behaviorally modern
 *Homo sapiens*, yet it is documented far less richly than subsequent periods.
+
+Cartographic example from Snow *History of the World Map by Map*:
+
+![From Apes to Farmers — human dispersal, Ice Age survival, and transition to agriculture](assets/atlases/snow-history-of-the-world-map-by-map-2018/snow-history-p015-from-apes-to-farmers.png)
+
+*Map from [[sources/snow-history-of-the-world-map-by-map-2018]]*
 Most Paleolithic communities were small (typically fewer than fifty individuals,
 with occasional gatherings of several hundred), foraging over familiar
 territories, leaving behind only stone tools, occasional art and symbolic

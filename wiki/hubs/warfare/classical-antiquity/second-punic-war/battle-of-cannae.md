@@ -18,7 +18,7 @@ outcome: "Decisive Carthaginian victory; near-total destruction of the Roman arm
 scale_immediate: regional
 scale_consequential: civilizational
 event_page: "[[events/battle-of-cannae-216bce]]"
-key_sources: "Polybius (Bk III); Livy (Bk XXII); Goldsworthy *Cannae* (2001) — primary modern tactical study with detailed OOB/numbers debate, phase mechanics, source criticism, and contingency analysis; Daly; Sabin"
+key_sources: "Polybius (Bk III); Livy (Bk XXII); Goldsworthy *Cannae* (2001) — primary modern tactical study with detailed OOB/numbers debate, phase mechanics, source criticism, and contingency analysis; Daly; Sabin; [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]] (situation maps)"
 last_updated: 2026-06-23
 tags: [warfare, battle-analysis, classical-antiquity, mediterranean, second-punic-war]
 ---
@@ -45,6 +45,20 @@ The result was a collision each commander wanted, but on terms only one of them 
 - **The river as an anchor:** Hannibal deployed with the Aufidus securing one flank. This was double-edged but he turned it to advantage: anchoring a flank on the river meant the Romans could not envelop *him*, and it helped **compress the wide Roman line into a narrower frontage** than its numbers warranted — funnelling their mass into a killing ground.
 - **Weather:** high Apulian summer — heat, glare, and thirst. [[livy|Livy]] (22.46) adds that the *Vulturnus*, a hot south-easterly wind, blew clouds of dust into the Romans' faces. (Polybius does not mention the wind; see §9.)
 - **Intelligence:** Hannibal read his enemy precisely — he anticipated that a politically pressured, numerically confident Roman command would mass deep and drive straight for the centre. He shaped his entire deployment around *inviting* that behaviour. Roman intelligence, by contrast, registered Hannibal's smaller numbers but not his intent; they saw a weak Carthaginian centre and took the bait.
+
+**Cartographic support from Battles Map by Map (DK/Smithsonian):** Detailed map of the Cannae battlefield showing the double envelopment, deployments, and key phases.
+
+![Cannae (216 BCE) — Battle map showing Hannibal's double envelopment tactic, Roman and Carthaginian dispositions, and timeline (Battles Map by Map, p. 34)](assets/atlases/battles-map-by-map/bmb-p034-cannae.png)
+
+*Map from [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]]. Excellent visual for the classic example of double envelopment.*
+
+**Cartographic / reconstruction support:** Detailed illustrations of equipment, formations, and Roman camp organization from Connolly.
+
+![Italian/Etruscan armor (Connolly p. ~105)](assets/atlases/connolly-greece-and-rome-at-war-1998/connolly-p105-etruscan-italian-armor.png)
+
+![Roman marching camp and manipular layout (Numantia context, Connolly p. ~141)](assets/atlases/connolly-greece-and-rome-at-war-1998/connolly-p141-roman-marching-camp-numantia.png)
+
+*Reconstructions from [[sources/connolly-greece-and-rome-at-war-1998|Peter Connolly, *Greece and Rome at War* (new rev. ed. 1998)]]. Useful for OOB, equipment, and camp in classical analyses.*
 
 ## 3. Order of Battle and Deployment
 

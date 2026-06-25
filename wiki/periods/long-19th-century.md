@@ -7,8 +7,8 @@ date_range: 1800–1914 CE
 regions_covered: [global, western-europe, north-america, east-asia, south-asia, africa, latin-america, near-east, pacific]
 major_themes: [industrialization, fossil-fuel energy transition, the new imperialism, nationalism, mass migration, abolition, the demographic transition, global market integration]
 collection_coverage: moderate
-sources_ingested: 15
-last_updated: 2026-06-22
+sources_ingested: 16
+last_updated: 2026-06-25
 tags: [period]
 ---
 
@@ -125,6 +125,12 @@ From central government start (Shakibi): Senate (1711) evolved from Peter’s co
 
 ## Geographic Scope
 
+**Cartographic support:** Anti-colonial resistance and the scramble's backlash across Africa and Asia, 1881–1917.
+
+![The anti-colonial reaction 1881–1917: resistance to European imperialism in Africa and Asia (The Times Atlas of World History, 1999 ed., p. ~250)](assets/atlases/times-atlas-of-world-history-1999/times-atlas-p250-anti-colonial-reaction-1881.png)
+
+*Map from [[sources/times-atlas-of-world-history-1999|The Times Atlas of World History]].*
+
 Genuinely global for the first time. Industrial heartland: northwestern Europe and
 the northeastern United States. Major killing fields: Qing China. Zones of colonial
 conquest: most of Africa, South and Southeast Asia, the Pacific. Settler frontiers:
@@ -173,3 +179,5 @@ American Civil War, German/Italian unification, or the partition of Africa as
 discrete events), and **Book 2 ("Shared Transformations?")** — urbanization,
 migration in depth, family, religion, science, the Atlantic revolutions — is
 **absent from the collection** and remains a sourcing priority. The gap on Russia and Eastern Europe has been addressed by the ingestion of Riasanovsky (2000).
+
+Kershaw *Hitler 1889–1936: Hubris* (Range 01) supplies critical primary-spine detail on the personal formation of one of the era's most consequential radicals in its closing years: Vienna antisemitism crystallization 1907–1913, social-Darwinist/völkisch reading, Academy failure, Munich move 1913 as escape from Austrian obligations, and the pre-1914 "nobody" status. This grounds the transition into [[periods/world-wars-era]] without retrojecting later power. `contributed_to:` [[actors/adolf-hitler]] formation pages.

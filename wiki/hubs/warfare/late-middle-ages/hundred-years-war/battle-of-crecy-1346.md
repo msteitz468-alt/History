@@ -18,8 +18,8 @@ outcome: "Decisive English victory; Edward III proceeds to besiege and take Cala
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[events/battle-of-crecy-1346]]"
-key_sources: "CHW Vol. 2 ch. 13 (Anne Curry) & ch. 23 (Kelly DeVries); Delbrück, History of the Art of War Vol. III (Sachkritik on numbers/tactics); Froissart; Ayton & Preston, The Battle of Crécy, 1346 (2005, outstanding); Rogers, War Cruel and Sharp (outstanding); DeVries, Infantry Warfare in the Early Fourteenth Century (1996), ch. XIII (detailed formation, source criticism on archer placement, ditches, speech, rain effect, Courtrai parallel, verbatim chronicle grounding)"
-last_updated: "2026-06-24 (DeVries range 08/09: opening + maturation; Staveren/Vottem parallels; chevauchée + prep verbatim)"
+key_sources: "CHW Vol. 2 ch. 13 (Anne Curry) & ch. 23 (Kelly DeVries); Delbrück, History of the Art of War Vol. III (Sachkritik on numbers/tactics); Froissart; Ayton & Preston, The Battle of Crécy, 1346 (2005, outstanding); Rogers, War Cruel and Sharp (outstanding); DeVries, Infantry Warfare in the Early Fourteenth Century (1996), ch. XIII (detailed formation, source criticism on archer placement, ditches, speech, rain effect, Courtrai parallel, verbatim chronicle grounding); [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]] (situation maps)"
+last_updated: "2026-06-24"
 tags: [warfare, battle-analysis, late-middle-ages, western-europe, hundred-years-war]
 ---
 
@@ -63,6 +63,12 @@ helps to explain their vulnerability in battle against the English."
 - **Intelligence / tempo.** Edward had time to choose and prepare the position; the French arrived
   **piecemeal and late in the day**, committing to battle without assembling or resting — the
   coordination failure Curry identifies as endemic.
+
+**Cartographic support from Battles Map by Map (DK/Smithsonian):** Detailed situation map of the Battle of Crécy showing English deployment on the ridge with longbowmen on the flanks, the constricted French approach, and the successive charges.
+
+![Crécy (1346) — English defensive position on the ridge with flanking longbow fire and French men-at-arms attacks (Battles Map by Map, p. 82)](assets/atlases/battles-map-by-map/bmb-p082.png)
+
+*Map from [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]].*
 
 ## 3. Order of Battle and Deployment
 

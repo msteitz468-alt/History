@@ -18,7 +18,7 @@ outcome: "German operational victory through rapid redeployment and encirclement
 scale_immediate: "regional"
 scale_consequential: "civilizational (major early Eastern Front victory; enabled German focus west initially; destroyed Russian 2nd Army command and prestige)"
 event_page: "[[events/first-world-war-1914]]"
-key_sources: "Hew Strachan, The First World War, Volume I: To Arms (2001), Ch. 4 (lines ~12438–14400 in body: War Plans and East Prussia operations)"
+key_sources: "Hew Strachan, The First World War, Volume I: To Arms (2001), Ch. 4 (lines ~12438–14400 in body: War Plans and East Prussia operations); [[sources/banks-military-atlas-first-world-war-1975]] (Eastern Front 1914 maps including Tannenberg strategic situation)"
 last_updated: "2026-06-24"
 tags: [warfare, battle-analysis, world-wars-era, eastern-europe, first-world-war]
 ---
@@ -34,6 +34,12 @@ A staff-college-level analysis of objectives, terrain, order of battle, the phas
 **German Empire (8th Army)** — secondary theatre overall (“For the general staffs of both Russia and Germany East Prussia in 1914 was a secondary theatre”). The 8th Army (initially under Prittwitz, max. thirteen divisions) had to defend East Prussia while doing what it could to support the Austrians. Pre-war instructions: “to conduct operations according to his own judgement.” Moltke’s signals mixed: on 14 August “When the Russians come, not defence only, but offensive, offensive, offensive.” But Moltke had abandoned any early eastern offensive and expected to switch forces west-to-east only after seven weeks or more. The political impossibility of abandoning Germans east of the Vistula shaped the defensive-offensive posture. Schlieffen had seen the Masurian lakes as enabling operations on interior lines despite inferiority.
 
 The range emphasizes the illusions on both sides regarding allied co-operation and the mismatch between Austrian expectations of German support in Poland and actual German focus on the west.
+
+**Cartographic support from Banks, A Military Atlas of the First World War (1975):** Battle of Tannenberg — strategic situation map (Eastern Front, August 1914).
+
+![Battle of Tannenberg strategic situation 1914 (Banks p. 097)](assets/atlases/banks-military-atlas-first-world-war-1975/banks-p097-tannenberg-strategic-situation-1914.png)
+
+*Map from [[sources/banks-military-atlas-first-world-war-1975]].*
 
 ## 2. Terrain, Weather, and Intelligence
 

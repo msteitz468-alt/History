@@ -18,7 +18,7 @@ outcome: "German near-perfect double envelopment in Blau I: 170-200 km in 15 day
 scale_immediate: "civilizational"
 scale_consequential: "global"
 event_page: "[[events/battle-of-stalingrad-1942]]"
-key_sources: "David M. Glantz with Jonathan M. House, To the Gates of Stalingrad (2009) Ch. 4 (lines 6221-7548), Ch. 5 (7549-9251), Ch. 7 (10803-12678: Hitler alterations, 4th Pz Abganerovo, 6th to Kalach, defenses org, NE corner, conclusions; Tables 17-19 OOB), Ch. 8 (lines 12679-14967 cache range: Army Group B plan, Volga arrival 21–23 Aug, Kotluban/Orlovka counterstrokes, 62nd/4th Pz struggles, sideshows, conclusions); cross to When Titans Clashed (2015)"
+key_sources: "David M. Glantz with Jonathan M. House, To the Gates of Stalingrad (2009) Ch. 4 (lines 6221-7548), Ch. 5 (7549-9251), Ch. 7 (10803-12678: Hitler alterations, 4th Pz Abganerovo, 6th to Kalach, defenses org, NE corner, conclusions; Tables 17-19 OOB), Ch. 8 (lines 12679-14967 cache range: Army Group B plan, Volga arrival 21–23 Aug, Kotluban/Orlovka counterstrokes, 62nd/4th Pz struggles, sideshows, conclusions); cross to When Titans Clashed (2015); [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]] (situation maps)"
 last_updated: "2026-06-24"
 tags: [warfare, battle-analysis, world-wars-era, eastern-europe, second-world-war]
 ---
@@ -100,6 +100,18 @@ Prologue microcosm (23 Jul 1942, Sukhaia Vereika near Voronezh): 5th Tank Army (
 - **Ground:** Vast steppe, Don River bends as obstacles/anchors, limited roads/rails, Volga as final barrier. Open terrain favored German maneuver early; later urban/industrial fringes and river lines favored defense.
 - **Weather / season:** Summer heat, then rasputitsa potential; long distances exacerbated supply.
 - **Intelligence:** German underestimation of Soviet reserves/recovery; post-Kerch’/Khar’kov "Soviet opposition was obviously weaker" but "thoughtful observers, including Paulus, were dismayed by the seemingly bottomless resources of the supposedly moribund Red Army." Soviet: failed to penetrate Manstein deception at Kerch’ or assess Kleist strength south; Reichel memorandum (19 June, one-page Blau I summary + map from downed Storch) "creditable" to most commanders but Stalin dismissed as "one corner" of plan; Moscow bias persisted. Stavka micromanaged via Baudot/phone. (Ch. 3 lines 493, 760, 1239–1242, 1047–1059)
+
+**Cartographic support from Battles Map by Map (DK/Smithsonian):** Detailed map of the Stalingrad siege showing urban fighting, German 6th Army encirclement, and key sites like the Tractor Factory and Pavlov's House.
+
+![Stalingrad (1942–43) — Battle map showing the siege, Soviet counteroffensive, and encirclement of the German 6th Army (Battles Map by Map, p. 244)](assets/atlases/battles-map-by-map/bmb-p244-stalingrad.png)
+
+*Map from [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]].*
+
+**Cartographic support:** Broader Eastern Front summer 1941 offensive context (Leningrad, Army Group South toward Stalingrad/Volga area).
+
+![The War in Eastern Europe — German Summer Offensive 1941 (with Siege of Leningrad and Finnish campaign insets) (West Point Atlas of World War II, page ~035)](assets/atlases/west-point-atlas-second-world-war/wwii-atlas-p035-eastern-europe-1941-offensive.png)
+
+*Map from [[sources/west-point-atlas-second-world-war|West Point Atlas of World War II]].*
 
 ## 3. Order of Battle and Deployment
 

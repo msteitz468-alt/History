@@ -18,7 +18,7 @@ outcome: "Allied armies (French, BEF, Belgian) forced into general retreat from 
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[events/first-world-war-1914]]"
-key_sources: "Hew Strachan, The First World War, Vol. I: To Arms (2001), Ch. 3 'The Western Front in 1914' (War Plans + Battle of the Frontiers sections, assigned range only); inter-war German memoirs and Reichsarchiv materials critiqued herein; Robert A. Doughty, Pyrrhic Victory: French Strategy and Operations in the Great War (2005), Ch. 2 'The War of Movement, 1914' (exclusive subagent range cache: detailed French GQG decision-making, Plan XVII execution, Lorraine/Ardennes/Sambre operations, intelligence assessments, command changes, Guise counterattack, transition to retreat; all new claims verbatim-grounded in that range only)"
+key_sources: "Hew Strachan, The First World War, Vol. I: To Arms (2001), Ch. 3 'The Western Front in 1914' (War Plans + Battle of the Frontiers sections, assigned range only); inter-war German memoirs and Reichsarchiv materials critiqued herein; Robert A. Doughty, Pyrrhic Victory: French Strategy and Operations in the Great War (2005), Ch. 2 'The War of Movement, 1914' (exclusive subagent range cache: detailed French GQG decision-making, Plan XVII execution, Lorraine/Ardennes/Sambre operations, intelligence assessments, command changes, Guise counterattack, transition to retreat; all new claims verbatim-grounded in that range only); [[sources/banks-military-atlas-first-world-war-1975]] (Mons and opening Western Front maps)"
 last_updated: "2026-06-24"
 tags: [warfare, campaign, world-wars-era, western-europe, first-world-war]
 ---
@@ -36,6 +36,10 @@ A staff-college-level campaign analysis of the opening phase of the war on the W
 ## 2. Terrain, Weather, and Intelligence
 
 - **Ground:** Western theatre featured rivers (Meuse, Sambre, Moselle, Scheldt), fortresses (Liège, Namur, Metz-Thionville Moselstellung, Verdun-Toul-Épinal-Belfort line), broken/wooded Ardennes, industrial/pithead areas around Mons-Charleroi obstructing fields of fire, and open Belgian plain suitable for envelopment. Forts (recently modernized at Liège/Namur) favoured defence against pre-420mm artillery.
+
+![Fortifications of Liège and Namur, 1914 — the key Belgian barrier forts on the German right wing's path of advance (pentagonal main forts with smaller triangular fortins; critical to the 1914 timetable)](assets/atlases/banks-military-atlas-first-world-war-1975/banks-p038-fortifications-liege-namur-1914.png)
+
+*Map from [[sources/banks-military-atlas-first-world-war-1975]].*
 - **Weather/season:** Late summer; early morning mist repeatedly grounded French aircraft and concealed German approaches (critical at Morhange 20 Aug and Ardennes 22 Aug). Heat and exhaustion from continuous marching degraded infantry performance during retreats.
 - **Intelligence:** Both sides suffered severe failures. French 2ème/3ème bureau divisions and underestimation of German reserve use + full Belgian depth ("Joffre’s neglect of this conclusion..."). Germans ignorant of exact BEF location and strength ("one battalion... told... that there was no enemy within 80 kilometres"). Belgian reports downplayed or questioned by French. Cavalry and early air reconnaissance inadequate or misdirected. Moltke anticipated French attacks in Lorraine but still committed to right-wing swing.
 
@@ -49,6 +53,10 @@ A staff-college-level campaign analysis of the opening phase of the war on the W
 | Command | Joffre central; Lanrezac (5th) independent-minded; Sir John French subordinate to French plans | Moltke remote; Kluck subordinated to Bülow for conformity; Ludendorff (Liège) |
 
 **Deployment:** German right (1st/2nd) north of Liège swinging through Belgium; centre marking time then advancing into Ardennes; left holding/pivoting Lorraine. French echeloned 3rd/4th into Ardennes, 5th north to Sambre, 1st/2nd into Lorraine; BEF forward at Maubeuge per French wishes. Belgians split: field army central/Gette, garrisons forward at Liège/Namur.
+
+![Battle of Mons, 23 August 1914 — detailed view of BEF II Corps positions along the canal, German corps attacks, and the retreat line toward Maubeuge-Bavai (part of the broader Frontiers fighting)](assets/atlases/banks-military-atlas-first-world-war-1975/banks-p054-battle-of-mons-1914.png)
+
+*Map from [[sources/banks-military-atlas-first-world-war-1975]].*
 
 ## 4. Course of the Battle — Phases
 

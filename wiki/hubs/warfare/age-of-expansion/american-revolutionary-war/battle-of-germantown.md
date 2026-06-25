@@ -18,7 +18,7 @@ outcome: "British victory; a bold American attack defeated by its own complexity
 scale_immediate: regional
 scale_consequential: regional
 event_page: "[[battle-of-germantown-1777]]"
-key_sources: "West Point History of the American Revolution (2017), ch. 3 (Edward G. Lengel)"
+key_sources: "West Point History of the American Revolution (2017), ch. 3 (Edward G. Lengel); [[sources/murray-atlas-american-military-history-2005]] (Murray atlas)"
 last_updated: 2026-06-23
 tags: [warfare, battle-analysis, age-of-expansion, eastern-north-america, american-revolutionary-war]
 ---
@@ -30,6 +30,10 @@ tags: [warfare, battle-analysis, age-of-expansion, eastern-north-america, americ
 A staff-college analysis of Washington's **audacious failed counter-stroke** outside Philadelphia — the
 classic cautionary tale of an **over-complex plan of converging columns** undone by fog, friction, and a
 single strongpoint.
+
+![Battle of Germantown, 4 October 1777 — Washington’s four-column attack on Howe’s forces (the Chew House strongpoint at Cliveden proved decisive)](assets/atlases/murray-atlas-american-military-history-2005/murray-amh-p041-germantown-monmouth-1777.png)
+
+*Map from [[sources/murray-atlas-american-military-history-2005]].*
 
 ## 1. Strategic Context and Objectives
 

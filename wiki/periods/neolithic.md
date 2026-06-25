@@ -14,6 +14,12 @@ tags: [period]
 
 ## Overview
 
+Cartographic example:
+
+![The First Farmers — global domestication and spread of agriculture](assets/atlases/snow-history-of-the-world-map-by-map-2018/snow-history-p025-first-farmers.png)
+
+*Map from [[sources/snow-history-of-the-world-map-by-map-2018]]*
+
 The Neolithic ("New Stone Age") is defined not by a date but by an **economy**:
 the transition from foraging (hunting, fishing, gathering) to food production
 (cultivating domesticated plants and herding domesticated animals). It is the

@@ -43,6 +43,12 @@ The campaign opened 27–29 April 1863 as the most complex of the war.
 - **Weather:** Pleasant, breezy late April/early May conditions aided the marches; no choking dust on damp roads (a double blessing — the flanking column could not be tracked by dust). A torrential storm on 5–6 May flooded the Rappahannock, delayed the final Union crossing, and halted Lee’s planned pursuit.
 - **Intelligence:** Hooker possessed the campaign’s decisive advantage. Sharpe’s Bureau produced accurate brigade-level identifications from spies (Isaac Silver on the Orange Plank Road three miles east of Chancellorsville reported Wilcox at Banks’s Ford and Posey at U.S. Ford with “no other standing troops”). A planted signal ruse (Butterfield message about cavalry operations) pulled Stuart elements west, opening the critical gap. Lee remained largely ignorant of the three-corps flanking column until late 28/29 April due to the ruse, poor telegraph coverage at night, and tight Federal security (house guards, no music, mail hold). Union observers at Hazel Grove later sighted the column at Catharine Furnace but response was delayed.
 
+**Cartographic support:** Chancellorsville/Wilderness campaign situation at 1800, 2 May 1863 (Hooker flanking march, Lee response, Jackson's flank march).
+
+![The Wilderness, 1863 — Chancellorsville Campaign, Situation at 1800, 2 May 1863 (West Point Atlas of the American Civil War, Griess ed., p. ~065)](assets/atlases/west-point-atlas-american-civil-war/acw-atlas-p065.png)
+
+*Map from [[sources/west-point-atlas-american-civil-war-griess|West Point Atlas of the American Civil War (Griess ed.)]].*
+
 Sears’s maps (George Skoch) provide precise timed situations (30 April movements, 2 May 6 p.m. Jackson attack, multiple 3 May snapshots, Salem Church at 4 p.m.).
 
 ## 3. Order of Battle and Deployment

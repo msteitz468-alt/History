@@ -35,6 +35,12 @@ This page provides a structured, professional-level (West Point / military acade
 - City of Qadesh on the Orontes.
 - Hittites concealed large force behind the city and used the river for surprise crossing.
 
+**Cartographic support from Battles Map by Map (DK/Smithsonian):** Situation map of the Battle of Qadesh (Kadesh) illustrating the Egyptian march in column, the Hittite ambush from behind the city, the Orontes river crossing, and the critical arrival of the Ne'arin force.
+
+![Qadesh (1274 BCE) — Egyptian divisions on the march and the Hittite chariot ambush near the Orontes (Battles Map by Map, p. 14)](assets/atlases/battles-map-by-map/bmb-p014.png)
+
+*Map from [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]].*
+
 ## Order of Battle and Deployment
 
 **Egyptian**:

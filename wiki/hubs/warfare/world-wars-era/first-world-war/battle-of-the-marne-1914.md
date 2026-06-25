@@ -18,7 +18,7 @@ outcome: "French/Allied strategic victory halts German advance; Germans retreat 
 scale_immediate: "civilizational"
 scale_consequential: "global"
 event_page: "[[events/first-world-war-1914]]"
-key_sources: "Hew Strachan, The First World War, Vol. I: To Arms (2001), Ch. 3 exclusively; cross-referenced to established 1914 actors and [[concepts/schlieffen-plan]]; Robert A. Doughty, Pyrrhic Victory: French Strategy and Operations in the Great War (2005), Ch. 2 'The War of Movement, 1914' (exclusive subagent range: full French high command view of retreat, Marne concept formation, Gallieni/Maunoury orders, d’Espèrey–Wilson–Joffre coordination, battle conduct on left/center/right, Kluck gap exploitation, pursuit and race to sea details, verbatim grounding for all added French claims)"
+key_sources: "Hew Strachan, The First World War, Vol. I: To Arms (2001), Ch. 3 exclusively; cross-referenced to established 1914 actors and [[concepts/schlieffen-plan]]; Robert A. Doughty, Pyrrhic Victory: French Strategy and Operations in the Great War (2005), Ch. 2 'The War of Movement, 1914' (exclusive subagent range: full French high command view of retreat, Marne concept formation, Gallieni/Maunoury orders, d’Espèrey–Wilson–Joffre coordination, battle conduct on left/center/right, Kluck gap exploitation, pursuit and race to sea details, verbatim grounding for all added French claims); [[sources/west-point-atlas-great-war-greiss|West Point Atlas for the Great War (Greiss)]] (situation maps); [[sources/banks-military-atlas-first-world-war-1975|A Military Atlas of the First World War (Banks)]] (Mons context and campaign plates)"
 last_updated: "2026-06-24"
 tags: [warfare, campaign, world-wars-era, western-europe, first-world-war, battle-analysis]
 ---
@@ -42,6 +42,20 @@ The Marne occurred because the French had broken contact after the frontiers and
 **Weather:** Poor early (22–23 Aug), clearing briefly for French air recce on 24 Aug, then breaking again. Wet weather from ~12 Sep hampered allied pursuit and aerial observation. Fog and rain at Ypres aided some German infiltrations but generally slowed movement.
 
 **Intelligence:** French benefited from intercepted German wireless (some in clear, others broken codes) and aerial observation confirming Kluck's 1st Army passing east of Paris. Joffre used liaison officers for ground truth. Germans suffered critical failures: cavalry deficient on the right wing and poorly employed for recce (bridging issues, road-bound, dismounted when facing fire); air assets allocated to armies/corps not OHL; Kluck wrongly concluded BEF out of battle. Moltke received information often 24 hours old; OHL over-relied on optimistic army reports. "The Germans were guilty of seeing things as they wanted them to be, not as they were."
+
+![Great War / Marne 1914 situation map example (West Point Atlas for the Great War, page ~007)](assets/atlases/west-point-atlas-great-war/greatwar-p007-marne-frontiers.png)
+
+*Map from the West Point Atlas for the Great War (Greiss ed.). See [[sources/west-point-atlas-great-war-greiss]].*
+
+![Battle of Mons, 23 August 1914 — BEF defensive positions and German envelopment attempts (precursor to the Marne retreat and counter-manoeuvre)](assets/atlases/banks-military-atlas-first-world-war-1975/banks-p054-battle-of-mons-1914.png)
+
+*Map from [[sources/banks-military-atlas-first-world-war-1975]].*
+
+**Cartographic support from Banks, A Military Atlas of the First World War (1975):** The First Battle of the Marne 5-10 September 1914 — general situation and German withdrawal phases.
+
+![The First Battle of the Marne 5-10 September 1914 (Banks p. 061)](assets/atlases/banks-military-atlas-first-world-war-1975/banks-p061-first-battle-of-the-marne-1914.png)
+
+*Map from [[sources/banks-military-atlas-first-world-war-1975]].*
 
 ## 3. Order of Battle and Deployment (approximate, per Strachan)
 

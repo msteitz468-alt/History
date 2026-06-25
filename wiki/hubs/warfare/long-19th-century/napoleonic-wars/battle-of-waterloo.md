@@ -18,7 +18,7 @@ outcome: "Decisive Coalition victory; Napoleon abdicated four days later; Napole
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[napoleonic-wars]]"
-key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), ch. 9; Keegan, The Face of Battle (1976), ch. 3"
+key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), ch. 9; Keegan, The Face of Battle (1976), ch. 3; [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]] (situation maps); [[sources/chandler-atlas-of-military-strategy-1980|Chandler, Atlas of Military Strategy (1980)]]"
 last_updated: 2026-06-24
 tags: [warfare, battle-analysis, long-19th-century, western-europe, napoleonic-wars]
 ---
@@ -37,6 +37,12 @@ His objectives on 18 June were direct: destroy Wellington's army at Mont St. Jea
 
 ## 2. Terrain, Weather, and Intelligence
 
+**Cartographic support from Battles Map by Map (DK/Smithsonian):** Detailed map of the Waterloo battlefield showing phases of the battle, key locations like Hougoumont and La Haye Sainte, and force movements.
+
+![Waterloo (1815) — Battle map showing attacks on Hougoumont, Ney's cavalry charges, and Prussian arrival (Battles Map by Map, p. 178)](assets/atlases/battles-map-by-map/bmb-p178-waterloo.png)
+
+*Map from [[sources/battles-map-by-map-2021|Battles Map by Map (DK/Smithsonian, 2021)]].*
+
 The position at Mont St. Jean was Wellington's chosen ground, selected in advance as "a favorable defensive position at the crossroads of Mont St. Jean, just south of Waterloo." The key terrain feature was the reverse slope: "with many of the allied soldiers on the reverse side of a slope at Mont St. Jean, where they were partially hidden and received some protection against enemy fire, Wellington concentrated his forces on a front of about 5,000 yards." This reverse-slope deployment — screening infantry from French artillery and obscuring unit dispositions from French observers — was Wellington's signature defensive technique and fundamentally shaped the battle's course.
 
 Forward of the main line, Wellington placed troops "in the chateau of Hougoumont, on his right front; on his center in the walled farmhouse of La Haye-Sainte; and on his left in the farmhouses of Papelotte and La Haye." These fortified outposts forced attacking French infantry to reduce each obstacle under fire before engaging the main line, consuming men and momentum at each step.
@@ -44,6 +50,12 @@ Forward of the main line, Wellington placed troops "in the chateau of Hougoumont
 Weather was operationally significant. The night of 17–18 June brought torrential rain. The rain-saturated ground caused Napoleon to delay his attack: "confident that Grouchy would prevent Blücher's Prussians from joining Wellington's army, Napoleon delayed his attack until the rain-saturated ground had dried enough to improve traction for horses and ensure a more deadly effect from ricocheting cannon balls." This delay — Napoleon would normally have attacked "soon after dawn, as was his custom" — proved catastrophic, as it gave Blücher's lead corps time to reach the battlefield. The ground conditions that motivated the delay directly enabled the Prussian arrival.
 
 Intelligence failure was equally decisive. Napoleon sent Grouchy with 33,000 men — "almost one third of his total force" — to pursue and contain the Prussians after their defeat at Ligny. Grouchy "misinterpreted the movements of the Prussians, assumed the small enemy force in front of him was the entire Prussian force, and refused the pleas of his lieutenants to march to the sound of the guns." This error left Blücher with an open road to Waterloo. The French never developed accurate intelligence about Prussian movements during the critical morning hours.
+
+**Cartographic support from Chandler, Atlas of Military Strategy (1980):** the Waterloo Campaign, 1815 (maneuver and concentration leading to the battle).
+
+![The Waterloo Campaign, 1815 (Chandler, p. 130)](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p130-waterloo-campaign-1815.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]].*
 
 ## 3. Order of Battle and Deployment
 

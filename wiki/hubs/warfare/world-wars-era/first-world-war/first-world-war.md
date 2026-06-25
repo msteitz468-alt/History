@@ -13,7 +13,7 @@ outcome: "Allied victory (1918); the paradigm of industrial-attritional war"
 scale_immediate: "global"
 scale_consequential: "global"
 event_page: "[[events/first-world-war-1914]]"
-key_sources: "Keegan, The Face of Battle (1976), ch. 4; Cambridge History of the First World War (Winter ed., held); Strachan, The First World War, Vol. I: To Arms (2001) — ingested 2026-06-24 for 1914 campaigns, war plans, global opening, and economic mobilisation (Range 10: financing + industrial to 1916, short-war illusion, KRA, shell crisis data). Doughty, *Pyrrhic Victory: French Strategy and Operations in the Great War* (2005) — ingested 2026-06-24 (source page created + subagent ranges launched for French high command evolution, 1915–1918 Western Front operations, Verdun/Somme/Nivelle/1918 phases). Further: Griffith, Gudmundsson remain outstanding per roadmap."
+key_sources: "Keegan, The Face of Battle (1976), ch. 4; Cambridge History of the First World War (Winter ed., held); Strachan, The First World War, Vol. I: To Arms (2001) — ingested 2026-06-24 for 1914 campaigns, war plans, global opening, and economic mobilisation (Range 10: financing + industrial to 1916, short-war illusion, KRA, shell crisis data). Doughty, *Pyrrhic Victory: French Strategy and Operations in the Great War* (2005) — ingested 2026-06-24 (source page created + subagent ranges launched for French high command evolution, 1915–1918 Western Front operations, Verdun/Somme/Nivelle/1918 phases). Further: Griffith, Gudmundsson remain outstanding per roadmap. [[sources/west-point-atlas-great-war-greiss|West Point Atlas for the Great War (Greiss)]] (situation maps); [[sources/banks-military-atlas-first-world-war-1975|A Military Atlas of the First World War (Banks, 1975)]] (detailed campaign and context maps, pre-war alignments, July crisis, Mons/Marne, multi-front coverage)"
 last_updated: "2026-06-24"
 tags: [warfare, campaign, world-wars-era, western-europe, first-world-war]
 ---
@@ -26,6 +26,40 @@ The warfare-hub entry point for the operational and tactical conduct of the **Fi
 (1914–1918) — the war that fixed the modern image of **industrial attrition**: the trench deadlock,
 the primacy of artillery and the machine gun, and the long, costly search for a way to restore
 movement to the battlefield.
+
+**Cartographic support:** Maps from the companion [[sources/west-point-atlas-great-war-greiss|West Point Atlas for the Great War]] (58 plates, situation maps for 1914 campaigns and key battles). Example:
+
+![Great War / 1914 campaign situation map example (West Point Atlas for the Great War, page ~006)](assets/atlases/west-point-atlas-great-war/greatwar-p006.png)
+
+See source page for more plates (extracted from the Greiss ed. atlas). Use in individual analyses for Terrain, OOB, and phases.
+
+Additional high-resolution campaign and context maps from [[sources/banks-military-atlas-first-world-war-1975|A Military Atlas of the First World War (Arthur Banks, 1975)]] (with commentary by Alan Palmer). This atlas supplies granular plates for pre-war causes, the July Crisis, 1914 battles (Mons, Marne, Tannenberg, etc.), Gallipoli, and later fronts.
+
+![Main reasons the five major European powers went to war in 1914 (thematic map with motivations per power)](assets/atlases/banks-military-atlas-first-world-war-1975/banks-p013-causes-five-powers-1914.png)
+
+*Map from [[sources/banks-military-atlas-first-world-war-1975]].*
+
+![Europe's plunge to disaster in the summer of 1914 — day-by-day July Crisis timeline and alignments](assets/atlases/banks-military-atlas-first-world-war-1975/banks-p022-july-crisis-plunge-1914.png)
+
+*Map from [[sources/banks-military-atlas-first-world-war-1975]].*
+
+**Cartographic support from Banks, A Military Atlas of the First World War (1975):** The First Battle of the Marne, 5-10 September 1914 (phase situations showing German right wing withdrawal).
+
+![The First Battle of the Marne 5-10 September 1914 (Banks p. 061)](assets/atlases/banks-military-atlas-first-world-war-1975/banks-p061-first-battle-of-the-marne-1914.png)
+
+*Map from [[sources/banks-military-atlas-first-world-war-1975]].*
+
+**Cartographic support from Banks, A Military Atlas of the First World War (1975):** First Battle of Ypres, 18 October–11 November 1914 (detailed BEF, French, and German positions and movements).
+
+![First Battle of Ypres 18 Oct–11 Nov 1914 (Banks p. 082)](assets/atlases/banks-military-atlas-first-world-war-1975/banks-p082-first-battle-of-ypres-1914.png)
+
+*Map from [[sources/banks-military-atlas-first-world-war-1975]].*
+
+**Cartographic support from Banks, A Military Atlas of the First World War (1975):** The Brusilov Offensive, June–October 1916 (major Russian success on Eastern Front).
+
+![The Brusilov Offensive June–October 1916 (Banks p. 154)](assets/atlases/banks-military-atlas-first-world-war-1975/banks-p154-brusilov-offensive-1916.png)
+
+*Map from [[sources/banks-military-atlas-first-world-war-1975]].*
 
 **1914 war-planning and decision context (Strachan, Range 01).** Pre-war plans were incremental and contingent, not a rigid "Schlieffen Plan" betrayed by Moltke. Germany abandoned Russia-only options in 1913 and committed to two-front war (France first), yet the timing of the Austrian ultimatum was chosen to reduce two-front risk. Moltke's fatalistic preventive-war advocacy (Slav-Teuton struggle; "the sooner it came the better") and the 8 Dec 1912 "war council" (decisions conditional on military readiness, not policy objectives) militarized diplomacy. The "blank cheque" was blank; Bethmann pursued localization until Russian mobilization forced the issue. Conrad's pressure and Austria's dependence shaped the Balkan trigger. These political/strategic origins (detailed in [[sources/strachan-first-world-war-to-arms-2001]]) set the parameters for the 1914 campaigns covered in later hub pages. See also [[events/july-crisis-1914]] and [[events/first-world-war-1914]].
 

@@ -18,7 +18,7 @@ outcome: "American strategic victory; the war begins, British column savaged on 
 scale_immediate: local
 scale_consequential: civilizational
 event_page: "[[battles-of-lexington-and-concord-1775]]"
-key_sources: "West Point History of the American Revolution (2017), chs. 1–2 (Watson; Lengel)"
+key_sources: "West Point History of the American Revolution (2017), chs. 1–2 (Watson; Lengel); [[sources/murray-atlas-american-military-history-2005]] (Murray atlas map)"
 last_updated: 2026-06-23
 tags: [warfare, battle-analysis, age-of-expansion, eastern-north-america, american-revolutionary-war]
 ---
@@ -30,6 +30,10 @@ tags: [warfare, battle-analysis, age-of-expansion, eastern-north-america, americ
 A staff-college analysis of the **opening shots of the [[american-revolution|Revolution]]** — less a
 battle than a **failed raid that became a fighting retreat**, and the war's first lesson in the
 vulnerability of a road-bound column to **dispersed irregular harassment**.
+
+![Battle of Lexington, April 19, 1775 — the first shots on Lexington Green and the start of the British retreat toward Boston](assets/atlases/murray-atlas-american-military-history-2005/murray-amh-p034-lexington-april-1775.png)
+
+*Map from [[sources/murray-atlas-american-military-history-2005]].*
 
 ## 1. Strategic Context and Objectives
 

@@ -18,7 +18,7 @@ outcome: "Crusader capture of Antioch by treachery (3 June 1098), then defeat of
 scale_immediate: "regional"
 scale_consequential: "civilizational"
 event_page: "[[events/siege-of-antioch-1097]]"
-key_sources: "[[sources/france-victory-in-the-east-1994|France, Victory in the East (1994)]]; CHW Vol. 2 ch. 10 (John France); Gesta Francorum (GF); Raymond of Aguilers (RA); Fulcher of Chartres (FC); Albert of Aachen (AA)"
+key_sources: "[[sources/france-victory-in-the-east-1994|France, Victory in the East (1994)]]; CHW Vol. 2 ch. 10 (John France); Gesta Francorum (GF); Raymond of Aguilers (RA); Fulcher of Chartres (FC); Albert of Aachen (AA); [[sources/mcevedy-penguin-atlas-medieval-history-1961]] (political context map)"
 last_updated: "2026-06-23"
 tags: [warfare, battle-analysis, high-middle-ages, near-east, crusades]
 ---
@@ -60,6 +60,9 @@ self-interested) meant relief came late and fractiously.
   early 1098." Knights "became unwilling to escort foragers for fear of losing their horses." The
   decisive intelligence asset was **maritime**: English and Genoese fleets brought food from
   Byzantine Cyprus, the lifeline that kept the siege alive.
+
+![Political situation c. 1092 (immediately prior to the First Crusade) — Seljuk Sultanate, Byzantine Empire, Fatimid Caliphate and surrounding powers](assets/atlases/mcevedy-penguin-atlas-medieval-history-1961/mcevedy-med-p065-1092-crusades-era.png)
+*Map from [[sources/mcevedy-penguin-atlas-medieval-history-1961]] (schematic political boundaries).*
 
 ## 3. Order of Battle and Deployment
 

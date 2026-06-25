@@ -24,6 +24,12 @@ Khoe-San communities. It is the African instance of an [[agricultural-origins|ag
 language dispersal, discussed in CWH Vol. II (Pala et al. Ch. 2; Ehret Ch. 3;
 Lane Ch. 18) and a counterpart to the [[austronesian-dispersal]] in the Pacific.
 
+**Cartographic illustration (later outcomes):** Organized states and trade networks that emerged from Bantu-speaking zones and trans-Saharan contacts by 1000–1500 CE.
+
+![Emergence of states across sub-Saharan Africa 1000–1500, including Mali, Songhay, Great Zimbabwe and gold routes (The Times Atlas of World History, 1999, p. ~145)](assets/atlases/times-atlas-of-world-history-1999/times-atlas-p145-african-states-1000-1500.png)
+
+*Map: [[sources/times-atlas-of-world-history-1999]].*
+
 ## The two streams
 
 Bantu-speakers spread in two broad streams from the Cameroon/Nigeria core:
