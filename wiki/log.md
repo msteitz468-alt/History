@@ -3275,3 +3275,51 @@ Updated key_sources on several pages. Source page frontmatter (pages_updated:12)
 ## 2026-06-25 | Biography Hub launch + first exemplar | Age of Expansion (Frederick the Great) + general | Established `hubs/biographies/` as the second high-resolution zone (parallel to hubs/warfare/). Added to CLAUDE.md (new "Biography Hub — The High-Detail Section" after Warfare Hub; updated Actor persons guidance, Step 1 scaffold instructions, Lint Workflow). Created locked `templates/biography-analysis-template.md` (9 canonical sections, tables for decisions matrix, verbatim primary + bias rules, reciprocal `actor_page`). Created portal `biographies-hub.md` (criteria, list). Added reciprocal link in `actors/frederick-the-great.md`. Created first detailed exemplar `hubs/biographies/age-of-expansion/frederick-the-great.md` (template-conformant; draws on Duffy source claims + actor content; tables, counterfactuals, historiography, primary notes). Updated index.md news + duffy source bookkeeping. 0 broken links. Follows comparisons-plan and warfare-hub precedent exactly. Co-Authored-By: Grok 4.3 (xAI) <grok@x.ai>
 
 ## 2026-06-25 | Ingest scaffold | The Years of Lyndon Johnson Vol. 1: The Path to Power (Robert A. Caro, 1982) | World Wars Era / Long 19th Century | north-america | Main-thread scaffold for major biographical source. Converted epub to markdown. Wrote full source page [[sources/caro-years-of-lyndon-johnson-vol1-1982]] with Section Plan (6 Parts + Introduction). Created summary actor page [[actors/johnson-lyndon-baines]]. Created detailed biography page [[hubs/biographies/world-wars-era/johnson-lyndon-baines]] (template-compliant, through 1941; emphasis on character formation, money as political instrument, Hill Country context, and Caro's dual-thread thesis). Updated biographies-hub.md and source bookkeeping. Key names established on disk. Ready for range splitting and staggered subagent extraction per Deployed Subagent Strategy + Biography Hub rules. 0 broken links. Co-Authored-By: Grok 4.3 (xAI) <grok@x.ai>
+
+## 2026-06-25 ingest launched (Deployed Subagent Strategy) + substantial main-thread synthesis | Robert A. Caro, *The Years of Lyndon Johnson, Volume 3: Master of the Senate* (2002) | Cold War (primary), World Wars Era | north-america
+
+Main-thread scaffold first (per CLAUDE.md):
+- Located source: raw/Master of the Senate The Years of Lyndon Johnson 3 ... .txt (64,134 lines).
+- Read TOC, Intro (Eufaula 1957 vignette), Part boundaries (Part I ~1153, II ~6566, III ~19165, IV ~27553, V ~36109), sample chapters, and end-matter.
+- Wrote source page [[sources/caro-years-of-lyndon-johnson-vol3-2002]] with full Section Plan (7 logical sections + line ranges), established naming conventions, and list of linkable pages.
+- Updated [[actors/johnson-lyndon-baines]] (frontmatter periods/events/processes/sources_ingested=3; added Senate years summary section + key episodes; expanded Related with vol3 + russell-richard).
+- Expanded [[hubs/biographies/world-wars-era/johnson-lyndon-baines]] (added cold-war to period; updated key_offices/major_decisions/key_sources; inserted Senate Career phase 1949–1960 with Bricker, CRA context, Johnson Rule, 1960; updated template comment).
+- Created new stub [[actors/russell-richard]] (Georgia senator, Southern Caucus leader, LBJ mentor/foil).
+- Created flagged stub [[actors/olds-leland]] (FPC target of 1949 stacked subcommittee fight).
+- Prepared 8 disjoint weighted body caches in /tmp/caro-vol3-cache/ (body ~1153–58000; denser weighting on Part V 1957 CRA set-piece).
+
+8 subagents (R01–R08 prefixes) launched in staggered batches of 2 (35–45s sleeps) using sonnet-style general-purpose agents. Each instructed to read *only* its cache, quote exclusively from range, link only to pre-listed names or [[unknown]].
+
+Ranges 01–06 fully completed and reconciled (claims appended to source page + synthesized into actor/bio):
+- R01: Intro framing (Eufaula denial), Senate as “dam” (founding “necessary fence” hardened by seniority/filibuster/Southern bloc), LBJ arrival/swearing-in, early committee grabs, “right size” realization, physical/persona description.
+- R02: “Desks of the Senate,” seniority rigidity, Russell background (Lost Cause, rapid Georgia rise, rules mastery, dignified vs. private views), LBJ’s deliberate courtship (Armed Services seat, breakfasts, baseball, Lady Bird hosting), 1949 cloture alignment.
+- R03: Olds renomination fight (stacking, surprise 1920s articles, “repudiate or reiterate,” 53–15 defeat; Russell praise), Preparedness Subcommittee creation/staff (Cook, Siegel, Tyler, extra budget), “siesta psychology,” unanimous-report obsession, rise to Whip via Russell.
+- R04: MacArthur hearings support (staff loans, close work with Russell), transformation of “Nothing Job” (information monopoly, live pairs to blunt foreign-aid cuts), Rayburn Board of Education access + Texas cash flows, LBJ Ranch purchase/development + 1952 flood validation, Russell 1952 presidential campaign (“Gettysburg,” major Johnson support, defeat as visceral blow), Russell’s rapid post-election endorsement of Johnson for Leader + Johnson’s broad courting.
+- R05: Bricker Amendment masterstroke (ranch “single slash” conception of George substitute; rapid-fire persuasion of George; substitution then narrow 60–31 defeat via obsessive counting, stalling, Kilgore retrieval, liberal switches; public vote for George while engineering defeat + deniability with oil backers); McCarthy “one blow” timing doctrine (Matthews/Byrd as fatal error); solitary ranch deliberation.
+- R06: Post-1955 heart attack return (weight loss, Lady Bird now advisor, rages reined in); “Program with a Heart” (12 liberal + natural gas deregulation); natural gas bill (lobbyists installed in Policy offices, 53–38 passage, Francis Case $2,500 bribe revelation, narrow investigation containment, Eisenhower veto); Social Security disability (Malone tungsten trade + forced Clements switch); “rising tide” context (Bullock County voucher suppression, Reconstruction amendments gutted, Brown 1954 + White Citizens Councils, Emmett Till 1955, Montgomery boycott start); Johnson’s earlier NYA/Austin housing/Longoria record as “expendable compassion.”
+
+New pages flagged for future: events or controversies for Bricker/George fight, natural gas bill 1956 scandal, Emmett Till, Montgomery bus boycott; process for Senate-as-dam/seniority or Preparedness Subcommittee; strengthen leland-olds.
+
+Source page claims section populated with reconciled excerpts + grounding. Actor and detailed bio pages expanded with new phases, episodes, and cross-links (Russell, Olds, Bricker, gas bill, rising tide, ranch).
+
+Ranges 07 (1957 CRA climax — Anderson-Aiken, UCA, final passage, “Great Cause” set-piece) and 08 (1960 convention/VP choice, “You Do It,” aftermath) still completing extraction at time of this entry; will be appended and synthesized immediately upon return.
+
+Caches and subagent instructions strictly followed CLAUDE.md (disjoint, weighted, staggered, main-thread owns names/structure). Next: final two ranges + full dedupe/cross-link + any new warranted pages (e.g. 1957 CRA event) + lint (0 broken links) + Outstanding Sources update + file source (.txt) to raw/4. Modern Times/ + log/index + commit/push.
+
+## 2026-06-25 partial-ingest | Caro Vol. 3 *Master of the Senate* | Cold War | north-america | 8/8 ranges launched; 01–06 fully integrated + synthesis on actor/bio/source pages; 07–08 pending final output.
+
+## 2026-06-25 ingest-complete | Robert A. Caro, *The Years of Lyndon Johnson, Volume 3: Master of the Senate* (2002) | Cold War (primary), World Wars Era | north-america | Deployed Subagent Strategy (main-thread scaffold + 8 staggered ranges + full reconciliation + synthesis).
+
+All 8 ranges returned and claims reconciled (R01–R08). Key synthesis:
+- Source page [[sources/caro-years-of-lyndon-johnson-vol3-2002]] fully populated with Section Plan + verbatim claims from all ranges (Introduction framing, Senate-as-dam, Russell apprenticeship, Olds fight, Preparedness, whip transformation, Bricker masterstroke/George substitute, rising tide (Till/Lucy/Montgomery), Hells Canyon deal, Part III removal via Anderson-Aiken, jury trial compromise (O’Mahoney + civil contempt + Church addendum), final 72–18 passage, “break the virginity” insight, 1960 reflections).
+- [[actors/johnson-lyndon-baines]] updated with Senate years section, frontmatter (cold-war, new events/processes), 1957 Great Cause narrative, Bricker/gas/scandal/heart attack/ranch details, and reciprocal links.
+- [[hubs/biographies/world-wars-era/johnson-lyndon-baines]] expanded with Senate phases, Signature Decisions (Bricker, Olds, 1957 compromises, Hells Canyon deal), character (expendable compassion vs. power analysis), and updated sources.
+- New stubs: [[actors/russell-richard]] (mentor/foil, Southern Caucus leader), [[actors/olds-leland]] (FPC target of 1949 stacked subcommittee).
+- Flagged for future: dedicated events/ or processes/ for Civil Rights Act of 1957, Emmett Till 1955, Montgomery Bus Boycott 1955-56, Bricker Amendment fight 1954, natural gas bill 1956 scandal/investigation, Hells Canyon deal; concepts around Senate rules/filibuster evolution and “rising tide”; deepen cross-links on cold-war period page.
+
+No artifacts; all claims grounded exclusively in assigned caches with verbatim quotes and correct link taxonomy. No new pages invented outside main-thread decisions. 0 broken links expected after final cross-check.
+
+Source (.txt) and any epub to be filed to raw/4. Modern Times/. Outstanding Sources.md status marker to be updated. index.md / log.md updated. Lint (schema + wikilink) and commit/push per standing rules to follow immediately.
+
+**Ingest of Caro Vol. 3 complete on main thread.**
+
