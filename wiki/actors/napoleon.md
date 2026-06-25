@@ -9,8 +9,8 @@ affiliated_with: [the French Republic and First Empire, the Revolution's heirs]
 opposed_by: [Great Britain, Austria, Prussia, Russia, the European coalitions]
 key_events: [the coup of 18 Brumaire (1799), the Concordat (1801), the Civil Code (1804), the proclamation of the Empire (1804), the Napoleonic Wars, the invasion of Russia (1812), Waterloo (1815)]
 key_processes: [[[french-revolution-1789]], [[napoleonic-wars]], [[nationalism]], [[balance-of-power]]]
-sources_ingested: 2
-last_updated: 2026-06-14
+sources_ingested: 3
+last_updated: 2026-06-25
 tags: [actor, person, age-of-expansion, long-19th-century, western-europe]
 ---
 
@@ -22,8 +22,7 @@ Revolution]], built a continental empire, and reshaped European law, administrat
 warfare. The 1907 *Cambridge Modern History* devotes its whole ninth volume to him as a figure
 whose single personality dominated his age as few others "except those of Alexander the Great,
 of Julius Caesar, and of Charlemagne" — and, unlike Charles V or Louis XIV, "the architect of
-his own fortunes." From [[cambridge-modern-history-v9-napoleon|*The Cambridge Modern History*,
-Vol. IX]] and [[sources/chandler-the-campaigns-of-napoleon-1966|*The Campaigns of Napoleon* (Chandler, 1966)]].
+his own fortunes." From [[cambridge-modern-history-v9-napoleon|*The Cambridge Modern History*, Vol. IX]], [[sources/chandler-the-campaigns-of-napoleon-1966|*The Campaigns of Napoleon* (Chandler, 1966)]], and [[sources/roberts-napoleon-a-life-2014|*Napoleon: A Life* (Andrew Roberts, 2014)]] (complete correspondence re-evaluation).
 
 ## Career
 
@@ -56,8 +55,13 @@ exported the [[french-revolution-1789|Revolution]] across Europe by force, drove
 [[balance-of-power|balance of power]] to its great crisis, and — through the reaction to him —
 helped birth modern **[[nationalism]]** and the Restoration order of 1815.
 
+**Roberts (2014) re-evaluation (via the complete unexpurgated correspondence):** Napoleon’s greatest victories were institutional rather than military. The Civil Code, rational administration, meritocratic service, and secular education modernized Europe and proved far more durable than the empire. He personified the “Enlightenment on horseback,” saving the Revolution’s core principles (equality before the law, merit, property, toleration) from both Jacobin excess and full Bourbon reaction. He was a relentless micromanager who nevertheless built a system that could function without him at the center; his letters reveal humor, self-appraisal, and a consistent modernizing project. The new correspondence demands a re-assessment of character and causation: war was declared on him more often than he declared it; the Continental System and 1812 Russia campaign (typhus + route choices) were decisive self-inflicted wounds.
+
 ## Related
 
 - [[french-revolution-1789]] — which he ended and institutionalized; [[napoleonic-wars]] — his wars.
 - [[balance-of-power]] — which his bid for hegemony shattered and the 1815 settlement restored; [[nationalism]] — the reaction he provoked.
-- [[age-of-expansion]] · [[long-19th-century]] — the periods; [[cambridge-modern-history-v9-napoleon]] — the source.
+- [[age-of-expansion]] · [[long-19th-century]] — the periods.
+- [[sources/cambridge-modern-history-v9-napoleon]] · [[sources/chandler-the-campaigns-of-napoleon-1966]] · [[sources/roberts-napoleon-a-life-2014]] — core sources.
+- [[hubs/biographies/long-19th-century/napoleon|Detailed biography]] (high-resolution analysis of decisions, character, and institutional legacy).
+- [[actors/josephine-de-beauharnais]] — first wife and central personal relationship.

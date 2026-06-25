@@ -13,7 +13,7 @@ outcome: "French decisive dominance (1805–1809) then catastrophic collapse (18
 scale_immediate: civilizational
 scale_consequential: global
 event_page: "[[napoleonic-wars]]"
-key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), chs. 6–9; The Campaigns of Napoleon (Chandler 1966) for operational detail + OOBs + system analysis; Tactics and the Experience of Battle in the Age of Napoleon (Muir 1998) for battalion/regimental tactics...; Napoleon’s Last Victory and the Emergence of Modern War (Epstein 1994) for the 1809 campaign (Wagram as last victory + emergence of modern operational warfare with corps system in full use across theaters); The Art of Warfare in the Age of Napoleon (Rothenberg 1978) for institutional comparison of French and coalition armies, the soldier's trade, tactical synthesis (column/line/skirmisher), staff problems, fortifications and medical services"
+key_sources: "Warfare in the Western World Vol. I (Doughty & Gruber), chs. 6–9; The Campaigns of Napoleon (Chandler 1966) for operational detail + OOBs + system analysis; Tactics and the Experience of Battle in the Age of Napoleon (Muir 1998) for battalion/regimental tactics...; Napoleon’s Last Victory and the Emergence of Modern War (Epstein 1994) for the 1809 campaign (Wagram as last victory + emergence of modern operational warfare with corps system in full use across theaters); The Art of Warfare in the Age of Napoleon (Rothenberg 1978) for institutional comparison of French and coalition armies, the soldier's trade, tactical synthesis (column/line/skirmisher), staff problems, fortifications and medical services; [[sources/chandler-atlas-of-military-strategy-1980|Chandler, Atlas of Military Strategy (1980)]] (campaign maps); [[sources/roberts-napoleon-a-life-2014|Roberts, Napoleon: A Life (2014)]] (character, institutional legacy, correspondence re-evaluation complementing operational studies)"
 last_updated: 2026-06-23
 tags: [warfare, campaign-analysis, long-19th-century, western-europe, eastern-europe, napoleonic-wars]
 ---
@@ -38,10 +38,32 @@ zenith; and then its **limits and collapse**.
 
 - [[hubs/warfare/long-19th-century/napoleonic-wars/battle-of-austerlitz|Austerlitz (1805)]] — the masterpiece; the bait-and-counterstroke on the Pratzen.
 - [[hubs/warfare/long-19th-century/napoleonic-wars/battle-of-jena-auerstedt|Jena–Auerstedt (1806)]] — the annihilation of the Prussian army in a day.
+
+**Cartographic support from Chandler, Atlas of Military Strategy (1980):** Austerlitz campaign (Ulm manoeuvre and decisive battle).
+
+![The Austerlitz Campaign, 1805 (Chandler, p. 106)](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p106-austerlitz-campaign-1805.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]].*
+
+**Cartographic support from Chandler, Atlas of Military Strategy (1980):** French invasion of Russia 1812 and retreat.
+
+![French Invasion of Russia 1812 and retreat (Chandler, p. 124)](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p124-russia-invasion-1812.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]].*
 - [[hubs/warfare/long-19th-century/napoleonic-wars/battle-of-wagram-1809|Wagram (1809)]] — Napoleon's last clear victory; emergence of modern operational warfare (corps system, distributed maneuver, attrition on broad fronts).
 - [[hubs/warfare/long-19th-century/napoleonic-wars/russian-campaign-1812|Russian Campaign / Borodino (1812)]] — the system's culminating point and ruin.
 - [[hubs/warfare/long-19th-century/napoleonic-wars/battle-of-leipzig|Leipzig (1813)]] — coalition mass overwhelms the system.
 - [[hubs/warfare/long-19th-century/napoleonic-wars/battle-of-waterloo|Waterloo (1815)]] — the final defeat.
+
+## Cartographic examples from Chandler Atlas of Military Strategy
+
+![Battle of Marengo 1800](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p100-marengo-1800.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]]*
+
+![French Invasion of Russia 1812](assets/atlases/chandler-atlas-of-military-strategy-1980/chandler-strategy-p124-russia-invasion-1812.png)
+
+*Map from [[sources/chandler-atlas-of-military-strategy-1980]]*
 
 ## Related
 
