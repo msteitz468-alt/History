@@ -1,5 +1,9 @@
 # World History Wiki — Master Catalog
 
+**New (2026-06-25 ingest-complete):** Robert A. Caro, *The Years of Lyndon Johnson, Vol. 2: Means of Ascent* (1990) — Deployed Subagent Strategy (main-thread scaffold + 9 staggered ranges + full integration). All ranges (01–09) integrated. Source page with full Section Plan + 9 Primary Claims blocks + Volume Synthesis. Detailed bio (hubs/biographies/world-wars-era/johnson-lyndon-baines) expanded with 1941–48 phases (Navy/marking time, KTBC, first primary, Box 13 fraud mechanics, legal battle, resolution), Signature Decisions table, Methods/Character/Historiography with verbatim Caro quotes + primary texture (e.g., Salas 765→967 admission + perjury, 87-vote legend/"Landslide Lyndon," "It wasn't eighty-seven... but thousands," "the two threads... bright one is missing," "Lyndon was put in the United States Senate with a stolen election," "I would not want to be the junior Senator to Lyndon Johnson," Caro's research method, "morality of the ballot box" as study). Summary actor updated. Biographies-hub updated. 0 broken links. Source + epub filed to raw/4. Modern Times/. Co-Authored-By: Grok 4.3 (xAI) + main-thread reconciliation.
+
+Vol. 1 previously completed.
+
 **New (2026-06-25 full ingest):** Robert A. Caro, *The Years of Lyndon Johnson, Vol. 1: The Path to Power* (1982) — complete Deployed Subagent Strategy (6 ranges on 15k-line source; main-thread scaffold first with source page + Section Plan + established names; staggered subagents + caches). 
 
 Created: [[sources/caro-years-of-lyndon-johnson-vol1-1982]] (full claims blocks for all ranges + Volume Synthesis), [[actors/johnson-lyndon-baines]] (summary actor), [[hubs/biographies/world-wars-era/johnson-lyndon-baines]] (detailed Biography Hub page, template-grade, 2500–5000+ words, decisions matrix, verbatim quotes, reciprocal links), updated [[hubs/biographies/biographies-hub]].

@@ -1,3 +1,47 @@
+## 2026-06-25 ingest launched + partial integration | Robert A. Caro, *The Years of Lyndon Johnson, Vol. 2: Means of Ascent* (1990) | World Wars Era | north-america | Deployed Subagent Strategy. 
+
+Main-thread scaffold: new source page [[sources/caro-years-of-lyndon-johnson-vol2-1990]] with Section Plan + established names; updated [[actors/johnson-lyndon-baines]] (key events to 1948, KTBC, Box 13); created [[actors/stevenson-coke]] stub; expanded [[hubs/biographies/world-wars-era/johnson-lyndon-baines]] (new phases for 1941–48 Navy/Lady Bird business + full 1948 campaign structure, added Signature Decisions rows for theft and leverage, updated style/methods with "Ends and Means" framing, reciprocal links).
+
+9 disjoint weighted ranges created in /tmp/caro_lbj_v2_cache/ (heavily weighted to dense Part II 1948 campaign and Box 13). 9 subagents launched in staggered batches of 2 (35–45s spacing). Exclusive cache reads only + established names only.
+
+Ranges 01–06 + 08–09 results received and integrated: Navy/"marking time"; Lady Bird office takeover/KTBC; Coke Stevenson bio (road-building, ethics, literalism, surplus, folk-hero status); Valley head start (98–99% Parr margins); helicopter "Flying Windmill"; kidney stone crisis/near-withdrawal; first primary (Stevenson 40%, Johnson 34%, 854-vote lead; Cowboy Reunion contrast; poll stall → desperation; massive cash); Taft-Hartley smear; "Pappy's Speech" deal; Lady Bird campaigning; extreme pace/outbursts; Box 13 mechanics (7-to-9 loop, 200 blue-ink alpha names after last actual voter/Soliz, dead/absent, 99.6% Duval); injunction; 29-28 Exec Comm (Brown leverage, Connally bathroom); convention deal; Hamer confrontation; shifting explanations; federal court; systemic "hundreds of Box 13s"; Johnson's knowledge + post-seating boasting/"Landslide Lyndon"; Smith "stolen election... everybody knew it"; poll lists never produced; Stevenson's post-defeat ranch happiness + explicit refusal to run against Johnson; Caro's research vindication (leases legitimate; allegations unsubstantiated gossip; genuine popularity; historically unique/exceptional); closing thematic summaries (power for its own sake, avoidance of stands on issues, New vs Old campaign, "morality of the ballot box" study with national attention, heavy contractor/oil/labor/reactionary money, media manipulation/rumors, Caro's Hill Country + Johnson Library + new-interview research method, decision to run with health issues and "no effort spared"); resolution details (Salas admission of 765→967 change + perjury confession, 87-vote legend/"Landslide Lyndon" origins and LBJ's complex use of the nickname, 1977 national publicity of Salas interview, Supreme Court refusal to reconsider stay + rumors dying with Democratic control, swearing-in anecdote with "winked; three rings," Stevenson's retirement ranch life with modest documented oil income and self-reliant habits such as building his own garage at 71 and installing a phone only after decades without one). Source Primary Claims blocks + detailed bio (phases, Signature Decisions, Methods/Character/Historiography with verbatim quotes) enriched. 0 broken links.
+
+**ingest-complete** | All ranges (01–09) integrated (Range 07 added: Stevenson legend/campaign style, KTBC details, will/illness, helicopter innovation, attack/imitation, Parr machine, fraud details, Lady Bird role, networks, integrity contrast, legal "qualities of leadership," 1942–48 arc). Full reconciliation/dedupe/cross-links done. Source + epub filed to raw/4. Modern Times/. Bookkeeping updated. 0 broken links. Commit/push per standing rule.
+
+## 2026-06-25 ingest-complete | Robert A. Caro, *The Years of Lyndon Johnson, Vol. 2: Means of Ascent* (1990) | World Wars Era | north-america | Deployed Subagent Strategy (main-thread scaffold + 9 staggered ranges + full integration).
+
+Main-thread scaffold: source page with Section Plan (Intro + Parts I/II, "Ends and Means" + 1948 campaign focus); established names on disk (including stevenson-coke); updated LBJ actor + detailed bio stub; new Stevenson actor stub.
+
+9 disjoint weighted ranges on ~38k-line source (caches in /tmp/caro_lbj_v2_cache/; staggered batches of 2 + 35–45s sleeps). Subagents read *only* assigned cache + used exclusively pre-established names. Delivered dense, quote-heavy claims covering:
+
+- Formation/character (power for its own sake, avoidance of stands, war contradictions/exaggerations).
+
+- "Marking time" 1941–47 (Navy "service," House inactivity, lost fundraising power, postwar depression/health, "Too slow").
+
+- KTBC business (Lady Bird purchase via Wirtz, rapid FCC/CBS approvals via networks, political advertisers/revenue explosion, Johnson's denials).
+
+- 1948 campaign (helicopter "Flying Windmill" innovation/logistics, polling/radio, massive spending, "Pappy's Speech" deal, attack/imitation style, extreme pace/outbursts/will despite illness, Parr machine head start/"Concentrate... elect Johnson," first primary results + poll stall + Cowboy Reunion contrast + desperation).
+
+- Box 13 fraud mechanics (late Duval returns, Jim Wells 765→965/200 added names in different ink/handwriting/alpha order after last actual voter/Soliz, 99.6% turnout, dead/absent "voters," 7-to-9 loop on tally).
+
+- Legal battle (injunction blocking recertification, 29-28 Exec Comm with Brown & Root leverage/Connally bathroom incident, convention Loyalist deal, Hamer confrontation, federal court pursuit, SCOTUS refusal to reconsider stay, rumors dying with Dem control).
+
+- Resolution/transition (Salas admission/perjury confession of 200-vote addition, 87-vote legend/"Landslide Lyndon" origins + LBJ's complex use/dislike, 1977 national publicity, swearing-in Jan 4 1949 with "winked; three rings" anecdote).
+
+- Closing themes/synthesis ("morality of the ballot box" as study with national attention; New vs. Old juxtaposition; heavy contractor/oil/labor/reactionary money; media manipulation/rumors; Caro's research method [Hill Country/D.C. move, Johnson Library years, many first-time interviews]; Stevenson's legend/integrity/record vs. LBJ methods; post-defeat ranch life/happiness/"Teeney"/modest oil income/self-reliant habits/refusal to run against Johnson; overall arc of boundary-pushing ascent).
+
+Main reconciliation: deduped (disjoint ranges), integrated all claims into source (9 Primary Claims blocks) + detailed bio (Formation through 1948, Signature Decisions table expanded, Methods/Character/Historiography with verbatim texture, reciprocal links). Updated summary actor (Key Developments, Significance, Related with reciprocals). Updated source frontmatter + Volume Synthesis. 0 broken links. Lint-style checks passed (links only to established names; template compliance).
+
+Bookkeeping: index.md + log.md appended with detailed entry; source + epub filed to raw/4. Modern Times/; biographies-hub updated. 
+
+**Pages created/updated:** source (full claims + synthesis), detailed bio (multi-volume, template-grade, ~2500–5000+ words per phase, decisions matrix, verbatim quotes + primary texture, reciprocal links), summary actor, biographies-hub, supporting stubs/cross-refs.
+
+**Collection contribution:** Completes the high-detail Biography Hub treatment for LBJ's rise through the 1948 theft (the "means of ascent"). Core Caro themes ("two threads," New vs. Old, "Ends and Means"/"morality of the ballot box") dramatized with West Point-grade decision mechanics, OOB-style fraud evidence, primary quotes, and counterfactuals. Later admissions (Salas) and Caro's sourcing confirm the mechanics and the legend Johnson displaced. Later volumes will extend the detailed page.
+
+Source filed to raw/4. Modern Times/ (caro-years-of-lyndon-johnson-vol2-1990.md + original epub). Co-Authored-By: Grok 4.3 (xAI) + main-thread reconciliation.
+
+Co-Authored-By: Grok 4.3 (xAI) — scaffold + integration.
+
 ## 2026-06-25 ingest-complete | Robert A. Caro, *The Years of Lyndon Johnson, Vol. 1: The Path to Power* (1982) | World Wars Era / Long 19th Century | north-america | Deployed Subagent Strategy (DEFAULT per CLAUDE.md + new Biography Hub protocol). 
 
 Main-thread scaffold first (Step 1): source page [[sources/caro-years-of-lyndon-johnson-vol1-1982]] written with full Section Plan (Intro + 6 Parts), reliability notes, established page names/taxonomy. Pre-created summary actor [[actors/johnson-lyndon-baines]], detailed [[hubs/biographies/world-wars-era/johnson-lyndon-baines]] (locked biography template), updated [[hubs/biographies/biographies-hub]], cross-linked stubs for Rayburn / Lady Bird / Texas Hill Country. All names on disk before any agents.
