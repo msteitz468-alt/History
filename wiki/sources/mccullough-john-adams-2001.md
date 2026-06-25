@@ -93,4 +93,6 @@ All new wiki content follows CLAUDE.md exactly.
 
 **Source page finalization:** 6+ pages created/updated. All links reconciled (0 broken anticipated). Claims deduped across ranges. No artifacts.
 
+**Range 03 addition (final subagent):** End of first French commission (Congress names Franklin sole minister Sept 1778; Adams neglected, feels insulted); return home Aug 1779; drafts Massachusetts Constitution 1779 (Preamble, Rights, education/virtue clause, separation of powers; enduring document); re-appointment as peace minister 1779; second voyage (Sensible, Spain diversion, overland to Paris Feb 1780); Vergennes secrecy demands and currency clash; Franklin’s critical letter to Congress; Holland “militia diplomacy” (recognition 1782, loan, treaty); Paris peace talks (harmony); preliminary treaty Nov 1782 (fisheries); definitive 1783; Abigail joins 1784. Integrated into actor summary, detailed bio phases/decisions, and this synthesis.
+
 All per CLAUDE.md. Co-Authored-By: Grok 4.3 (xAI) + subagent extraction (main-thread control).
