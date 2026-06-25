@@ -168,3 +168,8 @@ lives solely in [[log|log.md]], the canonical append-only record of all ingests 
 
 - **2026-06-25**: Kershaw, *Hitler 1936–1945: Nemesis* (2000) — continuation of Hubris; detailed bio phases for 1936–45 (war, Holocaust, defeat, nemesis); events for Anschluss/Kristallnacht/Czech/Poland occupation/bunker etc. 'Working towards the Führer' in wartime. See [[sources/kershaw-hitler-nemesis-2000]] + enriched [[hubs/biographies/world-wars-era/adolf-hitler]] and [[actors/adolf-hitler]]. 10 subagent ranges.
 
+
+
+## Recent Ingests
+
+- **2026-06-25**: Seifer, *Wizard: The Life and Times of Nikola Tesla* (1996) — archival biography of Nikola Tesla; anchor source for AC power, the War of the Currents, and the electrification of the modern world. Detailed biography + 4 patron/rival actors, 5 concepts (AC, rotating magnetic field, induction motor, wireless power, death ray), 3 places (Wardenclyffe, Colorado Springs, Niagara), 3 processes (war-of-the-currents, electrification, development-of-radio), 3 events (Columbian Exposition 1893, Niagara power 1895, Marconi priority dispute 1943). 21 pages created; 7 subagent ranges; 0 broken links. See [[sources/seifer-wizard-tesla-1996]] and [[hubs/biographies/long-19th-century/tesla-nikola]] (summary [[actors/tesla-nikola]]).
