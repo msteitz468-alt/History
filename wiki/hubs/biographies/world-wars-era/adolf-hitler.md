@@ -350,4 +350,4 @@ Kershaw's method reaches culmination: the 'working towards the Führer' dynamic 
 
 **Reciprocal link from [[actors/adolf-hitler]].** Follows the biography analysis template.
 
-See also dedicated event page [[events/july-plot-1944|July Plot (20 July 1944)]] for the assassination attempt and purge response (detailed in Range 05 extraction). See [[events/hitler-suicide-1945|Hitler Suicide (30 April 1945)]] for the bunker death, marriage, testaments, cremation, and immediate succession mechanics (Range 07 extraction).
+See also dedicated event page [[events/july-plot-1944|July Plot (20 July 1944)]] for the assassination attempt and purge response (detailed in Range 05 extraction). See [[events/hitler-suicide-1945|Hitler Suicide (30 April 1945)]] for the bunker death, marriage, testaments, cremation, and immediate succession mechanics (Range 07 extraction). See [[events/operation-barbarossa-1941]] for the 1940–41 decision mechanics, 'war of annihilation' orders, Einsatzgruppen launch, and 1941 Holocaust turn (Range 03 extraction).
