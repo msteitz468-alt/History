@@ -24,6 +24,8 @@
 
 **New (2026-06-26 range integrate):** Grant Range 03 (Chernow Vicksburg: Holly Springs lesson, battery runs, "I was on dry ground...", siege, verbatim, character, table) integrated. Co-Authored-By: Grok 4.3 (xAI) + subagent.
 
+**New (2026-06-26 range integrate):** Grant Range 04 (Chernow Overland: simultaneous grand strategy "one man directed four armies", Wilderness "no turning back"/catharsis, Spotsylvania, Cold Harbor *Memoirs* regret "not war but murder", James crossing "perilous movement", Petersburg pivot/Beauregard "at the mercy"; 4+ table rows, verbatim on resolve/logistics). Expanded Phases, table, Style, Character, Hist + Range 04 synthesis. Integrated exclusively into [[hubs/biographies/long-19th-century/grant-ulysses-s]]. Co-Authored-By: Grok 4.3 (xAI) + subagent (Grant R04).
+
 **New (2026-06-26 range integrate):** Grant Range 04 (Chernow Overland: simultaneous grand strategy, Wilderness "no turning back"/catharsis, Spotsylvania/ Cold Harbor (Memoirs regret, "butcher"), James crossing/Petersburg pivot, Butler bottled; 4+ table rows, verbatim on "one man directed four armies", resolve). Expanded Phases, table, Style, Character, Hist + Range 04 synthesis. Integrated exclusively into [[hubs/biographies/long-19th-century/grant-ulysses-s]]. Co-Authored-By: Grok 4.3 (xAI) + subagent (Grant R04).
 
 **New (2026-06-26 range integrate):** Vanderbilt Range 05 (Stiles: NY Central takeover, Erie War 1868 mechanics/verbatim "I will not sell the Erie Railroad anything", table, tactics) integrated. Co-Authored-By: Grok 4.3 (xAI) + subagent.
