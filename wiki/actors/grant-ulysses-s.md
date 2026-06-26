@@ -10,7 +10,8 @@ opposed_by: [Confederate States of America, Robert E. Lee, Jefferson Davis, Ku K
 key_events: [Mexican-American War service, Forts Henry and Donelson 1862, Battle of Shiloh 1862, Vicksburg Campaign 1862-1863, Chattanooga Campaign 1863, Overland Campaign 1864, Siege of Petersburg 1864-1865, Appomattox surrender 1865, Presidency 1869-1877, Ku Klux Klan prosecutions, 1875 Civil Rights Act, world tour 1877-1879, Personal Memoirs composition 1884-1885]
 key_processes: [American Civil War, Reconstruction, emancipation and black citizenship, modernization of US military command, rise of the modern presidency]
 sources_ingested: 7
-last_updated: 2026-06-25
+last_updated: 2026-06-26
+reingest_note: "Reingest via Deployed Subagent Strategy (Chernow 2017, 13 ranges) to Biography Hub standards. Detailed bio expanded with full 9 sections, table, verbatim, counterfactuals. Reciprocal link to detailed bio. See detailed bio for full analysis."
 tags: [actor, person, long-19th-century, north-america, ulysses-s-grant, civil-war, reconstruction, presidency, union-general]
 aliases: [Ulysses S. Grant, U.S. Grant, ulysses-s-grant, General Grant]
 aliases: [Ulysses S. Grant, Grant Ulysses S, U.S. Grant, Ulysses Grant, ulysses-s-grant]

@@ -11,7 +11,8 @@ opposed_by: ["Daniel Drew", "Jay Gould", "various competitors"]
 key_events: ["Rise from Staten Island ferryman to steamship operator 1810s–1840s", "Nicaragua steamship route during California Gold Rush", "Civil War shipping and the *Vanderbilt* vessel", "Takeover and consolidation of New York Central Railroad 1860s–1870s", "Death 1877 leaving the largest personal fortune in the United States"]
 key_processes: ["transition from water to rail transport", "creation of the modern American corporation", "Gilded Age competitive business practices"]
 sources_ingested: 1
-last_updated: 2026-06-25
+last_updated: 2026-06-26
+reingest_note: "Reingest via Deployed Subagent Strategy (Stiles 2009, 8 ranges) to Biography Hub standards. Detailed bio expanded with full 9 sections, table, verbatim, counterfactuals. Reciprocal link to detailed bio. See detailed bio for full analysis."
 tags: [actor, person, long-19th-century, north-america, railroad, steamship, tycoon, gilded-age]
 ---
 
