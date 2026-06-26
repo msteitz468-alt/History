@@ -14,7 +14,7 @@ casualties_b: [NVA/VC estimates 500k–1M+ military; civilian toll in millions a
 scale_immediate: regional
 scale_consequential: global
 event_page: [[events/vietnam-war]]
-key_sources: [[sources/summers-on-strategy-1982]], [[sources/krepinevich-the-army-and-vietnam-1986]], [[sources/nagl-learning-to-eat-soup-with-a-knife-2005]], [[sources/daddis-westmorelands-war-2014]], [[sources/willbanks-vietnam-the-course-of-a-conflict-2018]], [[sources/wawro-the-vietnam-war-a-military-history-2024]], [[sources/heuser-evolution-of-strategy-2010]]
+key_sources: [[sources/summers-on-strategy-1982]], [[sources/krepinevich-the-army-and-vietnam-1986]], [[sources/nagl-learning-to-eat-soup-with-a-knife-2005]], [[sources/daddis-westmorelands-war-2014]], [[sources/willbanks-vietnam-the-course-of-a-conflict-2018]], [[sources/wawro-the-vietnam-war-a-military-history-2024]], [[sources/halberstam-the-best-and-the-brightest-1972]], [[sources/heuser-evolution-of-strategy-2010]]
 last_updated: 2026-06-25
 tags: [hub, warfare, cold-war, vietnam-war, strategy]
 # Range 04 (Summers Ch. 15, Epilogue, Appendix) added: coalition warfare overinvolvement/dependence, Epilogue lessons (principles as interrogatories, battle-ax, victory definition, public honesty, mission analysis), verbatim principle framework from Appendix, biographical note, quintessence lesson. Prioritized Epilogue synthesis + cross to source Range 04 block.
@@ -506,4 +506,42 @@ Wawro (*The Vietnam War: A Military History*, 2024) provides a recent, detailed 
 See dedicated hub analyses: [[hubs/warfare/cold-war/vietnam-war/battle-of-ia-drang-1965]], [[hubs/warfare/cold-war/vietnam-war/battle-of-khe-sanh-1968]], [[hubs/warfare/cold-war/vietnam-war/battle-of-hamburger-hill-1969]] (OOB tables, phases, 9 principles, modern parallels per template). Cross [[sources/wawro-the-vietnam-war-a-military-history-2024]] (Range extraction blocks to follow subagent runs). Enriches [[events/vietnam-war]], [[events/battle-of-ia-drang-1965]], [[events/battle-of-khe-sanh-1968]], [[events/battle-of-hamburger-hill-1969]].
 
 Initial scaffolding complete. Full verbatim claims and reconciliation pending main-thread review of subagent ranges. Complements prior Summers (strategic), Daddis (Westmoreland reassessment), Willbanks (operational cases).
+
+## Halberstam: The Best and the Brightest (1972) — Political Decision-Making and Elite Hubris
+
+Halberstam's classic provides the essential political and human context for the escalation decisions that the military sources analyze in execution. It is the primary source for understanding why the "best and brightest" (McNamara, Bundy, Rusk, Rostow, Taylor, LBJ) chose incremental Americanization despite mounting evidence of mismatch between means and ends.
+
+Key themes (verbatim blocks from subagent ranges now populated in source page):
+- Team brilliance vs. wisdom: Rayburn sheriff quote; McNamara as "hardware man" with "great hunger for facts"; Bundy "traffic cop" with "relentless instinct for power"; "You can’t beat brains."
+- 1961 premises and Taylor-Rostow mission (crucial turning point; "loaded the dice"); Rostow airpower faith and modernization; core premises (prove toughness first; political problems from right/center).
+- Illusion of control and option closure since 1946; McCarthyism destroyed expertise; decisions driven by domestic political fears ("looking weak").
+- Buddhist crisis → Diem coup (US non-thwart policy, Aug 24 cable, Lodge/Conein); LBJ immediate hardening ("I am not going to lose Vietnam").
+- Tonkin (34A raids + Maddox patrol; Aug 4 evidence weak; resolution as political tool); McNamara statistics vs. reality; Harkins extreme optimism.
+- 1964–65 escalation by stealth/salami-slicing: troops beget troops; Taylor initially opposed; enclave → search-and-destroy by default; no clear mission/definition; Clifford warned of "catastrophe."
+- War games showed Hanoi resilience ("little effect"; elephant vs. gnat); Ball dissent ("option to the other side"; tiger’s back); principals could not resign/cut losses ("too much invested").
+- McNamara private doubts vs. public advocacy; split personality; later favored halts but offered surrender terms.
+- Loss of civilian control by late 1965 (reins to Hanoi and Westmoreland); attrition/search-and-destroy "almost blind decision."
+- Johnson changed as things went badly (sulked, inaccessible to pessimists, critics as enemies, reality gap); Rostow isolated him further ("Rasputin to a tsar under siege").
+- Rusk: rock of sincerity, waited for military victory signals only.
+- Tet 1968 destroyed attrition credibility and Westmoreland’s (thus Johnson’s); enemy resilience visible on TV.
+- Synthesis: hubris of the "best and brightest"; unwilling to learn from past; manipulated public/Congress/press; blamed democratic symbols when predictions failed. "They had more confidence than vision, and that failing bred in them a fateful hubris."
+
+See [[sources/halberstam-the-best-and-the-brightest-1972]] (full 9 Range Extraction Blocks + verbatim). Enriches hub on civilian dominance, limited war, principles of war at strategic level (Objective undefined; Unity fractured; Mass/Economy violated by open-ended increments). Updates [[events/vietnam-war]], [[actors/mcnamara-robert]], [[actors/johnson-lyndon-baines]], [[actors/kennedy-john-f]], [[actors/westmoreland-william]]. Cross Summers (friction/bureaucracy), Daddis (McNamara metrics), Willbanks/Wawro (operational consequences).
+
+All claims from exclusive subagent ranges. 0 artifacts.
+
+## Halberstam: The Best and the Brightest (1972) — Political Decision-Making and Elite Hubris
+
+Halberstam's classic provides the essential political and human context for the escalation decisions that the military sources analyze in execution. It is the primary source for understanding why the "best and brightest" (McNamara, Bundy, Rusk, Rostow, Taylor, LBJ) chose incremental Americanization despite mounting evidence of mismatch between means and ends.
+
+Key themes for the hub (to be expanded with subagent blocks):
+- The backgrounds and temperaments of the civilian leaders and how they produced overconfidence in "management" of the war.
+- The culture of no dissent, fear of looking weak, and misapplication of systems analysis/PPBS to a revolutionary war.
+- Specific turning points: 1961 advisory expansion, Ap Bac and reporting suppression, Tonkin Gulf, Rolling Thunder, the 1965 troop decisions.
+- LBJ's domestic political trap (Great Society vs. war) and the absence of honest strategy discussion.
+- Growing disillusion as the assumptions (limited war, will to win in Saigon, rational enemy) collapsed.
+
+See [[sources/halberstam-the-best-and-the-brightest-1972]] (Range blocks post-subagents) and [[actors/halberstam-david]]. Enriches strategic context sections on civilian dominance (cross Summers friction/bureaucracy and Daddis on McNamara metrics). Updates [[events/vietnam-war]] political origins and [[actors/mcnamara-robert]] etc.
+
+Scaffolded. Full extraction pending agent runs.
 
