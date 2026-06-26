@@ -10,7 +10,7 @@ affiliated_with: [jefferson-martha-wayles, madison-james, monroe-james, washingt
 opposed_by: [hamilton-alexander, adams-john]
 key_events: [declaration-of-independence-1776, virginia-statute-for-religious-freedom, louisiana-purchase-1803, embargo-1807, university-of-virginia-founding, french-revolution-observations-1789, bank-bill-opposition-1791, first-party-system-formation]
 key_processes: [american-revolution, founding-of-republic, expansion-of-republic, separation-of-church-and-state, westward-expansion]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-25
 tags: [actor, person, age-of-expansion, long-19th-century, north-america, founding-father, president, virginia, enlightenment, architect, author-of-declaration]
 ---
@@ -57,8 +57,9 @@ Collection note: Excellent coverage of the founding era via multiple biographica
 
 ## Sources
 
-- [[sources/malone-jefferson-the-virginian-1948|Malone, *Jefferson the Virginian* (1948)]] (primary source for this page and the detailed biography)
+- [[sources/malone-jefferson-the-virginian-1948|Malone, *Jefferson the Virginian* (1948)]]
+- [[sources/malone-jefferson-and-the-rights-of-man-1951|Malone, *Jefferson and the Rights of Man* (1951)]]
+- [[sources/malone-jefferson-and-the-ordeal-of-liberty-1962|Malone, *Jefferson and the Ordeal of Liberty* (1962)]] (primary source for this phase)
 - Jefferson Papers (Princeton ed.)
 - *Notes on the State of Virginia*
-- Malone's later volumes in the series
 - McCullough, *John Adams*; Chernow, *Washington* and *Hamilton*; Ellis, *American Sphinx*; Gordon-Reed, *The Hemingses of Monticello*
