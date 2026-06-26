@@ -11,7 +11,7 @@ key_events: [Mexican-American War service, Forts Henry and Donelson 1862, Battle
 key_processes: [American Civil War, Reconstruction, emancipation and black citizenship, modernization of US military command, rise of the modern presidency]
 sources_ingested: 7
 last_updated: 2026-06-26
-reingest_note: "Reingest via Deployed Subagent Strategy (Chernow 2017, 13 ranges) to Biography Hub standards. Detailed bio expanded with full 9 sections, table, verbatim, counterfactuals. Ranges 02 (early war), 03 (Vicksburg) integrated. Reciprocal link to detailed bio. See detailed bio for full analysis."
+reingest_note: "Reingest via Deployed Subagent Strategy (Chernow 2017, 13 ranges) to Biography Hub standards. Detailed bio expanded with full 9 sections, Signature table + counterfactuals, verbatim Memoirs/Papers + bias. All 13 ranges integrated (R01-02 early life/Civil War Belmont-Donelson-Shiloh; R03 Vicksburg; R04 Overland simultaneous/Wilderness/Cold Harbor/James/Petersburg; R05-13 later war/presidency/Reconstruction/Memoirs/world tour/cancer/death/legacy). Reciprocal link. See detailed bio reingest_note for per-range. 0 new broken links. Co-Authored-By: Grok 4.3 (xAI) + subagents."
 tags: [actor, person, long-19th-century, north-america, ulysses-s-grant, civil-war, reconstruction, presidency, union-general]
 aliases: [Ulysses S. Grant, U.S. Grant, ulysses-s-grant, General Grant]
 aliases: [Ulysses S. Grant, Grant Ulysses S, U.S. Grant, Ulysses Grant, ulysses-s-grant]
