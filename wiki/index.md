@@ -1,3 +1,7 @@
+**New (2026-06-26 range integrate):** Peter Range 01 (Massie early life/ambitions/Azov) + Range 02 (Grand Embassy/Westernization seeds) + Range 07 (admin/consolidation/succession) integrated exclusively into [[hubs/biographies/age-of-expansion/peter-the-great]]. Co-Authored-By: Grok 4.3 (xAI) + subagents (Peter R01/R02/R07).
+
+**New (2026-06-26 range integrate):** Vanderbilt Range 01 + Range 06/07 (Stiles: early/ mid-late empire phases, final mechanics) integrated (full batch synthesis). Co-Authored-By: Grok 4.3 (xAI) + subagents.
+
 **New (2026-06-26 range integrate):** Musk Range 01 (Isaacson: early life SA veldskool "Lord of the Flies"/bullying/pain survival "punch hard in the nose", dog incident, Errol torture, Zip2/Justine, Canada/US escape, Penn/Stanford; Formation + table + Character verbatim) integrated exclusively into [[hubs/biographies/contemporary/musk-elon]]. Co-Authored-By: Grok 4.3 (xAI) + subagent (Musk R01).
 
 **New (2026-06-26 range integrate):** Musk Range 02 (Isaacson: X.com/PayPal, early SpaceX/Tesla founding, Merlin test cognac, "Improvise"/epoxy gamble (ruined boots, "He’s the boss"), "blow things up", cow cam, Gwynne Shotwell, Mars intensity; Rise + 2 table rows + verbatim) from range_02. Integrated exclusively into [[hubs/biographies/contemporary/musk-elon]]. Co-Authored-By: Grok 4.3 (xAI) + subagent (Musk R02).

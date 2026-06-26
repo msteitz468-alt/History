@@ -145,6 +145,6 @@ Conflicting accounts on exact sortie rates, loss attributions (AA vs. fighters v
 - War & campaign: [[hubs/warfare/world-wars-era/second-world-war/second-world-war]] · [[events/world-war-ii-1939-1945]] · [[events/battle-of-britain-1940]]
 - Preceding: [[hubs/warfare/world-wars-era/second-world-war/fall-of-france-1940|Fall of France — Tactical Analysis]] (Dunkirk context)
 - Next: [[operation-barbarossa-1941]] (in hub planning)
-- Commanders/actors: [[hugh-dowding]], [[winston-churchill]], [[hermann-goring]], [[adolf-hitler]]; key units (Fighter Command, Luftwaffe air fleets)
+- Commanders/actors: [[dowding-hugh]], [[churchill-winston]], [[goring-hermann]], [[actors/adolf-hitler|Adolf Hitler]]; key units (Fighter Command, Luftwaffe air fleets)
 - Comparable: Later air campaigns (e.g., strategic bombing of Germany, Pacific carrier battles); prewar air power theory vs. reality.
 - Broader processes: [[total-war-economy]], air power development.

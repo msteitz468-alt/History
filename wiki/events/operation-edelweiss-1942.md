@@ -7,12 +7,12 @@ dating_method:
 period: ["world-wars-era"]
 region: ["eastern-europe"]
 location: ["Caucasus Mountains", "Maikop", "Novorossiisk", "Terek River", "Ordzhonikidze / Vladikavkaz", "Grozny oil fields", "Kuban River"]
-actors_primary: ["[[actors/list-wilhelm]] (Army Group A)", "[[actors/kleist-ewald]] (1st Panzer Army)", "[[actors/hitler-adolf]] (Directive 45, personal command)", "[[actors/mackensen-eberhard]] (III Panzer Corps)", "17th Army (Ruoff)"]
+actors_primary: ["[[actors/list-wilhelm]] (Army Group A)", "[[actors/kleist-ewald]] (1st Panzer Army)", "[[adolf-hitler]] (Directive 45, personal command)", "[[actors/mackensen-eberhard]] (III Panzer Corps)", "17th Army (Ruoff)"]
 actors_secondary: ["1st Panzer Army (Kleist: III Panzer Corps Mackensen with 13th/23rd Panzer, 16th Motorized, Grossdeutschland initially)", "XXXXIX Mountain Corps", "V Corps", "Romanian forces (3rd Army, cavalry corps)", "Soviet Transcaucasus Front (Tyulenev: 47th/56th/18th/46th/37th/9th/44th/58th Armies)"]
 event_type: campaign
 scale_immediate: civilizational
 scale_consequential: civilizational
-causes: ["caused_by: [[actors/hitler-adolf]] Directive 45 (July 23, 1942) splitting resources between Caucasus oil and Stalingrad", "contributed_to: rapid initial 'great lunge' after Rostov due to Soviet flight and prior momentum from Operation Blue", "preceded_by: failure to achieve full prerequisites of original Blue (destruction west of Don and Volga blocking position)"]
+causes: ["caused_by: [[adolf-hitler]] Directive 45 (July 23, 1942) splitting resources between Caucasus oil and Stalingrad", "contributed_to: rapid initial 'great lunge' after Rostov due to Soviet flight and prior momentum from Operation Blue", "preceded_by: failure to achieve full prerequisites of original Blue (destruction west of Don and Volga blocking position)"]
 consequences: ["produced: seizure of Maikop (only original strategic objective achieved, but thoroughly demolished by Soviets)", "produced: halt in mountains; shift to Stellungskrieg; reduction of Army Group A to shadow of planned strength", "enabled: Soviet recovery and concentration of eight armies against two German armies", "part_of: [[hubs/warfare/world-wars-era/second-world-war/second-world-war]]", "followed_by: failure to reach Grozny or Baku; end of 1942 Caucasus campaign within 2 km of Ordzhonikidze"]
 sources_ingested: 1
 last_updated: 2026-06-24

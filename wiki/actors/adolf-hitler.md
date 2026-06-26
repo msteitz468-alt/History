@@ -19,4 +19,4 @@ aliases: [Hitler Adolf, Der Führer]
 
 Austrian-born German politician who led the Nazi Party and became Chancellor (1933) then Führer of Germany. Architect of the Third Reich, aggressive expansion leading to World War II, and the Holocaust. His decisions drove German strategy from early victories (Blitzkrieg, 1939-1941) to catastrophic overreach (Barbarossa, Stalingrad, Ardennes). Committed suicide in Berlin as the war ended.
 
-See: [[world-war-ii-1939-1945]], [[nazi-germany]], [[holocaust]].
+See: [[world-war-ii-1939-1945]], [[nazi-germany]], [[the-holocaust]].

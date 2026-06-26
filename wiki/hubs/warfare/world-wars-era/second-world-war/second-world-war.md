@@ -96,6 +96,15 @@ Additional final push:
 - **Barbarossa and Eastern Front 1941–1945**: German invasion of USSR through Soviet strategic offensives (Megargee + Glantz/House). See dedicated analysis [[hubs/warfare/world-wars-era/second-world-war/operation-barbarossa-1941]] and Glantz/House operational synthesis (three periods, Red Army adaptation, maskirovka, force data).
 - **Pacific to Midway (1941-1942)**: Pearl Harbor, Japanese expansion (Malaya/Singapore 8 Dec 1941–15 Feb 1942; Philippines; Java/NEI), Coral Sea (May), Midway (June) (Drea). Two full hub analyses now complete from Range 4.
 - **Economies and Peoples at War**: Home fronts, production, resources (Overy).
+
+**From West Point Vol. 1 Range 5 (Overy + Rogers "War at Midpoint") — synthesis for the hub:**
+- US "superabundance": only power supplying guns + butter at scale. GNP +87%; Ford > Italy's total output by 1943; ship production 112 vs Japan 21 (1942), 206 vs 19 (1943). War Production Board coordinated.
+- Lend-Lease: $10.7B USSR (food + trucks/rail critical); Stalin admitted dependence. Britain $30B (protected consumption). "vital."
+- Soviet revival: collapse then "guns over butter"; coercive Gosplan + gulag labor; 1942-45 exceeded German major weapons output despite smaller base.
+- German: pre-Speer inefficiency/confusion; Speer 1942+ rationalization + forced labor reached 1944 peak ("realization of... inefficiently mobilized war potential"). Efficiency gap stark vs Soviet/US.
+- Home fronts: Soviet coercion + patriotism ("Great Patriotic War"); German continued coercion; US/UK moral commitment + fewer sacrifices.
+- Midpoint 1942: Axis tide (Stalingrad/Caucasus, U-boats, early Pacific) but US industrial power + Pearl Harbor (Hitler hoped diverted US) + Churchill "we had won after all" (Allies "twice or thrice" Axis). Key: could UK/USSR hold until US fully mobilized? Roosevelt/Churchill grasped scale; enabled multi-theater (aid, Pacific, bombing, Overlord prep). "three turning points"; midpoint 281-90.
+- Ties directly to operational leaders (prior ranges): production/logistics enabled (or failed to enable) their campaigns. Cross to war-economies-wwii and home-fronts-wwii processes. (Verbatim from Range 5; complements Murray.)
 - **Conclusion at Midpoint**: Situation mid-1942, transition points (Rogers).
 
 (Volume 1 covers up to ~mid-1942; Volume 2 covers 1942 turning points through 1945 victory, occupation, and assessment. Expand with Vol. 2 source.)

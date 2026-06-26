@@ -132,7 +132,7 @@ Index shows Grant centrality ("Grant and" repeated across Vicksburg entries); Mc
 
 ## Related
 
-- Commanders/actors: [[ulysses-s-grant]], [[robert-e-lee]] (broader war context and cross-campaign refs), key subordinates and Confederate defenders.
+- Commanders/actors: [[ulysses-s-grant]], [[actors/robert-e-lee|Robert E. Lee]] (broader war context and cross-campaign refs), key subordinates and Confederate defenders.
 - War & campaign: [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]] · [[events/american-civil-war-1861-1865]]
 - Comparable battles/campaigns: [[hubs/warfare/long-19th-century/american-civil-war/battle-of-gettysburg-1863]] (contemporary Eastern turning point); other Western Theater actions; later sieges in warfare hub.
 - Source: [[sources/rogers-seidule-west-point-history-civil-war-2014]]

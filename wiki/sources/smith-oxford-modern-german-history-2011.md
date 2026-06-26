@@ -75,7 +75,7 @@ pages are scaffolded above; agents link to them.
 [[great-transformation-germany-1850-1914]] · [[kaiserreich-constitutional-system]] · [[wilhelm-ii]] · [[weltpolitik]].
 **D — WWI, Weimar, Nazi economy:** [[november-revolution-1918]] · [[hindenburg-program-1916]] ·
 [[dawes-plan-1924]] · [[german-home-front-ww1]] · [[total-war-germany-1914-1918]] ·
-[[german-war-economy-1914-1945]] · [[weimar-democracy-and-its-collapse]] · [[adolf-hitler]] ·
+[[german-war-economy-1914-1945]] · [[weimar-democracy-and-its-collapse]] · [[actors/adolf-hitler|Adolf Hitler]] ·
 [[gustav-stresemann]] · [[walther-rathenau]] · [[augusterlebnis]].
 **E — Race, culture, Holocaust, migration:** [[religion-in-germany-1870-1945]] · [[german-modernism]] ·
 [[volksgemeinschaft]] · [[todesraum-mass-death-1914-1945]] · [[german-antisemitism]] · [[kristallnacht-1938]] ·

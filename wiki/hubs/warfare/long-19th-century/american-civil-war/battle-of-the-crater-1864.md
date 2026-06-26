@@ -121,6 +121,6 @@ Classic example of a novel tactic (mining) succeeding in creation of a breach bu
 
 ## Related
 
-- Commanders/actors: [[ulysses-s-grant]] · [[george-g-meade]] · [[ambrose-burnside]] · [[robert-e-lee]] · [[p-g-t-beauregard]]
+- Commanders/actors: [[ulysses-s-grant]] · [[george-g-meade]] · [[ambrose-burnside]] · [[actors/robert-e-lee|Robert E. Lee]] · [[p-g-t-beauregard]]
 - War & campaign: [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]] · [[hubs/warfare/long-19th-century/american-civil-war/petersburg-campaign-1864-65]] · [[events/american-civil-war-1861-1865]]
 - Comparable battles: Other mining/siege actions; Overland Campaign assaults

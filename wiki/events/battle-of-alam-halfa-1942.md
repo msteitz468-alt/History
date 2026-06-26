@@ -8,7 +8,7 @@ period: ["world-wars-era"]
 region: ["north-africa"]
 location: ["Alam Halfa ridge", "El Alamein position", "Qattara Depression", "Egypt"]
 actors_primary: ["[[actors/rommel-erwin]] (Panzerarmee Afrika)", "[[actors/montgomery-bernard]] (8th Army)"]
-actors_secondary: ["Afrika Korps (15th and 21st Panzer Divisions)", "90th Light Division", "Italian XX Motorized Corps (Ariete, Littorio)", "8th Army (44th Division, 22nd/8th/23rd Armoured Brigades, 2nd New Zealand Division, 7th Armoured Division)", "[[actors/hitler-adolf]] (strategic pressure)", "[[actors/kesselring-albert]] (Luftwaffe support promise)"]
+actors_secondary: ["Afrika Korps (15th and 21st Panzer Divisions)", "90th Light Division", "Italian XX Motorized Corps (Ariete, Littorio)", "8th Army (44th Division, 22nd/8th/23rd Armoured Brigades, 2nd New Zealand Division, 7th Armoured Division)", "[[adolf-hitler]] (strategic pressure)", "[[actors/kesselring-albert]] (Luftwaffe support promise)"]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational

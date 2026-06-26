@@ -85,7 +85,7 @@ Entry ~Sept 5. Shift to "Rattenkrieg" ("war of the rats"): squads, hand-to-hand,
 
 Personalist blame (Hitler only) "ultimately simplistic." Systemic: "the price of conducting a war with limited resources inside the vast reaches of the Soviet Union." Even Kleist post-war: Stalingrad "subsidiary... no more than a name on the map" initially; could have been taken late July. "Clausewitz was right about one thing: 'War is the realm of uncertainty.'"
 
-**Cross-links from this range:** `concurrent_with:` [[events/first-battle-of-el-alamein-1942]], [[events/battle-of-alam-halfa-1942]], [[events/operation-edelweiss-1942]]; `part_of:` [[hubs/warfare/world-wars-era/second-world-war/second-world-war]]; enriches [[sources/citino-death-of-the-wehrmacht-2007]], [[actors/paulus-friedrich]], [[actors/hitler-adolf]], [[actors/list-wilhelm]], [[concepts/auftragstaktik]] (curtailed by radio/centralization and exhaustion). See new event pages for full halts/approach detail.
+**Cross-links from this range:** `concurrent_with:` [[events/first-battle-of-el-alamein-1942]], [[events/battle-of-alam-halfa-1942]], [[events/operation-edelweiss-1942]]; `part_of:` [[hubs/warfare/world-wars-era/second-world-war/second-world-war]]; enriches [[sources/citino-death-of-the-wehrmacht-2007]], [[actors/paulus-friedrich]], [[adolf-hitler]], [[actors/list-wilhelm]], [[concepts/auftragstaktik]] (curtailed by radio/centralization and exhaustion). See new event pages for full halts/approach detail.
 
 **Note for this hub:** Range 04 covers approach + decision to enter city + early urban (to mid-Nov per text). Full Rattenkrieg and Uranus not in this slice. Parallel "coming to a halt" with North Africa is Citino's explicit framing.
 

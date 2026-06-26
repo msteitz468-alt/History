@@ -123,7 +123,7 @@ The campaign illustrates the challenges of attritional warfare in fortified posi
 
 ## Related
 
-- Commanders/actors: [[ulysses-s-grant]] · [[robert-e-lee]] · [[george-g-meade]] · [[philip-sheridan]] · [[ambrose-burnside]]
+- Commanders/actors: [[ulysses-s-grant]] · [[actors/robert-e-lee|Robert E. Lee]] · [[george-g-meade]] · [[philip-sheridan]] · [[ambrose-burnside]]
 - War & campaign: [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]] · [[events/american-civil-war-1861-1865]]
 - Subsequent: [[hubs/warfare/long-19th-century/american-civil-war/petersburg-campaign-1864-65]] · battle-of-the-crater-1864 · battle-of-spotsylvania-court-house-1864 · battle-of-cold-harbor-1864
 - Comparable: Earlier campaigns by McClellan; Sherman's Atlanta Campaign (coordinated strategy)

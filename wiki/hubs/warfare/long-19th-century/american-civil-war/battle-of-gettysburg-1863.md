@@ -162,7 +162,7 @@ Staff colleges study Gettysburg for reconnaissance, concentration under uncertai
 
 ## Related
 
-- Commanders/actors: [[robert-e-lee]], [[george-g-meade|George G. Meade]]
+- Commanders/actors: [[actors/robert-e-lee|Robert E. Lee]], [[george-g-meade|George G. Meade]]
 - War & campaign: [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]] · [[events/battle-of-gettysburg-1863]]
 - Comparable battles: Antietam, later Overland assaults (source covers).
 - Source: [[sources/rogers-seidule-west-point-history-civil-war-2014]] (Range 2)

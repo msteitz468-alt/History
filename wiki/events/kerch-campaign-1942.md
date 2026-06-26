@@ -99,7 +99,7 @@ Cross-references: [[sources/citino-death-of-the-wehrmacht-2007]], [[hubs/warfare
 
 - [[events/world-war-ii-1939-1945]]
 - [[hubs/warfare/world-wars-era/second-world-war/second-world-war]]
-- [[actors/manstein-erich-von]], [[actors/hitler-adolf]], [[actors/bock-fedor-von]]
+- [[actors/manstein-erich-von]], [[adolf-hitler]], [[actors/bock-fedor-von]]
 - [[concepts/auftragstaktik]]
 - [[sources/citino-death-of-the-wehrmacht-2007]] (Ch. 2 exclusive)
 - Follow-on: [[events/second-battle-of-kharkov-1942]]

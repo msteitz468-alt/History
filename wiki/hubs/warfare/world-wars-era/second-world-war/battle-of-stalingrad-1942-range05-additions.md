@@ -109,7 +109,7 @@ All verbatim quotes and details above are grounded exclusively in the specified 
 - [[concepts/auftragstaktik]]
 - [[actors/paulus-friedrich]] (pedestrian leadership + fatalism/obsequiousness)
 - [[actors/rommel-erwin]] (health, stand-fast shock, self-conception as modern Seydlitz)
-- [[actors/hitler-adolf]] (Haltbefehl, de facto pocket command, firings)
+- [[adolf-hitler]] (Haltbefehl, de facto pocket command, firings)
 - [[hubs/warfare/world-wars-era/second-world-war/second-world-war]]
 - [[periods/world-wars-era]]
 

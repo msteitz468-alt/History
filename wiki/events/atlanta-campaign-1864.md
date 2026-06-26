@@ -7,7 +7,7 @@ period: [long-19th-century]
 region: [north-america]
 location: [Northern Georgia]
 actors_primary: [[william-t-sherman]], [[joseph-e-johnston]], [[john-bell-hood]]
-actors_secondary: [[ulysses-s-grant]]
+actors_secondary: [[grant-ulysses-s]]
 event_type: campaign
 scale_immediate: regional
 scale_consequential: civilizational

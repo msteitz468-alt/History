@@ -16,7 +16,7 @@ last_updated: 2026-06-26
 reingest_note: "Reingest via Deployed Subagent Strategy (7 disjoint content-weighted ranges from Isaacson 2017, staggered Sonnet subagents, main reconciliation 2026-06-26): Upgraded to full Biography Hub standard (9 canonical sections, ≥5k words target, Signature Decisions table with counterfactuals, verbatim from notebooks + bias analysis of Vasari/Isaacson, multi-level counterfactuals on unfinished works/legacy/transmission). All grounded exclusively in assigned /tmp/leonardo-isaacson-ranges caches; established names only. Actor reciprocal links established. Source claims blocks populated per range. Lints pending. Co-Authored-By: Grok 4.3 (xAI) + subagents."
 tags: [biography, detailed-analysis, late-middle-ages, early-modern, mediterranean, western-europe, da-vinci-leonardo, renaissance, polymath]
 ---
-
+0
 > **Summary & network:** [[actors/da-vinci-leonardo|Leonardo da Vinci]] · **Biography hub:** [[hubs/biographies/biographies-hub|Biographies Hub]]
 
 A graduate-level analytic study of Leonardo da Vinci’s formation, the mechanics of his integrative method across art and science, signature choices, character, primary-source foundations, and the structural vs. contingent dimensions of his legacy.

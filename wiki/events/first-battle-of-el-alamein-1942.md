@@ -8,7 +8,7 @@ period: ["world-wars-era"]
 region: ["north-africa"]
 location: ["El Alamein, Egypt", "Ruweisat Ridge", "Qattara Depression"]
 actors_primary: ["[[actors/rommel-erwin]]", "[[actors/auckinleck-claude]] (inferred from command)", "Panzerarmee Afrika (Afrika Korps, 90th Light Division, Italian XX Motorized Corps)"]
-actors_secondary: ["[[actors/hitler-adolf]] (strategic context)", "8th Army (South African, Indian, New Zealand, Australian divisions)", "[[actors/montgomery-bernard]] (succeeded later)"]
+actors_secondary: ["[[adolf-hitler]] (strategic context)", "8th Army (South African, Indian, New Zealand, Australian divisions)", "[[actors/montgomery-bernard]] (succeeded later)"]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational

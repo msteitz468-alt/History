@@ -100,6 +100,6 @@ Piecemeal commitment and coordination failures in wooded terrain highlight endur
 
 ## Related
 
-- Commanders/actors: [[robert-e-lee]] (pre-war context), [[stonewall-jackson]], [[irvin-mcdowell]], [[joseph-e-johnston]], [[p-g-t-beauregard]], [[abraham-lincoln]], [[winfield-scott]]
+- Commanders/actors: [[actors/robert-e-lee|Robert E. Lee]] (pre-war context), [[stonewall-jackson]], [[irvin-mcdowell]], [[joseph-e-johnston]], [[p-g-t-beauregard]], [[abraham-lincoln]], [[winfield-scott]]
 - War & campaign: [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]] · [[events/american-civil-war-1861-1865]] · [[hubs/warfare/warfare-hub]]
 - Comparable battles: Shiloh (coordination failures in woods)

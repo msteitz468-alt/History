@@ -104,7 +104,7 @@ Classic example of the futility of frontal attacks against prepared positions in
 
 ## Related
 
-- Commanders/actors: [[robert-e-lee]], Burnside, [[stonewall-jackson]]
+- Commanders/actors: [[actors/robert-e-lee|Robert E. Lee]], Burnside, [[stonewall-jackson]]
 - War & campaign: [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]] · [[events/battle-of-fredericksburg-1862]]
 - Comparable: later assaults at Cold Harbor, Petersburg Crater (source range covers these too).
 - Source: [[sources/rogers-seidule-west-point-history-civil-war-2014]] (Range 2)

@@ -54,7 +54,7 @@ See the detailed treatment of its Classical peak in [[places/athens-fifth-centur
 
 ## Key Linked Content (from ingested sources)
 
-- Events: [[battle-of-marathon-490bce]], [[battle-of-salamin-480bce]], [[peloponnesian-war-431-404bce]], [[plague-of-athens-430bce]], [[sicilian-expedition-415-413bce]], [[fall-of-athens-404bce]].
+- Events: [[battle-of-marathon-490bce]], [[battle-of-salamis-480bce]], [[peloponnesian-war]], [[plague-of-athens-430bce]], [[sicilian-expedition]], [[fall-of-athens-404bce]].
 - Processes/Concepts: [[athenian-democracy]], [[delian-league]], [[athenian-empire]], [[axial-age]], [[classical-greek-art]], [[periclean-building-program]].
 - Sources: [[sources/kagan-the-peloponnesian-war-2003]], [[sources/hanson-a-war-like-no-other-2005]], [[sources/connolly-greece-and-rome-at-war-1998]], CAH volumes (esp. Vol. V, III.3), [[sources/lewis-cah-v5-1992]].
 - Actors: [[pericles]], [[alcibiades]], [[nicias]], [[themistocles]], [[cleisthenes]], [[ephialtes]], [[socrates]], [[plato]].

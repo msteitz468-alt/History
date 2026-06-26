@@ -1,7 +1,7 @@
 ---
 title: "[Person Name] — Detailed Biography"
 analysis_type: biography
-actor_page: "[[actors/[person-slug]]]"
+actor_page: "[[actors/catherine-the-great]]"  # example; replace with actual actor slug
 period: "[Period name(s) from the CLAUDE.md temporal framework]"
 date_birth: "[YYYY BCE/CE or approximate]"
 date_death: "[YYYY BCE/CE or approximate]"

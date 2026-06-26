@@ -21,6 +21,7 @@ pages_created: 0
 pages_updated: 9
 ingested: 2026-06-22
 tags: [source, primary]
+aliases: [Homer's Odyssey, The Odyssey, homer-odyssey, Odyssey (Lombardo)]
 ---
 
 # Homer, *The Odyssey* (Stanley Lombardo translation)

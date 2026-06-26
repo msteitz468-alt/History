@@ -119,6 +119,6 @@ Classic example of a successful turning movement and flank attack (Longstreet) a
 
 ## Related
 
-- Commanders/actors: [[john-pope]], [[robert-e-lee]], [[thomas-j-jackson]], [[james-longstreet]], [[george-b-mcclellan]]
+- Commanders/actors: [[john-pope]], [[actors/robert-e-lee|Robert E. Lee]], [[thomas-j-jackson]], [[james-longstreet]], [[george-b-mcclellan]]
 - War & campaign: [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]] · [[events/battle-of-second-bull-run-1862]]
 - Comparable battles: First Bull Run, Chancellorsville (flank attacks)

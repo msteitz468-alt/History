@@ -7,7 +7,7 @@ period: [long-19th-century]
 region: [north-america]
 location: [Nashville, Tennessee]
 actors_primary: [[george-h-thomas]], [[john-bell-hood]]
-actors_secondary: [[ulysses-s-grant]]
+actors_secondary: [[grant-ulysses-s]]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational

@@ -7,7 +7,7 @@ period: [world-wars-era, cold-war]
 region: [north-america]
 affiliated_with: [Democratic Party, United States Army (World War I), Jackson County politics (Pendergast organization), U.S. Senate, Presidency of the United States]
 opposed_by: [Republican Party (1946-48), Douglas MacArthur (1951), southern Democrats on civil rights, isolationists]
-key_events: [World War I service in France 1918, haberdashery failure 1922, election to U.S. Senate 1934, Truman Committee on war production, vice presidential nomination 1944, succession to presidency April 1945, atomic bombings of Japan August 1945, 1948 presidential election upset, Berlin Airlift 1948-49, recognition of Israel 1948, Korean War intervention 1950 and firing of MacArthur 1951, retirement 1953]
+key_events: [World War I service in France 1918, haberdashery failure 1922, election to U.S. Senate 1934, Truman Committee on war production, vice presidential nomination 1944 (detailed convention maneuvering to replace Wallace), succession to presidency April 1945, atomic bombings of Japan August 1945, 1948 presidential election upset, Berlin Airlift 1948-49, recognition of Israel 1948, Korean War intervention 1950 and firing of MacArthur 1951, retirement 1953]
 key_processes: [end of World War II, origins of the Cold War, creation of NATO and containment policy, domestic Fair Deal and civil rights initiatives, transition to peacetime economy]
 sources_ingested: 1
 last_updated: 2026-06-25
@@ -17,6 +17,13 @@ tags: [actor, person, world-wars-era, cold-war, north-america, harry-s-truman, p
 # Harry S. Truman
 
 **Summary page.** Full narrative, causes, consequences, and network links live here. See the detailed analytic biography for graduate-level treatment of formation, decision mechanics, primary sources, character, and multi-scale counterfactuals.
+
+## 1944 Vice Presidential Selection and Succession (grounded from Smith, *FDR* 2007 Range 08 endnotes)
+FDR's July 11, 1944 letter to Robert E. Hannegan: effectively opened door to Truman (13 *Public Papers and Addresses* 197–199). Convention maneuvering: Edward J. Flynn (*You’re the Boss* 194–197); James F. Byrnes (*All in One Lifetime* 222); Sam Rosenman (*Working with Roosevelt* 456–459). One New York delegate for Farley. Truman memoirs: *Years of Destiny* 193. McCullough, *Truman* 312, 320. FDR to Rosenman on Byrnes/Wallace: detailed discussions. Immediate succession April 1945 after FDR death at Warm Springs; Truman sworn in same day.
+
+**Grounding (verbatim citations in notes 78–95, 116, 121, 161)**: Flynn account of Hannegan phone call and convention; Rosenman drafting; Leahy on other matters. Links: succeeded [[actors/roosevelt-franklin-d]]; key to [[events/yalta-conference-1945]] transition (Truman inherited Yalta implementation).
+
+See [[events/d-day-1944]], [[sources/smith-fdr-2007]], [[hubs/biographies/world-wars-era/roosevelt-franklin-d]].
 
 > **Detailed biography:** [[hubs/biographies/world-wars-era/truman-harry-s|Harry S. Truman — Detailed Biography (Biography Hub)]]
 

@@ -131,7 +131,7 @@ Trench/stalemate to mobile pursuit transition prefigures modern breakout and exp
 
 ## Related
 
-- Commanders/actors: [[ulysses-s-grant]], [[robert-e-lee]], [[philip-h-sheridan]], [[george-g-meade]]
+- Commanders/actors: [[ulysses-s-grant]], [[actors/robert-e-lee|Robert E. Lee]], [[philip-h-sheridan]], [[george-g-meade]]
 - War & campaign: [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]] · [[events/american-civil-war-1861-1865]]
 - Comparable: Petersburg siege/breakthrough; earlier Overland phases.
 - West Point context: Institutional impact on commanders (many USMA grads on both sides); oath/reputation shift post-1863.

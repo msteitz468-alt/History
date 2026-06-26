@@ -39,7 +39,7 @@ All subagent claims and cross-references must use **only** these pre-established
 
 **Core Actors (persons):**
 - [[stalin-joseph]]
-- [[adolf-hitler]]
+- [[actors/adolf-hitler|Adolf Hitler]]
 - [[molotov-viacheslav]]
 - [[kirov-sergei]]
 - [[yezhov-nikolai]]
@@ -97,13 +97,13 @@ Per-range exclusive claim prefix: WH-##-NN (e.g. WH-01-01). All claims + quotes 
 (Added after subagent extraction and main-thread reconciliation. All claims verbatim-grounded exclusively from the assigned range caches. Full per-range blocks preserved here; deduplicated and cross-linked on affected pages.)
 
 ### WH-01 (Coda / pre-invasion context, June 1941)
-- German forward deployments visible; click of motors across border; barbed wire removed. (Links: [[adolf-hitler]] [[soviet-union]] [[red-army]])
+- German forward deployments visible; click of motors across border; barbed wire removed. (Links: [[actors/adolf-hitler|Adolf Hitler]] [[soviet-union]] [[red-army]])
 - Stalin oversaw massive military buildup (9k+ new enterprises, 125 new divisions since 1939, 5.37M troops, 25k tanks, 18k planes) but many obsolete (T-26/BT light tanks); only ~1,800 modern T-34/KV. “If the subject was cannons—then cannons...” (Molotov). (Links: [[stalin-joseph]] [[molotov-viacheslav]] [[soviet-industrialization]] [[red-army]])
 - Effects of prior officer executions: 85% of officers 35 or under; executions of Blyukher, Tukhachevsky etc. left leadership hollowed. (Links: [[stalin-joseph]] [[tukhachevsky-mikhail]] [[red-army]])
 - Stalin unnerved by reports; face showed stress/fear; clung to belief Germany would not attack before defeating UK; assumed ultimatum + extra weeks mobilization time. (Links: [[stalin-joseph]] [[molotov-viacheslav]] [[beria-lavrentiy]])
 - June 21 evening conference in Little Corner (Molotov, Voroshilov, Beria, Timoshenko, Zhukov etc.); Directive No. 1 issued late: “refrain from any kind of provocative action”; high alert but no combat positions. (Links: [[stalin-joseph]] [[molotov-viacheslav]] [[voroshilov-kliment]] [[beria-lavrentiy]] [[red-army]])
-- Stalin’s policy resembled appeasement in will (not capability): deterrence + accommodation but blinded desire to avoid war. (Links: [[stalin-joseph]] [[adolf-hitler]] [[molotov-ribbentrop-pact-1939]])
-- Hitler’s Directive No. 32 draft (post-Barbarossa) envisioned subdivision of Soviet territories + further global moves. (Links: [[adolf-hitler]] [[soviet-union]])
+- Stalin’s policy resembled appeasement in will (not capability): deterrence + accommodation but blinded desire to avoid war. (Links: [[stalin-joseph]] [[actors/adolf-hitler|Adolf Hitler]] [[molotov-ribbentrop-pact-1939]])
+- Hitler’s Directive No. 32 draft (post-Barbarossa) envisioned subdivision of Soviet territories + further global moves. (Links: [[actors/adolf-hitler|Adolf Hitler]] [[soviet-union]])
 - Sidebar on Soviet administrative structure (party-state dualism, NKVD role, Comintern). (Links: [[stalin-joseph]] [[soviet-union]] [[bolshevik-party]] [[nkvd]] [[comintern]])
 
 ### WH-02 (Collectivization drive, resistance, 1931–33 context, famine signals, Ryutin, Alliluyeva)
@@ -115,19 +115,19 @@ Per-range exclusive claim prefix: WH-##-NN (e.g. WH-01-01). All claims + quotes 
 - August 1932 Law on Theft of Socialist Property (10 years or death). (Links: [[soviet-collectivization]] [[ukraine]])
 - Ryutin Platform (“Stalin and the Crisis of Proletarian Dictatorship,” 167 pp., 1932) calls for Stalin’s removal. (Links: [[stalin-joseph]] [[bolshevik-party]] [[bukharin-nikolai]])
 - Suicide of Nadezhda Alliluyeva (Nov 8-9, 1932) after Kremlin quarrel. (Links: [[stalin-joseph]] [[moscow]])
-- Hitler appointed Chancellor 30 Jan 1933; Soviet hopes for “statists” prevailing. (Links: [[adolf-hitler]] [[soviet-union]] [[molotov-viacheslav]])
+- Hitler appointed Chancellor 30 Jan 1933; Soviet hopes for “statists” prevailing. (Links: [[actors/adolf-hitler|Adolf Hitler]] [[soviet-union]] [[molotov-viacheslav]])
 - Famine, mass flight from Ukraine/North Caucasus/Kazakhstan; Stalin decrees blocking “organized” peasant exodus (Jan 1933). (Links: [[ukraine]] [[soviet-collectivization]] [[holodomor]] [[steppe]])
 
 ### WH-03 (17th Congress, early 1934, Kirov context, cultural, NKVD reorganization, Gorky)
 - 17th Party Congress (1934): statutes change to congress every 3 years; peasant-origin party members rise (later reversed by purge). (Links: [[bolshevik-party]])
 - Post-congress: Bukharin to Izvestiya (Stalin initiative); Zinoviev/Kamenev reinstated. (Links: [[stalin-joseph]] [[bukharin-nikolai]])
-- Germany-Poland non-aggression pact (Jan 1934); Soviet reactions. (Links: [[adolf-hitler]] [[soviet-union]] [[eastern-europe]])
+- Germany-Poland non-aggression pact (Jan 1934); Soviet reactions. (Links: [[actors/adolf-hitler|Adolf Hitler]] [[soviet-union]] [[eastern-europe]])
 - Votes against Stalin at 17th Congress (reports of 25 in one delegation; rumors of approaches to Kirov). (Links: [[stalin-joseph]] [[kirov-sergei]])
 - Secretariat changes: Zhdanov rises; Postyshev to Ukraine; Kaganovich powers. (Links: [[stalin-joseph]] [[kirov-sergei]])
 - Stalin’s office layout and security. (Links: [[stalin-joseph]] [[moscow]])
 - Mandelstam arrest (Stalin: “And who gave them authorization... An outrage”). (Links: [[stalin-joseph]] [[bukharin-nikolai]])
 - Dimitrov arrival, Comintern role, meetings with Stalin. (Links: [[comintern]] [[stalin-joseph]])
-- Hitler Röhm purge (“Sicilian vespers,” June/July 1934). (Links: [[adolf-hitler]])
+- Hitler Röhm purge (“Sicilian vespers,” June/July 1934). (Links: [[actors/adolf-hitler|Adolf Hitler]])
 - OGPU folded into all-Union NKVD (Stalin initiative, Feb 1934). Yagoda/Ezhov context. (Links: [[stalin-joseph]] [[nkvd]] [[yezhov-nikolai]])
 - First Soviet Writers Congress (Aug 1934, Gorky). (Links: [[stalin-joseph]])
 - Stalin-Wells interview (Sept 1934). (Links: [[stalin-joseph]])
@@ -138,13 +138,13 @@ Per-range exclusive claim prefix: WH-##-NN (e.g. WH-01-01). All claims + quotes 
 - Border clashes with Manchukuo/Japan (1935-36). (Links: [[soviet-union]] [[steppe]])
 - 1935 CC plenum: party card exchange + expulsions; Beria boasts arrests. (Links: [[stalin-joseph]] [[yezhov-nikolai]] [[beria-lavrentiy]] [[nkvd]])
 - “Muddle Instead of Music” (Pravda Jan 1936) attacks Shostakovich; cultural formalism campaign. (Links: [[stalin-joseph]] [[moscow]])
-- Rhineland remilitarization (March 1936). (Links: [[adolf-hitler]] [[soviet-union]] [[world-wars-era]])
+- Rhineland remilitarization (March 1936). (Links: [[actors/adolf-hitler|Adolf Hitler]] [[soviet-union]] [[world-wars-era]])
 - Soviet-Mongol mutual assistance treaty (1936). (Links: [[soviet-union]] [[steppe]])
 - Gorky death (June 1936); Stalin visits. (Links: [[stalin-joseph]] [[moscow]])
 - “Operation X”: Soviet aid to Spanish Republic. (Links: [[stalin-joseph]] [[comintern]] [[soviet-union]])
 - August 1936 “United Trotskyite-Zinovievite Center” trial (Zinoviev, Kamenev et al. death sentences). Stalin micromanages. (Links: [[stalin-joseph]] [[yezhov-nikolai]] [[nkvd]] [[moscow]])
-- Kandelaki economic talks with Germany continue. (Links: [[stalin-joseph]] [[adolf-hitler]] [[soviet-union]])
-- Tukhachevsky on German threat (can attack without common border); Far East build-up. (Links: [[tukhachevsky-mikhail]] [[red-army]] [[adolf-hitler]])
+- Kandelaki economic talks with Germany continue. (Links: [[stalin-joseph]] [[actors/adolf-hitler|Adolf Hitler]] [[soviet-union]])
+- Tukhachevsky on German threat (can attack without common border); Far East build-up. (Links: [[tukhachevsky-mikhail]] [[red-army]] [[actors/adolf-hitler|Adolf Hitler]])
 
 ### WH-05 (Terror as Statecraft core 1937-38)
 - Timoshenko reassigned immediately after June 1937 military sentences. (Links: [[stalin-joseph]] [[tukhachevsky-mikhail]] [[ukraine]] [[red-army]])
@@ -161,11 +161,11 @@ Per-range exclusive claim prefix: WH-##-NN (e.g. WH-01-01). All claims + quotes 
 - Quotas extended and massively exceeded (Western Siberia +200%). (Links: [[stalin-joseph]] [[great-purge]])
 
 ### WH-06 / WH-07 (Pact execution, territorial “three-card monte”, annexations, Winter War, economic deliveries)
-- Boundary and Friendship Treaty (Sept 28/29 1939) + secret protocols/maps initialed by Stalin; partition of Poland formalized. Stalin offers future aid to Germany if needed. (Links: [[stalin-joseph]] [[molotov-ribbentrop-pact-1939]] [[soviet-union]] [[adolf-hitler]])
+- Boundary and Friendship Treaty (Sept 28/29 1939) + secret protocols/maps initialed by Stalin; partition of Poland formalized. Stalin offers future aid to Germany if needed. (Links: [[stalin-joseph]] [[molotov-ribbentrop-pact-1939]] [[soviet-union]] [[actors/adolf-hitler|Adolf Hitler]])
 - Rapid Baltic pacts/bases (Estonia Sept 29 1939; Latvia, Lithuania follow). “Lithuanian Strip” adjustment. (Links: [[soviet-union]] [[molotov-ribbentrop-pact-1939]] [[eastern-europe]])
 - Finland demands (Karelian Isthmus, Hanko); rejection of Baltic-style mutual assistance pact. Mainila incident as pretext; Kuusinen “People’s Government.” (Links: [[stalin-joseph]] [[molotov-viacheslav]] [[voroshilov-kliment]] [[winter-war-1939-1940]])
 - 1940 annexations: full Baltic incorporation; Bessarabia + northern Bukovina from Romania (secret protocol reference). (Links: [[soviet-union]] [[molotov-ribbentrop-pact-1939]] [[eastern-europe]])
-- Extensive raw material deliveries to Germany (oil, etc.); naval cooperation; “breathing space.” (Links: [[soviet-union]] [[molotov-ribbentrop-pact-1939]] [[adolf-hitler]])
+- Extensive raw material deliveries to Germany (oil, etc.); naval cooperation; “breathing space.” (Links: [[soviet-union]] [[molotov-ribbentrop-pact-1939]] [[actors/adolf-hitler|Adolf Hitler]])
 - Winter War costs high; strategic gains but exposed weaknesses. (Links: [[soviet-union]] [[winter-war-1939-1940]] [[red-army]])
 
 ### WH-08 (Fear + Coda 1941)

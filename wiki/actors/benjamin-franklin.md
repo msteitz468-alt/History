@@ -19,4 +19,4 @@ aliases: [Franklin Ben, Doctor Franklin]
 
 American polymath: printer, inventor, scientist, writer, diplomat, and Founding Father. Key diplomat in securing French alliance during the Revolution (1776-1783). Inventor of lightning rod, bifocals; author of Poor Richard's Almanack; delegate to Constitutional Convention. Symbol of American ingenuity and Enlightenment values.
 
-See: [[american-revolution-1775-1783]], [[declaration-of-independence-1776]], [[treaty-of-alliance-with-france-1778]].
+See: [[declaration-of-independence-1776]], [[american-revolution]], [[treaty-of-alliance-with-france-1778]].

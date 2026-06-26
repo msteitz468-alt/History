@@ -37,7 +37,7 @@ The University of Virginia became (and remains) a living embodiment of Jefferson
 ## Actors
 
 - [[actors/jefferson-thomas]] (primary designer, advocate, and rector)
-- [[actors/madison-james]], [[actors/monroe-james]] (supporters)
+- [[actors/madison-james]], [[actors/james-monroe]] (supporters)
 - [[actors/cabell-joseph-c]] (legislative champion)
 - Faculty recruits and visitors (e.g., George Ticknor, Thomas Cooper)
 

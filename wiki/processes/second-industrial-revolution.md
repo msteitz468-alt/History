@@ -11,6 +11,7 @@ produces: [steel/chemical/electrical industries, mass production, new great powe
 sources_ingested: 1
 last_updated: 2026-06-14
 tags: [process, long-19th-century, western-europe]
+aliases: [industrial-revolution, First Industrial Revolution, British Industrial Revolution]
 ---
 
 # The Second Industrial Revolution

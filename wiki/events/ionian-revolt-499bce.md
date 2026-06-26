@@ -16,6 +16,7 @@ consequences: [the sack of Miletus and end of Ionian primacy, the burning of Sar
 sources_ingested: 1
 last_updated: 2026-06-11
 tags: [event, archaic-period, anatolia, aegean, greece]
+aliases: [ionian-revolt, Ionian Revolt]
 ---
 
 # The Ionian Revolt (499–494 BCE)

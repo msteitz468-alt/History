@@ -107,6 +107,6 @@ Kagan judges Nicias tactically sound on cavalry delay post-battle but strategica
 
 - Combatants: [[places/athens|Athens]] · [[places/syracuse]] · [[places/sparta|Sparta]] · people: [[actors/alcibiades]] · [[actors/nicias]] · [[actors/demosthenes-athenian-general]]
 - War: [[peloponnesian-war]] · prelude: [[siege-of-melos-416bce]] · sequel: [[fall-of-athens-404bce]]
-- Hubs: [[hubs/warfare/classical-antiquity/]], [[hubs/warfare/warfare-hub]], [[hubs/warfare/strategy]], [[hubs/warfare/tactics-and-battle-strategies]]
+- Hubs: [[hubs/warfare]], [[hubs/warfare/warfare-hub]], [[hubs/warfare/strategy]], [[hubs/warfare/tactics-and-battle-strategies]]
 - Concepts: [[concepts/hanson-peloponnesian-fighting]]
 - Source: [[actors/kagan-donald|Kagan, *The Peloponnesian War* (range 21001-25000 + prior)]]; [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 10, Andrewes)

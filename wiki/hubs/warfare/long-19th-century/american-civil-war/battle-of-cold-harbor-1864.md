@@ -123,6 +123,6 @@ Classic example of the futility of frontal assaults against entrenched positions
 
 ## Related
 
-- Commanders/actors: [[ulysses-s-grant]] · [[george-g-meade]] · [[robert-e-lee]]
+- Commanders/actors: [[ulysses-s-grant]] · [[george-g-meade]] · [[actors/robert-e-lee|Robert E. Lee]]
 - War & campaign: [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]] · [[hubs/warfare/long-19th-century/american-civil-war/overland-campaign-1864]] · [[events/battle-of-cold-harbor-1864]]
 - Comparable battles: Fredericksburg, Spotsylvania assaults, Crater

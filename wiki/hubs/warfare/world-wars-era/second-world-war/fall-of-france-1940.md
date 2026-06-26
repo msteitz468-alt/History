@@ -157,6 +157,6 @@ Conflicting accounts (numbers, exact halt decision timing) reconciled in source 
 
 - War & campaign: [[hubs/warfare/world-wars-era/second-world-war/second-world-war]] · [[events/world-war-ii-1939-1945]] · [[events/fall-of-france-1940]]
 - Next phase: [[hubs/warfare/world-wars-era/second-world-war/battle-of-britain-1940|Battle of Britain — Tactical Analysis]]
-- Commanders/actors: [[adolf-hitler]], [[heinz-guderian]], [[erwin-rommel]], [[gerd-von-rundstedt]], [[maurice-gamelin]], [[winston-churchill]] (via events/)
+- Commanders/actors: [[actors/adolf-hitler|Adolf Hitler]], [[guderian-heinz]], [[rommel-erwin]], [[rundstedt-gerd-von]], [[gamelin-maurice]], [[churchill-winston]] (via events/)
 - Comparable: Earlier Polish campaign (references in source); later Eastern Front operations.
 - Norway precedent (airpower lesson): detailed in same source range.

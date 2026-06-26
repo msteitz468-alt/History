@@ -543,8 +543,8 @@ chunk. Each agent's prompt must contain:
 
 **Staggered deployment (rate-limit mitigation):** Never launch all subagents at once.
 Spawn in small batches of 2 (or at most 3 for lighter/thinner ranges). After issuing the
-`spawn_subagent` calls for a batch, run `run_terminal_command` with `sleep 35` (35 seconds)
-before launching the next batch. This spaces out peak concurrent TPM usage. Use 65 seconds
+`spawn_subagent` calls for a batch, run `run_terminal_command` with `sleep 10` (10 seconds)
+before launching the next batch. This spaces out peak concurrent TPM usage. Use 20 seconds
 (or longer) if rate limits (429 / token exhaustion) occur again. Collect every returned
 subagent task_id. Once all batches are launched, use `wait_commands_or_subagents`
 (mode "wait_all" or "wait_any") and/or `get_command_or_subagent_output` (polling specific
@@ -1014,7 +1014,7 @@ Frontmatter is flat and quoted (Obsidian-Bases-friendly; no nested maps): `analy
 `primary_sources`, `key_sources`, `scale`, etc.
 
 Content standard for a detailed biography:
-- **3,500–5,000+ words** (flex by figure significance; current emphasis is 5,000+ as the practical
+- **4,00–5,000+ words minimum, plan for this length when giving instruction to the subagents** (flex by figure significance; current emphasis is 5,000+ as the practical
   target for major lives).
 - **Tables**: offices/positions timeline; major decisions matrix (context | decision | intended
   outcome | actual | counterfactual note | sources).

@@ -52,7 +52,7 @@ An analytical compilation of 50 of the most outstanding biographies written, bal
 ## Scientists, Innovators & Explorers
 
 21. **Steve Jobs** by Walter Isaacson  
-    Based on more than forty interviews with Jobs, this biography details the intense, demanding, and brilliant mind that revolutionized personal computing, music, and phones.
+    Based on more than forty interviews with Jobs, this biography details the intense, demanding, and rilliant mind that revolutionized personal computing, music, and phones.
 22. **Einstein: His Life and Universe** by Walter Isaacson  
     An accessible yet scientifically rigorous exploration of Albert Einstein's thought experiments, personal life, and his structural shattering of classical physics.
 23. **Leonardo da Vinci** by Walter Isaacson  
@@ -65,11 +65,11 @@ An analytical compilation of 50 of the most outstanding biographies written, bal
     The foundational biography of the mathematician, logician, and codebreaker whose work laid the theoretical basis for modern computer science.
 27. **Richard Feynman: Genius** by James Gleick  
     A brilliant exploration of the eccentric, Nobel Prize-winning physicist, capturing both his radical contributions to quantum electrodynamics and his irreverence personality.
-28. ✅ **Rosalind Franklin: The Dark Lady of DNA** by Brenda Maddox  
+28. **Rosalind Franklin: The Dark Lady of DNA** by Brenda Maddox  
     A corrective biography establishing Franklin’s critical role in discovering the double-helix structure of DNA, correcting decades of historical marginalization.
 29. **Marie Curie: A Life** by Susan Quinn  
     A deeply researched account that balances Curie's groundbreaking discoveries in radioactivity with the intense institutional sexism and personal scandals she navigated.
-30. ✅ **The Last Hero: A Biography of Charles A. Lindbergh** by Walter S. Ross  
+30. **The Last Hero: A Biography of Charles A. Lindbergh** by Walter S. Ross  
     A balanced assessment of the pioneering aviator, exploring his historic transatlantic flight alongside his controversial, isolationist pre-WWII political stances.
 
 ---

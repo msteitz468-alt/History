@@ -29,7 +29,7 @@ The "historical" Aeneas is a construct. Greek traditions already linked Trojan s
 This ingest will add detailed grounded claims from the Fagles translation of the primary text.
 
 ## Related
-- Epic: the *Aeneid* itself; models [[homer-iliad]], [[homer-odyssey]]
+- Epic: the *Aeneid* itself; models [[homer-iliad]], [[homer-odyssey-lombardo]]
 - Poet: [[virgil|Virgil]]
 - Father: Anchises
 - Son: Ascanius/Iulus (Julian gens)
@@ -50,8 +50,8 @@ From this range (Books 4-6 only; verbatim + ll.):
 - Katabasis: "the descent to the Underworld is easy... there the struggle, there the labor lies" (ll. 11933-11936). Golden bough required to enter (ll. 11961-). Meets Dido shade who "drifted along the endless woods" and becomes "his enemy forever" (ll. 12761, 12817); "I left your shores, my Queen, against my will" (ll. 12787). taxonomy: contrasts_with: [[aeneas]]; part_of: [[aeneas]]. Updated [[aeneas]], [[virgil]].
 - Anchises prophecy: "you can rejoice with me in Italy, found at last" (ll. 13469); "children born of Italian stock... future heirs of our name and our renown" (ll. 13577-13579); "Silvius, your son... he founds our race that rules in Alba Longa" (ll. 13593-13600). taxonomy: produced: [[italy]]; contributed_to: [[classical-antiquity]]. Updated [[aeneas]], [[augustus]].
 - First Italy shout: "Italy. ‘Italy!’—Achates was first to shout the name" (ll. 7003-7005). taxonomy: preceded_by: [[italy]]. Updated [[aeneas]].
-- Homeric echoes in katabasis: references to Orpheus, Pollux, Theseus, Hercules (ll. 11913+). taxonomy: contrasts_with: [[homer-odyssey]]; part_of: [[homer-iliad]] tradition. Updated [[homer-iliad]], [[homer-odyssey]], [[trojan-war-1250bce]].
-All claims exclusive to range 6801-13600 cache; only established page names; strict CLAUDE.md taxonomy. Updated [[aeneas]], [[virgil]], [[classical-antiquity]], [[augustus]], [[italy]], [[mediterranean-world]], [[homer-iliad]], [[homer-odyssey]], [[trojan-war-1250bce]].
+- Homeric echoes in katabasis: references to Orpheus, Pollux, Theseus, Hercules (ll. 11913+). taxonomy: contrasts_with: [[homer-odyssey-lombardo]]; part_of: [[homer-iliad]] tradition. Updated [[homer-iliad]], [[homer-odyssey-lombardo]], [[trojan-war-1250bce]].
+All claims exclusive to range 6801-13600 cache; only established page names; strict CLAUDE.md taxonomy. Updated [[aeneas]], [[virgil]], [[classical-antiquity]], [[augustus]], [[italy]], [[mediterranean-world]], [[homer-iliad]], [[homer-odyssey-lombardo]], [[trojan-war-1250bce]].
 
 **Grounded claims from Aeneid range 1-6800 (Fagles trans.)**
 - "Wars and a man I sing—an exile driven on by Fate, / he was the first to flee the coast of Troy, / destined to reach Lavinian shores and Italian soil..." (ll. 1441-45). taxonomy: part_of: [[classical-antiquity]]; preceded_by: [[trojan-war-1250bce]]. Updated [[aeneas]], [[virgil]].
@@ -65,8 +65,8 @@ All claims exclusive to range 6801-13600 cache; only established page names; str
 - "Turnus lowered his eyes and reached with his right hand and begged, a suppliant... 'I pray you—you had such a father, in old Anchises—pity Daunus... Lavinia is your bride.'" (ll. 27175). taxonomy: contributed_to: the moral crisis. Updated [[aeneas]].
 - "Aeneas... caught sight of the fateful sword-belt of Pallas... 'Pallas strikes this blow, Pallas sacrifices you now, makes you pay the price with your own guilty blood!'" (ll. 27213). taxonomy: produced: pietas/furor resolution in victory. Updated [[aeneas]].
 - "In the same breath, blazing with wrath he plants his iron sword hilt-deep in his enemy’s heart. ... His life breath fled with a groan of outrage down to the shades below." (ll. 27235). taxonomy: part_of: [[aeneas]] victory and epic closure; preceded_by: [[trojan-war-1250bce]]. Updated [[aeneas]], [[trojan-war-1250bce]].
-- "For Virgil’s performance... the second, Iliadic half of the Aeneid has many Odyssean elements, chief among them perhaps the objective of the warfare waged: not to destroy an enemy capital but to found one’s own... to 'win home' to the promised city, Rome." (ll. 27199). taxonomy: contrasts_with: [[homer-iliad]]; part_of: [[homer-odyssey]]; produced: [[aeneas]] mission. Updated [[homer-iliad]], [[homer-odyssey]].
-- All from range 20401-27200 only; verbatim + lines; established names only; strict CLAUDE.md. Updated [[aeneas]], [[virgil]], [[classical-antiquity]], [[italy]], [[mediterranean-world]], [[homer-iliad]], [[homer-odyssey]], [[trojan-war-1250bce]].
+- "For Virgil’s performance... the second, Iliadic half of the Aeneid has many Odyssean elements, chief among them perhaps the objective of the warfare waged: not to destroy an enemy capital but to found one’s own... to 'win home' to the promised city, Rome." (ll. 27199). taxonomy: contrasts_with: [[homer-iliad]]; part_of: [[homer-odyssey-lombardo]]; produced: [[aeneas]] mission. Updated [[homer-iliad]], [[homer-odyssey-lombardo]].
+- All from range 20401-27200 only; verbatim + lines; established names only; strict CLAUDE.md. Updated [[aeneas]], [[virgil]], [[classical-antiquity]], [[italy]], [[mediterranean-world]], [[homer-iliad]], [[homer-odyssey-lombardo]], [[trojan-war-1250bce]].
 
 **Grounded claims from Aeneid range 13601-20400 (Fagles trans.)**:
 - "Here is the man, he’s here! ... Caesar Augustus! Son of a god, he will bring back the Age of Gold to the Latian fields..." (ll. 13659-13671). produced: [[augustus]]. part_of: [[classical-antiquity]]. Updated [[aeneas]].

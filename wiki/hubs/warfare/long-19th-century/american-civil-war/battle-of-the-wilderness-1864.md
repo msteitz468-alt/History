@@ -121,6 +121,6 @@ Example of how terrain can neutralize technological and numerical advantages. Le
 
 ## Related
 
-- Commanders/actors: [[ulysses-s-grant]], [[george-g-meade]], [[robert-e-lee]], [[james-longstreet]]
+- Commanders/actors: [[ulysses-s-grant]], [[george-g-meade]], [[actors/robert-e-lee|Robert E. Lee]], [[james-longstreet]]
 - War & campaign: [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]] · [[hubs/warfare/long-19th-century/american-civil-war/overland-campaign-1864]] · [[events/battle-of-the-wilderness-1864]]
 - Comparable battles: Chancellorsville (same terrain)

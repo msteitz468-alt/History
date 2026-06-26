@@ -160,7 +160,7 @@ Envelopment and pocket battles (Minsk-Smolensk-Kiev-Vyazma) illustrate classic d
 
 ## Related
 
-- Commanders/actors: [[adolf-hitler]], [[joseph-stalin]], [[franz-halder]], [[fedor-von-bock]], [[georgy-zhukov]], [[reinhard-heydrich]]
+- Commanders/actors: [[actors/adolf-hitler|Adolf Hitler]], [[stalin-joseph]], [[halder-franz]], [[bock-fedor-von]], [[georgy-zhukov]], [[reinhard-heydrich]]
 - War & campaign: [[hubs/warfare/world-wars-era/second-world-war/second-world-war]] · [[events/world-war-ii-1939-1945]]
 - Specific phases: [[battle-of-smolensk-1941]], [[battle-of-kiev-1941]], [[operation-typhoon-1941]]
 - Processes: [[final-solution]], [[holocaust]]

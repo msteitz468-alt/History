@@ -121,6 +121,6 @@ Example of cavalry and infantry combined arms to turn a flank. Sheridan’s role
 
 ## Related
 
-- Commanders/actors: [[philip-sheridan]], [[gouverneur-warren]], [[george-pickett]], [[robert-e-lee]]
+- Commanders/actors: [[philip-sheridan]], [[gouverneur-warren]], [[george-pickett]], [[actors/robert-e-lee|Robert E. Lee]]
 - War & campaign: [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]] · [[hubs/warfare/long-19th-century/american-civil-war/battle-of-the-crater-1864]] · [[events/battle-of-five-forks-1865]]
 - Comparable battles: Other flanking actions in 1864-65

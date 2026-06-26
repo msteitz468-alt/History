@@ -10,7 +10,7 @@ opposed_by: [[soviet-union|Red Army]]
 key_events: [[events/operation-barbarossa-1941]], [[events/battle-of-stalingrad-1942]]
 key_processes: [German Eastern Front command 1941-42, Plan Fall Blau preparations]
 sources_ingested: 1
-last_updated: 2026-06-24
+last_updated: 2026-06-26
 tags: [actor, person, world-wars-era, eastern-europe]
 ---
 
@@ -27,6 +27,11 @@ Born 1880; father awarded nobility for bravery in Franco-Prussian War. Served in
 Detailed bio from Glantz/House *To the Gates of Stalingrad* Ch. 1 (Range 01) underscores continuity of experienced senior leadership from 1941, tensions with Hitler, and the command environment for the 1942 southern offensive. `key_events:` spearhead Moscow 1941; AG South for Blau approach to Stalingrad. `part_of:` [[events/battle-of-stalingrad-1942]] (initial phase). `affiliated_with:` [[actors/nazi-germany]], [[actors/adolf-hitler]].
 
 Replaced by List (AG A) and others as commands split/changed during campaign.
+
+**From West Point WWII Vol 1 (range 3 extraction - Barbarossa context):**
+- Bock opposition to Hitler diversion: During the August 1941 decision point on Moscow vs. flanks, "Neither Brauchitsch nor Halder could persuade him [Hitler]. Nor could Fedor von Bock, commander of Army Group Center." Hitler overruled for economic priorities and ordered panzer forces diverted south for the Kiev encirclement.
+- Command role: "Hitler granted Bock’s Army Group Center the honor of spearheading the Wehrmacht’s advance on Moscow, a task that Bock performed with undiminished ardor." (Context of initial phases and later 1942 switch to AG South.)
+- Army Group Center in early operations: Carried out successful pincer at Minsk, then another at Smolensk. `[[bock-fedor-von]]` `[[adolf-hitler]]` `[[franz-halder]]` `contributed_to:` [[operation-barbarossa-1941]] `part_of:` [[events/world-war-ii-1939-1945]]; `part_of:` [[hubs/warfare/world-wars-era/second-world-war/second-world-war]]
 
 **Related:**
 - [[events/battle-of-stalingrad-1942]]

@@ -52,7 +52,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Analysis:** Sears states that the May 15 Richmond conference was triggered by the western crisis, specifically Grant's moves against Vicksburg and Johnston's inability to relieve it. The invasion was approved as an eastern offset rather than direct reinforcement to Mississippi. This framing established the campaign's strategic stakes and explains Lee's willingness to accept high operational risk.
 **Links/taxonomy:**
 - contributed_to: [[events/battle-of-gettysburg-1863]]
-- caused_by: [[robert-e-lee]]
+- caused_by: [[actors/robert-e-lee|Robert E. Lee]]
 
 **Sears-Gettysburg-R1-03: LeeRejectsWesternReinforcementsForVirginiaDefense**
 **Grounding quote:** "He telegraphed Seddon that the proposition 'is hazardous, and it becomes a question between Virginia and the Mississippi.' ... 'it is not so easy for us to change troops from one department to another as it is for the enemy, and if we rely upon that method we may always be too late.'"
@@ -60,7 +60,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Analysis:** Sears records Lee's blunt argument against detaching Pickett or other units to the West. Lee cited intelligence on Federal reinforcements to the Army of the Potomac and the logistical impossibility of timely shifts. The text presents this as decisive in securing Davis's concurrence and focusing resources on the northern offensive.
 **Links/taxonomy:**
 - contributed_to: [[events/battle-of-gettysburg-1863]]
-- caused_by: [[robert-e-lee]]
+- caused_by: [[actors/robert-e-lee|Robert E. Lee]]
 
 **Sears-Gettysburg-R1-04: LeeAndLongstreetAgreeOnStrategicAggressiveAndDefensiveBattleIdeal**
 **Grounding quote:** "'We should assume the aggressive,' Lee had written Mr. Davis just a month earlier." "The ruling ideas of the campaign may be briefly stated thus,' Longstreet summed up. 'Under no circumstances were we to give battle, but exhaust our skill in trying to force the enemy to do so in a position of our own choosing.'"
@@ -76,7 +76,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Analysis:** Sears identifies chronic hunger and the inadequate Richmond, Fredericksburg & Potomac supply line as core reasons Lee could not remain on the Rappahannock. The text states Lee viewed remaining there as risking another battle without decisive result or slow starvation. This material factor, combined with the desire to seize initiative, produced the decision to cross the Potomac.
 **Links/taxonomy:**
 - contributed_to: [[events/battle-of-gettysburg-1863]]
-- caused_by: [[robert-e-lee]]
+- caused_by: [[actors/robert-e-lee|Robert E. Lee]]
 
 **Sears-Gettysburg-R1-06: UnionOfficerCorpsRevoltAgainstHookerAfterChancellorsville**
 **Grounding quote:** "the conspirators set to work. General Halleck... learned... of 'great dissatisfaction among the higher officers at the management of Chancellorsville.' Henry W. Slocum... went among his fellow corps commanders proposing a coup—petition the president then and there to dismiss Hooker and put George Gordon Meade... in his place."
@@ -108,7 +108,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Analysis:** Sears states that Jackson's death prompted Lee to create three smaller corps to improve battlefield control, especially in wooded terrain. Ewell and Hill were promoted to lieutenant general. The text notes questions about Ewell's decision-making and Hill's health and prior carelessness, factors that would affect corps-level execution during the invasion.
 **Links/taxonomy:**
 - contributed_to: [[events/battle-of-gettysburg-1863]]
-- caused_by: [[robert-e-lee]]
+- caused_by: [[actors/robert-e-lee|Robert E. Lee]]
 
 **Sears-Gettysburg-R1-10: EwellAchievesRapidVictoryAtSecondWinchesterClearingValley**
 **Grounding quote:** "On only the third day after entering the Shenandoah, Dick Ewell had completely cleared away the enemy facing him in the Valley, with immense captures, and opened the passage to the Potomac and Maryland." "Milroy lost 443 men killed and wounded, and no fewer than 4,000 prisoners... All this had been achieved at the cost of just 269 casualties."
@@ -116,7 +116,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Analysis:** Sears describes Ewell's coordinated attack using Early's concealed artillery flank and Johnson's night ambush, resulting in the capture of Winchester's forts and massive Federal losses with minimal Confederate cost. The text notes this opened the route for the army and boosted confidence in Ewell as Jackson's successor. It directly enabled the subsequent Potomac crossing and early concentration north of the river.
 **Links/taxonomy:**
 - produced: [[events/battle-of-gettysburg-1863]]
-- followed_by: [[robert-e-lee]]
+- followed_by: [[actors/robert-e-lee|Robert E. Lee]]
 
 **Sears-Gettysburg-R1-11: LincolnOrdersHookerToFollowOnInsideTrackProtectingWashington**
 **Grounding quote:** "I would not go South of the Rappahannock, upon Lee's moving North of it... If he comes toward the Upper Potomac, follow on his flank, and on the inside track, shortening your lines, whilst he lengthens his. Fight him when opportunity offers."
@@ -144,7 +144,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Links/taxonomy:** 
 - contributed_to: [[events/battle-of-gettysburg-1863]]
 - caused_by: [[j-e-b-stuart]]
-- part_of: [[robert-e-lee]]
+- part_of: [[actors/robert-e-lee|Robert E. Lee]]
 - preceded_by: [[hubs/warfare/long-19th-century/american-civil-war/battle-of-gettysburg-1863]]
 
 **Sears-Gettysburg-R2-02: StuartEncountersFederalForcesDelaysSeventyFourHours**
@@ -154,7 +154,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Links/taxonomy:** 
 - contributed_to: [[events/battle-of-gettysburg-1863]]
 - caused_by: [[j-e-b-stuart]]
-- followed_by: [[robert-e-lee]]
+- followed_by: [[actors/robert-e-lee|Robert E. Lee]]
 - concurrent_with: [[george-g-meade]]
 
 **Sears-Gettysburg-R2-03: HarrisonSpyReportRevealsFederalCrossingThreeDaysLate**
@@ -164,7 +164,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Links/taxonomy:** 
 - caused_by: [[j-e-b-stuart]]
 - contributed_to: [[events/battle-of-gettysburg-1863]]
-- followed_by: [[robert-e-lee]]
+- followed_by: [[actors/robert-e-lee|Robert E. Lee]]
 - concurrent_with: [[george-g-meade]]
 
 **Sears-Gettysburg-R2-04: LeeCancelsHarrisburgAdvanceRecallsEwellToGettysburgDirection**
@@ -173,7 +173,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Analysis:** Upon Harrison's intelligence Lee immediately redirected the widely dispersed Second Corps southward to concentrate with Hill and Longstreet. Ewell, already advancing on Harrisburg with Rodes and Johnson, was forced to countermarch and redirect Johnson via Cashtown Gap. The text shows this abrupt concentration decision was driven solely by the sudden discovery of the Federal army's position and Stuart's absence.
 **Links/taxonomy:** 
 - produced: [[events/battle-of-gettysburg-1863]]
-- caused_by: [[robert-e-lee]]
+- caused_by: [[actors/robert-e-lee|Robert E. Lee]]
 - contributed_to: [[james-longstreet]]
 - concurrent_with: [[j-e-b-stuart]]
 
@@ -183,7 +183,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Analysis:** Heth acted on his own initiative to seize shoes and supplies, sending Pettigrew's brigade with explicit orders not to engage organized troops. The mission was conducted while the rest of Hill's corps remained at or west of Cashtown with no immediate infantry support. The text establishes this as the first direct Confederate probe toward the town that would become the battlefield.
 **Links/taxonomy:** 
 - contributed_to: [[events/battle-of-gettysburg-1863]]
-- part_of: [[robert-e-lee]]
+- part_of: [[actors/robert-e-lee|Robert E. Lee]]
 - concurrent_with: [[j-e-b-stuart]]
 - preceded_by: [[james-longstreet]]
 
@@ -193,7 +193,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Analysis:** Despite Pettigrew's and Lt. Young's direct observation of "well-trained troops" of Federal cavalry aggressively probing, both Hill and Heth rejected the report in favor of outdated scout information placing the enemy at Middleburg. Hill explicitly approved Heth's advance the next morning "to discover what was in my front." The text shows this misjudgment occurred with Stuart's screen still absent and only limited local cavalry available.
 **Links/taxonomy:** 
 - contributed_to: [[events/battle-of-gettysburg-1863]]
-- caused_by: [[robert-e-lee]]
+- caused_by: [[actors/robert-e-lee|Robert E. Lee]]
 - concurrent_with: [[j-e-b-stuart]]
 - followed_by: [[george-g-meade]]
 
@@ -225,7 +225,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 - contributed_to: [[events/battle-of-gettysburg-1863]]
 - part_of: [[george-g-meade]]
 - preceded_by: [[winfield-s-hancock]]
-- concurrent_with: [[robert-e-lee]]
+- concurrent_with: [[actors/robert-e-lee|Robert E. Lee]]
 
 **Sears-Gettysburg-R2-10: StuartRaidSeversTelegraphDelaysEwellRecallIntel**
 **Grounding quote:** "The one important disruption Stuart achieved—perhaps the one real accomplishment of his raid—was to cut off Meade's telegraphic connections with Washington during the 29th and part of the 30th. ... When on June 30, in response to Lee's order, Ewell started the divisions of Johnson and Rodes south from Carlisle, and had Jubal Early countermarch from York, reports of these departures were not long in reaching Couch. But with Stuart's troopers tearing down the wires in Maryland, word of these key changes in the enemy's dispositions did not reach Meade until he had already made significant decisions about where to march his army."
@@ -235,7 +235,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 - contributed_to: [[events/battle-of-gettysburg-1863]]
 - caused_by: [[j-e-b-stuart]]
 - concurrent_with: [[george-g-meade]]
-- followed_by: [[robert-e-lee]]
+- followed_by: [[actors/robert-e-lee|Robert E. Lee]]
 
 **Sears-Gettysburg-R2-11: LeeMovesArmyEastOfSouthMountainAfterHarrisonReport**
 **Grounding quote:** "'In the absence of the cavalry, it was impossible to ascertain his intentions,' he would say in his report. So he determined to counter the perceived threat to his communications with a threat of his own. He would shift his army out of the Cumberland Valley and move it east of the South Mountain range, thereby posing an apparent threat to Baltimore and Washington."
@@ -244,7 +244,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Links/taxonomy:** 
 - caused_by: [[j-e-b-stuart]]
 - produced: [[events/battle-of-gettysburg-1863]]
-- part_of: [[robert-e-lee]]
+- part_of: [[actors/robert-e-lee|Robert E. Lee]]
 - concurrent_with: [[james-longstreet]]
 
 **Sears-Gettysburg-R2-12: MeadeIssuesPipeCreekDefensivePlanWhileAdvancingOnGettysburg**
@@ -254,7 +254,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Links/taxonomy:** 
 - contributed_to: [[events/battle-of-gettysburg-1863]]
 - part_of: [[george-g-meade]]
-- preceded_by: [[robert-e-lee]]
+- preceded_by: [[actors/robert-e-lee|Robert E. Lee]]
 - concurrent_with: [[sources/sears-gettysburg-2003]]
 
 ### Range 3 Extraction (lines 6110–8835)
@@ -818,7 +818,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Analysis:** Direct details on the July 4-5 wagon train of wounded under Imboden (size, route, conditions); key element of the retreat logistics for hub analysis.
 **Links/taxonomy:**
 - contributed_to: [[events/battle-of-gettysburg-1863]]
-- contributed_to: [[robert-e-lee]]
+- contributed_to: [[actors/robert-e-lee|Robert E. Lee]]
 - part_of: [[sources/sears-gettysburg-2003]]
 
 **Sears-Gettysburg-R6-10: PickettChargeCasualtiesNarrative**
@@ -835,7 +835,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Analysis:** Verbatim Lee remarks to Imboden the night of July 3-4; documents immediate post-battle rationalization for historiography and hub context on command responsibility.
 **Links/taxonomy:**
 - contributed_to: [[events/battle-of-gettysburg-1863]]
-- contributed_to: [[robert-e-lee]]
+- contributed_to: [[actors/robert-e-lee|Robert E. Lee]]
 - part_of: [[sources/sears-gettysburg-2003]]
 
 **Sears-Gettysburg-R6-12: MeadeJuly4CouncilNoAttack**
@@ -863,7 +863,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Analysis:** Detailed breakdown of Confederate command casualties (19 of 46 div/brig leaders, plus specifics) and Lee's own assessment; critical for hub analysis of long-term impact.
 **Links/taxonomy:**
 - contributed_to: [[events/battle-of-gettysburg-1863]]
-- contributed_to: [[robert-e-lee]]
+- contributed_to: [[actors/robert-e-lee|Robert E. Lee]]
 - part_of: [[sources/sears-gettysburg-2003]]
 
 **Sears-Gettysburg-R6-15: AppendixCasualtyNotationProtocol**
