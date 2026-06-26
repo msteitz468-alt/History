@@ -65,7 +65,7 @@ The 2014 preface and post-film context note the rise in public recognition (Obam
 
 ## Ingestion Log
 
-- **Scaffold date**: 2026-06-25 — Task-observer explicitly invoked and monitoring (Observation 7 logged; persistent monitor launched). Source page written on main thread before any agent work. Naming and linkable pages established.
+- **Scaffold date**: 2026-06-25 — Source page written on main thread before any agent work. Naming and linkable pages established.
 - This is the primary dedicated high-quality biographical source for Alan Turing in the collection and #26 in the Top 50 Biographies list. Warrants full high-detail treatment in the Biography Hub (epochal impact on computing and WWII intelligence; rich primary material on both the logical and personal dimensions).
 
 ## Range Plan (Disjoint, Weighted)
@@ -80,7 +80,7 @@ Detailed range assignments and /tmp cache slices will be prepared after this sou
 
 [In progress. Ranges 01 and 02 complete as of first subagent returns; material integrated into detailed biography Formation and Rise sections. Remaining ranges pending.]
 
-**Status**: Ingestion in progress via Deployed Subagent Strategy (2026-06-25). Task-observer explicitly invoked (Obs 7 logged; persistent monitor active). All 8 disjoint subagents launched in staggered batches. Caches prepared. Key pages pre-created on disk before any agent work. Ranges 01, 02, 04, and 07 complete with full grounded claims returned; integration to detailed biography and source page underway on main thread. Remaining ranges (03, 05, 06, 08) polled/pending final output.
+**Status**: Ingestion in progress via Deployed Subagent Strategy (2026-06-25). All 8 disjoint subagents launched in staggered batches. Caches prepared. Key pages pre-created on disk before any agent work. Ranges 01, 02, 04, and 07 complete with full grounded claims returned; integration to detailed biography and source page underway on main thread. Remaining ranges (03, 05, 06, 08) polled/pending final output.
 
 ## Range Claims Blocks (from Deployed Subagent Strategy)
 
@@ -104,10 +104,10 @@ Detailed range assignments and /tmp cache slices will be prepared after this sou
 
 **Additional linkables surfaced (to be created or confirmed as needed in reconciliation):** places/sherborne, places/clock-house, actors/turing-julius-mathison, actors/stoney-ethel-sara, actors/turing-john, actors/morcom-mrs (Rachel/Reginald), actors/ohanlon-geoffrey, actors/newman-max, actors/church-alonzo, actors/von-neumann-john, places/princeton, concepts/lambda-calculus, concepts/godel-theorem, actors/welchman-gordon, actors/knox-dillwyn, concepts/boolean-algebra or relay-logic, actors/clarke-joan, actors/alexander-hugh, actors/good-i-j, actors/wylie-shaun, concepts/banburismus, concepts/bombe-machine, etc.
 
-All claims verbatim from exclusive ranges only. 0 broken links introduced so far. Schemas, link taxonomy, Biography Hub template, and CLAUDE.md rules followed. Task-observer monitoring throughout.
+All claims verbatim from exclusive ranges only. 0 broken links introduced so far. Schemas, link taxonomy, Biography Hub template, and CLAUDE.md rules followed. 
 
 ---
 
 **Co-Authored-By: Grok 4.3 (xAI) + subagent extraction (main-thread control and structure)**
 
-**Task-observer explicitly invoked and monitoring this ingest session.**
+

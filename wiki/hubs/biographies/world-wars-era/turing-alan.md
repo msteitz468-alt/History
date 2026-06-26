@@ -165,4 +165,4 @@ Hodges frames the story as one of individual freedom of mind (including sexualit
 
 **Navigation:** Return to [[actors/turing-alan|summary actor page]] · See [[hubs/biographies/biographies-hub|Biographies Hub]]
 
-**Task-observer explicitly invoked and monitoring.**
+
