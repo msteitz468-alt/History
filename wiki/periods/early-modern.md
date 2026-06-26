@@ -7,8 +7,8 @@ date_range: 1500–1700 CE
 regions_covered: [atlantic-world, western-europe, mesoamerica, andes, west-africa, east-asia, near-east, south-asia, indian-ocean, southeast-asia]
 major_themes: [the construction of a global world, Columbian Exchange, oceanic empires, the silver-driven world economy, confessionalization and religious expansion, the military revolution debate, chartered companies, plantation slavery]
 collection_coverage: moderate
-sources_ingested: 11
-last_updated: 2026-06-22
+sources_ingested: 12
+last_updated: 2026-06-25
 tags: [period]
 ---
 

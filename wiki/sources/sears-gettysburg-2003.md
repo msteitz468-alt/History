@@ -809,7 +809,7 @@ tags: [source, warfare-hub, long-19th-century, north-america, american-civil-war
 **Links/taxonomy:**
 - contributed_to: [[events/battle-of-gettysburg-1863]]
 - contributed_to: [[j-e-b-stuart]]
-- contributed_to: [[actors/george-a-custer]]
+- contributed_to: [[actors/custer-george-a]]
 - part_of: [[sources/sears-gettysburg-2003]]
 
 **Sears-Gettysburg-R6-09: ImbodenWoundedTrain**
