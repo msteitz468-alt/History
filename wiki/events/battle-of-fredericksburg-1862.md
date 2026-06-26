@@ -41,7 +41,7 @@ Union suffered severe losses in frontal assaults. Strengthened Confederate defen
 
 ## Actors
 
-- Primary: [[robert-e-lee]], Burnside (established link via source)
+- Primary: [[actors/robert-e-lee|Robert E. Lee]], Burnside (established link via source)
 - See war hub and tactical analysis.
 
 ## Historiography

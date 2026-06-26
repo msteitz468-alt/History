@@ -6,7 +6,7 @@ date_precision: exact
 period: [world-wars-era]
 region: [europe]
 location: [France, Low Countries]
-actors_primary: [[adolf-hitler]], [[heinz-guderian]], [[winston-churchill]], [[maurice-gamelin]]
+actors_primary: [[actors/adolf-hitler|Adolf Hitler]], [[heinz-guderian]], [[winston-churchill]], [[maurice-gamelin]]
 actors_secondary: [[erich-von-manstein]]
 event_type: campaign
 scale_immediate: regional

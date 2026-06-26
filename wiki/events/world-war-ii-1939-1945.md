@@ -113,7 +113,7 @@ caused_by: [[operation-barbarossa-1941]] (or dedicated); contributed_to: [[holoc
 
 See frontmatter and hub. Key from range: Hitler (consolidated power, renounced Versailles, pursued Lebensraum); Rydz-Śmigły (linear border defense chosen); Bock and Rundstedt (Army Group commanders); Guderian (XIX Motorized Corps); von Seeckt (preserved core army post-1918); Mussolini (aligned via Pact of Steel May 1939).
 
-From Megargee range: [[adolf-hitler]] (addressed commanders March 30 1941 on extermination war; overruled Halder/Brauchitsch on Moscow priority for Ukraine resources); [[joseph-stalin]] (appeasement + partial mobilization + officer purges legacy; ignored warnings; ordered counteroffensives); [[franz-halder]] (Army Chief of Staff; recorded casualties, pushed Moscow focus); Walther von Brauchitsch; Fedor von Bock (Army Group Center); Gerd von Rundstedt (Army Group South); Mikhail Kirponos (Southwestern Front); [[georgy-zhukov]] (fire-brigade role, Moscow defense/counteroffensive); Reinhard Heydrich (Wannsee, Final Solution coordination); Einsatzgruppen leaders; local auxiliaries. Also Army Group North (Leeb/Reinhardt); Soviet fronts under Kuznetsov, Kirponos, etc. "Stalin had learned that the Japanese did not intend to attack in the East, so he had released forces..."
+From Megargee range: [[actors/adolf-hitler|Adolf Hitler]] (addressed commanders March 30 1941 on extermination war; overruled Halder/Brauchitsch on Moscow priority for Ukraine resources); [[joseph-stalin]] (appeasement + partial mobilization + officer purges legacy; ignored warnings; ordered counteroffensives); [[franz-halder]] (Army Chief of Staff; recorded casualties, pushed Moscow focus); Walther von Brauchitsch; Fedor von Bock (Army Group Center); Gerd von Rundstedt (Army Group South); Mikhail Kirponos (Southwestern Front); [[georgy-zhukov]] (fire-brigade role, Moscow defense/counteroffensive); Reinhard Heydrich (Wannsee, Final Solution coordination); Einsatzgruppen leaders; local auxiliaries. Also Army Group North (Leeb/Reinhardt); Soviet fronts under Kuznetsov, Kirponos, etc. "Stalin had learned that the Japanese did not intend to attack in the East, so he had released forces..."
 
 ## Historiography
 
@@ -134,7 +134,7 @@ The Mediterranean Theater proved a laboratory for Allied sustainment. From novic
 - Key analyses (from Vol. 1 source, full template): [[hubs/warfare/world-wars-era/second-world-war/invasion-of-poland-1939|Invasion of Poland 1939]], [[hubs/warfare/world-wars-era/second-world-war/fall-of-france-1940|Fall of France 1940]], [[hubs/warfare/world-wars-era/second-world-war/battle-of-britain-1940|Battle of Britain 1940]], [[hubs/warfare/world-wars-era/second-world-war/operation-barbarossa-1941|Operation Barbarossa 1941]], [[hubs/warfare/world-wars-era/second-world-war/attack-on-pearl-harbor-1941|Attack on Pearl Harbor 1941]], [[hubs/warfare/world-wars-era/second-world-war/battle-of-midway-1942|Battle of Midway 1942]]
 - Processes: [[processes/war-economies-wwii]], [[processes/home-fronts-wwii]]
 - Causes: [[controversies/causes-of-the-second-world-war]]
-- Actors: [[adolf-hitler]], [[winston-churchill]], etc.
+- Actors: [[actors/adolf-hitler|Adolf Hitler]], [[winston-churchill]], etc.
 - Predecessor: [[events/first-world-war-1914]], [[1914-end-of-long-19th-century]]
 - Source grounding: [[sources/rogers-seidule-west-point-history-world-war-ii-v1-2015]]
 - Specific sub-events from ranges: [[battle-of-kiev-1941]], [[battle-of-smolensk-1941]], [[operation-typhoon-1941]], [[final-solution]], [[holocaust]] (beginnings)

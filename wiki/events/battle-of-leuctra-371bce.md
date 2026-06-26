@@ -7,7 +7,7 @@ period: [Classical Antiquity]
 region: [central-greece]
 location: [Leuctra (in Boeotia, near Thespiae)]
 actors_primary: [[[epaminondas]], Thebes/Boeotia, [[sparta]], Cleombrotus]
-actors_secondary: [Pelopidas and the Sacred Band, the Spartan allies, [[athens]], Jason of Pherae]
+actors_secondary: [Pelopidas and the Sacred Band, the Spartan allies, [[places/athens|Athens]], Jason of Pherae]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational
@@ -76,6 +76,6 @@ foundation of **Megalopolis**; and a tactical revolution inherited by Macedon.
 ## Related
 
 - Victor: [[epaminondas]] · Pelopidas & the Sacred Band · Thebes/Boeotia
-- Defeated: [[sparta]] · Cleombrotus · [[agesilaus-ii]] · onlookers: [[athens]] · Jason of Pherae
+- Defeated: [[sparta]] · Cleombrotus · [[agesilaus-ii]] · onlookers: [[places/athens|Athens]] · Jason of Pherae
 - Context: [[liberation-of-thebes-379bce]] · [[second-athenian-confederacy]] · sequel: [[thebes-hegemony-371bce]]
 - Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 6, Seager)

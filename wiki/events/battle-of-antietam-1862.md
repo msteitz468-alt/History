@@ -46,7 +46,7 @@ Lee's Maryland Campaign (part of broader Eastern operations 1862) aimed to relie
 
 ## Actors
 
-- Primary: [[robert-e-lee]], [[george-b-mcclellan]]
+- Primary: [[actors/robert-e-lee|Robert E. Lee]], [[george-b-mcclellan]]
 - See full analysis for order of battle and command decisions.
 
 ## Historiography

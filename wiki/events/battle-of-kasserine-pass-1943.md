@@ -8,8 +8,8 @@ region: [north-africa, mediterranean]
 event_type: war
 scale_immediate: regional
 scale_consequential: regional
-causes: []
-consequences: []
+causes: [Allied inexperience after Operation Torch, poor US command coordination and intelligence, Rommel\'s rapid counteroffensive with Afrika Korps and Italian forces exploiting gaps in inexperienced American lines]
+consequences: [Major US learning experience in WWII European theater, replacement of Lloyd Fredendall with George Patton and Omar Bradley, improved combined arms doctrine and leadership, temporary Axis morale boost but no strategic reversal of Allied advance in North Africa]
 sources_ingested: 0
 last_updated: 2026-06-24
 tags: [event, world-wars-era]

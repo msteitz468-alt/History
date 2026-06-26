@@ -6,7 +6,7 @@ date_precision: exact
 period: [long-19th-century]
 region: [north-america]
 location: [Northern Virginia]
-actors_primary: [[ulysses-s-grant]], [[robert-e-lee]], [[george-g-meade]]
+actors_primary: [[ulysses-s-grant]], [[actors/robert-e-lee|Robert E. Lee]], [[george-g-meade]]
 actors_secondary: [[philip-sheridan]], [[ambrose-burnside]]
 event_type: campaign
 scale_immediate: regional

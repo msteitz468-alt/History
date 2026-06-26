@@ -54,5 +54,5 @@ See hub analysis page for Citino analysis (range-grounded): momentum maintenance
 - Main war: [[events/world-war-ii-1939-1945]]
 - Hub analysis: [[hubs/warfare/world-wars-era/second-world-war/invasion-of-poland-1939]]
 - Source: [[sources/rogers-seidule-west-point-history-world-war-ii-v1-2015]]
-- Actors: [[adolf-hitler]], [[gerd-von-rundstedt]]
+- Actors: [[actors/adolf-hitler|Adolf Hitler]], [[gerd-von-rundstedt]]
 - Period: [[periods/world-wars-era]]

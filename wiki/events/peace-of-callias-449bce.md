@@ -6,7 +6,7 @@ date_precision: disputed
 period: [Classical Antiquity]
 region: [aegean, anatolia, near-east]
 location: [Susa]
-actors_primary: [[[athens]], [[delian-league|the Delian League]], [[achaemenid-empire|Achaemenid Persia]]]
+actors_primary: [[[places/athens|Athens]], [[delian-league|the Delian League]], [[achaemenid-empire|Achaemenid Persia]]]
 actors_secondary: [Callias son of Hipponicus, Artaxerxes I, [[cimon]]]
 event_type: treaty
 scale_immediate: regional
@@ -65,7 +65,7 @@ affairs during the [[peloponnesian-war|Peloponnesian War]].
 
 ## Related
 
-- Parties: [[athens]] · [[delian-league]] · [[achaemenid-empire]] · [[cimon]]
+- Parties: [[places/athens|Athens]] · [[delian-league]] · [[achaemenid-empire]] · [[cimon]]
 - Outcome: [[parthenon]] · [[thirty-years-peace-446bce]] · [[peloponnesian-war]]
 - Method: [[classical-greek-historiography]] · [[herodotus-reliability]]
 - Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 6, Lewis)

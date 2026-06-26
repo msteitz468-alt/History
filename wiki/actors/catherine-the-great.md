@@ -10,7 +10,8 @@ opposed_by: []
 key_events: []
 key_processes: []
 sources_ingested: 7
-last_updated: 2026-06-22
+last_updated: 2026-06-25
+related_biography: [[hubs/biographies/age-of-expansion/catherine-the-great]] (detailed analytic life)
 
 **Credit and Banking (Cambridge Vol. II Ananich ch.19, ll. ~12849–12913 from range):** “The credit system created under her reign became known as the ‘Catherine credit system’, and lasted until the middle of the nineteenth century.” “In 1786 these banks were united into a single State Paper Money (Assignat) Bank.” “Russia began to take out foreign loans regularly. In 1769... first major loan with the Amsterdam banking house Raymond and Theodore De Smeth.” “Russia took out eighteen loans from Hope and Company just between 1788 and 1793.” Court bankers (Sutherland etc.) managed foreign payments. `produced:` Catherine credit system + foreign debt growth; `contributed_to:` empire expansion financing. `part_of:` russian-empire economy.
 tags: [actor, person, age-of-expansion, eastern-europe]

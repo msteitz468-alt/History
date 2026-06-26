@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece]
 location: [Chaeronea (Boeotia)]
-actors_primary: [[[philip-ii-of-macedon|Philip II]], [[alexander-the-great|Alexander]], Macedon, [[athens]], Thebes]
+actors_primary: [[[philip-ii-of-macedon|Philip II]], [[alexander-the-great|Alexander]], Macedon, [[places/athens|Athens]], Thebes]
 actors_secondary: [Demosthenes, the Theban Sacred Band, the allied Greek coalition]
 event_type: battle
 scale_immediate: regional
@@ -23,7 +23,7 @@ tags: [event, classical-antiquity, central-greece]
 ## Narrative
 
 At **Chaeronea**, in Boeotia, in **338 BCE**, **[[philip-ii-of-macedon|Philip II of
-Macedon]]** destroyed the combined armies of **[[athens]] and Thebes** and with them the
+Macedon]]** destroyed the combined armies of **[[places/athens|Athens]] and Thebes** and with them the
 **independence of the Greek city-states**. [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 15,
 Ellis) sets the battle as the climax of Philip's drive into central Greece, after the
 orator **Demosthenes** had at last forged an Athenian–Theban coalition to stop him. Philip
@@ -54,13 +54,13 @@ was itself destroyed at Chaeronea. It is the threshold of the **Hellenistic age*
 
 ## Consequence Analysis
 
-caused_by: Philip's expansion and the anti-Macedonian coalition of [[athens]] and Thebes
+caused_by: Philip's expansion and the anti-Macedonian coalition of [[places/athens|Athens]] and Thebes
 (Demosthenes). produced: **Macedonian hegemony over Greece**; the
 **[[league-of-corinth|League of Corinth]]**; the isolation of Sparta; and the launching of
 the [[alexander-the-great|Macedonian]] invasion of the Persian empire.
 
 ## Related
 
-- Victors: [[philip-ii-of-macedon]] · [[alexander-the-great]] · Macedon · defeated: [[athens]] · Thebes · the Sacred Band
+- Victors: [[philip-ii-of-macedon]] · [[alexander-the-great]] · Macedon · defeated: [[places/athens|Athens]] · Thebes · the Sacred Band
 - Sequel: [[league-of-corinth]] · context: [[city-state]] · [[greek-warfare]] · earlier tactic: [[battle-of-leuctra-371bce]]
 - Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 15, Ellis)

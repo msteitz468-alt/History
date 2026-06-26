@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [aegean]
 location: [Melos]
-actors_primary: [[[athens]], [[delian-league|the Athenian empire]], Melos]
+actors_primary: [[[places/athens|Athens]], [[delian-league|the Athenian empire]], Melos]
 actors_secondary: [[[sparta]] (the mother-city of Melos)]
 event_type: war
 scale_immediate: local
@@ -68,7 +68,7 @@ versus justice** between states.
 
 ## Related
 
-- Parties: [[athens]] · [[delian-league]] · [[sparta]] · Melos
+- Parties: [[places/athens|Athens]] · [[delian-league]] · [[sparta]] · Melos
 - Context: [[peloponnesian-war]] · sequel: [[sicilian-expedition]] · method:
   [[classical-greek-historiography]] · [[thucydides]]
 - Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 10, Andrewes)

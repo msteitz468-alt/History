@@ -6,8 +6,8 @@ date_precision: year
 period: [Classical Antiquity]
 region: [sicily, mediterranean-world, aegean]
 location: [[places/syracuse]], Sicily]
-actors_primary: [[[places/athens]], [[actors/nicias]], [[actors/alcibiades]], [[actors/demosthenes-athenian-general]], [[places/syracuse]]]
-actors_secondary: [Segesta, Selinus, [[places/sparta]]]
+actors_primary: [[[places/athens|Athens]], [[actors/nicias]], [[actors/alcibiades]], [[actors/demosthenes-athenian-general]], [[places/syracuse]]]
+actors_secondary: [Segesta, Selinus, [[places/sparta|Sparta]]]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
@@ -105,7 +105,7 @@ Kagan judges Nicias tactically sound on cavalry delay post-battle but strategica
 
 ## Related
 
-- Combatants: [[places/athens]] · [[places/syracuse]] · [[places/sparta]] · people: [[actors/alcibiades]] · [[actors/nicias]] · [[actors/demosthenes-athenian-general]]
+- Combatants: [[places/athens|Athens]] · [[places/syracuse]] · [[places/sparta|Sparta]] · people: [[actors/alcibiades]] · [[actors/nicias]] · [[actors/demosthenes-athenian-general]]
 - War: [[peloponnesian-war]] · prelude: [[siege-of-melos-416bce]] · sequel: [[fall-of-athens-404bce]]
 - Hubs: [[hubs/warfare/classical-antiquity/]], [[hubs/warfare/warfare-hub]], [[hubs/warfare/strategy]], [[hubs/warfare/tactics-and-battle-strategies]]
 - Concepts: [[concepts/hanson-peloponnesian-fighting]]

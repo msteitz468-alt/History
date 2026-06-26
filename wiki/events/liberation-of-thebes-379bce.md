@@ -7,7 +7,7 @@ period: [Classical Antiquity]
 region: [central-greece]
 location: [Thebes (the Cadmea)]
 actors_primary: [Pelopidas, the Theban exiles, [[sparta]], Phoebidas, Leontiades]
-actors_secondary: [[[athens]] (volunteers), [[agesilaus-ii|Agesilaus II]], Cleombrotus]
+actors_secondary: [[[places/athens|Athens]] (volunteers), [[agesilaus-ii|Agesilaus II]], Cleombrotus]
 event_type: revolution
 scale_immediate: local
 scale_consequential: regional
@@ -63,7 +63,7 @@ of Thebes culminating at **[[battle-of-leuctra-371bce|Leuctra]]**.
 
 ## Related
 
-- Liberators: Pelopidas · [[epaminondas]] · the Theban exiles · helpers: [[athens]]
+- Liberators: Pelopidas · [[epaminondas]] · the Theban exiles · helpers: [[places/athens|Athens]]
 - Oppressors: [[sparta]] · Phoebidas · Leontiades · [[agesilaus-ii]] · context: [[kings-peace-386bce]] · [[spartan-hegemony]]
 - Sequel: [[second-athenian-confederacy]] · [[battle-of-leuctra-371bce]] · [[thebes-hegemony-371bce]]
 - Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 6, Seager)

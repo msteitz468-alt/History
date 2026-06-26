@@ -62,5 +62,5 @@ on the seaboard; encouragement from Egypt and Greece. produced: a wave of rebell
 ## Related
 
 - Rebels: Datames · Ariobarzanes · Orontes · [[mausolus]] · overlord: [[artaxerxes-ii]] · [[achaemenid-empire]]
-- Frame: [[achaemenid-satrapy]] · parallel: [[late-period-egypt]] (Egypt in revolt) · interveners: [[sparta]] · [[athens]]
+- Frame: [[achaemenid-satrapy]] · parallel: [[late-period-egypt]] (Egypt in revolt) · interveners: [[sparta]] · [[places/athens|Athens]]
 - Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 3, Hornblower)

@@ -56,7 +56,7 @@ The ‘levered into power’ dynamic: without the conservative initiative after 
 
 ## Actors
 
-- **[[adolf-hitler]]**: Appointed Chancellor; immediately began the process of total power consolidation.
+- **[[actors/adolf-hitler|Adolf Hitler]]**: Appointed Chancellor; immediately began the process of total power consolidation.
 - **[[paul-von-hindenburg]]**: Reluctant appointer; symbol of old order whose consent legitimized the transition.
 - **[[franz-von-papen]]**: Chief engineer of the deal; Vice-Chancellor who thought he could control Hitler (‘We’ve hired him’).
 - **[[alfred-hugenberg]]**: DNVP leader; ‘We’re boxing Hitler in’; soon marginalized.
@@ -71,7 +71,7 @@ Kershaw’s analysis in ch. 10 rejects both intentionalist ‘Hitler willed it a
 ## Sources
 
 - Kershaw (range): detailed reconstruction of backstairs negotiations, élite attitudes, and the mechanics of the transfer.
-- See also: [[reichstag-election-july-1932]], [[13-august-1932-hindenburg-rejection]], [[franz-von-papen]], [[paul-von-hindenburg]], [[adolf-hitler]]
+- See also: [[reichstag-election-july-1932]], [[13-august-1932-hindenburg-rejection]], [[franz-von-papen]], [[paul-von-hindenburg]], [[actors/adolf-hitler|Adolf Hitler]]
 
 ---
 

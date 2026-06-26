@@ -7,7 +7,7 @@ period: [Classical Antiquity]
 region: [peloponnese]
 location: [Mantinea (Arcadia)]
 actors_primary: [[[epaminondas]], Thebes/Boeotia, the pro-Theban Arcadians, Argos, Messene]
-actors_secondary: [[[sparta]], [[athens]], Mantinea, Elis, Achaea]
+actors_secondary: [[[sparta]], [[places/athens|Athens]], Mantinea, Elis, Achaea]
 event_type: battle
 scale_immediate: regional
 scale_consequential: regional
@@ -26,7 +26,7 @@ The **Battle of Mantinea** (362 BCE) was the last great hoplite battle of indepe
 Greece and the death-throe of the **[[thebes-hegemony-371bce|Theban hegemony]]**. A split
 in the **Arcadian League** — over the use of Olympia's treasure to pay the federal army,
 and over peace with Elis — set a pro-Theban bloc (**Tegea, Megalopolis, Messene, Argos,
-Sicyon, Boeotia**) against an anti-Theban one (**Mantinea, Sparta, [[athens]], Elis,
+Sicyon, Boeotia**) against an anti-Theban one (**Mantinea, Sparta, [[places/athens|Athens]], Elis,
 Achaea**). [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 7, Roy) recounts how **[[epaminondas]]**
 marched south, nearly surprised both **Sparta** and **Mantinea**, and then met the
 coalition near Mantinea. Using once more his **deep oblique attack**, "**Epaminondas'
@@ -63,6 +63,6 @@ that opened the way for **Macedon**.
 ## Related
 
 - Commander (d.): [[epaminondas]] · pro-Theban: Tegea · Megalopolis · Messene · Argos · Boeotia
-- Anti-Theban: [[sparta]] · [[athens]] · Mantinea · Elis · Achaea
+- Anti-Theban: [[sparta]] · [[places/athens|Athens]] · Mantinea · Elis · Achaea
 - Context: [[thebes-hegemony-371bce]] · [[battle-of-leuctra-371bce]] · ends Xenophon's *Hellenica* ([[fourth-century-greek-historiography]])
 - Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 7, Roy)

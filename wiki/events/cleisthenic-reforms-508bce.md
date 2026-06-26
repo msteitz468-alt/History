@@ -90,6 +90,6 @@ details were worked out by a small committee afterward), and on how "democratic"
 
 ## Related
 
-- Author: [[cleisthenes]] · state: [[athens]] · rival: Isagoras · intervenor: [[cleomenes-i]]
+- Author: [[cleisthenes]] · state: [[places/athens|Athens]] · rival: Isagoras · intervenor: [[cleomenes-i]]
 - Principle: [[isonomia]] · institution: [[ostracism]] · outcome: [[athenian-democracy]] · prior regime: [[pisistratidae]]
 - Period: [[archaic-period]] · Source: [[boardman-cah-v4-1988]] (Ch. 5, Martin Ostwald)

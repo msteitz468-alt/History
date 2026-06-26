@@ -50,7 +50,7 @@ This event exemplified the 'backstairs intrigue' phase: élite figures (Papen, S
 
 ## Actors
 
-- **[[adolf-hitler]]**: Demanded full Chancellorship and 'Staatsführung in vollem Umfange'; rejected Vice-Chancellorship.
+- **[[actors/adolf-hitler|Adolf Hitler]]**: Demanded full Chancellorship and 'Staatsführung in vollem Umfange'; rejected Vice-Chancellorship.
 - **[[paul-von-hindenburg]]**: Refused to hand 'entire power of the government' to Hitler and the NSDAP; insisted on gentlemanly opposition.
 - **[[franz-von-papen]]**: Proposed Vice-Chancellorship; emblematic of conservative 'cabinet of barons' miscalculation.
 - **[[kurt-von-schleicher]]**: Key intriguer who had appeared to offer deal but whose taming strategy failed here.
@@ -65,7 +65,7 @@ Kershaw's central thesis in the 'Levered into Power' chapter: the impasse of aut
 ## Sources
 
 - Kershaw (range 03): verbatim accounts of meetings, Hindenburg's remarks, Goebbels reactions, analysis of miscalculation.
-- Cross: [[adolf-hitler]], [[franz-von-papen]], [[kurt-von-schleicher]], [[paul-von-hindenburg]], [[reichstag-election-july-1932]], [[papen-government-1932]]
+- Cross: [[actors/adolf-hitler|Adolf Hitler]], [[franz-von-papen]], [[kurt-von-schleicher]], [[paul-von-hindenburg]], [[reichstag-election-july-1932]], [[papen-government-1932]]
 
 ---
 

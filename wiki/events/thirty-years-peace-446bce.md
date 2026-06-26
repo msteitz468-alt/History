@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece, peloponnese, aegean]
 location: [Greece]
-actors_primary: [[[athens]], [[sparta]], [[peloponnesian-league|the Peloponnesian League]]]
+actors_primary: [[[places/athens|Athens]], [[sparta]], [[peloponnesian-league|the Peloponnesian League]]]
 actors_secondary: [Callias, [[pericles]], Pleistoanax, Argos]
 event_type: treaty
 scale_immediate: regional
@@ -72,6 +72,6 @@ spine of Thucydides' analysis of the war's causes (see [[peloponnesian-war]] and
 
 ## Related
 
-- Parties: [[athens]] · [[sparta]] · [[peloponnesian-league]] · [[pericles]] · Argos
+- Parties: [[places/athens|Athens]] · [[sparta]] · [[peloponnesian-league]] · [[pericles]] · Argos
 - Context: [[first-peloponnesian-war]] · [[peace-of-callias-449bce]] · [[peloponnesian-war]]
 - Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 6, Lewis)

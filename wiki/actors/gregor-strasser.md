@@ -44,5 +44,5 @@ Kershaw treats Strasser as the most serious internal rival Hitler faced in the m
 
 `part_of`: [[nsdap-refoundation-1925]]
 `preceded_by`: [[beer-hall-putsch-1923]]
-`opposed_by`: [[adolf-hitler]]
+`opposed_by`: [[actors/adolf-hitler|Adolf Hitler]]
 `key_events`: [[beer-hall-putsch-1923]], [[nsdap-refoundation-1925]]

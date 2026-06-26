@@ -90,7 +90,7 @@ bias.
 
 ## Related
 
-- Empire: [[achaemenid-empire]] · slogan: [[isonomia]] · burned: [[sardis]] · helpers: [[athens]] · Eretria
+- Empire: [[achaemenid-empire]] · slogan: [[isonomia]] · burned: [[sardis]] · helpers: [[places/athens|Athens]] · Eretria
 - Aftermath: [[battle-of-marathon-490bce]] · leader: [[miltiades]] · trade ruin: [[naucratis]] · [[trade-network-formation]]
 - Source-critique: [[herodotus-reliability]] · Period: [[archaic-period]] · [[classical-antiquity]]
 - Source: [[boardman-cah-v4-1988]] (Ch. 8, Oswyn Murray)

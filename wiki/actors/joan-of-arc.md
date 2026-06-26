@@ -10,7 +10,8 @@ opposed_by: [the Lancastrian dual monarchy, the Anglo-Burgundian regime, the Uni
 key_events: [the relief of Orléans (1429), the coronation of Charles VII at Reims (1429), her capture at Compiègne (1430), her trial and execution (1431)]
 key_processes: [the final phase of the Hundred Years War, the recovery of Valois legitimacy]
 sources_ingested: 1
-last_updated: 2026-06-12
+last_updated: 2026-06-25
+related_biography: [[hubs/biographies/late-middle-ages/joan-of-arc]] (detailed analytic life)
 tags: [actor, person, late-middle-ages, western-europe]
 ---
 

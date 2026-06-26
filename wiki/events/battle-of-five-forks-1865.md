@@ -7,7 +7,7 @@ period: [long-19th-century]
 region: [north-america]
 location: [Five Forks, Virginia]
 actors_primary: [[philip-sheridan]], [[gouverneur-warren]], [[george-pickett]]
-actors_secondary: [[robert-e-lee]]
+actors_secondary: [[actors/robert-e-lee|Robert E. Lee]]
 event_type: battle
 scale_immediate: local
 scale_consequential: civilizational

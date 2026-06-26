@@ -6,7 +6,7 @@ date_precision: approximate
 period: [world-wars-era]
 region: [europe]
 location: [United Kingdom airspace]
-actors_primary: [[adolf-hitler]], [[hermann-goering]], [[winston-churchill]]
+actors_primary: [[actors/adolf-hitler|Adolf Hitler]], [[hermann-goering]], [[winston-churchill]]
 actors_secondary: [[hugh-dowding]]
 event_type: battle
 scale_immediate: regional

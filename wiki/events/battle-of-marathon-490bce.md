@@ -95,7 +95,7 @@ which Hammond rejects, since Herodotus *and* Thucydides anchored events to Marat
 
 ## Related
 
-- Defenders: [[athens]] · Plataea · architect: [[miltiades]] · polemarch Callimachus · invader: [[achaemenid-empire]] (Datis & Artaphernes)
+- Defenders: [[places/athens|Athens]] · Plataea · architect: [[miltiades]] · polemarch Callimachus · invader: [[achaemenid-empire]] (Datis & Artaphernes)
 - Prelude: [[ionian-revolt-499bce]] · [[sardis]] (burning) · base: [[thrace]] (Skudra) · medizer: [[aegina]]
 - Sequel: Xerxes' invasion (480) · Source-critique: [[herodotus-reliability]]
 - Period: [[classical-antiquity]] · Source: [[boardman-cah-v4-1988]] (Ch. 9, N. G. L. Hammond)

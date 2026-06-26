@@ -7,7 +7,7 @@ period: [Classical Antiquity]
 region: [aegean, peloponnese, anatolia]
 location: [Sardis (terms announced), Sparta (oaths sworn)]
 actors_primary: [[[artaxerxes-ii|Artaxerxes II]], [[sparta]], Antalcidas, Tiribazus]
-actors_secondary: [[[athens]], Thebes, Argos, Corinth, [[agesilaus-ii|Agesilaus II]]]
+actors_secondary: [[[places/athens|Athens]], Thebes, Argos, Corinth, [[agesilaus-ii|Agesilaus II]]]
 event_type: treaty
 scale_immediate: civilizational
 scale_consequential: civilizational

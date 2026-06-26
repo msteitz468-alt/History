@@ -6,7 +6,7 @@ date_precision: month
 period: [World Wars Era]
 region: [western-europe, germany]
 location: [Berlin, Munich, Germany]
-actors_primary: [[adolf-hitler]]
+actors_primary: [[actors/adolf-hitler|Adolf Hitler]]
 actors_secondary: [Franz von Papen, Paul von Hindenburg, Hermann Göring, Joseph Goebbels, Heinrich Himmler]
 event_type: political
 scale_immediate: national
@@ -60,7 +60,7 @@ The rapidity of the transformation — civil liberties gone within a month, Reic
 
 ## Actors
 
-- [[adolf-hitler]]: central figure; combined tactical moderation in public with ruthless exploitation of opportunities; master of propaganda and intimidation.
+- [[actors/adolf-hitler|Adolf Hitler]]: central figure; combined tactical moderation in public with ruthless exploitation of opportunities; master of propaganda and intimidation.
 - Conservative elites (Papen, Hugenberg, Hindenburg circle): initially believed they could contain Hitler; rapidly marginalised.
 - Zentrum deputies: provided the crucial votes for the Enabling Act under duress and after verbal assurances later broken.
 - SA and SS: provided the menacing armed presence around the Reichstag and the street-level terror driving arrests and ‘protective custody’.

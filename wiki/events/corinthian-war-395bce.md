@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [peloponnese, central-greece, aegean, anatolia]
 location: [Haliartus, Nemea, Coronea, Cnidus, Corinth, Lechaeum]
-actors_primary: [[[sparta]], [[athens]], Thebes, Corinth, Argos, [[achaemenid-empire|Persia]]]
+actors_primary: [[[sparta]], [[places/athens|Athens]], Thebes, Corinth, Argos, [[achaemenid-empire|Persia]]]
 actors_secondary: [[[agesilaus-ii|Agesilaus II]], [[lysander]], [[conon]], Pharnabazus, [[artaxerxes-ii|Artaxerxes II]], Iphicrates]
 event_type: war
 scale_immediate: regional
@@ -22,7 +22,7 @@ tags: [event, classical-antiquity, peloponnese, aegean, greece]
 
 ## Narrative
 
-The **Corinthian War** was the coalition war in which **Thebes, [[athens]], Corinth and
+The **Corinthian War** was the coalition war in which **Thebes, [[places/athens|Athens]], Corinth and
 Argos**, financed by [[achaemenid-empire|Persia]], tried to break the
 [[spartan-hegemony|Spartan hegemony]]. [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 4, Robin
 Seager) shows the causes to be **resentment of Sparta's ruthless expansionism**, not
@@ -80,7 +80,7 @@ Greek affairs — "the only power to have derived unmitigated gain."
 
 ## Related
 
-- Belligerents: [[sparta]] · [[athens]] · Thebes · Corinth · Argos · [[achaemenid-empire]]
+- Belligerents: [[sparta]] · [[places/athens|Athens]] · Thebes · Corinth · Argos · [[achaemenid-empire]]
 - Figures: [[agesilaus-ii]] · [[lysander]] (d. Haliartus) · [[conon]] · Pharnabazus · Iphicrates · Antalcidas
 - Outcome: [[kings-peace-386bce]] · context: [[spartan-hegemony]]
 - Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 4, Seager); the Athenian domestic dimension in

@@ -7,7 +7,7 @@ period: [Classical Antiquity]
 region: [peloponnese]
 location: [Messenia, Mount Ithome, Sparta]
 actors_primary: [[[sparta]], the Messenian Helots, the perioikic rebels]
-actors_secondary: [[[athens]], [[cimon]], Archidamus II, the suppliants of Ithome]
+actors_secondary: [[[places/athens|Athens]], [[cimon]], Archidamus II, the suppliants of Ithome]
 event_type: revolution
 scale_immediate: regional
 scale_consequential: regional
@@ -80,7 +80,7 @@ debated. See [[classical-greek-historiography]].
 
 ## Related
 
-- Parties: [[sparta]] · the Helots · [[athens]] · [[cimon]] · [[naupactus]]
+- Parties: [[sparta]] · the Helots · [[places/athens|Athens]] · [[cimon]] · [[naupactus]]
 - Consequences: [[ephialtes-reform-462bce]] · [[first-peloponnesian-war]] ·
   [[peloponnesian-league]]
 - Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 5, Lewis)

@@ -12,7 +12,7 @@ event_type: political
 scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [meiji-restoration-1868]
-consequences: []
+consequences: [Adoption of Gregorian calendar aligned Japan with international standards for diplomacy/trade, disruption of traditional lunar calendar festivals and agriculture scheduling, symbol of broader Meiji modernization and Westernization]
 sources_ingested: 1
 last_updated: 2026-06-22
 tags: [event, long-19th-century, japan, east-asia]

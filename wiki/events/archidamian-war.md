@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece, peloponnese, aegean]
 location: [Attica, the Peloponnese, the Thraceward region, the Corinthian Gulf]
-actors_primary: [[[athens]], [[pericles]], [[sparta]], Archidamus II, [[cleon]], [[brasidas]]]
+actors_primary: [[[places/athens|Athens]], [[pericles]], [[sparta]], Archidamus II, [[cleon]], [[brasidas]]]
 actors_secondary: [Plataea, Mytilene, [[corinth]], [[peloponnesian-league|the Peloponnesian League]]]
 event_type: war
 scale_immediate: regional
@@ -95,7 +95,7 @@ his own class (the *stasis* between *demos* and oligarchs). See [[classical-gree
 
 ## Related
 
-- Phase of: [[peloponnesian-war]] · combatants: [[athens]] · [[sparta]] · [[corinth]]
+- Phase of: [[peloponnesian-war]] · combatants: [[places/athens|Athens]] · [[sparta]] · [[corinth]]
 - People: [[pericles]] · [[cleon]] · [[brasidas]] · [[thucydides]]
 - Events: [[plague-of-athens-430bce]] · [[thirty-years-peace-446bce]] · next:
   [[sicilian-expedition]]

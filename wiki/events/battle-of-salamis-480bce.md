@@ -76,6 +76,6 @@ Hammond reconstructs the tactics from the wind, the ship-types, and the crescent
 
 ## Related
 
-- Architect: [[themistocles]] · fleet allies: [[aegina]] · [[athens]] · foe: [[xerxes-i]] · prelude: [[battle-of-thermopylae-480bce]]
+- Architect: [[themistocles]] · fleet allies: [[aegina]] · [[places/athens|Athens]] · foe: [[xerxes-i]] · prelude: [[battle-of-thermopylae-480bce]]
 - Sequel: [[battle-of-plataea-479bce]] (and Mycale) · the new sea power: [[athenian-democracy]] · ship: [[trireme]]
 - Period: [[classical-antiquity]] · source-critique: [[herodotus-reliability]] · Source: [[boardman-cah-v4-1988]] (Ch. 10, Hammond)

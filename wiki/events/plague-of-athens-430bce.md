@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece]
 location: [Athens]
-actors_primary: [[[athens]], [[pericles]]]
+actors_primary: [[[places/athens|Athens]], [[pericles]]]
 actors_secondary: [the Athenian population packed within the Long Walls]
 event_type: epidemic
 scale_immediate: local

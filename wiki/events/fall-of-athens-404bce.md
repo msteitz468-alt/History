@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [aegean, anatolia, central-greece]
 location: [Ionia, the Hellespont, Athens]
-actors_primary: [[[athens]], [[sparta]], [[lysander]], [[achaemenid-empire|Persia]], [[alcibiades]]]
+actors_primary: [[[places/athens|Athens]], [[sparta]], [[lysander]], [[achaemenid-empire|Persia]], [[alcibiades]]]
 actors_secondary: [Tissaphernes, Pharnabazus, Cyrus the Younger, Theramenes, Cleophon, Conon]
 event_type: war
 scale_immediate: regional
@@ -94,7 +94,7 @@ powerful but "surely incomplete," neglecting the missed opportunities for peace.
 
 ## Related
 
-- Combatants: [[athens]] · [[sparta]] · [[lysander]] · [[achaemenid-empire]] · people:
+- Combatants: [[places/athens|Athens]] · [[sparta]] · [[lysander]] · [[achaemenid-empire]] · people:
   [[alcibiades]] · Theramenes · Cyrus the Younger
 - War: [[peloponnesian-war]] · cause: [[sicilian-expedition]] · contrast:
   [[fall-of-the-western-roman-empire|later imperial falls]]

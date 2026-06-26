@@ -11,8 +11,8 @@ actors_secondary: [Soviet Union, Cuba]
 event_type: war
 scale_immediate: regional
 scale_consequential: hemispheric
-causes: []
-consequences: []
+causes: [US containment policy against Soviet/Cuban influence in Latin America after Cuban Revolution, support for anti-communist regimes and insurgencies (Contras, Salvadoran government), Sandinista revolution in Nicaragua and civil wars in El Salvador/Guatemala]
+consequences: [Prolonged civil conflicts with tens of thousands dead, US involvement via Iran-Contra scandal, eventual peace processes and democratic transitions in 1990s, long-term instability and migration impacts in the region]
 sources_ingested: 0
 last_updated: 2026-06-24
 tags: [event, cold-war, central-america]

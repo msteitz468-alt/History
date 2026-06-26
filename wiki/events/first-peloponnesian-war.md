@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece, peloponnese, aegean]
 location: [the Megarid, the Saronic Gulf, Boeotia, the Corinthian Gulf]
-actors_primary: [[[athens]], [[delian-league|the Athenian alliance]], [[corinth]], [[aegina]], [[sparta]]]
+actors_primary: [[[places/athens|Athens]], [[delian-league|the Athenian alliance]], [[corinth]], [[aegina]], [[sparta]]]
 actors_secondary: [Argos, Thessaly, Megara, Boeotia, [[pericles]], Myronides, Tolmides]
 event_type: war
 scale_immediate: regional
@@ -85,7 +85,7 @@ epigraphic casualty lists. See [[classical-greek-historiography]].
 
 ## Related
 
-- Belligerents: [[athens]] · [[delian-league]] · [[corinth]] · [[aegina]] · [[sparta]] ·
+- Belligerents: [[places/athens|Athens]] · [[delian-league]] · [[corinth]] · [[aegina]] · [[sparta]] ·
   Argos · Megara
 - People: [[pericles]] · [[cimon]] · Myronides · Tolmides
 - Outcome/context: [[thirty-years-peace-446bce]] · [[peace-of-callias-449bce]] ·

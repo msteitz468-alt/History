@@ -70,6 +70,6 @@ patriotic cult and by a law forbidding insults to the Tyrannicides' memory.
 
 ## Related
 
-- Victim: [[pisistratidae]] (Hipparchus) · regime: [[greek-tyranny]] · state: [[athens]]
+- Victim: [[pisistratidae]] (Hipparchus) · regime: [[greek-tyranny]] · state: [[places/athens|Athens]]
 - Aftermath: the fall of the [[pisistratidae|tyranny]] (510) → [[cleisthenic-reforms-508bce]] → [[isonomia]]
 - Period: [[archaic-period]] · Source: [[boardman-cah-v4-1988]] (Ch. 4, D. M. Lewis)

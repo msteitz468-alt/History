@@ -6,7 +6,7 @@ date_precision: exact
 period: [long-19th-century]
 region: [north-america]
 location: [Manassas, Virginia]
-actors_primary: [[john-pope]], [[robert-e-lee]]
+actors_primary: [[john-pope]], [[actors/robert-e-lee|Robert E. Lee]]
 actors_secondary: [[thomas-j-jackson]], [[james-longstreet]]
 event_type: battle
 scale_immediate: regional

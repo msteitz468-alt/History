@@ -44,7 +44,7 @@ It marked the formal end of parliamentary democracy in Germany and the birth of 
 
 ## Actors
 
-- **[[adolf-hitler]]**: Demanded and received the Act; used it to dismantle the constitution.
+- **[[actors/adolf-hitler|Adolf Hitler]]**: Demanded and received the Act; used it to dismantle the constitution.
 - NSDAP parliamentary leadership (Frick, Göring): Managed the vote.
 - [[alfred-hugenberg]] and DNVP: Voted in favour, believing it served their ends.
 - Centre Party leadership: Voted yes under pressure and illusion of safeguards.
@@ -59,7 +59,7 @@ Kershaw places the Enabling Act within the broader ‘Machtergreifung’ phase (
 ## Sources
 
 - Kershaw (range): explicit mention of enabling act in August 1932 context; broader ch. 10–11 treatment of the transfer and immediate aftermath.
-- Cross-links: [[appointment-of-hitler-30-january-1933]], [[reichstag-election-september-1930]], [[13-august-1932-hindenburg-rejection]], [[adolf-hitler]], [[franz-von-papen]]
+- Cross-links: [[appointment-of-hitler-30-january-1933]], [[reichstag-election-september-1930]], [[13-august-1932-hindenburg-rejection]], [[actors/adolf-hitler|Adolf Hitler]], [[franz-von-papen]]
 
 ---
 

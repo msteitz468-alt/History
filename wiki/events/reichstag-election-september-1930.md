@@ -52,7 +52,7 @@ The election victory made this continued high level of agitation possible. The n
 
 ## Actors
 
-- [[adolf-hitler]]: Central figure; his message of national redemption through strength and unity captured the protest mood.
+- [[actors/adolf-hitler|Adolf Hitler]]: Central figure; his message of national redemption through strength and unity captured the protest mood.
 - [[joseph-goebbels]]: Newly appointed Propaganda Leader; directed the massive campaign of 34,000 meetings.
 - Heinrich Brüning: Chancellor whose dissolution decision opened the door.
 - Established bourgeois parties (DNVP, DVP): Major losers whose voters defected en masse.
@@ -66,7 +66,7 @@ Kershaw emphasizes that the breakthrough was not the product of Nazi genius alon
 ## Sources
 
 - Primary grounding: Kershaw (range 03, lines ~2727–3660+), including contemporary voter accounts, Goebbels diary notes, election statistics, Brüning memoirs, and press reactions.
-- Cross-links: [[great-depression]], [[heinrich-bruening]], [[joseph-goebbels]], [[adolf-hitler]], [[periods/world-wars-era]]
+- Cross-links: [[great-depression]], [[heinrich-bruening]], [[joseph-goebbels]], [[actors/adolf-hitler|Adolf Hitler]], [[periods/world-wars-era]]
 
 ---
 

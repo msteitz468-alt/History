@@ -11,8 +11,8 @@ actors_secondary: []
 event_type: war
 scale_immediate: regional
 scale_consequential: hemispheric
-causes: []
-consequences: []
+causes: [Superpower proxy competition in decolonizing southern Africa (Angola, Mozambique, Namibia, South Africa apartheid conflicts), Cuban/Soviet support for MPLA and other movements, US/South African opposition to communist expansion]
+consequences: [Prolonged regional wars, eventual independence/transition in Namibia and South Africa, economic devastation, ongoing legacy in post-apartheid politics and regional stability]
 sources_ingested: 0
 last_updated: 2026-06-24
 tags: [event, cold-war, southern-africa]

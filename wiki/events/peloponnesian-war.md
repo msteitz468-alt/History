@@ -6,7 +6,7 @@ date_precision: year
 period: [Classical Antiquity]
 region: [central-greece, peloponnese, aegean, italy, anatolia]
 location: [Greece, the Aegean, Sicily, the Hellespont]
-actors_primary: [[[athens]], [[delian-league|the Athenian empire]], [[sparta]], [[peloponnesian-league|the Peloponnesian League]], [[corinth]]]
+actors_primary: [[[places/athens|Athens]], [[delian-league|the Athenian empire]], [[sparta]], [[peloponnesian-league|the Peloponnesian League]], [[corinth]]]
 actors_secondary: [[[pericles]], [[cleon]], [[brasidas]], [[syracuse]], [[achaemenid-empire|Persia]], Alcibiades, Lysander]
 event_type: war
 scale_immediate: regional
@@ -22,7 +22,7 @@ tags: [event, classical-antiquity, central-greece, greece]
 
 ## Overview
 
-The **Peloponnesian War** was the great conflict between **[[athens]]** (with its
+The **Peloponnesian War** was the great conflict between **[[places/athens|Athens]]** (with its
 [[delian-league|maritime empire]]) and **[[sparta]]** (with the
 [[peloponnesian-league|Peloponnesian League]]) that consumed the Greek world for a
 generation and ended Athenian power. [[lewis-cah-v5-1992|CAH Vol. V]] (Chs. 9–11; Lewis,
@@ -35,7 +35,7 @@ the war is understood. It falls into three phases:
 2. **The Peace of Nicias and the [[sicilian-expedition|Sicilian Expedition]]** (421–413) —
    the unstable interlude and Athens' catastrophic gamble against [[syracuse|Syracuse]].
 3. **The Ionian (Decelean) War** (413–404) — Spartan war from the fort at Decelea, Persian
-   money (new treaty Feb 411 conceding Asian Greeks), the oligarchic revolution of 411 at [[places/athens]] (Four Hundred coup, Five Thousand interlude), Hellespont naval recovery (Cynossema, Cyzicus), and the **[[fall-of-athens-404bce|fall of Athens]]**. (See Kagan range on aftermath of Sicily, Rhodes/Euboea crises, Alcibiades' role, and Thrasybulus' Hellespont command.)
+   money (new treaty Feb 411 conceding Asian Greeks), the oligarchic revolution of 411 at [[places/athens|Athens]] (Four Hundred coup, Five Thousand interlude), Hellespont naval recovery (Cynossema, Cyzicus), and the **[[fall-of-athens-404bce|fall of Athens]]**. (See Kagan range on aftermath of Sicily, Rhodes/Euboea crises, Alcibiades' role, and Thrasybulus' Hellespont command.)
 
 ## The causes — aitiai and the "truest cause"
 
@@ -95,7 +95,7 @@ viewpoint distorts the picture of allied loyalty (see [[classical-greek-historio
 ## Related
 
 - Phases: [[archidamian-war]] · [[sicilian-expedition]] · [[fall-of-athens-404bce]]
-- Belligerents: [[athens]] · [[sparta]] · [[delian-league]] · [[peloponnesian-league]] ·
+- Belligerents: [[places/athens|Athens]] · [[sparta]] · [[delian-league]] · [[peloponnesian-league]] ·
   [[corinth]] · [[syracuse]] · [[achaemenid-empire]]
 - People: [[pericles]] · [[cleon]] · [[brasidas]] · [[thucydides]]
 - Background: [[thirty-years-peace-446bce]] · [[plague-of-athens-430bce]] ·

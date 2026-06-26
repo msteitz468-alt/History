@@ -6,7 +6,7 @@ date_precision: exact
 period: [long-19th-century]
 region: [north-america]
 location: [The Wilderness, Virginia]
-actors_primary: [[ulysses-s-grant]], [[george-g-meade]], [[robert-e-lee]]
+actors_primary: [[ulysses-s-grant]], [[george-g-meade]], [[actors/robert-e-lee|Robert E. Lee]]
 actors_secondary: [[james-longstreet]]
 event_type: battle
 scale_immediate: regional
