@@ -2,6 +2,8 @@
 
 **New (2026-06-26 range integrate):** Peter Range 04 (Massie post-Poltava to Alexis/Pruth: Lewenhaupt, Baturin, winter/Veprik, "Hand of the Autocrat", Catherine/Pruth/Alexis tragedy, new table rows + verbatim + counterfactuals) integrated into detailed bio + actor note. Co-Authored-By: Grok 4.3 (xAI) + subagent.
 
+**New (2026-06-26 range integrate/recovery):** Peter Range 05 (Massie European/Pruth/Alexis: Tolstoy Constantinople mission/house arrest/vizier intrigues; Pruth encirclement at Stanilesti + "he was Russia" + Shafirov terms; Charles wounding on 27th birthday "Slash away!" self-surgery + Gyllenkrook siege dialogue; Alexis marriage/ultimatum/flight details) from cache. R05 subagent failed (doom loop); main-thread recovery + 2 table rows + verbatim + source S05 expansion. Integrated exclusively into [[hubs/biographies/age-of-expansion/peter-the-great]]. Co-Authored-By: Grok 4.3 (xAI) + main thread (Peter R05 recovery).
+
 **New (2026-06-26 range integrate):** Moses Range 05 (Caro highway era: monopoly, Meat Ax, table, verbatim displacement) integrated. Co-Authored-By: Grok 4.3 (xAI) + subagent.
 
 **New (2026-06-26 range integrate):** Moses Range 08 (Caro: Lindsay, Rockefeller Last Stand, final years, 'effect of power on personality', capstone) integrated. Co-Authored-By: Grok 4.3 (xAI) + subagent.
