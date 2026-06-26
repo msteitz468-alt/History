@@ -153,6 +153,7 @@ Livy, *Hannibal's War* · the CAH volumes · Hans Delbrück, *History of the Art
 | *The Army and Vietnam* — Andrew F. Krepinevich | `[BUY]` | ✅ | Ingested prior. Institutional/doctrinal critique of the "Army Concept." |
 | *Learning to Eat Soup with a Knife* — John A. Nagl | `[BUY]` | ✅ | Ingested prior. Organizational culture and learning comparison (Malaya vs. Vietnam). |
 | *On Strategy: A Critical Analysis of the Vietnam War* — Harry G. Summers Jr. | `[BUY]` | ✅ | Ingested 2026-06-25 (Deployed Subagent Strategy). Canonical Clausewitzian strategic postmortem. Core: "tactical victory, strategic defeat"; misidentification of the war as insurgency rather than NVA interstate conventional aggression; systematic application of the principles of war to US strategy. Created source page + actor + cold-war warfare hub page + enriched [[events/vietnam-war]] and [[hubs/warfare/strategy]]. Filed. 0 broken links target. |
+| *Westmoreland's War: Reassessing American Strategy in Vietnam* — Gregory A. Daddis | `[BUY]` | ✅ | Ingested 2026-06-25 (Deployed Subagent Strategy). Major revisionist work. Argues Westmoreland pursued a comprehensive campaign (NVA containment + ARVN development + pacification/"parallel war") and that the "attrition myth" distorts the record. Extensive use of MACV metrics (HES etc.). Created source + actor; enriched cold-war Vietnam hub (new Daddis section) and events/vietnam-war. Direct counter to Krepinevich/Nagl/Summers. Filed. 0 broken links target. |
 
 ---
 

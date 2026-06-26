@@ -14,7 +14,7 @@ casualties_b: [NVA/VC estimates 500k–1M+ military; civilian toll in millions a
 scale_immediate: regional
 scale_consequential: global
 event_page: [[events/vietnam-war]]
-key_sources: [[sources/summers-on-strategy-1982]], [[sources/krepinevich-the-army-and-vietnam-1986]], [[sources/nagl-learning-to-eat-soup-with-a-knife-2005]], [[sources/heuser-evolution-of-strategy-2010]]
+key_sources: [[sources/summers-on-strategy-1982]], [[sources/krepinevich-the-army-and-vietnam-1986]], [[sources/nagl-learning-to-eat-soup-with-a-knife-2005]], [[sources/daddis-westmorelands-war-2014]], [[sources/heuser-evolution-of-strategy-2010]]
 last_updated: 2026-06-25
 tags: [hub, warfare, cold-war, vietnam-war, strategy]
 # Range 04 (Summers Ch. 15, Epilogue, Appendix) added: coalition warfare overinvolvement/dependence, Epilogue lessons (principles as interrogatories, battle-ax, victory definition, public honesty, mission analysis), verbatim principle framework from Appendix, biographical note, quintessence lesson. Prioritized Epilogue synthesis + cross to source Range 04 block.
@@ -29,6 +29,134 @@ Reciprocal link: [[events/vietnam-war]] (see "Related" or "Strategic Analysis" s
 ## Strategic Context & Objectives (Summers framework)
 
 The decisive question, per Clausewitz and Summers, is the first and most comprehensive: "the kind of war on which they are embarking; neither mistaking it for, nor trying to turn it into, something that is alien to its nature."
+
+## Daddis Reassessment: Comprehensive Campaign Strategy vs. the "Myth of Attrition" (2014)
+
+Daddis (*Westmoreland's War*, 2014; Range 01 exclusive: Preface, Introduction, Ch. 1 "Conceiving Strategy for the Cold War Era", early Ch. 2) directly challenges the dominant post-war narrative (Krepinevich, Nagl, many contemporary journalists and later historians) that Westmoreland and MACV pursued a narrow, almost mindless "strategy of attrition" reducible to search-and-destroy and body counts. 
+
+"Attrition. In the last five decades, the word has become synonymous with American strategy in the Vietnam War." Popular histories "recycle shopworn phrases like 'search and destroy,' 'big unit war,' and 'body counts' to simplify... an immensely complex war." The label "evolved into an unquestioned truth for explaining the war's outcome." (Preface)
+
+Instead, Daddis argues that Westmoreland developed and sought to implement a **comprehensive campaign strategy** that explicitly addressed three simultaneous missions inside South Vietnam. "Central to this work’s argument is the contention that Westmoreland not only devised a sound military strategy but that the general was not the unthinking officer who is presented so contemptuously in many history books." "It is possible... to devise a sound strategy and still lose." (Preface)
+
+Westmoreland's chief intelligence officer "drew attention to MACV’s diverse undertakings. As Phillip B. Davidson recalled, the general 'had not one battle, but three to fight: first, to contain a growing enemy conventional threat; second, to develop the Republic of Vietnam’s Armed Forces (RVNAF); and third, to pacify and protect the peasants in the South Vietnamese countryside. Each was a monumental task.'" Westmoreland "had to develop a concept of operations for the employment of US forces in South Vietnam, provide advice and assistance to the RVNAF, support civil operations and pacification..." "Political, economic, and psychological victory is equally important, and support of Revolutionary Development is mandatory." (Introduction)
+
+1. **Containment of the external NVA conventional threat** — large-unit operations, spoiling attacks, and efforts to prevent the enemy from massing for decisive blows.
+2. **Development and support of the RVNAF/ARVN** — a long-term advisory and training effort so that South Vietnam could ultimately defend itself (the war was always intended to retain a Vietnamese character).
+3. **Pacification and population security — the "parallel war"** — clearing and holding operations, support to Revolutionary Development, CORDS, Hamlet Evaluation System (HES) metrics, and civil-military programs aimed at separating the population from the insurgents and building government presence.
+
+Daddis demonstrates through MACV records, commander's conferences, and reporting systems that the command tracked far more than simple body counts. The questions driving the book: "If army officers cared only about killing the enemy, why were 'body counts' supplemented with metrics that measured population security, economic development, political stability, and scores of nonmilitary programs?" "Was it possible that Americans understood that victory or defeat in Southeast Asia turned on more than just military factors? Was it possible that US strategy in Vietnam was more than just one of attrition?" (Preface; Introduction)
+
+He shows that Westmoreland and many senior officers understood the war required political, economic, and military action in combination, not a pure Jominian battle of annihilation. Westmoreland "embraced this broader definition of strategy instead of focusing strictly on destruction of the enemy’s military forces." The 1964 Army definition: "the 'art and science of developing and using the political, economic, psychological, and armed forces of a nation, during peace and during war, to afford the maximum support of national policies...'" (Introduction)
+
+This view contrasts sharply with:
+- Krepinevich's "Army Concept" critique (big-unit conventional war culture prevented adaptation to COIN).
+- Nagl's organizational learning failure thesis.
+- Summers' argument that the fundamental error was treating an interstate war as an insurgency.
+
+Daddis does not claim the strategy was perfectly executed or that it guaranteed victory. In the Conclusion (foreshadowed) he acknowledges the profound limits of any external military strategy in a post-colonial revolutionary environment where the South Vietnamese state struggled with legitimacy and nation-building. "Talented American generals can develop and implement a comprehensive political-military strategy and still lose a war." (Introduction)
+
+**Cold War doctrinal and intellectual context (Range 01, Ch. 1)**: Containment "guided Cold War strategy for decades." Decolonization ("the liquidation of colonial empires") and "revolutionary nationalism" created vulnerabilities; US officers studied Mao ("fish swimming in the sea of the people"; theories "integrated, encompassing... military, political, economic, sociological and psychological"). "Wars could no longer be won by military means alone." Doctrine viewed insurgency/counterinsurgency as "political, social, and economic rather than military problems." Army embraced "flexible response" and "spectrum of warfare" (1962 FM 100-5). Counterinsurgency: "those military, paramilitary, political, economic, psychological, and civic actions..." including "pacification committees" and intelligence on "popular hunger for social improvement." Officers studied Philippines (Magsaysay civic action), French *guerre révolutionnaire*, Malaya; McNamara: "security is development." Westmoreland as West Point superintendent "mandated counterinsurgency instruction be included in the core curriculum" with a Counterinsurgency Committee and 54 hours integrated across academics and training. (Ch. 1)
+
+**Early transition from advice to war (Range 01, early Ch. 2)**: "The United States did not rush frantically to war in 1965." Incremental from MAAG advisory (1950) through MACV (1962). MAAG chiefs Williams and McGarr articulated holistic plans: "Military operations alone are not sufficient for success as there are really two objectives: the destruction of the guerrilla force and the elimination of the Communist influence on the civilian population." "An over-all plan at Government level embracing political, psychological, economic, administrative and military action is necessary." McGarr: "clearing and holding." CIP objectives prefigured the three missions. By Westmoreland's 1964 arrival "key US officials had been debating strategic issues for nearly five years and most understood that any policy for Vietnam required more than simply military might." Westmoreland warned against escalation until GVN had a "reasonably firm political, military, and psychological base." (early Ch. 2)
+
+**Key Daddis contributions for the hub**:
+- Restores complexity to Westmoreland's actual command responsibilities (three wars, not one).
+- Shows the "parallel war" was not marginal but integral.
+- Documents the use of non-kinetic and security metrics alongside kinetic ones.
+- Documents extensive pre-1965 army engagement with unconventional warfare doctrine, education, and case studies (Mao, civic action, revolutionary development).
+- Forces a more precise historical question: Was the strategy attempted and merely insufficient, or was it never truly a comprehensive strategy at all?
+
+See full claims and verbatim grounding in [[sources/daddis-westmorelands-war-2014]] (Range 01 Extraction). Cross-reference with the Summers, Krepinevich, and Nagl sections above for the ongoing debate. `produced:` deeper nuance on [[concepts/counterinsurgency]] and [[concepts/army-concept]]; `contrasts_with:` narrow attrition portrayals.
+
+### Range 02 Additions (Ch. 2–3 exclusive: escalation transition 1964–65; Myth of Attrition metrics / population COG / concept vs. critics)
+
+**1964–65 transition and escalation decisions (Ch. 2):** Tonkin Resolution gave Johnson expedient justification; "the Tonkin incident compelled Johnson to accept greater responsibility for the south’s survival." McNamara: limits of present policy but "had to choose between two alternatives: either expand our military support of Vietnam or withdraw." Pleiku raid (7 Feb 1965) triggered Flaming Dart; Rolling Thunder inadequate. Marines landed Da Nang March 1965 for base security/enclave; "it did not take long, however, for the mission, and the troops to support that mission, to rapidly expand." Westmoreland requested 44 maneuver battalions June 1965 as "force ratios" shifted; "US troops could 'successfully take the fight to the VC'".
+
+Westmoreland/Taylor initially resisted ground forces: "unless a 'fairly effective government' existed in Saigon, 'no amount of offensive action by the United States... has any chance by itself of reversing the deterioration underway.'" Focus remained political/pacification: urgent need to "coordinate pacification efforts"; Rand study on village evolution from insurgent to GVN control. "we are in for the long pull." "We are deluding ourselves if we feel some novel arrangement is going to get quick results."
+
+Krulak (later critic) described Marines' "balanced strategy" (security to people, expand pacified areas, train locals, go after organized units when fixed) as "remarkably similar to the MACV commander’s own 'multipronged' approach."
+
+**"Myth of Attrition" (Ch. 3):** "Attrition" convenient shorthand; "one part of the three-pillared strategy was being mistaken for the whole." Three pillars: attrition, pacification, ARVN training. Westmoreland "used the phrase attrition in both private memoranda... and in public, yet he early on recognized that killing the enemy was not an end unto itself. More important, attrition served as a means to express concern over maintaining morale during the 'long pull.'"
+
+"the war in Vietnam is a political as well as a military war. It is political because the ultimate goal is to regain the loyalty and cooperation of the people..." "Reston’s advice suggests that catchphrases like 'attrition strategy,' 'counterinsurgency strategy,' and 'pacification strategy'... fail to convey the true nature of Westmoreland’s approach." "The claim that 'several years were to pass before the American command began to accept the crucial role of population security' simply does not hold up when one scrutinizes the documentary evidence."
+
+**Population as center of gravity:** "defeating the enemy’s ground forces served only as a means to the larger end of securing the south’s population." Termites (subversives) + bully boys (main force); "Neither facet could be ignored." "the insurgency in South Vietnam must eventually be defeated among the people in the hamlets and towns." 1966: main purpose of main-force ops "must be to provide the opportunity through RD to get at the heart of the matter, which is the population of South Vietnam." "Neither Westmoreland nor the American forces he led were blind to the realities of unconventional warfare."
+
+**Metrics (Honolulu 1966 + HES):** Honolulu: increase secure population 10%, roads/rail 20%, base destruction 30%; augment pacified pop 235k; attrite VC/PAVN "at a rate as high as their capability to put men in the field." "while body counts captured the attention... they constituted only one of many statistical indicators MACV employed..."
+
+HES (instituted 1967 after McNamara request for nonmilitary progress method): "graded hamlets in both security and development areas, assessing NLF military activities, local defense force capabilities, and progress in health, education, and welfare." 220+ district advisors; ~13k hamlets; ~90k pages/mo. Acknowledged limits ("data turbulence"; no urban coverage for 3.5M; access/ "American lens").
+
+**PROVN, enclaves, Marines similarities, OOB issues:** PROVN (1966) nonmilitary emphasis; 53/140 recs fully implemented, 45 partial; Westmoreland: "we were already doing pretty much all of what was recommended by PROVN." Enclave (Gavin): rejected as conceding initiative ("No one ever won a battle sitting on his ass"); "magnets"; "inglorious, static"; time factor against (enemy already held upper hand). Marines CAPs shared limits with Army (language, attitudes, inability to isolate); "balanced strategy" similarities noted.
+
+Infiltration estimates (4,500/mo rising to >6,000); OOB controversy (self-defense/secret self-defense questionable military value per Abrams; political infra); press reaction concern; compromise figures; "Claims of a conspiratorial coverup by Westmoreland... ring hollow." Johnson/McNamara/JCS aware of debate.
+
+**Context:** US faith in mil power for political change + recognition force alone insufficient ("tiger’s back"; domino prestige; Great Society export for security). Fragmented C2 (CINCPAC air/naval, no authority over GVN). Hanoi also multifaceted (Resolution 12 military emphasis; Le Duan/Giap debates). "counterinsurgency was too narrow a focus to cope with the arrival of the North Vietnamese army in the south."
+
+All verbatim from Range 02 cache only. Updates this hub + source + events + actors + concepts. `contributed_to:` balanced historiography in [[concepts/army-concept]] and [[concepts/counterinsurgency]].
+
+## ARVN/RVNAF Development and Advisory Effort (Ch. 6 — Daddis Range 04 exclusive)
+
+The third pillar of Westmoreland's comprehensive strategy — "to develop the Republic of Vietnam’s Armed Forces (RVNAF)" — was always conceived as central to making the war "Vietnamese" in character. "The war took place 'in large measure among the civilian population' " yet "the bulk of the military support of Revolutionary Development must rest on the shoulders of the ARVN." (Westmoreland speech, 8 Dec 1966)
+
+ARVN/RVNAF was tasked with simultaneous missions: large-unit combat against main forces, territorial security, and direct support to pacification/revolutionary development. Early MAAG training (1954+) had built conventional divisions modeled on US/Korea experience for external invasion, neglecting paramilitaries (Civil Guard, Self-Defense Corps) and producing an army with leadership, desertion, equipment, and political reliability problems. US advisors faced "language barriers," "cultural misunderstandings," and the perception that Vietnamese were "leaving everything to the Americans." ARVN sometimes viewed locally as a "puppet army."
+
+Post-1965, MACV intensified advisory effort via Mobile Advisory Teams (MATs) embedded at lower levels to improve small-unit performance and RD integration. By March 1967 ~40% of ARVN infantry battalions were in direct RD support. Westmoreland repeatedly pushed ARVN into the "parallel war." Yet fundamental limits persisted: high desertions, command issues, regime instability, and lack of combined US-ARVN command authority (Saigon resistance).
+
+Tet 1968 exposed both progress (ARVN units fought in places) and enduring weaknesses. Vietnamization accelerated ARVN expansion but could not quickly remedy "leadership, corruption, or promotion pathologies." The pillar remained "training an uncertain army" — the strategy's long-term bet on Vietnamese agency, always constrained by GVN realities.
+
+Grounded exclusively in Ch. 6 notes. `part_of:` the three-mission strategy; `contributed_to:` ultimate dependence on US combat power and limits of Vietnamization. Updates [[events/vietnam-war]], [[actors/westmoreland-william]], [[actors/abrams-creighton]].
+
+## Conclusion: When Strategy May Not Matter — Limits, Nation-Building, and the Uncomfortable Truth (Daddis Range 04)
+
+Even a comprehensively designed strategy — containment of external threat + RVNAF development + parallel pacification war — could not overcome the structural realities of the conflict. "It is possible... to devise a sound strategy and still lose a war."
+
+The United States "attempted to do too much": repel external aggression *and* perform nation-building for a fragile post-colonial state, unlike Korea where the ROK largely handled internal political resolution. Result: "they try to do everything... So the Vietnamese don’t rely on themselves." External support created debilitating dependence.
+
+Post-colonial nation-building faced intractable challenges inside South Vietnam: regime legitimacy deficits, corruption, leadership pathologies, social dislocation from operations and refugees. "There was no magic solution to the VC/NVA threat." MACV itself conceded this in 1966. Enemy enjoyed sanctuary, time, reinforcement from North, and superior political cohesion.
+
+The "uncomfortable truth": comprehensive political-military strategies can still fail when the host government's character, popular base, and institutional capacity are fundamentally insufficient, and when the adversary's will and external support make the contest one of endurance the external power cannot match indefinitely. "Faith in military power" had inherent limits in this environment. Vietnamization became, in critical views, a "paradigm of a new strategy of retreat."
+
+Daddis forces the precise question: not whether Westmoreland lacked a strategy, but whether any U.S. military strategy could have succeeded given the South Vietnamese state's weaknesses and Hanoi's advantages. Cross: `contrasts_with:` pure "strategy of attrition" or "institutional failure to adapt" narratives; `produced:` deeper historiography in [[events/vietnam-war]] and [[periods/cold-war]].
+
+All verbatim-grounded in Conclusion notes (e.g., Post Mortem 6 Sep 1968; Kahin & Lewis; MACV histories; "no magic solution"; Holbrook; Giap perspectives). Updates hub synthesis and [[sources/daddis-westmorelands-war-2014]] Range 04 block.
+
+
+### Implementation on Bewildering Battlefields (Range 03 exclusive: Ch. 4)
+
+**Search-and-destroy in full campaign context**: Search-and-destroy was the principal tactic within a larger attrition component of the three-mission strategy, not the entirety of it. Westmoreland repeatedly framed operations as concurrent with population security: "Friendly forces still must find, fix, fight, and destroy the enemy, and concurrently provide the necessary security for the population." (Westmoreland, post-Tet AP interview)
+
+Border battles (Dak To, Khe Sanh late 1967–early 1968) were deliberate responses to NVA main-force pressure. Westmoreland to Wheeler (10 Dec 1967): "If we do not violently contest every attempt to get NVA units into SVN, we permit him to expand his system of bases in-country. He is in a better position to support the local forces and the guerrillas in the vital battle for the people." MACV recognized Hanoi sought "to lure US forces to the periphery of Vietnam in order to disperse them and draw them away from populated areas." The vacuum exposed RF/PF, yet the main-force threat could not be ignored without risking collapse of the overall effort. These operations were "clearing" actions intended to create conditions for holding/pacification, not ends in themselves. (Range 03)
+
+**"Bewildering battlefields" — hybrid war implementation realities**: The environment demanded simultaneous conventional containment, advisory development, and pacification. "The conflict’s intricacies demanded more from Westmoreland than merely choosing between attrition and pacification." US units conducted large operations against NVA/VC main forces while attempting to support clearing/holding and revolutionary development in populated areas. The result was inherent tension, not willful neglect of one dimension.
+
+### The Parallel War: Pacification, CORDS, Revolutionary Development, and Civil-Military Integration (Range 03 exclusive: Ch. 5)
+
+**Core tension**: "The elements of the parallel war in fact tended to work against one another. The destruction caused by military engagements undermined the construction aims of pacification planners." Officers recognized the dilemma and sought mitigation, but main-force destruction could not be deprioritized.
+
+**CORDS and integration efforts**: Westmoreland focused on integrating CORDS into MACV’s larger strategy. In August 1967 he directed senior division advisors to better train ARVN battalions for provincial pacification and security, and to ensure "operations against main forces are coordinated with pacification activities to provide optimum concerted effort against the enemy." A nine-step 1968 action program emphasized "civil/military pacification teams" to supplement revolutionary development, greater GVN involvement, and local officials’ "personal commitment to the pacification progress." Planning improved under CORDS, but "implementation still 'was not conducted as a unified effort.'"
+
+**Metrics and population security**: MACV tracked HES and other indicators alongside body counts. Komer (CORDS chief) at May 1968 conference: "In terms of hamlets, we lost 38% of our Tet holdings; we now have a functioning GVN controlled administration in but 4500 of 12,500 hamlets. In population, our losses from the secure category amounted to 2.7 million people." "Without continuous local security to keep the VC away from the farmer, the rest of pacification can’t even get underway." "Without security there is nothing." (Quang Ngai advisor)
+
+**"There must be a parallel pacification offensive"** (Komer): Operation Recovery post-Tet aimed at civil recovery, economy revival, and local security to demonstrate GVN commitment. Yet Tet exposed fragility: "Tet, more than any other battle in the Vietnam War, exposed the fragility of MACV’s pacification program." One DoD analysis: "the enemy’s current offensive appears to have killed the (pacification) program once and for all." Post-Tet NLF infrastructure "is still very much with us" and "capable of exerting a varying degree of control over large segments of the population." Best achievable outcome: "a political and military stalemate."
+
+**Clearing and holding in practice**: US/ARVN "clear" main-force threats ("bully boys"); Vietnamese territorial forces (RF/PF) and Revolutionary Development cadre "hold" and build government presence ("termites"). Westmoreland 1965: "to make a major effort to fill in behind US and ARVN forces in areas to be pacified with regional and popular forces and pacification cadre." "US forces are more aggressive, have a greater capability and will inevitably find themselves involved in many of the tougher fights but by no means all of them." "The RD program can grow only as fast as our side can provide the RF/PF troops to secure and pacify the new areas we have seized from the enemy."
+
+**Advisory and cultural limits on civil-military work**: Colonel H.W. Lange’s 1967 "Frustration Points" report to Komer detailed barriers: "apparent lack of a common US goal at the working level"; "inherent barriers" US-Vietnamese; short tours destroyed institutional memory ("the person never understands any of the problems"); logistics by "scrounging" and "hitch-hiking." Komer postwar: "Our pacification advisory efforts suffered... from inadequate appreciation of the realities of Vietnamese social structure, behavior patterns, and motivations." Maj. Gen. Nguyen Duc Thang: "Many people no longer like the Vietcong, but this does not mean they like us. We must not make the old mistakes and try to force people to cooperate. We must convince them."
+
+**Revolutionary Development specifics**: RD cadre and programs central to parallel effort. US role deliberately supporting/indigenous: "primary responsibility for conducting counterinsurgency operations must rest with the local government." Civic action: "use of preponderantly indigenous military forces on projects useful to the local population." MACV sponsored Revolutionary Development centers (e.g., Vung Tau) for training.
+
+**Limits acknowledged by Daddis**: Even with integration attempts, "Pacification was a violent process." External force could not fabricate "a political society loyal to officials in Saigon." "Too many civilians refused to honor the social contract advertised in counterinsurgency doctrine." "The National Liberation Front held the 'psychological advantage in the countryside because they have an organization which permits their power to appear ubiquitous.'"
+
+**Range 03 synthesis for hub**: Daddis shows the "parallel war" was doctrinally and programmatically integral (CORDS as deputy COMUSMACV-level, HES metrics, RD as pillar, explicit clearing/holding logic, coordination directives), not an afterthought. Implementation faced structural cross-purposes (kinetic destruction vs. security/building), advisory friction, GVN weaknesses, and enemy resilience. Westmoreland did not "ignore" pacification; he could not subordinate main-force containment without risking the population centers the parallel war aimed to secure. This directly enriches the warfare hub's analysis of strategy execution at operational/tactical interface. See full verbatim in [[sources/daddis-westmorelands-war-2014]] Range 03 block. Contrasts with Krepinevich/Nagl emphasis on institutional prioritization of big-unit war; complements Summers on nature-of-war diagnosis by showing the multifaceted plan that was attempted.
+
+U.S. (and South Vietnamese) objectives were never stated with the clarity required for military planning:
+- Publicly framed as containing communism / preventing the fall of South Vietnam (domino theory).
+- Militarily executed primarily as attrition of "VC" forces inside South Vietnam through search-and-destroy.
+- Never clearly defined what "victory" or even "success" would look like in concrete, attainable terms (restoration of a stable non-communist South? destruction of the VC infrastructure? defeat of the NVA?).
+
+North Vietnamese objective: reunification under communist control by whatever means and duration necessary (Giap: fight 10, 25, 50 years).
+
+**Range 02 early engagement (Ch. 8 Ia Drang, Nov 1965):** 32nd, 33rd and 66th NVA regiments clashed with US 1st Cavalry Division. "On a strategic scale, a brilliant spoiling attack had completely derailed Hanoi’s hopes of earning a decisive victory before full American might could be deployed to South Vietnam... the NVA unit had been sent reeling in retreat. For the moment, at least, an adverse tide had been reversed." "Now was the time for the United States to take the offensive." Instead the response turned inward to the guerrilla symptom.
 
 U.S. (and South Vietnamese) objectives were never stated with the clarity required for military planning:
 - Publicly framed as containing communism / preventing the fall of South Vietnam (domino theory).
