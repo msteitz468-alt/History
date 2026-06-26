@@ -9,7 +9,7 @@ affiliated_with: [Republican Party, Whig Party, Union, Illinois political circle
 opposed_by: [Confederate States of America, Stephen A. Douglas, Copperheads, Radical Republicans (at times)]
 key_events: [1832 Black Hawk War service, 1834 election to Illinois legislature, 1846 election to U.S. House, 1858 Lincoln-Douglas debates, 1860 presidential election, Fort Sumter and Civil War outbreak 1861, Emancipation Proclamation 1863, Gettysburg Address 1863, reelection 1864, assassination by John Wilkes Booth 1865]
 key_processes: [rise of Republican Party, abolition of slavery, preservation of the Union, modernization of warfare and command, expansion of presidential power in crisis]
-sources_ingested: 2
+sources_ingested: 2 (re-ingest 2026-06-25/26 via full Deployed Subagent Strategy on both dedicated bios; detailed hub page expanded to 5,135+ words)
 last_updated: 2026-06-25
 tags: [actor, person, long-19th-century, north-america, abraham-lincoln, civil-war, emancipation, presidency, republican-party]
 ---

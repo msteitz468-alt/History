@@ -14,7 +14,7 @@ casualties_b: [NVA/VC estimates 500k–1M+ military; civilian toll in millions a
 scale_immediate: regional
 scale_consequential: global
 event_page: [[events/vietnam-war]]
-key_sources: [[sources/summers-on-strategy-1982]], [[sources/krepinevich-the-army-and-vietnam-1986]], [[sources/nagl-learning-to-eat-soup-with-a-knife-2005]], [[sources/daddis-westmorelands-war-2014]], [[sources/heuser-evolution-of-strategy-2010]]
+key_sources: [[sources/summers-on-strategy-1982]], [[sources/krepinevich-the-army-and-vietnam-1986]], [[sources/nagl-learning-to-eat-soup-with-a-knife-2005]], [[sources/daddis-westmorelands-war-2014]], [[sources/willbanks-vietnam-the-course-of-a-conflict-2018]], [[sources/heuser-evolution-of-strategy-2010]]
 last_updated: 2026-06-25
 tags: [hub, warfare, cold-war, vietnam-war, strategy]
 # Range 04 (Summers Ch. 15, Epilogue, Appendix) added: coalition warfare overinvolvement/dependence, Epilogue lessons (principles as interrogatories, battle-ax, victory definition, public honesty, mission analysis), verbatim principle framework from Appendix, biographical note, quintessence lesson. Prioritized Epilogue synthesis + cross to source Range 04 block.
@@ -67,6 +67,150 @@ Daddis does not claim the strategy was perfectly executed or that it guaranteed 
 - Forces a more precise historical question: Was the strategy attempted and merely insufficient, or was it never truly a comprehensive strategy at all?
 
 See full claims and verbatim grounding in [[sources/daddis-westmorelands-war-2014]] (Range 01 Extraction). Cross-reference with the Summers, Krepinevich, and Nagl sections above for the ongoing debate. `produced:` deeper nuance on [[concepts/counterinsurgency]] and [[concepts/army-concept]]; `contrasts_with:` narrow attrition portrayals.
+
+## Willbanks: Operational Course of the Conflict (2018)
+
+Willbanks (*Vietnam: The Course of a Conflict*, 2018) is a collection of focused operational studies by a former US advisor (Easter Offensive 1972) and longtime CGSC military historian. It supplies concrete campaign, battle, and phase detail essential for warfare-hub depth.
+
+Key contributions by chapter (to be expanded with subagent claims):
+- Advisory period and training indigenous forces (Ch. 1).
+- Free World Military Forces ("More Flags") (Ch. 2).
+- Operation JUNCTION CITY (Ch. 3) — large-scale conventional search-and-destroy.
+- Tet Offensive as turning point and Battle of Hue (Ch. 4–5) — urban combat, command and control problems, intelligence failures both sides.
+- Intelligence failures analysis (Ch. 6).
+- CORDS/Phoenix pacification lessons (Ch. 7).
+- Vietnamization as incomplete exit strategy (Ch. 8).
+- Lam Son 719 (Ch. 9).
+- Battle of An Loc as ARVN case study (Ch. 10, 1972 Easter Offensive).
+- Final 55 days and Fall of Saigon (Ch. 11).
+
+Willbanks emphasizes the hybrid character of the war, recurring ARVN performance issues, difficulties of pacification and Vietnamization, and the challenges of command in a multinational, multi-mission environment. Excellent source for OOB, phases, critical decisions, and lessons in specific battles/campaigns.
+
+See [[sources/willbanks-vietnam-the-course-of-a-conflict-2018]] for full extraction. This source is the primary operational backbone for fleshing out the cold-war Vietnam warfare hub with concrete campaign history. Cross-reference with Daddis (strategy reassessment), Summers (strategic critique), Krepinevich (institutional), and Nagl (learning).
+
+## Willbanks Range 03 (exclusive /tmp/willbanks-ranges/range_3_6501-9500.txt): Vietnamization + CORDS/Pacification Advisory, Lam Son 719, An Loc (ARVN Case Studies)
+
+**Ownership focus:** Pacification (CORDS/Phoenix), Vietnamization as incomplete strategy, Lam Son 719, Battle of An Loc (ARVN case study). Hub depth pages created for the campaigns.
+
+**Vietnamization advisory & pacification transition (Ch. 8):** "In terms of the sheer volume of materiel... Vietnamization worked." RVNAF "one of the largest and best-equipped" by 1970. Gaps remained in fighting ability. CORDS province/district teams advised on "civil and military aspects of the South Vietnamese pacification and development programs." ~4,000 US in CORDS by late 1967; half of 13,500 advisors in CORDS orgs under Vietnamization. Training base upgrades (Bolton team findings, Abrams pressure on Vien, Laird "most highly qualified" directive) came late; advisor empathy/leadership emphasis for "pacification and upgrading the RVNAF." "One war" concept formalized (population protection vs. pure destruction); combined ops programs (I Corps integration best; Pair Off, Dong Tien uneven). Cambodia 1970 test: "visible proof" per Nixon but "somewhat misleading." (verbatim cache ~14-575)
+
+New pages: [[concepts/pacification]], [[concepts/vietnamization]].
+
+**Lam Son 719 (Ch. 9):** Spoiling attack into Laos (8 Feb–Mar 1971) to seize Base Area 604/Tchepone and interdict Ho Chi Minh Trail. No US ground/advisers (Cooper-Church limit); US air/arty support only. Initial gains then "became bogged down"; "many more fought poorly or fled in panic. The operation ended with ARVN units fleeing back across the border in disarray." 3,800 KIA / 5,200 WIA / 775 MIA (US). "LAM SON 719 demonstrated that Vietnamization had not been the success that Nixon had previously proclaimed." See dedicated [[hubs/warfare/cold-war/vietnam-war/lam-son-719|campaign analysis]] (OOB, phases, principles of war incl. Unity of Command violation, terrain/AA, critical decisions, modern parallels) and [[events/lam-son-719-1971]].
+
+**Battle of An Loc (Ch. 10, 1972 Easter Offensive):** "Final test." 3 NVA divs vs. ~4,500 ARVN (5th Div + TF52, Rangers, Airborne, RF/PF) in siege. Loc Ninh/Quan Loi lost; city encircled on QL-13. Tank assault panic then LAW stops; house-to-house; redoubt hold. US air (adviser-coordinated + B-52) decisive. "American airpower and not South Vietnamese arms" (Abrams). "Unique opportunity to assess South Vietnamese combat performance under some of the most severe circumstances." Nixon proclaimed success; "near thing." See dedicated [[hubs/warfare/cold-war/vietnam-war/battle-of-an-loc-1972|tactical analysis]] (OOB table, 4 phases, 9 principles, air enabler role) + [[events/battle-of-an-loc-1972]].
+
+All claims verbatim from range 3 cache only. Updated [[events/vietnam-war]], this hub (new section + cross-links), source page (Range 03 block), new hub/event/concept pages. 0 artifacts/broken links.
+
+### Tet Offensive (1968) as Turning Point and Intelligence Failures (Willbanks Ch. 6, Range 02 exclusive)
+
+Grounded exclusively in /tmp/willbanks-ranges/range_2_3501-6500.txt (Ch. 6 "Intelligence Failures on Both Sides in the Tet Offensive").
+
+**Scope and surprise:** "In the first two days of the Tet Offensive, which began on 30 January 1968, North Vietnamese and Viet Cong troops attacked 39 of South Vietnam’s 44 provincial capitals, five of six largest cities to include Saigon, 71 of 242 district capitals, some 50 hamlets, virtually every allied airfield, and many other key military installations." "The Tet Offensive represented... 'the worst intelligence failure of the war.'" "Despite the fact that the Communists were soundly defeated at the tactical level in the bitter fighting of 1968, the Tet Offensive resulted in a great psychological victory that proved to be the turning point of the war which set into motion the events that would lead to Richard Nixon’s election, the long and bloody US withdrawal from South East Asia and ultimately to the fall of South Vietnam." (verbatim cache ~933-946, ~1132)
+
+**Allied indicators and failure to fuse:** Steady stream from Mar 1967 (Saigon assault doc); Oct 1967 "TCK-TKN" General Offensive-General Uprising docs; Loc Ninh (held vs expected hit-and-run, first multi-div coordinated); Dak To (NVA 1st Div elements, stood and fought 2 weeks); Khe Sanh/Con Thien intensity shifts; "Ho Chi Minh’s Order..." notebook (disseminated but no major impact); CIA "The Big Gamble" report (higher strength est., strategy shift — MACV disagreed, downgrading VC/PAVN from ~300k to 235k Dec 1967). Westmoreland focused on Khe Sanh ("Khe Sanh being the main event"); >50% US maneuver battalions shifted to I Corps by late Jan; Tet truce only shortened to 36 hrs. "When the opening attacks of 30 January were followed by even more widespread attacks the next day and night, MACV and the White House were stunned by the offensive’s scope and intensity." (cache ~955-1130)
+
+**Root causes per Willbanks:** Flawed enemy strength/intentions estimates; MACV changed counting methods and "believed their own revised estimates"; docs dismissed as "wishful thinking" or not passing "logic test"; preconceptions (protracted war only, capabilities insufficient for nationwide); poor fusion/coordination ("allied intelligence agencies... operated independently and rarely shared"; even within military); conflicting reports (hardships vs. buildup); focus on obvious threats (Khe Sanh) drowned signals from urban areas. "they evaluated the intelligence in light of what they already believed, focusing on Khe Sanh and discounting most of the rest of the indicators." (cache ~1140-1235)
+
+**Communist side intel/planning failures (symmetric analysis):** PAVN objectives: annihilate bulk of puppet army/regime, "annihilate a significant portion of the American military’s troop strength", crush US will. Relied on "khoi nghia" (general uprising) + dau tranh to offset US advantages. "planned for one possibility—that the general offensive-general uprising would certainly secure victory, meaning we did not plan for possible changes..." "set goals that did not match the realities... set inappropriate, unreasonable goals for Tet 1968." Official PAVN history: "We were subjective in our assessment... especially in assessing the strength of the mass political forces in the urban areas. We had somewhat underestimated the capabilities and reactions of the enemy and set our goals too high... we made only one-sided preparations, only looking at the possibilities of victory and failing to prepare for adversity." Recurring theme: "subjectivism" (ideology/wishful thinking overriding objective assessment of ARVN/US reaction and own political forces' weakness). (cache ~1250-1395)
+
+**Hub lessons:** Tet `produced:` political/psychological victory for Hanoi despite military defeat (body counts); `contributed_to:` LBJ withdrawal decision, troop ceiling freeze, Vietnamization acceleration, erosion of US will. Exposes intel fusion, confirmation bias, and unity-of-effort failures in hybrid war. Cross: `contrasts_with:` pure attrition narratives; enriches [[events/vietnam-war]], [[westmoreland-william]], [[concepts/army-concept]] (post-Tet no soul-searching per other sources). See full claims in [[sources/willbanks-vietnam-the-course-of-a-conflict-2018]] Range 02 block.
+
+### Battle of Hue: Urban Fighting, Command and Control, Intelligence Failures (Willbanks Ch. 4–5, Range 02 exclusive)
+
+High-resolution operational analysis from exclusive cache range (detailed verbatim on phases, C2 friction, training deficit, ROE, fratricide risks). Battle declared over 2 March 1968 after 26 days — "the longest sustained infantry battle the war had seen to that point."
+
+**Initial situation and underestimation:** Communist forces seized Hue 31 Jan (sappers + main units); sacred capital, political sensitivity. "This repeated gross underestimation of enemy strength in Hue resulted in insufficient forces being allocated for retaking the city." Brig Gen LaHue (TF X-Ray) and intel vastly underrated south-of-river strength. (cache ~1-88)
+
+**Divided command / two separate battles:** ARVN 1st Division (Brig Gen Truong) + Citadel/north of Perfume River; US Task Force X-Ray (Marines) south. "This situation resulted in what would be, in effect, two separate and distinct battles that would rage in Hue, one south of the river and one north of the river." No single overall commander until Brig Gen Oscar E. Davis (1st Cav ADC) 21 Feb as fire support coordinator (too late; "didn’t have anything to coordinate, but he had the name"). Result: "three separate battles that raged simultaneously"; no general battle plan, no priority setting, no deconflict of fires, inequitable resupply (ARVN got "next to nothing"), failure to synchronize outer blocking with inner clearing. (cache ~7-622)
+
+**ROE and weather constraints:** "I wasn’t about to open up on the old palace and all the historical buildings there." Initial ban on artillery/CAS to limit collateral; lifted 3 Feb south but low clouds/fog rendered ineffective ("you lose the rounds in the buildings... difficult time with perspective"; adjusted by sound). (cache ~17-260)
+
+**South of river (Marines, Cheatham/Gravel):** From MACV compound. Gravel 1/1 (bobtailed + provisional) stalled immediately (sniper, 57mm recoilless knocks tank). Hughes orders Cheatham 2/5 (F/H lead companies) "attack through the city and clean the NVA out." "if you’re looking for any more, you aren’t going to get it. Move out!" 11-block fight to canal confluence: "room by room, building by building"; "You’d assault and back you’d come..." ONTOS (6x106mm) preferred over tanks for breaching/suppression; CS gas, mortars. Turning point ~5 Feb: H/2/5 (Capt Christmas) seizes Thua Thien province HQ (NLF flag flown); Stars and Stripes raised (controversial; should have been ARVN). "When we took the province headquarters, we broke their back. That was a rough one." Provincial HQ was PAVN 4th Regt CP. (cache ~70-295)
+
+**Urban warfare realities / adaptation:** Marines trained for jungle/open I Corps terrain, "nothing in their training had prepared them..." "We were accustomed to jungles and open rice fields, and now we would be fighting in a city, like it was Europe during World War II." "we were going to take a number of casualties learning some basic lessons in this experience." "It was savage work—house-to-house fighting through city streets—of a type largely unseen by Americans since World War II." Ground "measured in inches"; "every alley, street corner, window, and garden had to be paid for in blood." Maps: 1:50k useless; "raid the local Tex-aco station to get your street map." Developed 8-man team tactics on spot (riflemen cover exits; assault with grenades; rotate). (cache ~208-236, ~675-698)
+
+**Blocking and north/Citadel clearance:** 1st Cav 3rd Bde (2/12 Cav, 5/7 Cav) + later 2/501, 1/7 Cav block west/north approaches vs PAVN 24/29/99 Regts (prolonged contact 7-19 Feb). 1st Cav seals west wall 21 Feb. ARVN 2/3 Regt surprise attack along wall; Citadel flag change 24 Feb (ARVN); link-up with Cav. Last positions overrun. (cache ~30-540)
+
+**Outcome and costs (OOB/casualties):** US: Marines 147 KIA, 857 WIA; Army 74 KIA, 507 WIA. ARVN: 384 KIA, >1,800 WIA, 30 MIA. Allies claimed >5,000 enemy KIA city + ~3,000 surrounding. "40 percent of the city was destroyed, and 116,000 civilians were made homeless (out of a pre-Tet population of 140,000)." "some 5,800 were reported killed or missing." Mass graves: "Nearly 3,000 corpses were found in mass graves—most shot, bludgeoned to death, or buried alive, almost all with their hands tied behind their backs." Victims: officials, teachers, clergy, intellectuals, foreigners. (cache ~540-580)
+
+**Analysis and lessons (hub standard):** "The battle of Hue is a textbook study of the difficulties involved in combat in an urban area." Factors: intelligence (complete failure to anticipate + strength/intent appreciation), command and control (divided, no unity, fratricide potential e.g. 3 Feb friendly fire incident in convoy), training (none for MOUT; on-the-job), ROE (initial limits + weather), population/refugees (horrors, stench, trapped ARVN on leave). "The command and control situation caused problems in other areas as well... difficult to coordinate the isolation of the city..." Sealing by Cav had "decisive impact" but could have come earlier with unified C2. (cache ~584-650)
+
+**Principles of war notes (from conduct):** Unity of Command violated (separate chains until too late); Surprise achieved by enemy (intel failure); Mass/Economy of Force strained by piecemeal commitment and urban frontage limits (one company ~one block). Maneuver adapted ad hoc (wall breaches, flanking via courtyards). Security (fratricide, resupply equity) suffered. Objective (retake city) achieved at high cost due to constraints. (inferred from Willbanks operational detail; cross hub strategy page).
+
+`event_page: [[events/vietnam-war]]`; updates [[hubs/warfare/cold-war/vietnam-war/vietnam-war]] with hub-depth urban/C2 analysis; cross to prior Vietnam sources for Tet context. All from range cache only. See source Range 02 block for full verbatim list.
+
+### Advisory Effort and Training Indigenous Forces (Willbanks Ch. 1 exclusive)
+
+Willbanks divides the US advisory/training mission into five phases from 1950 MAAG-I support to French through post-1973 withdrawal. Post-Geneva (phase 3), US built a three-pillar system: village Self-Defense Corps, province Civil Guard, apex ARVN from French VNA remnants (~150,000 men 1954 suffering "complete breakdown of combat capabilities," politicized/corrupt leadership, desertions, prior French taint).
+
+Core error: "the objective of the American effort during this period was to build a multi-layered security system..." but "In the early years... some effort to train the South Vietnamese forces for civic action and pacification. However, over time as the insurgency gained momentum, less and less emphasis was given to the special aspects of counter-guerrilla warfare; the focus shifted to preparing the force for the worst threat scenario—guerrilla main force units and an external invasion from North Vietnam." Explicitly: "the ARVN was structured and trained to meet a possible external attack by the PAVN, not the actual struggle against the National Liberation Front." Influenced by Korea experience; US doctrine/tactics imposed; ARVN mirrored US light infantry divisions (objective force: seven standard divisions of 10,450 each in three corps by late 1950s).
+
+Training problems: individual/school success (18 centers training ~20k/yr + offshore); collective/unit training failed due to political leaders, operational tempo preventing pull-out for exercises, lack of paramilitary integration (civilian advisors), insufficient qualified US advisors (few combat/COIN experience, "Very few spoke Vietnamese or were familiar with Vietnamese culture"). Advisors down to battalion by 1961 (initially barred from combat; loosened mid-1961); "revolving door advisors" from short tours destroyed rapport. Post-1965 US combat arrival (phase 4): "the buildup [had] eclipsed what had previously been an advisor ‘show’" and training "relegated to 'a secondary endeavor'" (Clarke); priority fill to US units; MACV understrength ~2,500 advisors by 1968. ARVN relegated to pacification/security while US took "big fight."
+
+Vietnamization (phase 5, 1969+): advisor surge (field teams 7k→11.9k→14.3k 1969-70); emphasis on RVNAF training base + CORDS for RF/PF. Expansion to largest SE Asian military (>1M uniform by 1973), but "vast amounts of the best equipment... meaningless if the soldiers... did not know how to use it or did not have the leadership and motivation." Tests: Cambodia 1970 (with US) good; Lam Son 719 1971 (alone, no US ground/advisors) disarray. 1972 Easter: held with advisors + US air support. Ultimate collapse 1975 after US withdrawal: not primarily insurgency but PAVN conventional main forces.
+
+Key failures per Willbanks (range only): inaccurate threat assessment (wrong war prep); lack of unity of effort (military vs. civilian programs until CORDS 1967); resource diversion to US combat ops; advisor selection/tour length/cultural barriers; "conscious decision to form the South Vietnamese forces in the image of US forces" producing dependence ("ARVN, by 1975, had 'forgotten how to walk' and 'could no longer afford to ride or fly'"). T.E. Lawrence lesson: "Better they do it imperfectly than you do it perfectly, for it is their country, their war, and your time is limited." Updates [[concepts/counterinsurgency]], [[concepts/army-concept]], [[actors/westmoreland-william]], [[events/vietnam-war]].
+
+### Final 55 Days and Fall of Saigon – Operational Collapse and Ho Chi Minh Campaign (Willbanks Ch. 11, Range 04 exclusive)
+
+High-resolution operational analysis of the final phase and collapse mechanics, grounded exclusively in /tmp/willbanks-ranges/range_4_9501-12344.txt (Ch. 11 + Appendix chronology). Warfare hub priority: detailed treatment of the 1975 final offensive, ARVN disintegration mechanics, command decisions, and PAVN exploitation. Reciprocal: [[events/fall-of-saigon-1975]], [[events/vietnam-war]].
+
+**Strategic Context & Objectives (1975):** PAVN Politburo, emboldened by Phuoc Long success and US inaction ("Ford’s statement shook the South as nothing had since the Tet Offensive"), saw "Never have we had military and political conditions so perfect or a strategic advantage so great as we have now." Initial two-year plan accelerated to 1975 "big leap forward" to "liberate Saigon before the rainy season" and reunify. "Ho Chi Minh Campaign." Objective: decisive conventional victory with main-force corps before rains and before any possible US re-intervention. 
+
+ARVN/Thieu objective: "light at the top, heavy on the bottom" truncation — hold "untouchable heartland" (MR III/IV, populous core) by trading space in I/II Corps. "Given our present strength and capabilities, we certainly cannot hold and defend all the territory we want." Post-Phuoc Long shock and aid cuts (~$700M vs requested $1B+) forced reactive shortening of lines. Ford sought $722M supplemental but "the supplemental aid request was doomed from the beginning"; Congress denied after Cambodia fall (EAGLE PULL 17 Apr). Thieu's appeals for B-52 strikes ignored. US focus shifted to evacuation (FREQUENT WIND).
+
+**Terrain, Weather & Intelligence:** From Central Highlands (Ban Me Thuot key economic/demographic node, Routes 14/21/19/7) to coastal lowlands to Saigon approaches (Xuan Loc blocking Route 1). Monsoon season threat accelerated PAVN timetable. PAVN exploited "blossoming lotus" (center attack then outward) and interior lines after ARVN withdrawals opened corridors. Intelligence: DAO report accurate on PAVN reserves (7 divisions available); Thieu/JGS surprised by speed of collapse but aware of buildups. Refugee flows (hundreds of thousands) and rumor (Thieu deal with Hanoi) degraded ARVN cohesion. PAVN used captured equipment/vehicles for rapid pursuit.
+
+**Order of Battle & Deployment (final phase):** 
+PAVN (Dung commanding south): 16 infantry divisions + tanks/sappers/artillery/AA into 5 corps (1st, 2nd, 3rd, 4th, TF 232); ~200k+ combat + support; massive logistics (trails, captured stocks). Initial focus Ban Me Thuot (320th, F-10, 316th Divs); then pursuit.
+ARVN: Pre-collapse 13 divisions dispersed; after I/II Corps losses ~60,000 effectives for Saigon defense (III Corps: 5th/18th/25th Divs + remnants Airborne/Marines/Rangers; IV Corps 7th/9th/21st). "disorganized, demoralized, and already demonstrating the characteristics of a beaten army." VNAF lost dozens of aircraft on ground (Da Nang, Phu Cat). RF/PF abandoned or integrated in panic.
+
+**Course of the "Final 55 Days" (phases, 10 Mar–30 Apr 1975):**
+1. **Phuoc Long test (13 Dec 1974–early Jan):** 301st Corps (3rd/7th Div + tanks) overruns isolated province; only 850/5400 survivors. US no response. Turning point.
+2. **Ban Me Thuot (10–18 Mar):** PAVN three-div attack; ARVN 53rd Regt + Rangers hold initially but friendly-fire CP loss + leadership failure (Tuong halts relief to evac family) + no artillery/tank support in counterattack leads to overrun. Darlac lost. "the South Vietnamese troops surprised us, too, because they became so disorganized so quickly."
+3. **Highlands withdrawal (16–27 Mar):** Thieu orders Phu (II Corps) withdraw Pleiku/Kontum via Route 7 to enable Ban Me Thuot counterattack. "convoy of tears": 200k+ troops/refugees; PAVN flank/rear ambushes (320th, 968th); unit disintegration; "75 percent of II Corps combat strength…had been tragically expended." "Greatest disaster in the history of ARVN." Equipment/ammo left behind.
+4. **I Corps collapse (Mar 19–30):** Truong (I Corps, "one of Thieu’s best") ordered hold Da Nang; conflicting yo-yo orders on Hue. "It was like a yo-yo." Hue abandoned unopposed; 1st ARVN Div lost as unit. Da Nang: 2M refugees in 300k city; "convulsions of collective hysteria"; airfield overrun; sea evac 29 Mar disaster (thousands drowned/artillery killed). "Da Nang was not captured; it disintegrated in its own terror." MR I/II lost; >half ARVN strength destroyed.
+5. **Xuan Loc and final advance (8–20 Apr):** Last major battle. 18th ARVN (Le Minh Dao) + reinforcements (~25k) fight hand-to-hand vs 4th Corps; stiff resistance but falls. "last major battle of the war." PAVN columns (captured vehicles) close on Saigon from multiple axes.
+6. **Saigon encirclement & fall (21–30 Apr):** Thieu resigns 21 Apr; Duong Van Minh ("Big Minh") installed to negotiate. Minh's appeals ignored. US FREQUENT WIND (29–30 Apr): fixed-wing halted at Tan Son Nhut; chaotic helicopter evac from embassy ("Vietnam War writ small"). 30 Apr: PAVN tanks enter city; Minh surrenders unconditionally at Presidential Palace.
+
+**Outcome & Casualties:** PAVN rapid victory with low relative losses ("numbers killed and wounded was very small in proportion to the victories"). ARVN: two full corps destroyed; ~100k+ captured in north; equipment losses (thousands tons ammo, 33+ A-37s at Da Nang alone). Civilian: massive refugee deaths, chaos. No pitched final battle in Saigon; collapse completed the work.
+
+**Critical Decisions:**
+- Thieu: Phuoc Long indecision + truncation order + conflicting I Corps directives (yo-yo). "Thieu’s inability to deal with the mounting crisis would have disastrous results."
+- Phu: Ill-planned/ill-timed Route 7 withdrawal; early departure with staff.
+- Truong: Attempted orderly withdrawal despite orders; overruled by panic and cut comms.
+- Dung: Rapid exploitation, interior lines pursuit, concentration at Xuan Loc then Saigon.
+- Ford/Congress: No supplemental aid or air support; evacuation priority.
+- Minh: Assumed power too late for negotiation.
+
+**Lessons (Principles of War – FM 3-0 framework):**
+- **Objective:** PAVN clear (reunify by force before rains); ARVN ambiguous (hold all then truncate under pressure). US: honor commitments but constrained by domestic politics.
+- **Offensive:** PAVN maintained after Phuoc Long; ARVN reactive and ceded initiative.
+- **Mass/Economy of Force:** PAVN massed corps at decisive points (Ban Me Thuot, Xuan Loc); ARVN dispersed then over-concentrated in panic. "75 percent... expended" in one withdrawal.
+- **Maneuver:** PAVN used captured mobility and interior lines for 1000+ mile advance; ARVN withdrawal turned rout.
+- **Unity of Command:** Violated by Thieu's direct interventions and conflicting orders ("yo-yo"); no unified defense of capital. PAVN seamless (Politburo–Dung).
+- **Security:** ARVN failed (refugee intermingling, rumor penetration, family priority over mission); PAVN screened advances.
+- **Surprise:** PAVN exploited ARVN collapse speed; US/ARVN surprised by rapidity.
+- **Simplicity:** PAVN simple pursuit plan succeeded; ARVN truncation poorly communicated/executed.
+
+**Modern Doctrine Parallels:** Classic example of "defeat in detail" via successive corps destruction, effects of leadership decapitation and morale collapse, limits of truncation under fire, refugee weaponization of LOCs. Echoes other rapid conventional collapses when host force dependence on external support is severed. Highlights importance of C2 cohesion and will in conventional fights even after "Vietnamization."
+
+`event_page: [[events/fall-of-saigon-1975]]`; `key_sources: [[sources/willbanks-vietnam-the-course-of-a-conflict-2018]]`. All verbatim from exclusive range_4 only. Cross [[events/vietnam-war]], [[nguyen-van-thieu]], [[van-tien-dung]], [[duong-van-minh]].
+
+### Free World Military Forces and Early Escalation Context (Willbanks Ch. 2 + Introduction)
+
+Willbanks: "The Vietnam War is generally thought to be a war in which American forces fought beside their South Vietnamese allies, without any outside assistance. In truth, more than 40 nations provided assistance of some type..." Direct military contributors: ROK (largest, ~50k peak, Capital Division + 2nd Marine Brigade deployed by early Nov 1965 under de facto US control), Thailand (>11k peak, US-funded ~$50M annually), Australia (task force around Royal Australian Regiment arrived Jun 1965 under 173rd Airborne Brigade; grew >8k with RAAF), New Zealand (~1k, battery under 173rd), Philippines (1st Philippine Civic Action Group ~2k engineers/medics/security in Tay Ninh, US-funded $39M 1967-69). Aus/NZ self-funded.
+
+Origins of "More Flags": Rusk/McNamara 11 Nov 1961 memo: "From the political point of view... it would seem important to involve forces from other nations alongside of United States forces in Viet-Nam..." Johnson 23 Apr 1964: hoped "we would see some other flags in there, other nations... and that we could all unite in an attempt to stop the spread of communists..." Rusk 1 May 1964 cable: "call upon other nations of the Free World to express their support in the form of political and material contributions"; "The nature and amount of the contributions being sought are not for the present as significant as the fact that their being made." US offered to pay full costs of military commitments (Dec 1964 directive).
+
+SEATO (protocol states Vietnam/Laos/Cambodia) "very shaky vehicle"; most members declined active combat risk. Shifted to bilateral pressure on key allies (UK, Thailand, ROK, Aus/NZ, Philippines). Saigon "decidedly ambivalent" and "lassitude"; "from the very beginning of the 'More Flags' program, requests for aid for South Vietnam would originate from Washington, not from Saigon." US played "role of supplicant." Johnson "charging you personally with the responsibility" (2 Jul 1964 circular to ambassadors).
+
+Command per Westmoreland May 1965: MACV operational control; nations retained identity; US admin/log support. Early deployments offset some US requests but "despite the arrival of the ANZACs and the Koreans, [Johnson] was still very unhappy with the general response." "the international response to the continued US presence in South Vietnam, the mounting unpopularity of the war around the world, and Saigon's ambivalence doomed Johnson’s efforts. Ultimately, the war would remain America’s war." Total FW casualties: 5,241 (4,407 Korean).
+
+Early escalation context (Introduction + Ch. 2 linkage): Post-Ap Bac/Diem coup instability; mid-1964 VC routinely defeating ARVN; Tonkin Gulf Resolution (2/4 Aug 1964 incidents; latter disputed later) gave Johnson authority; Rolling Thunder Feb 1965; Marines Da Nang Mar 1965 for "protection"; rapid expansion to search-and-destroy under Westmoreland. Free World contributions framed as demonstrating international anti-communist consensus amid this buildup.
+
+Updates [[events/vietnam-war]], [[actors/westmoreland-william]], [[concepts/counterinsurgency]] (coalition dimension), [[sources/willbanks-vietnam-the-course-of-a-conflict-2018]]. All verbatim from exclusive range 1 cache only.
 
 ### Range 02 Additions (Ch. 2–3 exclusive: escalation transition 1964–65; Myth of Attrition metrics / population COG / concept vs. critics)
 

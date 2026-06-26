@@ -7,8 +7,8 @@ origin: >
 applies_to_periods: [Long 19th Century, World Wars Era, Cold War, Contemporary]
 applies_to_regions: [transregional]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-23
+sources_ingested: 3
+last_updated: 2026-06-25
 tags: [concept, strategy, clausewitz]
 ---
 
@@ -160,3 +160,5 @@ the other two elements.
 - [[limited-war]]
 - [[hubs/warfare/strategy]]
 - [[hubs/warfare/warfare-hub]]
+
+**Summers application (Vietnam, Range 01 of *On Strategy* 1982):** Summers (drawing directly on the Howard/Paret Clausewitz) argues the US violated the trinity balance by treating the people as a mere instrument of government (neo-18th-c. "cabinet war"). "The task of the military theorist... is to develop a theory that maintains a balance among what he calls the trinity of war—the people, the government, and the Army." Johnson deliberately excluded the people ("not to arouse the passions"); "A theory that ignores any one of them... would conflict with reality to such an extent that for this reason alone it would be totally useless." Result: strategic defeat despite tactical success; enemy exploited the "moral element." See [[sources/summers-on-strategy-1982]], [[hubs/warfare/cold-war/vietnam-war/vietnam-war]], [[events/vietnam-war]]. (Grounded exclusively in cache lines ~560-580, 530-555, 1060.)

@@ -9,6 +9,7 @@ affiliated_with: [United States Department of Defense, Ford Motor Company, World
 opposed_by: []
 key_events: [Vietnam War escalation and management 1961–1968 (Secretary of Defense), Cuban Missile Crisis, McNamara Line / electronic barrier proposals]
 key_processes: [systems analysis in defense, flexible response, Vietnam strategy debates, gradual escalation / Rolling Thunder]
+# Range 01 Summers: McNamara quoted on "ability in the United States to fight a limited war... without the necessity of arousing the public ire"; PPBS/systems analysis dominance framed as preparation-for-war not war proper.
 sources_ingested: 2
 last_updated: 2026-06-24
 tags: [actor, person, cold-war, vietnam-war, defense-secretary, systems-analysis]
