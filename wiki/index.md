@@ -1,3 +1,5 @@
+**New (2026-06-26 range integrate):** Peter Range 04 (Massie post-Poltava to Alexis/Pruth: Lewenhaupt, Baturin, winter/Veprik, "Hand of the Autocrat", Catherine/Pruth/Alexis tragedy, new table rows + verbatim + counterfactuals) integrated into detailed bio + actor note. Co-Authored-By: Grok 4.3 (xAI) + subagent.
+
 **New (2026-06-26 range integrate):** Moses Range 05 (Caro highway era: monopoly, Meat Ax, table, verbatim displacement) integrated. Co-Authored-By: Grok 4.3 (xAI) + subagent.
 
 **New (2026-06-26 range integrate):** Moses Range 08 (Caro: Lindsay, Rockefeller Last Stand, final years, 'effect of power on personality', capstone) integrated. Co-Authored-By: Grok 4.3 (xAI) + subagent.

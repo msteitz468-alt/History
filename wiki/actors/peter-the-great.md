@@ -11,7 +11,7 @@ key_events: [the Grand Embassy to western Europe (1697–98), the suppression of
 key_processes: [[[state-formation]], "the westernization of Russia", [[balance-of-power]], [[military-revolution]]]
 sources_ingested: 5
 last_updated: 2026-06-26
-reingest_note: "Reingest via Deployed Subagent Strategy (Massie 1980, 8 ranges) to Biography Hub standards. Detailed bio expanded with full 9 sections, table, verbatim (Great Embassy, Northern War to Poltava, reforms, legacy), counterfactuals (empire forge). Ranges 02, 03, 08 integrated. Reciprocal link to detailed bio. See detailed bio for full analysis."
+reingest_note: "Reingest via Deployed Subagent Strategy (Massie 1980, 8 ranges) to Biography Hub standards. Detailed bio expanded with full 9 sections, table, verbatim (Great Embassy, Northern War to Poltava incl. post-Poltava/Lewenhaupt/Mazeppa/Baturin/winter/Veprik, reforms, Catherine/Pruth/Alexis, legacy), counterfactuals (empire forge). Ranges 02, 03, 04, 08 integrated. Reciprocal link to detailed bio. See detailed bio for full analysis."
 tags: [actor, person, early-modern, eastern-europe, russia]
 ---
 
