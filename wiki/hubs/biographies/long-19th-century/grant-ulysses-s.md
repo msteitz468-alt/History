@@ -20,6 +20,8 @@ tags: [biography, detailed-analysis, long-19th-century, north-america, grant-uly
 
 A graduate-level analytic study of Ulysses S. Grant's formation through repeated failure, the mechanics of his campaigns and presidential decisions on Reconstruction, character in context, primary-source foundations (especially the *Memoirs*), and the interplay of personal agency versus structural conditions in saving the Union and attempting to secure black citizenship.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~2,999 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Grant was born Hiram Ulysses Grant on 27 April 1822 in Point Pleasant, Ohio, the eldest son of Jesse Root Grant, an ambitious and overbearing tanner and businessman, and the reserved Hannah Simpson Grant. The family moved to Georgetown, Ohio, where Grant grew up with a love of horses and a dislike of the tannery work. His father secured an appointment to West Point (the name "Ulysses S. Grant" resulted from a clerical error that Grant accepted).

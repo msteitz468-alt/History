@@ -20,6 +20,8 @@ tags: [biography, detailed-analysis, long-19th-century, age-of-expansion, napole
 
 A graduate-level analytic study of Napoleon’s formation, the mechanics of his signature decisions, character in context, the tension between personal agency and structural forces, and his institutional legacy — at substantially greater depth than the standard `actors/` page. Primary spine for this page: Andrew Roberts (2014) with its access to the unexpurgated correspondence, supplemented by operational sources for military phases.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~1,963 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Napoleone di Buonaparte was born 15 August 1769 in Ajaccio on a heap of tapestry after his mother Letizia felt labour pains returning from church. The Buonaparte family were minor Corsican gentry of Florentine origin; Carlo (Enlightenment-influenced) and strong-willed Letizia had eight surviving children. After Ponte Nuovo (1769), Carlo refused exile with Paoli and took the oath to Louis XV, retaining positions and later representing Corsican nobility in Paris. No evidence Napoleon despised his father for this collaboration; he later named a son Charles.

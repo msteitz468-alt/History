@@ -20,6 +20,8 @@ tags: [biography, detailed-analysis, world-wars-era, long-19th-century, albert-e
 
 Graduate-level analytic study of Einstein’s formation, the mechanics of his scientific breakthroughs and political choices, character in context, primary-source foundations, and the interplay of personal agency with the structural transformations of 20th-century physics and politics.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~3,927 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 - Ulm birth (1879), Munich childhood in electrical business family (Hermann father, Pauline mother; sister Maja). Compass moment (~age 4–5) produced “deep and lasting impression”: “Something deeply hidden had to be behind things.” Violin (Mozart) and visual intuition fostered by mother and Aarau Pestalozzi methods.

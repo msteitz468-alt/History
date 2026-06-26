@@ -20,6 +20,8 @@ tags: [biography, detailed-analysis, late-middle-ages, early-modern, mediterrane
 
 A graduate-level analytic study of Leonardo da Vinci’s formation, the mechanics of his integrative method across art and science, signature choices, character, primary-source foundations, and the structural vs. contingent dimensions of his legacy.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~2,684 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Leonardo was born on 15 April 1452 (Saturday, ~10 p.m.) in the Vinci area (likely Anchiano), recorded by grandfather Antonio: “There was born to me a grandson, the son of Ser Piero my son... He bears the name Leonardo.” His mother Caterina (peasant) was not mentioned in the entry; she later married another. Illegitimate (“non legittimo”), he was raised primarily with grandfather Antonio and beloved uncle Francesco (surrogate father figure) after early years split between households.

@@ -20,6 +20,8 @@ tags: [biography, detailed-analysis, cold-war, north-america, x-malcolm]
 
 A graduate-level analytic study of Malcolm X's formation, the mechanics of his successive reinventions, character in context, primary-source foundations, and structural vs. contingent legacy — drawing primarily from Manning Marable's archival biography.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~1,623 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Malcolm Little was born May 19, 1925, in Omaha, Nebraska, the fourth of seven children of Earl and Louise Little. His father, a Baptist preacher and committed Garveyite (UNIA organizer), embodied black nationalist self-reliance and was frequently targeted for his activism. The family faced constant white harassment; Earl Little was killed in 1931 (officially a streetcar accident, widely believed by family and community to be murder by white supremacists). 

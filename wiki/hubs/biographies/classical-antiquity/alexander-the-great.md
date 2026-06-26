@@ -20,6 +20,8 @@ tags: [biography, detailed-analysis, classical-antiquity, macedonia, near-east]
 
 A graduate-level analytic study of Alexander III of Macedon (r. 336–323 BCE), drawing primarily on Robin Lane Fox's source-critical narrative for campaign mechanics, decision texture, and historiographic caution, cross-referenced with CAH, Thomas's contextual framing, and the primary tradition. Focuses on the conduct of the life, personal agency within structural constraints, and the creation of the Hellenistic world.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~2,556 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Alexander was born in 356 BCE at Pella to Philip II and Olympias of Epirus. From infancy he was immersed in a militarized, competitive Macedonian court where kingship depended on personal prowess, generosity, and success in war. Philip had transformed Macedon from a vulnerable highland kingdom into a professional standing army power; Alexander watched the army's evolution and inherited its sarissa phalanx, Companion cavalry, and integrated light troops.

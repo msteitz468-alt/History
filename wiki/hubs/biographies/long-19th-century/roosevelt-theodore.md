@@ -27,6 +27,8 @@ Do not redefine. Actor summary: [[actors/roosevelt-theodore]]
 
 A graduate-level analytic study of Theodore Roosevelt's formation, the mechanics of his early decisions, his distinctive political and personal style, primary-source foundations, and the interplay of personal agency and structural opportunity that carried him from obscure New York assemblyman to the presidency in 1901 — at substantially greater depth than the standard `actors/` page. Based primarily on Edmund Morris, *The Rise of Theodore Roosevelt* (1979).
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~2,259 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Theodore Roosevelt Jr. was born 27 October 1858 at 28 East Twentieth Street, New York City, the second child and first son of Theodore Roosevelt Sr. and Martha "Mittie" Bulloch Roosevelt. The household combined Northern mercantile wealth and Southern aristocratic charm. Father Theodore Sr. — handsome, vigorous, a partner in Roosevelt & Son, founder of the Children's Aid Society, tireless philanthropist — embodied the ideal of muscular Christian public service. "He was the best man I ever knew," TR later wrote, "but he was the only man of whom I was ever really afraid."

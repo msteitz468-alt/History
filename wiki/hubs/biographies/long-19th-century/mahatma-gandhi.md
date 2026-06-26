@@ -20,6 +20,8 @@ tags: [biography, detailed-analysis, long-19th-century, south-asia, mahatma-gand
 
 A graduate-level analytic study of Mohandas K. Gandhi's formation, the South African laboratory in which satyagraha was invented and tested (1893–1914), the scaling of that method to the Indian subcontinent (1915–1948), the mechanics of his key decisions across both phases, character in context, primary-source foundations, and the structural vs. contingent elements that produced the leader who ended the British Raj yet could not prevent Partition. Draws primarily from Ramachandra Guha's two volumes: *Gandhi Before India* (2013) and *Gandhi: The Years That Changed the World, 1914-1948* (2018).
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~4,804 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Mohandas Karamchand Gandhi was born 2 October 1869 in Porbandar, Kathiawar (Saurashtra), Gujarat, into a Bania (Vaishya) family of the Modh sub-caste. His father Karamchand (Kaba) Gandhi served as diwan (chief minister) to several small Kathiawar states; his mother Putlibai was pious, strong-willed, and deeply observant in the Vaishnava and Jain-influenced traditions of the region.

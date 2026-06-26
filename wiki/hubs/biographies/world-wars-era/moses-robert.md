@@ -20,6 +20,8 @@ tags: [biography, detailed-analysis, world-wars-era, cold-war, north-america, ro
 
 A graduate-level analytic study of the individual's formation, the mechanics of key decisions, character in context, primary-source foundations, and structural vs. contingent legacy — at substantially greater depth than the standard `actors/` page.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~2,256 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Robert Moses was born in 1888 into a comfortable German-Jewish family in New Haven, later moving to New York. His mother was strong-willed and ambitious for her sons; his father was a successful department-store owner who later lost much of the family fortune. The young Moses was brilliant, literary, and idealistic. At Yale he was Phi Beta Kappa, wrote poetry for the literary magazines about Beauty and Truth, and was a dedicated swimmer (second-best freestyler on the team). He spoke movingly in bull sessions about dedicating his life to public service and helping the lower classes.

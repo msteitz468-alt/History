@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b0b7189676faa15",
+        "id": "21c82f20752486db",
         "type": "tabs",
         "children": [
           {
-            "id": "4dae37f6fe1a3f0f",
+            "id": "3add5c8af9938fc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "actors/alexander-the-great.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "alexander-the-great"
+              "title": "New tab"
             }
           }
         ]
@@ -183,11 +179,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "4dae37f6fe1a3f0f",
+  "active": "3add5c8af9938fc5",
   "lastOpenFiles": [
+    "actors/musk-elon.md",
+    "hubs/biographies/contemporary/musk-elon.md",
+    "hubs/biographies/contemporary/jobs-steve.md",
+    "hubs/biographies/long-19th-century/roosevelt-theodore.md",
+    "hubs/biographies/long-19th-century/napoleon.md",
+    "hubs/biographies/long-19th-century/mahatma-gandhi.md",
+    "hubs/biographies/long-19th-century/lincoln-abraham.md",
+    "hubs/biographies/long-19th-century/grant-ulysses-s.md",
+    "hubs/biographies/age-of-expansion/hamilton-alexander.md",
+    "hubs/biographies/age-of-expansion/washington-george.md",
+    "hubs/biographies/age-of-expansion/catherine-the-great.md",
+    "actors/alexander-the-great.md",
     "hubs/biographies/classical-antiquity/alexander-the-great.md",
     "hubs/biographies/age-of-expansion/frederick-the-great.md",
-    "hubs/biographies/long-19th-century/lincoln-abraham.md",
     "hubs/biographies/world-wars-era/johnson-lyndon-baines.md",
     "sources/donald-lincoln-1995.md",
     "hubs/biographies/biographies-hub.md",
@@ -201,17 +208,6 @@
     "hubs/warfare/world-wars-era/second-world-war/battle-of-iwo-jima-1945.md",
     "hubs/warfare/world-wars-era/second-world-war/attack-on-pearl-harbor-1941.md",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-ilipa-206bce.md",
-    "hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae.md",
-    "hubs/warfare/classical-antiquity/first-punic-war/battle-of-ecnomus-256bce.md",
-    "hubs/warfare/age-of-expansion/american-revolutionary-war/battle-of-long-island.md",
-    "concepts/biosphere-cold-war.md",
-    "concepts/transnational-organizations.md",
-    "concepts/western-europe-end-cold-war.md",
-    "concepts/science-technology-cold-war.md",
-    "events/soviet-collapse-1990-1991.md",
-    "processes/us-foreign-policy-reagan-bush.md",
-    "events/central-america-cold-war.md",
-    "events/southern-africa-cold-war.md",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-ilipa-206bce.md.tmp.14868.8f4aed080d16",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-zama-202bce.md.tmp.14868.9554b3995d88",
     "hubs/warfare/classical-antiquity/second-punic-war/battle-of-new-carthage-209bce.md.tmp.14868.98cf1f1618ef",

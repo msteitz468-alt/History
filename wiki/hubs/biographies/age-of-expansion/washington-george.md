@@ -20,6 +20,8 @@ tags: [biography, detailed-analysis, age-of-expansion, north-america, washington
 
 A graduate-level analytic study of George Washington’s formation, the mechanics of his key decisions, character in context, primary-source foundations, and structural vs. contingent legacy — at substantially greater depth than the standard `actors/` page. Primary spine: Ron Chernow, *Washington: A Life* (2010), using the modern Papers editions.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~1,872 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Born 1732 into a Virginia gentry family marked by early mortality (father Augustine died 1743 at 49; pattern of “short-lived” Washington males). Mother Mary Ball Washington, orphaned and flinty, imposed strict discipline that produced in George an “overly controlled personality” and lifelong sensitivity to criticism: “It was the extreme self-control of a deeply emotional young man who feared the fatal vehemence of his own feelings, if left unchecked.”

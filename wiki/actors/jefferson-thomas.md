@@ -8,9 +8,9 @@ period: [age-of-expansion, long-19th-century]
 region: [north-america, atlantic-world]
 affiliated_with: [jefferson-martha-wayles, madison-james, monroe-james, washington-george, adams-john]
 opposed_by: [hamilton-alexander, adams-john]
-key_events: [declaration-of-independence-1776, virginia-statute-for-religious-freedom, louisiana-purchase-1803, embargo-1807, university-of-virginia-founding]
+key_events: [declaration-of-independence-1776, virginia-statute-for-religious-freedom, louisiana-purchase-1803, embargo-1807, university-of-virginia-founding, french-revolution-observations-1789, bank-bill-opposition-1791, first-party-system-formation]
 key_processes: [american-revolution, founding-of-republic, expansion-of-republic, separation-of-church-and-state, westward-expansion]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-25
 tags: [actor, person, age-of-expansion, long-19th-century, north-america, founding-father, president, virginia, enlightenment, architect, author-of-declaration]
 ---

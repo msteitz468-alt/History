@@ -20,6 +20,8 @@ tags: [biography, detailed-analysis, age-of-expansion, north-america, hamilton-a
 
 Graduate-level analytic study of Alexander Hamilton’s formation, decision mechanics, character, and legacy. Primary spine: Ron Chernow, *Alexander Hamilton* (2004), using full Papers of Alexander Hamilton + Caribbean archives.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~1,543 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Born ~January 11, 1755 (or 1757; evidence favors 1755) on Nevis in the British West Indies, illegitimate son of James Hamilton (failed Scottish merchant, fourth son of laird of Grange) and Rachel Faucette (married to Johann Lavien, imprisoned for adultery, fled with young son Peter). The family moved to St. Croix; Rachel died February 19, 1768 of fever (Alexander beside her). Court declared the boys “obscene children,” disinheriting them; estate to half-brother Peter Lavien.

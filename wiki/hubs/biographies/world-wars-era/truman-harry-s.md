@@ -20,6 +20,8 @@ tags: [biography, detailed-analysis, world-wars-era, cold-war, north-america, tr
 
 A graduate-level analytic study of Harry S. Truman's formation through farm, failure, and machine politics; the mechanics of his greatest decisions (atomic weapons, Cold War architecture, MacArthur relief); character in crisis; primary-source foundations; and the interplay of personal agency versus structural conditions in ending one world war and shaping the next global conflict.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~3,277 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Harry S. Truman was born 8 May 1884 in Lamar, Missouri, the first child of John Anderson Truman and Martha Ellen Young Truman. The family moved to Independence when he was six. He was a serious, bookish boy with poor eyesight that kept him from the rougher sports; he read voraciously (history, biography, the Bible) and took piano lessons. His mother was a strong, cultured influence; his father was a volatile small farmer and livestock trader whose financial failures shaped Harry's lifelong caution with money and respect for hard work.

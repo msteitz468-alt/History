@@ -20,6 +20,8 @@ tags: [biography, detailed-analysis, age-of-expansion, long-19th-century, north-
 
 A graduate-level analytic study of John Adams’ formation, the mechanics of his key decisions, character, the central partnership with Abigail, primary-source foundations in the Adams Papers, and the structural vs. contingent dimensions of his legacy in the creation of the American republic.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~2,820 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Born October 30, 1735 (O.S.) in the family farmhouse in Braintree (later Quincy), Massachusetts, firstborn of Deacon John Adams (farmer, shoemaker, selectman, deacon) and Susanna Boylston. The first fifteen years “went off like a fairytale” of roaming fields, salt marshes, beaches, and community. Father was “the honestest man” he ever knew — wisdom, piety, benevolence in proportion to his sphere. Family traced to Henry Adams’ 1638 Puritan arrival.

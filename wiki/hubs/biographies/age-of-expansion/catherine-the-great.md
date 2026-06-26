@@ -26,6 +26,8 @@ CANONICAL biography-analysis frontmatter + section standard. See templates/biogr
 
 Graduate-level analytic study of Catherine II's formation in provincial Germany and the Russian court, the mechanics of her 1762 accession and long reign, signature policy and personal decisions, character as revealed in letters and memoirs, and the structural vs. contingent elements of her legacy in Russian imperial expansion, governance, and cultural Westernization. Spine: Massie (2011) with cross-reference to prior Cambridge Russia Vol. II and Freeze.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~2,951 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Sophia Augusta Fredericka of Anhalt-Zerbst was born at 2:30 a.m. on 21 April 1729 in Stettin to a mismatched, penurious Junker marriage. Her mother Johanna Elizabeth (Holstein-Gottorp) had wanted a son and rejected the daughter, handing her to wet nurses after a difficult delivery and later lavishing affection on a handicapped brother Wilhelm. Her father Christian Augustus (Anhalt-Zerbst regiment commander) was simple, honest, pious, and thrifty; he viewed his daughter as an angel but deferred to his wife. The result, as Catherine later wrote in her Memoirs, was a permanent wound: “I was merely tolerated and often I was scolded with a violence and anger I did not deserve.”

@@ -26,6 +26,8 @@ CANONICAL — see templates/biography-analysis-template.md. Do not redefine.
 
 Graduate-level analysis of Frederick II's formation, the mechanics of his major decisions, the Prussian military system he refined, primary-source foundations, and the structural vs. contingent elements of his legacy.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~1,111 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Frederick William I ("the Soldier King") built the standing army and the austere, duty-bound Hohenzollern state that his son would inherit and transform. Frederick's youth combined brutal paternal discipline (including the 1730 escape attempt and Katte execution), rigorous military education, and an Enlightenment intellectual formation (Voltaire correspondence, flute, philosophy) conducted largely in French. The tension between the "Old Fritz" public persona and the private francophile philosopher-king is one of the central interpretive problems.

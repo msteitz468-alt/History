@@ -28,6 +28,8 @@ Actor summary page: [[actors/lincoln-abraham]]
 
 A graduate-level analytic study of the formation of Abraham Lincoln, the mechanics of his decisions as president and war leader, his use of language and political instruments, primary-source foundations, and the structural vs. personal elements of his leadership in the greatest crisis of the American republic.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~1,526 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Lincoln was born in a log cabin in Kentucky (1809), moved to Indiana (1816) and then Illinois. Mother Nancy Hanks died when he was nine (1818); stepmother Sarah Bush Johnston provided stability and encouragement of reading. Frontier poverty, limited formal schooling (less than a year total), self-education through borrowed books (Aesop, Bible, Shakespeare, Euclid, Blackstone). Early exposure to slavery on the Ohio River and in New Orleans (1828, 1831 flatboat trips) shaped his moral opposition. The "short and simple annals of the poor" (Gray's Elegy) became his self-description. Early ambition mixed with fatalism and melancholy.

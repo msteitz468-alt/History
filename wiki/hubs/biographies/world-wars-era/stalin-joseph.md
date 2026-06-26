@@ -20,6 +20,8 @@ tags: [biography, detailed-analysis, world-wars-era, eastern-europe, stalin-jose
 
 Graduate-level analytic study of Joseph Stalin’s formation, the mechanics of his rise and key decisions, character in context, and structural vs. contingent legacy. Primary spine: Stephen Kotkin, *Stalin: Volume 1, Paradoxes of Power, 1878–1928* (2014), using exhaustive published documents + scans + targeted archives; integrates prior scholarship while emphasizing structural legacies + personal agency.
 
+**⚠ NEEDS DEPTH EXPANSION** — Current word count: ~2,371 (target ≥5,000 words per current standards). Expand with additional verbatim primary-source quotes (with bias analysis), deeper decision mechanics + counterfactuals, fuller character/relationships treatment, and enriched Historiography.
+
 ## 1. Formation and Early Influences
 
 Born Ioseb (Soso) Jughashvili 1878/1879 in Gori (Caucasus market/artisan town, caravan junction, relatively strong educational access for the region). Father Beso (Besarion), former serf cobbler, heavy drinker, violent, clashed with mother over education; died leaving family penniless. Mother Keke (Ketevan Geladze), former serf washerwoman/seamstress, protective, ambitious, literate via her mother; viewed artisan marriage as step up; leveraged church patrons (including “Uncle Yakov” Egnatashvili, surrogate father/wrestler/pub owner). Soso survived smallpox (permanent facial scarring, nickname “Poxy”), suffered withered left arm (phaeton accident or polio), second phaeton injury 1890 (inhibited gait, “Crimped”). Early exposure to imperial garrisons, Russification (Georgian language/history curtailed in seminary), and late-19th-century Georgian cultural awakening (Chavchavadze, Tsereteli, “Suliko”).
