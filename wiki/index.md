@@ -1,3 +1,5 @@
+**New (2026-06-26 range integrate):** Vanderbilt Range 05 (Stiles: NY Central takeover, Erie War 1868 mechanics/verbatim "I will not sell the Erie Railroad anything", table, tactics) integrated. Co-Authored-By: Grok 4.3 (xAI) + subagent.
+
 **New (2026-06-26 range integrate):** Peter Range 03 (Massie GNW to Poltava: Narva, rebuild, Birze, Charles choice, verbatim, counterfactuals on empire) integrated into detailed bio. Co-Authored-By: Grok 4.3 (xAI) + subagent.
 
 **New (2026-06-26 range integrate):** Peter Range 08 capstone (Massie epilogue/legacy assessments: Kluchevsky "eternal toiler"/"citizens of the world", coercion-vs-transformation) + Grant Range 02 (Chernow early Civil War: Belmont, Donelson, Shiloh verbatim + table + character) + Vanderbilt Range 08 (Stiles final legacy, WHV expansion, corporate endurance) integrated into their detailed bios. All grounded exclusively. Co-Authored-By: Grok 4.3 (xAI) + subagents.
