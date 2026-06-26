@@ -14,7 +14,7 @@ casualties_b: [NVA/VC estimates 500k–1M+ military; civilian toll in millions a
 scale_immediate: regional
 scale_consequential: global
 event_page: [[events/vietnam-war]]
-key_sources: [[sources/summers-on-strategy-1982]], [[sources/krepinevich-the-army-and-vietnam-1986]], [[sources/nagl-learning-to-eat-soup-with-a-knife-2005]], [[sources/daddis-westmorelands-war-2014]], [[sources/willbanks-vietnam-the-course-of-a-conflict-2018]], [[sources/heuser-evolution-of-strategy-2010]]
+key_sources: [[sources/summers-on-strategy-1982]], [[sources/krepinevich-the-army-and-vietnam-1986]], [[sources/nagl-learning-to-eat-soup-with-a-knife-2005]], [[sources/daddis-westmorelands-war-2014]], [[sources/willbanks-vietnam-the-course-of-a-conflict-2018]], [[sources/wawro-the-vietnam-war-a-military-history-2024]], [[sources/heuser-evolution-of-strategy-2010]]
 last_updated: 2026-06-25
 tags: [hub, warfare, cold-war, vietnam-war, strategy]
 # Range 04 (Summers Ch. 15, Epilogue, Appendix) added: coalition warfare overinvolvement/dependence, Epilogue lessons (principles as interrogatories, battle-ax, victory definition, public honesty, mission analysis), verbatim principle framework from Appendix, biographical note, quintessence lesson. Prioritized Epilogue synthesis + cross to source Range 04 block.
@@ -491,3 +491,19 @@ Range 04 grounding: The Epilogue and Appendix directly informed 1980s reforms (F
 **Key cross-links**: [[sources/summers-on-strategy-1982]] (full Range 04 block + Volume Synthesis), [[events/vietnam-war]] (consequence/legacy sections), [[hubs/warfare/strategy]], [[concepts/principles-of-war]], [[actors/summers-harry-g]], [[concepts/clausewitz-on-war]], [[concepts/limited-war]], [[concepts/counterinsurgency]], prior Vietnam sources/actors.
 
 This page updated with Epilogue lessons and coalition synthesis per Range 04 (exclusive cache). Further expansion with OOB/campaign detail as additional sources ingested.
+
+## Wawro: Comprehensive Military History (2024)
+
+Wawro (*The Vietnam War: A Military History*, 2024) provides a recent, detailed operational narrative across the full war (655 pp). Primary value for the hub is granular treatment of major engagements and campaigns (Ia Drang Ch. 5; Tet and Khe Sanh context; Hamburger Hill Ch. 18; final 1975 "The Fall" conventional offensives) alongside the persistent political theme that US involvement was a "war of choice" driven by fear of appearing weak rather than direct provocation or strict domino necessity.
+
+**Key contributions (to be expanded with subagent verbatim blocks):**
+- Ia Drang (Nov 1965): First major clash of US airmobile forces (1st Cav) vs NVA regiments (32/33/66) in Central Highlands. Validation of heliborne tactics and firepower dominance alongside high costs (LZ X-Ray defense success; Albany ambush). NVA spoiling attempt blunted but US force committed to search-and-destroy template.
+- Tet / Khe Sanh (1968): Scope of nationwide attacks; intelligence failures and MACV fixation on Khe Sanh as "main event"; urban fighting lessons; siege defended by unprecedented air/artillery concentration (NIAGARA) but at political cost.
+- Hamburger Hill (May 1969, Dong Ap Bia / Hill 937): 10-day deliberate assault by 101st Airborne in A Shau Valley against prepared NVA defenses. High US casualties (esp. 3/187); hill taken then abandoned; emblematic of attrition costs and domestic backlash.
+- Final phases: Detailed mechanics of 1975 collapse (Ban Me Thuot "blossoming lotus," II Corps "convoy of tears," I Corps disintegration, Xuan Loc stand, FREQUENT WIND, palace surrender). ARVN dependence exposed once US combat support and will removed.
+- Broader thesis: Incremental political decisions (JFK tiptoe, LBJ Great Society protection, Nixon "first to lose" dread) produced strategy disconnected from achievable ends; military means repeatedly succeeded tactically while the political objective eroded.
+
+See dedicated hub analyses: [[hubs/warfare/cold-war/vietnam-war/battle-of-ia-drang-1965]], [[hubs/warfare/cold-war/vietnam-war/battle-of-khe-sanh-1968]], [[hubs/warfare/cold-war/vietnam-war/battle-of-hamburger-hill-1969]] (OOB tables, phases, 9 principles, modern parallels per template). Cross [[sources/wawro-the-vietnam-war-a-military-history-2024]] (Range extraction blocks to follow subagent runs). Enriches [[events/vietnam-war]], [[events/battle-of-ia-drang-1965]], [[events/battle-of-khe-sanh-1968]], [[events/battle-of-hamburger-hill-1969]].
+
+Initial scaffolding complete. Full verbatim claims and reconciliation pending main-thread review of subagent ranges. Complements prior Summers (strategic), Daddis (Westmoreland reassessment), Willbanks (operational cases).
+

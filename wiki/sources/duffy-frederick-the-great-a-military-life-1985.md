@@ -171,15 +171,67 @@ tags: [source, military-history, warfare-hub, age-of-expansion, frederick-the-gr
 
 Range summary: This range supplies Duffy's foundational account of Prussian military origins under the Great Elector and Frederick William I, Frederick's formative experiences and Rheinsberg intellectual preparation, the opportunistic decision to seize Silesia in October 1740, and the conduct and immediate lessons of the opening campaigns through the Peace of Breslau. The claims are grounded exclusively in the Preface, Abbreviations, Chapter 1 "Origins," and the first half of Chapter 2 as contained in the assigned cache. They establish the source base, character continuities, army institutions, and early operational pattern that Duffy uses to frame Frederick's later career.
 
-### Range 2 Extraction (lines 2501–5000)
-**Source grounding note:** Remainder of Chapter 2 (Silesian Wars), Chapter 3 The Armed Camp, and opening of Chapter 4. All claims verbatim from this slice only.
+### Range 2 Extraction (lines 2801–5200)
+**Source grounding note:** Remainder of Chapter 2 (Silesian Wars conclusion), Chapter 3 The Armed Camp 1745–56, oblique order codification, and buildup. All claims verbatim from this slice only (R02 agent extraction).
 
-[Claims to be inserted from subagents]
+**Duffy-FG-R02-Lessons1744ConcentrationDiscipline**  
+**Grounding quote:** "Frederick pondered deeply about the chastening but instructive experiences of 1744. In future he took full account of the peculiarly frustrating conditions of warfare in Bohemia. He had also learnt something about the concentration of forces..."  
+**Locator:** Ch. 2 (post-1744).  
+**Analysis:** 1744 near-collapse taught concentration and the fragility of Prussian discipline once relaxed.
 
-### Range 3 Extraction (lines 5001–8000)
-**Source grounding note:** Chapter 4 The Theatre of War and early/mid Chapter 5 (Seven Years War to 1757–8 campaigns). All claims verbatim from this slice only.
+**Duffy-FG-R02-HohenfriedebergFlankPlanBayreuth**  
+**Grounding quote:** "...execute an overnight march... roll up the enemy flank... the Bayreuth Dragoons... In twenty minutes the regiment took five cannon, sixty-seven colours and 2,500 prisoners..." (Napoleonic-style reserve role).  
+**Locator:** Ch. 2 (Hohenfriedeberg).  
 
-[Claims to be inserted from subagents]
+**Duffy-FG-R02-ArmedCampObliqueTheoryShortWars**  
+**Grounding quote:** "these are the occasions on which my oblique order of battle can be employed to great effect... An army of 100,000 men, out-flanked in this way, may be beaten by 30,000... our wars must be short and lively..."  
+**Locator:** *Principes Généraux* (Ch. 3).  
+
+**Duffy-FG-R02-1756PreemptionWinterfeldtPlanning**  
+**Grounding quote:** "It was therefore on the basis of well-established contingency plans that Frederick and Winterfeldt made arrangements to assemble 62,000 troops for the invasion..." Frederick dismissed Russians as barbarians and "the Empress has no money."  
+**Locator:** Ch. 3.  
+
+Range 2 supplies the post-1745 reconstruction, oblique codification, Potsdam/Spandau manoeuvres, Winterfeldt's role, and the intellectual/strategic pressures leading directly to the 1756 pre-emptive decision. 
+
+(Additional structured claims and table rows from R02 available for bio integration: Hohenfriedeberg/Soor mechanics, Lobositz lessons, armed-camp finances/forts/POWs retained, theatre logic of Elbe/Saxony as "deposit".)
+
+### Range 3 Extraction (lines 5201–8200)
+**Source grounding note:** Theatre of War + early/mid SYW 1757 (Prague, Kolin, Rossbach, Leuthen). All claims verbatim from R03 agent.
+
+Key: geography/logistics (Elbe navigation, magazines, fodder timing); command system (verbal briefings, delegation vs interference); 1757 Bohemia invasion surprise; Prague (Schwerin push, ill Frederick, high losses, unused Keith); Kolin (overconfidence, plan changes from oblique to frontal, "Now the battle is lost!", first serious doubts on generalship); Rossbach (Seydlitz authority, echelon + Moller battery, <550 vs >10k, "reputation... saved"); Leuthen (concealed march, textbook oblique, Parchwitz Address "conquer or die", Driesen initiative, greatest victory). 
+
+**Duffy-FG-R03-ParchwitzAddress**  
+**Grounding quote:** "I am marching to attack this position... I must conquer or die... Bear in mind, gentlemen, that we shall be fighting for our glory, the preservation of our homes, and for our wives and children..."  
+**Locator:** Parchwitz (Leuthen context).
+
+(Full table rows and verbatim for Rossbach/Leuthen mechanics, character under fire, subordinate initiative in bio.)
+
+### Range 4 Extraction (lines 8201–11000)
+**Source grounding note:** Mid-late SYW crises 1758–63. Verbatim R04.
+
+Kunersdorf (continuation after initial success despite advice; ~19k loss, "everything is lost", overconfidence/scorn); Maxen (detachment trap, ~13k captured, "date our fall from Maxen"); Torgau (split force, grenadier massacre, Zieten rescue, Borodino-like); Liegnitz reposition success; Bunzelwitz entrenchment (phlegm of Daun); 1762 Burkersdorf (post-Miracle feints + timed assault); Elizabeth death "Miracle of the House of Brandenburg".
+
+**Duffy-FG-R04-Kunersdorf-Attack** and table rows in bio detail the attrition decision mechanics (fight vs. maneuver), personal exposure, army decline, coalition friction.
+
+### Range 5 Extraction (lines 11001–13500)
+**Source grounding note:** Old Fritz character study + Bavarian Succession. Verbatim R05.
+
+Private vs public "guise of soldier, philosopher and poet"; Sans Souci vs Potsdam; flute tension; misanthropy/isolation (Maria Theresa: "does he have a single friend?"); 1778 Potato War as late-style test (artillery lag, non-combat losses > SYW, stalemate, "military character" failure, Frederick ultimate responsibility). 1763 instructions harsh discipline quote.
+
+(Full R05 integration already in bio sections 3-7.)
+
+### Range 6 Extraction (lines 13501–end)
+**Source grounding note:** Final years + Ch. 9 analytical. Verbatim R06 (richest for theory/practice).
+
+Deism, war utility from passions; short wars theory vs interior lines "ruin our armies"; full oblique mechanics + evolution + defects (Leuthen perfection, "reached the enemy out of breath" later); personal command as eyes of army + loss of control once engaged (Kolin spectator); fodder as strategic master; writings illuminate (honesty, principles) and obscure (numbers, gap); "man of perception, and perhaps unsuspected adaptability"; comparisons (Eugene, Napoleon parallels late); legacy Silesia + army machine + cautionary personal command limits; Frederick as historian assessment.
+
+**Duffy-FG-R06-018** etc. already drive bio sections 5,8,9.
+
+## Volume Synthesis Note
+
+Duffy's military life is the premier English operational biography. It uses Frederick's 76-volume printed corpus + topography + participant testimony (Mitchell, Catt, Warnery, Archenholtz, Gaudi) to demonstrate both the power of the inherited Prussian machine and its ultimate brittleness when commanded personally at scale against coalitions. The work excels at showing the theory-practice dialectic: oblique order, short wars, concentration, and personal oversight were real advantages in 1740-45 and 1757 but repeatedly strained or contradicted by logistics, enemy adaptation, and the limits of unitary command. Duffy is critical of myth-making (Old Fritz cult) while giving full credit to Frederick's resilience, intelligence work, and capacity to learn (or at least adapt) under extreme pressure. The "Miracle" and allied frictions are presented as co-equal with Prussian arms in the survival outcome. Ch. 9 is the analytical crown: Frederick as deist soldier-intellectual whose writings are both indispensable and self-serving. The biography supplies the spine for all detailed treatment of Frederick's generalship in the wiki. 
+
+(Full claims from all ranges support the expanded [[hubs/biographies/age-of-expansion/frederick-the-great]] page.)
 
 ### Range 4 Extraction (lines 8001–11065)
 **Source grounding note:** Main body of Chapter 5 (mid-to-late Seven Years War campaigns 1758–1763). All claims verbatim from this slice only.

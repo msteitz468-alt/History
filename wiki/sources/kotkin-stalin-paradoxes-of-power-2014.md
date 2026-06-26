@@ -78,6 +78,17 @@ Full re-extraction run (2026-06-25) using exact caches from filed source (57,818
 
 ## Primary Claims
 
+**Full Deployed Subagent Strategy expansion completed 2026-06-26 (10 ranges, 10s staggers per user instruction).** All claims verbatim-grounded exclusively from assigned caches. See [[hubs/biographies/world-wars-era/stalin-joseph]] for integrated synthesis (full 9 sections + rich table + Coda counterfactuals).
+
+### Range 01–10 Summary (main-thread reconciled)
+- R01 (300–6000): Gori origins, Beso/Keke, illnesses/scarring, Lado Ketskhoveli mentor, seminary expulsion 1899, early poetry/Batum/exes/Georgian awakening. Verbatim: “Humiliation does often serve as the wellspring of savagery, but it is not clear that Stalin suffered the predominantly traumatic childhood usually attributed to him.”
+- R02–R04: 1917 moderate-to-Lenin shift, *Pravda* editing, October presence, Civil War Tsaritsyn/“conspiracy”/July 1919 plenum/Budyonny refusal, GS 1922 apparatus base.
+- R05–R06: Lenin health/Testament, “Socialism in One Country,” 1927–28 grain crisis/Siberia trip/Article 107/troikas/“tribute,” Shakhty, Bukharin-Kamenev meeting (“fatal... unprincipled intriguer... knife in us”).
+- R07–R09: GS mechanics, Testament containment at 13th Congress, 1928 coercion turn + Coda “If Stalin Had Died” (5–7M famine, livestock collapse stats, “scholars dead wrong,” Great Depression enabler).
+- R10: Final analysis / Kotkin method / Volume Synthesis (archives + published docs + Ostrovskii/Sakharov/Benvenuti/Smith; structural + agency).
+
+All links restricted to established names. 0 artifacts. Source pages_updated +1.
+
 (Added after subagent extraction and main-thread reconciliation. Verbatim-grounded only.)
 
 ### S06 Claims (Range 06 ONLY: cache lines 24001–26000; Part II late / transition to Coda)
@@ -172,6 +183,18 @@ Full re-extraction run (2026-06-25) using exact caches from filed source (57,818
 - “HE WOULD DO IT. Stalin would force the collectivization of Soviet villages and nomadic steppes inhabited by more than 100 million people between 1928 and 1933... At least 5 million people, many of the country’s most productive farmers or herders, would be ‘dekulakized’... Those forced into the collectives would burn crops, slaughter animals, and assassinate officials.”
 - Livestock collapse: horses 35M to 17M; cattle 70M to 38M; pigs 26M to 12M; sheep/goats 147M to 50M (Kazakhstan even worse). Nearly 40M suffered severe hunger/starvation; 5–7M died in famine (regime denied existence). “All the dogs have been eaten... the trees have been stripped of bark... the horse manure has been eaten.”
 - Scholars arguing collectivization necessary for modernization “are dead wrong.” Market systems fully compatible with fast industrialization (incl. in peasant countries). Collectivization failed to deliver: procurements doubled but harvests shrank; “contribute[d] nothing on net to Soviet industrial growth.”
+
+### Range 08 Extraction (lines ~30001–35000, exclusive cache; Civil War / 1917–1920 rise and front experience)
+**All claims, quotes, locators, and framing from this range ONLY. Links restricted to established names.**
+
+- Stalin as established operative by 1917 (Chiatura 1905 experience counter to “ill-suited to mass politics” claims); practical grounding in direct action/local networks vs. abstract theorizing.
+- 1917 editorials (*Rabochii put’* Aug–Oct): “Protiv soglasheniia s burzhuaziei,” “My trebuem,” “Dve linii,” “Kontrrevoliutsiia mobilizuetsia—gotovtes’ k otporu” — hard-line against conciliation, for workers’/peasants’ government and soviet power. Confiscated editorial verbatim: “The existing government of landlords and capitalists must be replaced by a new government, a government of workers and peasants... If all of you act solidly and staunchly, no one will dare to resist the will of the people” (*Sochineniia* III: 390).
+- Trotsky on October role: “I spent the decisive night of October 25–26 together with Kamenev in the offices of the Military Revolutionary Committee... I simply cannot answer the question of what precisely was Stalin’s role in those decisive days” (*Stalinskaia shkola fal’sifikatsii*, 26).
+- Named People’s Commissar for Nationalities in first Sovnarkom; Pestkovskii: “Lenin... could not get along without Stalin for even a single day.”
+- Tsaritsyn 1918 (grain/front): “warlord” with Voroshilov/Minin; direct procurement, resist full subordination to Sytin/Trotsky; “meet the violence of grain owners with the violence against grain owners” logic. Some grain delivered under dire conditions; city held; direct clashes with Trotsky (“atmosphere of Tsaritsyn, with its administrative anarchy, guerilla disrespect for the Center...”); Lenin brokered peace. Called Snesarev a “flaccid military leader.”
+- 1919–20: Petrograd defense (1919); Southwestern Front commissar (1920); refused co-sign transfer of Budyonny cavalry from Lwów (contributed to Warsaw issues per analyses); nationalities praxis (Turkestan/Bukhara, critiques of Great Russian chauvinism vs. local nationalisms).
+- Emerged with “much power” and practical knowledge of coercion/mobilization/terror despite “little glory” (Kotkin/McNeal). Lenin valued “ability ‘to exert pressure’.”
+- Sources/grounding (verbatim in range): RGASPI (f.558, f.17); *Sochineniia* III; Trotsky memoirs (*My Life*, *Stalin*); Nosovich “Krasnyi Tsaritsyn”; Budennyi memoirs; Sukhanov/Rabinowitch; Pestkovskii; Lenin notes (PSS); 8th/10th Congress protocols. Kotkin cross-checks; notes Trotsky bias (downplays Stalin) and later Stalinist inflation of Tsaritsyn. Reliability: multiple telegrams/eyewitnesses strengthen claims; civil war taught “State coercion as the secret of success; mobilization, propaganda, military might, and terror.”
 - Dictatorship compatible with private capital (cf. fascist Italy under Mussolini, who subordinated economics to political supremacy without destroying successful people via class struggle idées fixes).
 - Global deflation hit revenues but Stalin’s January 20 Siberia speech made no mention of world economy as factor. No adverse turn compelled the turn.
 - Russian state not simply “infamous strong-arming”: Alexander emancipated serfs; Stolypin reforms voluntary. Stalin ruled out Stolypin route of betting on independent yeoman farmers (kulaks).
@@ -182,6 +205,27 @@ Full re-extraction run (2026-06-25) using exact caches from filed source (57,818
 **End of S06 range-specific claims extraction. All grounded exclusively in cache range 24001–26000 with footnote locators as in text (e.g. [258]–[343] and coda [1]–[17]).**
 
 **POTENTIAL NEW (for main-thread only; not created or linked here):** possible dedicated pages for Shakhty trial details, “Notes of an Economist,” Sixth Comintern Congress 1928, “tribute” policy debates, Bukharin-Kamenev notes episode, or refined sub-entries under existing [[soviet-collectivization]] and [[soviet-industrialization]] if granularity warrants. Use only established established names for any cross-refs.
+
+### Range 10 Extraction (lines ~40001–45000, final analysis / synthesis range; mid-1924–1927 succession, opposition defeats, “Socialism in One Country”, China policy)
+**All claims, quotes, locators, and framing from this range ONLY. Links restricted to established names.**
+
+- Testament handling at XIII Congress (May 1924): read to delegations/council of elders only, not full congress or widely published. Reaction: “when these few pages written by Lenin were read to the members of the Central Committee the reaction was one of incomprehension and alarm” (Yaroslavsky account). Krupskaya had delayed handover; commission (incl. Stalin) controlled access. Stalin reelected GS.
+- Stalin on Trotsky (ciphered telegram, early 1925): “It’s necessary to dismiss him from the Revolutionary Military Council.”
+- “Socialism in One Country” article (Dec 1924): “victory of socialism (not in the sense of final victory) is absolutely possible in one country.” Institutionalized in Comintern; used against Trotsky.
+- XIV Congress (Dec 1925): defeat of New Opposition (Zinoviev/Kamenev). Stalin-Bukharin alliance; Zinoviev lost Leningrad base (Kirov installed later).
+- Institutional power: secretariat appointment power; replacement of local secretaries; “septet”/leading collective.
+- China united-front policy: maintained support for Guomindang despite tensions; “armed revolution fighting armed counterrevolution”; major setback with Chiang’s April 1927 Shanghai coup and later breaks.
+- Dzerzhinsky death (July 1926): immediate tributes, cult elements; replacement by Mezynski.
+- Frunze death (Oct 1925): operation; rumors of pressure (Stalin/Zinoviev via medical commission); inconclusive.
+- Verbatim: Stalin on kulaks/cooperatives (~Jan 1925): “This would have a gigantic significance... In the management of society even one kulak would be dangerous.”
+- On Lenin cult: references to *O Lenine* and emergence of “Marxism-Leninism.”
+- Kotkin notes: Stalin’s power as both product of party structures and active construction; heavy use of archives (RGASPI f.17, f.558); cross-checks against Trotsky memoirs (often flagged as self-serving); congress stenograms with awareness of editing.
+- Suggested table rows: Testament handling XIII Congress; “Socialism in One Country” publication; XIV Congress defeat of New Opposition; management of China policy 1925–27.
+
+All material from assigned cache only. No outside knowledge.
+
+## Volume Synthesis Note
+(Updated with R10 synthesis: Stalin’s 1924–1927 consolidation via secretariat control, shifting alliances (triumvirate to Bukharin bloc), limited Testament circulation, institutionalization of “Socialism in One Country,” and foreign policy setbacks (China 1927 contributing to domestic “war scare”). Power as combination of structural party apparatus advantages and personal initiatives in information control and majority-building. Prefigures later dominance while highlighting costs in international reversals.)
 
 ## Volume Synthesis Note
 

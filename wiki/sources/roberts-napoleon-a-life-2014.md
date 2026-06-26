@@ -9,8 +9,9 @@ methodological_approach: [narrative biography, archival correspondence, battlefi
 reliability_notes: |
   Viking/Penguin, 2014. Major modern cradle-to-grave biography. Central methodological advance: the post-2004 Fondation Napoléon complete edition of over 33,000 letters signed by Napoleon (far more complete and less bowdlerized than the 19th-c. Napoleon III compendium that underpinned nearly all prior lives). Roberts also personally visited 53 of Napoleon’s 60 battlefields, adding topographic and tactical insight. Strong on: intimate voice and self-appraisal from the new letters; compartmentalization, humor, micromanagement style; institutions (Code, prefects, Conseil d’État, education, finance) as the “greatest and most lasting victories”; complex personal life (Josephine marriage, mistresses, dynastic divorce); rejection of totalitarian caricature. Limitations: lighter on granular regimental tactics/OOBs and coalition diplomacy details (cross-reference Chandler, Muir, Rothenberg, Epstein for those); author’s admiration for subject is evident but not uncritical (flags Continental System folly, Russia overreach, typhus ignorance, etc.). Napoleon presented as “the Enlightenment on horseback” who saved the Revolution’s best elements (meritocracy, equality before law, abolition of feudalism) while discarding the worst (Terror, hyper-inflation, revolutionary calendar) and modernizing Europe. Primary-source texture exceptionally rich via letters; self-mythologizing in Las Cases Mémorial and pro-Bonapartist writers (Stendhal, Hugo) explicitly critiqued.
 pages_created: 3
-pages_updated: 7
+pages_updated: 8
 ingested: 2026-06-25
+last_updated: 2026-06-25 (R04 early denouement extraction)
 tags: [source, biography, age-of-expansion, long-19th-century, napoleon, french-revolution, napoleonic-wars, civil-code, enlightenment, josephine]
 ---
 
@@ -100,14 +101,58 @@ Any other names (places, lesser marshals, specific battles, concepts) must be pr
 
 Claims are extracted exclusively from the source text slices by dedicated subagents (Deployed Subagent Strategy per CLAUDE.md). Each carries verbatim grounding and uses only pre-established page names or [[unknown]]. Main thread performs deduplication, cross-linking, and synthesis after all ranges complete.
 
-### From Range 01 (Introduction + Part One Rise early chapters; lines 823–7500)
-**R01-Claim-1: Napoleon's Birth and Corsican Family Background**
+### From Range 01 (Introduction + Part One Rise; lines ~800–7500)
+**R01-CorsicanIdentityFamily**  
+Napoleone di Buonaparte (signed until manhood) born Ajaccio 15 Aug 1769 on tapestry after Letizia felt labour pains returning from church. Family minor Corsican gentry of Florentine origin (land, mill, sheep, vineyard, servants); social penumbra between bourgeoisie and minor nobility. Carlo (tall, handsome, Enlightenment-influenced) and Letizia (strong-willed, uneducated, “head of a man on the body of a woman”) had eight surviving children. After Ponte Nuovo (May 1769), Carlo refused exile with Paoli and took oath to Louis XV (retained assessor/forestry posts; later represented Corsican nobility in Paris). Family benefited; no evidence Napoleon despised father (named son Charles). “To my mother, I owe my fortune and all I’ve done that’s worthwhile.”  
+**Grounding quote:** “‘She was on her way home from church when she felt labour pains,’ he would later say of his mother, Letizia, ‘and had only time to get into the house, when I was born, not on a bed, but on a heap of tapestry.’”  
+**Locator:** Corsica chapter (R01).  
+**Links:** [[actors/napoleon]], [[nationalism]].
 
-Napoleon was born Napoleone di Buonaparte in Ajaccio on 15 August 1769 on a heap of tapestry after his mother Letizia felt labour pains returning from church. The Buonaparte family were minor Corsican gentry of Florentine origin with land, a mill, sheep, vineyard and servants; they occupied the social penumbra between haute bourgeoisie and very minor nobility and never had to buy wine, bread or olive oil. Carlo Bonaparte (tall, handsome, Enlightenment-influenced) and Letizia (strong-willed, uneducated) had eight surviving children; the family understood the need to align with France after the 1769 defeat.
+**R01-EducationBrienneEcole**  
+Sent to France age 9 (Autun 1779 for French; Brienne Royal Military School ~1779–84; École Royale Militaire Paris 1784–85). Excelled in mathematics (key for artillery); voracious reader (Plutarch, Caesar, Arrian on Alexander, Polybius, Voltaire, Rousseau, Ossian, Corneille, Racine). Heroes: Paoli (living), Alexander, Caesar, Charles XII. Thick Corsican accent + poverty + pride in homeland drew teasing → reinforced nationalism. Father died 1785 (stomach issues); Napoleon assumed family headship. “History could become for a young man the school of morality and virtue...”  
+**Grounding quote:** “I was the poorest of my classmates... I was proud, I was careful not to show it... I didn’t know how to smile or play like the others.”  
+**Locator:** Corsica chapter (R01).  
+**Links:** [[actors/napoleon]], [[napoleonic-warfare]].
 
-" Napolean di Buonaparte, as he signed himself until manhood, was born in Ajaccio... just before noon on Tuesday, August 15, 1769. 'She was on her way home from church when she felt labour pains,' he would later say of his mother, Letizia, 'and had only time to get into the house, when I was born, not on a bed, but on a heap of tapestry.'" (Corsica chapter)
+**R01-EarlyWritingsNationalism**  
+~60 pre-26 writings (essays, novellas, pamphlets, history of Corsica). Fierce early nationalism: “The Corsicans, following all the laws of justice, have been able to shake off the yoke of the Genoese, and may do the same with that of the French. Amen.” (1786 resistance essay). “On Suicide” (1786): romantic melancholy + “My fellow-countrymen are weighed down with chains... A good patriot ought to die when his fatherland has ceased to exist.” Shifted post-Revolution to French/Jacobin alignment after Paoli rejected Bonapartes. Clisson et Eugénie (1795 novella, heavily autobiographical): foreshadowed Josephine drama.  
+**Grounding quote:** “I was born when the country was perishing. Thirty thousand Frenchmen vomited onto our coasts, drowning the thrones of liberty in seas of blood...”  
+**Locator:** Revolution/Corsica chapters (R01).  
+**Links:** [[nationalism]], [[actors/napoleon]], [[french-revolution-1789]].
 
-Preceded_by: French conquest of Corsica after the battle of Ponte Nuovo (1769). Contributed_to: Napoleon's later sense of himself as a "good Corsican family" outsider who would found an empire.
+**R01-CompartmentalizationHumor** (foreshadowed)  
+Napoleon likened mind to “drawers in a cupboard.” On eve of battle could dictate girls’ school rules or Comédie-Française regulations. “A more unexpected aspect... was his fine sense of humour. All too often historians have taken seriously remarks that were clearly intended as humorous. Napoleon was constantly joking to his family and entourage, even in the most dire situations.”  
+**Grounding quote:** (compartmentalization) “Napoleon was able to compartmentalize his life to quite a remarkable degree... On the eve of battle... he could dictate his thoughts on the establishment of a girls’ school... and shortly after having captured Moscow he set down the regulations governing the Comédie-Française.”  
+**Locator:** Introduction (R01).  
+**Links:** [[actors/napoleon]].
+
+**R01-RevolutionToulonParis + Vendemiaire**  
+Supported early Revolution (Friends of the Constitution; anti-clerical; Corsican National Guard lt-col 1792). Key: Toulon (artillery role; promoted brig-gen age 24). Paris 1792 witnessed Tuileries/Sept Massacres. 13 Vendémiaire Year IV (5 Oct 1795): Barras appointed second-in-command; seized Sablons cannon via Murat; deployed grapeshot vs. Sections (~300 rebels killed vs. ~6 government). Promoted gén. de division, then Army of Interior commander. Met Josephine (Vicomtesse de Beauharnais; affair with Barras/Hoche/Charles); civil marriage 9 Mar 1796.  
+**Grounding quote:** “The ‘whiff of grapeshot’... meant that the Paris mob played no further part in French politics for the next three decades.”  
+**Locator:** Desire chapter (R01).  
+**Links:** [[actors/josephine-de-beauharnais]], [[actors/napoleon]], [[french-revolution-1789]].
+
+**R01-ItalyRiseLodiMilan**  
+Command Army of Italy (Mar 1796). Rapid victories (Montenotte etc.); Lodi bridge (10 May): personal leadership, “darling child of victory.” Entered Milan 15 May triumphantly; created Lombard Republic, “contributions,” reforms (tariffs, ghettos, feudalism), propaganda.  
+**Grounding quote:** “Soldiers, you have rushed like a torrent from the top of the Apennines... You will then return to your homes... ‘He belonged to the Army of Italy.’”  
+**Locator:** Italy chapter (R01).  
+**Links:** [[actors/napoleon]], [[nationalism]], [[events/napoleonic-wars]], [[hubs/warfare/long-19th-century/napoleonic-wars/napoleonic-wars]], [[mediterranean]], [[western-europe]].
+
+**R01-EgyptSyriaInfidelity + Brumaire**  
+Egypt 1798 (strike Britain/India; savants component). Pyramids (21 Jul): “From the top of those pyramids, forty centuries are contemplating you.” Junot revealed Josephine/Hippolyte Charles affair at Wardan ~19 Jul 1798 → devastated; no letters to her ~2 years; mistress in Cairo. Syria/Acre. Returned 1799. 18–19 Brumaire (9–10 Nov): allied with Sieyès/Talleyrand/Fouché/Lucien. Elders moved legislature to St-Cloud; Napoleon appointed district commander. Day 2: Elders speech; Five Hundred hostile (“Cromwell!”, “Tyrant!”, “Hors la loi!”); Lucien’s theatrical sword-on-Napoleon oath swayed guards; Murat/grenadiers cleared Orangery. Provisional Consulate (Sieyès, Ducos, Napoleon); no popular resistance.  
+**Grounding quote:** (Five Hundred) “‘Down with the tyrant!’... ‘Cromwell!’, ‘Tyrant!’, ‘Down with the dictator!’, ‘Hors la loi!’”  
+**Locator:** Brumaire chapter (R01).  
+**Links:** [[actors/talleyrand-charles-maurice]], [[actors/napoleon]], [[french-revolution-1789]], [[periods/age-of-expansion]].
+
+**R01-SourceCritique**  
+Roberts privileges post-2004 Fondation Napoléon complete correspondence (33k+ letters; charm, humor, self-appraisal, ½+ military) vs. Napoleon III bowdlerized (only 2/3; propaganda insertions/omissions). Critiques Las Cases *Mémorial* (self-mythologizing, up to 12 hrs/day dictation, fraudulent inserts e.g. Madrid 1808); Bourrienne (ghosted, embezzlement, snowball battle likely invention); Fouché/Barras/Montholon/others ghosted or compromised (pensions/jobs under Bourbons). Objective contemporaries (Caulaincourt actual, Bertrand, Méneval, Bausset) preferred when cross-checked.  
+**Grounding quote:** “Every one of them published since 1857 relied upon the correspondence that Napoleon III published... shamefully bowdlerized... In all the compendium included only two-thirds of his total output.”  
+**Locator:** Introduction (R01).  
+**Grounding quote:** (Las Cases) “he wildly exaggerated his accomplishments... Las Cases even inserted a fraudulent document intended to absolve him of culpability for the harsh crushing of the Madrid revolt of May 1808.”  
+**Locator:** Introduction (R01).  
+**Grounding quote:** “All too often historians have taken at face value the biographies written by people around Napoleon, whereas many of them were deeply compromised... The Comte de Montholon... ghosted by the novelist Alexandre Dumas.”  
+**Locator:** Introduction (R01).  
+**Links:** [[sources/roberts-napoleon-a-life-2014]].
 
 **R01-Claim-2: Carlo Bonaparte's Oath of Loyalty and Collaboration with France**
 
@@ -423,15 +468,16 @@ He wrote hundreds of letters (boots, uniforms, Jewish policy, press duties, etc.
 **actors_primary:** [[actors/napoleon]], [[actors/josephine-de-beauharnais]]  
 **concurrent_with:** zenith consolidation in [[periods/long-19th-century]] and [[western-europe]] / [[eastern-europe]]
 
-### From Range 04 (Part Three Denouement; lines 15501–19500)
-**R04-Claim-1: Alexander I's rearmament, ukaz, and refusal to negotiate as direct drivers of the 1812 war**  
+### From Range 04 (Part Three Denouement early; /tmp/napoleon-roberts-ranges/range_04_denouement_early.txt ~15873–19000; Russia 1812 campaign, typhus, Borodino, Moscow, Maloyaroslavets route choice, Berezina)
+**R04-Claim-1: Overreach phase — buildup and decision to invade despite warnings; early attrition sets conditions for disaster** (R04)  
 
-From late 1810, Tsar Alexander rearmed Russia extensively, reformed the army under Barclay de Tolly, and issued a ukaz opening trade to neutrals while banning certain French goods, directly contravening Tilsit/Erfurt. This, combined with annexation disputes over Oldenburg and suspicions over Poland, made conflict inevitable despite Napoleon's repeated attempts at correspondence. Napoleon wrote Alexander in late February 1812 listing grievances over Oldenburg, Moldavia/Wallachia, and the ukaz, insisting differences could be resolved without war, but the Tsar rebuffed further efforts.  
+Napoleon crossed the Niemen 24 June 1812 with ~250,000 horses and a polyglot Grande Armée (48% French infantry). He planned a short campaign to force battle and return, explicitly telling Jomini he did not intend to march on Moscow. Russian withdrawal strategy (Barclay/Kutuzov) and logistics collapse quickly turned it into overreach. (R04)  
 
-Verbatim: “By 1814,’ he said, ‘I can, according to my most exact calculations, enter the lists with a well-equipped army of 400,000. With 200,000 I will cross the Oder, while another 200,000 will cross the Vistula.” (early in Chapter 23 “Russia,” recounting Wrangel’s 1810 visit and ukaz context). “Alexander took up none of Napoleon’s proposals. The Russians were retreating steadily before the Grande Armée.” (during 1811–12 correspondence).  
-Links: **caused_by: [[actors/alexander-i]]** (rearmament and ukaz); **contributed_to: [[events/napoleonic-wars]]**; **preceded_by** tensions from Tilsit/Erfurt.
+Verbatim (to Jomini at Vilnius, early July): “I much prefer to get there in two years’ time… If M. Barclay thinks that I want to run after him all the way to the Volga, he is very much mistaken. We shall follow him as far as Smolensk and the Dvina, where a good battle will allow us to go into cantonments. I shall return here, to Vilnius… That is better, I think, than running to Moscow. What do you say, Monsieur Tactician?”  
+Verbatim (to Marie Louise from Gloubokoïé): “The weather is very rainy… the storms in this country are terrible.” “We are having unbearable heat, 27 degrees. This is as hot as in the Midi.”  
+Links: **caused_by: [[actors/alexander-i]]** (ukaz + rearmament); **part_of: [[events/napoleonic-wars]]**; **produced:** overstretch into Old Russia. Preceded_by: Continental System enforcement. (R04)
 
-**R04-Claim-2: Typhus epidemic as major non-combat killer crippling the Grande Armée early in the 1812 invasion**  
+**R04-Claim-2: Typhus epidemic as major non-combat killer crippling the Grande Armée early in the 1812 invasion** (R04)  
 
 Typhus, spread by lice in unwashed troops and poor conditions, struck immediately after crossing the Niemen; 6,000 men fell ill daily in the first week, with over 80,000 dead or sick by the third week of July (at least 50,000 from typhus). This destroyed roughly one-fifth of the central army group within a month, before any major battle, exacerbating supply and morale collapse. Napoleon’s medical services could not respond effectively as the link to lice was unknown.  
 
@@ -459,7 +505,7 @@ Napoleon entered Moscow 15 September 1812 to find it largely evacuated; fires br
 Verbatim: “I am setting fire to my mansion… rather than let it be sullied by your presence.” (Rostopchin). “Napoleon’s earlier hopes revived at the sight of the palace, but at dusk that evening fires broke out simultaneously across the city.” “Don’t believe that the ones who burnt Moscow are people to make peace a few days later.” (Chapter 25 “Retreat”).  
 Links: **contributed_to:** decision to retreat; **produced:** confirmation of Alexander I’s intransigence.
 
-**R04-Claim-6: Maloyaroslavets council and fateful route decision**  
+**R04-Claim-6: Maloyaroslavets council and fateful route decision (Signature overreach decision)** (R04)  
 
 After the bitter 24 October 1812 battle at Maloyaroslavets (town changed hands nine times), Napoleon convened a rare council in a weaver’s hut at Gorodnya on 25 October. Davout urged the southern Medyn/Yelnya route through fresh territory; most (Eugène, Berthier, Caulaincourt, Bessières) favored the northern Mozhaisk–Smolensk road due to known depots, congestion risks, and Kutuzov’s parallel position. Murat supported attacking south. Napoleon chose the northern route (later admitting “I was the master, and mine was the fault”). This lengthened exposure to winter and Russian harassment.  
 
@@ -473,7 +519,7 @@ By late November 1812, with Wittgenstein and Chichagov converging on the Berezin
 Verbatim: “What Saint-Cyr in his memoirs accurately described as ‘the miraculous crossing of the Berezina’ had begun…” “He watched his army pass by in the most wretched condition… his outward appearance seemed indifferent and unconcerned…” (Chapter 25 “Retreat”).  
 Links: **enabled** survival of a remnant; **part_of** the catastrophic retreat in [[events/napoleonic-wars]].
 
-**R04-Claim-8: Napoleon’s self-control and character under extreme stress (letters, Malet, losses)**  
+**R04-Claim-8: Napoleon’s self-control and character under extreme stress (letters, self-appraisal, Berezina) (R04)**  
 
 Napoleon maintained rigid emotional control (“it’s taken me years to cultivate self-control to prevent my emotions from betraying themselves”) even after Russia, dictating “My health is good” repeatedly in letters to Marie Louise (dozens of instances pre- and post-Moscow). The Malet conspiracy (forged news of his death) shocked him because no one prioritized the King of Rome/Marie Louise. He mourned Duroc and Bessières personally but prioritized duty.  
 
