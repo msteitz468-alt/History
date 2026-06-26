@@ -1,3 +1,5 @@
+**New (2026-06-26 range integrate):** Grant Range 03 (Chernow Vicksburg: Holly Springs lesson, battery runs, "I was on dry ground...", siege, verbatim, character, table) integrated. Co-Authored-By: Grok 4.3 (xAI) + subagent.
+
 **New (2026-06-26 range integrate):** Vanderbilt Range 05 (Stiles: NY Central takeover, Erie War 1868 mechanics/verbatim "I will not sell the Erie Railroad anything", table, tactics) integrated. Co-Authored-By: Grok 4.3 (xAI) + subagent.
 
 **New (2026-06-26 range integrate):** Peter Range 03 (Massie GNW to Poltava: Narva, rebuild, Birze, Charles choice, verbatim, counterfactuals on empire) integrated into detailed bio. Co-Authored-By: Grok 4.3 (xAI) + subagent.
