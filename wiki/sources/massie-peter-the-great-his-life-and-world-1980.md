@@ -10,6 +10,8 @@ reliability_notes: ["Pulitzer Prize for Biography (1981). Masterful synthesis of
 pages_created: 2
 pages_updated: 8
 ingested: 2026-06-25
+last_updated: 2026-06-26
+reingest_note: "Full reingest via Deployed Subagent Strategy (8 weighted disjoint ranges) for Biography Hub upgrade of [[hubs/biographies/age-of-expansion/peter-the-great]]. Caches /tmp/peter-massie-ranges. Expand to full 9 sections + table + verbatim + bias + counterfactuals. Main reconciliation. Co-Authored-By: Grok 4.3 (xAI) + subagents."
 tags: [source, early-modern, age-of-expansion, eastern-europe, russia]
 ---
 

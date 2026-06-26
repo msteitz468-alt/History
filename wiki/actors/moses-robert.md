@@ -10,7 +10,8 @@ opposed_by: [various mayors and governors in later career, community groups, Jan
 key_events: [early reform work in NYC and under Al Smith (1910s–1920s), creation and chairmanship of Long Island State Park Commission, design and construction of Jones Beach State Park and parkway system, appointment as NYC Parks Commissioner (1934), Construction Coordinator, and multiple authority chairs, Triborough Bridge and tunnel network, West Side Highway / Henry Hudson Parkway, Cross-Bronx Expressway and other urban highways (1930s–1960s), slum clearance and Title I housing projects, 1964 New York World's Fair planning and execution, confrontation with Robert Wagner over Planning Commission (1954), final clashes with Nelson Rockefeller and John Lindsay (1960s), removal from key posts, [[events/long-island-expressway-1955]], [[events/1964-65-new-york-worlds-fair]]]
 key_processes: [creation and expansion of independent public authorities as vehicles for large-scale infrastructure, New Deal–era and post-war highway and park building in NY metropolitan area, urban renewal and slum clearance programs, transformation of New York City physical form and suburbanization of Long Island, [[processes/public-authorities-as-power-instrument-ny]]]
 sources_ingested: 1
-last_updated: 2026-06-25
+last_updated: 2026-06-26
+reingest_note: "Reingest via Deployed Subagent Strategy (Caro Power Broker 1974, 8 ranges) to Biography Hub standards. Detailed bio [[hubs/biographies/world-wars-era/moses-robert]] expanded with full 9 sections, table, verbatim, counterfactuals. Reciprocal link. Claims added to source. See detailed bio for full analysis."
 tags: [actor, person, world-wars-era, cold-war, north-america, robert-moses, new-york, urban-planning, public-authorities, highways, parks, power-broker, al-smith]
 ---
 

@@ -10,6 +10,8 @@ reliability_notes: ["Definitive modern one-volume biography. Exceptionally stron
 pages_created: 3
 pages_updated: 6
 ingested: 2026-06-25
+last_updated: 2026-06-26
+reingest_note: "Full reingest via Deployed Subagent Strategy (13 weighted disjoint ranges) for Biography Hub upgrade of [[hubs/biographies/long-19th-century/grant-ulysses-s]]. Caches /tmp/grant-chernow-ranges. Expand to full 9 sections + table + verbatim + bias + counterfactuals. Main reconciliation. Co-Authored-By: Grok 4.3 (xAI) + subagents."
 tags: [source, long-19th-century, north-america]
 ---
 

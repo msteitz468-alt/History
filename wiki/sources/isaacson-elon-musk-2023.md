@@ -8,8 +8,10 @@ region_coverage: [south-africa, north-america, global]
 methodological_approach: narrative / interview-based / critical biography
 reliability_notes: Authorized full-life biography based on extensive direct access: more than one hundred interviews with Musk (including during the Twitter acquisition and subsequent transformation), plus interviews with family (Maye, Kimbal, Tosca, Errol, Justine, Talulah Riley, Grimes/Claire Boucher and children), colleagues, co-founders, executives (Gwynne Shotwell, JB Straubel, Omead Afshar, Sam Teller, etc.), board members, rivals (Bezos, Gates, Altman), and critics. Isaacson embedded for key moments (launches, factory floors, Twitter all-hands, family life). Strong on the integration of Musk’s childhood trauma (Errol’s abuse, bullying, veldskool, dog attack) with adult compulsion for drama, risk-seeking, “hardcore” mode, first-principles thinking, and the “idiot index.” Verbatim dialogue, emails, texts, and on-the-record reflections throughout. Balanced on personal costs (divorces, fatherhood strains, “demon mode”) and achievements (Tesla scale-up, SpaceX reusability and Starlink, Twitter/X content moderation fights). Less granular on financial modeling or regulatory filings than specialist accounts; definitive narrative synthesis for the period. Musk cooperated without final control.
 pages_created: 25
-pages_updated: 12
+pages_updated: 13
 ingested: 2026-06-25
+last_updated: 2026-06-26
+reingest_note: "Full reingest via Deployed Subagent Strategy (6 weighted disjoint ranges) for Biography Hub upgrade of [[hubs/biographies/contemporary/musk-elon]]. Caches /tmp/musk-isaacson-ranges. Expand to full 9 sections + table + verbatim + bias + counterfactuals per locked template. Main thread reconcile. Range 06 (17501-22017) contributed Phase 6, Signature rows, Legacy + Historiography verbatim on Starship/xAI/Neuralink/AI/Mars. Co-Authored-By: Grok 4.3 (xAI) + subagents."
 tags: [source, biography, cold-war, contemporary, north-america, south-africa, technology, space, social-media, ai]
 ---
 

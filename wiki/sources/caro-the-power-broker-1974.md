@@ -11,6 +11,8 @@ reliability_notes: |
 pages_created: 8
 pages_updated: 7
 ingested: 2026-06-25
+last_updated: 2026-06-26
+reingest_note: "Full reingest via Deployed Subagent Strategy (weighted disjoint ranges from Caro 1974 Power Broker) for Biography Hub upgrade of [[hubs/biographies/world-wars-era/moses-robert]]. Section Plan already present with line ranges. Caches in /tmp/moses-caro-ranges/. Subagents to expand 9 sections, table with counterfactuals, verbatim memos/interviews + bias, character, legacy. Main reconciliation after. Established names only. Co-Authored-By: Grok 4.3 (xAI) + subagents."
 tags: [source, biography, north-america, world-wars-era, cold-war, robert-moses, urban-planning, new-york-city, public-authorities, highway-construction, urban-renewal, alfred-smith, power]
 ---
 

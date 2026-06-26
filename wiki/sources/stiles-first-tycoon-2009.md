@@ -10,6 +10,8 @@ reliability_notes: ["Pulitzer Prize-winning biography (2009) based on extensive 
 pages_created: 8
 pages_updated: 2
 ingested: 2026-06-25
+last_updated: 2026-06-26
+reingest_note: "Full reingest via Deployed Subagent Strategy (8 weighted disjoint ranges) for Biography Hub upgrade of [[hubs/biographies/long-19th-century/vanderbilt-cornelius]]. Caches /tmp/vanderbilt-stiles-ranges. Expand to full 9 sections + table + verbatim + bias + counterfactuals. Main reconciliation. Co-Authored-By: Grok 4.3 (xAI) + subagents."
 tags: [source, biography, long-19th-century, north-america, vanderbilt-cornelius, railroads, steamships, gilded-age, new-york]
 ---
 
