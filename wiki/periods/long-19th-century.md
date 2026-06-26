@@ -6,7 +6,7 @@ followed_by: [[world-wars-era|World Wars Era]]
 date_range: 1800–1914 CE
 regions_covered: [global, western-europe, north-america, east-asia, south-asia, africa, latin-america, near-east, pacific]
 major_themes: [industrialization, fossil-fuel energy transition, the new imperialism, nationalism, mass migration, abolition, the demographic transition, global market integration]
-collection_coverage: moderate
+collection_coverage: moderate (recent Custer addition via Stiles 2015: Civil War "boy general," Texas occupation/1867 court-martial, Washita, Yellowstone 1873, Black Hills 1874, Little Bighorn 1876, Reno Inquiry, Libbie myth-making, "chronological frontier" thesis)
 sources_ingested: 16
 last_updated: 2026-06-25
 tags: [period]
