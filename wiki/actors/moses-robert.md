@@ -11,7 +11,7 @@ key_events: [early reform work in NYC and under Al Smith (1910s–1920s), creati
 key_processes: [creation and expansion of independent public authorities as vehicles for large-scale infrastructure, New Deal–era and post-war highway and park building in NY metropolitan area, urban renewal and slum clearance programs, transformation of New York City physical form and suburbanization of Long Island, [[processes/public-authorities-as-power-instrument-ny]]]
 sources_ingested: 1
 last_updated: 2026-06-26
-reingest_note: "Reingest via Deployed Subagent Strategy (Caro Power Broker 1974, 8 ranges) to Biography Hub standards. Detailed bio [[hubs/biographies/world-wars-era/moses-robert]] expanded with full 9 sections, table, verbatim, counterfactuals. Reciprocal link. Claims added to source. See detailed bio for full analysis."
+reingest_note: "Reingest via Deployed Subagent Strategy (Caro Power Broker 1974, 8 ranges) to Biography Hub standards. Detailed bio [[hubs/biographies/world-wars-era/moses-robert]] expanded with full 9 sections, table, verbatim (Lindsay, Rockefeller Last Stand, final years, 'effect of power on personality'), counterfactuals. Ranges 04/07/08 integrated. Reciprocal link. Claims added to source. See detailed bio for full analysis."
 tags: [actor, person, world-wars-era, cold-war, north-america, robert-moses, new-york, urban-planning, public-authorities, highways, parks, power-broker, al-smith]
 ---
 
