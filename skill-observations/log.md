@@ -264,6 +264,8 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 ### Observation 15: Source pages inconsistently carry sources_ingested/last_updated for the schema validator
 
+**Status:** ACTIONED — Fixed in `scripts/schema_validator.py` 2026-06-27: the `source` schema now requires the real CLAUDE.md source fields (`pages_created`, `ingested`) instead of the actor/event fields (`sources_ingested`, `last_updated`). Whole-wiki false-positive count dropped 1056 → 224. Resolves the drift in direction (b).
+
 **Date:** 2026-06-27
 **Session context:** Ingesting Nelson, *King and Emperor* (Charlemagne biography) via the Biography Hub workflow.
 **Skill:** New skill candidate / CLAUDE.md ingest workflow (wiki-ingest)
