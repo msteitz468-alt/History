@@ -428,3 +428,17 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 **Suggested improvement:** In the ingest workflow's artifact-grep step, first capture the session's own file list (e.g. the set of pages the scaffold + subagents created/edited) and grep ONLY those, with a tight pattern (`</content>`, literal prompt fragments, the cache-file path prefix) rather than fuzzy words like "prompt"/"do not" that occur in normal historical prose.
 
 **Principle:** Verification greps should be scoped to the unit of work and use patterns specific enough to avoid matching legitimate content; a wide repo-wide fuzzy grep in a busy multi-session repo produces noise that defeats the check.
+
+### Observation 33: Exclusive page-ownership + claims-files prevents concurrent-edit collisions among background subagents
+
+**Date:** 2026-06-27
+**Session context:** Ingesting Hutton, *Blood and Mistletoe* (reception history of Druids in Britain) via the Deployed Subagent Strategy with 4 Sonnet agents run with run_in_background:true over disjoint chapter ranges.
+**Skill:** Deployed Subagent Strategy (CLAUDE.md ingest workflow) / off-list-raw-batch
+**Type:** internal
+**Phase/Area:** Step 3 (spawn subagents) / Step 4 (reconcile)
+
+**Issue:** The standard strategy says "subagents own exclusive claim titles" so no two write the same file. But with background agents running concurrently AND a set of pre-scaffolded *shared* anchor pages (process page, central actors that several chapters discuss), multiple agents naturally want to enrich the SAME scaffold page (e.g. Iolo Morganwg is introduced in ch5 but his legacy runs through ch8; the central process page is relevant to every chunk). Concurrent edits to one file would corrupt it. The mitigation that worked cleanly: (a) assign each scaffold page to EXACTLY ONE agent for enrichment, listed explicitly in that agent's prompt; (b) forbid all agents from editing index.md/log.md and any page not in their list; (c) when an agent's range yields strong claims about a page another agent owns, have it append those claims (with quotes + target page) to a per-range claims file in scratchpad (claims_A.md etc.) rather than edit the shared page; (d) main thread integrates the claims files during reconciliation. Result: 0 edit collisions, 0 broken links, and the claims files surfaced genuinely valuable cross-chunk material (continental origins, convivial clubs) that would otherwise have been lost or duplicated.
+
+**Suggested improvement:** Add an explicit note to the Deployed Subagent Strategy (Step 3) that when subagents run in the background (concurrent), each shared scaffold page must have a single named owner-agent, and non-owners route cross-page claims to a per-range claims file for main-thread integration in Step 4. This is stronger than "exclusive claim titles," which only covers newly-created pages, not shared anchors.
+
+**Principle:** Parallel writers to shared mutable state need single-owner assignment, not just disjoint-creation namespaces. For concurrent agents, separate "pages you may edit" (exactly one owner each) from "claims you discovered for someone else's page" (write to a handoff file). The reconciling thread merges handoffs.

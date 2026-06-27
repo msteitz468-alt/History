@@ -42,6 +42,18 @@ This places the monument's most visible monumental phase in the context of Bronz
 
 Stonehenge represents the culmination of trends described for the early farming period: communal labour for monument construction, the use of monuments as foci for dispersed communities, and (in later phases) increasing investment in ritual and display that signalled or produced social differentiation. The source frames these within the "gradual intensification of the agricultural economy" and the "possibilities for further development" visible by the end of the fourth millennium.
 
+## Modern Druid Ceremonies and Conflict (20th century)
+
+The tradition of gathering at Stonehenge to watch the midsummer sunrise emerged in the late Victorian period — a distinctively modern phenomenon (not recorded before the 1860s), driven by growing literacy about the monument's solar alignment and improving transport technology (especially the bicycle). Numbers swelled from a handful in 1868 to several thousand by the turn of the century, with landowner Sir Edmund Antrobus enclosing the stones and charging admission from 1901 partly to control the unruly crowds.
+
+The modern Druid association with Stonehenge was inaugurated on **Midsummer's Eve 1912** when [[actors/reid-george-watson|George Watson MacGregor Reid]] and four companions appeared at the stones in white robes and turbans, representing the [[actors/universal-bond|Universal Bond of the Sons of Men]]. The Ancient Order of Druids had already held a mass initiation there in August 1905 (259 new members, with the Dukes of Marlborough and Leeds present), but Reid's group established the practice of an annual solstice ceremony as a religious rite. Through repeated confrontations with the landowner, then the Office of Works (custodian from 1918), the Universal Bond and its successors held the dawn ceremony each midsummer for most of the century, drawing crowds of hundreds to thousands.
+
+The conflict between Druids and archaeologists peaked in **1924**, when the Labour First Commissioner Frederick Jowett granted the Universal Bond the right to inter cremated members' ashes in the Stonehenge earthwork. A national campaign by professional archaeologists — led by the Wiltshire Archaeological Society, with letters from Oxford dons, the Society of Antiquaries and O. G. S. Crawford — forced the permission to be revoked. In **1964** the positions reversed: the Ministry of Works granted the Universal Bond (now led by Robert MacGregor-Reid) exclusive access at the solstice dawn, excluding the general public; the archaeologist [[actors/piggott-stuart|Stuart Piggott]] responded with his influential 1968 book *The Druids*, the definitive scholarly dismissal of the Druids' claims to any connection with the monument.
+
+The Stonehenge Free Festival (growing from 1974 to peak attendances of c. 100,000 in 1984) complicated access still further. **English Heritage** banned all solstice access in 1985. Since 2000 it has opened the monument free to all on the midsummer night, drawing crowds of many thousands; the distinctive ceremonial role of any single Druid order is no longer possible in such numbers. Richard Atkinson's 1956 excavations found what appears to be a bottle of cremated ashes buried near the North Station Stone — almost certainly a relic of the Universal Bond — which he gallantly reburied.
+
+All claims in this section are grounded in [[sources/hutton-blood-and-mistletoe-2009|Hutton, Blood and Mistletoe (2009)]], chapters 10–12.
+
 ## Related
 
 - Periods: [[neolithic]], [[chalcolithic]], [[early-bronze-age]]
