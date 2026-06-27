@@ -85,8 +85,44 @@ reminder that technological "progress" is not a single ladder. They sit within t
 [[mesoamerican-state-formation|Mesoamerican]] tradition rooted in the [[olmec|Olmec]] and
 [[maize-domestication|maize]].
 
+## Classic Maya City-States and the Collapse (Snow et al. 2020)
+
+Snow, Gonlin, and Siegel (2020, Ch. 13) integrate recent archaeological synthesis on the
+diversity of Classic Maya city-states and the mechanics of the collapse.
+
+**Tikal** (Peten, Guatemala) had a population of approximately 120,000 within its domain;
+its rulers may have commanded the labor of thousands more. A long earthwork surrounded a
+large area and its outlying regions; its function (defense or water management) remains
+debated. **Palenque** (Chiapas, Mexico) — originally named *Lakam-ha'* ("place of abundant
+water") — was an urban capital with sophisticated hydraulic engineering: a system of
+channels, aqueducts, and stone bridges controlling five streams. Its King **K'inich Janaab
+Pakal I** (603–683 CE), buried in the Temple of the Inscriptions, was bedecked in jade, his
+face covered by a mosaic jade mask. Palenque was rapidly abandoned after 800 CE. **Copan**
+(Honduras), the southernmost Classic Maya city, had 20,000–25,000 subjects; its rulers
+erected the longest known Mayan inscription on the **Hieroglyphic Staircase**. Sixteen kings
+ruled Copan across nearly 400 years. Commoner households at Copan had access to obsidian
+tools, grinding stones, and some fancy ceramics in addition to everyday wares.
+
+**Chichén Itzá** (northern Yucatan), active approximately 600–1100 CE, became a multiethnic
+cosmopolitan city-state capital for over three centuries. Its Great Terrace contains El
+Castillo, the Great Ball Court, the Tzompantli (skull rack), and the Temple of the Warriors.
+The Sacred Cenote served as the city's main water source and, during severe eleventh-century
+droughts, as a site of human sacrifice to propitiate the rain god Chac. Hieroglyphic
+inscriptions dating 800–1000 CE record patronyms of principal families whose names survived
+five centuries to the Spanish colonial period.
+
+For the mechanics and causes of the Classic Maya Collapse (~800–910 CE), see
+[[maya-classic-collapse-800ce]].
+
+**Writing and codices**: Most Maya books that survived to the sixteenth century were burned
+by Spanish religious zealots. Only three indisputably pre-Hispanic Maya books survive: the
+Dresden, Madrid, and Paris Codices. A fourth, the **Grolier Codex** (surfaced 1971), has
+been authenticated by leading Mayanists (Coe et al. 2015).
+
+For Maya calendar systems (Tzolkin, Haab, Long Count), see [[mesoamerican-calendar]].
+
 ## Related
 
 [[mesoamerican-state-formation]] · [[mesoamerican-calendar]] · [[olmec]] · [[teotihuacan]] ·
 [[aztec-empire]] · [[maize-domestication]] · [[pre-columbian-americas]] · [[holmbergs-mistake]] ·
-[[mann-1491-2005]]
+[[mann-1491-2005]] · [[maya-classic-collapse-800ce]] · [[mesoamerican-ball-game]]

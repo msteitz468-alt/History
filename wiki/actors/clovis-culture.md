@@ -9,8 +9,8 @@ affiliated_with: ["[[colonization-americas-14500bp]]", "Paleoindian peoples"]
 opposed_by: []
 key_events: ["[[colonization-americas-14500bp]]", "[[pleistocene-megafaunal-extinction]]"]
 key_processes: ["[[paleolithic-global-dispersal]]", "[[migration-in-human-history]]"]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, movement, "Behavioral Modernity", north-america, mesoamerica]
 ---
 
@@ -88,5 +88,20 @@ smaller prey (which preserve poorly). The "Clovis-first" debate and the
 overkill debate are the two great controversies attached to this culture; see
 [[clovis-first-vs-pre-clovis]] and [[pleistocene-megafaunal-extinction]].
 
-*Source: Waguespack, "The Pleistocene colonization and occupation of the
-Americas," CWH Vol. I, Ch. 19 — see [[christian-cwh-v1-2015]].*
+## Additional Details (from Snow, Gonlin, and Siegel 2020)
+
+Snow et al. (2020) date Clovis most reliably to **11,050–10,650 BCE** after calibration, with fluted points "probably com[ing] and go[ing] in less than four centuries." Clovis culture is understood to derive from Northern Paleoindian complexes in Beringia — specifically, fluting is the primary innovation distinguishing Clovis from its Northern Paleoindian predecessors in Alaska. The Dyuktai and Nenana complexes are the likely Beringian antecedents.
+
+**Subsistence**: Clovis people were not exclusively big-game hunters. Evidence from the Gault site (Texas) shows use of birds, turtles, frogs, and antelopes. Horse remains were found with a coprolite dated to ~14,525 BP at Paisley Caves. Clovis people in the Northeast likely intercepted caribou herds. They also hunted smaller species (rabbits, hares) and gathered some plants. What is notably absent is any substantial dependence on high-cost, high-return resources (seeds requiring laborious milling, etc.) — environments had not yet stabilized enough for such adaptations.
+
+**Labor division**: Broadly along sex and age lines, as in most historic hunter-gatherer societies. Everyone possessed a range of survival skills; the band depended on a complementary mix of individuals. Tailored skin clothing was essential for survival even in milder winters, requiring needles (bone or antler) and tanning techniques.
+
+**Heat treatment**: Clovis knappers used heat treatment of chert to improve both workability and appearance. Heating cryptocrystalline raw material has been practiced for at least 72,000 years; the first Americans brought this knowledge with them.
+
+**Art**: Incised stone, bone, and ivory artifacts from the Gault site and other Paleoindian sites demonstrate design and decoration. Red ochre was used. Some petroglyphs on the Colorado Plateau and in California depicting mastodons and camelids (extinct ~12,000 years) may date to the Paleoindian period.
+
+**Spread mechanism**: Two hypotheses — (1) fluted points spread as the people making them fanned out, or (2) the technique spread independently as knappers trained others. Most archaeologists assume population spread carried Clovis points; but the brief four-century duration and widespread distribution is also consistent with technique-only diffusion.
+
+**Controversy**: See [[clovis-first-controversy]] for the full debate about Clovis's relationship to pre-Clovis peoples, its origins, and the Solutrean hypothesis.
+
+*Sources: Waguespack, "The Pleistocene colonization and occupation of the Americas," CWH Vol. I, Ch. 19 — see [[christian-cwh-v1-2015]]; [[snow-gonlin-siegel-archaeology-native-north-america-2020]], Ch. 3.*

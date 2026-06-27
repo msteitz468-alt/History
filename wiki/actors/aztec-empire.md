@@ -112,10 +112,44 @@ to **indigenous disunity and local alliances** (above all with Tlaxcala). The
 empire thus fell to a combination of biological catastrophe, political fracture,
 and a small armed force — the opening act of the joining of the hemispheres.
 
+## Social Structure and Military Organization (Snow et al. 2020)
+
+Snow, Gonlin, and Siegel (2020, Ch. 13) add archaeological and ethnographic detail on
+Aztec social organization. Society was highly stratified, with the tlatoani (king) and
+hereditary nobility at the apex. Commoners — farmers, craft specialists, artisans — lived
+in residential wards called **calpultin** (sing. *calpulli*, "great house"), the basic
+social unit of the cities. They paid taxes and provided services but received protection in
+return. Skilled artisans could rise to high positions regardless of birth; warriors who
+performed exceptionally could attain quasi-noble rank.
+
+Professional **pochteca** merchants were the wealthiest commoners, traveling long distances
+to acquire luxury goods for the nobility and enriching themselves in the process. They were
+permitted to own slaves. Below the commoners were the **mayeque** (destitute commoners
+bound to noble lords as serfs) and the **tlacotin** (those who had fallen into servitude
+through debt). Crucially, Aztec "slavery" was not hereditary — tlacotin children were born
+free — distinguishing it from chattel slavery as the Spanish understood it.
+
+Aztec armies fought as highly decorated massed infantry. Warriors used **wooden slashing
+swords edged with obsidian blades** (*macuahuitl*) and **atlatl spear-throwers** — the
+latter retained even after adopting the bow and arrow because Aztec armor, which stopped
+arrows, could be penetrated by atlatl spears. Individual military goals centered on the
+**capture** of enemies (for sacrifice) rather than their killing — a constraint that the
+Spanish exploited tactically during the conquest.
+
+The capital **Tenochtitlan** contained approximately 80 buildings in its walled ceremonial
+core: temples (including the Templo Mayor, with its double staircase and twin temples
+dedicated to Tlaloc and Huitzilopochtli), palaces, dormitories, ball courts, skull racks
+(tzompantli), clubhouses, and ritual platforms. Seven major construction episodes have been
+documented at the Templo Mayor, each covering and preserving earlier structures. The island
+city was linked to the mainland by causeways with drawbridges; aqueducts brought fresh water.
+Motecuhzoma's palace was 2.4 hectares (6 acres) — larger than the largest residential
+compound at Teotihuacan.
+
 ## Related
 
 - [[tenochtitlan]] — the Mexica capital.
 - [[inca-empire]] — the contemporaneous Andean empire (the volume's other American case).
 - [[columbian-exchange-1492]] — the disease catastrophe that enabled the conquest.
 - [[mesoamerican-state-formation]] — the long process the Aztecs culminate.
+- [[mesoamerican-ball-game]] — the ball game as practiced in Tenochtitlan.
 - [[mesoamerican-calendar]], [[teotihuacan]], [[tikal]] — the deeper Mesoamerican background.

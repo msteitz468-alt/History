@@ -51,6 +51,44 @@ toward the latter — emphasizing **interregional trade and intercultural relati
 engine of complexity — while granting the Olmec an undeniable, lasting imprint. The debate
 often turns on the spread of a shared **Olmec art style**. See [[mesoamerican-state-formation]].
 
+## San Lorenzo: Archaeological Detail (Snow et al. 2020)
+
+Snow, Gonlin, and Siegel (2020, Ch. 13) provide specialist detail on San Lorenzo from
+archaeologist **Ann Cyphers**, who has led modern scientific investigation of the site.
+
+San Lorenzo (Veracruz) was "the first political and economic city in Mesoamerica," active
+in its extraordinary complex development from **1800 to 1000 BCE**. Its population of nearly
+**12,000** was organized as a stratified social hierarchy of ruling elite, noble, and common
+people. The division of labor included food producers and specialists: sculptors, drillers,
+crafters, builders, religious and military leaders, traders, ballplayers, and administrators.
+
+The **colossal heads** (17 known across all Olmec sites; San Lorenzo boasts ten) functioned
+as **ruler portraits**, legitimating hereditary lineages through "divine legitimation." The
+**monolithic thrones** served as seats of power. Of all Early Formative communities in
+Mesoamerica, San Lorenzo was the only one with strong hereditary rulers who could organize
+large labor mobilizations — the great terraced plateau at the city center is "considered one
+of the largest buildings in the ancient world." Stone monument transport from the Tuxtla
+Mountains required a huge labor force.
+
+San Lorenzo's decline (beginning around **1000 BCE**) arose from interconnected causes:
+competition with other communities, environmental changes, forced labor practices, power
+struggles, food production problems, and ideological crises. The result was a population
+exodus at the same time that **La Venta** (Tabasco) began its rise. La Venta was built atop
+a salt dome and flourished during the Late Olmec period, c. **900–400 BCE**. Complex A at
+La Venta contains massive offerings and three large serpentine mosaics laid out as geometric
+masks; the site's central axis points toward the nearest high mountain to the south while
+offerings on the north may reference the nearby sea.
+
+**Long Count calendar**: The later Olmec center **Tres Zapotes** (representing the Epi-Olmec
+phase, 400 BCE–400 CE) preserves Stela C, which carries a Long Count date equivalent to
+**September 2, 32 BCE** — evidence that the Olmecs were already using the calendar system
+the Classic Maya would elaborate. The Long Count originated with a mythological starting
+date of August 13, 3114 BCE and uses a vigesimal (base-20) system with a special adjustment
+(the Tun = 360 days, not 400) to approximate the solar year. Images of later Mesoamerican
+deities appear in Olmec art as early as the Las Limas Monument I figure (a seated human
+holding a were-jaguar baby decorated with four later deity symbols). See also
+[[mesoamerican-ball-game]] for the ball game's origins in the Olmec period.
+
 ## Mann's account: San Lorenzo, La Venta, and the sister-culture case (1491)
 
 Charles Mann's [[mann-1491-2005|*1491*]] (Ch. 7) fills in the heartland story. The name itself is an

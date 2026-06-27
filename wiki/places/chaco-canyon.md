@@ -32,6 +32,14 @@ Most Chaco experts have been impressed with the arguments... that Chaco was a ri
 Lekson (1999) has argued persuasively that the site of Aztec to the north became the new center... Chaco beliefs... led to the rise of Paquime... the memory of a “White House”... refers to a past world in which katsinas taught dances and ceremonies, but which was ultimately violent and unsuccessful... its lessons became incorporated in Puebloan histories.
 
 ## Related
-[[collapse]], [[neo-evolutionism]], [[power]], [[identity]], [[chaco-canyon]] as example of organizational flexibility in harsh environment rather than stage toward state. Contrasts with [[uruk]], [[mesopotamia]], [[teotihuacan]] trajectories.
+[[chaco-phenomenon-900ce]], [[ancestral-pueblo]], [[southwest-drought-collapse-1150ce]], [[teotihuacan]] — Chaco as example of organizational flexibility in harsh environment rather than stage toward state. Contrasts with [[uruk]], [[mesopotamia]], [[teotihuacan]] trajectories.
 
-**Sources:** [[yoffee-myths-of-the-archaic-state-2005]]
+**Sources:** [[yoffee-myths-of-the-archaic-state-2005]], [[snow-gonlin-siegel-archaeology-native-north-america-2020]]
+
+## Additional Evidence (Snow et al. 2020)
+
+Chaco Canyon is located in the San Juan Basin of northwestern New Mexico and is now protected as Chaco Culture National Historical Park and designated a UNESCO World Heritage Site. The canyon contains 11 huge stone great houses, some four stories high and containing hundreds of rooms, plus smaller stone buildings, mounds, great kivas, roads, rock-cut stairways, and water-control and garden features forming a dense, symbolically ordered landscape.
+
+The stone available in the canyon splits easily into tabular slabs ideal for multistory masonry; masonry technique evolved from rough stone and thick mortar to finely dressed stones with minimal mortar over the period of construction. Pueblo Bonito, the largest D-shaped great house, and outlying great houses (Wijiji, Tsin Kletzin, Kin Kletso, Chetro Ketl) were rapidly completed by 1100 CE. The canyon held at least 70 outlier communities by 1115 CE at 32–40 km intervals — one hard day's journey on foot.
+
+Residues in cylindrical vessels contain cacao, linking Chaco to the Mesoamerican chocolate ritual. Copper bells, macaws, and conch shell trumpets from Mexico have also been found. Six-toed individuals buried at Pueblo Bonito and represented in petroglyphs may have held special ritual status.

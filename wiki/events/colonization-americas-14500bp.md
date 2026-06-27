@@ -23,8 +23,8 @@ consequences:
   - produced: "Megafaunal extinctions (~13,000–12,000 BP): mammoths, mastodons, giant ground sloths, horses, camels"
   - produced: "[[mesolithic|Paleoindian-to-Archaic transition]] (~8,000 BCE)"
   - enabled: "All subsequent pre-Columbian American civilizations"
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, migration, "Behavioral Modernity", "Mesolithic", north-america, mesoamerica, andes, amazonia]
 ---
 
@@ -108,7 +108,7 @@ is now considered untenable by most archaeologists due to Monte Verde and other
 evidence: a pre-Clovis population, possibly arriving via coastal routes,
 preceded the Clovis tradition. But *which* sites constitute definitive proof,
 and how large or enduring those earliest populations were, remains genuinely
-unresolved. See [[clovis-first-vs-pre-clovis]].
+unresolved. See [[clovis-first-controversy]].
 
 **Megafaunal extinctions (~13,000–12,000 BP)**
 - Over thirty genera of large-bodied North American animals (mammoths,
@@ -189,9 +189,27 @@ centers on:
 The paucity of skeletal remains (fewer than ten individuals represent early
 Paleoindian cultures) means a single major discovery could transform the field.
 
+## Additional Detail (Snow, Gonlin, and Siegel 2020)
+
+**Beringia dimensions**: At maximum extent, Beringia was ~1,600 km (1,000 miles) across — not a narrow bridge but a landmass the size of Australia, largely unglaciated. See [[beringia]].
+
+**Bluefish Caves, Yukon**: Bones bearing marks of manmade tools suggest human presence by ~24,000 years ago, consistent with genetic and linguistic evidence for a long Beringian occupation. Contested.
+
+**Ice-free corridor viability**: The corridor between the Laurentide and Cordilleran ice sheets may not have been viable for human passage until ~12,600 years ago (10,650 BCE) — by which time Clovis culture had already spread widely south of the ice. This timing problem is a central argument for the coastal route.
+
+**Tanana River valley sites** (Swan Point, Mead, Broken Mammoth): among the earliest assemblages in eastern Beringia; Swan Point appears derived from Dyuktai culture and dates to ~12,000 BCE.
+
+**Gault site, Texas**: Pre-Clovis "Gault Assemblage" (GA) below clear Clovis strata, dating to ~15,000–14,000 BCE; ~150,000 lithic specimens with distinct technology from Clovis.
+
+**Domesticated dogs**: Accompanied human bands into the Americas by at least ~10,500 BCE. Dogs with a DNA lineage unique to North America (arising after arrival) never spread back to Eurasia, confirming the directionality of movement.
+
+**Beringian population**: Estimated to have grown to 8,000–10,000 people over ~5,000 years of Beringian occupation before southward expansion (Mulligan and Kitchen 2014).
+
 `part_of: [[out-of-africa-2-60kbp]]`
 `part_of: [[processes/paleolithic-global-dispersal]]`
 `preceded_by: [[colonization-australasia-50kbp]]`
 `contains: [[clovis-culture]]`
-`contains: [[clovis-first-vs-pre-clovis]]`
+`contains: [[clovis-first-controversy]]`
 `contains: [[pleistocene-megafaunal-extinction]]`
+
+*Sources: [[christian-cwh-v1-2015]]; [[snow-gonlin-siegel-archaeology-native-north-america-2020]], Ch. 2–3.*
