@@ -9,8 +9,8 @@ affiliated_with: [the Canaanite city-states (Tyre, Sidon, Byblos), Carthage]
 opposed_by: [[[neo-assyrian-empire|Assyria]], [[neo-babylonian-empire|Babylon]], later Greeks and [[roman-republic|Rome]]]
 key_events: [founding of [[carthage|Carthage]] (trad. 814 BCE), spread of the alphabet, Assyrian and Babylonian domination, the [[phoenician-colonization|western colonization]]]
 key_processes: [[[trade-network-formation]], [[alphabet|alphabetic writing]], [[phoenician-colonization|colonization]]]
-sources_ingested: 5
-last_updated: 2026-06-11
+sources_ingested: 6
+last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, levant, mediterranean]
 ---
 
@@ -175,6 +175,27 @@ by the city aristocracies rather than independent merchants.
 2. **[[carthage|Carthage]].** Their North African colony (trad. founded 814 BCE) grew
    into a major maritime empire that fought [[roman-republic|Rome]] for control of the
    western Mediterranean in the **Punic Wars** (264–146 BCE).
+
+## Liverani's reading
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] stresses **continuity**: the Phoenicians
+were not migrants of ~1200 BCE but the **direct descendants of the Bronze Age Canaanites**,
+and "Phoenician" is a Greek exonym (they had no common self-name). The collapse of Egyptian
+and Hittite control let the coastal cities (protected from inland tribal infiltration by the
+Lebanese mountains) keep the **palace + assembly** city-state model while the hinterland
+went kin-based. He revises two popular pictures. First, that their trade was overwhelmingly
+maritime: reading **Ezekiel 27** as Tyre's own view of its network, he argues the majority
+of commerce was actually **overland** (to Anatolia, Mesopotamia, Arabia), with Mediterranean
+routes one zone among four. Second, the dating of **colonisation**: it was an **8th-century**
+development (only Cyprus had earlier fixed settlements), driven by economic adaptation to
+maturing western polities — an official, tribute-paying foundation project (Carthage paid
+yearly tribute to Tyre, governed by *šptm*/sufetes), not a flight of refugees. Phoenician
+goods reached Assyria largely as **tribute under imperial pressure**, and the empires
+(Assyrian, then Babylonian) deliberately **tolerated Phoenician autonomy** because the
+**commercial income mattered more than the small territory** (the Esarhaddon–Baal of Tyre
+treaty shows the mechanism: autonomy plus a resident Assyrian official and controlled routes).
+The exported "orientalising" craft style and the alphabet spread by **prestige, not conquest**.
+See [[ancient-near-eastern-modes-of-production]].
 
 ## Significance
 

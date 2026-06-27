@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [[[assyria-middle|Assyria]], [[second-isin-dynasty|Babylon]], [[hebrew-kingdom|Israel]] (David)]
 key_events: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]], David's defeat of Aram-Zobah]
 key_processes: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]], the spread of Aramaic]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, movement, early-iron-age, levant, near-east, mesopotamia]
 ---
 
@@ -90,6 +90,29 @@ between about 990 and 980 BCE defeated **Hadadezer of Aram-Zobah** (fighting at 
 Euphrates), placed garrisons in Damascus, and checked the Aramaean rise in Syria —
 a check that lasted until the death of [[solomon|Solomon]], after which
 Aram-Damascus regained independence and became Israel's chief northern adversary.
+
+## Liverani's reading
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] argues the Arameans were **not desert
+migrants** but the organic descendants of LBA pastoral groups (Sutians, *Ahlamu*) already in
+the region, emerging as "Arameans" out of the post-1200 power vacuum; Aramaic's archaic
+features are conservative pastoral traits, not signs of a new population. Their political
+form is the **"Bit-X" (House of) state** — a name designating both polity and lineage —
+governed collegially (a king "alongside the kings of Arpad"), with a social split between a
+nomadic-origin nobility (*b'rrm*) and farmers (*mškbm*), and a kingship ideology of utopian
+**social justice** that closed the LBA ruler–subject gap. **Damascus** rose to southern
+hegemony on its command of the south-Arabian caravan junction (the "Syro-Ephraimite" wars
+with Israel were really about the Gilead stretch of the Transjordan route). The bilingual
+**Tell Fekheriye** inscription (the same ruler "king" in Aramaic, "governor/*šaknu*" in
+Assyrian) captures the states' ambiguity under Assyrian pressure — and Liverani's pointed
+claim that the **peak of Aramean culture coincided with its destruction**, Assyria first
+stimulating then "abusing and destroying" its west. In Mesopotamia the eastern Aramean
+tribes followed the same **"dimorphic" corridor** (here narrowed to a Tigris–Zagros strip)
+the Amorites had used a millennium earlier; they never formed city-states there. Above all,
+**Aramaic spread** in three phases (infiltration → displacement of Neo-Hittite/Babylonian →
+imperial deportations and Achaemenid returns producing **Imperial Aramaic**), aided by its
+easy alphabet over cuneiform — its true administrative scale masked because it was written on
+perishable papyrus (only the clay sealings survive). See [[ancient-near-east-historiography]].
 
 ## Significance
 

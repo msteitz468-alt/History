@@ -7,8 +7,8 @@ date_range: "1,200–800 BCE (regionally diachronous)"
 regions_covered: [near-east, levant, anatolia, mesopotamia, iran-plateau, mediterranean, iberia, china, south-asia, north-africa, sub-saharan-africa, mesoamerica]
 major_themes: ["aftermath of the Bronze Age Collapse", "iron metallurgy", "Neo-Assyrian resurgence", "Phoenician expansion", "the Greek 'Dark Age'", "Western Zhou and its fall", "Vedic age", "alphabetic writing", "small states and tribal polities"]
 collection_coverage: moderate
-sources_ingested: 6
-last_updated: 2026-06-26
+sources_ingested: 7
+last_updated: 2026-06-27
 tags: [period, bogucki-crabtree-ancient-europe-2004]
 ---
 
@@ -19,7 +19,7 @@ the systemic failure of the Late Bronze Age palace civilizations of the eastern
 Mediterranean and Near East. It is the period in which the world recovers from
 that collapse on new terms — with iron rather than bronze as the working metal,
 with smaller and often non-palatial polities, and with alphabetic rather than
-syllabic or logographic scripts spreading in the west. In [[craig-benjamin|Benjamin]]'s
+syllabic or logographic scripts spreading in the west. In [[benjamin-cwh-v4-2015|Benjamin]]'s
 framing ([[benjamin-cwh-v4-2015|CWH IV]]), this is the runway from which the
 "world of states, empires, and networks" takes off: 1200 BCE is the volume's
 sunrise precisely because the collapse cleared the ground for the new political
@@ -38,7 +38,7 @@ Enriches collection for temperate Europe transition from LBA Urnfield/nordic/sca
 Sources ingested now includes this encyclopedia for European Iron Age start.
 
 Mycenaean palaces are gone and Greece enters its so-called "Dark Age" of reduced
-population, lost literacy, and village-scale life. In China the [[western-zhou]]
+population, lost literacy, and village-scale life. In China the [[zhou-dynasty|Western Zhou]]
 presides over a sophisticated bronze-age dynastic order that will itself fragment
 toward 800–771 BCE. In India the Indus cities are long gone and the Vedic
 [[vedic-age|Indo-Aryan]] world of cattle-keeping chiefdoms takes shape. Across
@@ -57,7 +57,7 @@ Age is the centuries-long aftermath.
 became widespread as bronze-supply networks (especially the long-distance tin
 trade) broke down. Iron ore was far more widely available than tin, democratizing
 access to metal tools and weapons — a structural shift with military and
-agricultural consequences. See [[ironworking]].
+agricultural consequences. See iron working.
 
 **Phoenician maritime expansion.** Freed from Bronze Age imperial overlordship,
 the [[phoenicians|Phoenician]] city-states (Tyre, Sidon, Byblos) built a
@@ -68,7 +68,7 @@ their descendants.
 
 **The Greek "Dark Age" and its end.** Depopulation, the loss of Linear B
 literacy, and village-scale life followed the Mycenaean collapse; recovery from
-the 9th century produced the conditions for the [[greek-polis|polis]] and Homeric
+the 9th century produced the conditions for the [[city-state|polis]] and Homeric
 epic. The period is reframed below under Historiography.
 
 **The Balkan metal boom and Hallstatt A.** Beyond the literate Near East, the
@@ -82,7 +82,7 @@ the Iron Age; the Palaeo-Balkan peoples (Thracians, Illyrians, Daco-Moesians,
 Macedonians) who carry it forward are covered in CAH III.1 Chs 14–15 — see
 [[balkans]].
 
-**Western Zhou China.** The [[western-zhou]] (c. 1046–771 BCE) ruled north China
+**Western Zhou China.** The [[zhou-dynasty|Western Zhou]] (c. 1046–771 BCE) ruled north China
 through a decentralized system of kin-based regional lords legitimated by the
 [[mandate-of-heaven]], an idea of world-historical durability. Its fall in 771
 BCE opens the long fragmentation of the [[archaic-period]] and
@@ -132,6 +132,26 @@ and dialect map took shape (see [[greek-religion-and-mythology|Greek religion]] 
 Sardinians, Iberia) likewise approached the threshold of [[phoenicians|Phoenician]] and
 Greek colonization.
 
+## Liverani's interpretation
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] reads the Early Iron Age as an age of
+**democratising innovation** in the west. Both **iron** and the **alphabet** already
+existed in the Late Bronze Syro-Levantine world but were *suppressed* by the palace system
+(bronze monopolised in palace workshops; writing monopolised by cuneiform scribal elites);
+only the **collapse of the palaces** let them spread — iron because its ore is widespread
+and workable in village smithies, the alphabet because it freed writing from professional
+scribes (early alphabetic texts include ownership graffiti and ordinary funerary
+inscriptions "with no significant difference" from royal ones). He maps a **conservative
+east** (Mesopotamia/Egypt keeping complex scripts and political continuity) against an
+**innovative west** (alphabet, iron, kinship states). Settlement **dispersed** from a few
+big cities into many villages; landscape innovations (hillside terracing, *qanat*
+irrigation, plastered cisterns) and the full domestication of the **camel/dromedary**
+opened terracing and trans-desert trade, integrating Arabia and the Iranian deserts. The
+defining political form was the **kinship ("nation") state** — membership by descent from a
+common eponymous ancestor rather than residence in palace territory, its name "House of X,"
+its army a charismatic "military population," its charters the aetiological origin-stories.
+See [[ancient-near-east-environment-and-society]] and [[ancient-near-eastern-modes-of-production]].
+
 ## Key Actors
 
 - **[[assyria-middle|Assyria]]** — [[tiglath-pileser-i|Tiglath-pileser I]]'s revival,
@@ -147,7 +167,7 @@ Greek colonization.
 - **[[dorians|The Dorians / Heracleidae]]** and the **[[ionian-migration-1050bce|Ionian
   and Aeolian migrants]]** — the reshaping of the [[greek-dark-age|Aegean]] and the
   Greek settlement of Asia Minor.
-- **[[western-zhou]]** — the Zhou royal house and its regional lords.
+- **[[zhou-dynasty|Western Zhou]]** — the Zhou royal house and its regional lords.
 - **Vedic Indo-Aryans** — *(see [[vedic-age]], Cycle 7)*.
 - **Olmec** (Mesoamerica) — the first complex society of the Americas, flourishing
   c. 1200–400 BCE *(Cycle 8)*.

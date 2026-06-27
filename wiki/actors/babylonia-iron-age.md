@@ -9,8 +9,8 @@ affiliated_with: [the cult of Marduk at Babylon, the Chaldaean tribes (Bit-Yakin
 opposed_by: [[[neo-assyrian-empire|Assyria]], the [[arameans|Aramaeans]], Elam]
 key_events: [the rise of the Chaldaeans, Eriba-Marduk's restoration, the Chaldaean struggle against Assyria (745–626), the accession of [[nabopolassar|Nabopolassar]] (626)]
 key_processes: [tribal infiltration, [[state-formation]], [[assyrian-mass-deportation|mass deportation]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, mesopotamia]
 ---
 
@@ -91,6 +91,28 @@ by **social organization (tribal vs. non-tribal)** rather than town-vs-country:
   **[[nabopolassar|Nabopolassar]]** seized the throne in **626** and turned Babylonia
   from victim into the conqueror of Assyria — the [[neo-babylonian-empire|Neo-
   Babylonian Empire]] proper, treated from Ch. 27.
+
+## Liverani: the power triangle, Marduk's return, and the deep crisis
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] frames 12th–9th-century Mesopotamia as a
+persistent **"power triangle"** — Babylonia (Kassite → Second Dynasty of Isin), Middle
+Assyria, Middle Elam — whose internal dynamics drove events; the Kassite fall and Aramean
+infiltration were *consequences* of the triangle, not a new order. The theological centrepiece
+is **Nebuchadnezzar I's** recovery of **Marduk's statue** from Elam: Babylonian ideology recast
+the god's successive deportations (by Mursili I, Tukulti-Ninurta I, the Elamites) as voluntary
+**"peregrinations"** spreading his prestige, an idea consolidated in the final edition of the
+**Enuma Elish** (Marduk superseding Enlil as cosmic king) and enacted yearly in the **Akitu**
+New-Year festival (Marduk's procession to the Bit Akiti, order over chaos). Yet his grand
+titles clashed with reality: Babylonia was cut off from both long-distance routes (Aramean
+states blocking the Euphrates–Syria road, the Gulf–Dilmun route inaccessible). The
+**10th-century crisis** drove population back to **proto-urban levels** (Nippur down ~50%,
+Diyala to under a quarter), hitting cities harder than villages, and produced a string of
+short-lived foreign dynasties. Liverani reads the era's distinctive texts diagnostically: the
+**"Advice to a Prince"** documents temple autonomy (the *kidinnu/zakutu* exemptions) against
+royal power and shifts the omen genre toward **political cause-and-effect**; the **Poem of
+Erra** voices the general insecurity of nomadic incursion; and pseudo-historical **"prophecy"**
+texts reveal a society that had "lost its former confidence in the centrality of kingship."
+See [[ancient-near-east-historiography]] and [[ancient-near-eastern-modes-of-production]].
 
 ## Historiography
 

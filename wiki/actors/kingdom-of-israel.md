@@ -9,8 +9,8 @@ affiliated_with: [[[phoenicians|Tyre]] (the Omride–Jezebel alliance), at times
 opposed_by: [[[hazael|Aram-Damascus]], [[neo-assyrian-empire|Assyria]], Moab, [[kingdom-of-judah|Judah]] (intermittently)]
 key_events: [[[shoshenq-campaign-925bce|Shoshenq I's campaign (925)]], the founding of Samaria, the [[battle-of-qarqar-853bce|battle of Qarqar (853)]], the [[jehu-revolt-841bce|revolt of Jehu (841)]], the fall of Samaria (722)]
 key_processes: [[[state-formation]], dynastic instability, Assyrian imperial expansion]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, levant]
 ---
 
@@ -109,6 +109,33 @@ tradition behind the Samaritans), and the northern kingdom ceased to exist, leav
 - `opposed_by:` [[hazael|Aram-Damascus]] (its chief regional rival) and finally
   [[neo-assyrian-empire|Assyria]], which `produced:` its destruction and the
   deportation tradition of the "ten lost tribes."
+
+## Liverani: a minimalist reading
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] offers a strongly revisionist
+(minimalist) account that should be read alongside the more traditional narrative above.
+He treats the origins of Israel as a **local Iron Age process**, not migration or conquest:
+"Proto-Israelites" were tribal/pastoral groups occupying the hill country after Egyptian
+withdrawal (with an etymological link from *ḫabiru* to "Hebrews"), and the **Exodus,
+Joshua's conquest, and the "time of the Judges" are post-exilic constructions** projecting
+later concerns backward. He regards the **Davidic–Solomonic united monarchy as
+archaeologically implausible** (the Tel Dan "House of David" attests only the name of the
+kingdom of Judah; "Solomon's temple/palace" descriptions match an Achaemenid-period plan) —
+the **division into Israel (Samaria) and Judah (Jerusalem) being the only element of the
+unified-monarchy narrative confirmed externally**. On this reading Israel was the genuinely
+dominant Palestinian kingdom (first real state under the **Omrides**), Judah a small,
+marginal latecomer. Crucially he explains the **uniqueness of Judaean religious survival
+materially**: Assyrian mass-deportation-plus-repopulation produced syncretism in the north,
+whereas Babylon deported only a small Judaean elite to a concentrated exile and left the
+countryside empty — enabling the law-and-priesthood identity of the **Second Temple**.
+Yahweh he reads as originally a **pastoral, possibly non-Jerusalemite** deity within a
+polytheistic pantheon (a female consort is epigraphically attested), monotheism crystallising
+only with **Hezekiah's and Josiah's** reforms under Assyrian pressure. His governing method:
+read the Old Testament as evidence for **the period that composed it** (mostly post-exilic),
+not the period it narrates — with the **prophetic books** as the most historically proximate,
+politically-coded source. See [[ancient-near-east-historiography]]. *(This minimalist
+position is itself contested; the [[hebrew-kingdom]] and traditional accounts above present
+the maximalist alternative.)*
 
 ## Historiography
 

@@ -9,8 +9,8 @@ affiliated_with: [the Luwian-Hittite cultural tradition, the city of Carchemish,
 opposed_by: [[[neo-assyrian-empire|Assyria]], [[urartu|Urartu]], the Aramaean states (rivalry and absorption)]
 key_events: [the [[bronze-age-collapse-1200bce|fall of the Hittite Empire]], annexation by Tiglath-pileser III and Sargon II]
 key_processes: [[[indo-european-migrations|post-collapse population movements]], Aramaization, [[state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, anatolia, levant]
 ---
 
@@ -67,6 +67,26 @@ provinces by **Tiglath-pileser III** and **Sargon II**, who took Carchemish itse
 populations deported and its territory absorbed — though Luwian hieroglyphic
 inscriptions and a distinctive sculptural tradition (the orthostat reliefs of
 Carchemish, Zincirli, and Tell Halaf) remained its lasting monument.
+
+## Liverani: continuity, not migration
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] **rejects the migration hypothesis**
+(Hittites fleeing south-east before the Phrygians) as "not only unfounded, but also
+unnecessary": the Neo-Hittite states developed *within the ancient borders* of the Hittite
+empire, and the apparent geographic shift reflects the **loss of western/northern
+territories**, not population movement. The population's language was always **Luwian**, not
+Hittite — "Hittitisation" (via Carchemish and the viceroy system) was a shallow elite veneer
+on palace courts — and Neo-Hittite inscriptions are in a Luwian dialect in **hieroglyphic**
+script that moved from seals to large *outdoor* monuments (visible enough that European
+travellers knew it before cuneiform was deciphered). About ten states existed; **Carchemish**
+(the Assyrians' "great Hatti") kept the clearest imperial continuity and grew to ~100 ha. He
+contrasts a **cultically-inflected Anatolian kingship** ideology with the "relatively
+secular" Aramean one, and notes the diagnostic **bit hilani** porticoed palace and carved
+gate-reliefs that Assyria later "imitated and improved." After **Sargon II's** annexation
+sequence (Carchemish 717 → Kummuh 708), the cities became "mere terminals of the imperial
+administration," monuments ceased, and Luwian hieroglyphs faded — though Luwian names
+survived in the more sheltered marginal zones into the Hellenistic period. See
+[[ancient-near-east-historiography]].
 
 ## Significance
 

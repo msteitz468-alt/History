@@ -14,8 +14,8 @@ scale_immediate: civilizational
 scale_consequential: hemispheric
 causes: [[[sea-peoples|Sea Peoples]], systems collapse, drought and famine, internal social breakdown, [[mycenaean-civilization|palace-economy fragility]], earthquake destructions]
 consequences: [[[early-iron-age|Early Iron Age]], [[philistines|Philistine settlement]], [[greek-dark-age|Greek Dark Age]], collapse of palatial literacy, [[phrygians|Anatolian reconfiguration]], rise of small territorial kingdoms]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [event, transition, late-bronze-age, bronze-age-collapse, early-iron-age, near-east, aegean, mediterranean]
 ---
 
@@ -140,6 +140,27 @@ The causal weighting is a genuine scholarly controversy; see
 - [[phrygians|Phrygians]] — entered Anatolia in the aftermath
 - [[cyprus|Cyprus / Alašiya]], [[assyria-middle|Middle Assyria]],
   [[kassites|Kassite Babylon]], [[elam|Elam]] — survivors and beneficiaries
+
+## Liverani: internal causes, nomads as effects
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] treats the external/migratory
+explanation as the initial modern consensus but insufficient alone: it cannot explain
+"such a large-scale decline and subsequent reorganisation" without prior **internal**
+weakening. His structural account centres on the **palace's over-extraction**: as
+population and production fell, palaces *raised* their demands rather than issuing
+debt-relief edicts, accelerating debt-slavery and the collapse of village/family
+solidarity, draining the very base of production and royal legitimacy (kings had also
+abandoned the "good father" image for heroic self-presentation). Mass flight from debt
+turned farmers into *ḫabiru*, and whole villages "became *ḫabiru*" — shifting allegiance
+from palace to tribe without moving — so that the "nomads" of the collapse are **effects
+and symptoms, not external causes**. He scales down the Sea Peoples (whose origin he places
+in the Balkans, transmitted via Mycenaean Ahhiyawa) and reads Ramses III's account as
+propaganda; the Ugarit letters give the "realistic picture." Dendrochronology at Gordion
+records "particularly dry years around 1200 BCE," a contributing famine in an
+already-weakened Anatolia. The outcome was a **bipartition**: the Assyria–Babylonia–Elam
+triangle survived east of the Euphrates, while the west fragmented into kin-based states —
+the conservative east versus the innovative west. See [[ancient-near-eastern-modes-of-production]]
+and [[ancient-near-east-environment-and-society]].
 
 ## Historiography
 

@@ -9,8 +9,8 @@ affiliated_with: [the cult of Marduk, at times Elam, the [[arameans|Aramaeans]]]
 opposed_by: [[[neo-assyrian-empire|Assyria]]]
 key_events: [the reign of [[merodach-baladan]] in Babylon, the Chaldaean struggle for Babylonia (721–689), the accession of [[nabopolassar|Nabopolassar]] (626)]
 key_processes: [tribal confederation, Babylonization, [[state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, movement, archaic-period, mesopotamia, near-east]
 ---
 
@@ -66,6 +66,23 @@ Babylonian throne and founded the dynasty that, with the **[[medes|Medes]]**,
 destroyed Assyria and ruled the Near East until [[fall-of-babylon-539bce|539]]. The
 Chaldaean name became so identified with Babylon that "Chaldaean" later meant
 simply **astrologer/astronomer** in Greek and biblical usage.
+
+## Liverani: a distinct people, probably of Arabian origin
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] insists the Chaldeans were **a separate
+ethnic group from the [[arameans|Arameans]]** — never confused in Assyro-Babylonian sources:
+they arrived later, settled a different zone (the lower Euphrates, Nippur to Ur and Uruk),
+and assimilated to Babylonian culture far faster (taking Babylonian names and titles). They
+were only **five tribes** (Bit Yakini, Bit Dakkuri, Bit Ammukani, Bit Sha'alli, Bit Shilani)
+but far more powerful than the numerous small Aramean tribes, their leaders claiming "king of
+Chaldea" or "king of the Sealand" and leading Babylonian resistance to Assyria. Distinctively,
+Liverani reads their economy as based on **long-distance Arabian/Indian-Ocean trade** rather
+than agriculture (their tributes to Assyria were exotic goods — gold, incense, ivory, ebony,
+rosewood — partly inheriting Ur's old southern networks, partly riding the new Iron Age camel
+caravans), and on that basis he proposes a homeland in the **far south of the Arabian
+Peninsula** rather than among the Syrian Aramean tribes — which would explain both their
+distinct settlement zone and the Assyrian insistence on their separateness. See
+[[ancient-near-eastern-modes-of-production]].
 
 ## Significance
 
