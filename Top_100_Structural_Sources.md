@@ -27,7 +27,7 @@
 11. **Ian Hodder** - *Archaeological Theory in Europe: The Last Three Decades* ✅ (ingested 2026-06-26)
 12. **Timothy Champion, Clive Gamble, Stephen Shennan, Alasdair Whittle** - *Prehistoric Europe* ✅ (ingested 2026-06-26)
 13. **Barry W. Cunliffe** - *The Ancient Celts* ✅ (ingested 2026-06-26)
-14. **John T. Koch** - *Celtic Culture: A Historical Encyclopedia (5 Vol. Set)* ✅ (ingested Vol I 2026-06-26)
+14. **John T. Koch** - *Celtic Culture: A Historical Encyclopedia (5 Vol. Set)* ✅ (ingested Vol I 2026-06-26; Vols II–III 2026-06-26)
 15. **Peter I. Bogucki, Pam J. Crabtree** - *Ancient Europe, 8000 B.C. to A.D. 1000: An Encyclopedia of the Barbarian World Edition*
 
 ### 2. East & Inner Asia
