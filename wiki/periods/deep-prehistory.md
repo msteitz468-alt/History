@@ -7,8 +7,8 @@ date_range: "before 3.3 million BP"
 regions_covered: [africa, global]
 major_themes: ["hominin evolution", "bipedalism", "australopithecines", "pre-stone-tool hominins"]
 collection_coverage: weak
-sources_ingested: 3
-last_updated: 2026-06-13
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [period]
 ---
 
@@ -68,7 +68,18 @@ the narrative; the field has been transformed in the last 30 years.
 
 **Dating methods**: Potassium-argon and argon-argon radiometric dating for
 volcanic strata; uranium-lead dating; paleomagnetism; comparative anatomy.
-Confidence intervals are wide — often ±100,000 years or more.
+Confidence intervals are wide — often ±100,000 years or more. The intellectual
+preconditions for dating this period at all — the discovery of
+[[concepts/deep-time|deep time]] and the resolution of the age of the Earth to
+~4.55 billion years via radiometric methods — are themselves a 19th–20th-century
+achievement (Steno, William Smith, Kelvin, Becquerel, Holmes).
+
+**History of the field**: The decisive shift of the search for human origins to
+Africa was driven by the [[actors/leakey-family|Leakey family]]'s mid-20th-century
+fieldwork at Olduvai Gorge and Laetoli (whose ~3.6-million-year-old footprints
+confirmed early bipedalism), building on Raymond Dart's 1924 Taung Child. The
+discipline's competitive, discovery-driven culture and its tendency to name
+species on fragmentary remains both date partly from this era.
 
 **Major debates**: The taxonomic relationships between australopithecine
 species; whether Australopithecus sediba is a direct human ancestor; the
