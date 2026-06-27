@@ -9,8 +9,8 @@ affiliated_with: [the rebel coalition against Qin, the Han dynasty (founder), th
 opposed_by: [the Qin dynasty, Xiang Yu of Chu, the non-Liu ally-kings, the Xiongnu]
 key_events: ["rebellion against Qin (from 209 BCE)", "title king of Han (206 BCE)", "Battle of Gaixia and defeat of Xiang Yu (202 BCE)", "purge of the non-Liu kings (to 195 BCE)"]
 key_processes: [[[han-dynasty]], the founding of the Chinese imperial-Confucian state]
-sources_ingested: 1
-last_updated: 2026-06-26
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, china, east-asia]
 ---
 
@@ -73,6 +73,14 @@ Liu Bang is known chiefly through [[sima-qian|Sima Qian's]] *Shiji* and Ban Gu's
 sympathetic to the founder and hostile to Xiang Yu and to Qin, the contrast that anchors the
 moralized **Han narrative of legitimate succession**. The image of the rough, shrewd, hard-drinking
 commoner-emperor is partly a literary construction serving that narrative.
+
+## The Baideng Encirclement and the Xiongnu Problem (Di Cosmo 2002)
+
+Liu Bang's reign also saw the defining **military disaster of the early Han**: the [[battle-of-baideng-200bce|Battle of Baideng (200 BCE)]]. Pursuing what appeared to be a Xiongnu raiding force northward, Liu Bang rode into a trap — [[modu-chanyu|Modu Chanyu]] encircled him at Baideng Mountain near Pingcheng (modern Datong) with cavalry reportedly numbering 400,000, surrounding the Han emperor and his vanguard for approximately seven days while the main Han army was held at bay. Liu Bang escaped through negotiation (or bribery, per later sources), but the defeat was politically catastrophic.
+
+The encirclement demonstrated beyond doubt that the Han state — exhausted by years of civil war, its cavalry inferior, its logistics unable to sustain deep steppe campaigns — could not defeat the Xiongnu in battle. The immediate consequence was the [[heqin-policy|heqin (peace-and-kinship) appeasement treaty]] formalized c. 198 BCE: Liu Bang's dynasty agreed to send annual tribute of silk and grain to the chanyu, provide a Chinese princess as consort to the chanyu, and recognize the two rulers as nominal equals. In Di Cosmo's analysis, this effectively placed the Han in a **tributary relationship to the Xiongnu** for the next sixty-plus years.
+
+The heqin policy survived Liu Bang's own reign and four subsequent reigns before Emperor Wu ([[han-wudi]]) finally repudiated it and launched offensive campaigns (from 133 BCE). See [[di-cosmo-ancient-china-enemies-2002]], [[xiongnu-empire-formation-209bce]], and [[china-steppe-frontier-formation]].
 
 ## Related
 

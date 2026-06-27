@@ -68,3 +68,50 @@ shoot birds" and so to "act as armed cavalry in time of war" — and frames the 
 perennial northern menace "from the time of the Three Dynasties on." It is set within the long
 wars of **[[han-wudi|Emperor Wu]]**, whose generals [[han-wudi|Wei Qing and Huo Qubing]] drove
 the Xiongnu deep into the desert.
+
+---
+
+## Di Cosmo: Formation and Political Structure
+
+*(Source: Nicola Di Cosmo, *Ancient China and Its Enemies* [Cambridge UP, 2002], Chapter 5; source page: [[di-cosmo-ancient-china-enemies-2002]])*
+
+### The Qin-as-Catalyst Thesis
+
+Di Cosmo's most important revisionist argument concerns the cause of Xiongnu empire formation. The conventional view treats the Qin dynasty's northern campaign under General Meng T'ien (215 BCE) as a defensive measure to push nomads "out of raiding range." Di Cosmo argues the reverse: the campaign was an act of imperial expansion — "the first deep and massive conquest of nomadic territory by a Chinese state" — that dispossessed the Xiongnu of their Ordos pasturelands, produced a shortage that upset the steppe balance of power, and made the Xiongnu targets of the Eastern Hu and Yuezhi. This external crisis was the direct catalyst for [[modu-chanyu|Modu's]] internal political coup (c. 209 BCE) and the subsequent centralization of Xiongnu power.
+
+The written sources, Di Cosmo notes, "point to the creation of a political coalition as a reaction against China's invasion of the nomads' territory" — not to a nomadic drive for agricultural goods, and not to an autonomous evolution of nomadic society. The chronological sequence is explicit: "This process of centralization occurred between the invasion of the Ordos by Meng T'ien (215 b.c.) and the rise of Modun to supreme leadership (209 b.c.)."
+
+### The Three-Stage Formation Model
+
+Di Cosmo proposes a Crisis → Militarization → Centralization sequence as the generalizable model for Inner Asian state formation, with the Xiongnu as the founding instance:
+
+**Crisis**: The Qin invasion created a pastureland shortage and a leadership vacuum; Ssu-ma Ch'ien himself identifies *chi* (crisis) as the catalyst for nomadic political action at the opening of *Shih chi* 110. Economic need alone does not produce political unity — on the contrary, pre-state Inner Asian societies typically showed "social disaggregation" at moments of stress. What crisis produces is the conditions for exceptional leadership to emerge.
+
+**Militarization**: Crisis dramatically raised the military participation ratio of Xiongnu society. Men took up arms as professional soldiers rather than seasonal fighters; Modu's bodyguard institutionalized this permanent soldiery. The growing military establishment required external revenues, creating pressure for conquest that the new state's tributary system then fulfilled.
+
+**Centralization**: Modu's coup replaced the traditional tribal aristocracy with a "pyramidal structure of 'kings' and military commanders." The sacral investiture of the chanyu as "appointed by Heaven" transformed the social structure "from semi-horizontal to semi-vertical." The resulting polity is what Di Cosmo calls a "tribe-state" — not controlled by tribal constituencies, but structured like a tribe in terms of hereditary hierarchies and access to power.
+
+### Internal Organization: The Twenty-Four Ta Ch'en
+
+The *Shih chi*'s account of Xiongnu government is the first detailed description of an Inner Asian nomadic ruling elite. The political structure consisted of:
+
+- **Left (eastern) and Right (western) wings**, each with a Wise King (T'u-ch'i), Lu-li Kings, Generals, Commandants, and Household Administrators — the dual division being a durable feature of all subsequent Inner Asian empires.
+- **Twenty-four *ta ch'en*** (high dignitaries): the supreme political council under the chanyu. The most important commanded ten thousand horsemen; the least important a few thousand. These were not tribal representatives but territorial appanage-holders exercising virtually independent rule over their domains.
+- **Three aristocratic consort clans** — Hu-yen, Lan, and (more recently) Hsü-pu — monopolized the highest offices; only members of these lineages could occupy the top positions. "Hereditary access to state positions was to endure as an essential aspect of Inner Asian politics down to the Ch'ing dynasty (1644–1911)."
+- **Decimal military structure**: units of tens, hundreds, and thousands, each appointing sub-commanders. Di Cosmo argues this was an institutional reality — not a rhetorical borrowing from Chinese sources — because the Türk empire later had twenty-eight *ta ch'en* (not twenty-four), a difference inconsistent with artificial analogy and explicable only by genuine continuity within the Inner Asian political tradition.
+
+The chanyu's court was located northeast of the Yellow River's Great Bend; Lung-ch'eng (probably southwest of present-day Ulan Bator, though this identification is debated) served for the fifth-month sacrifices to ancestors, Heaven and Earth, and the deities.
+
+### The Tributary System as Structural Necessity
+
+Di Cosmo argues that the tributary system was not an opportunistic extraction but a structural necessity for the Xiongnu state's survival. Once militarization produced a large non-producing aristocracy and professional army, "the ability to gain revenues external to a society's productive base was key to the emergence of the state apparatus, its survival, its foreign relations, and its projection of force beyond its political and territorial boundaries." The Xiongnu solved this by imposing tribute on:
+
+- Vanquished nomadic peoples (Eastern Hu, Wu-huan, and others after defeat)
+- City-states in the Tarim Basin, who paid in fixed amounts of luxury goods and staples
+- The Han dynasty itself, following the 200 BCE Baideng victory
+
+The fragility of this system is equally important: "the unity of the political system could survive only as long as tributes kept coming in." Around 50 BCE, Xiongnu leaders favorable to peace with China argued explicitly that because their former tributaries (such as the Wu-huan) had transferred allegiance to Han, it was better to submit — a direct acknowledgment of how tributary revenue underpinned the state's political coherence.
+
+### Ethnic Identity: An Unresolved Question
+
+Di Cosmo surveys the long debate on Xiongnu ethnicity and language with unusual candor: "For the time being we cannot go beyond the conclusion that the Hsiung-nu confederation was a mixture of different ethnic and linguistic groups, albeit one whose 'kingly' language . . . is not currently identifiable." The Turkic hypothesis (Deguignes, Pritsak, Eberhard), the Yenisei-Siberian hypothesis (Ligeti, Pulleyblank), the Iranian hypothesis (Bailey), and the agnostic position (Doerfer) all remain in play. The relationship between Xiongnu and European Huns is acknowledged as a shared name without necessarily a shared ethnic ruling elite.

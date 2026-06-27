@@ -78,6 +78,40 @@ in these same centuries Chinese writing, [[confucianism|Confucianism]], and (new
 [[buddhism|Buddhism]] spread to Korea, Japan, and Vietnam — the formation of the
 **[[east-asian-cultural-sphere|East Asian cultural sphere]]**.
 
+## Han–Xiongnu Relations and the Turn to War (Di Cosmo)
+
+[[di-cosmo-ancient-china-enemies-2002|Di Cosmo's structural analysis]] provides the most rigorous account of the Han–Xiongnu relationship during the Former Han period (202–87 BCE) and reframes the standard narrative in terms of incompatible political structures rather than individual decisions or personalities.
+
+### The Heqin System (198–133 BCE)
+
+Following the [[battle-of-baideng-200bce|Battle of Baideng]] (200 BCE), the Han entered a formal appeasement relationship with the Xiongnu that Di Cosmo calls the "bipolar system of foreign relations": two empires of nominally equal status — "Earth" and "Heaven," or "brothers" — whose complementarity was expressed through tribute, marriage, and border markets. The political symbolism of the [[heqin-policy|heqin]] ("peace-and-kinship") framework gave the Han a "workable, if not ideal, basis for negotiation with the Hsiung-nu."
+
+The formal heqin treaty was formalized c. 198 BCE and renewed multiple times through five reigns. The tribute payments were substantial but sustainable within the Han's fiscal capacity. The policy was not simply humiliation: from the Han perspective it was a long-term strategy of "unite and rule" — strengthening the chanyu's central authority through economic resources so that he could enforce peace on his own subordinates and over time be drawn into the Han political family.
+
+**Why heqin failed.** The policy's structural failure is the centerpiece of Di Cosmo's argument. The Han assumed that a treaty signed by the chanyu would be observed by the Xiongnu as a polity — as it would be in the Han system, where the emperor was supreme lawgiver backed by bureaucratic enforcement. This assumption was wrong. The Xiongnu chanyu was not a sovereign in the Han sense but a "first among equals" whose authority depended on continuous negotiation with tribal aristocrats who held hereditary powers over their own peoples and whose "consent could not be compelled through adherence to a firmly established state ideology or controlled through the machinery of a state bureaucracy." The raids that continued through the heqin era were typically conducted by subordinate leaders — the wise king of the right (176 BCE), Chinese defectors, and others whom the chanyu could not effectively restrain.
+
+The Han observed this pattern but interpreted it through a cultural stereotype of nomadic greed rather than through structural analysis. The real issue: "there was no absolute authority within the Hsiung-nu tribal confederation capable of guaranteeing the respect of treaty obligations." No amount of tribute could solve this structural problem. Han increases in payments were intended to strengthen the chanyu's internal position, but the political texture of nomadic society prevented the development of the kind of sovereign authority that could make treaties binding on all members of the polity.
+
+The evidence is explicit in the sources. The Han statesman Hou Ying said in 51 BCE: "although China possesses the teachings of propriety and morality and has the death penalty, the masses still violate prohibitions. How then could we expect the ch'an-yü to keep his followers from violating the treaty?" (*Han shu* 94B, 3804).
+
+### The Xiongnu as Internal Destabilizer
+
+The Xiongnu were not only an external military threat but an internal political one. The early Han emperors were simultaneously managing centrifugal pressures from semi-independent regional kings (*chu-hou-wang*) and the subversive attraction of Xiongnu service for those who came into conflict with central authority. Generals Lu Wan, Hann Wang Hsin, and Ch'en Hsi all defected to the Xiongnu after conflicts with Gaozu. Sima Qian's analysis in *Shih chi* chapter 93: "in the empire [these lords] aroused suspicion by their great strength, while beyond its borders they sought aid from the foreigners (*man-mo*), so that with each day they became further alienated from the emperor and moved deeper into danger."
+
+The Xiongnu thus "acted as a subversive political and military presence and greatly increased the threat they posed both to the integrity of China and to the survival of the Han dynasty." This dynamic explains why early Han emperors prioritized internal consolidation over frontier offensives — the two threats were inseparable.
+
+### The Military Turn Under Emperor Wu
+
+By Emperor Wu's accession (140 BCE) the preconditions for offensive action had converged: the *chu-hou-wang* challenge had been resolved (the Rebellion of the Seven Kings, 154 BCE, was the last serious challenge), the military had developed cavalry as "the most important arm in the wars against the roving tribes of Central Asia" (Laufer, cited by Di Cosmo), ironclad armor and precision crossbows had given Chinese forces a technological edge, and thirty-six horse-breeding stations maintained 300,000 mounts.
+
+The Han then fought three decades of escalating campaigns (133–87 BCE) that pushed the Xiongnu north of the Gobi, established the Han in the Kansu Corridor and Tarim oases, and ultimately provoked the political disintegration of the Xiongnu empire. The **key strategic concept** was "cutting the right arm" of the Xiongnu: severing their supply relationships with the agricultural oases of Central Asia and with the Ch'iang. As the Xiongnu were pushed north and lost their tribute revenues from China, they became increasingly dependent on the Western Regions for agricultural goods. Han military-agricultural colonies in those oases denied them this supply base.
+
+The ultimate outcome: Hu-han-yeh Chanyu's acceptance of a position of inferiority to Han Emperor Hsüan-ti in 51 BCE formally ended the bipolar system. But Di Cosmo notes that Wu's offensive "almost bankrupted the Han because of the rapid depletion of the state's finances" — the wars' enormous cost was visible in the establishment of the salt and iron monopolies (119 BCE) and in the *Discourses on Salt and Iron* debate of the early first century BCE that pitted "modernist" war advocates against "literati" critics of expansionism.
+
+The frontier administrative structure created by these campaigns reorganized border territories at three levels: commanderies inside the defensive line, Dependent States (*shu-kuo*) of surrendered nomadic peoples, and territories outside Han control that had accepted nominal subordination. This structure became the template for Han management of non-Chinese peoples.
+
+**Source:** [[di-cosmo-ancient-china-enemies-2002]].
+
 ## Significance
 
 The Han fixed the enduring shape of the Chinese empire: the Confucian-bureaucratic state,

@@ -218,3 +218,17 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 **Principle:** Range-isolated extractors are structurally blind to global state; any "create new X" they emit must be validated against the existing corpus by the one actor that can see the whole — the main thread. Make the dedupe-against-existing check an explicit reconciliation step rather than relying on the author happening to remember what exists.
 
 **Status:** OPEN
+
+### Observation 12: Ebook-converted sources arrive without markdown headings — scaffold must locate structure by running-header/all-caps greps
+
+**Date:** 2026-06-27
+**Session context:** Deployed-Subagent ingest of Barry J. Kemp, *Ancient Egypt: Anatomy of a Civilization* (3rd ed., 2018), an ebook→markdown conversion (~23,900 lines).
+**Skill:** Ingest workflow (CLAUDE.md "Deployed Subagent Strategy" — Step 1 scaffold / Large-Volume Protocol Step 1 "Read the Structural Map")
+**Type:** internal
+**Phase/Area:** Step 1 — building the Section Plan / chapter line-range map
+
+**Issue:** The source file had exactly ONE markdown heading (the title); all chapter and part divisions were plain text. `grep -nE "^#{1,3} "` returned only the title, so the line-range map for the Section Plan could not be built from headings. The structure had to be recovered indirectly: the printed TOC was read from the front matter for the logical outline, then each chapter's true start line was found via the ALL-CAPS chapter-opener (e.g. "THE BUREAUCRATIC MIND") and the index/back-matter boundary via repeated running-header greps. Running headers ("Introduction", "Who were the ancient Egyptians?") repeat on every page and produce dozens of false hits, so the FIRST all-caps occurrence had to be distinguished from later running-header repeats.
+
+**Suggested improvement:** Add a note to the scaffold/Section-Plan step: ebook-converted sources (epub/pdf → md via ebook-convert) usually lack markdown headings. Don't rely on `grep "^#"`. Instead (a) read the printed TOC in the front matter for the logical outline, (b) locate each chapter's body start via its ALL-CAPS opener line, and (c) find the index/notes/bibliography boundary to bound the body line-count before sizing/weighting ranges. Expect running headers to generate many duplicate matches; take the first occurrence as the chapter start.
+
+**Principle:** When the input format strips the structure you normally navigate by, recover structure from a redundant secondary signal the format preserves (printed TOC, page running-heads, all-caps display type) rather than assuming the primary signal exists. Verify the body's true start/end line numbers before computing chunk weights — front matter, notes, and index can be a third to a half of the file.

@@ -9,8 +9,8 @@ affiliated_with: [the state and [[qin-dynasty|Qin dynasty]], Legalism, the chanc
 opposed_by: [the other Warring States (Chu, Wei, Zhao, Han, Yan, Qi), the Confucian scholars]
 key_events: ["the unification of China (221 BCE)", "the standardization of script, weights, coinage", "the book-burning (213 BCE)", "the building of the Great Wall & his tomb (the terracotta army)"]
 key_processes: [[[qin-dynasty]], the founding of the Chinese imperial system]
-sources_ingested: 3
-last_updated: 2026-06-13
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, china, east-asia]
 ---
 
@@ -105,6 +105,16 @@ propaganda, and **early Han law was initially almost identical to Qin law**. The
 **commandery-and-county bureaucratic system** — not the wall or the tomb — as his greatest and
 most enduring achievement, the structure "followed by imperial governments of China for over 2,000
 years" (see [[qin-unification-221-bce]]).
+
+## The Northern Campaigns and the Great Wall (Di Cosmo 2002)
+
+Di Cosmo's *Ancient China and Its Enemies* substantially revises the standard picture of Qin Shi Huang's northern policy. The conventional narrative — that the linking of the Warring States walls into the **Great Wall** was a defensive response to nomadic pressure — is, Di Cosmo argues, a retrospective Han-era and Ming-era distortion.
+
+The Ordos campaign of **215 BCE**, commanded by General **Meng Tian** with a force reportedly numbering 300,000, was not a defensive reversal but the culmination of a century-long Qin pattern of **offensive northward colonization**. Ch'in under King Chao-hsiang (306–251 BCE) had already seized the region within the Yellow River loop and built a wall system extending from Shang commandery southwest into Lung-hsi — infrastructure for garrisons stationed in territory whose entire archaeological remains are those of non-Chinese pastoral cultures, not a border between Chinese farmers and nomads.
+
+The 215 BCE campaign extended this project at imperial scale: the Ordos was seized for its **horse-breeding resources**, forty-four county towns erected, garrisons installed, and the three Warring States wall systems of Ch'in, Chao, and Yen unified into a single barrier. This was infrastructure for **military penetration and resource exploitation**, not a wall at the edge of Chinese civilization.
+
+The most historically significant — and unintended — consequence of the campaign was **catalyzing Xiongnu political consolidation**. The Qin invasion displaced steppe peoples from the Ordos pasturelands and created the crisis conditions under which [[modu-chanyu|Modu Chanyu]] killed his father, seized power, and began building the first nomadic empire. The Xiongnu empire that would humiliate the early Han at [[battle-of-baideng-200bce|Baideng (200 BCE)]] was, in a direct sense, a product of the First Emperor's northern policy. See [[di-cosmo-ancient-china-enemies-2002]] and [[qin-northern-campaigns-215bce]].
 
 ## Related
 
