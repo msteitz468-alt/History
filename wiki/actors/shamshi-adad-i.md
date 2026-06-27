@@ -9,8 +9,8 @@ affiliated_with: [[[ashur|Assyria]], [[amorites|the Amorites]]]
 opposed_by: [Yahdun-Lim/Zimri-Lim of Mari, Eshnunna, the Hurrian princes]
 key_events: [reconquest of Mari/Khabur from Yahdun-Lim, the dissolution of his empire after his death (~1781 BCE)]
 key_processes: [[[state-formation]], [[imperialism]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, mesopotamia]
 ---
 
@@ -71,6 +71,23 @@ adds the sequel: the abler son **Ishme-Dagan** held only Assyria, while
 (restored from exile with the help of [[iamkhad|Aleppo]]), and the rest of Upper
 Mesopotamia fragmented into the small kingdoms that the [[hurrians|Hurrian]] tide
 would later engulf.
+
+## Liverani: a fabricated pedigree over too-abrupt an empire
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] stresses that Shamshi-Adad was an
+**Amorite tribal chief, not an Assyrian** — he had fled to Babylon to escape Eshnunna,
+then returned to power from the marginal centre of **Ekallatum** and only afterward
+overthrew the legitimate Erishum II of Ashur; even then the old Ashur centre played a
+secondary role in his kingdom. The opening section of the **Assyrian King List** (17 kings
+"who lived in tents") is, on Liverani's reading, a **legitimating fabrication** commissioned
+by Shamshi-Adad to furnish himself a tribal Amorite genealogy and graft his family onto the
+real Ashur dynasty he had displaced. His model was explicitly Akkadian (titles "strong king"
+and "king of Akkad"; a Mediterranean expedition for prestige), and he imposed Assyrian
+eponym dating and the Assyrian calendar across all his cities, Mari included — perhaps
+substituting **Enlil** for Ashur as patron, naming his capital **Shubat-Enlil**. The
+underlying weakness was structural: the leap "from political fragmentation to imperial
+unification had been too abrupt and ambitious to be consolidated," so the realm could not
+outlive him. See [[ancient-near-east-historiography]].
 
 ## Historiography
 

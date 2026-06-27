@@ -7,8 +7,8 @@ date_range: 2,100–1,550 BCE (Near East; regionally variable)
 regions_covered: [mesopotamia, near-east, levant, anatolia, north-africa, iran-plateau, aegean, europe, western-europe, central-europe]
 major_themes: [territorial states, the Amorite world, bureaucratic empire, urban revival, palace economy, long-distance trade, multipolar diplomacy]
 collection_coverage: moderate
-sources_ingested: 3
-last_updated: 2026-06-26
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [period]
 ---
 
@@ -118,6 +118,27 @@ Iberia: El Argar and related (Bronce Valenciano, Mancha BA) show mixed farming w
 
 Grounded in verbatim from Bogucki & Crabtree 2004 Range 01 (SE Europe/MBA by Bankoff; Central Europe; Italian by Pearce; Iberian by Gilman; Sardinia by Blake). Complements Champion framing with site-specific settlement and ritual detail. Links to [[concepts/secondary-products-revolution]], [[concepts/urnfield-culture]], [[places/stonehenge]]. See source page for full Range 01 extraction.
 
+## Liverani's interpretation
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] reframes the period structurally. He
+rejects calling the Isin-Larsa phase an "intermediate" interlude between unifications:
+**city-states were the normal condition** of Mesopotamian politics and the imperial
+unifications (Akkad, Ur) were the anomaly that collapsed within ~three generations — and
+beneath the political fragmentation ran a deep **demographic, technological, and economic
+continuity** with Ur III. The closing crisis of the **second urbanisation** he reads as
+primarily *internal* (over-exploitation of land, wealth concentration for prestige,
+salinisation, accumulation that made the system brittle), with barbarian pressure a
+consequence, not a prime cause. The Amorite-influenced **social transformation** is his
+central theme: palace and temple posts became hereditary "closed corporations"; private land
+and testamentary division spread; **debt-slavery** became structural and near-irreversible;
+and the shift from ration- to salary-payment probably left workers *worse off*. Royal
+ideology answered with the **"good shepherd"** image and predictable **mīšarum** debt-release
+edicts, while [[ancient-near-east-historiography|omen literature]] exploded — a sign of
+rising individual anxiety and of tension between the public (*mātu*) and private (*bītu*)
+spheres whose threatened values were solidarity and loyalty. On the [[hyksos|Hyksos]] he
+dismantles the "invasion" model in favour of gradual Levantine infiltration of the Delta
+(Tell ed-Dab'a). See [[ancient-near-eastern-modes-of-production]].
+
 ## Key Actors
 
 - The [[third-dynasty-of-ur|Third Dynasty of Ur]] (Ur-Nammu, Shulgi); the
@@ -191,7 +212,7 @@ chronology used by CAH.
 **[[edwards-cah-v2p1-1973|CAH Vol. II.1]]**, alongside CAH Vol. I.2; the Levantine
 and Anatolian threads are moderate and archaeological. The **rest of the Middle
 Bronze backbone (CAH Vols. II.2–IV) is missing from the collection** — a sourcing
-gap; see [[../../Outstanding Sources|Outstanding Sources]].
+gap (see `Top_100_Structural_Sources.md`).
 
 **Grounded claims from Code of Hammurabi range 266–531 (L.W. King trans.)**
 

@@ -9,8 +9,8 @@ affiliated_with: [[[babylon-first-dynasty|First Dynasty of Babylon]], [[amorites
 opposed_by: [[[zimri-lim|Zimri-Lim of Mari]] (later), Rim-Sin of Larsa, Eshnunna, [[elam|Elam]], Assyria]
 key_events: [defeat of Rim-Sin of Larsa (~1763 BCE), defeat of the Elam-led coalition (~1764 BCE), sack of [[mari|Mari]] (~1761/1759 BCE)]
 key_processes: [[[state-formation]], [[imperialism]], [[interpolity-law]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, mesopotamia]
 ---
 
@@ -109,6 +109,30 @@ later legal and political memory. He illustrates the period's central lesson, dr
 from the Mari archive: in the Old Babylonian world, **no single power could
 dominate the whole**; supremacy was always provisional, a brief tipping of a
 "delicately poised scale" ([[interpolity-law|the Mari-age balance of power]]).
+
+## Liverani: the un-deified shepherd and the demonstrative Code
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] sharpens several points. Hammurabi was
+**not deified** — a deliberate break from the [[third-dynasty-of-ur|Ur III]]/Isin-Larsa
+tradition — and sought legitimacy not in divine descent but in **Amorite ancestor
+genealogies** and the human image of the **"good shepherd"** and just father of orphans,
+widows, and the enslaved. His reign coins the very concept of a land of **"Babylonia"**
+(heir to "Sumer and Akkad," southern counterpart to Assyria), though Marduk's elevation to
+head the pantheon was a long process completed only under Nebuchadnezzar I, half a
+millennium later.
+
+On the **Code**, Liverani is emphatic that it was **not operative legislation** but a
+demonstrative celebration of just kingship: "it was the verdicts that shaped the code," not
+vice versa — the stele is dedicated to the oppressed and to future kings, *not to the
+judges*, who went on applying local custom. Its **talion** penalties were an **Amorite
+innovation** against the older Sumero-Akkadian principle of financial compensation, and many
+were likely deterrents rather than enforced. The recurring **mīšarum debt-release edicts**
+were a *structural, predictable* feature (creditors and debtors anticipated them), part of
+the economic mechanism rather than genuine reform; the "fair" prices in royal texts were
+propagandistic (stable, not market-related). Yet — against Polanyi — Liverani argues a real
+**market mechanism** was already operating in the physical market-place (*mahīrum*),
+evidenced by the literary stereotype of high prices in crisis and low in prosperity. See
+[[ancient-near-eastern-modes-of-production]] and [[ancient-near-east-historiography]].
 
 ## Historiography
 

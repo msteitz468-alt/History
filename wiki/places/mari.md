@@ -7,8 +7,8 @@ period_active: [Early Bronze Age, Middle Bronze Age]
 controlled_by: [Mari (independent kingdom), Akkadian Empire, Third Dynasty of Ur, Shamshi-Adad I (Yasmah-Adad), Amorite dynasty (Zimri-Lim), Babylon (Hammurabi), the land of Khana]
 events_here: [sack of Mari by [[hammurabi|Hammurabi]] (~1761/1759 BCE)]
 processes_here: [[[trade-network-formation]], [[temple-economy]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [place, mesopotamia, levant, near-east, early-bronze-age, middle-bronze-age]
 ---
 
@@ -65,6 +65,26 @@ and the basis for the deflated modern view of [[hammurabi|Hammurabi]] (see
 Out of the ruins rose the small successor **land of Khana** (centred on **Terqa**,
 home of Dagan's chief sanctuary), whose later kings included a Kassite-named
 **Kashtiliash** — the one early trace of [[kassites|Kassite]] power on the Euphrates.
+
+## Liverani: tribes and palaces
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] uses Mari to overturn the
+nomad-versus-sedentary cliché. In the Middle Euphrates the pastoral groups were not
+intruders on a pre-existing world of cities — "if there was a secondary and intrusive
+element in the Middle Euphrates, this was certainly **the palace**"; both developed
+together. The dual royal titles ("king of Mari and Hana," "king of Tuttul and Amnanum")
+express the two-component structure of every Amorite kingdom: the **city** (*mamlakatum*,
+palace + fields) and the **tribe** (*nawûm*, wider territorial presence). The two ran
+opposite economic strategies — the tribe slow-paced, large-territoried, resilient, its
+wealth in herds; the palace fast-paced, surplus-maximising, generating luxury and
+gift-exchange but **extremely vulnerable**. That vulnerability explains the collapse of the
+whole Middle Euphrates palatial network (~1800–1750 BCE: Mari, Shubat-Enlil, Terqa, Tuttul
+within a century): over-extension on a marginal resource base — summer sesame taking former
+pasture, building programs, wars — broke the palaces, while the pastoral groups simply
+returned to their rhythms. Mari's economy rested only partly on its limited fields; **taxes
+on tribal sheep and on transit trade** carried it. See
+[[ancient-near-eastern-modes-of-production]] and the [[amorites|tribal map]] (Banu-Yamina /
+Banu-Sim'al; "Hana" a term for nomads, not a tribe).
 
 ## Why this place mattered
 

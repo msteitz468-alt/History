@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [[[akkadian-empire]], [[mesopotamian-chronology|Third Dynasty of Ur]], [[middle-kingdom-egypt|Egypt]]]
 key_events: [[[gutian-invasion|pressure on Akkad and Ur III]]]
 key_processes: [[[migration-in-human-history]], [[pastoral-nomadism]], [[state-formation]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, movement, early-bronze-age, middle-bronze-age, levant, mesopotamia]
 ---
 
@@ -123,6 +123,27 @@ cultivators and townspeople"). The same pattern recurs with the Aramaeans, the
 Chaldeans, and later steppe conquerors. Their absorption also seeded the
 **Northwest Semitic** linguistic world from which Canaanite, Phoenician, and Hebrew
 descend.
+
+## Liverani: homeland, the dimorphic zone, and the tribal map
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] revises several points. He relocates
+the **Semitic "homeland"** away from the Syrian steppe to the south-western edge of the
+Near East — the strip from Palestine and the Transjordan plateau to western Arabia — with
+the Amorite component only *secondary* in Syria until the fall of [[ebla|Ebla]]. He reads
+the expansion in phases (Palestine → Syria/Upper Mesopotamia → Lower Mesopotamia), the
+violent final thrust into the south being a *necessity* against Ur III's solid resistance,
+not the Amorites' nature. He sharpens Rowton's **"dimorphic zone"**: it was dimorphic not
+because pastoralists coexisted with cities but because the *same* agro-pastoral population
+concentrated in the irrigated lands during dry summers and dispersed to the steppe in wetter
+winters/springs — **seasonal**, not structural, dimorphism. The Amorite arrival drove the
+cultural shift from a **Sumerian–Akkadian** to an **Akkadian–Amorite** symbiosis (Sumerian
+surviving only as an erudite language). On the Mari tribal map he follows **Durand and
+Charpin**: the two real confederations were **Banu-Yamina** ("sons of the right"/south) and
+**Banu-Sim'al** ("sons of the left"/north) — named by their relation to the rising sun —
+and **"Hana"/"Haneans" was not a third tribe** but a general term for nomads (giving its
+name to the region), a correction to the older CAH list above. The ruling
+[[zimri-lim|Zimri-Lim]] dynasty was Sim'alite, which is why subduing the Yaminites was a
+chronic problem. See [[ancient-near-east-environment-and-society]].
 
 ## Historiography
 

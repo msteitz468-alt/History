@@ -8,8 +8,8 @@ region: [anatolia, mesopotamia, near-east]
 process_type: [economic]
 driven_by: [[[ashur|Ashur]]'s merchant houses, the Anatolian metal market, tin and textile demand]
 produces: [[[kultepe|the kārum colonies]], a long-distance commercial law, the earliest dense business archive]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [process, middle-bronze-age, anatolia, mesopotamia]
 ---
 
@@ -90,6 +90,28 @@ of the **Hittites**. The main phase ended ~1840 BCE — most likely because
 **caravan traffic became unprofitable** rather than from any single conquest — with
 a brief revival under [[shamshi-adad-i|Shamshi-Adad I]] before the consolidation of
 Anatolian kingdoms (and Zimri-Lim's Mari) cut the routes.
+
+## Liverani: the profit machine and its dependence on Ashur
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] foregrounds the **economics**. The
+system was not aimed at supplying Ashur with goods it lacked but at **export for profit**,
+with **silver functioning as the pre-monetary store of value** and unit of account. The
+commodity geography was triangular: **textiles** from Ashur (and higher-quality from
+Babylonia), **tin** from the Iranian plateau (~northern Afghanistan/Tajikistan) reaching
+Ashur via Shemshara, Eshnunna, and Elam, and **silver/gold** from Anatolian mines; copper
+played only a marginal role because the nearest source (Ergani Maden) lay closer to Assyria
+than to Kanesh, bypassing the colony merchants. Profit came from **price differentials**:
+tin bought at 13–16 shekels per silver shekel in Assyria sold at 6–8 in Anatolia (roughly
+doubling the return), standard fabrics 3–7 shekels sold at 10–14. Even after travel (~10%),
+food (~2.5%), and a stack of transit taxes (*nišhatum*, *da'tum*, *šaddu'atum*) — sometimes
+dodged by smuggling — margins stayed high. Textile production at Ashur was a **family
+industry run by merchants' wives** overseeing many women workers, making Ashur effectively a
+commercial-"industrial" city with little agriculture. Crucially, Liverani ties the network's
+fate to **Ashur's internal politics, not Anatolian disruption**: the first phase (Kültepe
+level II) collapsed when the Assyrian centre weakened, and the level-Ib revival accompanied
+[[shamshi-adad-i|Shamshi-Adad's]] stronger rule. He reads **Anitta's inscription**
+(preserved by later Hittite scribes) as a *ritual* document managing the transfer of the
+capital from victorious Kushshara to the cursed Hattusa. See [[ancient-near-eastern-modes-of-production]].
 
 ## Historiography
 

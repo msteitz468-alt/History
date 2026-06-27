@@ -9,7 +9,7 @@ affiliated_with: [[[amorites|West-Semitic Asiatics]], the princedom of Kush (all
 opposed_by: [the Theban [[new-kingdom-egypt|17th/18th Dynasty]], [[ahmose-i|Ahmose I]], Kamose, Seqenenre Tao II]
 key_events: [occupation of [[avaris|Avaris]] (~1720 BCE), occupation of Memphis (~1674 BCE), expulsion by [[ahmose-i|Ahmose I]] (~1550 BCE)]
 key_processes: [[[second-intermediate-period]], [[migration-in-human-history]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, dynasty, middle-bronze-age, north-africa, levant]
 ---
@@ -107,6 +107,19 @@ These figures and the war of liberation are treated on
 [[actors/seqenenra-taa|Seqenenra Taa]], [[kamose|Kamose]], and
 [[events/fall-of-avaris-1528bce|the fall of Avaris]].
 
+## Liverani: gradual infiltration, and the limits of "empire"
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] concurs and adds a Near-Eastern frame.
+The structural cause was a **reversal of fortunes**: as Egypt weakened after the 13th
+dynasty, the Levant grew more prosperous and urbanised, enabling gradual Levantine
+infiltration of the Delta (Tell ed-Dab'a shows a mixed Egyptian–Levantine culture growing
+stratigraphically over the Egyptian baseline). He confirms the names are **Semitic
+(Amorite), not Hurrian**, and deflates the notion of a Hyksos "empire" reaching to Syria:
+objects bearing Khyan's name from Nubia to Knossos, Hattusa, and Baghdad are traces of
+**diplomatic/commercial gift-exchange, not political control**. Tellingly, Egypt is *absent*
+from the Mari archives and Syro-Mesopotamian networks reached only as far as Hazor — Egyptian
+commercial reach was geographically limited and did not penetrate Upper Syria.
+
 ## Historiography
 
 Known from a thin and one-sided record: scarabs and seal-impressions (the chief
@@ -123,4 +136,4 @@ distinctive material culture once attributed to them have largely been
 - Place: [[avaris]] · Opposed by: [[ahmose-i]] · [[kamose]] · [[actors/seqenenra-taa]] → [[new-kingdom-egypt]]
 - Allied: [[kerma-kingdom]] · Event: [[events/fall-of-avaris-1528bce]] · Material: [[concepts/tell-el-yahudiya-ware]]
 - Preceded by: [[middle-kingdom-egypt]] · Period: [[middle-bronze-age]]
-- Source: [[edwards-cah-v2p1-1973]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]
+- Source: [[edwards-cah-v2p1-1973]] · [[sources/shaw-oxford-history-ancient-egypt-2000]] · [[liverani-ancient-near-east-2014]]
