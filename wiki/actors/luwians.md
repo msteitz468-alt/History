@@ -9,7 +9,7 @@ affiliated_with: [hittites, neo-hittite-states]
 opposed_by: []
 key_events: [Spread through southern Anatolia by mid-M2 BCE, continuation of hieroglyphic script after the fall of Hattusa]
 key_processes: [bronze-age-collapse-1200bce]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, movement, anatolia, near-east, late-bronze-age]
 ---
@@ -65,4 +65,4 @@ assumption that western Anatolia was Luwian-dominated for much of M2.
 - Indo-European Anatolian people; linguistic kin of the [[hittites|Hittites/Nesites]]
 - Cultural-linguistic substrate of the [[neo-hittite-states|Neo-Hittite kingdoms]] and their hieroglyphic monuments
 - Intermingled with the [[hurrians]] in Kizzuwadna; ancestral to Classical-period Lycians, Cilicians
-- Source: [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook of the Peoples and Places of Ancient Western Asia]] (2009: 427–9); Melchert (2003); Houwink ten Cate (1965).
+- Source: [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook of the Peoples and Places of Ancient Western Asia]] (2009: 427–9); [[sources/bryce-world-neo-hittite-kingdoms-2012|Bryce, The World of the Neo-Hittite Kingdoms]] (2012) — for the Iron Age hieroglyphic-Luwian monumental tradition that defines the [[neo-hittite-states|Neo-Hittite states]]; Melchert (2003); Houwink ten Cate (1965).

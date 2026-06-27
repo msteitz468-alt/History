@@ -9,7 +9,7 @@ affiliated_with: [the Luwian-Hittite cultural tradition, the city of Carchemish,
 opposed_by: [[[neo-assyrian-empire|Assyria]], [[urartu|Urartu]], the Aramaean states (rivalry and absorption)]
 key_events: [the [[bronze-age-collapse-1200bce|fall of the Hittite Empire]], annexation by Tiglath-pileser III and Sargon II]
 key_processes: [[[indo-european-migrations|post-collapse population movements]], Aramaization, [[state-formation]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, anatolia, levant]
 ---
@@ -88,6 +88,46 @@ administration," monuments ceased, and Luwian hieroglyphs faded — though Luwia
 survived in the more sheltered marginal zones into the Hellenistic period. See
 [[ancient-near-east-historiography]].
 
+## Bryce (2012): the standard synthesis
+
+[[sources/bryce-world-neo-hittite-kingdoms-2012|Bryce's *World of the Neo-Hittite
+Kingdoms* (2012)]] is the first full single-author political and military history of these
+states and now the working narrative. Its core positions:
+
+- **Continuity over migration.** Like [[liverani-ancient-near-east-2014|Liverani]], Bryce
+  treats the states as developing *within* the former Hittite south-east, not from refugees
+  fleeing south. The decisive case is [[carchemish|Carchemish]], whose Late Bronze Age
+  viceregal line (descended from Suppiluliuma I's son Sharri-Kushuh/Piyassili) survived the
+  collapse and styled its rulers **"Great Kings"** — a direct dynastic bridge across
+  ~1200 BCE. Bryce floats, but cannot prove, that the last Hittite king **Suppiluliuma II**
+  evacuated Hattusa for south-east Anatolia/north Syria rather than dying in its sack
+  (following J. Seeher's excavation evidence that Hattusa was *abandoned* before its final
+  burning).
+- **"Neo-Hittite" is a modern label, not an ancient identity**, defined chiefly by
+  [[luwians|Luwian hieroglyphic]] monumental writing and Anatolian dynastic names. The
+  category shades into the [[arameans|Aramaean]] one: [[hamath|Hamath]],
+  [[unqi-pattin|Unqi/Pa(t)tin]], and Sam'al move between "Hittite" and "Aramaean" character
+  over time.
+- The states' political history is **essentially the history of Assyrian pressure** — a
+  12th–10th-c. autonomy window, then tribute and subjection under Ashurnasirpal II and
+  Shalmaneser III (the [[battle-of-qarqar-853bce|coalition at Qarqar, 853]]), then outright
+  provincialization in the 8th c. (Carchemish annexed **717**, [[kummukh|Kummukh]] **708**),
+  after which the Luwian monumental tradition ceased.
+
+The name **"Hittite" itself** is borrowed from the Bible (see
+[[biblical-hittites|The Biblical Hittites]]); the states' claim to it rests on real
+Luwian-Anatolian continuity, not the biblical usage.
+
+## Member kingdoms (Bryce's survey)
+
+The mosaic is now detailed on dedicated pages: the **Euphrates group** —
+[[carchemish|Carchemish]], [[melid|Melid]], [[kummukh|Kummukh]]; the **Anti-Taurus /
+western Syrian group** — [[gurgum|Gurgum]], [[unqi-pattin|Unqi/Pa(t)tin]],
+[[hamath|Hamath]]; the **south-east Anatolian group** — [[tabal|Tabal]],
+[[tuwana|Tuwana]], [[que-adanawa|Que (Adanawa)]] and rough Cilicia (Hilakku); and the
+intrusive [[arameans|Aramaean]] states proper, of which [[bit-agusi-arpad|Bit-Agusi
+(Arpad)]] was the major northern power.
+
 ## Significance
 
 - `caused_by:` the [[bronze-age-collapse-1200bce|Bronze Age Collapse]] and the
@@ -119,4 +159,5 @@ archaeology of the individual sites.
 - Member kingdoms: [[carchemish|Carchemish]] · [[hamath|Hamath]] (Neo-Hittite before its Aramaean dynasty)
 - Neighbours/rivals: [[arameans|Aramaeans]] · [[neo-assyrian-empire|Assyria]] · [[urartu|Urartu]] · [[phrygians|Phrygia]]
 - Period: [[early-iron-age|Early Iron Age]] · Region: [[anatolia]] · [[levant]]
-- Source: [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] (Kuzi-Teshub's "Great King" line at [[carchemish|Carchemish]] bridging the collapse) · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]] · [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]]
+- Concept: [[biblical-hittites|The Biblical Hittites]] (origin of the "Hittite" label)
+- Source: [[sources/bryce-world-neo-hittite-kingdoms-2012|Bryce, The World of the Neo-Hittite Kingdoms (2012)]] (the standard synthesis) · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] (Kuzi-Teshub's "Great King" line at [[carchemish|Carchemish]] bridging the collapse) · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]] · [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]]

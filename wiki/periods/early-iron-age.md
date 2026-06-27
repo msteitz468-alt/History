@@ -7,9 +7,9 @@ date_range: "1,200–800 BCE (regionally diachronous)"
 regions_covered: [near-east, levant, anatolia, mesopotamia, iran-plateau, mediterranean, iberia, china, south-asia, north-africa, sub-saharan-africa, mesoamerica]
 major_themes: ["aftermath of the Bronze Age Collapse", "iron metallurgy", "Neo-Assyrian resurgence", "Phoenician expansion", "the Greek 'Dark Age'", "Western Zhou and its fall", "Vedic age", "alphabetic writing", "small states and tribal polities"]
 collection_coverage: moderate
-sources_ingested: 7
+sources_ingested: 8
 last_updated: 2026-06-27
-tags: [period, bogucki-crabtree-ancient-europe-2004]
+tags: [period, bogucki-crabtree-ancient-europe-2004, bryce-world-neo-hittite-kingdoms-2012]
 ---
 
 ## Overview
@@ -246,3 +246,21 @@ Mid-5th c. transition to La Tène A: "over much of the west central Hallstatt el
 Warfare and hierarchy: raid and entourage central to status; "the raid provided the opportunity to demonstrate leadership"; later potlatch (Louernius chariot largesse). Warriors’ tombs with imported feast gear, chariot fittings, anthropoid-hilt swords (emblem of class); headhunting ("They cut off the heads of enemies... display them with pride"); auxiliaries/mercenaries to Rome. Sanctuary deposits of "some 2,000 broken weapons". Three social zones by 1st c bc (core magistrates, intermediate kings+oppida, periphery burials). "societies very different from those existing at the height of the migration period." Late La Tène elite burials (Kent to Germany) with torcs, mirrors, wine equipment reflect shifted prestige economy. (developed celtic world 312, 318–19, 343–5, 297, 309)
 
 Grounded exclusively range_04. See [[concepts/iron-age-warfare]], [[concepts/celtic-art]], updated [[actors/celts]], [[concepts/la-tene-culture]].
+
+**The Syro-Hittite world (Bryce 2012):** In the zone of the former [[hittites|Hittite
+Empire]] — south-east Anatolia and north Syria — the Early Iron Age was not a blank "Dark
+Age" but the era of the [[neo-hittite-states|Neo-Hittite (Syro-Hittite) states]], the chief
+case of **cultural continuity across the [[bronze-age-collapse-1200bce|Bronze Age
+Collapse]]**. [[sources/bryce-world-neo-hittite-kingdoms-2012|Bryce (2012)]] argues these
+city-states developed *in situ* rather than from refugee migration, with
+[[carchemish|Carchemish]] preserving a Late Bronze Age viceregal dynasty styling itself
+"Great Kings." They wrote monumental [[luwians|Luwian hieroglyphic]] inscriptions, kept
+Anatolian dynastic names, and progressively fused with the incoming [[arameans|Aramaeans]]
+([[gurgum|Gurgum]], [[tabal|Tabal]], [[tuwana|Tuwana]], [[que-adanawa|Que]],
+[[melid|Melid]], [[kummukh|Kummukh]], [[hamath|Hamath]], [[bit-agusi-arpad|Arpad]]). Their
+political history is dominated by the [[neo-assyrian-empire|Neo-Assyrian]] resurgence —
+tribute, the [[battle-of-qarqar-853bce|coalition at Qarqar (853)]], and finally
+8th-century provincialization. The name "Hittite" itself is a biblical borrowing (see
+[[biblical-hittites|The Biblical Hittites]]). This corrects the period's "small states and
+tribal polities" theme for the northern Levant, where literate, monumentally-building
+kingdoms persisted.
