@@ -9,8 +9,8 @@ affiliated_with: [Confucian-Legalist statecraft, local elites]
 opposed_by: [the [[xiongnu]], rival warlords, the Yellow Turban rebels]
 key_events: [Emperor Wu's Xiongnu wars 141-87 BCE, Zhang Qian's mission to the Yuezhi 139 BCE, opening of the [[silk-roads|Silk Roads]], conquest of northern Korea 109 BCE]
 key_processes: [[[empire]], [[silk-roads]], [[confucianism|Confucian state ideology]], [[east-asian-cultural-sphere]]]
-sources_ingested: 5
-last_updated: 2026-06-14
+sources_ingested: 6
+last_updated: 2026-06-27
 tags: [actor, dynasty, classical-antiquity, late-antiquity, china, east-asia]
 ---
 
@@ -156,3 +156,27 @@ the White Horse Temple at Luoyang) and **organized [[daoism|Daoism]]** (Celestia
 the vacuum. On the **[[mawangdui|Mawangdui]]** tombs (silk manuscripts, the funerary banner) and **Zhang Qian's**
 missions opening the [[silk-roads|Silk Road]], see those pages and [[han-wudi]].
 **Source:** [[major-cook-ancient-china-2017]].
+
+## The Han and the First Silk Roads Era (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Benjamin]] makes the Han the **eastern anchor** of
+the [[silk-roads|First Silk Roads Era]] and silk its supply engine. Key threads:
+
+- **From *heqin* to offensive war.** After Liu Bang's near-disaster of 201 BCE, the early
+  Han bought peace with the [[xiongnu]] through **[[modu-chanyu|heqin]] tribute** — silk,
+  grain, wine, even princesses (e.g. 30,000 bales of silk in 1 BCE) — effectively as
+  Xiongnu vassals. Benjamin argues this **tribute silk was the network's first westward
+  flow**, monetized onward by intermediaries. [[han-wudi|Wudi]] reversed the policy,
+  launching the [[zhang-qian-mission-138bce|Zhang Qian mission]] and the great Xiongnu wars
+  (119 BCE: 100,000 cavalry, 140,000 horses) and the **Ferghana campaigns (104, 102 BCE)**
+  for the "heavenly horses." The **Protector General of the Western Regions** (60/59 BCE)
+  gave the Han durable control of the Tarim routes.
+- **Scale.** The 2 CE census recorded **57,671,400** people across 83 commanderies and
+  1,587 prefectures — the most sophisticated administration yet seen.
+- **Later Han collapse.** Ten child-emperors after Hedi (89–105 CE) ceded power to eunuchs
+  and consort clans; disasters from 153 CE, the **Yellow Turban Rebellion (184 CE)**, and
+  warlordism destroyed the dynasty. Emperor Xian abdicated in **220 CE**, opening the
+  **Three Kingdoms** and the 360-year "Age of Disunity" — during which
+  [[spread-of-buddhism|Buddhism]] made its decisive conquest of China. The Han collapse is
+  the eastern keystone of the [[collapse-of-first-silk-roads-era-250|end of the First Silk
+  Roads Era]].

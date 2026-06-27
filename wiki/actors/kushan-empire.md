@@ -9,8 +9,8 @@ affiliated_with: [the Yuezhi confederation, Buddhist and Zoroastrian and Hindu c
 opposed_by: [the [[sasanian-empire|Sasanians]], the Hephthalites]
 key_events: [Yuezhi migration into Bactria 2nd c. BCE, crossing of the Hindu Kush into India c. 1st c. CE, patronage of Mahayana Buddhism]
 key_processes: [[[silk-roads]], [[trade-network-formation]], [[buddhism|spread of Buddhism]], [[empire]]]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, empire, classical-antiquity, central-asia, south-asia]
 ---
 
@@ -86,6 +86,36 @@ bridge between Han China, Parthian Iran, and Rome, and the incubator of the Budd
 would reshape East Asia. They exemplify CWH IV's thesis that **networks** — not just
 empires — drove world history, and that nomadic peoples repeatedly became the patrons of
 sedentary high culture.
+
+## The Dynastic Line (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Craig Benjamin]] — for whom the Kushans are so
+central that the period "could also be named, with some justification, the 'Kushan Era'" —
+reconstructs the succession largely from coins and the **Rabatak Inscription** (found
+1995, in Bactrian/Greek letters), which lists four generations:
+
+| King | Reign (approx.) | Note |
+|---|---|---|
+| [[kujula-kadphises|Kujula Kadphises]] | c. 25–85 CE | Founder; reunified the five [[yuezhi]] *xihou*; copied [[augustus|Augustus]] on coins |
+| **Vima Takhtu** | c. 85–100 CE | The "Soter Megas," long known only from coins until Rabatak confirmed him |
+| **Vima Kadphises** | c. 100–127 CE | Standardized copper coinage; struck the first Kushan **gold** |
+| [[kanishka|Kanishka I]] | c. 127–153 CE | Apogee; new era; Buddhist patron; Bactrian coin legends |
+| **Huvishka** | c. 152–190 CE | ~40-year reign; ~25 deities on coins; unexplained copper devaluation |
+| **Vasudeva** | c. 191–225 CE | Last "Great Kushan"; trident + Siva ("Oesho") coins |
+
+The Kushans were **"the most mysterious of all the ancient Eurasian empires"** — they left
+no literature, only coin legends and a few inscriptions (Rabatak, **Surkh Kotal**). The
+**Yuezhi** spoke Tocharian but the Kushans adopted **Bactrian** (the "Aryan Language,"
+written in Greek letters) as official — a commercially shrewd choice, since it was close to
+Parthian and Sogdian. Their remarkably **stable gold coinage** underpinned the era's
+commerce. The [[begram|Begram treasure]] (Roman glass, Egyptian bronze, Han lacquer, Indian
+ivory found together) is the densest material proof of their role as the network's
+convergence point. After Vasudeva (d. c. 225 CE) the [[sasanian-empire|Sasanians]] under
+Ardashir and Shapur I destroyed [[begram|Begram]] and [[taxila|Taxila]] (by 262 CE); a
+**230 CE Kushan embassy to the Chinese Wei** seeking an anti-Sasanian alliance was refused
+— a mirror-image of the [[yuezhi|Yuezhi's]] earlier rejection of [[zhang-qian|Zhang Qian]].
+Kushan coin-models influenced Gupta, Yaudheya, Kidarite, and even Hephthalite issues for
+centuries.
 
 ## Historiography
 

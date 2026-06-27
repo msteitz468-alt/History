@@ -9,8 +9,8 @@ affiliated_with: [the Roman state, the imperial army, the Senate]
 opposed_by: [[[parthian-empire|Parthia]] and [[sasanian-empire|Sasanian Persia]], Germanic peoples, [[hunnic-migrations|Huns]]]
 key_events: [Pax Romana, Crisis of the Third Century, Constantine and Christianization, [[fall-of-western-roman-empire|fall of the West 476 CE]]]
 key_processes: [[[empire]], [[silk-roads]], [[christianity|Christianization]], [[slavery]], [[trade-network-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, empire, late-antiquity, mediterranean, western-europe, rome]
 ---
 
@@ -71,3 +71,18 @@ continuity) all contend. CWH IV (Pazdernik, Ch 14) frames Late Antiquity through
 **Constantinople as the witness and heir** to Rome, deliberately decentering the
 catastrophist Western narrative. Debates also concern the scale of the third-century
 crisis, the economic role of [[slavery]], and the social meaning of Christianization.
+
+## Rome as the Demand Engine of the Silk Roads (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Benjamin]] casts Rome as the **western anchor and
+demand engine** of the [[silk-roads|First Silk Roads Era]]: it "generated the greatest
+demand for silk and other luxury imports," which the [[han-dynasty|Han]] met through
+industrial-scale sericulture, with [[parthian-empire|Parthia]] and the
+[[kushan-empire|Kushans]] as intermediaries. The [[augustus|Augustan]] **Pax Romana** was
+the precondition — only with civil war ended could merchants invest in long-distance
+[[indian-ocean-trade|maritime]] and overland trade. Roman elite "**silk mania**" and the
+bullion drain it caused (Pliny's 100-million-sesterce complaint) are detailed under
+[[roman-imperial-trade]]; the **25% customs** on eastern imports may have helped fund the
+legions. The empire's [[crisis-of-the-third-century|third-century crisis]] — which Benjamin
+reads in revisionist terms as serious but not existential — is the western component of the
+[[collapse-of-first-silk-roads-era-250|collapse of the network]].

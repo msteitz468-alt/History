@@ -7,8 +7,8 @@ period_active: [classical-antiquity, early-middle-ages, high-middle-ages]
 controlled_by: [Han dynasty, Tang dynasty, local rulers, Xixia, Yuan]
 events_here: [library-cave-sealing]
 processes_here: [silk-roads, trade-network-formation, buddhism-spread]
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [place, central-asia, china, silk-road, high-middle-ages]
 ---
 
@@ -37,5 +37,18 @@ Han/Tang military presence; later under local, Uighur, Xixia, and Yuan control. 
 - Diamond Sutra and woodblock printing transmission.
 - Garrison economy and silk payments stimulating local activity.
 - Post-755 contraction to subsistence trade.
+
+## A Han Garrison Gateway (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Benjamin]] notes Dunhuang ("Blazing Beacon") as one
+of the four Hexi Corridor garrison towns [[han-wudi|Wudi]] established after the 122–121 BCE
+campaigns (with Wuwei, Zhangye, Jiuquan), ~1,600 km west of [[chang-an|Chang'an]] at the
+**gateway to the Tarim routes** — where the Great Wall was extended and the first Jade Gate
+built (c. 121 BCE). Occupied from ~2000 BCE and once [[yuezhi|Yuezhi]]-controlled, it sat at
+the crossroads of the southern Tarim route and a route running from India via Tibet to
+Mongolia/Siberia. The later Mogao and Yulin caves yielded not only Buddhist and Daoist
+murals but **Manichaean, Jewish, and Christian artifacts** — material proof of the religious
+diversity of [[silk-roads|Silk Roads]] travelers. Source:
+[[benjamin-empires-ancient-eurasia-2018]].
 
 Related: [[silk-roads]], [[central-asia]], [[china]], [[khotan]], [[turfan]].

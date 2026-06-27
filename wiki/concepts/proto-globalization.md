@@ -5,8 +5,8 @@ origin: Sketched by S. N. Eisenstadt and developed by Diego Olstein in the concl
 applies_to_periods: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 applies_to_regions: []
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept]
 ---
 
@@ -97,3 +97,19 @@ disappears.
 - [[early-modern]] — the period in which proto-globalization becomes globalization.
 - [[cultural-crystallization]], [[axial-age]] — the Eisenstadt scheme it sits within.
 - [[divergence-convergence]] — a complementary long-wave framework for connection.
+
+## The First Silk Roads Era as "Ancient Globalization" (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Craig Benjamin]] argues the
+[[silk-roads|First Silk Roads Era]] (c. 100 BCE–250 CE) is "as clear an example of ancient
+globalization as one can find anywhere," applying **Justin Jennings's** test (a surge in
+long-distance connections producing a shared global culture) and John Tomlinson's "complex
+connectivity." Of Jennings's eight trends, Benjamin finds several plainly present:
+**time–space compression**, **standardization** (shared languages, tariffs, the value of
+Roman gold/silver coin), **homogenization** (religions and technologies adopted across
+regions), and — decisively — **vulnerability**: the interdependence that made the
+near-simultaneous third-century imperial collapses cascade into the
+[[collapse-of-first-silk-roads-era-250|disintegration of the network]]. He pairs this with
+[[world-systems-theory]], the [[human-web]], and [[big-history]] as complementary lenses on
+the same connectivity. This pushes the "proto-globalization" idea back **well before** the
+medieval and early-modern horizons this page otherwise centers on.

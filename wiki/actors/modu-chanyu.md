@@ -19,7 +19,7 @@ key_processes:
   - "China-steppe frontier formation"
   - "Pastoral nomadism"
   - "Nomadic state formation"
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, steppe, east-asia]
 ---
@@ -122,3 +122,15 @@ Di Cosmo argues for institutional continuity between the Xiongnu and later Inner
 ---
 
 *Source: Nicola Di Cosmo, Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History (Cambridge University Press, 2002), Chapter 5, pp. 161–205; source page: [[di-cosmo-ancient-china-enemies-2002]]*
+
+## Modu and the Origins of the Silk Roads (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Benjamin]] retells the *Shiji* legend of Modu's
+rise — the **whistling-arrow** drill, the patricide of Touman, the disciplined execution of
+all who hesitated — and dates his reign **209–174 BCE**. Under Modu the [[xiongnu|Xiongnu]]
+reached peak power (Han sources claim 300,000+ archers, probably inflated) and forced the
+[[han-dynasty|Han]] into **[[han-dynasty|heqin]] tribute** of silk, grain, and princesses.
+Decisively for Benjamin's thesis, Modu's raids on the [[yuezhi|Yuezhi]] from 207 BCE
+culminated in their catastrophic defeat **c. 166 BCE** — the king's skull made into a
+drinking cup — driving the Yuezhi migration to [[bactria|Bactria]] that ultimately produced
+the [[kushan-empire|Kushan Empire]] and opened the [[silk-roads|First Silk Roads Era]].

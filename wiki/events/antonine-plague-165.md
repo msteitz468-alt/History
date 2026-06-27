@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [an epidemic disease (probably smallpox) carried west by the army returning from the Parthian War]
 consequences: [vast mortality across the empire, strain on military manpower and the economy, a contributing factor to the crises of Marcus' reign and beyond]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, late-antiquity, mediterranean-world]
 ---
 
@@ -65,3 +65,20 @@ The Antonine Plague is the first securely attested **empire-wide pandemic** in R
   `concurrent_with:` the [[marcomannic-wars-166-180|Marcomannic Wars]] under [[marcus-aurelius]] and [[actors/lucius-verus|Lucius Verus]]
 - Documented by [[actors/galen|Galen]], who fled Rome in AD 166 to escape the disease (Harper 2017, line 1210).
 - Sources: [[bowman-cah-v11-2000]] (Ch. 3) · [[sources/harper-fate-of-rome-2017]]
+
+## Historiography
+
+### A Silk Roads Pandemic? (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Benjamin]] places the Antonine Plague within the
+disease-history of the [[silk-roads|First Silk Roads Era]]. He traces its entry to the
+Roman sack of [[ctesiphon|Ctesiphon]] and Seleucia in **163 CE** during Marcus Aurelius'
+[[parthian-empire|Parthian]] war, after which infected troops carried it home (Galen, at
+Aquileia in 168/169, describes smallpox-like pustules); modern demographers estimate
+7–10% empire-wide mortality, 15% in cities. [CONTROVERSY] Benjamin highlights evidence of
+**parallel epidemics in Later [[han-dynasty|Han]] China (c. 151–185 CE)**, which Rafe de
+Crespigny (using Ge Hong) thinks "most probably connected to the simultaneous outbreak of
+the Antonine Plague at the other end of the Silk Roads" — a striking but unproven claim that
+the trade network spread disease across all of Eurasia, prefiguring the heavier
+[[plague-of-cyprian-250|Plague of Cyprian]] and the
+[[collapse-of-first-silk-roads-era-250|collapse of the era]].

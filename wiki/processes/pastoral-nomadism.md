@@ -8,7 +8,7 @@ region: [steppe, central-asia, eurasian-steppe, china, iran-plateau, eastern-eur
 process_type: political
 driven_by: ["mobile [[pastoralism|pastoral economy]]", "the horse, composite bow, and (later) stirrup", "non-self-sufficiency requiring trade or raiding", "charismatic-military leadership", "the wealth of sedentary neighbors"]
 produces: ["steppe confederations and empires (Scythians, Xiongnu, Türks, [[mongol-empire|Mongols]])", "facilitation & protection of the [[silk-roads|Silk Roads]]", "pressure on and migration into settled empires", "the spread of Turkic languages", "the nomad–sedentary dialectic", "cavalry warfare"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-27
 tags: [process, classical-antiquity, early-middle-ages, steppe, central-asia]
 ---
@@ -345,3 +345,17 @@ an immemorial binary opposition between settled civilization and barbaric nomads
 rather by a complex, permeable zone in which cultural diffusion, economic symbiosis,
 and political interaction preceded and shaped the later sharp dichotomy constructed
 by Han-dynasty historiography (especially Sima Qian's *Shiji*).
+
+## Nomads as Silk Roads Makers (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Benjamin]] insists the nomads were "**facilitators
+and often protectors of trade**," not merely raiders — the carriers who crossed the deserts
+and mountains *between* the agrarian empires of the [[silk-roads|First Silk Roads Era]].
+Pastoralism itself, he notes (after Andrew Sherratt), became viable only with the
+**"secondary products revolution"** (after c. 5000 BCE: wool, milk, traction, mobility from
+living animals), and their **non-self-sufficiency** structurally required trade or raiding
+with sedentary neighbors. Militarization turned on the **composite bow** — which E.G.
+Pulleyblank called the single most important factor in the mid-first-millennium-BCE rise of
+nomadic power. The [[xiongnu]]→[[yuezhi]]→[[kushan-empire|Kushan]] sequence is Benjamin's
+prime case of nomads becoming the patrons of sedentary high culture and the very
+intermediaries who made the [[silk-roads|Silk Roads]] possible.

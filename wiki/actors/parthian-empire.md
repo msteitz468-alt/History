@@ -9,8 +9,8 @@ affiliated_with: [[[zoroastrianism]], the Arsacid dynasty, Hellenistic culture (
 opposed_by: [[[roman-republic|Rome]], the [[seleucid-empire|Seleucids]], [[kushan-empire|Kushans]], steppe nomads]
 key_events: [conquest of Mesopotamia under Mithridates I, Battle of Carrhae 53 BCE]
 key_processes: [[[empire]], [[silk-roads]], [[trade-network-formation]], [[hellenistic-world]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, empire, classical-antiquity, late-antiquity, iran-plateau]
 ---
 
@@ -108,3 +108,34 @@ accounts, coins, and limited indigenous evidence — part of why, as CWH IV note
 ideology of "post-Hellenistic" Iranian kingship. Compare [[empire]] and
 [[sasanian-empire]]. For the third-century origins see [[walbank-cah-v7-1-1984|CAH
 VII.1]] (Musti, ch. 6).
+
+## Parthia as Silk Roads Middleman (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Craig Benjamin]] frames the Arsacid Parthians
+(247 BCE–224 CE, ~471 years) as one of the **four great powers** of the
+[[silk-roads|First Silk Roads Era]] and its indispensable **western-central
+intermediary**. Descended from the Parni (an eastern Indo-Iranian pastoral confederation),
+they inherited the Achaemenid satrapal model in decentralized form (18 provinces plus
+semi-autonomous kingdoms; *azat* nobility supplying cavalry) and practised notable
+**religious tolerance** — sheltering Jews and Christians fleeing Rome (the Babylonian
+Talmud was codified under Parthian rule).
+
+- **First Roman contact**: the **Sulla–Orobazus treaty (96 BCE)** fixed the Euphrates as
+  the boundary of spheres. **[[mithridates-vi|Mithridates II]]** (r. c. 121–91 BCE), "the
+  greatest of all Parthian kings," extended control from the Caspian to the Euphrates and
+  took the Persian Gulf hub of Charax.
+- **Carrhae (53 BCE)**: the [[battle-of-carrhae-53bce|catastrophic Roman defeat]] using
+  the **"Parthian shot,"** establishing Parthian dominance east of the Euphrates; ~10,000
+  Roman prisoners settled at [[merv|Merv]].
+- **First Chinese knowledge**: the *Shiji's* account of **"Anxi"** (from [[zhang-qian|Zhang
+  Qian's]] report) describes a settled state of "several hundred cities" with **silver
+  coinage** reissued at each succession; a Han caravan c. 106 BCE was met by **20,000
+  Parthian cavalry**.
+- **Guarding the monopoly**: Parthia deliberately blocked direct Roman–Chinese contact —
+  in **97 CE** discouraging the Han envoy **Gan Ying** from reaching Rome — to protect its
+  middleman profits. Yet commerce moderated conflict: even Caracalla proposed a
+  trade-based alliance to Vologases IV.
+- **Fall**: weakened by endless Roman wars and internal disunity, Artabanus V (IV) was
+  killed by Ardashir I at **Hormozdgan (28 April 224 CE)**, ending the empire and beginning
+  the [[sasanian-empire|Sasanian]] era — part of the
+  [[collapse-of-first-silk-roads-era-250|collapse of the First Silk Roads Era]].

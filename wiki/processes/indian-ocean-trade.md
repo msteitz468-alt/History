@@ -8,8 +8,8 @@ region: [indian-ocean, south-asia, southeast-asia, near-east, arabian-peninsula,
 process_type: economic
 driven_by: ["the monsoon wind system", "local fishing and sailing communities", "Hindu, Muslim, Buddhist, and Jewish merchant institutions", "South Indian merchant guilds", "the demand of the Chinese and Islamic 'engines'", [[afro-eurasian-world-system]]]
 produces: ["a poly-religious maritime trading world", "the Islamization of coastal Southeast Asia and East Africa", "the Swahili and Gujarati port cities", "cross-cultural transmission of goods, faiths, and ideas"]
-sources_ingested: 6
-last_updated: 2026-06-23
+sources_ingested: 7
+last_updated: 2026-06-27
 tags: [process, early-middle-ages, high-middle-ages, late-middle-ages, early-modern, long-19th-century, contemporary, indian-ocean]
 ---
 
@@ -54,7 +54,7 @@ Extended by Hall’s narrative: the system persisted in recognisable form into t
 [[thapar-history-of-india-v1-1966|Thapar]] documents an earlier **classical peak** (1st c. BCE – 3rd
 c. CE): the **Roman trade**, "the most profitable of the overseas trade," concentrated on **South
 India**. Mediterranean **yavana** merchants kept establishments in the Satavahana and Tamil kingdoms;
-the *[[periplus-maris-erythraei|Periplus Maris Erythraei]]* (c. 1st c. CE) details the ports and
+the *[[periplus-of-the-erythraean-sea|Periplus Maris Erythraei]]* (c. 1st c. CE) details the ports and
 cargoes — **Barygaza/Broach** (the oldest, largest western entrepôt), Barbaricum on the Indus, and
 the Tamil coast — and the **monsoon** sailing (known to Arab sailors before its "discovery" by
 Hippalus) that made mid-ocean voyages feasible. India exported **spices, muslin, gems, ivory, silk
@@ -76,7 +76,7 @@ where muslin was made to Roman specification. The same routes carried the trade 
    (Kilwa, Mombasa) flourishing on gold from Great Zimbabwe and the East African
    interior.
 3. **Integration and the eve of European entry (1300–1500).** Full linkage into the
-   [[afro-eurasian-world-system|world system]]; Ming China's [[zheng-he|Zheng He]]
+   [[afro-eurasian-world-system|world system]]; Ming China's [[zheng-he-voyages|Zheng He]]
    voyages (1405–1433) reaching East Africa; Gujarati and Hadrami networks carrying
    Islam to the Malay world — until the Portuguese rounded Africa (1498) and began to
    militarize the ocean.
@@ -149,3 +149,26 @@ that Braudel saw as essential to early merchant capitalism, fed by a flood of Ne
 - [[dutch-east-india-company]], [[english-east-india-company]] — the chartered companies that militarized the ocean.
 - [[global-silver-trade]] — the bullion flows that integrated the basin into a world economy.
 - [[islam]] — spread along these maritime routes by commercial diaspora.
+
+## The Maritime First Silk Roads Era (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Benjamin]] documents an early, intense phase of
+Indian Ocean trade well before the c. 500 CE intensification this page centers on. Building
+on Sumerian–Indus contacts (from c. 2300 BCE) and Darius I's Red Sea–Nile canal, the
+systematic exploitation of the **monsoon winds** combined with Roman demand to multiply
+maritime trade: under Augustus, Strabo records **120 ships a year** sailing from Myos
+Hormos to India, versus "very few" under the Ptolemies. The defining source is the
+***Periplus of the Erythraean Sea*** (c. 40–50 CE), which already names **"Thina" (China)**
+as the silk source and routes goods via Bactria to [[barygaza|Barygaza]] and via the Ganges
+to South India. The [[muziris|Muziris papyrus]] (cargo worth ~7 million sesterces on the
+*Hermapollon*) shows the staggering value; Roman **25% customs** on Red Sea imports may
+have funded a quarter to a third of the army (Wilson). Routes ran through Roman Egyptian
+ports (Berenike, Myos Hormos), the Arabian Muza, the Persian Gulf (Charax–Apologos–Omana),
+and the northwest/southwest Indian ports ([[barygaza|Barygaza]], [[muziris|Muziris]],
+Arikamedu). Benjamin argues the sea routes were structurally **cheaper, faster, and less
+exposed to state toll-taking** than the overland [[silk-roads|Silk Roads]], operating
+largely independently of Roman–[[parthian-empire|Parthian]] politics. [CONTROVERSY] Sita von
+Redden cautions that aggregate *transregional* value may have been only "a fraction" of
+intra-regional exchange even so. The third-century downturn — no Roman coins at Indian
+sites, the abandonment of Myos Hormos — marks the maritime side of the
+[[collapse-of-first-silk-roads-era-250|collapse of the First Silk Roads Era]].

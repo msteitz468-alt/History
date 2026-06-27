@@ -5,8 +5,8 @@ origin: "David Christian, Macquarie University; first course taught 1989; popula
 applies_to_periods: ["Deep Prehistory", "Early Prehistory", "Late Prehistory", "Behavioral Modernity", "Mesolithic", "Neolithic", "Chalcolithic", "Early Bronze Age", "Middle Bronze Age", "Late Bronze Age", "Bronze Age Collapse", "Early Iron Age", "Archaic Period", "Classical Antiquity", "Late Antiquity", "Early Middle Ages", "High Middle Ages", "Late Middle Ages", "Early Modern", "Age of Expansion", "Long 19th Century", "World Wars Era", "Cold War", "Contemporary"]
 applies_to_regions: [global]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept, historiographical, global]
 ---
 
@@ -76,3 +76,18 @@ history. Big History extends the time frame and the disciplinary scope but
 shares world history's anti-nationalist, anti-Eurocentric orientation.
 `contrasts_with: [[world-history-as-field]]`
 `analogous_to: [[periodization-world-history]]`
+
+## Applied: the Silk Roads as a "Goldilocks" Gear-Shift (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Craig Benjamin]] — co-author with David Christian of
+the standard big-history textbook — uses the framework to interpret the
+[[silk-roads|First Silk Roads Era]]. He reads the Silk Roads as a revolutionary
+**"goldilocks moment"** that magnified **collective learning** (humanity's unique capacity
+to store and exchange information), placing the network among the great gear-shifts —
+alongside the appearance of agriculture and of cities — that "helped facilitate a gear shift
+that led eventually toward modernity." Echoing William McNeill's claim that intercultural
+contact was "the main drive wheel of history," Benjamin treats the era's biological and
+geological context (the [[eurasian-steppe]], horse evolution and domestication, monsoon
+winds) as integral to the historical analysis — a hallmark big-history move. He pairs it
+with [[world-systems-theory]], the [[human-web]], and ancient-[[proto-globalization|
+globalization]] theory.

@@ -9,8 +9,8 @@ affiliated_with: [the Mongolian steppe pastoral confederations]
 opposed_by: [the [[qin-dynasty|Qin]] and [[han-dynasty|Han]] empires, the Yuezhi, the Xianbei]
 key_events: [unification c. 209 BCE, encirclement of the Han emperor 200 BCE, Han offensives under Emperor Wu 141-87 BCE]
 key_processes: [[[pastoral-nomadism]], [[state-formation]], [[silk-roads]]]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, state, classical-antiquity, steppe, east-asia]
 ---
 
@@ -115,3 +115,18 @@ The fragility of this system is equally important: "the unity of the political s
 ### Ethnic Identity: An Unresolved Question
 
 Di Cosmo surveys the long debate on Xiongnu ethnicity and language with unusual candor: "For the time being we cannot go beyond the conclusion that the Hsiung-nu confederation was a mixture of different ethnic and linguistic groups, albeit one whose 'kingly' language . . . is not currently identifiable." The Turkic hypothesis (Deguignes, Pritsak, Eberhard), the Yenisei-Siberian hypothesis (Ligeti, Pulleyblank), the Iranian hypothesis (Bailey), and the agnostic position (Doerfer) all remain in play. The relationship between Xiongnu and European Huns is acknowledged as a shared name without necessarily a shared ethnic ruling elite.
+
+## The Xiongnu as Prime Mover of the Silk Roads (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Benjamin]] places the Xiongnu at the *origin* of
+the [[silk-roads|First Silk Roads Era]]. Archaeology (Noin-Ula; Shang bronzes at Zhukaigou)
+shows a more sedentary, craft-rich society than [[modu-chanyu|Sima Qian]] implies, with
+China-contact from ~1200 BCE. Under [[modu-chanyu|Modu]] (r. 209–174 BCE) they reached
+peak power — Han sources claim **300,000+ mounted archers** (probably inflated) — and
+treated the Han "almost with contempt," extracting **[[han-dynasty|heqin]] tribute** in
+silk, grain, wine, and princesses. Their decisive defeat of the [[yuezhi|Yuezhi]] **c. 166
+BCE** (the Yuezhi king's skull made into a drinking cup) triggered the migration that drew
+[[han-wudi|Wudi]] to seek the [[zhang-qian-mission-138bce|Zhang Qian]] alliance — Benjamin's
+chain-reaction origin for the network. As a steppe barrier the Xiongnu also long blocked
+direct China–west contact, their envoys "escorted from state to state" while distant Han
+envoys had to pay their own way.

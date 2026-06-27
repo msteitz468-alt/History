@@ -9,8 +9,8 @@ affiliated_with: [the oasis city-states of Sogdiana (Samarkand, Bukhara), Zoroas
 opposed_by: []
 key_events: [formation of the Sogdian trade diaspora, transmission of Buddhism and Manichaeism to China, Islamic conquest of Sogdiana 8th c. CE]
 key_processes: [[[silk-roads]], [[trade-network-formation]], religious transmission]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, organization, late-antiquity, central-asia, silk-road]
 ---
 
@@ -57,3 +57,17 @@ The Sogdians are reconstructed from their own trade letters, inscriptions, tomb 
 China, and the records of the cultures they traded with. Their prominence has been
 recovered by recent scholarship (de la Vaissière) as a corrective to empire-centered Silk
 Roads narratives, complementing the [[silk-roads]] and [[trade-network-formation]] pages.
+
+## A Secondary Role in the First Silk Roads Era (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Benjamin]] (following de la Vaissière) stresses
+that the Sogdians' dominance came **later**: during the [[silk-roads|First Silk Roads Era]]
+they played only a **secondary role**, probably the same people [[zhang-qian|Zhang Qian]]
+observed in **Dayuan (Ferghana) and Kangju**, whom the *Shiji* calls skillful at commerce,
+haggling "over a fraction of a cent." Kushan coin finds are scarce in Sogdiana, so the
+[[kushan-empire|Kushans]] likely never annexed it, though relations were cordial — and de
+la Vaissière speculates Sogdian merchants migrated *into* the wealthier Kushan cities. It
+was the **collapse of the Kushans** that opened the Sogdians' opportunity: they emerged as
+the dominant overland intermediaries between Tang China and the
+[[sasanian-empire|Sasanians]], the quintessential carriers of the **Second** Silk Roads Era
+(see [[collapse-of-first-silk-roads-era-250]]).

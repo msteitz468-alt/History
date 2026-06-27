@@ -8,8 +8,8 @@ region: [china, central-asia, steppe, iran-plateau, mesopotamia, mediterranean, 
 process_type: economic
 driven_by: ["[[trade-network-formation|exchange demand]]", "[[empire|imperial]] peace and infrastructure", "[[pastoral-nomadism|nomadic]] carriers and protectors", "elite demand for silk and prestige goods", "oasis city-states", "the Pax Mongolica"]
 produces: ["Afro-Eurasian integration", "the spread of [[buddhism|Buddhism]], Christianity, Manichaeism, [[islam|Islam]]", "transmission of technology and disease", "cosmopolitan oasis cities", "[[afro-eurasian-world-system|the medieval world system]]", "[[divergence-convergence|convergence]]"]
-sources_ingested: 4
-last_updated: 2026-06-13
+sources_ingested: 5
+last_updated: 2026-06-27
 tags: [process, silk-road, classical-antiquity, early-middle-ages, central-asia]
 ---
 
@@ -54,7 +54,42 @@ along the same routes. The contemporary maritime counterpart is documented in th
 the Later [[han-dynasty|Han]] collapse (220), the fall of the
 [[kushan-empire|Kushans]] and [[parthian-empire|Parthians]] (to the
 [[sasanian-empire|Sasanians]], 224), and Rome's third-century crisis — thinned the
-overland network for several centuries.
+overland network for several centuries. See the dedicated transition page
+[[collapse-of-first-silk-roads-era-250]].
+
+### Benjamin (2018): mechanism, intermediaries, and "ancient globalization"
+
+[[benjamin-empires-ancient-eurasia-2018|Craig Benjamin's]] specialist synthesis sharpens
+this picture in several ways:
+
+- **The opening as a chain reaction.** Benjamin's central causal claim runs
+  [[xiongnu]] → [[yuezhi]] → [[zhang-qian|Zhang Qian]]: the Xiongnu defeat of the Yuezhi
+  (c. 166 BCE) drove them to [[bactria|Bactria]], which prompted [[han-wudi|Wudi]] to send
+  [[zhang-qian-mission-138bce|Zhang Qian]] to seek them as allies — "essentially
+  establish[ing] the first Silk Roads exchange network." Counterfactually, had the Yuezhi
+  accepted, "there would have been no Kushan Empire."
+- **Silk moved first as tribute, not commerce.** [CONTROVERSY] Against the romantic image
+  of Chinese merchant caravans, Benjamin (following Rezakhani and de la Vaissière) argues
+  silk entered the network primarily through Han **[[han-dynasty|heqin]] diplomatic
+  tribute** to the Xiongnu — huge quantities (e.g. 30,000 bales in 1 BCE) — later monetized
+  by envoys and Central Asian elites; a real commercial circuit grew "at the margins of the
+  official diplomatic circuit."
+- **No one traversed the whole route.** It was a **relay**: Chinese envoys stopped near
+  [[kashgar|Kashgar]]; Mediterranean merchants handed goods to Parthian, Sogdian, Kushan,
+  or South Asian middlemen at [[merv|Merv]] or [[bactria|Bactra]]. The
+  [[kushan-empire|Kushans]] held the central crossroads — "if there had been no Kushan
+  Empire, perhaps there would have been no Silk Roads."
+- **Infrastructure.** Bactrian camels (≈450 kg loads, ~47 km/day, 6–7 silk bales each),
+  caravanserais, and Persian-origin *karez/qanat* irrigation made the oasis chain viable;
+  Soviet survey found ~2 million hectares irrigated in the Amu/Syr Darya deltas (4th c.
+  BCE–2nd c. CE).
+- **Sericulture and Roman misunderstanding.** The fully domesticated *Bombyx mori* yields a
+  ~1-mile filament (≈2,500 worms per pound of silk); silk in China served as clothing,
+  **currency**, tax, and tribute. Romans thought it grew on trees (Seneca, Virgil); Pliny
+  came closest.
+- **Framing.** Benjamin reads the era through [[big-history]], [[world-systems-theory]],
+  the [[human-web]], and [[proto-globalization|ancient globalization]] — and its end as the
+  "vulnerability" of an over-connected system.
 
 ## The Second Silk Roads Era (c. 7th – 10th c. CE)
 

@@ -6,10 +6,10 @@ coordinates: [34.0 N, 71.5 E (Peshawar/Puskalavati)]
 period_active: [Archaic Period, Classical Antiquity]
 controlled_by: [[[achaemenid-empire|the Achaemenid Persian empire]], local Indian rulers, later [[alexander-the-great|Alexander]], the [[mauryan-empire|Mauryas]], Indo-Greeks]
 events_here: [the voyage of [[scylax-of-caryanda|Scylax]] down the Indus (c. 517 BCE), Darius I's organization of the Hindus satrapy (c. 515 BCE), the contribution of Gandaran and Indian contingents to Xerxes' invasion of Greece (480)]
-processes_here: [[[empire]], Achaemenid tribute extraction, early Indian coinage (bent-bar and punch-marked currencies)]
-sources_ingested: 1
-last_updated: 2026-06-11
-tags: [place, south-asia, archaic-period]
+processes_here: [[[empire]], Achaemenid tribute extraction, early Indian coinage (bent-bar and punch-marked currencies), [[spread-of-buddhism|Greco-Buddhist art]]]
+sources_ingested: 2
+last_updated: 2026-06-27
+tags: [place, south-asia, archaic-period, late-antiquity]
 ---
 
 # Gandhara and the Achaemenid Indus Satrapies
@@ -94,3 +94,19 @@ disputed dates of the [[buddha|Buddha]].
 - Indian states: [[magadha]] · later: [[mauryan-empire]] · [[alexander-the-great]] (crossed the Indus 326)
 - Currency: [[coinage]] · steppe frontier: [[scythians]] (the Saka) · Period: [[archaic-period]]
 - Source: [[boardman-cah-v4-1988]] (Ch. 3d, Bivar)
+
+## Gandharan Art and the Buddha Image (Benjamin 2018)
+
+Under the [[kushan-empire|Kushans]] (1st–3rd c. CE) Gandhara became one of the two great
+centers — with Mathura — of a new Buddhist sculpture that, in
+[[benjamin-empires-ancient-eurasia-2018|Benjamin's]] account, transformed Buddhism into a
+world religion. Working in hard **gray schist**, Gandharan sculptors fused Hellenistic
+naturalism (Apollo statues, Roman imperial portraits like [[augustus|Augustus]]) with
+Buddhist subjects to create the **first anthropomorphic images of the Buddha** — before
+this the Buddha had been shown only by symbols (footprints, umbrella). The new iconography
+spread along the [[silk-roads|Silk Roads]] as far as Sri Lanka, Korea, and Japan (see
+[[spread-of-buddhism]]). The style is so distinctive that Aurel Stein could trace Buddhism's
+diffusion archaeologically — recognizing Gandharan drapery in Buddha sculptures at **Miran**
+near Lop Nor. Gandharan stair-riser reliefs (Kushan aristocrats, musicians, dancers in a
+mix of Indian, Romano-Hellenistic, and steppe-nomadic dress) are a vivid record of Silk
+Roads cultural synthesis. Source: [[benjamin-empires-ancient-eurasia-2018]].

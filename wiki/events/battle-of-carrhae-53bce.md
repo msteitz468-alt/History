@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [Crassus' craving for military glory to match Pompey and Caesar, the unprovoked Roman invasion of Parthia, Crassus' strategic errors]
 consequences: [the annihilation of Crassus' army and his death, the dissolution of the First Triumvirate, a lasting Roman trauma and Parthian frontier, the road to civil war]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, classical-antiquity, near-east, battle]
 ---
 
@@ -74,3 +74,18 @@ the greed that destroyed the Republic.
 - Context: [[pompeian-eastern-settlement-63bce|Pompey's eastern settlement]] left the
   Euphrates frontier unsettled
 - Source: [[crook-cah-v9-1992]] (Ch. 10, Wiseman)
+
+## The Parthian Shot and the Silk Roads Frontier (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Benjamin]] reads Carrhae through the lens of the
+[[silk-roads|Silk Roads]] frontier. The decisive tactic was the **"Parthian shot"** —
+horse-archers feigning retreat at full gallop, then twisting to fire backward with deadly
+accuracy, controlling their mounts by knee-pressure alone — a technique inherited from the
+[[pastoral-nomadism|nomadic]] steppe tradition the [[parthian-empire|Parthians]] sprang
+from. The defeat made "all the lands east of the Euphrates... unequivocally Parthian,"
+fixing the river as the contested boundary between Rome and Parthia for centuries. About
+**10,000 Roman prisoners** were resettled at [[merv|Merv]], married local women, and were
+partly pressed into Parthian service — some returned to Rome 30+ years later under a deal
+with [[augustus|Augustus]] (who also recovered the captured legionary standards as a
+diplomatic triumph). The battle also delayed [[julius-caesar|Caesar's]] planned Parthian campaign,
+aborted by his assassination in 44 BCE.

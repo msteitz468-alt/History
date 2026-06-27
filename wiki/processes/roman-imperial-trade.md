@@ -8,8 +8,8 @@ region: [mediterranean-world, transregional, indian-ocean]
 process_type: economic
 driven_by: [the demand of the great cities and the frontier armies, the navigability of the Mediterranean, price elasticity and transport economics]
 produces: [long- and medium-distance exchange in staples and luxuries, the wealth of merchant freedmen, the eastern luxury trade]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [process, late-antiquity, mediterranean-world, rome]
 ---
 
@@ -98,3 +98,19 @@ elite.
 - The great export economies: [[hispania-roman|Baetican oil]], [[roman-africa|African oil and
   grain]], [[roman-syria|Palmyrene caravan trade]]; supplied the [[roman-imperial-army|army]]
 - Source: [[bowman-cah-v11-2000]] (Ch. 24, William V. Harris)
+
+## The Eastern Luxury Trade and "Silk Mania" (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Benjamin]] details the demand side of the
+[[silk-roads|First Silk Roads Era]]. A "veritable mania for silk" gripped Julio-Claudian
+Rome; the poets (Tibullus, Propertius, Ovid) tied it to sensuality, and conservatives
+linked it to female promiscuity and **economic independence** — the Senate under Tiberius
+even **forbade men to wear silk** (Cassius Dio), a ban Caligula flouted. **Pliny the Elder**
+(65 CE) claimed India, the Seres (China), and Arabia drained Rome of **100 million sesterces
+a year** — a figure the [[muziris|Muziris papyrus]] suggests was not exaggerated (one cargo
+= 7% of it; Sidebotham extrapolates South Asian imports alone at ~17.64 billion sesterces).
+Diocletian's price edict fixed a pound of silk at **12,000 denarii — the price of a pound of
+gold wire**. Romans misunderstood silk's origin (Seneca and Virgil thought it grew on
+trees) and first knew it as Coan cloth (*Coa Vestis*). Crucially, Benjamin notes the
+**25% customs duty** on these imports may have helped pay the legions — making the
+[[indian-ocean-trade|eastern trade]] a pillar of imperial finance, not just elite vanity.

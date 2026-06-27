@@ -9,8 +9,8 @@ affiliated_with: [the Han dynasty, the imperial-Confucian state]
 opposed_by: [the Xiongnu, Southern Yue, Chaoxian (Korea), the great merchants]
 key_events: ["the long Xiongnu wars (from 133 BCE)", "Zhang Qian's missions & the opening of the Silk Road", "the salt & iron monopolies", "the conquests of Southern Yue, Chaoxian & the southwest"]
 key_processes: [the expansion of the Han empire, the Silk Road, the consolidation of the imperial-Confucian state]
-sources_ingested: 2
-last_updated: 2026-06-13
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, china, east-asia]
 ---
 
@@ -122,3 +122,18 @@ Chang Ch'ien's first mission to Central Asia (sent 139/138 BCE, though dating is
 - [[han-state-economy]] — the state monopolies that funded his wars; [[qin-shi-huang]] — the emperor whose excesses Sima Qian saw in Wu.
 - [[confucianism]] — the creed he made orthodox; [[china]] — the empire he expanded.
 - [[di-cosmo-ancient-china-enemies-2002]] — source for the Di Cosmo sections above.
+
+## Wudi and the Opening of the Silk Roads (Benjamin 2018)
+
+For [[benjamin-empires-ancient-eurasia-2018|Benjamin]], Wudi's reign is the **hinge** of
+the [[silk-roads|First Silk Roads Era]]: "it was by seeking an alliance with the
+[[yuezhi|Yuezhi]] against the [[xiongnu]] that China essentially established the first Silk
+Roads exchange network." Inheriting 450,000 cavalry horses bred under Jingdi, he abandoned
+defensive [[han-dynasty|heqin]] tribute, dispatched [[zhang-qian-mission-138bce|Zhang
+Qian]] (139 BCE), and then sent envoys west so thickly that "the envoys were in sight of
+each other on the roads." His obsession with Ferghana's **"heavenly horses"** — linked to
+an *I Ching* prophecy — drove the campaigns of **104 and 102 BCE**. Benjamin also frames
+Wudi's formal adoption of **[[confucianism|Confucianism]]** as state orthodoxy (with the
+imperial academy at [[chang-an|Chang'an]] and Dong Zhongshu's heaven-emperor cosmology) as
+the ideological complement to his westward expansion, funded by the salt, iron, and liquor
+monopolies.

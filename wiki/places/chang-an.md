@@ -7,8 +7,8 @@ period_active: [classical-antiquity, early-middle-ages, high-middle-ages]
 controlled_by: [Han dynasty, Tang dynasty]
 events_here: []
 processes_here: [silk-roads, trade-network-formation]
-sources_ingested: 2
-last_updated: 2026-06-22
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [place, china, silk-road, high-middle-ages]
 ---
 
@@ -42,5 +42,18 @@ until it was sacked and the restored Eastern Han moved east to **[[luoyang|Luoya
 (echoing the [[zhou-dynasty|Zhou]] move of the eighth century BCE). [[major-cook-ancient-china-2017|
 Major & Cook (2017)]]; for the great preserved Western Han household near the southern capital
 region, see [[mawangdui|Mawangdui]]. **Source:** [[major-cook-ancient-china-2017]].
+
+## The Eastern Terminus of the First Silk Roads (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Benjamin]] makes Chang'an ("Perpetual Peace"),
+founded by Liu Bang in the Wei River Valley in 206/202 BCE, the **eastern terminus** of the
+First Silk Roads Era: its **Nine Markets** were where the routes began, and missions
+departed via the Northwest Gate west through the Hexi Corridor toward
+[[dunhuang|Dunhuang]] (~1,600 km). It grew from 146,000 people (195 BCE) to **246,200 in
+80,000 households** (2 CE), behind ~26 km of walls with twelve gates. It also housed
+[[han-wudi|Wudi's]] imperial **Confucian academy**, and centuries later
+[[spread-of-buddhism|Kumarajiva's]] great Buddhist translation school. Ming administrators
+renamed it **Xi'an** ("Western Peace") in the 14th century. Source:
+[[benjamin-empires-ancient-eurasia-2018]].
 
 Related: [[silk-roads]], [[central-asia]], [[dunhuang]], [[turfan]], [[samarkand]], [[luoyang]].

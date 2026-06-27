@@ -7,8 +7,8 @@ period_active: [Early Bronze Age, Late Bronze Age, Archaic Period, Classical Ant
 controlled_by: [Oxus Civilization/BMAC, [[achaemenid-empire|Achaemenids]], [[alexander-the-great|Alexander]]/Seleucids, [[greco-bactrian-kingdom|Greco-Bactrians]], [[kushan-empire|Kushans]], [[sasanian-empire|Sasanians]], Hephthalites, Türks, Arabs]
 events_here: [Alexander's conquest and marriage to Roxana, secession of the Greco-Bactrian kingdom c. 250 BCE]
 processes_here: [[[trade-network-formation]], [[silk-roads]], [[seleucid-colonization|Hellenization]], [[pastoral-nomadism|nomad migration]]]
-sources_ingested: 3
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [place, central-asia, classical-antiquity]
 ---
 
@@ -119,3 +119,17 @@ representational art and inscriptions are so scarce that no definite religion
 (Zoroastrianism included) or priestly caste can be demonstrated for the period.
 
 - Source (Achaemenid section): [[boardman-cah-v4-1988]] (Ch. 3c, Francfort)
+
+## The Yuezhi–Kushan Heartland (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Benjamin]] makes Bactria the literal "crossroads of
+ancient Eurasia" and the **pivot of the [[silk-roads|First Silk Roads Era]]**. When
+[[zhang-qian|Zhang Qian]] reached it (c. 128 BCE) it held >1,000,000 people and a great
+market at Bactra already selling SW-Chinese goods that had arrived via a pre-existing "Great
+Indian Road" through Burma and the Ganges — proof of China–Central Asia commerce *before*
+the formal Silk Roads. The [[yuezhi|Yuezhi]] settled north of the Oxus c. 130 BCE and took
+Greco-Bactria; their descendants the [[kushan-empire|Kushans]] made it their core, adopting
+the local **Bactrian** language (in Greek letters) as official. Early Kushan coins copied
+Greco-Bactrian tetradrachms (Eucratides, Euthydemus, Heliocles, Hermaeus); fortified Yuezhi
+sites (Kampyr Tepe, Khalchayan) document their takeover. Source:
+[[benjamin-empires-ancient-eurasia-2018]].

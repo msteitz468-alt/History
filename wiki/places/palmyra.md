@@ -6,9 +6,9 @@ coordinates: [34.55 N, 38.27 E]
 period_active: [Late Antiquity, Classical Antiquity]
 controlled_by: [[[roman-empire]], [[zenobia]]]
 events_here: []
-processes_here: [[[roman-imperial-trade]], [[third-century-crisis]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+processes_here: [[[roman-imperial-trade]], [[crisis-of-the-third-century]], [[silk-roads]]]
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [place, near-east, levant, late-antiquity]
 ---
 
@@ -53,3 +53,21 @@ most spectacular of the Roman East.
   of Valerian]]
 - The "arabized" caravan city in its desert context: [[arab-desert-peoples]] (CAH XII Ch. 16, Sartre)
 - Sources: [[bowman-cah-v12-2005]] (Ch. 2, John Drinkwater; Ch. 16, Maurice Sartre)
+
+## Palmyra as a Silk Roads Caravan City (Benjamin 2018)
+
+[[benjamin-empires-ancient-eurasia-2018|Benjamin]] treats Palmyra as the clearest western
+example of a **caravan city** on the [[silk-roads|Silk Roads]]. Independent under the
+Seleucids and early Rome, it traded with both Rome and [[parthian-empire|Parthia]] before
+incorporation under Tiberius and "free city" status under Hadrian (129 CE). Epigraphy
+records organized caravans with "chief merchants" and "caravan leaders"; the city's
+agora was effectively a giant caravanserai (71 × 84 m, eleven entrances), and merchants
+were honored with statues along the 1.1-km Great Colonnade. Strikingly, ~500 textile
+fragments — including ~100 of **Han-era Chinese silk** — were found in Palmyrene tombs,
+making it (per Żuchowska) one of the few sites with enough Chinese silk to study as
+**intentionally imported merchandise** rather than curiosa; Western dyes (cochineal,
+kermes) on some pieces show raw silk was finished locally. Palmyrenes ran both overland
+caravans to Charax and at least one maritime venture toward the Indus (Barbaricum). The
+city's decline in the mid-third century — amid Roman–[[sasanian-empire|Sasanian]] war and
+the [[crisis-of-the-third-century|third-century crisis]] — exemplifies how that conflict
+strangled the western land routes.

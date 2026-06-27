@@ -9,8 +9,8 @@ affiliated_with: [[[zoroastrianism]], the Sasanian dynasty, Iranshahr]
 opposed_by: [[[roman-empire|Rome]]/[[byzantine-empire|Byzantium]], the [[white-huns|Hephthalites]], the [[gokturk|Türks]], the Arab-Muslim armies]
 key_events: [Shapur I's capture of Valerian, wars with Byzantium, Khusro II's invasion 602-628 CE, Battle of Qadisiyya 637 CE]
 key_processes: [[[empire]], [[universal-religions]], [[silk-roads]]]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, empire, late-antiquity, early-middle-ages, iran-plateau]
 ---
 
@@ -85,3 +85,20 @@ A contemporary witness to the Roman–Persian frontier is now ingested as the
 **[[watt-pseudo-joshua-stylite|Chronicle of Pseudo-Joshua the Stylite]]**, the best source for the
 **[[anastasian-war-502-506|Anastasian War (502–506)]]** between Kavadh I and Anastasius — the opening
 round of the sixth-century wars.
+
+## The Sasanians and the End of the First Silk Roads Era (Benjamin 2018)
+
+In [[benjamin-empires-ancient-eurasia-2018|Benjamin's]] account the Sasanians were *born*
+from the unwinding of the [[silk-roads|First Silk Roads Era]] and then helped finish it.
+Ardashir I defeated and killed the Parthian Artabanus V at **Hormozdgan (28 April 224 CE)**
+and was crowned **Shahanshah at [[ctesiphon|Ctesiphon]]**. His son **Shapur I** (r. 241–272)
+pressed Rome hard and took Bactria from the [[kushan-empire|Kushans]]; by **262 CE**
+Sasanian forces had destroyed the Kushan royal cities at [[begram|Begram]] and
+[[taxila|Taxila]], incorporating the northwest as the province of **Kushanshahr** — a key
+strand of the [[collapse-of-first-silk-roads-era-250|collapse of the network]]. The
+Sasanians promoted **[[zoroastrianism]]** as a unifying state cult (fire temples in
+conquered territory), but Benjamin's larger point is that — like the Kushans and Achaemenids
+before them — they functioned as a **spatial bridge between China and the West and a
+chronological bridge** from late antiquity to Islam; Sasanian coins and silk (Simurgh
+motifs) circulated across the Indian Ocean and into Tang China, and Persian models of rule
+persisted across a millennium.
