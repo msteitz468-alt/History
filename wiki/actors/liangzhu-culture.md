@@ -9,8 +9,8 @@ affiliated_with: [[[longshan-culture]], [[dawenkou-culture]]]
 opposed_by: []
 key_events: [unknown]
 key_processes: [[[early-china-state-formation]], [[settlement-archaeology]]]
-sources_ingested: 1
-last_updated: 2026-06-26
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, movement, neolithic, chalcolithic, china, east-asia]
 ---
 
@@ -45,10 +45,23 @@ character of Chinese Neolithic complexity (see
 alternative, jade-and-elite trajectory distinct from the Central Plains'
 public-architecture path.
 
+## The Liangzhu Complex and its Collapse (Barnes 2015)
+
+[[barnes-archaeology-east-asia-2015|Barnes]] details Liangzhu (from ~3300 BC, out of Songze) as a
+"southern powerhouse" stratified into aristocrats and commoners **from its founding**. Its middle phase
+(3000–2600 BC) produced an urban-like complex around **Mojiaoshan**, an artificial earthen terrace 10 m
+high and 30 ha in area, with the **Fanshan** platform cemetery (11 elite tombs, **1,100 jades**) 150 m
+away; jades were standardised into sets of **bi disks, cong tubes and yue axes**, the full set reserved
+for the highest rank (and withheld even from elites outside the core — a limit on access). A late-phase
+mounded wall enclosed 290 ha plus flood-control earthworks. Barnes reads the **epi-Liangzhu** (2400–2200
+BC) spectacular burials as a last florescence before collapse, which she attributes to "loss of
+ideological control" over the jade system **plus the 4.2 kya climate event** — flood-sands over the
+Maoshan paddy fields are direct evidence. **Source:** [[barnes-archaeology-east-asia-2015]].
+
 ## Related
 
 - Contrast: [[dawenkou-culture]] · [[longshan-culture]]
-- Concept: [[settlement-archaeology]] · [[quxi-leixing]]
+- Concept: [[settlement-archaeology]] · [[quxi-leixing]] · [[jade-age]] · [[east-asian-bronze-metallurgy]]
 - Controversy: [[origins-chinese-civilization-monocentric-vs-multiregional]]
 - Process: [[early-china-state-formation]]
-- Source: [[liu-chinese-neolithic-2004]]
+- Source: [[liu-chinese-neolithic-2004]] · [[barnes-archaeology-east-asia-2015]]

@@ -7,8 +7,8 @@ period_active: [Late Bronze Age]
 controlled_by: [an independent Bronze Age culture of the Sichuan Basin (the "Shu" tradition)]
 events_here: []
 processes_here: []
-sources_ingested: 1
-last_updated: 2026-06-26
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [place, china, east-asia, late-bronze-age]
 ---
 
@@ -54,9 +54,20 @@ not derived from the Shang — exactly the plural, interacting picture the
 reshaped the study of Chinese Bronze Age religion and forced the [[zhou-dynasty|Zhou]]-centric
 "single uniform Shang–Zhou China" model to be abandoned.
 
+## Barnes (2015)
+
+[[barnes-archaeology-east-asia-2015|Barnes]] reinforces the anti-monocentric reading: Sanxingdui
+(1750–1000 BC) grew out of the local Late Neolithic, acquired a 3.5-km² walled site, and its ritual pits
+yielded **913 broken and burned bronzes, 80 ivory tusks, 60+ gold and 600+ jade objects**, with forms —
+half-metre heads, ~2.5-m statues, ~4-m bronze trees — "completely unlike Shang-tradition bronzes" and
+emphasising the **human form** rarely seen in the Shang sphere. She links its style partly to
+Epi-Shijiahe jade heads and to routes from eastern Central Asia, concluding the southwestern tradition
+"is not derived from Shang"; the Shu and Ba peoples remained independent until Qin annexed them in 316
+BC. See [[east-asian-bronze-metallurgy]]. **Source:** [[barnes-archaeology-east-asia-2015]].
+
 ## Related
 
-- Source: [[major-cook-ancient-china-2017]]
-- Concept: [[east-asian-heartland-region]] · [[jade-age]]
+- Source: [[major-cook-ancient-china-2017]] · [[barnes-archaeology-east-asia-2015]]
+- Concept: [[east-asian-heartland-region]] · [[jade-age]] · [[east-asian-bronze-metallurgy]]
 - Actor/period: [[shang-dynasty]] · [[qin-dynasty]] · [[longshan-culture]]
 - Place: [[china]] · [[central-plains-china]]

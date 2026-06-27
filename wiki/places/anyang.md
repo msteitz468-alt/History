@@ -7,8 +7,8 @@ period_active: [Late Bronze Age]
 controlled_by: [Shang dynasty]
 events_here: []
 processes_here: [[[urbanization]], [[writing-and-record-keeping]]]
-sources_ingested: 3
-last_updated: 2026-06-26
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [place, china, east-asia, late-bronze-age]
 ---
 
@@ -103,3 +103,13 @@ history. Across the royal tombs, **2,000+ sacrificial pits** attest human sacrif
 with captives often raided from the **Qiang** frontier people. The site is the type-locus of
 [[oracle-bone-divination|oracle-bone divination]] and the **1899 "dragon bones"** discovery that
 authenticated the dynasty. **Source:** [[major-cook-ancient-china-2017]].
+
+## Yinxu in the capital sequence (Barnes 2015)
+
+[[barnes-archaeology-east-asia-2015|Barnes]] places Yinxu as the last of the peripatetic Shang capitals
+(**Yanshi → Zhengzhou → Huanbei → Yinxu**), the **unwalled** 25-km² city called the "Great Settlement
+Shang" in the oracle bones and "Yin" by the Zhou. She details the **Xiaotun** palace-temple axis and the
+**Xibeigang** royal cemetery, where the **number of ramps** (the cruciform four-ramp form highest)
+encoded rank, alongside ~2,500 sacrificial burials in rows. She credits King **Wu Ding** with beginning
+the practice of **inscribing** the oracle bones, and notes the "dragon bone" medicinal trade that, as at
+[[zhoukoudian]], led investigators to the site. **Source:** [[barnes-archaeology-east-asia-2015]].

@@ -9,8 +9,8 @@ affiliated_with: [the Yamato court, Paekche (ally)]
 opposed_by: [the Tang-Silla alliance (defeated at the Paekchon River 663 CE)]
 key_events: [Yayoi-to-Kofun transition, introduction of Buddhism 538/552 CE, the [[taika-reform-645|Taika Reform (645)]], Battle of the Paekchon River 663 CE, building of Nara 710 CE]
 key_processes: [[[state-formation]], [[japanese-buddhism]], [[shinto]], [[east-asian-cultural-sphere|adoption of Chinese statecraft]]]
-sources_ingested: 4
-last_updated: 2026-06-13
+sources_ingested: 5
+last_updated: 2026-06-27
 tags: [actor, state, late-antiquity, early-middle-ages, japan, east-asia]
 ---
 
@@ -105,8 +105,28 @@ mentioning a Japanese incursion of 391) are firmly attested. This continental tr
 the channel through which iron, [[japanese-buddhism|Buddhism]], writing, and statecraft
 reached Japan.
 
+## Yamato as a secondary state (Barnes)
+
+[[barnes-archaeology-east-asia-2015|Barnes (2015)]] situates Yamato within
+[[pen-insular-state-formation|Pen/Insular state formation]] as a **secondary state** that arose through
+contact with already-operating Mainland dynasties, and dates its emergence by archaeology rather than
+chronicle: the debut of monumental tomb-building (the [[kofun-culture|Kofun Mounded Tomb Culture]]) at
+**Hashihaka ~270–280**, keyed to the death of **Himiko** (defining the Kofun start at 250). She
+emphasises that the Yamatai polity is now placed in the **Nara Basin** (not North Kyushu) and that the
+keyhole-tomb culture spread "without coercion" — the 527 **Iwai Rebellion** being the lone attested
+military episode. Barnes likewise **rejects** the old "horse-rider conquest" theory of Yamato's origins,
+reading the continental traffic as migration, prestige-good exchange and refugee craft production within
+the [[yellow-sea-interaction-sphere|Yellow Sea sphere]]. She frames the 7th-century **"Century of
+Reform"** (Shotoku's 604 articles, the 645 Taika Reforms, the Tang-derived **Ritsuryo** law and *jori*
+field system) as completing the rise of "East Asian Civilization," when the name **Nihon/Nippon** and
+title **Tenno** superseded Wa and Yamato. On Mimana she agrees the Yamato objects in [[kaya|Kaya]] tombs
+reflect **trade, not a colony**. **Source:** [[barnes-archaeology-east-asia-2015]].
+
 ## Related
 
+- [[kofun-culture]] — the Mounded Tomb Culture analysed in depth; [[yayoi-culture]] — its precursor.
+- [[pen-insular-state-formation]] · [[yellow-sea-interaction-sphere]] · [[pen-insular]] — Barnes's frames.
+- [[paekche]] · [[kaya]] · [[silla]] · [[koguryo]] — the Korean polities in Yamato's orbit.
 - [[taika-reform-645]] — the reform that transformed the Yamato confederation.
 - [[nara-period]] · [[heian-period]] — the imperial state that emerged.
 - [[shotoku-taishi]] · [[fujiwara-clan]] — the key actors of the transition and after.

@@ -24,8 +24,8 @@ reliability_notes: >
   "Pen/Insular" pairing (Peninsular Korea + Insular Japan as one developmental field) and
   the "Yellow Sea Interaction Sphere" — are interpretive frameworks, not consensus terms,
   and should be attributed to her.
-pages_created: 0
-pages_updated: 0
+pages_created: 19
+pages_updated: 8
 ingested: 2026-06-27
 tags: [source]
 ---
@@ -61,10 +61,52 @@ the region.
 apparatus and are mined only where they supply concrete data — scientific dating,
 domestication, metallurgical and Liangzhu burial tables.)
 
-## Claims and Pages
+## Pages Created and Updated
 
-(To be completed after the claim-extraction pass.)
+**Created (19):**
+- Concepts: [[yellow-sea-interaction-sphere]] · [[pen-insular]]
+- Processes: [[peopling-of-east-asia]] · [[rice-agriculture-spread-east-asia]] · [[pen-insular-state-formation]] · [[east-asian-bronze-metallurgy]]
+- Place: [[zhoukoudian]]
+- Korea: [[chulmun-culture]] · [[mumun-culture]] · [[samhan]] · [[puyo]] · [[lelang-commandery]] · [[koguryo]] · [[paekche]] · [[silla]] · [[kaya]]
+- Japan: [[jomon-culture]] · [[yayoi-culture]] · [[kofun-culture]]
+
+**Updated (8):** [[yamato-japan]] · [[korea-three-kingdoms]] · [[early-china-state-formation]] · [[shang-dynasty]] · [[erlitou-culture]] · [[liangzhu-culture]] · [[sanxingdui]] · [[anyang]]
 
 ## Volume Synthesis Note
 
-(To be completed after all sections are filed.)
+Barnes's *Archaeology of East Asia* is the single most valuable acquisition for the wiki's two
+weakest East Asian areas — **Korean and Japanese prehistory and protohistory** — precisely because it
+is the only English synthesis that refuses to treat China, Korea and Japan as separate national
+sequences. Its governing argument is encoded in two coinages now built into the wiki as concept pages:
+the [[yellow-sea-interaction-sphere|Yellow Sea Interaction Sphere]] (the basin as one connected field
+of trade, tribute and emulation) and [[pen-insular|"Pen/Insular"]] (Korea + Japan as a single
+developmental zone). From these flow the book's master claim — a **~2,000-year lag** in which Mainland
+states ([[erlitou-culture|Erlitou]], [[shang-dynasty|Shang]]) form by the mid-2nd millennium BC while
+the Pen/Insulae become [[pen-insular-state-formation|secondary states]] only after Mainland successor
+states collapse in the 3rd century AD.
+
+What the volume **adds** to the wiki beyond prior China-centric sources: full coverage of the
+[[chulmun-culture|Chulmun]]/[[jomon-culture|Jomon]] foraging worlds and Barnes's insistence that the
+Pen/Insulae produced **no indigenous chiefdoms** while Mainland feasting- and shaman-based ranking did;
+the transmission mechanics of [[rice-agriculture-spread-east-asia|rice]] and
+[[east-asian-bronze-metallurgy|metal]] across the strait; the [[mumun-culture|Mumun]]→
+[[yayoi-culture|Yayoi]] "package" and "bilateral acculturation"; the [[lelang-commandery|Lelang]]
+commandery as the hinge of the sphere; and detailed analytic pages for [[koguryo]], [[paekche]],
+[[silla]], [[kaya]], [[puyo]] and [[samhan]] where the wiki previously had only the summary
+[[korea-three-kingdoms]] place page. On the [[kofun-culture|Kofun]] side it supplies the Himiko/Yamatai
+relocation to the Nara Basin, the dating of statehood by monumental tomb-building, and the rejection of
+the "horse-rider conquest" theory of [[yamato-japan|Yamato]] origins.
+
+**Tensions with already-ingested sources are minor and complementary.** On early China Barnes broadly
+agrees with [[liu-chinese-neolithic-2004|Liu (2004)]] and [[major-cook-ancient-china-2017|Major & Cook
+(2017)]] — non-linear state formation, Erlitou≠necessarily Xia (see [[xia-dynasty-historicity]]), the
+plurality of the [[sanxingdui|Sanxingdui]] bronze world against any monocentric origin. Her distinctive
+emphasis is the **4.2 kya climate event** as the synchronous trigger of Late Neolithic collapse
+([[liangzhu-culture|Liangzhu]], Longshan, Shijiahe), which she presses harder than the
+circumscription/flooding model on [[early-china-state-formation]]. On the
+[[yamato-japan|Yamato]]–Korea relationship she converges with the [[benjamin-cwh-v4-2015|CWH IV]] and
+Cambridge History readings that **dismiss the "Mimana colony"** as later projection. Her most
+explicitly contested material is the **modern nationalist historiography** of the Epilogue — the Mimana
+problem, keyhole tombs in Korea, and above all the **Koguryo dispute** between China and Korea — which
+she treats even-handedly while arguing "Koguryo belonged only to itself."
+

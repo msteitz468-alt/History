@@ -8,8 +8,8 @@ region: [china, east-asia]
 process_type: [political, demographic, economic, environmental]
 driven_by: [environmental circumscription, Yellow River flooding and course changes, factional competition and feasting, craft specialisation and prestige-goods exchange, regional interaction and warfare]
 produces: [[[longshan-culture|Longshan chiefdoms]], [[taosi|the Taosi polity]], [[erlitou-culture|the Erlitou state]], [[shang-dynasty|the Shang state]]]
-sources_ingested: 2
-last_updated: 2026-06-26
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [process, neolithic, chalcolithic, early-bronze-age, china, east-asia]
 ---
 
@@ -90,11 +90,27 @@ The narrative-survey complement to Liu's settlement model is
 against any single Central-Plains origin — the same anti-monocentric thrust as
 [[origins-chinese-civilization-monocentric-vs-multiregional|the origins debate]].
 
+## Barnes: definitional plurality, the southern path, and climatic collapse
+
+[[barnes-archaeology-east-asia-2015|Barnes (2015)]] reinforces the non-linear reading while flagging how
+**unsettled the definition of "the state" is**: social stratification, administrative artifacts, a
+four-tier hierarchy, and the traditional Chinese/Korean criterion (a ruler within walls, *cheng* 城 →
+*guo* 國) "do not always match up," so she labels the Late Neolithic (3300–2000 BC) as **"polity
+formation… chiefdoms or incipient states."** She widens the picture beyond the Yellow River with the
+**southern powerhouse of [[liangzhu-culture|Liangzhu]]** — stratified into aristocrats and commoners
+from its founding, with the 10-m **Mojiaoshan** terrace, the jade-rich Fanshan cemetery (1,100 jades),
+and a 290-ha late enclosure — as a parallel, jade-based path that, like [[taosi|Taosi]], **collapsed
+rather than maturing into a state**. Crucially she presses the **4.2 kya abrupt climate event** as the
+synchronous trigger of Late Neolithic collapse across regions (Longshan, Liangzhu and Shijiahe, with
+flood-sands over Liangzhu paddies at Maoshan as direct evidence) — "social explanations cannot account
+for the synchronicity of collapse… at a large regional scale." **Source:**
+[[barnes-archaeology-east-asia-2015]].
+
 ## Related
 
-- Cultures/sites: [[yangshao-culture]] · [[dawenkou-culture]] · [[longshan-culture]] · [[taosi]] · [[erlitou-culture]] · [[erlitou]]
+- Cultures/sites: [[yangshao-culture]] · [[dawenkou-culture]] · [[longshan-culture]] · [[liangzhu-culture]] · [[taosi]] · [[erlitou-culture]] · [[erlitou]]
 - Concept: [[state-formation]] · [[chiefdom]] · [[settlement-archaeology]] · [[heterarchy]] · [[territorial-state]]
 - Place: [[yellow-river-valley]] · [[central-plains-china]] · [[yiluo-basin]]
 - Process: [[early-agriculture-china]]
 - Analogous: [[mesoamerican-state-formation]] · [[andean-state-formation]]
-- Source: [[liu-chinese-neolithic-2004]] · [[major-cook-ancient-china-2017]]
+- Source: [[liu-chinese-neolithic-2004]] · [[major-cook-ancient-china-2017]] · [[barnes-archaeology-east-asia-2015]]

@@ -7,8 +7,8 @@ period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: [Koguryŏ, Paekche, Silla (the Three Kingdoms); Han China (north, 109 BCE-4th c. CE)]
 events_here: [Han conquest of northern Korea 109 BCE, Tang-Silla conquest of Paekche 660 and Koguryŏ 668 CE, Sillan unification 676 CE]
 processes_here: [[[state-formation]], [[buddhism|Buddhist transmission]], [[east-asian-cultural-sphere|Sinicization]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [place, korea, east-asia, late-antiquity]
 ---
 
@@ -58,6 +58,21 @@ nineteenth century.
 The Three Kingdoms exemplify CWH IV's theme of **secondary state formation** on an imperial
 periphery and the selective, adaptive incorporation of Chinese culture that built the East
 Asian sphere while preserving a separate Korean identity.
+
+## The archaeological deep background (Barnes)
+
+[[barnes-archaeology-east-asia-2015|Barnes (2015)]] supplies the archaeological underpinning the
+chronicle-based account lacks. She traces the kingdoms back through the [[mumun-culture|Mumun]] and
+[[samhan|Samhan]] (Three Han) substrate and the iron-trading [[yellow-sea-interaction-sphere|Yellow Sea
+sphere]] centred on the [[lelang-commandery|Lelang commandery]], and dates statehood by the **debut of
+monumental tomb-building (mid-to-late 3rd century AD)** rather than the native foundation dates
+(57/37/18 BC). Detailed analyses now exist for each polity: [[koguryo|Koguryo]] (two-capital system,
+mural tombs, Kwanggaeto stele), [[paekche|Paekche]] (Pungnap/Mongchon, the Yamato alliance and
+seven-branched sword), [[silla|Silla]] (un-lootable gold tombs, bone-rank system, Tang-backed
+unification), the [[kaya|Kaya]] confederacy (iron and Sué-ware to Japan), and ancestral
+[[puyo|Puyo]]. She frames all of these as **secondary states** (see
+[[pen-insular-state-formation]]) and addresses the modern Koguryo and keyhole-tomb
+controversies directly. **Source:** [[barnes-archaeology-east-asia-2015]].
 
 ## Historiography
 

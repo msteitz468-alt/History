@@ -9,8 +9,8 @@ affiliated_with: [[[yiluo-basin]], [[central-plains-china]], [[yellow-river-vall
 opposed_by: []
 key_events: [unknown]
 key_processes: [[[early-china-state-formation]], [[state-formation]]]
-sources_ingested: 2
-last_updated: 2026-06-26
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, state, early-bronze-age, china, east-asia]
 ---
 
@@ -89,4 +89,13 @@ Kochab), and a **five-planet conjunction of 1953 BCE** that may have served as a
 - Place: [[erlitou]] · [[yiluo-basin]] · [[central-plains-china]] · [[yellow-river-valley]]
 - Process/Concept: [[early-china-state-formation]] · [[state-formation]] · [[territorial-state]]
 - Period: [[early-bronze-age]]
-- Source: [[liu-chinese-neolithic-2004]]
+- Process: [[east-asian-bronze-metallurgy]]
+- Source: [[liu-chinese-neolithic-2004]] · [[barnes-archaeology-east-asia-2015]]
+
+**Barnes (2015) adds:** bronze-casting began at Erlitou in **Phase II (~1750 BC)**, first in bivalve
+stone moulds, then with the invented ceramic **piece-mould** — but the earliest piece-mould products
+were **bells, not vessels**; vessels were cast only from Phase III, "changing forever the nature of
+elite interaction on the Mainland" and making Erlitou "the first Bronze Age culture in the northern
+Mainland." Almost all of its turquoise, jade and bronze was both produced and consumed on site, and
+**no king's tomb has yet been found**. She treats the Erlitou=Xia identification as contested, not
+established. See [[east-asian-bronze-metallurgy]]. **Source:** [[barnes-archaeology-east-asia-2015]].

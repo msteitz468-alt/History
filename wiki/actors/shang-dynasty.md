@@ -9,8 +9,8 @@ affiliated_with: [the Bronze Age cultures of the Yellow River basin]
 opposed_by: [rival "segmentary states", the Zhou (who overthrew them)]
 key_events: ["the Anyang cult-centre (c. 1240–1040 BCE)", "the oracle-bone divinations", "the Zhou conquest (c. 1046 BCE)"]
 key_processes: [Chinese bronze metallurgy, the origins of Chinese writing, [[early-china-state-formation]]]
-sources_ingested: 4
-last_updated: 2026-06-26
+sources_ingested: 5
+last_updated: 2026-06-27
 tags: [actor, dynasty, bronze-age, china, east-asia]
 ---
 
@@ -71,7 +71,7 @@ civilization]].
 
 - [[zhou-dynasty]] — its conqueror and successor; [[mandate-of-heaven]] — the doctrine the Zhou used to justify the conquest.
 - [[china]] — the civilization it seeded; [[qin-shi-huang]] · [[han-dynasty]] — the later imperial order it long preceded.
-- [[bronze-age]] — its technological era.
+- [[late-bronze-age|Bronze Age]] — its technological era.
 
 ## Additional detail from Maisels, *Early Civilizations of the Old World* (1999), Chapter 5 (Range 05 extraction)
 
@@ -149,3 +149,17 @@ oracle-bone records of her **commanding armies**, was one of the very few female
 in Chinese history. On the contemporary but **culturally alien** [[sanxingdui|Sanxingdui]] bronze
 culture of Sichuan, see its page. The **chariot** reached the Shang c. 1300 BCE from the western
 steppes (see [[major-cook-ancient-china-2017]]). **Source:** [[major-cook-ancient-china-2017]].
+
+## Capitals, Bronze and Reach (Barnes 2015)
+
+[[barnes-archaeology-east-asia-2015|Barnes]] adds the settlement-archaeology spine: the peripatetic
+Shang capitals run **Yanshi → Zhengzhou (Bo) → Huanbei → [[anyang|Yinxu]]**, the unwalled 25-km² late
+capital. She stresses that **Shang was not a territorial state** but "a thin network of pathways and
+encampments… a league of towns allied by kinship or shared religious practice" — a patrimonial state of
+1,000+ named towns (*yi*) and lineages (*zu*). On bronze she frames the **piece-mould vessel tradition**
+(developed from [[erlitou-culture|Erlitou]]) as a uniquely East Asian technology dominated by the
+**taotie**, "grown out of technological introductions from other regions… then refined into a ritual
+system of great political influence centred on wine vessels" (see [[east-asian-bronze-metallurgy]]). She
+notes the **Simuwu/Houmuwu fangding** (875 kg) from Lady Jing's tomb as the largest Shang vessel, and
+reads the Late Shang attention-shift toward the Shandong **Dongyi** in the oracle bones. **Source:**
+[[barnes-archaeology-east-asia-2015]].
