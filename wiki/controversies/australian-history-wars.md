@@ -14,7 +14,7 @@ tags: [controversy, long-19th-century, australia, historiography]
 
 # Australian History Wars: Scale and Character of Frontier Violence
 
-*See also [[australian-frontier-conflict]], [[aboriginal-australians]], [[settler-colonialism]], [[terra-nullius]], [[bashford-macintyre-cha-v1-2013]] (Ch. 14, Banivanua Mar and Edmonds).*
+*See also [[australian-frontier-conflict]], [[aboriginal-australians]], [[settler-colonialism]], [[terra-nullius]], [[bashford-macintyre-cha-v1-2013]] (Ch. 14, Banivanua Mar and Edmonds), [[history-wars-australia]] (broader 20th-century history anxiety, Anzac myth, apology debate).*
 
 ## The Dispute
 

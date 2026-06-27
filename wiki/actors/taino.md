@@ -73,4 +73,4 @@ The Taíno were extensively documented in early Spanish sources: Columbus's jour
 
 **Sources:** [[snow-gonlin-siegel-archaeology-native-north-america-2020]] · [[keegan-hofman-caribbean-before-columbus-2017]]
 
-**Related pages:** [[saladoid-culture]] · [[cacicazgo-caribbean]] · [[post-saladoid-caribbean-differentiation]] · [[meillacoid-chicoid-cultures]] · [[lucayans]] · [[kalinago]] · [[caribbean-islands]]
+**Related pages:** [[saladoid-culture]] · [[caribbean-peopling-and-saladoid]] · [[caribbean-demographic-collapse-1492-1580]] · [[cacicazgo-caribbean]] · [[post-saladoid-caribbean-differentiation]] · [[meillacoid-chicoid-cultures]] · [[lucayans]] · [[kalinago]] · [[island-caribs]] · [[caribbean-islands]]

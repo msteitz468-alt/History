@@ -42,4 +42,4 @@ The Caribbean islands were never isolated landscapes. Their pre-Columbian histor
 
 Caribbean archaeology developed largely through the framework of Irving Rouse's time-space diagram (Rouse 1992), which organised material culture into "series" (Saladoid, Ostionoid, Meillacoid, Chicoid, etc.) and migration streams. This framework has been refined and partially challenged by newer network-oriented and heterarchical approaches (Keegan and Hofman 2017; Hofman Nexus 1492 project). The colonial-era Arawak/Carib binary has been substantially dismantled archaeologically.
 
-**Collection coverage:** Poorly represented in the Bibliotheca Alexandrina collection overall; [[keegan-hofman-caribbean-before-columbus-2017]] is the primary specialist source for this region.
+**Collection coverage:** Poorly represented in the Bibliotheca Alexandrina collection overall; [[keegan-hofman-caribbean-before-columbus-2017]] is the primary specialist source for this region, complemented by Louis Allaire's synthesis in [[cambridge-history-native-peoples-americas-v3-1]] (see [[caribbean-peopling-and-saladoid]] and, for the conquest era, [[caribbean-demographic-collapse-1492-1580]]).

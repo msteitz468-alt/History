@@ -1,12 +1,12 @@
 ---
 title: The Khipu (Inca Knot-Record)
-concept_type: cultural
-origin: the Andean knotted-cord recording device, used by the Inca state (and Andean predecessors) and studied by Leland Locke (1923), the Aschers, and Gary Urton
-applies_to_periods: [Late Middle Ages, Early Modern]
+concept_type: analytical
+origin: "Pre-Columbian Andean invention of unknown antiquity. The word is Quechua for 'knot.' First analysed for its decimal structure by Leland Locke (1923). Modern database work: Robert and Marcia Ascher, *Code of the Quipu* (1981); Gary Urton, Harvard Khipu Database. Also studied as a living tradition by Frank Salomon."
+applies_to_periods: [Late Middle Ages, Early Modern, Age of Expansion]
 applies_to_regions: [andes]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept]
 ---
 
@@ -40,6 +40,29 @@ encoded **language** itself (a form of writing) or served as a structured **mnem
 of the narrative khipu has **not been broken**; modern decipherment efforts (Gary Urton's Harvard Khipu
 Database; Frank Salomon's study of living khipu traditions) continue.
 
+The leading technical analysts Robert and Marcia Ascher considered narrative khipus "technically
+possible": if certain knot/number combinations were assigned to introductory formulas each signaling a
+stereotyped episode type, "a khipu indicating order of formulaic introductions would serve as a key to
+correct ordering of events and persons" — analogous to oral chronicles from Burundi organized on
+recurring introductory formulas. This would record **structure**, not content; reading would depend on
+the specialist knowing a priori what content filled each structural slot.
+
+Gary Urton has argued for a stronger claim: that khipus functioned as **standardized** (not
+personalized) aids to memory and "encoded syntactical relations among elements of a narrative rather
+than merely listing its raw ingredients" — making them closer to writing. This remains debated.
+
+The colonial use of khipus as **legal testimony** is well documented: when the native lords of Hatun
+Xauxa sued in 1561 for recovery of goods given to Pizarran armies in the 1530s, "the Xauxa lords were
+able to account to the court's satisfaction for transfers that had taken place a quarter century earlier,
+down to the last 'partridge'...and pair of sandals" (Salomon, citing Rostworowski). Pedro Sarmiento de
+Gamboa in 1572 legitimated the viceroy Toledo's official Inka history by presenting it as "the fruit of
+interviews with over a hundred khipu masters." Colonial courts gradually stopped accepting khipu
+testimony as the seventeenth century advanced.
+
+Outside the Andes, a Mapuche messenger planning the 1881 anti-Chilean insurrection used a "string of
+knots" (glossed as *quipu* by editor de Moesbach) to count down the days to coordinated action —
+evidence that knotted-cord mnemonics survived in adapted forms across the continent.
+
 ## Significance
 
 The khipu bears directly on the wiki's recurring debate over **what counts as "writing"** and over
@@ -54,4 +77,5 @@ the hemisphere's two great solutions to the problem of recording information.
 ## Related
 
 [[inca-empire]] · [[cuzco]] · [[mita-and-andean-reciprocity]] · [[maya-civilization]] ·
-[[holmbergs-mistake]] · [[daltroy-incas-2004]]
+[[holmbergs-mistake]] · [[daltroy-incas-2004]] · [[native-andean-historical-sources]] ·
+[[myth-history-debate-andes]] · [[cambridge-history-native-peoples-americas-v3-1]]
