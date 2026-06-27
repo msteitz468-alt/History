@@ -1,17 +1,17 @@
 ---
 title: Elam (Awan, Simashki, and Susa)
 actor_type: state
-date_start: ~2700 BCE (first attestation, Awan)
-date_end: ~640 BCE (Assyrian destruction; here covered to ~1100 BCE)
-period: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Bronze Age Collapse]
-region: [iran-plateau, near-east]
+date_start: ~2600 BCE (first secure attestation; "Elam" a Mesopotamian construct)
+date_end: ~224 CE as Elymais; the name "Elam" survives ecclesiastically to ~1400 CE
+period: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Bronze Age Collapse, Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity]
+region: [iran-plateau, near-east, khuzistan, fars]
 affiliated_with: []
-opposed_by: [[[akkadian-empire]], [[third-dynasty-of-ur]], [[kassites|Kassite Babylon]], Mesopotamia generally]
-key_events: [[[fall-of-ur-2004bce|the Elamite sack of Ur]], defeat by [[hammurabi|Hammurabi]] (~1764 BCE), Kutir-Nahhunte I's sack of Akkad (~1730 BCE), the building of Dur-Untash (Chogha Zanbil), the Shutrukid sack of Babylon (~1158 BCE)]
+opposed_by: [[[akkadian-empire]], [[third-dynasty-of-ur]], [[kassites|Kassite Babylon]], [[neo-assyrian-empire|Assyria]], Mesopotamia generally]
+key_events: [[[fall-of-ur-2004bce|the Elamite sack of Ur]], defeat by [[hammurabi|Hammurabi]] (~1764 BCE), the building of [[chogha-zanbil|Dur-Untash (Chogha Zanbil)]], the [[shutruk-nahhunte-i|Shutrukid sack of Babylon]] (~1158 BCE), [[sack-of-susa-646bce|Assurbanipal's sack of Susa]] (646 BCE)]
 key_processes: [[[state-formation]], [[trade-network-formation]], [[writing-and-record-keeping]]]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-27
-tags: [actor, state, early-bronze-age, middle-bronze-age, late-bronze-age, iran-plateau]
+tags: [actor, state, early-bronze-age, middle-bronze-age, late-bronze-age, early-iron-age, iran-plateau]
 ---
 
 # Elam (Awan, Simashki, and Susa)
@@ -168,6 +168,73 @@ local identity — and **Untash-Humban** founded Dur-Untash (**Choga Zanbil**) w
 to rival Babylon's, while Kidin-Hutran exploited the Assyria-Babylonia conflict to raid deep
 into Babylonia. See [[ancient-near-eastern-modes-of-production]].
 
+## The Neo-Elamite period and the fall of Susa (c. 1000–539 BCE)
+
+After three near-blank centuries, Elam re-emerges in the **Neo-Elamite** period — and the
+[[potts-archaeology-of-elam-2016|Potts]] synthesis carries the wiki's Elam coverage well
+past the old Bronze-Age terminus for the first time. Neo-Elamite kings (Huban-nikash I,
+Shutruk-Nahhunte II, Hallushu, Te-Umman, and a chaotic late series) spent the 8th–7th
+centuries as the **chief backers of Babylonian and Chaldaean resistance to
+[[neo-assyrian-empire|Assyria]]**, supplying armies to [[merodach-baladan|Merodach-Baladan]]
+and fighting [[sargon-ii|Sargon II]] at Der (720 BCE) and [[sennacherib|Sennacherib]] at
+Halule (691 BCE). The cycle ended catastrophically: after Te-Umman's decapitation at
+**Til-Tuba (653 BCE)** and Elam's involvement in the Shamash-shum-ukin revolt,
+[[ashurbanipal|Assurbanipal]] carried out the **[[sack-of-susa-646bce|systematic sack of
+Susa in 646 BCE]]** — looting temples, opening the royal tombs, razing the ziggurat. In
+the highlands, local princes such as **Hanni of Ayapir** left the [[late-bronze-age|rock
+reliefs]] of **Kul-e Farah and Shikaft-e Salman** at Izeh, and rich tombs at **Arjan** and
+**Jubaji** show late Neo-Elamite elite culture surviving the catastrophe. Crucially, as
+lowland Elam fell, the highland zone of **[[anshan|Anshan]]** passed to Persian dynasts
+who styled themselves "**king of Anshan**" — Teispes, and then [[cyrus-the-great|Cyrus]].
+
+## Elam inside the Achaemenid Empire (c. 539–330 BCE)
+
+Far from disappearing, Elam was **absorbed and partly preserved** by its Persian heirs.
+[[darius-i|Darius I]] built a great palace at **[[susa|Susa]]** (the *apadana*; the famous
+DSf "materials and craftsmen" inscription) and made it an imperial capital and the eastern
+terminus of the Royal Road. **Elamite was the working administrative language** of the
+empire: the trilingual Bisotun inscription was composed in Elamite *first*, and the
+**Persepolis Fortification Archive** — c. 20,000+ tablets — is overwhelmingly in Elamite.
+Elamite **gods (Humban), priests, dress (the "Elamite dagger"), and ~10% of personal
+names** persist in the Persepolis texts. Herodotus's "**Kissians**" are the Elamites,
+ranked third after Persians and Medes. Potts reads this as "one of the most interesting
+cases of **ethnogenesis and acculturation** in Iranian history" — the Persians emerging in
+part *through* Elamite acculturation, so that Elamite identity, far from evaporating, is
+"if anything even clearer" afterwards.
+
+## Elymais and the Sasanian afterlife (c. 147 BCE–1400 CE)
+
+Potts then extends Elam's story another thousand years. **[[elymais|Elymais]]** — "nothing
+but the Graecized form of the name Elam" — was a semi-independent temple-kingdom of
+highland Khuzistan and the Bakhtiari under the [[seleucid-empire|Seleucids]] and
+[[parthian-empire|Parthians]] (its temples killed Antiochus III and lured Antiochus IV to
+his death); its kings, known mostly from coins and rock reliefs, kept the old Elamite
+relief tradition alive. **[[ardashir-i|Ardashir]]** folded it into the
+[[sasanian-empire|Sasanian]] state c. 224 CE. Under [[shapur-i|Shapur I]] Roman captives
+rebuilt Khuzistan and founded **[[gundeshapur|Gundeshapur (Beth Lapat, "city of the
+Elamites")]]**; Susa was destroyed by Shapur II (~339 CE). The name **"Elam" then survived
+as a Nestorian ecclesiastical province until c. 1400 CE** — Potts's proof that "Elam"
+named not one state but a **mutable, repeatedly transformed reality** across four millennia.
+
+## Potts and the "many Elams": rejecting the longue durée
+
+[[potts-archaeology-of-elam-2016|Potts (2016)]] reframes the whole subject. "Elam" is **an
+artificial construct, a name coined by Mesopotamian scribes** (Sumerian NIM, "high(land)")
+and imposed from outside on heterogeneous highland and lowland peoples — Anshanites,
+Marhashians, Shimashkians — who had **no single self-identification** before an indigenous
+name (*Hatamti*) appears only in the 18th century BCE. Against older accounts of a
+continuous Elamite "empire," Potts argues there were **"many Elams"** and explicitly
+**rejects the Braudelian longue durée** in favour of *la courte durée*: Elam repeatedly
+dissolves and **"emerges transformed after each brutal encounter… with an 'other,' whether
+Sumerian, Akkadian, Babylonian, Kassite, Assyrian, Macedonian, Seleucid, Arsacid or
+Sasanian."** Following Vallat (1980), he locates the **original centre of Elam at
+[[anshan|Anshan]] in Fars, not at Susa** (the later Elam = Khuzistan equation is a *pars
+pro toto* extension). And he severs the supposed root: the [[proto-elamite|Proto-Elamite
+(Susa III)]] horizon is **not demonstrably ancestral** to historical Elam. The result is a
+sustained **critique of the centre–periphery model** — a "marginal" region that nonetheless
+overawed Mari and Babylon under the sukkalmahs, gave the Achaemenids their chancery
+language, and hosted the second city of the Nestorian church.
+
 ## Significance
 
 Elam is the wiki's first major **non-Mesopotamian, non-Egyptian literate
@@ -186,12 +253,27 @@ kings" of Awan and Simashki "must be regarded with caution." Reconstruction lean
 heavily on the [[akkadian-empire|Akkadian]] and [[third-dynasty-of-ur|Ur III]]
 records of their wars and treaties. See [[cambridge-ancient-history-methodology]].
 
+[[potts-archaeology-of-elam-2016|Potts (2016)]] is the standard modern synthesis and the
+spine of the wiki's Elam coverage. He sharpens the source-critique: the evidence is
+overwhelmingly Mesopotamian (king-lists, Akkadian royal inscriptions) or excavated at
+**Susa** (poorly recorded by the early French expeditions); a major taphonomic warning is
+that **deep alluviation** in Khuzistan systematically hides early sites, so "absence" of
+settlement is often an artefact. He treats earlier syntheses (Cameron, Hinz, Carter &
+Stolper) as wrongly terminating Elamite history at the Achaemenid conquest, and recasts the
+whole subject around **construct, transformation, and ethnogenesis** rather than continuity
+(see "the many Elams," above). On the prehistoric end he stresses dating limits — a
+radiocarbon plateau c. 3400–2900 BCE makes the [[proto-elamite|Proto-Elamite]] horizon hard
+to fix absolutely.
+
 ## Related
 
-- Place: [[susa]] · Opposed: [[akkadian-empire]] · [[third-dynasty-of-ur]] · Event: [[fall-of-ur-2004bce]]
-- Treaty with: [[naram-sin]] · subordinated by: [[sargon-of-akkad]] · [[shulgi]]
-- MBA rival/coalition partner against: [[hammurabi]] · later avenged by: [[ashurbanipal]]
-- Process: [[trade-network-formation]] · [[writing-and-record-keeping]] · Period: [[early-bronze-age]] · [[middle-bronze-age]]
-- Region: [[iran-plateau]] · Concept: [[sumerian-king-list]] · [[interpolity-law]]
-- Middle Elamite rival: [[kassites|Kassite Babylon]] · contemporary survivor: [[assyria-middle]] · context: [[bronze-age-collapse-1200bce]]
-- Source: [[edwards-cah-v2p2-1975]] (Ch. XXIX) · [[edwards-cah-v2p1-1973]] (Ch. VII) · [[edwards-cah-v1p2-1971]] (Ch. XXIII)
+- Place: [[susa]] · [[anshan]] · [[chogha-zanbil]] · [[gundeshapur]] · Opposed: [[akkadian-empire]] · [[third-dynasty-of-ur]] · [[neo-assyrian-empire]]
+- Event: [[fall-of-ur-2004bce]] · [[sack-of-susa-646bce]] · Concept: [[proto-elamite]] · [[sumerian-king-list]] · [[interpolity-law]]
+- Kings: [[puzur-inshushinak]] · [[untash-napirisha]] · [[shutruk-nahhunte-i]] · [[shilhak-inshushinak-i]] · successor-state: [[elymais]]
+- Treaty with: [[naram-sin]] · subordinated by: [[sargon-of-akkad]] · [[shulgi]] · MBA coalition vs: [[hammurabi]]
+- Neo-Elamite foes: [[sargon-ii]] · [[sennacherib]] · [[esarhaddon]] · [[ashurbanipal]] · ally: [[merodach-baladan]]
+- Achaemenid heirs: [[cyrus-the-great]] · [[darius-i]] · [[achaemenid-empire]] · later: [[seleucid-empire]] · [[parthian-empire]] · [[sasanian-empire]] · [[ardashir-i]] · [[shapur-i]]
+- Process: [[trade-network-formation]] · [[writing-and-record-keeping]] · [[state-formation]]
+- Period: [[early-bronze-age]] · [[middle-bronze-age]] · [[late-bronze-age]] · [[early-iron-age]] · [[classical-antiquity]] · [[late-antiquity]]
+- Region: [[iran-plateau]] · Middle Elamite rival: [[kassites|Kassite Babylon]] · contemporary survivor: [[assyria-middle]] · context: [[bronze-age-collapse-1200bce]]
+- Source: [[potts-archaeology-of-elam-2016]] · [[edwards-cah-v2p2-1975]] (Ch. XXIX) · [[edwards-cah-v2p1-1973]] (Ch. VII) · [[edwards-cah-v1p2-1971]] (Ch. XXIII) · [[liverani-ancient-near-east-2014]]

@@ -54,7 +54,7 @@
 32. **K. L. Noll** - *Canaan and Israel in Antiquity: A Textbook on History and Religion*
 
 ### 5. Ancient Iran & Mesopotamia
-33. **D. T. Potts** - *The Archaeology of Elam: Formation and Transformation of an Ancient Iranian State*
+33. **D. T. Potts** - *The Archaeology of Elam: Formation and Transformation of an Ancient Iranian State* ✅
 34. **Peter T. Daniels, Pierre Briant** - *From Cyrus to Alexander: A History of the Persian Empire*
 35. **Josef Wiesehofer** - *Ancient Persia: From 550 BC to 650 AD*
 36. **Vesta Sarkhosh Curtis, Michael Alram, Touraj Daryaee, Elizabeth Pendleton** - *The Parthian and Early Sasanian Empires: Adaptation and Expansion* **[MISSING]**
