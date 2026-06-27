@@ -58,3 +58,8 @@ Keynes (NCMH II) warns against two "deeply engrained" but anachronistic construc
 extrapolated from Bede's list of seven kings). Evidence is radically uneven: charters and law-codes
 survive for Kent and Wessex but not for Northumbria or East Anglia, so the relative obscurity of some
 kingdoms reflects the accidents of preservation, not their real importance.
+
+Mercia's place within the wider archipelago is set out on
+[[periods/early-middle-ages-britain-ireland]]; on its absorption into
+[[actors/kingdom-of-wessex|Wessex]] and the making of [[places/england|England]] (Æthelflæd,
+d. 918), see those pages.

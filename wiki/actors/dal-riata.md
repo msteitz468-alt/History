@@ -22,7 +22,9 @@ Gaelic-speaking kingdom in Argyll (Scotland) and parts of Ireland (6th–9th c.)
 
 - [[actors/colum-cille]]
 - [[actors/cinaed-mac-ailpin]]
-- [[places/alba]]
+- [[actors/kingdom-of-alba]] (the making of Scotland; Woolf's revisionist account)
+- [[places/scotland]] · [[periods/early-middle-ages-britain-ireland]]
 - [[sources/koch-celtic-culture-encyclopedia-2006]]
+- [[sources/stafford-companion-early-middle-ages-britain-ireland-2009]]
 
 *From Vol III claims (Beda, Ptolemy, etc.).*
