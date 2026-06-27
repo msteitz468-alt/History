@@ -5,8 +5,8 @@ origin: "Reinhard Wenskus (1961), *Stammesbildung und Verfassung*"
 applies_to_periods: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [western-europe, northern-europe, eastern-europe, mediterranean-world, eurasian-steppe]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [concept]
 ---
 
@@ -38,6 +38,25 @@ The Vienna School's reliance on the *Traditionskern* was criticized by the **Tor
 
 ---
 
+### Geary and the Anglophone reception
+
+**Patrick Geary**'s *Before France and Germany* (1988) was a principal vehicle for carrying the
+Wenskus–Wolfram model to English-language readers. Geary distils the model into memorable form: "the tribe
+was a constantly changing grouping of people bound together by shared perceptions, traditions, and
+institutions. As these commonalities changed, tribes changed" — expanding, splitting, merging, or vanishing,
+so that ethnogenesis "was constant, although certain historical moments saw this process accelerated." He
+stresses that Roman ethnography (the *interpretatio romana* descending from Herodotus) actively *constructed*
+the barbarian — imposing uniform stereotypes and the myth of the North as a "womb of peoples" — and warns
+against the cardinal error of applying **Tacitus's first-century** *Germania* directly to the Goths and
+Franks of the fourth and fifth centuries (likening it to using seventeenth-century New England to describe
+twentieth-century America). He distinguishes a **Gothic** ethnogenesis with ancient names and origin-myths
+from a **"West Germanic"** pattern (Franks, Alemanni, Bavarii) that "did not for the most part preserve
+ancient tribal traditions" and lacked stable pre-entry kingdoms (see [[frankish-ethnogenesis]],
+[[gothic-peoples]], [[visigoths]], [[ostrogoths]]). Archaeologically he reads the late-antique shift to
+**row-grave** burial (*Reihengräberzivilisation*) in Gaul not as the arrival of Scandinavians but as a
+transformation of the peoples already there — anticipating the material-culture-as-strategy
+reading below.
+
 ## Halsall's Material and Social Synthesis
 
 In *The New Cambridge Medieval History, Vol. 1* (Ch. 2 and Ch. 3), **Guy Halsall** reframes the ethnogenesis debate by integrating it with archaeological theory and social-political dynamics:
@@ -62,4 +81,4 @@ The shift in the historical understanding of ethnogenesis mirrors the evolution 
 *   **Actors**: [[germanic-peoples]] · [[clovis]] (Franks) · [[theoderic-the-great]] (Ostrogoths) · [[lombards]]
 *   **Processes**: [[post-roman-transformation-of-the-west]] · [[indo-european-migrations]]
 *   **Controversies**: [[causes-of-the-fall-of-the-western-roman-empire]] · [[indo-european-origins]]
-*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]
+*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]] · [[geary-before-france-germany-1988]]

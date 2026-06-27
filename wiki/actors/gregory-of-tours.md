@@ -59,5 +59,5 @@ narratives "often obscure more than they enlighten." Source: [[geary-before-fran
 ## Related Pages
 
 *   **Actors**: [[clovis]] · [[germanic-peoples]] · [[reccared-i]] · [[fredegund]] · [[brunhild]] · [[merovingian-episcopate]]
-*   **Events**: [[third-council-of-toledo]]
+*   **Events**: [[battle-of-vouille-507]]
 *   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]] · [[geary-before-france-germany-1988]]

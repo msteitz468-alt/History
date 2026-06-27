@@ -9,8 +9,8 @@ affiliated_with: [the Pippinid/Arnulfing family, Austrasia, the Frankish kingdom
 opposed_by: [Neustrians, Frisians, Aquitanians, Umayyad raiders, Saxons]
 key_events: [battle of Vinchy 717, battle of Poitiers/Tours 732/733, conquest of Burgundy and Provence]
 key_processes: [[[carolingian-empire|rise of the Carolingians]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, early-middle-ages, western-europe]
 ---
 
@@ -70,3 +70,20 @@ are family-sponsored and present the period as one of relentless, justified warf
 why he was so successful," and frames his career within the larger
 [[nature-of-carolingian-government|debate]] over whether Carolingian power rested on new
 structures or simply on the dynamics of conquest.
+
+## From Geary, *Before France and Germany* (1988)
+
+Geary identifies the **mechanism** behind the church-lands story: Charles reconsolidated Francia "city by
+city" chiefly **through control of monastic and episcopal offices**, installing loyalists regardless of
+religious formation. His cousin **Hugo** simultaneously held the bishoprics of Rouen, Bayeux, and Paris and
+the abbacies of St-Wandrille, St-Denis, and Jumièges. By this radical pluralism Charles "destroyed the
+religious basis on which had long rested the independent power of the Frankish [[merovingian-episcopate|episcopate]]":
+henceforth bishops would be powerful lords but never again "monopolists of the sacred," that role passing to
+the monasteries. The synods of the 740s (under his sons Carlomann and Pippin) issued decrees in the **ruler's
+name**, not the bishops'. Pope Gregory III's gift of the keys and chain of St Peter (739) began the importation
+of **Roman relics**, reorienting the West's sacred geography toward Rome (see
+[[christianisation-of-the-frankish-aristocracy]]). In [[aquitaine|Aquitaine]] and [[provence|Provence]] his
+pacification wars extinguished the surviving culture of literate laymen. Geary thus presents Martel less as a
+despoiler than as the architect of a **new, subordinated church** — the religious substructure of Carolingian
+power. Cross-refs: [[pippinids]] · [[merovingian-episcopate]] · [[aquitaine]] · [[provence]]. Source:
+[[geary-before-france-germany-1988]].

@@ -7,8 +7,8 @@ date_range: "31 BCE–600 CE"
 regions_covered: [mediterranean, western-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, north-africa, east-africa, central-asia, south-asia, china, steppe, indian-ocean]
 major_themes: ["the Roman Empire at its height and its transformation", "the Parthian and Sasanian empires", "the spread of universalizing religions (Christianity, Buddhism, Manichaeism)", "the Kushan Empire and the Silk Roads", "the Gupta 'golden age'", "the Han collapse and China's Age of Disunity", "steppe migrations and the 'fall' of the Western Empire", "the rise of Byzantium"]
 collection_coverage: strong
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [period]
 ---
 
@@ -90,6 +90,14 @@ reasserting genuine catastrophe in the west) — a standing wiki controversy,
 Also contested: the periodization of "Late Antiquity" itself (its expansion to 800 CE and beyond), the social 
 reality behind Christianization, and the role of climate and pandemic (the Antonine and Justinianic plagues, 
 the 536 CE volcanic dust-veil) in the period's crises.
+
+**The Merovingian West (Geary 1988).** Patrick Geary's *Before France and Germany* exemplifies the
+"transformation" school for the western successor states: the barbarian world, and the
+[[merovingian-franks|Franks]] above all, was "a creation of Rome," its peoples assembled within the orbit of
+provincial late antiquity through [[barbarization-of-the-roman-army|army service]], [[frankish-ethnogenesis|ethnogenesis]],
+and the colonisation of the [[merovingian-episcopate|Gallo-Roman episcopate]] by a surviving senatorial
+aristocracy. The Frankish kingdom's adherence to **orthodox** (not Arian) Christianity made it the most
+durable amalgamation of Roman and barbarian — see [[clovis]], [[francia]], [[roman-gaul]].
 
 **Recent revisionism.** The concept of "Late Antiquity" as a positive period in
 its own right (not a mere interregnum) is itself a late-20th-century creation. In archaeology, 

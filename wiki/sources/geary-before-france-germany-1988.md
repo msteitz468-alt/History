@@ -17,8 +17,8 @@ reliability_notes: >
   ethnogenesis, the Frankish kingdom, and Merovingian aristocracy/Church.
   Light on narrative chronology of reigns (deliberately). Predates some later
   revisionism but remains a foundational reference.
-pages_created: 0
-pages_updated: 0
+pages_created: 22
+pages_updated: 12
 ingested: 2026-06-27
 tags: [source]
 ---
@@ -59,8 +59,45 @@ barbarian world whose transformation, not whose conquest, is the real story.
 
 ## Pages created / updated
 
-(filled at Step 4 after claim synthesis)
+**Created (22).** Concepts: [[comitatus]], [[salic-law]], [[rois-faineants]]. Processes:
+[[barbarization-of-the-roman-army]], [[frankish-ethnogenesis]], [[merovingian-monasticism]],
+[[christianisation-of-the-frankish-aristocracy]]. Actors: [[visigoths]], [[ostrogoths]], [[brunhild]],
+[[fredegund]], [[chlothar-ii]], [[dagobert-i]], [[pippinids]], [[merovingian-episcopate]]. Places:
+[[francia]], [[austrasia]], [[neustria]], [[aquitaine]], [[provence]], [[bavaria]]. Events:
+[[battle-of-vouille-507]].
+
+**Updated (12).** [[clovis]], [[childeric]], [[merovingian-franks]], [[gregory-of-tours]], [[columbanus]]
+(expanded from skeleton), [[charles-martel]], [[gothic-peoples]], [[ethnogenesis]], [[roman-gaul]],
+[[battle-of-tertry-687]], [[late-antiquity]], [[early-middle-ages]].
 
 ## Volume Synthesis Note
 
-(filled at Step 3)
+Geary's *Before France and Germany* is the single most useful synthesis the wiki has yet ingested for the
+**Merovingian world**, and it slots in as the connective tissue between three bodies of existing content:
+the late-Roman material on [[roman-gaul]] and [[late-antiquity]]; the [[ethnogenesis]] theory the wiki
+already records from the Vienna and Toronto schools (Wenskus, Wolfram, Pohl, Goffart, Halsall); and the
+[[early-middle-ages|Carolingian]] backbone built from the New Cambridge Medieval History. Its central thesis
+— that the barbarian world, and the Franks above all, was *a creation of Rome* — turns the older
+"barbarian invasions" narrative inside out and is mutually reinforcing with the wiki's existing
+[[ethnogenesis]] page: where that page states the model abstractly, Geary supplies the worked cases
+([[visigoths]], [[ostrogoths]], [[frankish-ethnogenesis]]) and the Roman mechanism ([[barbarization-of-the-roman-army]]).
+
+Three arguments span the whole volume and are now distributed across pages that should be read together.
+**(1) Roman continuity under Frankish rule** — privatised administration, the surviving fisc, the
+[[merovingian-episcopate|episcopate]] as the redoubt of the Gallo-Roman aristocracy — links
+[[roman-gaul]], [[francia]], [[clovis]], and [[aquitaine]]. **(2) The social transformation of the seventh
+century** — Columbanian monasticism, family monasteries, a new model of sanctity, and the
+[[pippinids|Pippinid]] capture of the Church — links [[merovingian-monasticism]], [[columbanus]],
+[[christianisation-of-the-frankish-aristocracy]], and [[charles-martel]]. **(3) The manufactured memory of
+the dynasty** — the [[rois-faineants]] myth as Carolingian propaganda — reframes how every later
+[[merovingian-franks|Merovingian]] reign should be read.
+
+Tensions with already-ingested sources are minor and mostly of emphasis. Geary (1988) predates some of the
+Toronto-school sharpening of the ethnogenesis debate the wiki records via Halsall and Goffart, and he leans
+more confidently on the *Traditionskern* model than later scholarship; the [[ethnogenesis]] page already
+carries that critique, so the two sit in productive dialogue rather than contradiction. On [[charles-martel]]
+the wiki's NCMH-based page is sceptical of the "church-land despoiler" reputation; Geary supplies the
+**mechanism** (wholesale takeover of episcopal and monastic offices) without asserting the discredited
+"feudal levy from secularised church land" thesis, so the accounts are complementary. No contradictions
+rose to the level of a [[controversies|controversy]] page.
+

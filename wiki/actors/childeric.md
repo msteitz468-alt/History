@@ -54,7 +54,7 @@ The source treats the burial as a cosmopolitan monument blending traditions at t
 
 **part_of:** early Frankish state formation in northern Gaul.
 
-**See also:** [[merovingian-franks]], [[early-middle-ages]], [[tournai]], [[clovis]] (linked via succession).
+**See also:** [[merovingian-franks]], [[early-middle-ages]], [[tomb-of-childeric-481]], [[clovis]] (linked via succession); buried at **Tournai**.
 
 Grounded exclusively in claims from Bogucki & Crabtree (eds.) 2004 range 07 cache. Links only to pre-established or exclusively created titles.
 
