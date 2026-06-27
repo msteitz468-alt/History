@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [[[akkadian-empire]], [[third-dynasty-of-ur]], [[kassites|Kassite Babylon]], Mesopotamia generally]
 key_events: [[[fall-of-ur-2004bce|the Elamite sack of Ur]], defeat by [[hammurabi|Hammurabi]] (~1764 BCE), Kutir-Nahhunte I's sack of Akkad (~1730 BCE), the building of Dur-Untash (Chogha Zanbil), the Shutrukid sack of Babylon (~1158 BCE)]
 key_processes: [[[state-formation]], [[trade-network-formation]], [[writing-and-record-keeping]]]
-sources_ingested: 3
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [actor, state, early-bronze-age, middle-bronze-age, late-bronze-age, iran-plateau]
 ---
 
@@ -147,6 +147,26 @@ goddesses and royal women. The **Elamite language is an isolate**, related to no
 known tongue (perhaps ancestral to the Lurs), written first in proto-Elamite
 linear script and then in borrowed cuneiform — and still imperfectly understood,
 one of the chief obstacles to Elamite history.
+
+## Liverani's reading
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] presents the **Awan** dynasty as a
+genuine **peer rival** to Akkad in size, demography, and productivity — the hub through
+which lapis, tin, diorite, and semiprecious stones flowed west (Susa, Anshan/Tall-i Malyan,
+Tepe Yahya, Shahr-i-Sokhta) — so that the Akkadian conquest of Susiana *disrupted* the
+network rather than capturing it, and Elam then suffered progressive depopulation while
+Mesopotamia stayed peopled. He emphasises Elam's distinctive **fratriarchal succession**
+(power passing brother-to-brother before descending a generation), institutionalised under
+the **Sukkal-mah** triumvirate, and its **archaic legal culture** even when using Babylonian
+scribal forms: physical (not financial) punishment, **river ordeals**, nail-imprints instead
+of seals, and the religious concept of **kitin** ("divine protection" lost by sin) — though
+that undivided fratriarchal estate was itself fragmenting toward father-son inheritance and
+free land sale in the Old Babylonian period. In the **Middle Elamite** kingdom (from the
+mid-14th century) power shifted inland to **Anshan** ("king of Anshan and Susa"), kings wrote
+in **Elamite** not Babylonian and adopted patrilineal succession — a deliberate assertion of
+local identity — and **Untash-Humban** founded Dur-Untash (**Choga Zanbil**) with a ziggurat
+to rival Babylon's, while Kidin-Hutran exploited the Assyria-Babylonia conflict to raid deep
+into Babylonia. See [[ancient-near-eastern-modes-of-production]].
 
 ## Significance
 

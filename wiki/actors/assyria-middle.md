@@ -9,8 +9,8 @@ affiliated_with: [the city of Ashur]
 opposed_by: [[[mitanni|Mitanni/Khanigalbat]], [[kassites|Kassite Babylonia]], the Aramaeans, the Zagros hillmen]
 key_events: [the liberation under Ashur-uballit I, the annexation of Khanigalbat, the sack of Babylon by Tukulti-Ninurta I, the campaigns of Tiglath-pileser I]
 key_processes: [[[state-formation]], [[imperialism]], [[interpolity-law]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, state, late-bronze-age, mesopotamia, near-east]
 ---
 
@@ -75,6 +75,29 @@ best-documented Late Bronze states. Its character is harsh and bureaucratic:
 - a distinctive **"Middle Assyrian" glyptic** — the first native Assyrian seal
   style, full of combat between demons and monsters, prefiguring the later Assyrian
   taste for "protection from the assault of hostile powers."
+
+## Liverani: Assyrianisation, the obsidional complex, and a three-layer culture
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] traces the policy hardening across three
+reigns. **Adad-nirari I** conquered Hanigalbat and took "king of totality"; **Shalmaneser I**
+switched from vassalage to **direct administration** — replacing the local dynasty with an
+Assyrian *šaknu*, deporting populations and settling Assyrians, a prompt "Assyrianisation";
+**Tukulti-Ninurta I** captured Kashtiliash IV, sacked Babylon and deported Marduk's statue,
+ruled it seven years, and founded a new capital (**Kar-Tukulti-Ninurta**) to escape the
+old balance of temple, eponyms, and great families — provoking the rebellion that killed
+him. Liverani reads Middle Assyrian culture as a **three-layer stratification** — Early
+Dynastic (economic-political), Mitannian (technological-social), and Babylonian (scribal-
+literary-religious) — and its ideology as an **"obsidional complex"**: the Assyrians just,
+ordered, and pious amid chaotic barbarians, so expansion is framed as *defence* of
+civilisation and divine order (Tukulti-Ninurta's prayer; his Babylonian-language epic
+justifying the Marduk deportation). Socially, the **Middle Assyrian Laws** (compiled under
+Tiglath-pileser I) pointedly **lack** the Old Babylonian prologue/epilogue, price-lists, and
+any debt-relief — Liverani suspects the scribes misunderstood codes rooted in a different
+ideology of kingship — and dwell heavily on the punitive subordination of women, the same
+register of physical humiliation Assyria applied to defeated enemies. The palace was a
+smaller "expanded royal residence," not a redistributive great organisation; **royal
+land-grants (ilku)** built the landowning military-administrative aristocracy. See
+[[ancient-near-east-historiography]] and [[ancient-near-eastern-modes-of-production]].
 
 ## Significance
 

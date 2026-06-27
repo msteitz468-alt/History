@@ -7,8 +7,8 @@ period_active: [Middle Bronze Age, Late Bronze Age]
 controlled_by: [independent kingdom (Amorite/Canaanite), in the orbit of [[mitanni|Mitanni]] then a vassal of the [[hittites|Hittites]]]
 events_here: [the 14th–13th c. archive-city zenith; the submission of Niqmaddu II to Šuppiluliuma I; destruction in the ~1200 BCE Sea Peoples horizon]
 processes_here: [[[trade-network-formation]], [[canaanite-civilization]], [[ugaritic-religion]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [place, levant, near-east, late-bronze-age]
 ---
 
@@ -83,6 +83,24 @@ rebuilt**: "the alphabetic script of Ugarit was forgotten... Ugarit's history wa
 ended" (~1185 BCE). The excavator Schaeffer additionally suspected a final
 earthquake; the precise mechanism is debated, but the destruction belongs squarely
 to the **[[bronze-age-collapse-1200bce|Bronze Age Collapse]]**.
+
+## Liverani: commerce, indifference, and the alphabet
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] frames Ugarit as primarily a
+**commercial**, not military, power — "the most important Syrian port within the Hittite
+realm," linked to Cyprus, Cilicia, the Levantine coast, the Egyptian Delta, and Crete — which
+repeatedly preferred **paying tribute to rendering military service**, to the point of open
+complaints from its Hittite overlord in the late 13th century. Its archives (royal plus
+private elite) are his main evidentiary base for LBA Syria, and its scribal school produced
+the widest multilingual record of the age (Akkadian, Sumerian, Hurrian, Ugaritic, Luwian
+hieroglyphs, Hittite, Egyptian, Cypro-Minoan). Crucially, Liverani reads Ugarit's adoption
+of an **alphabetic script** for official local use as the *exception* that proves the rule:
+the Babylonian palace-scribal tradition otherwise relegated alphabets to the margins, and
+only **after the palace schools collapsed** did alphabetic writing spread — the LBA Levant,
+the zone of maximum political fragmentation, being precisely where the alphabet was born.
+Its literature (the **Keret** epic as a foundation myth of kingship; the **Baal Cycle** of
+seasonal death-and-rebirth) encodes a royal and agro-pastoral ideology in which kings were
+**not deified in life** but became *refa'im* after death. See [[ancient-near-east-historiography]].
 
 ## Why this place mattered
 

@@ -9,8 +9,8 @@ affiliated_with: [the [[hurrians|Hurrians]], an Indo-Aryan ruling class, [[new-k
 opposed_by: [[[new-kingdom-egypt|Egypt]] (Thutmose I & III), the [[hittites|Hittites]] ([[shuppiluliuma-i|Šuppiluliuma I]]), [[ashur-uballit-i|Assyria]] (vassal then rival)]
 key_events: [the consolidation of the Hurrian confederacy, the empire of Saustatar (Taurus to Zagros), the marriage alliance with Egypt under Thutmose IV, the destruction by Šuppiluliuma I and the murder of Tushratta]
 key_processes: [[[state-formation]], [[interpolity-law]], [[migration-in-human-history]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, state, late-bronze-age, near-east, mesopotamia, levant]
 ---
 
@@ -86,6 +86,25 @@ the rising Assyria. Its fall **freed Assyria** — "unwished for and of little
 consequence at the moment," but the hinge of the next two centuries. The rump
 kingdom of **Khanigalbat** (the house of Šattuara) fought Assyria into the reign of
 Shalmaneser I, who annexed it (see Section 3).
+
+## Liverani's reading
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] sees Mitanni as the **unification of
+previously fragmented Hurrian city-states**, with the Indo-Iranian wave linked to the
+horse-drawn chariot at its heart (the royal family consistently bore Indo-Iranian names).
+Under **Shaushtatar** it reached its peak, holding [[assyria-middle|Assyria]] as a vassal
+(symbolised by carrying off the gold and silver doors of Ashur) and treating Egypt as an
+equal — though marriages flowed **one way only** (Mitannian princesses to Egypt, never the
+reverse). Mitanni's lasting contribution was spreading the **maryannu** chariot aristocracy
+and Hurrian culture across its sphere, surviving the kingdom's fall. Liverani stresses that
+the capital **Washshukkanni** (Tell Fekheriye) lies submerged in groundwater and
+unexcavated — the single most important **missing archive** of the Late Bronze Age, which is
+why Mitannian society must be reconstructed from peripheral sites like **Nuzi**
+(Yorghan Tepe, in the kingdom of Arrapha) and Alalah — where private archives reveal a
+society in advanced social disintegration (50%-interest loans, *tidennutu* labour-servitude,
+and the fictitious **adoptions** by which men like Tehip-tilla, "adopted" ~100 times,
+amassed thousands of hectares as customary inalienability broke down). See
+[[ancient-near-east-environment-and-society]].
 
 ## Significance
 

@@ -9,8 +9,8 @@ affiliated_with: [the Hattian substrate population, Kizzuwadna (at times), Kassi
 opposed_by: [[[iamkhad|Yamhad/Aleppo]], the [[hurrians|Hurrians]] & [[mitanni|Mitanni]], Arzawa, the Kaska tribes, [[babylon-first-dynasty|Babylon]]]
 key_events: [[[fall-of-babylon-1595bce|the sack of Babylon (~1595)]], the destruction of [[iamkhad|Aleppo]], the [[telipinu-edict-1500bce|Telipinu edict]]]
 key_processes: [[[indo-european-migrations]], [[interpolity-law]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, state, middle-bronze-age, late-bronze-age, anatolia, near-east]
 ---
 
@@ -107,6 +107,32 @@ Kingdom is the bridge to the Empire: out of it emerges
 **[[shuppiluliuma-i|Šuppiluliuma I]]**, who would shatter Mitanni and make Hatti a
 [[late-bronze-age|Late Bronze]] superpower — a story told in
 [[edwards-cah-v2p2-1975|CAH Vol. II.2]] (see Sections 1–3).
+
+## Liverani: rise (not decline), justification, and the demographic trap
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] reframes Old Hittite history as a
+**difficult rise toward the unification of Anatolia** from competing city-states, not the
+breakdown of a prior unity; Hattusili I's move of the capital to Hattusa was the culmination
+of that process. The **"Labarna"** of the Edict of Telipinu never existed as a historical
+king — he is a personification of ideal Hittite kingship projected back to legitimise
+Telipinu's own usurpation — just as the Testament of Hattusili was effectively dictated by
+the usurping Mursili. Liverani **rejects ethnic ("Indo-European heritage") explanations** of
+Hittite traits: the belligerent character, law, and politics were formed within Middle
+Bronze Anatolia, not inherited from steppe pastoralists; the genuine innovation was using
+the Babylonian syllabary to write **Hittite** (distinguishing script from language as the
+Amorite and Hurrian centres did not). Anatolia's resource wealth (timber, copper, silver,
+stone) made its chronic problem **labour shortage**, met by deportation — a structural
+demographic trap that worsened in the empire (grain imported from Mukish and even Egypt:
+"a matter of life or death"). The empire's cohesion rested on **personal loyalty oaths
+(lingai)** in written treaties, more person-specific than the vague Egyptian system.
+Hittite political literature was **justificatory, not celebratory** — addressed to court and
+elite — reflecting an "obsession with being right": war was an **ordeal** proving who the
+gods favoured, and campaigns were planned move-by-move through oracles. Hurrian religion
+peaked in the 13th century via Kizzuwatna and queen Puduhepa, monumentalised at Yazılıkaya. The **tawananna** (queen/queen-mother) held her title for
+life, creating standing rivalry between reigning queen and dowager, and the royal couple
+embodied the divine Storm-god/Sun-goddess pair; the **pankuš** assembly restrained
+aristocratic abuse before fading as the royal-kin elite rose above it.
+See [[ancient-near-east-historiography]].
 
 ## Significance
 

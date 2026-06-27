@@ -7,8 +7,8 @@ date_range: 1,550–1,200 BCE (Near East; regionally variable)
 regions_covered: [near-east, mesopotamia, levant, anatolia, north-africa, iran-plateau, aegean, mediterranean, europe, central-europe, western-europe]
 major_themes: [the great-powers system, international diplomacy, chariot warfare, empire, the palace economy, long-distance luxury trade, the Indo-European expansions]
 collection_coverage: strong
-sources_ingested: 4
-last_updated: 2026-06-26
+sources_ingested: 5
+last_updated: 2026-06-27
 tags: [period]
 ---
 
@@ -44,7 +44,7 @@ This source (2004 encyclopedia of "barbarian" Europe) adds rich archaeological d
 
 These "barbarian" regions participated in the same metal/prestige economies and chariot-using networks but without the literate palace states of the Near East core. Collection coverage note: strong for Europe via this + prior Champion/Cunliffe; gaps remain for direct steppe textual correlates.
 
-**Cross links:** [[concepts/urnfield-culture|Urnfield Culture]], [[concepts/nordic-bronze-age]], [[concepts/sintashta-arkaim-culture]], [[concepts/bronze-age-cyprus]], [[concepts/minoan-civilization]], [[concepts/mycenaean-civilization]], [[places/flag-fen|Flag Fen]], [[places/stonehenge|Stonehenge]].
+**Cross links:** [[concepts/urnfield-culture|Urnfield Culture]], [[concepts/sintashta-arkaim-culture]], [[concepts/bronze-age-cyprus]], [[concepts/minoan-civilization]], [[concepts/mycenaean-civilization]], [[places/flag-fen|Flag Fen]], [[places/stonehenge|Stonehenge]].
 
 
 ## Major Developments
@@ -116,6 +116,28 @@ These "barbarian" regions participated in the same metal/prestige economies and 
 
 Atlantic façade: "The western fringe of Europe, facing the Atlantic, was altogether different. Here, in a broad arc reaching from Scotland to south-western Iberia, the maritime communities were linked in a complex of exchange networks probably stretching back in time at least to the Neolithic period. By the Bronze Age metals were among the more important commodities shipped: copper from Ireland, Wales, and western Iberia; tin from Cornwall, Brittany, and Galicia; and gold from Ireland, Wales, and north-western Iberia. This metal-rich arc will have provided much of the bronze and gold circulating in western Europe..." Intensification in ninth century linked to Phoenician interests in SW Iberia. "The effect of the developing Phoenician interest in Iberia was... to draw the Atlantic coast of the peninsula and of North Africa into the Mediterranean sphere, dislocating the old connectivities of the Atlantic Bronze Age." (west central europe and the mediterranean 96–100; range ~74–284). These developments contributed_to the social differentiation and connectivity that set the stage for Hallstatt C elites. All claims verbatim-grounded in assigned range only.
 
+## Liverani's interpretation
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] treats the Middle-to-Late Bronze
+boundary as a **mere convention** over an essentially continuous internal development — the
+16th-century "dark age" is a documentation gap, and the only true rupture is the 12th-century
+collapse. He dismantles the "mountain people / Indo-European invasion" thesis (Hittites,
+Hurrians, Kassites were not one wave): the real innovation was the **chariot-and-horse
+technical package** (Indo-Iranian terms, the Kikkuli treatise) spread by specialists, not
+mass migration. Chariot warfare elevated the **maryannu** aristocracy into a privileged,
+land-granted, quasi-feudal class, and the king's image shifted from just shepherd to
+**heroic chariot-warrior** — a change Liverani ties to the disappearance of royal *mīšarum*
+debt-edicts, anti-liberation clauses in loans, and the **palace's new solidarity with the
+military elite at the farmers' expense** (his central LBA frame: deepening debt-slavery
+without royal protection). The international system was a formalised two-tier hierarchy of
+**"great kings" (šarru rabû)** and **"small kings"**, bound by an ideology of "brotherhood,"
+gift-exchange, and one-way dynastic marriage, conducted in an imperfect **Akkadian lingua
+franca** — beneath whose rhetoric of generosity lay careful calculation (Egypt repackaged
+reciprocal gifts as one-sided "tribute" for domestic propaganda). The whole system's centre
+of gravity moved **west**, off Babylonia onto the Upper-Mesopotamia–Levant axis, where glass
+(an artificial lapis-substitute) and the **alphabet** were innovated. See
+[[ancient-near-eastern-modes-of-production]] and [[ancient-near-east-historiography]].
+
 ## Key Actors
 
 - Empires/states: [[new-kingdom-egypt|New Kingdom Egypt]] · the [[hittites|Hittite
@@ -185,7 +207,7 @@ and the [[bronze-age-collapse-1200bce|~1200 collapse]]. The chief remaining cave
 that II.2 uses an older "high" chronology and a dated (1960s) treatment of the
 biblical material; and the **subsequent volumes (CAH III.1–III.2, the early Iron Age
 proper) remain unsourced**. Coverage of this period is therefore now **strong**. See
-[[../Outstanding Sources|Outstanding Sources]].
+`Top_100_Structural_Sources.md`.
 
 ## Related
 

@@ -9,8 +9,8 @@ affiliated_with: [the city of Ashur, the rising [[assyria-middle|Middle Assyrian
 opposed_by: [[[mitanni|Mitanni/Khanigalbat]] (former overlord), [[kassites|Kassite Babylonia]] (rivalry begins)]
 key_events: [the liberation of Assyria from Mitanni, the dynastic intervention in Babylon, correspondence with Egypt (the Amarna letters)]
 key_processes: [[[state-formation]], [[interpolity-law]], [[imperialism]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, mesopotamia, near-east]
 ---
 
@@ -61,6 +61,22 @@ into Babylonia, defeated and slew the usurper," and installed his great-grandson
 successors (his son **Enlil-nirari**, then **Arik-den-ili**) fought the Kassites and
 the Zagros hillmen indecisively, the rivalry running on to the decisive victory of
 Tukulti-Ninurta I a century later.
+
+## Liverani: a "prodigious revival" and a calculated diplomacy
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] calls Ashur-uballit's rise "a prodigious
+revival" the surviving evidence cannot fully explain. His decisive move was claiming the
+title **"great king"** — unprecedented for Assyria — and entering the [[amarna-letters|Amarna]]
+network with letters to Egypt that escalated from a "cautious and humble tone" to calling
+the Egyptian king "brother" and bluntly demanding gold (the Assyrians' "intrinsic interest
+in business affairs" being, Liverani notes, an international stereotype). Babylon's
+[[kassites|Kassite]] king protested that Assyria was *his* vassal, but relations normalised
+through a **dynastic marriage** — which Ashur-uballit then exploited, intervening militarily
+to place the infant **Kurigalzu II** on the Babylonian throne after a revolt killed his
+grandson. Liverani's point: he deployed the conventional diplomatic toolkit (great-king
+status, marriage, gift-protest) for **concrete, immediate advantage** — the opening of the
+Assyrian proxy-influence in Babylon that Tukulti-Ninurta I would later escalate. See
+[[ancient-near-east-historiography]].
 
 ## Significance
 

@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [the [[babylon-first-dynasty|First Dynasty of Babylon]] (early clashes), [[elam|Elam]] (eventually)]
 key_events: [first clash with [[babylon-first-dynasty|Samsuiluna]] (~1740 BCE), accession at Babylon after the [[fall-of-babylon-1595bce|Hittite sack]] (~1595 BCE), Agum II's recovery of Marduk's statue, the Middle Kassite "great power" age (Burnaburiaš II, Kurigalzu II) and the Assyrian dynastic intervention]
 key_processes: [[[migration-in-human-history]], [[state-formation]], [[interpolity-law]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, dynasty, middle-bronze-age, late-bronze-age, mesopotamia]
 ---
 
@@ -83,6 +83,30 @@ Two threads dominate:
   culture**, the era of the textual fixation, serialization and Akkadian translation
   of the Babylonian classics — its scholars "the Alexandrians of Babylonian
   literature."
+
+## Liverani: marginality, standardisation, and crisis theology
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] stresses how **opaque** the Kassite
+seizure of Babylon is (the conqueror's name is unknown) and how **marginal** Kassite
+Babylonia became once the LBA centre of gravity shifted to the Syria-Levant axis: it
+struggled to hold "great kingdom" status and traded formal punctilio about rank for "an
+almost uncouth avidity to receive Egyptian gold." Internally he documents a **social
+inversion** of the Old Babylonian order — relatively free functionaries now in the cities,
+servile dependents in the countryside; servile labour, permanent dependence, and rations
+replacing paid labour, contracts, and salaries — amid Lower Mesopotamia's worst demographic
+crisis since Ur III (Diyala down ~50%). Administration was reorganised into **20 provinces**
+under *šaknu* governors and **family "Houses"**, and land was conveyed by the **kudurru**
+boundary-stone (temple-displayed grants with divine-symbol curses). Culturally the Kassites
+left little of their own (only Shuqamuna and Shumaliya survived in the pantheon) but their
+**scribes were decisive**: they created **Standard Babylonian**, fixed the canonical
+editions of the literary corpus (later cited by name in Ashurbanipal's library), and
+produced a literature of **pessimism and individualism** (the Babylonian Theodicy, the
+Dialogue of Pessimism, *Ludlul bel nemeqi*) that Liverani reads as the ideological symptom
+of genuine social crisis — alongside a religious shift from social gods (justice, heroism)
+to **personal protective deities** (Marduk the exorcist, Nabu, Gula) and guardian spirits.
+The dynasty fell not to the Bronze Age Collapse but to **[[elam|Elam]]** (Shutruk-Nahhunte
+and Kutir-Nahhunte). See [[ancient-near-eastern-modes-of-production]] and
+[[ancient-near-east-historiography]].
 
 ## Historiography
 
