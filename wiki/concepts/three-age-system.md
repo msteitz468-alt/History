@@ -5,8 +5,8 @@ origin: "Developed early in the nineteenth century on the basis of the sequence 
 applies_to_periods: ["mesolithic", "neolithic", "chalcolithic", "early-bronze-age", "middle-bronze-age", "late-bronze-age", "early-iron-age"]
 applies_to_regions: ["western-europe", "northern-europe", "central-europe", "eastern-europe", "mediterranean", "british-isles", "iberia"]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-26
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept, periodization, three-age-system, prehistoric-europe, mesolithic, neolithic, bronze-age, iron-age, bogucki-crabtree-ancient-europe-2004]
 ---
 
@@ -53,6 +53,8 @@ The system is acknowledged as a nineteenth-century construct that has proven rem
 - The "Chalcolithic" or Copper Age is often inserted as a transitional stage between Neolithic and Early Bronze in southeastern and central Europe.
 
 The Bogucki & Crabtree glossary reflects the post-1950s consensus that subsistence (domesticates) is now the primary Neolithic marker, illustrating the ongoing refinement of the original tool-technology basis.
+
+**Nineteenth-century popularization.** By the 1880s the system, elaborated by John Lubbock's Palaeolithic/Neolithic split (*Prehistoric Times*, 1865), had passed from museum classification into popular general literature. [[allen-prehistoric-world-1885|Emory Adams Allen's *The Prehistoric World* (1885)]] structures its European chapters straightforwardly as Stone (river-drift and cave men) → Bronze → Iron, and assumes the long, possibly unbridged gap between Palaeolithic and Neolithic that Lubbock's scheme implied — a useful witness to how quickly the tripartite framework became the default popular grammar of prehistory, embedded in the broader [[antiquity-of-man|deep-time revolution]].
 
 ## Collection Coverage Note
 
