@@ -5,9 +5,9 @@ origin: "Archaeological culture defined from type-site Hallstatt, Upper Austria 
 applies_to_periods: ["Early Iron Age"]
 applies_to_regions: ["western-europe", "central-europe", "eastern-europe", "mediterranean"]
 contested: no
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-26
-tags: [concept, early-iron-age, temperate-europe, champion-prehistoric-europe-1984]
+tags: [concept, early-iron-age, temperate-europe, champion-prehistoric-europe-1984, bogucki-crabtree-ancient-europe-2004]
 ---
 
 # Hallstatt Culture
@@ -41,6 +41,14 @@ Followed by [[concepts/la-tene-culture|La Tène Culture]] in 5th c., with shift 
 In 1984 synthesis, Hallstatt seen as climax of hierarchical development in Bronze Age/Iron Age transition, with Mediterranean imitation (e.g. Heuneburg mud-brick bastions "of Mediterranean inspiration") but not full incorporation. Explanations for rich burials once invoked migration/conquest; now tied to internal social reorganization and new prestige bases. "This new prestige burial rite... was also practised, as we have already seen in the previous chapter, in Etruscan Italy" (Ch. 9, ~p. 273, cache ~95-100). Regional variation strong; northern/western Europe show reduced connections.
 
 **Cunliffe 2018 contribution (R01 range, Ch. 2)**: The name and concept of "Hallstatt culture" emerged directly from Ramsauer's excavations (1846–1863) of the salt-mine cemetery (~1,000 graves recorded in watercolours); it was called "Celtic" by convention even then. The site (and its successor Dürrnberg) supplied the type-material for the earlier Iron Age phase. When La Tène was discovered (1857) and correlated at the 1871 Bologna congress with historical Celtic movements (Marzabotto graves matching Champagne/La Tène finds per Livy/Polybius), Hildebrand (1872) formalized the division of the European Iron Age into Hallstatt (earlier) and La Tène (later). Reinecke later subdivided Hallstatt into A–B (Bronze Age origins) and C–D (Early Iron Age). These constructs were etic analytical tools that became central to the traditional "homeland + migration" model of Celtic origins—now contested. All claims grounded in [[sources/cunliffe-ancient-celts-2018|Cunliffe 2018]] (Ch. 2, pp. 40–44, 46, cache ~1450–1560, 1630s). The Hallstatt phase is part of the cumulative development of Celticity rather than its point of origin.
+
+## Phases from Bogucki & Crabtree 2004 (Range 03, Iron Age France / Hallstatt C/D entries)
+
+The source distinguishes Hallstatt C (c. 750–600 B.C.) and Hallstatt D (c. 600–475 B.C.) within the Early Iron Age in France/Gaul context (terminology of central Europe applied regionally). "In France two main patterns can be identified. In the south, on the littoral plains, settlement and political development followed a common Mediterranean pattern with the appearance of numerous small, nucleated settlements, perhaps best described as 'city-states,' with, initially at least, fairly limited territories. In contrast, the rest of France by the time of the conquest was occupied by 'tribal states,' much larger territorial entities that only at a late stage in their development acquired urban settlements (oppida)."
+
+Central/western France largely devoid of Iron Age burials (bias against equating rich burials with wealth; e.g., Arverni king Luernios area, Bituriges under Ambigatus). Rescue excavation revealing small farms/hamlets alongside defended sites and oppida. "Central and western France are largely devoid of burials for the Iron Age. Documentary evidence warns against making simplistic correlations between the occurrence of rich burials and wealth."
+
+All grounded in range 03 (Iron Age France entry, cache lines ~5233–5400+). Note regional variation; Hallstatt C/D provide chronological framework for elite centres, imports, and social differentiation leading to La Tène shifts. Links to Vix (end of Early Iron Age ~480 BCE in Hallstatt D horizon).
 
 **Grounded claims from Champion et al. 1984 range lines 18501-22500 (primarily Ch. 9):** "The early Iron Age Hallstatt culture, extending with considerable regional variation from France to Czechoslovakia and northern Yugoslavia, adopted an inhumation burial rite, frequently under a barrow" (Ch. 9, ~p. 273, cache ~80s). Hallstatt site: "radiocarbon dates suggest that mining may have started before 1000 BC... the greatest wealth of its cemetery came in the seventh and sixth centuries" (Ch. 9, ~p. 290, cache ~940s). "The Heuneburg was clearly the residence of an elite who were able to mobilize local resources to connect themselves to very far-reaching exchange networks" including "fine pottery from Athens and amphorae... silk and the domestic chicken" (Ch. 9 box, ~p. 287, cache ~750s-790s).
 

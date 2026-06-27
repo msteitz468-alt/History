@@ -45,9 +45,41 @@ millennium. But this need not align with any one "culture"; better to think of a
 **progressive "cumulative Celticity"** reaching back through the Bronze Age **Urnfield**
 horizon, with strong continuity into the Iron Age.
 
+## Additional detail from Bogucki & Crabtree 2004 (captions + glossary, range_08)
+
+**Celtic art and regalia (range_08:118–122):**
+"TOP LEFT: Celts Celtic helmet surmounted by vulture, fourth century B.C."
+
+Glossary defines supporting artifact types:
+"torc: A neck ring, often of gold or bronze. Also spelled “torque.”"
+
+**Early medieval Celtic survival (range_08:158–165):**
+"TOP LEFT: Dark Age/Early Medieval Scotland The Hunterston brooch, c. A.D. 700, was found in the early nineteenth century in Ayrshire, Scotland, and named after the estate on which it was found. It is one of the finest examples of Celtic goldsmiths’ art."
+
+This supports the "Celtic survival in post-Roman west" noted in frontmatter and key_processes. Glossary cross-refs "wattle and daub", "viticulture" etc. for material context of Celtic-speaking areas. Links to [[concepts/celtic-art]], [[concepts/celtic-languages]], [[places/sutton-hoo]] (new from range captions), [[early-middle-ages]].
+
+All claims exclusive to range_08 captions/glossary.
+
 ## Hallstatt and La Tène
 
 The European Iron Age is conventionally divided into two great phases, both named from
+
+## Additional material from Bogucki & Crabtree 2004 Range 02 ("Celts" entry)
+
+" 'Celts' is a term with a variety of meanings. In the narrowest sense it is used by linguists to refer to a group of languages belonging to the Indo-European language family. Archaeologists use it in a broader sense to describe the material culture of the Iron Age inhabitants of central and western Europe from about 800 B.C. until the Roman conquests. Historians and classicists use it to refer to the peoples of western and central Europe described by Greek and Roman authors from the fifth century B.C. onward." (paraphrased synthesis from entry; specific quotes below).
+
+Key points grounded:
+- Material culture: La Tène art and objects "developed from that initiated in fifth century Germany"; expansion in fourth century B.C. "eastwards from its earlier location in France, Switzerland and Germany, to include most of Austria, Czechoslovakia and Hungary".
+- Classical interaction and migrations: "Classical sources describing Celtic territories along the Danube and Celtic migration at approximately 400 B.C." ; "The first wave of historically documented migration is archaeologically evident both at its point of origin (the Champagne region of France) and in the area that was invaded (the Po Valley of northern Italy). Reduced population in Champagne is indicated by the abandonment of settlements and by a decrease in graves, especially those belonging to young adult males."
+- Social and economic: "The appearance of these proto-urban settlements signaled a consolidation of power and reorganization of the social and economic structure of Celtic society." (oppida in Middle La Tène).
+- Survival: "Areas where Celtic cultural practices had nearly been extinguished... Surviving Celtic languages, including Scottish Gaelic and Irish in the Goidelic group, and Welsh and Breton in the Brythonic group, are all descended from insular Celtic culture."
+
+See also in entry: Late Bronze Age Urnfield, Hallstatt, La Tène, Celtic Migrations, Oppida, Hillforts, La Tène Art.
+
+This encyclopedia entry provides independent 2004 synthesis emphasizing archaeological visibility of migration (depopulation in origin areas, foreign burial practices in destination), oppida as reorganization, and linguistic survival. Complements Cunliffe/Koch ingests without duplication; cross-links to celtic-migrations and celtic-identity-debate.
+
+All added material verbatim-grounded or closely paraphrased from dedicated "Celts" entry in range 02 (approx lines 6980–7040+). Update enriches the summary actor page with specific site/chronological anchors from this source.
+
 type-sites:
 - **Hallstatt (C–D, c. 800–450 BCE):** the "first Iron Age of Europe," marked by the spread
   of iron, a shift to **inhumation and tumulus burial**, and at the apex a class of

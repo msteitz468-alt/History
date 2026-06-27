@@ -28,7 +28,7 @@
 12. **Timothy Champion, Clive Gamble, Stephen Shennan, Alasdair Whittle** - *Prehistoric Europe* ✅ (ingested 2026-06-26)
 13. **Barry W. Cunliffe** - *The Ancient Celts* ✅ (ingested 2026-06-26)
 14. **John T. Koch** - *Celtic Culture: A Historical Encyclopedia (5 Vol. Set)* ✅ (ingested Vol I 2026-06-26; Vols II–III 2026-06-26)
-15. **Peter I. Bogucki, Pam J. Crabtree** - *Ancient Europe, 8000 B.C. to A.D. 1000: An Encyclopedia of the Barbarian World Edition*
+15. **Peter I. Bogucki, Pam J. Crabtree** - *Ancient Europe, 8000 B.C. to A.D. 1000: An Encyclopedia of the Barbarian World Edition* ✅ (ingested 2026-06-26 via Deployed Subagent Strategy, 8 ranges; ~25+ new pages incl. flag-fen, kelheim, ipswich, birka, hofstadir, childeric, jelling, staraya-ladoga, hillforts, iron-age-feasting, three-age-system etc.; heavy updates to Bronze/Iron/Early Medieval periods, concepts (oppida, hallstatt, la-tene, urnfield), places (heuneburg, stonehenge, manching, etruria), source + log/index. Complements Champion/Cunliffe/Koch ingests. Source filed.)
 
 ### 2. East & Inner Asia
 16. **Li Liu** - *The Chinese Neolithic: Trajectories to Early States* **[MISSING]**

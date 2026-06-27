@@ -101,6 +101,8 @@ association with farming is contingent, not necessary. The "secondary products
 revolution" (Sherratt) — exploiting live animals for milk, wool, traction, and
 riding — unfolded later and unevenly. See [[secondary-products-revolution]].
 
+**Retrospective from Bronze Age sources (Bogucki & Crabtree eds. 2004 Range 01):** In central Europe, Neolithic crops (emmer, einkorn, barley + flax/peas/lentils) and animals (cattle dominant, then sheep/goats/pigs) continued with intensification in the Final Neolithic/Bronze transition: new species (spelt, millet, broad beans, oats); "an increase in the exploitation of the horse—which remained fairly rare after its introduction in the Final Neolithic"; and emphasis on secondary products (milk/dairy, wool, traction via ards/ploughs) enabling diversification, pastoralism/transhumance, and dispersed settlement. "The Bronze Age witnessed an intensification in the agricultural practices carried down from the Neolithic, a process that began in the Final Neolithic with the introduction of a number of important innovations sometimes termed the “Secondary Products Revolution”." Barley may have increased for alcoholic beverages in rituals. These changes produced the mixed farming base seen in MBA sites (e.g. Feudvar). (Grounded in Bogucki & Crabtree 2004, Range 01 Central Europe and SE Europe articles.) This reinforces the process page and links Neolithic foundations to later complexity.
+
 **The Near Eastern pottery-Neolithic sequence (CAH detail).**
 [[edwards-cah-v1p1-1970|CAH Vol. I, Part 1]] (Ch. VII, Mellaart) lays out the
 classic ceramic-culture succession of northern Mesopotamia and the Zagros that the

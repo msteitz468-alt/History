@@ -24,6 +24,31 @@ The generally accepted classification uses Paul Reinecke's scheme: **Hallstatt A
 
 Local variation existed: "A number of local groups within the Urnfield culture can be distinguished, mainly on the basis of styles of pottery and metalwork, but also showing a wide variation in the actual form of burial (e.g. Württemberg... Bohemia... The Lausitz group in southern Poland and eastern Germany is particularly well known for its well-researched cemeteries and its numerous fortified sites."
 
+## Additional detail from Bogucki & Crabtree 2004 Range 02 (dedicated "Late Bronze Age Urnfields of Central Europe" entry)
+
+**Burials:**
+"The Urnfield complex... is known primarily through its burials... Each grave contains one or more ceramic vessels containing the ashes of the deceased individual and ash from the funeral pyre. The only artifacts likely to be found in the urn itself are those worn as body ornament, generally bronze pins and jewelry and glass and amber beads... Some Urnfield cemeteries are enormous. The one at Kietrz in the Silesia region of southern Poland has yielded more than 3,000 burials... At Zirc-Alsómajer in Hungary, more than eighty mounds were built over cremation burials... One of the most monumental Urnfield graves is found at Očkov in Slovakia... Some of the most unusual Urnfield burials are the so-called 'keyhole' enclosures of northwestern Germany and the Netherlands." (range 02 lines ~2340–2420).
+
+"The adoption of cremation as the dominant burial rite suggests a fundamental change in attitude toward the body’s role in the afterlife." (range 02 lines 2420–2430).
+
+**Settlements:**
+"Late Bronze Age people in central Europe lived in various types of settlements, some fortified, others not. Many were large open settlements covering many hectares... At Unterhaching, near Munich, a large, open Late Bronze Age settlement yielded the traces of about eighty houses over an area of about 15 hectares... A major Urnfield settlement is known from Lovčičky in Moravia... Among the best-known Urnfield settlements are the fortified villages set on islands and peninsulas in lakes. The Wasserburg at Bad Buchau... revealed two successive Urnfield settlements. The first one was founded in the twelfth century B.C., with thirty-eight small, one-roomed houses... After a period of abandonment... a smaller palisaded settlement was rebuilt around 1000 B.C. with nine large, multiroom houses... This second settlement was destroyed by fire early in the first millennium B.C." (range 02 lines 2440–2500).
+
+Fortified hilltop settlements (e.g. Burgberg near Burkheim) with elaborate ramparts; many destroyed after short occupation.
+
+**Subsistence, metals, society:**
+New crops (millet, rye, oats, horsebean) for poorer soils and horse feeding. Animal economy: cattle dominant in temperate Europe. "The increasing sophistication in bronze metallurgy... led to the emergence of many new forms of bronze ornaments, tools, and weapons... Swords were introduced earlier... but in Urnfield times they are found with many different lengths and shapes... Body armor occurs in the form of cuirasses... shields, and helmets... small models of wagons and carts... decorated with stylized birds, apparently waterfowl..." (range 02 lines 2560–2610).
+
+"Many archaeologists have argued that the Late Bronze Age saw the emergence of a warrior aristocracy... Yet most people continued to live in small farmsteads and hamlets... The variation among graves in the Urnfield cemeteries suggests clear differences in status and wealth..." (range 02 lines 2610–2640).
+
+**Conclusion in source:**
+"The Urnfield complex very much set the stage for subsequent developments of the first millennium B.C. The Early Iron Age (also known as Hallstatt C and D) that began around 750 B.C. saw the continuation of the practices of cremation burial and settlement fortification." (range 02 lines 2650–2660).
+
+**See also in source:** Warfare and Conquest; Hallstatt; Biskupin.
+
+All added claims verbatim-grounded from range 02 only. Enriches prior definition with concrete site data and social analysis from this encyclopedia. Links to [[concepts/hallstatt-culture]], [[places/heuneburg|Heuneburg]] etc. where relevant.
+
+
 ## Geographic Spread
 
 "The transition to this Urnfield culture may have begun earliest in parts of central Europe, perhaps in Hungary, but within a short space of time the new complex incorporated many areas further west, including much of Italy... By soon after 1000 BC, and possibly even earlier, further areas still had been included, and the Urnfield complex spread as far as Belgium, southern and western France and north-eastern Spain. This cultural tradition was maintained until towards the end of the eighth century."

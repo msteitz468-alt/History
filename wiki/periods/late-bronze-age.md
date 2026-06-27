@@ -31,6 +31,22 @@ letters]]**. It opens out of the [[middle-bronze-age|Middle Bronze Age]] with th
 **[[edwards-cah-v2p2-1975|CAH Vol. II, Part 2]]** (the Amarna climax through the
 collapse, c. 1380–1000 BCE) — between them they now cover the period in full.
 
+## European and Steppe Perspectives from Bogucki & Crabtree 2004 (Range 02)
+
+This source (2004 encyclopedia of "barbarian" Europe) adds rich archaeological detail on temperate and steppe expressions of the Late Bronze Age (broadly 1550/1300–800/500 B.C. regionally), complementing the Near Eastern great-powers focus:
+
+- **Central Europe Urnfield complex**: Cremation urn cemeteries (e.g. Kietrz >3,000 graves); large open settlements (Unterhaching ~80 houses/15 ha) and lake forts (Wasserburg Bad Buchau, two phases, palisaded); sheet bronze armor/vessels/wagon models; lost-wax casting; possible warrior elites with status differentiation in graves; new crops on poorer soils; sets stage for Hallstatt.
+- **Nordic Bronze Age (Periods III–VI)**: Tumuli and cairns; famous oak coffin burials (Egtved Girl dendro ~1370 B.C., Skrydstrup Woman etc.); three-aisled longhouses; elite dress (wool, bronze/gold); sun/ship cosmology (Trundholm); metal imported finished from central Europe; ritual hoards in wetlands.
+- **Britain/Ireland**: Planned field systems (Dartmoor reaves ~1700 B.C.); hoards (votive vs utilitarian); Wessex rich barrow burials with goldwork (~1900–1550 B.C.); Irish gold lunulae → torcs (twisted bar technique, large hoards like Mooghaun); later cremation and settlement hierarchy.
+- **Eurasian steppes**: Srubnaya (west) + Andronovo (east) horizons extend related cultures from Carpathians to Pamirs; permanent timber settlements; massive copper mining (Kargaly); possible herder-gatherer economies; public sacrifices (echoing Rig Veda); contacts with Bactria-Margiana and early Chinese periphery.
+- **Cyprus ("Alashiya")**: Copper export boom, urban ports (Enkomi, Kition), oxhide ingots, Uluburun context; Secondary Products Revolution underpinning complexity.
+- **Aegean**: Minoan palace redistribution (Knossos storerooms, Linear A); Mycenaean palaces, shaft graves → fortified centers, Linear B; Minoan collapse and Mycenaean takeover ~1400 B.C.; international trade collapse ~1200 B.C.
+
+These "barbarian" regions participated in the same metal/prestige economies and chariot-using networks but without the literate palace states of the Near East core. Collection coverage note: strong for Europe via this + prior Champion/Cunliffe; gaps remain for direct steppe textual correlates.
+
+**Cross links:** [[concepts/urnfield-culture|Urnfield Culture]], [[concepts/nordic-bronze-age]], [[concepts/sintashta-arkaim-culture]], [[concepts/bronze-age-cyprus]], [[concepts/minoan-civilization]], [[concepts/mycenaean-civilization]], [[places/flag-fen|Flag Fen]], [[places/stonehenge|Stonehenge]].
+
+
 ## Major Developments
 
 - **The reshuffling of ~1600–1550 BCE** — the [[hittites|Hittite]] king

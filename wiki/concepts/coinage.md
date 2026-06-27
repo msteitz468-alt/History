@@ -5,14 +5,16 @@ origin: monetization as a path-dependent process; coinage invented independently
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [near-east, mediterranean, iran-plateau, south-asia, china, central-asia]
 contested: yes
-sources_ingested: 4
-last_updated: 2026-06-11
-tags: [concept]
+sources_ingested: 5
+last_updated: 2026-06-26
+tags: [concept, iron-age, bogucki-crabtree-ancient-europe-2004]
 ---
 
 # Coinage and Monetization (The Ancient Economy)
 
 ## Definition and Scope
+
+**Iron Age Europe addition (Bogucki & Crabtree 2004 range 03):** Coinage reached temperate Europe ~300 BCE from Greek/Macedonian prototypes (Philip II/Alexander staters and tetradrachms primary models; Massalia/Emporion/Rhode local influences). Two main zones: silver (Balkans–Po–Rhône/Garonne, later quinarius on Roman denarius standard); gold (Bohemia–S Germany–N France–Britain). Bronze/potin (cast high-tin) from 2nd c. BCE in west; inscribed names/titles from 2nd c. Possible spread via mercenaries returning from Hellenistic wars or Celtic migrations. Functions included gift exchange/largesse as much as (or more than) commerce; standardization at oppida; localized struck bronze post-Roman contact in Gaul. Decline after conquest except client-king issues in SE Britain into 1st c. CE. Verbatim grounding: "Coinage was an invention of the Greek inhabitants of Asia Minor in the seventh century B.C.... By the second century B.C. some form of coinage was in use over much of the Continent..." "The inhabitants of southeastern Britain were among the last to adopt..." (range 03, cache lines ~1344–1365, 1590s). See also [[concepts/oppida]], [[concepts/la-tene-culture]], places Manching etc.
 
 This page covers the monetary and economic structure of the Afro-Eurasian world
 1200 BCE–900 CE as analyzed in [[benjamin-cwh-v4-2015|CWH IV]]'s global economic

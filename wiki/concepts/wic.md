@@ -41,6 +41,8 @@ Wics are archaeologically distinctive and differ sharply from contemporary rural
 
 The **Frisian** merchants and sailors (*Fresones*) were the primary professional traders operating across the North Sea network, documented in Frankish sources as far inland as the Rhine and in English sources at London and York. Dorestad, at the junction of the Rhine delta, served as the hub of this Frisian-dominated commerce.
 
+**Additional detail from Bogucki & Crabtree 2004 (range 05):** "These markets, commonly referred to as emporia, were not the spontaneous efforts of merchants and manufacturers. Local rulers’ involvement is apparent in elite-built and maintained fortifications, indicating royal administration and protection, at emporia such as Hedeby, Ipswich, and Hamwic." Ipswich expanded "to a massive 50 hectares" in the early eighth century with "New streets... laid out on a gridiron pattern"; "Ipswich ware was the only wheel-made and kiln-fired pottery produced in England between the seventh and ninth centuries." "It is assumed that wool or cloth was exported in return" for Rhenish imports including wine in wooden barrels (one dated shortly after A.D. 871 matching Mainz tree-ring pattern). See dedicated [[places/ipswich]]. (Bogucki & Crabtree vol. 2, pp. 331–333, 354; range_05).
+
 ---
 
 ## The Wic and the North Sea Economic Zone

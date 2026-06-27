@@ -26,6 +26,8 @@ Sceattas are immediately recognizable by their distinctive form:
 *   **Shape**: Thick and dumpy (a high-relief "dump" flan) rather than the thin, broad flan of Roman or later Carolingian coins.
 *   **Iconography**: Iconographically diverse and often obscure, ranging from degenerate Roman imperial portraits (the "porcupine" type) to interlaced animal ornamentation in the Insular style, runic inscriptions, and Christian crosses.
 
+**Grounded from Bogucki & Crabtree 2004 (range 05, vol. 2 pp. 357–358):** In the seventh century gold gave way to silver; "the silver coins of Frisia and England in the period, known as sceattas, also were small, thick, and lacking in legends." "A brief issue of sceattas minted at Ribe on the west coast of Jutland c. A.D. 720 can lay claim to being the earliest European coinage minted beyond the ancient Roman borders." Carolingian/English reforms produced the broader penny ~A.D. 793. Viking hoards include "Islamic silver dirhams, chiefly of the tenth century; Byzantine silver coins from the same period; and German and English pennies of the late tenth century and the eleventh century." Minting initiated in Bohemia A.D. 960s, Kiev ~A.D. 990. (range_05).
+
 ---
 
 ## The Monetary Transition: Gold to Silver

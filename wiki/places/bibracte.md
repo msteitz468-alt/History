@@ -7,9 +7,9 @@ period_active: ["Early Iron Age"]
 controlled_by: ["Aedui (Gallic polity); site of major Late Iron Age oppidum"]
 events_here: []
 processes_here: ["elite display and state formation in temperate Europe", "modern construction of Celtic identity through excavation"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-26
-tags: [place, early-iron-age, western-europe, cunliffe-ancient-celts-2018, oppida]
+tags: [place, early-iron-age, western-europe, cunliffe-ancient-celts-2018, oppida, bogucki-crabtree-ancient-europe-2004]
 ---
 
 # Bibracte
@@ -44,3 +44,11 @@ As one of the best-documented oppida, Bibracte illustrates the culmination of tr
 - [[sources/cunliffe-ancient-celts-2018|Cunliffe, The Ancient Celts (2018)]]
 - Periods: [[periods/early-iron-age|Early Iron Age]]
 - Processes: [[processes/urbanization-europe|Urbanization in Temperate Europe]]
+
+## Additional Detail from Bogucki & Crabtree 2004 (Range 03, Oppida entry)
+
+" Mont Beuvray lies in a good defensive position on a hilltop that dominates the Morvan mountain range, and it is visible from a considerable distance in all directions. Although the immediate area is agriculturally poor, there are raw resources, such as iron ore, and the oppidum controlled one of the major routes from the Mediterranean to the Atlantic, from the valley of the Saône into the Paris Basin via the River Yonne. Dendrochronological evidence shows that the oppidum was founded about 120 B.C. and initially was surrounded by a rampart low on the hill, enclosing some 200 hectares. This was a murus Gallicus... Somewhat later the site was reduced in size to 135 hectares with a new murus Gallicus rampart, which was repaired regularly, and, finally, in the later first century B.C. by a Fécamp rampart—a massive bank of earth with a sloping glacis front... The site was a major center for consumption—the annual influx of wine amphorae from western Italy must be numbered in the thousands, but the pre-conquest deposits at Mont Beuvray are poorly known, as they are overlain by masonry buildings of the Augustan period. The site saw a massive investment in public and private buildings in the two generations following the conquest, before the population moved to a less-exposed site 20 kilometers away at Augustodunum (Autun) c. 10 B.C. to A.D. 10."
+
+"Caesar, who spent the winter of 52–51 B.C. in the town writing De bello Gallico, tells a little about the state’s oligarchic constitution. He mentions the annual election of the chief magistrate (the vergobret), the existence of an assembly (senatus), and the sources of the state’s income (e.g., the annual auctioning of the right to collect tolls from traders)."
+
+Grounded exclusively in range 03 (John Collis oppida entry, cache lines ~35–95, ~200–250). Updates prior Cunliffe-focused content.

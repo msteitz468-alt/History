@@ -7,9 +7,9 @@ date_range: "1,200–800 BCE (regionally diachronous)"
 regions_covered: [near-east, levant, anatolia, mesopotamia, iran-plateau, mediterranean, iberia, china, south-asia, north-africa, sub-saharan-africa, mesoamerica]
 major_themes: ["aftermath of the Bronze Age Collapse", "iron metallurgy", "Neo-Assyrian resurgence", "Phoenician expansion", "the Greek 'Dark Age'", "Western Zhou and its fall", "Vedic age", "alphabetic writing", "small states and tribal polities"]
 collection_coverage: moderate
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-06-26
-tags: [period]
+tags: [period, bogucki-crabtree-ancient-europe-2004]
 ---
 
 ## Overview
@@ -28,6 +28,15 @@ forms that follow.
 It is a genuinely transitional, uneven period. In the Near East the
 [[neo-assyrian-empire|Neo-Assyrian]] state begins its slow recovery toward the
 first true territorial empire of the [[archaic-period]]. In the Aegean the
+
+## European "Barbarian" Iron Age framing from Bogucki & Crabtree 2004 (Range 02)
+
+This source opens Part 6 "The European Iron Age, c. 800 B.C.–A.D. 400" noting iron technology revolution (ores ubiquitous vs rare copper/tin; foundations for industrial world). Chronology varies: iron widespread in eastern Med by 1200 B.C., Greece by 1000 B.C., central Europe ~800 B.C., Scandinavia ~500 B.C. Hallstatt (earlier, ~800/700–450 B.C., from salt-mine cemetery type site with ~2,000 excavated graves) features inhumation under barrows, four-wheeled vehicles in elite graves, Mediterranean imports (Etruscan drinking sets, Greek pottery), defended hillforts (Heuneburg, Mont Lassois). La Tène (c. 480/450–15 B.C., from Swiss lake deposit) introduces curvilinear "vegetal" art, two-wheeled chariots in some regions, oppida (proto-urban fortified centers signaling power consolidation). Celtic migrations ~400 B.C. (Champagne depopulation + Po Valley settlement; Delphi 279 B.C.). "Germans" emerge in Caesar/Tacitus as eastern Rhine groups (Jastorf archaeology vs La Tène); linguistic/archaeological complexity (no simple equation). Range ends with oppida definition as defended sites.
+
+Enriches collection for temperate Europe transition from LBA Urnfield/nordic/scandinavian complexes to Hallstatt/La Tène/Celtic phenomena. Cross-references [[concepts/hallstatt-culture]], [[concepts/la-tene-culture]], [[actors/celts]], [[concepts/oppida]].
+
+Sources ingested now includes this encyclopedia for European Iron Age start.
+
 Mycenaean palaces are gone and Greece enters its so-called "Dark Age" of reduced
 population, lost literacy, and village-scale life. In China the [[western-zhou]]
 presides over a sophisticated bronze-age dynastic order that will itself fragment
@@ -108,6 +117,8 @@ Urartu emerged from the Hittite wreck; Egypt slid into the
 **The Aegean Dark Age and the Greek migrations (CAH II.2).** [[edwards-cah-v2p2-1975|CAH
 Vol. II.2]] (chapters XXXVI–XL) gives the Aegean side of the period its fullest
 treatment. After the [[mycenaean-civilization|Mycenaean]] palaces fell, Greece passed
+
+**Temperate European "barbarian" Iron Age (Bogucki & Crabtree 2004 range 03 contribution).** In western/central/northern Europe (outside Mediterranean core), the period saw the full adoption and development of iron technology (bloomery process pioneered ~800 BCE in Alpine zone at trade-oriented hillfort centers; solid-state reduction to bloom, hammered to remove slag; initially jewelry and weapons, inferior to bronze for many uses; indigenous development from local bronzesmith traditions, not direct southern transfer; spread by trade/tech transfer). Socially: Hallstatt C (c.750–600 BCE) and D (c.600–475 BCE) phases with defended elite centres (Heuneburg, Mont Lassois/Vix), rich vehicle burials, Mediterranean prestige imports (wine service, Attic pottery, Etruscan bronzes) concentrated at "princely" sites, salt economies. Transition ~mid-5th c to La Tène with warrior aristocracies, distinctive art, two-wheeled vehicles, expansion/migration, then development of large oppida (Manching, Bibracte) with craft specialization, coinage (gold/silver prototypes from Philip II/Alexander/Massalia; potin and quinarius issues; regional zones), standardization, and early state forms (vergobrets, civitates) by 2nd–1st c BCE. Hillforts multifunctional (defense + prestige + central storage, e.g. Danebury grain pits). Rural sanctuaries (viereckschanzen) and feasting (mass wine amphorae in later phases) supported new orders. Regional variation: "tribal states" in much of France vs. Mediterranean-pattern city-states on south coast; British oppida as large dyked royal properties. Culminates in interaction with Rome (Caesar's conquests). Grounded in range 03 only. See [[concepts/hallstatt-culture]], [[concepts/la-tene-culture]], [[concepts/oppida]], [[concepts/hillforts]], [[concepts/viereckschanzen]], [[processes/iron-age-feasting]], places Manching/Vix/Bibracte/Heuneburg.
 into the [[greek-dark-age|Greek Dark Age]] — depopulation, lost
 [[aegean-scripts|Linear B]] literacy, sub-Mycenaean and then **Protogeometric**
 pottery, and the shift from palace to village. The [[dorians|Dorians]] seized the

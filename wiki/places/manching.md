@@ -7,9 +7,9 @@ period_active: ["Early Iron Age"]
 controlled_by: ["late La Tène polity in southern Germany"]
 events_here: []
 processes_here: ["urbanization in temperate Europe", "centralized craft production and exchange"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-26
-tags: [place, early-iron-age, temperate-europe, champion-prehistoric-europe-1984]
+tags: [place, early-iron-age, temperate-europe, champion-prehistoric-europe-1984, bogucki-crabtree-ancient-europe-2004]
 ---
 
 # Manching
@@ -41,3 +41,17 @@ Exemplifies shift where "imports are now found predominantly in the major settle
 - Processes: [[processes/urbanization-europe]]
 - Periods: [[periods/early-iron-age|Early Iron Age]]
 - Other places: other oppida (Stare Hradisko, Stradonice, Hrazany, Colchester, Maiden Castle)
+
+## Additional Detail from Bogucki & Crabtree 2004 (Range 03, dedicated Manching entry)
+
+Manching is exceptional "both for the scale of archaeological investigation that has focused on the site and for the wealth and diversity of material evidence collected there." "Just south of Ingolstadt in the county of Pfaffenhoffen, this 380-hectare site once was situated on a river terrace along the Danube. The unusual setting (most oppida are elevated) was compensated for by its encroachment on a swamp along its northeast side. The supplemental fortification constructed around the exposed portion of the settlement is a 7.2-kilometer-long rampart wall of the murus Gallicus type." "Muri Gallici—timber-laced ramparts fronted by ditches—generally are not seen as far east as Manching." The Kelheim-type rampart is more common in the area.
+
+Excavation history: known from wall remains early 19th c (misidentified as Roman); Reinecke 1903 recognized Celtic character. Major work from 1955–1974 (Krämer) due to airfield construction; later 1984 and 1996+ campaigns. "Materials in all these campaigns are consistent with La Tène C1 (280–220 B.C.) through D1 (120–80 B.C.) dates."
+
+Development: "Evidence for development of the site shows a multiphase sequence of settlement beginning as early as the third century B.C., making Manching one of the older oppida. The earliest settlement is concentrated toward the center... It is likely that the initial construction of the wall (second half of the second century B.C.) was an expression of prestige..." Later rebuilding (dendro 105 B.C. for eastern gate renovation); third stage "reinforces the entire 7.2-kilometer length... function of the wall changed through time from display to defense because... burials of individuals who died of battle injuries attest to an attack on the settlement."
+
+Internal: "The interior of the settlement seems to have been organized to facilitate trade. Structures include rows of stalls, homes, and even warehouses for the agricultural produce that made up the bulk of exchanged goods. Raw materials used in the production of glass, pottery, iron, and bronze indicate that Manching was a thriving center for craft producers. Coins were recovered from the settlement, as were strikes used to mint coinage. Forty-eight imported amphorae that contained Mediterranean wine during transportation are among the items that were traded." Published analyses cover bronze, tools, fibulae, glass, faunal (large sample), graphite pottery, imports, wheel-thrown and painted pottery, human burials.
+
+"See also La Tène (vol. 2, part 6); Oppida (vol. 2, part 6); Hillforts (vol. 2, part 6)."
+
+All grounded verbatim in range 03 only (Susan Malin-Boyce entry, cache lines ~335–520). Complements prior Champion-based content.

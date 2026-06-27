@@ -5,9 +5,9 @@ origin: "Defined from type-site La Tène, Switzerland (lake deposit); standard d
 applies_to_periods: ["Early Iron Age"]
 applies_to_regions: ["western-europe", "central-europe", "eastern-europe", "british-isles"]
 contested: no
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-26
-tags: [concept, early-iron-age, temperate-europe, champion-prehistoric-europe-1984, cunliffe-ancient-celts-2018]
+tags: [concept, early-iron-age, temperate-europe, champion-prehistoric-europe-1984, cunliffe-ancient-celts-2018, bogucki-crabtree-ancient-europe-2004]
 ---
 
 # La Tène Culture
@@ -66,5 +66,11 @@ Culminates in early states and oppida; "by the first century early forms of the 
 Early La Tène (c.450/440–370 BCE) origins as reorientation from Hallstatt core: "In the middle of the fifth century the political geography of barbarian Europe changed dramatically... over much of the west central Hallstatt elite burial zone rich burials ceased and the hillforts occupied by the aristocracy came to an end, in the case of Heuneburg with a catastrophic fire. Meanwhile, in a broad zone to the north stretching from the Loire to Bohemia there developed, in the course of the La Tène A period, a warrior aristocracy which frequently buried its dead with their spears and swords. It was in this zone that the highly distinctive Celtic art style emerged to serve the aristocratic market." "Early La Tène culture differed in many significant ways from that of the old Hallstatt chiefdoms; the geographical focus of the two barely overlapped. In the La Tène burials fighting weapons were frequent, in contrast to the Late Hallstatt elite, whose only weapons were for hunting or display; moreover, the La Tène aristocracy favoured the two-wheeled vehicle as a funerary cart in contrast to the heavier traditional four-wheeled vehicle. The one important similarity was that both had a system of elite burial employing a funerary vehicle together with sets of wine-drinking equipment derived from, or inspired by, the accoutrements of the Mediterranean symposion." (124–125; range ~910–970).
 
 Power centres shifted northward: continuity e.g. in Middle Rhineland (Hohenasperg/Neckar to Moselle focus), with Marne, Loire/Bourges, Bohemia/Dürrnberg as key zones. "two zones of power and innovation: a Loire–Marne–Moselle zone in the west with trading links to the Po valley via the central Alpine passes and the Golasecca culture, and a Bohemian zone in the east with separate links to the Adriatic via the eastern Alpine routes and the Venetic culture." Etruscan beaked flagons and other bronzes concentrated in Middle Rhine elite graves in La Tène A. "the scene was set for a new act in the story of Europe—the Celtic migrations." (126–129; range ~980–1110).
+
+## Additional Detail from Bogucki & Crabtree 2004 (Range 03)
+
+"During the fourth century BC this culture group expanded eastwards from its earlier location in France, Switzerland and Germany, to include most of Austria, Czechoslovakia and Hungary." "by the first century BC there was a marked pattern of standardization in certain products." Oppida as culmination: large fortified nucleated settlements with craft specialization (iron implements, pottery), coin minting, planned streets, elite enclosures. Manching example of 380 ha site with murus Gallicus (unusual this far east), extensive excavation showing production/exchange functions. Imports now at major settlements. "Most of this phase will be the subject of the following chapter, but its initial stages in Champagne... are marked by a series of rich burials which continue some of the traditions of the sixth century." Transition to states: "by the first century early forms of the state had emerged in many areas of Europe."
+
+Grounded exclusively in range 03 (various Iron Age entries, cache lines ~1340s, 2990s, 3060s, 3150s). Enriches existing La Tène page.
 
 All new claims verbatim-grounded in range_02 only. The shift marks the transition from Hallstatt chiefly systems to the warrior/aristocratic societies that carried La Tène material culture and Celtic ethnonyms into the historical record.

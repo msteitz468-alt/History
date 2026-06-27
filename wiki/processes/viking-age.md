@@ -8,8 +8,8 @@ region: [scandinavia, northern-europe, western-europe, british-isles]
 process_type: political
 driven_by: [Scandinavian maritime technology and seafaring, demographic and political pressures in Scandinavia, the wealth of the coastal monasteries and emporia of Christian Europe, the disorder of the post-Carolingian world]
 produces: [the Danelaw, the Duchy of Normandy, settlement of Iceland, intensified North Sea/Atlantic trade, the burh and fortification responses of Frankish and English rulers]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-26
 tags: [process, early-middle-ages, scandinavia]
 ---
 
@@ -54,6 +54,23 @@ leader **Rollo** around Rouen (911, by Charles the Simple) that became the **Duc
 and the colonisation of the previously uninhabited North Atlantic, above all **Iceland** — whose
 king-less society of *goðar* (chieftains) and *thing* (assembly) NCMH II uses as the best window
 onto Scandinavian social organisation before kingship.
+
+**Detailed evidence from Bogucki & Crabtree 2004 (range 06, exclusive claims):**
+Iceland traditionally settled c. 874; Greenland c. 985. Colonists from Scandinavia and British Isles performed *landnám*. In Iceland and the Faeroes the landscape was essentially virgin; in Greenland contact occurred with Dorset Paleo-Eskimo. Vinland (~A.D. 1000) was short-lived due to local hostility.
+
+Rapid environmental transformation: pollen studies indicate ~90% of dwarf birch and willow forests removed in the first century of Icelandic settlement, followed in places by rapid soil erosion. The period of landnám was anomalously warm and stable. Settlers encountered deceptively familiar flora (dwarf willow, birch, grasses) that were closer to biological limits in subarctic conditions than in homelands. Barley cultivation practiced initially but largely abandoned due to climate change and soil depletion.
+
+Zooarchaeology shows shift from "ideal farm" model (high cattle and pigs, modeled on Norwegian chieftain sites like Åker) to sheep-dominated economies in later tenth–eleventh century Iceland; pigs and goats likely major contributors to early deforestation. Greenland early phases retained stronger cattle/pig signatures before similar reduction. Wild resources (sea birds including great auk, walrus colonies near Reykjavík, freshwater fish, seals, caribou) were critical supplements. Marine fish (cod, haddock) grew in importance in Iceland; seals dominant in Greenland (isotopic evidence shows increasing marine protein over time).
+
+Settlement strategy: rapid widespread dispersal (including high inland sites around Lake Mývatn in first generation); "Skallagrim strategy" of diversified holdings across environmental zones and tenant farms to secure claims. By A.D. 930 Iceland had self-governing *things*; assemblies adopted Christianity (with some pagan allowance) in 1000. Greenland had chiefly society and adopted Christianity c. 1000; bishopric obtained 1127 via polar bear gift to Norwegian king. Eastern settlement (south) larger than western (Nuuk area); population estimates 3,000–6,000 total.
+
+Extinction: Western settlement ~1350; Eastern ~1450. Factors: climate cooling, Thule Inuit contact (after ~1200; mixture of friendly/hostile encounters with sophisticated whale/seal hunters), declining European ties, and vulnerabilities from initial landnám choices. Hofstaðir (near Mývatn) exemplifies a high-status tenth-century chieftain farm with large hall (4× average floor area), pit-house midden, iron smelting, and ritual abandonment c. 1000 (beheaded sheep on floor; roof-displayed animal skulls deposited).
+
+**Grounded verbatim:**
+- "pollen studies suggest that 90 percent of the dwarf birch and willow forests present at landnám were removed in the first century of settlement." (range_06_39696_47634.txt: 990)
+- "By A.D. 930 the Icelanders had set up a self-governing system of local and national things (assembly places) intended to regulate competition among chieftains..." (range_06_39696_47634.txt: 820)
+- "Around A.D. 1350 the smaller Norse western settlement became extinct, and by around 1450 the larger eastern settlement followed suit." (range_06_39696_47634.txt: 900)
+- Hofstaðir details and ritual (see dedicated place page).
 
 ## End Conditions
 

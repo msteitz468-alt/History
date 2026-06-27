@@ -7,9 +7,9 @@ period_active: ["Early Iron Age"]
 controlled_by: ["local Hallstatt elite"]
 events_here: []
 processes_here: ["Hallstatt elite competition and Mediterranean exchange"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-26
-tags: [place, early-iron-age, temperate-europe, champion-prehistoric-europe-1984]
+tags: [place, early-iron-age, temperate-europe, champion-prehistoric-europe-1984, bogucki-crabtree-ancient-europe-2004]
 ---
 
 # Vix
@@ -38,6 +38,16 @@ Demonstrates "the effects of this trade with the classical world... in the impor
 - Places: [[places/heuneburg|Heuneburg]] (parallel elite centre); [[places/mont-lassois|Mont Lassois]] (the associated hillfort)
 - Periods: [[periods/early-iron-age|Early Iron Age]]
 - Actors: [[actors/celts|The Celts (Iron Age Europe)]]
+
+## Additional Detail from Bogucki & Crabtree 2004 (Range 03, dedicated Vix entry)
+
+"At the small settlement of Vix near Châtillon on the upper Seine River in eastern France, an unusually richly outfitted grave was excavated in 1952 and 1953. Numerous burial mounds are still visible around the fortified hilltop site of Mont Lassois, but the mound above the Vix grave had eroded and was no longer apparent on the surface. Excavations revealed the remains of a mound 42 meters in diameter and probably about 5 meters high, within which was a wooden chamber 3.1 by 2.75 meters in size, covered by a layer of stones. Inside was an undisturbed burial that included the skeletal remains of a woman about thirty-five years of age, buried c. 480 B.C., at the end of the Early Iron Age."
+
+"The woman’s body was laid on the box of a wagon in the center of the grave, with her head toward the north. The wagon’s detached four wheels had been arranged along the east wall of the chamber. On the western side was an extraordinary assemblage of ceramic, bronze, and silver vessels. Around her neck the woman wore a uniquely ornamented gold ring of exceptionally fine workmanship, weighing 480 grams. At the two terminals were lion paws, tiny winged horses, and intricately incised ornamentation." "On each wrist she wore three bracelets of schist and one of thin bronze. A necklace was made of amber, diorite, and serpentine beads. On each ankle was a hollow bronze ring. With her were eight fibulae... Two were of iron, the other six of bronze, and some were ornamented with gold, amber, and coral."
+
+Feasting equipment: "eight vessels, at least six of them imports from the Greek and Etruscan worlds. Two wine cups were products of the luxury ceramic industry in Athens. One was painted in the black-figure style about 525 B.C., and the other was a plain black cup made about 515 B.C. A bronze jug and three basins all may have come from Etruscan workshops in Italy. A silver bowl with a central omphalos, or knob, of sheet gold was 23 centimeters in diameter. The most unusual object in the grave was an enormous bronze krater, a kind of vessel used in the Greek world for mixing wine and water at feasts, made by Greek bronzesmiths. The Vix krater is 1.64 meters tall and weighs 208 kilograms—the largest metal krater known."
+
+All claims verbatim-grounded in range 03 only (Vix entry, cache lines ~4677–4750+). Enriches prior content from other sources.
 
 ## Additional Evidence from Cunliffe 2018 (Ch. 5 range)
 

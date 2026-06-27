@@ -7,8 +7,8 @@ period_active: [Early Middle Ages]
 controlled_by: [Danish kings (early state formation), regional chieftains, Icelandic goðar]
 events_here: [foundation of Ribe, construction of the Danevirke and Kanhave canal, settlement of Iceland]
 processes_here: [[[viking-age]], early Scandinavian state formation, North Sea and North Atlantic trade]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-26
 tags: [place, scandinavia, early-middle-ages]
 ---
 
@@ -46,6 +46,8 @@ slaves, and much land was held by magnates and worked by tenants.
 Scandinavia's combination of seafaring skill, commercial wealth (Ribe, later Hedeby and Birka), and
 incipient royal organisation generated both the Viking expansion outward and, in the longer run, the
 medieval kingdoms of Denmark, Norway, and Sweden.
+
+**Additional evidence from Bogucki & Crabtree 2004 (range 06):** Birka (A.D. 750–970, island in Lake Mälaren west of Stockholm) yielded abundant local and imported textiles (linen, wool, Byzantine silk) preserved by metallic salts, plus evidence of craft workshops. Oseberg ship burial (southeastern Norway, A.D. 834 wealthy female grave) contained textile production tools (weaving tablets with unfinished braid). Jewelry workshops documented at Helgö, Birka, Ribe, and Hedeby. Clinker boatbuilding tradition and dugout expansion techniques supported trade and colonization (see early-medieval-boatbuilding concept). North Atlantic *landnám* (Iceland c. 874, Greenland c. 985) originated from these Scandinavian homelands and emporia, with rapid landscape impacts documented archaeologically.
 
 ## Historiography
 
