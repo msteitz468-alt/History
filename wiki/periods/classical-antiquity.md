@@ -28,14 +28,14 @@ Classical Antiquity (500–31 BCE) is, per CLAUDE.md, the **best-covered period 
 the collection**, and in [[benjamin-cwh-v4-2015|CWH IV]] it is the "midday" of the
 volume — the period of the largest, most articulate, and most interconnected
 states yet seen. Four great imperial trajectories unfold and begin to touch: the
-Greek world passes from its classical zenith through Alexander's conquests into
+Greek world passes from its classical zenith (the polis at its height, with c. 1,000–1,500 poleis total across the Greek world and high urbanisation even in small poleis) through Alexander's conquests into
 the cosmopolitan **[[hellenistic-world|Hellenistic]]** kingdoms; **[[roman-republic|Rome]]**
 rises from an Italian city-state to master of the Mediterranean; the
 **[[mauryan-empire|Mauryan Empire]]** unifies most of India; and **[[qin-dynasty|Qin]]**
 and early **[[han-dynasty|Han]]** China create a centralized bureaucratic empire
 that endures, in form, for two millennia. By the end of the period these systems
 are linked end-to-end for the first time by the **[[silk-roads|first Silk Roads
-era]]**.
+era]]**. The polis continued as the dominant Greek political form (now mostly dependent but retaining internal self-government) well beyond the Classical period.
 
 The conventional terminus (31 BCE, Actium) marks the end of the Roman Republic and
 the Hellenistic kingdoms alike and the threshold of the [[late-antiquity|Roman

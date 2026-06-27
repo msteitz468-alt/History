@@ -2,7 +2,7 @@
 **Focus Area:** Hub/Civilizations & Hub/Regions Expansion  
 **Protocol:** Large-Volume Protocol (Macro-structural baselines prior to discrete extraction)
 
-**Acquisition Status:** ✅ = already ingested (source page + pages created in wiki). **[MISSING]** = not acquired in raw/. See CLAUDE.md for this being the active ingest list. (Current: 28 completed, 19 missing.)
+**Acquisition Status:** ✅ = already ingested (source page + pages created in wiki). **[MISSING]** = not acquired in raw/. See CLAUDE.md for this being the active ingest list. (Current: 29 completed, 18 missing.)
 
 ---
 
@@ -50,7 +50,7 @@
 28. **Trevor Bryce** - *The Routledge Handbook of the Peoples and Places of Ancient Western Asia* ✅ INGESTED 2026-06-27 (2009; ~500k-word A–Z gazetteer of ~1,500 ANE peoples/places, EBA→fall of Persia. **Focused reference ingest** into the already-strong ANE wiki, per hybrid-depth: used to fill genuine page gaps + enrich existing pages, not to mine all entries. 5 new: places [[eshnunna]], [[hamath]], [[persepolis]]; actors [[mannaea]], [[luwians]]. 9 updated incl. folding Bryce detail into the existing [[hattusha]] and [[iamkhad|Yamhad]] pages (transliteration-variant duplicates avoided — see skill-obs #23) + [[neo-assyrian-empire]], [[urartu]], [[achaemenid-empire]], [[arameans]], [[neo-hittite-states]], [[amorites]], [[hittites]]. 0 broken links.)
 29. **Trevor Bryce** - *The Kingdom of the Hittites* ✅ (ingested 2026-06-27 via Deployed Subagent Strategy, 7 ranges; the political-military spine of Hatti — filled the Empire + Fall narrative on the hittites page; 22 pages created incl. the Šuppiluliuma I biography hub + hittite-vassal-treaties concept, 22 updated)
 30. **Trevor Bryce** - *The World of the Neo-Hittite Kingdoms: A Political and Military History* ✅ INGESTED 2026-06-27 (2012; the standard single-author political-military history of the Syro-Hittite states. **Deployed Subagent Strategy** — 2 Sonnet agents over the two kingdom-heavy chapter blocks (ch5–6 Euphrates/Anti-Taurus; ch7–9 SE Anatolia/Aramaean) drafting place pages; main thread authored the source page, Part I/III narrative, and reconciliation. 9 new: places [[melid]], [[kummukh]], [[gurgum]], [[unqi-pattin]], [[tabal]], [[tuwana]], [[que-adanawa]], [[bit-agusi-arpad]]; concept [[biblical-hittites]]. 3 updated: [[neo-hittite-states]] (continuity-vs-migration synthesis + member-kingdom index), [[luwians]], period [[early-iron-age]]. 0 broken links.)
-31. **William G. Dever** - *Beyond the Texts: An Archaeological Portrait of Ancient Israel and Judah*
+31. **William G. Dever** - *Beyond the Texts: An Archaeological Portrait of Ancient Israel and Judah* ✅ INGESTED 2026-06-27 (2017; the leading archaeology-first history of Israel/Judah, Dever's centrist "Syro-Palestinian archaeology" magnum opus. **Deployed Subagent Strategy** — 3 Sonnet agents over the meaty chapters (ch3 Emergence, ch4 Tenth Century, ch5–6 Iron IIB/IIC) drafting the two controversy pages + claim digests; main thread authored the source page, the Ch1 method concept page, the Lachish page, and all reconciliation. 4 new: concept [[biblical-archaeology]], controversies [[controversies/emergence-of-early-israel|emergence-of-early-israel]] + [[controversies/historicity-of-the-united-monarchy|historicity-of-the-united-monarchy]], place [[lachish]]. 12 updated: [[david]], [[solomon]], [[jerusalem]], [[hebrew-kingdom]], [[kingdom-of-israel]], [[kingdom-of-judah]], [[omride-dynasty]], [[hezekiah]], [[philistines]], events [[fall-of-samaria-722bce]] + [[sennacherib-siege-jerusalem-701bce]], period [[early-iron-age]]. 0 broken links (changed files).)
 32. **K. L. Noll** - *Canaan and Israel in Antiquity: A Textbook on History and Religion*
 
 ### 5. Ancient Iran & Mesopotamia
@@ -65,7 +65,7 @@
 39. **Jonathan M. Hall** - *A History of the Archaic Greek World, ca. 1200-479 BCE*
 40. **Robin Osborne** - *Classical Greece 500-323 BC*
 41. **Peter Thonemann, Peter James** - *The Hellenistic Age*
-42. **Mogens Herman Hansen** - *Polis: An Introduction to the Ancient Greek City-State*
+42. **Mogens Herman Hansen** - *Polis: An Introduction to the Ancient Greek City-State* ✅ (ingested 2026-06-27 via Deployed Subagent Strategy; 1 page created, 5 updated; primary anchor for [[concepts/polis]])
 
 ### 7. Rome & The Classical Mediterranean
 43. **Walter Scheidel, Ian Morris, Richard P. Saller** - *The Cambridge Economic History of the Greco-Roman World*

@@ -19,7 +19,7 @@ networks" comes decisively into being. Three world-historical developments
 converge: the maturation of the first true **territorial empires** (Neo-Assyrian,
 Neo-Babylonian, and above all [[achaemenid-empire|Achaemenid Persian]]); the
 explosion of Mediterranean civic life through Greek and Phoenician
-**colonization** and the consolidation of the [[greek-polis|polis]]; and the
+**colonization** and the consolidation of the [[polis|polis]]; and the
 intellectual ferment that Karl Jaspers called the **[[axial-age|Axial Age]]** —
 the roughly simultaneous emergence, between c. 800 and 200 BCE, of the religious
 and philosophical traditions (Hebrew prophecy, Greek philosophy, the Buddha and
@@ -46,8 +46,8 @@ ideology. See [[empire]] and [[state-formation]].
 
 **Greek colonization and the polis.** Between c. 750 and 550 BCE Greek
 city-states planted colonies from the Black Sea to Spain, while the
-[[greek-polis|polis]] crystallized as a distinctive form of self-governing civic
-community. [[coinage]] (invented in Lydia c. 600 BCE) and the mature
+[[polis|polis]] crystallized as a distinctive form of self-governing civic
+community through *synoikism* (political fusion of villages). There were ultimately c. 1,500 poleis (most small, with only a few hundred to a few thousand adult male citizens); the polis was simultaneously city and state. [[coinage]] (invented in Lydia c. 600 BCE) and the mature
 [[alphabet|alphabet]] spread with trade. Hesiod and the Homeric poems are written
 down; lawgivers (Draco, Solon) and tyrants reshape civic order — the matrix from
 which [[classical-antiquity|classical]] Athens and Sparta emerge.
