@@ -34,9 +34,17 @@ Associated burials: groups of mounds including Hohmichele (80m diameter, 14m hig
 
 ## Related
 
-- Source: [[sources/champion-prehistoric-europe-1984|Champion et al., Prehistoric Europe (1984)]]
-- Concepts: [[concepts/hallstatt-culture]]
+- Source: [[sources/champion-prehistoric-europe-1984|Champion et al., Prehistoric Europe (1984)]]; [[sources/cunliffe-ancient-celts-2018|Cunliffe, The Ancient Celts (2018)]]
+- Concepts: [[concepts/hallstatt-culture]]; [[concepts/atlantic-system|Atlantic System (Bronze–Iron Age)]]
 - Processes: [[processes/urbanization-europe]]
-- Places: [[places/etruria]] (Mediterranean parallels); other sites like Vix/Mont Lassois
-- Periods: [[periods/early-iron-age|Early Iron Age]]
-- Actors: [[actors/celts]]
+- Places: [[places/vix|Vix]]; [[places/mont-lassois|Mont Lassois]]; Mediterranean parallels in Etruria
+- Periods: [[periods/early-iron-age|Early Iron Age]]; [[periods/late-bronze-age|Late Bronze Age]]
+- Actors: [[actors/celts|The Celts (Iron Age Europe)]]
+
+## Additional Evidence from Cunliffe 2018 (Ch. 5 range)
+
+The site was "built on a plateau overlooking the Danube. The earliest Hallstatt rampart was constructed in the middle of the seventh century, and the site continued in use for some 200 years. During Hallstatt D1 the defences of the plateau enclosure were completely remodelled in a style unique in Transalpine Europe: stone wall footings were laid with hollow, forward-projecting bastions regularly spaced along its west side. Above the foundations the wall was built of carefully squared mud-bricks of regular size and shape. This alien structure, so clearly the concept of a Greek mind, and presumably overseen by a Greek architect, is a striking example of the willingness (and ability) of the local Hallstatt elite to adopt totally foreign modes of expression in the interests of displaying status and power." The defended site overlooked a lower town "tightly packed with buildings and... defended by a five-metre-high rampart fronted by a massive ditch." Beyond lay "as many as fifty" farmsteads; "in all, the early sixth-century settlement extended over about 100 hectares and probably housed about 5,000 people." (west central europe and the mediterranean 109–110; range ~549–580).
+
+"the colony of Massalia was now contributing to the aristocratic culture of the West Hallstatt zone... some exotic products... may well have been transported via Massalia and the Rhône corridor to add a touch of the exotic to the Hallstatt feast enhanced by Massiliot wine." After destruction of mud-brick phase "about 530/520 bc, contact with the Mediterranean world developed even more strongly. It was about this time that the outer settlement of farmsteads seems to have been largely abandoned and part of the former settlement area was used to create the aristocratic cemetery of Gießhübel-Talhau." (110–112; range ~580s–760s).
+
+Exemplifies the shift to fewer, richer centres in Hallstatt D2–3 and the prestige goods economy in which the Heuneburg elite manipulated Mediterranean imports (Attic pottery, Massiliot amphorae) alongside local production of lower-value ornaments for gift exchange. Contributed to the re-formation of west-central European power structures before the La Tène transition. All new claims verbatim-grounded in range_02 only.

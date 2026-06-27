@@ -77,11 +77,17 @@ The phenomenon bridges the later Neolithic/Chalcolithic and Early Bronze Age and
 
 - Periods: [[periods/chalcolithic|Chalcolithic]], [[periods/early-bronze-age|Early Bronze Age]]
 - Places: [[places/stonehenge|Stonehenge]], [[places/durrington-walls|Durrington Walls]], [[places/varna|Varna]]
-- Concepts: [[concepts/three-age-system|Three Age System]], [[concepts/culture-historical-archaeology|Culture-Historical Archaeology]]
+- Concepts: [[concepts/three-age-system|Three Age System]], [[concepts/culture-historical-archaeology|Culture-Historical Archaeology]], [[concepts/atlantic-system|Atlantic System (Bronze–Iron Age)]]
 - Source: [[sources/champion-prehistoric-europe-1984|Champion et al., Prehistoric Europe (1984)]]
 - Processes: [[processes/bronze-age-social-differentiation|Bronze Age Social Differentiation in Europe]]
 - Actor: [[actors/childe-v-gordon|V. Gordon Childe]] (older pastoralist-invasion models critiqued here)
 
+## Atlantic and Long-Term Connectivity Note (Cunliffe 2018 range)
+
+The Atlantic façade networks (broad arc Scotland to SW Iberia) that carried metals in the Bronze Age and into the Iron Age have deep roots potentially intersecting Beaker distributions in western zones. However, the assigned range emphasizes that Atlantic maritime exchange "probably stretching back in time at least to the Neolithic period" provided the substrate for later metal trade (copper, tin, gold) without requiring direct Beaker-to-Celtic continuity claims here. (west central europe and the mediterranean 96; range ~142–150). Grounded only in range_02 references; primary Beaker treatment remains from prior source.
+
 ## Sources Ingested
 
 - Champion et al., *Prehistoric Europe* (1984), Ch. 6 (primarily pp. 163–195 and related discussion of the third millennium BCE horizon). All claims grounded exclusively in this range. 
+
+**Cunliffe 2018 contribution (R01 range, Ch. 3)**: The Beaker phenomenon (Maritime Bell Beakers originating in the Tagus region of Portugal ~2800–2700 BCE) represents a phase of intensified mobility and connectivity along Atlantic networks established since the Neolithic. The "package" (fine pottery, archery equipment, metal items) spread rapidly; local clays used for vessels show transmission of concept and associated values/skills rather than pots themselves. Driven in part by prospecting for copper, gold, tin (earliest regular tin bronze in Atlantic metal-rich arc ~2100 BCE). Isotope studies show population mobility (e.g., Amesbury Archer from western Alps). By end of period (~2200 BCE) enclaves reached Hungary. Distribution largely coincident with later extent of Celtic place names. Supports hypothesis that Celtic developed as Atlantic *lingua franca* (from earlier Indo-European introduced with farmers) and spread eastward with Beaker mobility, rather than originating in central European Early Iron Age. Kurgan and Anatolian models for broader IE; possible compromise (early wave + later steppe). All verbatim grounded in [[sources/cunliffe-ancient-celts-2018|Cunliffe 2018]] (Ch. 3, pp. 60–65, cache ~2130–2340). Contributed to Atlantic System connectivity and Celtic language spread.

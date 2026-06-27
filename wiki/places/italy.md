@@ -26,6 +26,8 @@ Boot-shaped peninsula extending into the central Mediterranean, divided by the A
 - Papacy in Rome shaped European religion and politics for centuries.
 - 19th-20th c. unification and modern nation-state role in European wars and EU.
 
+**Iron Age Celtic migrations (Po valley/Cisalpine Gaul):** The Celtic settlement in the Po valley created "the continuous threat created by the Celtic settlement in the Po valley" instrumental in early Roman military development (Polybius). 4th-c movements brought La Tène groups (Boii, Senones); continued social links with northern homelands transmitted Graeco-Italic artistic ideas back (Vegetal Style helmets/motifs shared with Marne). See [[actors/celts]], [[concepts/celtic-migrations]], [[sources/cunliffe-ancient-celts-2018]]. (Grounded in Cunliffe 2018 range.)
+
 See: [[rome.md]], [[renaissance]], [[venice]], [[genoa]], [[classical-antiquity]], [[late-antiquity]].
 
 **Prehistoric/Early Iron Age temperate/Med content from Champion et al. 1984 Ch. 9-10 (R06 range 18501-22500):** Etruscan state formation and city network in central Italy provided models imitated in temperate Europe (e.g., Heuneburg mud-brick defences "of Mediterranean inspiration"). Temperate oppida/towns and early states paralleled earlier Mediterranean developments "500 years earlier". Trade/contact from Mediterranean (incl. Etruria/Italy) visible in imports (wine amphorae, vessels) and assimilation of central Italy first. See [[actors/etruscans]], [[places/etruria]], [[processes/urbanization-europe]], [[concepts/hallstatt-culture]], [[concepts/la-tene-culture]]. Sources_ingested: 6; last_updated updated.

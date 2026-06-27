@@ -5,9 +5,9 @@ origin: "Modern debate intensified 1990s–2010s; critiques of 19th/early 20th c
 applies_to_periods: ["Late Bronze Age", "Early Iron Age", "Classical Antiquity", "Late Antiquity"]
 applies_to_regions: ["europe", "western-europe", "british-isles", "iberia"]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-26
-tags: [concept, celts, historiography, identity, cunliffe-ancient-celts-2018]
+tags: [concept, celts, historiography, identity, cunliffe-ancient-celts-2018, koch-celtic-culture-encyclopedia-2006]
 ---
 
 # Celtic Identity Debate (archaeology vs linguistics)
@@ -27,6 +27,18 @@ From range_06 index entries for "Celts in retrospect" 393–402:
 - The retrospect synthesizes how identity was constructed across these zones, with emphasis on variation and long-term processes rather than a unitary 'Celtic' ethnos tied to one archaeological horizon.
 
 The 2nd edition framework (reflected in source page planning) critiques 19th/early 20th c. linguistic/archaeological models (Hallstatt/La Tène 'homeland' + invasion/migration narratives) and engages the Atlantic origins hypothesis for Celtic language (as lingua franca spreading eastward with Beaker mobility).
+
+## Koch 2006 Framing (Vol I Introduction)
+
+Koch (ed.), *Celtic Culture: A Historical Encyclopedia* (2006), Vol I Introduction, directly addresses the post-Celtoscepticism consensus: "In the wake of this episode of ‘Celtoscepticism’, the relatedness and common origins of the Celtic family of languages remain unchallenged scientific facts, and the name ‘Celtic’ for this family—given that all such terms are ultimately arbitrary—is no more misleading or historically unjustified than such well-established and undisputed terms as, say, ‘Germanic’ or ‘Semitic’."
+
+On material culture: "the idea that certain types of non-linguistic culture—such as artefacts in the La Tène style—can be meaningfully described as ‘Celtic’ now requires greater circumspection. There are few, if any, types of artwork, weapons, or ritual sites, for example, for which it is likely, or even reasonable, to expect that there would have been a one-to-one correspondence between those who used them and speakers of Celtic languages, or speakers of Celtic languages only..."
+
+Defining criterion: "the defining criterion of ‘peoples and countries that do, or once did, use Celtic languages’ and also an index of connectedness to the Celtic languages have been borne in mind when branching out into other cultural domains..."
+
+Etymology and name forms are "diagnostic of Celticity"; the Encyclopedia supplies Celtic-language forms to counter "invisibility of the Celtic languages".
+
+This source (2006) thus codifies the linguistic-primary position while acknowledging the 1990s–2000s crisis and the need for circumspection on archaeological "packages". Complements Cunliffe's Atlantic hypothesis engagement.
 
 ## Relation to Celtic Survival (Ch. 14 grounding)
 

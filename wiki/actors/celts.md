@@ -9,7 +9,7 @@ affiliated_with: [the Hallstatt and La Tène cultures, Mediterranean trade partn
 opposed_by: [Rome, the Greek and Etruscan cities, later Macedon]
 key_events: [the Hallstatt princely tombs, the La Tène expansion from c. 450 BCE, the migrations into Italy and the Danube basin, Mons Graupius (AD 83/84, last chariot battle vs Rome), Boudican revolt, client kingdoms (Prasutagus, Cogidubnus, Cartimandua), Roman conquest and retreat (60 bc–ad 100), Irish settlements and British migration to Brittany (4th–5th c AD), Celtic survival in post-Roman west]
 key_processes: [the "cumulative Celticity" of Iron Age Europe, the Celtic migrations, Mediterranean–temperate exchange, transformation to urban-based states and coinage (200–50 BCE), Romanization vs. peripheral survival, Celtic language survival and ethnic readjustments (ad 300–500), religious systems persistence]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-26
 tags: [actor, movement, classical-antiquity, western-europe, late-antiquity, british-isles, early-iron-age]
 ---
@@ -26,7 +26,7 @@ part of the volume's coverage of the **North** — one of the few substantial tr
 Celtic Europe in the wiki, a region the collection covers thinly.
 
 Cunliffe defines a Celt as "a person who spoke the Celtic language" (a workable generalization
-acknowledging that some spoke multiple languages or used Celtic as lingua franca). The term
+acknowledging that some spoke multiple languages or used Celtic as lingua franca). Koch (ed. 2006) codifies the post-Celtoscepticism position: the defining criterion is "peoples and countries that do, or once did, use Celtic languages", with greater circumspection for non-linguistic (e.g. La Tène) extensions. The term
 has multiple historical realities: classical ethnonym (Keltoi/Celtae general; Galli/Galatae
 for specific migrants), linguistic family (Continental and Insular branches, with earliest
 direct evidence 8th c. BCE in SW Iberia), and archaeological material culture (Hallstatt and

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processes/attrition-warfare-wwi.md",
+                "file": "places/norse-scandinavia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "attrition-warfare-wwi"
+              "title": "norse-scandinavia"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Merovingian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,32 +186,32 @@
   },
   "active": "3add5c8af9938fc5",
   "lastOpenFiles": [
-    "places/vix.md",
-    "places/la-cotte-de-st-brelade.md",
-    "places/manching.md",
-    "places/heuneburg.md",
-    "places/unetice.md",
-    "places/wessex.md",
-    "concepts/viereckschanzen.md",
-    "concepts/la-tene-culture.md",
-    "places/star-carr.md",
-    "processes/bronze-age-social-differentiation.md",
-    "processes/spread-of-farming-europe.md",
-    "concepts/hallstatt-culture.md",
-    "concepts/tumulus-culture.md",
-    "processes/urbanization-europe.md",
-    "concepts/megalithic-monuments.md",
-    "processes/atlantic-slave-trade.md",
-    "concepts/linearbandkeramik.md",
-    "concepts/urnfield-culture.md",
-    "processes/atlantic-revolutions.md",
-    "places/durrington-walls.md",
-    "places/pech-merle.md",
-    "processes/athenian-empire.md",
-    "sources/hess-civil-war-infantry-tactics-2015.md",
-    "places/stonehenge.md",
-    "places/mezhirich.md",
-    "places/pincevent.md",
+    "concepts/bardic-order.md",
+    "concepts/arthurian-literature.md",
+    "actors/arverni.md",
+    "actors/boudicca.md",
+    "actors/aedui.md",
+    "concepts/celticism.md",
+    "sources/koch-celtic-culture-encyclopedia-2006.md",
+    "places/bibracte.md",
+    "concepts/druids.md",
+    "processes/celtic-migrations.md",
+    "concepts/iron-age-warfare.md",
+    "concepts/celtic-migrations.md",
+    "concepts/celtic-languages.md",
+    "concepts/celtic-art.md",
+    "places/mont-lassois.md",
+    "actors/gregory-of-tours.md",
+    "concepts/celtic-identity-debate.md",
+    "concepts/atlantic-system.md",
+    "actors/clovis.md",
+    "events/battle-of-tertry-687.md",
+    "processes/modern-sexuality.md",
+    "concepts/oppida.md",
+    "actors/charlemagne.md",
+    "sources/cunliffe-ancient-celts-2018.md",
+    "actors/carolingian-empire.md",
+    "sources/benjamin-cwh-v4-2015.md",
     "assets/atlases/Archive.zip",
     "assets/atlases/Archive.zip.c87s7x.part",
     "assets/atlases.zip",

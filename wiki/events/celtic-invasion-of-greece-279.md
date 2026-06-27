@@ -11,9 +11,10 @@ actors_secondary: [the Dardanians, Boeotians, Phocians]
 event_type: migration
 scale_immediate: regional
 scale_consequential: regional
-causes: [renewed Celtic migratory pressure from the Belgic group, the collapse of [[lysimachus|Lysimachus']] frontier kingdom at [[battle-of-corupedium-281|Corupedium]], Ptolemy Ceraunus' failure to manage frontier diplomacy]
+causes: [renewed Celtic migratory pressure from the Belgic group, the collapse of [[lysimachus|Lysimachus']] frontier kingdom at [[battle-of-corupedium-281|Corupedium]], Ptolemy Ceraunus' failure to manage frontier diplomacy; broader La Tène expansion and social drivers (feast/potlatch, warrior bands) per Cunliffe]
 consequences: [death of Ptolemy Ceraunus and anarchy in Macedon, the "miracle" of Delphi and the festival of the Soteria, [[antigonus-ii-gonatas|Gonatas']] victory at Lysimacheia and accession to Macedon, the Celtic kingdom of Tylis in Thrace, the Galatian settlement of Asia Minor]
-sources_ingested: 1
+sources_ingested: 2
+key_sources: [[sources/cunliffe-ancient-celts-2018|Cunliffe, The Ancient Celts (2018)]] (eastern fringes/arts range: horde entering Asia Minor 278, camp "waiting to pillage Delphi", Brennos fleeing Delphi; Galatian naked warriors 189 BC; social drivers of migrations)
 last_updated: 2026-06-11
 tags: [event, classical-antiquity, balkans]
 ---
