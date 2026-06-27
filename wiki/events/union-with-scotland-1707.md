@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["Economic crisis after Darien scheme", "Political pressure post-1701 Act of Settlement", "Elite negotiation"]
 consequences: ["Creation of Kingdom of Great Britain", "End of independent Scottish Parliament", "Long-term effects on Scottish identity, law, language, and economy; Jacobite risings"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-26
 tags: [event, celts, early-modern, scotland, union]
 ---
@@ -58,3 +58,17 @@ Koch Vol V lists alongside other political figures and unions (Acts of Union ear
 *Verbatim claims grounded exclusively in R05-Vol5-02 range.*
 
 *Skeleton for Vol V.*
+
+## Davies, *The Isles* (1999) — the Union as the birth of "Britain"
+
+[[davies-the-isles-1999|Norman Davies]] treats 1707 as the constitutive moment of
+*British* (as opposed to English or Scottish) identity: the
+[[four-nations-british-history|four-nations]] reading holds that "Great Britain"
+existed as a *state* only from this Act, that "Britishness" was a post-1707
+construction rather than a primordial fact, and — following J. G. A. Pocock — that
+the Union was "a Whig experiment in empire" yoking aristocratic parliamentarianism
+to an imperial project whose two halves might "not survive one another." On this
+view the Union did not merely subordinate Scotland; it created an entirely new
+composite polity and the multinational identity that bound it together for roughly
+two centuries before unwinding through decolonisation and devolution. See the
+[[british-national-identity-historiography]] controversy.
