@@ -9,8 +9,8 @@ affiliated_with: [Hurrian-speaking peoples of the Armenian highlands, the god Ha
 opposed_by: [[[neo-assyrian-empire|Assyria]], Cimmerians, Scythians, the Medes]
 key_events: [the struggle with Assyria, Sargon II's eighth campaign (714 BCE)]
 key_processes: [[[state-formation]], fortress-building, hydraulic engineering]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, anatolia]
 ---
 
@@ -77,6 +77,26 @@ out of the [[eurasian-steppe|steppe]], Urartu survived into the seventh century 
 was finally extinguished around 600 BCE, its territory passing to the **Medes** and,
 later, to the Armenians who succeeded it on the same ground. Barnett's verdict —
 a kingdom that briefly rivalled Assyria and then "sank into oblivion."
+
+## Liverani: a "continental archipelago" stimulated by Assyria
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] reads Urartu as a **"continental
+archipelago"** — regions separated by mountains, population concentrated in valleys and
+lakeshores at 1,000–1,500 m, max city size ~20 ha (Bastam), most people in unfortified
+villages. Its state-building rested on a standing army (~100 chariots, a few thousand horse,
+~20,000 foot — adequate locally, far below Assyria, so survival depended on inaccessible
+terrain) and on **strategic resources** (metals, **horse-breeding** as a royal right, timber).
+Crucially, he argues Urartu's very formation was **stimulated by Assyrian demand** for
+Armenian resources: it developed partly by *imitating* Assyria (its earliest inscriptions
+written in Assyrian) and partly on a different resource balance (more raw materials, less
+labour). Urartu pioneered the **qanat** (before it spread to Iran), and its bronze cauldrons
+and columned-hall/tower-temple architecture made it a **transmission belt** to Iran and
+Greece (Median/Persian *apadana* features; cauldrons in Greek sanctuaries). Sargon II's
+sack of Musasir (714) broke Rusa I's religious reform; the **Cimmerians** then caught all
+three eastern-Anatolian powers (Assyria, Urartu, Phrygia) off guard. The fall (~590 BCE) is
+textually undocumented, finalised by the Medes (Scythian arrowheads hint at Scythian
+participation), masking a long ethnic shift from Hurrian-speaking Urartians to
+Indo-European-speaking **Armenians**. See [[ancient-near-eastern-modes-of-production]].
 
 ## Historiography
 

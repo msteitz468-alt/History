@@ -9,8 +9,8 @@ affiliated_with: [[[chaldeans|the Chaldaeans]] (dynasty of Bit-Yakin / Third Sea
 opposed_by: [[[neo-assyrian-empire|Assyria]], Egypt (Saite 26th Dynasty), [[kingdom-of-judah|Judah]], Tyre, [[achaemenid-empire|Persia]] (Cyrus)]
 key_events: [[[fall-of-nineveh-612bce|fall of Nineveh 612]], [[battle-of-carchemish-605bce|Carchemish 605]], [[fall-of-jerusalem-587bce|fall of Jerusalem 587]], the rebuilding of [[babylon|Babylon]], [[fall-of-babylon-539bce|fall of Babylon 539]]]
 key_processes: [[[empire]], [[assyrian-mass-deportation|deportation / the Babylonian Exile]], [[state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, empire, archaic-period, mesopotamia, near-east]
 ---
 
@@ -132,6 +132,31 @@ field that [[achaemenid-empire|Persia]] inherited whole at [[fall-of-babylon-539
 539]].
 contrasts_with: [[neo-assyrian-empire|Assyria]] — same imperial apparatus, but a
 temple-and-trade economy, a less militarized self-image, and a far shorter life.
+
+## Liverani: a thin, archaising, cosmopolitan empire
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] stresses the **contrast with Assyria**:
+Babylonian royal inscriptions address the **priestly circles** of the old cities and
+emphasise building and cultic restoration rather than military relentlessness — a difference
+of political tradition and audience, not of actual peacefulness (Syro-Levantine populations
+fell to their **lowest attested levels** under Babylon, which failed to repopulate or rebuild,
+a "remarkably short-sighted policy"). The empire's **administration was thin** — beyond the
+Chaldean tribal provinces of the south "little more than the desert" separated Babylonia from
+the autonomous coastal cities. **Nabonidus** he reads sympathetically: a Harran usurper
+elevating **Sin** (an "astral triad" with Shamash and Ishtar) who spent a decade in **Arabia**
+not as anti-Persian retreat but as an *active* bid to control the Yemen–Syria caravan trade
+by cutting out intermediaries — meaning he **underestimated** the Persian danger; the
+anti-Nabonidus "complaints" are Cyrus's apologetic propaganda. **Cyrus's conquest (539)** was
+effectively bloodless (Gobryas/Ugbaru entering unopposed, troops in the Esagila unarmed, the
+ritual calendar unbroken), framed as Marduk's will. Economically Babylonia was a **financial**
+order — large temple/palace estates worked by debt-slaves, deportees, and *širku* serfs;
+commerce and finance delegated to foreigners and ex-deportees (Phoenicians, Arabs, Iranians,
+the Jewish Egibi and Murashu houses). Culturally it was deliberately **archaising** (reviving
+the now-dead Akkadian, a palace "museum" of ancient monuments) precisely as local vitality
+faded, while projecting a **cosmopolitan** self-image (a city of "freedom" welcoming the
+"other," against Assyria's hierarchical unification) — and its scholars ran the
+**Astronomical Diaries** (from Nabu-nasir), the seedbed of the "Chaldean sciences." See
+[[ancient-near-eastern-modes-of-production]] and [[ancient-near-east-historiography]].
 
 ## Historiography
 

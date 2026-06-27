@@ -9,8 +9,8 @@ affiliated_with: [[[zoroastrianism]], the Persians and Medes]
 opposed_by: [Greek city-states, Scythians, [[alexander-the-great|Macedon]], Egypt (in revolt)]
 key_events: [conquest of Babylon 539 BCE, Greco-Persian Wars 490/480-479 BCE, Battle of Gaugamela 331 BCE]
 key_processes: [[[empire]], [[state-formation]], [[trade-network-formation]]]
-sources_ingested: 4
-last_updated: 2026-06-23
+sources_ingested: 5
+last_updated: 2026-06-27
 tags: [actor, empire, archaic-period, classical-antiquity, iran-plateau]
 ---
 
@@ -187,6 +187,32 @@ caused_by: [[cyrus-the-great|Cyrus's]] conquests; the administrative inheritance
 produced: the satrapal/road/tax template of later [[empire|empires]]; the conditions
 for [[alexander-the-great|Alexander's]] conquest and the [[hellenistic-world]];
 indirectly, the rise of [[mauryan-empire|Chandragupta]] in India.
+
+## Liverani: Elam + Iran, and dominion by accumulation
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] explains Persian success as a **synthesis**:
+the Persians fused **Elamite** political and organisational experience (Susa and Anshan — a
+millennium of statecraft) with **Iranian** military and ideological impetus, an advantage the
+Medes lacked. **Cyrus's** rise over Astyages (550) was at first only an internal shift of power
+within a fragmented formation; his conquests proceeded by **assimilation, not destruction** —
+kings spared, cities preserved, local cults maintained and even adopted — a policy Liverani
+reads not as principled tolerance but as the **necessity of a polycentric empire** too vast and
+(relative to its subjects) too culturally junior to rule by elimination: "dominion through
+accumulation rather than elimination." Under **Darius** the empire became **20 satrapies** (the
+whole Neo-Assyrian core now just 4, the Chaldean just 2 — a 5–10× scale jump), with a
+**homogenised silver tribute** (the *daric* born of administrative, not commercial, need), a
+formalised **Royal Road** and post system, and the integration of Mediterranean–Red Sea–Gulf–
+Indian Ocean routes (reviving the Akkad–Meluhha axis). The diversity problem was met not by one
+lingua franca but by **multilingual** inscriptions (Old Persian, introduced by Darius, alongside
+Elamite and Babylonian) with **Aramaic** as the effective administrative tongue. Royal ideology
+fused Iranian elements (truth-vs-lie dualism, heroic prowess) with Mesopotamian titulature and
+the universal-empire idea; **Persepolis/Pasargadae** borrowed Urartian/Median forms (the
+*apadana*), and the roving court (Susa, Babylon, Ecbatana, Persepolis) echoed pastoral
+transhumance. Above all, Liverani reads the Persian empire as the **reformulation of
+centre/periphery** that ends his three millennia: the formerly "peripheral" Iranian highlands
+became the political centre, absorbing all the old "centres of the world" into one enlarged
+world — partly overcoming the ancient lowland–highland contradiction. See
+[[ancient-near-east-historiography]].
 
 ## Historiography
 

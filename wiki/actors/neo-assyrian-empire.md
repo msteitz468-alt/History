@@ -5,12 +5,12 @@ date_start: 934 BCE (Ashur-dan II; Grayson's "birth of the Neo-Assyrian Empire")
 date_end: 609 BCE (fall of Harran; Nineveh sacked 612 BCE)
 period: [Early Iron Age, Archaic Period]
 region: [mesopotamia, near-east, levant, anatolia, north-africa]
-affiliated_with: [[[assyria]], the cult of Ashur]
+affiliated_with: [[[ashur|Ashur]], the cult of Ashur]
 opposed_by: [[[neo-babylonian-empire|Babylonia/Chaldeans]], the Medes, [[urartu|Urartu]], Elam, Egypt, Cimmerians, the [[arameans|Aramaeans]], [[hazael|Damascus]]]
-key_events: [[[bronze-age-collapse|recovery from the Bronze Age collapse]], [[battle-of-qarqar-853bce|Qarqar 853]], [[fall-of-samaria-722bce|fall of Samaria 722]], conquest of Egypt, [[sack-of-thebes-663bce|sack of Thebes 663]], sack of Susa, [[fall-of-nineveh-612bce|fall of Nineveh 612]]]
+key_events: [[[bronze-age-collapse-1200bce|recovery from the Bronze Age collapse]], [[battle-of-qarqar-853bce|Qarqar 853]], [[fall-of-samaria-722bce|fall of Samaria 722]], conquest of Egypt, [[sack-of-thebes-663bce|sack of Thebes 663]], sack of Susa, [[fall-of-nineveh-612bce|fall of Nineveh 612]]]
 key_processes: [[[empire]], [[state-formation]], [[assyrian-mass-deportation|mass deportation]]]
-sources_ingested: 3
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [actor, empire, early-iron-age, archaic-period, mesopotamia]
 ---
 
@@ -21,7 +21,7 @@ tags: [actor, empire, early-iron-age, archaic-period, mesopotamia]
 The **Neo-Assyrian Empire** was the **first true territorial empire of antiquity**
 ([[benjamin-cwh-v4-2015|Daryaee, CWH IV Ch 10]]) — the "Mesopotamian core" that, in
 the [[early-iron-age|Early Iron Age]], converted recovery from the
-[[bronze-age-collapse]] into systematic conquest. Growing from the Middle Assyrian
+[[bronze-age-collapse-1200bce|Bronze Age collapse]] into systematic conquest. Growing from the Middle Assyrian
 state (Tukulti-Ninurta I, Ashur-Dan I) through the consolidating reigns of
 **Ashurnasirpal II** and **Shalmaneser III** (9th c.), it reached its apogee under
 the late-8th- and 7th-century "conqueror-builder kings" — **Tiglath-Pileser III,
@@ -149,11 +149,44 @@ broke the camel's back." A coalition of the **Chaldean** Nabopolassar of Babylon
 
 ## Causal Analysis
 
-caused_by: [[bronze-age-collapse]] (cleared the field), control of Near Eastern
+caused_by: [[bronze-age-collapse-1200bce|Bronze Age collapse]] (cleared the field), control of Near Eastern
 trade routes, iron weaponry, the deportation/terror system.
 produced: the [[neo-babylonian-empire]] and Median successors; the administrative
 template inherited by the [[achaemenid-empire]]; the demographic reshaping of the
 Levant.
+
+## Liverani: structure, ideology, and the secular state
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] analyses the empire as a system. The
+9th-century "revival" was **reconsolidation, not expansion** — recovering land framed as
+always Assyria's, treating resistance as "rebellion." The decisive structural change was
+**Tiglath-pileser III's provincial reform**, converting the old two-tier order (the inner
+*māt Aššur* under governors, the outer *nīr Aššur*, "yoke of Assyria," of tribute-paying
+vassals with only a resident *qēpu*) into uniform **provinces** with Assyrian palaces,
+garrisons, cults, and target-based extraction (*iškaru* quotas; *biltu/maddattu* and
+*nāmurtu* tribute, fossil terms of the old gift-exchange). **Mass deportation** (royal
+inscriptions total well over a million quantified deportees) served three functions —
+repopulating a war-thinned Assyrian core, harvesting skilled labour, and erasing conquered
+identities by "crossover" resettlement — but only *displaced* the agrarian crisis to the
+periphery, producing (Liverani argues) a "genetic mutation" of the Assyrian population that
+explains its sudden disappearance after the fall. The **army** was essentially a corvée host
+(one campaign a year straining the farmers), run by palace-titled grandees and loyalty-bound
+eunuchs.
+
+Ideology he breaks into four **dualisms** (space, time, humanity, resources): an ordered
+civilised centre against a chaotic periphery of "monocultures," conquest reframed as the
+**civilising completion of the gods' creation**, raw materials repaid with "protection,
+justice, and order." The **celebrative system** addressed three audience circles (scribes /
+city crowds / distant villagers) through matched channels, rewriting the past "the way
+totalitarian regimes do"; palace reliefs intimidated foreign envoys. Statecraft ran on a
+dual human/divine intelligence system in which **astrology** (*Enūma Anu Enlil*) became
+supreme and the **substitute-king ritual** absorbed bad omens — yet Liverani insists the
+state was fundamentally **secular**, the divine "a hypostasis of Assyrian kingship." Two
+unsolved problems doomed it: **Babylonia** (too prestigious to provincialise) and a
+7th-century **saturation point** (no easy conquests left; Egypt and Elam fragmented rather
+than annexed), so that **Ashurbanipal's destruction of Elam** removed the buffer against the
+Medes and Persians — the peak that began the end. See [[ancient-near-eastern-modes-of-production]],
+[[ancient-near-east-historiography]], and [[divine-kingship]].
 
 ## Historiography
 

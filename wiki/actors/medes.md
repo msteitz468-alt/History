@@ -9,8 +9,8 @@ affiliated_with: [Iranian-speaking peoples of the Zagros, at times the Scythians
 opposed_by: [[[neo-assyrian-empire|Assyria]], [[urartu|Urartu]], later [[achaemenid-empire|Persia]]]
 key_events: [the sack of Ashur (614), the [[fall-of-nineveh-612bce|fall of Nineveh (612)]], the destruction of [[urartu|Urartu]], the overthrow of Astyages by Cyrus (550)]
 key_processes: [[[state-formation]], steppe-and-mountain confederation, [[empire]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, state, archaic-period, iran-plateau, near-east]
 ---
 
@@ -59,6 +59,22 @@ frontier. In **550** the Median king **Astyages** was overthrown by his vassal
 **Cyrus of Anshan** — the rise of the [[achaemenid-empire|Achaemenid Persian
 Empire]], which absorbed Media and made it the senior partner-province of the new
 order ("Medes and Persians").
+
+## Liverani: was there a "Median empire"?
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] is sceptical of the **"Median empire"** as
+usually drawn. He rejects **Herodotus's** sequential dynasty (Deioces → Phraortes → Cyaxares),
+which cannot be matched to contemporary Assyrian sources (Esarhaddon's list three *separate*
+Median leaders) and reflects a Greek retrojection modelled on the Achaemenids. The Medes were
+**politically fragmented** until **Cyaxares**, a charismatic anti-Assyrian leader heading an
+unstable coalition rather than a true tribute-and-province empire — structurally closer to the
+Mannaeans or Ellipi. Their rise was **driven by Assyrian pressure** (forcing tribal groups
+into firmer polities), and he notes the paradox that the empire's collapse **damaged its own
+periphery**: the central-Zagros cities that had prospered on Assyrian commerce reverted to a
+tribal state. He treats Iranian ethnogenesis as gradual "Iranisation" (successive Indo-Iranian
+waves, the first tied to the *maryannu* chariot), is cautious about Dumézil's tripartite
+ideology ("largely debatable"), and places **Zoroaster** in the 7th century with Mazdaism
+surfacing only in early Achaemenid sources. See [[ancient-near-east-historiography]].
 
 ## Significance
 

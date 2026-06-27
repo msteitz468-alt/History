@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: hemispheric
 causes: [the rise of [[achaemenid-empire|Persia]] under Cyrus, [[nabonidus|Nabonidus's]] estrangement from the Marduk priesthood, internal division in Babylon]
 consequences: [the end of the [[neo-babylonian-empire|Neo-Babylonian Empire]], the absorption of the Near East into the [[achaemenid-empire|Persian Empire]], the return of the Jewish exiles]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, transition, archaic-period, mesopotamia, near-east]
 ---
 
@@ -82,6 +82,19 @@ and Cyrus — variously explained as a confusion with Darius I, an identificatio
 the governor **Gubaru**, or (his preferred "reasonable solution") a cryptic
 description of **Cyrus himself**, who also styled himself "King of the Medes." No
 documents are dated by any such intervening king.
+
+## Liverani: a bloodless transfer of an exhausted world
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] reads the conquest as effectively
+**bloodless**: Cyrus's general **Ugbaru (Gobryas)**, governor of Gutium, entered Babylon
+without opposition after winning at **Opis** and taking Sippar; Persian troops entered the
+Esagila **unarmed** and did not interrupt the ritual calendar; Cyrus arrived afterward,
+"welcomed as a liberator" and proclaiming himself the **restorer of Marduk's cult** against
+the "impious" usurper [[nabonidus|Nabonidus]] (the Cylinder being Cyrus's own apologetic). For
+Liverani this is the *quiet* end of the three-millennia Near Eastern world — Babylon neither
+destroyed nor sacked but absorbed into a far larger Persian order, "great care" taken to
+conceal a decline in status that would only become visible later. See
+[[ancient-near-east-historiography]].
 
 ## Historiography
 

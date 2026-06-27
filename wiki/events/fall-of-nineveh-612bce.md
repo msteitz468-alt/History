@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: hemispheric
 causes: [the over-extension of the Assyrian heartland's resources, the failure of [[ashurbanipal|Ashurbanipal]] to secure the succession, the [[medes|Median]]–Babylonian coalition, the disaffection of deported subject peoples]
 consequences: [the destruction of the [[neo-assyrian-empire|Neo-Assyrian Empire]], the transfer of Near Eastern power to [[neo-babylonian-empire|Babylon]] and [[medes|Media]], the opening for [[battle-of-carchemish-605bce|Babylon's confrontation with Egypt]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, transition, archaic-period, mesopotamia, near-east]
 ---
 
@@ -25,7 +25,7 @@ The **fall of Nineveh** in **612 BCE** — and the destruction of the
 discontinuities of ancient history: the sudden collapse, "within two decades of
 [[ashurbanipal|Ashurbanipal's]] death," of "the greatest empire the world had
 known." [[boardman-cah-v3p2-1991|CAH Vol. III, Part 2]] (Ch. 25, J. Oates) is the
-authority. It is a standing [[transition|transition-page]] subject.
+authority. It is a standing transition-page subject.
 
 ## Narrative
 
@@ -76,6 +76,21 @@ The Assyrian heartland itself **depopulated**: squatters sheltered in the ruins 
 Calah; when Xenophon marched past in 401 the cities were nameless ruins he took for
 abandoned "Median" towns.
 
+## Liverani: a two-phase collapse
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] frames the fall as two phases — an Assyrian
+**civil war** (~635–626 BCE; the Babylonian Chronicle calls 626 a year "without a king") then
+**rapid military collapse** — and stresses its structural inevitability in hindsight:
+[[ashurbanipal|Ashurbanipal's]] destruction of **Elam** had removed the buffer against the
+Iranian powers, **Median** and Mannaean state-formation had been contained but not stopped, and
+old rivalries (with Urartu) prevented strategic alliance against the northern threat. The
+sequence (Babylonian Chronicle, his Text 31.1): the **Medes under Cyaxares** sacked **Ashur**
+in 614 (arriving before [[nabopolassar|Nabopolassar]], with whom they then allied at its
+ruins), the combined armies destroyed **Nineveh** after a three-month siege in 612
+(Sin-shar-ishkun dying in it), and took **Harran** in 610, ending the rump Assyrian state under
+Ashur-uballit II. Egypt's pro-Assyrian intervention failed at **Carchemish** (605) against
+Nebuchadnezzar. See [[ancient-near-east-historiography]].
+
 ## Historiography
 
 The chronology of the empire's last years is one of the **hardest problems in
@@ -93,4 +108,4 @@ archaeologically unconfirmed.
 - Victors: [[nabopolassar]] · [[medes|Cyaxares]] · [[scythians]] · Victim: [[neo-assyrian-empire]] · [[nineveh]]
 - Heirs: [[neo-babylonian-empire]] · [[medes]] · Sequel: [[battle-of-carchemish-605bce]]
 - Cause: [[assyrian-mass-deportation]] · Prophecy: [[sack-of-thebes-663bce]] (Nahum)
-- Type: [[transition]] · Period: [[archaic-period]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 25)
+- Type: transition · Period: [[archaic-period]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 25)

@@ -2,7 +2,7 @@
 **Focus Area:** Hub/Civilizations & Hub/Regions Expansion  
 **Protocol:** Large-Volume Protocol (Macro-structural baselines prior to discrete extraction)
 
-**Acquisition Status:** ✅ = already ingested (source page + pages created in wiki). **[MISSING]** = not acquired in raw/. See CLAUDE.md for this being the active ingest list. (Current: 23 completed, 20 missing.)
+**Acquisition Status:** ✅ = already ingested (source page + pages created in wiki). **[MISSING]** = not acquired in raw/. See CLAUDE.md for this being the active ingest list. (Current: 27 completed, 20 missing.)
 
 ---
 
@@ -46,7 +46,7 @@
 26. **Roger S. Bagnall, Dominic W. Rathbone** - *Egypt From Alexander to the Copts: An Archaeological and Historical Guide* ✅ INGESTED 2026-06-27 (Rev. ed. 2004/2017; focused main-thread ingest — the wiki's anchor for post-pharaonic Egypt extends Manning/Shaw forward through Roman, Late Antique & Coptic Egypt to the Arab conquest; 12 pages created, 9 updated. New: [[places/the-fayyum]], [[places/oxyrhynchus]], [[places/karanis]], [[concepts/papyrology]], [[concepts/fayyum-mummy-portraits]], [[actors/coptic-church]], [[actors/athanasius-of-alexandria]], [[actors/shenoute]], [[actors/antony-of-egypt]], [[actors/pachomius]], [[events/destruction-of-the-serapeum-391]], [[events/arab-conquest-of-egypt-641]])
 
 ### 4. Ancient Near East, Levant & Anatolia
-27. **Mario Liverani** - *The Ancient Near East: History, Society and Economy* **[MISSING]**
+27. **Mario Liverani** - *The Ancient Near East: History, Society and Economy* ✅ (ingested 2026-06-27; interpretive layer + new pages: ANE historiography, modes of production, environment & society, Ebla, Gutians, Arslantepe)
 28. **Trevor Bryce** - *The Routledge Handbook of the Peoples and Places of Ancient Western Asia*
 29. **Trevor Bryce** - *The Kingdom of the Hittites*
 30. **Trevor Bryce** - *The World of the Neo-Hittite Kingdoms: A Political and Military History*
