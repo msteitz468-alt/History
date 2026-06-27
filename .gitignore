@@ -1,3 +1,6 @@
 raw/
 wiki/assets/
 .DS_Store
+__pycache__/
+.grok/
+wiki/.obsidian/workspace.json
