@@ -8,9 +8,9 @@ region: [north-africa, levant, near-east]
 affiliated_with: []
 opposed_by: [the [[hyksos|Hyksos]], the princedom of Kush, [[mitanni|Mitanni]] (then ally), the [[hittites|Hittites]], the city-states of Syria-Palestine]
 key_events: [expulsion of the [[hyksos|Hyksos]] (~1550 BCE), the conquests of [[thutmose-iii|Thutmose III]] in Syria, the golden age of [[amenhotep-iii|Amenophis III]], the [[atenism|Amarna revolution]] under [[akhenaten|Akhenaten]] and the end of the dynasty]
-key_processes: [[[imperialism]], [[state-formation]], [[interpolity-law]], [[atenism]], [[egyptian-temple-economy]], [[birth-of-economic-man]]]
-sources_ingested: 3
-last_updated: 2026-06-26
+key_processes: [[[imperialism]], [[egyptian-imperialism]], [[state-formation]], [[interpolity-law]], [[atenism]], [[egyptian-temple-economy]], [[birth-of-economic-man]]]
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [actor, state, late-bronze-age, north-africa, near-east]
 ---
 
@@ -42,17 +42,18 @@ so that no one but the king held authority over the whole.
 
 - **[[ahmose-i|Ahmose I]]** (~1550–1525): expelled the Hyksos, reconquered Nubia,
   reunified Egypt, founded the dynasty (see his page).
-- **Amenophis I** and **Thutmose I**: consolidation; Thutmose I campaigned to the
-  **Euphrates** and fixed Egypt's imperial ambition.
+- **[[actors/amenhotep-i|Amenophis I]]** and **[[actors/thutmose-i|Thutmose I]]**:
+  consolidation; Thutmose I campaigned to the **Euphrates** and fixed Egypt's imperial
+  ambition.
 - **[[hatshepsut|Hatshepsut]]** (~1473–1458): the female pharaoh — a peaceful,
   prosperous regency-turned-reign (the **Punt expedition**, the Deir el-Bahri
   temple) later erased from the record.
 - **[[thutmose-iii|Thutmose III]]** (~1479–1425): the empire-builder, "the greatest
   pharaoh ever to occupy the throne," whose ~17 Asian campaigns (Megiddo, the
   Euphrates) created the empire.
-- **Amenophis II** and **Thutmose IV**: ruthless consolidation, then the diplomatic
-  turn — Thutmose IV's **marriage alliance with [[mitanni|Mitanni]]** against the
-  rising [[hittites|Hittites]].
+- **[[actors/amenhotep-ii|Amenophis II]]** and **[[actors/thutmose-iv|Thutmose IV]]**:
+  ruthless consolidation, then the diplomatic turn — Thutmose IV's **marriage alliance with
+  [[mitanni|Mitanni]]** against the rising [[hittites|Hittites]].
 - **[[amenhotep-iii|Amenophis III]]** (~1390–1352): the dazzling golden age of peace,
   diplomacy, and monumental art, closing this volume's coverage.
 
@@ -143,6 +144,22 @@ landlords, granaries, traders, "the reserve banks of their day" (see
 alongside the redistributive core, documented at [[deir-el-medina]] and in the tomb-robbery
 papyri (the **[[birth-of-economic-man|"birth of economic man"]]**).
 
+## Shaw (2000): the narrative spine and the two-model empire
+
+The [[sources/shaw-oxford-history-ancient-egypt-2000|Oxford History]] (Bryan, Van Dijk, Shaw)
+supplies the connected reign-by-reign narrative now carried on the individual ruler pages —
+[[actors/amenhotep-i|Amenhotep I]], [[actors/thutmose-i|Thutmose I]],
+[[actors/amenhotep-ii|Amenhotep II]], [[actors/thutmose-iv|Thutmose IV]] — and the campaign
+record from [[events/battle-of-megiddo-1457bce|Megiddo]] to
+[[events/battle-of-qadesh-1274bce|Qadesh]]. Shaw's "Egypt and the Outside World" chapter
+frames the empire as a **two-model** structure ([[processes/egyptian-imperialism|direct
+colonial Nubia vs. a Levantine vassal system]]), conquered from [[kerma-kingdom|Kerma]] in the
+south to the Euphrates in the north. Van Dijk's account of the Ramesside decline ties the
+threads together: the loss of the Asiatic provinces after the [[actors/sea-peoples|Sea
+Peoples]], the silting of [[places/piramesse|Piramesse's]] harbour, the inability to reach the
+Nubian gold mines, and the rise of the Amun priesthood — converging on the *wehem-mesut* and
+the Third Intermediate Period.
+
 ## Historiography
 
 Far richer than the SIP: royal annals (Thutmose III's Karnak annals), private
@@ -160,4 +177,6 @@ edited. See [[cambridge-ancient-history-methodology]].
 - Place: [[thebes]] · [[avaris]] · [[memphis]] · LBA peers: [[mitanni]] · [[hittites]] · [[kassites]] · [[assyria-middle]]
 - Ramesside twilight: [[ramesses-iii]] · [[amun-priesthood|High Priests of Amun]] (Herihor, Pinudjem) · Tanis · [[phoenicians|Byblos]] (Wenamun) · [[bronze-age-collapse-1200bce]]
 - Process: [[imperialism]] · [[interpolity-law]] · Economy: [[egyptian-temple-economy]] · [[birth-of-economic-man]] · [[deir-el-medina]] · Period: [[late-bronze-age]] → [[early-iron-age]]
-- Preceded by: [[middle-kingdom-egypt]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[kemp-ancient-egypt-anatomy-2018]]
+- Rulers (detail): [[actors/amenhotep-i]] · [[actors/thutmose-i]] · [[actors/amenhotep-ii]] · [[actors/thutmose-iv]] · [[actors/ramesses-ii]] · [[merneptah]]
+- Empire: [[processes/egyptian-imperialism]] · [[events/battle-of-megiddo-1457bce]] · [[kerma-kingdom]] · [[actors/sea-peoples]] · [[places/piramesse]] · [[places/punt]]
+- Preceded by: [[middle-kingdom-egypt]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[kemp-ancient-egypt-anatomy-2018]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]

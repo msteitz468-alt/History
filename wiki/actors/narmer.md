@@ -9,8 +9,8 @@ affiliated_with: [[[early-dynastic-egypt]]]
 opposed_by: [Lower Egyptian kingdom]
 key_events: [[[unification-of-egypt-3100bce]]]
 key_processes: [[[state-formation]]]
-sources_ingested: 2
-last_updated: 2026-06-26
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, person, early-bronze-age, north-africa]
 ---
 
@@ -53,6 +53,20 @@ called the **"Followers of Horus."** For Kemp the dual-crown imagery is not a re
 historical kingdoms but the visual upgrading of an older cosmology of paired opposites into
 a specific political myth of unity (see [[egyptian-creation-myth-and-cosmogony]]).
 
+## Shaw (2000): commemorate, not narrate
+
+The [[sources/shaw-oxford-history-ancient-egypt-2000|Oxford History]] (Shaw; Bard) presses
+the warning that the unification monuments **commemorate rather than narrate**: "while the
+unification of Upper and Lower Egypt is too specific an interpretation for the scenes on the
+Narmer Palette, the scenes illustrate dead enemies and vanquished peoples and/or
+settlements," and the numbers on the **Narmer Macehead** "are probably greatly exaggerated,
+as is so often the case in later Egyptian historical texts." The Palette and Macehead come
+from Quibell and Green's **Main Deposit** in the [[places/hierakonpolis|Hierakonpolis]]
+temple precinct; Narmer's own tomb (double-chambered) lies in Cemetery B at
+[[places/abydos|Abydos]]. His **serekh** — "the earliest format of the king's name in
+hieroglyphs … inside a 'palace-facade' design … surmounted by the image of a falcon" — is
+the signature device of the new monarchy.
+
 ## Counterfactual significance
 
 Narmer's significance is **structural rather than personal**: the Palette shows
@@ -69,5 +83,5 @@ millennia. The tradition of a single founder-unifier is itself a key piece of
 
 - Event: [[unification-of-egypt-3100bce]]
 - State: [[early-dynastic-egypt]] · Process: [[predynastic-egypt]] · [[state-formation]]
-- Place: [[memphis]] (founded under Menes) · Concept: [[divine-kingship]] · [[egyptian-creation-myth-and-cosmogony]]
-- Source: [[kemp-ancient-egypt-anatomy-2018]]
+- Place: [[memphis]] (founded under Menes) · [[places/hierakonpolis]] · [[places/abydos]] · Concept: [[divine-kingship]] · [[egyptian-creation-myth-and-cosmogony]]
+- Source: [[kemp-ancient-egypt-anatomy-2018]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]

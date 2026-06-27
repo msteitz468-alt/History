@@ -9,8 +9,8 @@ affiliated_with: [[[middle-kingdom-egypt]] (Twelfth Dynasty)]
 opposed_by: [Kush / the Iuntiu of Nubia, the provincial nomarchs, the Amu of Palestine]
 key_events: [the Nubian campaigns and the Semna frontier]
 key_processes: [[[state-formation]], [[trade-network-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, north-africa]
 ---
 
@@ -66,6 +66,21 @@ for his **portrait sculpture**: a series of statues with a grim, careworn, deepl
 lined face — "fatigue and disillusionment" made visible — among the most striking
 royal portraits Egypt ever produced.
 
+## Shaw (2000): did he really "abolish" the nomarchs?
+
+Callender's chapter in the [[sources/shaw-oxford-history-ancient-egypt-2000|Oxford History]]
+qualifies the dramatic "breaking the nomarchs" narrative above. The title "great overlord"
+does fade around his reign, but "the conventional view" that Senwosret III forcibly abolished
+the nomarchy "is likely wrong." Detlef Franke showed the office was already being **hollowed
+out gradually** — Senusret II had begun educating nomarchs' sons at the capital and posting
+them elsewhere — so "the office of nomarch would eventually have been eclipsed by that of the
+town mayors." What is securely his is the **administrative restructuring**: the two regional
+*waret* bureaus plus dedicated treasury, labour, military and vizier's departments — "a sharp
+break with past practices" (see [[concepts/egyptian-bureaucracy]]). New 1990s evidence
+(Wegner) supports a long reign of up to **39 years**, against the Turin Canon's "over thirty"
+and a highest contemporary date of 19 — a textbook case of king-list unreliability (see
+[[concepts/egyptian-dynastic-chronology]]).
+
 ## Counterfactual / analytical significance
 
 Senwosret III completed the transformation begun at the
@@ -86,5 +101,6 @@ Dates are conventional and approximate. See [[cambridge-ancient-history-methodol
 
 - State: [[middle-kingdom-egypt]] · Predecessor: [[mentuhotpe-ii]] (dynasty's deeper founder)
 - Place: [[byblos]] · Process: [[trade-network-formation]] · Period: [[middle-bronze-age]]
-- Opposed: [[amorites|the Amu of Palestine]] · Concept: [[divine-kingship]]
+- Opposed: [[amorites|the Amu of Palestine]] · Concept: [[divine-kingship]] · [[concepts/egyptian-bureaucracy]] · [[concepts/egyptian-dynastic-chronology]]
+- Successor: [[amenemhat-iii]] · Place: [[places/buhen]] · Source: [[sources/shaw-oxford-history-ancient-egypt-2000]]
 - Contrasts with: the deified [[naram-sin]] (a different model of strong kingship)

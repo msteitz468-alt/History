@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [Lower Nubia / Kush, the Asiatic Amu, the Libyans, the [[hyksos|Hyksos]]]
 key_events: [[[reunification-of-egypt-2040bce]]]
 key_processes: [[[state-formation]], [[first-intermediate-period]], [[second-intermediate-period]], [[trade-network-formation]], [[provider-state]], [[egyptian-bureaucracy]]]
-sources_ingested: 3
-last_updated: 2026-06-26
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [actor, state, middle-bronze-age, north-africa]
 ---
 
@@ -44,9 +44,9 @@ the pattern for the whole dynasty:
   conspiracy — the event behind two literary masterpieces, the *Instruction of
   Ammenemes I* and the *Story of Sinuhe*.
 
-The line ran **Amenemhat I → Senwosret I → Amenemhat II → Senwosret II →
-[[senwosret-iii|Senwosret III]] → Amenemhat III → Amenemhat IV**, a remarkable
-sequence of able kings.
+The line ran **[[actors/amenemhat-i|Amenemhat I]] → Senwosret I → Amenemhat II →
+Senwosret II → [[senwosret-iii|Senwosret III]] → [[actors/amenemhat-iii|Amenemhat III]]
+→ Amenemhat IV**, a remarkable sequence of able kings.
 
 ## Reconquest of Nubia
 
@@ -132,6 +132,12 @@ Documented by king-lists (the Turin Canon), regnal and co-regency dates, monumen
 and an unusually rich literature that doubles as **royal propaganda** (*Neferty*,
 the *Instruction of Ammenemes I*). Chronology is conventional and debated at the
 edges (the length of co-regencies). See [[cambridge-ancient-history-methodology]].
+The [[sources/shaw-oxford-history-ancient-egypt-2000|Oxford History]] (Callender) frames
+the Middle Kingdom as the Egyptians' own **"classical" literary age** and stresses how much
+its political ideology rests on the rhetorical contrast with the
+[[controversies/first-intermediate-period-dark-age-debate|"chaos" of the preceding period]];
+it also sets the dynasty's **co-regency and chronology** problems out explicitly (see
+[[concepts/egyptian-dynastic-chronology]]).
 
 ## Related
 
@@ -142,4 +148,5 @@ edges (the length of co-regencies). See [[cambridge-ancient-history-methodology]
 - Followed by: [[second-intermediate-period]] → [[hyksos]] → [[new-kingdom-egypt]]
 - Analogous to: [[old-kingdom-egypt]] (the prior classic age it consciously revived)
 - Planned towns: [[kahun]] · [[wah-sut-south-abydos]] · Forts: [[buhen]] · Themes: [[provider-state]] · [[egyptian-bureaucracy]]
-- Source: [[edwards-cah-v2p1-1973]] (Ch. II) · [[edwards-cah-v1p2-1971]] (Chs. XX–XXI) · [[kemp-ancient-egypt-anatomy-2018]]
+- Rulers: [[actors/amenemhat-i]] · [[senwosret-iii]] · [[actors/amenemhat-iii]] · Process: [[processes/democratization-of-afterlife]]
+- Source: [[edwards-cah-v2p1-1973]] (Ch. II) · [[edwards-cah-v1p2-1971]] (Chs. XX–XXI) · [[kemp-ancient-egypt-anatomy-2018]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]

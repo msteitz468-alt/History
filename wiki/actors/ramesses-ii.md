@@ -8,9 +8,9 @@ region: [north-africa, levant]
 affiliated_with: [the [[new-kingdom-egypt|Nineteenth Dynasty]], the cult of [[amun-priesthood|Amun]] and of Seth/Sutekh of Avaris]
 opposed_by: [the [[hittites|Hittites]] ([[muwatalli-ii|Muwatalli II]]), the Libyans, the Sherden sea-raiders]
 key_events: [the [[battle-of-qadesh-1274bce|battle of Qadesh]], the [[egyptian-hittite-treaty-1259bce|Egyptian–Hittite treaty]], the building of Abu Simbel and Pi-Ramesse]
-key_processes: [[[imperialism]], [[interpolity-law]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+key_processes: [[[imperialism]], [[egyptian-imperialism]], [[interpolity-law]]]
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa]
 ---
 
@@ -57,6 +57,21 @@ and above all the rock-cut temples of **Abu Simbel** in Nubia. He fathered **ove
 hundred children**, outlived twelve heirs, and celebrated more than a dozen jubilees;
 he was eventually succeeded by his thirteenth son, [[merneptah|Merneptah]].
 
+## Shaw (2000): Piramesse, the prince-scholar, and a subordinate king
+
+Jacobus Van Dijk's chapter adds texture to the reign. Ramesses expanded Avaris into his great
+Delta residence **[[places/piramesse|Piramesse]]** — "the most important international trade
+centre and military base in the country," staffed with foreign officials and, after the
+treaty, **Hittite armourers** teaching shield manufacture. His usurpations deliberately
+favoured statues of [[amenhotep-iii|Amenhotep III]] and 12th-Dynasty kings, signalling the
+**pre-Amarna classical period** as his model. His son **Khaemwaset**, high priest of Ptah at
+Memphis, was a scholar-magician who restored Old Kingdom pyramids and founded the
+[[memphis|Serapeum]] galleries — arguably the first known antiquarian. Most tellingly, Van
+Dijk reads Ramesses' famous **appeal to Amun at [[events/battle-of-qadesh-1274bce|Qadesh]]**
+("I call to you, my father Amun") as a marker of the post-Amarna religious shift: "this shows
+clearly that the king no longer represented god on earth, but was subordinate to him" (see
+[[concepts/divine-kingship]]).
+
 ## Significance
 
 Ramesses II is the **archetype of pharaonic greatness** — and the volume's
@@ -80,5 +95,5 @@ the standard exhibit for source-critical caution. See
 
 - War: [[battle-of-qadesh-1274bce]] · [[muwatalli-ii]] · Peace: [[egyptian-hittite-treaty-1259bce]] · [[hattusili-iii]]
 - Predecessor: [[sethos-i]] (father) · Successor: [[merneptah]] · State: [[new-kingdom-egypt]] · Institution: [[amun-priesthood]]
-- Place: Pi-Ramesse · [[thebes]] · Concept: [[interpolity-law]]
-- Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]
+- Place: [[places/piramesse]] · [[thebes]] · Concept: [[interpolity-law]] · Process: [[processes/egyptian-imperialism]]
+- Successor: [[merneptah]] · Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]

@@ -7,8 +7,8 @@ period_active: [Late Antiquity]
 controlled_by: [the Roman emperor, through an equestrian prefect; from 30 BCE]
 events_here: [the annexation of Egypt (30 BCE), the southern expeditions of Cornelius Gallus and Petronius, the proclamation of Vespasian by the prefect (69 CE)]
 processes_here: [the depoliticization and fiscal exploitation of Egypt, the grafting of Roman administration onto the Ptolemaic bureaucracy]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [place, egypt, north-africa, late-antiquity, rome]
 ---
 
@@ -90,6 +90,29 @@ apparatus that turned the country into the granary and treasury of the empire �
 the Senate, and so closely from the emperor's rivals, that command of Egypt could help decide who
 *was* emperor.
 
+## Shaw (2000): the economy of stone and trade, and the religious turn
+
+David Peacock's chapter in the [[sources/shaw-oxford-history-ancient-egypt-2000|Oxford
+History]] views Roman Egypt through **archaeology and economics**. The province was an "essay in
+continuity" — "only in Egypt … is the Roman period an essay in continuity with what went
+before," pharaonic temples still built, hieroglyphs still carved, mummification persisting "as
+late as the fourth century AD" (the vivid **Fayum mummy portraits** belong here), and emperors
+shown on temple reliefs not as gods but as **supplicants to the old gods**. Three economic
+pillars stand out: the **grain** that fed Rome (the Nile flood height setting the tax level —
+optimal at ~7 m, famine below 5.5 m); the **imperial quarries** of the Eastern Desert,
+above all **Mons Porphyrites** (purple porphyry, an imperial monopoly) and **Mons Claudianus**
+(granodiorite whose products went "virtually restricted to … the finer monuments in Rome,"
+suggesting it was the emperor's personal stone); and the **Red Sea–India trade** routed through
+Berenice and Myos Hormos and overland to the Nile (a single Muziris consignment worth 131
+talents — "enough to buy 2,400 acres of the best farmland in Egypt").
+
+Peacock also traces the **religious transformation**: Christianity took root in
+[[alexandria|Alexandria]] by the mid-first century and spread up the Nile, surviving the
+**Diocletianic persecutions (from 303 CE)**, and the deserts gave birth to
+[[processes/egyptian-monasticism|Christian monasticism]] under Paul and Anthony — the
+institution "from which all others derived." Egypt was annexed in the
+[[events/roman-annexation-of-egypt-30bce|settlement of 30 BCE]].
+
 ## Egypt from Severus to Constantine (CAH XII)
 
 [[bowman-cah-v12-2005|CAH XII]] Ch. 10 (**Alan Bowman**) gives Egypt a chapter to itself — uniquely
@@ -127,4 +150,5 @@ detail unmatched anywhere, and bear directly on the "crisis" debate. Key develop
 - The late-antique transformation: [[late-roman-cities]], [[late-roman-administration]];
   [[diocletian|Diocletian's]] reforms and the [[third-century-crisis|crisis]] debate
 - Companion (CAH X Ch. 14): [[roman-greek-east|Greece]], [[roman-syria|Syria]], [[roman-judaea|Judaea]]
-- Sources: [[bowman-cah-v10-1996]] (Ch. 14b, Bowman); [[bowman-cah-v12-2005]] (Ch. 10, Bowman)
+- Annexation: [[events/roman-annexation-of-egypt-30bce]] · Religion: [[processes/egyptian-monasticism]] · Trade: [[places/punt]]
+- Sources: [[bowman-cah-v10-1996]] (Ch. 14b, Bowman); [[bowman-cah-v12-2005]] (Ch. 10, Bowman); [[sources/shaw-oxford-history-ancient-egypt-2000]] (Peacock, Ch. 15)

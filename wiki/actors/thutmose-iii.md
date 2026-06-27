@@ -8,9 +8,9 @@ region: [north-africa, levant, near-east]
 affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty]]]
 opposed_by: [[[hatshepsut|Hatshepsut]] (stepmother/co-regent), the Syrian coalition under Kadesh, [[mitanni|Mitanni]]]
 key_events: [the Battle of Megiddo (~1457 BCE), ~17 Asian campaigns to the Euphrates, the frontier at Napata in Nubia]
-key_processes: [[[imperialism]], [[interpolity-law]], [[state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+key_processes: [[[imperialism]], [[egyptian-imperialism]], [[interpolity-law]], [[state-formation]]]
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa, near-east]
 ---
 
@@ -57,6 +57,23 @@ picture of the whole Karnak temple-economy under vizieral supervision, exemplifi
 the tightly-run administration. A physically small man (his mummy is under 5'4"),
 he was also celebrated as a champion archer, charioteer, and athlete.
 
+## Shaw (2000): the mechanics of empire
+
+Betsy Bryan's chapter details how the conquest was run. The **[[events/battle-of-megiddo-1457bce|Battle
+of Megiddo]]** (year 23) yielded "894 chariots … 200 suits of armour … over 2,000 horses, and
+25,000 animals"; "at the end of some seventeen years of military campaigns, Thutmose III had
+successfully established Egyptian dominance over Palestine and had made strong inroads into
+southern Syria." The control system was a **vassal order** (see
+[[processes/egyptian-imperialism]]): the children of city-rulers were taken to Egypt "to be
+Egyptianized," and per the Annals "whoever died from among these chiefs, his Majesty caused
+that his son stand in his place." Bryan distinguishes one-time **booty** from recurring
+**tribute** (*inu*) — the latter from Retenu and Djahy, while powerful **Nahrin (Mitanni)**
+does not even appear in the inscriptions before the **eighth campaign (year 33)**, "regarded
+as too powerful to be mentioned." The **Annals** themselves were inscribed at Karnak only in
+**year 42**. Syrian war-booty (glass, fine metalwork "of the workmanship of Djahy") was "copied
+(and frankly improved upon) in Egypt," reshaping elite material culture. He took
+[[actors/amenhotep-ii|Amenhotep II]] as co-regent in his 51st year.
+
 ## Counterfactual / analytical significance
 
 Thutmose III is the architect of the **Egyptian empire** and thus of Egypt's
@@ -82,6 +99,7 @@ notes, "for their period moderately phrased and sincere." See
 
 - Dynasty: [[new-kingdom-egypt]] · Co-regent/erased: [[hatshepsut]] · Institution: [[amun-priesthood]]
 - Rival power: [[mitanni]] (later ally) · then the [[hittites]] · Concept: [[interpolity-law]]
-- Place: [[thebes]] (Karnak) · Process: [[imperialism]] · Successor (golden age): [[amenhotep-iii]]
-- Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]
+- Place: [[thebes]] (Karnak) · Process: [[imperialism]] · [[processes/egyptian-imperialism]] · Event: [[events/battle-of-megiddo-1457bce]]
+- Successor: [[actors/amenhotep-ii]] → (golden age) [[amenhotep-iii]] · Predecessor: [[actors/thutmose-i]]
+- Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p1-1973]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]
 - Analogous to: [[hammurabi]] · [[shamshi-adad-i]] (contemporary empire-builders)

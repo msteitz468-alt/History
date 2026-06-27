@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [[[first-intermediate-period|the prolonged Theban–Heracleopolitan war]], the "rebellion of This", Theban military superiority]
 consequences: [[[middle-kingdom-egypt|the foundation of the Middle Kingdom]], the re-centralization of Egypt, the cult of Mont and then Amun]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, middle-bronze-age, north-africa, transition]
 ---
 
@@ -41,7 +41,12 @@ Lands were reunited under one crown. Mentuhotpe marked the achievement in his
 titulary, changing his Horus name first to **Netjeryhedjet** and finally to
 **Sematawy — "Uniter of the Two Lands."** A mass grave of **sixty soldiers** slain
 attacking a fortress, found above his Deir el-Bahri temple, is a vivid relic of the
-wars of the reign.
+wars of the reign — "the best preserved of all Middle Kingdom bodies." The
+[[sources/shaw-oxford-history-ancient-egypt-2000|Oxford History]] (Callender) adds that the
+Herakleopolitan king **Merykara died before** Mentuhotpe reached his capital, and that
+recent excavations at the Ihnasya el-Medina (Herakleopolis) cemetery show its funerary
+monuments "were literally hacked to pieces" in the early Middle Kingdom — physical evidence
+of the victors' settling of scores.
 
 ## Causal Analysis
 
@@ -87,4 +92,4 @@ chronology of CAH (1971) and are approximate. See
 - Preceded by: [[first-intermediate-period]] ← [[fall-of-old-kingdom-2160bce]]
 - Produced: [[middle-kingdom-egypt]] · Person: [[mentuhotpe-ii]]
 - Analogous to: [[unification-of-egypt-3100bce]] (the first unification) · Period: [[middle-bronze-age]]
-- Place: [[memphis]] · Concept: [[divine-kingship]]
+- Place: [[memphis]] · [[places/thebes]] · Concept: [[divine-kingship]] · Source: [[sources/shaw-oxford-history-ancient-egypt-2000]]

@@ -5,8 +5,8 @@ origin: emic to ancient monarchies; analytically developed by Frazer (The Golden
 applies_to_periods: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Classical Antiquity, Late Antiquity]
 applies_to_regions: [north-africa, mesopotamia, near-east, east-asia, mesoamerica, andes]
 contested: yes
-sources_ingested: 3
-last_updated: 2026-06-26
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [concept]
 ---
 
@@ -74,6 +74,23 @@ Dynasty pyramid, the king is "sublimated into a manifestation of the sun god" (t
 **Son of Ra**); [[djoser|Djoser's]] Step Pyramid froze the whole apparatus of kingship
 display into permanent stone.
 
+## Shaw (2000): the fivefold titulary
+
+The [[sources/shaw-oxford-history-ancient-egypt-2000|Oxford History]] (Shaw's introduction)
+analyses the **fivefold royal titulary**, fully formalized by the Middle Kingdom, as the
+compressed statement of the doctrine: the **Horus** name, the **nebty** ("Two Ladies")
+name, the **Gold-Horus** name, the **nesu-bit** (throne) name, and the **nomen** (birth
+name, introduced by "Son of Ra"). Three of the five stressed the king's divine nature, two
+the duality of the Two Lands. The *nesu-bit* name encodes precisely the office/occupant
+distinction Kemp emphasizes: "*nesu* seems to be intended to refer to the unchanging divine
+king (almost the kingship itself), while the word *bit* describes the current ephemeral
+holder of the kingship" — each king a fusion of the eternal (Horus, living king) and the
+mortal-becoming-ancestral (Osiris). The throne-name was first framed in a **cartouche**
+under [[actors/sneferu|Sneferu]], and "Son of Ra" became standard from Djedefra/Khafra —
+the moment the king was "sublimated into a manifestation of the sun god." The whole system
+was an instrument of legitimation: Egyptian monuments present history as "a process of
+assessment, whereby the king demonstrated that he was preserving [[maat|Maat]]."
+
 ## Etic use and variation
 
 As an analytical tool the concept spans Pharaonic Egypt, the Mesopotamian
@@ -107,4 +124,5 @@ such claims were made visible.
 - Deified kings: [[naram-sin]] · [[shulgi]] · Concept: [[temple-economy]]
 - Concept: [[mandate-of-heaven]] (conditional variant) · [[art-and-power]] · [[city-state]]
 - Egyptian ideology: [[maat]] · [[egyptian-creation-myth-and-cosmogony]] · [[egyptian-formalism]] · [[great-tradition-little-tradition]]
-- Process: [[state-formation]] · [[urbanization]] · Source: [[kemp-ancient-egypt-anatomy-2018]]
+- Process: [[state-formation]] · [[urbanization]] · Source: [[kemp-ancient-egypt-anatomy-2018]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]
+- Concept: [[concepts/egyptian-dynastic-chronology]] · [[concepts/palermo-stone]]

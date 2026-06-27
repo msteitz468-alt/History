@@ -9,8 +9,8 @@ affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty]], the [[amun-priesthoo
 opposed_by: [[[thutmose-iii|Thutmose III]] (stepson and co-regent, who later erased her)]
 key_events: [assumption of pharaonic titles (~1473 BCE), the expedition to Punt, the Deir el-Bahri temple, the posthumous erasure of her monuments]
 key_processes: [[[trade-network-formation]], [[state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa]
 ---
 
@@ -57,6 +57,28 @@ resentful stepson; CAH treats it more soberly as a **dynastic/ideological** act 
 removing an irregular female interruption from the legitimate male succession — and
 notes it was done years after her death, not in hot blood.
 
+## Shaw (2000): legitimation by bloodline, and the timing of the erasure
+
+Betsy Bryan's chapter sharpens two points. First, on **legitimation**: Hatshepsut "did not
+attempt to legitimize her reign by claiming to have ruled with or for her husband Thutmose II.
+Instead she emphasized her blood line" — her only clear model being the earlier female king
+Sobekneferu. An Aswan inscription of [[hatshepsut|her steward Senenmut]] catches the transition
+in progress, naming her still as "king's daughter, king's sister, god's wife, great royal
+wife" before she took a throne name. Her **building programme** dwarfed her predecessors'
+(Karnak's Eighth Pylon — the first stone pylon on the north–south axis — plus work at Luxor,
+Medinet Habu, and the Mut precinct), and her [[places/thebes|Deir el-Bahri]] terraced temple,
+modelled on [[actors/mentuhotpe-ii|Mentuhotep II's]] adjacent monument, was "her most complete
+statement in material form about her reign."
+
+Second, on the **erasure**: Bryan stresses it came only "around year 46 or 47" of Thutmose
+III — some twenty-five years after Hatshepsut's disappearance — and was completed by
+[[actors/amenhotep-ii|Amenhotep II]]. "Since Thutmose sought to destroy the memory of the
+queen twenty-five years after her disappearance, it is unlikely that this was carried out as
+pure vengeance against his stepmother, particularly since the king had retained a number of
+Hatshepsut's officials." The likelier motive was **political**: securing the succession of
+Amenhotep II by erasing a rival royal line. Her **Punt expedition** was promoted as "a major
+diplomatic coup" that "stimulated interest in exotic luxury goods" (see [[places/punt]]).
+
 ## Counterfactual / analytical significance
 
 Hatshepsut is the most fully realized of the New Kingdom's powerful royal women (the
@@ -81,5 +103,6 @@ reconstruction of the Tuthmoside succession. See [[cambridge-ancient-history-met
 
 - Dynasty: [[new-kingdom-egypt]] · Co-regent/erased by: [[thutmose-iii]] · Institution: [[amun-priesthood]]
 - Place: [[thebes]] (Deir el-Bahri, Karnak) · Process: [[trade-network-formation]] (Punt)
-- The royal-women line: [[ahmose-i|Ahmose-Nefertari]] · Period: [[late-bronze-age]]
-- Source: [[edwards-cah-v2p1-1973]]
+- The royal-women line: [[ahmose-i|Ahmose-Nefertari]] · Father: [[actors/thutmose-i]] · Period: [[late-bronze-age]]
+- Place: [[places/punt]] · Completed erasure: [[actors/amenhotep-ii]]
+- Source: [[edwards-cah-v2p1-1973]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]

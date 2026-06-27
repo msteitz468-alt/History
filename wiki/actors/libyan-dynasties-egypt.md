@@ -8,9 +8,9 @@ region: [north-africa, near-east]
 affiliated_with: [the Mashwesh (Ma) and Libu Libyan tribes, the cult of Amun at Thebes, the Delta cities of Bubastis and Tanis]
 opposed_by: [internal rival lines (the Twenty-third Dynasty), the Kushite kingdom of Napata, the Saite Twenty-fourth Dynasty's rivals]
 key_events: [[[shoshenq-campaign-925bce|Shoshenq I's Palestine campaign (925)]], the fragmentation of central authority, the Kushite conquest under Piankhy]
-key_processes: [Libyan settlement of the Delta, political decentralization, [[state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+key_processes: [Libyan settlement of the Delta, political decentralization, [[state-formation]], [[third-intermediate-period]]]
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, dynasty, early-iron-age, north-africa]
 ---
 
@@ -78,6 +78,22 @@ Twenty-fifth Dynasty (narrated in CAH III.2).
   decentralization in turn `produced:` the fragmentation that opened Egypt to the
   Kushite conquest.
 
+## Shaw (2000): a Libyan chiefdom-federation
+
+John Taylor's chapter in the [[sources/shaw-oxford-history-ancient-egypt-2000|Oxford History]]
+reframes the [[processes/third-intermediate-period|period]] not as mere "decline" but as the
+imposition of a **semi-nomadic political logic** on Egypt — "a federation of semi-autonomous
+rulers, nominally subject (and often related) to an overlord-king." Tellingly, the Libyans
+"had adopted the trappings of Egyptian kingship without fully understanding it," tolerating
+"two or more 'kings' simultaneously, each entitled 'king of Upper and Lower Egypt.'" Their
+distinct identity persisted as it never had for earlier immigrants: Libyan **names** (Osorkon,
+Sheshonq, Takelot) endured for centuries, chiefly titles were retained, "a feather worn in the
+hair survived as a distinguishing mark," and long oral **genealogies** — rare in Egyptian
+texts — became a hallmark. The founder [[actors/sheshonq-i|Shoshenq/Sheshonq I]] and his line
+ruled from the Delta ([[places/tanis|Tanis]], Bubastis), and the system fragmented precisely
+because kings kept appointing their own sons to the Theban priesthood and provincial offices.
+Power eventually passed to the Kushite [[actors/piye|Piye]].
+
 ## Historiography
 
 Edwards reconstructs the period from a **difficult, fragmentary record** — royal
@@ -93,5 +109,6 @@ decline-through-decentralization is secure even where individual dates are not.
 
 - Key event: [[shoshenq-campaign-925bce|Shoshenq I's Palestine campaign]]
 - Neighbours kept independent by Egyptian weakness: [[kingdom-of-israel]] · [[kingdom-of-judah]] · [[phoenicians]] · [[neo-hittite-states]]
-- Period: [[early-iron-age|Early Iron Age]] · Region: [[north-africa]]
-- Source: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]]
+- Founder: [[actors/sheshonq-i]] · Process: [[processes/third-intermediate-period]] · Place: [[places/tanis]] · Institution: [[concepts/gods-wife-of-amun]]
+- Conquered by: [[actors/piye]] → [[kush-meroe]] · Period: [[early-iron-age|Early Iron Age]] · Region: [[north-africa]]
+- Source: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]

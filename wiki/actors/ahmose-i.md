@@ -9,8 +9,8 @@ affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty]], Thebes]
 opposed_by: [the [[hyksos|Hyksos]], the princedom of Kush]
 key_events: [capture of [[avaris|Avaris]] and expulsion of the [[hyksos|Hyksos]] (~1550 BCE), siege of Sharuhen, reconquest of Nubia]
 key_processes: [[[second-intermediate-period]], [[state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa]
 ---
 
@@ -55,6 +55,21 @@ rebels," perhaps acting as co-regent at a moment of crisis), and his wife
 pattern of **female authority within Egyptian kingship** that runs through the whole
 dynasty (down to [[hatshepsut|Hatshepsut]]).
 
+## Shaw (2000): the campaign and its archaeology
+
+Janine Bourriau's chapter dates the **[[events/fall-of-avaris-1528bce|capture of Avaris]]**
+to Ahmose's **regnal years 18–22** (c.1532–1528 BCE) — well into the reign, not its start —
+and reconstructs his **strategy**: bypass Memphis to seize Heliopolis, then take Tell
+el-Habua to cut the Hyksos retreat across Sinai, then assault Avaris. Beyond the biography of
+Ahmose son of Ibana, two evidence streams now illuminate it: the **Abydos temple reliefs**
+discovered in 1993 (horses, chariots, Hyksos captives, a battle fleet), and the
+[[places/avaris|Tell el-Dabʿa]] archaeology, where Ahmose razed the Hyksos palace and built a
+new one decorated with **Minoan-style frescoes** (bull-leapers, labyrinths) that
+"revolutionized ideas of the relations between Egypt and Crete." Bourriau also underscores
+Ahhotep's exceptional epithets — she "pacified Upper Egypt, and expelled her rebels" — and
+that Ahmose, building on [[actors/seqenenra-taa|Seqenenra]] and [[kamose|Kamose]], achieved a
+reunification "not to be broken again for over 400 years."
+
 ## Counterfactual / analytical significance
 
 Ahmose is the **founder-figure** of imperial Egypt: not himself a great conqueror
@@ -76,5 +91,6 @@ Amenophis I. See [[cambridge-ancient-history-methodology]].
 
 - Founded: [[new-kingdom-egypt]] · Ended: [[second-intermediate-period]] by expelling the [[hyksos]]
 - Place: [[avaris]] · [[thebes]] · [[byblos]] · Institution: [[amun-priesthood]]
+- Predecessors: [[actors/seqenenra-taa]] · [[kamose]] · Event: [[events/fall-of-avaris-1528bce]] · Opposed: [[kerma-kingdom]]
 - Successors: [[hatshepsut]] · [[thutmose-iii]] · [[amenhotep-iii]]
-- Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]
+- Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p1-1973]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]

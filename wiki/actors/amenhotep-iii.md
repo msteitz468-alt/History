@@ -9,8 +9,8 @@ affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty]], Queen Tiy]
 opposed_by: [the rising [[hittites|Hittites]] (a gathering threat, not yet open war)]
 key_events: [the golden-age building programme at Thebes, the three jubilees, diplomatic marriages with Asiatic royal houses]
 key_processes: [[[interpolity-law]], [[trade-network-formation]]]
-sources_ingested: 2
-last_updated: 2026-06-26
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa]
 ---
 
@@ -68,6 +68,21 @@ Thutmose IV, impregnates Queen Mutemwia, "the palace... flooded with the divine 
 of Punt — the ideological machinery by which a king's body was made divine, the same engine
 that the Opet festival turned (see [[thebes]], [[divine-kingship]]).
 
+## Shaw (2000): solar theology and the deification question
+
+Betsy Bryan's chapter foregrounds the **solarization** of Amenhotep III's reign that prepares
+the ground for [[concepts/atenism|Amarna]]. He placed "an unparalleled emphasis on solar
+theology," "consistently identified himself with the national deities, not his deceased royal
+predecessors," named his Malkata palace **"the gleaming Aten,"** and used commodity seals that
+may read "Nebmaatra is the gleaming Aten." This feeds the contested **deification thesis** of
+Raymond Johnson (and earlier Donald Redford): that Amenhotep III was worshipped as a living
+god and that Akhenaten's **Aten** was his deified father. Bryan registers the caution that
+"there is at present no text or iconography within Egypt proper that identifies Amenhotep III
+as a cult deity during his lifetime," and that the proposed **co-regency with Akhenaten**
+remains unresolved — both questions that bear directly on how the Amarna transition is read.
+He inherited the throne from his father [[actors/thutmose-iv|Thutmose IV]], whose own
+Sphinx-Stele solar emphasis pointed the same way.
+
 ## Counterfactual / analytical significance
 
 Amenophis III represents the **mature empire at rest** — proof that Thutmose III's
@@ -90,5 +105,6 @@ Amarna transition are dated. See [[cambridge-ancient-history-methodology]].
 
 - Dynasty: [[new-kingdom-egypt]] · Predecessor (empire-builder): [[thutmose-iii]]
 - Ally: [[mitanni]] · Gathering rival: [[hittites]] · Institution: [[amun-priesthood]]
-- Concept: [[interpolity-law]] · Place: [[thebes]] (Malkata, Luxor) · Period: [[late-bronze-age]]
-- Sources: [[edwards-cah-v2p1-1973]] · [[kemp-ancient-egypt-anatomy-2018]]
+- Concept: [[interpolity-law]] · [[concepts/atenism]] · Place: [[thebes]] (Malkata, Luxor) · Period: [[late-bronze-age]]
+- Predecessor: [[actors/thutmose-iv]] · Successor: [[akhenaten]]
+- Sources: [[edwards-cah-v2p1-1973]] · [[kemp-ancient-egypt-anatomy-2018]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]

@@ -9,8 +9,8 @@ affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty Egypt]], the cult of th
 opposed_by: [the [[amun-priesthood|priesthood of Amun]], the traditional cults]
 key_events: [the founding of [[amarna|Akhetaten]], the proscription of Amun, the foreign-policy collapse in Syria-Palestine]
 key_processes: [[[atenism]], [[interpolity-law]]]
-sources_ingested: 2
-last_updated: 2026-06-26
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa]
 ---
 
@@ -96,6 +96,25 @@ described as a vengeful triumph of the priesthood": the real power-base was the 
 (hence [[horemheb|Horemheb]]'s succession), and Egyptians simply "did not like what they
 saw," preferring the intellectual compromise of divine monarchy to naked personal rule.
 
+## Shaw (2000): phased radicalization and the army
+
+Jacobus Van Dijk's chapter periodizes the revolution. It escalated in stages: a Karnak Aten
+programme under the name Amenhotep IV; the name-change to Akhenaten and the founding of
+[[amarna|Akhetaten]] early in **year 5**; then, in **year 9**, the radical turn — the
+traditional cults "closed down," their images attacked, the festivals "no longer celebrated."
+Van Dijk corrects the pacifist legend: "the role of the military during the Amarna Period has
+long been underestimated" — Akhenaten sent his army to crush a Nubian rebellion in year 12,
+the same year a great durbar received tribute from "all foreign countries gathered together as
+one." Later he made [[nefertiti|Nefertiti]] official **co-regent** (Neferneferuaten).
+
+Crucially, Van Dijk argues the episode **permanently changed [[concepts/divine-kingship|divine
+kingship]]**: Akhenaten's "total usurpation of personal piety had seriously compromised the
+credibility of the dogma of divine kingship," and the failure shifted Egypt from a
+"representative theocracy" (king as the gods' intermediary) toward a "direct theocracy" in
+which "the god revealed his will directly to every human being" — the path that ended in the
+21st-Dynasty rule of Amun-by-oracle. And the collapse came because "the army … had withdrawn
+its support," not from priestly vengeance.
+
 ## Significance
 
 Akhenaten is history's most discussed early experiment in **exclusive monotheism**
@@ -122,4 +141,4 @@ phenomenon the volume warns against. See [[cambridge-ancient-history-methodology
 - Religion: [[atenism]] · Capital: [[amarna]] · Queen: [[nefertiti]] · Institution opposed: [[amun-priesthood]]
 - Successors: [[tutankhamun]] · [[horemheb]] · State: [[new-kingdom-egypt]] · Father: [[amenhotep-iii]]
 - Foreign collapse: [[amarna-letters]] · [[shuppiluliuma-i]] · [[interpolity-law]]
-- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p2-1975]] · [[kemp-ancient-egypt-anatomy-2018]]
+- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p2-1975]] · [[kemp-ancient-egypt-anatomy-2018]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]

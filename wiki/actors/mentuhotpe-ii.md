@@ -8,9 +8,9 @@ region: [north-africa]
 affiliated_with: [[[middle-kingdom-egypt]], Thebes (Eleventh Dynasty)]
 opposed_by: [the Heracleopolitan kingdom, the nomarchs of Asyut]
 key_events: [[[reunification-of-egypt-2040bce]]]
-key_processes: [[[first-intermediate-period]], [[state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+key_processes: [[[first-intermediate-period]], [[state-formation]], [[democratization-of-afterlife]]]
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, north-africa]
 ---
 
@@ -59,6 +59,22 @@ small pyramid, set in a great bay of cliffs, with shrines for royal women and th
 rock-tombs of his officials around it. It was the architectural prototype that, five
 centuries later, inspired **Hatshepsut's** adjacent temple on the same site.
 
+## Shaw (2000): the god-king and the rise of Amun
+
+Gae Callender's chapter adds the **religious** dimension. The Deir el-Bahri complex was the
+first royal monument to stress **Osirian** belief, reflecting the
+[[processes/democratization-of-afterlife|religious "levelling"]] between royal and commoner
+funerary cults that had taken place in the First Intermediate Period — and the evidence shows
+Mentuhotpe "intended to be worshipped as a god in his House of Millions of Years, thus
+pre-dating by hundreds of years ideas that became a central religious preoccupation of the
+New Kingdom" (an unusually explicit early case of living-king deification; see
+[[concepts/divine-kingship]]). His self-presentation drew on Hathor, Amun, and the
+ithyphallic Min. Reuniting the land let him recall **Memphite craftsmen**, explaining "the
+sudden reappearance of a level of expertise that had not been attested since the pyramids of
+the Old Kingdom." Crucially, the **cult of Amun** at [[places/thebes|Thebes]] "began to grow
+… from this time onwards" — Deir el-Bahri aligning across the river with Karnak for Amun's
+annual Festival of the Valley.
+
 ## Counterfactual significance
 
 Mentuhotpe is the man who proved that Egypt's unity could be **restored** after a
@@ -80,4 +96,5 @@ attributions (which courtyard tomb, which "Mentuhotpe") remain debated. See
 - Event: [[reunification-of-egypt-2040bce]] · Ended: [[first-intermediate-period]]
 - State: [[middle-kingdom-egypt]] · Followed by: [[senwosret-iii]] (Twelfth Dynasty)
 - Analogous to: [[narmer]] (first unifier) · Period: [[middle-bronze-age]]
-- Place: [[memphis]] · Concept: [[divine-kingship]]
+- Place: [[memphis]] · [[places/thebes]] · Concept: [[divine-kingship]] · Process: [[processes/democratization-of-afterlife]]
+- Source: [[sources/shaw-oxford-history-ancient-egypt-2000]]

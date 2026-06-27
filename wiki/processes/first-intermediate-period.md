@@ -7,9 +7,9 @@ period: [Early Bronze Age, Middle Bronze Age]
 region: [north-africa]
 process_type: [political, cultural]
 driven_by: [[[fall-of-old-kingdom-2160bce|the collapse of the Old Kingdom]], provincial autonomy, low Nile floods / famine]
-produces: [[[reunification-of-egypt-2040bce|the Theban reunification]], [[middle-kingdom-egypt|the Middle Kingdom]], the "democratization of the afterlife"]
-sources_ingested: 1
-last_updated: 2026-06-11
+produces: [[[reunification-of-egypt-2040bce|the Theban reunification]], [[middle-kingdom-egypt|the Middle Kingdom]], [[democratization-of-afterlife|the "democratization of the afterlife"]]]
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [process, early-bronze-age, middle-bronze-age, north-africa]
 ---
 
@@ -77,6 +77,33 @@ rose to overshadow the old solar theology of Heliopolis. Art decentralized into
 vigorous, unpolished **provincial schools** whose realism later fed the
 distinctive Middle Kingdom style.
 
+## Shaw (2000): the revisionist case against the "dark age" [CONTRADICTION]
+
+Stephan Seidlmayer's chapter in the
+[[sources/shaw-oxford-history-ancient-egypt-2000|Oxford History]] **directly challenges** the
+chaos-and-famine reading set out above (which follows CAH/Hayes). His argument:
+
+- **The "dark age" image derives from propaganda, not the period.** The
+  *Admonitions of Ipuwer*, *Prophecy of Neferti*, and kin were composed in the **Middle
+  Kingdom** as political rhetoric — "they do not actually claim to be set in the First
+  Intermediate Period; nor do they mention any historical particulars" — and serve as "the
+  black background against which the tight politics of law and order implemented by Middle
+  Kingdom kings can be justified." Contemporary FIP texts instead show "vigour,
+  self-confidence, and pride in one's own achievement … crisis brilliantly overcome."
+- **Provincial vitality, not collapse.** Cemetery numbers rise; ordinary tombs grow larger
+  and richer; rapid material-culture innovation (the **scarab seal**, potter's-wheel jars,
+  wooden offering figures) marks "the emergence of mass consumption." The period was "an
+  important, though temporary, shift in its centres of activity and dynamism," not "an
+  outright collapse of Egyptian society and culture as a whole."
+- **The famine claim is unproven.** "Independent evidence confirming climatic change during
+  the First Intermediate Period is lacking," and recent Elephantine data suggest flood levels
+  **slightly above average** — so the famine boasts of nomarchs like **Ankhtifi** of
+  el-Moealla read partly as a legitimizing **topos** rather than straightforward report.
+
+This is a genuine interpretive dispute; it is recorded in full on
+[[controversies/first-intermediate-period-dark-age-debate]]. The famine-driven causal account
+in **Causal Drivers** above should be read against it.
+
 ## Interaction
 
 The FIP is Egypt's counterpart to the contemporaneous Mesopotamian breakdown — the
@@ -98,6 +125,7 @@ Third Intermediate Periods.
 
 - Caused by: [[fall-of-old-kingdom-2160bce]] · Ended by: [[reunification-of-egypt-2040bce]]
 - Produced: [[middle-kingdom-egypt]] · People: [[mentuhotpe-ii]]
-- Controversy: [[societal-collapse-and-environmental-determinism]] (low-Nile famine)
+- Controversy: [[societal-collapse-and-environmental-determinism]] (low-Nile famine) · [[controversies/first-intermediate-period-dark-age-debate]]
 - Concurrent: [[gutian-invasion]] (Mesopotamia) · Period: [[early-bronze-age]] → [[middle-bronze-age]]
-- Concept: [[divine-kingship]] · Place: [[memphis]] · [[byblos]]
+- Concept: [[divine-kingship]] · Process: [[processes/democratization-of-afterlife]] · Place: [[memphis]] · [[byblos]]
+- Source: [[sources/shaw-oxford-history-ancient-egypt-2000]]

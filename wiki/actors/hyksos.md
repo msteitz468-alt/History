@@ -9,8 +9,8 @@ affiliated_with: [[[amorites|West-Semitic Asiatics]], the princedom of Kush (all
 opposed_by: [the Theban [[new-kingdom-egypt|17th/18th Dynasty]], [[ahmose-i|Ahmose I]], Kamose, Seqenenre Tao II]
 key_events: [occupation of [[avaris|Avaris]] (~1720 BCE), occupation of Memphis (~1674 BCE), expulsion by [[ahmose-i|Ahmose I]] (~1550 BCE)]
 key_processes: [[[second-intermediate-period]], [[migration-in-human-history]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, dynasty, middle-bronze-age, north-africa, levant]
 ---
 
@@ -77,6 +77,36 @@ conquest and a negotiated exodus of 240,000) shows how completely New Kingdom
 ideology rewrote the memory of national humiliation — a rewriting that also colours
 the later biblical "sojourn in Egypt" traditions.
 
+## Shaw (2000): the view from Tell el-Dabʿa
+
+Janine Bourriau's chapter rests the modern picture on Manfred Bietak's excavation of
+**[[places/avaris|Avaris (Tell el-Dabʿa)]]** — which "revolutionized" Hyksos studies. Key
+refinements:
+
+- **Who they were.** The name *hekau khasut*, "rulers of foreign countries," applied only to
+  the **rulers**, not the population (called *aamu*, "Asiatics"); and every traceable
+  personal and royal name is **West Semitic** ("earlier suggestions that some were Hurrian or
+  even Hittite have not been confirmed"). The community at Tell el-Dabʿa — Syrian house
+  plans, donkey burials, intramural tombs, non-Egyptian pottery and weapons — is "the only
+  convincing archaeological evidence for a population of Asiatics within Egypt … during the
+  Middle Kingdom," growing out of generations of Levantine settlement, not a single invasion.
+- **A real dynasty.** A Turin Canon fragment gives the 15th Dynasty "6 rulers of foreign
+  countries ruling for 108 years"; at its height under **Aauserra Apepi** (c.1555 BCE, a
+  ~40-year reign) Avaris covered nearly 4 km² — "three times larger than Hazor," the biggest
+  Middle Bronze site in Palestine. Apepi patronized Egyptian scribal learning (the **Rhind
+  Mathematical Papyrus** was copied in his year 33) and styled himself King of Upper and
+  Lower Egypt, ruling Nile traffic and taxation "on the model set up by the 12th-Dynasty
+  kings in their rule over Nubia."
+- **A telling technological detail.** Late Hyksos weapons at Tell el-Dabʿa were of
+  **unalloyed copper**, while Upper Egyptian (Theban) weapons stayed **tin bronze** — "this
+  would have given the Thebans a clear advantage in hand-to-hand fighting." On the horse and
+  chariot, generally credited to the Hyksos, there is as yet "no firm evidence" at Avaris
+  itself.
+
+These figures and the war of liberation are treated on
+[[actors/seqenenra-taa|Seqenenra Taa]], [[kamose|Kamose]], and
+[[events/fall-of-avaris-1528bce|the fall of Avaris]].
+
 ## Historiography
 
 Known from a thin and one-sided record: scarabs and seal-impressions (the chief
@@ -90,6 +120,7 @@ distinctive material culture once attributed to them have largely been
 ## Related
 
 - People: [[amorites]] · Process: [[second-intermediate-period]] · [[migration-in-human-history]]
-- Place: [[avaris]] · Opposed by: [[ahmose-i]] (Kamose, Seqenenre Tao II) → [[new-kingdom-egypt]]
+- Place: [[avaris]] · Opposed by: [[ahmose-i]] · [[kamose]] · [[actors/seqenenra-taa]] → [[new-kingdom-egypt]]
+- Allied: [[kerma-kingdom]] · Event: [[events/fall-of-avaris-1528bce]] · Material: [[concepts/tell-el-yahudiya-ware]]
 - Preceded by: [[middle-kingdom-egypt]] · Period: [[middle-bronze-age]]
-- Source: [[edwards-cah-v2p1-1973]]
+- Source: [[edwards-cah-v2p1-1973]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]

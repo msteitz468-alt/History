@@ -8,8 +8,8 @@ region: [north-africa, levant]
 process_type: [political]
 driven_by: [the decline of the [[middle-kingdom-egypt|Middle Kingdom]], Asiatic settlement in the Delta, the [[hyksos|Hyksos]] ascendancy]
 produces: [[[new-kingdom-egypt|the New Kingdom]], the Egyptian "empire", a militarized monarchy]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [process, middle-bronze-age, north-africa]
 ---
 
@@ -76,6 +76,32 @@ to fight and to adopt Asiatic military technology (the **horse-drawn chariot**, 
 the character of the New Kingdom" — the [[new-kingdom-egypt|imperial Egypt]] that
 followed.
 
+## Shaw (2000): a regional period, read from the ground up
+
+Janine Bourriau's chapter in the
+[[sources/shaw-oxford-history-ancient-egypt-2000|Oxford History]] argues the SIP "is better
+described regionally than as a single narrative, because the disunity of Egypt meant that
+[change] happened in different ways and at different rates in the various regions" — the
+eastern Delta ([[places/avaris|Avaris]]), Middle Egypt, [[places/thebes|Thebes]],
+[[places/elephantine|Elephantine]], and Nubia/[[kerma-kingdom|Kerma]]. Two points stand out:
+
+- **The state never forgot itself.** Over **105 royal names** survive in the Turin Canon —
+  "records were kept at Memphis of the names of all these kings, however short their reigns,
+  and however localized their rule." Official families at Elephantine "served both the late
+  13th-Dynasty kings and those of the 16th Dynasty," the transition going "officially
+  unremarked."
+- **Archaeology vs. propaganda.** The written sources pose problems "due to abundance rather
+  than scarcity," and integrating them with the [[places/avaris|Tell el-Dabʿa]] excavations
+  "remains profound" — but the archaeology decisively revises Manetho's invasion story (see
+  [[actors/hyksos]], [[events/fall-of-avaris-1528bce]]). At the conquest "a clear cultural
+  break is visible … all over the site," consistent with a mass exodus, and the
+  [[concepts/tell-el-yahudiya-ware|distinctive ceramics]] of the period anchor its
+  chronology. Bourriau also stresses the **gaps**: no excavation in the central/western
+  Delta, little in Middle Egypt, and the Second-Cataract forts now drowned under Lake Nasser.
+
+The Theban liberation is detailed on [[actors/seqenenra-taa|Seqenenra Taa]],
+[[kamose|Kamose]], and [[ahmose-i|Ahmose I]].
+
 ## Significance
 
 The SIP is the hinge on which Egypt turned **outward**. Where the
@@ -91,5 +117,6 @@ foreign administration.
 
 - Process: [[first-intermediate-period]] (the parallel earlier collapse)
 - Preceded by: [[middle-kingdom-egypt]] · The rulers: [[hyksos]] · Ended by: [[ahmose-i]] → [[new-kingdom-egypt]]
-- Place: [[avaris]] · [[thebes]] · [[memphis]] · People: [[amorites]]
-- Period: [[middle-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]
+- Place: [[avaris]] · [[thebes]] · [[memphis]] · People: [[amorites]] · Rival: [[kerma-kingdom]]
+- Rulers: [[actors/seqenenra-taa]] · [[kamose]] · Event: [[events/fall-of-avaris-1528bce]] · Material: [[concepts/tell-el-yahudiya-ware]]
+- Period: [[middle-bronze-age]] · Source: [[edwards-cah-v2p1-1973]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]

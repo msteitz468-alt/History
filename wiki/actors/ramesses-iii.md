@@ -8,9 +8,9 @@ region: [north-africa, levant]
 affiliated_with: [the Twentieth Dynasty, the cult of [[amun-priesthood|Amun]]]
 opposed_by: [the [[sea-peoples|Sea Peoples]], the Libyans, a palace conspiracy]
 key_events: [the Libyan wars of Years 5 and 11, the great land-and-sea battle against the Sea Peoples in Year 8, the harem conspiracy]
-key_processes: [[[imperialism]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+key_processes: [[[imperialism]], [[egyptian-imperialism]]]
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa]
 ---
 
@@ -54,6 +54,20 @@ condemned to death or suicide; some of the judges themselves disgraced for carou
 with the accused). His mummy shows no wound, but the plot's outcome for the king
 himself is uncertain.
 
+## Shaw (2000): the temple economy that broke the state
+
+Jacobus Van Dijk's chapter sharpens the internal story. Ramesses III's father **Sethnakht**
+had seized a throne left in chaos — the Great Harris Papyrus recalls a Syrian "upstart"
+(**Irsu**) whose confederates had plundered Egypt. Ramesses' year-8 victory succeeded because
+"Egypt had fortified the Nile Delta mouths and moved forces to Djahy," so "his troops were
+well prepared." But his **donations to the temples** were ruinous: by the end of the reign
+"a third of cultivable land was temple-owned, three-quarters of that belonging to Amun of
+Thebes" — the fiscal imbalance that left the treasury unable to pay the
+[[deir-el-medina|Deir el-Medina]] workmen, producing the **year-29 strikes**, "the first
+recorded organized strikes in history." He also mounted an expedition to
+[[places/punt|Punt]], "perhaps the first since the famous venture … in the days of
+Hatshepsut." (See [[concepts/egyptian-temple-economy]].)
+
 ## Significance
 
 Ramesses III is the **breakwater of the Bronze Age Collapse** — the ruler whose
@@ -76,5 +90,6 @@ Ramesses II's, a caution against reading them literally. See
 
 - Predecessor: Sethnakhte (founder of the Twentieth Dynasty) · earlier [[merneptah]] · [[ramesses-ii]]
 - Enemy: [[sea-peoples|Sea Peoples]] (the Philistines) · [[bronze-age-collapse-1200bce|Bronze Age Collapse]] · Institution: [[amun-priesthood]]
-- Place: Medinet Habu / [[thebes]] · State: [[new-kingdom-egypt]]
-- Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]
+- Place: Medinet Habu / [[thebes]] · [[places/punt]] · State: [[new-kingdom-egypt]]
+- Process: [[processes/egyptian-imperialism]] · [[concepts/egyptian-temple-economy]] · [[deir-el-medina]]
+- Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]

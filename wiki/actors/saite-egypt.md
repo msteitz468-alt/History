@@ -9,8 +9,8 @@ affiliated_with: [Sais (the capital), Carian and Ionian (Greek) mercenaries, Nau
 opposed_by: [[[neo-babylonian-empire|Babylon]] (Nebuchadnezzar II), [[kush-meroe|Kush]], finally [[achaemenid-empire|Persia]]]
 key_events: [the reunification under Psammetichus I (656), the battles of [[battle-of-megiddo-609bce|Megiddo (609)]] and [[battle-of-carchemish-605bce|Carchemish (605)]], the circumnavigation of Africa, the fall to Cambyses (525)]
 key_processes: [reunification, the building of an Egyptian navy, [[greek-colonization|Greek trade]] and mercenary service, [[orientalizing-revolution|the orientalizing transmission to Greece]]]
-sources_ingested: 4
-last_updated: 2026-06-11
+sources_ingested: 5
+last_updated: 2026-06-27
 tags: [actor, dynasty, archaic-period, north-africa]
 ---
 
@@ -122,6 +122,20 @@ the Saite kings** as a quiet badge of identity under occupation, and the rebels 
 sought Athenian help styled themselves **Psammetichus, Inaros, Amyrtaeus** — Saite names to
 the last.
 
+## Shaw (2000): the two armies and the managed Greek opening
+
+Alan Lloyd's chapter in the [[sources/shaw-oxford-history-ancient-egypt-2000|Oxford History]]
+stresses the Saite balancing act between two military bases: the imported **Greek and Carian
+mercenaries** and the native **machimoi** warrior class (themselves of Libyan origin), the
+former deliberately kept "as a counterweight … to the power of the machimoi" — a tension that
+erupted when a body of machimoi mutinied and withdrew toward the Sudan. Greek commerce was not
+merely tolerated but **state-managed**: by c.570 BCE [[naucratis|Naukratis]] became "the channel
+through which all Greek trade was required by law to flow." Lloyd reads the whole dynasty as
+evidence of the period's "remarkable vitality" rather than decline — Herodotus reports that
+under **Amasis** Egypt "attained its highest level of prosperity." Control of the south ran
+through the [[concepts/gods-wife-of-amun|God's Wife of Amun]]: Psamtek I installed his daughter
+**Nitiqret** as heiress, capturing Thebes peacefully.
+
 ## Historiography
 
 James leans heavily on **Herodotus** (the Dodecarchy, the mercenaries, the navy, the
@@ -138,4 +152,5 @@ Herodotean episodes, while accepting the maritime achievements as solidly attest
 - Greeks in Egypt: [[naucratis]] · [[orientalizing-revolution]] · mercenaries (Abu Simbel graffiti)
 - Successor: [[achaemenid-egypt]] (27th Dynasty) · conquest: [[persian-conquest-of-egypt-525bce]] · [[cambyses]] · [[udjahorresne]]
 - Later native revival: [[late-period-egypt]] (28th–30th Dynasties, 404–332 BCE), which threw off Persian rule and consciously revived Saite art and royal titulary
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 35, James) · [[boardman-cah-v3p3-1982]] (Ch. 36b, Braun) · [[boardman-cah-v4-1988]] (Ch. 3g, Ray) · [[lewis-cah-v6-1994|CAH VI]] (Ch. 8e, Lloyd)
+- Institution: [[concepts/gods-wife-of-amun]] · Process: [[processes/third-intermediate-period]] (preceding)
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 35, James) · [[boardman-cah-v3p3-1982]] (Ch. 36b, Braun) · [[boardman-cah-v4-1988]] (Ch. 3g, Ray) · [[lewis-cah-v6-1994|CAH VI]] (Ch. 8e, Lloyd) · [[sources/shaw-oxford-history-ancient-egypt-2000]]

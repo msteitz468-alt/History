@@ -9,8 +9,8 @@ affiliated_with: [the cult of Amun at Napata/Thebes, later the god Apedemak; the
 opposed_by: [the Assyrians, the 26th-dynasty Egyptians, Roman Egypt, the rising [[aksum|Aksum]]]
 key_events: [transformation of a Nubian chieftaincy into a kingdom (9th c. BCE), the 25th "Kushite" dynasty conquest of Egypt (c. 728 BCE), Assyrian expulsion from Egypt (664 BCE), shift of capital to Meroe (after c. 300 BCE), fall to Aksum (c. 350 CE)]
 key_processes: [[[trade-network-formation]], [[empire]], [[indian-ocean-trade]]]
-sources_ingested: 4
-last_updated: 2026-06-12
+sources_ingested: 5
+last_updated: 2026-06-27
 tags: [actor, state, classical-antiquity, north-africa, sub-saharan-africa]
 ---
 
@@ -137,4 +137,5 @@ treaty until c. 1500 — the long Christian bridge between Kush and the Islamic 
 - Source: [[gha-vol2-ancient-civilizations|GHA Vol. II]] · Successor: [[christian-nubia]]
 - Source: [[reader-africa-biography|Reader, *Africa: A Biography*]] · [[sub-saharan-africa]]
 - Egypt successor: [[saite-egypt]] · Adversary: [[neo-assyrian-empire]] ([[esarhaddon]], [[ashurbanipal]]) · Event: [[sack-of-thebes-663bce]]
-- Rival for Asia: [[sennacherib-siege-jerusalem-701bce]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 35) · [[benjamin-cwh-v4-2015|CWH IV]]
+- 25th-Dynasty kings (detail): [[actors/piye]] · [[actors/taharqa]] · vs. [[actors/libyan-dynasties-egypt]] · Process: [[processes/third-intermediate-period]] · Institution: [[concepts/gods-wife-of-amun]]
+- Rival for Asia: [[sennacherib-siege-jerusalem-701bce]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 35) · [[benjamin-cwh-v4-2015|CWH IV]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]
