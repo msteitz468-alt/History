@@ -8,8 +8,8 @@ region: [mesopotamia, near-east, iran-plateau, mediterranean, china, east-asia, 
 process_type: political
 driven_by: ["agricultural surplus and storage", "warfare and conquest", "[[urbanization]]", "long-distance [[trade-network-formation|trade]]", "ideology and religion", "control of information ([[writing-and-record-keeping]])", "managing [[pastoral-nomadism|nomad]] frontiers"]
 produces: ["[[empire]]", "[[city-state]]", "bureaucracy and taxation", "standing armies", "law", "social stratification", "[[slavery]]"]
-sources_ingested: 5
-last_updated: 2026-06-12
+sources_ingested: 6
+last_updated: 2026-06-26
 tags: [process, classical-antiquity, early-middle-ages, mesopotamia, china]
 ---
 
@@ -194,6 +194,22 @@ state *systems* repeatedly collapsed (the [[bronze-age-collapse]], the
 [[han-dynasty|Han]] and [[tang-dynasty|Tang]] collapses), and the comparative study
 of *why* — environmental stress, fiscal-military overextension, elite fragmentation,
 nomad pressure, epidemic — is one of the volume's central analytical concerns.
+
+## The Chinese Pristine State (Liu 2004)
+
+[[liu-chinese-neolithic-2004|Li Liu's *The Chinese Neolithic*]] supplies the wiki's
+archaeology of one of the few **pristine (primary) states** — see
+[[early-china-state-formation]] for the full trajectory. Liu's theoretical contribution to
+the general problem is twofold. First, she **rejects the trait "checklist"** (writing,
+metallurgy, cities, stratification) as a definition of the state: in Neolithic China these
+appear individually, asynchronously, and without clear social correlates — bronze, for
+instance, predates any link to hierarchy by ~1,000 years. She substitutes **Wright's**
+criterion of an **internally specialised, delegated administration**, archaeologically visible
+as a four-tier settlement hierarchy with a palatial complex ([[erlitou-culture|Erlitou]]).
+Second, she shows the state was **created, not evolved** (Flannery): it arose **not** from the
+most complex [[chiefdom]] (the [[taosi|Taosi]] polity, which collapsed) but from *less*
+integrated competing chiefdoms — a caution against unilineal models that also bears on
+[[mesoamerican-state-formation]] and [[andean-state-formation]].
 
 ## Historiography
 

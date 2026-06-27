@@ -82,4 +82,11 @@ Anyang part of sequence from Erlitou (possible Xia, ~1.5 x 2.5 km site, two larg
 
 **Source grounding:** [[sources/maisels-early-civilizations-of-the-old-world-1999]] (Range 05 cache lines only; verbatim quotes). Cross-links [[actors/shang-dynasty]], [[concepts/territorial-state]] (for lineage basis of dispersed guo), [[places/harappa]] (comparative), [[concepts/urban-revolution]].
 
+**Deeper antecedents:** Anyang sits at the end of the [[early-china-state-formation|Yellow
+River trajectory]] that runs through the first state at [[erlitou|Erlitou]]
+([[erlitou-culture|Erlitou culture]]) and the [[longshan-culture|Longshan]] walled towns —
+see [[liu-chinese-neolithic-2004|Liu (2004)]]. The first excavation of Anyang's Yinxu (Li Chi,
+1928–37) and the contemporaneous dig at the Longshan site Chengziyai were foundational acts of
+[[nationalism-and-archaeology|nationalist Chinese archaeology]].
+
 Last updated from this source range 2026-06-26.

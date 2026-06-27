@@ -7,8 +7,8 @@ date_range: "9,500–3,000 BCE (regionally diachronous; see note)"
 regions_covered: [near-east, levant, anatolia, iran-plateau, south-asia, china, japan, korea, southeast-asia, melanesia, sub-saharan-africa, west-africa, mesoamerica, andes, north-america, europe, mediterranean]
 major_themes: ["origins of agriculture", "plant and animal domestication", "sedentism", "village life", "the Neolithic Revolution", "demographic expansion", "emergent inequality", "secondary products", "pottery", "foraging-farming frontier"]
 collection_coverage: strong
-sources_ingested: 4
-last_updated: 2026-06-11
+sources_ingested: 5
+last_updated: 2026-06-26
 tags: [period]
 ---
 
@@ -140,6 +140,10 @@ Anatolia, documented reaching the Levant as early as the late Natufian — see
   Mesolithic **Schela Cladovei** culture had developed antler hoes and incipient
   cultivation that was *arrested by the arrival of Starčevo* — a clear case of the
   porous foraging–farming frontier. See [[balkans]].
+- **Yangshao** and **Dawenkou** cultures (Yellow River, China) — the painted-pottery
+  villages and lower-river mortuary-hierarchy societies that begin the sequence to the first
+  Chinese state. See [[yangshao-culture]], [[dawenkou-culture]], and
+  [[early-china-state-formation]] (from [[liu-chinese-neolithic-2004|Liu 2004]]).
 - Early **Bantu**-speaking farmer-herders, agents of agricultural spread in
   sub-Saharan Africa *(Cycle 5)*.
 - **Khirokitia culture** (aceramic Neolithic I of Cyprus) — a *sui generis* island

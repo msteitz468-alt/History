@@ -8,8 +8,8 @@ region: [china, east-asia]
 affiliated_with: [the Bronze Age cultures of the Yellow River basin]
 opposed_by: [rival "segmentary states", the Zhou (who overthrew them)]
 key_events: ["the Anyang cult-centre (c. 1240–1040 BCE)", "the oracle-bone divinations", "the Zhou conquest (c. 1046 BCE)"]
-key_processes: [Chinese bronze metallurgy, the origins of Chinese writing]
-sources_ingested: 2
+key_processes: [Chinese bronze metallurgy, the origins of Chinese writing, [[early-china-state-formation]]]
+sources_ingested: 3
 last_updated: 2026-06-26
 tags: [actor, dynasty, bronze-age, china, east-asia]
 ---
@@ -102,5 +102,22 @@ Zhou capitals followed similar dispersed pattern; introduced roof tiles and fire
 China's "cities" were dispersed clusters, not nucleated. No regular foreign trade in formative periods ("0" on checklist #9): "There is no Chinese equivalent to Gulf or Levant trade... nothing that China wanted or thought it needed from overseas. Thus silk traders made their way to China when they could. Until the Tang Dynasty (AD 618–906), the Chinese did not go abroad to trade." (lines ~2385-2400, ~2655-2665)
 
 **Source:** [[sources/maisels-early-civilizations-of-the-old-world-1999]] (verbatim quotes + line refs from Range 05 cache only). Contributes to [[concepts/territorial-state]], [[concepts/city-state]], [[periods/early-bronze-age]], [[places/anyang]].
+
+## Proto-Shang Origins (Liu 2004)
+
+[[liu-chinese-neolithic-2004|Li Liu]] locates the **Proto-Shang** — the Shang society before
+the dynasty — in the **Xiaqiyuan culture** of northern Henan and southern Hebei, contemporary
+with and bordering the [[erlitou-culture|Erlitou culture]] along the Qin River. Its ceramics
+resemble the later **Erligang** (early Shang) but differ from Erlitou. Liu argues the
+Proto-Shang was **not yet a state** but, like its [[longshan-culture|Longshan]] predecessors,
+a system of **competing [[chiefdom|chiefdoms]]**: ~40 known Xiaqiyuan sites are all small
+(the 14 Huan River sites are each under 5 ha, with no central place) and of lower complexity
+than Erlitou. An alternative homeland near Shangqiu (eastern Henan/western Shandong) proposed
+by Chang lies in a Yellow River flood zone where deep burial impedes survey. The Shang state
+proper thus crystallised **after** Erlitou, within the same [[early-china-state-formation|
+Central Plains trajectory]]; on the disputed Erlitou=[[xia-dynasty|Xia]] question see
+[[xia-dynasty-historicity]].
+
+**Source:** [[liu-chinese-neolithic-2004]]. Reciprocal links: [[erlitou-culture]] · [[xia-dynasty]] · [[early-china-state-formation]].
 
 **Historiography note (from this source):** Traditional king lists unreliable for pre-conquest Shang; "it generally refers to the capital and dynasty as Yin rather than Shang... yet so far as we can tell from the bone-inscriptions the Shang did not call their dynasty Yin". Archaeology (oracle bones, stratigraphy at Erlitou/Zhengzhou/Anyang) is the arbiter. (lines ~1975-1985)

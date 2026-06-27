@@ -31,7 +31,7 @@
 15. **Peter I. Bogucki, Pam J. Crabtree** - *Ancient Europe, 8000 B.C. to A.D. 1000: An Encyclopedia of the Barbarian World Edition* ✅ (ingested 2026-06-26 via Deployed Subagent Strategy, 8 ranges; ~25+ new pages incl. flag-fen, kelheim, ipswich, birka, hofstadir, childeric, jelling, staraya-ladoga, hillforts, iron-age-feasting, three-age-system etc.; heavy updates to Bronze/Iron/Early Medieval periods, concepts (oppida, hallstatt, la-tene, urnfield), places (heuneburg, stonehenge, manching, etruria), source + log/index. Complements Champion/Cunliffe/Koch ingests. Source filed.)
 
 ### 2. East & Inner Asia
-16. **Li Liu** - *The Chinese Neolithic: Trajectories to Early States* **[MISSING]**
+16. **Li Liu** - *The Chinese Neolithic: Trajectories to Early States* ✅ INGESTED 2026-06-26 (`sources/liu-chinese-neolithic-2004`)
 17. **John S. Major, Constance A. Cook** - *Ancient China: A History* **[MISSING]**
 18. **Nicola Di Cosmo** - *Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History*
 19. **Gina L. Barnes** - *Archaeology of East Asia: The Rise of Civilization in China, Korea and Japan* **[MISSING]**

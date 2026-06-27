@@ -8,8 +8,8 @@ region: [china, east-asia, eurasian-steppe]
 process_type: [economic, technological, cultural, demographic]
 driven_by: ["pre-domestication cultivation of wild millets and rice", "[[agricultural-origins]]", "Holocene environments of the Yellow and Yangtze basins"]
 produces: ["the north-millet / Yangtze-rice agricultural system", "the 'five grains' tradition", "spread of rice to SE Asia and millet to Europe", "Bronze Age food globalization"]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-26
 tags: [process, neolithic, china, east-asia]
 ---
 
@@ -98,6 +98,21 @@ region developing an **ideology of crop diversity**. The Chinese word for "meal"
   and (via the steppe) the European millet adoption.
 - Contrast partner for [[early-agriculture-southwest-asia]] (the culinary divide).
 - Feeds the Shang/Zhou states (later Processing-List volumes: CAH-era China, CWH Vol. III/IV).
+
+## Subsistence on the Eve of the State (Liu 2004)
+
+[[liu-chinese-neolithic-2004|Li Liu's]] household-archaeology of the late
+[[longshan-culture|Longshan]] adds texture to the millet base. At the Kangjia household
+([[yiluo-basin|Wei River valley]], ~2500–2000 BC) subsistence was **mixed and self-sufficient
+within a ~20 km radius** — millet agriculture plus animal husbandry, hunting, and gathering.
+Two long-run shifts stand out: **pig husbandry declined** through the Neolithic (pig bone falls
+from ~34% of fauna at pre-Yangshao Baijia to ~6% in the late Longshan at Jiangzhai as deer
+rises), and **domestic sheep/goat were newly introduced** to the middle/lower Yellow River only
+in the early Longshan (~2800 BC at Miaodigou), spreading from the northwest (Hongshan, Gansu
+Majiayao) — possibly via population movement, diffusion, or elite demand for exotic/prestige
+food. Wild animals actually **dominated** the Kangjia assemblage (72%, rising over time), much
+of it consumed in **ritual feasting** rather than daily diet — tying subsistence to the
+emerging social hierarchy of [[early-china-state-formation]].
 
 ## End Conditions
 

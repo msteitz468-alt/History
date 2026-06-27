@@ -6,10 +6,10 @@ origin: >
   1945) to archaeology; developed for early-city analysis by Susan & Roderick
   McIntosh (Jenne-jeno) and applied comparatively in CWH Vol. III Part IV.
 applies_to_periods: [Early Bronze Age, Classical Antiquity, Late Antiquity, Early Middle Ages]
-applies_to_regions: [west-africa, mesopotamia, mesoamerica, mediterranean, south-asia]
+applies_to_regions: [west-africa, mesopotamia, mesoamerica, mediterranean, south-asia, china, east-asia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-26
 tags: [concept]
 ---
 
@@ -61,8 +61,22 @@ This is the subject of the [[hierarchy-vs-heterarchy-early-cities]] controversy.
 - Pointedly draws on sub-Saharan African and American cases to de-center the
   Mesopotamian template — a corrective some find overstated.
 
+## Application: Competing Centers in Neolithic China
+
+[[liu-chinese-neolithic-2004|Li Liu's]] [[longshan-culture|Longshan]] settlement data offer a
+clear archaeological instance: the **multi-centered competing systems** of central and
+northern Henan and parts of Shandong show **convex rank-size curves**, no single dominant
+center, and central places spaced ~40 km apart with similar territories — politically
+independent peers rather than a vertical hierarchy. Sub-clusters exhibit **alternating** major
+centers (each dominating in turn at [[yiluo-basin|Yiluo]], Hougang, Mengzhuang, and late
+[[taosi|Taosi]]), a rotating horizontal authority. Liu adds a third type — central Shaanxi's
+"**diminished chiefdoms**," where complexity actually declined. Crucially, it was these *less*
+hierarchical, heterarchical systems — not the most integrated chiefdom — that gave rise to the
+[[erlitou-culture|Erlitou]] state (see [[early-china-state-formation]]).
+
 ## Related
 
+- China: [[longshan-culture]] · [[chiefdom]] · [[early-china-state-formation]] · [[liu-chinese-neolithic-2004]]
 - Concepts: [[urbanism]] · [[city-state]] · [[urban-revolution]]
 - Places: [[jenne-jeno|Jenne-jeno]] · [[teotihuacan|Teotihuacan]] · [[uruk|Uruk]]
 - Process: [[agriculture-and-urbanism]] · [[urbanization]]

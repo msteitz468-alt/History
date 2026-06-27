@@ -33,6 +33,18 @@ Muslim Uighur), **Tibet** (Xizang/Qinghai), Yunnan, and Taiwan. Most of China's 
 run **west to east**, from the high dry uplands toward the moister coastal plains. Keay notes
 China is roughly the size of, and at the same latitudes as, the United States.
 
+## Neolithic origins (Liu 2004)
+
+The "cradle" of the lower [[yellow-river-valley|Yellow River]] is also where the archaeological
+sequence to the **first Chinese state** runs: [[yangshao-culture|Yangshao]] →
+[[dawenkou-culture|Dawenkou]] → [[longshan-culture|Longshan]] chiefdoms →
+[[erlitou-culture|Erlitou]] state (~1800 BC), reconstructed through settlement and mortuary
+archaeology in [[liu-chinese-neolithic-2004|Li Liu's *The Chinese Neolithic*]] (see
+[[early-china-state-formation]]). This archaeological story complements — and complicates — the
+textual dynastic tradition that begins with the [[xia-dynasty|Xia]]: see
+[[xia-dynasty-historicity]] and the [[origins-chinese-civilization-monocentric-vs-multiregional|
+monocentric vs. multi-regional]] debate over how "Chinese civilisation" began.
+
 ## The dynastic dynamic
 
 Chinese history has always been periodized by its **dynasties** — "history literally told the

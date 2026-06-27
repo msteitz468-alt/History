@@ -7,7 +7,7 @@ date_range: 5,500–3,300 BCE (regionally variable; overlaps Late Neolithic and 
 regions_covered: [near-east, mesopotamia, levant, anatolia, iran-plateau, southeast-europe, balkans, china, east-asia]
 major_themes: [copper metallurgy, secondary products, craft specialization, proto-urban centers, social differentiation, clanship and early stratification, walled towns]
 collection_coverage: moderate
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-06-26
 tags: [period]
 ---
@@ -83,7 +83,7 @@ southeastern Europe / the Balkans. Elsewhere the "Chalcolithic" label is applied
 loosely or not at all; independent metallurgical and urban trajectories in East
 Asia, the Andes, and Mesoamerica follow different chronologies.
 
-**East Asia / China (Longshan and contemporaries, c. 2600–1700 BC):** "Longshan is a generic term covering a number of sub-phases and regional particularities... seven distinct regional variants... of Longshan culture have been identified... Five of the leixing have so far produced nine ‘large’ sites with walls of rammed earth (hangtu), containing large structures indicative of their centrality to some kind of settlement hierarchy... Underhill argues that here in the Huanghe Longshan we are seeing the emergence of complex societies still at the pre-urban chiefdom stage, with towns but not cities." "The Chalcolithic in China has the same key attributes as in the other areas examined. It is characterized by towns and crafts, in contrast to the cities and states of the Bronze Age." Key cultures: Dawenkou-derived Longshan (Yellow River), Liangzhu (lower Yangzi, elite jades, cong/bi, taotie precursors, human sacrifice), Hongshan (NE, jade, early bronze casting ~3500 BC, goddess temples). Clanship and conical lineages already structuring stratification and later state formation. See [[actors/shang-dynasty]], [[concepts/territorial-state]].
+**East Asia / China (Longshan and contemporaries, c. 2600–1700 BC):** "Longshan is a generic term covering a number of sub-phases and regional particularities... seven distinct regional variants... of Longshan culture have been identified... Five of the leixing have so far produced nine ‘large’ sites with walls of rammed earth (hangtu), containing large structures indicative of their centrality to some kind of settlement hierarchy... Underhill argues that here in the Huanghe Longshan we are seeing the emergence of complex societies still at the pre-urban chiefdom stage, with towns but not cities." "The Chalcolithic in China has the same key attributes as in the other areas examined. It is characterized by towns and crafts, in contrast to the cities and states of the Bronze Age." Key cultures: Dawenkou-derived Longshan (Yellow River), Liangzhu (lower Yangzi, elite jades, cong/bi, taotie precursors, human sacrifice), Hongshan (NE, jade, early bronze casting ~3500 BC, goddess temples). Clanship and conical lineages already structuring stratification and later state formation. See [[actors/shang-dynasty]], [[concepts/territorial-state]]. [[liu-chinese-neolithic-2004|Liu (2004)]] reads these [[longshan-culture|Longshan]] polities as small, **cyclical [[chiefdom|chiefdoms]]** (the largest, [[taosi|Taosi]], 300 ha, collapsed without becoming a state) measured by [[settlement-archaeology|settlement and mortuary patterning]] — see [[early-china-state-formation]], and the [[origins-chinese-civilization-monocentric-vs-multiregional|origins debate]].
 
 ## Transition
 
