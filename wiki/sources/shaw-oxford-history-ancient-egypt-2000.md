@@ -28,8 +28,8 @@ reliability_notes: >
   weight as a reference narrative; cross-check structural claims against
   [[sources/kemp-ancient-egypt-anatomy-2018|Kemp]] and the Book of the Dead material
   in [[sources/romer-egyptian-book-of-the-dead-2008|Romer]].
-pages_created: 0
-pages_updated: 0
+pages_created: 36
+pages_updated: 25
 ingested: 2026-06-27
 sources_ingested: 1
 last_updated: 2026-06-27
@@ -81,8 +81,69 @@ chapter adds beyond existing wiki coverage:
 
 ## Pages Created / Updated
 
-_(filled during reconciliation)_
+**Created (36):**
+- Concepts: [[concepts/egyptian-dynastic-chronology]] · [[concepts/sothic-cycle]] · [[concepts/palermo-stone]] ·
+  [[concepts/pyramid-texts]] · [[concepts/tell-el-yahudiya-ware]] · [[concepts/gods-wife-of-amun]]
+- Actors (rulers): [[actors/manetho]] · [[actors/sneferu]] · [[actors/khufu]] · [[actors/pepy-ii]] ·
+  [[actors/amenemhat-i]] · [[actors/amenemhat-iii]] · [[actors/kamose]] · [[actors/seqenenra-taa]] ·
+  [[actors/amenhotep-i]] · [[actors/thutmose-i]] · [[actors/amenhotep-ii]] · [[actors/thutmose-iv]] ·
+  [[actors/sheshonq-i]] · [[actors/piye]] · [[actors/taharqa]]
+- Actors (states): [[actors/kerma-kingdom]]
+- Places: [[places/hierakonpolis]] · [[places/abydos]] · [[places/giza]] · [[places/piramesse]] ·
+  [[places/punt]] · [[places/tanis]]
+- Events: [[events/fall-of-avaris-1528bce]] · [[events/battle-of-megiddo-1457bce]] ·
+  [[events/roman-annexation-of-egypt-30bce]]
+- Processes: [[processes/democratization-of-afterlife]] · [[processes/egyptian-imperialism]] ·
+  [[processes/third-intermediate-period]] · [[processes/egyptian-monasticism]]
+- Controversy: [[controversies/first-intermediate-period-dark-age-debate]]
 
-## Range Extractions
+**Updated (≈25):** [[processes/predynastic-egypt]] · [[actors/narmer]] · [[actors/early-dynastic-egypt]] ·
+[[actors/old-kingdom-egypt]] · [[actors/djoser]] · [[concepts/divine-kingship]] · [[concepts/egyptian-bureaucracy]] ·
+[[processes/first-intermediate-period]] · [[actors/mentuhotpe-ii]] · [[actors/senwosret-iii]] ·
+[[actors/middle-kingdom-egypt]] · [[events/reunification-of-egypt-2040bce]] · [[processes/second-intermediate-period]] ·
+[[actors/hyksos]] · [[places/avaris]] · [[actors/ahmose-i]] · [[actors/hatshepsut]] · [[actors/thutmose-iii]] ·
+[[actors/amenhotep-iii]] · [[actors/akhenaten]] · [[actors/ramesses-ii]] · [[actors/ramesses-iii]] ·
+[[actors/new-kingdom-egypt]] · [[actors/libyan-dynasties-egypt]] · [[actors/kush-meroe]] · [[actors/saite-egypt]] ·
+[[actors/ptolemaic-egypt]] · [[places/roman-egypt]]
 
-_(per-range grounded-claim digests appended during ingest)_
+> Reconciliation notes: subagent proposals were deduplicated against the live wiki, conforming to
+> existing transliteration slugs — `mentuhotpe-ii` (not "mentuhotep-ii"), `senwosret-iii` (not
+> "senusret-iii"), `naucratis` (not "naukratis"); and folding proposed pages into existing ones —
+> the Old Kingdom collapse into [[events/fall-of-old-kingdom-2160bce]], the Assyrian sack into
+> [[events/sack-of-thebes-663bce]], Raphia into [[events/battle-of-raphia-217]], the intermediate
+> periods as **process** pages. The Battle of Megiddo (1457 BCE) was created distinct from the
+> existing [[events/battle-of-megiddo-609bce|609 BCE battle]].
+
+## Volume Synthesis Note
+
+The *Oxford History* enters the wiki as the **narrative political-and-chronological spine** of
+ancient Egypt — the deliberate complement to [[sources/kemp-ancient-egypt-anatomy-2018|Kemp's
+thematic *Anatomy*]]. Where Kemp asks what gave Egyptian civilization its durable *form*, Shaw's
+specialists narrate, dynasty by dynasty, *what happened*: from the Palaeolithic Nile and the Naqada
+road to the state, through the pyramid age and its [[events/fall-of-old-kingdom-2160bce|collapse]],
+the [[actors/middle-kingdom-egypt|Middle Kingdom]] and the [[actors/hyksos|Hyksos]] interlude, the
+imperial [[actors/new-kingdom-egypt|New Kingdom]] and the [[concepts/atenism|Amarna]] rupture, the
+Libyan and [[kush-meroe|Kushite]] Third Intermediate Period, the [[actors/saite-egypt|Saite]] revival
+and Persian conquests, and finally the [[actors/ptolemaic-egypt|Ptolemaic]] and
+[[places/roman-egypt|Roman]] centuries down to the birth of [[processes/egyptian-monasticism|Christian
+monasticism]].
+
+Three of the volume's running arguments reshape the wiki most. First, **the dynastic scaffold is a
+political artefact** (Manetho's scheme), increasingly hard to reconcile with the archaeological record
+— captured in the new [[concepts/egyptian-dynastic-chronology]] page and its
+[[concepts/sothic-cycle|Sothic]]/[[concepts/palermo-stone|annalistic]] apparatus. Second, **the
+"intermediate periods" were not simply dark ages** but episodes of regional vitality and foreign-origin
+rule — the Seidlmayer revisionism now recorded as a standing
+[[controversies/first-intermediate-period-dark-age-debate|controversy]], with the Second and Third
+Intermediate Periods reframed (Hyksos as Levantine immigrants per Tell el-Dabʿa; the Libyans as a
+chiefdom-federation). Third, **Egyptian imperialism was a two-model structure** —
+[[processes/egyptian-imperialism|direct colonial Nubia vs. a Levantine vassal system]] — a synthesis
+the new process page draws from Shaw's "Egypt and the Outside World" chapter.
+
+Cross-volume tensions are mostly **complementary corrections** rather than contradictions: Shaw's
+Bourriau/Bietak Hyksos and Seidlmayer FIP revisions update the older CAH narratives already in the wiki;
+Callender's qualification that [[actors/senwosret-iii|Senwosret III]] did not forcibly "abolish" the
+nomarchs refines the CAH account; and Lloyd's argument that the Ptolemaic ruler cult had **Hellenic, not
+Egyptian, antecedents** sits as a flagged interpretive position beside the Egyptianizing reading. The
+one genuine contradiction flagged is the **FIP famine/dark-age** question, now adjudicated on its own
+controversy page.
