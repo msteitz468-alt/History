@@ -98,9 +98,21 @@ invasions of the Roman empire." The bitterness of 1204 in the Orthodox tradition
 and the question of how far it permanently poisoned Greek–Latin relations — remains a
 live interpretive thread (see [[eastern-churches]]).
 
+## Economic Consequences
+
+David Jacoby's analysis (in [[laiou-mottahedeh-crusades-byzantium-muslim-2001]]) details the economic transformation that followed the Latin conquest — see [[latin-romania-economy]] for the full process page. Key findings:
+
+- The Latin conquest dissolved **Byzantine centralized control over manufacture**, above all silk — the empire's most important industrial sector. No Latin successor authority replicated Byzantine state direction of the silk industry.
+- **Confiscation and redistribution** of Byzantine crown land, magnate estates, and Constantinopolitan monastic property was extensive, with Crete triggering a Greek rebellion in 1212 over property seizures.
+- The conquered territories were rapidly reintegrated into **Western trade networks**, with Venice structurally dominant: Greek merchants were entirely excluded from Venetian state-galley commerce; the leasing of these ships and transport of precious goods were the exclusive preserve of Venetian citizens.
+- Over two centuries, Latin Romania underwent a long-term **deindustrialization**: from a supplier of finished silk textiles to the West, it became primarily a supplier of raw silk, cocoons, and dyestuffs (*kermes*) to expanding Luccan and Venetian industries. Italian silks were imported back in growing volume — reversing an age-old trade flow.
+- Jacoby stresses **internal differentiation**: Venetian territories (especially Crete) were more commercially dynamic and credit-driven than feudalized areas (Frankish Morea), where Western feudal arrangements were less suited to commercial exploitation.
+- Despite these disruptions, **agrarian continuity** prevailed: the same crops, labor forms, and rural infrastructure persisted under Latin lords who shared Greek lords' interest in preserving the Byzantine countryside.
+
 ## Related
 
 - [[politics-of-land]], [[wickham-medieval-europe-2016]] — the comparative framework that makes 1204 a "failure of alternatives."
 - [[byzantine-empire]], [[komnenian-restoration]] — the empire it shattered and the recovery that preceded it.
 - [[crusades]] — the movement diverted here.
 - [[eastern-churches]] — the schism it deepened.
+- [[latin-romania-economy]] — the economic transformation of the conquered territories over two centuries.

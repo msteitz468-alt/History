@@ -76,6 +76,20 @@ logical outgrowth of reform-era ideas about authorised, penitential war — a re
 (the "pluralist" school he helped found) that stresses the crusaders' sincere
 penitential motives over the older economic/younger-son explanations.
 
+**Byzantine and Muslim perspectives** have been systematically underrepresented in
+Western historiography. The Dumbarton Oaks volume edited by Laiou and Mottahedeh
+(2001) addresses this gap. Giles Constable's contribution documents that the crusades
+were always experienced from multiple vantage points — Alexios Komnenos's distrust
+of crusading armies is preserved in Anna Komnene's *Alexiad*; the Jews who suffered
+the 1096 Rhineland massacres have their own Hebrew chronicles; and the rulers of
+Edessa, Antioch, Aleppo, Damascus, Cairo, and Baghdad each had distinct attitudes
+reflected in their own sources. George T. Dennis's essay in the same volume argues
+that the Byzantines regarded the crusade as essentially incomprehensible — they
+understood pilgrimage and they understood warfare, but not the combination — and
+abhorrent in its implications (the crusader ideology of "exalting" Christianity by
+force, and monk-warriors like the Templars, were alien to Byzantine theology).
+See [[concepts/crusade-historiography]] and [[concepts/byzantine-just-war]].
+
 ## Related
 
 - `part_of:` [[crusades]]

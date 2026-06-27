@@ -82,12 +82,39 @@ and the [[peace-of-god|Peace of God]]. It reshaped relations with
 maritime]] penetration of the Levant; and it gave the [[reconquista|Reconquista]] and
 Baltic wars a crusading frame.
 
+**Theological dimension (Latin-Byzantine schism):** The Crusades profoundly reshaped
+Greek Orthodox religious literature and identity politics, but paradoxically did so
+*indirectly*. Byzantine anti-Latin polemic in the Crusade era focused almost entirely on
+theological disputes (azymes, Filioque, papal primacy) rather than on the concept of holy
+war or the crusade institution itself — there is no Byzantine theological refutation of the
+crusade indulgence or of monastic knighthood. The Crusades operated primarily as a
+radicalizing political backdrop: the Fourth Crusade's sack of Constantinople (1204) and
+the subsequent Latin occupation generated intense popular hatred of Latins and made
+church union negotiations politically impossible (as Barlaam reported to Pope Benedict
+XII in 1339), while the Latin Empire's insistence on Greek clergy swearing obedience to
+the pope transformed the previously "academic" question of papal primacy into the
+dominant theological dispute of the 1204–1261 period. The issues that dominated
+Byzantine polemic — azymes (eleventh century), papal primacy (twelfth–thirteenth),
+Filioque (Palaiologan) — followed the logic of internal Byzantine identity debates rather
+than direct response to crusading ideology. See [[byzantine-latin-schism-polemic]]
+(Kolbaba's analysis).
+
 ## End Conditions
 
 Levantine crusading continued past this volume — through the Third and Fourth Crusades
 into the thirteenth century treated by [[abulafia-ncmh-v5-2000|NCMH V]] — until the
 fall of **Acre (1291)** ended the crusader states; crusading as an institution
 persisted (against the Ottomans, heretics, and pagans) into the early modern era.
+
+## Historiography
+
+Western scholarship on the crusades is surveyed in detail in [[concepts/crusade-historiography]]. Key points for the process as a whole:
+
+**Three-period scheme (Constable, 2001).** Giles Constable divides Western crusading historiography into three periods: (1) 1095 to c. 1600, when the crusades were part of a living struggle and accounts were inseparable from crusading propaganda; (2) 1600–1800, dominated by Enlightenment critique — Voltaire called the crusaders motivated by "the thirst for brigandage," Gibbon described their principle as "a savage fanaticism"; and (3) 1800 to the present, beginning with romantic rehabilitation and continuing through modern critical scholarship. The nineteenth century was broadly favorable; the twentieth saw a "rising tide of criticism" culminating in Runciman's verdict that the crusades were "a tragic and destructive episode . . . a long act of intolerance in the name of God."
+
+**Traditionalists vs. pluralists.** The central modern definitional debate is between **traditionalists** (leading figure Mayer: a true crusade must be directed toward the Holy Land) and **pluralists** (Riley-Smith: a crusade is defined by papal authorization, the vow, the cross, and the indulgence, wherever directed). The pluralist position, now dominant in academic scholarship, encompasses crusades in Spain, the Baltic, against heretics, and into the early modern era.
+
+**Non-Western perspectives** were largely absent from major Western syntheses (Grousset, Runciman, Setton's Wisconsin history). The Dumbarton Oaks volume edited by Laiou and Mottahedeh (2001) represents a systematic effort to incorporate Byzantine and Muslim viewpoints. See [[concepts/byzantine-just-war]] and [[concepts/jihad-concept-evolution]] for the ideological frameworks of those perspectives.
 
 ## Related
 
