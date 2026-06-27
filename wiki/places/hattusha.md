@@ -7,7 +7,7 @@ period_active: [Middle Bronze Age, Late Bronze Age]
 controlled_by: [[[hittites|the Hittite kingdom]]]
 events_here: [Anitta's destruction & cursing of the city (~1750 BCE), refoundation as capital by [[hattusili-i|Hattusili I]] (~1650 BCE)]
 processes_here: [[[indo-european-migrations]], [[trade-network-formation]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-27
 tags: [place, anatolia, near-east, middle-bronze-age, late-bronze-age]
 ---
@@ -57,6 +57,28 @@ source for Bronze Age kingship, law and international diplomacy. The cuneiform t
 Hittites used was a distinct script imported (probably via north Syria, akin to
 Alalakh VII) and taught to scribes at Hattusha in the time of Hattusili I.
 
+## Phased fortification history and the Upper City (Bryce)
+
+Bryce's gazetteer adds the **phased physical history** of the capital. The first
+Hittite-period city was small (~62 ha) and poorly defended; King **Hantili II** (C15) gave
+it an 8 m-thick wall with postern gates and corbelled tunnels, but it was nonetheless
+captured, sacked, and burned — very likely by the **Kaska** — during the reign of
+**Tudhaliya III** (1370?–1350). Rebuilt by **[[shuppiluliuma-i|Suppiluliuma I]]**, it briefly
+*lost* capital status when **Muwattalli II** moved the seat south to **Tarhuntassa** before
+**Urhi-Teshub** restored it. In its last two centuries the city more than doubled to ~185 ha
+by a southern expansion, fortified by ~5 km of towered casemate wall and the monumental
+**Sphinx, Lion, and "King's" gates**; the original core (the **Lower City**, with the royal
+acropolis and the Great Temple of the storm god and the sun goddess of Arinna) was now
+distinguished from the temple-filled **Upper City** (some 31 known temples — read by the
+excavator P. Neve as a deliberately sacred, cosmologically-laid-out ceremonial city, its final
+form driven by **Tudhaliya IV**'s religious reforms). Excavation also revealed underground
+**granaries** and storage complexes with a combined capacity near 8,000 tonnes of grain, and
+five C15 **water reservoirs**. Later finds — the 1986 **bronze tablet** (reshaping the late
+kingdom's political geography), the >3,500-impression **seal archive**, and the **Südburg**
+hieroglyphic cult complex of **Suppiluliuma II** — continue to enrich the documentary record.
+This material grounds Seeher's **deliberate-abandonment** reading of the end (portable
+valuables and records removed before the final destruction).
+
 ## Why this place mattered
 
 Hattusha is the **command-centre and memory-bank of the first Indo-European
@@ -72,4 +94,5 @@ intrusive "Phrygian" pottery) is one of the markers of the
 - State: [[hittites]] · Kings: [[hattusili-i]] · [[mursili-i]] · Event: [[telipinu-edict-1500bce]]
 - Place: [[alalakh]] (the akin level-VII script) · [[kultepe|Kanesh/Kültepe]] (the colony-age predecessor) · [[troy]]
 - People: [[indo-european-migrations]] · [[hurrians]]
-- Period: [[middle-bronze-age]] → [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] ([[anitta|Anitta's]] curse; the burning under Tudhaliya III; Seeher's [[bronze-age-collapse-1200bce|deliberate-abandonment]] thesis)
+- People: [[luwians]] (Luwian cuneiform passages embedded in the Hattusha archives)
+- Period: [[middle-bronze-age]] → [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] ([[anitta|Anitta's]] curse; the burning under Tudhaliya III; Seeher's [[bronze-age-collapse-1200bce|deliberate-abandonment]] thesis) · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]] (phased fortifications; Upper City; granaries)

@@ -9,8 +9,8 @@ affiliated_with: [[[amorites|Amorite]] dynasty, [[mari|Mari]] (Zimri-Lim, son-in
 opposed_by: [Qatna (rival), Eshnunna, the [[hittites|Hittites]] (Hattusili I, Mursili I)]
 key_events: [cession of Alalakh to Yarim-Lim II's branch, sack of Alalakh and Aleppo by the [[hittites|Hittites]] (~1620–1600 BCE)]
 key_processes: [[[trade-network-formation]], [[interpolity-law]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, state, middle-bronze-age, levant, near-east]
 ---
 
@@ -81,4 +81,4 @@ chronology is pegged to the Babylonian and Hittite sequences. See
 - People: [[amorites]] · [[hurrians]] · Place: [[mari]] · Marriage-ally: [[zimri-lim]]
 - Destroyed by: [[hattusili-i]] & [[mursili-i]] of the [[hittites]] → [[fall-of-babylon-1595bce]]
 - Concept: [[interpolity-law]] · Process: [[trade-network-formation]]
-- Period: [[middle-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]
+- Period: [[middle-bronze-age]] · Source: [[edwards-cah-v2p1-1973]] · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]] (nine kings; the ~20 subject rulers; the Hattusili–Mursili destruction)

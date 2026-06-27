@@ -142,5 +142,6 @@ is an area where the collection is moderate.
 
 - [[bronze-age-collapse-1200bce|Bronze Age Collapse]] · [[phoenicians|Phoenicians]] · [[hebrew-kingdom|Hebrew Kingdom]]
 - [[hittites|Neo-Hittite states]] · [[phrygians|Phrygians]] · [[assyria-middle|Middle Assyria]]
+- Aramaean-ruled kingdoms: [[hamath|Hamath]] (Aramaean dynasty from Zakkur c.796, over a former Neo-Hittite kingdom) · Aram-Damascus
 - [[tiglath-pileser-i|Tiglath-pileser I]] · [[david|David]] · [[early-iron-age|Early Iron Age]]
-- [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2 (source)]]
+- [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2 (source)]] · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]]

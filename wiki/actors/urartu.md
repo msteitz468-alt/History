@@ -110,5 +110,6 @@ Eastern influence on the early Mediterranean.
 ## Related
 
 - Rival/Source-frame: [[neo-assyrian-empire]] · [[tiglath-pileser-iii]]
+- Contested buffer: [[mannaea|Mannaea]] (the Urmia-basin kingdom Urartu conquered c.801 under Minua and fought Assyria over)
 - Region: [[anatolia]] · [[eurasian-steppe]] · People: [[arameans]]
-- Period: [[early-iron-age]] · Source: [[boardman-cah-v3p1-1982]] · [[boardman-cah-v3p2-1991]] (Ch. 22)
+- Period: [[early-iron-age]] · Source: [[boardman-cah-v3p1-1982]] · [[boardman-cah-v3p2-1991]] (Ch. 22) · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]]

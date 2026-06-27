@@ -175,8 +175,8 @@ that Persia could be toppled by a swift thrust from the west.
 
 Weakened by costly Greek wars, satrapal revolts, and succession struggles, the
 empire fell to **[[alexander-the-great|Alexander of Macedon]]**, who defeated Darius
-III at Granicus, Issus, and decisively **Gaugamela (331 BCE)**; Persepolis was
-sacked (yielding ~2,500 tons of gold) and Darius III killed (330). Its institutions,
+III at Granicus, Issus, and decisively **Gaugamela (331 BCE)**; [[persepolis|Persepolis]]
+was sacked and burned (yielding ~2,500 tons of gold) and Darius III killed (330). Its institutions,
 however, were inherited by the [[hellenistic-world|Seleucids]], the
 [[parthian-empire|Parthians]], and the [[sasanian-empire|Sasanians]].
 
@@ -223,7 +223,8 @@ school using **Persian royal inscriptions** (Behistun, Naqš-e Rostam), the
 recovering a sophisticated, tolerant, well-administered polity. Compare the
 comparative imperiology in [[empire]].
 
+- Capitals: [[persepolis|Persepolis]] (ceremonial capital, founded by Darius I; find-spot of the Fortification Tablets) · [[susa]] · Pasargadae · Ecbatana
 - Greek wars: [[ionian-revolt-499bce]] · [[battle-of-marathon-490bce]] · [[thrace]] (Skudra) · [[isonomia]] · source-critique: [[herodotus-reliability]]
 - Fourth century: [[achaemenid-satrapy]] · [[artaxerxes-ii]] · [[cyrus-the-younger]] · [[march-of-the-ten-thousand-401bce]]
 - Sources: [[benjamin-cwh-v4-2015]] (Daryaee, Ch. 10) · [[boardman-cah-v4-1988]]
-  (Chs. 3c–3d eastern satrapies; Chs. 6, 8, 9 the Greek wars; Chs. 1–2, 3a missing from scan) · [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 3, Hornblower)
+  (Chs. 3c–3d eastern satrapies; Chs. 6, 8, 9 the Greek wars; Chs. 1–2, 3a missing from scan) · [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 3, Hornblower) · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]]

@@ -196,3 +196,12 @@ self-representation must be corrected against archaeology. CWH IV places Assyria
 the founding case in the period's comparative study of [[empire]] and imperial
 collapse; its capitals are treated as a place type in [[nineveh|Nineveh and the
 Neo-Assyrian Capitals]] and [[imperial-city]].
+
+## Related
+
+- Subject/peripheral kingdoms (Bryce gazetteer): [[mannaea|Mannaea]] (eastern Iranian-plateau
+  buffer fought over with [[urartu|Urartu]], eventually a faithful Assyrian ally) ·
+  [[hamath|Hamath]] (Orontes kingdom provincialized after Yaubidi's revolt, 720) ·
+  [[neo-hittite-states|Neo-Hittite states]] · [[arameans|Aramaean states]]
+- Rivals: [[urartu]] · [[elam]] · [[neo-babylonian-empire]] · the [[medes]]
+- Source: [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook of the Peoples and Places of Ancient Western Asia]] (2009) — gazetteer entries on the conquered and tributary polities

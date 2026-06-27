@@ -220,5 +220,5 @@ merely a royal audience. See [[cambridge-ancient-history-methodology]].
 - Place: [[hattusha]] (the capital) · [[alalakh]] · [[troy|Troy/Wilusa]] · Kings: [[hattusili-i]] · [[mursili-i]]
 - Event: [[fall-of-babylon-1595bce]] · [[telipinu-edict-1500bce]] · Destroyed: [[iamkhad|Aleppo]]
 - Rivals: [[mitanni]] · [[hurrians]] · Opened the way for: [[kassites]]
-- Empire: [[shuppiluliuma-i]] · People: [[indo-european-migrations]] · Concept: [[interpolity-law]] · [[amarna-letters]]
+- Empire: [[shuppiluliuma-i]] · People: [[indo-european-migrations]] · [[luwians]] (Anatolian linguistic kin, within and beyond Hatti) · Concept: [[interpolity-law]] · [[amarna-letters]]
 - Period: [[middle-bronze-age]] → [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]

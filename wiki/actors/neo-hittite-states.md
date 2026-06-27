@@ -115,6 +115,8 @@ archaeology of the individual sites.
 ## Related
 
 - Antecedent: [[hittites|Hittite Empire]] · [[bronze-age-collapse-1200bce|Bronze Age Collapse]]
+- Cultural substrate / script: [[luwians|Luwians]] (the Luwian hieroglyphic monumental tradition that defines the Neo-Hittite states, c.1100–700)
+- Member kingdoms: [[carchemish|Carchemish]] · [[hamath|Hamath]] (Neo-Hittite before its Aramaean dynasty)
 - Neighbours/rivals: [[arameans|Aramaeans]] · [[neo-assyrian-empire|Assyria]] · [[urartu|Urartu]] · [[phrygians|Phrygia]]
 - Period: [[early-iron-age|Early Iron Age]] · Region: [[anatolia]] · [[levant]]
-- Source: [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] (Kuzi-Teshub's "Great King" line at [[carchemish|Carchemish]] bridging the collapse) · [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]]
+- Source: [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] (Kuzi-Teshub's "Great King" line at [[carchemish|Carchemish]] bridging the collapse) · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]] · [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]]

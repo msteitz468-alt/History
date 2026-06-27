@@ -47,7 +47,7 @@
 
 ### 4. Ancient Near East, Levant & Anatolia
 27. **Mario Liverani** - *The Ancient Near East: History, Society and Economy* ✅ (ingested 2026-06-27; interpretive layer + new pages: ANE historiography, modes of production, environment & society, Ebla, Gutians, Arslantepe)
-28. **Trevor Bryce** - *The Routledge Handbook of the Peoples and Places of Ancient Western Asia*
+28. **Trevor Bryce** - *The Routledge Handbook of the Peoples and Places of Ancient Western Asia* ✅ INGESTED 2026-06-27 (2009; ~500k-word A–Z gazetteer of ~1,500 ANE peoples/places, EBA→fall of Persia. **Focused reference ingest** into the already-strong ANE wiki, per hybrid-depth: used to fill genuine page gaps + enrich existing pages, not to mine all entries. 5 new: places [[eshnunna]], [[hamath]], [[persepolis]]; actors [[mannaea]], [[luwians]]. 9 updated incl. folding Bryce detail into the existing [[hattusha]] and [[iamkhad|Yamhad]] pages (transliteration-variant duplicates avoided — see skill-obs #23) + [[neo-assyrian-empire]], [[urartu]], [[achaemenid-empire]], [[arameans]], [[neo-hittite-states]], [[amorites]], [[hittites]]. 0 broken links.)
 29. **Trevor Bryce** - *The Kingdom of the Hittites* ✅ (ingested 2026-06-27 via Deployed Subagent Strategy, 7 ranges; the political-military spine of Hatti — filled the Empire + Fall narrative on the hittites page; 22 pages created incl. the Šuppiluliuma I biography hub + hittite-vassal-treaties concept, 22 updated)
 30. **Trevor Bryce** - *The World of the Neo-Hittite Kingdoms: A Political and Military History*
 31. **William G. Dever** - *Beyond the Texts: An Archaeological Portrait of Ancient Israel and Judah*

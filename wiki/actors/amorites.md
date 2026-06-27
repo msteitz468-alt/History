@@ -159,8 +159,8 @@ the steppe-vs-town framing itself, remain debated. See
 ## Related
 
 - Opposed: [[akkadian-empire]] · [[third-dynasty-of-ur]] · [[middle-kingdom-egypt|Egypt (the Amu)]]
-- Dynasties: [[babylon-first-dynasty]] · [[shamshi-adad-i|Assyria]] · [[zimri-lim|Mari]] · [[iamkhad|Yamhad]] · King: [[hammurabi]]
+- Dynasties: [[babylon-first-dynasty]] · [[shamshi-adad-i|Assyria]] · [[zimri-lim|Mari]] · [[iamkhad|Yamhad]] · [[eshnunna|Eshnunna]] · King: [[hammurabi]]
 - The other "outsider" stream: [[hurrians]] · Concept: [[interpolity-law]] · [[city-state]]
 - Event: [[gutian-invasion]] · [[fall-of-ur-2004bce]] · Place: [[mari]] · Process: [[migration-in-human-history]] · [[pastoral-nomadism]]
-- Period: [[early-bronze-age]] → [[middle-bronze-age]] · Source: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v1p2-1971]]
+- Period: [[early-bronze-age]] → [[middle-bronze-age]] · Source: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v1p2-1971]] · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]]
 - Analogous to: later steppe-to-city movements (Aramaeans, Chaldeans)
