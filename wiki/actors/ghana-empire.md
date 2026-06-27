@@ -56,7 +56,7 @@ Ghana's rulers had themselves become Muslim, under pressure from the **Almoravid
 
 [[kedar-cwh-v5-2015|CWH V]] (Conrad, Ch 22) places Ghana — known to its own Soninke
 descendants as **Wagadu** — as the first in the sequence of
-[[western-sudan-states|Western Sudanic]] states (Wagadu → [[mali-empire|Mali]] →
+Western Sudanic states (Wagadu → [[mali-empire|Mali]] →
 [[songhay-empire|Songhay]]), all drawing power from trans-Saharan trade and control of
 production and trading centers. Conrad's chapter foregrounds the methodological point
 that this history is reconstructed by combining Arabic written sources with
@@ -104,6 +104,44 @@ Ghana is known almost entirely through **Arabic geographers** (al-Bakri and othe
 archaeology at Kumbi Saleh and the Niger cities — its own people left no written records.
 CWH IV warns against the old bias of dating African developments to their **first mention in
 foreign sources**: Ghana was clearly powerful well before the surviving descriptions.
+
+## Davidson's popular portrait: al-Bakri and al-Kati (1966)
+
+[[davidson-african-kingdoms-1966|Davidson, *African Kingdoms* (1966)]] provides a synthesizing narrative
+aimed at a general audience (Time-Life "Great Ages of Man" series) drawing on the same Arabic sources used
+by specialist scholarship. It adds two useful elements as illustrative material:
+
+**Al-Kati's traditions.** Davidson cites **Mahmud al-Kati** (b. c. 1468), a Soninke scholar and patron of
+Askia Muhammad of Songhai, who began collecting notes for the *Tarikh al-Fettash* in 1519 and lived to
+approximately 125. As a descendant of the Soninke people who had ruled ancient Ghana, al-Kati preserved the
+tradition that Ghana's king **Kanissa'ai** ("one of the lords of the gold") kept 1,000 horses each with its
+own mattress and copper urinal, sat on "a balcony of red-gleaming gold," and ordered "food sufficient for
+10,000 people" at evening audiences. Davidson treats these figures as legend that "embroider but do not
+invent," and notes they are partially corroborated by al-Bakri's more reliable court description.
+
+**Al-Bakri's court scene (1068).** Davidson quotes at length from **al-Bakri of Cordoba**'s *Book of Roads
+and Kingdoms* (compiled c. 1068): the king sitting in a pavilion with "10 horses with gold-embroidered
+trappings," "10 pages holding shields and gold-mounted swords," sons of princes with "gold plaited in their
+hair," and the palace door guarded by dogs wearing "collars of gold and silver." Davidson notes al-Bakri's
+distances between cities are checkable and very accurate, lending his account overall credibility.
+
+**Kumbi Saleh archaeology.** Davidson records that French colonial administrator **Albert Bonnel de
+Mezieres** identified the ruins of Ghana's Muslim merchant town at **Kumbi Salih** (Mauritania, ~200 miles
+north of modern Bamako) in 1914. French archaeologists **Raymond Mauny** and **Paul Thomassey** excavated
+in the early 1950s, uncovering fine stone houses some two storeys high — "clearly the dwellings of
+al-Bakri's prosperous Muslim merchants."
+
+**Gold-salt exchange mechanics.** Davidson quotes the Spanish traveller **Abu Hamid al-Andalusi**: "In the
+sands of that country is gold, treasure inexpressible. Merchants trade with salt for it, taking the salt on
+camels from the salt mines. They start from a town called Sijilmasa ... [taking] provisions for six months,
+and when they reach Ghana they weigh their salt and sell it against a certain unit of weight of gold ...
+according to the market and the supply." Davidson also cites **Ibn Hawqal** (10th c.) noting a merchant in
+Sijilmasa owed his Saharan partner in Awdaghust the immense sum of 40,000 golden dinars.
+
+*Reliability note:* Davidson's 1966 account is a popular synthesis, not a monograph. It accurately
+summarises the mid-century scholarly consensus on Ghana but pre-dates the fuller GHA III treatment of the
+Almoravid controversy and lacks the methodological nuance of Levtzion or Conrad. Use as illustrative
+framing and as evidence of mid-20th-century historiographical assumptions, not as primary scholarship.
 
 ## GHA III: al-Bakri's Ghana and the Almoravid question
 

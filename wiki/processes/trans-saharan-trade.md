@@ -114,6 +114,43 @@ Sea route that raised **[[aksum|Aksum]]**, it reintegrated Africa into a civiliz
 "extending from Afghanistan to the Atlantic," completing the **reconnection of sub-Saharan
 Africa to Eurasia**.
 
+## Davidson's synthesis: the network of commerce (1966)
+
+[[davidson-african-kingdoms-1966|Davidson (1966)]] provides a useful popular synthesis of the
+trade's logistics, adding a descriptive account of its full infrastructure. He identifies two
+northern "port" zones — **Sijilmasa, Marrakech, and Ghadames** on the Sahara's northern rim —
+where European goods (cloth, horses, manufactured items) were assembled onto camels for the
+desert crossing. On the southern rim, the desert-edge "ports" — **Timbuktu, Walata, Gao, and
+Takedda** — received the caravans; camels returned north laden with hides, kola nuts, and gold
+while European products continued south by **head porterage** into the forest kingdoms and
+to markets on the Gulf of Guinea.
+
+Davidson estimates caravans ran "sometimes as many as 12,000 camels strong" for protection from
+bandits, journeys lasting "as long as three months, with only a few stops for water at oases
+along the way." He notes the camels were "ill-tempered, surly beasts" that "balked at every
+attempt to bridle or load them, biting or spitting at the cameleers" — hobbled camels might
+wander "three or four miles" overnight, causing a day's delay.
+
+On gold production: Davidson asserts that African gold technology was "entirely an African
+development — none of the methods of prospecting were imported from outside." Some gold was
+alluvial and could be panned; much was embedded in seams requiring shaft mines "varying from a
+few feet to almost 100 feet deep, the latter being linked by galleries and side shafts."
+He estimates total gold mined from antiquity to 1500 at approximately **3,500 tons**.
+
+He identifies **two main gold regions**: the older one (linked to Ghana and Mali) in the
+northern part of modern Guinea; and a second, "eventually more important" region in the forest
+lands of modern Ghana, rising to prominence around 1400 as European demand expanded.
+
+On the European demand side, Davidson argues that "the prosperity of the African trading empires
+between the 13th and 16th Centuries was in a large measure caused by Europe's demand for more
+gold" — as European gold reserves dried up through increased trade and cut-off of traditional
+supply sources. After 1440 Portuguese caravels supplemented overland routes, "carrying the bulk
+of the merchandise, sailing south around the great bulge of Africa to Axim and Elmina."
+
+*Reliability note:* Davidson's 1966 synthesis reflects mid-20th-century scholarly consensus.
+His commercial geography and commodity estimates are broadly consistent with GHA IV/V and
+Levtzion but lack the technical depth of specialist scholarship.
+
 ## The Western Sudanic States (CWH V, Conrad)
 
 [[kedar-cwh-v5-2015|CWH V]] (David C. Conrad, Ch 22) extends the story to 1500, tracing

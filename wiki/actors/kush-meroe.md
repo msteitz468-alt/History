@@ -132,6 +132,82 @@ with Meroitic pottery and silverware) to the medieval **[[christian-nubia|Christ
 (Nobatia, Makuria, Alodia), converted from 543 CE and surviving beside Muslim Egypt under the **Baqt**
 treaty until c. 1500 — the long Christian bridge between Kush and the Islamic Sudan.
 
+## Davidson's narrative (African Kingdoms, 1966)
+
+Basil Davidson's Chapter 2, "Civilizations of the Nile," offers a popular synthesis of
+Kush/Meroe that is useful for its framing arguments even where later scholarship (GHA II,
+CAH III.2) has superseded the details.
+
+**Two-period structure.** Davidson's organizing frame — Kush's history divides into a Napatan
+period and a Meroitic period — remains accurate. Founded "just prior to 750 B.C. by princes who
+made their capital at Napata, near the southern end of the Dongola Reach," Napata remained the
+center for "some 200 years" before the capital shifted south to Meroe.
+
+**The Napatan conquest of Egypt.** Davidson traces the sequence: Piankhy's father seized Thebes
+and much of Upper Egypt in the early 8th century BCE; **Piankhy** added Memphis and much of
+Lower Egypt "between 751 and 730 B.C."; Piankhy's brother **Shabako** brought the Nile Delta
+within Kushite power "between 707 and 696 B.C." The Assyrian expulsion came through **Taharqa**,
+who "met an enemy stronger than he was." Davidson quotes Esarhaddon's boastful inscription: "Five
+times I hit him with the point of my arrows ... I laid siege to Memphis, his royal residence:
+I destroyed, tore down its walls, and burnt it down." Taharqa retreated south; his successor
+**Tanuatamun**'s rule ended Kushite dominion over Egypt.
+
+**Shift to Meroe.** Davidson attributes Meroe's ascendancy to three factors: (1) security —
+Napata had suffered attack from Psammetichus II; (2) resources — as the Sahara dried, royal
+cattle overgrazed Napata's region, while Meroe was "relatively rich in iron ore" and had more
+smelting fuel; (3) a growing sense of national identity, beginning with **King Nastasen** (328–308
+BCE). He called Meroe "the Birmingham of ancient Africa" (attributing this to a British
+archaeologist) for its ironworking scale; "tall heaps of ironworking waste may still be seen there."
+
+**Meroitic script.** Davidson notes Meroe "had its own alphabetic writing, developed in the late
+Third or early Second Century B.C., but the language it was used for is not understood, and the
+script has yet to be deciphered" — accurate as of 1966; the script remains undeciphered today,
+though some progress has been made on phonology.
+
+**Cultural independence.** From Nastasen's reign, Meroitic civilization "increasingly acquired an
+accent that was wholly its own": Meroitic hieroglyphs, then an alphabet and script; new gods
+(including a lion god "with three faces and four arms") replacing the Egyptian ram-god Amon; new
+architectural, pottery, and artistic styles. The Kushites also raised the elephant "to a position
+of great importance" — the large walled complex at **Musawwarat** was possibly a stable and
+enclosure for royal elephants. Davidson compares the residual Egyptian cultural traces (royal
+ceremonials, Egyptian hieroglyphs on royal tombs) to the persistence of Latin in Western society.
+
+**Trade and cosmopolitanism.** Davidson emphasizes Kush's commercial reach: trade northward with
+Egypt, Red Sea ports connecting to Arabia, East Africa, India "and perhaps even China," and
+influence as far west as the Lake Chad region. He notes the cosmopolitan finds: "a fine bronze
+head of Dionysus, sculpted in Alexandria," Roman-influenced architecture at Naga, and a lion god
+"strangely reminiscent of India's Hindu god Shiva." Kushite ambassadors went to Rome in the 1st
+century BCE; Nero sent two Roman centurions to Kush to assess its worth as a conquest.
+
+**Decline.** Davidson places the onset of decline around 200 CE when "its vital trade routes
+north and east were obstructed by new rivals and enemies, hungry nomads from the scorching
+deserts on either side of the Nile." The last king of Kush, "the 72nd ruler of his line," was
+**Malequerebar**, buried in a tiny brick pyramid in 320 CE. Several years later **Ezana of Axum**
+marched north, defeated the Noba at the ford of Kemalke, seized the "towns of masonry" of the
+Kushites, and returned to Ethiopia with 3,112 cattle and 6,224 sheep. Davidson quotes Ezana's own
+inscription on this campaign.
+
+**Post-Meroitic X-Group and Christian Nubia.** Davidson traces what happened after: the Noba
+infiltrators, "acquiring a taste for urban life," settled in Kush's masonry towns, adopted some
+Meroitic customs (but not writing), and produced a culture archaeologists call **"X-Group"** —
+"part Noban, part Meroitic." From this, in the sixth century, emerged the three **Christian
+kingdoms of Nubia**: **Nobatia** (north), **Makuria** (middle), and **Alodia** (south). The
+missionary **Julian** arrived in 543; his discomfort in the heat is preserved by John of Ephesus.
+After Egypt fell to Muslim Arabs, Nubia was "all but cut off from the rest of the Christian
+world for 600 years." Nobatia fell to Saracen pressure in 1276; Makuria held until a century
+later; Alodia survived until the 15th century. The murals of **Faras**, rescued by a Polish
+expedition before the waters of the Aswan Dam rose, are Davidson's evidence of Nubian
+civilization's quality.
+
+**Reliability note.** Davidson's king list and dates for the Napatan conquest agree closely with
+CAH III.2; his Meroitic dating and the X-Group interpretation were current 1966 scholarship.
+The "Birmingham of Africa" label for Meroe is contested: as Reader notes, West/Central African
+ironworking predates Meroe, refuting the Nile-corridor diffusionist thesis. Use Davidson for
+the narrative arc and his quotes from ancient sources; cross-check specific claims against
+[[gha-vol2-ancient-civilizations]] and [[boardman-cah-v3p2-1991]].
+
+Source: [[davidson-african-kingdoms-1966]]
+
 ## Related
 
 - Source: [[gha-vol2-ancient-civilizations|GHA Vol. II]] · Successor: [[christian-nubia]]

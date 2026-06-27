@@ -64,10 +64,60 @@ plateau states — **Mapungubwe → Great Zimbabwe → Mutapa and Torwa/Khami** 
 old racist denialism) the **indigenous Shona** authorship of the stone architecture and the **Indian Ocean
 gold trade**, via the [[swahili-coast|Swahili]] port of Sofala, that underwrote their wealth.
 
+## Davidson's synthesis (African Kingdoms, 1966)
+
+Basil Davidson's *African Kingdoms* (Chapter 1, "The Hidden Cities") gives the earliest widely
+read synthesis of Great Zimbabwe for a general audience. His account captures the shock of
+European first contact and the corrective archaeology:
+
+**Posselt's discovery.** Explorer **Willi Posselt**, ascending the uplands of southern Rhodesia
+after crossing the Limpopo in the 1860s, came upon stone ruins with walls "as much as 32 feet
+high." He entered what was the **Great Temple** by roping down from the top of the wall through
+dense bush: "Profound silence brooded over the scene." Posselt's African bearers, "on nearing
+Zimbabwe, sat down and solemnly saluted by clapping their hands" — Davidson notes they may have
+been descended from the very builders, following a time-honored ritual, though Posselt did not
+consider this possibility.
+
+**Scale and political context.** Davidson describes Zimbabwe as "seat of a flourishing African
+empire that had declined only a century before." Its kings "controlled an area that included much
+of what is now Rhodesia and central Mozambique, and had grown rich and powerful on gold." Under
+one dynasty, "Zimbabwe's originally simple buildings had been transformed into the imposing royal
+enclosure which Posselt had come upon."
+
+**Conical Tower.** Davidson reproduces the debates about the enigmatic solid-masonry conical
+tower dominating the inner sanctum, noting that "guesses about the tower's function have ranged
+widely, from a chieftain's gold-filled tomb to a version of a Muslim minaret" — without
+resolving the question (it remains unresolved; interpretations since lean toward a grain bin or
+symbol of chiefly authority).
+
+**The denialist tradition.** Davidson situates the racist attribution controversy in 19th-century
+evolutionary thinking: "Nineteenth Century Europeans thought that social order was a steep
+ladder of racial virtue, with white peoples on the topmost rung." He quotes Henry Drummond's
+contemptuous characterization of East Africans as "half animal, half children," and Sir Richard
+Burton's dismissal of dissenters. Davidson's corrective is direct: "Working from a wider knowledge
+and less colorful prejudice, modern Africanists have proved these men to be wrong. Posselt's
+bearers may indeed have been descended from the very people who built Zimbabwe."
+
+**Decorative stonework.** Davidson notes three decorative wall-pattern traditions at the Zimbabwe
+complex: the chevron design at the Great Temple, and checkered and herringbone patterns at
+**Naletale** (probably a chief's dwelling) — all executed without mortar.
+
+**Reliability note.** Davidson wrote before the definitive radiocarbon dating of Great Zimbabwe
+(established in the 1960s–70s) and before the GHA IV synthesis; his political geography
+(describing the kingdom as controlling "Rhodesia and central Mozambique") matches the broad
+outline confirmed by later archaeology. His framing of indigenous African authorship was
+corrective and correct; the specific dynastic details he supplies (e.g., "under the rule of one
+of their dynasties") are consistent with what is now known about Shona political succession but
+lack precision. Cross-check with [[reader-africa-biography]] and [[gha-vol4-12th-16th-century]]
+for updated evidence.
+
+Source: [[davidson-african-kingdoms-1966]]
+
 ## Related pages
 
 [[reader-africa-biography]] · [[gha-vol4-12th-16th-century]] · [[cambridge-history-of-africa-v3]] · [[sub-saharan-africa]] · [[swahili-coast]] ·
-[[indian-ocean-trade]] · [[trans-saharan-trade]] · [[aksum]] · [[kush-meroe]]
+[[indian-ocean-trade]] · [[trans-saharan-trade]] · [[aksum]] · [[kush-meroe]] ·
+[[davidson-african-kingdoms-1966]]
 
 *The [[cambridge-history-of-africa-v3|Cambridge History of Africa, Vol. 3]] (1977) covers the
 southern African states and the East African interior in the Indian Ocean gold trade —

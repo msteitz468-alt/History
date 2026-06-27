@@ -113,6 +113,57 @@ Christian Ethiopia a measure of respect in Islamic tradition — even as Muslim 
 islands** and the Red Sea coast gradually enclosed the highland Christian state, which entered its long
 medieval isolation "asleep," in Gibbon's phrase, "amid the encircling forces of Islam."
 
+## Davidson's coverage (African Kingdoms, 1966)
+
+Davidson's Chapter 2 covers Aksum as the successor to Kush and anchor of African Christianity.
+Key content:
+
+**African roots, Sabaean influence.** Davidson traces the origins to "settlements whose culture
+was largely influenced by the Sabaeans, a people of southern Arabia" appearing about 500 BCE on
+the southwest flank of the Red Sea. They "worshiped Almaqah, a Sabaean moon god, and they wrote
+in a fine script." Gradually merging with local peoples, this merged culture "developed a
+dynamism all its own." Davidson's framing — Sabaean grafted onto indigenous African substratum
+— aligns with Reader and Phillipson's later synthesis.
+
+**Trade reach.** By the 2nd century CE Aksum had "built a strong state behind the coastal hills,
+with a capital at Axum." An Alexandrian merchant writing around 523 CE reported that Axum's
+merchants traded "as far as Ceylon and sold their ivory in Persia, Arabia, India and Byzantium."
+Davidson quotes a Mesopotamian poet who compared a royal caravan to the ships of Adulis, whose
+"prow cuts through the foam of the water as a gambler divides the dust with his hand."
+
+**Julian's visit (531 CE).** Julian, the same missionary who had worked among the Nubians,
+was sent by Emperor Justinian to the Aksumite court in 531. He reported the king "received him
+dressed in a linen garment embroidered with gold and set with pearls, and that the royal throne
+was a gilded chariot drawn by four elephants; flutes played during his audience."
+
+**Greek and Geez.** "Greek was still officially the language of this court, but Sixth Century
+Axum was in the process of acquiring a literary language of its own, Geez. The New Testament had
+already been translated into it — probably by a group of Syrian monks, since the text was based
+not on the Bible used in Alexandria, but on the one used in Antioch, in Syria." This is a useful
+popular summary of the Syriac connection in the NT translation; Phillipson's treatment is more
+precise.
+
+**Lalibela and medieval Ethiopia.** Davidson extends the story to the 12th-century king
+**Lalibela** who "presided over the construction of some of the most unusual religious structures
+in the world — a series of 10 chapels and churches, dark-aisled and pillared, hewn out of the
+living rock in the mountains of Lasta near his capital of Roha." He describes the Portuguese
+encounter with 15th-century Ethiopia as resembling "the kingdoms of medieval Europe, a land ruled
+by proud and contumacious nobles bound in fealty to their king."
+
+**Social solidarity as an African theme.** Davidson uses the observations of French travelers
+(the brothers D'Abbadie, 1830s) on Ethiopian feudal solidarity to articulate a pan-African
+argument: "morality was determined by social service; each man had a moral duty to serve the
+group. This sense of identity with the social group lay at the root not only of complex societies
+like Ethiopia, but of primitive societies that had no apparent structure at all."
+
+**Reliability note.** Davidson's treatment is broadly consistent with later scholarship on
+Aksum. His claim that Axum "remained the chief power in the region washed by the southern Red
+Sea until the Eighth Century" aligns with Phillipson's dating of the decline phase. His omission
+of the coinage evidence and the archaeological stratigraphy reflects the popular format; for
+those, see [[phillipson-foundations-african-civilisation-2012]].
+
+Source: [[davidson-african-kingdoms-1966]]
+
 ## Phillipson's synthesis (Foundations of an African Civilisation, 2012)
 
 Phillipson's **[[phillipson-foundations-african-civilisation-2012]]** offers the most comprehensive recent
