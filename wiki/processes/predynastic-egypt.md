@@ -8,8 +8,8 @@ region: [north-africa]
 process_type: cultural
 driven_by: [[[postglacial-environment-near-east|Nile environment]], [[early-agriculture-southwest-asia|farming]]]
 produces: [[[early-dynastic-egypt]], [[memphis|Memphis]], [[urbanization]], [[state-formation]]]
-sources_ingested: 3
-last_updated: 2026-06-26
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [process, neolithic, chalcolithic, north-africa]
 ---
 
@@ -84,6 +84,23 @@ culture in the Delta — the material basis for the later [[unification-of-egypt
 of unification]]. Kemp also rejects the **hydraulic hypothesis**: Egyptian civilization did
 not arise from collective irrigation management (see [[state-formation]]).
 
+## Shaw (2000): the two Egypts and the material trajectory
+
+Béatrix Midant-Reynes's chapter adds the **Lower Egyptian** half of the story that the
+Upper Egyptian cemetery sequence tends to eclipse. The **Maadian cultural complex** (~12
+sites including Maadi near Cairo) was a distinct, comparatively **egalitarian** culture —
+burials of "extreme simplicity," a sedentary agro-pastoral economy with donkeys for
+transport, and strong **Palestinian links** (Canaanite blades, copper ore from
+Timna/Fenan). Its end was "not an abrupt phenomenon" but **cultural assimilation**, traced
+stratum by stratum at **Buto**, as Naqada II expanded north. On the Upper Egyptian side,
+Midant-Reynes documents the trajectory toward ranking through material culture: the
+**disc-shaped macehead** of Naqada I giving way to the **pear-shaped** macehead "mysteriously
+charged as a symbol of power"; the **ripple-flaked knives** "among the most accomplished
+examples of the working of flint anywhere in the world"; the rise of a specialist artisan
+class requiring "urban centres and a surplus economy"; and the **bound-captive/domination
+iconography** that "appears to be the prototype of traditional scenes of victory in the
+pharaonic phase." See [[concepts/state-formation]] and [[places/hierakonpolis]].
+
 ## Interaction
 
 Runs parallel to, and in growing contact with, the [[chalcolithic|Chalcolithic]]
@@ -110,4 +127,6 @@ their period. See [[cambridge-ancient-history-methodology]]. Kemp's
 revision and the proto-state model above. On the deep-time population background — the
 Badarian baseline (c. 4350–3750 BCE) and the genetic discontinuity implied by the violent
 Gebel Sahaba cemetery (c. 14,000–12,000 BP) — see [[egyptian-ethnicity-and-identity]] and
-the standing controversy [[peopling-of-ancient-egypt]].
+the standing controversy [[peopling-of-ancient-egypt]]. The
+[[sources/shaw-oxford-history-ancient-egypt-2000|Oxford History]] (Midant-Reynes) supplies
+the Maadian/Lower Egyptian dimension and the material-culture detail above.

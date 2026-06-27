@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [Lower Egyptian kingdom (pre-unification), Nubian A-Group, Libyan Tjehenu, Sinai bedawin]
 key_events: [[[unification-of-egypt-3100bce]]]
 key_processes: [[[predynastic-egypt]], [[state-formation]], [[urbanization]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, state, early-bronze-age, north-africa]
 ---
 
@@ -109,6 +109,27 @@ funeral. The practice **peaked under Djer** (590+ subsidiary graves at Abydos)
 and then **declined sharply** (≈26 under Qaa, ≈10–15 under Khasekhemwy) — an
 early abandonment of human sacrifice with no parallel in later Egypt.
 
+## Shaw (2000): indigenous roots and the evidence from Abydos
+
+Kathryn Bard's chapter sharpens the picture with the post-1970s
+**[[places/abydos|Abydos/Umm el-Qaab]]** excavations and decisively rejects the old
+"invading race" model: "excavations at Abydos and Hierakonpolis have clearly demonstrated
+the indigenous, Upper Egyptian roots of early civilization in Egypt" (compare the
+discredited "Dynastic Race" notion below). Unification is read as a **process**, not a
+single act — Naqada material culture spreading north until Lower Egypt's indigenous
+artefacts "had disappeared," and a "Dynasty 0" of competing Upper Egyptian polities
+consolidating before the 1st Dynasty.
+
+Bard's account of the royal cemetery details what state formation cost in human terms:
+King **Aha's** complex held "thirty-three subsidiary burials … of young males, 20–25 years
+old, who had probably been killed when the king was buried" (plus seven young lions), and
+the retainer sacrifice "is the only period in ancient Egypt when humans were sacrificed
+for royal burials." She also reports O'Connor's discovery of a fleet of **buried boats**
+(18–21 m long) by Djer's enclosure, and reads the **2nd-Dynasty Seth/Horus episode**
+(Peribsen's Seth-*serekh*; Khasekhemwy's reconciling "Two Lords are at peace in him") as a
+political-religious rupture and healing — Khasekhemwy's burial chamber being "the earliest
+known large-scale construction in stone."
+
 ## Historiography
 
 **The Abydos vs. Saqqara royal-tomb debate.** Both sites yielded "tombs" with
@@ -129,5 +150,5 @@ See [[cambridge-ancient-history-methodology]].
 
 - Event: [[unification-of-egypt-3100bce]] · Person: [[narmer]]
 - Followed by: [[old-kingdom-egypt]] · Preceded by: [[predynastic-egypt]]
-- Place: [[memphis]] · Concept: [[divine-kingship]] · [[writing-and-record-keeping]]
-- Period: [[early-bronze-age]]
+- Place: [[memphis]] · [[places/abydos]] · [[places/hierakonpolis]] · Concept: [[divine-kingship]] · [[writing-and-record-keeping]]
+- Period: [[early-bronze-age]] · Source: [[sources/shaw-oxford-history-ancient-egypt-2000]]

@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [Nubian tribes, Libyans, Sinai bedawin ("sand-dwellers")]
 key_events: [[[fall-of-old-kingdom-2160bce]]]
 key_processes: [[[state-formation]], [[divine-kingship]], [[provider-state]], [[egyptian-bureaucracy]]]
-sources_ingested: 4
-last_updated: 2026-06-26
+sources_ingested: 5
+last_updated: 2026-06-27
 tags: [actor, state, early-bronze-age, north-africa]
 ---
 
@@ -126,6 +126,21 @@ Menkaura valley temple gradually filled with granaries and houses, an officially
 levied soldiers from five Nubian homelands and Libya (see
 [[egyptian-ethnicity-and-identity]]).
 
+## Shaw (2000): the narrative spine and the seeds of collapse
+
+Jaromir Malek's chapter in the [[sources/shaw-oxford-history-ancient-egypt-2000|Oxford
+History]] supplies the connected dynasty-by-dynasty narrative for the individual reigns
+now treated on their own pages — **[[actors/sneferu|Sneferu]]** (the greatest builder of
+the age, perfecting the true pyramid at Dahshur), **[[actors/khufu|Khufu]]** (the Great
+Pyramid at **[[places/giza|Giza]]**, ~2.3 million blocks), and **[[actors/pepy-ii|Pepy
+II]]** (the ~94-year reign that shaded into collapse). Malek frames the **"Old Kingdom"**
+itself as a modern label ("the ancient Egyptians never used it") and reads pyramid-building
+as the **economic and social catalyst** of the age — diverting labour, stimulating
+administration, and (through permanent tax-exempt endowments) sowing the
+[[events/fall-of-old-kingdom-2160bce|fiscal seeds of the eventual collapse]]. The earliest
+royal religious corpus, the **[[concepts/pyramid-texts|Pyramid Texts]]**, first appears in
+the pyramid of Unas at the close of the 5th Dynasty.
+
 ## Historiography
 
 Smith warns the Old Kingdom Egyptians were "extremely laconic" in recording
@@ -155,5 +170,6 @@ mainstream.
 - Preceded by: [[early-dynastic-egypt]] · Person: [[djoser]] · Event: [[fall-of-old-kingdom-2160bce]]
 - Place: [[memphis]] · Concept: [[divine-kingship]] · [[writing-and-record-keeping]]
 - Process: [[state-formation]] · [[provider-state]] · [[egyptian-bureaucracy]] · Period: [[early-bronze-age]]
-- Source: [[kemp-ancient-egypt-anatomy-2018|Kemp, Anatomy of a Civilization]]
+- Source: [[kemp-ancient-egypt-anatomy-2018|Kemp, Anatomy of a Civilization]] · [[sources/shaw-oxford-history-ancient-egypt-2000|Shaw, Oxford History]]
+- Rulers: [[actors/sneferu]] · [[actors/khufu]] · [[actors/pepy-ii]] · Place: [[places/giza]] · Concept: [[concepts/pyramid-texts]] · [[concepts/palermo-stone]]
 - Contemporary with: [[early-dynastic-sumer]] · [[ur|the Royal Tombs of Ur]] (the mid-3rd-millennium "zenith")
