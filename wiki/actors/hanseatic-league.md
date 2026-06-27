@@ -51,6 +51,25 @@ It bound the [[teutonic-knights|Teutonic]] Baltic, [[grand-duchy-of-lithuania|Li
 the medieval [[commercial-revolution|commercial revolution]], and a counterweight to the rising
 territorial monarchies.
 
+## The Hanse as a Foreign "Nation" (Gelderblom)
+
+In Oscar Gelderblom's [[gelderblom-cities-of-commerce-2013|*Cities of Commerce*]]
+the German Hanse appears from the host city's side, as the **largest foreign
+"nation"** in [[bruges|Bruges]] — 100, and in season perhaps 200, merchants by the
+mid-fifteenth century, far outnumbering the Italian and Iberian nations. The Hanse
+received early and extensive privileges (toll reductions, protection of wrecked
+goods and against seizure, from 1252) and a **consular jurisdiction** over its
+members' internal disputes, but the Countess of Flanders denied it a walled
+compound. The Hanse is also Gelderblom's prime case of **private-order collective
+action**: it repeatedly relocated its trade (to Aardenburg in 1280, and later)
+and threatened boycotts to wrest concessions — credible because competing ports
+lay close at hand. His larger point cuts against [[hanseatic-league|Greif's]]
+private-order reading: such boycotts worked *only* because urban governments
+recognized and embedded the nations, and after 1500 even the Germans grew hesitant
+to use them as merchants settled permanently and turned to
+[[open-access-institutions|generalized institutions]] and marine insurance instead
+(see [[urban-competition-commercial-institutions]], [[institutional-foundations-european-trade]]).
+
 ## Related
 
 - `part_of:` the [[commercial-revolution|commercial revolution]] and the northern trade system.

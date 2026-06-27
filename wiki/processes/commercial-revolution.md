@@ -149,10 +149,26 @@ crashes of the 1340s, after Edward III's default) shook international finance, a
 **bullion famine** contracted the money supply — the monetary underside of the late-medieval
 downturn that Spufford made his special study.
 
+## Institutional Continuation into the Low Countries (Gelderblom)
+
+The institutional adaptations begun in this period — above all the conversion of
+periodic **fairs into permanent, year-round markets** as Italian houses placed
+resident agents in [[bruges|Bruges]], Paris, and London — are carried forward by
+Oscar Gelderblom's [[gelderblom-cities-of-commerce-2013|*Cities of Commerce*]],
+which traces how [[urban-competition-commercial-institutions|competition between
+commercial cities]] kept adapting contracting, conflict-resolution, and risk-
+spreading institutions through the [[bruges|Bruges]] → [[antwerp|Antwerp]] →
+[[amsterdam|Amsterdam]] sequence to 1650. Gelderblom makes the commercial
+revolution the *first* phase of a continuous, distinctively European process of
+institutional change — the persistence of which (vs. the Middle East or China) he
+attributes to a dense field of competing autonomous cities rather than to strong
+states (see [[institutional-foundations-european-trade]]).
+
 ## Related
 
 - [[afro-eurasian-world-system]] — the larger system this is part of.
 - [[early-modern-commerce]] — the early modern sequel (CWH VI).
+- [[urban-competition-commercial-institutions]] — the institutional dynamic carried into 1250–1650.
 - [[indian-ocean-trade]], [[silk-roads]] — the Asian trades Europe plugged into.
 - [[coinage]] — the monetary instruments revived in this period.
 - [[crusades]] — the conflict that opened Levantine markets.

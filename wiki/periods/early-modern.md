@@ -157,6 +157,11 @@ The period is the proving ground for **world and global history** as a field
 - **The origins of international law**: whether a universal law of nations
   emerged (Alexandrowicz) or only a "crude parallel morphology" of shared
   practices (Benton & Clulow); see [[interpolity-law]].
+- **The institutional foundations of trade**: a sharp causal dispute over what
+  made European long-distance commerce possible — strong states (North, Acemoglu),
+  private-order solutions (Greif), or [[urban-competition-commercial-institutions|competition
+  between autonomous cities]] (Gelderblom, [[gelderblom-cities-of-commerce-2013|*Cities
+  of Commerce*]]). See [[institutional-foundations-european-trade]].
 - **Eurocentrism**: the field's self-conscious effort to decenter Europe while
   acknowledging that the source base and the historiography remain
   overwhelmingly Anglophone and Europe-centered (see [[eurocentrism]]).

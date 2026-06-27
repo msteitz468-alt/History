@@ -149,9 +149,25 @@ partnerships; from kin-based to non-familial firms. The process feeds
 [[afro-eurasian-world-system]], and underlies the
 [[early-modern|construction of a global world]].
 
+## The Institutional Foundations (Gelderblom)
+
+Oscar Gelderblom's [[gelderblom-cities-of-commerce-2013|*Cities of Commerce*]]
+supplies the **European institutional** side of this story for the leading
+Northwestern entrepôts. Against the "problem of distance" frame, he argues the
+public-institutional infrastructure that made impersonal exchange possible —
+permanent markets, generalized contracting rules, fast mercantile conflict
+resolution, convoy protection, marine insurance — was produced not by strong
+states or purely private order but by
+[[urban-competition-commercial-institutions|competition between autonomous cities]]
+adapting their institutions to attract footloose merchants. The
+[[bruges|Bruges]] → [[antwerp|Antwerp]] → [[amsterdam|Amsterdam]] sequence shows
+the progression from particularistic foreign-"nation" privileges toward
+[[open-access-institutions|open-access institutions]] (Amsterdam after 1585). See
+the debate at [[institutional-foundations-european-trade]].
+
 ## Related
 
-[[commercial-revolution]] · [[trade-diaspora]] · [[dutch-east-india-company]] ·
+[[commercial-revolution]] · [[urban-competition-commercial-institutions]] · [[trade-diaspora]] · [[dutch-east-india-company]] ·
 [[english-east-india-company]] · [[indian-ocean-trade]] · [[global-silver-trade]] ·
 [[great-divergence]] · [[interpolity-law]] · the commercial city-republics
 ([[merchant-republic|merchant republics]]) of Amsterdam, Antwerp and Hamburg studied in

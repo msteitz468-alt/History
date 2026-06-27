@@ -135,6 +135,6 @@
 
 ### 13. Global Trade Networks & Maritime Systems
 97. **Adam Clulow, Tristan Mostert** - *The Dutch and English East India Companies: Diplomacy, Trade and Violence in Early Modern Asia* ✅ (ingested 2026-06-27)
-98. **Oscar Gelderblom** - *Cities of Commerce: The Institutional Foundations of International Trade in the Low Countries, 1250-1650*
+98. **Oscar Gelderblom** - *Cities of Commerce: The Institutional Foundations of International Trade in the Low Countries, 1250-1650* ✅ (ingested 2026-06-27)
 99. **Tirthankar Roy** - *The East India Company: The World's Most Powerful Corporation*
 100. **Wim Blockmans, Mikhail Krom, Justyna Wubs-Mrozewicz** - *The Routledge Handbook of Maritime Trade around Europe 1300-1600* **[MISSING]**

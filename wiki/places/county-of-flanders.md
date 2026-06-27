@@ -91,5 +91,6 @@ the great late-medieval Burgundian state straddling the Franco-Imperial frontier
 ## Related
 
 - `events_here:` the [[battle-of-courtrai-1302|battle of Courtrai]] (1302).
-- `processes_here:` [[urbanization|urbanisation]], the cloth industry, the [[commercial-revolution|commercial revolution]].
+- `processes_here:` [[urbanization|urbanisation]], the cloth industry, the [[commercial-revolution|commercial revolution]], [[urban-competition-commercial-institutions|urban competition and commercial institutions]].
+- `contains:` [[bruges|Bruges]], the county's great commercial entrepôt and first international market of the Low Countries (see [[gelderblom-cities-of-commerce-2013]]).
 - `controlled_by:` contested between the counts, [[philip-iv-capetian|Philip IV]], and the Empire.

@@ -81,6 +81,20 @@ needs."*
   West) to a Bronze-Age-descended bureaucratic monarchy risks measuring antiquity against
   a modern yardstick.
 
+## NIE in Early-Modern Commercial History
+
+The same framework anchors the institutional turn in **early-modern** European
+economic history. Oscar Gelderblom's
+[[gelderblom-cities-of-commerce-2013|*Cities of Commerce*]] (2013) deploys NIE's
+transaction-cost and adaptive-efficiency vocabulary, but turns it *against*
+North's own conclusion: he argues inclusive, [[open-access-institutions|open-access
+institutions]] in the Low Countries arose from
+[[urban-competition-commercial-institutions|competition between autonomous cities]]
+rather than from strong states with limited government. NIE is thus the shared
+language of a live causal dispute — strong-states (North, Acemoglu) vs.
+private-order (Greif) vs. urban-competition (Gelderblom) — recorded at
+[[institutional-foundations-european-trade]].
+
 ## Related
 
 - [[premodern-state]] · [[ptolemaic-state-formation]] · [[ptolemaic-economy]] ·
