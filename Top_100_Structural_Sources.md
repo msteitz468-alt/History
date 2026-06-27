@@ -120,7 +120,7 @@
 86. **Jacob G. Ghazarian** - *The Armenian Kingdom in Cilicia During the Crusades* **[MISSING]**
 
 ### 11. Sub-Saharan Africa
-87. **David W. Phillipson** - *Foundations of an African Civilisation: Aksum and the northern Horn, 1000 BC - AD 1300*
+87. **David W. Phillipson** - *Foundations of an African Civilisation: Aksum and the northern Horn, 1000 BC - AD 1300* ✅
 88. **Koen Bostoen, Inge Brinkman** - *The Kongo Kingdom: The Origins, Dynamics and Cosmopolitan Culture of an African Polity*
 89. **Basil Davidson** - *Great Ages of Man: African Kingdoms*
 
