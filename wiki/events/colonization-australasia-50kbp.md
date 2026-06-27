@@ -21,8 +21,8 @@ consequences:
   - produced: "Megafaunal extinctions in Sahul (~50,000–45,000 BP)"
   - produced: "Reshaping of Australian environments through fire-stick farming and other land management practices"
   - enabled: "~50,000+ years of unbroken Australian Aboriginal cultural continuity to the present"
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 contains: ["[[pleistocene-megafaunal-extinction]]"]
 tags: [event, migration, "Behavioral Modernity", australia, melanesia]
 ---
@@ -177,3 +177,48 @@ Australasian prehistory is an unusually active field. Key debates:
 See [[australasian-colonization-timing]] for the full controversy page.
 `part_of: [[out-of-africa-2-60kbp]]`
 `part_of: [[processes/paleolithic-global-dispersal]]`
+
+---
+
+## From CHA Vol. 1 (Ch 1)
+
+*Source: Veth and O'Connor, "The past 50,000 years: an archaeological view," Ch 1 in
+[[bashford-macintyre-cha-v1-2013|Bashford and Macintyre (eds), Cambridge History of Australia,
+Vol. 1 (2013)]]*
+
+CHA Ch 1 provides the most detailed site-by-site dating evidence available in the wiki
+for this event. Key additions and refinements:
+
+**Route debate**: Veth and O'Connor present the **southern route** (Lesser Sunda islands:
+Flores, Timor → expanded north-west Australian continental shelf) as generally preferred,
+as it involves shorter open-water crossings between larger islands. A **northern route**
+via Borneo → Sulawesi → New Guinea is also proposed (Morwood and van Oosterzee) but is
+"incompatible with the overwhelming evidence for human presence in this region 42,000
+years ago" (citing Lene Hara Cave, East Timor, 42,000 BP).
+
+**Specific dated sites** (keyed to Map 1.1 in Ch 1):
+- Malakunanja and Nauwalabila 1 (Arnhem Land): 65,000–50,000 BP by OSL — the oldest
+  Australian sites currently known
+- Parnkupirti (Lake Gregory, Great Sandy Desert): 50,000–45,000 BP by OSL
+- Lake Mungo (Willandra Lakes): 50,000–46,000 BP by OSL
+- Devil's Lair (south-west WA): c. 47,000 BP by radiocarbon — oldest radiocarbon date
+- Mimbi Caves (south-central Kimberley) and Carpenter's Gap 1 (Napier Ranges): c.
+  40,000–45,000 cal BP by radiocarbon
+- Sites in both northern and southern Australia: 50,000–45,000 cal BP by radiocarbon
+
+**Consensus**: "general consensus…that as sites with ages of between approximately 50,000
+and 40,000 BP have been recovered from all regions of Sahul, occupation probably occurred
+somewhere on the northern coastline between 60,000 and 50,000 years ago." The original
+landing area is now submerged, so "the precise time of human arrival will never be known."
+
+**Early inland spread**: Resource availability in the interior was likely equal to or
+better than the Holocene up to 45,000 BP in many regions, promoting early inland movement
+rather than long coastal phases. By 39,000 BP the alpine highlands of Tasmania were
+settled — globally significant for their extreme southern latitude.
+
+**Route of entry and Homo floresiensis**: The Sulawesi-bypass northern route proposed by
+Morwood and van Oosterzee would explain the late persistence of *H. floresiensis* in
+Flores; the chapter notes this is nonetheless "incompatible with the overwhelming evidence
+for human presence in this region 42,000 years ago."
+
+Produced: [[deep-aboriginal-history]] (the 50,000-year process this event initiates).
