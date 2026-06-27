@@ -1,41 +1,50 @@
 # Coverage Map and Gap Register
 
-Last updated: 2026-06-22 (after Bickerman Chronology of the Ancient World reference + prior atlas/dictionary ingests)
+Last updated: 2026-06-27 (comprehensive rebuild — the wiki now holds **473 source
+pages**; the previous version still described coverage as the CWH/CAH backbone alone)
 
-This page tracks the current state of wiki coverage: what periods and regions
-are well-documented, where gaps exist, and what is known to be missing.
-Update after each ingest session.
+This page tracks the current state of wiki coverage: what periods and regions are
+well-documented, where gaps exist, and what is known to be missing. Update after each
+ingest session.
+
+> **Note on source counts.** Earlier versions of this page carried a precise
+> "sources ingested" count per period. With 473 source pages now spanning the
+> Cambridge backbones (CAH, NCMH, New Cambridge Modern History, Cambridge World
+> History, Cambridge Histories of Africa/China/India/Japan/Russia/Southeast Asia),
+> the UNESCO *General History of Africa*, the warfare and biography hubs, and several
+> hundred monographs and primary-source translations, per-period counts are no longer
+> reliably attributable. The tables below give **representative key sources** instead.
 
 ---
 
 ## Coverage by Period
 
-| # | Period | Date Range | Coverage | Sources Ingested | Notes |
-|---|---|---|---|---|---|
-| 1 | Deep Prehistory | before 3.3M BP | weak | 1 | CWH I (sketch only) |
-| 2 | Early Prehistory | 3.3M–300,000 BP | moderate | 1 | CWH I Intro + Ch 13/17 |
-| 3 | Late Prehistory | 300,000–50,000 BP | moderate | 1 | CWH I Part II |
-| 4 | Behavioral Modernity | 50,000–12,000 BP | strong | 1 | CWH I Part II; richest period in volume |
-| 5 | Mesolithic | 12,000–9,500 BP | moderate | 1 | CWH I; African food-production origins |
-| 6 | Neolithic | 9,500–3,000 BCE | strong | 1 | CWH II — global agricultural origins, keystone |
-| 7 | Chalcolithic | 5,500–3,300 BCE | weak | 2 | CWH II (secondary products) + CWH III (urban run-up: Ubaid/Uruk) |
-| 8 | Early Bronze Age | 3,300–2,100 BCE | moderate | 1 | CWH III — first cities (Uruk, Memphis, Indus, Anyang); thematic/urban only, deepen from CAH |
-| 9 | Middle Bronze Age | 2,100–1,550 BCE | absent | 0 | |
-| 10 | Late Bronze Age | 1,550–1,200 BCE | weak | 1 | CWH IV touches the close (Olmec, Lapita origins, Mediterranean run-up); deepen from CAH |
-| 11 | Bronze Age Collapse | ~1,200–1,150 BCE | weak | 1 | CWH IV references the 1200 BCE "crisis of the old order" (Egypt/Hittites, Sea Peoples) as its starting horizon; deepen from CAH |
-| 12 | Early Iron Age | 1,200–800 BCE | strong (W. Eurasia) | 3 | CAH III.1 — Neo-Assyria, Urartu, Syro-Hittites, Israel & Judah, Libyan Egypt, Cypro-Geometric, Balkan/NW-Greek EIA, the Greek Dark Age recovery, polis & alphabet; CAH III.2 carries the Assyrian/Near-Eastern story into its imperial climax; CWH IV — Zhou, Kush/Napata, Olmec, Vedic, Nok (non-Western still thin) |
-| 13 | Archaic Period | 800–500 BCE | strong | 4 | CAH IV — the late-Archaic close: the fall of the **Pisistratid tyranny** & **Cleisthenes'** democratic reform (isonomia, ostracism), **Sparta** under Cleomenes I & the Peloponnesian League (Sepea, Aegina), Achaemenid Egypt/Thrace & Darius' Scythian expedition, Presocratics/polis-religion/coinage, and — new to the wiki — **pre-Roman Italy & Sicily** (the Etruscans, Etruria, the Italic peoples, the languages of Italy, Tarquin Rome, Magna Graecia & the Deinomenids); CAH III.3 — **Archaic Greece**: the orientalizing revolution & alphabet, Greek colonization (Magna Graecia, Ionia, Cyrene), Sparta & the League, Corinth & the tyrants, Delphi & the Sacred War, the Gortyn Code, Archaic Athens (Solon, Pisistratus), economy & coinage, hoplite warfare; CAH III.2 — the Neo-Assyrian zenith & fall, the Neo-Babylonian empire, Israel/Judah & the Exile, Phoenicia & Carthage, Scythia/Thrace, Anatolia (Lydia, coinage), Kushite & Saite Egypt; CWH IV — Achaemenid Persia, Warring States, Buddha/Confucius, Chavín |
-| 14 | Classical Antiquity | 500–31 BCE | strong | 2 | CAH IV — the **Greco-Persian Wars**: the Ionian Revolt (499), Marathon (490), and Xerxes' invasion (480–479) — Thermopylae/Artemisium, Salamis, Plataea & Mycale (Themistocles, Xerxes, the phalanx vs Persia); the western synchronism at **Himera** (480) over Carthage (Gelon, Western Greek tyranny); the standing **Herodotus-reliability** controversy; CWH IV — Athens, Alexander/Hellenistic, Roman Republic, Han, Mauryan, Meroe, Garamantes |
-| 15 | Late Antiquity | 31 BCE–600 CE | strong | 2 | CWH IV (Rome→Byzantium, Sasanians, Kushan, Gupta, Teotihuacan/Maya, Moche, Aksum); CWH V opens the "Middle Millennium" here (Justinian, Plague of Justinian, early Christianities, the rise of Islam) |
-| 16 | Early Middle Ages | 600–1000 CE | strong | 2 | CWH IV (Tang, Carolingians, Islamic conquests, 2nd Silk Roads era, Ghana); CWH V — the opening phase of the Afro-Eurasian world system, world religions, Sui–Tang→Song |
-| 17 | High Middle Ages | 1000–1300 CE | strong | 1 | CWH V — the Afro-Eurasian world system, commercial revolution, Song China, Crusades, cultural crystallization, Angkor; eve of the Mongols |
-| 18 | Late Middle Ages | 1300–1500 CE | strong | 1 | CWH V — Pax Mongolica, Black Death, Ottomans/fall of Constantinople, Ming/Zheng He, Mali (Mansa Musa), Aztec & Inca empires |
-| 19 | Early Modern | 1500–1700 CE | moderate | 1 | CWH VI Book 2 — the construction of a global world: Columbian Exchange, Atlantic slave trade, plantation complex, global silver economy, chartered companies (VOC/EIC), Reformation, the global expansion of Christianity & Islam. (Book 1 "Foundations" — the Ottoman/Safavid/Mughal/Ming–Qing/Iberian empires — absent from the source.) |
-| 20 | Age of Expansion | 1700–1800 CE | moderate | 1 | CWH VI Book 2 — the first global wars (Seven Years' War), collapse of the Asian gunpowder empires, apex of Atlantic slavery, industrious revolutions, the Great Divergence debate |
-| 21 | Long 19th Century | 1800–1914 CE | moderate | 1 | CWH VII Book 1 — the Anthropocene/fossil-fuel transition, multipolar industrialization, the demographic transition, the New Imperialism, nationalism, mass migration, abolition, self-strengthening; six modern regional surveys. (Book 2 "Shared Transformations?" — social/cultural history and the Atlantic-revolutions chapter — absent from the source.) |
-| 22 | World Wars Era | 1914–1945 CE | moderate | 1 | CWH VII Book 1 — total war, genocide, communism & fascism, the Great Depression; structural/ideological rather than operational-narrative. No event pages yet for either world war, the Russian Revolution, or the Holocaust. |
-| 23 | Cold War | 1945–1991 CE | moderate | 1 | CWH VII Book 1 — the Great Acceleration, decolonization, the demographic explosion and population politics, the Green Revolution, smallpox eradication, the East Asian resurgence; political-diplomatic Cold War left to the absent Book 2. |
-| 24 | Contemporary | 1991–present | weak | 1 | CWH VII Book 1 — globalization, the climate crisis/mature Anthropocene, the East Asian ascent, demographic deceleration; structural only, from a 2015 vantage. Thinnest/most recent period. |
+| # | Period | Date Range | Coverage | Key sources / notes |
+|---|---|---|---|---|
+| 1 | Deep Prehistory | before 3.3M BP | weak | CWH I (sketch only); hominin origins thin |
+| 2 | Early Prehistory | 3.3M–300,000 BP | moderate | CWH I; Oldowan/Acheulean lithics |
+| 3 | Late Prehistory | 300,000–50,000 BP | moderate | CWH I Part II |
+| 4 | Behavioral Modernity | 50,000–12,000 BP | strong | CWH I; Phillipson (African origins); regional Upper Palaeolithic |
+| 5 | Mesolithic | 12,000–9,500 BP | moderate | CWH I; Champion/Bogucki (Europe); foraging-to-farming transition |
+| 6 | Neolithic | 9,500–3,000 BCE | strong | CWH II; Bogucki & Crabtree *Ancient Europe*; Liu *Chinese Neolithic*; Barnes (East Asia); regional archaeology |
+| 7 | Chalcolithic | 5,500–3,300 BCE | moderate | CWH II/III; Potts *Elam*; Rice *Egypt's Making*; Maisels; Trigger |
+| 8 | Early Bronze Age | 3,300–2,100 BCE | strong | CWH III; CAH I.1–II.1; Shaw *Oxford History of Ancient Egypt*; Kemp; Liverani; Gilgamesh |
+| 9 | Middle Bronze Age | 2,100–1,550 BCE | moderate | **(was "absent")** CAH II.1; Bryce *Kingdom of the Hittites*; Dever *Beyond the Texts*; Hammurabi; Liverani |
+| 10 | Late Bronze Age | 1,550–1,200 BCE | strong | CAH II.1/II.2; Bryce; Dever; Noll; Liverani; LBА Mediterranean & Near East |
+| 11 | Bronze Age Collapse | ~1,200–1,150 BCE | moderate | CAH II.2; Liverani; Bryce *Neo-Hittite Kingdoms*; Dever; standing collapse-causes controversy |
+| 12 | Early Iron Age | 1,200–800 BCE | strong | CAH III.1–III.3; Bryce; Noll *Canaan & Israel*; CWH IV (Zhou, Kush, Olmec, Vedic) |
+| 13 | Archaic Period | 800–500 BCE | strong | CAH III.2/III.3/IV; Greek primaries (Homer, Hesiod tradition); Hansen *Polis*; Etruscans/Magna Graecia |
+| 14 | Classical Antiquity | 500–31 BCE | **excellent** | best-covered period: CAH IV–X; dense Greek/Roman primaries (Herodotus, Thucydides, Xenophon, Polybius, Livy, Plutarch, Cicero, Sallust); Hellenistic (Walbank, Green, Grainger); Alexander (Fox, Green); Punic world (Goldsworthy, **Miles**); Warfare Hub |
+| 15 | Late Antiquity | 31 BCE–600 CE | **excellent** | CAH X–XIV; the Translated Texts for Historians chronicle corpus; Heather, Harper *Fate of Rome*, Sarris *Empires of Faith*; Tacitus/Suetonius; rise of Christianity & Islam |
+| 16 | Early Middle Ages | 600–1000 CE | strong | NCMH I–III (Fouracre, McKitterick, Reuter); Cambridge Hist. China/Japan; Hodgson *Venture of Islam*; Stafford (Britain & Ireland); Geary; Halsall; GHA III |
+| 17 | High Middle Ages | 1000–1300 CE | strong | NCMH IV–V (Luscombe, Abulafia); Crusades (France, Jackson, Riley-Smith, Laiou); Coe *Angkor*; Cambridge Hist. China/India; GHA IV; Wickham |
+| 18 | Late Middle Ages | 1300–1500 CE | strong | NCMH VI–VII (Jones, Allmand); the Mongols (May, Morgan, Jackson, *Secret History*); Castor *Joan of Arc*; Cambridge Hist. Japan (medieval); GHA IV |
+| 19 | Early Modern | 1500–1700 CE | strong | **(was "moderate")** New Cambridge Modern History I–V; Oxford Handbook of Early Modern Europe; CWH VI; Ottoman (Imber, Finkel, Kinross, Mikhail); Mughal (Baburnama, Dalrymple); Ming–Qing (Huang, Spence); Eire *Reformations*; Massie (Peter/Catherine); Cambridge Hist. Japan (early modern); Cambridge World Hist. of Slavery |
+| 20 | Age of Expansion | 1700–1800 CE | strong | **(was "moderate")** New Cambridge Modern History VI–VIII; Napoleon (Chandler, Roberts); Smith *Wealth of Nations*; Ashton *Industrial Revolution*; Atlantic revolutions; Spear (India); GHA V; West Point American Revolution |
+| 21 | Long 19th Century | 1800–1914 CE | strong | **(was "moderate")** New Cambridge Modern History IX–XI; Hobsbawm trilogy (Revolution/Capital/Empire); GHA VI; Parker *Oxford Modern African History*; Cambridge Hist. India V; Cambridge Hist. Japan V; Spence (China); Riasanovsky/Freeze (Russia); biography hub; Civil War warfare hub |
+| 22 | World Wars Era | 1914–1945 CE | strong | **(was "moderate")** Cambridge Hist. of the First World War (Winter I–III) & Second World War; Beevor; Kershaw *Hitler*; Kotkin *Stalin*; Strachan; origins debates (Joll, Taylor); West Point atlases; Military Effectiveness/Innovation series; GHA VIII |
+| 23 | Cold War | 1945–1991 CE | strong | **(was "moderate")** Cambridge Hist. of the Cold War (Leffler & Westad I–III); Westad; Judt *Postwar*; Vietnam (Willbanks, Wawro, Daddis, Nagl); biography hub (Caro's LBJ, etc.); GHA VIII |
+| 24 | Contemporary | 1991–present | moderate | **(was "weak")** Cold War Vol. III; Roberts & Westad *Penguin History of the World*; contemporary biographies (Isaacson *Musk*/*Jobs*); still the thinnest period and most reliant on structural surveys |
 
 ---
 
@@ -43,79 +52,81 @@ Update after each ingest session.
 
 | Region | Coverage | Notes |
 |---|---|---|
-| North Africa | moderate | Paleolithic/LSA (CWH I); CWH IV — Carthage, Numidia/Mauretania, Roman Africa, Vandal/Byzantine/Arab conquest, Berber Islam |
-| Sub-Saharan Africa | moderate | LSA + language origins (CWH I); Neolithic food production, Bantu (CWH II); CWH IV — Kush/Meroe, Aksum, Nok, Ghana to ~900 CE; CWH V — Mali, Songhay, the Swahili coast, trans-Saharan and Indian Ocean trade to 1500; CWH VII — the wiki's first modern Sub-Saharan narrative (Cooper): the slave trade after 1750, abolition and "legitimate" commerce, the Zulu/Sahelian state-building, colonial partition, decolonization |
-| East Africa | moderate | H. sapiens origins (CWH I); Eastern Bantu (CWH II); CWH IV — Rhapta/Azania, Zanj trade; CWH V — the Swahili coast (Kilwa, Mombasa) and the Indian Ocean trade to 1500 |
-| West Africa | strong | Niger-Congo origins (CWH I); Sahelian crops (CWH II); Jenne-jeno (CWH III); CWH IV — Nok, Ghana/Wagadu, Sahelian Islam; CWH V — the Western Sudanic empires Mali (Mansa Musa) and Gao/Songhay, trans-Saharan trade to 1500; CWH VI — the Atlantic slave trade and its African mechanisms (Thornton), Kongo Christianity, the African diaspora |
-| Central Africa | weak | Batwa/Congo Basin (CWH I); Bantu forest assimilation (CWH II) |
-| Southern Africa | weak | MSA/LSA, rock art (CWH I); Bantu/Khoe-San frontier, domesticates ~2 ka (CWH II) |
-| Horn of Africa | moderate | Afrasian homeland (CWH I); tef/Cushitic (CWH II); CWH IV — Aksum, Adulis, Red Sea/Indian Ocean trade, Ethiopian Christianity |
-| North America | moderate | Neolithic squash/sunflower (CWH II); Cahokia (CWH III); CWH IV — mound-building (Poverty Point→Hopewell→Mississippian), Chaco/Hohokam SW; CWH VI — European settlement and the fur trade, the Chesapeake/Carolina plantation societies, the Seven Years' War settlement; CWH VII — the United States in world history (Tyrrell): an anti-colonial republic and "variety of empire", continental expansion, the imperial turn (1898), and the rise to global superpower |
-| Mesoamerica | strong | Neolithic maize (CWH II); cities (CWH III); CWH IV — Olmec, Zapotec, Teotihuacan, Classic Maya, the Classic collapse; CWH V — Postclassic dynamism and the Aztec (Triple Alliance) empire to 1519; CWH VI — the Spanish conquest, the Columbian Exchange and demographic collapse, colonial syncretism |
-| Caribbean | weak | CWH VI — the first site of the Columbian Exchange and Taíno demographic collapse, the Barbados plantation model and the mature sugar/slave complex |
-| Andes | strong | Neolithic quinoa/camelids (CWH II); Tiwanaku (CWH III); CWH IV — Andean state formation (Norte Chico/Caral, Chavín, Moche); CWH V — the Inca Empire (Tawantinsuyu), state and religion, to 1533; CWH VI — the Spanish conquest, the Potosí silver mines and *mita*, the global silver trade |
-| Amazonia | weak | Neolithic manioc (CWH II); CWH IV — Amazonian mound-building chiefdoms (briefly) |
-| Southern Cone | absent | |
-| Eastern North America | moderate | Neolithic crop hearth (CWH II); Cahokia (CWH III); CWH IV — Poverty Point, Hopewell, Late Woodland→Mississippian |
-| Near East | strong | Neolithic origins (CWH II); Uruk/Assyria/Baghdad (CWH III); CWH IV — Achaemenid→Sasanian Persia, early Caliphates; CWH V — Islamic civilization, the Seljuks, science transmission, the Ilkhanate; CWH VII — the modern Middle East (Voll): "glocal" strategic-political and religious-ideological dimensions — Tanzimat/self-strengthening, the Eastern Question, mandates, Atatürk/Reza Shah, oil (Mossadegh/nationalization), nationalism, religious resurgence, the Arab Spring |
-| Levant | strong | Neolithic (CWH II); Jerusalem (CWH III); CWH IV — Phoenician origins, Roman/Byzantine Levant, Islamic conquest |
-| Mesopotamia | strong | first cities (CWH III); CWH IV — Parthian/Sasanian Mesopotamia, Abbasid context |
-| Anatolia | moderate | Neolithic: Göbekli Tepe, Çatalhöyük (CWH II); CWH IV — Byzantine Anatolia (lightly); CWH V — Byzantium, the Seljuk/Turkish transformation, the rise of the Ottomans |
-| Iran Plateau | moderate | Neolithic references (CWH II); CWH IV — Achaemenid, Parthian, Sasanian Persia, Zoroastrianism |
-| Arabian Peninsula | weak | CWH IV — Himyar, the rise of Islam (lightly) |
-| Central Asia | moderate | Neolithic steppe exchange (CWH II); CWH IV — Baktria, Kushan, Sogdians, the Silk Roads; CWH V — the Chaghadaid Khanate, Timur, Samarkand science |
-| South Asia | moderate | Neolithic + Indus cities (CWH III); CWH IV — Vedic→Mauryan→Gupta, Pataliputra, Buddhism/Jainism/Hinduism; CWH V — the Delhi Sultanate/Islam in India, the spread of Buddhism, the feudalism debate (Reynolds); CWH VI — Mughal-era cotton textile trade, the EIC from trade to territorial conquest (Bengal, Mysore), Indo-Persian historiography, Sikhism; CWH VII — South Asia within the modern frame: the labor-intensive industrialization path, colonial imperialism and resistance (sati debate), Gandhi/Nehru and decolonization |
-| Southeast Asia | weak | Neolithic vegeculture, Kuk (CWH II); early urbanism, Angkor (CWH III); CWH IV — Austronesian/agriculture context only |
-| East Asia / China | strong | Neolithic (CWH II); Anyang/Shang (CWH III); CWH IV — Zhou→Qin→Han→Sui→Tang, Confucianism; CWH V — Tang–Song transition, the Song commercial/Neo-Confucian order, Yuan, the multi-state East Asian order; CWH VI — Ming–Qing as the world's silver "suction pump", the industrious revolution, the regulatory state and religious change (Buddhism/Daoism/Confucianism), Jesuits and the Chinese Rites Controversy; CWH VII — East Asia as a world region (Selden): from tributary-trade primacy, through Western/Japanese subordination and the Great Divergence, to the post-1970 resurgence as the world economy's most dynamic axis (labor-intensive industrialization, the transpacific economy) |
-| Japan | moderate | Neolithic Jomon/Yayoi (CWH II); CWH IV — Yamato state, selective adoption from China/Korea |
-| Korea | moderate | Neolithic Mumun/Chulmun (CWH II); CWH IV — Three Kingdoms (Koguryŏ/Paekche/Silla) |
-| Eurasian Steppe | strong | Neolithic/Bronze pastoralism (CWH II); CWH IV — Xiongnu, the Türks; CWH V — the Turkic Islamization, nomadic migrations/conquests (Khazanov), and the Mongol Empire |
-| Western Europe | strong | Neolithic LBK (CWH II); Greek/Roman (CWH III); CWH IV — Roman West, Late Antiquity, Carolingians; CWH V — the commercial revolution, the Hanse, universities/scholasticism, Crusades, cultural crystallization; CWH VI — the Reformation and wars of religion, the high-wage economy and onset of industrialization, oceanic empires, the "discovery of religion"; CWH VII — the industrial heartland: the fossil-fuel transition and industrialization, the New Imperialism, nationalism, the world wars and their ideologies (communism & fascism, genocide) |
-| Northern Europe | weak | Neolithic: forager-farmer frontier (CWH II) |
-| Eastern Europe | strong | Neolithic aDNA/LBK (CWH II); Rurikid dynasty and Kievan Rus' (Early/High Middle Ages); Rise of Moscow and overthrow of Mongol yoke (Late Middle Ages); Tsardom and Russian Empire (Early Modern/Age of Expansion/Long 19th Century); Soviet Union and Russian Federation (World Wars/Cold War/Contemporary) via Riasanovsky (2000). |
-| Mediterranean | strong | Neolithic colonization (CWH II); poleis + Rome (CWH III); CWH IV — Phoenicians, Athens, Hellenistic world, Roman Empire; CWH V — the medieval commercial revolution (Italian republics), Byzantium, Crusades, the "first globalization" of trade |
-| Iberia | weak | Neolithic aDNA (CWH II); CWH IV — Phoenician/Carthaginian & Roman Iberia, Visigoths→Umayyad (lightly) |
-| British Isles | weak | Neolithic: early dairying, causewayed enclosures (CWH II) |
-| Balkans | moderate | Neolithic farming entry (CWH II); CWH IV — Byzantine Balkans (lightly); CWH V — Byzantium, Slav/Bulgar conversion, the Ottoman conquest of southeastern Europe |
-| Scandinavia | absent | |
-| Australia | weak | CWH IV — Aboriginal Australia: hunter-gatherer complexity, exchange networks, aquaculture, Torres Strait |
-| Polynesia | weak | CWH IV — Lapita/Polynesian voyaging, chiefdoms (Tonga/Hawaii), Rapa Nui |
-| Melanesia | weak | CWH IV — New Guinea agriculture/Big Man societies, Lapita, hiri/Roviana |
-| Micronesia | weak | CWH IV — Nan Madol/Saudeleur, latte, Yapese sawei exchange |
-| Silk Road (transregional) | strong | CWH IV — both Silk Roads eras (Han–Kushan–Parthian–Roman; Tang–Abbasid–Byzantine), religion-as-infrastructure |
-| Indian Ocean (transregional) | strong | CWH IV — early trade boom, Adulis/Rhapta, Aksum; CWH V — the Indian Ocean as a poly-religious maritime world (Ray), Swahili coast, the Zheng He voyages, Islamization by commerce; CWH VI — the militarization of the ocean (Portuguese *cartazes*, VOC/EIC), the intra-Asian "country trade", silver flows east |
-| Atlantic World (transregional) | moderate | CWH VI — the Atlantic as a single interactive arena: the Columbian Exchange, the slave trade and African diaspora, the plantation complex, the Triangular Trade, and Atlantic Creole cultures; CWH VII — the Atlantic revolutions (1775–1825) and the first wave of decolonization, abolition, the 19th-c. Atlantic economy |
-| Pacific (transregional) | moderate | CWH VII — the transpacific economy (Frost): early-modern enclaves (Macao, the Manila galleon, Canton system), the 19th-c. forced openings (Opium Wars, Perry), and the post-1945 overtaking of transatlantic by transpacific trade — the recentering of the world economy |
-| Latin America (regional) | moderate | CWH VI — the silver economy, Potosí, conquest and syncretism; CWH VII — Latin America in world history (Charlip): independence, US informal empire, the Mexican Revolution, the export economy and its fall, populism and import-substitution industrialization |
-| Mediterranean World (transregional) | moderate | CWH IV — the Mediterranean as an integrated arena (Phoenicians→Greeks→Rome→Islam) |
+| North Africa | strong | CWH I–IV; **Miles & Goldsworthy** (Carthage/Punic world); CAH (Roman Africa); GHA II–VIII; Rogan *The Arabs*; Mikhail (Ottoman Egypt); Bagnall (Egypt) |
+| Sub-Saharan Africa | strong | **(was "moderate")** Cambridge History of Africa I–VIII; UNESCO GHA II–VIII; Reader *Africa*; Davidson; Phillipson *Foundations of African Civilisation*; Niane *Sundiata*; Ibn Battuta; Parker *Oxford Modern African History*; Bostoen (Kongo); Hochschild *King Leopold's Ghost*; Meredith *Mandela* |
+| East Africa | strong | *H. sapiens* origins (CWH I); GHA; Aksum/Adulis, Zanj & Swahili coast; Indian Ocean trade (Alpers, Hall *Empires of the Monsoon*) |
+| West Africa | strong | Jenne-jeno; Nok; Ghana/Mali/Songhay (GHA, Niane, Ibn Battuta); Ajayi & Crowder *History of West Africa*; Atlantic slave trade |
+| Central Africa | moderate | **(was "weak")** Congo Basin (CWH I); GHA; Bostoen & Brinkman *Kongo Kingdom*; Hochschild (Congo Free State) |
+| Southern Africa | moderate | **(was "weak")** rock art/LSA (CWH I); GHA; Zulu state-building; Meredith *Mandela*; apartheid via modern African surveys |
+| Horn of Africa | moderate | Afrasian homeland; Aksum, Ethiopian Christianity; GHA; Red Sea/Indian Ocean trade |
+| North America | strong | **(was "moderate")** Snow, Gonlin & Siegel *Archaeology of Native North America*; Mann *1491*; mound-builders→Mississippian, Chaco/Hohokam; CWH VI (settlement); CWH VII (Tyrrell, US in world history); biography & warfare hubs (Revolution, Civil War) |
+| Mesoamerica | strong | Olmec→Maya→Teotihuacan→Aztec (CWH; Cowgill; Berdan *Aztecs*); conquest (Díaz, León-Portilla *Broken Spears*, Popol Vuh, Tedlock) |
+| Caribbean | moderate | **(was "weak")** Keegan & Hofman *The Caribbean before Columbus*; Columbian Exchange & Taíno collapse; the sugar/slave complex |
+| Andes | strong | Norte Chico→Chavín→Moche→Inca (CWH; D'Altroy *Incas*); conquest, Potosí, the silver economy (Guamán Poma) |
+| Amazonia | weak | Neolithic manioc (CWH II); mound-building chiefdoms (CWH IV); Mann *1491* |
+| Southern Cone | absent | still unaddressed |
+| Eastern North America | strong | Poverty Point→Hopewell→Mississippian; Cahokia; Snow et al. |
+| Near East | strong | CAH; Liverani *Ancient Near East*; Briant *From Cyrus to Alexander*; Wiesehöfer; Islamic civilization (Hodgson, Lapidus); Rogan (modern Arab world) |
+| Levant | strong | Neolithic; Canaan/Israel (Dever, Noll); Phoenicians; Roman/Byzantine & Islamic Levant; TTH chronicles |
+| Mesopotamia | strong | first cities; Gilgamesh, Hammurabi; Assyria/Babylon (CAH); Parthian/Sasanian/Abbasid |
+| Anatolia | strong | **(was "moderate")** Çatalhöyük; the Hittites (Bryce ×3); Neo-Hittite kingdoms; Byzantine Anatolia; Seljuk/Ottoman rise (Imber, Finkel) |
+| Iran Plateau | strong | **(was "moderate")** Elam (Potts); Achaemenid (Briant, Behistun); Parthian/Sasanian (Wiesehöfer); Zoroastrianism; Safavid context |
+| Arabian Peninsula | moderate | **(was "weak")** Himyar; rise of Islam (Hodgson, Lapidus); the early Caliphates; Rogan |
+| Central Asia | strong | **(was "moderate")** Silk Roads (Hansen, Benjamin); Kushan/Sogdians; Timur/Samarkand; the Mongol & Chaghadaid worlds (May, Morgan, Jackson) |
+| South Asia | strong | **(was "moderate")** Thapar & Spear *History of India*; Basham *Wonder That Was India*; Avari; Cambridge Hist. of India III–V; Kautilya *Arthashastra*; Mughals (Baburnama, Dalrymple); Roy *East India Company*; Guha *Gandhi* |
+| Southeast Asia | moderate | **(was "weak")** Reid *Age of Commerce* I–II; Coe *Angkor*; Tarling *Cambridge Hist. of Southeast Asia* I–II; Pluvier (atlas); Hall *Empires of the Monsoon* |
+| East Asia / China | strong | Cambridge Hist. of Ancient China & China; Keay; the Chinese classics (Confucius, Mencius, Zhuangzi, Han Feizi, Sima Qian, etc.); Huang *1587*; Spence *Search for Modern China*; Di Cosmo |
+| Japan | strong | **(was "moderate")** Cambridge Hist. of Japan I–VI; Mason & Caiger; Sansom; Kojiki; *Tale of Genji*; Keene *Emperor of Japan*; Sadler *Shogun*; Howell |
+| Korea | moderate | Three Kingdoms (CWH IV; Cambridge Hist. China context); narrative still thin |
+| Eurasian Steppe | strong | pastoralism (CWH II); Xiongnu/Türks; the Mongol Empire (May, Morgan, Jackson, *Secret History*, Di Cosmo) |
+| Western Europe | strong | Greco-Roman backbone; NCMH; Reformation (Eire); industrialization (Ashton, Hobsbawm); world wars; warfare & biography hubs |
+| Northern Europe | moderate | **(was "weak")** Neolithic frontier (CWH II); NCMH (medieval); Nelson *King and Emperor* (Carolingian); Viking-age Scandinavia via NCMH/Britain-Ireland |
+| Eastern Europe | strong | Cambridge Hist. of Russia I–III; Riasanovsky, Freeze, Service; *Primary Chronicle*; Kievan Rus'→Muscovy→Empire→USSR; Kotkin *Stalin* |
+| Mediterranean | strong | poleis & Rome; Phoenicians/Carthage (Miles); Byzantium; the medieval commercial revolution; Italian maritime republics (Lindemann) |
+| Iberia | moderate | **(was "weak")** Phoenician/Carthaginian & Roman Iberia (Miles); Visigoths (Wolf *Conquerors & Chroniclers*); al-Andalus (Hodgson, Lapidus); the Reconquista & Atlantic empire |
+| British Isles | strong | **(was "weak")** Stafford *Companion to the Early Middle Ages: Britain & Ireland*; Davies *The Isles*; *Chronicle of Ireland*; Jackson (modern Irish history); Roman Britain (Tacitus *Agricola*) |
+| Balkans | moderate | Byzantine Balkans; Slav/Bulgar conversion; Ottoman conquest of southeastern Europe (Imber, Finkel, Kinross) |
+| Scandinavia | weak | **(was "absent")** addressed indirectly via NCMH, Nelson, and Britain-Ireland Viking-age material; no dedicated narrative |
+| Australia | weak | Aboriginal Australia (CWH IV): hunter-gatherer complexity, exchange, aquaculture |
+| Polynesia | moderate | **(was "weak")** Lapita/voyaging & chiefdoms (CWH IV) + full post-contact narrative (Denoon, *Cambridge History of the Pacific Islanders*): Hawaiian overthrow, Samoan Mau, Tongan monarchy, missions, plantations |
+| Melanesia | moderate | **(was "weak")** New Guinea agriculture/Lapita (CWH IV) + post-contact (Denoon): mining frontier, Bougainville civil war, Fiji coups, kastom, New Caledonia |
+| Micronesia | moderate | **(was "weak")** Nan Madol/latte/sawei (CWH IV) + post-contact (Denoon): the Spanish→German→Japanese→US colonial succession and US nuclear testing |
+| Silk Road (transregional) | strong | both Silk Roads eras (Hansen *The Silk Road*; Benjamin *Empires of Ancient Eurasia*); religion-as-infrastructure |
+| Indian Ocean (transregional) | strong | Alpers *Indian Ocean in World History*; Hall *Empires of the Monsoon*; Swahili coast, Zheng He, the militarized early-modern ocean (VOC/EIC) |
+| Atlantic World (transregional) | strong | **(was "moderate")** Columbian Exchange (Crosby ×2); Cambridge World Hist. of Slavery; Atlantic history (Greene & Morgan); Atlantic revolutions; abolition (Drescher) |
+| Pacific (transregional) | moderate | the transpacific economy (CWH VII, Frost): Manila galleon, Canton system, the 19th-c. forced openings, the post-1945 recentering |
+| Latin America (regional) | moderate | conquest & colonial (Burkholder & Johnson); the silver economy; CWH VII (Charlip): independence, US informal empire, populism; Galeano (dependency) |
+| Mediterranean World (transregional) | strong | the integrated arena Phoenicians→Greeks→Rome→Islam (CWH IV; Abulafia context) |
 
 ---
 
 ## Known Gaps Register
 
-Gaps known from the collection coverage map in CLAUDE.md. Update as sources
-are ingested and gaps are filled or confirmed.
+Gaps known from the collection coverage map in CLAUDE.md. Update as sources are ingested
+and gaps are filled or confirmed.
 
-| Gap | Severity | Notes |
+| Gap | Severity | Status / notes |
 |---|---|---|
-| Sub-Saharan Africa (post-1500 CE) | Minor | CWH IV + V to ~1500; CWH VI adds the Atlantic slave trade and Kongo; CWH VII now supplies the modern narrative (Cooper: slave trade, abolition, Zulu/Sahel states, partition, decolonization). Great Zimbabwe and event-level colonial history still thin |
-| Americas (post-contact / colonial) | Minor | CWH V (pre-Columbian to conquest); CWH VI (Columbian Exchange, plantation complex); CWH VII adds the modern narratives — Latin America (Charlip) and the United States (Tyrrell). Discrete events (independence wars, the Mexican/Cuban revolutions) still lack pages |
-| Oceania (narrative/post-contact) | Significant | CWH IV gives the deep archaeological/voyaging history; CWH V's regional Part V has no Oceania chapter; collection otherwise absent for the region |
-| Russia / Eastern Europe (all periods) | Resolved | Addressed by the ingestion of Nicholas V. Riasanovsky, *A History of Russia*, 6th Edition (2000), covering Kievan Rus', the appanage period, the rise of Moscow, the Tsardom and Russian Empire, the Soviet Union, and the Russian Federation to 2000. |
-| Southeast Asia (classical & later) | Significant | CWH II/III + CWH IV (agriculture/Austronesian context); the classical-to-modern narrative remains thin |
-| Post-1750 world — social/cultural & event-level | Significant | CWH VII Book 1 supplies the structural, political, and regional architecture, but Book 2 "Shared Transformations?" (urbanization, migration, family, religion, science, sport, the commodities, the Atlantic-revolutions/Cold-War/1989 "moments") is absent from the source — as is event-level coverage of the world wars, the Russian/Chinese revolutions, the Holocaust, the Depression, and the Cold War conflicts |
-| India / South Asia (post-Gupta) | Moderate | Vedic→Mauryan→Gupta (CWH IV); CWH V adds the Delhi Sultanate/Islam in India and the Buddhist diffusion; a dedicated South Asian narrative is still thin |
-| Post-1500 Islamic world (Ottoman/Safavid/Mughal) | Significant | CWH VI Book 2 covers early modern Islam thematically (Sufi networks, confessionalization, renewal — Green) but its Book 1 empire surveys (Ottoman/Safavid/Mughal) are absent from the source; dedicated dynastic narratives still needed |
-| Indian Ocean world (dedicated) | Minor | Substantially covered by CWH V (Ray) — maritime communities, Swahili coast, Zheng He; a dedicated specialist source would still deepen it |
-| Japan — narrative history | Moderate | Collection thin (Yamato, CWH IV; courtly/Kamakura glimpses, CWH V) |
-| Medieval East Asia — secondary literature | Moderate | CWH V adds the Song state and the East Asian order; specialist monographs still thin |
-| Post-1800 world (periods 21–24) | Moderate | CWH VII Book 1 now covers periods 21–24 thematically and structurally (the Anthropocene, industrialization, demography, the politics of empire/nation/ideology, six regional surveys). Remaining gaps are social-cultural (Book 2 absent), event-level, and post-2015 |
-| Russia / Soviet Union (modern) | Resolved | Addressed by the ingestion of Nicholas V. Riasanovsky, *A History of Russia*, 6th Edition (2000), covering the Russian Empire, the Soviet Union, and the Russian Federation. |
-| Early Modern empires (regional narratives) | Significant | CWH VI Book 2 gives strong thematic/global coverage but its Book 1 "Foundations" (Ottoman, Safavid, Mughal, Ming–Qing, Russia, Iberia empire surveys, and the crossroads regions) is absent from the collection file — the chief gap left by the volume |
+| Oceania (narrative / post-contact) | **Largely closed** | **(was "Significant — the chief remaining regional gap")** Denoon (ed.), *The Cambridge History of the Pacific Islanders* (1997) supplies the post-contact narrative for Polynesia, Melanesia and Micronesia (50 pages, 2026-06-27). Australia proper still thinner (CWH IV archaeology + in-progress colonial-Australia material) |
+| Southern Cone & Amazonia (deep narrative) | Significant | Amazonia thin (CWH + Mann); the Southern Cone essentially absent |
+| Korea — narrative history | Moderate | Three Kingdoms only, via China-centred sources; no dedicated Korean survey |
+| Scandinavia (dedicated narrative) | Moderate | covered only indirectly (NCMH, Nelson, Britain-Ireland); no standalone Viking-age/Nordic narrative |
+| Post-1991 contemporary world | Moderate | period 24 leans on structural surveys (CWH VII to 2015) and a few recent biographies; event-level post-2015 coverage thin |
+| Event-level 20th-century history | Moderate | strong structural & operational coverage now exists (world wars via Cambridge Histories + warfare hub; Cold War via Leffler & Westad), but discrete event pages for some revolutions, the Holocaust, and the Depression remain to be built out |
+| Southeast Asia (modern, event-level) | Moderate | the classical-to-early-modern narrative is now solid (Reid, Tarling, Coe); a dedicated modern/decolonization narrative is still thin |
+| Sub-Saharan Africa (event-level colonial) | Minor | the regional/structural narrative is now strong (CHA, GHA, Parker); some discrete colonial-era events and polities (e.g. Great Zimbabwe in depth) still thin |
+| Americas (post-contact, event-level) | Minor | strong regional and structural coverage (Snow, Mann, Burkholder & Johnson, CWH VII); discrete events (independence wars, the Mexican/Cuban revolutions) still lack pages |
+| Russia / Eastern Europe | **Resolved** | Cambridge History of Russia I–III; Riasanovsky, Freeze, Service; Kievan Rus' through the Russian Federation |
+| Japan — narrative history | **Resolved** | Cambridge History of Japan I–VI plus Mason & Caiger, Sansom, Keene, and primary sources (Kojiki, *Genji*) |
+| India / South Asia (post-Gupta) | **Resolved** | Thapar & Spear, Basham, Avari, Cambridge History of India III–V, the Mughal sources, and Roy's *East India Company* |
+| Post-1500 Islamic world (Ottoman/Safavid/Mughal) | **Largely resolved** | Ottoman backbone (Imber, Finkel, Kinross, Mikhail); Mughal (Baburnama, Dalrymple, Roy); Safavid still the thinnest of the three |
+| Early Modern empires (regional narratives) | **Largely resolved** | New Cambridge Modern History I–V + the Ottoman/Mughal/Ming–Qing/Russia narratives above; the early-modern "Foundations" gap left by CWH VI is now filled from other sources |
+| Post-1800 world (periods 21–24) | **Largely resolved** | New Cambridge Modern History IX–XIII, the Hobsbawm trilogy, Cambridge Histories of the World Wars and Cold War, and the biography/warfare hubs now carry these periods; residual gaps are social-cultural and post-2015 |
 
 ---
 
 ## Priority Acquisitions
 
-See `Outstanding Sources.md` for the full sourcing roadmap and prioritized
-acquisition list.
+The active sourcing roadmap and prioritized acquisition list is
+`Top_100_Structural_Sources.md` (repo root) — the sole active list. The warfare-specific
+roadmap is `Outstanding War Strategy Sources.md`.
