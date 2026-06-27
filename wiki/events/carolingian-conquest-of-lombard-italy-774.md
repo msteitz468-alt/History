@@ -6,15 +6,15 @@ date_precision: year
 period: [Early Middle Ages]
 region: [mediterranean, western-europe]
 location: [Pavia and the Lombard kingdom of northern Italy]
-actors_primary: [[[charlemagne]], Desiderius (last Lombard king), Pope Hadrian I]
+actors_primary: [[[charlemagne]], [[desiderius]] (last Lombard king), [[pope-hadrian-i]]]
 actors_secondary: [the duchies of Spoleto and Benevento, the papacy]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
 causes: [Lombard pressure on Rome and the papacy, the Frankish–papal alliance, Charlemagne's repudiation of his Lombard marriage]
 consequences: [annexation of the Lombard kingdom to the Frankish realm, confirmation of the papal territories, Carolingian rule in Italy, the survival of an autonomous Lombard south (Benevento)]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, early-middle-ages, mediterranean]
 ---
 
@@ -54,3 +54,18 @@ NCMH II (Delogu, Ch. 12) stresses the **continuity** of Lombard administrative s
 rule and the limits of Frankish control in central and southern Italy, where the duchies of Spoleto and
 especially Benevento retained autonomy. The conquest is documented from the Frankish annals, the *Liber
 Pontificalis*, and Lombard sources such as Paul the Deacon.
+
+[[sources/nelson-king-and-emperor-2019|Janet Nelson (2019)]] adds two revisionist emphases. First, the
+war was **not pre-planned**: the decision to annex the kingdom "evolved while [Charles] was en route for
+Pavia," crystallising during the siege; Pavia fell to **epidemic**, "without any shedding of blood."
+Second, the **14,000 solidi** Charles offered [[desiderius]] were, in Nelson's reading, not a payment for
+St Peter's cities but "a pair of wergilds — the price of two princes, 7,000 solidi apiece" — Charles
+trying to buy custody of his nephews (the sons of his dead brother Carloman), who had taken refuge at the
+Lombard court and who vanish from every source after surrendering at Verona: "The history of monarchy is
+stained with the blood of close kin. The rest is silence."
+
+## Related
+
+- [[charlemagne]] · [[hubs/biographies/early-middle-ages/charlemagne|Charlemagne — detailed biography]]
+- [[desiderius]] · [[pope-hadrian-i]] · [[carolingian-empire]] · [[coronation-of-charlemagne-800]]
+- Source: [[sources/nelson-king-and-emperor-2019|Nelson, *King and Emperor* (2019)]]

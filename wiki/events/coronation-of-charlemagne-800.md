@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [[[carolingian-empire|Charlemagne's conquests and rule over many peoples]], his protection of and intervention in the papacy, the leadership of western Christendom, the vacancy of a male emperor in Byzantium]
 consequences: [revival of the western imperial title, the "two emperors" problem with Byzantium, the ideological basis of the later Holy Roman Empire]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, early-middle-ages, western-europe, transition]
 ---
 
@@ -59,9 +59,32 @@ his realm, and the great reforming capitulary of 802 contains "little which cann
 legislation." The disproportion between the symbolic weight later ages assigned to 800 and the modest
 practical change it produced is the heart of the historiographical puzzle.
 
+## Nelson's Reading (2019)
+
+[[sources/nelson-king-and-emperor-2019|Janet Nelson]] is categorical on the planning question:
+"there is plenty of evidence that **Charles and [[pope-leo-iii|Leo]] between them … carefully
+planned and stage-managed the sequence of rituals. Any argument to the contrary simply can't be
+sustained**." [[einhard|Einhard]]'s claim that Charles "would never have entered the church that
+day … if he had known the pope's plan" is a topos of humility — though Nelson allows residual
+unease over the *order* (coronation before acclamation), which "did not accord with 'Roman'
+(Byzantine) tradition." She reads the choreography as deliberate: Leo walked out to meet Charles
+at Mentana (c. 20 km from Rome), "doubling" the customary distance to signal "the new emperor was
+to be in a different league"; the return of Zacharias from Jerusalem "with the keys and the
+banner" was "timed to a tee" for 23 December. The *Vita Leonis* uniquely records that Leo also
+anointed Charles's son Charles the Younger as king the same day. On the title, Nelson stresses the
+"significant evasion" of ***Romanum gubernans imperium*** ("governing the Roman empire") — "a
+substitute for 'emperor of the Romans', a title Charles never used."
+
 ## Historiography
 
 Sources — Einhard's *Vita Karoli*, the royal annals, the Lorsch annals — are court-centred and
 retrospective. Debate has long centred on the *sequence* of events at the ceremony (did Leo III
 crown Charlemagne before he expected it?) and on the *meaning* of the title to Charlemagne himself.
-Folz's *The Coronation of Charlemagne* remains the classic full discussion.
+Folz's *The Coronation of Charlemagne* remains the classic full discussion; Nelson (2019) is the
+current revisionist statement.
+
+## Related
+
+- [[charlemagne]] · [[hubs/biographies/early-middle-ages/charlemagne|Charlemagne — detailed biography]]
+- [[pope-leo-iii]] · [[einhard]] · [[carolingian-empire]]
+- Source: [[sources/nelson-king-and-emperor-2019|Nelson, *King and Emperor* (2019)]]

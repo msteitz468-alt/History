@@ -232,3 +232,46 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 **Suggested improvement:** Add a note to the scaffold/Section-Plan step: ebook-converted sources (epub/pdf → md via ebook-convert) usually lack markdown headings. Don't rely on `grep "^#"`. Instead (a) read the printed TOC in the front matter for the logical outline, (b) locate each chapter's body start via its ALL-CAPS opener line, and (c) find the index/notes/bibliography boundary to bound the body line-count before sizing/weighting ranges. Expect running headers to generate many duplicate matches; take the first occurrence as the chapter start.
 
 **Principle:** When the input format strips the structure you normally navigate by, recover structure from a redundant secondary signal the format preserves (printed TOC, page running-heads, all-caps display type) rather than assuming the primary signal exists. Verify the body's true start/end line numbers before computing chunk weights — front matter, notes, and index can be a third to a half of the file.
+
+### Observation 13: Dedup existence-checks must cover transliteration/spelling variants of slugs
+
+**Date:** 2026-06-27
+**Session context:** Ingesting *The Oxford History of Ancient Egypt* (Shaw 2000) via Deployed Subagent Strategy. During reconciliation I ran an existence check for proposed-new actor slugs and created `actors/mentuhotep-ii.md` and `actors/senusret-iii.md` — only to find the wiki already had `actors/mentuhotpe-ii.md` and `actors/senwosret-iii.md` (older transliterations used consistently across ~9 inbound-linking pages). I had to delete the duplicates, conform to the existing slugs, and rewrite the links in my other new pages.
+**Skill:** task-observer / World History Wiki ingest workflow (CLAUDE.md Deployed Subagent Strategy, Step 4 reconciliation)
+**Type:** internal
+**Phase/Area:** Step 4 (review and tie together) — dedup against existing pages
+
+**Issue:** The standard `[ -f "$slug.md" ]` existence check only catches an exact-slug collision. For ancient-history subjects (Egyptian, Mesopotamian, Chinese rulers; place names) the SAME entity routinely has multiple romanizations — Mentuhotpe/Mentuhotep, Senwosret/Senusret/Sesostris, Amenophis/Amenhotep, Cheops/Khufu — so an exact check reports "missing" and a duplicate gets created under a variant spelling. This is the spelling-variant cousin of Observation 11 (subagents proposing dup pages).
+
+**Suggested improvement:** Before creating any new actor/place page during reconciliation, run a FUZZY existence check, not just exact: grep the actors/places dirs for the surname stem and known romanization variants (e.g. `ls actors | grep -iE 'mentuh|sen(w|u)osret|senusret|amen(h|)otep'`), and grep the wiki for inbound links to the intended display name. Add a short "known-variant romanizations" reminder to CLAUDE.md's Step 4. Cheap, and it prevents the delete-and-rewrite churn.
+
+**Principle:** Identity is not the same as string-equality. When a knowledge base names real-world entities that have multiple legitimate spellings, deduplication must match on the entity (stem + variant set + display-name inbound links), not on the exact slug — otherwise the "does it already exist?" guard silently fails exactly where collisions are most likely.
+
+### Observation 14: `git add` with one nonexistent path silently aborts the whole batch
+
+**Date:** 2026-06-27
+**Session context:** Final bookkeeping commit of the *Oxford History of Ancient Egypt* ingest. I staged my new + modified pages with a single multi-file `git add ... 2>/dev/null`. One path in the list was wrong (`wiki/actors/predynastic-egypt.md` — the page actually lives in `processes/`). git aborted the entire `add` with a fatal error, and because I had appended `2>/dev/null`, the error was hidden. Result: NONE of the ~37 files in that batch were staged. I only caught it because the subsequent `git diff --cached --name-only | wc -l` showed 25 (the second batch) instead of the expected ~50, so the new R3–R8 pages were silently left uncommitted until I re-ran the add without the bad path.
+
+**Skill:** task-observer / World History Wiki ingest workflow (CLAUDE.md Step 6 — bookkeeping/commit)
+**Type:** internal
+**Phase/Area:** Step 6 (commit) — staging an explicit file list
+
+**Issue:** Two compounding traps. (1) `git add a b c nonexistent` fails atomically — git stages nothing from the batch, not "everything except the bad path." (2) Piping `git add` stderr to `/dev/null` (often added to suppress "pathspec did not match" noise during ingests) hides the very fatal that tells you the batch failed. Combined, a single typo'd path can silently drop dozens of files from the commit — exactly the kind of partial-commit data-loss the explicit-file-list rule is meant to prevent.
+
+**Suggested improvement:** In the ingest workflow's Step 6 (and the "no blanket git-add" memory): after staging an explicit list, ALWAYS verify with `git diff --cached --name-only | wc -l` and confirm the count matches the intended file count before committing. Do NOT silence `git add` stderr; if suppressing pathspec warnings, check the exit code instead. Prefer staging via a verified file list (e.g. build the list, confirm each path exists with `ls`/`test -f`, then add) so a typo can't abort the batch.
+
+**Principle:** Commands that operate on a batch can fail atomically and silently — a single bad element can void the whole operation. Never trust that a multi-item mutating command did what you intended; verify the resulting state (here, the staged set) against the expected count before the irreversible next step (commit). And never pipe away the stderr of a state-changing command you depend on.
+
+### Observation 15: Source pages inconsistently carry sources_ingested/last_updated for the schema validator
+
+**Date:** 2026-06-27
+**Session context:** Ingesting Nelson, *King and Emperor* (Charlemagne biography) via the Biography Hub workflow.
+**Skill:** New skill candidate / CLAUDE.md ingest workflow (wiki-ingest)
+**Type:** internal
+**Phase/Area:** Step 5 lint — schema validation of `wiki/sources/` pages
+
+**Issue:** `scripts/schema_validator.py` flags every `wiki/sources/` page for "Missing or empty required field: sources_ingested / last_updated", even though the CLAUDE.md **source-page schema** specifies `pages_created`, `pages_updated`, and `ingested` instead (not those two fields). Recent source pages are inconsistent: `geary-before-france-germany-1988.md` omits the two fields (and is flagged), while the Di Cosmo ingest log explicitly records "added sources_ingested/last_updated to source page" to silence the validator. I added both fields to the Nelson source page to make it pass. This wastes a verification cycle every ingest and produces drift between source pages.
+
+**Suggested improvement:** Resolve the mismatch in ONE direction: either (a) update the CLAUDE.md source-page schema + validator to make `sources_ingested`/`last_updated` standard on source pages (simplest: add them to the source frontmatter template), or (b) teach `schema_validator.py` that `source_type`-tagged pages use `ingested`/`pages_created` and should not require the two actor/event fields. Document the decision in CLAUDE.md so future ingests stop re-deciding ad hoc.
+
+**Principle:** When a linter and the authoring spec disagree on required fields for a page type, every ingest silently re-litigates it and the corpus drifts. Make the validator and the template agree once, and the ambiguity stops costing a cycle per ingest.

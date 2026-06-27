@@ -9,12 +9,14 @@ affiliated_with: [[[carolingian-empire]], the Frankish kingdom, the Papacy, the 
 opposed_by: [Lombards, Saxons, Avars, Umayyad Spain, Byzantium (over the imperial title)]
 key_events: [[[pippinid-coup-751]], conquest of the Lombard kingdom 774, Saxon wars 772–804, defeat of the Avars 791–796, [[coronation-of-charlemagne-800]]]
 key_processes: [[[carolingian-renaissance]], [[christianisation-of-anglo-saxon-england|forced Christianisation of Saxony]], [[carolingian-capitularies|written government by capitulary]]]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, person, early-middle-ages, western-europe]
 ---
 
 # Charlemagne (Charles the Great, r. 768–814)
+
+> **Detailed analytic biography:** [[hubs/biographies/early-middle-ages/charlemagne|Charlemagne — detailed biography]] (Biography Hub; graduate-level, synthesised from [[sources/nelson-king-and-emperor-2019|Nelson, *King and Emperor* (2019)]]).
 
 ## Overview
 
@@ -95,3 +97,12 @@ predecessor, and concludes that custom and continuity outweighed innovation: in 
 power on the ground still lay with counts and bishops. The depth and reality of his
 administrative reforms remain the central interpretive question. See
 [[nature-of-carolingian-government]].
+
+[[sources/nelson-king-and-emperor-2019|Janet Nelson's *King and Emperor* (2019)]] is now the
+wiki's source spine for the life. Its avowedly anti-teleological method — reading Charles
+"forward, as he lived it," refusing both "Charlemagne" and "Father of Europe" — corrects the
+birthdate to **2 April 748** (lifespan ~66, not 72), rehabilitates the queens [[hildegard]]
+and [[fastrada]] as political agents, reads the [[coronation-of-charlemagne-800|coronation of
+800]] as carefully co-planned (not a surprise), and rebuts Ganshof's "*l'échec de
+Charlemagne*" by reconstructing a functioning late-imperial government from Aachen. Full
+treatment in the [[hubs/biographies/early-middle-ages/charlemagne|detailed biography]].
