@@ -73,4 +73,7 @@ slave trade]]** and the predatory rise of Portuguese **Angola** — central to t
 
 [[gha-vol4-12th-16th-century]] · [[gha-vol5-16th-18th-century]] · [[cambridge-history-of-africa-v4]] · [[atlantic-slave-trade]] ·
 [[impact-of-atlantic-slave-trade-on-africa]] · [[luba-lunda]] · [[christianization]] ·
-[[congo-free-state]] (the later, unrelated colonial state) · [[sub-saharan-africa]]
+[[congo-free-state]] (the later, unrelated colonial state) · [[sub-saharan-africa]] ·
+[[bostoen-brinkman-kongo-kingdom-2018]] · [[afonso-i-kongo]] · [[joao-i-kongo]] · [[lukeni-lua-nimi]] · [[kimpa-vita]] ·
+[[kongo-decentralization]] · [[battle-of-mbwila-1665]] · [[mbanza-kongo]] · [[soyo-province-kongo]] ·
+[[kikongo-language-cluster]] · [[kongo-origins-c1390]] · [[kongo-political-structure-1480]]
