@@ -29,7 +29,7 @@ reliability_notes: >
   has deep civilizational history; external trade was a driver, not a corrupting force)
   and his synthesis of mid-20th-century archaeological knowledge. Cross-check specific
   facts against GHA series volumes.
-pages_created: 4
+pages_created: 6
 pages_updated: 8
 ingested: 2026-06-27
 tags: [source]
