@@ -90,7 +90,7 @@ ethical, communal church.
 - The world it belonged to: [[roman-religion-high-empire|High-Empire religion]] (CAH XI, Liebeschuetz),
   the [[third-century-crisis|crisis]] (whose role Fowden *downplays* as a driver of the holy man)
 - The eastern parallel of organizing religions: [[manichaeism|Manichaeism]], the Zoroastrian church of the
-  [[sassanid-empire|Sassanids]]
+  [[sasanian-empire|Sassanids]]
 - `contrasts_with:` the dogmatic, founded, communal monotheism of [[origins-of-christianity|Christianity]]
 - Source: [[bowman-cah-v12-2005]] (Ch. 17a, Garth Fowden)
 

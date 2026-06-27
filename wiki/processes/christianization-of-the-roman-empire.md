@@ -108,5 +108,5 @@ process.
   [[late-antique-asceticism|asceticism and monasticism]]; the earlier church: [[third-century-christianity]],
   [[origins-of-christianity]]
 - `contrasts_with:` the triumphalist "death of paganism" narrative; the parallel "Christianizations" of
-  rabbinic Judaism and Zoroastrianism in the [[sassanid-empire|Sasanian empire]]
+  rabbinic Judaism and Zoroastrianism in the [[sasanian-empire|Sasanian empire]]
 - Sources: [[cameron-cah-v13-1998]] (Ch. 21, Peter Brown) · [[sources/bagnall-rathbone-egypt-alexander-copts-2004]] (the Egyptian case)

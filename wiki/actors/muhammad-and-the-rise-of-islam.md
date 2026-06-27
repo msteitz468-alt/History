@@ -72,13 +72,13 @@ to any non-Arabic source of the pre-Islamic period" — making the rise of Islam
 
 The rise of Islam is the event that **ends antiquity**. Within a generation the Arab conquests would strip
 the [[eastern-roman-empire-425-518|eastern empire]] of Syria, Palestine and Egypt and **destroy the
-[[sassanid-empire|Sasanid empire]] entirely** — the irreversible rupture CAH XIV stops just short of. That
+[[sasanian-empire|Sasanid empire]] entirely** — the irreversible rupture CAH XIV stops just short of. That
 the Cambridge Ancient History closes here, with Muḥammad on the horizon, is the editors' statement that the
 Mediterranean-centred "ancient" world ended with the seventh century.
 
 ## Related
 
-- Emerged in the power vacuum left by the [[sassanid-empire|Sasanid]]–Roman exhaustion (the
+- Emerged in the power vacuum left by the [[sasanian-empire|Sasanid]]–Roman exhaustion (the
   [[successors-of-justinian|wars of Maurice and Khusro II]]) and the recurrent **plague**
 - `produced:` the *umma*, the unification of Arabia, and (under the caliphs) the Arab conquests that
   `enabled:` the end of the [[eastern-roman-empire-425-518|eastern Roman]] Near East and the fall of Sasanid

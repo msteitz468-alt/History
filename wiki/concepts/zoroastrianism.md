@@ -5,8 +5,8 @@ origin: the prophet Zoroaster (Zarathustra); the Gathas of the Avesta, linguisti
 applies_to_periods: [Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [iran-plateau, central-asia, mesopotamia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept]
 ---
 
@@ -50,6 +50,35 @@ The religion's political role grew across the period:
 This trajectory exemplifies the [[axial-age]] thesis that post-Axial empires drew
 new legitimacy from association with a universalizing religious vision (see
 [[empire]], [[universal-religions]]).
+
+## Wiesehöfer: against the Sasanian "state Church" [CONTRADICTION]
+
+The framing just above — Sasanian Zoroastrianism as a "true imperial state religion" and
+"orthodoxy" — is exactly what [[sources/wiesehofer-ancient-persia-2001|Wiesehöfer]]
+contests. He holds that "the concept of 'state religion' and 'state Church' … has to be
+discarded … not only for semantic reasons … but also on historical grounds." The
+celebrated throne–altar maxim ("Church and State were born of the one womb," *Letter of
+Tansar*) is "a late Zoroastrian design of an ideal state, which probably even emerged under
+Islamic influence," not a description of early-Sasanian reality.
+
+- **Fluctuating, not standing, clerical power.** Priestly influence tracked political
+  crisis — strongest under Bahram II, Hormizd II, and [[shapur-ii|Shapur II]] (all reigns of
+  war and instability), contained under Ardashir I, [[shapur-i|Shapur I]], Hormizd I, and
+  Narseh. The aggressive promotion of Mazdaism and persecution of minorities by the high
+  priest **[[kartir|Kartir]]** belong to one such conjuncture (Bahram II's civil war), not a
+  permanent policy.
+- **An emerging hierarchy.** Kartir's own inscriptions document the priesthood crystallizing
+  into graded ranks — *herbed* → *mōbad* → *mōbad and dādwar* ("judge") of the empire — over
+  simple *mogs* tending lesser fires (*ādurān*) and the great **Bahrām fires**; from the 4th
+  century a "head of the mōbads" and provincial mōbads appear.
+- **King as *bay*, not *yazd*.** Royal ideology called the king *bay* ("god/lord") — a
+  materially divine "god-man" — carefully distinguished from *yazd* (the truly spiritual
+  gods, e.g. Ohrmazd); see [[eranshahr]]. The **xwarrah** (divine Glory) marked the rightful
+  ruler.
+- **Later upheaval.** The **Mazdakite** movement (late 5th–early 6th c.), drawing on a
+  social ethic of communal sharing, was crushed under [[khosrow-i|Khosrow I]] in alliance
+  with clergy and nobility; its doctrine survives only through hostile Zoroastrian sources
+  (the *Dēnkard*).
 
 ## Legacy
 

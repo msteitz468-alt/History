@@ -77,6 +77,6 @@ remains the most fascinating individual of the fourth century.
   survivor of the massacre of 337
 - His intellectual world: [[late-polytheism]] (Neoplatonism, theurgy, the holy man); his failed reaction
   against [[christianization-of-the-roman-empire|Christianization]]
-- `produced:` the disastrous Persian expedition against the [[sassanid-empire|Sassanids]] and Jovian's
+- `produced:` the disastrous Persian expedition against the [[sasanian-empire|Sassanids]] and Jovian's
   surrender of Nisibis
 - Source: [[cameron-cah-v13-1998]] (Ch. 2, David Hunt)

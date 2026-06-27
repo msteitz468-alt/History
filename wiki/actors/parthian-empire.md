@@ -9,7 +9,7 @@ affiliated_with: [[[zoroastrianism]], the Arsacid dynasty, Hellenistic culture (
 opposed_by: [[[roman-republic|Rome]], the [[seleucid-empire|Seleucids]], [[kushan-empire|Kushans]], steppe nomads]
 key_events: [conquest of Mesopotamia under Mithridates I, Battle of Carrhae 53 BCE]
 key_processes: [[[empire]], [[silk-roads]], [[trade-network-formation]], [[hellenistic-world]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, empire, classical-antiquity, late-antiquity, iran-plateau]
 ---
@@ -108,6 +108,59 @@ accounts, coins, and limited indigenous evidence — part of why, as CWH IV note
 ideology of "post-Hellenistic" Iranian kingship. Compare [[empire]] and
 [[sasanian-empire]]. For the third-century origins see [[walbank-cah-v7-1-1984|CAH
 VII.1]] (Musti, ch. 6).
+
+## Wiesehöfer: against "feudalism" and the "philhellene" myth [CONTRADICTION]
+
+[[sources/wiesehofer-ancient-persia-2001|Wiesehöfer]] sharpens — and on two points
+corrects — the standard picture above.
+
+- **Not "feudal."** Where the sections above (following CWH IV) liken the Arsacid
+  structure to European feudalism, Wiesehöfer insists "concepts such as 'feudal system'
+  should be completely avoided, and ones such as a 'vassal status' used only with the
+  necessary discretion." The empire appeared to **Pliny** as eighteen *regna* — "an
+  association of *regna* rather than a unified state" — bound by personal allegiance
+  whose exact mechanism is unrecoverable. Confirmed sub-kingdoms include **Persis,
+  Elymais, Mesene (Characene), Hatra, Osrhoene, Adiabene, Media Atropatene, Hyrcania**;
+  in key regions Arsacid family members were installed as kings after Mithridates II.
+  Great clans held fixed hereditary domains — the **Suren** in Sistan (and the
+  hereditary right to *crown* the king), the **Karin** near Nihavand — and a council
+  (*synhedrion* of kinsmen, sages, and Magi, per Strabo/Posidonius) could appoint and
+  even depose kings (Mithridates II "was ousted from kingship by the senate"). This
+  variability should not be read as "decline."
+- **"Philhellene" was self-interest, not sympathy.** The standard coin legend
+  *Basileōs Basileōn Arsakou … Philhellēnos* must not be taken at face value: "royal
+  'philhellenism' must not be identified with unconditional friendship for the Greeks.
+  The guiding principle was always self-interest." When Greek communities became a
+  "Fifth Column," violence followed, and **Artabanus II** dropped the *philhellene*
+  epithet once he curbed Seleucia's autonomy.
+- **The "King of Kings" title** is first attested for the Arsacids on **Mithridates I's**
+  rock inscription at Khung-i Nauruzi in Khuzistan (c. 140 BCE); Mithridates I likely
+  also architected the **constructed claim of Achaemenid descent** (Wiesehöfer: the
+  Parthians "discovered" Parthia as homeland and an Achaemenid as ancestor). The
+  seven-man conspiracy of the foundation legend deliberately echoes the seven against
+  [[gaumata-magush|Gaumata]] to give the coup "a national Iranian gloss." **Artabanus II**
+  even claimed Cyrus's and Alexander's old territories from Rome (Tacitus).
+- **Northern, not central, origins.** The earliest Parni centres — **Nisa, Dara, Asaak**
+  (where Arsaces I was crowned) — lay far north of the Elburz in present Turkmenistan;
+  Nisa yielded >2,000 ostraca (mostly wine-delivery records), the single richest body of
+  indigenous Arsacid documentation.
+- **Lost memory.** The eastern-Iranian, Zoroastrian-coloured **Kayanian epic** tradition,
+  propagated by *gosān* minstrels, displaced authentic memory of Medes and Achaemenids
+  during the Parthian period — which is why the [[sasanian-empire|Sasanians]] knew their
+  [[achaemenid-empire|Achaemenid]] predecessors only dimly, and why later Sasanian
+  tradition could dismiss the whole Arsacid era as the time of "petty kings"
+  (*mulūk aṭ-ṭawāʾif*), a deliberate ideological demotion.
+- **Source problem.** Cuneiform died out in this period (last dated text 74/75 CE);
+  indigenous evidence is confined to the Nisa ostraca, the **Avroman** parchments, and
+  Dura-Europus documents, leaving the narrative to hostile Western sources
+  (Trogus/Justin, Strabo, Plutarch, Tacitus, Dio) and the underused Chinese annals.
+
+On the early post-conquest continuity, Wiesehöfer stresses that the **Seleucid "east"
+was never deeply "Macedonized"** (Persis was "no bulwark of resistance against Hellenism"
+because it never needed to be), and that genuine Greek intellectual life (the Delphic
+maxims at **Aï Khanum**) coexisted within a "mixture of Greek, Bactrian, Achaemenid and
+Mesopotamian art forms." See the [[seleucid-empire|Seleucid]] page and
+[[hellenistic-world|Hellenism]].
 
 ## Parthia as Silk Roads Middleman (Benjamin 2018)
 

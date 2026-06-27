@@ -70,7 +70,7 @@ all its fronts at once.
 - `produced:` the **Slav settlement of the Balkans** and the end of Roman Balkan urbanism; `caused_by:` the
   withdrawal of the Danube army after [[successors-of-justinian|Maurice's]] overthrow (602)
 - Drove the [[lombards|Lombards]] into Italy (568); pressed the same over-extended empire as the
-  [[sassanid-empire|Sasanids]] — the two-front strain of the [[successors-of-justinian|post-Justinianic]]
+  [[sasanian-empire|Sasanids]] — the two-front strain of the [[successors-of-justinian|post-Justinianic]]
   decades
 - `preceded_by:` the [[huns|Hunnic]] disruption of the Balkans; concurrent with the
   [[muhammad-and-the-rise-of-islam|rise of Islam]] on the southern horizon

@@ -25,7 +25,7 @@ The period's defining feature was **war, civil and foreign**. At least **fifty-o
 imperial title; emperors rose and fell with the loyalty of their armies, almost all dying violently.
 The pressures were twofold and simultaneous: **Germanic invasion** from the north (Goths, Franks,
 Alamanni; the Gothic sea-raids that sacked Athens, Corinth, and Sparta) and the aggression of the new
-**[[sassanid-empire|Sassanid Persia]]** in the east. The low point came around **260**: the emperor
+**[[sasanian-empire|Sassanid Persia]]** in the east. The low point came around **260**: the emperor
 **[[valerian]] captured alive** by Shapur I, and the empire fracturing into three — a central rump
 under [[gallienus|Gallienus]], the breakaway **[[gallic-empire|Gallic Empire]]** (Postumus), and the
 **[[palmyra|Palmyrene]]** realm of [[zenobia|Zenobia]]. Recovery came through the "Illyrian"
@@ -89,7 +89,7 @@ age. The "crisis vs. continuity" debate (Alföldy, MacMullen, Strobel) is itself
 ## Related
 
 - The emperors of the crisis: [[gallienus]], [[aurelian]]; the breakaway [[palmyra|Palmyrene]]
-  ([[zenobia]]) and [[gallic-empire|Gallic]] empires; the new [[sassanid-empire|Sassanid]] enemy
+  ([[zenobia]]) and [[gallic-empire|Gallic]] empires; the new [[sasanian-empire|Sassanid]] enemy
 - Preceded by the [[severan-dynasty|Severans]]; resolved by [[diocletian|Diocletian]] and the
   [[roman-tetrarchy|tetrarchy]]; the [[militarization-of-the-roman-state]]
 - Source: [[bowman-cah-v12-2005]] (Ch. 2, John Drinkwater)

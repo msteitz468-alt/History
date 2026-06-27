@@ -59,7 +59,7 @@ its final horizon.
   forward the [[late-roman-army]], [[late-roman-emperorship|imperial government]], [[late-roman-cities]],
   [[late-roman-economy]], [[late-roman-church-institution]], [[late-antique-asceticism]], and
   [[christianization-of-the-roman-empire]] pages into their fifth–sixth-century maturity.
-- Continues the **non-Roman world**: the [[huns|Huns]] (now **Attila**), the [[sassanid-empire|Sasanids]]
+- Continues the **non-Roman world**: the [[huns|Huns]] (now **Attila**), the [[sasanian-empire|Sasanids]]
   (Khusro I), [[armenia|Armenia]], and the [[germanic-peoples|Germanic peoples]] — now as **settled
   successor kingdoms** — plus the genuinely new **[[arab-desert-peoples|Arabs]]** culminating in the rise
   of Islam, and the **Avars**.
@@ -108,7 +108,7 @@ pagan thought, even as Neoplatonism survived in commentary and migrated east.
 continuity-leaning treatment of the [[late-roman-economy|economy]] (Ward-Perkins's "decline of complexity"
 sits in deliberate tension with the fourth-century "transformation" reading on the same page) and carries the
 [[late-roman-emperorship|imperial office]], [[late-roman-cities|cities]], [[late-roman-army|army]],
-[[late-roman-church-institution|church]] and [[sassanid-empire|Sasanid]] pages into their sixth-century
+[[late-roman-church-institution|church]] and [[sasanian-empire|Sasanid]] pages into their sixth-century
 maturity. Its deepest contribution to the wiki is to make the **Mediterranean a whole again at the moment of
 its dissolution**: the same volume that narrates the [[fall-of-the-western-roman-empire-476|end of the Roman
 West]] also opens the [[muhammad-and-the-rise-of-islam|rise of Islam]] on its final horizon — the change the

@@ -45,7 +45,7 @@ The siege began in late July 626. On August 7, the Avars launched a massive assa
 ## Actors
 
 - **[[byzantine-empire|Byzantine Empire]]**
-- **[[sassanid-empire|Sasanian Persian Empire]]**
+- **[[sasanian-empire|Sasanian Persian Empire]]**
 - **[[avars|Avar Khaganate]]**
 - **[[heraclius]]** (emperor, absent during the siege)
 

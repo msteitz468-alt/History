@@ -22,7 +22,7 @@ tags: [event, cultural, late-antiquity, mediterranean-world]
 
 The traditional date for the **end of the pagan Neoplatonist school of Athens** — when **[[justinian|Justinian]]**
 in **529** forbade pagans to teach philosophy or law, prompting the head of the school, **Damascius**, and
-six colleagues (including **Simplicius**) to leave Athens for the **Persian court of [[sassanid-empire|Khusro
+six colleagues (including **Simplicius**) to leave Athens for the **Persian court of [[sasanian-empire|Khusro
 I]]**. Long taken as the symbolic "end of antiquity" in thought — the silencing of the thousand-year-old
 tradition of Greek philosophy. Treated in [[cameron-cah-v14-2000|CAH XIV]] Ch. 28 (philosophy and the
 philosophical schools).
@@ -88,7 +88,7 @@ survived its institutional home, carried into the medieval worlds of Byzantium a
 ## Related
 
 - `caused_by:` [[justinian|Justinian's]] enforcement of orthodoxy; the philosophers fled to
-  [[sassanid-empire|Khusro I's]] Persia and returned under the peace of 532
+  [[sasanian-empire|Khusro I's]] Persia and returned under the peace of 532
 - `part_of:` the broader [[christianization-of-the-roman-empire|Christianization]] of late-antique culture and
   the suppression of [[late-polytheism|late paganism]]
 - Source: [[cameron-cah-v14-2000]] (Ch. 28)

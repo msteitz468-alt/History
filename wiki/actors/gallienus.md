@@ -6,7 +6,7 @@ date_end: 268 CE
 period: [Late Antiquity]
 region: [italy, mediterranean-world, balkans]
 affiliated_with: [[[roman-imperial-army]], [[roman-empire]]]
-opposed_by: [[[postumus]], [[sassanid-empire]], [[gothic-peoples]]]
+opposed_by: [[[postumus]], [[sasanian-empire]], [[gothic-peoples]]]
 key_events: []
 key_processes: [[[third-century-crisis]], [[militarization-of-the-roman-state]]]
 sources_ingested: 1
@@ -58,7 +58,7 @@ shows the crisis at once at its most dangerous and most generative.
 ## Related
 
 - The crisis he embodied: [[third-century-crisis]]; the breakaway [[palmyra|Palmyrene]] and Gallic
-  empires; the [[sassanid-empire|Sassanid]] capture of his father Valerian
+  empires; the [[sasanian-empire|Sassanid]] capture of his father Valerian
 - His reforms carried forward by [[aurelian]] and [[diocletian]]; the [[roman-imperial-army]] he
   transformed
 - Source: [[bowman-cah-v12-2005]] (Ch. 2, John Drinkwater)

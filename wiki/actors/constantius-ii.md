@@ -36,7 +36,7 @@ ruler**, elevating his cousins **Gallus** (executed 354) and then [[julian|Julia
 
 ## The defensive Persian war
 
-Constantius' defining external struggle was with **[[sassanid-empire|Shapur II]]** over Armenia and
+Constantius' defining external struggle was with **[[sasanian-empire|Shapur II]]** over Armenia and
 Mesopotamia (lost to Persia under Diocletian's treaty of 299, which Shapur sought to reverse). Based at
 **Antioch** (337–350), Constantius fought a deliberately **defensive war** — holding the fortified
 towns, above all **Nisibis** (besieged three times, 337/346/350), avoiding pitched battles (the
@@ -68,7 +68,7 @@ and so made possible the last pagan reaction.
 
 - Son of [[constantine-the-great|Constantine]]; `preceded_by:` the [[founding-of-constantinople-330|founding
   of Constantinople]]; elevated and then opposed by [[julian|Julian]]
-- The defensive war against [[sassanid-empire|Shapur II]] over [[armenia|Armenia]] and the sieges of
+- The defensive war against [[sasanian-empire|Shapur II]] over [[armenia|Armenia]] and the sieges of
   Nisibis; the [[roman-tetrarchy|tetrarchic]] inheritance
 - The Homoian/Nicene quarrel — see [[third-century-christianity|the Christian controversies]] (the
   Arian dispute, treated fully in CAH XIII Ch. 19)

@@ -120,7 +120,7 @@ frontiers.
 - The frontier wars and settlements of the period: the [[marcomannic-wars-166-180|Marcomannic
   Wars]], [[dacian-wars-101-106|Dacian Wars]], [[trajans-parthian-war-114-117|Parthian War]]
 - The army that held them: [[roman-imperial-army]], [[late-roman-army]]; the [[third-century-crisis|crisis]]
-  and the [[sassanid-empire|Sassanid]] threat
+  and the [[sasanian-empire|Sassanid]] threat
 - The central scholarly dispute: [[roman-grand-strategy]]
 - `contrasts_with:` the modern notion of a fixed national border; the [[battle-of-teutoburg-forest-9ce|Teutoburg]] limit
 - Sources: [[bowman-cah-v11-2000]] (Ch. 8, Whittaker); [[bowman-cah-v12-2005]] (Ch. 8, Wilkes)

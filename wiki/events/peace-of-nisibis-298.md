@@ -65,7 +65,7 @@ despite the treaty's reorganization.
 ## Related
 
 - `caused_by:` Narses' invasion; won by **Galerius** under [[diocletian|Diocletian]]; against the
-  [[sassanid-empire|Sassanid Empire]]
+  [[sasanian-empire|Sassanid Empire]]
 - `produced:` the restoration of [[armenia|Tiridates IV]] and a Roman-dominated Mesopotamia; the reverse of
   the [[capture-of-valerian-260|capture of Valerian]]
 - Part of the recovery from the [[third-century-crisis|crisis]]; the reorganized [[roman-frontiers|eastern

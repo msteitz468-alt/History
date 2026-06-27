@@ -39,7 +39,7 @@ The battle raged for six days. On the final day, August 20, Khalid launched a br
 
 - `produced: [[rashidun-caliphate|Loss of the Levant]]`: Following the defeat, Heraclius abandoned Syria, famously declaring, *"Farewell, a long farewell to Syria."* Jerusalem surrendered to Caliph Umar in 637, followed by Antioch and the remaining Levantine strongholds.
 - `contributed_to: [[rashidun-caliphate|Conquest of Egypt]]`: The destruction of the Byzantine field army in Syria left Egypt undefended, allowing the Muslim forces to conquer Alexandria and the Nile Delta by 642.
-- `contributed_to: [[sassanid-empire|Sasanian Collapse]]`: The victory at Yarmouk freed Muslim resources to focus on the Persian front, leading directly to the victories at Qadisiyya (637) and Nihawand (642), ending the Sasanian Empire.
+- `contributed_to: [[sasanian-empire|Sasanian Collapse]]`: The victory at Yarmouk freed Muslim resources to focus on the Persian front, leading directly to the victories at Qadisiyya (637) and Nihawand (642), ending the Sasanian Empire.
 
 ## Actors
 

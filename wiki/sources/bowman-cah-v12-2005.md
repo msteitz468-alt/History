@@ -95,7 +95,7 @@ The volume's second great theme is the **transformation of identity and the divi
 levelling of the [[constitutio-antoniniana-212|Constitutio Antoniniana]] (212) made citizenship
 universal and so drained it of meaning, replacing the citizen/subject divide with the *honestiores*/
 *humiliores* one; in its place **religion became the new mark of identity** — explicitly so in
-[[sassanid-empire|Frye's Sassanid chapter]], where a centralized Zoroastrian state church mirrors the
+[[sasanian-empire|Frye's Sassanid chapter]], where a centralized Zoroastrian state church mirrors the
 Christianizing Roman one across the Mesopotamian frontier. [[late-polytheism|Fowden]] recovers
 "paganism" as a polemical Christian invention and polytheism as a non-dogmatic religion of the *longue
 durée* that lacked the communal, ethical organization to compete; [[third-century-christianity|Clarke
@@ -108,7 +108,7 @@ relationship between state, city, citizen and god.
 
 Third, the volume **opens the frontiers outward** more than any predecessor. The non-Roman world gets
 four full chapters: the [[germanic-peoples|Germanic]] confederations coalescing on the Rhine/Danube
-(Todd), the new [[sassanid-empire|Sassanid superpower]] on the east (Frye, with the trauma of the
+(Todd), the new [[sasanian-empire|Sassanid superpower]] on the east (Frye, with the trauma of the
 [[capture-of-valerian-260|capture of Valerian]] and the recovery sealed at the [[peace-of-nisibis-298|peace
 of 298]]), the buffer kingdom of [[armenia|Armenia]] (Lightfoot, the first Christian state), and the
 [[arab-desert-peoples|Arabs]] sedentarizing and "arabizing" the fertile crescent (Sartre) — collectively

@@ -60,7 +60,7 @@ late antiquity as a vigorous, creative age of transition, not simply Rome's "dec
 - Picks up directly from [[bowman-cah-v12-2005|CAH XII]] at the death of [[constantine-the-great|Constantine]]
   (337); carries the [[late-roman-army]], [[late-roman-administration]], [[late-roman-cities]],
   [[late-roman-economy]], and [[late-roman-coinage]] pages forward into their mature fourth-century form.
-- Continues the **non-Roman world** pages into the fourth century: the [[sassanid-empire|Sassanids]]
+- Continues the **non-Roman world** pages into the fourth century: the [[sasanian-empire|Sassanids]]
   (Shapur II's wars, the treaty of 363), [[armenia|Armenia]], the [[arab-desert-peoples|Arabs]], and the
   [[germanic-peoples|Germanic peoples]] — now with the decisive **Hunnic** irruption and the Gothic
   settlement.
@@ -101,7 +101,7 @@ at Constantinople 381), **paganism outlawed**, and the **permanent division of 3
 **federate dependence** (the half-Vandal [[stilicho|Stilicho]]) and its prioritizing of Italy over the
 frontiers produced the Rhine crossing of 406 and [[alaric|Alaric's]] [[sack-of-rome-410|sack of Rome (410)]] —
 while the **East**, shielded behind Constantinople's new walls and a stabilized
-[[sassanid-empire|Persian]] frontier (the treaty of 363, the partition of [[armenia|Armenia]] c. 387),
+[[sasanian-empire|Persian]] frontier (the treaty of 363, the partition of [[armenia|Armenia]] c. 387),
 **survived**. The divergence of the two halves — the master-theme handed forward to CAH XIV — flows from
 395 and from the Hunnic-driven barbarian settlement.
 
@@ -116,7 +116,7 @@ Manichaean corpus) mark the cultural **diversification** that would outlast the 
 **Cross-volume continuity and tension.** CAH XIII carries forward almost every CAH XII page — the
 [[late-roman-army|army]], [[late-roman-administration|administration]], [[late-roman-cities|cities]],
 [[late-roman-economy|economy]], [[late-polytheism|polytheism]], [[germanic-peoples|Germanic peoples]],
-[[sassanid-empire|Sassanids]], [[armenia|Armenia]] — into their fourth-century maturity, deepening (not
+[[sasanian-empire|Sassanids]], [[armenia|Armenia]] — into their fourth-century maturity, deepening (not
 contradicting) CAH XII's own anti-catastrophist reading of the third century. The two volumes together
 constitute the wiki's **late-Roman core**: CAH XII the crisis-and-refounding, CAH XIII the Christian,
 bipartite, barbarian-settled empire whose western half is fragmenting and whose eastern half is becoming

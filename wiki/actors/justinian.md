@@ -58,7 +58,7 @@ fell into heresy on his deathbed.
 ## The "reconquest"
 
 Justinian's most famous enterprise was the **recovery of the west**. After the "eternal peace" with the
-Sasanid **[[sassanid-empire|Khusro I]]** (532) freed his hands, **[[belisarius|Belisarius]]**:
+Sasanid **[[sasanian-empire|Khusro I]]** (532) freed his hands, **[[belisarius|Belisarius]]**:
 
 - **destroyed the [[vandal-kingdom|Vandal kingdom]] of Africa** (533–534) with stunning ease in the **Vandalic War** — victory at
   Ad Decimum, the capture of Carthage and king Gelimer, and a triumph in Constantinople parading the Temple
@@ -92,7 +92,7 @@ the plague, the Lombards, and the coming Persian and Arab wars would soon expose
 - `produced:` the *Corpus Iuris Civilis*, [[hagia-sophia|Hagia Sophia]], the [[closing-of-the-athenian-academy-529|closing
   of the Academy]], and the reconquest of [[vandal-kingdom|Vandal Africa]] and [[theoderic-the-great|Ostrogothic
   Italy]]
-- The "eternal peace" with the [[sassanid-empire|Sasanid]] Khusro I; the [[council-of-chalcedon-451|Chalcedonian]]
+- The "eternal peace" with the [[sasanian-empire|Sasanid]] Khusro I; the [[council-of-chalcedon-451|Chalcedonian]]
   schism he sought to heal; the [[late-roman-emperorship|imperial]] tradition he embodies
 - `followed_by:` the Lombard conquest of Italy and the reign of his successors; the
   [[fall-of-the-western-roman-empire-476|fall of the West]] he briefly reversed

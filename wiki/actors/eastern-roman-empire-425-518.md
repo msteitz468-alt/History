@@ -82,5 +82,5 @@ for the resurgence under [[justinian|Justinian]].
   fiscal surplus that `enabled:` [[justinian|Justinian's]] reconquests and buildings
 - `enabled:` [[theoderic-the-great|Theoderic's]] Ostrogothic kingdom (Zeno's despatch of 488)
 - Continues the [[late-roman-emperorship|late Roman imperial office]] and [[late-roman-army|army]]; opposed
-  by the [[huns|Huns]] under Attila and the [[sassanid-empire|Sasanids]]
+  by the [[huns|Huns]] under Attila and the [[sasanian-empire|Sasanids]]
 - Source: [[cameron-cah-v14-2000]] (Ch. 2, A. D. Lee)

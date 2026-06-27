@@ -93,7 +93,7 @@ in action). Key points:
   centralized but more numerous set of small western armies (Gaul, Africa, Spain, Britain, Illyricum —
   largely [[stilicho|Stilicho's]] formalization). This effectively **reformulated, even partly abandoned,
   the original Constantinian model**.
-- **The strategic context** was harder: the [[sassanid-empire|Sassanids]] east and the
+- **The strategic context** was harder: the [[sasanian-empire|Sassanids]] east and the
   [[germanic-peoples|Frankish, Alamannic and Gothic confederacies]] north made the army's role more vital,
   its enlarged size a strain on manpower and budget, and its loyalty (after the third-century mutinies) a
   standing imperial anxiety.
@@ -101,7 +101,7 @@ in action). Key points:
 ## Related
 
 - Built by [[gallienus]], [[diocletian]], and [[constantine-the-great]]; answer to the
-  [[third-century-crisis]] and the [[sassanid-empire|Sassanid]] two-front threat; the fourth-century force
+  [[third-century-crisis]] and the [[sasanian-empire|Sassanid]] two-front threat; the fourth-century force
   of the *Notitia* and Ammianus
 - Tied to the [[late-roman-administration|fiscal and administrative reforms]] and the
   [[late-roman-emperorship|imperial government]]; transformed the [[roman-imperial-army|imperial army]] of

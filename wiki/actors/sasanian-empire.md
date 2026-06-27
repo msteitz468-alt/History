@@ -9,9 +9,10 @@ affiliated_with: [[[zoroastrianism]], the Sasanian dynasty, Iranshahr]
 opposed_by: [[[roman-empire|Rome]]/[[byzantine-empire|Byzantium]], the [[white-huns|Hephthalites]], the [[gokturk|Türks]], the Arab-Muslim armies]
 key_events: [Shapur I's capture of Valerian, wars with Byzantium, Khusro II's invasion 602-628 CE, Battle of Qadisiyya 637 CE]
 key_processes: [[[empire]], [[universal-religions]], [[silk-roads]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, empire, late-antiquity, early-middle-ages, iran-plateau]
+aliases: [Sasanian Empire, Sassanid Empire, The Sassanid Empire, Sasanian Persia, Sassanian Empire]
 ---
 
 # Sasanian Empire
@@ -85,6 +86,58 @@ A contemporary witness to the Roman–Persian frontier is now ingested as the
 **[[watt-pseudo-joshua-stylite|Chronicle of Pseudo-Joshua the Stylite]]**, the best source for the
 **[[anastasian-war-502-506|Anastasian War (502–506)]]** between Kavadh I and Anastasius — the opening
 round of the sixth-century wars.
+
+## Wiesehöfer: continuity, the "no state Church" thesis, and the reforming turn
+
+[[sources/wiesehofer-ancient-persia-2001|Wiesehöfer]]'s treatment cuts against several of
+the framings above and supplies the institutional spine.
+
+- **Arsacid continuity, not rupture [CONTRADICTION].** Where the Overview stresses a sharp
+  "recasting" of the Iranian state, Wiesehöfer argues the Sasanians' supposed break with the
+  [[parthian-empire|Parthians]] was largely **retrospective fabrication** (encoded in the
+  [[eranshahr|Xwadāy-nāmag]]). Structurally they were Arsacid heirs: "the Arsacid heritage
+  is conspicuously reflected in … the division of the aristocracy into separate classes of
+  nobility … the relationship between king and nobility and the continued influence of
+  Parthian clans." After ~400 years of Parthian rule "internal stability was possible only
+  through continuity." Shapur I's Hajjiabad inscription lists the inherited fourfold order —
+  *šahrdārān* (local dynasts), *wāspuhragān* (collateral royals), *wuzurgān* (great clans
+  incl. the Parthian **Wāraz, Sūren, Kārin**), *āzādān* (lesser nobility) — with the
+  Persian aristocracy's rank merely *enhanced* atop the Parthian frame.
+- **No Zoroastrian "state Church" [CONTRADICTION].** Against the Religion-and-State section
+  above (and older scholarship), Wiesehöfer holds that "the concept of 'state religion' and
+  'state Church' … has to be discarded … not only for semantic reasons … but also on
+  historical grounds." The famous throne–altar maxim of the *Letter of Tansar* ("Church and
+  State were born of the one womb") is "a late Zoroastrian design of an ideal state, which
+  probably even emerged under Islamic influence," not early-Sasanian reality. Clerical power
+  *fluctuated* with political circumstance (strong under Bahram II, Hormizd II, and
+  [[shapur-ii|Shapur II]] — all reigns of crisis; contained under Ardashir I, Shapur I,
+  Hormizd I, Narseh). The aggressive phase of the high priest **[[kartir|Kartir]]** reflects
+  a specific conjuncture, not standing policy.
+- **Religion as politics.** The spread of Christianity owed less to mission than to **mass
+  deportation**: [[shapur-i|Shapur I]] resettled "several hundred thousand mostly Christian
+  inhabitants of Roman Syria, Cilicia and Cappadocia" for economic and demographic reasons.
+  [[shapur-ii|Shapur II]]'s persecution (from 344/345) was triggered by a war tax and
+  suspicion of Roman sympathy; the Church of the East answered with autocephaly (Synod of
+  Seleucia-Ctesiphon, 410) and Nestorianism (Beth Lapat, 484) partly "to eliminate the
+  slightest suspicion of a conspiracy with the Roman empire." The Babylonian Talmud was
+  compiled under Sasanian rule.
+- **Centralization came late, under Khosrow I.** Wiesehöfer makes the **reforms of
+  [[khosrow-i|Khosrow I Anushirvan]]** the true centralizing turn — fiscal reform, a paid
+  *al-asāwira* cavalry and *dehqān* service nobility, and above all the **four-*spāhbed*
+  reorganization** (replacing the single supreme commander with four quarter-commands). He
+  exploited the **Mazdakite** upheaval (which his father Kavad had briefly backed against the
+  nobles) to remake the state, then sponsored a celebrated cultural flowering (Greek
+  philosophy, the *Pañcatantra*/*Kalīla wa-Dimna*, the first authoritative Xwadāy-nāmag).
+- **Structural causes of the fall.** Beyond the mutual exhaustion of the great
+  Khosrow II–Heraclius war, Wiesehöfer flags two structural weaknesses: Khosrow II's
+  destruction of the **Lakhmid Arab buffer state** (the client dynasty of Ḥīra; "one of the causes for
+  the collapse of the Arab front a few decades later"), and a heavy cavalry that, dominant
+  against Byzantium, "fought a losing battle" against the light, mobile horsemen of the
+  Muslim armies. A tactical fragility compounded it: "if the commander fell or fled, the
+  soldiers gave up the battle as lost."
+
+For the empire's own idea of itself, see **[[eranshahr]]**; for how all of this had to be
+recovered by modern scholarship, see **[[rediscovery-of-ancient-iran]]**.
 
 ## The Sasanians and the End of the First Silk Roads Era (Benjamin 2018)
 

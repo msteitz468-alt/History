@@ -70,7 +70,7 @@ were "more than tribes, less than early states," and close to the frontier "soci
 which were neither Roman nor barbarian." Increasingly the dominant relationship was not raiding but
 **recruitment and alliance** — a theme dominant "from the reign of Constantine onward" — laying the human
 material for the fifth-century transformation of the West. For the wiki this anchors the northern frontier
-counterpart to the eastern [[sassanid-empire|Sassanid]] pressure in the [[third-century-crisis|crisis]].
+counterpart to the eastern [[sasanian-empire|Sassanid]] pressure in the [[third-century-crisis|crisis]].
 
 ## The fourth century: ethnogenesis and the Gothic crisis (CAH XIII)
 
@@ -101,7 +101,7 @@ peoples through the fourth century. Heather's chapter on the **Goths** is the mo
 - Earlier conflict: the [[marcomannic-wars-166-180|Marcomannic Wars]]; driven into the empire by the
   [[huns|Huns]] — [[battle-of-adrianople-378|Adrianople]], the *foedus* of [[theodosius-i|Theodosius I]],
   [[alaric|Alaric]] and the [[sack-of-rome-410|sack of Rome]]
-- `contrasts_with:` the [[sassanid-empire|Sassanid Empire]] — a centralized state, where the Germani were
+- `contrasts_with:` the [[sasanian-empire|Sassanid Empire]] — a centralized state, where the Germani were
   fluid confederations; the [[arab-desert-peoples|Arab desert peoples]] of the eastern frontier
 - Sources: [[bowman-cah-v12-2005]] (Ch. 13, Todd); [[cameron-cah-v13-1998]] (Ch. 15, Todd; Ch. 16, Heather)
 

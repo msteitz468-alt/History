@@ -6,7 +6,7 @@ date_end: 274 CE
 period: [Late Antiquity]
 region: [near-east, levant, mediterranean-world]
 affiliated_with: [[[palmyra]]]
-opposed_by: [[[aurelian]], [[sassanid-empire]]]
+opposed_by: [[[aurelian]], [[sasanian-empire]]]
 key_events: []
 key_processes: [[[third-century-crisis]]]
 sources_ingested: 1
@@ -50,6 +50,6 @@ separatism, even at the empire's lowest ebb. Zenobia's career is the most specta
 
 - Her city and power-base: [[palmyra]]; her overthrow by [[aurelian]]; the contemporary
   [[gallic-empire|Gallic Empire]]
-- The crisis context: [[third-century-crisis]]; the [[sassanid-empire|Sassanid]] wars that first
+- The crisis context: [[third-century-crisis]]; the [[sasanian-empire|Sassanid]] wars that first
   raised Palmyra's importance
 - Source: [[bowman-cah-v12-2005]] (Ch. 2, John Drinkwater)

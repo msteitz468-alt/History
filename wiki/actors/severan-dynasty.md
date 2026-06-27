@@ -6,7 +6,7 @@ date_end: 235 CE
 period: [Late Antiquity]
 region: [italy, north-africa, near-east, mediterranean-world]
 affiliated_with: [[[roman-imperial-army]], [[roman-empire]]]
-opposed_by: [[[parthian-empire]], [[sassanid-empire]]]
+opposed_by: [[[parthian-empire]], [[sasanian-empire]]]
 key_events: [[[year-of-the-five-emperors-193]], [[constitutio-antoniniana-212]]]
 key_processes: [[[militarization-of-the-roman-state]]]
 sources_ingested: 1
@@ -35,7 +35,7 @@ Campbell**).
   brought his murder.
 - **Severus Alexander** (222–35) — the last Severan; personally modest and respectful of the senate
   but dominated by his grandmother **Julia Maesa** and mother **Julia Mamaea**; faced the new
-  [[sassanid-empire|Sassanid]] threat and German wars; murdered with his mother by the mutinous Rhine
+  [[sasanian-empire|Sassanid]] threat and German wars; murdered with his mother by the mutinous Rhine
   army, opening the crisis.
 
 ## The Severan women
@@ -59,5 +59,5 @@ and the [[third-century-crisis|crisis]].
 
 - Founder and chief members: [[septimius-severus]], [[caracalla]]; the [[constitutio-antoniniana-212|citizenship edict]]
 - Preceded by [[commodus|Commodus]] and the [[high-empire|High Empire]]; followed by the
-  [[third-century-crisis]] and the rise of the [[sassanid-empire]]
+  [[third-century-crisis]] and the rise of the [[sasanian-empire]]
 - Source: [[bowman-cah-v12-2005]] (Ch. 1, Brian Campbell)

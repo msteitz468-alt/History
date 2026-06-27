@@ -48,7 +48,7 @@ most spectacular of the Roman East.
 
 - Ruled by [[zenobia]] and Odenathus; destroyed by [[aurelian]]; the [[third-century-crisis|crisis]]
   context and the contemporary [[gallic-empire|Gallic Empire]]
-- A node of [[roman-imperial-trade|eastern caravan trade]]; the [[sassanid-empire|Sassanid]] wars on
+- A node of [[roman-imperial-trade|eastern caravan trade]]; the [[sasanian-empire|Sassanid]] wars on
   its doorstep; Odenathus rolled back [[shapur-i|Shapur I]] after the [[capture-of-valerian-260|capture
   of Valerian]]
 - The "arabized" caravan city in its desert context: [[arab-desert-peoples]] (CAH XII Ch. 16, Sartre)

@@ -11,7 +11,7 @@ actors_secondary: [Gallienus, Odenathus of Palmyra]
 event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational
-causes: [[[sassanid-empire|Sassanid expansion under Shapur I]], the over-extension of Roman defences in the third-century crisis, plague and instability in the Roman army]
+causes: [[[sasanian-empire|Sassanid expansion under Shapur I]], the over-extension of Roman defences in the third-century crisis, plague and instability in the Roman army]
 consequences: [the high-water mark of Sassanid prestige, the rise of [[palmyra|Palmyra]] under Odenathus, the deepening of the Roman crisis under Gallienus]
 sources_ingested: 1
 last_updated: 2026-06-12
@@ -38,7 +38,7 @@ images of Sassanian victory over Rome.
 ## Causal Analysis
 
 - `caused_by:` the **expansionist energy of [[shapur-i|Shapur I]]** and the centralized
-  [[sassanid-empire|Sassanid state]], a far more dangerous adversary than Parthia had been.
+  [[sasanian-empire|Sassanid state]], a far more dangerous adversary than Parthia had been.
 - `contributed_to:` the **structural over-extension** of Roman defences during the crisis — Valerian,
   having divided imperial responsibility with his son [[gallienus|Gallienus]] (West), faced the eastern
   war amid plague and a collapsing frontier.
@@ -63,7 +63,7 @@ and the precise circumstances of the capture (battle or treacherous parley) are 
 
 ## Related
 
-- `caused_by:` [[shapur-i|Shapur I]] and the [[sassanid-empire|Sassanid Empire]]; the victim
+- `caused_by:` [[shapur-i|Shapur I]] and the [[sasanian-empire|Sassanid Empire]]; the victim
   [[gallienus|Gallienus']] father Valerian
 - `enabled:` the rise of [[palmyra|Palmyra]] under [[zenobia|Odenathus]]; part of the
   [[third-century-crisis|crisis]]

@@ -6,7 +6,7 @@ date_end: 311 CE
 period: [Late Antiquity]
 region: [balkans, near-east, egypt, mediterranean-world]
 affiliated_with: [[[roman-tetrarchy]], [[roman-empire]]]
-opposed_by: [[[sassanid-empire]], [[origins-of-christianity]]]
+opposed_by: [[[sasanian-empire]], [[origins-of-christianity]]]
 key_events: [[[great-persecution-303]]]
 key_processes: [[[third-century-crisis]], [[militarization-of-the-roman-state]]]
 sources_ingested: 1
@@ -51,7 +51,7 @@ Over two decades Diocletian and his colleagues reorganized the empire:
 - **Romanitas**: a deeply traditional, moralizing legislative tenor (the Edict on Marriages, the
   Epistle against the Manichees).
 
-He campaigned on the Danube and against the **[[sassanid-empire|Persians]]** (Galerius' victory over
+He campaigned on the Danube and against the **[[sasanian-empire|Persians]]** (Galerius' victory over
 **Narses**, 297/8, won a favorable peace and a trans-Tigris zone of influence) and suppressed the
 revolt in **Egypt** (the siege of Alexandria, 298).
 
@@ -79,6 +79,6 @@ abdication — the wars from which [[constantine-the-great|Constantine]] would e
 - His system: the [[roman-tetrarchy|tetrarchy]]; co-rulers Maximian, Constantius, Galerius
 - Ended the [[third-century-crisis]]; the [[great-persecution-303|Great Persecution]]; his successor
   and the dynasty's heir [[constantine-the-great]]
-- The [[sassanid-empire|Persian]] war; the fiscal and administrative state developed in
+- The [[sasanian-empire|Persian]] war; the fiscal and administrative state developed in
   [[bowman-cah-v12-2005|CAH XII]]'s later chapters
 - Source: [[bowman-cah-v12-2005]] (Ch. 3, Alan Bowman)

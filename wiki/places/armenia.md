@@ -16,7 +16,7 @@ tags: [place, anatolia, near-east, late-antiquity]
 
 The mountainous kingdom of **eastern Anatolia** — for most of the third and fourth centuries **not a strong
 independent state but a contested buffer**, its survival owed to the rivalry of its powerful neighbours,
-**Rome** and **[[parthian-empire|Parthia]] / [[sassanid-empire|Sassanian Persia]]**. The first kingdom
+**Rome** and **[[parthian-empire|Parthia]] / [[sasanian-empire|Sassanian Persia]]**. The first kingdom
 to adopt **Christianity** as a state religion. Treated in [[bowman-cah-v12-2005|CAH XII]] Ch. 15 (**C. S.
 Lightfoot**).
 
@@ -79,7 +79,7 @@ monarchy's fall.
 
 ## Related
 
-- The contest between Rome and the [[sassanid-empire|Sassanid Empire]] (and earlier
+- The contest between Rome and the [[sasanian-empire|Sassanid Empire]] (and earlier
   [[parthian-empire|Parthia]]); the [[peace-of-nisibis-298|peace of 298]] and [[diocletian|Diocletian]]'s
   settlement
 - Christianization under Tiridates IV, following [[constantine-the-great|Constantine]] and the
@@ -90,7 +90,7 @@ monarchy's fall.
 ## The fourth century: contest and partition (CAH XIII)
 
 [[cameron-cah-v13-1998|CAH XIII]] (Chs. 1, 13–14) carries Armenia through the fourth century as the
-perennial bone of contention between Rome and **Shapur II's [[sassanid-empire|Persia]]**.
+perennial bone of contention between Rome and **Shapur II's [[sasanian-empire|Persia]]**.
 [[constantius-ii|Constantius II]] secured the kingdom by diplomacy (restoring king **Arsaces**, 338) while
 fighting his defensive Mesopotamian war; but after [[julian|Julian's]] disaster and **Jovian's treaty of
 363** (which abandoned Roman claims), Persia pressed its advantage. Renewed war under
@@ -122,6 +122,6 @@ Tiridates' conversion) pulled it westward — a contradiction at the heart of Ar
 - **Between the empires.** The emperor **[[successors-of-justinian|Maurice]]** sought to integrate Roman
   Armenia more firmly (deporting nobles, planting an anti-patriarch), but Armenia "as a whole was never
   integrated into the Greek-speaking empire," remaining a contested march between Rome and a
-  [[sassanid-empire|Sasanid]] Iran to which much of its nobility inclined.
+  [[sasanian-empire|Sasanid]] Iran to which much of its nobility inclined.
 
 Source: [[cameron-cah-v14-2000]] (Ch. 21, Robert Thomson).

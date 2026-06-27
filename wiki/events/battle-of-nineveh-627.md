@@ -41,7 +41,7 @@ The two armies clashed near the ruins of ancient Nineveh on December 12, 627. Th
 ## Actors
 
 - **[[byzantine-empire|Byzantine Empire]]**
-- **[[sassanid-empire|Sasanian Persian Empire]]**
+- **[[sasanian-empire|Sasanian Persian Empire]]**
 - **[[heraclius]]**
 - **Rhahzadh** (Sasanian commander)
 

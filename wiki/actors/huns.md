@@ -79,6 +79,6 @@ beyond the frontier. Their own empire, and its collapse, belong to [[cameron-cah
 - `produced:` (indirectly) the [[germanic-peoples|Gothic]] flight to the Danube, [[battle-of-adrianople-378|Adrianople]],
   and the Rhine crossing of 406; displaced the Goths, Vandals, Alans and Sueves
 - Employed as Roman allies by [[stilicho|Stilicho]] and Aetius; built into Attila's empire (CAH XIV)
-- `contrasts_with:` the settled [[sassanid-empire|Sassanid]] state and the semi-settled
+- `contrasts_with:` the settled [[sasanian-empire|Sassanid]] state and the semi-settled
   [[germanic-peoples|Germanic confederations]]
 - Source: [[cameron-cah-v13-1998]] (Ch. 16, Peter Heather)

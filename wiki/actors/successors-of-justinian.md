@@ -64,7 +64,7 @@ c. 600 is chosen precisely here, before the Persian and Arab wars made the trans
 - `followed_by:` [[justinian|Justinian]] — whose reconquests they could not sustain
 - `produced:` the [[fall-of-the-western-roman-empire-476|Lombard]] conquest of Italy (568, undoing the Gothic
   War); the loss of the Balkans to the **Avars and Slavs**
-- `opposed_by:` the [[sassanid-empire|Sasanids]] (Khusro I, then Maurice's protégé Khusro II); the murder of
+- `opposed_by:` the [[sasanian-empire|Sasanids]] (Khusro I, then Maurice's protégé Khusro II); the murder of
   Maurice (602) `enabled:` the great Persian war and the seventh-century collapse
 - Continues the [[eastern-roman-empire-425-518|eastern empire]] and [[late-roman-army|army]] into their final
   late-antique phase

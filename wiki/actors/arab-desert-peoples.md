@@ -87,7 +87,7 @@ incomprehensible."
 
 - The caravan city that policed the frontier: [[palmyra|Palmyra]] under [[zenobia|Zenobia]]; the destroyed
   principalities of Edessa and Hatra
-- Caught between Rome and the [[sassanid-empire|Sassanid Empire]] in the [[third-century-crisis|crisis]];
+- Caught between Rome and the [[sasanian-empire|Sassanid Empire]] in the [[third-century-crisis|crisis]];
   the desert flank of the [[roman-frontiers|eastern frontier]] ([[diocletian|Diocletian]]'s *Strata
   Diocletiana*)
 - `contrasts_with:` the [[germanic-peoples|Germanic peoples]] of the northern frontier; the settled

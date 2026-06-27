@@ -9,15 +9,15 @@ affiliated_with: [the house of Sasan, Zoroastrianism, Mani]
 opposed_by: [Rome (Gordian III, Philip the Arabian, Valerian), Palmyra (Odenathus)]
 key_events: [the death of Gordian III at Misiche (244), the battle of Barbalissus (252), the capture of Valerian (260)]
 key_processes: [the wars of the third-century crisis, the patronage of Manichaeism]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-antiquity, iran-plateau, near-east]
 ---
 
 # Shapur I
 
 Son and successor of **[[ardashir-i|Ardashir I]]** (r. c. 240–272) and the conqueror who carried the
-**[[sassanid-empire|Sassanid Empire]]** to its third-century zenith — the Persian king who defeated
+**[[sasanian-empire|Sassanid Empire]]** to its third-century zenith — the Persian king who defeated
 three Roman emperors and achieved the **unexampled [[capture-of-valerian-260|capture of the emperor
 Valerian]]**. Treated in [[bowman-cah-v12-2005|CAH XII]] Ch. 14 (**Richard N. Frye**).
 
@@ -60,9 +60,28 @@ frontier ultimately intact and allowed both Palmyra and a recovering Rome to cla
 illustrating Frye's point that the Sassanians aimed at **prestige, plunder and the Iranian sphere**, not
 the dismemberment of the Roman state.
 
+## Wiesehöfer: deportations, ideology, and the reliefs
+
+[[sources/wiesehofer-ancient-persia-2001|Wiesehöfer]] reads the **deportations** as the
+decisive religious fact of the reign: Shapur resettled "several hundred thousand mostly
+Christian inhabitants of Roman Syria, Cilicia and Cappadocia" in Mesopotamia, Persis, and
+Parthia — for "economic and demographic reasons, rather than religious and political
+ones" — inadvertently seeding the Church of the East and building the deportee city
+**Gundeshāpūr (Veh-Andiyok-Shabuhr)**, later a famed centre of medicine and learning. In
+the **ŠKZ** Shapur titles himself *bay* ("god/lord") — a "god-man," materially divine,
+distinct from the truly spiritual *yazd* (Ohrmazd) — and credits the gods with making him
+"their own property"; the triumphal reliefs (Philip kneeling, Valerian "seized" by hand)
+are the "timeless and placeless perpetuations in stone" of those *res gestae*. The newly
+found **Abnūn inscription** independently confirms 260 CE for Valerian's capture. On Mani,
+Wiesehöfer adds that the king accepted the dedication of Mani's *Šābuhragān* but never
+converted; the **[[manichaeism|Cologne Mani Codex]]** now lets the movement be studied from
+the inside. Wiesehöfer also cautions that royal cult-statements "aim at external effect and
+legitimation" and should not be read directly as the king's personal religious policy
+(see [[kartir]], [[eranshahr]]).
+
 ## Related
 
-- Son of [[ardashir-i|Ardashir I]]; king of the [[sassanid-empire|Sassanid Empire]]; `produced:` the
+- Son of [[ardashir-i|Ardashir I]]; king of the [[sasanian-empire|Sasanian Empire]]; `produced:` the
   [[capture-of-valerian-260|capture of Valerian]]
 - Rolled back by [[zenobia|Odenathus]] of [[palmyra|Palmyra]]; patron of [[manichaeism|Mani]]
 - His wars are central to the [[third-century-crisis|crisis]]; the contested [[armenia|Armenian]] kingdom

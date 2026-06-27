@@ -36,7 +36,7 @@ while berating Quadi envoys, leaving his sons **Gratian** and the child **Valent
 
 Valens, less able and a convinced **Homoian ("Arian")**, faced early the dangerous revolt of
 **Procopius** (365–6, exploiting Constantinian legitimacy) before turning to the **Gothic** problem on
-the Danube and a renewed contest with **[[sassanid-empire|Shapur II]]** over **[[armenia|Armenia]]**.
+the Danube and a renewed contest with **[[sasanian-empire|Shapur II]]** over **[[armenia|Armenia]]**.
 His Homoian sympathies set him against the increasingly Nicene church (and against ascetics and monks).
 
 ## The Gothic crisis and Adrianople
@@ -64,5 +64,5 @@ the doctrinal quarrel now tracked imperial politics.
   Gratian/Valentinian II (West)
 - `produced:` the [[battle-of-adrianople-378|battle of Adrianople]] and the Gothic settlement; the
   [[germanic-peoples|Gothic]] crisis driven by the Huns
-- Valens' wars with [[sassanid-empire|Shapur II]] over [[armenia|Armenia]]
+- Valens' wars with [[sasanian-empire|Shapur II]] over [[armenia|Armenia]]
 - Source: [[cameron-cah-v13-1998]] (Ch. 3, John Curran)

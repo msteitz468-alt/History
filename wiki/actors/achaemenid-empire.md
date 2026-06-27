@@ -9,7 +9,7 @@ affiliated_with: [[[zoroastrianism]], the Persians and Medes]
 opposed_by: [Greek city-states, Scythians, [[alexander-the-great|Macedon]], Egypt (in revolt)]
 key_events: [conquest of Babylon 539 BCE, Greco-Persian Wars 490/480-479 BCE, Battle of Gaugamela 331 BCE]
 key_processes: [[[empire]], [[state-formation]], [[trade-network-formation]]]
-sources_ingested: 6
+sources_ingested: 7
 last_updated: 2026-06-27
 tags: [actor, empire, archaic-period, classical-antiquity, iran-plateau]
 ---
@@ -252,4 +252,4 @@ comparative imperiology in [[empire]].
 - Greek wars: [[ionian-revolt-499bce]] · [[battle-of-marathon-490bce]] · [[thrace]] (Skudra) · [[isonomia]] · source-critique: [[herodotus-reliability]]
 - Fourth century: [[achaemenid-satrapy]] · [[artaxerxes-ii]] · [[cyrus-the-younger]] · [[march-of-the-ten-thousand-401bce]]
 - Sources: [[benjamin-cwh-v4-2015]] (Daryaee, Ch. 10) · [[boardman-cah-v4-1988]]
-  (Chs. 3c–3d eastern satrapies; Chs. 6, 8, 9 the Greek wars; Chs. 1–2, 3a missing from scan) · [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 3, Hornblower) · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]] · [[sources/briant-from-cyrus-to-alexander-2002|Briant, From Cyrus to Alexander (2002)]]
+  (Chs. 3c–3d eastern satrapies; Chs. 6, 8, 9 the Greek wars; Chs. 1–2, 3a missing from scan) · [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 3, Hornblower) · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]] · [[sources/briant-from-cyrus-to-alexander-2002|Briant, From Cyrus to Alexander (2002)]] · [[sources/wiesehofer-ancient-persia-2001|Wiesehöfer, Ancient Persia (2001)]] (thematic synthesis; reinforces Briant and supplies the Iranian "afterlife" — see [[rediscovery-of-ancient-iran]])
