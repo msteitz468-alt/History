@@ -16,7 +16,7 @@
 6. **Jerry H. Bentley, Sanjay Subrahmanyam, Merry Wiesner-Hanks** - *The Cambridge World History, Volume 6 (Complete) (Parts 1 & 2)* ✅
 7. **J. R. McNeill, Kenneth Pomeranz** - *The Cambridge World History, Volume 7 (Complete) (Parts 1 & 2)* ✅
 8. **Bruce G. Trigger** - *Understanding Early Civilizations: A Comparative Study* ✅
-9. **Charles Keith Maisels** - *Early Civilizations of the Old World: The Formative Histories of Egypt, The Levant, Mesopotamia, India and China* **[MISSING]**
+9. **Charles Keith Maisels** - *Early Civilizations of the Old World: The Formative Histories of Egypt, The Levant, Mesopotamia, India and China* ✅ (ingested 2026-06-26)
 10. **Norman Yoffee** - *Myths of the Archaic State: Evolution of the Earliest Cities, States, and Civilizations* ✅ (ingested 2026-06-26)
 
 ---
