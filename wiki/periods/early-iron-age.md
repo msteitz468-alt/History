@@ -7,7 +7,7 @@ date_range: "1,200–800 BCE (regionally diachronous)"
 regions_covered: [near-east, levant, anatolia, mesopotamia, iran-plateau, mediterranean, iberia, china, south-asia, north-africa, sub-saharan-africa, mesoamerica]
 major_themes: ["aftermath of the Bronze Age Collapse", "iron metallurgy", "Neo-Assyrian resurgence", "Phoenician expansion", "the Greek 'Dark Age'", "Western Zhou and its fall", "Vedic age", "alphabetic writing", "small states and tribal polities"]
 collection_coverage: moderate
-sources_ingested: 9
+sources_ingested: 10
 last_updated: 2026-06-27
 tags: [period, bogucki-crabtree-ancient-europe-2004, bryce-world-neo-hittite-kingdoms-2012, dever-beyond-the-texts-2017]
 ---
@@ -213,6 +213,16 @@ astronomical retrocalculation; Aegean and central-Mediterranean chronologies
 rest on pottery seriation cross-linked to Egypt, and are under active revision by
 radiocarbon (the "Iron Age chronology debate" in Levantine archaeology, with
 direct bearing on Biblical history, is unresolved).
+
+**Israelite emergence and religion (Noll 2013).**
+[[sources/noll-canaan-israel-antiquity-2013|K. L. Noll's textbook]] adds a moderate-skeptic
+reading of the Iron I Levant: the highland-village explosion is an indigenous coalescence within
+the single [[canaan|Canaanite cultural sphere]], not a conquest or migration; the
+[[merneptah|Merneptah stela]] (c. 1207) attests an "Israel" already in Canaan; and the period's
+religion is best understood through [[divine-patronage-ancient-near-east|divine patronage]] and
+the El→Baal→[[yahwism-and-israelite-religion|Yahweh]] development rather than the Bible's later
+theology. Noll structures his chronology on Herzog's radiocarbon-driven **Middle Chronology**,
+which leans Low — relevant to the unresolved Iron Age chronology debate noted above.
 
 ## Collection Coverage Note
 

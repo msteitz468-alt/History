@@ -103,6 +103,36 @@ The entire Low Chronology depends on a cascade of stratigraphic re-assignments. 
 
 ---
 
+## Noll (2013): the moderate-skeptic reading
+
+[[sources/noll-canaan-israel-antiquity-2013|K. L. Noll's textbook (2013)]] sits between the
+minimalist and centrist poles and declines to defend a "United Monarchy" as usually defined.
+His position:
+
+- He frames the contest as **High Chronology** (a real Davidic–Solomonic state controlling
+  Megiddo and Hazor, resting on biblical texts such as 1 Kgs 9.15) versus **Low Chronology**
+  (Saul, David, and Solomon as minor kings of the Cisjordan Highlands who never held a major
+  city — a thesis independent of any biblical text). Noll favours the **Low or Middle
+  Chronology** and structures the book on Herzog's Middle Chronology.
+- **Radiocarbon trends Low.** When sufficient, securely stratified samples are tested the C-14
+  dates fall where both camps expected, but the general trend "favour[s] the Low Chronology";
+  the Mazar/Herzog **Middle Chronology** is "mainly the result of dates obtained by the
+  radiocarbon method, which fit the low chronology better" — "a generous concession towards
+  the low chronology."
+- **The biblical splendour is displaced memory.** The Cisjordan Highlands "could not produce
+  this many men of military age in a single generation"; David's conquest catalogue (2 Samuel
+  8) reads as later Iron II material retrojected (his Edomite victory in 2 Sam. 8.13 duplicates
+  an eighth-century king's in 2 Kgs 14.7; "Hadadezer" echoes the ninth-century Hazael of
+  Damascus), and Solomon's splendour "sounds suspiciously like the rise of the
+  [[omride-dynasty|Omrides]] of Samaria some forty to fifty years later."
+- Noll's verdict is agnostic, not nihilist: it is "possible, but by no means demonstrated,
+  that some of the tales in 1–2 Samuel and 1 Kings 1–11 derive from faint memory of real
+  tenth-century events." Where [[sources/dever-beyond-the-texts-2017|Dever]] uses the same C-14
+  and gate evidence to defend a real (if modest) tenth-century polity, Noll doubts the "United
+  Monarchy" label survives at all — the two skeptics' point of divergence.
+
+---
+
 ## Related
 
 - [[hebrew-kingdom|Hebrew Kingdom]] — the state at issue
@@ -114,4 +144,5 @@ The entire Low Chronology depends on a cascade of stratigraphic re-assignments. 
 - [[early-iron-age|Early Iron Age]] — the chronological period
 - [[shoshenq-campaign-925bce|Shoshenq Campaign (925 BCE)]] — the fixed chronological anchor
 - [[levant|Levant]] — regional context
-- [[sources/dever-beyond-the-texts-2017|Dever (2017)]] — primary source for this page
+- [[sources/dever-beyond-the-texts-2017|Dever (2017)]] — centrist source for this page
+- [[sources/noll-canaan-israel-antiquity-2013|Noll (2013)]] — moderate-skeptic / Low–Middle Chronology source

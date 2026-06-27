@@ -9,7 +9,7 @@ affiliated_with: [[[phoenicians|Tyre]] (the Omride–Jezebel alliance), at times
 opposed_by: [[[hazael|Aram-Damascus]], [[neo-assyrian-empire|Assyria]], Moab, [[kingdom-of-judah|Judah]] (intermittently)]
 key_events: [[[shoshenq-campaign-925bce|Shoshenq I's campaign (925)]], the founding of Samaria, the [[battle-of-qarqar-853bce|battle of Qarqar (853)]], the [[jehu-revolt-841bce|revolt of Jehu (841)]], the fall of Samaria (722)]
 key_processes: [[[state-formation]], dynastic instability, Assyrian imperial expansion]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, levant]
 ---
@@ -167,9 +167,19 @@ witnesses, make ninth-century Israel the most powerful Levantine state of its da
 its conquest is best read from the Assyrian provincial footprint rather than a clean 722
 destruction layer (see [[fall-of-samaria-722bce|Fall of Samaria]]).
 
+### Noll (2013)
+
+[[sources/noll-canaan-israel-antiquity-2013|K. L. Noll (2013)]] reads Israel as one polity
+within the [[canaan|Canaanite cultural sphere]] and argues that the splendour the Bible assigns
+to Solomon "sounds suspiciously like the rise of the [[omride-dynasty|Omrides]] of Samaria some
+forty to fifty years later" — i.e., later northern achievement retrojected onto a tenth-century
+Jerusalem. He treats Israelite religion as Canaanite [[yahwism-and-israelite-religion|Yahwism]]:
+the Kuntillet Ajrud oasis, run by officials of Samaria-Israel, is where the "Yahweh and his
+Asherah" inscriptions and the El–Baal parallel text were found.
+
 ## Related
 
 - Parent/sibling: [[hebrew-kingdom|United Monarchy]] · [[kingdom-of-judah|Judah]] · Dynasty: [[omride-dynasty|House of Omri]]
 - Events: [[shoshenq-campaign-925bce]] · [[battle-of-qarqar-853bce]] · [[jehu-revolt-841bce]]
 - Rivals: [[hazael|Aram-Damascus]] · [[neo-assyrian-empire|Assyria]] · Ally: [[phoenicians|Tyre]]
-- Period: [[early-iron-age|Early Iron Age]] · Source: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]]
+- Period: [[early-iron-age|Early Iron Age]] · Sources: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] · [[sources/noll-canaan-israel-antiquity-2013|Noll (2013)]]

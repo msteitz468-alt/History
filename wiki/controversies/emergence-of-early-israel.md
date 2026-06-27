@@ -374,6 +374,33 @@ The controversy interfaces directly with [[the-exodus|The Exodus — Historicity
 
 ---
 
+## Noll (2013): Israel as a subset of Canaan
+
+[[sources/noll-canaan-israel-antiquity-2013|K. L. Noll (2013)]] frames the emergence not as
+Israel arriving in Canaan but as Israel **being** Canaan: "Canaanite" was a geographic, not
+ethnic, label, and "almost all researchers today speak of a single, relatively homogenous
+'[[canaan|Canaanite cultural sphere]]', of which Israel was a part." Key points he adds:
+
+- On the **[[merneptah|Merneptah stela]]** (c. 1207 BCE), Israel carries the hieroglyphic
+  determinative for a *people* (not a city), placed near Ashkelon, Gezer, and Yanoam. Its
+  location is genuinely uncertain: the highland-survey data suggest very few hill-country
+  inhabitants, and the disputed relief at Karnak shows the defeated enemy in typical Canaanite
+  dress driving a **chariot** — a lowland technology — so Merneptah's Israel may have been a
+  lowland group. The "annihilation" boast is formulaic and need not sever this Israel from
+  biblical Israel.
+- The **12 tribes are geography, not genealogy.** Israel's kinship story is an *eponymic
+  legend* — invented genealogy expressing social and political alliance, freely revised as
+  relationships changed (the shifting status of Dan, Gad, and the slave-girls' sons). The
+  number 12 is artificial.
+- The Bible offers **no Bronze Age memory**: its authors had forgotten the Egyptian empire
+  ever ruled Canaan, and the patriarchal and conquest narratives are riddled with Iron Age
+  anachronisms (Philistines and Beer-sheba in Genesis; uninhabited or unfortified Jericho,
+  Ai, Arad, Heshbon, Hebron). So the emergence must be reconstructed from the dirt, not the
+  text. This aligns Noll with the indigenous-origins consensus while pushing the biblical
+  account further toward late literary artifact than [[sources/dever-beyond-the-texts-2017|Dever]].
+
+---
+
 ## Related
 
 - [[kingdom-of-israel|Kingdom of Israel]] · [[hebrew-kingdom|Hebrew Kingdom]]
@@ -388,3 +415,6 @@ The controversy interfaces directly with [[the-exodus|The Exodus — Historicity
 - [[levant|Levant]] · Canaan — geographic context
 - [[sources/dever-beyond-the-texts-2017|Dever, Beyond the Texts (2017)]] — primary source
   for this page
+- [[sources/noll-canaan-israel-antiquity-2013|Noll, Canaan and Israel in Antiquity (2013)]] —
+  Israel-as-subset-of-Canaan reading
+- [[canaan|Canaan]] — the cultural sphere Israel emerged within

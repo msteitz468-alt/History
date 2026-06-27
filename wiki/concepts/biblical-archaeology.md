@@ -9,7 +9,7 @@ origin: >
 applies_to_periods: [Late Bronze Age, Early Iron Age, Archaic Period]
 applies_to_regions: [levant, near-east]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [concept]
 ---
@@ -85,9 +85,21 @@ archaeology of this region is wholly free of the political and religious stakes 
 - Dever's own centrism is a *position*, not a neutral standpoint: minimalists charge it still
   privileges the biblical narrative; maximalists charge it concedes too much.
 
+## Noll (2013): the textbook complement
+
+[[sources/noll-canaan-israel-antiquity-2013|K. L. Noll's textbook (2013)]] teaches the same
+discipline from the methods end: it lays out the **three types of academic history**, the full
+toolkit (archaeology, epigraphy, historical linguistics, radiocarbon), and how ancient writers
+practised *historia* — all to train the reader to ask "how do we know what we think we know?"
+Noll shares the archaeology-first premise but is more skeptical of the text than Dever, treating
+the Bible as a late artifact rather than a secondary witness to be tested claim by claim. The
+two pages together give the wiki both the disciplinary self-portrait (Dever) and the
+pedagogical method primer (Noll). See [[divine-patronage-ancient-near-east|divine patronage]]
+and [[yahwism-and-israelite-religion|Yahwism]] for Noll's distinctive religious analysis.
+
 ## Related
 
 - Method kin: [[processual-archaeology]] · [[post-processual-archaeology]] · [[culture-historical-archaeology]] · [[settlement-archaeology]] · [[nationalism-and-archaeology]] · [[socio-politics-of-archaeology]]
 - Applied in: [[controversies/emergence-of-early-israel|Emergence of Early Israel]] · [[controversies/historicity-of-the-united-monarchy|Historicity of the United Monarchy]] · [[the-exodus|the Exodus]]
 - Subjects: [[kingdom-of-israel]] · [[kingdom-of-judah]] · [[hebrew-kingdom]]
-- Source: [[sources/dever-beyond-the-texts-2017|Dever, *Beyond the Texts* (2017)]]
+- Sources: [[sources/dever-beyond-the-texts-2017|Dever, *Beyond the Texts* (2017)]] · [[sources/noll-canaan-israel-antiquity-2013|Noll, *Canaan and Israel in Antiquity* (2013)]]

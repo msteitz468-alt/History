@@ -9,7 +9,7 @@ affiliated_with: [the Davidic dynasty, Jerusalem and its Temple, at times [[king
 opposed_by: [[[kingdom-of-israel|Israel]] (intermittently), [[hazael|Aram-Damascus]], Edom, [[neo-assyrian-empire|Assyria]], [[neo-babylonian-empire|Babylon]]]
 key_events: [[[shoshenq-campaign-925bce|Shoshenq I's campaign (925)]], the usurpation of Athaliah, the Syro-Ephraimite War, [[sennacherib-siege-jerusalem-701bce|Sennacherib's siege (701)]], Josiah's reform, the [[fall-of-jerusalem-587bce|fall of Jerusalem (587)]]]
 key_processes: [[[state-formation]], dynastic continuity, Assyrian and Babylonian imperial expansion, the [[babylonian-exile|Babylonian Exile]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, levant]
 ---
@@ -131,10 +131,20 @@ century**: "The gloomy description of that period is a result mainly of our bias
 perspective." The Jerusalem **House of the Bullae** (51 sealings, incl. "Gemariah son of
 Shaphan," a scribe of Josiah's reign) ties epigraphy to the late-monarchy narrative.
 
+### Noll (2013)
+
+[[sources/noll-canaan-israel-antiquity-2013|K. L. Noll (2013)]] reads Judah as a late-maturing
+polity in the [[canaan|Canaanite cultural sphere]] whose full statehood comes in the eighth–
+seventh centuries; he favours a Low/Middle Chronology that deflates the tenth-century Jerusalem.
+He treats [[hezekiah|Hezekiah]]'s and [[josiah|Josiah]]'s reforms as the **temple-centralization**
+push from henotheism toward exclusive [[yahwism-and-israelite-religion|monolatry]] — the
+worship, not yet the sole existence, of Yahweh — within the wider
+[[divine-patronage-ancient-near-east|divine-patronage]] system.
+
 ## Related
 
 - Parent/sibling: [[hebrew-kingdom|United Monarchy]] · [[kingdom-of-israel|Israel]] · Dynasty: [[david|House of David]]
 - Events: [[shoshenq-campaign-925bce]] · [[jehu-revolt-841bce]]
 - Kings: [[hezekiah]] · [[josiah]] · Crisis: [[fall-of-jerusalem-587bce]] · [[babylonian-exile]]
 - Prophets: [[hebrew-prophets]] · Successors of its enemies: [[neo-assyrian-empire|Assyria]] · [[neo-babylonian-empire|Babylon]]
-- Period: [[early-iron-age|Early Iron Age]] → [[archaic-period|Archaic]] · Source: [[boardman-cah-v3p1-1982|CAH III.1]] · [[boardman-cah-v3p2-1991|CAH III.2]] (Chs 29–31)
+- Period: [[early-iron-age|Early Iron Age]] → [[archaic-period|Archaic]] · Sources: [[boardman-cah-v3p1-1982|CAH III.1]] · [[boardman-cah-v3p2-1991|CAH III.2]] (Chs 29–31) · [[sources/noll-canaan-israel-antiquity-2013|Noll (2013)]]

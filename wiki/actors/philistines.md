@@ -9,7 +9,7 @@ affiliated_with: [[[sea-peoples|Sea Peoples]] (Peleset)]
 opposed_by: [[[hebrew-kingdom|Israelites]], [[new-kingdom-egypt|Egypt]]]
 key_events: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]], settlement of the southern Levantine coast]
 key_processes: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, movement, early-iron-age, levant]
 ---
@@ -104,9 +104,22 @@ is precisely where Merneptah's "Israel" must be located** (see
 northern echo of the name in the kingdom of **"Palistin"** centred on Tell Ta'yinat
 ([[unqi-pattin|Unqi/Pa(t)tin]]), whose king **Taita** appears in Luwian inscriptions.
 
+## Noll (2013)
+
+[[sources/noll-canaan-israel-antiquity-2013|K. L. Noll (2013)]] situates the Philistines within
+the single [[canaan|Canaanite cultural sphere]]: a distinct ethnic community in the southern
+coastal lowlands at the same time Israelites occupied the southern highlands, but materially
+hard to isolate. He notes that "Palestine" itself derives from "Philistine," and uses the
+[[merneptah|Merneptah stela]] to date their arrival — at Merneptah's campaign (just before 1200
+BCE) Ashkelon was *not yet* a Philistine city, so the settlement followed the
+[[bronze-age-collapse-1200bce|Bronze Age Collapse]]. On religion, the Ekron royal dedicatory
+inscription is one of his cases for the rising [[yahwism-and-israelite-religion|Baal–Asherah]]
+pair in Iron Age Canaan. As a distinct people the Philistines disappeared in antiquity.
+
 ## See Also
 
 - [[sea-peoples|Sea Peoples]] · [[bronze-age-collapse-1200bce|Bronze Age Collapse]]
 - [[hebrew-kingdom|Hebrew Kingdom]] · [[phoenicians|Phoenicians]]
 - [[ramesses-iii|Ramesses III]]
 - [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2 (source)]]
+- [[sources/noll-canaan-israel-antiquity-2013|Noll, *Canaan and Israel in Antiquity* (2013)]]

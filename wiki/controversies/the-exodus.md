@@ -5,7 +5,7 @@ period_involved: [Late Bronze Age, Bronze Age Collapse, Early Iron Age]
 regions_involved: [north-africa, levant]
 positions: [Early date (c. 1450 BCE), Late date (c. 1290–1260 BCE), Largely non-historical / mythologised tradition]
 resolution_status: open
-last_updated: 2026-06-11
+last_updated: 2026-06-27
 tags: [controversy]
 ---
 
@@ -97,9 +97,25 @@ date retains adherents mainly in confessional scholarship. The debate is **open*
 its biblical-source dimension is inseparable from the wider question of how to use
 the Hebrew Bible as a historical source (see [[hebrew-kingdom|Hebrew Kingdom]]).
 
+## Noll (2013): the Bible has no Bronze Age memory
+
+[[sources/noll-canaan-israel-antiquity-2013|K. L. Noll (2013)]] reinforces position 3 from the
+direction of historical linguistics and content analysis: the biblical authors "appear to have
+been utterly ignorant of the fact that an Egyptian empire ever existed in Palestine," and the
+entire Bible was composed no earlier than Iron Age II, mostly in the Neo-Babylonian, Persian,
+and Greco-Roman periods. The Exodus–Conquest narratives (Exodus through Joshua) are "fictions
+riddled with anachronistic details" — Kadesh-Barnea uninhabited in the Late Bronze Age, and
+Jericho, Ai, Arad, Heshbon, Hebron unfortified or empty. A traumatic Late Bronze event (even a
+war with [[merneptah|Merneptah]]) would have "slipped silently away" after four or five
+generations of oral transmission; the scribes had no sources for their own people's Bronze Age
+past and stitched folktales together with an artificial chronology. For Noll the question is
+not the *date* of the Exodus but the recognition that the text is a late artifact, not a
+record. See [[canaan|Canaan]] and [[divine-patronage-ancient-near-east|divine patronage]].
+
 ## See Also
 
 - [[hebrew-kingdom|Hebrew Kingdom]] · [[habiru|Habiru / ʿApiru]] · [[hyksos|Hyksos]]
 - [[ramesses-ii|Ramesses II]] · [[sethos-i|Sethos I]] · [[merneptah|Merneptah]]
 - [[bronze-age-collapse-1200bce|Bronze Age Collapse]]
 - [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2 (source)]]
+- [[sources/noll-canaan-israel-antiquity-2013|Noll, Canaan and Israel in Antiquity (2013)]]
