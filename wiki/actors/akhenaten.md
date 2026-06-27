@@ -9,8 +9,8 @@ affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty Egypt]], the cult of th
 opposed_by: [the [[amun-priesthood|priesthood of Amun]], the traditional cults]
 key_events: [the founding of [[amarna|Akhetaten]], the proscription of Amun, the foreign-policy collapse in Syria-Palestine]
 key_processes: [[[atenism]], [[interpolity-law]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-26
 tags: [actor, person, late-bronze-age, north-africa]
 ---
 
@@ -72,6 +72,30 @@ doubtless the chaos caused by the economic consequences of Akhenaten's religious
 reforms that brought about a complete reversal to the old order as soon as he was
 dead."
 
+## Kemp: the Aten as the only demonstrable power
+
+Barry Kemp ([[kemp-ancient-egypt-anatomy-2018|*Anatomy of a Civilization*]], Ch. 8) reads
+the reform through the book's theme of the [[state-formation|transcendental imagination]].
+Akhenaten promoted the **Aten — the visible sun-disk — "because it was the only demonstrable
+manifestation of transcendental power,"** stripping away the imagined gods that had
+populated Egyptian cosmology (his burial chamber bears only scenes of the family offering to
+the Aten, replacing all Book-of-the-Dead imagery). The extreme body-style — elongated neck
+and skull, swollen belly, transferred even to the queen and daughters — is better read "as
+a bold attempt to define kingship as a force... outside the normal plane of human
+experience" than as a record of disease; the *talatat* blocks show it was fully formed at
+the very start, at an early Karnak Sed-festival. He ruled as a **triad** with
+[[nefertiti|Nefertiti]] (her name in a cartouche) and the eldest daughter Meritaten.
+
+Having abolished the great processional festivals, Akhenaten filled the vacuum with **chariot
+processions** of himself and his family along the Royal Road — Kemp calls it "an unintended
+caricature of all modern leaders who indulge in the trappings of charismatic display," a
+foretaste of the presidential motorcade. He notes a telling inconsistency: at least **248
+ushabti figures** (many granite) — objects bound to **Osiris**, the god he suppressed — lay
+in the king's own tomb. On Kemp's account the reform's collapse "can by no means be
+described as a vengeful triumph of the priesthood": the real power-base was the **army**
+(hence [[horemheb|Horemheb]]'s succession), and Egyptians simply "did not like what they
+saw," preferring the intellectual compromise of divine monarchy to naked personal rule.
+
 ## Significance
 
 Akhenaten is history's most discussed early experiment in **exclusive monotheism**
@@ -98,4 +122,4 @@ phenomenon the volume warns against. See [[cambridge-ancient-history-methodology
 - Religion: [[atenism]] · Capital: [[amarna]] · Queen: [[nefertiti]] · Institution opposed: [[amun-priesthood]]
 - Successors: [[tutankhamun]] · [[horemheb]] · State: [[new-kingdom-egypt]] · Father: [[amenhotep-iii]]
 - Foreign collapse: [[amarna-letters]] · [[shuppiluliuma-i]] · [[interpolity-law]]
-- Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]
+- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p2-1975]] · [[kemp-ancient-egypt-anatomy-2018]]

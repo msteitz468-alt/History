@@ -7,8 +7,8 @@ period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Classical 
 controlled_by: [Early Dynastic Egypt, Old Kingdom Egypt, New Kingdom Egypt]
 events_here: [[[unification-of-egypt-3100bce]], [[fall-of-old-kingdom-2160bce]]]
 processes_here: [[[urbanization]], [[agriculture-and-urbanism]]]
-sources_ingested: 3
-last_updated: 2026-06-23
+sources_ingested: 4
+last_updated: 2026-06-26
 tags: [place, north-africa, early-bronze-age]
 ---
 
@@ -75,6 +75,19 @@ artery and stage.
 - **Piramesse and Tanis** — Ramesside and Third Intermediate Period delta
   capitals; the line culminates in Alexandria (332 BCE).
 
+## Memphis as the mythic place of unification (Kemp)
+
+Barry Kemp ([[kemp-ancient-egypt-anatomy-2018|*Anatomy of a Civilization*]], Ch. 2) notes
+that the **Memphite Theology** of the Shabaka Stone made Memphis the *theological* locus of
+[[unification-of-egypt-3100bce|unification]]: Horus "united the Two Lands in the Nome of the
+Wall," and Horus and Seth were "pacified and united... in the House of Ptah, the 'Balance of
+the Two Lands.'" Kemp argues this composition is **relatively late** (perhaps of Shabaka's
+own time, c. 721–707 BCE) in deliberately archaic language, not an Old Kingdom original — a
+piece of the [[egyptian-creation-myth-and-cosmogony|invented founding myth]]. He also
+deflates Menes: Herodotus has him found the city, but Manetho says only that he "made a
+foreign expedition and won renown, but was carried off by a hippopotamus" — little legendary
+tradition attached to the supposed unifier beyond his place at the head of the king-lists.
+
 ## Why this place mattered
 
 Memphis shows that urban form is culturally specific: Egypt's early ruling
@@ -89,6 +102,7 @@ cities converged toward Near Eastern forms.
 - Places: [[uruk|Uruk]] (contrast: dense early city) · [[tikal|Tikal]] · [[angkor|Angkor]]
 - States: [[early-dynastic-egypt]] · [[old-kingdom-egypt]] · Event: [[unification-of-egypt-3100bce]]
 - Process: [[urbanization]] · Period: [[early-bronze-age]]
-- Concept: [[ritual-and-urban-performance]] · [[urbanism]] · [[divine-kingship]]
+- Concept: [[ritual-and-urban-performance]] · [[urbanism]] · [[divine-kingship]] · [[egyptian-creation-myth-and-cosmogony]]
+- Source: [[kemp-ancient-egypt-anatomy-2018]]
 
 **Grounded claims from Budge/Romer range lines 1–4500 (2026-06-23 ingest)**: "Seker, a very ancient god of the dead whose kingdom formed the Other World of the people of Memphis, and is represented to-day by the great necropolis of Sakkârah." (ll. ~2103). "Among the places which the deceased expected to visit in the Other World was the celestial Memphis, the abode of the spirit of Ptah·." (ll. ~2486, Ch. CVI). taxonomy: part_of: [[memphis|Memphis]] (Sakkara necropolis + celestial Ptah abode); preceded_by: Memphite beliefs in funerary texts. "THE CHAPTER OF GIVING OFFERINGS TO THE DECEASED IN THE-PTAH-KA (Memphis)." (TOC/contents ll. ~423). Updated preserving prior. See [[romer-egyptian-book-of-the-dead-2008]].

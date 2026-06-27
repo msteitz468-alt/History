@@ -9,8 +9,8 @@ affiliated_with: [[[akhenaten|Akhenaten]], the cult of the [[atenism|Aten]]]
 opposed_by: []
 key_events: [the demarcation of [[amarna|Akhetaten]], her unprecedented public role in Aten worship]
 key_processes: [[[atenism]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-26
 tags: [actor, person, late-bronze-age, north-africa]
 ---
 
@@ -44,6 +44,18 @@ problem of the ephemeral king **Smenkhkare** (Ankhkheprure Neferneferuaten) — 
 adopted name echoes hers — and thus with the whole tangled end-of-dynasty
 succession down to [[tutankhamun|Tutankhamun]].
 
+## Kemp: cult buildings and the studio bust
+
+Kemp ([[kemp-ancient-egypt-anatomy-2018|*Anatomy of a Civilization*]], Ch. 8) sets
+Nefertiti as the second figure of the Aten **triad** (her name in a cartouche) and shows
+how far her cult role was built into the monuments: she "featured extensively" in one of
+Akhenaten's earliest Karnak constructions, the **Mansion of the Benben**, and had her own
+dedicated sun-temple, a **"Shade of Ra"** (the site of **Kom el-Nana**), a large walled
+enclosure with formal mud-brick and stone buildings and its own bakery block. The famous
+painted **bust** was found in 1912 in the abandoned workshop of the sculptor **Thutmose**
+in the Main City, among unfinished models left behind when [[amarna|Akhetaten]] was
+deserted.
+
 ## Significance
 
 Beyond the iconic bust, Nefertiti matters as evidence for the **fusion of queenship
@@ -55,4 +67,4 @@ departed from Egyptian norms.
 
 - Husband: [[akhenaten]] · Religion: [[atenism]] · Capital: [[amarna]]
 - Father (probable): Ay · Daughters' marriages: [[tutankhamun]]
-- State: [[new-kingdom-egypt]] · Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]
+- State: [[new-kingdom-egypt]] · Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p2-1975]] · [[kemp-ancient-egypt-anatomy-2018]]

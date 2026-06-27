@@ -8,9 +8,9 @@ region: [north-africa]
 affiliated_with: []
 opposed_by: [Nubian tribes, Libyans, Sinai bedawin ("sand-dwellers")]
 key_events: [[[fall-of-old-kingdom-2160bce]]]
-key_processes: [[[state-formation]], [[divine-kingship]]]
-sources_ingested: 3
-last_updated: 2026-06-23
+key_processes: [[[state-formation]], [[divine-kingship]], [[provider-state]], [[egyptian-bureaucracy]]]
+sources_ingested: 4
+last_updated: 2026-06-26
 tags: [actor, state, early-bronze-age, north-africa]
 ---
 
@@ -105,6 +105,27 @@ Punt incense) than war. Wealth was agricultural and irrigation-dependent — fam
 reliefs (Unas) and the legendary "seven years' famine of Djoser" show the
 vulnerability.
 
+## Kemp: the provider state and the bureaucratic mind
+
+Barry Kemp ([[kemp-ancient-egypt-anatomy-2018|*Anatomy of a Civilization*]], Chs. 4–5)
+reads the Old Kingdom as the first full working of the **[[provider-state|redistributive
+provider state]]** run by the **[[egyptian-bureaucracy|bureaucratic mind]]**. Surplus was
+taxed in, accounted in units of bread, beer and grain, and redistributed as rations; the
+**phyle** work-sharing system (each ~20-man subdivision serving one month in ten) spread
+entitlements across a large population. The earliest archives belong here: the **Wadi
+el-Jarf papyri** (year 27 of Khufu, the inspector Merer's logbook of hauling Tura limestone
+to the Great Pyramid) and the **Abusir papyri** of Neferirkara's cult. Labour was mobilized
+through occupation lists (the Fourth-Dynasty **Gebelein papyri**, ~300 *neferu*) and crews
+with nautical names ("Friends of Khufu") daubed on Giza blocks.
+
+Pyramid **settlement** confirms the model: the Giza workers' town (**Heit el-Ghurab**) shows
+both self-organized housing and a planned barracks zone of galleries that could sleep
+40–50 men each (~2,000 in all, only part of the workforce), with a meat-rich diet. The
+Menkaura valley temple gradually filled with granaries and houses, an officially sanctioned
+"pyramid town." Foreign recruitment ran deep: the official **Weni** (reign of Pepi I)
+levied soldiers from five Nubian homelands and Libya (see
+[[egyptian-ethnicity-and-identity]]).
+
 ## Historiography
 
 Smith warns the Old Kingdom Egyptians were "extremely laconic" in recording
@@ -133,5 +154,6 @@ mainstream.
 - Source: [[gha-vol2-ancient-civilizations|GHA Vol. II]] · Controversy: [[peopling-of-ancient-egypt]]
 - Preceded by: [[early-dynastic-egypt]] · Person: [[djoser]] · Event: [[fall-of-old-kingdom-2160bce]]
 - Place: [[memphis]] · Concept: [[divine-kingship]] · [[writing-and-record-keeping]]
-- Process: [[state-formation]] · Period: [[early-bronze-age]]
+- Process: [[state-formation]] · [[provider-state]] · [[egyptian-bureaucracy]] · Period: [[early-bronze-age]]
+- Source: [[kemp-ancient-egypt-anatomy-2018|Kemp, Anatomy of a Civilization]]
 - Contemporary with: [[early-dynastic-sumer]] · [[ur|the Royal Tombs of Ur]] (the mid-3rd-millennium "zenith")

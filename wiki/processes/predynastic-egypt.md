@@ -7,9 +7,9 @@ period: [Neolithic, Chalcolithic, Early Bronze Age]
 region: [north-africa]
 process_type: cultural
 driven_by: [[[postglacial-environment-near-east|Nile environment]], [[early-agriculture-southwest-asia|farming]]]
-produces: [[[early-dynastic-egypt]], [[memphis|Memphis]], [[urbanization]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+produces: [[[early-dynastic-egypt]], [[memphis|Memphis]], [[urbanization]], [[state-formation]]]
+sources_ingested: 3
+last_updated: 2026-06-26
 tags: [process, neolithic, chalcolithic, north-africa]
 ---
 
@@ -64,6 +64,26 @@ here, with **Scorpion** and **Narmer** leading a confederation of Upper Egyptian
 nomes against the north. Compare the independent [[state-formation|state-formation]]
 trajectories elsewhere.
 
+## Kemp: competing proto-states and the codification of culture
+
+Barry Kemp ([[kemp-ancient-egypt-anatomy-2018|*Anatomy of a Civilization*]], Ch. 2) uses the
+now-standard **Nagada I → II → III** scheme (III overlapping Dynasty 1, with the run-up
+labelled **"Dynasty 0"**) and models the period as a **competitive game** among proto-states
+in which small advantages self-reinforce until one player engulfs the rest — the whole
+process (Nagada I–IIIA) accomplished, on recent radiocarbon dates, within **six or seven
+centuries (c. 3750–3085 BCE)**. Two rival centres are best attested: **Nagada** (cult of
+Seth) and **Hierakonpolis** (cult of Horus, "the cradle of Egyptian kingship"), whose
+**Decorated Tomb 100** (c. 3400 BCE) holds the earliest painted smiting scene and whose
+cemetery **HK6** included pit-burials of wild animals (elephants, hippos, lions) celebrating
+the ruler's mastery of untamed life — a practice continuing into Dynasty 1 (King Aha's tomb
+held at least seven young lions). A third centre, **Abydos** (Umm el-Qaʿab), produced **tomb
+U-j** (c. 3300 BCE) with the **earliest recognizable hieroglyphic writing** (173 bone/ivory
+labels) and 400+ wine jars. Cultural uniformity then spread by the **northward expansion of
+Nagada culture** (from Nagada IIC–D, c. 3350 BCE), displacing a distinct Lower Egyptian
+culture in the Delta — the material basis for the later [[unification-of-egypt-3100bce|myth
+of unification]]. Kemp also rejects the **hydraulic hypothesis**: Egyptian civilization did
+not arise from collective irrigation management (see [[state-formation]]).
+
 ## Interaction
 
 Runs parallel to, and in growing contact with, the [[chalcolithic|Chalcolithic]]
@@ -85,4 +105,9 @@ Egyptian terms.
 Baumgartel's account is mid-century and pottery-typological; absolute dates are
 uncalibrated and the Petrie S.D. framework has been substantially revised. The
 *cultural sequence* (Badarian→Naqada I→II) remains standard; treat specifics as of
-their period. See [[cambridge-ancient-history-methodology]].
+their period. See [[cambridge-ancient-history-methodology]]. Kemp's
+[[kemp-ancient-egypt-anatomy-2018|*Anatomy of a Civilization*]] supplies the radiocarbon
+revision and the proto-state model above. On the deep-time population background — the
+Badarian baseline (c. 4350–3750 BCE) and the genetic discontinuity implied by the violent
+Gebel Sahaba cemetery (c. 14,000–12,000 BP) — see [[egyptian-ethnicity-and-identity]] and
+the standing controversy [[peopling-of-ancient-egypt]].

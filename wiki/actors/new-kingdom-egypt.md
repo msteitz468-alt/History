@@ -8,9 +8,9 @@ region: [north-africa, levant, near-east]
 affiliated_with: []
 opposed_by: [the [[hyksos|Hyksos]], the princedom of Kush, [[mitanni|Mitanni]] (then ally), the [[hittites|Hittites]], the city-states of Syria-Palestine]
 key_events: [expulsion of the [[hyksos|Hyksos]] (~1550 BCE), the conquests of [[thutmose-iii|Thutmose III]] in Syria, the golden age of [[amenhotep-iii|Amenophis III]], the [[atenism|Amarna revolution]] under [[akhenaten|Akhenaten]] and the end of the dynasty]
-key_processes: [[[imperialism]], [[state-formation]], [[interpolity-law]], [[atenism]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+key_processes: [[[imperialism]], [[state-formation]], [[interpolity-law]], [[atenism]], [[egyptian-temple-economy]], [[birth-of-economic-man]]]
+sources_ingested: 3
+last_updated: 2026-06-26
 tags: [actor, state, late-bronze-age, north-africa, near-east]
 ---
 
@@ -122,6 +122,27 @@ administration, and monumental art, and the matrix of the **God's-Wife-of-Amun**
 female authority and the over-mighty Amun priesthood whose tensions shape the rest
 of Egyptian history.
 
+## Kemp: the mature state
+
+Barry Kemp ([[kemp-ancient-egypt-anatomy-2018|*Anatomy of a Civilization*]], Chs. 6–7) calls
+the New Kingdom the **"mature state"** — divine kingship adapting to a more pluralist,
+imperial society "well advanced along the path of complex accommodation between political
+reality and the myths of the state." Its government was not a codified system but "the sum
+of... royal decrees," patched by fresh decrees in response to petitions (the **Edict of
+Horemheb**; the **Nauri Decree**); a daily vizieral briefing fed the king an "information
+society." It fielded a **standing professional army** (borrowing Asiatic tactics, settling
+veterans, recruiting Libyans and Sea Peoples), and its foreign relations split into two
+spheres — great-power "brothers" (Babylonia, Assyria, Mitanni, Hatti, Alashiya) and vassals
+who addressed Pharaoh as "my lord" (the [[amarna-letters|Amarna letters]]). A non-royal
+general, [[horemheb|Horemheb]], could be legitimized by having his coronation folded into
+the Karnak–Luxor **Opet** procession — Amun's choice (see [[thebes]]).
+
+Economically the period is Kemp's great exhibit. The temples were the central institutions —
+landlords, granaries, traders, "the reserve banks of their day" (see
+[[egyptian-temple-economy]]) — while a value-conscious **private market** flourished
+alongside the redistributive core, documented at [[deir-el-medina]] and in the tomb-robbery
+papyri (the **[[birth-of-economic-man|"birth of economic man"]]**).
+
 ## Historiography
 
 Far richer than the SIP: royal annals (Thutmose III's Karnak annals), private
@@ -138,5 +159,5 @@ edited. See [[cambridge-ancient-history-methodology]].
 - Amarna age: [[atenism]] · [[amarna]] · [[amarna-letters]] · [[nefertiti]] · [[zannanza-affair-1322bce]]
 - Place: [[thebes]] · [[avaris]] · [[memphis]] · LBA peers: [[mitanni]] · [[hittites]] · [[kassites]] · [[assyria-middle]]
 - Ramesside twilight: [[ramesses-iii]] · [[amun-priesthood|High Priests of Amun]] (Herihor, Pinudjem) · Tanis · [[phoenicians|Byblos]] (Wenamun) · [[bronze-age-collapse-1200bce]]
-- Process: [[imperialism]] · [[interpolity-law]] · Period: [[late-bronze-age]] → [[early-iron-age]]
-- Preceded by: [[middle-kingdom-egypt]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]
+- Process: [[imperialism]] · [[interpolity-law]] · Economy: [[egyptian-temple-economy]] · [[birth-of-economic-man]] · [[deir-el-medina]] · Period: [[late-bronze-age]] → [[early-iron-age]]
+- Preceded by: [[middle-kingdom-egypt]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[kemp-ancient-egypt-anatomy-2018]]

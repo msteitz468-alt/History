@@ -9,8 +9,8 @@ affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty]], Queen Tiy]
 opposed_by: [the rising [[hittites|Hittites]] (a gathering threat, not yet open war)]
 key_events: [the golden-age building programme at Thebes, the three jubilees, diplomatic marriages with Asiatic royal houses]
 key_processes: [[[interpolity-law]], [[trade-network-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-26
 tags: [actor, person, late-bronze-age, north-africa]
 ---
 
@@ -56,6 +56,18 @@ break the Mitannian buffer. Both came to a head under his son **Akhenaten**, who
 religious revolution (the Amarna period, beyond this volume) is in part a reaction to
 the over-mighty Theban priesthood his father's piety had enriched.
 
+## Kemp: jubilee theatre and the divine birth
+
+Kemp ([[kemp-ancient-egypt-anatomy-2018|*Anatomy of a Civilization*]], Ch. 6) treats the
+reign as a high point of New Kingdom kingship-as-spectacle. The three jubilees (years 29–30,
+34, 37) were staged at the purpose-built **Malkata** complex, which included the **Birket
+Habu** — a T-shaped artificial lake measuring **2 × 1 km** at its final enlargement. He also
+reads the **divine-birth cycle** carved at Luxor temple (its clearest version in Amenophis
+III's work) as the formal myth of royal conception: the god **Amun**, assuming the form of
+Thutmose IV, impregnates Queen Mutemwia, "the palace... flooded with the divine fragrance"
+of Punt — the ideological machinery by which a king's body was made divine, the same engine
+that the Opet festival turned (see [[thebes]], [[divine-kingship]]).
+
 ## Counterfactual / analytical significance
 
 Amenophis III represents the **mature empire at rest** — proof that Thutmose III's
@@ -79,4 +91,4 @@ Amarna transition are dated. See [[cambridge-ancient-history-methodology]].
 - Dynasty: [[new-kingdom-egypt]] · Predecessor (empire-builder): [[thutmose-iii]]
 - Ally: [[mitanni]] · Gathering rival: [[hittites]] · Institution: [[amun-priesthood]]
 - Concept: [[interpolity-law]] · Place: [[thebes]] (Malkata, Luxor) · Period: [[late-bronze-age]]
-- Source: [[edwards-cah-v2p1-1973]]
+- Sources: [[edwards-cah-v2p1-1973]] · [[kemp-ancient-egypt-anatomy-2018]]

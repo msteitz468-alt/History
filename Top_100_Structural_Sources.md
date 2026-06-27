@@ -39,7 +39,7 @@
 21. **Hyun Jin Kim, Frederik Juliaan Vervaet, Selim Ferruh Adalı** - *Eurasian Empires in Antiquity and the Early Middle Ages: Contact and Exchange between the Graeco-Roman World, Inner Asia and China*
 
 ### 3. Ancient Egypt
-22. **Barry J. Kemp** - *Ancient Egypt: Anatomy of a Civilization*
+22. **Barry J. Kemp** - *Ancient Egypt: Anatomy of a Civilization* ✅ INGESTED 2026-06-27 (3rd ed., 2018; Deployed Subagent Strategy, 6 ranges; 15 pages created, 16 updated)
 23. **Ian Shaw** - *The Oxford History of Ancient Egypt*
 24. **J. G. Manning** - *The Last Pharaohs: Egypt Under the Ptolemies, 305-30 BC*
 25. **Michael Rice** - *Egypt's Making: The Origins of Ancient Egypt 5000-2000 BC*

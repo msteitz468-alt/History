@@ -6,9 +6,9 @@ coordinates: ~25.7°N, 32.6°E
 period_active: [Middle Bronze Age, Late Bronze Age]
 controlled_by: [Egypt (Theban dynasties)]
 events_here: [the Theban war of liberation against the [[hyksos|Hyksos]], the building of Karnak and the Theban necropolis, Papyrus of Ani (famous Book of the Dead exemplar, c. 1250 BCE)]
-processes_here: [[[second-intermediate-period]], [[temple-economy]]]
-sources_ingested: 2
-last_updated: 2026-06-23
+processes_here: [[[second-intermediate-period]], [[temple-economy]], [[egyptian-temple-economy]]]
+sources_ingested: 3
+last_updated: 2026-06-26
 tags: [place, north-africa, late-bronze-age, middle-bronze-age, greece]
 ---
 
@@ -45,6 +45,22 @@ the terraced temple of [[hatshepsut|Hatshepsut]] at **Deir el-Bahri**, the colos
 village of **Deir el-Medina**. Though the political administration often centred on
 Memphis, Thebes was the ideological and ceremonial heart of imperial Egypt.
 
+## Kemp: a processional perimeter and the Estate of Amun
+
+Barry Kemp ([[kemp-ancient-egypt-anatomy-2018|*Anatomy of a Civilization*]], Ch. 6) stresses
+that New Kingdom Thebes was a **ceremonial** rather than administrative capital (the court
+and high administration sat at [[memphis|Memphis]] and later Per-Rameses). Its
+[[egyptian-temple-economy|temple economy]] and ritual landscape were bound into one system:
+**Karnak**'s enclosure covered at least 400 × 400 m (the Eighteenth Dynasty even levelled
+the existing town to make a foundation platform), and the processional routes linking
+Karnak, **Luxor** and the west-bank mortuary temples trace "a **processional perimeter** to
+Thebes" — all of it belonging to the **"Estate of Amun."** The **Opet festival** ran the
+machinery of [[divine-kingship|divine kingship]]: in the innermost chambers of Luxor the
+king "merged with his royal *ka*" and reappeared "transformed into a divine being." It grew
+from 11 days in the mid-Eighteenth Dynasty to 27 under Ramesses III, celebrated at Medinet
+Habu with distributions of 11,341 loaves, 85 cakes and 385 jars of beer; the Karnak feast
+calendars listed 54–60 feast days a year.
+
 ## Why this place mattered
 
 Thebes is the **engine-room of Egyptian reunification and empire**: twice (in the
@@ -57,8 +73,9 @@ also the single richest source of New Kingdom history.
 
 - Dynasty: [[new-kingdom-egypt]] · [[middle-kingdom-egypt]] · Institution: [[amun-priesthood]]
 - People: [[ahmose-i]] · [[hatshepsut]] · [[thutmose-iii]] · [[amenhotep-iii]] · [[mentuhotpe-ii]]
-- Process: [[second-intermediate-period]] · [[temple-economy]] · Rival capital: [[memphis]] · Hyksos seat: [[avaris]]
-- Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]
+- Process: [[second-intermediate-period]] · [[temple-economy]] · [[egyptian-temple-economy]] · Rival capital: [[memphis]] · Hyksos seat: [[avaris]]
+- Artisans' village: [[deir-el-medina]] · Festival kingship: [[divine-kingship]]
+- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[kemp-ancient-egypt-anatomy-2018]]
 - [[romer-egyptian-book-of-the-dead-2008|Book of the Dead (Papyrus of Ani)]] — primary for Theban New Kingdom funerary magic, [[osiris|Osiris]] judgment, [[anubis|Anubis]]/[[thoth|Thoth]]/[[maat|Maat]] in Duat.
 
 **Grounded claims from Budge/Romer range lines 1–4500 (2026-06-23 ingest)**: "The greater number of the papyri inscribed with selections of texts from the Book of the Dead have been found in the tombs of Thebes... for this reason the Recension of the Book of the Dead which we find in common use from the XVIIIth to the XXIInd Dynasty is generally called the Theban Recension." (ll. ~909). "the Papyrus of Ani supplies us with Introductions to Chapters XVIII. and CXXV., and hymns to RĀ and Osiris, and texts referring to the Judgment Scene" (ll. ~860). "Vignette: The scribe Ani standing... Behind him stands his wife Thuthu, a member of the College of Åmen-Rā at Thebes" (ll. 3656). taxonomy: part_of: [[thebes|Thebes]] provenance and elite practice in [[late-bronze-age]]. "A HYMN OF PRAISE TO RA¯ ... Behold Osiris,1 Ani the scribe..." (ll. 3658). Updated preserving prior content. See source.

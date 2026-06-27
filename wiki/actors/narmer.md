@@ -9,8 +9,8 @@ affiliated_with: [[[early-dynastic-egypt]]]
 opposed_by: [Lower Egyptian kingdom]
 key_events: [[[unification-of-egypt-3100bce]]]
 key_processes: [[[state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-26
 tags: [actor, person, early-bronze-age, north-africa]
 ---
 
@@ -41,6 +41,18 @@ the deceased Menes — i.e. his predecessor Narmer) and on a Narmer/*mn* sealing
 from Abydos. Edwards regards the equation as probable but acknowledges that
 "Menes" may be a composite legendary figure pooling Ka, Scorpion, and Narmer.
 
+## Kemp: the Palette as codification
+
+Barry Kemp ([[kemp-ancient-egypt-anatomy-2018|*Anatomy of a Civilization*]], Ch. 2) reads
+the Palette — found in the **Main Deposit** beside the early Horus temple at
+[[predynastic-egypt|Hierakonpolis]] — as the moment the **full iconography of kingship is
+codified**: it "encapsulates certain of the essential elements of Pharaonic culture, and
+announces their presence at the very beginning of the dynastic sequence." On the obverse the
+captive is named *Wash*; on the reverse the king is preceded by four standard-bearers later
+called the **"Followers of Horus."** For Kemp the dual-crown imagery is not a record of two
+historical kingdoms but the visual upgrading of an older cosmology of paired opposites into
+a specific political myth of unity (see [[egyptian-creation-myth-and-cosmogony]]).
+
 ## Counterfactual significance
 
 Narmer's significance is **structural rather than personal**: the Palette shows
@@ -57,4 +69,5 @@ millennia. The tradition of a single founder-unifier is itself a key piece of
 
 - Event: [[unification-of-egypt-3100bce]]
 - State: [[early-dynastic-egypt]] · Process: [[predynastic-egypt]] · [[state-formation]]
-- Place: [[memphis]] (founded under Menes) · Concept: [[divine-kingship]]
+- Place: [[memphis]] (founded under Menes) · Concept: [[divine-kingship]] · [[egyptian-creation-myth-and-cosmogony]]
+- Source: [[kemp-ancient-egypt-anatomy-2018]]

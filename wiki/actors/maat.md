@@ -8,8 +8,8 @@ region: [egypt, north-africa]
 affiliated_with: [thoth, osiris, anubis, ra]
 key_events: [judgment-of-the-dead, weighing-of-the-heart]
 key_processes: [egyptian-afterlife-beliefs, cosmic-order, ethics-and-justice]
-sources_ingested: 3
-last_updated: 2026-06-23
+sources_ingested: 4
+last_updated: 2026-06-26
 tags: [actor, god, egypt, north-africa, late-bronze-age, old-kingdom-egypt]
 ---
 
@@ -33,6 +33,22 @@ Depicted as a woman with ostrich feather on head (or just the feather symbol); o
 
 - **Cult**: Integrated into all temples (pharaoh maintains Ma'at); no major independent temples but ubiquitous in art/ritual. Linked to Thoth (her "husband" or recorder).
 
+## Maat as State Ideology (Kemp)
+
+Where the *Book of the Dead* material above shows Maat in the **judgment of the individual
+dead**, Barry Kemp ([[kemp-ancient-egypt-anatomy-2018|*Anatomy of a Civilization*]], Ch. 2)
+foregrounds Maat as the **organizing principle of the early state**: "king and people were
+obligated to heed the ordering concept of *maat* in their lives." The king's paramount duty
+was the maintenance of order — the **conquest of *unrule*** (*isfet*), imagined in Middle
+Kingdom texts as social, natural and cosmic catastrophe held at bay. Kemp stresses that
+Egypt gave the order-versus-chaos struggle "a more optimistic... resolution" than later
+Middle Eastern dualisms: it was "waged externally by divine proxies" (Horus defeating Seth,
+who nonetheless acquiesces in the Shabaka Stone), so harmony was held to be achievable
+rather than an endless war. In the **Turin king list**, a list of gods heading the
+compilation probably **ends with Maat** — each written in a cartouche "as if a king" — so
+that order stands at the very origin of royal time. See [[divine-kingship]] and
+[[egyptian-creation-myth-and-cosmogony]].
+
 ## Historiography and Value
 
 Primary: Pyramid Texts (Old Kingdom; Ma'at as cosmic principle), Coffin Texts, Book of the Dead papyri/vignettes (e.g., Ani: heart-weighing scene with Thoth/Anubis/Osiris, 42 gods, confessions), temple reliefs (pharaoh offering Ma'at), wisdom literature (Instructions of Amenemope, etc., echoing confessions).
@@ -52,6 +68,7 @@ Modern views (CAH, Egyptology): Ma'at is not just "justice" but the dynamic forc
 - [[thoth|Thoth]]: recorder of Ma'at; "Lord of Ma'at"
 - [[thebes|Thebes]], judgment hall (Duat)
 - Processes: [[egyptian-afterlife-beliefs]], [[cosmic-order-and-chaos]]
+- State ideology: [[divine-kingship]] · [[egyptian-creation-myth-and-cosmogony]] · Source: [[kemp-ancient-egypt-anatomy-2018]]
 - Concepts: negative confessions, heart-weighing (Ch. 125), "true of voice" (ma'a kheru), isfet (chaos)
 
 Primary source: [[romer-egyptian-book-of-the-dead-2008|The Egyptian Book of the Dead (Budge/Romer)]] — Ch. 125 confessions/vignette, hymns invoking Ma'at.

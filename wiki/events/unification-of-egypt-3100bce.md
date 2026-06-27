@@ -14,8 +14,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[predynastic-egypt]], [[state-formation]], wealth-concentration in Upper Egyptian centres]
 consequences: [[[early-dynastic-egypt]], foundation of [[memphis]], [[divine-kingship]], pharaonic state]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-26
 tags: [event, early-bronze-age, north-africa, transition]
 ---
 
@@ -81,8 +81,24 @@ conquest. The now-discredited "Dynastic Race" migration theory was once invoked
 to explain the cultural leap of this period; current work emphasizes continuity
 from [[predynastic-egypt]]. See [[cambridge-ancient-history-methodology]].
 
+Barry Kemp ([[kemp-ancient-egypt-anatomy-2018|*Anatomy of a Civilization*]], Ch. 2) presses
+this further: the very idea of **"two original kingdoms" (Upper and Lower Egypt) was an
+ideological invention, not a historical memory** — "the synthesis of sources, of archaeology
+with ancient myth, provides a case history of how ideology is created." The dualistic
+**Horus–Seth** scheme gave the king "a unique unifying role that was safer and more
+respectable" than admitting a messier polycentric past; in fact, archaeology shows the
+**Nagada culture expanded northward** (from c. 3350 BCE) to absorb a distinct Lower Egyptian
+culture, and by **Dynasty 0** a single kingdom under southern Upper-Egyptian rulers already
+ran from the Delta to Elephantine. The **Memphite Theology** (Shabaka Stone) later fixed
+**[[memphis|Memphis]]** — "the Nome of the Wall" — as the mythic place "in which the Two
+Lands were united." So thoroughly did the myth take hold that Egyptians became "incapable of
+visualizing the polycentric pattern of their own early political growth," reading every later
+fragmentation as a fall from an original (mythical) unity. See
+[[egyptian-creation-myth-and-cosmogony]].
+
 ## Related
 
 - Followed by: [[early-dynastic-egypt]] → [[old-kingdom-egypt]]
 - Preceded by: [[predynastic-egypt]] · Analogous to: Sumerian [[urbanization]]/[[state-formation]]
 - Place: [[memphis]] · Period: [[early-bronze-age]]
+- Ideology: [[egyptian-creation-myth-and-cosmogony]] · [[divine-kingship]] · Source: [[kemp-ancient-egypt-anatomy-2018]]

@@ -9,8 +9,8 @@ affiliated_with: [[[old-kingdom-egypt]]]
 opposed_by: []
 key_events: []
 key_processes: [[[state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, early-bronze-age, north-africa]
 ---
 
@@ -57,7 +57,12 @@ I) but transformed its scale. The complex translates an existing architecture of
 **wood, reed, and matting into stone**: dummy gates, fluted columns, log roofs,
 faience-tiled underground galleries imitating mat-hangings — an exuberant,
 experimental monumentality. It became the template that Sneferu would carry to the
-**true pyramid**.
+**true pyramid**. Barry Kemp ([[kemp-ancient-egypt-anatomy-2018|*Anatomy of a
+Civilization*]], Chs. 2–3) reads it as the architectural counterpart of the great Dynasty-1
+codification of art: the Step Pyramid "represents, in architecture, a major act of
+**codification of forms**," translating the portable tent-shrine archetype into permanent
+stone so that "later temple architects almost invariably looked" back to it — the founding
+moment of [[egyptian-formalism|Egyptian architectural formalism]].
 
 ## Significance
 
@@ -71,4 +76,5 @@ memory.
 ## Related
 
 - State: [[old-kingdom-egypt]] · Preceded by: [[early-dynastic-egypt]]
-- Place: [[memphis]] (Saqqara) · Concept: [[divine-kingship]] · Period: [[early-bronze-age]]
+- Place: [[memphis]] (Saqqara) · Concept: [[divine-kingship]] · [[egyptian-formalism]] · Period: [[early-bronze-age]]
+- Source: [[kemp-ancient-egypt-anatomy-2018]]

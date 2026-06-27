@@ -7,8 +7,8 @@ period_active: [Late Bronze Age]
 controlled_by: [[[new-kingdom-egypt|Eighteenth Dynasty Egypt]] under [[akhenaten|Akhenaten]]]
 events_here: [the founding and demarcation of the city (~1348 BCE), the deposit of the [[amarna-letters|Amarna letters]], the abandonment under [[tutankhamun|Tutankhamun]]]
 processes_here: [[[atenism]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-26
 tags: [place, north-africa, late-bronze-age]
 ---
 
@@ -62,6 +62,46 @@ of the Kings may have received Tiy, Akhenaten and Smenkhkare); the cumbersome
 cuneiform tablets and the sculptors' studio models were simply left behind — which
 is why they survive.
 
+## Kemp: the city as an anatomy of the state
+
+Barry Kemp's own excavations (Amarna Project, resumed 1977) make Akhetaten the evidentiary
+climax of [[sources/kemp-ancient-egypt-anatomy-2018|*Anatomy of a Civilization*]] (Ch. 8) —
+"a major source for the study of ancient urbanism" with few pre-classical parallels for the
+clarity of its plan, the size of its material sample, and its human skeletal record.
+
+- **Self-organization, not a master plan.** "It is doubtful whether Amarna was laid out in
+  anything other than a simple, pragmatic way." The one founding act was a long straight
+  line — the ~4 km **Royal Road** — linking the main palaces; there was **no perimeter wall
+  and no city gates**. Outside the royal corridor "planning petered out altogether," and
+  even senior officials sited their estates by interest and territory, not proximity to the
+  king (the vizier Nakht lived almost as far from Akhenaten as possible). This is the direct
+  contrast with the gridded Middle Kingdom town of [[kahun|Kahun]]: "Kahun reflects a
+  society of distinct levels... Amarna reflects a subtly graded society" — a single
+  continuous curve of house sizes, because "the great gulf was between the king and everyone
+  else." (See [[state-formation|self-organization]].)
+- **The Central City.** The **Great Palace** (a courtyard ~160 m square ringed with granite
+  and quartzite colossi, bridged to the King's House over Royal Road); the **Great Aten
+  Temple** in a 260 × 730 m enclosure (its Long Temple holding at least **750 offering-
+  tables** across six courts); the **Records Office** (find-spot of the
+  [[amarna-letters|Amarna letters]]) and a **House of Life**.
+- **Provisioning.** A bakery of **over a hundred** near-identical chambers — the Egyptian
+  "cellular" solution of multiplying the domestic kitchen rather than redesigning for
+  throughput, "a system based on a ready supply of cheap labour." Officials' compounds held
+  circular grain silos of ~9,500 litres (~125 *khar*) each; two or three together imply
+  rations far above need — a status marker. The whole city was fed through the temple
+  offering-redistribution system (see [[provider-state|provider state]]).
+- **Popular cult in the shadow of the Aten.** Excavation found a field of **920 mud-brick
+  offering-tables** outside the Great Aten Temple, serving individual "customers"; houses
+  and workshops across the city held portable images of **Taweret, Bes and the Eye of
+  Horus** — while the Aten's own sun-disk "had no place in this little world of protective
+  images." (See [[atenism]] and the [[amarna-workmen-village|Workmen's Village]].)
+- **The paradox of civilization.** Over 500 skeletons from the official cemeteries show
+  widespread scurvy, anaemia, degenerative joint disease, spinal fractures from heavy
+  labour and below-average stature; in the northern cemetery all but one of 77 ageable
+  individuals had **died before 25** — evidence of extensive child labour at the quarries.
+  Kemp: "Civilization is the outcome of behaviour which, when personally encountered, can be
+  nasty, but when distant we forgive because we approve of the end product."
+
 ## Significance
 
 Amarna is doubly important: as the physical record of the [[atenism|Aten cult]] and
@@ -75,4 +115,6 @@ window on a 14th-century Egyptian city.
 - Founder: [[akhenaten]] · Religion: [[atenism]] · Queen: [[nefertiti]]
 - Archive: [[amarna-letters]] · Abandoned under: [[tutankhamun]]
 - Compare capitals: [[thebes]] · [[memphis]] · State: [[new-kingdom-egypt]]
-- Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]
+- Compare planning: [[kahun]] · Within the city: [[amarna-workmen-village]]
+- Themes: [[provider-state]] · [[state-formation]] · [[egyptian-bureaucracy]]
+- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p2-1975]] · [[kemp-ancient-egypt-anatomy-2018]]
