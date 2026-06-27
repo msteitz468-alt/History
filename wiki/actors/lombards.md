@@ -9,8 +9,8 @@ affiliated_with: [the Germanic peoples, Arian (then Catholic) Christianity]
 opposed_by: [the eastern Roman (Byzantine) empire, the exarchate of Ravenna, the papacy, the Franks]
 key_events: [the Lombard Invasion of Italy (568), the assassination of Alboin (572), the interregnum of the dukes (574–584)]
 key_processes: [the fragmentation of Byzantine Italy, the formation of the barbarian successor kingdoms]
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [actor, state, late-antiquity, italy]
 ---
 
@@ -64,6 +64,10 @@ title *king of the Lombards*. Delogu stresses the **continuity** of Lombard inst
 rule. The autonomous southern duchy of **Benevento** (later the principalities of Benevento, Salerno, and
 Capua) was never fully subjected and preserved a distinct Lombard south for centuries — increasingly exposed
 to [[muslim-conquest-of-sicily-827|Muslim raiding]] from Sicily.
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Jonathan Arnold's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] traces Frankish–Lombard relations from the 568/569 invasion (a polyethnic army, possibly Byzantine-invited) through the raids on Burgundy and Provence (569–574, repelled by Mummolus; tribute of 12,000 solidi in 575). Guntram kept friendly relations despite Byzantine pressure, while Childebert II's Byzantine-subsidized campaigns (581–590) all failed — Maurice complaining that 50,000 solidi had not driven the Lombards from Italy. From 590, **Agilulf** (r. 590–616) established an enduring peace, secured a Merovingian bride for his son, and ended the tribute, Frankish neutrality aiding his consolidation; he also granted [[columbanus|Columbanus]] the site of Bobbio (see [[merovingian-byzantine-relations]]).
 
 ## Related
 

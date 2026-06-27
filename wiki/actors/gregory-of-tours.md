@@ -9,7 +9,7 @@ affiliated_with: [the Merovingian kingdom, Catholic Christianity, St. Martin of 
 opposed_by: [Chilperic I]
 key_events: [writing the Ten Books of Histories (Decem Libri Historiarum)]
 key_processes: [Christianisation of Gaul, Merovingian consolidation]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, person, late-antiquity, western-europe]
 ---
@@ -55,6 +55,10 @@ Gaul's two monastic worlds (see [[merovingian-monasticism]]). He portrays the pi
 Burgundy** in an extremely favourable light, and records the torture-death of his own great enemy
 **Leudast, count of Tours**, on the orders of Queen [[fredegund|Fredegund]] — a reminder that his vivid
 narratives "often obscure more than they enlighten." Source: [[geary-before-france-germany-1988]].
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Helmut Reimitz's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] treats Gregory's *Decem Libri Historiarum* as "the first comprehensive post-Roman history written in Gaul," radical in counting "the succession of persecutors of the church" rather than emperors and orienting continuity "not with Rome but… with the long past of Christian Gaul." Gregory called his own arrangement *mixteconfusequae* — "a messy and confused order" — and conjured copyists never to abridge it; they did anyway, producing a six-book version within a generation (a tenth book of [[fredegar|Fredegar]] later added). His hagiographic corpus runs to ~400 printed pages (see [[merovingian-hagiography]]), and Handley notes the missed chance to set Gregory's hostile portraits (e.g. of Queen Austrechild) against her own epitaph (see [[merovingian-epigraphy]], [[merovingian-historiography]]).
 
 ## Related Pages
 

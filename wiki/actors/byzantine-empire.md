@@ -9,8 +9,8 @@ affiliated_with: [the Eastern Roman state, the Orthodox Church]
 opposed_by: [[[sasanian-empire|Sasanian Persia]], the [[caliphate|Caliphate]], Avars, Bulgars, Slavs, the Seljuk and Ottoman Turks]
 key_events: [reign of Justinian 527-565 CE, Arab conquests 630s-640s CE, survival of the Eastern Roman state, Fourth Crusade sack of Constantinople 1204, Ottoman conquest 1453]
 key_processes: [[[empire]], [[christianity|Orthodox Christianity]], [[silk-roads]], Roman legal codification]
-sources_ingested: 8
-last_updated: 2026-06-22
+sources_ingested: 9
+last_updated: 2026-06-27
 tags: [actor, empire, late-antiquity, early-middle-ages, high-middle-ages, anatolia, mediterranean]
 ---
 
@@ -189,3 +189,7 @@ a historiographical intervention against the Western, catastrophist
 (a modern, not a contemporary, distinction); the impact of the
 [[late-antiquity|Justinianic plague]]; and continuity versus rupture across the Arab
 conquests.
+
+## Merovingian relations (Oxford Handbook, 2020)
+
+Stefan Esders's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] reconstructs two centuries of Byzantine–Frankish relations (see [[merovingian-byzantine-relations]]): imperial recognition of [[clovis|Clovis]] (c. 508), Justinian's cession of Provence (536), subsidy and proxy war against the [[lombards|Lombards]] (Maurice's 50,000 solidi), the Gundovald affair, the Three Chapters and Monothelite controversies dividing Austrasia from Neustro-Burgundy, and the *pax perpetua* of Dagobert and Heraclius (c. 629/630). Esders argues that this sustained ecclesiastical and diplomatic connectivity, visible around the great councils of 649 and 680/681, "appears questionable when [set against] the 'Pirennian' picture" of seventh-century rupture (see [[merovingian-coinage]], [[merovingian-ceramics-and-mediterranean-trade]]).

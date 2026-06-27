@@ -9,7 +9,7 @@ affiliated_with: [merovingian-franks, neustria]
 opposed_by: [brunhild]
 key_events: [murder-of-galswintha]
 key_processes: [merovingian-state-formation]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, early-middle-ages, western-europe, merovingian]
 ---
@@ -47,6 +47,10 @@ magnates whose rise the [[pippinids|Pippinids]] would crown.
 Almost everything known of Fredegund comes through [[gregory-of-tours|Gregory of Tours]], who had
 personal reason to loathe her circle; her portrait is correspondingly dark and must be read as
 partisan. See [[geary-before-france-germany-1988]].
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Edward James's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] treats Fredegund as a queen who converted treasure and royal grants into autonomous power: after Chilperic's murder (584) she fled "with treasure into the cathedral of Paris… to negotiate for her future," gained Guntram's protection, and declared "everything you see belongs to me… None of it has been taken from the public treasury." Gregory holds her responsible for the stabbing of Bishop Praetextatus of Rouen during Mass (586). Like other queens she had only limited access to the *fiscus* (see [[merovingian-polity]], [[merovingian-queenship]]).
 
 ## Related
 

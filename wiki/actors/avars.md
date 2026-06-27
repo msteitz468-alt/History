@@ -9,8 +9,8 @@ affiliated_with: [slavic-allies]
 opposed_by: [byzantine-empire, franks, gepids, bulgars]
 key_events: [avar-arrival-568, siege-of-constantinople-626, defeat-by-charlemagne-791-804]
 key_processes: [migration-period, avar-empire-consolidation, tribute-extortion, ethnic-mixing-with-slavs]
-sources_ingested: 1
-last_updated: 2026-06-26
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, empire, early-middle-ages, eastern-europe, central-europe, steppe]
 ---
 
@@ -47,3 +47,7 @@ Avar power rested on nomadic military organization, extortion of Byzantine tribu
 All claims grounded exclusively in Bogucki & Crabtree (eds.) 2004 range 07 cache (Hungary entry). Links only to pre-established or exclusively owned titles.
 
 Last updated 2026-06-26.
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Matthias Hardt's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] traces Avar contact with the Franks from their first appearance at the eastern frontier in 562. Sigibert I beat them that year and made *amicitia* with the khagan Baian, but was defeated and captured in 566, securing release only through gift-giving; the Avars settled the Danube–Tisza region in 568. They raided Thuringia in 596 and withdrew after receiving tribute from Queen [[brunhild|Brunhild]]. Their failed siege of Constantinople (626) triggered the internal upheavals — including the Slavic revolt under Samo — that reshaped the Frankish east (see [[early-slavs]]).

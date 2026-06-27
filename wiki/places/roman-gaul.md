@@ -7,7 +7,7 @@ period_active: [Classical Antiquity, Late Antiquity]
 controlled_by: [Rome (after Caesar's conquest), under Augustus and the Julio-Claudians]
 events_here: [the organization of the Three Gauls (27–12 BCE), the altar of Condate (12 BCE), Claudius' admission of Gallic notables to the Senate (48 CE)]
 processes_here: [the integration and urbanization of Gaul, the rise of the Narbonensian elites]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-27
 tags: [place, western-europe, classical-antiquity, late-antiquity, rome]
 ---
@@ -111,6 +111,10 @@ Goudineau's Gaul is the test case of the empire's **heterogeneous, composite cha
 uniform "Romanitas" but a spectrum from thoroughly Mediterranean Narbonensis to the
 civitas-patriotism of the north — held together by the house of Caesar, the imperial cult, and
 the steady **juridical integration of provincial elites** into the Roman governing class.
+
+## Oxford Handbook of the Merovingian World (2020)
+
+The landscape chapters of the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] document the transformation of Roman Gaul into the Merovingian countryside. The *civitas* framework persisted (108 of 113 *civitates* became episcopal seats) even as cities physically contracted and were restructured around walls and churches (see [[merovingian-cities]]). The villa declined in the north from the third century but survived in the Mediterranean south into the sixth, with aristocratic landholding continuing through the Church (see [[end-of-the-roman-villa]]). The Gallo-Roman grain economy gave way to a rye-dominated system in the north, and livestock patterns shifted sharply — the "rye revolution" and an abrupt collapse in domestic-animal size (see [[farming-and-diet-in-merovingian-gaul]], [[merovingian-rural-settlement]]).
 
 ## Related
 

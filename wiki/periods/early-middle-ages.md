@@ -7,7 +7,7 @@ date_range: "600–1000 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, arabian-peninsula, central-asia, north-africa, west-africa, east-africa, south-asia, china, japan, korea, steppe, indian-ocean, silk-road]
 major_themes: ["the rise of Islam and the caliphates", "the Abbasid golden age", "Tang China and the second Silk Roads era", "the Carolingian Empire", "Byzantium's survival and golden age", "the formation of Japan and unified Korea", "trans-Saharan and Indian Ocean trade", "the spread of world religions", "post-imperial state-building", "barbarian law codes and wergild", "the North Sea emporium network (wics)", "the gold-to-silver monetary transition (sceattas)", "proprietary churches (Eigenkirchen)", "Insular art and Northumbrian learning", "Christianisation of the Germanic and Anglo-Saxon peoples"]
 collection_coverage: strong
-sources_ingested: 13
+sources_ingested: 14
 last_updated: 2026-06-27
 tags: [period]
 ---
@@ -207,3 +207,7 @@ Gaps per CLAUDE.md: the interior of sub-Saharan Africa, Southeast Asia, and Sout
 - "The Dunhuang Caves" (ll. 10428). taxonomy: part_of: Dunhuang.
 - "CHAPTER 7 Entryway into Xinjiang for Buddhism and Islam" (ll. 10451). taxonomy: part_of: Khotan.
 All verbatim from range; established names only.
+
+## Oxford Handbook of the Merovingian World (2020)
+
+The [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] is the reference survey of the Merovingian world (5th–8th c.) and contributes across this period: thematic studies of [[merovingian-polity|court and administration]], [[merovingian-queenship|elite women]], the [[merovingian-army]], the [[merovingian-episcopate]], and [[merovingian-monasticism]]; material-culture and economy ([[merovingian-cities]], [[merovingian-rural-settlement]], [[merovingian-economy]], [[merovingian-emporia]], [[merovingian-coinage]], [[garnet-and-bead-trade]]); written culture ([[merovingian-historiography]], [[merovingian-legal-culture]], [[merovingian-hagiography]]); and religion ([[merovingian-liturgy-and-lay-religion]], [[early-medieval-penance]], [[merovingian-christology]]). Its governing argument is that the period was a connected, decentralized world in which "much of Rome still survived" for the Carolingians to reuse.

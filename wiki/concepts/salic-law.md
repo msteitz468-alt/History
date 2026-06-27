@@ -5,7 +5,7 @@ origin: "Issued by Clovis between 508 and 511; redacted in Latin, drawing on Fra
 applies_to_periods: [late-antiquity, early-middle-ages]
 applies_to_regions: [western-europe]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [concept]
 ---
@@ -53,6 +53,10 @@ Geary warns against reading the Pactus as a transparent window onto "Germanic" s
 codification, in a Roman idiom, by men trained in Roman administration, of the custom of one Frankish
 group at one moment. Like the appeal to Tacitus (see [[ethnogenesis]]), treating it as the timeless
 constitution of the Franks mistakes a constructed text for an ancestral essence.
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Alice Rio's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] reads the 65-title *Pactus Legis Salicae* — "probably issued late in the reign of [[clovis|Clovis]]" — through Patrick Wormald's argument that its written form was "an ideologically driven afterthought, designed to project royal authority," not a working code. Its ethnic distinctions are now seen as "contributing to the *engineering* of ethnic identity rather than merely reflecting it: a way of inventing tradition" (see [[ethnogenesis]]). The code mandated torture for slaves (PLS 40.4) and discriminated against women's inheritance (PLS 59.6) — a rule a Marculf formulary calls an "impious custom." Across the volume, PLS underpins analyses of [[gender-in-merovingian-gaul|gender]], [[merovingian-childhood|childhood]], and wergeld (see [[merovingian-legal-culture]]).
 
 ## Related
 

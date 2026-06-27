@@ -8,7 +8,7 @@ region: [western-europe, northern-europe]
 process_type: political
 driven_by: [roman-frontier-policy, barbarization-of-the-roman-army, military-confederation]
 produces: [merovingian-franks, frankish-state-formation]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [process, late-antiquity, western-europe]
 ---
@@ -71,6 +71,10 @@ throughout by [[barbarization-of-the-roman-army]] and the [[comitatus]] traditio
 the durable [[merovingian-franks|Merovingian Frankish]] kingdom — and, because the Franks adopted the
 **orthodox Christianity** of the Gallo-Roman population rather than Gothic Arianism, the most successful
 amalgamation of Roman and barbarian of all the successor states.
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Magali Coumert's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] dates the first Roman recognition of a group called *Franci* to the imperial crisis c. 260, and stresses that royal authority was initially **territorial, not ethnic**: Childeric's seal-ring reads simply "*Childirici regis*" with no ethnonym, and Remigius congratulated [[clovis|Clovis]] on governing the province of Belgica Secunda, "a territory rather than an ethnic group." The title *rex Francorum* appears in documentary culture only after c. 580 (first in a letter of Childebert II), so "royal power only gradually chose to be linked with the Franks as a specific group." Catholicism became inseparable from Frankish identity within a century of Clovis's baptism, and the Trojan-origin myth was elaborated in [[fredegar|Fredegar]] and the *Liber Historiae Francorum* (see [[merovingian-historiography]]).
 
 ## Related
 

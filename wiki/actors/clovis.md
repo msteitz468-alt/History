@@ -9,7 +9,7 @@ affiliated_with: [the Merovingian dynasty, the Salian Franks, Catholic (Nicene) 
 opposed_by: [the Visigoths (Alaric II), the Alamans, the Burgundians, rival Frankish kinglets]
 key_events: [the battle of Vouillé (507), the baptism of Clovis (c. 508), the conquest of northern Gaul]
 key_processes: [the formation of the barbarian successor kingdoms, the Catholic conversion of the Franks]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, person, late-antiquity, western-europe]
 ---
@@ -65,6 +65,10 @@ Clovis is the **founder of the most successful barbarian successor kingdom.** Hi
 Gallo-Roman aristocracy and Church, giving the Frankish state a cohesion the Arian kingdoms lacked; his
 conquests created the territorial core of medieval Francia. CAH XIV ends with the Merovingians as the rising
 western power — the seed of the Carolingian order that the New Cambridge Medieval History takes up.
+
+## Oxford Handbook of the Merovingian World (2020)
+
+The [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] situates Clovis within Mediterranean politics. Stefan Esders reads his 508 Tours celebration — parading in purple and *chlamys*, distributing coins in the manner of an imperial *adventus*, receiving the patriciate and honorary consulate from Anastasius — as an imperial-style ritual, and his Catholic baptism as "a symbolic concession to Constantinople" (see [[merovingian-byzantine-relations]]). Ralph Mathisen reconstructs the southern conquest in stages (failed 495/6 campaign; Bordeaux 498; the Amboise parley; [[battle-of-vouille-507|Vouillé]] 507), and dates the baptism to 496/7 while flagging Shanzer's case for 507/511 [CONTRADICTION on dating]. Remigius's letter shows his court framed in Roman civic terms from the start (see [[merovingian-polity]], [[frankish-ethnogenesis]]).
 
 ## Related
 

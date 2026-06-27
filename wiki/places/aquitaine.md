@@ -7,7 +7,7 @@ period_active: [late-antiquity, early-middle-ages]
 controlled_by: [visigoths, merovingian-franks, duchy-of-aquitaine, carolingian-empire]
 events_here: [battle-of-vouille-507]
 processes_here: [roman-gaul]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, western-europe, late-antiquity, early-middle-ages]
 ---
@@ -55,6 +55,10 @@ clerical monopoly.
 Aquitaine is Geary's prime example both of deep Roman continuity in the Merovingian world and of the
 **violence of the Carolingian "reunification,"** which extinguished one of late antiquity's last
 literate lay cultures.
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Ralph Mathisen's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] ("Alors commença la France") narrates the Frankish conquest of Aquitaine south of the Loire in stages, 495–510: a failed first campaign (495/6), the capture of Bordeaux (498), and the decisive [[battle-of-vouille-507|Vouillé]] (507), after which [[clovis|Clovis]]'s son Theuderic advanced to Albi, Rodez, and Clermont and Clovis wintered in Bordeaux. Ralph Patrello's chapter adds a distinctive **Aquitanian** material culture — plate-buckles whose deliberate fragmentation in burials encoded social bonds — and a southern burial landscape far more varied than the northern row-grave cemeteries (see [[merovingian-economy]]).
 
 ## Related
 

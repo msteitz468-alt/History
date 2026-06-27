@@ -7,7 +7,7 @@ date_range: "31 BCE–600 CE"
 regions_covered: [mediterranean, western-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, north-africa, east-africa, central-asia, south-asia, china, steppe, indian-ocean]
 major_themes: ["the Roman Empire at its height and its transformation", "the Parthian and Sasanian empires", "the spread of universalizing religions (Christianity, Buddhism, Manichaeism)", "the Kushan Empire and the Silk Roads", "the Gupta 'golden age'", "the Han collapse and China's Age of Disunity", "steppe migrations and the 'fall' of the Western Empire", "the rise of Byzantium"]
 collection_coverage: strong
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-27
 tags: [period]
 ---
@@ -116,3 +116,7 @@ the Roman/Byzantine and Near Eastern material. [[benjamin-cwh-v4-2015|CWH IV]]
 supplies the global frame and unusually good coverage of the Sasanian, Kushan,
 Gupta, and post-Han Asian story, plus Aksum and early Africa. The relative gaps
 remain India and the interior of sub-Saharan Africa.
+
+## Oxford Handbook of the Merovingian World (2020)
+
+The [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] (Effros & Moreira, eds.) frames the Merovingian centuries as part of a vital, connected Late Antiquity rather than a "Dark Age." Agnès Graceffa's survey shows how the very period concept of **Late Antiquity** was a post-war construction (Peter Brown 1971; Marrou 1975) that revived the "Romanist" tradition by insisting on the continuity of Roman culture into the seventh century, institutionalized through the ESF "Transformation of the Roman World" project. Paul Fouracre synthesizes the current multi-causal model of the transition from Gaul to Francia — declining taxation, recession in trade, recurrent warfare, fifth-century climatic cooling, and sixth-century plague — against any monocausal "fall." See [[merovingian-studies-historiography]] and [[merovingian-archaeology]].

@@ -5,7 +5,7 @@ origin: "Carolingian propaganda (8th–9th c.), crystallised in Einhard's Vita K
 applies_to_periods: [early-middle-ages]
 applies_to_regions: [western-europe]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [concept]
 ---
@@ -56,6 +56,10 @@ The *rois fainéants* is a standing warning about **source bias**: the Merovingi
 through the propaganda of the dynasty that overthrew them. It belongs with the partisan portraits of
 [[brunhild|Brunhild]] (via her enemies) and the compressed chronology of [[gregory-of-tours|Gregory of
 Tours]] as a reminder that the early-medieval record is rarely neutral.
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Paul Fouracre's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] is a sustained rebuttal of the *rois fainéants* image, which he identifies as Carolingian propaganda adopted uncritically: "the survival of Francia is the strongest testimony to the stability of its political and religious culture, and it was this stability that was the bedrock of Carolingian power." No other early medieval dynasty could repeatedly survive "rule by children and queen regents" without disintegrating. Charter evidence even complicates the showpiece of decline: after [[battle-of-tertry-687|Tertry]] (687) the kings "still enjoyed support that limited the power of any one magnate group," against the Carolingian sources' claim of powerless kings [CONTRADICTION between narrative and charters]. See [[merovingian-studies-historiography]], [[merovingian-polity]].
 
 ## Related
 

@@ -9,7 +9,7 @@ affiliated_with: [frankish-kingdoms]
 opposed_by: [visigoths, burgundians, saxons, other-frankish-groups]
 key_events: [tomb-of-childeric-481, clovis-conquests, battle-of-tertry-687, pippinid-coup-751]
 key_processes: [frankish-state-formation, roman-barbarian-synthesis, christianisation-of-franks, shift-to-ad-sanctos-burial]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, dynasty, early-middle-ages, western-europe, merovingian]
 ---
@@ -89,3 +89,7 @@ various communities."
 
 Cross-refs: [[frankish-ethnogenesis]] · [[salic-law]] · [[francia]] · [[merovingian-episcopate]] ·
 [[pippinids]] · [[rois-faineants]]. Source: [[geary-before-france-germany-1988]].
+
+## Oxford Handbook of the Merovingian World (2020)
+
+The [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] treats Frankish identity as legal and political rather than biological. The *Pactus Legis Salicae* set an 8,000-denarii (200-solidi) wergeld for "a free Frank or other barbarian who lives by Salic law," a category that integrated Franks and Romans alike, while a graded ethnic hierarchy of fines (Romans in royal service, landowners, tributaries) shows ethnicity *and* status both counted (see [[salic-law]], [[frankish-ethnogenesis]]). Wolfram Drews notes the Franks "probably did not regard themselves as migrants after settling down," distinguished from Romans "more by social than by ethnic markers" (see [[migrants-and-minorities-in-merovingian-gaul]]).

@@ -22,8 +22,8 @@ reliability_notes: >
   disagreement the volume itself often preserves multiple positions. Given
   presumptive weight as the field's reference survey; where an essay revises an
   older Cambridge/standard account, flag for a controversy page.
-pages_created: 0
-pages_updated: 0
+pages_created: 37
+pages_updated: 23
 ingested: 2026-06-27
 tags: [source]
 ---
@@ -97,8 +97,51 @@ one subagent per Part (R1–R8) for claim extraction.
 
 ## Pages created / updated
 
-(filled during reconciliation)
+**Created (37).** *Concepts:* [[merovingian-archaeology]], [[merovingian-studies-historiography]],
+[[gender-in-merovingian-gaul]], [[merovingian-childhood]], [[merovingian-bioarchaeology]],
+[[migrants-and-minorities-in-merovingian-gaul]], [[merovingian-polity]], [[merovingian-queenship]],
+[[early-medieval-hospitals-and-charity]], [[merovingian-historiography]], [[merovingian-legal-culture]],
+[[merovingian-hagiography]], [[merovingian-epistolary-culture]], [[merovingian-epigraphy]],
+[[merovingian-religious-architecture]], [[farming-and-diet-in-merovingian-gaul]], [[merovingian-emporia]],
+[[merovingian-coinage]], [[merovingian-ceramics-and-mediterranean-trade]], [[merovingian-amulets-and-magic]],
+[[visions-and-the-afterlife-merovingian]], [[liturgical-commemoration-and-memoria]],
+[[merovingian-liturgy-and-lay-religion]], [[early-medieval-penance]], [[merovingian-christology]].
+*Processes:* [[merovingian-byzantine-relations]], [[cross-channel-exchange-britain-and-gaul]],
+[[merovingian-cities]], [[merovingian-rural-settlement]], [[end-of-the-roman-villa]],
+[[garnet-and-bead-trade]], [[merovingian-economy]]. *Actors:* [[merovingian-army]], [[early-slavs]],
+[[venantius-fortunatus]], [[fredegar]], [[radegund-of-poitiers]].
+
+**Updated (23).** Periods [[late-antiquity]], [[early-middle-ages]]; concepts [[ethnogenesis]],
+[[rois-faineants]], [[salic-law]]; processes [[frankish-ethnogenesis]], [[merovingian-monasticism]];
+actors [[merovingian-franks]], [[gregory-of-tours]], [[clovis]], [[brunhild]], [[fredegund]],
+[[merovingian-episcopate]], [[columbanus]], [[avars]], [[ostrogoths]], [[lombards]], [[visigoths]],
+[[byzantine-empire]]; places [[francia]], [[aquitaine]], [[roman-gaul]]; event [[battle-of-vouille-507]].
 
 ## Volume Synthesis Note
 
-(written in the cross-section synthesis pass)
+The volume's organizing thesis — stated by Effros and Moreira in Chapter 1 and borne out across all eight
+parts — is that the Merovingian world was **connected, vital, and decentralized**, not a "Dark Age." Its
+method is the decisive interdisciplinary move: setting written sources alongside archaeology,
+bioarchaeology, numismatics, archaeobotany, and gemmology so that material evidence *questions* the texts.
+This produces a recurring two-front argument: against the nineteenth-century image of the
+[[rois-faineants|"do-nothing kings"]] (Fouracre's case for Merovingian *stability* as the bedrock of
+Carolingian power), and against the Carolingian-driven story of religious and cultural decay (the recovery
+of Merovingian religion "on its own terms" in Parts V and VIII).
+
+A second through-line is **geographic boundary-pushing**. Following Ian Wood's *Merovingian North Sea*, the
+volume reconnects Gaul to Byzantium ([[merovingian-byzantine-relations]]), Britain
+([[cross-channel-exchange-britain-and-gaul]]), Ireland and Italy, the Avars and Slavs ([[early-slavs]]), and —
+through trace-element provenancing of garnet — to Sri Lanka and the Indian Ocean ([[garnet-and-bead-trade]]).
+The economic chapters mount the volume's sharpest internal debate: Theuws's **bottom-up "ritual economy"**
+([[merovingian-economy]]) and Tys's coastal "landing places" ([[merovingian-emporia]]) against the
+elite-demand model of Wickham and Devroey — a tension the volume preserves rather than resolves.
+
+For the wiki, the Handbook overwhelmingly **deepens and broadens** an already-strong Merovingian backbone
+(built from Geary, the NCMH, and the *Encyclopedia of the Barbarian World*) rather than building it from
+scratch. It adds the thematic, material-culture, and religious-culture resolution the earlier political-
+dynastic spine lacked: gender, childhood, and bioarchaeology; the polity, the army, and the episcopate as
+institutions; cities, villas, rural settlement, farming, and diet; coinage, ceramics, emporia, and long-
+distance trade; and a whole register of lived religion — hagiography, liturgy, penance, magic, visions, and
+Christology. On points of tension with already-ingested sources (e.g. the dating of Clovis's baptism, the
+Ostrogothic counter-campaign of 508–511 absent from Gregory, the Pirenne horizon) it generally supplies the
+*current* revisionist position, flagged on the relevant pages.

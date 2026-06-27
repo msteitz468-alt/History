@@ -9,7 +9,7 @@ affiliated_with: [merovingian-franks, gallo-roman-aristocracy]
 opposed_by: [charles-martel]
 key_events: []
 key_processes: [christianisation-of-the-frankish-aristocracy]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, institution, early-middle-ages, western-europe, merovingian]
 ---
@@ -65,6 +65,10 @@ monasteries. See [[pippinids]].
 The Merovingian episcopate is Geary's prime example of how the **Gallo-Roman aristocracy survived the end
 of empire by colonising the Church**, turning the bishopric into a hereditary lordship and the saint's
 cult into the currency of local power. Its destruction was a precondition of Carolingian centralisation.
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Gregory Halfond's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] analyzes the bishops as a corporate body whose solidarity (apostolic succession, conciliar "*cum consensu omnium*", Roman norms) was repeatedly strained by **political factionalism** — "bishops… were fair game in politics if they had taken sides." The **Gundovald affair** (582–585) is the case study: of 13 bishops Gregory names, 10 came from three southern provinces, most in the former *regnum Chilperici*, acting from "necessity, not enthusiasm"; the Council of Mâcon (585) censured at least five. Royal patronage itself "bred factionalism," and kings like Chilperic I manipulated episcopal trials outright. Other chapters add the bishops' charitable (see [[early-medieval-hospitals-and-charity]]) and military (see [[merovingian-army]]) roles.
 
 ## Related
 

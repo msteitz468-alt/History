@@ -8,7 +8,7 @@ region: [western-europe]
 process_type: religious
 driven_by: [ascetic-movement, aristocratic-patronage, irish-peregrinatio]
 produces: [christianisation-of-the-frankish-aristocracy, iro-frankish-monastic-rule]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [process, late-antiquity, early-middle-ages, western-europe]
 ---
@@ -66,6 +66,10 @@ much of Columbanus's independence while tempering Irish ascetic extremes. Adopte
 estates across the north, it became the vehicle of the [[christianisation-of-the-frankish-aristocracy|Christianisation
 of the Frankish aristocracy]] — and shifted the centre of religious gravity from the episcopal city to the
 rural monastery.
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Albrecht Diem's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] replaces the tidy succession-narrative with "a vast diversity of 'monasticisms' that compete with each other," and warns that virtually all royal charters for monasteries before Sigibert III (d. 656) are forgeries. The Rule of Benedict "played but a minor role" in the period, spreading only through Columbanian networks after [[columbanus|Columbanus]]'s death. Diem foregrounds **voices of dissent** — the Jura Fathers against Agaune's intercessory "prayer factory"; the anonymous *Regula cuiusdam patris* rejecting tariffed penance and sacred-space claims — and shows Gregory of Tours acting as an episcopal regulator of grassroots ascetics (Vulfilaic the stylite). The Columbanian redefinition of the monastery as **sacred space** (a creation of Jonas of Bobbio, not Columbanus) was key to these foundations' longevity. Late Merovingian monasticism was not in decline: Chelles and Luxeuil became centres of book production (see [[merovingian-queenship]], [[early-medieval-penance]]).
 
 ## Related
 

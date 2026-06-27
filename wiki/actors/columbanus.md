@@ -9,7 +9,7 @@ affiliated_with: ["Celtic Christianity", "Luxeuil", "Bobbio"]
 opposed_by: []
 key_events: ["Foundation of Luxeuil and Bobbio", "peregrinatio to the Continent"]
 key_processes: ["Monastic reform in Merovingian Gaul", "Celtic mission to Europe"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, celts, saint, ireland, europe, early-middle-ages]
 ---
@@ -47,6 +47,10 @@ which preserved much of his monastic independence while tempering Irish ascetic 
 aristocratic family estates across the Frankish north, it made Columbanian monasticism the vehicle through
 which the lay aristocracy entered the Church on its own terms — founding family monasteries that doubled as
 political centres and necropolises. Source: [[geary-before-france-germany-1988]].
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Jean-Michel Picard's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] reframes Columbanus's foundations as **royal settlement strategy**, not missionary work: "Merovingian patronage for Irish monastic foundations… was also a major element in the settlement strategy of kings and magnates in… difficult areas." Annegray/Luxeuil (590/591, on King Guntram's fiscal land), Bregenz (611), and Bobbio (614) all sat in liminal border zones; excavation shows Luxeuil was already "a substantial town," not a wilderness. Expelled from Luxeuil in 610 for rebuking Theuderic II and [[brunhild|Brunhild]], he declined Chlothar II's offers and moved east. His major Continental innovation was **regular private penance** (see [[early-medieval-penance]]); his Faronid lay patrons seeded a generation of magnate-monks (see [[merovingian-monasticism]], [[migrants-and-minorities-in-merovingian-gaul]]).
 
 ## Related
 

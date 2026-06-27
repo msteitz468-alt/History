@@ -9,7 +9,7 @@ affiliated_with: [gothic-peoples, foederati, arian-christianity]
 opposed_by: [eastern-roman-empire, merovingian-franks, umayyad-caliphate]
 key_events: [battle-of-adrianople-378, sack-of-rome-410, battle-of-vouille-507]
 key_processes: [ethnogenesis, barbarization-of-the-roman-army]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, state, late-antiquity, western-europe, mediterranean, germanic]
 ---
@@ -63,6 +63,10 @@ forged in interaction with Rome. Their Arianism — unlike Frankish orthodoxy �
 from the Gallo-Roman and Hispano-Roman populations they ruled, a structural weakness that contrasts
 with the [[merovingian-franks|Frankish]] amalgamation and helps explain why the Frankish kingdom proved
 the most durable successor state.
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Ralph Mathisen's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] revises the standard picture of the Visigothic collapse at [[battle-of-vouille-507|Vouillé]]. Against Gregory of Tours, he argues **Alaric II** "was an effective ruler who did the best he could with what he had": the *Breviarium Alarici* (506) conciliated his Gallo-Roman elite, and the Council of Agde (506) organized the kingdom's church. Arian Christianity had functioned as a marker of Gothic identity without systematic persecution of Catholics (see [[migrants-and-minorities-in-merovingian-gaul]]); after 507 only Septimania remained Gothic in Gaul, and Theoderic's Ostrogoths assumed guardianship of the Visigothic kingdom (see [[ostrogoths]]).
 
 ## Related
 

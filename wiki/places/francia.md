@@ -7,7 +7,7 @@ period_active: [late-antiquity, early-middle-ages]
 controlled_by: [merovingian-franks, pippinids, carolingian-empire]
 events_here: [battle-of-vouille-507, battle-of-tertry-687]
 processes_here: [frankish-ethnogenesis, merovingian-monasticism, christianisation-of-the-frankish-aristocracy]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, western-europe, late-antiquity, early-middle-ages]
 ---
@@ -68,6 +68,10 @@ Francia was the most durable of the Roman successor states and the matrix of med
 strength lay in the **fusion** of a Germanic-speaking warrior elite with Gallo-Roman provincial
 administration and the orthodox Church — the amalgamation Geary's book exists to describe. See
 [[frankish-ethnogenesis]], [[merovingian-franks]], [[roman-gaul]].
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Paul Fouracre's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] reframes the transition "from Gaul to Francia" as a 270-year amalgamation — not a conquest — in which "a degree of cultural solidarity coalesced around a landholding elite drawn from a variety of backgrounds," knitted together by intermarriage and the Columbanian monastic network (see [[merovingian-monasticism]]). Frankish identity "rested ultimately on success in warfare" yet was "sufficiently flexible to accommodate local custom." The economic chapters add that Francia's river network sustained intense exchange (Wickham: "second only to the intensity of exchange in the Nile Valley"), with garnets reaching it from Sri Lanka and India (see [[merovingian-economy]], [[garnet-and-bead-trade]], [[merovingian-coinage]]).
 
 ## Related
 

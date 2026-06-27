@@ -9,7 +9,7 @@ affiliated_with: [merovingian-franks, austrasia, visigoths]
 opposed_by: [fredegund, austrasian-aristocracy, chlothar-ii]
 key_events: [execution-of-brunhild-613]
 key_processes: [merovingian-state-formation]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, early-middle-ages, western-europe, merovingian]
 ---
@@ -59,6 +59,10 @@ Carolingian future was built against.
 The hostile tradition around Brunhild owes much to sources later shaped by Austrasian/Carolingian
 sympathies; the gruesome execution narrative should be read with that bias in mind (compare the
 manufactured image of the [[rois-faineants|rois fainéants]]). See [[geary-before-france-germany-1988]].
+
+## Oxford Handbook of the Merovingian World (2020)
+
+The [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] presents Brunhild as the paradigmatic Merovingian regent-queen (Edward James, Ch. 11): widowed in 575, she ruled as regent for her son Childebert II and grandsons across four decades before [[chlothar-ii|Chlothar II]] had her killed in 613. Her power rested on property (the Treaty of Andelot, 587, secured her cities and revenues) but met fierce resistance — rebuffed in 581 with "Stand back, woman!" — and her hostile portrayal in Fredegar, Jonas, and the *Life of Desiderius* was written after her death (see [[merovingian-queenship]]). Jonas of Bobbio framed [[columbanus|Columbanus]]'s clash with her court as prophesying her line's extinction; she used Austrasia's ties to Constantinople to lever Pope Gregory I (see [[merovingian-epistolary-culture]], [[merovingian-monasticism]]).
 
 ## Related
 

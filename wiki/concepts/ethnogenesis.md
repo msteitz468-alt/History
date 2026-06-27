@@ -5,7 +5,7 @@ origin: "Reinhard Wenskus (1961), *Stammesbildung und Verfassung*"
 applies_to_periods: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [western-europe, northern-europe, eastern-europe, mediterranean-world, eurasian-steppe]
 contested: yes
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-27
 tags: [concept]
 ---
@@ -75,6 +75,10 @@ The shift in the historical understanding of ethnogenesis mirrors the evolution 
 *   **Processualism and Post-Processualism**: Modern early medieval archaeology rejects culture history. Post-processual archaeologists treat the material record—especially the rich grave-goods of sixth-century cemeteries—as "meaningfully constituted." Grave-goods deposition was not a passive pagan custom, but an active ritual performance used by families during periods of social transition and instability to negotiate local power, gender roles, and ethnic alignment.
 
 ---
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Magali Coumert's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] restates the field consensus: "ethnogenesis theory has won out, insofar as it has eliminated the idea of dichotomous or unchanging ethnic identities," and ethnicity is "only one element of social identity… a situational construct." Walter Pohl's formulation is that the decisive post-Roman change was not the emergence of fixed peoples but "the gradual development of a system in which ethnic rule was considered legitimate." The volume stresses that law could *create* identity — Matthias Springer's argument that "there was no 'Salian' ethnic group before the [[salic-law|Salic Law]]" — and that bioarchaeology now supports flexible, constructed identity (see [[merovingian-bioarchaeology]], [[frankish-ethnogenesis]]).
 
 ## Related Pages
 

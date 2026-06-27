@@ -9,7 +9,7 @@ affiliated_with: [gothic-peoples, foederati, arian-christianity, hunnic-confeder
 opposed_by: [eastern-roman-empire]
 key_events: [gothic-war-535-554]
 key_processes: [ethnogenesis, barbarization-of-the-roman-army]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, state, late-antiquity, mediterranean, germanic]
 ---
@@ -53,6 +53,10 @@ Theodoric's settlement endured, might have preserved a Romano-Gothic Italy. Its 
 the exhaustion of Italy in the Gothic War — helped clear the way for the [[merovingian-franks|Frankish]]
 hegemony north of the Alps and the Lombard conquest of Italy. As with the Visigoths, **Arian**
 Christianity kept ruler and ruled apart, in pointed contrast to the Frankish embrace of orthodoxy.
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Jonathan Arnold's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] casts Theoderic as the self-styled "Roman ruler of the West" whose marriage-alliance network (his sister to [[clovis|Clovis]], a daughter to Alaric II) was meant to restrain war among the barbarian kings. His mediation failed to prevent [[battle-of-vouille-507|Vouillé]] (507), but his **counter-campaign of 508–511** — victories at Arles, Carcassonne, and Barcelona — recovered much of Gaul "for his empire," a Gothic success absent from Gregory of Tours's triumphalist narrative [REVISION]. He then governed the Visigothic kingdom as Amalaric's guardian. Ostrogothic Provence passed to the Franks in 536–537, and an Ostrogothic *and* a Frankish Italy both ended with Narses's victories by 562 (see [[merovingian-byzantine-relations]]).
 
 ## Related
 

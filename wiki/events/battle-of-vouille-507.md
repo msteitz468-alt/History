@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [contributed_to: [[frankish-ethnogenesis|Frankish expansionism under Clovis]], contributed_to: [[clovis|Clovis's drive to eliminate rival kingdoms after his Catholic conversion]]]
 consequences: [produced: [[visigoths|collapse of the Visigothic kingdom of Toulouse north of the Pyrenees]], enabled: [[merovingian-franks|Frankish hegemony over most of Gaul]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [event, late-antiquity, western-europe]
 ---
@@ -67,6 +67,10 @@ of coastline as far east as Narbonne."
 The narrative descends largely from [[gregory-of-tours|Gregory of Tours]], whose chronology of
 Clovis's campaigns is notoriously compressed and partisan; the coordination with Byzantine naval
 movement is Geary's reconstruction of the wider strategic context. See [[geary-before-france-germany-1988]].
+
+## Oxford Handbook of the Merovingian World (2020)
+
+Ralph Mathisen's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] sets Vouillé (spring 507, "just outside of Poitiers") within a multi-year war (495–510), noting that Gallo-Romans fought on Alaric's side (Apollinaris of Clermont, son of Sidonius), that Theoderic's [[ostrogoths|Ostrogothic]] mediation failed, and that the battle "began France" (the modern plaque: "*Alors commença la France*"). Crucially, Arnold's chapter records the **Ostrogothic counter-campaign of 508–511** — victories at Arles, Carcassonne, and Barcelona — that partly reversed the Frankish gains but is "absent from Gregory of Tours" [REVISION], leaving the Visigoths only Septimania in Gaul. Esders reads Clovis's subsequent Tours ceremony as imperial display (see [[merovingian-byzantine-relations]], [[visigoths]]).
 
 ## Related
 
