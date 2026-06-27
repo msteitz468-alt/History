@@ -24,7 +24,6 @@ Dedicated Vol V entry: "Tone, Theobald Wolfe 1681".
 ## Historiography
 Koch Vol V frames as key 18th c. political figure in Celtic countries alongside revival and nationalism topics. Foundational for republicanism; cross to Union contexts and later independence movements.
 
-## Verbatim Claims from R05-Vol5-02 (Koch Vol V)
 
 - **Commemoration in 1798 context**: In discussion of Arthur Griffith's activities in South Africa (1896–8) and founding of early nationalist groups: "form[ed] an Irish Society to show the connections between Boer aspirations and the Irish struggle for independence and to commemorate the 1798 rebellions (see Éire; Tone)." Later: "irish independence movement; irish republican army; Tone;" in further reading for Griffith entry. (Koch Vol V, Ó Gríofa / Arthur Griffith entry; nationalism sections).
 

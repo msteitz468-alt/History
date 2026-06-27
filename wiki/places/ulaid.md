@@ -30,7 +30,6 @@ Koch Vol V emphasizes literary centrality of Ulaid/Ulaid Cycle for heroic tradit
 - [[places/teamhair]]
 - [[sources/koch-celtic-culture-encyclopedia-2006]]
 
-## Claims from Koch (ed.), Celtic Culture Vol. V (range R05-Vol5-02)
 
 - **Ulaid as province and in Ulster Cycle**: "Mide (Meath) was regarded in mythology as the central province (cóiced) of Ireland (Ériu), bordering the other four provinces: Connacht, Laigin, Mumu, and Ulaid." In Mesca Ulad, "this leads to a description of the later division of Ulaid, unusual in that Cú Chulainn and Conchobar are portrayed as Ulster’s rival kings". "in the tales of the Ulster Cycle, often as chief antagonists of the Ulaid and their high-hero Cú Chulainn". (Koch Vol V, Mide entry; Mesca Ulad entry).
 
@@ -45,4 +44,3 @@ Koch Vol V emphasizes literary centrality of Ulaid/Ulaid Cycle for heroic tradit
 - [[places/teamhair]]
 - [[sources/koch-celtic-culture-encyclopedia-2006]]
 
-*Enriched from R05-Vol5-02 (Koch Vol V); verbatim grounded.*

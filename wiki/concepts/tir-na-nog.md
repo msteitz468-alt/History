@@ -17,7 +17,6 @@ The Irish Otherworld paradise of eternal youth, often reached by sea voyage or s
 ## Definition and Scope
 Tír na nÓg ('Land of Youth' or 'Ever-Young') is the Irish Otherworld realm of eternal youth and beauty.
 
-## Major Developments (Koch Vol V R05-Vol5-01)
 - Dedicated sub-entries in Vol V Contents: "Tír na nÓg [1] Irish background 1671 [2] connection with Wales 1671".
 - Verbatim journal reference: “Al Liamm (The link), a journal written entirely in Breton, is the result of the merging in 1948 of three pre-existing Breton journals: Al Liamm, Tír na nÓg (Irish, Land of Youth), and Kened (Beauty)”.
 

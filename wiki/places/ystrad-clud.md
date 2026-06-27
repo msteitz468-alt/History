@@ -88,4 +88,3 @@ Entry author: Thomas Owen Clancy.
 - [[actors/mac-bethad]]
 - [[sources/koch-celtic-culture-encyclopedia-2006]]
 
-*Enriched with full detailed verbatim content from exclusive R05-Vol5-06 cache slice (Ystrad Clud entry, lines ~42–262 of range). Sources_ingested incremented. Pre-established name and links used.*

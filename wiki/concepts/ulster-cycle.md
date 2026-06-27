@@ -17,7 +17,6 @@ Major cycle of early Irish heroic literature centered on the warriors of Ulster 
 ## Definition and Scope
 The Ulster Cycle of Tales (also called the Ulaid Cycle or Heroic Cycle) comprises the central body of early Irish saga literature focused on the Ulaid (Ulster) and their conflicts, most famously the Táin Bó Cuailnge.
 
-## Major Developments (grounded verbatim from Koch Vol V, R05-Vol5-01 range)
 - Táin Bó Cuailnge is “the central epic Táin Bó Cuailnge (‘The Cattle Raid of Cooley’)”.
 - Longes mac nUislenn “functions as one of the remscéla (fore-tales) of the central epic Táin Bó Cuailnge ... explaining why Fergus mac Roich and other heroes of the Ulaid have gone over to their people’s enemies.”
 - Primary sources for related: “Ed. & Trans. Hull, Longes Mac nUislenn. trans. Cross & Slover, Ancient Irish Tales 239–47; Kinsella, The Táin 8–20; Gantz, Early Irish Myths and Sagas 256–67.”
@@ -32,7 +31,6 @@ Central to reconstruction of heroic ethos, chariot warfare depictions, geissi/ta
 ## Historiography
 Preserved in medieval MSS (Lebor na hUidre etc.); modern translations (esp. Kinsella) popularize. Koch Vol V positions it as key Insular textual evidence post-Celtoscepticism, privileging linguistic/literary over purely material definitions of Celticity. Collection (Bibliotheca Alexandrina) strong on Insular texts via Koch and related primary translations. Gaps in direct prehistoric corroboration for specific events.
 
-## Claims from Koch (ed.), Celtic Culture Vol. V (range R05-Vol5-02)
 
 - **Mesca Ulad as major Ulster Cycle tale**: "Mesca Ulad (‘The Intoxication of the Ulstermen’) is a major tale of the Irish Ulster Cycle and one of the better known for modern readers." It begins with an account of the division of Ireland and its síd mounds between the sons of Míl Espáine and the Tuath Dé (closely parallel to Dé Gabáil in t-Sída), leading to "a description of the later division of Ulaid, unusual in that Cú Chulainn and Conchobar are portrayed as Ulster’s rival kings, preparing rival feasts." After events at Temair Lúachra, "the Ulstermen safely return, drink Cú Chulainn’s feast for forty days, and the issue of Conchobar’s supreme kingship is resolved." (Koch Vol V, Mesca Ulad entry; cf. further refs to Táin Bó Cuailnge).
 
@@ -52,4 +50,3 @@ Koch emphasizes the literary cycles as windows onto early Irish society, kingshi
 - [[places/teamhair]]
 - [[sources/koch-celtic-culture-encyclopedia-2006]]
 
-*Enriched from R05-Vol5-02 (Koch Vol V T–Z range); grounded verbatim only.*

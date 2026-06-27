@@ -17,7 +17,6 @@ Traditional mnemonic form in Celtic literatures: enumerations of people, places,
 ## Definition and Scope
 Triads are grouped enumerations in threes, a key native learning and mnemonic device in medieval Welsh and Irish tradition.
 
-## Major Developments (from Koch Vol V Contents + verbatim prose in R05-Vol5-01)
 - Listed as dedicated entries: "triads [1] Triads of Ireland 1686 [2] Trioedd Ynys Prydain 1687".
 - Verbatim in Welsh legendary history prose: “hints of stories in the triads and elsewhere about the family of Beli Mawr, Caswallon and the arrival—and initial repulsing—of the Romans.”
 - Cross-refs in further reading: "prophecy; Rheged; triads; Trojan legends; Tudur; Urien; ... Bromwich, TYP".
@@ -26,7 +25,6 @@ Triads are grouped enumerations in threes, a key native learning and mnemonic de
 ## Historiography
 Koch Vol V (T–Z) frames triads as core to Welsh legendary history (alongside Historia Brittonum, Mabinogi) achieving functional pattern of national origins by 9th c. Collection coverage strong for Insular literary forms; cross to Bromwich TYP edition. Note post-Celtosceptic emphasis on textual/linguistic evidence over material. 
 
-## Additional Claims from Koch Vol. V (R05-Vol5-02 range; T–Z middle)
 
 - **Specific TYP citations**: "the single reference to him in the triads (TYP no. 28). The poets of the 14th, 15th, and 16th centuries also seem to know of Math as lord of Gwynedd and as a powerful magician"; "In the triads, she is the mother of Owain and Morfudd by Urien (TYP no. 70)"; "remembered in the triads as ‘Matholwch the Irishman’ who struck one of the three harmful blows of the Island of Britain upon Branwen, his wife, a variant on the episode in the Mabinogi tale"; "example, in the triads (TYP no. 51 ‘The Three...". These preserve variant lore known to later poets (e.g. Lewys Môn names Arianrhod variant). (Koch Vol V, Math fab Mathonwy entry; Modron; Matholwch).
 

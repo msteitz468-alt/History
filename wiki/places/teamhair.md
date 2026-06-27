@@ -33,7 +33,6 @@ Koch Vol V treats Teamhair as key royal/ritual centre in Insular textual traditi
 - [[concepts/dindshenchas]]
 - [[sources/koch-celtic-culture-encyclopedia-2006]]
 
-## Claims from Koch (ed.), Celtic Culture Vol. V (range R05-Vol5-02)
 
 - **Teamhair / Tara as royal/ritual centre**: "In the medieval pseudo-historical text Do Shuidigud Tellaich Themra (The arrangement of the hearth of Tara), Uisnech is described as the umbilicus of Ireland and, like Tara (Teamhair), was associated with pre-Christian kingship and ceremonies." "Tuathal Techtmar, who is said to have created the fifth province to ensure that the high-king of Tara was independent of the other provinces." "Mide was at the core of southern Uí Néill kingdoms". (Koch Vol V, Mide entry).
 
@@ -50,4 +49,3 @@ Koch Vol V treats Teamhair as key royal/ritual centre in Insular textual traditi
 - [[concepts/dindshenchas]]
 - [[sources/koch-celtic-culture-encyclopedia-2006]]
 
-*Enriched from R05-Vol5-02 (Koch Vol V T–Z range); verbatim only.*

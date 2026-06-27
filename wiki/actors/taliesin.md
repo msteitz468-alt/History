@@ -24,7 +24,6 @@ Vol V Contents: "Taliesin [1] the historical Taliesin 1652 [2] the Taliesin trad
 ## Key Events / Decisions (from range prose)
 - Attribution and dúnad in Marwnad Cunedda: “the attribution to Taliesin in the first line of the extant text may be discarded, since the first word of the fourth line, kyfrwng ‘in between’, forms a dúnad (ring-style closing) with Marwnad Cunedda’s last word, Coeling ‘descendants of Coel’”.
 
-## Additional Verbatim Claims from R05-Vol5-02 (Koch Vol V)
 
 - **Llyfr Taliesin & Math lore**: "the four references in Llyfr Taliesin (‘The Book of Taliesin’ ... ) and the single reference to him in the triads (TYP no. 28). The poets of the 14th, 15th, and 16th centuries also seem to know of Math..." "In the mythological poem Kat Goªeu (Cad Goddau ‘The battle of the trees’) in Llyfr Taliesin, Modron is connected with the characters and magical events of the tale Math fab Mathonwy..." (Koch Vol V, Math fab Mathonwy entry).
 
