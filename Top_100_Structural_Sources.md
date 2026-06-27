@@ -55,7 +55,7 @@
 
 ### 5. Ancient Iran & Mesopotamia
 33. **D. T. Potts** - *The Archaeology of Elam: Formation and Transformation of an Ancient Iranian State* ✅
-34. **Peter T. Daniels, Pierre Briant** - *From Cyrus to Alexander: A History of the Persian Empire*
+34. **Peter T. Daniels, Pierre Briant** - *From Cyrus to Alexander: A History of the Persian Empire* ✅ INGESTED 2026-06-27 (the definitive Achaemenid synthesis; ~88.7k-line OCR, body lines 2187–42214. **Deployed Subagent Strategy**: 8 Sonnet agents over disjoint chapter ranges drafted grounded claim digests, main thread authored pages + reconciled. 8 new: actors [[artaxerxes-i]], [[artaxerxes-iii]], [[darius-iii]], [[tissaphernes]]; process [[achaemenid-tribute-economy]]; concepts [[achaemenid-royal-ideology]], [[achaemenid-kings-men]]; place [[pasargadae]]. 9 updated incl. [[achaemenid-empire]], [[cyrus-the-great]], [[cambyses]], [[darius-i]], [[xerxes-i]], [[gaumata-magush]] (Bardiya CONTRADICTION). Core: tribute+gift economy as the real engine; the "decline" narrative is a Hellenocentric myth; the fall was contingent. 0 broken links.)
 35. **Josef Wiesehofer** - *Ancient Persia: From 550 BC to 650 AD*
 36. **Vesta Sarkhosh Curtis, Michael Alram, Touraj Daryaee, Elizabeth Pendleton** - *The Parthian and Early Sasanian Empires: Adaptation and Expansion* **[MISSING]**
 37. **George Rawlinson** - *The Five Great Monarchies of the Ancient Eastern World Or, The History, Geography, and Antiquities of Chaldea, Assyria, Babylon, Media, and Persia*

@@ -9,8 +9,8 @@ origin: >
 applies_to_periods: [Archaic Period, Classical Antiquity]
 applies_to_regions: [iran-plateau, anatolia, mesopotamia, levant, near-east, central-asia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept]
 ---
 
@@ -73,6 +73,24 @@ narrative. The "feudal" analogy is itself a borrowed Western category to be used
 same caution Hornblower urges against the Greek "slave" vocabulary. The page therefore
 pairs with the standing rehabilitation of Persia in [[achaemenid-empire]] and the
 [[fourth-century-greek-historiography|source-critical method]] of the volume.
+
+## Briant's account
+
+[[sources/briant-from-cyrus-to-alexander-2002|Briant]] supplies the administrative substance the
+Greek-derived picture lacks. Satraps held authority over both civil and military domains but were
+checked by **garrison commanders appointed by and answerable to the king**, by royal inspectors
+(*hoi ephodoi*) making annual circuits, and by **family members kept at court as implicit hostages**.
+A satrap was a [[achaemenid-kings-men|*bandaka*]] bound by the gift-and-service relationship; royal
+letters carried near-royal authority, received with *proskynesis*. Satrapal courts **replicated the
+royal court in every detail** — audience ritual, banquet, paradises, the education of provincial
+nobles' sons at the satrap's "Gate" — diffusing court culture across the empire. On the
+[[achaemenid-tribute-economy|fiscal]] side, the satrap was responsible to the king for delivering his
+district's tribute but delegated internal apportionment to local kings, dynasts, and cities,
+intervening only when they evaded; assessment rested on cadastres and sealed land-registers
+(*basilikai graphai* at Sardis). Briant stresses that the fourth century saw **more** territorialization,
+not less: Caria, Cilicia, and Lycia were "satrapized" more thoroughly than before (the Xanthus
+trilingual shows Lycia folded into Caria), and Artaxerxes III installed the first Persian satrap of
+Caria, Orontobates — evidence of tightening, not loosening, control.
 
 ## Related
 

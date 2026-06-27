@@ -9,8 +9,8 @@ affiliated_with: [the [[achaemenid-empire|Achaemenid empire]], his generals Mard
 opposed_by: [the Greek League (Sparta, Athens, Corinth, Aegina), the Spartan kings Leonidas and Pausanias, Themistocles]
 key_events: [the suppression of the Egyptian and Babylonian revolts, the bridging of the Hellespont and Athos canal, the invasion of Greece (480), Thermopylae, the sack of Athens, [[battle-of-salamis-480bce|Salamis]], the retreat]
 key_processes: [Achaemenid imperial mobilization, the Greco-Persian wars, the politics of the king's western frontier]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, iran-plateau]
 ---
 
@@ -67,6 +67,24 @@ with the season closing and the Greek fleet intact threatening the Hellespont br
   Athens, the Delian League, and the whole subsequent course of European history.
 - The **scale and failure** of his expedition made him, for the Greek tradition (Aeschylus'
   *Persae*), the archetype of the despot punished for *hubris*.
+
+## Briant: against the "decline begins with Xerxes" thesis
+
+[[sources/briant-from-cyrus-to-alexander-2002|Briant]] rejects the durable image (from Rawlinson
+onward, ultimately rooted in Plato) of Xerxes as weak and licentious — the start of Achaemenid
+decadence — as a Hellenocentric construct. His policy "does not appear fundamentally different from
+his father's": the Greek expedition continued Darius's unfinished objectives, and the defeats at
+Salamis, Plataea, and Mycale were **temporary setbacks, not catastrophe** — the army remained
+largely intact, mainland Asia Minor stayed Persian, and royal propaganda presented the sack of
+Athens and death of Leonidas as victories. Briant rejects the alleged "satrapization" of Babylonia
+and Egypt: Babylonian royal titles persisted to 441 and Xerxes is still "Lord of the Double Country"
+in Egyptian inscriptions of 476–474; the Marduk-temple-destruction charge is later Alexander-era
+propaganda. After Salamis Xerxes made a **deliberate strategic division** of forces (Mardonius in
+Greece, himself to Sardis to manage the navy and Asia Minor), systematically reinforced the Anatolian
+coast, and won collaborators including Themistocles — not a panicked flight. His one distinctive
+ideological statement, the *daiva* inscription (XPh), is deliberately vague and should be read as
+[[achaemenid-royal-ideology|ideological assertion]], not datable narrative; he was assassinated in
+August 465 in a palace conspiracy led by Artabanus.
 
 ## Historiography
 

@@ -9,8 +9,8 @@ affiliated_with: [[[achaemenid-empire]], the Persians, Anšan]
 opposed_by: [the Medes, Lydia (Croesus), [[neo-babylonian-empire|Babylon]] (Nabonidus), the Massagetae]
 key_events: [defeat of the Medes 550 BCE, conquest of Lydia, conquest of Babylon 539 BCE]
 key_processes: [[[empire]], [[state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, archaic-period, iran-plateau]
 ---
 
@@ -55,6 +55,24 @@ Cyrus was killed in 530 BCE campaigning in Central Asia against the **Massagetae
 whose queen (per [[herodotus|Herodotus]]) refused his marriage overture, defeated his
 army, and killed him — an early instance of the [[pastoral-nomadism|steppe-nomad]]
 limit on imperial expansion.
+
+## Briant's Revisionist Reading
+
+[[sources/briant-from-cyrus-to-alexander-2002|Briant]] sharply qualifies the "great
+conciliator" image. The conquests were not the work of a lone strategist: the Nabonidus
+Chronicle shows **Astyages took the offensive**, the Median war lasted years (Cyrus losing
+three of four engagements), and Babylon fell after protracted hostilities, not a sudden
+masterstroke. Sparing Astyages, Croesus, and Nabonidus was **calculated policy** to win
+ruling-class cooperation, not evidence of mercy; cultivating sanctuaries (Babylon's Marduk,
+the Jewish "return," Anatolian Apollo) was multi-audience propaganda. The
+**[[cyrus-cylinder|Cylinder]] is modelled on Assurbanipal's inscriptions**, and the Jewish
+return was "a banal and typical" Near Eastern restoration, not a special relationship.
+Crucially, the "I am Cyrus … an Achaemenian" inscriptions at [[pasargadae|Pasargadae]] are
+almost certainly **forgeries by [[darius-i|Darius]]**, retrofitting Cyrus as dynastic
+ancestor — so even the [[achaemenid-royal-ideology|Achaemenid]] name attached to Cyrus is
+later construction. The satrapal, tribute, and military land-tenure systems already existed
+under Cyrus and Cambyses; Darius's innovation was fixing amounts, not inventing the
+[[achaemenid-tribute-economy|institutions]].
 
 ## Historiography
 

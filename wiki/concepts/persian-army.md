@@ -5,8 +5,8 @@ origin: Achaemenid Empire (6th–4th centuries BCE); analyzed in contrast to Gre
 applies_to_periods: [archaic-period, classical-antiquity]
 applies_to_regions: [near-east, anatolia, aegean, central-asia]
 contested: yes (scale of forces; character as feudal/professional vs. mass levy)
-sources_ingested: [1]
-last_updated: 2026-06-24
+sources_ingested: [2]
+last_updated: 2026-06-27
 tags: [concept, classical-antiquity, persian-wars]
 ---
 
@@ -46,6 +46,23 @@ Greek accounts contain a basic contradiction: Persians pictured as gigantic but 
 Nothing forces assumption of Persian numerical superiority at Marathon and Plataea; it is possible, probable, and in Delbrück's view certain that the Greeks were stronger. The victory of citizen armies over the professional army has been distorted in Greek legend into victory of a small minority over a gigantic majority—a national psychological aberration that recurs (explicit parallel drawn to Burgundian Wars, where muster rolls disprove the "many hundreds of thousands").
 
 Even the men levied from shepherds and peasants for a large war such as Xerxes' were not a popular levy but the more warlike elements. Greek citizen levies (except Spartans) lacked strong military tradition.
+
+## Briant: the fourth-century army and the "mercenary-dependence" myth
+
+[[sources/briant-from-cyrus-to-alexander-2002|Briant]] attacks the thesis — traced to Ephorus via
+Diodorus and embedded in Panhellenist discourse — that the later Great Kings were militarily
+worthless and dependent on Greek mercenaries. Persian high command **always retained supreme
+authority** over Greek mercenary leaders (Diodorus's own vocabulary: Greeks as *strategos*, Persians
+as *hegemon*). At Issus, [[darius-iii|Darius III]] fielded not only 30,000
+Greek mercenaries but **60,000 Persian "Cardaces"** — trained infantry — together the "Darius
+phalanx." Darius adapted armament to the Macedonian challenge (longer swords and lances, Greek-style
+scabbards) and deployed scythed chariots and elephants at [[battle-of-gaugamela-331bce|Gaugamela]] —
+tactical choices, not signs of stagnation. The Persis heartland in 334 still bred "the most warlike of
+the Persians, every man a bowman and a slinger," and a real territorial army (military colonists,
+diaspora horsemen, land-grant holders) mobilized rapidly at the Granicus. Persian **naval supremacy**
+(c. 400 Cypriot/Phoenician ships) was genuine in 334–332, neutralized only by Alexander's conquest of
+the Phoenician coast. Briant's conclusion: the defeats "must not be considered either proof, or even a
+significant indication, of military disarray."
 
 ## Links
 

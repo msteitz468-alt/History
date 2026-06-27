@@ -9,7 +9,7 @@ affiliated_with: [[[zoroastrianism]], the Persians and Medes]
 opposed_by: [Greek city-states, Scythians, [[alexander-the-great|Macedon]], Egypt (in revolt)]
 key_events: [conquest of Babylon 539 BCE, Greco-Persian Wars 490/480-479 BCE, Battle of Gaugamela 331 BCE]
 key_processes: [[[empire]], [[state-formation]], [[trade-network-formation]]]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-06-27
 tags: [actor, empire, archaic-period, classical-antiquity, iran-plateau]
 ---
@@ -214,6 +214,31 @@ became the political centre, absorbing all the old "centres of the world" into o
 world — partly overcoming the ancient lowland–highland contradiction. See
 [[ancient-near-east-historiography]].
 
+## Briant: structure, the "decline" myth, and a contingent fall
+
+[[sources/briant-from-cyrus-to-alexander-2002|Briant]]'s synthesis recentres the empire on its
+own machinery. Its engine was the **[[achaemenid-tribute-economy|tribute economy]]** and the
+**[[achaemenid-kings-men|gift economy of the "Faithful"]]** — unequal reciprocity binding the
+Persian aristocracy personally to the king — sustained by a road, courier, and warehouse network
+and legible in the **[[persepolis|Persepolis]] archives**. The [[achaemenid-satrapy|satrapal]]
+system, tribute, and military land-tenure all **predate Darius**, who fixed amounts rather than
+inventing institutions. Command and policy posts were reserved for Persians; local elites served
+as auxiliaries, never co-wielders of power — "the Empire of the Great King was a Persian Empire,"
+held together by an [[achaemenid-royal-ideology|ideology of the King]].
+
+Against the Hellenocentric "decline" narrative, Briant insists the fourth-century empire was
+**structurally sound and wealthy**: a satrapy-by-satrapy survey (Ch. 16) shows dense Persian
+settlement, continuous Babylonian administration, and active garrisons; [[artaxerxes-iii|
+Artaxerxes III]] reconquered Egypt on the eve of Macedon. The "vampirization/hoarding" thesis is
+rejected — much tribute stayed in satrapal treasuries, coinage existed (Cilician, Phoenician,
+Judean issues) alongside weighed silver, and the state invested productively (qanat usufruct,
+birth incentives). The fall under [[darius-iii|Darius III]] was therefore **contingent** —
+battlefield defeat plus calculated aristocratic defection — not collapse from within. Its deep
+vulnerability was that it had "an ideology of the King but not an ideology of the Empire": no
+common identity to mobilize subjects once the king was beaten, which is why
+[[alexander-the-great|Alexander]] — "the last of the Achaemenids" — could take it over by
+reproducing its gift-for-service relations whole.
+
 ## Historiography
 
 Long captive to **hostile Greek sources** ([[herodotus-reliability|Herodotus]], Xenophon,
@@ -227,4 +252,4 @@ comparative imperiology in [[empire]].
 - Greek wars: [[ionian-revolt-499bce]] · [[battle-of-marathon-490bce]] · [[thrace]] (Skudra) · [[isonomia]] · source-critique: [[herodotus-reliability]]
 - Fourth century: [[achaemenid-satrapy]] · [[artaxerxes-ii]] · [[cyrus-the-younger]] · [[march-of-the-ten-thousand-401bce]]
 - Sources: [[benjamin-cwh-v4-2015]] (Daryaee, Ch. 10) · [[boardman-cah-v4-1988]]
-  (Chs. 3c–3d eastern satrapies; Chs. 6, 8, 9 the Greek wars; Chs. 1–2, 3a missing from scan) · [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 3, Hornblower) · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]]
+  (Chs. 3c–3d eastern satrapies; Chs. 6, 8, 9 the Greek wars; Chs. 1–2, 3a missing from scan) · [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 3, Hornblower) · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]] · [[sources/briant-from-cyrus-to-alexander-2002|Briant, From Cyrus to Alexander (2002)]]

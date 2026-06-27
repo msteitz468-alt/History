@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [[darius-i]]
 key_events: ["usurpation after Cambyses II", "suppression by Darius I (Behistun inscription)"]
 key_processes: ["Magian revolution and religious suppression"]
-sources_ingested: 1
-last_updated: 2026-06-23
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, archaic-period, iran-plateau]
 ---
 
@@ -33,6 +33,19 @@ Linked to [[darius-i]] (victor and recorder); Cambyses (predecessor and victim);
 ## Historiography
 The 19th-c. vocabulary draws directly on Col. I passages for the double-accusative construction and the religious restoration narrative (e.g., "Gaumdta hya Magush ddind Kabujiyam utd Pdrsani utd Mddam"; "Ayad(a)na tytl Gaumrita hya Magnsh viyaka..."). The author connects the episode to the later Magophonia feast and Zoroastrian reverence for Darius as religious reformer. Median transcript treats related terms (arika) as proper names. The edition contrasts the inscription repeatedly with classical sources while preserving core elements.
 
+## Briant's Reinterpretation [CONTRADICTION]
+
+[[sources/briant-from-cyrus-to-alexander-2002|Briant]] inverts the Behistun narrative summarized
+above, treating it as **Darius's propaganda**. His preferred reconstruction: "Bardiya" was the
+true son of [[cyrus-the-great|Cyrus]] who rose in Persia in March 522 and claimed the throne
+legitimately as sole surviving male heir after [[cambyses|Cambyses']] death; Darius invented
+"Gaumata the Magian" to **transform a legal claimant into a usurper**. Babylonian tablets dated him
+"king of Babylon, king of the lands" from April 522 — real provincial legitimacy undercutting the
+"usurper" label. His three-year tax remission is read not as demagogy but as a strategic response to
+the fiscal strain of the Egyptian expedition (anticipating Darius's own [[achaemenid-tribute-economy|
+tribute reform]]); the alleged "confiscations" were revocations of conditional grants from
+conspiring nobles. This is a live scholarly dispute — see also [[darius-i]].
+
 ## Related pages
 
-[[darius-i]] · [[behistun-inscription]] · [[achaemenid-empire]] · [[archaic-period]] · [[behistun]]
+[[darius-i]] · [[behistun-inscription]] · [[achaemenid-empire]] · [[archaic-period]] · [[cambyses]] · [[cyrus-the-great]]
