@@ -9,8 +9,8 @@ affiliated_with: [[[hebrew-kingdom|united monarchy of Israel]], [[phoenicians|Ty
 opposed_by: [[[arameans|Aram-Damascus]] (Rezon), Edom (Hadad), internal dissent (Jeroboam)]
 key_events: [the building of the Temple, the twelve-district reorganization, the Ophir trade]
 key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, early-iron-age, levant]
 ---
 
@@ -95,6 +95,25 @@ administrative and architectural core while flagging the folkloric overlay; the
 [[david|David]], later scholarship debates how grand the historical reign really was
 given limited archaeology; the collection reflects the confident mid-century
 reconstruction.
+
+## Dever (2017): the archaeological Solomon
+
+[[sources/dever-beyond-the-texts-2017|Dever (2017)]] defends a real but modest Solomonic
+horizon while rating the grand biblical Solomon "disproven." Central is the **six-chambered
+gate and casemate-wall complex** at Hazor X, Megiddo VA/IVB, and Gezer VIII, dated to the
+mid-tenth century "on the basis of the fundamental tools of archaeology: meticulous
+stratigraphy and comparative ceramic typology — not... a literalistic reading of 1 Kgs
+9:15–17" — against [[controversies/historicity-of-the-united-monarchy|Finkelstein's Low
+Chronology]]. The Gezer cartouche in the **[[shoshenq-campaign-925bce|Shoshenq list]]** fixes
+a destruction c. 920, near Solomon's death. The Jerusalem temple's **tripartite long-room
+plan** has close Levantine parallels (the ninth-century temple at Tell Ta'yinat
+([[unqi-pattin|Unqi]]) and 'Ain Dara' in north Syria, sharing twin entrance columns, cella,
+cherubs, and floral decoration): *"it is no longer possible to declare the biblical
+description fantastic."* New economic datum: state-scale **copper working at Khirbet en-Nahas
+(Wadi Feinan)** with tenth–ninth-century C-14 dates (Levy) — in Edom, so any Judahite link is
+speculative. The "empire to the Euphrates," 1,400 chariots, and 700 wives are legend: "there
+is none" of supporting evidence. See
+[[controversies/historicity-of-the-united-monarchy|the United Monarchy controversy]].
 
 ## See Also
 

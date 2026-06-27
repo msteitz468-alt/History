@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[kingdom-of-israel|Israel]]'s revolt against Assyrian vassalage, reliance on Egyptian help, [[tiglath-pileser-iii|Tiglath-pileser III]]'s prior subjugation of the Levant]
 consequences: [the end of the northern [[kingdom-of-israel|Kingdom of Israel]], the [[assyrian-mass-deportation|deportation of its population]] (the "ten lost tribes"), the resettlement of foreigners (origin of the Samaritans), [[kingdom-of-judah|Judah]] left as the sole Hebrew kingdom]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, archaic-period, levant]
 ---
 
@@ -82,6 +82,22 @@ problem, turning on the contradiction between the Babylonian Chronicle (Shalmane
 and Sargon's boastful annals; CAH III.2 sides with Shalmaneser for the capture,
 Sargon for the deportation. The event is exceptionally well anchored by the
 convergence of Assyrian records and II Kings.
+
+## Dever (2017): a "floating" destruction and conquest by other proxies
+
+[[sources/dever-beyond-the-texts-2017|Dever (2017)]] complicates the neat 722/721 destruction
+horizon. Ron **Tappy's** ~900-page reanalysis of Kenyon's Samaria records finds her dating
+"precisely to 722/721 not credible" — no site-wide destruction blanket, the relevant pottery
+"astonishingly slight" and best placed across "the last quarter of the eighth and the early
+seventh century," a *floating* rather than fixed level. Across the north only **Hazor VA**
+shows an unambiguous fiery destruction (~1 m of ash); Megiddo IVA shows Assyrian *presence*
+but no clear destruction layer; Dan, Shechem, and Gezer show varied burning (the Nimrud
+tablet even sketches "the siege of Gezer"). Dever's verdict: the **best proof of conquest is
+not destruction debris but the post-conquest Assyrian footprint** — three new provinces
+(Megiddo, Samarina, Dor), Assyrian-style palaces (Hazor III, Megiddo III), Assyrian Palace
+ware, and cuneiform documents (Samaria, Gezer, Hadid — bearing Aramaean and Babylonian, not
+Hebrew, names). Sargon II's claimed **27,290 deportees** Dever treats as an upper bound
+(~10% of the region) that "may have been... only a few thousand."
 
 ## Related
 

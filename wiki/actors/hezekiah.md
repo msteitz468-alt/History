@@ -9,8 +9,8 @@ affiliated_with: [the [[kingdom-of-judah|kingdom of Judah]], the Davidic dynasty
 opposed_by: [[[sennacherib|Sennacherib]] and [[neo-assyrian-empire|Assyria]], the Philistine and Transjordanian vassals]
 key_events: [the religious reform and Temple reopening, the Siloam tunnel, the revolt against Assyria, [[sennacherib-siege-jerusalem-701bce|Sennacherib's siege of Jerusalem (701)]]]
 key_processes: [religious centralization, [[assyrian-mass-deportation|Assyrian deportation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, archaic-period, levant]
 ---
 
@@ -96,6 +96,22 @@ and the bullae of his officials (Eliakim, Shebna). The central unresolved questi
 the **chronology** (the date of his accession and of the 701 events) and **whether the
 Bible conflates two Assyrian campaigns**; Mitchell follows a single 701 campaign. See
 [[neo-assyrian-empire]] and [[assyrian-mass-deportation]] for the Assyrian side.
+
+## Dever (2017): preparing Jerusalem for the Assyrian siege
+
+[[sources/dever-beyond-the-texts-2017|Dever (2017)]] reads Hezekiah's reign through the
+material correlates of the 701 crisis. After the **fall of Samaria (721)**, Jerusalem swelled
+from ~15 to ~150 acres (population ~8,000 → ~30,000), absorbing northern refugees (Avigad's
+Jewish Quarter excavations: new fortifications, terracing, dense unplanned housing, official
+bullae, and Lachish III–type lmlk handles). Three siege-preparation works converge: the
+**Broad Wall** (Avigad's 23-ft-thick, 700-yard wall); the **Siloam Tunnel** — a 580-yard
+bedrock conduit from the Gihon Spring whose **Siloam inscription** records the two crews
+meeting by following "the sound of the workers' picks," "our only intact Israelite or
+Judahite royal inscription"; and the **lmlk store-jar system** (the four place-names — Hebron,
+Socoh, Ziph, mmšt/Jerusalem — provisioning the kingdom against Assyria; Na'aman ties them
+specifically to Hezekiah). A seal impression reads *"(Belonging to) Hezekiah (son of) Ahaz,
+king of Judah"* — one of only two Judahite kings then attested externally. See
+[[sennacherib-siege-jerusalem-701bce|Sennacherib's 701 campaign]] and [[lachish|Lachish]].
 
 ## Related
 

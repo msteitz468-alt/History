@@ -9,8 +9,8 @@ affiliated_with: [[[phoenicians|Tyre]] (the Hiram alliance)]
 opposed_by: [[[philistines|Philistines]], [[arameans|Aramaeans]], Moab, Ammon, Edom, Amalek]
 key_events: [the choice of a king, David's conquests, Solomon's temple, the division of the kingdom]
 key_processes: [[[bronze-age-collapse-1200bce|the early Iron Age settlement of Canaan]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, levant]
 ---
 
@@ -130,6 +130,24 @@ highland-survey archaeology (Finkelstein and others) that reframed Israelite ori
 as largely **indigenous** rather than invasive (see [[the-exodus|the Exodus]]). The
 collection is strong on the biblical text and on Albright-school archaeology but thin
 on the post-1980 revisionism.
+
+## Dever (2017): an "early inchoate state"
+
+[[sources/dever-beyond-the-texts-2017|Dever (2017)]] supplements the older CAH narrative with
+post-1990s highland-survey archaeology. By his criteria "by the tenth century Judah, and
+probably Israel, had indeed reached a state level of organization" — an **"early inchoate
+state"** (Claessen–Skalník), not the biblical empire. Population of Israel west of the Jordan
+rose c. 25,000 (12th c.) → 50,000 (11th c.) → ~100,000 (10th c.), with Judah ~50,000 (Ofer);
+~90% rural. A **settlement hierarchy** of ~11 tier-1 cities (Hazor X, Megiddo VA/IVB, Gezer
+VIII, Jerusalem 14, Shechem X, etc.), tier-2 towns, and a tier-6 fort network (Negev forts,
+[[controversies/historicity-of-the-united-monarchy|Khirbet Qeiyafa]], Tell el-Ful) emerges by
+the tenth century. The **[[shoshenq-campaign-925bce|Shoshenq raid]]** (c. 920) "makes no
+sense if... directed merely at... highland villages. The objective must have been a
+well-established polity" — a fixed terminus ante quem. Dever stresses that "united monarchy"
+"never occurs in the Hebrew Bible"; the real question is whether a centralized polity existed,
+to which archaeology answers yes. The earlier **[[controversies/emergence-of-early-israel|
+emergence of Israel]]** he reads as indigenous Canaanite "agrarian reform," not conquest or
+exodus.
 
 ## See Also
 

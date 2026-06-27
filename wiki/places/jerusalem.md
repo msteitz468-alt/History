@@ -7,8 +7,8 @@ period_active: [Middle Bronze Age, Late Bronze Age, Early Iron Age, Archaic Peri
 controlled_by: [Jebusites, Kingdom of Israel/Judah, Babylon, Persia, Rome, Byzantium, Caliphates, Crusader states]
 events_here: []
 processes_here: [[[urbanization]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [place, levant, near-east]
 ---
 
@@ -59,6 +59,20 @@ grand 10th-century BCE "City of David" is debated (minimalist vs maximalist
 readings); stratigraphy is constrained by continuous occupation and sacred
 access. The city is a standing example of how **memory and ideology shape**
 the interpretation of an early city.
+
+## Dever (2017): tenth-century Jerusalem
+
+[[sources/dever-beyond-the-texts-2017|Dever (2017)]] gives the centrist reading of the
+"exceptionally contested" early city: probably **5–25 acres, population ~1,000–3,000** in the
+tenth century — modest, but the capital of an emerging state. Jane Cahill's ceramic analysis
+dates the underlying fills of the **Stepped Stone Structure** to Iron I (twelfth century),
+with reuse in the monarchy; Eilat Mazar's adjoining **Large Stone Structure** ("Citadel of
+David") yields some tenth-century forms. Finkelstein's ninth–eighth-century redating Dever
+calls "arguments from silence": *"The absence of evidence is not evidence of absence. Neither
+is skepticism a method."* Tenth-century pottery (cooking pots with long flat flanged rims)
+appears across Avigad's and Shiloh's excavations, attesting occupation beyond the Temple
+Mount. The maximalist–minimalist clash here is the heart of
+[[controversies/historicity-of-the-united-monarchy|the United Monarchy controversy]].
 
 ## Related
 

@@ -9,8 +9,8 @@ affiliated_with: [the Davidic dynasty, Jerusalem and its Temple, at times [[king
 opposed_by: [[[kingdom-of-israel|Israel]] (intermittently), [[hazael|Aram-Damascus]], Edom, [[neo-assyrian-empire|Assyria]], [[neo-babylonian-empire|Babylon]]]
 key_events: [[[shoshenq-campaign-925bce|Shoshenq I's campaign (925)]], the usurpation of Athaliah, the Syro-Ephraimite War, [[sennacherib-siege-jerusalem-701bce|Sennacherib's siege (701)]], Josiah's reform, the [[fall-of-jerusalem-587bce|fall of Jerusalem (587)]]]
 key_processes: [[[state-formation]], dynastic continuity, Assyrian and Babylonian imperial expansion, the [[babylonian-exile|Babylonian Exile]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, levant]
 ---
 
@@ -113,6 +113,23 @@ Ahaz by Tiglath-pileser III, 732). The **chronology** rests on E. R. Thiele's
 reconstruction of the Kings synchronisms (with co-regencies and two regnal-dating
 systems), the framework Mitchell adopts. The collection is strong on the biblical text
 and Albright-school archaeology.
+
+## Dever (2017): the eighth–seventh-century state
+
+[[sources/dever-beyond-the-texts-2017|Dever (2017)]] documents Judah's maturation through its
+administrative archaeology. Eighth-century population peaked at ~137,000 (307 sites), nearly
+half in the Shephelah, ~90% rural. The **lmlk** ("belonging to the king") system — ~1,700
+stamped four-handled store jars from 70+ sites (densest at [[lachish|Lachish]] 407, Jerusalem
+275+, Ramat Rahel 160), petrographically made in one Shephelah workshop — marks royal
+provisioning for the Assyrian invasions (see [[hezekiah|Hezekiah]]). A standardized
+**Judahite sheqel weight system** (~11.33 g standard, ~350 weights, mostly post-721) implies
+"the regulation of commerce by a centralized government," and Kletter uses the weights to map
+Judah's borders. **Judean pillar-base figurines** (hundreds, confined to Judah, late 8th–early
+6th c.) are now widely read as **Asherah** images. After 701 the Shephelah was gutted, but —
+Faust argues — Judah's **maximum population and prosperity actually came in the seventh
+century**: "The gloomy description of that period is a result mainly of our biased
+perspective." The Jerusalem **House of the Bullae** (51 sealings, incl. "Gemariah son of
+Shaphan," a scribe of Josiah's reign) ties epigraphy to the late-monarchy narrative.
 
 ## Related
 

@@ -7,9 +7,9 @@ date_range: "1,200–800 BCE (regionally diachronous)"
 regions_covered: [near-east, levant, anatolia, mesopotamia, iran-plateau, mediterranean, iberia, china, south-asia, north-africa, sub-saharan-africa, mesoamerica]
 major_themes: ["aftermath of the Bronze Age Collapse", "iron metallurgy", "Neo-Assyrian resurgence", "Phoenician expansion", "the Greek 'Dark Age'", "Western Zhou and its fall", "Vedic age", "alphabetic writing", "small states and tribal polities"]
 collection_coverage: moderate
-sources_ingested: 8
+sources_ingested: 9
 last_updated: 2026-06-27
-tags: [period, bogucki-crabtree-ancient-europe-2004, bryce-world-neo-hittite-kingdoms-2012]
+tags: [period, bogucki-crabtree-ancient-europe-2004, bryce-world-neo-hittite-kingdoms-2012, dever-beyond-the-texts-2017]
 ---
 
 ## Overview
@@ -264,3 +264,18 @@ tribute, the [[battle-of-qarqar-853bce|coalition at Qarqar (853)]], and finally
 [[biblical-hittites|The Biblical Hittites]]). This corrects the period's "small states and
 tribal polities" theme for the northern Levant, where literate, monumentally-building
 kingdoms persisted.
+
+**Israel and Judah, archaeology-first (Dever 2017):** Further south, the same period saw the
+emergence of [[kingdom-of-israel|Israel]] and [[kingdom-of-judah|Judah]].
+[[sources/dever-beyond-the-texts-2017|Dever's *Beyond the Texts* (2017)]] writes their history
+**from the material record rather than the Hebrew Bible** (a late, tendentious source), via a
+secular [[biblical-archaeology|Syro-Palestinian archaeology]]. His picture: an indigenous
+Canaanite **highland-village explosion** in Iron I (the
+[[controversies/emergence-of-early-israel|emergence of Israel]] as "agrarian reform," not
+conquest or exodus; Merneptah's "Israel" c. 1207), a **real but modest tenth-century state**
+(the [[controversies/historicity-of-the-united-monarchy|United Monarchy debate]] — six-chambered
+gates, Khirbet Qeiyafa, the Tel Dan "house of David" stele, against Finkelstein's Low
+Chronology), the **[[omride-dynasty|Omride]]** north as the first fully visible polity, and
+the eighth–seventh-century maturation of Judah down to [[sennacherib-siege-jerusalem-701bce|
+Sennacherib's 701 campaign]] and the destruction of [[lachish|Lachish]]. This sharply
+distinguishes the archaeologically attested Iron Age Levant from the biblical narrative.

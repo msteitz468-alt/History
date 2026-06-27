@@ -9,7 +9,7 @@ affiliated_with: [[[phoenicians|Tyre]] (the Omride–Jezebel alliance), at times
 opposed_by: [[[hazael|Aram-Damascus]], [[neo-assyrian-empire|Assyria]], Moab, [[kingdom-of-judah|Judah]] (intermittently)]
 key_events: [[[shoshenq-campaign-925bce|Shoshenq I's campaign (925)]], the founding of Samaria, the [[battle-of-qarqar-853bce|battle of Qarqar (853)]], the [[jehu-revolt-841bce|revolt of Jehu (841)]], the fall of Samaria (722)]
 key_processes: [[[state-formation]], dynastic instability, Assyrian imperial expansion]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, levant]
 ---
@@ -148,6 +148,24 @@ is a history far better anchored than the united monarchy's, since from 853 onwa
 external dates fix the chronology. See [[battle-of-qarqar-853bce]] for the keystone
 synchronism. The collection is strong on text and Albright-school archaeology, thinner
 on later survey archaeology.
+
+## Dever (2017): emergence and the archaeology of the northern state
+
+[[sources/dever-beyond-the-texts-2017|Dever (2017)]] grounds Israel's origins in the **Iron I
+highland-village explosion** — central-hill survey sites multiplying from <30 (Late Bronze)
+to ~218 (Iron I), the population rising to ~30,000–40,000 by the eleventh century in small,
+unfortified, *de novo* hilltop villages with terraces and the four-room/pillared house. He
+reads this not as conquest or exodus but as indigenous Canaanite **"agrarian reform"** ("local
+land-hungry peasants and outcasts — not imaginary pastoralists"), with unbroken Iron I→Iron II
+ceramic and architectural continuity proving the highland villagers were the ancestors of
+monarchic Israel (see [[controversies/emergence-of-early-israel|the Emergence controversy]]).
+**Merneptah's stele** (c. 1207) names an "Israel" already in Canaan, written with the
+determinative for a *people*, not a state. For the northern kingdom proper, Dever's
+archaeology of the **[[omride-dynasty|Omride]]** capital at Samaria and fortress at Jezreel,
+plus the external [[battle-of-qarqar-853bce|Qarqar]], Tel Dan, Mesha, and Black Obelisk
+witnesses, make ninth-century Israel the most powerful Levantine state of its day — even as
+its conquest is best read from the Assyrian provincial footprint rather than a clean 722
+destruction layer (see [[fall-of-samaria-722bce|Fall of Samaria]]).
 
 ## Related
 

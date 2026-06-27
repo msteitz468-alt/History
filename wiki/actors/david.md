@@ -9,8 +9,8 @@ affiliated_with: [[[hebrew-kingdom|united monarchy of Israel]], [[phoenicians|Ty
 opposed_by: [[[philistines|Philistines]], [[arameans|Aram-Zobah and Aram-Damascus]], Moab, Ammon, Edom]
 key_events: [the capture of Jerusalem, the defeat of the Philistines, the conquest of the Aramaean states]
 key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, early-iron-age, levant]
 ---
 
@@ -88,6 +88,22 @@ Modern debate ranges from acceptance of a modest historical David (supported by 
 9th-century **Tel Dan "House of David" inscription**, found after this volume) to
 minimalist doubt about the scale of his "empire," for which archaeology is thin. CAH
 II.2 represents the confident Albright-era middle position.
+
+## Dever (2017): the archaeological David
+
+[[sources/dever-beyond-the-texts-2017|Dever's *Beyond the Texts* (2017)]] anchors David's
+historicity in the **[[controversies/historicity-of-the-united-monarchy|Tel Dan stele]]** (c.
+841 BCE, Hazael of Damascus), which names *bêt-dāwîd*, "the house of David": *"There was a
+historical David, and he was the founder of a dynasty well known to his neighbors."* He also
+notes the contested possible reading of "David" on the Mesha stele. But Dever rates the
+biblical **empire** disproven — *"The victories claimed over the city-states of Syria and
+virtually all the tribal kingdoms of Transjordan are not credible, nor is there any
+archaeological support for them."* David's capture of Jerusalem and use of it as a modest
+capital is "unproven but possible"; **Khirbet Qeiyafa** (Stratum IV, C-14 1012–967 BCE), a
+fortified border town requiring central authority, sits in the Saul–early-David horizon but
+cannot be assigned to either by archaeology. Dever down-dates the active reign to **c.
+980–950 BCE** (the biblical regnal years being "round numbers"). See
+[[controversies/historicity-of-the-united-monarchy|Historicity of the United Monarchy]].
 
 ## See Also
 

@@ -9,8 +9,8 @@ affiliated_with: [[[kingdom-of-israel|Israel]], [[phoenicians|Tyre]] (Jezebel ma
 opposed_by: [[[hazael|Aram-Damascus]], [[neo-assyrian-empire|Assyria]], Moab (Mesha's revolt), the Yahwist prophetic movement]
 key_events: [the founding of Samaria, the [[battle-of-qarqar-853bce|battle of Qarqar (853)]], Mesha's revolt, the [[jehu-revolt-841bce|revolt of Jehu (841)]]]
 key_processes: [[[state-formation]], Phoenician cultural influence, dynastic state-building]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, dynasty, early-iron-age, levant]
 ---
 
@@ -82,6 +82,26 @@ Mitchell reads the biblical narrative critically, noting its "tendentious editin
 while using the contemporary inscriptions to recover the dynasty's real power. This
 text-versus-archaeology tension is the central historiographical theme of the Hebrew-
 kingdoms chapters (see [[kingdom-of-israel]]).
+
+## Dever (2017): the archaeology of the Omride state
+
+[[sources/dever-beyond-the-texts-2017|Dever (2017)]] makes the Omrides the clearest case of
+"the gap between the biblical verdict and the external evidence" — damned in Kings, yet
+archaeologically and epigraphically the strongest polity of their era. The **Samaria**
+acropolis shows two phases: **Omri's** palace in the finest pre-Roman ashlar masonry in the
+country ("of Phoenician style"), with Proto-Aeolic capitals; **Ahab's** expansion behind a
+16-ft casemate wall, the "Ostraca House," and the **Ivory House** (the Phoenician-style
+**Samaria ivories**, found in the Assyrian destruction debris but ninth-century in origin).
+The **102 Samaria ostraca** record oil and wine shipments to a royal storehouse — "a
+centralized administration, a palace economy, a landed gentry." **Jezreel** ("by far the most
+impressive ninth-century fort... in the north or the south"), ~11 acres with casemate wall,
+corner towers, and a rock-cut dry moat, is a royal military base. External attestation: Ahab's
+2,000 chariots at the **[[battle-of-qarqar-853bce|battle of Qarqar (853)]]**; the **[[david|
+Tel Dan stele]]** (Hazael's killing of Joram of Israel and Ahaziah of Judah — contradicting
+the Bible's attribution to Jehu, and naming the "house of David"); **Jehu's** tribute on
+Shalmaneser III's Black Obelisk (841); and the **Mesha stele**, which names Omri but whose
+claims of Israelite rule over Moab Dever calls "largely political propaganda," since
+Transjordan shows no ninth-century destructions.
 
 ## Related
 

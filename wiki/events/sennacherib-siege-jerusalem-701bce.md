@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [Hezekiah's revolt against Assyrian vassalage, alliance with Egypt/Kush and [[neo-babylonian-empire|Merodach-baladan]]]
 consequences: [the devastation of Judah but the survival of Jerusalem, a huge tribute, the [[kingdom-of-judah|Davidic dynasty]]'s continuation, the theology of Zion's inviolability]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, archaic-period, levant]
 ---
 
@@ -75,6 +75,21 @@ picked men"). Others read the deliverance as a gloss on the tribute. Herodotus p
 a rationalizing variant (mice gnawing the Assyrian bowstrings). The debate is a model
 case of reconciling royal annals with a hostile foreign source. See [[hezekiah]] for
 the Judaean preparations (the Siloam tunnel, the *lmlk* jars, the walls).
+
+## Dever (2017): forty-six cities, a dozen destructions
+
+[[sources/dever-beyond-the-texts-2017|Dever (2017)]] tests Sennacherib's annals against the
+ground. The king claims to have taken "forty-six of his strong walled cities... 200,150
+people... I counted as spoil," but Dever: "Sennacherib's claim... is greatly exaggerated.
+There cannot have been any such number of fortified sites in the whole of Judah. Here we have
+been able to cite no more than a dozen or so late eighth-century destructions" — concentrated
+in the Shephelah ([[lachish|Lachish]] III, Beersheba II, Beth-Shemesh, Tell Beit Mirsim, Tel
+'Eton, Tel 'Erani), while Jerusalem, Tell en-Nasbeh, Gibeon and others were spared. The
+**[[lachish|fall of Lachish]]** — its 19,000-ton siege ramp, the Nineveh reliefs, and mass
+graves of ~1,500 — is the campaign's dominant archaeological fact. Jerusalem survived through
+Hezekiah's preparations (Siloam Tunnel, Broad Wall, lmlk provisioning) and tribute. Faust's
+revisionist coda: the seventh century, "in the aftermath of the supposed disaster," was
+actually Judah's demographic and economic peak.
 
 ## Related
 
