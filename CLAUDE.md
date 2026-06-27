@@ -11,8 +11,20 @@ and bookkeeping.
 Working environment: Obsidian. All wiki files are markdown. Sources live in the
 collection directory. The wiki lives in `wiki/`. Never modify source files.
 
-The ingestion sequence is defined in `Processing List.md`. Follow phase order.
-The gap analysis and sourcing roadmap is in `Outstanding Sources.md`.
+The ingestion sequence, sourcing priorities, and gap analysis are defined in `Top_100_Structural_Sources.md` (the sole active list).
+
+---
+
+## Task-Observer Activation (mandatory)
+
+At the start of any task-oriented session — any ingest, lint pass, query, or
+other interaction where you will use tools and produce deliverables — invoke the
+`task-observer` (`one-skill-to-rule-them-all`) skill **before** reading source
+content or beginning work. This captures skill-improvement observations
+throughout the session and runs the session-start protocol (weekly-review
+check, observation log). When loading any skill, also check the observation log
+at `skill-observations/log.md` for OPEN observations relevant to the work and
+apply their insight even if the skill file has not yet been updated.
 
 ---
 
@@ -576,10 +588,10 @@ Run, and fix until clean:
 
 After reconciliation and lint, before/with the commit:
 
-1. **Update `Outstanding Sources.md`** (repo root): if the ingested source is a line item there,
-   change its status marker to ✅ (or 🟡 for partial multi-volume) and update the note. This keeps the
-   sourcing roadmap honest about what is now in the collection.
-2. **File the source** into the appropriate `raw/` subfolder (matching the Processing List / existing
+1. **Update `Top_100_Structural_Sources.md`** (repo root): if the ingested source is a line item there,
+   mark it as ingested (e.g. append ✅ or change status) and update any note. This keeps the sourcing
+   roadmap honest about what is now in the collection.
+2. **File the source** into the appropriate `raw/` subfolder (matching the existing directory
    structure — numbered era folders like `4. Modern Times`, or underscore-prefixed grouping folders
    like `_africa-cha` for a multi-volume set). Move the ingested text file (`.md`/`.txt`) **and** its
    original (`.pdf`/`.epub`) out of `raw/` root into that folder, so `raw/` root only ever holds the
@@ -596,7 +608,7 @@ After reconciliation and lint, before/with the commit:
 
 ## Ingest Workflow — Standard (books under ~400 pages)
 
-For each source in Processing List.md that is under approximately 400 pages:
+For each source in `Top_100_Structural_Sources.md` that is under approximately 400 pages:
 
 1. **Identify** source type, period coverage, regional coverage, methodological
    approach.
@@ -614,7 +626,7 @@ For each source in Processing List.md that is under approximately 400 pages:
 6. **Append to `log.md`**:
    `## [YYYY-MM-DD] ingest | [Source Title] | [Period(s)] | [Region(s)] | [Pages created: N] | [Pages updated: N]`
 7. **File the source**: move the source file to its appropriate folder matching
-   the Processing List directory structure. If the source is a PDF, convert it
+   the existing `raw/` directory structure. If the source is a PDF, convert it
    to `.md` first, then delete the PDF. Confirm the `.md` file exists on disk
    before deleting the PDF.
 8. **Commit and push to GitHub**: stage the `wiki/` changes, commit with a
@@ -722,7 +734,7 @@ and index.md in context (not the raw source text):
 
 ### Step 4 — File the Source
 
-Move the source file to its appropriate folder matching the Processing List
+Move the source file to its appropriate folder matching the existing `raw/`
 directory structure. If the source is a PDF, convert it to `.md` first, then
 delete the PDF. Confirm the `.md` file exists on disk before deleting the PDF.
 
@@ -845,7 +857,7 @@ When I ask for a health check, report:
 - Period pages where `collection_coverage` is `weak` or `absent`
 - Detailed biography pages (hubs/biographies/) missing reciprocal link from their `actors/` summary (or vice versa)
 - Orphan detailed bios or summary actors that qualify for depth but lack a detailed page
-- 3–5 sources from Outstanding Sources.md to prioritize next
+- 3–5 sources from `Top_100_Structural_Sources.md` to prioritize next
 - 3–5 analytical questions worth investigating
 
 ---
@@ -1061,10 +1073,10 @@ Prioritize primary-source richness and analytic payoff over volume of sources.
 | High Middle Ages | Strong | European and Islamic good |
 | Late Middle Ages | Strong | European and Mediterranean strong |
 | Early Modern | Moderate | Thin; mostly European |
-| Age of Expansion onward | Absent | Critical gap — see Outstanding Sources |
+| Age of Expansion onward | Absent | Critical gap — see Top_100_Structural_Sources.md |
 | China (all periods) | Moderate–Strong | Literary primary strong; medieval secondary thin |
 | Japan | Moderate | Narrative history thin |
-| India | Weak | See Outstanding Sources |
+| India | Weak | See Top_100_Structural_Sources.md |
 | Medieval Islamic World | Strong | TTH + specialist series strong |
 | Post-1500 Islamic World | Weak | Ottoman/Safavid/Mughal thin |
 | Sub-Saharan Africa | Absent | Critical gap |
