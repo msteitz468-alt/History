@@ -94,6 +94,48 @@ to particular janapadas. The collection is **weak on South Asia** (CLAUDE.md cov
 note), so this page leans heavily on the single Bivar chapter and should be read as
 provisional pending dedicated Indian sources.
 
+## Avari (2007) — Geographic Advantages, the Three Dynasties, and the Nandas
+
+[[avari-india-ancient-past-2007|Avari]] (*India: The Ancient Past*, Ch. 5) gives the most
+detailed structural account of Magadha's rise available in the wiki:
+
+**Geographic advantages**: Magadha occupied the area covered today by the Patna and Gaya
+districts of Bihar — south of the Ganga, but controlling the main trade route to the Bay of
+Bengal. Three key advantages: (1) **Iron ore**: "Even today Bihar is rich in iron-ore deposits.
+Iron was the key resource that gave the Magadhans supremacy in both agricultural and military
+technology." (2) **Trade route**: Magadha "controlled the main trade route of the Gangetic basin
+leading to the Bay of Bengal, which brought in substantial revenues to the state." (3) **Fortress
+cities**: "The two great cities of Magadha, first Rajagriha and later Pataliputra, were both
+massive fortress-cities, which were impervious to attacks from outside."
+
+**Three dynasties**:
+
+*Haryanka* (first two kings): **Bimbisara** (544–493 BCE) and **Ajatsatru** (492–462 BCE).
+Bimbisara is described as "the first great Indian monarch about whom we have some considerable
+certainty of knowledge." He streamlined administration by instituting four grades of officer
+class (*mahamatras*) for tax collection; allowed sub-kings (*mandalika-rajas*) while controlling
+centrifugal tendencies. He was murdered by his own son Ajatsatru, who "proved to be an
+outstandingly energetic ruler": greatly increased military capabilities, strengthened Rajagriha's
+fortifications, and started building Pataligrama (later Pataliputra). Under Bimbisara and
+Ajatsatru, the mahajanapadas of **Anga, Kosala, and Kashi** were defeated and the long war with
+the **Vriji Confederacy** was begun. All successors of Ajatsatru killed their parents to gain
+the throne.
+
+*Shishunaga* (413–364 BCE): Overthrew the Haryankas; ruled for half a century; annexed the
+strategically important mahajanapada of **Avanti** in central India (capital Ujjain).
+
+*Nandas* (364–321 BCE): Founded by **Mahapadma Nanda**, "a brilliant usurper, whose mother was
+a shudra and who disliked the kshatriyas intensely." Nine Nandas in total (Mahapadma plus eight
+sons), ruling collectively for forty-three years. "They are still remembered as the most powerful
+pre-Mauryan monarchs of India." Their shudra origins represented "the beginnings of non-kshatriya
+involvement in the control of power in different parts of north India." The Nandas were overthrown
+by [[chandragupta-maurya|Chandragupta Maurya]] in 321 BCE.
+
+**Political geography**: Magadha's dominance made the **Pracya** (eastern) region decisive for
+north Indian history. Avari writes: "It would be the east that would decide the destiny of India
+for the next thousand years, because that was where the ascendancy of the Magadhan state was
+established."
+
 ## Related
 
 - Religious founders: [[buddha]] · Mahavira ([[jainism]]) · capital: [[pataliputra]]

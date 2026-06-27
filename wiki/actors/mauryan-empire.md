@@ -9,8 +9,8 @@ affiliated_with: [Magadha, the city of [[pataliputra|Pataliputra]], Buddhist and
 opposed_by: [the Nanda dynasty (overthrown), the Seleucids, Kalinga]
 key_events: [overthrow of the Nandas c. 321 BCE, defeat of Seleucus Nikator, conquest of Kalinga c. 261 BCE, Ashoka's dhamma]
 key_processes: [[[empire]], [[state-formation]], [[buddhism|patronage of Buddhism]], [[vedic-age|culmination of the Second Urbanization]]]
-sources_ingested: 3
-last_updated: 2026-06-13
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [actor, empire, classical-antiquity, south-asia]
 ---
 
@@ -95,6 +95,24 @@ The Mauryas created the model of pan-South Asian empire, the **Arthashastra** tr
 statecraft, and — through Ashoka's patronage and missions — the launch of Buddhism as a
 world religion. Their decentralized, horizontally-integrated structure is a key non-Western
 case of ancient empire-building.
+
+## Avari's Detailed Account (Avari, *India: The Ancient Past*, 2007)
+
+Avari's Chapter 6 substantially enriches the administrative, economic, and cultural picture:
+
+**Administrative zones**: The empire operated in three zones: (1) the heartland (Magadha and the Gangetic plain), with the tightest political authority; (2) conquered areas (Gandhara, Karnataka, Kalinga, Saurashtra), requiring 'a gentler and more sensitive style of governance' and where most rock edicts are found; (3) isolated buffer areas (nomads, forest people, hill tribes) valuable for elephants, timber, and precious stones where indirect control was exercised. The empire was divided into provinces (under royal princes or family members) and districts; a hierarchy of officers controlled the bureaucracy, with a salary ratio of clerk to chief minister of approximately **1:96**.
+
+**Economic base**: Agriculture was central; the state owned crown lands (fertile lands leased to landlords, wastelands cleared and settled by shudra cultivators). Private landed property was also legally recognized — title, ownership, purchase, sale, and mortgage were all validated. Tax rates ranged 'from one-sixth to a quarter of the produce of the land.' A labour tax (provision of labour in lieu of tax) also existed. The Mauryan population is estimated at approximately **100 million**.
+
+**Urban organization**: About twenty urban centres have been identified. [[pataliputra|Pataliputra]] (2,500 hectares, ~12 square miles) was the largest city in South Asia. The theoretical Arthashastra city plan was a grid divided into 16 blocks by caste: brahmans north of the palace, kshatriya bureaucrats to the east, vaishya traders south, shudras west.
+
+**Espionage network**: The state 'used espionage much too frequently for a true bond of trust to develop among the people.' The Arthashastra prescribed spies disguised as recluses, merchants, ascetics, and other figures — a structural feature corroborated by Megasthenes' account of the sixth estate (intelligence officers).
+
+**Welfare under Ashoka**: Ashoka's rajukas (state officials) were 'charged with the task of maintaining harmony and equity in the countryside' and making the treatment of slaves and shudras 'more humane.'
+
+**Decline — multiple causes**: (a) size of the empire with poor communications, encouraging regional separatism; (b) failure to build popular participatory institutions; (c) excessive espionage undermining trust; (d) 'near penal form of taxation' creating underlying economic stress; (e) Ashokan Buddhist pieties possibly alienating Brahmanist population; (f) Ashokan non-militarism possibly weakening army cohesion; (g) weak successors — 'all Ashoka's successors lacked force and character.'
+
+**Architecture**: Stone architecture emerged in the Mauryan period, with debate between those attributing it to Perso-Hellenistic influence and those arguing for indigenous evolution from wood architecture. Avari judges that 'the Indians could quite easily have observed and emulated the masonry skills of the foreigners, but what they finally produced was distinctly Indian in both reality and symbolism.' The Ashokan pillars are 'beautifully polished monolithic shafts, made from sandstone quarried at Chunar, in Benares.' Buddhist architecture — the stupa (dome housing relics) and the cave chaitya — also has its roots in the Mauryan period; Stupa I of Sanchi's earliest portion dates from Mauryan times.
 
 ## Historiography
 

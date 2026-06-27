@@ -9,8 +9,8 @@ affiliated_with: ["the Deccan", "brahmanical orthodoxy", "the [[indian-ocean-tra
 opposed_by: ["the [[kushan-empire|Shaka satraps]] (Nahapana, Rudradaman)", "Kharavela of Kalinga"]
 key_events: ["Satakarni's expansion", "Gautamiputra Satakarni's defeat of the Shakas (early 2nd c. CE)"]
 key_processes: ["[[indian-ocean-trade]]", "[[state-formation]]", "the Aryanisation of the Deccan"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, dynasty, classical-antiquity, south-asia]
 ---
 
@@ -55,6 +55,18 @@ The Satavahanas integrated the **Deccan** into the subcontinental and [[indian-o
 Ocean]] economy, ending the isolation of the peninsular south and channelling the **Roman trade** and
 the spread of Aryan/Sanskritic culture southward — the bridge that made later north–south interaction
 (and the [[chola-empire|Chola]] and Deccan empires) possible.
+
+## Avari's Account (Avari, *India: The Ancient Past*, 2007)
+
+Avari situates the Satavahana dynasty as arising in 'two particular regions of the Deccan — in northwestern Maharashtra and the Andhra region between the rivers Godavari and Krishna.' These regions 'had been part of the Mauryan Empire, so the dynasty arose either in the very last years of the empire or shortly after its fall.'
+
+**Satakarni** (c. 37–27 BCE) was the most famous early king, conducting successful campaigns against Kalinga and Malwa and gaining Sanchi (where he is recorded as *Rajan Shri Satakarni*). After his reign, the Satavahanas suffered defeat by the **Western Shakas** and lost their hold on Maharashtra; confined to the eastern Deccan for about a century, they eventually 'turned the tables on the Shakas and reconquered their lost territories.' Many Shaka coins found at Nasik 'have their original Shaka images overstruck with those of the returning Satavahana monarchs.' Satavahana power reached its zenith in the second century CE under **Gautamiputra** (113–38 CE) and **Pulumayi II Vasisthiputra** (138–70 CE). The kingdom ended in 236 CE after more than 300 years of rule.
+
+**The basis of Satavahana prosperity** lay in agriculture and trade. 'The Satavahana kings were some of the greatest donors of land and land revenue to communities of Buddhist monks, the brahmans, and to all who wished to engage fruitfully in agricultural pursuits.' Merchants were encouraged to open trade routes from the hinterland to ports, boosting urban centres in the Andhra region. Buddhist monasteries, 'established by pious endowments at the significant crossing points of trading routes,' were key economic nodes: 'Into these monasteries came people from all walks of life, for peace and meditation and spiritual care, and bequeathed some of their wealth as charity.'
+
+The **great stupa of Amaravati** — 'a monumental structure, built by an army of labourers, masons and craftsmen who lived in the great entrepôt city of Dharanikota on the River Krishna' — was the cultural high point of Satavahana Buddhist patronage, though it no longer exists. The sculptural art of the Sanchi gateways (toranas) was also completed under Satavahana patronage.
+
+Avari corroborates Thapar on trade infrastructure: market towns at Nasik, Karad, and Nagarjunakonda linked the Deccan hinterland to the five main international ports of the period — Barbaricum (Indus delta), Barygaza (Gujarat coast), Muziris (Kerala coast), Arikamedu (Coromandel coast), and Tamralipti (Ganges delta). The **Andhra merchants** were 'some of the greatest donors' to Buddhist foundations, forging the characteristic Satavahana fusion of mercantile prosperity and religious piety.
 
 ## Related pages
 

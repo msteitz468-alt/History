@@ -51,8 +51,64 @@ culture. As a merchant-supported, anti-Vedic renunciant movement, it parallels B
 part of the same Axial-Age challenge to brahmanical ritual order — but, unlike Buddhism,
 remained a primarily Indian tradition that survives in India to the present.
 
+## Avari (2007) — Mahavira, Social Base, and the Heterodox Challenge
+
+[[avari-india-ancient-past-2007|Avari]] (*India: The Ancient Past*, Ch. 5) gives a detailed
+account of Jainism's emergence as part of the broader Shramanist heterodoxy that challenged
+Vedic Brahmanical order in the sixth century BCE. Key contributions:
+
+**Mahavira's dates and biography**: Avari gives Mahavira's dates as **599–527 BCE**, making
+him slightly older than the Buddha (conventionally 563–483 BCE). He was the **twenty-fourth
+Tirthankara** (teacher of the Jain faith), "born in 599 bc and died in 527 bc." He belonged to
+"noble kshatriya families" and "left settled lives of luxury for a period of renunciation." He
+preached for "some three decades all over northern India," founded monasteries, and "was received
+enthusiastically by kings, merchants and ordinary people."
+
+**Key doctrines**: Jainism's foundational commitment to **ahimsa** (non-violence toward all
+living beings) led Mahavira and his followers to oppose Vedic animal sacrifice in particular.
+Avari places Jainism within the broad Shramanist current that rejected Brahmanical authority:
+Mahavira championed "reform of Vedic Brahmanism by his insistence that people should learn to
+give up their vices and follies, to adopt right conduct in their daily lives and not be too
+concerned with rituals and sacrifices." Crucially, Mahavira (like the Buddha) "believed in the
+key Vedic concept of the transmigration of souls and the process of reincarnation" — they
+departed from Brahmanical authority but not from the metaphysical framework of karma and samsara.
+
+Both Mahavira and the Buddha preached **not in scholastic Sanskrit but in vernacular** (Ardha
+Magadhi), in order to spread their message among ordinary people. This was itself a challenge to
+the priests' monopoly on sacred language.
+
+**Egalitarianism and limits**: Mahavira and the Buddha "championed non-violence and a sort of
+primitive/early egalitarianism." They "incessantly conveyed the message to their followers that
+the shudras had every right to be teachers or monks, and there should be no discrimination in
+their treatment in the monasteries." However, Avari is careful to note the limits: "they were
+not necessarily against the existing socio-economic relations between the classes at that time,
+and one could conclude that the dissenting heterodoxies were more interested in benign
+improvements for the depressed classes than in starting a revolution in their favour."
+
+**Social base and geography**: The renunciant movements "became stronger, ironically, during this
+period when urban affluence was increasing, because 'the ideology of renunciation presupposed the
+affluence of possessions, as renouncers were dependent on those who lived the worldly life.'"
+Jainism and Buddhism "began life as dissident traditions in the areas that were clan states rather
+than kingdoms" — particularly in the eastern areas of modern Bihar and the lands bordering Nepal,
+where Brahmanical authority was far more vulnerable to challenge than in the Gangetic doab or
+Punjab.
+
+**Modern legacy**: Avari notes that "the two most famous Indians of the twentieth century,
+Mahatma Gandhi and Dr Bhimrao Ambedkar, based their philosophy of life on the spiritual principles
+of Jainism and Buddhism." Gandhi's opposition to animal sacrifice was directly shaped by Jain
+ahimsa.
+
+**Jain literature**: The Jains believe their earliest literature predates Mahavira by 250 years;
+the surviving texts are classed in five categories including eleven *Angas* (limbs), twelve
+*Upangas*, and other texts. The Jain canon was not fully codified until the Council of Valabhi
+in 450 CE. The earliest Upangas from the sixth-century BCE period — the Surya Prajnapti and
+Jambu Dwipa Prajnapti — contain mathematical and astronomical information, while the Tamdula
+Veyaliya discusses physiology, anatomy, and embryology.
+
 ## Limitations
 
 CWH IV treats Jainism more briefly than Buddhism, reflecting both its narrower geographic
 spread and the collection's general thinness on South Asia; the early history of the
-tradition, like Buddhism's, rests on later texts and is entangled with hagiography.
+tradition, like Buddhism's, rests on later texts and is entangled with hagiography. Avari's
+account is fuller but still dependent on Buddhist and Jain textual traditions whose internal
+chronologies conflict.

@@ -9,8 +9,8 @@ affiliated_with: [the [[mauryan-empire|Mauryan Empire]], the Buddhist sangha]
 opposed_by: [Kalinga (conquered); rival claimants to the throne]
 key_events: [conquest of Kalinga c. 261 BCE, conversion to Buddhism, the rock and pillar edicts, Buddhist missions to Sri Lanka]
 key_processes: [[[empire]], [[buddhism|propagation of Buddhism]]]
-sources_ingested: 3
-last_updated: 2026-06-13
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, south-asia]
 ---
 
@@ -86,6 +86,16 @@ contemporary, first-person royal speech — supplemented by later Buddhist legen
 exaggerate his piety). Scholarly debate centers on the **balance between sincere conversion
 and political calculation** in dhamma, and on the edicts' Achaemenid inspiration. His
 afterlife as a symbol (adopted by modern India) is itself a historiographical theme.
+
+## Avari's Account: The Paradox of Mauryan Imperialism (Avari, *India: The Ancient Past*, 2007)
+
+Avari's framing in Chapter 6 adds the concept of the **'paradox of Mauryan imperialism'**: Ashoka's two modes of governance — bureaucratic coercion and Dhamma-based moral exhortation — were 'contradictory but helped weld together the many different peoples of the empire.' The Dhamma was simultaneously the most admirable achievement of the dynasty and potentially a cause of its decline.
+
+**The Dhamma program in Avari's account**: The Dhamma (see [[ashoka-dhamma]]) was 'the law of moral virtues' — not simply Buddhism but a deliberately inclusive moral program. Its content covered: non-violence toward humans and animals; justice for prisoners; welfare infrastructure (medical help, roads, wells, trees, rest houses); personal royal self-discipline; and religious tolerance: 'all sects might dwell harmoniously everywhere,' and criticism of others' religious views 'should be done in a mild way.' Ashoka was 'the first king to embody an imperial ideal called Chakravartin, the "wheel turner"… unlike the Vedic warrior king, was to be the promoter of peace and prosperity.'
+
+**The edicts as a source**: The major rock edicts, minor rock edicts, and pillar edicts are classified by Avari (following Thapar) into three groups with specific locations documented (see [[ashoka-dhamma]] for the full catalogue). Their geographical spread 'clearly delineates the extent of the Mauryan Empire.' The Brahmi script in which they are carved was deciphered by **James Prinsep** in the nineteenth century. H.G. Wells's praise in *The Outline of History* (1920) — 'Amidst the tens of thousands of names of monarchs that crowd the columns of history, the name of Asoka shines, and shines almost alone, a star… more living men cherish his memory today than have ever heard the names of Constantine or Charlemagne' — spread Ashoka's fame among English-reading audiences.
+
+**The paradox — did Dhamma weaken the empire?**: Avari outlines several historical arguments for how the Dhamma contributed to Mauryan decline: (a) 'the overtly Buddhist pieties of Ashoka had made a large mass of people subscribing to the Brahmanic traditions antipathetic to the empire, thereby weakening the internal cohesion of the state' — this is challenged on the grounds that Ashoka dealt fairly with all; (b) 'Ashoka's non-militarism undermined the strength of the army, leading to disaffection within the ranks' — the last Mauryan emperor was indeed 'stabbed to death by his own commander-in-chief at a military parade: he had been weak and indecisive.' The broader structural causes of collapse included poor communications across a vast territory, reassertion of regional autonomy, excessive taxation, overuse of espionage undermining trust, and failure to build 'long lasting popular institutions through which the local people could participate in their own governance.'
 
 ## Dhamma vs. danda: the two poles of Mauryan kingship
 
