@@ -7,7 +7,7 @@ period_active: [Early Modern, Age of Expansion, Long 19th Century]
 controlled_by: [Portuguese (to 1668), English East India Company (from 1668; HQ from 1687), British Crown]
 events_here: [cession from Portugal (1668), EIC headquarters established (1687)]
 processes_here: [[colonial-economy]], [[indian-ocean-trade]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, south-asia, early-modern, long-19th-century]
 ---
@@ -39,6 +39,24 @@ returned. In 1749 Surati goldsmiths refused to mint coins at Bombay, fearing it 
 "damage their reputation as elite craftsmen." As Chaiklin puts it, "It was not until
 Mughal power declined that Bombay finally emerged as a viable alternative."
 
+## A Branch-Office Mini-Kingdom (Roy)
+
+[[roy-east-india-company-2016|Roy (2016)]] adds the governance story behind the slow
+rise. Charles II gifted the islands to the Company in **1668**; transfer was
+complicated by resistance from the settled Portuguese communities (fearing loss of
+land tenure and tax rights), the Maratha threat, Malabar pirates, Dutch objections,
+and Mughal claims. **Gerald Aungier** (president at Surat and governor of Bombay from
+1669) "laid the initial foundations of a form of European government in India" —
+courts, laws, a town administration representing the major communities, land
+reclamation and fortifications — and urged moving the Company's Indian centre from
+Surat to Bombay, recognized in **1684**, seven years after his death. The militarized
+autonomy of these branch settlements showed in **Captain Richard Keigwin**, who
+defended Bombay from a Maratha attack in October 1679 and then briefly declared it a
+**Crown territory** under his own rule — a revolt resolved in 1684 when John Child
+arrived and Keigwin stood down under royal pardon. Bombay was, in Roy's framing, one
+of the three branch-founded "mini-kingdoms" (with [[madras]] and Calcutta) in whose
+defiant autonomy "the prospect of an empire lay hidden."
+
 ## The Industrial Pivot
 
 Bombay's true ascendancy was a nineteenth-century, industrial-imperial phenomenon.
@@ -52,5 +70,5 @@ networks."
 
 ## Related
 
-- [[surat]] · [[english-east-india-company]] · [[indian-ocean-trade]]
-- [[clulow-mostert-dutch-english-east-india-companies-2018]]
+- [[surat]] · [[madras]] · [[english-east-india-company]] · [[indian-ocean-trade]]
+- [[clulow-mostert-dutch-english-east-india-companies-2018]] · [[roy-east-india-company-2016]]

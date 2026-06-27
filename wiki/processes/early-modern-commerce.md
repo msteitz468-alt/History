@@ -8,8 +8,8 @@ region: [global, indian-ocean, mediterranean, atlantic-world, east-asia, central
 process_type: economic
 driven_by: [merchant ambition, the problem of distance/agency, demand for spices/silk/silver/sugar, militarized European maritime commerce, monetization and silver flows]
 produces: [the chartered joint-stock company, integrated Eurasian and Atlantic trade circuits, increasingly impersonal markets, the financial revolution]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [process, early-modern, indian-ocean, mediterranean]
 ---
 
@@ -95,6 +95,20 @@ and management, and limited liability — but also a **quasi-state**, the milita
 and administrative arm of its sponsor, governing territory and waging war. Its
 supremacy "derived at least as much from military force as from managerial and
 financial organization."
+
+[[roy-east-india-company-2016|Tirthankar Roy]] supplies a sharp case study of the
+"problem of distance" in one setting — the [[english-east-india-company|EIC]] in
+India. The company form's contribution there, he argues, was **scale, not
+efficiency**: joint stock and monopoly let it operate "on a scale… infinitely larger"
+than the Indian **family-and-community firm**, whose trust and credit stayed "confined
+to castes and communities." The unintended consequence of that scale was the Company's
+real institutional import in India — **large-scale contractual procurement** of
+textiles (advances paid a year ahead, quality and design specified, "hundreds of
+villages" engaged), an innovation with "no Indian precedence" at that scale. But
+because the Europeans had access to "neither community resources nor courts of law,"
+principal–agent enforcement failed chronically (weavers absconding with advances,
+brokers taking bribes) — discord that, on Roy's reading, helped push the Company
+toward seizing political power to enforce its contracts. See [[company-state]].
 
 ## Changing Patterns of Eurasian Trade
 

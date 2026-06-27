@@ -7,7 +7,7 @@ period_active: [Early Modern, Age of Expansion]
 controlled_by: [Mughal Empire (late 16th c.–early 18th c.), Marathas (contested), English East India Company (castle from 1759)]
 events_here: [Maratha plunder of Surat (1663), EIC takeover of Surat castle (1759), Dutch factory ceded to EIC (1796)]
 processes_here: [[indian-ocean-trade]], [[surat-merchant-brokerage]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, south-asia, indian-ocean, early-modern]
 ---
@@ -59,6 +59,24 @@ archive (Subrahmanyam). Bombay supplanted Surat as an ivory centre only in the l
 nineteenth century, and then to serve **European industrial demand** (billiard
 balls, piano keys), not indigenous bangle consumption.
 
+## The English Bridgehead (Roy)
+
+[[roy-east-india-company-2016|Roy (2016)]] makes Surat the stage of the EIC's early,
+deferential Mughal phase. **William Hawkins** reached Surat in 1608, travelled to
+Agra disguised as an Afghan nobleman, and obtained from **Jahangir** a licence to
+build a factory plus the title of **400-horse mansabdar** (the two men conversing in
+Arabic) — though Portuguese intrigue saw him expelled by 1611. Naval victories
+secured the foothold: **Thomas Best** (1611) and **Nicholas Downton** (1614, against
+the viceroy of Goa's fleet — Portuguese losses of 500 men against five English)
+"more or less marked the end of Portuguese power on the western seaboard." Until
+about 1640 "all of the Company's operations in India were placed under the
+administration of Surat," whose first president, **William Methwold**, was the first
+officer to propose building a harbour at [[bombay]]. The relationship's turning point
+came during **Shivaji's raid of 1664**: EIC employees fought off the
+[[maratha-empire|Maratha]] forces and saved the Company warehouse, so that "for the
+first time in the Company's history the Mughals were dependent on the English" — a
+role-reversal Roy reads as the seed of later ascendancy.
+
 ## Merchants and Brokers
 
 Surat is the setting for the [[surat-merchant-brokerage|brokerage system]] that
@@ -73,4 +91,4 @@ end company dependence on these intermediaries.
 
 - [[bombay]] · [[mughal-empire]] · [[surat-merchant-brokerage]]
 - [[dutch-east-india-company]] · [[english-east-india-company]]
-- [[clulow-mostert-dutch-english-east-india-companies-2018]]
+- [[clulow-mostert-dutch-english-east-india-companies-2018]] · [[roy-east-india-company-2016]]

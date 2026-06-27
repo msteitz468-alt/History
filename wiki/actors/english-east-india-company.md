@@ -9,7 +9,7 @@ affiliated_with: [the English (later British) Crown and Parliament]
 opposed_by: [Dutch East India Company, Portuguese Estado da India, French Compagnie des Indes, Mughal successor states, Mysore (Tipu Sultan)]
 key_events: [chartering (1600), first joint-stock for multiple voyages (1613), restructurings (1657, 1693, 1709), conquest of Bengal (from 1757), defeat of Tipu Sultan (1799)]
 key_processes: [early-modern-commerce, indian-ocean-trade, global-silver-trade]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-27
 tags: [actor, organization, early-modern, south-asia]
 ---
@@ -119,6 +119,41 @@ conquerors:
   chartering ships to build a Persian fleet — its old "carte blanche" to issue passes
   and fire on shipping revoked by a determined land empire (see
   [[european-exceptionalism-early-modern-asia]]).
+
+## The Company as a Business Organization (Roy)
+
+[[roy-east-india-company-2016|Tirthankar Roy (2016)]] reads the EIC through an
+**economic-institutional** lens, treating it as "a window into the distinctive
+globalization that occurred in the Indian subcontinent" and asking how "a peddler
+of goods [transformed] itself into a world power." His account is the wiki's fullest
+statement of the [[company-state]] as a *divided* organization:
+
+- **Split personality.** The Company was a state-backed monopoly that was also "an
+  umbrella for private enterprise conducted by its own employees." Crown-granted
+  war powers "empowered the overseas branches relatively more than… the head
+  office," and overseas servants — permitted **private trade** — were "not servants
+  of London" yet "not subjects of the Indian kings either." "It was partly in this
+  ambiguity that the prospect of an empire lay hidden."
+- **Scale, not efficiency.** Against the Indian **family-and-community firm** (trust
+  and risk "confined to castes and communities," risk-averse), the joint-stock
+  association was impersonal and could "embrace innovative yet risky ideas." Private
+  trade proved "the monopoly firm was not a very efficient business model"; its real
+  edge was operating "on a scale… infinitely larger" than Indian firms.
+- **Contract as the real innovation.** Large-scale advance contracts for textiles
+  ("millions of yards of cloth… hundreds of villages," cash paid "more than a year
+  in advance") had "no Indian precedence" at that scale. With "neither contract law
+  nor… social bonding," principal–agent relations were "fraught with problems."
+- **Empire from discord.** Roy engages the **partnership** thesis of Christopher
+  Bayly and Lakshmi Subramanian's "**Anglo-Bania order**" — empire from a congruence
+  of interests amid Mughal collapse — but counters that endemic breach of contract
+  and distrust "could still fuel the Company's desire to control political power by
+  making it more interested in securing the political means to enforce contracts."
+  "A theory of discord supplies an alternative view of colonization just as plausible
+  as the theory of partnership." Neither Crown nor London "actually planned an
+  empire. And yet an empire happened" (cf. Holden Furber's antithesis between those
+  who "profit from the extension of empire" and those who "profit solely through
+  trade"). On the economic consequences for India, Roy mounts a sharp revisionist
+  case against the [[drain-of-wealth-colonial-india|drain theory]].
 
 ## Historiography
 

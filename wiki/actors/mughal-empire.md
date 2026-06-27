@@ -9,7 +9,7 @@ affiliated_with: ["the Timurid/Turkish dynasty", "Persianate Islamic culture", "
 opposed_by: ["the Afghan/Lodi and Sur dynasties", "the [[rajputs|Rajputs]] (until co-opted)", "the [[maratha-empire|Marathas]], Sikhs, and ultimately the [[english-east-india-company|English]]"]
 key_events: ["the first battle of Panipat (1526)", "Akbar's reign (1556–1605)", "Aurangzeb's reign (1658–1707)", "the post-1707 decline"]
 key_processes: ["[[state-formation]]", "[[indian-ocean-trade]]", "Indo-Persian cultural synthesis"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, empire, early-modern, south-asia, islamic-world]
 ---
@@ -71,7 +71,14 @@ of Panipat (1761)**; into the resulting vacuum, with no power able to impose its
 **[[english-east-india-company|English East India Company]]** from Bengal. The empire survived as a
 shadow — "From Delhi to Palam is the realm of Shah Alam" — its emperor a pensioner first of the
 Marathas, then of the British, until the [[indian-rebellion-1857|1857 Rebellion]] swept the dynasty
-away.
+away. [[roy-east-india-company-2016|Roy (2016)]] adds the economic side of this
+devolution: the dispersal of "commerce, banking, coinage and skilled services to new
+regional centres" (Patna, Benares, Pune, Murshidabad, Hyderabad) produced
+**regionally rooted moneyed classes** — Bengal's currency, for instance, controlled
+by the **Jagat Seth** house — some of whom found "their own interests would be better
+served by the European traders than by the bankrupt regional courts," a congruence
+(Bayly) that the [[english-east-india-company|Company]] exploited at
+[[battle-of-plassey-1757|Plassey]].
 
 ## Significance and the Mughal–British continuity
 

@@ -14,8 +14,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the [[battle-of-plassey-1757|Company's seizure of power in Bengal after Plassey]], Mir Kasim's attempt to free the Bengal nawabate from Company control, the abuse of the Company's duty-free trade privileges (dastak)]
 consequences: [the Treaty of Allahabad (1765), the grant of the diwani of Bengal/Bihar/Orissa to the Company, the transformation of the EIC into a territorial sovereign, the foundation of British India]
-sources_ingested: 1
-last_updated: 2026-06-14
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, age-of-expansion, south-asia]
 ---
 
@@ -71,6 +71,15 @@ narrative from the British side. Modern scholarship stresses what the imperial a
 the **fiscal predation** the diwani unleashed (the drain of Bengal's revenue, a factor in the
 catastrophic **Bengal famine of 1770**), and the way "trade" and "conquest" were inseparable. The
 event is the hinge at which the Company's commercial and territorial histories merge.
+
+[[roy-east-india-company-2016|Roy (2016)]] adds the economic mechanism the diwani
+set in motion: the emperor "gifted the charge of the revenues of Bengal, Bihar and
+Orissa to the Company against the payment of a tribute" (a tribute stopped a decade
+later). Even before this, "soon after Plassey, state revenues were used to finance
+exports from India — peasants were taxed and taxpayer's money was used to buy cloth
+for export" (H.V. Bowen), the Company using political power to reduce its old
+dependence on imported silver. On the long-running dispute over how much wealth this
+extracted, see [[drain-of-wealth-colonial-india]].
 
 `caused_by: [[battle-of-plassey-1757]]`
 `produced: [[british-raj]]`

@@ -7,7 +7,7 @@ period_active: [Early Modern]
 controlled_by: [Sultanate of Bengal (to 1576), Mughal Empire (from 1575–76), nawabs of Bengal (18th c.), English East India Company (from 1757)]
 events_here: [Mughal conquest of Bengal Sultanate (1575–76), siege of Hugli (1632), Mughal succession war fighting (1657–60), Chittagong campaign (1665–66)]
 processes_here: [[indian-ocean-trade]], [[colonial-economy]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, south-asia, early-modern]
 ---
@@ -72,7 +72,30 @@ This co-optation of European naval power, paralleled in
 China, matured into Aurangzeb's **convoying duties** on the Dutch, English, and
 French in the 1690s–1700s.
 
+## The Founding of Calcutta and the Road to Conquest (Roy)
+
+[[roy-east-india-company-2016|Roy (2016)]] traces the EIC's Bengal foothold from
+factory rights obtained in 1656 (credited, with dispute, to the surgeon **Gabriel
+Boughton**) through the crisis of 1686, when London's attempt to coerce the Mughals
+failed: a few hundred English troops were no deterrent to "the 40,000-strong Mughal
+forces," and **Job Charnock** — a thirty-year veteran who had married an Indian widow
+rescued from sati and spoke fluent Persian and Hindustani — evacuated to **Sutanuti**.
+After an abject apology to **Aurangzeb** (who instructed that the English, "not being
+in their former greatness," be allowed "to carry on in their small way"), Charnock
+returned in 1690, and the Company bought the zamindari of three villages —
+**Sutanuti, Gobindapur and Dihi-Kalkutta** — for Rs 1,300, the nucleus of Calcutta.
+
+The eighteenth-century setting was [[mughal-empire|Mughal fragmentation]]: after
+**Murshid Quli Khan** (d. 1727) Bengal was "nominally a Mughal province, but
+practically an independent state," its currency controlled by the **Jagat Seth**
+banking house. **Maratha raids** of the 1740s impoverished western Bengal but drove
+migrants and capital to the protected east-bank city: Calcutta's population grew from
+**10,000 to 400,000 between 1704 and 1756**, and the Company's estate revenue from
+under Rs 500 to over Rs 3,000. This is the wealth and instability from which
+[[battle-of-plassey-1757|Plassey]] and the [[battle-of-buxar-1764|diwani]] emerged.
+
 ## Related
 
 - [[mughal-empire]] · [[dutch-east-india-company]] · [[english-east-india-company]]
-- [[clulow-mostert-dutch-english-east-india-companies-2018]]
+- [[battle-of-plassey-1757]] · [[battle-of-buxar-1764]] · [[clive-robert]]
+- [[clulow-mostert-dutch-english-east-india-companies-2018]] · [[roy-east-india-company-2016]]

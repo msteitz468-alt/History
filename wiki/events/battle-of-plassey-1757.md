@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["the Company's abuse of trade privileges & the fortification of Calcutta", "Siraj-ud-daula's seizure of Calcutta (1756) & the 'Black Hole' incident", "Clive's conspiracy with disaffected Bengali nobles and financiers against the Nawab"]
 consequences: ["Company control of [[bengal|Bengal]] via the puppet Nawab Mir Jafar", "the 'financial bleeding of Bengal'", "the [[english-east-india-company|diwani]] grant (1765) and the foundation of British territorial dominion in India"]
-sources_ingested: 2
-last_updated: 2026-06-14
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [event, age-of-expansion, south-asia]
 ---
 
@@ -51,7 +51,7 @@ installed as Nawab — and Clive, now "the kingmaker and plunderer," took a pers
   than marching on Delhi — which made the Company the **Mughal revenue agent**, and so the virtual
   ruler, of the richest province of India.
 
-## Significance & historiography
+## Significance
 
 Spear treats Plassey + the diwani as the moment "an adventurer's *tour de force* became a solid
 political fact": the Company-state of Bengal, given coherent administrative shape by **Warren
@@ -60,6 +60,51 @@ administration in India"), became the **basis for the later all-India hegemony**
 about its character — a regime that "creamed off" a larger share of the national income than any
 Mughal *subah* and returned less — locating the **drain of Bengal's wealth** at the very origin of
 British rule, a theme later nationalist and economic historiography would develop much further.
+
+## An economic reading (Roy)
+
+[[roy-east-india-company-2016|Tirthankar Roy (2016)]] grounds Plassey in the
+**private-trade discord** that runs through his account of the Company. The
+immediate trigger of Siraj-ud-Daula's 1756 attack on Calcutta, he stresses, was that
+"English private traders in Bengal… used the Company's license to refuse paying
+customs duty" — the assault was "the nawab's nervous remedy for the insolence of the
+English traders," not an unprovoked act of Bengali tyranny. After Calcutta fell,
+some 146 prisoners were crammed into an 18-foot-square dungeon (the disputed "Black
+Hole"), where over 100 are said to have died overnight.
+
+Six months later Clive retook Calcutta with **1,400 men** from Madras and then, "not
+overburdened by ethics," organized the coup. Roy details the conspiracy's
+mechanics: the great Company broker **Amir Chand** demanded a 5% cut of the treasure
+under threat of betrayal, so Clive "drew up a false contract" — a forgery — to
+neutralize him (Amir Chand reportedly went mad on discovering the trick). At the
+battle the nawab's army "fought a listless battle, surrounded by friends and
+relatives of the nawab who betrayed him." Clive installed **Mir Jafar**; the English
+took cash worth **£2 million** from the treasury, while four Indian conspirators
+quietly helped themselves to a further **£8 million** in jewels from a concealed
+chamber. Roy's larger point cuts against Adam Smith's claim that conquest expressed
+the monopolist's strength: "the conquest of Bengal was a sign of weakness of the
+firm, not a sign of its strength," driven by men on the spot against London's
+caution. On the wealth extracted, see [[drain-of-wealth-colonial-india]], where Roy
+contests the nationalist reading the older Spear account anticipates.
+
+## Historiography
+
+Plassey is among the most contested origin-points in modern Indian history, and the
+positions track the broader [[drain-of-wealth-colonial-india|drain debate]]. The
+**imperial** tradition ([[cambridge-history-of-india-v5|CHI Vol. V]]) tells it as
+administrative-military narrative from the British side. **Percival Spear**
+([[spear-history-of-india-v2-1965|Vol. II]]) reframes it as "a conspiracy with a
+cannonade" and locates the **drain of Bengal's wealth** at the very origin of
+British rule — a reading nationalist historiography (Naoroji, R.C. Dutt) developed
+into a full theory of impoverishment. **Tirthankar Roy**
+([[roy-east-india-company-2016|2016]]) dissents on both narrative and economics:
+the conflict began with English private traders abusing customs exemptions, and the
+plunder "came from the treasury of the nawab," too brief and small to explain Indian
+poverty. The reliability of the "**Black Hole**" episode (the prisoner count, the
+death toll) is itself long disputed. What unites the accounts is the recognition
+that "trade" and "conquest" were inseparable at Plassey; what divides them is the
+moral and causal weight each assigns to Company agency, Bengali collaboration, and
+Mughal collapse (cf. [[great-man-vs-structural-causation]]).
 
 ## Related pages
 
