@@ -32,7 +32,7 @@
 
 ### 2. East & Inner Asia
 16. **Li Liu** - *The Chinese Neolithic: Trajectories to Early States* ✅ INGESTED 2026-06-26 (`sources/liu-chinese-neolithic-2004`)
-17. **John S. Major, Constance A. Cook** - *Ancient China: A History* **[MISSING]**
+17. **John S. Major, Constance A. Cook** - *Ancient China: A History* ✅ INGESTED 2026-06-26 (`sources/major-cook-ancient-china-2017`)
 18. **Nicola Di Cosmo** - *Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History*
 19. **Gina L. Barnes** - *Archaeology of East Asia: The Rise of Civilization in China, Korea and Japan* **[MISSING]**
 20. **Craig Benjamin** - *Empires of Ancient Eurasia: The First Silk Roads Era, 100 BCE - 250 CE*

@@ -5,8 +5,8 @@ origin: articulated by the [[zhou-dynasty|Zhou]] dynasty c. 1045 BCE to legitimi
 applies_to_periods: [Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [china, east-asia, korea]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-26
 tags: [concept]
 ---
 
@@ -51,3 +51,16 @@ in modified forms, across East Asia.
 Because the Mandate could only be read **retrospectively** — a successful rebel had evidently
 received it, a fallen dynasty had evidently lost it — it functioned as much to ratify
 accomplished power as to constrain it, a circularity central to its political utility.
+
+## Tianming, De, and "Changing the Mandate" (Major & Cook 2017)
+
+[[major-cook-ancient-china-2017|Major & Cook]] parse *Tianming* as the ***ming*** ("command") of
+**Tian** (Heaven/Sky) — the [[zhou-dynasty|Zhou]] worshipping Tian where the [[shang-dynasty|Shang]]
+had served the high god **Di**. They stress that the doctrine was **projected backward**: Zhou
+propagandists applied it to the Shang's own supposed overthrow of the [[xia-dynasty|Xia]], and the
+theory's demand for a "bad last king" may have **required the invention** of the wicked final Xia
+king **Jie** (and perhaps of the Shang's [[shang-dynasty|Di Xin]]). In the Western Zhou the partner
+concept ***[[zhou-dynasty|de]]*** was not yet moral virtue but a **cosmic-martial charisma**. Its
+long afterlife is captured in their observation that the modern Chinese word for "revolution,"
+***ge ming***, literally means **"changing the Mandate"** — the concept governed Chinese political
+legitimacy to the end of the empire in 1911. **Source:** [[major-cook-ancient-china-2017]].

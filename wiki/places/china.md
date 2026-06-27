@@ -7,7 +7,7 @@ period_active: [Neolithic, Bronze Age, Classical Antiquity, Late Antiquity, Earl
 controlled_by: [the succession of dynasties (Shang, Zhou, Qin, Han, ... Tang, Song, Yuan, Ming, Qing), the Republic, the People's Republic]
 events_here: [the unification under [[qin-shi-huang|the First Emperor]] (221 BC), the dynastic cycles, the Mongol and Manchu conquests, the 1911 Revolution]
 processes_here: [the dynastic cycle, [[confucianism]], the [[mandate-of-heaven]], [[neo-confucianism]], Chinese [[industrialization]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [place, china, east-asia]
 ---
@@ -44,6 +44,13 @@ archaeology in [[liu-chinese-neolithic-2004|Li Liu's *The Chinese Neolithic*]] (
 textual dynastic tradition that begins with the [[xia-dynasty|Xia]]: see
 [[xia-dynasty-historicity]] and the [[origins-chinese-civilization-monocentric-vs-multiregional|
 monocentric vs. multi-regional]] debate over how "Chinese civilisation" began.
+
+[[major-cook-ancient-china-2017|Major & Cook (2017)]] caution against even calling this "China"
+before unification: their survey frames the deep past as the **[[east-asian-heartland-region|East
+Asian Heartland Region]]** — a plural mosaic (note the [[sanxingdui|Sanxingdui]] bronze culture,
+"quite unlike" the Shang) — and rebuts the twin myths of an **"isolated"** and an **"unchanging"**
+China. On their reading "China" proper is born only with the
+[[qin-unification-221-bce|Qin unification of 221 BCE]], from which the name itself derives.
 
 ## The dynastic dynamic
 

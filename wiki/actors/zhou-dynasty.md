@@ -9,7 +9,7 @@ affiliated_with: [the Ji royal house, regional vassal lords]
 opposed_by: [the Shang dynasty (conquered), steppe peoples, rival Warring States]
 key_events: [Zhou conquest of Shang c. 1045 BCE, sack of the western capital 771 BCE, [[warring-states-period-475-bce|Warring States era]] 475-221 BCE]
 key_processes: [[[state-formation]], [[mandate-of-heaven|Mandate of Heaven ideology]], [[confucianism]], [[axial-age]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [actor, dynasty, early-iron-age, archaic-period, china, east-asia]
 ---
@@ -73,3 +73,31 @@ IV's broader insistence on early China's connectedness to Central Asia and beyon
 Within the [[china|Chinese]] dynastic spine, the Zhou succeeded the **[[shang-dynasty|Shang]]**
 (justifying the conquest by the [[mandate-of-heaven|Mandate of Heaven]]) and gave way, through
 the Warring States, to unification under the [[qin-shi-huang|First Emperor]] (221 BCE).
+
+## The Western Zhou "Ritual State" (Major & Cook 2017)
+
+[[major-cook-ancient-china-2017|Major & Cook]] add depth to the **Western Zhou** (thirteen kings,
+King Wen to King You; the conquest at **Muye, spring 1046 BCE**, dated by a planetary conjunction
+of 1059 BCE in the founding myth). They call it a **"ritual state"**: high offices were
+hereditary and personalised, and the king's legitimacy flowed from his **charisma as
+Mandate-holder** and his power to authorise officials through ***ming*** (command), not from a
+professionalised bureaucracy. The signature source is the **bronze inscription** — hundreds of
+inscribed vessels (the longest, the ninth-century **Mao Gong ding**, just under 500 characters) —
+which the authors read as a **deliberate act of recording history for the indefinite future**, a
+sacred technology of memory. **Hua-Xia**, the first term reasonably translatable as "Chinese,"
+emerges here.
+
+Two distinctive positions. (1) ***De*** in the Western Zhou was **not yet Confucian moral virtue**
+but a **cosmic-martial force** — health, charisma, and control over resources — transmitted from
+Heaven to the founder-kings and bequeathed to their heirs, displayed externally as **"Awesome
+Decorum" (*weiyi*)**; only later Confucians moralised it. (2) Major & Cook **avoid the term
+"feudal"** entirely: there is no agreed definition of feudalism, no clear evidence of ritual
+**subinfeudation**, and the five aristocratic titles (*gong, hou, bo, zi, nan*) show **no original
+hierarchy** (*zi* and *nan* do not even appear in Western Zhou bronze inscriptions) — translating
+them as duke/marquis/earl/viscount/baron imports false European connotations. The idealised
+**[[mencius|Mencius]]-described "well-field" (*jingtian*)** system may never have been fully
+implemented. On the **[[duke-of-zhou|Duke of Zhou]]** they caution that bronze inscriptions name
+several "Zhou Gong" across generations — possibly an **institutional role**, not one man. The
+dynasty fell at the western capital in **771 BCE** (see
+[[spring-and-autumn-period-771-bce|Spring and Autumn]]). **Source:**
+[[major-cook-ancient-china-2017]].

@@ -9,7 +9,7 @@ affiliated_with: [the state and [[qin-dynasty|Qin dynasty]], Legalism, the chanc
 opposed_by: [the other Warring States (Chu, Wei, Zhao, Han, Yan, Qi), the Confucian scholars]
 key_events: ["the unification of China (221 BCE)", "the standardization of script, weights, coinage", "the book-burning (213 BCE)", "the building of the Great Wall & his tomb (the terracotta army)"]
 key_processes: [[[qin-dynasty]], the founding of the Chinese imperial system]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [actor, person, classical-antiquity, china, east-asia]
 ---
@@ -98,6 +98,13 @@ with the near-contemporary [[ashoka|Ashoka]] of [[mauryan-empire|Maurya India]]:
 because known only from his own inscriptions, where the First Emperor — known from hostile
 sources — is condemned. Mao's Red Guards later **rehabilitated** him as China's first
 revolutionary against the past.
+
+[[major-cook-ancient-china-2017|Major & Cook (2017)]] press the rehabilitative reading furthest:
+though "one of the most reviled figures in all of human history," he is a casualty of Han
+propaganda, and **early Han law was initially almost identical to Qin law**. They rate his
+**commandery-and-county bureaucratic system** — not the wall or the tomb — as his greatest and
+most enduring achievement, the structure "followed by imperial governments of China for over 2,000
+years" (see [[qin-unification-221-bce]]).
 
 ## Related
 

@@ -8,7 +8,7 @@ region: [china, east-asia]
 process_type: [political, demographic, economic, environmental]
 driven_by: [environmental circumscription, Yellow River flooding and course changes, factional competition and feasting, craft specialisation and prestige-goods exchange, regional interaction and warfare]
 produces: [[[longshan-culture|Longshan chiefdoms]], [[taosi|the Taosi polity]], [[erlitou-culture|the Erlitou state]], [[shang-dynasty|the Shang state]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-26
 tags: [process, neolithic, chalcolithic, early-bronze-age, china, east-asia]
 ---
@@ -83,6 +83,13 @@ into the [[shang-dynasty|Shang]]; the contemporary **Proto-Shang** (Xiaqiyuan) r
 system of competing chiefdoms. Whether Erlitou equals the [[xia-dynasty|Xia]] is disputed
 ([[xia-dynasty-historicity]]).
 
+The narrative-survey complement to Liu's settlement model is
+[[major-cook-ancient-china-2017|Major & Cook (2017)]], who likewise prefer the neutral
+**"Erlitou Period"** to "Xia" and stress the **plurality** of the
+[[east-asian-heartland-region|Heartland]] (the alien [[sanxingdui|Sanxingdui]] bronze culture)
+against any single Central-Plains origin — the same anti-monocentric thrust as
+[[origins-chinese-civilization-monocentric-vs-multiregional|the origins debate]].
+
 ## Related
 
 - Cultures/sites: [[yangshao-culture]] · [[dawenkou-culture]] · [[longshan-culture]] · [[taosi]] · [[erlitou-culture]] · [[erlitou]]
@@ -90,4 +97,4 @@ system of competing chiefdoms. Whether Erlitou equals the [[xia-dynasty|Xia]] is
 - Place: [[yellow-river-valley]] · [[central-plains-china]] · [[yiluo-basin]]
 - Process: [[early-agriculture-china]]
 - Analogous: [[mesoamerican-state-formation]] · [[andean-state-formation]]
-- Source: [[liu-chinese-neolithic-2004]]
+- Source: [[liu-chinese-neolithic-2004]] · [[major-cook-ancient-china-2017]]

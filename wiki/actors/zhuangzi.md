@@ -9,7 +9,7 @@ affiliated_with: [the Daoist (daojia) tradition]
 opposed_by: [the Confucians and Mohists (whose moralism and logic he satirized)]
 key_events: [the composition of the Inner Chapters of the Zhuangzi]
 key_processes: [[[daoism]], the Hundred Schools of the Warring States]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [actor, person, classical-antiquity, china, east-asia]
 ---
@@ -51,6 +51,18 @@ its supreme literary masterpieces. Where Confucianism shaped the public, officia
 nourished the **private, contemplative, artistic** life — profoundly shaping Chinese poetry, painting and
 landscape sensibility, the reception of **Chan (Zen) Buddhism**, and the perennial counter-current to
 social striving across East Asia.
+
+## Text and Death-Passage (Major & Cook 2017)
+
+[[major-cook-ancient-china-2017|Major & Cook (2017)]] confirm the layered text — **Inner Chapters**
+possibly by Zhuang Zhou (c. 370–300 BCE), with **"primitivist," "syncretist," and "later follower"**
+strata in the outer/miscellaneous chapters — and frame his teaching as a **radical relativism**: the
+*qi* of the cosmos in ceaseless transformation, with death no loss. They quote his great image:
+*"I regard Heaven and Earth as a great furnace, and the Creator as a master smith."* They also
+**redate the *Laozi*/[[daoism|Daodejing]]** to the **fourth century BCE** (not a contemporary of
+Confucius), noting Warring States **tomb versions** place the *De* section before the *Dao* — the
+order reversed by a Han editor (see [[mawangdui|Mawangdui]]). **Source:**
+[[major-cook-ancient-china-2017]].
 
 ## Related
 

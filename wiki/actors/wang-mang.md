@@ -9,7 +9,7 @@ affiliated_with: [the Wang consort-clan of the Former Han court, the Xin (新) d
 opposed_by: [Han loyalists, the Red Eyebrows rebels, regional magnates, the restored Han]
 key_events: ["regency and the manipulation of the Han succession", "usurpation and founding of the Xin dynasty (9 CE)", "the 'reformist' land and currency measures", "the Yellow River disaster and the Red Eyebrows revolt", "his death and the Han restoration (23–25 CE)"]
 key_processes: [[[han-dynasty|the dynastic cycle]], Confucian reformist statecraft]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-14
 tags: [actor, person, classical-antiquity, china]
 ---
@@ -58,6 +58,20 @@ power-seeker, a sincere Confucian utopian whose reforms were ahead of their time
 trapped by the contradictions of consort-clan politics and natural disaster. Either way, his reign
 is the hinge between the Former and Later Han and a textbook case of the **[[mandate-of-heaven|
 dynastic-cycle]]** ideology in action.
+
+## The Xin Reform Program (Major & Cook 2017)
+
+[[major-cook-ancient-china-2017|Major & Cook]] sharpen the detail of the **Xin ("New") dynasty**
+(from the start of **9 CE**), which Wang Mang claimed to rule by the power of **Earth** (in the
+Production Cycle, Fire produces Earth). His reforms were sweeping and overreaching: he **adjusted
+the coinage four times in five years**, tried to impose the [[zhou-dynasty|Mencian]] **well-field**
+land system, levied **China's first income tax** (on business profits), and set up state granaries
+with price controls. Two catastrophic **Yellow River floods** (one just before, one in 11 CE)
+wrecked the agricultural heartland and bred the **Red Eyebrows** revolt. He died fighting in
+**Chang'an in 23 CE**; his body was cut up and his head displayed on the wall of the restored Han
+capital at [[luoyang|Luoyang]]. Major & Cook stress that **all we know of him is filtered through
+the hostile Eastern Han record** (Ban Gu's *Han shu*). **Source:**
+[[major-cook-ancient-china-2017]].
 
 ## Related
 

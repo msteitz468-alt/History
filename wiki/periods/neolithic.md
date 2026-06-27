@@ -7,7 +7,7 @@ date_range: "9,500–3,000 BCE (regionally diachronous; see note)"
 regions_covered: [near-east, levant, anatolia, iran-plateau, south-asia, china, japan, korea, southeast-asia, melanesia, sub-saharan-africa, west-africa, mesoamerica, andes, north-america, europe, mediterranean]
 major_themes: ["origins of agriculture", "plant and animal domestication", "sedentism", "village life", "the Neolithic Revolution", "demographic expansion", "emergent inequality", "secondary products", "pottery", "foraging-farming frontier"]
 collection_coverage: strong
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-06-26
 tags: [period]
 ---
@@ -144,6 +144,11 @@ Anatolia, documented reaching the Levant as early as the late Natufian — see
   villages and lower-river mortuary-hierarchy societies that begin the sequence to the first
   Chinese state. See [[yangshao-culture]], [[dawenkou-culture]], and
   [[early-china-state-formation]] (from [[liu-chinese-neolithic-2004|Liu 2004]]).
+  [[major-cook-ancient-china-2017|Major & Cook (2017)]] label the combined Middle and Late
+  Neolithic of the [[east-asian-heartland-region|Heartland]] (c. 3500–2000 BCE) the
+  **[[jade-age|"Jade Age"]]** — defined by ritual jade (the [[hongshan-culture|Hongshan]]
+  pig-dragon, the [[liangzhu-culture|Liangzhu]] *cong*/*bi*) rather than metal, the long
+  prelude to bronze ritual.
 - Early **Bantu**-speaking farmer-herders, agents of agricultural spread in
   sub-Saharan Africa *(Cycle 5)*.
 - **Khirokitia culture** (aceramic Neolithic I of Cyprus) — a *sui generis* island

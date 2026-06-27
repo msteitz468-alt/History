@@ -7,7 +7,7 @@ period_active: [Late Bronze Age]
 controlled_by: [Shang dynasty]
 events_here: []
 processes_here: [[[urbanization]], [[writing-and-record-keeping]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-26
 tags: [place, china, east-asia, late-bronze-age]
 ---
@@ -90,3 +90,16 @@ see [[liu-chinese-neolithic-2004|Liu (2004)]]. The first excavation of Anyang's 
 [[nationalism-and-archaeology|nationalist Chinese archaeology]].
 
 Last updated from this source range 2026-06-26.
+
+## Yinxu, Fu Hao, and Human Sacrifice (Major & Cook 2017)
+
+[[major-cook-ancient-china-2017|Major & Cook]] date the establishment of **Yinxu** (immediately
+south of the earlier Huanbei city, on the Huan River) to the capital-move of King **Pan Geng**
+c. 1300 BCE; it remained the [[shang-dynasty|Shang]] capital until 1046 BCE. The unrobbed **tomb of
+Fu Hao (M5)** at Xiaotun — consort of King **Wu Ding** — held **200+ bronze ritual vessels, ~130
+bronze weapons, 700+ jades, ~7,000 cowries, and 16 human sacrificial victims**; oracle bones record
+Fu Hao **leading armies**, making her one of very few female military commanders in Chinese
+history. Across the royal tombs, **2,000+ sacrificial pits** attest human sacrifice on a vast scale,
+with captives often raided from the **Qiang** frontier people. The site is the type-locus of
+[[oracle-bone-divination|oracle-bone divination]] and the **1899 "dragon bones"** discovery that
+authenticated the dynasty. **Source:** [[major-cook-ancient-china-2017]].

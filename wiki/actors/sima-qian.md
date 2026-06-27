@@ -9,7 +9,7 @@ affiliated_with: [the Han court (Emperor Wu), the office of Grand Historian (Tai
 opposed_by: [Emperor Wu of Han (who had him castrated), the Legalist legal officials]
 key_events: ["succeeding his father as Grand Historian", "the Li Ling affair & his castration (99–98 BCE)", "the completion of the Shi ji (c. 91 BCE)"]
 key_processes: [the founding of Chinese historiography]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, person, classical-antiquity, china, east-asia]
 ---
@@ -78,6 +78,14 @@ of early Chinese historians, who gave Chinese civilization both its master narra
 legendary sages through the [[zhou-dynasty|Zhou]], [[qin-shi-huang|Qin]], and [[han-dynasty|Han]])
 and the **literary form, moral seriousness, and critical voice** of its historiography. The
 *Shi ji* is at once the principal primary source for early China and a literary masterwork.
+
+[[major-cook-ancient-china-2017|Major & Cook (2017)]] note the work was **begun by his father Sima
+Tan** (d. 110 BCE) and completed by Sima Qian (c. 145–86 BCE) in **130 chapters**, and that its
+five-fold structure — **annals, tables, treatises, hereditary houses, biographies** — became the
+**model for every subsequent dynastic history**, beginning with Ban Gu's *Han shu*. They underline
+the **Li Ling affair (99 BCE)** and his choice of **castration over suicide** to finish the history
+as the defining act of scholarly courage in the tradition. **Source:**
+[[major-cook-ancient-china-2017]].
 
 ## Related
 

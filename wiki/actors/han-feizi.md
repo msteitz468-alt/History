@@ -9,8 +9,8 @@ affiliated_with: [the Legalist (fajia) tradition, the state of Han]
 opposed_by: [the Confucians, his fellow student Li Si (who engineered his death)]
 key_events: [his studies under Xunzi, his writings on statecraft, his death in a Qin prison (233 BCE)]
 key_processes: [Legalism, the centralization of the Qin state]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-26
 tags: [actor, person, classical-antiquity, china, east-asia]
 ---
 
@@ -53,6 +53,17 @@ China (221 BCE) — and the harshness of that application was blamed for the dyn
 Legalism was thereafter publicly reviled, its institutions (centralized bureaucracy, codified law,
 standardized administration) were quietly absorbed into the imperial system, making Han Feizi one of the
 most consequential of all Chinese thinkers.
+
+## Note: Han Fei without "Legalism" (Major & Cook 2017)
+
+[[major-cook-ancient-china-2017|Major & Cook (2017)]] confirm the biography — Han Fei studied with
+**Xunzi** alongside **Li Si**, was invited to [[qin-dynasty|Qin]], accused of being a Han agent, and
+**coerced into suicide** — and quote his advice that the ruler be "remote and aloof, trusting no
+one," wielding reward and punishment as "the two handles of government." But they argue his work
+draws **eclectically** across Warring States thought, including the *Laozi*, and that the very
+label **"[[legalism|Legalism]]" should be dropped** as obscuring the differences among Han Fei,
+Shang Yang, Shen Buhai, and Shen Dao — part of their broader case that tomb texts reveal overlapping
+**trends, not bounded schools**. **Source:** [[major-cook-ancient-china-2017]].
 
 ## Related
 

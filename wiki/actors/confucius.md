@@ -9,7 +9,7 @@ affiliated_with: [the state of Lu, the ru (scholar) tradition]
 opposed_by: []
 key_events: [career as teacher and political adviser, compilation of the classics, posthumous canonization]
 key_processes: [[[confucianism]], [[axial-age]], [[mandate-of-heaven]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-12
 tags: [actor, person, classical-antiquity, china, east-asia]
 ---
@@ -62,3 +62,14 @@ and later, increasingly idealized accounts (Sima Qian's biography). The reliabil
 attributed editorship of the classics is debated, and the "Confucianism" built in his name
 encompasses far more than the historical man taught — a nineteenth-century Jesuit-derived
 label for the *ru* tradition (see [[confucianism]]).
+
+[[major-cook-ancient-china-2017|Major & Cook (2017)]] add two cautions and a context. (1) The
+**Analects (*Lunyu*)** is a **multi-generational compilation**, finalised as much as **200 years
+after** Confucius's death — its layers must be weighed accordingly. (2) The term ***Ru*** itself
+began as a **pejorative coined by the [[mohism|Mohists]]** ("Against the Ru") that Confucius's
+followers later appropriated and rehabilitated. They stress Confucius's self-image as a
+**restorationist** (recovering the government of Kings Wen and Wu and the
+[[duke-of-zhou|Duke of Zhou]]), grounding all the virtues — *ren*, *yi*, *li*, *zhi*, *xin*, *zhong*
+— in **filial piety (*xiao*)** and the "five relationships," amid the
+[[spring-and-autumn-period-771-bce|Spring and Autumn]] collapse of the [[zhou-dynasty|Zhou]] order.
+**Source:** [[major-cook-ancient-china-2017]].

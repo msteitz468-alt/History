@@ -9,7 +9,7 @@ affiliated_with: [[[yiluo-basin]], [[central-plains-china]], [[yellow-river-vall
 opposed_by: []
 key_events: [unknown]
 key_processes: [[[early-china-state-formation]], [[state-formation]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-26
 tags: [actor, state, early-bronze-age, china, east-asia]
 ---
@@ -69,6 +69,17 @@ statehood is designed to be **robust to that question**: the city is a state whe
 the Xia existed. The earliest unmistakable state level appears in **Erlitou Phase II (~1800
 BC)** — later than the traditional ~2100 BC Xia founding. Cross-refs:
 [[cambridge-history-of-ancient-china]], [[maisels-early-civilizations-of-the-old-world-1999]].
+
+[[major-cook-ancient-china-2017|Major & Cook (2017)]] reinforce the agnostic reading: preferring
+the neutral label **"Erlitou Period"** to "Xia," they note there is **no datable written reference
+to the Xia before the fourth century BCE** and the name appears on **none** of the tens of
+thousands of Shang oracle bones (see [[xia-dynasty-historicity]]). They add texture on Erlitou's
+ritual culture: standardised bronze **[[oracle-bone-divination|ding and jue]]** ritual vessels;
+**un-inscribed** pig/sheep oracle bones; turquoise-mosaic **dragon plaques** on the chests of the
+elite dead; and an **archaeo-astronomical** signature — palace foundations oriented a few degrees
+**west of north** (using the obsolescent polestar **Thuban**, vs. the Shang's eastward shift to
+Kochab), and a **five-planet conjunction of 1953 BCE** that may have served as a legitimating omen.
+**Source:** [[major-cook-ancient-china-2017]].
 
 ## Related
 

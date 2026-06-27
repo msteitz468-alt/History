@@ -7,7 +7,7 @@ period_active: [Neolithic, Chalcolithic, Early Bronze Age, and later]
 controlled_by: [[[yangshao-culture]], [[longshan-culture]], [[erlitou-culture]], [[shang-dynasty]]]
 events_here: [unknown]
 processes_here: [[[early-china-state-formation]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-26
 tags: [place, china, east-asia, neolithic, chalcolithic, early-bronze-age]
 ---
@@ -47,7 +47,10 @@ complex circumscribed chiefdom ([[taosi|Taosi]], which collapsed) but from the *
 integrated, multi-centered systems** of central Henan and the Yiluo basin (see
 [[early-china-state-formation]]). The Central Plains thus remains the geographic answer to
 "where the first Chinese state formed," even as Liu dismantles the assumption that it was the
-*sole* generative core of Chinese culture.
+*sole* generative core of Chinese culture. [[major-cook-ancient-china-2017|Major & Cook (2017)]]
+generalise the same point through their **[[east-asian-heartland-region|Heartland Region]]** frame
+and the alien [[sanxingdui|Sanxingdui]] bronze culture: the Central Plains is *a* core, not *the*
+unitary origin of "China."
 
 ## Related
 
@@ -56,4 +59,4 @@ integrated, multi-centered systems** of central Henan and the Yiluo basin (see
 - Wider region: [[yellow-river-valley]] · [[china]]
 - Process/Concept: [[early-china-state-formation]] · [[quxi-leixing]]
 - Controversy: [[origins-chinese-civilization-monocentric-vs-multiregional]]
-- Source: [[liu-chinese-neolithic-2004]]
+- Source: [[liu-chinese-neolithic-2004]] · [[major-cook-ancient-china-2017]]

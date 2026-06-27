@@ -7,7 +7,7 @@ period_active: [classical-antiquity, early-middle-ages, high-middle-ages]
 controlled_by: [Han dynasty, Tang dynasty]
 events_here: []
 processes_here: [silk-roads, trade-network-formation]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-22
 tags: [place, china, silk-road, high-middle-ages]
 ---
@@ -33,4 +33,14 @@ Key evidence for the eastern end of the routes: garrison-driven economy, Sogdian
 - Sogdian traders and communities in Chinese towns.
 - Cosmopolitan markets and foreign religions.
 
-Related: [[silk-roads]], [[central-asia]], [[dunhuang]], [[turfan]], [[samarkand]].
+## The Western Han Capital (Major & Cook 2017)
+
+Before its Tang heyday, Chang'an was developed and fortified as the **Western [[han-dynasty|Han]]
+capital** (under Emperor Hui), sited near the former [[qin-dynasty|Qin]] capital at **Xianyang**, and
+remained the seat of government through the Western Han and [[wang-mang|Wang Mang's]] Xin dynasty —
+until it was sacked and the restored Eastern Han moved east to **[[luoyang|Luoyang]]** in 25 CE
+(echoing the [[zhou-dynasty|Zhou]] move of the eighth century BCE). [[major-cook-ancient-china-2017|
+Major & Cook (2017)]]; for the great preserved Western Han household near the southern capital
+region, see [[mawangdui|Mawangdui]]. **Source:** [[major-cook-ancient-china-2017]].
+
+Related: [[silk-roads]], [[central-asia]], [[dunhuang]], [[turfan]], [[samarkand]], [[luoyang]].

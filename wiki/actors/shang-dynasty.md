@@ -9,7 +9,7 @@ affiliated_with: [the Bronze Age cultures of the Yellow River basin]
 opposed_by: [rival "segmentary states", the Zhou (who overthrew them)]
 key_events: ["the Anyang cult-centre (c. 1240–1040 BCE)", "the oracle-bone divinations", "the Zhou conquest (c. 1046 BCE)"]
 key_processes: [Chinese bronze metallurgy, the origins of Chinese writing, [[early-china-state-formation]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-26
 tags: [actor, dynasty, bronze-age, china, east-asia]
 ---
@@ -121,3 +121,31 @@ Central Plains trajectory]]; on the disputed Erlitou=[[xia-dynasty|Xia]] questio
 **Source:** [[liu-chinese-neolithic-2004]]. Reciprocal links: [[erlitou-culture]] · [[xia-dynasty]] · [[early-china-state-formation]].
 
 **Historiography note (from this source):** Traditional king lists unreliable for pre-conquest Shang; "it generally refers to the capital and dynasty as Yin rather than Shang... yet so far as we can tell from the bone-inscriptions the Shang did not call their dynasty Yin". Archaeology (oracle bones, stratigraphy at Erlitou/Zhengzhou/Anyang) is the arbiter. (lines ~1975-1985)
+
+## The "Palace State" and its Religion (Major & Cook 2017)
+
+[[major-cook-ancient-china-2017|Major & Cook]] characterise the Shang (c. 1600–1046 BCE) as a
+**"palace state" or "ceremonial state"** — one in which royal power "was expressed largely
+through the performance of symbolic ritual functions," strikingly unlike the meritocratic
+bureaucracies of later China. Royal **hunts** were quasi-military performances of the king's
+power; **artisans** (bronze-smiths, jade-workers, brewers, weavers) belonged to hereditary
+lineages under elite patronage.
+
+The Shang transition to history runs through **[[oracle-bone-divination|oracle-bone
+divination]]**: the diviners' innovation of **inscribing the charge on the bone** created a
+written record across 3,000 years. King **Wu Ding** (c. 1250–1192 BCE) divined obsessively on
+everything from war to toothache; under **Zu Jia** a **"New School"** later imposed a rigid
+ritual calendar and suppressed negative responses. Religion centred on the **High God Shang Di**
+(presiding over weather, harvest, health) and the ancestors, worshipped on a **ten-day-week**
+schedule encoded in the kings' posthumous names ("Wu Ding" = "the martial king worshipped on day
+*ding*"). **Human sacrifice** was on a vast scale — 2,000+ pits at Yinxu — with captives raided
+from the **Qiang** of the northwestern frontier.
+
+Two distinctive Major & Cook positions: (1) the last king **Di Xin** "may never have existed,"
+being possibly a **figment of Zhou propaganda** — he left no oracle bones or bronzes bearing his
+name, and survey of the supposed decisive battlefield at **Muye** found no battle evidence; (2)
+the consort **[[anyang|Fu Hao]]**, whose unrobbed tomb (M5) held 200+ ritual bronzes and
+oracle-bone records of her **commanding armies**, was one of the very few female military leaders
+in Chinese history. On the contemporary but **culturally alien** [[sanxingdui|Sanxingdui]] bronze
+culture of Sichuan, see its page. The **chariot** reached the Shang c. 1300 BCE from the western
+steppes (see [[major-cook-ancient-china-2017]]). **Source:** [[major-cook-ancient-china-2017]].

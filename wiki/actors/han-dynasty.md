@@ -9,7 +9,7 @@ affiliated_with: [Confucian-Legalist statecraft, local elites]
 opposed_by: [the [[xiongnu]], rival warlords, the Yellow Turban rebels]
 key_events: [Emperor Wu's Xiongnu wars 141-87 BCE, Zhang Qian's mission to the Yuezhi 139 BCE, opening of the [[silk-roads|Silk Roads]], conquest of northern Korea 109 BCE]
 key_processes: [[[empire]], [[silk-roads]], [[confucianism|Confucian state ideology]], [[east-asian-cultural-sphere]]]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-14
 tags: [actor, dynasty, classical-antiquity, late-antiquity, china, east-asia]
 ---
@@ -97,3 +97,28 @@ Rome's over Britain.
 A primary monument of early-Han thought is now ingested as the **[[huainanzi-essential|Huainanzi]]**
 (139 BCE), the syncretic "Huang-Lao" compendium compiled under **[[liu-an|Liu An]]** — illustrating the
 imperial ideology of the early Western Han before the turn to state Confucianism under Emperor Wu.
+
+## Structure, Cosmology, and Fall (Major & Cook 2017)
+
+[[major-cook-ancient-china-2017|Major & Cook]] add the founding and institutional spine. The
+dynasty began with the commoner [[liu-bang|Liu Bang]]'s **commandery-kingdom compromise** (202
+BCE), whose instability erupted in the **Rebellion of the Seven Kings (154 BCE)** — for them the
+**decisive turning point** after which territorial kings never again seriously challenged the
+centre. The Modernist/Reformist oscillation they frame sharply: **Modernists** (Qin-style
+centralism, the **salt and iron monopolies** of 119 BCE) tended to **win in practice** even when
+**Reformers** (Confucian, Zhou-modelled) won the formal debates — the pattern dramatised in the
+**[[han-wudi|Debates on Salt and Iron]] (81 BCE)**. A distinctive position: they **reject the old
+notion of a "Han Confucian synthesis"** engineered by Dong Zhongshu; Han **correlative cosmology**
+(Five Phases, yin-yang, ***ganying*** "stimulus-and-response," materialised in the **TLV mirror**)
+was an **organic accumulation** across the Western Han, not one thinker's program.
+
+The Eastern Han (from [[wang-mang|Wang Mang's]] fall and **Emperor Guangwu's** restoration at
+[[luoyang|Luoyang]], 25 CE) decayed through **ten successive child-emperors** dominated by consort
+clans and eunuchs, until generals **slaughtered ~2,000 eunuchs in the palace massacre of 189 CE**.
+The demographic collapse is stark: the census of **2 CE** counted ~57.7 million people; the Jin
+census of **280 CE**, only ~16 million. The dynasty fell in **220 CE**, opening the
+[[three-kingdoms-period-220-ce|Three Kingdoms]]; **[[buddhism|Buddhism]]** (first noticed 65 CE,
+the White Horse Temple at Luoyang) and **organized [[daoism|Daoism]]** (Celestial Masters) rose in
+the vacuum. On the **[[mawangdui|Mawangdui]]** tombs (silk manuscripts, the funerary banner) and **Zhang Qian's**
+missions opening the [[silk-roads|Silk Road]], see those pages and [[han-wudi]].
+**Source:** [[major-cook-ancient-china-2017]].

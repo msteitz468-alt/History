@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[zhou-dynasty|collapse of Zhou royal authority]], rise of sovereign territorial states, military and administrative competition]
 consequences: [[[qin-dynasty|Qin unification of China 221 BCE]], the centralized bureaucratic imperial state, Legalist statecraft, the [[axial-age|classical schools of thought]]]
-sources_ingested: 4
-last_updated: 2026-06-10
+sources_ingested: 5
+last_updated: 2026-06-26
 tags: [event, transition, classical-antiquity, china, east-asia]
 ---
 
@@ -73,3 +73,20 @@ imperial state — makes it a leading East Asian case in the
 The intellectual ferment of the age (the "Hundred Schools") is now represented by ingested primary
 texts: the Confucian **[[mencius-ivanhoe|Mencius]]**, the Legalist **[[han-feizi-watson|Han Feizi]]**,
 and the Daoist **[[zhuangzi-watson|Zhuangzi]]**.
+
+## Warfare, Reform, and the Tomb-Text Revolution (Major & Cook 2017)
+
+[[major-cook-ancient-china-2017|Major & Cook (2017)]] add operational and intellectual detail. The
+fragmentation crystallised when **Jin split into Hann, Wei, and Zhao (403 BCE)** and the **Tian
+clan displaced the Jiang in Qi**; [[qin-dynasty|Qin]]'s annexation of **Shu (316 BCE)** and the
+**Dujiangyan** irrigation works tilted the balance. Warfare was transformed by **cavalry** (adopted
+from northern nomads), the **crossbow** with **standardized interchangeable bronze triggers** ("long
+before… Samuel Colt"), interior and frontier **walls**, and **Shang Yang's** Qin reforms tying
+advancement to **heads taken in battle**; legal codes punished by **extermination of the offender's
+whole family**. Above all they press the **excavated-manuscript** case: the tombs of **Lord Yi of
+Zeng (Zeng Hou Yi, d. 433 BCE)** — 64 double-toned **bells**, a lacquer box naming the **28 lunar
+lodges**, the earliest **bamboo-strip** inventory — and of **Shao Tuo at Baoshan (316 BCE)** — legal
+records and a three-year **divination cure-log** — show that Warring States thought was a continuum
+of **overlapping trends, not bounded "schools."** On this view the *Laozi* is a **fourth-century**
+work, [[mohism|Mohism]] a tightly organised order, and the **Jixia Academy** at Linzi a uniquely
+open (if informally structured) center of debate. **Source:** [[major-cook-ancient-china-2017]].

@@ -5,8 +5,8 @@ origin: a retrospective label (fajia, "school of law/method") for Warring States
 applies_to_periods: [Classical Antiquity, Late Antiquity]
 applies_to_regions: [china, east-asia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-26
 tags: [concept]
 ---
 
@@ -52,6 +52,15 @@ appearance, Legalist in substance**." Modern scholars caution that "Legalism" (*
 classificatory label** grouping diverse thinkers, not a self-conscious school; and its amoral statecraft
 has been variously read as proto-totalitarian or as hard-headed political realism (compared to
 Machiavelli and to modern theories of bureaucracy and law).
+
+[[major-cook-ancient-china-2017|Major & Cook (2017)]] push the revisionist caution furthest,
+arguing the **label "Legalism" should be abandoned**: it "obscures important differences" among
+**Shang Yang, [[han-feizi|Han Fei]], Shen Buhai, and Shen Dao**, whose ideas overlap heavily with
+[[daoism|Daoism]] and [[confucianism|Confucianism]] (Han Fei's *Hanfeizi* itself draws on the
+*Laozi*). On their view, **excavated tomb texts** dissolve the bounded "schools" of
+[[warring-states-period-475-bce|Warring States]] thought into overlapping **trends** — one can
+"distinguish trends, but not distinct schools" (compare [[mohism]]). **Source:**
+[[major-cook-ancient-china-2017]].
 
 ## Related
 

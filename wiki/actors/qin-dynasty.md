@@ -9,7 +9,7 @@ affiliated_with: [Legalist statecraft]
 opposed_by: [the six rival Warring States (conquered), the [[xiongnu]], rebel armies]
 key_events: [unification of China 221 BCE, building of the Great Wall, conquest of the south 214 BCE]
 key_processes: [[[state-formation]], [[empire]], Legalism, [[silk-roads]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-10
 tags: [actor, dynasty, classical-antiquity, china, east-asia]
 ---
@@ -72,3 +72,19 @@ The **primary source** for the dynasty is now ingested as
 *Shi ji*, which traces Qin's "silkworm" expansion from a northwestern border fief to empire and
 supplies the dramatic, morally charged portrait of the [[qin-shi-huang|First Emperor]]. Its
 author **[[sima-qian|Sima Qian]]** is the founder of Chinese historiography.
+
+## The Unification and the Bureaucratic Template (Major & Cook 2017)
+
+[[major-cook-ancient-china-2017|Major & Cook]] narrate the conquest as a decade-long sequence —
+**[[qin-unification-221-bce|Hann 230, Zhao 228, Wei 225, Chu 223, Yan 222, Qi 221 BCE]]** — and
+treat **221 BCE as the birth of "China"** (the name deriving from "Qin"). They emphasise the
+**commandery-and-county** structure — ~40 commanderies under military governors and ~1,000 counties
+under magistrates, all reporting to the capital — as the First Emperor's most enduring creation,
+"followed by imperial governments of China for over 2,000 years." **Li Si's** standardisation of
+the **script** mattered most for cultural unity; the standard **axle-gauge** was a practical fix
+for the rutting of powdery northern roads; the *banliang* coin (round, square-holed) endured to
+1911. The **"burning of the books" (213 BCE)** plus consolidation of texts in the imperial library
+backfired: when rebels burned the library during Qin's fall, unique copies were **lost forever**.
+The dynasty's collapse ran through the **eunuch Zhao Gao's** forged-succession coup installing the
+hapless **Second Emperor (Huhai)**, the **Chen She rising of 209 BCE**, and the rivalry of
+[[liu-bang|Liu Bang]] and Xiang Yu. **Source:** [[major-cook-ancient-china-2017]].

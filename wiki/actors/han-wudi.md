@@ -9,7 +9,7 @@ affiliated_with: [the Han dynasty, the imperial-Confucian state]
 opposed_by: [the Xiongnu, Southern Yue, Chaoxian (Korea), the great merchants]
 key_events: ["the long Xiongnu wars (from 133 BCE)", "Zhang Qian's missions & the opening of the Silk Road", "the salt & iron monopolies", "the conquests of Southern Yue, Chaoxian & the southwest"]
 key_processes: [the expansion of the Han empire, the Silk Road, the consolidation of the imperial-Confucian state]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-13
 tags: [actor, person, classical-antiquity, china, east-asia]
 ---
@@ -70,6 +70,20 @@ that he condemned in the [[qin-shi-huang|First Emperor]] he saw mirrored in his 
 Later ages "habitually linked their names as fellow believers in superstitious folly." Wu is
 thus both the Han's most powerful emperor and the great object of its founding historian's
 veiled critique.
+
+## Institutions, Calendar, and Cosmology (Major & Cook 2017)
+
+[[major-cook-ancient-china-2017|Major & Cook]] add three points. (1) Wu's appointment of official
+**Erudites** in the five Confucian texts (136 BCE), examined orally in the audience hall, **laid
+the foundation of the examination system** — though they **reject** the older idea of a "Han
+Confucian synthesis" engineered by **Dong Zhongshu** under Wu. (2) His **Grand Inception (Taichu)
+calendar of 104 BCE** fixed the solar year at 365.2507 days and the lunar month at 29.5309 days and
+set the Chinese calendrical standard for centuries; it also **reversed the early Han's Phase-Water
+(black) identity** in favour of **Phase Earth (yellow)**, conquering Qin's Water. (3) His
+**feng and shan** sacrifices on Mt. Tai (first performed 110 BCE) and cults to **Taiyi** were
+matched, in his **waning years**, by the lethal **Li–Wei consort-clan civil war in Chang'an (91
+BCE)**, which forced Empress Wei and the heir Liu Qu to suicide — the dark coda the *Shiji* leaves
+implicit. **Source:** [[major-cook-ancient-china-2017]].
 
 ## Related
 
