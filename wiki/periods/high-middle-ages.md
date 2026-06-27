@@ -7,8 +7,8 @@ date_range: "1000–1300 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road]
 major_themes: ["the thickening of Afro-Eurasian exchange webs", "the commercial revolution and a 'first globalization'", "the apogee of Song China", "the Crusades and Christian–Islamic frontier conflict", "cultural crystallization across Eurasian ecumenes", "the rise of universities and scholastic learning", "the eve of the Mongol conquests", "demographic expansion across the Old World", "Angkor, Cahokia, and regional apogees beyond Eurasia"]
 collection_coverage: strong
-sources_ingested: 14
-last_updated: 2026-06-23
+sources_ingested: 15
+last_updated: 2026-06-27
 tags: [period]
 ---
 
@@ -254,6 +254,20 @@ a Mongol-integrated world economy rather than as "feudal stagnation."
 **Military historiography (from France, *Western Warfare in the Age of the Crusades*).** Older accounts often assumed universal obligations or treated castles as purely strategic and battle as the norm. France provides a structural, proprietorial explanation for the "common stamp" of Western warfare 1000–1300: landholding logic drove castle and knight institutions; ad hoc retinues and cash explain both infantry presence and limits on cohesion; Vegetian raiding/siege predominated because of castle refuges and political realities. 
 
 From Ch. 9–11 (Range 03): "Siege was a test of political will and resources on both sides"; many city sieges unsuccessful due to inability to isolate (e.g. Barbarossa Milan: "a military solution in the Lombard plain was impossible"); "In the end it was the garrison, not the walls, that mattered." Mining most successful tactic; traction trebuchet dominant; counterweight new but "did not radically alter the balance"; "No machine in this period actually altered the balance of advantage between attack and defence." Armies "remained ad hoc bodies"; "At Bouvines, there were less than 20,000 men in all"; core always commander's household troops ("rather like onions"); "no clear chain of command"; "armies changed only slowly." Command by persuasion + front-rank example; "the medieval commander was first and foremost a man of rank"; professionals (Guérin bishop-elect of Senlis "the effective military commander" at Bouvines) subordinate. Explicitly contrasts with battle-centric readings and emphasises source-critical limits on numbers and the social fear of arming the lower orders. Complements tactical studies (Verbruggen) and operational crusade work (France's own *Victory in the East*). Recent work continues to debate the frequency of battle versus attrition and the pace of the late-medieval infantry revival. All grounded in exclusive range.
+
+**The eleventh-century break (Wickham 2016).** [[wickham-medieval-europe-2016|Chris Wickham]]
+makes the High Middle Ages the site of the single greatest break in western Europe
+"after the fifth century." In the **[[feudal-revolution-debate|"feudal revolution"]]**
+of c. 950–1100, Carolingian **public power fragmented into a *cellular* network** of
+bounded local lordships and castles (Wickham's distinctive emphasis is on
+*boundedness* — that it now "mattered where the edge of a lordship was" — rather than
+on violence alone). The political **reconstruction** of the twelfth–thirteenth
+centuries (Ch. 8) then had to be built *against* that cellular structure, and was
+financed increasingly by the **long economic boom** of 950–1300 (Ch. 7), which let
+some rulers develop taxation, paid officials, and universities. The period's hinge in
+the east is **[[fourth-crusade-1204|1204]]**, which Wickham reads as "the failure of
+alternatives" — the destruction of the tax-based Byzantine model of governance. See
+[[politics-of-land]] for the underlying framework.
 
 ## Collection Coverage Note
 

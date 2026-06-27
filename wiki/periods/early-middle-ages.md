@@ -7,7 +7,7 @@ date_range: "600–1000 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, arabian-peninsula, central-asia, north-africa, west-africa, east-africa, south-asia, china, japan, korea, steppe, indian-ocean, silk-road]
 major_themes: ["the rise of Islam and the caliphates", "the Abbasid golden age", "Tang China and the second Silk Roads era", "the Carolingian Empire", "Byzantium's survival and golden age", "the formation of Japan and unified Korea", "trans-Saharan and Indian Ocean trade", "the spread of world religions", "post-imperial state-building", "barbarian law codes and wergild", "the North Sea emporium network (wics)", "the gold-to-silver monetary transition (sceattas)", "proprietary churches (Eigenkirchen)", "Insular art and Northumbrian learning", "Christianisation of the Germanic and Anglo-Saxon peoples"]
 collection_coverage: strong
-sources_ingested: 14
+sources_ingested: 15
 last_updated: 2026-06-27
 tags: [period]
 ---
@@ -184,6 +184,20 @@ drawing on the *Fredegar* continuations sponsored by Charles Martel's kin) to le
 better explained by a run of royal **minorities** than by hereditary degeneracy, and the real seventh-century
 revolution was social: the [[christianisation-of-the-frankish-aristocracy|Christianisation of the Frankish
 aristocracy]] and the [[charles-martel|Carolingian]] capture of the Church.
+
+**The materialist frame (Wickham 2016).** [[wickham-medieval-europe-2016|Chris Wickham]]'s
+*Medieval Europe* reads the early-medieval west through the [[politics-of-land|politics
+of land]]: the **end of the Roman fiscal system** is the foundational fact, making the
+successor states "more fragmented, structurally weaker, economically simpler" than the
+tax-funded empire they replaced (see [[post-roman-transformation-of-the-west]]).
+Against this, **Carolingian Francia** is read as an "experiment" — the high point of a
+**public, assembly-based politics** of royal office sustained *without* taxation,
+inherited from Rome and "more tightly" pursued than in any other medieval period.
+Wickham's comparative pivot is that **Byzantium and the Arab caliphates kept their land
+taxes**, and so retained professional armies, literate bureaucracies, and strong
+central power throughout, while the Latin west did not — the structural divergence that
+frames the whole millennium. This supplies the wiki's most explicit materialist
+counter-model to the elite- and event-centred narratives of NCMH.
 
 **Primary Chronicle (Laurentian text) and Rus' source criticism (from Cross & Sherbowitz-Wetzor 1953, lines 12001–16299).** The Laurentian redaction includes the Sylvester colophon: the work was redacted in 1116 by "Sylvester, Prior of St. Michael's in V§dobichi" ("For the relation of Sylvester, Prior of St. Michael's in V§dobichi, to the text of the Povest’"; "the colophon of Sylvester was on a separate leaf or on the binding, and was thus preserved," lines ~388, ~14506-14508). "In the hope of God’s grace, I Sylvester, Prior of St. Michael’s, wrote this Chronicle in the year 6624 (1116)" (referenced). The text is composite; some early passages (e.g., 852–920) restored from Hypatian. The famous "test of the faiths" conversion narrative for Vladimir is "a later invention, and, at that, in all probability, not even a Russian, but a Greek invention" (Golubinsky quoted, lines ~12229-12232); "the story ... must be regarded as apocryphal" (line ~12316); it fuses two traditions (Greek missionary icon + Kherson baptism/marriage, lines ~12257-12269). The Laurentian uniquely preserves as interpolation after 1096 the Testament (Pouchenie) of Vladimir Monomakh, his letter to Oleg, and prayer (lines ~14321 ff.). The Pouchenie "opens with excerpts from the Psalter and from patristic works (particularly the Asketika and Discourses of St. Basil the Great), followed, first, by extensive admonitions to Vladimir’s sons, and finally, by a somewhat incomplete summary of Vladimir’s campaigns and adventures in approximate diary form, beginning in 1073 and ending in 1117" and "represents a fusion of at least two intrinsically unrelated documents"; comparison shows "military activity against the nomads was more strenuous and constant than the annals themselves would indicate" (lines ~14519-14530). Composed shortly before Monomakh's death 19 May 1125 (lines ~14531-14535). Detailed notes supply identifications (e.g., Kherson topography, lines ~12330 ff.; Torchesk as Tork settlement, lines ~14074 ff.) and correct chronology (e.g., 971 for Svyatoslav-Tzimiskes, lines ~12003 ff.). Essential for 11th c. princely politics, Polovtsian wars, and Rurikid succession (e.g., Lyubech 1097 settlement details, lines ~14363 ff.). Must be used with archaeology and foreign sources; pro-Rurikid/Kievan bias noted.
 

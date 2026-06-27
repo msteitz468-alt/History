@@ -5,7 +5,7 @@ period_involved: [Early Middle Ages, High Middle Ages]
 regions_involved: [western-europe, mediterranean, iberia]
 positions: ["Mutationist (a real, rapid 'feudal revolution' c. 980–1060)", "Documentary-mutation / anti-mutationist (the change is an artefact of changing records)", "Anti-feudalism (fiefs and vassalage as a coherent system are a 12th-c. invention)", "Regionalist (the model fails for Germany, England, León, southern Italy)"]
 resolution_status: open
-last_updated: 2026-06-12
+last_updated: 2026-06-27
 tags: [controversy]
 ---
 
@@ -38,6 +38,17 @@ The model was built from the great French and Catalan regional studies — **Geo
 - **The slavery–serfdom critique.** The extent of early medieval slavery and the sense in which it was "replaced" by serfdom is, in Reuter's words, "highly contentious" (Verhulst, Barthélemy).
 - **The regionalist critique.** The model was derived from west Francia (including Catalonia) and northern Italy and, Reuter stresses, **does not work** for important regions: **Germany** (where the decisive break is placed in the later eleventh century — reform, Investiture Contest), **England** (where the model has been explicitly rejected — James Campbell), **León**, and **southern Italy**.
 
+## Wickham's Position (qualified mutationism)
+
+[[wickham-medieval-europe-2016|Chris Wickham]], one of the named respondents to Bisson, stakes out a **"broadly with the first group, with nuance"** position in *Medieval Europe* (2016). He credits the documentary and anti-feudalism critics with "much-needed nuance" but holds that something **real and structural** did change in eleventh-century France:
+
+- **Smaller-scale, castle-based political structures genuinely do produce more "capillary" violence**, and the intensely *personalised* politics of the eleventh-century sources (e.g. the complaint of Hugh of Lusignan) is only possible "when power is so localised that every actor is known to every other" — unlike the Carolingian world.
+- His distinctive refinement is **boundedness/cellularity**, not violence per se. The decisive novelty was that power became **bounded and formalised**: it now "mattered where the edge of a lordship was," where a village territory or parish ended — the *seigneurie banale* with its saleable rights of justice and toll. The peasantry was "caged inside the cellular structure of local power." This **cellular network** is what high-medieval states later had to rebuild *against* (see [[late-middle-ages]]), and Wickham traces the strong late-medieval public sphere back to it.
+- The shift was **two separate processes** with distinct histories that fed each other: the *weakening of the public world* of kings and assemblies, and the *growth of local lordships*. Both are, in Bloch's terms, latent possibilities of the [[politics-of-land|politics of land]] in a state not supported by taxation.
+- Wickham **accepts the regionalist critique**: the French pattern is "an extreme." England and Castile kept castle-lords inside a rich king-centred order; Germany localised differently (overlapping rights, the *advocacy* system, networks like the Zähringen) rather than into bounded French-style seigneuries. The phenomenon is real but variable in "dating and intensity."
+
+This makes Wickham a **mutationist who has internalised the critics' objections**: the "feudal revolution" is real but is best defined as the rise of *bounded, cellular local power*, not as a sudden eruption of disorder, and it is the single greatest break in western Europe "after the fifth century."
+
 ## Significance
 
 The debate is not merely technical: it determines whether one reads the long tenth century as the **end of antiquity's long shadow** (the final destruction of the Roman/Carolingian "public" state) and the **birth of the High Medieval order**, or as a period of largely continuous, undramatic evolution whose apparent suddenness is a trick of the sources. It bears directly on the periodisation boundary between the [[early-middle-ages|Early]] and [[high-middle-ages|High Middle Ages]].
@@ -47,3 +58,4 @@ The debate is not merely technical: it determines whether one reads the long ten
 - `contrasts_with:` [[nature-of-carolingian-government]] — the prior debate over whether the Carolingian "public order" was ever as robust as the mutationists' baseline assumes.
 - `analogous_to:` [[indian-feudalism-debate]] — a structurally parallel dispute over whether "feudalism" is a useful category outside western Europe.
 - `concurrent_with:` [[encellulement]], [[peace-of-god]] — the village-nucleation process and the violence-limiting movement that the mutationist model treats as symptoms of the same transformation.
+- `part_of:` [[politics-of-land]] — Wickham's framework, of which the fragmentation of public power c. 1000 is the pivotal instance.

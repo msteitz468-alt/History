@@ -7,8 +7,8 @@ date_range: "1300–1500 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road, mesoamerica, andes]
 major_themes: ["the Pax Mongolica and the integrated Eurasian system", "the Black Death and the fourteenth-century crisis", "the breakup of the Mongol empire and Timur", "the rise of the Ottomans and the fall of Constantinople (1453)", "Ming China and the Zheng He voyages", "the apogee of Mali (Mansa Musa)", "the rise of the Aztec and Inca empires", "the eve of European oceanic expansion"]
 collection_coverage: strong
-sources_ingested: 5
-last_updated: 2026-06-22
+sources_ingested: 6
+last_updated: 2026-06-27
 tags: [period]
 ---
 
@@ -145,6 +145,22 @@ world system "before European hegemony"; the reframing of 1500 not as the dawn o
 an inevitable European-led modernity but as one contingent outcome of a long
 Afro-Eurasian integration; and the insistence (Smith, MacCormack) that the
 American empires be read on their own terms rather than as foils to the conquest.
+
+**Against the "waning" (Wickham 2016).** [[wickham-medieval-europe-2016|Chris Wickham]]'s
+*Medieval Europe* directly attacks the [[late-medieval-crisis|"waning of the Middle
+Ages"]] tradition that reads 1350–1500 as decline (plague, war, schism, anxiety)
+awaiting rescue by Renaissance and Reformation. He argues the opposite: the last
+medieval centuries produced a **public sphere stronger than any since Carolingian
+assembly politics**. The combination of (1) **cellular local communities** left by the
+[[feudal-revolution-debate|eleventh-century break]], (2) the **spread of literate
+practice** to ever-wider social strata, (3) a resilient **high-equilibrium economy**
+that survived the Black Death, and (4) a **newly intrusive, tax-raising state** that
+had to seek the *consent* of those who paid produced **parliaments**, taxpayer
+communities, and a capacity for **organised dissent** (the English Peasants' Revolt,
+the Hussites). For Wickham this — not crisis or the prelude to modernity — is what the
+period "handed on to future generations." The driver is the return of **taxation** to
+the western state and its political price (consent), an application of the
+[[politics-of-land]] framework.
 
 ## Collection Coverage Note
 
