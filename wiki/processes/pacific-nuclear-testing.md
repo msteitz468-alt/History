@@ -16,7 +16,7 @@ produces:
   - produced: rongelap-contamination
   - enabled: [[nuclear-free-pacific-movement]]
   - enabled: marshall-islands-compact-of-free-association
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-27
 tags: [process, cold-war, oceania, micronesia, polynesia]
 ---
@@ -100,3 +100,135 @@ Source: [[denoon-cambridge-pacific-islanders-1997]]
 ## Fischer (2002): the half-century of testing, 1946–1996
 
 [[fischer-history-pacific-islands-2002|Fischer (2002)]] totals "more than 250 nuclear devices … detonated at Bikini, Enewetak, Johnston Atoll, Christmas Island, Malden, Moruroa and Fangataufa" over 1946–1996 (L8031–8034). The US 1954 **Bravo** thermonuclear test irradiated the Rongelap and Utrik peoples, evacuated only days later (L8055–8066); in 1958 alone the US detonated as many devices over Bikini and Enewetak as in all prior Pacific tests combined (L8063–8066); Kennedy's 1962 halt concealed the secret post-Cuba deal with Khrushchev (L8067–8073). Britain's Christmas Island/Malden H-bomb tests (1957–58) added "only" ~4% of global fallout to 1980 (L8111–8116). **France** relocated testing from newly independent Algeria to Moruroa in 1963 without consulting Polynesian representatives (L8153–8160); the first atmospheric shot (2 July 1966) registered contamination in Peru and New Zealand (L8165–8169). France sank the *Rainbow Warrior* in Auckland on 10 July 1985 (L8202–8205); Chirac's 1995 resumption sparked the first modern Polynesian civil insurrection in Papeete (L8247–8260), and only after the final Fangataufa test (January 1996) did the US, UK and France sign the South Pacific Nuclear-Free Zone Treaty protocols (L8268–8270). Enewetak's people returned in 1980 to only 3 of 40 islands (L8086–8094).
+
+---
+
+## Johnston (2023): Nuclear Colonialism as Global Ecology
+
+*Material from [[hattori-samson-cambridge-pacific-ocean-v2-2023]], ch. 56 (Barbara Rose Johnston), which provides the most detailed treatment of the human rights, environmental, and analytical dimensions.*
+
+### Human Subjects Research and the "Living Laboratory"
+
+Johnston documents systematic research on non-consenting Islander populations. After the
+1954 Bravo hydrogen bomb test, Rongelap community "displayed severe signs of radiation
+poisoning. The entire population was retained for further study." In 1957, Rongelap people
+were shipped back to their "heavily contaminated home islands where they began an unwitting
+servitude as subjects in a 'living laboratory'." Periodic exams and biosamples "generated
+evidence of the presence, movement, accumulation, and consequential damages of radiation in
+the environment, food chain, and human body. This classified research documented a wide array
+of individual and intergenerational health effects from living in a highly radioactive
+environment."
+
+Twenty years passed before the US government acknowledged continuing obligations. Even then,
+"cleanup" of Enewetak (1977–80) scraped radioactive soil into an unlined pit on Runit Island
+and capped it with 4 inches of cement; "radioactive bulldozers, cranes, boats, and other
+large objects were dumped into the lagoon." The 1980 partial return allowed habitation on
+only those islands "not too contaminated to support 'cleanup' efforts," requiring Islanders
+to rely on USDA food supplements rather than their traditional subsistence base.
+
+### French Testing: Scale and Suppression
+
+France conducted 210 nuclear tests between 1960 and 1996; 193 at Mururoa and Fangataufa in
+the Tuamotu Archipelago. Declassified French Ministry of Defence papers (2013) revealed
+authorities knew "plutonium fallout hit the whole of French Polynesia, a much broader area
+than France had previously admitted. Tahiti, the most populated island, was exposed to 500
+times the maximum accepted levels of radiation" in July 1974. Around 150,000 military and
+civilian personnel were potentially exposed; at time of publication only eleven had received
+compensation. Nuclear programme workers observed atmospheric detonations within fallout zones
+"in the open in only shorts and T-shirts, without even eye protection."
+
+France suppressed the independence movement: nationalist leader Pouvanaa a Oopa — who had
+served in both World Wars for France — was arrested and exiled when he agitated for social
+reform; the RDPT was dissolved in 1963. Representative Oscar Temaru ridiculed French
+concessions as the islands continuing to be seen as "a rubbish bin where one can put anything
+one wants." By the 1990s French Polynesia "was in debt, producing only one-quarter of its
+own revenues, the other 75 per cent issuing from France and almost half of that from military
+expenditures."
+
+Tests of Mururoa subsoils in 1998 found nuclear waste radioactivity at 371 times the safety
+threshold for French nuclear power plants. France also "disposed of more than 3,200 tons of
+radioactive waste into deep ocean off Mururoa and Hao Island." Cracking of base rock from
+underground testing raised the spectre of "a possible collapse of part of the atoll which
+would spill radioactive rock into the surrounding sea."
+
+### British Testing: Grapple and Terra Nullius
+
+Britain's Operation Grapple (Christmas and Malden Islands, 1957–58) was "overseen by the
+British Army with the cooperation of both New Zealand and Fiji." Forty Fijian naval ratings
+were invited "to show the Navy how to live on a small Pacific Island while atomic bomb tests
+were carried out." Fijian High Chief Ratu Penaia Ganilau attended without rubber boots
+because "the Navy couldn't find a pair large enough for Ratu Penaia's feet." He later died
+of leukemia and sepsis; "his family maintains that his cancer resulted from the fallout
+exposure." His sons born after the tests have suffered "swelling, skin diseases … and
+inability to have children."
+
+The Australian Maralinga tests relied on "a remarkable perpetuation of the terra nullius
+doctrine": the Yankunytjatjara and Pitjantjatjara were "constantly forming and re-forming,
+splitting and recombining" across the Prohibited Zone. Officials warned Aboriginal peoples
+"of dangerous spiritual forces and poisons in the air" rather than full disclosure; "only
+cursory aerial checks were employed to determine that the region was … at least cleared of
+local communities." Researchers from the Australian Royal Commission later heard of illness
+and death from both fallout and "measles from exposure to outsiders in the territory."
+
+### Quantitative Scale: Fallout Equivalences
+
+Between 1946 and 1958 the US conducted 23 tests around Bikini Atoll and 44 around Enewetak
+and in the region. Declassified records (1994) showed 20 of these tests "blanket[ed] the
+entire Marshallese nation with measurable levels of radioactive fallout — more than 7,000
+Hiroshima bombs equivalent." The hydrogen bomb tests generated intense fallout including
+radioactive iodine; "it is estimated that 150 times more Iodine-131 was released into the
+atmosphere from Marshall Islands tests than the amount released by the Chernobyl nuclear
+disaster."
+
+Amchitka Island (Aleutians): a 5-megaton bomb exploded underground in 1971, "400 times more
+powerful than the Hiroshima bomb," registered as a magnitude 7 earthquake. Greenpeace testing
+of waters around Amchitka found plutonium and americium; the Federal agency in charge "never
+monitored the waters off Amchitka, or tested coastal rocks, kelp beds, or marine animals for
+radiation." Construction workers who built the test infrastructure remember supervisors wearing
+dosimeters "while they were given no equipment or warnings. They talked about it among
+themselves but did nothing."
+
+### Legal Frameworks and Their Failure
+
+Traditional landowners in the Marshall Islands filed lawsuits; a 1988 Compact of Free
+Association promised redress. A Nuclear Claims Tribunal used Western legal frameworks of
+"individual ownership and fair market value cash compensation" that were "culturally and
+historically" incompatible with the Marshallese system of communal tenure through female
+lineage. Contamination of "terrestrial surfaces meant extended harm also to marine
+environments" — redress required accounting for "underwater reefs, seamounts, and ridges,
+and the places both in and around lagoons" not easily defined in Western law.
+
+A 2012 UN Human Rights Council report declared the Marshall Islands had suffered "violations
+of humanitarian law resulting from the development, testing, and use of weapons of mass
+destruction." Yet the US "framed questions of claims within a framework of continuing support,
+aid, and national strategic prerogatives, and rejected approaches fundamentally based on
+rights violations, focusing almost uniquely on soil remediation and belated medical treatments."
+
+Social stigma: "People didn't want to shake our hands for fear we would contaminate them"
+(Alimira Matayoshi, 2001). Bias in education, courtship, and employment "developed — and
+could persist across generations."
+
+### Scientific Suppression and Methodology
+
+Research findings were "framed to adhere to official government narratives of strategic
+necessity." The "assumption that radiogenic health effects must be demonstrated through direct
+causality (one isotope, one outcome) meant that science on cumulative and synergistic effects
+was not pursued." "Contradictory findings were censored and silenced." This military-industrial
+bias "is easily built into the research efforts themselves" and "continues to do so through
+delimited criteria of what constitutes health threats or can be clearly traced to weapons
+testing contamination."
+
+### Fukushima (2011) and Structural Continuity
+
+The 2011 tsunami breach of Fukushima Daiichi demonstrated the same structural pattern beyond
+weapons testing: depopulated farming and fishing communities displaced into nuclear plant
+workforces; workers "sworn to secrecy, after a superficial safety education drill … sent
+into highly contaminated, hot and wet labyrinthine areas"; paediatric thyroid cancers
+"several tens of times larger" than expected; social suppression of adverse findings.
+
+By late 2011, cesium-134 and cesium-137 from Fukushima was present in Pacific bluefin tuna
+off San Diego. Johnston's conclusion: "nuclear colonialism is not a history that exists only
+in a defined period. Impacts that damage health and environment are not overcome, but expand
+over time and can be passed on to future generations."
+
+See [[nuclear-pacific]] for the analytical concept developed from this history.

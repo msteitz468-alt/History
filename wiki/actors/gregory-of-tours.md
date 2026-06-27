@@ -9,7 +9,7 @@ affiliated_with: [the Merovingian kingdom, Catholic Christianity, St. Martin of 
 opposed_by: [Chilperic I]
 key_events: [writing the Ten Books of Histories (Decem Libri Historiarum)]
 key_processes: [Christianisation of Gaul, Merovingian consolidation]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-27
 tags: [actor, person, late-antiquity, western-europe]
 ---
@@ -63,5 +63,7 @@ Helmut Reimitz's chapter in the [[sources/effros-moreira-oxford-handbook-merovin
 ## Related Pages
 
 *   **Actors**: [[clovis]] · [[germanic-peoples]] · [[reccared-i]] · [[fredegund]] · [[brunhild]] · [[merovingian-episcopate]]
-*   **Events**: [[battle-of-vouille-507]]
-*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]] · [[geary-before-france-germany-1988]]
+*   **Events**: [[battle-of-vouille-507]] · [[gundovald-affair-585]]
+*   **The work itself**: [[gregory-of-tours-history-of-the-franks-thorpe-1974|The History of the Franks (Decem Libri Historiarum)]] — full source page for the *Ten Books of Histories*
+*   **Sixth-century kings he chronicles**: [[guntram]] · [[chilperic-i]] · [[sigibert-i]] · [[childebert-ii]] · [[chlothar-i]]
+*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]] · [[geary-before-france-germany-1988]] · [[gregory-of-tours-history-of-the-franks-thorpe-1974]]

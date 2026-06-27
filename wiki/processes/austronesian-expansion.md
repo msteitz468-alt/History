@@ -25,7 +25,7 @@ produces:
   - "Settlement of New Zealand ~AD 1000–1200"
   - "Oceanic branch of Austronesian language family"
   - "Lapita cultural complex"
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-27
 tags: [process, Neolithic, Behavioral Modernity, oceania, polynesia, melanesia, micronesia, southeast-asia, east-asia, demographic]
 ---
@@ -115,6 +115,26 @@ Key unresolved gap: a "gap in sites of the relevant period in northern New Guine
 - part_of: [[behavioral-modernity]] (cultural capacity enabling maritime expansion)
 - analogous_to: [[bantu-expansion]] (comparable continental-scale demographic and linguistic dispersal)
 
+
+## Bedford (2022): Lapita Chronology, the "Pause," and East Polynesian Dispersal
+
+[[jones-matsuda-cambridge-pacific-ocean-v1-2022]] ch. 19 (Bedford) provides the most precise radiocarbon-grounded chronology for Austronesian colonization of the Pacific, superseding some earlier dates and adding significant nuance to the "pause" narrative.
+
+**Lapita dates (revised).** The earliest Lapita sites are in the Bismarcks at ~1200 BCE; movement was "rapidly eastwards, and earliest dates of c. 1100–800 BCE in the Reefs-Santa Cruz, 1000–900 BCE in Vanuatu, 1000–800 BCE in Fiji, and 850 BCE in Tonga." The entire span from Bismarcks to Sāmoa — 4,500 km — was colonized in roughly 200 years. "The rate of colonization across Remote Oceania to Tonga was so rapid that it was simply not possible to have populated all islands before arriving at the easternmost point."
+
+**Pottery as connectivity marker.** Early Lapita (primarily Bismarcks zone) carried the widest range of forms and most elaborate dentate-stamped designs; Middle Lapita style spread across the full distribution simultaneously, demonstrating network-wide connectivity; Late Lapita shows "stylistic divergence, simplification, and regional variation." At the Teouma site in Vanuatu, "of the more than 400 individual vessels identified at the site, many of which were involved in burial ritual, some 10 per cent come from New Caledonia" — concrete evidence of inter-island exchange even during the colonizing phase.
+
+**Genetic evidence for Lapita origins.** Ancient DNA from Teouma (Vanuatu) and Tonga shows Lapita colonizers had "almost identical genetic profiles that map most closely to contemporary Indigenous populations of the northern Philippines and Taiwan." This changed rapidly within the Lapita period: at a Late Lapita site on Uripiv Island (northern Vanuatu), individuals "shared a mixed Asian and Papuan heritage, and as time goes beyond the Lapita period Papuan genes completely dominate." This Papuan genetic replacement likely did not extend east of the Fijian archipelago.
+
+**The pause explained.** Bedford characterizes the ~2,000-year standstill at Tonga and Sāmoa as reflecting: (1) demographic exhaustion after a surge covering 4,500 km in a few generations; (2) increasing distance from population sources; and (3) the geography beyond Tonga becoming "increasingly fragmented" — "except for Niue there are no large islands within 1,800 kilometres east of Tonga, almost twice the distance as the longest previously traversed sea space between Vanuatu and Fiji."
+
+**East Polynesian (CEP) dispersal dates.** Conservative estimates place first settlement in the Society Islands at 1025–1120 CE and the Gambier at 1100–1275 CE; more recent research at Hane (Marquesas) suggests 900–1000 CE across the region. Key island group dates: Rapa Nui 1000–1200 CE; Hawai'i c. 1000–1200 CE (most likely immediate source: the Marquesas, "both on artefactual and linguistic grounds"); Aotearoa New Zealand 1250–1280 CE. The Chatham Islands were discovered during the New Zealand colonizing phase (~860 km east of the South Island).
+
+**Aotearoa specifics.** New Zealand at 236,000 km² is "ten times the size of Hawai'i, and second only to New Guinea across the entire Pacific." Colonization was so rapid that radiocarbon chronology "cannot be differentiated" between sites in the far north and those on Rakiura/Stewart Island. Dogs and rats arrived with the colonizers but "pigs and chickens did not make the transition to Aotearoa New Zealand from the tropical Pacific." The Wairau Bar site (South Island) holds "an estimated 33 tons of bone... representing 4,000 moa along with 2,400 moa eggs, and numerous seals and dogs."
+
+**Social drivers.** Bedford follows Kirch's argument: Austronesian expansion "had as much to do with a new ideology, tied to a distinctive social structure where ranking and inheritance were governed by birth order, as it did with anything else." Junior siblings sought "new landscapes that could be claimed, named, divided, planted, managed and inherited." Colonizing groups were often small and used high-connectivity mortuary ceremonies and exchange to maintain social cohesion across vast distances.
+
+See also [[southern-ocean-seafaring]] for the South Polynesian dimension and [[polynesian-american-contact]] for the eastern contact episode.
 
 ## Fischer (2002): origins, the language family, and the Lapita complex
 

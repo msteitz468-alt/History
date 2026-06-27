@@ -52,7 +52,11 @@ partisan. See [[geary-before-france-germany-1988]].
 
 Edward James's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] treats Fredegund as a queen who converted treasure and royal grants into autonomous power: after Chilperic's murder (584) she fled "with treasure into the cathedral of Paris… to negotiate for her future," gained Guntram's protection, and declared "everything you see belongs to me… None of it has been taken from the public treasury." Gregory holds her responsible for the stabbing of Bishop Praetextatus of Rouen during Mass (586). Like other queens she had only limited access to the *fiscus* (see [[merovingian-polity]], [[merovingian-queenship]]).
 
+## From Gregory of Tours (Thorpe, 1974)
+
+**[[gregory-of-tours-history-of-the-franks-thorpe-1974|Gregory]]** is the source of almost the entire dark legend, and a hostile one. He makes Fredegund the cause of the dynasty's wars from the start: [[chilperic-i|Chilperic I]] "loved Fredegund, whom he had married before he married Galswintha," and so "had [Galswintha] garrotted… [and] within a few days had asked Fredegund to sleep with him again" — the murder of [[brunhild|Brunhild]]'s sister that founded the feud. He attributes to her the assassination of [[sigibert-i|Sigibert I]] by "two young men… suborned by Queen Fredegund," the destruction of Chilperic's son Clovis (torturing a witness "bound to the stake and set alight while still alive"), the witch-burnings over her own son's death, the altar-murder of Bishop Praetextatus, and repeated assassins sent against Childebert II and Brunhild ("kill Brunhild instead, that woman whom I hate"). After Chilperic's murder she "remained all alone in the cathedral" of Paris, declaring of her daughter's dowry "everything you see belongs to me… None of it has been taken from the public treasury." The relentless catalogue of crime is Gregory's construction; her real power lay in converting treasure and faction into the survival of her son [[chlothar-ii|Chlothar II]].
+
 ## Related
 
-- [[brunhild]] · [[chlothar-ii]] · [[neustria]] · [[gregory-of-tours]] · [[merovingian-franks]]
-- Source: [[geary-before-france-germany-1988]]
+- [[brunhild]] · [[chlothar-ii]] · [[chilperic-i]] · [[sigibert-i]] · [[neustria]] · [[gregory-of-tours]] · [[merovingian-franks]]
+- Sources: [[geary-before-france-germany-1988]] · [[gregory-of-tours-history-of-the-franks-thorpe-1974]]

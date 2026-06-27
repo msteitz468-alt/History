@@ -21,7 +21,7 @@ produces:
   - "pacific-new-laws-19th-century"
   - "mission-education-pacific"
   - "[[pacific-chiefly-state-formation]]"
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags:
   - process
@@ -104,6 +104,24 @@ The process did not "end" in any clean sense; by 1900 most of Polynesia and much
 ## Historiography
 
 The core debate concerns missionary agency vs. Islander agency in conversion. [[denoon-cambridge-pacific-islanders-1997]] firmly emphasises Islander choice: "it is now impossible to know what inspired either conversion or rejection, but some circumstances can be conjectured." This represents a historiographical move away from earlier narratives that treated conversion as missionary achievement or colonial imposition. Key archival base: London Missionary Society papers (School of Oriental and African Studies; Mitchell Library, Sydney); Methodist missionary archives (Mitchell Library); Anglican archives (Lambeth Palace; University of Papua New Guinea Library). Landmark secondary works: Latukefu, *Church and State in Tonga*; Kamakau, *Ruling Chiefs of Hawaii*; Hanlon, *Upon a Stone Altar* (Pohnpei); Meleisea, *The Making of Modern Samoa*; Bonnemaison, *The Tree and the Canoe* (Vanuatu).
+
+## The Culture Concept and Mission Transformation
+
+Gardner (ch. 46, [[hattori-samson-cambridge-pacific-ocean-v2-2023]]) adds an intellectual history dimension to this process: how the anthropological concept of "culture" — largely generated from Pacific fieldwork — re-entered Pacific mission practice and reshaped the political meaning of conversion and decolonization. See [[concepts/culture-concept-and-missions-pacific]] for full treatment.
+
+Before the 20th century, missionaries described Islander life using "tradition," "custom," "practice" prefaced with "primitive" or "savage." Jane Samson describes this as simultaneous "brothering" (asserting human unity to justify mission) and "othering" (emphasizing savage practices). Missionaries discovered early that conversion did not produce Europeanization: "those who learned to read Bible passages in Islander languages remained steadfastly Tahitian, Fijian, Samoan, or Tongan in their social practices."
+
+The decisive shift came through the culture concept developed by Malinowski (*Argonauts of the Western Pacific*, 1922, from Trobriand fieldwork) and Mead (*Coming of Age in Samoa*, 1928, from Samoan fieldwork). Malinowski was explicitly anti-mission: missionaries "destroy the natives' joy in life; they destroy their psychological raison d'être." From the late 1920s, anthropology entered mission training (Radcliffe-Brown at Sydney, 1928; Maurice Leenhardt bridging French anthropology and New Caledonia mission). H. Richard Niebuhr's *Christ and Culture* (1951) gave theological grounds for accepting local cultures.
+
+Key Pacific developments:
+- **Jerusalem 1928**: Chinese and Japanese delegates demanded national churches reflecting their cultures; European missionaries rebuffed the demand but were put on the defensive.
+- **Malua Conference, Sāmoa (c. 1961)**: First Pacific Island churches meeting, organized by Fijian and Tongan clergy trained in North American third-world Christian networks, declared "The Coconut curtain has lifted."
+- **Pacific Theological College, Suva (1966)**: Incorporated sociology and anthropology in curriculum; produced divinity theses on indigenization of worship across all major island groups.
+- **Pacific Conference of Churches**: A "staunchly political organization which supported decolonizing churches and nations."
+
+The result was that Pacific Christianity — far from being destroyed by cultural relativism — became the ideological vehicle for decolonization: "Paciﬁc clergy and devout Christian politicians moved between pulpit and parliament" carrying theologies of enculturation (Catholic) or contextualization (Protestant). Vanuatu's constitution, PNG's constitution, and the Solomon Islands' post-independence government all bore the mark of Pacific clergy trained in this theological tradition.
+
+**Distinctive emic–etic tension**: Pacific Islanders understood *kastom* as dynamic, politically deployable, and fragmented — not the static, bounded "culture" of the anthropological concept. The Maasina Rule movement in Malaita (late 1940s), led largely by South Seas Evangelical Mission members, codified customs "keeping those deemed worthy and rejecting those that were not" as a political act — far from the classical anthropological vision of unchanging cultural law.
 
 ## Collection Coverage Note
 

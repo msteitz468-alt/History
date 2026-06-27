@@ -16,13 +16,18 @@ applies_to_periods:
   - High Middle Ages
   - Late Middle Ages
   - Early Modern
+  - Age of Expansion
+  - Long 19th Century
+  - World Wars Era
+  - Cold War
+  - Contemporary
 applies_to_regions:
   - oceania
   - polynesia
   - melanesia
   - micronesia
 contested: "yes"
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [concept, analytical, oceania, polynesia, melanesia, micronesia]
 ---
@@ -79,15 +84,58 @@ Polynesian women's "primary work was to manufacture mats and cloth for domestic 
 
 **No universal rule of descent**: "There is no apparent relation between the rule of descent, the division of labour, and the esteem accorded to women." Matrilineal descent did not ensure gender equality.
 
+## Colonial-Era Gender and Identity: Interracial Relationships and Race-Mixing
+
+*Sources: Angela Wanhalla, "Rethinking Gender and Identity in Asia and the Pacific" (ch. 39), in [[hattori-samson-cambridge-pacific-ocean-v2-2023]]. Last updated 2026-06-27.*
+
+Since the 1980s, gender as "a category of analysis" (Joan Scott) has opened new questions about the Pacific past. As Patricia O'Brien argues, gender has been "vital to understanding the cultural kaleidoscope of the Pacific" — woven into the structure of institutions, the allocation of resources, and the sexual division of labour, making it "a particularly fruitful area for the examination of power and rank in Indigenous societies."
+
+### Interracial Relationships and Early Maritime Economies
+
+The beach — a liminal space "both separating and connecting different communities" — was the earliest site of sustained cross-cultural gender encounter. Beach and port communities established by sailors, deserters, whalers, and traders from the late eighteenth century drew feminist historical attention from the 1980s onward. Led by scholars of the Canadian fur trade, this work demonstrated "the crucial importance of intimacy and Indigenous women's labour to the establishment of economies of trade and exchange." The contribution of Indigenous women to extractive industries "was often overlooked. When women appeared, it was as wives, companions, and providers of domestic labour." [[hattori-samson-cambridge-pacific-ocean-v2-2023]]
+
+In New Zealand and Sāmoa, "early patterns of interracial marriage often followed Indigenous custom, whereby newcomer men (traders, whalers, and merchants) were folded into local communities through marriage for reasons of political alliance and also to access potential wealth that may derive from trade relationships." Marriage to an Indigenous woman of high rank "cemented an alliance and provided newcomer men with patronage, although they were subject to the dictates and protocols of the Indigenous communities in which they resided." Marshall Islanders similarly used cross-cultural marriage "to secure loyalty and share resources and knowledge across genealogies." Shore whaling in southern New Zealand (1830s–1840s) shows women of high rank marrying station owners: "marriage patterns reflected hierarchies of rank and power in Indigenous society."
+
+The maritime world also produced exploitation: the sealing industry around Australia's Bass Strait saw Aboriginal women "abducted as workers and sexually abused." Russian imperial expansion in the North Pacific used taking captives as "a characteristic strategy." The range ran from "brief encounters and commercial sex to meaningful marriages."
+
+Missionary observers systematically distorted these relationships, characterising gift exchange or domestic labour as "a trade in women akin to slavery" — as at Levuka, Fiji, where a missionary claim in 1852 prompted the New South Wales government to issue an anti-slavery proclamation in "an unprecedented attempt at jurisdictional imperialism." European residents at Levuka successfully challenged this characterisation by pointing to "the cultural protocols and practices of the local community."
+
+### Regulating Intimacy and the "Problem" of Mixed-Race Children
+
+As colonial administrations matured, interracial relationships "that were once acceptable to officials in some jurisdictions, primarily because they advanced the project of settler colonialism, were increasingly stigmatized or outlawed." New Zealand did not prohibit interracial marriage after 1840 — during a period when racial amalgamation philosophy was prominent — because "properly managed and administered racial crossings could be beneficial and helpful to race relations and colonial rule" (Damon Salesa): land settlement required legally recognised interracial marriages to work.
+
+By the 1860s–1880s anti-miscegenation laws appeared across the American West targeting Chinese, Japanese, Filipinos, Koreans, Hawaiians, and Indigenous peoples. California's 1850 law prohibited Black–white marriage; its 1880 extension targeted "Mongolians." Oregon prohibited marriage with Chinese and Indigenous Hawaiians in 1866. In Sāmoa, over 3,000 Chinese men arrived under German administration (from 1903); by 1910 interracial marriages had been prohibited. New Zealand's administration of Sāmoa (1920–62) "continued the German restrictions on interracial marriage and refined the system of racial categorization," defining "Europeans" to include those of Samoan ancestry only "if they were of legitimate birth and of no more than 50 per cent 'blood.'"
+
+"Race was a major criterion of citizenship and could even decide whether one counted as an inhabitant in the national census … Mixed-race peoples might be disparaged as degenerate, validated as forming stable communities, absorbed into white populations, or counted as indigenous" (Warwick Anderson).
+
+Colonial interventions were driven by two competing theories of "race-mixing": that mixed-race children would be physically robust and healthier than Indigenous populations (who were believed to be dying out); or that mixing distinct races would produce "unfertile 'half-castes' who would bring about racial degeneration." These views "co-existed with enthusiastic appraisals" and informed colonial policies including the Stolen Generations (Australia, 1930s), the establishment of Eurasian schools in Hong Kong (1860s) and Shanghai (1870), and eugenic investigations across Asia and the Pacific (1910s–1940s).
+
+Japanese sociologist Takahashi Yoshio argued interracial marriage had eugenic outcomes; Chinese philosopher Kang Youwei supported it for "racial improvement." Māori leaders in late nineteenth-century debates "were concerned about the role of interracial marriage in effecting land loss and its potential for eroding Māori culture" — not framing the debate in terms of "race" or racial exclusion (Lachy Paterson).
+
+### Family, Agency, and Counter-Narratives
+
+Close studies of households show that "the outcomes for mixed-race families … depended upon class and social standing." Marshallese women absorbed traders into genealogies to "gain access to land, and in doing so ensured political and economic futures for their children." In southern New Zealand homes, Māori was the lingua franca and cultural traditions — including food production — were maintained. In the Pacifc Northwest, "kinship was at the core of the Indigenous economy and intermarriage was the glue that held the Pacific Northwest region together."
+
+An important body of scholarship has exposed "the deliberate generational silence and shame associated with being of mixed ancestry." Kate Bagnall's studies of Chinese-European couples in colonial Australia demonstrate that "bringing interracial relationships and family into the centre of scholarly work changes long-held assumptions about the lives of Chinese men in the colonies." In Fiji, Lucy de Bruce used personal narratives to centre *kailoma* (European-Fijian) perspectives, privileging "Indigenous knowledge systems rather than Western ideas about race and identity that perceived 'mixed bloods as debased, contaminated or immoral.'"
+
+As Margaret Jolly observes, "the spectre of racial and cultural mixing in the colonial past 'haunts' the present in relation to matters of landownership and citizenship." In Hawaiʻi, "blood" as central to identity "generates processes of identification which fracture contemporary Hawaiian claims for sovereignty and self-determination."
+
 ## Historiography
 
 The chapter builds on a feminist ethnographic turn in Pacific studies from the 1970s–1990s: Annette Weiner's Trobriand re-study, Jill Nash on Nagovisi, Feil on Tombema Enga tee exchanges, Linnekin on Hawaiian women. Earlier missionary and traveller sources are used with explicit bias-awareness. Paula Brown's paired male/female testimonies from early 1960s Simbu provide a rare contemporaneous emic double-perspective. The main outstanding gap: intensive studies of female perspectives remain scarce; most ethnographic literature "emphasises female subordination" largely because of the male observer baseline.
 
+Wanhalla's colonial-era survey (ch. 39) situates Pacific interracial history within a global framework anchored in Ann Laura Stoler's analysis of race, gender, and colonialism in the Dutch East Indies. It is notable for its geographic sweep — from New Zealand and Sāmoa to the treaty ports of Hong Kong, Shanghai, and Japan, and from the Bass Strait sealing industry to the Pacifc Northwest fur trade.
+
 ## Related Pages
 
 - [[pacific-island-exchange-systems]]
+- [[pacific-archives-and-community-memory]]
+- [[pacific-cultural-identity]]
+- [[hawaii]]
+- [[overthrow-of-hawaiian-monarchy-1893]]
 - [[primitive-affluence]]
 - [[denoon-cambridge-pacific-islanders-1997]]
+- [[hattori-samson-cambridge-pacific-ocean-v2-2023]]
 - [[oceania]]
 - [[polynesia]]
 - [[melanesia]]

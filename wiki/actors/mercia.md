@@ -7,10 +7,10 @@ period: [Early Middle Ages]
 region: [british-isles]
 affiliated_with: [the Anglo-Saxon kingdoms]
 opposed_by: [Northumbria, Wessex, the Welsh kingdoms, East Anglia, the Vikings]
-key_events: [Mercian supremacy under Æthelbald and Offa, construction of Offa's Dyke, Battle of Ellandun 825, Viking conquest of eastern Mercia]
+key_events: [Mercian supremacy under Æthelbald and Offa, construction of Offa's Dyke, Battle of Ellendun 825, Viking conquest of eastern Mercia]
 key_processes: [the struggle for supremacy among the Anglo-Saxon kingdoms]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, state, early-middle-ages, british-isles]
 ---
 
@@ -40,8 +40,9 @@ fragmentation of the English peoples.
 
 Under Æthelbald and Offa, Mercia absorbed or dominated the Hwicce, Kent, Sussex, Essex (with London),
 and East Anglia, built **Offa's Dyke** against the Welsh, and issued a reformed silver coinage. The
-supremacy continued under **Cenwulf** (796–821) but collapsed thereafter: the West Saxon king Ecgberht
-defeated Mercia at **Ellandun (825)**, and the **Viking Great Army** overran and partitioned eastern
+supremacy continued under [[coenwulf-of-mercia|Coenwulf]] (796–821) but collapsed thereafter: the West
+Saxon king [[ecgberht-of-wessex|Ecgberht]] defeated Mercia at the
+[[battle-of-ellendun-825|Battle of Ellendun (825)]], and the **Viking Great Army** overran and partitioned eastern
 Mercia in the 870s. Western "English Mercia" survived under ealdormen allied to Wessex and was finally
 absorbed into the emerging kingdom of the English (918).
 

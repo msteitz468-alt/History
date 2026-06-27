@@ -105,3 +105,9 @@ officers (*maior domus*, antrustiones) with inherited Roman personnel (*referend
 
 Cross-refs: [[frankish-ethnogenesis]] · [[battle-of-vouille-507]] · [[salic-law]] · [[merovingian-franks]] ·
 [[francia]]. Source: [[geary-before-france-germany-1988]].
+
+## From Gregory of Tours (Thorpe, 1974)
+
+The fullest narrative source for Clovis is **[[gregory-of-tours-history-of-the-franks-thorpe-1974|Gregory's]]** Book II, written nearly a century later and heavily providential. Its set-pieces define the legend: the **ewer of Soissons**, where a year after the dispute Clovis split the offending soldier's skull — "That is what you did to my ewer in Soissons"; the **battlefield vow** against the Alemanni ("If you will give me victory… then I will believe in you and I will be baptized in your name"); and the **baptism at Reims** by Remigius, hailed "like some new Constantine," with the charge "Bow your head in meekness, **Sicamber**. Worship what you have burnt, burn what you have been wont to worship." Gregory frames the wars on the Arian Burgundians and Goths as holy: "I find it hard to go on seeing these Arians occupy a part of Gaul." He records the cold-blooded liquidation of rival kinglets — "in the same way he encompassed the death of many other kings and blood-relations of his" — and Clovis's death and burial in the church of the Holy Apostles at Paris after a thirty-year reign. His wife [[clotild|Clotild]] is cast as the human agent of his conversion. Read critically: Gregory's chronology is compressed and his purpose moral, not documentary.
+
+- Source: [[gregory-of-tours-history-of-the-franks-thorpe-1974]]

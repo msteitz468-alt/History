@@ -23,7 +23,7 @@ produces:
   - "[[invention-of-the-native]] — 'extinctionism' as ideological justification for plantation development over village production"
   - "Colonial policy preference for plantations over indigenous village production (Woodford in Solomons)"
   - "Creation of the 'Native Mother' concept in Fiji as policy response"
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-27
 tags: [process, demographic, long-19th-century, world-wars-era, oceania, polynesia, melanesia, micronesia]
 ---
@@ -103,6 +103,24 @@ Population recovery was established by the 1930s in most territories: Western Sa
 - contributed_to: [[invention-of-the-native]] — extinctionism as ideology
 - produced: "Native Mother" policy apparatus in Fiji
 - enabled: Plantation labour logic — "Islanders were dying out, so that their production should not be relied upon"
+
+## The Fatal Impact Debate and Historiographical Framing
+
+The scale and interpretation of Pacific depopulation are contested in one of the field's central historiographical debates. See [[controversies/fatal-impact-debate]] for full detail.
+
+Luker (ch. 45, [[hattori-samson-cambridge-pacific-ocean-v2-2023]]) frames the scholarly positions as follows. Alan Moorehead's *The Fatal Impact* (1966) narrated catastrophic European destruction of Pacific peoples and environments. The anti-Fatal-Impactists, led by Davidson and Kerry Howe, contested this: Howe charged Moorehead had portrayed Islanders as "helpless, passive, inferior, and the objects of European initiatives, not subjects in themselves." Norma McArthur's mathematical demography was invoked to argue that alleged 19th-century depopulation "is a myth, and one usually created by Europeans who looked for what they wanted to see."
+
+David Stannard (*Before the Horror*, 1989) challenged this dismissal by applying North American upward-revision methods (drawing on Dobyns 1966 and Crosby 1986) to Hawai'i, arguing pre-contact Hawaiian population was at least 800,000. He also highlighted the suppression of **fertility** as a distinct mechanism: beyond epidemic mortality, introduced syphilis and gonorrhoea limited the ability of Indigenous women to conceive and bear healthy children — an effect separate from, and additional to, epidemic mortality.
+
+Luker's current synthesis: "one size does not fit all." Key analytic refinements from her review:
+
+1. Not all introduced pathogens were "European" — syphilis perhaps originated in the Americas; malaria was endemic in New Guinea/Solomons/Vanuatu before European contact.
+2. Many crew on "European" ships were Pacific Islanders or Asians; Islander inter-island voyaging (Tongans to Fiji and Sāmoa) was also a transmission route.
+3. Beyond epidemic mortality, disease could suppress fertility for years after an epidemic — reducing women reaching reproductive age and causing infertility through STIs.
+4. Some communities may have grown demographically in the proto-colonial period; PNG Highlands populations contacted in the 1930s likely did not decline significantly before formal colonization.
+5. The question of pre-contact population remains "perhaps unknowable" for many archipelagoes; the archaeological record has not yet supplied firm baselines.
+
+**Variability is the central analytic fact.** "Some populations crashed catastrophically; others simply carried on."
 
 ## Historiography
 

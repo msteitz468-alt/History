@@ -97,7 +97,7 @@
 ### 9. British Isles & Early Medieval West
 66. **Hugh Kearney** - *The British Isles: A History of Four Nations* **[MISSING]**
 67. **Norman Davies** - *The Isles: A History* ✅ INGESTED 2026-06-27 (framework-focused: four-nations/Isles concept, naming problem, British-identity controversy)
-68. **David Peter Kirby** - *The Earliest English Kings*
+68. **David Peter Kirby** - *The Earliest English Kings* ✅ INGESTED 2026-06-27 (Deployed Subagent Strategy, 4 ranges; first political spine for early Anglo-Saxon England c.550–860 — 26 kings of Kent/Wessex/Northumbria/Mercia/East Anglia, the Heptarchy/Bretwalda/Tribal-Hidage concepts, the Augustine mission, Chester/Hatfield/Heavenfield/Winwæd/Ellendun battles, the Mercian-supremacy process; 44 created, 2 updated)
 69. **Pauline Stafford** - *A Companion to the Early Middle Ages: Britain and Ireland c.500-1100* ✅ INGESTED 2026-06-27 (Deployed Subagent Strategy, 7 ranges; specialist anchor for early medieval Britain & Ireland — new period sub-page + Wessex/Alba/Brian Bóruma/Uí Néill, conversion & Scandinavian-settlement processes, Insular-art/queenship/bookland; 18 created, 6 updated)
 70. **Guy Halsall** - *Warfare and Society in the Barbarian West 450-900* ✅ ingested 2026-06-27
 71. **Chris Wickham** - *Medieval Europe* ✅ ingested 2026-06-27

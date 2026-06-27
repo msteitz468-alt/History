@@ -56,86 +56,8 @@ DECLINED = user decided not to pursue
 
 **Principle:** For any meta-skill whose value depends on consistent background operation, the activation status itself should be observable and verifiable by the user with minimal friction. Users should not have to ask "are you running?" to trust that continuous improvement data is being captured; the system should surface the fact of its own operation proactively at session boundaries.
 
-### Observation 4: Explicit requirement to always run task-observer during file ingests
-
-**Date:** 2026-06-25
-**Session context:** User providing direct instruction after a major source ingest (Dumas Malone Jefferson and His Time Vol. 2) using the Deployed Subagent Strategy. User clarified that previous observation log entry was from another agent ("Claude") and stated the requirement: "I need you to always be running that skill when you're ingesting files".
-**Skill:** task-observer + project ingest workflow (CLAUDE.md "Deployed Subagent Strategy")
-**Type:** internal
-**Phase/Area:** Activation / Integration with Ingest Workflow
-
-**Issue:** During the Jefferson Vol. 2 ingest (large .txt + 7 subagents + main-thread reconciliation), task-observer was not automatically active from the beginning of the ingest work. The user had to explicitly invoke it later with a meta question. The user now states a hard requirement that task-observer must always be running when performing file ingests (especially the full Deployed Subagent Strategy process for books).
-
-**Suggested improvement:** 
-- Add an explicit mandatory first step in the CLAUDE.md "Ingest Workflow — Deployed Subagent Strategy" section: "Before doing any ingest work (reading source, creating caches, spawning subagents, or writing pages), invoke the task-observer skill."
-- Update the project's root CLAUDE.md (or a dedicated "Ingest Protocol" subsection) to include the activation instruction from task-observer's own "Recommended Activation Setup".
-- In future ingest sessions, the very first action after identifying the source file should be to ensure task-observer is loaded and will monitor the entire process (including subagent handoff, reconciliation, lints, filing, and git).
-- Consider adding a short checklist at the top of every ingest session log entry or source page work: "task-observer active: yes".
-
-**Principle:** When a user gives an explicit standing instruction about when a meta-monitoring skill must be active, that instruction must be turned into a structural, non-optional step in the relevant workflow documentation. "Always during ingests" is stronger than "at the start of task-oriented sessions" and must be enforced at the workflow definition level, not left to description matching or ad-hoc invocation.
-### Observation 4: Explicit task-observer activation for Jefferson Vol 3 ingest (hard requirement enforcement)
-
-**Date:** 2026-06-25
-**Session context:** User request: "ingest jefferson and his time 03". Starting full Deployed Subagent Strategy ingest of Malone *Jefferson and the Ordeal of Liberty* (Vol. 3 of Jefferson and His Time). 21,062-line .txt source.
-**Skill:** task-observer
-**Type:** internal
-**Phase/Area:** Activation / Ingest precondition (CLAUDE.md)
-
-**Issue:** Per explicit standing instruction in CLAUDE.md ("Mandatory precondition — task-observer must always be active during file ingests") and user feedback ("You can't just load the metaskill without making a big deal about it?"), the meta-skill must be invoked visibly and structurally at the absolute start of any ingest before any source content is read, caches created, or subagents spawned. In the prior Vol 2 session it was activated reactively after user meta-question. Previous workflow relied on description matching or ad-hoc.
-
-**Suggested improvement:** 
-- Make invocation loud and documented: (1) read SKILL.md, (2) launch persistent monitor on log.md, (3) immediately append a numbered invocation observation, (4) mark in todo list and announce in session, (5) keep monitor running through all phases (scaffold reads, subagent spawns with rate-limit sleeps, reconciliation, lints, filing, git ops).
-- Update CLAUDE.md "Ingest Workflow — Deployed Subagent Strategy" Step 0 to include these 5 concrete actions.
-- For every ingest session, first terminal output or chat message should surface "Task-observer explicitly invoked and monitoring".
-
-**Principle:** Standing user requirements for meta-monitoring during high-stakes, multi-agent workflows (ingests that create permanent wiki content and touch rate-limited subagent infrastructure) must be turned into non-skippable, self-documenting first actions with visible confirmation. "Making a big deal" is the enforcement mechanism that prevents the skill from being silently loaded or overlooked.
-
-**Status:** OPEN
 
 
-### Observation 5: Explicit task-observer activation for "ingest jefferson and his time 04" (Vol. 4)
-
-**Date:** 2026-06-25
-**Session context:** User request: "ingest jefferson and his time 04". Beginning Deployed Subagent Strategy for Dumas Malone's *Jefferson and His Time* Vol. 4 (~20k lines). Following hard CLAUDE.md precondition and prior explicit user requirement for visible activation *before* any source file content reads, /tmp caches, subagent spawns, page writing, lints, filing or git.
-**Skill:** task-observer
-**Type:** internal
-**Phase/Area:** Activation / Ingest precondition (CLAUDE.md "Deployed Subagent Strategy")
-
-**Issue:** Invocation must be loud, documented, and first: SKILL.md read (earlier), log reviewed for max obs# and recent Jefferson entries, source line count retrieved via wc (20,208 lines), prior wiki state for Jefferson/Malone surveyed via grep/index/log (Vols 1-3 ingested today with detailed bio + source pages + events). This append is the visible numbered confirmation before scaffold sampling of source.
-
-**Suggested improvement:** Continue treating ingest as the canonical trigger for full visible activation checklist as outlined in prior obs.
-**Principle:** Standing user requirement for meta-skill during ingests must produce self-documenting first action with chat-visible confirmation + log entry. "Task-observer explicitly invoked and monitoring" must precede source work.
-**Status:** OPEN
-
-
-### Observation 6: Explicit task-observer activation for "ingest jefferson and his time 05" (Vol. 5)
-
-**Date:** 2026-06-25
-**Session context:** User request: "ingest jefferson and his time 05". Beginning full Deployed Subagent Strategy ingest of Dumas Malone's *Jefferson and His Time* Vol. 5 ("Jefferson the President Second Term 1805-1809", 25,953 lines). Strictly following CLAUDE.md mandatory precondition and prior explicit user requirement: visible, documented, first action before reading source content (beyond wc for planning), creating /tmp caches, spawning subagents, writing pages, running lints, filing, or git operations.
-**Skill:** task-observer
-**Type:** internal
-**Phase/Area:** Activation / Ingest precondition (CLAUDE.md "Deployed Subagent Strategy")
-
-**Issue:** As with Vol 4, the metaskill must be invoked loudly at absolute start of ingest. SKILL.md read, log reviewed (max prior obs #5 from Vol 4), source line count via wc obtained, header sampled. This entry provides the numbered, self-documenting confirmation. Monitor will be launched immediately for visible streaming of observations throughout scaffold, range planning, staggered subagent batches (with sleeps), reconciliation, lints, bookkeeping, filing and commit.
-**Suggested improvement:** Continue and refine the 5-point visible checklist (read SKILL, launch monitor, append numbered obs, todo list entry, announce) for every future ingest. Consider scripting a helper that does the activation sequence atomically.
-**Principle:** User-mandated meta-monitoring for all file ingests must be non-skippable and produce immediate visible evidence (chat + numbered log entry + persistent monitor) before any substantive work on the source or wiki outputs. This prevents silent or retroactive activation.
-
-**Status:** OPEN
-
-### Observation 7: Explicit task-observer activation for "ingest alan turing: The enigma"
-
-**Date:** 2026-06-25
-**Session context:** User request: "ingest alan turing: The enigma". Beginning full Deployed Subagent Strategy ingest of Andrew Hodges' *Alan Turing: The Enigma* (33,842 lines; the definitive biography, #26 in Top 50 Biographies list). Strictly following CLAUDE.md mandatory precondition ("task-observer must always be active during file ingests") and prior explicit user requirement for visible, documented activation *before* reading source content (beyond wc/ls for planning), creating /tmp caches, spawning subagents, writing pages, running lints, filing the source, or git operations.
-**Skill:** task-observer
-**Type:** internal
-**Phase/Area:** Activation / Ingest precondition (CLAUDE.md "Deployed Subagent Strategy" + INGEST-ACTIVATION.md)
-
-**Issue:** Per standing rule in CLAUDE.md and INGEST-ACTIVATION.md, the meta-skill must be invoked visibly and structurally at the absolute start of any ingest. SKILL.md + INGEST-ACTIVATION.md read, current log tail reviewed (prior max Observation 6 from Jefferson Vol 5), persistent monitor launched on log.md (task 019f01a7-1c49-73b0-807c-63a7531a107c), no pre-existing turing-alan actor or bio confirmed via ls/grep, Processing List confirms priority bio source, biographies-hub.md + template read, source line count via wc obtained (33842 lines). This numbered append is the self-documenting confirmation. No source content sampled yet.
-
-**Suggested improvement:** Enforce the 5-point checklist (1. read SKILL+INGEST-ACT, 2. launch persistent monitor, 3. append numbered obs, 4. todo_write entry for ingest, 5. announce "Task-observer explicitly invoked and monitoring") at the very first response for every future "ingest ..." request. Add a short "Activation complete" banner in chat before any wiki or source work.
-**Principle:** The project's hard requirement makes task-observer activation a non-optional, first-class, auditable first step for all ingests; visible logging + monitor + announcement turns the rule into enforceable practice rather than aspirational description matching.
-
-**Status:** OPEN
 
 ### Observation (post-continue): Precise artifact cleanup and per-range log discipline for Biography Hub reingests
 
@@ -385,3 +307,124 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 **Suggested improvement:** Before scaffolding ANY new ANE place/people page, grep the wiki for *transliteration variants*, not just the intended slug: h↔kh, double letters (Hattusa/Hattusha), initial Y↔I (Yamhad/Iamkhad), -a↔-ah endings, k↔c, sh↔š. A cheap heuristic: search on a distinctive 4–5 letter root substring (`find . -iname '*amkhad*'`, `find . -iname '*attus*'`) rather than the full slug. Bake this into the ingest scaffold step for reference works especially, where dozens of named places are created at once.
 
 **Principle:** When a wiki already has deep coverage built by a prior source with its own naming conventions, the dominant ingest risk shifts from "writing good content" to "colliding with existing pages under different spellings." Dedup must search the *concept*, not the *chosen slug*. Recurrence of Observation 13 confirms a root-substring transliteration check belongs in the standing pre-scaffold routine, not just as a remembered caution.
+
+
+### Observation 25: User clarified that task-observer activation should NOT be made a big visible deal
+
+**Date:** 2026-06-27
+**Session context:** User feedback correcting over-application of visible/loud activation during Polis ingest (and prior sessions). Earlier log entries had escalated to requiring persistent monitors, numbered public announcements, 5-point checklists, and "make a big deal" ceremony for every ingest.
+**Skill:** task-observer
+**Type:** internal
+**Phase/Area:** Activation / Visibility and ceremony
+
+**Issue:** User stated: "In our previous conversation, I said you DID NOT need to make a big deal (like having a persistent background monitor showing) for the task-observer". Practices had produced unnecessary noise (persistent tail -f monitor streaming log entries, explicit "Task-observer explicitly invoked" banners, etc.).
+
+**Suggested improvement:** 
+- Revert activation to the minimum required by CLAUDE.md: read the task-observer SKILL.md and check `skill-observations/log.md` for relevant OPEN observations at the start of task-oriented sessions.
+- Do NOT automatically launch persistent background monitors (e.g. `monitor` tool on log.md) for activation.
+- Do NOT append a dedicated visible activation observation just to "prove" it was invoked.
+- Keep any activation steps quiet/silent unless the user specifically asks for visibility.
+- Loud/visible activation language in the log has been removed.
+
+**Principle:** When the user gives explicit feedback about the desired visibility and ceremony level of a meta-skill, that preference overrides earlier escalated instructions in the observation log. "Invoking" the skill should support the work without creating distracting side-effects or visible theater.
+
+**Status:** OPEN
+
+
+### Observation 26: Dedup sed-repoint inflates the broken-link changed-set with pre-existing noise
+
+**Date:** 2026-06-27
+**Session context:** Ingesting Wiesehöfer, *Ancient Persia*. A duplicate empire page (`sassanid-empire.md` vs canonical `sasanian-empire.md`) was merged: ~34 inbound links were `sed`-repointed, then the dup deleted.
+**Skill:** CLAUDE.md ingest workflow (Step 5 lint / dedup handling)
+**Type:** internal
+**Phase/Area:** Lint & validation after a cross-wiki dedup
+
+**Issue:** `wikilink_checker.py --changed` reported 19 "broken links," but every one was a *pre-existing* forward-reference (missing pages like `arab-conquests`, `gokturk`, `valerian`, `high-empire`) inside Roman-third-century pages that the dedup `sed` had touched only to swap `sassanid-empire`→`sasanian-empire`. None were introduced by the new content. Distinguishing introduced-vs-pre-existing breakage took an extra verification pass (grepping variant target names, checking they were missing before the run).
+
+**Suggested improvement:** When a dedup/rename touches many unrelated files, verify "0 broken links" against the *authored* set, not the whole changed-set: e.g. run the checker on a baseline first (or `git stash` the repoint), diff the broken-link counts, and only own the delta. Note in the log entry that changed-set noise is pre-existing. Also: do the dedup link-repoint as the LAST step before lint so its file churn is isolated.
+
+**Principle:** Mechanical mass-edits (rename/repoint/sed) expand the lint changed-set far beyond the semantic change, so a "0 broken links in changed files" gate produces false positives. The reliable signal is the *delta* of broken links the edit introduces, not the absolute count in every file it incidentally modified.
+
+### Observation 27: Editing a pre-existing page during ingest inherits latent schema debt
+
+**Date:** 2026-06-27
+**Session context:** Ingesting Wickham, *Medieval Europe* (2016). Added a Wickham subsection + "failure of alternatives" content to the pre-existing events/fourth-crusade-1204.md.
+**Skill:** New skill candidate (or CLAUDE.md ingest-workflow note): "wiki-ingest" workflow
+**Type:** internal
+**Phase/Area:** Step 5 lint / page-update discipline
+
+**Issue:** The Fourth Crusade event page predated the schema requirement that event pages carry a `## Historiography` section, so it had been passing un-flagged. The moment I edited it during this ingest, the changed-files schema validator flagged it as missing Historiography — making the latent debt my responsibility to fix (I added a proper Historiography section). This is a recurring dynamic: touching an old page during an ingest surfaces schema gaps that accumulated before the validator (or the requirement) existed.
+
+**Suggested improvement:** In the ingest workflow's reconciliation/lint step, treat "schema validator surfaces an issue on a page I only lightly edited" as expected, not surprising — budget for fixing inherited gaps on every updated page, and prefer `--changed` schema runs early (before writing much) so the gap is known up front rather than discovered at commit time.
+
+**Principle:** When a quality gate is scoped to "changed files," editing a legacy file silently adopts all of its pre-existing debt. Run the gate on a page *before* substantially editing it, so inherited failures are distinguished from regressions you introduced.
+
+### Observation 28: "0 broken links" is unachievable repo-wide; the real standard is 0 NEW broken links in touched files
+
+**Date:** 2026-06-27
+**Session context:** Ingesting Miles, *Carthage Must Be Destroyed* via the Deployed Subagent Strategy. At lint time the wikilink checker reported 1126 pre-existing broken links repo-wide; `--changed` scoped to ALL uncommitted working-tree changes (including unrelated pre-existing edits), not the files this ingest authored.
+**Skill:** CLAUDE.md ingest workflow (Step 5 lint) / wiki tooling
+**Type:** internal
+**Phase/Area:** Lint and validate
+
+**Issue:** CLAUDE.md Step 5 says the wikilink checker "must report 0 broken links," but the repo carries a large standing backlog (1126), so a literal global zero is impossible. Neither `--all` (too noisy) nor `--changed` (catches unrelated working-tree churn) isolates the ingest's own files; I had to hand-roll an awk/grep filter on the explicit file list to verify my edits introduced no broken links.
+
+**Suggested improvement:** Restate the Step 5 standard as "0 NEW broken links among the files this ingest created/updated," and either (a) add a `--files <list>` mode to wikilink_checker.py, or (b) document the awk-filter pattern as the standard verification recipe. Same applies to schema_validator output.
+
+**Principle:** When a validator runs against a corpus with a known pre-existing defect backlog, the meaningful acceptance criterion is "no NEW defects in the changed set," not "global zero." Tooling and instructions should make per-change scoping the default, or the standard becomes unverifiable and gets skipped.
+
+### Observation 29: De-link scripts must guard against [[[ triple-bracket YAML-list frontmatter
+
+**Date:** 2026-06-27
+**Session context:** Ingesting the Cambridge History of the Pacific Islanders; bulk-fixing broken wikilinks across 51 new pages with a regex de-link script.
+**Skill:** ingestion / wiki-link-maintenance workflow (CLAUDE.md Step 5)
+**Type:** internal
+**Phase/Area:** post-ingest lint / broken-link remediation
+
+**Issue:** A Python de-link pass using `\[\[([^\]]+)\]\]` corrupted YAML frontmatter list fields written as `events_here: [[[page|Display]], ...]` (list-bracket + wikilink = three opening brackets). The regex captured a leading `[`, so the target basename never matched the valid-page set even when the page existed, and the link was wrongly de-linked — leaving dangling `]` and broken YAML on the 4 region anchor pages. Only caught because the harness surfaced the file modifications.
+
+**Suggested improvement:** When scaffolding place/actor/event frontmatter, write list fields as PLAIN kebab-name lists (no `[[ ]]` inside frontmatter) — links belong in the body. And any regex de-link/link-rewrite pass should (a) skip the YAML frontmatter block, or (b) normalize `[[[`/`]]]` before matching and verify the result re-parses as YAML.
+
+**Principle:** Wikilink syntax inside YAML frontmatter is fragile under bulk regex edits; keep frontmatter link-free and confine `[[ ]]` to body prose. Validate frontmatter still parses after any scripted rewrite.
+
+### Observation 30: Subagents can recreate an anchor page in a different folder, causing slug collisions
+
+**Date:** 2026-06-27
+**Session context:** Ingesting *The Cambridge History of Australia, Vol. 1* via the Deployed Subagent Strategy. The main thread pre-created `wiki/processes/australian-frontier-conflict.md` as an anchor and told the Ch13–14 subagent to LINK/append to it, not recreate it. The subagent instead created `wiki/events/australian-frontier-conflict.md` (same slug, different folder), producing a duplicate basename. Because Obsidian wikilinks resolve by basename regardless of folder, `[[australian-frontier-conflict]]` became ambiguous. The main thread had to merge the (richer) event content into the canonical process page and delete the event file.
+**Skill:** CLAUDE.md ingest workflow (Deployed Subagent Strategy, Step 1/Step 3) — and applies to the atlas/ingest skills generally.
+**Type:** internal
+**Phase/Area:** Subagent scaffolding instructions / anchor-page handoff.
+
+**Issue:** Telling a subagent the anchor's bare name ("do NOT recreate [[australian-frontier-conflict]]") is insufficient when the topic plausibly fits more than one page type. The agent didn't realize the existing anchor lived in `processes/` and made a same-slug page in `events/`. Subagents check existence with `ls wiki/<their-guessed-folder>/`, which misses an anchor sitting in a different folder.
+
+**Suggested improvement:** When handing anchor names to subagents, give each anchor's **full relative path including folder** (e.g. `wiki/processes/australian-frontier-conflict.md`), and add an explicit rule: "Before creating ANY page, `grep -rl 'title: <X>' wiki/` or check all type folders for the slug — if a page with that basename exists in ANY folder, enrich it, never create a same-named file elsewhere." Add this to the Step-3 subagent prompt boilerplate.
+
+**Principle:** Wikilink namespaces that are folder-agnostic make the *basename* the unique key. Any workflow that parallelizes page creation must enforce basename uniqueness across all folders, and must hand collaborators the full path of pre-existing anchors — a bare name invites recreation in a sibling folder.
+
+### Observation 31: Subagents wrap link-taxonomy labels as wikilinks and overstep "don't touch index/log"
+
+**Date:** 2026-06-27
+**Session context:** CHA Vol. 2 deployed-subagent ingest (8 Sonnet agents over disjoint chapter-ranges).
+**Skill:** Ingest Workflow — Deployed Subagent Strategy (CLAUDE.md)
+**Type:** internal
+**Phase/Area:** Step 3 (subagent prompts) / Step 4 (reconciliation)
+
+**Issue:** Two recurring subagent defects surfaced during reconciliation: (1) one agent wrote event-frontmatter list items as `"[[caused_by]]: collapse of export prices..."` — wrapping the link-taxonomy *label* in `[[ ]]`, which the wikilink checker counts as a broken link (and is semantically wrong: the label is a key/prefix, not a page). This required a sed pass across 3 files. (2) Despite an explicit "do NOT edit the source page or log" instruction, one agent inserted a partial index.md entry covering only its 4 pages and prepended a section entry to log.md — main thread had to rewrite both to cover the whole ingest.
+
+**Suggested improvement:** In the per-agent prompt template add two explicit lines: (a) "Link-taxonomy labels (caused_by, produced, etc.) are plain prefixes, NEVER wikilinks — write `caused_by: [[page]]` or `caused_by: plain text`, never `[[caused_by]]`." (b) "Do NOT write to wiki/index.md or wiki/log.md under any circumstance — the main thread owns all bookkeeping." Consider a main-thread grep for `\[\[(caused_by|produced|contributed_to|preceded_by|followed_by|enabled|concurrent_with|part_of|contains)\]\]` as a standard Step-4 reconciliation check.
+
+**Principle:** Negative instructions to subagents need to be concrete and enumerated; a single "don't touch bookkeeping" line gets overridden by the agent's helpful instinct to update the index. And shared-vocabulary tokens (the link taxonomy) are a predictable place for agents to misapply markup — cheap to catch with a fixed grep, expensive to catch by eye.
+
+### Observation 32: Scope artifact/leak greps to the session's file set, not the whole wiki
+
+**Date:** 2026-06-27
+**Session context:** Ingesting Kirby, *The Earliest English Kings* via the Deployed Subagent Strategy; during Step 4 reconciliation I ran a broad `grep -rlnE "</content>|do not read|prompt|range_[A-D]_" wiki/` to find subagent artifacts.
+**Skill:** New skill candidate / CLAUDE.md ingest workflow (Deployed Subagent Strategy, Step 4)
+**Type:** internal
+**Phase/Area:** Step 4 — "remove agent artifacts (stray instructions, prompt echoes, tags — grep first)"
+
+**Issue:** The repo had ~150 untracked files from concurrent/prior ingest sessions (Pacific, Americas, Franks). The wide alternation pattern matched innocuous prose ("prompting", "do not") across dozens of unrelated files, producing a 150-line false-positive dump that had to be re-done scoped to just this ingest's files (built from `git status --porcelain` minus other sessions' work). The real check only needed the ~44 files this ingest created/edited.
+
+**Suggested improvement:** In the ingest workflow's artifact-grep step, first capture the session's own file list (e.g. the set of pages the scaffold + subagents created/edited) and grep ONLY those, with a tight pattern (`</content>`, literal prompt fragments, the cache-file path prefix) rather than fuzzy words like "prompt"/"do not" that occur in normal historical prose.
+
+**Principle:** Verification greps should be scoped to the unit of work and use patterns specific enough to avoid matching legitimate content; a wide repo-wide fuzzy grep in a busy multi-session repo produces noise that defeats the check.

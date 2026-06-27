@@ -60,7 +60,11 @@ The reign is comparatively well served by the *Chronicle of Fredegar*; the Edict
 key document of the Frankish "constitution." Later Carolingian-shaped sources colour the surrounding
 narrative. See [[geary-before-france-germany-1988]].
 
+## From Gregory of Tours (Thorpe, 1974)
+
+**[[gregory-of-tours-history-of-the-franks-thorpe-1974|Gregory]]** records Chlothar II's perilous infancy as the posthumous (or near-posthumous) son of [[chilperic-i|Chilperic I]] and [[fredegund|Fredegund]]: only "four months old" at his father's murder in 584, named **Lothar** by Chilperic's magnates, who "rallied round his son" and exacted oaths of loyalty to him and to [[guntram|Guntram]]. Guntram openly doubted the boy's paternity — "I am beginning to think that he is the son of one of my leudes" — until Fredegund produced "three bishops and three hundred leaders" who "swore an oath that King Chilperic was the boy's father," after which Guntram travelled to Paris to stand as his godfather at the font. When the child fell gravely ill (reported dead), Gregory credits his recovery to Fredegund's vow of "a great sum of money to the church of Saint Martin." Gregory died (594) long before Chlothar's reunification of Francia in 613, so the *Histories* show only the contested infant, not the eventual victor.
+
 ## Related
 
-- [[dagobert-i]] · [[brunhild]] · [[fredegund]] · [[francia]] · [[austrasia]] · [[pippinids]] · [[merovingian-franks]]
-- Source: [[geary-before-france-germany-1988]]
+- [[dagobert-i]] · [[brunhild]] · [[fredegund]] · [[chilperic-i]] · [[guntram]] · [[francia]] · [[austrasia]] · [[pippinids]] · [[merovingian-franks]]
+- Sources: [[geary-before-france-germany-1988]] · [[gregory-of-tours-history-of-the-franks-thorpe-1974]]

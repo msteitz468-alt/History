@@ -9,8 +9,8 @@ affiliated_with: [the kingdom of [[mercia]]]
 opposed_by: [Wessex, Kent, the Welsh kingdoms, East Anglia]
 key_events: [seizure of the Mercian throne 757, conquest of Kent and Sussex, construction of Offa's Dyke, correspondence with Charlemagne]
 key_processes: [the Mercian supremacy over southern England]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, early-middle-ages, british-isles]
 ---
 
@@ -26,7 +26,7 @@ court should not be taken at face value.
 
 ## The Mercian Supremacy
 
-Offa seized the throne in 757 after the murder of Æthelbald and a brief civil war. Over the
+Offa seized the throne in 757 after the murder of [[æthelbald-of-mercia|Æthelbald]] and a brief civil war. Over the
 following decades he extended direct or hegemonic control over the **Hwicce**, **Kent**, **Sussex**,
 **East Anglia**, and the kingdom of the East Saxons (London), ruling these provinces in differing
 forms rather than through a uniform administrative system. He suppressed rival royal lines, granted
@@ -64,3 +64,19 @@ the **"Bretwalda"** — later constructs that impose false uniformity on a polit
 the Mercian court," and that comparisons with Alfred the Great flatter Offa unduly. The unevenness of
 charters, law-codes, and coinage between kingdoms means much of Mercian governance is recoverable only
 indirectly.
+
+[[sources/kirby-earliest-english-kings-2000|Kirby]] sets Offa within the long arc of the
+[[mercian-supremacy|Mercian supremacy]] that his predecessor [[æthelbald-of-mercia|Æthelbald]]
+(716–757) had built and that his successor [[coenwulf-of-mercia|Coenwulf]] (796–821) briefly
+preserved. He emphasises how heavily our picture depends on partisan and uneven sources, and how
+fragile the hegemony proved: the rapid deaths of Offa and his son Ecgfrith in 796 precipitated a
+crisis, and within a generation [[ecgberht-of-wessex|Ecgberht]] of Wessex broke Mercian dominance
+at the [[battle-of-ellendun-825|Battle of Ellendun (825)]]. Like Keynes, Kirby is sceptical of the
+schematic [[heptarchy|"Heptarchy"]] and [[bretwalda|"Bretwalda"]] frameworks, reading southern
+politics instead through the graded overlordship implied by the [[tribal-hidage|Tribal Hidage]].
+
+## Related
+
+- driven the [[mercian-supremacy]] · preceded_by [[æthelbald-of-mercia]] · followed_by [[coenwulf-of-mercia]]
+- contrasts_with [[ecgberht-of-wessex]] (the West Saxon rival who supplanted Mercia)
+- Sources: [[mckitterick-ncmh-v2-1995|NCMH II]] · [[sources/kirby-earliest-english-kings-2000|Kirby, *The Earliest English Kings*]]

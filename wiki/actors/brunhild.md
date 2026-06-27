@@ -64,7 +64,11 @@ manufactured image of the [[rois-faineants|rois fainéants]]). See [[geary-befor
 
 The [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] presents Brunhild as the paradigmatic Merovingian regent-queen (Edward James, Ch. 11): widowed in 575, she ruled as regent for her son Childebert II and grandsons across four decades before [[chlothar-ii|Chlothar II]] had her killed in 613. Her power rested on property (the Treaty of Andelot, 587, secured her cities and revenues) but met fierce resistance — rebuffed in 581 with "Stand back, woman!" — and her hostile portrayal in Fredegar, Jonas, and the *Life of Desiderius* was written after her death (see [[merovingian-queenship]]). Jonas of Bobbio framed [[columbanus|Columbanus]]'s clash with her court as prophesying her line's extinction; she used Austrasia's ties to Constantinople to lever Pope Gregory I (see [[merovingian-epistolary-culture]], [[merovingian-monasticism]]).
 
+## From Gregory of Tours (Thorpe, 1974)
+
+In **[[gregory-of-tours-history-of-the-franks-thorpe-1974|Gregory's]]** contemporary account Brunhild enters as the Visigothic princess [[sigibert-i|Sigibert I]] married after his brothers took "wives who were completely unworthy of them" — "elegant in all that she did, lovely to look at, chaste and decorous," an Arian who converted to Catholicism. Widowed in 575, "prostrate with anguish and grief," she was seized by [[chilperic-i|Chilperic I]], her treasure taken and her daughters held at Meaux; at Rouen Chilperic's son **Merovech** "joined Queen Brunhild and made her his wife." During the minority of her son [[childebert-ii|Childebert II]] she fought the Austrasian magnates directly — interposing herself "with a vigour which would have become a man" between armed forces, only to be told by Ursio, "Stand back, woman!… his kingdom is under our control, not yours." The **Treaty of Andelot (587)** restored her standing and her dower-cities (Cahors handed over at once); [[guntram|Guntram]] nonetheless suspected her of complicity in the [[gundovald-affair-585|Gundovald affair]], which she "cleared… on oath." Gregory's portrait is comparatively neutral — the venom is in the later, Carolingian-shaped tradition.
+
 ## Related
 
-- [[fredegund]] · [[chlothar-ii]] · [[austrasia]] · [[merovingian-franks]] · [[pippinids]] · [[columbanus]]
-- Source: [[geary-before-france-germany-1988]]
+- [[fredegund]] · [[chlothar-ii]] · [[sigibert-i]] · [[childebert-ii]] · [[guntram]] · [[austrasia]] · [[merovingian-franks]] · [[pippinids]] · [[columbanus]]
+- Sources: [[geary-before-france-germany-1988]] · [[gregory-of-tours-history-of-the-franks-thorpe-1974]]

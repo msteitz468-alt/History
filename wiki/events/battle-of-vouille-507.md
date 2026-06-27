@@ -72,6 +72,11 @@ movement is Geary's reconstruction of the wider strategic context. See [[geary-b
 
 Ralph Mathisen's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] sets Vouillé (spring 507, "just outside of Poitiers") within a multi-year war (495–510), noting that Gallo-Romans fought on Alaric's side (Apollinaris of Clermont, son of Sidonius), that Theoderic's [[ostrogoths|Ostrogothic]] mediation failed, and that the battle "began France" (the modern plaque: "*Alors commença la France*"). Crucially, Arnold's chapter records the **Ostrogothic counter-campaign of 508–511** — victories at Arles, Carcassonne, and Barcelona — that partly reversed the Frankish gains but is "absent from Gregory of Tours" [REVISION], leaving the Visigoths only Septimania in Gaul. Esders reads Clovis's subsequent Tours ceremony as imperial display (see [[merovingian-byzantine-relations]], [[visigoths]]).
 
+## From Gregory of Tours (Thorpe, 1974)
+
+The primary narrative is **[[gregory-of-tours-history-of-the-franks-thorpe-1974|Gregory's]]** Book II: Clovis met "Alaric II, King of the Goths, on the battlefield of Vouillé, near the tenth milestone outside Poitiers." Gregory describes mixed ranged-and-melee fighting — "The Goths fled, as they were prone to do, and Clovis was the victor… Clovis killed Alaric" — and the king's narrow escape, saved by "his leather corselet and the sheer speed of his horse." A large force of **Auvergnat Gallo-Romans of senatorial rank under Apollinaris** fought and died on the field. Aftermath: Alaric's son Amalaric "fled to Spain," Clovis took Aquitaine, "wintered in the town of Bordeaux," and seized the Visigothic treasure at Toulouse. Gregory reads the victory providentially ("God was on his side") and is silent on the Ostrogothic counter-offensive of 508–511.
+
 ## Related
 
 - [[clovis]] · [[visigoths]] · [[frankish-ethnogenesis]] · [[merovingian-franks]] · [[gregory-of-tours]]
+- Source: [[gregory-of-tours-history-of-the-franks-thorpe-1974]]
