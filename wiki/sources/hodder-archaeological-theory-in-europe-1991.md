@@ -91,7 +91,7 @@ This source supplies the essential comparative historiography for the wiki's con
 
 ---
 
-**Ingest status:** Full Deployed Subagent Strategy (5 ranges) complete on 2026-06-26. All steps (scaffold, staggered subagents, main reconciliation, lint, bookkeeping) executed per CLAUDE.md. Source filed and Top_100 updated.
+**Ingest status:** Full Deployed Subagent Strategy (5 ranges) complete on 2026-06-26. Range-specific extractions (including detailed West Germany and Poland material from Range 04) were reconciled by main thread into the claims integration and Volume Synthesis Note above. No agent artifact files left in wiki/. All steps (scaffold, staggered subagents, main reconciliation, lint, bookkeeping) executed per CLAUDE.md. Source filed and Top_100 updated.
 
 ## Range 05 Claims (Central/Eastern Europe: Czechoslovakia and Hungary; Postscript 1990 Reflections; Synthesis on Diversity, Marxism, Socio-Politics)
 
