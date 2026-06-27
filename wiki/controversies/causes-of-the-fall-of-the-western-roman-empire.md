@@ -63,7 +63,13 @@ long-distance trade and literacy. The fall was a **catastrophe with measurable c
 **tax-based aristocracy of service** by a **land-based aristocracy of lordship**.
 
 ### 6. The state-collapse trigger (migrations as result, not cause)
-A model proposed by **Guy Halsall** (*New Cambridge Medieval History*, Vol. 1 Ch. 2): barbarian migrations were a **result**, not a cause, of the western Roman state's collapse. The dissolution of the Roman fiscal-military machine created political and administrative vacuums on the frontier and in the provinces. Local populations and incoming warrior elites responded by forming new, fluid coalitions—triggering rapid **[[ethnogenesis]]** as a rational strategy in social competition. Barbarians did not destroy Rome; rather, they were drawn into a Roman vacuum.
+A model proposed by **Guy Halsall** (*New Cambridge Medieval History*, Vol. 1 Ch. 2): barbarian migrations were a **result**, not a cause, of the western Roman state's collapse. The dissolution of the Roman fiscal-military machine created political and administrative vacuums on the frontier and in the provinces. Local populations and incoming warrior elites responded by forming new, fluid coalitions—triggering rapid **[[ethnogenesis]]** as a rational strategy in social competition. Barbarians did not destroy Rome; rather, they were drawn into a Roman vacuum. Halsall's
+[[sources/halsall-warfare-society-barbarian-west-2003|*Warfare and Society in the Barbarian West,
+450–900*]] (2003) supplies the **military mechanism** behind this model: it traces how the
+dissolving Roman fiscal-military state — a tax-funded standing army — gave way to armies raised by
+landed obligation, making "ethnicity functional" ("barbarians fought, Romans paid taxes") and
+turning the means of raising armies into the hinge of post-Roman social and political change. See
+[[early-medieval-warfare]] and [[frankish-ethnogenesis]].
 
 ## Why the East survived
 

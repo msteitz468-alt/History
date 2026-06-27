@@ -8,7 +8,7 @@ region: [western-europe, mediterranean, near-east, steppe, central-asia, china, 
 process_type: [military, political, technological]
 driven_by: ["the [[state-formation|fiscal and organisational capacity of states]]", "the recurring [[pastoral-nomadism|steppe-nomad vs. agro-urban]] confrontation", "elite social structures (warrior aristocracies, military slavery)", "religious mobilisation ([[crusades|crusade]] and [[jihad]])", "siege and fortification technology"]
 produces: ["the mounted warrior aristocracy of Eurasia", "military slavery (mamluk, ghulam, devshirme)", "the castle-and-siege system", "standing and contract armies in late-medieval Europe", "the conditions for the [[military-revolution|gunpowder military revolution]]"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-24
 tags: [process, high-middle-ages, western-europe]
 ---
@@ -50,7 +50,15 @@ steppe-vs-sedentary leitmotif).
 1. **Foundations (c. 600–1000).** The post-Roman West fragments into kingdom-scale warfare; the
    Islamic conquests and the rise of military slavery; Byzantium's resilient military system; the
    Scandinavian (Viking) raiding world; and the steppe pressure of Avars, Hungarians, and Turks.
-   In East Asia, Tang China fields large, bureaucratically organised armies.
+   In East Asia, Tang China fields large, bureaucratically organised armies. For the Latin West in
+   this phase, [[sources/halsall-warfare-society-barbarian-west-2003|Halsall]] argues warfare had
+   a **distinctive character** — not a decayed echo of Rome nor a mere prelude to the knights — with
+   **small armies** (low thousands), **harrying-to-provoke-battle** as the strategic core (sieges
+   marginal), and the slow shift from a **tax-funded standing army** to **obligation-based levies**
+   as the hinge of state power; he dates internal transformations to ~600 and the ninth century, and
+   rejects the "stirrup → shock cavalry → feudalism" thesis. See the hub overview
+   [[early-medieval-warfare|Early Medieval Warfare in the Barbarian West]] and the method page
+   [[grammar-of-warfare]].
 2. **Interactions (c. 1000–1300).** The age of the **castle**, the mounted knight, and the
    [[crusades|Crusades]] in the Latin West; the explosive [[mongol-empire|Mongol]] conquests
    that linked Eurasia by conquest; continued Chinese military development under the Song.

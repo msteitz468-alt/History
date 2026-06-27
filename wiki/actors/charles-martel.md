@@ -54,6 +54,14 @@ supposedly settling warriors on church estates to build his military strength. N
 sceptical: the evidence does not single him out from his peers in his use of church property,
 and the "feudal levy from secularised church land" thesis is not well founded. The Anglo-Saxon
 missionary [[boniface|Boniface]] complained of the low state of the Frankish church under him.
+[[sources/halsall-warfare-society-barbarian-west-2003|Halsall]] reinforces this scepticism from
+the military side, **demolishing the Brunner/Ganshof "birth of feudalism" chain** that made
+Charles the pivot — church-land confiscation + *precaria* + vassalage + the stirrup producing
+land-for-service shock cavalry, with Poitiers (732) as the hinge. Halsall holds that the stirrup
+did not create the couched-lance charge (the high-cantled saddle, post-dating this period, did),
+that there is no evident upsurge in cavalry use across 450–900, and that the real change came
+around 700 from the spread of *beneficia* and aristocratic followings, not a legal land-for-service
+revolution. See [[early-medieval-warfare]].
 
 ## Significance
 

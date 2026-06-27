@@ -52,6 +52,17 @@ after which he ruled alone. His wars defined the reign:
   mythologised in the *Song of Roland* — was followed by the slow establishment of the
   **Spanish March** below the Pyrenees (Barcelona taken 801).
 
+**Military organisation.** [[sources/halsall-warfare-society-barbarian-west-2003|Halsall]] reads
+Charlemagne's near-annual campaigns and capitularies as evidence not of a vast professional war
+machine but of a **smaller, more selective, better-equipped host** raised by **property
+qualification**: the capitularies of 806–8 expected service from holders of "3, 4 or 5 *mansi* or
+more" (revised to a 4-*mansi* threshold in 808), grouped poorer freemen so one warrior went per
+several holdings (*adiutorium*), graded equipment by wealth (a mail coat from 12-*mansi* holders),
+and demanded three months' provisions on the march. The surge of laws against evasion (the
+*haribannus* fine; *herisliz* desertion punishable by death) and the end of profitable expansion
+after the Avars made annual service a ruinous burden — context for the later
+[[charles-the-bald|Edict of Pîtres]]. See [[early-medieval-warfare]].
+
 ## The Imperial Title
 
 By the 790s Charlemagne had assumed much of the style of a Roman emperor: a new capital

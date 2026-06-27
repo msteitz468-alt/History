@@ -99,7 +99,7 @@
 67. **Norman Davies** - *The Isles: A History*
 68. **David Peter Kirby** - *The Earliest English Kings*
 69. **Pauline Stafford** - *A Companion to the Early Middle Ages: Britain and Ireland c.500-1100*
-70. **Guy Halsall** - *Warfare and Society in the Barbarian West 450-900*
+70. **Guy Halsall** - *Warfare and Society in the Barbarian West 450-900* ✅ ingested 2026-06-27
 71. **Chris Wickham** - *Medieval Europe*
 72. **David Abulafia, Nora Berend** - *Medieval Frontiers: Concepts and Practices*
 73. **F. Donald Logan** - *A History of the Church in the Middle Ages* **[MISSING]**

@@ -211,3 +211,18 @@ All verbatim from range; established names only.
 ## Oxford Handbook of the Merovingian World (2020)
 
 The [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] is the reference survey of the Merovingian world (5th–8th c.) and contributes across this period: thematic studies of [[merovingian-polity|court and administration]], [[merovingian-queenship|elite women]], the [[merovingian-army]], the [[merovingian-episcopate]], and [[merovingian-monasticism]]; material-culture and economy ([[merovingian-cities]], [[merovingian-rural-settlement]], [[merovingian-economy]], [[merovingian-emporia]], [[merovingian-coinage]], [[garnet-and-bead-trade]]); written culture ([[merovingian-historiography]], [[merovingian-legal-culture]], [[merovingian-hagiography]]); and religion ([[merovingian-liturgy-and-lay-religion]], [[early-medieval-penance]], [[merovingian-christology]]). Its governing argument is that the period was a connected, decentralized world in which "much of Rome still survived" for the Carolingians to reuse.
+
+## Warfare in the Barbarian West (450–900)
+
+[[sources/halsall-warfare-society-barbarian-west-2003|Guy Halsall's *Warfare and Society in the
+Barbarian West, 450–900*]] is the wiki's anchor for how war was raised, supplied, and fought in
+this period. Its argument is that early medieval warfare had a **distinctive character** — neither a
+degraded shadow of Rome nor a simple prelude to the knights-and-castles world — and that it
+**changed over time** (transformations around 600 and in the ninth century), against the older habit
+of treating the whole period as a static "Germanic"/"heroic" whole. Armies were **small** (low
+thousands), **ravaging/harrying to provoke battle** was the strategic core (sieges marginal), and
+the slow shift from a **tax-funded standing army** to **obligation-based levies** raised on
+landholding was the hinge linking war to state power — the means of raising an army being "one of
+the most important and dynamic points of contact between local societies and royal authority." See
+the warfare-hub overview [[early-medieval-warfare|Early Medieval Warfare in the Barbarian West]],
+the method page [[grammar-of-warfare]], and the institution page [[merovingian-army]].
