@@ -193,4 +193,5 @@ island.
 - Iron Age: [[phoenicians|Phoenicians]] (Kition colony) · [[early-iron-age|Early Iron Age]]
 - Cypro-Archaic: ten kingdoms · [[sargon-ii]] · [[esarhaddon]] · [[saite-egypt|Amasis]] · [[achaemenid-empire|Persia]] · script: [[cypriot-syllabary]]
 - Fourth century: [[evagoras-of-salamis]] · the Cypriot War · [[kings-peace-386bce]] · [[achaemenid-satrapy]]
+- Medieval (Crusader era): [[lusignan-dynasty|the Lusignan kingdom]] (1192–1489) and its dense ties to [[cilician-armenian-kingdom|Cilician Armenia]]
 - Period: [[middle-bronze-age]] → [[late-bronze-age]] → [[early-iron-age]] → [[archaic-period]] → [[classical-antiquity]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[boardman-cah-v3p1-1982]] · [[boardman-cah-v3p3-1982]] · [[lewis-cah-v6-1994|CAH VI]] (Ch. 8d, Maier)

@@ -66,3 +66,4 @@ Levant. The thirteenth-century history of Outremer is continued in
 - [[crusades]], [[first-crusade-1095]] — the movement and expedition that created them.
 - [[saladin]], [[battle-of-hattin-1187]] — the power and battle that broke them.
 - [[byzantine-empire]] — the Christian power whose relations with them ran from alliance to estrangement.
+- [[cilician-armenian-kingdom]] — the Armenian state that helped found and sustain them ([[armenian-latin-integration|the integration process]]).

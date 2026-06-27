@@ -77,3 +77,4 @@ Crusader states (1291)**, and it ended formally with the Ilkhanate–Mamluk peac
 - [[ilkhanate]] — the Mongol partner; [[mamluk-sultanate]] — the common enemy; [[battle-of-ain-jalut-1260]] — the check that set it in motion.
 - [[crusades]] — the Western side; [[medieval-european-images-of-the-mongols]] — the "ally against Islam" image.
 - [[golden-horde]] — the Ilkhanate's Mongol rival (allied with the Mamluks); [[jackson-mongols-and-the-west]] — the source.
+- [[cilician-armenian-kingdom]] and [[hetum-i-of-cilician-armenia|Hetum I]] — the Christian state that voluntarily allied with the Mongols (1253), the alliance's most committed Frankish-side partner.

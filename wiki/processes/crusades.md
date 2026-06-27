@@ -95,3 +95,4 @@ persisted (against the Ottomans, heretics, and pagans) into the early modern era
 - [[urban-ii]] — its proclaimer.
 - [[just-war]], [[gregorian-reform]], [[peace-of-god]] — its ideological roots.
 - [[reconquista]], [[saladin]], [[byzantine-empire]] — its frontiers and antagonists.
+- [[cilician-armenian-kingdom]] — the Armenian state that enabled the early crusades ([[armenian-latin-integration|integration with the Latins]]).

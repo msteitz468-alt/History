@@ -102,7 +102,10 @@ gunpowder empires (Ottoman, Ming, Timurid). West Africa is firmly tied into the
 Mediterranean economy via the gold trade. In the western hemisphere the Aztec and
 Inca empires integrate Mesoamerica and the Andes internally as never before, still
 without contact between them — until, at the very edge of the period, European
-navigation begins to close the hemispheric gap.
+navigation begins to close the hemispheric gap. In the eastern Mediterranean the last
+crusader-era Christian states are extinguished: the **[[cilician-armenian-kingdom|Cilician
+Armenian Kingdom]]** falls to the [[mamluk-sultanate|Mamluks]] with the
+[[fall-of-cilician-armenia-1375|capture of Sis (1375)]].
 
 ![Late medieval political map A.D. 1430 — England, France, German Empire, Poland-Lithuania, Ottomans, Golden Horde, Mamluks and others](assets/atlases/mcevedy-penguin-atlas-medieval-history-1961/mcevedy-med-p085-1430-late-medieval.png)
 *Map from [[sources/mcevedy-penguin-atlas-medieval-history-1961]].*

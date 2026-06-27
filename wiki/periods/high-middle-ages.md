@@ -185,6 +185,7 @@ states; [[ghana-empire|Ghana]] gave way to the rising Mali.
 - The **Great [[seljuk-empire|Seljuks]]** and the fragmenting [[abbasid-caliphate|Abbasid]] caliphate; the **[[fatimid-caliphate|Fatimids]]**.
 - **[[byzantine-empire|Byzantium]]** under the Macedonian and Komnenian dynasties, to the Fourth Crusade (1204).
 - Latin Christendom: the reform [[papacy]], the **[[crusader-states]]**, the Norman and Hohenstaufen worlds.
+- The **[[cilician-armenian-kingdom|Cilician Armenian Kingdom]]** (crowned 1199), the Armenian Mediterranean state that enabled the crusades and later allied with the [[mongol-empire|Mongols]] under [[hetum-i-of-cilician-armenia|Hetum I]].
 - The **[[khmer-empire|Khmer Empire]]** at [[angkor|Angkor]]; the **[[chola-empire|Cholas]]** of South India.
 - **Kamakura Japan**; **Koryŏ** Korea.
 - The **[[rus-principalities|Rus′ Principalities]]** under the Mongol Golden Horde; **[[novgorod]]**, **[[vladimir]]**, and **[[alexander-nevsky|Alexander Nevsky]]**.

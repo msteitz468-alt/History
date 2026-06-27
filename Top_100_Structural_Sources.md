@@ -117,7 +117,7 @@
 83. **Norman Housley** - *Crusading in the Fifteenth Century: Message and Impact*
 84. **Angeliki E. Laiou, Roy Parviz Mottahedeh** - *The Crusades from the Perspective of Byzantium and the Muslim World*
 85. **Peter W. Edbury** - *The Kingdom of Cyprus and the Crusades*
-86. **Jacob G. Ghazarian** - *The Armenian Kingdom in Cilicia During the Crusades* **[MISSING]**
+86. **Jacob G. Ghazarian** - *The Armenian Kingdom in Cilicia During the Crusades* ✅ (ingested 2026-06-27; source slug `ghazarian-armenian-kingdom-cilicia-2000`)
 
 ### 11. Sub-Saharan Africa
 87. **David W. Phillipson** - *Foundations of an African Civilisation: Aksum and the northern Horn, 1000 BC - AD 1300* ✅
