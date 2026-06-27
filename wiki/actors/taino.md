@@ -71,4 +71,6 @@ However, recent genetics research among current Caribbean residents reveals the 
 
 The Taíno were extensively documented in early Spanish sources: Columbus's journals, Peter Martyr's *Decades*, Bartolomé de las Casas's *Historia de las Indias*, and other accounts provide rich (if biased) ethnographic detail. Irving Rouse's synthesis *The Tainos* (1992) organized the archaeological and historical evidence. Key debates include the total pre-contact population of the Greater Antilles (estimates range from hundreds of thousands to over a million for Hispaniola alone), the degree of political integration (whether the chiefdoms approached state-level organization), the origins of the ball game and its relationship to Mesoamerican forms, and the extent of genuine Taíno cultural survival among modern Caribbean peoples. The cosmological system of cemíism has received renewed scholarly attention through the work of José Oliver. The collection has some relevant primary sources (Columbus, Las Casas) but is thin on archaeological monographs focused specifically on Caribbean prehistory.
 
-**Source:** [[snow-gonlin-siegel-archaeology-native-north-america-2020]]
+**Sources:** [[snow-gonlin-siegel-archaeology-native-north-america-2020]] · [[keegan-hofman-caribbean-before-columbus-2017]]
+
+**Related pages:** [[saladoid-culture]] · [[cacicazgo-caribbean]] · [[post-saladoid-caribbean-differentiation]] · [[meillacoid-chicoid-cultures]] · [[lucayans]] · [[kalinago]] · [[caribbean-islands]]

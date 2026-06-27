@@ -7,8 +7,8 @@ period_coverage: ["Mesolithic", "Neolithic", "Chalcolithic", "Early Bronze Age",
 region_coverage: [caribbean, mesoamerica, north-america, amazonia, andes]
 methodological_approach: archaeological
 reliability_notes: "Leading synthesis of Caribbean pre-Columbian archaeology. Keegan is the principal authority on the Lucayan Bahamas; Hofman leads the Nexus 1492 project on Caribbean indigenous networks. Oxford University Press 2017. Draws on decades of excavation reports across the entire island chain. Strong on material culture sequences, weaker on non-material cultural reconstruction. Challenges the Arawak/Carib dichotomy inherited from Columbus."
-pages_created: 0
-pages_updated: 0
+pages_created: 19
+pages_updated: 2
 ingested: 2026-06-27
 tags: [source]
 ---
@@ -34,4 +34,10 @@ The book decisively critiques the Arawak-versus-Carib binary inherited from Colu
 
 ## Volume Synthesis Note
 
-*(To be completed after all sections processed)*
+Keegan and Hofman's central contribution is a methodological and interpretive reorientation of Caribbean archaeology. Against Rouse's (1992) tidy migration-series taxonomy — which organised all Caribbean prehistory into a succession of "series" (Saladoid → Ostionoid → Meillacoid → Chicoid) arriving as discrete population waves — they propose a "kaleidoscope" model: Caribbean cultures were dynamic, networked, and heterarchical, producing unpredictable outcomes from recombined elements rather than linear development. This argument runs through every chapter and is supported by site-level evidence of inter-island exchange networks, multi-ethnic burial assemblages (El Chorro de Maíta), and ceramic sequences that show continuity with — rather than replacement of — earlier traditions.
+
+The book's second major argument is the demolition of the Arawak/Carib binary. Columbus's diario used "Carib" in at least four distinct senses; the term was never an accurate designation of the Kalinago people, and the cannibal accusation was a colonial projection that justified enslavement. The archaeological record for "Carib raids" displacing earlier populations in the Windward Islands is weak to absent in the northern Lesser Antilles.
+
+What the book adds to the wiki: it fills the single largest gap in Americas coverage — the Caribbean islands from initial settlement (~5000 BCE) through the Spanish encounter (1492). It provides the material culture sequence (Archaic → Saladoid → Post-Saladoid → Meillacoid/Chicoid/Lucayan), site-level evidence for social organisation and exchange, and an authoritative treatment of the Columbus contact period. It cross-checks well with [[snow-gonlin-siegel-archaeology-native-north-america-2020]] on the Taíno and with [[columbian-exchange-1492]] on the contact moment.
+
+**Pages created by this source:** [[caribbean-islands]] · [[archaic-age-caribbean]] · [[saladoid-culture]] · [[kalinago]] · [[lucayans]] · [[rouse-archaeological-framework]] · [[caribbean-archaic-age-first-settlement]] · [[hispaniola]] · [[puerto-rico]] · [[trinidad]] · [[saladoid-migration-caribbean-400bce]] · [[post-saladoid-caribbean-differentiation]] · [[cacicazgo-caribbean]] · [[montserrat]] · [[meillacoid-chicoid-cultures]] · [[cuba]] · [[jamaica]] · [[lucayan-colonisation-bahamas-700ce]] · [[lesser-antilles]] · [[kalinago-origins-and-carib-identity]] · [[columbus-caribbean-landfall-1492]] · [[indigenous-caribbean-demographic-collapse]]
