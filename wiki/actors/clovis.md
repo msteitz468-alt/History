@@ -9,8 +9,8 @@ affiliated_with: [the Merovingian dynasty, the Salian Franks, Catholic (Nicene) 
 opposed_by: [the Visigoths (Alaric II), the Alamans, the Burgundians, rival Frankish kinglets]
 key_events: [the battle of Vouillé (507), the baptism of Clovis (c. 508), the conquest of northern Gaul]
 key_processes: [the formation of the barbarian successor kingdoms, the Catholic conversion of the Franks]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-antiquity, western-europe]
 ---
 
@@ -76,3 +76,28 @@ western power — the seed of the Carolingian order that the New Cambridge Medie
 - Recognized by the [[eastern-roman-empire-425-518|eastern emperor Anastasius]]; `followed_by:` the partition
   among his sons and the conquest of Burgundy
 - Source: [[cameron-cah-v14-2000]] (Ch. 5, Ian Wood; from Gregory of Tours)
+
+## From Geary, *Before France and Germany* (1988)
+
+Geary frames Clovis as the figure in whom [[frankish-ethnogenesis|Frankish ethnogenesis]] is completed —
+an imperial-German military commander who made himself a legitimate king by **absorbing Roman provincial
+administration**. Bishop **Remigius of Reims** wrote to him on Childeric's death recognising him as
+administrator of *Belgica Secunda* and urging him to govern with episcopal counsel — "a plea for him to
+follow the advice of the [[roman-gaul|Roman aristocracy]]." In **486** the defeat of **Syagrius** near
+Soissons (a single battle; Syagrius was handed over by Alaric II and secretly killed) was "essentially a
+coup d'état" that transferred intact the Roman provincial administration, notaries, fiscal lands, and
+Syagrius's *bucellarii* to Frankish control. The late-Roman **tax system continued to function**,
+requiring written (papyrus) administration — which is why so few early Merovingian documents survive.
+
+His **conversion** (Geary: Reims, Christmas of 496, 498, or as late as 506) was a collective military
+event — Gregory reports "more than three thousand of his army" baptised with him — and a political
+manoeuvre that threatened the neighbouring Arian kingdoms by inviting their Gallo-Roman aristocracies to
+collaborate. After [[battle-of-vouille-507|Vouillé]] he systematically **liquidated rival Frankish
+kinglets** (the kindreds of Sigibert of Cologne, Charaic, Ragnachar of Cambrai), absorbing each victim's
+treasure and *leudes*. He issued the [[salic-law|Pactus Legis Salicae]] (508–511), and at his death (511)
+the realm was divided among his four sons **along Roman *civitas* boundaries** — reflecting the
+particularism of the [[roman-gaul|Gallo-Roman aristocracy]]. His court already fused Frankish household
+officers (*maior domus*, antrustiones) with inherited Roman personnel (*referendarii*, *scrinarii*).
+
+Cross-refs: [[frankish-ethnogenesis]] · [[battle-of-vouille-507]] · [[salic-law]] · [[merovingian-franks]] ·
+[[francia]]. Source: [[geary-before-france-germany-1988]].

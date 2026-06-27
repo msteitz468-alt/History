@@ -9,8 +9,8 @@ affiliated_with: [frankish-kingdoms]
 opposed_by: [visigoths, burgundians, saxons, other-frankish-groups]
 key_events: [tomb-of-childeric-481, clovis-conquests, battle-of-tertry-687, pippinid-coup-751]
 key_processes: [frankish-state-formation, roman-barbarian-synthesis, christianisation-of-franks, shift-to-ad-sanctos-burial]
-sources_ingested: 1
-last_updated: 2026-06-26
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, dynasty, early-middle-ages, western-europe, merovingian]
 ---
 
@@ -59,3 +59,33 @@ Collection coverage is excellent for the material culture of the Gallo-Frankish 
 All claims grounded exclusively in Bogucki & Crabtree (eds.) 2004 range 07 cache. Links to pre-established or exclusively owned titles only.
 
 Last updated 2026-06-26.
+
+## From Geary, *Before France and Germany* (1988)
+
+Geary's synthesis supplies the political and social anatomy of the kingdom. Though repeatedly partitioned,
+"there was only one *regnum Francorum*." Clovis's successors pursued **external expansion** — destroying the
+**Burgundian kingdom** (absorbed by 534), taking **Provence** (ceded by the Ostrogoths, 536), subduing the
+Thuringians and loosely the Saxons; **Theudebert I** (534–548) even invaded Italy and aspired to the imperial
+throne. Conquered regions were ruled through appointed Frankish **dukes/patricians** who quickly married into
+local elites, becoming nearly autonomous. By the later sixth century the realm had crystallised into
+[[austrasia|Austrasia]], [[neustria|Neustria]], and Burgundy (see [[francia]]).
+
+**Society.** Geary finds **no legally defined Frankish nobility** in the [[salic-law|Pactus Legis Salicae]] —
+only *ingenui* (free, "*Franci*") and the unfree; higher wergeld came solely through proximity to the king,
+implying Clovis "effectively exterminated" any prior nobility. The Franks were a thin stratum — perhaps
+**150,000–200,000 among six to seven million Gallo-Romans**, concentrated above the Loire — so that south of
+the Loire they could not alter language or custom. Status was shown not by fortified strongholds but by
+"fighting, hunting, and… banqueting" with gift distribution. Households were patriarchal (the father's
+*mundiburdium*); marriage ranged from formal unions (reverse dowry of one-third, *Morgengabe*) to the
+informal *Friedelehe*.
+
+**Decline.** [[dagobert-i|Dagobert I]]'s death (639) began near-continuous **royal minorities** which,
+Geary argues — rejecting the myth of hereditary degeneracy — "more than any other single factor, contributed
+to the decline of royal power." After 691 the kings were "useful symbols for aristocratic factions," their
+real power captured by the [[pippinids|Pippinids]] (see [[rois-faineants]]). The distinguishing strength of
+the whole society was its adherence to the **orthodox** Christianity of the population — unlike the Arian
+[[visigoths|Visigoths]] and [[ostrogoths|Ostrogoths]] — "making possible the rapid amalgamation of the
+various communities."
+
+Cross-refs: [[frankish-ethnogenesis]] · [[salic-law]] · [[francia]] · [[merovingian-episcopate]] ·
+[[pippinids]] · [[rois-faineants]]. Source: [[geary-before-france-germany-1988]].

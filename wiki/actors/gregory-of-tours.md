@@ -9,8 +9,8 @@ affiliated_with: [the Merovingian kingdom, Catholic Christianity, St. Martin of 
 opposed_by: [Chilperic I]
 key_events: [writing the Ten Books of Histories (Decem Libri Historiarum)]
 key_processes: [Christianisation of Gaul, Merovingian consolidation]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, person, late-antiquity, western-europe]
 ---
 
@@ -42,8 +42,22 @@ In *The New Cambridge Medieval History, Vol. 1* (Ch. 8), **Raymond Van Dam** ana
 
 ---
 
+## From Geary, *Before France and Germany* (1988)
+
+Geary stresses Gregory's location **within the [[merovingian-episcopate|aristocratic episcopate]]** he
+describes: Gregory "boasted that of the eighteen previous bishops of Tours, all but five had been his
+kinsmen." This makes his *Histories* a document of the Gallo-Roman senatorial Church as much as a chronicle.
+Geary's key methodological point: in Gregory's pages "one cannot tell public from personal motives… because
+they were indistinguishable" — sixth-century actors themselves did not separate the two. As the great
+promoter of the cult of **Saint Martin**, Gregory is revealingly **silent** on the entire Rhône monastic
+tradition (Caesarius of Arles, Faustus of Riez, Honoratus, Hilarius, Salvian), exposing the gulf between
+Gaul's two monastic worlds (see [[merovingian-monasticism]]). He portrays the pious King **Gunthchramn of
+Burgundy** in an extremely favourable light, and records the torture-death of his own great enemy
+**Leudast, count of Tours**, on the orders of Queen [[fredegund|Fredegund]] — a reminder that his vivid
+narratives "often obscure more than they enlighten." Source: [[geary-before-france-germany-1988]].
+
 ## Related Pages
 
-*   **Actors**: [[clovis]] · [[germanic-peoples]] · [[reccared-i]]
+*   **Actors**: [[clovis]] · [[germanic-peoples]] · [[reccared-i]] · [[fredegund]] · [[brunhild]] · [[merovingian-episcopate]]
 *   **Events**: [[third-council-of-toledo]]
-*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]
+*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]] · [[geary-before-france-germany-1988]]

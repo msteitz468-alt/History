@@ -7,8 +7,8 @@ period_active: [Classical Antiquity, Late Antiquity]
 controlled_by: [Rome (after Caesar's conquest), under Augustus and the Julio-Claudians]
 events_here: [the organization of the Three Gauls (27–12 BCE), the altar of Condate (12 BCE), Claudius' admission of Gallic notables to the Senate (48 CE)]
 processes_here: [the integration and urbanization of Gaul, the rise of the Narbonensian elites]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [place, western-europe, classical-antiquity, late-antiquity, rome]
 ---
 
@@ -121,3 +121,32 @@ the steady **juridical integration of provincial elites** into the Roman governi
 - Administered per [[roman-provincial-administration]]; the [[year-of-the-four-emperors-69ce|68–69
   crisis]] (Vindex); High-Empire banditry ([[roman-banditry|Maternus]])
 - Sources: [[bowman-cah-v10-1996]] (Ch. 13d, Goudineau) · [[bowman-cah-v11-2000]] (Ch. 14, Goudineau)
+
+## The Late-Roman transformation (Geary, *Before France and Germany*, 1988)
+
+Geary picks up where Goudineau's prosperous High-Empire Gaul leaves off, tracing its transformation into
+the world the Franks inherited. The third-century crisis and Diocletian's reforms (provinces roughly
+doubled to ~100; military and civil bureaucracies separated; the **annona** tax in produce) shifted the
+burden onto the land: landlords became tax collectors for their **coloni**, who declined until "by the end
+of the fourth century… [they were] distinguishable from slaves only in that they continued to have a
+juridical personality." Flight from over-taxed land left perhaps **20% of arable abandoned** (*agri
+deserti*), and the **Bagaudae** — Gallic provincials in revolt — periodically expelled Roman officers from
+the late third century to the 450s.
+
+The structural winners were the **great senatorial landowners** of the Rhône, Aquitaine, and the
+Mediterranean coast (the Sagrii, Pontii, Aviti, Apollinares, Magni), "virtually immune to taxation,"
+producing the paradox of immense private wealth beside a treasury so poor that "the entire annual budget
+[of the West] was approximately 20,000 gold pounds" — less than four wealthy senators' incomes. This
+aristocracy "privatized much of revenue collection, police protection and even justice," reducing
+provincial administration to a shadow and channelling its power into the **[[merovingian-episcopate|episcopate]]**:
+by the fifth century Gallic bishops were drawn from the senatorial class and ran what remained of public
+life at the *civitas* level. When Remigius told [[clovis|Clovis]] to heed his bishops, it was "a plea for
+him to follow the advice of the Roman aristocracy."
+
+This is why Frankish [[francia|Francia]] preserved so much Roman substance — especially in
+[[aquitaine|Aquitaine]], where "Latin letters… vulgar Roman law… Roman fiscal and agricultural structures,
+the network of Roman roads, towns, and commercial systems… had survived." Yet the economy also regressed:
+iron grew so scarce it was "used primarily to make wooden ones," mechanical harvesters disappeared, cereals
+shifted from wheat to hardier **barley** (and beer), while **viticulture expanded** under ecclesiastical and
+elite demand. See [[late-antiquity]], [[barbarization-of-the-roman-army]]. Source:
+[[geary-before-france-germany-1988]].

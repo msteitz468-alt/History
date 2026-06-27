@@ -12,9 +12,9 @@ event_type: battle
 scale_immediate: regional
 scale_consequential: civilizational
 causes: [caused_by: [[francia|Austrasian-Neustrian civil wars and rivalry between the Mayors of the Palace]]]
-consequences: [produced: [[pippinid-dynasty|ascendancy of Pippin II of Herstal]], enabled: [[carolingian-empire|emergence of the Carolingian dynasty]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+consequences: [produced: [[pippinids|ascendancy of Pippin II of Herstal]], enabled: [[carolingian-empire|emergence of the Carolingian dynasty]]]
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, early-middle-ages, western-europe]
 ---
 
@@ -36,7 +36,7 @@ In 687, Pippin crossed the Somme River with an Austrasian army. The two forces c
 
 ## Consequence Analysis
 
-- `produced: [[pippinid-dynasty|Pippinid Hegemony]]`: Following the battle, Pippin II did not depose King Theuderic III; instead, he retained him as a puppet monarch, using him to validate his own acts. Pippin assumed the title *Princeps Francorum* ("Prince of the Franks") and appointed his loyal supporters to Neustrian office, establishing de facto sole rule over all Francia.
+- `produced: [[pippinids|Pippinid Hegemony]]`: Following the battle, Pippin II did not depose King Theuderic III; instead, he retained him as a puppet monarch, using him to validate his own acts. Pippin assumed the title *Princeps Francorum* ("Prince of the Franks") and appointed his loyal supporters to Neustrian office, establishing de facto sole rule over all Francia.
 - `enabled: [[carolingian-empire|Carolingian Rise]]`: The victory secured the wealth of the Neustrian fisc and the control of major bishoprics for the Pippinid family. This concentrated resources in Pippin's lineage, allowing his son Charles Martel and grandson Charlemagne to consolidate power and eventually overthrow the Merovingians in 751.
 
 ## Actors
@@ -53,3 +53,18 @@ The primary sources for the battle are the *Liber Historiae Francorum* and the *
 ## References
 
 - *The New Cambridge Medieval History, Volume 1: c. 500–c. 700*, edited by Paul Fouracre. Cambridge University Press, 2005 (Chapter 14).
+
+## From Geary, *Before France and Germany* (1988)
+
+Geary details the **"after Tertry" consolidation** that turned a battlefield victory into durable power.
+[[pippinids|Pippin II]] returned to [[austrasia|Austrasia]] in 688, leaving agents in
+[[neustria|Neustria]]; Bercharius died soon after (reportedly killed by his mother-in-law), and Pippin's
+elder son **Drogo married Bercharius's widow Anstrudis**, absorbing the old Neustrian mayoral network of
+Erchinoald. Geary cautions against over-reading the victory: the royal court was **not yet a Pippinid
+tool**, as when Drogo lost a property case before King **Childebert III** at Compiègne in 697 to the abbot
+of Tussonval — a confrontation between Pippinid and anti-Pippinid magnates won by the latter. He also
+rehabilitates the defeated king **Theuderic III**, who after Ebroin's death had "actually managed for a
+brief time to rule" before Tertry. Pippin's lasting instrument was less the battle than his three-pronged
+strategy — aristocratic marriage-mergers, manipulation of the royal court, and **control of the church**
+(St-Wandrille, Jumièges). Cross-refs: [[pippinids]] · [[neustria]] · [[austrasia]] ·
+[[christianisation-of-the-frankish-aristocracy]]. Source: [[geary-before-france-germany-1988]].

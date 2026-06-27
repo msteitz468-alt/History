@@ -19,4 +19,6 @@ aliases: [Winston Churchill, Churchill Winston, Winston S. Churchill, WSC]
 
 British statesman, orator, and writer. Prime Minister 1940–1945 and 1951–1955. Central figure in Allied victory in WWII: inspired resistance during Battle of Britain, forged the Grand Alliance with Roosevelt and Stalin, shaped post-war order. Earlier career included colonial wars, WWI First Lord and minister, and warnings on Nazi Germany. Nobel Prize in Literature; "Iron Curtain" speech marked Cold War onset.
 
+> **Detailed biography:** [[hubs/biographies/world-wars-era/churchill-winston|Winston Churchill — Detailed Biography]] (graduate-level analytic life in the Biography Hub).
+
 See: [[world-war-ii-1939-1945]], [[battle-of-britain-1940]], [[adolf-hitler]], [[franklin-d-roosevelt]].

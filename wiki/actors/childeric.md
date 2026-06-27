@@ -9,8 +9,8 @@ affiliated_with: [merovingian-franks]
 opposed_by: [visigoths, saxons]
 key_events: [tomb-of-childeric-481, exile-among-thuringians, battle-of-orleans, battle-of-angers]
 key_processes: [frankish-state-formation, roman-barbarian-synthesis, merovingian-royal-display]
-sources_ingested: 1
-last_updated: 2026-06-26
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, early-middle-ages, western-europe, merovingian]
 ---
 
@@ -59,3 +59,13 @@ The source treats the burial as a cosmopolitan monument blending traditions at t
 Grounded exclusively in claims from Bogucki & Crabtree (eds.) 2004 range 07 cache. Links only to pre-established or exclusively created titles.
 
 Last updated 2026-06-26.
+
+## From Geary, *Before France and Germany* (1988)
+
+Geary reads Childeric (d. 482) as **the last Frankish commander to serve as a traditional "imperial
+German"** — a leader whose authority was still framed within the Roman frontier system (see
+[[frankish-ethnogenesis]], [[barbarization-of-the-roman-army]]). The grave goods found at Tournai in 1653
+"came from Byzantine, Hun, Germanic, and Gallo-Roman workshops," materialising the cosmopolitan, hybrid
+character of Frankish kingship at the moment of imperial dissolution. His son [[clovis|Clovis]] would
+convert that frontier-command legacy into a territorial kingdom by absorbing Roman provincial
+administration. Source: [[geary-before-france-germany-1988]].
