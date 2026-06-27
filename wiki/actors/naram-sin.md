@@ -9,8 +9,8 @@ affiliated_with: [[[akkadian-empire]]]
 opposed_by: [[[early-dynastic-sumer|the rebel cities (Kish)]], Lullubi, Magan, [[gutian-invasion|Gutians]]]
 key_events: [the "Great Revolt", defeat of Lullubi (Victory Stele)]
 key_processes: [[[imperialism]], [[divine-kingship]], [[trade-network-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, early-bronze-age, mesopotamia]
 ---
 
@@ -79,6 +79,23 @@ significant: he became the literary archetype of the **hubristic king destroyed
 for impiety**, the lens through which later Mesopotamians theorized why empires
 fall — a moral, providential causation set against the [[gutian-invasion|material
 and political]] one.
+
+## Liverani: rehabilitating the "impious" king
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] insists the negative literary
+tradition is a **distortion**: Naram-Sin actually *surpassed* Sargon's conquests, and the
+empire fell long after him — so the *Curse of Agade* (a Neo-Sumerian composition that even
+misplaces the Gutian invasions in his reign and misrepresents his relations with Enlil's
+Ekur, which the Akkadian kings in fact enriched) is "a pure deformation." The real source
+of his bad reputation was the **self-deification**, which the temples found an intolerable
+claim to self-sufficient greatness. Liverani adds the striking detail that the deification
+was reportedly **requested by the cities of Agade themselves** during the crisis of the
+"great revolt" — the god-king as protective deity standing *alongside* the traditional
+gods, not replacing them. Methodologically he warns that the later *narû* pseudo-inscriptions
+and omen texts about Naram-Sin must be read for the period that **composed** them, not mined
+for a "historical nucleus" (see [[ancient-near-east-historiography]]). The
+[[third-dynasty-of-ur|Ur III]] kings ultimately adopted his deification — but in cultic,
+administrative form rather than heroic.
 
 ## Historiography
 

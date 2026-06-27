@@ -5,8 +5,8 @@ origin: Coined by V. Gordon Childe, "The Urban Revolution," Town Planning Review
 applies_to_periods: [Chalcolithic, Early Bronze Age]
 applies_to_regions: [mesopotamia, near-east, north-africa, south-asia, mesoamerica, china]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept]
 ---
 
@@ -47,6 +47,29 @@ surplus from farmers supported non-food-producing specialists, a ruling class of
 kings, priests, and "civil and military leaders," legitimized by a new ideology
 and administered through writing, mathematics, and the calendar. Temples were
 inferred to be part of the political structure.
+
+## Liverani's systemic model
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] upholds Childe's term for the
+mid-fourth-millennium Mesopotamian threshold while refusing single-factor explanations:
+it was a **systemic phenomenon** in which agricultural surplus, demography, technology,
+and organisation interacted. He ranks the factors *logically* rather than chronologically:
+the most influential prerequisite was the **agricultural surplus** (irrigation, the
+scratch-plough drawn by 4–6 animals, cereal yields of 1:30+, long fields along canals)
+that alone could maintain full-time specialists; but the deepest break was the
+**organisational "jump"** — the systematic separation of primary food production (left to
+villages) from secondary specialisation (concentrated in proto-urban centres). This
+separation made urban solidarity **organic and coercive**: each household's labour became
+necessary to the others, so strategic choices "had to be accepted by everyone, either
+through persuasion or coercion." Specialists — scribes, administrators, priests —
+monopolised rare technologies and occupied favourable positions in the production chain,
+turning class difference from occasional into structural. Crucially, Liverani argues the
+**demographic growth was internally generated** (better food production), *not*
+immigration, with Uruk swelling to ~70 ha (Early) then ~100 ha (Late) as surrounding
+villages depopulated. The institutional engine was the pair of **"great organisations"**
+(L. Oppenheim's term) — temple and palace — running a redistributive economy of rations,
+land allotments, and corvée. See [[ancient-near-eastern-modes-of-production]] and
+[[ancient-near-east-environment-and-society]].
 
 ## Critique and revision
 

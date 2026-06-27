@@ -9,8 +9,8 @@ affiliated_with: [[[akkadian-empire]]]
 opposed_by: [[[early-dynastic-sumer|Lugalzaggisi and the Sumerian cities]], Elam, Subartu]
 key_events: [defeat of Lugalzaggisi]
 key_processes: [[[state-formation]], [[imperialism]], [[trade-network-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, early-bronze-age, mesopotamia]
 ---
 
@@ -69,6 +69,22 @@ against him" and "beset him in Agade," but the old warrior still "cast them in
 heaps." Later moralizing chronicles blame a **sacrilege** — building Agade too
 near, or too like, holy Babylon — for the wrath that would eventually fall on his
 house. He was succeeded by his sons **Rimush** and **Manishtusu**.
+
+## Liverani: the honest conqueror who broke the networks
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] stresses how candid Sargon's own
+inscriptions are about the **limits** of his reach: he held political control (the *ensi*
+office) only "from Tuttul to the Persian Gulf," conceding that Elam and Mari remained
+independent, while his **commercial** network stretched far wider, "from the Mediterranean
+to Magan and Meluhha." The distinction between a modest political core and a long commercial
+reach is, for Liverani, the key to the Akkadian system. He also argues Sargon's
+interventionism was **self-defeating**: by destroying [[mari|Mari]] (~a decade after
+[[ebla|Ebla's]] fall) he triggered the crisis of the Syrian commercial network and the rise
+of the nomadic groups that eventually collapsed it. The later tale *King of Combat* (Sargon's
+march to Purushhanda) he reads not as evidence of early Sargonic trade but as a **didactic
+model for Old Assyrian commerce** — its moral being that a ruler should follow divine omens
+over the cautious advice of merchants (see [[old-assyrian-trade]] and
+[[ancient-near-east-historiography]]).
 
 ## Counterfactual significance
 

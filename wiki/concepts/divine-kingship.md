@@ -5,7 +5,7 @@ origin: emic to ancient monarchies; analytically developed by Frazer (The Golden
 applies_to_periods: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Classical Antiquity, Late Antiquity]
 applies_to_regions: [north-africa, mesopotamia, near-east, east-asia, mesoamerica, andes]
 contested: yes
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-06-27
 tags: [concept]
 ---
@@ -49,6 +49,26 @@ could legitimately appoint a human governor to act as another city-god's steward
 something no mere mortal could authorize. Mesopotamian royal deification thus
 appears tied to the rise of **territorial empire** over the older city-state order,
 and it largely lapsed after Ur III. In contrast, the Gilgamesh traditions from Sumerian poems/OB fragments (ll. 10001–12899 [[andrew-george-epic-of-gilgamesh-1999]]) depict the semi-divine king confronting mortality: Enkidu affirms Gilgamesh's kingship by destiny ("to be king of the people Enlil made it your destiny", ll. 10279–83) yet the core message is that "death they dispensed to mankind, life they kept for themselves" (tavern-keeper, ll. 11367–71). These **contrasts_with** imperial deification.
+
+**Liverani's reading.** [[liverani-ancient-near-east-2014|Liverani (2014)]] adds a
+philological and ideological layer. The three Sumerian royal titles carried distinct
+valences: **en** (priest, rooted in the temple), **ensi** (estate-manager/delegate of the
+god), and **lugal** ("great man" — human qualities, military ambition); only *en* and
+*ensi* are attested in the Uruk and Jemdet Nasr periods, *lugal* emerging with the
+militarised Early Dynastic. Kingship operated on three interlocking registers —
+administrative, defensive/military, and cultic — with the king's ritual conduct
+structurally inseparable from economic administration (a royal violation made the god
+withhold the harvest). The **Akkadian period** then transformed the king's image from
+cultic-administrative official into **war hero**: votive statues ceased to be acts of the
+ruler worshipping the gods and became vehicles celebrating his victories, and even
+common soldiers shift from an undifferentiated urban block to individuals with initiative.
+[[naram-sin|Naram-Sin's]] self-deification was reportedly *requested* by the cities of
+Agade during the "great revolt." The [[third-dynasty-of-ur|Ur III]] kings kept the divine
+title but reverted its character — not heroic but a **deified cultic-administrative figure
+replacing the city-gods** at the head of the redistributive system, expressed through royal
+hymns and the sacred-marriage rite. For the propaganda structure (centre/periphery,
+tripartite time, the two registers of internal vs. inter-state texts) see
+[[ancient-near-east-historiography]].
 
 ## Kemp: kingship as the invented architecture of the state
 

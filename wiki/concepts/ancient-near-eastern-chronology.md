@@ -8,8 +8,8 @@ origin: >
 applies_to_periods: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Bronze Age Collapse, Early Iron Age]
 applies_to_regions: [mesopotamia, levant, anatolia, north-africa, mediterranean]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept]
 ---
 
@@ -73,6 +73,22 @@ adopts the **middle chronology** (end of the dynasty = **1595 BCE**, Hammurabi
 ~1792–1750), naming **1651** (high) as a serious alternative. This single choice
 ripples through every Bronze Age date in the volume — and is the subject of its own
 [[mesopotamian-chronology|controversy page]].
+
+## Liverani: two chronologies, and a verdict on the short chronology
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] frames the field's two dating systems
+as complementary but not to be conflated: an **archaeological chronology** of round
+approximations (relative stratigraphy and radiocarbon, expressed BP) that prevails for
+prehistory, and a **historical chronology** of precise regnal numbers (reconstructing
+ancient dating systems and transposing them into ours) that prevails for the literate
+periods. He notes radiocarbon must be **dendro-calibrated** because ¹⁴C production is not
+uniform (uncalibrated dates run too young for ancient periods, especially 2000–7000 BCE),
+and that Mesopotamian king-lists contain *deliberate* distortions — kings omitted for
+political reasons, contemporary dynasties listed as sequential, mythological reign-lengths.
+On the [[mesopotamian-chronology|First-Dynasty-of-Babylon problem]] he adopts the **middle
+chronology** ([[hammurabi|Hammurabi]] 1792–1750 BCE) and explicitly rejects the **short
+chronology** (1728–1696) as a "hopefully passing trend" because it compresses the Hittite
+and Syrian sequences unacceptably — a useful datapoint on where current opinion sits.
 
 ## Why This Page Is Marked `contested: yes`
 

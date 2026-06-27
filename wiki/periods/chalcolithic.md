@@ -7,8 +7,8 @@ date_range: 5,500–3,300 BCE (regionally variable; overlaps Late Neolithic and 
 regions_covered: [near-east, mesopotamia, levant, anatolia, iran-plateau, southeast-europe, balkans, china, east-asia]
 major_themes: [copper metallurgy, secondary products, craft specialization, proto-urban centers, social differentiation, clanship and early stratification, walled towns]
 collection_coverage: moderate
-sources_ingested: 6
-last_updated: 2026-06-26
+sources_ingested: 7
+last_updated: 2026-06-27
 tags: [period]
 ---
 
@@ -64,6 +64,22 @@ here, immediately before the urban threshold treated in
   horizon and the [[writing-and-record-keeping|invention of writing]].
 - **Craft specialization and exchange** — pottery, metallurgy, and seal use point
   toward administrative complexity.
+- **Liverani's Ubaid-to-Uruk threshold.** [[liverani-ancient-near-east-2014|Liverani
+  (2014)]] reads the **Ubaid period** (Early ~5100–4500, Late ~4500–4000 BCE) as the
+  decisive run-up: the first buildings *exclusively* for cult appear at [[eridu|Eridu]]
+  (Levels 17–15, ~5800 BCE), and Late Ubaid temples adopt the **tripartite,
+  buttressed-façade plan** that governs Mesopotamian temple architecture for three
+  millennia. He flags three "clues" of incipient stratification: rising precious
+  artefacts needing specialised craft; the diversion of household surplus to **communal
+  symbolic investment** (temple-building) rather than family consumption; and the first
+  mass production (the potter's wheel arrives in the Late Ubaid as pottery becomes
+  coarser and high-volume). At **Tepe Gawra** alternating circular (highland
+  Halaf) and rectangular (lowland Ubaid) levels may track shifting political dominance
+  between mountain and plain. The Levantine **Ghassulian** (~4100–3500 BCE) and
+  Anatolian **Arslantepe** are read as marginal-zone trajectories — leaders drawing
+  authority from arsenical-copper weapons, herds, and mines or from early commercial
+  contact with Uruk — rather than temple administration. See
+  [[ancient-near-east-environment-and-society]].
 
 **Temperate and Western European Chalcolithic / Early 3rd Millennium Developments (Champion et al. 1984 Ch. 6 range):** Later phases of the period (c. 3200–2300 BCE overlap) saw continued agricultural expansion onto marginal soils, increased forest clearance, and shifts in settlement. In central Europe a more differentiated pattern (nucleated settlements + hamlets) gave way under Corded Ware to dispersed small ephemeral hamlets; SE Europe more nucleated/fortified tells (e.g. Ezero). Flint mining at scale (Grimes Graves, Grand Pressigny, Krzemionki) for axes and large blades. Metallurgy transitioned: earlier SE oxide ores gave way to sulphide ores; local sources exploited in central/western Europe from early 3rd millennium, with marked increase in copper daggers/ornaments during Bell Beaker phase (c. 2500–2200 BCE), when local copper metallurgy reached NW Europe and Britain. Exchange of social-prestige items (not bulk subsistence) embedded in kinship/exogamy networks providing risk-buffering.
 

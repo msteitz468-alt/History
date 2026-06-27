@@ -5,8 +5,8 @@ origin: etic; developed from the Lagash temple archives by Anna Schneider and An
 applies_to_periods: [Early Bronze Age, Middle Bronze Age]
 applies_to_regions: [mesopotamia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept]
 ---
 
@@ -56,6 +56,26 @@ and Urukagina's protection of a "poor man's garden" show substantial property
 through their heads with payments to relatives. The temple-state model is thus a
 real institution but **not** the whole economy — a correction central to later
 scholarship (Diakonoff).
+
+## Liverani: the "temple city" overcorrection, and the palace
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] agrees the **Tempelstadt** model is
+untenable as stated — it survives only because temple archives from Early Dynastic IIIb
+[[lagash|Lagash]] happen to be what was excavated, while land-sale documents from Early
+Dynastic IIIa Shuruppak (Fara, ~2550 BCE) show private property and external seasonal
+labour outside temple control — but he warns against overcorrecting into irrelevance:
+"Sumerian cities can be considered temple cities in the same way as Late Medieval Venice
+can be defined as a commercial city, or nineteenth-century Manchester an industrial city."
+He stresses the unifying Sumerian category **é** (Akkadian *bītum*, "house"): temple,
+palace, and household were all conceived as "houses," the palace simply a "large house"
+(*é-gal* / *ekallum*) reproducing the household plan at scale. Across the Early Dynastic
+period administrative centrality **migrated from temple to palace** — the temple kept
+ideological supremacy (divine legitimation) while the palace gained executive supremacy —
+though the temple's economic role remained essential under palace control. Under the
+[[third-dynasty-of-ur|Third Dynasty of Ur]] the temple was finally **absorbed into the
+state system**, employing propertyless full-time urban workers rather than "free" village
+labour, ideologically underwritten by the deified king replacing the city-gods at the head
+of the redistributive system. See [[ancient-near-eastern-modes-of-production]].
 
 ## Significance
 

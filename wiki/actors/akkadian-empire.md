@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [[[early-dynastic-sumer|the Sumerian cities]], Elam, Lullubi, [[gutian-invasion|Gutians]], Amorites]
 key_events: [[[gutian-invasion|fall of Akkad]]]
 key_processes: [[[state-formation]], [[imperialism]], [[trade-network-formation]], [[writing-and-record-keeping]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, empire, early-bronze-age, mesopotamia]
 ---
 
@@ -90,6 +90,33 @@ Zagros, with **Elam** breaking away under Kutik-In-Shushinak. The king-list mark
 the chaos with its one rhetorical cry — *"Who was king? Who was not king?"* — as
 four claimants seized the throne within three years. See
 [[gutian-invasion|the fall of Akkad and the Gutian supremacy]].
+
+## Liverani: structure, trade, and the limits of conquest
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] reads Agade as a structurally
+**intermediate** form — "halfway between the system that supported trade in the Uruk phase
+and the more compact, territorial organisation" of the [[third-dynasty-of-ur|Third Dynasty
+of Ur]] — which is also its weakness: it gave the Sumerian south too many openings to
+rebel and the periphery too much autonomy. Control was zoned: the **centre** (Akkad to the
+Gulf) ruled *indirectly* through local *ensi* under Akkadian oversight; the **periphery**
+through treaties, appointed *šakkanakku*, or strongholds (Naram-Sin's palace at Nagar/Tell
+Brak). He emphasises that settlement distribution in Lower Mesopotamia barely changed
+between Early Dynastic III and the Akkadian period — the big demographic and economic
+shifts came with the empire's **crisis**, not its formation.
+
+He rejects the old **"Semitic conquest"** reading: Semites were long present in Mesopotamia,
+ethnic difference did not drive the wars, and Sargon was no ethnic champion. Akkad's rise he
+ties instead to an **environmental** trend (the pull northward to control water as Upper
+Mesopotamia was more exploited) and an **ethno-linguistic** one (Akkadian belonged to the
+wide Semitic family from Syria to Arabia, better placed to absorb incoming groups than
+isolated Sumerian). His sharpest interpretive claim concerns trade: by **directly seizing**
+commercial networks ([[ebla|Ebla]], [[elam|Elam]], Magan) rather than working through
+intermediaries, the Akkadian kings **damaged** them — those regions had their own
+extraction, processing, and exchange systems that conquest disrupted without replacing (the
+cut-off of Afghan lapis and Central Asian tin via a shattered Elamite confederation is his
+prime example). Sargon's conquest of Lower Mesopotamia was still mainly political/military;
+**Manishtusu and Naram-Sin** made the shift to absorbing the commercial networks directly.
+See [[ancient-near-eastern-modes-of-production]].
 
 ## Historiography
 

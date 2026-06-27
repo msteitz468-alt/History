@@ -9,8 +9,8 @@ affiliated_with: [[[third-dynasty-of-ur]]]
 opposed_by: [Lagash (Nammakhni), the remnant Gutians]
 key_events: []
 key_processes: [[[state-formation]], [[temple-economy]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, mesopotamia]
 ---
 
@@ -54,6 +54,22 @@ its mass, and the excellence of its construction." Begun by Ur-Nammu and continu
 by Shulgi, it was still being repaired by Nabonidus seventeen centuries later. The
 **Stele of Ur-Nammu** depicted, scene by scene, the religious and practical stages
 of its building. He raised comparable temple-towers at Uruk, Nippur, and Eridu.
+
+## Liverani: the organisational innovation
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] locates Ur-Nammu's true innovation not
+in the *extent* of his realm but in its **organisation**. His title — "strong man, king of
+Ur, king of Sumer and Akkad" — abandoned Sargon's method of accumulating a separate title
+for each conquered city and instead treated **Sumer and Akkad as ethno-linguistic wholes**.
+The decisive structural change was converting the *ensi* from a local ruler governing on
+behalf of the city-god into a **royal governor appointed by Ur and acting for the king** —
+cities kept the title but lost their traditional autonomy. The law code was less a set of
+reform edicts than an **organic reorganisation of justice**, standardising the *sila*
+(capacity), the *mina* and *shekel* (weight), and fixed compensations for crimes, and
+presenting the king as bringer of justice, freedom, and fairness. The contemporaneous
+writing of the [[sumerian-king-list|Sumerian King List]] served the new doctrine that only
+**one** king could legitimately rule at any time — eliminating the old logic of simultaneous
+city-state rulers. See [[ancient-near-eastern-modes-of-production]].
 
 ## Significance
 

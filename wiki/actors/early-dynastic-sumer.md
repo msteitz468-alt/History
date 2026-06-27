@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [Elam, [[akkadian-empire|Akkad (later conqueror)]]]
 key_events: [[[lagash-umma-border-war]], Lugalzaggisi's conquest]
 key_processes: [[[urbanization]], [[state-formation]], [[writing-and-record-keeping]], [[temple-economy]]]
-sources_ingested: 5
-last_updated: 2026-06-23
+sources_ingested: 6
+last_updated: 2026-06-27
 tags: [actor, state, early-bronze-age, mesopotamia]
 ---
 
@@ -108,6 +108,34 @@ spearmen, supported by four-wheeled solid-disc **battle-cars** drawn by onagers.
 Notably, **bow and arrow were not used in Sumerian warfare** (only for hunting);
 armies "depended wholly upon weight." Cities had massive walls; sieges were
 pressed by earthen ramps.
+
+## Liverani: a mixed society, leagues, and writing as selection
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] reinforces and sharpens several points.
+Mesopotamia was **multilingual from the first written sources** — Sumerian, Akkadian, and a
+substrate ("Proto-Euphratic") traceable in the vocabulary of professions (substrate terms
+for basic Chalcolithic crafts; Sumerian for urban specialised functions; Akkadian for
+mobility and control) — and he **rejects ethnically deterministic** readings: material
+culture and ethno-linguistic groups do not map onto each other, and technical progress
+belongs to the population as a whole. He documents two attested inter-city groupings: the
+Early Dynastic I **"City Seals" coalition** (symbols of Ur, Larsa, Adab, Kesh, Uruk's
+Eanna, Lagash, perhaps Eridu) and the Early Dynastic IIIa **"Kengir League"/Hexapolis**
+(Shuruppak, Uruk, Adab, Nippur, Lagash, Umma) — probably a military alliance against the
+north. On the [[lagash|Lagash]]–Umma war over the Gu-Edinna he reads the structural pattern
+(border dispute → divine-conflict framing → military action plus juridical justification);
+**Eannatum's Stele of the Vultures** and **Entemena's** retrospective are its records.
+**[[urukagina|Urukagina's]] reform edict** he treats structurally: the debt spiral and
+disappearance of small family estates was not caused by individual abuses but by the
+accumulation dynamics of the great organisations, and the "reform" (the archaic ideological
+formula of a *return to an idealised past*) revealed deterioration even as it claimed to cure
+it. He is sharply critical of the [[sumerian-king-list|Sumerian King List]] as a source
+(reliable only from Early Dynastic IIIb; pre-First-Dynasty-of-Ur dynasties unreliable;
+contemporaneous dynasties falsely sequenced). Finally, he reads the **invention of writing**
+not as a primary invention but as the culmination of the great organisations' administrative
+logic (bulla → token-impression → tablet), and the choice of a sign-repertoire as itself an
+**ideological act** standardising the world into official categories — the rebus principle
+(*ti* "arrow"/"life"; *gi* "reed"/"to return") proving the language written was specifically
+Sumerian. See [[ancient-near-eastern-modes-of-production]] and [[ancient-near-east-historiography]].
 
 ## Historiography
 

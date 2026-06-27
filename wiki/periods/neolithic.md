@@ -7,8 +7,8 @@ date_range: "9,500–3,000 BCE (regionally diachronous; see note)"
 regions_covered: [near-east, levant, anatolia, iran-plateau, south-asia, china, japan, korea, southeast-asia, melanesia, sub-saharan-africa, west-africa, mesoamerica, andes, north-america, europe, mediterranean]
 major_themes: ["origins of agriculture", "plant and animal domestication", "sedentism", "village life", "the Neolithic Revolution", "demographic expansion", "emergent inequality", "secondary products", "pottery", "foraging-farming frontier"]
 collection_coverage: strong
-sources_ingested: 6
-last_updated: 2026-06-26
+sources_ingested: 7
+last_updated: 2026-06-27
 tags: [period]
 ---
 
@@ -123,6 +123,28 @@ wiki had not previously detailed:
 These cultures were knit together by long-distance **obsidian trade** from central
 Anatolia, documented reaching the Levant as early as the late Natufian — see
 [[trade-network-formation]].
+
+**Liverani's social reading of the Near Eastern Neolithic.**
+[[liverani-ancient-near-east-2014|Liverani (2014)]] insists the Near Eastern Neolithic
+package (agro-pastoralism, sedentism, pottery) was *not* an inseparable bundle — the
+region shows non-sedentary agriculture and aceramic Neolithic communities — and rejects
+single-cause explanations (population pressure, climate) for the transition, favouring a
+**temporal** driver (the desire for a durable food-procurement system) and a **spatial**
+one (the transfer of domesticable species across ecosystems by human movement). He
+locates innovation at the **interfaces** between complementary eco-zones — an arch from
+Palestine through the Taurus/Zagros foothills to Khuzistan, *outside* the Fertile Crescent
+proper — with regional specialisation from the start (Zagros groups on sheep/goats;
+Levantine/Taurus groups on cereals). Socially the Neolithic village was kinship-based and
+roughly egalitarian, with no full-time specialisation and little burial differentiation;
+he reads the shift from **circular to rectangular houses** as enabling multigenerational
+households, and treats Çatal Hüyük's "sanctuaries" and Jericho's wall/tower as evidence
+of *family-level* ancestor and fertility cult, **not** centralised power or priestly
+caste — egalitarian communities can build such things. He prefers "**religiosity**" to
+"religion," its symbolic core a parallelism between animal reproduction, seed
+burial/germination, and human burial/rebirth. A genuine demographic/cultural **setback**
+in the early seventh millennium (a gap in the record, possibly drought) shows the
+transition was reversible, not a smooth ladder of progress. See
+[[ancient-near-east-environment-and-society]].
 
 ## Key Actors
 

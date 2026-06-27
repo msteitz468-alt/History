@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [[[amorites|Amorites]], [[elam|Elam]], the Gutians, the Hurrians/Subarians]
 key_events: [[[fall-of-ur-2004bce]]]
 key_processes: [[[state-formation]], [[temple-economy]], [[writing-and-record-keeping]], [[divine-kingship]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, empire, middle-bronze-age, mesopotamia]
 ---
 
@@ -93,6 +93,32 @@ only as a learned, liturgical, and scribal language while Akkadian (and then
 Amorite-Akkadian) dynasties — Isin, Larsa, and ultimately **Babylon** — ruled the
 land. Its law code begins the Mesopotamian legal tradition that culminates in
 Hammurabi.
+
+## Liverani: direct management and the fiction of the records
+
+[[liverani-ancient-near-east-2014|Liverani (2014)]] identifies Ur III's central economic
+innovation as **direct management of provincial production** — a step beyond the Early
+Dynastic and Akkadian systems, which controlled trade and political relations without
+directly running the provinces. Provinces were governed by *ensi* who were now **appointed,
+uniform, and interchangeable** functionaries of the king (see [[ur-nammu]]), and the temple
+was absorbed into the state, employing propertyless full-time urban workers rather than
+"free" village labour (see [[temple-economy]]).
+
+His most pointed argument is that the famous Ur III paperwork records a **theoretical, not a
+real, economy**. Agricultural yields were estimated *before* harvest from fixed parameters
+(field area × soil/salinity/sowing coefficients), ~two-thirds of land left fallow; at the
+Drehem (Puzrish-Dagan) cattle office "a cow never died and gave birth to half a calf a year,
+alternating male and female." Merchant accounts were likewise administrative fictions — once
+the merchant left the centre, invisible barter, gift-exchange, transit taxes, and
+subcontracts occurred entirely outside the record. The parameters were deliberately set as
+**low estimates** leaving workers a margin (slim for farmers/craftsmen, generous for
+merchants). Ur reached perhaps **200,000** people — the highest population of the entire
+pre-Classical period in Lower Mesopotamia — as smaller settlements emptied into fortified
+cities. The **"Wall of the Martu"** against the [[amorites|Amorites]] was built, Liverani
+notes, roughly contemporaneously with Egypt's "Prince's Wall," both responses to the same
+expanding West-Semitic pastoral group. The deified king functioned not as Akkadian-style
+**hero** but as **cultic-administrative head** replacing the city-gods atop the
+redistributive system. See [[ancient-near-eastern-modes-of-production]].
 
 ## Historiography
 
