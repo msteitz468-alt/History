@@ -7,8 +7,8 @@ period_active: [Middle Bronze Age, Late Bronze Age]
 controlled_by: [[[hittites|the Hittite kingdom]]]
 events_here: [Anitta's destruction & cursing of the city (~1750 BCE), refoundation as capital by [[hattusili-i|Hattusili I]] (~1650 BCE)]
 processes_here: [[[indo-european-migrations]], [[trade-network-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [place, anatolia, near-east, middle-bronze-age, late-bronze-age]
 ---
 
@@ -72,4 +72,4 @@ intrusive "Phrygian" pottery) is one of the markers of the
 - State: [[hittites]] · Kings: [[hattusili-i]] · [[mursili-i]] · Event: [[telipinu-edict-1500bce]]
 - Place: [[alalakh]] (the akin level-VII script) · [[kultepe|Kanesh/Kültepe]] (the colony-age predecessor) · [[troy]]
 - People: [[indo-european-migrations]] · [[hurrians]]
-- Period: [[middle-bronze-age]] → [[late-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]
+- Period: [[middle-bronze-age]] → [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] ([[anitta|Anitta's]] curse; the burning under Tudhaliya III; Seeher's [[bronze-age-collapse-1200bce|deliberate-abandonment]] thesis)

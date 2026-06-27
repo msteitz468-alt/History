@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: hemispheric
 causes: [the stalemate after the [[battle-of-qadesh-1274bce|battle of Qadesh]], the rising Assyrian threat to both powers, Ḫattušili III's need for legitimacy]
 consequences: [the stabilization of the Egyptian–Hittite frontier, decades of peace and alliance, a dynastic marriage, a model of international diplomacy]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, late-bronze-age, levant]
 ---
 
@@ -73,6 +73,27 @@ United Nations as a symbol of international peacemaking.) It marks the **definit
 limit of Egyptian empire in Asia** and the maturity of the balance of power that
 [[shuppiluliuma-i|Šuppiluliuma]] had set in motion.
 
+## Bryce: two versions, a one-sided clause, and a motive of legitimacy
+
+[[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] reconstructs the treaty's
+**mechanics** and re-reads its purpose. Each court drafted its own version: the Hittite
+original was written in Akkadian on a **silver tablet** carried to Pi-Ramesse (Year 21, 1st
+month of Peret, day 21 = Nov/Dec 1259), translated into Egyptian and carved on the temple of
+Amun at Karnak and the Ramesseum; the Egyptian original travelled the reverse path to
+[[hattusha|Hattusa]] — "a classic illustration of the importance of Akkadian … as the
+international language of diplomacy." The texts are **not identical**: each guaranteed
+non-aggression, mutual aid against a third power *and against internal rebellion*, and
+extradition-with-amnesty, but [[hattusili-iii|Hattusili]] inserted a **unilateral clause with
+no Egyptian counterpart** — that Ramesses would send troops to secure the succession of
+Hattusili's son "if noblemen of the Land of Hatti offend against him." For Bryce this exposes
+the treaty's real driver: it was **less about the [[assyria-middle|Assyrian]] threat than about
+legitimacy.** Hattusili was a usurper who needed great-power recognition (an Assyrian envoy had
+sneered that he was "no more than a substitute for the Great King"), and the treaty delivered
+Ramesses' explicit acknowledgement that he sat rightfully "in the place of the father of your
+father." Notably it **made no mention of territory**, tacitly confirming the post-Qadesh status
+quo and conceding Ramesses no gains — and tensions persisted afterward (Hattusili protested
+Ramesses' humiliating Qadesh reliefs; the promised state visit never happened).
+
 ## Historiography
 
 Exceptionally secure because **both sides' texts survive and can be compared** — a
@@ -84,4 +105,4 @@ II). See [[cambridge-ancient-history-methodology]].
 
 - Parties: [[ramesses-ii]] · [[hattusili-iii]] (Puduḫepa) · States: [[new-kingdom-egypt]] · [[hittites]]
 - Preceded by: [[battle-of-qadesh-1274bce]] · System: [[interpolity-law]] · Threat behind it: [[tukulti-ninurta-i|Assyria]]
-- Place: [[hattusha]] · Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]
+- Place: [[hattusha]] · Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p2-1975]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]]

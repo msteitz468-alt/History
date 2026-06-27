@@ -9,8 +9,8 @@ affiliated_with: [[[hittites|the Hittite Old Kingdom]], [[hattusha|Hattusha]], t
 opposed_by: [[[iamkhad|Yamhad/Aleppo]], [[babylon-first-dynasty|Babylon]], the [[hurrians|Hurrians]]]
 key_events: [destruction of [[iamkhad|Aleppo]], [[fall-of-babylon-1595bce|the sack of Babylon (~1595)]], his own assassination by Hantili]
 key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, anatolia, near-east, mesopotamia]
 ---
 
@@ -72,4 +72,4 @@ rule of law.
 - State: [[hittites]] · Predecessor (grandfather): [[hattusili-i]] · Place: [[hattusha]]
 - Destroyed: [[iamkhad|Aleppo]] · [[fall-of-babylon-1595bce|Babylon]] · Allies of convenience: [[kassites]]
 - His murder led to: [[telipinu-edict-1500bce]] · Period: [[middle-bronze-age]] → [[late-bronze-age]]
-- Source: [[edwards-cah-v2p1-1973]]
+- Sources: [[edwards-cah-v2p1-1973]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] (the destruction of [[iamkhad|Aleppo]] and the [[fall-of-babylon-1595bce|sack of Babylon]]; his assassination by [[hantili-i|Hantili I]])

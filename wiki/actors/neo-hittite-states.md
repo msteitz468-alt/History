@@ -9,7 +9,7 @@ affiliated_with: [the Luwian-Hittite cultural tradition, the city of Carchemish,
 opposed_by: [[[neo-assyrian-empire|Assyria]], [[urartu|Urartu]], the Aramaean states (rivalry and absorption)]
 key_events: [the [[bronze-age-collapse-1200bce|fall of the Hittite Empire]], annexation by Tiglath-pileser III and Sargon II]
 key_processes: [[[indo-european-migrations|post-collapse population movements]], Aramaization, [[state-formation]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, state, early-iron-age, anatolia, levant]
 ---
@@ -117,4 +117,4 @@ archaeology of the individual sites.
 - Antecedent: [[hittites|Hittite Empire]] · [[bronze-age-collapse-1200bce|Bronze Age Collapse]]
 - Neighbours/rivals: [[arameans|Aramaeans]] · [[neo-assyrian-empire|Assyria]] · [[urartu|Urartu]] · [[phrygians|Phrygia]]
 - Period: [[early-iron-age|Early Iron Age]] · Region: [[anatolia]] · [[levant]]
-- Source: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]]
+- Source: [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] (Kuzi-Teshub's "Great King" line at [[carchemish|Carchemish]] bridging the collapse) · [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]]

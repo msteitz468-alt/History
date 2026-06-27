@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: regional
 causes: [the Egyptian–Hittite contest for Syria (Qadesh and Amurru), the Nineteenth Dynasty's drive to recover its Asian empire, the defection of Amurru to Egypt]
 consequences: [a tactical draw but a strategic Hittite success, the loss of Egyptian prestige and Palestinian revolts, sixteen more years of intermittent war, ultimately the [[egyptian-hittite-treaty-1259bce|peace treaty of 1259]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, late-bronze-age, levant]
 ---
 
@@ -77,10 +77,16 @@ royal propaganda, against the Hittite treaty and annal material. The contrast
 between Egypt's victory-claims and the actual strategic outcome is a classic lesson
 in reading ancient royal sources. Absolute dates depend on the
 [[mesopotamian-chronology|Egyptian–Hittite synchronisms]].
+[[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]], reconstructing the Hittite
+side, adds two cautions to the standard tactical reading: the near-rout was probably
+checked not only by the Amurru *Ne'arin* but by a **breakdown of Hittite discipline**
+amid the looting of the Egyptian camp, and Ramesses "must have had considerably more
+military support than he claimed." The conduct of the battle is analysed at West-Point
+depth in the [[hubs/warfare/late-bronze-age/hittite-egyptian-wars/battle-of-qadesh-1274bce|warfare hub]].
 
 ## Related
 
 - Combatants: [[ramesses-ii]] · [[muwatalli-ii]] · States: [[new-kingdom-egypt]] · [[hittites]]
 - Outcome: [[egyptian-hittite-treaty-1259bce]] · Place: [[ugarit]] (sent a contingent) · Amurru
-- Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]
+- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p2-1975]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]]
 - **Detailed Tactical Analysis**: [[hubs/warfare/late-bronze-age/hittite-egyptian-wars/battle-of-qadesh-1274bce|West Point-style analysis of the Hittite ambush and Egyptian recovery]].

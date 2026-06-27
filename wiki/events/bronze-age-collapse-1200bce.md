@@ -14,7 +14,7 @@ scale_immediate: civilizational
 scale_consequential: hemispheric
 causes: [[[sea-peoples|Sea Peoples]], systems collapse, drought and famine, internal social breakdown, [[mycenaean-civilization|palace-economy fragility]], earthquake destructions]
 consequences: [[[early-iron-age|Early Iron Age]], [[philistines|Philistine settlement]], [[greek-dark-age|Greek Dark Age]], collapse of palatial literacy, [[phrygians|Anatolian reconfiguration]], rise of small territorial kingdoms]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-27
 tags: [event, transition, late-bronze-age, bronze-age-collapse, early-iron-age, near-east, aegean, mediterranean]
 ---
@@ -160,7 +160,35 @@ records "particularly dry years around 1200 BCE," a contributing famine in an
 already-weakened Anatolia. The outcome was a **bipartition**: the Assyria–Babylonia–Elam
 triangle survived east of the Euphrates, while the west fragmented into kin-based states —
 the conservative east versus the innovative west. See [[ancient-near-eastern-modes-of-production]]
+and [[ancient-near-eastern-modes-of-production]]
 and [[ancient-near-east-environment-and-society]].
+
+## Bryce: the Hittite collapse as internal disintegration + abandonment
+
+[[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]], writing specifically of
+[[hittites|Hatti]], reaches a converging verdict by a different route and adds the
+Anatolian detail. He **weights internal decline over external attack** ("more weight should
+be given to the symptoms of inner decline and disintegration," following Singer) and
+systematically **dismisses the monocausal theories**: no demonstrable archaeological evidence
+for Schaeffer's earthquakes; insufficient evidence for a catastrophic decades-long drought
+(Rhys Carpenter); the iron-weapons theory "justifiably dismissed"; and "systems collapse"
+(Sandars) read as symptom, not cause. His positive account centres on a **structural grain
+crisis** — Hatti depended on grain shipped via [[ugarit|Ugarit]] to the Cilician port of Ura
+(one Hittite letter calls it "a matter of life or death"; Merneptah's Karnak inscription
+records grain sent "to keep alive the land of Hatti") — compounded by chronic **dynastic
+instability** and a hostile Tarhuntassa astride the supply route. On the
+[[sea-peoples|Sea Peoples]] Bryce agrees they were "a largely disorganized array of groups,"
+probably originating in destabilised **western Anatolia**, and that Ramesses III's account is
+a propagandistic "narrative condensation" (Cifola, Liverani). His most distinctive
+contribution is endorsing **Jürgen Seeher's excavation-based revisionism**: that
+[[hattusha|Hattusa]] was **deliberately and gradually abandoned** by the royal family and
+bureaucracy — who took portable possessions and the official records — so that the fires that
+consumed the city were set in a "largely derelict" place, very possibly by the
+**[[hittites|Kaska]]**, "the loss of life … not [to] be exaggerated." This shifts the Hittite
+collapse from a single violent destruction toward a managed political evaporation. Where
+Bryce and Liverani diverge is provenance of the Sea Peoples (Anatolia vs. the Balkans) and
+emphasis; both reject the old invasion-driven monocausality. (Bronze Age Collapse causation
+is a standing controversy in the project framework.)
 
 ## Historiography
 

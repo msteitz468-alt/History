@@ -9,8 +9,8 @@ affiliated_with: [the [[hittites|Hittite kingdom]], the Syrian viceroyalty of Ca
 opposed_by: [Arzawa and the Arzawa lands, the Kaska people, Aḫḫiyawa, rebel Syrian vassals]
 key_events: [the conquest of Arzawa (the "Ten-Year Annals"), the Kaska wars, the suppression of the Syrian revolts, the plague-prayers]
 key_processes: [[[imperialism]], [[interpolity-law]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, anatolia, near-east]
 ---
 
@@ -79,8 +79,27 @@ Exceptionally well documented from his own **Annals** (the "Ten-Year" and
 Bronze Age reign can be followed year by year, though almost entirely from the
 Hittite side. See [[cambridge-ancient-history-methodology]].
 
+## Bryce: the conscience-stricken warlord
+
+[[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] draws an unusually intimate
+portrait. Acceding as the youngest son after the plague killed his father and brother
+Arnuwanda II, Muršili was openly written off by his enemies — "he who has recently sat upon
+his father's throne is a child. He will not preserve the Land of Hatti" (Ten-Year Annals) —
+but was probably in his early twenties, and the rhetoric of youth served, in retrospect, to
+magnify achievements that came fast: within four years he conquered **[[arzawa|Arzawa]]**, a
+feat that had eluded [[shuppiluliuma-i|Šuppiluliuma]], **deporting some 65,000 people** from
+Uhhaziti's kingdom in a systematic Hittite practice of population transfer. Yet Bryce
+stresses the man's **conscience**: through laborious oracular inquiry his **Plague Prayers**
+pinned the two-decade epidemic on his father's sins (the fratricide of Tudhaliya the Younger;
+the violation of the Kurustama treaty by attacking Egyptian Amka) and accepted filial
+responsibility — "The Land of Hatti, all of it, is dying." He believed his stepmother, the
+Babylonian dowager **Tawananna**, had killed his queen Gassulawiya by black magic, and
+deposed but pointedly **did not execute** her; and he suffered a partial loss of speech
+(probably a minor stroke) after a thunderstorm. "His prayers and appeals to the gods show him
+as a humane and sensitive man," Bryce concludes, even as he campaigned ceaselessly.
+
 ## Related
 
 - Father: [[shuppiluliuma-i]] · State: [[hittites]] · Capital: [[hattusha]] · Successor: [[muwatalli-ii|Muwatalli II]]
-- West: [[ahhiyawa-question]] · Aḫḫiyawa · [[mycenaean-civilization]] · Vassal: [[ugarit]]
-- Concept: [[interpolity-law]] · Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]
+- West: [[ahhiyawa-question]] · [[arzawa]] · [[mycenaean-civilization]] · Foe: [[kaska]] · Vassal: [[ugarit]]
+- Concept: [[interpolity-law]] · Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p2-1975]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]]

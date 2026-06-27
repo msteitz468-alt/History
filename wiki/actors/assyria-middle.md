@@ -9,7 +9,7 @@ affiliated_with: [the city of Ashur]
 opposed_by: [[[mitanni|Mitanni/Khanigalbat]], [[kassites|Kassite Babylonia]], the Aramaeans, the Zagros hillmen]
 key_events: [the liberation under Ashur-uballit I, the annexation of Khanigalbat, the sack of Babylon by Tukulti-Ninurta I, the campaigns of Tiglath-pileser I]
 key_processes: [[[state-formation]], [[imperialism]], [[interpolity-law]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, state, late-bronze-age, mesopotamia, near-east]
 ---
@@ -120,4 +120,4 @@ problem. See [[cambridge-ancient-history-methodology]].
 
 - Founder: [[ashur-uballit-i]] · apex [[tukulti-ninurta-i]] · Iron Age apex [[tiglath-pileser-i]] · later [[neo-assyrian-empire]]
 - Rivals: [[kassites]] · [[second-isin-dynasty]] ([[nebuchadnezzar-i]]) · [[mitanni]] (annexed) · [[arameans]] (the undoing) · [[phrygians|Mushki]]
-- Concept: [[interpolity-law]] · Period: [[late-bronze-age]] → [[early-iron-age]] · Source: [[edwards-cah-v2p2-1975]]
+- Concept: [[interpolity-law]] · Period: [[late-bronze-age]] → [[early-iron-age]] · Sources: [[edwards-cah-v2p2-1975]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] (Nihriya; the paradox that Tukulti-Ninurta's costly conquest of Babylon ended the Assyrian threat to Hatti)

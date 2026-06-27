@@ -9,8 +9,8 @@ affiliated_with: [[[hittites|the Hittite Old Kingdom]], [[hattusha|Hattusha]]]
 opposed_by: [[[iamkhad|Yamhad/Aleppo]], the [[hurrians|Hurrians]] (Hanigalbat), Arzawa, his own rebellious family]
 key_events: [destruction of [[alalakh|Alalakh VII]], the Syrian wars against [[iamkhad|Aleppo]], the death-bed testament adopting [[mursili-i|Mursili I]]]
 key_processes: [[[indo-european-migrations]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, middle-bronze-age, anatolia, near-east]
 ---
 
@@ -74,4 +74,4 @@ exposes the structural flaw that nearly destroyed the kingdom — a militarized 
 
 - State: [[hittites]] · Place: [[hattusha]] · [[alalakh]] · Successor (grandson): [[mursili-i]]
 - Opponent: [[iamkhad|Aleppo/Yamhad]] · [[hurrians]] · Reform that answered his crisis: [[telipinu-edict-1500bce]]
-- Period: [[middle-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]
+- Period: [[middle-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] (the new Tikunani letter; the Annals/Testament; the Syrian wars vs. [[iamkhad|Aleppo]])

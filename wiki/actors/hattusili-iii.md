@@ -5,12 +5,12 @@ date_start: ~1286 BCE (accession after usurping the throne; volume chronology)
 date_end: ~1265 BCE (death)
 period: [Late Bronze Age]
 region: [anatolia, levant, near-east]
-affiliated_with: [the [[hittites|Hittite kingdom]], Queen Puduḫepa]
-opposed_by: [his nephew Urḫi-Teshub (Muršili III), Assyria (Adad-nirari I, Shalmaneser I)]
-key_events: [the usurpation of the throne from Urḫi-Teshub, the [[egyptian-hittite-treaty-1259bce|Egyptian–Hittite treaty]], the alliance with Kassite Babylonia]
-key_processes: [[[interpolity-law]], [[imperialism]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+affiliated_with: [the [[hittites|Hittite kingdom]], Queen [[puduhepa|Puduḫepa]]]
+opposed_by: [his nephew [[urhi-teshub|Urḫi-Teshub (Muršili III)]], Assyria (Adad-nirari I, Shalmaneser I)]
+key_events: [the usurpation of the throne from [[urhi-teshub|Urḫi-Teshub]], the [[egyptian-hittite-treaty-1259bce|Egyptian–Hittite treaty]], the alliance with Kassite Babylonia]
+key_processes: [[[interpolity-law]], [[imperialism]], [[hittite-vassal-treaties|vassal-treaty system]]]
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, anatolia, near-east]
 ---
 
@@ -58,8 +58,28 @@ would, under his son Tudhaliya IV and grandsons, press Hatti toward the
 collapse of ~1200. His career is a prime exhibit of **dynastic instability and
 legitimacy-by-diplomacy**.
 
+## Bryce: the usurper's *Apology* and the diplomat-king
+
+[[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] makes Hattusili the wiki's central
+case of **legitimacy manufactured after the fact**. The chief source for his life, the
+**[[urhi-teshub|Apology of Hattusili]]** (CTH 81), is — Bryce warns — "largely self-laudatory
+and self-justificatory," a usurper's brief: a sickly child dedicated to the goddess **Ishtar**,
+who "took me by the hand," he rose as his brother [[muwatalli-ii|Muwattalli's]] viceroy of the
+north (famously recapturing the holy city of **Nerik**), loyally enthroned his nephew
+[[urhi-teshub|Urhi-Teshub]] — "Out of esteem for my brother, I did no evil against him" — and
+"submitted for seven years" until the king stripped his powers, whereupon a "divine command"
+sanctioned his coup. Bryce notes the coup lacked wholehearted support, and that Hattusili
+explicitly barred Muwattalli's line from the succession. In power, "the predominant image of
+Hattusili … is that of diplomat and conciliator": he reigned ~25 years into his seventies,
+worked the great-power system (Babylon, the prickly correspondence with [[assyria-middle|Assyria]]),
+and crowned it with the **[[egyptian-hittite-treaty-1259bce|Silver Treaty]]** with
+[[ramesses-ii|Ramesses II]] — whose true prize was Egyptian recognition of his legitimacy. His
+gravest error, Bryce argues, was the **honourable exile** of Urhi-Teshub, who escaped to Egypt and
+became a standing destabiliser; with his Kizzuwatnan queen **[[puduhepa|Puduhepa]]** as an
+unprecedented co-ruler, he managed an empire he never expanded.
+
 ## Related
 
-- Brother: [[muwatalli-ii]] · Deposed: Urḫi-Teshub (Muršili III) · Queen: Puduḫepa · Son: Tudhaliya IV
-- Peace: [[egyptian-hittite-treaty-1259bce]] · [[ramesses-ii]] · Rival: [[tukulti-ninurta-i|Assyria]] · Ally: [[kassites|Babylonia]]
-- State: [[hittites]] · Concept: [[interpolity-law]] · Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]
+- Brother: [[muwatalli-ii]] · Deposed: [[urhi-teshub|Urḫi-Teshub (Muršili III)]] · Queen: [[puduhepa|Puduḫepa]] · Son: [[tudhaliya-iv|Tudhaliya IV]]
+- Peace: [[egyptian-hittite-treaty-1259bce]] · [[ramesses-ii]] · Rival: [[assyria-middle|Assyria]] · Ally: [[kassites|Babylonia]] · Vassal: [[amurru]]
+- State: [[hittites]] · Concept: [[interpolity-law]] · Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p2-1975]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]]

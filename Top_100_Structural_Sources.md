@@ -2,7 +2,7 @@
 **Focus Area:** Hub/Civilizations & Hub/Regions Expansion  
 **Protocol:** Large-Volume Protocol (Macro-structural baselines prior to discrete extraction)
 
-**Acquisition Status:** ✅ = already ingested (source page + pages created in wiki). **[MISSING]** = not acquired in raw/. See CLAUDE.md for this being the active ingest list. (Current: 27 completed, 20 missing.)
+**Acquisition Status:** ✅ = already ingested (source page + pages created in wiki). **[MISSING]** = not acquired in raw/. See CLAUDE.md for this being the active ingest list. (Current: 28 completed, 19 missing.)
 
 ---
 
@@ -48,7 +48,7 @@
 ### 4. Ancient Near East, Levant & Anatolia
 27. **Mario Liverani** - *The Ancient Near East: History, Society and Economy* ✅ (ingested 2026-06-27; interpretive layer + new pages: ANE historiography, modes of production, environment & society, Ebla, Gutians, Arslantepe)
 28. **Trevor Bryce** - *The Routledge Handbook of the Peoples and Places of Ancient Western Asia*
-29. **Trevor Bryce** - *The Kingdom of the Hittites*
+29. **Trevor Bryce** - *The Kingdom of the Hittites* ✅ (ingested 2026-06-27 via Deployed Subagent Strategy, 7 ranges; the political-military spine of Hatti — filled the Empire + Fall narrative on the hittites page; 22 pages created incl. the Šuppiluliuma I biography hub + hittite-vassal-treaties concept, 22 updated)
 30. **Trevor Bryce** - *The World of the Neo-Hittite Kingdoms: A Political and Military History*
 31. **William G. Dever** - *Beyond the Texts: An Archaeological Portrait of Ancient Israel and Judah*
 32. **K. L. Noll** - *Canaan and Israel in Antiquity: A Textbook on History and Religion*

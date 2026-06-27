@@ -9,7 +9,7 @@ affiliated_with: [the [[new-kingdom-egypt|Nineteenth Dynasty]], the cult of [[am
 opposed_by: [the [[hittites|Hittites]] ([[muwatalli-ii|Muwatalli II]]), the Libyans, the Sherden sea-raiders]
 key_events: [the [[battle-of-qadesh-1274bce|battle of Qadesh]], the [[egyptian-hittite-treaty-1259bce|Egyptian–Hittite treaty]], the building of Abu Simbel and Pi-Ramesse]
 key_processes: [[[imperialism]], [[egyptian-imperialism]], [[interpolity-law]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, north-africa]
 ---
@@ -96,4 +96,4 @@ the standard exhibit for source-critical caution. See
 - War: [[battle-of-qadesh-1274bce]] · [[muwatalli-ii]] · Peace: [[egyptian-hittite-treaty-1259bce]] · [[hattusili-iii]]
 - Predecessor: [[sethos-i]] (father) · Successor: [[merneptah]] · State: [[new-kingdom-egypt]] · Institution: [[amun-priesthood]]
 - Place: [[places/piramesse]] · [[thebes]] · Concept: [[interpolity-law]] · Process: [[processes/egyptian-imperialism]]
-- Successor: [[merneptah]] · Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]
+- Successor: [[merneptah]] · Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]] · [[sources/shaw-oxford-history-ancient-egypt-2000]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] (the [[urhi-teshub|Urhi-Teshub]] asylum crisis; the condescending royal letters; the [[egyptian-hittite-treaty-1259bce|Silver Treaty]] from the Hittite side)

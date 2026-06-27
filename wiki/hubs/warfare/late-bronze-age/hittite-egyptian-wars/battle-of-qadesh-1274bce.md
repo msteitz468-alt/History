@@ -83,10 +83,38 @@ This page provides a structured, professional-level (West Point / military acade
 - **Combined Arms / Reserves**: Timely arrival of reinforcements saved the day.
 - **Caution in Advance**: Separated columns vulnerable.
 
+## The Hittite side (Bryce 2005)
+
+No Hittite account of the battle survives; the conduct must be read off the Egyptian
+"Poem" and "Bulletin" (on five temples — Ramesseum, Karnak, Luxor, Abydos, Abu Simbel),
+allowing for propaganda. [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]]
+reconstructs Muwattalli's design and adds the elements most relevant to a tactical reading:
+
+- **Coalition order of battle.** The Egyptian record lists Muwattalli's host as the
+  contingents of "the entire Land of Hatti … Nahrin ([[mitanni|Mitanni]]/Naharin),
+  [[arzawa|Arzawa]], Dardany, Keshkesh ([[kaska|Kaska]]), Masa, Pitassa, Arawanna, Karkisa,
+  Lukka, [[kizzuwatna|Kizzuwadna]], [[carchemish|Carchemish]], [[ugarit|Ugarit]], Kedy, the
+  whole of Nuhashshi, and Kadesh" — a coalition/vassal army Bryce thinks plausibly approached
+  the Egyptian-claimed **47,500 men (≈3,500 chariotry, 37,000 infantry)**.
+- **Surprise by deception (the principle Egypt violated).** Muwattalli planted **two false
+  "deserters"** who told Ramesses the Hittite army was far north at Aleppo; Ramesses accepted
+  it without reconnaissance and outran his own divisions. The whole Hittite army was in fact
+  **concealed behind the city** ("poised, armed, and ready to fight behind Old-Kadesh"),
+  revealed only when Hittite scouts were captured.
+- **The chariot ambush and its limits.** The Hittite chariotry crossed the Orontes and shattered
+  the **Re division** on the march, routing it into Ramesses' half-built camp. Bryce identifies
+  **two factors that blunted exploitation** — a timely arrival of Egyptian reinforcements from
+  **[[amurru|Amurru]]** (shown in the reliefs, absent from the text), and a probable **breakdown
+  of Hittite discipline** as troops fell to looting the camp.
+- **Verdict.** A **tactical stalemate** (both claimed victory; both lost heavily) but a Hittite
+  **strategic success**: Ramesses retreated, Muwattalli pursued into the Damascus region (Aba),
+  and **Amurru was re-subjugated** and its king Benteshina deposed.
+
 ## Sources and Further Reading
 
-- Ramesses' inscriptions (propaganda).
-- See [[events/battle-of-qadesh-1274bce]] and CAH.
+- Ramesses' inscriptions (the "Poem" and "Bulletin"; propaganda — analyse bias).
+- [[sources/bryce-kingdom-of-the-hittites-2005|Bryce, *The Kingdom of the Hittites* (2005)]], Ch. 9 (Hittite-side reconstruction).
+- See [[events/battle-of-qadesh-1274bce|the event page]] and CAH II.2.
 
 **Event Narrative**: [[events/battle-of-qadesh-1274bce]]
 

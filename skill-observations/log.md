@@ -277,3 +277,111 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 **Suggested improvement:** Resolve the mismatch in ONE direction: either (a) update the CLAUDE.md source-page schema + validator to make `sources_ingested`/`last_updated` standard on source pages (simplest: add them to the source frontmatter template), or (b) teach `schema_validator.py` that `source_type`-tagged pages use `ingested`/`pages_created` and should not require the two actor/event fields. Document the decision in CLAUDE.md so future ingests stop re-deciding ad hoc.
 
 **Principle:** When a linter and the authoring spec disagree on required fields for a page type, every ingest silently re-litigates it and the corpus drifts. Make the validator and the template agree once, and the ambiguity stops costing a cycle per ingest.
+
+### Observation 16: Subagent "page numbers" from line-range caches are unreliable artifacts
+
+**Date:** 2026-06-27
+**Session context:** Ingesting Manning, *The Last Pharaohs* (Deployed Subagent Strategy, 5 line-range caches; subagents extracted grounded claims with verbatim quotes + page numbers)
+**Skill:** CLAUDE.md ingest workflow (Deployed Subagent Strategy)
+**Type:** internal
+**Phase/Area:** Step 3 (subagent claim extraction) → Step 4 (main-thread reconciliation)
+
+**Issue:** The subagent reading Chapter 5 (range 4) appended "page numbers" to several claims that were clearly impossible for a ~280-page book — e.g. "[p. 984]", "[p. 1011]", "[p. 981]", "[p. 321 fn. 28]". These were line offsets / OCR'd internal-citation numbers the agent mistook for the book's running page numbers. The verbatim quotes themselves were accurate and correctly grounded; only the locators were corrupt. The main thread caught this (the numbers exceed the book's length) and dropped the bogus page numbers when authoring, attributing by chapter instead — but a less careful pass could have propagated fake citations into the wiki.
+
+**Suggested improvement:** In the subagent claim-extraction prompt, instruct agents to (a) prefer the **verbatim quote as the primary locator** and (b) only cite a page number when a clean running-header page number is visibly adjacent in their slice, otherwise cite by chapter/section — and to flag uncertain locators rather than guess. During Step 4 reconciliation, the main thread should sanity-check any page number against the known page count and strip/replace implausible ones.
+
+**Principle:** Quotes are verifiable; locators extracted from OCR'd line-range slices are not. When the grounding evidence (the quote) and the citation (page number) come from the same noisy source, trust the quote and treat the number as suspect until validated against an independent bound (total page count).
+
+### Observation 17: Top_100 running tally drifts stale across parallel ingest sessions
+
+**Date:** 2026-06-27
+**Session context:** Ingesting Barnes, *Archaeology of East Asia* (2015) — Deployed Subagent Strategy. On marking Top_100 #19 ✅, found the header tally line read "Current: 8 completed, 25 missing" while an actual grep showed **22 completed, 20 missing** — the counter had not been maintained as ~14 sources were ingested by this and parallel sessions.
+**Skill:** CLAUDE.md Ingest Workflow (Step 6 bookkeeping / Top_100_Structural_Sources.md maintenance)
+**Type:** internal
+**Phase/Area:** Step 6 — "Update Top_100_Structural_Sources.md"
+
+**Issue:** The ingest bookkeeping step instructs marking the line-item ✅ but says nothing about the human-readable running tally at the top of the file. With multiple sessions ingesting concurrently, that tally silently rots (off by 14 here). Anyone reading the file for a status snapshot gets a wrong number.
+
+**Suggested improvement:** Add to the Step 6 / Top_100 instruction: "after marking the item ✅, recompute the header tally by grepping ✅ vs [MISSING] counts rather than incrementing by hand." A one-line `grep -c` recompute makes it parallel-safe (derive, don't increment).
+
+**Principle:** Derived counters in shared files should be **recomputed from ground truth**, never hand-incremented — hand-increment assumes a single serial writer, which breaks under parallel sessions. Prefer "count the source of truth" over "bump the cache."
+
+### Observation 18: Concurrent ingest sessions collide on shared append-only bookkeeping files
+
+**Date:** 2026-06-27
+**Session context:** Ingesting Benjamin, *Empires of Ancient Eurasia* (2018) while a parallel session ingested the Oxford Handbook of the Merovingian World.
+**Skill:** World History Wiki ingest workflow (CLAUDE.md)
+**Type:** internal
+**Phase/Area:** Step 6 bookkeeping / commit
+
+**Issue:** I appended my ingest entries to the three SHARED append-only files (`wiki/index.md`, `wiki/log.md`, `Top_100_Structural_Sources.md`). Before I committed, the parallel Merovingian session ran its own commit (`6c07dc4`) whose `git add` swept up MY uncommitted appends to those three shared files — so they were committed under the *other* ingest's commit message, and `git status` then showed them as already-in-HEAD with no diff. My 40 content pages were untouched and committed cleanly afterward, but the bookkeeping edits landed in someone else's commit. Also, `--changed` lint scopes were polluted by the other session's untracked WIP (merovingian-*.md), forcing per-file verification to prove 0 NEW broken links (consistent with prior skill-obs about per-file checking).
+
+**Suggested improvement:** When two ingests may run concurrently, treat the three shared append-only files (index.md, log.md, Top_100) as a contention point: (a) stage and commit them as early as possible after writing, or (b) append + `git add` + commit them in the SAME quick step rather than leaving them dirty across a long content-writing phase, and (c) at commit time, verify with `git diff --cached --stat HEAD -- <those files>` that your own appends are actually in YOUR commit, not silently absorbed by a neighbor. Don't rely on a single end-of-run `git add` of shared files.
+
+**Principle:** Shared, append-only, multi-writer files are a race surface. In any workflow where parallel agents both append to the same ledger/index and commit independently, the writer that commits last may find its edits already swept into another's commit (or, worse, lost to a checkout). Minimize the window between writing a shared file and committing it, and verify ownership of your own staged hunks before declaring the commit done.
+
+### Observation 19: "Interpretive-layer" ingest — deep subagent fleet but predominantly UPDATE, reconciled as per-page author-sections
+
+**Date:** 2026-06-27
+**Session context:** Ingesting Liverani, *The Ancient Near East* (2014) — a landmark single-author synthesis covering c. 3500–500 BCE, into a wiki whose ANE backbone was already strong (built mostly from the Cambridge Ancient History).
+**Skill:** CLAUDE.md Ingest Workflow (Deployed Subagent Strategy + ingestion-depth-hybrid)
+**Type:** internal
+**Phase/Area:** Step 4 reconciliation / depth decision
+
+**Issue:** The existing memory `ingestion-depth-hybrid` frames the choice as light-touch (TOC+sampling) for well-trodden topics vs. deep section reads for gaps/distinctive scholarship. This source was BOTH: the factual spine is exceptionally well-trodden (every actor/place/period page already existed) AND Liverani's analytic framing (society/economy/ideology, source-criticism, modes of production) is genuinely distinctive. The right call was a FULL deep subagent fleet (10 ranges, ~560 grounded claims) but where the reconciliation output was ~42 page UPDATES vs only 6 new pages — i.e., a deep extraction feeding an overwhelmingly *update* ingest. The clean reconciliation unit turned out to be a single named "## Liverani: ..." section appended to each existing page (foregrounding only what HE adds/revises, cross-linking to 2–3 new concept pages that carry his framework), plus a frontmatter bump. New pages were reserved for (a) his signature analytic frameworks as concept pages and (b) genuine factual gaps (Ebla had no page at all).
+
+**Suggested improvement:** Add to the depth-decision guidance a third, explicit mode: the **"interpretive-layer ingest"** — when a distinctive secondary synthesis lands on an already-strong backbone, still run the deep subagent fleet, but plan for mostly-UPDATE output and reconcile by adding one **named author-section per existing page** (`## <Author>: <thesis>`), creating new pages only for the author's distinctive analytic frameworks (as concepts) and for true gaps. Decide created-vs-updated by checking page existence up front (a single `ls`/grep sweep over candidate slugs before spawning), so subagents link to real names and the main thread knows the create/update split in advance.
+
+**Principle:** Depth of *reading* and breadth of *new-page creation* are independent axes. A source can warrant maximum extraction depth while warranting almost no new pages; conflating "deep ingest" with "many new pages" leads to either under-reading distinctive scholarship or over-proliferating duplicate pages. Match the reconciliation unit (named author-section vs new page) to what the source actually adds to each existing target.
+
+### Observation 20: Pre-existing broken links surface in the --changed wikilink scan for every touched file and must be triaged, not blindly "fixed"
+
+**Date:** 2026-06-27
+**Session context:** Liverani ingest; running `wikilink_checker.py --changed` after each cluster commit.
+**Skill:** CLAUDE.md Lint Workflow (wikilink checker) + skill-obs #9 (per-file 0-NEW-broken-links checking)
+**Type:** internal
+**Phase/Area:** Step 5 lint / per-file broken-link verification
+
+**Issue:** Because the `--changed` scan flags ANY broken link in a touched file, editing a long-standing page (e.g. `early-iron-age.md`, `neo-assyrian-empire.md`) surfaces its pre-existing backlog (craig-benjamin, western-zhou, ironworking, `[[transition]]`, `bronze-age-collapse` without the -1200bce suffix, the deleted `Outstanding Sources.md`, `[[[assyria]]` frontmatter triple-brackets, etc.). These are NOT introduced by the ingest. The correct discipline (skill-obs #9) is to verify my *added* lines introduce 0 new broken links — but in this session I went further and fixed the surfaced pre-existing ones in files I was already committing (pointing to correct slugs where one existed, e.g. western-zhou→zhou-dynasty, craig-benjamin→benjamin-cwh-v4-2015, [[assyria]]→[[ashur]]; unlinking where no target existed). That keeps each commit's touched files at literally 0 broken links, but it is opportunistic repo-debt cleanup, not part of the ingest.
+
+**Suggested improvement:** Make the triage explicit in the lint step: after `--changed`, for each flagged link decide (1) did MY edit introduce it? → must fix; (2) pre-existing in a file I'm committing? → fix only if a correct target is obvious/cheap (repoint or unlink), otherwise leave and note it; (3) pre-existing in a file I'm NOT committing? → ignore. Record in the log which pre-existing links were opportunistically fixed so the cleanup is auditable. (Also: the Edit tool requires a Read-TOOL read of a file before editing — reading via `Bash cat` to plan does NOT satisfy it, so batch a cheap `Read` of each target before its first Edit to avoid a rejected-edit round-trip.)
+
+**Principle:** A "0 broken links" gate on a changed-file scan conflates *newly introduced* breakage (the ingest's responsibility) with *pre-existing* backlog (the repo's). Always triage by provenance (git diff / "is this in a line I wrote?") before fixing, and treat any pre-existing fixes as a separate, logged courtesy — never let backlog-chasing balloon an ingest.
+
+### Observation 21: Scaffold create-vs-update check must scan ALL wiki subdirs, not folder-filtered greps
+
+**Date:** 2026-06-27
+**Session context:** Ingesting Bryce, *The Kingdom of the Hittites* (Deployed Subagent Strategy). During Step-1 scaffolding I twice concluded a page was "missing" (`shuppiluliuma-i`, `ahhiyawa-question`, `telipinu-edict-1500bce`) based on `ls wiki/actors/ | grep` checks, then found via `find wiki -iname` that they already existed — `ahhiyawa-question` was in `controversies/`, and an event grep had been filtered out the existing `telipinu-edict`. Heavily-referenced "red links" (29 inbound for shuppiluliuma-i) turned out to be live targets created by prior ingests.
+**Skill:** one-skill-to-rule-them-all (ingest workflow in CLAUDE.md, Deployed Subagent Strategy Step 1)
+**Type:** internal
+**Phase/Area:** Step 1 scaffold — deciding create vs. update
+
+**Issue:** Checking page existence with directory-scoped greps (`ls wiki/actors/ | grep X`) misses pages that live in a sibling type-folder (a controversy, a process) or that get filtered by an over-narrow grep pattern. This risks a subagent (or the main thread) re-creating an existing page under a new slug — the exact duplication failure mode of Observation 11.
+**Suggested improvement:** In the ingest workflow, make the canonical existence check a single repo-wide `find wiki -iname "*<stem>*"` (or `grep -rl` over `wiki/`) per candidate slug, run BEFORE writing the naming registry — never a per-folder `ls | grep`. Cross-check inbound red-link counts with actual file presence: a high red-link count does NOT mean the target is missing.
+**Principle:** Existence checks in a typed, cross-linked knowledge base must be namespace-wide, not folder-scoped — the same entity can legitimately live in any of several type directories, and the link graph is the source of truth for "is this referenced", not "does this exist". Verify presence by file path, reference by link graph, and never conflate the two.
+
+### Observation 22: Subagent created a homophone-slug duplicate (hattusa vs. hattusha) of an existing page
+
+**Date:** 2026-06-27
+**Session context:** Bryce *Kingdom of the Hittites* ingest. Despite the agent contract explicitly listing `hattusha` in the EXISTING/link-only set, a subagent created a full new `wiki/places/hattusa.md` (no medial 'h') duplicating the canonical `wiki/places/hattusha.md`. It was caught only because the final `wikilink_checker --changed` flagged a broken link *inside* the duplicate; the duplicate itself is not flagged by the link checker (it resolves its own slug). Three pre-existing pages (yamhad, luwians, a not-yet-ingested Bryce source page) had long carried red links to the wrong-spelled `[[hattusa]]`, which the duplicate silently "satisfied."
+**Skill:** one-skill-to-rule-them-all (Deployed Subagent Strategy — Step 4 reconciliation)
+**Type:** internal
+**Phase/Area:** Step 4/5 — dedup and validation after subagents return
+
+**Issue:** A near-homophone / variant-transliteration slug (`hattusa` vs `hattusha`) is invisible to the wikilink checker (both are "valid" once a file exists for each) and to a naive "does the page exist" check. Subagents over-create such pages even when told to link the canonical slug, and pre-existing red links to the variant spelling mask the problem. This is a concrete recurrence of [[#11]] and the failure mode [[#21]] warns about.
+**Suggested improvement:** Add a Step-4 reconciliation check to the ingest workflow: after subagents return, run a **variant-spelling collision scan** — for each newly created place/actor slug, grep the wiki for near-duplicate slugs differing only by a medial/terminal h, doubled consonant, or s/sh (e.g. `ls wiki/*/ | sort | uniq`-style fuzzy compare, or explicitly grep both spellings of contested names). Resolve to the slug with the most inbound links; delete the duplicate; repoint stray variant links. The link checker alone will NOT catch a self-consistent duplicate.
+**Principle:** In a slug-keyed wiki, the dangerous duplicate is not the broken link but the *self-consistent* one — two files for one entity under spelling variants. Validation that only checks "do links resolve" is blind to it; dedup must include an active variant-collision scan keyed on the entity, not the string.
+
+### Observation 23: Transliteration-duplicate near-miss recurred (Bryce gazetteer)
+
+**Date:** 2026-06-27
+**Session context:** Ingesting Bryce, *Routledge Handbook of the Peoples and Places of Ancient Western Asia* (reference gazetteer) — focused main-thread reference ingest into the already-strong ANE wiki.
+**Skill:** task-observer (ANE-ingest practice; relates to existing Observation 13)
+**Type:** internal
+**Phase/Area:** Step 1 scaffolding / dedup against existing pages
+
+**Issue:** I scaffolded two new pages — `places/hattusa.md` and `actors/yamhad.md` — before discovering the wiki already had `places/hattusha.md` and `actors/iamkhad.md` (CAH-built, under alternative transliterations). This is the exact failure mode flagged in Observation 13. My pre-flight slug check missed them because I only checked the spelling *I* intended (`hattusa`, `yamhad`), not the transliteration variants the prior ingest had chosen (`hattusha`, `iamkhad`). A repo auto-linter caught and removed the `hattusa.md` duplicate and redirected links, but the `yamhad`/`iamkhad` duplicate I had to catch and fix manually (the linter left those links pointing at my duplicate). Resolved by deleting both dupes and folding the additive Bryce material into the existing pages.
+
+**Suggested improvement:** Before scaffolding ANY new ANE place/people page, grep the wiki for *transliteration variants*, not just the intended slug: h↔kh, double letters (Hattusa/Hattusha), initial Y↔I (Yamhad/Iamkhad), -a↔-ah endings, k↔c, sh↔š. A cheap heuristic: search on a distinctive 4–5 letter root substring (`find . -iname '*amkhad*'`, `find . -iname '*attus*'`) rather than the full slug. Bake this into the ingest scaffold step for reference works especially, where dozens of named places are created at once.
+
+**Principle:** When a wiki already has deep coverage built by a prior source with its own naming conventions, the dominant ingest risk shifts from "writing good content" to "colliding with existing pages under different spellings." Dedup must search the *concept*, not the *chosen slug*. Recurrence of Observation 13 confirms a root-substring transliteration check belongs in the standing pre-scaffold routine, not just as a remembered caution.

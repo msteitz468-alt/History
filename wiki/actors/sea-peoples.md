@@ -9,8 +9,8 @@ affiliated_with: [Libyan coalition (Merneptah's war), [[philistines|Philistines]
 opposed_by: [[[merneptah|Merneptah]], [[ramesses-iii|Ramesses III]], [[new-kingdom-egypt|New Kingdom Egypt]]]
 key_events: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]], Merneptah's Year 5 victory, Ramesses III's Year 8 land and sea battles]
 key_processes: [[[bronze-age-collapse-1200bce|Bronze Age Collapse]], end of the Mycenaean palace system]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, movement, late-bronze-age, bronze-age-collapse, mediterranean, levant, aegean]
 ---
 
@@ -110,10 +110,22 @@ history, and the cause/symptom question, are both treated on the
 [[bronze-age-collapse-1200bce|Bronze Age Collapse]] page. This actor page records
 the figures and the named groups; it does not adjudicate the controversy.
 
+[[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] takes a deflationary
+view from the Anatolian side: "Sea Peoples" is "a misleading term" (coined only in the
+late nineteenth century) for what was in reality "a largely disorganized array of
+groups, who banded together from time to time," many of them neither islanders nor
+coastal — and he locates their **probable genesis in destabilised western Anatolia**,
+where the Bronze Age power structures first crumbled (giving Lukka, Ekwesh = Ahhiyawa,
+Teresh, Denyen and even Peleset possible Anatolian origins). He suggests Hittite and
+Ahhiyawan population-transfers may themselves have generated the displaced fugitives,
+and reads Ramesses III's grand Medinet Habu "battle" as a propagandistic **narrative
+condensation** of many small episodes (with Cifola and Liverani), reinforcing the
+"symptom not cause" reading of the collapse.
+
 ## See Also
 
 - [[bronze-age-collapse-1200bce|Bronze Age Collapse]]
 - [[philistines|Philistines]]
 - [[merneptah|Merneptah]] · [[ramesses-iii|Ramesses III]]
 - [[ugarit|Ugarit]] · [[cyprus|Cyprus]] · [[hittites|Hittite Empire]]
-- [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2 (source)]]
+- [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]]

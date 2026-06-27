@@ -9,7 +9,7 @@ affiliated_with: [the [[hurrians|Hurrians]], an Indo-Aryan ruling class, [[new-k
 opposed_by: [[[new-kingdom-egypt|Egypt]] (Thutmose I & III), the [[hittites|Hittites]] ([[shuppiluliuma-i|Šuppiluliuma I]]), [[ashur-uballit-i|Assyria]] (vassal then rival)]
 key_events: [the consolidation of the Hurrian confederacy, the empire of Saustatar (Taurus to Zagros), the marriage alliance with Egypt under Thutmose IV, the destruction by Šuppiluliuma I and the murder of Tushratta]
 key_processes: [[[state-formation]], [[interpolity-law]], [[migration-in-human-history]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, state, late-bronze-age, near-east, mesopotamia, levant]
 ---
@@ -131,4 +131,4 @@ See [[cambridge-ancient-history-methodology]].
 - People: [[hurrians]] (its base) · [[indo-european-migrations|Indo-Aryans]] (its elite) · Concept: [[interpolity-law]]
 - Vassal: [[alalakh]] · Place: [[ugarit]] · Rival/ally: [[new-kingdom-egypt]] ([[thutmose-iii]], [[amenhotep-iii]])
 - Destroyed by: [[hittites]] ([[shuppiluliuma-i]]) then [[ashur-uballit-i|Assyria]] · Controversy: [[indo-european-origins]]
-- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]
+- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] (its destruction by [[shuppiluliuma-i|Šuppiluliuma]] in the one-year Syrian war; the Šattiwaza puppet-settlement)

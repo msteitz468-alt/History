@@ -2,14 +2,14 @@
 title: The Hittites (the Kingdom of Hatti)
 actor_type: state
 date_start: ~1650 BCE (the Old Kingdom under Hattusili I; antecedents under Anitta, ~1750 BCE)
-date_end: ~1180 BCE (fall of the Empire in the Bronze Age Collapse; this page covers the Old & Middle Kingdoms to ~1380 BCE)
-period: [Middle Bronze Age, Late Bronze Age]
-region: [anatolia, near-east]
-affiliated_with: [the Hattian substrate population, Kizzuwadna (at times), Kassite Babylonia (~1595 alliance of convenience)]
-opposed_by: [[[iamkhad|Yamhad/Aleppo]], the [[hurrians|Hurrians]] & [[mitanni|Mitanni]], Arzawa, the Kaska tribes, [[babylon-first-dynasty|Babylon]]]
-key_events: [[[fall-of-babylon-1595bce|the sack of Babylon (~1595)]], the destruction of [[iamkhad|Aleppo]], the [[telipinu-edict-1500bce|Telipinu edict]]]
-key_processes: [[[indo-european-migrations]], [[interpolity-law]]]
-sources_ingested: 3
+date_end: ~1180 BCE (fall of the Empire in the Bronze Age Collapse; the Old & Middle Kingdoms run to ~1350 BCE, the Empire ~1350–1180 BCE)
+period: [Middle Bronze Age, Late Bronze Age, Bronze Age Collapse]
+region: [anatolia, near-east, levant]
+affiliated_with: [the Hattian substrate population, Kizzuwadna (at times), Kassite Babylonia (~1595 alliance of convenience), Ugarit and Amurru (LBA vassals)]
+opposed_by: [[[iamkhad|Yamhad/Aleppo]], the [[hurrians|Hurrians]] & [[mitanni|Mitanni]], Arzawa, the Kaska tribes, [[babylon-first-dynasty|Babylon]], [[new-kingdom-egypt|Egypt]], [[assyria-middle|Assyria]]]
+key_events: [[[fall-of-babylon-1595bce|the sack of Babylon (~1595)]], the destruction of [[iamkhad|Aleppo]], the [[telipinu-edict-1500bce|Telipinu edict]], the destruction of [[mitanni|Mitanni]], the [[battle-of-qadesh-1274bce|battle of Qadesh]], the [[egyptian-hittite-treaty-1259bce|Silver Treaty]], the [[bronze-age-collapse-1200bce|fall of Hattusa]]]
+key_processes: [[[indo-european-migrations]], [[interpolity-law]], [[hittite-vassal-treaties|vassal-treaty system]]]
+sources_ingested: 4
 last_updated: 2026-06-27
 tags: [actor, state, middle-bronze-age, late-bronze-age, anatolia, near-east]
 ---
@@ -106,7 +106,63 @@ the dynasty: the Hurrian pantheon (Yazılıkaya), Hurrian royal names, and the
 Kingdom is the bridge to the Empire: out of it emerges
 **[[shuppiluliuma-i|Šuppiluliuma I]]**, who would shatter Mitanni and make Hatti a
 [[late-bronze-age|Late Bronze]] superpower — a story told in
-[[edwards-cah-v2p2-1975|CAH Vol. II.2]] (see Sections 1–3).
+[[edwards-cah-v2p2-1975|CAH Vol. II.2]] (see Sections 1–3) and, in dense
+reign-by-reign detail, in [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]].
+
+## The Empire (c. 1350–1200 BCE)
+
+[[sources/bryce-kingdom-of-the-hittites-2005|Bryce]] supplies the empire narrative the
+older account deferred. It is essentially the history of seven reigns:
+
+- **[[shuppiluliuma-i|Šuppiluliuma I]]** (c. 1350–1322) seized the throne by killing the
+  designated heir, isolated [[mitanni|Mitanni]] diplomatically, then **destroyed it** in a
+  one-year Syrian campaign and a six-year "Hurrian war," reducing the whole of Syria north
+  of Damascus to a graded network of [[hittite-vassal-treaties|vassal states]] and installing his own sons
+  as kings (viceroys) at [[carchemish|Carchemish]] and Aleppo — the institutional spine of
+  Hittite Syria. His destruction of Mitanni unintentionally **freed [[assyria-middle|Assyria]]**.
+  (Full life: [[hubs/biographies/late-bronze-age/shuppiluliuma-i|biography hub]].)
+- A **plague** carried home by Egyptian prisoners (the aftermath of the
+  [[shuppiluliuma-i|Zannanza affair]]) killed Šuppiluliuma and his successor **Arnuwanda II**
+  within a year or two, and ravaged Hatti for a generation.
+- **[[mursili-ii|Muršili II]]** (c. 1321–1295), dismissed by enemies as "a child," proved
+  the dismissal wrong: his **Ten-Year Annals** record the conquest of **Arzawa** (deporting
+  ~65,000 people from Uhhaziti's kingdom) and relentless campaigning against the
+  **Kaska**. His **Plague Prayers** are the most personally revealing texts of any Hittite
+  king, confessing his father's sins (the fratricide; the broken Kurustama treaty with Egypt).
+- **[[muwatalli-ii|Muwattalli II]]** (c. 1295–1272) moved the capital south to
+  **[[tarhuntassa|Tarhuntassa]]**, delegating the north as a buffer kingdom to his brother
+  Hattusili, and fought [[ramesses-ii|Ramesses II]] to a bloody draw at the
+  [[battle-of-qadesh-1274bce|battle of Qadesh]] (1274) — a tactical stalemate but a Hittite
+  strategic success that held Syria to the Damascus region.
+- **[[urhi-teshub|Urhi-Teshub]]** (Muršili III, c. 1272–1267), a "second-rank son," was
+  deposed after seven years by his uncle.
+- **[[hattusili-iii|Hattusili III]]** (c. 1267–1237) **usurped the throne** — justifying it in
+  his remarkable autobiographical *Apology* — and with his queen **[[puduhepa|Puduhepa]]**
+  made his reign the age of diplomacy: the **[[egyptian-hittite-treaty-1259bce|Silver Treaty]]**
+  with Egypt (the first preserved parity treaty between great powers) and marriage alliances
+  across the Near East.
+- **[[tudhaliya-iv|Tudhaliya IV]]** (c. 1237–1209) ruled an empire under mounting strain —
+  the cousin **[[kurunta|Kurunta]]** of Tarhuntassa (the Bronze Tablet), defeat by Assyria at
+  **Nihriya**, dependence on imported grain — and completed the rock sanctuary of **Yazılıkaya**;
+  his son **[[suppiluliuma-ii|Šuppiluliuma II]]**, the last Great King, fought sea-battles off
+  Cyprus before [[hattusha|Hattusa]] fell.
+
+## The fall of the kingdom (c. 1200 BCE)
+
+Bryce reads the Hittite collapse as **multi-causal**, weighting **internal disintegration**
+over any single external blow. A structural **grain dependency** (Hatti imported grain via
+[[ugarit|Ugarit]] to the Cilician port of Ura — "a matter of life or death," and the subject
+of a relief grain-shipment from Egypt "to keep alive the land of Hatti"), chronic dynastic
+instability, and a hostile Tarhuntassa astride the supply route left the state brittle. Onto
+this Bryce overlays the **[[sea-peoples|Sea Peoples]]** — for him "a largely disorganized
+array of groups," probably originating in destabilised **western Anatolia** rather than a
+coordinated invasion — and the perennial **Kaska**, the likely sackers of the capital. He
+gives weight to **[[bronze-age-collapse-1200bce|Jürgen Seeher's revisionism]]**: that Hattusa
+was **deliberately abandoned** by the royal family and bureaucracy (who removed the records and
+treasures), the fires consuming a "largely derelict" city. Hittite kingship did not vanish
+entirely: at **[[carchemish|Carchemish]]**, the viceregal line of **Kuzi-Teshub** styled
+itself "Great King" and seeded the [[neo-hittite-states|Neo-Hittite states]] of the Iron Age,
+keeping a "Hittite veneer" alive for centuries.
 
 ## Liverani: rise (not decline), justification, and the demographic trap
 

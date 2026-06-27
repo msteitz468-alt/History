@@ -7,7 +7,7 @@ period_active: [Middle Bronze Age, Late Bronze Age]
 controlled_by: [independent kingdom (Amorite/Canaanite), in the orbit of [[mitanni|Mitanni]] then a vassal of the [[hittites|Hittites]]]
 events_here: [the 14th–13th c. archive-city zenith; the submission of Niqmaddu II to Šuppiluliuma I; destruction in the ~1200 BCE Sea Peoples horizon]
 processes_here: [[[trade-network-formation]], [[canaanite-civilization]], [[ugaritic-religion]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-27
 tags: [place, levant, near-east, late-bronze-age]
 ---
@@ -117,4 +117,4 @@ the type-site of the **Bronze Age Collapse**.
 - Process: [[canaanite-civilization]] · [[ugaritic-religion]] · [[trade-network-formation]] · People: [[hurrians]] · [[amorites]]
 - Place: [[alalakh]] · [[byblos]] · [[cyprus]] · In the orbit of: [[mitanni]] → vassal of [[hittites]] ([[shuppiluliuma-i]], [[mursili-ii]])
 - End: [[sea-peoples|Sea Peoples]] · [[bronze-age-collapse-1200bce|Bronze Age Collapse]]
-- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]
+- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] (the last letters, the loaned war-fleet, and Ugarit as the hub of Hatti's grain imports)

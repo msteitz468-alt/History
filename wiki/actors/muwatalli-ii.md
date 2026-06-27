@@ -7,10 +7,10 @@ period: [Late Bronze Age]
 region: [anatolia, levant]
 affiliated_with: [the [[hittites|Hittite kingdom]]]
 opposed_by: [[[new-kingdom-egypt|Egypt]] ([[ramesses-ii|Ramesses II]]), the Kaska, Assyria]
-key_events: [the [[battle-of-qadesh-1274bce|battle of Qadesh]], the transfer of the capital to Tarḫuntašša]
+key_events: [the [[battle-of-qadesh-1274bce|battle of Qadesh]], the transfer of the capital to [[tarhuntassa|Tarḫuntašša]]]
 key_processes: [[[imperialism]], [[interpolity-law]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, anatolia, near-east]
 ---
 
@@ -53,8 +53,26 @@ Egypt's last serious bid for Syria — making possible the
 his removal of the capital and elevation of Ḫattušili sowed the **dynastic conflict**
 (Urḫi-Teshub vs. Ḫattušili III) that weakened Hatti in its last century.
 
+## Bryce: the capital move and the partition of the kingdom
+
+[[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] treats Muwattalli's relocation of
+the capital from [[hattusha|Hattusa]] to **[[tarhuntassa|Tarhuntassa]]** as the defining — and
+fateful — act of the reign. The move, which carried "the gods and the ancestral spirits of
+Hatti" wholesale to the south, had a clear strategic logic (Tarhuntassa was far better placed
+for the coming war with Egypt, and concentrating southward left the old capital exposed to the
+Kaska), but it **effectively partitioned the kingdom**: Muwattalli delegated the entire north
+as a buffer realm to his brother **[[hattusili-iii|Hattusili]]**, ruling as king from Hakpis,
+while making him GAL MEŠEDI (chief of the bodyguards). Bryce thus locates the seed of the later
+[[urhi-teshub|Urhi-Teshub]]–Hattusili civil war in Muwattalli's own arrangements. On
+**[[battle-of-qadesh-1274bce|Qadesh]]** Bryce credits Muwattalli with the decisive generalship —
+the false-deserter deception, the army concealed behind the city, the ambush of the Re division —
+and judges that "had there been a less able or less determined occupant of the throne in Hattusa,
+Ramesses may well have succeeded in emulating … Tuthmosis III." The battle was a tactical draw
+but a Hittite strategic win: Muwattalli pursued Egypt south into the Damascus region and
+re-subjugated **Amurru**.
+
 ## Related
 
-- Father: [[mursili-ii]] · Brother/successor-rival: [[hattusili-iii]] · Son: Urḫi-Teshub (Muršili III)
-- War: [[battle-of-qadesh-1274bce]] · [[ramesses-ii]] · State: [[hittites]] · Capital: [[hattusha]] · Vassal: [[ugarit]]
-- Period: [[late-bronze-age]] · Source: [[edwards-cah-v2p2-1975]]
+- Father: [[mursili-ii]] · Brother/successor-rival: [[hattusili-iii]] · Son: [[urhi-teshub|Urḫi-Teshub (Muršili III)]] · Son: [[kurunta|Kurunta]]
+- War: [[battle-of-qadesh-1274bce]] · [[ramesses-ii]] · State: [[hittites]] · Capital→ [[tarhuntassa]] · Vassal: [[ugarit]]
+- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p2-1975]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]]

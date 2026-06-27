@@ -7,8 +7,8 @@ period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Archaic Pe
 controlled_by: [[[early-bronze-age-anatolia|Early Bronze Anatolian kingdoms]]]
 events_here: [unknown]
 processes_here: [[[early-bronze-age-anatolia]], [[urbanization]], [[trade-network-formation]]]
-sources_ingested: 3
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [place, anatolia, mediterranean, early-bronze-age]
 ---
 
@@ -144,6 +144,16 @@ itself doubtful — the objects vanished and were never verified — and that
 synchronism should be treated with caution. Absolute dates here are pre-calibration
 and approximate. See [[cambridge-ancient-history-methodology]].
 
+[[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] approaches Troy from the
+**Hittite documents** rather than the spade. He treats the equation of Hittite
+**[[wilusa|Wilusa]] with (W)ilios/Troy** as effectively settled (the Manapa-Tarhunda
+letter fixes Wilusa beyond the Seha River Land, in the north-west Troad), notes the
+suggestive Wilusan king **Alaksandu** (≈ Alexandros/Paris) of Muwattalli's treaty, and
+accepts that thirteenth-century clashes involving Mycenaean **[[ahhiyawa-question|Ahhiyawa]]**
+and Wilusa supplied a **historical kernel** for the Trojan War tradition — while concluding
+firmly that the *Iliad* is a centuries-long literary conflation with no single documented
+Greek assault on Troy in the Hittite record.
+
 ## Related
 
 - Process: [[early-bronze-age-anatolia]] · [[early-bronze-age-aegean]] · [[trade-network-formation]] · [[urbanization]]
@@ -151,4 +161,4 @@ and approximate. See [[cambridge-ancient-history-methodology]].
 - Period: [[early-bronze-age]] · [[middle-bronze-age]] · [[late-bronze-age]]
 - Controversy: [[indo-european-origins]] (the end-EB2 "Luwian" destructions) · Migration: [[indo-european-migrations]]
 - Late Bronze context: [[hittites]] (Wilusa/Arzawa) · State: [[hattusha]] · Trojan War: [[mycenaean-civilization]] · Controversy: [[ahhiyawa-question]]
-- Sources: [[edwards-cah-v1p2-1971]] · [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]
+- Sources: [[edwards-cah-v1p2-1971]] · [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]]

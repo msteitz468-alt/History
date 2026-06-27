@@ -9,7 +9,7 @@ affiliated_with: []
 opposed_by: [the [[hyksos|Hyksos]], the princedom of Kush, [[mitanni|Mitanni]] (then ally), the [[hittites|Hittites]], the city-states of Syria-Palestine]
 key_events: [expulsion of the [[hyksos|Hyksos]] (~1550 BCE), the conquests of [[thutmose-iii|Thutmose III]] in Syria, the golden age of [[amenhotep-iii|Amenophis III]], the [[atenism|Amarna revolution]] under [[akhenaten|Akhenaten]] and the end of the dynasty]
 key_processes: [[[imperialism]], [[egyptian-imperialism]], [[state-formation]], [[interpolity-law]], [[atenism]], [[egyptian-temple-economy]], [[birth-of-economic-man]]]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-27
 tags: [actor, state, late-bronze-age, north-africa, near-east]
 ---
@@ -179,4 +179,4 @@ edited. See [[cambridge-ancient-history-methodology]].
 - Process: [[imperialism]] · [[interpolity-law]] · Economy: [[egyptian-temple-economy]] · [[birth-of-economic-man]] · [[deir-el-medina]] · Period: [[late-bronze-age]] → [[early-iron-age]]
 - Rulers (detail): [[actors/amenhotep-i]] · [[actors/thutmose-i]] · [[actors/amenhotep-ii]] · [[actors/thutmose-iv]] · [[actors/ramesses-ii]] · [[merneptah]]
 - Empire: [[processes/egyptian-imperialism]] · [[events/battle-of-megiddo-1457bce]] · [[kerma-kingdom]] · [[actors/sea-peoples]] · [[places/piramesse]] · [[places/punt]]
-- Preceded by: [[middle-kingdom-egypt]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[kemp-ancient-egypt-anatomy-2018]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]
+- Preceded by: [[middle-kingdom-egypt]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[kemp-ancient-egypt-anatomy-2018]] · [[sources/shaw-oxford-history-ancient-egypt-2000]] · [[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] (the Hittite-archive view: the [[shuppiluliuma-i|Zannanza affair]], Horemheb in Syria, the [[egyptian-hittite-treaty-1259bce|Silver Treaty]])

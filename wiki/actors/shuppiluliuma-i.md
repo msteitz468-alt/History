@@ -9,10 +9,12 @@ affiliated_with: [the [[hittites|Hittite kingdom]], [[kassites|Kassite Babylonia
 opposed_by: [[[mitanni|Mitanni]] (Tushratta), [[new-kingdom-egypt|Egypt]], the Hurrian/"Khurri" rival kings]
 key_events: [the two Syrian wars, the destruction of Mitanni, the Hurrian War, the reorganization of Syria into Hittite vassal states, the [[zannanza-affair-1322bce|Zannanza affair]]]
 key_processes: [[[imperialism]], [[interpolity-law]], [[state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-bronze-age, anatolia, near-east]
 ---
+
+> **Detailed biography:** [[hubs/biographies/late-bronze-age/shuppiluliuma-i|Šuppiluliuma I — Biography Hub]] (graduate-level analytic life)
 
 # Šuppiluliuma I (Hittite king)
 
@@ -25,10 +27,14 @@ contemporaries." Treated in [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2]]
 
 ## Rise
 
-Son of Tudhaliya III, under whom Hatti had "shrunk into insignificance," he won
-back lost ground as a general before taking the throne (~1380, by the volume's high
-chronology; modern dating lowers his reign by roughly a generation, to
-~1350–1322). His first task was to **reorganize the homeland** — the Hittite system
+Son of [[tudhaliya-iii|Tudhaliya III]], under whom Hatti had "shrunk into
+insignificance," he won back lost ground as a general before taking the throne (~1380,
+by the volume's high chronology; Bryce and most modern dating lower his reign by roughly
+a generation, to **~1350–1322**). His accession was a **usurpation**: Bryce, following
+Muršili II's Plague Prayers, records that Šuppiluliuma was not the heir — he swore
+allegiance to his brother **Tudhaliya the Younger** and then had him and his loyal
+brothers killed, a fratricide his successors believed brought down divine vengeance in
+the form of the great plague. His first task was to **reorganize the homeland** — the Hittite system
 of crown-appointed officials and treaty-bound vassal states was "more firmly knit"
 than the loose Mitannian confederacy — and to secure his flanks: a treaty with
 **Šunaššura of Kizzuwatna** (detaching Cilicia from Mitanni), an understanding with
@@ -95,7 +101,10 @@ Muršili II, supplemented by the [[amarna-letters|Amarna correspondence]] and
 Egyptian records — an unusually rich, multi-archival dossier for a 14th-century
 ruler. The identity of the dead pharaoh in the Zannanza affair (Tutankhamun vs.
 Akhenaten/Smenkhkare) and the absolute dates remain debated. See
-[[cambridge-ancient-history-methodology]].
+[[cambridge-ancient-history-methodology]] and the full source criticism on the
+[[hubs/biographies/late-bronze-age/shuppiluliuma-i|biography hub]].
+[[sources/bryce-kingdom-of-the-hittites-2005|Bryce (2005)]] supplies the dense
+reign-by-reign narrative this ingest follows.
 
 ## Related
 
