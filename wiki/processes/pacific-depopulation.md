@@ -23,7 +23,7 @@ produces:
   - "[[invention-of-the-native]] — 'extinctionism' as ideological justification for plantation development over village production"
   - "Colonial policy preference for plantations over indigenous village production (Woodford in Solomons)"
   - "Creation of the 'Native Mother' concept in Fiji as policy response"
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [process, demographic, long-19th-century, world-wars-era, oceania, polynesia, melanesia, micronesia]
 ---
@@ -120,3 +120,8 @@ Quantification is difficult: "census figures were first collected long after con
 - [[samoa]]
 - [[new-guinea]]
 - [[denoon-cambridge-pacific-islanders-1997]]
+
+
+## Fischer (2002): island-by-island demographic collapse
+
+[[fischer-history-pacific-islands-2002|Fischer (2002)]] compiles stark figures for the post-contact die-off. On Guam, Jesuits put the pre-contact Chamorro population near 70,000; "within 30 years, 70 per cent of all Chamorros were dead," mostly from Old World disease (L3204–3206). The Marquesas fell from "over 80 000" in the late eighteenth century to "only 1500" by the 1920s (L4302–4303); Hawai‘i from c. 142,000 (1823) to 39,000 (1896) (L4303–4304); Tahiti from c. 35,000 to 7,000–8,000 by 1900 (L4304–4306); Rapanui from c. 3,000 (1863) to 111 (1877) (L4301–4302). Many Western Melanesian islands "lost around 90 per cent of their people" (L4317–4318); New Caledonia's indigenous population fell from ~100,000 (1800) to ~34,000 (1900) (L4322–4323); Micronesia's "overall loss approached 50 per cent" (Kosrae from ~3,000 to ~300) (L4324–4326). Fiji's 1875 measles epidemic — brought by Cakobau returning from Australia — "slew nearly one out of every three Fijians" (L5455–5457). Fischer's causal verdict: disease and its repercussions, the loss of young men, and the colonial context dominated, while "murder by Europeans and Americans was, it appears, the rarest cause of all" (L4336–4339).

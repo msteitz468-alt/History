@@ -35,7 +35,7 @@ produces:
   - wealth accumulation by Big Men and chiefs
   - regional interdependence (Hau'ofa's "sea of islands" model)
   - ceremonial exchange institutions (kula, moka, tee, hiri)
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [process, economic, oceania, polynesia, melanesia, micronesia]
 ---
@@ -131,3 +131,8 @@ The foundational ethnographic text for Highlands exchange is Andrew Strathern's 
 - [[melanesia]]
 - [[micronesia]]
 - [[new-zealand]]
+
+
+## Fischer (2002): kula, tee, sawei, and Micronesian valuables
+
+[[fischer-history-pacific-islands-2002|Fischer (2002)]] surveys the region's ceremonial exchange networks. The **kula ring** of the Massim (SE New Guinea) circulated *soulava* shell necklaces against *mwali* armshells in opposite directions across a voyaging circle "approximately 350 kilometres in diameter," possibly ~500 years old (L1965–1984); the New Guinea Highland **tee** turned on pigs, the "Big Man" being the largest herder (L1953–1964). In Micronesia the **sawei** spanned the ~2,000-km Caroline chain, the eastern islands sending shell valuables and goods to Yap and receiving "resource permissions and assurances of famine relief," a network that "probably began after a Yapese conquest and demand for tribute" before ritualising (L1997–2025); the Marshalls' Ralik paramount collected and redistributed food tribute as typhoon/drought insurance and chiefly legitimation (L2032–2038). Fischer notes Palau's anomalous glass-and-ceramic "bead money" (L2046–2053) and Yap's quarried **stone money** (*fae*), aragonite disks up to 4 m across hauled 250 km from Palau to finance marriages (L2054–2062).

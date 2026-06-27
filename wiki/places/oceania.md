@@ -7,7 +7,7 @@ period_active: [Behavioral Modernity, Neolithic, Archaic Period, Classical Antiq
 controlled_by: [indigenous Pacific Islander societies, Britain, France, Germany, the United States, Japan, Australia, New Zealand, Chile, the post-colonial Pacific states]
 events_here: [Pacific War, Overthrow of the Hawaiian Monarchy, Fiji Coups]
 processes_here: [pacific-voyaging-and-settlement, invention-of-the-native, pacific-nuclear-testing, pacific-decolonisation]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, oceania, polynesia, melanesia, micronesia]
 ---
@@ -63,3 +63,8 @@ scholars and administrators.
 - Sub-regions: [[polynesia|Polynesia]] · [[melanesia|Melanesia]] · [[micronesia|Micronesia]] · [[new-zealand|New Zealand]]
 - [[pacific-voyaging-and-settlement|Pacific Voyaging and Settlement]]
 - Source: [[denoon-cambridge-pacific-islanders-1997|Cambridge History of the Pacific Islanders]]
+
+
+## Fischer (2002): regional framing and the limits of the three-region scheme
+
+[[fischer-history-pacific-islands-2002|Fischer (2002)]] stresses that by the sixteenth century "most inter-insular and inter-archipelagic networking had collapsed, perhaps because of the Little Ice Age" (L3011–3012); on the eve of European contact active voyaging survived only in three pockets — the Society Islands/NW Tuamotus, Micronesia (where it was essential to atoll survival), and Tongan-dominated Western Polynesia (L3003–3009). He questions the validity of "Melanesia", "Micronesia" and "Polynesia" as *prehistoric* categories, arguing the Polynesian Outliers "witness what most of Pacific Islands might once have resembled" (L1914–1922). Fischer is also pointedly anti-romantic about ecology: "one should toss out any notion of 'happy Pacific Islanders' living in harmony with nature" — Hawai‘i alone lost "at least 1000 species of animals" to Polynesian and later European arrival (L2968–2998). On the colonial encounter he frames the nineteenth century as a mutual absorption rather than one-way assimilation.

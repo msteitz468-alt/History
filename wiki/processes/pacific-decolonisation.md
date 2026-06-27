@@ -17,7 +17,7 @@ produces:
   - "MIRAB-dependent economies"
   - "political violence in Fiji, Bougainville, New Caledonia"
   - "constitutional struggles over indigenous rights (Maori, Hawaiian)"
-sources_ingested: 1
+sources_ingested: 2
 last_updated: "2026-06-27"
 tags: [process, cold-war, contemporary, oceania, polynesia, melanesia, micronesia, political]
 ---
@@ -78,3 +78,8 @@ The collection of sources in [[denoon-cambridge-pacific-islanders-1997]] is stro
 - [[wiki/processes/pacific-cultural-renaissance|Pacific Cultural Renaissance]]
 - [[oceania]]
 - [[denoon-cambridge-pacific-islanders-1997]]
+
+
+## Fischer (2002): "from the top down" — and where it was not
+
+[[fischer-history-pacific-islands-2002|Fischer (2002)]] argues Pacific decolonisation "came from the top down, because it … came in the interest of the colonial powers" Britain, Australia and New Zealand, and was largely peaceful except where powers rejected Islander aspirations (L8360–8367). The 1960 UN declaration catalysed independence for Western Samoa, Fiji, Tonga, PNG, Solomon Islands, Vanuatu, Kiribati and Tuvalu; the **South Pacific Forum** was founded in 1971 and the Melanesian Spearhead Group in 1988 (L8328–8344). The Cook Islands (1965) and Niue (1974) took "associated independence" with New Zealand — "the pride of nationhood without the perils of full independence" (L8569–8578); Tuvalu and Kiribati uniquely "expressed regret at Britain's decision to grant them independence" (L8644–8664). By contrast Fischer indicts the holdouts: the US fragmented the Congress of Micronesia per the Kennedy-era "Solomon Report" to keep status changes aligned with security goals (L8748–8773); France fomented rebellions before Vanuatu's 1980 independence (L8695–8703); and Chile (Rapanui) and Indonesia (Irian Jaya, ruled "in a style reminiscent of early colonial barbarism") represent surviving "vestigial colonialism" (L9020–9062).

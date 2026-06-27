@@ -8,8 +8,8 @@ region: [polynesia, melanesia, micronesia, oceania]
 process_type: demographic
 driven_by: [Austronesian maritime expansion, outrigger and double-hulled canoe technology, deliberate exploratory voyaging, ceremonial exchange networks]
 produces: [the Lapita Cultural Complex, the peopling of Polynesia and Micronesia, [[polynesian-chiefdoms|Polynesian chiefdoms]], island ecological transformation]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [process, polynesia, melanesia]
 ---
 
@@ -73,3 +73,8 @@ hereditary **[[polynesian-chiefdoms|chiefdoms and archaic states]]** of Tonga, H
 elsewhere. The process exemplifies CWH IV's thesis that **connection across distance**, not
 territorial empire, was a primary engine of world history — here achieved entirely by
 indigenous **seafaring**.
+
+
+## Fischer (2002): the double canoe, settlement chronology, and the Mystery Islands
+
+[[fischer-history-pacific-islands-2002|Fischer (2002)]] calls the **double-hulled canoe** "one of the greatest technological innovations in the history of seafaring," able to carry "not merely provisions for one voyage but an entire culture" (L866–872). He gives a settlement chronology — Island Melanesia c. 3,300 BP, Fiji c. 3,200, Tonga c. 2,900, Samoa shortly after, the Marquesas c. AD 300, Hawai‘i and the Societies c. AD 500–700, New Zealand c. AD 1280, the Chathams c. AD 1300 (L847–916, L1507–1529) — with founding canoes carrying ~70 settlers "of an equal gender ratio of young adults" (L968–973). Discovery proceeded by **two-way scout voyages** sailing close to the wind and returning downwind if no land was found by the time half the food was eaten (L1466–1472), aided by star bearings, swell patterns, water temperature, cloud and bird signs (L1479–1494) and food preserved for months or even "decades" in fermentation pits (L1443–1510). He highlights the **"Mystery Islands"** — ~27 abandoned Polynesian settlements that survived "only as long as voyaging spheres lasted," most abandoned c. AD 1500 as networks broke up, "possibly connected to the Little Ice Age" (L1824–1838, L2103–2116).

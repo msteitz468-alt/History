@@ -22,7 +22,7 @@ consequences:
   - "Sealord fishing deal 1992 ($NZ150 million)"
   - "Tainui land settlement 1995 (formal Crown apology + 15,790 ha returned)"
   - "urban Maori 'retribalization' phenomenon"
-sources_ingested: 1
+sources_ingested: 2
 last_updated: "2026-06-27"
 tags: [event, long-19th-century, cold-war, contemporary, oceania, polynesia]
 ---
@@ -83,3 +83,8 @@ The section in [[denoon-cambridge-pacific-islanders-1997]] (van Meijl) represent
 - [[wiki/processes/pacific-cultural-renaissance|Pacific Cultural Renaissance]]
 - [[oceania]]
 - [[denoon-cambridge-pacific-islanders-1997]]
+
+
+## Fischer (2002): the two texts and the long aftermath
+
+[[fischer-history-pacific-islands-2002|Fischer (2002)]] underscores the fatal discrepancy between the treaty's English and Māori versions — the Māori text's *te tino rangatiratanga* promised continued chiefly authority where the English ceded full sovereignty — so that the 45 chiefs who signed at Waitangi "were being deceived, as the British government subsequently enacted only the English-language version," and the 500-plus eventual signatories were likewise unaware (L4518–4524). Hobson proclaimed sovereignty over the North Island "by virtue of cession" and the South Island "by right of discovery" (L4525–4528). Fischer carries the consequences forward: the Northern War (1845–46, Hōne Heke and the felled Russell flagstaff), the New Zealand Wars (1860–81, ending with the guerrilla leader Te Kooti), Chief Justice Prendergast's dismissal of the treaty as "a simple nullity" (L4595–4596), and the colonists' ownership of "22 of the 26 million hectares of New Zealand" by 1890 (L4631–4632) — with only ~45,000 Māori left by 1900 (L4636), even as New Zealand became the first country to grant women the vote (1893, L4661).

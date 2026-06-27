@@ -7,7 +7,7 @@ period_active: [Behavioral Modernity, Neolithic, Archaic Period, Classical Antiq
 controlled_by: [indigenous Melanesian societies, Britain, France, Germany, Australia, the Netherlands, Indonesia, the independent Melanesian states]
 events_here: [Pacific War, Bougainville Civil War, Fiji Coups]
 processes_here: [pacific-voyaging-and-settlement]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, melanesia, oceania]
 ---
@@ -39,3 +39,8 @@ press hardest.
 ## See Also
 
 [[oceania|Oceania]] · [[polynesia|Polynesia]] · [[micronesia|Micronesia]] · [[pacific-voyaging-and-settlement]]
+
+
+## Fischer (2002): diversity, the Big Man, and ritual warfare
+
+[[fischer-history-pacific-islands-2002|Fischer (2002)]] characterises Melanesia by "enormous ethnic, social and cultural diversity," its people "not sailors … traditionally aggressive towards strangers" who networked through "near-neighbour partnerships" (L1155–1161). New Guinea functioned as a "closed chain" allowing "rapid passage of parasites, pests, dangerous animals and diseases" — malaria "has forever ravaged Melanesian populations" — producing "thousands of communities with distinct cultures" (L1167–1177). Leadership ran through the **Big Man**, "an 'invisible chieftaincy'" assured "through ceremonial exchange and feast-giving," neither hereditary nor titled (L2252–2277); only in Fiji, "Melanesia's threshold to Polynesia," did a hierarchy "virtually indistinguishable from Western Polynesian chiefdoms" emerge (L2293–2295). Warfare was "generally light and ritualistic … not over conquest or land, but … the restitution of real or imagined grievances" (L2299–2311), though headhunting (Sepik, Asmat, parts of the Solomons) supplied "spiritual force" for male initiation (L2313–2317). Spirits "were there to be manipulated," not worshipped (L2714–2720); art ran to "hundreds of regional art styles," some destroyed at a festival's conclusion (L2725–2742).

@@ -20,7 +20,7 @@ produces:
   - "political and cultural activism in diaspora settings"
   - "demographic stress on home island communities"
   - "questions of citizenship, ethnicity, and indigenous status"
-sources_ingested: 1
+sources_ingested: 2
 last_updated: "2026-06-27"
 tags: [process, cold-war, contemporary, oceania, polynesia, melanesia, micronesia, demographic]
 ---
@@ -94,3 +94,8 @@ Migration raises fundamental questions about who counts as "Pacific Islander" an
 - [[new-zealand]]
 - [[pacific-voyaging-and-settlement]]
 - [[denoon-cambridge-pacific-islanders-1997]]
+
+
+## Fischer (2002): "contemporary voyaging" and the MIRAB Pacific
+
+[[fischer-history-pacific-islands-2002|Fischer (2002)]] frames late-twentieth-century out-migration as "contemporary voyaging" reconnecting peoples "separated by nineteenth-century colonialism" (L9103–9105). **Auckland is "now the Polynesian capital of the world"** (L9121–9126); large shares of small-island nations live abroad — Cook Islanders 69%, Tokelauans 70%, Niueans 85% (L9128–9133) — and Samoa "remains the hub of Polynesian migrations as in prehistory," with nearly half of both Samoas' populations now overseas (L9161–9172). The 1980–90 US Islander growth rate (41.5%) dwarfed the national 9.8% (L9134–9141). Fischer distinguishes Melanesia's largely *internal* urbanisation from Polynesian/Micronesian *external* migration (L9197–9209), and flags structural strains: nearly a third of Tuvaluan and Kiribati men work abroad as seamen (L9219–9224), Niue faces possible abandonment like a Mystery Island (~1,480 residents) (L9229–9238), and Tongan remittances exceeded exports and tourism combined (L9553–9557). "More than one in nine Pacific Islanders now lives abroad" (L9312–9314).

@@ -16,7 +16,7 @@ produces:
   - produced: rongelap-contamination
   - enabled: [[nuclear-free-pacific-movement]]
   - enabled: marshall-islands-compact-of-free-association
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [process, cold-war, oceania, micronesia, polynesia]
 ---
@@ -95,3 +95,8 @@ The decontamination of Enewetak and Bikini remains incomplete; the Runit dome on
 Per the chapter's bibliographic essay, leading sources include Firth's *Nuclear Playground*; Weisgall's *Operation Crossroads*; the Australian Royal Commission report (1985); and Danielsson and Danielsson, *Poisoned Reign* (for French Polynesia). Security restrictions—especially on French testing—mean the contamination record is incomplete. The 1985 Australian inquiry found contamination but "could not quantify radiation injuries nor say who had suffered them." For French testing, "no comprehensive and independent study of contamination has ever taken place." The US record is better documented but contentious: Marshallese themselves came to believe they were "deliberately exposed to fallout so that the United States would have a group of irradiated human beings for long-term study." American authorities dismissed Islander health complaints as "more psychological than real," a characterisation the text explicitly rejects: "The distinction between 'psychological' and 'real' was false."
 
 Source: [[denoon-cambridge-pacific-islanders-1997]]
+
+
+## Fischer (2002): the half-century of testing, 1946–1996
+
+[[fischer-history-pacific-islands-2002|Fischer (2002)]] totals "more than 250 nuclear devices … detonated at Bikini, Enewetak, Johnston Atoll, Christmas Island, Malden, Moruroa and Fangataufa" over 1946–1996 (L8031–8034). The US 1954 **Bravo** thermonuclear test irradiated the Rongelap and Utrik peoples, evacuated only days later (L8055–8066); in 1958 alone the US detonated as many devices over Bikini and Enewetak as in all prior Pacific tests combined (L8063–8066); Kennedy's 1962 halt concealed the secret post-Cuba deal with Khrushchev (L8067–8073). Britain's Christmas Island/Malden H-bomb tests (1957–58) added "only" ~4% of global fallout to 1980 (L8111–8116). **France** relocated testing from newly independent Algeria to Moruroa in 1963 without consulting Polynesian representatives (L8153–8160); the first atmospheric shot (2 July 1966) registered contamination in Peru and New Zealand (L8165–8169). France sank the *Rainbow Warrior* in Auckland on 10 July 1985 (L8202–8205); Chirac's 1995 resumption sparked the first modern Polynesian civil insurrection in Papeete (L8247–8260), and only after the final Fangataufa test (January 1996) did the US, UK and France sign the South Pacific Nuclear-Free Zone Treaty protocols (L8268–8270). Enewetak's people returned in 1980 to only 3 of 40 islands (L8086–8094).

@@ -25,7 +25,7 @@ produces:
   - "Settlement of New Zealand ~AD 1000–1200"
   - "Oceanic branch of Austronesian language family"
   - "Lapita cultural complex"
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [process, Neolithic, Behavioral Modernity, oceania, polynesia, melanesia, micronesia, southeast-asia, east-asia, demographic]
 ---
@@ -114,3 +114,8 @@ Key unresolved gap: a "gap in sites of the relevant period in northern New Guine
 - concurrent_with: [[neolithic]] (Holocene Pacific context)
 - part_of: [[behavioral-modernity]] (cultural capacity enabling maritime expansion)
 - analogous_to: [[bantu-expansion]] (comparable continental-scale demographic and linguistic dispersal)
+
+
+## Fischer (2002): origins, the language family, and the Lapita complex
+
+[[fischer-history-pacific-islands-2002|Fischer (2002)]] traces the Austronesians to a Southern Mongoloid population on China's southern coast (~8,000 BP) that reached Taiwan c. 6,000 BP, where Proto-Austronesian developed before the dispersal through Island Southeast Asia (L747–769). The resulting language family — ~1,200 tongues, ~30% of the world's languages, ~270 million speakers — was "the first language family in history to be spoken in over two-thirds of the globe" (L773–782). The **Lapita** people reached New Britain/New Ireland c. 4,000 BP with a full cultural complex (dentate-stamped pottery, shell ornaments and adzes, fishhooks, stilt villages, domesticated animals, earth-oven cooking and deep-sea seafaring) (L806–825); early Lapita ware spread "from the Bismarck Archipelago … to as far as Samoa more than 4000 kilometres away" (L811–814), with Talasea obsidian carried "from Borneo to Fiji, a distance of some 7000 kilometres" (L950–952). Fischer dates the "Lapita Millennium" of intensive trade to c. 1500–500 BC (L1037–1046), and holds that Melanesian languages "first emerged" c. 4,000 BP from Austronesian traditions "which admitted a restricted Papuan contribution," with Micronesian and Polynesian emerging ~1,000 years later at the Lapita peripheries (L826–833).

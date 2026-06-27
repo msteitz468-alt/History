@@ -7,8 +7,8 @@ period_coverage: [Behavioral Modernity, Neolithic, Early Modern, Age of Expansio
 region_coverage: [oceania, polynesia, melanesia, micronesia]
 methodological_approach: [narrative, synthetic]
 reliability_notes: "Single-author Palgrave Essential History (393 pp.); accessible regional survey from settlement to c. 2000 by a New Zealand-based linguist/historian. Complements the multi-author [[denoon-cambridge-pacific-islanders-1997|Cambridge History of the Pacific Islanders]] (the wiki's primary Oceania backbone); Fischer adds a strong deep-prehistory synthesis (Sunda/Sahul, Near/Remote Oceania, Lapita) and a distinctive 'Pacific Islands' (singular) framing of regional identity. A survey, not based on new research; cross-check specifics against Denoon."
-pages_created: 0
-pages_updated: 0
+pages_created: 1
+pages_updated: 12
 ingested: 2026-06-27
 tags: [source]
 ---
@@ -43,8 +43,14 @@ Islands as a single region/identity" thesis.
 
 ## Claims and Pages
 
-_Filled during ingestion._
+**New page created (1):** [[near-and-remote-oceania]] — the biogeographic/settlement-history boundary between Near Oceania (Pleistocene-settled) and Remote Oceania (reachable only by Austronesian-era voyaging).
+
+**Pages updated with a "Fischer (2002)" section (12):** [[oceania]] (regional framing, voyaging collapse, anti-romantic ecology), [[polynesia]] (Archaic Polynesian cradle, E/W split, mana/tapu, political art), [[melanesia]] (Big Man, ritual warfare, headhunting), [[micronesia]] (early settlement, latte/Nan Madol, hybrid status order), [[austronesian-expansion]] (origins, language family, Lapita complex), [[pacific-voyaging-and-settlement]] (double canoe, settlement chronology, scout voyages, Mystery Islands), [[pacific-island-exchange-systems]] (kula/tee/sawei, Yap stone money), [[pacific-depopulation]] (island-by-island figures, multi-causal verdict), [[pacific-nuclear-testing]] (1946–96 chronology), [[pacific-decolonisation]] ("top-down" thesis + vestigial colonialism), [[pacific-migration-and-diaspora]] ("contemporary voyaging", MIRAB strains), [[events/treaty-of-waitangi-1840|treaty-of-waitangi-1840]] (the two texts and aftermath).
+
+The subagent digests also captured Fischer material bearing on [[behavioral-modernity]], [[early-agriculture-southeast-asia-pacific]], [[pacific-chiefly-state-formation]], [[gender-division-of-labour-pacific]], [[pacific-first-contacts-process]], [[missionary-conversion-pacific]], [[pacific-resource-raiding]], [[pacific-plantation-economy]], [[pacific-war-1941-1945]], [[mau-movement]], [[fiji-coups-1987]], [[bougainville-civil-war-1988]], and the individual island pages — corroborating the existing Denoon-based accounts; the highest-value distinctive additions were merged above.
 
 ## Synthesis Note
 
-_Written after reconciliation._
+Fischer's survey **corroborates and extends** the wiki's Denoon-based Oceania backbone rather than overturning it. Its three distinctive contributions are: (1) a strong, explicit **deep-prehistory framework** — the [[near-and-remote-oceania|Near/Remote Oceania]] boundary, the *Homo erectus* crossing of Wallace's Line, and a tight Lapita/Austronesian chronology — that sharpens the wiki's settlement narrative; (2) a hard-edged, **anti-romantic ecological reading** ("toss out any notion of 'happy Pacific Islanders' living in harmony with nature") that complements the conservation-minded framing elsewhere; and (3) a **single-region "Pacific Islands" thesis** (deliberately used in the singular) treating the contemporary diaspora as "contemporary voyaging" — the heir to the prehistoric voyaging spheres — which dovetails with Hau‘ofa's [[sea-of-islands|"sea of islands"]] already in the wiki.
+
+On contested ground Fischer largely agrees with Denoon (depopulation as overwhelmingly disease-driven, not murder; decolonisation as "top-down"; the labels Melanesia/Micronesia/Polynesia as poor prehistoric categories) while adding granular quantitative detail (island-by-island population collapse, the 250+ nuclear detonations of 1946–96, diaspora percentages). No material contradictions with already-ingested sources were found; where Fischer is thinner (a single-author survey, not new research) the Denoon volume remains the authority. As a Palgrave Essential History it is best treated as an accessible synthetic complement, valuable for its prehistory framing and its contemporary-Pacific overview.
