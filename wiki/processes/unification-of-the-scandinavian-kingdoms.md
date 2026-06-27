@@ -53,8 +53,29 @@ Mutually reinforcing with [[christianization-of-scandinavia|Christianization]],
 ecclesiastical administration; the consolidated kingdoms made the later
 [[kalmar-union-1397|Kalmar Union]] possible.
 
+## High Medieval Consolidation (Cambridge History detail)
+
+Centralisation intensified from the second half of the 12th century, marked by the
+introduction of **royal unction and coronation** — Norway 1163/4 (Magnus Erlingsson,
+the first Scandinavian coronation), Denmark 1170, Sweden by 1210. Three common
+mechanisms recur: commutation of the [[leidang|naval levy]] into land tax (completed
+later 13th c.); peace legislation opening the way to royal lawmaking; and public
+justice displacing private feud (the breakthrough of **individual guilt** over
+collective kin responsibility). National **law codes** followed — Denmark's Jutland
+Law (1241, never extended to a true national code), Norway's Landlaw (1274), Sweden's
+Landlaw (c. 1347). A privileged **noble class** emerged in all three kingdoms by the
+late 13th century (tax exemption for mounted service), and the **council of the
+realm** appeared as the distinctive Scandinavian institution from c. 1319, since
+Scandinavian royal assemblies never became permanent representative estates.
+
+The three kingdoms then became entangled: Hákon V of Norway's 1302 dynastic
+arrangement produced the **unplanned Norway–Sweden personal union of 1319** under the
+infant Magnus Eriksson — the first of the medieval unions and the direct ancestor of
+the [[kalmar-union-1397|Kalmar Union]].
+
 ## End Conditions
 
 By c. 1300 three stable kingdoms existed with nationally organised government;
 the process transformed into the dynamics of dynastic union and aristocratic
-constitutionalism. See [[helle-cambridge-history-scandinavia-v1-2003]].
+constitutionalism. See [[helle-cambridge-history-scandinavia-v1-2003]],
+[[sverre-sigurdsson]], [[hakon-hakonarson]].

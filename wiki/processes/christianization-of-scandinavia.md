@@ -56,8 +56,40 @@ Reinforced [[unification-of-the-scandinavian-kingdoms|state formation]], importe
 Latin literacy that underpins [[saga-literature|written vernacular literature]],
 and integrated Scandinavia into Latin Christendom.
 
+## Church Organisation, Tithe, and Orders (Cambridge History detail)
+
+Three Danish bishops attended the **Ingelheim synod of 948** (earliest datable
+Danish diocesan structure, under Hamburg-Bremen); by the mid-11th century Denmark had
+**eight dioceses**. The metropolitan structure was built in stages — **Lund 1103/04**
+(Asser the first archbishop, separating Scandinavia from Hamburg-Bremen), **Nidaros
+1152/53** (Norway and the Atlantic islands, eleven bishoprics), and **Uppsala 1164**
+(Sweden, but subordinate to Lund until the end of the Middle Ages).
+
+The **tithe** was introduced at staggered dates: [[iceland|Iceland]] 1096–7 (earliest
+in Scandinavia), Denmark early 12th c., Norway legally binding from the 1160s, Sweden
+late 12th–early 13th c., [[finland|Finland]] only mid-13th c. In Norway and Iceland it
+was divided four ways (bishop, priest, church, poor); in Sweden cathedral chapters
+increasingly appropriated the poor's share. Iceland's **proprietary church**
+(*Eigenkirche*) system was initially universal there even as it broke down in Europe.
+
+The mendicants formed an early Scandinavian province **Dacia** (Dominican 1228,
+Franciscan 1239), based mainly in Denmark; **Cistercians** arrived 1143–6 at the
+initiative of Archbishop **Eskil of Lund**, friend of Bernard of Clairvaux. Parish
+density varied enormously: **Denmark had over 2,000 parishes** by the end of the 12th
+century (c. 25 km² each), Norway c. 1,250 over much larger areas, Finland only c. 75
+by the mid-14th century. By the high Middle Ages ecclesiastical institutions owned
+perhaps **40% of land in Norway, c. 45% in Iceland, 35–40% in Denmark, c. 25% in
+Sweden**.
+
+Two peripheries lagged: the conversion of [[finland|Finland]] was uniquely effected
+**by foreign (Swedish) conquest** (the "crusades" of the mid-12th c., 1238/9, and
+1293), not by native rulers; and the [[sami-people|Sami]] remained largely outside
+Christianity throughout the Middle Ages.
+
 ## End Conditions
 
 The process is conventionally complete with the native archbishoprics and a
 functioning parish/tithe system by the mid-12th century, though popular religious
-change continued. See [[helle-cambridge-history-scandinavia-v1-2003]].
+change continued (in Sweden the agrarian population did not fully abandon paganism
+until the first half of the 13th century). See
+[[helle-cambridge-history-scandinavia-v1-2003]], [[norse-paganism]].

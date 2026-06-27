@@ -8,8 +8,8 @@ region: [scandinavia, northern-europe, western-europe, british-isles]
 process_type: political
 driven_by: [Scandinavian maritime technology and seafaring, demographic and political pressures in Scandinavia, the wealth of the coastal monasteries and emporia of Christian Europe, the disorder of the post-Carolingian world]
 produces: [the Danelaw, the Duchy of Normandy, settlement of Iceland, intensified North Sea/Atlantic trade, the burh and fortification responses of Frankish and English rulers]
-sources_ingested: 2
-last_updated: 2026-06-26
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [process, early-middle-ages, scandinavia]
 ---
 
@@ -82,6 +82,26 @@ societies built durable defences; it is conventionally closed by the failed inva
 The Viking impact accelerated the militarisation and fortification of the post-Carolingian West,
 contributed to the fragmentation of the [[carolingian-empire]], and reshaped the
 [[post-roman-transformation-of-the-west|North Sea economy]]. See also [[norse-scandinavia]].
+
+## The Scandinavian Perspective (Cambridge History of Scandinavia, Helle 2003)
+
+Peter Sawyer's chapter foregrounds **causes internal to Scandinavia**: he discounts
+the population-pressure thesis (no evidence outside western Norway) and stresses the
+late-7th-century commercial expansion of north-west Europe (which familiarised
+Scandinavians with European wealth) and **Danish royal hegemony**, which produced
+armed exiles — the two main waves of western raiding coincide with phases of Danish
+royal expansion ([[harald-bluetooth|Harald Bluetooth]], [[sweyn-forkbeard|Sweyn
+Forkbeard]]). The adoption of the **sail** (8th c.) was the enabling technology;
+Scandinavian ships specialised into narrow warships and broad cargo vessels (Oseberg
+c. 820, Gokstad c. 880, the Skuldelev ships — one built near Dublin in 1042).
+
+The **eastern dimension** is integral: Scandinavian *Rus* (the name from the Finnish
+term for the Svear) ran the fur-and-slave trade from [[staraya-ladoga|Staraya Ladoga]]
+down the Volga and Dnieper to the Caliphate (Islamic silver hoards from c. 790),
+founded the Kievan dynasty (Slavicised within a century — Ingvar→Igor, Helga→Olga),
+and supplied the Byzantine **Varangian Guard** from 988 (Harald Hardrada served in it).
+Settlement divided geographically — Danes predominantly in eastern England, Norwegians
+in Ireland, the Hebrides, and the Northern Isles, and across the North Atlantic.
 
 ## Historiography
 

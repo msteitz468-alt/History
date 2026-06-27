@@ -9,8 +9,8 @@ affiliated_with: [the north-German trading cities, the Baltic and North Sea trad
 opposed_by: [the kings of Denmark, rival merchants (English, Dutch), territorial princes]
 key_events: [the formation of the league of cities (c. 1356), the war with Denmark and the Peace of Stralsund (1370)]
 key_processes: [[[commercial-revolution|the commercial revolution]] in the north, the Baltic–North Sea trade system]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, organization, late-middle-ages, northern-europe, eastern-europe]
 ---
 
@@ -69,6 +69,22 @@ recognized and embedded the nations, and after 1500 even the Germans grew hesita
 to use them as merchants settled permanently and turned to
 [[open-access-institutions|generalized institutions]] and marine insurance instead
 (see [[urban-competition-commercial-institutions]], [[institutional-foundations-european-trade]]).
+
+## The Hansa in Scandinavia (Cambridge History of Scandinavia, Helle 2003)
+
+German merchants (above all Lübeck) dominated Baltic and Sound trade from the early
+13th century, their Scandinavian privileges dating from treaties of the 1250s. They
+monopolised the **Skåne herring fairs** (Falsterbo–Skanör) via control of Lüneburg
+salt, and from the late 1250s "winter-sitters" at [[bergen|Bergen]]'s Bryggen grew into
+the half-extraterritorial **Bergen Kontor** (formalised c. 1360), which by 1518–21
+accounted for 78% of ships entering Bergen and handled the stockfish that made up over
+90% of the town's exports. The Hansa was a decisive actor in every union succession
+crisis: the **Peace of Stralsund (1370)** — its greatest triumph — placed four Sound
+castles under joint administration and required consultation before Danish royal
+elections. [[erik-of-pomerania|Erik of Pomerania]]'s anti-Hanseatic policy provoked a
+naval war (1426); Dutch competition (Amsterdam, cheap Bay-salt) rose from the later
+15th century, gaining equal rights by 1490. See
+[[helle-cambridge-history-scandinavia-v1-2003]], [[scandinavian-urbanisation]].
 
 ## Related
 
