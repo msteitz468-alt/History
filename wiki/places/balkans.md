@@ -7,8 +7,8 @@ period_active: [Late Prehistory, Mesolithic, Neolithic, Chalcolithic, Early Bron
 controlled_by: [autochthonous prehistoric cultures, Palaeo-Balkan peoples (Thracians, Illyrians, Daco-Moesians)]
 events_here: []
 processes_here: [[[old-europe-copper-metallurgy]], [[indo-european-migrations]], [[agricultural-origins]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [place, balkans, eastern-europe, mediterranean]
 ---
 
@@ -91,6 +91,34 @@ anywhere on Earth**, and its Early Iron Age peoples — Thracians, Illyrians,
 Daco-Moesians, and the Macedonians on its southern edge — form the immediate
 "barbarian" backdrop to Archaic and Classical Greek history.
 
+## A social reading of the Neolithic–Copper Age (Bailey 2000)
+
+[[bailey-balkan-prehistory-2000|Douglass Bailey's *Balkan Prehistory*]] (2000)
+supplies the social-theoretical interpretation that the older CAH culture-history
+lacks. Bailey treats the period **6500–2500 BC** as a single problem and argues
+that its transformation was neither an economic revolution (Childe) nor a
+population replacement (Gimbutas) but a change in **how people arranged
+themselves, their places, and their things** — a shift from mobile, flexible,
+verbally negotiated forager life to the **anchored, durable, inflexible** world
+of houses, villages, tells, and cemeteries. His three regions for 6500–5500 BC
+are **northern Greece** (south), the **lower Danube / Serbia / east Hungarian
+Plain** (north and west), and **south-central Bulgaria** (between), with
+north-west Anatolia and the [[danube-gorges|Danube Gorges]] as special cases.
+
+Two claims of his are filed in detail elsewhere: the interpretive triad of
+[[exclusion-incorporation-projection|exclusion, incorporation and projection]],
+and the argument that the **house, household, and village** were the era's key
+social institutions, with **tells**, the deliberate **burning of houses**, and
+under-floor infant burial all expressing an emergent *ideology of the
+household*. Against the older picture of Neolithic communalism (cf.
+[[neolithic-communities]]), Bailey holds that the Balkans were "riven with
+tension and conflict, where hoarding and the exclusion of people was just as
+frequent as sharing and helping," and that the brilliant displays at
+[[varna|Varna]] were a projected **illusion** masking a more mobile,
+conflict-prone reality. On the **post-4000 BC dissolution of the tell world** he
+follows Whittle in reading gradual, local, indigenous change rather than steppe
+invasion (see [[indo-european-origins]]).
+
 ## Historiography
 
 The Balkan chapters were written by **Eastern-bloc scholars during the Cold War**
@@ -112,5 +140,6 @@ to the Aegean over "data obtained by the radiocarbon method."
 - Controversy: [[indo-european-origins]]
 - EIA peoples: [[illyrians|Illyrians]] · [[phrygians|Phrygians/Brygi]] · [[epirus|Epirus]]
 - Periods: [[neolithic]] · [[chalcolithic]] · [[early-iron-age]]
-- Place: [[varna]] · [[epirus]] · Region: [[eurasian-steppe]]
-- Source: [[boardman-cah-v3p1-1982]]
+- Place: [[varna]] · [[danube-gorges]] · [[epirus]] · Region: [[eurasian-steppe]]
+- Concept: [[exclusion-incorporation-projection]]
+- Sources: [[boardman-cah-v3p1-1982]] · [[bailey-balkan-prehistory-2000]]

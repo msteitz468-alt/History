@@ -8,8 +8,8 @@ region: [balkans, eastern-europe, eurasian-steppe]
 process_type: [technological, economic, social]
 driven_by: [local copper and gold ore sources, craft specialization, demand for prestige goods]
 produces: [social stratification, long-distance exchange, the Varna gold horizon]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [process, chalcolithic, balkans, eastern-europe]
 ---
 
@@ -121,10 +121,25 @@ overrun by patriarchal steppe Kurgan peoples — a narrative now treated with
 caution, even as ancient DNA confirms the **reality of the steppe influx** that
 ended this world.
 
+**The social meaning of the metal (Bailey 2000).** Where Garašanin reads copper
+and gold as the *cause* of stratification, [[bailey-balkan-prehistory-2000|Bailey]]
+relocates their significance from economics to **identity and display**. He
+stresses that the prestige metals appear overwhelmingly in **burials**, not
+village deposits, and that what mattered may have been less the distance from ore
+source to grave than the **highly reflective brilliance** of gold, copper,
+*Spondylus*, and graphite, deployed in "loud" mortuary ceremonies. In his
+[[exclusion-incorporation-projection|exclusion/incorporation/projection]] scheme,
+wearing and depositing these materials was **somatic incorporation** — injecting
+a material's social essence into a person — and the [[varna|Varna]] gold horizon
+was a **projection** of a preferred social order rather than a transparent
+readout of wealth. A complementary, not contradictory, layer over the
+metallurgy-drove-stratification reading.
+
 ## Related
 
-- Place: [[varna]] · [[balkans]]
+- Place: [[varna]] · [[balkans]] · [[danube-gorges]]
 - Period: [[chalcolithic]] · [[early-iron-age]]
 - Process/controversy: [[indo-european-migrations]] · [[indo-european-origins]]
 - Process: [[agricultural-origins]] · [[secondary-products-revolution]]
-- Source: [[boardman-cah-v3p1-1982]]
+- Concept: [[exclusion-incorporation-projection]]
+- Sources: [[boardman-cah-v3p1-1982]] · [[bailey-balkan-prehistory-2000]]

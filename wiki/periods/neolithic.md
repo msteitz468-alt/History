@@ -7,7 +7,7 @@ date_range: "9,500–3,000 BCE (regionally diachronous; see note)"
 regions_covered: [near-east, levant, anatolia, iran-plateau, south-asia, china, japan, korea, southeast-asia, melanesia, sub-saharan-africa, west-africa, mesoamerica, andes, north-america, europe, mediterranean]
 major_themes: ["origins of agriculture", "plant and animal domestication", "sedentism", "village life", "the Neolithic Revolution", "demographic expansion", "emergent inequality", "secondary products", "pottery", "foraging-farming frontier"]
 collection_coverage: strong
-sources_ingested: 8
+sources_ingested: 9
 last_updated: 2026-06-27
 tags: [period]
 ---
@@ -161,7 +161,13 @@ transition was reversible, not a smooth ladder of progress. See
   temperate Europe ahead of the LBK. Notably, in the **Iron Gates** the late
   Mesolithic **Schela Cladovei** culture had developed antler hoes and incipient
   cultivation that was *arrested by the arrival of Starčevo* — a clear case of the
-  porous foraging–farming frontier. See [[balkans]].
+  porous foraging–farming frontier. See [[balkans]] and the
+  [[danube-gorges|Danube Gorges]] sites (Lepenski Vir, Vlasac), which show
+  durable architecture and settled life *before* pottery or domesticates. For a
+  social-theoretical reading of the SE-European sequence — the house and
+  household as the era's key institutions — see
+  [[bailey-balkan-prehistory-2000|Bailey (2000)]] and
+  [[exclusion-incorporation-projection]].
 - **Yangshao** and **Dawenkou** cultures (Yellow River, China) — the painted-pottery
   villages and lower-river mortuary-hierarchy societies that begin the sequence to the first
   Chinese state. See [[yangshao-culture]], [[dawenkou-culture]], and

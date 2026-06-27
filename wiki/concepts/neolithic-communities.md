@@ -5,8 +5,8 @@ origin: Comparative archaeology of early farming society; framework owes much to
 applies_to_periods: ["Neolithic", "Chalcolithic"]
 applies_to_regions: [global, near-east, east-asia, korea, mesoamerica, europe, eastern-north-america]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept]
 ---
 
@@ -67,6 +67,19 @@ civilizations when they met European ones.
   arrangement could re-emerge: risk could shift back from household to community
   depending on ecological and social conditions. The household was a *tendency*,
   not a destiny.
+
+## A dissenting emphasis (Bailey on the Balkans)
+
+The convergence-toward-the-household model emphasises cooperation and shared
+trajectories. [[bailey-balkan-prehistory-2000|Douglass Bailey]], working the
+[[balkans|Balkan]] Neolithic–Copper Age, accepts the centrality of the
+**house and household** but reads their emergence as the creation of **durable,
+inflexible boundaries** that locked groups into fixed places and generated
+**tension, hoarding, and exclusion** as readily as sharing — see
+[[exclusion-incorporation-projection]]. The two are not strictly opposed (both
+make the household the pivotal early-farming institution), but Bailey's stress
+on division and "illusion" is a useful corrective to any purely communal picture
+of Neolithic society.
 
 ## Related
 

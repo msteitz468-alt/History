@@ -209,6 +209,30 @@ BCE) broadly supports a migration into India, against the **"indigenous Aryans /
 position advanced by Hindu-nationalist writers — a politicised strand Thapar's secular,
 migration-and-assimilation reading was written precisely to resist. See [[vedic-period]].
 
+## The Balkan test case: did the tell world fall to invaders?
+
+The end of the **Old European** tell world (lower Danube, c. 4200–3800 BCE) is
+the single most cited *archaeological* exhibit for the Kurgan model: Gimbutas
+read the abandonment of the great tells and the appearance of **mound (kurgan)
+burials** with metal weapons as the trace of mounted, patriarchal steppe
+warriors destroying the goddess-centred farming villages.
+[[bailey-balkan-prehistory-2000|Douglass Bailey]] (2000), following Alasdair
+Whittle, rejects this for the Balkan evidence specifically. His objections:
+the destruction of fifth-millennium houses by **fire** was a recurring,
+long-running practice tied to negating household identities, **not** a single
+horizon of conquest (see [[exclusion-incorporation-projection]]); the changes
+unfold over **1,000–1,500 years**, ample time for indigenous shifts without
+invasion; some of the *earliest* changes appear in the **west**, away from the
+steppe, contrary to the invasion vector; and threads of continuity (lithic
+traditions, re-used tells, the same key animals) cut against population
+replacement. Bailey reframes the transformation as a local change in "what was
+appropriate to do, and where and when" — a shift from anchored village ideology
+to identities grounded in **death and mound cemeteries**. This is the
+**structural-vs-migration** axis of the wider dispute, fought on one region's
+data; note that later steppe-aDNA confirms a real genetic influx into the
+Balkans even as it vindicates Bailey's caution about reading *every* cultural
+change as conquest.
+
 ## Where Things Stand
 
 **Partially resolved, tilting to the steppe.** Ancient DNA since 2015 has given the
@@ -230,3 +254,4 @@ diffusion) and the Anatolian-branch puzzle are a century old.
 - [[early-bronze-age-anatolia]] — the end-EB2 "Luwian" destruction horizon.
 - [[indo-european-migrations]] — the migrations as a process (Crossland, CAH XXVII).
 - [[coming-of-the-greeks-1900bce]] · [[lerna]] — the Greek arrival and its key site.
+- [[balkans]] · [[exclusion-incorporation-projection]] · [[bailey-balkan-prehistory-2000]] — the Balkan tell-collapse debate.

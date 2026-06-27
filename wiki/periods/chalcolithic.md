@@ -7,7 +7,7 @@ date_range: 5,500–3,300 BCE (regionally variable; overlaps Late Neolithic and 
 regions_covered: [near-east, mesopotamia, levant, anatolia, iran-plateau, southeast-europe, balkans, china, east-asia]
 major_themes: [copper metallurgy, secondary products, craft specialization, proto-urban centers, social differentiation, clanship and early stratification, walled towns]
 collection_coverage: moderate
-sources_ingested: 7
+sources_ingested: 8
 last_updated: 2026-06-27
 tags: [period]
 ---
@@ -49,7 +49,15 @@ here, immediately before the urban threshold treated in
   complexes of the central/eastern Balkans: large fortified tells (Goljamo Delčevo
   with seventeen Eneolithic horizons), dense figurine art, and emergent rank. Their
   breakdown under steppe ([[indo-european-migrations|Kurgan/ochre-grave]]) pressure
-  in the later 4th millennium is one of prehistory's sharp reversals. See [[balkans]].
+  in the later 4th millennium is one of prehistory's sharp reversals — though
+  [[bailey-balkan-prehistory-2000|Bailey (2000)]], with Whittle, reads the tell
+  world's dissolution as gradual, local, indigenous change rather than invasion
+  (see [[indo-european-origins]]). Bailey interprets the Balkan
+  fifth-millennium climax — tells, extramural cemeteries, the
+  [[varna|Varna]] gold — through his
+  [[exclusion-incorporation-projection|exclusion/incorporation/projection]]
+  framework, reading the brilliant mortuary displays as projected "illusion."
+  See [[balkans]].
 - **Secondary products** — traction, wool, dairying, and riding intensify (the
   [[secondary-products-revolution]] documented in [[barker-cwh-v2-2015|CWH II]]).
 - **Proto-urban aggregation** — in southern Mesopotamia the Ubaid temple-centered
