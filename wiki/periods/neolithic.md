@@ -7,7 +7,7 @@ date_range: "9,500–3,000 BCE (regionally diachronous; see note)"
 regions_covered: [near-east, levant, anatolia, iran-plateau, south-asia, china, japan, korea, southeast-asia, melanesia, sub-saharan-africa, west-africa, mesoamerica, andes, north-america, europe, mediterranean]
 major_themes: ["origins of agriculture", "plant and animal domestication", "sedentism", "village life", "the Neolithic Revolution", "demographic expansion", "emergent inequality", "secondary products", "pottery", "foraging-farming frontier"]
 collection_coverage: strong
-sources_ingested: 7
+sources_ingested: 8
 last_updated: 2026-06-27
 tags: [period]
 ---
@@ -268,3 +268,16 @@ latitudes far faster than the north–south axes of the Americas and Africa allo
 resulting head start in population, germs, technology, writing, and states is, on his account,
 why post-1492 collisions ran as they did. See [[guns-germs-and-steel]], [[continental-axes]],
 and [[geographic-determinism]].
+
+## From Tattersall, *The World from Beginnings to 4000 BCE* (2008)
+
+[[tattersall-world-from-beginnings-2008|Tattersall (2008)]] closes his survey with
+"settled life": against diffusionism, agriculture arose **independently in seven or
+eight epicenters** after the Ice Age ([[agricultural-origins]]), with settled life
+and plant cultivation plausibly prerequisites for [[domestication|animal
+domestication]] (Natufian → Pre-Pottery Neolithic sequence at Abu Hureyra, Çayönü,
+[[jericho|Jericho]], [[catalhoyuk|Çatal Hüyük]]). He stresses the transition's
+ambivalence — hunter-gatherer worldviews were complex, not "simple," and the shift
+to dominating rather than belonging to nature (epitomized in Genesis 1:27) was a
+"highly questionable tradeoff" carrying population growth and new vulnerability. See
+[[neolithic-revolution]].

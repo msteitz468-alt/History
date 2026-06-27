@@ -55,6 +55,7 @@ Detailed discussion of calibration: "Cross-checks between dendrochronology and r
 - [[concepts/culture-concept-childe|Childe's Culture Concept]]
 - [[sources/champion-prehistoric-europe-1984|Champion et al., Prehistoric Europe (1984)]]
 - [[periods/neolithic|Neolithic]] and all earlier prehistoric periods (the chronology of each was transformed)
+- [[sources/tattersall-world-from-beginnings-2008|Tattersall, The World from Beginnings to 4000 BCE (2008)]] — sets radiocarbon in the wider radiometric toolkit (K/Ar, Ar/Ar, ESR, thermoluminescence) calibrated against the oxygen-isotope marine record; notes radiocarbon's ~40–50 kya ceiling and AMS
 
 ## Collection Note
 

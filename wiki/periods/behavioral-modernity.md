@@ -7,8 +7,8 @@ date_range: "50,000–12,000 BP"
 regions_covered: [africa, europe, near-east, east-asia, south-asia, southeast-asia, australia, north-america, andes, amazonia, eastern-north-america]
 major_themes: ["Out of Africa 2 dispersal", "global colonization", "Neanderthal extinction", "Late Glacial Maximum", "cave art and symbolic culture", "Paleolithic lifeways", "climate and human migration", "Clovis culture", "megafaunal extinctions", "Natufian culture and pre-agriculture"]
 collection_coverage: strong
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [period]
 ---
 
@@ -362,3 +362,15 @@ Introduction provides a strong structural overview; chapters 13–19 will
 add regional depth. Phase 11 specialist sources will add further.
 
 **Champion et al. 1984 (Ch. 1–2) European framing:** Supplies detailed treatment of the transition to Upper Palaeolithic ~35k BP (blade technology, bone tools, art) and the shift to adaptive-behaviour/systems explanations that apply across the European sequence, including the behavioural modernity threshold. "The term upper palaeolithic embraces a very wide range of different regional traditions..." with emphasis on planning, hafting, and curated technologies. (Champion et al. 1984, Ch.2 / range lines ~3335-3345, ~2680-2685) Grounding for European Upper Palaeolithic sections.
+
+## From Tattersall, *The World from Beginnings to 4000 BCE* (2008)
+
+[[tattersall-world-from-beginnings-2008|Tattersall (2008)]] argues that **anatomy
+preceded behavior**: modern bodies existed long before the modern mind. The defining
+development of this period is the late, abrupt appearance of [[symbolic-cognition]]
+— explained by exaptation and emergence plus a cultural "release" (most plausibly
+[[syntactic-language-origins|language]]) — first visible in Africa (Blombos ochre
+~75 kya) and exploding with the European [[cro-magnons]] (~40 kya), whose symbolic
+record contrasts sharply with the symbol-free [[neanderthals]]. On modern human
+origins he defends strict Out-of-Africa replacement; see
+[[modern-human-origins-debate]].

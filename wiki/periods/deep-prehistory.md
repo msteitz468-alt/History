@@ -130,3 +130,13 @@ interpreting the entire Pleistocene record. (Champion et al. 1984, Ch. 3 / range
 lines ~190-210, ~710-760)
 
 **Champion et al. 1984 contribution (Ch. 1–2 opening):** Provides explicit post-radiocarbon methodological framing for the entire European prehistoric sequence and the opening treatment of earliest human presence in Europe. The authors stress the shift from geological/typological frameworks to absolute dating (deep-sea cores, magnetic reversals at 700,000 BP, radiocarbon) and from culture-historical to adaptive-behaviour/systems explanations. "The aims of palaeolithic... research are to document the earliest societies in Europe and answer that basic archaeological question, 'why do human cultures change?'." Frameworks now rest on "the continuous record of pleistocene events that is recorded in the deep sea ocean cores." (Champion et al. 1984, Ch.1–2 / range lines ~1050-1075, ~1025-1035) Collection coverage for earliest Europe now moderate from this source; Africa remains the primary locus for Deep Prehistory proper.
+
+## From Tattersall, *The World from Beginnings to 4000 BCE* (2008)
+
+[[tattersall-world-from-beginnings-2008|Tattersall (2008)]] frames the earliest
+hominids (*Sahelanthropus* ~6–7 mya, *Orrorin*, *Ardipithecus*) and the australopith
+radiation through [[punctuated-equilibria]]: a bushy, experimental [[human-evolution|
+hominid radiation]], not a linear ascent. His central claim for this period is
+**bipedalism before brains** — [[australopithecus-afarensis|"Lucy"]] walked upright
+with an ape-sized brain, demolishing the brain-first model (long propped up by the
+Piltdown hoax). See [[bipedalism-origins]].

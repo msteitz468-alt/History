@@ -5,12 +5,12 @@ date_start: "~250,000 BP (classic Neanderthals; characteristic traits emerging f
 date_end: "~40,000–30,000 BP (extinction)"
 period: ["Early Prehistory", "Late Prehistory", "Behavioral Modernity"]
 region: [europe, near-east, central-asia, western-europe, iberia]
-affiliated_with: ["Homo heidelbergensis (ancestor)", "Denisovans (sister population)"]
-opposed_by: ["Homo sapiens (modern humans, competitors/successors)"]
+affiliated_with: ["[[homo-heidelbergensis]] (ancestor)", "Denisovans (sister population)"]
+opposed_by: ["Homo sapiens (modern humans, competitors/successors)", "[[cro-magnons]]"]
 key_events: ["[[out-of-africa-2-60kbp]]", "Neanderthal extinction ~40,000–30,000 BP"]
-key_processes: ["[[fire-management]]", "[[paleolithic-global-dispersal]]"]
-sources_ingested: 1
-last_updated: 2026-06-10
+key_processes: ["[[fire-management]]", "[[paleolithic-global-dispersal]]", "[[human-evolution]]"]
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, other, "Late Prehistory", "Behavioral Modernity", europe, near-east]
 ---
 
@@ -125,3 +125,13 @@ corrected only in the 20th century). The field has been transformed since 2010 b
 **ancient DNA** (the Neanderthal genome; El Sidrón social structure; Denisovan
 identification). Major debates remain genuinely open: Neanderthal language,
 symbolic capacity, the meaning of burials, and the precise mechanism of extinction.
+
+[[tattersall-world-from-beginnings-2008|Tattersall (2008)]] represents the strong
+**separate-species, replacement** position: *Homo neanderthalensis* was a distinct,
+non-symbolic species (anatomy described in detail neck-up and neck-down), William
+King (1864) was right to name it separately, its distinctness is confirmed by mtDNA
+falling well outside the modern range, and it was essentially *replaced* rather than
+absorbed by the [[cro-magnons]] (~40 kya), with at most marginal "Pleistocene
+hanky-panky." Writing before the 2010 nuclear genome, he minimizes interbreeding —
+the chief point on which the book is now dated, since non-Africans carry ~1–2%
+Neanderthal ancestry. See [[modern-human-origins-debate]] and [[symbolic-cognition]].

@@ -21,8 +21,8 @@ consequences:
   - produced: "[[early-prehistory]] diversification of Homo lineage in isolation from African populations"
   - enabled: "Evolution of Homo heidelbergensis and eventually Neanderthals in Europe"
   - enabled: "Possible introgression from Eurasian Homo lineages back into later African populations (limited)"
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, migration, Early Prehistory, africa, near-east, east-asia, europe]
 ---
 
@@ -123,3 +123,13 @@ various Eurasian *Homo* populations relate to each other taxonomically, remains
 actively contested. The quality of evidence is thin: as Dennell notes, a
 single new discovery could force re-evaluation of both the geography and
 timing of early dispersals.
+
+## From Tattersall (2008)
+
+[[tattersall-world-from-beginnings-2008|Tattersall (2008)]] argues the trigger for
+this first dispersal was neither improved technology nor larger brains — the Dmanisi
+(Georgia, ~1.8 mya) hominids are small-brained (600–780 cc) with crude Oldowan tools,
+and the Acheulean handaxe postdates the diaspora — but the **new striding body plan**
+of [[homo-ergaster|*Homo ergaster*]], the hominid "walking machine." He frames the
+spread as undirected population expansion, episodic and often failing, not
+intentional exploration. See [[human-evolution]].

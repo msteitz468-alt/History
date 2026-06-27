@@ -7,8 +7,8 @@ date_range: "3.3 million–300,000 BP"
 regions_covered: [africa, near-east, europe, east-asia, south-asia]
 major_themes: ["Homo genus evolution", "Oldowan and Acheulean technologies", "Out of Africa 1", "fire management origins", "brain size increase", "Homo heidelbergensis"]
 collection_coverage: moderate
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [period]
 ---
 
@@ -147,3 +147,13 @@ Chapters 13–17 of this volume (Part II) and Phase 11 specialist sources will
 substantially expand this page.
 
 **Champion et al. 1984 (Ch. 2 opening) contribution:** Supplies detailed post-radiocarbon treatment of the chronological and climatic frameworks for early European hominins and the sparse fossil record. Deep-sea core V28-238 provides continuous isotope stages with magnetic reversal baseline at 700,000 BP marking lower/middle Pleistocene boundary. "The discontinuous nature of these terrestrial sequences has been further highlighted by the evidence from deep sea cores that do provide a continuous record." Earliest secure European presence placed after ~350,000 BP by absolute dates on fossils; earlier claims (Vallonnet, Isernia) discussed with caution. Fossil material "meagre" compared to East Africa; taxonomic placement (Homo erectus vs. early Homo sapiens) highly contentious. "The few absolute dates for these fossils all indicate that man was present in Europe after 350000 BP." (Champion et al. 1984, Ch.2 / range lines ~1300-1360, ~1800-1815) This source supplies the primary European-specific grounding for the period page's European evidence sections.
+
+## From Tattersall, *The World from Beginnings to 4000 BCE* (2008)
+
+[[tattersall-world-from-beginnings-2008|Tattersall (2008)]] makes this the period of
+the genus *Homo*'s emergence and first dispersal. The decisive event is the **abrupt
+arrival of the modern body plan** ([[homo-ergaster|*Homo ergaster*]] / Turkana Boy
+~1.6 mya) — plausibly a regulatory-gene change — which, not bigger brains or better
+tools (cf. small-brained Dmanisi), enabled [[out-of-africa-1-1800kbp|the first exit
+from Africa]] and the East Asian [[homo-erectus|*Homo erectus*]] radiation. Acheulean
+handaxes (~1.5 mya) postdate both. See [[human-evolution]].

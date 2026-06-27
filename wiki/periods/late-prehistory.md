@@ -7,8 +7,8 @@ date_range: "300,000–50,000 BP"
 regions_covered: [africa, europe, near-east, east-asia, south-asia]
 major_themes: ["Homo sapiens emergence", "Neanderthals", "Middle Stone Age technologies", "archaic modern humans", "Levant populations", "Homo sapiens-Neanderthal contact", "fire management", "early symbolic behavior"]
 collection_coverage: moderate
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [period]
 ---
 
@@ -142,3 +142,14 @@ Coverage moderate. CWH Vol. 1 Introduction provides framework; actual chapters
 and Phase 11 specialist archaeological sources will transform these stubs.
 
 **Champion et al. 1984 framing (Ch. 1):** This textbook supplies the principal European post-radiocarbon historiographic context for all prehistoric periods. It documents the replacement of culture-historical diffusionism and the Three Age System by thematic analysis of adaptive behaviour, settlement, subsistence and social organization. The radiocarbon revolution "greatly lengthened the time-span of European prehistory" and forced rethinking of all prior models. (Champion et al. 1984, Ch.1 / range lines ~390-410) The source is cited on the relevant European period pages for methodological and interpretive shifts.
+
+## From Tattersall, *The World from Beginnings to 4000 BCE* (2008)
+
+[[tattersall-world-from-beginnings-2008|Tattersall (2008)]] treats this as the
+"getting brainier" phase: [[homo-heidelbergensis|*Homo heidelbergensis*]] spreading
+across the Old World, prepared-core (Levallois) technology (~300 kya), the Schöningen
+spears and Terra Amata shelters, and the European [[punctuated-equilibria|adaptive
+radiation]] that produced the [[neanderthals]]. Anatomically modern *Homo sapiens*
+also first appears in Africa late in this span (Omo ~195 kya, Herto ~160 kya) — but
+without yet showing [[symbolic-cognition|modern symbolic behavior]]. See
+[[human-evolution]].
