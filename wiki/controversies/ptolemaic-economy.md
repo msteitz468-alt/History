@@ -3,9 +3,9 @@ title: The Nature of the Ptolemaic Economy — Planned "State Socialism" or Prag
 dispute_type: interpretation
 period_involved: [Classical Antiquity]
 regions_involved: [egypt]
-positions: [Rostovtzeff's centralised "planned economy", the Préaux/Bingen/Turner pragmatic-fiscalism revision, the question of Greek–Egyptian fusion]
+positions: [Rostovtzeff's centralised "planned economy", the Préaux/Bingen/Turner pragmatic-fiscalism revision, Manning's "bargained-incorporation"/premodern-state model, the question of Greek–Egyptian fusion]
 resolution_status: partially-resolved
-last_updated: 2026-06-11
+last_updated: 2026-06-27
 tags: [controversy]
 ---
 
@@ -55,6 +55,43 @@ bankrupted Egypt."*** This shifts the blame for Ptolemaic decline from the suppo
 debauched [[ptolemaic-egypt|Ptolemy IV Philopator]] back to the celebrated
 [[ptolemy-ii-philadelphus|Ptolemy II]].
 
+## Position 3 — The Premodern "Bargained" State (Manning)
+
+[[sources/manning-last-pharaohs-2010|J. G. Manning's *The Last Pharaohs* (2010)]] carries the
+revision a stage further, reframing the whole debate through
+[[new-institutional-economics|New Institutional Economics]] and
+[[premodern-state|premodern-state theory]]. Manning argues that **three older models all
+fail** for the same reason — they assume a state capacity no premodern polity possessed:
+
+- **Despotism / the hydraulic state** (Wittfogel) — rejected as *"a linear causality
+  model"*: Egyptian irrigation *"was generally on a small scale, coordinated locally without
+  much state interference."* The Nile, not the king, was *"the real despot."*
+- **Dirigisme / the planned economy** (Rostovtzeff) — the *"single most important surviving
+  document,"* the Revenue Laws, was *"in no way a comprehensive attempt to organize the
+  economy"* but *"reactive … rather than … directives from the center."* *"A plan is not the
+  same thing as a planned economy."* And the dirigiste model founders on **information**: no
+  king *"knew each day what each of his subjects was worth."*
+- **Colonialism** — *"colonialism without colonies"* stretches the term; parallel Egyptian
+  institutions persisted and tax abuses were *"perennial throughout Egyptian history,"* not
+  colonial novelties — *"the major difference … is simply that they are so much better
+  documented."*
+
+In their place Manning puts a **"reasonably successful premodern state"** governing *"not
+over society, but rather through it"* by **[[ptolemaic-state-formation|continual bargaining]]**
+(Barkey's "bargained incorporation") with priesthoods, soldier-settlers, and local elites.
+On the economy specifically he sharpens the revisionists: the **"all land is the king's"**
+formula is *"fiscal terminology … neither the maintenance of traditional landholding
+patterns … nor … limited state intervention"* — **private and temple landholding persisted**,
+and royal-land leases were *"much more flexible and more adaptive to the realities of rural
+Egypt than Rostovtzeff's view admits."* The real innovation was the **shift from taxing
+labour to raising revenue in cash**, which brought *"banking, coinage, tax farming, and the
+census"*; its aim was *"stable and predictable, rather than maximal, revenues."* Even the
+**complexity** of the tax system was political as much as fiscal — it *"created new
+organizations within the state that prevented collective action against him."* Manning's bottom
+line: the Ptolemaic economy was an **"efflorescence"** (extensive growth without intensive
+per-capita growth), since *"sustained per capita growth was not, after all, the aim of the
+regime."*
+
 ## The Linked Question — Fusion or Counterpoint?
 
 Bound up with the economic debate is the cultural one: did Greek rule create a **mixed
@@ -67,8 +104,18 @@ counterpoint, with Greeks monopolising high office and the army.
 ## Resolution Status
 
 **Partially resolved.** The Brussels-school revision is now the scholarly mainstream:
-few would today defend Rostovtzeff's "planned economy" or the strong-fusion thesis. But
-the precise balance of royal vs. private capital, the degree of real central control, and
-the chronology and causes of decline remain actively debated — and depend, as Turner
-stresses, on the [[ptolemaic-papyri|discontinuous papyrus record]] and the still-young
-state of demotic studies.
+few would today defend Rostovtzeff's "planned economy" or the strong-fusion thesis, and
+Manning's premodern-state/[[new-institutional-economics|institutional]] framing has become a
+standard reference point for the "institutional turn" in the field. But the precise balance
+of royal vs. private capital, the degree of real central control, and the chronology and
+causes of decline remain actively debated — and depend, as Turner stresses, on the
+[[ptolemaic-papyri|discontinuous papyrus record]] and the still-young state of demotic
+studies. Critics of the institutional approach object that its "bargaining" language can
+soften the reality of coercion and exploitation (see [[premodern-state]]).
+
+## Related
+
+- [[ptolemaic-egypt]] · [[ptolemaic-state-formation]] · [[premodern-state]] ·
+  [[new-institutional-economics]] · [[legal-pluralism]]
+- [[ptolemaic-papyri]] · [[egyptian-temple-economy]] · [[coinage]] · [[ptolemy-ii-philadelphus]]
+- Sources: [[sources/manning-last-pharaohs-2010]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]

@@ -136,6 +136,23 @@ under **Amasis** Egypt "attained its highest level of prosperity." Control of th
 through the [[concepts/gods-wife-of-amun|God's Wife of Amun]]: Psamtek I installed his daughter
 **Nitiqret** as heiress, capturing Thebes peacefully.
 
+## Manning (2010): the Saïte state as the Ptolemaic template
+
+[[sources/manning-last-pharaohs-2010|J. G. Manning]] makes the Saïte Twenty-Sixth Dynasty the
+**direct institutional precursor of both Persian and [[ptolemaic-egypt|Ptolemaic]]
+governance** — *"Saïte reforms are crucial to an understanding of Persian and Ptolemaic
+governance."* Three Saïte legacies, he argues, shaped the rest of the first millennium and
+the Ptolemaic state in particular: **legitimation through the temples** (Psammetichus I
+reunified Egypt *"rather than conquering Upper Egypt by military force"* — by having his
+daughter Nitocris adopted as [[concepts/gods-wife-of-amun|God's Wife of Amun]], a model of
+[[ptolemaic-state-formation|bargained incorporation]] the Ptolemies would echo); the
+**managed Greek opening** (Ionian and Carian mercenaries and the chartered emporion of
+[[naucratis|Naukratis]], making Egypt a *"Mediterraneanized Egypt"* well before Alexander);
+and above all the **diffusion of demotic** — *"one of the most important and long-lasting
+changes begun by Psammetichus I,"* which *"carr[ied] with it its distinct legal traditions"*
+and gave the bureaucracy *"greater administrative uniformity."* See
+[[premodern-state]] and [[legal-pluralism]].
+
 ## Historiography
 
 James leans heavily on **Herodotus** (the Dodecarchy, the mercenaries, the navy, the

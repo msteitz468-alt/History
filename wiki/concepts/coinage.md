@@ -5,8 +5,8 @@ origin: monetization as a path-dependent process; coinage invented independently
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [near-east, mediterranean, iran-plateau, south-asia, china, central-asia]
 contested: yes
-sources_ingested: 5
-last_updated: 2026-06-26
+sources_ingested: 6
+last_updated: 2026-06-27
 tags: [concept, iron-age, bogucki-crabtree-ancient-europe-2004]
 ---
 
@@ -209,6 +209,19 @@ fiscal-state thesis even as the post-war decades begin to pull coin into the mar
 - **Great Convergence/Divergence** — why Roman and Qin–Han state-economies developed
   similarly then diverged (Scheidel).
 - **What share of taxes was collected in cash** vs. kind — unresolved.
+
+## Ptolemaic monetization (Manning 2010)
+
+[[sources/manning-last-pharaohs-2010|J. G. Manning]] treats Ptolemaic Egypt as a case study
+in **state-driven monetization within a [[premodern-state|premodern state]]**. Egypt was
+*"partially monetized"* for over a millennium (metals as a medium of exchange), but coinage —
+minted at Alexandria from c. 315 BCE, in a **closed currency system** bearing *"invariably
+dynastic and never Egyptian"* imagery — was new. Its *"principal engine"* was the **state's
+demand that taxes be paid in coin**: *"the act of demanding coin was an act of sovereignty."*
+Yet monetization had limits — coinage *"never became all-purpose money,"* never fully
+displaced *"reckoning in kind"* (the grain tax stayed in kind for pragmatic reasons),
+penetrated the new [[ptolemaic-economy|Fayyum]] faster than the temple-dominated Thebaid, and
+left **credit markets running on personal trust** rather than impersonal institutions.
 
 ## Relation to Other Pages
 

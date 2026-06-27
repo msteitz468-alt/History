@@ -5,8 +5,8 @@ origin: Crystallised in the generation after Alexander (from c. 311 BCE); fourth
 applies_to_periods: [Classical Antiquity, Late Antiquity]
 applies_to_regions: [mediterranean-world, egypt, near-east, anatolia, balkans]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept]
 ---
 
@@ -95,6 +95,19 @@ Walbank judges it "even more difficult to find out." Key positions:
   drift from sacrifices *to* the king toward sacrifices *for* him.
 - Adcock's formula, endorsed by Walbank: ruler-cult "was not the root of Hellenistic
   monarchy: it was rather the leaves on the branch."
+
+## The dynastic cult as a bargaining instrument (Manning 2010)
+
+For the Ptolemaic case, [[sources/manning-last-pharaohs-2010|J. G. Manning]] reads the
+dynastic ruler cult less as cultural expression than as an instrument of
+[[ptolemaic-state-formation|state-making]]. **Deification of the royal family, begun by
+Ptolemy II,** and the **insertion of the ruler cult into Egyptian temple ritual** reinforced
+legitimacy *"through religion"* and was *"accepted by both Greeks and Egyptians because the
+kings carefully selected cult names resonating with both populations"* — part of the king's
+performance to **two audiences at once**. The names of the dynastic cult priests, inserted
+into the dating protocols of both Greek and demotic contracts, also bound the
+[[legal-pluralism|legal and bureaucratic order]] to the dynasty. See
+[[ptolemaic-egypt]], [[premodern-state]].
 
 Ruler-cult is the direct ancestor of the **Roman imperial cult**. See
 [[hellenistic-monarchy]], [[hellenistic-world]].

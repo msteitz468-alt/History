@@ -7,8 +7,8 @@ period_active: [Archaic Period, Classical Antiquity]
 controlled_by: [[[achaemenid-empire|the Achaemenid Persian empire]] (525–404 BCE), governed by a satrap from Memphis]
 events_here: [the Persian conquest under Cambyses (525), Darius' Nile–Red Sea canal and law-codification, the revolt of Inaros (460s), the destruction of the Elephantine Jewish temple (410), the secession under Amyrtaeus (404)]
 processes_here: [Achaemenid imperial administration, the cosmopolitan settlement of foreign communities, Egyptian cultural self-assertion under occupation]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [place, north-africa, archaic-period]
 ---
 
@@ -97,9 +97,28 @@ papyri, the Arsames "diplomatic bag," the Hermopolis letters). Ray stresses the 
 "scarcely allow" an economic balance-sheet, but that **culturally Egypt gained** from the
 conquest while Persia took a fatal strategic burden.
 
+## Manning (2010): the Persian foundation of the Ptolemaic state
+
+[[sources/manning-last-pharaohs-2010|J. G. Manning]] argues the
+[[ptolemaic-egypt|Ptolemaic state]] had *"roots planted firmly in the soil of Persian
+provincial rule."* The Achaemenid century, he stresses, was the **first time Egypt became
+part of an imperial state system**, and the Persians governed *"with as light a hand as
+possible, relying on strategically placed garrisons and a good network of intelligence"*
+(Ray) — leaning on the **Saïte fiscal structure**, keeping **Memphis** as the seat of
+governance, and **granting land to soldiers and administrators** (the ancestor of the
+Ptolemaic cleruchy). Two precedents mattered most for Manning's argument. First, **Darius'
+"codification"** of Egyptian law was *"not producing a unified, written code … but rather a
+collection of prevailing customs and scribal usages"* — exactly the **reauthorizing**
+posture the Ptolemies would adopt toward Egyptian law (see [[legal-pluralism]]). Second, the
+**resentment of Cambyses' temple-revenue cuts** taught a lesson the Ptolemies, *"knowing the
+value of a good press,"* consciously acted on by *"us[ing] pharaonic imagery and practices
+to minimize their own foreignness."* See [[ptolemaic-state-formation]] and
+[[premodern-state]].
+
 ## Related
 
 - Empire: [[achaemenid-empire]] · predecessor: [[saite-egypt]] (26th Dynasty) · conqueror: [[cambyses]]
 - Key event: [[persian-conquest-of-egypt-525bce]] · collaborator: [[udjahorresne]] · Jewish colony: [[elephantine]]
 - Foreign communities: [[ionia]] · [[naucratis]] · [[phoenicians]] · rival power: [[athens]] (Inaros)
-- Period: [[archaic-period]] · Source: [[boardman-cah-v4-1988]] (Ch. 3g, Ray)
+- Successor: [[ptolemaic-egypt]] · Process: [[ptolemaic-state-formation]] · Concept: [[legal-pluralism]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v4-1988]] (Ch. 3g, Ray) · [[sources/manning-last-pharaohs-2010]]

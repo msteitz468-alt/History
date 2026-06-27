@@ -9,7 +9,7 @@ affiliated_with: [Macedon, the Greek and Macedonian settler class, the Egyptian 
 opposed_by: [[[seleucid-empire]], [[antigonid-dynasty]], native Egyptian revolts, [[rome|Rome]]]
 key_events: [[[wars-of-the-diadochi-323]], [[syrian-wars]], [[battle-of-raphia-217]]]
 key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]], [[ruler-cult]]]
-sources_ingested: 6
+sources_ingested: 7
 last_updated: 2026-06-27
 tags: [actor, dynasty, state, classical-antiquity, egypt]
 ---
@@ -186,9 +186,34 @@ proverbial agricultural wealth, while **reciprocal Greek–Egyptian acculturatio
 village temples) slowly advanced — but "not even the strength and power of the gods of
 Egypt could resist the force of Rome."
 
+## Manning (2010): the premodern "bargained" state
+
+[[sources/manning-last-pharaohs-2010|J. G. Manning's *The Last Pharaohs*]] reinterprets the
+kingdom not as a planned economy or an oriental despotism but as a
+**[[premodern-state|premodern state]] that governed *"not over society, but rather through
+it"*** — by **[[ptolemaic-state-formation|continual bargaining]]** (Barkey's "bargained
+incorporation") with the Egyptian **priesthood**, the **soldier-settlers**, and **local
+elites and scribes**. Manning insists the Ptolemaic state must be read from the **longue
+durée of Egyptian history**: it built directly on the centralizing institutions of
+[[saite-egypt|Saïte]] (664 BCE) and [[achaemenid-egypt|Persian]] Egypt, taking the **last
+native pharaohs (Nectanebo I and II)** as its models, and was a *"hybrid"* of pharaonic,
+Persian, Macedonian, and Greek practice. Its king performed to **two audiences at once** —
+Macedonian conqueror and Egyptian pharaoh (the [[ruler-cult|ruler cult]] beside the pharaonic
+titulary). Against Rostovtzeff, Manning stresses that *"all land is the king's"* was **fiscal
+fiction** (private and temple landholding persisted); the real innovation was the **shift from
+taxing labour to raising revenue in cash** — bringing coinage, royal banks, tax farming, and
+the census — aimed at *"stable and predictable, rather than maximal, revenues."* He adds a
+dimension older economic histories neglected: **[[legal-pluralism|law]]** as a central
+instrument of state-making (the Egyptian-law *laokritai* alongside the Greek-law courts, with
+the crown above both). His verdict is an **"efflorescence"** — extensive growth without rising
+living standards — and a state whose negotiated equilibrium made it *"the longest lasting of
+the Hellenistic 'successor states.'"* See [[ptolemaic-economy|the economy controversy]].
+
 ## Related
 
 - Founder: [[ptolemy-i-soter]] · [[ptolemy-ii-philadelphus]] · Last ruler: [[cleopatra-vii]]
 - Event: [[battle-of-raphia-217]] · [[battle-of-actium-31bce]] · [[events/roman-annexation-of-egypt-30bce]]
 - Successor: [[roman-egypt]] · Place: [[alexandria]] · [[naucratis]] · Concept: [[concepts/divine-kingship]] · [[concepts/great-tradition-little-tradition]]
-- Period: [[classical-antiquity]] · Source: [[sources/shaw-oxford-history-ancient-egypt-2000]] (Lloyd, Ch. 14)
+- Process: [[ptolemaic-state-formation]] · Concept: [[premodern-state]] · [[new-institutional-economics]] · [[legal-pluralism]] · Controversy: [[ptolemaic-economy]]
+- Predecessors: [[saite-egypt]] · [[achaemenid-egypt]] · Event: [[asyut-property-trial-170bce]]
+- Period: [[classical-antiquity]] · Sources: [[sources/shaw-oxford-history-ancient-egypt-2000]] (Lloyd, Ch. 14) · [[sources/manning-last-pharaohs-2010]]
