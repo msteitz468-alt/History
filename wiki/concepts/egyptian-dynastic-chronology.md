@@ -5,7 +5,7 @@ origin: Manetho's *Aegyptiaca* (3rd c. BCE); refined by Egyptology since the 19t
 applies_to_periods: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Early Iron Age, Archaic Period, Classical Antiquity]
 applies_to_regions: [north-africa]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [concept]
 ---
@@ -88,6 +88,19 @@ simply political collapse — a theme the volume's specialists press for the
 [[processes/first-intermediate-period|First]] and
 [[processes/second-intermediate-period|Second Intermediate Periods]].
 
+## Rice (2003): the "Dynasty 0" table and Naqada–Ubaid synchronism
+
+Michael Rice ([[sources/rice-egypts-making-2003|*Egypt's Making*]]) gives a working
+chronological table for the **predynastic and Early Dynastic** centuries that the
+classical king-list apparatus does not reach. He labels the run-up to the First Dynasty
+**"Dynasty 0,"** populating it with the named pre-unification rulers attested on rock
+inscriptions and at [[places/abydos|Abydos]] — **Ro, Iry-Hor, Ka, Scorpion I and II,
+Narmer** — and aligns the Egyptian sequence (Badarian → [[naqada|Naqada I/II/III]]) with
+the Mesopotamian **Ubaid I–IV** horizons (e.g. Ubaid III ≈ early Naqada I, c.3800 BC).
+These cross-cultural synchronisms are themselves a strand of his
+[[egypt-mesopotamia-predynastic-contact|contact thesis]]; treat the absolute dates as
+illustrative rather than fixed.
+
 ## Limitations and critiques
 
 - Co-regencies are real but their number and length are disputed; some scholars
@@ -100,8 +113,9 @@ simply political collapse — a theme the volume's specialists press for the
 
 ## Related
 
-- Source: [[sources/shaw-oxford-history-ancient-egypt-2000]]
+- Source: [[sources/shaw-oxford-history-ancient-egypt-2000]] · [[sources/rice-egypts-making-2003]]
 - Person/source: [[actors/manetho]] · [[concepts/palermo-stone]] · [[concepts/sothic-cycle]]
+- Controversy: [[egypt-mesopotamia-predynastic-contact]] · Place: [[naqada]]
 - Periodization debates: [[processes/first-intermediate-period]] · [[processes/second-intermediate-period]] · [[processes/third-intermediate-period]]
 - Concepts: [[concepts/divine-kingship]] · [[concepts/egyptian-formalism]]
 - Process: [[processes/predynastic-egypt]] · Event: [[events/unification-of-egypt-3100bce]]

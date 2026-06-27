@@ -8,7 +8,7 @@ region: [north-africa]
 process_type: cultural
 driven_by: [[[postglacial-environment-near-east|Nile environment]], [[early-agriculture-southwest-asia|farming]]]
 produces: [[[early-dynastic-egypt]], [[memphis|Memphis]], [[urbanization]], [[state-formation]]]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-27
 tags: [process, neolithic, chalcolithic, north-africa]
 ---
@@ -100,6 +100,26 @@ examples of the working of flint anywhere in the world"; the rise of a specialis
 class requiring "urban centres and a surplus economy"; and the **bound-captive/domination
 iconography** that "appears to be the prototype of traditional scenes of victory in the
 pharaonic phase." See [[concepts/state-formation]] and [[places/hierakonpolis]].
+
+## Rice (2003): the desert roots and the eastward look
+
+Michael Rice ([[sources/rice-egypts-making-2003|*Egypt's Making*]]) pushes the story
+**back into the desert and outward toward Asia**. He stresses the **western-desert**
+ancestry of the historic Egyptians: the **Nabta Playa** "calendar circles" (c.7000 BC),
+aligned to the cardinal points and solstices, are read as the earliest monumental and
+astronomical use of stone anywhere — anticipating the Giza alignments — and the nearby
+**stone-covered cattle burials** (with the Tushka/Bir Kiseiba bucrania burials, c.14,500
+BP) as the deep root of the Egyptian **cattle/bull cult** in which the king is figured as
+a divine **aurochs** (see [[divine-kingship]]). On the northern side he foregrounds the
+Lower Egyptian sites — **Merimde Beni Salame** (c.4800 BC, contemporary with early
+Badarian), **Maadi** (copper trade with Sinai/Palestine), **El Omari**, and **Buto**
+(Canaanite-form pottery; the discarded "Uruk clay cones") — and the early **dog
+domestication** at Merimde. His distinctive claim is that the **Naqada II** advance was
+catalysed by contact with **Sumer and Elam**: Uruk-style filter-spouted pottery, the
+pear-shaped mace, gold and silver working, and a "galvanic" surge that "heightened the
+native Egyptian genius" without displacing a pristine, indigenous personality rooted in
+the deserts. The mechanism and degree of that contact are filed as a live controversy:
+[[egypt-mesopotamia-predynastic-contact]].
 
 ## Interaction
 

@@ -7,7 +7,7 @@ period_active: [Chalcolithic, Early Bronze Age, Middle Bronze Age, Late Bronze A
 controlled_by: [[[predynastic-egypt]], [[early-dynastic-egypt]], [[old-kingdom-egypt]]]
 events_here: [[[unification-of-egypt-3100bce]]]
 processes_here: [[[predynastic-egypt]], [[state-formation]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, north-africa, early-bronze-age]
 ---
@@ -42,6 +42,19 @@ best preserved being the *Shunet el-Zebib* of Khasekhemwy, walls still 10–11 m
 O'Connor's discovery of a fleet of **buried boats** 18–21 m long. See
 [[actors/early-dynastic-egypt]] and [[events/unification-of-egypt-3100bce]].
 
+## Rice (2003): retainer sacrifice and the Khasekhemwy parallel
+
+Michael Rice ([[sources/rice-egypts-making-2003|*Egypt's Making*]]) treats the **sacrifice
+of retainers** around the 1st-Dynasty royal tombs as "fundamentally un-Egyptian" — a
+practice that flares at the unification and dies out early, with no certain eastern
+source (the Sumerian death-pits of Ur are centuries *later*). He singles out the great
+**tomb of Khasekhemwy** (last king of Dynasty II) at Umm el-Qaab: its finely cut
+stone-block courses, he suggests with explicit caution about the millennium-wide
+chronological gap, recall the masonry of the **Barbar temple** on Bahrain — one strand of
+his [[egypt-mesopotamia-predynastic-contact|eastern-contact]] argument. Khasekhemwy, the
+"conciliating and benign monarch" who healed the Horus–Seth division, is for Rice the
+bridge to the creative surge of the Third Dynasty (see [[djoser]]).
+
 ## Cult centre of Osiris and the king-lists
 
 Abydos remained a major cult centre throughout Egyptian history: in the Middle Kingdom
@@ -57,4 +70,5 @@ that omit usurpers and the Amarna kings.
 - Actor: [[actors/early-dynastic-egypt]] · [[actors/narmer]] · Event: [[events/unification-of-egypt-3100bce]]
 - Place: [[places/hierakonpolis]] · [[places/memphis]]
 - Concept: [[concepts/egyptian-dynastic-chronology]] · [[concepts/divine-kingship]]
-- Period: [[periods/early-bronze-age]] · Source: [[sources/shaw-oxford-history-ancient-egypt-2000]]
+- Controversy: [[egypt-mesopotamia-predynastic-contact]] · Actor: [[djoser]]
+- Period: [[periods/early-bronze-age]] · Source: [[sources/shaw-oxford-history-ancient-egypt-2000]] · [[sources/rice-egypts-making-2003]]

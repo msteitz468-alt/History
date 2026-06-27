@@ -9,7 +9,7 @@ affiliated_with: [[[old-kingdom-egypt]]]
 opposed_by: []
 key_events: []
 key_processes: [[[state-formation]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-27
 tags: [actor, person, early-bronze-age, north-africa]
 ---
@@ -47,6 +47,18 @@ son nor a vizier; "innate ability and the favour of the king" raised him. Later
 Egyptians paired him with the sage **Hordedef** as the proverbial wise men whose
 words endure though "their walls are destroyed."
 
+Michael Rice ([[sources/rice-egypts-making-2003|*Egypt's Making*]]) calls him "the
+first universal genius known to history" and recites the full titulary preserved on the
+statue-base: "Chancellor of the King of Lower Egypt, First after the King of Upper Egypt,
+Administrator of the Great Palace, Hereditary Nobleman, **High Priest of Heliopolis**,
+Builder, Sculptor and Vase-maker in Chief." Rice singles out the **Heliopolitan**
+priesthood as decisive: Imhotep may have driven the rise of the **solar cult** that grows
+through Netjerykhet's reign and becomes dominant in the Fourth Dynasty (the title **Son
+of Ra**). At Saqqara he was himself **worshipped as a healing divinity** in later
+centuries — "a benign and kindly divinity… who granted the prayers of the most humble
+petitioners" — the apotheosis of a commoner-administrator. He embodies the Third
+Dynasty's "new men," competent practical officials raised by merit.
+
 ## The Step Pyramid
 
 Imhotep's achievement was twofold: **a new architectural form** — a high stepped
@@ -77,4 +89,4 @@ memory.
 
 - State: [[old-kingdom-egypt]] · Preceded by: [[early-dynastic-egypt]]
 - Place: [[memphis]] (Saqqara) · Concept: [[divine-kingship]] · [[egyptian-formalism]] · Period: [[early-bronze-age]]
-- Source: [[kemp-ancient-egypt-anatomy-2018]]
+- Source: [[kemp-ancient-egypt-anatomy-2018]] · [[sources/rice-egypts-making-2003]]

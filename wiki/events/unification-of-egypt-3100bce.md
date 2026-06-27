@@ -14,8 +14,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[predynastic-egypt]], [[state-formation]], wealth-concentration in Upper Egyptian centres]
 consequences: [[[early-dynastic-egypt]], foundation of [[memphis]], [[divine-kingship]], pharaonic state]
-sources_ingested: 2
-last_updated: 2026-06-26
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [event, early-bronze-age, north-africa, transition]
 ---
 
@@ -96,9 +96,24 @@ visualizing the polycentric pattern of their own early political growth," readin
 fragmentation as a fall from an original (mythical) unity. See
 [[egyptian-creation-myth-and-cosmogony]].
 
+Michael Rice ([[sources/rice-egypts-making-2003|*Egypt's Making*]]) reads the
+**votive palettes** (the [[narmer|Narmer]] Palette and its companions — the Hunters'
+Palette, the "Two Dogs"/Exotic Animals palette — from the **Main Deposit at
+[[hierakonpolis|Hierakonpolis]]**) and the **Scorpion macehead** as the central
+documents of the unification, the genre of monumental ceremonial mace and palette
+itself ceasing after Narmer's reign. He flags the period's **Mesopotamian** signature —
+the rosette/star naming the king (a divine marker in Sumer, "perhaps the hand of an
+immigrant Sumerian scribe"), the intertwined serpent-necked felines on the Narmer
+Palette, and the niched **palace-façade** *serekh* adopted as the royal badge — as
+evidence of eastern contact at the threshold of statehood, while agreeing there was **no
+invasion**. The degree of that influence is the subject of
+[[egypt-mesopotamia-predynastic-contact]].
+
 ## Related
 
 - Followed by: [[early-dynastic-egypt]] → [[old-kingdom-egypt]]
 - Preceded by: [[predynastic-egypt]] · Analogous to: Sumerian [[urbanization]]/[[state-formation]]
-- Place: [[memphis]] · Period: [[early-bronze-age]]
-- Ideology: [[egyptian-creation-myth-and-cosmogony]] · [[divine-kingship]] · Source: [[kemp-ancient-egypt-anatomy-2018]]
+- Place: [[memphis]] · [[hierakonpolis]] · [[naqada]] · Period: [[early-bronze-age]]
+- Ideology: [[egyptian-creation-myth-and-cosmogony]] · [[divine-kingship]]
+- Controversy: [[egypt-mesopotamia-predynastic-contact]]
+- Source: [[kemp-ancient-egypt-anatomy-2018]] · [[sources/rice-egypts-making-2003]]

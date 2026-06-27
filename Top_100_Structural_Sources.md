@@ -42,7 +42,7 @@
 22. **Barry J. Kemp** - *Ancient Egypt: Anatomy of a Civilization* ✅ INGESTED 2026-06-27 (3rd ed., 2018; Deployed Subagent Strategy, 6 ranges; 15 pages created, 16 updated)
 23. **Ian Shaw** - *The Oxford History of Ancient Egypt* ✅ INGESTED 2026-06-27 (ed. 2000; Deployed Subagent Strategy, 8 chapter-aligned ranges; 36 pages created, 25 updated)
 24. **J. G. Manning** - *The Last Pharaohs: Egypt Under the Ptolemies, 305-30 BC* ✅ INGESTED 2026-06-27 (2010; Deployed Subagent Strategy, 5 chapter-aligned ranges; 5 pages created, 7 updated — the wiki's anchor for the New Institutional Economics / premodern-state reading of the Ptolemaic state)
-25. **Michael Rice** - *Egypt's Making: The Origins of Ancient Egypt 5000-2000 BC*
+25. **Michael Rice** - *Egypt's Making: The Origins of Ancient Egypt 5000-2000 BC* ✅ INGESTED 2026-06-27 (2nd ed. 2003; focused main-thread ingest — well-trodden topic with fresh Shaw/Kemp scaffold, so targeted to Rice's distinctive Mesopotamia/Dilmun-contact thesis + Jungian reading; 2 pages created, 9 updated)
 26. **Roger S. Bagnall, Dominic W. Rathbone** - *Egypt From Alexander to the Copts: An Archaeological and Historical Guide*
 
 ### 4. Ancient Near East, Levant & Anatolia

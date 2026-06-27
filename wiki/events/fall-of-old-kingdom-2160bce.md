@@ -14,8 +14,8 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [fiscal exhaustion of the crown, decentralization to hereditary nomarchs, fragmentation of crown lands, [[societal-collapse-and-environmental-determinism|possible low-Nile drought]], the over-long reign of Pepi II]
 consequences: [[[first-intermediate-period|First Intermediate Period]], collapse of central authority, rise of regional powers (Heracleopolis, Thebes)]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, early-bronze-age, north-africa, transition]
 ---
 
@@ -71,7 +71,12 @@ Smith's account is firmly **structural**:
 
 ## Historiography
 
-The competing explanation is **climatic**: Barbara Bell's influential thesis (1971)
+Michael Rice ([[sources/rice-egypts-making-2003|*Egypt's Making*]], Ch. 10) gives a
+broadly **structural** account consonant with Smith's — the slow transfer of authority
+to hereditary provincial families and the exhaustion of the crown — closing his survey of
+the "making" of Egypt at the dissolution of the centralized state it had taken two and a
+half millennia to build. The competing explanation is **climatic**: Barbara Bell's
+influential thesis (1971)
 attributed the collapse to a sequence of catastrophically **low Nile floods** /
 regional drought — supported by famine references (the emaciated figures on Unas's
 causeway; the legendary "seven years' famine of Djoser"; First Intermediate
@@ -86,3 +91,4 @@ from the Abydos king-list, decrees, and provincial tomb biographies.
 - State: [[old-kingdom-egypt]] · Followed by: Middle Kingdom (reunification)
 - Controversy: [[societal-collapse-and-environmental-determinism]]
 - Period: [[early-bronze-age]] · Compare: Akkadian collapse (Section 6)
+- Source: [[sources/rice-egypts-making-2003]]

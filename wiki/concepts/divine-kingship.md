@@ -5,7 +5,7 @@ origin: emic to ancient monarchies; analytically developed by Frazer (The Golden
 applies_to_periods: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Classical Antiquity, Late Antiquity]
 applies_to_regions: [north-africa, mesopotamia, near-east, east-asia, mesoamerica, andes]
 contested: yes
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-06-27
 tags: [concept]
 ---
@@ -91,6 +91,29 @@ the moment the king was "sublimated into a manifestation of the sun god." The wh
 was an instrument of legitimation: Egyptian monuments present history as "a process of
 assessment, whereby the king demonstrated that he was preserving [[maat|Maat]]."
 
+## Rice (2003): the Dual King, the divine bull, and a Jungian reading
+
+Michael Rice ([[sources/rice-egypts-making-2003|*Egypt's Making*]]) emphasizes two
+threads. First, **duality**: "there were always two Egypts," eternally opposed yet bound,
+and *only the king* — as **Dual King** and divine master of each — holds them in "perpetual
+equilibrium." On this reading the kingship is not merely *over* the Two Lands but is the
+**reconciling principle** that makes their union possible; the title "Lord of the Two
+Lands" states the institution's whole function. Second, the **bull**: Rice traces the
+king's identification as a divine **aurochs/wild bull** back through the predynastic
+cattle cult to the Nabta Playa cattle burials and the Tushka bucrania (c.14,500 BP),
+making the bovine king "a great diapason which echoes throughout the whole of Egyptian
+history" (see [[predynastic-egypt]]).
+
+His final chapter offers a frankly **interpretive** reading — recorded here as
+historiography, not finding. Rice applies **C. G. Jung's** concepts of the *collective
+unconscious* and the *archetype* to explain both the rapid crystallization of the state
+and Egypt's enduring grip on the Western imagination, treating the divine king as an
+**archetypal figure** answering a deep psychic need for an ordering mediator. This belongs
+to a twentieth-century current (alongside Frazer above and Frankfort's *Kingship and the
+Gods*) that read ancient kingship through depth psychology and the "myth and ritual"
+school; it is suggestive but evidentially unfalsifiable, and the wiki files it as a lens
+rather than a result.
+
 ## Etic use and variation
 
 As an analytical tool the concept spans Pharaonic Egypt, the Mesopotamian
@@ -124,5 +147,6 @@ such claims were made visible.
 - Deified kings: [[naram-sin]] · [[shulgi]] · Concept: [[temple-economy]]
 - Concept: [[mandate-of-heaven]] (conditional variant) · [[art-and-power]] · [[city-state]]
 - Egyptian ideology: [[maat]] · [[egyptian-creation-myth-and-cosmogony]] · [[egyptian-formalism]] · [[great-tradition-little-tradition]]
-- Process: [[state-formation]] · [[urbanization]] · Source: [[kemp-ancient-egypt-anatomy-2018]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]
+- Process: [[state-formation]] · [[urbanization]] · Source: [[kemp-ancient-egypt-anatomy-2018]] · [[sources/shaw-oxford-history-ancient-egypt-2000]] · [[sources/rice-egypts-making-2003]]
+- Controversy: [[egypt-mesopotamia-predynastic-contact]]
 - Concept: [[concepts/egyptian-dynastic-chronology]] · [[concepts/palermo-stone]]
