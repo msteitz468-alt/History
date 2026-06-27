@@ -7,7 +7,7 @@ date_range: "12,000–9,500 BP"
 regions_covered: [africa, europe, near-east, east-asia, south-asia, southeast-asia, australia, north-america, andes, amazonia]
 major_themes: ["Holocene warming", "sea level rise", "mesolithic foragers", "early sedentism", "pre-agricultural intensification", "Younger Dryas", "megafaunal extinction aftermath", "Natufian culture", "Jomon culture"]
 collection_coverage: moderate
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-11
 tags: [period]
 ---
@@ -137,8 +137,12 @@ preceded or followed food production.
 period briefly; more detail will come from CWH Vol. 2 (agriculture origins)
 and Phase 11 specialist prehistoric sources.
 
+**Champion et al. 1984 (R03 range) addition:** Post-glacial adaptations (Ch. 4) framed farming spread as parallel adaptation across Europe and Near East. "the emergence of new resources and novel methods of exploiting these resources in the period 9000-7000 BC... can be seen from the European perspective not just as a foreign, isolated process but as a parallel one of adaptation to changing conditions." Mesolithic sites are explicitly mapped alongside early Neolithic ones. Social motives for agriculture (emulation/status via food) suggested in Ch. 4. (Champion et al. 1984, Ch. 5 / cache ~290-300, 1674+, 2380+)
+
 ## Collection Coverage Note
 
 Coverage moderate from CWH Vol. 1 Introduction; will be substantially
 expanded by CWH Vol. 2 (*A World with Agriculture*, Phase 1) and Phase 11
 prehistoric sources.
+
+**Champion et al. 1984 (Ch. 1 framing) contribution:** Supplies the explicit European post-radiocarbon thematic baseline (settlement, subsistence, social organization) that structures analysis of the Mesolithic–Neolithic transition. The source stresses adaptive scheduling among foragers, the inseparability of economy and society, and the lengthening of chronologies that makes the Mesolithic a long, dynamic period of intensification rather than a brief interlude. (Champion et al. 1984, Ch.1 / range lines ~390-410, ~510-535) Cited for methodological context on all European prehistoric pages.

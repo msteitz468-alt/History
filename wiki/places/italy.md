@@ -27,3 +27,5 @@ Boot-shaped peninsula extending into the central Mediterranean, divided by the A
 - 19th-20th c. unification and modern nation-state role in European wars and EU.
 
 See: [[rome.md]], [[renaissance]], [[venice]], [[genoa]], [[classical-antiquity]], [[late-antiquity]].
+
+**Prehistoric/Early Iron Age temperate/Med content from Champion et al. 1984 Ch. 9-10 (R06 range 18501-22500):** Etruscan state formation and city network in central Italy provided models imitated in temperate Europe (e.g., Heuneburg mud-brick defences "of Mediterranean inspiration"). Temperate oppida/towns and early states paralleled earlier Mediterranean developments "500 years earlier". Trade/contact from Mediterranean (incl. Etruria/Italy) visible in imports (wine amphorae, vessels) and assimilation of central Italy first. See [[actors/etruscans]], [[places/etruria]], [[processes/urbanization-europe]], [[concepts/hallstatt-culture]], [[concepts/la-tene-culture]]. Sources_ingested: 6; last_updated updated.

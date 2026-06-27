@@ -43,12 +43,7 @@ Africa, the Pacific). The volume blurs the archaeology/history line by design.
 
 **Publication**: Cambridge University Press, 2015. ISBN 978-0-521-19218-7. 669 pages (PDF).
 
-**Filed full text**: `raw/1. Prehistory/1. Prehistory/The Cambridge World History/02.
-Graeme Barker, Candice Goucher - The Cambridge World History, Volume 2. A World
-with Agriculture, 12,000 BCE–500 CE.md` (in the source collection directory `raw/`;
-converted from PDF via `pdftotext
--layout`; markdown confirmed on disk at 28,698 lines before the original PDF was
-deleted from `wiki/`, per ingest workflow).
+**Filed full text**: `raw/1. Prehistory/Cambridge World History/02. Graeme Barker, Candice Goucher - The Cambridge World History, Volume 2. A World with Agriculture, 12,000 BCE–500 CE.md` (filed to corresponding time-period folder per CLAUDE.md; converted from PDF via `pdftotext -layout`; original PDF disposed of per ingest workflow).
 
 ---
 

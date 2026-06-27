@@ -3,15 +3,27 @@ title: "Civil War Infantry Tactics: Training, Combat, and Small-Unit Effectivene
 author: Earl J. Hess
 year: 2015
 source_type: secondary
-period_coverage: [Long 19th Century]
-region_coverage: [north-america]
-methodological_approach: [archival, tactical-manual-analysis, historiographical-revision, quantitative-examples-from-official-records]
-reliability_notes: >
-  Louisiana State University Press, 2015. Based on close reading of the three primary tactical manuals used by Civil War armies (Winfield Scott 1835, William J. Hardee 1855, Silas Casey 1862) and more than four hundred specific examples drawn from battle reports in the Official Records (War of the Rebellion). Hess is a leading revisionist on the rifle musket's actual battlefield impact; this volume complements his 2008 *The Rifle Musket in Civil War Combat*. Strong on lower-level (company/regimental) tactics; thinner on higher operational art. Primary evidence base is excellent for the period.
+period_coverage:
+  - Long 19th Century
+region_coverage:
+  - north-america
+methodological_approach:
+  - archival
+  - tactical-manual-analysis
+  - historiographical-revision
+  - quantitative-examples-from-official-records
+reliability_notes: Louisiana State University Press, 2015. Based on close reading of the three primary tactical manuals used by Civil War armies (Winfield Scott 1835, William J. Hardee 1855, Silas Casey 1862) and more than four hundred specific examples drawn from battle reports in the Official Records (War of the Rebellion). Hess is a leading revisionist on the rifle musket's actual battlefield impact; this volume complements his 2008 *The Rifle Musket in Civil War Combat*. Strong on lower-level (company/regimental) tactics; thinner on higher operational art. Primary evidence base is excellent for the period.
 pages_created: 4
 pages_updated: 12
 ingested: 2026-06-23
-tags: [source, warfare-hub, long-19th-century, north-america, infantry-tactics, american-civil-war, linear-tactics]
+tags:
+  - source
+  - warfare-hub
+  - long-19th-century
+  - north-america
+  - infantry-tactics
+  - american-civil-war
+  - linear-tactics
 ---
 
 # Civil War Infantry Tactics: Training, Combat, and Small-Unit Effectiveness (Earl J. Hess, 2015)

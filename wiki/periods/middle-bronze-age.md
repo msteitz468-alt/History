@@ -4,11 +4,11 @@ period_number: 9
 preceded_by: [[[early-bronze-age|Early Bronze Age]]]
 followed_by: [[[late-bronze-age|Late Bronze Age]]]
 date_range: 2,100–1,550 BCE (Near East; regionally variable)
-regions_covered: [mesopotamia, near-east, levant, anatolia, north-africa, iran-plateau, aegean]
+regions_covered: [mesopotamia, near-east, levant, anatolia, north-africa, iran-plateau, aegean, europe, western-europe, central-europe]
 major_themes: [territorial states, the Amorite world, bureaucratic empire, urban revival, palace economy, long-distance trade, multipolar diplomacy]
 collection_coverage: moderate
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-06-26
 tags: [period]
 ---
 
@@ -105,6 +105,8 @@ Hyksos, to the brink of the [[late-bronze-age|Late Bronze Age]].
   Hurrians]] coalesce into the kingdom of **[[mitanni|Mitanni]]** across the north;
   and in Egypt the Hyksos are expelled and the New Kingdom rises. A new system of a
   few territorial "great powers" replaces the dense Amorite mosaic.
+
+**Temperate Europe continuation (Champion et al. 1984 Ch. 7):** Middle Bronze Age sees consolidation of patterns from early Bronze Age: "The pattern is one which continues throughout the middle Bronze Age, until c. 1500 BC" with rich burials, prestige goods (weapons, ornaments, amber), craft specialization, and fortified centres. Denmark receives substantial metal ~1700 BC; quantities correlate with agricultural productivity of areas. Continued interregional exchange and emulation. "the quantity of metal desposited has been shown to relate to the agricultural productivity of those areas where the graves and hoards are found so there does seem to be a clear link between control of agricultural resources and trade goods." Metal removed from circulation via graves/hoards drove ongoing demand. These chiefly societies (candidates for Service "chiefdoms") are the mature Tumulus phase expression of Bronze Age social differentiation (see [[processes/bronze-age-social-differentiation]], [[concepts/tumulus-culture]]). In central/west Mediterranean more stability; Polada (N Italy), early Apennine; Argaric continuation in Iberia. Southern France Rhone group part of wider temperate system with amber. (Grounded in range 14801–18500.)
 
 ## Key Actors
 

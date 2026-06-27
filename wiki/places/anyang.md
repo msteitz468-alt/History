@@ -7,8 +7,8 @@ period_active: [Late Bronze Age]
 controlled_by: [Shang dynasty]
 events_here: []
 processes_here: [[[urbanization]], [[writing-and-record-keeping]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-26
 tags: [place, china, east-asia, late-bronze-age]
 ---
 
@@ -65,3 +65,21 @@ transmission" from here underlies East Asian literacy. The Erlitou→Erligang
 - Places: [[uruk|Uruk]] · [[tikal|Tikal]] (lineage/patio form) · [[memphis|Memphis]]
 - Process: [[urbanization]] · [[writing-and-record-keeping]]
 - Concept: [[urbanism]] · [[city-state]]
+
+## Additional claims from Maisels (1999) Range 05 (China Ch. 5)
+
+**Capital district extent and structure (exclusive to this source range):**
+"Anyang is not a single site but the capital district extending over about 24 square kilometres in which seventeen sites are known so far." Core "inner capital" ~elliptical <200 km long axis; "outer domain" buffer; "lordships" beyond. Ruling centre at Xiaotun: Section A (ceremonial altar + 15 parallel houses), Section B (21 houses in 3 rows, royal temple sector, horse-chariot burials), Section C (17 foundations). Servitors in ~4m semi-subterranean dwellings with storage; bronze foundries, bone/stone/pottery workshops. "Experiment has conclusively demonstrated that bronze casting was by the piece-mould method... and not by cire perdue". (lines ~1990-2040)
+
+**Royal cemetery at Xibeigang:**
+"North of the river at Xibeigang is the royal cemetery of eleven large graves, accompanied by over 1,000 small graves". "The eleven large tombs are grouped into a western cluster of seven and an eastern cluster of four, happily coinciding in number with the eleven kings from P’an Geng to Ti Yi who ruled from An-Yang". Tombs with long N-S approach ramps + E-W; "at least 7,000 working days would be required just to excavate the pits". Abundant goods + sacrificial victims (heads often separated). Fu Hao tomb (nearby) inventory detailed: wooden chamber/coffin, 16 victims, 6 dogs, ~7000 cowries, 200+ bronze ritual vessels, 130+ bronze weapons, 590+ jade objects, etc. (lines ~2045-2060, ~1335-1365)
+
+**Continuity with Erlitou and pre-urban Longshan:**
+Anyang part of sequence from Erlitou (possible Xia, ~1.5 x 2.5 km site, two large palace compounds with stamped-earth platforms 36x25m hall foundations, elite tombs with "signs of ritual slaughter", early bronzes but no scapular inscriptions). Longshan towns (e.g. Chengziyai max ~20 ha) were "still only towns rather than cities". Anyang "cities" dispersed clusters. (lines ~1820-1840, ~1435-1440, ~2385-2395)
+
+**Shamanistic political instruments:**
+"In this sense, the first Chinese civilizations were shamanistic; their art was in fact shamanistic paraphernalia, which were not only the trappings but also the very instruments of political power." Oracle bone example from Wen Ding (134 characters). (lines ~2065-2070)
+
+**Source grounding:** [[sources/maisels-early-civilizations-of-the-old-world-1999]] (Range 05 cache lines only; verbatim quotes). Cross-links [[actors/shang-dynasty]], [[concepts/territorial-state]] (for lineage basis of dispersed guo), [[places/harappa]] (comparative), [[concepts/urban-revolution]].
+
+Last updated from this source range 2026-06-26.

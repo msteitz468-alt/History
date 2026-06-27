@@ -25,7 +25,7 @@
 
 ### 1. Prehistoric & Ancient Europe
 11. **Ian Hodder** - *Archaeological Theory in Europe: The Last Three Decades* ✅ (ingested 2026-06-26)
-12. **Timothy Champion, Clive Gamble, Stephen Shennan, Alasdair Whittle** - *Prehistoric Europe* **[MISSING]**
+12. **Timothy Champion, Clive Gamble, Stephen Shennan, Alasdair Whittle** - *Prehistoric Europe* ✅ (ingested 2026-06-26)
 13. **Barry W. Cunliffe** - *The Ancient Celts*
 14. **John T. Koch** - *Celtic Culture: A Historical Encyclopedia (5 Vol. Set)*
 15. **Peter I. Bogucki, Pam J. Crabtree** - *Ancient Europe, 8000 B.C. to A.D. 1000: An Encyclopedia of the Barbarian World Edition*

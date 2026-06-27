@@ -7,7 +7,7 @@ date_range: "9,500–3,000 BCE (regionally diachronous; see note)"
 regions_covered: [near-east, levant, anatolia, iran-plateau, south-asia, china, japan, korea, southeast-asia, melanesia, sub-saharan-africa, west-africa, mesoamerica, andes, north-america, europe, mediterranean]
 major_themes: ["origins of agriculture", "plant and animal domestication", "sedentism", "village life", "the Neolithic Revolution", "demographic expansion", "emergent inequality", "secondary products", "pottery", "foraging-farming frontier"]
 collection_coverage: strong
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-11
 tags: [period]
 ---
@@ -68,6 +68,10 @@ Regional detail pages: [[early-agriculture-southwest-asia]],
 [[early-african-food-production]], [[early-agriculture-americas]],
 [[early-agriculture-europe]].
 
+**European farming spread (Champion et al. 1984).** The initial spread into Europe combined colonization (especially SE–NW axis and central Mediterranean) with indigenous contributions and local adaptation. Primary settlements favoured optimal soils: loess deposits for Linearbandkeramik (LBK) longhouse villages in temperate Europe ("well drained and easily tillable") and light fertile valley soils for substantial, long-lived Balkan tells (e.g. Karanovo, Azmak). "the apparent role played by direct colonization in many areas... Even with colonization there may regularly have been an indigenous contribution of population and skills; cattle for example seem to have been domesticated (at least on morphological criteria) earlier in Greece... than in the Near East." Secondary colonization later moved onto interfluves and poorer soils; plough agriculture (ard marks under barrows) facilitated this from the early fourth millennium. See dedicated [[processes/spread-of-farming-europe|Spread of Farming in Europe]] and [[concepts/linearbandkeramik|Linearbandkeramik (LBK)]].
+
+Early European Neolithic subsistence was a "high-yielding, diverse and above all secure blend" of cereals (dominant) and livestock, with evidence for manuring, legume use, permanent fields, storage pits, and forest clearance (long-lived clearances up to 400 years documented in pollen). Animal management included stalling in some zones (Alpine foreland), castrated cattle for traction from the sixth millennium, and a primary early focus on meat (high juvenile culling); milk/wool secondary products gained significance later. Environmental side-effects (erosion, heath, peat) emerged with intensification. (Champion et al. 1984, Ch. 5)
+
 **Domestication as a slow, two-way process.** Domestication was not a single
 invention but a protracted coevolution. "Pre-domestication cultivation" — people
 sowing, tending, and harvesting still-wild plants — preceded morphological
@@ -126,7 +130,7 @@ Anatolia, documented reaching the Levant as early as the late Natufian — see
   [[jericho|Jericho]], 'Ain Ghazal, Göbekli Tepe; and the great Anatolian town of
   [[catalhoyuk|Çatal Hüyük]].
 - **Jomon** (Japan) and **Yayoi** (Japan) cultures *(Cycle 4)*.
-- **Linearbandkeramik (LBK)** — the first farmers of temperate Europe *(Cycle 6)*.
+- **Linearbandkeramik (LBK)** — the first farmers of temperate Europe *(Cycle 6)*. See [[concepts/linearbandkeramik|Linearbandkeramik (LBK)]] for details on loess settlement, longhouses, and colonization model (Champion et al. 1984, Ch. 5).
 - **Starčevo–Criș and Vinča** cultures (central/eastern Balkans) — the
   southeast-European farming sequence documented by [[boardman-cah-v3p1-1982|CAH
   Vol. III, Part 1]] (Garašanin, Dumitrescu), the bridge by which farming reached
@@ -218,6 +222,8 @@ relevant regional pages; later phases (CAH, specialist prehistory in Phase 11)
 will deepen Southwest Asia, Europe, and the Near East but will not match Vol. II's
 breadth for the under-resourced regions. Honest caveat: archaeogenetics and
 residue dating move fast, so specific first-appearance dates here are provisional.
+
+**Champion et al. 1984 (Ch. 1) European contribution:** Foundational post-radiocarbon textbook for the European Neolithic specifically. Explicitly abandons Three Age / culture-historical organization in favour of thematic analysis of settlement, subsistence, exchange and social organization. Documents the radiocarbon lengthening of the Neolithic to "millennia rather than just centuries" and the consequent rethinking of Childean diffusionism. Provides the primary grounding for all European Neolithic pages on adaptive behaviour, site hierarchies, and the inseparability of economy and society. (Champion et al. 1984, Ch.1 / range lines ~390-410, ~95-110, ~510-535)
 
 ## The Neolithic's Long Shadow (Diamond)
 

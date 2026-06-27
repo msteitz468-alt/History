@@ -4,11 +4,11 @@ period_number: 10
 preceded_by: [[[middle-bronze-age|Middle Bronze Age]]]
 followed_by: [[[early-iron-age|Early Iron Age]]]
 date_range: 1,550–1,200 BCE (Near East; regionally variable)
-regions_covered: [near-east, mesopotamia, levant, anatolia, north-africa, iran-plateau, aegean, mediterranean]
+regions_covered: [near-east, mesopotamia, levant, anatolia, north-africa, iran-plateau, aegean, mediterranean, europe, central-europe, western-europe]
 major_themes: [the great-powers system, international diplomacy, chariot warfare, empire, the palace economy, long-distance luxury trade, the Indo-European expansions]
 collection_coverage: strong
-sources_ingested: 3
-last_updated: 2026-06-23
+sources_ingested: 4
+last_updated: 2026-06-26
 tags: [period]
 ---
 
@@ -92,6 +92,8 @@ collapse, c. 1380–1000 BCE) — between them they now cover the period in full
   cultures run to ~1350–1150, when new (probably Iranian-speaking) movements open the
   highland Iron Age.
 
+**Temperate Europe: Urnfield and end of Bronze Age hierarchies (Champion et al. 1984 Ch. 7/transition in range):** From ~1300/1250 BCE (or earlier in east) "a considerable degree of cultural uniformity was established during the final centuries of the second millennium. The most characteristic feature was a new burial rite of urned cremation... the name 'Urnfield'". Hallstatt A–B phases for LBA Urnfield; homogeneity in cylinder-neck pottery, bronze weapons/ornaments/pins, sheet bronze armour/vessels, symbols (sun, birds' heads). Local groups (Lausitz well known for cemeteries and fortified sites). Spread from central Europe/Hungary to west (Italy as Proto-Villanovan, S/W France, NE Spain) by ~1000 BCE or earlier; maintained to ~end 8th c. Northern/western Europe partial adoption. "Connections with the Urnfield world can be seen in the adoption of related sword types..." This marks late phase of [[processes/bronze-age-social-differentiation]] and [[concepts/urnfield-culture|Urnfield Culture]], with elite uniformity persisting amid changes leading to Iron Age. Aegean Mycenaean palaces (Pylos, Knossos Linear B archives showing centralized textile/sheep economy, tribute, land tenure) climax then collapse ~1200 BCE with destructions and severance of contacts; "evidence of Mycenaean contact with the eastern Mediterranean also ceases." (Grounded exclusively in range.) See [[concepts/tumulus-culture]] for preceding MBA.
+
 ## Key Actors
 
 - Empires/states: [[new-kingdom-egypt|New Kingdom Egypt]] · the [[hittites|Hittite
@@ -146,7 +148,7 @@ Iranian grey-ware cultures.
 
 ## Collection Coverage Note
 
-The collection now covers the Late Bronze Age **strongly across its whole span**
+European LBA (Urnfield, Mycenaean contacts/collapse, persistence of prestige hierarchies into Urnfield) strengthened by [[sources/champion-prehistoric-europe-1984|Champion et al., Prehistoric Europe (1984)]] Ch. 7 range. The collection now covers the Late Bronze Age **strongly across its whole span**
 through two Cambridge volumes: **[[edwards-cah-v2p1-1973|CAH Vol. II.1]]** (to c.
 
 **Grounded claims from Budge/Romer (Egyptian Book of the Dead) range lines 1–4500 (2026-06-23)**: "The third compilation, the Book of the Dead, is dated to the five-century-long New Kingdom, which began about 1550 BC, though a few chapters are known that are half a century older." (ll. ~784). "with the beginning of the XVIIIth Dynasty that work enters a new phase of its existence; ... the Recension of the Book of the Dead which we find in common use from the XVIIIth to the XXIInd Dynasty is generally called the Theban Recension." (ll. ~909). "papyri... from about B.C. 1600 to B.C. 900" (ll. ~854). taxonomy: part_of: [[late-bronze-age]] New Kingdom Theban elite religion; produced: Papyrus of Ani (~1250 BCE) hymns/spells. "The Papyrus of Ani... hymns to RĀ and Osiris, and texts referring to the Judgment Scene" (ll. ~860). Updated preserving prior. See [[romer-egyptian-book-of-the-dead-2008]].

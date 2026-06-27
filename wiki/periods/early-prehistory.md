@@ -7,7 +7,7 @@ date_range: "3.3 million–300,000 BP"
 regions_covered: [africa, near-east, europe, east-asia, south-asia]
 major_themes: ["Homo genus evolution", "Oldowan and Acheulean technologies", "Out of Africa 1", "fire management origins", "brain size increase", "Homo heidelbergensis"]
 collection_coverage: moderate
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [period]
 ---
@@ -45,6 +45,28 @@ to approximately 40°N latitude.
 Hand axes and other bifacially worked tools appear, associated with
 *Homo ergaster* and *Homo erectus*. More versatile than Oldowan tools;
 distributed across Africa, Europe, and South/East Asia.
+
+**Lower Palaeolithic Subsistence Evidence in Europe (Champion et al. 1984, Ch. 3)**
+Associations of large mammals such as straight-tusked elephant and rhino with
+stone tools at marsh, lake and stream deposits (Torralba, Bilzingsleben, Hoxne,
+Swanscombe) have led to reconstructions of big-game hunting. The 2.5 m wooden
+spear with fire-hardened point at Lehringen, north Germany, provides
+unambiguous evidence for killing an elephant. "However, the depositional context
+of these finds must not be forgotten and, as we have already seen at Torre in
+Pietra (Piperno and Biddittu, 1978), river sorting can produce comparable results
+to big-game hunting by gathering material together." (Champion et al. 1984, Ch. 3
+/ range lines ~710-730)
+
+Use-wear analysis on lower palaeolithic artifacts from Hoxne and Clacton also
+points to meat and marrow being obtained and eaten. Early colonizers of Europe
+likely used flexible spectra of food management strategies constrained by the
+importance of animal protein for mobile non-food-producing populations in
+northern latitudes, rather than exhibiting dramatic changes unique to big-game
+hunting. "As we learn more about the subsistence strategies of the earliest
+colonizers of Europe, it is most probable that, instead of reconstructing
+dramatic changes in terms of developments in big-game hunting, we shall instead
+see variation in the spectrum of food management strategies..." (Champion et al.
+1984, Ch. 3 / range lines ~750-760)
 
 **Fire management**
 The earliest firm evidence for controlled use of fire by hominins dates from
@@ -123,3 +145,5 @@ and the actual chapters (Chs. 13–17) of this volume, not yet ingested.
 Coverage moderate: architectural sketch from CWH Vol. 1 Introduction.
 Chapters 13–17 of this volume (Part II) and Phase 11 specialist sources will
 substantially expand this page.
+
+**Champion et al. 1984 (Ch. 2 opening) contribution:** Supplies detailed post-radiocarbon treatment of the chronological and climatic frameworks for early European hominins and the sparse fossil record. Deep-sea core V28-238 provides continuous isotope stages with magnetic reversal baseline at 700,000 BP marking lower/middle Pleistocene boundary. "The discontinuous nature of these terrestrial sequences has been further highlighted by the evidence from deep sea cores that do provide a continuous record." Earliest secure European presence placed after ~350,000 BP by absolute dates on fossils; earlier claims (Vallonnet, Isernia) discussed with caution. Fossil material "meagre" compared to East Africa; taxonomic placement (Homo erectus vs. early Homo sapiens) highly contentious. "The few absolute dates for these fossils all indicate that man was present in Europe after 350000 BP." (Champion et al. 1984, Ch.2 / range lines ~1300-1360, ~1800-1815) This source supplies the primary European-specific grounding for the period page's European evidence sections.

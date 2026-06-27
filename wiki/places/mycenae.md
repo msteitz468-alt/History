@@ -41,6 +41,8 @@ the expulsion of the [[hyksos|Hyksos]] from Egypt (Queen Ahhotep's inlaid axe na
 **Ahmose**). Circle A was reverently terraced and enclosed in later Mycenaean times,
 and was still shown as the royal tombs to **Pausanias** ~1700 years later.
 
+**Additional grounding from Champion et al. 1984 Ch. 7 (range):** "Then the Shaft Graves of Mycenae and the tholos tombs (burial chambers with corbelled roofs and long entrance passages) of Peristeria in Messenia, with their rich grave goods... many of them showing Cretan influence in their craftsmanship, indicate the rise of wealthy centres on the Greek mainland... amber... in the Shaft Graves of Mycenae in Greece." Later: palaces at existing citadels and new ones (Pylos in Messenia unifying small units); Linear B archives (deciphered as Greek) detail "the assessment of contributions due to the palace from various localities, details of land tenure, the organization of personnel into work units, and the location of the Pylian army." Knossos (final phase) controlled much of Crete via tribute per tablets. Collapse ~end 13th c.: "Over a period of about 100 years beginning at the end of the thirteenth century BC the mainland centres were destroyed and there was a breakdown of the cultural uniformity in the pottery... evidence of Mycenaean contact with the eastern Mediterranean also ceases." (Champion et al. 1984, pp. 231–236, 1693ff in range.) Amber parallels to temperate Europe prestige graves noted.
+
 ## The citadel (CAH II.2)
 
 Above the graves rose the great **Cyclopean fortress** of the palace age (LH IIIb,

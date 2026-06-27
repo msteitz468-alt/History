@@ -36,10 +36,7 @@ and multi-disciplinary author pool.
 
 **Publication**: Cambridge University Press, 2015. ISBN 978-0-521-76333-2.
 
-**Filed full text**: `raw/1. Prehistory/1. Prehistory/The Cambridge World History/01.
-David Christian - The Cambridge World History, Volume 1. Introducing World
-History, To 10,000 BCE.md` (in the source collection directory `raw/`, per CLAUDE.md;
-converted from PDF via `pdftotext -layout`; original PDF disposed of per ingest workflow).
+**Filed full text**: `raw/1. Prehistory/Cambridge World History/01. David Christian - The Cambridge World History, Volume 1. Introducing World History, To 10,000 BCE.md` (filed to corresponding time-period folder per CLAUDE.md; converted from PDF via `pdftotext -layout`; original PDF disposed of per ingest workflow).
 
 ---
 

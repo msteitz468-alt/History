@@ -166,4 +166,6 @@ deprived thousands of vases of their context.
 - Contact: [[pithecusae]] (Euboean emporion) · trade: [[trade-network-formation]] · writing: [[languages-of-italy]]
 - City-form: [[city-state]] · [[urbanization]] · war: [[hoplite-warfare]] (adopted in the 6th c.)
 - Fall: [[battle-of-himera-480bce]] (Carthage's parallel defeat) · Period: [[archaic-period]]
-- Source: [[boardman-cah-v4-1988]] (Chs. 12–13, Ridgway)
+- Source: [[boardman-cah-v4-1988]] (Chs. 12–13, Ridgway) · [[sources/champion-prehistoric-europe-1984|Champion et al., Prehistoric Europe (1984)]] (Ch. 9-10 refs)
+
+**Grounded from Champion et al. 1984 Ch. 9-10 (R06 range 18501-22500):** New prestige burial rite (inhumation + 4-wheeled vehicle + chamber) "was also practised, as we have already seen in the previous chapter, in Etruscan Italy" (Ch. 9 p. 273). Central Europe "tried to imitate" Mediterranean (Etruscan/Italian) in defences (Heuneburg mud-brick), pottery, fashions. "Central European society was not just influenced by the Mediterranean world" (p. 292). Trade effects "from Russia to Spain"; "first Greek colonies in the west had been in central Italy, which was then assimilated" (p. 293). Temperate transformations "similar to those that had occurred in the Mediterranean region 500 years earlier" (Ch. 10 p. 298). Links to [[processes/urbanization-europe]], [[concepts/hallstatt-culture]] (parallel), [[places/etruria]]. Sources_ingested: 3; last_updated updated.

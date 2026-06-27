@@ -7,7 +7,7 @@ date_range: "300,000–50,000 BP"
 regions_covered: [africa, europe, near-east, east-asia, south-asia]
 major_themes: ["Homo sapiens emergence", "Neanderthals", "Middle Stone Age technologies", "archaic modern humans", "Levant populations", "Homo sapiens-Neanderthal contact", "fire management", "early symbolic behavior"]
 collection_coverage: moderate
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [period]
 ---
@@ -49,6 +49,31 @@ large herbivores (mammoth, woolly rhinoceros). Key behavioral indicators:
   modern linguistic capacity
 - No evidence of sewn clothing or the ability to make fire from scratch
   (though they could maintain fires)
+
+**Middle Palaeolithic Subsistence and Settlement in Europe (Champion et al. 1984)**
+Faunal assemblages from sites such as Combe Grenal show changing proportions of
+reindeer, red deer, bovids and horse interpreted as climatic effects on
+availability within local exploitation territories. "Changes in the relative
+importance through time of reindeer, red deer, bovids and horse bones are thought
+to reflect a combination of climatic factors which led to different proportions
+of these animals being taken from the area around the site." (Champion et al.
+1984, Ch. 3 / range lines ~100-110)
+
+Specific hunting episodes include stampeding at La Cotte de St. Brelade (English
+Channel): layer 3 yielded nine mammoth skulls and woolly rhino remains from a
+small herd of adult females and young driven over a headland. Layer 6 showed
+selected carcass portions cached. Carnivore contributions (cave bear, hyena,
+wolf, lion) must be distinguished at many cave sites; southern European sites
+(e.g. Cantabrian Spain) show fewer such remains, making faunas more directly
+representative of human activity.
+
+Middle Palaeolithic groups showed more limited regional occupation during
+climate deterioration compared with Upper Palaeolithic successors. "the upper
+palaeolithic populations of central and eastern Europe had solved some of the
+problems connected with exploiting ecologically specialized environments caught
+in the grip of the last ice age." (Champion et al. 1984, Ch. 3 / range lines
+~1740-1750) Burials appear (single, flexed, in caves; e.g. Combe Grenal infant
+pit), but grave goods remain ambiguous.
 
 **Levant "False Start" (~125,000–70,000 BP)**
 Modern-looking humans appear in the Levant around 125,000–70,000 BP during a
@@ -115,3 +140,5 @@ or Pacific Islander populations (evidence suggests yes).
 
 Coverage moderate. CWH Vol. 1 Introduction provides framework; actual chapters
 and Phase 11 specialist archaeological sources will transform these stubs.
+
+**Champion et al. 1984 framing (Ch. 1):** This textbook supplies the principal European post-radiocarbon historiographic context for all prehistoric periods. It documents the replacement of culture-historical diffusionism and the Three Age System by thematic analysis of adaptive behaviour, settlement, subsistence and social organization. The radiocarbon revolution "greatly lengthened the time-span of European prehistory" and forced rethinking of all prior models. (Champion et al. 1984, Ch.1 / range lines ~390-410) The source is cited on the relevant European period pages for methodological and interpretive shifts.

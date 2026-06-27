@@ -136,9 +136,5 @@ volumes are ingested.
 
 ## Filing Note
 
-This source is filed in the source collection directory (per CLAUDE.md: "Sources
-live in the collection directory") as converted markdown at
-`raw/1. Prehistory/1. Prehistory/The Cambridge World History/03. Norman Yoffee -
-The Cambridge World History, Volume 3. Early Cities in Comparative Perspective,
-4000 BCE–1200 CE.md` (no PDF to convert or delete). Confirmed on disk; Large-Volume
-Protocol Step 4 satisfied.
+This source is filed in the source collection directory (per CLAUDE.md) as
+`raw/2. Ancient & Classical Civilizations/Cambridge World History/03. Norman Yoffee - The Cambridge World History, Volume 3. Early Cities in Comparative Perspective, 4000 BCE–1200 CE.md` (filed to corresponding time-period folder; no PDF to convert or delete).

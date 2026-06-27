@@ -4,11 +4,11 @@ period_number: 7
 preceded_by: [[[neolithic|Neolithic]]]
 followed_by: [[[early-bronze-age|Early Bronze Age]]]
 date_range: 5,500–3,300 BCE (regionally variable; overlaps Late Neolithic and Early Bronze Age)
-regions_covered: [near-east, mesopotamia, levant, anatolia, iran-plateau, southeast-europe, balkans]
-major_themes: [copper metallurgy, secondary products, craft specialization, proto-urban centers, social differentiation]
+regions_covered: [near-east, mesopotamia, levant, anatolia, iran-plateau, southeast-europe, balkans, china, east-asia]
+major_themes: [copper metallurgy, secondary products, craft specialization, proto-urban centers, social differentiation, clanship and early stratification, walled towns]
 collection_coverage: moderate
-sources_ingested: 3
-last_updated: 2026-06-11
+sources_ingested: 5
+last_updated: 2026-06-26
 tags: [period]
 ---
 
@@ -65,6 +65,12 @@ here, immediately before the urban threshold treated in
 - **Craft specialization and exchange** — pottery, metallurgy, and seal use point
   toward administrative complexity.
 
+**Temperate and Western European Chalcolithic / Early 3rd Millennium Developments (Champion et al. 1984 Ch. 6 range):** Later phases of the period (c. 3200–2300 BCE overlap) saw continued agricultural expansion onto marginal soils, increased forest clearance, and shifts in settlement. In central Europe a more differentiated pattern (nucleated settlements + hamlets) gave way under Corded Ware to dispersed small ephemeral hamlets; SE Europe more nucleated/fortified tells (e.g. Ezero). Flint mining at scale (Grimes Graves, Grand Pressigny, Krzemionki) for axes and large blades. Metallurgy transitioned: earlier SE oxide ores gave way to sulphide ores; local sources exploited in central/western Europe from early 3rd millennium, with marked increase in copper daggers/ornaments during Bell Beaker phase (c. 2500–2200 BCE), when local copper metallurgy reached NW Europe and Britain. Exchange of social-prestige items (not bulk subsistence) embedded in kinship/exogamy networks providing risk-buffering.
+
+The [[concepts/beaker-phenomenon|Beaker Phenomenon]] (and preceding Corded Ware) expressed male status via specific grave goods (battle-axes, beakers, daggers); highly variable — full assemblages mainly NW Europe, elsewhere mostly pottery + metal in local burial contexts. In western Europe may mark "a more radical break and the introduction of a more inegalitarian ideology." Fortified sites widespread but typically small/localized (lineage-head level power); burial differentiation (collective to individual inhumation with goods) signals ranking. In Britain/Iberia (Millaran, Vila Nova de São Pedro) large henge/monumental or fortified centres + rich tombs indicate greater centralization/craft specialization in select areas (e.g. Los Millares, Zambujal). 
+
+Competing models for hierarchy (Gilman capital investment/exploitation; Renfrew redistribution; Halstead social storage via prestige exchange) applied especially to Aegean and western Med; temperate patterns more tied to expansion and kinship reconfiguration. "Of all these different types of materials and artifacts which were the object of exchange, it seems that only a relatively small proportion were immediately utilitarian. The rest were of social rather than practical significance."
+
 ## Key Actors
 
 - Ubaid and Uruk cultural traditions (southern Mesopotamia).
@@ -76,6 +82,8 @@ Historically active: Mesopotamia, the Levant, Anatolia, the Iranian plateau, and
 southeastern Europe / the Balkans. Elsewhere the "Chalcolithic" label is applied
 loosely or not at all; independent metallurgical and urban trajectories in East
 Asia, the Andes, and Mesoamerica follow different chronologies.
+
+**East Asia / China (Longshan and contemporaries, c. 2600–1700 BC):** "Longshan is a generic term covering a number of sub-phases and regional particularities... seven distinct regional variants... of Longshan culture have been identified... Five of the leixing have so far produced nine ‘large’ sites with walls of rammed earth (hangtu), containing large structures indicative of their centrality to some kind of settlement hierarchy... Underhill argues that here in the Huanghe Longshan we are seeing the emergence of complex societies still at the pre-urban chiefdom stage, with towns but not cities." "The Chalcolithic in China has the same key attributes as in the other areas examined. It is characterized by towns and crafts, in contrast to the cities and states of the Bronze Age." Key cultures: Dawenkou-derived Longshan (Yellow River), Liangzhu (lower Yangzi, elite jades, cong/bi, taotie precursors, human sacrifice), Hongshan (NE, jade, early bronze casting ~3500 BC, goddess temples). Clanship and conical lineages already structuring stratification and later state formation. See [[actors/shang-dynasty]], [[concepts/territorial-state]].
 
 ## Transition
 

@@ -48,6 +48,8 @@ Imperial capitals concentrated power, people, and problems. Neo-Assyrian capital
 - **Heterarchy** offers a robust alternative model to Childean despotism, especially visible in Jenne-jeno and Teotihuacan.
 - **Ruralization** is the necessary counterpart of urbanization; cities never stand alone.
 - **Performance and creation** were primary urban functions in many cases, not mere epiphenomena.
+
+**Broader context**: See the wider comparison of early civilizations (including economy, kingship, religion/sacrifice as sociocosmic check, and the city-state vs. territorial state distinction) in [[comparisons/early-civilizations-in-comparative-perspective.md|Early Civilizations in Comparative Perspective]] (Trigger 2003).
 - **Imperial cities** scaled up earlier experiments while introducing new vulnerabilities (disease, migration, environmental overreach).
 
 ## Assessment

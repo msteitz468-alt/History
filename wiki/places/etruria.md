@@ -62,4 +62,6 @@ independence, and with it the Etruscan language and dress.
 - People: [[etruscans]] · the Italian neighbours: [[italic-peoples]] · [[magna-graecia]] · [[rome]]
 - Trade & contact: [[trade-network-formation]] · [[pithecusae]] · writing: [[languages-of-italy]]
 - Process: [[urbanization]] · Period: [[archaic-period]]
-- Source: [[boardman-cah-v4-1988]] (Chs. 12–13, Ridgway)
+- Source: [[boardman-cah-v4-1988]] (Chs. 12–13, Ridgway) · [[sources/champion-prehistoric-europe-1984|Champion et al., Prehistoric Europe (1984)]]
+
+**Grounded from Champion et al. 1984 Ch. 9 (R06):** The new elite vehicle/chamber burial rite of temperate Hallstatt "was also practised, as we have already seen in the previous chapter, in Etruscan Italy, southern France" etc. (p. 273). Mediterranean (incl. Etruria) provided models imitated in temperate (defences, styles); "the first Greek colonies in the west had been in central Italy, which was then assimilated" (p. 293). See [[processes/urbanization-europe]]. Sources_ingested: 2; last_updated updated.

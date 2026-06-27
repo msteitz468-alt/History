@@ -19,6 +19,8 @@ ingested: 2026-06-10
 tags: [source]
 ---
 
+**Filed full text**: `raw/4. Modern Times/Cambridge World History/06. Jerry H. Bentley, Sanjay Subrahmanyam, Merry Wiesner-Hanks - The Cambridge World History, Volume 6 (Complete) (Parts 1 & 2).md` (filed to corresponding time-period folder per CLAUDE.md).
+
 # The Cambridge World History, Volume VI — The Construction of a Global World, 1400–1800 CE (Book 2)
 
 ## Series Note

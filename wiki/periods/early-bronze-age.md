@@ -4,11 +4,11 @@ period_number: 8
 preceded_by: [[[chalcolithic|Chalcolithic]]]
 followed_by: [[[middle-bronze-age|Middle Bronze Age]]]
 date_range: 3,300–2,100 BCE (Near East; regionally variable)
-regions_covered: [mesopotamia, near-east, levant, anatolia, north-africa, south-asia, aegean]
+regions_covered: [mesopotamia, near-east, levant, anatolia, north-africa, south-asia, aegean, china, east-asia, europe, western-europe, central-europe]
 major_themes: [first cities, state formation, writing, bronze metallurgy, city-states, kingship]
 collection_coverage: moderate
-sources_ingested: 6
-last_updated: 2026-06-23
+sources_ingested: 8
+last_updated: 2026-06-26
 tags: [period]
 ---
 
@@ -92,6 +92,8 @@ Yoffee (2005) emphasizes that early Mesopotamia was a land of **city-states** (n
   Amorite pressure that would soon end the Akkadian and Ur III states —
   associated by some with the **4.2-kiloyear** climatic event.
 
+**Temperate and Mediterranean Europe (Champion et al. 1984, Ch. 7 range):** Parallel but independent trajectories of social differentiation and prestige economies. In Wessex (southern Britain) and Brittany, post-Beaker single-grave round barrow burials with rich goods (gold plates, daggers, amber, mace-heads e.g. Bush Barrow) mark the shift from "group-oriented" to "individualizing" chiefdoms c. 2300–1500 BCE. In central Europe (Unetice/Únětice in Bohemia and Elbe-Saale), rich burials with sophisticated craft items and long-distance exotica (Leubingen, Helmsdorf) appear ~2100–1800 BCE amid growing hierarchies tied to metal sources. Small communities (<100) showed leading families and status differentiation (esp. female costumes in Slovakia cemeteries like Branč); by ~1800 BCE fortified regional centres ("acropolis") with craft production (Vesele, Nitriansky Hradok, Male Kosihy). Tin-bronze industry emerges ~2000 BCE from Bohemian sources, enabling complex prestige weapons via two-piece moulds. Amber (Baltic) exchanged widely and deposited in richest graves. "hierarchies had now arisen in central Europe which resembled their contemporaries in such regions as Wessex and Brittany in that rituals involving the possession and consumption of prestige goods were very much part of their operation." (p. 212). Metallurgy control and interregional prestige networks key drivers (see [[processes/bronze-age-social-differentiation]]). [[concepts/tumulus-culture|Tumulus Culture]] and [[concepts/urnfield-culture|Urnfield Culture]] emerge from these processes. Contrasts with more stable/isolated central-western Mediterranean sequences (Argaric in SE Spain: individual jar burials, metal emphasis near copper sources). Aegean sees Minoan palaces (Knossos etc.) as "early state modules" beyond chiefdoms. Mycenaean rise on mainland visible in Shaft Graves with amber parallels. Not dependent on Near Eastern diffusion (contra Childe); convergence of local trajectories with elite interaction. (Grounded exclusively in Champion et al. 1984 Ch. 7 range lines 14801–18500.)
+
 ## Key Actors
 
 - Sumerian city-states (Uruk, Ur, Lagash, Kish, Nippur); the Akkadian Empire.
@@ -102,7 +104,21 @@ Yoffee (2005) emphasizes that early Mesopotamia was a land of **city-states** (n
 
 Historically active: Mesopotamia (the urban heartland), Egypt, the Levant,
 Anatolia, the Iranian plateau, the Indus valley, and the Aegean. Independent
-urban trajectories elsewhere (China, the Americas) belong to later millennia.
+urban trajectories elsewhere (China, the Americas) belong to later millennia; China's Three Dynasties (Erlitou/Xia–Shang–Zhou) fall squarely here.
+
+**China (San Dai / Three Dynasties, c. 2000–771 BC):** Earliest state-level civilization here "the latest of the seminal cultural centres to produce the state." Possible Xia at Erlitou (Henan; palaces ~108x100 m compound, early cast bronzes, scapulimancy without script; radiocarbon ~1800–2100 BC). Shang capitals at Zhengzhou (early, massive walls + huge fang ding) and Anyang/Yinxu (late, 24 km² dispersed district, 11 royal tombs at Xibeigang, oracle-bone archive, no enclosing walls). Western Zhou continued dispersed lineage-based territorial states (guo of yi towns) with capitals at Feng/Hao then Luoyang. "A state, guo, consisted of a network of towns, yi, under a royal capital, du." Walled towns founded by political fiat; bronze primarily for ritual/weapons, not agriculture. See [[actors/shang-dynasty]], [[places/anyang]], [[concepts/territorial-state]].
+
+**Temperate and Western European Early Bronze Age (from Champion et al. 1984 Ch. 6 / early Ch. 7 framing):** In temperate Europe the "early Bronze Age" (c. 2300/2200–1800/1500 BCE locally) follows directly from Beaker traditions for western bronze industries. Bell Beaker short-lived; local cups/bowls continue to form Unetice-like zones of similarity. True tin-bronze and new weapon/ornament types appear ~2000 BCE onward (earlier copper only). In central Europe Tumulus culture (barrows) follows; western areas show blurred chronologies with Beakers persisting locally longer. Southern Scandinavia (no local metal) imports heavily; its "Dagger Age" flint imitations of metal precede full Nordic Bronze Age (Montelius periods).
+
+Wessex (southern Britain): post-c. 2000 BCE decline of large monument building (except continued activity/altered at Stonehenge); appearance of rich individual burials with exotic goods ("Wessex culture"). "the rich Wessex burials represent" the prestige-goods reorientation. Field systems appear by c. 1800 BCE in response to marginal soil retreat. Horse (domesticated earlier on steppes) regular in settlements by EBA; possible status symbol (decorated cheek-pieces); wool/textiles important for exchange/prestige (spindle whorls, loom weights at fortified sites).
+
+Settlement: continued expansion onto marginal soils then retrenchment ~1500–1200 BCE to core arable (heathland formation from exhaustion). In east (Carpathian Basin) tells occupied long-term (e.g. Toszeg); hoards rich. Fortifications disappear in west/north-west dispersed zones early in period.
+
+Social: prestige goods (weapons, ornaments) key to chiefly ranking; control of production/exchange (metal, textiles, horses) basis of power. "the growth of specialist craftsmanship developed hand-in-hand with the hierarchies it served, but was particularly intimately linked with the growth of metallurgy."
+
+Aegean/Western Med (overlap with Chalcolithic framing): complex chiefdoms by end EBA2 with palaces precursors (Lerna House of Tiles), rich hoards (Troy II), tin-bronze. Iberian Argaric follows Vila Nova/Millaran. Models of social storage and capital investment (olive/vine) continue to explain differentiation in unstable environments. 
+
+**Historiography note from source:** Radiocarbon + calibration overturned old Aegean-diffusion models for European bronze origins (Childe's demand-driven model from East Med); central European bronze industries predate Mycenaean. "Far more radiocarbon dates are needed." Absolute chronology critical to validate processual explanations over diffusion.
 
 ## Transition
 
@@ -133,7 +149,7 @@ of ritual vs economy as the driver of aggregation.
 strong coverage awaits the Cambridge Ancient History (Phase 2) and dedicated
 Mesopotamia/Egypt monographs (Phases 7–8). This page is anchored to CWH III's
 urban material and should be read as a spine entry to be deepened, not a complete
-overview.
+overview. European Bronze Age coverage (temperate chiefly societies, prestige goods, metallurgy, Unetice/Tumulus/Wessex, Argaric) is now strengthened by [[sources/champion-prehistoric-europe-1984|Champion et al., Prehistoric Europe (1984)]] Ch. 7 (see also [[processes/bronze-age-social-differentiation]]).
 
 ## Related
 

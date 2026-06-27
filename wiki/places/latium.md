@@ -48,6 +48,8 @@ The Latin-speaking peoples of Latium shared a common **Latial culture** with the
 Etruscans of southern Etruria (Veii, Vulci, Tarquinii) despite different
 languages. Their military development was parallel: hoplite warfare appears in
 both areas from c. 630 BCE. The Tiber was not an ethnic boundary — Rome was
+
+**Grounded temperate/Med interaction from Champion et al. 1984 Ch. 9-10 (R06):** Etruscan practices (vehicle burials) and Mediterranean models (defences, styles) influenced or paralleled by temperate; "first Greek colonies in the west had been in central Italy, which was then assimilated" (p. 293); transformations in temperate "similar to those that had occurred in the Mediterranean region 500 years earlier" (p. 298). See [[actors/etruscans]], [[concepts/latial-culture]], [[processes/urbanization-europe]]. Sources_ingested: 2; last_updated updated.
 permeated by Etruscan influence and by Etruscan settlers throughout the Archaic
 period.
 

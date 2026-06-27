@@ -29,6 +29,8 @@ ingested: 2026-06-10
 tags: [source]
 ---
 
+**Filed full text**: `raw/3. Middle Ages/Cambridge World History/05. Benjamin Z. Kedar, Merry Wiesner-Hanks - The Cambridge World History Volume 5, Expanding Webs of Exchange and Conflict, 500CE–1500CE.md` (filed to corresponding time-period folder per CLAUDE.md).
+
 # The Cambridge World History, Volume V: Expanding Webs of Exchange and Conflict, 500 CE–1500 CE
 
 **Editors:** Benjamin Z. Kedar (Hebrew University of Jerusalem; crusades and

@@ -150,4 +150,6 @@ Roman historical tradition.
 - Actor: [[m-furius-camillus]] · [[roman-republic]] · [[etruscans]]
 - Place: [[rome]] · [[etruria]] · [[latium]]
 - Process: [[roman-expansion-italy]]
-- Source: [[walbank-cah-v7-2-1989]] (Chs. 6–7, Cornell)
+- Source: [[walbank-cah-v7-2-1989]] (Chs. 6–7, Cornell) · [[sources/champion-prehistoric-europe-1984|Champion et al., Prehistoric Europe (1984)]]
+
+**Grounded from Champion et al. 1984 Ch. 9 (R06):** As Etruscan centre, Veii context part of the Mediterranean practices (vehicle burials etc.) referenced as "practised... in Etruscan Italy" (p. 273); part of the model for temperate imitation and the "Mediterranean region 500 years earlier" transformations (Ch. 10 p. 298). Sources_ingested: 2; last_updated updated. Links added to [[processes/urbanization-europe]].

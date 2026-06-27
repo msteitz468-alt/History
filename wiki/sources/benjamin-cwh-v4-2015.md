@@ -24,6 +24,8 @@ ingested: 2026-06-10
 tags: [source]
 ---
 
+**Filed full text**: `raw/2. Ancient & Classical Civilizations/Cambridge World History/04. Craig Benjamin - The Cambridge World History, Volume 4. A World with States, Empires and Networks 1200 BCE–900 CE.md` (filed to corresponding time-period folder per CLAUDE.md).
+
 # The Cambridge World History, Volume IV: A World with States, Empires, and Networks, 1200 BCE–900 CE
 
 **Editor:** Craig Benjamin (Professor of History, Frederik J. Meijer Honors College,

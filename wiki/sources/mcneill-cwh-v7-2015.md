@@ -22,6 +22,8 @@ ingested: 2026-06-10
 tags: [source]
 ---
 
+**Filed full text**: `raw/4. Modern Times/Cambridge World History/07. J. R. McNeill, Kenneth Pomeranz - The Cambridge World History, Volume 7 (Complete) (Parts 1 & 2).md` (filed to corresponding time-period folder per CLAUDE.md).
+
 # The Cambridge World History, Volume VII — Production, Destruction, and Connection, 1750–Present (Book 1)
 
 ## Series Note

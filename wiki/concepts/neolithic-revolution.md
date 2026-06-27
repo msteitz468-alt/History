@@ -75,6 +75,8 @@ core Childean insight — that food production was a world-historical threshold
 with cascading demographic and social consequences — remains intact. The wiki
 uses "Neolithic" as a labelled convenience while flagging the slippage above.
 
+**European evidence (Champion et al. 1984):** The transition was not a simple package adoption. "the establishment of more sedentary settlements before the emergence of domesticated animals and cereals both of which had undergone morphological change (as at Mureybit or Tell Abu Hureyra... and the early creation of substantial settlements like Jericho." In Europe the shift involved parallel adaptation: "the emergence of new resources and novel methods... can be seen from the European perspective not just as a foreign, isolated process but as a parallel one of adaptation to changing conditions." Social factors may have driven uptake: "It was suggested in Chapter 4 that one motive for a shift to agricultural production in the first place may have come from social conditions of emulation or status-seeking through the provision of food." The "package" decoupled in practice (e.g. cattle domestication criteria earlier in Greece than Near East in some views). (Champion et al. 1984, Ch. 5 pp.120-121, 147 / range cache ~300, 2380)
+
 ## Related
 
 - Period: [[neolithic]], [[mesolithic]]

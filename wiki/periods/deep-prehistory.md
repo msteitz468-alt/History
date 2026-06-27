@@ -7,7 +7,7 @@ date_range: "before 3.3 million BP"
 regions_covered: [africa, global]
 major_themes: ["hominin evolution", "bipedalism", "australopithecines", "pre-stone-tool hominins"]
 collection_coverage: weak
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-06-13
 tags: [period]
 ---
@@ -109,3 +109,13 @@ coverage. The **[[cambridge-history-of-africa-v1|Cambridge History of Africa, Vo
 evolution of the African Hominidae** — Africa as the hearth of human evolution — though,
 like CAH I, its hominin taxonomy and dating predate the major late-20th- and 21st-century
 discoveries.
+
+**Note on later geological frameworks (from Champion et al. 1984 Ch. 3):** The
+European record employs local sequences (e.g., Riss III, Würm I/II at Combe
+Grenal) correlated with broader climatic and environmental reconstructions. No
+direct deep-prehistory claims arise in the assigned range, but the methodological
+emphasis on pollen, faunal change and site catchment applies foundationally to
+interpreting the entire Pleistocene record. (Champion et al. 1984, Ch. 3 / range
+lines ~190-210, ~710-760)
+
+**Champion et al. 1984 contribution (Ch. 1–2 opening):** Provides explicit post-radiocarbon methodological framing for the entire European prehistoric sequence and the opening treatment of earliest human presence in Europe. The authors stress the shift from geological/typological frameworks to absolute dating (deep-sea cores, magnetic reversals at 700,000 BP, radiocarbon) and from culture-historical to adaptive-behaviour/systems explanations. "The aims of palaeolithic... research are to document the earliest societies in Europe and answer that basic archaeological question, 'why do human cultures change?'." Frameworks now rest on "the continuous record of pleistocene events that is recorded in the deep sea ocean cores." (Champion et al. 1984, Ch.1–2 / range lines ~1050-1075, ~1025-1035) Collection coverage for earliest Europe now moderate from this source; Africa remains the primary locus for Deep Prehistory proper.

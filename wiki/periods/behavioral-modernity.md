@@ -7,7 +7,7 @@ date_range: "50,000–12,000 BP"
 regions_covered: [africa, europe, near-east, east-asia, south-asia, southeast-asia, australia, north-america, andes, amazonia, eastern-north-america]
 major_themes: ["Out of Africa 2 dispersal", "global colonization", "Neanderthal extinction", "Late Glacial Maximum", "cave art and symbolic culture", "Paleolithic lifeways", "climate and human migration", "Clovis culture", "megafaunal extinctions", "Natufian culture and pre-agriculture"]
 collection_coverage: strong
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-10
 tags: [period]
 ---
@@ -114,6 +114,84 @@ Notably, modern humans retained their **tropical anatomy** (elongated forelimbs)
 for thousands of years at high latitudes — technology "buffered" them from cold
 selection pressure, exposing them to higher risk of frostbite/hypothermia and to
 fuel shortage in the treeless coldest zones.
+
+### European Upper Palaeolithic Subsistence, Settlement and Social Organization (Champion et al. 1984, Ch. 3)
+
+Champion, Gamble, Shennan & Whittle provide a detailed thematic treatment of
+Palaeolithic adaptations grounded in site catchment analysis, settlement systems
+and the explosion of symbolically organized behaviour after ~35,000 BP.
+
+**Site Catchment and Home Base Models**
+Foraging radius of two hours walking time (~10 km) represented a critical cost
+threshold beyond which returns diminished rapidly. The site exploitation
+territory was the area regularly exploited from a home base. "The model is based
+on the ethnographic observation that foraging radius of two hours walking time,
+about 10 km, represents a critical cost threshold." (Champion et al. 1984, Ch. 3 /
+range lines ~60-70)
+
+Examples include Mt. Carmel caves (5 km radius analysis showing swamp/forest/dry
+uplands habitats) and Combe Grenal. Central locations in resource-rich areas
+(e.g., Swabian Alb southern plateau) minimized costs for exploiting mixed
+herbivore herds.
+
+**Collector vs Forager Strategies (Binford)**
+Collector (logistical) strategies, typical where animals were staple, involved
+planning, field camps, stations and caches; resources moved to consumers.
+Forager strategies moved consumers to resources daily within a foraging radius.
+Palaeolithic Europe, especially last glacial, leaned toward the collector end.
+Storage of meat (identified via bone assemblages reflecting stores rather than
+kill seasons) introduced flexibility. Reinterpretation of Bouchud's reindeer
+mandible data from SW France caves shows apparent year-round occupation could
+result from repeated visits using different stores.
+
+**Site Organization and Features**
+Hearth arrangements and bone structures (e.g., Abri Pataud row of five hearths
+spaced 2 m; Molodova I 8×6 m oval of mammoth skulls/long bones with 15 hearths,
+Mousterian; Pincevent arcs of debris around hearths; Mezhirich ~5 m² circular
+mammoth-bone wall with 35 tusks as roof supports) reflect practical use of space,
+windbreaks and repeated occupation rather than always elaborate architecture.
+"The substantial size of the hearths indicates that this shelter was re-used in
+this manner on many occasions." (Champion et al. 1984, Ch. 3 / range lines
+~890-900 for Abri Pataud)
+
+**Hunting Episodes**
+Specific activities isolated even in palimpsest sites: La Cotte (English Channel)
+layer 3 bone pile (nine mammoth skulls, woolly rhino) from stampeding a small
+herd of adult females and young over a headland; layer 6 selected portions
+cached after primary butchery elsewhere. "The pile in layer 3 resulted from the
+middle palaeolithic hunters stampeding the mammoths and rhinos over the
+headland..." (Champion et al. 1984, Ch. 3 / range lines ~1010-1020). Weinberg caves
+(Mauern, Germany) cached butchered mammoth backbone segments.
+
+**Art, Display and Social Networks**
+After ~35,000 BP, burials (more numerous, multiple, with clear ornaments e.g.
+Sunghir boys with mammoth-ivory spears; adult covered in thousands of sewn ivory
+beads), Venus figurines (Pyrenees to Don, 25–23k BP, exaggerated proportions,
+shared stylistic rules at Abri Laussel, Dolní Věstonice), engraved slabs (La
+Marche, Gönnersdorf), sculpted friezes (Abri Cap Blanc), and cave art (Pech
+Merle with Leroi-Gourhan sanctuaries, male/female pairings, quadrangular signs)
+mark symbolic behaviour for display, information exchange and integration of
+dispersed populations. "The similarity in design points to a common set of
+stylistic rules and conventions in a shared system of communication." (Champion
+et al. 1984, Ch. 3 / range lines ~1550-1560)
+
+Raw material transfers (Holy Cross chocolate flint up to 400 km in late Dryas;
+obsidian; fossil shells Black Sea to Kostienki 450 km) trace extensive networks.
+These served as "safety net" via alliance networks (kinship, marriage exchange,
+trade) essential for high-risk glacial environments: "The ties established
+through kinship, the exchange of marriage partners, trade and many other means
+gave any individual or local group a form of insurance policy..." (Champion et
+al. 1984, Ch. 3 / range lines ~1810-1820)
+
+Upper Palaeolithic populations occupied central/eastern Europe during extreme
+conditions where Middle Palaeolithic (Neanderthal) groups had abandoned regions,
+reflecting restructuring of alliances and symbolically organized behaviour rather
+than single technological breakthroughs or innate superiority.
+
+**Grounding overall**: "The appearance of these elements—burials, display,
+painted caves, raw material transfers—after 35 000 BP all strongly suggest some
+major changes in palaeolithic adaptations." (Champion et al. 1984, Ch. 3 / range
+lines ~1710-1720)
 
 ### Paleolithic Lifeways
 
@@ -282,3 +360,5 @@ will substantially deepen this page's historiography and regional detail.
 Strong: this period is the primary subject of CWH Vol. 1, Part II. The
 Introduction provides a strong structural overview; chapters 13–19 will
 add regional depth. Phase 11 specialist sources will add further.
+
+**Champion et al. 1984 (Ch. 1–2) European framing:** Supplies detailed treatment of the transition to Upper Palaeolithic ~35k BP (blade technology, bone tools, art) and the shift to adaptive-behaviour/systems explanations that apply across the European sequence, including the behavioural modernity threshold. "The term upper palaeolithic embraces a very wide range of different regional traditions..." with emphasis on planning, hafting, and curated technologies. (Champion et al. 1984, Ch.2 / range lines ~3335-3345, ~2680-2685) Grounding for European Upper Palaeolithic sections.
