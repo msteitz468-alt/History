@@ -9,8 +9,8 @@ affiliated_with: ["the Timurid/Turkish dynasty", "Persianate Islamic culture", "
 opposed_by: ["the Afghan/Lodi and Sur dynasties", "the [[rajputs|Rajputs]] (until co-opted)", "the [[maratha-empire|Marathas]], Sikhs, and ultimately the [[english-east-india-company|English]]"]
 key_events: ["the first battle of Panipat (1526)", "Akbar's reign (1556–1605)", "Aurangzeb's reign (1658–1707)", "the post-1707 decline"]
 key_processes: ["[[state-formation]]", "[[indian-ocean-trade]]", "Indo-Persian cultural synthesis"]
-sources_ingested: 2
-last_updated: 2026-06-14
+sources_ingested: 3
+last_updated: 2026-06-27
 tags: [actor, empire, early-modern, south-asia, islamic-world]
 ---
 
@@ -98,6 +98,21 @@ Shah's sack of Delhi (1739), the rise of autonomous successor states (Hyderabad,
 the Marathas — leaving the throne a shadow that the [[english-east-india-company|English East India
 Company]] would inherit. (CHI Vol. IV is a dated 1937 reference, read against the modern
 [[spear-history-of-india-v2-1965|Spear]] account.)
+
+## The Empire and the Companies (Clulow & Mostert)
+
+[[clulow-mostert-dutch-english-east-india-companies-2018|Clulow & Mostert (2018)]]
+recover the long era when the Mughals set the terms for the European companies, not
+the reverse. In [[bengal]], company trade rested on **provincial decrees** more than
+imperial farmans, and powerful subahdars (Shah Shuja, Mir Jumla, Shaista Khan)
+**co-opted European naval power**, extorting ships and cannon during the 1657–59
+succession war and for the Chittagong campaign — a pattern paralleled in
+[[safavid-empire|Safavid Iran]], [[tokugawa-shogunate|Tokugawa Japan]], and Qing
+China, and institutionalised in Aurangzeb's convoying duties (1690s–1700s). At
+[[surat]], Mughal authorities welcomed the companies for their customs revenue while
+the empire's merchant-financiers held the upper hand through the
+[[surat-merchant-brokerage|brokerage system]]. Only with Mughal decline did the
+[[english-east-india-company|EIC]] convert commerce into territorial power.
 
 ## Related pages
 

@@ -8,7 +8,7 @@ region: [indian-ocean, south-asia, southeast-asia, near-east, arabian-peninsula,
 process_type: economic
 driven_by: ["the monsoon wind system", "local fishing and sailing communities", "Hindu, Muslim, Buddhist, and Jewish merchant institutions", "South Indian merchant guilds", "the demand of the Chinese and Islamic 'engines'", [[afro-eurasian-world-system]]]
 produces: ["a poly-religious maritime trading world", "the Islamization of coastal Southeast Asia and East Africa", "the Swahili and Gujarati port cities", "cross-cultural transmission of goods, faiths, and ideas"]
-sources_ingested: 7
+sources_ingested: 8
 last_updated: 2026-06-27
 tags: [process, early-middle-ages, high-middle-ages, late-middle-ages, early-modern, long-19th-century, contemporary, indian-ocean]
 ---
@@ -172,3 +172,20 @@ Redden cautions that aggregate *transregional* value may have been only "a fract
 intra-regional exchange even so. The third-century downturn — no Roman coins at Indian
 sites, the abandonment of Myos Hormos — marks the maritime side of the
 [[collapse-of-first-silk-roads-era-250|collapse of the First Silk Roads Era]].
+
+## The Companies Inside the Asian Trading World (Clulow & Mostert 2018)
+
+[[clulow-mostert-dutch-english-east-india-companies-2018|Clulow & Mostert (2018)]]
+argue that the [[dutch-east-india-company|VOC]] and [[english-east-india-company|EIC]]
+entered this ocean as **interlopers who adapted to, rather than overturned, its
+existing structures**. The companies depended on Indian merchant capital and brokers
+(see [[surat]] and [[surat-merchant-brokerage]]), on Asian rulers who co-opted their
+naval power ([[nader-shah|Nader Shah's]] Gulf fleet; Mughal [[bengal]]; the
+[[tokugawa-shogunate|Tokugawa]]), and on indigenous demand invisible to European
+records (the Gujarat–East Africa **ivory-for-textiles circuit**). Tonio Andrade's
+epilogue traces the historiographical swing toward this "Asian resilience" reading —
+the [[european-exceptionalism-early-modern-asia|exceptionalism debate]] — noting that
+the Zheng family of Fujian out-earned the entire VOC and that indigenous networks
+"continued to operate alongside VOC ones." Where the companies *did* impose
+monopoly — the [[banda-conquest-1621|nutmeg islands]] — they did so by extreme
+violence, not commercial superiority.

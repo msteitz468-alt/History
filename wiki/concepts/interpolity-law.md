@@ -5,8 +5,8 @@ origin: Articulated by Lauren Benton & Adam Clulow (CWH VI, 2015), revising C. H
 applies_to_periods: [Early Modern, Age of Expansion]
 applies_to_regions: [global, indian-ocean, southeast-asia, atlantic-world, near-east, east-asia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept]
 ---
 
@@ -85,6 +85,26 @@ and territorial sovereignty that emerged is the world of modern
 [[mcneill-cwh-v7-2015|CWH VII]]. Benton & Clulow's recovery of early modern
 jurisdictional plurality is a deliberate counterpoint to that tidy Westphalian
 narrative.
+
+## Treaties as Instruments of Dispossession (van Ittersum)
+
+Martine van Ittersum's chapter in
+[[clulow-mostert-dutch-english-east-india-companies-2018|Clulow & Mostert (2018)]]
+presses a darker reading of early modern treaty-making against the "indigenous
+agency" optimism. Treaties were "integral to the process of European possession and
+indigenous dispossession," not equal agreements: "the modern notion of equal treaties
+was totally unknown to Europeans in the early modern period." The [[dutch-east-india-company|VOC]]
+and WIC, as company-states with delegated sovereign power (the WIC charter of 1621
+authorised "contracts, agreements and alliances with the princes and natives of the
+land"), used treaties two ways — exclusive-supply contracts to force monopoly
+(culminating in the [[banda-conquest-1621|conquest of Banda, 1621]]) and land
+deeds/protection arrangements (the Hudson Valley). Indigenous groups did use treaties
+instrumentally (the Bandanese signed EIC treaties to resist the Dutch), but
+van Ittersum warns against "freighting these documents with meanings that may not have
+existed when they were signed." She also cautions on sources: the supposed 1613
+Tawagonshi treaty is "in all likelihood" a twentieth-century forgery. This is a
+pointed counter to the more reciprocal picture of interpolity practice above — see
+[[european-exceptionalism-early-modern-asia]].
 
 ## Significance and Limits
 

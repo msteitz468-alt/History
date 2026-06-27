@@ -9,8 +9,8 @@ affiliated_with: [the English (later British) Crown and Parliament]
 opposed_by: [Dutch East India Company, Portuguese Estado da India, French Compagnie des Indes, Mughal successor states, Mysore (Tipu Sultan)]
 key_events: [chartering (1600), first joint-stock for multiple voyages (1613), restructurings (1657, 1693, 1709), conquest of Bengal (from 1757), defeat of Tipu Sultan (1799)]
 key_processes: [early-modern-commerce, indian-ocean-trade, global-silver-trade]
-sources_ingested: 3
-last_updated: 2026-06-14
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [actor, organization, early-modern, south-asia]
 ---
 
@@ -95,6 +95,30 @@ European goods, the companies paid for their purchases by **shipping bullion eas
 (see [[global-silver-trade]]) — the EIC's exports of silver being precisely the
 "means of payment" problem that later drove the British turn to opium and cotton
 import-substitution.
+
+## The Company in Asia before conquest (Clulow & Mostert)
+
+[[clulow-mostert-dutch-english-east-india-companies-2018|Clulow & Mostert (2018)]]
+study the EIC and [[dutch-east-india-company|VOC]] **as a pair**, recovering the long
+period when the English were interlopers adapting to powerful Asian states, not yet
+conquerors:
+
+- **Provincial diplomacy.** In Mughal [[bengal]], EIC privileges rested on
+  **provincial decrees** (Ralph Cartwright's 1633 mission to the nawab of Orissa),
+  not imperial farmans — van Meersbergen's corrective to the Thomas-Roe-centric story.
+- **Dependence on Indian merchants.** At [[surat]] — "the first foothold for the
+  Company in India" — the EIC depended on the [[surat-merchant-brokerage|Parekh broker
+  dynasty]] and creditors like Virji Vora, who "must not bee displeased in any case"
+  (1643). The EIC took the Surat castle in 1759 yet never escaped its brokers.
+- **Failure in Japan.** The EIC's [[japan]] outpost lasted only a decade (to 1623);
+  its 1673 attempt to reopen trade (the *Return*) failed because the shogun read
+  Charles II's letter as a mere commercial petition and distrusted EIC compliance with
+  anti-Christian rules.
+- **Navy for hire in Persia.** Under [[nader-shah|Nader Shah]] (1734–47) the EIC was
+  coerced into serving as a **navy for hire** in the Persian Gulf — selling and
+  chartering ships to build a Persian fleet — its old "carte blanche" to issue passes
+  and fire on shipping revoked by a determined land empire (see
+  [[european-exceptionalism-early-modern-asia]]).
 
 ## Historiography
 

@@ -7,8 +7,8 @@ period_active: [Behavioral Modernity, Neolithic, Classical Antiquity, Late Antiq
 controlled_by: ["the [[yamato-japan|Yamato]] court & imperial line", "the [[fujiwara-clan|Fujiwara]] regents", "the warrior shogunates (Kamakura, Ashikaga, Tokugawa)", "the modern Meiji state"]
 events_here: [[[taika-reform-645]], the building of Nara (710) & Heian/Kyoto (794)]
 processes_here: [[[state-formation]], [[shinto]], [[japanese-buddhism]], [[east-asian-cultural-sphere|adoption of Chinese statecraft]]]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [place, japan, east-asia]
 ---
 
@@ -69,6 +69,19 @@ independent high civilization, the only non-Western society to industrialize and
 a great power in the nineteenth century, and the Axis power whose defeat in 1945 reshaped
 the Pacific. Its history is the wiki's primary case of **selective cultural borrowing**
 within the [[east-asian-cultural-sphere|East Asian cultural sphere]].
+
+## The Companies and Tokugawa Japan (Clulow & Mostert)
+
+[[clulow-mostert-dutch-english-east-india-companies-2018|Clulow & Mostert (2018)]]
+treat early modern Japan as a place where the European companies were emphatically
+subordinate. The [[english-east-india-company|EIC]]'s Hirado outpost lasted only a
+decade (to 1623); the [[dutch-east-india-company|VOC]] survived by accepting
+**"pseudo-subject"** status — confined to Deshima, supplying foreign intelligence
+(*fūsetsugaki*) and trading via the Nagasaki *kaisho* through contracts, not treaties.
+Its sole military service was lending the ship *De Rijp* at the Shimabara rebellion
+(1637–38). The [[tokugawa-shogunate]], meanwhile, controlled its own subjects abroad
+and **banned the export of Japanese soldiers and weapons in 1621**, ending the VOC's
+recruitment of Japanese mercenaries (see [[banda-conquest-1621]]).
 
 ## Collection Coverage Note
 

@@ -9,8 +9,8 @@ affiliated_with: [the Safavid dynasty, the Qizilbash, Twelver [[shia-islam|Shi'i
 opposed_by: [the [[ottoman-empire|Ottoman Empire]], the Uzbeks, the [[mughal-empire|Mughals]] (rivalry)]
 key_events: [Ismail I's conquest 1501, the establishment of Twelver Shi'ism as state religion, the reign of Shah Abbas I (1588–1629), the building of Isfahan, the Afghan sack of Isfahan 1722]
 key_processes: [[[gunpowder-empires]], the Shi'i transformation of Iran, [[sufism|Sufi]]-to-state evolution]
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, state, early-modern, age-of-expansion, iran-plateau, near-east, islamic-world]
 ---
 
@@ -28,3 +28,15 @@ Persianate art and architecture. The empire declined through the seventeenth cen
 Afghan invaders sacked Isfahan in 1722.
 
 > Scaffold page for [[hodgson-venture-of-islam-v3-1974|Venture of Islam, Vol. 3]] ingest.
+
+## Collapse and the Afsharid Aftermath
+
+The **1722 Afghan sack of Isfahan** made Persia "the nexus of a complex struggle"
+among the Ottomans, Russia, pro-Safavid restorationists, and the Hotaki Afghans
+([[clulow-mostert-dutch-english-east-india-companies-2018|Clulow & Mostert 2018]],
+ch. 8). The Afshar general [[nader-shah|Nader Shah]] restored order as regent for the
+puppet shahs Tahmasp II (r. 1729–32) and the infant **Abbas III** (r. 1732–36 — the
+last Safavid) before proclaiming himself shah in 1736, ending the dynasty. From the
+early seventeenth century the [[english-east-india-company|EIC]] had carried Safavid
+embassies (a practice begun under Shah Abbas I), broadening Persian diplomatic reach
+beyond the Kandahar overland route.

@@ -9,8 +9,8 @@ affiliated_with: [the Dutch Republic (States General), Amsterdam stock market]
 opposed_by: [Portuguese Estado da India, English East India Company, Asian states resisting monopoly (Banda, Ternate, Mataram)]
 key_events: [Banda massacre (1621), expulsion of the Portuguese from Japan and Taiwan, founding of Batavia (1619)]
 key_processes: [early-modern-commerce, indian-ocean-trade, global-silver-trade, plantation-economy]
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-06-27
 tags: [actor, organization, early-modern, indian-ocean]
 ---
 
@@ -96,3 +96,31 @@ monopoly on cloth, opium, rice, and sugar and the cession of the north-coast por
 trade was so central to Southeast Asia, the crisis the VOC engineered there was **far more permanent**
 than the parallel crisis in Europe — part of what Reid calls the "[[seventeenth-century-general-crisis|origins
 of Southeast Asian poverty]]," and the threshold of the colonial era in the [[southeast-asia|region]].
+
+## "Powerful on the waves but weak on land" (Clulow & Mostert)
+
+[[clulow-mostert-dutch-english-east-india-companies-2018|Clulow & Mostert (2018)]]
+reframe the VOC as a **formidable but not exceptional** interloper, "powerful on the
+waves but weak on land," forced into "a continual process of interaction and
+accommodation with Asian structures." Several findings sharpen the picture:
+
+- **Manpower crisis.** The VOC's total military force c. 1614 was "less than a
+  thousand soldiers"; Coen reckoned the company needed 2,500–3,000 more. Soldiers
+  from Europe took eight months to reach Batavia, 10–11% dying en route. To compensate
+  on land, the VOC ran a **Japanese-soldier experiment** (c. 1613–1623), the first
+  systematic recruitment of Asian troops by either company — never more than a few
+  hundred men, ended by a 1621 Tokugawa edict and the 1623 Amboina trial (see
+  [[banda-conquest-1621]] and [[tokugawa-shogunate]]).
+- **Diplomacy by accommodation.** Lacking royal standing, early VOC envoys posed as
+  proxies of the "King of Holland" and conducted "diplomacy by proxy" through the
+  sultan of [[ternate]]. In Mughal [[bengal]] the VOC depended on provincial decrees
+  and was repeatedly extorted for cannon and cash during the 1657–59 succession war.
+  In [[japan]] it accepted the status of Tokugawa **"pseudo-subject"** on Deshima —
+  providing intelligence (*fūsetsugaki*) rather than diplomacy.
+- **Dependence on Asian capital.** In [[surat]] the VOC relied on the
+  [[surat-merchant-brokerage|Kishandas broker dynasty]] (1659–1795) and other Indian
+  merchant-financiers who held monopsony power over its sales.
+- **Historiography.** Tonio Andrade's epilogue traces VOC scholarship from Marx and
+  Weber through van Leur, Meilink-Roelofsz, Steensgaard, Subrahmanyam, and Blussé
+  toward today's "Asian resilience" consensus — see
+  [[european-exceptionalism-early-modern-asia]].
