@@ -9,7 +9,7 @@ affiliated_with: [Macedon, the Greek and Macedonian settler class, the Egyptian 
 opposed_by: [[[seleucid-empire]], [[antigonid-dynasty]], native Egyptian revolts, [[rome|Rome]]]
 key_events: [[[wars-of-the-diadochi-323]], [[syrian-wars]], [[battle-of-raphia-217]]]
 key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]], [[ruler-cult]]]
-sources_ingested: 7
+sources_ingested: 8
 last_updated: 2026-06-27
 tags: [actor, dynasty, state, classical-antiquity, egypt]
 ---
@@ -213,7 +213,7 @@ the Hellenistic 'successor states.'"* See [[ptolemaic-economy|the economy contro
 
 - Founder: [[ptolemy-i-soter]] · [[ptolemy-ii-philadelphus]] · Last ruler: [[cleopatra-vii]]
 - Event: [[battle-of-raphia-217]] · [[battle-of-actium-31bce]] · [[events/roman-annexation-of-egypt-30bce]]
-- Successor: [[roman-egypt]] · Place: [[alexandria]] · [[naucratis]] · Concept: [[concepts/divine-kingship]] · [[concepts/great-tradition-little-tradition]]
+- Successor: [[roman-egypt]] · Place: [[alexandria]] · [[the-fayyum]] (the reclaimed Arsinoite nome) · [[naucratis]] · Concept: [[concepts/divine-kingship]] · [[sarapis]] · [[concepts/great-tradition-little-tradition]]
 - Process: [[ptolemaic-state-formation]] · Concept: [[premodern-state]] · [[new-institutional-economics]] · [[legal-pluralism]] · Controversy: [[ptolemaic-economy]]
 - Predecessors: [[saite-egypt]] · [[achaemenid-egypt]] · Event: [[asyut-property-trial-170bce]]
-- Period: [[classical-antiquity]] · Sources: [[sources/shaw-oxford-history-ancient-egypt-2000]] (Lloyd, Ch. 14) · [[sources/manning-last-pharaohs-2010]]
+- Period: [[classical-antiquity]] · Sources: [[sources/shaw-oxford-history-ancient-egypt-2000]] (Lloyd, Ch. 14) · [[sources/manning-last-pharaohs-2010]] · [[sources/bagnall-rathbone-egypt-alexander-copts-2004]]

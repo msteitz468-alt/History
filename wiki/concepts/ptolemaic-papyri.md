@@ -5,8 +5,8 @@ origin: Documentary sources from Ptolemaic Egypt (3rd–1st c. BCE), recovered f
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [egypt]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept]
 ---
 
@@ -64,6 +64,8 @@ generally.
 
 ## Related
 
+- **Broader discipline:** [[papyrology]] — the period-spanning study of Egypt's documents into
+  the Roman and Coptic centuries, of which the Ptolemaic source-base is the earliest phase.
 - The kingdom: [[ptolemaic-egypt]] · [[ptolemy-ii-philadelphus]] · capital: [[alexandria]]
 - Method: [[hellenistic-historiography]] · the economy debate: [[ptolemaic-economy]]
-- Source: [[walbank-cah-v7-1-1984|CAH VII.1]] (Turner, ch. 5)
+- Sources: [[walbank-cah-v7-1-1984|CAH VII.1]] (Turner, ch. 5) · [[sources/bagnall-rathbone-egypt-alexander-copts-2004]]

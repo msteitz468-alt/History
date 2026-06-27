@@ -8,7 +8,7 @@ region: [north-africa]
 process_type: religious
 driven_by: ["Egyptian Christianity", "the ascetic ideal", "the desert landscape"]
 produces: ["Christian monasticism worldwide", "the Coptic Church"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [process, late-antiquity, north-africa]
 ---
@@ -39,6 +39,34 @@ root in [[alexandria|Alexandria]]" by the mid-first century CE and spread up the
 the **great persecutions of Diocletian (from 303 CE)** to become, after Constantine, the
 dominant faith — and ultimately the **Coptic Church**.
 
+## The two forms and the founding figures (Bagnall & Rathbone)
+
+The guide [[sources/bagnall-rathbone-egypt-alexander-copts-2004|*Egypt from Alexander to the
+Copts*]] distinguishes the movement's two organisational forms and their founders:
+
+- **Anchoritic (solitary) monasticism**, associated with [[antony-of-egypt|Antony]] and Paul the
+  Hermit — the holy man "moving ever deeper into the desert to escape the secular world, often
+  without success as their fans pursued them." Its diffusion owed most to
+  [[athanasius-of-alexandria|Athanasius's]] *Life of Antony*.
+- **Communal (cenobitic) monasticism**, associated with [[pachomius|Pachomios]], "whose set of
+  rules, in Latin translation, became so influential in the West" — the literary model behind
+  Benedict's Rule. The most famous Upper Egyptian house was the **White Monastery** under the
+  Coptic author [[shenoute|Shenoute]] in the fifth century.
+
+## Monastic geography of northern Egypt
+
+While many founding figures came from the south, "it is in the north that monasticism developed and
+grew most dramatically." The fourth century saw an explosion of activity in the desert west of the
+Delta, centred on three foci — **Nitria, Kellia, and Scetis** — remote enough for solitude but not
+cut off from provisions and pilgrims. These sites dominate the key texts of early monasticism: the
+**_Apophthegmata Patrum_** (Sayings of the Fathers), Palladius's *Historia Lausiaca*, and the
+*Historia Monachorum in Aegypto*, the last two serving as pilgrimage itineraries whose Latin
+translations "had a profound impact on the formation of European monasticism." Their very
+popularity undid the solitude they advertised: Nitria and Kellia were eventually abandoned, but
+**Scetis — the monasteries of the Wadi Natrun — has continued as a monastic centre to the present**.
+The movement made the monastery a major economic and social institution and gave the world the
+[[coptic-church|Coptic Church]].
+
 ## Pharaonic undertow
 
 The volume notes a continuity even here: "Monasticism had its roots in the Egyptian desert …
@@ -51,4 +79,7 @@ Egyptian past.
 ## Related
 
 - Place: [[roman-egypt]] · [[alexandria]] · Period: [[periods/late-antiquity]]
-- Source: [[sources/shaw-oxford-history-ancient-egypt-2000]]
+- People: [[antony-of-egypt]] · [[pachomius]] · [[shenoute]] · [[athanasius-of-alexandria]]
+- Institution: [[coptic-church]] · Process: [[christianization-of-the-roman-empire]] · later
+  [[carolingian-monasticism]], [[medieval-monastic-revival]]
+- Sources: [[sources/shaw-oxford-history-ancient-egypt-2000]] · [[sources/bagnall-rathbone-egypt-alexander-copts-2004]]

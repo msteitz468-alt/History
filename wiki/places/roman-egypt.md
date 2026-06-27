@@ -7,7 +7,7 @@ period_active: [Late Antiquity]
 controlled_by: [the Roman emperor, through an equestrian prefect; from 30 BCE]
 events_here: [the annexation of Egypt (30 BCE), the southern expeditions of Cornelius Gallus and Petronius, the proclamation of Vespasian by the prefect (69 CE)]
 processes_here: [the depoliticization and fiscal exploitation of Egypt, the grafting of Roman administration onto the Ptolemaic bureaucracy]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-27
 tags: [place, egypt, north-africa, late-antiquity, rome]
 ---
@@ -140,6 +140,32 @@ detail unmatched anywhere, and bear directly on the "crisis" debate. Key develop
   **solidus** — pointing forward to the stable, increasingly **privatized** landholding of Byzantine
   Egypt, with little sign yet of the colonate or the great estate.
 
+## The documented society (Bagnall & Rathbone)
+
+The guide [[sources/bagnall-rathbone-egypt-alexander-copts-2004|*Egypt from Alexander to the
+Copts*]] grounds the province in its **archaeology and papyri**. Roman Egypt was "not so much a
+history of 'events' as of 'structures'" — relatively peaceful, governed for revenue, and
+documented from the inside as no other ancient society. Through [[papyrology|papyrology]] we can
+see, at the village and household level, what imperial administration meant on the ground: the
+texture of leasing, debt, dowry, schooling, and mortality (life expectancy at birth in the
+mid-twenties).
+
+- **Urbanisation.** Rome "privileged urban residents above villagers" and extended Ptolemaic
+  urbanisation until Egypt became "one of the most urbanized areas in the Roman Empire," perhaps a
+  quarter of the population in cities and *metropoleis*. The wealthy curial elite of towns like
+  **[[oxyrhynchus|Oxyrhynchus]]** benefited their communities through public works and magistracies
+  while leasing out rural estates — a society vivid in the papyri.
+- **Type-sites.** The reclaimed **[[the-fayyum|Fayyum]]** (the Arsinoite nome) and its best-preserved
+  village, **[[karanis|Karanis]]**, are where the archaeology and documents of Roman Egypt meet on the
+  same ground; the **[[fayyum-mummy-portraits|Fayyum mummy portraits]]** are its unique artistic
+  legacy.
+- **Religion in transition.** The hybrid cult of [[sarapis|Sarapis]] and the Mediterranean-wide
+  spread of Isis gave way, across the fourth–fifth centuries, to Christianity — the
+  [[destruction-of-the-serapeum-391|destruction of the Serapeum (391)]], the birth of
+  [[egyptian-monasticism|monasticism]], and the rise of the [[coptic-church|Coptic Church]]. The
+  province's Greco-Roman millennium ends with the [[arab-conquest-of-egypt-641|Arab conquest
+  (639–642)]].
+
 ## Related
 
 - Annexed by [[augustus]] from [[ptolemaic-egypt|Cleopatra's Ptolemaic kingdom]]; its prefect
@@ -151,4 +177,4 @@ detail unmatched anywhere, and bear directly on the "crisis" debate. Key develop
   [[diocletian|Diocletian's]] reforms and the [[third-century-crisis|crisis]] debate
 - Companion (CAH X Ch. 14): [[roman-greek-east|Greece]], [[roman-syria|Syria]], [[roman-judaea|Judaea]]
 - Annexation: [[events/roman-annexation-of-egypt-30bce]] · Religion: [[processes/egyptian-monasticism]] · Trade: [[places/punt]]
-- Sources: [[bowman-cah-v10-1996]] (Ch. 14b, Bowman); [[bowman-cah-v12-2005]] (Ch. 10, Bowman); [[sources/shaw-oxford-history-ancient-egypt-2000]] (Peacock, Ch. 15)
+- Sources: [[bowman-cah-v10-1996]] (Ch. 14b, Bowman); [[bowman-cah-v12-2005]] (Ch. 10, Bowman); [[sources/shaw-oxford-history-ancient-egypt-2000]] (Peacock, Ch. 15); [[sources/bagnall-rathbone-egypt-alexander-copts-2004]] (archaeology & papyri)

@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[battle-of-actium-31bce|the defeat at Actium]], "the fall of the Ptolemaic dynasty"]
 consequences: [[[roman-egypt|Egypt as a Roman province]], "Rome's grain supply secured", "the end of pharaonic political independence"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [event, late-antiquity, north-africa, transition]
 ---
@@ -68,4 +68,5 @@ continuity. See [[roman-egypt]].
 
 - Actor: [[augustus]] · [[cleopatra-vii]] · Preceded by: [[battle-of-actium-31bce]]
 - Produced: [[roman-egypt]] · State ended: [[ptolemaic-egypt]] · Place: [[alexandria]]
-- Period: [[periods/late-antiquity]] · Source: [[sources/shaw-oxford-history-ancient-egypt-2000]]
+- Began the Greco-Roman province that ended with the [[arab-conquest-of-egypt-641|Arab conquest (642)]]
+- Period: [[periods/late-antiquity]] · Sources: [[sources/shaw-oxford-history-ancient-egypt-2000]] · [[sources/bagnall-rathbone-egypt-alexander-copts-2004]]

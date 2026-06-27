@@ -7,9 +7,9 @@ period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: [[[ptolemaic-egypt|the Ptolemies]], [[rome|Rome]], Byzantium, the early Caliphate]
 events_here: [foundation by Alexander 331 BCE, the Museum and Library, the Pharos]
 processes_here: [[[hellenistic-world]], [[ptolemaic-egypt]], [[urbanization]], [[hellenistic-science]]]
-sources_ingested: 1
-last_updated: 2026-06-11
-tags: [place, egypt, north-africa, classical-antiquity]
+sources_ingested: 2
+last_updated: 2026-06-27
+tags: [place, egypt, north-africa, classical-antiquity, late-antiquity]
 ---
 
 # Alexandria
@@ -83,8 +83,29 @@ empire and remained a great centre of learning, Hellenistic Judaism, and later
 Christian theology into Late Antiquity. See [[ptolemaic-egypt]], [[hellenistic-science]],
 [[hellenistic-world]].
 
+## Roman and Late Antique Alexandria (Bagnall & Rathbone)
+
+Under Rome, Alexandria was the seat of the **prefect** of [[roman-egypt|Egypt]] and the empire's
+second city — but it remained legally apart from Egypt and famously turbulent. Bagnall and Rathbone
+record a recurring rhythm of **communal violence**: anti-Jewish riots in 38 CE, prompting the
+emperor Claudius's "Letter to the Alexandrians"; the effective end of the Jewish community after the
+revolt of 115–117; and Caracalla's massacre of 215. It was also where [[augustus|Octavian]] and
+later Vespasian (proclaimed there in 69) anchored their power.
+
+In intellectual and religious life the city stayed pre-eminent. Its **Christian theological
+tradition** ran from Clement and Origen through [[athanasius-of-alexandria|Athanasius]]; its
+**Neoplatonism** from Plotinus; and its scientists and philosophers included Claudius Ptolemy and
+**Hypatia**. The fourth and fifth centuries saw the city's decisive turn to Christianity, marked by
+the violent **[[destruction-of-the-serapeum-391|destruction of the Serapeum (391)]]** — the temple
+of [[sarapis|Sarapis]] with its "daughter" library — and the murder of Hypatia (415). The
+[[coptic-church|Alexandrian patriarchate]] became one of the great sees of Christendom, splitting
+into Chalcedonian and Miaphysite lines after [[council-of-chalcedon-451|Chalcedon]]. The
+Greco-Roman city ended when "the Byzantines abandoned Alexandria to the victorious Arabs" in 642
+(see [[arab-conquest-of-egypt-641]]).
+
 ## Related
 
 - Founder: [[alexander-the-great]] · dynasty: [[ptolemaic-egypt]] · [[ptolemy-i-soter]] · [[ptolemy-ii-philadelphus]]
 - Institutions: Museum & Library · [[hellenistic-science]] · cult: [[sarapis]]
-- Source: [[walbank-cah-v7-1-1984|CAH VII.1]] (Turner, ch. 5)
+- Late antique: [[athanasius-of-alexandria]] · [[coptic-church]] · [[destruction-of-the-serapeum-391]] · [[roman-egypt]]
+- Sources: [[walbank-cah-v7-1-1984|CAH VII.1]] (Turner, ch. 5) · [[sources/bagnall-rathbone-egypt-alexander-copts-2004]]

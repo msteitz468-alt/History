@@ -2,7 +2,7 @@
 **Focus Area:** Hub/Civilizations & Hub/Regions Expansion  
 **Protocol:** Large-Volume Protocol (Macro-structural baselines prior to discrete extraction)
 
-**Acquisition Status:** ✅ = already ingested (source page + pages created in wiki). **[MISSING]** = not acquired in raw/. See CLAUDE.md for this being the active ingest list. (Current: 22 completed, 20 missing.)
+**Acquisition Status:** ✅ = already ingested (source page + pages created in wiki). **[MISSING]** = not acquired in raw/. See CLAUDE.md for this being the active ingest list. (Current: 23 completed, 20 missing.)
 
 ---
 
@@ -35,7 +35,7 @@
 17. **John S. Major, Constance A. Cook** - *Ancient China: A History* ✅ INGESTED 2026-06-26 (`sources/major-cook-ancient-china-2017`)
 18. **Nicola Di Cosmo** - *Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History* ✅ INGESTED 2026-06-27 (`sources/di-cosmo-ancient-china-enemies-2002`; Deployed Subagent Strategy, 7 ranges; 14 pages created, 8 updated)
 19. **Gina L. Barnes** - *Archaeology of East Asia: The Rise of Civilization in China, Korea and Japan* ✅
-20. **Craig Benjamin** - *Empires of Ancient Eurasia: The First Silk Roads Era, 100 BCE - 250 CE*
+20. **Craig Benjamin** - *Empires of Ancient Eurasia: The First Silk Roads Era, 100 BCE - 250 CE* ✅ INGESTED 2026-06-27 (`sources/benjamin-empires-ancient-eurasia-2018`; Deployed Subagent Strategy, 5 chapter-cluster ranges; 18 pages created, 22 updated; closes the Kushan gap)
 21. **Hyun Jin Kim, Frederik Juliaan Vervaet, Selim Ferruh Adalı** - *Eurasian Empires in Antiquity and the Early Middle Ages: Contact and Exchange between the Graeco-Roman World, Inner Asia and China*
 
 ### 3. Ancient Egypt
@@ -43,7 +43,7 @@
 23. **Ian Shaw** - *The Oxford History of Ancient Egypt* ✅ INGESTED 2026-06-27 (ed. 2000; Deployed Subagent Strategy, 8 chapter-aligned ranges; 36 pages created, 25 updated)
 24. **J. G. Manning** - *The Last Pharaohs: Egypt Under the Ptolemies, 305-30 BC* ✅ INGESTED 2026-06-27 (2010; Deployed Subagent Strategy, 5 chapter-aligned ranges; 5 pages created, 7 updated — the wiki's anchor for the New Institutional Economics / premodern-state reading of the Ptolemaic state)
 25. **Michael Rice** - *Egypt's Making: The Origins of Ancient Egypt 5000-2000 BC* ✅ INGESTED 2026-06-27 (2nd ed. 2003; focused main-thread ingest — well-trodden topic with fresh Shaw/Kemp scaffold, so targeted to Rice's distinctive Mesopotamia/Dilmun-contact thesis + Jungian reading; 2 pages created, 9 updated)
-26. **Roger S. Bagnall, Dominic W. Rathbone** - *Egypt From Alexander to the Copts: An Archaeological and Historical Guide*
+26. **Roger S. Bagnall, Dominic W. Rathbone** - *Egypt From Alexander to the Copts: An Archaeological and Historical Guide* ✅ INGESTED 2026-06-27 (Rev. ed. 2004/2017; focused main-thread ingest — the wiki's anchor for post-pharaonic Egypt extends Manning/Shaw forward through Roman, Late Antique & Coptic Egypt to the Arab conquest; 12 pages created, 9 updated. New: [[places/the-fayyum]], [[places/oxyrhynchus]], [[places/karanis]], [[concepts/papyrology]], [[concepts/fayyum-mummy-portraits]], [[actors/coptic-church]], [[actors/athanasius-of-alexandria]], [[actors/shenoute]], [[actors/antony-of-egypt]], [[actors/pachomius]], [[events/destruction-of-the-serapeum-391]], [[events/arab-conquest-of-egypt-641]])
 
 ### 4. Ancient Near East, Levant & Anatolia
 27. **Mario Liverani** - *The Ancient Near East: History, Society and Economy* **[MISSING]**

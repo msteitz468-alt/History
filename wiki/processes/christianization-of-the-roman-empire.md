@@ -8,8 +8,8 @@ region: [mediterranean-world, near-east, north-africa, egypt]
 process_type: religious
 driven_by: [imperial patronage from Constantine, the episcopate and the church as a public institution, the law codes, ascetic and monastic movements]
 produces: [the Christian Roman and Byzantine order, the legal category of "pagan", the religious ordering of society]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [process, late-antiquity, mediterranean-world, rome]
 ---
 
@@ -83,6 +83,22 @@ was the work of centuries.
 - **End conditions**: formally dominant by 425; the deeper conversion of the population continued for
   centuries (and the process is incomplete in Brown's "wavering" sense).
 
+## The Egyptian case (Bagnall & Rathbone)
+
+Egypt is among the best-documented arenas of the process. [[sources/bagnall-rathbone-egypt-alexander-copts-2004|Bagnall
+and Rathbone]] trace it through the [[papyrology|papyri]]: a Christian presence by the third
+century, but serious penetration of the countryside only in the **fourth**, visible in the
+appearance of churches and an ecclesiastical hierarchy and in the **shift of personal names from
+pagan to biblical**. By the fifth century "Egypt had become a Christian land," its villages full of
+churches and its deserts full of monasteries. Its landmarks recur in this wiki: the
+[[destruction-of-the-serapeum-391|destruction of the Serapeum (391)]] and the killing of Hypatia
+(415); the birth of [[egyptian-monasticism|monasticism]] under [[antony-of-egypt|Antony]] and
+[[pachomius|Pachomios]]; the doctrinal leadership of [[athanasius-of-alexandria|Athanasius]]; and
+the emergence, after [[council-of-chalcedon-451|Chalcedon]], of the
+[[coptic-church|Coptic Church]]. Bagnall's own work cautions that the dramatic temple-destruction
+set-pieces can overstate how *sudden* conversion was — the documents show a gradual, uneven
+process.
+
 ## Related
 
 - Driven by [[constantine-the-great|Constantine]], [[theodosius-i|Theodosius I]], and the
@@ -93,4 +109,4 @@ was the work of centuries.
   [[origins-of-christianity]]
 - `contrasts_with:` the triumphalist "death of paganism" narrative; the parallel "Christianizations" of
   rabbinic Judaism and Zoroastrianism in the [[sassanid-empire|Sasanian empire]]
-- Source: [[cameron-cah-v13-1998]] (Ch. 21, Peter Brown)
+- Sources: [[cameron-cah-v13-1998]] (Ch. 21, Peter Brown) · [[sources/bagnall-rathbone-egypt-alexander-copts-2004]] (the Egyptian case)

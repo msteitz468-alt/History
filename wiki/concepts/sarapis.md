@@ -5,8 +5,8 @@ origin: Instituted at Alexandria under Ptolemy I Soter (early 3rd c. BCE) as a G
 applies_to_periods: [Classical Antiquity, Late Antiquity]
 applies_to_regions: [egypt, mediterranean-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [concept]
 ---
 
@@ -45,8 +45,26 @@ could shape (without dictating) the religious life of a mixed society. (A minori
 noted by Turner, even traces the name's origin to an Iranian epithet via the Xanthus
 trilingual — a reminder of how contested the god's genealogy remains.)
 
+## Under Rome, and the cult's violent end (Bagnall & Rathbone)
+
+Under the Roman emperors — who replaced the Ptolemies as pharaohs — the Egyptian cults reached
+their widest diffusion. [[sources/bagnall-rathbone-egypt-alexander-copts-2004|Bagnall and
+Rathbone]] stress that **Isis** above all, "goddess of the many names," was "worshipped throughout
+the Roman Empire (including Rome, Pompeii and London)" as one of the salvific **mystery cults**
+alongside Mithras and Christianity. The Alexandrian **Serapeum** itself was a complex including a
+library (the "daughter" of the Great Library), lecture rooms, and shrines; after a fire in 181 CE
+it was rebuilt by 217 on a still larger scale.
+
+The cult's end was abrupt and symbolic. In **391 CE** the Serapeum became the focus of
+pagan–Christian street battles; on the order of [[theodosius-i|Theodosius I]] the cult was
+suppressed and "a Christian soldier hacked the famous statue into pieces, which were then
+symbolically buried in different parts of the city." The
+[[destruction-of-the-serapeum-391|destruction of the Serapeum]] is a touchstone in the
+[[christianization-of-the-roman-empire|Christianisation]] of Egypt.
+
 ## Related
 
 - Founder: [[ptolemy-i-soter]] · city: [[alexandria]] (the Serapeum) · kingdom: [[ptolemaic-egypt]]
 - Theme: [[ruler-cult]] · [[hellenistic-world]] (religious syncretism)
-- Source: [[walbank-cah-v7-1-1984|CAH VII.1]] (Turner, ch. 5)
+- End: [[destruction-of-the-serapeum-391]] · [[christianization-of-the-roman-empire]]
+- Sources: [[walbank-cah-v7-1-1984|CAH VII.1]] (Turner, ch. 5) · [[sources/bagnall-rathbone-egypt-alexander-copts-2004]]
