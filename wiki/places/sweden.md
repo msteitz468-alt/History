@@ -7,7 +7,7 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [[[folkung-dynasty|Folkung dynasty]], [[margaret-i-of-denmark|Margaret I]] / Kalmar Union]
 events_here: [[[kalmar-union-1397|Kalmar Union]]]
 processes_here: [[[christianization-of-scandinavia|Christianization of Scandinavia]], [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, scandinavia, sweden, early-middle-ages]
 ---
@@ -50,3 +50,30 @@ political mobilisation — the [[engelbrekt-rebellion-1434|Engelbrekt rebellion]
 Pre-plague population was c. 500,000–650,000 on c. 75,000 farms; iron exports grew to
 c. 1,100 tons by the 1490s. Sweden was the only kingdom to receive a medieval **urban
 code** applicable to all towns. See [[helle-cambridge-history-scandinavia-v1-2003]].
+
+## Sweden, 1520–1870: Great Power, Absolutism, Nation State (CHS Vol. II)
+
+Sweden's exceptional reserve of freehold land (62% of farms c. 1520) underwrote the
+revolt of [[gustav-i-vasa|Gustav Vasa]] that ended the [[kalmar-union-1397|Kalmar
+Union]] (1523). His [[reformation-in-scandinavia|Reformation]] (Västerås, 1527)
+transferred church wealth to the crown — "much church property was transferred to the
+crown" (L1171–1174) — and he made the monarchy hereditary (1544); doctrinal
+Lutheranism was fixed only at the Uppsala Resolution (1593). The seventeenth century
+was the [[swedish-empire|Age of Greatness]]: [[gustavus-adolphus|Gustavus Adolphus]]
+and [[axel-oxenstierna|Oxenstierna]] built the fiscal-military apparatus that, through
+the [[thirty-years-war-1618|Thirty Years' War]] and the
+[[struggle-for-baltic-supremacy|Baltic wars]], briefly made Sweden a great power
+encircling the Baltic. [[karl-xi-of-sweden|Karl XI]] established
+[[scandinavian-absolutism|absolutism]] (1680) and the *reduktion*; the
+[[great-northern-war-1700|Great Northern War]] (1700–21) ended the empire. The
+eighteenth-century **Age of Liberty** and Hat–Cap politics followed.
+
+Nation-building was triggered by the **loss of Finland to Russia in 1809**, which
+"created Sweden" — "Little Sweden" of the Bernadottes — leaving the task "to create
+Swedes." Cultural nationalism (the Götiska förbundet, 1810; Geijer and Tegnér) and a
+national-liberal programme aimed at reforming the four-estate Riksdag, achieved in the
+**parliamentary reform of 1866** (Strindberg's "new kingdom"). The volume argues that
+"only after the complete failure of [[scandinavianism|Scandinavianism]] and the
+rifle-club movement [40,000 members by 1865] did the nation-building project start to
+succeed in Sweden" (L41870–72). See [[scandinavian-nation-state-formation]],
+[[scandinavian-industrialisation]], [[kouri-olesen-cambridge-history-scandinavia-v2-2016]].

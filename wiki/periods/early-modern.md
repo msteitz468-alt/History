@@ -7,8 +7,8 @@ date_range: 1500–1700 CE
 regions_covered: [atlantic-world, western-europe, mesoamerica, andes, west-africa, east-asia, near-east, south-asia, indian-ocean, southeast-asia]
 major_themes: [the construction of a global world, Columbian Exchange, oceanic empires, the silver-driven world economy, confessionalization and religious expansion, the military revolution debate, chartered companies, plantation slavery]
 collection_coverage: moderate
-sources_ingested: 12
-last_updated: 2026-06-25
+sources_ingested: 13
+last_updated: 2026-06-27
 tags: [period]
 ---
 
@@ -82,6 +82,26 @@ Peter the Great (from 1689/1696 sole rule) inaugurated "imperial, radically Euro
 From ch.9 (range 8001+): Under Peter "pragmatic considerations gained strength. While bans on Jewish settlement were not rescinded, neither were they renewed. Peter imported a number of Jewish converts from the Netherlands and employed them at various levels of government, from court jester to chief of police in the newly founded city of St Petersburg." Successors reverted; Elizabeth reissued bans (l8089–8091). For Islam: moderated toleration for "loyal subjects, good tax-payers and soldiers"; Muslim military elites entered nobility (l8441–8443). `preceded_by:` Muscovite policies; `produced:` foundations for later multiethnic empire management (Pale, muftiates).
 
 **Gov, local, wars, non-Russians from Cambridge Vol. I range (Poe/Davies/Khodarkovsky 11605-15000):** Central: autocracy for elite; ranks + prikazy growth; "new men" under Alexis; Privy Chancellery bypassed duma; Zemskii Sobor ad hoc. Local: town governors spread, feeding, audits. Wars: Andrusovo 1667 secured left-bank Ukraine + Smolensk etc.; Chyhyryn vs Ottomans; Crimean exps. Non-Russians: iasak, lines, co-opt elites (Kalmyks, cossacks, Kabardinians); indirect to direct. "the prikazy were located in the Kremlin and Kitai gorod" clerks accessed power; "native peoples ... ‘iasak-paying subjects eternally’". `part_of:` [[early-modern]] Muscovy/Russia.
+
+## Scandinavia in the Early Modern Period (CHS Vol. II)
+
+The Nordic early-modern story (Kouri & Olesen, eds., *Cambridge History of
+Scandinavia* Vol. II) runs from the dissolution of the [[kalmar-union-1397|Kalmar
+Union]] (1523) to the eclipse of the power states. Its spine: the
+[[reformation-in-scandinavia|Lutheran Reformation]] (Denmark 1536, Sweden 1527/1593)
+which enriched and empowered the crowns; the rise of [[swedish-empire|Sweden's
+great-power era]] and the long [[struggle-for-baltic-supremacy|struggle for *dominium
+maris baltici*]] against [[denmark-norway|Denmark–Norway]]; the
+[[militarisation-of-scandinavia|militarisation]] and
+[[fiscal-military-state-scandinavia|fiscal-military transformation]] of both states;
+the [[scandinavian-colonial-empires|Danish and Swedish colonial ventures]]; and the
+turn to [[scandinavian-absolutism|absolutism]] — Denmark's coup of 1660 and its
+written [[kongelov|Kongelov]] (1665), Sweden's Karl XI absolutism (1680) and
+*reduktion*. Key actors: [[gustav-i-vasa|Gustav Vasa]], [[christian-iii-of-denmark|Christian III]],
+[[christian-iv-of-denmark|Christian IV]], [[gustavus-adolphus|Gustavus Adolphus]],
+[[axel-oxenstierna|Oxenstierna]], [[frederik-iii-of-denmark|Frederik III]],
+[[karl-xi-of-sweden|Karl XI]]. The [[great-northern-war-1700|Great Northern War]]
+(1700–21) closed the era, reducing both realms to middle-ranking states behind Russia.
 
 ## Major Developments
 

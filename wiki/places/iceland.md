@@ -7,7 +7,7 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [[[icelandic-free-state|Icelandic Free State]] (c. 930–1262/64), then [[norway|Norway]]]
 events_here: [[[settlement-of-iceland-874|settlement of Iceland]]]
 processes_here: [[[christianization-of-scandinavia|Christianization of Scandinavia]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, scandinavia, iceland, early-middle-ages]
 ---
@@ -43,3 +43,28 @@ the "English Age" (*enska öldin*). By the end of the Middle Ages only 5% of far
 owned by those who worked them. Plague struck late (1402–4, 1494–5). See
 [[helle-cambridge-history-scandinavia-v1-2003]], [[saga-literature]],
 [[settlement-of-iceland-874]], [[hofstadir]].
+
+## Iceland, 1520–1874: Reformation to Home Rule (CHS Vol. II)
+
+Iceland's [[reformation-in-scandinavia|Reformation]] was imposed by force: nationalist
+sentiment fused with Catholicism, the Alþingi twice rejected the Danish Church Order,
+and the last Catholic bishop, Jón Arason, was executed with his two sons in 1550; real
+Lutheran progress came only under Guðbrandur Þorláksson (bishop from 1571, first
+complete Icelandic Bible, 1584). Ruled from [[denmark-norway|Denmark]] and battered by
+disease, famine and volcanic eruption, the island's eighteenth century was one of
+demographic crisis. The **Napoleonic Wars** severed the Danish supply line and
+produced the bizarre "Icelandic Revolution" of 1809 (Jørgen Jørgensen's two-month
+"protectorate"), after which Britain opened Icelandic trade.
+
+Nineteenth-century nationalism drew on the conviction that Icelanders alone preserved
+medieval Norse. **Jón Sigurðsson** (1811–79) led the movement from c. 1840, grounding
+Iceland's claims in the 1262–64 agreement with the Norwegian crown (not the Danish
+nation) and fighting "with words … historical arguments." The **Alþingi was
+re-established** as a consultative assembly (decree 1843, first session 1845); at the
+1851 national assembly the members protested "We all protest!" when the governor
+dissolved it. Free trade came in 1855, and in **1874 a constitution** (granted by
+Christian IX, with principles drawn from the American and French Revolutions) gave the
+Alþingi limited domestic legislative power. Population grew 47,000 → 70,000 (1800–70);
+land shortage seeded emigration (~15,000 to "New Iceland" in Canada, 1870–1914). See
+[[scandinavian-nation-state-formation]], [[great-scandinavian-emigration]],
+[[kouri-olesen-cambridge-history-scandinavia-v2-2016]].

@@ -7,8 +7,8 @@ date_range: 1800–1914 CE
 regions_covered: [global, western-europe, north-america, east-asia, south-asia, africa, latin-america, near-east, pacific]
 major_themes: [industrialization, fossil-fuel energy transition, the new imperialism, nationalism, mass migration, abolition, the demographic transition, global market integration]
 collection_coverage: moderate (recent Custer addition via Stiles 2015: Civil War "boy general," Texas occupation/1867 court-martial, Washita, Yellowstone 1873, Black Hills 1874, Little Bighorn 1876, Reno Inquiry, Libbie myth-making, "chronological frontier" thesis)
-sources_ingested: 16
-last_updated: 2026-06-25
+sources_ingested: 17
+last_updated: 2026-06-27
 tags: [period]
 ---
 
@@ -39,6 +39,28 @@ innovations) matured into a self-sustaining, world-transforming system whose
 heartland was, for roughly a century after 1850, confined to Europe, North
 America, and (later) Japan — the single most important source of those regions'
 global dominance.
+
+## Scandinavia, 1815–1870 (CHS Vol. II)
+
+The Nordic nineteenth century (to 1870) was defined by a single problem: how to
+accommodate a **demographic explosion** — Bishop Tegnér's "peace, vaccine and
+potatoes" (L29623–29629) — after the old corporate, absolutist order had collapsed.
+The population of Scandinavia doubled 1820–70 to ~10 million. The
+[[scandinavian-demographic-transition|demographic transition]] (falling infant
+mortality) and the [[scandinavian-agricultural-revolution|agricultural revolution]]
+(enclosure, freeholding, the dairy pivot) fed both rising living standards and the
+beginnings of the [[great-scandinavian-emigration|Great Emigration]].
+[[scandinavian-industrialisation|Industrialisation]] lagged far behind Britain —
+Scandinavian GDP per capita reached only ~50–60% of the UK's by 1870, with modest
+~1% annual growth — and the industrial working class was still tiny (Sweden ~65–70k;
+Norway's seamen outnumbered its industrial workers). Society shifted "from ranks to
+classes" via an [[scandinavian-class-formation|associational revolution]]
+(temperance, savings banks, peasant movements) following the sequence corporations →
+associations → mass organisations. Politically the era produced
+[[scandinavian-constitutionalism-19c|liberal constitutions]] (Norway 1814, Denmark
+1849, Swedish reform 1866), [[scandinavian-popular-education|mass schooling]], the
+brief unifying current of [[scandinavianism|Scandinavianism]] (collapsed 1864), and
+the consolidation of five [[scandinavian-nation-state-formation|nation states]].
 
 ## Major Developments
 

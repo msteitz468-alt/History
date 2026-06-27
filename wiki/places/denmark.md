@@ -7,7 +7,7 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [[[harald-bluetooth|Jelling dynasty]], [[valdemar-dynasty|Valdemar dynasty]], [[margaret-i-of-denmark|Margaret I]] and the Kalmar Union]
 events_here: [[[kalmar-union-1397|Kalmar Union]]]
 processes_here: [[[christianization-of-scandinavia|Christianization of Scandinavia]], [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, scandinavia, denmark, early-middle-ages]
 ---
@@ -52,3 +52,31 @@ worked 5–6 ha. The peasantry's legal position deteriorated toward near-serfdom
 Sjælland by the 1490s, and the nobility's **"right to hand and neck"** was ratified in
 1523. See [[scandinavian-agrarian-crisis]], [[valdemar-dynasty]],
 [[helle-cambridge-history-scandinavia-v1-2003]].
+
+## Denmark, 1520–1870: Reformation, Absolutism, Nation State (CHS Vol. II)
+
+The pre-Reformation church held roughly a third of cultivated land; the
+[[reformation-in-scandinavia|Lutheran Reformation]] under
+[[christian-iii-of-denmark|Christian III]] (1536) transferred it to the crown, and
+**1536 is regarded as "the birth of the modern Danish state"** (L1220). The
+"aristocratic regime" of king-and-council governed until the catastrophe of the
+[[struggle-for-baltic-supremacy|Baltic wars]] — Roskilde (1658) cost the eastern
+provinces — precipitated the 1660 coup and [[scandinavian-absolutism|absolutism]],
+constitutionalised in the [[kongelov|Kongelov]] (1665). Sound-Due revenue at times
+supplied up to two-thirds of state income (L6140). The eighteenth century brought
+[[scandinavian-colonial-empires|colonial trade]] and Caribbean sugar, the *stavnsbånd*
+(1733) and its abolition amid the **agricultural reforms** (enclosure 1781,
+two-thirds of farms freehold by c. 1810).
+
+The two defining nineteenth-century ruptures were the loss of [[norway]] by the
+[[treaty-of-kiel-1814|Treaty of Kiel]] (1814) — reducing Denmark to "a little state
+of the second rank" — and the loss of Schleswig-Holstein in **1864**: "Denmark
+consisted of 1.8 million people on 43,000 square kilometres. But it was a nation
+state" (L40566–70). Between them came compulsory schooling (1814), the advisory
+estates (1834–36), and the liberal **June Constitution of 1849** under Frederik VII
+(Folketing and Landsting, freedoms of association, speech and belief). The Schleswig
+question — the king ruling a Danish duchy and a German one — drove the national
+crisis from the 1840 language edict through the First Schleswig War (1848–50) and the
+November Constitution (1863) that gave Bismarck his *casus belli*. See
+[[scandinavian-nation-state-formation]], [[denmark-norway]],
+[[kouri-olesen-cambridge-history-scandinavia-v2-2016]].

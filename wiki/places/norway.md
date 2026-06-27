@@ -7,7 +7,7 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [[[harald-fairhair|Harald Fairhair]], [[olaf-haraldsson|St Olaf]], the Hárfagri and later dynasties, [[margaret-i-of-denmark|Margaret I]] / Kalmar Union]
 events_here: [[[settlement-of-iceland-874|settlement of Iceland]]]
 processes_here: [[[christianization-of-scandinavia|Christianization of Scandinavia]], [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [place, scandinavia, norway, early-middle-ages]
 ---
@@ -53,3 +53,24 @@ strong. The [[black-death-scandinavia-1349|Black Death]] then devastated Norway
 (c. 60–65% mortality), disintegrating the service nobility and making Norway the weak
 partner in the [[kalmar-union-1397|union]]. See
 [[helle-cambridge-history-scandinavia-v1-2003]].
+
+## Norway, 1520–1870: Danish Province to Nation State (CHS Vol. II)
+
+Norway entered the early modern era as the junior, increasingly absorbed partner of
+[[denmark-norway|Denmark–Norway]]: with the [[reformation-in-scandinavia|Reformation]]
+the last archbishop fled and "Norway was simply annexed to Denmark as a province"
+(L1797–98); it "could no longer be called a kingdom" (L5411–13), governed from
+København. Lutheranism took hold slowly (its own Church Order only in 1607). The
+eighteenth century saw the rise of a smallholder and timber-export society, growing
+freehold (33% in 1721 → 57% by 1801), and resentment of the Danish corn monopoly.
+
+The hinge was **1814**: the [[treaty-of-kiel-1814|Treaty of Kiel]] ceded Norway to
+Sweden, but Norwegians adopted the [[norwegian-constitution-1814|Eidsvoll
+constitution]] (17 May) — "formally one of the most democratic in Europe" (~40% of
+adult males enfranchised) — before entering a union with Sweden in November. Lacking
+an aristocracy, Norway became a **civil-servant state**; nation-building proceeded
+through institutions (Storting, Bank of Norway, university), the **language question**
+(Ivar Aasen's Landsmål/Nynorsk, 1848–53), road/steamship/telegraph/rail build-out,
+and the 1860 schools law. The farmers' movement from the 1870s sought to *reduce*
+state power rather than capture it. See [[scandinavian-nation-state-formation]],
+[[scandinavianism]], [[kouri-olesen-cambridge-history-scandinavia-v2-2016]].

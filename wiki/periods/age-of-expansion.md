@@ -7,8 +7,8 @@ date_range: 1700–1800 CE
 regions_covered: [atlantic-world, western-europe, north-america, caribbean, south-asia, east-asia, indian-ocean, west-africa, central-asia]
 major_themes: [maturing oceanic empires, the first global wars, the eighteenth-century crisis of the Asian land empires, the apex of the Atlantic slave and plantation system, industrious revolutions, the Enlightenment and the Atlantic Revolutions]
 collection_coverage: moderate
-sources_ingested: 5
-last_updated: 2026-06-23
+sources_ingested: 6
+last_updated: 2026-06-27
 tags: [period]
 ---
 
@@ -44,6 +44,28 @@ industrialization. The period closes with the Enlightenment and the **Atlantic
 Revolutions** — American independence (1776–83), the Haitian revolution begun in
 1791, and the French Revolution from 1789 — whose new ideas of rights began to
 reshape forced-labor regimes and migration in the following century.
+
+## Scandinavia in the Eighteenth Century (CHS Vol. II)
+
+After the [[great-northern-war-1700|Great Northern War]] both Nordic states turned
+inward under a shared, if differently governed, **mercantilism** (the Swedish
+Products Edict of 1724 and Danish Customs Tariff of 1742 had near-identical aims),
+expanding trade, towns, and resource industries — "the Scandinavian countries …
+reacted relatively speaking as one" despite Sweden's open Hat–Cap politics and
+Denmark's [[scandinavian-absolutism|absolutism]] (L20186–20252). Growth rested on
+[[scandinavian-colonial-empires|colonial commerce]] (Danish/Swedish East India
+companies; Caribbean sugar and the Danish slave trade, abolished 1803), large
+neutral-flag merchant fleets (4th and 5th largest in Europe by 1786), and exports of
+Swedish iron, Norwegian timber/silver/fish. Society was a deeply agrarian world (≈80%
+rural; towns ~10%, Finland 4%) reshaped by the **agrarian reforms** — Danish
+*stavnsbånd* (1733, abolished 1788), enclosure (*udskiftning*, 1781), and rising
+freeholding in Norway and Sweden — and by a proliferating rural underclass
+(*torpare*, *husmænd*, *statare*) that prefigured the
+[[great-scandinavian-emigration|nineteenth-century emigration]]. See
+[[scandinavian-family-demography-1650-1815]], [[scandinavian-peasantry]],
+[[scandinavian-pietism]], and [[cultural-europeanisation-scandinavia|court culture]].
+Inequality was sharp (København's income Gini ≈0.66 in 1789). The era closed with
+the [[denmark-napoleonic-wars-1807|Napoleonic crisis]].
 
 ## Major Developments
 
