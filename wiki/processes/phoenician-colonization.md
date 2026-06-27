@@ -8,8 +8,8 @@ region: [mediterranean, north-africa, iberia, mediterranean-world]
 process_type: [economic, demographic, religious, cultural]
 driven_by: [[[phoenicians|Tyre]], the quest for metals (Spanish silver), Assyrian pressure, population and trade]
 produces: [[[carthage|Carthage]] and the Punic world, the Phoenician network from Cyprus to the Atlantic, the spread of the alphabet and eastern art west]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [process, archaic-period, mediterranean, north-africa, iberia]
 ---
 
@@ -100,6 +100,28 @@ influence.
    Sardinian campaign (c. 550), the rise of the Magonids, and the treaties with **Rome
    (509, 348)** delimiting trade in Sardinia, Sicily, and Spain.
 
+## Miles: "Survival, Not Glory" and the Temple as Guarantor
+
+Richard Miles ([[miles-carthage-must-be-destroyed-2010]]) sharpens the causal account:
+it was **"survival, rather than glory,"** that drove the expansion. Intensifying
+[[neo-assyrian-empire|Assyrian]] tribute demands — above all for **silver and iron**,
+heightened after Adad-Ninari III's conquest of northern Syria — forced the Phoenicians to
+prospect new metal sources, largely by **inserting themselves into pre-existing trade
+networks** (Sardinia's, active since the 12th c.) rather than founding fresh ones. He
+stresses early **Phoenician–Greek cooperation** as much as rivalry: at Pithecusa (Ischia)
+Euboeans and Phoenicians worked together because their objectives were complementary (a
+commercial "middle ground"), and Phoenicians helped reconnect post-Mycenaean Greece to the
+Near East.
+
+On Miles's reading the colonies strung along the trade arteries "like links in a giant
+chain" formed a **defensive line locking competitors out of the metal-ore market**, while
+the [[gades-tartessos|Gades]] temple of [[carthaginian-religion|Melqart]] became the
+institutional anchor of the far west: the embodiment of Tyrian royal authority at a
+distance, a **financial guarantor** (oaths sworn to the god; temple hallmarks certifying
+ingot weight and purity), and the recipient of an annual **tithe of one-tenth** of Gades'
+public treasury sent to Tyre. The same tithe-relationship bound [[carthage|Carthage]] to
+Tyre. See [[heracles-melqart-syncretism]].
+
 ## Interaction and End Conditions
 
 The colonization ran **parallel and competitive with [[greek-colonization|Greek
@@ -115,4 +137,5 @@ civilization down to **146 BCE**.
 - Mother-people: [[phoenicians]] · Chief mother-city: [[tyre]] · Great colony: [[carthage]]
 - Far west: [[gades-tartessos]] · Earlier colony: [[cyprus|Kition]]
 - Rival process: [[greek-colonization]] · Driver-empire: [[neo-assyrian-empire]]
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 32, Culican)
+- Religion: [[carthaginian-religion]] · [[heracles-melqart-syncretism]] · [[carthaginian-child-sacrifice]]
+- Period: [[archaic-period]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 32, Culican) · [[miles-carthage-must-be-destroyed-2010]]

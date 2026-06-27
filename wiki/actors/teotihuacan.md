@@ -31,30 +31,95 @@ Mexico decisively northeastward (Snow, Gonlin, and Siegel 2020, Ch. 13).
 
 ## Geographic Setting and Rise
 
-Teotihuacan was situated in the Basin of Mexico at an elevation just under 2,240 m,
-surrounded by plentiful springs for irrigation, fertile soils, and abundant raw materials
-including the prized green obsidian of the Pachuca Range — a resource it appears to have
-controlled and leveraged as a foundation of its economy. Agricultural populations were
-drawn to the area, especially after the fall of Cuicuilco. The city's layout followed a
-precise grid, oriented 15°30' east of true north. Its central axis is the broad **Avenue of
-the Dead** (Street of the Dead), along which the largest pyramids were built.
+Teotihuacan was situated in the northeastern [[basin-of-mexico|Basin of Mexico]] at an
+elevation of roughly 2,265–2,350 m, in the Teotihuacan Valley — a broad, gently sloping
+plain framed by Cerro Gordo to the north, the Patlachique range to the south, and more
+distant mountains to the east. The city was built on nearly flat land, in marked contrast
+to hilltop centers like Monte Albán; this choice of flat terrain directly facilitated its
+extraordinarily regular grid layout (Cowgill 2015, Ch. 2).
+
+The site's agricultural advantages included perennial springs near the modern parish church
+of San Juan Teotihuacán (supplying about 590 liters/second in 1954, irrigating ~3,650 ha)
+and a small area (~100 ha) of naturally swampy wetland in the Puxtla barrio suitable for
+intensive cultivation. Proximity to gray obsidian near Otumba (~18 km east) and to the
+prized Pachuca green obsidian of the Sierra de las Navajas (~55 km north) gave the city
+key economic resources. Limestone for plaster and concrete had to be imported from
+30–40+ km away — a logistical challenge that may have incentivized early territorial
+expansion (Cowgill 2015, Ch. 2).
+
+The city's predecessor and rival was [[cuicuilco|Cuicuilco]], a major urban center in the
+southwestern Basin (at least 20,000 people, c. 400–100 BCE). Cuicuilco's decline in the
+Patlachique phase (c. 100–1 BCE) preceded Teotihuacan's explosive growth. The causes of
+this shift are now understood to have been the Popocatépetl eruption (c. 200–1 BCE),
+competition between the two polities, and Teotihuacan's superior trade-route position
+toward Tlaxcala-Puebla and the Gulf Lowlands — not the Xitle lava eruption (dated by
+Siebe 2000 to c. 200–400 CE, long after Cuicuilco's abandonment). "Cuicuilco's urban
+experiences were available as models for Teotihuacan's creators" (Cowgill 2015, Ch. 3).
+
+Growth in the **Patlachique phase** (c. 100–1 BCE) was explosive: from nearly nothing to
+a city of at least 20,000 covering 6–8 km². By the **Tzacualli phase** (1–100 CE) the
+city had expanded to ~20 km² with perhaps 60,000–80,000 people, and came to "dominate the
+Basin of Mexico politically as well as demographically" (Cowgill 2015, Ch. 5). Much of
+the growth appears to have been driven by in-migration, including displacement from the
+volcanic ash-fall zone of Popocatépetl in the southeastern Basin. The polity may have
+started as a collective or republican arrangement, then been subverted by strong rulers
+responsible for the immense Tzacualli-phase construction program. The city's layout
+followed a precise grid, oriented 15.5° east of true north. Its central axis is the
+broad **Avenue of the Dead**, along which the largest pyramids were built.
+
+The primary dating framework for this period is the [[teotihuacan-ceramic-phases|local
+ceramic phase sequence]], which Cowgill prefers to pan-Mesoamerican stage terminology
+(Preclassic, Classic) because major breaks in those schemes do not correspond well to
+Teotihuacan's development.
 
 ## Architecture and Monuments
 
 The city's three monumental structures define its ceremonial core:
 
-- **Pyramid of the Moon**: begun around 100 CE; built in seven stages, each covering the
-  previous. Humans were sacrificed at each new construction episode; some victims were
-  lavishly dressed, others naked and bound or decapitated.
-- **Pyramid of the Sun**: begun around 150 CE; one of the largest structures in the New
-  World. Its flat, plastered top suggests open-air ritual use rather than an enclosed temple.
-- **Temple of Quetzalcoatl**: constructed inside the huge walled **Ciudadela** compound
-  around 200 CE. Its construction involved the sacrifice and burial of approximately 200
-  individuals. The talud-tablero façade, later exposed by archaeologists, is one of
-  Teotihuacan's most celebrated architectural features. The Ciudadela was large enough to
-  hold the entire city's population on special occasions.
+- **Sun Pyramid (Tzacualli phase, c. 1–100 CE)**: The defining monument of the city's
+  formative period. Built in a single prodigious construction effort during the Tzacualli
+  phase, it reached nearly its present height of about 63 m with basal dimensions of 216 m
+  (enlarged to 222.7 m), and a volume of approximately 1,175,000 m³ — "dwarfing everything
+  else at Teotihuacan, as well as at Cuicuilco and everywhere else in Central Mexico"
+  (Cowgill 2015, Ch. 5). Tatsuya Murakami (2010) estimates the construction required
+  nearly 12 million person-days. The pyramid has four original bodies (a fifth was added
+  erroneously by Leopoldo Batres in the early 1900s during faulty restoration). It faces
+  west, where stairs lead to the top. An ancient tunnel under its base, ending in a four-
+  lobed chamber, was probably constructed as a sacred "cave of origin" rather than being
+  a natural feature. No royal tomb has been confirmed despite indications that one may
+  exist. Minor sacrificial burials were found at the corners.
 
-Beyond the ceremonial core, the Teotihuacan archaeological mapping project (Millon 1973)
+- **Moon Pyramid (built in seven stages, Patlachique through later phases)**: Stage One
+  (Patlachique or very early Tzacualli) was a square platform 23.5 m on a side, oriented
+  11–12° east of north — about 4° different from the later canonical orientation. Stage
+  Two (Tzacualli phase) was a considerably larger pyramid, 29.3 m east-west at its base.
+  Humans were sacrificed at each new construction episode; some victims were lavishly
+  dressed, others bound or decapitated.
+
+- **Feathered Serpent Pyramid / Temple of Quetzalcoatl (Ciudadela)**: Constructed inside
+  the huge walled Ciudadela compound around 200 CE (Tlamimilolpa phase, beyond the range
+  of this source entry). Its construction involved the sacrifice and burial of approximately
+  200 individuals. The talud-tablero façade is one of Teotihuacan's most celebrated
+  architectural features. The Ciudadela was large enough to hold the entire city's
+  population on special occasions. Preceding it in the same location was a **pre-Ciudadela
+  complex** of large civic-ceremonial structures from the Tzacualli phase, completely
+  demolished when the Ciudadela was built, but attesting to early elite activity and access
+  to luxury goods from hundreds of kilometers away.
+
+**Talud-tablero construction**: Most pyramids and platforms use a distinctive two-element
+profile: a lower sloping apron (talud) topped by a slightly overhanging recessed vertical
+panel (tablero) with projecting moldings. The Sun and Moon Pyramids use only taludes
+(tableros at that scale would be unstable). The style occurs earlier in Puebla-Tlaxcala
+and spread widely through Teotihuacan's influence.
+
+**Teotihuacan concrete**: Composed of earth mixed with volcanic scoria crushed to fine
+gravel (cascajo) with sand or other additives, eventually covering perhaps 12 million m²
+of surfaces (Barba and Frunz 1999, cited in Cowgill 2015) with lime plaster over concrete.
+Lime (from limestone burned to quicklime) was scarce and costly early on; gaining political
+control of limestone source regions to the northwest was probably a significant early
+incentive for territorial expansion.
+
+Beyond the ceremonial core, the Teotihuacan Archaeological Mapping Project (Millon 1973)
 documented approximately 2,000 apartment complexes, each housing 60–100 residents, arrayed
 around the urban core. Surrounding these were neighborhood centers managed by an intermediate
 elite class. The outer ring of the city contained **foreign ethnic enclaves** from Oaxaca,

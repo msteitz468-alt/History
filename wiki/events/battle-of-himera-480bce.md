@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [Theron of Acragas' expulsion of Terillus and seizure of Himera (c. 482), Terillus' appeal to his guest-friend Hamilcar, the clash of the Syracusan-Acragantine and Carthaginian-Punic blocs]
 consequences: [the destruction of Hamilcar's army and a moderate Carthaginian peace, the consolidation of [[gelon|Gelon's]] Deinomenid hegemony, Carthage's seventy-year withdrawal into Africa, the panhellenic Himera-Salamis synchronism]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, classical-antiquity, italy, mediterranean]
 ---
 
@@ -106,8 +106,22 @@ corrective the chapter insists on: more than two generations before any Carthagi
 army destroyed a Greek city in Sicily, **Gelon himself had annihilated three**
 (Camarina, Megara Hyblaea, Euboea).
 
+## Miles: a Magonid private war, retrospectively mythologised
+
+Richard Miles ([[miles-carthage-must-be-destroyed-2010]]) reinforces this page's
+source-critical reading and sharpens one point: the 480 expedition "remained a private
+enterprise, underwritten by the Magonids rather than by the Carthaginian state." The
+Himera-as-western-Salamis synchronism, on his account, was Syracusan propaganda
+(Deinomenids → Antiochus, Philistus, **Timaeus**) that conveniently masked **Gelon's own
+refusal to aid mainland Greece** and his hedging embassy to Persia — and seeded the longer
+[[punic-faith|construction of Carthage as the barbarian Orient in the West]]. The defeat's
+chief domestic legacy was the early-5th-century Carthaginian **constitutional reform** (the
+Tribunal of One Hundred and Four, suffeture, Popular Assembly); see
+[[carthage-syracuse-rivalry]].
+
 ## Related
 
+- Wider arc: [[carthage-syracuse-rivalry]] · [[punic-faith]] · [[miles-carthage-must-be-destroyed-2010]]
 - Victors: [[gelon]] · Theron of Acragas · city: [[syracuse]] · foe: [[carthage]] (Hamilcar)
 - Phenomenon: [[western-greek-tyranny]] · arena: [[magna-graecia]] · the Punic west (Motya, Panormus, Soloeis)
 - Eastern synchronism: [[battle-of-salamis-480bce]] · [[battle-of-thermopylae-480bce]] · parallel fall: [[etruscans]] (Cyme, 474)

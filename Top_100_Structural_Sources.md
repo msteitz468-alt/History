@@ -82,7 +82,7 @@
 54. **Greg Fisher** - *Rome, Persia, and Arabia: Shaping the Middle East from Pompey to Muhammad*
 55. **Samuel N. C. Lieu, Geoffrey Greatrex** - *The Roman Eastern Frontier and the Persian Wars AD 363-628* **[MISSING]**
 56. **John Haldon** - *The Empire That Would Not Die: The Paradox of Eastern Roman Survival, 640–740*
-57. **Richard Miles** - *Carthage Must Be Destroyed: The Rise and Fall of an Ancient Civilization*
+57. **Richard Miles** - *Carthage Must Be Destroyed: The Rise and Fall of an Ancient Civilization* ✅ INGESTED 2026-06-27 (cultural/religious/historiographical layer over existing military backbone; Heracles–Melqart thesis, *fides Punica*, tophet debate)
 58. **Dexter Hoyos** - *Hannibal's Dynasty: Power and Politics in the Western Mediterranean, 247-183 BC*
 59. **Charles Freeman** - *Egypt, Greece, and Rome: Civilizations of the Ancient Mediterranean*
 60. **Jonathan R. W. Prag, Josephine Crawley Quinn** - *The Hellenistic West: Rethinking the Ancient Mediterranean* **[MISSING]**

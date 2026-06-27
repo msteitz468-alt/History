@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[nature-of-roman-imperialism]], Masinissa's encroachments and Carthage's armed resistance (the technical treaty breach), the Roman appetite for a profitable and glorious war, Cato's agitation]
 consequences: [the annihilation of Carthage, the province of Africa, the end of Punic high culture, the demonstration of Roman ruthlessness]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, classical-antiquity, north-africa, war, rome]
 ---
 
@@ -86,10 +86,37 @@ reactions) as favouring the **love-of-power** interpretation, and makes the war 
 keystone of his case in [[nature-of-roman-imperialism]]. The **date of the real
 decision** ("long before" 149 — perhaps 153, perhaps 162/1) is debated.
 
+## Miles: "The Revenge of the Losers" and Power Over the Past
+
+Richard Miles ([[miles-carthage-must-be-destroyed-2010]]) frames the war against the
+backdrop of a striking **Carthaginian economic recovery** — Carthage offered to pay off its
+indemnity forty years early (Rome refused) and shipped huge corn gifts to Rome. He argues
+its bronze coinage and new circular military harbour reflected **prosperity and the absence
+of a standing army, not remilitarisation**, and that Rome tolerated the technical treaty
+breaches because Carthage was no longer a military threat. The real motives, on his reading,
+were **plunder** (a rich port and its agricultural land) and a post-Pydna shift from ruling
+by "kindest treatment" to ruling by "terror." Cato's relentless agitation (the "*delenda
+est*" aphorism is a later invention; he dramatised the threat with a fresh African fig) met
+**Scipio Nasica's** counter-argument that Carthage's existence kept Rome united and honest —
+which Miles cautions is shaped by hindsight of the later civil wars.
+
+The diktat of 149 — abandon the city and rebuild 16 km inland — was, with the surrender of
+hostages and weapons already complete, **a death sentence**: as Censorinus put it, "We
+considered you to be Carthage, not the ground where you live." Before the final assault
+[[scipio-aemilianus|Scipio Aemilianus]] performed the *evocatio*, summoning Carthage's gods
+to desert to Rome and rendering the city "godless." Miles's central point is the
+**historiographical consequence**: with the city's destruction and the dispersal of its
+libraries to the Numidian princes, Rome gained "the power to justify the unjustifiable" and
+became "the makers of history" — the foundation of [[punic-faith|the Roman construction of
+Carthage]]. That **Corinth was levelled the same year** exposes the hypocrisy of the
+"fear of Carthage" justification: destruction as a deliberate statement that dissent against
+Rome would not be tolerated.
+
 ## Related
 
 - Prior wars: [[first-punic-war-264-241bce]] · [[second-punic-war-218-201bce]] ·
   state destroyed: [[carthage]]
+- Aftermath/memory: [[punic-faith]] · [[carthaginian-religion]] · source: [[miles-carthage-must-be-destroyed-2010]]
 - Actors: [[scipio-aemilianus]] · [[masinissa]] · debate:
   [[nature-of-roman-imperialism]]
 - Concurrent: destruction of [[corinth]] (146) · province:

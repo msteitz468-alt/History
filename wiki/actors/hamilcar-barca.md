@@ -8,9 +8,9 @@ region: [north-africa, iberia, mediterranean-world]
 affiliated_with: [[[carthage]], the Barcid family]
 opposed_by: [[[roman-republic]], the Iberian tribes, the Carthaginian faction of Hanno the Great]
 key_events: [[[first-punic-war-264-241bce]], [[mercenary-war-241-237bce]], the conquest of southern Spain (237–229)]
-key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-11
+key_processes: [[[heracles-melqart-syncretism]]]
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, north-africa, iberia]
 ---
 
@@ -56,9 +56,34 @@ Hamilcar's wrath; the Fabian tradition shifted blame to Hasdrubal and Hannibal.
 The Barcid **coinage** of Spain (Gades, New Carthage) is the key independent
 witness to the family's growing wealth and quasi-monarchic self-presentation.
 
+## The Barcid Project in Spain (Miles)
+
+Richard Miles ([[miles-carthage-must-be-destroyed-2010]]) reads Hamilcar's move to Spain in
+237 BCE as the founding act of a **quasi-autonomous Barcid power** that broke Carthage's
+traditional controls on its generals. Appian reports he defied the Council of Elders; he
+recruited and paid **his own troops** (minting exceptionally pure silver coinage for the
+purpose), never returned to answer for his actions, and ruled by proxy through partisans —
+"Spanish gold and silver guaranteed Hamilcar's political influence by proxy." He
+reorganised the Sierra Morena silver and gold mines under **direct Barcid control** (unlike
+the old Tyrian system that left production to indigenous hands), importing
+eastern-Mediterranean techniques and mass slave labour.
+
+The result resembled a **Hellenistic successor kingdom**: a small alien elite plus a large
+mercenary army ruling a larger indigenous population, with new city foundations (his
+son-in-law Hasdrubal founded [[new-carthage|New Carthage]] in 227), a fiscal "apartheid"
+(high-value coin for troops, copper for locals), rule through tribal alliances, and dynastic
+intermarriage. The dynasty's symbol was the [[heracles-melqart-syncretism|Heracles–Melqart]]
+of its coinage, basis of [[hannibal|Hannibal's]] later ideological campaign. That the army
+acclaimed each successor (Hasdrubal, then Hannibal) and the Popular Assembly merely ratified
+shows the Spanish command had become a **family possession**, bypassing the Council. Miles
+weights **economic recovery** (silver, manpower, food to pay the Roman indemnity) above
+Polybius's "revenge" motive, while noting the Barcid "steely determination that Carthage
+would never again be humiliated by Rome."
+
 ## Related
 
 - Sons/successors: [[hannibal]] · Hasdrubal · place: [[new-carthage]]
+- Ideology/economy: [[heracles-melqart-syncretism]] · [[carthaginian-religion]] · source: [[miles-carthage-must-be-destroyed-2010]]
 - State: [[carthage]] · wars: [[first-punic-war-264-241bce]] ·
   [[mercenary-war-241-237bce]]
 - Warfare hub: [[hubs/warfare/classical-antiquity/first-punic-war/first-punic-war|First Punic War]] (his undefeated Sicilian command)

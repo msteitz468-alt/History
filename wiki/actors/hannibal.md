@@ -8,9 +8,9 @@ region: [north-africa, iberia, italy, mediterranean-world]
 affiliated_with: [[[carthage]], the [[hamilcar-barca|Barcid family]]]
 opposed_by: [[[roman-republic]], [[scipio-africanus]], [[fabius-maximus]]]
 key_events: [[[siege-of-saguntum-219bce]], [[second-punic-war-218-201bce]], [[battle-of-cannae-216bce]], [[battle-of-zama-202bce]]]
-key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-11
+key_processes: [[[heracles-melqart-syncretism]]]
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, north-africa, iberia, italy]
 ---
 
@@ -67,9 +67,34 @@ and transmits the "cruelty of Hannibal" topos that Walbank shows to be largely
 rhetorical. The **Alpine route** remains unresolved. See
 [[causes-of-second-punic-war]].
 
+## Hannibal as Ideologue: the Heracles–Melqart Campaign (Miles)
+
+Richard Miles ([[miles-carthage-must-be-destroyed-2010]]) recovers a dimension the
+battle-narratives miss: Hannibal ran a deliberate **ideological campaign** built on the
+syncretism of [[heracles-melqart-syncretism|Heracles and Melqart]]. The Barcid coinage of
+Spain carried a clean-shaven Heracles–Melqart (copied from [[hiero-ii-of-syracuse|Hiero of
+Syracuse]]'s issues) — a multivalent emblem fusing the patron of [[gades-tartessos|Gades]],
+the chief god of [[tyre|Tyre]], and the martial legacy of Alexander. He travelled with the
+Greek historians **Silenus of Caleacte** and **Sosylus of Sparta**, who cast Heracles–Melqart
+as his divine guide retracing the cattle-of-Geryon route, presenting Hannibal as **saviour of
+the old Greek-Punic-indigenous west against the Roman interloper** — inverting the
+Greek-vs-barbarian axis the Sicilian Greeks (Timaeus) had used *against* Carthage.
+
+On this reading the march itself was choreographed: vows at the altar of Melqart at Gades;
+the Alpine crossing narrated as a series of Heraclean "labours" (the route was still called
+"the Punic Alps" six centuries later); each river and mountain a taming of wild nature. Both
+[[polybius|Polybius]] and [[livy|Livy]] complain of the divine-favour propaganda — which Miles
+reads as proof of its success, Livy's stress on Hannibal's "impiety" reflecting Roman disquiet
+at the Heracles association. Miles's larger claim: Hannibal's **most lasting impact on Rome was
+not Cannae but his appropriation of the Heraclean legacy** underpinning Roman claims to
+Mediterranean leadership — which Rome answered by capturing the legacy for itself (see
+[[punic-faith]], [[hellenization-of-rome]]). [[scipio-africanus|Scipio]] in Spain copied the
+technique, cultivating his own reputation for divine favour.
+
 ## Related
 
 - Family: [[hamilcar-barca]] · state: [[carthage]] · base: [[new-carthage]]
+- Ideology: [[heracles-melqart-syncretism]] · [[carthaginian-religion]] · [[punic-faith]]
 - War: [[second-punic-war-218-201bce]] · battles: [[battle-of-cannae-216bce]] ·
   [[battle-of-zama-202bce]] · [[siege-of-saguntum-219bce]]
 - Opponents: [[fabius-maximus]] · [[scipio-africanus]] · later host:

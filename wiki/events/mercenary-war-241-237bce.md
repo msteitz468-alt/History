@@ -20,8 +20,8 @@ consequences:
   - produced: "Hamilcar Barca's dominant position in Carthage and his Spanish strategy — the war made his reputation, marginalized Hanno's faction, launched the Barcid project"
   - enabled: "[[second-punic-war-218-201bce|Second Punic War]] — combination of Sardinian seizure (permanent grievance) and Hamilcar's Iberian buildup"
   - preceded_by: "[[first-punic-war-264-241bce]]"
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, classical-antiquity, mediterranean, north-africa]
 ---
 
@@ -96,8 +96,33 @@ Polybius treats the war as evidence that Carthage's reliance on mercenary forces
 a fundamental structural weakness compared to Rome's citizen army and loyal Italian
 allies — a judgment that colors his entire assessment of the Punic Wars.
 
+## "The Camp Comes to Carthage" (Miles)
+
+Richard Miles ([[miles-carthage-must-be-destroyed-2010]]) reads the revolt not as a rabble
+but as **"a decapitated version of Carthage's own Sicilian army"** turning on its employer.
+Following Polybius, he stresses Carthaginian blunders — mustering all the mercenaries
+together near the capital with no citizen counterforce, failing to keep wives and children
+as hostages, then reneging on their generals' over-promises. The deliberately polyglot force
+(mixed to prevent combination) now could not be negotiated with; **Spendius** (a Campanian
+runaway slave) and **Matho** (a Libyan) seized leadership precisely because they feared
+Carthaginian reprisal, and welded the mercenary grievance to a **Libyan tax revolt** bred by
+the war's exactions (half of crop yields; doubled town taxes), drawing in ~70,000 Libyans.
+
+The rebels **overstruck Carthaginian coin** with the Greek legend *LIBUWN* ("of the
+Libyans"), using agricultural motifs to appeal to Libyans and Heracles/military motifs to the
+mercenaries — evidence, for Miles, of a coherent breakaway polity. Polybius's term *polemos
+aspondos* ("a war without possibility of truce") captures the atrocity spiral: the rebels
+tortured the negotiator **Gisco** and their prisoners to death to foreclose reconciliation;
+Hamilcar reciprocated by trampling captives with elephants. Miles also underscores the
+decisive **external aid** — Hiero of Syracuse and, notably, **Rome** (banning trade with the
+rebels, allowing recruitment, freeing 2,743 POWs without ransom) — even as Rome
+simultaneously seized Sardinia, a seizure Polybius himself called "contrary to all justice."
+The phrase "the camp had truly come to Carthage" frames the war as the moment the
+mercenary system's contradictions came home.
+
 ## Related
 
 - Event: [[first-punic-war-264-241bce]] (immediate cause) · [[pyrrhic-war-280-275bce]]
-- Actor: [[carthage]] · [[roman-republic]]
-- Source: [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard)
+- Actor: [[carthage]] · [[roman-republic]] · [[hamilcar-barca]]
+- Context: [[carthage-syracuse-rivalry|the mercenary system]] · [[punic-faith]]
+- Source: [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard) · [[miles-carthage-must-be-destroyed-2010]]

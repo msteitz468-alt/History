@@ -90,9 +90,57 @@ echo is the **Toltec** state at Tula. (CWH IV records the Pyramid of the Sun's f
 million m³ — one of the largest preindustrial structures in the Americas.) This complements
 CWH III's portrait of the city's internal planning and anonymous rulership.
 
+## Early History (Patlachique–Tzacualli Phases, 100 BCE–100 CE)
+
+Teotihuacan's origins and initial growth are documented in detail by Cowgill (2015),
+using the local **ceramic phase sequence** (see [[teotihuacan-ceramic-phases]]).
+
+**Before the city**: The Teotihuacan Valley hosted small agricultural villages during
+the Cuanalán phase (c. 500–200 BCE), the local variant of the broader Cuicuilco ceramic
+tradition. The largest, TF-35, covered about 20–30 ha with an estimated 1,000–2,000
+people; both it and the Cuanalán site were near springs and wetlands in the lower valley.
+A short, puzzling **Tezoyuca phase** (c. 200–100 BCE) is attested mainly at 13 hilltop
+fortified sites ringing the valley, possibly representing an incursion of outside cultural
+influences but probably not a mass migration.
+
+**Patlachique phase (c. 100–1 BCE)**: "In one or two centuries, Teotihuacan grew from
+almost nothing to become a large city" (Cowgill 2015, Ch. 4). Dense sherd cover spread
+over 6–8 km² with a probable population of at least 20,000. This growth was driven
+primarily by in-migration at a rate of at least 1.5% per year — achievable only through
+substantial demographic influx, not natural increase alone. The clearest civic construction
+is **Stage One of the Moon Pyramid** (a square platform 23.5 m on a side, faced with
+small pink cut stones, oriented 11–12° east of north). Multiple zones of heavy sherd cover
+with no single center suggest a polity that may have been "a coming-together of several
+relatively autonomous… groups rather than a strong central authority" (Cowgill 2015,
+Ch. 4). Pre-pyramid features under the Sun Pyramid, including a possible civic enclosure
+wall, may date to this phase or early Tzacualli.
+
+**Tzacualli phase (c. 1–100 CE)**: The city expanded to ~20 km² with 60,000–80,000
+people, three to four times the Patlachique population. Population across most of the
+rest of the Basin of Mexico declined markedly as Teotihuacan came to dominate
+politically. The **Sun Pyramid** — basal dimensions 216 m × 216 m, height ~63 m, volume
+~1,175,000 m³ — was built in a single massive construction effort, probably requiring
+~12 million person-days (Murakami 2010). A long artificial tunnel under the Sun Pyramid,
+possibly created as "the physical manifestation of a myth about a cave of origin" (Cowgill
+2015, Ch. 5), may have been central to the site's sacred significance. **Moon Pyramid
+Stage Two** (29.3 m east-west base) was also built in this phase. Pre-Ciudadela civic
+structures originated in the Tzacualli phase, decorated with abstract polychrome murals
+and yielding elite imports from hundreds of kilometers away. The canonical grid orientation
+of **15.5° east of true north** was established by this phase. The layout "evolved over
+time" rather than following a single master plan.
+
+Key cause of Teotihuacan's rapid growth: Popocatépetl's major eruption (c. 200–1 BCE)
+devastated the southeastern Basin, displacing populations; Teotihuacan's northeastern
+location was relatively unaffected. The decline of [[cuicuilco|Cuicuilco]] — abandoned
+by the Tzacualli phase for reasons unrelated to the later Xitle eruption — transferred
+the Basin's urban tradition to Teotihuacan: "Cuicuilco's urban experiences were available
+as models for Teotihuacan's creators" (Cowgill 2015, Ch. 3). See
+[[teotihuacan-formation]] and [[teotihuacan-ceramic-phases]] for full detail.
+
 ## Related
 
 - Places: [[tikal|Tikal]] (contrast: king cult) · [[classic-maya|Classic Maya]] · [[tiwanaku|Tiwanaku]] · [[tenochtitlan|Tenochtitlan]] · [[uruk|Uruk]]
-- Process: [[urbanization]] · [[ruralization]] · [[mesoamerican-state-formation]] · [[trade-network-formation]]
-- Concept: [[urbanism]] · [[heterarchy]] · [[mesoamerican-calendar]] · Controversy: [[hierarchy-vs-heterarchy-early-cities]]
+- Process: [[urbanization]] · [[ruralization]] · [[mesoamerican-state-formation]] · [[trade-network-formation]] · [[teotihuacan-formation]]
+- Concept: [[urbanism]] · [[heterarchy]] · [[mesoamerican-calendar]] · [[teotihuacan-ceramic-phases]] · Controversy: [[hierarchy-vs-heterarchy-early-cities]]
 - Comparison: [[early-cities-in-comparative-perspective]] (heterarchy, landscape, and power distribution)
+- Places (context): [[cuicuilco]] · [[basin-of-mexico]]

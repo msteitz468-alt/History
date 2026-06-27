@@ -9,8 +9,8 @@ affiliated_with: [Syracuse, [[ptolemy-i-soter|Ptolemy I]] (marriage), [[pyrrhus-
 opposed_by: [[[carthage]], the Syracusan oligarchs, the Sicilian-Greek exiles]
 key_events: [the coup of 316/15, the African campaign (310–307)]
 key_processes: [[[hellenistic-monarchy]], [[western-greek-tyranny]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, classical-antiquity, sicily]
 ---
 
@@ -43,8 +43,8 @@ tyranny, wearing instead a priest's head-band and honouring Demeter and Kore.
 His most audacious act, "on a par with the boldest ventures of the Diadochi": besieged in
 Syracuse by [[carthage|Carthage]], he **invaded North Africa** — the first European army
 ever to do so — **burning his own fleet** behind him, ravaging the rich Carthaginian
-hinterland to the gates of the city. He allied with, then **murdered, [[ophelias-of-cyrene|Ophelias
-of Cyrene]]** (absorbing his army), and for a time controlled most of Punic Libya. But
+hinterland to the gates of the city. He allied with, then **murdered, Ophelias
+of Cyrene** (absorbing his army), and for a time controlled most of Punic Libya. But
 his son Archagathus' mismanagement in his absence brought disaster, and Agathocles
 eventually **abandoned his army and his sons** and slipped away (307). The expedition
 failed — yet it preserved his rule in Sicily, its primary object, and (Meister notes)
@@ -71,3 +71,26 @@ Hannibal. Hostile (Timaeus) and laudatory (Callias) ancient verdicts diverge wil
 modern judgement, like Meister's, takes a middle course — real courage and ability, set
 against an "endless series of political murders." See [[carthage]], [[syracuse]],
 [[western-greek-tyranny]].
+
+## The Invasion of Africa (Miles)
+
+Richard Miles ([[miles-carthage-must-be-destroyed-2010]]) treats Agathocles' **310 BCE
+invasion of the Carthaginian homeland** as a turning point in the
+[[carthage-syracuse-rivalry|Sicilian rivalry]]. Blockaded in Syracuse by Hamilcar son of
+Gisco (311), he made the audacious counterstroke of carrying the war to Africa, exploiting
+the fact that "most Carthaginians had no experience of war" and that their armies were
+mercenary. He funded the expedition by seizing temple offerings and women's jewellery, and
+**burned his own ships on landing** (dedicating them to Demeter and Core as Sicilian-Greek
+revenge propaganda). The panic in Carthage triggered, per the hostile Diodoran tradition, a
+mass [[carthaginian-child-sacrifice|child sacrifice]] (200 high-born children) and Bomilcar's
+attempted coup — vivid evidence of the [[carthage-syracuse-rivalry|Carthaginian fear of their
+own commanders]] near the capital.
+
+Despite controlling much of Punic Africa, Agathocles' army mutinied over pay; he abandoned
+them and fled, and a peace c. 306 restored the Sicilian status quo. Miles's point: Carthage
+did not press its advantage because the wars had brought it **to the brink of financial
+ruin** (debased electrum, heavy bronze coinage), and the episode **exposed Carthaginian
+fragility**, making Africa look like a viable target to later warlords — [[pyrrhus-of-epirus|Pyrrhus]]
+and ultimately [[scipio-africanus|Scipio]]. Agathocles styled himself the "western heir to
+Alexander," prefiguring the [[heracles-melqart-syncretism|Heraclean self-fashioning]] the
+Barcids would adopt.
