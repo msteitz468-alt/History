@@ -55,7 +55,19 @@ Ch 14) adopts this framing, narrating the period from a **surviving Constantinop
 **4. Economic and fiscal collapse.**
 Structural fiscal-military overstretch: a shrinking tax base could not pay the army that
 defended the tax base, a vicious spiral once Africa and Gaul were lost. Often combined
-with positions 2 and 3.
+with positions 2 and 3. Given its sharpest materialist form by **Peter Sarris**
+([[sarris-empires-of-faith-2011|*Empires of Faith*]], 2011), in the tradition of Jairus
+Banaji: the late-Roman state's deep **monetisation** (minting gold and copper, paying the
+army in coin, taxing in coin) was the engine of the West's economic sophistication, and
+its unwinding — driven by **aristocratic tax-evasion** and the equation of tax-exemption
+with elite status, as provincial defence devolved onto barbarian war-bands — produced the
+[[demonetisation-of-the-post-roman-west|de-monetisation]], de-urbanisation, and
+ruralisation that *constituted* the West becoming "medieval." Sarris keeps the **violence**
+the transformationists soften (in lowland Britain the regression was near-total) while
+insisting the deepest dynamic was fiscal and social. His comparative point cuts across the
+whole debate: in the West **the aristocracy survived the crisis at the expense of the
+state**, whereas in seventh-century Anatolia **the state survived at the expense of the
+aristocracy** — the same forces, opposite outcomes.
 
 **5. Environmental and epidemic factors.**
 Stressed by **Kyle Harper** (*The Fate of Rome*, 2017), who argues that the Roman Empire was an ecological entity whose political success was dependent upon the stable, warm **Roman Climate Optimum (RCO)**. The transition to the unstable **Late Roman Transition** and cooling **Late Antique Little Ice Age (LALIA)** degraded agricultural output, while Rome's urban and transport networks acted as a biological "superconductor" for pathogens. The resulting Antonine, Cyprianic, and Justinianic Plagues acted as massive exogenous shocks that degraded the tax base, caused agricultural abandonment (*agri deserti*), and collapsed the recruit pool (dropping Byzantine troops from 645k to 150k). *Strength:* backed by paleoclimatic ice-core/speleothem data and ancient DNA verification of *Yersinia pestis*. *Weakness:* traditional historians warn of environmental and biological determinism, insisting institutional factors remained key.
@@ -81,4 +93,5 @@ methodological: was 476 a **catastrophe** (Ward-Perkins) or a **transformation**
 ## See Also
 
 [[fall-of-the-western-roman-empire-476]] · [[roman-empire]] · [[byzantine-empire]] ·
-[[late-antiquity]] · [[hunnic-migrations]] · [[great-man-vs-structural-causation]]
+[[late-antiquity]] · [[hunnic-migrations]] · [[great-man-vs-structural-causation]] ·
+[[demonetisation-of-the-post-roman-west]] · [[sarris-empires-of-faith-2011]]

@@ -7,7 +7,7 @@ date_range: "600–1000 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, arabian-peninsula, central-asia, north-africa, west-africa, east-africa, south-asia, china, japan, korea, steppe, indian-ocean, silk-road]
 major_themes: ["the rise of Islam and the caliphates", "the Abbasid golden age", "Tang China and the second Silk Roads era", "the Carolingian Empire", "Byzantium's survival and golden age", "the formation of Japan and unified Korea", "trans-Saharan and Indian Ocean trade", "the spread of world religions", "post-imperial state-building", "barbarian law codes and wergild", "the North Sea emporium network (wics)", "the gold-to-silver monetary transition (sceattas)", "proprietary churches (Eigenkirchen)", "Insular art and Northumbrian learning", "Christianisation of the Germanic and Anglo-Saxon peoples"]
 collection_coverage: strong
-sources_ingested: 15
+sources_ingested: 16
 last_updated: 2026-06-27
 tags: [period]
 ---
@@ -28,6 +28,20 @@ African provinces, reaching the Indus and the Atlantic. The
 **[[abbasid-caliphate|Abbasid Caliphate]]** (from 750, capital [[baghdad|Baghdad]])
 presided over a cultural and scientific "golden age" at the hub of Afro-Eurasian
 trade. As detailed in Lapidus, the period built directly on late antique frameworks (Roman/Byzantine urban-bureaucratic and Sasanian hybrid central/feudal models with religious pluralism), with the Arab conquests and caliphal evolution producing new garrison cities (amsar), gradual conversions and Arabization, and the crystallization of Islamic law, theology, and communal forms (Lapidus 2014 Ch. 1, 6–10, 15–19; see [[lapidus-a-history-of-islamic-societies-2014]]). The umma, sharia, and Sufi currents took shape alongside imperial cosmopolitanism.
+
+In the West, [[sarris-empires-of-faith-2011|Sarris (*Empires of Faith*)]] traces the
+period's opening as a society "piecing itself back together" around a landed **military
+nobility**: a shift from the "lord-and-king-focused" polities of the fifth and sixth
+centuries to more straightforwardly **lord-focused** ones in the seventh and eighth,
+accompanied by the first western economic growth since the fourth century as the
+[[justinianic-plague-541|plague]] receded — a recovering monetary economy (the
+gold-to-silver transition in Francia in the 670s, renewed minting in Britain from the
+630s), new coastal *wic* emporia, and, more darkly, a sharp rise in iron slave-shackles on
+excavated rural sites. The same processes produced both "the shackle on the slave and the
+*wic* on the shore." In the East, his Ch. 8 argues that seventh-century warfare so
+shattered the great commercialised estates of Anatolia that **the Byzantine state survived
+at the aristocracy's expense**, emerging as the most tightly governed territory "west of
+China." See [[demonetisation-of-the-post-roman-west]].
 
 **Grounded claims from Hansen Silk Road range 2601-5200**:
 - "Ten kings ruled between 502 and the Chinese invasion of 640." (ll. 688, Gaochang/Turfan). taxonomy: part_of: [[early-middle-ages]].

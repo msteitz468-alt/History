@@ -105,7 +105,7 @@
 73. **F. Donald Logan** - *A History of the Church in the Middle Ages* **[MISSING]**
 
 ### 10. Medieval Middle East & Islamic World
-74. **Peter Sarris** - *Empires of Faith: The Fall of Rome to the Rise of Islam, 500-700* **[MISSING]**
+74. **Peter Sarris** - *Empires of Faith: The Fall of Rome to the Rise of Islam, 500-700* ✅ INGESTED 2026-06-27 ([[sources/sarris-empires-of-faith-2011]])
 75. **Jack Tannous** - *The Making of the Medieval Middle East: Religion, Society, and Simple Believers*
 76. **Mark R. Cohen** - *Under Crescent and Cross: The Jews in the Middle Ages*
 77. **Brian A. Catlos** - *Muslims of Medieval Latin Christendom, c.1050–1614* **[MISSING]**
@@ -122,7 +122,7 @@
 ### 11. Sub-Saharan Africa
 87. **David W. Phillipson** - *Foundations of an African Civilisation: Aksum and the northern Horn, 1000 BC - AD 1300* ✅
 88. **Koen Bostoen, Inge Brinkman** - *The Kongo Kingdom: The Origins, Dynamics and Cosmopolitan Culture of an African Polity* ✅
-89. **Basil Davidson** - *Great Ages of Man: African Kingdoms*
+89. **Basil Davidson** - *Great Ages of Man: African Kingdoms*✅
 
 ### 12. The Americas
 90. **Michael E. Smith, Frances F. Berdan** - *The Postclassic Mesoamerican World*

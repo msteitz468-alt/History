@@ -7,13 +7,13 @@ period: [Late Antiquity]
 region: [mediterranean-world, near-east, western-europe, anatolia, north-africa, levant, mesopotamia]
 location: "Afro-Eurasia"
 actors_primary: ["[[justinian|Justinian I]]"]
-actors_secondary: ["[[procopius|Procopius]]"]
+actors_secondary: ["[[procopius|Procopius]]", "[[john-of-ephesus|John of Ephesus]]"]
 event_type: epidemic
 scale_immediate: hemispheric
 scale_consequential: hemispheric
 causes: ["Trade networks linking the Red Sea and Mediterranean", "Infestation of black rats and fleas carrying Yersinia pestis"]
 consequences: ["Demographic collapse (estimated 25-50% population loss)", "Fiscal crisis and labor shortages", "Crippling of military recruitment for the reconquests", "Abandonment of arable land (agri deserti) and ruralization"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-06-12
 tags: [event, late-antiquity, mediterranean-world]
 ---
@@ -64,11 +64,52 @@ The plague severely altered the trajectory of the late antique world:
 
 ---
 
+## Sarris and the Social Consequences of the Plague
+
+**Peter Sarris** ([[sarris-empires-of-faith-2011|*Empires of Faith*]], 2011), a leading
+**maximalist**, reads the plague as a structural hinge that worked on *two* fronts at
+once. For the state it was a fiscal disaster — a sudden loss of taxpayers that forced
+retrenchment of civil-service pensions and military pay, and the issue of light-weight
+*solidi* while collectors were required to receive full-weight coin. But for the
+**survivors among the labouring poor it opened opportunities**: Justinian's edict of 545
+complains that artisans and agricultural workers were demanding "twice or even three
+times" their customary wages; the *Life of St Nicholas of Sion* shows Lycian farmers
+defying city councillors; and Egyptian land-leases of the mid-sixth century record a
+marked improvement in tenants' security of tenure. Sarris points to the **gold:copper
+exchange ratio** as a quantitative trace — the number of copper *folles* per gold
+*solidus* falling from c. 210 (538–42) to c. 180 (542–50), a shift that benefited those
+paid in copper at the expense of their nominal superiors. The plague thus "shook the
+economic foundations of aristocratic control while curtailing still more sharply the
+fiscal resources upon which the state depended" — the same demographic shock cutting
+against *both* poles of late-Roman society. Whether the pandemic really bore this weight
+is itself contested: see **[[justinianic-plague-scale|the controversy on plague scale]]**
+(maximalist Sarris/Harper vs. the minimalist case of Mordechai & Eisenberg).
+
+---
+
+## Historiography
+
+The plague's **scale and significance are actively contested**. The traditional and still
+dominant **maximalist** reading — that 25–50% mortality made the pandemic a structural
+hinge of late antiquity — rests on a chorus of contemporary eyewitnesses (Procopius, John
+of Ephesus, Evagrius, Gregory of Tours) and is developed in its fullest forms by **Kyle
+Harper** (climate + disease) and **Peter Sarris** (the social and fiscal consequences).
+Since 2019 a **minimalist** revision (Lee Mordechai, Merle Eisenberg) has argued from
+"big-data" proxies — coins, papyri, inscriptions, pollen, mortuary archaeology — that the
+demographic and economic rupture is largely invisible and has been retrojected from the
+Black Death. **Palaeogenetics** has confirmed *Yersinia pestis* across a wide geographic
+range, settling the pathogen but not the magnitude. The debate is filed as
+**[[justinianic-plague-scale|The Scale and Significance of the Justinianic Plague]]**. A
+key independent witness to the older source base, **[[john-of-ephesus|John of Ephesus]]**,
+survives via [[pseudo-dionysius-zuqnin-chronicle|Pseudo-Dionysius of Tel-Maḥrē]].
+
+---
+
 ## Related Pages
 
 *   **Actors**: [[justinian]] · [[successors-of-justinian]] · [[lombards]]
-*   **Controversies**: [[causes-of-the-fall-of-the-western-roman-empire]] · [[controversies/fall-of-rome-causes]]
-*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]] · [[sources/harper-fate-of-rome-2017]]; the great eyewitness account of
+*   **Controversies**: [[fall-of-rome-causes]] · [[justinianic-plague-scale]]
+*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]] · [[harper-fate-of-rome-2017]] · [[sarris-empires-of-faith-2011]]; the great eyewitness account of
     **[[john-of-ephesus|John of Ephesus]]** is now ingested in
     **[[pseudo-dionysius-zuqnin-chronicle|Pseudo-Dionysius of Tel-Mahre, Chronicle Part III]]** — a key
     independent witness alongside Procopius.

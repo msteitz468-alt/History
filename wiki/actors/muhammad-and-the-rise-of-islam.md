@@ -9,8 +9,8 @@ affiliated_with: [the tribe of Quraysh, Mecca, Medina, the early Muslim communit
 opposed_by: [the pagan leadership of Quraysh, the Meccan establishment]
 key_events: [the first preaching (c. 610), the hijra to Medina (622), the return to Mecca (630), the death of Muḥammad (632)]
 key_processes: [the rise of Islam, the unification of Arabia, the prelude to the Arab conquests]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-antiquity, arabian-peninsula, islamic-world]
 ---
 
@@ -68,6 +68,41 @@ acute: the earliest Muslim narratives postdate the events by generations, and Me
 to any non-Arabic source of the pre-Islamic period" — making the rise of Islam one of the most
 **methodologically contested** topics in late-antique history.
 
+## Sarris: the contemporary witnesses and an ecumenical early umma
+
+**Peter Sarris** ([[sarris-empires-of-faith-2011|*Empires of Faith*]], 2011) approaches
+the Prophet through the **earliest, non-Arabic sources** — which predate the Arabic
+*sīra* tradition by a century or more and so partly bypass its source problem. The
+*Doctrina Iacobi* (c. 637) reports "a false prophet … appeared among the Saracens"; the
+Syriac chronicles name "the Arabs of Muḥammad" by c. 640; and the Armenian *History*
+(after 660, attributed to Sebeos) gives a fuller, less hostile account of "Mahmet," a
+learned merchant who taught the Arabs "to recognize the God of Abraham." On their
+testimony Sarris builds two distinctive arguments.
+
+**(1) Holy war by convergence.** That Muḥammad preached *jihād* and martyrdom "at
+precisely the time that these self-same concepts were featuring so prominently in the
+official pronouncements of the East Roman state" is, for Sarris, "highly suggestive" —
+[[heraclius|Heraclian]] holy-war propaganda appears to have **percolated** into a Ḥijāz
+that lay largely outside Persian control and may have been a bastion of pro-Roman
+sentiment (cf. the Qurʾānic *sūrat al-Rūm* on "the Greeks"). Islam's austere monotheism
+also reads as a **response to contemporary Christian debate**, cutting through the
+Christological complexities (Sarris notes John of Damascus regarded it as a Christian
+heresy).
+
+**(2) The umma as a monotheist coalition.** Sarris stresses, from the **Constitution of
+Medina** (preserved in Ibn Isḥāq), that the community founded in 622 was "neither a purely
+Muslim nor a purely Arab affair": Yathribi Jews signed the covenant, and what it required
+was militant monotheism, acknowledgement of Muḥammad's authority, belief in the imminent
+Last Days, and contribution to the war effort — terms "many messianically minded Jews and
+apocalyptically inclined Christians could well have accepted." The armies that punctured
+Roman Palestine in 633–4 included non-Muslims fighting alongside Muslims. The whole is set
+in a **"nativist reaction"** frame: imperial military and cultural penetration of an
+increasingly Arabic-speaking Arabia provoked the appropriation of biblical monotheism into
+a new **pan-Arab identity** (the sons of Ishmael, descendants of Abraham) capable of
+overcoming the feuding the great powers had done so much to foster. This complements,
+rather than contradicts, [[cameron-cah-v14-2000|CAH XIV]]'s shrine-and-pilgrimage reading
+of Mecca — a second angle on the same contested problem.
+
 ## Significance
 
 The rise of Islam is the event that **ends antiquity**. Within a generation the Arab conquests would strip
@@ -85,4 +120,4 @@ Mediterranean-centred "ancient" world ended with the seventh century.
   Persia
 - The volume's terminus: the change CAH XIV chose **not** to narrate; hands forward to the New Cambridge
   Medieval History
-- Source: [[cameron-cah-v14-2000]] (Ch. 22, Lawrence Conrad)
+- Sources: [[cameron-cah-v14-2000]] (Ch. 22, Lawrence Conrad); [[sarris-empires-of-faith-2011]] (Ch. 7, the contemporary-witnesses / ecumenical-umma / holy-war-percolation reading)

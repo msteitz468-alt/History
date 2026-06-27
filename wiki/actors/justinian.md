@@ -9,8 +9,8 @@ affiliated_with: [the eastern Roman (Byzantine) empire, Chalcedonian Christianit
 opposed_by: [the Vandals, the Ostrogoths, the Sasanids (Khusro I), the Monophysites, the Nika rioters]
 key_events: [the codification of Roman law (529–534), the Nika Riots (532), the building of Hagia Sophia (532–537), the reconquest of Africa and Italy, the Justinianic Plague (541–542)]
 key_processes: [the "reconquest" of the west, the codification of Roman law, the enforcement of orthodoxy]
-sources_ingested: 4
-last_updated: 2026-06-12
+sources_ingested: 5
+last_updated: 2026-06-27
 tags: [actor, person, late-antiquity, mediterranean-world, rome]
 ---
 
@@ -78,6 +78,28 @@ overrun it within a decade of his death — see **[[lombard-invasion-568|Lombard
 severe. Whether Justinian's ambitions **overstretched the empire** — as his successor Justin II's propaganda
 claimed and Gibbon debated — remains, Cameron notes, an open question.
 
+## Sarris: reform as warfare by other means
+
+**Peter Sarris** ([[sarris-empires-of-faith-2011|*Empires of Faith*]], 2011) reframes the
+whole reform programme as a **fiscal-military project driven by superpower warfare**. The
+renewed war with [[khosrow-i|Khusro I]]'s Persia from 502 focused attention on the army —
+the state's chief consumer of tax revenue — and so on the great obstacle to funding it:
+**aristocratic tax-evasion**. Justinian, like his uncle Justin a man of military
+background, prioritised the army over aristocratic sensibilities; the legal codification
+(the *Digest* establishing the emperor as the *sole* source of law, "the law animate")
+was the opening move of an **over-centralising drive** to claw provincial power back from
+the magnates. His provincial legislation of 535–539 rails repeatedly against "the
+households of the mighty," their private armed retinues, and tax-fraud that threatened
+"the very cohesion of Our state" (tax-collectors who could not produce the figures were
+to have their hands cut off). The **[[nika-riots-532|Nika insurrection]]** Sarris reads as
+the aristocratic backlash this provoked — and as Justinian's chance to purge the Senate.
+But after the dismissal of John the Cappadocian (541), the death of Tribonian (542), and
+the **[[justinianic-plague-541|plague]]**, the reform drive stalled and the aristocracy
+began to reassert itself — visibly so under his successor Justin II. The episode anchors
+Sarris's parallel with Khusro's contemporary Persian reforms, and with the European
+"military revolution" of the seventeenth century: in each case **the funding of warfare
+set the pace of state-building**.
+
 ## Significance
 
 Justinian is the **hinge between Rome and Byzantium**: the last emperor to rule a genuinely Mediterranean-
@@ -96,7 +118,7 @@ the plague, the Lombards, and the coming Persian and Arab wars would soon expose
   schism he sought to heal; the [[late-roman-emperorship|imperial]] tradition he embodies
 - `followed_by:` the Lombard conquest of Italy and the reign of his successors; the
   [[fall-of-the-western-roman-empire-476|fall of the West]] he briefly reversed
-- Source: [[cameron-cah-v14-2000]] (Ch. 3, Averil Cameron); his ecclesiastical policy is documented in
+- Sources: [[sarris-empires-of-faith-2011]] (Ch. 4, the warfare-driven reform reading); [[cameron-cah-v14-2000]] (Ch. 3, Averil Cameron); his ecclesiastical policy is documented in
   the ingested **[[price-acts-constantinople-553|Acts of the Council of Constantinople of 553]]** (the
   [[second-council-of-constantinople-553|Fifth Ecumenical Council]] and the
   [[three-chapters-controversy|Three Chapters]]). The political ideology of his reign is documented in

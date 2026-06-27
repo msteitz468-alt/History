@@ -9,7 +9,7 @@ affiliated_with: [[[sasanian-empire|Sasanian Empire]], the house of Sasan, [[zor
 opposed_by: [the [[byzantine-empire|Byzantine Empire]] (Justinian), the Mazdakites, the Hephthalites]
 key_events: [the suppression of the Mazdakite movement, the tax and army reforms, the 562 CE peace with Justinian, the conquest of Yemen]
 key_processes: [the centralization of the Sasanian state, the four-spahbed military reorganization, the rise of the dehqan service nobility]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-27
 tags: [actor, person, late-antiquity, iran-plateau]
 aliases: [Khosrow I, Khusro I, Chosroes I, Anushirvan, Anoshirvan, Khosrau Anushirwan]
@@ -80,6 +80,24 @@ physician Burzoy) that became the Arabic *Kalīla wa-Dimna*, and under him the
 **Xwadāy-nāmag** received its first authoritative version (see [[eranshahr]]) and the
 *mōbadān mōbad* Weh-Šābuhr published the 21 *nasks* of the Avesta.
 
+## Sarris: the Persian half of a parallel reform
+
+**Peter Sarris** ([[sarris-empires-of-faith-2011|*Empires of Faith*]], 2011) reads
+Khusro's reforms as the **mirror image of [[justinian|Justinian]]'s** — two empires
+responding to the same superpower warfare by extracting themselves from aristocratic
+dominance. Where the early Sasanian shahs had leaned on the armed retinues of the Iranian
+nobility, Khusro taxed his subjects more aggressively to fund a properly imperial,
+salaried army, provoking the wrath of both Mazdakite radicals and the great nobles. The
+result, visible in the numismatic record, was "a period of rapid fiscal, monetary, and
+bureaucratic expansion very similar to that which had taken place in the Roman Empire in
+the age of [[diocletian|Diocletian]] and [[constantine-the-great|Constantine]]," drawing a new
+service elite from the urbanised civic notables of **Mesopotamia (Iraq)** — many of them
+Christian. Sarris also stresses what bounded Khusro's western ambitions: the **Eurasian
+steppe**. His climbdown from Lazica in 561–2, despite sixteen years of investment, is
+explained by the rise of the **Turk Khaganate** on his north-eastern flank — the same
+nomad pressure that would later doom his grandson Khusro II against
+[[heraclius|Heraclius]].
+
 ## Counterfactual Significance
 
 Wiesehöfer treats Khosrow's reforms as the decisive turn toward a centralized Sasanian
@@ -92,4 +110,4 @@ counter the mobile Arab armies a few decades later (see [[sasanian-empire]]).
 
 - [[sasanian-empire]] · [[eranshahr]] · [[zoroastrianism]] · [[byzantine-empire]] ·
   [[ctesiphon]] · [[shapur-ii]]
-- Source: [[sources/wiesehofer-ancient-persia-2001|Wiesehöfer, *Ancient Persia*]]
+- Sources: [[sources/wiesehofer-ancient-persia-2001|Wiesehöfer, *Ancient Persia*]] · [[sarris-empires-of-faith-2011]] (Ch. 4, the parallel-reform reading)
