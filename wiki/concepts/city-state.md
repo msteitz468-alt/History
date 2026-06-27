@@ -9,8 +9,8 @@ origin: >
 applies_to_periods: [Early Bronze Age, Middle Bronze Age, Greek Dark Age, Archaic Period, Classical Antiquity]
 applies_to_regions: [mesopotamia, mediterranean, aegean, south-asia, mesoamerica]
 contested: yes
-sources_ingested: 5
-last_updated: 2026-06-11
+sources_ingested: 7
+last_updated: 2026-06-26
 tags: [concept]
 ---
 
@@ -79,6 +79,12 @@ The comparative city-state literature undercut the assumption that early states
 were uniformly despotic palace-economies, opening the way to [[heterarchy]] and
 councils/assemblies/oligarchies. See [[hierarchy-vs-heterarchy-early-cities]].
 
+Yoffee (2005) deepens this critique in *Myths of the Archaic State*. He argues that the "archaic state" image itself is largely a neo-evolutionist factoid. Most early polities were city-states operating within civilizational frameworks rather than large despotic territorial states. Power was fragmented and contested; rulers shared or competed for authority with temples, merchant groups, and other institutions. City-states were the normal early form in Mesopotamia and many other regions (see also [[yoffee-myths-of-the-archaic-state-2005]] and [[yoffee-cwh-v3-2015]]). This view emphasizes variation, limits on central power, and the importance of everyday social roles over top-down models.
+
+## City-states in Mesopotamia (Yoffee emphasis)
+
+Early Mesopotamia was a landscape of politically independent city-states sharing a broader Mesopotamian civilization (common script, cults, ideals). There was no single "early Mesopotamian state" in the sense of a durable regional territorial polity until later periods. Civilizational identity provided an umbrella over competing city-states; each recognized others as part of the same cultural system while fiercely maintaining autonomy. Kingship was imagined as descending to cities. This pattern of peer city-states within a civilization is a key alternative to the large-empire stereotype (Yoffee 2005, Ch. 3 and Ch. 9).
+
 ## The transplantable polis (CAH III.3)
 
 [[boardman-cah-v3p3-1982|CAH Vol. III, Part 3]] (Ch. 37, Graham) makes the polis the
@@ -129,6 +135,16 @@ and the ethnos state** (see [[greek-federalism]]) and the **territorial monarchy
 [[dionysius-i|Dionysius I]] and of [[philip-ii-of-macedon|Macedon]]. The polis would survive,
 vital but depoliticized, as the cell of the Hellenistic and Roman world — but its age as the
 **autonomous arbiter of its own fate** ended in the fourth century.
+
+## China contrast (Maisels 1999, Range 05): explicit rejection of "city-state" label for early China
+
+Despite thousands of walled yi (towns) and later "1,800 states" (Western Zhou), early Chinese polities "began as small territorial states and either expanded to become or were absorbed by larger territorial states of the ‘village-state’ type". "It is this condition that prompts some writers to speak of the early Chinese ‘city-state’. But neither socially nor economically, militarily nor in terms of settlement structure is this a useful description."
+
+Key distinctions: no common citizenship shared by urban + sustaining area; "Citizens have the right and duty of participation in directing the affairs of the city-state, something clearly seen in the classic city-states of Greece, Pre-Roman Italy and, of course, Mesopotamia. Those rights and duties are signally absent from China at any period, including the present."
+
+Polities were clan/lineage-based (zu/xing networks) with guo (fortified capital + territory) ruled by dominant lineage; population of "states" averaged ~5,000. "The Shang people who moved... went in groups of zu... Such a unit remained intact". Dispersed settlement: "The fundamental social unit... was the walled town [yi]". Capitals (Erlitou, Zhengzhou, Anyang) were lineage clusters / functional districts, not nucleated citizen polities.
+
+**Grounding:** [[sources/maisels-early-civilizations-of-the-old-world-1999]] (lines ~1755-1780, ~1715-1745). See also [[concepts/territorial-state]], [[actors/shang-dynasty]], [[places/anyang]].
 
 ## Related
 

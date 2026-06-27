@@ -24,7 +24,7 @@
 ## Part II: Regional Clusters
 
 ### 1. Prehistoric & Ancient Europe
-11. **Ian Hodder** - *Archaeological Theory in Europe: The Last Three Decades*
+11. **Ian Hodder** - *Archaeological Theory in Europe: The Last Three Decades* ✅ (ingested 2026-06-26)
 12. **Timothy Champion, Clive Gamble, Stephen Shennan, Alasdair Whittle** - *Prehistoric Europe* **[MISSING]**
 13. **Barry W. Cunliffe** - *The Ancient Celts*
 14. **John T. Koch** - *Celtic Culture: A Historical Encyclopedia (5 Vol. Set)*
