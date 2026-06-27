@@ -7,7 +7,7 @@ date_range: "31 BCE–600 CE"
 regions_covered: [mediterranean, western-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, north-africa, east-africa, central-asia, south-asia, china, steppe, indian-ocean]
 major_themes: ["the Roman Empire at its height and its transformation", "the Parthian and Sasanian empires", "the spread of universalizing religions (Christianity, Buddhism, Manichaeism)", "the Kushan Empire and the Silk Roads", "the Gupta 'golden age'", "the Han collapse and China's Age of Disunity", "steppe migrations and the 'fall' of the Western Empire", "the rise of Byzantium"]
 collection_coverage: strong
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-06-27
 tags: [period]
 ---
@@ -85,7 +85,9 @@ dynastic histories); India's remains thin.
 study of this period is the **"transformation vs. decline-and-fall" debate** (Brown
 vs. the Gibbonian tradition, and more recently Ward-Perkins and Heather
 reasserting genuine catastrophe in the west) — a standing wiki controversy,
-[[fall-of-rome-causes]]. The nature of barbarian integration is contested, heavily reframed by the theory of 
+[[fall-of-rome-causes]]; [[sources/heather-fall-roman-empire-2005|Heather (2005)]] supplies the
+fullest externalist statement, locating the cause in the [[huns|Hunnic]] shock and the fiscal
+spiral rather than internal decline. The nature of barbarian integration is contested, heavily reframed by the theory of 
 **[[ethnogenesis]]** (focusing on subjective, fluid identity construction rather than static biological tribes). 
 Also contested: the periodization of "Late Antiquity" itself (its expansion to 800 CE and beyond), the social 
 reality behind Christianization, and the role of climate and pandemic (the Antonine and Justinianic plagues, 

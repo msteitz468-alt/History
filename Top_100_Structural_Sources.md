@@ -71,7 +71,7 @@
 43. **Walter Scheidel, Ian Morris, Richard P. Saller** - *The Cambridge Economic History of the Greco-Roman World*
 44. **Mary T. Boatwright, Daniel J. Gargola, Richard J. A. Talbert** - *The Romans From Village to Empire: A History of Rome from Earliest Times to the End of the Western Empire* **[MISSING]**
 45. **Edward Gibbon** - *History of the Decline and Fall of the Roman Empire*
-46. **Peter Heather** - *The Fall of the Roman Empire: A New History of Rome and the Barbarians* **[MISSING]**
+46. **Peter Heather** - *The Fall of the Roman Empire: A New History of Rome and the Barbarians* ✅ INGESTED (2026-06-27; externalist thesis — Hunnic shock + fiscal spiral; created Attila page, spliced into fall controversy/event, Adrianople, Huns, Alaric, Stilicho, Late Antiquity)
 47. **William Vernon Harris** - *Roman Power: A Thousand Years of Empire*
 48. **Stephen Mitchell** - *A History of the Later Roman Empire, AD 284-641*
 49. **Greg Woolf** - *Rome: An Empire's Story*

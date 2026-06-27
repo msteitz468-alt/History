@@ -5,7 +5,7 @@ period_involved: [Late Antiquity]
 regions_involved: [italy, western-europe, mediterranean-world]
 positions: [external/barbarian causation, internal/structural decay, fiscal-military "vicious circle", transformation rather than fall, decline of material civilization]
 resolution_status: open
-last_updated: 2026-06-12
+last_updated: 2026-06-27
 tags: [controversy]
 ---
 
@@ -24,9 +24,13 @@ positions below.
 ### 1. External / barbarian causation
 The empire fell because it was **overwhelmed from outside** — the [[huns|Hunnic]] shock dislodging the
 Germanic peoples, the [[germanic-peoples|Goths, Vandals and others]] forcing their way in. **Peter Heather**
-(CAH XIV Ch. 1) is the leading modern exponent: the West was a still-functioning state destroyed by an
-**exogenous trigger** (the Huns), not by inner rot. Scholars: Heather, Ward-Perkins (in part), the older
-"catastrophist" tradition.
+(CAH XIV Ch. 1; [[sources/heather-fall-roman-empire-2005|*The Fall of the Roman Empire*, 2005]]) is the
+leading modern exponent: the West was a still-functioning state destroyed by an **exogenous trigger** (the
+Huns), not by inner rot. His monograph adds the "supergroup" mechanism — centuries of contact with Roman
+wealth, subsidy and aggression had consolidated Germanic war-bands into larger confederations, which the
+[[attila|Hunnic]] shock then drove across the frontier — and the closing reversal of Gibbon: "Roman
+imperialism was ultimately responsible for its own destruction." Scholars: Heather, Ward-Perkins (in part),
+the older "catastrophist" tradition.
 
 ### 2. The fiscal-military "vicious circle"
 A structural variant stressing **resources**: as barbarian groups had to be *included* (and rewarded with
@@ -85,4 +89,4 @@ genuine, severe consequences for material civilization, unevenly distributed acr
   complexity]]; the [[post-roman-transformation-of-the-west|social transformation]] (Wickham); the
   [[germanic-peoples|successor kingdoms]] ([[vandal-kingdom|Vandals]], [[theoderic-the-great|Ostrogoths]],
   [[clovis|Franks]])
-- Primary modern sources: [[cameron-cah-v14-2000|CAH XIV]] (Heather, Lee, Ward-Perkins, Wickham, Wood); [[fouracre-ncmh-v1-2005|NCMH Vol. 1]] (Halsall)
+- Primary modern sources: [[cameron-cah-v14-2000|CAH XIV]] (Heather, Lee, Ward-Perkins, Wickham, Wood); [[sources/heather-fall-roman-empire-2005|Heather, *The Fall of the Roman Empire* (2005)]]; [[fouracre-ncmh-v1-2005|NCMH Vol. 1]] (Halsall)

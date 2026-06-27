@@ -9,8 +9,8 @@ affiliated_with: [the Visigoths, the Gothic foederati of the Theodosian settleme
 opposed_by: [Stilicho, the western court at Ravenna (Honorius, Olympius)]
 key_events: [the Gothic revolt after 395, the invasions of Italy, the sack of Rome (410)]
 key_processes: [the formation of the Visigoths, the failure of the foederate settlement]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-antiquity, balkans, italy]
 ---
 
@@ -56,4 +56,4 @@ Aquitaine, 418).
 - Product of the [[germanic-peoples|Gothic]] settlement after [[battle-of-adrianople-378|Adrianople]] and
   the *foedus* of [[theodosius-i|Theodosius I]]; nemesis of [[stilicho|Stilicho]]
 - `produced:` the [[sack-of-rome-410|sack of Rome (410)]]; the founding of the Visigothic people
-- Source: [[cameron-cah-v13-1998]] (Ch. 4, R. C. Blockley)
+- Source: [[cameron-cah-v13-1998]] (Ch. 4, R. C. Blockley); [[sources/heather-fall-roman-empire-2005|Heather (2005)]], who reads Alaric's Goths as a [[huns|Hunnic]]-driven "supergroup" bargaining for a secure place inside the empire

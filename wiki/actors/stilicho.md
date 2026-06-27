@@ -9,8 +9,8 @@ affiliated_with: [the house of Theodosius, the western Roman court at Ravenna/Mi
 opposed_by: [Alaric and the Visigoths, the eastern court, the faction of Olympius]
 key_events: [the regency for Honorius (395–408), the defeat of Radagaisus (406), his execution (408)]
 key_processes: [the militarization of the western government, the reliance on barbarian federates]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, person, late-antiquity, italy]
 ---
 
@@ -53,4 +53,4 @@ the one figure who might have managed Alaric, and the sack of Rome followed with
 - Regent for **Honorius**, son of [[theodosius-i|Theodosius I]]; his nemesis [[alaric|Alaric]]; his fall
   `enabled:` the [[sack-of-rome-410|sack of Rome]]
 - The western reliance on [[germanic-peoples|barbarian federates]]; the rivalry with the eastern court
-- Source: [[cameron-cah-v13-1998]] (Ch. 4, R. C. Blockley)
+- Source: [[cameron-cah-v13-1998]] (Ch. 4, R. C. Blockley); [[sources/heather-fall-roman-empire-2005|Heather (2005)]], who stresses Stilicho's use of [[huns|Hunnic]] troops to contain the federates

@@ -9,8 +9,8 @@ affiliated_with: [steppe-nomad confederations; subject Gothic, Alan and Germanic
 opposed_by: [the Goths, the Roman Empire (eventually); employed as Roman allies c. 400–420s]
 key_events: [the subjugation of the Alans and Goths (c. 370–376), the Caucasus raid of 395, the move to the middle Danube (c. 410)]
 key_processes: [the displacement of the Germanic peoples, the formation of Attila's empire]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [actor, movement, late-antiquity, eurasian-steppe, eastern-europe]
 ---
 
@@ -78,7 +78,7 @@ beyond the frontier. Their own empire, and its collapse, belong to [[cameron-cah
 
 - `produced:` (indirectly) the [[germanic-peoples|Gothic]] flight to the Danube, [[battle-of-adrianople-378|Adrianople]],
   and the Rhine crossing of 406; displaced the Goths, Vandals, Alans and Sueves
-- Employed as Roman allies by [[stilicho|Stilicho]] and Aetius; built into Attila's empire (CAH XIV)
+- Employed as Roman allies by [[stilicho|Stilicho]] and Aetius; built into [[attila|Attila's]] empire
 - `contrasts_with:` the settled [[sasanian-empire|Sassanid]] state and the semi-settled
   [[germanic-peoples|Germanic confederations]]
-- Source: [[cameron-cah-v13-1998]] (Ch. 16, Peter Heather)
+- Source: [[cameron-cah-v13-1998]] (Ch. 16, Peter Heather); [[sources/heather-fall-roman-empire-2005|Heather, *The Fall of the Roman Empire* (2005)]]

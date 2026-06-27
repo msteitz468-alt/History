@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the collapse of Hunnic power after Attila (453), the loss of Africa to the Vandals, the "vicious circle" of too many players over a shrinking fiscal base, the failure of the Vandal expeditions]
 consequences: [the end of the western imperial line, the rise of the barbarian successor kingdoms, the survival of the empire in the East]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-06-27
 tags: [event, transition, late-antiquity, italy, western-europe, mediterranean, rome]
 ---
 
@@ -88,9 +88,16 @@ from **376** (the Gothic crossing of the Danube and [[battle-of-adrianople-378|A
 from 476 — the choice of 476 itself is a historiographical artefact, since contemporaries did not
 regard it as the end of Rome.
 
+[[sources/heather-fall-roman-empire-2005|Heather's 2005 monograph]] sharpens the externalist
+pole of this arc: the West was a structurally sound state destroyed by the [[huns|Hunnic]] shock
+and the **fiscal spiral** of provincial loss (above all [[vandal-kingdom|Vandal Africa]], 439),
+not by internal decline — his closing line reversing Gibbon, that "Roman imperialism was
+ultimately responsible for its own destruction." See the
+[[causes-of-the-fall-of-the-western-roman-empire|fall controversy]] for the opposing positions.
+
 ## Related
 
-- `caused_by:` the death of **Attila** and the collapse of the [[huns|Huns]]; the loss of
+- `caused_by:` the death of **[[attila|Attila]]** and the collapse of the [[huns|Huns]]; the loss of
   [[vandal-kingdom|Vandal Africa]]; carried out by **Odoacer**
 - `preceded_by:` the [[sack-of-rome-410|sack of Rome (410)]] and [[battle-of-adrianople-378|Adrianople]];
   `produced:` the [[germanic-peoples|successor kingdoms]] ([[theoderic-the-great|Ostrogothic Italy]])
