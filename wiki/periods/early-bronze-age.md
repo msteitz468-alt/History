@@ -29,6 +29,8 @@ This is the period of Childe's [[urban-revolution]]: the threshold across which
 agricultural and secondary-products foundations of the [[neolithic|Neolithic]]
 and [[chalcolithic|Chalcolithic]].
 
+Yoffee (2005) emphasizes that early Mesopotamia was a land of **city-states** (not large territorial states) sharing a civilizational boundary; "there was no early Mesopotamian state" until Sargon. Urbanization came with "ruralization"; cities as "generative" of new roles/identities. "Evolution of simplicity" alongside complexity (writing, standardization, legibility). Phase transitions from long village phases. Critiques neo-evolutionist "archaic state" myths (see [[neo-evolutionism]], [[archaic-state]], [[yoffee-myths-of-the-archaic-state-2005]]). Links to [[mesopotamia]], [[uruk]], [[state-formation]].
+
 ## Major Developments
 
 - **The first cities (~3500–3000 BCE)** — [[places/uruk|Uruk]] in southern
