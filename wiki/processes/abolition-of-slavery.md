@@ -59,7 +59,7 @@ Abolition has two analytically distinct stages, often separated by decades:
 2. **Abolition of the trade (1807–c.1850):** Britain and the U.S. (1807/08), then a half-century
    of naval suppression and treaty-making against the persisting illegal trade.
 3. **Emancipation in the Americas (1833–1888):** British Empire (1833–38, with a transitional
-   "apprenticeship"), French and Danish (1848), the U.S. via the **[[american-civil-war-1861|Civil
+   "apprenticeship"), French and Danish (1848), the U.S. via the **[[events/american-civil-war-1861-1865|Civil
    War]]** (1863–65), Spanish Cuba (1886), and **Brazil** (1888, the last in the Americas).
 4. **Emancipation of the serfs:** the parallel European unbinding of coerced rural labour —
    Habsburg lands (1781/1848) and **Russia (1861)** — which Vol. 4 frames as part of the same
@@ -81,7 +81,7 @@ Chinese workers, the great post-emancipation labour movement of the nineteenth c
 ## Interaction
 
 Abolition is entangled with the [[atlantic-slave-trade|Atlantic slave trade]] it ended, the
-[[haitian-revolution-1791|Haitian Revolution]], the [[american-civil-war-1861|American Civil
+[[haitian-revolution-1791|Haitian Revolution]], the [[events/american-civil-war-1861-1865|American Civil
 War]], the emancipation of the [[second-serfdom|European serfs]], the [[industrial-revolution|rise
 of industrial free-labour economies]], and [[new-imperialism|European colonialism]] in Africa
 (which justified itself partly as anti-slavery while imposing new forced labour). It produced the
@@ -126,7 +126,7 @@ Drescher's econocide**, now treated on its own page: [[williams-thesis-abolition
   **imperial** dimension (abolition as a tool of British hegemony).
 
 `caused_by: [[haitian-revolution-1791]]`
-`produced: [[american-civil-war-1861]]`
+`produced: [[events/american-civil-war-1861-1865|American Civil War]]`
 `followed_by: [[second-serfdom]]`
 `part_of: [[slavery]]`
 `contrasts_with: [[atlantic-slave-trade]]`

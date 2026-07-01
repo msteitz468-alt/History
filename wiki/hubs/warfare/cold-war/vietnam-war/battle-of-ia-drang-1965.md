@@ -1,26 +1,34 @@
 ---
-title: "Battle of Ia Drang — Tactical Analysis"
+title: Battle of Ia Drang — Tactical Analysis
 analysis_type: battle
-period: "Cold War"
+period: Cold War
 war: vietnam-war
-date: "1965-11"
-date_precision: "year"
-region: [southeast-asia]
-location: "Ia Drang Valley, Central Highlands, South Vietnam (near Pleiku / Chu Pong massif)"
-belligerents: "United States (1st Cavalry Division) and ARVN vs. People's Army of Vietnam (NVA 32nd, 33rd, 66th Regiments)"
-commander_a: "MG Harry W.O. Kinnard (1st Cav); LTC Hal Moore (1/7 Cav); LTC Robert McDade (2/7 Cav)"
-commander_b: "Senior Gen. Chu Huy Man (B-3 Front); field commanders of 32/33/66 NVA Regts"
+date: 1965-11
+date_precision: year
+region:
+  - southeast-asia
+location: Ia Drang Valley, Central Highlands, South Vietnam (near Pleiku / Chu Pong massif)
+belligerents: United States (1st Cavalry Division) and ARVN vs. People's Army of Vietnam (NVA 32nd, 33rd, 66th Regiments)
+commander_a: MG Harry W.O. Kinnard (1st Cav); LTC Hal Moore (1/7 Cav); LTC Robert McDade (2/7 Cav)
+commander_b: Senior Gen. Chu Huy Man (B-3 Front); field commanders of 32/33/66 NVA Regts
 forces_a: "~US: 1st Cavalry Division elements (airmobile); ~430 in initial 1/7 Cav lift; supporting artillery, air, gunships; ARVN Airborne/Rangers in relief"
 forces_b: "~NVA: three regiments (32nd, 33rd, 66th) + supporting units; ~2,000+ committed in valley fighting"
 casualties_a: "US: ~305 KIA, ~500+ WIA (1/7 Cav heavy at LZ X-Ray; 2/7 at LZ Albany); 1st Cav total for campaign higher"
 casualties_b: "NVA: US claims ~3,500+ killed (body count); actual likely lower but significant losses to air/artillery"
-outcome: "Tactical US victory in direct clashes (LZ X-Ray successful defense; Albany ambush costly); NVA failed to overrun Pleiku or destroy arriving US forces; validated airmobile concept but at high cost; strategic NVA adaptation followed"
+outcome: Tactical US victory in direct clashes (LZ X-Ray successful defense; Albany ambush costly); NVA failed to overrun Pleiku or destroy arriving US forces; validated airmobile concept but at high cost; strategic NVA adaptation followed
 scale_immediate: regional
 scale_consequential: civilizational
 event_page: "[[events/battle-of-ia-drang-1965]]"
-key_sources: "[[sources/wawro-the-vietnam-war-a-military-history-2024]], Moore/Galloway We Were Soldiers Once... and Young, US Army official histories, MACV after-action reports"
+key_sources: "[[wawro-the-vietnam-war-a-military-history-2024]]"
 last_updated: 2026-06-25
-tags: [hub, warfare, cold-war, vietnam-war, ia-drang, airmobile, 1st-cav]
+tags:
+  - hub
+  - warfare
+  - cold-war
+  - vietnam-war
+  - ia-drang
+  - airmobile
+  - 1st-cav
 ---
 
 # Battle of Ia Drang — Tactical Analysis

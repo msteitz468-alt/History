@@ -72,15 +72,15 @@ at their own game," and underwrote the reconquest of Normandy and Gascony that e
 
 ## Battles
 
-| Battle | Date | Result | Page |
-|---|---|---|---|
-| Sluys (naval) | 1340 | English victory; command of the Channel | narrative: [[events/hundred-years-war-1337]] |
-| **Crécy** | 26 Aug 1346 | **English victory — longbow + dismounted men-at-arms** | **[[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-crecy-1346|Tactical analysis]]** |
-| Poitiers | 19 Sep 1356 | English victory; King John II captured | narrative: [[events/hundred-years-war-1337]] |
-| **Agincourt** | 25 Oct 1415 | **English victory — the system at its peak** | **[[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-agincourt-1415|Tactical analysis]]** |
-| Verneuil | 1424 | English victory ("the second Agincourt") | — |
-| Orléans / Patay | 1429 | French recovery begins | — |
-| Castillon | 1453 | French artillery victory; war ends | — |
+| Battle          | Date        | Result                                                 | Page                                                                           |                         |
+| --------------- | ----------- | ------------------------------------------------------ | ------------------------------------------------------------------------------ | ----------------------- |
+| Sluys (naval)   | 1340        | English victory; command of the Channel                | narrative: [[events/hundred-years-war-1337]]                                   |                         |
+| **Crécy**       | 26 Aug 1346 | **English victory — longbow + dismounted men-at-arms** | **[[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-crecy-1346]]     | [[Tactical analysis]]** |
+| Poitiers        | 19 Sep 1356 | English victory; King John II captured                 | narrative: [[events/hundred-years-war-1337]]                                   |                         |
+| **Agincourt**   | 25 Oct 1415 | **English victory — the system at its peak**           | **[[hubs/warfare/late-middle-ages/hundred-years-war/battle-of-agincourt-1415]] | [[Tactical analysis]]** |
+| Verneuil        | 1424        | English victory ("the second Agincourt")               | —                                                                              |                         |
+| Orléans / Patay | 1429        | French recovery begins                                 | —                                                                              |                         |
+| Castillon       | 1453        | French artillery victory; war ends                     | —                                                                              |                         |
 
 *Related infantry-revolution battles outside the HYW proper:* the Scots' defensive schiltron win at
 [[events/battle-of-bannockburn-1314|Bannockburn (1314)]].

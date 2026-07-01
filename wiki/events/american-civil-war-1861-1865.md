@@ -11,38 +11,95 @@ actors_secondary: ["George B. McClellan", "Thomas J. Stonewall Jackson", "Joseph
 event_type: war
 scale_immediate: civilizational
 scale_consequential: global
-causes: ["Sectional crisis over slavery and states' rights; election of Lincoln 1860; secession of Southern states; Fort Sumter"]
-consequences: ["Preservation of the Union; abolition of slavery (13th Amendment); transformation of U.S. into industrial power; massive casualties; end of chattel slavery; Reconstruction era; modern nation-state consolidation"]
-sources_ingested: 2
-last_updated: "2026-06-23"
+causes: ["Institutionalization of chattel slavery in the U.S. South and its economic centrality to the plantation system", "Missouri Compromise (1820) and the failure of successive sectional compromises", "Wilmot Proviso (1846) and the conflict over slavery's expansion into western territories", "Compromise of 1850 and the Fugitive Slave Act", "Kansas-Nebraska Act (1854) and 'Bleeding Kansas'", "Dred Scott decision (1857)", "John Brown's raid on Harpers Ferry (1859)", "Election of Abraham Lincoln (1860) and Southern secession", "Attack on Fort Sumter (April 1861)"]
+consequences: ["Preservation of the Union", "Abolition of slavery (13th Amendment, 1865)", "14th and 15th Amendments establishing birthright citizenship and (nominal) Black male suffrage", "Reconstruction era (1865-1877) and its violent reversal (Redemption, Jim Crow)", "Transformation of U.S. into an industrial, centralized nation-state", "Roughly 620,000-750,000 dead", "Confederate 'Lost Cause' mythology and long-term regional memory conflict", "U.S. emergence as a rising global industrial and military power"]
+sources_ingested: 3
+last_updated: "2026-07-01"
 tags: [event, long-19th-century, north-america, american-civil-war, war]
 ---
 
 # American Civil War (1861–1865)
 
-**Warfare hub:** [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war|Campaign and Operational Hub]] (detailed tactical analyses of individual battles) · Operational/logistical standard: [[sources/hattaway-jones-how-the-north-won-1983|How the North Won (Hattaway & Jones)]]
+**Warfare hub:** [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war|Campaign and Operational Hub]] (detailed tactical analyses of individual battles) · Operational/logistical standard: [[sources/hattaway-jones-how-the-north-won-1983|How the North Won (Hattaway & Jones)]] · Detailed biography: [[hubs/biographies/long-19th-century/lincoln-abraham|Abraham Lincoln]]
+
+This page owns the **full political-to-military narrative arc** — antebellum causes, secession, the war itself, and Reconstruction. Battle-level tactical depth lives exclusively in the [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war|warfare hub]]; this page provides the connective narrative and causal analysis the hub deliberately keeps light.
 
 ## Narrative
 
-The American Civil War was fought between the United States (Union) and the seceded Confederate States of America. It began with the Confederate attack on Fort Sumter in April 1861 and ended with the surrender of major Confederate armies in 1865 (Appomattox, Bennett Place, etc.).
+### Antebellum Roots (1780s–1860)
 
-Major theaters: Eastern (Virginia-centric, Lee vs. successive Union commanders culminating in Grant/Meade), Western (Grant, Sherman, riverine campaigns, Vicksburg, Atlanta, March to the Sea).
+Slavery's constitutional accommodation (the three-fifths clause, the 1808 end of the slave trade, the Fugitive Slave Clause) left the question of its expansion unresolved. As the U.S. acquired territory (Louisiana Purchase 1803, Mexican Cession 1848), each new territory reopened the question of whether slavery would extend westward, since admitting free vs. slave states threatened the Senate balance of power.
 
-## Major Developments
+- The **Missouri Compromise (1820)** admitted Missouri as a slave state and Maine as a free state, and banned slavery north of the 36°30′ line in the remaining Louisiana Purchase territory — a fragile truce, not a resolution.
+- The **Wilmot Proviso (1846)**, attempting to ban slavery in any territory won from Mexico, failed to pass but hardened sectional voting blocs.
+- The **Compromise of 1850** (California free, popular sovereignty in Utah/New Mexico territories, a strengthened **Fugitive Slave Act**) nationalized the conflict — Northern states now faced direct federal compulsion to return escaped slaves, radicalizing abolitionist opinion (Harriet Beecher Stowe's *Uncle Tom's Cabin*, 1852, reached mass Northern audiences on the back of this backlash).
+- The **Kansas-Nebraska Act (1854)** repealed the Missouri Compromise line in favor of popular sovereignty, triggering **"Bleeding Kansas"** — armed pro- and anti-slavery settlers fighting a proxy war for control of the territory, and directly producing the Republican Party as a Northern anti-slavery-expansion coalition.
+- The **Dred Scott v. Sandford** decision (1857) held that Black Americans, free or enslaved, could not be U.S. citizens and that Congress had no power to ban slavery in the territories at all — collapsing the compromise framework entirely and convincing many Northerners that a "Slave Power" conspiracy controlled the federal government.
+- The **Lincoln-Douglas debates (1858)** and **John Brown's raid on Harpers Ferry (October 1859)** — an attempt to spark a slave insurrection — further polarized opinion; Brown's execution made him a martyr in the North and confirmed Southern fears of Northern-backed insurrection.
 
-See war hub phases from West Point History source for operational breakdown.
+See [[actors/lincoln-abraham]] and [[hubs/biographies/long-19th-century/lincoln-abraham]] for the detailed political biography of this period, including Lincoln's "House Divided" speech (1858) and the 1860 "Rail Splitter" campaign.
 
-## Key Actors
+### Secession and Fort Sumter (1860–1861)
 
-Linked in war hub and individual battle pages. Prominent: Lincoln (political direction), Grant (overall command 1864+), Sherman (hard war in West), Lee (Confederate Eastern command), Jackson (early Eastern operations).
+Lincoln's election in November 1860 — without a single electoral vote from a slave state — was read across the Deep South as proof that the federal government would no longer protect slavery's expansion. South Carolina seceded in December 1860; six more Deep South states followed by February 1861, forming the **Confederate States of America** under President **Jefferson Davis**. Outgoing President Buchanan took no action to prevent secession. Lincoln, inaugurated March 1861, declared secession illegal but sought to avoid firing the first shot.
+
+The crisis came to a head over **Fort Sumter**, a Union garrison in Charleston Harbor. Lincoln's decision to resupply (not reinforce) the fort forced the Confederacy to choose between allowing federal resupply or attacking; Confederate batteries opened fire on 12 April 1861, and the garrison surrendered the next day. The attack triggered Lincoln's call for 75,000 volunteers, which in turn pushed four **Upper South** states (Virginia, North Carolina, Tennessee, Arkansas) — which had resisted joining the Deep South secessionists — into the Confederacy, since they refused to supply troops to coerce fellow Southern states.
+
+### The War (1861–1865)
+
+Full operational and tactical detail lives in the [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war|warfare hub]]; summarized phases:
+
+- **Origins and Borderlands (1861–early 1862):** Mobilization; First Bull Run (Jul 1861) shattered illusions of a short war; contest for the border states (Kentucky, Missouri, Maryland) and Confederate Kentucky-Tennessee line; Grant's early river campaigns (Forts Henry and Donelson, Feb 1862) and Shiloh (Apr 1862).
+- **War in the East (1862):** McClellan's Peninsula Campaign fails to take Richmond; Lee's Seven Days' Battles drive McClellan back; Second Bull Run (Aug 1862); Lee's first invasion of the North halted at Antietam (17 Sep 1862) — bloodiest single day of the war and the political opening Lincoln needed for emancipation; Fredericksburg (Dec 1862) a costly Union repulse.
+- **Emancipation Proclamation (1 Jan 1863):** Lincoln, using his war powers, declared enslaved people in rebel-held territory free, reframing the war's purpose from Union preservation alone to include abolition, and opening Union enlistment to Black soldiers (eventually ~180,000 in the U.S. Colored Troops).
+- **Turning point (1863):** Chancellorsville (Lee's tactical masterpiece, but the mortal wounding of Stonewall Jackson); Gettysburg (1–3 Jul 1863) repels Lee's second Northern invasion; Vicksburg falls to Grant (4 Jul 1863), giving the Union full control of the Mississippi and splitting the Confederacy; Chickamauga and Chattanooga contest control of Tennessee.
+- **Grant's Overall Command and Hard War (1864–1865):** Grant, made general-in-chief, coordinates simultaneous advances on all fronts; the Overland Campaign (Wilderness, Spotsylvania, Cold Harbor) grinds Lee's army down through attrition around Richmond/Petersburg; Sherman's Atlanta Campaign and March to the Sea (1864) apply "hard war" against Southern infrastructure and morale, decisively aiding Lincoln's re-election in November 1864; Franklin and Nashville (Nov–Dec 1864) destroy Confederate field armies in the West.
+- **Collapse and Surrender (1865):** Sherman's Carolinas Campaign; Five Forks and the fall of Petersburg/Richmond (Apr 1865); Lee's surrender to Grant at **Appomattox Court House** (9 Apr 1865); Lincoln's assassination by John Wilkes Booth (14 Apr 1865, five days after Appomattox); remaining Confederate surrenders (Johnston to Sherman at Bennett Place, Apr 1865; last Confederate forces by June 1865).
+
+### Reconstruction and Aftermath (1865–1877)
+
+The war's end left three unresolved questions: the legal status of 4 million freedpeople, the terms of the former Confederate states' return to the Union, and who would control that process.
+
+- **13th Amendment (ratified Dec 1865)** abolished slavery nationwide.
+- **Presidential Reconstruction** under Andrew Johnson (succeeding the assassinated Lincoln) was lenient toward the former Confederate elite; Southern legislatures responded with **Black Codes** restricting freedpeople's rights, provoking Congressional backlash.
+- **Radical/Congressional Reconstruction (1867–1877)**: Military occupation of the South under the Reconstruction Acts; **14th Amendment** (1868, birthright citizenship and equal protection) and **15th Amendment** (1870, Black male suffrage); the **Freedmen's Bureau** provided relief, education, and labor-contract mediation; Black Americans voted and held office in Southern legislatures and Congress for the first time.
+- **Violent reaction**: the Ku Klux Klan and allied paramilitary groups (White League, Red Shirts) waged a campaign of terror against Black political participation; federal enforcement (Enforcement Acts, 1870–71) suppressed the first Klan wave but Northern political will to sustain occupation eroded through the 1870s.
+- **Redemption and the Compromise of 1877**: the disputed Hayes-Tilden presidential election was resolved by an informal bargain in which Republicans secured the presidency in exchange for withdrawing remaining federal troops from the South, ending Reconstruction and allowing "Redeemer" Democratic governments to dismantle Black political power, culminating over the following decades in Jim Crow segregation and disenfranchisement.
+
+## Causal Analysis
+
+- `caused_by:` the institutionalization and westward-expansion pressure of chattel slavery — the structural cause underlying every specific crisis below (link type: direct causal antecedent, not mere sequence).
+- `contributed_to:` the collapse of the Second Party System and the sectionalization of national politics (Missouri Compromise → Wilmot Proviso → Compromise of 1850 → Kansas-Nebraska → Dred Scott form a causal chain of escalating institutional failure, not simple temporal succession).
+- `preceded_by:` John Brown's raid (1859) and the election of 1860 — temporally immediate triggers; secession and Fort Sumter followed directly, with `caused_by` (not merely `preceded_by`) justified by Confederate leaders' own stated reasons for secession (the South Carolina and Mississippi secession declarations explicitly cite slavery's protection).
+- `enabled:` the Emancipation Proclamation (1863) was **not** the war's originating cause but a wartime policy `enabled` by military necessity and shifting Northern opinion — see [[processes/abolition-of-slavery]] for the longer-run process this act accelerated.
+
+## Consequence Analysis
+
+- `produced:` the 13th, 14th, and 15th Amendments; the definitive end of legal chattel slavery in the U.S.; federal supremacy over state secession claims.
+- `produced:` Reconstruction (1865–1877) as a distinct process — see the Reconstruction section above; a dedicated process page is warranted as the wiki's Reconstruction coverage deepens.
+- `enabled:` the U.S. industrial and railroad expansion of the late 19th century (wartime financing, the transcontinental railroad's 1862 authorization, and Northern industrial mobilization set precedents for federal economic intervention).
+- `contributed_to:` the rise of the Lost Cause historical memory movement in the former Confederacy, which shaped U.S. historical memory and Jim Crow-era race relations well into the 20th century.
+
+## Actors
+
+- [[actors/lincoln-abraham|Abraham Lincoln]] — President; evolved from preserving the Union to emancipation as war policy; assassinated days after victory. Detailed biography: [[hubs/biographies/long-19th-century/lincoln-abraham]].
+- [[actors/grant-ulysses-s|Ulysses S. Grant]] — general-in-chief from 1864, architect of coordinated simultaneous-advance strategy.
+- [[actors/william-t-sherman|William T. Sherman]] — Western Theater command, architect of "hard war" against Southern infrastructure.
+- Robert E. Lee — Confederate Army of Northern Virginia commander; tactically formidable but strategically constrained by Confederate manpower and industrial disadvantage.
+- Jefferson Davis — Confederate President; centralization efforts undermined by states'-rights ideology his own government relied on.
+- George B. McClellan, Stonewall Jackson, Joseph E. Johnston, Braxton Bragg — see individual actor pages and the warfare hub for operational roles.
 
 ## Historiography
 
-The West Point History (Rogers & Seidule eds. 2014) provides the authoritative operational/tactical treatment with maps and OOB for the warfare hub. Complements broader political/social histories.
+The West Point History (Rogers & Seidule eds., 2014) provides the authoritative operational/tactical treatment (maps, order-of-battle data) used throughout the [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war|warfare hub]]. [[sources/hattaway-jones-how-the-north-won-1983|Hattaway & Jones]] supply the operational/logistical standard account of how Union numerical and industrial superiority was translated into victory. [[sources/weigley-the-american-way-of-war-1973|Weigley]] frames the war within the longer American strategic-culture debate between limited war and annihilation, with Grant as exemplar of the latter. [[sources/hagerman-american-civil-war-origins-modern-warfare-1988|Hagerman]] traces the doctrinal and organizational path (Mahan's prewar teaching, rifled-musket firepower, industrial logistics) from 1861 improvisation to the entrenched, positional "modern warfare" of 1864–65, drawing explicit parallels to WWI. [[sources/donald-lincoln-1995|Donald's *Lincoln*]] (1995) is the standard modern biographical treatment of the political direction of the war.
 
-**Range 2 grounding** (source captions): Covers Fredericksburg through 1865 campaigns with precise map situations and OOB citations.
+**Standing controversies not yet promoted to dedicated pages** (candidates for `wiki/controversies/`): the causes of the war (states' rights vs. slavery — resolved among professional historians in favor of slavery as the central cause, but contested in popular/regional memory as the "Lost Cause" narrative); Lincoln's evolving emancipation motives (moral conviction vs. military necessity vs. both); the necessity/proportionality of Sherman's "hard war" tactics; the causes of Reconstruction's failure (Northern loss of will vs. structural limits of federal power vs. the scale of Southern white paramilitary violence).
+
+**Collection coverage:** Strong — extensively developed via the West Point Atlas, Rogers & Seidule tactical analyses, Hattaway & Jones, Weigley, Hagerman, and the Donald Lincoln biography. The **antebellum political crisis and Reconstruction era** are comparatively thinner in dedicated wiki pages relative to the war's operational history and would benefit from a targeted secondary source (a Reconstruction-focused monograph, e.g. Eric Foner's *Reconstruction: America's Unfinished Revolution*, is not yet in the collection/wiki).
 
 ## Related
 
-- Warfare hub for battles: Antietam, Fredericksburg, Chancellorsville, Gettysburg, Chickamauga, Chattanooga, Overland, etc.
-- Source: [[sources/rogers-seidule-west-point-history-civil-war-2014]]
+- Warfare hub for battles: Antietam, Fredericksburg, Chancellorsville, Gettysburg, Chickamauga, Chattanooga, Overland, Atlanta, Appomattox, etc. — [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]]
+- [[processes/abolition-of-slavery]] — the longer-run process the Emancipation Proclamation and 13th Amendment belong to
+- [[actors/lincoln-abraham]] / [[hubs/biographies/long-19th-century/lincoln-abraham]]
+- Sources: [[sources/rogers-seidule-west-point-history-civil-war-2014]] · [[sources/hattaway-jones-how-the-north-won-1983]] · [[sources/weigley-the-american-way-of-war-1973]] · [[sources/hagerman-american-civil-war-origins-modern-warfare-1988]] · [[sources/donald-lincoln-1995]]

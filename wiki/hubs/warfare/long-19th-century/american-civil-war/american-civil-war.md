@@ -9,7 +9,7 @@ tags: [hub, warfare, long-19th-century, north-america]
 
 # American Civil War (1861–1865) — Campaign and Operational Hub
 
-**Narrative overview:** [[events/american-civil-war-1861-1865|The American Civil War]] (full story, causes, political context, overall consequences).
+**Narrative overview:** [[events/american-civil-war-1861-1865|[[The American Civil War]] (full story, causes, political context, overall consequences).
 
 This war hub page provides the operational and campaign-level overview. Individual battles receive deep tactical analysis in their dedicated `hubs/warfare/long-19th-century/american-civil-war/[battle].md` pages.
 
