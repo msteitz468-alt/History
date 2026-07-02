@@ -70,4 +70,10 @@ The army swallowed the dominance without protest. Prestige damage was masked by 
 - Hitler to generals 5 Feb: detailed disclosures left 'scarcely any remaining doubt about the actual guilt'.
 - Hitler to Goebbels after last cabinet: now in same position vis-à-vis Wehrmacht as vis-à-vis the German people in 1933; 'he would first have to fight for his position. But he would soon succeed.'
 
-`caused_by`: personal scandals + Hitler's pre-existing distrust. `produced`: direct Wehrmacht command; Ribbentrop appointment; weakened army voice. `contributed_to`: [[events/anschluss-1938]], [[events/sudeten-crisis-1938]] (fewer brakes on risk-taking).
+`caused_by`: personal scandals + Hitler's pre-existing distrust. `produced`: direct Wehrmacht command; Ribbentrop appointment; weakened army voice. `contributed_to`: [[events/anschluss-1938]], [[munich-agreement-1938|Sudeten crisis]] (fewer brakes on risk-taking).
+
+## From Evans, *The Third Reich in Power* (2005)
+
+Evans's account (ingested 2026-07-02) matches Kershaw's on the mechanics and adds the structural framing: the men removed in the reshuffle — Blomberg, Fritsch, Neurath, and (via his November 1937 resignation) [[schacht-hjalmar|Schacht]] — were precisely those who had voiced doubts about the accelerated war timetable at the [[hossbach-memorandum-1937|Hossbach conference]]. The scandals were windfall pretexts exploited to complete, in one stroke, Hitler's unified control of military, foreign, and economic policy weeks before the [[anschluss-1938|Anschluss]]. Evans also notes Heydrich had preserved the Fritsch file after Hitler ordered it destroyed, and reads Göring's Field-Marshal baton as a deliberate containment of Göring's War-Ministry ambitions.
+
+- Source: [[evans-third-reich-in-power-2005]]

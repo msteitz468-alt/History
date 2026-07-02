@@ -7,10 +7,10 @@ period: [world-wars-era]
 region: [western-europe, france]
 affiliated_with: [french-army]
 opposed_by: []
-key_events: [battle-of-verdun-1916, nivelle-offensive-1917, german-spring-offensives-1918]
-key_processes: [attrition-warfare-wwi, french-defense-1917, 1918-counteroffensives]
-sources_ingested: [doughty-pyrrhic-victory-2005]
-last_updated: 2026-06-24
+key_events: [battle-of-verdun-1916, nivelle-offensive-1917, german-spring-offensives-1918, fall-of-france-1940, franco-german-armistice-1940]
+key_processes: [attrition-warfare-wwi, french-defense-1917, 1918-counteroffensives, national-revolution-vichy]
+sources_ingested: [doughty-pyrrhic-victory-2005, paxton-vichy-france-1972]
+last_updated: 2026-07-01
 tags: [actor, person, world-wars-era, western-europe, france]
 ---
 
@@ -107,3 +107,42 @@ Fatigue: "The moral[e] of French troops is very good but they are physically tir
 Postwar (Conclusion): "Pétain, not Foch, had the largest influence upon the postwar army. His cautious methods dominated military thinking and planning." "One only has to read the minutes of the Superior Council of War’s meetings in the interwar years to weigh the different effects of the two men." (l 515).
 
 `contributed_to:` Directive No. 5 + Marne counter planning/execution + final "methodically" pursuit. `caused_by:` 1917 healing experience + recognition limits means. `contrasts_with:` Foch (pessimism/caution vs optimism/risk; successive vs deep pursuit). `part_of:` 1917-18 French command evolution. Updated Range 7. All from assigned cache only.
+
+---
+
+## Vichy, 1940–1944 (Paxton, *Vichy France*, 1972)
+
+Named premier on 17 June 1940 at 84, Pétain announced the armistice quest
+within hours ("With a heavy heart, I tell you today that it is necessary to
+stop the fighting") and on 11 July became "Head of the French State" of
+[[vichy-france]] with full powers — telling the nation on 25 June he made
+France "the gift of my person." Paxton's psychological portrait roots the
+Vichy Pétain in the WWI Pétain above: the suppressor of the 1917 mutinies
+carried a durable fear of "outside agitators" and disorder; his Cangé
+argument of 13 June 1940 — "to deprive France of her natural defenders in a
+period of general disorder is to deliver her to the enemy… it is to kill the
+soul of France" — is the founding logic of staying to administer. He was not
+senile (Germans meeting him in 1943 still found him "fresh and alert"), and
+he was not passive: he sought the Hitler meeting that became Montoire,
+declared on 31 October 1940 "I enter into the way of collaboration,"
+personally engineered Laval's dismissal (13 December 1940) and return (April
+1942), and pursued a compromise anti-Bolshevik peace into 1943 — telling
+Krug von Nidda (August 1943) that "fanatical Churchill" and Jewish influence
+in Washington blocked it. In the German archives he appears not as the
+legendary "Marshal Nein" but as "Marshal Bitte." His postwar defense —
+Sigmaringen, August 1944: "If I could not be your sword, I tried to be your
+shield" — Paxton judges "not so much a lie as a half-truth" that obscured
+Vichy's own initiatives; see [[vichy-shield-thesis]]. He presided over the
+[[national-revolution-vichy|National Revolution]] and signed its
+[[vichy-anti-jewish-laws-1940|anti-Jewish statutes]] (his one recorded
+mitigation: refusing the yellow star in the southern zone). Removed to
+Sigmaringen in August 1944, he refused to exercise office, returned
+voluntarily in 1945, and was condemned to death — commuted by de Gaulle to
+life imprisonment on the Île d'Yeu, where he died in 1951.
+
+**Counterfactual significance:** Paxton argues no other figure could have
+legitimized the armistice state — the 10 July vote and mass acquiescence
+rode on Verdun's prestige. Without Pétain, an armistice regime likely lacks
+its plebiscitary sanction and its "moral tutor" pretension; with the
+government in North Africa instead (the road not taken), France fights on
+and Vichy never exists.

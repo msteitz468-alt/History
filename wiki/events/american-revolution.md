@@ -95,6 +95,22 @@ liberties, or a genuinely radical founding (Bailyn's ideological origins; Wood's
 "radicalism"). Its limits are stressed too: slavery survived, and "all men are created equal"
 excluded the enslaved, women, and Native peoples — tensions that shaped later American history.
 
+**Hartz's consensus reading (1955).** [[hartz-louis|Louis Hartz]] ([[hartz-liberal-tradition-1955]])
+reframed 1776 as a revolution *without* a social revolution: America had no ancien régime to
+destroy — "the established feudal structure it did not have to destroy" was, from the European
+vantage, the Revolution's most notable feature. Hence its sober, non-messianic character (no
+crusade to remake the world; Dissenting clergy supplied a religion that "was already
+revolutionary"), its anti-power rather than power-seizing impulse (limited government and
+judicial review instead of the European liberal flirtation with enlightened despotism), and the
+quick, nearly consensual "mopping up" of feudal relics (primogeniture, entail, establishment) —
+Virginia's aristocrats of 1785 "went under with scarcely a blow." Hartz read Federalist
+"leveller" alarms as ideological phantoms (Hamilton "had to conjure up a set of Civil Wars"
+Hobbes at least had lived through), and argued the Constitution's conflict-management machinery
+survived only because its Hobbesian premises were wrong for a fundamentally unified Lockean
+society — "their conclusions were 'right' only because their premises were wrong." This directly
+rebuts the Beardian "social revolution" reading and underpins [[consensus-history]] and the
+[[lockean-consensus]].
+
 ## Related
 
 - `caused_by:` the fiscal aftermath of the [[seven-years-war-1756]]; `contributed_to:` [[enlightenment]] ideas.

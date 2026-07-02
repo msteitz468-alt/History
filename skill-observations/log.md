@@ -56,6 +56,8 @@ DECLINED = user decided not to pursue
 
 **Principle:** For any meta-skill whose value depends on consistent background operation, the activation status itself should be observable and verifiable by the user with minimal friction. Users should not have to ask "are you running?" to trust that continuous improvement data is being captured; the system should surface the fact of its own operation proactively at session boundaries.
 
+**Status:** ACTIONED — Applied to task-observer (2026-07-02 weekly review): Added lightweight silent confirmation sentence, explicit "low-visibility" rule, simple status self-check, and made self-enforcement checklist prominent in the staged SKILL.md. See skill-updates/2026-07-02/task-observer/SKILL.md.
+
 
 
 
@@ -328,7 +330,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 **Principle:** When the user gives explicit feedback about the desired visibility and ceremony level of a meta-skill, that preference overrides earlier escalated instructions in the observation log. "Invoking" the skill should support the work without creating distracting side-effects or visible theater.
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to task-observer (2026-07-02 weekly review): Reinforced minimal/silent activation rules, added explicit "no persistent monitors, no ceremony" language, and low-visibility confirmation in staged update. Matches user clarification exactly.
 
 
 ### Observation 26: Dedup sed-repoint inflates the broken-link changed-set with pre-existing noise
@@ -442,3 +444,318 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 **Suggested improvement:** Add an explicit note to the Deployed Subagent Strategy (Step 3) that when subagents run in the background (concurrent), each shared scaffold page must have a single named owner-agent, and non-owners route cross-page claims to a per-range claims file for main-thread integration in Step 4. This is stronger than "exclusive claim titles," which only covers newly-created pages, not shared anchors.
 
 **Principle:** Parallel writers to shared mutable state need single-owner assignment, not just disjoint-creation namespaces. For concurrent agents, separate "pages you may edit" (exactly one owner each) from "claims you discovered for someone else's page" (write to a handoff file). The reconciling thread merges handoffs.
+
+### Observation 34: Polemical/low-trust sources need an "artifact-mode" ingest variant
+
+**Date:** 2026-07-01
+**Session context:** Ingest of D'Souza, *The Big Lie* (2017) — a partisan polemic, not scholarship.
+**Skill:** CLAUDE.md ingest workflow (Deployed Subagent Strategy)
+**Type:** internal
+**Phase/Area:** Step 1 scaffold / source-type handling
+
+**Issue:** CLAUDE.md's Source-Type Handling covers Cambridge, primary translations, monographs, and archaeology — but not popular polemics/advocacy works. This ingest improvised a variant: (a) source page carries heavy reliability_notes plus an explicit "do not cite for factual claims" rule; (b) the book's claims are filed as a POSITION on a controversies/ page, not into period/event/actor pages; (c) subagents extract claims + verbatim quotes + rhetorical-method notes + checkable-assertion lists to scratchpad ONLY — all wiki writing stays on the main thread; (d) footprint kept deliberately small (source + controversy + one legitimate concept + cross-links). Worked well and kept the wiki's factual layer uncontaminated.
+
+**Suggested improvement:** Add a "Polemics and advocacy works" bullet to Source-Type Handling codifying (a)–(d): ingest as historiographical artifact; claims become controversy-page positions; subagent output confined to scratchpad extraction; explicit do-not-cite rule on the source page.
+
+**Principle:** A wiki's trust model should be enforced at ingest time by routing, not just annotation: low-trust sources get quarantined into controversy/concept pages where their claims are attributed positions, never merged into the factual record.
+
+**Status:** OPEN
+
+### Observation 35: Controversy pages must not adjudicate in wiki voice — curator adjudicates
+
+**Date:** 2026-07-01
+**Session context:** D'Souza *Big Lie* ingest. Curator rejected the wiki-voice verdicts I embedded ("untenable causal frame," "polemical revisionism" as a position label, resolved-by-consensus, a blanket do-not-cite rule) and endorsed the source's thesis, especially the Lockean-American-right point.
+**Skill:** CLAUDE.md controversy-page rule + Division of Labor
+**Type:** internal
+**Phase/Area:** Controversy page authoring / source reliability_notes
+
+**Issue:** CLAUDE.md already says "Do not adjudicate unless I explicitly ask" for controversies/, but on a source I judged low-trust I let adjudication leak into position labels, the frontmatter resolution_status, the assessment section's framing, and the source page's reliability_notes. The fix that satisfied both honesty and the protocol: neutral position labels; each position stated in its strongest form; a "shared factual ground, framed per side" section instead of a wiki-voice assessment; resolution recorded as "open as discourse / closed within the academy" (both facts, attributed); and a dated curator's note recording the owner's assessment. This partially supersedes Observation 34's "do-not-cite quarantine" — routing contested claims through the controversy page stands, but the blanket do-not-cite rule and pejorative genre framing do not.
+
+**Suggested improvement:** When ingesting contested/advocacy sources: (a) position labels and resolution_status are adjudication surfaces too — keep them neutral; (b) state the opposing position in its strongest (steel-manned) form incl. where it touches mainstream scholarship; (c) record academy consensus as an attributed fact, not a verdict; (d) capture the curator's own assessment as a dated curator's note rather than absorbing or resisting it in wiki voice.
+
+**Principle:** In a curator-directed wiki, the assistant's honesty obligation is to attribution accuracy (who holds what, on what evidence), not to rendering verdicts; adjudication hides in metadata and labels, not just prose.
+
+**Status:** OPEN
+
+### Observation 36: Subagent extraction can be killed by content filtering on dark-history material — plan main-thread recovery, not respawn
+
+**Status:** ACTIONED — Applied to CLAUDE.md Deployed Subagent Strategy (2026-07-01, at Mark's request): Step 2 gained a mandatory "Atrocity-dense triage" rule (route flagged ranges to main thread; never tone down or omit); Step 3's failure clause generalized from rate limits to any failure mode incl. content filtering.
+**Date:** 2026-07-01
+**Session context:** Paxton *Vichy France* (1972) ingest; 5 Sonnet extraction subagents over disjoint ranges
+**Skill:** Ingest workflow (CLAUDE.md Deployed Subagent Strategy)
+**Type:** internal
+**Phase/Area:** Step 3 (subagent deployment) / failure recovery
+
+**Issue:** The subagent assigned to Part II ("The National Revolution" — the chapter containing Vichy's anti-Jewish legislation and Final Solution material) completed its reads but its final output was blocked: "API Error: Output blocked by content filtering policy." Nothing was written to its extract file. The other four agents, whose ranges also touched deportations and hostage executions but less densely, passed. The existing recovery protocol only anticipated 429 rate limits.
+
+**Suggested improvement:** In the Deployed Subagent Strategy's failure clause, generalize "rate limit" to any subagent failure mode (429, content filter, crash): the main thread recovers *that range alone* from the cache slice and labels the extract block "Main-thread recovery." For sources dense in atrocity/persecution content (Holocaust, genocide, slavery), consider either assigning those chapters to the main thread from the start or instructing subagents to summarize rather than quote the most graphic passages — the block appears to trigger on concentrated verbatim reproduction, not the topic per se (other agents quoted the same events sparsely without issue).
+
+**Principle:** Historical atrocity documentation is legitimate wiki content, but automated safety filters can't always distinguish scholarly reproduction from harmful generation. A parallelized pipeline needs a failure-mode-agnostic per-chunk recovery path, and chunks should be triaged for filter risk the same way they're triaged for density.
+
+### Observation 37: Artifact-mode ingest validated on a substantive polemic (Flynn), not just a shallow one (D'Souza)
+
+**Date:** 2026-07-02
+**Session context:** Ingest of Flynn, *The Roosevelt Myth* (1948) — polemical but heavily sourced Old Right revisionism.
+**Skill:** CLAUDE.md ingest workflow (contested/advocacy-source handling; extends Observations 34/35)
+**Type:** internal
+**Phase/Area:** Source-type handling / reconciliation
+
+**Issue:** Obs 34's artifact-mode variant (subagents extract to scratchpad only; main thread writes all wiki content; theses routed to controversy-page positions) was designed on D'Souza, where the book contributed almost no usable facts. Flynn is different: the interpretation is polemical but the documentation (insider memoirs, a Senate report, conference records) is substantial and wiki-worthy. The protocol still worked with one refinement: split each extract into FACTS (with named-source attribution chains) vs THESES vs QUOTES, then let facts flow onto event/actor/process pages as attributed material while only the theses are quarantined as controversy positions. Also useful: instructing extractors to flag the author's uncorroborated first-person claims separately (Flynn's Nye Committee testimony) — these are neither facts nor mere theses and belong in the source page's reliability analysis.
+
+**Suggested improvement:** When codifying the "Polemics and advocacy works" bullet (obs 34), distinguish two grades: (a) thin polemics — minimal footprint, claims only as positions; (b) documented polemics — facts-with-attribution may enrich the factual layer, provided each borrowed fact carries the full attribution chain (author → his cited source) and per-page revisionist material is confined to attributed sections. Require extractors to separate facts/theses/quotes and to flag author-as-sole-witness claims.
+
+**Principle:** The quarantine boundary for low-trust sources should run between a source's evidence and its inferences, not around the whole book — attribution chains, not blanket exclusion, are what keep the factual layer clean.
+
+**Status:** OPEN
+
+### Observation 38: Ebook-converted sources can contain internally duplicated passages — instruct subagents to flag, not re-extract
+
+**Date:** 2026-07-02
+**Session context:** Sternhell *Birth of Fascist Ideology* ingest (deployed-subagent strategy, 4 ranges)
+**Skill:** Ingest workflow (CLAUDE.md Deployed Subagent Strategy, Step 2/3)
+**Type:** internal
+**Phase/Area:** Chunking / subagent extraction prompts
+
+**Issue:** The range-2 subagent discovered that the ebook-converted text repeated ~330 lines of Chapter 3 opening material verbatim inside its slice (lines ~2252–2580 duplicated earlier content). The agent handled it well spontaneously — flagged the duplication and did not double-count claims — but nothing in the standard prompt asks for this, so a less careful agent could have extracted the passage twice, inflating claims and skewing chunk-weighting line counts.
+
+**Suggested improvement:** Add one line to the standard subagent prompt template: "If you find passages duplicated verbatim within your slice (an ebook-conversion artifact), flag them and extract once." Optionally, at scaffold time, a cheap duplicate-block check (e.g., sort | uniq -d on longer lines) on conversion-derived texts before drawing chunk boundaries.
+
+**Principle:** Ebook→text conversions introduce not only missing headings (Obs. 12) but content-level artifacts (duplicated blocks). Chunking and extraction assumptions that hold for clean PDF-derived text need a duplication guard for epub-derived text.
+**Status:** OPEN
+
+### Observation 39: Extraction subagents should flag name/date ambiguities — and it works
+
+**Status:** OPEN
+**Date:** 2026-07-02
+**Session context:** Whitman *Verdict of Battle* (2012) ingest, deployed-subagent strategy, 3 Sonnet agents
+**Skill:** Deployed Subagent Strategy (CLAUDE.md ingest workflow)
+**Type:** internal
+**Phase/Area:** Step 3 subagent prompts / Step 4 reconciliation
+
+**Issue:** The main thread scaffolded `battle-of-fontenoy-1745` from the book's introduction ("Malplaquet, Leuthen, Fontenoy"), but two subagents independently discovered that nearly all of the book's "Fontenoy" references are to Fontenoy-en-Puisaye (841 CE, Carolingian succession) — a different battle that already had its own wiki page. Both agents flagged the mismatch explicitly instead of force-filing claims under the given target name, letting the main thread route the 841 material correctly and add mutual disambiguation lines.
+
+**Suggested improvement:** Add one line to the standard subagent prompt template: "If material near-matches a target page name but the entity differs (different date, person, place), file it under Miscellaneous with an explicit mismatch flag rather than under the target." This session's agents did it unprompted; make it a guaranteed behavior.
+
+**Principle:** Scaffold names are hypotheses formed before reading; extractors are the first to see disconfirming evidence. Explicitly licensing them to contradict the scaffold's naming converts silent misfiling into cheap, visible flags.
+
+### Observation 40: Repair wikilinks with the Edit tool, not sed — pipe delimiters and frontmatter break
+
+**Status:** OPEN
+**Date:** 2026-07-02
+**Session context:** Evans, The Third Reich in Power ingest — Step 4/5 link reconciliation
+**Skill:** Ingest workflow (CLAUDE.md Deployed Subagent Strategy, Step 5 lint)
+**Type:** internal
+**Phase/Area:** wikilink repair after renaming/creating actor pages
+
+**Issue:** Two sed-based bulk link repairs introduced artifacts: (1) a sed replacing \[\[actors/emanuel-moravec| inside quoted YAML frontmatter produced malformed entries ("Emanuel Moravec [[|Emanuel Hácha]]"); (2) using | as both sed delimiter and wikilink display separator silently failed ("unknown option to s"), and a follow-up # -delimited sed with a typoed replacement left a stray "g" in a cross-links line. Each required a manual fix pass and re-running the checker.
+
+**Suggested improvement:** For link repairs in files with piped wikilinks or quoted frontmatter, use the Edit tool with exact old/new strings (or sed with # delimiter and a verbatim-checked replacement), then always re-grep the exact edited lines before re-running the checker.
+
+**Principle:** Bulk regex edits on structured markup (YAML frontmatter, [[target|display]] links) fail in quiet, syntax-corrupting ways; targeted exact-string replacement is slower but self-verifying.
+
+### Observation 41: Duplicate canonical event pages discovered mid-ingest (second-world-war-1939 vs world-war-ii-1939-1945)
+
+**Date:** 2026-07-02
+**Session context:** Evans, *Third Reich in History and Memory* ingest — while verifying link targets for scaffold pages, found TWO full WWII event pages: events/second-world-war-1939.md (38 inbound links) and events/world-war-ii-1939-1945.md (108 inbound), both with complete frontmatter and narrative.
+**Skill:** CLAUDE.md ingest workflow (Step 1 scaffold / Step 5 lint) + lint workflow
+**Type:** internal
+**Phase/Area:** Link-target verification / wiki hygiene
+
+**Issue:** The naming convention says events are `[event-name]-[start-year].md`, which both arguably satisfy under different names. Successive ingests have enriched both pages independently (this session added Kershaw/Kennedy material to second-world-war-1939 while adolf-hitler.md links world-war-ii-1939-1945), deepening the fork. The wikilink checker cannot catch this class of defect — both targets resolve.
+**Suggested improvement:** Add a "duplicate canonical page" check to the lint workflow (heuristic: near-synonymous titles / same date_start+date_end+event_type in frontmatter), and at ingest Step 1 require a one-grep synonym check before accepting any high-traffic page name. When Mark next requests a lint pass, propose merging the WWII pair (canonical: world-war-ii-1939-1945 by inbound count, or second-world-war-1939 by naming convention — needs his call).
+**Principle:** Link checkers verify resolution, not identity; a wiki can silently fork its most important pages when two valid names both exist. Dedupe needs a semantic check (title/date collision), not just a broken-link check.
+
+**Status:** OPEN
+
+### Observation 42: `cat >>` appends silently create orphan pages when the target path is wrong — verify existence before appending
+
+**Date:** 2026-07-02
+**Session context:** Evans *Third Reich at War* ingest; appending attributed Evans sections to ~30 existing pages via shell heredocs
+**Skill:** CLAUDE.md Deployed Subagent Strategy (Step 4 reconciliation)
+**Type:** internal
+**Phase/Area:** main-thread reconciliation / page updates
+
+**Issue:** An append targeted `wiki/actors/religion-in-germany-1870-1945.md` but the real page lives in `wiki/processes/`. `cat >>` silently created a new headerless file in actors/, discovered only by a later existence check. Same-session near-misses: schema validator would not have flagged it as the file had no frontmatter to validate oddly (it appeared as an orphan).
+
+**Suggested improvement:** When batch-appending to existing pages, first verify each target with `test -f` (or generate the file list from `ls`), or use the Edit tool (which errors on unread/missing files). A one-line guard per append is cheap; a stray orphan page corrupts the wiki silently.
+
+**Principle:** Shell append semantics (create-if-missing) are wrong for update-only workflows; prefer tools that fail loudly on missing targets.
+
+### Observation 43: Part-aligned chunking can strand off-theme narrative inside a thematic range — run a main-thread expected-topics sweep after subagents return
+
+**Date:** 2026-07-02
+**Session context:** Evans *Third Reich at War* ingest; 7 ranges aligned to the book's Parts
+**Skill:** CLAUDE.md Deployed Subagent Strategy (Steps 2–4)
+**Type:** internal
+**Phase/Area:** chunk-boundary design / reconciliation
+
+**Issue:** The Bagration/D-Day/Warsaw Uprising military narrative sat physically inside Part 6 ("German Moralities"); the subagent, briefed on moralities/resistance themes, skipped it, and the Part 7 agent correctly reported its range started after the July Plot. The gap surfaced only because the Warsaw Uprising anchor page still had placeholders; a grep across caches located the material and the main thread recovered it.
+
+**Suggested improvement:** Add a reconciliation-step check: list the major expected events of the book's period, grep each across all cache slices, and confirm each is claimed in some claims file. Also brief each subagent to extract everything in its range, not just its range's headline theme.
+
+**Principle:** Chunk boundaries define ownership, but thematic prompts bias extraction; ownership must be exhaustive ("everything in your lines"), and the reconciler should verify coverage against an expected-topics list, not just merge what came back.
+
+### Observation 44: Anchor-scaffold dedup check missed an existing page under a different slug pattern (expulsion-of-germans-1945 vs proposed 1944-1950) — recurrence of Obs 21
+
+**Date:** 2026-07-02
+**Session context:** Evans *Third Reich at War* ingest; created events/expulsion-of-germans-1944-1950.md although events/expulsion-of-germans-1945.md existed from the Evans-2015 ingest earlier the same day
+**Skill:** CLAUDE.md Deployed Subagent Strategy (Step 1 scaffold)
+**Type:** internal
+**Phase/Area:** create-vs-update decision
+
+**Issue:** The pre-creation greps covered obvious keywords (katyn, wannsee, etc.) but not every proposed page title; the expulsion page existed with a different year-suffix and was only caught when the index.md entry for the 2015 ingest was read during bookkeeping. Merged and deleted the duplicate; links repointed.
+
+**Suggested improvement:** Before creating ANY new page in reconciliation, run a stem-based search (e.g., `ls wiki/*/ | grep -i <stem>` plus `grep -ril <stem> wiki/sources wiki/index.md`) for each proposed slug — especially for topics likely touched by same-week parallel ingests. Year suffixes vary; search the stem, not the slug.
+
+**Principle:** Duplicate risk is highest exactly where coverage is densest (recently ingested adjacent sources); dedup checks must be stem-based and include index.md/log.md, which record pages faster than directory listings register in memory.
+
+### Observation 45: Word-count sanity check before scaffolding — epub extraction silently missing half the book
+
+**Status:** OPEN
+**Date:** 2026-07-02
+**Session context:** Ingest of Hartz, *The Founding of New Societies* (1964)
+**Skill:** New skill candidate / CLAUDE.md ingest workflow (internal)
+**Type:** internal
+**Phase/Area:** Step 1 scaffold / pre-ingest intake
+
+**Issue:** The raw/ text file for a ~350-page multi-author volume contained only ~16,000 words (95KB): the epub→txt conversion captured only Part One (Hartz's 3 theoretical chapters) and dropped Part Two entirely (Hartz's US chapter + the Morse/McRae/Rosecrance country studies). TOC listed all chapters, so a TOC-only scaffold read would not have caught it. Caught only by an explicit wc -w sanity check against expected book length.
+
+**Suggested improvement:** Add a mandatory intake check to the ingest workflow: before scaffolding, compare `wc -w` against expected length (~250–350 words/page × page count); if the ratio is badly off, grep for each TOC chapter heading in the body to find where the text actually ends. Note incompleteness on the source page and in reliability_notes.
+
+**Principle:** Converted ebooks fail silently and partially — the TOC survives even when body chapters don't. A 10-second word-count-per-page ratio check is the cheapest guard against ingesting (and logging as complete) a fraction of a book.
+
+### Observation 46: Extraction subagents self-report partial slice coverage — read the completion summary for coverage bounds and gap-fill
+
+**Status:** OPEN
+**Date:** 2026-07-02
+**Session context:** Ingest of Hayek, The Constitution of Liberty (Definitive Edition) via Deployed Subagent Strategy, 7 range agents + 1 gap-fill
+**Skill:** Ingest workflow (CLAUDE.md Deployed Subagent Strategy, Step 3)
+**Type:** internal
+**Phase/Area:** Subagent monitoring / recovery
+
+**Issue:** The chunk-1 agent hit a read cap and reported covering only lines 1–1424 of its 2,556-line slice, stating the uncovered remainder explicitly in its completion summary. Because the summary declared its coverage bounds, the main thread could immediately spawn a cheap gap-fill agent scoped to exactly the uncovered lines (1425–2557) instead of discovering the gap at reconciliation or losing the material silently. A second agent (chunk 6) reported coverage "through ~line 3000" of 3,492 — a softer signal needing a judgment call on whether the tail was substantive.
+
+**Suggested improvement:** Add to the Step-3 subagent prompt template: "In your completion summary, state the exact line range you actually covered; if you did not reach the end of your slice, say so explicitly." And add to Step 3 monitoring: on any completion summary reporting partial coverage, spawn a gap-fill agent scoped to the uncovered lines (or main-thread recover if small) before reconciliation.
+
+**Principle:** Coverage gaps are invisible unless the worker is required to declare them; a one-line self-report of actual bounds converts silent data loss into a cheap, immediately actionable fix.
+
+### Observation 47: Filing step must verify the exact ingested file (duplicate-twin trap)
+
+**Date:** 2026-07-02
+**Session context:** User asked why *The Coming of the Third Reich* and *The Road to Serfdom* were "ingested but still in raw/ root." Vol I turned out to be scaffold-only (correctly unfiled), but Serfdom revealed a real defect: the collection held two copies (a 5,374-line abridged twin and the 13,527-line Caldwell Definitive Edition actually used for the ingest); the filing step moved the *wrong twin* into `4. Modern Times/`, leaving the ingested Caldwell copy in the root queue.
+**Skill:** CLAUDE.md ingest workflow — Step 6 filing
+**Type:** internal
+**Phase/Area:** Bookkeeping/filing
+
+**Issue:** The filing instruction says "file the source" but doesn't force verification that the moved file is byte-identical to the one the caches were cut from. With near-duplicate filenames, a plausible-looking twin got filed and the real source stayed in the queue, making the root queue misleading (it looked un-ingested).
+
+**Suggested improvement:** At Step 6, file by the exact path used to build the cache slices (echo it from the session, or `wc -l` match against the cache total); if a same-work twin exists in raw/, move it to `raw/_duplicates/` in the same step. A scaffolded-but-unfinished ingest should also leave a breadcrumb (e.g., "claims pending" note already on the source page — check log.md for `ingest-complete` before assuming filed=done).
+
+**Principle:** Filing by title match instead of by the exact ingested path silently corrupts the queue when duplicates exist; always file the path you read from, and quarantine twins at the same moment.
+
+**Status:** OPEN
+
+### Observation 48: Content-filter blocks are not predicted by atrocity-density triage
+
+**Status:** OPEN
+**Date:** 2026-07-02
+**Session context:** Ingest of Griffin, *Modernism and Fascism* (2007), Deployed Subagent Strategy (5 Sonnet agents)
+**Skill:** CLAUDE.md ingest workflow (atrocity-dense triage rule, Step 2)
+**Type:** internal
+**Phase/Area:** Step 2 chunking / Step 3 failure recovery
+
+**Issue:** The range that got output-blocked by content filtering was ch. 3–4 — the *anthropology/theory* chapters (sacred canopy, Terror Management Theory, rites of passage), with only incidental Nazi/Holocaust references — while the genuinely atrocity-dense ch. 11 (routed to main thread per triage) and the ch. 7–10 fascism chapters all completed fine in subagents. The triage heuristic (route atrocity-dense documentation to main thread) did not predict which range would be blocked.
+
+**Suggested improvement:** Keep the triage rule (it correctly protects the highest-stakes material), but treat subagent content-filter blocks as effectively stochastic on any fascism/genocide-adjacent source: the recovery path (main thread reads the cache slice and extracts, per Step 3) is the real safeguard and worked losslessly here. Do not over-invest in predicting blocks at chunking time.
+
+**Principle:** When a failure mode is cheap to recover from and hard to predict, invest in the recovery path rather than the prediction heuristic.
+
+### Observation 49: raw/ is user-curated and can change mid-session — slice to scratchpad early, re-verify paths after time gaps
+
+**Date:** 2026-07-02
+**Session context:** Law, Legislation and Liberty I–III ingest
+**Skill:** CLAUDE.md ingest workflow (deployed subagent strategy)
+**Type:** internal
+**Phase/Area:** Step 2 — cache-slice preparation
+**Status:** OPEN
+
+**Issue:** The separate Vol 1 and Vol 3 .txt files in raw/ disappeared mid-ingest. Initially read as an anomaly; the user clarified he deleted them deliberately in favor of the combined 3-volume PDF. The ingest was unaffected only because the combined PDF had already been converted and sliced to the scratchpad.
+
+**Suggested improvement:** In Step 2, cut the cache slices to the scratchpad immediately after locating the source, before scaffolding — the user actively curates raw/ during sessions, so treat it as mutable. Re-verify a source path right before any read that follows a gap in time, and when a file disappears, ask/check for deliberate curation before treating it as an error.
+
+**Principle:** Shared directories the user actively curates are not stable inputs; copy dependencies to session-local storage first, and prefer "the user changed it deliberately" over "something broke" as the first hypothesis.
+
+### Observation 50: Filename/content mismatch — queue file labeled Rawlinson but contains Fomenko "History: Fiction or Science?"
+
+**Date:** 2026-07-02
+**Session context:** User query: "ingest George Rawlinson - The Five Great Monarchies of the Ancient Eastern World". Per CLAUDE.md mandatory task-observer activation + Deployed Subagent Strategy at start of ingest session. Initial file stats and sampling (head, grep for structure) performed to begin Step 1 scaffold before any agent spawn or deep read.
+**Skill:** CLAUDE.md ingest workflow (Deployed Subagent Strategy Step 1/6, Top_100_Structural_Sources.md queue management, filing hygiene)
+**Type:** internal
+**Phase/Area:** Pre-ingest diagnosis / source acquisition verification / Step 6 filing prevention
+
+**Issue:** The only file present matching the requested title is `raw/George Rawlinson - The Five Great Monarchies of the Ancient Eastern World Or, The History, Geography, and Antiquities of Chaldea, Assyria, Babylon, Media, and Persia.md` (57k lines, 1.9 MB). Its internal content begins with Fomenko's "History: Fiction or Science?" (full multi-volume Chronology set header, "Jesus Christ was born in 1053 A.D.", Scaligerian chronology critique, "consensual history is a finely woven magic fabric of intricate lies", 7 chronology volumes description, Delamere Publishing). Header even records "Source file: [Rawlinson name].pdf" and "Pages/chapters: 626" (the converter used the filename for Title but the PDF content was Fomenko). No "Rawlinson", "First Monarchy", "Chaldea" descriptive content from the real 19th-c. work exists. Searches of workspace and broader /home found no Rawlinson PDF or alternate .md/.txt. Wiki has no source page or pages created from it; only incidental references to Henry C. Rawlinson (decipherer, brother) and a WWI general.
+**Suggested improvement:** (1) Strengthen pre-scaffold verification in CLAUDE.md Step 1 and "source acquisition": immediately after locating the candidate file for a Top_100 entry, perform a quick content signature check (first 20 lines + author/title phrase grep for the *expected* work, not just filename). If mismatch, halt and surface before any TOC reading or cache slicing. (2) Treat filename-based headers from ebook_to_txt.py as untrusted; always cross-validate against internal text (look for "by George Rawlinson" or "The Five Great Monarchies" actual prose vs. Fomenko-style opening). (3) When such a mismatch is found, quarantine the file (move to raw/_duplicates/ with note) and update the queue entry in Top_100 with "[FILE MISMATCH - actual: Fomenko Chronology; correct Rawlinson PDF required]". (4) Add a one-line "source fingerprint" comment or frontmatter on source pages once ingested. This is recurrence of twin/identity problems (obs 47) and raw mutability (49).
+**Principle:** Filenames and conversion metadata are not authoritative for work identity. In a large collection ingested from archives (zlib etc.), label drift is common; the ingest workflow must verify *content* against the intended bibliographic identity at the first tool use, before any investment in scaffolding or subagent ranges. A wrong file under a high-priority Top_100 name blocks the actual priority source and risks ingesting the wrong historiography (here, 19th-c. positivist ANE specialist vs. 21st-c. extreme revisionist).
+
+**Reference file:** raw/George Rawlinson - The Five Great Monarchies of the Ancient Eastern World Or, The History, Geography, and Antiquities of Chaldea, Assyria, Babylon, Media, and Persia.md (misidentified)
+
+
+### Observation 51: User directed "ingest it!" for the Fomenko file queued under Rawlinson name; applied artifact-mode + main-thread primary authorship
+
+**Date:** 2026-07-02
+**Session context:** Follow-up to "ingest George Rawlinson..." query. User confirmed file location in raw/ then explicitly said "ingest it!" after diagnosis that content is Fomenko 2003 "History: Fiction or Science?" (not Rawlinson). Task-observer active; obs 50 already documented the mismatch.
+**Skill:** CLAUDE.md ingest workflow + artifact-mode handling (obs 34/35/37)
+**Type:** internal
+**Phase/Area:** Source-type handling / user directive vs. strict bibliographic identity
+
+**Issue:** User overrode the filename mismatch by directing ingest of the actual file present. The content is a major fringe chronology revisionist work (New Chronology), not the 19th-c. ANE history listed in Top_100. Standard factual ingest would contaminate the wiki; full quarantine would ignore explicit user direction.
+**Suggested improvement:** When user explicitly directs ingest of a file whose content differs from its queued/Top_100 label, (a) ingest the actual content under correct bibliographic identity, (b) document the label drift prominently on the source page and in log/Top_100, (c) default to artifact-mode for the actual work type (here: polemical/revisionist), (d) still perform pre-scaffold content signature check and record it. This preserves user direction while protecting the factual layer.
+**Principle:** User direction takes precedence on what material to process, but the assistant's responsibility for accuracy of representation and protection of the wiki's epistemic standards remains; correct attribution + routing (artifact/contested) satisfies both.
+
+**Reference file:** raw/George Rawlinson - The Five Great Monarchies... .md (actual content Fomenko)
+
+
+### Observation 52: Content-filter triage should flag atrocity-DISCOURSE chapters, not only atrocity-documentation chapters
+**Status:** OPEN
+
+**Date:** 2026-07-02
+**Session context:** Ingest of Evans, *In Defence of History* (1997) via Deployed Subagent Strategy (3 Sonnet agents)
+**Skill:** CLAUDE.md ingest workflow (Step 2 atrocity-dense triage rule)
+**Type:** internal
+**Phase/Area:** Step 2 chunk triage / Step 3 failure recovery
+
+**Issue:** Chunk C (Ch. 6–8) was blocked by the output content filter even though the book is a historiographical monograph containing no graphic atrocity documentation — the trigger was evidently the chapter *discussing* Holocaust denial (quoting denial claims like "the death camps were an anti-German hoax" in order to refute them) plus de Man's antisemitic wartime writings. The triage rule as written targets chapters that *document* atrocities; this range was not flagged because it only *debates* them. Main-thread recovery worked exactly as specified (read the 3,163-line cache slice directly, composed pages at full fidelity).
+
+**Suggested improvement:** Extend the Step-2 triage checklist: also flag ranges dense in atrocity *discourse* — Holocaust-denial refutations, quoted extremist/antisemitic texts, apologetics analysis — even in methodology/historiography books, and route them to the main thread by default.
+
+**Principle:** Output filters react to reproduced content regardless of the reproducing text's stance; quoting denial literature to demolish it trips the same wire as quoting perpetrator documents. Triage on surface content, not authorial intent.
+
+### Observation 53: Parallel ingest sessions clobber shared wiki pages — Write-tool full rewrites are the hazard
+
+**Date:** 2026-07-02
+**Session context:** Payne *Fascism: Comparison and Definition* (1980) ingest, running concurrently with a separate session ingesting Griffin's *Fascism* (Oxford Reader 1995) — both touching the same fascism-batch pages
+**Skill:** CLAUDE.md Deployed Subagent Strategy (Step 4 reconciliation) / cross-session hygiene
+**Type:** internal
+**Status:** OPEN
+**Phase/Area:** Page integration writes
+
+**Issue:** This session created `concepts/theories-of-fascism.md` as a scaffold, then later replaced it with a full Write. In between, the concurrent Griffin session Edit-appended its own section to the same file (it appears in its "Pages updated (12)" list). The full Write clobbered that addition silently — discovered only because the Griffin session's log entry and source page claimed an update the file no longer contained. Its scratch caches could not be located, so the lost section was reconstructed only in summary form with an explicit loss note on the page. Edits by the parallel session to *other* shared pages (generic-fascism) survived because both sessions used anchored Edits there, which interleave safely.
+
+**Suggested improvement:** During ingest integration, (1) prefer anchored Edit/append over full-file Write for any page that other sessions may plausibly touch (any page in an active topic batch); reserve Write for brand-new files in the same turn they are scaffolded; (2) before a full-file Write of a page scaffolded earlier in the session, re-read the file (or check mtime) to detect intervening external edits; (3) after finishing, cross-check other same-day log.md entries claiming updates to pages this session rewrote.
+
+**Principle:** In a multi-session wiki, a full-file Write is a last-writer-wins race; the observation-log's check-then-act-then-verify numbering discipline applies equally to content pages — verify after writing that nobody else's claimed update was erased.
+
+### Observation 54: Content filter blocked the *definitional* fascism chapters — treat fascism-studies texts as filter-prone regardless of atrocity density
+
+**Date:** 2026-07-02
+**Session context:** Payne 1980 ingest; subagent for chs. 1–3 (definitional typology, 19th-c. antecedents, movement comparison — minimal atrocity content) died with "Output blocked by content filtering policy" after 4 tool uses; chs. 4–5 and 6–9 agents (with far more violence/genocide discourse) completed fine
+**Skill:** CLAUDE.md ingest workflow (Step 2 atrocity-dense triage rule); reinforces Observations 48 and 52
+**Type:** internal
+**Status:** OPEN
+**Phase/Area:** Chunk triage / subagent spawning
+
+**Issue:** Filter blocks remain unpredicted by atrocity-density triage: the *least* graphic range of a fascism book was the one blocked, likely on ideological-doctrine reproduction (fascist programs, Nazi Twenty-Five Points, racial-doctrine exposition). Main-thread recovery worked exactly as designed (range read directly, integrated at full fidelity, other agents unaffected).
+
+**Suggested improvement:** For fascism/extremist-ideology sources, assume any range can be blocked; keep ranges sized so single-range main-thread recovery stays cheap (this session's ~2,000-line ranges were right), and don't spend effort predicting which range will trip the filter.
+
+**Principle:** The triage rule's routing logic (recover, never respawn or soften) is validated; its *prediction* logic is not — plan for random block placement in ideology-dense sources.

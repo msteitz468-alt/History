@@ -29,4 +29,27 @@ and France ([[franco-prussian-war-1870]]) to found the [[german-empire|German Em
 Prussia remained the hegemonic core until 1918. It survived as the largest Weimar state, was
 captured by the Nazis in 1932–33, and was formally abolished by the Allies in 1947.
 
+Whitman ([[whitman-verdict-of-battle-2012|The Verdict of Battle]], 2012) frames
+Prussia's rise as won at law as much as in the field: a "second-rank
+principality" whose seizure of Silesia (1740–42) was prosecuted as a dynastic
+lawsuit — old Hohenzollern claims through the Jägerndorf/Liegnitz/Brieg/Wohlau
+lines — and cashed at the Peace of Breslau under the [[jus-victoriae]],
+"lift[ing] Prussia into the ranks of the Great Powers." Silesia stayed
+Hohenzollern until 1919/1945. The same legal-battle culture frames both ends of
+its ascent: [[war-of-the-austrian-succession-1740|Mollwitz/Chotusitz]] as
+accepted verdicts, [[battle-of-sedan-1870|Sedan]] (1870) as the perfect verdict
+a republic refused.
+
+Evans ([[evans-coming-of-third-reich-2003]]) traces the Prussian
+military–society fusion to the 17th–18th-century meshing of the
+Junker landowner/serf system with the officer/recruit system, eroding after
+serfdom's end and the Napoleonic defeats. Prussian liberals nearly won
+parliamentary control of the army in 1848 and again in 1862 — Bismarck's 1862
+appointment was made precisely to protect officer-corps autonomy from
+parliament. On the colonial army's conduct: the suppression of the Herero
+rebellion in German South-West Africa, 1904–7, was "an act of deliberate
+genocide" — thousands of Herero men, women, and children massacred, many more
+driven into the desert to starve; the Herero population fell from ~80,000
+before the war to ~15,000 by 1911 (see [[herero-nama-genocide-1904]]).
+
 > Scaffold page for [[smith-oxford-modern-german-history-2011|the Oxford Handbook of Modern German History]] ingest.

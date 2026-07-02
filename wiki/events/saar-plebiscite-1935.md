@@ -63,3 +63,14 @@ The result was treated as a genuine expression of will (despite pressures) and r
 Kershaw presents the plebiscite as a 'rich propaganda gift' that fell into Hitler's lap and was milked ruthlessly. Notes the irony that a population that might have been expected to resist Nazism delivered an overwhelming vote for return. Emphasizes the combination of nationalist emotion, material calculation, Church influence, and intimidation. The episode is used to illustrate how foreign-policy 'triumphs' (even low-risk ones) accrued directly to Hitler's personal myth and prepared the ground for bolder steps. Detailed on preparation, social composition of the Saar, and Hitler's public vs. private reactions.
 
 **Sources from range:** Contemporary diplomatic reports (François-Poncet), Goebbels propaganda context, voting analysis, Hitler's Saarbrücken and interview statements.
+
+## From Evans, *The Third Reich in Power* (2005)
+
+Additions (ingested 2026-07-02): Goebbels's apparatus blanketed the Saar
+(80,000 posters, 1,500 meetings, cheap People's Receivers), with SS units
+escalating pre-vote terror against opponents; ~91% of votes cast chose
+Germany (13 January 1935). Aftermath: Prussian "carpet-baggers," a Gestapo
+HQ in the old union building, the Nuremberg Laws applied to Saar Jews from
+September 1935, and unfulfilled economic promises until the 1938 rearmament
+boom. The success emboldened the 16 March 1935 conscription/Luftwaffe
+announcement. Source: [[evans-third-reich-in-power-2005]]

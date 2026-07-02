@@ -27,6 +27,8 @@ The process is the passage, c. 400–700, from a **European superstate** — Bri
 - **The decline of the curiae.** As decurions fled into imperial service, local self-government withered and authority concentrated centrally — then, when the central state dissolved, devolved onto **local magnates and bishops**.
 - **The decisive shift.** With the western tax-state gone, aristocratic power ceased to derive from office and tax and came instead to rest on **landownership and personal lordship** — the *vertical* ties of patronage and the warband. Kings, lacking the Roman fiscal base, ruled through **counts** and through their personal followings, rewarding followers with land rather than salaries (cf. the [[late-roman-army|army's]] fiscal collapse).
 
+**Militarization of aristocratic identity (Wickham *Framing* Ch. 4).** After c. 500 (West) / 650 (East) aristocracies became sharply more military in the centre and provinces. Classical secular *otium* and literary lifestyle receded; secular figures shifted to hunting imagery; clothing changed to long tunic, cloak, heavy belt and trousers (the *cingulum* / *balteum* remained a status marker but now in a military idiom); heavily decorated villas largely ended. Aristocratic identity was now expressed in military terms and proximity to the king (*conviva regis*, *Königsnähe*). In Merovingian Francia this produced an *Adelslandschaft* (aristocratic landscape) alongside the *Königslandschaft*. See [[politics-of-land]].
+
 ## Major phases and geographic spread
 
 The transformation ran **unevenly**:
@@ -55,10 +57,16 @@ The post-Roman transformation also produced a distinctively early medieval legal
 *   **The leges nationum**: Written law codes — the Salic Law, the Lombard *Edictus Rothari*, the Visigothic **[[liber-iudiciorum|Liber Iudiciorum]]** — encoded social hierarchies through **[[wergild]]** (monetized blood-price tables) and served as acts of royal legitimacy as much as practical administrative instruments (Wormald, *NCMH* Ch. 21).
 *   **The Eigenkirche**: The ecclesiastical parallel to the land-based aristocracy was the **[[eigenkirche|Eigenkirche]]** (proprietary church) — churches treated as private property by lay magnates who appointed their priests and collected their tithes. The bishop's theoretical authority over his diocese was typically overridden in practice by the lord's *ius patronatus*. The royal synod, not the canonical council, was the effective instrument of church governance.
 
+## Land Management and Rent Regimes (Wickham *Framing* Ch. 5, 2026-07-02 ingest)
+
+Post-Roman simplification of estate management was a direct consequence of reduced exchange and political fragmentation (except in Francia). Landlord intervention (detailed accounts, direct demesne cultivation, systematic surveillance) was a response to sale opportunities and tax demands. After c. 600/650–700 in most regions, simpler rent-taking from autonomous or semi-autonomous peasant tenants became the norm; accounting became oral or minimal; demesnes remained “little islands.” The land market is unusually well-documented in Italy; unfree tenants (mancipia) were pursued if they fled (Visigothic law as late as 702). In Egypt the highly organized Apion model (wage labour on autourgiai, detailed accounts, Nile shipping) contracted sharply in scale after the Arab conquest. Francia remained exceptional in retaining larger-scale, more dispersed aristocratic landowning that sustained sub-regional exchange.
+
+**Grounding (selected):** “the less exchange there was in any given region, the less need there would be for such intense control”; “from 700 onwards... registration of payment was largely oral”; “there was a systemic break... only in the late eighth century.”
+
 ## Related
 
 - `produced:` the early medieval aristocracy and localized lordship; the seedbed of feudal society; the **[[wic|wic/emporium]]** network; the **[[sceatta]]** silver monetary zone
 - `driven_by:` the dissolution of the Roman tax-state and the fiscal collapse traced in the [[late-roman-army|army]] and [[late-roman-cities|cities]] chapters
 - `part_of:` the wider [[fall-of-western-roman-empire|fall of the western empire]]; `contrasts_with:` the [[byzantine-empire|East]], where the tax-state was replaced by the **[[theme-system|Theme System]]**
 - See also: **[[pirenne-thesis]]** (debate on whether the Arab conquests caused the northern economic reorientation); **[[wergild]]** (legal system of the successor kingdoms); **[[eigenkirche]]** (proprietary church system)
-- Sources: [[cameron-cah-v14-2000]] (Ch. 16, Chris Wickham); [[fouracre-ncmh-v1-2005]] (Chs. 2, 8, 21–25); [[mckitterick-ncmh-v2-1995]] (Ch. 3, Fouracre — the Carolingian culmination)
+- Sources: [[cameron-cah-v14-2000]] (Ch. 16, Chris Wickham); [[fouracre-ncmh-v1-2005]] (Chs. 2, 8, 21–25); [[mckitterick-ncmh-v2-1995]] (Ch. 3, Fouracre — the Carolingian culmination); Wickham *Framing the Early Middle Ages* (2005) Ch. 5.

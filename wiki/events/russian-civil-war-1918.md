@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: global
 causes: [Bolshevik October Revolution (1917), dismissal of the Constituent Assembly, signing of the Treaty of Brest-Litovsk, rise of anti-communist movements]; contributed_to: German occupation post-Brest and Entente intervention (von Hagen lines 3663–3687 from [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]]): 'After the winter assault of the Central Powers, the eastern front became the occupation regime... The Entente... sent advisers, some arms... to the anti-Bolshevik forces who became known as the Whites.' 'It provided the Bolshevik state with one of its most powerful founding myths, that of “capitalist encirclement”.' Preceded by: 'The Bolsheviks who seized power in October 1917 proclaimed peace... The Germans... advanced on the fledgling revolutionary dictatorship.' Lenin 'bought peace with the surrender of the western borderlands... not forgiven for many years by patriotic Bolsheviks' (lines 3633–3638). 'The war also continued by proxy...'
 consequences: [Bolshevik consolidation of power, birth of the USSR, economic ruin, millions of deaths from famine and epidemics, defeat of the White movement]
-sources_ingested: 2
-last_updated: 2026-06-22
+sources_ingested: [payne-civil-war-in-europe-2011, cambridge-history-of-russia-v3-2006]
+last_updated: 2026-07-02
 tags: [event, world-wars-era, eastern-europe]
 ---
 # Russian Civil War
@@ -29,6 +29,8 @@ Following the Bolshevik seizure of power in November 1917, political and social 
 - `produced:` **complete economic ruin**: industrial production fell to 20% of pre-war levels, and the country suffered a catastrophic famine in 1921–1922 that claimed millions of lives (Line 5827).
 - `produced:` the **liquidation and flight of the traditional Russian elites** (gentry, bourgeoisie, clergy, and independent intelligentsia), with over two million emigrating (Line 5827).
 - `followed_by:` the transition from the emergency measures of **[[war-communism|War Communism]]** to the market compromises of the **[[new-economic-policy|New Economic Policy (NEP)]]** in 1921.
+
+**Payne (Civil War in Europe):** Russian Civil War as the great archetype and "first of the major European civil wars of the twentieth century." Combined succession crisis (after Tsar), secession (borderlands), and ideological/revolutionary war on largest scale. Bolsheviks won by superior organization, ruthlessness, control of center, and willingness to use terror (Cheka). Atrocities on all sides; "White Terror" and "Red Terror" both massive. Foreign intervention (Allies, Germany, Japan) prolonged but ultimately failed to reverse Bolshevik victory. Set the model for later revolutionary civil wars: disciplined revolutionary party vs. fragmented counter-revolution. "The Russian civil war established the modern model of total civil war, in which the goal was not merely to defeat the enemy but to destroy his social and political base." Contrasted with Spanish as more purely ideological and less "total" in some respects.
 
 ## Actors
 - **Vladimir Lenin**, head of the Soviet government; **Leon Trotsky**, who built and led the Red Army; and White commanders **Alexander Kolchak** and **Anthony Denikin**. See [[lenin-vladimir]], [[trotsky-leon]].

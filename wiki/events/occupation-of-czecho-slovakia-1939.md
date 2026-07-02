@@ -7,8 +7,8 @@ dating_method: documentary
 period: ["World Wars Era"]
 region: ["central-europe", "eastern-europe"]
 location: ["Bohemia and Moravia (Protectorate); Slovakia (puppet state); Carpatho-Ukraine/Ruthenia (Hungarian occupation)"]
-actors_primary: ["[[actors/adolf-hitler|Adolf Hitler]]", "[[actors/emanuel-moravec|Emanuel Hácha]] (Czech President, coerced)", "[[actors/joachim-von-ribbentrop|Joachim von Ribbentrop]]"]
-actors_secondary: ["[[actors/hermann-goring|Hermann Göring]] (economic interest)", "[[actors/wilhelm-keitel|Wilhelm Keitel]] (military)", "[[actors/joseph-goebbels|Joseph Goebbels]]"]
+actors_primary: ["[[actors/adolf-hitler|Adolf Hitler]]", "Emil Hácha (Czech President, coerced)", "[[ribbentrop-joachim-von|Joachim von Ribbentrop]]"]
+actors_secondary: ["[[goring-hermann|Hermann Göring]] (economic interest)", "Wilhelm Keitel (military)", "[[goebbels-joseph|Joseph Goebbels]]"]
 event_type: occupation / annexation / treaty violation
 scale_immediate: regional
 scale_consequential: civilizational
@@ -47,4 +47,19 @@ On 15 March 1939 German troops occupied the remainder. President Hácha was summ
 **Historiography**:
 Kershaw (*Nemesis*, Range 02) emphasizes the mixture of personal psychology ('cheated' of triumph; 'bloody mindedness'), rational economic/strategic calculation, and pre-Munich planning already pointing to a second stage. The occupation was not forced by immediate political necessity but by Hitler's insistence on the 'big plan.' Economic data (Skoda value, division-equivalents) and strategic geography are stressed. The event marked the definitive end of any British/French hope that Hitler was a man of limited, negotiable ambitions. 'Munich' now meant betrayal to Czechs and weakness to Hitler. Source base: contemporary directives, Goebbels diary, economic assessments, diplomatic records. Strong on Hitler's motives and immediate consequences; cross-references needed for Czech internal politics and Western reactions. No major factual dispute on mechanics; interpretive weight on whether economic or personal/ideological drivers predominated (Kershaw integrates both under Hitler's personalized rule).
 
-Cross-links: [[actors/adolf-hitler]], [[sources/kershaw-hitler-nemesis-2000]], [[periods/world-wars-era]], [[hubs/biographies/world-wars-era/adolf-hitler]], [[events/kristallnacht-1938]], [[events/invasion-of-poland-1939]], [[events/munich-agreement-1938]] (if created), [[places/prague]], [[places/bohemia]], [[actors/nazi-germany]].
+## From Evans, *The Third Reich in Power* (2005)
+
+Additions (ingested 2026-07-02): Hácha's coerced pre-dawn signature (Göring
+threatening to bomb Prague; Hácha fainting, revived by Hitler's physician);
+seizure of 1,000+ aircraft, 2,000 field guns, 800+ tanks, and Czech gold
+(800,000+ oz shipped from the Bank of England to Prague). Evans flags two
+precedents: Czechs under German law were denied German citizenship — a legal
+template for the wartime racial order — and the June–July 1939 regulations
+placing deported Czech labourers outside legal protection: "The way to the
+systematic deportation and exploitation of millions of Europeans for the
+purposes of the German war economy had been opened." Memel followed by
+ultimatum on 23 March 1939. The occupation destroyed Chamberlain's faith and
+produced the hedged British guarantee to Poland (31 March 1939). Source:
+[[evans-third-reich-in-power-2005]]
+
+Cross-links: [[actors/adolf-hitler]], [[sources/kershaw-hitler-nemesis-2000]], [[periods/world-wars-era]], [[hubs/biographies/world-wars-era/adolf-hitler]], [[events/kristallnacht-1938]], [[events/invasion-of-poland-1939]], [[events/munich-agreement-1938]], [[actors/nazi-germany]].

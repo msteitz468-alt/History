@@ -66,6 +66,109 @@ The regime used *Volksgemeinschaft* propagandistically to simulate the public un
 
 **Realization**: Was Volksgemeinschaft ever actually realized, even partially? The historiographical consensus is that it remained an aspirational ideology that the regime constantly propagandized but never fully achieved. Class distinctions, confessional attachments, regional loyalties, and private skepticism persisted throughout the Third Reich.
 
+## Weimar Intellectual Precursors — Evans, *The Coming of the Third Reich* (2003)
+
+Evans documents the pre-Nazi longing for a unified, hierarchical,
+anti-pluralist national community: Spengler's *Decline of the West* casting
+1920s Germany as civilizational "winter" awaiting organic revival; Arthur
+Moeller van den Bruck's 1923 book coining "The Third Reich" as the coming
+synthesis transcending party government (tracing continuity from Charlemagne
+through Bismarck), developed by the jurist Edgar Jung into a "conservative
+revolution"; Jünger's *Storm of Steel* mythologizing front-line violence; and
+Free Corps war-novels celebrating anti-revolutionary violence. The Nazi Party
+appropriated an ideal already ambient across the Weimar right.
+
+## Evans, *The Third Reich in Power* (2005), ch. 5
+
+Evans's chapter-length assessment (ingested 2026-07-02) lands firmly on the
+"never realized" side while explaining the ideology's traction:
+
+- **Rhetoric vs. structure.** Hitler's own definition (Johst interview,
+  27 January 1934: "The bourgeois must become a citizen of the state; the red
+  comrade must become a racial comrade") and his classless self-presentation
+  ("I came from the worksite") promised the abolition of class *conflict*,
+  never of class *inequality* — wages' share of national income fell 11%
+  1932–38 while the top decile's income share rose; aristocrats, village
+  elites, and professionals "remained... as much as they ever had." Real
+  hourly wages passed 1928 only in 1939, on 50+-hour weeks.
+- **Instruments.** The [[german-labour-front|Labour Front and Strength
+  Through Joy]] (genuinely popular as escape, ideologically hollow — the
+  Gestapo's own cruise surveillance documented class resentment and
+  *Bonzen* privilege); Winter Aid and the NSV (17 million members, 8,000
+  day-nurseries — and "virtually compulsory" giving enforced by SA
+  collectors, public shaming, and payroll deduction, its assistance
+  constitutionally denied to the "hereditarily ill," "asocial," and
+  non-Aryan); [[darre-richard-walther|Darré]]'s blood-and-soil ruralism,
+  whose Entailed Farm Law backfired on its own peasants.
+- **The exclusionary core.** Evans's conclusion: the Volksgemeinschaft's real
+  achievement was psychological, "underpinned concretely by racial
+  engineering" — the community was defined by whom it sterilized, interned,
+  and expelled ([[nazi-racial-hygiene-program-1933-1939]],
+  [[persecution-of-german-jews-1933-1939]]).
+- **Why no revolution:** a full social transformation in six years without
+  Soviet-scale terror was structurally impossible; "restraint" reflected the
+  fiscal priority of rearmament, and the destruction of independent civic
+  life produced not collectivism but retreat into private, consumerist life.
+- The Northeim case study: by 1939 a stable modus vivendi of outward
+  conformity, with Winter Aid compliance — not ideology — the operative test
+  of "political reliability" in Block Warden reports.
+
+Source: [[evans-third-reich-in-power-2005]]
+
+## Evans, *The Third Reich in History and Memory* (2015), chs. 6 and 8
+
+Two further layers (ingested 2026-07-02):
+
+**The long prehistory of the excluded (ch. 6, "Social Outsiders" — Evans's
+own research essay).** The Volksgemeinschaft's negative boundary drew on a
+deep German history of "dishonourable people" (*unehrliche Leute*): the
+early modern status order excluded polluting trades (knackers,
+executioners), itinerants and Gypsies, the sexually stigmatized, Jews, and
+the pillory-punished from guild membership and civic honor. Enlightened
+absolutism formally rehabilitated the dishonorable trades (1731/1772) and
+replaced Gypsy expulsion with coercive "integration" (Frederick the Great
+1775) that Evans calls "novel forms of persecution." The 19th century
+dissolved the *Ständegesellschaft* but policed a new outsider set —
+vagrants, prostitutes, homosexuals (§175, 1871), Roma — hardening
+subcultures rather than dissolving them. The decisive German divergence,
+for Evans, is the **medicalization turn from the 1890s**: racial hygiene,
+degeneration theory and the Liszt/Aschaffenburg criminology reclassified
+recidivists, vagrants and "asocials" as hereditarily degenerate, and the
+*Minderwertigkeit* ("lesser value") vocabulary "already implied some human
+beings were less than fully human." Weimar accelerated it (first racial-
+hygiene chair Munich 1923; ~40 university courses by the early 1930s;
+tens of thousands of asylum patients deliberately starved during WWI;
+welfare professionalization pushing indefinite internment of "asocials")
+— the direct institutional and ideological groundwork the Nazis
+radicalized into the camps and T-4.
+
+**The myth-vs-reality debate (ch. 8).** Against Fritzsche's "voluntarist
+turn" (*Life and Death in the Third Reich*, 2008) and Aly's
+material-incentive thesis, Evans's verdict — attributed, and his stated
+conclusion — is that "the 'people's community' had always been more
+propaganda myth than social reality." Key evidence: the compulsory Hitler
+salute eroding into perfunctoriness and evasion (Klemperer's tally;
+Shirer on Munich 1940; the SD reporting it "virtually disappeared" after
+Stalingrad; Munich's "Shirkers' Alley"); Kershaw's methodological
+objection ("how can we establish the reality of consent in a terroristic
+dictatorship?"); an official January 1941 report from pro-Nazi Upper
+Franconia: "One cannot speak of a People's Community. Everyone is only
+thinking of his own advantage." Evans rebuts Fritzsche's claim that
+Germans did not know of the gas chambers (BBC broadcasts named them from
+late 1942, reaching up to 15 million listeners despite the death penalty
+for listening) and reads Fritzsche's own Stuttgart SD report ("Have we
+not murdered thousands of Jews?... we have shown the enemy what they can
+do to us if they win") as guilt, not victimhood. Against Aly: Tooze puts
+the occupied-territory share of Reich revenue at ~25%, not 70%, and the
+1945 collapse of Nazi loyalty amid material catastrophe undercuts a
+purely materialist account. Fritzsche's strongest point, which Evans
+accepts: by 1942 Germans "still loved the Third Reich" while coming to
+despise the Nazis — "The majority of Germans preferred to win the war and
+keep the Nazis than to lose both the war and the Nazis."
+
+See [[coercion-and-consent-nazi-germany]] for the full coercion/consent
+debate. Source: [[evans-third-reich-history-memory-2015]]
+
 ## Resolution Status
 
 Open. Active areas of research include the social history of "everyday Volksgemeinschaft" in provincial settings, the role of consumption and leisure (KdF tourism), gender dimensions (women as bearers of racial community), and the relationship between domestic Volksgemeinschaft ideology and imperial practice in occupied territories.
@@ -80,3 +183,11 @@ Open. Active areas of research include the social history of "everyday Volksgeme
 - part_of: [[nazi-germany]]
 - part_of: [[world-wars-era]]
 - contrasts_with: [[weimar-republic]] (Volksgemeinschaft was explicitly positioned as the antithesis of Weimar's class politics and parliamentary "fragmentation")
+
+## Women, foreign labor, and the wartime "national community" — Evans, *The Third Reich at War* (2008)
+
+German female labor participation was already high in 1939 (just over 50% of women 15–60, vs. ~25% in Britain and the US — an artifact of small-farm agriculture), but Hitler — reading gender policy through the 1918 home-front-collapse trauma — vetoed full conscription of women; propaganda kept women's war work in a maternal register, and employment barely grew (14.63m → 14.90m, 1939–44). The gap was filled by [[forced-labor-nazi-germany|forced labor]], which made master-race status a daily domestic experience: middle-class households prized *Ostarbeiterinnen* servants (SD reports record housewives contrasting them with "cheeky, lazy" German help), while the racial-hygiene machinery removed "racially good" infants of foreign workers for Germanization and let the rest die in "nursing homes" (96% infant mortality at one Helmstedt home in 1944; "allowed to starve slowly to death," an SS general reported to Himmler). Wartime SD morale reporting also charts the community's affective curve: euphoria after France, anxiety from autumn 1941, the break after [[battle-of-stalingrad-1942|Stalingrad]]. Source: [[evans-third-reich-at-war-2008]]
+
+## Griffin (2007): The Volksgemeinschaft as Charismatic Community
+
+*Modernism and Fascism* reads the Volksgemeinschaft through its primordialist theory of [[modernism]]: Hitler himself wrote in *Mein Kampf* that a Weltanschauung "will always be irrelevant to the practical shaping of a people's life" unless its principles "become the banner of a fighting movement" whose "party dogmas" become "the new state principles of a people's community, the Volksgemeinschaft" — a recognition, Griffin notes, that state strength depends on a horizon "defined and framed by myth." The Feldherrnhalle martyr liturgy (Vondung) substituted "the immortal Volksgemeinschaft of the racial elite" for the Christian ecclesia; Hess's "The Party is Hitler! Hitler however is Germany, just as Germany is Hitler!" and Kershaw's "working towards the Führer" express a secular *participatio mistica* that turned the Volksgemeinschaft at the leader cult's 1930s height into a "charismatic community." Its biopolitical substrate is the **Volkskörper** — Hitler (27 Jan 1934): Germany as "a corporate body, as a single organism... not a single cell which is not responsible... for the welfare and well-being of the whole" — with Etlin's base-metaphors of blood and rootedness, and von Salomon's 1925 memorandum against [[gregor-strasser|Gregor Strasser]] ("all Germans are unequal"; "Trees which do not bear fruit should be cut down and thrown into the fire") marking the anti-egalitarian edge. Traverso's formula captures the temporal inversion: "nostalgia for the traditional community was converted into a utopian aspiration toward a new community, a Volksgemeinschaft of the future." After Stalingrad it "was further travestied into the Schicksalsgemeinschaft, a 'community of destiny' plunging headlong to communal extinction." (Source: [[griffin-modernism-and-fascism-2007]].)

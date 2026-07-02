@@ -48,7 +48,32 @@ Kershaw underscores the limits of mobilization: even at peak the NSDAP could not
 
 **Grounded in range:** Kershaw ch. 10, election statistics, Goebbels diary, violence reports, Papen government context.
 
+## Evans (2003): Results, Violence, and the Nazi Ceiling
+
+Evans ([[evans-coming-of-third-reich-2003]]): the election was
+[[papen-franz-von|Papen]]/[[schleicher-kurt-von|Schleicher]]'s price for Nazi
+toleration, paired with lifting the SA ban — producing record violence
+capped by [[altona-bloody-sunday-1932|Altona Bloody Sunday]] (17 July, 18
+dead, most by police fire) and the *Preussenschlag*. Results (31 July):
+NSDAP 13.1m votes (37.4%), 230 seats — roughly 100 more than the SPD; KPD 89;
+Centre a record 75; the middle-ground splinter parties annihilated (People's
+Party 31→7, State Party 20→4). Voter flows: half of former splinter-party
+voters, a third of Nationalist/liberal voters, a fifth of former non-voters
+(especially women), even a seventh of former SPD voters; the vote stayed
+heavily Protestant (40% of non-Catholics vs 14% of Catholics) and 60%
+middle-class. The unemployment/Nazi-vote negative correlation persisted.
+
+The leadership read it as a ceiling: Goebbels — "we have won a tiny bit...
+We won't get to an absolute majority this way... something must happen. The
+time for opposition is over. Now deeds!" Hitler ruled out any coalition role
+except as Chancellor; negotiations then broke on the Potempa affair (five SA
+torturers-murderers of the Communist Konrad Pietzuch death-sentenced under
+Papen's own decree, commuted under Nazi pressure), with Hitler's public
+telegram of solidarity: "I want victory for a nationalistic Germany, and
+annihilation for its Marxist destroyers and corrupters."
+
 ## Sources
 
 Kershaw, *Hitler 1889–1936: Hubris* (1998), range 03.
-Cross: [[appointment-of-hitler-30-january-1933]], [[13-august-1932-hindenburg-rejection]], [[papen-government-1932]]
+Evans, *The Coming of the Third Reich* (2003), Part 4.
+Cross: [[appointment-of-hitler-30-january-1933]], 13 August 1932 Hindenburg rejection, [[papen-franz-von|Papen government 1932]]

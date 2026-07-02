@@ -55,6 +55,18 @@ Malone's six-volume *Jefferson and His Time* (1948–1981) remains the most comp
 
 Collection note: Excellent coverage of the founding era via multiple biographical sources (Adams, Hamilton, Washington) and reference works. This Malone volume supplies the essential detailed grounding for Jefferson's formative period.
 
+**Hartz (1955):** [[hartz-louis|Louis Hartz]] read Jefferson as divided between "a love of Europe and fear of its 'contamination,'" and argued his celebrated attacks on primogeniture and the Virginia Anglican establishment (1785) succeeded so easily because Virginia's operative premises were already Franklin's, not Bishop Laud's — "he had won his argument... long before he began to speak." Hartz also flagged the Progressive-school habit of pairing "a Jefferson for every Hamilton" as a comforting dualism masking the underlying [[lockean-consensus]] ([[hartz-liberal-tradition-1955]]).
+
+**Hayek (1960):** In [[hayek-constitution-of-liberty-1960|*The Constitution of
+Liberty*]] Hayek sorts Jefferson (after his French sojourn) into the
+rationalist rather than the evolutionary liberal tradition (see
+[[classical-liberalism]], [[constructivist-rationalism]]), preferring
+[[madison-james|Madison]] as the American "Old Whig" exemplar — and notes the
+illiberal streak: Jefferson wanted the political principles taught at his
+University of Virginia "prescribed by authority" lest a professor prove "one
+of the school of quondam federalism," which Hayek links to his opposition to
+judicial independence.
+
 ## Sources
 
 - [[sources/malone-jefferson-the-virginian-1948|Malone, *Jefferson the Virginian* (1948)]]

@@ -448,8 +448,29 @@ non-overlapping chunks by line number.
   natural section/chapter boundaries only where it doesn't fight the weighting — content
   weight wins.
 - Ranges must be **disjoint** — every line in exactly one chunk.
+- **Atrocity-dense triage (mandatory, added 2026-07-01).** While drawing chunk
+  boundaries, flag any range dense in atrocity/persecution documentation —
+  Holocaust and genocide chapters, mass killings and reprisals, slavery, torture,
+  sexual violence. These chapters are **first-class wiki content and are never
+  toned down, summarized around, or omitted** — the risk is mechanical: automated
+  output filters can block a subagent's *entire* extraction when it reproduces
+  such material verbatim at high concentration (observed: Paxton *Vichy France*
+  Part II, 2026-07-01). Handle flagged ranges as follows:
+  1. **Route the flagged range to the main thread by default** — the main thread
+     reads the cache slice directly and writes the extraction itself, at full
+     fidelity, quotes included. Give subagents the surrounding lighter ranges.
+  2. If the flagged range is too long for comfortable main-thread reading,
+     split it: subagents take the procedural/administrative stretches; the main
+     thread takes the concentrated atrocity documentation.
+  3. Only if neither is practical, spawn a subagent with instructions to keep
+     verbatim quotation of graphic passages sparse and pointered (record exact
+     line numbers for the main thread to pull quotes from the cache slice
+     afterward) — the facts, numbers, dates, and perpetrator/victim details are
+     still extracted in full.
+  The end state is identical in every case: the wiki page carries the complete
+  record, with verbatim quotes where they are load-bearing.
 
-**Step 3 — Spawn one Sonnet subagent per chunk (staggered batches + background).** Use
+**Step 3 — Spawn one Sonnet subagent per chunk (parallel + background).** Use
 the Agent tool with **`model: sonnet`** and `run_in_background: true`, one agent per
 chunk. Each prompt must contain: its **exclusive line-range** (read only that range); the
 **schema and naming conventions** from this file; the **established page names** it may
@@ -457,14 +478,8 @@ link to (Step 1); **exclusive ownership of the claim titles it creates** (distin
 namespace/prefix or topic set so no two agents write the same file); the instruction to
 extract claims **with grounding quotes from its range only** — no outside knowledge, no
 reading beyond its range.
-- **Staggered deployment (rate-limit mitigation):** never launch all at once. Spawn in
-  batches of 2 (at most 3 for lighter ranges), then `sleep 10` before the next batch (use
-  20s+ if 429s recur). Prepare small per-range cache files first
-  (`/tmp/..._cache/range_N_START_END.txt`) so each agent does cheap one-shot reads of only
-  its slice. Collect all task_ids; monitor to completion. If a subagent fails (e.g. 429),
-  the main thread recovers *that range alone* (read its cache slice, extract claims, label
-  the block "Main-thread recovery (rate limit on subagent)") and lets the others continue.
-  Do not restart a rate-limited agent.
+
+Prepare small per-range cache files first (`/tmp/..._cache/range_N_START_END.txt`) so each agent does cheap one-shot reads of only its slice. Subagents may be launched in parallel (or larger batches) using background execution. Collect all task_ids; monitor to completion. If a subagent fails **for any reason** — rate limit, output blocked by content filtering, crash — the main thread recovers *that range alone* (read its cache slice, extract claims at full fidelity, label the block "Main-thread recovery (<failure mode>)") and lets the others continue. Do not respawn the failed agent: recovery on the main thread is both faster and lossless. A content-filter block is a routing signal (see the atrocity-dense triage rule in Step 2), never a reason to omit or soften the material itself.
 
 **Step 4 — Review and tie together (main thread).** Dedupe overlapping claims; fix
 cross-links between new pages (subagents only linked Step-1 names); fill the source page's
@@ -632,6 +647,12 @@ On a health-check request, report:
 - Orphan detailed bios or summary actors that qualify for depth but lack a detailed page
 - 3–5 sources from `Top_100_Structural_Sources.md` to prioritize next
 - 3–5 analytical questions worth investigating
+
+**Frontmatter hygiene**: Run `python scripts/normalize_frontmatter.py --dry-run` (then `--fix`) after large batches of edits or ingests. It fixes:
+  - Scalar vs list inconsistency (especially `sources_ingested`).
+  - Unquoted values containing special characters.
+  - Empty scalars.
+  Produces clean, consistently quoted, Obsidian-Bases-friendly YAML while preserving all data. Re-run schema + wikilink check after.
 
 ---
 

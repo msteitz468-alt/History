@@ -14,7 +14,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [["bolshevism-threat|Hitler's ideological preoccupation with Bolshevism (Iberian peninsula as new front)"], ["spanish-crisis|Franco's request for transport planes after failed coup (July 1936)"], ["adolf-hitler|Decision taken alone against Foreign Office advice (25 July Bayreuth)"], ["economic-gain|Göring emphasis on raw materials (Andalusia, barter for arms)"], ["mussolini-support|Italian involvement (parallel aid)"], ["hitler-confidence|Post-Rhineland self-confidence; weakened position of cautious advisers"]]
 consequences: [["spanish-war-prolongation|German aid helped prolong the civil war; Legion Condor formed October 1936"], ["axis-formation|Deepened cooperation with Italy (pilots operating in unison; Guernica 1937 emblem)"], ["rehearsal-war|Rehearsal for general showdown between Fascism and Communism"], ["hitler-ideology|Confirmed ideological framing of foreign policy"], ["military-experience|Combat experience for Luftwaffe; testing of tactics/equipment"], ["raw-materials|Some access to Spanish raw materials via barter"]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-25
 tags: [event, world-wars-era, spain, military, adolf-hitler, spanish-civil-war, axis, anti-bolshevism]
 ---
@@ -51,8 +51,29 @@ It proved a 'baleful prelude' to wider catastrophe. Combined German-Italian oper
 
 ## Links
 
-`caused_by`: Hitler's anti-Bolshevism + opportunity presented by Franco's emissaries + post-Rhineland confidence. `contributed_to`: [[axis-berlin-rome-1936]], radicalization of foreign policy, rehearsal effect for 1939–45 war. `concurrent_with`: Four-Year Plan announcement.
+`caused_by`: Hitler's anti-Bolshevism + opportunity presented by Franco's emissaries + post-Rhineland confidence. `contributed_to`: the Rome–Berlin Axis (1936), radicalization of foreign policy, rehearsal effect for 1939–45 war. `concurrent_with`: Four-Year Plan announcement.
 
 ## Historiography (Kershaw)
 
 Kershaw stresses that ideological impetus (Bolshevism) was genuine for Hitler and not mere cover for economic motives. The decision showed both his gambler's instinct and his ability to override institutional caution. Short-term gains were the premiss; long-term involvement developed under Göring's influence.
+
+## From Evans, *The Third Reich in Power* (2005)
+
+Operational additions (ingested 2026-07-02): German aircraft ferried Franco's
+rebel force from late July 1936; the Condor Legion (Gen. Hugo Sperrle;
+~11,000 landed at Cadiz, November 1936) served as a proving ground — 88mm
+anti-aircraft guns tested against Republican planes. The bombing of
+**Durango** (31 March 1937, 248 killed) made it the first European town
+subjected to intensive aerial bombing; **Guernica** (26 April 1937: 43
+German and Italian aircraft, ~100,000 lbs of bombs, over 1,600 killed, 800+
+injured; raid organized by Wolfram von Richthofen) was denied by the
+Germans and Nationalists for years. Franco vetoed the Legion's proposed
+fast-tank tactics; the Legion marched in his Madrid victory parade, 18 May
+1939. For Evans, the war was "one more example... of the supine
+pusillanimity of Britain and France," and consolidated the Rome–Berlin Axis
+and Anti-Comintern Pact alignments of 1936. Source:
+[[evans-third-reich-in-power-2005]]
+
+## From Payne, *The Franco Regime* (1987)
+
+The Spanish-side view (ingested 2026-07-02): no direct contacts between the military conspirators and Berlin or Rome existed before the war's first week (Viñas's "definitive study" — the "international fascist conspiracy" thesis fails). Hitler decided on 26 July 1936 to send 26 transports and equipment; Mussolini decided independently on 27 July; their parallel Spain decisions of 4 August began the cooperation that became the Rome–Berlin Axis that October. German/Italian aircraft made Franco's airlift of the Army of Africa (begun 20 July with Spanish planes — "the first airlift in military history") a full-scale transfer of 24,000 elite troops by end-September. Soviet escalation in autumn 1936 prompted Hitler's Condor Legion counter-escalation (November, ~100 combat aircraft); Germany and Italy recognized Franco on 18 November 1936, but Hitler decided against further expansion on 22 December while Mussolini committed ground divisions. Payne adds the economic sequel: seventeen German-dominated mining companies under the 1938 concessions ("the Germans consider Spain a colony of theirs," one Spanish report complained), war debts to Italy scaled down to ~$250m and repaid on schedule to 30 June 1967, and — on the air war — his note that Franco generally avoided bombing civilian areas, the 1938 Barcelona terror raids being ordered directly by Mussolini. Source: [[payne-franco-regime-1987]]

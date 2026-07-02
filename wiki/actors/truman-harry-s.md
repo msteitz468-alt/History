@@ -56,7 +56,7 @@ In retirement he returned to Independence, established the Truman Library, wrote
 - Key advisers: [[marshall-george-c]] (Secretary of State, architect of European recovery), [[acheson-dean]] (later Secretary of State), [[byrnes-james-f]] (early Secretary of State).
 - Military: [[macarthur-douglas]] (relieved 1951), [[bradley-omar]], [[marshall-george-c]] (also as Army Chief of Staff).
 - Predecessors/successors: [[roosevelt-franklin-d]], [[eisenhower-dwight-d]].
-- Opponents: Henry Wallace (1948), Strom Thurmond (Dixiecrats), Thomas Dewey (1948).
+- Opponents: [[wallace-henry-a|Henry Wallace]] (1948), Strom Thurmond (Dixiecrats), Thomas Dewey (1948).
 
 ## Causal and Consequence Notes
 

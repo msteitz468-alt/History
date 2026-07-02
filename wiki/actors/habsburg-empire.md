@@ -61,6 +61,17 @@ and a half — though the **Spanish line declined** under Charles's successors, 
 [[thirty-years-war-1618|Thirty Years War]] and the revolts of Catalonia and Portugal (1640), as
 France rose to continental pre-eminence.
 
+**The Austrian line's eighteenth- and nineteenth-century battle verdicts.** The
+dynasty's later history supplies both poles of Whitman's
+([[whitman-verdict-of-battle-2012|Verdict of Battle]], 2012) account of the
+[[jus-victoriae]]: the loss of Silesia to [[frederick-the-great|Frederick]]
+after [[war-of-the-austrian-succession-1740|Mollwitz and Chotusitz]] (1741–42) —
+a legal wager [[maria-theresa|Maria Theresa]] ceded at Breslau but spent decades
+relitigating — and Franz Joseph's textbook ancien-régime acceptance of the
+[[battle-of-solferino-1859|Solferino]] verdict ("I have lost a battle. I pay
+with a province"), followed by Königgrätz (1866), "the last of the fully
+decisive battles in Western history," whose verdict Austria likewise accepted.
+
 ## Significance
 
 The Habsburg empire of Charles V is the classic case of the **early-modern composite

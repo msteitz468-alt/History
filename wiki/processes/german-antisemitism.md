@@ -21,8 +21,8 @@ produces:
   - Nuremberg Laws 1935
   - Kristallnacht 1938
   - the Holocaust
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-02
 tags:
   - process
   - Long 19th Century
@@ -64,17 +64,77 @@ Racial antisemitism emerged within this context as a coherent worldview for the 
 
 The Zionist movement emerged partly as a response to the demonstrated impossibility of full assimilation. Theodor Herzl's *Der Judenstaat* (1896) accepted the antisemitic premise that Jews could not become Europeans and argued for the logical consequence: a Jewish national home.
 
+### Evans (2003) on Phases 1–2: the racial turn and its limits
+
+Evans ([[evans-coming-of-third-reich-2003]]) adds a dense account of the
+1870s–1914 agitators and, crucially, an argument about proportion:
+
+- **The racial turn.** Wilhelm Marr's *The Victory of Jewdom over Germandom*
+  (1873) reframed hostility as racial rather than religious ("There must be no
+  question here of parading religious prejudices when it is a question of race
+  and when the difference lies in the 'blood'"); Marr coined the word
+  "antisemitism" and founded the League of Antisemites (1879), the first
+  organization to carry the word in its title, drawing on Gobineau. Evans
+  notes (interpretive, attributed) the personal roots — a Jewish second wife
+  who supported him, a half-Jewish third wife blamed for his ruin — Marr
+  "boldly elevating his personal experience into a general rule of world
+  history." Eugen Dühring equated capitalism with Jews; Treitschke's "the
+  Jews are our misfortune" became a Nazi slogan — but was denounced at the
+  time by Mommsen, Virchow, and Droysen as "racial hatred and fanaticism."
+- **Agitators and absorption.** Hermann Ahlwardt and Otto Böckel won Reichstag
+  seats on rural antisemitic agitation; Stöcker's Christian Social Party and
+  Henrici's riot-provoking rhetoric (synagogue burning at Neustettin) marked
+  the 1880s; the Conservatives' Tivoli plank (1893) was, per Evans, the
+  turning point after which the fringe antisemitic parties declined **because
+  the mainstream absorbed their antisemitism**, not because it faded. Theodor
+  Fritsch failed to unify the antisemitic parties but published until 1933 —
+  dying as a Nazi Reichstag deputy.
+- **Bayreuth and pseudo-science.** Langbehn's *Rembrandt as Educator* (1890,
+  40 reprints) called Jews "a poison for us"; Wagner's cultural antisemitism
+  turned more racial late in life (Cosima's diary records his quip that "all
+  Jews should burn," on the 1881 Vienna Ringtheater fire); after 1883 the
+  Bayreuth circle — Schemann (Gobineau's translator, popularizer of "Aryan")
+  and [[chamberlain-houston-stewart|Houston Stewart Chamberlain]] — built the
+  Aryan-racial synthesis the Kaiser praised. The Austrian pairing of
+  [[schonerer-georg-von|Schönerer]] (doctrinal) and [[lueger-karl|Lueger]]
+  (opportunistic) supplied Hitler's Vienna education in both content and
+  technique.
+- **The limits.** Evans stresses that respectable opinion, left and right,
+  mostly opposed racial antisemitism before 1914 — above all the SPD (a
+  Hamburg worker, 1898: "The Jew's not the worst by a long way"). His
+  counterfactual (attributed): a well-informed European of 1914, told a nation
+  would soon try to exterminate Europe's Jews, would have guessed France
+  (Dreyfus) or Russia (post-1905 pogroms), not Germany, whose Jewish community
+  was highly acculturated. Yet Kaiser Wilhelm II privately endorsed excluding
+  "Jewish influence" from army, administration, and press in response to
+  Gebsattel's 1913 [[pan-german-league|Pan-German]] memorandum.
+
 ### Phase 3: World War I, the Stab-in-the-Back Legend, and Radicalization (1914–1933)
 
 The war produced new forms of antisemitism:
 
 **The *Judenzählung* (Jewish census, 1916)**: The Prussian military conducted a census of Jewish soldiers, ostensibly to refute antisemitic claims that Jews avoided military service. The results (showing Jews served proportionally) were suppressed; the census itself became evidence for antisemites of Jewish cowardice.
 
-**The Stab-in-the-Back (*Dolchstoßlegende*)**: Following defeat, right-wing nationalists attributed Germany's collapse not to military failure but to domestic subversion by socialists and Jews. "Many German and Russian nationalists openly equated Bolshevism with Jews, arguing that a rising tide of foreign Jewish influence in German society had produced the German Revolution in 1918–1919" (Chapter 22). This constituted a medicalized, racialized construction of national difference: Jewish influence as disease, infection, poison.
+**The Stab-in-the-Back (*Dolchstoßlegende*)** (see [[stab-in-the-back-myth]]): Following defeat, right-wing nationalists attributed Germany's collapse not to military failure but to domestic subversion by socialists and Jews. "Many German and Russian nationalists openly equated Bolshevism with Jews, arguing that a rising tide of foreign Jewish influence in German society had produced the German Revolution in 1918–1919" (Chapter 22). This constituted a medicalized, racialized construction of national difference: Jewish influence as disease, infection, poison.
 
 **Freikorps violence (1919–1923)**: Bands of nationalist veterans in the Baltic region sought to hold "Slavic or Jewish Bolshevism" at bay. The equation of Jew and Bolshevik became operational in frontier violence.
 
 **Weimar antisemitism**: Jews were systematically associated in antisemitic media with the downsides of modernity — "capitalist economy gone awry, blatant materialism, even socialism, rapid change, or the new cigarette-smoking femininity with its bobbed hair and wild dance parties." Anti-Semitic riots increased even in areas of long-established Jewish-Christian coexistence. The Eastern European Jewish immigrants who arrived during and after the war became particular targets.
+
+Evans (2003) marks two Weimar-specific breaks from the prewar pattern:
+an unprecedented willingness to translate rhetoric into physical violence
+(synagogue attacks, cemetery desecrations, the 6 November 1923 Berlin
+riot-pogrom amid the [[hyperinflation-1923|hyperinflation]] — a mob shouting
+"Beat the Jews to death!"), and the mainstreaming of antisemitic language:
+"the language of antisemitism became embedded in mainstream political
+discourse as never before" ("Jewish Republic," "Jewish-Bolshevik conspiracy"
+routine in the press and Reichstag, especially from the Nationalists). He
+notes the 1916 census actually showed Jews *over*-represented in frontline
+service — hence its suppression — and that both churches ran antisemitic
+currents driven by anti-Bolshevik fear. His closing judgment (attributed):
+public sensibility was "so blunted by this tide of antisemitic rhetoric" that
+Germans "failed to recognize that there was anything exceptional" about the
+Nazi Party's fanatical variety.
 
 ### Phase 4: National Socialist antisemitism as state policy (1933–1945)
 

@@ -73,6 +73,16 @@ Often called the real "first world war," it is central to debates on the
 victory), and the origins of the Atlantic revolutions. Churchill's description of it as the
 first truly worldwide conflict captures its global scale.
 
+Whitman ([[whitman-verdict-of-battle-2012|The Verdict of Battle]], 2012) reads
+the continental war as [[maria-theresa|Maria Theresa's]] relitigation of the
+Silesian verdict of 1742 — proof both that eighteenth-century battle verdicts
+could be reopened ("the hold of the law on eighteenth-century warfare was never
+perfect") and that only a new wager could reopen them; Berlin was occupied more
+than once without Frederick being deemed "the loser," since under the
+[[jus-victoriae]] battlefield verdicts, not capitals, counted. He also notes
+this war (with the Spanish Succession) complicates the [[limited-war]] label —
+"plausibly... the first world wars."
+
 ## Related
 
 - `part_of:` the eighteenth-century [[balance-of-power|balance-of-power]] system; `caused_by:` Anglo-French imperial rivalry.

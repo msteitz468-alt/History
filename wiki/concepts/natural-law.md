@@ -42,6 +42,23 @@ Cicero's formulation became the channel by which Stoic natural law entered the W
   — secularized and reworked it into the foundation of international law and of rights-based politics,
   feeding the **American** and **French** revolutionary declarations.
 
+## Natural law and the law of war
+
+The natural-law jurists were also the architects of the pre-modern law of war.
+Pufendorf — "the supremely authoritative natural law jurist of the early modern
+period," whose treatise (in Barbeyrac's translation) was the leading legal text
+of Frederick the Great's day — held that a pitched battle was a binding tacit
+contract submitting the parties' fates to "the Dice of Mars," making the
+resulting peace treaties enforceable and non-voidable for duress. Grotius,
+Wolff, and [[vattel-emer-de|Vattel]] elaborated the [[jus-victoriae]] — the
+victor's lawful title to territory and booty — within the same framework; Wolff
+even derived the right of war from the natural "right to acquire rights." See
+[[verdict-of-battle]] and [[whitman-verdict-of-battle-2012]].
+
+## Hayek's third position (attributed)
+
+In *Law, Legislation and Liberty* (1973–76) Hayek — though routinely classed with natural lawyers by positivist critics — explicitly disavows the label: his evolutionary account of law (grown rules selected by group success, neither deliberately made nor eternally given) "does not stand in any sense between legal positivism and most natural law theories, but differs from either in a dimension different from that in which they differ from each other." He nonetheless deploys the tradition's history: the false Greek dichotomy of *physei*/*thesei* that natural-law language inherited, Hume's rule-consequentialism ("the benefit … arises from the whole scheme or system"), Kantian universalizability read as a negative consistency test, and "immanent criticism" as the only legitimate mode of rule revision. See [[nomos-and-thesis]] and [[rule-of-law]].
+
 ## Limitations and critiques
 
 Natural-law thinking is **contested**. Its premises (a purposive natural/cosmic order, a universally

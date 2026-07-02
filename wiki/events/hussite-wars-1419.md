@@ -14,7 +14,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[hus-jan|the execution of Jan Hus (1415)]], clerical wealth and abuse, Czech–German ethnic rivalry, the refusal to accept the crusading Sigismund as king]
 consequences: [the Compacts and communion in both kinds, the massive redistribution of Church land, the rise of the Bohemian nobility, a century of Utraquist Bohemia, a military revolution in infantry tactics]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-06-12
 tags: [event, revolution, late-middle-ages, eastern-europe]
 ---
@@ -82,8 +82,12 @@ vernacular and national consciousness** the movement forged, and Tabor's genuine
 social radicalism (its leaders, often nobles, "looked after their own interests"). Hussitism is the
 great pre-Reformation precedent — a century before [[protestant-reformation-1517|Luther]].
 
+Housley (2002) adds focused analysis of sanctification, scriptural authority, and comparison with later sectarian cases (Münster) and frontier crusading. Taborite "economy of violence" and the limits of total war under divine mandate are highlighted. See [[sources/housley-religious-warfare-europe-1400-1536-2002]].
+
 ## Related
 
 - `caused_by:` [[hus-jan|Jan Hus]]; `part_of:` the [[holy-roman-empire-late-medieval|Empire]] and the [[late-medieval-lay-religion|late-medieval reforming impulse]].
 - `concurrent_with:` [[conciliarism|the Councils of Constance and Basle]] and the [[great-schism-1378|aftermath of the Schism]].
 - `analogous_to:` the [[protestant-reformation-1517|Protestant Reformation]] (its great successor); `contributed_to:` the [[military-revolution|fifteenth-century transformation of war]].
+
+**Housley (Religious Warfare, 2002):** Deepens the religious-sanctification dimension. Hussite defence framed as Deo auctore; Taborites combined apocalyptic claims with "economy of violence"; Žižka and Prokop leadership analysed for divine-mandate perception; relationship of Hussite sanctification to crusading ideology (inverted in some respects). See [[sources/housley-religious-warfare-europe-1400-1536-2002]].

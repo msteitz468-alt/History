@@ -5,8 +5,8 @@ origin: Italian microstoria of the 1970s–80s (Carlo Ginzburg, Giovanni Levi, E
 applies_to_periods: [Early Modern, Age of Expansion, Long 19th Century, Contemporary]
 applies_to_regions: [global]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-07-02
 tags: [concept]
 ---
 
@@ -62,6 +62,20 @@ Francesca Trivellato has framed as "Is there a future for Italian microhistory i
 the age of global history?"). Ginzburg's answer is that the tension between the
 fragment and the whole is itself productive — the discipline's strength, not its
 weakness.
+
+## Evidence Disputes over the Classic Exemplars (Evans 1997)
+
+Richard Evans (*In Defence of History*, 1997) treats the classic microhistories as
+postmodernism's most valuable products while recording their evidential controversies:
+Natalie Zemon Davis's *The Return of Martin Guerre* ("what I offer you is in part my
+invention") was charged by Robert Finlay with pure speculation — the wife's cleverness
+and the real Guerre's inadequacy are in no document — while Davis defended inference
+from what is known of contemporary peasant women; Robert Darnton's *The Great Cat
+Massacre* rests on a single three-page pamphlet written thirty years after the alleged
+event, and its reading of the massacre as prefiguring revolutionary violence "does not
+stand up to even the most cursory scrutiny on Rankean principles" per critics — though
+Evans judges both books' interpretive risk-taking productive rather than disqualifying.
+See [[postmodernism-and-history]] and [[evans-in-defence-of-history-1997]].
 
 ## Related
 

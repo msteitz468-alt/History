@@ -55,6 +55,48 @@ Kershaw (Range 01, Ch. 4) frames the entry as accidental in form but decisive in
 
 Cross-ref [[sources/kershaw-hitler-hubris-1998]], [[actors/adolf-hitler]], [[hubs/biographies/world-wars-era/adolf-hitler]], [[actors/drexler-anton]], [[places/munich]].
 
+## Evans (2003): From Entry to Dictatorial Chairmanship
+
+Evans ([[evans-coming-of-third-reich-2003]]) extends the arc from the entry
+through the party's early consolidation:
+
+- **Formation**: Vienna gave Hitler [[schonerer-georg-von|Schönerer]]'s
+  Pan-Germanism and [[lueger-karl|Lueger]]'s lesson in antisemitic mass
+  demagogy; Evans's judgment (attributed): his antisemitism then "had an
+  abstract, almost theoretical quality... his hatred of Jews only became
+  visceral, personal and extreme at the end of the First World War." From
+  *Mein Kampf* Evans extracts the Vienna lessons Hitler claimed: mass
+  mobilization technique from the Social Democrats, terror met with "equal
+  terror," and "a deep contempt for the state and the law" — "If the species
+  itself is in danger... the question of legality is reduced to a subordinate
+  rule."
+- **The indoctrination courses** (June 1919, under Karl Alexander von Müller
+  and Gottfried Feder) revealed his oratory; his 16 September 1919 letter
+  articulated an "antisemitism of reason" aiming at "the removal of the Jews
+  altogether" — his earliest documented programmatic statement.
+- **DAP entry**: sent to observe the meeting of 12 September 1919; enrolled as
+  member 555 (numbering began at 501 — he was roughly the seventh member).
+  Full-time agitator by end of March 1920; party renamed NSDAP February 1920;
+  the 25-Point Programme (24 Feb 1920) mixed Pan-German, antisemitic, and
+  pseudo-socialist planks. Evans explicitly rejects reading Nazism as an
+  outgrowth of socialism: a race-based "counter-ideology to socialism." Hitler
+  designed the flag (red for socialism, swastika for racist nationalism,
+  black-white-red evoking the imperial flag) and secured dictatorial
+  chairmanship on 29 July 1921 by twice threatening resignation over merger
+  schemes.
+- **Escalating exterminationist rhetoric**, verbatim-documented by Evans: Jews
+  "to be exterminated" (6 Apr 1920); Jews as "racial tuberculosis" (7 Aug
+  1920); "solution of the Jewish question" only by "brute force" (Apr 1921);
+  and January 1923: "if they come to power, our heads will roll in the sand;
+  but... when we get our hands on power: 'Then God have mercy on you!'"
+- **Violence and models**: a month in Stadelheim gaol (1922) for the
+  Ballerstedt beating; the NSDAP banned in most states after the
+  [[walther-rathenau|Rathenau]] assassination — but not Bavaria; and from
+  [[mussolini-benito|Mussolini]]'s March on Rome (Oct 1922) the party took
+  the "Führer" title, the stiff-armed salute, and the march-on-the-capital
+  tactic that failed at the [[beer-hall-putsch-1923|Beer-Hall Putsch]].
+
 ## Sources
 
 Kershaw *Hitler 1889–1936: Hubris* (1998), Ch. 4, using the surviving DAP membership card (Bayerische Staatsbibliothek), army reports on political education work, contemporary Munich police surveillance of völkisch groups, and *Mein Kampf* (with caution on self-dramatization).
+Evans, *The Coming of the Third Reich* (2003), Part 3.

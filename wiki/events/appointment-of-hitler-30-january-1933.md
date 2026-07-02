@@ -57,10 +57,10 @@ The ‘levered into power’ dynamic: without the conservative initiative after 
 ## Actors
 
 - **[[actors/adolf-hitler|Adolf Hitler]]**: Appointed Chancellor; immediately began the process of total power consolidation.
-- **[[paul-von-hindenburg]]**: Reluctant appointer; symbol of old order whose consent legitimized the transition.
-- **[[franz-von-papen]]**: Chief engineer of the deal; Vice-Chancellor who thought he could control Hitler (‘We’ve hired him’).
-- **[[alfred-hugenberg]]**: DNVP leader; ‘We’re boxing Hitler in’; soon marginalized.
-- **[[kurt-von-schleicher]]**: Previous intriguer and briefly Chancellor; outmanoeuvred and later murdered.
+- **[[hindenburg-paul-von|Paul von Hindenburg]]**: Reluctant appointer; symbol of old order whose consent legitimized the transition.
+- **[[papen-franz-von|Franz von Papen]]**: Chief engineer of the deal; Vice-Chancellor who thought he could control Hitler (‘We’ve hired him’).
+- ****Alfred Hugenberg****: DNVP leader; ‘We’re boxing Hitler in’; soon marginalized.
+- **[[schleicher-kurt-von|Kurt von Schleicher]]**: Previous intriguer and briefly Chancellor; outmanoeuvred and later murdered.
 
 ## Historiography
 
@@ -68,10 +68,51 @@ Kershaw’s analysis in ch. 10 rejects both intentionalist ‘Hitler willed it a
 
 **Grounded in range:** Kershaw, *Hitler 1889–1936: Hubris* (1998), ch. 10 ‘Levered into Power’ (full chapter analysis of 1932–33 impasse, quotes from Papen, Hugenberg, Haffner, Goebbels, and contemporaries).
 
+## Evans (2003): The Deal and the Day
+
+**The intrigue.** After Hindenburg's circle refused
+[[schleicher-kurt-von|Schleicher]] emergency powers, and amid rumors of a
+Schleicher–Hammerstein counter-coup (Papen on the morning of 30 January: "If a
+new government is not formed by 11 o'clock, the army will march"), Hitler was
+sworn in at ~11:30 a.m. Cabinet: only two Nazi portfolios besides the
+Chancellery — but the ones Hitler insisted on: Frick at Reich Interior and
+Göring as Prussian Interior minister-in-effect, i.e. the police of most of
+Germany. Hugenberg took Economics and Food; Blomberg (appointed at the army's
+behest the day before) Defence; Seldte (Steel Helmets) Labour; Gürtner
+Justice. Papen, Vice-Chancellor and Reich Commissioner for Prussia: "We've
+engaged him for ourselves."
+
+**The evening.** Goebbels's torchlit parade through Berlin: a pro-Nazi paper
+claimed 700,000 marchers; a sympathetic count made it 61,000 in all; a hostile
+one ≤20,000 uniformed — an eyewitness watched the same stormtroopers circle
+past repeatedly ("as if there were a hundred thousand of them"). The senile
+Hindenburg at his window reportedly said, "Ludendorff, how well your men are
+marching, and what a lot of prisoners they've taken!" Göring on radio invoked
+August 1914; Evans notes the "spirit of 1914" betokened war — from 30 January
+"German society was to be put as quickly as possible on a permanent war
+footing." Reception ranged from Louise Solmitz's diary ecstasy ("Intoxication
+without wine" — while marchers chanted "Death to the Jews"; "Who took that
+seriously then?") through a Czech diplomat's dismissal ("No Third Reich,
+hardly even a 2½") to the French ambassador François-Poncet: the
+conservatives "have believed themselves to be very ingenious, ridding
+themselves of the wolf by introducing him into the sheepfold."
+
+**First resistance and its limits.** Shots at a torchlit column in
+Charlottenburg killed a policeman and a brownshirt; the KPD's *Red Flag* was
+banned at once; in Mössingen (Württemberg) some 800 of 4,000 inhabitants
+staged a general strike — over 80 arrested, 71 convicted of treason. The KPD's
+call for a general strike went nowhere without SPD/union cooperation; the
+Comintern read the cabinet as monopoly capital's tool with Hugenberg the key
+figure and "Hitler nothing more than his tool." The SPD leadership, having
+planned a strike on 31 January, dithered — "how could the party justify
+illegal action in defence of legality?" — and Evans judges (attributed) that
+after July 1932 an armed rising "would have been suicidal."
+
 ## Sources
 
 - Kershaw (range): detailed reconstruction of backstairs negotiations, élite attitudes, and the mechanics of the transfer.
-- See also: [[reichstag-election-july-1932]], [[13-august-1932-hindenburg-rejection]], [[franz-von-papen]], [[paul-von-hindenburg]], [[actors/adolf-hitler|Adolf Hitler]]
+- Evans, *The Coming of the Third Reich* (2003), Parts 4–5 ([[evans-coming-of-third-reich-2003]]).
+- See also: [[reichstag-election-july-1932]], 13 August 1932 Hindenburg rejection, [[papen-franz-von|Franz von Papen]], [[hindenburg-paul-von|Paul von Hindenburg]], [[actors/adolf-hitler|Adolf Hitler]]
 
 ---
 

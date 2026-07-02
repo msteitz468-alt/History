@@ -127,6 +127,24 @@ France's later chapters supply further grounding for the proprietorial model whi
 
 These chapters confirm that even when ideology or distance created exceptional conditions, the underlying proprietorial logic (retinue structure, elite control of command, adaptation without institutional revolution, ransom among peers) persisted. Brutality toward "the other" or civilians in existential theatres (Baltic, Holy Land) was the exception that proved the rule of moderation among western landholding elites.
 
+## The Eighteenth-Century Analogue (Whitman)
+
+`analogous_to:` the monarchical property-war of the eighteenth century as analyzed
+by Whitman ([[whitman-verdict-of-battle-2012|The Verdict of Battle]], 2012). The
+concepts are distinct — France's is medieval and includes private/feudal war,
+Whitman's era is defined precisely by the *monopolization* of war by sovereigns —
+but the underlying logic is the same: war as the enforcement of property and
+inheritance claims by a landed (now dynastic) proprietor class. Whitman: "War was
+at base a form of the pursuit of profit, a way of sorting out conflicting property
+claims" — as late as the 1804 French Civil Code, booty remained among the "natural
+modes of acquiring property." The Abbé de Fleury (1715) made the litigation frame
+explicit: "The causes of war are the same as those for which private persons file
+lawsuits... [war is] private law applied to the interest of sovereigns." Dynastic
+succession wars (Spanish, Austrian successions) were argued as inheritance cases —
+sovereigns as claimants "In re Austrian Succession." See [[jus-victoriae]] and
+[[verdict-of-battle]] for the settlement machinery, and
+[[war-of-the-austrian-succession-1740]] for the paradigm case.
+
 ## Sources
 
 Grounded exclusively in John France, *Western Warfare in the Age of the Crusades, 1000–1300* (1999), Ch. 1 ("Proprietorial warfare"), with supporting material from Ch. 2 (weapons and social distinctions in equipment), Ch. 3 (technology constrained by lack of infrastructure and individual provision), Ch. 4 (warfare and authority; mouvances, kings as landowners, limited vs. savage war), and Ch. 5 (cavalry as the armed face of the proprietorial elite; evolution of *miles*), plus Ch. 12–13 for campaign/battle practice and limits on development. Ch. 14–16 and Appendix I provide the peripheral and synthetic evidence above.

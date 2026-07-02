@@ -42,6 +42,23 @@ From Iberia to Italy (Garibaldi as "a gifted guerrilla commander"), to the Arabi
 
 The through-line "from Engels to Giap" is that "guerrilla warfare was therefore never seen as sufficient in itself. It was a way of holding out until it was possible to develop a true military capacity... if the aim was to seize power, the regular forces of the state would have to be defeated." Guerrilla warfare needs a regular force or political endgame to be decisive.
 
+## The Legal Lineage (Whitman)
+
+Whitman ([[whitman-verdict-of-battle-2012|The Verdict of Battle]], 2012) traces
+the modern Western guerrilla to the American Revolution: rebel riflemen's
+ambush tactics outraged British regulars as "ungenerous," verging on murder
+("What an unfair method of carrying on a war!"). The lineage runs through
+Napoleonic Spain, the Mexican-American War, the Confederacy's **Partisan Ranger
+Act (April 1862)** — which conferred formal combatant status on Southern
+irregulars, forcing the first new legal doctrines of irregular war (Lieber,
+Bluntschli) — and the francs-tireurs after [[battle-of-sedan-1870|Sedan]]. His
+structural point: guerrilla war is the signature of wars where a defeated
+*people* refuses a battlefield verdict — the mode of conflict that replaced the
+[[verdict-of-battle|pitched-battle settlement system]] and marks its
+[[death-of-pitched-battle|death]]; and one of the "hard war" alternatives
+(chevauchée, razzia, siege, bombing) that contained battle warfare had always
+held at bay.
+
 ## Related
 
 - [[mao-zedong|Mao Zedong]]

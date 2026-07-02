@@ -38,3 +38,23 @@ From Cambridge History of Russia Vol. III (Barber/Harrison, ll. 6006–6011): Th
 
 ## Historiography
 Riasanovsky notes that both Hitler and Stalin signed the pact without any illusions, expecting temporary advantages (Line 6255). Molotov's replacement of Maxim Litvinov (who was Jewish and associated with collective security) in May 1939 had signaled this sudden shift in Soviet alignment.
+
+## From Evans, *The Third Reich in Power* (2005)
+
+Additions (ingested 2026-07-02): [[ribbentrop-joachim-von|Ribbentrop]] pushed
+hardest for the Soviet option and signed in Moscow in the early hours of
+24 August 1939; on the Soviet side the Red Army's post-purge unreadiness
+drove the need for time. Goebbels's diary: "The Leader has made a brilliant
+move." Evans notes that though the pact lasted under two years, "the
+boundary it drew in Poland... was to prove permanent, while the Soviet
+occupation of the Baltic states was to last until near the end of the
+twentieth century." A grim consequence he documents: ~4,000 German nationals
+in the USSR — including 1,000–1,200 Communists and Jewish exiles — were
+handed over to the Gestapo by Stalin's regime (Margarete Buber-Neumann to
+Ravensbrück; the composer Hans Walter David handed over in May 1940 and
+murdered by the SS). European Communist parties, initially stunned, fell in
+line. Source: [[evans-third-reich-in-power-2005]]
+
+## From Evans, *The Third Reich at War* (2008) — the Soviet zone in Poland
+
+The USSR occupied 201,000 km² with 13 million people from 17 September 1939 (Stalin having waited to close out the Nomonhan conflict with Japan). Of ~200,000 Polish POWs, ~15,000 officers and officials were deported into the USSR; in April–May 1940 the NKVD shot them, ~4,443 individually in the back of the head at Katyn — see [[katyn-massacre-1940]]. Roughly half a million Poles were imprisoned; ~1.5 million deported in cattle trucks to Kazakhstan and Siberia in the first half of 1940 (targets included political-party members, officers, Catholic laity, landowners, refugees, even "esperantists or philatelists"); perhaps a third died before the post-Barbarossa amnesty. Jews (1.2 million residents plus 350,000 refugees from the German zone) initially welcomed Soviet rule as protection from both German racism and Polish antisemitism — feeding the "Judeo-Bolshevism" trope — but repression soon reached them: as many as one in three Polish deportees to Siberia was Jewish (~100,000 deaths). Evans's comparative judgment: "From Stalin's point of view, what was being carried out in occupied Poland was a social revolution for the benefit of the majority; from Hitler's point of view . . . an ethnic revolution for the benefit of a small minority." `contrasts_with: [[germanization-of-occupied-poland-1939-1944]]`. Source: [[evans-third-reich-at-war-2008]]

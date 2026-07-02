@@ -75,6 +75,36 @@ The event sealed Hitler's personal transition from agitator/drummer to self-proc
 
 **Collection Coverage Note**: Kershaw provides the definitive modern narrative synthesis based on Goebbels diaries, speech editions, and Bavarian archival material. The putsch is treated as the necessary precondition for the later 'legal' strategy and the consolidation of charismatic leadership.
 
+## Evans (2003) Additions
+
+- **Setting**: the [[ruhr-occupation-crisis-1923|Ruhr crisis]] and
+  [[hyperinflation-1923|hyperinflation]] autumn; Kahr, Lossow, and Seisser
+  readying their own anti-Berlin plans while Seeckt refused cooperation;
+  Röhm's "Working Community of Patriotic Fighting Leagues" made Hitler
+  nominal political leader of a paramilitary bloc larger than the SA — Evans
+  describes him as "being swept along by events," with
+  [[ludendorff|Ludendorff]] as figurehead.
+- **Mechanics**: the 9 November marchers — ~2,000 armed men — were each paid
+  2 billion inflation-marks (just over $3) from 14,000 billion "confiscated"
+  from two Jewish banknote printers. Who fired first at the police cordon is
+  disputed in the sources (Evans flags it); 14 marchers and 4 policemen died;
+  Göring, wounded in the leg, fled abroad and acquired his morphine addiction.
+- **The trial as judicial scandal**: held before a specially constituted
+  Munich "People's Court" under Georg Neithardt (chosen for nationalist
+  sympathies by Justice Minister Franz Gürtner — the same Gürtner who
+  reappears as Reich Justice Minister in 1933); Hitler allowed to orate for
+  hours; Ludendorff's role suppressed and he was acquitted; deportation
+  refused on grounds of war service; five years for high treason with the
+  court citing the defendants' "pure patriotic spirit and the most noble
+  will." At Landsberg ("fortress incarceration"; his cell previously held
+  Eisner's assassin Arco-Valley) Hitler received over 500 visitors and
+  dictated [[mein-kampf|Mein Kampf]].
+- **The lesson** (Evans, attributed): paramilitary violence alone, without
+  army backing, could not seize power in Germany — unlike Mussolini's Rome.
+  Evans explicitly denies Hitler adopted a strict "legality" strategy after
+  1923; what he adopted was the neutralization and co-optation of the army
+  and institutions, applied in 1933 (see [[nazi-seizure-of-power-1933]]).
+
 `part_of`: [[weimar-democracy-and-its-collapse]]
 `followed_by`: [[nsdap-refoundation-1925]]
 `preceded_by`: [[november-revolution-1918|long-term revolutionary trauma and paramilitary culture]]

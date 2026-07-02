@@ -71,4 +71,39 @@ The genocide was little studied until the late twentieth century. The major hist
 
 **Memory and reparations**: Namibia achieved independence in 1990. The German government formally acknowledged the genocide in 2021 and agreed to a development fund of 1.1 billion euros, though without agreeing to legal reparations. The politics of acknowledgment, memory, and compensation remain contested.
 
-**Source:** [[smith-oxford-modern-german-history-2011]], Chapter 16 (Andrew Zimmerman).
+## Evans (2015) enrichment
+
+From Evans, *The Third Reich in History and Memory*, ch. 1 (ingested 2026-07-02):
+
+- **Trotha in his own words**: "I know that African tribes yield only to
+  violence. To exercise this violence with crass terrorism and even with
+  gruesomeness was and is my policy." Chief of the General Staff Schlieffen
+  praised the campaign as "brilliant"; the General Staff organ *Der Kampf*
+  approvingly described "the extermination of the Herero nation."
+- **Contemporary criticism**: Bülow called it un-Christian; SPD and Centre
+  politicians condemned it; Governor Leutwein called the extermination a
+  "grave mistake" and was dismissed — but his forced-labor alternative
+  prevailed, filling the camps.
+- **Shark Island**: the worst of the camps (the first official German use
+  of the term "concentration camp"): forced labor on minimal rations,
+  whippings, exposure; bodies left daily on the beach for the tide. Of
+  ~17,000 Africans held in the camps, only about half survived. Evans's
+  figures: Herero reduced from ~80,000 to 15,000; up to 10,000 of ~20,000
+  Nama killed.
+- **Science and law**: Eugen Fischer studied the mixed-race "Rehoboth
+  bastards" and shipped up to 300 skulls to Germany (his institute later
+  trained Mengele); the 1905 intermarriage ban and 1907 annulments
+  introduced *Rassenschande* into German legal vocabulary, resurfacing in
+  the Nuremberg Laws.
+- **Evans's comparative verdict** (attributed): colonial brutality was "far
+  from uniquely German" (Congo, Algeria, Ethiopia), but only Germany
+  named and built deliberately lethal concentration camps, mounted an
+  explicit racial extermination of a colonized people, and legislated
+  intermarriage bans across multiple colonies. On the continuity question
+  he is skeptical of a direct line to the Holocaust — see
+  [[colonialism-nazism-continuity]].
+- **Memory**: Bremen's 1932 pro-colonial elephant monument was
+  redesignated an "anti-colonial monument" in 1990, with a 1996 plaque to
+  the victims unveiled by President Nujoma.
+
+Sources: [[smith-oxford-modern-german-history-2011]], Chapter 16 (Andrew Zimmerman); [[evans-third-reich-history-memory-2015]].

@@ -50,6 +50,45 @@ Hitler's own *Mein Kampf* account is "mere page," laconic, and "has the air of a
 - Reichswehr and Freikorps (counter-revolution)
 - [[actors/adolf-hitler]] (witness, later regimental investigator)
 
+## Evans (2003): Detailed Narrative of the Collapse
+
+Evans ([[evans-coming-of-third-reich-2003]]) supplies the fullest ingested
+sequence:
+
+- **Eisner's government** (from 7–8 Nov 1918) "failed utterly in the basic
+  tasks of maintaining food supplies, providing jobs, demobilizing the troops
+  and keeping the transport system going"; the 12 January 1919 elections
+  crushed his Independents. He was shot dead on 21 February 1919 by Count
+  Anton von Arco-Valley, an aristocratic student trying to join the
+  antisemitic Thule Society — "completely pointless," Evans notes, since
+  Eisner carried a draft resignation in his pocket. In the retaliatory chaos a
+  socialist shot and wounded Majority SPD leader Erhard Auer in the parliament
+  chamber itself.
+- **The Council Republic**: first the "regime of the coffee house anarchists"
+  (the 25-year-old playwright Ernst Toller, with Erich Mühsam and Gustav
+  Landauer — abolishing the study of history at Munich University as "hostile
+  to civilization" while Foreign Commissar Franz Lipp declared war on
+  Württemberg and Switzerland by telegram); then the Bolshevik phase under
+  Max Levien and Eugen Leviné, with a 20,000-strong Red Army and hostages
+  taken from the aristocracy and upper middle class.
+- **The suppression** (May 1919): the exiled Hoffmann government raised 35,000
+  [[freikorps|Free Corps]] under Colonel Franz Ritter von Epp. Panicking Red
+  Army soldiers shot ten hostages at the Luitpold Gymnasium, six of them Thule
+  Society members. The Free Corps' entry became a bloodbath: Leviné summarily
+  shot; Landauer beaten with rifle butts, shot twice, and kicked to death in
+  the Stadelheim courtyard, his body left for two days; 21 members of a
+  Catholic craftsmen's society massacred on 6 May on a false denunciation.
+  "Even the official estimates gave a total of some 600 killed at the hands of
+  the invaders; unofficial observers made the total anything up to twice as
+  high."
+- **Causal link to Nazism** (contributed_to): the bloodbath and army
+  reconstruction produced the June 1919 political-indoctrination courses into
+  which the 30-year-old corporal Hitler — who had passively worn a red armband
+  during the revolution — was sent, directly launching his career
+  ([[hitler-dap-entry-1919]]). The "red terror"/hostage-shooting memory also
+  became a standing justification for conservative complicity in 1933 (see
+  [[reichstag-fire-1933]]).
+
 ## Historiography
 
 Kershaw (Range 01, Ch. 4) emphasizes the "messy, largely spontaneous and uncoordinated" character of the revolution nationally and locally; it arose from disaffection and demand for peace/end to misery, not solely "hard-core left-wing revolutionaries." The Räterepublik was short and chaotic. Hitler's minimization in *Mein Kampf* is highlighted as suspicious; patchy evidence suggests he remained in Munich through much of the period. The events "deeply scarred his psyche."

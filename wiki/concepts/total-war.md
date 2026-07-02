@@ -51,6 +51,18 @@ unlimited, and mobilization was never complete. "Total war" is thus best treated
 than a literal description, and one applied retrospectively (the term was popularized by
 Ludendorff in 1935).
 
+**The Whitman genealogy.** [[whitman-verdict-of-battle-2012|Whitman (2012)]]
+treats "total war" or "hard war" as the perennial *alternative* to contained
+pitched battle — chevauchée, razzia, systematic pillage, siege, guerrilla,
+Sherman's March, the bombing raid — which the [[jus-victoriae]] system held at
+bay until the 1860s–70s ([[death-of-pitched-battle]]). He finds a
+proto-justification for totality embedded in Grotius himself (a just cause
+demands *all* one's forces), and traces the culmination through Clausewitz's
+*Vernichtungsschlacht* to unconditional-surrender doctrine and twentieth-century
+ideological victories that claimed the right to remake defeated societies —
+against David Bell's *The First Total War*, he dates the decisive break to the
+1860s, not the Revolutionary/Napoleonic era.
+
 ## Significance
 
 The concept captures what made the World Wars categorically different from earlier
@@ -67,3 +79,7 @@ whole), and frames the trajectory from 1914 toward the even more total violence 
 - [[nuclear-arms-race]] — the ultimate horizon of total war (mutual annihilation) in the [[cold-war|Cold War]].
 - [[industrialization-of-warfare]] — the underlying process (industrialization + bureaucratization + nationalism) of which total war is the 1914–45 culmination ([[cambridge-history-of-war-v4|CHW Vol. 4]]).
 - [[war-economy]] · [[strategic-bombing-campaign]] · [[the-holocaust]] — the WWII total-war complex (economy, the air war, and the genocidal extreme), per [[cambridge-history-second-world-war-v3|CHSWW Vol. III]] (Geyer & Tooze): total war "overwhelms and eats up society."
+
+## Goebbels's "total war" — Evans, *The Third Reich at War* (2008)
+
+Goebbels's Sportpalast speech of 18 February 1943 ("Do you want total war? . . . if necessary, more total and more radical than we can even imagine it today?"), delivered to a hand-picked audience of 14,000 with 200+ orchestrated interruptions, was described by contemporaries as "a feat of mass hypnosis" — and, Evans argues, was largely symbolic: Hitler's rival "Committee of Three" (Bormann, Lammers, Keitel) went moribund bickering over trivia like horse-racing bans, and concrete measures (9,000 Brandenburg business closures, January 1943) were abandoned within months. SD reports show ordinary Germans read the theatre as theatre ("groups ordered there . . . shouting yes to everything"). Evans also rebuts the "Blitzkrieg-as-cheap-war" legend: consumption had fallen from 71% to 59% of national income by 1938, and by 1944 Germany devoted 75% of GDP to war (USSR 60%, Britain 55%) — mobilization was near its ceiling long before the slogan. Source: [[evans-third-reich-at-war-2008]]

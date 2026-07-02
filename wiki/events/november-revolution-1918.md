@@ -57,6 +57,28 @@ The protest potential that built up during the war faded quickly once peace and 
 - [[weimar-republic|Gustav Noske]] — SPD defense minister who directed Freikorps suppression
 - [[german-empire|Erich Ludendorff]] — whose military defeat made revolution possible
 
+## Evans (2003): The Revolution's Poisoned Aftermath
+
+Evans ([[evans-coming-of-third-reich-2003]]) stresses a deliberate strategic
+calculation at the origin: Ludendorff and the Reich leadership, once convinced
+the war was lost, pushed democratization precisely so civilian politicians —
+not the Kaiser or army — would bear the blame for the peace (caused_by, not
+incidental). The army then "simply melted away."
+
+On the violence: the [[freikorps|Free Corps]] suppressed the Spartacist rising
+with "unprecedented violence and brutality" (Liebknecht and Luxemburg
+murdered; revolutionaries mown down or summarily executed in multiple cities);
+in spring 1920, after the [[kapp-putsch-1920|Kapp Putsch]] was defeated by
+general strike, the Ruhr workers' "Red Army" was crushed by Free Corps units
+backed by the regular army and the SPD: "well over a thousand members of the
+Red Army were slaughtered, most of them prisoners 'shot while trying to
+escape.'" Evans's causal chain (attributed): the SPD's recruitment of the Free
+Corps permanently poisoned SPD–Communist cooperation **and** armed a
+paramilitary right that turned on its sponsors as "November criminals" —
+Organization Consul murdering [[walther-rathenau|Rathenau]], Erzberger, and
+Haase — a self-undermining dynamic that contributed_to
+[[weimar-democracy-and-its-collapse]]. See also [[stab-in-the-back-myth]].
+
 ## Historiography
 
 **Source quality**: Chapter 17 of [[smith-oxford-modern-german-history-2011]] (Benjamin Ziemann) draws on a large body of specialist scholarship including Wilhelm Deist's seminal essay on the "military strike," Volker Ullrich's social history of Hamburg, and Roger Chickering's urban history of Freiburg. The field is rich in primary sources — Feldpostbriefe (military postal letters) and soldiers' council records.

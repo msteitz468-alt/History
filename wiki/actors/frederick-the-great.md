@@ -15,11 +15,13 @@ opposed_by:
   - "[[habsburg-empire]]"
 key_events:
   - "[[war-and-the-german-states-1740-1815]]"
+  - "[[war-of-the-austrian-succession-1740]]"
+  - "[[seven-years-war-1756]]"
 key_processes:
   - "[[german-sonderweg]]"
   - "[[german-enlightenment]]"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-02
 tags:
   - actor
   - person
@@ -49,6 +51,32 @@ Frederick's Prussia also generated the first recognizable forms of modern German
 ## Ironic Relationship to German Nationalism
 
 A foundational irony of Frederick's political legacy is that he himself despised the German language and corresponded predominantly in French. The Oxford Handbook observes that "around 1750, German was not yet established on the map of Europe as a language of scholarship and high culture," and Frederick's court epitomized this cultural dependence on France. The later nationalist mythology that appropriated Frederick as the harbinger of a Protestant-Prussian Germany — positioning him in a lineage from Martin Luther through Gustav Adolf to Bismarck — was a retrospective construction of the Kaiserreich era that Frederick himself would have found puzzling.
+
+## Frederick as Legal Actor: the Whitman Reading
+
+Whitman ([[whitman-verdict-of-battle-2012|The Verdict of Battle]], 2012) makes
+Frederick's Silesian gamble his central case for the [[jus-victoriae]] and
+argues the "criminal aggressor" reading (Gerhard Ritter 1936 — written, Whitman
+notes, as "a sly critique of Hitler" — echoed by Jomini and Korman) is
+anachronistic. Frederick advanced genuine, contemporaneously "disputable"
+dynastic claims, published the required manifesto, and had already defended
+"wars of precaution" on orthodox legal grounds in the *Anti-Machiavel*: "Since
+kings are subject to no superior tribunal... it is for combat to decide their
+rights." He narrated his own victories in the wager idiom — Mollwitz won by
+"heureux hasard," Silesia decided by "the chance of arms" — and his famous
+maxim, "Battles decide the fortune of states," belongs to the same settlement
+logic. His much-criticized refusals to pursue beaten enemies (at Chotusitz he
+lost *more* men than the retreating Austrians, and French allies raged that he
+had merely "conquered the field of battle") are, for Whitman, the conduct of a
+Holmesian rational actor: under the retreat rule a recognized "complete victory"
+sufficed to force the Peace of Breslau (1742) and permanent cession of Silesia,
+without the desertion risks of pursuit. Even the occupation of Berlin in the
+Seven Years' War did not make him "the loser" — battlefield verdicts, not
+capitals, counted. Whitman equally rejects the later hero-cult inversion
+(Carlyle's proto-Nietzschean genius, the 1931 *Superman* biography, General
+Staff mythology) and the genealogy from 1740 to 1914/1939: Frederick's conduct
+was rule-following, not lawless. See [[verdict-of-battle]] and
+[[war-of-the-austrian-succession-1740]].
 
 ## Counterfactual Significance
 

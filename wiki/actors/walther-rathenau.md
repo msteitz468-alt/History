@@ -32,6 +32,37 @@ As Foreign Minister of the Weimar Republic, Rathenau negotiated the Treaty of Ra
 
 Rathenau's career illustrates the paradox of German Jewish patriotism in the World War I era: a Jewish industrialist who created the organizational backbone of the German war effort, yet who remained a target of anti-Semitic agitation throughout the war (the Centralverein and Jewish community desperately hoped that service would produce acceptance, but anti-Semitic associations from the start excluded Jews from the Burgfrieden). His assassination exemplified how, after 1918, anti-Semitism shifted "from a mere 'cultural code' ... into the recurring practice of physical violent attacks against Jews on behalf of the Volksgemeinschaft" ([[smith-oxford-modern-german-history-2011]], ch. 17).
 
+## Volkov's biography via Evans (2015)
+
+Evans's review of Shulamit Volkov, *Walther Rathenau: Weimar's Fallen
+Statesman* (in [[evans-third-reich-history-memory-2015]], ch. 4) adds:
+
+- **The assassination in detail**: shot and grenaded in his open car in
+  the Grünewald, 24 June 1922, by Erwin Kern and Hermann Fischer of the
+  underground "Organisation Consul" (ex-Erhardt Brigade Free Corps men,
+  also responsible for murdering Erzberger). The immediate pretext was
+  Rapallo — Helfferich denounced it in the Reichstag the day before — but
+  at trial the accused stated their aim was "the exclusion of Jews" from
+  public office via violent "internal war." Driver Ernst Techow, spared
+  after an extraordinary letter of forgiveness from Rathenau's mother,
+  reportedly later saved Jews from deportation in wartime Marseilles.
+- **Rapallo context**: Wirth backed it partly for covert
+  Reichswehr–Red Army cooperation circumventing Versailles ("Poland must
+  be eliminated" — Wirth, quoted by Evans).
+- **Identity**: proudly Jewish though outside the religious community;
+  Evans corrects Volkov's picture of an isolated Jewry — assimilation was
+  accelerating (intermarriage in Hamburg at 73 per 100 Jewish marriages
+  by WWI). In 1907 Rathenau condemned the [[herero-nama-genocide-1904|
+  Herero genocide]] as "the greatest atrocity that has ever been brought
+  about by German military policy."
+- **Consequences (Evans, correcting Volkov)**: not a chastening of the
+  anti-republican right but ambivalent — Ebert's Decree for the
+  Protection of the Republic created a special State Court that later
+  judges turned lenient toward right-wing violence ("a dangerous
+  precedent" prefiguring the Nazi People's Court); the murder triggered a
+  run on the mark accelerating toward the 1923 hyperinflation; his
+  foresaw-it "fulfilment" policy passed to [[gustav-stresemann]].
+
 ## Historiography
 
-Source: [[smith-oxford-modern-german-history-2011]], ch. 18 (Tooze). Further context in Adam Tooze, *Statistics and the German State 1900–1945* (Cambridge, 2001), and *Wages of Destruction* (2006).
+Source: [[smith-oxford-modern-german-history-2011]], ch. 18 (Tooze). Further context in Adam Tooze, *Statistics and the German State 1900–1945* (Cambridge, 2001), and *Wages of Destruction* (2006). Volkov's Yale "Jewish Lives" biography via [[evans-third-reich-history-memory-2015]].

@@ -93,6 +93,44 @@ The war's end left three unresolved questions: the legal status of 4 million fre
 
 The West Point History (Rogers & Seidule eds., 2014) provides the authoritative operational/tactical treatment (maps, order-of-battle data) used throughout the [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war|warfare hub]]. [[sources/hattaway-jones-how-the-north-won-1983|Hattaway & Jones]] supply the operational/logistical standard account of how Union numerical and industrial superiority was translated into victory. [[sources/weigley-the-american-way-of-war-1973|Weigley]] frames the war within the longer American strategic-culture debate between limited war and annihilation, with Grant as exemplar of the latter. [[sources/hagerman-american-civil-war-origins-modern-warfare-1988|Hagerman]] traces the doctrinal and organizational path (Mahan's prewar teaching, rifled-musket firepower, industrial logistics) from 1861 improvisation to the entrenched, positional "modern warfare" of 1864–65, drawing explicit parallels to WWI. [[sources/donald-lincoln-1995|Donald's *Lincoln*]] (1995) is the standard modern biographical treatment of the political direction of the war.
 
+**Hartz's consensus reading (1955).** For [[hartz-louis|Hartz]]
+([[hartz-liberal-tradition-1955]]) the war is "a French Revolution in reverse" that is not
+really a French Revolution at all: the South's secessionist ideology — [[fitzhugh-george|Fitzhugh]]'s
+1863 proclamation of "a great conservative reaction... We attempt to roll back the Reformation
+in its political phases" — was borrowed European costume over a Lockean society, since "a
+feudalism that has once been liberal can never be really feudal." The North, drawing on the
+Declaration's shared natural-rights tradition, was "decently both" revolutionary and
+conservative and largely *ignored* the South's elaborate feudal-positivist case — moral force
+was all on one side. Lincoln completes the Whig conversion of 1840: he "Americanizes Whiggery"
+and "shatters the 'un-Americanism' of the Reactionary Enlightenment" — "He transforms Hamilton
+in the process of destroying George Frederick Holmes... After Lincoln there are no more
+frustrated Guizots, frustrated Disraelis... in the history of American political thought."
+A distinct intellectual consequence: the near-total postwar oblivion of the Reactionary
+Enlightenment ([[calhoun-john-c]], Fitzhugh) — unlike defeated European conservatisms, it fed
+nothing afterward; "it was put to rest by Andrew Carnegie and Horatio Alger, the children of
+Lincoln's achievement." See [[lockean-consensus]]; Genovese's later rehabilitation of Southern
+paternalism directly contests Hartz's "fraud" verdict.
+
+**Whitman's legal-history reading (2012).**
+[[whitman-verdict-of-battle-2012|Whitman]] makes the war (with the
+Franco-Prussian War) one of his two diagnostic cases for the
+[[death-of-pitched-battle]]: mid-19th-century pitched battles, however hard
+fought, could no longer produce accepted verdicts. Confederate strategy rested
+on an eighteenth-century assumption — that battlefield victory would bring
+European recognition on the Saratoga model — which failed even after real
+victories like Second Bull Run (McPherson's "The Saratoga That Wasn't"): "the
+rules had changed since 1781." The Partisan Ranger Act (April 1862) conferred
+formal combatant status on Southern irregulars, producing a war of raids whose
+legal crisis drove Lieber's and Bluntschli's seminal doctrines on irregular
+warfare and occupation; the war could ultimately be decided only by Sherman's
+campaign of devastation. Whitman (via Hess) rejects rifled-musket technology as
+the explanation for the grinding character of the war — the cause was "political
+determination on the part of civilians and government alike," a war between
+republics over foundational legitimacy that no single day's verdict could
+settle. Defeated Confederates reading their loss as "the judgment of God"
+(Nicoletti) marks for Whitman the era's shift from battle-as-Fortune to
+battle-as-Destiny. See [[verdict-of-battle]] and [[jus-victoriae]].
+
 **Standing controversies not yet promoted to dedicated pages** (candidates for `wiki/controversies/`): the causes of the war (states' rights vs. slavery — resolved among professional historians in favor of slavery as the central cause, but contested in popular/regional memory as the "Lost Cause" narrative); Lincoln's evolving emancipation motives (moral conviction vs. military necessity vs. both); the necessity/proportionality of Sherman's "hard war" tactics; the causes of Reconstruction's failure (Northern loss of will vs. structural limits of federal power vs. the scale of Southern white paramilitary violence).
 
 **Collection coverage:** Strong — extensively developed via the West Point Atlas, Rogers & Seidule tactical analyses, Hattaway & Jones, Weigley, Hagerman, and the Donald Lincoln biography. The **antebellum political crisis and Reconstruction era** are comparatively thinner in dedicated wiki pages relative to the war's operational history and would benefit from a targeted secondary source (a Reconstruction-focused monograph, e.g. Eric Foner's *Reconstruction: America's Unfinished Revolution*, is not yet in the collection/wiki).

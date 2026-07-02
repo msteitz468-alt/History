@@ -56,13 +56,27 @@ mono-causal) drivers:
 - **The nomad frontier** — managing, resisting, or co-opting
   [[pastoral-nomadism|steppe nomads]] repeatedly shaped (and sometimes created)
   states, especially in China and Iran.
+- **The monopolization of legitimate violence** — Weber's defining criterion,
+  historically enacted in early-modern Europe as monarchs stripped nobles of
+  their "privileges of violence" (private war, feud, trial by combat, the duel).
+  [[whitman-verdict-of-battle-2012|Whitman (2012)]], following Norbert Elias's
+  "civilizing process," traces the sequence: medieval noble status was legally
+  bound to the right to inflict violence (Huizinga's "system of noble combat");
+  the Fronde was its last gasp; Dewald's "bargain" — nobles traded their habits
+  of violence for court service and civic peace — left sovereigns the sole
+  lawful war-makers, the precondition for the disciplined standing army and the
+  contained warfare of the eighteenth century ([[limited-war]],
+  [[jus-victoriae]]). Whitman refines Weber: violence is not only licensed *by*
+  legitimacy, it has been used to *create* legitimacy (Edward III's chevauchées,
+  Louis XIV's burning of the Palatinate), against Schmitt's decisionist
+  definition of sovereignty.
 
 ## Major Phases
 
 1. **Pristine/secondary state emergence** (4th–2nd millennia BCE) — covered by
    [[yoffee-cwh-v3-2015|CWH III]] and the [[urban-revolution]]: the first states in
    Mesopotamia, Egypt, the Indus, China, Mesoamerica, the Andes.
-2. **The Early Iron Age reset** (1200–800 BCE) — the [[bronze-age-collapse]]
+2. **The Early Iron Age reset** (1200–800 BCE) — the [[bronze-age-collapse-1200bce]]
    destroyed the Late Bronze palace states; recovery produced new, often smaller
    and less palatial polities ([[phoenicians|Phoenician]] city-states, the
    resurgent [[neo-assyrian-empire|Assyrian]] state).
@@ -70,7 +84,7 @@ mono-causal) drivers:
    city-state and kingdom to multi-ethnic [[empire]]: Neo-Assyrian, [[achaemenid-empire|Achaemenid]],
    [[mauryan-empire|Mauryan]], [[qin-dynasty|Qin]]/[[han-dynasty|Han]], Roman.
 4. **Post-classical reconstitution** (Late Antiquity–Early Middle Ages) — after the
-   3rd-century crises and the [[fall-of-western-roman-empire|western Roman]]
+   3rd-century crises and the [[fall-of-the-western-roman-empire-476|western Roman]]
    transformation, new universal-religious states: the [[caliphate|caliphates]],
    [[tang-dynasty|Tang]] China, [[byzantine-empire|Byzantium]], the
    [[carolingian-empire|Carolingians]], and the post-imperial successor kingdoms.
@@ -189,8 +203,8 @@ imported. Two arguments stand out:
 
 States do not "end" as a process — the period closes with states more numerous,
 larger, and more bureaucratically elaborated than ever. But individual states and
-state *systems* repeatedly collapsed (the [[bronze-age-collapse]], the
-[[fall-of-western-roman-empire|western Roman]] transformation, the
+state *systems* repeatedly collapsed (the [[bronze-age-collapse-1200bce]], the
+[[fall-of-the-western-roman-empire-476|western Roman]] transformation, the
 [[han-dynasty|Han]] and [[tang-dynasty|Tang]] collapses), and the comparative study
 of *why* — environmental stress, fiscal-military overextension, elite fragmentation,
 nomad pressure, epidemic — is one of the volume's central analytical concerns.
@@ -220,5 +234,5 @@ fragile in the post-Roman Mediterranean — runs through the regional chapters.
 Classic theoretical positions (hydraulic/managerial, conflict/coercion,
 circumscription, voluntaristic) are now generally treated as complementary partial
 accounts rather than rival monocausal laws. See [[empire]] for the imperial
-historiography and the standing controversies on the [[bronze-age-collapse-causes|Bronze
+historiography and the standing controversies on the [[bronze-age-collapse-1200bce|Bronze
 Age Collapse]] and the [[fall-of-rome-causes|fall of Rome]].

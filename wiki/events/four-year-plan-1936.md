@@ -55,3 +55,29 @@ By the end of 1937 the economic drive had created its own dynamic. Expansion bec
 ## Historiography (Kershaw)
 
 Kershaw emphasizes that economics and ideology were thoroughly interwoven. The plan was programmatic rather than detailed. Hitler's way of arguing (inflexible premises + broad dogmatics) made it unassailable on its own terms. The result was not coherent planning but a powerful dynamic pushing toward expansion and, ultimately, war.
+
+## From Evans, *The Third Reich in Power* (2005)
+
+Balance sheet and quantities (ingested 2026-07-02): Göring read Hitler's
+memorandum to cabinet 4 September 1936 ("The German armed forces must be
+operational within four years"; "The German economy must be fit for war
+within four years"; recalcitrant businessmen "punished by death"), was made
+supreme by decree 18 October; [[schacht-hjalmar|Schacht]] was sent on leave
+the day it reached cabinet. **Achievements:** aluminium +70% (world's largest
+producer), textile self-sufficiency 5%→43% (1932–39), synthetic fuel +69%
+(1937–39). **Failures:** buna at ~5,000 of a 29,000-tonne target; half of
+mineral oil still imported in 1939; iron-ore imports *rose* from 4.5m to
+~21m tonnes 1933–38; 1937 steel allocations gave the air force a third and
+the army half of requirements. Rearmament reached 21% of national income by
+1938 (deficit ~9.5bn RM); the Hermann Göring Works (July 1937) muscled state
+steel past private industry (Thyssen's bitter prophecy that industrialists
+would be shot "just as their equivalents were shot in Soviet Russia"). Evans
+names the structural contradiction — autarky (long-war preparation) vs.
+headlong rearmament (imminent war) — as the matrix of *Blitzkrieg*: the
+economy could not sustain prolonged conflict, so conquest had to be fast and
+sequential. On the "IG Farben Plan" thesis he is skeptical: Farben took no
+more than a quarter of Plan expenditure and "neither was the Plan mainly
+dependent on I.G. Farben, nor I.G. Farben on the Plan" — the "primacy of
+politics" over business interest set the parameters.
+
+Source: [[evans-third-reich-in-power-2005]]

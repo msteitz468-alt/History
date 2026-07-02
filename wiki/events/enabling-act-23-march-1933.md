@@ -46,9 +46,43 @@ It marked the formal end of parliamentary democracy in Germany and the birth of 
 
 - **[[actors/adolf-hitler|Adolf Hitler]]**: Demanded and received the Act; used it to dismantle the constitution.
 - NSDAP parliamentary leadership (Frick, Göring): Managed the vote.
-- [[alfred-hugenberg]] and DNVP: Voted in favour, believing it served their ends.
+- **Alfred Hugenberg** and DNVP: Voted in favour, believing it served their ends.
 - Centre Party leadership: Voted yes under pressure and illusion of safeguards.
 - SPD (Otto Wels): Alone voted no in a courageous last stand.
+
+## Evans (2003): The Vote in Detail
+
+- **Potsdam Day** (21 March, garrison church, anniversary of Bismarck's first
+  Reichstag): the Goebbels-staged reconciliation tableau — Hindenburg in
+  Field-Marshal's uniform beside the Kaiser's vacant throne, the frock-coated
+  Hitler bowing; black-white-red had officially replaced the republican colors
+  on 12 March; the SPD declined to attend; Hitler pointedly boycotted the
+  Catholic service — "a clear warning to the Church."
+- **Quorum manipulation**: Göring, presiding, reduced the quorum from 432 to
+  378 by not counting the legally elected KPD deputies — "a high-handed
+  decision that had no legitimacy in law whatsoever" (Evans). Only 94 of 120
+  SPD deputies could vote (prison, illness, fear).
+- **The Centre's capitulation**: under Prelate Kaas the party "had long since
+  ceased to be a supporter of democracy"; the 1929 Italian Concordat supplied
+  the model; two days of Hitler's assurances (Church rights, the federated
+  states, judicial independence) plus "heavy pressure from the Vatican" won
+  its votes. Wirth privately: the deputies feared "bloody anarchy" if the Act
+  failed.
+- **The scene** (Wilhelm Hoegner): "Wild chants greeted us: 'We want the
+  Enabling Law!'... In the Kroll Opera it was swarming with armed SA and SS."
+  Hitler closed with "May you, gentlemen, now take the decision yourselves as
+  to whether it is to be peace or war."
+- **Otto Wels**, carrying a cyanide capsule in his waist pocket, gave the
+  Republic's epitaph: "In this historic hour, we German Social Democrats
+  solemnly profess our allegiance to the basic principles of humanity and
+  justice, freedom and socialism. No Enabling Law gives you the right to
+  annihilate ideas that are eternal and indestructible." Hitler, replying from
+  an advance press copy: "Germany's star will rise and yours will sink...
+  Germany shall be free, but not through you!"
+- **Vote and afterlife**: 444–94 (only the SPD against; the bill would have
+  passed even with every SPD and KPD deputy present and voting no). Renewed
+  1937 and 1939; made permanent by decree in 1943. Hindenburg was thereafter
+  a rubber stamp or bypassed entirely.
 
 ## Historiography
 
@@ -59,7 +93,7 @@ Kershaw places the Enabling Act within the broader ‘Machtergreifung’ phase (
 ## Sources
 
 - Kershaw (range): explicit mention of enabling act in August 1932 context; broader ch. 10–11 treatment of the transfer and immediate aftermath.
-- Cross-links: [[appointment-of-hitler-30-january-1933]], [[reichstag-election-september-1930]], [[13-august-1932-hindenburg-rejection]], [[actors/adolf-hitler|Adolf Hitler]], [[franz-von-papen]]
+- Cross-links: [[appointment-of-hitler-30-january-1933]], [[reichstag-election-september-1930]], 13 August 1932 Hindenburg rejection, [[actors/adolf-hitler|Adolf Hitler]], [[papen-franz-von|Franz von Papen]]
 
 ---
 

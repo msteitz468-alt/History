@@ -100,6 +100,8 @@ Nixon's policy of **"Vietnamization"** (RVNAF buildup to ~801k but leadership/co
 - **North Vietnam / the Vietminh** (Ho Chi Minh), **France**, the **United States**, and
   **South Vietnam**, with the **Soviet Union** and the **People's Republic of China** backing
   the North. See [[united-states]], [[containment]], [[decolonization]].
+
+**Ho Chi Minh late role (Duiker Range 05, 1957–1969)**: By late 1957 dominant operational role declining; absent 13th Plenum (Le Duan rise); limited to diplomat/"Uncle Ho" symbol + stilt house. Cautionary voice at 15th Plenum 1959 (avoid US pretext; "small victories"; political primary per Resolution 15); "meager" results from 1959 ally missions. Supported 1964–65 escalation ("fight whichever way the enemy wants"); health decline; testament (cremation + 3-zone ashes + tax relief). Died 2 Sept 1969. Posthumous: mausoleum vs. wishes; testament editing controversy (Le Duan per Hoang Van Hoan); myth construction. (Grounded verbatim + lines in [[sources/duiker-ho-chi-minh-a-life-2000]] Range 05 block; cross [[actors/ho-chi-minh]], [[hubs/biographies/cold-war/ho-chi-minh]].)
 - U.S. Army commanders and civilians: [[westmoreland-william]], [[abrams-creighton]], [[mcnamara-robert]].
 
 ## U.S. Army Doctrinal Dimension (Krepinevich)

@@ -18,6 +18,8 @@ The **bipartite manor** (or "classic" / two-part estate, *Villikationssystem*) w
 characteristic large landed estate of the [[carolingian-economy|Carolingian core regions]],
 divided into two parts: the **demesne** (*indominicatum* or *terra salica*) — the land the lord
 exploited directly for his own benefit — and the **dependent tenancies** (*mansi*, "manses") held
+
+**Wickham *Framing the Early Middle Ages* (2005) Chs. 5, 8–9.** Late Roman and early post-Roman demesnes existed but were marginal and rarely organised as bipartite estates with systematic labour service. In Francia the full *régime domanial classique* crystallises only in the late 8th c. in the Seine–Rhine heartland, linked to renewed exchange intensification (vineyards as the model for demesne production for sale). In Italy (Lucca, Sabina, northern plain) bipartite terminology (*sundrium* / *domusculta* + *casae massariciae*) and *angaria* (labour) appear from the 730s–740s on small, fragmented demesnes — more as a marker of subjection/domination than as an engine of economic intensification. The metanarrative of continuous manorial genealogy across the period is rejected; different regional origins and timings. In most areas across 400–800, surpluses were extracted primarily as rent from tenants (free or unfree) once the Roman exchange networks ended; wage labour is the best-evidenced alternative where exchange survived. See [[post-roman-transformation-of-the-west]] and [[carolingian-economy]].
 by peasant households who owed rent in kind and, crucially, **labour services** (*corvées*) on the
 demesne. In [[mckitterick-ncmh-v2-1995|NCMH II]] (Verhulst, Ch. 18) it is the central institution
 of the Carolingian rural economy.
@@ -31,6 +33,8 @@ of the Carolingian rural economy.
   "usually with their own oxen."
 - The system's distinctive feature was thus the **provision of demesne labour by the tenant holdings**,
   binding the two parts into a single productive unit under the lord's management (*villicatio*).
+
+**Wickham *Framing the Early Middle Ages* (2005) Ch. 5 (ingested 2026-07-02).** Both labour service and demesnes were relatively rare in the immediately post-Roman period. There was a systemic break between late-Roman patterns of direct landlord control and the medieval demesne agriculture (with extensive corvée) that becomes visible only in the late eighth century in northern Francia and northern Italy. Demesnes existed earlier as pockets of tighter control where exchange rewarded intensification, but they were marginal, not generalized. Full bipartite organization crystallized later.
 
 ## Evidence: The Polyptychs
 

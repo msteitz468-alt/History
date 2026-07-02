@@ -13,8 +13,8 @@ scale_immediate: global
 scale_consequential: global
 causes: [the Wall Street Crash of 1929, structural weaknesses of the post-WWI economy, the rigid gold standard, debt and the collapse of world trade]
 consequences: [mass unemployment, the collapse of world trade, the rise of economic nationalism and state intervention (the New Deal), the rise of fascism/Nazism, the road to the Second World War]
-sources_ingested: 1
-last_updated: 2026-06-14
+sources_ingested: 2
+last_updated: 2026-07-02
 tags: [event, world-wars-era, north-america]
 ---
 
@@ -75,10 +75,51 @@ Germany. Recovery was uneven and incomplete until rearmament and war.
 Debate centres on causes (monetarist accounts blaming central-bank failure — Friedman; versus
 Keynesian demand-collapse and the "golden fetters" of the gold standard — Eichengreen) and on
 why recovery was so slow. Its political consequence — the Depression as midwife of Nazism and
-war — is widely accepted.
+war — is widely accepted, with a caveat from Payne
+([[payne-history-of-fascism-1995]]): unemployment alone was not
+determinative — German rates were "no worse... than in a stable democracy
+such as Norway" — and no single economic factor was common to all fascist
+breakthroughs; what the fascistogenic countries shared was the *perception*
+that the crisis stemmed from defeat or foreign exploitation. Payne also
+notes Italy's recovery came via Ethiopian-war rearmament (industrial output
+back to 1929 levels in 1935), while Fascist-era Italian growth was overall
+"approximately average for an industrializing European economy."
+
+**The German collapse in detail (Evans 2003).** Post-1923 recovery was built
+on short-term American credit (Krupp, United Steelworks; Ford's German plants;
+GM's 1929 purchase of Opel); US monetary tightening from 1928 stalled German
+production before the Crash — unemployment was already near 2.5 million in
+winter 1928–29. After Black Thursday/Tuesday (24/29 October 1929) American
+banks called in the loans: German industrial output fell 40% by 1932 (Britain:
+11%); the Danat Bank failed in July 1931; a German-Austrian customs union was
+blocked internationally as a disguised Anschluss step. By early 1932 roughly
+one in three German workers was registered unemployed — unemployed plus
+dependants ~13 million, a fifth of the population, with women undercounted — 
+against a benefits system designed for 800,000. Some 200,000–500,000 homeless
+wandered the roads; Berlin theft arrests rose 24%; youth "wild cliques,"
+begging, and prostitution spread; civil servants took cumulative 19–23% pay
+cuts. [[bruning-heinrich|Brüning]]'s deflation (see his page) turned the
+slump into the terminal crisis of [[weimar-democracy-and-its-collapse|Weimar
+democracy]].
+
+**Hartz's contrarian use of the Depression (1955).** In
+[[hartz-liberal-tradition-1955]] the Depression is the negative proof that ideology, not
+economic circumstance, governs political outcomes: "however 'objective' the conditions for the
+Marxian apocalypse now became, what emerged to deal with the economic problem was a movement
+within the framework of the liberal faith" — the New Deal, which "brought the American democrat
+to power again, finally reversing the law of Whig compensation that governed the era of
+Carnegie and Harding." Hartz surveys the era's currents — Hoover's *American Individualism*
+(including his claim that but for "events in other lands we would have recovered months ago"),
+the Lippmann/[[hayek-friedrich|Hayek]]/Mises laissez-faire defense, the domestic "fascist"
+fringe (Coughlin, Huey Long) whom he judges "'Americanists' to the hilt" rather than European
+fascists (Long's "fascism would come to America denying that it was fascism" as "a valid
+insight into the American ethos"), and a Marxist left trapped importing European factional
+battles wholesale. See [[lockean-consensus]] and [[why-no-socialism-in-america]].
 
 ## Related
 
 - `caused_by:` the Wall Street Crash and the unstable post-[[first-world-war-1914|WWI]] economy; `enabled:` the rise of [[communism-and-fascism|fascism]].
-- `produced:` the New Deal, Keynesianism, and the road to the [[second-world-war-1939]].
+- `produced:` the [[new-deal|New Deal]], Keynesianism, and the road to the [[second-world-war-1939]].
+- The sharp US relapse of 1937–38 (unemployment back to ~10–11 million) is a key datum in the contested assessment of the New Deal's effectiveness — see [[roosevelt-and-new-deal-revisionism]].
+- A contemporary "permanent crisis" reading ([[flynn-as-we-go-marching-1944|Flynn 1944]], attributed): using Leonard Ayres's Cleveland Trust chart 1892–1941, Flynn argued the US had entered structural rather than cyclical breakdown ("We have been in a depression for fourteen years"), matching the pre-fascist condition of Italy and Germany — the premise of [[as-we-go-marching-thesis]].
 - [[world-wars-era]] — the period; [[new-cambridge-modern-history-v12]] — the source.

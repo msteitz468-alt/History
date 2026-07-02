@@ -7,8 +7,8 @@ date_range: "1300–1500 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road, mesoamerica, andes]
 major_themes: ["the Pax Mongolica and the integrated Eurasian system", "the Black Death and the fourteenth-century crisis", "the breakup of the Mongol empire and Timur", "the rise of the Ottomans and the fall of Constantinople (1453)", "Ming China and the Zheng He voyages", "the apogee of Mali (Mansa Musa)", "the rise of the Aztec and Inca empires", "the eve of European oceanic expansion"]
 collection_coverage: strong
-sources_ingested: 6
-last_updated: 2026-06-27
+sources_ingested: 7
+last_updated: 2026-07-02
 tags: [period]
 ---
 
@@ -176,4 +176,4 @@ world-systemic frame and comparative coverage of the Mongol aftermath, the Sahel
 states, and the American empires. The *New Cambridge Medieval History* Vols. 6–7
 (Phase 3) and CWH VI are the principal sources still to be
 ingested for narrative depth; Ottoman, Timurid, Ming, Aztec, and Inca specialist
-material remains a gap. The gap on Russia and Eastern Europe has been addressed by the ingestion of Riasanovsky (2000).
+material remains a gap. The gap on Russia and Eastern Europe has been addressed by the ingestion of Riasanovsky (2000). Norman Housley (2002) adds depth on religious-war ideology, sanctification, "Three Turks", antemurale, Hussite crucible analysis, Dózsa case, and critique (complements NCMH and crusade literature).

@@ -68,6 +68,27 @@ Key grounded claims (verbatim from Range 08 endnotes for Ch. 26):
 
 Controversies: Implementation in Eastern Europe (Declaration of Liberated Europe); extent of FDR health impact on bargaining (notes document BP readings and strain but do not adjudicate); Soviet gains in Far East vs. military necessity.
 
+### Revisionist tradition (attributed)
+
+The founding statement of Yalta revisionism is John T. Flynn,
+*[[sources/flynn-roosevelt-myth-1948|The Roosevelt Myth]]* (1948), whose Book
+Three ch. 13 is titled "The Final Betrayal." Flynn's case, drawing chiefly on
+James F. Byrnes's account: Roosevelt himself proposed the Curzon-line transfer
+of eastern Poland; Stalin's promised Polish elections ("he could do [it] in a
+month") were not held for 23 months; the reparations agreement authorized the
+use of German labor (kept secret even from Byrnes); the Far East protocol
+(Kuriles, Sakhalin, Port Arthur, Manchurian railroads for entry against Japan)
+was concealed from the incoming Secretary of State until after FDR's death; and
+Stalin obtained three UN General Assembly votes while the matching US request
+was silently dropped. Flynn ties all of it to the concealed collapse of
+Roosevelt's health: "Stalin out-generaled Roosevelt at every point. Or perhaps
+it would be nearer the truth to say that Roosevelt had out-generaled himself."
+The mainstream reply (Smith 2007, above; Bohlen) is that the territorial
+outcomes tracked the Red Army's actual positions and that the UN and the
+Japan commitment were real gains. Both positions are recorded at
+[[controversies/roosevelt-and-new-deal-revisionism]]; this page does not
+adjudicate.
+
 **Collection note**: Smith provides dense primary citations. Strong on U.S. perspective and documentary record; cross-reference Churchill and Soviet accounts for balance. Gaps in full Soviet archival access at time of writing.
 
 ## Related

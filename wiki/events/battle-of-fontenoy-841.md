@@ -39,6 +39,16 @@ was slow to come.
 - `contributed_to:` the unresolved structural tension between the 817 **Ordinatio imperii** (imperial
   unity) and Frankish **partible inheritance**
 
+**Battle as judgment of God.** Whitman
+([[whitman-verdict-of-battle-2012|The Verdict of Battle]], 2012) cites Fontenoy
+as the earliest leading medieval example of the *arranged* battle functioning as
+trial by combat: the brothers deliberately staged the encounter "so that their
+case could be examined by the judgment of God," and its verdict established the
+lines of succession to Charlemagne's inheritance — the paradigm of
+[[verdict-of-battle|battle as legal proceeding]] alongside Hastings, Mühldorf
+(1322), and Bosworth (1485). Not to be confused with
+[[battle-of-fontenoy-1745|the 1745 Fontenoy]] in the Austrian Netherlands.
+
 ## Consequence Analysis
 
 The victory did not settle matters immediately, but it discredited the unitary model.

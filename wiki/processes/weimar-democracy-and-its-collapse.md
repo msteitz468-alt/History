@@ -83,6 +83,24 @@ The Weimar Republic's political geography was regionally diverse. Protestant rur
 
 The process ended on 30 January 1933 with Hitler's appointment as Chancellor, followed by the rapid destruction of all Weimar constitutional institutions. Trade unions abolished (May 1933). Political parties (including the NSDAP's coalition partners) dissolved or banned (summer 1933). First concentration camps established 1933–1934 for KPD members and SPD leadership. By August 1934, when Hindenburg died and Hitler merged Chancellor and President offices, the [[weimar-republic]] had ceased to exist in any meaningful sense.
 
+## Evans (2003): Legitimacy over Machinery
+
+Evans's Part 2 argument ([[evans-coming-of-third-reich-2003]], attributed):
+the constitution "was no worse than the constitutions of most other countries
+in the 1920s, and a good deal more democratic than many" — the fatal factor
+was chronic **legitimacy deficit**, which "magnified the constitution's faults
+many times over." His causal bundle: (1) the pro-Republic parties' permanent
+minority from 1920; (2) structural disloyalty of army, judiciary, and (more
+ambiguously) civil service, loyal to an abstract "Reich" rather than the
+Republic; (3) the [[hyperinflation-1923|inflation trauma]] and the memory that
+conflated its uneven losses into universal catastrophe; (4) culture-war
+backlash against Weimar modernism; (5) mainstreamed antisemitic discourse. He
+explicitly argues against monocausal blame on proportional representation,
+federalism, or plebiscites, locating fragility instead in the inherited
+Bismarckian political *milieux* and the compromised coercive apparatus (see
+[[weimar-republic]] for the full anatomy; [[ebert-friedrich]] for the Article
+48 precedents; [[stab-in-the-back-myth]] for the founding legitimacy wound).
+
 ## Historiography
 
 Thomas Mergel (ch. 19, [[smith-oxford-modern-german-history-2011]]) synthesizes structural and cultural approaches.

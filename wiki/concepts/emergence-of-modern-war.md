@@ -28,6 +28,18 @@ Epstein contrasts this with the earlier "glittering" campaigns of 1805–1807 an
 
 Epstein positions 1809/Wagram as under-appreciated in the classic Jomini/Clausewitz/Liddell Hart focus on 1796–1807. Later historians debate whether this constitutes true "modern war" or simply the logical evolution of Napoleonic practice before the over-extension of 1812–15. The thesis is used to bridge Napoleonic and later 19th-century developments (e.g. American Civil War operational art).
 
+**A rival, legal-institutional periodization.**
+[[whitman-verdict-of-battle-2012|Whitman (2012)]] dates the emergence of modern
+war not to Napoleonic operational art (Epstein) nor to Revolutionary
+total-war culture (Bell) but to the 1860s–70s collapse of the
+[[jus-victoriae|law of victory]]: war became modern when battlefield verdicts
+ceased to bind ([[death-of-pitched-battle]]) because sovereignty had passed
+from monarchs to peoples and war's stakes shifted from divisible property to
+"revolutionary questions about the organization of society and the legitimacy
+of states." On this reading Wagram, Solferino, and Königgrätz still belong to
+the old regime of contained battle; Gettysburg and Sedan open the modern one.
+`contrasts_with:` Epstein's operational and Bell's cultural datings.
+
 ## Related
 
 - [[napoleonic-tactics]]

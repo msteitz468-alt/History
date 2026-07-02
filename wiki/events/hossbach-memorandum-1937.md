@@ -58,7 +58,21 @@ It did not create new plans; it revealed Hitler's mind. The reaction of the list
 
 The meeting contributed directly to the context of the Blomberg–Fritsch crisis (Hitler already losing faith in the military leadership). It fed into revised Case Green planning (Jodl's amendment including 'offensive war' against Czechoslovakia). It confirmed for Hitler the need to remove obstacles to rapid action.
 
-`caused_by`: Hitler's long-held worldview (from 1920s), Four-Year Plan pressures, perceived diplomatic windows. `produced`: accelerated planning for Anschluss and Czech action; seeds of military opposition. `contributed_to`: [[events/anschluss-1938]], [[events/sudeten-crisis-1938]], decision for war.
+`caused_by`: Hitler's long-held worldview (from 1920s), Four-Year Plan pressures, perceived diplomatic windows. `produced`: accelerated planning for Anschluss and Czech action; seeds of military opposition. `contributed_to`: [[events/anschluss-1938]], [[munich-agreement-1938|Sudeten crisis]], decision for war.
+
+## From Evans, *The Third Reich in Power* (2005)
+
+Evans (ingested 2026-07-02) quotes the memorandum's core verbatim: German
+foreign policy's aim was "to make secure and to preserve the racial stock
+(Volksmasse) and to enlarge it. It was therefore a question of space";
+autarky "could not be maintained"; "Germany's problem could be solved only
+by the use of force"; target date "1943–45 at the latest," Austria and
+Czechoslovakia first — including the planning detail that 2 million people
+were to be forcibly removed from Czechoslovakia and 1 million from Austria
+to free food supplies. Evans stresses the sequel: the doubters in the room
+(Blomberg, Fritsch, Neurath) plus Schacht were all gone within three months
+([[blomberg-fritsch-affair-1938]]). Source:
+[[evans-third-reich-in-power-2005]]
 
 ## Historiography Note (Kershaw)
 

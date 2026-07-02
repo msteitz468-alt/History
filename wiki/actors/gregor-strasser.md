@@ -38,6 +38,25 @@ Strasser became Reich Organisation Leader and built an effective party apparatus
 
 From the sources, Strasser was one of the few figures who could challenge Hitler organisationally but not personally. Hitler used the crisis to demonstrate that no collective or alternative leadership was viable. 'The only man who has a right to exclude someone... is solely and singly Adolf Hitler' (Esser, reflecting the new orthodoxy). Strasser's defeat entrenched the personal character of the movement.
 
+## Evans (2003): The December 1932 Crisis
+
+Evans ([[evans-coming-of-third-reich-2003]]) adds the mechanics of the break:
+as Organization Leader, Strasser judged Hitler's all-or-nothing refusal of any
+coalition post but the Chancellorship untenable after the November 1932
+decline and the party's near-bankruptcy; he cultivated business funding and
+union contacts for a broad national coalition. When
+[[schleicher-kurt-von|Schleicher]] opened separate negotiations with him over
+a cabinet post, Goebbels and other rivals cried sabotage; rebuffed by Hitler,
+Strasser resigned all party offices on 8 December 1932 and went on holiday to
+Italy, putting up no fight. Hitler purged his loyalists and toured the country
+branding him a traitor — Evans draws the parallel to Stalin's handling of
+Trotsky — then took the Organization Leader post himself and dismantled the
+centralized apparatus. Evans is explicit that Strasser was **not** an
+ideological alternative: his views closely matched Hitler's, and he had backed
+the 1930 expulsion of his own brother Otto — whose "socialist" publishing
+tendency Hitler had denounced in April 1930, Otto pre-empting expulsion by
+resigning on 4 July 1930 with negligible internal support.
+
 ## Historiography
 
 Kershaw treats Strasser as the most serious internal rival Hitler faced in the mid-1920s. The Strasser crisis was not merely personal but reflected genuine differences over whether the NSDAP would be a conventional völkisch party with a programme and collective leadership or a charismatic Führer movement built around one man. Hitler's victory was decisive for the later character of the regime.

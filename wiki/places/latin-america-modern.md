@@ -7,8 +7,8 @@ period_active: [Age of Expansion, Long 19th Century, World Wars Era, Cold War, C
 controlled_by: [Spanish and Portuguese empires, then independent nation states under varying elite, caudillo, populist, and military regimes]
 events_here: [the wars of independence (1808–1824), the Haitian Revolution, the Spanish–American War (1898), the Mexican Revolution (1910–1917), the Great Depression]
 processes_here: [[[nationalism]], the liberal export economy, import-substitution [[industrialization]], populism, US informal empire]
-sources_ingested: 3
-last_updated: 2026-06-13
+sources_ingested: 4
+last_updated: 2026-07-02
 tags: [place, latin-america, long-19th-century]
 ---
 
@@ -90,7 +90,17 @@ stated most forcefully by Eduardo Galeano's [[galeano-open-veins|*Open Veins of 
 America*]] (1971), the popular manifesto of [[dependency-theory|dependency]]: five
 centuries of "open veins" draining the region's wealth to Europe and the US. Charlip's
 two-way model is precisely a corrective to that mono-causal externalism — the spectrum
-mapped at [[causes-of-latin-american-underdevelopment]].
+mapped at [[causes-of-latin-american-underdevelopment]]. A distinct
+mid-century comparative reading is Louis Hartz's [[fragment-thesis]]
+([[hartz-founding-new-societies-1964]]): Latin America as a **feudal
+fragment** of pre-Enlightenment Iberia — no Whiggery, hence no
+Jacobinism, hence no "normal" socialism; post-Independence caudillos as
+projections of a preliberal tradition rather than Bonapartes; Comte
+looming larger than Marx as the giveaway. Specialists have long
+contested the "feudal" characterization of colonial Latin America, and
+the framework competes with (rather than complements) dependency theory
+by locating the region's trajectory in imported ideology rather than
+external economic extraction.
 
 ## Collection Coverage Note
 
@@ -109,4 +119,4 @@ colony → independence → modern era.
 [[nationalism]] · [[imperialism]] · [[united-states]] · [[industrialization]] ·
 [[atlantic-revolutions]] · [[columbian-exchange-1492]] · [[long-19th-century]] ·
 [[cold-war]] · [[colonial-latin-america]] · [[spanish-american-independence]] · [[bourbon-reforms]] ·
-[[dependency-theory]] · [[galeano-open-veins]] · [[causes-of-latin-american-underdevelopment]]
+[[dependency-theory]] · [[galeano-open-veins]] · [[causes-of-latin-american-underdevelopment]] · [[fragment-thesis]]

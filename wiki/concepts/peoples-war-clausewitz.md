@@ -25,6 +25,16 @@ Clausewitz frames the popular uprising as a product of the political changes of 
 
 The introduction of requisitioning, universal conscription, and national militias dismantled the old, limited cabinet wars of the eighteenth century, leading directly to the arming of the general populace. Clausewitz argues that any nation that uses this resource will "gain some superiority over those who disdain its use."
 
+Whitman ([[whitman-verdict-of-battle-2012|The Verdict of Battle]], 2012) supplies
+the legal-institutional complement: the 1793 levée en masse was described by the
+revolutionaries themselves as warfare of "nations against armies," and the
+classicist C. G. Heyne warned as early as 1794 that internecine wars of
+extermination result when "whole populations clashed" rather than "disciplined
+soldiers, fighting for pay." For Whitman, people's war is what wars *become*
+when sovereign peoples refuse battlefield verdicts — the francs-tireurs after
+[[battle-of-sedan-1870|Sedan]], Confederate partisans after Gettysburg — and
+thus the operational face of the [[death-of-pitched-battle]].
+
 ---
 
 ## Operational Principles of Volkskrieg

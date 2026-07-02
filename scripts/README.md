@@ -16,6 +16,14 @@ These scripts implement the linting and validation tools referenced throughout `
 
 - `alias_sync.py` — Extracts and reports Obsidian-style `aliases:` declared in frontmatter. Basic collision detection can be added later.
 
+- `normalize_frontmatter.py` — **New tool for YAML hygiene.** Fixes common frontmatter problems:
+  - Inconsistent lists (scalar → `[...]` where appropriate).
+  - Unquoted values containing `:` `#` `[` etc.
+  - Empty scalars (`key: ` → `key: ""`).
+  - Produces clean, Obsidian-Bases-friendly, consistently quoted + listed frontmatter.
+  Usage: `python scripts/normalize_frontmatter.py --dry-run` then `--fix`.
+  Run after large ingests or when validator is noisy on formatting.
+
 ## Typical Workflow (per CLAUDE.md)
 
 After any ingest or large edit:

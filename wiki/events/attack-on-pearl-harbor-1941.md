@@ -36,6 +36,30 @@ Yamamoto's plan for decisive first strike; US intelligence failures; Japanese ca
 
 United US public opinion for war; shifted strategy to carriers; led to Midway.
 
+## Historiography
+
+The military narrative (surprise achieved, battleships lost, carriers missed)
+is settled; the political-diplomatic backstory is a long-running interpretive
+dispute. **Revisionist position** (Charles A. Beard, *President Roosevelt and
+the Coming of the War* (1948); John T. Flynn,
+*[[sources/flynn-roosevelt-myth-1948|The Roosevelt Myth]]* (1948); later
+Tansill): Roosevelt had committed the US to war well before December 1941 —
+the secret ABC-1 staff agreement with Britain (March 1941), the destroyers
+deal, escort convoys — while publicly campaigning on keeping out ("Your boys
+will not be sent into foreign wars"), and per Stimson's diary told the cabinet
+on 27 November 1941 that the question was how "to maneuver the Japanese into
+attacking us" without excessive danger. Flynn's charge is deception about
+intent, not (in this book) foreknowledge of the attack itself; he explicitly
+declines to argue that intervention was wrong. **Mainstream position**
+(Leuchtenburg, Smith, Prange's *At Dawn We Slept* on the intelligence
+question): aid-short-of-war reflected genuine strategic necessity conducted
+within real political constraints; the "back door to war" and foreknowledge
+theses are rejected — notably, even sympathetic scholars (Thomas A. Bailey,
+endorsed by Schlesinger) conceded that Roosevelt "repeatedly deceived the
+American people during the period before Pearl Harbor," while defending the
+deception as necessary. Positions recorded at
+[[controversies/roosevelt-and-new-deal-revisionism]].
+
 ## Related
 
 - Analysis: [[hubs/warfare/world-wars-era/second-world-war/attack-on-pearl-harbor-1941]]

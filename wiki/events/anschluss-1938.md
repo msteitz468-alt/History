@@ -79,11 +79,32 @@ The Anschluss was improvised at breakneck speed after Schuschnigg's gamble. It b
 
 Domestically, the triumph defused the Blomberg–Fritsch scandal overnight. The repression and plunder in Austria demonstrated the radicalizing effect of new 'opportunities'. The Anschluss was the watershed that made the Great Germanic Reich seem achievable in Hitler's lifetime and accelerated the drive toward Czechoslovakia and war.
 
-**Causal links**: `caused_by`: [[hossbach-memorandum-1937]], [[berchtesgaden-meeting-1938]], Four-Year Plan pressures, Italian acquiescence. `produced`: [[events/sudeten-crisis-1938]], intensified Jewish persecution wave 1938, strengthened Hitler myth. `contributed_to`: decision for war 1939.
+**Causal links**: `caused_by`: [[hossbach-memorandum-1937]], the Berchtesgaden meeting (Feb 1938), Four-Year Plan pressures, Italian acquiescence. `produced`: [[munich-agreement-1938|Sudeten crisis]], intensified Jewish persecution wave 1938, strengthened Hitler myth. `contributed_to`: decision for war 1939.
 
 ## Historiography (from source)
 
 Kershaw stresses the mixture of Hitler's ideological drive, economic pressures (Göring/Four-Year Plan office), and improvisation after Schuschnigg's miscalculation. The mass enthusiasm was genuine in significant part (though orchestrated and with terror against opponents). The passivity of Britain and France confirmed Hitler's contempt for the western powers. The event is presented as the point where 'vision' began to overcome calculation, with the radical dynamic now carrying Hitler along.
+
+## From Evans, *The Third Reich in Power* (2005)
+
+Evans (ingested 2026-07-02) adds the persecution aftermath in full. Vienna's
+170,000 Jews faced a compressed, telescoped version of five years of Reich
+persecution within weeks: forced "scrubbing parties," ~21,000 arrests on the
+night of 12–13 March, murders of prominent Jews (Franz Rothenberg, Isidor
+Pollack), 7,000 of 33,000 Jewish businesses closed by May and 23,000 more by
+August, Burgenland expulsions leaving Jews stranded on a Danube islet.
+Eichmann's **Central Agency for Jewish Emigration** (20 August 1938) built
+the coerced "assembly-line" emigration model — ~100,000 Austrian Jews out by
+May 1939 — that the SD later generalized. Mauthausen was founded near Linz as
+the harshest camp in the pre-war system; Göring's Four-Year Plan absorbed the
+Austrian economy within two days (100,000 Austrian workers compulsorily
+transferred to the Old Reich by 1939). Evans's causal claim: "Without the
+Austrian example... it is impossible to understand the upsurge of violence
+towards Jews that swept across Germany in the summer of 1938 and culminated
+in the pogrom of 9–10 November" ([[kristallnacht-1938]]). Gestapo reports
+suggest only a quarter to a third of Viennese voters were genuinely committed
+behind the 99.75% plebiscite figure. Source:
+[[evans-third-reich-in-power-2005]]
 
 ## Sources (Kershaw Nemesis, this range)
 

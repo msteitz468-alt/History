@@ -83,6 +83,19 @@ proliferation of non-state actors — partially qualifying pure Westphalian sove
 - **Sovereignty vs. universal norms:** the unresolved tension between consent-based
   positivism and natural-law/human-rights claims that bind states *regardless* of
   consent (e.g. the prohibition of [[genocide]]).
+- **The missing law of victory (Whitman):**
+  [[whitman-verdict-of-battle-2012|Whitman (2012)]] argues the modern law of war —
+  jus ad bellum, jus in bello, international criminal law, an emerging jus post
+  bellum — has *no* functioning [[jus-victoriae]]: no law determining who won a
+  war or what the victor may claim, only the "very poor legal doctrine" of
+  unconditional surrender (a WWII-era U.S. State Department invention). On his
+  account this moral maximalism makes wars harder to *end*: "Good law makes
+  peace... We need a jus victoriae to... permit a brokered peace." He also reads
+  the standard triumphal historiography of humanitarian law as tragedy — wars
+  have grown worse, not better, since the old law of victory died
+  ([[death-of-pitched-battle]]) — and notes the anachronism of asking only
+  "were the humanitarian rules obeyed?" of premodern warfare, which understood
+  war as a settlement procedure ([[verdict-of-battle]]).
 
 ## Related pages
 

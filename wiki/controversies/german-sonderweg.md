@@ -38,4 +38,31 @@ liberalism was weak, how to explain 1933 without teleology — remain live. The 
 field's method, shifting it from *Sonderweg*-style structural exceptionalism toward comparative and
 transnational history.
 
+Evans (in [[evans-third-reich-history-memory-2015]], ch. 2) narrates the
+supersession explicitly: the domestic Sonderweg "was discredited by the
+1990s" (the middle classes were not supine, aristocratic power had faded
+by WWI, 1848 transformed rather than merely failed, and comparable
+deficits existed in Britain/France/Austria) — and the field's replacement
+question, "where should historians look instead?", was answered by the
+colonial/global turn, i.e. the debate now filed at
+[[colonialism-nazism-continuity]].
+
+Evans's own position in [[evans-coming-of-third-reich-2003]] (2003, Preface
+and ch. 1) is a calibrated middle path, stated before the memory-volume
+retrospective above. Against A.J.P. Taylor's "German history reached its
+turning-point and failed to turn" (on 1848), Evans writes: "Germany did not
+embark upon a straight or undeviating 'special path' towards aggressive
+nationalism and political dictatorship after 1848" — citing post-1848
+expansion of civil liberties (jury trial, legal equality, freedom of
+association) and representative assemblies across the German states by the
+1860s. His comparative claim: the supposedly unique features (weak
+parliamentary control of the army, church–state conflict, aristocratic
+privilege) were shared by Austria-Hungary, Italy, Spain, and Russia; what
+distinguished Germany was that **all these conditions co-existed
+simultaneously and to an unusual degree**, combined with unmatched industrial
+power (two-thirds of continental steel, half its coal by 1914) and the status
+of Europe's first nation-state formed *at the height of* industrialization.
+Nazism was not inevitable at any point before early 1933, but was rooted in
+traditions traceable to 1871 — not to Luther or Herder.
+
 > Standing controversy scaffolded for [[smith-oxford-modern-german-history-2011|the Oxford Handbook of Modern German History]] ingest.

@@ -53,7 +53,7 @@ The election victory made this continued high level of agitation possible. The n
 ## Actors
 
 - [[actors/adolf-hitler|Adolf Hitler]]: Central figure; his message of national redemption through strength and unity captured the protest mood.
-- [[joseph-goebbels]]: Newly appointed Propaganda Leader; directed the massive campaign of 34,000 meetings.
+- [[goebbels-joseph|Joseph Goebbels]]: Newly appointed Propaganda Leader; directed the massive campaign of 34,000 meetings.
 - Heinrich Brüning: Chancellor whose dissolution decision opened the door.
 - Established bourgeois parties (DNVP, DVP): Major losers whose voters defected en masse.
 
@@ -63,10 +63,36 @@ Kershaw emphasizes that the breakthrough was not the product of Nazi genius alon
 
 **Grounded in:** Kershaw, *Hitler 1889–1936: Hubris* (1998), ch. 9 (Breakthrough), esp. analysis of election results, social composition, Brüning’s role, and Hitler’s campaign themes.
 
+## Evans (2003): Results and Voter Sociology
+
+Evans ([[evans-coming-of-third-reich-2003]]) supplies the fullest ingested
+electoral anatomy. Trigger: the Grand Coalition fell (27 March 1930) when the
+People's Party broke over benefit cuts after Stresemann's death;
+[[bruning-heinrich|Brüning]] dissolved under Article 25 after his budget was
+rejected. Results: NSDAP from 0.8m votes/12 seats (1928) to 6.4m/107 seats;
+KPD 54→77; the government-supporting bloc fell from 236 to 183 seats. Goebbels
+(diary, 15 Sept): "Fantastic... an unbelievable advance... I hadn't expected
+that."
+
+Sociology (Evans): landslides in the rural Protestant north (68% in
+Wiefelstede, 62% in Schwesing); ~25% of Nazi voters were first-timers (not
+disproportionately young); about a third of 1928 Nationalist voters, a quarter
+of liberal voters, and even a tenth of SPD voters switched; sharp jumps in
+women's turnout; Protestants roughly twice as likely as Catholics to vote
+Nazi. Manual laborers were ~27% of Nazi voters — under-representation, since
+the unemployed voted Communist; civil servants (hit by cuts) were
+over-represented, private-sector white-collar under-represented. Evans's
+label: "a catch-all party of social protest" cutting across class lines. A
+consistent negative correlation held between local unemployment and the Nazi
+vote share. Consequence: "From this point on, no government ruled with the
+support of a parliamentary majority" — the Reichstag sat 100 days/year in the
+1920s, 50 days Oct 1930–Mar 1931, and 3 days between July 1932 and February
+1933.
+
 ## Sources
 
 - Primary grounding: Kershaw (range 03, lines ~2727–3660+), including contemporary voter accounts, Goebbels diary notes, election statistics, Brüning memoirs, and press reactions.
-- Cross-links: [[great-depression]], [[heinrich-bruening]], [[joseph-goebbels]], [[actors/adolf-hitler|Adolf Hitler]], [[periods/world-wars-era]]
+- Cross-links: [[great-depression]], [[bruning-heinrich|Heinrich Brüning]], [[goebbels-joseph|Joseph Goebbels]], [[actors/adolf-hitler|Adolf Hitler]], [[periods/world-wars-era]]
 
 ---
 

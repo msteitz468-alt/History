@@ -28,3 +28,7 @@ Kesselring recognized early that Sicily could not be held indefinitely with the 
 - Later criticized the Allies for failing to follow up the Tunisian victory immediately or to block the Strait effectively.
 
 Kesselring remained a formidable opponent in Italy, conducting a series of delaying actions that made the Allied advance extremely costly.
+
+## From Evans, *The Third Reich at War* (2008)
+
+As commander in Italy he organized the evacuation of art treasures from Florence, and in October 1943 joined Möllhausen and Weizsäcker in the failed attempt to divert Rome's Jews into labor rather than deportation — motivated by fear of a papal protest, not principle; Hitler overrode them (see [[italian-campaign-1943-1945]]). His faulty intelligence as a Battle of Britain air commander (believing half the RAF's fighters destroyed) fed the Luftwaffe's fatal overconfidence in 1940. Source: [[evans-third-reich-at-war-2008]]

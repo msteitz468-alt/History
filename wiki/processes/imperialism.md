@@ -106,6 +106,16 @@ and into the colonial archives from which the discipline of history itself emerg
 [[industrialization]] · [[eurocentrism]] · [[atlantic-slave-trade]] ·
 [[long-19th-century]] · [[united-states]]
 
+A contemporary American anti-imperialist dossier ([[flynn-as-we-go-marching-1944|Flynn 1944]],
+attributed) documents the racialized moral rhetoric of the US entry into empire in 1900 —
+Beveridge's Senate speech ("The Philippines are ours forever... trustee under God, of the
+civilization of the world"), William Allen White's "Only Anglo-Saxons can govern themselves,"
+Rhodes's "We are the first race in the world" — alongside Gen. Smedley Butler's confession of
+having been "a high-class muscle man for Big Business" across the Caribbean and China, and
+tallies US overseas holdings at 711,000 sq mi / 19,000,000 people. Flynn's frame (imperialism
+as the terminal element of the fascist syndrome, and "internationalism" as its wartime
+disguise) is his position — see [[as-we-go-marching-thesis]].
+
 The classic interpretation linking the **New Imperialism** to late-nineteenth-century capitalism is now
 ingested as **[[hobsbawm-age-of-empire|Hobsbawm, *The Age of Empire 1875–1914*]]**; for the human cost
 and the colonial production of famine see **[[davis-late-victorian-holocausts|Davis, *Late Victorian

@@ -35,6 +35,10 @@ Energetic, witty, romantic, and thin-skinned. Ambitious and honor-obsessed; wrot
 
 Chernow restores Hamilton as the West Indian immigrant who became the supreme “thinker and doer” among the founders. Illegitimate birth on Nevis/St. Croix, orphanhood (Rachel died 1768), clerkship at Beekman & Cruger, and 1772 hurricane letter that propelled him to New York form the foundation. Brilliant, touchy ego, never outgrew stigma; antislavery conviction rooted in Caribbean experience. Wartime artillery captain and Washington’s principal aide (“Little Lion”); intimate with Laurens; married Eliza Schuyler 1780 (Schuyler alliance). Chief author of the Federalist Papers; key role at Constitutional Convention and NY ratification. First Treasury Secretary: Reports on Public Credit (funding/assumption at par), Bank of the United States, Manufactures; SEUM (Paterson pilot); sinking fund; 1792 market stabilization via sinking-fund purchases. Reynolds affair (1791–92) and 1797 “Reynolds Pamphlet” confession to clear financial charges. Defense of Jay Treaty (“Camillus”); Adams split (1800 “Letter”); 1800 election role (opposed Burr, backed Jefferson in House). Built the Grange; grieved Philip’s 1801 duel death. Fatal 1804 duel with Burr after “despicable opinion.” Eliza’s 50-year vindication campaign preserved papers and reputation. Chernow uses full PAH (27 vols) + Caribbean archives; emphasizes financial/administrative genius, industrial vision, personal contradictions, and Eliza’s devotion.
 
+## Hartz, The Liberal Tradition in America (1955)
+
+[[hartz-louis|Hartz]] used Hamilton as the litmus case separating American "Whiggery" from genuine European reaction: Federalist alarm at the French Revolution was "liberal bleakness" (autonomous self-interest), not Maistre's "feudal bleakness," and Federalist fear of internal class war was imagined rather than experienced — Hobbes at least generalized from a real civil war, "while Hamilton had to conjure up a set of Civil Wars in order to make the same mistake" ([[hartz-liberal-tradition-1955]]; see [[lockean-consensus]]).
+
 ## Related
 
 - Spouse: [[hamilton-eliza]]

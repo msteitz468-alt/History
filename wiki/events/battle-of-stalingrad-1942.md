@@ -89,3 +89,11 @@ Riasanovsky highlights that Stalingrad was a battle of extreme contrasts, showca
 ---
 
 Update note: sources_ingested incremented with this range.
+
+## From Evans, *The Third Reich at War* (2008)
+
+**Case Blue context.** Hitler premised the 1942 summer offensive on oil ("if I don't get the oil of Maykop and Grozny, then I must put an end to this war"); Manstein's Crimean campaign took Sevastopol (90,000 POWs) while Army Group A found Maykop's refineries wrecked — the mountaineers' flag-planting on Mt. Elbrus enraged Hitler as a "diversion" (Speer: "seldom did his anger erupt from him as it did when this report came in"). Evans pairs the drive with the Leningrad siege (~1 million civilian dead in the first winter; 886 cannibalism arrests; the Lake Ladoga "Road of Life").
+
+**The pocket.** Evans reports Hitler had already determined that Stalingrad's adult male population would be killed and the women and children deported once the city fell. After Uranus closed at Kalach (23 November 1942) and Winter Storm failed, Göring's airlift delivered ~90 of the promised 300 tons/day. On 28 January 1943 the sick and wounded inside the pocket were ordered left to starve — German troops, Evans observes, "were in effect suffering the same fate that Hitler had planned for the Slavs." Paulus's field-marshal promotion (30 January, the invitation to suicide) was declined; he surrendered 31 January, the northern pocket on 2 February. Of ~91,000 marched into captivity, over 55,000 were dead by mid-April 1943; fewer than 6,000 Stalingrad POWs ever returned. Paulus's later broadcasts for the Soviet-sponsored Free Germany committee mortified Berlin.
+
+**The home front's turning point.** SD reports registered "deep shock," the first open criticism of Hitler, spreading jokes ("What's the difference between the sun and Hitler? The sun rises in the east, Hitler goes down in the east"), and visible decline in the German greeting and Party-badge wearing — Evans marks Stalingrad, together with the bombing war, as the point where belief in victory broke. The *Racial Observer*'s epitaph: "They died so that Germany could live." Source: [[evans-third-reich-at-war-2008]]

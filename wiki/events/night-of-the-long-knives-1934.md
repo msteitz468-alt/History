@@ -65,3 +65,41 @@ The purge demonstrated to all opponents that Hitler would stop at nothing. Obser
 Kershaw details the improvisation, the mixture of central direction and local initiative, the public acclaim despite (or because of) the gangster methods, and the critical role of army complicity. The episode is presented as the decisive removal of the last serious threat to Hitler's position before Hindenburg's death. Emphasis on how it illustrated Hitler's willingness to use utmost brutality and how it was applauded as 'statesmanlike duty'. Central to analysis of how violence was normalized and how the regime moved from revolutionary movement to personalized dictatorship. Quotes from cabinet minutes, Reichstag speech, Sopade reports, Rosenberg diary, post-war testimony. Notes foreign misreading of the domestic gangster as separate from the 'responsible statesman' in diplomacy.
 
 **Sources from range:** Extensive verbatim from contemporary accounts, Hitler's Reichstag speech, cabinet proceedings (Gürtner, Blomberg), Goebbels diary elements, public opinion reports.
+
+## From Evans, *The Third Reich in Power* (2005)
+
+Evans's account (ingested 2026-07-02) corroborates Kershaw and adds:
+
+- **Precipitants dated precisely.** Röhm forced to sign the non-militia
+  pledge 28 February 1934 (afterwards privately calling Hitler a "ridiculous
+  corporal"); Papen's Marburg speech 17 June (written by Edgar Jung, met with
+  thunderous applause); Blomberg's decisive 21 June warning at Neudeck that
+  Hindenburg would declare martial law — the forcing event. SS/Gestapo
+  fabricated the putsch evidence and briefed SS leaders 24 June; the army put
+  its resources at the SS's disposal.
+- **The wider kill pattern.** Beyond the SA and conservative targets, purge
+  violence spilled into unconnected antisemitic killings (four Jews in
+  Hirschberg "shot while trying to escape"; the Glogau Jewish veterans'
+  leader shot in a wood) — early evidence of normalized state killing of
+  Jews. Official toll 74 (Hitler's Reichstag figure); at least 85 documented
+  summary killings, 12 of them Reichstag deputies; Göring alone had over
+  1,000 arrested.
+- **Aftermath quantified.** SA fell from 2.9m (Aug 1934) to 1.6m (Oct 1935)
+  to 1.2m (April 1938). Eicke (Röhm's killer) became Inspector of
+  Concentration Camps within the week (4 July 1934). Röhm's homosexuality,
+  long tolerated, was retooled as justification — triggering the escalating
+  persecution of homosexual men (Paragraph 175 amendment, 28 June 1935; see
+  [[nazi-racial-hygiene-program-1933-1939]]).
+- **The "dual state" reading.** Evans frames the purge with Fraenkel's
+  normative/prerogative-state concept: the retroactive legalization and
+  Gürtner's blocking of prosecutions demonstrated the prerogative state's
+  supremacy — a "generalizing" warning to all potential opposition
+  (Goebbels: "every clenched fist... will be prised open, if necessary by
+  force").
+- Popular-opinion evidence: Luise Solmitz's diary moved within days from "a
+  day that shattered all of us" to admiring Hitler's "personal courage,"
+  comparing him to Frederick the Great and Napoleon.
+
+Source: [[evans-third-reich-in-power-2005]] · See also [[rohm-ernst]],
+[[hindenburg-paul-von]], [[blomberg-fritsch-affair-1938]],
+[[nazi-concentration-camps]].

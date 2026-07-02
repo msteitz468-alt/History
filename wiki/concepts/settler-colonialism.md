@@ -5,8 +5,8 @@ origin: "Analytical framework developed in late-twentieth-century historiography
 applies_to_periods: [Early Modern, Age of Expansion, Long 19th Century]
 applies_to_regions: [australia, oceania, north-america, southern-africa, atlantic-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-02
 tags: [concept]
 ---
 
@@ -33,6 +33,10 @@ contemporaries, who used languages of improvement, civilisation, and emigration.
 
 ## Related
 
+- contrasts_with: [[fragment-thesis]] — Hartz's mid-century predecessor
+  comparative framework, which explained settler-society divergence by
+  the ideology carried at departure rather than by the land-centered
+  logic of elimination; the two literatures rarely cite each other
 - [[terra-nullius]]
 - [[australian-frontier-conflict]]
 - [[convict-transportation-australia]]

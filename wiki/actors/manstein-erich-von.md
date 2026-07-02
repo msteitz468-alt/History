@@ -36,3 +36,7 @@ See: [[guderian-heinz]], [[adolf-hitler]], [[world-war-ii-1939-1945]], [[operati
 - Post-Stalingrad: Manstein extracted flexibility from Hitler; executed brilliant mobile counter-attack with 4th Panzer + II SS that retook Kharkov March 1943. (Range 2)
 - Citadel: Advocated early May launch; Hitler nervous and delayed repeatedly despite Manstein. On 13 July (after Sicily), Hitler cancelled and diverted forces; Manstein protested but complied. (Range 2)
 - Overall: One of the most brilliant operational minds; clashed with Hitler over strategy.
+
+## From Evans, *The Third Reich at War* (2008)
+
+Author of the 1940 sickle-cut (demonstrated to Hitler 17 February 1940); conqueror of the Crimea and Sevastopol (1942); engineered the Caucasus withdrawal permission of 27 December 1942 that saved Army Group A from encirclement, and retook Kharkov in the February–March 1943 counter-offensive. At [[battle-of-kursk-1943|Kursk]] his southern pincer had broken deepest when Hitler withdrew the armor for Italy (17 July 1943); his later claim that a limited victory was squandered is judged overstated by Evans given the real loss ratios. He issued his own ideological orders in the spirit of Reichenau's in 1941 — Evans places him among the commanders whose "military necessity" rhetoric wrapped complicity in the war of annihilation. Source: [[evans-third-reich-at-war-2008]]

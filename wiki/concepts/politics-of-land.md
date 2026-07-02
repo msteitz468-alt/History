@@ -28,6 +28,10 @@ The framework rests on one structural fact and one resulting choice:
   even after 1200. The decisive economic relationship is therefore the **extraction
   of surplus** (rent, or — where states taxed — tax) from peasant cultivators by
   landowners and rulers, "backed up by potential force." Markets, towns, artisan
+
+**Ch. 5 refinement (Wickham 2005).** Landlords intensified direct control (accounting, surveillance, cash-cropping, wage labour on demesnes) where exchange opportunities and tax demands made it profitable. Where exchange contracted after the Roman period, simpler tenant-rent extraction predominated and direct management became marginal except in high-demand niches (e.g. vineyards). Intensification was a response to sale possibilities for surplus, not an inherent stage of “feudal” evolution. (See also [[bipartite-manor]].)
+
+**Wickham, *Framing the Early Middle Ages* (2005) Ch. 4 refinement.** Aristocratic landed wealth was the concrete mechanism of the politics of land. In post-Roman Gaul royal gifts, confiscations, and family *proprium* vs. *fiscus* distinctions produced, already by 600, a court world resembling the central Middle Ages more than the fifth century. Land remained transactional at the margins; commitment to local domination was often incomplete because estates were scattered and intercut. (See also [[post-roman-transformation-of-the-west]].)
   production, and everything historians call economic "development" were paid for
   out of that surplus.
 

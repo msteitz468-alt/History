@@ -101,3 +101,5 @@ Collection coverage note: Strong on US service force perspective and base sectio
 - Cross to [[mediterranean-world]] for theater geography.
 
 **Range 02 enrichment**: Direct quotes on improvements over Torch beach chaos (waterproofing, direct DUKW to front, Engineer Special Brigade de facto base section). Husky mounting used post-Torch NA infrastructure (Mateur, Bizerte, Tunis). Last updated: 2026-06-24.
+
+**Vichy dimension (Paxton, 1972)**: Torch `produced:` the German total occupation of France (11 Nov 1942), the dissolution of the Armistice Army (28 Nov), and the scuttling of the French fleet at Toulon (28 Nov) — "the two trump cards in Vichy's hand now vanished." Admiral [[darlan-francois|Darlan]], caught in Algiers, ordered the cease-fire (11 Nov) only after Germans crossed the Demarcation Line, then ran an "inverse Vichy" for the Allies until his assassination (24 Dec 1942). After Torch, Paxton argues, no "shield" rationale for [[vichy-france]]'s continued collaboration survives — see [[vichy-shield-thesis]]. Last updated: 2026-07-01.

@@ -39,6 +39,15 @@ Madison's work at Philadelphia gave the United States its constitutional framewo
 
 ## Historiography
 
+Hayek, in the Postscript to
+[[hayek-constitution-of-liberty-1960|*The Constitution of Liberty*]] (1960),
+claims Madison as the purest American exemplar of the "Old Whig" liberal
+tradition — "not... the radicalism of Jefferson, nor... the conservatism of
+Hamilton or even of John Adams" — and credits him (ch. 12) with the structural
+insight that dividing power between nation and states secures rights and
+limits both governments at once (see [[rule-of-law]], [[interstate-federalism]],
+[[classical-liberalism]]).
+
 Modern scholarship (especially the Papers of James Madison project) has illuminated his role as "Father of the Constitution" while noting his evolution and the limits of his nationalism. Malone's treatment in *Jefferson and His Time* emphasizes the Jefferson-Madison axis in the 1780s–90s.
 
 ## Sources

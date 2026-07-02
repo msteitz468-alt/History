@@ -21,8 +21,8 @@ key_events:
 key_processes:
   - "[[australian-colonial-liberalism]]"
   - "[[australian-1890s-depression]]"
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-02
 tags: [actor, movement, long-19th-century, australia]
 ---
 
@@ -119,10 +119,25 @@ The Beginnings of the Australian Labor Party* (MUP, 1989) is the key institution
 history. John Rickard's *Class and Politics: NSW, Victoria and the Early
 Commonwealth, 1890–1910* (ANU Press, 1976) provides the political context.
 
+An outside comparative reading: Louis Hartz's [[fragment-thesis]]
+([[hartz-founding-new-societies-1964]]) treats Australia as the world's one
+**radical fragment** — founded on the working-class radicalism of Cobbett
+and the Chartists — so that Labour's post-1890s ascendancy came "with an
+ease unheard of in the annals of European socialism," while the same
+extrication from Britain smothered doctrinaire twentieth-century socialism
+(no Webbs, no Laski; caucus control and distrust of the "tall stoop"
+intellectual). Non-Labour parties become, in Hancock's phrase Hartz
+quotes, "parties of resistance" to the Labour ethos. The reading is
+etic and contested — Hartz concedes Australia's Whig/capitalist elements
+exceed the archetype — but it remains the classic explanation of why
+Australia produced a mass labor party when the United States did not
+(see [[why-no-socialism-in-america]]).
+
 ## Related
 
 - [[australian-1890s-depression]] — the economic crisis that catalysed party formation
 - [[australian-colonial-liberalism]] — the political framework within which labour organised
 - [[australian-federation-1901]] — federation whose white-Australia provisions partly
   converted labor to the federationist cause
-- [[bashford-macintyre-cha-v1-2013]]
+- [[fragment-thesis]] — Hartz's radical-fragment reading of Australian Labour
+- [[bashford-macintyre-cha-v1-2013]] · [[hartz-founding-new-societies-1964]]

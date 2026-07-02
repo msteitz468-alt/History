@@ -75,6 +75,40 @@ economy]]** — where the Allies' overwhelming material preponderance, mobilised
 "destruction through labour" and displacement. (The series' Vol. II, *Politics and Ideology*, is
 absent from the collection.)
 
+## Fateful choices and problem-solvers (Kershaw and Kennedy, via Evans 2015)
+
+From Evans's reviews (chs. 18–19 of
+[[evans-third-reich-history-memory-2015]], all attributed):
+
+**Kershaw, *Fateful Choices* (2007)** — ten interconnected decisions of
+1940–41 made "under preconditions and under external constraints," not in
+a vacuum. Britain's May 1940 cabinet crisis: Halifax pushed for mediated
+peace via Mussolini; Churchill overrode him ("We should get no worse
+terms if we went on fighting, even if we were beaten"). Kershaw's careful
+counterfactual (Evans endorses the method): had Halifax prevailed, the
+plausible puppet premier was Lloyd George — not Mosley — possibly under a
+restored Edward VIII, a British Vichy; and the Cowling/Charmley claim
+that a 1940 separate peace would have saved the Empire fails because
+Hitler would soon have dismembered it anyway, while the USSR "was the
+decisive force in the defeat of Germany" regardless. Mussolini's entry
+and the "fatal decision" to invade Greece drew Germany into an unwanted
+theatre; Roosevelt's stepwise undeclared Atlantic war (Lend-Lease,
+Atlantic Charter, convoy protection) forced Hitler's hand after Pearl
+Harbor.
+
+**Kennedy, *Engineers of Victory* (2013)** — Allied victory as
+middle-level problem-solving (centimetric radar, Hedgehog, escort
+carriers; the P-51; defense-in-depth; amphibious craft; Pacific carrier
+logistics), skeptical of intelligence-history triumphalism. Evans's
+critique (attributed): Allied productive superiority predated 1943
+(21,000 Soviet + 15,000 British combat aircraft vs. 10,000 German in
+1940); Germany had its own innovation culture and lost anyway; and
+treating WWII "as a rational conflict along the lines of the Seven Years
+War" misses that "defeat was pre-programmed for the Axis by the very
+nature of its war aims" — unlimited racial-imperial objectives including
+the murder of the Jews as "a paramount war aim." He also flags Kennedy's
+outdated Kursk figures against Frieser's revisions.
+
 ## Related pages
 
 [[causes-of-the-second-world-war]] · [[beevor-second-world-war]] · [[taylor-origins-second-world-war]] ·

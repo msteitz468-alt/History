@@ -67,3 +67,17 @@ The success reinforced the 'working towards the Führer' dynamic: subordinates s
 Kershaw presents the Rhineland coup as the culminating demonstration (to 1936) of how Hitler's personalized rule fused with structural opportunities. Emphasis on his 'gambling instinct, use of bluff, and sharp antennae for the weak spots of his opponents.' He took the key decisions alone; military leaders were often astonished and initially opposed on timing/risk grounds but came round. Domestic motives (explicitly noted by Neurath and Hitler) are given weight alongside foreign opportunity. The episode is central to the 'working towards the Führer' chapter: success accredited to Hitler intensified the cult and radicalization dynamic. Cross-reference to intentionalist/structuralist debates and to later sources on how the 1936 triumphs paved the road to 1938–39.
 
 **Collection coverage note (from range):** Excellent primary-grounded narrative in Kershaw *Hubris* (detailed on decision mechanics, quotes from Hassell, Goebbels, Rosenberg, Dietrich, contemporary diplomats). Strong on interaction of domestic and foreign drivers.
+
+## From Evans, *The Third Reich in Power* (2005)
+
+Concurring details (ingested 2026-07-02): only 3,000 troops moved deep into
+the zone, padded with police units to seem more numerous, against a France
+that believed German strength ten times the reality; the cabinet was not
+told until the last minute. Domestic drivers (food shortages, the Church
+conflict) needed a coup. Popular reaction was pride shot through with fear
+of war (Sopade agents reported only Nazis celebrating; the 98.9% plebiscite
+of 29 March was rigged). The consequence Evans stresses: France lost the
+physical ability to enforce Versailles by occupying the Ruhr, tipping
+Eastern Europe's small states toward accommodation with Berlin; Hitler's
+"sleepwalker" remark (14 March 1936) marks the crystallizing invincibility
+belief. Source: [[evans-third-reich-in-power-2005]]

@@ -51,6 +51,18 @@ Kershaw (Range 01, Ch. 3) notes the decisive personal caesura. Hitler's *Mein Ka
 
 Cross-ref [[sources/kershaw-hitler-hubris-1998]], [[actors/adolf-hitler]], [[hubs/biographies/world-wars-era/adolf-hitler]], [[concepts/augusterlebnis]] (for 1914 contrast).
 
+Evans (2003, [[evans-coming-of-third-reich-2003]]) concurs on the caesura:
+gassing was "a frequent occurrence on both sides in the later stages of the
+war"; at Pasewalk Hitler learned of defeat, Armistice, and Revolution — in
+*Mein Kampf* "the greatest villainy of the century"; "everything went black
+before my eyes," and he wept. Evans: "The memory of 1918 was to play a
+central role in all his subsequent thought and action." He also traces
+Hitler's propaganda doctrine to this trauma — propaganda "must be limited to
+a very few points," pitched to "the most limited intelligence," aimed at
+emotion because "the people... are so feminine by nature." See
+[[stab-in-the-back-myth]].
+
 ## Sources
 
 Kershaw *Hitler 1889–1936: Hubris* (1998), Ch. 3 "Elation and Embitterment," using hospital context, *Mein Kampf*, and contemporary records of the revolution.
+Evans, *The Coming of the Third Reich* (2003), Part 3.

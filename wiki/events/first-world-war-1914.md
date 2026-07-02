@@ -254,6 +254,55 @@ Foch (supreme via Doullens/Beauvais/Jun 26 Pétain obedience): "opportunism" ("a
 
 Update from [[sources/strachan-first-world-war-to-arms-2001]] (Range 08 only). See new [[events/east-africa-campaign-1914]], [[hubs/warfare/world-wars-era/first-world-war/battle-of-tanga-1914]], [[events/cameroons-campaign-1914-1916]], [[events/south-west-africa-campaign-1914-1915]], [[events/togoland-campaign-1914]].
 
+## Why Germany lost in 1918 (Stevenson, via Evans 2015)
+
+Evans's review of David Stevenson, *With Our Backs to the Wall* (2011), in
+[[evans-third-reich-history-memory-2015]] (ch. 3), attributed to Stevenson
+and generally endorsed by Evans. Spring 1918 looked winnable for Germany
+(French mutinies, Caporetto, Russia's exit lifting Western Front strength
+past 4 million; Operation Michael's creeping barrage broke the front on 21
+March). The reversal within ~3 months rested on: Allied signals
+intelligence and air superiority by mid-1918; the gas balance flipping
+(Germany released 52,000 tons causing 300,000 Allied casualties, but
+British masks and Livens projectors outmatched rubber-starved German
+equipment); Allied tank numbers (Ludendorff in 1919 cited the prospect of
+thousands of Allied tanks as a reason for the armistice); and above all
+economics — American food, steel and munitions plus the blockade: German
+female death rates ran ~25% above prewar, >500,000 German civilians died
+of malnutrition-linked causes (the "turnip winter" of 1916–17), and troop
+quality collapsed (April 1918 alone: 54,000 killed/missing, 445,000
+wounded/sick; 340,000 desertions/surrenders from July). Stevenson calls
+the spring offensive itself, with unrestricted submarine warfare, the
+"cardinal error of the war" — Ludendorff pursued "the mirage of total
+victory." Evans goes beyond Stevenson in reading Ludendorff not as a
+technician but as "a highly political general" with proto-fascist
+politics, and flags Stevenson's thin treatment of the medical dimension.
+The *Dolchstoßlegende* — Hitler's Pasewalk "revelation" that Jewish
+revolutionaries had stabbed the army in the back — is, on this account,
+pure post-hoc mythologization of a materially overdetermined defeat.
+
+## The German "Silent Dictatorship" (Evans 2003)
+
+Evans ([[evans-coming-of-third-reich-2003]]) on the German home
+front/command: from 1916 [[hindenburg-paul-von|Hindenburg]] and
+[[ludendorff|Ludendorff]] — not a civilian politician, unlike Clemenceau or
+Lloyd George — took over the direction of the war, a "silent dictatorship":
+the Hindenburg Programme (initially run by Wilhelm Groener, who co-opted
+unions and civilian politicians before being pushed out) imposed central
+economic control, severe civil-liberties curbs, and generals dictating war
+aims. Evans: this "provide[d] significant precedents for the more drastic
+fate that overtook German democracy... less than two decades later"
+(contributed_to [[weimar-democracy-and-its-collapse]]). Hindenburg's
+"virtually invincible" Eastern Front reputation masked, per Evans, "a man of
+limited political vision and ability" fronting for the more radical
+Ludendorff. Systematic economic exploitation of occupied Belgium, France, and
+East-Central Europe contributed_to postwar Allied punitiveness, and
+Brest-Litovsk supplied the template Germans expected in reverse — undercutting
+later claims that [[treaty-of-versailles-1919|Versailles]] was uniquely harsh.
+The concealment of looming defeat until late (the Kaiser told only at the end
+of September 1918) created the plausibility gap the
+[[stab-in-the-back-myth|stab-in-the-back myth]] filled.
+
 ## Related pages
 
 [[causes-of-the-first-world-war]] · [[joll-origins-first-world-war]] · [[total-war]] · [[war-economy]] · [[war-memory-and-mourning]] ·
@@ -263,3 +312,7 @@ Update from [[sources/strachan-first-world-war-to-arms-2001]] (Range 08 only). S
 [[hubs/warfare/world-wars-era/first-world-war/battle-of-the-marne-1914|Battle of the Marne 1914 (campaign analysis)]] · [[hubs/warfare/world-wars-era/first-world-war/first-world-war]] ·
 **1914 Western opening (plans + Battle of the Frontiers):** [[hubs/warfare/world-wars-era/first-world-war/battle-of-the-frontiers-1914]] (detailed campaign analysis) · [[concepts/schlieffen-plan]] (expanded with Strachan Ch. 3 range) ·
 **Colonial/African campaigns (Range 08):** [[events/east-africa-campaign-1914]] · [[hubs/warfare/world-wars-era/first-world-war/battle-of-tanga-1914]] · [[events/cameroons-campaign-1914-1916]] · [[events/south-west-africa-campaign-1914-1915]] · [[events/togoland-campaign-1914]]
+
+## Griffin (2007): 1914 as "The Beginning of a Beginning"
+
+*Modernism and Fascism* (chs. 5–7) treats August 1914 as the moment social modernism went to war: Stromberg's "almost manic bellicosity of the European intellectuals"; Thomas Mann's "the beginning of much that was still in the process of beginning"; Barrès declaring 3 August "a sacred day"; Papini's *Lacerba* greeting the war as "a Malthusian operation"; Marinetti's "most beautiful Futurist poem"; Stadler's *Der Aufbruch* (its author killed at Ypres, October 1914); in Germany, the "culture vs civilization" framing Jung called a "psychic epidemic." Combat itself is read through rite-of-passage theory (Leed on No Man's Land; Emilio Gentile: "with the baptism of fire occurred the metanoia of the old man into the fighter or the new man"; Koenigsberg's sacrificial body-politic fantasy). For Italy, Caporetto (Oct–Nov 1917) is the hinge: the threatened death of the mythic fatherland transposed the nation "onto an absolute plane," feeding Mussolini's "Trenchocracy" and the postwar Two-Italies myth amid the Paris Peace disillusion and the influenza pandemic (20–40 million dead) that made Spengler a bestseller. Jünger's alchemy ("everything that has taken shape hitherto is melted down in a thousand furnaces to be cast into new values") and *Der Arbeiter*'s homo faber close the arc into interwar political modernism. (Source: [[griffin-modernism-and-fascism-2007]].)

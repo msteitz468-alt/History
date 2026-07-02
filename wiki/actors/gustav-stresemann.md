@@ -42,6 +42,18 @@ During WWI (1915), Stresemann had expressed the classic expansionist view: "Abov
 
 Stresemann's death in October 1929 — six days after Black Thursday on Wall Street — removed the republic's most effective foreign policy advocate at the precise moment when his skills were most needed. Whether he could have navigated the Depression crisis without resorting to the Article 48 emergency powers that Brüning used to destroy parliamentary governance is unknowable. His political base in the DVP was moving rightward; he had always been managing domestic conservatives as much as foreign adversaries.
 
+## Evans (2003) Addendum
+
+Evans ([[evans-coming-of-third-reich-2003]]) underlines the continuity role —
+Foreign Minister in nine successive administrations over six unbroken years —
+and the pivot of September 1923: negotiating French withdrawal from the
+[[ruhr-occupation-crisis-1923|occupied Ruhr]] in exchange for guaranteed
+reparations payments, opening the path to the [[dawes-plan-1924|Dawes Plan]].
+His death in October 1929 removed "the principal moderating influence" on the
+People's Party, which then "gravitated rapidly towards the far right" (under
+Dingeldey it dissolved itself in July 1933; see
+[[dissolution-of-german-parties-1933]]).
+
 ## Historiography
 
 Source: [[smith-oxford-modern-german-history-2011]], chs. 18 (Tooze) and 19 (Mergel). The definitive biography is Jonathan Wright, *Gustav Stresemann: Weimar's Greatest Statesman* (Oxford, 2002), cited in ch. 18.

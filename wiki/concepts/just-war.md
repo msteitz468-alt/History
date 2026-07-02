@@ -2,11 +2,11 @@
 title: Just War (Bellum Iustum) and the Sanctification of Violence
 concept_type: ideological
 origin: Emic; rooted in Augustine of Hippo (5th c.), systematised by canon lawyers (Gratian's "Decretum", c. 1140) and theologians in the eleventh–twelfth centuries; analysed by Ernst-Dieter Hehl and Frederick H. Russell
-applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages]
+applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages, Early Modern, Age of Expansion, Long 19th Century]
 applies_to_regions: [western-europe, mediterranean]
-contested: no
-sources_ingested: 1
-last_updated: 2026-06-12
+contested: yes
+sources_ingested: 2
+last_updated: 2026-07-02
 tags: [concept]
 ---
 
@@ -71,7 +71,49 @@ itself. It is the doctrinal bridge between the warrior ethic of [[chivalry]] and
 institutional Church, and a foundational strand in the longer Western tradition of
 the ethics of war.
 
+## The Whitman Revision: Just War as Property Law
+
+Whitman ([[whitman-verdict-of-battle-2012|The Verdict of Battle]], 2012, ch. 3)
+mounts a frontal challenge to the "standard account" of just war theory as a
+proto-humanitarian doctrine of punishing evil. His claims:
+
+- **Injuria, not culpa.** The bulk of the medieval doctrine turned on *injuria*
+  (a tortious/property wrong, Augustine's term) rather than *culpa* (criminal
+  guilt, Aquinas's) — making just war closer to civil litigation than criminal
+  prosecution. Augustine's key text on Joshua 8 reframed even Israel's wars of
+  extermination as recovery of what was "wrongfully carried off"; Isidore of
+  Seville grounded just war in the Roman *rerum repetitio* (claiming things back).
+  "Medieval just war theory was largely jus victoriae... its concern with justice
+  was largely a concern for property rights" (p. 113). Bartolus, Baldus, Raymond of
+  Peñafort and Fulgosius elaborated the victor's title to land and booty;
+  Fulgosius (c. 1400) already held war could be just on both sides — no
+  Enlightenment novelty.
+- **No eighteenth-century rupture.** The 18th-century publicists
+  ([[grotius-hugo|Grotius]], whose early work was literally *De Jure Praedae*, "The
+  Law of Booty"; [[vattel-emer-de|Vattel]]; Wolff) saw themselves as continuing the
+  just war tradition (Mattéi), purging only religious causes and adding the
+  balance of power. The **doctrine of pretexts** even gave legal effect to
+  insincere claims: a war fought "in form" on any colorable pretext conveyed valid
+  title, while pretextless war was *bellum ferinum*, "wild beast war" (Wolff).
+  Vattel: "Pretexts are at least a sort of reparations that the unjust pay to the
+  just."
+- **The historiographical culprit.** Whitman traces the modern "punish evil"
+  reading to Alfred Vanderpol's *The Scholastic Doctrine of the Law of War* (1919),
+  a pacifist reconstruction built to support the interwar criminalization of war —
+  a distortion then propagated by Schmitt, Neff, Bell and others (Peter
+  Haggenmacher credited as the corrective).
+
+[CONTRADICTION-adjacent note: this coexists with, rather than refutes, Hehl's
+NCMH account above — Hehl describes the *sanctification* strand (crusade,
+salvation), Whitman the *juristic-property* strand; the pages' emphases differ by
+source. See [[jus-victoriae]] for the full framework.]
+
 ## Related
+
+- [[jus-victoriae]] — the "law of victory" Whitman argues the tradition really was.
+- [[verdict-of-battle]] · [[proprietorial-warfare]] — war as property-claim
+  enforcement.
+- Source: [[whitman-verdict-of-battle-2012]]
 
 - [[crusades]] — the supreme application of sanctified warfare.
 - [[peace-of-god]] — the earlier ecclesiastical management of violence.
