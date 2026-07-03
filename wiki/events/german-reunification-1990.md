@@ -1,23 +1,22 @@
 ---
 title: German Reunification
-date_start: 1990-10-03
-date_end: 1990-10-03
+date_start: "1990-10-03"
+date_end: "1990-10-03"
 date_precision: exact
 period: [Cold War, Contemporary]
-region: [western-europe, eastern-europe]
-location: Germany (both states); also Caucasus (Kohl-Gorbachev summit), Paris (2+4 Treaty signing)
-actors_primary: [west-germany, east-germany, helmut-kohl]
-actors_secondary: [Soviet Union, United States, France, United Kingdom, Poland, willy-brandt, konrad-adenauer]
+region: ["western-europe", "eastern-europe"]
+causes: ["fall-of-the-berlin-wall-1989", "gdr-economic-collapse", "east-german-mass-exodus-1989", "gorbachev-reforms", "volkskammer-election-1990"]
+consequences: ["post-cold-war-european-order", "german-european-integration", "german-multiculturalism", "eastern-german-transition", "maastricht-treaty"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, Cold War, Contemporary, "western-europe", "eastern-europe", transition]
 event_type: political
-scale_immediate: civilizational
+location: "Germany (both states); also Caucasus (Kohl-Gorbachev summit), Paris (2+4 Treaty signing)"
+actors_primary: ["west-germany", "east-germany", "helmut-kohl"]
+actors_secondary: [Soviet Union, United States, France, United Kingdom, Poland, "willy-brandt", "konrad-adenauer"]
 scale_consequential: global
-causes: [fall-of-the-berlin-wall-1989, gdr-economic-collapse, east-german-mass-exodus-1989, gorbachev-reforms, volkskammer-election-1990]
-consequences: [post-cold-war-european-order, german-european-integration, german-multiculturalism, eastern-german-transition, maastricht-treaty]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [event, Cold War, Contemporary, western-europe, eastern-europe, transition]
+scale_immediate: civilizational
 ---
-
 ## Narrative
 
 On 3 October 1990, the five newly-constituted eastern German states (Länder) acceded to the Federal Republic of Germany under Article 23 of the Basic Law. The German Democratic Republic ceased to exist. The accession was the culmination of a diplomatic and political process that had moved with remarkable speed from the fall of the Berlin Wall on 9 November 1989 to full political unification less than eleven months later.
@@ -65,3 +64,24 @@ Unification historiography centers on: (1) Was rapid unification the right choic
 Key texts: Görtemaker (1994), Jarausch (1994), Maier (1997), Sarotte (various works on 2+4 negotiations).
 
 **Source coverage:** [[smith-oxford-modern-german-history-2011]] chapter 33 (Annus Mirabilis) provides detailed treatment. The collection is strong on this event.
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] corroborate the sequence above
+in close detail and add a few sharpening points. Kohl's **November 1989 ten-point plan**
+is characterized as pursuing the absorption of East into West rather than the "third
+way" neutral socialist state initially hoped for by East German reformers — consistent
+with the Rival Conceptions section above. They frame the **1:1 exchange rate** for East
+German pensions and savings explicitly as an electoral sweetener, and the **March 18,
+1990 elections** (~50% for the Christian Democrats) as effectively a reunification
+referendum in all but name. On costs: the **Treuhandanstalt** processed roughly
+**60,000 former East German state enterprises** between 1990 and 1995, producing mass
+unemployment; the East German **birth rate fell 60% and the marriage rate 65%** in the
+three years after 1989 — striking demographic evidence of the transition's social
+shock, supplementing the economic-collapse narrative already documented above. The last
+Soviet troops left East German soil **August 31, 1994**. On the diplomatic bargain, they
+frame Gorbachev's acceptance of reunification as coming largely on Western terms in
+exchange for a slowed arms race (the December 1987 Washington summit and INF
+elimination) and economic aid — NATO membership for a united Germany was accepted by
+Moscow within that broader context, consistent with the Caucasus Breakthrough account
+above.

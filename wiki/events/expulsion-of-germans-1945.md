@@ -4,20 +4,19 @@ date_start: 1945
 date_end: 1950
 date_precision: year
 period: [World Wars Era, Cold War]
-region: [eastern-europe, western-europe]
-location: [Poland, Czechoslovakia, Hungary, former eastern Germany]
-actors_primary: [[[soviet-union]], Polish and Czechoslovak governments, Allied occupation authorities]
-actors_secondary: [[[nazi-germany]] (whose war and occupation policies precipitated the decision)]
+region: ["eastern-europe", "western-europe"]
+causes: ["[[second-world-war-1939]]", "Nazi occupation policies and the collapse of German-Slav coexistence", "Allied Potsdam decision for \"orderly and humane\" population transfer"]
+consequences: [death of roughly 500, 000–1.5 million expellees (disputed), "demographic homogenization of Central-Eastern Europe", expellee politics in the Federal Republic, a central case in postwar memory debates]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "cold-war", "eastern-europe"]
 event_type: migration
-scale_immediate: civilizational
+location: [Poland, Czechoslovakia, Hungary, former eastern Germany]
+actors_primary: ["[[soviet-union]]", Polish and Czechoslovak governments, Allied occupation authorities]
+actors_secondary: ["[[nazi-germany]] (whose war and occupation policies precipitated the decision)"]
 scale_consequential: civilizational
-causes: [[[second-world-war-1939]], Nazi occupation policies and the collapse of German-Slav coexistence, Allied Potsdam decision for "orderly and humane" population transfer]
-consequences: [death of roughly 500,000–1.5 million expellees (disputed), demographic homogenization of Central-Eastern Europe, expellee politics in the Federal Republic, a central case in postwar memory debates]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [event, world-wars-era, cold-war, eastern-europe]
+scale_immediate: civilizational
 ---
-
 # Expulsion of the Germans from Eastern Europe (1945–1950)
 
 The flight and forced expulsion of some 12–14 million ethnic Germans
@@ -102,9 +101,26 @@ projects and largely ignored in Anglophone scholarship until R. M.
 Douglas's *Orderly and Humane* (2012); politically charged between
 German victimhood narratives and East European justifications.
 
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] give a somewhat different
+aggregate framing worth preserving alongside Evans/Douglas above: as many as **9
+million** Germans left Czechoslovakia and Poland alone in the immediate postwar years
+(the Sudetenland expulsion plus Poland's newly annexed western territories, 1946–47) —
+consistent with, though narrower in geographic scope than, the 12–14 million figure
+given above for the full expellee population. They situate this within a much larger
+regional churn: **total Eastern European population displacement 1944–1950 reached
+roughly 31 million people, about one-third of the region's population**, including
+returning POWs and forced laborers and Jewish survivors fleeing renewed antisemitic
+violence, not only ethnic Germans. They also corroborate and specify the mass-rape
+figures given above from Evans: an estimated **1–2 million German women raped in spring
+1945** (up to one-third of Berlin's women) — publicly condoned by Stalin and never
+punished, consistent with the 1.4 million/100,000-in-Berlin figures already documented.
+
 ## Related
 
 - Source: [[evans-third-reich-history-memory-2015]]
+- Source: [[paxton-europe-twentieth-century-2011]]
 
 ## The wartime flight — Evans, *The Third Reich at War* (2008)
 

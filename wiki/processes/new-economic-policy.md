@@ -3,16 +3,15 @@ title: New Economic Policy (NEP)
 date_start: 1921
 date_end: 1928
 date_precision: year
-period: [world-wars-era]
-region: [eastern-europe]
+period: ["world-wars-era"]
+region: ["eastern-europe"]
 process_type: economic
-driven_by: [[lenin-vladimir]], Bolshevik Party (after Kronstadt mutiny and Tambov revolt), exhaustion of War Communism
-produces: partial economic recovery 1921–27; "Nepmen"; "scissors crisis"; "Urals-Siberian method" of grain seizures (1928); Stalin-Bukharin split; transition to Five-Year Plan and collectivization
-sources_ingested: 2
-last_updated: 2026-06-22
-tags: [process, world-wars-era, soviet-union]
+sources_ingested: [3]
+last_updated: "2026-07-02"
+tags: [process, "world-wars-era", "soviet-union"]
+driven_by: "[[lenin-vladimir]], Bolshevik Party (after Kronstadt mutiny and Tambov revolt), exhaustion of War Communism"
+produces: "partial economic recovery 1921–27; \"Nepmen\"; \"scissors crisis\"; \"Urals-Siberian method\" of grain seizures (1928); Stalin-Bukharin split; transition to Five-Year Plan and collectivization"
 ---
-
 # New Economic Policy (NEP)
 
 **New Economic Policy (NEP, 1921–1928)**: Lenin’s tactical retreat from War Communism that re-legalized private trade in grain (tax-in-kind replacing requisitioning), small-scale manufacturing and retail commerce while retaining state control of large industry, banking and foreign trade. It saved the Bolshevik regime from collapse but generated its own instabilities and was abandoned by Stalin in 1928–29.
@@ -49,8 +48,53 @@ Stalin’s 1928 grain procurement campaign and industrialization drive ended NEP
 ## Historiography (per Service)
 
 Service treats NEP as Lenin’s pragmatic recognition that the compound could not survive without economic relaxations, but insists the political dictatorship was never relaxed. The compound’s basic ingredients remained. Bukharin’s "evolutionary" phase clashed with Stalin’s impatience. The collection uses Service to document how NEP produced real recovery (output back to ~1913 levels) yet contained the seeds of its own destruction through renewed procurement crises and factional politics. Gaps: quantitative data on black market and regional variation.
-sources_ingested: 1
-last_updated: 2026-06-22
+
+## The Industrialization Debate (Paxton & Hessler 2011)
+
+After Lenin's incapacitation (stroke, May 1922) and death (January 1924), no
+succession mechanism existed, and the Bolshevik leadership split over how to
+industrialize a backward, peasant-majority country without external
+socialist support. The **Left** ([[trotsky-leon|Trotsky]], joined by
+Zinoviev and Kamenev) argued for squeezing development capital from the
+peasantry — especially the emerging "kulak" agrarian middle class — via a
+deliberate price "scissors" (low food prices, high manufactured-goods
+prices), and for intensifying revolutionary pressure abroad, including in
+Asia if Europe stayed quiescent. The **Right** (Bukharin) argued instead for
+letting peasants profit from their crops so they could buy industrial
+goods, holding that peasants were "the huge majority on our planet" and
+that a cooperative peasant-worker model could let socialism spread by
+example rather than by force. Neither side favored a return to multiparty
+democracy; both agreed political dictatorship was necessary regardless of
+outcome.
+
+Stalin, party secretary since 1922, sided with Bukharin's position through
+the mid-1920s and used it to marginalize the Left: Trotsky was removed as
+War Commissar in 1925, Zinoviev was dismissed as Comintern chair after a
+failed 1925 Bulgarian communist uprising, and by the Fifteenth Party
+Congress (December 1927) all "deviation from the Party line" was formally
+condemned; Trotsky was exiled in 1929. One disgruntled Old Bolshevik, Boris
+Souvarine, called the resulting system "the dictatorship of the
+Secretariat." The trigger for the whole NEP turn was the immediate crisis
+of the [[kronstadt-rebellion-1921|Kronstadt rebellion]] (March 1921).
+
+Material context underscores how thin one-party rule actually was on the
+ground: by 1924 the Communist Party's grassroots presence in the Smolensk
+District (population roughly 2.3 million) numbered only 5,416 members,
+concentrated mostly in Smolensk city — one-party rule rested on centralized
+bureaucratic control rather than mass membership.
+
+Culturally, NEP produced a relatively tolerant, artistically fertile period
+under Commissar of Enlightenment Anatoly Lunacharsky — Eisenstein's early
+films, Tatlin's constructivism, Mayakovsky's poetry, Meyerhold's
+experimental theater (see [[interwar-mass-culture]] for the parallel
+Western European high-culture strand and the contrast with the Soviet
+trajectory). This tolerance ended abruptly as Stalin consolidated power:
+Lunacharsky was dismissed in 1929, Stanislavsky removed from the Moscow Art
+Theater in 1928, Mayakovsky committed suicide in 1930, and "socialist
+realism" was imposed as official doctrine in 1934. Source:
+[[paxton-europe-twentieth-century-2011]].
+sources_ingested: 2
+last_updated: 2026-07-02
 tags: [process, world-wars-era, eastern-europe]
 ---
 # New Economic Policy (NEP)

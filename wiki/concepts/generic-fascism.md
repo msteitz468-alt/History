@@ -1,15 +1,14 @@
 ---
-title: Generic Fascism — Definitions and the Five-Stage Model
+title: "Generic Fascism — Definitions and the Five-Stage Model"
 concept_type: analytical
-origin: [The term "fascism" is emic (Mussolini's Fasci di Combattimento, Piazza San Sepolcro, Milan, 23 March 1919); "generic fascism" as an etic comparative category is a scholars' construct — key definers include Ernst Nolte (1963), Roger Griffin (1991, palingenetic ultranationalism), Stanley Payne (typological description), and Robert Paxton (2004, five-stage processual definition)]
-applies_to_periods: [World Wars Era, Cold War, Contemporary]
-applies_to_regions: [western-europe, eastern-europe, mediterranean, global]
-contested: yes
-sources_ingested: 3
-last_updated: 2026-07-02
+sources_ingested: [4]
+last_updated: "2026-07-02"
 tags: [concept]
+applies_to_periods: [World Wars Era, Cold War, Contemporary]
+applies_to_regions: ["western-europe", "eastern-europe", mediterranean, global]
+contested: yes
+origin: ["The term \"fascism\" is emic (Mussolini's Fasci di Combattimento", Piazza San Sepolcro, Milan, "23 March 1919); \"generic fascism\" as an etic comparative category is a scholars' construct — key definers include Ernst Nolte (1963)", Roger Griffin (1991, palingenetic ultranationalism), Stanley Payne (typological description), and Robert Paxton (2004, "five-stage processual definition)"]
 ---
-
 # Generic Fascism
 
 Whether "fascism" names a single generic phenomenon beyond Mussolini's
@@ -271,6 +270,38 @@ Paxton's boundary-drawing is as load-bearing as the definition:
   developmental dictatorship (no diabolized enemy, no expansionist war,
   workers' income share *raised*); al-Qaeda/Taliban not fascist because
   "they have not 'given up free institutions,' since they never had any."
+
+## Paxton & Hessler's Textbook Synthesis (2011)
+
+Paxton and Hessler's *Europe in the Twentieth Century* — a separate,
+later-published textbook synthesis distinct from Paxton's *Anatomy of
+Fascism* (2004) above — frames fascism as a "new Right" movement that used
+the techniques of mass politics against both the Left and old-style
+liberals. Its anticapitalism was selective: nationalization rhetoric aimed
+chiefly at protecting small property rather than expropriating capital
+wholesale. Where class origin is a weak discriminator of fascist
+leadership, **youth** proves a better one — Gömbös was 33, Codreanu 20, and
+Hitler 31 in 1920, a generational profile consistent with Merkl's
+generational-revolt reading elsewhere on this page.
+
+Paxton and Hessler's preconditions checklist: conservative elites'
+acceptance of mass politics as a tool (precedents in Napoleon III,
+Bismarck, and Leo XIII/Pius X's turn to Catholic mass mobilization); the
+economic squeeze of the independent lower-middle class alongside the rise
+of the tertiary sector; the 1880s depression-era experiments in popular
+nationalism and racism (Schönerer, Drumont, Maurras); a cultural revolt
+against perceived decadence; and racialized nationalism and antisemitism,
+including the wave of pogroms after the 1880s (Odessa, October 1905, over
+300 killed). The First World War is treated as "catalyst of fascism rather
+than its creator." Inflation is identified as "the major engine of
+dislocation": in Austria, a month's food for a family of four cost 2,500
+crowns in July 1919 and 297,000 crowns by July 1922. The map of interwar
+fascism corresponds only imperfectly to the map of the revolutionary
+emergency of 1919–20. Paxton and Hessler's summary verdict: "there was
+nothing inevitable about fascism" — it required this specific conjunction
+of structural preconditions and contingent political choices, not merely
+economic crisis or war trauma alone. Source:
+[[paxton-europe-twentieth-century-2011]].
 
 ## Limitations and critiques
 

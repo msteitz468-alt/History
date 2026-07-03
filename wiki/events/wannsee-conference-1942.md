@@ -1,23 +1,22 @@
 ---
 title: Wannsee Conference
-date_start: 1942-01-20
-date_end: 1942-01-20
+date_start: "1942-01-20"
+date_end: "1942-01-20"
 date_precision: exact
 period: [World Wars Era]
-region: [central-europe]
-location: [Am Grossen Wannsee 56–58, Berlin]
-actors_primary: [[[heydrich-reinhard|Reinhard Heydrich]], [[eichmann-adolf|Adolf Eichmann]], state secretaries of the Reich ministries]
-actors_secondary: [[[himmler-heinrich|Heinrich Himmler]], [[nazi-germany]]]
+region: ["central-europe"]
+causes: ["the decision(s) for the [[the-holocaust|\"Final Solution\"]] taken in late 1941", "[[heydrich-reinhard|Heydrich's]] July 1941 commission from [[goring-hermann|Göring]]", the need to coordinate ministries and secure their complicity]
+consequences: ["bureaucratic coordination of the Europe-wide deportation program", the surviving protocol as key documentary evidence of genocidal intent, "escalation of [[operation-reinhard-1942|Operation Reinhard]] and deportations to [[auschwitz]]"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "central-europe"]
 event_type: political
-scale_immediate: regional
+location: [Am Grossen Wannsee 56–58, Berlin]
+actors_primary: ["[[heydrich-reinhard|Reinhard Heydrich]]", "[[eichmann-adolf|Adolf Eichmann]]", state secretaries of the Reich ministries]
+actors_secondary: ["[[himmler-heinrich|Heinrich Himmler]]", "[[nazi-germany]]"]
 scale_consequential: civilizational
-causes: [the decision(s) for the [[the-holocaust|"Final Solution"]] taken in late 1941, [[heydrich-reinhard|Heydrich's]] July 1941 commission from [[goring-hermann|Göring]], the need to coordinate ministries and secure their complicity]
-consequences: [bureaucratic coordination of the Europe-wide deportation program, the surviving protocol as key documentary evidence of genocidal intent, escalation of [[operation-reinhard-1942|Operation Reinhard]] and deportations to [[auschwitz]]]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [event, world-wars-era, central-europe]
+scale_immediate: regional
 ---
-
 # The Wannsee Conference (20 January 1942)
 
 A meeting of state secretaries and SS officials convened by [[heydrich-reinhard|Reinhard Heydrich]] at a villa on Berlin's Wannsee to coordinate the "final solution of the Jewish question in Europe." Wannsee did not *decide* the genocide — killing was already under way in the East — but it organized the machinery, asserted SS primacy, and implicated the civil ministries. The protocol, recorded by [[eichmann-adolf|Adolf Eichmann]], enumerated eleven million European Jews as targets. Documented for the wiki from [[evans-third-reich-at-war-2008|Evans, *The Third Reich at War* (2008)]].
@@ -33,6 +32,8 @@ Administrative consequences: "extermination through labor" was institutionalized
 ## Causal Analysis
 
 Wannsee was `caused_by` the escalation decisions of autumn 1941 (deportation of Reich Jews ordered mid-September; killing centers commissioned at Bełżec and Chełmno from October–November) and `enabled` the continent-wide machinery: it coordinated ministries, secured their complicity, and affirmed SS authority. It did not initiate the genocide — killing was months old — and Evans emphasizes it "neither inaugurated" the process "nor made it into an automatic sequence of events"; [[himmler-heinrich|Himmler's]] restless personal interventions (Lublin/Cracow March 1942, Warsaw April, Lublin July 1942 with the order to kill all General Government Jews by year's end) drove implementation.
+
+Paxton and Hessler's *Europe in the Twentieth Century* (2011) quote Heydrich's rationale verbatim: the hardiest labor-camp survivors would have to be "dealt with appropriately," since through "natural selection" they would otherwise represent "the germ cell of a new Jewish revival." See [[the-holocaust]]. Source: [[paxton-europe-twentieth-century-2011]].
 
 ## Historiography
 

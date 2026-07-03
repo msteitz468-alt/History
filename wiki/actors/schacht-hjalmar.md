@@ -4,16 +4,15 @@ actor_type: person
 date_start: 1877
 date_end: 1970
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, person, "world-wars-era", "western-europe"]
 affiliated_with: ["[[nazi-germany]]"]
-opposed_by: ["[[goring-hermann]]"]
 key_events: ["[[four-year-plan-1936]]"]
 key_processes: ["[[nazi-economic-mobilization-and-rearmament-1933-1936]]"]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [actor, person, world-wars-era, western-europe]
+opposed_by: ["[[goring-hermann]]"]
 ---
-
 # Hjalmar Schacht
 
 Reichsbank President (1933–39) and Economics Minister (1934–37); the financial
@@ -49,6 +48,21 @@ built the Reichsbank's foreign-currency investigation apparatus that fed
 Aryanization — his celebrated Königsberg criticism of street violence ("Lord,
 preserve me from my friends") opposed illegality, not persecution. From 1938
 loosely tied to the Goerdeler–Oster–Canaris conspiracy circle.
+
+## The "Miracle of the Rentenmark" (Paxton & Hessler 2011)
+
+Schacht was appointed currency commissioner by [[gustav-stresemann|Stresemann]]
+on 12 November 1923, at the height of the hyperinflation crisis. His
+"miracle of the Rentenmark" replaced the worthless mark with a new currency
+(1 Rentenmark = 1 trillion old marks), backed not by scarce gold or
+foreign-exchange reserves but by a notional mortgage on all German land,
+industry, and commerce, combined with strict limits on government spending
+and firm borrowing. Once [[dawes-plan-1924|Dawes Plan]] loans began flowing
+in 1924, Schacht shifted Germany to a gold-based Reichsmark, stable until
+the Great Depression. His deflationary discipline forced weaker firms out
+of business while large, rationalized firms — leading to United Steel
+(1926) and I.G. Farben (1925) — profited from the late-1920s boom. Source:
+[[paxton-europe-twentieth-century-2011]].
 
 ## Historiography
 

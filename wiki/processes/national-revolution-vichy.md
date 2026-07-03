@@ -4,15 +4,14 @@ date_start: 1940
 date_end: 1944
 date_precision: year
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
 process_type: political
-driven_by: [fall-of-france-1940, franco-german-armistice-1940]
-produces: [vichy-anti-jewish-laws-1940]
-sources_ingested: [paxton-vichy-france-1972]
-last_updated: 2026-07-01
-tags: [process, world-wars-era, western-europe]
+sources_ingested: ["paxton-vichy-france-1972", "paxton-europe-twentieth-century-2011"]
+last_updated: "2026-07-02"
+tags: [process, "world-wars-era", "western-europe"]
+driven_by: ["fall-of-france-1940", "franco-german-armistice-1940"]
+produces: ["vichy-anti-jewish-laws-1940"]
 ---
-
 # The National Revolution (Révolution nationale), 1940–1944
 
 [[vichy-france]]'s program of internal regeneration — "Travail, Famille,
@@ -83,8 +82,15 @@ traditionalists had long lost to the technocrats, whose planning apparatus —
 the National Revolution's most durable product — passed almost intact into
 the Fourth Republic (see [[vichy-france]], Legacy).
 
+## From Paxton and Hessler, *Europe in the Twentieth Century* (2011)
+
+Vichy's **divided legitimacy** was unique in occupied Europe. Where the Dutch, Norwegian, and Belgian governments-in-exile preserved unified national legitimacy abroad — and Belgium's King Leopold III chose to remain in the country as a prisoner of the Germans rather than head a rival collaborationist authority, while Denmark's King Christian X made his daily rides through occupied Copenhagen a quiet, visible act of national continuity — France instead split into a legally continuous government at Vichy and a rival claim to legitimacy from de Gaulle's Free French abroad, with no clean resolution until the Liberation.
+
+Vichy abolished parliament and independent trade unions outright, enacted the anti-Semitic legislation covered above, and built a corporatist economic order in practice run by big-company executives rather than the small-producer and artisan classes the National Revolution's rhetoric claimed to champion. The Montoire meeting of 24 October 1940, at which Pétain met Hitler and announced France's entry "into the way of collaboration," anchored this program diplomatically. Postwar polling and estimates suggest only about 2% of French adults were engaged in active resistance and roughly 10% read the clandestine press regularly — while at least as many French people remained supportive of Pétain through to the end of the occupation, complicating any simple resistance-versus-collaboration national narrative. Occupation costs consumed some 58% of French tax receipts. Source: [[paxton-europe-twentieth-century-2011]].
+
 ## Related
 
 [[vichy-france]] · [[petain-philippe]] · [[vichy-anti-jewish-laws-1940]] ·
 [[collaboration-and-collaborationism]] · [[fascism-and-the-political-left]] ·
-[[communism-and-fascism]] · [[paxton-vichy-france-1972]]
+[[communism-and-fascism]] · [[paxton-vichy-france-1972]] ·
+[[paxton-europe-twentieth-century-2011]]

@@ -1,23 +1,22 @@
 ---
 title: The March on Rome
-date_start: 1922-10-27
-date_end: 1922-10-31
+date_start: "1922-10-27"
+date_end: "1922-10-31"
 date_precision: exact
 period: [World Wars Era]
-region: [mediterranean, western-europe]
-location: [Rome, Naples, northern Italy]
-actors_primary: [mussolini-benito, Victor Emmanuel III]
-actors_secondary: [Luigi Facta, Italo Balbo, Emilio De Bono, Michele Bianchi, Cesare Maria De Vecchi, Antonio Salandra, Giovanni Giolitti]
+region: [mediterranean, "western-europe"]
+causes: [conservative fear of maximalist socialism after the biennio rosso, Po Valley squadrist conquest of local power, deadlock of the liberal parliamentary system (no effective government since February 1922), "conservative elite decision to co-opt rather than repress Fascism"]
+consequences: [Mussolini appointed prime minister (30 October 1922), "one-party dictatorship by early 1927", "the founding myth of fascist \"seizure of power\" that misled the German Left in 1932–33"]
+sources_ingested: [3]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", mediterranean]
 event_type: political
-scale_immediate: civilizational
+location: [Rome, Naples, northern Italy]
+actors_primary: ["mussolini-benito", Victor Emmanuel III]
+actors_secondary: [Luigi Facta, Italo Balbo, Emilio De Bono, Michele Bianchi, Cesare Maria De Vecchi, Antonio Salandra, Giovanni Giolitti]
 scale_consequential: global
-causes: [conservative fear of maximalist socialism after the biennio rosso, Po Valley squadrist conquest of local power, deadlock of the liberal parliamentary system (no effective government since February 1922), conservative elite decision to co-opt rather than repress Fascism]
-consequences: [Mussolini appointed prime minister (30 October 1922), one-party dictatorship by early 1927, the founding myth of fascist "seizure of power" that misled the German Left in 1932–33]
-sources_ingested: 2
-last_updated: 2026-07-02
-tags: [event, world-wars-era, mediterranean]
+scale_immediate: civilizational
 ---
-
 # The March on Rome (27–31 October 1922)
 
 The event through which Mussolini became prime minister of Italy — and,
@@ -111,6 +110,27 @@ special trains.
 
 [[mussolini-benito]] · Victor Emmanuel III · Luigi Facta · Italo Balbo ·
 Antonio Salandra · Giovanni Giolitti · the Fascist squadristi.
+
+## Paxton & Hessler (2011): mechanics and verdict
+
+Paxton and Hessler's textbook account corroborates the demythologized
+reading with its own emphasis on the political theater: at the Fascist
+congress in Naples (October 1922) Mussolini organized the march under a
+quadrumvirate — Balbo (representing the veterans), Bianchi (the
+syndicalist left), De Bono (the army), and De Vecchi (the monarchists) —
+who set the march for the night of 27–28 October. Police stopped the
+squadristi trains before they reached the capital, and only around 9,000
+poorly armed marchers actually reached Rome, in the rain, badly
+outnumbered by the troops already stationed inside the city. Facta
+prepared a martial-law decree, but Victor Emmanuel III refused to
+countersign it; Giolitti and Salandra each tried to co-opt Mussolini into a
+coalition government, but he refused anything short of the premiership
+itself, arriving in Rome by sleeping car on the morning of 30 October — the
+"march" proper was staged for the cameras only on 31 October, after he was
+already in office. Paxton and Hessler's verdict: the march was
+"constitutional in form, force in substance" — Mussolini "made normal
+government impossible until the political leaders bought him off." Source:
+[[paxton-europe-twentieth-century-2011]].
 
 ## Payne's account (1995)
 

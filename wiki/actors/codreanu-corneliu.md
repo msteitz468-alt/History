@@ -1,19 +1,18 @@
 ---
-title: "Corneliu Zelea Codreanu"
+title: Corneliu Zelea Codreanu
 actor_type: person
 date_start: 1899
 date_end: 1938
 period: [World Wars Era]
-region: [eastern-europe, balkans]
+region: ["eastern-europe", balkans]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, person, "world-wars-era", "eastern-europe"]
 affiliated_with: [Legion of the Archangel Michael / Iron Guard (founder), Romanian radical right]
+key_events: ""
+key_processes: ""
 opposed_by: [King Carol II, Romanian political establishment]
-key_events: []
-key_processes: []
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [actor, person, world-wars-era, eastern-europe]
 ---
-
 # Corneliu Zelea Codreanu (1899–1938)
 
 Founder and Căpitanul ("the Captain") of the Romanian
@@ -33,6 +32,21 @@ on the night of 29–30 November 1938 ("shot while attempting to escape"),
 becoming the movement's supreme martyr; the Legion's subsequent turn to
 mass reprisal killing under Horia Sima followed his cult of death to its
 conclusion.
+
+## Person and Death (Paxton and Hessler)
+
+Codreanu personally embodied the Legion's religious character: he wore
+traditional Moldavian peasant dress rather than a conventional uniform, and
+recruits swore a blood oath binding them to poverty, duty, and murder if
+necessary. The Legion he led won 16% of the vote in December 1937 (third
+largest party), drawing on university students angered by Jewish admission
+quotas and poor Moldavian family farmers. King Carol II's 1938 crackdown
+jailed Codreanu and other leaders; the official account of his death —
+"killed while trying to escape" — is treated skeptically by the source as a
+likely extrajudicial killing rather than a genuine escape. His successor
+Horia Sima later served under General Ion Antonescu, whose forces crushed
+the remaining Legion in three days of Bucharest street fighting in January
+1941. Source: [[paxton-europe-twentieth-century-2011]].
 
 ## Historiography
 

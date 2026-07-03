@@ -1,23 +1,22 @@
 ---
 title: Death of Franco
-date_start: 1975-11-20
-date_end: 1975-11-20
+date_start: "1975-11-20"
+date_end: "1975-11-20"
 date_precision: exact
 period: [Cold War]
 region: [iberia]
-location: [Madrid]
-actors_primary: [[franco-francisco]], [[francoist-spain]]
-actors_secondary: [[juan-carlos-i]]
+causes: ["[unknown]"]
+consequences: ["[unknown]"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "cold-war", iberia, transition]
 event_type: political
-scale_immediate: civilizational
+location: [Madrid]
+actors_primary: ["[franco-francisco]]", "[[francoist-spain]"]
+actors_secondary: ["[juan-carlos-i]"]
 scale_consequential: civilizational
-causes: [[unknown]]
-consequences: [[unknown]]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [event, cold-war, iberia, transition]
+scale_immediate: civilizational
 ---
-
 # The Death of Franco, 20 November 1975
 
 [[franco-francisco|Francisco Franco]] died in Madrid on 20 November 1975 — the 39th anniversary of [[primo-de-rivera-jose-antonio|José Antonio]]'s execution — after a five-week terminal agony (heart attacks, hemorrhages, repeated surgery) that Payne (1987) narrates as a grim metaphor for the regime itself, artificially sustained past natural life. Two days later [[juan-carlos-i|Juan Carlos]] was proclaimed King, and within three years [[actors/francoist-spain|Francoist Spain]] had been dismantled by legal reform from within (the 1976 Political Reform Law, 1977 elections, 1978 Constitution).
@@ -34,6 +33,20 @@ Franco's last year was marked by terminal drift: the ineffective Arias Navarro g
 
 Debate centers on whether the transition was the regime's unintended achievement (modernization thesis: development created the middle-class society that made democracy possible) or its repudiation (the transition succeeded against, not because of, Francoist institutions). Payne leans toward the former without denying the latter's force.
 
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] situate Franco's death and
+Spain's subsequent trajectory against Portugal's very different post-authoritarian
+path: `contrasts_with:` [[carnation-revolution-1974]] (a 1974 military-led leftist
+revolution ending the Salazar/Caetano dictatorship abruptly and violently) and
+`produced:` [[spanish-transition-to-democracy]] (Spain's comparatively gradual,
+legally-managed 1975–1982 transition, made possible by the desarrollo-era economic and
+social transformation already documented above). The contrast between the two
+dictatorships' respective endings — Portugal's rupture versus Spain's negotiated
+continuity — is a recurring comparative theme worth flagging for a future
+ page.
+
 ## Related
 
 - [[actors/carrero-blanco-luis]] (the succession plan's dead architect) · [[sources/payne-franco-regime-1987]]
+- [[paxton-europe-twentieth-century-2011]] · [[carnation-revolution-1974]] · [[spanish-transition-to-democracy]]

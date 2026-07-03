@@ -1,15 +1,14 @@
 ---
-title: "Isolationism"
-concept_type: "political"
-origin: "United States foreign policy debates"
-applies_to_periods: ["World Wars Era", "Cold War"]
+title: Isolationism
+concept_type: political
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [concept]
+applies_to_periods: [World Wars Era, Cold War]
 applies_to_regions: ["north-america"]
-contested: "yes"
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: ["concept"]
+contested: yes
+origin: United States foreign policy debates
 ---
-
 # Isolationism
 
 ## Overview
@@ -27,6 +26,19 @@ supporters opposed US entry into WWII) from "imperialism" wearing
 internationalist dress, and argues the same administration that broke up the
 1933 London Economic Conference in defense of domestic autarky later claimed
 the internationalist mantle against its critics.
+
+Four years earlier, in [[flynn-country-squire-1940|*Country Squire in the
+White House*]] (May 1940), Flynn had stated the economic version of the
+anti-interventionist case: with local governments unable to absorb more
+WPA-type projects, national defense was the one spending category that
+overcame conservative resistance to borrowing, so that FDR had reached "the
+tragic point where the only thing that can save his regime is to take the
+country off into a war hysteria." He itemized what he presented as deliberate
+threat-inflation from October 1937 onward (the quarantine speech, spy scares,
+Senator Neely's "Siegfried line along the Canadian border" speech) and judged
+the 50,000-plane program physically impossible ("we will be quite lucky if we
+can produce ten thousand" a year — a prediction wartime production later
+falsified).
 
 ## Hartz: isolationism and messianism as one dialectic (1955)
 

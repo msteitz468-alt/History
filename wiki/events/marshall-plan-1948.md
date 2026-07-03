@@ -1,23 +1,22 @@
 ---
 title: The Marshall Plan (1948–1952)
-date_start: 1947-06-05
+date_start: "1947-06-05"
 date_end: 1952
 date_precision: year
 period: [Cold War]
-region: [western-europe, north-america]
+region: ["western-europe", "north-america"]
+causes: ["Europe's postwar dollar shortage and economic collapse", the fear of Communist electoral gains, "[[containment]]"]
+consequences: [the recovery of Western Europe, the economic division of Europe, the consolidation of the Western bloc, European integration]
+sources_ingested: [4]
+last_updated: "2026-07-02"
+tags: [event, "cold-war", "western-europe"]
+event_type: [economic, political]
 location: [Western Europe]
 actors_primary: [the United States (George C. Marshall, Truman), the states of Western Europe]
-actors_secondary: [the Soviet Union (which rejected it), [[united-states]]]
-event_type: [economic, political]
-scale_immediate: regional
+actors_secondary: [the Soviet Union (which rejected it), "[[united-states]]"]
 scale_consequential: global
-causes: [Europe's postwar dollar shortage and economic collapse, the fear of Communist electoral gains, [[containment]]]
-consequences: [the recovery of Western Europe, the economic division of Europe, the consolidation of the Western bloc, European integration]
-sources_ingested: 3
-last_updated: 2026-06-24
-tags: [event, cold-war, western-europe]
+scale_immediate: regional
 ---
-
 # The Marshall Plan (1948–1952)
 
 The **Marshall Plan** — officially the **European Recovery Program (ERP)** — was the
@@ -84,6 +83,36 @@ continent.
 - Only serious complication: Czechoslovak government (non-Communist majority) "completely committed to the Marshall Plan process." Stalin "ruthlessly pressured the Czechoslovak government delegation" at Moscow meeting 9 July 1947, "forcing them to reject outright the Marshall Plan and refuse participation." Jan Masaryk wrote: “I went to Moscow as a Foreign Minister of an independent sovereign state; I returned as a lackey of the Soviet Government.”
 - Broader impact on bloc: "The intensification of the Cold War terminated any lingering restraints on the full-scale Sovietization of the region." Marshall Plan, "its angry rejection by the Soviets, and the establishment of the Cominform" accelerated full one-party consolidation, show trials, and Berlin blockade.
 - Updated [[marshall-plan-1948]]: added Soviet bloc response details and acceleration of European division; cross to [[sovietization-of-eastern-europe]], [[berlin-blockade-1948]], [[soviet-union]], [[united-states]].
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] give a somewhat higher total —
+**$13 billion over 1947–1954** — channeled to **16 participating nations** through the
+**Organization for European Economic Cooperation (OEEC)**; this is a minor internal
+inconsistency within Paxton's own text (a $12 billion "European Recovery Program" figure
+appears elsewhere) rather than a contradiction with the $12.3 billion figure Hitchcock
+gives above for 1948–51 — the totals cover slightly different windows. Per-capita
+disbursement varied sharply: $29/capita to West Germany, $33 to Italy, $72 to France, $77
+to England, and $104 to Austria — a distribution that itself shaped the differential pace
+of national recovery. Marshall's Harvard speech is quoted with the same aim: "the revival
+of a working economy in the world so as to permit the emergence of political and social
+conditions in which free institutions can exist."
+
+Czechoslovak (and Polish and Hungarian) interest in participating, vetoed by Stalin under
+direct pressure (see the Naimark material above), is a direct causal link to the
+hardening of the Soviet bloc in late 1947–48 — [[west-germany|West German]] currency and
+institutional consolidation `contributed_to` the Soviet shift toward full-scale
+Sovietization of its own zone and satellite states (see [[east-germany]]).
+
+## Historiography
+
+The Plan's economic weight is debated: Milward argued Western European
+recovery was already underway and the Plan's dollars were marginal; DeLong
+and Eichengreen counter that its conditionality and psychological effect on
+investment made it "history's most successful structural adjustment program."
+Its political effects — hardening the East-West split (Cominform, the Czech
+reversal) — are common ground across schools; see the Cambridge History of
+the Cold War chapters and [[paxton-europe-twentieth-century-2011]].
 
 ## Related
 

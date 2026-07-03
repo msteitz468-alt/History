@@ -1,19 +1,18 @@
 ---
 title: Æthelfrith of Bernicia
 actor_type: person
-date_start: "592 or 593 (accession Bernicia)"
-date_end: "616 or 617 (killed at River Idle)"
+date_start: 592 or 593 (accession Bernicia)
+date_end: 616 or 617 (killed at River Idle)
 period: [Early Middle Ages]
-region: [british-isles]
+region: ["british-isles"]
+sources_ingested: [1]
+last_updated: "2026-06-27"
+tags: [actor, person, "early-middle-ages", "british-isles"]
 affiliated_with: [Bernicia, Deira]
+key_events: ["battle-of-chester-616", "battle-of-the-river-idle-616"]
+key_processes: ["early-anglian-settlement-of-britain"]
 opposed_by: [Deira (Eadwine), Dal Riata, Powys, East Anglia (Raedwald)]
-key_events: [battle-of-chester-616, battle-of-the-river-idle-616]
-key_processes: [early-anglian-settlement-of-britain]
-sources_ingested: 1
-last_updated: 2026-06-27
-tags: [actor, person, early-middle-ages, british-isles]
 ---
-
 ## Overview
 
 Æthelfrith was the pre-eminent warrior-king of the northern Angles in the early seventh century, ruling [[bernicia|Bernicia]] from 592 or 593 and extending his authority over [[deira|Deira]] by 604 or 605. He "was remembered as a brave ruler who subjected more land to the Angles than any king (presumably northern) before him." Bede compared him to the biblical King Saul. His defeat and death at the River Idle in 616 or 617 cleared the way for [[edwin-of-northumbria|Eadwine]] to reunite the northern Anglian hegemony under Deiran leadership, but the Bernician dynastic line — his sons Eanfrith, Oswald, and Oswiu — dominated Northumbrian kingship from 634 to 716.

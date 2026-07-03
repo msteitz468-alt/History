@@ -1,23 +1,22 @@
 ---
 title: Nuremberg Trials
-date_start: 1945-11-20
-date_end: 1949-04
+date_start: "1945-11-20"
+date_end: "1949-04"
 date_precision: exact
 period: [World Wars Era, Cold War]
-region: [central-europe]
+region: ["central-europe"]
+causes: [Allied victory and the December 1942 and Moscow Declaration commitments to retribution, "the documentary self-record of the Nazi state", the decision for judicial rather than summary punishment]
+consequences: [twelve death sentences among the major defendants, the precedents of crimes against humanity and criminal conspiracy for aggressive war, the evidentiary foundation of Third Reich historiography, "the Nuremberg Code (Doctors' Trial)"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "cold-war", "central-europe"]
+event_type: political
 location: [Nuremberg, Palace of Justice; successor trials across the occupation zones and Europe]
 actors_primary: [the International Military Tribunal (US, UK, USSR, France), the surviving Nazi leadership]
 actors_secondary: [US military tribunals (the twelve successor trials), national courts (Poland, the Frankfurt Auschwitz Trial 1963–65)]
-event_type: political
-scale_immediate: regional
 scale_consequential: global
-causes: [Allied victory and the December 1942 and Moscow Declaration commitments to retribution, the documentary self-record of the Nazi state, the decision for judicial rather than summary punishment]
-consequences: [twelve death sentences among the major defendants, the precedents of crimes against humanity and criminal conspiracy for aggressive war, the evidentiary foundation of Third Reich historiography, the Nuremberg Code (Doctors' Trial)]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [event, world-wars-era, cold-war, central-europe]
+scale_immediate: regional
 ---
-
 # The Nuremberg Trials (1945–1949)
 
 Per [[evans-third-reich-at-war-2008|Evans (2008)]].
@@ -34,6 +33,18 @@ The International Military Tribunal tried the "major war criminals" November 194
 
 The trials created the documentary spine of the field (Shirer built *The Rise and Fall of the Third Reich* on them) and the crimes-against-humanity precedent; the standing critiques — victor's justice, the Soviet bench (Katyn charged to Germany), retroactivity — are inseparable from their achievement. See [[denazification-1945-1955]] for the mass-level counterpart.
 
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] corroborate the verdict
+tally above (trial November 20, 1945 – October 1946) and add that contemporary German
+public reaction was largely skeptical, regarding the tribunal as "victors' justice" —
+consistent with the collapsing approval ratings for denazification generally (see
+[[denazification-1945-1955]]). They frame the trial's larger significance as
+establishing a durable jurisprudence of "crimes against humanity" later invoked in West
+Germany's own 1960s Auschwitz-guard prosecutions — i.e., the Frankfurt Auschwitz Trial
+already discussed above.
+
 ## Sources
 
 - [[evans-third-reich-at-war-2008]]
+- [[paxton-europe-twentieth-century-2011]]

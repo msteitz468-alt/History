@@ -1,19 +1,18 @@
 ---
 title: Konrad Adenauer
 actor_type: person
-date_start: 1876-01-05
-date_end: 1967-04-19
+date_start: "1876-01-05"
+date_end: "1967-04-19"
 period: [World Wars Era, Cold War]
-region: [western-europe]
-affiliated_with: [CDU, west-germany, NATO, EEC, ECSC]
-opposed_by: [SPD under Schumacher, east-germany, Soviet Union]
-key_events: [german-defeat-occupation-1945, german-reunification-1990]
-key_processes: [two-germanies-cold-war, german-european-integration, vergangenheitsbewaltigung]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [actor, person, Cold War, western-europe]
+region: ["western-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, person, Cold War, "western-europe"]
+affiliated_with: [CDU, "west-germany", NATO, EEC, ECSC]
+key_events: ["german-defeat-occupation-1945", "german-reunification-1990"]
+key_processes: ["two-germanies-cold-war", "german-european-integration", vergangenheitsbewaltigung]
+opposed_by: [SPD under Schumacher, "east-germany", Soviet Union]
 ---
-
 ## Role and Title
 
 Konrad Adenauer served as the first Chancellor of the Federal Republic of Germany from 15 September 1949 to 15 October 1963 — the longest chancellorship in FRG history. He simultaneously served as Chairman of the CDU in the British Zone from 1946 and as founding chairman of the national CDU. He was also a co-founder of the Council of Europe and a signatory to the Treaties of Paris and Rome.
@@ -35,6 +34,24 @@ Born 5 January 1876 in Cologne to a Catholic civil servant family, Adenauer rose
 **Governing style (Kanzlerdemokratie):** Adenauer dominated the FRG's political system through forceful use of the chancellor's constitutional prerogatives and the CDU's organizational strength. His style was patriarchal, secretive, and at times contemptuous of parliamentary procedures — critics called him "Der Alte" (the Old One) with a mixture of affection and unease. He used informal channels and personal relationships (especially with American Secretary of State John Foster Dulles and French President de Gaulle) rather than bureaucratic processes. The 1962 Spiegel Affair, in which his defense minister Franz Josef Strauß orchestrated the arrest of journalists who had published classified material, revealed the limits of Adenauer's commitment to press freedom and contributed to his political decline.
 
 **Hans Globke:** The persistent scandal of Hans Globke — Adenauer's State Secretary and head of the Chancellery, who had written the official commentary on the Nuremberg racial laws — embodied the FRG's ambiguous relationship with the Nazi past in the Adenauer era. Globke was defended by Adenauer as indispensable; the GDR exploited the scandal for propaganda purposes. The retention of former Nazis in public positions was a genuine moral failing of the early FRG, however pragmatically explicable.
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] corroborate and extend the
+picture above. Politically: Adenauer's **"No Experiments!"** slogan carried the CDU to
+its first and only outright majority in the 1957 election. On rearmament: though the
+FRG formally joined NATO in 1951 by treaty framework, actual rearmament was delayed to
+1955 amid substantial public "**Ohne mich**" ("without me") sentiment — a pacifist
+reflex barely a decade removed from total defeat. On the Israel reparations: Paxton &
+Hessler frame it as a genuine act of reconciliation carried through "considerable
+coalition and public opposition." Against this, they set a troubling counterpoint: a
+**May 1951 law reinstated some 150,000 de-Nazified public officials**, and the Hans
+Globke case (noted above) exemplifies the pattern — Globke had been a principal author
+of the official commentary on the Nuremberg Laws. Adenauer's dual legacy — genuine
+reconciliation with Israel alongside problematic reintegration of ex-Nazi
+officialdom — `contributed_to` West German political stability in the short run but
+remains separately and critically assessed by historians (cf. Eric Weitz, "The
+Ever-Present Other," in Hanna Schissler, ed., *The Miracle Years*, 2001).
 
 ## Counterfactual Significance
 

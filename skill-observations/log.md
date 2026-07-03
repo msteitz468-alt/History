@@ -759,3 +759,34 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 **Suggested improvement:** For fascism/extremist-ideology sources, assume any range can be blocked; keep ranges sized so single-range main-thread recovery stays cheap (this session's ~2,000-line ranges were right), and don't spend effort predicting which range will trip the filter.
 
 **Principle:** The triage rule's routing logic (recover, never respawn or soften) is validated; its *prediction* logic is not — plan for random block placement in ideology-dense sources.
+
+### Observation 55: Scaffold step should include a duplicate-page pre-check; agents keep tripping over existing duplicates
+
+**Status:** OPEN
+**Date:** 2026-07-02
+**Session context:** Paxton *Europe in the Twentieth Century* ingest (10 extraction + 3 integration subagents)
+**Skill:** Deployed Subagent Ingest workflow (CLAUDE.md)
+**Type:** internal
+**Phase/Area:** Step 1 (scaffold) / Step 4 (reconcile)
+
+**Issue:** Three independent extraction agents each separately discovered and flagged the same pre-existing duplicate pages (charles-de-gaulle.md vs de-gaulle-charles.md; french-indochina under both processes/ and actors/), burning tokens re-detecting a known-class problem, and each had to guess which to link.
+
+**Suggested improvement:** In Step 1, before spawning agents, run a quick surname-collision scan over the page list for the actors the ingest will touch (e.g. grep both name orders) and state the canonical name in every agent prompt; queue duplicates for main-thread merge in Step 4.
+
+**Principle:** Pre-resolving naming ambiguity once on the main thread is cheaper than letting N agents each rediscover and work around it.
+
+### Observation 56: Subagent chunk briefs must not assert chapter content beyond what the TOC supports
+
+**Date:** 2026-07-02
+**Session context:** Flynn *Country Squire in the White House* (1940) ingest, 2-agent artifact-mode extraction
+**Skill:** Deployed Subagent Strategy (CLAUDE.md ingest workflow)
+**Type:** internal
+**Phase/Area:** Step 3 — subagent prompt drafting
+
+**Issue:** The CSQ-B brief described Ch. IV "The Crisis" as covering the 1937–38 recession (inferred from the chapter title + book position); the chapter actually covers the 1933 banking crisis. The agent correctly extracted the real content and flagged the mismatch, but a less careful agent could have force-fitted extraction to the wrong frame or wasted effort hunting for absent material.
+
+**Suggested improvement:** When drafting chunk briefs from TOC titles alone, phrase content descriptions as expectations ("likely covers X — verify against the text; extract what is actually there"), not assertions. Alternatively, spot-read the first ~10 lines of each chapter while drawing boundaries — it costs seconds and grounds the brief.
+
+**Principle:** Subagent instructions are treated as ground truth by the agent; any unverified inference embedded in them becomes a potential extraction bias. State inferences as hypotheses and instruct agents to privilege the text over the brief (which CSQ-B did — the "flag ambiguities" instruction plus obs-39-style self-reporting worked as designed).
+
+**Status:** OPEN

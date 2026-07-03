@@ -1,17 +1,16 @@
 ---
 title: World Wars Era
 period_number: 22
-preceded_by: [[long-19th-century|Long 19th Century]]
-followed_by: [[cold-war|Cold War]]
 date_range: 1914–1945 CE
-regions_covered: [global, western-europe, eastern-europe, east-asia, near-east, north-america, africa]
-major_themes: [total war, the return of global war, genocide, communism and fascism, the Great Depression, the second demographic and industrial surge, decolonization's prelude]
+regions_covered: [global, "western-europe", "eastern-europe", "east-asia", "near-east", "north-america", africa]
 collection_coverage: moderate
-sources_ingested: 20
-last_updated: 2026-06-25
+sources_ingested: [21]
+last_updated: "2026-07-02"
 tags: [period]
+followed_by: ["[cold-war|Cold War]"]
+major_themes: [total war, the return of global war, genocide, communism and fascism, the Great Depression, the second demographic and industrial surge, "decolonization's prelude"]
+preceded_by: ["[long-19th-century|Long 19th Century]"]
 ---
-
 # World Wars Era (1914–1945 CE)
 
 ## Overview
@@ -38,13 +37,15 @@ and discredited liberal capitalism across much of the world.
 
 **1933–1934 German Consolidation (Kershaw, Hubris Range 04)**: 30 Jan 1933 Hitler appointed Chancellor by Hindenburg (conservative miscalculation). Reichstag Fire Decree suspended liberties. Enabling Act (23 Mar) allowed Reichstag to vote itself out of existence (441–94, Zentrum support under SA intimidation). Spring/summer *Gleichschaltung*: institutions coordinated themselves 'voluntarily and with alacrity'; Reich Governors (7 Apr) undermined Länder. All opposition parties eliminated by summer. SA threat removed in 'Night of the Long Knives' (30 June 1934): Hitler personally arrested Röhm at Bad Wiessee; 'I gave the order to shoot...'; army welcomed ('We love him because he has shown himself a true soldier'). Hindenburg death 2 Aug 1934 completed total power. 'The rapidity of the transformation... was astounding.' `produced:` [[nazi-germany]]; `part_of:` World Wars Era.
 
-**1936–early 1938: Hubris to Expansion (Kershaw Nemesis Range 1)**: Rhineland 7 Mar 1936 as pivot: 'struggle for German equal rights... closed'; 98.9% acclaim; West inert. 'By 1936... outright hubris.' Four-Year Plan (Sept 1936): autarky + 'living space' locked; Göring empire. Spanish intervention (25 Jul 1936) ideological (Bolshevism). Axis + Anti-Comintern. 'Jews must get out of... whole of Europe. The Führer is firmly decided.' Hoßbach 5 Nov 1937: Austria/Czech 'lightning fast' by 1943–5 or earlier. Blomberg–Fritsch crisis (Jan–Feb 1938): Hitler takes Wehrmacht command; purge; Ribbentrop at Foreign Office. Anschluss Mar 1938: Berchtesgaden bullying, plebiscite gamble, full incorporation 13 Mar, Vienna Heldenplatz, ferocious repression in Austria. Goebbels: 'First comes now Czechia... drastically.' Papen: Hitler 'impervious to... moderation.' `produced:` [[events/anschluss-1938]]; `contributed_to:` [[events/sudeten-crisis-1938]], war decision. `part_of:` World Wars Era radicalization.
+**1936–early 1938: Hubris to Expansion (Kershaw Nemesis Range 1)**: Rhineland 7 Mar 1936 as pivot: 'struggle for German equal rights... closed'; 98.9% acclaim; West inert. 'By 1936... outright hubris.' Four-Year Plan (Sept 1936): autarky + 'living space' locked; Göring empire. Spanish intervention (25 Jul 1936) ideological (Bolshevism). Axis + Anti-Comintern. 'Jews must get out of... whole of Europe. The Führer is firmly decided.' Hoßbach 5 Nov 1937: Austria/Czech 'lightning fast' by 1943–5 or earlier. Blomberg–Fritsch crisis (Jan–Feb 1938): Hitler takes Wehrmacht command; purge; Ribbentrop at Foreign Office. Anschluss Mar 1938: Berchtesgaden bullying, plebiscite gamble, full incorporation 13 Mar, Vienna Heldenplatz, ferocious repression in Austria. Goebbels: 'First comes now Czechia... drastically.' Papen: Hitler 'impervious to... moderation.' `produced:` [[events/anschluss-1938]]; `contributed_to:` Sudeten Crisis 1938, war decision. `part_of:` World Wars Era radicalization.
 
 **1941-42 winter crisis & 1942 turning points (Kershaw Nemesis Range 04):** 'Stand-fast' no-retreat orders (Dec 1941): 'There can be no question of a withdrawal... fanatical will... even the toughest.' Hitler assumes direct army command ('little matter of operational command'). Generals sacked for retreat/pessimism. 'The winter of 1941–2... not merely a turning-point, but the beginning of the end.' 1942 total war: Speer after Todt; 26 Apr Reichstag absolute powers ('Hitler now was the law'). Directive 45: simultaneous Stalingrad + Caucasus ('sheer lunacy'); Halder 'extended the risk too far' / 'pathological reacting'; Hitler 'If I don’t get the oil of Maykop and Grozny, then I must finish this war.' Stalingrad: 'nobody will get us away from this place again!' Beginning of nemesis per Kershaw. `contributed_to:` [[events/battle-of-stalingrad-1942]], total war processes, internal regime dynamics. `part_of:` World Wars Era.
 
 **Munich crisis, Kristallnacht and Czech liquidation (Kershaw Nemesis Range 02, 1938–March 1939)**: Munich Agreement (late Sept 1938) followed Godesberg ultimatum and last-minute Mussolini mediation; Hitler felt 'cheated' of military triumph over Czechs ('Our enemies are small worms. I saw them in Munich'). Göring influence waned; popular mood showed relief not 1914 war enthusiasm. Kristallnacht (9–10 Nov 1938): Hitler authorized Goebbels' 'demonstrations' ('let the demonstrations continue. Pull back the police. The Jews should for once get to feel the anger of the people'); ~100 synagogues burned, 8k shops destroyed, 20–30k Jews arrested, ~100 murdered. Radical economic measures followed (1 billion Mark fine, aryanization); policy handed to SS/Heydrich. Explicit 'working towards the Führer'. 30 Jan 1939 Reichstag 'prophecy': war would bring 'the annihilation of the Jewish race in Europe'. 21 Oct 1938 directive prepared liquidation of remainder of Czechoslovakia for economic (Skoda arms for 20 divisions, industry, gold) and strategic (platform for east) reasons. 15 March 1939 occupation established Protectorate; 'big plan' realized. Memel followed. `produced:` [[events/kristallnacht-1938]], [[events/occupation-of-czecho-slovakia-1939]]; `contributed_to:` [[events/invasion-of-poland-1939]] and 1939 war decision.
 
 **Poland campaign and early occupation (Kershaw Nemesis Range 02, Sept–Oct 1939)**: 1 Sept invasion (Case White) produced rapid 18-day victory. Heydrich 21 Sept plans (Führer-approved): Jewish deportation to 'foreign-speaking Gau', ghettos, leadership liquidation, Poles as migrant labour. Selbstschutz and Einsatzgruppen mass executions ('decided by the Führer'). Hitler: Poles 'more animals than human beings'; 'Asia begins in Poland'; 'hard ethnic struggle... purify the Reich area too of Jews and Polacks'; 'the devil’s work'. 17 Oct meeting formalized General Government as law-free labour reservoir outside Reich. Army–SS tensions (Blaskowitz reports); Brauchitsch accommodation ('ordered by the Führer'). 'Working towards' in Warthegau: Greiser invoked personal Führer powers; 'brutal, harsh, and again harsh'; Hitler cared only that area be 'purely German' after 10 years ('methods... not pretty' immaterial). Parallel euthanasia authorization (backdated 1 Sept 1939) to Bouhler/Brandt for incurably ill ('mercy-death'; no law; 'will of the Führer' as source of law). Near-genocidal 'ethnic cleansing' as training ground for 1941. `part_of:` World Wars Era radicalization and total war.
+
+**The mood of August 1914** ([[paxton-europe-twentieth-century-2011|Paxton and Hessler]]). More than 5 million young European men responded to the call-up in the first days of August 1914; many boarded troop trains with genuine popular enthusiasm, egged on by government propaganda and nationalist intellectuals on both sides. English poet Robert Graves (who had German uncles and a German middle name) recalled pre-war schoolboy anti-German sentiment: "German meant 'dirty German' ... cheap, shoddy goods competing with our sterling industries ... military menace, Prussianism." The popular readiness for war reflected decades of press-driven, schooling-driven national mythmaking (see [[nationalism]]) rather than spontaneous reaction to the July Crisis alone.
 
 ## Major Developments
 
@@ -60,8 +61,8 @@ The intellectual transition from the World Wars Era to the Cold War was therefor
 
 ## Key Actors
 
-- States and alliances: [[germany|Germany]] (Imperial and Nazi), [[austria-hungary|Austria-Hungary]], [[british-empire|British Empire]], [[france|France]], [[russia|Russia]]/[[soviet-union|Soviet Union]], [[united-states|United States]], [[japan|Japan]], [[italy|Italy]], [[china|China]].
-- Individuals: [[wilson-woodrow|Woodrow Wilson]], [[lenin-vladimir|Vladimir Lenin]], [[stalin-joseph|Joseph Stalin]], [[hitler-adolf|Adolf Hitler]], [[mussolini-benito|Benito Mussolini]], [[churchill-winston|Winston Churchill]], [[roosevelt-franklin|Franklin D. Roosevelt]], [[mao-zedong|Mao Zedong]], [[chiang-kai-shek|Chiang Kai-shek]], [[tojo-hideki|Hideki Tojo]], military commanders (Foch, Ludendorff, Eisenhower, Patton, Zhukov, Rommel, Yamamoto, Nimitz, MacArthur), air theorists (Douhet, Trenchard, Mitchell, Harris, LeMay).
+- States and alliances: Germany (Imperial and Nazi), Austria-Hungary, [[british-empire|British Empire]], [[france|France]], Russia/[[soviet-union|Soviet Union]], [[united-states|United States]], [[japan|Japan]], [[italy|Italy]], [[china|China]].
+- Individuals: [[wilson-woodrow|Woodrow Wilson]], [[lenin-vladimir|Vladimir Lenin]], [[stalin-joseph|Joseph Stalin]], Adolf Hitler, [[mussolini-benito|Benito Mussolini]], [[churchill-winston|Winston Churchill]], [[roosevelt-franklin-d|Franklin D. Roosevelt]], [[mao-zedong|Mao Zedong]], Chiang Kai-shek, Hideki Tojo, military commanders (Foch, Ludendorff, Eisenhower, Patton, Zhukov, Rommel, Yamamoto, Nimitz, MacArthur), air theorists (Douhet, Trenchard, Mitchell, Harris, LeMay).
 - Movements and institutions: communist and fascist parties, the League of Nations, the United Nations (founded 1945), resistance movements, colonial nationalist movements.
 
 ## Geographic Scope

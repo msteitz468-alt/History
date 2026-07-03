@@ -1,20 +1,19 @@
 ---
 title: Æthelbald of Mercia
 actor_type: person
-date_start: "716"
-date_end: "757"
-date_precision: approximate
+date_start: 716
+date_end: 757
 period: [Early Middle Ages]
-region: [british-isles]
-affiliated_with: [[mercia]]
-opposed_by: [[kingdom-of-wessex], [kingdom-of-northumbria]]
-key_events: []
-key_processes: [[christianisation-of-anglo-saxon-england]]
-sources_ingested: 1
-last_updated: 2026-06-27
-tags: [actor, person, early-middle-ages, british-isles]
+region: ["british-isles"]
+sources_ingested: [1]
+last_updated: "2026-06-27"
+tags: [actor, person, "early-middle-ages", "british-isles"]
+date_precision: approximate
+affiliated_with: ["[mercia]"]
+key_events: ""
+key_processes: ["[christianisation-of-anglo-saxon-england]"]
+opposed_by: ["[kingdom-of-wessex]", "[kingdom-of-northumbria]"]
 ---
-
 ## Overview
 
 Æthelbald, son of Alwih and a descendant of Penda's brother Eowa, was king of the Mercians from 716 to 757 — the first ruler to achieve an effective overlordship of all the kingdoms south of the Humber since Oswiu of Northumbria. Bede wrote by 731 that "all the kingdoms south of the Humber were subject to Æthelbald, king of the Mercians" (HE V, 23). He was assassinated at Seckington by his own bodyguard in 757.

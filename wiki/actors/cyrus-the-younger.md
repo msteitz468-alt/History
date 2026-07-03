@@ -4,16 +4,15 @@ actor_type: person
 date_start: c. 423 BCE (born)
 date_end: 401 BCE (killed at the battle of Cunaxa)
 period: [Classical Antiquity]
-region: [anatolia, mesopotamia, iran-plateau]
-affiliated_with: [[[achaemenid-empire|Achaemenid Persia]], [[sparta]], [[lysander]], the Ten Thousand]
-opposed_by: [[[artaxerxes-ii|Artaxerxes II]] (his brother), Tissaphernes]
-key_events: [appointment as karanos of western Asia Minor 407 BCE, funding of the Spartan fleet, the march upcountry and the [[march-of-the-ten-thousand-401bce|battle of Cunaxa]] 401 BCE]
-key_processes: [Persian involvement in the [[peloponnesian-war]], inter-satrapal rivalry]
-sources_ingested: 1
-last_updated: 2026-06-11
-tags: [actor, person, classical-antiquity, anatolia]
+region: [anatolia, mesopotamia, "iran-plateau"]
+sources_ingested: [1]
+last_updated: "2026-06-11"
+tags: [actor, person, "classical-antiquity", anatolia]
+affiliated_with: ["[[achaemenid-empire|Achaemenid Persia]]", "[[sparta]]", "[[lysander]]", the Ten Thousand]
+key_events: [appointment as karanos of western Asia Minor 407 BCE, funding of the Spartan fleet, "the march upcountry and the [[march-of-the-ten-thousand-401bce|battle of Cunaxa]] 401 BCE"]
+key_processes: ["Persian involvement in the [[peloponnesian-war]]", "inter-satrapal rivalry"]
+opposed_by: ["[[artaxerxes-ii|Artaxerxes II]] (his brother)", Tissaphernes]
 ---
-
 # Cyrus the Younger
 
 ## Overview

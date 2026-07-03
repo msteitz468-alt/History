@@ -2,16 +2,16 @@
 title: Leonid Brezhnev
 actor_type: person
 date_start: 1906
-date_end: 1982-11-10
+date_end: "1982-11-10"
 period: [Cold War]
-region: [eastern-europe]
-affiliated_with: [[soviet-union|Soviet Union]], [[bolshevik-party|Bolshevik Party]]]
-opposed_by: [[united-states|United States]] (ideologically), Soviet Dissidents]
-key_events: [[prague-spring-1968|Prague Spring / Invasion of Czechoslovakia]], [[soviet-war-in-afghanistan-1979|Soviet-Afghan War]]]
-key_processes: [[brezhnev-stagnation|Brezhnev Stagnation]]
-sources_ingested: 5
-last_updated: 2026-06-22
-tags: [actor, person, cold-war, eastern-europe]
+region: ["eastern-europe"]
+sources_ingested: [6]
+last_updated: "2026-07-02"
+tags: [actor, person, "cold-war", "eastern-europe"]
+affiliated_with: ["[soviet-union|Soviet Union]]", "[[bolshevik-party|Bolshevik Party]]"]
+key_events: ["[prague-spring-1968|Prague Spring / Invasion of Czechoslovakia]]", "[[soviet-war-in-afghanistan-1979|Soviet-Afghan War]]"]
+key_processes: ["[brezhnev-stagnation|Brezhnev Stagnation]"]
+opposed_by: ["[united-states|United States]] (ideologically)", Soviet Dissidents]
 ---
 # Leonid Brezhnev
 ## Biography / Description
@@ -62,6 +62,28 @@ Détente destabilized Soviet priorities too; "it was not even clear anymore what
 From [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]] (Hopf on 1945–2000 foreign policy, ll. 17005, 17703): Brezhnev era context in 'The invasion of Hungary stalled the Thaw in the Soviet Union.' Broader: 'The post-Stalinist discourse of difference multiplied allies in the Third World, but entailed the loss of China as an ally and spurred the quest for difference in Eastern Europe. Subsequent suppression of the latter, combined with support for NLMs, led to a Soviet Union encircled by states allied against it.' (ll. 17005, 17703). taxonomy: contributed_to encirclement and [[cold-war]] tensions; part_of stagnation foreign policy costs. Added to Key Decisions (détente/Afghanistan) and Historiography.
 
 From [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]] (index, ll. 22001–27000): "stagnation (1970s–1980s) 308, 310, 319, 383" (ll. ~24579); "cultural stagnation ( zastoi) 298–9, 617–29" (ll. ~22867); "Brezhnev Doctrine (orthodoxy) 300" (ll. ~24047); "suppression of 1968 ‘Prague Spring’ 41, 299–300, 306" (ll. ~24067). taxonomy: part_of Brezhnev era stability and decline; produced Doctrine; concurrent_with cultural controls. Updated Key Decisions and Historical Significance.
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] give the **Brezhnev
+Doctrine**'s fuller textual basis: a November 1968 speech to Polish Communists asserted
+that the establishment of a communist government "can be regarded as final" and that
+military intervention to protect "the socialist commonwealth as a whole" was justified.
+They note historians differ on how binding this was in practice: Brezhnev approved
+intervention in Czechoslovakia (1968) and, indirectly via the 1979 Khalq government, in
+Afghanistan, but personally resisted advisers pushing for invasion of Poland during the
+Solidarity crisis of 1980–81 — KGB chief Yuri Andropov reportedly warned that "the
+quota of interventions abroad has already been exhausted," since Moscow could not
+afford to finance an occupation of an economically ruined Poland. The doctrine was
+explicitly repudiated by Gorbachev on October 7, 1989, in Berlin.
+
+On Afghanistan, Paxton & Hessler add that the December 1979 invasion was triggered by
+the assassination of Khalq's pro-Soviet prime minister by rival Hafizullah Amin; Soviet
+special forces killed Amin during the invasion itself. The war lasted until 1988,
+involved some 100,000 Soviet troops, saw napalm, poison gas, and incendiaries used
+against civilians, devastated Afghanistan, and demoralized the Soviet military — a
+contributing, not sole, cause of the later domestic pressure for change that produced
+Gorbachev's reforms.
 
 ## Counterfactual Significance
 A different post-1964 leader might have pursued Kosygin's reforms more vigorously or avoided the 1968 invasion, but the fundamental unwillingness of the Stalin-generation élite to risk the compound's foundations would have limited change. The "stability of cadres" policy entrenched localism and corruption that later reformers found almost impossible to uproot. The 18-year reign postponed but did not prevent the reckoning.

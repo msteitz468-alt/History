@@ -1,23 +1,22 @@
 ---
 title: July Plot (20 July 1944 Assassination Attempt on Hitler)
-date_start: 1944-07-20
-date_end: 1944-07-20
+date_start: "1944-07-20"
+date_end: "1944-07-20"
 date_precision: exact
 period: [World Wars Era]
-region: [germany, eastern-europe]
-location: ["Wolf's Lair (Wolfsschanze), near Rastenburg, East Prussia"]
+region: [germany, "eastern-europe"]
+causes: [military collapse on eastern and western fronts 1943–44 (Stalingrad, Kursk, Normandy, Army Group Centre disaster), radicalization and terror in defeat, opposition networks (Tresckow group, Abwehr remnants, Kreisau Circle, Goerdeler circle) concluding no other path to save Reich or conscience, Stauffenberg access via home army conferences]
+consequences: [failed to kill Hitler or trigger successful coup (bomb exploded but Hitler survived with minor injuries; Valkyrie plan partially activated but crushed), savage purge of army officers, civilians, and suspected plotters (executions, suicides including Tresckow), intensified terror and radicalization of regime, "further isolation of Hitler; accelerated self-destructive dynamics", "last major internal German attempt to end Nazi rule and war from within; demonstrated 'another Germany' to Allies and history but came too late to alter military outcome"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", germany, "adolf-hitler", "july-plot", stauffenberg, resistance, "second-world-war"]
+event_type: assassination / coup / transition
+location: ["Wolf's Lair (Wolfsschanze)", near Rastenburg, East Prussia]
 actors_primary: ["stauffenberg-claus-schenk-graf-von", "hitler-adolf", "tresckow-henning-von"]
 actors_secondary: ["fromm-friedrich", "kluge-gunther-von", "model-walter", "guderian-heinz"]
-event_type: assassination / coup / transition
-scale_immediate: regional
 scale_consequential: civilizational
-causes: ["military collapse on eastern and western fronts 1943–44 (Stalingrad, Kursk, Normandy, Army Group Centre disaster)", "radicalization and terror in defeat", "opposition networks (Tresckow group, Abwehr remnants, Kreisau Circle, Goerdeler circle) concluding no other path to save Reich or conscience", "Stauffenberg access via home army conferences"]
-consequences: ["failed to kill Hitler or trigger successful coup (bomb exploded but Hitler survived with minor injuries; Valkyrie plan partially activated but crushed)", "savage purge of army officers, civilians, and suspected plotters (executions, suicides including Tresckow)", "intensified terror and radicalization of regime", "further isolation of Hitler; accelerated self-destructive dynamics", "last major internal German attempt to end Nazi rule and war from within; demonstrated 'another Germany' to Allies and history but came too late to alter military outcome"]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, germany, adolf-hitler, july-plot, stauffenberg, resistance, second-world-war]
+scale_immediate: regional
 ---
-
 # July Plot (20 July 1944 Assassination Attempt on Hitler)
 
 **Event page grounded in Ian Kershaw, *Hitler 1936–1945: Nemesis* (2000), primarily Range 05/06 cache extraction (lines ~22801–34200).**
@@ -77,3 +76,7 @@ Cross-references: [[hubs/biographies/world-wars-era/adolf-hitler]] (detailed res
 **Reprisals.** ~5,000 arrested, ~1,000 dead including the suicides of Tresckow ("Hitler is the arch-enemy not only of Germany but of the whole world"), Kluge, and — offered the choice of poison-with-state-funeral or trial — Rommel. Freisler's People's Court humiliated the defendants (no belts or braces); hangings at Plötzensee used thin rope for slow strangulation and were filmed for Hitler's viewing. Sippenhaft, justified by Himmler as "old Germanic tradition," imprisoned the conspirators' families; Stauffenberg's children were renamed in an orphanage.
 
 **Evans's assessment.** The failure was both contingent (one bomb, uncut wires, Fromm and Kluge wavering) and structural: a tiny base, the oath, fear of a second stab-in-the-back legend, a backward-looking program without popular appeal, and Allies who would not have negotiated (London read the news as an internal Nazi squabble). He is equally firm on the non-hagiographic record — Stülpnagel, Schulenburg, Helldorf, and Nebe were prior perpetrators, and Goerdeler's 1942 memorandum still proposed racial classification of surviving Jews (by 1944 he condemned the persecution outright) — and on the moral bottom line: success might have shortened the war, "saving millions of lives . . . This alone was more than enough justification for the undertaking." Yorck von Wartenburg's last letter: "My actions were influenced solely by my patriotic feeling, my concern for my Germany as it has grown over the past two thousand years." Source: [[evans-third-reich-at-war-2008]]
+
+## From Paxton and Hessler, *Europe in the Twentieth Century* (2011)
+
+Stauffenberg's plot of 20 July 1944 is placed by Paxton and Hessler among the more ambitious of the wartime conspiracies against Hitler in its aims: the conspirators intended, had the coup succeeded, to close the concentration camps, abolish the SS outright, and pursue a separate peace with the Western Allies while continuing to resist the Soviets in the East. The reprisals following the plot's failure were extreme even by regime standards, including executions in which victims were hung on meat hooks. Dietrich Bonhoeffer was one of four clergy executed in the purge that followed the plot. Source: [[paxton-europe-twentieth-century-2011]].

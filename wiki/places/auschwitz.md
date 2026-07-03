@@ -1,17 +1,16 @@
 ---
 title: Auschwitz
 place_type: other
-modern_equivalent: [Oświęcim, Poland]
-coordinates: [50.03 N, 19.18 E]
 period_active: [World Wars Era]
-controlled_by: [[[nazi-germany]], [[schutzstaffel-ss]]]
-events_here: [[[the-holocaust]]]
-processes_here: []
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [place, eastern-europe, world-wars-era]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [place, "eastern-europe", "world-wars-era"]
+controlled_by: ["[[nazi-germany]]", "[[schutzstaffel-ss]]"]
+coordinates: [50.03 N, 19.18 E]
+events_here: ["[[the-holocaust]]"]
+modern_equivalent: [Oświęcim, Poland]
+processes_here: ""
 ---
-
 # Auschwitz
 
 **Auschwitz** (Oświęcim, annexed Upper Silesia) was the largest Nazi camp complex: Auschwitz I (concentration camp, opened 1940), Auschwitz II–Birkenau (extermination and concentration camp, gassing with Zyklon B from 1942), and Auschwitz III–Monowitz (IG Farben's Buna synthetic-rubber works), plus dozens of subcamps. Around 1.1 million people were murdered here, roughly one million of them Jews — the largest single killing site of [[the-holocaust|the Holocaust]] and the destination of deportations from across occupied Europe, including 430,000 Hungarian Jews in summer 1944. Evacuated in January 1945 ahead of the Red Army in the [[death-marches-1944|death marches]]; liberated 27 January 1945. Documented for the wiki from [[evans-third-reich-at-war-2008|Evans, *The Third Reich at War* (2008)]].
@@ -27,6 +26,8 @@ Per [[evans-third-reich-at-war-2008|Evans (2008)]]: opened April 1940 in a forme
 **The perpetrator community.** Evans dwells on Auschwitz as "in many ways a model German town in the newly conquered east": 7,000 SS served there in all, with theatres, a pub, family houses, and the IG Farben Monowitz plant; Höss's wife kept "a paradise of flowers" beside the perimeter while Höss watched "coldly, while the mothers with laughing or crying children went into the gas-chambers" (his memoir, quoted at length by Evans, with the woman's question preserved: "How can you bring yourself to kill such beautiful, darling children? Have you no heart at all?"). Himmler observed a full selection and gassing on 17–18 July 1942, had "no criticisms to make," and promoted Höss.
 
 Evacuated January 1945 in the [[death-marches-1944|death marches]]; liberated by the Red Army 27 January 1945.
+
+Paxton and Hessler's *Europe in the Twentieth Century* (2011) locate Auschwitz among the extermination camps established in the General Government from spring 1942, noting its dual function combining industrialized killing with forced labor for Krupp and IG Farben — see [[the-holocaust]] for the fuller account. Source: [[paxton-europe-twentieth-century-2011]].
 
 ## Related
 

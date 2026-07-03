@@ -1,19 +1,18 @@
 ---
 title: Gustav Stresemann
 actor_type: person
-date_start: 1878-05-10
-date_end: 1929-10-03
+date_start: "1878-05-10"
+date_end: "1929-10-03"
 period: [World Wars Era]
-region: [western-europe]
-affiliated_with: [["weimar-republic|German People's Party (DVP)"], ["weimar-republic|Weimar Republic"]]
-opposed_by: [["weimar-republic|NSDAP, KPD, Pan-Germans"]]
-key_events: [ruhr-crisis-1923, locarno-treaties-1925, dawes-plan-1924, weimar-germany-league-of-nations-1926]
-key_processes: [weimar-democracy-and-its-collapse, german-war-economy-1914-1945]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [actor, person, world-wars-era, western-europe]
+region: ["western-europe"]
+sources_ingested: [3]
+last_updated: "2026-07-02"
+tags: [actor, person, "world-wars-era", "western-europe"]
+affiliated_with: ["[\"weimar-republic|German People's Party (DVP)\"]", "[\"weimar-republic|Weimar Republic\"]"]
+key_events: ["ruhr-crisis-1923", "locarno-treaties-1925", "dawes-plan-1924", "weimar-germany-league-of-nations-1926"]
+key_processes: ["weimar-democracy-and-its-collapse", "german-war-economy-1914-1945"]
+opposed_by: ["NSDAP, KPD, Pan-Germans"]
 ---
-
 ## Role and Significance
 
 Gustav Stresemann (1878–1929) served as Chancellor of Germany briefly in 1923 and as Foreign Minister from 1923 until his death in October 1929 — a tenure of nearly six years that represented the most stable and internationally productive period of the [[weimar-republic]]. He is "Weimar's most famous foreign Minister" ([[smith-oxford-modern-german-history-2011]], ch. 18).
@@ -54,6 +53,45 @@ People's Party, which then "gravitated rapidly towards the far right" (under
 Dingeldey it dissolved itself in July 1933; see
 [[dissolution-of-german-parties-1933]]).
 
+## Domestic Politics (Paxton & Hessler 2011)
+
+Domestically, Stresemann was a *Vernunftrepublikaner* ("republican of the
+mind, not the heart") — a former supporter of wartime German expansion,
+shocked by the 1918 revolution, who nonetheless brought his People's Party
+into the "Great Coalition" (August–November 1923) as a lesser evil after
+being offended by the Kapp Putsch and the nationalist assassinations of
+Erzberger and Rathenau. His decisive, resolute suppression of the Left
+(Saxony/Thuringia) contrasted sharply with his relative leniency toward the
+Right (Bavaria/Hitler) until the [[beer-hall-putsch-1923|Beer Hall Putsch]]
+on 8 November 1923 — an asymmetry that cost him Social Democrat support and
+pushed Weimar governance to the center-right for the next four years.
+Source: [[paxton-europe-twentieth-century-2011]].
+
+## Paxton/Gatzke: The Staged Revisionist Strategy (Evidentiary Note)
+
+The page's existing "Strategic Vision" section already resists a pure
+conciliator/peacemaker reading of Stresemann — it explicitly holds that his
+post-1923 pivot was "a pragmatic adaptation, not an ideological conversion —
+the methods changed, the goal of German power restoration did not." Paxton
+and Hessler ([[paxton-europe-twentieth-century-2011]], pp. 166–167) supply
+the sharpest documentary evidence for that reading, so no [CONTRADICTION]
+flag is required here — this is corroboration, not a conflicting claim.
+
+Citing a private memorandum Stresemann sent on 7 September 1925 to the
+exiled Prussian crown prince (published only after 1945), Paxton argues
+Stresemann pursued a *staged* revisionist program conducted through cautious,
+incremental "craftiness" (*finassieren*) rather than confrontation: first
+resolve reparations and secure Allied confidence; then work to protect
+Germans living abroad under foreign rule; then reclaim Danzig, the Polish
+Corridor, and Upper Silesia; then revise the Czechoslovak frontier; and,
+eventually, unite with Austria. Hans W. Gatzke's *Stresemann and the
+Rearmament of Germany* (1954) — cited by Paxton — is the classic study
+documenting this program from the private papers. Paxton is careful to
+distinguish Stresemann sharply from Hitler on scope, racism, and means; the
+memorandum is evidence of a patient revisionist statesman working through
+diplomacy and economic leverage, not an equivalence claim with Nazi
+territorial ambition.
+
 ## Historiography
 
-Source: [[smith-oxford-modern-german-history-2011]], chs. 18 (Tooze) and 19 (Mergel). The definitive biography is Jonathan Wright, *Gustav Stresemann: Weimar's Greatest Statesman* (Oxford, 2002), cited in ch. 18.
+Source: [[smith-oxford-modern-german-history-2011]], chs. 18 (Tooze) and 19 (Mergel). The definitive biography is Jonathan Wright, *Gustav Stresemann: Weimar's Greatest Statesman* (Oxford, 2002), cited in ch. 18. Paxton and Hessler ([[paxton-europe-twentieth-century-2011]]) and Gatzke (1954) supply the fullest documentary basis for the staged-revisionist reading above.

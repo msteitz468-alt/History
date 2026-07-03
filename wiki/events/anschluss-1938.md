@@ -1,24 +1,23 @@
 ---
 title: Anschluss (1938)
-date_start: 1938-03-12
-date_end: 1938-03-13
+date_start: "1938-03-12"
+date_end: "1938-03-13"
 date_precision: exact
-dating_method: documentary
 period: [World Wars Era]
-region: [western-europe, central-europe, germany]
-location: [Austria, Vienna, Linz, Braunau am Inn]
-actors_primary: [["adolf-hitler"], ["actors/schuschnigg-kurt"], ["actors/seyß-inquart-arthur"], ["actors/goering-hermann"], ["actors/keppler-wilhelm"], ["actors/papen-franz-von"]]
-actors_secondary: [["actors/mussolini-benito"], ["actors/ribbentrop-joachim-von"], ["actors/himmler-heinrich"], ["actors/heydrich-reinhard"], ["german-army|Wehrmacht"], ["austrian-nazis"]]
+region: ["western-europe", "central-europe", germany]
+causes: ["[\"adolf-hitler|Hitler's ideological commitment to incorporating Austria (from Mein Kampf onward; boyhood in Linz)\"]", "[\"adolf-hitler|Economic pressures from Four-Year Plan (raw materials, labour, foreign exchange)\"]", "[\"adolf-hitler|Hoßbach meeting 5 Nov 1937 signals intent for early action\"]", "[\"german-pressure|Progressive erosion of Austrian independence after July 1936 Agreement and loss of Italian protection\"]", "[\"adolf-hitler|Berchtesgaden meeting 12 Feb 1938 bullying of Schuschnigg\"]", "[\"schuschnigg-gamble|Schuschnigg's unexpected plebiscite announcement 9 March 1938\"]", "[\"adolf-hitler|Hitler's fury at 'betrayal' of Berchtesgaden terms\"]", "[\"mussolini-benito|Italian acquiescence confirmed (no intervention)\"]", "[\"british-appeasement|British unwillingness/inability to act (Halifax signals)\"]", "[\"french-weakness|French government crisis\"]"]
+consequences: ["[\"adolf-hitler|Massive boost to Hitler's personal myth and sense of destiny; 'I have fulfilled my mission' (Linz)\"]", "[\"adolf-hitler|Creation of Großdeutschland; removal of last Versailles remnant\"]", "[\"second-world-war-1939|Weakening of Czechoslovakia's strategic position; acceleration toward war\"]", "[\"adolf-hitler|Hitler now 'impervious to advice of moderation' (Papen)\"]", "[\"repression-in-austria|Ferocious repression: 10-20,000 arrests, pogrom-like violence against Jews, suicides\"]", "[\"working-towards-the-fuehrer|Radicalization reimported to 'Old Reich' (new antisemitic wave 1938)\"]", "[\"german-economy|Acquisition of Austrian gold, reserves, iron ore, labour\"]", "[\"europe-diplomacy|Western powers again passive; no intervention\"]", "[\"austrian-identity|Austria as Ostmark province; end of independence\"]"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "central-europe", political, "adolf-hitler", expansion, anschluss, appeasement, "anti-semitism"]
 event_type: political
-scale_immediate: regional
+location: [Austria, Vienna, Linz, Braunau am Inn]
+actors_primary: ["[\"adolf-hitler\"]", "[\"actors/schuschnigg-kurt\"]", "[\"actors/seyß-inquart-arthur\"]", "[\"actors/goering-hermann\"]", "[\"actors/keppler-wilhelm\"]", "[\"actors/papen-franz-von\"]"]
+actors_secondary: ["[\"actors/mussolini-benito\"]", "[\"actors/ribbentrop-joachim-von\"]", "[\"actors/himmler-heinrich\"]", "[\"actors/heydrich-reinhard\"]", "[\"german-army|Wehrmacht\"]", "[\"austrian-nazis\"]"]
+dating_method: documentary
 scale_consequential: civilizational
-causes: [["adolf-hitler|Hitler's ideological commitment to incorporating Austria (from Mein Kampf onward; boyhood in Linz)"], ["adolf-hitler|Economic pressures from Four-Year Plan (raw materials, labour, foreign exchange)"], ["adolf-hitler|Hoßbach meeting 5 Nov 1937 signals intent for early action"], ["german-pressure|Progressive erosion of Austrian independence after July 1936 Agreement and loss of Italian protection"], ["adolf-hitler|Berchtesgaden meeting 12 Feb 1938 bullying of Schuschnigg"], ["schuschnigg-gamble|Schuschnigg's unexpected plebiscite announcement 9 March 1938"], ["adolf-hitler|Hitler's fury at 'betrayal' of Berchtesgaden terms"], ["mussolini-benito|Italian acquiescence confirmed (no intervention)"], ["british-appeasement|British unwillingness/inability to act (Halifax signals)"], ["french-weakness|French government crisis"]]
-consequences: [["adolf-hitler|Massive boost to Hitler's personal myth and sense of destiny; 'I have fulfilled my mission' (Linz)"], ["adolf-hitler|Creation of Großdeutschland; removal of last Versailles remnant"], ["second-world-war-1939|Weakening of Czechoslovakia's strategic position; acceleration toward war"], ["adolf-hitler|Hitler now 'impervious to advice of moderation' (Papen)"], ["repression-in-austria|Ferocious repression: 10-20,000 arrests, pogrom-like violence against Jews, suicides"], ["working-towards-the-fuehrer|Radicalization reimported to 'Old Reich' (new antisemitic wave 1938)"], ["german-economy|Acquisition of Austrian gold, reserves, iron ore, labour"], ["europe-diplomacy|Western powers again passive; no intervention"], ["austrian-identity|Austria as Ostmark province; end of independence"]]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, central-europe, political, adolf-hitler, expansion, anschluss, appeasement, anti-semitism]
+scale_immediate: regional
 ---
-
 # Anschluss (1938)
 
 ## Narrative
@@ -105,6 +104,34 @@ in the pogrom of 9–10 November" ([[kristallnacht-1938]]). Gestapo reports
 suggest only a quarter to a third of Viennese voters were genuinely committed
 behind the 99.75% plebiscite figure. Source:
 [[evans-third-reich-in-power-2005]]
+
+## Historiography: "Opportunist," Not "Master Planner" (Paxton and Hessler)
+
+Paxton and Hessler add background on the years between Dollfuss and the
+Anschluss: after [[dollfuss-engelbert|Dollfuss]]'s 1934 murder, his
+successor Kurt Schuschnigg balanced the Heimwehr, under Prince Ernst
+Rüdiger von Starhemberg, against a resurgent Austrian Nazi Party;
+Schuschnigg brought the pro-Anschluss lawyer Arthur Seyss-Inquart into
+government in late 1937 in an attempt to divide Nazi sympathizers while
+cracking down on illegal Nazi activity. This event is `preceded_by:
+[[dollfuss-engelbert]]`'s death, not `caused_by` it — four years separate
+the two, and Schuschnigg's own balancing policy, not a direct chain from
+Dollfuss's murder, shaped the run-up to 1938.
+
+The contemporary and later assumption that Hitler had long been planning
+the invasion is contested. Captured evidence instead suggests Hitler's
+decision was a spur-of-the-moment reaction to Schuschnigg's March 9
+plebiscite announcement (scheduled for March 13, on the question of
+Austrian independence) rather than the execution of a long-prepared plan —
+an "opportunist," not a "master planner" (Jürgen Gehl, *Austria, Germany,
+and the Anschluss, 1931–38*, 1979). On this reading the event is `caused_by:`
+Schuschnigg's plebiscite announcement, `contributed_to`
+by Mussolini's acquiescence — Italy's 1934 Brenner Pass mobilization had
+previously blocked Anschluss, and its reversal by 1938 removed the one
+external check that had constrained Hitler on the Austrian question.
+Germany's population reached 80 million with the annexation; contemporaries
+framed the popular enthusiasm in Linz and Vienna as, arguably, an exercise
+in Wilsonian self-determination. Source: [[paxton-europe-twentieth-century-2011]].
 
 ## Sources (Kershaw Nemesis, this range)
 

@@ -1,24 +1,23 @@
 ---
 title: Invasion of Poland
-date_start: 1939-09-01
-date_end: 1939-10-06
+date_start: "1939-09-01"
+date_end: "1939-10-06"
 date_precision: exact
-dating_method: documentary
-period: ["World Wars Era"]
-region: ["europe", "eastern-europe"]
-location: ["Poland (entire territory); key actions at border, Bzura River west of Warsaw, Warsaw, eastern provinces"]
-actors_primary: ["[[adolf-hitler|Adolf Hitler]] / Nazi Germany (Wehrmacht)", "[[joseph-stalin|Joseph Stalin]] / Soviet Union (17 Sep intervention)"]
-actors_secondary: ["[[eduard-rydz-smigly|Eduard Rydz-Śmigły]] (Poland)", "Fedor von Bock (Army Group North)", "Gerd von Rundstedt (Army Group South)"]
+period: [World Wars Era]
+region: [europe, "eastern-europe"]
+causes: ["[[molotov-ribbentrop-pact-1939|Nazi-Soviet Non-Aggression Pact]] (23 Aug", secret partition protocol), German rearmament and expansion after Versailles (Rhineland, Anschluss, Czechoslovakia), British/French guarantee to Poland (31 Mar 1939), Hitler decision for war of choice to secure east before west]
+consequences: [Destruction/partition of Polish state, "Demonstration of mechanized combined-arms 'Blitzkrieg' (Case White)", "German 18-day victory with low casualties; Polish 65k KIA", 587k+ POW German, Enabled Phony War end and 1940 Western campaigns, Soviet eastern gains; ~200k Polish POWs to USSR, Shift in European military balance; model for future ops]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", europe, "second-world-war", blitzkrieg]
 event_type: war
-scale_immediate: regional
+location: [Poland (entire territory); key actions at border, Bzura River west of Warsaw, Warsaw, eastern provinces]
+actors_primary: ["[[adolf-hitler|Adolf Hitler]] / Nazi Germany (Wehrmacht)", Joseph Stalin / Soviet Union (17 Sep intervention)]
+actors_secondary: ["Eduard Rydz-Śmigły (Poland)", Fedor von Bock (Army Group North), Gerd von Rundstedt (Army Group South)]
+dating_method: documentary
 scale_consequential: civilizational
-causes: ["[[molotov-ribbentrop-pact-1939|Nazi-Soviet Non-Aggression Pact]] (23 Aug, secret partition protocol)", "German rearmament and expansion after Versailles (Rhineland, Anschluss, Czechoslovakia)", "British/French guarantee to Poland (31 Mar 1939)", "Hitler decision for war of choice to secure east before west"]
-consequences: ["Destruction/partition of Polish state", "Demonstration of mechanized combined-arms 'Blitzkrieg' (Case White)", "German 18-day victory with low casualties; Polish 65k KIA, 587k+ POW German", "Enabled Phony War end and 1940 Western campaigns", "Soviet eastern gains; ~200k Polish POWs to USSR", "Shift in European military balance; model for future ops"]
-sources_ingested: 1
-last_updated: 2026-06-23
-tags: [event, world-wars-era, europe, second-world-war, blitzkrieg]
+scale_immediate: regional
 ---
-
 # Invasion of Poland (1 September – 6 October 1939)
 
 **Detailed tactical/operational analysis:** [[hubs/warfare/world-wars-era/second-world-war/invasion-of-poland-1939|Invasion of Poland — Tactical Analysis]] (full template: OOB, phases, 9 principles, quotes, Bzura, Warsaw).
@@ -57,10 +56,16 @@ See hub analysis page for Citino analysis (range-grounded): momentum maintenance
 
 **Propaganda pretext.** ~2,000 ethnic Germans died in Polish arrests, panic marches, and the Bromberg "Bloody Sunday" violence; Goebbels's ministry inflated the figure from 5,800 to an arbitrary 58,000 (probably on Hitler's order) to license the ethnic cleansing that followed — a retrofitted pretext (`preceded_by`, not `caused_by`). Terror began immediately: 531 towns and villages burned and 16,376 Poles executed by the end of military administration (26 October 1939); ~65,000 Poles and Jews murdered in the last quarter of 1939, about half by the Ethnic German Self-Protection militia ("You are now the master race here . . . Don't be soft, be merciless" — von Alvensleben); reprisal massacres (Wawer: 122 shot over a knife wound), POW shootings (Ciepielów: 300 machine-gunned), and Heydrich's liquidation of the intelligentsia from pre-war lists of 60,000 names. Blaskowitz's written protests ("boundless brutalization and moral depravity that will spread through valuable German human material like an epidemic") were dismissed and cost him his command in May 1940. See [[german-occupation-of-poland-1939-1945]], [[germanization-of-occupied-poland-1939-1944]], and [[jewish-ghettoization-in-occupied-poland-1939-1942]] for what followed; [[katyn-massacre-1940]] and the Evans section of [[molotov-ribbentrop-pact-1939]] for the Soviet zone.
 
+## From Paxton and Hessler, *Europe in the Twentieth Century* (2011)
+
+**Pretext and force ratios.** The immediate trigger was a staged Gleiwitz-style provocation: SS men in Polish uniforms, using murdered concentration-camp inmates as props, faked a Polish frontier raid on a German radio station to justify the invasion — the propaganda companion to Hitler's rhetoric about Poland's "inferior cultural value." Anglo-French diplomatic pressure delayed Polish mobilization by 24 hours in a vain last effort to avert war. Germany fielded 63 divisions (6 of them Panzer) against Poland's 40.
+
+**Allied non-support.** Britain and France declared war but gave Poland no material help: the promised 16th-day ground offensive never materialized, replaced by a token French raid into the Saar and RAF leaflet drops over Germany. Warsaw fell 27 September; Stalin's Red Army entered eastern Poland on 17 September under the Molotov-Ribbentrop Pact's secret protocol, following a second Ribbentrop visit to Moscow. Hitler's proposal for a rump Polish state was rejected by Stalin, who preferred outright partition. Source: [[paxton-europe-twentieth-century-2011]].
+
 ## Related
 
 - Main war: [[events/world-war-ii-1939-1945]]
 - Hub analysis: [[hubs/warfare/world-wars-era/second-world-war/invasion-of-poland-1939]]
 - Source: [[sources/rogers-seidule-west-point-history-world-war-ii-v1-2015]]
-- Actors: [[actors/adolf-hitler|Adolf Hitler]], [[gerd-von-rundstedt]]
+- Actors: [[actors/adolf-hitler|Adolf Hitler]], Gerd von Rundstedt
 - Period: [[periods/world-wars-era]]

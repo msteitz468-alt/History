@@ -1,21 +1,21 @@
 ---
 title: Chernobyl Disaster
-date_start: 1986-04-26
-date_end: 1986-04-26
+date_start: "1986-04-26"
+date_end: "1986-04-26"
 date_precision: exact
 period: [Cold War]
-region: [eastern-europe]
-location: [Chernobyl, Ukraine, USSR]
-actors_primary: [[gorbachev-mikhail|Mikhail Gorbachev]], the Soviet Union]
-actors_secondary: [Soviet Engineers, Ukrainian Authorities]
-event_type: discovery
-scale_immediate: civilizational
-scale_consequential: global
+region: ["eastern-europe"]
 causes: [design flaws of the RBMK reactor, operator errors during a safety test, Soviet culture of secrecy]
 consequences: [massive radioactive contamination, rise of ecological movements in the USSR, acceleration of the policy of glasnost]
-sources_ingested: 2
-last_updated: 2026-06-22
-tags: [event, cold-war, eastern-europe]
+sources_ingested: [3]
+last_updated: "2026-07-02"
+tags: [event, "cold-war", "eastern-europe"]
+event_type: discovery
+location: [Chernobyl, Ukraine, USSR]
+actors_primary: ["[gorbachev-mikhail|Mikhail Gorbachev]]", the Soviet Union]
+actors_secondary: [Soviet Engineers, Ukrainian Authorities]
+scale_consequential: global
+scale_immediate: civilizational
 ---
 # Chernobyl Disaster
 
@@ -41,3 +41,13 @@ On April 26, 1986, a nuclear reactor exploded at the Chernobyl nuclear power pla
 
 ## Historiography
 Riasanovsky notes that Chernobyl was a turning point that "threw a glaring light on multiple Soviet deficiencies, from those in engineering to those in the news media," ultimately transforming the political environment in favor of reform (Line 7043).
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] frame Chernobyl explicitly as
+a catalyst for **glasnost in practice** — coming one year into Gorbachev's tenure,
+Gorbachev's decision to handle the disaster's aftermath (31 immediate deaths, ~300,000
+displaced) without the "habitual secrecy" of prior Soviet crisis management marked a
+sharp contrast with the regime's historic pattern, consistent with the "ventilation of
+the country's problems" verdict already documented above from the Service-sourced
+material.

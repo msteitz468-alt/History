@@ -6,13 +6,12 @@ date_precision: year
 period: [Cold War]
 region: [iberia]
 process_type: economic
-driven_by: [[francoist-spain]], [[opus-dei]]
-produces: []
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [process, cold-war, iberia]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [process, "cold-war", iberia]
+driven_by: ["[francoist-spain]]", "[[opus-dei]"]
+produces: ""
 ---
-
 # The Spanish Economic Miracle (el desarrollo), 1959–1973
 
 The fastest economic growth in Spanish history — roughly 7 percent annually through the 1960s, second in the world after Japan's ([[processes/japanese-economic-miracle|analogous_to]]) — triggered by the 1959 Stabilization Plan, which dismantled the autarkic controls of the 1940s–50s in favor of orthodox stabilization, trade opening, and convertibility, under the [[actors/opus-dei|Opus Dei]] technocrat ministers sponsored by [[actors/carrero-blanco-luis|Carrero Blanco]].
@@ -39,6 +38,15 @@ Covers the policy shift (1957–59), the boom (1961–73), and its social transf
 
 Interacts with the regime's shift to performance legitimacy (Development Plans, "25 Years of Peace" campaign, 1964). Halted by the 1973 oil shock amid political paralysis; the transition governments inherited the resulting stagflation.
 
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] corroborate the Opus
+Dei-linked technocrat framing above and stress the direct causal link to what followed:
+the economic liberalization under Franco's late-era "technocrats" is the direct economic
+precondition they cite for the subsequent smooth 1975–1982 political transition — see
+[[spanish-transition-to-democracy]] for the political sequel this economic
+transformation made possible.
+
 ## Related
 
-- [[actors/francoist-spain]] · [[sources/payne-franco-regime-1987]]
+- [[actors/francoist-spain]] · [[sources/payne-franco-regime-1987]] · [[paxton-europe-twentieth-century-2011]] · [[spanish-transition-to-democracy]]

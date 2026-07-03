@@ -1,23 +1,22 @@
 ---
-title: "Attack on Pearl Harbor"
-date_start: 1941-12-07
-date_end: 1941-12-07
+title: Attack on Pearl Harbor
+date_start: "1941-12-07"
+date_end: "1941-12-07"
 date_precision: exact
-period: [world-wars-era]
-region: [pacific, east-asia]
-location: [Pearl Harbor, Hawaii]
-actors_primary: [[is oroku-yamamoto]], [[chester-nimitz]], [[franklin-d-roosevelt]]
-actors_secondary: [[husband-kimmel]]
+period: ["world-wars-era"]
+region: [pacific, "east-asia"]
+causes: ["[[world-war-ii-1939-1945]], Japanese expansion in Asia, US oil embargo, strategic surprise attack to neutralize US Pacific Fleet"]
+consequences: ["[[battle-of-midway-1942]], US entry into WWII, \"day that will live in infamy"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, battle, "world-wars-era", pacific, warfare]
 event_type: battle
-scale_immediate: regional
+location: [Pearl Harbor, Hawaii]
+actors_primary: ["is oroku-yamamoto, Chester Nimitz, Franklin D Roosevelt"]
+actors_secondary: [Husband Kimmel]
 scale_consequential: global
-causes: [[world-war-ii-1939-1945]], Japanese expansion in Asia, US oil embargo, strategic surprise attack to neutralize US Pacific Fleet
-consequences: [[battle-of-midway-1942]], US entry into WWII, "day that will live in infamy"
-sources_ingested: 1
-last_updated: 2026-06-23
-tags: [event, battle, world-wars-era, pacific, warfare]
+scale_immediate: regional
 ---
-
 # Attack on Pearl Harbor (December 7, 1941)
 
 Surprise Japanese carrier strike that brought the United States into World War II.
@@ -40,7 +39,13 @@ United US public opinion for war; shifted strategy to carriers; led to Midway.
 
 The military narrative (surprise achieved, battleships lost, carriers missed)
 is settled; the political-diplomatic backstory is a long-running interpretive
-dispute. **Revisionist position** (Charles A. Beard, *President Roosevelt and
+dispute. Its opening shot predates the attack itself: Flynn's
+*[[sources/flynn-country-squire-1940|Country Squire in the White House]]* (May
+1940) argued that with peacetime spending exhausted, "the only thing that can
+save his regime is to take the country off into a war hysteria" — the
+revisionists later read December 1941 as this prediction fulfilled, the
+mainstream as coincidence between a polemic and an Axis decision Flynn did not
+anticipate. **Revisionist position** (Charles A. Beard, *President Roosevelt and
 the Coming of the War* (1948); John T. Flynn,
 *[[sources/flynn-roosevelt-myth-1948|The Roosevelt Myth]]* (1948); later
 Tansill): Roosevelt had committed the US to war well before December 1941 —

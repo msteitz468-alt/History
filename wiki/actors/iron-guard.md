@@ -1,19 +1,18 @@
 ---
-title: "Iron Guard (Legion of the Archangel Michael)"
+title: Iron Guard (Legion of the Archangel Michael)
 actor_type: movement
 date_start: 1927
 date_end: 1941
 period: [World Wars Era]
-region: [eastern-europe, balkans]
-affiliated_with: [Romanian radical right, National Legionary State (1940-41)]
+region: ["eastern-europe", balkans]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, movement, "world-wars-era", "eastern-europe"]
+affiliated_with: [Romanian radical right, "National Legionary State (1940-41)"]
+key_events: ""
+key_processes: ""
 opposed_by: [Romanian monarchy under Carol II, Ion Antonescu (from January 1941)]
-key_events: []
-key_processes: []
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [actor, movement, world-wars-era, eastern-europe]
 ---
-
 # Iron Guard / Legion of the Archangel Michael (1927–1941)
 
 Romanian fascist movement founded by [[codreanu-corneliu|Corneliu Zelea
@@ -55,6 +54,41 @@ soldiers and police, "by far the greatest liquidation of Jews by non-German
 forces" ([[the-holocaust]]). After 1944 many thousands of ex-Legionnaires
 were absorbed en masse into the Romanian Communist Party — probably the
 largest such migration in eastern Europe.
+
+## Structure, Recruitment, and Suppression (Paxton and Hessler)
+
+The Legion won 16% of the popular vote in the December 1937 elections — the
+third-largest party, behind the Liberals and the Agrarians. It organized
+into cells ("nests"), whose members swore a blood oath binding them to
+poverty, duty, and murder if necessary; legionaries killed eleven public
+officials over the course of the 1930s. The movement's character was
+strongly religious: Orthodox clergy led village missions on the Legion's
+behalf, and Codreanu himself wore traditional Moldavian peasant dress.
+Recruitment drew on two distinct bases: university students, angered above
+all by Jewish admission quotas, and poor Moldavian family farmers.
+
+King Carol II suspended the constitution in 1938 and jailed the Guard's
+leadership; Codreanu and several others were killed in custody, officially
+"while trying to escape" — a claim the source treats skeptically as a likely
+extrajudicial killing rather than a genuine escape attempt. Romania's later
+territorial losses (Bessarabia to the USSR, Transylvania to Hungary,
+southern Dobruja to Bulgaria — one-third of Romania's territory) forced
+Carol's abdication in September 1940; General Ion Antonescu then ruled as
+*conducător*, with Horia Sima (Codreanu's successor) serving under him. The
+Guard murdered Jews and seized property while pressing for a "second
+revolution"; Antonescu crushed the Guard in three days of street fighting in
+Bucharest in January 1941 — the Guard's only period of actual power lasted
+about four months, and it remains the only Eastern European fascist
+movement to have ruled, however briefly, without direct German occupation.
+
+Eastern European fascism followed a general pattern, per Eugen Weber: it
+drew a large distressed peasantry but only a small distressed middle class,
+and it faced entrenched conservative or monarchical authoritarians — King
+Alexander in Yugoslavia (1931), King Boris III in Bulgaria (1934), King
+Carol in Romania (1938) — who had already "saved society" from disorder
+before the fascist surge of the 1930s and who generally excluded fascist
+movements from power as a result. Source:
+[[paxton-europe-twentieth-century-2011]].
 
 ## Historiography
 

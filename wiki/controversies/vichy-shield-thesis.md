@@ -1,14 +1,13 @@
 ---
-title: Was Vichy a Shield? — The "Lesser Evil" Defense of Pétain's Regime
+title: "Was Vichy a Shield? — The \"Lesser Evil\" Defense of Pétain's Regime"
 dispute_type: interpretation
 period_involved: [World Wars Era]
-regions_involved: [western-europe]
-positions: [shield thesis (Pétain defense, Robert Aron), collaboration-as-French-initiative (Paxton and post-1972 consensus)]
-resolution_status: partially-resolved
-last_updated: 2026-07-01
+regions_involved: ["western-europe"]
+resolution_status: "partially-resolved"
+last_updated: "2026-07-02"
 tags: [controversy]
+positions: [shield thesis (Pétain defense, Robert Aron), "collaboration-as-French-initiative (Paxton and post-1972 consensus)"]
 ---
-
 # Was Vichy a Shield?
 
 Did [[vichy-france]] protect the French from a worse fate — the "lesser evil"
@@ -63,6 +62,10 @@ Structurally, Vichy could never bargain because it could not credibly
 threaten to defect: its leaders would have lost the National Revolution.
 Verdict: "Judged by its fruits, Vichy negotiation was barren… A gauleiter
 would have made many Frenchmen suffer; in the end he might have gotten less."
+
+## Additional evidence — Paxton and Hessler (2011)
+
+[[paxton-europe-twentieth-century-2011|Paxton and Hessler]] restate the anti-shield case in their own figures: roughly 25% of France's Jewish population was deported, and they attribute this rate specifically to active assistance Vichy's administration provided the German deportation effort — a point offered as evidence against, not for, the shield thesis, on the reasoning that the French deportation rate would plausibly have been lower had Vichy not provided that assistance and the Germans been left to act alone in France. This is consistent with Paxton's earlier ([[paxton-vichy-france-1972]]) reframing above and does not by itself resolve the genuinely open second-order question (noted below) of how much protective effect, if any, Vichy's residual administration had at the margin for French-citizen Jews specifically. Source: [[paxton-europe-twentieth-century-2011]].
 
 ## Resolution status
 

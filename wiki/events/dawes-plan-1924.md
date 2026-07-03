@@ -4,20 +4,19 @@ date_start: 1924
 date_end: 1929
 date_precision: year
 period: [World Wars Era]
-region: [western-europe, atlantic-world]
-location: [Germany, United States, France, United Kingdom]
-actors_primary: [["weimar-republic|Gustav Stresemann"], ["weimar-republic|Charles G. Dawes"], ["weimar-republic|American private investors"]]
-actors_secondary: [["weimar-republic|Reichsbahn"], ["weimar-republic|Reichsbank"]]
+region: ["western-europe", "atlantic-world"]
+causes: ["hyperinflation-1923", "ruhr-occupation-crisis-1923", German inability to meet reparations, American desire for European economic stability]
+consequences: ["weimar-republic stabilization 1924-1929", three billion dollar american investment in Germany, "locarno-treaties-1925", weimar welfare state expansion, "great-depression vulnerability"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "western-europe", economic]
 event_type: economic
-scale_immediate: civilizational
+location: [Germany, United States, France, United Kingdom]
+actors_primary: ["[\"weimar-republic|Gustav Stresemann\"]", "[\"weimar-republic|Charles G. Dawes\"]", "[\"weimar-republic|American private investors\"]"]
+actors_secondary: ["[\"weimar-republic|Reichsbahn\"]", "[\"weimar-republic|Reichsbank\"]"]
 scale_consequential: civilizational
-causes: [hyperinflation-1923, ruhr-occupation-crisis-1923, German inability to meet reparations, American desire for European economic stability]
-consequences: [weimar-republic stabilization 1924-1929, three billion dollar american investment in Germany, locarno-treaties-1925, weimar welfare state expansion, great-depression vulnerability]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [event, world-wars-era, western-europe, economic]
+scale_immediate: civilizational
 ---
-
 ## Narrative
 
 The Dawes Plan of 1924 was the international financial framework that stabilized the [[weimar-republic]] after the hyperinflation crisis of 1923. Named after the American banker Charles G. Dawes (who chaired the commission), it restructured German reparations payments on a graduated scale and organized a large American loan to stabilize the German currency and balance of payments. Source: [[smith-oxford-modern-german-history-2011]], ch. 18.
@@ -46,7 +45,9 @@ The Plan's weakness was its dependence on continued American capital flows. When
 ## Consequence Analysis
 
 - `produced`: [[weimar-republic]] stabilization (1924–1929)
-- `enabled`: [[weimar-republic|Locarno Treaties (1925)]]
+- `enabled`: [[locarno-treaties-1925|Locarno Treaties (1925)]] — Paxton and Hessler
+  ([[paxton-europe-twentieth-century-2011]]) treat Dawes as the pivot from the postwar "years of
+  coercion" to the "years of conciliation" that Locarno inaugurated.
 - `enabled`: German membership in the League of Nations (1926)
 - `contributed_to`: expansion of Weimar welfare state
 - `produced`: structural vulnerability to American capital withdrawal

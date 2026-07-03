@@ -1,15 +1,14 @@
 ---
 title: Gender History
 concept_type: historiographical
-origin: "Emerged from women's history and second-wave feminism (1970s–80s); theorized by Joan Scott (1986). Synthesized for world history in CWH Vol. I, Ch. 10 (Merry E. Wiesner-Hanks)."
-applies_to_periods: ["Behavioral Modernity", "Neolithic", "Archaic Period", "Classical Antiquity", "Late Antiquity", "Early Middle Ages", "High Middle Ages", "Late Middle Ages", "Long 19th Century", "World Wars Era", "Cold War", "Contemporary"]
+sources_ingested: [5]
+last_updated: "2026-07-02"
+tags: [concept, historiographical, social, global]
+applies_to_periods: [Behavioral Modernity, Neolithic, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Long 19th Century, World Wars Era, Cold War, Contemporary]
 applies_to_regions: [global]
 contested: yes
-sources_ingested: 4
-last_updated: 2026-06-13
-tags: [concept, historiographical, social, global]
+origin: "Emerged from women's history and second-wave feminism (1970s–80s); theorized by Joan Scott (1986). Synthesized for world history in CWH Vol. I, Ch. 10 (Merry E. Wiesner-Hanks)."
 ---
-
 ## Definition and Scope
 
 Gender history is the study of how culturally constructed systems of difference
@@ -203,6 +202,10 @@ Stuard's method is comparative and resists a single narrative:
 This complements the CWH IV finding (above) that state/empire/network formation
 reshaped endogamy and gendered authority; CWH V extends it through the
 intensification of patriarchy in the High and [[late-middle-ages|Late Middle Ages]].
+
+## Gender and the First World War
+
+[[paxton-europe-twentieth-century-2011|Paxton]] (ch. 4) documents the war's uneven but real transformation of women's status in the belligerent states. As male labour was drained to the front, women moved into skilled factory and heavy-industry work previously closed to them: female employment at Krupp armaments in Germany rose from 2,000 to 28,000 by 1918, a third of French munitions workers were female by 1918, and Britain's female labour force reached 3 million. The change was most marked for **middle-class women**, who gained access to office work and teaching, greater personal independence (unchaperoned outings, smoking in public, living alone), and, via Marie Stopes's 1918 birth-control guides (*Married Love*, *Wise Parenthood*) and Victor Margueritte's bestselling novel *La Garçonne* (1922), a new public discourse of female sexual and social autonomy. This "emancipated woman" also provoked a backlash that interwar [[generic-fascism|fascist movements]] could later exploit. Politically, most belligerent states extended suffrage after the war (Lady Astor, elected 1919, was the first woman seated in a European parliament). Postwar, demobilized soldiers often reclaimed prewar jobs from women, but — per Paxton — "women no longer seemed out of place in a wider range of work," a durable shift in expectation even where employment reverted. This is a First-World-War-specific episode within the longer gender-history arc; compare the CWH-derived material above on how state and empire formation reshaped gender roles in earlier eras, see also [[wwi-cultural-disillusionment]] for the parallel intellectual ferment, and [[war-economy]] for the labour-mobilization structure within which this change occurred.
 
 ## Emic vs. Etic
 

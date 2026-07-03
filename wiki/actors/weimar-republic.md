@@ -4,16 +4,15 @@ actor_type: state
 date_start: 1918 (November Revolution) / 1919 (constitution)
 date_end: 1933 (Hitler appointed Chancellor; Enabling Act)
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
+sources_ingested: [3]
+last_updated: "2026-07-02"
+tags: [actor, state, "world-wars-era", "western-europe"]
 affiliated_with: [the SPD, the Centre Party, the liberal parties, the Weimar Coalition]
+key_events: ["[[november-revolution-1918]]", the Treaty of Versailles 1919, the 1923 hyperinflation and Ruhr occupation, the Great Depression, "Hitler's appointment Jan 1933"]
+key_processes: ["[[nationalism]]", political polarization, "[[german-modernism]]"]
 opposed_by: [the NSDAP, the KPD, the nationalist right (DNVP), Freikorps and putschists]
-key_events: [[[november-revolution-1918]], the Treaty of Versailles 1919, the 1923 hyperinflation and Ruhr occupation, the Great Depression, Hitler's appointment Jan 1933]
-key_processes: [[[nationalism]], political polarization, [[german-modernism]]]
-sources_ingested: 2
-last_updated: 2026-07-02
-tags: [actor, state, world-wars-era, western-europe]
 ---
-
 # Weimar Republic
 
 Germany's first democracy, born of the [[november-revolution-1918|November Revolution]] of 1918 and
@@ -71,6 +70,45 @@ outpolled the Nazis (721,000). Goebbels's Gauleiter years built the Berlin
 party through calculated street violence (Kurfürstendamm attacks, the
 Horst Wessel martyrdom cult); after the Reichstag fire, ~200 makeshift SA
 "unofficial concentration camps" operated across the city.
+
+## The Great Coalition and Mid-1920s Stabilization (Paxton & Hessler 2011)
+
+The Republic's recovery from the catastrophic 1923 crisis — hyperinflation,
+the Ruhr occupation, Hitler's Beer Hall Putsch, and Communist risings in
+Hamburg, Saxony, and Thuringia — rested on three conservative figures
+working substantially outside the parliamentary framework:
+[[gustav-stresemann|Gustav Stresemann]] (who built the "Great Coalition" of
+Social Democrats, Democrats, Centre, and his own People's Party,
+August–November 1923), General Hans von Seeckt (army commander 1920–1926,
+who used Article 48 emergency powers to suppress both the Saxon/Thuringian
+Left and, indirectly, the Nazi Putsch), and [[schacht-hjalmar|Hjalmar
+Schacht]] (whose "miracle of the Rentenmark" — a new currency backed by a
+notional mortgage on all German land, industry, and commerce rather than by
+scarce gold reserves — ended the hyperinflation from November 1923). Paxton
+and Hessler frame the deeper causal claim, quoting Godfrey Scheele: "the
+inflation was the real German Revolution" — unlike the political revolution
+of 1918–19, the 1923 inflation permanently altered German economic and
+social relationships, reducing much of the middle class to poverty and
+creating a constituency later available to "any savior in the event of
+another economic crisis," a load-bearing precondition for later Nazi appeal.
+
+By the late 1920s the officer corps was demonstrably *more* socially
+exclusive than the pre-war imperial army: almost every officer was an
+officer's son (versus 1 in 4 in the imperial army), and 1 in 4 officers was
+a nobleman by 1932 (versus 1 in 5 in 1920) — evidence the "republic" never
+democratized its own military.
+
+President Ebert died in 1925 and was succeeded by Field Marshal
+[[hindenburg-paul-von|Paul von Hindenburg]] — a divided Left vote, with
+Communist Ernst Thälmann drawing votes from the centrist republican
+candidate, let this happen. Government majorities shifted rightward again
+in 1927 with the inclusion of the monarchist-nationalist DNVP.
+
+New cartels formed during the mid-1920s boom: United Steel (Vereinigte
+Stahlwerke, 1926, roughly half of German steel), Krupp, and I. G. Farben
+(1925, the largest corporation on the European continent) — evidence of the
+industrial concentration that would later interact with the Nazi war
+economy. Source: [[paxton-europe-twentieth-century-2011]].
 
 ## Constitutional Anatomy (Evans 2003, attributed)
 

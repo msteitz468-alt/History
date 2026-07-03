@@ -2,17 +2,12 @@
 title: Roosevelt and New Deal Revisionism
 dispute_type: interpretation
 period_involved: [World Wars Era, Cold War, Contemporary]
-regions_involved: [north-america]
-positions: [
-  "Revisionist critique: the Roosevelt reputation is substantially a constructed image; the New Deal failed to end the Depression and permanently enlarged executive power; wartime diplomacy conceded Eastern Europe and China",
-  "Mainstream assessment: Roosevelt was among the greatest presidents; the New Deal stabilized capitalism and democracy in crisis; wartime diplomacy reflected real constraints, not capitulation",
-  "New Left critique: the New Deal was too conservative — it rescued corporate capitalism rather than transforming it"
-]
+regions_involved: ["north-america"]
 resolution_status: open
-last_updated: 2026-07-01
-tags: [controversy, world-wars-era, north-america]
+last_updated: "2026-07-02"
+tags: [controversy, "world-wars-era", "north-america"]
+positions: ["["]
 ---
-
 # Roosevelt and New Deal Revisionism
 
 Was Franklin D. Roosevelt a great president whose leadership carried the United
@@ -72,6 +67,26 @@ strongest form the case runs:
   doctrinal fascist — "confused, selfish, and utterly political leadership,"
   a systemic drift rather than a design — a more structural claim than the
   personal indictment of 1948.
+- **The 1940 statement — the character thesis.** The earliest of the three
+  Flynn books, *[[flynn-country-squire-1940|Country Squire in the White
+  House]]* (May 1940, written against the third term while Flynn still
+  identified as a liberal "well left of center"), grounds the whole critique
+  in character rather than structure: FDR as an amiable Hudson Valley squire
+  without economic convictions — "not a thinker," a man of "impressions and
+  leanings," carried upward by political "tides" rather than ability — whose
+  New Deal was therefore improvisation governed by politics. Its distinctive
+  contributions to Position 1: the ghostwriting/attribution-stripping case
+  (the famous phrases and speeches assigned to Proskauer, Moley, Howe,
+  Corcoran); the claim that the NRA originated in Chamber of Commerce
+  planning, not the Brain Trust; the "White House, Inc." charge that the
+  Roosevelt family earned ~$2.5M during the Depression from the name; the
+  argument that FDR resisted rather than championed Social Security; and the
+  May-1940 prediction — eighteen months before Pearl Harbor — that "the only
+  thing that can save his regime is to take the country off into a war
+  hysteria." Notably it *rejects* the dictator charge made by FDR's
+  conservative enemies ("Roosevelt is no dictator"), arguing instead that he
+  "has the stuff that paves the way for dictators" — a milder claim than the
+  structural-fascism argument Flynn built four years later.
 - Later scholars and writers in this line: the "revisionist" diplomatic
   historians of Pearl Harbor and the war's origins (Charles A. Beard, *President
   Roosevelt and the Coming of the War, 1941*, 1948; Charles C. Tansill, *Back
@@ -162,7 +177,8 @@ renewed (Pearl Harbor revisionism in the 1950s, New Deal economic revisionism
 after 2007). The dispute is recorded as **open as discourse; closed within the
 academy** — both attributed facts.
 
-Related pages: [[flynn-roosevelt-myth-1948]] · [[smith-fdr-2007]] ·
+Related pages: [[flynn-country-squire-1940]] · [[flynn-roosevelt-myth-1948]] ·
+[[smith-fdr-2007]] ·
 [[roosevelt-franklin-d]] · [[new-deal]] · [[court-packing-fight-1937]] ·
 [[great-depression]] · [[yalta-conference-1945]] ·
 [[attack-on-pearl-harbor-1941]]

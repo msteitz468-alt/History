@@ -1,24 +1,23 @@
 ---
 title: Munich Revolution and Räterepublik (1918–1919)
-date_start: 1918-11-07
-date_end: 1919-05
+date_start: "1918-11-07"
+date_end: "1919-05"
 date_precision: approximate
-dating_method: documentary (government records, contemporary reports, eyewitness)
 period: [World Wars Era]
-region: [western-europe, germany]
-location: [munich]
-actors_primary: ["kurt-eisner", "revolutionary-councils", "freikorps", "reichswehr"]
-actors_secondary: ["adolf-hitler"]
-event_type: revolution
-scale_immediate: regional
-scale_consequential: civilizational
+region: ["western-europe", germany]
 causes: ["german-military-defeat-1918", "hunger-misery-home-front", "mutinies-kiel-wilhelmshaven", "bavarian-discontent-with-wittelsbach"]
 consequences: ["hitler-first-political-activity", "hitler-dap-entry-1919", "trauma-of-defeat-radicalization", "freikorps-culture-in-bavaria"]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, germany, adolf-hitler, weimar-republic]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", germany, "adolf-hitler", "weimar-republic"]
+event_type: revolution
+location: [munich]
+actors_primary: ["kurt-eisner", "revolutionary-councils", freikorps, reichswehr]
+actors_secondary: ["adolf-hitler"]
+dating_method: "documentary (government records, contemporary reports, eyewitness)"
+scale_consequential: civilizational
+scale_immediate: regional
 ---
-
 # Munich Revolution and Räterepublik (November 1918 – May 1919)
 
 ## Narrative
@@ -30,6 +29,8 @@ The "liberation" of Munich by Reichswehr troops and Freikorps formations in late
 ## Causal Analysis
 
 `caused_by:` the broader German collapse (armistice request 3 Oct, Wilson notes demanding removal of autocratic rulers, mutinies at Kiel and Wilhelmshaven, spontaneous soldiers'/workers' councils). In Bavaria: long-standing particularism + war weariness + hunger + the sudden removal of the monarchy. `contributed_to:` the weakness of moderate forces and the rapid radicalization to USPD then Communist leadership after Eisner's death.
+
+`part_of:` the wider **[[german-revolution-1918-1919|German Revolution (November 1918 – August 1919)]]** — the Kiel mutiny, the dual proclamations in Berlin, the Spartacist rising, and the Weimar Constitution — into which the Bavarian episode nests as the most radical regional variant. Paxton and Hessler ([[paxton-europe-twentieth-century-2011]], Ch. 5) corroborate this page's account in outline — Eisner's uprising of 7 November 1918, his assassination in February 1919, and an April 1919 councils republic (Räterepublik) associated with Ernst Toller — though Evans's more granular sequence above (distinguishing Toller's initial "coffee-house anarchist" phase from the subsequent Bolshevik phase under Levien and Leviné) is the fuller and more precise account already on this page; no factual conflict in dates or figures was found between the two.
 
 `preceded_by:` [[events/hitler-pasewalk-1918]] and the armistice.
 

@@ -1,23 +1,22 @@
 ---
 title: The Berlin Blockade and Airlift (1948–1949)
-date_start: 1948-06-24
-date_end: 1949-05-12
+date_start: "1948-06-24"
+date_end: "1949-05-12"
 date_precision: exact
 period: [Cold War]
-region: [western-europe, eastern-europe]
+region: ["western-europe", "eastern-europe"]
+causes: [the division of Germany, the Western currency reform of 1948, "Stalin's bid to force the West out of Berlin"]
+consequences: [the Berlin Airlift, "the founding of [[nato]]", the creation of two German states (1949), the hardening of the bloc division]
+sources_ingested: [3]
+last_updated: "2026-07-02"
+tags: [event, "cold-war", "western-europe", "eastern-europe"]
+event_type: [political, military]
 location: [Berlin, occupied Germany]
 actors_primary: [the Soviet Union (Stalin), the United States, Britain, France]
-actors_secondary: [[[united-states]], the Western occupation zones, the Berliners]
-event_type: [political, military]
-scale_immediate: regional
+actors_secondary: ["[[united-states]]", the Western occupation zones, the Berliners]
 scale_consequential: global
-causes: [the division of Germany, the Western currency reform of 1948, Stalin's bid to force the West out of Berlin]
-consequences: [the Berlin Airlift, the founding of [[nato]], the creation of two German states (1949), the hardening of the bloc division]
-sources_ingested: 2
-last_updated: 2026-06-24
-tags: [event, cold-war, western-europe, eastern-europe]
+scale_immediate: regional
 ---
-
 # The Berlin Blockade and Airlift (1948–1949)
 
 The **Berlin Blockade** was the first great crisis of the [[cold-war|Cold War]]: from June
@@ -82,6 +81,31 @@ The blockade was the moment the Cold War's lines in Europe **hardened into perma
 accelerated the [[marshall-plan-1948|Marshall Plan]]'s Western bloc, produced NATO and the
 two Germanies, and established **Berlin as the central flashpoint** of the Cold War — a role
 it would play again in the crisis of 1958–61 and the building of the Berlin Wall.
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] pin the precise trigger to the
+**June 1948 introduction of the Deutschmark** in the merged Western zones, which
+circulated at far more favorable exchange rates in Berlin than the Soviet zone's own
+currency — prompting the Soviet block on all Western surface traffic to the city. The
+airlift ran **324 days**, averaging **8,000 tons/day**, and forced the Soviet climbdown in
+May 1949. As elsewhere in this account, the direct consequence was to hasten the formal
+division of Germany: the Federal Republic became sovereign in September 1949, the German
+Democratic Republic was proclaimed in October 1949 — see [[west-germany]] and
+[[east-germany]] for the continuation of that story, including the founding of NATO
+(covered under [[nato]] below, per the same source's account of the Treaty of Brussels/
+Vandenberg Resolution sequence).
+
+## Historiography
+
+Accounts divide over Stalin's aim: orthodox readings saw a probe to expel the
+West from Berlin; post-revisionist work using Soviet documents (Naimark,
+Pechatnov, in the Cambridge History of the Cold War) reads it as a defensive
+reaction to the London Program and the western currency reform — a blockade
+meant to force renegotiation of the German question, not to start a war.
+[[paxton-europe-twentieth-century-2011]] presents it as the first open trial
+of strength of the divided-Germany order, resolved by the airlift's
+demonstration of Western commitment.
 
 ## Related
 

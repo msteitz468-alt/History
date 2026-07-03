@@ -1,23 +1,22 @@
 ---
-title: "Spanish Civil War (1936–1939)"
-date_start: 1936-07-17
-date_end: 1939-04-01
+title: Spanish Civil War (1936–1939)
+date_start: "1936-07-17"
+date_end: "1939-04-01"
 date_precision: exact
-period: [world-wars-era]
+period: ["world-wars-era"]
 region: [iberia, mediterranean]
-location: [Spain]
-actors_primary: [franco-francisco, Second Spanish Republic, Spanish Nationalist coalition]
-actors_secondary: [falange, nazi-germany, kingdom-of-italy (Fascist Italy), Soviet Union, International Brigades]
+causes: [Breakdown of the Second Republic and Popular Front polarization, Military conspiracy against the elected government, Deeper social conflict over land, church, and regional autonomy]
+consequences: [Nationalist victory and the Franco dictatorship to 1975, Testing ground for German and Italian intervention and matériel, Deepened European ideological polarization on the road to WWII, Roughly half a million dead including massive political repression on both sides]
+sources_ingested: ["payne-civil-war-in-europe-2011", "payne-franco-regime-1987", "paxton-europe-twentieth-century-2011"]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", iberia]
 event_type: war
-scale_immediate: regional
+location: [Spain]
+actors_primary: ["franco-francisco", Second Spanish Republic, Spanish Nationalist coalition]
+actors_secondary: [falange, "nazi-germany", "kingdom-of-italy (Fascist Italy)", Soviet Union, International Brigades]
 scale_consequential: civilizational
-causes: ["Breakdown of the Second Republic and Popular Front polarization", "Military conspiracy against the elected government", "Deeper social conflict over land, church, and regional autonomy"]
-consequences: ["Nationalist victory and the Franco dictatorship to 1975", "Testing ground for German and Italian intervention and matériel", "Deepened European ideological polarization on the road to WWII", "Roughly half a million dead including massive political repression on both sides"]
-sources_ingested: [payne-civil-war-in-europe-2011, payne-franco-regime-1987]
-last_updated: 2026-07-02
-tags: [event, world-wars-era, iberia]
+scale_immediate: regional
 ---
-
 # Spanish Civil War (1936–1939)
 
 War between the elected Popular Front government of the Second Spanish
@@ -39,6 +38,79 @@ cohesion, unified command under Franco, and steadier Axis supply against the
 Republic's internal fragmentation (culminating in the Barcelona May Days of
 1937) and dependence on Soviet aid. Madrid fell 28 March 1939; Franco declared
 victory 1 April.
+
+## Second Republic and Popular Front Prelude (Paxton and Hessler)
+
+The Second Spanish Republic (1931–1939) filled a vacuum rather than emerging
+from revolution: King Alfonso XIII left the country after the April 1931
+municipal elections revealed decisive anti-monarchist sentiment in the
+cities. The Republic passed through three distinct phases before the war.
+The "red biennium" (October 1931–November 1933), under Manuel Azaña,
+dissolved the Jesuit order, secularized and closed Catholic schools,
+permitted divorce, gave women the vote, cut military service, abolished the
+army staff college, granted Catalonia autonomy, and began a land reform that
+resettled roughly 40,000 peasants. The "black biennium" (1934–36), under the
+center-right CEDA of José María Gil Robles, reversed the anticlerical
+legislation, restored the death penalty, and ended Catalan autonomy; the
+October 1934 Asturias miners' revolt was suppressed with great bloodshed by
+Spanish Foreign Legionnaires under General Franco. The Popular Front — see
+[[popular-front]] — won the February 1936 elections, this time with
+anarchist participation.
+
+Spain's structural fragility underlay all three phases: in Andalusia, fewer
+than 2% of the population owned 66.5% of the land; Catalonia (Barcelona) and
+the Basque country were the country's only industrial regions, both with
+separatist language and identity; and *caciquismo* (local bossism) persisted
+in much of rural Spain. This war was `preceded_by: [[popular-front]]` — the
+Popular Front government's election is the immediate temporal antecedent of
+the military rising, but the rising was a coup against a legitimately
+elected government, not something the Popular Front's own policies caused;
+`contributed_to:` the pre-war land-reform program and the accompanying
+strike wave, which sharpened landowner and Church hostility toward the
+Republic. See [[blum-leon]] for the parallel French Popular Front premier
+whose non-intervention decision shaped the war's international dimension.
+
+Franco flew from the Canary Islands — where Azaña had exiled him — to
+Morocco in a British admirer's private plane; the generals gave the
+invasion signal from Spanish Morocco on July 18, 1936, and Mussolini's
+transport planes ferried Foreign Legionnaires to Andalusia as the war began.
+
+**War course**: insurgents held Andalusia and the Portuguese frontier north
+to Galicia at the outset. The Republic held Madrid unexpectedly against a
+four-column assault, giving rise to the term "fifth column" for the city's
+insurgent sympathizers. Italy sent roughly 100,000 troops (70,000 Italian
+regulars, 30,000 North African colonial troops) between December 1936 and
+April 1937; Germany sent the Condor Legion (~6,000 men) from November 1936
+(see [[german-intervention-spanish-civil-war-1936]]). Republican forces
+destroyed an Italian tank division at Guadalajara in March 1937 — Italian
+troops were mocked with the taunt "¿Cuándo te vas?" ("when are you
+leaving?"). The USSR sent roughly 400 trucks, 50 planes, 100 tanks, and 400
+pilots and drivers before nonintervention-driven port closures curtailed
+Soviet supply in late 1936.
+
+**Internal Republican conflict**: Catalonian syndicalist collectivization,
+associated with POUM, clashed with the Soviet-backed Communist Party, which
+prevailed; the Communist-dominated Catalan police arrested POUM leaders and
+closed its offices in June 1937 (George Orwell's *Homage to Catalonia*
+documents this episode from the POUM militia's perspective). Insurgent
+forces then pierced to the Bay of Biscay and, by late 1938, split Republican
+territory along the Ebro to the Mediterranean. The European democracies
+recognized Franco's government in February 1939; Madrid fell March 28, 1939.
+
+**Casualties and atrocities**: at least 500,000 deaths in total. The Condor
+Legion's bombing of Guernica on market day, April 26, 1937, inspired
+Picasso's *Guernica* and became the war's emblematic atrocity; roughly 13%
+of Spanish clergy, including 12 bishops, were murdered by Republican-side
+elements.
+
+**International volunteers**: roughly 40,000 foreign volunteers served,
+mostly with the International Brigades. Notable figures included André
+Malraux, who flew fighter planes for the Republic and wrote *Man's Hope*
+(1937); John Cornford, Charles Darwin's great-grandson, who died on his
+21st birthday; and J.B.S. Haldane. A 1937 British opinion poll of
+intellectuals found roughly 5 publicly pro-insurgent (Evelyn Waugh, Roy
+Campbell), roughly 16 neutral (T.S. Eliot, Ezra Pound), and roughly 100
+pro-Republic. Source: [[paxton-europe-twentieth-century-2011]].
 
 ## Causal Analysis
 

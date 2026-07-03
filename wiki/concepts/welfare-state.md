@@ -1,15 +1,14 @@
 ---
 title: Welfare State
 concept_type: political
-origin: "German Wohlfahrtsstaat / Bismarckian social insurance (1880s); English term popularized in Britain in the 1940s (Archbishop William Temple; the Beveridge Report, 1942); consolidated across Western Europe and the Anglosphere 1945–1975"
-applies_to_periods: [Long 19th Century, World Wars Era, Cold War, Contemporary]
-applies_to_regions: [western-europe, british-isles, north-america, scandinavia, australia]
-contested: yes
-sources_ingested: 1
-last_updated: 2026-07-02
+sources_ingested: [2]
+last_updated: "2026-07-02"
 tags: [concept]
+applies_to_periods: [Long 19th Century, World Wars Era, Cold War, Contemporary]
+applies_to_regions: ["western-europe", "british-isles", "north-america", scandinavia, australia]
+contested: yes
+origin: "German Wohlfahrtsstaat / Bismarckian social insurance (1880s); English term popularized in Britain in the 1940s (Archbishop William Temple; the Beveridge Report, 1942); consolidated across Western Europe and the Anglosphere 1945–1975"
 ---
-
 # Welfare State
 
 The twentieth-century state form in which government assumes broad
@@ -150,9 +149,25 @@ Hayek's late statement is more concessive on ends and more radical on means than
   aims/means concessions have also drawn fire from his own side (Hamowy) as
   admitting most of what the critique excludes.
 
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] supply OECD-style quantitative
+grounding for the retrenchment era Hayek's 1979 critique above addresses in the
+abstract: social spending across the principal Western European countries rose from
+**14.5% of GDP (1960) to 26.3% (1981)**, exceeding 30% in West Germany, Sweden, Holland,
+and Belgium — the fiscal expansion against which the 1970s–80s retrenchment reacted.
+Specific national episodes: Sweden's Social Democrats lost power in 1974 for the first
+time in 42 years (returning under Olof Palme in 1982, but continuing to trim spending);
+Denmark saw a tax revolt in the 1974 elections led by the Progress Party under Mogens
+Glistrup, later jailed for tax evasion. This empirical retrenchment pattern is a useful
+independent corroboration of the political pressures Hayek's critique anticipated,
+though Paxton & Hessler treat it as ordinary fiscal politics rather than as vindication
+of any particular ideological position.
+
 ## Related
 
 - [[classical-liberalism]] (contrasts_with) · [[road-to-serfdom-thesis]] · [[rule-of-law]]
+- [[paxton-europe-twentieth-century-2011]]
 - [[beveridge-report-1942]] · [[new-deal]] · [[great-depression]] · [[australian-welfare-state]]
 - [[otto-von-bismarck]] · [[roosevelt-franklin-d]] · [[prussia]]
 - Sources: [[hayek-constitution-of-liberty-1960]] · [[hayek-road-to-serfdom-1944]]

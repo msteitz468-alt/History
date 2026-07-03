@@ -2,18 +2,17 @@
 title: The Habsburg Empire (of Charles V)
 actor_type: empire
 date_start: 1519 (Charles V elected Holy Roman Emperor)
-date_end: 1556 (Charles V's abdication splits the Spanish and Austrian Habsburg lines)
+date_end: "1556 (Charles V's abdication splits the Spanish and Austrian Habsburg lines)"
 period: [Early Modern]
-region: [western-europe, iberia, mediterranean, eastern-europe, atlantic-world]
+region: ["western-europe", iberia, mediterranean, "eastern-europe", "atlantic-world"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, empire, "early-modern", "western-europe", iberia]
 affiliated_with: [the House of Habsburg, the Holy Roman Empire, the Catholic Church]
-opposed_by: [Valois France, the Ottoman Empire, the German Protestant princes (Schmalkaldic League)]
 key_events: [the election of 1519, the Italian Wars, the Sack of Rome 1527, the siege of Vienna 1529, the Schmalkaldic War, the Peace of Augsburg 1555, the abdication of 1556]
-key_processes: [[[italian-wars-1494]], [[protestant-reformation-1517]], [[military-revolution]], [[global-silver-trade]]]
-sources_ingested: 1
-last_updated: 2026-06-13
-tags: [actor, empire, early-modern, western-europe, iberia]
+key_processes: ["[[italian-wars-1494]]", "[[protestant-reformation-1517]]", "[[military-revolution]]", "[[global-silver-trade]]"]
+opposed_by: [Valois France, the Ottoman Empire, the German Protestant princes (Schmalkaldic League)]
 ---
-
 # The Habsburg Empire (of Charles V)
 
 The **empire of Charles V** (r. 1516–56) was the **composite monarchy** that made the House
@@ -72,6 +71,18 @@ relitigating — and Franz Joseph's textbook ancien-régime acceptance of the
 with a province"), followed by Königgrätz (1866), "the last of the fully
 decisive battles in Western history," whose verdict Austria likewise accepted.
 
+**Terminal collapse (1918).** The Austrian line's dynastic state — by then the Austro-Hungarian
+Empire — did not survive defeat in the First World War. Its dissolution in 1917–1919 is covered
+in full narrative detail on **[[dissolution-of-austria-hungary-1918-1919]]**, which argues the
+empire's federalization was structurally blocked by the mutual veto built into the 1867
+Compromise (*Ausgleich*) between Austria and Hungary, leaving no institutional path to
+accommodate its nationalities short of collapse; the settlement bequeathed unresolved
+nationality problems (Teschen, the Sudetenland) to the successor states, and produced, among
+other short-lived offshoots, **[[kun-bela|Béla Kun]]**'s Hungarian Soviet Republic of 1919
+([[paxton-europe-twentieth-century-2011]]). No dedicated actor pages yet exist in this wiki for
+the individual successor states (Czechoslovakia, the Kingdom of Serbs, Croats and Slovenes, rump
+Austria, rump Hungary); links to them should be added here once those pages are created.
+
 ## Significance
 
 The Habsburg empire of Charles V is the classic case of the **early-modern composite
@@ -85,3 +96,4 @@ crush the Reformation fixed the confessional division of Europe.
 - [[italian-wars-1494]] — the Habsburg–Valois struggle; [[protestant-reformation-1517]] — the schism it failed to heal.
 - [[ottoman-empire]] — its great Mediterranean/Danubian rival; [[global-silver-trade]] · [[military-revolution]] — its economic and military bases.
 - [[early-modern]] — the period; [[new-cambridge-modern-history-v2]] — the source.
+- [[dissolution-of-austria-hungary-1918-1919]] — the empire's terminal collapse, 1917–1919; [[kun-bela]] — Béla Kun's Hungarian Soviet Republic, one of its offshoots; [[paxton-europe-twentieth-century-2011]] — source for the collapse.

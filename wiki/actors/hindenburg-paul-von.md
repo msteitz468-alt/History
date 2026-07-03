@@ -4,16 +4,15 @@ actor_type: person
 date_start: 1847
 date_end: 1934
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, person, "world-wars-era", "long-19th-century", "western-europe"]
 affiliated_with: ["[[weimar-republic]]", "[[prussia]]"]
-opposed_by: []
 key_events: ["[[nazi-seizure-of-power-1933]]", "[[night-of-the-long-knives-1934]]"]
-key_processes: []
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [actor, person, world-wars-era, long-19th-century, western-europe]
+key_processes: ""
+opposed_by: ""
 ---
-
 # Paul von Hindenburg
 
 Field Marshal of the Great War (Tannenberg; effective military dictator with
@@ -48,6 +47,14 @@ democratic institutions" — "in the long run it was an unmitigated disaster for
 Weimar democracy." His wartime reputation, Evans adds, masked "a man of
 limited political vision and ability" fronting for Ludendorff (see
 [[first-world-war-1914]], [[stab-in-the-back-myth]]).
+
+## The Divided Left (Paxton & Hessler 2011)
+
+Paxton and Hessler frame the 1925 result as "a striking instance of the
+consequences of a divided Left": Communist candidate Ernst Thälmann drew
+enough votes from the centrist republican Wilhelm Marx to hand Hindenburg
+— running for the nationalist-monarchist bloc, though himself a nonparty
+war hero — the presidency. Source: [[paxton-europe-twentieth-century-2011]].
 
 ## 1932: Re-election and the Road to 30 January (Evans 2003)
 

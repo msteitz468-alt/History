@@ -1,15 +1,14 @@
 ---
 title: Gleichschaltung
 concept_type: political
-origin: [Nazi legal-political vocabulary, 1933 — "coordination"/"bringing into line", from electrical engineering]
-applies_to_periods: [World Wars Era]
-applies_to_regions: [western-europe]
-contested: no
-sources_ingested: 1
-last_updated: 2026-07-02
+sources_ingested: [2]
+last_updated: "2026-07-02"
 tags: [concept]
+applies_to_periods: [World Wars Era]
+applies_to_regions: ["western-europe"]
+contested: no
+origin: ["Nazi legal-political vocabulary", "1933 — \"coordination\"/\"bringing into line", from electrical engineering]
 ---
-
 # Gleichschaltung
 
 **Emic** Nazi term (1933) for the "coordination" of all institutions —
@@ -49,6 +48,36 @@ foreclose opposition but to render Germany "amenable to indoctrination and
 re-education." Haffner's contemporary diagnosis of why the 56% who had voted
 against the Nazis caved: "The simplest... nearly always the most basic reason
 was fear."
+
+## Paxton (2011): Churches, the Military Purges of 1938, and the Polyocracy Caveat
+
+[[paxton-europe-twentieth-century-2011|Paxton and Hessler]] extend the
+institutional account into two domains only lightly covered elsewhere on this
+page. **Churches**: German Protestantism was pressured into a single unified Reich
+Evangelical Church under the pro-Nazi "German Christians," provoking the
+Confessing Church resistance associated with Martin Niemöller (jailed after
+opposing the coordination effort); the Catholic Church, by contrast, secured a
+formal Concordat with the regime in **July 1933**, trading recognition and a
+degree of institutional protection for withdrawal from independent political
+activity. Source: [[paxton-europe-twentieth-century-2011]].
+
+**The February 1938 purges**: the **Blomberg-Fritsch affair** (War Minister
+Blomberg's marriage to a woman with a police record; a fabricated homosexuality
+charge against Army Commander-in-Chief Fritsch) and the simultaneous replacement
+of Foreign Minister Neurath by Joachim von Ribbentrop removed the last
+military and diplomatic figures capable of institutional resistance; Hitler used
+the opening to take **personal command** of the armed forces (abolishing the War
+Ministry and creating the OKW directly under himself), a step Paxton reads as
+made "with the firm intention of going to war." Source:
+[[paxton-europe-twentieth-century-2011]].
+
+Paxton also transmits Martin **Broszat**'s "polyocracy" caveat against reading
+*Gleichschaltung* as producing a single, smoothly coordinated apparatus: rivalry
+among party and state agencies persisted throughout the regime's life, concealed
+from the public mainly by Goebbels's propaganda machine rather than resolved in
+practice — a caution that reinforces this page's existing point about
+*Alltagsgeschichte* findings of incomplete coordination. Source:
+[[paxton-europe-twentieth-century-2011]].
 
 ## Limitations and Critiques
 

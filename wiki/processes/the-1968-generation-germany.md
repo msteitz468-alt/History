@@ -4,15 +4,14 @@ date_start: 1960
 date_end: 1980
 date_precision: decade
 period: [Cold War]
-region: [western-europe]
+region: ["western-europe"]
 process_type: cultural
-driven_by: [anti-imperialism, vietnam-war, frankfurt-school, vergangenheitsbewaltigung, sexual-revolution, generational-conflict]
-produces: [german-green-party, feminist-movement-germany, raf-terrorism, vergangenheitsbewaltigung]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [process, Cold War, western-europe]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [process, Cold War, "western-europe"]
+driven_by: ["anti-imperialism", "vietnam-war", "frankfurt-school", vergangenheitsbewaltigung, "sexual-revolution", "generational-conflict"]
+produces: ["german-green-party", "feminist-movement-germany", "raf-terrorism", vergangenheitsbewaltigung]
 ---
-
 ## Definition and Scope
 
 "1968" in Germany designates not a single year but a generational transformation spanning roughly 1960–1980, centered on the cohort born in the 1930s–1940s who came of age politically in the 1960s. The West German "68ers" shared a global repertoire with their French, American, and other counterparts — anti-Vietnam War activism, student radicalism, sexual liberation, challenges to authority — but had a distinctive German inflection: the unresolved confrontation with the Nazi past that their parents' generation had largely evaded. The East German context was fundamentally different; this page addresses primarily the West German process.
@@ -58,6 +57,21 @@ The 1968 generation's most durable legacy was cultural and institutional rather 
 ## East German Context
 
 The East German version of generational conflict was suppressed and deformed by the regime. Rock and punk music in the late 1970s–1980s provided limited channels for dissent. The civic groups that launched the 1989 revolution (New Forum, Democracy Now) included members of a generation that had tried to reform GDR socialism from within — a somewhat analogous but much more constrained trajectory to the West German 68ers.
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] add that West German student
+activism ran roughly **1967–1971**, with universities "nearly paralyzed" by protests and
+sit-ins; activists read Mao, Frantz Fanon, and Herbert Marcuse in informal seminars. They
+credit the Shah of Iran's 1967 state visit (consistent with the Ohnesorg killing above)
+and reports of Vietnam War bombing as immediate triggers. `concurrent_with:`
+[[may-1968-france]] — the two movements ran in close causal contact, since Rudi
+Dutschke's near-fatal shooting (see above) triggered sympathy protests in Paris. Paxton
+& Hessler also flag the earlier "**Halbstarken**" ("half-strong") — financially
+independent young working-class men who pioneered West German rock 'n' roll fandom in
+the mid-1950s — as a useful precursor data point for the youth-culture background to
+1968, though note this properly belongs to the broader consumer/youth-culture history
+of the 1950s–60s rather than the political 1968 generation narrowly construed.
 
 ## Historiography
 

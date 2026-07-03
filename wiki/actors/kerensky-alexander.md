@@ -4,16 +4,15 @@ actor_type: person
 date_start: 1881 CE
 date_end: 1970 CE
 period: [World Wars Era]
-region: [eastern-europe]
+region: ["eastern-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, person, "world-wars-era", "eastern-europe"]
 affiliated_with: [the Provisional Government, the Socialist Revolutionary Party, the Petrograd Soviet]
-opposed_by: [the Bolsheviks, the tsarist old regime, and General Lavr Kornilov]
 key_events: [the February Revolution (1917), the Kerensky Offensive (1917), the Kornilov Affair (1917), the October Revolution (1917)]
 key_processes: ["parliamentary-collapse", "revolutionary-crisis", "dual-power"]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [actor, person, world-wars-era, eastern-europe]
+opposed_by: [the Bolsheviks, the tsarist old regime, and General Lavr Kornilov]
 ---
-
 # Alexander Kerensky
 
 **Alexander Kerensky** (1881–1970) was a prominent Russian politician who served as a key leader in the **Provisional Government** of 1917, holding the positions of Minister of Justice, Minister of War, and Prime Minister. Kerensky attempted to unite moderate socialists and liberals to guide Russia toward a constitutional democracy, but his decisions to continue World War I and postpone land reform facilitated the rise of the Bolsheviks.
@@ -36,6 +35,9 @@ Following the July Days (a failed radical uprising in Petrograd) and Lvov's resi
 
 ### The Kornilov Affair (September 1917)
 In August 1917, Kerensky appointed General Lavr Kornilov as commander-in-chief of the army. In September, amidst rising unrest, Kornilov dispatched troops toward Petrograd to restore order. Fearing a military coup that would depose him, Kerensky broke with Kornilov, declared him a traitor, and appealed to the Petrograd Soviet and the workers to "save the revolution." In doing so, Kerensky authorized the release and arming of Bolshevik prisoners. The episode destroyed Kerensky's support among military officers (who felt he had betrayed Kornilov) and left the Bolsheviks armed and dominant in the capital.
+
+### The Defense of the Winter Palace (November 1917)
+Per Paxton and Hessler ([[paxton-europe-twentieth-century-2011]]), when Bolshevik forces moved against the Provisional Government, Kerensky's defense of the **Winter Palace** on the night of 7–8 November 1917 rested on little more than military cadets (*junkers*) and a 140-strong "Women's Battalion of Death" that Kerensky himself had raised earlier in 1917, intending its example to shame reluctant men into continued military service. Both forces melted away with minimal resistance once the cruiser *Aurora*, anchored on the Neva, fired its guns — mostly blank rounds — signaling the assault; the palace fell with little of the drama later assigned to it by Soviet mythology.
 
 (From Freeze 2002, lines 8029–8085): "General Lavr Kornilov, a war hero of modest origins... concluded that a true patriot must put an end to dual power... In late August Kornilov led loyal troops on a march towards Petrograd... Both accounts are true: the general did attempt a coup, believing that he had Kerensky’s support; and Kerensky did lose his nerve and renege, sacrificing the general in a desperate effort to regain popular support... Workers and paramilitary units known as Red Guards were mobilized quickly to repulse ‘counter-revolution’... Kerensky dissolved the second coalition and declared himself head of a new government, a five-man ‘Directory’." "The Kornilov affair had enormous repercussions. Kerensky’s machinations soon became public, severely damaging his personal authority... these armed forces refused to disband and became a powerful threat to the government itself. Thus the Kornilov affair, though a farce and fiasco, further eroded support for Kerensky’s government and facilitated the Bolshevik seizure of power, without, however, in any way pre-ordaining the methods or timing of the October Revolution" (lines 8083–8085). Contributed to radicalization enabling Oct; Kerensky "vain, egotistical" (lines 8007) symbolized "democratic promise and failures" (caption).
 

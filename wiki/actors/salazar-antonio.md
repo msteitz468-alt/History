@@ -5,7 +5,7 @@ date_start: 1889
 date_end: 1970
 period: [World Wars Era, Cold War]
 region: [iberia]
-sources_ingested: [1]
+sources_ingested: [2]
 last_updated: "2026-07-02"
 tags: [actor, person, "world-wars-era", "cold-war", iberia]
 affiliated_with: ["[[francoist-spain]]"]
@@ -21,6 +21,51 @@ Novo** — at 1926/33–1974 a 48-year dictatorship, the longest-lived rightist
 authoritarian system in twentieth-century western Europe, and in
 [[payne-typology-of-authoritarian-nationalism|Payne's typology]] the type
 case of the **conservative authoritarian right**, not fascism.
+
+## Rise via Financial Expertise, 1926–1932 (Paxton and Hessler)
+
+The Portuguese Republic, established in 1910, collapsed after sixteen years
+of chronic instability — 45 ministries and 15 elections, with nearly half
+the electorate abstaining — rooted in a narrow anticlerical urban liberal
+base with no rural support, and in wartime-driven inflation that eroded the
+purchasing power of civil servants and army officers by roughly half
+relative to 1914. A group of army officers seized power in 1926 while the
+countryside remained passive; by 1928, Salazar — an ascetic economics
+professor at Coimbra, a center of opposition influenced by Charles Maurras's
+"integral nationalism," and originally a seminary student — emerged as the
+new regime's indispensable figure purely on the strength of his ability to
+balance Portugal's finances, first as finance minister and then, from 1932,
+as premier. Paxton and Hessler call his the "most insular and longest-lived
+clerical authoritarian regime of modern Europe." Source:
+[[paxton-europe-twentieth-century-2011]].
+
+## The Constitution of 1933 and the Estado Novo's Structure (Paxton and Hessler)
+
+The Constitution of 1933 established a nonparty Chamber alongside a Chamber
+of Corporations, barred opposition candidates, made the premier responsible
+only to the president (a role Salazar left to compliant generals rather than
+holding himself), forbade strikes, and barred married women from
+employment. Salazar abolished direct presidential elections altogether in
+1959, after a 1958 opposition presidential candidacy had come uncomfortably
+close to exposing the regime's fragile legitimacy.
+
+In 1936 — concurrently with the [[spanish-civil-war-1936|Spanish Civil
+War]] and the broader Iberian "fascistizing" tendency already noted below —
+the regime adopted fascist external trappings: the green-shirted Mocidade
+Portuguesa youth movement (compulsory for ages 7–14) and the Roman-saluting
+Portuguese Legion. The regime was renamed the Estado Novo the same year.
+Salazar nonetheless personally crushed the genuinely fascist National
+Syndicalist movement in 1933–34 (see below) and consistently avoided mass
+mobilization on the Italian or German model.
+
+Economically, Salazar prioritized balanced budgets over growth throughout
+the regime's early decades: industrial output stood at only one-fifth of
+agricultural value in 1934, and the first Development Plan was not launched
+until 1953–58. Paxton and Hessler judge the Estado Novo "better called
+authoritarian than fascist" — it ruled through existing elites rather than
+through a mobilizing single party — and treat `analogous_to:
+[[dollfuss-engelbert]]`'s Austrian clerical authoritarianism as its closest
+European parallel. Source: [[paxton-europe-twentieth-century-2011]].
 
 ## The Estado Novo (Payne, 1980)
 
@@ -111,6 +156,15 @@ Lucena's fascism-without-a-movement thesis versus the standard
 conservative-corporatist classification; Payne splits the difference.
 Collection note: this page rests on Payne's comparative chapters; no
 dedicated Portugal monograph has been ingested.
+
+## Post-Mortem Trajectory
+
+The Estado Novo and Franco's regime, close analogues for decades, met very
+different ends: Portugal's dictatorship (Salazar incapacitated 1968, formally
+ended by the [[carnation-revolution-1974|Carnation Revolution]] of April
+1974) fell to a military coup and rapid decolonization, while Spain's moved
+through the gradualist [[spanish-transition-to-democracy|Spanish Transition
+to Democracy]] following [[death-of-franco-1975|Franco's death]] in 1975.
 
 ## Related
 

@@ -4,16 +4,15 @@ actor_type: state
 date_start: 1940
 date_end: 1944
 period: [World Wars Era]
-region: [western-europe]
-affiliated_with: [nazi-germany (armistice relationship; collaboration sought by Vichy)]
-opposed_by: [free-french, french-resistance, united-kingdom]
-key_events: [fall-of-france-1940, franco-german-armistice-1940, vichy-anti-jewish-laws-1940, operation-torch-1942]
-key_processes: [national-revolution-vichy, the-holocaust]
-sources_ingested: [paxton-vichy-france-1972, payne-history-of-fascism-1995]
-last_updated: 2026-07-02
-tags: [actor, state, world-wars-era, western-europe]
+region: ["western-europe"]
+sources_ingested: ["paxton-vichy-france-1972", "payne-history-of-fascism-1995", "paxton-europe-twentieth-century-2011"]
+last_updated: "2026-07-02"
+tags: [actor, state, "world-wars-era", "western-europe"]
+affiliated_with: ["nazi-germany (armistice relationship; collaboration sought by Vichy)"]
+key_events: ["fall-of-france-1940", "franco-german-armistice-1940", "vichy-anti-jewish-laws-1940", "operation-torch-1942"]
+key_processes: ["national-revolution-vichy", "the-holocaust"]
+opposed_by: ["free-french", "french-resistance", "united-kingdom"]
 ---
-
 # Vichy France (État français), 1940–1944
 
 The authoritarian French state established after the [[fall-of-france-1940]],
@@ -157,6 +156,10 @@ grounded" that nonetheless enabled active collusion in the Nazi genocide;
 Pétain is compared to Hindenburg, "not... Hitler." France's genuine fascist
 ideologues (Doriot, Déat) were marginalized within it despite their
 collaborationist zeal.
+
+## From Paxton and Hessler, *Europe in the Twentieth Century* (2011)
+
+Paxton and Hessler stress that Vichy's **divided legitimacy** — a rival claim to French sovereignty at home against de Gaulle's Free France abroad — had no real parallel among the Netherlands, Norway, and Belgium, whose governments-in-exile preserved unified legitimacy while their monarchs (Leopold III as a prisoner in occupied Belgium; Christian X's daily rides through occupied Copenhagen) embodied national continuity without competing for governing authority. See [[national-revolution-vichy]] for the fuller treatment of Vichy's institutional program (abolition of parliament and unions, corporatism run by big-company executives, the anti-Semitic statutes) and the 24 October 1940 Montoire meeting. Occupation costs reached some 58% of French tax receipts. Postwar surveys suggest only ~2% of French adults were in active resistance and ~10% read the clandestine press — with at least as many French people remaining supportive of Pétain to the end. Source: [[paxton-europe-twentieth-century-2011]].
 
 ## Related
 

@@ -1,23 +1,22 @@
 ---
-title: Enabling Act, 23 March 1933
-date_start: 1933-03-23
-date_end: 1933-03-23
+title: "Enabling Act, 23 March 1933"
+date_start: "1933-03-23"
+date_end: "1933-03-23"
 date_precision: exact
 period: [World Wars Era]
-region: [western-europe]
-location: [berlin, reichstag, kroll-opera-house]
+region: ["western-europe"]
+causes: ["hitler-chancellorship-30-january-1933", "reichstag-fire-decree", "intimidation-and-arrests-of-opposition", "conservative-partners-miscalculation", "nazi-parliamentary-plurality-plus-allies"]
+consequences: ["end-of-weimar-constitutional-order", "dictatorial-powers-for-hitler-government", gleischschaltung, "destruction-of-parliamentary-democracy", "foundation-of-third-reich"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "western-europe", machtergreifung, "enabling-act", dictatorship, 1933]
+event_type: legislation
+location: [berlin, reichstag, "kroll-opera-house"]
 actors_primary: ["adolf-hitler", "nazi-party", "german-national-peoples-party", "centre-party"]
 actors_secondary: ["social-democratic-party", "communist-party"]
-event_type: legislation
-scale_immediate: national
 scale_consequential: civilizational
-causes: ["hitler-chancellorship-30-january-1933", "reichstag-fire-decree", "intimidation-and-arrests-of-opposition", "conservative-partners-miscalculation", "nazi-parliamentary-plurality-plus-allies"]
-consequences: ["end-of-weimar-constitutional-order", "dictatorial-powers-for-hitler-government", "gleischschaltung", "destruction-of-parliamentary-democracy", "foundation-of-third-reich"]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, western-europe, machtergreifung, enabling-act, dictatorship, 1933]
+scale_immediate: national
 ---
-
 # Enabling Act (Ermächtigungsgesetz), 23 March 1933
 
 ## Narrative
@@ -79,10 +78,34 @@ It marked the formal end of parliamentary democracy in Germany and the birth of 
   annihilate ideas that are eternal and indestructible." Hitler, replying from
   an advance press copy: "Germany's star will rise and yours will sink...
   Germany shall be free, but not through you!"
-- **Vote and afterlife**: 444–94 (only the SPD against; the bill would have
+- **Vote and afterlife**: 444–94 [CONTRADICTION: Paxton & Hessler give 441–92 — see below] (only the SPD against; the bill would have
   passed even with every SPD and KPD deputy present and voting no). Renewed
   1937 and 1939; made permanent by decree in 1943. Hindenburg was thereafter
   a rubber stamp or bypassed entirely.
+
+## Paxton (2011): Vote Count, Aftermath, and the January 1934 Reichsrat Abolition
+
+[[paxton-europe-twentieth-century-2011|Paxton and Hessler]] give the vote as
+**441 in favor to 92 against**, with only the SPD opposed; the KPD's 81 elected
+deputies and 12 SPD deputies were already jailed and so could not vote at all.
+Source: [[paxton-europe-twentieth-century-2011]].
+
+**[CONTRADICTION] (flagged 2026-07-02)**: this page's existing narrative (from
+Evans/Kershaw) gives the vote as **444–94**. Paxton and Hessler give **441–92**.
+Both figures appear in reputable secondary literature on the vote; the discrepancy
+likely reflects differing treatment of absentee/incapacitated deputies or rounding
+in secondary synthesis rather than a substantive dispute, but it is preserved here
+unresolved per the wiki's contradiction protocol pending closer source comparison.
+Sources: [[evans-coming-of-third-reich-2003]] (444–94) vs.
+[[paxton-europe-twentieth-century-2011]] (441–92).
+
+Paxton also dates the **Dachau concentration camp**'s opening to spring 1933,
+concurrent with the Act's immediate aftermath, and notes that by January 1934 the
+regime abolished the Reichsrat (the upper chamber representing the federal states)
+and the office of state governor (*Statthalter*) outright, completing Germany's
+transformation into its first genuinely centralized state — a step of which Paxton
+writes: "Even Bismarck had not dared to go so far." Source:
+[[paxton-europe-twentieth-century-2011]].
 
 ## Historiography
 

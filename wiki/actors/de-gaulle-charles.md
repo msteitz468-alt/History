@@ -4,16 +4,16 @@ actor_type: person
 date_start: 1890
 date_end: 1970
 period: [World Wars Era, Cold War]
-region: [western-europe]
-affiliated_with: [free-french]
-opposed_by: [vichy-france, nazi-germany]
-key_events: [fall-of-france-1940, franco-german-armistice-1940, d-day-1944]
-key_processes: []
-sources_ingested: [paxton-vichy-france-1972]
-last_updated: 2026-07-01
-tags: [actor, person, world-wars-era, cold-war, western-europe]
+region: ["western-europe"]
+sources_ingested: ["paxton-vichy-france-1972", "paxton-europe-twentieth-century-2011", "logevall-embers-of-war-2012"]
+last_updated: "2026-07-02"
+tags: [actor, person, "world-wars-era", "cold-war", "western-europe"]
+affiliated_with: ["free-french"]
+aliases: [Charles de Gaulle]
+key_events: ["fall-of-france-1940", "franco-german-armistice-1940", "d-day-1944", "japanese-coup-indochina-1945"]
+key_processes: ["french-indochina"]
+opposed_by: ["vichy-france", "nazi-germany"]
 ---
-
 # Charles de Gaulle (1890–1970)
 
 French general and statesman. Junior brigadier general and undersecretary of
@@ -50,10 +50,45 @@ in none so closely as when they talked contemptuously of the 'regime of
 parties'" — both were, in Weber's phrase about the age, "Maurrassien without
 knowing it."
 
-*(Summary page; the Fifth Republic career awaits post-1945 French sources.)*
+## Indochina, 1944–1946
+
+After the liberation of France, de Gaulle insisted that Indochina must be
+recovered for the French Empire and selected Leclerc to lead the
+Expeditionary Corps; his early postwar policy set the course for the French
+return and the subsequent war ([[logevall-embers-of-war-2012]]; see
+[[french-indochina]] and [[japanese-coup-indochina-1945]]).
+
+## The Fifth Republic (1958–1969), from Paxton & Hessler, *Europe in the Twentieth Century*
+
+The Fifth Republic's founding context was the 1958 Algiers crisis: army and settler
+pressure, culminating in the near-collapse of the Fourth Republic, brought de Gaulle
+back to power, ratified by the September 1958 constitutional referendum. He governed
+1958–1969 in a style he himself described, in a 1961 letter to his son, as "a kind of
+popular monarchy" — a strong, semi-presidential executive designed to end the chronic
+cabinet instability of the Fourth Republic (see [[french-fourth-republic]]). The October
+1962 referendum established **direct popular election of the president**, deepening the
+office's plebiscitary character over the objections of much of the parliamentary
+establishment.
+
+During the crisis of [[may-1968-france|May 1968]], de Gaulle disappeared without
+warning to French military headquarters in Baden-Baden, West Germany (May 29, 1968) to
+confirm the loyalty of General Massu's forces before returning to offer wage
+concessions that split the student-worker alliance and defused the immediate crisis.
+The resulting June 1968 snap election gave the Gaullists their first-ever absolute
+parliamentary majority — a striking reversal of the crisis's apparent momentum.
+
+On alliance policy: de Gaulle withdrew French forces from NATO's integrated military
+command in stages — 1959 (Mediterranean fleet and air squadrons), 1963 (Atlantic/
+Channel fleets), and 1966 (full withdrawal from the integrated command structure while
+remaining within the Atlantic Alliance itself) — prompting NATO headquarters to
+relocate from near Paris to Brussels. See [[nato]] for the alliance-wide context.
+
+*(Summary page combining the Vichy-era antithesis narrative above with the Fifth
+Republic career from Paxton & Hessler.)*
 
 ## Related
 
 [[vichy-france]] · [[petain-philippe]] · [[fall-of-france-1940]] ·
 [[franco-german-armistice-1940]] · [[d-day-1944]] · [[vichy-shield-thesis]] ·
-[[paxton-vichy-france-1972]]
+[[paxton-vichy-france-1972]] · [[french-fourth-republic]] · [[may-1968-france]] ·
+[[nato]] · [[paxton-europe-twentieth-century-2011]]

@@ -1,19 +1,18 @@
 ---
-title: "Free Corps (Freikorps)"
-actor_type: military-force
+title: Free Corps (Freikorps)
+actor_type: "military-force"
 date_start: 1918
 date_end: 1923
 period: [World Wars Era]
-region: [western-europe]
-affiliated_with: [initially sanctioned by the SPD-led government, army command, nationalist right]
-opposed_by: [[[november-revolution-1918]] radicals, Spartacists/KPD, later the [[weimar-republic]] itself]
-key_events: [[[november-revolution-1918]], [[kapp-putsch-1920]], [[munich-revolution-1918-1919]]]
-key_processes: [[[weimar-democracy-and-its-collapse]]]
-sources_ingested: [evans-coming-of-third-reich-2003]
-last_updated: 2026-07-02
-tags: [actor, military-force, world-wars-era, western-europe]
+region: ["western-europe"]
+sources_ingested: ["evans-coming-of-third-reich-2003", "paxton-europe-twentieth-century-2011"]
+last_updated: "2026-07-02"
+tags: [actor, "military-force", "world-wars-era", "western-europe"]
+affiliated_with: ["initially sanctioned by the SPD-led government", army command, nationalist right]
+key_events: ["[[november-revolution-1918]]", "[[kapp-putsch-1920]]", "[[munich-revolution-1918-1919]]"]
+key_processes: ["[[weimar-democracy-and-its-collapse]]"]
+opposed_by: ["[[november-revolution-1918]] radicals", Spartacists/KPD, "later the [[weimar-republic]] itself"]
 ---
-
 # Free Corps (Freikorps)
 
 Paramilitary units of demobilized veterans and younger volunteers formed after
@@ -49,6 +48,21 @@ Secret assassination squads (Organization Consul) murdered
 Evans's causal point (attributed): the SPD's own recruitment of the Free Corps
 contributed_to the right-wing paramilitary violence that later helped destroy
 the [[weimar-republic|Republic]] — a self-undermining dynamic.
+
+## Genealogy and the Baltic Crusade (Paxton & Hessler 2011)
+
+Paxton and Hessler trace the Free Corps' distinctive style to a fusion of
+sources: the antibourgeois romanticism of the pre-war Wandervögel youth
+movement, hardened by the front-fighter experience of the trenches, and
+sharpened further by veterans of the post-armistice "Baltic crusade" —
+Free Corps units that fought on past November 1918 against Bolshevik and
+Latvian forces in the Baltic states, developing a taste for irregular,
+annihilationist warfare unconstrained by any state authority before being
+recalled to suppress the German revolution at home. Bavaria became a
+particular magnet for this right-wing paramilitary culture after General
+Franz Ritter von Epp's Free Corps crushed the Munich Soviet in May 1919,
+leaving the state under Gustav von Kahr's right-tolerant "cell of order."
+Source: [[paxton-europe-twentieth-century-2011]].
 
 ## Legacy
 

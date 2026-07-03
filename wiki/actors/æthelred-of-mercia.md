@@ -1,20 +1,19 @@
 ---
 title: Æthelred of Mercia
 actor_type: person
-date_start: "675"
-date_end: "704"
-date_precision: approximate
+date_start: 675
+date_end: 704
 period: [Early Middle Ages]
-region: [british-isles]
-affiliated_with: [[mercia]]
-opposed_by: [[kingdom-of-northumbria]]
-key_events: []
-key_processes: [[christianisation-of-anglo-saxon-england]]
-sources_ingested: 1
-last_updated: 2026-06-27
-tags: [actor, person, early-middle-ages, british-isles]
+region: ["british-isles"]
+sources_ingested: [1]
+last_updated: "2026-06-27"
+tags: [actor, person, "early-middle-ages", "british-isles"]
+date_precision: approximate
+affiliated_with: ["[mercia]"]
+key_events: ""
+key_processes: ["[christianisation-of-anglo-saxon-england]"]
+opposed_by: ["[kingdom-of-northumbria]"]
 ---
-
 ## Overview
 
 Æthelred, brother and successor of [[wulfhere-of-mercia]], reigned as king of the Mercians from 675 to 704, when he abdicated to become a monk at Bardney in Lincolnshire. Bede assigns him a thirty-year reign (HE V, 24); the Anglo-Saxon Chronicle counts twenty-nine years (that is, he died in his thirtieth year). Together these sources bracket his reign to 675–704.

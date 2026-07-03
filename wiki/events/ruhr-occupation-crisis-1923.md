@@ -1,23 +1,22 @@
 ---
-title: "Ruhr Occupation Crisis (1923)"
-date_start: 1923-01-11
+title: Ruhr Occupation Crisis (1923)
+date_start: "1923-01-11"
 date_end: 1925
 date_precision: exact
 period: [World Wars Era]
-region: [western-europe]
-location: [Ruhr valley, Germany]
-actors_primary: [France, Belgium, [[weimar-republic]]]
-actors_secondary: [[[gustav-stresemann]], Ruhr workers and industrialists]
+region: ["western-europe"]
+causes: ["German default on [[treaty-of-versailles-1919]] reparations deliveries", French security policy under Poincaré]
+consequences: ["[[hyperinflation-1923]]", "[[dawes-plan-1924]]", radicalization of German nationalism, "[[beer-hall-putsch-1923]]"]
+sources_ingested: ["evans-coming-of-third-reich-2003", "paxton-europe-twentieth-century-2011"]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "western-europe"]
 event_type: political
-scale_immediate: regional
+location: [Ruhr valley, Germany]
+actors_primary: [France, Belgium, "[[weimar-republic]]"]
+actors_secondary: ["[[gustav-stresemann]]", Ruhr workers and industrialists]
 scale_consequential: civilizational
-causes: [German default on [[treaty-of-versailles-1919]] reparations deliveries, French security policy under Poincaré]
-consequences: [[[hyperinflation-1923]], [[dawes-plan-1924]], radicalization of German nationalism, [[beer-hall-putsch-1923]]]
-sources_ingested: [evans-coming-of-third-reich-2003]
-last_updated: 2026-07-02
-tags: [event, world-wars-era, western-europe]
+scale_immediate: regional
 ---
-
 # Ruhr Occupation Crisis (1923)
 
 The Franco-Belgian military occupation of the Ruhr industrial district from
@@ -37,6 +36,19 @@ struggle was called off toward the end of September 1923, when
 guaranteed reparations payments — the opening of the "fulfilment" policy that
 led to the [[dawes-plan-1924|Dawes Plan]].
 
+Paxton and Hessler ([[paxton-europe-twentieth-century-2011]]) give a concrete
+sense of the hyperinflation's speed via the cost of living for a family of
+four: 463,000 marks on 25 April 1923, 981,000 marks by 6 June 1923, and
+84,000,000 marks by 14 August 1923 — a trajectory the Ruhr occupation and
+passive-resistance financing sharply accelerated. The crisis followed close
+on the failure of an earlier German attempt at compliance: Walther Rathenau,
+as Foreign Minister, negotiated a 1922 agreement allowing partial payment of
+reparations *in kind* (goods and materials rather than gold) rather than
+cash; he was assassinated in June 1922 by antisemitic nationalist
+army officers of the Organisation Consul, an early sign of the violent
+radical-right rejection of any policy of fulfilment that would also shape
+reactions to the Ruhr crisis itself.
+
 ## Causal Analysis
 
 - caused_by: German arrears in gold-priced coal deliveries under
@@ -54,6 +66,11 @@ led to the [[dawes-plan-1924|Dawes Plan]].
   radicalized autumn of 1923 that produced the
   [[beer-hall-putsch-1923|Beer-Hall Putsch]].
 - produced: [[dawes-plan-1924]] and Franco-German de-escalation (Locarno).
+- enabled: the **[[locarno-treaties-1925|Locarno Treaties (1925)]]** — Paxton and Hessler
+  ([[paxton-europe-twentieth-century-2011]]) frame Ruhr/hyperinflation and the Dawes Plan as the
+  hinge between the "years of coercion" (1919–1923) and the "years of conciliation" that Locarno
+  opened, both sides having exhausted themselves: by 1928 the French franc had lost roughly 80%
+  of its prewar purchasing power.
 
 ## Historiography
 

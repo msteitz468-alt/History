@@ -4,20 +4,19 @@ date_start: 1989
 date_end: 1989
 date_precision: year
 period: [Cold War]
-region: [eastern-europe]
+region: ["eastern-europe"]
+causes: [the economic exhaustion of communism, "Gorbachev's reforms and abandonment of the Brezhnev Doctrine", "long-suppressed national and democratic aspirations", "the Helsinki human-rights process"]
+consequences: [the fall of the East European communist regimes, the fall of the Berlin Wall, German reunification, the end of the Warsaw Pact, the path to the Soviet collapse]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "cold-war", "eastern-europe"]
+event_type: [revolution, political]
 location: [Poland, Hungary, East Germany, Czechoslovakia, Bulgaria, Romania]
 actors_primary: [the peoples of Eastern Europe, Solidarity (Poland), Mikhail Gorbachev, the communist regimes]
-actors_secondary: [the Soviet Union, [[1991-end-of-cold-war]], [[cold-war]]]
-event_type: [revolution, political]
-scale_immediate: regional
+actors_secondary: [the Soviet Union, "[[1991-end-of-cold-war]]", "[[cold-war]]"]
 scale_consequential: global
-causes: [the economic exhaustion of communism, Gorbachev's reforms and abandonment of the Brezhnev Doctrine, long-suppressed national and democratic aspirations, the Helsinki human-rights process]
-consequences: [the fall of the East European communist regimes, the fall of the Berlin Wall, German reunification, the end of the Warsaw Pact, the path to the Soviet collapse]
-sources_ingested: 1
-last_updated: 2026-06-13
-tags: [event, cold-war, eastern-europe]
+scale_immediate: regional
 ---
-
 # The Revolutions of 1989
 
 The **Revolutions of 1989** were the largely peaceful collapse, within a single year, of the
@@ -84,6 +83,46 @@ The events are a touchstone in debates over the Cold War's end: how much credit 
 Western pressure (Reagan's arms build-up), to Gorbachev's choices, to the Helsinki
 human-rights process and civil-society movements, and to the structural exhaustion of the
 communist economies. Lévesque's emphasis on **Gorbachev's restraint** is now central.
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] give a country-by-country
+"falling dominoes" chronology that sharpens the narrative above:
+
+1. **Poland**: January 1989 roundtable talks agreed; June 4, 1989 elections in which
+   Solidarity won nearly every contested seat; Mazowiecki became the bloc's first
+   noncommunist prime minister.
+2. **Hungary**: Kádár ousted May 1988; June 1989 state reburial of Imre Nagy; Hungary
+   cut the barbed-wire fence with Austria in May 1989 and formally opened the border
+   September 10, 1989 — the "first hole in the Iron Curtain," which triggered the East
+   German exodus via Hungary.
+3. **East Germany**: Leipzig demonstrations from October 16; Honecker ousted October 18;
+   the Berlin Wall opened November 9, 1989 when crowds overwhelmed border guards — see
+   [[fall-of-the-berlin-wall-1989]].
+4. **Bulgaria**: Zhivkov replaced by Petur Mladenov, November 10, 1989.
+5. **Czechoslovakia**: mass Prague demonstrations from November 17 after police beat
+   student protesters; Civic Forum (Havel plus Charter 77 veterans) formed a parallel
+   government at the Magic Lantern theater; Havel was elected president and Dubček
+   president of parliament in late December 1989 — the "velvet revolution."
+6. **Romania**: the sole violent case. Ceaușescu ordered troops to fire on protesters in
+   Timișoara (December 17, 1989); the army defected; the Ceaușescus were captured while
+   fleeing and shot after a summary military trial on Christmas Day 1989.
+   **[CONTRADICTION] flag**: Paxton & Hessler cite roughly **4,000 dead** in the
+   Timișoara massacre. This figure is now generally considered a substantial
+   overstatement — subsequent investigations and most other sources give a much lower
+   toll (typically cited in the range of several dozen to low hundreds killed at
+   Timișoara specifically, with several hundred more nationwide during the wider
+   December 1989 violence). Both figures are preserved here rather than silently
+   resolved; a dedicated  entry on Romanian 1989 casualty figures
+   would be warranted given how widely the contemporary Western press's initial
+   (inflated) casualty estimates diverged from later scholarship.
+7. **Albania** alone remained isolated under Maoist-style rule until fall 1990.
+
+The root driver Paxton & Hessler stress is consistent with Lévesque above: Gorbachev's
+explicit repudiation of the Brezhnev Doctrine (an April 1987 warning delivered in
+Prague, and the explicit October 7, 1989 statement to Honecker) removed the credible
+threat of Soviet military intervention that had underwritten every prior satellite
+regime's survival in 1953, 1956, and 1968.
 
 ## Related
 

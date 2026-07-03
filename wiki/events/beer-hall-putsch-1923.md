@@ -1,24 +1,23 @@
 ---
 title: Beer Hall Putsch (1923)
-date_start: 1923-11-08
-date_end: 1923-11-09
+date_start: "1923-11-08"
+date_end: "1923-11-09"
 date_precision: exact
-dating_method: documentary
 period: [World Wars Era]
-region: [western-europe]
-location: [Munich, Bavaria]
-actors_primary: [["adolf-hitler"], ["actors/ludendorff-erich"], ["ernst-rohm"], ["gregor-strasser"], ["weimar-republic|Gustav Ritter von Kahr"], ["weimar-republic|Otto von Lossow"], ["weimar-republic|Hans von Seißer"]]
-actors_secondary: [["weimar-republic|Bavarian government"], ["weimar-republic|Reichswehr 7th Division"], ["bund-oberland"], ["reichsflagge"]]
+region: ["western-europe"]
+causes: ["[\"weimar-republic|hyperinflation and Ruhr crisis 1923\"]", "[\"total-war-germany-1914-1918|WWI defeat and 'stab-in-the-back' myth\"]", "[\"weimar-democracy-and-its-collapse|Bavarian 'cell of order' separatism and paramilitary culture\"]", "[\"adolf-hitler|Hitler's 'drummer' agitation and all-or-nothing temperament\"]", "[\"mussolini-march-on-rome|example of Mussolini's March on Rome\"]"]
+consequences: ["[\"adolf-hitler|Landsberg imprisonment and dictation of Mein Kampf\"]", "[\"adolf-hitler|shift from 'drummer' to Führer self-image\"]", "[\"weimar-republic|temporary stabilization of Bavaria and decline of völkisch vote 1924\"]", "[\"nsdap-refoundation-1925|decision for 'legal' path and refoundation of NSDAP\"]", "[\"hubs/biographies/world-wars-era/adolf-hitler|genesis of Führer cult and mastery over movement\"]"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "western-europe", coup, transition, "adolf-hitler", nsdap]
 event_type: coup
-scale_immediate: regional
+location: [Munich, Bavaria]
+actors_primary: ["[\"adolf-hitler\"]", "[\"actors/ludendorff-erich\"]", "[\"ernst-rohm\"]", "[\"gregor-strasser\"]", "[\"weimar-republic|Gustav Ritter von Kahr\"]", "[\"weimar-republic|Otto von Lossow\"]", "[\"weimar-republic|Hans von Seißer\"]"]
+actors_secondary: ["[\"weimar-republic|Bavarian government\"]", "[\"weimar-republic|Reichswehr 7th Division\"]", "[\"bund-oberland\"]", "[\"reichsflagge\"]"]
+dating_method: documentary
 scale_consequential: civilizational
-causes: [["weimar-republic|hyperinflation and Ruhr crisis 1923"], ["total-war-germany-1914-1918|WWI defeat and 'stab-in-the-back' myth"], ["weimar-democracy-and-its-collapse|Bavarian 'cell of order' separatism and paramilitary culture"], ["adolf-hitler|Hitler's 'drummer' agitation and all-or-nothing temperament"], ["mussolini-march-on-rome|example of Mussolini's March on Rome"]]
-consequences: [["adolf-hitler|Landsberg imprisonment and dictation of Mein Kampf"], ["adolf-hitler|shift from 'drummer' to Führer self-image"], ["weimar-republic|temporary stabilization of Bavaria and decline of völkisch vote 1924"], ["nsdap-refoundation-1925|decision for 'legal' path and refoundation of NSDAP"], ["hubs/biographies/world-wars-era/adolf-hitler|genesis of Führer cult and mastery over movement"]]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, western-europe, coup, transition, adolf-hitler, nsdap]
+scale_immediate: regional
 ---
-
 # Beer Hall Putsch (1923)
 
 ## Narrative
@@ -74,6 +73,24 @@ Kershaw emphasises that the putsch was never merely Hitler's putsch. 'The "Hitle
 The event sealed Hitler's personal transition from agitator/drummer to self-proclaimed Führer. It also illustrated the structural dependence of his early career on Bavarian particularism and elite miscalculation. Later Nazi historiography turned the fiasco into a heroic foundation myth; serious scholarship (Kershaw) stresses contingency, dilettantism, and the enabling role of conservative nationalists who thought they could use or contain him.
 
 **Collection Coverage Note**: Kershaw provides the definitive modern narrative synthesis based on Goebbels diaries, speech editions, and Bavarian archival material. The putsch is treated as the necessary precondition for the later 'legal' strategy and the consolidation of charismatic leadership.
+
+## Paxton & Hessler (2011) Corroboration
+
+Paxton and Hessler situate the putsch within the full 1923 crisis —
+Ruhr occupation, hyperinflation, and the KPD's attempted risings in Hamburg
+and Thuringia — and confirm the core mechanics: Kahr, Lossow, and Seißer's
+pledge of support, extorted in the Bürgerbräukeller on 8 November, was
+repudiated once they were released; Röhm held the War Ministry building
+during the putsch; the 9 November march to the Odeonsplatz was met with
+police gunfire that left, per Paxton and Hessler, sixteen Nazis and four
+police dead — a minor **[CONTRADICTION]** with the fourteen-marcher count
+given elsewhere on this page from Evans (2003); the underlying event and
+its consequences are not in dispute, only the precise Nazi death toll (14
+vs. 16). At his
+subsequent trial, Hitler turned the courtroom into a propaganda platform,
+declaring "I wanted to become the destroyer of Marxism" — a line Paxton and
+Hessler read as the moment Hitler recast personal failure as the founding
+myth of his movement. Source: [[paxton-europe-twentieth-century-2011]].
 
 ## Evans (2003) Additions
 

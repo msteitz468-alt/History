@@ -1,23 +1,39 @@
 ---
 title: Adolf Hitler
 actor_type: person
-date_start: 1889-04-20
-date_end: 1945-04-30
-period: [world-wars-era]
+date_start: "1889-04-20"
+date_end: "1945-04-30"
+period: ["world-wars-era"]
 region: [europe]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, person, "world-wars-era", germany]
 affiliated_with: [Nazi Party, German Reich]
-opposed_by: [Allied powers, internal opposition]
-key_events: [beer-hall-putsch-1923, munich-agreement-1938, invasion-of-poland-1939, battle-of-stalingrad-1942-1943, d-day-1944, battle-of-the-bulge-1944, suicide-in-berlin-1945]
-key_processes: [rise-of-nazism, holocaust, blitzkrieg, total-war-mobilization]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [actor, person, world-wars-era, germany]
 aliases: [Hitler Adolf, Der Führer]
+key_events: ["beer-hall-putsch-1923", "munich-agreement-1938", "invasion-of-poland-1939", "battle-of-stalingrad-1942-1943", "d-day-1944", "battle-of-the-bulge-1944", "suicide-in-berlin-1945"]
+key_processes: ["rise-of-nazism", holocaust, blitzkrieg, "total-war-mobilization"]
+opposed_by: [Allied powers, internal opposition]
 ---
-
 # Adolf Hitler
 
 Austrian-born German politician who led the Nazi Party and became Chancellor (1933) then Führer of Germany. Architect of the Third Reich, aggressive expansion leading to World War II, and the Holocaust. His decisions drove German strategy from early victories (Blitzkrieg, 1939-1941) to catastrophic overreach (Barbarossa, Stalingrad, Ardennes). Committed suicide in Berlin as the war ended.
+
+**Early career (Paxton & Hessler 2011)**: Hitler's Vienna years were
+cushioned by his mother's gifts and inheritance, contrary to the poverty
+narrative Hitler himself constructed in *Mein Kampf*; he emigrated to
+Munich in part to avoid the Austrian draft, then served four years in the
+Great War as a runner, was twice wounded, won the Iron Cross First Class,
+was gassed in 1918, and claimed to have experienced a political vision
+during a period of temporary blindness. In 1919 the army assigned him,
+undercover, to investigate the German Workers' Party (DAP), founded in
+March 1918 by a Munich locksmith; he joined instead, becoming card number
+555, and went full-time with the party from April 1920. The party newspaper
+*Völkischer Beobachter* was purchased with funding split half from Röhm
+and Epp and half from two wealthy women patrons. Paxton and Hessler read
+the Twenty-Five Points (February 1920) as small-creditor grievance
+politics rather than socialism — "a better guide to lower-middle-class
+grievances than to later Nazi action." Source:
+[[paxton-europe-twentieth-century-2011]].
 
 **Contemporary reading (Flynn 1944, attributed)**: [[flynn-as-we-go-marching-1944|Flynn]]'s
 mid-war analysis treats Hitler as the sixth member of Drexler's crackpot German

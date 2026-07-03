@@ -1,20 +1,19 @@
 ---
 title: Cædwalla of Wessex
 actor_type: person
-date_start: "686"
-date_end: "688"
-date_precision: approximate
+date_start: 686
+date_end: 688
 period: [Early Middle Ages]
-region: [british-isles]
-affiliated_with: [[kingdom-of-wessex]]
-opposed_by: []
-key_events: []
-key_processes: [[christianisation-of-anglo-saxon-england]]
-sources_ingested: 1
-last_updated: 2026-06-27
-tags: [actor, person, early-middle-ages, british-isles]
+region: ["british-isles"]
+sources_ingested: [1]
+last_updated: "2026-06-27"
+tags: [actor, person, "early-middle-ages", "british-isles"]
+date_precision: approximate
+affiliated_with: ["[kingdom-of-wessex]"]
+key_events: ""
+key_processes: ["[christianisation-of-anglo-saxon-england]"]
+opposed_by: ""
 ---
-
 ## Overview
 
 Cædwalla was a West Saxon prince of the Gewissian line who burst from exile onto the political stage in the mid-680s, briefly established the most extensive overkingship in southern England, and then abdicated in 688 to seek baptism in Rome, dying within ten days of receiving it on 10 April 689. His meteoric career created and then dissolved a potential West Saxon dominance of the south before Ine could consolidate it.

@@ -2,16 +2,16 @@
 title: Leon Trotsky
 actor_type: person
 date_start: 1879
-date_end: 1940-08-21
+date_end: "1940-08-21"
 period: [World Wars Era]
-region: [eastern-europe]
-affiliated_with: [[soviet-union|Soviet Union]], [[bolshevik-party|Bolshevik Party]]]
-opposed_by: [[russian-empire|Russian Empire]], [[white-movement|White Movement]], [[stalin-joseph|Joseph Stalin]]]
-key_events: [[russian-revolution-1917|October Revolution of 1917]], [[treaty-of-brest-litovsk-1918|Treaty of Brest-Litovsk]], [[war-communism|War Communism]], [[new-economic-policy|New Economic Policy]]]
-key_processes: [[war-communism|War Communism]], [[new-economic-policy|New Economic Policy]]]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [actor, person, world-wars-era, eastern-europe]
+region: ["eastern-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, person, "world-wars-era", "eastern-europe"]
+affiliated_with: ["[soviet-union|Soviet Union]]", "[[bolshevik-party|Bolshevik Party]]"]
+key_events: ["[russian-revolution-1917|October Revolution of 1917]]", "[[treaty-of-brest-litovsk-1918|Treaty of Brest-Litovsk]]", "[[war-communism|War Communism]]", "[[new-economic-policy|New Economic Policy]]"]
+key_processes: ["[war-communism|War Communism]]", "[[new-economic-policy|New Economic Policy]]"]
+opposed_by: ["[russian-empire|Russian Empire]]", "[[white-movement|White Movement]]", "[[stalin-joseph|Joseph Stalin]]"]
 ---
 # Leon Trotsky
 
@@ -38,6 +38,23 @@ From Service (lines 1023–1035): "Trotski’s adaptiveness to the role... was i
 Trotsky advocated accelerated industrialization, state planning, and European revolution. He criticized NEP "scissors crisis" (1923) and the stifling of party democracy (The New Course). Stalin, Zinoviev and Kamenev allied against him as "anti-Leninist." Trotsky lost his military post (Jan 1925) and Politburo seat (Dec 1925). The United Opposition (with Zinoviev/Kamenev) was crushed in 1926–27; Trotsky was expelled from the party (Nov 1927) and exiled to Alma-Ata (1928). He refused to recant.
 
 From Service (lines 1318–1356): Stalin used "Socialism in One Country" against Trotsky’s internationalism. "Fear of Trotski continued to be greater than annoyance with Stalin."
+
+## The Industrialization Debate and a 1923 Cultural Vision (Paxton & Hessler 2011)
+
+Trotsky led the "Left" faction in the 1920s industrialization debate (see
+[[new-economic-policy]]), advocating capital extraction from the peasantry
+via a deliberate price "scissors" and intensified international
+revolutionary pressure — against Bukharin's "Right" position, which Stalin
+backed to marginalize Trotsky through the mid-1920s. Trotsky was removed as
+War Commissar in 1925 as the Stalin–Bukharin alignment marginalized the
+Left, and forced into exile in 1929, where he wrote of "the revolution
+betrayed" and the Stalinist "substitution" of party for proletariat. In
+1923, before his marginalization, Trotsky offered an optimistic vision of
+Communist cultural transformation that captures his intellectual style
+against Stalin's more purely administrative one: "man will become
+immeasurably stronger, wiser, and subtler... The average human type will
+rise to the heights of an Aristotle, a Goethe, or a Marx" (*Literature and
+Revolution*). Source: [[paxton-europe-twentieth-century-2011]].
 
 ## Historiography (per Service)
 

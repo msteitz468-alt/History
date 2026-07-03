@@ -4,15 +4,14 @@ date_start: 1914
 date_end: 1918
 date_precision: year
 period: [World Wars Era]
-region: [western-europe, eastern-europe, north-america, transregional]
+region: ["western-europe", "eastern-europe", "north-america", transregional]
 process_type: [economic, political]
-driven_by: [the insatiable material demands of [[total-war]], the munitions crisis, mass conscription, the failure of the market to allocate war resources]
+sources_ingested: [3]
+last_updated: "2026-07-02"
+tags: [process, "world-wars-era", "western-europe"]
+driven_by: ["the insatiable material demands of [[total-war]]", the munitions crisis, mass conscription, the failure of the market to allocate war resources]
 produces: [the command/managed war economy, the lasting expansion of the state, planning precedents for the 1930s and the Second World War, postwar economic instability]
-sources_ingested: 2
-last_updated: 2026-06-14
-tags: [process, world-wars-era, western-europe]
 ---
-
 # The War Economy and the Expansion of State Power
 
 The **war economy** of 1914–18 was the transformation by which belligerent states subsumed
@@ -69,7 +68,14 @@ counterpart of its military ([[first-world-war-1914]]) and cultural
 ([[war-memory-and-mourning]]) dimensions. It interacted with **labour movements** (whose
 bargaining power rose), with **[[nationalism|the nation-state]]** (whose reach expanded), and
 with the **global economy** (war debt, inflation, the eclipse of the gold standard, and the
-shift of financial power to the United States).
+shift of financial power to the United States). Labour's wartime bargaining leverage was
+formalized as well as expanded ([[paxton-europe-twentieth-century-2011|Paxton]], ch. 4):
+Britain's Treasury Agreement (March 1915) traded relaxed union work rules for arbitration and
+a seat on the National Labour Advisory Committee; Germany's Auxiliary Service Law (December
+1916) paired conscription of war labour with unions' first formal role in factory- and
+regional-level boards (German union membership rose from 967,000 in 1916 to 1,107,000 in
+1917); the war ended with the Stinnes-Legien Agreement in Germany and 1920 legal recognition
+of collective bargaining in France.
 
 ## End Conditions
 

@@ -1,19 +1,18 @@
 ---
 title: Æthelwulf of Wessex
 actor_type: person
-date_start: "839"
-date_end: "858"
+date_start: 839
+date_end: 858
 period: [Early Middle Ages]
-region: [british-isles]
-affiliated_with: [[kingdom-of-wessex]]
-opposed_by: []
-key_events: [[battle-of-ellendun-825]]
-key_processes: [[mercian-supremacy]]
-sources_ingested: 1
-last_updated: 2026-06-27
-tags: [actor, person, early-middle-ages, british-isles]
+region: ["british-isles"]
+sources_ingested: [1]
+last_updated: "2026-06-27"
+tags: [actor, person, "early-middle-ages", "british-isles"]
+affiliated_with: ["[kingdom-of-wessex]"]
+key_events: ["[battle-of-ellendun-825]"]
+key_processes: ["[mercian-supremacy]"]
+opposed_by: ""
 ---
-
 ## Overview
 
 Æthelwulf was king of the West Saxons from 839 to 858, son of [[ecgberht-of-wessex|Ecgberht]] and father of four successive West Saxon kings — Æthelbald, Æthelberht, Æthelred, and Alfred (the Great). Before his accession he served as sub-king of Kent and the south-eastern provinces from c. 825, leading the initial conquest of Kent after [[battle-of-ellendun-825|Ellendun]] in 825. His reign was defined by the escalating Viking threat, a celebrated state visit to Rome and the Frankish court (855–6), a controversial marriage to the Carolingian princess Judith, and a complex dynastic settlement whose contested terms reverberated into the reign of Alfred.

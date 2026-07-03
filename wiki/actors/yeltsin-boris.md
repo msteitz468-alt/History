@@ -1,17 +1,17 @@
 ---
 title: Boris Yeltsin
 actor_type: person
-date_start: 1931-02-01
-date_end: 2007-04-23
+date_start: "1931-02-01"
+date_end: "2007-04-23"
 period: [Cold War, Contemporary]
-region: [eastern-europe]
-affiliated_with: [[russian-federation|Russian Federation]], [[bolshevik-party|Bolshevik Party]]] (formerly)
-opposed_by: [[gorbachev-mikhail|Mikhail Gorbachev]] (politically), "Communist Hardliners", "Russian Parliament (1993)", "Chechen Separatists"]
-key_events: [[august-coup-1991|August Coup]], [[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]], [[russian-constitutional-crisis-1993|1993 Constitutional Crisis]], [[first-chechen-war-1994|First Chechen War]], [[russian-financial-crisis-1998|1998 Financial Crisis]]]
-key_processes: [[economic-shock-therapy|Economic Shock Therapy]], [[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]]
-sources_ingested: 3
-last_updated: 2026-06-22
-tags: [actor, person, cold-war, contemporary, eastern-europe]
+region: ["eastern-europe"]
+sources_ingested: [4]
+last_updated: "2026-07-02"
+tags: [actor, person, "cold-war", contemporary, "eastern-europe"]
+affiliated_with: ["[[russian-federation|Russian Federation]], [[bolshevik-party|Bolshevik Party]]] (formerly)"]
+key_events: ["[august-coup-1991|August Coup]]", "[[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]", "[[russian-constitutional-crisis-1993|1993 Constitutional Crisis]]", "[[first-chechen-war-1994|First Chechen War]]", "[[russian-financial-crisis-1998|1998 Financial Crisis]]"]
+key_processes: ["[economic-shock-therapy|Economic Shock Therapy]]", "[[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]"]
+opposed_by: ["[gorbachev-mikhail|Mikhail Gorbachev]] (politically)", Communist Hardliners, Russian Parliament (1993), Chechen Separatists]
 ---
 # Boris Yeltsin
 ## Biography / Description
@@ -42,6 +42,26 @@ Yeltsin's later role (August Coup, dissolution) lies outside this range. Within 
 
 ## Counterfactual Significance (from range)
 Had Yeltsin not been promoted or had he been retained in high office, the pace of Moscow reform might have been faster or conflict with Ligachëv sharper earlier. His removal in 1987 temporarily isolated Gorbachev as the "solitary fore-rider" of change. The glasnost he championed as Moscow boss helped create the public space that later enabled his independent political career.
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] corroborate and extend the
+1991–1999 presidency detail above. On the rise: Yeltsin's June 1991 election as
+president of the Russian Federation by universal suffrage was the **first popularly
+elected leadership in Russian history**. During the August 1991 coup, they credit him
+with mobilizing roughly **70,000 civilian defenders** of the White House while Gorbachev
+was held under house arrest on holiday — the tank-climbing image already noted above.
+
+On shock therapy, they add specific outcome figures: by 1993, **30–80% of Russians**
+fell below the poverty line; organized crime controlled an estimated **40% of the
+economy** by 1999 (economist Marshall Goldman's term for the outcome was "supply-side
+depression"); the August 1998 default on $40bn of debt, alongside a 75% ruble
+devaluation, wiped out middle-class savings — consistent with the hyperinflation and
+GDP collapse figures already documented above from Freeze. They also cite a
+journalist's description of the privatization process as "grabitization"
+(*prikhvatizatsiia*), echoing "shares-for-loans grab-ization" already noted. On the
+handover: Yeltsin resigned December 31, 1999, with over a year left in his term, naming
+Vladimir Putin acting president; Putin's first act granted Yeltsin legal immunity.
 
 ## Historiography
 Service presents Yeltsin's 1985–87 Moscow tenure as an energetic drive that won popular support but exhausted Gorbachev's patience. The 1987 episode (hospital drugs, conference humiliation) is one of Gorbachev's most disgraceful personal actions. Yeltsin's Conference return showed resilience and public appetite for a bolder figure. The range emphasizes his intuitive politics and lack of coherent programme at this stage (lines 3184, 3234).

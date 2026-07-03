@@ -4,20 +4,19 @@ date_start: 1968
 date_end: 2007
 date_precision: year
 period: [Cold War, Contemporary]
-region: [british-isles]
-location: [northern-ireland, ireland, united-kingdom]
-actors_primary: [provisional-ira, ulster-volunteer-force, ulster-defence-association, northern-ireland-government, british-army]
-actors_secondary: [sdlp, sinn-fein, ulster-unionist-party, democratic-unionist-party, irish-government]
+region: ["british-isles"]
+causes: ["northern-ireland-civil-rights-movement", "stormont-unionist-rule-discrimination", "partition-of-ireland-1921", "sunningdale-failure-1974"]
+consequences: ["good-friday-agreement-1998", "police-service-northern-ireland", "power-sharing-executive-2007", "irish-historical-revisionism"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "cold-war", contemporary, "british-isles"]
 event_type: war
-scale_immediate: civilizational
+location: ["northern-ireland", ireland, "united-kingdom"]
+actors_primary: ["provisional-ira", "ulster-volunteer-force", "ulster-defence-association", "northern-ireland-government", "british-army"]
+actors_secondary: [sdlp, "sinn-fein", "ulster-unionist-party", "democratic-unionist-party", "irish-government"]
 scale_consequential: civilizational
-causes: [northern-ireland-civil-rights-movement, stormont-unionist-rule-discrimination, partition-of-ireland-1921, sunningdale-failure-1974]
-consequences: [good-friday-agreement-1998, police-service-northern-ireland, power-sharing-executive-2007, irish-historical-revisionism]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [event, cold-war, contemporary, british-isles]
+scale_immediate: civilizational
 ---
-
 ## Narrative
 
 The Troubles were a thirty-year conflict (approximately 1968–1998/2007) centred on [[northern-ireland]] but with significant episodes in Britain and the Republic of Ireland. The conflict had three identifiable phases as analyzed in Paul Arthur's chapter (ch. 37 of Jackson, *Oxford Handbook*): analysis/frozen violence (late 1960s–1985), negotiation (1985–1998), and implementation (1998–2007).
@@ -62,4 +61,22 @@ The Troubles generated an extraordinarily large scholarly literature. John Whyte
 
 The Troubles complicated Irish historiography more broadly: revisionist historians who challenged nationalist myths of the revolution were accused of providing propaganda for Unionism, while traditionalists were accused of legitimating IRA violence. This debate now has 'somewhat subsided' in the post-1998 environment (ch. 31).
 
-**Links:** [[jackson-oxford-modern-irish-history-2014]] | [[northern-ireland]] | [[good-friday-agreement-1998]] | [[ulster-unionism]] | [[eamon-de-valera]] | [[irish-historiography-revisionism]]
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] treat the Provisional IRA
+(formed 1969) and Spain's ETA as related-but-distinct ethno-nationalist insurgencies,
+worth distinguishing from Marxist-Leninist terrorism proper (the Red Brigades and West
+German RAF, `analogous_to` but not identical — see [[the-1968-generation-germany]] for
+the RAF). Their casualty figures broadly corroborate the totals above: Provisional IRA
+activity alone is credited with 1,800+ killed and ~20,000 injured over 30 years, with
+security forces and Protestant paramilitaries responsible for a further ~1,200 deaths
+in the same period (these figures parcel out the ~3,600 total above by perpetrator
+rather than contradicting it). They additionally flag the October 1968 Derry march and
+subsequent police crackdown as a proximate trigger (consistent with the People's
+Democracy protests already documented); the 1971 internment policy and mid-1970s
+"criminalization" of political prisoners; and Bobby Sands's 1981 hunger-strike death and
+election to Westminster — over 100,000 mourners attended his funeral, and Sinn Féin's
+subsequent electoral support peaked at 13%. They also note the 1985 Anglo-Irish
+Agreement as a further diplomatic step alongside the ones already covered above.
+
+**Links:** [[jackson-oxford-modern-irish-history-2014]] | [[paxton-europe-twentieth-century-2011]] | [[northern-ireland]] | [[good-friday-agreement-1998]] | [[ulster-unionism]] | [[eamon-de-valera]] | [[irish-historiography-revisionism]]

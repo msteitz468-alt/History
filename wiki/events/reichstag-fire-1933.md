@@ -1,23 +1,22 @@
 ---
 title: Reichstag Fire (1933)
-date_start: 1933-02-27
-date_end: 1933-02-28
+date_start: "1933-02-27"
+date_end: "1933-02-28"
 date_precision: exact
 period: [World Wars Era]
-region: [western-europe]
-location: [Berlin]
-actors_primary: ["[[nazi-germany]]", "[[adolf-hitler]]", "[[goring-hermann]]"]
-actors_secondary: ["KPD (Communist Party of Germany)"]
-event_type: political
-scale_immediate: civilizational
-scale_consequential: civilizational
+region: ["western-europe"]
 causes: ["[[unknown]]"]
 consequences: ["[[nazi-seizure-of-power-1933]]", "[[enabling-act-23-march-1933]]"]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [event, world-wars-era, western-europe]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "western-europe"]
+event_type: political
+location: [Berlin]
+actors_primary: ["[[nazi-germany]]", "[[adolf-hitler]]", "[[goring-hermann]]"]
+actors_secondary: [KPD (Communist Party of Germany)]
+scale_consequential: civilizational
+scale_immediate: civilizational
 ---
-
 # Reichstag Fire (27–28 February 1933)
 
 The burning of the Reichstag building, set — on the scholarly consensus Evans
@@ -103,6 +102,17 @@ powers to the Hitler government."
 The Tobias–Mommsen lone-arsonist thesis vs. recurring Nazi-complicity
 revivals (Bahar/Kugel); Evans sides with the former.
 
+## Paxton (2011): Corroboration
+
+[[paxton-europe-twentieth-century-2011|Paxton and Hessler]] corroborate the
+lone-arsonist consensus — van der Lubbe is "no longer believed" to have been a
+Nazi hire — while stressing that the Nazi leadership's alarm was not wholly
+manufactured: they genuinely feared a Communist rising in the fire's wake. The 28
+February decree suspended freedom of speech and assembly "for good, as it turned
+out" — Paxton's phrase for how a nominally emergency measure became the permanent
+legal scaffolding of the dictatorship. Source: [[paxton-europe-twentieth-century-2011]].
+
 ## Sources
 
 - [[evans-coming-of-third-reich-2003]]
+- [[paxton-europe-twentieth-century-2011]]

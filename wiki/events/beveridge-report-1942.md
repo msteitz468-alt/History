@@ -1,23 +1,22 @@
 ---
 title: The Beveridge Report
-date_start: 1942-12-02
-date_end: 1942-12-02
+date_start: "1942-12-02"
+date_end: "1942-12-02"
 date_precision: exact
 period: [World Wars Era]
-region: [british-isles]
+region: ["british-isles"]
+causes: ["trade-union complaints about fragmented social-insurance programs", wartime social solidarity and the discrediting of interwar stagnation, "Bevin's maneuver placing Beveridge in the chair"]
+consequences: [the postwar British welfare state (family allowances, comprehensive social insurance, NHS, "full-employment commitment)", worldwide policy influence, "[[road-to-serfdom-thesis]] (as provocation)"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "british-isles"]
+event_type: political
 location: [London]
 actors_primary: [William Beveridge]
-actors_secondary: [Ernest Bevin, the Labour Party, the Treasury, [[hayek-friedrich]]]
-event_type: political
-scale_immediate: regional
+actors_secondary: [Ernest Bevin, the Labour Party, the Treasury, "[[hayek-friedrich]]"]
 scale_consequential: civilizational
-causes: [trade-union complaints about fragmented social-insurance programs, wartime social solidarity and the discrediting of interwar stagnation, Bevin's maneuver placing Beveridge in the chair]
-consequences: [the postwar British welfare state (family allowances, comprehensive social insurance, NHS, full-employment commitment), worldwide policy influence, [[road-to-serfdom-thesis]] (as provocation)]
-sources_ingested: 1
-last_updated: 2026-07-01
-tags: [event, world-wars-era, british-isles]
+scale_immediate: regional
 ---
-
 # The Beveridge Report (2 December 1942)
 
 The **Report of the Interdepartmental Committee on Social Insurance and Allied
@@ -89,6 +88,29 @@ without an economic barrier at any point") founders, he argued, on the absence
 of any objective standard of medical need — while noting the plan "was not
 originally intended as an instrument of income redistribution but was promptly
 turned into such by the politicians." See [[welfare-state]].
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] cover a related but distinct
+second Beveridge report, *Full Employment in a Free Society* (February 1943), which
+extended the 1942 social-insurance report's logic into employment policy specifically.
+They quote Beveridge's condemnation of the "unplanned market economy" for "its failure
+to generate sufficient steady demand for its products," and his more moderate framing
+that it was "sufficient to... socialize demand... not necessary to socialize
+production... The need for socialism has not yet been demonstrated" — a notably more
+liberal position than Labour's own 1945 manifesto language, which denounced
+"bureaucratically-run private monopolies which may be likened to totalitarian
+oligarchies." The gap between Beveridge's liberal framing and Labour's more explicitly
+socialist mandate is worth preserving as an interpretive distinction.
+
+Downstream implementation, per Paxton & Hessler: the **National Health Service** from
+1948 (architect Aneurin Bevan), with 95% of the British public enrolled with NHS doctors
+by 1950; the **Education Act of 1944** (introducing the "eleven-plus" exam); and the
+**Town and Country Planning Act of 1943**. The broader economic strain of the postwar
+settlement is registered in the **devaluation of the pound in September 1949** ($4.03 →
+$2.80), forced by US pressure to restore convertibility after the failed 1947
+experiment — useful context for the fiscal difficulty of sustaining the new welfare
+architecture. See [[welfare-state]].
 
 ## Related
 

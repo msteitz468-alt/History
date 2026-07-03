@@ -1,19 +1,18 @@
 ---
 title: Willy Brandt
 actor_type: person
-date_start: 1913-12-18
-date_end: 1992-10-08
+date_start: "1913-12-18"
+date_end: "1992-10-08"
 period: [Cold War]
-region: [western-europe]
-affiliated_with: [SPD, west-germany]
-opposed_by: [CDU/CSU, east-germany, Soviet Union]
-key_events: [fall-of-the-berlin-wall-1989, german-reunification-1990]
-key_processes: [ostpolitik, two-germanies-cold-war, vergangenheitsbewaltigung]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [actor, person, Cold War, western-europe]
+region: ["western-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, person, Cold War, "western-europe"]
+affiliated_with: [SPD, "west-germany"]
+key_events: ["fall-of-the-berlin-wall-1989", "german-reunification-1990"]
+key_processes: [ostpolitik, "two-germanies-cold-war", vergangenheitsbewaltigung]
+opposed_by: [CDU/CSU, "east-germany", Soviet Union]
 ---
-
 ## Role and Title
 
 Willy Brandt (born Herbert Ernst Karl Frahm; assumed the nom de guerre "Willy Brandt" as an anti-Nazi resistance operative) served as Governing Mayor of West Berlin (1957–1966), Federal Foreign Minister in the Grand Coalition government (1966–1969), and Federal Chancellor of the Federal Republic of Germany (21 October 1969 – 7 May 1974). He was awarded the Nobel Peace Prize in 1971.
@@ -43,6 +42,23 @@ Without Brandt's Ostpolitik, the path to 1989 would have been different. The hum
 Contemporary sources compared Brandt to the American JFK — a charismatic, young (by German political standards), media-savvy leader who embodied the aspirations of his generation. Unlike Adenauer's patriarchal Kanzlerdemokratie, Brandt's style was rhetorically more democratic and reformist. The comparison has its limits: Brandt governed a more complex political landscape, his domestic reforms were more modest than his foreign policy ambitions, and the Guillaume Affair ended his chancellorship prematurely.
 
 Brandt's Nobel Peace Prize (1971) was awarded for Ostpolitik — recognition that normalization, rather than confrontation, was the path to reducing Cold War tensions and enabling eventual change. The prize was also a recognition of Germany's rehabilitation: a country that had launched two world wars was now recognized for peacemaking.
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] corroborate the December 1970
+Warsaw Ghetto kneeling and add the awkward **March 1970 Erfurt meeting** with East
+German premier Willi Stoph, where crowds surged forward chanting Brandt's name — an
+embarrassment to East German claims of legitimacy that foreshadowed the broader
+information-and-contact dynamic credited above with eroding SED authority. They also
+place the December 1972 Christmas travel opening (~500,000 West German visits to the
+East) and June 1973 dual UN admission ("the most dramatic negotiated change in European
+state relations since the Locarno Agreements of 1925") in the treaty sequence — see
+[[ostpolitik]] for the fuller milestone table. On the 1974 resignation, they add fuller
+context: Günter Guillaume's exposure as a Stasi agent working inside Brandt's own office
+was, beyond personal embarrassment, a serious breach that forced Brandt's hand within
+days. His successor **Helmut Schmidt** (SPD, 1974–1982) continued Ostpolitik's moderate
+policies; Schmidt does not yet have a dedicated `actors/` page in this wiki — flagged as
+a gap for a future pass.
 
 ## Historiography
 

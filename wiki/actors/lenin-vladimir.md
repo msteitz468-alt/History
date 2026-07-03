@@ -2,16 +2,16 @@
 title: Vladimir Lenin
 actor_type: person
 date_start: 1870
-date_end: 1924-01-21
+date_end: "1924-01-21"
 period: [World Wars Era]
-region: [eastern-europe]
-affiliated_with: [[soviet-union|Soviet Union]], [[bolshevik-party|Bolshevik Party]]]
-opposed_by: [[russian-empire|Russian Empire]], [[trotsky-leon|Leon Trotsky]] (initially), [[menshevik-party|Mensheviks]], Socialist Revolutionaries, [[white-movement|White Movement]]]
-key_events: [[russian-revolution-1917|October Revolution of 1917]], [[treaty-of-brest-litovsk-1918|Treaty of Brest-Litovsk]], [[war-communism|War Communism]], [[new-economic-policy|New Economic Policy]]]
-key_processes: [[war-communism|War Communism]], [[new-economic-policy|New Economic Policy]]]
-sources_ingested: 2
-last_updated: 2026-06-22
-tags: [actor, person, world-wars-era, eastern-europe]
+region: ["eastern-europe"]
+sources_ingested: [3]
+last_updated: "2026-07-02"
+tags: [actor, person, "world-wars-era", "eastern-europe"]
+affiliated_with: ["[soviet-union|Soviet Union]]", "[[bolshevik-party|Bolshevik Party]]"]
+key_events: ["[russian-revolution-1917|October Revolution of 1917]]", "[[treaty-of-brest-litovsk-1918|Treaty of Brest-Litovsk]]", "[[war-communism|War Communism]]", "[[new-economic-policy|New Economic Policy]]"]
+key_processes: ["[war-communism|War Communism]]", "[[new-economic-policy|New Economic Policy]]"]
+opposed_by: ["[russian-empire|Russian Empire]]", "[[trotsky-leon|Leon Trotsky]] (initially)", "[[menshevik-party|Mensheviks]]", Socialist Revolutionaries, "[[white-movement|White Movement]]"]
 ---
 # Vladimir Lenin
 
@@ -42,6 +42,21 @@ From Service (lines 1140–1152, 333): "the retreat in economics was to be accom
 Suffering severe headaches, Lenin suffered a major stroke in May 1922 and was sidelined. In late 1922–early 1923 he dictated his political testament, criticizing Stalin ("too crude"), warning of a split between Stalin and Trotsky, and advocating worker influx into central bodies to combat bureaucracy. He broke personally with Stalin over abuse of Krupskaya and the Georgian affair. A further stroke (6 Mar 1923) left him speechless and paralysed; he died 21 Jan 1924.
 
 Lenin’s idiosyncratic ideas (dictatorship, industrialization, nationality policy) and actions shaped the Soviet state more than any other single figure. Contingency mattered: "it was not a foregone conclusion that Stalin would defeat Trotski."
+
+## The Kronstadt Trigger and Late Anxieties About Bureaucracy (Paxton & Hessler 2011)
+
+Lenin introduced the New Economic Policy in March 1921 as a direct
+emergency response to the [[kronstadt-rebellion-1921|Kronstadt rebellion]]
+and simultaneous peasant disorders (118 recorded incidents in February 1921
+alone) and Petrograd strikes. He paired this economic liberalization with
+tightened political control: the March–April 1921 ban on internal party
+factions and the empowerment of the Central Committee to expel public
+dissenters. Toward the end of his life Lenin worried explicitly about
+bureaucratic dilution of party control, remarking of Moscow's 4,700
+Communist leaders amid "an enormous mass of bureaucrats": "I very much
+doubt if it can be said that the Communists are leading. I think it can be
+said that they are being led." (Quoted via Moshe Lewin, *Lenin's Last
+Struggle*.) Source: [[paxton-europe-twentieth-century-2011]].
 
 ## Historiography (per Service)
 

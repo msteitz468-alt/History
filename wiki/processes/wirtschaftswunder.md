@@ -4,15 +4,14 @@ date_start: 1948
 date_end: 1973
 date_precision: year
 period: [Cold War]
-region: [western-europe]
+region: ["western-europe"]
 process_type: economic
-driven_by: [Marshall Plan, currency reform 1948, Korean War rearmament demand, social market economy, undervalued DM, EEC membership, full employment, pent-up consumer demand]
-produces: [west-germany, german-european-integration, german-multiculturalism]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [process, Cold War, western-europe]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [process, Cold War, "western-europe"]
+driven_by: [Marshall Plan, currency reform 1948, Korean War rearmament demand, social market economy, undervalued DM, EEC membership, full employment, "pent-up consumer demand"]
+produces: ["west-germany", "german-european-integration", "german-multiculturalism"]
 ---
-
 ## Definition and Scope
 
 Wirtschaftswunder — literally "economic miracle" — refers to West Germany's extraordinary postwar economic expansion from the late 1940s through the early 1970s. National income in the Federal Republic quadrupled between 1950 and 1980. The phrase captures both the speed and the apparent improbability of recovery: in 1945, German cities lay in rubble, industrial capacity was shattered, and millions were displaced. Within a decade, the FRG had the largest economy in Western Europe and was delivering rising living standards to its citizens at an unprecedented rate. The economic transformation underwrote political stabilization — the Wirtschaftswunder was inseparable from the consolidation of West German democracy and the social contract of the Adenauer era.
@@ -52,6 +51,26 @@ The Wirtschaftswunder was prerequisite for the [[german-european-integration]] p
 ## End Conditions
 
 The 1973 oil shock ended the era of automatic expansion. Structural unemployment emerged for the first time since the early 1950s. West Germany adapted to the knowledge economy through industrial modernization but lost its remarkable convergence rate. The [[two-germanies-cold-war]] dynamic persisted, with FRG material prosperity increasingly contrasting with GDR stagnation, eventually becoming a major factor in GDR delegitimization.
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] identify the technical starting
+point precisely: the currency reform of **June 20, 1948** (40 new Deutschmarks issued per
+40 Reichsmarks), engineered under **Ludwig Erhard**, Adenauer's economics minister and
+coiner of the term **"soziale Marktwirtschaft"** ("social market economy"). Their causal
+package largely corroborates the drivers above but adds emphasis on: an energetic and
+disciplined workforce; the Western Allies' abandonment of earlier plans to break up
+Germany's major industrial combines; the refugee-labor influx from Eastern Europe (see
+Labor Supply above); the absence of any military or colonial spending burden; and an
+unplanned stimulus from Korean War-driven machinery exports (1951–53), consistent with
+the Korean War Demand Surge driver above.
+
+Paxton & Hessler draw an explicit contrast between West Germany's market-oriented
+recovery and the more dirigiste mixed-economy models pursued in Britain (under the
+[[beveridge-report-1942|Beveridge-era welfare state]]) and France — a useful
+`contrasts_with` link on economic-planning-philosophy grounds, since the Wirtschaftswunder
+achieved comparable postwar recovery through a substantially different institutional
+route than the contemporaneous British welfare-state and French dirigiste paths.
 
 ## Historiography
 

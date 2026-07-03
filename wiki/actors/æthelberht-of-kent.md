@@ -4,16 +4,15 @@ actor_type: person
 date_start: c. 560 (birth disputed; Kirby argues c. 560 based on 56 years = age not regnal length)
 date_end: 616 or 618 CE (disputed; see Historiography)
 period: [Late Antiquity, Early Middle Ages]
-region: [british-isles]
-affiliated_with: [[kingdom-of-kent]], [[christianisation-of-anglo-saxon-england]]
-opposed_by: []
-key_events: [[augustine-mission-597]]
-key_processes: [[christianisation-of-anglo-saxon-england]]
-sources_ingested: 1
-last_updated: 2026-06-27
-tags: [actor, person, early-middle-ages, late-antiquity, british-isles]
+region: ["british-isles"]
+sources_ingested: [1]
+last_updated: "2026-06-27"
+tags: [actor, person, "early-middle-ages", "late-antiquity", "british-isles"]
+affiliated_with: ["[kingdom-of-kent]]", "[[christianisation-of-anglo-saxon-england]"]
+key_events: ["[augustine-mission-597]"]
+key_processes: ["[christianisation-of-anglo-saxon-england]"]
+opposed_by: ""
 ---
-
 ## Overview
 
 Æthelberht, king of Kent, was the first Anglo-Saxon king to be securely attested in contemporary written record — Pope Gregory I's letter of 601 addresses him as "king of the Angles." He is the third ruler in Bede's list of southern brytenwealdas, said to have exercised overlordship (imperium) over all Anglo-Saxon kingdoms south of the Humber. He received Augustine and the Gregorian mission in 597, was baptized between 597 and 601, promulgated the earliest surviving Anglo-Saxon lawcode, and established Canterbury as the first archiepiscopal see. His reign was the pivotal moment in the Christianisation of the English.

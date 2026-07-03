@@ -3,17 +3,16 @@ title: Georges Clemenceau
 actor_type: person
 date_start: 1841
 date_end: 1929
-period: [world-wars-era]
-region: [western-europe, france]
-affiliated_with: []
-opposed_by: []
-key_events: []
-key_processes: [french-war-leadership-1917-1918]
-sources_ingested: [doughty-pyrrhic-victory-2005]
-last_updated: 2026-06-24
-tags: [actor, person, world-wars-era, western-europe, france]
+period: ["world-wars-era"]
+region: ["western-europe", france]
+sources_ingested: ["doughty-pyrrhic-victory-2005", "paxton-europe-twentieth-century-2011"]
+last_updated: "2026-07-02"
+tags: [actor, person, "world-wars-era", "western-europe", france]
+affiliated_with: ""
+key_events: ""
+key_processes: ["french-war-leadership-1917-1918"]
+opposed_by: ""
 ---
-
 # Georges Clemenceau
 
 French politician (1841–1929). "The Tiger." Prime Minister and Minister of War from 16 November 1917. Famous for "War. Nothing but war." Restored political will, quashed defeatism, and navigated high command frictions during 1917–18 crisis.
@@ -42,6 +41,10 @@ Clarified political-military relations: ended closed sessions eroding ministers;
 **1918 crisis leadership.** During Michael offensive, met Pétain; received pessimistic assessment and warnings of possible government move from Paris; relayed to Poincaré and Council of Ministers. Did not order "cover Paris at all costs" (Pétain acted on own priorities). At Doullens (26 Mar) and Beauvais (3 Apr) meetings supported expansion of Foch's authority (coordinator then strategic direction), despite earlier backing Pétain. "The Tiger’s eloquent and firm defense saved Foch and Pétain" from Chamber demands for relief/court-martial after Chemin des Dames (vote of confidence 377-110). Increasingly favored Foch ("Pétain, who has his faults, belongs more in the second rank than in the first"); enforced Pétain's obedience to Foch directives at War Committee (26 Jun). (Ch. 9, 455, 469-470)
 
 Quashed defeatism while sustaining republican government at lowest point (civil war fears reported by British ambassador).
+
+[[paxton-europe-twentieth-century-2011|Paxton]]'s comparative framing: Clemenceau, "a crusty old atheist democrat, trained as a doctor," had a long parliamentary career as "a scourge of all governments" and had used the army to smash strikes as premier in 1906–09 before becoming, in 1917, the leader who most fully imposed total-war discipline on France's home front — cracking down on suspected defeatists (Malvy exiled, Caillaux imprisoned pending trial, editor Paul Bolo executed) and famously introducing his cabinet to parliament with four words instead of a policy speech: "Je fais la guerre!" ("I make war!").
+
+At the peace conference, [[paxton-europe-twentieth-century-2011|Paxton]] adds, Clemenceau opposed Marshal Foch's push — Foch going over Clemenceau's head to lobby the conference directly — for full separation of the Rhineland from Germany, accepting instead a demilitarized (but not detached) Rhineland plus a fifteen-year Allied occupation and British and American treaties of guarantee. Those guarantees lapsed when the US Senate refused to ratify [[treaty-of-versailles-1919|Versailles]], a lapse Clemenceau's supporters regarded as a betrayal, since France's territorial concessions had been made partly in exchange for them.
 
 ## Causal Analysis
 

@@ -1,21 +1,21 @@
 ---
-title: Molotov-Ribbentrop Pact
-date_start: 1939-08-23
-date_end: 1939-08-23
+title: "Molotov-Ribbentrop Pact"
+date_start: "1939-08-23"
+date_end: "1939-08-23"
 date_precision: exact
 period: [World Wars Era]
-region: [eastern-europe, western-europe]
-location: [Moscow]
-actors_primary: [[stalin-joseph|Joseph Stalin]], [[molotov-viacheslav|Viacheslav Molotov]], Nazi Germany (Joachim von Ribbentrop)]
-actors_secondary: [Adolf Hitler, Great Britain, France, Poland]
-event_type: treaty
-scale_immediate: civilizational
-scale_consequential: global
-causes: [failure of Anglo-French-Soviet negotiations, Munich Agreement (1938), Hitler's planned invasion of Poland, Soviet desire to avoid war]
+region: ["eastern-europe", "western-europe"]
+causes: ["failure of Anglo-French-Soviet negotiations", Munich Agreement (1938), "Hitler's planned invasion of Poland", Soviet desire to avoid war]
 consequences: [outbreak of World War II, partition of Poland, Soviet annexation of the Baltic states, Soviet annexation of Bessarabia]
-sources_ingested: 2
-last_updated: 2026-06-22
-tags: [event, world-wars-era, eastern-europe]
+sources_ingested: [3]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "eastern-europe"]
+event_type: treaty
+location: [Moscow]
+actors_primary: ["[stalin-joseph|Joseph Stalin]]", "[[molotov-viacheslav|Viacheslav Molotov]]", Nazi Germany (Joachim von Ribbentrop)]
+actors_secondary: [Adolf Hitler, Great Britain, France, Poland]
+scale_consequential: global
+scale_immediate: civilizational
 ---
 # Molotov-Ribbentrop Pact
 ## Narrative
@@ -38,6 +38,49 @@ From Cambridge History of Russia Vol. III (Barber/Harrison, ll. 6006–6011): Th
 
 ## Historiography
 Riasanovsky notes that both Hitler and Stalin signed the pact without any illusions, expecting temporary advantages (Line 6255). Molotov's replacement of Maxim Litvinov (who was Jewish and associated with collective security) in May 1939 had signaled this sudden shift in Soviet alignment.
+
+## From Paxton and Hessler, *Europe in the Twentieth Century* (2011)
+
+Additions (ingested 2026-07-02), which call the treaty the "Nazi-Soviet
+Pact" throughout: the secret protocol, signed August 23 and announced
+August 22, 1939, divided Eastern Europe between the two powers — the USSR
+was to receive Finland, Estonia, Latvia, most of Lithuania, eastern Poland,
+and Bessarabia; Germany was to receive the rest of Poland and Lithuania.
+
+**Causal chain**: German-Soviet economic negotiations began in spring 1939;
+Stalin's dismissal of the pro-League, Jewish foreign minister Maxim Litvinov
+on May 3, 1939 signaled the coming reorientation (already noted above); the
+negotiations became serious only in August 1939, once German diplomats
+pressed urgently, convincing Soviet leadership that a German invasion of
+Poland was imminent. Stalin's rationale, per the source's framing: the
+Allies offered "war without gain" — mobilizing to defend Poland alongside
+Britain and France — while Hitler offered "gain without war" — neutrality
+plus territorial expansion — an "obvious opportunistic choice." A
+contributing factor was the ongoing Soviet-Japanese border fighting in
+Manchuria (Nomonhan/Khalkhin Gol), 1938–39, which made a two-front scenario
+unattractive to Moscow.
+
+The British and French Moscow negotiations of early summer 1939 sent
+low-level officials by slow boat, cited by critics as evidence of
+insufficient seriousness — though Paxton and Hessler note genuine
+structural difficulties underneath the optics: Poland and Romania refused
+transit rights for Soviet troops, and Britain and France would not force
+the issue; Western governments also suspected Stalin's proposed "indirect
+aggression" clause was a pretext to annex the Baltic states.
+
+**Immediate sequel**: Chamberlain signed the formal Anglo-Polish guarantee
+on August 25, 1939; Hitler briefly delayed the invasion, hoping for British
+neutrality or Mussolini's mediation, but ordered the invasion for September
+1 after judging Chamberlain was bluffing. Britain and France declared war
+on September 3, 1939.
+
+Link discipline: `caused_by: [[appeasement]]`'s failure is too strong a
+claim for this pact — it is better framed as `contributed_to`, since
+Western distrust of the USSR and the refusal to grant Poland and Romania
+transit rights were necessary but not sufficient conditions. The decisive
+reason, per the source, was that "Hitler could offer Stalin something the
+Western democracies could not" — territorial gain without war. Source:
+[[paxton-europe-twentieth-century-2011]].
 
 ## From Evans, *The Third Reich in Power* (2005)
 

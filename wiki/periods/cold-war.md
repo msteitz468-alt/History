@@ -1,17 +1,16 @@
 ---
 title: Cold War
 period_number: 23
-preceded_by: [[world-wars-era|World Wars Era]]
-followed_by: [[contemporary|Contemporary]]
 date_range: 1945–1991 CE
-regions_covered: [global, north-america, eastern-europe, western-europe, east-asia, south-asia, africa, latin-america, near-east]
-major_themes: [bipolar superpower rivalry, the Great Acceleration, decolonization, the demographic explosion, the Green Revolution, nuclear danger, multipolar industrialization, development]
+regions_covered: [global, "north-america", "eastern-europe", "western-europe", "east-asia", "south-asia", africa, "latin-america", "near-east"]
 collection_coverage: strong
-sources_ingested: 20
-last_updated: 2026-06-25
+sources_ingested: [21]
+last_updated: "2026-07-02"
 tags: [period]
+followed_by: ["[contemporary|Contemporary]"]
+major_themes: [bipolar superpower rivalry, the Great Acceleration, decolonization, the demographic explosion, the Green Revolution, nuclear danger, multipolar industrialization, development]
+preceded_by: ["[world-wars-era|World Wars Era]"]
 ---
-
 # Cold War (1945–1991 CE)
 
 ## Overview
@@ -59,11 +58,11 @@ From [[cambridge-history-of-russia-v3-2006|Cambridge History of Russia Vol. III]
   **[[nuclear-arms-race|nuclear arms race]]** and MAD, and proxy wars — the
   **[[korean-war-1950|Korean War]]**, the **[[vietnam-war|Vietnam War]]**, and the **[[soviet-war-in-afghanistan-1979|Soviet-Afghan War]]**. Within the **[[soviet-union|Soviet Union]]**, this era spanned late Stalinism (with the cultural purge of **[[zhdanovshchina|Zhdanovshchina]]**), the political liberalization and international crises under **[[khrushchev-nikita|Nikita Khrushchev]]** (including the **[[de-stalinization|De-Stalinization]]** campaign, the crushing of the **[[hungarian-revolution-1956|Hungarian Revolution]]**, and the **[[cuban-missile-crisis-1962|Cuban Missile Crisis]]**), the long stagnation and interventions under **[[brezhnev-leonid|Leonid Brezhnev]]** (the **[[brezhnev-stagnation|Brezhnev Stagnation]]** and the **[[prague-spring-1968|Prague Spring]]**), and the reform attempts of **[[gorbachev-mikhail|Mikhail Gorbachev]]** (through **[[perestroika|Perestroika]]** and **[[glasnost|Glasnost]]**), which led to the **[[chernobyl-disaster-1986|Chernobyl Disaster]]**, the **[[august-coup-1991|August Coup]]**, and the final **[[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]**.
 
-**US domestic environment and strategic friction during Vietnam (Summers, Range 01):** From Summers *On Strategy* (Part I, exclusive cache): President Johnson deliberately avoided mobilizing the national will or seeking a declaration of war to protect Great Society programs ("the sound of the bugle put an immediate end to the hopes and dreams of the best reformers"). McNamara viewed Vietnam as developing "an ability... to fight a limited war... without the necessity of arousing the public ire." The Gulf of Tonkin Resolution (88-2 / 416-0) substituted for formal declaration; power was "surrendered" not stolen (Javits). This recreated an 18th-c. "cabinet war" dynamic in which "war was still an affair for governments alone, and the people’s role was simply that of an instrument" (Clausewitz quoted). The result was fighting "in cold blood" via student deferments and euphemisms ("inflicted casualties," "neutralized targets"), amplifying natural antimilitarism and eroding the "moral consensus" required for war. Bureaucratic friction from PPBS/systems analysis dominated strategy (preparation-for-war metrics supplanted "war proper"); military leaders were sidelined ("rarely saw the President alone"); the "missing link" was military strategy linking political ends to means. The trinity (people/government/Army) was unbalanced, producing the strategic vulnerability the enemy exploited via the "moral element." (All grounded in cache lines ~530-2450, Introduction + Ch. 1-4.) Links: [[events/vietnam-war]], [[hubs/warfare/cold-war/vietnam-war/vietnam-war]], [[sources/summers-on-strategy-1982]], [[concepts/trinity-of-war]], [[concepts/limited-war]].
+**US domestic environment and strategic friction during Vietnam (Summers, Range 01):** From Summers *On Strategy* (Part I, exclusive cache): President Johnson deliberately avoided mobilizing the national will or seeking a declaration of war to protect Great Society programs ("the sound of the bugle put an immediate end to the hopes and dreams of the best reformers"). McNamara viewed Vietnam as developing "an ability... to fight a limited war... without the necessity of arousing the public ire." The Gulf of Tonkin Resolution (88-2 / 416-0) substituted for formal declaration; power was "surrendered" not stolen (Javits). This recreated an 18th-c. "cabinet war" dynamic in which "war was still an affair for governments alone, and the people’s role was simply that of an instrument" (Clausewitz quoted). The result was fighting "in cold blood" via student deferments and euphemisms ("inflicted casualties," "neutralized targets"), amplifying natural antimilitarism and eroding the "moral consensus" required for war. Bureaucratic friction from PPBS/systems analysis dominated strategy (preparation-for-war metrics supplanted "war proper"); military leaders were sidelined ("rarely saw the President alone"); the "missing link" was military strategy linking political ends to means. The trinity (people/government/Army) was unbalanced, producing the strategic vulnerability the enemy exploited via the "moral element." (All grounded in cache lines ~530-2450, Introduction + Ch. 1-4.) Links: [[events/vietnam-war]], [[hubs/warfare/cold-war/vietnam-war/vietnam-war]], [[sources/summers-on-strategy-1982]], Trinity Of War, [[concepts/limited-war]].
 
 **US Army doctrinal engagement with Cold War limited war, decolonization, and counterinsurgency (Daddis Range 01, Ch. 1 and early Ch. 2)**: Containment "guided Cold War strategy for decades." Global decolonization ("liquidation of colonial empires") and "revolutionary nationalism" created vulnerabilities to "communist subversion." US Army officers actively studied Mao Tse-tung ("Problems of Strategy in China’s Revolutionary War," "On Guerrilla Warfare," "On Protracted War"; "guerrillas were fish swimming in the sea of the people"; theories "integrated, encompassing and relating various fields: military, political, economic, sociological and psychological"). "Wars could no longer be won by military means alone." Doctrine increasingly viewed "insurgency and counterinsurgency as 'political, social, and economic rather than military problems' and 'struggles for men’s minds, rather than territory.'" Flexible response codified "spectrum of warfare" in 1962 FM 100-5. Official 1964 definition of strategy: "the art and science of developing and using the political, economic, psychological, and armed forces of a nation, during peace and during war, to afford the maximum support of national policies..." Counterinsurgency doctrine explicitly broad: "those military, paramilitary, political, economic, psychological, and civic actions taken by a government to defeat subversive insurgency." Included "pacification committees," intelligence on social conditions, and civic action (schools, agriculture, etc.). "Military action... 'only a part of the overall internal defense and development effort.'" Historical study of Philippines (Magsaysay/Lansdale civic action), French *guerre révolutionnaire*, Malaya; emphasis on "revolutionary development" and McNamara's "security is development." Professional education and journals reflected this; Westmoreland as West Point superintendent (1960–63) mandated 54 hours of counterinsurgency instruction and formed a Counterinsurgency Committee integrating it across departments. Early Vietnam advisory period (MAAG chiefs Williams, McGarr) already featured holistic "clearing and holding" concepts and integrated political-military plans (CIP). "By the time William Westmoreland arrived in Saigon in mid-1964, key US officials had been debating strategic issues for nearly five years and most understood that any policy for Vietnam required more than simply military might." `contributed_to:` [[concepts/army-concept]] (nuance), [[concepts/counterinsurgency]], [[hubs/warfare/cold-war/vietnam-war/vietnam-war]], [[events/vietnam-war]]. Grounded exclusively in Daddis Preface/Introduction/Ch. 1/early Ch. 2. See [[sources/daddis-westmorelands-war-2014]].
 
-From Range 02 (Pechatnov): Soviet postwar planning emphasized "security concerns" via territorial "glacis of 'friendly states'" and defense in depth; initial "popular front" incremental influence behind multiparty facade; after atomic bomb, Truman moves, and Marshall Plan (seen as "Trojan horse" for US-led bloc including western Germany), shift to "tenacity and steadfastness" and "two camps" via Cominform, accelerating full Sovietization and Berlin blockade (Stalin's aim: force reversal of western German decisions, but "careful to avoid a direct military confrontation"). "The Berlin blockade provided a stronger impetus than had ever existed for the Western powers to establish a separate West German state and to effect closer military cooperation." (links to [[marshall-plan-1948]], [[division-of-germany]], [[berlin-blockade-1948]], [[sovietization-of-eastern-europe]], [[containment]]).
+From Range 02 (Pechatnov): Soviet postwar planning emphasized "security concerns" via territorial "glacis of 'friendly states'" and defense in depth; initial "popular front" incremental influence behind multiparty facade; after atomic bomb, Truman moves, and Marshall Plan (seen as "Trojan horse" for US-led bloc including western Germany), shift to "tenacity and steadfastness" and "two camps" via Cominform, accelerating full Sovietization and Berlin blockade (Stalin's aim: force reversal of western German decisions, but "careful to avoid a direct military confrontation"). "The Berlin blockade provided a stronger impetus than had ever existed for the Western powers to establish a separate West German state and to effect closer military cooperation." (links to [[marshall-plan-1948]], Division Of Germany, [[berlin-blockade-1948]], [[sovietization-of-eastern-europe]], [[containment]]).
 
 From [[leffler-westad-cold-war-v2|CHCW Vol. II, Range 01 (Jervis Ch. 2)]]: Middle Cold War identities shaped rivalry. American: democracy, "individualism and voluntarism," opposition to concentrated power, "faith that this model... will be adopted by others." Soviet: proletariat/class conflict/transformation + "superpower, equal in status and rights." Symmetries (universalism, progress/modernity, second-image thinking, transformationism) "heightened rather than dampened the conflict." Asymmetries (Soviet top-down/future-oriented/explicit anti-capitalist ideology) made "domestic reverses... corrosive to the Soviet regime and identity" while American "left relatively unscathed." Third World was "uncommitted states and peoples"; "nothing less than each side's view of the rightness of its cause... whose side history was on." Khrushchev (Vienna 1961): "The Soviet Union is for change... challenging the capitalist system." Détente failed on "incompatible expectations": US for status quo maintenance, Soviets for "equal status and gains in the Third World." "The Cold War ended only when one side's identity did." (Jervis Ch. 2 quotes/locators)
 
@@ -71,7 +70,7 @@ From [[leffler-westad-cold-war-v2|CHCW Vol. II, Range 01 (Cooper Ch. 3 early)]]:
 
 From [[leffler-westad-cold-war-v2|CHCW Vol. II, additional ranges 02–06]]: Cuban Missile Crisis (Hershberg): neither side wanted to risk repetition in Europe post-1962; success in Cuba may have facilitated disaster in Vietnam; Moscow resolved to catch up in nuclear competition never to be vulnerable again; US rationalized Soviet ICBM buildup as stabilizing MAD, enshrined in 1972 parity. Nuclear stalemate (Burr/Rosenberg): by late 1960s strategic parity provided context for détente; US deployed thousands ICBM/SLBM/MIRVs; Soviets matched; tactical nukes in Europe raised escalation issues but no rational plan (McNamara 1965); Nixon “nuclear umbrella... a lot of crap.” Détente as European project (Hanhimäki): Brandt Ostpolitik (Moscow/Warsaw/Basic treaties, UN entry 1973); CSCE Helsinki 1975 (Baskets I–IV, “living document,” Basket III human rights manifesto for dissidents; trade sixfold rise 1970–79); European challenge to bipolarity (de Gaulle independent line, Harmel Report). European integration (Ludlow): Cold War logic in UK 1961/1967 bids; “protective Atlantic cocoon” enabled EEC focus on customs union/CAP; German integration aided its foreign-policy emergence; Western success destabilized East (1989 transitions, EU 2004 enlargement as definitive end of division). Indochina/Vietnam (Logevall): US escalation driven by “psychological domino”/credibility (Tet 1968 inflamed opinion, LBJ no re-election run; Nixon Vietnamization + Christmas bombing; Paris Accords 1973 allowed NVA in South; collapse April 1975; dominoes did not fall outside Indochina). Middle East (Little): Suez 1956; Eisenhower Doctrine 1957; 1967 Six Day War; 1973 Yom Kippur (US airlift, DEFCON III, oil embargo); Kissinger shuttle → Camp David 1978/Egypt-Israel peace 1979 (Egypt changed sides). Cuban internationalism (Gleijeses): no other Third World country projected power extra-continentally on Cuba’s scale (36k to Angola 1975–76 halting SA advance; 12k to Ethiopia 1978); Castro refused US pressure on Africa policy. Great power politics structure (Trachtenberg): German nuclear ambitions blocked; US nuclear deterrent limits (“no rational plan” for Europe tactical nukes; Nixon umbrella “crap”); structural German incentive for Ostpolitik/détente (“our only option”); Soviet “Finlandization” temptation vs. conservative/bureaucratic caution + China factor; Nixon-Kissinger “shadow-boxing”/tacit alliance with China while maintaining formal symmetry with USSR; SALT/ABM had limited stabilizing effect. Social/economic history (Loth): Western high growth + consumer society/consensus stabilized democracy (Communists lost support post-Hungary); Eastern growth (USSR industrial rapid but ag/consumer lopsided; GDR consumption ~60% West); Berlin Wall 1961 showed East could not win competition; Eastern leaders’ consumption/welfare focus with Western loans led to debt crisis, missed microelectronics, growth collapse, frustration/protests, delegitimization and 1989 transitions (“the Cold War... was also made obsolete by the further development of that society”). Bib essay grounds historiography (post-revisionist balance, declassified sources, economic data, nuclear planning). 
 
-All verbatim range-grounded. Updated [[cold-war]], [[cuban-missile-crisis-1962]], [[vietnam-war]], [[middle-east-cold-war]], [[cuba-cold-war]], [[detente]], [[european-integration]], [[gaullism]], [[ostpolitik]], [[grand-strategy]], [[nuclear-arms-race]], [[sino-soviet-split]] (cross). Sources_ingested++ for Vol. II.
+All verbatim range-grounded. Updated [[cold-war]], [[cuban-missile-crisis-1962]], [[vietnam-war]], Middle East Cold War, Cuba Cold War, [[detente]], European Integration, [[gaullism]], [[ostpolitik]], [[grand-strategy]], [[nuclear-arms-race]], [[sino-soviet-split]] (cross). Sources_ingested++ for Vol. II.
 
 ## From Range 03 (Naimark, Rajak, Niu Jun, Guthrie-Shimizu, Stueck in Leffler & Westad Vol. I)
 
@@ -207,6 +206,52 @@ rivalries persisted into the Contemporary period. Many of the doctrinal and
 alliance-management problems first articulated in the 1950s–1970s (credibility of
 extended deterrence, the stability of mutual vulnerability, the political
 economy of arms racing) remained relevant.
+
+## Cold War Origins: Diplomatic Sequence and Historiographical Schools (Paxton & Hessler)
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] lay out the diplomatic sequence
+of Allied wartime and immediate postwar conferences that set the Cold War's terms: the
+Moscow Foreign Ministers Conference (October 1943, the first political Allied conference)
+→ Teheran (November 1943, OVERLORD set for May 1944, German partition agreed in
+principle) → the Churchill–Stalin "percentages agreement" on Balkan spheres of influence
+(Moscow, October 9, 1944: Soviet predominance in Romania and Bulgaria, British
+predominance in Greece, 50–50 in Yugoslavia and Hungary) → Yalta (February 1945) →
+Potsdam (July 1945, opening the day after the first Alamogordo atomic test). Stalin
+described the logic to Djilas bluntly: "This war is not as in the past; whoever occupies
+a territory also imposes his own social system... Everyone imposes his own system as far
+as his armies can reach. It cannot be otherwise." Roosevelt, by contrast, wired Stalin in
+October 1944 that "there is in this global war literally no question, either military or
+political, in which the United States is not interested" — the universalist premise
+behind later American globalism.
+
+Paxton & Hessler characterize Stalin's initial aims as "limited and largely defensive":
+recovering roughly the frontiers of tsarist Russia at its height (avenging Tsushima 1905,
+Brest-Litovsk 1918, and Versailles 1919–20) plus a ring of "friendly" contiguous buffer
+states, rather than open-ended world revolution — Stalin ordered Western European
+Communist resistance units to stack their arms in 1945 and kept Western Communist parties
+in reformist Popular Front coalitions until 1947. The first Cold War flashpoints outside
+Europe proper followed in sequence: Iran (Soviet-sponsored Kurdish/Azerbaijani autonomy
+movements plus an oil-rights demand, 1945–46, resolved when Stalin backed down under
+UN/British pressure); Turkey (Soviet pressure to revise the 1936 Montreux Convention
+straits regime, refused with British support); and the Greek Civil War (British, then
+American, backing for the royal government against a Communist insurgency that in fact
+drew its outside aid from Communist Yugoslavia, not Moscow). These three fed directly into
+the Truman Doctrine (message to Congress, March 12, 1947): "I believe that it must be the
+policy of the United States to support free people who are resisting attempted
+subjugation by armed minorities or by outside pressures." Paxton & Hessler single out the
+February 1948 Prague coup (see [[prague-coup-1948]]) as "the single act that did more than
+any other to convince the West that Stalin's expansionist appetite was insatiable,"
+resonant with the Munich betrayal of a decade before.
+
+Historiographical schools on Cold War origins, per Paxton & Hessler: the immediate
+postwar "Roosevelt gave too much away" critics; Herbert Feis's orthodox view that
+"Stalin's thrusts provoked a legitimate reaction"; the 1960s revisionists (William
+Appleman Williams, Gabriel Kolko) stressing active American economic self-interest; John
+Lewis Gaddis's post-revisionist synthesis; and post-Soviet-archive scholarship (Zubok &
+Pleshakov, *Inside the Kremlin's Cold War*) arguing Stalin started the Cold War and the
+US continued it. This account is broadly compatible with the post-revisionist consensus
+already reflected above via [[leffler-westad-cold-war-v1]] and related Cambridge volumes;
+no [CONTRADICTION] flag is warranted.
 
 ## Historiography
 

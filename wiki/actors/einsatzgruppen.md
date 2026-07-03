@@ -1,19 +1,18 @@
 ---
 title: Einsatzgruppen
-actor_type: military-force
+actor_type: "military-force"
 date_start: 1938
 date_end: 1945
 period: [World Wars Era]
-region: [eastern-europe]
-affiliated_with: [[[schutzstaffel-ss]], [[heydrich-reinhard|Reinhard Heydrich]]'s Reich Security Main Office (RSHA), [[nazi-germany]]]
+region: ["eastern-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, "military-force", "world-wars-era", "eastern-europe"]
+affiliated_with: ["[[schutzstaffel-ss]]", "[[heydrich-reinhard|Reinhard Heydrich]]'s Reich Security Main Office (RSHA)", "[[nazi-germany]]"]
+key_events: ["[[invasion-of-poland-1939]]", "[[operation-barbarossa-1941]]", "[[the-holocaust]]"]
+key_processes: ""
 opposed_by: [Soviet and Polish partisans, the Allied powers]
-key_events: [[[invasion-of-poland-1939]], [[operation-barbarossa-1941]], [[the-holocaust]]]
-key_processes: []
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [actor, military-force, world-wars-era, eastern-europe]
 ---
-
 # Einsatzgruppen
 
 The **Einsatzgruppen** ("task forces") were mobile killing units of the SS Security Police and SD, formed under [[heydrich-reinhard|Reinhard Heydrich]]'s RSHA. First deployed in the [[invasion-of-poland-1939|Polish campaign of 1939]] to murder the Polish intelligentsia, they were reorganized into four groups (A–D) for [[operation-barbarossa-1941|Operation Barbarossa]] in 1941, where — with Order Police battalions, Waffen-SS units, and local auxiliaries — they shot well over a million Jews, along with Communist officials, Roma, and psychiatric patients, in the occupied Soviet Union. Their escalation from shooting Jewish men to entire communities in summer–autumn 1941 marks the opening phase of [[the-holocaust|the Holocaust]]. Documented for the wiki from [[evans-third-reich-at-war-2008|Evans, *The Third Reich at War* (2008)]].
@@ -31,6 +30,8 @@ Evans's *The Third Reich at War* reconstructs the escalation in the occupied Sov
 **Command structure.** Evans's analytic conclusion: "There was no one specific, precise order; Hitler set the overall parameters of action, Himmler interpreted them, and the SS officers on the ground, with his encouragement, used their initiative" — the uneven local timing of the transition to killing women and children shows the latitude, while Himmler's inspection tours and reinforcements show the central drive. The psychological strain of face-to-face shooting (suicides, alcoholism among the men, per Höss's recollection) was itself an argument used for the transition to gassing — gas vans were delivered to all four Task Forces by the end of 1941.
 
 Evans also treats the parallel and partly independent Romanian killings under Antonescu (Iaşi pogrom June 1941; Odessa October 1941, where 19,000 Jews were machine-gunned in harbor sheds which were then set on fire; the Bogdanovka–Domanovka–Akmecetka camp massacres, December 1941, with ~43,000 shot and thousands burned or deliberately starved): 280,000–380,000 Jews killed by Romanian forces, "the largest number murdered by any independent European country during the Second World War apart from Germany." Task Force D under Ohlendorf worked alongside and criticized the Romanians' killings as insufficiently systematic. In Serbia, army reprisal policy under General Böhme (100 hostages shot per German dead, Jewish men included wholesale) crossed, in Evans's phrase, "the line that separated military reprisals, however excessive, from gratuitous mass murder" — over 9,000 Jews, Roma, and civilians shot by army units in two weeks of October 1941; by August 1942 the SS declared Serbia the first country where the "Jewish question" was "solved," the women and children having been gassed in a van shuttling through Belgrade to Avala by May 1942.
+
+Paxton and Hessler's *Europe in the Twentieth Century* (2011) corroborate the Babi Yar death toll at "nearly 34,000" shot into the ravine over two days in September 1941, and frame the Einsatzgruppen's Barbarossa-era orders — to liquidate Communist officials and Jews together — as the turning point at which Nazi policy shifted from expulsion toward extermination; see [[the-holocaust]]. Source: [[paxton-europe-twentieth-century-2011]].
 
 ## Historiography
 

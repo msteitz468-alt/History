@@ -1,19 +1,18 @@
 ---
 title: Federal Republic of Germany (West Germany)
 actor_type: state
-date_start: 1949-05-23
-date_end: 1990-10-03
+date_start: "1949-05-23"
+date_end: "1990-10-03"
 period: [Cold War]
-region: [western-europe]
+region: ["western-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, state, Cold War, "western-europe"]
 affiliated_with: [NATO, EEC, ECSC, OEEC, Western European Union]
-opposed_by: [east-germany]
-key_events: [german-defeat-occupation-1945, german-reunification-1990, fall-of-the-berlin-wall-1989]
-key_processes: [wirtschaftswunder, ostpolitik, german-european-integration, two-germanies-cold-war, vergangenheitsbewaltigung]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [actor, state, Cold War, western-europe]
+key_events: ["german-defeat-occupation-1945", "german-reunification-1990", "fall-of-the-berlin-wall-1989"]
+key_processes: [wirtschaftswunder, ostpolitik, "german-european-integration", "two-germanies-cold-war", vergangenheitsbewaltigung]
+opposed_by: ["east-germany"]
 ---
-
 ## Overview
 
 The Federal Republic of Germany (FRG), commonly known as West Germany, was founded on 23 May 1949 when the Western occupation zones — American, British, and French — coalesced into a single state under the Basic Law (Grundgesetz). The Basic Law was deliberately designed as a provisional constitution: its architects hoped for eventual reunification with the Soviet-controlled east and explicitly left open the question of national unity. The FRG ceased to exist on 3 October 1990 when the five newly reconstituted eastern states acceded to it under Article 23 of the Basic Law, absorbing what had been the German Democratic Republic.
@@ -41,6 +40,18 @@ The FRG joined NATO on 9 May 1955, the same date it recovered sovereign status u
 ## Mechanisms of Decline / Transformation
 
 The FRG did not decline — it expanded. East Germany acceded to it. The terms of unification extended the FRG's institutions, legal code, currency, and administrative model eastward, making the enlarged state essentially the FRG writ large. Critics noted that this "ready-made state" transfer left East Germans feeling passive recipients rather than architects of their own future, contributing to persistent Ossi/Wessi tensions.
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] add electoral detail on the
+FRG's founding: in the first 1949 federal election, the Christian Democrats won only a
+**plurality (31%)**, not an outright majority — SPD took 29%, the Liberals 21%, the KPD
+5.7%; the CDU/CSU did not secure an outright majority until 1957. They also note a
+structural point about the postwar political map: the Catholic Rhineland/Bavaria
+dominance of West German politics — a marked contrast to the historically
+Protestant-Prussian dominance of the old Reich — was itself partly an artifact of
+partition, since the SPD's traditional Protestant-east/Berlin heartland fell into the
+Soviet zone. See [[east-germany]] for the corresponding SED consolidation.
 
 ## Historiography
 

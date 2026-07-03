@@ -4,20 +4,19 @@ date_start: 1929
 date_end: 1939
 date_precision: year
 period: [World Wars Era]
-region: [north-america, western-europe, transregional]
-location: [the United States and the world economy]
-actors_primary: [the United States, the industrial economies, the world's governments and central banks]
-actors_secondary: [the unemployed, fascist and authoritarian movements, the gold-standard system]
-event_type: [economic]
-scale_immediate: global
-scale_consequential: global
-causes: [the Wall Street Crash of 1929, structural weaknesses of the post-WWI economy, the rigid gold standard, debt and the collapse of world trade]
+region: ["north-america", "western-europe", transregional]
+causes: [the Wall Street Crash of 1929, "structural weaknesses of the post-WWI economy", the rigid gold standard, debt and the collapse of world trade]
 consequences: [mass unemployment, the collapse of world trade, the rise of economic nationalism and state intervention (the New Deal), the rise of fascism/Nazism, the road to the Second World War]
-sources_ingested: 2
-last_updated: 2026-07-02
-tags: [event, world-wars-era, north-america]
+sources_ingested: [3]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "north-america"]
+event_type: [economic]
+location: [the United States and the world economy]
+actors_primary: [the United States, the industrial economies, "the world's governments and central banks"]
+actors_secondary: [the unemployed, fascist and authoritarian movements, "the gold-standard system"]
+scale_consequential: global
+scale_immediate: global
 ---
-
 # The Great Depression (1929–1939)
 
 The **Great Depression** was the most severe economic collapse of the industrial age — a
@@ -115,6 +114,67 @@ fringe (Coughlin, Huey Long) whom he judges "'Americanists' to the hilt" rather 
 fascists (Long's "fascism would come to America denying that it was fascism" as "a valid
 insight into the American ethos"), and a Marxist left trapped importing European factional
 battles wholesale. See [[lockean-consensus]] and [[why-no-socialism-in-america]].
+
+## Paxton (2011): Two-Track Causation and the National Responses
+
+[[paxton-europe-twentieth-century-2011|Paxton and Hessler]] give the fullest headline
+data in the wiki: at the 1932 trough, one in four Englishmen was on the dole, six
+million Germans were unemployed (two of every five adult males), and roughly twelve
+million Americans; industrial production fell 1929–32 by 47% in the United States,
+44% in Germany, and 37% worldwide excluding the USSR.
+
+Paxton stresses **two distinct causal tracks**, often conflated: a **domestic**
+track of agricultural impoverishment predating the Crash — the price slide from the
+mid-1920s as 33 million new acres were plowed in the US, Canada, Argentina, and
+Australia (the world agricultural price index fell from 226 in 1919 to 134 in 1929;
+by 1930 shipping wheat Vancouver-to-Rhine cost 60% less than the Budapest-to-Berlin
+rail route), with coal's parallel collapse explaining Britain's chronic ≥10%
+interwar unemployment even before 1929 — and an **international financial** track:
+the pound restored to gold in 1925 beyond Britain's real economic power, and the
+reparations-and-loans circuit (Dawes-era American purchases and loans brought 23
+billion marks into Germany against roughly 8 billion in reparations paid out,
+1924–29) that reversed when US capital withdrew for the Wall Street boom in 1928–29,
+then fled Germany outright (2 billion marks pulled January–July 1931), the
+Credit-Anstalt collapse of 11 May 1931 triggering a four-month financial frenzy, a
+German credit freeze in August, and Britain's departure from gold on 19 September
+1931. Paxton's point: governments treated the crisis as an *international* monetary
+problem rather than a domestic demand shortfall — deficit-running states invited
+currency speculation rather than stimulus. Source: [[paxton-europe-twentieth-century-2011]].
+
+**Remedies-in-theory taxonomy** (Paxton): classical liberal deflation ("liberal
+economics worked only with illiberal politics"); socialist underconsumptionism,
+which offered no short-term program (British Labour remained "militantly
+orthodox"); and a set of "middle ways" — corporatism, which in practice "boiled
+down to self-regulation by business"; Keynesian demand management (Keynes's
+*General Theory*, 1936, displaced classical liberalism as policy only after 1945);
+and blood-and-soil ruralism (Mussolini's Pontine Marshes drainage scheme drew only
+some 19,000 settlers, a token relative to Italian unemployment).
+
+**National responses compared**: Scandinavia fared best — Social Democratic
+governments in Denmark (1929), Sweden (1932), and Norway (1935) built on
+cooperative movements covering roughly half the Swedish population and 12% of
+retail trade, pioneered public job-creation schemes, and by 1939 had produced the
+best real-wage growth since 1900. Britain's Labour government split in August 1931
+over J.P. Morgan's conditions for a loan (a 10% cut to the dole); Ramsay
+MacDonald's National Government followed, the Invergordon naval mutiny, departure
+from gold with roughly a one-third devaluation, and the Import Duties Act of 1932
+— the first peacetime tariff since 1837 — plus imperial preference and cartelization;
+Oswald Mosley's 1930 living-wage plan was rejected by the Labour
+leadership, driving him toward fascism by 1932. France's depression arrived late
+but lasted longest — 1938 production still lagged 1929 — hobbled by the
+Poincaré-era fetish for the strong franc; Laval's 1935 deflation cut state wages
+10%; Blum's 1936 Popular Front produced the Matignon accords (a 15% pay rise,
+collective bargaining rights), the 40-hour week, and paid vacations, but a forced
+devaluation followed regardless and production was still below 1929 when Blum fell
+in June 1937. Italy created IRI (January 1933, made permanent in 1937), which took
+controlling interests in steel, machinery, shipbuilding, electricity, and
+telephones — a de facto partial nationalization run on business's own terms, with
+the corporatist machinery staffed by the CGII business confederation after
+Rossoni's removal from the syndicalist leadership in 1928.
+
+Paxton's verdict, quoting E. M. Forster: "The whole liberal ideal of a
+self-regulating market economy lost credibility in 1929... In the 1930s, fascism
+and communism seemed the wave of the future" (*Two Cheers for Democracy*).
 
 ## Related
 

@@ -1,15 +1,14 @@
 ---
 title: Ostpolitik
 concept_type: political
-origin: Egon Bahr, 1963 ("Wandel durch Annäherung" speech at Tutzing); implemented as state policy under Chancellor Willy Brandt 1969–1974
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [concept, Cold War, "western-europe", "eastern-europe"]
 applies_to_periods: [Cold War]
-applies_to_regions: [western-europe, eastern-europe]
+applies_to_regions: ["western-europe", "eastern-europe"]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [concept, Cold War, western-europe, eastern-europe]
+origin: "Egon Bahr, 1963 (\"Wandel durch Annäherung\" speech at Tutzing); implemented as state policy under Chancellor Willy Brandt 1969–1974"
 ---
-
 ## Definition and Scope
 
 **Ostpolitik** (literally "eastern policy") refers to the West German strategy of normalizing relations with the Soviet Union, East Germany, and the Eastern European states, replacing the confrontational non-recognition policy of the Adenauer era with engagement, dialogue, and incremental change through contact. The term is associated primarily with Chancellor [[willy-brandt]] and his close advisor Egon Bahr, but the policy had antecedents under the Grand Coalition government of 1966–1969, when Brandt served as Foreign Minister.
@@ -51,6 +50,18 @@ produced: [[two-germanies-cold-war]] (normalized framework for relations)
 enabled: [[fall-of-the-berlin-wall-1989]] (arguably, through Helsinki rights culture)
 part_of: [[german-european-integration]] (Ostpolitik was balanced with deepened Westpolitik)
 analogous_to: Détente broadly in superpower relations
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] add the **Christmas 1972**
+opening allowing roughly 500,000 West Germans to visit East Germany (East Germans still
+could not travel the other way) as a milestone between the Basic Treaty and dual UN
+admission, and characterize the June 1973 simultaneous UN admission of both German
+states as "the most dramatic negotiated change in European state relations since the
+Locarno Agreements of 1925." They note the political irony that continuity under
+conservative successor [[helmut-kohl]] persisted despite the CDU/CSU having called
+Ostpolitik "treason" barely a decade earlier — a reversal worth preserving as a marker
+of how thoroughly the policy became bipartisan consensus by the 1980s.
 
 ## Historiography
 

@@ -1,24 +1,23 @@
 ---
 title: Remilitarization of the Rhineland (1936)
-date_start: 1936-03-07
-date_end: 1936-03-07
+date_start: "1936-03-07"
+date_end: "1936-03-07"
 date_precision: exact
-dating_method: documentary
 period: [World Wars Era]
-region: [western-europe]
-location: [Rhineland, Germany]
-actors_primary: [["adolf-hitler"], ["actors/blomberg-werner-von"], ["actors/neurath-konstantin-von"], ["actors/fritsch-werner-von"]]
-actors_secondary: [["actors/mussolini-benito"], ["weimar-republic|France"], ["actors/chamberlain-neville|Britain (Baldwin government)"], ["actors/himmler-heinrich"], ["german-army|Wehrmacht leadership"]]
+region: ["western-europe"]
+causes: ["[\"adolf-hitler|Hitler's gamble and timing instinct\"]", "[\"mussolini-benito|Abyssinian crisis and collapse of Stresa Front\"]", "[\"mussolini-benito|Mussolini's signals (Jan 1936) that Italy would not oppose remilitarization\"]", "[\"french-weakness|French military reluctance and political division post-Hoare-Laval\"]", "[\"british-appeasement|British unwillingness to treat Rhineland demilitarization as vital interest\"]", "[\"adolf-hitler|Domestic pressures: food crisis, Church struggle, sagging morale after winter 1935–36\"]", "[\"locarno-treaty-violation|French ratification of Franco-Soviet pact seen as breach of Locarno\"]"]
+consequences: ["[\"adolf-hitler|Greatest personal triumph to date; reinforcement of 'sleepwalker' myth and belief in own infallibility\"]", "[\"adolf-hitler|Massive popular acclaim; plebiscite 29 March 1936\"]", "[\"second-world-war-1939|Destruction of remnants of post-war diplomatic settlement; loosening of constraints on German military build-up\"]", "[\"french-weakness|Fatal weakening and division of western powers\"]", "[\"adolf-hitler|Strengthened hand over cautious military and diplomatic advisers\"]", "[\"german-rearmament|Enabled accelerated rearmament and western defence planning\"]", "[\"working-towards-the-fuehrer|Further demonstration that boldness succeeded; subordinates radicalized further\"]"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "western-europe", political, transition, "adolf-hitler", versailles, locarno, appeasement]
 event_type: political
-scale_immediate: regional
+location: [Rhineland, Germany]
+actors_primary: ["[\"adolf-hitler\"]", "[\"actors/blomberg-werner-von\"]", "[\"actors/neurath-konstantin-von\"]", "[\"actors/fritsch-werner-von\"]"]
+actors_secondary: ["[\"actors/mussolini-benito\"]", "[\"weimar-republic|France\"]", "[\"actors/chamberlain-neville|Britain (Baldwin government)\"]", "[\"actors/himmler-heinrich\"]", "[\"german-army|Wehrmacht leadership\"]"]
+dating_method: documentary
 scale_consequential: civilizational
-causes: [["adolf-hitler|Hitler's gamble and timing instinct"], ["mussolini-benito|Abyssinian crisis and collapse of Stresa Front"], ["mussolini-benito|Mussolini's signals (Jan 1936) that Italy would not oppose remilitarization"], ["french-weakness|French military reluctance and political division post-Hoare-Laval"], ["british-appeasement|British unwillingness to treat Rhineland demilitarization as vital interest"], ["adolf-hitler|Domestic pressures: food crisis, Church struggle, sagging morale after winter 1935–36"], ["locarno-treaty-violation|French ratification of Franco-Soviet pact seen as breach of Locarno"]]
-consequences: [["adolf-hitler|Greatest personal triumph to date; reinforcement of 'sleepwalker' myth and belief in own infallibility"], ["adolf-hitler|Massive popular acclaim; plebiscite 29 March 1936"], ["second-world-war-1939|Destruction of remnants of post-war diplomatic settlement; loosening of constraints on German military build-up"], ["french-weakness|Fatal weakening and division of western powers"], ["adolf-hitler|Strengthened hand over cautious military and diplomatic advisers"], ["german-rearmament|Enabled accelerated rearmament and western defence planning"], ["working-towards-the-fuehrer|Further demonstration that boldness succeeded; subordinates radicalized further"]]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, western-europe, political, transition, adolf-hitler, versailles, locarno, appeasement]
+scale_immediate: regional
 ---
-
 # Remilitarization of the Rhineland (1936)
 
 ## Narrative
@@ -67,6 +66,44 @@ The success reinforced the 'working towards the Führer' dynamic: subordinates s
 Kershaw presents the Rhineland coup as the culminating demonstration (to 1936) of how Hitler's personalized rule fused with structural opportunities. Emphasis on his 'gambling instinct, use of bluff, and sharp antennae for the weak spots of his opponents.' He took the key decisions alone; military leaders were often astonished and initially opposed on timing/risk grounds but came round. Domestic motives (explicitly noted by Neurath and Hitler) are given weight alongside foreign opportunity. The episode is central to the 'working towards the Führer' chapter: success accredited to Hitler intensified the cult and radicalization dynamic. Cross-reference to intentionalist/structuralist debates and to later sources on how the 1936 triumphs paved the road to 1938–39.
 
 **Collection coverage note (from range):** Excellent primary-grounded narrative in Kershaw *Hubris* (detailed on decision mechanics, quotes from Hassell, Goebbels, Rosenberg, Dietrich, contemporary diplomats). Strong on interaction of domestic and foreign drivers.
+
+## Legal Basis and the "Lost Opportunity" Debate (Paxton and Hessler)
+
+On March 7, 1936, a 10,000-man division plus three roughly 1,000-man
+battalions crossed into Düsseldorf, Cologne, and Mainz. The legal basis for
+an Allied response was twofold: Treaty of Versailles Article 44, which
+defined any German violation of the demilitarized zone "in any manner" as a
+hostile act, and Germany's own 1925 acceptance, at Locarno, of Allied
+force-backed enforcement rights in the zone — Germany had voluntarily
+reaffirmed the demilitarization at Locarno, making the 1936 move a breach of
+a treaty Germany itself had freely signed, not merely an imposed postwar
+settlement.
+
+France's non-response had several causes, per Paxton and Hessler: no mobile
+French force was ready for immediate action; a full mobilization was
+required to respond in strength, which was politically toxic ahead of the
+March 1936 elections; the 1923 Ruhr occupation stood as a discouraging
+precedent for unilateral French military action in Germany; the "hollow
+years" — the reduced birth cohorts of 1917–18 — meant only about half the
+usual number of eighteen-year-olds were available for the draft contingent
+in the mid-1930s; and Depression-era economic weakness compounded all of
+the above.
+
+Paxton and Hessler push back explicitly on the "lost opportunity" cliché
+that a firm French response would have toppled Hitler: (1) captured German
+documents, contrary to General Alfred Jodl's later Nuremberg testimony,
+show the units crossing into the Rhineland had orders to *resist*, not
+withdraw, at the first sign of opposition; (2) there is no strong evidence
+Hitler's internal opponents would have moved against him after a setback,
+given the later pattern of military compliance even after larger crises;
+and (3) a French riposte would likely have been portrayed internationally
+as the more conspicuous act of aggression, since German troops moved only
+onto German soil. They cite Stephen A. Schuker's chapter (in the Finney
+volume) doubting a French military response was ever militarily feasible
+in the first place. Link discipline: this event remains `caused_by:`
+Hitler's own decision — Allied non-response is a *consequence* of the
+remilitarization, not one of its causes, and the two causal chains should
+not be conflated. Source: [[paxton-europe-twentieth-century-2011]].
 
 ## From Evans, *The Third Reich in Power* (2005)
 

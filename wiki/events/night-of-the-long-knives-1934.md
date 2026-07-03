@@ -1,24 +1,23 @@
 ---
 title: Night of the Long Knives (1934)
-date_start: 1934-06-30
-date_end: 1934-07-02
+date_start: "1934-06-30"
+date_end: "1934-07-02"
 date_precision: exact
-dating_method: documentary
 period: [World Wars Era]
-region: [western-europe]
-location: [Germany (Bavaria, Berlin, Silesia, Munich, Stadelheim, Dachau, etc.)]
-actors_primary: [["adolf-hitler"], ["actors/rohm-ernst"], ["actors/goering-hermann"], ["actors/himmler-heinrich"], ["actors/goebbels-joseph"], ["actors/blomberg-werner-von"]]
-actors_secondary: [["actors/papen-franz-von"], ["actors/schleicher-kurt-von"], ["actors/strasser-gregor"], ["ss|SS (Eicke, Lippert)"], ["sa|SA leadership (Heines etc.)"], ["reichswehr|Reichswehr leadership"]]
+region: ["western-europe"]
+causes: ["[\"adolf-hitler|Hitler's need to eliminate SA threat to army and own position\"]", "[\"rohm-ernst|Röhm's ambitions for SA as revolutionary army and incorporation into Reichswehr\"]", "[\"reichswehr|Army pressure and Hindenburg ultimatum threats\"]", "[\"business-conservative|Conservative and business hostility to SA radicalism and unruliness\"]", "[\"adolf-hitler|Hitler's loss of face at having to murder long-time ally\"]"]
+consequences: ["[\"adolf-hitler|Total domestic power secured; army oath of loyalty to Hitler personally after Hindenburg death\"]", "[\"ss|SS elevated as independent force directly under Hitler (from 20 July 1934)\"]", "[\"sa|SA emasculated: reduced >40% in size, turned into military sports/training body under Lutze\"]", "[\"adolf-hitler|Public acclaim for 'restoration of order' despite state murder\"]", "[\"reichswehr|Army complicit; bound more closely to Hitler but ultimately subordinated\"]", "[\"law|Retroactive Law for the Emergency Defence of the State (3 July) legalizing the killings\"]", "[\"adolf-hitler|Hitler speech to Reichstag 13 July openly claiming responsibility as 'supreme judge'\"]"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "western-europe", purge, transition, "adolf-hitler", sa, ss, rohm, consolidation]
 event_type: purge
-scale_immediate: national
+location: [Germany (Bavaria, Berlin, Silesia, Munich, Stadelheim, Dachau, etc.)]
+actors_primary: ["[\"adolf-hitler\"]", "[\"actors/rohm-ernst\"]", "[\"actors/goering-hermann\"]", "[\"actors/himmler-heinrich\"]", "[\"actors/goebbels-joseph\"]", "[\"actors/blomberg-werner-von\"]"]
+actors_secondary: ["[\"actors/papen-franz-von\"]", "[\"actors/schleicher-kurt-von\"]", "[\"actors/strasser-gregor\"]", "[\"ss|SS (Eicke, Lippert)\"]", "[\"sa|SA leadership (Heines etc.)\"]", "[\"reichswehr|Reichswehr leadership\"]"]
+dating_method: documentary
 scale_consequential: civilizational
-causes: [["adolf-hitler|Hitler's need to eliminate SA threat to army and own position"], ["rohm-ernst|Röhm's ambitions for SA as revolutionary army and incorporation into Reichswehr"], ["reichswehr|Army pressure and Hindenburg ultimatum threats"], ["business-conservative|Conservative and business hostility to SA radicalism and unruliness"], ["adolf-hitler|Hitler's loss of face at having to murder long-time ally"]]
-consequences: [["adolf-hitler|Total domestic power secured; army oath of loyalty to Hitler personally after Hindenburg death"], ["ss|SS elevated as independent force directly under Hitler (from 20 July 1934)"], ["sa|SA emasculated: reduced >40% in size, turned into military sports/training body under Lutze"], ["adolf-hitler|Public acclaim for 'restoration of order' despite state murder"], ["reichswehr|Army complicit; bound more closely to Hitler but ultimately subordinated"], ["law|Retroactive Law for the Emergency Defence of the State (3 July) legalizing the killings"], ["adolf-hitler|Hitler speech to Reichstag 13 July openly claiming responsibility as 'supreme judge'"]]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, western-europe, purge, transition, adolf-hitler, sa, ss, rohm, consolidation]
+scale_immediate: national
 ---
-
 # Night of the Long Knives (1934)
 
 ## Narrative
@@ -103,3 +102,11 @@ Evans's account (ingested 2026-07-02) corroborates Kershaw and adds:
 Source: [[evans-third-reich-in-power-2005]] · See also [[rohm-ernst]],
 [[hindenburg-paul-von]], [[blomberg-fritsch-affair-1938]],
 [[nazi-concentration-camps]].
+
+## Paxton (2011): Corroboration
+
+[[paxton-europe-twentieth-century-2011|Paxton and Hessler]] corroborate the date
+(30 June 1934) and the estimated toll — Röhm plus an estimated 150–200 killed,
+including Schleicher and Kahr as well as Strasser — sitting within the range
+already established from Evans and Kershaw on this page (official toll 74; at
+least 85 documented). Source: [[paxton-europe-twentieth-century-2011]].

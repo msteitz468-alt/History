@@ -4,16 +4,15 @@ actor_type: person
 date_start: "c. 569–572 (accession, Kirby's reckoning)"
 date_end: "c. 599–605 (death, Kirby's reckoning)"
 period: [Early Middle Ages]
-region: [british-isles]
+region: ["british-isles"]
+sources_ingested: [1]
+last_updated: "2026-06-27"
+tags: [actor, person, "early-middle-ages", "british-isles"]
 affiliated_with: [Deira]
-opposed_by: []
-key_events: []
-key_processes: [early-anglian-settlement-of-britain]
-sources_ingested: 1
-last_updated: 2026-06-27
-tags: [actor, person, early-middle-ages, british-isles]
+key_events: ""
+key_processes: ["early-anglian-settlement-of-britain"]
+opposed_by: ""
 ---
-
 ## Overview
 
 Ælle was the king of [[deira|Deira]] who founded or re-founded the Deiran royal dynasty in the late sixth century and was the father of [[edwin-of-northumbria|Eadwine]], the future overlord of the Angles. He also fathered Acha, who married [[æthelfrith-of-bernicia|Æthelfrith]], thereby forging a dynastic link between the two rival Anglian houses of Deira and Bernicia that would shape Northumbrian politics for a generation.

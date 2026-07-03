@@ -4,15 +4,14 @@ date_start: 1963
 date_end: 1979
 date_precision: year
 period: [Cold War]
-region: [north-america, eastern-europe, western-europe, transregional]
+region: ["north-america", "eastern-europe", "western-europe", transregional]
 process_type: [political]
-driven_by: [the shared fear of nuclear war after 1962, nuclear parity, the Sino-Soviet split, economic pressures, Ostpolitik]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [process, "cold-war", "eastern-europe"]
+driven_by: [the shared fear of nuclear war after 1962, nuclear parity, "the Sino-Soviet split", economic pressures, Ostpolitik]
 produces: [the SALT and ABM treaties, the Helsinki Accords (1975), a stabilized but not ended Cold War]
-sources_ingested: 1
-last_updated: 2026-06-13
-tags: [process, cold-war, eastern-europe]
 ---
-
 # Détente
 
 **Détente** (French, "relaxation") was the easing of [[cold-war|Cold War]] tensions between
@@ -65,6 +64,27 @@ Détente collapsed at the end of the 1970s under continued Third World rivalry, 
 domestic backlash, and decisively the **Soviet [[soviet-war-in-afghanistan-1979|invasion of
 Afghanistan]] (1979)**, which killed SALT II ratification and ushered in the confrontational
 "**second Cold War**" of the early 1980s.
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] offer an important
+interpretive refinement: **two rival versions of détente** existed simultaneously.
+One, centered in **Washington**, took a narrow military/arms-control focus and remained
+skeptical the Soviet system could evolve. The other, centered in **Bonn and
+Scandinavia**, pursued a broader diplomatic and economic engagement, explicitly tied to
+human rights — associated with [[willy-brandt|Brandt's]] [[ostpolitik|Ostpolitik]] and
+the 1975 Helsinki Accords. This distinction usefully complicates the single-track
+account above.
+
+They add specific arms-control detail: **SALT I** (June 1972, Nixon/Brezhnev) permitted
+the USSR 40% more launchers to offset the US MIRV advantage; **SALT II** (1979,
+Carter/Brezhnev) was never ratified by the Senate but was observed in practice by both
+sides. The **Helsinki Final Act** (August 1, 1975, 35 signatories) recognized existing
+European borders and the NATO/Warsaw Pact alliance structure while including
+human-rights guarantees that Eastern European dissidents subsequently used as leverage.
+The **Mutual and Balanced Force Reductions (MBFR)** talks (Vienna, from October 1973)
+deadlocked over asymmetrical versus proportional conventional-force reductions and never
+produced an agreement — a less-remembered failure alongside the successes above.
 
 ## Related
 

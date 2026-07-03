@@ -1,19 +1,18 @@
 ---
 title: Helmut Kohl
 actor_type: person
-date_start: 1930-04-03
-date_end: 2017-06-16
+date_start: "1930-04-03"
+date_end: "2017-06-16"
 period: [Cold War, Contemporary]
-region: [western-europe]
-affiliated_with: [CDU, west-germany]
-opposed_by: [SPD, east-germany]
-key_events: [fall-of-the-berlin-wall-1989, german-reunification-1990]
-key_processes: [two-germanies-cold-war, german-european-integration, vergangenheitsbewaltigung]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [actor, person, Cold War, Contemporary, western-europe]
+region: ["western-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, person, Cold War, Contemporary, "western-europe"]
+affiliated_with: [CDU, "west-germany"]
+key_events: ["fall-of-the-berlin-wall-1989", "german-reunification-1990"]
+key_processes: ["two-germanies-cold-war", "german-european-integration", vergangenheitsbewaltigung]
+opposed_by: [SPD, "east-germany"]
 ---
-
 ## Role and Title
 
 Helmut Kohl served as Federal Chancellor of West Germany / unified Germany from 1 October 1982 to 27 October 1998 — 16 years, making him the longest-serving postwar German chancellor. He simultaneously served as CDU party leader from 1973 to 1998. His chancellorship spans the late Cold War, German reunification, and the first years of the post-Cold War European order.
@@ -39,6 +38,19 @@ Kohl promised East Germans "blossoming landscapes" (blühende Landschaften) — 
 **Historikerstreit (1986):** The Historians' Dispute occurred on Kohl's watch and was partly triggered by political context he created. His 1985 visit to the Bitburg military cemetery (which contained SS graves) alongside Ronald Reagan caused intense international controversy; his stated desire to "normalize" German national identity — to allow Germans to feel national pride without being burdened by the Holocaust — created the political atmosphere in which Ernst Nolte's relativizing arguments about the Holocaust found initial receptive ears, before Habermas and others crushed the revisionist attempt.
 
 **CDU donation scandal (1999–2000):** After his chancellorship, Kohl became embroiled in a party finance scandal involving illegal donations. He refused to reveal the donors (citing a personal promise of confidentiality), destroying much of his legacy in the immediate post-chancellorship period. Historical reassessment has since been more favorable, focusing on reunification as a genuine historic achievement.
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] add the immediate
+circumstances of Kohl's October 1982 accession: the Free Democrats abandoned Helmut
+Schmidt's SPD-led coalition over deficit-spending disagreements, producing the first
+mid-term government fall in FRG history via constructive vote of no-confidence. They
+detail Kohl's early **austerity program** — pensions cut 5–6%, unemployment benefits cut
+similarly, maternity benefits reduced — as the fiscal backdrop to his first years in
+office, and note the same continuity already flagged under [[ostpolitik]]: despite the
+CDU/CSU having denounced Ostpolitik as "treason" a decade earlier, Kohl continued to
+pursue trade and cultural exchange with East Germany (consistent with the Honecker visit
+detailed above).
 
 ## Governing Style
 

@@ -1,23 +1,21 @@
 ---
 title: Prague Spring
-date_start: 1968-01-05
-date_end: 1968-08-20
+date_start: "1968-01-05"
+date_end: "1968-08-20"
 date_precision: exact
 period: [Cold War]
-region: [eastern-europe]
-location: [Prague, Czechoslovakia]
-actors_primary: [[brezhnev-leonid|Leonid Brezhnev]], the Soviet Union, Alexander Dubcek, Czechoslovakia]
-actors_secondary: [Ludvik Svoboda, Walter Ulbricht, Wladyslaw Gomulka]
-event_type: invasion
-scale_immediate: regional
-scale_consequential: civilizational
-causes: [appointment of Alexander Dubcek, economic stagnation in Czechoslovakia, abolition of censorship, demand for "socialism with a human face", Dubček ignoring Soviet hints of military penalty]
+region: ["eastern-europe"]
+causes: [appointment of Alexander Dubcek, economic stagnation in Czechoslovakia, abolition of censorship, "demand for \"socialism with a human face", Dubček ignoring Soviet hints of military penalty]
 consequences: [Warsaw Pact invasion on night of 20–21 August 1968, tanks rolled into Prague, Dubcek arrested and flown to Russia then injected with drugs and threatened with execution, compliant Husák installed, Brezhnev Doctrine imposed (right and duty of Pact members to intervene militarily on threat to socialism), ideological retrenchment in USSR, dissenters like Pavel Litvinov sentenced, siege mentality gripped regime]
-
-From Freeze (2002, lines 12035–12037): After Czech "Action Programme" (Apr 1968) proclaimed "own separate road to socialism" and new statutes (secret balloting, term limits, factions), Dubček promised Warsaw Pact loyalty but experiment "too threatening"; invasion 21 Aug; Husák installed. (Grounded in range.)
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [event, cold-war, eastern-europe]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [event, "cold-war", "eastern-europe"]
+event_type: invasion
+location: [Prague, Czechoslovakia]
+actors_primary: ["[brezhnev-leonid|Leonid Brezhnev]]", the Soviet Union, Alexander Dubcek, Czechoslovakia]
+actors_secondary: [Ludvik Svoboda, Walter Ulbricht, Wladyslaw Gomulka]
+scale_consequential: civilizational
+scale_immediate: regional
 ---
 # Prague Spring
 
@@ -44,3 +42,25 @@ In January 1968, Alexander Dubcek replaced the Stalinist Antonin Novotny as Firs
 
 ## Historiography
 Riasanovsky notes that the invasion was a preemptive move to prevent the contagion of liberalization from spreading to the Soviet Union and other satellite states, demonstrating the limits of national sovereignty in the Warsaw Pact (Line 6741).
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] corroborate the narrative
+above and add specifics: Novotný's fall came January 5, 1968; the April 1968 "Action
+Program" explicitly promised "a new model of socialist society, profoundly democratic";
+censorship was formally abolished June 25, 1968; the Warsaw Pact invasion of August 21,
+1968 involved some **500,000 troops** drawn from the Soviet Union, East Germany, Poland,
+Hungary, and Bulgaria — notably **not** Romania, which declined to participate.
+Czechoslovak resistance took the form of passive civilian non-cooperation rather than
+armed resistance. Dubček's removal came in September 1969, his expulsion from the party
+in 1970, with trials of Prague Spring figures continuing through 1972.
+
+Paxton & Hessler stress two consequences beyond the immediate: first, the invasion
+hardened the regionwide "normalization"/conservative turn of the 1970s and convinced
+dissidents across the bloc that reform could only come from outside, not within, the
+ruling Communist parties — a `contributed_to` link to the wider 1970s–80s dissident
+movement (see [[dissident-movement-eastern-europe]] if created). Second, and more
+specifically, they cite the suppression of the Prague Spring — covered fully in their
+later chapter on the 1968–1989 period — as a major cause of the broader Western European
+Left's turn against the Soviet Union and toward [[eurocommunism]]:
+`contributed_to:` [[eurocommunism]].

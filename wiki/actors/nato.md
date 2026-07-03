@@ -1,19 +1,18 @@
 ---
 title: NATO (the North Atlantic Treaty Organization)
 actor_type: organization
-date_start: 1949-04-04 (North Atlantic Treaty signed)
+date_start: "1949-04-04 (North Atlantic Treaty signed)"
 date_end: ongoing
 period: [Cold War, Contemporary]
-region: [north-america, western-europe, transregional]
-affiliated_with: [the United States, the states of Western Europe, [[containment]]]
+region: ["north-america", "western-europe", transregional]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, organization, "cold-war", "north-america", "western-europe"]
+affiliated_with: [the United States, the states of Western Europe, "[[containment]]"]
+key_events: [the Berlin Blockade, the Korean War (its militarization), the fall of the Warsaw Pact, "post-1991 enlargement"]
+key_processes: ["[[containment]]", "[[cold-war]]", "[[nuclear-arms-race]]"]
 opposed_by: [the Soviet Union, the Warsaw Pact (1955)]
-key_events: [the Berlin Blockade, the Korean War (its militarization), the fall of the Warsaw Pact, post-1991 enlargement]
-key_processes: [[[containment]], [[cold-war]], [[nuclear-arms-race]]]
-sources_ingested: 1
-last_updated: 2026-06-13
-tags: [actor, organization, cold-war, north-america, western-europe]
 ---
-
 # NATO (the North Atlantic Treaty Organization)
 
 **NATO** is the transatlantic military alliance founded by the **North Atlantic Treaty**
@@ -51,6 +50,22 @@ Europe without a shot fired between the blocs. It **outlived its adversary**: th
 dissolved in 1991, but NATO persisted and **enlarged** eastward into former Soviet-bloc
 states after the Cold War — making the alliance, and the question of its expansion, a central
 issue of the [[contemporary|post-Cold-War]] order.
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] add institutional prehistory:
+NATO's founding (April 4, 1949) built on the **Treaty of Brussels** (March 1948, UK,
+France, and the Benelux states) — itself reacting to the Prague coup and the run-up to
+the Berlin blockade — which in turn built on the **Anglo-French Treaty of Dunkirk**
+(March 1947). The **Vandenberg Resolution** (June 1948) marked the decisive US Senate
+shift away from isolationism that made the treaty possible. West Germany's accession
+(October 1954 by treaty, effective May 1955) followed the French parliament's June 1954
+rejection of the European Defence Community, which forced the fallback to national West
+German rearmament within NATO. De Gaulle's withdrawal from NATO's integrated command
+proceeded in stages — 1959 (Mediterranean fleet and air squadrons), 1963 (Atlantic/
+Channel fleets), and 1966 (full withdrawal from the integrated military structures while
+remaining in the Atlantic Alliance) — after which NATO headquarters moved from near Paris
+to Brussels.
 
 ## Related
 

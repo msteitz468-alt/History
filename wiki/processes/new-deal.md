@@ -4,15 +4,14 @@ date_start: 1933
 date_end: 1939
 date_precision: year
 period: [World Wars Era]
-region: [north-america]
+region: ["north-america"]
 process_type: political
-driven_by: [[great-depression]]
-produces: [[court-packing-fight-1937]]
-sources_ingested: 2
-last_updated: 2026-07-01
-tags: [process, world-wars-era, north-america]
+sources_ingested: [3]
+last_updated: "2026-07-02"
+tags: [process, "world-wars-era", "north-america"]
+driven_by: ["[great-depression]"]
+produces: ["[court-packing-fight-1937]"]
 ---
-
 # The New Deal
 
 ## Definition and Scope
@@ -91,7 +90,7 @@ congressional coalition and the pivot to war; Roosevelt himself announced in
 however, persisted and expanded, making the terminal date a matter of
 convention.
 
-## Contemporary revisionist documentation (Flynn 1948, attributed)
+## Contemporary revisionist documentation (Flynn 1940/1944/1948, attributed)
 
 Flynn's *[[flynn-roosevelt-myth-1948|The Roosevelt Myth]]* supplies a hostile
 but heavily sourced contemporary record; the following items are his, cited to
@@ -140,6 +139,50 @@ and the executive-power drift — lump-sum appropriations (the RFC's $34bn
 disbursed without congressional appropriation; the BEW funded at ~$1.5bn
 against a $12M appropriation), O'Mahoney's count of 4,000+ executive orders,
 and delegated code-making struck down 9–0 in 1935.
+
+The earliest layer of the same record is
+*[[flynn-country-squire-1940|Country Squire in the White House]]* (May 1940),
+whose distinctive attributed claims are:
+
+- **NRA genesis in organized business, not the Brain Trust.** The code idea
+  descends from Chamber of Commerce planning — the Harriman Committee on
+  Continuity of Business and Employment (Feb 1931, recommending production
+  control, Sherman Act modification, a National Economic Council, and social
+  insurance) and the Litchfield Share-the-Work committee (1932) — through the
+  1932 Wagner conference draft (Flynn: "I have seen that bill, and it
+  contains the germ of everything, save the licensing clause, that appeared
+  in the final NRA Act"), then Johnson/Dickinson/Frank/Richberg drafting.
+  Codes were written by their industries (the Steel Code by the American Iron
+  & Steel Institute, which became its own code authority): "the beginning of
+  the corporate state, only we called the corporatives codes." Richberg is
+  quoted admitting trade associations "were asked to Washington and told to
+  write their own tickets."
+- **The gold-buying scheme in real time.** Warren's theory (via Morgenthau)
+  plus Fisher's compensated dollar; gold from $21 to $35/oz; "within three
+  months the whole scheme was recognized as a ghastly fizzle," while Treasury
+  purchases raised US holdings from $8.2bn to $19bn. Footnoted first-person
+  anecdote: Borah told Flynn that FDR laughed off silver policy with "I
+  experimented with gold and that was a flop. Why shouldn't I experiment a
+  little with silver?"
+- **Spending as the "Big Gun."** $22bn of borrowed relief/recovery funds
+  (1933–40) "without a single penny of taxes on anyone"; Congress's shift to
+  lump-sum grants read as abdication of the appropriation power; the
+  justification's evolution traced from crisis relief → "priming the pump" →
+  "the deficit was not a deficit; it was an asset" → permanent replacement of
+  private investment.
+- **Social Security resisted, not championed.** Flynn's emphatic claim that
+  FDR "held it up": refusing Wagner's 1934 bill, telling a delegation "The
+  time is not ripe for old-age pensions yet," junking his own committee's
+  plan, and accepting the reserve-fund design (a projected $47bn fund used to
+  cover general costs) that he and Morgenthau later agreed to abandon (Flynn,
+  "The Social Security Reserve Swindle," *Harper's*, Feb 1939). Similarly,
+  "one reason he jumped to the support of the NRA was to defeat the first
+  minimum-wage and maximum-hour bill" (the Black 30-hour bill).
+- **1933 continuity with Hoover.** The bank-closing orders "were in no sense
+  different from those that had been prepared by Ogden Mills"; the crisis
+  changed the public mood, not the problem — "the immensity of the disaster
+  had, without changing the problem, opened the road for the new President to
+  do almost anything he chose to do."
 
 Flynn's interpretive superstructure — that the planned economy "was and is
 fascism by whatever name it is known" and that rearmament became the New

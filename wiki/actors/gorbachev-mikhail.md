@@ -1,17 +1,17 @@
 ---
 title: Mikhail Gorbachev
 actor_type: person
-date_start: 1931-03-02
-date_end: 2022-08-30
+date_start: "1931-03-02"
+date_end: "2022-08-30"
 period: [Cold War, Contemporary]
-region: [eastern-europe]
-affiliated_with: [[soviet-union|Soviet Union]], [[bolshevik-party|Bolshevik Party]]]
-opposed_by: [[yeltsin-boris|Boris Yeltsin]] (politically), Communist Hardliners / August Coup leaders]
-key_events: [[chernobyl-disaster-1986|Chernobyl Disaster]], [[august-coup-1991|August Coup]], [[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]]
-key_processes: [[perestroika|Perestroika]], [[glasnost|Glasnost]], [[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]]
-sources_ingested: 5
-last_updated: 2026-06-22
-tags: [actor, person, cold-war, contemporary, eastern-europe]
+region: ["eastern-europe"]
+sources_ingested: [6]
+last_updated: "2026-07-02"
+tags: [actor, person, "cold-war", contemporary, "eastern-europe"]
+affiliated_with: ["[soviet-union|Soviet Union]]", "[[bolshevik-party|Bolshevik Party]]"]
+key_events: ["[chernobyl-disaster-1986|Chernobyl Disaster]]", "[[august-coup-1991|August Coup]]", "[[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]"]
+key_processes: ["[perestroika|Perestroika]]", "[[glasnost|Glasnost]]", "[[dissolution-of-the-soviet-union|Dissolution of the Soviet Union]]"]
+opposed_by: ["[yeltsin-boris|Boris Yeltsin]] (politically)", Communist Hardliners / August Coup leaders]
 ---
 # Mikhail Gorbachev
 ## Biography / Description
@@ -38,6 +38,31 @@ Gorbachev was a brilliant dissimulator who had attended Brezhnev's court without
 - **Union Treaty and the Coup (1991):** To prevent the disintegration of the USSR from rising nationalisms, Gorbachev negotiated a new Union Treaty scheduled for 20 August 1991. This prompted a hardline communist coup. On 18 August plotters (Shenin, Baklanov, Varennikov, Boldin) visited Foros demanding he cede power to Yanaev; Gorbachev refused ("swore at them lustily", line 3466). The State Committee for the Emergency Situation (Yanaev, Pavlov, Kryuchkov, Yazov, Baklanov, Pugo, Starodubtsev, Tizyakov) declared emergency 19 August. Yeltsin rallied resistance from the White House; three civilians killed 20–21 August (Komar, Krichevski, Usov). Coup collapsed by 21 August; plotters arrested (lines 3470–3484). "A delighted Yeltsin travelled around the RSFSR urging the autonomous republics to 'take whatever helping of power...'" (line 3446). Gorbachev resigned 25 December 1991 after Belovezha Accords (line 3514). 
 
 Gorbachëv's "intuitive brilliance did him little good"; he "remained hampered by his background from foreseeing where his path of transformation was leading" and "induced chaos in governance" while "always more slowly than the pace of the deepening crisis" (lines 3396–3397). "I'm doomed to go forward, and only forward..." (line 3398).
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] add biographical grounding
+consistent with the account above: Gorbachev was the child of successful
+collective-farm managers, a law student and amateur actor, and was shaped formatively
+by Khrushchev's 1956 secret anti-Stalin speech; he rose as a protégé of KGB chief Yuri
+Andropov, who briefly served as general secretary himself (1982–84). They characterize
+**glasnost** as extending to freeing dissidents including Sakharov, admitting Soviet
+responsibility for the 1940 Katyn massacre and the secret Nazi-Soviet Pact protocol, and
+rehabilitating Stalin's victims including Bukharin; **perestroika** as extending to
+multicandidate elections from the May 1989 Congress of People's Deputies and the March
+1990 constitutional amendment ending the Communist Party's political monopoly and
+creating an executive "president of the USSR" office, which Gorbachev himself filled.
+His explicit repudiation of the Brezhnev Doctrine is dated by Paxton & Hessler to
+October 7, 1989, in Berlin (see [[brezhnev-leonid]]). He was awarded the **Nobel Peace
+Prize in October 1990**.
+
+Paxton & Hessler stress a tension in his character: Gorbachev "was neither a democrat
+nor an economic liberal" — he wanted to revitalize Soviet communism, not replace it, and
+lost control of the process he began. His acquiescence in a **January 1991 crackdown in
+Lithuania and Latvia** (13 killed) cost him progressive support without regaining
+conservatives; the failed August 1991 coup, defeated by Boris Yeltsin, effectively ended
+his authority (see [[yeltsin-boris]] and [[august-coup-1991]]). He resigned December 25,
+1991, transferring nuclear launch codes to Yeltsin.
 
 ## Historical Significance
 Gorbachev was the solitary fore-rider of reform who set out to renovate the Soviet compound but instead accelerated its dissolution. He hated obstacles from upholders of the Brezhnev period and was in his element in debate. Initially he could count only on Shevardnadze as unconditional ally. He remained a Marxist-Leninist believer who assumed the renovated Soviet order would demonstrate superiority and that Eastern European communists would voluntarily follow. He was a disorganized thinker with rudimentary economic understanding and superficial grasp of the national question (comfortable with his own dual identity, he spoke of Russia and the USSR as coextensive in Ukraine, outraging sensitivities). By battering the system he hoped to secure popular approval while preserving the one-party state and hallowed Lenin/October symbols. Instead glasnost and perestroika reinforced localism, nationalism, corruption, illegal profiteering and distrust of authority — the very phenomena he sought to eliminate. He was Russia's "holy fool" (lines 3137–3141, 3198–3200, 3260).

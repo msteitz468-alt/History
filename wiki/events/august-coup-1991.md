@@ -1,21 +1,21 @@
 ---
 title: August Coup
-date_start: 1991-08-19
-date_end: 1991-08-21
+date_start: "1991-08-19"
+date_end: "1991-08-21"
 date_precision: exact
 period: [Cold War]
-region: [eastern-europe]
-location: [Moscow]
-actors_primary: [[gorbachev-mikhail|Mikhail Gorbachev]], [[yeltsin-boris|Boris Yeltsin]], State Committee on the State of Emergency (GKChP)]
-actors_secondary: [Genrikh Yanaev, Dmitry Yazov, Vladimir Kryuchkov]
-event_type: collapse
-scale_immediate: civilizational
-scale_consequential: global
-causes: [fear of the new Union Treaty, desire to preserve the Soviet centralized state, hardline opposition to Gorbachev's reforms]
+region: ["eastern-europe"]
+causes: [fear of the new Union Treaty, desire to preserve the Soviet centralized state, "hardline opposition to Gorbachev's reforms"]
 consequences: [collapse of the coup, banning of the Communist Party, rise of Boris Yeltsin, acceleration of the dissolution of the USSR]
-sources_ingested: 3
-last_updated: 2026-06-22
-tags: [event, cold-war, eastern-europe]
+sources_ingested: [4]
+last_updated: "2026-07-02"
+tags: [event, "cold-war", "eastern-europe"]
+event_type: collapse
+location: [Moscow]
+actors_primary: ["[gorbachev-mikhail|Mikhail Gorbachev]]", "[[yeltsin-boris|Boris Yeltsin]]", State Committee on the State of Emergency (GKChP)]
+actors_secondary: [Genrikh Yanaev, Dmitry Yazov, Vladimir Kryuchkov]
+scale_consequential: global
+scale_immediate: civilizational
 ---
 # August Coup
 ## Narrative
@@ -38,3 +38,13 @@ Additional from Freeze (ed.) 2002 chronology: "1991 ... ultimatum to Gorbachev t
 
 ## Historiography
 Riasanovsky notes that the coup's failure was due to popular opposition, poor organization, and the refusal of key armed units to fire on civilians, demonstrating that the old totalitarian mechanism could no longer function effectively (Line 7245).
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] corroborate the narrative
+above and add the figure of roughly **70,000 civilian defenders** mobilized around the
+White House, plus the framing that the plot was timed specifically to forestall
+Gorbachev's signature of the new Union Treaty. Consistent with the Consequence Analysis
+above, they stress that the coup's direct consequence was to **accelerate** the
+dissolution of the USSR rather than to prevent it, since the plotters' failure fatally
+discredited the central Soviet apparatus they had set out to preserve.

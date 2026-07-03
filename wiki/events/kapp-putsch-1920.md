@@ -1,23 +1,22 @@
 ---
-title: "Kapp Putsch (1920)"
-date_start: 1920-03-13
-date_end: 1920-03-17
+title: Kapp Putsch (1920)
+date_start: "1920-03-13"
+date_end: "1920-03-17"
 date_precision: exact
 period: [World Wars Era]
-region: [western-europe]
-location: [Berlin]
-actors_primary: [Wolfgang Kapp, [[freikorps]] (Ehrhardt Brigade), [[weimar-republic]]]
-actors_secondary: [General Hans von Seeckt, [[ebert-friedrich]], German trade unions]
+region: ["western-europe"]
+causes: ["Versailles-mandated dissolution of Free Corps units", "[[stab-in-the-back-myth]] nationalism", army disloyalty to the Republic]
+consequences: [general strike, "Ruhr \"Red Army\" uprising and its bloody suppression", demonstrated army unreliability, "[[weimar-democracy-and-its-collapse]]"]
+sources_ingested: ["evans-coming-of-third-reich-2003", "paxton-europe-twentieth-century-2011"]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "western-europe"]
 event_type: political
-scale_immediate: regional
+location: [Berlin]
+actors_primary: [Wolfgang Kapp, "[[freikorps]] (Ehrhardt Brigade)", "[[weimar-republic]]"]
+actors_secondary: [General Hans von Seeckt, "[[ebert-friedrich]]", German trade unions]
 scale_consequential: civilizational
-causes: [Versailles-mandated dissolution of Free Corps units, [[stab-in-the-back-myth]] nationalism, army disloyalty to the Republic]
-consequences: [general strike, Ruhr "Red Army" uprising and its bloody suppression, demonstrated army unreliability, [[weimar-democracy-and-its-collapse]]]
-sources_ingested: [evans-coming-of-third-reich-2003]
-last_updated: 2026-07-02
-tags: [event, world-wars-era, western-europe]
+scale_immediate: regional
 ---
-
 # Kapp Putsch (March 1920)
 
 The attempted right-wing overthrow of the Weimar government by
@@ -37,6 +36,18 @@ strike and the refusal of the civil service to execute its orders — though
 Evans notes the same duty-to-the-Reich abstraction that kept officials
 working against Kapp "would also keep them working when the state was
 overthrown" in 1933.
+
+## Paxton & Hessler (2011) Corroboration
+
+Paxton and Hessler confirm the core mechanics: the [[freikorps|Erhardt
+Brigade]] marched into Berlin displaying swastikas on their helmets, and
+General von Seeckt refused to order the army against the putschists,
+maintaining a studied "neutrality" that in practice let the coup proceed
+unopposed by the regular military. What actually broke the putsch was
+civilian, not military: bureaucratic non-cooperation from the civil
+service combined with the largest general strike in modern German history
+to that point, which ended the putsch within four days. Source:
+[[paxton-europe-twentieth-century-2011]].
 
 ## Causal Analysis
 

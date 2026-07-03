@@ -1,24 +1,23 @@
 ---
 title: German Intervention in the Spanish Civil War (1936)
-date_start: 1936-07-25
-date_end: 1936-10
+date_start: "1936-07-25"
+date_end: "1936-10"
 date_precision: exact for initial decision; approximate for escalation
-dating_method: documentary
 period: [World Wars Era]
-region: [western-europe, mediterranean]
-location: [Spain, Spanish Morocco, Bayreuth]
-actors_primary: [["adolf-hitler"], ["actors/franco-francisco"], ["actors/goering-hermann"], ["actors/blomberg-werner-von"], ["actors/ribbentrop-joachim-von"]]
-actors_secondary: [["actors/mussolini-benito"], ["german-foreign-office|German Foreign Office"], ["german-business|Export firms (Bernhardt)"], ["legion-condor|Legion Condor (later)"]]
+region: ["western-europe", mediterranean]
+causes: ["[\"bolshevism-threat|Hitler's ideological preoccupation with Bolshevism (Iberian peninsula as new front)\"]", "[\"spanish-crisis|Franco's request for transport planes after failed coup (July 1936)\"]", "[\"adolf-hitler|Decision taken alone against Foreign Office advice (25 July Bayreuth)\"]", "[\"economic-gain|Göring emphasis on raw materials (Andalusia, barter for arms)\"]", "[\"mussolini-support|Italian involvement (parallel aid)\"]", "[\"hitler-confidence|Post-Rhineland self-confidence; weakened position of cautious advisers\"]"]
+consequences: ["[\"spanish-war-prolongation|German aid helped prolong the civil war; Legion Condor formed October 1936\"]", "[\"axis-formation|Deepened cooperation with Italy (pilots operating in unison; Guernica 1937 emblem)\"]", "[\"rehearsal-war|Rehearsal for general showdown between Fascism and Communism\"]", "[\"hitler-ideology|Confirmed ideological framing of foreign policy\"]", "[\"military-experience|Combat experience for Luftwaffe; testing of tactics/equipment\"]", "[\"raw-materials|Some access to Spanish raw materials via barter\"]"]
+sources_ingested: [3]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", spain, military, "adolf-hitler", "spanish-civil-war", axis, "anti-bolshevism"]
 event_type: military
-scale_immediate: regional
+location: [Spain, Spanish Morocco, Bayreuth]
+actors_primary: ["[\"adolf-hitler\"]", "[\"actors/franco-francisco\"]", "[\"actors/goering-hermann\"]", "[\"actors/blomberg-werner-von\"]", "[\"actors/ribbentrop-joachim-von\"]"]
+actors_secondary: ["[\"actors/mussolini-benito\"]", "[\"german-foreign-office|German Foreign Office\"]", "[\"german-business|Export firms (Bernhardt)\"]", "[\"legion-condor|Legion Condor (later)\"]"]
+dating_method: documentary
 scale_consequential: civilizational
-causes: [["bolshevism-threat|Hitler's ideological preoccupation with Bolshevism (Iberian peninsula as new front)"], ["spanish-crisis|Franco's request for transport planes after failed coup (July 1936)"], ["adolf-hitler|Decision taken alone against Foreign Office advice (25 July Bayreuth)"], ["economic-gain|Göring emphasis on raw materials (Andalusia, barter for arms)"], ["mussolini-support|Italian involvement (parallel aid)"], ["hitler-confidence|Post-Rhineland self-confidence; weakened position of cautious advisers"]]
-consequences: [["spanish-war-prolongation|German aid helped prolong the civil war; Legion Condor formed October 1936"], ["axis-formation|Deepened cooperation with Italy (pilots operating in unison; Guernica 1937 emblem)"], ["rehearsal-war|Rehearsal for general showdown between Fascism and Communism"], ["hitler-ideology|Confirmed ideological framing of foreign policy"], ["military-experience|Combat experience for Luftwaffe; testing of tactics/equipment"], ["raw-materials|Some access to Spanish raw materials via barter"]]
-sources_ingested: 2
-last_updated: 2026-06-25
-tags: [event, world-wars-era, spain, military, adolf-hitler, spanish-civil-war, axis, anti-bolshevism]
+scale_immediate: regional
 ---
-
 # German Intervention in the Spanish Civil War (1936)
 
 ## Narrative
@@ -73,6 +72,27 @@ fast-tank tactics; the Legion marched in his Madrid victory parade, 18 May
 pusillanimity of Britain and France," and consolidated the Rome–Berlin Axis
 and Anti-Comintern Pact alignments of 1936. Source:
 [[evans-third-reich-in-power-2005]]
+
+## From Paxton and Hessler, *Europe in the Twentieth Century* (2011)
+
+Additions (ingested 2026-07-02): by the time full-scale intervention was
+underway, Italy had sent roughly 100,000 troops (70,000 Italian regulars
+plus 30,000 North African colonial troops) between December 1936 and April
+1937 under the Corps of Voluntary Troops (CTV) — defeated at Guadalajara in
+March 1937 by Republican forces, who mocked the retreating Italians with
+"¿Cuándo te vas?" ("when are you leaving?"). Germany's Condor Legion
+(~6,000 men, with artillery and tanks) arrived from November 1936 and
+bombed Guernica on April 26, 1937. Mussolini publicly announced the
+Rome–Berlin "Axis" on November 1, 1936, following Count Galeazzo Ciano's
+October 1936 visit to Hitler — a direct outgrowth of the two powers' joint
+intervention in Spain.
+
+Britain's April 1938 "gentleman's agreement" with Italy — accepting the
+status quo in the Mediterranean and Red Sea and recognizing Italian
+Ethiopia in exchange for Italian troop withdrawals from Spain that never
+fully materialized — was a related episode of appeasement directed at
+Italy rather than Germany; see [[appeasement]]. Source:
+[[paxton-europe-twentieth-century-2011]].
 
 ## From Payne, *The Franco Regime* (1987)
 

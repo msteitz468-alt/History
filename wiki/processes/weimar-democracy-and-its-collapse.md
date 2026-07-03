@@ -1,18 +1,17 @@
 ---
-title: Weimar Democracy and Its Collapse, 1918–1933
-date_start: 1918-11
-date_end: 1933-01-30
+title: "Weimar Democracy and Its Collapse, 1918–1933"
+date_start: "1918-11"
+date_end: "1933-01-30"
 date_precision: year
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
 process_type: [political, ideological, economic]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [process, "world-wars-era", "western-europe"]
 driven_by: [WWI legacies, Treaty of Versailles, hyperinflation, Volksgemeinschaft ideology, Great Depression, conservative elite miscalculation]
-produces: [nazi-germany, the-holocaust, second-world-war-1939]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [process, world-wars-era, western-europe]
+produces: ["nazi-germany", "the-holocaust", "second-world-war-1939"]
 ---
-
 ## Definition and Scope
 
 This process covers the life-cycle of the [[weimar-republic]]: its founding through the [[november-revolution-1918]], the formation of democratic institutions in 1919, the stabilization of 1924–1929, the crisis of 1929–1932 triggered by the Great Depression, and the appointment of [[actors/adolf-hitler|Adolf Hitler]] as Chancellor on 30 January 1933. It addresses both the structural weaknesses of the Weimar system and the contingent political decisions that led to its destruction. Source: [[smith-oxford-modern-german-history-2011]], ch. 19 (Thomas Mergel).
@@ -82,6 +81,37 @@ The Weimar Republic's political geography was regionally diverse. Protestant rur
 ## End Conditions
 
 The process ended on 30 January 1933 with Hitler's appointment as Chancellor, followed by the rapid destruction of all Weimar constitutional institutions. Trade unions abolished (May 1933). Political parties (including the NSDAP's coalition partners) dissolved or banned (summer 1933). First concentration camps established 1933–1934 for KPD members and SPD leadership. By August 1934, when Hindenburg died and Hitler merged Chancellor and President offices, the [[weimar-republic]] had ceased to exist in any meaningful sense.
+
+## Paxton (2011): Müller's Fall and Hindenburg's Fatal Choice
+
+[[paxton-europe-twentieth-century-2011|Paxton and Hessler]] date the decisive break
+precisely: Hermann Müller's five-party Great Coalition broke on **27 March 1930**
+over the dole-versus-balanced-budget dispute, after the banking house Dillon, Read
+refused further credit — Paxton judges the parliamentary system had "arguably
+ceased to function at that point," since no Reichstag majority existed for either
+remedy on offer. Source: [[paxton-europe-twentieth-century-2011]].
+
+**Brüning's strategy** (Chancellor, March 1930–May 1932) combined two prongs:
+domestic deflation (wages rolled back to 1 January 1927 levels, governed by
+Article 48 decree — the "hunger chancellor") with a diplomatic offensive seeking
+foreign concessions — a German-Austrian customs union (blocked by France), arms
+parity (refused), and an end to reparations (achieved in 1931, his sole real
+success, via the Hoover Moratorium). His September 1930 dissolution of the
+Reichstag, intended to strengthen his hand, instead backfired badly: the NSDAP
+jumped from 12 to 107 seats.
+
+Brüning fell amid the Hindenburg circle's Osthilfe intrigue, replaced by **Franz
+von Papen**, whom Paxton characterizes as installing an "authoritarian state
+without pretense." The NSDAP reached 37% in the July 1932 election; **Kurt von
+Schleicher**'s subsequent attempt at a trade-union-based technocratic government
+alarmed conservative and business interests, clearing the way for Hitler's
+appointment on 30 January 1933. Paxton's framing is explicit: Hitler was "neither
+elected to power nor did he seize it in a coup" — Hindenburg himself "made the
+fatal choice," persuaded by Papen that Hitler could be boxed in by a cabinet of
+conservative nationalists. Paxton cites Henry Ashby Turner's *Hitler's Thirty Days
+to Power* for the argument that this outcome was contingent, not inevitable — a
+sequence of avoidable elite miscalculations rather than the structural terminus of
+Weimar's constitutional design. Source: [[paxton-europe-twentieth-century-2011]].
 
 ## Evans (2003): Legitimacy over Machinery
 

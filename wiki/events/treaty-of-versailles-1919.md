@@ -1,23 +1,22 @@
 ---
 title: Treaty of Versailles (1919)
-date_start: 1919-06-28
-date_end: 1919-06-28
+date_start: "1919-06-28"
+date_end: "1919-06-28"
 date_precision: exact
-period: [world-wars-era, long-19th-century]
-region: [western-europe, global]
-location: [Versailles, France]
-actors_primary: [allied-powers, weimar-germany]
-actors_secondary: [woodrow-wilson, georges-clemenceau, david-lloyd-george]
+period: ["world-wars-era", "long-19th-century"]
+region: ["western-europe", global]
+causes: [German defeat in World War I, Allied desire for security and reparations, Fourteen Points vs. punitive terms]
+consequences: [Harsh terms on Germany (territorial losses, reparations, military restrictions, war guilt clause), Political instability in Weimar Republic, Contributed to rise of revanchism and Hitler, "League of Nations established (U.S. non-member)", Resentments fueling World War II]
+sources_ingested: [4]
+last_updated: "2026-07-02"
+tags: [event, "world-wars-era", "long-19th-century", europe]
 event_type: treaty
-scale_immediate: hemispheric
+location: [Versailles, France]
+actors_primary: ["allied-powers", "weimar-germany"]
+actors_secondary: ["woodrow-wilson", "georges-clemenceau", "david-lloyd-george"]
 scale_consequential: global
-causes: ["German defeat in World War I", "Allied desire for security and reparations", "Fourteen Points vs. punitive terms"]
-consequences: ["Harsh terms on Germany (territorial losses, reparations, military restrictions, war guilt clause)", "Political instability in Weimar Republic", "Contributed to rise of revanchism and Hitler", "League of Nations established (U.S. non-member)", "Resentments fueling World War II"]
-sources_ingested: 3
-last_updated: 2026-07-02
-tags: [event, world-wars-era, long-19th-century, europe]
+scale_immediate: hemispheric
 ---
-
 # Treaty of Versailles (1919)
 
 Peace treaty signed 28 June 1919 formally ending WWI between the Allies and Germany. Imposed significant territorial losses (Alsace-Lorraine, Polish Corridor, colonies), severe military limits, and massive reparations. The "war guilt" clause (Article 231) and economic burden became potent symbols in German politics. Established the League of Nations (though the U.S. Senate refused to ratify). Seen by many contemporaries and later historians as a flawed settlement that sowed seeds for the next war.
@@ -66,6 +65,42 @@ injustice, not objective severity**. Two Evans-flagged causal legacies:
   sponsored separatism) manufactured nationalists: a former pacifist SPD
   member — "I came to feel the rifle butt of the French and became patriotic
   again."
+
+## Additional Context (Paxton)
+
+Paxton and Hessler ([[paxton-europe-twentieth-century-2011]], Ch. 6, "The Paris Peace
+Settlement") supply detail this page did not yet capture:
+
+- **League of Nations Covenant mechanics.** Article 16 provided for collective economic and
+  military sanctions against aggressor states — a mechanism that proved politically unusable in
+  practice. Article 22 created the mandate system: former Ottoman and German territories were
+  administered as "mandates" rather than outright colonies, but the actual distribution followed
+  wartime Allied bargains more than wartime promises to the mandated populations — Syria and
+  Lebanon went to France, Iraq and Palestine to Britain, broadly consistent with the secret
+  1916 Sykes-Picot Agreement rather than the wartime pledges made to Arab nationalists and
+  Zionists.
+- **The Teschen dispute** as the paradigmatic case of the settlement's frontier-drawing problem
+  in Eastern Europe: a district roughly 56% Polish, 26% Czech, and 18% German by the 1910
+  census, split between the new Poland and Czechoslovakia; the two states fought over it in
+  1919–1920, and Poland seized the remainder by force in 1938 (in the aftermath of Munich).
+- **The gratified-states/revisionist-states framework.** Paxton groups the new Eastern European
+  order into states satisfied with the settlement — Poland, Czechoslovakia, Romania, and
+  Yugoslavia (the "gratified" states, territorial beneficiaries with a stake in the new order) —
+  against states seeking to overturn it — Hungary, Austria, and Bulgaria (the "revisionist"
+  states, all territorial losers). This framework structures interwar Eastern European diplomacy
+  through the 1930s.
+- **Reparations figure.** The final reparations bill, set by the Allied Reparations Commission in
+  April 1921, was 132 billion gold marks (roughly $33 billion) — the concrete number behind the
+  "not beyond the country's resources to meet" debate (see Evans, above) and the trigger for the
+  [[ruhr-occupation-crisis-1923|Ruhr occupation]] and, eventually, the [[dawes-plan-1924|Dawes
+  Plan]].
+- **Naval vs. land disarmament — a contrast in outcomes.** Naval disarmament succeeded via
+  negotiated great-power agreement: the Washington Naval Conference (1921–22) fixed capital-ship
+  ratios of 5 (US) : 5 (UK) : 3 (Japan) : 1.75 (France) : 1.75 (Italy), refined at the London
+  Naval Conference (1930). Land disarmament, by contrast, failed: the World Disarmament
+  Conference opened in Geneva in February 1932 but collapsed after Germany withdrew in 1933,
+  leaving Versailles's unilateral limits on the German army as the only real constraint — one
+  Hitler renounced outright in 1935.
 
 ## Historiography
 

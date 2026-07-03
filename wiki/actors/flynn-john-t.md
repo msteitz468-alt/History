@@ -1,19 +1,18 @@
 ---
-title: "John T. Flynn"
+title: John T. Flynn
 actor_type: person
 date_start: 1882
 date_end: 1964
 period: [World Wars Era, Cold War]
-region: [north-america]
+region: ["north-america"]
+sources_ingested: [3]
+last_updated: "2026-07-02"
+tags: [actor, person, "world-wars-era", "cold-war", "north-america"]
 affiliated_with: [America First Committee, New Republic (to 1940), Old Right]
+key_events: ["attack-on-pearl-harbor-1941"]
+key_processes: ["new-deal"]
 opposed_by: [Franklin D. Roosevelt, the New Deal administration]
-key_events: [attack-on-pearl-harbor-1941]
-key_processes: [new-deal]
-sources_ingested: 2
-last_updated: 2026-07-02
-tags: [actor, person, world-wars-era, cold-war, north-america]
 ---
-
 # John T. Flynn (1882–1964)
 
 American journalist and economic writer whose career traces the arc of the Old
@@ -24,7 +23,16 @@ America First Committee, and ended as a McCarthy-era anticommunist pamphleteer.
 
 ## Role and Significance
 
-Flynn's importance to historiography rests on two books. *As We Go Marching*
+Flynn's importance to historiography rests on his anti-Roosevelt trilogy. Its
+opening volume, *Country Squire in the White House* (May 1940) — see
+[[flynn-country-squire-1940]] — is a character study written against the
+third term while Flynn still called himself a liberal "well left of center":
+FDR as a well-born amateur without economic convictions whose New Deal was
+improvisation, with the prediction that only "a war hysteria" could save the
+regime. By then Roosevelt had already written the *Yale Review* (1939)
+suggesting Flynn "should be barred hereafter from the columns of any
+presentable daily paper," and 1940 also brought Flynn's severance from the
+*New Republic*. *As We Go Marching*
 (1944) — see [[flynn-as-we-go-marching-1944]] — is the most systematic
 contemporary statement of the [[as-we-go-marching-thesis|thesis]] that fascism
 is an economic-policy syndrome (deficit spending, autarky, corporatism,

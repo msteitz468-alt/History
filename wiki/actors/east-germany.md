@@ -1,19 +1,18 @@
 ---
 title: German Democratic Republic (East Germany)
 actor_type: state
-date_start: 1949-10-07
-date_end: 1990-10-03
+date_start: "1949-10-07"
+date_end: "1990-10-03"
 period: [Cold War]
-region: [eastern-europe]
+region: ["eastern-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [actor, state, Cold War, "eastern-europe"]
 affiliated_with: [Warsaw Pact, COMECON, Soviet Union]
-opposed_by: [west-germany]
-key_events: [east-german-workers-uprising-1953, fall-of-the-berlin-wall-1989, german-reunification-1990]
-key_processes: [two-germanies-cold-war, vergangenheitsbewaltigung]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [actor, state, Cold War, eastern-europe]
+key_events: ["east-german-workers-uprising-1953", "fall-of-the-berlin-wall-1989", "german-reunification-1990"]
+key_processes: ["two-germanies-cold-war", vergangenheitsbewaltigung]
+opposed_by: ["west-germany"]
 ---
-
 ## Overview
 
 The German Democratic Republic (GDR), commonly known as East Germany, was founded on 7 October 1949 from the Soviet occupation zone. It was ruled for its entire existence by the Socialist Unity Party (SED — Sozialistische Einheitspartei Deutschlands), formed in 1946 through the forced merger of the SPD and KPD in the Soviet zone. The GDR was dissolved on 3 October 1990 when its five newly-reconstituted eastern states acceded to the Federal Republic under Article 23 of the Basic Law — the first successful democratic revolution in modern German history, achieved without a shot fired.
@@ -48,6 +47,23 @@ A distinctive feature of the East German revolution: unlike Solidarity or Civic 
 - Egon Krenz — short-lived reformist successor, October–December 1989
 - Bärbel Bohley — co-founder of New Forum, "Joan of Arc of the German Democratic Revolution"
 - Lothar de Maizière — first and last democratically elected GDR Prime Minister; led unification negotiations
+
+## From Paxton & Hessler, *Europe in the Twentieth Century*
+
+[[paxton-europe-twentieth-century-2011|Paxton & Hessler]] add two data points that
+sharpen the picture of the GDR's founding. First, **East German reparations to the
+USSR** are estimated at **70 billion marks** — roughly 200 times the rate the Western
+Allies drew from West Germany after 1945 — a strong `caused_by` factor in East Germany's
+much slower recovery relative to the [[wirtschaftswunder|Wirtschaftswunder]] in the west.
+Second, the SED's founding merger of the SPD and KPD was demonstrably **imposed rather
+than organic**: in the one genuinely free election held in the Soviet zone (October
+1946), the SED took only **45%** against a combined **49%** for the Christian Democrats
+and Liberals — worth stating explicitly, since the SED's later single-list dominance
+tends to obscure how contested the merger initially was. Walter Ulbricht ruled as party
+secretary 1945–1971 (predating the 1950 date given above for his General Secretaryship).
+The FRG's constitution was adopted May 1949 with government taking office September
+1949; the GDR's constitution followed in March 1949, with the state proclaimed October
+1949 — a near-simultaneous, mutually reactive founding sequence. See [[west-germany]].
 
 ## Historiography
 

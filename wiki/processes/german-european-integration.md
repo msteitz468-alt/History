@@ -4,15 +4,14 @@ date_start: 1945
 date_end: ongoing
 date_precision: year
 period: [Cold War, Contemporary]
-region: [western-europe]
+region: ["western-europe"]
 process_type: political
-driven_by: [westbindung, franco-german-reconciliation, us-hegemony, cold-war, adenauer-konrad, ostpolitik, maastricht-treaty, german-reunification-1990]
-produces: [west-germany, ecsc, eec, european-union, maastricht-treaty]
-sources_ingested: 1
-last_updated: 2026-06-22
-tags: [process, Cold War, Contemporary, western-europe]
+sources_ingested: [2]
+last_updated: "2026-07-02"
+tags: [process, Cold War, Contemporary, "western-europe"]
+driven_by: [westbindung, "franco-german-reconciliation", "us-hegemony", "cold-war", "adenauer-konrad", ostpolitik, "maastricht-treaty", "german-reunification-1990"]
+produces: ["west-germany", ecsc, eec, "european-union", "maastricht-treaty"]
 ---
-
 ## Definition and Scope
 
 Germany's relationship to European integration since 1945 is one of the defining threads of postwar European history. Uniquely among European states, West Germany regained sovereignty precisely by surrendering it — membership in NATO and the EEC restored international legitimacy while embedding a potentially dangerous Germany in institutional constraints. The process moved through several distinct phases: the foundational Westbindung of the Adenauer era; the more self-confident Ostpolitik-era engagement; the deepening post-1990 commitment culminating in Maastricht and monetary union; and the increasingly assertive, occasionally skeptical role of the early 21st century.
@@ -23,7 +22,12 @@ The postwar moment posed a fundamental problem: how to embed Germany in European
 
 The key breakthrough was the **Schuman Plan (1950)**, which proposed pooling French and German coal and steel production under supranational authority. This led to the European Coal and Steel Community (ECSC, 1951) — the first supranational organization with binding authority, and the foundation of Franco-German reconciliation. [[konrad-adenauer]] was its critical German champion, seeing Westbindung as both the essential defense against Soviet aggression and a bulwark against Germany's own violent nationalist past. The formula: Germany recovered sovereignty by surrendering it.
 
-The European Defence Community (EDC) failed in 1954 when the French National Assembly vetoed it. But the 1955 package deal gave West Germany NATO membership and sovereignty (General Treaty) simultaneously. The Treaties of Rome (1957) created the EEC and Euratom, extending economic integration.
+The European Defence Community (EDC) failed in 1954 when the French National Assembly vetoed it. But the 1955 package deal gave West Germany NATO membership and sovereignty (General Treaty) simultaneously. The Treaties of Rome (1957) created the EEC and Euratom, extending economic integration
+— see [[treaty-of-rome-1957]] for the pan-European (non-Germany-specific) narrative of
+this founding moment, per [[paxton-europe-twentieth-century-2011|Paxton & Hessler]]:
+the Council of Europe's earlier failure to achieve political union, the roles of Monnet,
+Schuman, Spaak, and Hallstein, the later Luxembourg compromise, and the EC's subsequent
+evolution through 1986.
 
 Domestically, European integration in the 1950s was largely an elite project. Opinion polls in 1957 showed that only 49% of West Germans had heard of "the Common Market" and only 17% could explain it. The SPD initially opposed the EEC as a kleineruopäisch (small-Europe) Catholic-conservative cartel project, only accepting the Treaties of Rome (the first major integration step the SPD supported). Most Germans prioritized unification over integration. "Europe" was built by "elderly statesmen, well-versed in power politics," not popular enthusiasm.
 
