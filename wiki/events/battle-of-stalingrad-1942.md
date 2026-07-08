@@ -1,21 +1,21 @@
 ---
 title: Battle of Stalingrad
-date_start: 1942-04 (campaign opens per Plan Fall Blau; city reached late Aug)
-date_end: 1943-02-02
+date_start: "1942-04 (campaign opens per Plan Fall Blau; city reached late Aug)"
+date_end: "1943-02-02"
 date_precision: year
 period: [World Wars Era]
-region: [eastern-europe]
-location: [Stalingrad, USSR; approaches via Don bend / Great Bend of the Don]
-actors_primary: [[stalin-joseph|Joseph Stalin]], [[actors/glantz-david-m-and-house-jonathan-m|Glantz/House source for ops detail]], George Zhukov, Nazi Germany (Friedrich Paulus)
-actors_secondary: [General Vasily Chuikov, Marshal Fedor von Bock, [[actors/paulus-friedrich|Friedrich Paulus]], Allied Powers]
-event_type: battle
-scale_immediate: civilizational
-scale_consequential: global
-causes: [German summer offensive of 1942 (Plan Fall Blau), Hitler's strategic objectives (Caucasus oil + Volga), Soviet determination to hold the Volga line, German overextension from 1941 logistics/attrition patterns repeated, critical weakening of Soviet southern defenses by April–June 1942 preliminaries (Kerch’/Trappenjagt, 2nd Battle of Khar’kov disaster destroying 6th/57th/9th Armies + mobile corps, Sevastopol’, Wilhelm/Fridericus II securing German LODs, Reichel Affair not altering Soviet Moscow bias — ~450k Soviet losses and ideal German start positions per Glantz/House Ch. 3)]
+region: ["eastern-europe"]
+causes: [German summer offensive of 1942 (Plan Fall Blau), "Hitler's strategic objectives (Caucasus oil + Volga)", Soviet determination to hold the Volga line, German overextension from 1941 logistics/attrition patterns repeated, critical weakening of Soviet southern defenses by April–June 1942 preliminaries (Kerch’/Trappenjagt, 2nd Battle of Khar’kov disaster destroying 6th/57th/9th Armies + mobile corps, Sevastopol’, Wilhelm/Fridericus II securing German LODs, Reichel Affair not altering Soviet Moscow bias — ~450k Soviet losses and ideal German start positions per Glantz/House Ch. 3)]
 consequences: [destruction and surrender of the German Sixth Army, turning of the tide on the Eastern Front, Soviet strategic initiative]
-sources_ingested: 5
-last_updated: 2026-06-24
-tags: [event, world-wars-era, eastern-europe]
+sources_ingested: [6]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "eastern-europe"]
+event_type: battle
+location: [Stalingrad, USSR; approaches via Don bend / Great Bend of the Don]
+actors_primary: ["[[stalin-joseph|Joseph Stalin]], [[actors/glantz-david-m-and-house-jonathan-m|Glantz/House source for ops detail]], George Zhukov, Nazi Germany (Friedrich Paulus)"]
+actors_secondary: [General Vasily Chuikov, Marshal Fedor von Bock, "[[actors/paulus-friedrich|Friedrich Paulus]]", Allied Powers]
+scale_consequential: global
+scale_immediate: civilizational
 ---
 # Battle of Stalingrad
 ## Narrative
@@ -97,3 +97,13 @@ Update note: sources_ingested incremented with this range.
 **The pocket.** Evans reports Hitler had already determined that Stalingrad's adult male population would be killed and the women and children deported once the city fell. After Uranus closed at Kalach (23 November 1942) and Winter Storm failed, Göring's airlift delivered ~90 of the promised 300 tons/day. On 28 January 1943 the sick and wounded inside the pocket were ordered left to starve — German troops, Evans observes, "were in effect suffering the same fate that Hitler had planned for the Slavs." Paulus's field-marshal promotion (30 January, the invitation to suicide) was declined; he surrendered 31 January, the northern pocket on 2 February. Of ~91,000 marched into captivity, over 55,000 were dead by mid-April 1943; fewer than 6,000 Stalingrad POWs ever returned. Paulus's later broadcasts for the Soviet-sponsored Free Germany committee mortified Berlin.
 
 **The home front's turning point.** SD reports registered "deep shock," the first open criticism of Hitler, spreading jokes ("What's the difference between the sun and Hitler? The sun rises in the east, Hitler goes down in the east"), and visible decline in the German greeting and Party-badge wearing — Evans marks Stalingrad, together with the bombing war, as the point where belief in victory broke. The *Racial Observer*'s epitaph: "They died so that Germany could live." Source: [[evans-third-reich-at-war-2008]]
+
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+The Soviet counteroffensive launched at dawn on 19 November 1942 in a blizzard, breaking the Rumanian Third Army immediately; Hitler's reaction on hearing withdrawal suggested: "I won't leave the Volga! I won't go back from the Volga!" Soviet pincers met at Kalach on 22 November, sealing off some 285,000 men of the German Sixth Army and attached Rumanian divisions. [[manstein-erich-von|Manstein]]'s relief attempt, "Operation Winter Gale" (12 Dec, Fourth Panzer Army under Hoth), reached within roughly 30 miles of the pocket by 21 December before an Italian Eighth Army collapse on the Don forced diversion of Hoth's armor north, ending the relief effort by 23 December — Zeitzler begged Hitler on 21–22 Dec to authorize a Sixth Army breakout, describing "the despair of the starving soldiers... the wounded expiring for lack of proper attention while thousands froze to death," and Hitler "remained as impervious to arguments of this sort as to those others."
+
+A Soviet surrender ultimatum (General Rokossovski to Paulus, 8 Jan 1943, delivered under white flag) offered honorable terms with a 24-hour deadline; Hitler refused to authorize a response, and the final Soviet assault began on 10 January with a 5,000-gun bombardment. Paulus's 24 January radio appeal for surrender authorization ("18,000 wounded without any supplies or dressings or drugs... Army requests immediate permission to surrender in order to save lives of remaining troops") was answered by Hitler: "Surrender is forbidden. Sixth Army will hold their positions to the last man and the last round." On 30 January 1943 — the tenth anniversary of the Nazi seizure of power — Göring's broadcast eulogy declared: "A thousand years hence Germans will speak of this battle with reverence and awe." Hitler promoted Paulus to Field Marshal by radio on the eve of surrender, remarking to Jodl "There is no record in military history of a German Field Marshal being taken prisoner" — an implicit pressure toward suicide that Paulus did not act on; he surrendered on 2 February 1943, the same day as the northern pocket. Of 91,000 Germans (including 24 generals) who began the march into Soviet captivity, only 5,000 (per 1958 Bonn government figures) ever returned to Germany.
+
+[SHIRER-THESIS] Shirer frames Stalingrad together with El Alamein as the decisive turning point of the war, quoting German historian Walter Goerlitz that Stalingrad "was a second Jena and was certainly the greatest defeat that a German army had ever undergone," and noting that the initiative "had passed from Hitler's hands, never to return" — while flagging that further German offensives (Kharkov spring 1943, the Ardennes December 1944) would still follow within an overall defensive posture. The OKW communiqué announcing the defeat (3 Feb 1943) was read on German radio preceded by muffled drums and Beethoven's Fifth Symphony; Hitler proclaimed four days of national mourning.
+
+Source: [[shirer-rise-fall-third-reich-1960]]

@@ -13,8 +13,8 @@ applies_to_regions:
   - east-asia
   - mediterranean
 contested: yes
-sources_ingested: 3
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [concept, religious, late-antiquity, sasanian, central-asia]
 ---
 
@@ -46,4 +46,31 @@ opponents; carried east by Mār Ammō, Manichaeism eventually became the **state
 the Uighur khaganate (762–840 CE)**. See also [[kartir]] (who lists Manichaeans among the
 persecuted) and [[eranshahr]].
 
-See: [[late-antiquity]], [[universal-religions]], [[sasanian-empire]], [[silk-road]], [[augustine]].
+## Augustine as a Manichaean Hearer
+
+The fullest inside account of Latin Manichaeism comes from its most famous defector,
+**[[augustine-of-hippo|Augustine]]**, who was a **Hearer** for about nine years (c. 373–382)
+in the intellectual, "Fellow-Traveller" wing of the sect at Carthage — a milieu Brown likens to
+Communism among 1930s English intellectuals. Manichaeism attracted him by exculpating God for
+evil (an external, co-eternal evil principle) and by its rationalist critique of the Old
+Testament and of Catholic authority. His disillusionment began when the Manichaean bishop
+**Faustus of Milevis** (arrived Carthage 383) proved unable to answer his cosmological doubts,
+and was completed at Milan when Ambrose's immaterialism and Plotinus's account of evil as
+privation gave him alternatives. As a priest he publicly bested the Manichee Fortunatus at Hippo
+(392); as a bishop he wrote extensively against the sect. His opponent
+**[[julian-of-eclanum|Julian of Eclanum]]** later charged that Augustine's own doctrine of
+**[[original-sin-and-grace|original sin]]** was crypto-Manichaean — though Brown notes no
+Manichaean evidence directly supports deriving Augustine's concupiscence doctrine from his
+Manichaean past. The **Kellis letters** (found 1992, western Egypt), written by contemporaries of
+the young Augustine, now show such Manichaean cells "from the inside" as circles of warm spiritual
+friendship, not only as a doctrine of cosmic gloom.
+
+## Lieu: the Rome-to-China transmission and the "Serpent from Persia" thesis
+
+Samuel Lieu's chapter in [[sources/kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]] traces Manichaeism's parallel westward (Rome) and eastward (China) missionary expansions from a single Mesopotamian origin, arguing the religion is uniquely documented at both ends of Eurasia. Mani's own cosmology (per a Coptic *Kephalaia* text) divided the world into four kingdoms — Persia, Rome, Axum, and "Silis/Sinis" (China) — and he explicitly intended simultaneous eastward and westward missions, unlike earlier "localized" religions. In Rome, the earliest state action was **Diocletian and Galerius's rescript of 302 CE**, condemning the Elect to be burned with their books and Hearers to hard labor, framing the sect as a hostile Persian import; legal penalties escalated under Theodosius (loss of civic rights), Anastasius (threat of capital punishment, 510 CE), and a 527 CE edict of Justinian barring Manichaeans from civil service, effectively ending the sect's presence in the Roman East. After the Vandal conquest of North Africa (430 CE), refugee Manichaeans in Rome were suppressed by Pope Leo I; the sect is barely attested in the Roman West after the late 5th century.
+
+Eastward, missionary expansion (led by Mani's disciple Mar Ammō) followed Sasanian political/military expansion toward the Oxus in Mani's own lifetime. Lieu documents Manichaean religious vocabulary carrying Greek loanwords via Syriac into Parthian, Middle Persian, and Sogdian, and argues (**THESIS**) that because roughly 80%+ of all surviving Parthian-language literary remains are Manichaean texts, the Manichaean church inadvertently preserved Parthian as a literary/liturgical language for centuries after the Parthian Empire's fall — "a rare linguistic bridge between Rome and China which few scholars would have suspected." The sect made little headway in East Turkestan before a 6th-century schism produced the "Eastern Diocese" (the *Dīnāwarīya*, followers of Mãr Shãd Ohrmezd), whose members Xuanzang encountered in Persia/Bactria/Sogdiana c. 630–640 CE. Chinese-court episodes followed: a Manichaean bishop (*fuduodan*) arrived from Persia in 694 CE; in 719 and 731 CE Manichaean teachers reached the Tang court, the latter compiling a doctrinal compendium for the government; a 731 CE Tang edict restricted but tolerated the religion as the "indigenous religion" of foreigners. Manichaeism reached its Chinese high-water mark when the Uighur Khaghan **Bügü (r. 759–799) converted c. 762/3 CE**; because the Uighurs were a key Tang military ally, the religion became a *religio licita* throughout China for roughly half a century, entrenching it enough to survive (in concealment, after the mid-9th-century Huichang Persecutions) into the early modern period — attested by a 2010–2012 discovery of Manichaean texts in Chinese script at Xiapu, Fujian, some copied as late as the 18th–19th centuries.
+
+Lieu also surveys the discovery history of the Manichaean corpus: the Turfan Middle Iranian archive (German expeditions, 1902–1914, ~5,000 fragments); the Coptic Medinet Madi hoard (Egypt, c. 1929); Kellis (Dakhleh Oasis) papyri; and the miniature **Cologne Mani Codex** (deciphered 1970 by Henrichs and Koenen), a semi-autobiographical account of Mani's early life. Its dating is disputed: originally placed in the 4th century on linguistic grounds, but two Russian scholars have proposed a 7th/8th-century palaeographic redating — a challenge Lieu notes remains formally unrebutted, an open question rather than a resolved one. See also [[silk-roads]] and [[sasanian-empire]].
+
+See: [[late-antiquity]], [[universal-religions]], [[sasanian-empire]], [[silk-roads]], [[augustine-of-hippo]], [[sources/kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]].

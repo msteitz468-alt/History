@@ -1,23 +1,22 @@
 ---
-title: "Destruction of the German Trade Unions (2 May 1933)"
-date_start: 1933-05-02
-date_end: 1933-05-04
+title: Destruction of the German Trade Unions (2 May 1933)
+date_start: "1933-05-02"
+date_end: "1933-05-04"
 date_precision: exact
 period: [World Wars Era]
-region: [western-europe]
-location: [Germany]
-actors_primary: [[[nazi-germany]], [[sturmabteilung-sa]], German Free Trade Unions (ADGB)]
-actors_secondary: [[[goebbels-joseph]], Theodor Leipart, Wilhelm Leuschner]
+region: ["western-europe"]
+causes: ["[[enabling-act-23-march-1933]]", "[[nazi-seizure-of-power-1933]]", union appeasement strategy after March 1933]
+consequences: [German Labour Front, elimination of organized labor, "[[dissolution-of-german-parties-1933]]", "[[gleichschaltung]]"]
+sources_ingested: ["evans-coming-of-third-reich-2003", "shirer-rise-fall-third-reich-1960"]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe"]
 event_type: political
-scale_immediate: civilizational
+location: [Germany]
+actors_primary: ["[[nazi-germany]]", "[[sturmabteilung-sa]]", German Free Trade Unions (ADGB)]
+actors_secondary: ["[[goebbels-joseph]]", Theodor Leipart, Wilhelm Leuschner]
 scale_consequential: civilizational
-causes: [[[enabling-act-23-march-1933]], [[nazi-seizure-of-power-1933]], union appeasement strategy after March 1933]
-consequences: [German Labour Front, elimination of organized labor, [[dissolution-of-german-parties-1933]], [[gleichschaltung]]]
-sources_ingested: [evans-coming-of-third-reich-2003]
-last_updated: 2026-07-02
-tags: [event, world-wars-era, western-europe]
+scale_immediate: civilizational
 ---
-
 # Destruction of the German Trade Unions (2 May 1933)
 
 The overnight elimination of Europe's most powerful trade union movement, the
@@ -87,6 +86,10 @@ movement had disappeared without trace virtually overnight." Goebbels, 3 May:
 Evans's account stresses the trap structure (May Day gift → 2 May seizure)
 and the failure of institutional appeasement as a survival strategy — a
 pattern repeated by the Centre Party weeks later.
+
+## Shirer (1960) Addition
+
+Shirer (1960) corroborates the trap mechanism with an additional Goebbels diary quote-pointer: "Tomorrow we shall occupy the trade-union buildings. There will be little resistance." He dates the "Day of National Labor" proclamation to 1 May 1933, with Hitler telling the 100,000+ workers assembled at Tempelhof, "Honor work and respect the worker!"; the union seizures followed the next day, funds confiscated and leaders (including Theodor Leipart and Peter Grassmann) arrested despite having pledged cooperation. Collective bargaining was abolished within three weeks — Nazi-appointed "labor trustees" took over regulation of labor contracts, effectively outlawing strikes; Dr. Robert Ley was appointed to head the new German Labor Front. Source: [[shirer-rise-fall-third-reich-1960]].
 
 ## Related
 

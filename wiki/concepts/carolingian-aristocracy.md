@@ -5,8 +5,8 @@ origin: the Frankish imperial nobility of the 8th–9th centuries
 applies_to_periods: [Early Middle Ages]
 applies_to_regions: [western-europe]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -50,10 +50,39 @@ long as royal patronage and conquest aligned noble and royal interests, and frag
 honor-and-benefice nexus is also a principal root of later **[[feudalism|feudal]]** relations (see
 [[vassalage]]).
 
+## Wickham, Framing (2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham, *Framing* (2005)]] stresses continuity of elite
+status rules and market-linked manorialisation rather than royal social engineering.
+
+### Ancestry after c.600; limited Carolingian family renewal
+
+After the fluidity of the Clovis generation, seventh-century hagiography normalises birth *nobilitas*.
+Following Paul Fouracre, Wickham accepts that **non-noble origin became virtually impossible** for major
+secular players after c.600. The Carolingian takeover did **not** massively renew aristocratic families
+beyond the standard elite turnover expected in any aristocracy (plus East Rhine recruitment). The next
+structural shift—the rise of **castellans** to full aristocratic status—waits for the **tenth-century
+collapse of public power in France**, which Wickham ranks as the most momentous high-political parameter
+change in the region since Clovis (regardless of [[feudal-revolution-debate|feudal-revolution]]
+periodisation debates).
+
+### Manorialisation: elites and sale outlets, not Capitulary micro-management
+
+Sudden appearance of demesnes and large-scale labour service across northern Carolingian lands (Seine to
+Danube) in the early ninth century is often tied to kings via the *Capitulare de villis* and *Brevium
+exempla*. Wickham doubts royal **micro-managerial** specialisation: the Le Mans capitulary of c.800 is
+explicitly a response to tenant complaints about variegated services demanded by *seniores* of all kinds
+on ecclesiastical and royal land. Trends were **common to all landowners**; crystallisation of demesnes
+followed from increasing **possibility of selling produce**, plus emulation among landlords including
+royal managers—not Charlemagne’s personal estate micromanagement (see [[carolingian-economy]],
+[[bipartite-manor]], [[aristocratic-demand]]).
+
 ## Historiography
 
 NCMH II reflects the major German and Anglophone scholarship on the *Adel* (Tellenbach, Reuter, Werner): the
 nobility as a transregional, intermarried, office-holding class whose "imperial aristocracy" bound the empire
 together. Debates concern how far noble power was autonomous versus royally derived, and whether the rise of
 aristocratic landlordship necessarily drained royal resources (Nelson argues it need not have, if the economy
-was growing).
+was growing). Wickham 2005 adds the long-run status threshold after c.600 and a market-outlet reading of
+ninth-century demesne crystallisation, while deferring castellan ascent to the post-Carolingian public-power
+collapse.

@@ -9,8 +9,8 @@ affiliated_with: [the kingdom of Pontus; his Black Sea empire; anti-Roman Greeks
 opposed_by: [[[roman-republic]], Sulla, Lucullus, Pompey; Nicomedes of Bithynia, Ariobarzanes of Cappadocia]
 key_events: [[[first-mithridatic-war-89-85bce]], the Asiatic Vespers (88), the Treaty of Dardanus (85), the later Mithridatic Wars]
 key_processes: []
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, anatolia]
 ---
 
@@ -75,7 +75,7 @@ multiples of 10,000. See [[first-mithridatic-war-89-85bce]].
 
 ## Related
 
-- War: [[first-mithridatic-war-89-85bce]] · opponent: Sulla · [[roman-republic]]
+- War: [[first-mithridatic-war-89-85bce]] · opponent: [[sulla]] · [[roman-republic]]
 - Context: [[social-war-91-88bce]] (Rome distracted) · the misrule of
   [[roman-provincial-system|Asia]] and the [[roman-equites|publicani]]
-- Source: [[crook-cah-v9-1992]] (Ch. 5, Hind)
+- Source: [[crook-cah-v9-1992]] (Ch. 5, Hind) · [[duncan-storm-before-the-storm-2017]]

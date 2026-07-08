@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a320c2f214f409ca",
+            "id": "08a68610908ceb2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/4. Modern Times/Cambridge World History/07. J. R. McNeill, Kenneth Pomeranz - The Cambridge World History, Volume 7 (Complete) (Parts 1 & 2).md",
+                "file": "wiki/controversies/fascism-and-the-political-left.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07. J. R. McNeill, Kenneth Pomeranz - The Cambridge World History, Volume 7 (Complete) (Parts 1 & 2)"
+              "title": "fascism-and-the-political-left"
+            }
+          },
+          {
+            "id": "cd98bea761c348fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/processes/denazification-1945-1955.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "denazification-1945-1955"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,43 +198,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "a5d153f42ac3fff9",
+  "active": "cd98bea761c348fa",
   "lastOpenFiles": [
-    "wiki/controversies/amazonian-complexity-debate.md",
-    "wiki/controversies/fall-of-knossos.md",
-    "wiki/events/vietnam-war.md",
-    "wiki/events/antonine-plague-165.md",
-    "wiki/events/american-revolution.md",
-    "wiki/events/aksumite-christianisation-340ce.md",
-    "wiki/events/air-mail-crisis-1934.md",
-    "wiki/events/achaean-war-146bce.md",
-    "wiki/events/abolition-of-han-1871.md",
-    "wiki/events/1919-eclipse-confirmation-eddington.md",
-    "wiki/events/american-civil-war-1861-1865.md",
-    "wiki/events/assassination-of-okubo-1878.md",
-    "wiki/events/augustine-mission-597.md",
-    "wiki/events/assassination-of-malcolm-x-1965.md",
-    "wiki/events/act-of-union-1801.md",
-    "wiki/events/1945-postwar-order.md",
-    "wiki/hubs/biographies/long-19th-century/roosevelt-theodore.md",
-    "wiki/hubs/biographies/long-19th-century/tesla-nikola.md",
-    "wiki/hubs/biographies/long-19th-century/lincoln-abraham.md",
-    "wiki/actors/lincoln-abraham.md",
-    "raw/4. Modern Times/Cambridge History of Strategy Vol2.md",
-    "raw/4. Modern Times/Age of Capital 1848-1875 (Eric Hobsbawm [Hobsbawm, Eric]) (z-library.sk, 1lib.sk, z-lib.sk).md",
-    "wiki/concepts/chivalry.md",
-    "wiki/concepts/christianity-in-japan.md",
-    "wiki/events/atlanta-campaign-1864.md",
-    "wiki/hubs/warfare/long-19th-century/american-civil-war/atlanta-campaign-1864.md",
-    "wiki/hubs/civilizations/islam.md.tmp.186100.36427960b795",
-    "wiki/hubs/civilizations/greece.md.tmp.186100.793e148fb83d",
-    "wiki/hubs/civilizations/greece.md.tmp.186100.74d8e4cc3002",
-    "wiki/hubs/civilizations/rome.md.tmp.186100.e1748ef8070c",
-    "wiki/hubs/civilizations/rome.md.tmp.186100.68aea628a6d9",
-    "wiki/log.md.tmp.186100.62c6d0a8c6c4",
-    "wiki/hubs/civilizations/rome.md.tmp.186100.9731c3a21b44",
-    "wiki/hubs/historiography-hub.md.tmp.186100.42764c95e499",
-    "wiki/hubs/civilizations/rome.md.tmp.186100.700aeee26ba6",
-    "wiki/hubs/themes/warfare.md.tmp.186100.cecba7ff73ef"
+    "wiki/events/nuremberg-trials-1945-1949.md",
+    "wiki/processes/denazification-1945-1955.md",
+    "wiki/processes/detente.md",
+    "wiki/processes/druid-revival.md",
+    "wiki/processes/economic-shock-therapy.md",
+    "wiki/sources/parker-reid-oxford-modern-african-history-2013.md",
+    "wiki/actors/franco-francisco.md",
+    "wiki/concepts/payne-typology-of-authoritarian-nationalism.md",
+    "wiki/concepts/palingenetic-ultranationalism.md",
+    "wiki/controversies/fascism-and-the-political-left.md",
+    "wiki/actors/nazi-germany.md",
+    "wiki/concepts/communism-and-fascism.md",
+    "wiki/controversies/holocaust-uniqueness.md",
+    "wiki/sources/evans-third-reich-history-memory-2015.md",
+    "wiki/controversies/colonialism-nazism-continuity.md",
+    "wiki/controversies/german-sonderweg.md",
+    "wiki/actors/beck-ludwig.md",
+    "wiki/actors/stauffenberg-claus-von.md",
+    "wiki/events/july-plot-1944.md",
+    "wiki/actors/german-resistance-to-nazism.md",
+    "wiki/actors/einsatzgruppen.md",
+    "wiki/controversies/ordinary-germans-and-the-holocaust.md",
+    "wiki/events/death-marches-1944.md",
+    "wiki/places/auschwitz.md",
+    "wiki/events/the-holocaust.md",
+    "wiki/events/operation-reinhard-1942.md",
+    "raw/4. Modern Times/KL A History of the Nazi Concentration Camps (Nikolaus Wachsmann) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+    "wiki/index.md.tmp.156014.6f70acdb667b",
+    "wiki/sources/wachsmann-kl-concentration-camps-2015.md.tmp.156014.32957528afed",
+    "wiki/sources/wachsmann-kl-concentration-camps-2015.md.tmp.156014.731a2ecd8528",
+    "wiki/events/death-marches-1944.md.tmp.156014.ce880a8cd7e7",
+    "wiki/actors/schutzstaffel-ss.md.tmp.156014.5c3973dc6a86",
+    "wiki/actors/himmler-heinrich.md.tmp.156014.ecef6831a7ce",
+    "wiki/processes/forced-labor-nazi-germany.md.tmp.156014.4d7b0dd3a3fd",
+    "wiki/places/auschwitz.md.tmp.156014.ab7912e76329",
+    "wiki/events/the-holocaust.md.tmp.156014.82567c3ede06"
   ]
 }

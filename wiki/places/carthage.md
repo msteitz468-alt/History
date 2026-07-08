@@ -7,8 +7,8 @@ period_active: [Early Iron Age, Archaic Period, Classical Antiquity, Late Antiqu
 controlled_by: [Phoenician/Punic city-state, [[roman-republic|Rome]], [[roman-empire|the Roman Empire]], the Vandal Kingdom, [[byzantine-empire|Byzantium]], the early Caliphate]
 events_here: [foundation c. 814 BCE, the Punic Wars, Roman destruction 146 BCE, Roman refoundation, Vandal capture 439, Byzantine reconquest 533, Arab conquest 698]
 processes_here: [[[urbanization]]]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [place, north-africa, mediterranean, classical-antiquity, late-antiquity]
 ---
 
@@ -53,6 +53,12 @@ princes — is the central event of [[third-punic-war-149-146bce|the Third Punic
 hinge of [[punic-faith|the Roman construction of "Carthage"]]. The Punic struggle for the
 western Mediterranean ran through [[carthage-syracuse-rivalry|Sicily]] and the
 [[first-punic-war-264-241bce|three Punic Wars]].
+
+Mary Beard ([[sources/beard-spqr-2015]]) records the tradition — via Polybius as
+eyewitness — that Scipio Aemilianus wept as Carthage burned in 146 BCE while
+quoting from memory a line on the fall of Troy, reportedly reflecting that Rome
+itself might one day meet the same fate. Beard treats the anecdote as telling
+regardless of its sincerity: "crocodile tears or not, they made their point."
 
 ## Roman and Late-Antique Carthage
 

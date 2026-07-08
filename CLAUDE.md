@@ -192,6 +192,13 @@ unclear; never leave blank. Required body: **Narrative** · **Causal Analysis** 
 explicit link types) · **Consequence Analysis** · **Actors** (linked) · **Historiography**
 (if contested: positions, scholars, resolution status).
 
+**Event-page pre-flight (two recurring traps).** (1) Every major event page needs a
+`## Historiography` section — easy to omit when authoring several event pages at once;
+the schema validator flags it. (2) In `causes:`/`consequences:`, use `[[slug]]` only for
+real page links; write descriptive phrases as **free text, not brackets** — wrapping a
+phrase like `[[the sack of the Western Zhou capital in 771 BCE]]` makes the wikilink
+checker count a phantom broken link to a non-existent slug.
+
 ### Process Page (`wiki/processes/`)
 A long-duration dynamic not bounded as a discrete event (feudalization, spread of Islam,
 Atlantic slave trade, industrialization).
@@ -411,6 +418,23 @@ present approximate dates as exact.
 - **Archaeological Reports** — treat as primary evidence for prehistoric/ancient periods.
   When archaeology conflicts with textual sources, create a controversy page — often more
   significant than purely textual disputes.
+- **Polemics and advocacy works (partisan popular non-fiction, not scholarship)** —
+  ingest in **artifact mode** to keep the wiki's factual layer uncontaminated:
+  (a) the source page carries heavy `reliability_notes` flagging its partisan character;
+  (b) **all wiki writing stays on the main thread** — subagents extract to the scratchpad
+  only, never to live pages; (c) split every extract into **FACTS** (with named-source
+  attribution chains), **THESES**, and **QUOTES**: well-documented facts (memoirs, reports,
+  records) may flow onto event/actor/process pages as *attributed* material, while the
+  book's interpretive theses are quarantined as **positions on a `controversies/` page**,
+  never asserted in wiki voice; (d) keep the footprint deliberately small (source +
+  controversy + any genuinely new concept + cross-links). Instruct extractors to flag the
+  author's uncorroborated first-person claims. Works across the trust range — from
+  fact-poor polemic (D'Souza, *The Big Lie*) to heavily-sourced revisionism (Flynn, *The
+  Roosevelt Myth*). **The curator adjudicates contested sources, not the wiki:** controversy
+  pages use neutral position labels, state each position in its strongest form, record a
+  "shared factual ground, framed per side" section rather than a wiki-voice verdict, and
+  carry a dated curator's note for the curator's own view — do not let adjudication leak
+  into position labels, `resolution_status`, or `reliability_notes`.
 
 ---
 
@@ -426,7 +450,14 @@ Non-negotiable principle: **the main thread owns structure; subagents own bulk
 extraction.** Subagents never decide taxonomy, naming, or cross-links — they fill claims
 within boundaries the main thread already drew.
 
-**Step 1 — Scaffold first, on the main thread.** Read enough (TOC, intro, conclusion,
+**Step 1 — Scaffold first, on the main thread.** Before anything else, run a
+**word-count intake check**: `wc -w` the raw text and compare against expected length
+(~250–350 words/page × page count). Converted ebooks fail silently — an epub→txt run can
+capture only Part One and drop the rest while the TOC still lists every chapter, so a
+TOC-only read won't catch it (observed: Hartz, *Founding of New Societies*, only ~16k of
+~90k expected words). If the ratio is badly off, grep for each TOC chapter heading in the
+body to find where the text actually ends, and note the incompleteness on the source page
+and in `reliability_notes`. Then read enough (TOC, intro, conclusion,
 targeted sampling) to: write the **source page** (with Section Plan for large volumes);
 create the **key person/concept/place pages** everything links to; decide whether a
 **detailed biography page** (`hubs/biographies/`) is warranted for biographical sources
@@ -434,6 +465,14 @@ and pre-establish its name; decide the **topic taxonomy** and **naming conventio
 every page the ingest will create. Do not spawn any agent until naming conventions and
 the set of linkable page names exist on disk — subagents inherit names, never invent
 structural ones.
+
+Before spawning, run a **duplicate-page pre-scan** over the actors/entities the ingest
+will touch: grep both name orders (`de-gaulle-charles` / `charles-de-gaulle`), check
+synonymous event titles (`second-world-war-1939` / `world-war-ii-1939-1945`), and watch
+for the same entity split across folders (`processes/` vs `actors/`). State the canonical
+name in every agent prompt and queue any duplicates found for a main-thread merge in
+Step 4. Pre-resolving naming ambiguity once is far cheaper than letting N agents each
+rediscover and work around the same duplicate.
 
 **Step 2 — Split the book by disjoint line-ranges.** Divide raw text into N contiguous,
 non-overlapping chunks by line number.
@@ -451,11 +490,14 @@ non-overlapping chunks by line number.
 - **Atrocity-dense triage (mandatory, added 2026-07-01).** While drawing chunk
   boundaries, flag any range dense in atrocity/persecution documentation —
   Holocaust and genocide chapters, mass killings and reprisals, slavery, torture,
-  sexual violence. These chapters are **first-class wiki content and are never
-  toned down, summarized around, or omitted** — the risk is mechanical: automated
-  output filters can block a subagent's *entire* extraction when it reproduces
-  such material verbatim at high concentration (observed: Paxton *Vichy France*
-  Part II, 2026-07-01). Handle flagged ranges as follows:
+  sexual violence — **and any range dense in atrocity *discourse*** (Holocaust-denial
+  claims quoted to refute them, antisemitic/fascist doctrine reproduced for analysis,
+  racial-doctrine exposition). Filters trigger on the *presence* of the material,
+  not on whether the author endorses or refutes it. These chapters are **first-class
+  wiki content and are never toned down, summarized around, or omitted** — the risk is
+  mechanical: automated output filters can block a subagent's *entire* extraction when
+  it reproduces such material verbatim at high concentration (observed: Paxton *Vichy
+  France* Part II, 2026-07-01). Handle flagged ranges as follows:
   1. **Route the flagged range to the main thread by default** — the main thread
      reads the cache slice directly and writes the extraction itself, at full
      fidelity, quotes included. Give subagents the surrounding lighter ranges.
@@ -469,6 +511,16 @@ non-overlapping chunks by line number.
      still extracted in full.
   The end state is identical in every case: the wiki page carries the complete
   record, with verbatim quotes where they are load-bearing.
+  - **Fascism/extremist-ideology sources are filter-prone regardless of atrocity
+    density (observed repeatedly: Griffin, Payne, Evans *In Defence of History*,
+    2026-07-02).** Content-filter blocks on these sources are effectively stochastic —
+    the *least* graphic range (definitional typology, doctrine exposition, denial-
+    refutation) is as likely to be blocked as the most graphic. Do not rely on triage
+    to predict which range blocks: instead **size every range so a single-range
+    main-thread recovery stays comfortable**, and treat the Step-3 recovery path (main
+    thread reads the cache slice and extracts at full fidelity) as the real safeguard.
+    The triage above still applies — it protects the highest-stakes material — but a
+    block is a routing signal, never a content problem.
 
 **Step 3 — Spawn one Sonnet subagent per chunk (parallel + background).** Use
 the Agent tool with **`model: sonnet`** and `run_in_background: true`, one agent per
@@ -479,15 +531,66 @@ namespace/prefix or topic set so no two agents write the same file); the instruc
 extract claims **with grounding quotes from its range only** — no outside knowledge, no
 reading beyond its range.
 
-Prepare small per-range cache files first (`/tmp/..._cache/range_N_START_END.txt`) so each agent does cheap one-shot reads of only its slice. Subagents may be launched in parallel (or larger batches) using background execution. Collect all task_ids; monitor to completion. If a subagent fails **for any reason** — rate limit, output blocked by content filtering, crash — the main thread recovers *that range alone* (read its cache slice, extract claims at full fidelity, label the block "Main-thread recovery (<failure mode>)") and lets the others continue. Do not respawn the failed agent: recovery on the main thread is both faster and lossless. A content-filter block is a routing signal (see the atrocity-dense triage rule in Step 2), never a reason to omit or soften the material itself.
+Every extraction prompt must also carry these standing instructions (each earned from a
+recurring subagent failure mode):
+- **Flag, don't force, entity mismatches.** If material near-matches a target page name
+  but the entity differs (different date, person, place — e.g. Fontenoy-en-Puisaye 841 vs
+  Fontenoy 1745), file it under Miscellaneous with an explicit mismatch flag rather than
+  under the target.
+- **Flag internal duplication.** If you find passages duplicated verbatim within your
+  slice (an ebook-conversion artifact), flag them and extract once — do not double-count.
+- **Report actual coverage.** In your completion summary, state the exact line range you
+  actually covered; if a read cap or block stopped you short of your assigned range, say
+  so explicitly so the main thread can spawn a scoped gap-fill agent.
+- **Treat chunk-brief content descriptions as expectations, not facts.** Any content
+  summary in your brief was inferred from the TOC; verify against the text and extract
+  what is actually there, flagging any mismatch. (When drafting briefs, phrase them as
+  "likely covers X — verify," never as assertions; a ~10-line spot-read per chapter at
+  boundary-drawing time grounds them cheaply.)
+
+Prepare small per-range cache files first (`/tmp/..._cache/range_N_START_END.txt`) so each agent does cheap one-shot reads of only its slice. **Cut the cache slices to the scratchpad immediately after locating the source — before scaffolding, not just before spawning.** `raw/` is user-curated and mutable mid-session (the user actively deletes/replaces files, e.g. dropping per-volume `.txt`s in favour of a combined PDF); slicing to session-local storage first makes the ingest immune. Re-verify any source path right before a read that follows a gap in time, and if a file disappears, check for deliberate curation before treating it as an error. Subagents may be launched in parallel (or larger batches) using background execution. Collect all task_ids; monitor to completion. If a subagent fails **for any reason** — rate limit, output blocked by content filtering, crash — the main thread recovers *that range alone* (read its cache slice, extract claims at full fidelity, label the block "Main-thread recovery (<failure mode>)") and lets the others continue. Do not respawn the failed agent: recovery on the main thread is both faster and lossless. A content-filter block is a routing signal (see the atrocity-dense triage rule in Step 2), never a reason to omit or soften the material itself.
 
 **Step 4 — Review and tie together (main thread).** Dedupe overlapping claims; fix
 cross-links between new pages (subagents only linked Step-1 names); fill the source page's
 claim list; remove agent artifacts (stray instructions, prompt echoes, `</content>`-style
-tags — grep first); reconcile naming.
+tags — grep first); reconcile naming. **Before editing any existing page, open it with
+the Read *tool* (not Bash `cat`) on the lines you'll change** — the harness's Edit safety
+gate only tracks Read-tool calls, so a page you only `cat`-ed will reject every Edit until
+you Read it. `cat` is fine for fast multi-file scanning, but it does not satisfy the Edit
+precondition. **When a concurrent ingest session may touch the same pages** (e.g. two
+fascism-batch sources running at once), integrate with **Edit-append, never a full Write**:
+a full Write silently clobbers the other session's additions (observed: a `theories-of-
+fascism` section lost this way, 2026-07-02). Reserve full Writes for pages this session
+created and owns.
+
+**Two-stage variant for well-trodden sources (added 2026-07-03).** When the wiki already
+has dense coverage of a source's subject (e.g. Shirer *Rise and Fall* into a wiki already
+holding Evans/Kershaw/Taylor), most claims are UPDATEs to existing pages, and many
+extraction ranges target the *same* pages (one actor can appear in half the ranges).
+Applying range-partitioned agents' updates directly would collide on those shared files.
+Split the work into two parallel waves instead:
+- **Stage 1 — extraction, partitioned by disjoint line-range.** Agents own exclusive
+  line-ranges and write **claims files only** (no edits to live wiki pages).
+- **Stage 2 — integration, partitioned by exclusive wiki-page ownership.** Each agent
+  owns a disjoint set of page slugs, greps *all* Stage-1 claims files for its owned slugs,
+  and is restricted to the **Edit tool (no full rewrites)** to fold claims in.
+The main thread keeps the filter-prone/atrocity pages and all new-page creation it
+scaffolded. Partitioning Stage 2 by page (not by source range) is what makes concurrent
+integration collision-free.
 
 **Step 5 — Lint and validate.** Run and fix until clean: the **schema validator**, the
 **wikilink checker** (must report **0 broken links**), the **alias-sync script**.
+- **Repair wikilinks with the Edit tool, not `sed`.** Piped wikilinks (`[[slug|Display]]`)
+  and quoted YAML frontmatter break under bulk regex: `|` doubles as both the sed delimiter
+  and the wikilink display separator, and blind substitutions corrupt frontmatter entries.
+  Use Edit with exact old/new strings; if you must use sed, use a `#` delimiter with a
+  verbatim-checked replacement, then re-grep the exact edited lines before re-running the
+  checker.
+- **Proving "0 new broken links" needs a stash-comparison, not grep.** The checker prints
+  a per-source detail list capped at the first 50 files (sorted, ~ends at "h"), so new
+  pages sorting later never appear even though the global total counts them. To prove
+  0-new: stash/move-aside the change set, run the checker for a baseline total, restore,
+  run again, and compare the two totals.
 
 **Step 6 — Bookkeeping and file.**
 1. **Update `Top_100_Structural_Sources.md`**: if the source is a line item, mark it
@@ -496,6 +599,11 @@ tags — grep first); reconcile naming.
    `4. Modern Times`, or underscore-prefixed grouping folders like `_africa-cha` for
    multi-volume sets). Move both the text file (`.md`/`.txt`) and its original
    (`.pdf`/`.epub`) out of `raw/` root so the root holds only the un-ingested queue.
+   **File by the exact path the cache slices were cut from** — the collection can hold
+   near-duplicate twins (e.g. an abridged copy and the full edition), and filing a
+   plausible-looking twin leaves the real ingested source in the queue, making the root
+   look un-ingested. Echo the source path from the session or `wc -l`-match against the
+   cache total before moving.
 3. Append the `log.md` entry and update `index.md`. **Do not run `git commit` or `git push`
    — the user handles all git operations.** Leave the work staged-or-unstaged as-is.
 
@@ -641,6 +749,10 @@ On a health-check request, report:
 - Processes referenced inline without a process page
 - Controversies described inline not yet promoted to `controversies/`
 - `caused_by` links that appear to conflate sequence with causation
+- **Duplicate canonical pages** — the wikilink checker cannot catch these (both targets
+  resolve). Heuristic scan: near-synonymous titles, both name orders for a person
+  (`de-gaulle-charles` / `charles-de-gaulle`), or the same `date_start`+`date_end`+
+  `event_type` on two event pages (`second-world-war-1939` / `world-war-ii-1939-1945`)
 - Period pages where `collection_coverage` is `weak` or `absent`
 - Detailed bios (`hubs/biographies/`) missing the reciprocal link from their `actors/`
   summary (or vice versa)

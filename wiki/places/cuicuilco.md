@@ -7,8 +7,8 @@ period_active: [Archaic Period, Classical Antiquity]
 controlled_by: [Cuicuilco polity]
 events_here: [eruption of Xitle (~200–400 CE), Cuicuilco decline (Patlachique phase)]
 processes_here: [[[mesoamerican-state-formation]], [[urbanism]], [[teotihuacan-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, mesoamerica, archaic-period, classical-antiquity, americas]
 ---
 
@@ -122,12 +122,46 @@ fall. The collection is weakest precisely where Cuicuilco is most important: kno
 the city's internal layout and social organization is "desperately little" even by
 Cowgill's own assessment.
 
+## Grove CHNPA Preclassic framing (Ch. 3)
+
+David C. Grove ([[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]]) places Cuicuilco
+on the southern Basin lakeshore best agricultural zone as the central highlands’ **first urban
+center**. Early history is clouded by lava from eruptions beginning ~100 BCE. Possible Early
+Preclassic occupation under lava; 1957 platforms attributed to Middle Preclassic—“already very
+large,” unique in the Basin if correct. By **300 BCE** Grove’s account makes Cuicuilco the largest
+Basin settlement: **27 m high** circular stone-faced truncated-cone pyramid (~**80 m diameter**)
+plus ≥11 rectangular pyramids within ~1 km; may have covered ~**400 ha** with ~**20,000** people.
+Large irrigation canals under lava support intensive agriculture for what may have been
+“Mesoamerica’s first city-state.”
+
+Concurrently, the Teotihuacan Valley—marginal in Early/Middle Preclassic—grew in the early Late
+Preclassic; by 300 BCE community and public architecture covered 600–800 ha with 20,000–40,000
+inhabitants, rivalling Cuicuilco. Grove dates a ~**100 BCE** eruption that devastated Cuicuilco’s
+agricultural land and displaced population, with a second eruption centuries later finishing the
+city, after which highland urbanization centered on the Teotihuacan Valley. (Cowgill 2015 / Siebe
+refine Xitle to ~200–400 CE and stress Cuicuilco’s abandonment before full Teotihuacan dominance—
+preserve both chronological frameworks as source-attributed positions.)
+
+## Cowgill CHNPA Ch. 6 phase notes
+
+In Ticoman (~500–150 BCE; Cuanalan in the Teotihuacan Valley), southern Basin towns had
+respectable ceremonial centers; Cuicuilco may have had **5,000–10,000** people while the northern
+Basin including the Teotihuacan Valley was relatively marginal. In Patlachique–Tzacualli
+(~150 BCE–A.D. 150), Cuicuilco reached maximum early with pyramids up to 80 m diameter and
+~**20,000** people (Sanders et al.), then was seriously damaged by lava mid-period, possibly
+surviving as a small regional center to ~A.D. 200. Cowgill frames probable multi-polity warfare
+and tribute extraction, with Cuicuilco and Teotihuacan as sole Basin rivals until Cuicuilco was
+crippled by lava—speculative in his own wording.
+
 ## Related
 
 - `[[teotihuacan]]` (place and state) — successor hegemon; preceded_by: Cuicuilco
 - `[[basin-of-mexico]]` — regional context; part_of
+- `[[chalcatzingo]]` — earlier Middle Preclassic monumental center south of the Basin
 - `[[mesoamerican-state-formation]]` — process; part_of
+- `[[mesoamerican-preclassic]]` — process
 - `[[teotihuacan-formation]]` — process; enabled by Cuicuilco's decline
 - `[[teotihuacan-ceramic-phases]]` — Cuanalán and Tezoyuca phases precede Patlachique
 - `[[zapotec]]` — concurrent peer polity (Monte Albán)
-- Source: `[[cowgill-ancient-teotihuacan-2015]]`
+- Sources: `[[cowgill-ancient-teotihuacan-2015]]` ·
+  `[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 3 (Grove), Ch. 6 (Cowgill)]]`

@@ -35,6 +35,13 @@ Stanton brought administrative drive and fierce Unionism. His relationship with 
 
 Stanton exemplifies the conversion of a former critic into a devoted subordinate through Lincoln’s leadership. Goodwin’s family letters and sister’s memoir supply the human side of the “hard” war secretary.
 
+
+### From Ellsworth, *Midnight on the Potomac* (2025)
+
+Press ban on Overland journalists; War Department machine for 1864 soldiers' vote (Dana); received Parker House register tip on Booth (no follow-up); 14 Apr urged arrest of Jacob Thompson—Lincoln declined; managed assassination crisis and funeral arrangements, including overruling Mary's wish for private rites and forcing Black marchers into the NYC funeral procession.
+
+Source: [[sources/ellsworth-midnight-on-the-potomac-2025]].
+
 ## Related
 
 - Lincoln: [[actors/lincoln-abraham]] and [[hubs/biographies/long-19th-century/lincoln-abraham]]

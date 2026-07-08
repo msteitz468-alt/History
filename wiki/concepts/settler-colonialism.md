@@ -5,8 +5,8 @@ origin: "Analytical framework developed in late-twentieth-century historiography
 applies_to_periods: [Early Modern, Age of Expansion, Long 19th Century]
 applies_to_regions: [australia, oceania, north-america, southern-africa, atlantic-world]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-07-02
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -23,6 +23,20 @@ volume's "geographic sensibility": land as the central theme of Australian histo
 Australia is a paradigmatic settler colony — convict and free migration, pastoral
 [[australian-pastoral-expansion|expansion]] onto Aboriginal land, [[terra-nullius]] as the
 legal premise, and [[australian-frontier-conflict|frontier violence]] as the mechanism.
+
+## North American southern plains (Gwynne 2010)
+
+S. C. Gwynne’s *Empire of the Summer Moon* is popular narrative, not theory, but supplies a dense case of **settler advance into an indigenous imperial range** ([[places/comancheria|Comanchería]]):
+
+- **Farmer vanguard vs. imperial buffer:** Anglo-Texas expansion as Calvinist farming families (e.g. Parkers) who disregarded treaties and framed Indians as less than fully human — contrasted with Spanish presidio/mission sequencing.
+- **Irony of Mexican policy:** Mexico encouraged U.S. settlement in Texas partly as a **buffer against Comanches**, helping produce the Texas Revolution — Comanches allegedly calling Mexicans their “stock-keepers.”
+- **Republic of Texas land doctrine:** Mirabeau Lamar’s line (per Gwynne) denied that Indians in Texas had rights to *any* territory — sharper than contemporary U.S. treaty practice that still reserved residual Indian land.
+- **Manifest Destiny as non-bargain:** [[events/medicine-lodge-treaty-1867|Medicine Lodge (1867)]] as “thinly disguised ultimatum” once both sides coveted the same buffalo plains; eastern peace ideology could critique white abuse without renouncing continental possession.
+- **Ecological elimination:** commercial hide hunt (Gwynne cites ~31 million buffalo killed 1868–1881; Sheridan’s praise of hunters as destroying the “Indians’ commissary”) as market instrument of the same land logic that military winter campaigns completed in the [[events/red-river-war-1874|Red River War]].
+
+These points illustrate Wolfe’s land-centered elimination **and** its limits: Comanche agency, raid economies, and temporary rollback of the settlement line (e.g. Wise County depopulation 1860–70 per Gwynne) show a long contested frontier, not instant replacement. Attribute interpretive phrasings to Gwynne; pair with Hämäläinen-style empire analysis when available.
+
+Source: [[sources/gwynne-empire-of-the-summer-moon-2010]].
 
 ## Limitations and Critiques
 
@@ -42,3 +56,4 @@ contemporaries, who used languages of improvement, civilisation, and emigration.
 - [[convict-transportation-australia]]
 - [[british-empire]]
 - [[bashford-macintyre-cha-v1-2013]]
+- Southern plains case: [[processes/comanche-empire]], [[processes/southern-plains-indian-wars]], [[actors/comanches]], [[sources/gwynne-empire-of-the-summer-moon-2010]]

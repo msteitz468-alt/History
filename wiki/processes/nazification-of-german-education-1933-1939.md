@@ -4,15 +4,14 @@ date_start: 1933
 date_end: 1939
 date_precision: year
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
 process_type: cultural
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [process, "world-wars-era", "western-europe"]
 driven_by: ["[[nazi-germany]]", "[[adolf-hitler]]", "[[hitler-youth]]"]
 produces: ["[[unknown]]"]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [process, world-wars-era, western-europe]
 ---
-
 # Nazification of German Education (1933–1939)
 
 The remaking of German schools, teachers, youth organizations, and
@@ -94,6 +93,11 @@ Ongoing at the outbreak of war; the war economy then cannibalized the system
 it had built (shortened courses, teacher shortage of ~3,000 unfilled posts by
 1938 against 2,500 annual graduates vs. 8,000 needed).
 
+## Shirer (1960) Addition
+
+Shirer (1960) corroborates the Hitler Youth membership trajectory with slightly different figures — 7,728,259 by end of 1938, compulsory membership from the March 1939 law with threatened loss of custody for noncompliant parents — and adds the elite-pipeline detail that the Order Castles' (Ordensburgen) final year of training, at Marienburg in East Prussia (the former Teutonic Knights stronghold), focused explicitly on Lebensraum expansion into Slavic lands — an explicit ideological rehearsal for eastern conquest that sharpens the page's existing account of the Order Castles as symbolic/elite training. See [[hitler-youth]] for fuller Shirer material on the organization's age-graded structure and oath. Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 - [[evans-third-reich-in-power-2005]]
+- [[shirer-rise-fall-third-reich-1960]]

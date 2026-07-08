@@ -3,13 +3,13 @@ title: Roman Gaul
 place_type: empire-territory
 modern_equivalent: [France, Belgium, Luxembourg, western Switzerland, the German Rhineland]
 coordinates: [47 N, 3 E]
-period_active: [Classical Antiquity, Late Antiquity]
-controlled_by: [Rome (after Caesar's conquest), under Augustus and the Julio-Claudians]
+period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
+controlled_by: [Rome (after Caesar's conquest), under Augustus and the Julio-Claudians, Merovingian and Carolingian successor polities]
 events_here: [the organization of the Three Gauls (27–12 BCE), the altar of Condate (12 BCE), Claudius' admission of Gallic notables to the Senate (48 CE)]
-processes_here: [the integration and urbanization of Gaul, the rise of the Narbonensian elites]
-sources_ingested: 3
-last_updated: 2026-06-27
-tags: [place, western-europe, classical-antiquity, late-antiquity, rome]
+processes_here: [the integration and urbanization of Gaul, the rise of the Narbonensian elites, post-roman-transformation-of-the-west]
+sources_ingested: 4
+last_updated: 2026-07-08
+tags: [place, western-europe, classical-antiquity, late-antiquity, early-middle-ages, rome]
 ---
 
 # Roman Gaul
@@ -154,3 +154,9 @@ iron grew so scarce it was "used primarily to make wooden ones," mechanical harv
 shifted from wheat to hardier **barley** (and beer), while **viticulture expanded** under ecclesiastical and
 elite demand. See [[late-antiquity]], [[barbarization-of-the-roman-army]]. Source:
 [[geary-before-france-germany-1988]].
+
+## Wickham, *Framing the Early Middle Ages* (2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham]] stresses an ecological–political division inside Gaul that recurs throughout his comparative analysis. Although Gaul is logistically easier to unify than Spain of similar size (low-lying terrain; Rhine-to-Pyrenees control never hard), it is **ecologically split**: Mediterranean olive/vine zones stop well short of the north (olives before Lyon; vines hardly north of Paris, Reims, and the sheltered Moselle/middle Rhine). Northern Gaul resembles England, northern Germany, and [[denmark|Denmark]]; the Rhône valley resembles Catalonia, [[italy|Italy]], and Andalucía. After 500, rulers of the region **always lived in the north**. This north–Mediterranean split frames Merovingian/Carolingian heartland politics and the geography of the classic manor (northern) versus southern free, fragmented tenures. See [[francia]] for the full post-Roman political and economic synthesis.
+
+*Link types:* part_of: [[francia]]; contrasts_with: [[hispania]]; analogous_to: [[denmark]], [[roman-britain]].

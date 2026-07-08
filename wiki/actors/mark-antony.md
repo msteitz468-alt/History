@@ -9,8 +9,8 @@ affiliated_with: [the Caesarian cause; the Second Triumvirate; Cleopatra VII and
 opposed_by: [Cicero (the Philippics); the Liberators (Brutus, Cassius); ultimately Octavian]
 key_events: [the [[julius-caesar-assassination-44bce|aftermath of the Ides]], the [[second-triumvirate|triumvirate]] and proscriptions, [[battle-of-philippi-42bce|Philippi]] (42), the Parthian War (36), [[battle-of-actium-31bce|Actium]] (31), [[death-of-antony-and-cleopatra-30bce|Alexandria]] (30)]
 key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, mediterranean, rome]
 ---
 
@@ -66,6 +66,18 @@ The hostile tradition is overwhelming — **Octavian's victory propaganda** (the
 *Autobiography*, the Augustan poets) made Antony the type of the Roman unmanned by the
 East. Plutarch's *Antony* (with Shakespeare) romanticizes; Pelling reconstructs a far
 abler and more rational figure beneath the legend.
+
+## Beard (SPQR, 2015)
+
+Mary Beard notes that the surviving image of the young Octavian as brutal and
+cruel (e.g., the anecdote of a fancy-dress banquet where he appeared as Apollo)
+likely originates in Antony's own wartime propaganda, per Suetonius — meaning
+the "sadistic young thug" caricature of Octavian and his eventual "model
+emperor" image are both partisan constructions rather than neutral fact. Her
+broader point: had Antony won at [[battle-of-actium-31bce|Actium]], the
+historical verdict on the two men could easily have been reversed — "it is not
+difficult to see what the image of Octavian would have been if Antony had won at
+Actium: a sadistic young thug." See [[sources/beard-spqr-2015]].
 
 ## Related
 

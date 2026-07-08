@@ -1,19 +1,18 @@
 ---
-title: "Franz von Papen"
+title: Franz von Papen
 actor_type: person
 date_start: 1879
 date_end: 1969
 period: [World Wars Era]
-region: [western-europe]
-affiliated_with: [Centre Party (renegade), [[hindenburg-paul-von]], conservative camarilla]
-opposed_by: [[[weimar-republic]] parliamentary parties, later marginalized by [[adolf-hitler]]]
-key_events: [[[reichstag-election-july-1932]], [[appointment-of-hitler-30-january-1933]], [[night-of-the-long-knives-1934]]]
-key_processes: [[[weimar-democracy-and-its-collapse]]]
-sources_ingested: [evans-coming-of-third-reich-2003]
-last_updated: 2026-07-02
-tags: [actor, person, world-wars-era, western-europe]
+region: ["western-europe"]
+sources_ingested: ["evans-coming-of-third-reich-2003", "shirer-rise-fall-third-reich-1960"]
+last_updated: "2026-07-03"
+tags: [actor, person, "world-wars-era", "western-europe"]
+affiliated_with: [Centre Party (renegade), "[[hindenburg-paul-von]]", conservative camarilla]
+key_events: ["[[reichstag-election-july-1932]]", "[[appointment-of-hitler-30-january-1933]]", "[[night-of-the-long-knives-1934]]"]
+key_processes: ["[[weimar-democracy-and-its-collapse]]"]
+opposed_by: ["[[weimar-republic]] parliamentary parties", "later marginalized by [[adolf-hitler]]"]
 ---
-
 # Franz von Papen
 
 Aristocratic renegade Centre politician, Reich Chancellor (June–November 1932)
@@ -80,6 +79,17 @@ Papen government (his phrase) as the hinge between authoritarian and
 totalitarian outcomes. His marginalization and near-murder in the
 [[night-of-the-long-knives-1934|Röhm purge]] are treated in
 [[evans-third-reich-in-power-2005]].
+
+## Shirer (1960) Additions
+
+- French ambassador André François-Poncet's assessment on Papen's 1 June 1932 appointment as Chancellor: "The President's choice met with incredulity. No one but smiled or tittered or laughed... He was reputed to be superficial, blundering, untrue, ambitious, vain, crafty and an intriguer."
+- Papen's "barons' cabinet" (named 1 June 1932): five of the ministers were nobility, two corporation directors; included Neurath, Eltz-Rübenach, Schwerin von Krosigk, and Gürtner (Justice — Hitler's old protector from the Bavarian government during the Beer Hall Putsch era), all of whom survived into the Third Reich. Papen was not even a Reichstag member; his own Centre Party expelled him on appointment for disloyalty to Brüning.
+- Political violence following the SA ban's lifting (15 June 1932): in Prussia alone, 1–20 June, 461 street battles and 82 dead, ~400 seriously wounded; in July, 86 killed in riots (38 Nazis, 30 Communists); 10 July Berlin — 18 dead; 17 July "Altona Bloody Sunday" — 19 dead, 285 wounded (figures broadly consistent with Evans's account above, with somewhat more granular breakdown).
+- 12 September 1932 Reichstag farce: Göring, as Reichstag President, ignored Papen's brandished dissolution decree, allowed a vote on a Communist censure motion, and the government was voted down 513–32 before Göring belatedly "noticed" and read the dissolution order — ruling it invalid since Papen had already lost a constitutional confidence vote (Shirer's vote count, 513–32, differs slightly from the 512–42 given above from Evans; both describe the same episode).
+- 4 January 1933 secret Cologne meeting at banker Kurt von Schröder's home — Papen and Hitler (Hitler accompanied by Hess, Himmler, Keppler) agreed in principle on a Hitler-led government including "elimination of Social Democrats, Communists and Jews from leading positions." Schröder's Nuremberg testimony is judged by Shirer more reliable than Papen's self-serving memoir version, which claimed he merely urged Hitler to join Schleicher's government. A hired photographer (later revealed as a Schleicher spy) caught Papen entering, breaking the meeting's secrecy and exposing it in headlines the next day.
+- 22 January 1933 secret meeting at Ribbentrop's suburban home (Papen, Hitler, Göring, Frick, plus Meissner and Oskar von Hindenburg) — Hitler took Oskar von Hindenburg aside alone for an hour; Oskar returned "extremely silent," saying "it could not be helped — the Nazis had to be taken into government" (see [[hindenburg-paul-von]] for the Neudeck-estate speculation Shirer attaches to this episode).
+
+Source: [[shirer-rise-fall-third-reich-1960]].
 
 ## Related
 

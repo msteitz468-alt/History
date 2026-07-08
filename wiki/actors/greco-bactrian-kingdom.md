@@ -9,8 +9,8 @@ affiliated_with: [the Graeco-Macedonian settlers of Bactria]
 opposed_by: [[[seleucid-empire]], the Saka/Yuezhi nomads]
 key_events: [secession from the Seleucids c. 250 BCE]
 key_processes: [[[hellenistic-world]], [[seleucid-colonization]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, state, classical-antiquity, central-asia]
 ---
 
@@ -70,3 +70,7 @@ Indo-Greeks were **absorbed** into the Indian world (Menander as the Buddhist
 **Milinda**; bilingual Greek-Kharosthi coins) — "they came, they saw, but India
 conquered." The excavated city of **[[ai-khanoum|Ai Khanum]]** is the archaeological
 anchor for an otherwise numismatic history. See [[menander-i]], [[ai-khanoum]].
+
+## Bopearachchi: the final Greek kings and the Scythian/Yuezhi takeover
+
+Osmund Bopearachchi's numismatic chapter in [[sources/kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]] reconfirms — again from coins and inscriptions rather than narrative text — that the kingdom's final phase divided along two frontiers. In the Panjab/Gandhāra sector, the Scythian prince **Maues** occupied Taxila around the mid-first century BCE (recorded in the Patika copper-plate inscription, 1862), succeeded by two further Greek-named kings, Apollodotos II and Hippostratos, before the Scythian **Rajuvula** conquered the last Greek bastion at Sagala (Sialkot) c. 10 CE — "with the reign of Strato II, Greek power in India came to a definite end." In Bactria proper, "the Greeks were completely overpowered by the Yuezhi around 130 BCE" after the reign of **Heliocles I**, the last Greek king to rule Bactria itself, ending Greek control of the provinces north of the Hindu Kush; **Archebios** was the last Greek king reigning at Taxila at the time of Maues's arrival, and **Hermaios** the last over Paropamisadae before the Yuezhi occupation. See [[bactria]], [[scythians]], and [[yuezhi]].

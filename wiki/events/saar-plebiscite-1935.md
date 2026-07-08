@@ -1,24 +1,23 @@
 ---
 title: Saar Plebiscite (1935)
-date_start: 1935-01-13
-date_end: 1935-01-13
+date_start: "1935-01-13"
+date_end: "1935-01-13"
 date_precision: exact
-dating_method: documentary
 period: [World Wars Era]
-region: [western-europe]
-location: [Saarland]
-actors_primary: [["adolf-hitler"], ["actors/goebbels-joseph"], ["catholic-church|Saar Catholic authorities"], ["saar-population|Saar electorate"]]
-actors_secondary: [["france|France"], ["league-of-nations|League of Nations"], ["weimar-republic|German government (preparatory work)"]]
+region: ["western-europe"]
+causes: ["[\"versailles-treaty|Versailles provisions for plebiscite after 15 years\"]", "[\"adolf-hitler|Massive German propaganda campaign (Goebbels)\"]", "[\"saar-economy|Economic grievances (unemployment, French exploitation)\"]", "[\"catholic-church|Catholic Church support for return to Germany (anti-Bolshevism)\"]", "[\"erosion-of-left|Massive prior erosion of SPD/KPD loyalties in Saar\"]"]
+consequences: ["[\"adolf-hitler|91% vote for return to Germany (just under 91% of electorate; at least two-thirds of former left supporters)\"]", "[\"adolf-hitler|Huge propaganda triumph; dispelled doubts about genuine popular backing\"]", "[\"adolf-hitler|Hitler milked for all worth; dove-like statements to France ('no further territorial demands'); Saarbrücken speech 1 March\"]", "[\"adolf-hitler|Strengthened hand for next foreign-policy moves (conscription March 1935)\"]", "[\"german-rearmament|Indirect boost to rearmament demands post-plebiscite\"]"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe", political, "adolf-hitler", versailles, propaganda]
 event_type: political
-scale_immediate: regional
+location: [Saarland]
+actors_primary: ["[\"adolf-hitler\"]", "[\"actors/goebbels-joseph\"]", "[\"catholic-church|Saar Catholic authorities\"]", "[\"saar-population|Saar electorate\"]"]
+actors_secondary: ["[\"france|France\"]", "[\"league-of-nations|League of Nations\"]", "[\"weimar-republic|German government (preparatory work)\"]"]
+dating_method: documentary
 scale_consequential: national
-causes: [["versailles-treaty|Versailles provisions for plebiscite after 15 years"], ["adolf-hitler|Massive German propaganda campaign (Goebbels)"], ["saar-economy|Economic grievances (unemployment, French exploitation)"], ["catholic-church|Catholic Church support for return to Germany (anti-Bolshevism)"], ["erosion-of-left|Massive prior erosion of SPD/KPD loyalties in Saar"]]
-consequences: [["adolf-hitler|91% vote for return to Germany (just under 91% of electorate; at least two-thirds of former left supporters)"], ["adolf-hitler|Huge propaganda triumph; dispelled doubts about genuine popular backing"], ["adolf-hitler|Hitler milked for all worth; dove-like statements to France ('no further territorial demands'); Saarbrücken speech 1 March"], ["adolf-hitler|Strengthened hand for next foreign-policy moves (conscription March 1935)"], ["german-rearmament|Indirect boost to rearmament demands post-plebiscite"]]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, western-europe, political, adolf-hitler, versailles, propaganda]
+scale_immediate: regional
 ---
-
 # Saar Plebiscite (1935)
 
 ## Narrative
@@ -74,3 +73,9 @@ HQ in the old union building, the Nuremberg Laws applied to Saar Jews from
 September 1935, and unfulfilled economic promises until the 1938 rearmament
 boom. The success emboldened the 16 March 1935 conscription/Luftwaffe
 announcement. Source: [[evans-third-reich-in-power-2005]]
+
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Shirer gives the vote as 477,000 to 48,000 for return to Germany (13 January 1935); he notes Hitler used the occasion to renounce further claims on Alsace-Lorraine, a conciliatory gesture toward France consistent with the wiki's account of his "no further territorial demands" messaging (Shirer 1960).
+
+[[shirer-rise-fall-third-reich-1960]]

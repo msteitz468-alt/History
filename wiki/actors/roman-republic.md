@@ -9,8 +9,8 @@ affiliated_with: [the Roman Senate and People (SPQR), Italian allies (socii)]
 opposed_by: [[[carthage|Carthage]], [[hellenistic-world|Hellenistic kingdoms]], Gauls, Mithridates of Pontus]
 key_events: [Punic Wars 264-146 BCE, conquest of the Hellenistic East, civil wars 49-31 BCE]
 key_processes: [[[empire]], [[slavery]], [[trade-network-formation]], provincialization]
-sources_ingested: 4
-last_updated: 2026-06-11
+sources_ingested: 7
+last_updated: 2026-07-08
 tags: [actor, state, classical-antiquity, archaic-period, mediterranean, western-europe, rome]
 ---
 
@@ -33,7 +33,11 @@ After expelling its kings, Rome built a mixed constitution balancing the aristoc
 **assemblies**. The long internal **Struggle of the Orders** gradually admitted the
 plebeians to office and law (the Twelve Tables), producing a broadly stable, militarily
 formidable, and expansionist civic order. Roman openness to incorporating outsiders —
-unusual among ancient states — was, CWH IV stresses, central to its growth.
+unusual among ancient states — was, CWH IV stresses, central to its growth. Crucially,
+Rome never codified this constitution: it rested on the **[[mos-maiorum|mos maiorum]]**,
+the unwritten ancestral norms of aristocratic restraint — whose progressive erosion
+from 133 BCE onward (the Gracchi, [[marius]], [[sulla]]) is a central account of the
+Republic's fall (see [[duncan-storm-before-the-storm-2017|Duncan]]).
 
 ## The Early Republic: Constitutional Structure (Fifth Century BCE)
 
@@ -334,6 +338,10 @@ of small farmers fed the agrarian crisis. Whether the subsequent eastward turn (
 imperial appetite (Harris) is the volume's central interpretive question — see
 [[causes-of-second-punic-war]].
 
+## Honour, Shame, and Aristocratic Politics (Vervaet, in Kim et al. 2017)
+
+Frederik Juliaan Vervaet (in [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]], Ch. 4) argues that Roman aristocratic **honour (honos)** and **shame (pudor)** operated as a socio-institutional system of behavioural regulation at three linked levels — the family (*patria potestas*), the Senate (rank and seniority contests), and the military (unit discipline and battlefield motivation) — and directly shaped major political and military outcomes. He characterizes the Republic's political system as "a plutocratic outfit that served the conservative interests of the happy few," since only the wealthy could hold the ranking offices literally termed *honores*. Vervaet documents honour/shame dynamics driving specific events: the **Fabius–Marcellus rivalry** during the Second Punic War over triumphal honours; the **Arausio disaster (105 BCE)**, attributed to proconsul Q. Servilius Caepio's refusal, on grounds of aristocratic disdain, to subordinate to the "new man" consul Cn. Mallius Maximus; **Marius's** deliberate manipulation of his troops' wounded pride before Aquae Sextiae (102 BCE); and **Pompey's** senatorial peers pressuring him into a battle he did not want at **Pharsalia (48 BCE)**. He also reads Octavian's blocking of M. Licinius Crassus's claim to the *Spolia Opima* (29 BCE) as a step toward converting the public triumph into an imperial monopoly. See [[rome-han-honour-and-shame]] for the comparison with honour/shame in the [[han-dynasty|Han Dynasty]].
+
 ## Crisis and Fall of the Republic
 
 Conquest brought wealth, mass [[slavery]], and provincial command that overwhelmed
@@ -368,3 +376,33 @@ debate centers on whether the collapse was structural (the strains of empire,
 militarization, the agrarian crisis) or driven by the ambitions of "great men" — a
 direct instance of the [[great-man-vs-structural-causation|Great Man vs. structural
 causation]] controversy.
+
+### Beard (SPQR, 2015)
+
+Mary Beard ([[sources/beard-spqr-2015]]) treats **367 BCE**, not the traditional 509
+BCE founding date, as the point at which "the Roman political system took its
+characteristic form" — the permanent annual consulship and a senate of lifelong
+members — arguing "Rome did not look distinctively 'Roman' for more than a century
+after 509 BCE." She reads the **Conflict of the Orders** as mythologized in its
+famous episodes (the Verginia story she calls "probably no less a fictional
+construct than Lucretia") but real and consequential in outcome: by 367 BCE it had
+"replaced a governing class defined by birth with one defined by wealth and
+achievement," not produced a popular revolution. She also uses the **Twelve
+Tables** as a corrective to Livy's heroizing narrative of the early Republic: their
+terse, narrowly domestic content (family, property, funerals, debt-slavery) depicts
+"a much simpler society," with "hardly any mention of the world outside Rome."
+
+On the Republic's fall, Beard resists a pure decline narrative: violence was
+"increasingly taken for granted as a political tool," with traditional restraints
+breaking down "one by one, until swords, clubs and rioting more or less replaced
+the ballot box" — yet she stresses the same century was "also an extraordinary
+period of political analysis and innovation" (state-subsidized grain, provincial
+legal frameworks, literature), with senators actively seeking remedies rather than
+presiding passively over collapse. Her summary thesis for the transition to
+one-man rule inverts the usual framing: the growth of empire required
+concentrating vast military and financial power in individual commanders for
+long periods, outstripping the Republic's shared, short-term magistracies — "the
+empire created the emperors — not the other way round." On Rome's overseas power
+more broadly, Beard frames it as "an empire of obedience" — a coercive power to
+issue orders that are obeyed, not, in the third–second centuries, a systematic
+program of territorial annexation.

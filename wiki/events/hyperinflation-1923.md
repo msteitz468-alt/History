@@ -1,23 +1,22 @@
 ---
-title: "German Hyperinflation of 1923"
+title: German Hyperinflation of 1923
 date_start: 1922
-date_end: 1923-11
+date_end: "1923-11"
 date_precision: year
 period: [World Wars Era]
-region: [western-europe]
-location: [Germany]
-actors_primary: [[[weimar-republic]]]
-actors_secondary: [[[gustav-stresemann]], Reichsbank (Havenstein), France and Belgium (Ruhr occupation)]
+region: ["western-europe"]
+causes: ["[[first-world-war-1914]] war finance by borrowing", "[[treaty-of-versailles-1919]] reparations burden", "[[ruhr-occupation-crisis-1923]]", deficit financing of passive resistance]
+consequences: ["[[dawes-plan-1924]]", "destruction of middle-class savings", "delegitimation of the [[weimar-republic]]", "[[beer-hall-putsch-1923]]"]
+sources_ingested: ["evans-coming-of-third-reich-2003", "shirer-rise-fall-third-reich-1960"]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe"]
 event_type: economic
-scale_immediate: civilizational
+location: [Germany]
+actors_primary: ["[[weimar-republic]]"]
+actors_secondary: ["[[gustav-stresemann]]", Reichsbank (Havenstein), France and Belgium (Ruhr occupation)]
 scale_consequential: civilizational
-causes: [[[first-world-war-1914]] war finance by borrowing, [[treaty-of-versailles-1919]] reparations burden, [[ruhr-occupation-crisis-1923]], deficit financing of passive resistance]
-consequences: [[[dawes-plan-1924]], destruction of middle-class savings, delegitimation of the [[weimar-republic]], [[beer-hall-putsch-1923]]]
-sources_ingested: [evans-coming-of-third-reich-2003]
-last_updated: 2026-07-02
-tags: [event, world-wars-era, western-europe]
+scale_immediate: civilizational
 ---
-
 # German Hyperinflation of 1923
 
 The catastrophic collapse of the German currency, culminating in late 1923 when
@@ -93,6 +92,14 @@ inflation for gain ("the gains they made... were not as spectacular as has
 often been alleged"). His central interpretive move is the memory point:
 objective losses were uneven, but the remembered catastrophe was universal —
 which is what mattered politically in 1929–33.
+
+## Shirer (1960) Addition
+
+Shirer (1960) gives a slightly different mark-to-dollar trajectory (rough popular memory figures rather than Evans's precise indices), useful as a corroborating documentary spine: 4:1 (normal) → 75:1 (summer 1921) → 400:1 (1922) → 7,000:1 (early 1923) → 18,000:1 (Ruhr occupation, Jan 1923) → 160,000:1 (1 July 1923) → 1,000,000:1 (1 Aug 1923) → 4,000,000,000:1 (Nov 1923), then trillions. [SHIRER-THESIS]: Shirer's own causal reading goes further than Evans's "uneven ruin" revision — he argues the government deliberately let the mark collapse to escape public debt, evade reparations, sabotage the French in the Ruhr, and (per the disguised General Staff "Truppenamt") leave Germany financially unencumbered for a future war, with industrialists profiting by refunding debt in worthless marks while ordinary savers were wiped out. This deliberate-collapse thesis is stronger than what Evans's page currently supports and should be read as a contested, older interpretive claim rather than settled fact.
+
+Hitler exploited the crisis rhetorically (undated speech, contemporaneous with the hyperinflation): "The government calmly goes on printing these scraps of paper because, if it stopped, that would be the end of the government... If the horrified people notice that they can starve on billions, they must arrive at this conclusion: we will no longer submit to a State which is built on the swindling idea of the majority. We want a dictatorship."
+
+Source: [[shirer-rise-fall-third-reich-1960]].
 
 ## Related
 

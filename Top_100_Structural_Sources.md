@@ -36,7 +36,7 @@
 18. **Nicola Di Cosmo** - *Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History* ✅ INGESTED 2026-06-27 (`sources/di-cosmo-ancient-china-enemies-2002`; Deployed Subagent Strategy, 7 ranges; 14 pages created, 8 updated)
 19. **Gina L. Barnes** - *Archaeology of East Asia: The Rise of Civilization in China, Korea and Japan* ✅
 20. **Craig Benjamin** - *Empires of Ancient Eurasia: The First Silk Roads Era, 100 BCE - 250 CE* ✅ INGESTED 2026-06-27 (`sources/benjamin-empires-ancient-eurasia-2018`; Deployed Subagent Strategy, 5 chapter-cluster ranges; 18 pages created, 22 updated; closes the Kushan gap)
-21. **Hyun Jin Kim, Frederik Juliaan Vervaet, Selim Ferruh Adalı** - *Eurasian Empires in Antiquity and the Early Middle Ages: Contact and Exchange between the Graeco-Roman World, Inner Asia and China*
+21. **Hyun Jin Kim, Frederik Juliaan Vervaet, Selim Ferruh Adalı** - *Eurasian Empires in Antiquity and the Early Middle Ages: Contact and Exchange between the Graeco-Roman World, Inner Asia and China* ✅ INGESTED 2026-07-08 (CUP 2017; Deployed Subagent Strategy, two-stage: 5 extraction ranges + 3 page-owned integrators; 10 pages created, 20 updated)
 
 ### 3. Ancient Egypt
 22. **Barry J. Kemp** - *Ancient Egypt: Anatomy of a Civilization* ✅ INGESTED 2026-06-27 (3rd ed., 2018; Deployed Subagent Strategy, 6 ranges; 15 pages created, 16 updated)
@@ -78,7 +78,7 @@
 50. **H. H. Scullard** - *From the Gracchi to Nero: A History of Rome 133 BC to AD 68* **[MISSING]**
 51. **Harriet I. Flower** - *Roman Republics*
 52. **Simon Esmonde Cleary** - *The Roman West, AD 200–500: An Archaeological Study* **[MISSING]**
-53. **Warwick Ball** - *Rome in the East: The Transformation of an Empire*
+53. **Warwick Ball** - *Rome in the East: The Transformation of an Empire* ✅ INGESTED 2026-07-08
 54. **Greg Fisher** - *Rome, Persia, and Arabia: Shaping the Middle East from Pompey to Muhammad*
 55. **Samuel N. C. Lieu, Geoffrey Greatrex** - *The Roman Eastern Frontier and the Persian Wars AD 363-628* **[MISSING]**
 56. **John Haldon** - *The Empire That Would Not Die: The Paradox of Eastern Roman Survival, 640–740*
@@ -101,7 +101,8 @@
 69. **Pauline Stafford** - *A Companion to the Early Middle Ages: Britain and Ireland c.500-1100* ✅ INGESTED 2026-06-27 (Deployed Subagent Strategy, 7 ranges; specialist anchor for early medieval Britain & Ireland — new period sub-page + Wessex/Alba/Brian Bóruma/Uí Néill, conversion & Scandinavian-settlement processes, Insular-art/queenship/bookland; 18 created, 6 updated)
 70. **Guy Halsall** - *Warfare and Society in the Barbarian West 450-900* ✅ ingested 2026-06-27
 71. **Chris Wickham** - *Medieval Europe* ✅ ingested 2026-06-27
-72. **David Abulafia, Nora Berend** - *Medieval Frontiers: Concepts and Practices*
+    - *Framing the Early Middle Ages: Europe and the Mediterranean, 400–800* (2005) ✅ ingested 2026-07-08 — deep structural companion to #71; source [[sources/wickham-framing-the-early-middle-ages-2005]]
+72. **David Abulafia, Nora Berend** - *Medieval Frontiers: Concepts and Practices* ✅ ingested 2026-07-08 — anchor for [[concepts/medieval-frontier]]; source [[sources/abulafia-berend-medieval-frontiers-2002]]
 73. **F. Donald Logan** - *A History of the Church in the Middle Ages* **[MISSING]**
 
 ### 10. Medieval Middle East & Islamic World

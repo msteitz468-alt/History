@@ -4,16 +4,15 @@ actor_type: person
 date_start: 1904
 date_end: 1942
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [actor, person, "world-wars-era", "western-europe"]
 affiliated_with: ["[[schutzstaffel-ss]]", "[[gestapo]]", "[[himmler-heinrich]]"]
-opposed_by: []
 key_events: ["[[night-of-the-long-knives-1934]]", "[[kristallnacht-1938]]", "[[the-holocaust]]"]
-key_processes: []
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [actor, person, world-wars-era, western-europe]
+key_processes: ""
+opposed_by: ""
 ---
-
 # Reinhard Heydrich
 
 Chief of the SS Security Service (SD) and from 1936 head of the Security Police
@@ -55,3 +54,7 @@ Gerwarth, *Hitler's Hangman* (2011) is the standard biography.
 
 - [[evans-third-reich-in-power-2005]]
 - [[evans-third-reich-at-war-2008]]
+
+## Shirer (1960) additions
+
+Shirer's portrait — "this long-nosed, icy-eyed thirty-eight-year-old policeman of diabolical cast, the genius of the 'final solution,' Hangman Heydrich" — and his documentary chain: recipient of Göring's 31 July 1941 Endlösung commission; author of the September 1939 "first step in the final solution" ghetto-concentration order after Poland's fall; convener of [[wannsee-conference-1942|Wannsee]]; Acting Protector of Bohemia-Moravia from September 1941 (displacing Neurath, "packed off on indefinite sick leave"); intriguer against his own chief Himmler. Death and reprisals now have a dedicated page: [[assassination-of-heydrich-1942]]. Source: [[shirer-rise-fall-third-reich-1960]]

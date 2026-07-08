@@ -8,8 +8,8 @@ region: [western-europe, northern-europe, british-isles]
 process_type: economic
 driven_by: [roman-gaul, merovingian-emporia]
 produces: [merovingian-economy]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, late-antiquity, early-middle-ages, western-europe]
 ---
 
@@ -67,8 +67,43 @@ Sea parallels Theuws's argument for inland northern Gaul. By the later seventh c
 coast networks were being formalized into the emporia (Quentovic, Dorestad) that the Carolingians would
 tax.
 
+## Wickham, Framing (2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham, *Framing* (2005)]] sharpens the asymmetry between
+**Francia as northern superpower** and Britain/North Sea partners still structured by political rather
+than commercial networks—until the eighth century.
+
+### Pre-700 Kent: directed imports, not local workshop systems
+
+Most sixth–seventh-century Frankish and luxury imports concentrated in **Kent** (gold, amethyst, glass,
+pottery via Sarre/Fordwich/Dover). Even there, no lasting Kentish wheel-thrown pottery or glass tradition
+emerged: wealthy people near Francia still did not need production/exchange networks **separable from
+local social hierarchies**. Exchange was structured by royal, aristocratic, and ecclesiastical political
+relationships ([[aristocratic-demand]]).
+
+### Emporia and Ipswich ware
+
+Eighth-century emporia (Hamwic, London, Ipswich, York—typically one per kingdom) were largely **dendritic**
+(gateway → political centres); Hamwic pottery and coins are scarce in the hinterland. **Ipswich ware**
+from c.720 (slow-wheel, kiln-fired; nearly every Norfolk site; stops at the East Anglian frontier; reaches
+eastern England high-status and other sites) is the first clear **bulk commercial ceramic network** in
+England—still max easy radius ~180 km, and largely unimitated outside north-eastern monasteries. Its
+generality indicates commercial networks no longer channelled exclusively by political relationships
+([[scandinavian-urbanisation]], [[carolingian-economy]]).
+
+### Two northern worlds; North Sea secondary for Franks
+
+Merovingian Francia was the northern superpower, with sharp tenurial hierarchies beside small tribal
+societies; nearly all bulk artisanal production and northern long-distance wine were **Frankish**.
+Eighth-century North Sea traffic (Dorestad scale) exceeded western Mediterranean volume after Marseille’s
+eclipse, but the important patterns of production and exchange were **internal to regions**: Francia’s
+complex riverine systems versus Britain/North still mostly dendritic until aristocracies separated enough
+from peasants (beginning by ~800). Northern Francia and the other northern regions were “two totally
+different worlds” ([[merovingian-economy]], [[pirenne-thesis]]).
+
 ## Related
 
 - [[merovingian-emporia]] · [[merovingian-economy]] · [[roman-gaul]] · [[merovingian-archaeology]] · [[ethnogenesis]]
+- [[aristocratic-demand]] · [[scandinavian-urbanisation]] · [[carolingian-economy]] · [[pirenne-thesis]]
 - [[late-antiquity]] · [[early-middle-ages]]
-- Source: [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] (Fleming, Ch. 17)
+- Sources: [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] (Fleming, Ch. 17); [[wickham-framing-the-early-middle-ages-2005]]

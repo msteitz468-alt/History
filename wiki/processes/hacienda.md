@@ -8,8 +8,8 @@ region: [mesoamerica, andes, southern-cone, atlantic-world]
 process_type: [economic, social]
 driven_by: [the decline of the encomienda, Spanish land grants and the market for food/livestock, the demographic collapse opening land, urban and mining demand]
 produces: [a landed rural elite, debt peonage/inquilinaje, the symbiosis of great estate and poor free farmers, the rural face of the casta hierarchy]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, early-modern, mesoamerica, andes]
 ---
 
@@ -82,10 +82,51 @@ preferred refuge of capital when sugar or silver faltered), and shaped land tenu
 for centuries. It long outlived the colonial era, becoming the target of the great
 twentieth-century land reforms (Mexico 1910s, Bolivia 1952, etc.).
 
+## Late colonial to Porfirian expansion in Mesoamerica (MacLeod, CHNPA II.2)
+
+Murdo J. MacLeod ([[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] Ch. 12;
+drawing on Van Young and related work) tracks the hacienda as a **late-colonial and
+national land-labor complex** pressing indigenous Mesoamerica:
+
+**Mid–late eighteenth century.** Native demographic growth found little available land in
+parts of western Mexico and the Bajío because village lands had been rented out or lost to
+increasingly commercial and expansionist haciendas — producing **Malthusian pressures**.
+Haciendas became especially market-oriented near larger cities; their need for land and labor
+caused increased migration from native townships and some loss of ethnic identity. Plantation
+industries such as sugar and indigo also attracted labor. In the north, non-Indian migration
+took scarce cultivable lands; nomadics retreated further into barrancas and sierras. Northern
+mining complexes used subsidiary haciendas alongside [[encomienda]] and draft labor.
+
+**Nineteenth century and Porfiriato.** After Liberal corporate land attacks (Ley Lerdo and
+successors), Porfirio Díaz’s decrees of 1875, 1883, and 1894 extended baldío alienation:
+estimated ~**96 million acres** of vacant state lands turned over to private ownership; the
+1883 law let land companies survey public lands and take up to one-third plus buy the rest
+cheaply. Sugar interests in Morelos stripped Indian communities (later Zapatista base) of most
+landholdings by the early twentieth century. By the first years of the century land companies
+held about one-fifth of Mexico’s land mass; most villages lost all or part of their ejidos.
+By **1900**, peons including hacienda workers lived in **poorer conditions than in the final
+years of the colonial period**. Yucatán henequen estates and Chiapas/Tabasco extractive projects
+deployed forced and deceptively “paternalistic” native labor; Yaquis deported to Yucatán
+plantations (mostly 1900–1910) are an extreme case ([[colonial-mesoamerica-native-peoples]]).
+
+**Revolutionary reversal and after.** Zapata’s program and Article 27 of 1917 aimed to reverse
+Porfirian alienation through ejidos; Cárdenas’s massive redistribution made the ejido the
+principal counter-institution to the hacienda. Post-1940 commercial agro-business regained favor
+under Alemán as ejidos starved of credit — a partial reconsolidation of large-estate logic under
+new legal forms.
+
+Part 2 regional authors (e.g. Schryer) further note that natives settled permanently inside
+hacienda boundaries did **not invariably lose culture**, and that post-Revolution ejidos could
+give former peons new autonomy — nuancing older “estate dissolves ethnicity” models.
+
 ## Related
 
 - [[colonial-latin-america]] — the colonial order the hacienda anchored in the countryside.
+- [[colonial-mesoamerica-native-peoples]] — MacLeod’s multi-century land-labor arc.
 - [[encomienda]] — the earlier institution it succeeded; the labor systems it used.
 - [[casta-system]] — the racial hierarchy the rural estate most rigidly embodied.
+- [[bourbon-reforms]] — late colonial commercialization and fiscal pressure.
+- [[indigenismo]] — revolutionary-era land and cultural policy responding to the estate order.
 - [[atlantic-slave-trade]] — the plantation (its tropical-export cousin).
 - [[potosi-and-colonial-silver]] — the mining economy haciendas supplied.
+- [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]]

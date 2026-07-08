@@ -3,12 +3,12 @@ title: Basin of Mexico
 place_type: region
 modern_equivalent: Valley of Mexico; Mexico City metropolitan area and surroundings
 coordinates: ~19.4°N, 99.1°W
-period_active: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern]
-controlled_by: [Cuicuilco polity (c. 400–100 BCE), Teotihuacan state (c. 1–550 CE), Toltec state (c. 900–1150 CE), Aztec Empire (c. 1428–1521 CE)]
+period_active: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
+controlled_by: [Cuicuilco polity (c. 400–100 BCE), Teotihuacan state (c. 1–550 CE), Toltec state (c. 900–1150 CE), Aztec Empire (c. 1428–1521 CE), New Spain / Mexico City (1521–)]
 events_here: [eruption of Popocatepetl (~200-1 BCE), eruption of Xitle (~200-400 CE), Spanish Conquest (1521 CE)]
-processes_here: [[[mesoamerican-state-formation]], [[urbanism]], [[teotihuacan-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-27
+processes_here: [[[mesoamerican-state-formation]], [[urbanism]], [[teotihuacan-formation]], [[central-mexico-indigenous-colonial]], [[central-mexico-indigenous-since-independence]]]
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [place, mesoamerica, americas, archaic-period, classical-antiquity, late-antiquity]
 ---
 
@@ -149,13 +149,96 @@ earlier assumptions about volcanic destruction of Cuicuilco. Collection coverage
 Basin is strongest for Teotihuacan period archaeology, moderate for the Aztec period, and
 thin for post-Teotihuacan intermediate periods.
 
+## Preclassic synthesis (Grove, CHNPA II.1 Ch. 3)
+
+David C. Grove’s central-highlands Preclassic chapter
+([[cambridge-history-native-peoples-americas-v2-1|CHNPA Vol. II Part 1]]) frames the Basin as a
+broad interior valley at ~**2,200 m**, ringed by mountains that trapped waters into an extensive
+shallow lake system; at Spanish arrival (1519) the lake held the Aztec island city of
+[[tenochtitlan|Tenochtitlan]]. Iztaccíhuatl (5,230 m) and Popocatépetl (5,465 m) dominate the
+southeast; the Teotihuacan Valley is a lobe northeast of the Basin.
+
+**Paleoindian–Archaic and early sedentary life.** Preceramic sedentary or semisedentary societies
+may have been present along lake shores by ~4000 BCE. At **Zohapilco** (Tlapacoya), teosinte
+grains in levels 5500–3500 BCE suggest possible early incipient agriculture, but Grove treats
+the question as equivocal; Basin elevation and cooler climate may have limited early domesticated
+maize relative to teosinte. Around **3000 BCE**, devastating volcanic pumice ash may have made
+the southern Basin unlivable for nearly half a millennium; post-recovery evidence again centers
+on Zohapilco. Niederberger’s excavations yield occupation levels 2500–2000 BCE with possible house
+foundations, seed-processing and woodworking tools, intensive lakeshore and inland hunting/fishing.
+Earliest conclusive ceramic date for Basin agricultural communities is **1400 BCE** (assemblage
+1400–1200 BCE), including red-rimmed tecomates shared with southern lowlands—early evidence of
+interregional idea diffusion via exchange rather than Classic-style long-distance trade.
+
+**Early Preclassic villages (c. 1200–900 BCE).** Population growth and maize-based village
+expansion under rainfall agriculture (some simple irrigation possible), with gradual pine–oak
+forest clearance. **Tlatilco** (western Basin piedmont; now under Mexico City) is Grove’s model
+site: surface refuse ~50 ha over >300 years (momentary village likely smaller); wattle-and-daub
+houses, some on raised clay platforms; bell-shaped storage pits; hundreds of figurines and rich
+grave goods. Paul Tolstoy’s burial analysis suggests two endogamous moieties with a rank continuum
+(~500 excavated graves, c. 1200–900 BCE); highest rank signaled by deeper extended graves and ≥13
+objects including polished iron-ore mirror pectorals acquired by southern trade. **Coapexco**
+(2,600 m on Iztaccíhuatl’s western slopes) specialized in manos/metates and prismatic blades from
+distant-source obsidian. Southeastern lake villages (Zohapilco, Terremote-Tlaltenco, Santa Catarina)
+likely built small raised fields and drainage canals—limited precursors to Aztec
+[[chinampa-agriculture|chinampas]] ~2,500 years later. Western Basin–Morelos ceramic pattern does
+*not* extend to Puebla, Guerrero, or eastern Basin sites such as Zohapilco; Grove reads purposeful
+ceramic ethnic markers amid economic interaction.
+
+**Middle Preclassic transformation (900–500 BCE).** Rapid population growth; poorer northern/
+eastern zones settled despite declining lake levels; chiefly rank intensified as elaborate Early
+Preclassic iconography left ceramics for jadeite/greenstone elite media. Monumental center at
+[[chalcatzingo|Chalcatzingo]] (Morelos) with limited Olmec-symbol elite alliances (Grove: not
+blanket “Olmec influence” on village lifeways).
+
+**Late Preclassic urbanization.** By/soon after 500 BCE, Chalcatzingo and many Middle Preclassic
+villages abandoned; population nucleated around central-place villages with tall pyramids;
+cultural focus shifted for ≥next millennium to the previously **marginal Basin** rather than
+southern river valleys. [[cuicuilco|Cuicuilco]] and then the Teotihuacan Valley became urban-scale
+rivals (see Cuicuilco and Teotihuacan pages). Until the 1970s, highland Preclassic chronology
+wrongly treated Tlatilco and Zacatenco as contemporaneous Middle Preclassic; Tolstoy & Paradis
+(1970) repositioned Tlatilco burials as Early Preclassic and El Arbolillo with Zacatenco as Middle
+Preclassic—foundation of the modern sequence (Grove bibliographical essay).
+
+## Cowgill CHNPA notes (Ch. 6)
+
+In the same volume, George Cowgill prefers a **compact cultural Basin** of ~4,000–5,000 km²
+including the Teotihuacan Valley and lakes (~80 km N–S × 50–60 km E–W), versus ~12,000 km² full
+drainage, within a ~50,000 km² central-highlands focus. He stresses few good-sized Teotihuacan-
+period regional centers outside the primate city should not be overlooked (e.g. Azcapotzalco,
+probably Cerro Portezuelo). These definitional and settlement points complement the Cowgill 2015
+monograph material already used above.
+
+## Colonial and national-period central Mexico (Cline & Schryer, CHNPA II.2)
+
+### Colonial geography and peoples (Cline Ch. 16)
+
+Sarah L. Cline frames the **Valley/Basin of Mexico** as mountain-ringed with a large lake system that functioned as an inland sea in prehispanic **and colonial** periods; [[tenochtitlan|Tenochtitlan]] stood on an island in the center. Central Mexico as a whole held the **greatest numbers of both Indians and Spaniards** in the colonial period — fertile plateau, mountain-bounded valleys, rainfall/groundwater and productive soil supporting labor-intensive sedentary agriculture and dense population; geographical and cultural boundaries largely coincide (Cline 2000).
+
+Primary linguistic/ethnic groups in the central basin: **Nahuas and Otomís**. Toluca Valley west: Nahuas and Mazahuas; Cuernavaca south and Puebla east: dense Nahua agricultural populations. Northern bound near the center: desert of nomadic/seminomadic peoples culturally related but distinct from the settled groups treated in Cline’s chapter. Nahuatl was lingua franca throughout Mesoamerica and mother tongue of most central Mexicans; Otomí were seemingly late arrivals, unrelated language, generally subordinate within Nahuatl-speaking communities, with few or no extant colonial records in Otomí (Cline).
+
+Spaniards settled densely in the former Aztec imperial center; Tenochtitlan became **Mexico City**, seat of the viceroyalty of New Spain. Colonial change in the Basin was driven by epidemic decimation, growth of Spanish and racially mixed population, and shift from tribute extraction toward an economy geared to a large urban Hispanic population. For indigenous central Mexicans, Conquest broke the Aztec empire superstructure, but many component [[altepetl]] remained bastions of indigenous social, economic, and political life — Mexico City on the Tenochtitlan site being an important exception (Cline). Southern freshwater **[[chinampa-agriculture|chinampas]]** remained almost exclusively native into the twentieth century (high labor requirements; Spaniards preferred wheat and livestock) (Cline). Full process narrative: [[central-mexico-indigenous-colonial]].
+
+### Post-independence regional frame (Schryer Ch. 17)
+
+Frans J. Schryer (following Carrasco / *Handbook of Middle American Indians*) defines **central Mexico** more widely as the southeastern Mesa Central plus eastern slopes with part of the coastal plain and parts of the Balsas Basin — roughly the colonial bishoprics of Mexico and Puebla. Once Aztec imperial core and hub of New Spain; natives still a sizable majority on the eve of independence. The Basin/Mexico City remained the economic and administrative hub binding subregions and ethnic groups (Nahuatl, Nähñu/Otomí, Mazahua, Popoloca, Huastec enclaves; Zapotec/Mixtec spillover on the southern fringe) (Schryer 2000).
+
+Inside today’s Federal District, Andrés Lira documented continuity of colonial **parcialidades** (San Juan Tenochtitlan, Santiago Tlatelolco) — land-tenure and local-government politics through the nineteenth and early twentieth centuries after formal abolition of native self-government and of the legal category *indio*. Differential survival: humid southern chinampa market-gardening zone kept language and customs well into the twentieth century; northern Tlatelolco section lost ethnic cohesion earlier as communal pastures were rented to mestizo businessmen (Schryer). Schryer’s demographic estimates for central Mexico as a whole: natives still probably **>70%** in 1821, **<50%** around the Revolution (language criterion), **~12%** *indígenas* by 1980; linguistic map inverted from nearly universal native-language presence c. 1821 to islands/clusters by mid-twentieth century (Schryer). Full process narrative: [[central-mexico-indigenous-since-independence]].
+
 ## Related
 
 - `[[teotihuacan]]` (place and state) — Basin hegemon 100 BCE–650 CE; contains
 - `[[cuicuilco]]` — earlier urban center; contains
+- `[[chalcatzingo]]` — Middle Preclassic Morelos monumental center linked to Basin ceramic sphere
+- `[[tenochtitlan]]` — Aztec island capital on the lake system
 - `[[mesoamerican-state-formation]]` — process
+- `[[mesoamerican-preclassic]]` — process
 - `[[teotihuacan-formation]]` — process
 - `[[teotihuacan-ceramic-phases]]` — primary chronological framework for Basin prehistory
+- `[[chinampa-agriculture]]` — raised-field agriculture (Aztec climax; Preclassic precursors)
+- `[[central-mexico-indigenous-colonial]]` · `[[central-mexico-indigenous-since-independence]]`
 - `[[zapotec]]` — Oaxaca peer polity to the southeast
 - `[[maya-civilization]]` — broader Mesoamerican context
-- Source: `[[cowgill-ancient-teotihuacan-2015]]`
+- Sources: `[[cowgill-ancient-teotihuacan-2015]]` ·
+  `[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 3 (Grove), Ch. 6 (Cowgill)]]` ·
+  `[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2 (Cline Ch. 16; Schryer Ch. 17)]]`

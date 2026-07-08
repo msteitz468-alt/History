@@ -9,8 +9,8 @@ affiliated_with: [the Senate (optimate sympathies); the *novi homines*; the eque
 opposed_by: [Catiline, Clodius, Mark Antony; the *populares* dynasts (ambivalently)]
 key_events: [the prosecution of Verres (70), the consulship of 63, the [[catilinarian-conspiracy-63bce]], exile and recall (58–57), the Philippics against Antony (44–43), proscription and death (43)]
 key_processes: [[[optimates-populares]], the collapse of the Republic]
-sources_ingested: 3
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy]
 ---
 
@@ -92,6 +92,26 @@ deeply **interested witness** — Wiseman repeatedly notes his self-dramatizatio
 "brilliant chicanery." The "First Catilinarian Conspiracy" of 66/65 is largely his
 and others' later invention. The whole reconstruction of the 60s depends on him,
 checked against Sallust and Asconius.
+
+## Beard (SPQR, 2015)
+
+Beard stresses that the surviving text of the First Catilinarian is almost certainly
+not a verbatim transcript of the speech Cicero gave on 8 November 63 BCE: a letter to
+Atticus shows Cicero was still arranging for it to be copied in June 60, well after
+the fact and amid ongoing controversy over the executions, and she suggests the
+speech's insistent branding of Catiline as *hostis* (foreign enemy, stripped of legal
+protection) may reflect this later polishing rather than the words spoken that day.
+She also notes a genuine ancient counter-tradition: an anonymous pamphlet once
+misattributed to Sallust accused Cicero of having "turned the troubles of the state
+to his own glory," even claiming his consulship was "the cause of the conspiracy"
+rather than its solution. Beard traces Cicero's later trajectory — denied a
+valedictory address, driven into exile in 58 with his house replaced by a shrine to
+Libertas, and ultimately murdered in 44/43 with his head and hand displayed in the
+Forum — and observes the irony that the "*Quo usque tandem*" line he used against
+Catiline was, within twenty years, put by Sallust into Catiline's own mouth — a sign,
+she argues, that ancient authors already recognized how fluid "facts and their
+interpretations" were in this history, and a formula she traces into twenty-first-
+century political rhetoric. See [[sources/beard-spqr-2015]].
 
 ## Related
 

@@ -114,3 +114,12 @@ For fuller treatment see [[crusades-and-islamic-art]] and [[frankish-byzantine-a
 - [[crusades-and-islamic-art]] — Grabar on the Crusades and Islamic art.
 - [[frankish-byzantine-architectural-exchange]] — Bouras on Gothic influence on Byzantine architecture.
 - [[crusader-byzantine-artistic-identity]] — Gerstel on art and identity in the Frankish Morea.
+- [[medieval-frontier]] · [[abulafia-berend-medieval-frontiers-2002]] — the Latin East as frontier zone (see note below).
+
+## The Latin East as Frontier: Borders and Government
+
+Two chapters of *[[abulafia-berend-medieval-frontiers-2002|Medieval Frontiers]]* (2002) reframe the [[crusader-states|Latin Kingdom of Jerusalem]] as a laboratory for the [[medieval-frontier|medieval frontier]].
+
+**Zone, not line (Ellenblum).** Ronnie Ellenblum argues the Kingdom had no linear boundary at all: William of Tyre's chronicle scarcely mentions external border-lines, and castles (Toron, Montréal/Shawbak, Atlit, Jacob's Ford) were built not as links in a defensive chain but as new **"centres"** projecting influence into contested space. Ibn Jubayr's 1180s itinerary from Damascus to Acre records multiple non-coincident boundaries — of safety, of tax, of shared cultivation ("the Boundary of Dividing," where Franks and Muslims split crops and mingled herds) — not one crossable frontier. The idea of a linear international border, he contends, is a projection back from the 16th–18th-century "cartographic revolution."
+
+**Dhimma in reverse (Riley-Smith).** Jonathan Riley-Smith argues the Franks governed their religiously plural indigenous population (Orthodox and eastern Christians, Sunni and Shi'i Muslims, Druze, Jews, Samaritans) through an **adapted Muslim *dhimma* system** — poll tax, dress rules, disabilities in testimony, self-governing communities — reimposed fully on Muslims, only partially on non-Latin Christians. Genuinely new Frankish institutions were the *cours des Syriens* and the market *cour de la Fonde* at Acre, where Syrians, Jews, Muslims, Samaritans, Nestorians, Greeks, Jacobites and Armenians each swore on their own scripture. Shared shrines (the mosque-church at 'Ain al-Baqar, Usama ibn Munqidh's Templar-protected prayer) show accommodation extending to non-Christians — his qualification of Ellenblum's "assimilation-with-eastern-Christians-only" thesis, and of the older Smail/Prawer "segregation/apartheid" model.

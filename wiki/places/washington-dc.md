@@ -7,8 +7,8 @@ period_active: [long-19th-century, world-wars-era, cold-war, contemporary]
 controlled_by: [United States federal government (District of Columbia under Congress); earlier, Maryland/Virginia territory]
 events_here: [war-of-1812-burning-of-washington, civil-war-defense-of-washington, emancipation-in-dc-1862, various-inaugurations-and-march-on-washington]
 processes_here: [us-federal-government-growth, civil-rights-movement, cold-war-national-security-state, urban-planning-and-symbolism]
-sources_ingested: 5
-last_updated: 2026-06-26
+sources_ingested: 6
+last_updated: "2026-07-08"
 tags: [place, north-america, long-19th-century, world-wars-era]
 aliases: [Washington DC, District of Columbia, US Capital, Federal City, Washington City]
 ---
@@ -55,6 +55,18 @@ See related: [[united-states]], [[american-civil-war]], [[war-of-1812]], [[cold-
 - Biographies (high-traffic): [[hubs/biographies/age-of-expansion/washington-george]], [[hubs/biographies/age-of-expansion/hamilton-alexander]], [[hubs/biographies/age-of-expansion/jefferson-thomas]] (library sale after burning; Federal City planning), Civil War and Long 19th c. figures.
 - Processes: Growth of federal government, civil rights, Cold War national security apparatus.
 - Sources: Chernow *Washington: A Life* and *Hamilton*; Malone Jefferson volumes (explicit burning reference and LOC library sale); West Point Civil War and WWII histories (capital defense, wartime mobilization); period pages for Long 19th, World Wars, Cold War, Contemporary.
+
+
+### From Ellsworth, *Midnight on the Potomac* (2025) — wartime capital
+
+- Prewar "rude colony" (Henry Adams) → overcrowded war boom; women clerks/nurses; Sanitary Commission.
+- Slavery abolished in D.C. **16 Apr 1862**; **>40,000** contrabands; camps, disease, white hostility; Elizabeth Keckly's Contraband Relief Association.
+- July 1864: undermanned fort ring; Monocacy delay; siege atmosphere (no mail/telegraph/rail); Navy escape ship for President; Early within five miles of White House 11 July; Lincoln at Fort Stevens 12 July.
+- Black children's 4 July 1864 picnic; Grand Illumination 13 Apr 1865.
+- Ford's Theatre assassination 14 Apr; funeral train departure.
+- Sites of Black political assertion: Garnet in the House 12 Feb 1865; multiracial Second Inaugural crowd 4 Mar 1865.
+
+Source: [[sources/ellsworth-midnight-on-the-potomac-2025]].
 
 ## Historiography and Source Base
 

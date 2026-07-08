@@ -9,8 +9,8 @@ affiliated_with: [[[zoroastrianism]], the Sasanian dynasty, Iranshahr]
 opposed_by: [[[roman-empire|Rome]]/[[byzantine-empire|Byzantium]], the [[white-huns|Hephthalites]], the [[gokturk|Türks]], the Arab-Muslim armies]
 key_events: [Shapur I's capture of Valerian, wars with Byzantium, Khusro II's invasion 602-628 CE, Battle of Qadisiyya 637 CE]
 key_processes: [[[empire]], [[universal-religions]], [[silk-roads]]]
-sources_ingested: 4
-last_updated: 2026-06-27
+sources_ingested: 6
+last_updated: 2026-07-08
 tags: [actor, empire, late-antiquity, early-middle-ages, iran-plateau]
 aliases: [Sasanian Empire, Sassanid Empire, The Sassanid Empire, Sasanian Persia, Sassanian Empire]
 ---
@@ -155,3 +155,26 @@ before them — they functioned as a **spatial bridge between China and the West
 chronological bridge** from late antiquity to Islam; Sasanian coins and silk (Simurgh
 motifs) circulated across the Indian Ocean and into Tang China, and Persian models of rule
 persisted across a millennium.
+
+## Ball on deportations and prisoners of war (2000)
+
+Warwick Ball's *[[ball-rome-in-the-east-2000|Rome in the East]]* highlights the Sasanian policy
+of resettling Roman prisoners of war — most famously the ~60,000 taken with Emperor Valerian at
+the [[capture-of-valerian-260|Battle of Edessa (260)]], recorded in **Shapur I's own *Res Gestae***
+(the trilingual Naqsh-i Rustam inscription, which also names the defeats of Gordian III and
+[[philip-the-arab|Philip the Arab]]). Shapur settled captives in new cities named after himself —
+**Bishapur, Gundeshapur** ("Veh-Antioch-Shapur," Better-than-Antioch), and others — and put them
+to skilled labour: the surviving **Band-i Qaysar** ("Caesar's Dam") bridge-dam at Shushtar is
+Roman-built, and Bishapur's palace carried Antioch-school mosaics made by deportees. Ball argues
+(as his interpretation) that, unlike Rome — which used captives for triumphal display before the
+arena or slave market — the Sasanians inherited a Near Eastern tradition (back to Assyrian
+deportations) of resettling and *protecting* the identity of deported populations, treating
+Christian deportees tolerantly; Gundeshapur became a great academic and medical centre, refuge
+for the philosophers of Athens after Justinian closed the Academy. Khusrau I continued the policy,
+founding "Weh-Antioch-Khusrau" after his sack of [[antioch|Antioch]] in 540.
+
+Source: [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]].
+
+## Lieu: the fall's aftermath and a Sasanian émigré community in Tang China
+
+Samuel Lieu's chapter in [[sources/kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]] (on Manichaeism's Rome-to-China transmission — see [[manichaeism]]) adds detail on the Sasanian state's final diplomatic moves and its aftermath. **Yazdgird III** sent envoys to Tang China requesting direct military intervention against the invading Arabs; the Tang government judged the distances involved too great for effective aid. After his death and the Sasanian dynasty's fall, his son **Pērōz** fled to China, briefly headed a Persian government-in-exile in Seistan under Chinese sponsorship, and died there; a 1955 Xi'an tombstone (bilingual Sasanian Middle Persian/Chinese) of the wife of a Persian condottiero attached to the elite Tang "Divine Strategy Army" attests to this émigré community. Lieu also notes that a Chinese army sent west of the Pamirs in response to the Arab advance into former Sasanian Central Asia was disastrously defeated at the **Battle of Talas River (751 CE)** — the episode marking the practical end of Tang power in Transoxiana. See [[silk-roads]] for the Talas battle's broader place in the Silk Roads' periodization.

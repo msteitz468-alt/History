@@ -9,8 +9,8 @@ affiliated_with: ["[[colonization-americas-14500bp]]", "Paleoindian peoples"]
 opposed_by: []
 key_events: ["[[colonization-americas-14500bp]]", "[[pleistocene-megafaunal-extinction]]"]
 key_processes: ["[[paleolithic-global-dispersal]]", "[[migration-in-human-history]]"]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, movement, "Behavioral Modernity", north-america, mesoamerica]
 ---
 
@@ -105,3 +105,13 @@ Snow et al. (2020) date Clovis most reliably to **11,050–10,650 BCE** after ca
 **Controversy**: See [[clovis-first-controversy]] for the full debate about Clovis's relationship to pre-Clovis peoples, its origins, and the Solutrean hypothesis.
 
 *Sources: Waguespack, "The Pleistocene colonization and occupation of the Americas," CWH Vol. I, Ch. 19 — see [[christian-cwh-v1-2015]]; [[snow-gonlin-siegel-archaeology-native-north-america-2020]], Ch. 3.*
+
+## CHNPA I.1 — Dean R. Snow (ch. 3)
+
+Snow’s Cambridge synthesis treats Clovis as **the oldest generally accepted Paleo-Indian complex**, hallmark the Clovis point. Dates from many sites “consistently range between **10,000 and 9000 B.C.**” (as stated; see dating caveats on [[clovis-first-vs-pre-clovis]]). The Clovis point is the most widespread of Paleo-Indian points bearing long thinning flake scars (“flutes”); fluted points occur nearly everywhere in North America south of the Pleistocene glaciation limit.
+
+**Toolkit (portable big-game kit).** For a millennium Paleo-Indian hunters exploited living game species plus extinct Pleistocene horses, mammoths, mastodons, camels, and *Bison antiquus*. “The Paleo-Indian tool kit was simple and light, designed for maximum portability. The fluted point, usually made of high-grade chert, probably served as both spear point and knife blade.” Companion tools: ovate bifacial knives; end scrapers with graving spurs; *pièces esquillées* as wedges; twist drills, awls, gravers, spokeshaves.
+
+**Place in peopling.** Snow’s preferred scenario brings ancestral Paleo-Indians into Alaska after 12,000 B.C., reaching the Plains by 10,000 B.C.; Clovis is the first secure continent-wide expression of that expansion. Unfluted leaf-shaped Paleo-Indian points also occur in the Rockies and along the spine of the Americas to Argentina (fish-tailed types in South America) — concurrent regional variants, not replacements of the fluted core. Followed by [[folsom-culture]] on the Plains (later, more limited fluted derivative). Part of [[paleoindian-and-archaic-north-america]].
+
+*Source: [[sources/cambridge-history-native-peoples-americas-v1-1]], ch. 3 (Snow).*

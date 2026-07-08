@@ -7,9 +7,9 @@ period_coverage: [Late Antiquity, Early Middle Ages]
 region_coverage: [western-europe, northern-europe, mediterranean, north-africa, near-east, levant, anatolia, balkans, iberia, eastern-europe, central-asia]
 methodological_approach: [social, economic, comparative, archaeological, materialist]
 reliability_notes: "The definitive single-author comparative structural history of the post-Roman world, 400–800. Wickham (Oxford) delivers a materialist analysis grounded in exhaustive regional surveys of fiscal structures, aristocratic landowning and estate management, peasant societies and autonomy, rural settlement, urbanism, and systems of exchange. Heavy, systematic use of archaeology alongside documents to recover non-elite realities; deliberately international and anti-national-solipsist framing. Replaces Pirenne/Dopsch as the baseline paradigm for social-economic transformation. The scholarly deep source for the 'politics of land' thesis later distilled in Medieval Europe (2016). Exceptionally dense but authoritative; every major claim carries granular regional evidence. Complementary (and sometimes corrective) to narrative-focused works (NCMH I, CAH XIV, Sarris, Geary, Halsall)."
-pages_created: 0
-pages_updated: 0
-ingested: 2026-07-02
+pages_created: 10
+pages_updated: 48
+ingested: 2026-07-08
 tags: [source]
 ---
 
@@ -38,12 +38,6 @@ Wickham opens by diagnosing the absence of adequate interpretative paradigms for
 The book deliberately brackets cultural/religious/ritual variables (Christianisation, sanctity, gender representations, values) not because they are unimportant, but to provide a clean, comparable material framing against which those other dimensions can be set. "This book absolutely must not be read as a counterblast to the trend towards cultural history as a central element in contemporary historical scholarship, which is a trend I applaud."
 
 In the General Conclusions Wickham stresses that "variability is the point": "I have sought, not to provide ‘The Answer’, but the framing for answers, and generalizations that are consistently qualified by regional variation." The chosen variables (fiscal, aristocratic, peasant, settlement, urban, exchange) are offered as "a guide for others". Egypt and Francia repeatedly appear as the high points of complexity in their respective spheres; the tax/land divide after Rome separates the eastern Mediterranean from the rest, with Francia the richest aristocratic outlier in the North. 
-
-## Volume Synthesis Note (preliminary — will be expanded post-ingest)
-
-*Framing the Early Middle Ages* is the scholarly foundation document for the wiki's structural understanding of 400–800. Its greatest contribution is not any single fact but the disciplined comparative method and the demonstration that outcomes (state capacity, aristocratic dominance, peasant autonomy, exchange density) are systematically patterned by the interaction of the chosen variables across the three macro-regions. The later *Medieval Europe* (2016) is its accessible distillation; this book supplies the regional texture, the case studies, and the explicit methodological self-consciousness that the one-volume omits. Ingestion will ground all existing citations and add the granular evidence (especially from the peasant case-study chapters) that currently exists only at second hand. 
-
-Cross-tensions with NCMH I, the Merovingian Handbook, Sarris, and CAH XIV centre on the pace and completeness of fiscal simplification in the West, the relative weight of elite demand vs. broader exchange, and how far the Carolingian achievement represents a sustainable alternative path or a high point followed by renewed fragmentation. These will be recorded in the relevant controversy and process pages.
 
 ## Notes on Terminology (Wickham's explicit methodological discipline)
 
@@ -75,83 +69,66 @@ These definitions are load-bearing for the entire comparative enterprise.
 
 **Concepts** (core Wickham vocabulary): [[politics-of-land]], [[bipartite-manor]] (and other manor/estate concepts), existing peasant, village, aristocracy, exchange, city, state-form, public-power pages; create complements only when Wickham's regional specificity adds a genuinely new analytic object (e.g. specific "Egyptian Red Slip" or "African Red Slip" exchange systems, or "Appennine valley peasant autonomy")
 
-**Actors** (major entities that appear structurally): [[byzantine-empire]], [[abbasid-caliphate]], [[carolingian-empire]], [[merovingian-kingdom]] / [[clovis]], [[lombards]] / Lombard kingdom, [[visigothic-kingdom]], [[ostrogothic-kingdom]], [[francia]], regional aristocracies when named as coherent groups
+**Actors** (major entities that appear structurally): [[byzantine-empire]], [[abbasid-caliphate]], [[umayyad-caliphate]], [[carolingian-empire]], [[merovingian-franks]] / [[clovis]], [[lombards]], [[visigoths]], [[ostrogoths]], [[francia]], regional aristocracies when named as coherent groups
 
-**Places**: [[francia]], [[italy]], [[gaul]], [[roman-gaul]], [[egypt]], [[roman-egypt]], [[syria]], [[levant]], [[constantinople]], [[rome]], [[britain]], [[roman-britain]], [[ireland]], [[spain]], regional settlement sites from Ch. 7–8 case studies only when they warrant dedicated treatment (most will be mentioned inside process or concept pages)
+**Places**: [[francia]], [[italy]], [[roman-gaul]], [[roman-egypt]], [[roman-syria]], [[constantinople]], [[rome]], [[roman-britain]], [[ireland]], [[hispania]], [[denmark]], case-study sites [[lucca]], [[vorbasse]], [[limestone-massif]], [[aphrodito]], [[jeme]] (most other micro-regions mentioned inside process or concept pages)
 
-**Events** (only if Wickham gives them structural causal weight beyond narrative): use existing [[events/]] for major transitions; most of Wickham's material updates processes and concepts rather than creating new discrete event pages.
+**Events** (structural weight): [[fall-of-the-western-roman-empire-476]], [[umayyad-conquest-of-hispania-711]], [[bagaudae-peasant-revolts]], [[stellinga-revolt-841]]; most of Wickham's material updates processes and concepts rather than creating new discrete event pages.
 
 **Sources already ingested** (cross-reference for tension/synthesis): [[cameron-cah-v14-2000]], [[fouracre-ncmh-v1-2005]], [[effros-moreira-oxford-handbook-merovingian-world-2020]], [[sarris-empires-of-faith-2011]], [[wickham-medieval-europe-2016]], Geary *Before France and Germany*, Halsall, McCormick *Origins*, etc.
 
 When creating or updating, always cite specific chapter for grounding. Prefer Wickham's precise regional qualifiers ("in Francia...", "in the Limestone Massif...", "in the northern Appennines...") over global claims.
 
-## Anticipated Impact
+## Anticipated Impact (fulfilled)
 
-This ingest is expected to be **interpretive-layer + grounding** rather than mass page creation:
-- Deepen [[politics-of-land]], [[post-roman-transformation-of-the-west]], [[carolingian-economy]], [[demonetisation-of-the-post-roman-west]] with Wickham's full regional evidence and qualifications.
-- Add or refine many micro-regional peasant and exchange concepts from the case-study chapters.
-- Strengthen Historiography sections on early-middle-ages and late-antiquity pages with Wickham's explicit anti-Pirenne, anti-Dopsch, pro-comparative, materialist stance.
-- Update controversy pages (fall of Rome / transformation, feudal revolution roots, Pirenne thesis) with direct citations.
-- Provide the primary scholarly warrant for many statements currently attributed only via the 2016 distillation or via CAH/NCMH summaries.
+Interpretive-layer + grounding ingest completed 2026-07-08:
+- Deepened [[politics-of-land]], [[post-roman-transformation-of-the-west]], [[carolingian-economy]], [[demonetisation-of-the-post-roman-west]] with full regional evidence.
+- Added core analytical complements: [[tax-based-vs-land-based-states]], [[peasant-mode-of-production]], [[aristocratic-demand]] (plus existing [[konigsnahe]], [[bipartite-manor]]).
+- Strengthened Historiography on [[early-middle-ages]], [[late-antiquity]], [[early-middle-ages-britain-ireland]].
+- Updated controversies: [[pirenne-thesis]], [[causes-of-the-fall-of-the-western-roman-empire]], [[fall-of-rome-causes]], [[feudal-revolution-debate]].
+- Case-study places: [[lucca]], [[vorbasse]], [[limestone-massif]], [[aphrodito]], [[jeme]]; peasant revolt events [[bagaudae-peasant-revolts]], [[stellinga-revolt-841]].
+- Grounded structural treatments of major polities (Byzantium, Umayyad/Abbasid, Merovingian/Carolingian, Lombards, Visigoths, Ostrogoths) and regional places (Francia, Italy, Egypt, Syria, Africa, Britain, Ireland, Denmark, Hispania).
 
-New pages will be created only where Wickham supplies a distinct, citable object (specific peasant societies, exchange hegemonies, aristocratic management regimes) not yet modelled in the wiki.
+## Volume Synthesis Note
 
-**Range 03 (Ch. 4 Aristocracies) integrated (main thread):**
-- Refined [[politics-of-land]] (Ch. 4 detail: landed wealth mechanism, transactional/scattered estates, Adelslandschaft by 600 in Francia).
-- Updated [[post-roman-transformation-of-the-west]] (militarization post-500 West/650 East; end of otium/villa culture; *cingulum*; *conviva regis* / *Königsnähe*).
-- Updated [[early-middle-ages]] (Historiography), [[gaul]], [[francia]], [[italy]] (dense Frankish landowning vs. Italian localization; Bertram will >100 estates; ceramic/will counter-evidence to extreme discontinuity).
-- Proposed complement: [[konigsnahe]] (royal proximity criterion, transactional at margins).
+*Framing the Early Middle Ages* is now the wiki’s primary scholarly warrant for the **structural** history of 400–800. Its contribution is not a single narrative of “decline” or “continuity” but a disciplined comparative vocabulary—tax vs land states, aristocratic wealth and demand, peasant collective autonomy, settlement pattern, urbanism, exchange—applied across ten regions with systematic regional qualification.
 
-**Range 04 (Ch. 5a Managing the land) integrated (main thread, 18 claims):**
-- Updated [[bipartite-manor]] (labour service and demesnes rare immediately post-Roman; systemic break with late Roman direct control; full bipartite only late 8th c. northern Francia/northern Italy).
-- Refined [[politics-of-land]] (exchange opportunities drive intensification — accounting, surveillance, cash-cropping, wage labour on demesnes; simplification when exchange contracts).
-- Updated [[post-roman-transformation-of-the-west]] (simpler tenant-rent extraction dominant after c.600/650–700; oral registration; “little islands” of direct control).
-- Updated [[early-middle-ages]] (land management section + Historiography paragraph on estate evidence, Apions, Diego Álvaro slates, regional localization except Francia; also added to late-antiquity coverage).
-- Italy/Spain/Egypt detail: highly localized city-territory landowning (Italy/Spain); Apion estates (organized accounts, wage labour, autourgiai, Nile shipping) contract post-640; active land market better documented in Italy.
-- Francia exception: larger-scale dispersed landowning sustained sub-regional exchange.
+**Seven trends (General Conclusions)** now structure the Early Middle Ages historiography page: (1) nearly universal fiscal simplification (with eastern regionalized survival); (2) relative aristocratic weakness except Francia and the Levant; (3–4) greater peasant autonomy (including a usable peasant mode of production) and militarized aristocratic identity; (5–6) increased regional divergence and social fluidity; (7) the end of Roman imperial unity as the underlying hinge (West 5th c.; East 7th), without facile catastrophism. Egypt and northern Francia emerge as poles of economic complexity for different reasons (fiscal state vs dense landowning aristocracies substituting for tax).
 
-**Ranges 05–12 (Part II late, Part III peasant/settlement case studies, Part IV cities/exchange + Ch. 12) integrated (main thread ongoing; key claims):**
-- [[bipartite-manor]] (detailed chronology: marginal pre-700, Francia late 8th c. Seine–Rhine core linked to exchange; Italy 730s as subjection marker; no continuous genealogy).
-- [[carolingian-economy]], [[carolingian-aristocracy]] (northern Francia exchange second only to Nile; aristocratic land scale compensated for absent fiscal system; stability after 5th-c. dip, 8th-c. upturn via Mayen/Badorf).
-- Multiple new place pages for case studies (e.g. [[lucca]], [[vorbasse]], [[limestone-massif]], [[aphrodito]], [[jeme]], [[sykeon]], [[scythopolis-bet-shean]] etc. as warranted for granularity) + updates to [[italy]], [[gaul]], [[francia]], [[egypt]], [[syria]], [[spain]], [[britain]].
-- [[early-middle-ages]] and [[late-antiquity]] (Historiography, major developments: regional divergence post-7th c., three groupings, tax/land as key divide, 8th c. localization low point for different reasons East/West, Wickham framing vs. Pirenne).
-- [[post-roman-transformation-of-the-west]] and exchange processes (detailed sub-regional models, demonumentalization, ceramic proxies for demand, peasant autonomy varying by fragmentation).
-- [[byzantine-empire]] (fiscal coherence paradox, state as structuring device for exchange/aristocracy).
-- New or refined concepts for eastern village society, aristocratic demand as motor, tax vs. land exchange bases, tribal-to-aristocratic transition, etc.
+**Cross-tensions with prior ingests.** Vs [[pirenne-thesis]]: Wickham rejects luxury-commerce and “without Mahomet, no Charlemagne” metanarratives in favour of **internal bulk demand** driven by aristocratic and (where present) fiscal structures. Vs NCMH I / transformationist readings: he insists on a real structural break (fiscal collapse, material-culture simplification) while refusing ethnic or invasion monism. Vs Sarris: complementary fiscal materialism, but Wickham’s comparative regionalisation and aristocratic-demand motor for western exchange give a broader frame. Vs 2016 *Medieval Europe*: this book supplies the regional texture and method of which the later volume is the distillation.
 
-Pages created/updated count rising rapidly; full tally post full reconciliation. All claims quote-grounded from assigned slices only; links to known or explicitly proposed NEW (main deduped).
+## Pages Created (10)
 
-## Volume Synthesis Note (to be completed after full ingest)
+| Page | Type |
+|---|---|
+| [[tax-based-vs-land-based-states]] | concept |
+| [[peasant-mode-of-production]] | concept |
+| [[aristocratic-demand]] | concept |
+| [[limestone-massif]] | place |
+| [[vorbasse]] | place |
+| [[aphrodito]] | place |
+| [[jeme]] | place |
+| [[lucca]] | place |
+| [[bagaudae-peasant-revolts]] | event |
+| [[stellinga-revolt-841]] | event |
 
-*Framing the Early Middle Ages* supplies the empirical and conceptual bedrock for the wiki's treatment of 400–800 as a period of **structurally differentiated simplification and re-formation**, not uniform "decline" or uniform "continuity." Its central contribution is the disciplined comparative vocabulary and the repeated demonstration that the tax/land divide, aristocratic density, and peasant collective capacity vary systematically by region in ways that explain political and economic outcomes better than narratives of ethnic migration or religious change alone. The work is already cited extensively via secondary routes; this ingest grounds those citations directly and adds the granular regional texture that only this book provides.
+## Pages Updated (48 major)
 
-Cross-tensions with prior ingests (NCMH I, Merovingian Handbook, Sarris) centre on the relative weight of elite demand vs. broader exchange, the dating and geography of "simplification," and how far Carolingian public politics represents a viable alternative path rather than a doomed experiment. These will be recorded explicitly in the relevant process and controversy pages.
+**Concepts:** politics-of-land, bipartite-manor, konigsnahe, feudalism, urbanism, settlement-archaeology, carolingian-aristocracy, theme-system  
+**Processes:** post-roman-transformation-of-the-west, demonetisation-of-the-post-roman-west, carolingian-economy, merovingian-economy, merovingian-rural-settlement, merovingian-cities, end-of-the-roman-villa, cross-channel-exchange-britain-and-gaul, scandinavian-peasantry, scandinavian-urbanisation  
+**Periods:** early-middle-ages, late-antiquity, early-middle-ages-britain-ireland  
+**Controversies:** pirenne-thesis, causes-of-the-fall-of-the-western-roman-empire, fall-of-rome-causes, feudal-revolution-debate  
+**Actors:** byzantine-empire, umayyad-caliphate, abbasid-caliphate, carolingian-empire, merovingian-franks, lombards, visigoths, ostrogoths  
+**Places:** francia, roman-gaul, italy, rome, constantinople, roman-egypt, roman-syria, roman-africa, roman-britain, ireland, denmark, hispania, oxyrhynchus  
+**Events:** fall-of-the-western-roman-empire-476, umayyad-conquest-of-hispania-711  
 
-## Ingestion Metadata
+## Ingestion Metadata (final)
 
-- Deployed Subagent Strategy (DEFAULT) + Large-Volume Protocol overlay.
-- Main-thread scaffold first (this page + key naming decisions + existing-page inventory).
-- Body split by logical Part boundaries (weighted for density in peasant and exchange chapters).
-- Atrocity/persecution content: none expected at chapter scale; any concentrated violence passages routed to main thread if encountered.
-- Source filed to: `raw/3. Middle Ages/` after completion.
-- Total pages created: ~18–28 (new micro-regional case-study places + 2–4 concepts/processes) | pages updated: ~50–70 (core processes, concepts, periods, actors, places with Wickham grounding; Range 04 added)
-- Subagent deployment: 12 ranges (Deployed Subagent Strategy). Main thread owns Introduction + Ch. 12 General Conclusions + all reconciliation, deduplication, cross-links, and synthesis. See /tmp/wickham_framing_cache/RANGES_MANIFEST.txt for exact line bounds. All subagents completed with high-fidelity, quote-grounded output (hundreds of claims across ranges). Integration in progress / partially complete (core theses, settlement models, exchange systems, peasant cases, tax/land framing).
-- Status: Scaffold + extraction complete; main-thread reconciliation + lint ongoing. Source will be filed to raw/3. Middle Ages/ on completion.
+- **Method:** Deployed Subagent Strategy, **two-stage variant** (dense prior EMA coverage): Stage-1 claims-only extraction → Stage-2 exclusive page-ownership integration.
+- **Word-count intake:** 511,518 words / 51,255 lines (~full OUP volume + apparatus; complete).
+- **Ranges:** 14 body ranges (R00 Intro + R14 Conclusions main-thread; R01–R13 agents including split Ch. 10). Cache: `/tmp/wickham_framing_cache/`. Claims: `/tmp/wickham_framing_claims/` (~509 claims).
+- **Atrocity triage:** N/A (structural/economic focus); 0 content-filter blocks.
+- **Lint:** schema validator clean on touched set; new pages 0 broken wikilinks; fixed `rome.md` / `fall-of-western-roman-empire` / `places/` hygiene on edited pages. Residual broken links on period pages (tournai, piast, etc.) are pre-existing.
+- **Filed to:** `raw/3. Middle Ages/`
+- **Status:** **COMPLETE** 2026-07-08. Pages created: **10** | pages updated: **48**.
 
-## Subagent Instructions — Curated Known Pages (link to these; propose NEW only for objects with no close existing match)
-
-**Core periods**: early-middle-ages, late-antiquity, early-middle-ages-britain-ireland
-
-**Core processes** (link/update these first): post-roman-transformation-of-the-west, demonetisation-of-the-post-roman-west, carolingian-economy, carolingian-aristocracy (and sibling carolingian-* and merovingian-* processes)
-
-**Core concepts** (Wickham's framework lives here): politics-of-land, bipartite-manor, and any existing pages on peasant society, village, estate management, aristocratic power, public power, exchange systems, urban continuity, fiscal state
-
-**Major actors** (use existing): byzantine-empire, abbasid-caliphate, carolingian-empire, merovingian-kingdom (or clovis for early), lombard-kingdom, visigothic-kingdom, ostrogothic-kingdom, francia (as actor/process overlap), justinian, heraclius, charles-martel and other early Carolingians
-
-**Major places** (use existing): francia, gaul, roman-gaul, italy, roman-italy, egypt, roman-egypt, syria, roman-syria, levant, constantinople, rome, britain, roman-britain, ireland, spain, north-africa
-
-**Other frequently referenced in this book**: any pre-existing pages on specific settlement archaeology (e.g. from Merovingian Handbook or Geary), specific exchange wares (ARS, ERS, etc. if pages exist), specific regions like Limestone Massif, Appennines, Nile Valley, northern Gaul, Denmark.
-
-When in doubt, link to the broadest matching page and qualify in text ("in the Limestone Massif villages documented by Tchalenko..."). Main thread will create any necessary narrow complements or redirects during reconciliation.
-
-Use the link taxonomy precisely: caused_by / preceded_by distinctions, part_of / contains, produced / enabled, etc. Ground every claim in verbatim quote + your range identifier.

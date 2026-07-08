@@ -8,81 +8,105 @@ period: ["High Middle Ages", "Late Middle Ages", "Early Modern"]
 region: [eastern-north-america]
 affiliated_with: []
 opposed_by: []
-key_events: []
-key_processes: ["[[southeastern-ceremonial-complex]]"]
-sources_ingested: 1
-last_updated: 2026-06-27
+key_events: ["[[de-soto-expedition-1539]]"]
+key_processes: ["[[southeastern-ceremonial-complex]]", "[[north-american-mound-building]]", "[[north-american-agricultural-transition]]"]
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, period-High-Middle-Ages, period-Late-Middle-Ages, period-Early-Modern, eastern-north-america]
 ---
 
 ## Overview
 
-Mississippian culture was a network of chiefdom societies that dominated much of the Eastern Woodlands of North America from approximately 800 CE to 1600 CE. Centered initially on the "American Bottom" stretch of the Mississippi Valley between modern St. Louis and Memphis, the Mississippian phenomenon spread over three centuries to encompass the broader Southeast — from the edge of the Great Plains to the Atlantic and Gulf Coasts. It was defined archaeologically by platform mound construction, maize-based intensive agriculture, ranked chiefdom political organization, and shared elite symbolism expressed through the Southeastern Ceremonial Complex. Mississippian societies were still thriving when Hernando de Soto launched his entrada (1539–1543). See also: [[cahokia]].
+Mississippian culture was a mosaic of agricultural [[chiefdom|chiefdom]] societies that occupied the river-valley floodplain corridors of the Eastern Woodlands of North America from approximately A.D. 800 to European contact. Bruce D. Smith (CHNPA I.1, ch. 5) treats them as the largest and most hierarchical indigenous societies north of Mexico, organized around flat-topped rectangular mounds and open plazas in often-fortified civic-ceremonial centers, with ranked clans holding inherited political and religious power, elaborate iconography (snakes, raptorial birds, costumed dancers, trophy heads), and maize-centered economies. The label spans more than seven centuries of substantial regional diversity; Smith stresses that as the mosaic comes into focus, all-encompassing characterizations become less useful. See also: [[cahokia]], [[american-bottom]], [[powers-phase]], [[moundville]], [[spiro]], [[etowah]], [[natchez]].
+
+Eastern U.S. pre-contact history has often been treated as peripheral to, or derivative of, Mesoamerica. Smith argues that, except for maize-centered agriculture (shared with the Southwest after A.D. 1000), Mississippian monumental architecture, hierarchical socio-political structure, and complex iconography distinguish these groups from other North American maize societies, and that their initial emergence and florescence (A.D. 800–1000) were **entirely independent of Mesoamerican influence** — an in situ socio-political transformation with clear regional continuities, not the simple introduction of crops, people, or innovative ideas from south of the border. Maize was “a new and powerful element of change,” not a prime mover of Mississippian culture in itself.
+
+## Terminological History
+
+William H. Holmes’s early-twentieth-century ceramic provinces identified a “Middle Mississippi” province of shell- or limestone-tempered vessels in the central Mississippi Valley. “Mississippian” subsequently became a general label for societies manufacturing such pottery over a broad eastern area from ~A.D. 800 to European contact. James B. Griffin (“Changing Concepts of Mississippian Cultures,” 1985) reviews a century of shifting perceptions and boundary conditions; Smith’s companion essay defines a basic Mississippian adaptive niche in eastern river-valley environments; Peebles and Kus (1977) supply archaeological correlates of ranked societies.
 
 ## Geographic Distribution and Regional Variants
 
-The heartland of Mississippian culture was the American Bottom of the central Mississippi Valley. From this core, chiefdom polities spread rapidly:
+With few exceptions, Mississippian settlements followed Eastern Woodlands river systems and floodplain corridors shaped by seasonal floods into meander belts of natural levees, oxbow lakes, and backswamps. Levee soils (sandy, well-drained, easily hoe-tilled, flood-renewed) suited corn; flood recession trapped fish; the Mississippi flyway supported massive waterfowl migrations; edge habitats supported deer, raccoon, rabbit, seed plants, and oak-hickory mast. The lower Mississippi alluvial valley (Ohio–Mississippi confluence to the Gulf; ~160 km wide near Memphis) was the most complex floodplain environment; outward into the Appalachians and Ozarks, valleys were scaled-down, with less abundant backswamp fish and migratory waterfowl — variability mirrored in regionally different subsistence.
 
-- By ~1000 CE, powerful chiefdoms lined the Mississippi from Illinois to Louisiana and along major tributaries
-- By ~1100 CE, chiefdom polities flourished in the Appalachians, eastern Texas, and the Gulf Coast
-- By ~1200 CE, they had spread to the Atlantic Coast, the northern prairies of Iowa, and northern Florida
+Projected language mosaic (Smith): Muskogean (Gulf Coastal Plain/Lower Mississippi), Iroquoian (Piedmont/southern Appalachians), Caddoan (southwestern fringe). Belief systems and developmental histories were largely independent; polities varied greatly in size and complexity.
 
-Regional variants developed distinct characters while retaining the core Mississippian diagnostic traits:
+Regional foci and case studies:
 
-- **Middle Mississippian** (heartland): centered on [[cahokia]] and the American Bottom; the largest and most complex polities
-- **Moundville** (Alabama): major center on the Black Warrior River near Tuscaloosa, thriving 1100–1450 CE; ~29 mounds across 75 ha; population ~1,000 at peak (~1200 CE); transitioned from residential center to necropolis by ~1300 CE
-- **Plaquemine** (lower Mississippi Valley): hybrid of local Troyville–Coles Creek traditions and Mississippian influences, arising ~1200 CE; included the historic Natchez, described in detail by eighteenth-century French explorers; persisted to the late seventeenth century
-- **Caddoan Mississippian** (eastern Oklahoma): centered on the Spiro site (prominent 1200–1400 CE), positioned as a trade entry point for goods and ideas from Mesoamerica; artifact evidence from Spiro includes obsidian sourced to the Pachuca highlands of Mexico and marine shells from the Gulf of California
-- **Etowah** (northwestern Georgia): six platform mounds on 21 ha; hosted a succession of cycling chiefdoms from ~1000 CE to ~1550 CE; yielded spectacular carved marble statues and embossed copper artifacts
+- **[[american-bottom]] / [[cahokia]]** — opposite end of the scale from small polities; largest and most complex Native American polity north of Mesoamerica (developmental cycle ~A.D. 900–1400).
+- **[[powers-phase]]** (SE Missouri, ~A.D. 1300) — Smith’s small-scale case; territory <25 km²; representative of the sizable majority of Mississippian societies.
+- **[[moundville]]** (just south of Tuscaloosa, Alabama) — best-preserved regional complex-chiefdom exemplar: small single-level center ~A.D. 1000; by ~1200 extended authority over neighbors, grew to >100 ha with twenty mounds around a 32-ha plaza.
+- **[[spiro]]** (Arkansas River valley, eastern Oklahoma) — modest surface plan but iconographically the richest Great Mortuary assemblage in eastern North America (~A.D. 800–1350).
+- **[[etowah]]** (north Georgia) — exemplar for elite copper plates of individuals in peregrine-falcon costume (long-distance copper working).
+- **[[natchez]]** and lower Mississippi Late Mississippian — Plaquemine-related chiefdom surviving into French documentation (Le Page du Pratz); Grand Village / Fatherland Site.
+- **Nodena / Pacaha** and neighbors (Bradley, Parkin/Casqui, Walls/Quizquiz, Belle Meade/Aquixo) — Late Mississippian polities south of the Vacant Quarter into the [[de-soto-expedition-1539|de Soto]] era.
+
+Earlier textbook surveys (e.g. Snow et al.) also distinguish Middle Mississippian heartland, Plaquemine, Caddoan Mississippian, and Atlantic/Gulf spread by ~1200 CE; Smith’s chapter weights river-valley environments and chiefdom scale-range over unitary culture packages.
 
 ## Political Organization
 
-Mississippian societies were organized as chiefdoms — polities with at least two or more levels of ranked integration, distinguished from tribes by permanent leadership hierarchies and from states by the absence of centralized craft production and market exchange. The defining organizational unit was a central mound site surrounded by a constellation of smaller tributary sites.
+Smith operationalizes Mississippian polities as midrange **[[chiefdom]]-level** societies (including regional-scale / “complex” chiefdoms), not as states — a position in the [[north-american-states-debate]] that even the largest polity ([[cahokia]]) fits unstable complex-chiefdom dynamics rather than state/empire models. Individual polities ranged from considerably under a thousand to thousands of people, each controlling specific river-valley homeland segments (levees, oxbows, backswamps) plus often extensive upland hunting buffers.
 
-Chieftains held power through a combination of charisma, coercion, religious authority, and control of surplus redistribution. They managed food storage, external trade, and ideological frameworks that justified hierarchy. Succession was managed by formal (often kinship-based) rules in successful chiefdoms; failure of succession was a primary cause of collapse.
+Mound centers were seats of socio-political power; plazas hosted feasts and ceremonies of social integration keyed to the seasonal cycle; flat-topped mounds supported corporate structures, including mortuaries displaying remains of important personages with status objects. Historical southeastern analogs sort abstract offices into three overlapping spheres: (1) mediation between society and cosmic forces; (2) internal management and social order; (3) external relations and defense. “Priests” (loose term) mediated cosmos, seasonal ceremonies, rites of passage, and care of the dead; secular power often concentrated in a chief residing on mound summits atop ranked-clan systems. Periodic mound enlargement elevated ranking clans physically and socially while building on descent from founding chiefs who first claimed floodplain land.
 
-Chiefdoms were inherently unstable and cycled in and out of existence. Internal factionalism, competition among subordinate leaders, and the demands of maintaining public confidence during droughts or floods all created structural fragility. The Natchez (a Plaquemine chiefdom) illustrate the complexity of Mississippian social structure: four ranked strata (Sun, Noble, Honored, Stinkard/commoner), strictly matrilineal descent, with the paramount chief (the Great Sun) succeeded by his sister's son to maintain the ruling matrilineage.
+**Chiefdom cycling**: over >700 years regional interaction was unstable — complex historical cycles of domination and decline. Some chiefdoms ([[cahokia]]) grew rapidly then declined almost as rapidly; others had slower multi-century trajectories; still others stayed in the same valleys while periodically relocating mound centers. Warfare was often chronic small-scale border raids reaffirming autonomy rather than expansion; tributary relations ranged from token tribute through seasonal agricultural demands to wholesale incorporation as a second tier in complex chiefdoms. Long-distance exchange moved almost exclusively prestige items for elite use/display (exception: Mill Creek Illinois chert agricultural hoes, recovered up to ~700 km from quarry, mostly within ~200 km).
+
+Whether any Mississippian polity crossed into state organization remains contested; positions and arguments live on [[north-american-states-debate]] and [[chiefdom]] / [[band-tribe-chiefdom-state]] — this page does not adjudicate.
+
+The historic [[natchez]] (four ranked strata; matrilineal Great Sun succession in French accounts) illustrate surviving Late Mississippian social complexity at contact.
 
 ## Economy and Subsistence
 
-The economic foundation was intensive maize agriculture. By 750 CE, improved maize varieties had been elevated to staple crop status in the Mississippian region, having arrived from Mesoamerica through multiple trade routes. Maize had previously required up to 200 frost-free days; early improved varieties were sufficiently adapted to the Southeast to support dense populations. The dietary shift to maize is archaeologically detectable through elevated ¹³C ratios in skeletal assemblages and characteristic dental pathologies (caries, tooth loss, abscesses from sticky carbohydrate-rich diets).
+Maize introduced into eastern North America by ~A.D. 200 remained a minor crop within premaize indigenous seed-crop systems (squash *Cucurbita pepo*, chenopod, knotweed *Polygonum erectum*, marsh elder) until ~A.D. 900–1000; stable carbon isotope analysis documents rapid dietary increase of maize then, correlated with Mississippian emergence. Multiple maize races farther south vs. a single eight-rowed type in northern latitudes; common bean present by A.D. 1000, important in some areas by A.D. 1200; pollen shows increased land clearance after A.D. 1000; use-polished stone hoes reflect simple levee farming technology.
 
-Women bore primary responsibility for farming. Fish (especially catfish impounded in oxbow lakes during spring floods) supplemented protein from deer. Beans arrived later than maize and are common only in later Mississippian sites; the maize–bean combination eventually provided complete protein.
+Within the Mississippi Valley and lower tributaries, migratory waterfowl and slackwater fish often contributed more than half of animal protein; white-tailed deer was the single most important animal species overall, then raccoon and turkey outside the flyway. Basic economic units were self-sufficient single-family farmsteads (often dual hot-season/cold-season houses, occupied <5–10 years) dispersed on natural levees — efficient resource access overridden by social centralization around mound–plaza centers.
 
-Craft production was household-level, not centralized. There is no evidence of craft specialization or markets of the Mesoamerican state type. Mill Creek chert hoes (manufactured near Cahokia) were widely traded as prestige farming tools. Down-the-line exchange moved elite luxury goods — marine shell, copper, exotic minerals — between chiefdom centers across the Southeast.
+Skeletal biology: dental caries rise dramatically after A.D. 1000; overall health does not generally decline as agricultural-impact theories predict; little difference in health between high- and low-status individuals in several large ranked polities. Mean age at death among Middle Mississippians ~25 (Cahokia/St. Louis area; range-06 disease-pool claim).
+
+Craft production was largely household-level. Prestige exchange used restricted exotic materials: Great Lakes/southern Appalachian copper; North Carolina mica; Illinois/Missouri galena; red bauxite figurines (Shiloh, [[spiro]], [[cahokia]]); engraved conch-shell cups, gorgets, maskettes from Atlantic/Gulf coasts; shell beads as a broader currency of mutual obligation and patronage–fealty. See [[southeastern-ceremonial-complex]].
 
 ## Architecture and Technology
 
-The most diagnostically Mississippian feature is the **platform mound** (temple mound). These flat-topped earthen constructions served as platforms for elite residences, council houses, charnel houses, and temples. Mounds were built in stages, each new episode enlarging the platform and symbolically legitimizing the successor's authority. Plazas adjacent to the principal mounds served as venues for public ritual, games (including chunky), and political assembly.
+Diagnostic shared attributes (Smith): shell- or limestone-tempered ceramic suite (storage/cooking jars, water bottles, large flat “pans,” serving bowls); small triangular arrow points; rectangular wall-trench or single wall-post houses with thatch roofs and cane wattle (sometimes clay-covered); nuclear/extended families of ~5–10 as basic unit; fortified ceremonial centers with flat-topped earthen mounds around plazas.
 
-Chiefdom towns featured:
-- Log **palisades** with bastions for defense, increasingly common 1200–1400 CE
-- **Wattle-and-daub** houses with thatch roofs for the general population
-- **Subterranean storage pits** and above-ground granaries
-- **Charnel houses** on some mound platforms for elite ancestral remains — periodically cleaned and the bones relocated
+Mississippian central settlements: flat-topped rectangular mounds of basket-loaded earth around plazas; Monks Mound at [[cahokia]] is the largest (6.5 ha base, 30 m high) but most mounds are modest, with layer-cake sequential enlargement/renewal; centers range <4 to >100 ha, often with fortification wall and ditch; occupation often a century or more with complex middens, palisade rebuilds, and fluctuating habitation as families were drawn in for defense, ceremonies, and elite burials. Non-mortuary mound construction had begun modestly by A.D. 800; by ~A.D. 1000 reorganization around plaza–mound complexes was evident over a broad eastern expanse — part of [[north-american-mound-building]].
 
 ## Ceremonial Life and Art
 
-The **Southeastern Ceremonial Complex** (also called the "Southern Cult") was the shared symbolic system connecting Mississippian elites across the Southeast after ~1000 CE. Distributed through elite exchange networks, its artifacts include embossed copper plates, carved marine shell gorgets, ceramic effigies, and stone palettes. Recurring iconographic themes include warriors carrying trophy heads, falcon imagery (the "forked-eye" motif), weeping-eye designs, and hand-and-eye symbols.
+Elite prestige objects and shared iconography constitute the archaeological core of the [[southeastern-ceremonial-complex]]. Smith’s Spiro analysis divides shell art into Craig (cosmic mediation) and Braden (warfare and death) schools; ethnohistoric analogy to a tripartite southeastern cosmos (upper world / this world / underworld) frames ritual balance.
 
-Mound 72 at Cahokia contained direct evidence of human sacrifice: two high-ranking individuals buried with thousands of marine shell beads; nearby pits holding approximately twelve sacrificed adults. Similar practices were documented historically among the Natchez.
+**Mound 72 at [[cahokia]]** (full archaeological record, Smith): built over a disused woodhenge just south of Monks Mound; central-precinct elite mortuary in related burial episodes; a personage of paramount importance distinguished by location and burial furniture; accompanied by lower-status elite and by a group of **young female retainers who were sacrificed and interred in a mass grave** over a woodhenge post pit. Lower-order elite facilities (e.g. Wilson Mound west of Cahokia: bundle burials with marine whelks and shell beads) are clearly differentiated from nonelite burials by location and elaboration. (Snow et al. report related sacrificial pit assemblages at the same mound complex; numbers and pit counts vary by excavation report.)
 
-The ritual drink "Black drink" — made from Ilex vomitoria (holly), heavily caffeinated and emetic — was used by adult males for ritual purification before battle. The game of chunky (rolling a pill-shaped stone across a field, players throwing spears to mark where it would stop) was a prominent communal sport linked to social alliance.
+Black drink (*Ilex vomitoria*) and chunky remain ethnohistorically and archaeologically associated with Mississippian elite and communal ritual.
 
 ## Decline and Legacy
 
-Climatic deterioration drove the collapse of Middle Mississippian chiefdoms. The Medieval Climate Anomaly (ca. 950–1250 CE) had facilitated intensive maize agriculture and population growth. From ~1250 CE, changing conditions brought political instability and intensified warfare. A severe warm-season drought (1350–1450 CE) caused widespread abandonment of urban centers across the Midwest. Cahokia was abandoned around 1400 CE.
+Over >800 years individual polities followed distinct, often cyclical rise/decline pathways. Two different decline horizons must be kept distinct:
 
-The "vacant quarter" left by the collapse of Middle Mississippian chiefdoms in the American Bottom was not reoccupied by Europeans who passed through in the late seventeenth century. Former Mississippian populations — primarily Siouan speakers — fragmented into smaller political units, relocated, and many eventually adopted horses and mounted nomadism on the Great Plains.
+1. **Vacant Quarter (pre-contact interior collapse)**: after ~A.D. 1400, well before European explorers or introduced diseases, the central Mississippi Valley saw dramatic widespread decline and abandonment for reasons unknown — stretching north from the Ohio–Mississippi confluence as far as the American Bottom/Cahokia and south almost to the Arkansas–Missouri line, plus upstream along the Tennessee and Cumberland. Post-1400 groups there were small, without large villages or mound centers (Williams 1990 in Smith’s bibliographic essay). [[cahokia]]’s florescence had already largely fragmented by A.D. 1150–1200 with large-scale American Bottom depopulation (suggested factors: rising groundwater reducing farmland; firewood depletion); aftermath A.D. 1200–1300 was floodplain abandonment and smaller upland stream-valley polities, not a simple return to equal mound societies.
 
-In the Southeast, epidemics introduced by the de Soto entrada (1539) and subsequent European contact devastated the remaining chiefdoms. Refugee populations from Muskogean-speaking nations coalesced into the historic Creek confederacy. The Cherokees (distant Northern Iroquoian relatives) consolidated from ~30–40 independent chiefdoms under European pressure. Most surviving Southeastern nations were forcibly relocated to Oklahoma under the Indian Removal Act of 1830.
+2. **Sixteenth-century European contact**: introduced a dominant uniform trend of rapid socio-political decline. European diseases and (to a lesser extent) cultural domination devastated eastern Native societies, causing rapid nearly universal disappearance of chiefdom-level organizations within ~100 years in most of the Southeast (*caused_by* disease primarily, domination secondarily — Smith’s ranking; concurrent with [[virgin-soil-epidemics]] and [[sixteenth-century-north-american-contact]]). South of the Vacant Quarter, Late Mississippian polities (Nodena/Pacaha and neighbors) flourished into the sixteenth century until the [[de-soto-expedition-1539|de Soto entrada]]; consolidation into larger fortified settlements increased epidemic vulnerability. Tellico/Toqua (Little Tennessee) shows post-1540 palisade reduction, settlement shrinkage, and multiple burials. Marvin T. Smith’s interior Southeast archaeology: disease disrupted chiefdoms, forced town abandonment, and regrouped refugee-survivors into new confederated polities ([[creek-muscogee|Creeks]], [[cherokee-nation|Cherokees]], Catawbas) — cultural traditions and preference for formal towns continued, but complex chiefdoms with large ceremonial centers did not reappear.
+
+Pre-contact Southeast was not uniformly collapsing: some areas decentralized as Late Mississippian centers were abandoned, while other groups (e.g. Coosa of Georgia, Powhatan of Virginia) appear to have been consolidating at contact (range-06). The [[natchez]] chiefdom survived through the seventeenth century well into the eighteenth.
 
 ## Historiography
 
-**Source quality**: The Mississippian period is substantially documented through archaeology (mound excavations, ceramic sequences, isotope analysis of skeletal material) and through sixteenth-century Spanish documentary sources (the de Soto chronicles) and seventeenth–eighteenth-century French observations of the Natchez and other surviving Plaquemine groups. Archaeological evidence is generally strong; documentary sources are geographically and chronologically limited.
+**Source quality**: Documented through archaeology (mound excavations, ceramic sequences, stable-isotope skeletal analysis, settlement survey) and through sixteenth-century Spanish accounts (de Soto chronicles) and seventeenth–eighteenth-century French observations of the Natchez and other lower Mississippi groups. Archaeological evidence is generally strong; documentary sources are geographically and chronologically limited. Language, belief, kinship, and political structure leave little hard archaeological residue — early historical southeastern accounts supply analogy (Smith).
 
-**Scholarly debates**: The scale and political complexity of Mississippian societies has been actively debated. Whether Cahokia constituted a state or a complex chiefdom remains contested. The origins of the Southeastern Ceremonial Complex — whether it represents a coherent religious "cult" with shared doctrine, or a looser network of shared elite prestige goods — is debated. The nature and directionality of Mesoamerican influence (earthen pyramids, symbols) versus independent development is an ongoing discussion; trace element analysis of obsidian from Spiro confirms at least some direct Mesoamerican connections.
+**Scholarly debates**:
+- **[[north-american-states-debate]] / [[chiefdom]]**: scale and political complexity of Mississippian societies — especially whether [[cahokia]] was a state/empire or an unstable complex chiefdom. Smith judges claims of vast Cahokian size, complexity, and socio-political reach “often greatly overdrawn.”
+- **[[southeastern-ceremonial-complex]]**: unified cult with shared doctrine vs. looser elite prestige-goods repertoire; Craig–Braden style divisions (Brown in Galloway ed. 1989).
+- **Mesoamerican influence vs. independent development**: Smith’s chapter is a strong statement of in situ independence for architecture, hierarchy, and iconography (maize excepted as a crop package). Other literature reports limited exotic connections (e.g. Pachuca obsidian claimed at Spiro in some surveys) — treat as contested and source-attributed, not as a single wiki-voice derivation thesis.
+- **Vacant Quarter causes**: unknown in Smith’s account; do not collapse into post-contact epidemic narratives.
 
-**Dating methods**: Primarily radiocarbon, supplemented by dendrochronology and ceramic typology. The Medieval Climate Anomaly correlation with Mississippian florescence is based on paleoclimate proxies including lake sediment records.
+**Dating methods**: Primarily radiocarbon, ceramic typology, and settlement sequence; paleoclimate proxies used in secondary literature for drought/flood correlations.
 
-**Source**: [[snow-gonlin-siegel-archaeology-native-north-america-2020]]
+**Key sources**: Bruce D. Smith, “Agricultural Chiefdoms of the Eastern Woodlands,” in [[cambridge-history-native-peoples-americas-v1-1|CHNPA I.1]] (1996), ch. 5 — primary synthesis for this page’s Smith-attributed claims; [[snow-gonlin-siegel-archaeology-native-north-america-2020]]; bibliographic anchors include Griffin 1985, Peebles & Kus 1977, Milner on the American Bottom, Phillips & Brown on Spiro shell engravings.
+
+## Related
+
+- [[cahokia]] · [[american-bottom]] · [[powers-phase]] · [[moundville]] · [[etowah]] · [[spiro]] · [[natchez]]
+- [[southeastern-ceremonial-complex]] · [[north-american-mound-building]] · [[north-american-agricultural-transition]] · [[maize-domestication]]
+- [[chiefdom]] · [[band-tribe-chiefdom-state]] · [[north-american-states-debate]]
+- [[de-soto-expedition-1539]] · [[virgin-soil-epidemics]] · [[sixteenth-century-north-american-contact]]
+- [[cambridge-history-native-peoples-americas-v1-1]] · [[snow-gonlin-siegel-archaeology-native-north-america-2020]]

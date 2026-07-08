@@ -58,8 +58,23 @@ the slave/free line was permeable. Yet, as [[cobb-slavery-gender-luke-acts-2019|
 stresses, the dehumanizing logic — slave-as-body, truth-by-torture — was real and shaped
 the texts of early Christianity, including [[luke-acts|Luke-Acts]].
 
+## The Divjak Letters: the African Slave Trade of the 420s
+
+The **Divjak letters** of **[[augustine-of-hippo|Augustine]]** (found 1975) supply rare
+first-hand documentation of an active slave trade in late-Roman Africa. In 422–423 kidnappers
+and slave-traders — "dressed up as soldiers and barbarians to inspire fear," raiding remote rural
+areas with "ululating war-cries" — carried off **free Roman peasants** from around
+**[[hippo-regius|Hippo]]** to be sold to the labour-starved estates of Italy and southern Gaul.
+The Christians of Hippo ransomed some 120 captives, and Augustine personally interviewed a
+terrified kidnapped girl. The episode exposes the limits of episcopal power against "the world":
+when the bishop's staff tried to interrupt the trade they were sued by the merchants' well-placed
+protectors, and the only applicable anti-kidnapping statute prescribed a flogging so severe it was
+often lethal — so no bishop could invoke it without risking a death sentence. Augustine appealed,
+via Alypius at the imperial court, for the emperor to act: "who resists these traders... who
+traffick, not in animals but in human beings, not in barbarians but in loyal Romans?"
+
 ## Related
 
-[[slavery]] · [[slave-society]] · [[kyriarchy]] · [[enslaved-truth-teller]] ·
+[[augustine-of-hippo]] · [[hippo-regius]] · [[slavery]] · [[slave-society]] · [[kyriarchy]] · [[enslaved-truth-teller]] ·
 [[gender-history]] · [[origins-of-christianity]] · [[christianization-of-the-roman-empire]] ·
 [[roman-empire]] · [[cobb-slavery-gender-luke-acts-2019]]

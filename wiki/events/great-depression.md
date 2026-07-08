@@ -7,8 +7,8 @@ period: [World Wars Era]
 region: ["north-america", "western-europe", transregional]
 causes: [the Wall Street Crash of 1929, "structural weaknesses of the post-WWI economy", the rigid gold standard, debt and the collapse of world trade]
 consequences: [mass unemployment, the collapse of world trade, the rise of economic nationalism and state intervention (the New Deal), the rise of fascism/Nazism, the road to the Second World War]
-sources_ingested: [3]
-last_updated: "2026-07-02"
+sources_ingested: [4]
+last_updated: "2026-07-03"
 tags: [event, "world-wars-era", "north-america"]
 event_type: [economic]
 location: [the United States and the world economy]
@@ -33,8 +33,11 @@ rise of **fascism** and the road to the Second World War. From
 ## Narrative
 
 The **Wall Street Crash (October 1929)** — coinciding, as NCMH XII notes, with the death of
-Stresemann — detonated a downturn that the fragile post-war economy could not absorb. American
-lending dried up, and the **debt-and-reparations** structure linking the US, Germany, and the
+Stresemann — detonated a downturn that the fragile post-war economy could not absorb. 
+
+Sorkin (2025) supplies granular day-by-day reconstruction of the US side using previously unavailable Fed NY board minutes, Lamont papers, and an unpublished insider memoir. Key mechanics: Mitchell of National City publicly pledged unlimited call-money support in March 1929 (“we will continue to loan money on the Stock Exchange at the going rate, no matter how high that rate may go”), drawing sharp Fed and congressional criticism; a Morgan-led bankers’ pool committed $120 million on Black Thursday (24 Oct) with Richard Whitney executing dramatic floor buys (“Ten thousand at two-oh-five”); Mitchell attended crisis meetings at Bernard Baruch’s home after Black Tuesday (29 Oct, 16.4 million shares traded). The pool and coordinated statements failed to halt the collapse. Mitchell became the chief public scapegoat, resigned in 1933, faced (and was acquitted of) tax-evasion charges, while the Morgan partners’ Pecora testimony (no income tax paid 1931–32, “preferred list” clients) accelerated the regulatory reckoning that produced the SEC and Glass-Steagall.
+
+American lending dried up, and the **debt-and-reparations** structure linking the US, Germany, and the
 Allies unravelled. Bank failures (the 1931 collapse of Austria's Credit-Anstalt and the German
 banking crisis) spread the contagion; the **gold standard** transmitted deflation worldwide
 before states abandoned it. World trade fell by roughly two-thirds; industrial output and

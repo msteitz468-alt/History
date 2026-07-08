@@ -29,3 +29,18 @@ Detailed content and claims to be populated from CHCW Vol. III (Coatsworth chapt
 - [[leffler-westad-cold-war-v3]]
 - [[cold-war]]
 - [[revolutions-of-1989]] (comparative)
+
+## Covert War and Counterinsurgency (McCoy)
+
+[[mccoy-cold-war-five-continents-2024|McCoy (2024)]] frames the region's 1980s civil
+wars as a US covert-war zone whose intensification he ties to the Reagan Doctrine:
+Guatemala (~200,000 dead, incl. Ríos Montt's 1981–83 highland Maya genocide),
+El Salvador (~94,000 dead; the "fourteen families" oligarchy, ORDEN/death squads,
+Archbishop Óscar Romero's 1980 assassination, El Mozote, US adviser Col. James
+Steele), and Nicaragua (~30,000 dead in the Contra war). He traces the CIA-trained
+Honduran Battalion 316 and its ~300 killings, the [[covert-action|covert]] KUBARK
+torture lineage, and the full **Iran-Contra affair** (the Boland Amendments, Oliver
+North's "enterprise," the arms-for-hostages sales, the Hasenfus shoot-down, and the
+Walsh prosecutions ending in Bush's 1992 pardons). See
+[[cold-war-proxy-wars|Cold War proxy wars]]; McCoy's causal framing is recorded on
+[[mccoy-covert-empire-thesis|his controversy page]].

@@ -83,3 +83,5 @@ sovereignty in 1525.
 - `concurrent_with:` the German **Ostsiedlung** noted in [[frederick-ii-hohenstaufen|the Empire]] and the [[central-european-kingdoms|Piast]] lands.
 - `opposed_by:` the pagan Prussians and the Lithuanians; `affiliated_with:` the papacy and the Empire.
 - Comparison: [[frontier-societies-and-core-expansion]] (Baltic frontier response).
+- `part_of:` the [[baltic-crusades|Baltic Crusades]] — the wider process of which the Order's Prussian state was the central product; see [[medieval-frontier]] and Mažeika's study of the religious frontier (chroniclers, including the Order's own, "granted power to enemy gods") in *[[abulafia-berend-medieval-frontiers-2002|Medieval Frontiers]]*.
+- Note: the Order was briefly settled in Hungary's Burzenland by [[hungary-arpad|Andrew II]] in 1211 and **expelled in 1225** for seeking direct papal subordination — a precedent for its later Prussian statehood (Berend, *Medieval Frontiers*).

@@ -5,8 +5,8 @@ origin: the racial-hierarchical ordering of colonial Spanish America and Brazil 
 applies_to_periods: [Early Modern, Age of Expansion]
 applies_to_regions: [mesoamerica, andes, caribbean, atlantic-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -88,10 +88,30 @@ The system's afterlife — *mestizaje* ideology, persistent colorism — makes i
 subject in modern Latin American identity. It is inseparable from the
 [[black-legend|moral debate]] over colonial rule.
 
+## Ethnic reclassification in MacLeod (CHNPA II.2)
+
+Beyond formal colonial casta ideology, Murdo J. MacLeod
+([[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] Ch. 12) stresses
+**ongoing reassignment of ethnic categories** across the colonial and national centuries.
+As long as specific burdens such as the head tax or labor drafts were assigned on the basis
+of being Indian, there was considerable incentive to escape that category. Dress, diet,
+language, urban residence, and occupation also led people to be reassigned to new ethnic
+classifications. Twentieth-century authorities sometimes paternalistically assigned Indian
+status for political reasons. Confusion between **peasant** and **Indian** categories
+undermines census series (see also Van Young’s western Mexico work). Relative “decline” of
+Indians in nineteenth-century Mexico may partly be **reclassification and proletarianization**
+rather than mortality alone: MacLeod’s impressions put Mexico at independence slightly over
+6 million (perhaps half indigenous), by the Reforma ~7.8 million total but indigenous only
+about one-third, and by 1910 total just over 15 million with the native component still under
+3 million ([[colonial-mesoamerica-native-peoples]]).
+
 ## Related
 
 - [[colonial-latin-america]] — the colonial order the castas structured.
+- [[colonial-mesoamerica-native-peoples]] — long-run ethnic proportions and reclassification.
 - [[encomienda]] — the labor regime that the racial hierarchy ordered.
 - [[atlantic-slave-trade]] — the source of the African component.
 - [[hacienda]] — the rural world where race and class most tightly aligned.
 - [[spiritual-conquest-and-colonial-church]] — the Church that administered marriage, *cofradías*, and limpieza.
+- [[indigenismo]] — twentieth-century state redefinition of the “Indian.”
+- [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]]

@@ -9,8 +9,8 @@ affiliated_with: [the [[julio-claudian-dynasty|Julio-Claudian house]]; the son o
 opposed_by: [the Senate (in tradition); his own kin and potential heirs; the praetorian officers who killed him]
 key_events: [accession (37), the alleged conspiracy of Lepidus and Gaetulicus (39), the abortive German and British expeditions (40), his assassination (41)]
 key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]
 ---
 
@@ -63,6 +63,17 @@ did not shift the responsibility for his own actions onto others."
 His murder created the first **succession crisis without an heir** — the Senate briefly
 debated restoring the Republic before the guard imposed his uncle **[[claudius]]**, proving
 where power now lay: with the *domus Caesaris* and the praetorians, not the Senate.
+
+## Beard (SPQR, 2015)
+
+Mary Beard pushes the source-critical caution further: the lurid tradition — incest, the
+horse Incitatus, the seashell-gathering soldiers (possibly a garbling of Latin *musculi*,
+"shells" or "military huts") — is "an inextricable mixture of fact, exaggeration, wilful
+misinterpretation and outright invention," largely constructed after Caligula's death "for
+the benefit of the new emperor, [[claudius|Claudius]]." Her sharpest formulation: "Gaius may
+have been assassinated because he was a monster, but it is equally possible that he was made
+into a monster because he was assassinated." She treats his fall as illustrating a larger
+point about imperial memory — see [[roman-empire]].
 
 ## Related
 

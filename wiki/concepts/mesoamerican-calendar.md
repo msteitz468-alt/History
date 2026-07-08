@@ -5,9 +5,9 @@ origin: developed in Preclassic Mesoamerica (traceable to the Olmec/Zapotec, c. 
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [mesoamerica]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-10
-tags: [concept]
+sources_ingested: 2
+last_updated: 2026-07-08
+tags: [concept, mesoamerica]
 ---
 
 # The Mesoamerican Calendar and the Long Count
@@ -75,12 +75,74 @@ The **Aztec** (Mexica) equivalent of the Tzolkin was the **Tonalpahualli**, oper
 the same permutation principle. The Maya also understood lunar cycles and the cycle of
 **Venus** and could predict **solar eclipses** (Aveni 2018).
 
+## From CHNPA II.1
+
+### Shared principles; Maya solar extension unique (Adams Ch.1)
+
+Caso’s calendar studies made clear that **all Mesoamerican calendars were based on the same
+principles**, except for the Maya extension of the solar calendar, which remains unique.
+Nineteenth-century work (Förstemann et al.) laid the structure of Maya mathematical and
+calendrical systems (Adams 2000). Calendar and writing form part of the
+[[mesoamerica-culture-area]] intellectual package.
+
+### Long Count absolute chronology and Maya Classic bounds (Hammond Ch.5)
+
+Until radiocarbon dating (~40 years before Hammond’s writing), the **Long Count was the only
+absolute chronology in the prehispanic New World**; trade items and style extended it across
+Mesoamerica. With the most widely accepted correlation, Classic ~A.D. 250–900
+(8.10.10.0.0–10.4.0.0.0); 11.16.0.0.0 falls on 12 Nov A.D. 1539 (Hammond 2000).
+
+**Lowland Long Count span (Hammond):** earliest known lowland date = [[tikal|Tikal]] Stela 29 =
+8.12.14.8.15 = **6 July A.D. 292**; latest = Tonina Monument 101 = 10.4.0.0.0 = **18 January
+A.D. 909**. Long Count base date **3114 B.C.** (most recent creation of the world in Maya
+reckoning); bar-and-dot notation; great cycle ends 13.0.0.0.0 = 21 Dec A.D. 2012 (as stated by
+Hammond). Earlier wiki note of last Long Count at Itzimté (15 Jan 910 CE) is a related Terminal
+Classic endpoint; Tonina 909 is Hammond’s cited latest monumental Initial Series.
+
+### Earliest Long Count corpus and origins debate (Diehl Ch.4; Sharer Ch.10)
+
+[[tres-zapotes|Tres Zapotes]] Stela C: Izapa-style mask and Long Count date 7.16.6.16.18 6 Eznab
+= **31 B.C.**—one of Mesoamerica’s oldest calendrical inscriptions. Stirling’s 1939 reading
+sparked unresolved debate on origins of writing/calendrics (Maya homeland vs Gulf Coast /
+Tuxtla statuette). Coe (1957) argued earliest inscriptions on Late Formative Izapa-style
+monuments in Chiapas/Guatemala rather than Maya lowlands—correct for Maya systems, but
+**Zapotec writing and calendrics in Oaxaca may predate the earliest Maya by centuries**
+(Diehl 2000).
+
+Sharer: shared invention of the Long Count by early Mayan and ancestral Mixe-Zoquean
+traditions. Earliest known examples often Mixe-Zoquean sphere: Chiapa de Corzo Stela 2 ~**36
+B.C.**; Tres Zapotes Stela C ~31 B.C.; La Mojarra Stela 1 A.D. 143 & 156; Tuxtla Statuette A.D.
+162 (Sharer 2000). See [[mesoamerican-writing-systems]].
+
+**Note on Stela C year:** Snow et al. (2020) give 32 BCE for Tres Zapotes Stela C; Diehl/Sharer
+in CHNPA give 31 B.C.—correlation rounding difference; both mark terminal 1st-c. BCE.
+
+### Zapotec 260-day names (Marcus & Flannery Ch.8)
+
+San José Mogote Monument 3 (oldest known carved Zapotec hieroglyphic monument): slain captive
+with the 260-day calendar name/date **“1 Earthquake”** between the feet. The ritual calendar of
+13 numbers × 20 day names later supplied elite personal names (e.g. “1 Tiger,” “8 Deer”)
+(Marcus & Flannery 2000). [[monte-alban|Monte Albán]] Protoclassic institutions include
+calendrically named royal ancestors on funerary urns and commemorative beakers.
+
+### Architectural calendrics (Diehl)
+
+[[el-tajin|El Tajín]] Pyramid of the Niches: **365 recessed niches** matching the solar year
+(18×20 + 5)—“surely not a coincidence” (Diehl 2000).
+
 ## Significance
 
 The Mesoamerican calendar is a prime example of indigenous American **mathematics, astronomy,
 and recording systems** developed with no Old World contact. Its precision underwrote both the
 agricultural cycle and the ideology of sacred kingship, and its zero ranks among the
 independent intellectual achievements of the ancient world. The calendar system spread from
-the Olmec through the Zapotec and Classic Maya to the Aztecs, with each culture adapting it
-for their own purposes. See [[writing-and-record-keeping]] and
+early Formative highland and Gulf/Isthmian traditions through the Zapotec and Classic Maya to
+the Aztecs, with each culture adapting it for their own purposes. See
+[[mesoamerican-writing-systems]], [[writing-and-record-keeping]], and
 [[snow-gonlin-siegel-archaeology-native-north-america-2020]].
+
+## Related
+
+[[mesoamerica-culture-area]] · [[mesoamerican-writing-systems]] · [[mesoamerican-periodization]] ·
+[[maya-civilization]] · [[zapotec]] · [[olmec]] · [[tikal]] · [[tres-zapotes]] ·
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]]

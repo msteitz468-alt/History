@@ -7,8 +7,8 @@ period: [World Wars Era, Cold War]
 region: ["central-europe"]
 causes: [Allied victory and the December 1942 and Moscow Declaration commitments to retribution, "the documentary self-record of the Nazi state", the decision for judicial rather than summary punishment]
 consequences: [twelve death sentences among the major defendants, the precedents of crimes against humanity and criminal conspiracy for aggressive war, the evidentiary foundation of Third Reich historiography, "the Nuremberg Code (Doctors' Trial)"]
-sources_ingested: [2]
-last_updated: "2026-07-02"
+sources_ingested: [3]
+last_updated: "2026-07-03"
 tags: [event, "world-wars-era", "cold-war", "central-europe"]
 event_type: political
 location: [Nuremberg, Palace of Justice; successor trials across the occupation zones and Europe]
@@ -48,3 +48,7 @@ already discussed above.
 
 - [[evans-third-reich-at-war-2008]]
 - [[paxton-europe-twentieth-century-2011]]
+
+## Shirer (1960): the trials as source and scene
+
+Shirer covered the first trial and built the book on its documentary output; his page-level texture includes Ohlendorf's "Ninety thousand!", Oswald Pohl's capture disguised as a farmhand (May 1946) and the coining moment when Pohl's casual reference to "the final solution of the Jewish question" was queried ("And what was that?" — "The extermination of Jewry"); the Endlösung mistranslation ("desired solution") that let Göring stonewall Justice Jackson; Keitel calling Nacht und Nebel "the worst of all" his crimes; and Hoess's biography (life-sentenced accomplice in a 1923 Feme murder, amnestied 1928, Death's Head SS from 1934 — "almost his entire adult life first as a prisoner and then as a jailer"; hanged at Auschwitz, March 1947). On the aftermath Shirer is acerbic: the McCloy commutations of 1951 (Alfried Krupp released with his fortune restored; Lammers out after six years), the four Einsatzgruppen executions from fourteen death sentences, and the Bonn-era failure to prosecute accused mass murderers handed over by the Allies, some of whom "quickly found employment in the Bonn government." Source: [[shirer-rise-fall-third-reich-1960]]

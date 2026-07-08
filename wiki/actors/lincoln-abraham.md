@@ -9,8 +9,8 @@ affiliated_with: [Republican Party, Whig Party, Union, Illinois political circle
 opposed_by: [Confederate States of America, Stephen A. Douglas, Copperheads, Radical Republicans (at times)]
 key_events: [1832 Black Hawk War service, 1834 election to Illinois legislature, 1846 election to U.S. House, 1858 Lincoln-Douglas debates, 1860 presidential election, Fort Sumter and Civil War outbreak 1861, Emancipation Proclamation 1863, Gettysburg Address 1863, reelection 1864, assassination by John Wilkes Booth 1865]
 key_processes: [rise of Republican Party, abolition of slavery, preservation of the Union, modernization of warfare and command, expansion of presidential power in crisis]
-sources_ingested: 2 (re-ingest 2026-06-25/26 via full Deployed Subagent Strategy on both dedicated bios; detailed hub page expanded to 5,135+ words)
-last_updated: 2026-06-25
+sources_ingested: 3 (re-ingest 2026-06-25/26 via full Deployed Subagent Strategy on both dedicated bios; detailed hub page expanded to 5,135+ words)
+last_updated: "2026-07-08"
 tags: [actor, person, long-19th-century, north-america, abraham-lincoln, civil-war, emancipation, presidency, republican-party]
 ---
 
@@ -38,6 +38,22 @@ Born in frontier Kentucky and raised in Indiana and Illinois, Lincoln rose from 
 ## Significance and Counterfactuals
 
 Lincoln's leadership prevented the permanent division of the United States and ended legal slavery in the process. Counterfactually, a different president might have allowed compromise on slavery's expansion, accepted Southern independence, or pursued different war policies (e.g., no emancipation or earlier negotiated peace). His combination of moral clarity on slavery's wrongness with political pragmatism was decisive.
+
+
+### From Ellsworth, *Midnight on the Potomac* (2025)
+
+Last-year human and political texture (attribute to Ellsworth; cross-check Donald):
+
+- Tad Lincoln household companion (Crook); 25 Apr 1864 review of ~25,000 troops at Willard's.
+- "Stone-cold killer" *and* "malice toward none" — attrition as numbers game by mid-1864 (Ellsworth framing).
+- Near-misses: Fort Stevens parapet 12 Jul 1864; Soldiers' Home hat shot late Aug 1864; envelope marked "Assassination" for death-threat papers.
+- **Blind memorandum** 23 Aug 1864: probable defeat; duty to save Union with President-elect.
+- Reelection after Atlanta/Mobile Bay; City Point visit late Mar 1865 (shook Rebel prisoners' hands); Richmond desk of Davis; *Macbeth* on *River Queen*; "Dixie" as captured property.
+- 11 Apr limited Black suffrage speech → Booth "last speech he'll ever give."
+- 14 Apr cabinet: let fleeing Rebel leaders go ("elephant by the hind leg"); assassination at [[places/fords-theatre|Ford's Theatre]] — [[events/assassination-of-abraham-lincoln-1865]].
+- Counterfactual (Ellsworth): without Lincoln, permanent split or reunion preserving slavery more likely.
+
+Also: [[events/us-presidential-election-1864]], [[events/lincoln-second-inaugural-1865]], [[sources/ellsworth-midnight-on-the-potomac-2025]].
 
 ## Related
 

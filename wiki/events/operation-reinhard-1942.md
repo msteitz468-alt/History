@@ -1,23 +1,22 @@
 ---
 title: Operation Reinhard
-date_start: 1942-03
-date_end: 1943-11
+date_start: "1942-03"
+date_end: "1943-11"
 date_precision: year
 period: [World Wars Era]
-region: [eastern-europe]
-location: [Bełżec, Sobibór, Treblinka (General Government, occupied Poland)]
-actors_primary: [[[schutzstaffel-ss]], Odilo Globocnik, [[himmler-heinrich|Heinrich Himmler]]]
-actors_secondary: [former [[aktion-t4-1939|T4]] personnel (Christian Wirth, Franz Stangl), Trawniki auxiliaries]
+region: ["eastern-europe"]
+causes: ["the [[the-holocaust|\"Final Solution\"]] decisions of late 1941", "the [[wannsee-conference-1942|Wannsee Conference]] coordination", "gassing methods and personnel transferred from [[aktion-t4-1939|Aktion T4]]"]
+consequences: [murder of some 1.7 million Jews of the General Government and beyond, "near-total destruction of Polish Jewry", prisoner revolts at Treblinka and Sobibór 1943, dismantling and concealment of the camps]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "eastern-europe"]
 event_type: other
-scale_immediate: regional
+location: [Bełżec, Sobibór, Treblinka (General Government, occupied Poland)]
+actors_primary: ["[[schutzstaffel-ss]]", Odilo Globocnik, "[[himmler-heinrich|Heinrich Himmler]]"]
+actors_secondary: ["former [[aktion-t4-1939|T4]] personnel (Christian Wirth", Franz Stangl), Trawniki auxiliaries]
 scale_consequential: civilizational
-causes: [the [[the-holocaust|"Final Solution"]] decisions of late 1941, the [[wannsee-conference-1942|Wannsee Conference]] coordination, gassing methods and personnel transferred from [[aktion-t4-1939|Aktion T4]]]
-consequences: [murder of some 1.7 million Jews of the General Government and beyond, near-total destruction of Polish Jewry, prisoner revolts at Treblinka and Sobibór 1943, dismantling and concealment of the camps]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [event, world-wars-era, eastern-europe]
+scale_immediate: regional
 ---
-
 # Operation Reinhard (1942–1943)
 
 **Operation Reinhard** (Aktion Reinhardt) was the SS program to murder the Jews of the General Government in three purpose-built extermination camps — **Bełżec, Sobibór, and Treblinka** — run by Odilo Globocnik's staff with personnel drawn from [[aktion-t4-1939|Aktion T4]]. Roughly 1.7 million people were gassed there in under two years, the deadliest single phase of [[the-holocaust|the Holocaust]]. Documented for the wiki from [[evans-third-reich-at-war-2008|Evans, *The Third Reich at War* (2008)]].
@@ -37,3 +36,7 @@ Evans quotes the Polish physician Zygmunt Klukowski's diary on the deportations 
 ## Historiography
 
 Evans's account rests on perpetrator testimony (Stangl's interviews, Höss's memoir), survivor accounts (Oskar Berger), the intercepted Höfle telegram, and the Korherr report. He rejects the "industrialized, impersonal murder" image as half-true at best: the camps were inefficient, breakdown-prone, and saturated with personal sadism; the perpetrators were "hardened antisemites," not faceless bureaucrats. The T4 → Reinhard personnel continuity is central to his argument that the "euthanasia" program was the technical and human incubator of the extermination camps.
+
+## Shirer (1960) additions
+
+Hoess's Nuremberg affidavit as quoted by Shirer supplies the perpetrator comparison of the Reinhard camps with Auschwitz: Treblinka's commandant told him he had "liquidated 80,000 in the course of half a year" using monoxide in ten 200-person chambers, methods Hoess judged "not very efficient" against his Zyklon B and 2,000-person chambers — and at Treblinka "the victims almost always knew that they were to be exterminated," driving Auschwitz's delousing deception. Shirer's chapter also documents the commercial infrastructure (Topf & Sons crematoria correspondence; C. H. Kori's Belgrade bid citing "four furnaces for Dachau and five for Lublin") and the "Max Heiliger" Reichsbank deposits of victims' gold. Source: [[shirer-rise-fall-third-reich-1960]]

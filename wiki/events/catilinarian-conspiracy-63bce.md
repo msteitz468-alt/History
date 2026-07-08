@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: regional
 causes: [the debt crisis of the 60s (dispossessed peasants and bankrupt nobles), Catiline's electoral failures and ruin, the agrarian distress unrelieved after Rullus' bill failed]
 consequences: [the execution of five conspirators under the SCU, Cicero's elevation and later vulnerability, the defeat of Catiline at Pistoria, the deepening of political polarization]
-sources_ingested: 3
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, italy, political]
 ---
 
@@ -80,6 +80,31 @@ Catilinarians** and *Pro Murena* are the central, deeply partisan sources; Wisem
 distinguishes the **genuine 63 conspiracy** from the dubious "First Catilinarian
 Conspiracy" of 66/65. The degree of Catiline's responsibility for the rural risings,
 and the legality of the executions, remain debated.
+
+## Beard (SPQR, 2015)
+
+Beard stresses that the sheer volume of surviving evidence for 63 BCE (letters,
+speeches, Sallust's monograph) is unparalleled for the ancient world — comparable
+only to evidence for Augustine some 450 years later — but that it is overwhelmingly
+filtered through Cicero's own eyes and self-interest, so that his perspective is
+inescapably dominant without being "true in any simple sense." She frames the
+conspiracy as history's classic interpretative dilemma — "were there really 'reds
+under the bed', or was the crisis, partly at least, a conservative invention?" — and
+argues we can never be fully certain how much Cicero exaggerated the threat, though
+she judges the most skeptical reading (that the plot was wholly fabricated)
+implausible given the real battle in which Catiline died. On the narrative itself,
+Beard recounts that Cicero learned of the plot through multiple channels — the
+informant Fulvia and incriminating letters obtained via Crassus as intermediary —
+and that the Allobroges, a Gallic delegation drawn into the plot by the conspirators,
+chose instead to inform Cicero, supplying the decisive evidence for the arrests. She
+also notes that Caesar's proposal on 5 December, to imprison rather than execute the
+conspirators, may be the first recorded proposal in Western history of life
+imprisonment as an alternative to the death penalty. Separately, Beard flags the
+famous Maccari painting of Cicero denouncing Catiline as a "seductive fantasy": both
+men were in their forties, the meeting (in the modest Temple of Jupiter Stator) would
+have been packed with the roughly 600-member senate rather than the sparse dozens
+shown, and Rome's marble grandeur belongs to the later imperial period. See
+[[sources/beard-spqr-2015]].
 
 ## Related
 

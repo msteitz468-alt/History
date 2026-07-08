@@ -9,8 +9,8 @@ affiliated_with: [the Constantinian dynasty, Neoplatonism, the restored polythei
 opposed_by: [Constantius II (initially), the Christian church, the Sassanid Empire]
 key_events: [the battle of Strasbourg (357), the proclamation at Paris (360), the Persian expedition and his death (363)]
 key_processes: [the failed pagan restoration, the late-antique attrition of polytheism]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, mediterranean-world]
 ---
 
@@ -71,12 +71,27 @@ compete. His brief reign is the great "what-if" of late antiquity — and a demo
 Christian transformation was structural, not merely the work of Constantine. As soldier and apostate he
 remains the most fascinating individual of the fourth century.
 
+## Ball on the Persian campaign and the Arabs (2000)
+
+Warwick Ball's *[[ball-rome-in-the-east-2000|Rome in the East]]* adds detail to the 363 invasion
+and links it to his Near Eastern themes. Julian staged a symbolic review of 65,000 troops at
+**Carrhae**, invoking Lucullus, Pompey, Antony, Trajan, Verus and Septimius Severus; advanced
+down the Euphrates with a fleet of ~1,150 boats, won at the Nahr al-Malik canal, then burned his
+own boats after crossing the Tigris to prevent retreat before Shapur II's scorched-earth
+harassment. Ball notes Julian had **withdrawn the privileges of the Arab [[tanukhids|Tanukh]]
+allies** during the campaign — a mistake that may have cost him his life, since his fatal
+spear-wound was blamed by some on a disaffected Arab auxiliary (whether from lost privileges or
+Christian-Arab hostility to his pagan apostasy). Jovian's cession of Nisibis and the trans-Tigris
+lands (which Ball, following Zosimus, treats as a humiliation greater than Crassus's or Antony's)
+marks a stage in Ball's "long retreat" of Rome from the East.
+
 ## Related
 
 - Nephew of [[constantine-the-great|Constantine]]; cousin and successor of [[constantius-ii|Constantius II]];
   survivor of the massacre of 337
 - His intellectual world: [[late-polytheism]] (Neoplatonism, theurgy, the holy man); his failed reaction
   against [[christianization-of-the-roman-empire|Christianization]]
+- His Persian war: the [[sasanian-empire|Sasanian]] frontier; the Arab [[tanukhids|Tanukh]] allies he alienated; Ball's [[orientalization-of-rome]]
 - `produced:` the disastrous Persian expedition against the [[sasanian-empire|Sassanids]] and Jovian's
   surrender of Nisibis
-- Source: [[cameron-cah-v13-1998]] (Ch. 2, David Hunt)
+- Sources: [[cameron-cah-v13-1998]] (Ch. 2, David Hunt); [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]]

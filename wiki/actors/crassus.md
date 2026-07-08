@@ -9,8 +9,8 @@ affiliated_with: [Sulla and the Sullani (early); the equestrian financiers; the 
 opposed_by: [Pompey (rival); Cato; the Parthians]
 key_events: [the [[spartacus-revolt-73-71bce|Spartacus revolt]], the consulship of 70, the censorship of 65, the [[first-triumvirate|First Triumvirate]] (60), the [[battle-of-carrhae-53bce|battle of Carrhae]] (53)]
 key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
@@ -58,6 +58,10 @@ Pompey, and his need (like theirs) to overcome Cato's obstruction, made him the
 natural third party of the triumvirate — and his fatal craving for military glory
 removed the balance-wheel that had kept Caesar and Pompey from open war.
 
+## Beard (SPQR, 2015)
+
+Mary Beard treats the informal 60 BCE pact of Crassus, [[pompey|Pompey]], and [[julius-caesar|Caesar]] — the [[first-triumvirate|"Gang of Three"]] — as arguably more corrosive to the Republic than open violence: it moved public decision-making into private, unaccountable hands. She cites Cato the Younger's verdict that Rome was "overturned not when Caesar and Pompey fell out but when they became friends," implicating Crassus' financial leverage as an equal instrument of that private power alongside Pompey's legions. See [[sources/beard-spqr-2015]].
+
 ## Historiography
 
 Plutarch's *Crassus* (with the famous fortune and the proverbial avarice) and
@@ -67,5 +71,8 @@ powerful a man — a sign of his deliberately unobtrusive style.
 ## Related
 
 - Rival/partner: [[pompey]] · ally: [[julius-caesar]] · opponent: [[cato-the-younger]]
-- Events: [[spartacus-revolt-73-71bce]] · [[first-triumvirate]]
-- Source: [[crook-cah-v9-1992]] (Ch. 9, Wiseman)
+- Events: [[spartacus-revolt-73-71bce]] · [[first-triumvirate]]; his start —
+  father and brother killed in the Marian terror of 87 (see [[cornelius-cinna]]),
+  he fled to Spain, then joined [[sulla]], commanded the winning wing at the Colline
+  Gate (82), and grew rich in the [[sullan-proscriptions-82bce|proscriptions]]
+- Source: [[crook-cah-v9-1992]] (Ch. 9, Wiseman) · [[duncan-storm-before-the-storm-2017]]

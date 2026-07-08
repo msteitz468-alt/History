@@ -13,8 +13,8 @@ scale_immediate: hemispheric
 scale_consequential: global
 causes: ["end of the 10,000+ year separation of the Eastern and Western Hemispheres after the last Ice Age", "European maritime technology and the search for routes to Asia"]
 consequences: ["massive demographic collapse in the Americas due to virgin-soil epidemics", "biological homogenization of the planet", "revolution in Old World agriculture and demography from New World crops", "transformation of American landscapes by Old World livestock and plants", "foundation of the Atlantic plantation complex and global silver economy", "long-term shifts in global power, population, and ecology"]
-sources_ingested: 4
-last_updated: 2026-06-22
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [event, transition, early-modern, atlantic-world]
 ---
 
@@ -106,3 +106,31 @@ Crosby’s book named and framed the phenomenon. In the 2003 Preface he reflects
 - Ultimate cause behind the disease asymmetry: [[diamond-guns-germs-and-steel-1997|Diamond]]'s [[guns-germs-and-steel|guns, germs, and steel]] thesis — Old World crowd diseases evolved from herd animals Eurasia had and the Americas lacked (see [[geographic-determinism]]). Diamond treats Crosby's biological mechanisms as the proximate downstream of his geographic ultimate causes.
 
 This page serves as the anchor for the biological and demographic dimension of the early modern Atlantic world.
+
+## North American sixteenth-century dimensions (Trigger & Swagerty, CHNPA I.1)
+
+CHNPA I.1 ch. 6 embeds North America in the Columbian Exchange without treating every region as equally transformed in the 1500s. See full process treatment at [[sixteenth-century-north-american-contact]] and disease detail at [[virgin-soil-epidemics]].
+
+### European expansion drivers
+
+Columbus’s “discovery” was one consequence of Western European centralizing monarchs seeking wealth for armies/administrations and coping with a trade deficit with the East that drained precious metals. Portugal and Spain encouraged long-distance voyages for gold, silk, spices, slaves, sugar islands, and sea routes to the Orient; Spanish voyages were backed by Italian (Genoa, Florence) merchants threatened by Turkish Mediterranean control and Portuguese gold-trade domination. (`enabled` North American contact process.)
+
+### Slave raiding and Caribbean depopulation (to c. 1520s)
+
+Early Spanish penetration as state-supported plundering then tribute. Columbus’s second voyage brought 30 Indian prisoners sold as slaves in Seville; hundreds sold yearly thereafter. Corte-Real (1501) and Gomes (1525) abducted large numbers for European markets. By 1509 Lucayans of the Bahamas bore first large-scale enslavements; the chain virtually depopulated them by 1514. With Indian slaves fetching **150 pesos** after 1509 (vs **5 pesos** in 1508), the Lesser Antilles were largely emptied by 1520 for mines and plantations of Española, Puerto Rico, Jamaica, and Cuba. In a quarter century the Native population of the Spanish main became a “sorry shell.” A 1550 ordinance forbade bringing captive American Indians to Spain; high mortality and opposition helped curb mass kidnappings — no evidence of such piratical raids on the east coasts of North America after the 1520s. (`concurrent_with` [[pre-columbian-american-population]] collapse debates; part of forced labor as well as pathogen pathways.)
+
+### Pathogen list and syphilis direction
+
+After 1492 the formerly relatively disease-free (relative to Europe) American environment was plagued with frequent virgin-soil epidemics. Venereal syphilis **probably** moved New World → Europe by 1493. Old World introductions included smallpox, measles, influenza, bubonic plague, diphtheria, typhus, cholera, scarlet fever, trachoma, whooping cough, chicken pox, and tropical malaria. Española smallpox 1518: **one-third to one-half** of Arawaks and other enslaved Indians killed (Spanish reports); 1520s–30s pandemic along trade routes and expeditions.
+
+### Animals, plants, and selective Native adoption (sixteenth-century North America)
+
+Without doubt, Indians gave more to Europeans in foodstuffs than they received, at least in the sixteenth century. Chickens, pigs, sheep, and horses (less so cows) were a potential but largely unrealized dietary/transport revolution in that century. Hogs lost on *entradas*, especially [[de-soto-expedition-1539]]; some preyed by Native archers; seventeenth-century hogs/sheep became important in SE/SW diets; the horse diffused to Plains/Plateau ahead of full contact. Hopi/Jemez/Acoma/Santo Domingo katcinas for cow, sheep, pig, and horse; Dancing Horse Katcina for Santiago. Wheat in New Mexico: from **7 fanegas** (1599) to estimated **1,500** at San Gabriel by 1601 — yet neither region saw wheat replace corn. Melons, tobacco exchange, selective fruit screening (Hopis at Walpi by 1690: peaches, apricots, etc.). Pueblo architectural adoption: beehive oven, corner fireplace, chimneys, adobe-brick frames, ground-floor doors/windows — rarely the full Hispanic package. ([[onate-new-mexico-1598]], [[ancestral-pueblo]])
+
+### Link types
+
+- `enabled`: [[sixteenth-century-north-american-contact]]
+- `produced` / `part_of`: [[virgin-soil-epidemics]] pathways into North America
+- `concurrent_with`: [[pre-columbian-american-population]] / [[pre-columbian-population-debate]]
+
+Updated from [[sources/cambridge-history-native-peoples-americas-v1-1]] (Trigger & Swagerty ch. 6).

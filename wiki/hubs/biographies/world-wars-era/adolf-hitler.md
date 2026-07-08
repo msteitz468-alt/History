@@ -1,22 +1,21 @@
 ---
-title: "Adolf Hitler — Detailed Biography"
+title: Adolf Hitler — Detailed Biography
 analysis_type: biography
 actor_page: "[[actors/adolf-hitler]]"
 period: [Long 19th Century, World Wars Era]
-date_birth: 1889-04-20
-date_death: 1945-04-30
-date_precision: exact
-region: [western-europe, germany, central-europe]
-key_offices: "Führer of the NSDAP; Chancellor of Germany (1933); Führer and Reich Chancellor (1934); Supreme Commander of the Wehrmacht"
-major_decisions: ["1923 Beer Hall Putsch and switch to 'legal' path", "1925 refoundation and Führerprinzip", "1933 appointment and Enabling Act", "1934 Röhm purge and total power (SA vs army; personal oath secured)", "1936 Rhineland remilitarization and consolidation", "July 1940 decision for Barbarossa (strategic removal of Britain's last prop)", "March 1941 definition of war of annihilation vs Jewish-Bolshevism", "22 June 1941 launch of Operation Barbarossa and merger with Holocaust"]
-primary_sources: "Collected speeches and writings (pre-1933); Goebbels diaries; Hitler’s own writings (Mein Kampf); contemporary records; critical use of table talk and memoirs"
-key_sources: "Kershaw, Hitler 1889–1936: Hubris (1998) and Nemesis (2000); Bullock; Fest; Tooze Wages of Destruction; Goebbels diaries; CPAE-style editions of speeches. (See kershaw-hitler-nemesis-2000.md Range 09 for detailed source criticism: primacy of contemp diaries (TBJG, Halder KTB, Koeppen, Dienstkalender) over postwar memoirs (Speer touched-up per Sereny; generals self-exculpatory on Dunkirk/halt; Jodl 'legend' claim; Höß/Eichmann chronology fallible); specific qualifiers on Elser (Hoch 1969 solo), Ulex (Irving doubt), Madagascar (serious but collapsed), Final Solution timing (Browning/Burrin/Longerich/Aly/Kershaw 'improvised'/cumulative; Gerlach/Jersak critiques; no blanket early order); army complicity (Krausnick/Wilhelm; Blaskowitz protests accommodated); 'working towards' mechanics throughout 1939–42 notes)."
+date_birth: "1889-04-20"
+date_death: "1945-04-30"
+region: ["western-europe", germany, "central-europe"]
+key_sources: ["Kershaw, Hitler 1889–1936: Hubris (1998) and Nemesis (2000); Bullock; Fest; Tooze Wages of Destruction; Goebbels diaries; CPAE-style editions of speeches. (See kershaw-hitler-nemesis-2000.md Range 09 for detailed source criticism: primacy of contemp diaries (TBJG, Halder KTB, Koeppen, Dienstkalender) over postwar memoirs (Speer touched-up per Sereny; generals self-exculpatory on Dunkirk/halt; Jodl 'legend' claim; Höß/Eichmann chronology fallible); specific qualifiers on Elser (Hoch 1969 solo), Ulex (Irving doubt), Madagascar (serious but collapsed), Final Solution timing (Browning/Burrin/Longerich/Aly/Kershaw 'improvised'/cumulative; Gerlach/Jersak critiques; no blanket early order); army complicity (Krausnick/Wilhelm; Blaskowitz protests accommodated); 'working towards' mechanics throughout 1939–42 notes)."]
 scale: civilizational
-last_updated: 2026-06-25
-sources_ingested: 2
-tags: [biography, detailed-analysis, world-wars-era, adolf-hitler, nazism, weimar, charismatic-leadership, working-towards-the-fuehrer]
+last_updated: "2026-07-03"
+tags: [biography, "detailed-analysis", "world-wars-era", "adolf-hitler", nazism, weimar, "charismatic-leadership", "working-towards-the-fuehrer"]
+date_precision: exact
+key_offices: Führer of the NSDAP; Chancellor of Germany (1933); Führer and Reich Chancellor (1934); Supreme Commander of the Wehrmacht
+major_decisions: ["1923 Beer Hall Putsch and switch to 'legal' path", 1925 refoundation and Führerprinzip, 1933 appointment and Enabling Act, 1934 Röhm purge and total power (SA vs army; personal oath secured), 1936 Rhineland remilitarization and consolidation, "July 1940 decision for Barbarossa (strategic removal of Britain's last prop)", "March 1941 definition of war of annihilation vs Jewish-Bolshevism", 22 June 1941 launch of Operation Barbarossa and merger with Holocaust]
+primary_sources: "Collected speeches and writings (pre-1933); Goebbels diaries; Hitler’s own writings (Mein Kampf); contemporary records; critical use of table talk and memoirs"
+sources_ingested: [3]
 ---
-
 > **Summary & network:** [[actors/adolf-hitler|Adolf Hitler]] · **Biography hub:** [[hubs/biographies/biographies-hub|Biographies Hub]]
 
 Graduate-level study of Hitler’s formation, the mechanics by which an outsider achieved and radicalized total power, the 'working towards the Führer' dynamic, and the fusion of personal worldview with structural conditions in German society 1919–1936 (with forward links to war/genocide covered in the Nemesis volume and related events).
@@ -355,3 +354,13 @@ Cross-reference specialized operational studies (Glantz/House for Eastern Front;
 **Reciprocal link from [[actors/adolf-hitler]].** Follows the biography analysis template.
 
 See also dedicated event page [[events/july-plot-1944|July Plot (20 July 1944)]] for the assassination attempt and purge response (detailed in Range 05 extraction). See [[events/hitler-suicide-1945|Hitler Suicide (30 April 1945)]] for the bunker death, marriage, testaments, cremation, and immediate succession mechanics (Range 07 extraction). See [[events/operation-barbarossa-1941]] for the 1940–41 decision mechanics, 'war of annihilation' orders, Einsatzgruppen launch, and 1941 Holocaust turn (Range 03 extraction).
+
+## 14. The Eyewitness Layer — Shirer (1960)
+
+Shirer's *Rise and Fall* adds two things the Kershaw spine does not: the view of a foreign correspondent physically present 1934–40, and the first assembly of the captured documents. Selected holdings integrated across the wiki this ingest (see [[shirer-rise-fall-third-reich-1960]] for the full claim list):
+
+- **Ideology in situ**: Shirer heard Hitler call the "folkish state" the central point of his thinking dozens of times and "never clearly understood" it; heard party stalwarts admit privately they never finished Mein Kampf's "782 turgid pages." The Mein Kampf financials (royalties as chief income from 1925; millionaire in 1933) and the editorial history (Hess, Stempfle, Czerny) are on [[adolf-hitler]].
+- **The Hegelian hero-frame**: Shirer's ch. 4 juxtaposition of Hegel's "world-historical individuals" lecture with Mein Kampf's genius-with-a-mission essays remains a useful reading of Hitler's self-conception — the fusion of politician and thinker entitling the hero to trample "many an innocent flower"; whether Hitler read Hegel directly Shirer leaves as "a matter of dispute" (transmission via Rosenberg, Eckart, Hess).
+- **Wagner and the Götterdämmerung template**: the table-talk of 24–25 Jan 1942 ("The ten days of the Bayreuth season were always one of the blessed seasons of my existence"); Shirer's observation that Hitler "tried to emulate Wotan when in 1945 he willed the destruction of Germany."
+- **The legality lesson**: Hitler's own dating of the no-second-putsch conviction to Landsberg ("we could no longer win power by force" — table talk, 3–4 Feb 1942).
+- **Historiographic caution**: Shirer's Luther-to-Hitler continuity frame (see [[german-sonderweg]]) colors his character judgments; his psychological readings are 1960-vintage. Use him for scene, documents, and chronology; use Kershaw for interpretation.

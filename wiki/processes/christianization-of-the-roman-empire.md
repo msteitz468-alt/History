@@ -8,8 +8,8 @@ region: [mediterranean-world, near-east, north-africa, egypt]
 process_type: religious
 driven_by: [imperial patronage from Constantine, the episcopate and the church as a public institution, the law codes, ascetic and monastic movements]
 produces: [the Christian Roman and Byzantine order, the legal category of "pagan", the religious ordering of society]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, late-antiquity, mediterranean-world, rome]
 ---
 
@@ -99,14 +99,44 @@ the emergence, after [[council-of-chalcedon-451|Chalcedon]], of the
 set-pieces can overstate how *sudden* conversion was — the documents show a gradual, uneven
 process.
 
+## Ball: Christianity as the eastern religion (2000)
+
+Warwick Ball's *[[ball-rome-in-the-east-2000|Rome in the East]]* reads Christianisation as the
+culminating act of his [[orientalization-of-rome|orientalization]] thesis — Rome's adoption of "a
+completely alien" eastern religion (see the [[orientalization-of-rome-thesis|debate]]). His claims
+here are interpretive and, in places, sharply revisionist; they are recorded as **Ball's argument**,
+not as settled history:
+
+- **Eastern roots.** Ball traces core Christian ideas to **Zoroastrianism** (afterlife/judgment,
+  good–evil dualism, an abstract wholly-good creator, a virgin-born redeemer, the Magi) — "the
+  Christian god owes more to Zoroastrianism than to Judaism" — and to Semitic congregational
+  temple-cult, aniconic Semitic deity-representation, Anatolian mother-goddess cults (the Virgin at
+  Ephesus), and Phoenician resurrection cults. He argues Kartir's Sasanian state church
+  "foreshadowed the Papacy."
+- **Antioch the hinge.** [[antioch|Antioch]] — where followers were first called "Christians," and
+  which claimed Petrine primacy over Rome — is his crucial east-to-west relay.
+- **Class and gender.** Ball frames the faith's spread from underclass to aristocracy as running
+  through household slaves converting elite women — "Christianity's first great triumph represents a
+  triumph of feminism."
+- **The Severan / Sun-cult bridge.** He credits the Emesene [[severan-dynasty|Severans]] as
+  accelerators (not converts) and draws a direct line from [[elagabalus|Elagabalus]]'s sun-god
+  through Aurelian's Sol Invictus to Constantine — east-facing churches, the Sunday Sabbath, and
+  25 December as accommodations to the pre-existing cult: "Constantine's revolution... was a true
+  orientalisation of Rome."
+- **Contrarian points.** Ball downplays the missionary effect of Peter and Paul as "greatly
+  exaggerated," argues persecution actually suppressed the faith, holds that
+  [[kingdom-of-edessa|Edessa]] under Abgar the Great was the first Christian state, and contends
+  ([[philip-the-arab|Philip the Arab]]) was Rome's first Christian emperor before Constantine.
+
 ## Related
 
 - Driven by [[constantine-the-great|Constantine]], [[theodosius-i|Theodosius I]], and the
   [[late-roman-church-institution|church as a public institution]]; resisted by [[julian|Julian]] and
   enduring [[late-polytheism|polytheism]]
+- Ball's eastern-origins reading: [[orientalization-of-rome]] · [[orientalization-of-rome-thesis]] · [[philip-the-arab]] · [[kingdom-of-edessa]]
 - The doctrinal struggle within it: the [[arian-controversy|Arian controversy]]; its new heroes:
   [[late-antique-asceticism|asceticism and monasticism]]; the earlier church: [[third-century-christianity]],
   [[origins-of-christianity]]
 - `contrasts_with:` the triumphalist "death of paganism" narrative; the parallel "Christianizations" of
   rabbinic Judaism and Zoroastrianism in the [[sasanian-empire|Sasanian empire]]
-- Sources: [[cameron-cah-v13-1998]] (Ch. 21, Peter Brown) · [[sources/bagnall-rathbone-egypt-alexander-copts-2004]] (the Egyptian case)
+- Sources: [[cameron-cah-v13-1998]] (Ch. 21, Peter Brown) · [[sources/bagnall-rathbone-egypt-alexander-copts-2004]] (the Egyptian case) · [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]]

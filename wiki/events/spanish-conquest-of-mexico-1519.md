@@ -14,8 +14,8 @@ scale_immediate: civilizational
 scale_consequential: hemispheric
 causes: ["Iberian overseas expansion (the [[columbian-exchange-1492|Columbian Exchange]])", "indigenous disunity — Tlaxcalan & other allies against the Mexica", "the [[virgin-soil-epidemics|smallpox]] pandemic of 1520"]
 consequences: ["the fall of the [[aztec-empire|Aztec empire]] & founding of New Spain", "the [[virgin-soil-epidemics|demographic collapse]] of central Mexico", "the beginning of Spanish colonial Latin America", "a foundational trauma & mestizo identity"]
-sources_ingested: 4
-last_updated: 2026-06-22
+sources_ingested: 6
+last_updated: 2026-07-08
 tags: [event, transition, late-middle-ages, mesoamerica]
 ---
 
@@ -93,7 +93,7 @@ grief for the fallen city itself.
 ## Consequence Analysis
 
 The conquest ended the Aztec empire and founded **New Spain** — the beginning of
-[[colonialism|colonial]] Latin America — atop the ruins of Tenochtitlan ([[tenochtitlan|Mexico City]]).
+[[colonial-latin-america|colonial Latin America]] — atop the ruins of Tenochtitlan ([[tenochtitlan|Mexico City]]).
 It triggered the [[virgin-soil-epidemics|demographic collapse]] of central Mexico and a fraught
 **cultural blending** (the 1524 *tlamatinime* who refused to abandon their gods; Nahua featherwork
 Christian art). It became a **foundational trauma** and the root of mestizo Mexican identity, and — as
@@ -121,8 +121,44 @@ locates the conquest in the moral debate — Las Casas vs. Sepúlveda, the
 [[colonial-latin-america|Valladolid]] confrontation, and the
 [[black-legend|Black Legend]] — over its justice and cruelty.
 
+## Opening frame (MacLeod, CHNPA II.2) — light
+
+Murdo J. MacLeod’s overview ([[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]]
+Ch. 12) treats the Spanish invasion as the **starting point** of the modern native Mesoamerican
+history survey rather than re-narrating operational conquest detail (that remains on this page).
+He notes Cortés’s sending of parts of Moctezuma’s treasure to Carlos V as essentially a bribe for
+approval of the “illegal” conquest of central Mexico from Cuba; conquerors’ letters (Cortés,
+Alvarado, Bernal Díaz) are valued as inadvertent sources on states, alliances, settlement, and
+diplomacy. Post-1520 decades of incomplete baptism and catechesis mark the early colonial
+religious timeline ([[spiritual-conquest-and-colonial-church]]); the baseline “around 1500”
+contact moment is the prehistory endpoint for colonial change studies
+([[colonial-mesoamerica-native-peoples]]).
+
+## Endpoint context (Charlton, CHNPA II.1)
+
+Thomas H. Charlton's Central Mexico chapter ([[cambridge-history-native-peoples-americas-v2-1|CHNPA
+II.1]] Ch. 11) treats Spanish arrival as a **terminal boundary only**, not as an operational campaign
+narrative (that remains on this page via León-Portilla, Bernal Díaz, and related sources). Key framing
+points for the conquest's indigenous structural setting:
+
+- Triple Alliance expansion was **still ongoing in A.D. 1519** when the Spaniards entered and ended it;
+  the conquest of [[tenochtitlan|Tenochtitlan]] in **1521** closes the preconquest sequence begun after
+  the fall of Tula (c. 1150).
+- At contact the Spaniards encountered an **exceptionally complex cultural situation**: all southern-CMSR
+  city-states and most northern ones under the Tenochtitlan-headed Triple Alliance; independent eastern
+  blocs (including Tlaxcala, Huejotzingo, Cholula) **fully encircled** yet unconquered;
+  [[purepecha|Tarascan/Purépecha]] power to the west; smaller independent states (Metztitlan, Tototepec)
+  to the northeast — the political fracture lines Cortés and his allies would exploit.
+- Imperial control beyond the Basin was **hegemonic and indirect** (local rulers, calpixque, perception of
+  power rather than garrisons), which helps explain both the empire's rapid wartime unraveling and the
+  availability of resentful tributaries and encircled enemies as Spanish allies. See
+  [[triple-alliance-formation-1428]] and [[aztec-empire]] for the 1428–1519 expansion structure.
+
 ## Related
 
-[[aztec-empire]] · [[tenochtitlan]] · [[virgin-soil-epidemics]] · [[columbian-exchange-1492]] ·
-[[aztec-religion-and-human-sacrifice]] · [[leon-portilla-broken-spears]] · [[diaz-conquest-of-new-spain]] ·
-[[spanish-conquest-of-peru-1532]] · [[colonial-latin-america]] · [[las-casas-bartolome]] · [[black-legend]]
+[[aztec-empire]] · [[tenochtitlan]] · [[triple-alliance-formation-1428]] · [[altepetl]] ·
+[[virgin-soil-epidemics]] · [[columbian-exchange-1492]] · [[aztec-religion-and-human-sacrifice]] ·
+[[leon-portilla-broken-spears]] · [[diaz-conquest-of-new-spain]] · [[spanish-conquest-of-peru-1532]] ·
+[[colonial-latin-america]] · [[colonial-mesoamerica-native-peoples]] · [[las-casas-bartolome]] ·
+[[black-legend]] · [[cambridge-history-native-peoples-americas-v2-1]] ·
+[[cambridge-history-native-peoples-americas-v2-2]]

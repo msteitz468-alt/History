@@ -3,13 +3,13 @@ title: Roman Africa (Augustus to Vespasian)
 place_type: empire-territory
 modern_equivalent: [Tunisia, eastern Algeria, Libya (Tripolitania), Morocco (Mauretania)]
 coordinates: [34 N, 9 E]
-period_active: [Classical Antiquity, Late Antiquity]
-controlled_by: [Rome, under Augustus and the Julio-Claudians; the client kings Juba II and Ptolemy]
-events_here: [the founding of Roman Carthage, the revolt of Tacfarinas (AD 17–24), the annexation of Mauretania (AD 40–44)]
-processes_here: [the militarization of the African frontier, the cadastration and taxation of the land, the conflict of desert and sown]
-sources_ingested: 1
-last_updated: 2026-06-11
-tags: [place, north-africa, classical-antiquity, late-antiquity, rome]
+period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
+controlled_by: [Rome, under Augustus and the Julio-Claudians; the client kings Juba II and Ptolemy; Vandals; Byzantine reconquest; Umayyad/Abbasid Ifrīqiya]
+events_here: [the founding of Roman Carthage, the revolt of Tacfarinas (AD 17–24), the annexation of Mauretania (AD 40–44), Vandal conquest of Carthage 439, Belisarius reconquest 534, Arab conquest 647–98]
+processes_here: [the militarization of the African frontier, the cadastration and taxation of the land, the conflict of desert and sown, post-roman-transformation-of-the-west]
+sources_ingested: 2
+last_updated: 2026-07-08
+tags: [place, north-africa, classical-antiquity, late-antiquity, early-middle-ages, rome]
 ---
 
 # Roman Africa (Augustus to Vespasian)
@@ -132,6 +132,22 @@ sedentary cultivators and mobile pastoralists, and the use and discarding of **c
 revolts lay the structural transformation of the richest corn-land of the western Mediterranean
 into a taxed, centuriated, garrisoned Roman province.
 
+## Wickham, *Framing the Early Middle Ages* (2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham]]’s Africa is the empire’s great western **export specialist**, second only to Egypt in agrarian surplus, and the clearest case of economic complexity that depended on Mediterranean-wide exchange rather than articulated internal markets.
+
+### Geography, historiography, Vandal fiscal model
+- Economic powerhouse: **Proconsularis** (grain, complex urban network focused on Carthage) and **Byzacena** (drier, more oil-oriented)—roughly northern/southern Tunisia and eastern Algeria fringe.
+- Historiography has been dominated by **desert-versus-sown** (Ibn Khaldūn; Roman, Arab, and French colonial civilizing discourses). Wickham prefers **state-versus-tribe**: rising Berber military autonomy (including polities based on Roman cities like Altava and Volubilis) need not mean anti-agricultural nomadism; only Africa (plus smaller Syrian/Palestinian sections) risked abandonment of settled agriculture.
+- Vandal Africa remained **very Roman in style**, with archaeological prosperity at least until c.500, despite Arian persecution and a hostile Catholic literary tradition. Tax continued and made kings immensely rich (Gelimer’s treasury after 95 years of revenues not leaving the country), but the army settled on tax-exempt *sortes* became a militarized landed class. Without *annona* for Rome or large military pay, surplus led to slipshod registers and infrastructural involution—“a model of how a tax system could break down even in favourable circumstances, if it was not structurally necessary.”
+
+### Cities, exchange, twin shocks
+- Urban economic height was the **fourth century**. From c.450 fora saw systematic neglect, housing conversion, or oil-press reuse; Byzantine fortresses on former forum sites (Dougga, Haïdra) crystallized spatial fragmentation. Eighth century was the **urban low point** (Gelichi/Milanese) without Anatolian-scale collapse in numbers; Arab Ifrīqiya still used the Roman city network. Sbeitla fragmented but stayed economically continuous to 800–900. **Carthage** peaked c.350–450 (perhaps ~100,000); Justinianic rebuild; late-seventh monumental meltdown; early-eighth abandonment and replacement by Tunis—mirroring African exchange history more than general urban change.
+- Vandals, Byzantines, and Arabs all valued cities as governmental building-blocks; half-century of Arab conquest stasis (647–98) is a main cause of the eighth-century economic nadir. No ruralization of African aristocracies (unlike Francia). Best urban parallels remain Syria-Palestine, but twin political crises produced poorer cities than the Levant.
+- c.400 western Mediterranean held by the **Carthage–Rome tax spine** and ARS hegemony; commercial oil/ARS rode piggyback on fiscal shipping. Vandal conquest of Carthage (439) broke the tax spine without instant commercial collapse; global scale and inland Italian penetration dropped after c.450. Major ARS kilns produced for Mediterranean-wide export while **internal African ceramic availability was highly microregional**—complexity unusually dependent on external exchange. Byzantine reconquest (534) did not reverse export downturn (western markets fragmented; Italy ruined by Gothic war). Complexity dramatically reduced c.500–700; eighth century so simple archaeologists have found it hard to see—but not terminal abandonment of settled Mediterranean urban economy.
+
+*Link types:* contrasts_with: [[roman-egypt]], [[francia]], [[byzantine-empire]]; analogous_to: [[roman-syria]]; concurrent_with: [[rome]], [[italy]], [[umayyad-caliphate]]; part_of: [[tax-based-vs-land-based-states]], [[post-roman-transformation-of-the-west]].
+
 ## Related
 
 - The client-king system of [[augustan-imperial-expansion]] (Juba II, Ptolemy); the army legate
@@ -142,4 +158,5 @@ into a taxed, centuriated, garrisoned Roman province.
   ([[roman-city-government]]) and the [[tabula-banasitana|Banasa citizenship grant]]
 - High-Empire frontier as zone: [[roman-frontiers]]; African senators feeding the
   [[high-imperial-senatorial-order|Senate]] (Fronto, the Septimii)
-- Sources: [[bowman-cah-v10-1996]] (Ch. 13, Whittaker) · [[bowman-cah-v11-2000]] (Ch. 16, Brent Shaw)
+- Early medieval: [[rome]] · [[italy]] · [[roman-syria]] · [[umayyad-caliphate]]
+- Sources: [[bowman-cah-v10-1996]] (Ch. 13, Whittaker) · [[bowman-cah-v11-2000]] (Ch. 16, Brent Shaw) · [[wickham-framing-the-early-middle-ages-2005]]

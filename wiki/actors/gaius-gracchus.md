@@ -9,8 +9,8 @@ affiliated_with: [[[roman-republic]], the Sempronii Gracchi; ally M. Fulvius Fla
 opposed_by: [the Senate majority, the consul L. Opimius, the tribune M. Livius Drusus]
 key_events: [the tribunates of 123–122, the senatus consultum ultimum and his death (121)]
 key_processes: [[[agrarian-crisis-roman-republic]], [[optimates-populares]], [[roman-italian-alliance]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
@@ -58,6 +58,13 @@ fixtures and **political faultlines** of the late Republic. His death normalised
 
 ## Historiography
 
+**Beard ([[sources/beard-spqr-2015|SPQR]], 2015)** singles out the corn law as
+establishing a genuinely novel principle unique in the ancient Mediterranean:
+"Rome was the only place in the ancient Mediterranean where the state took
+responsibility for the regular basic food supplies of its citizens" — a principle
+that, in amended form, endured for centuries, unlike the Greek world's reliance on
+ad hoc elite benefaction.
+
 The main friendly source-strand (Plutarch, Appian) goes back to Gaius' own writings;
 Diodorus/Posidonius is hostile ("a sword threatening the Senate"). The detailed reform
 of the extortion court survives **epigraphically** (the Tabula Bembina), correcting the
@@ -67,5 +74,6 @@ vaguer literary accounts. See [[optimates-populares]].
 
 - Brother: [[tiberius-gracchus]] · ally: M. Fulvius Flaccus · enemy: Opimius
 - Concepts: [[senatus-consultum-ultimum]] · [[roman-equites]] ·
-  [[agrarian-crisis-roman-republic]] · [[roman-italian-alliance]] · [[optimates-populares]]
-- Source: [[crook-cah-v9-1992]] (Ch. 3, Lintott)
+  [[agrarian-crisis-roman-republic]] · [[roman-italian-alliance]] · [[optimates-populares]] · [[mos-maiorum]]
+- Successor/rival: [[livius-drusus-younger|M. Livius Drusus the Younger]] (whose father outbid him in 122)
+- Source: [[crook-cah-v9-1992]] (Ch. 3, Lintott) · [[duncan-storm-before-the-storm-2017]]

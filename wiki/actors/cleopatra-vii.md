@@ -10,8 +10,8 @@ affiliated_with: ["Ptolemaic dynasty", "Julius Caesar", "Mark Antony"]
 opposed_by: ["Ptolemy XIII", "Octavian/Augustus", "Roman Senate propagandists"]
 key_events: ["Exile in Syria and return with mercenaries 48 BCE", "Secret arrival in sack to meet Caesar in Alexandria 48 BCE", "Birth of Caesarion 47 BCE", "Sojourn in Rome 46–44 BCE", "Meeting with Antony at Tarsus 41 BCE", "Donations of Alexandria 34 BCE", "Battle of Actium 31 BCE", "Suicide 30 BCE"]
 key_processes: ["Ptolemaic dynastic politics and sibling rivalry", "Hellenistic monarchy in the face of Roman expansion", "Use of spectacle, cult, and personal diplomacy by female rulers", "Roman construction of the 'Eastern threat' and female power as moral danger", "Transition from Hellenistic to Roman world order"]
-sources_ingested: 1
-last_updated: 2026-06-25
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, north-africa, mediterranean, ptolemaic, cleopatra-vii, julius-caesar, mark-antony, alexandria, actium]
 ---
 
@@ -48,4 +48,15 @@ Her death marked the end of the last major Hellenistic kingdom and the final inc
 
 The surviving sources are almost entirely Roman or written under Roman rule and deeply hostile. Plutarch, Appian, and Dio provide the main narratives; Cicero’s letters give a contemporary Roman senator’s disgusted reaction. Schiff’s biography is the leading modern corrective, emphasizing Cleopatra’s competence and the structural realities of power. Debates remain over the exact nature of her marriages/alliances, the cause of her death, and the degree of genuine affection versus political calculation in her relationships with Caesar and Antony.
 
-**Related:** [[hubs/biographies/classical-antiquity/cleopatra-vii]] (detailed) · [[actors/julius-caesar]] · [[actors/mark-antony]] · [[places/alexandria]] · [[periods/classical-antiquity]] · [[sources/schiff-cleopatra-a-life-2010]]
+## Beard (SPQR, 2015)
+
+Mary Beard argues that Octavian's propaganda deliberately recast the civil war
+against [[mark-antony|Antony]] as a foreign war against Cleopatra personally, so
+the conflict could be framed as Rome versus the East rather than Roman versus
+Roman — "by focusing on her rather than on Antony, Octavian could present the
+war as one fought against a foreign rather than a Roman enemy." She stresses
+that the "oriental" luxury and decadence attributed to Cleopatra's court in the
+Augustan record was "wildly exaggerated," part of the same propaganda
+campaign. See [[sources/beard-spqr-2015]].
+
+**Related:** [[hubs/biographies/classical-antiquity/cleopatra-vii]] (detailed) · [[actors/julius-caesar]] · [[actors/mark-antony]] · [[places/alexandria]] · [[periods/classical-antiquity]] · [[sources/schiff-cleopatra-a-life-2010]] · [[sources/beard-spqr-2015]]

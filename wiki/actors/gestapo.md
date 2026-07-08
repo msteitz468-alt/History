@@ -4,16 +4,15 @@ actor_type: institution
 date_start: 1933
 date_end: 1945
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [actor, institution, "world-wars-era", "western-europe"]
 affiliated_with: ["[[nazi-germany]]", "[[schutzstaffel-ss]]", "[[himmler-heinrich]]", "[[heydrich-reinhard]]"]
-opposed_by: []
-key_events: []
-key_processes: []
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [actor, institution, world-wars-era, western-europe]
+key_events: ""
+key_processes: ""
+opposed_by: ""
 ---
-
 # Gestapo (Geheime Staatspolizei)
 
 The Secret State Police, created by [[goring-hermann|Göring]] in Prussia in 1933
@@ -66,6 +65,11 @@ Gellately, *The Gestapo and German Society* (1990) reoriented the field from
 omnipotent-police myth to denunciation-driven "self-policing society"; Evans
 synthesizes this while insisting the terror was nonetheless real and central.
 
+## Shirer (1960) Addition
+
+Shirer (1960) supplies the institutional origin story: Göring intended "Secret Police Office" (Geheimes Polizei Amt/GPA) but avoided the acronym for its resemblance to the Soviet GPU; an unnamed post-office clerk suggested "Geheime Staatspolizei" (GESTAPO), established for Prussia by Göring on 26 April 1933. Himmler was named deputy chief of the Prussian Gestapo by Göring on 1 April 1934 (before the Röhm purge), expanding it into an SS instrument alongside Reinhard Heydrich (head of the SS Security Service/SD); a 1935 Prussian Supreme Court of Administration ruling placed Gestapo actions outside judicial review, and the 10 February 1936 Gestapo Law placed the secret police fully above court interference. Dr. Werner Best (a Himmler aide) is quoted: "As long as the police carries out the will of the leadership, it is acting legally." On 16 June 1936 a unified national police force was established for the first time in German history (previously organized state-by-state), with Himmler made Chief of the German Police — cementing SS control of all policing, consistent with the institutional consolidation Evans traces above. Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 - [[evans-third-reich-in-power-2005]]
+- [[shirer-rise-fall-third-reich-1960]]

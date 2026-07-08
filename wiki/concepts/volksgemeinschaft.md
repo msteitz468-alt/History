@@ -1,21 +1,14 @@
 ---
 title: Volksgemeinschaft
 concept_type: ideological / political
-origin: "Term circulated in German nationalist discourse from the late nineteenth century; systematized as Nazi state ideology after 1933. Eugen Diederichs used it in 1929; Nazi regime made it its explicit domestic program."
-applies_to_periods:
-  - World Wars Era
-applies_to_regions:
-  - western-europe
-  - eastern-europe
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [concept, World Wars Era, "western-europe"]
+applies_to_periods: [World Wars Era]
+applies_to_regions: ["western-europe", "eastern-europe"]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-22
-tags:
-  - concept
-  - World Wars Era
-  - western-europe
+origin: Term circulated in German nationalist discourse from the late nineteenth century; systematized as Nazi state ideology after 1933. Eugen Diederichs used it in 1929; Nazi regime made it its explicit domestic program.
 ---
-
 ## Definition
 
 *Volksgemeinschaft* ("people's community" or "folk community") was the central domestic promise and organizing ideology of the National Socialist regime. It designated a racially defined German national community that was supposed to replace class conflict, confessional divisions, regional loyalties, and the party-political fragmentation of Weimar democracy with an organic unity grounded in shared racial identity. The Nazis "made no secret of its view that the people in question was a racially defined German nation" (Smith 2011, ch. 22).
@@ -168,6 +161,10 @@ keep the Nazis than to lose both the war and the Nazis."
 
 See [[coercion-and-consent-nazi-germany]] for the full coercion/consent
 debate. Source: [[evans-third-reich-history-memory-2015]]
+
+## Shirer (1960) Addition
+
+[EYEWITNESS] Shirer's arrival narrative (he returned to Germany in late summer 1934) frames the concept directly from lived observation: most Germans did not resent their lost freedoms and "supported it with genuine enthusiasm," which Shirer attributes to Hitler "liquidating the past" and delivering jobs and national revival in exchange for "Guns before Butter" austerity. He records the popular slogan "Gemeinnutz vor Eigennutz!" ("The Common Interest before Self!") as a concise contemporary statement of the Volksgemeinschaft ideal in everyday circulation — a useful primary-source data point for the page's "myth vs. reality" debate above, since it documents the slogan's popular currency without adjudicating how sincerely it was believed. Source: [[shirer-rise-fall-third-reich-1960]].
 
 ## Resolution Status
 

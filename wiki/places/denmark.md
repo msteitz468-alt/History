@@ -7,8 +7,8 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 controlled_by: [[[harald-bluetooth|Jelling dynasty]], [[valdemar-dynasty|Valdemar dynasty]], [[margaret-i-of-denmark|Margaret I]] and the Kalmar Union]
 events_here: [[[kalmar-union-1397|Kalmar Union]]]
 processes_here: [[[christianization-of-scandinavia|Christianization of Scandinavia]], [[unification-of-the-scandinavian-kingdoms|unification of the Scandinavian kingdoms]]]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [place, scandinavia, denmark, early-middle-ages]
 ---
 
@@ -80,3 +80,13 @@ crisis from the 1840 language edict through the First Schleswig War (1848–50) 
 November Constitution (1863) that gave Bismarck his *casus belli*. See
 [[scandinavian-nation-state-formation]], [[denmark-norway]],
 [[kouri-olesen-cambridge-history-scandinavia-v2-2016]].
+
+## Wickham, *Framing the Early Middle Ages* (2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham]] treats Denmark as the second never-Roman region—the **archaeological model of what a “free German” social system might become with minimal Roman/Frankish influence** (affinities with southern North Sea Frisia/Saxony more than mountainous Scandinavia). No contemporary narrative texts until conversion (few runes; three named pre-800 rulers), but exceptionally rich archaeology including Gudme (richest northern European site of the period) and type-site [[vorbasse|Vorbasse]].
+
+- Wealth hierarchies and exchange of Roman then Frankish luxuries appear early. Eighth-century centralization signs: deliberate foundation of **Ribe** (705–10), **Danevirke** dendrochronology 737 or earlier, Kanhave canal (726), Hedeby; Godofrid’s (d. 810) family may imply century-plus power.
+- Written and archaeological evidence supports a cohesive **south-central Jutland-based kingdom c.700–870** (Ongendus, Sigfrid, Godofrid, Horics): resistance to Charlemagne and equal peace treaties 811/813; *principes*, town *comites*, labour and naval service. Unusually large and durable by Northern standards after Offa’s Mercia—but the kingdom **fell apart after the 860s** and was only re-established mid-tenth century (Jelling). Not England’s unbroken accumulation.
+- Caution against reading Gudme–Lundeborg (c.400–550 peak gold wealth) as proof of a single early Danish state: Gudme is not in later Jutland core; 550–700 is an archaeological caesura with multiple lesser “central places”; Gudme wealth partly reflects Roman-collapse precious-metal flows north. Better model: decentralized tribal polities (Ringtved ~four; possibly more central-place foci), English seventh-century one-/two-county scale lasting longer. Elites stable but with more signs of autonomy than control—as in early England, Wales, and Ireland. Village society ([[vorbasse]]) shows prosperous peasants without direct external or internal domination.
+
+*Link types:* contains: [[vorbasse]]; contrasts_with: [[ireland]]; concurrent_with: [[scandinavian-urbanisation]], [[scandinavian-peasantry]]; analogous_to: seventh-century English tribal kingdoms.

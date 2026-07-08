@@ -5,8 +5,8 @@ origin: Etic; coined from the legal term "feudum" (fief) by sixteenth-century ju
 applies_to_periods: [Early Middle Ages, High Middle Ages]
 applies_to_regions: [western-europe, mediterranean]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -62,11 +62,24 @@ The verdict is not that lords, fiefs and homage did not exist, but that
 public obligation, community, and law in the eleventh and twelfth centuries. See the
 [[feudalism-construct-debate|controversy page]].
 
+## Wickham, *Framing the Early Middle Ages* (2005): three senses; mode of production
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham]] distinguishes three traditional historical uses of “feudal”:
+
+1. **Mode of production** — landlords take surplus (rent) set by force and custom/law from peasants who usually control production and subsistence; aristocrats dominate exchange as principal consumers, so artisanal specialization and accumulation ultimately depend on aristocratic (including royal and ecclesiastical) demand ([[aristocratic-demand]]).
+2. **Feudal society** as the “politics of land” of land-based rather than tax-based polities ([[politics-of-land]], [[tax-based-vs-land-based-states]]).
+3. **Military feudalism / feudo-vassalic relations** — conditional military tenures (fiefs) and complex rules of loyalty (the sense closest to juristic “feudalism”).
+
+In *Framing* he uses “feudal” **only in sense (1)**. Sense (3) is chronologically later than 400–800; for sense (2) he prefers the shorthands “tax” and “land.” In later chapters the feudal mode labels aristocratic-dominated class society as opposed to peasant-dominated ranked society ([[peasant-mode-of-production]]).
+
+Twelfth-century serf-like subjection combined legal unfreedom (changed content), *seigneurie banale* private justice (mainly late tenth century onward), and bipartite demesne labour; their mutual dialectic with private justice is “simply absent” from 400–800 and before the late tenth century, so Wickham avoids calling unfree tenants “serfs.” Most early medieval *servi/mancipia* were tenants with holdings, not chattel slaves; the free–unfree boundary was legally stressed yet practically permeable, and denser unfreedom in the West weakened collective peasant cooperation relative to the East. The classic path from free tenants down and unfree tenants up into central-medieval “serf” status has real beginnings in Francia and Italy where tenurial relation came to dominate legal distinctions—but **not** continuity with late Roman colonate laws ([[bipartite-manor]]).
+
 ## Limitations and Critiques
 
 - The word has been used in incompatible senses (a narrow legal sense — the law of
   fiefs; a broad social sense — Bloch's society type; and a Marxist sense — a mode of
   production based on serf labour), so that scholars often talk past one another.
+  Wickham’s explicit three-way split is one attempt to prevent that cross-talk.
 - It fits western Francia and Norman England far better than [[ottonian-dynasty|
   Ottonian/Salian Germany]], León, or the Italian cities, where public structures
   persisted — the same regional unevenness that dogs the [[feudal-revolution-debate|
@@ -92,4 +105,7 @@ violently with justice. The term is treated more fully under the
 - `followed_by:` [[european-nobility-late-medieval|"bastard feudalism" and the fifteenth-century nobility]].
 - [[ius-commune]] — the *Libri Feudorum* from which the "feudal" abstraction was built.
 - [[chivalry]], [[three-orders]], [[bipartite-manor]] — the social realities the term tried to name.
+- [[politics-of-land]] · [[peasant-mode-of-production]] · [[aristocratic-demand]] ·
+  [[tax-based-vs-land-based-states]]
 - [[feudalism-construct-debate]] — the historiographical dispute.
+- [[wickham-framing-the-early-middle-ages-2005]] — mode-of-production usage for 400–800.

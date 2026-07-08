@@ -9,8 +9,8 @@ affiliated_with: [the populares; the Marian connection; the First Triumvirate]
 opposed_by: [Cato and the optimates (the *factio*); Bibulus; ultimately Pompey]
 key_events: [the consulship of 59, the [[first-triumvirate]], the [[caesar-gallic-war-58-50bce|conquest of Gaul]], the [[roman-civil-war-49-45bce|civil war]] (49–45), the [[caesars-dictatorship|dictatorship]], the [[julius-caesar-assassination-44bce|Ides of March]] (44)]
 key_processes: [[[optimates-populares]], the fall of the Republic]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
@@ -94,6 +94,19 @@ softened) are a primary and self-interested source, alongside **Cicero's letters
 (the richest contemporary record of 59–49) and the later Plutarch, Suetonius, Appian,
 and Dio. The "legal question" of when his command expired is an old scholarly battle
 Wiseman treats as insoluble — and rendered moot by the invasion itself.
+
+## Beard (SPQR, 2015)
+
+Mary Beard's *SPQR* (2015) offers several sharper readings of Caesar's career, presented here as her attributed positions:
+
+- **Gaul as "not unfairly compared to genocide."** Beard notes Caesar's conquest of Gaul "has not unfairly been compared to genocide and was criticised by Romans at the time in those terms" — citing Pliny the Elder's charge (of up to a million dead) that Caesar's campaigns amounted to what Pliny, "strikingly modern," called "a crime against humanity." She also reads the *Commentaries on the Gallic War* as a genre-founding but self-serving work of "imperial ethnography."
+- **The Rubicon quotation misremembered.** Beard corrects the popular "the die is cast" reading: Caesar's actual Greek quotation (from Menander, via Asinius Pollio) — "let the dice be thrown" — expressed uncertainty and openness to chance, not fatalistic resolve.
+- **Clementia as monarchical, not republican.** Beard's sharpest point on the assassination: Caesar's celebrated *clementia* toward pardoned enemies was itself a mark of monarchical power, since "only those with the power to do otherwise can exercise mercy" — making clementia "the antithesis of Republican libertas," and so a root grievance (not a mitigating virtue) for conspirators he had personally pardoned, including [[julius-caesar-assassination-44bce|Brutus]].
+- **Civil war as a contest between rival emperors, not liberty vs. tyranny.** Beard argues the Caesar–Pompey war is misremembered as freedom against autocracy: "Pompey, their figurehead, was no less an autocrat than Caesar," and the later image of Pompeians as freedom fighters was an Augustan-era invention — Cicero himself said either outcome meant "slavery for Rome."
+- **The 63 BCE life-imprisonment proposal.** In the Catilinarian debate, Beard notes Caesar's proposal to imprison rather than execute the conspirators may be "the first time in Western history" life imprisonment was mooted as an alternative to the death penalty — overruled by Cicero's summary executions.
+- **The Ides as "a very odd sort of freedom."** Beard reads the liberators' EID MAR coinage as proclaiming freedom while in fact removing a tyrant without disposing of tyranny — the assassination led directly to renewed civil war and the permanent establishment of one-man rule.
+
+See [[sources/beard-spqr-2015]].
 
 ## Related
 

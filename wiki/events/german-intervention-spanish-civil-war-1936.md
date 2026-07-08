@@ -5,15 +5,15 @@ date_end: "1936-10"
 date_precision: exact for initial decision; approximate for escalation
 period: [World Wars Era]
 region: ["western-europe", mediterranean]
-causes: ["[\"bolshevism-threat|Hitler's ideological preoccupation with Bolshevism (Iberian peninsula as new front)\"]", "[\"spanish-crisis|Franco's request for transport planes after failed coup (July 1936)\"]", "[\"adolf-hitler|Decision taken alone against Foreign Office advice (25 July Bayreuth)\"]", "[\"economic-gain|Göring emphasis on raw materials (Andalusia, barter for arms)\"]", "[\"mussolini-support|Italian involvement (parallel aid)\"]", "[\"hitler-confidence|Post-Rhineland self-confidence; weakened position of cautious advisers\"]"]
-consequences: ["[\"spanish-war-prolongation|German aid helped prolong the civil war; Legion Condor formed October 1936\"]", "[\"axis-formation|Deepened cooperation with Italy (pilots operating in unison; Guernica 1937 emblem)\"]", "[\"rehearsal-war|Rehearsal for general showdown between Fascism and Communism\"]", "[\"hitler-ideology|Confirmed ideological framing of foreign policy\"]", "[\"military-experience|Combat experience for Luftwaffe; testing of tactics/equipment\"]", "[\"raw-materials|Some access to Spanish raw materials via barter\"]"]
-sources_ingested: [3]
-last_updated: "2026-07-02"
+causes: ["[\\\"bolshevism-threat|Hitler's ideological preoccupation with Bolshevism (Iberian peninsula as new front)\\\"]", "[\\\"spanish-crisis|Franco's request for transport planes after failed coup (July 1936)\\\"]", "[\\\"adolf-hitler|Decision taken alone against Foreign Office advice (25 July Bayreuth)\\\"]", "[\\\"economic-gain|Göring emphasis on raw materials (Andalusia, barter for arms)\\\"]", "[\\\"mussolini-support|Italian involvement (parallel aid)\\\"]", "[\\\"hitler-confidence|Post-Rhineland self-confidence; weakened position of cautious advisers\\\"]"]
+consequences: ["[\\\"spanish-war-prolongation|German aid helped prolong the civil war; Legion Condor formed October 1936\\\"]", "[\\\"axis-formation|Deepened cooperation with Italy (pilots operating in unison; Guernica 1937 emblem)\\\"]", "[\\\"rehearsal-war|Rehearsal for general showdown between Fascism and Communism\\\"]", "[\\\"hitler-ideology|Confirmed ideological framing of foreign policy\\\"]", "[\\\"military-experience|Combat experience for Luftwaffe; testing of tactics/equipment\\\"]", "[\\\"raw-materials|Some access to Spanish raw materials via barter\\\"]"]
+sources_ingested: [4]
+last_updated: "2026-07-03"
 tags: [event, "world-wars-era", spain, military, "adolf-hitler", "spanish-civil-war", axis, "anti-bolshevism"]
 event_type: military
 location: [Spain, Spanish Morocco, Bayreuth]
-actors_primary: ["[\"adolf-hitler\"]", "[\"actors/franco-francisco\"]", "[\"actors/goering-hermann\"]", "[\"actors/blomberg-werner-von\"]", "[\"actors/ribbentrop-joachim-von\"]"]
-actors_secondary: ["[\"actors/mussolini-benito\"]", "[\"german-foreign-office|German Foreign Office\"]", "[\"german-business|Export firms (Bernhardt)\"]", "[\"legion-condor|Legion Condor (later)\"]"]
+actors_primary: ["[\\\"adolf-hitler\\\"]", "[\\\"actors/franco-francisco\\\"]", "[\\\"actors/goering-hermann\\\"]", "[\\\"actors/blomberg-werner-von\\\"]", "[\\\"actors/ribbentrop-joachim-von\\\"]"]
+actors_secondary: ["[\\\"actors/mussolini-benito\\\"]", "[\\\"german-foreign-office|German Foreign Office\\\"]", "[\\\"german-business|Export firms (Bernhardt)\\\"]", "[\\\"legion-condor|Legion Condor (later)\\\"]"]
 dating_method: documentary
 scale_consequential: civilizational
 scale_immediate: regional
@@ -97,3 +97,13 @@ Italy rather than Germany; see [[appeasement]]. Source:
 ## From Payne, *The Franco Regime* (1987)
 
 The Spanish-side view (ingested 2026-07-02): no direct contacts between the military conspirators and Berlin or Rome existed before the war's first week (Viñas's "definitive study" — the "international fascist conspiracy" thesis fails). Hitler decided on 26 July 1936 to send 26 transports and equipment; Mussolini decided independently on 27 July; their parallel Spain decisions of 4 August began the cooperation that became the Rome–Berlin Axis that October. German/Italian aircraft made Franco's airlift of the Army of Africa (begun 20 July with Spanish planes — "the first airlift in military history") a full-scale transfer of 24,000 elite troops by end-September. Soviet escalation in autumn 1936 prompted Hitler's Condor Legion counter-escalation (November, ~100 combat aircraft); Germany and Italy recognized Franco on 18 November 1936, but Hitler decided against further expansion on 22 December while Mussolini committed ground divisions. Payne adds the economic sequel: seventeen German-dominated mining companies under the 1938 concessions ("the Germans consider Spain a colony of theirs," one Spanish report complained), war debts to Italy scaled down to ~$250m and repaid on schedule to 30 June 1967, and — on the air war — his note that Franco generally avoided bombing civilian areas, the 1938 Barcelona terror raids being ordered directly by Mussolini. Source: [[payne-franco-regime-1987]]
+
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Shirer dates Hitler's decision to the night of 22 July 1936 at Bayreuth, after a German businessman from Morocco arrived with an urgent letter from Franco requesting planes; Hitler immediately summoned Goering and Blomberg (both also at the Wagner Festival) and decided that evening. German aid ultimately totaled an estimated half a billion Reichsmarks, versus Italy's 60,000–70,000 troops (Shirer 1960) — figures somewhat at variance with Payne's more precise totals already on this page; both should stand as separate estimates rather than be reconciled in wiki voice.
+
+[SHIRER-THESIS] Shirer argues Hitler's Spanish policy was calculated to prolong the war deliberately, to keep Italy and the Western democracies at odds and draw Mussolini toward Germany — citing German ambassador Ulrich von Hassell's December 1936 dispatch that the Spanish conflict was "bringing out clearly the actual, opposing interests of the powers... All the more clearly will Italy recognize the advisability of confronting the Western powers shoulder to shoulder with Germany," and Hitler's own confidential remark of 5 November 1937 that "a hundred per cent victory for Franco" was "not desirable from the German point of view. Rather we are interested in a continuance of the war."
+
+Goering's Nuremberg testimony (14 March 1946) confirmed the Luftwaffe used Spain as a live testing ground: "With the permission of the Fuehrer I sent a large part of my transport fleet and a number of experimental fighter units, bombers and antiaircraft guns... in order that the personnel, too, might gather a certain experience, I saw to it that there was a continuous flow" — corroborating Evans's account (above) of the Condor Legion as a proving ground.
+
+[[shirer-rise-fall-third-reich-1960]]

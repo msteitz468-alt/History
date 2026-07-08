@@ -9,8 +9,8 @@ affiliated_with: [the Li imperial house (of mixed Chinese-Xianbei descent)]
 opposed_by: [the Eastern Türks, the Tibetan Empire, the [[caliphate|Abbasid Caliphate]], Koguryŏ]
 key_events: [defeat of the Eastern Türks 630 CE, conquest of Paekche 660 and Koguryŏ 668 CE, Battle of Talas 751 CE, An Lushan rebellion 755 CE]
 key_processes: [[[empire]], [[silk-roads]], civil service examinations, [[buddhism]], [[east-asian-cultural-sphere]]]
-sources_ingested: 4
-last_updated: 2026-06-14
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [actor, dynasty, early-middle-ages, china, east-asia]
 ---
 
@@ -96,3 +96,17 @@ Rebellion (755–763)]]** — the structural catastrophe (over-mighty frontier *
 court) that broke the high Tang, halved the registered population, and triggered the fiscal and
 social transformation (the twice-a-year tax; the rise of the south) leading to the
 [[song-dynasty|Song]]. See [[cambridge-history-of-china]].
+
+## The Borderland Horse Economy (Skaff, in Kim et al. 2017)
+
+Jonathan Karam Skaff (in [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]], Ch. 2) shows that Tang military power depended on direct state control of a **borderland breeding-ranch system**, not merely on trade/tribute with independent steppe polities — a point the volume's editors read as symbiosis rather than the older "China vs. steppe" antithesis. The **Court of Imperial Stud** (*taipu si*) administered dozens of ranches in the China–Inner Asia borderlands; herd sizes swung enormously — from ~5,000 horses in 618 to a peak of 706,000 by the mid-seventh century, collapsing after the **An Lushan Rebellion (755)** to a few thousand by the ninth century. Skaff argues these swings owed as much to **weather disasters and the shifting military balance with the Türks** (war booty versus plunder losses) as to administrative competence, and stresses that the ranch system's personnel — from vice-ministers like Zhang Wansui down to grooms — were disproportionately drawn from **borderland and non-Han backgrounds** (Sogdian, Türk, Korean). See the dedicated process page [[tang-borderland-breeding-ranch-system]] for the full institutional detail.
+
+## The southern frontier: the Protectorate of An Nam (Taylor 2013)
+
+The Tang governed the Red River lands as the **Protectorate of An Nam** ("pacified south," formally
+established 679), anchored on Dai La (modern Hanoi) with a peasant-soldier militia under the equal-field
+system. Taylor stresses that recorded unrest here (the 687 tax revolt, the 722 "Black Emperor" uprising)
+was resistance to inept governors, not proto-national resistance to Chinese rule as such. The protectorate
+was devastated by the [[nan-zhao-war-854-866|Nan Zhao War (854–866)]] and rebuilt by the general Gao Pian,
+before Tang garrisons withdrew by 880 — the prelude to durable Vietnamese autonomy under
+[[ngo-quyen|Ngo Quyen]]. See [[sinicization-of-vietnam]] and [[dai-viet]].

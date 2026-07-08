@@ -1,23 +1,22 @@
 ---
-title: Reichstag Election, July 1932
-date_start: 1932-07-31
-date_end: 1932-07-31
+title: "Reichstag Election, July 1932"
+date_start: "1932-07-31"
+date_end: "1932-07-31"
 date_precision: exact
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
+causes: ["lifting-of-sa-ban-june-1932", "papen-dissolution", "continuing-depression", "nazi-toleration-then-opposition-to-papen", "previous-presidential-and-state-gains"]
+consequences: ["nazi-largest-party-230-seats-37.4-percent", "pyrrhic-victory-no-absolute-majority", "intensified-backstairs-negotiations", "august-1932-hindenburg-rejection", "continued-crisis-and-violence"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe", "nazi-rise", "reichstag-election", 1932]
+event_type: election
 location: [germany]
 actors_primary: ["adolf-hitler", "nazi-party", "joseph-goebbels"]
 actors_secondary: ["franz-von-papen", "social-democratic-party"]
-event_type: election
-scale_immediate: national
 scale_consequential: civilizational
-causes: ["lifting-of-sa-ban-june-1932", "papen-dissolution", "continuing-depression", "nazi-toleration-then-opposition-to-papen", "previous-presidential-and-state-gains"]
-consequences: ["nazi-largest-party-230-seats-37.4-percent", "pyrrhic-victory-no-absolute-majority", "intensified-backstairs-negotiations", "august-1932-hindenburg-rejection", "continued-crisis-and-violence"]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, western-europe, nazi-rise, reichstag-election, 1932]
+scale_immediate: national
 ---
-
 # Reichstag Election, 31 July 1932
 
 ## Narrative
@@ -72,8 +71,13 @@ Papen's own decree, commuted under Nazi pressure), with Hitler's public
 telegram of solidarity: "I want victory for a nationalistic Germany, and
 annihilation for its Marxist destroyers and corrupters."
 
+## Shirer (1960) Addition
+
+Shirer (1960) adds the subsequent 6 November 1932 election (the fourth national election within a year) for context on the ceiling: Nazis lost 2 million votes and 34 seats (down to 196) — their first electoral reversal, "the legend of invincibility had been shattered." Communists gained 750,000 votes (89→100 seats); SPD lost the same (133→121); Hugenberg's Nationalists gained roughly 1 million votes (37→52 seats), apparently drawn from disillusioned Nazi voters. Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 Kershaw, *Hitler 1889–1936: Hubris* (1998), range 03.
 Evans, *The Coming of the Third Reich* (2003), Part 4.
+Shirer, *The Rise and Fall of the Third Reich* (1960).
 Cross: [[appointment-of-hitler-30-january-1933]], 13 August 1932 Hindenburg rejection, [[papen-franz-von|Papen government 1932]]

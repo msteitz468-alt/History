@@ -87,3 +87,4 @@ its Atlantic galleys reshaped the medieval economy.
 - `part_of:` the [[commercial-revolution|commercial revolution]] and the Italian maritime republics.
 - `concurrent_with:` the [[guelphs-and-ghibellines|Guelf–Ghibelline]] struggle (Genoa often Ghibelline/neutral, Pisa staunchly Ghibelline).
 - `enabled:` the fall of the Latin empire (Treaty of Nymphaion, 1261) — see [[charles-of-anjou]] and the Byzantine recovery.
+- `contains:` [[caffa]] — Genoa's great Black Sea colony (c. 1270s–1475), the model "trading frontier" analysed by Balard in *[[abulafia-berend-medieval-frontiers-2002|Medieval Frontiers]]*; administered by the Officium Gazarie and, after 1453, the **Banco di San Giorgio**, whose withdrawal of investment left Caffa's walls unrepaired before its fall to [[mehmed-ii|Mehmed II]] in 1475. See [[medieval-frontier]].

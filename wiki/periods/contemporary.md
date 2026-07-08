@@ -7,8 +7,8 @@ date_range: 1991–present
 regions_covered: [global]
 major_themes: [globalization, the climate crisis, the East Asian ascent, post-Cold-War order, renewed mass migration, demographic deceleration, digital connection]
 collection_coverage: weak
-sources_ingested: 11
-last_updated: 2026-06-22
+sources_ingested: 12
+last_updated: 2026-07-03
 tags: [period]
 ---
 
@@ -25,6 +25,8 @@ that the volume treats as the open-ended culmination of the
 [[anthropocene|Anthropocene]]; and a *connectedness* — material and imagined,
 increasingly digital — that makes "globalization" something qualitatively more than
 the long-distance contact of earlier eras.
+
+Recent US-focused narrative sources (e.g. [[sources/kruse-zelizer-fault-lines-2025|Kruse & Zelizer, *Fault Lines* (2025)]] and [[sources/jenkins-short-history-of-america-2025|Jenkins, *A Short History of America* (2025)]]) are strengthening coverage of domestic political culture, polarization, and the post-1991 US experience within the broader global frame.
 
 CWH VII, published in 2015, writes the contemporary world as the still-unfolding tail
 of the [[great-acceleration|Great Acceleration]]. Its leading edges: the **shift of

@@ -3,9 +3,9 @@ title: Were There States in North America North of Mexico?
 dispute_type: interpretation
 period_involved: [Late Antiquity, Early Middle Ages, High Middle Ages]
 regions_involved: [north-america, eastern-north-america, mesoamerica]
-positions: [secondary states existed (Lekson — Chaco as altepetl), "the good gray intermediate" (no states north of Mexico)]
+positions: [secondary states existed (Lekson — Chaco as altepetl), "the good gray intermediate" (no states north of Mexico), complex chiefdom not state (Cordell & Smith / Smith — SW and Cahokia), managerial elites and alliances destroyed by contact (Upham et al.)]
 resolution_status: open
-last_updated: 2026-06-10
+last_updated: 2026-07-08
 tags: [controversy]
 ---
 
@@ -51,15 +51,64 @@ the Southwest's elites and hierarchy as newly recognized realities; Lekson press
 and empires." Per the Contradiction Protocol, the orthodox "intermediate" position is recorded
 here with its arguments and is not adjudicated.
 
+## Cordell & Smith / Smith (CHNPA I.1 ch. 4–5) — positions (not adjudication)
+
+**3. Southwest: no states; hierarchical regional systems unstable (Cordell & Smith).**
+“No one would maintain that state-level organizations occurred in the Southwest, or that
+hierarchically organized regional systems were at all stable.” Some describe alliances with
+central places, trade, stratification, and agricultural intensification; others see more
+egalitarian modular “**sequential hierarchies**” (Gregory A. Johnson) that resolve problems
+then return to an egalitarian state. SW never sustained continued growth toward complexity as
+in the eastern United States and Mesoamerica — environments less productive; options included
+mix of hunting/gathering vs horticulture, formalizing/disrupting trade, occasional
+redistribution, and population movement until Europeans and livestock closed many responses.
+*contrasts_with:* [[mississippian-culture]]; *contrasts_with:* full [[chiefdom]] stability
+claims for SW.
+
+Related hedge on **ethnographic analogy**: modern Pueblos are strongly egalitarian and
+village-independent, often assumed ancient/ubiquitous; researchers such as Steadman Upham
+argue formal political/economic alliances and managerial elites existed and were destroyed by
+disease, conquest, and trade disruption. Chaco road functions debated (storage/transport vs
+symbolic/ritual); organization not closely mirrored in modern Pueblos. Hohokam irrigation
+labor coordination and water-rights adjudication have been cited as requiring administrative
+hierarchies; alternatives stress ceremonial control, redistribution, or Mesoamerican
+middlemen — all hedged in source.
+
+**4. Cahokia as complex chiefdom, not state/empire (Bruce D. Smith, ch. 5).**
+Some prehistorians cast [[cahokia]] as a great city — urban capital of a powerful state-level
+society controlling vast eastern territories. Smith judges claims of vast size, complexity,
+and socio-political reach **often greatly overdrawn**, while acknowledging the site is
+impressive. He operationalizes Mississippian polities — including Cahokia’s integration of
+other mound-centered societies — as midrange “**chiefdom**”-level groups via overlapping
+networks of status and obligation; regional-scale or complex chiefdoms are **quite unstable**
+(Cahokia florescence largely fragmented by A.D. 1150–1200). High-end population estimates
+(26,000–43,000) are likely 4–5× actual peak; even at more reasonable thousands, Cahokia was
+still the largest population concentration north of Mexico before Europeans — but that does
+not license state/empire models. *applies:* [[chiefdom]] / [[band-tribe-chiefdom-state]]
+framing to Cahokia. American Bottom mound-centered societies with Cahokia central were
+probably politically independent to varying degrees and economically self-sufficient —
+not a rigid centralized state system.
+
+**Shared factual ground (framed per side):** large earthworks, plazas, exotic goods, and
+labor mobilization at Chaco, Hohokam canal systems, and Cahokia are not in dispute; the
+dispute is classificatory (state vs chiefdom vs rituality vs sequential hierarchy) and
+methodological (ethnographic projection, population estimation, Mesoamerican analogy).
+
 ## Resolution Status
 
 **Open.** Lekson concedes the **range of interpretations of Chaco is "staggering" and
 unreconciled** — village, pilgrimage center, chiefdom, regional capital, or altepetl. No
 consensus exists on whether the label "state" applies north of Mexico; the dispute turns on
 definitions of the state, the weight given to Mesoamerican connections, and the proper role of
-Pueblo ethnography in interpreting the deep past.
+Pueblo ethnography in interpreting the deep past. Cordell & Smith and Smith add a Cambridge
+reference-series voice that **presumptively treats** even the largest northern polities as
+unstable complex chiefdoms or non-state regional systems without adjudicating Lekson’s
+altepetl thesis out of existence.
 
 ## See Also
 
-[[chaco-canyon]] · [[north-american-mound-building]] · [[mesoamerican-state-formation]] ·
-[[cahokia]] · [[great-man-vs-structural-causation]] · [[pre-columbian-population-debate]]
+[[chaco-canyon]] · [[hohokam]] · [[ancestral-pueblo]] · [[north-american-mound-building]] ·
+[[mesoamerican-state-formation]] · [[cahokia]] · [[mississippian-culture]] · [[chiefdom]] ·
+[[band-tribe-chiefdom-state]] · [[great-man-vs-structural-causation]] ·
+[[pre-columbian-population-debate]] ·
+[[sources/cambridge-history-native-peoples-americas-v1-1]]

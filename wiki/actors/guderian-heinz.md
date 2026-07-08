@@ -1,20 +1,19 @@
 ---
 title: Heinz Guderian
 actor_type: person
-date_start: 1888-06-17
-date_end: 1954-05-14
-period: [world-wars-era, cold-war]
-region: [western-europe, eastern-europe]
+date_start: "1888-06-17"
+date_end: "1954-05-14"
+period: ["world-wars-era", "cold-war"]
+region: ["western-europe", "eastern-europe"]
+sources_ingested: [3]
+last_updated: "2026-07-03"
+tags: [actor, person, "world-wars-era", germany]
 affiliated_with: [Wehrmacht, Panzer forces, Nazi Germany]
-opposed_by: [Allied powers]
-key_events: [invasion-of-poland-1939, battle-of-france-1940, operation-barbarossa-1941, battle-of-kiev-1941, battle-of-smolensk-1941, operation-typhoon-1941]
-key_processes: [blitzkrieg, mobile-armored-warfare, panzer-doctrine]
-sources_ingested: 2
-last_updated: 2026-06-26
-tags: [actor, person, world-wars-era, germany]
 aliases: [Heinz Guderian, Guderian Heinz, Heinz Wilhelm Guderian, General Guderian]
+key_events: ["invasion-of-poland-1939", "battle-of-france-1940", "operation-barbarossa-1941", "battle-of-kiev-1941", "battle-of-smolensk-1941", "operation-typhoon-1941"]
+key_processes: [blitzkrieg, "mobile-armored-warfare", "panzer-doctrine"]
+opposed_by: [Allied powers]
 ---
-
 # Heinz Guderian
 
 German general and armored warfare theorist. Key developer and practitioner of Blitzkrieg tactics using concentrated Panzer divisions supported by air power and radio. Led XIX Panzer Corps in Poland and France; commanded 2nd Panzer Army in Barbarossa (Kiev encirclement, drive on Moscow/Typhoon). Briefly Inspector General of Armored Troops; later Chief of Staff. Author of *Achtung – Panzer!*.
@@ -31,3 +30,5 @@ See: [[adolf-hitler]], [[world-war-ii-1939-1945]], [[operation-barbarossa-1941]]
 **From West Point WWII Vol 1 (range 3 extraction - Barbarossa context):**
 - Role in Kiev encirclement: "In the meantime, other forces from Army Group Center's sector of Guderian’s Second Panzergruppe, in Army Group Center's sector." Participated in the southward thrust (alongside the main effort from Army Group South) that closed the ring around Kiev on 15 September 1941. The pocket destroyed four Soviet field armies / 43 divisions; >700,000 Soviet losses.
 - Part of the Hitler-ordered diversion away from Moscow drive. `[[heinz-guderian]]` `contributed_to:` [[battle-of-kiev-1941]] `part_of:` [[operation-barbarossa-1941]] `part_of:` [[events/world-war-ii-1939-1945]]; `part_of:` [[hubs/warfare/world-wars-era/second-world-war/second-world-war]]
+
+**From Shirer, *The Rise and Fall of the Third Reich* (1960):** Guderian's direct appeal to Hitler on 23 August 1941 to abandon the Ukraine diversion and press on to Moscow was overruled; he later described the moment of his isolation: "all those present—Keitel, Jodl and others—nodded in agreement with every sentence that Hitler uttered, while I was left alone with my point of view." He was among the T-34's first shocked observers that summer, reporting (with Blumentritt and Sepp Dietrich) that German antitank shells "bounced harmlessly off it." His diary is also Shirer's source for the extreme cold of the Typhoon offensive that December (first frostbite cases 7 Nov, −31°F by 4 Dec). Source: [[shirer-rise-fall-third-reich-1960]]

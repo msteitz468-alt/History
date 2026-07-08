@@ -8,8 +8,8 @@ region: [steppe, central-asia, eurasian-steppe, china, iran-plateau, eastern-eur
 process_type: political
 driven_by: ["mobile [[pastoralism|pastoral economy]]", "the horse, composite bow, and (later) stirrup", "non-self-sufficiency requiring trade or raiding", "charismatic-military leadership", "the wealth of sedentary neighbors"]
 produces: ["steppe confederations and empires (Scythians, Xiongnu, Türks, [[mongol-empire|Mongols]])", "facilitation & protection of the [[silk-roads|Silk Roads]]", "pressure on and migration into settled empires", "the spread of Turkic languages", "the nomad–sedentary dialectic", "cavalry warfare"]
-sources_ingested: 4
-last_updated: 2026-06-27
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [process, classical-antiquity, early-middle-ages, steppe, central-asia]
 ---
 
@@ -323,6 +323,10 @@ that the Northern Zone "possibly functioned as a clearinghouse for new technical
 developments into and out of China" (Di Cosmo 2002, p. 32). Chinese silk found in
 Pazyryk burials (5th–3rd c. BCE) further confirms this long-range connectivity.
 
+## The Mobility Continuum and "Nomad Capitals" (Negus Cleary, in Kim 2017)
+
+Michelle Negus Cleary's chapter in Kim et al. 2017 (on [[khorezm|Khorezm]] and comparative Eurasian enclosure sites) reframes the "settled vs. nomadic" opposition as a false binary. Citing Salzman, she argues "'settled' and 'nomadic', rather than being two types, are better thought of as opposite ends of a continuum with many gradations of stability and mobility." Her own thesis (attributed, drawn from her PhD research, not consensus): large fortified Eurasian enclosure sites — Akchakhan-kala in Khorezm, the Xiongnu site of Ivolga, Afrasiab in Sogdia, Kala-i Zakhoki Maron (linked to the Kangju), and later Uighur, Kitan, and Mongol capitals — functioned as elite political/ceremonial capitals rather than nucleated urban settlements; excavation at Akchakhan-kala found no domestic occupation or street networks within its walls, only open space, with actual settlement occurring at low density outside the walls along canals. She proposes this reflects a genuinely **mobile population** whose political center resided in an itinerant royal court rather than a fixed city — a pattern she and A. Rapoport's "dispersed capital" typology extend by comparison to the Achaemenid court circuit (Persepolis, Susa, Pasargadae) and argue was "widespread across Eurasia from the Bronze Age until the Hellenistic period." This directly overturns the earlier Soviet-era Tolstov/Wittfogel reading of Khorezmian enclosures as centralized hydraulic-agricultural urban states. See [[khorezm]] for the site-level detail.
+
 ## Historiography
 
 The steppe is largely a **text-poor** world known through hostile sedentary sources
@@ -359,3 +363,5 @@ Pulleyblank called the single most important factor in the mid-first-millennium-
 nomadic power. The [[xiongnu]]→[[yuezhi]]→[[kushan-empire|Kushan]] sequence is Benjamin's
 prime case of nomads becoming the patrons of sedentary high culture and the very
 intermediaries who made the [[silk-roads|Silk Roads]] possible.
+
+Source: [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]].

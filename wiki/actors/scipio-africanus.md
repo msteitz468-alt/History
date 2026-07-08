@@ -9,8 +9,8 @@ affiliated_with: [[[roman-republic]], the Cornelii Scipiones]
 opposed_by: [[[hannibal]], [[carthage]], later [[fabius-maximus|Fabius]] and political rivals at Rome]
 key_events: [[[second-punic-war-218-201bce]], capture of [[new-carthage]] (209), [[battle-of-zama-202bce]], war against [[antiochus-iii-the-great|Antiochus III]]]
 key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, iberia, north-africa, rome]
 ---
 
@@ -59,6 +59,12 @@ grandson), is the prime and sympathetic source; his Scipionic bias colours the
 treatment of Cannae (absolving Paullus), Zama, and the legend. The factional
 reading of war-time politics (Scullard) centres on the Scipios and is contested as
 prosopographical inference. See [[second-punic-war-218-201bce]].
+
+Mary Beard ([[sources/beard-spqr-2015]]) notes that Scipio and his family
+(Aemilianus in particular) were not merely military men but patrons of Rome's
+earliest Latin literature (Ennius, ties to Terence) — framing the beginning of
+Roman overseas empire and the beginning of Roman literature as "two sides of the
+same coin."
 
 ## Related
 

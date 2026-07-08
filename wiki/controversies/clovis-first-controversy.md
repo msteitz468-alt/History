@@ -8,7 +8,7 @@ positions:
   - "Pre-Clovis: humans were present in the Americas before Clovis, likely via a Pacific coastal route"
   - "Solutrean hypothesis: Clovis technology derived from Ice Age European (Solutrean) origins via Atlantic crossing — minority/largely rejected"
 resolution_status: partially-resolved
-last_updated: 2026-06-27
+last_updated: 2026-07-08
 tags: [controversy, north-america, andes, Behavioral-Modernity]
 ---
 
@@ -80,5 +80,8 @@ The debate ran from the 1970s through the 1990s with the Clovis-first establishm
 - [[clovis-culture]]
 - [[megafaunal-extinction-americas-12000bp]]
 - [[beringia]]
+- [[clovis-first-vs-pre-clovis]] (parallel page; CWH I + Mann + **CHNPA II.1 Zeitlin Mesoamerican candidates**)
+- [[paleoindian-and-archaic-mesoamerica]]
 
-*Source: [[snow-gonlin-siegel-archaeology-native-north-america-2020]], Ch. 3.*
+*Source: [[snow-gonlin-siegel-archaeology-native-north-america-2020]], Ch. 3. CHNPA II.1
+Mesoamerican site detail filed primarily on [[clovis-first-vs-pre-clovis]].*

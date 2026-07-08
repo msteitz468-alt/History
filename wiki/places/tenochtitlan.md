@@ -3,12 +3,12 @@ title: Tenochtitlan
 place_type: city
 modern_equivalent: Mexico City (Lake Texcoco, Basin of Mexico)
 coordinates: ~19.43°N, 99.13°W
-period_active: [Late Middle Ages, Early Modern]
-controlled_by: [Aztec (Mexica) Triple Alliance]
-events_here: []
-processes_here: [[[urbanization]], [[ruralization]], [[mesoamerican-state-formation]]]
-sources_ingested: 3
-last_updated: 2026-06-12
+period_active: [Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century]
+controlled_by: [Aztec (Mexica) Triple Alliance, New Spain / Mexico City]
+events_here: [[[triple-alliance-formation-1428]], [[spanish-conquest-of-mexico-1519]]]
+processes_here: [[[urbanization]], [[ruralization]], [[mesoamerican-state-formation]], [[central-mexico-indigenous-colonial]], [[central-mexico-indigenous-since-independence]]]
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [place, mesoamerica, late-middle-ages]
 ---
 
@@ -78,6 +78,49 @@ independent American imperial metropolis whose scale, tribute economy, and
 ceremonial centrality rival any Old World capital, captured at the very moment of
 its violent end.
 
+## Charlton (CHNPA II.1): founding path, imperial capital, archaeology
+
+Thomas H. Charlton ([[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] Ch. 11)
+places Tenochtitlan at the end of a **secondary-state continuum** from Teotihuacan through
+Tula: once Teotihuacan had made the state a given condition in Central Mexico, later
+macroregional systems crystallized first at Tula and then at the Mexica island capital —
+processes of **warfare and tributary state formation** strongest initially outside but
+adjacent to the Basin, then reapplied within it.
+
+**Founding narrative (ethnohistory).** In Period 2 (c. 1250–1350) the Mexica settled first
+at Chapultepec on the western shore of Lake Texcoco; driven out by conflicts; became
+mercenary subordinates of Culhua Culhuacan; after an ill-considered sacrifice of a Culhuacan
+ruler's daughter, were exiled and took refuge on small western-lake islands where they
+**founded Tenochtitlan**. They remained a **minor player** among many warring Basin ethnic
+groups into the early fourteenth century. Smith dates Mexica arrival among Aztlan migrants
+around **A.D. 1248** (late relative to other Nahuatl groups marked by Early Aztec ceramics
+from ~1150).
+
+**From subordinate to Alliance capital.** Until Azcapotzalco's fall, Mexica shared Tepanec
+conquest benefits without directing them. After Tezozomoc's death (1427) and the war of
+**1428**, Tenochtitlan became senior partner of the [[triple-alliance-formation-1428|Triple
+Alliance]] with Texcoco and Tlacopan. Charlton notes that all three Alliance capitals —
+Texcoco, Tlacopan, and **Tenochtitlan–Tlatelolco** — were founded in areas with **little or
+no previous occupation**, possibly marking a break with earlier administrative models even
+while the [[altepetl]] form persisted. By 1519 the city headed the imperial confederacy as
+**primus inter pares**, having effectively become a Basin-wide city-state with an enormous
+sustaining area.
+
+**Economic and ritual center.** City-states were the basic economic units of the CMSR, but
+an integrated multi-scalar system linked rural and urban settlements through tribute **and**
+markets. Goods from tribute and *pochteca* trade concentrated at Tenochtitlan; after 1428 a
+**core–periphery** pattern focused on the capital (agriculture intensified within ~30–35 km;
+craft specialization accentuated further out). The Templo Mayor excavations directed by
+Eduardo Matos Moctezuma (1978–82) are Charlton's prime archaeological window on imperial-center
+grandeur and richness; Tlatelolco has been excavated since the 1940s. Aztec III ceramics mark
+the Late Aztec / imperial horizon; Charlton prefers Basin inception of Aztec III around
+**~1400** (radiocarbon-supported), still predating full imperial conquest of some provinces
+by roughly a generation.
+
+**Endpoint.** Spanish arrival in **1519** interrupted ongoing expansion; conquest of the
+city in **1521** closes Charlton's chronological frame (operational conquest narrative is on
+[[spanish-conquest-of-mexico-1519]]).
+
 ## The founding and the island city (Berdan)
 
 Frances Berdan's [[berdan-aztecs-2021|*The Aztecs*]] details the city's improbable rise. The Mexica
@@ -94,8 +137,19 @@ from 38 provinces flowed into it "on the backs of lines and lines of human porte
 [[aztec-religion-and-human-sacrifice|cosmic ritual]]. The Spanish razed it in 1521 and built **Mexico
 City** directly on top.
 
+## Colonial and post-independence aftermath (distinct from the Hispanic capital)
+
+Mexico City on the Tenochtitlan site became the Spanish capital of New Spain — for Cline, the major **exception** to the rule that component [[altepetl]] remained bastions of indigenous corporate life after the Triple Alliance superstructure was broken ([[cambridge-history-native-peoples-americas-v2-2|Cline, CHNPA II.2]]). The place page’s prehispanic city narrative ends at 1521; what follows is not a second Mexico City history but the **indigenous corporate residue** of the island city’s administrative units.
+
+**Parcialidades.** Under Schryer (CHNPA II.2 Ch. 17), Andrés Lira’s work on land tenure and local government through the nineteenth and early twentieth centuries in two former native administrative units — **San Juan Tenochtitlan** and **Santiago Tlatelolco** — illustrates continuity of colonial institutions, separate ethnic identity, and struggle against non-native city government long after formal abolition of local native self-government and of the legal category *indio*. Differential survival within San Juan Tenochtitlan: humid southern chinampa market-gardening zone kept language and customs well into the twentieth century (endogamy, outsider restriction, resource control, intellectual elite); northern section toward Villa de Guadalupe lost ethnic cohesion earlier as Santiago Tlatelolco communal pastures were rented to mestizo businessmen with rents appropriated by non-native leaders (Schryer). Early post-independence educated natives in Mexico City fought to preserve parcialidad corporate landholding and the Colegio de San Gregorio (Schryer).
+
+**Late-twentieth-century re-Indianization.** Schryer notes temporary/permanent native migrants (Mazahua, Nähñu, etc.) carving ethnic niches in the capital — “Marías” fruit and *pepita* vendors — so that “Mexico City is thus becoming more ‘Indian,’ just as it was a hundred years ago.” See [[central-mexico-indigenous-since-independence]]; colonial Basin frame on [[basin-of-mexico]] and [[central-mexico-indigenous-colonial]].
+
 ## Related
 
-- Places: [[teotihuacan|Teotihuacan]] · [[rome|Rome]] · [[nineveh|Nineveh]] · [[cahokia|Cahokia]]
-- Concept: [[imperial-city]] · [[ritual-and-urban-performance]] · [[heterarchy]] · [[city-state]]
-- Process: [[urbanization]] · [[ruralization]]
+- Places: [[teotihuacan|Teotihuacan]] · [[basin-of-mexico]] · [[rome|Rome]] · [[nineveh|Nineveh]] · [[cahokia|Cahokia]]
+- Concept: [[imperial-city]] · [[ritual-and-urban-performance]] · [[heterarchy]] · [[altepetl]] · [[chinampa-agriculture]] · [[aztec-economy]] · [[aztec-religion-and-human-sacrifice]]
+- Events: [[triple-alliance-formation-1428]] · [[spanish-conquest-of-mexico-1519]]
+- Actors: [[aztec-empire]]
+- Process: [[urbanization]] · [[ruralization]] · [[mesoamerican-state-formation]] · [[central-mexico-indigenous-colonial]] · [[central-mexico-indigenous-since-independence]]
+- Source: [[cambridge-history-native-peoples-americas-v2-1]] · [[cambridge-history-native-peoples-americas-v2-2]]

@@ -5,8 +5,8 @@ origin: Roman political vocabulary of the late Republic (optimates / populares);
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [italy, mediterranean-world]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -86,6 +86,6 @@ class grievances, and what *popularis* leaders thought they were doing.
 
 - Actors: [[tiberius-gracchus]] · [[gaius-gracchus]] · [[marius]] · [[sulla]] ·
   [[pompey]] · [[scipio-aemilianus]] · sources: [[polybius]] · [[livy]]
-- Concepts: [[roman-aristocratic-politics]] (the mid-Republican system) ·
+- Concepts: [[roman-aristocratic-politics]] (the mid-Republican system) · [[mos-maiorum]] ·
   [[sullan-constitution]] · [[senatus-consultum-ultimum]] · [[roman-equites]]
-- Frame: [[great-man-vs-structural-causation]] · source: [[crook-cah-v9-1992]] (Lintott)
+- Frame: [[great-man-vs-structural-causation]] · source: [[crook-cah-v9-1992]] (Lintott) · [[duncan-storm-before-the-storm-2017]]

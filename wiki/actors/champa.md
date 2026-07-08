@@ -9,8 +9,8 @@ affiliated_with: ["Indic (Hindu/Shaiva) court culture", "Austronesian (Malayo-Po
 opposed_by: ["[[dai-viet|Dai Viet (the Vietnamese)]]", "[[khmer-empire|Angkor]]", "China (Lin-yi raids)"]
 key_events: ["the destruction of its centre at Hué (446)", "the sack of its capital Vijaya by Dai Viet (1471)"]
 key_processes: ["[[indianization-of-southeast-asia]]", "[[indian-ocean-trade]]"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-03
 tags: [actor, state, southeast-asia, vietnam, late-antiquity, early-middle-ages]
 ---
 
@@ -52,7 +52,27 @@ survived under increasing Vietnamese pressure until final annexation in **1832**
 as a Muslim and Hindu minority in Vietnam and Cambodia — one of the few Austronesian-Indic peoples of the
 mainland.
 
+## Taylor (2013): the long absorption
+
+K. W. Taylor's [[taylor-history-of-the-vietnamese-2013|*A History of the Vietnamese*]] adds granular detail
+on both ends of the relationship with the Vietnamese. **Early (Lin Yi phase):** the northern Cham cluster
+warred with Chinese-administered Giao/An Nam from the 190s CE; a major Jin-era expedition "thoroughly
+destroyed" its centre near Hue in 443–446, after which the culture recentred near modern Da Nang; the Sui
+general Liu Fang sacked a Cham royal seat at Tra Kieu in 602, and resurgent Chams pressured the Tang coast
+in the ninth century alongside Nan Zhao (see [[nan-zhao-war-854-866]]).
+
+**The [[conquest-of-vijaya-1471|1471 catastrophe]] and after:** Le Thanh Tong's sack of Vijaya captured and
+killed the Cham king and permanently fragmented Champa into rump polities (Phan Rang, the highlands, the
+coast south of Binh Dinh). A 1472 edict pushed Vietnamization of Cham names. Thereafter the Cham decline was
+demographic as much as military: seventeenth-century Hindu–Muslim factionalism, growing upland (Churu, Ede,
+Jarai) influence, and a sequence of defeats — Po Ramo (d. 1651), the loss of territory north of the Phan
+Rang River (1653), and the capture of Po Sot (1693) reorganizing the kingdom as the Vietnamese province of
+Binh Thuan. A 1712 five-point treaty preserved a nominal Cham "aboriginal king" with limited legal autonomy
+until [[minh-mang|Minh Mang]] abolished Cham kingship in 1832 — the closing act of the
+[[nam-tien|southward expansion]].
+
 ## Related
 
 [[dai-viet]] · [[khmer-empire]] · [[indianization-of-southeast-asia]] · [[indian-ocean-trade]] ·
-[[hinduism]] · [[southeast-asia]] · [[tarling-cambridge-history-southeast-asia-v1-1992]]
+[[hinduism]] · [[southeast-asia]] · [[tarling-cambridge-history-southeast-asia-v1-1992]] ·
+[[nam-tien]] · [[conquest-of-vijaya-1471]] · [[nguyen-lords]] · [[taylor-history-of-the-vietnamese-2013]]

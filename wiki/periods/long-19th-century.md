@@ -3,9 +3,9 @@ title: Long 19th Century
 period_number: 21
 date_range: 1800–1914 CE
 regions_covered: [global, "western-europe", "north-america", "east-asia", "south-asia", africa, "latin-america", "near-east", pacific]
-collection_coverage: "moderate (recent Custer addition via Stiles 2015: Civil War \"boy general,\" Texas occupation/1867 court-martial, Washita, Yellowstone 1873, Black Hills 1874, Little Bighorn 1876, Reno Inquiry, Libbie myth-making, \"chronological frontier\" thesis)"
-sources_ingested: [18]
-last_updated: "2026-07-02"
+collection_coverage: "moderate (recent Custer addition via Stiles 2015 + Fehrman 2026 on Lewis & Clark Expedition / Corps of Discovery: ensemble perspectives, Native agency on the Missouri, York, Sacagawea, Lakota power structures, publication and myth-making; Ellis 2025 on founding-era slavery contradictions and Indian removal as roots of 19th c. race and expansion dynamics)"
+sources_ingested: [20]
+last_updated: "2026-07-03"
 tags: [period]
 followed_by: ["[world-wars-era|World Wars Era]"]
 major_themes: [industrialization, "fossil-fuel energy transition", the new imperialism, nationalism, mass migration, abolition, the demographic transition, global market integration]
@@ -171,6 +171,11 @@ among European great powers between Waterloo (1815) and Sarajevo (1914) ended
 catastrophically; the industrial and organizational capacities built up across the
 long nineteenth century were turned to the unprecedented destruction of the world
 wars. See [[1914-end-of-long-19th-century]].
+
+
+### Collection note — Ellsworth *Midnight on the Potomac* (2025)
+
+Adds a popular last-year U.S. Civil War narrative layer (1864–65): Overland attrition, Early's near-run on Washington, Confederate Canada terror, 1864 election contingency, Black political assertion (Garnet), multi-target Lincoln assassination, and Lost Cause memory critique. Complements Donald, warfare hub, and Bonner. Source: [[sources/ellsworth-midnight-on-the-potomac-2025]].
 
 ## Historiography
 

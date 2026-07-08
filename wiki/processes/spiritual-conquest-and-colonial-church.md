@@ -8,8 +8,8 @@ region: [mesoamerica, andes, caribbean, atlantic-world]
 process_type: [religious, cultural, ideological, economic]
 driven_by: [the conversion of the Indians as the theoretical justification of empire, the royal patronato/padroado, the mendicant orders and the Society of Jesus]
 produces: [a syncretic American Catholicism, the mission/reduction frontier, the Inquisition tribunals, a vast Church economy, a creolized clergy]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, early-modern, mesoamerica, andes]
 ---
 
@@ -103,10 +103,54 @@ labor, the settler–missionary conflict). The **Jesuit expulsion** (1759–67),
 marks the great turning point; the institution nonetheless remained strong to the
 end of the colonial era.
 
+## Mesoamerican spiritual conquest historiography (MacLeod, CHNPA II.2)
+
+Murdo J. MacLeod ([[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] Ch. 12)
+deepens the “incomplete conversion” thesis for
+[[colonial-mesoamerica-native-peoples|native Mesoamerica]]:
+
+**Slow early change in central Mexico.** Few clergy for many years; despite mass baptisms many
+ordinary people remained unbaptized and uncatechized for decades after 1520; large early-colonial
+central Mexican populations had little chance to hear or read detailed Christian doctrine;
+confession for many only once a year or not at all. Formal outward Christianity took root while
+folk and local beliefs continued via syncretism or, rarely, outright opposition.
+
+**Historiographical extremes and middle ground.** The extent and nature of “spiritual conquest”
+and “conversion” produced polemical poles: full eventual Catholic conversion (minor local
+superstitions only) versus “idols behind altars” (conversion as sham). Moderates hold enduring
+Nahuatl/Maya/Zapotec (etc.) worldviews despite ritual change. More nuanced views stress regional
+dissection (e.g. the *cofradía* — variously accused of heathen revival or of serving orthodoxy
+and clerical enrichment) and the creation of **many ordinary-people Catholicisms** (like early
+medieval Europe after conversion) — not a single new syncretism but ad hoc mixtures of belief
+and, to a lesser extent, ritual, with spectacular idolatry the exception rather than the rule.
+Maya hierarchies of belief ran from household saints/guardians through village tutelaries to
+parish/bishop orthodoxy. By the eighteenth century in central and western Mexico there was less
+friction between priests and flocks than once thought (varies by region/group); peripheries
+(Tarahumara, some Talamancans) remained more unchristian. Classic synthesis: Ricard’s *conquête
+spirituelle*; key recent synthesis Taylor’s *Magistrates of the Sacred*.
+
+**Sahagún.** Fray Bernardino de Sahagún combined utilitarian conversion and vassalage aims with
+genuine ethnographic inquiry; interviewed broadly; recorded in both Nahuatl and Spanish so
+findings would be available including to informants — standing alone among Spanish writers,
+though Motolinía, Landa, Durán, Torquemada and others wrote extensively, often depending heavily
+on native texts.
+
+**Cofradía as barrier and broker.** The religious confraternity was often protected or taken over
+by higher clergy and parish priests with financial interest; *cajas de comunidad* tied to tax
+collection were sometimes protected by officials seeking payments. Cofradías were often exploited
+by outsiders but in some places and times were **barrier-and-broker institutions** preserving
+cultural identity. They were heavily attacked in late [[bourbon-reforms|Bourbon]] reforms and
+again after independence with land loss — central to debates over popular Catholicism and
+colonial cultural redoubts.
+
 ## Related
 
 - [[catholic-reformation]] — the Tridentine reform of which this is the American chapter.
 - [[colonial-spanish-american-administration]] — the secular arm of Iberian rule.
 - [[colonial-latin-america]] — the colonial order.
+- [[colonial-mesoamerica-native-peoples]] — MacLeod overview of conversion and cofradías.
+- [[congregacion]] — resettlement for evangelization and control.
 - [[encomienda]] — the labor system the missions contested.
+- [[bourbon-reforms]] — late colonial attack on cofradías and clerical power.
 - [[las-casas-bartolome]] — the Dominican defender of the Indians.
+- [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]]

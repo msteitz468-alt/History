@@ -4,8 +4,8 @@ period_number: 23
 date_range: 1945–1991 CE
 regions_covered: [global, "north-america", "eastern-europe", "western-europe", "east-asia", "south-asia", africa, "latin-america", "near-east"]
 collection_coverage: strong
-sources_ingested: [21]
-last_updated: "2026-07-02"
+sources_ingested: [22]
+last_updated: "2026-07-03"
 tags: [period]
 followed_by: ["[contemporary|Contemporary]"]
 major_themes: [bipolar superpower rivalry, the Great Acceleration, decolonization, the demographic explosion, the Green Revolution, nuclear danger, multipolar industrialization, development]
@@ -27,6 +27,8 @@ when growth exceeded 1.75% annually, were "a global burst of reproduction and
 survival, never before approached and never to be repeated."
 
 From [[leffler-westad-cold-war-v1|*The Cambridge History of the Cold War*, Vol. I]] (Range 01): "The term 'Cold War' was first used by the British writer George Orwell in 1945 to deplore the worldview, beliefs, and social structure of both the Soviet Union and the United States, and the undeclared state of war that would come to exist between them after the end of World War II." "Russia’s Great October Socialist Revolution of 1917 triggered a confrontation between the Soviet Union and the United States that would last much of the twentieth century... this new form of struggle – the Cold War – was at its root a battle of ideas: American liberalism vs. Soviet Communism." The conflict globalized because "by the 1960s, the emergence of new states had done much to intensify the rivalry between the superpowers, and for the rest of the Cold War Asia, Africa, and Latin America stood at the center of the conflict." "The combination of capitalist crises and world wars was a key factor in the collapse of the European colonial empires, a chain of events that decisively influenced the Cold War, especially in its later stages."
+
+US domestic developments in the late Cold War (post-1974 crises of legitimacy through the Reagan years) are treated in detail in [[sources/kruse-zelizer-fault-lines-2025|Kruse & Zelizer, *Fault Lines* (2025)]] as the seedbed for subsequent polarization.
 
 From [[leffler-westad-cold-war-v2|CHCW Vol. II, Range 01 (Gaddis Ch. 1)]]: The middle period (c. 1962–1975) saw the conflict "seemed to stabilize after the Cuban Missile Crisis in 1962 and how this sense of increased stability evolved into the détente era of the early 1970s." "Conflicts in the Third World, as well as the interests and ideologies of the superpowers, eroded the détente process." Grand strategies evolved "much as competitive species do within common ecosystems." Post-1962 nuclear/ecological constraint produced "tacit" superpower agreement "not to use nuclear weapons again to try to break the Cold War stalemate." Khrushchev's "socialism with a human face" reforms + de-Stalinization produced "unintended" fragmentation (Hungary 1956 harsher than Stalin; Berlin Wall 1961; irreversible Sino-Soviet split). "Détente... instead destabilized the priorities of both superpowers." Soviet overstretch (Yemen/Ethiopia/Afghanistan interventions; Helsinki 1975 human-rights concession; integration into global economy) produced vulnerabilities that "handed enemies the means to break a long stalemate." (Gaddis locators throughout Ch. 1)
 
@@ -173,6 +175,46 @@ France under de Gaulle made the force de frappe central to restoring national ra
 These debates exposed the core tension of extended deterrence: the difficulty of credibly threatening actions that would be suicidal for the guarantor once parity existed, and the European insistence that all war (not merely nuclear) be deterred on the continent.
 
 See: [[concepts/deterrence]], [[concepts/flexible-response]], [[concepts/limited-nuclear-war]], [[concepts/nuclear-strategy]], [[processes/nuclear-deterrence]], [[actors/gallois-pierre]], [[actors/beaufre-andre]], [[actors/wohlstetter-albert]], [[actors/schelling-thomas]], [[actors/brodie-bernard]], [[sources/freedman-evolution-of-nuclear-strategy-1981]], [[hubs/warfare/strategy]], [[periods/cold-war]].
+
+## The Covert Dimension (McCoy)
+
+[[mccoy-cold-war-five-continents-2024|McCoy, *Cold War on Five Continents* (2024)]]
+reframes the period around **[[covert-action|covert action]]** and espionage as the
+principal instrument by which the superpowers — barred from direct combat by the
+1949 Soviet nuclearization — contested control of the decolonizing world. On this
+reading the Cold War was "the golden age of espionage," waged through the
+**[[central-intelligence-agency|CIA]]**, the KGB, Britain's MI6 and Information
+Research Department (IRD), and France's SDECE, and fought out in a long series of
+**[[cold-war-proxy-wars|surrogate wars in the Third World]]** that McCoy estimates
+killed some twenty million people (McCoy's figure). The doctrinal foundation was
+laid in the United States by George Kennan's May 1948 call for "covert political
+warfare" and NSC Directive 10/2 (1948), which authorized "sabotage… subversion
+against hostile states" and "support of indigenous anti-communist elements"; by the
+1950s the CIA ran, per McCoy, some 170 major covert operations in 48 nations.
+
+The clandestine record McCoy assembles — largely from declassified US files (FRUS,
+CIA reading-room documents), memoirs, and Church Committee findings — runs from the
+CIA's cultural Cold War (the Congress for Cultural Freedom, subsidized magazines,
+Abstract Expressionism, media assets, MKUltra/KUBARK interrogation research) through
+a sequence of regime-change operations and proxy conflicts: the
+**[[iran-coup-1953|1953 Iran coup]]** (Operation Ajax), the
+**[[guatemala-coup-1954|1954 Guatemala coup]]** (PBSUCCESS), the
+**[[congo-crisis-1960|Congo crisis]]** and Lumumba assassination, the
+**[[bay-of-pigs-1961|Bay of Pigs]]**, the covert war within the
+**[[vietnam-war|Vietnam War]]** (Phoenix Program, the CIA's Laos "secret army"), the
+**[[indonesian-mass-killings-1965|1965–66 Indonesian mass killings]]**, the
+**[[chile-coup-1973|1973 Chile coup]]** and Operation Condor, the
+**[[angolan-civil-war-1975|Angolan civil war]]**, the Central American civil wars and
+Iran-Contra, and the CIA's Afghan operation (Cyclone) in the
+**[[soviet-war-in-afghanistan-1979|Soviet–Afghan War]]**. McCoy organizes this
+through his "men on the spot" device — individual field operatives whom he treats as
+outsized causal agents. His stronger interpretive claims (the Cold War as covert
+"empire," covert action as the decisive driver of Third-World violence, coups as
+primary causes of later civil wars and kleptocracies, and his Mackinder-geopolitical
+"New Cold War" forecast) are archive-adjacent argument rather than settled
+consensus and are recorded as positions on
+[[mccoy-covert-empire-thesis|the McCoy covert-empire thesis controversy page]]; his
+well-documented operational facts are attributed above.
 
 ## Key Actors
 

@@ -5,8 +5,8 @@ origin: "earliest ball court at Paso de la Amada, coastal Chiapas, c. 1400 BCE; 
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, High Middle Ages]
 applies_to_regions: [mesoamerica, caribbean]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, mesoamerica]
 ---
 
@@ -79,6 +79,52 @@ The game was pan-Mesoamerican: associated with the [[olmec|Olmec]] in the Format
 [[maya-civilization|Classic Maya]], the Toltecs at Tula, and the [[aztec-empire|Aztecs]] at
 Tenochtitlan.
 
+## From CHNPA II.1
+
+### Culture-area trait and survival (Adams Ch.1)
+
+Adams’s summary of the Willey–Ekholm–Millon package lists two widely played ritual games: the
+rubber ball game and *patolli*; the ball game still survives in isolated regions (Adams 2000).
+
+### Olmec rubber balls and early courts (Diehl Ch.4)
+
+**El Manatí** (Coatzacoalcos basin) wet-spring offerings after ~1000 B.C. preserved nine
+**rubber balls** among wooden busts, scepters, and greenstone celts. Balls were probably used
+in ballgame rituals on “Palangana”-style courts enclosed by four earth mounds like that
+excavated at nearby [[san-lorenzo-olmec|San Lorenzo]]. Olmec clay figurines depict men in
+protective garb holding balls (Diehl 2000).
+
+### Ritual, not modern sport (Diehl)
+
+Diehl: the Mesoamerican ball game was a **ritual rather than a sport in the modern sense**. It
+played a crucial role in rituals when Classic Maya rulers ascended the throne; the Aztecs
+played it to foretell the future; similar functions are possible at [[el-tajin|El Tajín]]. Late
+Classic portable stone **yokes**, **hachas**, and **palmas** replicate or augment ballplayer
+equipment (yokes as belt replicas—often ceremonial weight; hachas as thin heads; palmas as
+fanlike devices) (Diehl 2000).
+
+### El Tajín narrative cycle
+
+El Tajín’s South Ballcourt six panels portray sequential stages of a ball game and sacrifice
+ritual: ceremonial dressing; music/dance; game play; end-game sacrifice of a player; victim’s
+underworld descent to obtain pulque; a god refills the pulque vat by penis bloodletting. The
+site’s eleven ballcourts and death/underworld preoccupation suggest ballgame rituals more
+frequent than elsewhere (Diehl 2000).
+
+### Maya lowland Preclassic courts and Chichen architecture (Hammond Ch.5)
+
+Ballcourts probably in use by the Late Preclassic: two sets of parallel buildings at Cerros
+interpreted as courts; a Preclassic construction underlies the Classic ballcourt at Colha.
+[[chichen-itza|Chichén Itzá]] Great Ballcourt is the **largest in Mesoamerica**; vertical walls
+and central scoring rings contrast with Late Classic Maya lower sloping benches and flat
+markers—form more common in central Mexico (Hammond 2000).
+
+### Monte Albán Protoclassic court (Marcus & Flannery Ch.8)
+
+At [[monte-alban|Monte Albán]], a ballcourt appears among Protoclassic state institutions
+(Roman-numeral-I plan, ~41 m N–S, **no** Maya-style stone rings)—part of the package with
+palace, standardized temples, and kingship after ~200 B.C. (Marcus & Flannery 2000).
+
 ## Critique and Limitations
 
 The iconographic identification of ball-game scenes is generally secure, but the degree to
@@ -86,4 +132,11 @@ which the game involved systematic human sacrifice of players (as depicted in so
 Maya art) versus sacrifice of captive warriors in a game-like ritual context is debated.
 The variety of court forms and probable rule variations makes reconstruction of a single
 unified "game" problematic. Archaeological recovery of rubber balls is rare due to
-decomposition; most evidence for their manufacture is chemical.
+decomposition; most evidence for their manufacture is chemical. El Manatí is a rare perishable
+exception confirming Formative rubber use.
+
+## Related
+
+[[mesoamerica-culture-area]] · [[olmec]] · [[san-lorenzo-olmec]] · [[el-tajin]] ·
+[[maya-civilization]] · [[monte-alban]] · [[chichen-itza]] · [[aztec-empire]] ·
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]]

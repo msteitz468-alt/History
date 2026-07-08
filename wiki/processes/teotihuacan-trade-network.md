@@ -15,8 +15,8 @@ produces:
   - Teotihuacan cultural influence and outposts in Maya area, Gulf Coast, Pacific Guatemala
   - import of Thin Orange Ware, Granular Ware, prestige materials
   - diplomatic and commercial relationships with Zapotec and other polities
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, mesoamerica, late-antiquity]
 ---
 
@@ -86,9 +86,46 @@ Smaller quantities of materials from up to a thousand kilometers away were obtai
 
 Cowgill's assessment is deliberately nuanced. Teotihuacan probably exercised direct state control over the Pachuca obsidian source and possibly cacao-producing coastal regions. Relations with the Zapotec state were peer commercial/diplomatic. Interactions with Tikal and Copán involved military intervention and dynastic manipulation. Relations with southern Puebla (Thin Orange Ware source) remain puzzling — possibly coercive, possibly commercial. Most long-distance prestige goods moved through elite exchange networks with minimal state involvement. "Relations abroad of both the Teotihuacan state and of individuals claiming Teotihuacan identity were quite different in different regions and in different periods" (Ch. 7).
 
+## Empire of trade vs. ideational reach (Cowgill CHNPA 2000)
+
+Cowgill’s CHNPA chapter sharpens the critique of a “great Teotihuacan trade empire.” Trade
+was important, but significance has been exaggerated by some writers (notably Robert
+Santley): volume claims are dubious; **cylinder tripod vases** and **Thin Orange** are not
+automatic Teotihuacan political or commercial markers (cylinder vases likely have earlier
+Veracruz origins; Bennyhoff); the Matacapan “enclave” materials are scattered site-wide over
+mostly non-Teotihuacan ceramics, implying a connection other than a distinct Teotihuacan
+settlement; twin-chambered candeleros there better fit cult spread tied to the state.
+Obsidian production scale is uncertain but less decisive than Santley claimed (though Clark
+may underestimate subsurface quantity). Green Pachuca and Otumba were controlled; Cowgill
+doubts Teotihuacanos controlled production or distribution of obsidian from sources outside
+central Mexico, or that withholding green obsidian gave much foreign leverage.
+
+A large central Mexican region saw **rival monumental centers inhibited for centuries** —
+armies could squelch competition — without monopolizing all Mesoamerican trade. The rise of
+[[xochicalco]] and [[cacaxtla]] marks decline of this dominance, probably in the 600s,
+possibly coeval with Metepec while the city was still fairly prosperous. Foreign spread of
+Teotihuacan-related manifestations is attributed more to **warfare and religious/symbolic
+dimensions** than to bulk commerce.
+
+**Early ceramic and elite contact (A.D. 150–300).** Thin Orange reaches 3–4% of some
+collections (later up to ~10%); small Oaxaca grayware and fine paste Gulf imports; utility
+wares not shared with Veracruz (massive migration unlikely). Close ceramic parallels with
+[[monte-alban|Monte Albán]] II–IIIA transition (~375 km air); Oaxaca-related ceramics in the
+N1W6 enclave by period’s end. An offering at **Altun Ha** (Belize) with green-obsidian
+objects matching Feathered Serpent Pyramid types and period-typical nubbin-support bowls
+(~A.D. 200–275) reflects a **significant elite-level contact episode**, not a random trade
+assortment.
+
+**Political ceiling.** Cowgill rejects lasting direct political authority far beyond central
+Mexico. Early outward campaigns after Basin consolidation may have left memory of dazzling
+successes (especially parts of Veracruz) without creating a large long-lived empire. Adams
+(CHNPA intro) notes west/northwest Classic sites related to Teotihuacan expansion for mining
+and trade, and Matacapan as a disputed-influence case with available data (Santley et al.
+1986) — consonant with Cowgill’s caution against empire-by-enclave extrapolation.
+
 ## End Conditions
 
-Teotihuacan's trade network contracted before and collapsed with the state. By the Metepec phase (550–650 CE), locally-made substitutes for Thin Orange Ware appeared — "poor makeshifts for the genuine article" — suggesting foreign goods were becoming harder to obtain. The destruction of the city around 600–650 CE ended the institutional framework that had organized exchange, though some patterns of Mesoamerican trade continued in altered form in the Epiclassic period.
+Teotihuacan's trade network contracted before and collapsed with the state. By the Metepec phase (550–650 CE), locally-made substitutes for Thin Orange Ware appeared — "poor makeshifts for the genuine article" — suggesting foreign goods were becoming harder to obtain. The destruction of the city around 600–650 CE ended the institutional framework that had organized exchange, though some patterns of Mesoamerican trade continued in altered form in the Epiclassic period. Cowgill argues that if Teotihuacan’s influence was based more on what it *meant* than on actual political control or commerce, its decline in the 500s–600s **cannot have been a central factor** in the much later lowland [[maya-classic-collapse-800ce|Maya collapse]], though Maya internecine warfare may have intensified once Mesoamerica was no longer overshadowed by Teotihuacan.
 
 ## Related Pages
 
@@ -96,7 +133,9 @@ Teotihuacan's trade network contracted before and collapsed with the state. By t
 - [[tikal]] — key Maya partner/subordinate
 - [[maya-civilization]] — broader context of Teotihuacan-Maya relations
 - [[zapotec]] — peer commercial partner
+- [[monte-alban]] — independent peer interaction
 - [[teotihuacan-apartment-compound-system]] — craft production feeding exchange
 - [[feathered-serpent-pyramid]] — Pachuca obsidian prestige objects in sacrificial deposits
 - [[teotihuacan-collapse-550ce]] — network contraction and end
-- [[cowgill-ancient-teotihuacan-2015]]
+- [[xochicalco]] · [[cacaxtla]] — Epiclassic rise as marker of declining Teotihuacan dominance
+- [[cowgill-ancient-teotihuacan-2015]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6]]

@@ -113,6 +113,16 @@ first globalization: Italian maritime republics (Venice, Genoa, Pisa), the
 Champagne fairs, the Hanseatic Baltic, new credit and currency instruments, and a
 revived gold coinage. See [[afro-eurasian-world-system]] and [[commercial-revolution]].
 
+**Byzantium's "age of accelerated growth."** The eleventh and twelfth centuries were
+Byzantium's economic peak (Laiou & Morrisson, [[laiou-morrisson-byzantine-economy-2007|*The
+Byzantine Economy*]]): population growth, land clearance, large estates worked by *paroikoi*
+alongside free peasants, reviving provincial cities and industries (glazed pottery, silk),
+and the **[[byzantine-monetary-system|Komnenian monetary reform of 1092]]** creating the gold
+*hyperpyron*. Simultaneously **the state receded** — [[alexios-i-komnenos|Alexios I]]'s
+*pronoia* grants and tax-farming, and commercial privileges to Venice (1082/1126), Pisa and
+Genoa drawing Italian merchants into a Byzantine trade already growing before their arrival.
+See [[byzantine-economy|the Byzantine economy]].
+
 **The apogee of Song China.** The [[song-dynasty|Song]] (960–1279) presided over
 the most commercialized, urbanized, and technologically advanced society of the
 age — paper money, woodblock printing, gunpowder, the compass, an examination-based

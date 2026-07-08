@@ -9,8 +9,8 @@ affiliated_with: [the Germanic peoples, Arian (then Catholic) Christianity]
 opposed_by: [the eastern Roman (Byzantine) empire, the exarchate of Ravenna, the papacy, the Franks]
 key_events: [the Lombard Invasion of Italy (568), the assassination of Alboin (572), the interregnum of the dukes (574–584)]
 key_processes: [the fragmentation of Byzantine Italy, the formation of the barbarian successor kingdoms]
-sources_ingested: 4
-last_updated: 2026-06-27
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [actor, state, late-antiquity, italy]
 ---
 
@@ -69,6 +69,18 @@ to [[muslim-conquest-of-sicily-827|Muslim raiding]] from Sicily.
 
 Jonathan Arnold's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] traces Frankish–Lombard relations from the 568/569 invasion (a polyethnic army, possibly Byzantine-invited) through the raids on Burgundy and Provence (569–574, repelled by Mummolus; tribute of 12,000 solidi in 575). Guntram kept friendly relations despite Byzantine pressure, while Childebert II's Byzantine-subsidized campaigns (581–590) all failed — Maurice complaining that 50,000 solidi had not driven the Lombards from Italy. From 590, **Agilulf** (r. 590–616) established an enduring peace, secured a Merovingian bride for his son, and ended the tribute, Frankish neutrality aiding his consolidation; he also granted [[columbanus|Columbanus]] the site of Bobbio (see [[merovingian-byzantine-relations]]).
 
+## Fiscal structure and cohesion (Wickham 2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham, *Framing the Early Middle Ages* (2005)]] makes the Lombard kingdom the **first clear fully post-tax western state** — a load-bearing case for the [[tax-based-vs-land-based-states|tax-based vs land-based]] distinction.
+
+**Early occupation.** Wickham rejects both extremes of the historiography (total dispossession of Roman landowners vs. simple replication of the regional Roman state with little change). The main impression of the first decades is **chaos**: city dukes acting autonomously, many fighting for the exarch rather than for Lombard kings. There is little secure evidence of *widespread* expropriation of Roman landed property (though some must have occurred). Continuities in property law, elite city-dwelling, and Roman officials at the early seventh-century royal court signal Roman influence and survival of elite families.
+
+**Fiscal disappearance.** After possible early use of Roman tax terminology at settlement (Paul the Deacon’s *tributarii*/*hospes*; Wickham cautiously accepts Walter Pohl’s prima facie case for some early tax use given Byzantine reorganisation in Italy), Lombard kings never appear exacting land tax in laws from Rothari (643), documents from c.710, or Paul. Gasparri’s survey yields no systematic land-based fiscal exactions; by mid-seventh century all sign of land tax had vanished — **unparalleled speed** versus Francia or Spain. Remaining public rights: occasional ad hoc tribute (e.g. Piacenza’s soap *pensio*), public works, judicial fines, tolls. Almost all wealth of the last-century Lombard state (before 773–4) came from **public land**. The seventh- and eighth-century Lombards are thus the first clear fully post-tax western example, soon matched by the Carolingian Franks.
+
+**Cohesion without tax.** The post-tax kingdom was not notably frail: less complex administration than the [[visigoths|Visigoths]] (less to run without tax) but high capacity for swift local response (appeals to the king; Siena–Arezzo boundary dispute 714–15 went to Liutprand four times with *missi* on the ground; Desiderius could reverse a Lucca episcopal decision in 771). Cohesion rested on three bases: (1) **modest size** — a single Po-valley core plus Tuscany (≈ one Frankish *Teilreich*; Spoleto/Benevento as separate as Bavaria or more); (2) the surviving **Roman city network** structuring church, government, and urban-based aristocracies (e.g. Lucca *curtis regia* / ducal / episcopal triangulation); (3) **balance of landed power** — kings grand-scale landowners, most aristocrats owning only a handful of estates, so faction was city-level not grand aristocratic politics, and the king need give little land to satisfy ambition. Relative coherence without vast wealth is a structural contrast with the huge, multi-court [[merovingian-franks|Frankish]] aristocracy.
+
+**Link types:** `part_of:` [[tax-based-vs-land-based-states]], [[lombard-invasion-568]]; `analogous_to:` later [[carolingian-empire]] (post-tax public land); `contrasts_with:` [[visigoths]] (surviving national tax), [[byzantine-empire]] (tax-state), [[merovingian-franks]] (scale of aristocracy). Source: [[wickham-framing-the-early-middle-ages-2005]].
+
 ## Related
 
 - One of the [[germanic-peoples|barbarian successor]] peoples; `produced:` the permanent fragmentation of
@@ -76,4 +88,4 @@ Jonathan Arnold's chapter in the [[sources/effros-moreira-oxford-handbook-merovi
 - `caused_by:` Avar pressure in Pannonia (see [[avars-and-the-balkans|the Avars]]); `enabled:` the rise of
   the independent **papacy** and the [[successors-of-justinian|post-Justinianic]] collapse of imperial Italy
 - `followed_by:` Lombard–Byzantine partition of Italy and the medieval Italian polities
-- Sources: [[cameron-cah-v14-2000]] (Chs 19 & 4, Mark Humphries and Averil Cameron); [[mckitterick-ncmh-v2-1995]] (Ch. 12, Paolo Delogu — the Lombard kingdom and its Carolingian conquest)
+- Sources: [[cameron-cah-v14-2000]] (Chs 19 & 4, Mark Humphries and Averil Cameron); [[mckitterick-ncmh-v2-1995]] (Ch. 12, Paolo Delogu — the Lombard kingdom and its Carolingian conquest); [[wickham-framing-the-early-middle-ages-2005]] (fiscal structure and aristocratic scale)

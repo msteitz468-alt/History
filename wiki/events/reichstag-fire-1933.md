@@ -7,8 +7,8 @@ period: [World Wars Era]
 region: ["western-europe"]
 causes: ["[[unknown]]"]
 consequences: ["[[nazi-seizure-of-power-1933]]", "[[enabling-act-23-march-1933]]"]
-sources_ingested: [2]
-last_updated: "2026-07-02"
+sources_ingested: [3]
+last_updated: "2026-07-03"
 tags: [event, "world-wars-era", "western-europe"]
 event_type: political
 location: [Berlin]
@@ -112,7 +112,21 @@ February decree suspended freedom of speech and assembly "for good, as it turned
 out" — Paxton's phrase for how a nominally emergency measure became the permanent
 legal scaffolding of the dictatorship. Source: [[paxton-europe-twentieth-century-2011]].
 
+## Shirer (1960) Addition — the Nazi-authorship thesis
+
+[SHIRER-THESIS, superseded]: Shirer (1960), writing well before the Tobias–Mommsen archival work Evans cites, treats Nazi authorship of the fire as established "beyond a reasonable doubt" rather than van der Lubbe acting alone — a position the wiki's Evans/Paxton-sourced consensus above has since revised. His documentary case, preserved here as a historiographical data point rather than settled fact:
+
+- Goebbels's diary account: dining at home with Hitler on 27 February 1933 when Putzi Hanfstaengl phoned "The Reichstag is on fire!"; Goebbels initially "decline[d] even to mention it to the Fuehrer," believing it a "tall tale," before racing to the scene.
+- At the scene, Göring allegedly shouted to Gestapo chief Rudolf Diels: "This is the beginning of the Communist revolution!... Every Communist official must be shot, where he is found. Every Communist deputy must this very night be strung up" (corroborating, via a different route, the balcony-scene quotes Evans gives above from Diels's own memoir).
+- Testimonial case for Nazi authorship: Hans Gisevius testified at Nuremberg "it was Goebbels who first thought of setting the Reichstag on fire"; Rudolf Diels's affidavit stated "Goering knew exactly how the fire was to be started" and had ordered arrest lists prepared in advance; General Franz Halder testified at Nuremberg that at a 1942 birthday luncheon Göring boasted, "The only one who really knows about the Reichstag is I, because I set it on fire!" and slapped his thigh.
+- Shirer's own reconstruction: SA leader Karl Ernst allegedly led storm troopers through an underground heating tunnel from Göring's palace to the Reichstag to scatter incendiaries, while van der Lubbe independently set smaller fires; trial testimony suggested van der Lubbe could not have caused the scale of blaze alone.
+- At the Leipzig Supreme Court trial, Torgler and the three Bulgarians (Dimitroff, Popov, Tanev) were acquitted; van der Lubbe was convicted and decapitated. Courtroom exchange during Dimitroff's cross-examination of Göring: Göring — "Out with you, you scoundrel!"; Dimitroff (being led away) — "Are you afraid of my questions, Herr Ministerpräsident?"; Göring — "You wait until we get you outside this court, you scoundrel!"
+- Shirer gives the arrest total as roughly 4,000 Communist officials plus many Social Democrat and liberal leaders, including immune Reichstag deputies, seized immediately after the decree — consistent with Evans's figures above.
+
+Source: [[shirer-rise-fall-third-reich-1960]]. Note for main-thread/historiography: this is a superseded interpretive position, useful for documenting how the "Nazi arson" reading was argued before the postwar archival consensus shifted toward lone-arsonist van der Lubbe; do not present in wiki voice as fact.
+
 ## Sources
 
 - [[evans-coming-of-third-reich-2003]]
 - [[paxton-europe-twentieth-century-2011]]
+- [[shirer-rise-fall-third-reich-1960]]

@@ -9,8 +9,8 @@ affiliated_with: [the army; the Senate; the adoptive succession; the Spanish pro
 opposed_by: [Decebalus of Dacia; the Parthian Empire; the Jewish diaspora (the revolt of 115–117)]
 key_events: [adoption by Nerva (97), the [[dacian-wars-101-106|Dacian Wars]] (101–106), the [[trajans-parthian-war-114-117|Parthian War]] (114–117)]
 key_processes: [the empire's expansion to its greatest extent]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy, rome]
 ---
 
@@ -64,6 +64,16 @@ exchange on the **Christians**). His reign marked the **apogee of the Principate
 stability** — and the limit of expansion: his successor **[[hadrian]]** at once **abandoned the
 eastern conquests**, recognizing the empire had over-reached. Trajan's adoption (real or
 arranged on his deathbed by Plotina) of Hadrian continued the adoptive succession.
+
+## Beard (SPQR, 2015)
+
+Mary Beard, in **[[sources/beard-spqr-2015|SPQR]]**, reads the Trajan–Pliny correspondence
+from Bithynia as evidence of a genuinely new imperial administrative style: governors as
+officials directly answerable to the emperor, with Trajan himself as the sole
+decision-point of a thinly staffed provincial bureaucracy — since, on Beard's reading,
+**[[pliny-the-younger|Pliny]]** "got no decision from the emperor unless [he] asked him
+for one." She also flags the pair's exchange on the Christians (10.96–97) as "the
+earliest surviving discussion of Christianity outside Jewish or Christian literature."
 
 ## Related
 

@@ -8,9 +8,9 @@ region: [mesoamerica, north-america, andes, amazonia]
 process_type: technological
 driven_by: ["deliberate human selection over millennia", "the Mesoamerican Neolithic Revolution"]
 produces: ["the staple crop of the Americas", "the demographic base for Mesoamerican civilization", "a globally transformative crop after 1492 (the [[columbian-exchange-1492|Columbian Exchange]])"]
-sources_ingested: 1
-last_updated: 2026-06-12
-tags: [process, neolithic, mesoamerica]
+sources_ingested: 3
+last_updated: 2026-07-08
+tags: [process, neolithic, mesoamerica, north-america]
 ---
 
 # The Domestication of Maize (Teosinte to Corn)
@@ -53,7 +53,131 @@ worlds, and spread north to the [[cahokia|Mississippian]] mound-builders. After 
 [[columbian-exchange-1492|Columbian Exchange]] and became a staple from Africa to China — one of the
 American gifts that reshaped global population.
 
+## CHNPA II.1 — Archaic chronology, AMS revision, and ancestry (Zeitlin & Zeitlin)
+
+*Source: Zeitlin & Zeitlin, CHNPA Vol. II Part 1, Ch. 2.* Complements the Mann/*1491*
+teosinte narrative above with archaeological dating controversies and regional context.
+
+### AMS redating of highland sequences
+
+MacNeish's Tamaulipas work (Nogales, La Perra, Ocampo) first claimed early maize
+agriculture origins. **B. D. Smith's AMS dates** for five Ocampo cultigens: domesticated
+bottle gourd and squash complex not until ~**3500 b.c.** (not Early Archaic as once
+thought); cultivated maize sometime **after 2500 b.c.** Stratigraphic integrity of the
+caves was confirmed.
+
+**Tehuacan plant sequence** (El Riego → Coxcatlan → Abejas): El Riego mostly wild plants
+(mesquite, acacia, guaje, pochote, maguey, *Setaria*, fruits; avocado possibly transplanted;
+chile and squash as incipient domesticate candidates). Coxcatlan adds morphological
+domesticates including chile, *moschata/mixta* squash, bottle gourd, common bean, primitive
+maize. Abejas: domesticated tepary and jack beans; dramatic rise in cultivated maize.
+**Long et al. AMS on twelve corncobs:** oldest only **2750 b.c.** — fully ~2,000 years
+more recent than conventional association dates; common bean even more recent (Late
+Formative). MacNeish criticized AMS samples as contaminated by organic preservative.
+Younger Tehuacan maize dates better match other Mesoamerican early plant-use patterns
+(per Fritz).
+
+### Chronological tension with Panama/South America
+
+Without Mesoamerican macrobotanical or unequivocal pollen maize older than AMS-redated
+Tehuacan (~≤3000 b.c.), corn agriculture could be ~2,000 years more recent than once
+thought. But older maize phytoliths/pollen reported from Panama and South America (as
+**introduced** domesticates from Mexico) mean Middle Archaic maize cultivation cannot yet
+be dismissed; models based solely on Tehuacan maize need modification. Santa Marta
+(Chiapas) lack of domesticates even into Early Formative suggests a highland
+central/northeastern core of seed-plant experimentation. Cultivation and eventual
+domestication of **maize, beans, and squash** led to the staple triumvirate of the
+indigenous diet — foundation of later Mesoamerican civilization.
+
+### Ancestry: teosinte (*Z. mays* ssp. *parviglumis*), not extinct wild maize
+
+Hot controversy: Mangelsdorf model of extinct wild pod corn resembling earliest Tehuacan
+*Zea mays* long accepted; alternate **teosinte-ancestor** hypothesis (esp. Beadle from
+the 1970s) gained ground. Teosinte invades disturbed habitats and hybridizes with maize;
+6–10 genes distinguish them; single mutant yields free-threshing kernels. **Doebley**
+molecular genetics link domesticated maize most closely to *Zea mays* ssp. *parviglumis*
+of the **Balsas River drainage**, western Mexico. Iltis–Doebley taxonomy places annual
+teosintes and maize as subspecies of *Z. mays*. Thus all Tehuacan Archaic corn is
+**already domesticated**; ancestral teosinte was unlikely wild in Tehuacan (lower, warmer,
+wetter habitat). Plausible scenario: Balsas foragers selected mutation, passed seed;
+hybridization with higher-elevation teosinte (e.g. Zohapilco ~5000 b.c.) may have enabled
+Tehuacan growth. Aligns with Mann's "created plant" framing above while specifying the
+genetic ancestor.
+
+### Dietary share — gradualist vs abrupt models
+
+Under older chronology, foragers worked from 5000 b.c. improving low-yield maize; with
+AMS, efforts begin 2,000–3,000 years later. MacNeish: Abejas maize ~2% of plant food;
+Ajalpan (Early Formative) jumps to 68%, then 33–83% thereafter (>13,000 Formative+ cobs).
+Callen's coprolites contradict gradual animal→cultigen model: wild plants (*Setaria*,
+pochote) always major food. Stable C/N isotopes (Farnsworth et al.): only 2 of 12 Tehuacan
+burials Archaic; suggest **abrupt Coxcatlan-phase shift** to wild grasses/maize ~90% of
+diet remaining high into Late Postclassic — not gradual plant increment.
+
+### Lowland use and Formative variability
+
+Pohl et al.: early maize permitted more stability in swamp-margin foraging (similar
+argument for Chantuto). Formative skeletal isotopes show highly variable maize dependence —
+possibly more important in higher-status communities. Where wild resources were abundant,
+settled village life and ranking need **not** have depended on intensified maize agriculture.
+
+Maya lowlands (Hammond): Swasey Cuello maize abundant and already adapted to humid
+lowlands from earliest layers — earlier highland introduction implied. Oaxaca (Marcus &
+Flannery): maize, beans, squash already cultivated for millennia before sedentary villages
+~1900–1400 B.C.
+
+## CHNPA I.1 — Northward transmission and eastern maize path (Cordell & Smith; Smith ch. 5 light)
+
+*Primary: Cordell & Smith ch. 4; light bridge from Smith ch. 5 on Mississippian maize timing.*
+
+### Southwest acceptance
+
+Maize is a humid-tropical plant poorly suited to dry low SW and cooler high SW. Thompson
+posits two slightly different varieties transmitted north (low desert vs highland); Wills
+argues acceptance occurred in a wetter/cooler interval, first in low elevations then
+mountains; extra cultivation effort was a buffering strategy against risky wild-food
+shortfalls. By **300 B.C.** genetic variability in SW maize was adequate for all later
+regional varieties. Crops moved by lowland route west of Sierra Madre Occidental and
+highland route along it. *enabled:* [[southwest-agricultural-development]].
+
+### Eastern path
+
+Maize introduced into the East by **~A.D. 200**, most likely from the Southwest, added to
+existing horticultural systems and remained a **relatively minor crop for six to seven
+centuries** (stable carbon isotope analysis of human skeletal series). Only after **A.D. 800**
+did it begin to dominate food production, eventually from southern Ontario to northern
+Florida. The three-century span **A.D. 800–1100** saw maize gain center stage across much of
+the East.
+
+**Northern flint / eastern eight-row:** short-growing-season variety, likely locally evolved,
+frost- and drought-resistant, adapted to short summer nights — opened Northeast/Great Lakes
+to food production before A.D. 900 and fueled ~seven centuries of cultural development;
+spread toward the 120-day frost-free limit. Sunflower, squash, beans added more slowly/
+variably. Where premaize food production existed (e.g. Middle Ohio), maize replaced
+indigenous starchy staples (maygrass, chenopodium), which disappeared after A.D. 1000.
+*part_of:* [[north-american-agricultural-transition]]; *enabled:* [[fort-ancient-culture]],
+[[oneota]], later northern Iroquoian trajectories.
+
+### Mississippian correlation (Smith ch. 5 — light)
+
+Rapid dietary increase of maize ~A.D. 900–1000 correlates with Mississippian emergence;
+premaize crops continued; multiple maize races farther south vs single eight-rowed type in
+northern latitudes; common bean present by A.D. 1000, important in some areas by A.D. 1200.
+**Maize was not a prime mover** or cause of Mississippian culture in and of itself, but a
+new and powerful element of change — enabling surplus/inequality rather than determining
+political form. *enabled:* ranked agricultural societies; *concurrent_with:* Southwest
+post-1000 maize economies.
+
+A.D. 1000–1200 both regions share corn–beans–squash–wild foods economies; eastern flint’s
+short-season hardiness drove farming’s greatest geographic expansion in the East; SW also
+practiced farming over its broadest area then.
+
 ## Related
 
 [[pre-columbian-americas]] · [[olmec]] · [[maya-civilization]] · [[norte-chico]] · [[aztec-empire]] ·
-[[columbian-exchange-1492]] · [[mann-1491-2005]]
+[[columbian-exchange-1492]] · [[mann-1491-2005]] · [[early-agriculture-americas]] ·
+[[paleoindian-and-archaic-mesoamerica]] · [[domestication]] ·
+[[north-american-agricultural-transition]] · [[eastern-seed-crop-complex]] ·
+[[southwest-agricultural-development]] · [[mississippian-culture]] ·
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 2]] ·
+[[sources/cambridge-history-native-peoples-americas-v1-1|CHNPA I.1 Ch. 4–5]]

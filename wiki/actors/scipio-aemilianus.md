@@ -9,8 +9,8 @@ affiliated_with: [[[roman-republic]], the Cornelii Scipiones (by adoption), the 
 opposed_by: [[[carthage]], the Aravaci of Numantia; politically the Gracchan reformers]
 key_events: [[[third-punic-war-149-146bce]], [[numantine-war-153-133bce]]]
 key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, north-africa, iberia, rome]
 ---
 
@@ -34,7 +34,11 @@ ostentatious imitation of his father after Pydna.
 
 Recalled to the unfinished Spanish war, he was again elected **consul (134)**
 against the law and reduced **Numantia** by siege and starvation (133; see
-[[numantine-war-153-133bce]]). On returning he aligned against the agrarian
+[[numantine-war-153-133bce]]). Denied a normal levy by a Senate wary of the
+unpopular Spanish wars, he raised some **4,000 men from his own client network**
+to bring to Spain — a step [[duncan-storm-before-the-storm-2017|Duncan]] flags as
+an early precedent for the personal, patron-loyal armies that would later
+overturn the Republic (the young [[gaius-gracchus]] served in this force). On returning he aligned against the agrarian
 programme of his brother-in-law **Tiberius Gracchus**, and died suddenly in 129 —
 a death widely rumoured to be murder. (His political role in the Gracchan crisis
 belongs to CAH IX.)
@@ -63,4 +67,4 @@ indispensability — Manilius did real work at Carthage before Scipio arrived. S
 - Family: [[scipio-africanus]] (adoptive grandfather) · L. Aemilius Paullus (father)
 - Circle: [[polybius]] · debate: [[nature-of-roman-imperialism]]
 - Tactical analysis (hubs/warfare): [[hubs/warfare/classical-antiquity/third-punic-war/siege-of-carthage-149-146bce|Siege of Carthage (149–146)]]
-- Source: [[astin-cah-v8-1989]] (Ch. 5, Harris) · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy]]
+- Source: [[astin-cah-v8-1989]] (Ch. 5, Harris) · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy]] · [[duncan-storm-before-the-storm-2017]]

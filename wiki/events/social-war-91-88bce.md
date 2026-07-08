@@ -7,14 +7,14 @@ period: [Classical Antiquity]
 region: [italy, mediterranean-world]
 location: [the central and southern Apennines — Asculum, Corfinium, Samnium, Campania]
 actors_primary: [[[roman-republic]], the Italian allies (the *socii*), [[marius]], Sulla, Pompeius Strabo]
-actors_secondary: [M. Livius Drusus, Poppaedius Silo, Papius Mutilus]
+actors_secondary: [[[livius-drusus-younger|M. Livius Drusus the Younger]], Poppaedius Silo, Papius Mutilus, Pompeius Strabo]
 event_type: war
 scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [[[roman-italian-alliance|the allies' long-denied demand for citizenship]], the Gracchan agrarian crisis, the murder of M. Livius Drusus (91), the Lex Licinia Mucia (95)]
 consequences: [the enfranchisement of all Italy south of the Po, the transformation of Rome from city-state into a state of municipia, the merging into the civil wars of the 80s]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, italy, war]
 ---
 
@@ -35,7 +35,7 @@ law, culture, and prosperity, yet **subjects unable to share imperial power** an
 still paying local taxes Romans had escaped — came to demand citizenship "in order to
 be partners in empire instead of subjects." Roman exclusivism hardened: the
 **Lex Licinia Mucia (95)** purged illegally-enrolled allies, "one of the principal
-causes" of the war. The crisis came to a head with the tribune **M. Livius Drusus**
+causes" of the war. The crisis came to a head with the tribune **[[livius-drusus-younger|M. Livius Drusus the Younger]]**
 (91), whose programme (senatorial juries, land, and finally citizenship) won the
 allies' hopes — and whose **murder** was "the signal for the outbreak of the revolt."
 
@@ -92,9 +92,24 @@ narrative, sympathetic to the allied cause; **Velleius** (himself of Italian
 notable descent) thought the cause "fundamentally just." The chronology of Drusus'
 laws and the exact content of the citizenship laws are much debated.
 
+**Beard ([[sources/beard-spqr-2015|SPQR]], 2015)** frames the rebels' aim as
+genuinely ambiguous rather than settled: she poses as an open question whether the
+allies fought for full Roman citizenship (integration) or to break away into an
+independent state, and notes the material evidence — a rival state calling itself
+"Italia," anti-Roman coinage — points toward separatism. Yet she reads the
+coinage's Roman weight-standards and borrowed designs as showing how far Roman
+cultural dominance had already progressed by 91: "the only cultural language with
+which the Italians could attack Rome was now a Roman one," making a fully
+independent "Italia" unrealistic even as a war aim. She also stresses that the
+postwar citizenship grant (roughly tripling the citizen body) proved
+administratively unmanageable — Rome never adapted its institutions to register
+voters outside the city, so in practice only wealthy, mobile Italians could
+exercise the new citizenship, and no full census was completed between 70 and 28 BCE.
+
 ## Related
 
 - Cause: [[roman-italian-alliance]] · [[agrarian-crisis-roman-republic]] · the Gracchi
-- Commanders: [[marius]] · Sulla · Pompeius Strabo · leads to: Sulla's civil war
+- Commanders: [[marius]] · [[sulla]] · Pompeius Strabo · leads to: Sulla's civil war
   (Cycle 3); concurrent: [[first-mithridatic-war-89-85bce]]
-- Source: [[crook-cah-v9-1992]] (Ch. 4, Gabba)
+- Trigger figure: [[livius-drusus-younger]] · concept: [[mos-maiorum]]
+- Source: [[crook-cah-v9-1992]] (Ch. 4, Gabba) · [[duncan-storm-before-the-storm-2017]]

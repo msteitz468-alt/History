@@ -7,9 +7,9 @@ period_active: [all periods]
 controlled_by: [Gaelic lordships, the English/British crown, the [[irish-free-state]], the [[republic-of-ireland]], the United Kingdom (Northern Ireland)]
 events_here: [[[plantation-of-ireland-1556-1660]], [[cromwellian-conquest-of-ireland]], [[irish-rebellion-1798]], [[act-of-union-1801]], [[great-famine-ireland-1845]], [[easter-rising-1916]], [[the-troubles]]]
 processes_here: [[[home-rule-movement]], [[irish-diaspora]], [[irish-nationalism]], [[ulster-unionism]]]
-sources_ingested: 3
-last_updated: 2026-06-27
-tags: [place, british-isles, western-europe]
+sources_ingested: 4
+last_updated: 2026-07-08
+tags: [place, british-isles, western-europe, early-middle-ages]
 ---
 
 # Ireland
@@ -53,3 +53,14 @@ held only "with opposition" (*rí hÉrend co fressabra*), a fragmentation that f
 Norman intervention.
 
 > Scaffold page for [[jackson-oxford-modern-irish-history-2014|the Oxford Handbook of Modern Irish History]] ingest.
+
+## Wickham, *Framing the Early Middle Ages* (2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham]] includes Ireland as the first of two never-Roman regions—the **best written documentation by far of the assumptions of a society really unaffected by Roman political structures**, setting into relief how Roman/post-Roman (especially Frankish) structures conditioned practice everywhere else, even in de-Romanized Britain. The church adapted itself to Irish society rather than the reverse.
+
+- Seventh-century law tracts record a distinct social system, but archaeology shows **simple material culture** contradicting tract gradations. Up to c.150 coexisting *túatha* (“peoples”) with layered over-kings, little permanent hierarchy or absorption, and no systematic over-king intervention rights until after 800 (Viking disruption).
+- Settlement: even, dispersed ringforts (raths) and some crannógs after 400, housing kings and peasants alike without developed settlement hierarchy; wood-and-iron culture, little organized artisanal activity. Archaeologically simplest of Wickham’s regions (with Wales)—yet one of only two (with [[denmark|Denmark]]) whose economy was **more developed** than in the Roman period.
+- Clientage structured around **cattle** gifts and renders, not land; even base clients were autonomous landholders. Ranked **peasant-mode** society with fixed rankings but without unlimited lordly dominance over free economic dependants—“feudal” is an unhelpful label.
+- Lacking conceptual and economic building-blocks for Anglo-Saxon-type state-building before 800: ritualized local kingship, impermanent over-king clientship, brehon law, assembly decision-making left almost none of Wickham’s “state” elements except war. Over-kingship scale grew without density (unlike Offa’s Mercia); Ireland was distant from Francia’s example. Church landholding offered potential but unrealized templates.
+
+*Link types:* contrasts_with: [[francia]], [[roman-britain]], [[tax-based-vs-land-based-states]]; concurrent_with: [[early-middle-ages-britain-ireland]], [[peasant-mode-of-production]]; contrasts_with: [[denmark]] (wealth hierarchy).

@@ -9,8 +9,8 @@ affiliated_with: [United States Army, Union Army, Republican Party, Presidency o
 opposed_by: [Confederate States of America, Robert E. Lee, Jefferson Davis, Ku Klux Klan, Andrew Johnson (at times)]
 key_events: [Mexican-American War service, Forts Henry and Donelson 1862, Battle of Shiloh 1862, Vicksburg Campaign 1862-1863, Chattanooga Campaign 1863, Overland Campaign 1864, Siege of Petersburg 1864-1865, Appomattox surrender 1865, Presidency 1869-1877, Ku Klux Klan prosecutions, 1875 Civil Rights Act, world tour 1877-1879, Personal Memoirs composition 1884-1885]
 key_processes: [American Civil War, Reconstruction, emancipation and black citizenship, modernization of US military command, rise of the modern presidency]
-sources_ingested: 7
-last_updated: 2026-06-26
+sources_ingested: 8
+last_updated: 2026-07-08
 reingest_note: "Reingest via Deployed Subagent Strategy (Chernow 2017, 13 ranges) to Biography Hub standards. Detailed bio expanded with full 9 sections, Signature table + counterfactuals, verbatim Memoirs/Papers + bias. All 13 ranges integrated (R01-02 early life/Civil War Belmont-Donelson-Shiloh; R03 Vicksburg; R04 Overland simultaneous/Wilderness/Cold Harbor/James/Petersburg; R05-13 later war/presidency/Reconstruction/Memoirs/world tour/cancer/death/legacy). Reciprocal link. See detailed bio reingest_note for per-range. 0 new broken links. Co-Authored-By: Grok 4.3 (xAI) + subagents."
 tags: [actor, person, long-19th-century, north-america, ulysses-s-grant, civil-war, reconstruction, presidency, union-general]
 aliases: [Ulysses S. Grant, U.S. Grant, ulysses-s-grant, General Grant]
@@ -48,7 +48,7 @@ After leaving office Grant undertook a triumphant world tour, then was ruined by
 
 - Wife and partner: [[grant-julia]] (Julia Dent Grant) — emotional anchor, social adept in Washington, memoirist.
 - Chief of staff and conscience: [[rawlins-john-a]] — temperance enforcer and closest wartime adviser.
-- Principal subordinates: [[sherman-william-t]], [[sheridan-philip-h]], [[meade-george-g]].
+- Principal subordinates: [[william-t-sherman]], [[sheridan-philip-h]], [[meade-george-g]].
 - Political sponsor: [[washburne-elihu-b]] (Galena congressman who championed Grant from the first).
 - President who recognized his value: [[lincoln-abraham]].
 - Primary military opponent: [[lee-robert-e]].
@@ -83,10 +83,24 @@ Key grounded material:
 
 See the detailed biography page for the expanded decisions matrix, verbatim primary-source analysis, and full counterfactual treatment. The source is the spine for the high-resolution treatment of this life.
 
+
+### From Ellsworth, *Midnight on the Potomac* (2025)
+
+Popular last-year sketch: "He fights" (Lincoln after Shiloh); Vicksburg 4 Jul 1863; Washington reception 8 Mar 1864; Overland continuous contact; dispatches corps to save capital during Early's raid; City Point consultations with Lincoln Mar 1865; Appomattox parlor 9 Apr; presence in funeral processions. Ellsworth's coalition-victory thesis credits Grant among others without making him sole agent.
+
+Source: [[sources/ellsworth-midnight-on-the-potomac-2025]]. Detailed career: Chernow / biography hub.
+
+### From Gwynne, *Empire of the Summer Moon* (2010) — Peace Policy & southern plains
+
+As president (1869–77), Grant’s **Peace Policy** placed Indian agencies under religious nominees; the Comanche agency went to Quakers. Gwynne argues the policy “rewarded aggression and punished good conduct” by barring troops from reservation sanctuaries that free and agency bands used as bases for Texas raids, while eastern “rosewater” framings denied historical Comanche militarism. After continued depredations and the 1871 Salt Creek shock to Sherman, the army gained freer rein to pursue hostiles — the operational path to the [[events/red-river-war-1874|Red River War]]. Postwar demobilization (Gwynne: ~8,000 regulars in Texas occupied with Reconstruction, not plains war) left the frontier hollow until that shift. Grant later called [[actors/mackenzie-ranald-s|Mackenzie]] “the most promising young officer in the army… upon his own merit and without influence” (*Memoirs*, as quoted by Gwynne).
+
+Source: [[sources/gwynne-empire-of-the-summer-moon-2010]].
+
 ## Related
 
 - Detailed analysis: [[hubs/biographies/long-19th-century/grant-ulysses-s]]
 - Period: [[periods/long-19th-century]]
 - War hub: [[hubs/warfare/long-19th-century/american-civil-war/american-civil-war]]
 - Key source: [[sources/chernow-grant-2017]]
+- Southern plains: [[actors/william-t-sherman]], [[actors/mackenzie-ranald-s]], [[actors/comanches]], [[events/medicine-lodge-treaty-1867]], [[events/red-river-war-1874]], [[sources/gwynne-empire-of-the-summer-moon-2010]]
 - See also prior Civil War sources that reference Grant (e.g. [[sources/hattaway-jones-how-the-north-won-1983]], [[sources/hess-civil-war-infantry-tactics-2015]], [[sources/donald-lincoln-1995]]).

@@ -70,8 +70,9 @@ the fall of the West]].
   [[germanic-peoples|Visigoths]]; `preceded_by:` [[battle-of-adrianople-378|Adrianople]] and the Gothic
   *foedus* of [[theodosius-i|Theodosius I]]
 - `analogous_to:` the [[gallic-sack-of-rome-390bce|Gallic sack of Rome]] (the previous fall of the city)
-- `produced:` Augustine's *City of God*; feeds the [[causes-of-the-fall-of-the-western-roman-empire|fall
-  of the West]] controversy
+- `produced:` **[[augustine-of-hippo|Augustine's]]** *[[city-of-god|City of God]]* (his answer to the
+  pagan charge that Rome fell for abandoning the old gods); feeds the
+  [[causes-of-the-fall-of-the-western-roman-empire|fall of the West]] controversy
 - Source: [[cameron-cah-v13-1998]] (Ch. 4, R. C. Blockley); the great Christian apologetic response — the
   argument that pagan Rome's past was far bloodier — is now ingested as
   **[[fear-orosius-history-against-pagans|Orosius, *Seven Books of History against the Pagans*]]**

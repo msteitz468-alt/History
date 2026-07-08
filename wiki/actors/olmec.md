@@ -1,17 +1,17 @@
 ---
 title: The Olmec
 actor_type: other
-date_start: c. 1400 BCE (florescence; San Lorenzo apogee 1200–900 BCE)
-date_end: c. 400 BCE (decline of La Venta)
-period: [Late Bronze Age, Early Iron Age, Archaic Period]
+date_start: c. 1500 BCE (Initial Olmec / inequalities at San Lorenzo and La Venta)
+date_end: c. 300 BCE–1 CE (Late/Epi-Olmec; La Venta decline earlier c. 400–300 BCE)
+period: [Archaic Period, Classical Antiquity]
 region: [mesoamerica]
-affiliated_with: [the Gulf Coast "Olmec Heartland" (Veracruz/Tabasco), interregional trade with the [[zapotec|Valley of Oaxaca]]]
+affiliated_with: [Gulf Coast Olmec heartland (southern Veracruz–western Tabasco), elite exchange with highland and Pacific-coast societies, later Epi-Olmec centers]
 opposed_by: [unknown]
-key_events: [San Lorenzo apogee 1200–900 BCE, rise of La Venta c. 900–400 BCE, carving of the colossal heads]
-key_processes: [[[mesoamerican-state-formation]], [[trade-network-formation]]]
-sources_ingested: 2
-last_updated: 2026-06-12
-tags: [actor, archaic-period, mesoamerica]
+key_events: [Initial Olmec at San Lorenzo c. 1200–900 BCE, La Venta Intermediate/Terminal florescence, Tres Zapotes Epi-Olmec, highland elite symbol adoption at Chalcatzingo]
+key_processes: [[[mesoamerican-state-formation]], [[mesoamerican-preclassic]], [[trade-network-formation]]]
+sources_ingested: 3
+last_updated: 2026-07-08
+tags: [actor, archaic-period, classical-antiquity, mesoamerica, gulf-coast]
 ---
 
 # The Olmec
@@ -108,3 +108,152 @@ locked in **"competitive interaction,"** trading goods and especially **ideas**.
 before its Asian neighbours but isn't called "Asia's mother culture," because they *built their own*
 distinct systems from a shared legacy — *inheriting* (as the Norte Chico's heirs did) differs from
 *copying*.
+
+## Diehl / Grove synthesis (CHNPA II.1 Ch. 3–4)
+
+Richard A. Diehl’s Gulf Coast chapter and David C. Grove’s Preclassic central-highlands chapter in
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA Vol. II Part 1]] (2000) supply the most
+systematic regional synthesis now on this page. Attribution below is to those chapters; mother vs.
+sister readings are recorded as **positions**, not adjudicated.
+
+### Name, definition, and chronology (Diehl)
+
+Formative Olmecs of **southern Veracruz and western Tabasco** were, in Diehl’s wording, “the
+earliest civilization in our region and perhaps in the entire Americas.” The label is modern: a
+corruption of Nahuatl *Olmecatl* (“Rubber People” / “People of the Rubber Country”), the Aztec Late
+Postclassic ethnonym for the region’s inhabitants—not the Formative people’s self-name.
+
+Diehl defines civilizations as infrequently appearing complex societies with complex hierarchies,
+economic and political systems, defined territories/spheres, capitals larger than satellites
+(sometimes true cities), high attainments in the arts, and architecture, calendrics, religion,
+ritual, and esoteric knowledge reflecting an **upper class**—“perhaps the trait that most
+distinguishes civilizations from their less complex and organized predecessors.”
+
+Working chronology (G. Lowe 1989; Diehl notes recent La Venta work may force revision):
+
+| Phase | Approximate dates | Heartland focus |
+|---|---|---|
+| Pre-Olmec | 1500–1200 BCE | egalitarian village baseline |
+| Initial Olmec | 1200–900 BCE | [[san-lorenzo-olmec\|San Lorenzo]] growth, southern Mesoamerican power, decline |
+| Intermediate Olmec | 900–600 BCE | [[la-venta\|La Venta]] replaces San Lorenzo |
+| Late / Terminal Olmec | 600–300 BCE | La Venta climax |
+| Epi-Olmec | 300 BCE–1 CE | [[tres-zapotes\|Tres Zapotes]] and NW Tuxtlas; Pacific-coast Izapa-style influence |
+
+Diehl’s broader Gulf periodization (Paleoindian/Archaic through Late Postclassic) carries the
+caveat that many placements rest more on “faith and accepted wisdom” than fully verified absolute
+dates. Best-known intensively studied Gulf sites in his list include La Venta, San Lorenzo, Tres
+Zapotes, [[matacapan|Matacapan]], [[cerro-de-las-mesas|Cerro de las Mesas]], El Zapotal, Las
+Higueras, Remojadas, Cempoala, and [[el-tajin|El Tajín]].
+
+### Pre-Olmec baseline and social hierarchy
+
+By the end of the third millennium BCE, foragers and incipient agriculturalists occupied most of the
+Gulf lowlands. Diehl cites Santa Luisa and La Conchita (Palo Hueco phase ~2900 BCE, lower Tecolutla)
+for shellfish, fishing, crabs, and hunting; Wilkerson suggests Santa Luisa as a permanent village
+importing El Paraíso (Querétaro) obsidian from ~330 km west. Oldest known permanent **maize-farming**
+villages are Early/Middle **Bari-phase** sites (2250–1400 BCE) near later La Venta—round/rectangular
+wattle-and-daub houses on river levees; diet maize, palm nuts, mollusks, fish, turtles, crocodilians,
+deer, armadillo, raccoon, dog; grit-tempered brushed pottery; basalt grinding tools; obsidian.
+
+Comparable early remains appear at San Lorenzo **Ojochi** (1500–1350 BCE) and Santa Luisa
+Raudal/Almería (1700–1350 BCE). Pottery resembles Pacific Coast Chiapas/Guatemala assemblages; most
+archaeologists (Diehl following Grove 1992) believe the pottery idea originated in coastal
+Ecuador/Colombia and diffused via the Pacific Coast. Pre-Olmec societies are inferred as egalitarian
+**tribes**; inequalities of wealth and status appear with Olmec culture after **1500 BCE** at San
+Lorenzo, La Venta, and elsewhere in southern Veracruz–Tabasco.
+
+### Elite towns, sculpture, and political economy
+
+Only San Lorenzo, La Venta, **Laguna de los Cerros**, and Tres Zapotes among elite Olmec towns have
+been archaeologically studied (many more probably existed). Towns were larger than subordinate
+villages; they contained stone sculpture; temples and elite houses on earth mounds; and buried
+caches/offerings of discarded monuments, greenstone celts, figurines, and other prized objects.
+Commoners continued in small villages much as earlier.
+
+**Hallmark:** magnificently carved basalt sculptures. Stone from the **Tuxtla Mountains** was
+transported more than 150 km by water and land, some pieces weighing many tons. Corpus includes
+colossal human heads (possible ruler portraits), huge flat-topped “altars”/thrones, life-size human
+figures, and human–animal intermediate forms. Few monuments were found in original placement.
+Distinctive style (Coe 1965): baby-faced snarling “were-jaguars,” cleft heads, curvilinear
+naturalism—so distinctive that pieces can be attributed to Olmec artisans regardless of modern
+findspot.
+
+**Hearth of the style** remains debated: most authorities favor indigenous heartland antecedents in
+perishable media (wood, cloth); some still seek origins in Guerrero, Oaxaca, Chiapas, or other
+southern Mesoamerican regions.
+
+**El Manatí** (Coatzacoalcos basin) wet-spring offerings after ~1000 BCE preserved 40+ wooden busts
+(faces stylistically identical to Olmec stone), 10 wooden scepters (mostly serpents; one with shark
+tooth—possible royal power symbols analogous to later Maya Manikin Scepter), **9 rubber balls**, and
+100+ greenstone celts. Rubber balls were probably used in ballgame rituals on “Palangana”-style
+courts enclosed by four earth mounds like that at San Lorenzo—evidence for perishable antecedents of
+the stone style and early [[mesoamerican-ball-game|ball game]] practice.
+
+Olmec society had at least two strata: a small ruling elite and a larger commoner group. Elites wore
+sumptuous status dress; mobilized work parties possibly numbering in the **thousands** for mounds and
+basalt transport; controlled long-distance exchange of obsidian, serpentine, jadeite, pottery,
+feathers, and iron-ore ornaments from central Mexico, Morelos, Guerrero, Oaxaca, coastal Chiapas, and
+Guatemala—likely paid with cacao, jaguar pelts, crocodilian skins, stingray spines, and finished
+Olmec-style products. Trace-element work already shows San Lorenzo importing central-highland
+obsidian by ~1200 BCE (Cobean et al. 1971; Adams intro, CHNPA II.1).
+
+### Mother culture vs. multi-center debate (Diehl inventory; Grove position)
+
+Diehl presents the debate as open and “spirited” (citing Sharer & Grove 1989), without adjudication:
+
+- **Mother-culture position:** Olmecs as Mesoamerica’s precocious base civilization setting the
+  example for less developed neighbors.
+- **Sister / multi-center position:** Olmec societies no more complex than contemporaries; widespread
+  Olmec motifs result from preexisting multi-area ideas and practices rather than single-source
+  diffusion.
+
+A parallel split concerns continuities vs. differences with later urban civilizations in art,
+ideology, and religion. See [[olmec-mother-vs-sister-culture]].
+
+**Grove’s highland position (Ch. 3):** past reconstructions treated Early Preclassic highland
+iconographic motifs primarily as “influences” from Gulf Coast Olmec culture; Grove argues it is more
+appropriate to interpret motifs for the meanings they held for the villagers who used the pottery.
+His chapter was deliberately written “without once mentioning any ‘Olmec influences’ on the lifeways
+of central Mexico’s farming villages,” reflecting a developing scholarly change. Stone monumental
+art at [[chalcatzingo|Chalcatzingo]] and Teopantecuanitlan indicates significant associations with
+one or more Olmec chiefdoms—likely motivated by Gulf Coast need for central Mexican exotics
+(serpentine/greenstone from Guerrero)—but executed in a distinctive **“frontier” style**: limited
+elite alliance and symbol adoption, **not** blanket Olmec cultural domination of highland villages.
+
+### Later heartland, Epi-Olmec, and Contact-period *Olmeca*
+
+After ~600 BCE, complex societies spread west of the heartland between the Tuxtlas and the Pánuco,
+but Late Formative occupations are poorly known except Tres Zapotes. Epi-Olmec monuments and La
+Mojarra Stela 1 (A.D. 143 and 156 Long Count dates; Justeson & Kaufman Zoquean decipherment) mark a
+script tradition with only 4–5 known texts. Classic Gulf centers ([[cerro-de-las-mesas]], Matacapan,
+El Tajín) are post-Olmec successors, not continuations of Formative Olmec polity under that name.
+
+At Spanish contact, east of the Papaloapan the Aztecs called inhabitants *Olmeca* (“Rubber People”)
+and *Uixtotin* (“Saltwater People”)—**geographic, not language, labels**. Sixteenth-century
+languages: Popoluca (ancient; Mixe–Zoque related) and Nahuat, intermingled from the Tuxtlas to
+western Tabasco. Aztecs controlled the Papaloapan from Tochtepec; Coatzacoalcos basin and western
+Tabasco remained independent of tribute though merchants entered. Aztecs identified the region as
+**Tlapallan**, Quetzalcoatl’s homeland—a belief that later shaped costly delay when bearded Spaniards
+arrived from the east.
+
+### Southern Mesoamerican interaction (CHNPA Ch. 9–10)
+
+Sheets and others note Mid-Formative “Olmec-style” traits in western El Salvador and Honduras but
+warn against equating a few “Olmec” artifacts with significant Gulf contact; autochthonous
+assemblages are often underplayed. Chalchuapa sat on a Pacific–Tehuantepec route that fed Ixtepeque
+obsidian into San Lorenzo; Middle Formative Chalchuapa may show part-time Olmec presence and a
+conical pyramid possibly modeled on La Venta. Southern Maya Area synthesis stresses that overturning
+the “Olmec as sole source” view still leaves Gulf Coast developments among the most significant
+**precursors to Maya elite institutions** (monumental sculpture, ruler portraits, stelae/altar
+prototypes, underworld-cave iconography, monument defacement).
+
+## Related
+
+- Places: [[san-lorenzo-olmec]] · [[la-venta]] · [[tres-zapotes]] · [[chalcatzingo]] · [[el-tajin]] ·
+  [[cerro-de-las-mesas]] · [[matacapan]]
+- Processes/concepts: [[mesoamerican-preclassic]] · [[mesoamerican-state-formation]] ·
+  [[mesoamerican-ball-game]] · [[mesoamerican-calendar]]
+- Controversy: [[olmec-mother-vs-sister-culture]]
+- Actors (later Gulf): [[huastec]] · [[totonac]]
+- Sources: [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 3–4 (Grove, Diehl)]] ·
+  earlier CWH IV / Snow / Mann sections above

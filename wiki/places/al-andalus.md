@@ -61,3 +61,4 @@ North African interventions it provoked, are central to the history of the
 - [[caliphate-of-cordoba]] — its tenth-century apogee.
 - [[almoravids]], [[almohads]] — the Berber empires that ruled it after 1086.
 - [[reconquista]], [[christian-kingdoms-of-spain]] — the Christian advance against it.
+- [[medieval-frontier]], [[abulafia-berend-medieval-frontiers-2002]] — Ann Christys's study of the ninth-century Christian–Muslim frontier (the Mahmud of Mérida dossier) argues it was porous and pragmatic, its confessional sharpness a later crusade-era imposition.

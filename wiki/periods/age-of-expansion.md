@@ -6,9 +6,9 @@ followed_by: [[long-19th-century|Long 19th Century]]
 date_range: 1700–1800 CE
 regions_covered: [atlantic-world, western-europe, north-america, caribbean, south-asia, east-asia, indian-ocean, west-africa, central-asia]
 major_themes: [maturing oceanic empires, the first global wars, the eighteenth-century crisis of the Asian land empires, the apex of the Atlantic slave and plantation system, industrious revolutions, the Enlightenment and the Atlantic Revolutions]
-collection_coverage: moderate
-sources_ingested: 6
-last_updated: 2026-06-27
+collection_coverage: "moderate (strengthened by Ellis 2025 on founding contradictions, slavery compromises at 1787 Convention, Washington/Jefferson legacies at Mount Vernon/Monticello, and parallel Indian policy failure)"
+sources_ingested: 7
+last_updated: "2026-07-03"
 tags: [period]
 ---
 

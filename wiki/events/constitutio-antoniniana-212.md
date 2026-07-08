@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [[[roman-citizenship-and-belonging]], unknown]
 consequences: [[[roman-citizenship-and-belonging]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, late-antiquity, mediterranean-world]
 ---
 
@@ -59,6 +59,19 @@ across late antiquity.
 A landmark in the history of [[roman-citizenship-and-belonging|Roman citizenship and belonging]], the
 Antonine Constitution marks the formal end of citizenship as a marker dividing Romans from provincial
 subjects — even as social hierarchy (*honestiores*/*humiliores*) was hardening to replace it.
+
+## Beard's endpoint (SPQR, 2015)
+
+Mary Beard makes the edict of 212 the **culminating moment and deliberate endpoint** of her history
+of Rome's first millennium, in place of the conventional termini of Constantine's conversion (337 CE)
+or the sack of Rome (410 CE). For Beard the grant completes "a process of expanding the rights and
+privileges of Roman citizenship that had started almost a thousand years earlier," eroding "the
+difference between conqueror and conquered." The choice is itself a historiographical argument: it
+reframes the "end" of classical Rome as the **fulfilment of a citizenship project** rather than as
+decline, and consciously rejects the Gibbonian decline-and-fall master-frame. Beard notes the same
+uncertainty of motive (Cassius Dio's fiscal explanation vs. a universalising or patronal reading) that
+Campbell weighs above. See [[sources/beard-spqr-2015]] and, on the institution itself,
+[[concepts/roman-citizenship]].
 
 ## Related
 

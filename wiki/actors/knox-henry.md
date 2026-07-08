@@ -3,35 +3,26 @@ title: Henry Knox
 actor_type: person
 date_start: 1750
 date_end: 1806
-period: [Age of Expansion]
-region: [north-america, eastern-north-america]
-affiliated_with: [[[continental-army]], [[washington-george]]]
-opposed_by: []
-key_events: [[[siege-of-boston-1775]], [[battle-of-trenton-1776]], [[battle-of-monmouth-1778]]]
-key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-23
-tags: [actor, person, age-of-expansion, north-america]
+date_precision: year
+period: ["Age of Expansion"]
+region: ["north-america", "atlantic-world"]
+affiliated_with: ["Continental Army", "Washington administration (Secretary of War)"]
+opposed_by: ["land speculators", "state governments seeking rapid expansion"]
+key_events: ["Formulation of federal Indian policy (1789-1790)", "Treaty of New York negotiations"]
+key_processes: ["early US Indian policy", "transition from Confederation to federal authority over Native relations"]
+sources_ingested: 0
+last_updated: "2026-07-03"
+tags: ["actor", "person", "age-of-expansion", "north-america", "military", "secretary-of-war", "indian-policy"]
 ---
 
-# Henry Knox (1750–1806)
+# Henry Knox
 
-Chief of artillery of the **[[continental-army|Continental Army]]** and one of the great
-self-made soldiers of the **[[american-revolution|Revolution]]** — a Boston bookseller who
-taught himself gunnery from the volumes in his shop. So impressing
-[[washington-george|Washington]] that he received a colonel's commission at 25, Knox engineered
-the famous "noble train of artillery" that hauled the guns captured at Ticonderoga across winter
-country to fortify Dorchester Heights, forcing the British evacuation that ended the
-[[siege-of-boston-1775|siege of Boston]] (March 1776).
-
-His guns were decisive at **[[battle-of-trenton-1776|Trenton]]**, clearing the streets and
-sealing the Hessians' surrender — Washington promoted him to brigadier general two days later. At
-**[[battle-of-monmouth-1778|Monmouth]]** he and [[greene-nathanael|Greene]] "adroitly placed
-cannon to enfilade the British advance." Knox went on to become commander in chief of the army
-and the first U.S. **Secretary of War**, where he disavowed the "conquest theory" of sovereignty
-over the Northwest and sought negotiation with the Ohio tribes.
+Revolutionary War artillery commander and first US Secretary of War under Washington. Primary architect of the early federal Indian policy that treated Native tribes as foreign nations with prior rights to the soil. Advocated treaties of guarantee, federal enforcement against settler encroachment, and programs to transition tribes to agriculture within protected enclaves. His vision was defeated by demography, state resistance, and weak federal capacity, contributing to the "tragic" outcome of Indian removal.
 
 ## Related
 
-- `served_under:` [[washington-george]] · `part_of:` [[continental-army]], [[american-revolution]]
-- [[age-of-expansion]] — period; [[west-point-history-american-revolution-2017]] — source.
+- [[actors/washington-george]]
+- [[events/treaty-of-new-york-1790]]
+- [[actors/mcgillivray-alexander]]
+- [[concepts/slavery-in-the-american-founding]]
+- [[periods/age-of-expansion]]

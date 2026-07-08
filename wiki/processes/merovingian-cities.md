@@ -8,8 +8,8 @@ region: [western-europe]
 process_type: economic
 driven_by: [merovingian-episcopate, end-of-the-roman-villa]
 produces: [merovingian-religious-architecture]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, late-antiquity, early-middle-ages, western-europe]
 ---
 
@@ -59,8 +59,49 @@ later medieval towns would grow. The decline of urban centres also helps explain
 withering of hospital foundation (see [[early-medieval-hospitals-and-charity]]) and the disappearance of
 Roman mass-butchery (see [[farming-and-diet-in-merovingian-gaul]]).
 
+## Wickham, Framing (2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham, *Framing* (2005)]] places Merovingian urbanism in a
+comparative European–Mediterranean frame (see also [[urbanism]]).
+
+### Rural aristocracies; southern residual foci
+
+Unlike Italy, Merovingian Francia shows a well-documented aristocracy **firmly embedded in the
+countryside**. Strongest post-550 urban societies were southern (Poitiers, Clermont, Limoges, Bordeaux,
+Marseille), with some episcopally focused urban aristocracies; even there cities often served as points of
+reference for rural aristocratic politics rather than exclusive residences. North of the Loire, clear urban
+aristocrats are very limited; major named seats are rural (Woëvre, Brie, middle Meuse, etc.), though Paris,
+Reims, Trier, Mainz, Metz, and Verdun could focus rural-based politics.
+
+### Tours as *città ad isole*; northern nadir and revival
+
+Gregory of Tours’s Tours appears bustling (cathedral, St-Martin pilgrimage, processions, Clovis 508), but
+Galinié’s excavations show almost nothing extramural except churches/cemeteries and very simple material—
+barely urban archaeologically since the third century, a *città ad isole* over the edge into deurbanization
+still seen by Gregory as a normal *civitas*. In **northern Gaul** many towns were polynuclear/*città ad
+isole* (Trier, Bonn, Mainz, Metz); overall **450–600** was a general urban **nadir** and the **seventh–
+eighth centuries** a **revival**—a trajectory distinguishing north from south Gaul. Paris and Cologne stand
+out as truly urban cores (royal centres) integrating church networks; among excavated sites only Marseille
+matches their prosperity. Merovingian kings could on their own create economic bases for urbanism even in a
+relatively ruralised landscape.
+
+### Processions, Maastricht, emporia
+
+Narrative sources stress walls and churches more than secular fabric; processions between churches
+(protection from plague, drought, siege) may have been the main spatial-identity underpinner for most
+Gaulish cities—even when participants were peasants and pilgrims rather than urban inhabitants. **Maastricht**
+rose as a late Roman *castrum* turned fast sixth–seventh-century urban centre (stone houses, crafts, mint,
+bishop from Tongeren), driven by middle Meuse aristocratic (Pippinid) demand—not primarily classical city
+survival. Few such new centres appear elsewhere because prosperous regions still had classical networks and
+poor ones lacked impetus. **Dorestad** and **Quentovic** were export funnels into aristocratic-driven
+Frankish exchange, used by Neustrian monasteries; Wickham rejects reading them as Pirennean harbingers or
+purely atypical ventures—they were **standard north Frankish new towns** (successors of Cologne and
+Maastricht; precursors of Bruges/Ghent), which English and Danish kings copied in the eighth century
+([[pirenne-thesis]], [[carolingian-economy]], [[scandinavian-urbanisation]], [[aristocratic-demand]]).
+
 ## Related
 
 - [[merovingian-episcopate]] · [[merovingian-polity]] · [[merovingian-religious-architecture]] · [[merovingian-rural-settlement]] · [[end-of-the-roman-villa]] · [[roman-gaul]]
+- [[urbanism]] · [[aristocratic-demand]] · [[pirenne-thesis]] · [[carolingian-economy]] · [[scandinavian-urbanisation]]
 - [[arles]] · [[paris]] · [[late-antiquity]] · [[early-middle-ages]]
-- Source: [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] (Loseby Ch. 27; Bourgeois Ch. 28)
+- Sources: [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] (Loseby Ch. 27; Bourgeois Ch. 28); [[wickham-framing-the-early-middle-ages-2005]]

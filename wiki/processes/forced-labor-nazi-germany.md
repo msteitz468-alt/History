@@ -4,15 +4,14 @@ date_start: 1939
 date_end: 1945
 date_precision: year
 period: [World Wars Era]
-region: [central-europe, eastern-europe, western-europe]
+region: ["central-europe", "eastern-europe", "western-europe"]
 process_type: economic
-driven_by: [[[nazi-germany]], [[sauckel-fritz|Fritz Sauckel]], [[speer-albert|Albert Speer]], [[schutzstaffel-ss]], German industry]
-produces: [sustained German war production despite conscription losses, mass death among Soviet and Polish workers and camp inmates, business complicity in [[the-holocaust]]]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [process, world-wars-era, central-europe]
+sources_ingested: [3]
+last_updated: 2026-07-03
+tags: [process, "world-wars-era", "central-europe"]
+driven_by: ["[[nazi-germany]]", "[[sauckel-fritz|Fritz Sauckel]]", "[[speer-albert|Albert Speer]]", "[[schutzstaffel-ss]]", German industry]
+produces: [sustained German war production despite conscription losses, mass death among Soviet and Polish workers and camp inmates, "business complicity in [[the-holocaust]]"]
 ---
-
 # Forced and Slave Labor in Nazi Germany (1939–1945)
 
 Per [[evans-third-reich-at-war-2008|Evans (2008)]]: the system by which the Reich conscripted foreign civilians, POWs, and concentration-camp inmates to replace the men bled away by the eastern war (~60,000 German dead per month, June 1941–May 1944) — a choice driven equally by Hitler's refusal to mobilize German women fully (see [[volksgemeinschaft]]).
@@ -43,3 +42,37 @@ Dresdner Bank financed Sachsenhausen construction and Crematorium II at Auschwit
 ## Sources
 
 - [[evans-third-reich-at-war-2008]]
+
+## Shirer (1960): the Nuremberg documentary base
+
+- Scale: ~7.5 million foreign civilians in the Reich by end-September 1944, plus 2 million POWs (at least half a million in armaments, violating Hague and Geneva); Speer admitted at Nuremberg that 40% of all POWs worked in weapons production in 1944; Field Marshal Milch: "It is amusing that Russians must work the guns."
+- Sauckel, Plenipotentiary General for Labor Allocation ("one of the dullest of the dull" — Goebbels), directive: workers "to be treated in such a way as to exploit them to the highest possible extent at the lowest conceivable degree of expenditure"; his own Nuremberg admission that "not even 200,000 came voluntarily" of the millions; hanged 16 October 1946. Shirer, watching him in the dock, saw "a complete nonentity… the sort of German who in other times might have been a butcher in a small-town meat market" (eyewitness).
+- Methods: SS cordons of church-goers and cinema crowds in the West; village-burning in the East; the "Hay Action" (Heu-Aktion) — Army Group Center's plan (Rosenberg-file memo, 12 June 1944) to seize 40–50,000 children aged 10–14 as Reich apprentices and to reduce the enemy's "biological potentialities."
+- Conditions: Dr. Gutkelch's report (30 Sept 1942) on the Brest-Litovsk trains — corpses among returning worked-out laborers, newborns thrown from windows; Dr. Wilhelm Jaeger's affidavit on Krupp's camps (600 Jewish women from Buchenwald in a bombed-out camp; French POWs kept half a year in three-foot-high dog kennels at Nogerratstrasse, Essen); the Polish farm-worker directive of 6 March 1941 (no church, no transport, unlimited hours, employer's right of corporal punishment, stable quartering) later extended to other nationalities; Himmler's 1942 death edict for intercourse with German women and his 20 Feb 1942 "special treatment is hanging" directive; Sauckel's rules for the 500,000 eastern domestic servants procured "to relieve the German housewife" (no free time, no church). More than half the ~3 million Russian civilian laborers were women.
+- Shirer's structural point: this was not a wartime expedient but the intended permanent order — "the rule of the German master race over a vast slave empire stretching from the Atlantic to the Ural mountains."
+
+Source: [[shirer-rise-fall-third-reich-1960]]; see also [[nazi-plunder-of-occupied-europe]].
+
+## KL Slave Labour and the Satellite System (Wachsmann, *KL*, 2015)
+
+Forced labour was **not** a founding principle of the 1933 camps; it became
+central under [[eicke-theodor|Eicke]]'s mid-1930s coordination (initially inward,
+on camp construction) and then the engine of [[pohl-oswald|Oswald Pohl]]'s SS
+economic empire — the flagship **DESt** quarry works and the lethal camps
+Flossenbürg and Mauthausen. When Pohl's WVHA absorbed the camps in March 1942,
+the KL were formally reoriented "all about economics": prisoners were to be
+worked "literally to exhaustion." **Hitler's September 1942 decision** to let
+prisoners work in existing state and private factories (abandoning Himmler's
+rule that armaments be produced inside camps) triggered the explosion of the
+**satellite-camp (*Außenlager*) system** — ~80 at the start of 1943, ~150 by
+mid-1943, and hundreds more by 1944 (Heinkel at Oranienburg, BMW at Allach,
+Mittelbau-Dora's underground V-weapon tunnels). Pohl set daily rental rates
+(6/4 RM skilled/unskilled in Germany; less in the east), earning the Reich
+~200 million RM in 1943, rising toward 400–500 million in 1944. Yet the KL never
+became a significant part of the German economy, German industry was initially
+reluctant, and a 1943 incentive/"privileges" scheme (tobacco, vouchers, brothel
+visits) mainly widened the gap between the Kapo elite and the starving mass.
+Underlying it all was [[annihilation-through-labor|"annihilation through
+labour"]] — the deliberate working-to-death of Jewish and other "undesirable"
+prisoners, which the WVHA never reconciled with its own mortality-reduction
+drive. Source: [[wachsmann-kl-concentration-camps-2015]].

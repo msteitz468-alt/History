@@ -12,9 +12,9 @@ event_type: [war]
 scale_immediate: civilizational
 scale_consequential: global
 causes: [the Anglo-French colonial and commercial rivalry, Prussia's seizure of Silesia and Austria's drive to recover it, the "Diplomatic Revolution" of 1756, the balance of power]
-consequences: [British global supremacy (North America and India), the survival of Prussia as a great power, the fiscal crises that led to the American and French revolutions]
-sources_ingested: 1
-last_updated: 2026-06-14
+consequences: [British global supremacy (North America and India), the survival of Prussia as a great power, the fiscal crises that led to the American and French revolutions, end of multipolar Native play-off diplomacy in eastern North America, conditions for Pontiac's War]
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, age-of-expansion, atlantic-world, north-america]
 ---
 
@@ -83,8 +83,32 @@ than once without Frederick being deemed "the loser," since under the
 this war (with the Spanish Succession) complicates the [[limited-war]] label —
 "plausibly... the first world wars."
 
+## Native North America (Salisbury, CHNPA I.1 ch. 7)
+
+For eastern Native peoples, the war ended multipolar play-off diplomacy more profoundly than any transformation since European arrival. Most Indians sought in vain to maintain the Anglo-French balance that had structured the first half of the eighteenth century; France’s defeat left them confronting a victorious Britain whose principal rivals became its own colonies.
+
+### Ohio lead-up (1744–54)
+
+Imperial war from 1744 was felt immediately on the Ohio: many multi-ethnic “republican” Indians (French-anxious term) repudiated French high prices, scarce goods, and demand to fight the English. 1747 Huron-Petuns/Wyandots led Mingos, [[shawnee]], and Miamis against French traders and toward Pennsylvania merchants. 1752 French/Ottawa/[[ojibwe]]/Potawatomi force attacked Miami Pickawillany, killing Memeskia (Old Briton/La Demoiselle). By 1754 French drove all English traders from the Ohio Valley and erected forts including Fort Duquesne.
+
+### Northern campaigns and Native realignment
+
+Washington’s 1753–54 failures and Fort Necessity surrender reinforced Native doubts about English capability. [[mohawk]] declared the Covenant Chain a dead letter (1753); Albany Congress 1754 reaffirmed form but land purchases worsened grievances. **Braddock 1755:** put off still-willing Mingos/Shawnees/[[lenape-delaware]] with high-handed manner and candid avowal they would lose lands if the English won; small French force + ~1,000 St. Lawrence/Great Lakes Indians utterly routed the expedition. Shawnees and Delawares then attacked the Pennsylvania frontier; French and allies (many Iroquois) seized Oswego (1756) and William Henry (1757), massacring many occupants.
+
+As French advantage grew, [[haudenosaunee-confederacy]] and Ohio Indians sought balance by resuming English support—obstacles included Delaware/Shawnee antagonisms and Teedyuscung’s bid for Delaware unity, Wyoming homeland, Walking Purchase investigation, and independence from Iroquois. **Treaty of Easton (Oct 1758):** Ohio Indians and PA Delawares accepted Iroquois suzerainty as means to rid French and minimize British expansion; most Ohio Indians abandoned Duquesne; by 1760 British–Indian victories forced Vaudreuil to surrender all Canada.
+
+### South and peace
+
+Cherokee–colony war meshed with the imperial war (settler pressure; trader abuses; 1759–61 all-out war; ~2,800 British troops burned homes/crops 1761). Divided Creeks enjoyed dual trade and largely avoided war. **Treaty of Paris (Jan 1763):** French Canada, Spanish Florida, and Louisiana east of the Mississippi to Britain; Louisiana west of the Mississippi to Spain—expelled France from mainland North America.
+
+### Aftermath for Natives
+
+Amherst’s postwar domination policies (cessation of presents including hunting ammunition; captive returns including content adoptees; Seneca land seizures) fed directly into [[pontiacs-war-1763]]. Proclamation of 1763 attempted imperial regulation of the west; enforcement failed. Salisbury’s arc: end of Indian multipolar diplomacy → British monopoly → Revolution in which most threatened Natives supported Britain, recognizing rebels sought end to Indian sovereignty.
+
 ## Related
 
 - `part_of:` the eighteenth-century [[balance-of-power|balance-of-power]] system; `caused_by:` Anglo-French imperial rivalry.
 - `produced:` [[american-revolution]] and (via fiscal crisis) the [[french-revolution-1789|French Revolution]]; British dominance in India.
-- [[age-of-expansion]] — the period; [[new-cambridge-modern-history-v7]] — the source.
+- `produced` (Native theater): collapse of French option for eastern Indians; conditions for [[pontiacs-war-1763]]; acceleration of land pressure inside [[eastern-woodlands-colonial-encounter-1600-1783]].
+- [[age-of-expansion]] — the period; [[new-cambridge-modern-history-v7]] — European frame; [[sources/cambridge-history-native-peoples-americas-v1-1]] — Salisbury Native frame.
+- [[haudenosaunee-confederacy]] · [[mohawk]] · [[lenape-delaware]] · [[shawnee]] · [[ojibwe]]

@@ -8,9 +8,9 @@ region: [eastern-north-america, north-america]
 process_type: cultural
 driven_by: [the Eastern Agricultural Complex and later maize, long-distance exchange, ritual/cosmological integration, corporate labor]
 produces: [Poverty Point, Hopewell, the Mississippian world ([[cahokia|Cahokia]]), Hohokam and Ancestral Pueblo ([[chaco-canyon|Chaco]])]
-sources_ingested: 2
-last_updated: 2026-06-12
-tags: [process, eastern-north-america, archaic-period]
+sources_ingested: 3
+last_updated: 2026-07-08
+tags: [process, eastern-north-america, archaic-period, mississippian]
 ---
 
 # North American Mound-Building and Emergent Complexity
@@ -45,6 +45,41 @@ charismatic leaders" rather than a managed economic hub.
   spread (common after 800 CE), setting the stage for the hierarchical, urban
   **[[cahokia|Mississippian]]** order from c. 950 CE.
 
+### Mississippian platform-mound chiefdoms (A.D. ~800–1600) — Smith CHNPA I.1 ch. 5
+
+Bruce D. Smith’s synthesis of [[mississippian-culture]] agricultural chiefdoms supplies the
+eastern climax of this process:
+
+- **Non-mortuary mound construction** had begun in some eastern areas on a modest scale by
+  **A.D. 800**; by ~**A.D. 1000** reorganization and refocusing of communities around a
+  central **plaza and mound complex** was evident over a broad eastern expanse — the
+  architectural signature of agricultural chiefdoms as an **in situ** socio-political
+  transformation, **not** a Mesoamerican introduction of the form (Smith).
+- Central settlements: **flat-topped rectangular mounds** of basket-loaded earth around
+  plazas; **Monks Mound** at [[cahokia]] is the largest (6.5 ha base, 30 m high; also given
+  as 316 × 240 m base, four platforms), but most mounds are modest with layer-cake
+  sequential enlargement/renewal. Centers range **<4 to >100 ha**, often with fortification
+  wall and ditch; occupation often a century or more with palisade rebuilds and fluctuating
+  habitation as families were drawn in for defense, ceremonies, and elite burials.
+- Mound centers were seats of socio-political power; plazas hosted integrative feasts and
+  ceremonies; summits supported corporate structures including **mortuaries** displaying
+  remains of personages with status objects. Periodic enlargement elevated ranking clans
+  physically and socially while building on descent from founding chiefs.
+- Scale range: small polities such as the [[powers-phase]] (Powers Fort ~5 ha) through
+  complex multi-mound centers ([[moundville]]: twenty mounds around a 32-ha plaza by ~1200)
+  to [[cahokia]] (~100 mounds; 83-ha palisaded precinct) within the [[american-bottom]].
+  Specialized mortuary-temple towns ([[spiro]] Craig Mound great mortuary) concentrate
+  elite ritual without matching Cahokia’s bulk.
+- **Chiefdom cycling** produced rapid rise/decline at some centers and multi-century
+  continuity or mound-center relocation at others; after ~A.D. 1400 the interior **Vacant
+  Quarter** abandoned large villages and mound centers before European disease. Contact-era
+  epidemics then dismantled most remaining chiefdom-level mound systems (*caused_by*
+  disease primarily — Smith). Classification of the largest centers as complex [[chiefdom]]
+  vs. state remains open on [[north-american-states-debate]].
+
+See also: [[southeastern-ceremonial-complex]] (elite iconography on and from mound centers);
+[[etowah]], [[natchez]].
+
 ## The Southwest
 
 A separate trajectory, shaped by early **maize** from Mesoamerica (before 2100 BCE) and by
@@ -71,8 +106,15 @@ third, distinct New World pathway.
 
 Charles Mann's [[mann-1491-2005|*1491*]] sets the mound-builders within the wider
 [[pristine-myth|managed-landscape]] argument: [[cahokia|Cahokia]] (at its c. 1100 CE peak larger than
-contemporary London) and the engineered bottomland of the American Bottom were a **humanized landscape**,
+contemporary London in some popular comparisons — note that Bruce D. Smith and Milner judge
+high-end population projections of 26,000–43,000 as likely 4–5× actual peak) and the engineered
+bottomland of the [[american-bottom|American Bottom]] were a **humanized landscape**,
 and the eastern woodlands the colonists found "natural" were in part shaped by Indian **fire-management**
 (clearing underbrush, creating game-rich parklands). The depopulation of these societies by
 [[virgin-soil-epidemics|introduced epidemics]] — and the consequent regrowth — was, on Mann's account,
-part of what produced the "[[pristine-myth|virgin wilderness]]" of the European imagination.
+part of what produced the "[[pristine-myth|virgin wilderness]]" of the European imagination. Pre-contact
+interior abandonment of the Vacant Quarter (after ~A.D. 1400) is a separate, still-unexplained
+horizon in Smith’s synthesis and must not be collapsed into post-1492 epidemic narratives alone.
+
+**Additional source for Mississippian climax:** [[cambridge-history-native-peoples-americas-v1-1]]
+(Bruce D. Smith, “Agricultural Chiefdoms of the Eastern Woodlands,” ch. 5).

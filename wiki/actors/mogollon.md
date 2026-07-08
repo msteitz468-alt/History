@@ -9,9 +9,9 @@ region: [north-america]
 affiliated_with: []
 opposed_by: []
 key_events: ["[[southwest-drought-collapse-1150ce]]"]
-key_processes: []
-sources_ingested: 2
-last_updated: 2026-06-27
+key_processes: ["[[southwest-agricultural-development]]"]
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, north-america]
 ---
 
@@ -68,8 +68,16 @@ Located in northwestern Chihuahua, Mexico, Paquimé was a large, influential com
 
 Some Mogollon communities dispersed as early as 1150 CE; others persisted until 1450 CE. Mimbres pottery disappeared by 1150 CE. Gila Polychrome ceramics, associated with the Salado phenomenon, appear in Mogollon areas as Ancestral Pueblo refugees migrated southward into still-viable farming zones, producing ethnogenesis and cultural amalgamation. After 1450 CE, the last Mimbres people disappeared from the region; the area was subsequently occupied by Apache hunter-gatherers. No single modern community claims direct descent, though Pueblo peoples of the Rio Grande recognize cultural continuity with ancient southwestern traditions.
 
+## Cordell & Smith (CHNPA I.1 ch. 4)
+
+*part_of:* [[southwest-agricultural-development]]; *concurrent_with:* [[hohokam]]. Mogollon designates ancient inhabitants of the rugged mountainous area immediately east of the Hohokam region, encompassing mountains and low-lying basins from central Arizona/New Mexico south into Chihuahua. Pre-700 remains strongly resemble Hohokam (simple palettes, figurines, plain brown/red and red-on-brown pottery); may have taken up farming somewhat later than the Hohokam, or at least depended on hunting and gathering longer; inhumations relatively more common vs Hohokam cremations.
+
+**After ~700:** more differentiated but internally variable; sites move from ridges to near streams and arable land. A.D. 700–1000: deep pithouses with ramp entries. The Mogollon did **not** build platform mounds or ball courts, but some villages had a very large communal pit structure — a **great kiva** (sometimes multi-community). After ~1000–1150: single-story contiguous stone pueblos with plazas. After ~1000: black-on-white ceramics including Classic Mimbres (often “killed” bowls in burials). Craft/trade lag behind Hohokam until late flourishing at [[casas-grandes-paquime]]. *followed_by:* late Paquimé craft peak in the broader Mogollon-related south.
+
+Cordell & Smith note that through most of its history the Casas Grandes region **resembled Mogollon**; fourteenth-century reorganization into Paquimé is treated on that place page. Late Mogollon–Zuni and some Mogollon–Piro links are proposed for post-contact continuity (less secure than Ancestral Pueblo–Pueblo).
+
 ## Historiography
 
 The Mogollon were recognized as a distinct tradition in the twentieth century, distinct from both Hohokam and Ancestral Pueblo. Key debates include the origin and spread of Mimbres pottery (craft specialization vs. household production; the role of looting in destroying the evidentiary base), the nature of great kivas and their social function, and the relationship between Paquimé and the broader Mogollon world (whether Paquimé should be classified within Mogollon or as a separate tradition with Mesoamerican characteristics). The Mattocks site study has been important for revealing internal social diversity — not all Mimbres communities had the same social structure or access to trade goods.
 
-**Source:** [[snow-gonlin-siegel-archaeology-native-north-america-2020]]
+**Sources:** [[snow-gonlin-siegel-archaeology-native-north-america-2020]]; [[sources/cambridge-history-native-peoples-americas-v1-1]] (Cordell & Smith ch. 4)

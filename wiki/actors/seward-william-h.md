@@ -35,6 +35,13 @@ Seward was the most prominent Republican before 1860. Governor of New York, U.S.
 
 Seward supplied diplomatic experience Lincoln lacked. Their partnership demonstrated Lincoln’s capacity to win over and retain former rivals through respect, humor, and shared purpose. Seward’s later assessment of Lincoln as the greatest figure of the age is among the most moving tributes from a one-time competitor.
 
+
+### From Ellsworth, *Midnight on the Potomac* (2025)
+
+Absent from 14 Apr cabinet (carriage accident; son Frederick sat in). Same night Lewis Powell's multi-weapon assault at Lafayette Square nearly killed him—part of the coordinated [[events/assassination-of-abraham-lincoln-1865|assassination conspiracy]]. Earlier: death-threat letter traffic (incl. letter saying Lincoln would "be assassinated soon") routed through State/War channels; Halifax consul warned Seward 1 Nov 1864 of election-day city arsons.
+
+Source: [[sources/ellsworth-midnight-on-the-potomac-2025]].
+
 ## Related
 
 - Lincoln: [[actors/lincoln-abraham]] and [[hubs/biographies/long-19th-century/lincoln-abraham]]

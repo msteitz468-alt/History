@@ -24,8 +24,8 @@ key_events:
   - 1932 constitutional revolution (end of absolute monarchy)
 key_processes:
   - "[[colonialism-in-southeast-asia]]"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-03
 tags:
   - actor
   - state
@@ -66,6 +66,18 @@ The Anglo-French Agreement of 1896 formalized the arrangement: each power agreed
 ## Contrast with Burma and Vietnam
 
 Tarling's analysis — and the source chapter throughout — frames Siamese success as contingent on a combination of favorable geography (more remote from India than Burma, more remote from China than Vietnam), fortunate political circumstance (Bangkok-based dynasty outward-looking after the Ayutthaya trauma), and wise leadership. A Catholic Vietnamese mandarin, Nguyen Truong To, estimated that "Siam is no stronger than Vietnam. However, when it engaged in contact with Westerners, that country knew how to wake up to reality immediately." The contrast was not simply a matter of individual leadership but of structural flexibility: the Chakri dynasty was not locked into a Confucianist ideological framework that made commercial accommodation ideologically inadmissible, and it had not accumulated the prestige debt of the Konbaung kings that made explicit subordination intolerable.
+
+## Alliance and rivalry with the Nguyen (Taylor 2013)
+
+Before founding his dynasty, King Rama I (Chakri) — as a general under Taksin — began "an alliance with
+[[gia-long|Nguyen Phuc Anh]] that would continue for twenty years, until the end of the Vietnamese wars."
+Siam sheltered Nguyen Phuc Anh in exile and backed his reunification campaign with rice, troops (up to
+10,000 men in 1799), and diplomacy, though a Siamese fleet sent to restore him was destroyed by
+[[nguyen-hue|Nguyen Hue]] at Rach Gam–Xoai Mut (1785). The alliance gave way to open rivalry over Cambodia
+once the [[nguyen-dynasty|Nguyen dynasty]] was established: Rama III invaded Cambodia in 1833 in coordination
+with the [[le-van-khoi-rebellion-1833-1835|Le Van Khoi rebellion]], opening a decade of war with
+[[minh-mang|Minh Mang]] over the [[khmer-empire|Khmer]] vassal that ended in the compromise peace of 1847.
+See [[nam-tien]].
 
 ## Historiography
 

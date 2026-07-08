@@ -1,128 +1,121 @@
 ---
 title: The Maya Civilization
 actor_type: civilization
-date_start: c. 1000 BCE (Preclassic origins); Classic period 250–900 CE
+date_start: c. 1000 BCE (Preclassic origins); Classic period c. 250–900 CE
 date_end: "the Spanish conquest of the last independent Maya (Nojpetén) in 1697; the Maya peoples endure today"
-period: [Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
+period: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 region: [mesoamerica]
-affiliated_with: ["the broader Mesoamerican world (Olmec inheritance, Teotihuacan contacts)", "divine kingship (k'uhul ajaw)"]
-opposed_by: ["rival Maya city-states (Tikal/Mutal vs Calakmul/Kaan)", "the Spanish (final conquest 1697)"]
-key_events: ["the Kaan–Mutal wars (526–682 CE)", "the Classic Maya collapse (c. 800–950 CE)", "the conquest of Nojpetén (1697)"]
-key_processes: ["[[mesoamerican-state-formation]]", "[[maize-domestication]]", "[[mesoamerican-calendar]]"]
-sources_ingested: 2
-last_updated: 2026-06-12
-tags: [actor, civilization, mesoamerica, classical-antiquity, late-antiquity]
+affiliated_with: ["the broader Mesoamerican world (Olmec-related networks, Teotihuacan elite contacts)", "divine kingship (k'uhul ajaw)", "southern highland–Pacific traditions", "colonial repúblicas de indios and modern indigenous organizations"]
+opposed_by: ["rival Maya city-states (Tikal/Mutal vs Calakmul/Kaan)", "the Spanish (final conquest of Nojpeten 1697)", "nineteenth-century Yucatecan Creole plantation order"]
+key_events: ["Late Preclassic southern florescence and Ilopango shock", "Early Classic Teotihuacan-related elite contacts", "the Kaan–Mutal wars and Hiatus", "the Classic Maya collapse (c. 800–950 CE)", "Chichén Itzá and Mayapan Postclassic orders", "[[conquest-of-guatemala-1524]]", "[[conquest-of-yucatan-1527]]", "[[caste-war-yucatan-1847]]"]
+key_processes: ["[[mesoamerican-state-formation]]", "[[mesoamerican-preclassic]]", "[[maya-highland-pacific-development]]", "[[highland-maya-colonial-modern]]", "[[lowland-maya-colonial-modern]]", "[[southeast-mesoamerican-frontiers]]", "[[maize-domestication]]", "[[mesoamerican-calendar]]"]
+sources_ingested: 6
+last_updated: 2026-07-08
+tags: [actor, civilization, mesoamerica, classical-antiquity, late-antiquity, early-modern]
 ---
 
 # The Maya Civilization
 
-The **Maya** built the most intellectually sophisticated civilization of the pre-Columbian Americas — the
-only one to develop a **complete writing system**, and a pioneer (with its Mesoamerican neighbours) of
-**zero** and of an astronomy and calendrics more precise than contemporary Europe's. Documented for the
-wiki through Charles Mann's [[mann-1491-2005|*1491*]] and the existing CWH-derived
-[[mesoamerican-state-formation]] and [[mesoamerican-calendar]] pages. Long mythologised as a uniquely
-"peaceful" people of stargazing priests, the Maya are now understood — since the decipherment of their
-script — as a turbulent world of warring **divine-king city-states**.
+The **Maya** built the most intellectually sophisticated civilization of the pre-Columbian Americas — the only one to develop a **complete writing system**, and a pioneer (with its Mesoamerican neighbours) of **zero** and of an astronomy and calendrics more precise than contemporary Europe's. Documented for the wiki through Charles Mann's [[mann-1491-2005|*1491*]], CWH-derived [[mesoamerican-state-formation]] and [[mesoamerican-calendar]] pages, Snow et al. (2020), and — in depth — the Cambridge *History of the Native Peoples of the Americas* Vol. II.1: **Norman Hammond** on the lowlands (Ch. 5), **Robert Sharer** on the highlands and Pacific coast (Ch. 10), and **Payson Sheets** on the southeastern frontiers (Ch. 9). Long mythologised as a uniquely "peaceful" people of stargazing priests, the Maya are now understood — since the decipherment of their script — as a turbulent world of warring **divine-king city-states**, with deep Preclassic roots in **both** the lowlands and the southern highlands/Pacific slope.
 
-## A civilization of city-states
+## Geography, languages, and environment (Hammond)
 
-The Maya occupied the Yucatán Peninsula and the highlands and lowlands of modern Guatemala, Belize, and
-Chiapas. Theirs was never a single empire but a shifting constellation of **competing city-states**, each
-ruled by a *k'uhul ajaw* ("holy lord") who mediated between the human world, the celestial powers above,
-and the watery underworld below. In the **Classic period (c. 250–900 CE)** great centres — **Tikal**
-(*Mutal*), **Calakmul** (*Kaan*, "the Kingdom of the Snake"), Palenque, Copán, Caracol — rose across the
-forest. Mann's recurring example is **Calakmul**: long left to the jungle (he visited it by light plane
-in the 1980s, when it seemed unknowable), it proved to cover ~25 square miles with thousands of
-structures, reservoirs, and a defensive wall — a city-state of perhaps **575,000** people, and the focus
-of a **century-long war (526–682 CE)** between **Kaan** and its rival **Mutal/Tikal** for hegemony over
-the Maya heartland.
+The **Maya Area** is the eastern part of [[mesoamerica-culture-area|Mesoamerica]], defined by Classic Maya material culture and the historical distribution of **Mayan-speaking** peoples: from the flat Yucatán peninsula south through the highland divide to the Pacific coast of Chiapas, Guatemala, and El Salvador — roughly **900 km N–S** and up to **~550 km E–W**. The formal eastern boundary traditionally follows the **Ulua** (Caribbean) and **Lempa** (Pacific El Salvador) valleys, but research shows a **broad zone of shifting cultural and linguistic affiliations** (see [[southeast-mesoamerican-frontiers]]); the western boundary runs across Tabasco/Chiapas east of the Isthmus of Tehuantepec near the Mayan–Mixe-Zoque interface. Despite continuous contact, the eastern–western Mesoamerican boundary is “strikingly clear” (Hammond).
+
+Prehispanic populations within the area were almost exclusively Mayan-speaking, apart from late first–early second millennium A.D. eastward highland/Pacific penetration by western Mesoamerican peoples (Pipil and related; Sheets/Sharer). Terrence Kaufman recognized **23 Mayan languages** in 10 groups and 3 main divisions; greatest diversity (and presumed Maya origins) lies in the **Guatemalan highlands and adjacent Chiapas**. The Yucatec complex occupied the peninsular region including north/east Petén and all Belize; Classic monumental inscriptions are increasingly attested as **Chol** only, though Yucatec and Chol groups were probably of equal common use from the Preclassic onward.
+
+**Physiography:** metamorphic/volcanic uplands; volcanic zone; steep Pacific slope; Yucatán limestone peninsula; Tabasco alluvial plain. Climate tropical/subtropical with seasonal rainfall (dry December–May governing agriculture); southern lowlands typically >2,000 mm; NW Yucatán driest (<500 mm). Karst northern Yucatán lacks surface streams — prime water sources are **cenotes** (e.g. Cenote of Sacrifice at [[chichen-itza|Chichén Itzá]]). Southern lowlands were penetrated by water transport (Usumacinta system; portages to Sarstún/Belize/Hondo).
+
+Hammond’s three lowland regions: (1) **NW Yucatán** — flat karst, thin soil, scrub; Holocene occupation at Loltún Cave; village life from Middle Preclassic; (2) **Campeche–Quintana Roo** — little surface drainage, lakes, cultural corridor north (Cobá similar to Petén); (3) **southern region** (Petén, Belize, lower Motagua/Grijalva, Usumacinta) — high rainfall, surface drainage, tropical forest; Ladyville Clovis-type point; forest clearance/cultivation by **2000 B.C.**; villages by late second millennium B.C.
+
+## Periodization and the Long Count
+
+The tripartite **Preclassic–Classic–Postclassic** scheme was **developed in the Maya Area** and extended to the rest of Mesoamerica. The Classic was defined as the period of lowland monumental stone inscriptions using hieroglyphic script and **Long Count**; with the accepted correlation (11.16.0.0.0 = 12 Nov A.D. 1539), Classic ≈ **A.D. 250–900** (8.10.10.0.0–10.4.0.0.0). Earliest known lowland Long Count: **[[tikal|Tikal]] Stela 29** = 8.12.14.8.15 = **6 July A.D. 292**; latest: **Tonina Monument 101** = 10.4.0.0.0 = **18 Jan A.D. 909**. Long Count base date **3114 B.C.** (most recent creation in Maya reckoning). Until radiocarbon, the Long Count was the only absolute chronology in the prehispanic New World; trade items and style extended it across Mesoamerica. Postclassic runs A.D. 900 to Spanish Conquest; ethnohistoric recovery partly via Books of Chilam Balam after Conquest codex destruction.
+
+## Preclassic lowlands: from Cuello to El Mirador (Hammond)
+
+Settled life in the Maya lowlands began before **1200 B.C.**; pollen cores suggest maize cultivation possibly as early as mid-third millennium B.C. **Cuello** (Belize) first sedentary occupation ~1200 B.C. — earliest lowland site (comparable Middle Preclassic at Colha and K’axob). **Swasey** (1200–900 B.C.): timber then plaster platforms; Structure 326 ~8×4 m; maize already adapted to humid lowlands (earlier highland introduction implied); manioc, squash, beans, chile. Swasey ceramics are a distinctively lowland Maya tradition with **no close ties to Gulf Coast Olmec** and relatively loose highland ties. **Bladen** (900–600 B.C.) links Xe (Pasión), Eb (Tikal), Verapaz; first long-distance imports (Maya Mountains manos/metates; Motagua jadeite; SMJ obsidian).
+
+**Mamom** sphere (600–400 B.C.) ceramic uniformity across the lowlands indicates high interaction; Xe/Mamom Maya fit into Middle Preclassic shared-idea landscapes with Olmec as regional traditions; earliest nondomestic public architecture ~600 B.C. at Altar de Sacrificios and Tikal; large Mamom structures at Nakbe, Río Azul, Wakna suggest **complex chiefdom by 400 B.C.** Adams (CHNPA Ch. 1) notes Nakbe’s earliest large lowland temple (~620 B.C.) and supports Late Preclassic as climactic, with civilization potentially pushed toward ~600 B.C. overlapping the end of Olmec development.
+
+**Late Preclassic (400 B.C.–A.D. 250)** revised the “simple villages” model: masonry superstructures, vaulted roofs, polychrome ceramics, stelae, hieroglyphic writing, and bar-and-dot numerals all exist **before the third century A.D.** Late Preclassic occupations ~4× more frequent than Mamom in regional survey. Public complexity examples: Cuello massive platform ~400 B.C. with human sacrifices and *pop* (woven mat) regnal motif; Cerros ceremonial precinct and canal; Edzna canal 12 km (~1.7 million person-days; ~2.25 million m³ water storage). Intensive artificial agricultural econiches not securely earlier than **A.D. 300**. **Colha** chert workshops: ≥32 of 89 Late Preclassic workshops; >2 million tranchet adzes suggested; tools to El Mirador — regional production economy with El Chayal obsidian.
+
+**Urban scale:** Komchen ~3,000 on 2 km²; Nohmul acropolis >100,000 m³ fill; defensive works at Tikal (possibly 25 km ditch/parapet) and Becan; **El Mirador** ceremonial core 1 km × 800 m; El Tigre and Monos c. 150 B.C. up to 55 m and >250,000 m³ fill each; Danta arguably tallest Maya construction; Structure 2 at [[calakmul|Calakmul]] among massive investments. Stelae complex: plain shaft at Cuello c. A.D. 100; carved figures at El Mirador and Nakbe; collocation of stela format, ruler image, hieroglyphic text, and Initial Series probably by early second century A.D. “Protoclassic” debate marginalized; Early Classic c. A.D. 250 still justified by the transition to **historicity** on hundreds of monumental inscriptions.
+
+## Southern highlands and Pacific coast: prototypes of Classic civilization (Sharer)
+
+Sharer’s **southern Maya Area** (highlands + Pacific plain) is not a mere periphery of Petén but the setting where **distinctive Maya art style and writing** appear to have developed in the Late Preclassic (precise origins debated), providing **prototypes** of traits later expressed most fully in the Classic lowlands. See full process page [[maya-highland-pacific-development]].
+
+- **Middle Preclassic:** complex chiefdoms; Gulf Coast among the most significant precursors to Maya elite institutions (not sole “mother”); Pacific–Isthmus–Gulf trade; highland obsidian, jadeite, likely cacao to the Olmec zone.
+- **Late Preclassic peak:** [[kaminaljuyu|Kaminaljuyú]] most powerful southern center (~5 km², >200 mounds), controlling **El Chayal** obsidian; [[izapa|Izapa]], Abaj Takalik, El Baúl, Chalchuapa as peers; Usulután ware uniting the south and reaching El Mirador and Tikal; earliest Long Count and stela-text packages concentrated in the south (and Mixe-Zoquean west).
+- **State mosaic:** mostly “petty” states; stratified elite/non-elite; architecture, sculpture, writing, calendrics used to reinforce authority.
+- **Terminal Preclassic decline (~A.D. 100–250):** cessation of carved hieroglyphic stelae; abandonment of many Pacific and inland centers — **far more drastic in the south** than in the lowlands. Trigger: **Ilopango** eruption ~A.D. 250; chain reaction of trade collapse; fusion of southern and lowland Terminal Preclassic traditions contributes to Classic Maya package (Sharer).
+- **Classic–Postclassic:** Teotihuacan-related traits at Kaminaljuyú better read as local elite appropriation than colonial enclaves (Sharer; contrast Adams’s older military-intrusion reading); Cotzumalhuapan style on cacao coast; Early Postclassic fortified hilltop conquest states; Quiché/Cakchiquel segmentary states; Spanish conquest ends independent development.
+
+Adams notes Pacific Soconusco early centers Izapa and Abaj Takalik; Kaminaljuyú an order of magnitude larger; El Portón on highland–lowland routes; Ilopango ~150 B.C. in older dating (Sheets/Sharer prefer ~A.D. 200–250) driving survivors west.
+
+## Classic lowlands: polities, writing, and society (Hammond)
+
+Of ~250 Early Classic carved monuments, >200 inscribed, ~170 with Initial Series A.D. 238–593; concentration in NE Petén especially Tikal; sustained monument increase after 9.0.0.0.0 (A.D. 435). Emblem Glyphs (“holy lord of X”): only Tikal and El Perú before 9.0.0.0.0; sixteen more centers by 9.8.0.0.0 from Tonina to [[copan|Copán]]. Modal polity size **<2,000 km²**; Tikal and Calakmul held greater sway. Early Classic ceramic chronology (Uaxactun Tzakol) wrongly assumed lowland-wide — absence of Tzakol misread as depopulation.
+
+**Teotihuacan contacts** (third–fifth centuries) at Tikal, Yaxha, Uaxactun, Becan, Nohmul, Altun Ha: talud-tablero, Pachuca green obsidian, elite-mediated art; **direct military intervention unlikely**; elite–elite ties; later highland–lowland echoes at Xochicalco and Cacaxtla. Río Azul conquered by Tikal c. A.D. 385 with Teotihuacano allies in tombs; city history ends perhaps in war c. A.D. 530.
+
+**Hiatus (A.D. 534–593):** few central-lowland dated monuments; reframed as **political event** — [[calakmul|Calakmul]] encircling Tikal via El Perú, Dos Pilas, Caracol. Possible Tikal defeat by Calakmul A.D. 562.
+
+**Late Classic (A.D. 600–800)** apogee: greatest population size/density; familiar site maps are Late Classic palimpsests. Settlement hierarchy: **plazuela** household → minor ceremonial centers (~4 km² districts) → major centers (polity capitals from San Estevan scale to Calakmul/Tikal). Social pyramid: ruling elite ~**2%**; ranks *ahau*, *sahal*, *almehenob*, commoners, serfs/slaves; six+ levels from Late Preclassic; patrilineal elite inheritance with exceptions (matrilineal circumstances at [[palenque|Palenque]]). Thompson’s priest-peasant model destroyed by Tikal mapping and Proskouriakoff’s structural analysis of human rulers’ careers.
+
+**Warfare and trade:** small states in endemic low-level warfare with opportunistic distant alliances within a shared cultural oecumene; trade networks from Middle Preclassic operated >1,500 years; Columbus 1502 Bay Islands canoe cargo; three exchange levels (local, intrapolity market, external restricted goods). Obsidian: SMJ → El Chayal → Ixtepeque sequence; overland Pasión/Usumacinta vs Motagua–Caribbean routes; Pachuca via Gulf; Terminal Classic more commercial mass-produced goods. Regional elite styles: Tikal nine-tier temples (NE Petén); Palenque mansard/stucco (lower Usumacinta); Río Bec–Chenes–Puuc florescence ~A.D. 900 during southern decline.
+
+Snow et al. (2020): Tikal domain ~120,000; Palenque hydraulic capital of Pakal; Copán 20–25k subjects and Hieroglyphic Staircase; Chichén multiethnic 600–1100 CE. Mann’s Calakmul example (~575,000 domain estimate; century-long Kaan–Mutal war 526–682 CE) sits within this peer-polity world.
+
+## Subsistence: intensive agriculture, not empty ceremonial centers
+
+Traditional milpa + Thompson–Morley “empty ceremonial center” model collapsed when **Tikal mapping** showed dense suburbs and continuous habitation toward Uaxactun and Yaxha without open milpa belts. Classic agriculture more intensive: shorter fallow (Copán: temporary then degradation); multi-crop milpa including root crops; ramón orchard hypothesis largely rejected; silviculture (avocado, guava, mamey, cacao); hillside terracing (Río Bec terraces over ≥10,000 km² — Adams/Turner); drained/raised fields (Pulltrouser; chinampa-like potential ~19 persons/ha); Preclassic canals at Cerros/Edzna; controversy over *bajo* drainage at Tikal/El Mirador; possible canoe food shipping. Protein: white-tailed deer >50% of mammal protein; domesticated dog; fish, turtles, snails; coastal marine fish inland. Adams notes Colha lithic mass production and NASA/JPL radar canal patterns (extent disputed).
+
+## Collapse, Postclassic, and colonial continuity
+
+See [[maya-classic-collapse-800ce]] for full causal analysis. Hammond’s documented facts: monument cessation from A.D. 790 onward; abandonment of ceremonial centers; multicausal models; eighth-century preconditions (density, ruler–ruled gap, stature decline/deficiency disease). Hammond’s preferred **logistical thesis** (urban growth outran managerial food capacity; urban poor suffer first; multi-decade decline; “real collapse” possibly sixteenth-century disease) is interpretive, not consensus. Southern continuity on fortified lake peninsulas (Topoxte, etc.) until after Spanish Conquest. Northern path: [[chichen-itza|Chichén Itzá]] → fragmentation → **Mayapan** (to 1441) → east-coast Tulum etc. **Putun** trading navigators; Aztec entrepôt at Xicalango; Cozumel trade/pilgrimage. **Lamanai** continuous Late Preclassic–seventeenth century; **Tipu** visita then semi-independence until forced removal 1707 after Ursúa’s **1697** conquest of Itza capital **Noh Petén** — last Maya polity outside even nominal Spanish rule. Churches at Tipu, Lamanai, Tancah, Ecab: last ceremonial constructions in a tradition unbroken **>2,500 years**.
 
 ## Writing, zero, and the calendar
 
-The Maya were the great **literate** culture of the Americas, recording dynastic histories on carved
-**stelae** and in bark-paper books. Their independent invention of **zero** is, in Mann's telling, one of
-humanity's landmark intellectual feats — the earliest securely-dated Maya zero (a carving of **357 CE**)
-may even predate its use in Sanskrit India, and Long Count dates presupposing zero are older still. Their
-**[[mesoamerican-calendar|calendar]]** interlocked a 260-day ritual count and a 365-day solar year (more
-accurate than the contemporary Julian calendar) within the **Long Count** that tracked deep time. The
-**decipherment of Maya glyphs** (largely from the 1950s–90s) transformed the field — turning mute "ruins"
-into named kings, dated wars, and dynastic politics, and demolishing the old image of placid priest-
-astronomers.
+The Maya were the great **literate** culture of the Americas. Independent invention of **zero**; Long Count; interlocking 260-day ritual count and 365-day solar year. **Decipherment** (Knorozov phonetic argument; Proskouriakoff historical structure; 1960–1990 content breakthroughs — Coe *Breaking the Maya Code*, Schele & Freidel, Culbert ed. *Classic Maya Political History*) transformed mute ruins into named kings and dated wars. Most books burned; three indisputable codices (Dresden, Madrid, Paris) plus authenticated Grolier. Highland **[[popol-vuh|Popol Vuh]]** preserves creation, Hero Twins, maize humanity, and dynastic charter — Classic vase themes a millennium earlier prove continuity. Before radiocarbon (~1950), Maya calendar correlations were the main means of absolute chronology across Mesoamerica (Adams).
 
-## The Classic collapse
+## Religion and significance
 
-Between roughly **800 and 950 CE** the southern lowland city-states were **abandoned** in one of
-history's most-studied "collapses" — monument-carving ceased, populations dispersed, and the great
-centres returned to forest. Causes debated include **drought, overpopulation, soil exhaustion, and
-endemic inter-city warfare**, very likely in combination. *(This is deepened in [[mann-1491-2005|1491]]
-Ch. 8, "Made in America" — see the [[pristine-myth|landscape]] pages.)* The collapse was **regional, not
-total**: Maya civilization continued in the northern Yucatán (Chichén Itzá, then Mayapán) and the
-highlands, and Maya peoples — millions of them, speaking some thirty Mayan languages — endure to the
-present. The **last independent Maya state, Nojpetén** (Tayasal), fell to the Spanish only in **1697**,
-nearly two centuries after Cortés.
+The religious imagination of reciprocal debt between humans and gods is shared Mesoamerican logic (see [[aztec-religion-and-human-sacrifice]]). The Maya refute [[holmbergs-mistake|"Holmberg's Mistake"]]: a literate, historically self-conscious civilization. They invented the wheel on toys without transport use, and worked without draft animals or metal tools — technological “progress” is not a single ladder. They sit within [[mesoamerican-state-formation]] rooted in [[olmec|Olmec]]-era networks and [[maize-domestication|maize]], with southern Preclassic prototypes (Sharer) and lowland Classic apogee (Hammond) as complementary, not sequential-only, stories.
 
-## Religion and the Popol Vuh
+## Highland Maya under colonial and national rule (Lovell, CHNPA II.2)
 
-The Maya religious imagination survives most fully in the **[[popol-vuh|Popol Vuh]]**, the sacred
-"Council Book" of the highland **K'iche'** (documented for the wiki via Tedlock's translation). It
-preserves the Maya **creation** (the world made by **Heart of Sky / Hurricane** and the **Sovereign
-Plumed Serpent**; the failed humans of mud and wood), the saga of the **Hero Twins Hunahpu and
-Xbalanque** and their defeat of the underworld **Xibalba** (a myth attested on **Classic Maya
-vase-painting** a millennium earlier — proof of deep continuity), and the creation of true humanity from
-**maize**. To be Maya was, literally, to be **made of corn**. The book also doubled as a **dynastic
-charter**, tracing the K'iche' lordly lineages to the first maize-men — the religious counterpart to the
-glyphic dynastic records of the Classic city-states. See [[popol-vuh]] and
-[[aztec-religion-and-human-sacrifice|Aztec religion]] for the shared Mesoamerican logic of reciprocal
-debt between humans and gods.
+Full process page (tables, case studies, atrocity record, historiography): [[highland-maya-colonial-modern]].
 
-## Significance
+Despite a sixteenth-century Kaqchikel lament of enveloping darkness and birth “to die,” highland Maya remain a living presence. Even undercounting censuses record **>1 million** Maya in Chiapas and **5–6 million** in Guatemala; Maya-speaking peoples make up about **half** of Guatemala’s population (Lovell, CHNPA II.2 Ch. 21). In Mexico the Chiapas Maya are one of many Indian minorities among mestizos; in Guatemala they are a national demographic half. Major living language groups include Tzeltal, Tzotzil, and Tojolabal in Chiapas and K’iche’, Mam, Kaqchikel, Q’eqchi’ (and many smaller languages) in Guatemala.
 
-The Maya are the clearest refutation of [[holmbergs-mistake|"Holmberg's Mistake"]]: a literate,
-mathematically advanced, historically self-conscious civilization that recorded its own dynastic past in
-writing — the opposite of the "people without history." Yet, famously, they invented the **wheel** (on
-children's toys) without using it for transport, and worked without draft animals or metal tools — a
-reminder that technological "progress" is not a single ladder. They sit within the broader
-[[mesoamerican-state-formation|Mesoamerican]] tradition rooted in the [[olmec|Olmec]] and
-[[maize-domestication|maize]].
+**Conquest (from 1524):** After [[spanish-conquest-of-mexico-1519|Tenochtitlan]], Spaniards pushed into Chiapas and Guatemala for cacao, cochineal, and quetzal feathers among dispersed polities. **Pedro de Alvarado** fought the K’iche’s then other groups one by one; Kaqchikel alliance lasted ~six months before a nearly four-year rebellion. Effective Chiapas highland control followed Marín’s **1524** reconnaissance only ~**1528** (Portocarrero, Mazariegos; center at Ciudad Real / San Cristóbal). Subjugation took ~**ten years or longer** in places — see [[conquest-of-guatemala-1524]], [[guatemala-highlands]], [[chiapas-highlands]].
 
-## Classic Maya City-States and the Collapse (Snow et al. 2020)
+**Colonial mold:** Catastrophic depopulation ([[virgin-soil-epidemics]]; Lovell & Lutz Guatemala series; Gerhard Chiapas) accompanied [[encomienda]] and [[congregacion|congregación]]. MacLeod’s regionalization: SE/Pacific export zones accelerated **ladinoization**; NW tierra fría became a hybrid **culture of refuge**. Parcialidades and cofradías reorganized life inside pueblos de indios; the **Tzeltal Revolt 1712–13** was the region’s only full-scale colonial uprising.
 
-Snow, Gonlin, and Siegel (2020, Ch. 13) integrate recent archaeological synthesis on the
-diversity of Classic Maya city-states and the mechanics of the collapse.
+**National bifurcation:** Independence left **Chiapas Mexican** and Guatemala in the Central American breakup. Liberals (Barrios coffee regime; mandamiento, vagrancy law, libreta; Chiapas peonage and foreign capital) reconquered land and labor; Carrera’s Conservatives offered a temporary Guatemalan shield. Mid-20th c.: Mexico’s partial **ejido** consolidation in central Chiapas highlands (no Guatemalan equivalent) vs Arbenz overthrow (**1954**) and Guatemala’s civil war. **1978–83** counterinsurgency killed **tens of thousands** of Maya under Lucas García, Ríos Montt, and Mejía Víctores (Finca San Francisco, **17 July 1982**, among scores of army massacres); peace **29 December 1996** without land reform. Chiapas **Zapatista** uprising **1 January 1994** protested Article 27 rollback and broken agrarian social contract. Diaspora and remittances (up to ~**1 million** Guatemalans in US/Canada; ~**$500 million**/year) are now structural.
 
-**Tikal** (Peten, Guatemala) had a population of approximately 120,000 within its domain;
-its rulers may have commanded the labor of thousands more. A long earthwork surrounded a
-large area and its outlying regions; its function (defense or water management) remains
-debated. **Palenque** (Chiapas, Mexico) — originally named *Lakam-ha'* ("place of abundant
-water") — was an urban capital with sophisticated hydraulic engineering: a system of
-channels, aqueducts, and stone bridges controlling five streams. Its King **K'inich Janaab
-Pakal I** (603–683 CE), buried in the Temple of the Inscriptions, was bedecked in jade, his
-face covered by a mosaic jade mask. Palenque was rapidly abandoned after 800 CE. **Copan**
-(Honduras), the southernmost Classic Maya city, had 20,000–25,000 subjects; its rulers
-erected the longest known Mayan inscription on the **Hieroglyphic Staircase**. Sixteen kings
-ruled Copan across nearly 400 years. Commoner households at Copan had access to obsidian
-tools, grinding stones, and some fancy ceramics in addition to everyday wares.
+Lovell’s thesis: colonial inequality (**1524–1821**) cast later iniquities; survival must not be romanticized, but highland Maya act as agents — hybrid refuge culture, calibrated resistance, labor migration, political voice (Menchú Nobel **1992**; Maya movement; Zapatistas). Full chronology, tables, and historiography: [[highland-maya-colonial-modern]]. Prehistoric southern prototypes remain under [[maya-highland-pacific-development]]; lowland colonial–modern path under [[lowland-maya-colonial-modern]].
 
-**Chichén Itzá** (northern Yucatan), active approximately 600–1100 CE, became a multiethnic
-cosmopolitan city-state capital for over three centuries. Its Great Terrace contains El
-Castillo, the Great Ball Court, the Tzompantli (skull rack), and the Temple of the Warriors.
-The Sacred Cenote served as the city's main water source and, during severe eleventh-century
-droughts, as a site of human sacrifice to propitiate the rain god Chac. Hieroglyphic
-inscriptions dating 800–1000 CE record patronyms of principal families whose names survived
-five centuries to the Spanish colonial period.
+## Lowland Maya under colonial and national rule (Jones, CHNPA II.2 Ch. 20)
 
-For the mechanics and causes of the Classic Maya Collapse (~800–910 CE), see
-[[maya-classic-collapse-800ce]].
+Full process page: [[lowland-maya-colonial-modern]]. Conquest narrative: [[conquest-of-yucatan-1527]]. National-period rupture: [[caste-war-yucatan-1847]].
 
-**Writing and codices**: Most Maya books that survived to the sixteenth century were burned
-by Spanish religious zealots. Only three indisputably pre-Hispanic Maya books survive: the
-Dresden, Madrid, and Paris Codices. A fourth, the **Grolier Codex** (surfaced 1971), has
-been authenticated by leading Mayanists (Coe et al. 2015).
+Spanish conquest and colonization, though probably more devastating than earlier political dislocations, must be seen as **yet another major stage of Maya history** — not the end of the Maya as a people (Grant D. Jones). Three fundamental processes since Conquest — **accommodation**, **avoidance**, and **resistance** — are active strategies for preservation and continuity of Maya history, not merely passive adaptive responses.
 
-For Maya calendar systems (Tzolkin, Haab, Long Count), see [[mesoamerican-calendar]].
+**Contact geography and society.** At conquest, lowland Maya speakers occupied Yucatán–Campeche–Quintana Roo, eastern Tabasco, lowland eastern Chiapas, Petén, parts of Alta Verapaz, and northwestern Honduras (more than 650 km N–S). Yucatecan linguistic continuum enabled peninsula-wide mobility; northern provinces (14–18 *kuchkab’alob’* after Mayapan’s mid-fifteenth-century collapse) were split especially by **Xiw (Mani)** vs **Kokom (Sotuta)** antagonism that shaped events through the nineteenth century. Hierarchical nobles, commoners, and slaves; maize-beans-squash-chile agriculture; cotton and cacao trade; hieroglyphic books still in elite use (Itzas into the late seventeenth century). Spaniards often framed Mayas as “New World Moors” requiring conversion and military pacification.
+
+**Conquest to 1697.** Early contacts from 1511 (Aguilar, Guerrero) fed the Mexican translation chain of 1519; Montejo’s patent from **1527** produced dual evacuations, mass enslavement (one source: as many as 50,000 exported), and only in **1540–1544** the definitive northern villas (Mérida 1542; Campeche, Valladolid, Bacalar). Southeastern genocidal methods under the Pachecos and the **1546** revolt drove long-term flight into the interior. The **Itzas** of **Nojpeten** (Lake Petén Itzá) — per their own histories migrants from [[chichen-itza|Chichén Itzá]], probably fifteenth century — remained fully independent until **13 March 1697**, when Spanish forces took an emptied capital after failed Franciscan k’atun diplomacy. Estimated **88%** of the Itza-area population died in the first decade of colonial rule (1697–1706).
+
+**Colonial institutions and resistance.** Indirect rule via cabildos/*batab* and **maestros**; long-lived [[encomienda]] (retained in Yucatán until late 1700s); [[congregacion|congregations]] against residential mobility (a “leaking dam”); forest flight and refugee trade fueled by repartimiento demand; Chilam Balam literature and k’atun ideology as political weapons largely secret from Spaniards. Only the **1761** Kisteil rising (Jacinto Kan Ek’) seriously threatened colonial overthrow. Northern counts: ~240,000 (1549–50); plunge to ~100,000 by 1688; 1794 province 357,000 with 71% classed Maya (Cook & Borah, via Jones).
+
+**Caste War and after.** Post-1821 sugarcane estates on Maya lands sparked the **1847–1901** war — agrarian peasant uprising in current scholarship; agrarian conditions the immediate spark even where long resistance history colors Creole “racial war” readings (Rugeley multi-causal). Cruzob’ forest society under the **Cult of the Talking Cross** held out until 1901 (Santa Cruz; now Felipe Carrillo Puerto). Eve-of-war population ~580,000; by 1869 ~363,000 enumerated (more than 100,000 dead; as many as 100,000 refugees). Northwestern recovery via henequen; 1930s land reform finally favored Mayas; Caste War refugees shaped northern Belize Yucatec communities.
+
+**Cultural reinvention and present.** By the end of the sixteenth century much public ritual, nobility structure, and coastal trade autonomy had been lost under colonial control — yet Mayas continually reinvented culture with new and old materials, redefining “to be Maya” (syncretic village crosses, ceiba/plaza sacred geography, agricultural shamanism, maestro-descended Christian-cycle officers). Late-twentieth-century cash crops, tourism, schooling, migration, and ecological destruction, Jones judged, pose **greater threats** to cultural integrity than previous centuries — even as political organization and reinvention continue. Yucatec speakers still form about half of a peninsula population over a million; southern lowland speaker communities are far smaller (Itza nearly extinct as a daily language; tiny Yucatec Lakandon survival).
+
+**Historiography (lowland colonial).** Archaeology of the prehispanic lowlands long outpaced colonial/national ethnohistory despite a rich documentary base (Jones). Stephens (1841–43) began modern recognition of living Mayas as builders’ descendants. Southern Yucatecan ethnic origins remain debated (Thompson’s “Chan Mayas” and Classic descent vs. Postclassic migrations vs. Jones’s deep Yucatecan antiquity). Pillars: Farriss, Patch, Chamberlain, Roys/Quezada, Clendinnen, Restall, Jones’s own Itza/resistance monographs, Cook & Borah demography, Rugeley/Reed/Dumond on the Caste War.
 
 ## Related
 
-[[mesoamerican-state-formation]] · [[mesoamerican-calendar]] · [[olmec]] · [[teotihuacan]] ·
-[[aztec-empire]] · [[maize-domestication]] · [[pre-columbian-americas]] · [[holmbergs-mistake]] ·
-[[mann-1491-2005]] · [[maya-classic-collapse-800ce]] · [[mesoamerican-ball-game]]
+[[tikal]] · [[calakmul]] · [[palenque]] · [[copan]] · [[chichen-itza]] · [[kaminaljuyu]] · [[izapa]] · [[maya-classic-collapse-800ce]] · [[maya-highland-pacific-development]] · [[highland-maya-colonial-modern]] · [[lowland-maya-colonial-modern]] · [[conquest-of-guatemala-1524]] · [[conquest-of-yucatan-1527]] · [[caste-war-yucatan-1847]] · [[guatemala-highlands]] · [[chiapas-highlands]] · [[southeast-mesoamerican-frontiers]] · [[quelepa]] · [[ceren-salvador]] · [[mesoamerican-state-formation]] · [[mesoamerican-calendar]] · [[mesoamerican-writing-systems]] · [[mesoamerican-preclassic]] · [[olmec]] · [[teotihuacan]] · [[aztec-empire]] · [[maize-domestication]] · [[pre-columbian-americas]] · [[holmbergs-mistake]] · [[mann-1491-2005]] · [[mesoamerican-ball-game]] · [[popol-vuh]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Jones Ch. 20; Lovell Ch. 21)

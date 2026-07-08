@@ -229,3 +229,13 @@ across the sea.
 - Coalition of rivals (Qadagin, Sal†i’ut, Dörben, Tatar, Onggirat, Qorolas, Naiman, Merkit, Oyirat, Tayiči’ut) "raised ‡amuqa as gür qan" after hacking stallion and mare (ll. 5958–5959). `preceded_by: [[genghis-khan]]` proclamation; `concurrent_with` multi-tribal resistance to unification.
 - Early †asag on booty discipline in 1202 Tatar campaign (ll. 6965–6995). See [[the-mongol-yasa]] and [[mongol-army]].
 - Many specific nökör and decimal references (units of 10k, officer roles) anchor the transition from tribal confederation to centralized structure. All taxonomy follows CLAUDE.md link types precisely. Updated with direct quotes from exclusive range. Prior content preserved.
+
+## The Dai Viet campaigns (Taylor 2013)
+
+After overrunning Nan Zhao (Yunnan) in 1256, [[kublai-khan|Kublai]]'s forces invaded [[dai-viet|Dai Viet]]
+three times — 1257–58, 1284–85, and 1287–88 — and each time were thrown back by the
+[[tran-dynasty-vietnam|Tran dynasty]], the last defeat sealed at the [[battle-of-bach-dang-1288|Battle of
+Bach Dang]] (see [[mongol-invasions-of-dai-viet-1258-1288]]). Kublai treated Champa as a further
+seaborne stepping-stone toward Southeast Asia and continued to plan renewed invasions until his death in
+1294, diverted by campaigns in Burma and Java. Dai Viet's repulse of the Yuan, achieved while the Mongols
+were conquering China itself, is a central episode of Vietnamese historiography.

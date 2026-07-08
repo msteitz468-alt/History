@@ -5,8 +5,8 @@ origin: Developed in the Byzantine Empire during the 7th century CE under the He
 applies_to_periods: [Early Middle Ages, High Middle Ages]
 applies_to_regions: [anatolia, balkans, mediterranean-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, political, early-middle-ages, anatolia, mediterranean]
 ---
 
@@ -42,6 +42,11 @@ Historians debate the origin and pace of the theme system's creation:
 
 The Theme System enabled the Byzantine Empire to survive the first two centuries of Islamic expansion. By decentralizing military defense and tying it to local land ownership, the system drastically reduced the state's military expenditure, kept Anatolia secure, and laid the foundations for the Byzantine recovery and expansion of the tenth century.
 
+## Wickham, *Framing the Early Middle Ages* (2005)
+
+Wickham treats the themes as part of the **tax-based eastern state** that survived Rome in simplified, **regionalized** form: tax from the Anatolikon essentially funded the Anatolikon army; fiscal coherence no longer supported a Mediterranean-wide exchange spine. On aristocratic identity, he parallels heartland change after c.650 with Byzantine Italy after the 580s—militarization of hierarchies reshaping status twice in roughly the same ways, a tribute to consistency of state power; Italian aristocracies remained more urban. He leans toward soldiers paid **in kind** rather than fully “landed” plantation-style settlement (engaging Hendy vs Haldon). See [[tax-based-vs-land-based-states]], [[byzantine-empire]], [[aristocratic-demand]]. Source: [[wickham-framing-the-early-middle-ages-2005]] Chs. 3–4, 11–12.
+
 ## References
 
 - *The New Cambridge Medieval History, Volume 1: c. 500–c. 700*, edited by Paul Fouracre. Cambridge University Press, 2005 (Chapter 11).
+- [[wickham-framing-the-early-middle-ages-2005|Wickham, *Framing the Early Middle Ages* (2005)]].

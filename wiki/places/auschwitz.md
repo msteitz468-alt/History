@@ -2,8 +2,8 @@
 title: Auschwitz
 place_type: other
 period_active: [World Wars Era]
-sources_ingested: [2]
-last_updated: "2026-07-02"
+sources_ingested: [3]
+last_updated: 2026-07-03
 tags: [place, "eastern-europe", "world-wars-era"]
 controlled_by: ["[[nazi-germany]]", "[[schutzstaffel-ss]]"]
 coordinates: [50.03 N, 19.18 E]
@@ -29,9 +29,32 @@ Evacuated January 1945 in the [[death-marches-1944|death marches]]; liberated by
 
 Paxton and Hessler's *Europe in the Twentieth Century* (2011) locate Auschwitz among the extermination camps established in the General Government from spring 1942, noting its dual function combining industrialized killing with forced labor for Krupp and IG Farben — see [[the-holocaust]] for the fuller account. Source: [[paxton-europe-twentieth-century-2011]].
 
+## The Path to Genocide (Wachsmann, *KL*, 2015)
+
+Wachsmann stresses that Auschwitz was **not created for the Holocaust** and was
+not a death camp for Jews in 1941. The camp opened in 1940 for Polish political
+prisoners; Birkenau was ordered in September 1941 to house Soviet POWs for
+Himmler's eastern settlements. Its route to genocide ran in three steps:
+RSHA deportations of Jews as slave labour from late March 1942; conversion into
+a **regional** death camp killing "unfit" Silesian Jews from May 1942; and
+promotion to a **European** killing centre from July 1942 (Himmler watched a
+gassing on his 17–18 July visit and promoted commandant [[hoss-rudolf|Höss]]).
+The gas chamber began at the main-camp crematorium (invented on Soviet POWs in
+autumn 1941), moved to the Birkenau farmhouses ("little red/white house"), and
+culminated in the four **crematoria II–V with integral gas chambers** (built by
+Topf & Sons, operational March–June 1943). The **Sonderkommando** — Jewish
+prisoners forced to empty the gas chambers — left buried "Scrolls of Auschwitz"
+documenting the crime. Registered slave labourers, above all at the IG Farben
+**Monowitz** works (Auschwitz III from November 1943), were killed by
+[[annihilation-through-labor|"annihilation through labour"]] (~25,000 of ~35,000
+Monowitz prisoners died). Auschwitz was the site of Mengele's twin experiments
+and Clauberg/Schumann's mass-sterilization trials. Source:
+[[wachsmann-kl-concentration-camps-2015]].
+
 ## Related
 
-- part_of: [[the-holocaust]]
+- part_of: [[the-holocaust]] · [[nazi-concentration-camps]]
 - contains: Birkenau, Monowitz (IG Farben), ~40 subcamps
 - analogous_to: [[operation-reinhard-1942|the Reinhard camps]] (but combining labor, industry, and extermination)
-- Source: [[evans-third-reich-at-war-2008]]
+- see also: [[hoss-rudolf]] · [[majdanek]] · [[annihilation-through-labor]]
+- Sources: [[wachsmann-kl-concentration-camps-2015]] · [[evans-third-reich-at-war-2008]]

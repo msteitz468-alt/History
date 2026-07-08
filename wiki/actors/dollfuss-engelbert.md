@@ -5,13 +5,13 @@ date_start: 1892
 date_end: 1934
 period: ["world-wars-era"]
 region: ["western-europe"]
-sources_ingested: [1]
-last_updated: "2026-07-02"
+sources_ingested: [2]
+last_updated: "2026-07-03"
 tags: [actor, person, "world-wars-era", "western-europe"]
-affiliated_with: ["Christian Social Party (Austria), Fatherland Front, Heimwehr"]
+affiliated_with: [Christian Social Party (Austria), Fatherland Front, Heimwehr]
 key_events: ["[anschluss-1938]"]
 key_processes: [clerical authoritarianism]
-opposed_by: ["Austrian Social Democratic Party, Austrian Nazi Party"]
+opposed_by: [Austrian Social Democratic Party, Austrian Nazi Party]
 ---
 ## Overview
 
@@ -70,7 +70,14 @@ Social Democrats were so easily crushed in February 1934.
 - [[salazar-antonio]] — the closest structural analogue: clerical/corporatist
   authoritarian, not fascist, ruling through existing elites (`analogous_to`).
 
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Shirer's account of the assassination adds tactical detail: on 25 July 1934, 154 members of SS Standarte 89, disguised in Austrian Army uniforms, stormed the Federal Chancellery at noon and shot Dollfuss in the throat at a range of two feet; he died around 6 p.m. The putsch failed due to the conspirators' own bungling; Kurt von Schuschnigg's forces regained control, and 13 conspirators were later hanged. [EYEWITNESS-ADJACENT, secondhand] Hitler received the news while attending *Das Rheingold* at the Bayreuth Wagner Festival; Friedelind Wagner reported he was "most excited" and could "scarcely wipe the delight from his face," yet still went to dinner as usual, saying "I must go across for an hour and show myself... or people will think I had something to do with this" [SHIRER-THESIS: Shirer treats this as revealing Hitler's true complicity and glee]. Mussolini, who had promised Hitler at Venice a month earlier to "leave Austria alone," responded by hastily mobilizing four Italian divisions to the Brenner Pass — corroborating this page's existing account of the mobilization as the episode's decisive external check. Papen, sent to Vienna afterward to restore "normal and friendly relations," was told by Hitler: "We are faced with a new Sarajevo!" (Shirer 1960).
+
+[[shirer-rise-fall-third-reich-1960]]
+
 ## Sources
 
 - Paxton, Robert O. and Julie Hessler. *Europe in the Twentieth Century*, 5th ed.
   (Boston: Wadsworth/Cengage, 2011), ch. 11–12. See [[paxton-europe-twentieth-century-2011]].
+- Shirer, William L. *The Rise and Fall of the Third Reich* (1960). See [[shirer-rise-fall-third-reich-1960]].

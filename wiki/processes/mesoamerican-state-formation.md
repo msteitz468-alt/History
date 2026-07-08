@@ -7,9 +7,9 @@ period: [Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity, Ea
 region: [mesoamerica]
 process_type: political
 driven_by: [maize agriculture, interregional trade networks, competition among ceremonial centers, religious/calendrical ideology]
-produces: [[[olmec|the Olmec]], [[zapotec|the Zapotec/Monte Albán]], [[teotihuacan|Teotihuacan]], [[classic-maya|the Classic Maya]], the Toltec and [[aztec-empire|Aztec]] successors]
-sources_ingested: 2
-last_updated: 2026-06-10
+produces: [[[olmec|the Olmec]], [[zapotec|the Zapotec/Monte Albán]], [[teotihuacan|Teotihuacan]], [[maya-civilization|the Classic Maya]], the Toltec and [[aztec-empire|Aztec]] successors]
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, mesoamerica, classical-antiquity, late-middle-ages]
 ---
 
@@ -42,7 +42,7 @@ into a single civilizational sphere.
   in the Valley of Oaxaca (San José Mogote, then Monte Albán) — the first writing, calendar,
   and martial iconography.
 - **Classic (c. 100–650/900 CE):** the metropolis of **[[teotihuacan|Teotihuacan]]** dominates
-  central Mexico through obsidian and trade; the **[[classic-maya|Classic Maya]]** city-states
+  central Mexico through obsidian and trade; the **[[maya-civilization|Classic Maya]]** city-states
   flourish under divine kings; Monte Albán peaks.
 - **Classic collapse (c. 650–910 CE):** Teotihuacan falls (~650), triggering a cascade; the
   Maya centers fail one by one (last Long Count date 910 CE).
@@ -75,3 +75,154 @@ understood on their own terms, not measured against Afro-Eurasia.
 No single end: the Classic collapse closed one cycle, but state formation **recurred** — a
 "successive progression of state rise and collapse" down to the Spanish conquest, which cut
 these trajectories short through "superior technology and disease pathogens."
+
+---
+
+## CHNPA II.1 enrichment (Adams, Grove, Diehl, Hammond, Cowgill, Gorenstein, Marcus & Flannery, Sheets, Sharer, Charlton)
+
+*Source attribution: *The Cambridge History of the Native Peoples of the Americas*, Vol. II
+Part 1 (2000). Complements and extends the CWH IV/V backbone above.*
+
+### Structural norms (Adams introduction)
+
+After state-level organization, the **city-state** was the basic and stable political unit;
+larger kingdoms and empires were combinations of city-states (Adams summarizing
+Willey–Ekholm–Millon). From the beginning of agricultural village life, **regional economic
+and political structures were the norm** — economic structures more common and more stable
+than political ones. Regional projects (Flannery Oaxaca; Gamio Teotihuacan; Demarest
+Petexbatun; Willey/Baudez/Sanders Copan Valley, etc.) exemplify this approach.
+
+### Preclassic multi-regional rise (linked to [[mesoamerican-preclassic]])
+
+**Grove's highland arc:** resource-uneven valleys → village craft specialization and exchange
+networks → Early Preclassic ranked chiefdom villages (Tlatilco model) → Middle Preclassic
+intensification of chiefly prestige goods (jade) and rare monumental centers → Late Preclassic
+nucleation, irrigation, public pyramids, and first urban-scale centers ([[cuicuilco|Cuicuilco]]
+then [[teotihuacan|Teotihuacan]]). Inequality of resources "unquestionably underlay"
+development of local/regional exchange.
+
+**Maya lowlands (Hammond):** Mamom interaction sphere and complex chiefdoms by 400 B.C.;
+Late Preclassic labor organization at Edzna (~1.7 million person-days; canal water storage);
+colossal El Mirador; Emblem Glyph polities with modal size ~2,000 km²; Late Classic apogee
+A.D. 600–800 as greatest population/density. Classic Maya realms were small states in
+endemic low-level warfare with opportunistic distant alliances within a shared cultural
+oecumene.
+
+**Southern Maya Area (Sharer):** Middle Preclassic complex chiefdoms; traditional
+Olmec-as-sole-source overturned, but Gulf Coast among most significant precursors to Maya
+elite institutions (monumental sculpture, ruler portraits with mirrors/scepters, stelae/altar
+prototypes, monument defacement anticipating Classic practice). Ocos large buildings at
+Paso de la Amada/San Carlos raise Early Preclassic ranking questions. Late Preclassic full
+expression of complex society with distinctive Maya art style and writing — both appear to
+have developed in the southern Maya area.
+
+**SE frontier (Sheets):** Chalchuapa to chiefdom 1000–500 B.C. (~20 m conical pyramid;
+capitalizing on Olmec-established resource systems ~600 B.C.–A.D. 200); Los Naranjos
+defensive ditch implying competitive landscape; Late Formative dense Salvadoran chiefdoms
+after Olmec-influence decline.
+
+**Gulf Coast (Diehl):** Formative Olmec earliest civilization in the region and perhaps the
+Americas; elite mobilization of labor and long-distance exchange; Postclassic Gulf trends of
+fragmentation then partial reintegration, endemic warfare (hilltop centers), and renewed
+central Mexican imperial intrusions after El Tajín's fall.
+
+### Primary-state trajectory: Oaxaca (Marcus & Flannery)
+
+Canonical sequence for early state formation:
+
+1. Sedentary villages by ~1900–1400 B.C. ([[san-jose-mogote|San José Mogote]] House 20).
+2. Ranking 1150–850 B.C. (SJM primacy; craft wards; magnetite mirrors to San Lorenzo —
+   peer exchange supporting sister-culture readings).
+3. Middle Formative multi-tier chiefdoms with irrigation and Monument 3 (earliest Zapotec
+   hieroglyphs + 260-day calendar name).
+4. **Monte Albán founding ~500 B.C.** — defensible synoikism; *danzantes* militarism.
+5. **Protoclassic state** after 200 B.C.: kingship (palace, royal tombs), standardized
+   two-room temples, ballcourt; Building J conquest slabs; Cuicatlán military takeover;
+   four-tier hierarchy (capital >1 km²; 4–5 secondary centers; tertiary temple sites; >400
+   base villages).
+6. Classic peak ~A.D. 600: Monte Albán ~6.5 km² / ~30,000 vs Teotihuacan ~20 km² /
+   125,000–200,000 — controlled-access fortified religious-regal mountaintop capital vs
+   planned accessible unfortified commercial plain city; Zapotec barrio at Teotihuacan and
+   diplomatic monuments (Lápida de Bazán) record a "special relationship."
+7. Postclassic **balkanization** (no single capital); Mixtec multipolar *cacicazgos* vs
+   earlier single expansionist Zapotec state; *lama-bordo* intensification; ephemeral
+   Lord 8 Deer macro-polity; Aztec southern campaigns and Guiengola stalemate.
+
+Adams separately notes Oaxaca's long village sequence from by 1600 B.C., political character
+about 600 B.C. (early writing and formal art), conquest monuments after 500 B.C. with
+Monte Albán establishment.
+
+### Teotihuacan as Basin state case (Cowgill)
+
+Basin consolidation via multi-polity competition and Cuicuilco eclipse; coerced primate
+urbanization ~A.D. 1 (almost entire Basin population into Teotihuacan; force + religious
+sanctions); monumental religious-political construction (Sun Pyramid over sacred cave);
+early despotic hierarchy displayed in mass sacrifice then possible collective restraints;
+core control of ~25–50k km² vs ideational/military influence far beyond; collapse as
+**ideological-system failure** not mere dynasty change ("What ended was not just a dynasty,
+it was the belief system that had supported the state"); Epiclassic multi-center reordering
+(Xochicalco, Cacaxtla, Tula). Formation model: combination of powerful religious attraction,
+successful (sacralized) warfare, and politically skilful leadership — not commerce alone.
+
+### West Mexico alternatives (Gorenstein)
+
+- **Teuchitlán tradition** (Weigand): site hierarchy and **statelike organization** in
+  Ahualulco phase (~A.D. 350–400) tied to redistributive organization of rare resources for
+  long-distance trade.
+- **Tarascan ([[purepecha|Purépecha]]) state** at [[tzintzuntzan|Tzintzuntzan]]: formed by
+  **absorption** of defeated polities (exclusive power), not peer coordination; more
+  centralized and organized for **administration** than Aztec **coordinated** mode; empire
+  ~75,000 km²; stalemate with Aztecs on eastern border. Classic–Postclassic Michoacán
+  ceremonial centers open to indigenous vs Teotihuacan-network vs Epiclassic elite-migration
+  explanations.
+
+### Secondary-state continuum: Teotihuacan → Tula → Tenochtitlan (Charlton)
+
+Charlton treats the Tula Toltec state as initial crystallization of a macroregional state
+within a continuum of **secondary state formation** from Teotihuacan to Tenochtitlan. Once
+Teotihuacan developed, the state was a given condition for later formation; post-Teotihuacan
+processes were **not identical** to those leading to Teotihuacan (memory of Teotihuacan;
+warfare and tributary-state formation strongest outside but adjacent to the Basin). Same
+processes underwrote successive rise of Tula then Tenochtitlan.
+
+**Epi-Teotihuacan matrix:** Basin continuity (Teotihuacan remained largest settlement) plus
+surrounding militarized hilltop centers (Xochicalco, Cacaxtla, Teotenango, Mezquital) —
+resolved first by Tula, then after second fragmentation by Aztecs.
+
+**Post-Tula cycle (A.D. 1150/1200–1519):**
+
+| Period (Charlton) | Dynamics |
+|---|---|
+| 1: 1150/1200–1250 | Migrations (northern frontier agriculturalists + Toltec-system peoples); multi-ethnic southern CMSR; foundations of renewed regionalism |
+| 2: 1250–1350 | City-state consolidation; limited warfare; score of small hostile domains (Brumfiel); Mexica minor players founding Tenochtitlan |
+| 3: 1350–1428 | Escalation; Acolhua and Tepaneca fragile conquests; Early Aztec Basin pop. ~92–120k → ~250k |
+| 4: 1428–1519 | Triple Alliance expansion; Basin pop. → 800,000–1,200,000; durable expansion after organizational solutions (leadership selection, succession patronage); indirect rule via perception of power (Hassig); core–periphery economic restructuring focused on Tenochtitlan |
+
+Summary thesis: classic secondary state formation; multi-factor (population, agricultural
+intensification, factionalism, ethnicity, warfare, ideology); many looked to Tula for
+inspiration; accidental succession resolutions by 1428 let Mexica and allies fulfill on a
+grand scale the model of a militaristic tributary city-state with Toltec antecedents.
+Spanish arrival ends expansion still ongoing in 1519.
+
+Early Postclassic (Adams): tribute-seeking predatory military states developed patterns
+fully elaborated in the Late Postclassic (cf. Quiché highland states).
+
+### Typological contrast (cross-cutting)
+
+CHNPA enlarges Mesoamerican political typology beyond a single Central Mexican/Aztec
+template:
+
+- **Primary state:** Oaxaca ranking → urban synoikism → conquest hierarchy (Monte Albán)
+- **Primate coercive urbanization:** Teotihuacan Basin
+- **Absorption/administrative empire:** Tarascan
+- **Coordination/tributary empire:** Aztec Triple Alliance
+- **Multipolar high culture:** Mixtec *cacicazgos*; Postclassic Maya city-states
+- **Secondary macrostates:** Tula then Tenochtitlan after Teotihuacan
+
+## Related
+
+[[mesoamerican-preclassic]] · [[olmec]] · [[zapotec]] · [[monte-alban]] · [[teotihuacan]] ·
+[[maya-civilization]] · [[purepecha]] · [[aztec-empire]] · [[triple-alliance-formation-1428]] ·
+[[fall-of-tula-1150]] · [[olmec-mother-vs-sister-culture]] · [[teotihuacan-political-organization]] ·
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] ·
+[[benjamin-cwh-v4-2015|CWH IV]] · [[kedar-cwh-v5-2015|CWH V]]

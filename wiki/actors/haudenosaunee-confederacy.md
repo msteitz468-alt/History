@@ -7,11 +7,11 @@ period: [High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion]
 region: [eastern-north-america, north-america]
 affiliated_with: ["the Seneca, Cayuga, Onondaga, Oneida, Mohawk (and from c. 1720 the Tuscarora)", "the matrilineal clan system"]
 opposed_by: ["rival Iroquoian and Algonquian nations", "French, British, and later U.S. expansion"]
-key_events: ["the founding under Deganawidah & Hiawatha (the Great Law of Peace)", "Franklin's negotiations with the League (1753)"]
-key_processes: ["[[pre-columbian-americas]]", "[[north-american-mound-building|eastern-woodland societies]]"]
-sources_ingested: 1
-last_updated: 2026-06-12
-tags: [actor, organization, eastern-north-america, high-middle-ages]
+key_events: ["the founding under Deganawidah & Hiawatha (the Great Law of Peace)", "[[beaver-wars-17th-century]]", "Covenant Chain 1677", "Grand Settlement 1701", "[[seven-years-war-1756]]", "Fort Stanwix 1768", "Sullivan-Clinton 1779"]
+key_processes: ["[[pre-columbian-americas]]", "[[north-american-mound-building|eastern-woodland societies]]", "[[eastern-woodlands-colonial-encounter-1600-1783]]", "[[eastern-north-american-fur-trade]]"]
+sources_ingested: 2
+last_updated: 2026-07-08
+tags: [actor, organization, eastern-north-america, high-middle-ages, early-modern]
 ---
 
 # The Haudenosaunee Confederacy (Iroquois League)
@@ -80,7 +80,38 @@ is cherished... people are children of the Haudenosaunee and their neighbors." T
 it reframes Native America as a **full participant** shaping the colonial and modern world, not merely its
 victim.
 
+## Colonial era (Salisbury, CHNPA I.1 ch. 7)
+
+**Naming:** Salisbury (and most colonial sources) use “Iroquois,” “Five Nations,” and after 1722 “Six Nations.” This wiki’s canonical slug is [[haudenosaunee-confederacy]] (anti-duplicate rule).
+
+### Power concentration and Beaver Wars
+
+Through the 1610s–1660s political power in the East concentrated in European colonies **plus** the Five Nations, each dependent on ties with other Native groups. [[mohawk]] Dutch access (after defeating Mahicans by 1630) funneled guns and wampum; [[beaver-wars-17th-century]] destroyed the [[huron-wendat]] as a political entity (1648–49) and dispersed Petuns, Neutrals, Eries. Captive adoption replaced disease and raid dead—structural mourning-war demography. Mid-1660s setbacks (Susquehannock 1663 repulse; Mahican 1664; French Mohawk raids 1666) forced peace with France 1665–67; Christian factionalism and Kahnawake migrations followed.
+
+### Covenant Chain and Grand Settlement
+
+After [[king-philips-war-1675]], Governor Andros’s 1677 Albany treaties forged the **Covenant Chain**—a “silver” chain vs older “iron”—making Iroquois intercolonial brokers (including Susquehannock refugee settlement and tributary claims over Chesapeake groups). Renewed western war 1680s–90s met French-allied defeats (losses ~1689–98: 500 of 2,000 fighting men; 1,600 of ~8,600 population). **Grand Settlement 1701:** neutrality in future Anglo-French wars for French hunting/trade access to Detroit; English Albany privileges retained; Covenant Chain redefined to exclude Iroquois military activity for English.
+
+### Eighteenth century: Six Nations, neutrality, southern mourning wars
+
+[[tuscarora]] incorporation as sixth nation (1722) after Tuscarora War. Reaffirmation of dual friendship with British and French (1717) along Grand Settlement lines; traditionalist revival; military activity directed south vs [[catawba]] and Cherokee (~seventy years intermittent Iroquois–Catawba warfare after ~1707 Shawnee enlistment of Iroquois). 1722 Albany treaties with VA/PA assumed Iroquois hegemony over unrepresented [[tuscarora]], [[lenape-delaware]], [[shawnee]], Conestoga—revived Covenant Chain as joint Anglo-Iroquois instrument. Walking Purchase (forged deed + myth of prior Iroquois Delaware conquest) removed Delawares with Six Nations cooperation. Ohio Mingos grew independent of the Confederacy 1730s–40s.
+
+### Seven Years’ War, Stanwix, Revolution
+
+Most Iroquois resisted British enlistment early in [[seven-years-war-1756]]; few Mohawks under William Johnson. Easton 1758: Ohio Indians accepted Iroquois suzerainty as anti-French instrument. **Fort Stanwix 1768:** Johnson persuaded Iroquois to cede vast Shawnee, Delaware, and Cherokee Ohio hunting lands the Six Nations had never occupied or controlled. Revolution split the Confederacy: [[oneida]] (and many Tuscarora) leaned Patriot under Samuel Kirkland; most [[mohawk]] followed Joseph Brant (Thayendanegea) for Britain; Onondaga, Cayuga, Seneca mostly royal. Sullivan–Clinton 1779 destroyed forty additional Six Nations villages; >5,000 fled to Canada; at war’s end only ~2 of ~30 towns intact (Green/Salisbury). Haldimand Canadian reserves (Bay of Quinte; Grand River).
+
+### Post-1783 (Green, CHNPA ch. 8)
+
+Fort Stanwix 1784 and related right-of-conquest treaties treated Six Nations as defeated British allies; U.S. policy claimed title without Native consultation at Paris 1783. Confederacy endured as political identity despite territorial catastrophe.
+
+## Historiography (colonial)
+
+Richter *Ordeal of the Longhouse*; Jennings Covenant Chain volumes; Graymont/Wallace on Revolution; Trigger comparative Iroquoian work; Salisbury ch. 7 synthesis. Wampum’s role in Deganawida–Hiawatha condolence and as commercialized trade good is both emic and etic load-bearing. “Iroquois empire” theses vs limited-hegemony/Covenant Chain interpretations remain live debates.
+
 ## Related
 
 [[pre-columbian-americas]] · [[holmbergs-mistake]] · [[north-american-mound-building]] ·
-[[pristine-myth]] · [[virgin-soil-epidemics]] · [[mann-1491-2005]]
+[[pristine-myth]] · [[virgin-soil-epidemics]] · [[mann-1491-2005]] ·
+[[eastern-woodlands-colonial-encounter-1600-1783]] · [[eastern-north-american-fur-trade]] ·
+[[beaver-wars-17th-century]] · [[mohawk]] · [[oneida]] · [[tuscarora]] · [[huron-wendat]] ·
+[[sources/cambridge-history-native-peoples-americas-v1-1]]

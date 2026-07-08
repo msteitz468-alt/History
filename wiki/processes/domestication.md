@@ -8,8 +8,8 @@ region: [global]
 process_type: [economic, environmental, technological]
 driven_by: ["human selection (conscious and unconscious)", "[[agricultural-origins]]", "coevolution of humans, plants, and animals"]
 produces: ["domesticated crop and livestock packages", "[[secondary-products-revolution]]", "anthropogenic landscapes", "human dietary and disease change"]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, neolithic, global]
 ---
 
@@ -84,3 +84,16 @@ Ongoing. Domestication did not stop in the Neolithic — new species, breeds, an
 cultivars continue to be created — but the foundational crop and livestock
 packages on which world agriculture still depends were largely established in
 the periods this volume covers.
+
+## Mesoamerican animal domestication late; plant focus (CHNPA II.1)
+
+Zeitlin & Zeitlin (CHNPA Vol. II Part 1, Ch. 2) stress that turkey, muscovy duck,
+honeybee, and dog are not represented in significant numbers archaeologically
+before full-time farming villages. Dog — the earliest New World animal domesticate —
+appears only in small numbers in Late Archaic Tehuacan fauna; later abundance
+suggests dogs were kept primarily as **food** after agricultural dependence, not as
+hunter-gatherer companions. Early Mesoamerican domestication history thus focuses on
+**plant production** by Archaic cultivators (see [[maize-domestication]],
+[[early-agriculture-americas]], [[paleoindian-and-archaic-mesoamerica]]). This
+reinforces the page-level contrast with Old World herd-animal packages and the limited
+[[secondary-products-revolution]] in the Americas outside Andean camelids.

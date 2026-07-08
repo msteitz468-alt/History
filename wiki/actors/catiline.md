@@ -9,8 +9,8 @@ affiliated_with: [the patrician nobility; the Sullan executioners (earlier); the
 opposed_by: [[[cicero]], the Senate, Cato]
 key_events: [the [[catilinarian-conspiracy-63bce|conspiracy]] of 63, the battle of Pistoria (62)]
 key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy]
 ---
 
@@ -41,6 +41,19 @@ of **bankrupt noble ambition** and genuine **agrarian/debt distress** that the
 Republic's politics could not relieve. The hostile tradition (Sallust, Cicero) made
 him the type of the aristocratic demagogue-turned-traitor, obscuring how far the
 Etrurian rising sprang from real peasant desperation.
+
+## Beard (SPQR, 2015)
+
+Beard argues for reading Cicero's account of Catiline "against the grain": his
+support likely included not just ruined aristocrats but genuinely distressed
+ordinary poor, a reading she backs with numismatic evidence (a sharp fall in coin
+minting in the late 60s BCE, inferred from die-count analysis) pointing to a real
+credit crunch in Rome that year, alongside Cicero's own success in blocking a
+land-redistribution bill for the poor. She also notes, via Sallust, that Catiline
+had genuine physical and personal qualities — bravery in battle and extraordinary
+endurance of hunger, cold, and sleep deprivation — alongside his notoriety, and that
+he died fighting at the front of his army when Roman legions crushed his forces in
+North Italy. See [[sources/beard-spqr-2015]].
 
 ## Related
 

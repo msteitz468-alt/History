@@ -37,6 +37,12 @@ Suharto (1921–2008) was a general in the Indonesian army who came to power fol
 
 Suharto's New Order delivered sustained economic growth — Indonesia became a middle-income country during his tenure — but at the cost of systematic suppression of political competition, elimination of the PKI (a mass party of several million members), and entrenchment of military patronage networks that proved difficult to dismantle after his resignation in 1998. The 1965–66 massacres, in which an estimated half-million to one million people were killed, remain among the largest mass killings of the twentieth century and are still not fully accounted for in Indonesian public life.
 
+## Addendum: The October 1965 Countercoup and the Killings (per McCoy)
+
+Alfred W. McCoy's *[[mccoy-cold-war-five-continents-2024|Cold War on Five Continents]]* (2024) adds detail on Suharto's countercoup and the mass killings that followed. On the night of 30 September–1 October 1965, forces under Lt. Col. Untung Syamsuri kidnapped and killed six army generals and General Nasution's five-year-old daughter, dumping the bodies in a well at Lubang Buaya. Suharto, commanding the Army Strategic Reserve and likely possessing advance warning, organized a successful countercoup by nightfall on 1 October, broadcasting a declaration that the movement "must be destroyed down to its roots." By March 1966 he had been granted sweeping "Supersemar" authority, becoming president in 1967 and ruling for the next thirty-two years.
+
+McCoy documents that the killings of alleged PKI members and sympathizers (see [[indonesian-mass-killings-1965]]) were assisted by covert US and British involvement: the US embassy in Jakarta supplied lists of PKI leadership names to the Indonesian military (Ambassador Marshall Green cabled Washington on 20 October 1965 praising the army's "determination and organization"), while British Foreign Office official Norman Reddaway ran a black-propaganda campaign amplifying fabricated atrocity claims against the PKI-linked women's group Gerwani. Death toll estimates cited by McCoy range from roughly 500,000 to 1 million.
+
 ## See Also
 
 - [[sukarno]]
@@ -45,3 +51,5 @@ Suharto's New Order delivered sustained economic growth — Indonesia became a m
 - [[pancasila]]
 - new order indonesia
 - [[tarling-cambridge-history-southeast-asia-v2-1992]]
+- [[indonesian-mass-killings-1965]]
+- [[mccoy-cold-war-five-continents-2024]]

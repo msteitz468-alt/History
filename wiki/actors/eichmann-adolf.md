@@ -4,16 +4,15 @@ actor_type: person
 date_start: 1906
 date_end: 1962
 period: [World Wars Era, Cold War]
-region: [central-europe, eastern-europe]
-affiliated_with: [[[schutzstaffel-ss]], [[heydrich-reinhard|Reinhard Heydrich]]'s RSHA (Section IV B4), [[nazi-germany]]]
+region: ["central-europe", "eastern-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [actor, person, "world-wars-era", "central-europe"]
+affiliated_with: ["[[schutzstaffel-ss]]", "[[heydrich-reinhard|Reinhard Heydrich]]'s RSHA (Section IV B4)", "[[nazi-germany]]"]
+key_events: ["[[wannsee-conference-1942]]", "[[the-holocaust]]"]
+key_processes: ""
 opposed_by: [the Allied powers, Israel (trial 1961)]
-key_events: [[[wannsee-conference-1942]], [[the-holocaust]]]
-key_processes: []
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [actor, person, world-wars-era, central-europe]
 ---
-
 # Adolf Eichmann (1906–1962)
 
 SS-Obersturmbannführer and head of RSHA Section IV B4, the "Jewish desk" that organized the deportation of Jews from across Europe to the ghettos and extermination camps. Eichmann made his name managing forced emigration from Vienna in 1938, recorded the protocol of the [[wannsee-conference-1942|Wannsee Conference]], and personally directed the deportation of Hungarian Jewry to [[auschwitz|Auschwitz]] in 1944. Captured by Israeli agents in Argentina in 1960, tried in Jerusalem in 1961, and executed in 1962 — the trial that prompted Hannah Arendt's contested "banality of evil" thesis. Documented for the wiki from [[evans-third-reich-at-war-2008|Evans, *The Third Reich at War* (2008)]].
@@ -29,3 +28,7 @@ Evans's Eichmann is no Arendtian cipher of banality: like Stangl and Höss he wa
 ## The European deportation network — Evans (2008), Part 4
 
 Eichmann's RSHA meeting of 11 June 1942 set the Western European quotas (France 40,000, Netherlands 40,000, Belgium 10,000); he sent Alois Brunner to Drancy (summer 1943) and Salonika to accelerate lagging deportations, and turned Slovakia's own offer of Jewish "workers" into the labor force that built Auschwitz-Birkenau, assuring Bratislava that "none of the deportees would ever return" (the Slovak government paid Germany 500 RM per deportee). Source: [[evans-third-reich-at-war-2008]]
+
+## Shirer (1960) — written as Eichmann was caught
+
+Shirer identifies him as "Karl Eichmann" (an early-literature error for Adolf), "chief of the Jewish Office of the Gestapo, who carried out the 'final solution' under the prodding hand of its originator, Heydrich"; sources the 5–6 million estimate to two SS witnesses citing him; and quotes the henchman's report that Eichmann said just before the collapse "he would leap laughing into the grave because the feeling that he had five million people on his conscience would be for him a source of extraordinary satisfaction." A footnote added in press: "the government of Israel announced that it had apprehended Eichmann" (May 1960) — the book thus brackets the moment his name became a household word. Source: [[shirer-rise-fall-third-reich-1960]]

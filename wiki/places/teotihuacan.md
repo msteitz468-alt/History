@@ -3,12 +3,12 @@ title: Teotihuacan
 place_type: city
 modern_equivalent: Basin of Mexico, ~40 km NE of Mexico City
 coordinates: ~19.69°N, 98.84°W
-period_active: [Late Antiquity, Early Middle Ages]
-controlled_by: [Teotihuacan state]
-events_here: [grid replanning/"urban renewal" c. 200–275 CE, peak dominance of the Basin of Mexico c. 250–550 CE, sacking and abandonment of the core c. 650 CE]
-processes_here: [[[urbanization]], [[ruralization]], [[mesoamerican-state-formation]], [[trade-network-formation]]]
-sources_ingested: 2
-last_updated: 2026-06-10
+period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
+controlled_by: ["[[teotihuacan|Teotihuacan]] state", "post-collapse Coyotlatelco/Mazapan occupations"]
+events_here: ["grid and Avenue of the Dead layout by ~A.D. 150", "Ciudadela and FSP construction c. 150–300 CE", "apartment-compound urban renewal c. 200–300 CE", "peak Basin dominance c. 250–550/650 CE", "burning of civic core c. 550–750 CE (often ~650)", "Coyotlatelco reoccupation"]
+processes_here: ["[[urbanization]]", "[[ruralization]]", "[[mesoamerican-state-formation]]", "[[teotihuacan-formation]]", "[[teotihuacan-trade-network]]", "[[teotihuacan-apartment-compound-system]]"]
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [place, mesoamerica, late-antiquity]
 ---
 
@@ -85,7 +85,7 @@ edges of the system, cheaper green-obsidian sources opened in the Maya region an
 **shattering the Pachuca monopoly** and the trade system built on it. Around **650 CE** the
 **lower elites**, hit hardest by the contraction, rose and selectively **burned the temples and
 palaces** of the Street of the Dead; the core was abandoned. Teotihuacan's fall reverberated
-across Mesoamerica, contributing to the [[classic-maya|Classic Maya]] collapse, and its later
+across Mesoamerica, contributing to the [[maya-civilization|Classic Maya]] collapse, and its later
 echo is the **Toltec** state at Tula. (CWH IV records the Pyramid of the Sun's fill at ~1.76
 million m³ — one of the largest preindustrial structures in the Americas.) This complements
 CWH III's portrait of the city's internal planning and anonymous rulership.
@@ -137,10 +137,50 @@ the Basin's urban tradition to Teotihuacan: "Cuicuilco's urban experiences were 
 as models for Teotihuacan's creators" (Cowgill 2015, Ch. 3). See
 [[teotihuacan-formation]] and [[teotihuacan-ceramic-phases]] for full detail.
 
+## Urban form by ~A.D. 150 and the Miccaotli–Tlamimilolpa build-out (Cowgill CHNPA 2000)
+
+By the end of the Patlachique–Tzacualli span (~150 B.C.–A.D. 150), Cowgill summarizes a
+city already of metropolitan scale: roughly **20 km²**, population on the order of
+**60,000–80,000** (area/sherd density; uncertain), the **Sun Pyramid** near final volume
+(~1 million m³) over a natural cave altered by Teotihuacanos (sacred origin myths as
+immediate siting reason, Millon 1981), about **twenty other pyramid groups** (mostly
+three-temple complexes), the northern ≥1.5 km of the **Avenue of the Dead** laid out and
+widening into the Moon Plaza, and the **Moon Pyramid** at roughly one-quarter the Sun’s
+volume. Monumental structures and the Avenue already followed **15.5° east of true north**.
+Talud-tablero was not yet present at Teotihuacan (already known in Puebla). Residences were
+likely adobe/perishable; **concrete-surfaced apartment compounds** appear by ~A.D. 200 and
+become typical by ~A.D. 300.
+
+A.D. 150–300 adds the uppermost Sun Pyramid and fore-platform and, above all, the
+**[[ciudadela-teotihuacan|Ciudadela]]** — platforms ~400 m long enclosing the
+[[feathered-serpent-pyramid|Feathered Serpent Pyramid]] (~65×65 m, originally ~20 m high).
+Stone skulls in the Sun Plaza and feline sculptures on the Sun fore-platform show that
+meanings attached to the Sun Pyramid included “sharply negative” as well as positive
+aspects, complicating images of a society wholly focused on peace and fertility (Umberger;
+Cowgill 2000).
+
+## Heyday, foreign enclaves, and post-destruction landscape
+
+In the Middle Horizon heyday (~A.D. 300–650/750), population was on the order of **100,000
+or more** (possibly twice that), with massive apartment-compound building and renovations of
+existing monuments but nothing comparable to the A.D. ~50–250 construction peak. Two sharply
+defined foreign residential concentrations are known: a long-lasting **Oaxaca-ties enclave**
+near the western outskirts and the so-called **Merchants’ enclave** with Gulf and lesser
+Maya lowland pottery. The city remained **primate** in the Basin; small/medium settlements
+were scarce relative to earlier and later times — inefficient for subsistence and implying
+coercion or compensating rewards for farmers living far from southern good land.
+
+After violent temple destruction (see [[teotihuacan-collapse-550ce]]), talud-tablero temples
+and apartment-compound residences disappear as residential norms; ceramics reconfigure under
+Xometla/Coyotlatelco (~12 km², ~40,000) with the greatest spatial shift since Patlachique,
+suggesting ethnically different in-migration (possibly Nahua speakers). Mazapan-phase
+Teotihuacan remained large (Cowgill: average population unlikely much below ~30,000).
+
 ## Related
 
-- Places: [[tikal|Tikal]] (contrast: king cult) · [[classic-maya|Classic Maya]] · [[tiwanaku|Tiwanaku]] · [[tenochtitlan|Tenochtitlan]] · [[uruk|Uruk]]
-- Process: [[urbanization]] · [[ruralization]] · [[mesoamerican-state-formation]] · [[trade-network-formation]] · [[teotihuacan-formation]]
-- Concept: [[urbanism]] · [[heterarchy]] · [[mesoamerican-calendar]] · [[teotihuacan-ceramic-phases]] · Controversy: [[hierarchy-vs-heterarchy-early-cities]]
+- Places: [[tikal|Tikal]] (contrast: king cult) · [[maya-civilization|Classic Maya]] · [[tiwanaku|Tiwanaku]] · [[tenochtitlan|Tenochtitlan]] · [[uruk|Uruk]] · [[xochicalco]] · [[cacaxtla]] · [[cholula]] · [[tula-hidalgo]]
+- Process: [[urbanization]] · [[ruralization]] · [[mesoamerican-state-formation]] · [[teotihuacan-formation]] · [[teotihuacan-trade-network]] · [[teotihuacan-apartment-compound-system]]
+- Concept: [[urbanism]] · [[heterarchy]] · [[mesoamerican-calendar]] · [[teotihuacan-ceramic-phases]] · Controversy: [[hierarchy-vs-heterarchy-early-cities]] · [[teotihuacan-political-organization]]
 - Comparison: [[early-cities-in-comparative-perspective]] (heterarchy, landscape, and power distribution)
 - Places (context): [[cuicuilco]] · [[basin-of-mexico]]
+- Source: [[cowgill-ancient-teotihuacan-2015]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6]]

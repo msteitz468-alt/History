@@ -9,8 +9,8 @@ affiliated_with: [the Caesarian cause; the Second Triumvirate; the Principate he
 opposed_by: [the Liberators; Mark Antony; Sextus Pompeius; Lepidus]
 key_events: [the [[second-triumvirate|triumvirate]] (43), [[battle-of-philippi-42bce|Philippi]] (42), the Perusine War (41–40), the defeat of Sextus (36), [[battle-of-actium-31bce|Actium]] (31), [[death-of-antony-and-cleopatra-30bce|Alexandria]] (30), the settlements of 27 and 23 BCE]
 key_processes: [the foundation of the Principate]
-sources_ingested: 4
-last_updated: 2026-06-11
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
@@ -85,6 +85,39 @@ war" (the military odds favoured Antony) "but it did much to win the ensuing pea
 His deeper achievement was to construct, **not from a blueprint but piecemeal**, a
 **[[principate|veiled monarchy]]** stable enough to survive successors "less skilful
 and less ruthless" — founding the imperial order of European history.
+
+## Beard (SPQR, 2015)
+
+Mary Beard frames Augustus' rise as history's most consequential personal
+transformation in Roman history: from a **"brutal warlord and insurgent"**
+implicated in the proscription violence to the model **"responsible elder
+statesman,"** a puzzle Beard says "historians have puzzled and disagreed [over]
+ever since." She argues Augustus deliberately disguised one-man rule inside
+traditional republican forms — nearly all his formal powers were voted by the
+Senate in conventional format, old magistracies continued to be filled, and his
+preferred title **princeps** ("first citizen") and watchword **civilitas**
+("we're all citizens together") underscored the camouflage. For Beard he is a
+**"puzzling and contradictory revolutionary"**: radical in controlling elections
+and the army, micromanaging citizens' private lives, and weaponizing literary
+patronage (Virgil, Horace), yet conservative in that he "appears to have abolished
+nothing," so that the regime "was no revolution in the strict sense of the word."
+She reads the empire-wide flood of standardized, idealized, ageless portrait
+statuary (some 250 known examples) as a deliberate political technology — an
+official image that was "at best... a mask of power," bearing little resemblance
+to the aging, unglamorous man of the one surviving physical description — and
+treats his own *Res Gestae* as "a self-serving, partisan and often rose-tinted
+piece of work" that carefully glosses over the murderous illegalities of his
+early career. On the later reign, Beard notes the **Varus disaster** in Germany
+(9 CE), which destroyed three legions and reportedly ended plans for further
+conquest; Augustus' professionalization of the army with fixed pay and terms of
+service, a military treasury (*aerarium militare*) funding veterans' pensions, and
+the new **Praetorian Guard**, ending soldiers' dependence on individual generals;
+the acute **succession problem** — no surviving son, and a string of dead heirs
+(Marcellus, Agrippa, Gaius and Lucius) leaving Livia's son **Tiberius**; and
+**Livia's** unusually prominent public role (an official image, *sacrosanctitas*).
+Augustus died on 19 August 14 CE, aged 75, was deified, and the governing
+framework he built "lasted for more than 200 years" — in Beard's phrase, every
+later emperor "was or impersonated Augustus." See [[sources/beard-spqr-2015]].
 
 ## Historiography
 

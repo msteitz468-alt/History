@@ -5,8 +5,8 @@ period_involved: [Late Middle Ages, Early Modern]
 regions_involved: [caribbean, mesoamerica, andes, north-america, amazonia]
 positions: [low counts (Verlinden, Kroeber; hundreds of thousands to ~8 million hemispheric), high counts (Borah & S.F. Cook, Dobyns; tens of millions to 100+ million), measured middle (Livi Bacci, Moya Pons; intermediate ranges)]
 resolution_status: open
-last_updated: 2026-06-12
-tags: [controversy]
+last_updated: 2026-07-08
+tags: [controversy, pre-columbian, americas, demography]
 ---
 
 # The Population of the Pre-Columbian Americas
@@ -92,8 +92,54 @@ population fell catastrophically after contact — by up to ~90 percent in the
 worst-hit regions over the sixteenth century — and that both pathogens and
 colonial violence were responsible. Method, not new documents, remains the crux.
 
+## MacLeod (CHNPA II.2) — Mesoamerican consensus note
+
+Murdo J. MacLeod ([[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] Ch. 12)
+summarizes the field as of 2000 for Mesoamerica specifically: using upstreaming from early
+tribute counts, epidemiology/immunology, and related methods, **most scholars now agree** that
+preinvasion American populations — and specifically those of Mesoamerica — were **very large**.
+Exact size remains an unresolvable side quarrel over methodology. Conquest warfare and “culture
+shock” seem insufficient given period technologies and the slowness of Spanish cultural conquest
+in much of Mesoamerica. With many caveats, **pandemics** from Eurasian and African diseases
+introduced to populations without acquired immunities are the main explanation (analogous to
+Hawaii and Australia). Pre-Spanish disease history is unclear (Gulf Coast fever research;
+possible earlier Malthusian crises and nutritional failures despite advanced irrigation and
+fallowing). Collapse magnitudes he cites: virtual disappearance on major Caribbean islands and
+many humid tropical Mesoamerican coasts; highland/plateau losses of **~90 percent or more**
+([[virgin-soil-epidemics]], [[colonial-mesoamerica-native-peoples]], [[black-legend]]).
+
+## North America north of Mexico — Trigger & Swagerty (CHNPA I.1 ch. 6)
+
+Trigger and Swagerty stress that the number of Indians living around **A.D. 1500** in North America is subject to **“grand speculation.”** Scholars have abandoned the early low estimates of James Mooney and Alfred Kroeber and build on Borah/Cook Central Mexico methods. They inventory (without picking a winner) the following published ranges:
+
+| Estimator | Scope | Figure (as cited in CHNPA I.1) |
+|---|---|---|
+| Mooney | North of Rio Grande | **1,152,950** |
+| Kroeber | North of Rio Grande | **900,000** |
+| Dobyns | North of Rio Grande (incl. Caribbean in his framing as cited) | **10–18 million** |
+| Ubelaker | Excl. Caribbean | **1.89–2.17 million** |
+| Smithsonian *Handbook* | ~1500 | **1.21–2.64 million** |
+| Thornton | North of Mexico | **seven million or more** |
+| Borah/Cook | Americas total | **100 million** (> Europe excl. Russia ~70 million) |
+| Dobyns | Americas total | **90–200 million** |
+
+Controversies also concern pre-1492 presence of malaria, yellow fever, pulmonary TB, and venereal syphilis. Trigger & Swagerty’s biological chapter concludes that if the Lower Great Lakes and Middle Missouri were largely spared major sixteenth-century epidemics (Snow; Warrick), precontact densities were lower than Dobyns’s highs and his overall estimates need reduction — without asserting a single replacement total. See also [[pre-columbian-population-debate]] and [[virgin-soil-epidemics]].
+
+## Salisbury epilogue figures (CHNPA I.1 ch. 7) — 1500→1800 decline band
+
+Neal Salisbury’s colonial eastern-woodlands chapter records two recent estimates of Indian population change **1500→1800** that “vary markedly,” both showing drastic decline without adjudicating between them:
+
+- **Russell Thornton:** just over **five million → 600,000** in the present lower-48 United States
+- **Douglas H. Ubelaker:** more conservative **1,894,350 → 1,051,688** for all of North America
+
+Same period: non-Indian population virtually zero → **>5 million** within the new United States alone. Initial catastrophic mortality from virgin-soil epidemics (smallpox etc.); later warfare, alcohol, dietary change/malnutrition from trade or land loss, fertility declines, enslavement, and emigration further reduced numbers. Persistence of Indian community life and cultural identity remains the counterpart to the demographic toll.
+
 ## Related
 
 [[columbian-exchange-1492]] · [[aztec-empire]] · [[inca-empire]] ·
 [[early-modern-migrations]] · [[societal-collapse-and-environmental-determinism]]
-(the adjacent debate over environmental/biological determinism in history).
+(the adjacent debate over environmental/biological determinism in history) ·
+[[colonial-mesoamerica-native-peoples]] · [[virgin-soil-epidemics]] ·
+[[pre-columbian-population-debate]] · [[sixteenth-century-north-american-contact]] ·
+[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] ·
+[[cambridge-history-native-peoples-americas-v1-1|CHNPA I.1]]

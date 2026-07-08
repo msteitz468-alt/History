@@ -1,13 +1,13 @@
 ---
 title: Appeasement
 concept_type: political
-sources_ingested: [1]
-last_updated: "2026-07-02"
+sources_ingested: [2]
+last_updated: "2026-07-03"
 tags: [concept]
 applies_to_periods: ["world-wars-era"]
 applies_to_regions: ["western-europe", "british-isles"]
 contested: yes
-origin: "Not coined in the 1930s (the word was a pre-existing, uncontroversial verb meaning \"\"to lessen friction and conflict\"\"); associated above all with British Prime Minister Neville Chamberlain's foreign policy toward Nazi Germany, 1937–1939. Became a pejorative only after its failure was evident."
+origin: "Not coined in the 1930s (the word was a pre-existing, uncontroversial verb meaning \\\"\\\"to lessen friction and conflict\\\"\\\"); associated above all with British Prime Minister Neville Chamberlain's foreign policy toward Nazi Germany, 1937–1939. Became a pejorative only after its failure was evident."
 ---
 ## Definition
 
@@ -85,8 +85,21 @@ Genuinely contested among historians, not merely in retrospect:
   broader legitimacy of negotiation-as-policy (versus the specific 1938 decisions) remains
   a live historiographical question, not simply resolved by hindsight.
 
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+[SHIRER-THESIS] Shirer's central interpretive thesis on appeasement, stated explicitly: Chamberlain's stubborn insistence on giving Hitler what he wanted "rescued Hitler from his limb and strengthened his position in Europe, in Germany, in the Army, beyond anything that could have been imagined a few weeks before" — appeasement, on this reading, did not merely fail to prevent war but actively empowered Hitler at a moment when (per the German generals' own postwar Nuremberg testimony) Germany was militarily overextended and vulnerable to being called on a bluff. This sharpens the wiki's existing "lost opportunity school" material (above) with direct documentary support from Keitel, Manstein, and Jodl's testimony — see [[munich-agreement-1938]] for the full quotations.
+
+Shirer frames the Runciman mission (sent to Czechoslovakia 3 August 1938 "ostensibly" as mediator) as a diplomatic fiction paving the way for ceding the Sudetenland; [EYEWITNESS] his own diary from Prague records: "Runciman's whole mission smells." Runciman's eventual report went further than Hitler's own demands, recommending transfer without plebiscite and urging Czechoslovakia to suppress domestic criticism of Germany "by parties or persons" (Shirer 1960).
+
+Shirer also documents Baron von Weizsäcker's secret memorandum of 10 November 1937: "From England we want colonies and freedom of action in the East... The British need for tranquillity is great. It would be profitable to find out what England would be willing to pay for such tranquillity" — an internal German assessment that the British were prepared to pay materially for peace, made before the Anschluss and Munich crises tested the proposition (Shirer 1960).
+
+Shirer draws an explicit, hedged moral-symmetry argument regarding the [[molotov-ribbentrop-pact-1939|Nazi-Soviet Pact]]: if Chamberlain was "right and honorable" appeasing Hitler at Munich 1938 by sacrificing Czechoslovakia, the question of whether Stalin was "wrong and dishonorable" in making a similar deal at Poland's expense a year later deserves serious treatment — though Shirer ultimately judges Stalin's move "the greatest blunder of his life" while acknowledging Churchill's view that it was "at the moment realistic in a high degree." This comparative framing is offered as a genuine historiographical question, not resolved in wiki voice.
+
+[[shirer-rise-fall-third-reich-1960]]
+
 ## Sources
 
 - Paxton, Robert O. and Julie Hessler. *Europe in the Twentieth Century*, 5th ed.
   (Boston: Wadsworth/Cengage, 2011), ch. 12, "The Paris Peace Settlement Dismantled:
   Aggression and Appeasement, 1933–1939." See [[paxton-europe-twentieth-century-2011]].
+- Shirer, William L. *The Rise and Fall of the Third Reich* (1960). See [[shirer-rise-fall-third-reich-1960]].

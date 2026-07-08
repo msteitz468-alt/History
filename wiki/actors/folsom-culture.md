@@ -10,8 +10,8 @@ affiliated_with: ["[[clovis-culture]]", "[[colonization-americas-14500bp]]"]
 opposed_by: []
 key_events: ["[[megafaunal-extinction-americas-12000bp]]"]
 key_processes: ["[[north-american-agricultural-transition]]"]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, other, Behavioral-Modernity, Mesolithic, north-america]
 ---
 
@@ -71,3 +71,11 @@ Folsom points are among the most valued specimens in the antiquities market, and
 - [[beringia]]
 
 *Source: [[snow-gonlin-siegel-archaeology-native-north-america-2020]], Ch. 3.*
+
+## CHNPA I.1 — Dean R. Snow (ch. 3)
+
+Snow frames Folsom as “a later, derivative fluted-point style, with a more limited distribution on the Great Plains,” and notes that many archaeologists regard Folsom points as the zenith of the flintknapper’s art. Big-game hunting **persisted longer on the Great Plains** than elsewhere: Clovis replaced on the Plains by finer Folsom fluted points **after 9000 B.C.**; fluted points then phased out for unfluted lanceolate **Piano** types after 8000 B.C. — “more an evolution in specific styles than a radical change in adaptation.” By **5000 B.C.** the region was mostly treeless except along ravines, and bands developed **Plains Archaic** strategies under rising heat/aridity (Anathermal–Altithermal–Medithermal sequence nested on [[paleoindian-and-archaic-north-america]]).
+
+`preceded_by: [[clovis-culture]]` · `part_of: [[paleoindian-and-archaic-north-america]]`
+
+*Source: [[sources/cambridge-history-native-peoples-americas-v1-1]], ch. 3 (Snow).*

@@ -123,3 +123,4 @@ Western scholarship on the crusades is surveyed in detail in [[concepts/crusade-
 - [[just-war]], [[gregorian-reform]], [[peace-of-god]] — its ideological roots.
 - [[reconquista]], [[saladin]], [[byzantine-empire]] — its frontiers and antagonists.
 - [[cilician-armenian-kingdom]] — the Armenian state that enabled the early crusades ([[armenian-latin-integration|integration with the Latins]]).
+- [[baltic-crusades]] — the parallel crusade movement redirected against the pagan Baltic; [[medieval-frontier]] — the frontier concept these campaigns illuminate.

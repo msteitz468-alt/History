@@ -5,8 +5,8 @@ origin: Castilian Reconquest precedent, transplanted to the Caribbean (1490s–1
 applies_to_periods: [Early Modern, Age of Expansion]
 applies_to_regions: [caribbean, mesoamerica, andes, atlantic-world]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-14
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -97,14 +97,41 @@ estate descended from the encomienda or arose separately from land grants and th
 market — is a classic debate (resolved largely in favor of separate origins). The
 whole subject is freighted by the [[black-legend|Black Legend]].
 
+## Mesoamerica in MacLeod (CHNPA II.2)
+
+Murdo J. MacLeod’s overview ([[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]]
+Ch. 12) embeds the encomienda in two regional frames:
+
+1. **Central Mexico continuity.** The Nahuatl documentary school holds that preconquest
+   administrative units ([[altepetl]]), subdivisions (*calpulli* or *tlaxilacalli*), and
+   nobilities (*tlatoque* and *pipiltin*) persisted under new Spanish institutional labels
+   including *cabildo*, cabecera, sujeto, **encomienda**, and *gobernador*. In a tribute and
+   forced-labor economy with few Spaniards present, conquerors relied on native elite
+   administration, recruiting, and social control — so the encomienda often **re-skinned**
+   rather than instantly replaced indigenous political structure
+   ([[central-mexico-indigenous-colonial]], [[colonial-mesoamerica-native-peoples]]).
+
+2. **Northern mining frontier.** Mines and subsidiary haciendas imposed brutal conditions
+   using dislocation, **encomienda**, draft labor, and introduced southern labor (Tlaxcalans
+   and others), creating an unsatisfactory labor force; raiding/enslavement alternated with
+   uneasy truces; “pacified” areas frequently revolted
+   ([[northwest-mexico-indigenous-colonial-modern]]).
+
+Regional monographs (e.g. lowland Maya) stress that encomiendas could remain significant
+**into the late 1700s** in Yucatán despite laws outlawing them elsewhere — consistent with
+this page’s periphery-survival thesis ([[lowland-maya-colonial-modern]]).
+
 ## Related
 
 - [[colonial-latin-america]] — the economy the encomienda underwrote.
+- [[colonial-mesoamerica-native-peoples]] — MacLeod overview of native Mesoamerica under colonial institutions.
 - [[mita-and-andean-reciprocity]] — the Andean labor draft, pre-Hispanic and colonial.
 - [[potosi-and-colonial-silver]] — the silver mita's destination.
 - [[las-casas-bartolome]] — the New Laws' architect.
 - [[hacienda]] — the later great estate (Cycle 3).
+- [[congregacion]] — resettlement often paired with tribute control.
 - [[atlantic-slave-trade]] — the African labor that replaced Indians in the plantation zones.
+- [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]]
 
 ## The indigenous testimony (Guamán Poma)
 

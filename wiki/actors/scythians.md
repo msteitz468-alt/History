@@ -9,8 +9,8 @@ affiliated_with: [the steppe Iranian-speaking nomads, the Greek Black Sea coloni
 opposed_by: [the [[cimmerians|Cimmerians]], Urartu, [[neo-assyrian-empire|Assyria]], the Sarmatians (later), Darius I of Persia (later)]
 key_events: [the displacement of the Cimmerians, the raids into Western Asia, the contribution to the fall of the Cimmerians under Madyes, the trade with Olbia]
 key_processes: [steppe nomadism, the animal-style art tradition, [[trade-network-formation]]]
-sources_ingested: 3
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, movement, archaic-period, eurasian-steppe, steppe]
 ---
 
@@ -124,6 +124,14 @@ states were to show." The campaign nonetheless founded the European satrapy of
 the Haemus and the Danube — "Scythian by descent," the *Saka paradraya* of the Persian
 lists — were the first people Darius subdued, but escaped Persian rule again before 480.
 
+## The Assyrian-Era Scythians (Adalı, in Kim et al. 2017)
+
+Selim Ferruh Adalı (in [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]], Ch. 3) documents the Scythians' seventh-century BCE dealings with Assyria from cuneiform sources: the earliest named leader is "Išpakāya the Scythian," followed by **Bartatua**, "the king of Scythia" (identified with Herodotus's Protothyes), who requested an Assyrian princess in marriage from [[esarhaddon|Esarhaddon]]. Bartatua's son **Madyes** is credited by Herodotus with defeating Cyaxares of Media and inaugurating an alleged 28-year (or, per Justin/Orosius, 15-year) Scythian dominance of the Near East — a claim Adalı flags as unconfirmed by independent evidence. He also stresses that distinguishing Cimmerians from Scythians is chiefly an **archaeological problem**: while Assyrian texts sometimes differentiate the two polities without doubt (e.g. as separate threats to Ḫubuškia), "mentions of the Cimmerians in ancient texts sometimes actually refer to the Scythians." Adalı's broader definitional thesis treats both as "nomadic states" — polities with territorial boundaries, mixed pastoralist/urban elements, tribal/military authority structures, and a ruling dynasty — comparable in organization to the later Xiongnu and medieval Oğuz Turkic confederations, and credits the Scythians (with the Cimmerians) with a significant role in the rise of the Median Empire and, through it, the fall of [[neo-assyrian-empire|Assyria]].
+
+## The Indo-Scythians (Sakas) in Bactria and India
+
+A separate eastern Scythian/Saka trajectory is documented by Osmund Bopearachchi (in [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]], Ch. 10), reconstructed almost entirely from numismatic and inscriptional evidence rather than narrative texts. Around the mid-first century BCE a Scythian prince, **Maues**, occupied Taxila; an inscription from Buner records his succession by Vasa-Abdagases in terms suggesting "a peaceful transition of power," against the older assumption that Indo-Greek/Indo-Scythian/Indo-Parthian successions were uniformly violent. **Azes I** became king of Gandhāra and western Panjab around 48 BCE, giving his name to a regional dating era; **Rajuvula**, satrap of Mathura, conquered the last Greek stronghold at Sagala c. 10 CE, ending Greek rule in India. Because the Scythians did not mint coins before settling in the northwest frontier, their earlier expansion (with the Yuezhi) into Sogdiana is tracked mainly through kurgan finds at Pazyryk, Orlat, Khalchayan, and Tiliya Tepe. Scythian coinage introduced the **cataphractus** motif — a heavily armoured horseman — subsequently absorbed into Gandhāran Buddhist iconography. See [[kushan-empire]] and [[bactria]] for the successor Kushan synthesis.
+
 ## Causal Analysis
 
 caused_by: the westward pressure of the **Massagetae** and a drying steppe climate;
@@ -150,4 +158,5 @@ methodological debate. The Persian phase (Darius's expedition) is reserved for C
 - Source-critique: [[herodotus-reliability]] · Period: [[archaic-period]]
 - Eastern Saka & Achaemenid frontier: [[bactria]] · [[gandhara]] · [[achaemenid-empire]]
 - European campaign: [[darius-scythian-expedition-513bce]] · [[thrace]] (Skudra)
-- Sources: [[boardman-cah-v3p2-1991]] (Ch. 33a, western Scythians) · [[boardman-cah-v4-1988]] (Chs. 3c eastern Saka, 3f European expedition)
+- Sources: [[boardman-cah-v3p2-1991]] (Ch. 33a, western Scythians) · [[boardman-cah-v4-1988]] (Chs. 3c eastern Saka, 3f European expedition) · [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]] (Adalı Ch. 3; Bopearachchi Ch. 10)
+- Compare: [[pastoral-nomadism]] · [[alans]]

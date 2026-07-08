@@ -10,8 +10,8 @@ affiliated_with: []
 opposed_by: []
 key_events: []
 key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, north-america, period-Middle-Bronze-Age, period-Late-Bronze-Age]
 ---
 
@@ -58,3 +58,16 @@ The AST's legacy is the template for all subsequent Arctic cultural development.
 The Arctic Small Tool tradition was identified and named through comparative archaeology linking sites across the vast Arctic. The tradition's miniature tools were initially puzzling — the small size seemed impractical — until the compound tool technology was understood. The broad geographic extent of the tradition, combined with the sparse and challenging archaeological record of the Arctic (thin, acid soils in some areas; permafrost preservation in others), has made precise delineation of regional variants difficult. The relationship between the AST's various Alaskan descendants (Norton, Choris, Ipiutak, Kachemak) and the Canadian Pre-Dorset / Dorset sequence reflects genuine regional divergence rather than a simple linear succession.
 
 Source: [[snow-gonlin-siegel-archaeology-native-north-america-2020]]
+
+## CHNPA I.1 — Dean R. Snow (ch. 3)
+
+Snow’s Cambridge synthesis adds the deeper Paleo-Arctic context and the expansion statement used in continental peopling debates:
+
+- **Earliest indisputable Arctic humans**: stone-tool assemblages **9000–6000 B.C.**, the **Paleo-Arctic tradition** (cores, blades, microblades; modern fauna plus some horse/bison/elk); **Anangula** unifacial maritime.
+- “Arctic prehistory probably became an **Eskimo phenomenon after 2500 B.C.**”; Aleut–Eskimo separation at least that early.
+- **Arctic Small Tool tradition** developed in northern Alaska ~**2500 B.C.** (not all archaeologists agree its bearers spoke proto-Eskimo); expanded rapidly through the maritime Arctic from the Alaskan Peninsula to **Greenland**.
+- Lacked stone lamps → depended on wood near the tree line; microblade composite tools sometimes characterized as “Mesolithic” versus Paleo-Indian “Upper Paleolithic.”
+
+`part_of: [[paleoindian-and-archaic-north-america]]` · `concurrent_with: [[clovis-first-vs-pre-clovis]]` (as later Asian-related entry stratum) · `followed_by: [[dorset-culture]]` (via Pre-Dorset)
+
+*Source: [[sources/cambridge-history-native-peoples-americas-v1-1]], ch. 3 (Snow).*

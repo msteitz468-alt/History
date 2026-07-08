@@ -9,9 +9,9 @@ region: [north-america]
 affiliated_with: []
 opposed_by: []
 key_events: ["[[southwest-drought-collapse-1150ce]]"]
-key_processes: []
-sources_ingested: 2
-last_updated: 2026-06-27
+key_processes: ["[[southwest-agricultural-development]]", "[[north-american-agricultural-transition]]"]
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, north-america]
 ---
 
@@ -57,8 +57,22 @@ Early Hohokam villages were established at key points on rivers where irrigation
 
 Hard times for Hohokam communities began as early as 1020–1160 CE, when widespread erosion damaged canal systems. Larger towns were partially or entirely abandoned. Climate change after 1150 CE disrupted the agricultural base that had sustained dense Sonoran Desert populations. The combination of canal erosion, drought, and demographic disruption produced significant changes in Hohokam communities through the twelfth and thirteenth centuries. By around 1450 CE, the Classic period had ended and the tradition as archaeologists define it disappeared. The Akimel O'odham (River People) and Tohono O'odham are recognized as descendants and cultural continuators.
 
+## Cordell & Smith (CHNPA I.1 ch. 4)
+
+*part_of:* [[southwest-agricultural-development]]. Hohokam designates the pre-European tradition of the desert areas of southern Arizona, particularly the Tonto Basin and the Gila and Salt Valleys — distinguished by long elaborate irrigation canals diverting river water to fields, villages parallel to rivers but away from flood danger, **ball courts**, **platform mounds**, and (relative to neighbors) elaborate crafts; early ceramics polished red/brown then red-on-buff painted ware.
+
+**Settlement ~500–1100:** continuity in configuration — courtyard groups of 3–4 pithouses, rebuilding, growing site size/population and canal scale; off-river settlements use diverse agrotechnologies (e.g. diverting summer runoff to outwash fans). Complexity elaboration before A.D. 1000 **outstrips most other SW regions**.
+
+**Ball courts and platform mounds:** elongated, slightly oval, earth-excavated structures (some to 65 m), unroofed, with stone end/center markers but **lacking Mesoamerican stone side walls and rings**; two rubber balls found at Hohokam sites (not associated with courts). Platform mounds occur early but peak after 1000 (rubbish/sand, often caliche-capped). David R. Wilcox estimates most of **206 ball courts** known from **165 sites** were constructed and in use ~**975–1150**; platform mounds increase after 1050; distributions of ball-court and platform-mound sites suggest **site hierarchies** along canals/rivers. Geographic extent peaks in the eleventh century (lower Gila to north of Phoenix; elements to Verde Valley/Flagstaff — interaction/trade more than migration). Gatlin site (near Gila Bend): elaborate six-stage platform mound (~29×21 m, 3.7 m high), two oval ball courts, two crematoria, 22 trash mounds, and a canal, but only two pithouses located despite extensive testing — possibly primarily ceremonial.
+
+**Hierarchy interpretations (hedged):** coordinating irrigation labor and adjudicating water-rights disputes among communities sharing canals have been cited as requiring administrative hierarchies; alternatives invoke Mesoamerican middlemen/traders, redistributive systems, and control of ceremonial systems. Ball courts, platform mounds, irrigation, stone palettes, and mosaic plaques/mirrors are often viewed as of Mesoamerican or northern Mexican origin; some scholars deemphasize Mexican influence and stress that Hohokam economy could support structured organization; irrigation was **not** a feature of early complex societies in the Valley of Mexico. *contributed_to:* [[north-american-states-debate]].
+
+**After 1200:** dispersed sites abandoned, population aggregated; plaster-capped platform mounds in massive adobe retaining walls within compounds housing a residential minority (clearest evidence for social differentiation); later public architecture shifts to multistory adobe great houses (e.g. Casa Grande); pithouse groups replaced by above-ground multiroom compounds; even these cease after ~1400 — **truncation of Hohokam presence before first European explorers**. After 1425 large Classic aggregated communities abandoned; later Sonoran Desert remains more clearly Pima and Papago (O’odham); scholarly debate on degree of continuity — most see some continuities, not marked.
+
+Irrigation canals certainly in place by A.D. 200–300 (*enabled* by water-control under [[southwest-agricultural-development]]).
+
 ## Historiography
 
-The Hohokam have been recognized as a distinctive tradition since early twentieth-century archaeology in the Southwest. The site of Snaketown on the Gila River was excavated by Emil Haury in landmark investigations. Key debates include the nature and extent of Mesoamerican connections (diffusion vs. migration), the political organization of the canal system (whether it required centralized management), and the exact causes of the Classic period collapse. The collection is moderately strong on Hohokam through regional syntheses.
+The Hohokam have been recognized as a distinctive tradition since early twentieth-century archaeology in the Southwest. The site of Snaketown on the Gila River was excavated by Emil Haury in landmark investigations. Key debates include the nature and extent of Mesoamerican connections (diffusion vs. migration), the political organization of the canal system (whether it required centralized management), and the exact causes of the Classic period collapse. Cordell & Smith preserve hedges on ranking vs sequential egalitarianism and Hohokam–Pima continuity. The collection is moderately strong on Hohokam through regional syntheses.
 
-**Source:** [[snow-gonlin-siegel-archaeology-native-north-america-2020]]
+**Sources:** [[snow-gonlin-siegel-archaeology-native-north-america-2020]]; [[sources/cambridge-history-native-peoples-americas-v1-1]] (Cordell & Smith ch. 4)

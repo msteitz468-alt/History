@@ -9,8 +9,8 @@ affiliated_with: [the Yuezhi confederation, Buddhist and Zoroastrian and Hindu c
 opposed_by: [the [[sasanian-empire|Sasanians]], the Hephthalites]
 key_events: [Yuezhi migration into Bactria 2nd c. BCE, crossing of the Hindu Kush into India c. 1st c. CE, patronage of Mahayana Buddhism]
 key_processes: [[[silk-roads]], [[trade-network-formation]], [[buddhism|spread of Buddhism]], [[empire]]]
-sources_ingested: 3
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, empire, classical-antiquity, central-asia, south-asia]
 ---
 
@@ -116,6 +116,14 @@ Ardashir and Shapur I destroyed [[begram|Begram]] and [[taxila|Taxila]] (by 262 
 — a mirror-image of the [[yuezhi|Yuezhi's]] earlier rejection of [[zhang-qian|Zhang Qian]].
 Kushan coin-models influenced Gupta, Yaudheya, Kidarite, and even Hephthalite issues for
 centuries.
+
+## Bopearachchi: a numismatic reconstruction of the dynasty
+
+Osmund Bopearachchi's chapter in [[sources/kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]] underscores that the entire Indo-Greek-to-Kushan succession "depends mainly on coins and inscriptions" — Greek and Latin historians showed no sustained interest in the fate of the Greeks in Bactria and India, so the dynastic history rests on numismatic and epigraphic reconstruction rather than narrative texts. The **Rabatak inscription** remains the key genealogical source, naming Kanishka's great-grandfather Kujula Kadphises, grandfather Vima Taktu, and father Vima Kadphises. Cross-referencing the *Hou Hanshu*'s account of the *yabgu* Qiujiuque (identified with Kujula Kadphises) — who invaded "Anxi" and captured Kabul, Pushkalavati, and Kashmir before dying at eighty — with overstrikes of Kujula's coins on Indo-Parthian coinage of Gondophares, Bopearachchi dates the Kushan Empire's rise to c. 30–90 CE, when Kujula ended Parthian rule in Paropamisadae and Gandhāra.
+
+Between Kujula and Vima Kadphises, coinage attests an otherwise unattested ruler styled **"Soter Megas"** ("great saviour"); Bopearachchi follows Fussman in reading him as a usurper who interrupted the dynastic succession for at least a generation, tentatively identifying him with a general to whom Vima Taktu delegated Indian affairs. **Vima Kadphises** founded a bimetallic gold/copper monetary system (the Peshawar hoard alone yielded 4,000+ gold coins), and his coinage's Śiva devotion signals a religious rupture with his Buddhist rival/predecessor. Bopearachchi dates the Kushan apogee to **c. 127 CE under Kanishka I** (following Harry Falk's chronology), with the capital at Purushapura (Peshawar) and regional capitals at Begram, Taxila, and Mathura; Kanishka is credited (though the tradition is disputed) with convening the Fourth Buddhist Council, and built the Kanishka stupa at Peshawar, described by Xuanzang as some 180–210m tall. After Huvishka (r. c. 150–188 CE, declining copper weights) and Vasudeva I (r. from c. 188 CE, the first Kushan king named for a Hindu god, presiding over the empire's Hinduization and eventual Sasanian invasion), post-Kushan Gandhāra passed through Kidarite and then Hephthalite rule; Chinese pilgrim testimony (Faxian, 5th c.; Song Yun, 518–521; Xuanzang, c. 644) documents Buddhism's decline there under Hun invasion, with Xuanzang finding Taxila "in ruins" and Hinduism ascendant.
+
+Bopearachchi's chapter is also the primary source for the wiki's treatment of Hellenistic artistic legacy in Kushan Gandhāra — see [[gandharan-art]] for the detailed synthesis (Heracles reinterpreted as both Śiva and Vajrapāṇi; Tyche assimilated with Hariti; the "cataphracti" armored-cavalry motif Indianized into Gandhāran Buddhist iconography).
 
 ## Historiography
 

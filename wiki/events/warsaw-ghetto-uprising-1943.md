@@ -7,8 +7,8 @@ period: [World Wars Era]
 region: ["eastern-europe"]
 causes: [the Great Deportation of some 300, "000 Warsaw Jews to Treblinka in summer 1942 under [[operation-reinhard-1942|Operation Reinhard]]", "[[himmler-heinrich|Himmler's]] order to liquidate the remaining ghetto", "the survivors' decision to resist rather than board the trains"]
 consequences: [destruction of the ghetto and murder or deportation of its remaining ~56, 000 inhabitants, "the largest single act of Jewish armed resistance in [[the-holocaust|the Holocaust]]", "enduring symbol of resistance (distinct from the citywide [[warsaw-uprising-1944|Warsaw Uprising of 1944]])"]
-sources_ingested: [2]
-last_updated: "2026-07-02"
+sources_ingested: [3]
+last_updated: "2026-07-03"
 tags: [event, "world-wars-era", "eastern-europe"]
 event_type: battle
 location: [Warsaw ghetto, General Government (occupied Poland)]
@@ -34,3 +34,7 @@ Paxton and Hessler's *Europe in the Twentieth Century* (2011) add that SS losses
 ## Historiography
 
 The Stroop Report (with its photographs) and the Ringelblum archive are the foundational sources; Evans supplements them with the diaries of Czerniaków, Kaplan, and the German officer Wilm Hosenfeld ("This is the way we intend to win the war. These beasts."). Evans also debunks the Rosenstrasse legend (February–March 1943): the intermarried Berlin Jews detained there were never slated for extermination, and the gathered relatives staged no explicit protest.
+
+## Shirer (1960): the Stroop Report in detail
+
+Shirer reproduced the leather-bound Stroop Report (*The Warsaw Ghetto Is No More*, 75 pp.) at length: the 1940 sealing of ~400,000 Jews into 2.5 × 1 miles that normally housed 160,000; 310,322 "resettled" (mostly to Treblinka) between 22 July and 3 October 1942; Himmler's surprise January 1943 visit ordering completion by 15 February; the final action from 19 April 1943 — planned for three days, taking four weeks against a ghetto reduced to 1,000 × 300 yards. Stroop's force: 2,090 men (about half regular Army/Waffen-SS, plus 335 Lithuanian militia and Polish police and firemen) against defenders armed with pistols, rifles, "a dozen or two machine guns" and homemade grenades. Daily teletypes quoted: the first-day repulse ("Owing to this enemy counterattack we had to withdraw"); the Chalutzim women "firing pistols with both hands"; the fifth-day decision "to destroy the entire Jewish area by setting every block on fire"; the 16 May close, "terminated at 2015 hours by blowing up the Warsaw synagogue." Stroop's own arithmetic — 56,065 "dealt with," of whom his breakdown accounts for only ~20,000, the remaining ~36,000 implying the gas chambers — and his claimed losses of 16 dead and 90 wounded, which Shirer judged understated. Shirer's framing sentence: "the first time and the last in the history of the Third Reich that the Jews resisted their Nazi oppressors with arms" — wrong on both counts (Białystok, Sobibór, Treblinka revolts followed), an early-scholarship artifact worth noting. Source: [[shirer-rise-fall-third-reich-1960]]

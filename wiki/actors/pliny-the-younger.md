@@ -9,8 +9,8 @@ affiliated_with: [the Roman Senate, the emperor Trajan, his uncle Pliny the Elde
 opposed_by: []
 key_events: [the eruption of Vesuvius (79, in which his uncle died), his suffect consulship (100) and the Panegyricus, his governorship of Bithynia-Pontus (c. 110–113)]
 key_processes: [the writing of the literary letter-collection, early Roman administration of the provinces]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]
 ---
 
@@ -52,6 +52,21 @@ for the **early history of Christianity**, the **Vesuvius catastrophe**, and the
 between emperor and provincial governor. His career also illuminates the lives of his friends: he was
 patron to **[[suetonius|Suetonius]]** and intimate of **[[tacitus|Tacitus]]**, to whom several letters
 are addressed.
+
+## Beard (SPQR, 2015)
+
+Mary Beard, in **[[sources/beard-spqr-2015|SPQR]]**, reads Pliny's Bithynian correspondence
+(c. 109–111 CE) as capturing "a new style of government in the provinces" under the
+emperors — governors now directly answerable to Rome, in contrast to the looser,
+more exploitative Republican-era governorship exemplified by Cicero's Cilicia. She
+argues Pliny's famously exhaustive, detail-obsessed letters to **[[trajan|Trajan]]** were
+not personal fussiness but a structural feature of imperial administration: "you got no
+decision from the emperor unless you asked him for one." Beard singles out the
+Pliny–Trajan exchange on the Christians (10.96–97) as "the earliest surviving discussion
+of Christianity outside Jewish or Christian literature," showing officials genuinely
+uncertain how to legally handle a new sect rather than pursuing systematic persecution.
+She also notes Pliny had "little eye" for cultural difference in his province — he
+never remarks that Greek, not Latin, was Bithynia's main language.
 
 ## Related
 

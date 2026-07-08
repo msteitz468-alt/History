@@ -64,3 +64,17 @@ that followed.
 - [[arab-nationalism]] — the movement he led; [[arab-israeli-conflict]] — the wars that made and broke him.
 - [[political-islam]] — the rival ideology his defeat empowered; [[cold-war]] · [[decolonization]] — the era he navigated.
 - [[middle-east-modern]] · [[egypt|Egypt]] — the region and the nation he transformed.
+
+## The CIA and Suez (McCoy)
+
+[[mccoy-cold-war-five-continents-2024|McCoy (2024)]] adds the covert-intelligence
+layer to Nasser's career. The [[central-intelligence-agency|CIA]]'s Kermit Roosevelt
+had met the Free Officers before their July 1952 coup and "may actually have
+encouraged" it; during the 1952–56 "honeymoon," the Agency helped build Egypt's
+police school and security services and funded the *Voice of the Arabs* radio. After
+Nasser nationalized the Suez Canal (July 1956), Britain's MI6 mounted several failed
+assassination attempts against him (a bribed doctor, a London hit team, an
+exploding-razor plot); McCoy reports that CIA officers, including Miles Copeland,
+warned Nasser of some of these — an episode in the Anglo-American "sub-rosa rivalry"
+over Middle East hegemony that runs through [[covert-action|his account of covert
+statecraft]].

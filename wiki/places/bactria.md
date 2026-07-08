@@ -7,8 +7,8 @@ period_active: [Early Bronze Age, Late Bronze Age, Archaic Period, Classical Ant
 controlled_by: [Oxus Civilization/BMAC, [[achaemenid-empire|Achaemenids]], [[alexander-the-great|Alexander]]/Seleucids, [[greco-bactrian-kingdom|Greco-Bactrians]], [[kushan-empire|Kushans]], [[sasanian-empire|Sasanians]], Hephthalites, Türks, Arabs]
 events_here: [Alexander's conquest and marriage to Roxana, secession of the Greco-Bactrian kingdom c. 250 BCE]
 processes_here: [[[trade-network-formation]], [[silk-roads]], [[seleucid-colonization|Hellenization]], [[pastoral-nomadism|nomad migration]]]
-sources_ingested: 4
-last_updated: 2026-06-27
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [place, central-asia, classical-antiquity]
 ---
 
@@ -133,3 +133,7 @@ the local **Bactrian** language (in Greek letters) as official. Early Kushan coi
 Greco-Bactrian tetradrachms (Eucratides, Euthydemus, Heliocles, Hermaeus); fortified Yuezhi
 sites (Kampyr Tepe, Khalchayan) document their takeover. Source:
 [[benjamin-empires-ancient-eurasia-2018]].
+
+## Bopearachchi: Ai Khanum's Greek inscriptions and the trade-route hub
+
+Osmund Bopearachchi's numismatic chapter in [[sources/kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]] adds epigraphic detail to **[[ai-khanoum|Ai Khanum]]**, excavated by Paul Bernard's French Archaeological Delegation (1964–1978) at the Oxus–Kokcha confluence: a royal palace with Corinthian, Doric, and Ionian colonnades, a classical theatre seating 4,000–6,000 (larger than Babylon's), a Mesopotamian-style temple housing a monumental seated Zeus-Mithra statue, and a large gymnasium (100×100m) bearing a Greek dedication to Hermes and Heracles. Fifty-nine Greek inscriptions from Ai Khanum, Kandahar, and Kuliab (published by Bernard, Pinault & Rougemont, 2004) demonstrate the Greek language remained in active use in Bactria for two to three centuries after Alexander. Bopearachchi also confirms the region's role as a trade nexus under Kanishka: five routes converged through Gandhāra and the Bactrian borderlands, linking Pataliputra, Ecbatana (via Alexandria of the Caucasus/Begram and Alexandria of Aria/Herat), Iran (via Kandahar), Chinese Turkestan (via Samarkand), and the Persian Gulf via the Indus. On the Yuezhi conquest, Bopearachchi dates the final overpowering of Bactria's Greek rulers to **c. 130 BCE**, after the reign of Heliocles I (probably the last Greek king of Bactria proper); Archebios remained the last Greek king over Taxila, Hermaios the last over Paropamisadae. See [[yuezhi]] and [[greco-bactrian-kingdom]].

@@ -64,13 +64,13 @@ ingest session.
 | Central Africa | moderate | **(was "weak")** Congo Basin (CWH I); GHA; Bostoen & Brinkman *Kongo Kingdom*; Hochschild (Congo Free State) |
 | Southern Africa | moderate | **(was "weak")** rock art/LSA (CWH I); GHA; Zulu state-building; Meredith *Mandela*; apartheid via modern African surveys |
 | Horn of Africa | moderate | Afrasian homeland; Aksum, Ethiopian Christianity; GHA; Red Sea/Indian Ocean trade |
-| North America | strong | **(was "moderate")** Snow, Gonlin & Siegel *Archaeology of Native North America*; Mann *1491*; mound-builders→Mississippian, Chaco/Hohokam; CWH VI (settlement); CWH VII (Tyrrell, US in world history); biography & warfare hubs (Revolution, Civil War) |
+| North America | strong | **(was "moderate")** Snow, Gonlin & Siegel; Mann *1491*; **Cambridge Hist. of the Native Peoples of the Americas I Pts 1–2** (complete: historiography→deep time→eastern colonial/Removal; Plains horse cultures; SW/California; Northwest; reservation 1880–1960; Subarctic; Arctic; Renaissance 1960–95); mound-builders→Mississippian, Chaco/Hohokam; CWH VI–VII; biography & warfare hubs |
 | Mesoamerica | strong | Olmec→Maya→Teotihuacan→Aztec (CWH; Cowgill; Berdan *Aztecs*); conquest (Díaz, León-Portilla *Broken Spears*, Popol Vuh, Tedlock) |
 | Caribbean | moderate | **(was "weak")** Keegan & Hofman *The Caribbean before Columbus*; CHNPA III (Caribbean peopling & Saladoid); Columbian Exchange & Taíno collapse; the sugar/slave complex |
 | Andes | strong | Norte Chico→Chavín→Moche→Inca (CWH; D'Altroy *Incas*; **Cambridge Hist. of the Native Peoples of the Americas III** — Andean archaeological spine + colonial-to-modern indigenous history); conquest, Potosí, the silver economy (Guamán Poma) |
 | Amazonia | moderate | **(was "weak")** Neolithic manioc (CWH II); mound-building chiefdoms (CWH IV); **CHNPA III** (western Amazonia colonial, the rubber boom, the Meggers–Roosevelt complexity debate); Mann *1491* |
 | Southern Cone | moderate | **(was "absent")** **CHNPA III Pt 1–2**: pampas horse cultures, the Araucanía and Chaco frontiers, La Plata colonial invasion, 19th-c. nation-making and 20th-c. indigenous resurgence |
-| Eastern North America | strong | Poverty Point→Hopewell→Mississippian; Cahokia; Snow et al. |
+| Eastern North America | strong | Poverty Point→Hopewell→Mississippian; Cahokia; Snow et al.; **CHNPA I.1** (Salisbury colonial encounter; Green Removal/Trail of Tears; Smith Mississippian chiefdoms) |
 | Near East | strong | CAH; Liverani *Ancient Near East*; Briant *From Cyrus to Alexander*; Wiesehöfer; Islamic civilization (Hodgson, Lapidus); **Islamic intellectual history** (Adamson *Philosophy in the Islamic World*, Hallaq *Sharīʿa* & *Origins of Islamic Law*, Schimmel *Mystical Dimensions of Islam*, Saliba *Islamic Science*, al-Ghazālī); Said *Orientalism*; Rogan (modern Arab world) |
 | Levant | strong | Neolithic; Canaan/Israel (Dever, Noll); Phoenicians; Roman/Byzantine & Islamic Levant; TTH chronicles |
 | Mesopotamia | strong | first cities; Gilgamesh, Hammurabi; Assyria/Babylon (CAH); Parthian/Sasanian/Abbasid |
@@ -120,7 +120,7 @@ and gaps are filled or confirmed.
 | Event-level 20th-century history | Moderate | strong structural & operational coverage now exists (world wars via Cambridge Histories + warfare hub; Cold War via Leffler & Westad), but discrete event pages for some revolutions, the Holocaust, and the Depression remain to be built out |
 | Southeast Asia (modern, event-level) | Moderate | the classical-to-early-modern narrative is now solid (Reid, Tarling, Coe); a dedicated modern/decolonization narrative is still thin |
 | Sub-Saharan Africa (event-level colonial) | Minor | the regional/structural narrative is now strong (CHA, GHA, Parker); some discrete colonial-era events and polities (e.g. Great Zimbabwe in depth) still thin |
-| Americas (post-contact, event-level) | Minor | strong regional and structural coverage (Snow, Mann, Burkholder & Johnson, CWH VII); discrete events (independence wars, the Mexican/Cuban revolutions) still lack pages |
+| Americas (post-contact, event-level) | Minor | strong regional and structural coverage (Snow, Mann, Burkholder & Johnson, CWH VII); **southern-plains Comanche wars now have a narrative spine** ([[sources/gwynne-empire-of-the-summer-moon-2010|Gwynne 2010]] → Comanchería / Red River War / Quanah); discrete events (independence wars, the Mexican/Cuban revolutions) still lack pages |
 | Russia / Eastern Europe | **Resolved** | Cambridge History of Russia I–III; Riasanovsky, Freeze, Service; Kievan Rus' through the Russian Federation |
 | Japan — narrative history | **Resolved** | Cambridge History of Japan I–VI plus Mason & Caiger, Sansom, Keene, and primary sources (Kojiki, *Genji*) |
 | India / South Asia (post-Gupta) | **Resolved** | Thapar & Spear, Basham, Avari, Cambridge History of India III–V, the Mughal sources, and Roy's *East India Company* |

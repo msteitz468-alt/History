@@ -9,8 +9,8 @@ affiliated_with: [the Frankish kingdom, the Papacy, the Latin Church]
 opposed_by: [Saxons, Lombards, Avars, Umayyad Spain, later Vikings and Magyars]
 key_events: [[[pippinid-coup-751]], [[coronation-of-charlemagne-800]], [[battle-of-fontenoy-841]], [[treaty-of-verdun-843]], the Carolingian Renaissance]
 key_processes: [[[empire]], [[christianity|Latin Christianization]], manorialism, the Carolingian Renaissance]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, empire, early-middle-ages, western-europe]
 ---
 
@@ -95,3 +95,11 @@ Charlemagne*, the royal annals), shaping a flattering, Rome-centric image. Debat
 administration; the economic basis of the realm (Pirenne's thesis tying its rise to the
 Arab closure of the Mediterranean); and whether the "renaissance" was genuine revival or
 narrow clerical reform.
+
+## Framing the Early Middle Ages (Wickham 2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham]] treats the Carolingian rise chiefly as the terminal phase of Merovingian structural history rather than as the teleological climax of the early Middle Ages. After [[charles-martel|Charles Martel]] defeated Plectrudis (715–19) and reconquered autonomous duchies, Merovingians became total ciphers (no king 737–41); **[[pippin-iii|Pippin III]]** claimed the throne in **751** with ecclesiastical ritual sanction. Carolingian political programmes were more ecclesiastically influenced and systematic than those of any other western post-Roman state except the [[visigoths|Visigoths]] (and more inclusive than the Visigoths). Wickham deliberately regards the period **after 751 in Francia as outside the strict remit** of *Framing* — partly because the evidence changes in scale, partly **to avoid teleology** of Charlemagne as the early medieval end-point. On the comparative [[tax-based-vs-land-based-states|tax/land]] axis, the later Carolingians are the western match for the [[lombards|Lombards]] as a fully **post-tax** polity whose public wealth rested on land and other non-tax resources, yet with unusually strong “public politics without taxation.”
+
+**Frankish models abroad.** Conversion and episcopal hierarchy in England became instruments of royal authority (bishops largely a royal creation, unlike in Francia). Kings imitated Frankish legislation, tolls, and royal anointing (Ecgfrith 787); Charlemagne’s realm was roughly ten times Offa’s — deliberate structural imitation of Frankish models rather than direct Carolingian rule.
+
+Source: [[wickham-framing-the-early-middle-ages-2005]].

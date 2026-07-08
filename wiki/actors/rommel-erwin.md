@@ -1,20 +1,19 @@
 ---
 title: Erwin Rommel
 actor_type: person
-date_start: 1891-11-15
-date_end: 1944-10-14
-period: [world-wars-era]
-region: [western-europe, north-africa]
+date_start: "1891-11-15"
+date_end: "1944-10-14"
+period: ["world-wars-era"]
+region: ["western-europe", "north-africa"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [actor, person, "world-wars-era"]
 affiliated_with: [Wehrmacht, Afrika Korps]
-opposed_by: [Allies]
-key_events: [north-africa-campaign-1940-1943, invasion-of-normandy-1944]
-key_processes: [blitzkrieg, mobile-warfare, atlantic-wall]
-sources_ingested: 1
-last_updated: 2026-06-26
-tags: [actor, person, world-wars-era]
 aliases: [Erwin Rommel, Rommel Erwin, Desert Fox]
+key_events: ["north-africa-campaign-1940-1943", "invasion-of-normandy-1944"]
+key_processes: [blitzkrieg, "mobile-warfare", "atlantic-wall"]
+opposed_by: [Allies]
 ---
-
 # Erwin Rommel
 
 German field marshal. Famous for command of Afrika Korps in North Africa 1941–43 ("Desert Fox"); later involved in Atlantic Wall defenses. Associated with chivalrous reputation among adversaries; implicated (or suspected) in 20 July plot; forced to suicide. Symbol of the "clean Wehrmacht" myth in post-war memory.
@@ -33,3 +32,9 @@ See: [[world-war-ii-1939-1945]], [[adolf-hitler]], [[heinz-guderian]].
 ## From Evans, *The Third Reich at War* (2008)
 
 Evans's verdict on North Africa is Rommel's own (1944): "the war in North Africa was decided by the weight of Anglo-American material." Aware of the July Plot but not a participant or approver, Rommel nonetheless told Hitler to his face the war should be ended; implicated under interrogation, he was offered staged suicide with a state funeral or a public trial, and took the poison (14 October 1944) as the SS surrounded his convalescent village. Source: [[evans-third-reich-at-war-2008]]
+
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Shirer traces Rommel's 1942 supply collapse to Hitler's twice-postponed "Operation Hercules" (the planned airborne capture of Malta), abandoned in favor of bombing that failed once British convoys and U.S.-carrier-delivered Spitfires restored Malta's air power — thereafter three-quarters of his supply ships were sunk. Rommel's own diary, 3 July 1942, reaching [[first-battle-of-el-alamein-1942|El Alamein]] with 13 operational tanks: "Our strength has faded away." [SHIRER-THESIS] Shirer judges Hitler "never understood global warfare," awarding Rommel his Field Marshal's baton for taking Tobruk (21 June 1942) but sending no meaningful reinforcement afterward.
+
+Source: [[shirer-rise-fall-third-reich-1960]]

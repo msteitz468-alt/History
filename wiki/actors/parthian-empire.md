@@ -9,8 +9,8 @@ affiliated_with: [[[zoroastrianism]], the Arsacid dynasty, Hellenistic culture (
 opposed_by: [[[roman-republic|Rome]], the [[seleucid-empire|Seleucids]], [[kushan-empire|Kushans]], steppe nomads]
 key_events: [conquest of Mesopotamia under Mithridates I, Battle of Carrhae 53 BCE]
 key_processes: [[[empire]], [[silk-roads]], [[trade-network-formation]], [[hellenistic-world]]]
-sources_ingested: 4
-last_updated: 2026-06-27
+sources_ingested: 6
+last_updated: 2026-07-08
 tags: [actor, empire, classical-antiquity, late-antiquity, iran-plateau]
 ---
 
@@ -192,3 +192,22 @@ Talmud was codified under Parthian rule).
   killed by Ardashir I at **Hormozdgan (28 April 224 CE)**, ending the empire and beginning
   the [[sasanian-empire|Sasanian]] era — part of the
   [[collapse-of-first-silk-roads-era-250|collapse of the First Silk Roads Era]].
+
+## Bopearachchi: the Indo-Parthian kingdom in Gandhāra
+
+Osmund Bopearachchi's numismatic study in [[sources/kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]] (see also [[kushan-empire]]) treats a peripheral Arsacid offshoot largely invisible to the classical narrative sources: an **Indo-Parthian kingdom** in Gandhāra and the northwest, founded by **Gondophares** near the end of Azes II's reign. A dedicatory plaque from Takht-i-Bahi gives Gondophares' regnal year 26 in the Azes era (which began 48/7 BCE), placing his accession near the end of the first decade CE. Reconstruction of the transition rests entirely on coins and inscriptions, not narrative history — the same evidentiary constraint governing the wider Indo-Greek/Indo-Scythian/Kushan succession (see [[kushan-empire]]).
+
+Notably, an inscription from Buner (published by Harry Falk) records a bowl dedication naming "the great king Moga (Maues)" alongside "the Mahākastrapa Vasa-Abdagases, son of Mahapala-Suspala" — evidence Bopearachchi (following Falk) reads as pointing to a **peaceful transition of power**, against "a common belief that the successions of Indo-Greeks, Indo-Scythians and Indo-Parthians were based on bloody battles." The Indo-Parthian kingdom was itself supplanted when Kujula Kadphises' Kushan coinage overstruck Gondophares' issues, marking the end of Parthian rule in Paropamisadae and Gandhāra c. 30–90 CE (see [[kushan-empire]]).
+
+## Ball's "erasure" thesis (2000)
+
+Warwick Ball's *[[ball-rome-in-the-east-2000|Rome in the East]]* argues the Parthian period is
+severely under-documented and under-studied relative to the Sasanians — even modern Iranians
+treating it as a mere interregnum between Achaemenids and Sasanians. He blames a double erasure:
+Roman sources were biased and incurious (compared to Herodotus/Xenophon on the earlier Persians),
+while the Sasanians themselves suppressed Parthian history to claim direct continuity with the
+Achaemenid past. Ball urges seeing Parthia on its own terms — a multinational Iranian empire
+("Eranshahr") whose real strategic focus lay in Central Asia and the east, not in the Roman wars
+through which Western scholarship usually views it. (He prefers "Iran" to the Western appellation
+"Parthia" throughout.) Part of his [[orientalization-of-rome]] argument that the Near East and
+Iran are read through a Graeco-Roman lens.

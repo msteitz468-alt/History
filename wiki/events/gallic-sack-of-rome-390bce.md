@@ -21,8 +21,8 @@ consequences:
   - enabled: "[[roman-military-reform|Reorganization of the Roman army to meet future threats]]"
   - produced: "[[roman-latin-alliance-renewal|Renewal and tightening of the Roman–Latin alliance after 390 BCE]]"
   - contributed_to: "[[roman-recovery-fourth-century|Rome's fourth-century expansion as recovery and overcompensation]]"
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, mediterranean, western-europe, rome]
 ---
 
@@ -198,6 +198,16 @@ Quadrigarius and Valerius Antias) who had access to oral tradition, clan records
 and their own literary imagination in unknown proportions. Polybius I.6.2 provides
 the crucial external synchronism. The Greek historians (Theopompus; fragments) knew
 of the sack; its historicity is not in question.
+
+**Beard (SPQR, 2015).** Mary Beard ([[sources/beard-spqr-2015]]) independently
+reaches Cornell's conclusion, reading the episode as substantially a Roman
+"exaggeration" serving later ideological purposes — patriotic lessons, explaining
+Rome's chaotic street plan, explaining the paucity of early sources, foreshadowing
+Hannibal — and noting that archaeology shows no clear evidence of the massive
+destruction the literary tradition describes. She also notes the episode's
+long political afterlife: in 48 CE conservative senators cited the memory of the
+Gallic sack as an argument against Emperor Claudius's proposal to admit Gauls to
+the senate.
 
 ## Related
 

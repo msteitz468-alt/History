@@ -3,13 +3,13 @@ title: Rome (The Archetypal Imperial City)
 place_type: city
 modern_equivalent: Rome, Italy
 coordinates: ~41.89°N, 12.49°E
-period_active: [Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity]
-controlled_by: [Roman city-state, Roman Republic, Roman Empire]
+period_active: [Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
+controlled_by: [Roman city-state, Roman Republic, Roman Empire, Ostrogoths, Byzantine Empire, Papacy]
 events_here: []
-processes_here: [[[urbanization]], [[ruralization]]]
-sources_ingested: 3
-last_updated: 2026-06-11
-tags: [place, mediterranean, classical-antiquity, rome]
+processes_here: [[[urbanization]], [[ruralization]], [[post-roman-transformation-of-the-west]]]
+sources_ingested: 4
+last_updated: 2026-07-08
+tags: [place, mediterranean, classical-antiquity, late-antiquity, early-middle-ages, rome]
 ---
 
 # Rome (The Archetypal Imperial City)
@@ -288,11 +288,19 @@ Kyle Harper's *The Fate of Rome* (2017) provides a detailed environmental and bi
     *   **Epidemic Relapses:** In AD 191, Rome suffered a severe relapse of the Antonine Plague, causing daily death tolls to exceed 2,000 (Harper 2017, line 1514).
     *   **Malarial Shield:** In AD 452, the local disease ecology of the Pontine marshes and malaria acted as a biological shield for Rome, decimating the forces of Attila the Hun and forcing his retreat from Italy (Harper 2017, line 2230).
 
+## Wickham, *Framing the Early Middle Ages* (2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham]] identifies **demographic decline in the city of Rome**—especially sharp once African taxation that fed the city ended—as the most important structural change in Italy between 400 and 535. Imperial Rome had been artificially huge (c.1 million in the first century; roughly half a million early fifth); by the seventh century at latest population fell to what Lazio alone could sustain (**c.20,000–40,000**), yet remained Europe’s largest city after [[constantinople|Constantinople]].
+
+By c.600 **papal estates** (and perhaps Constantinopolitan patriarchal lands) were likely the largest private landholdings left in the Mediterranean because institutional longevity outlasted lay senatorial houses; papal lands later contracted under imperial fiscal pressure c.730 back to Lazio. After c.600 the Aurelian walls enclosed perhaps a twentieth of late Roman population, grouped in as many as a dozen **“urban villages”** (*città ad isole*) held together by common politics and processional ritual across the classical centre—an extreme example of spatial fragmentation. Rome and the Tyrrhenian south nonetheless remained Italy’s most complex exchange zone c.700–800 (local common wares, Campanian/Calabrese–Sicilian wine amphorae, late-eighth **Forum ware** as a new high-status western Mediterranean production). See [[italy]].
+
+*Link types:* caused_by: severance of African tax-fed grain ([[roman-africa]]); part_of: [[italy]], [[urbanism]]; concurrent_with: [[post-roman-transformation-of-the-west]].
+
 ## Related
 
-- Places: [[tenochtitlan|Tenochtitlan]] · [[nineveh|Nineveh]] · [[baghdad|Baghdad]] · [[uruk|Uruk]] · [[latium]] · [[places/constantinople]] · [[places/carthage]] · [[places/alexandria]]
+- Places: [[tenochtitlan|Tenochtitlan]] · [[nineveh|Nineveh]] · [[baghdad|Baghdad]] · [[uruk|Uruk]] · [[latium]] · [[places/constantinople]] · [[places/carthage]] · [[places/alexandria]] · [[italy]]
 - Concept: [[imperial-city]] · [[city-state]] · [[eurocentrism]] · [[urbanism]] · [[latial-culture]] · [[early-roman-source-criticism]]
-- Process: [[urbanization]] · [[ruralization]] · [[agriculture-and-urbanism]]
+- Process: [[urbanization]] · [[ruralization]] · [[agriculture-and-urbanism]] · [[post-roman-transformation-of-the-west]]
 - Archaic Rome: [[etruscans]] (the Tarquins) · [[etruria]] · [[roman-kings]] · [[foundation-of-rome-753bce]]
-- Sources: [[yoffee-cwh-v3-2015]] (Ch. 25, Terrenato) · [[boardman-cah-v4-1988]] (Ch. 13, Ridgway) · [[walbank-cah-v7-2-1989]] (Chs. 2–3, Torelli/Momigliano) · [[sources/harper-fate-of-rome-2017]]
+- Sources: [[yoffee-cwh-v3-2015]] (Ch. 25, Terrenato) · [[boardman-cah-v4-1988]] (Ch. 13, Ridgway) · [[walbank-cah-v7-2-1989]] (Chs. 2–3, Torelli/Momigliano) · [[sources/harper-fate-of-rome-2017]] · [[wickham-framing-the-early-middle-ages-2005]]
 

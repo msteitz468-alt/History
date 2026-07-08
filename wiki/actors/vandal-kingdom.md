@@ -85,5 +85,8 @@ Africa** a province of the eastern empire until the Arab conquest of the late se
 - Allied with then estranged from [[theoderic-the-great|Theoderic's]] Ostrogoths; destroyed by
   [[justinian|Justinian]] and [[belisarius|Belisarius]] (533–534)
 - Arian persecutors of the Catholic [[late-roman-church-institution|African church]]; pressed by the
-  Berbers/Moors
+  Berbers/Moors. Their invasion of Africa (from 429) and the winter siege of
+  **[[hippo-regius|Hippo Regius]]** (429–430) form the backdrop to the death of
+  **[[augustine-of-hippo|Augustine]]** on 28 August 430; within a generation a Vandal's Suebian
+  wife was buried in Augustine's own basilica.
 - Source: [[cameron-cah-v14-2000]] (Ch. 5, Ian Wood)

@@ -8,8 +8,8 @@ region: [mesoamerica, andes, caribbean, atlantic-world, southern-cone]
 process_type: [political, economic, demographic, cultural]
 driven_by: [[[spanish-conquest-of-mexico-1519]], [[spanish-conquest-of-peru-1532]], [[columbian-exchange-1492]], Iberian overseas expansion, [[global-silver-trade|silver]], [[atlantic-slave-trade|the Atlantic slave trade]]]
 produces: [[[latin-america-modern]], the [[casta-system|sociedad de castas]], a silver-based world economy, a vast Catholic mission field, [[spanish-american-independence|the independent republics]]]
-sources_ingested: 2
-last_updated: 2026-06-13
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, early-modern, mesoamerica, andes, atlantic-world]
 ---
 
@@ -101,8 +101,8 @@ Colonial Latin America sits at the intersection of several wiki processes: the
 [[columbian-exchange-1492|Columbian Exchange]] (its biological premise), the
 [[global-silver-trade|global silver trade]] (its economic motor), the
 [[atlantic-slave-trade|Atlantic slave trade]] (its labor regime in the plantation
-zones), and the early-modern expansion of the [[catholic-church|Catholic Church]]
-(its spiritual and cultural project). It is the proximate cause of
+zones), and the early-modern expansion of the Catholic Church
+([[spiritual-conquest-and-colonial-church|spiritual conquest]] as its cultural project). It is the proximate cause of
 [[latin-america-modern|modern Latin America]].
 
 ## End Conditions
@@ -127,6 +127,45 @@ study of the demographic collapse (see [[pre-columbian-american-population]]),
 the history of slavery and the *castas*, and gender history. The interpretive
 charge of the whole field is framed by the [[black-legend|Black Legend]] debate
 over Spanish cruelty, propaganda, and the ethics of conquest.
+
+## CHNPA II.2 — Mesoamerica native societies under colonial rule (MacLeod)
+
+*Edit-append from Murdo J. MacLeod, “Mesoamerica since the Spanish Invasion: An Overview,”
+[[cambridge-history-native-peoples-americas-v2-2|Cambridge History of the Native Peoples of
+the Americas, Vol. II Mesoamerica Part 2]] (2000). Full multi-century synthesis lives on
+[[colonial-mesoamerica-native-peoples]]; this section records only MacLeod’s framing of the
+**colonial** centuries within the broader Latin American colonial order.*
+
+For most of Mesoamerica the **first two centuries after the Spanish invasion** set the scene
+for related debates about change in native societies: nature, periodization, pace, and
+regional/temporal variation of change, without agreement on what change or stasis means.
+Recent trends attempt to see change/stasis from the native point of view (“from the inside
+out”), breaking with earlier models of oppression on a mostly passive mass. Comparative
+village/region approaches face baseline and equal-pressure data problems.
+
+**Spanish paternalism and the corporate village.** Received knowledge (challenged by Part 2
+chapters showing earlier state-level attacks) holds that the great assault on Native American
+society — especially communal lands — was **not** primarily colonial, although intrusions were
+common and often pervasive, but came during Mexico’s Liberal Reforma (focal villain the Ley
+Lerdo of 1856). Colonial Spanish paternalism treated natives as a protected caste of free but
+lowly Crown vassals; litigious indigenous villages and institutions (*cofradía*, *caja de
+comunidad*) provided partial shelter and outside brokers/patrons. After independence, ambitious
+regional elites structured government for profit and land access; cofradías, already weakened
+by late [[bourbon-reforms|Bourbon reforms]], came under renewed attack.
+
+**Institutional cluster shared with the wider colonial system.** MacLeod’s Mesoamerica deploys
+the same labor, resettlement, and Church tools as the empire-wide pages above —
+[[encomienda]], [[congregacion|congregación]]/[[reduccion|reducción]],
+[[spiritual-conquest-and-colonial-church|missions and cofradías]], [[hacienda]],
+[[casta-system|ethnic hierarchy]] — but stresses **extreme regional variation**: central Mexican
+continuity under native elites; southern extractive “neglect” (Yucatan, Oaxaca, highland Maya);
+northern wars of attrition and silver-mission complexes; zones of refuge on porous frontiers.
+Catastrophic [[virgin-soil-epidemics|demographic collapse]] (Caribbean and tropical coasts
+virtually emptied; highland losses up to ~90%) underwrote labor redesign and the
+[[black-legend|Black Legend]] / White Legend quarrel over responsibility.
+
+See [[colonial-mesoamerica-native-peoples]] for the full colonial-to-contemporary arc and
+regional process links.
 
 `[CONTRADICTION]` — **the colony and underdevelopment.** Burkholder & Johnson present
 the colonial order as a **complex, negotiated, internally varied** formation and
@@ -160,9 +199,11 @@ The colonial world's structures are now built out across linked pages:
 ## Related
 
 - [[spanish-conquest-of-mexico-1519]] · [[spanish-conquest-of-peru-1532]] — the two foundational conquests.
+- [[colonial-mesoamerica-native-peoples]] — CHNPA II.2 MacLeod overview of native Mesoamerica under and after colonial rule.
 - [[columbian-exchange-1492]] — the biological premise.
 - [[casta-system]] · [[hacienda]] · [[encomienda]] — society, the estate, and labor.
 - [[colonial-spanish-american-administration]] · [[spiritual-conquest-and-colonial-church]] — state and Church.
 - [[latin-america-modern]] — the successor world.
 - [[black-legend]] — the controversy that frames the field.
 - [[las-casas-bartolome]] — the conscience of the conquest debate.
+- [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]]

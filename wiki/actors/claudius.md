@@ -9,8 +9,8 @@ affiliated_with: [the [[julio-claudian-dynasty|Julio-Claudian house]]; the praet
 opposed_by: [Camillus Scribonianus and other pretenders; rivals among the old aristocracy; (in tradition) his wives Messallina and Agrippina]
 key_events: [acclamation by the praetorians (41), the [[claudian-conquest-of-britain-43ce|conquest of Britain]] (43), the fall of Messallina (48), marriage to Agrippina and adoption of [[nero]] (50)]
 key_processes: [the growth of the imperial administration through freedmen]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]
 ---
 
@@ -69,6 +69,15 @@ Claudius proved that an emperor could be made **wholly outside the Julian bloodl
 guard alone**, deepening the institutionalization of the *domus Caesaris* and its freedman
 administration. He was the third emperor in a row whose accession or death turned on the
 praetorians — the pattern that would explode in 68–69.
+
+## Beard (SPQR, 2015)
+
+Mary Beard notes that Claudius's comparatively favorable posthumous reputation — helped by
+not needing to be vilified by a hostile successor, unlike [[caligula]] — masks a grim record
+of political violence: one ancient tally puts roughly 35 of some 600 senators and 300
+equestrians put to death during his reign. Beard cites this as evidence for her broader
+argument (see [[roman-empire]]) that how an emperor was *remembered* tracked the manner of
+his death and succession far more than his actual conduct.
 
 ## Related
 

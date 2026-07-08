@@ -1,19 +1,18 @@
 ---
-title: "Kurt von Schleicher"
+title: Kurt von Schleicher
 actor_type: person
 date_start: 1882
 date_end: 1934
 period: [World Wars Era]
-region: [western-europe]
-affiliated_with: [Reichswehr, [[hindenburg-paul-von]] circle]
-opposed_by: [[[papen-franz-von]], [[adolf-hitler]]]
-key_events: [[[appointment-of-hitler-30-january-1933]], [[night-of-the-long-knives-1934]]]
-key_processes: [[[weimar-democracy-and-its-collapse]]]
-sources_ingested: [evans-coming-of-third-reich-2003]
-last_updated: 2026-07-02
-tags: [actor, person, world-wars-era, western-europe]
+region: ["western-europe"]
+sources_ingested: ["evans-coming-of-third-reich-2003", "shirer-rise-fall-third-reich-1960"]
+last_updated: "2026-07-03"
+tags: [actor, person, "world-wars-era", "western-europe"]
+affiliated_with: [Reichswehr, "[[hindenburg-paul-von]] circle"]
+key_events: ["[[appointment-of-hitler-30-january-1933]]", "[[night-of-the-long-knives-1934]]"]
+key_processes: ["[[weimar-democracy-and-its-collapse]]"]
+opposed_by: ["[[papen-franz-von]]", "[[adolf-hitler]]"]
 ---
-
 # Kurt von Schleicher
 
 Political general of the Reichswehr, master intriguer behind the presidential
@@ -67,6 +66,17 @@ last one.
 Evans (2003) is the ingested treatment; the "taming" strategy he embodied is
 the analytic through-line of the conservative-elite-responsibility literature
 (see [[weimar-democracy-and-its-collapse]], [[nazi-seizure-of-power-1933]]).
+
+## Shirer (1960) Additions
+
+- Background: entered military service at 18 in Hindenburg's old regiment (3rd Foot Guards), where he befriended Oskar von Hindenburg; became protégé/adjutant of General Groener; primarily a "desk officer" with little frontline service. Under Seeckt he helped organize the illegal Freikorps successor units and the secret "Black Reichswehr," and was a key figure in the secret arms-training arrangements with Soviet Russia.
+- Engineered Brüning's appointment as Chancellor (spring 1930) via influence with Hindenburg through Oskar; later orchestrated Groener's forced resignation as Defense Minister (May 1932) by smear campaign and public humiliation in the Reichstag, then Brüning's own dismissal (30 May 1932) by turning Hindenburg against him.
+- As Chancellor (from 2 December 1932, the first general in that post since Caprivi succeeded Bismarck in 1890), attempted to build a cross-class coalition of unions, some Nazis, and middle-class parties, but alienated industrialists and landowners with pro-labor rhetoric and a plan to redistribute 800,000 acres of bankrupt Junker estates in the East to 25,000 peasant families — this land-reform plan corroborates the "eastern land-reform scheme he read as socialism" line already on [[hindenburg-paul-von]]'s page from Evans, and gives it concrete acreage figures.
+- [EYEWITNESS/DOCUMENTARY quote] Schleicher's own bitter epitaph, given to the French ambassador: "I stayed in power only fifty-seven days, and on each and every one of them I was betrayed fifty-seven times. Don't ever speak to me of 'German loyalty'!"
+- His final maneuver, via emissary Werner von Alvensleben on the night of 29 January 1933 — warning of a possible Papen-Nazi deal and floating rumors of a Potsdam-garrison coup — was disbelieved and used against him by the Nazis to justify their own preemptive mobilization (see [[appointment-of-hitler-30-january-1933]]).
+- [SHIRER-THESIS]: Shirer frames Schleicher as the single most consequential "intriguer" behind Weimar's institutional collapse — more responsible than any other individual for wrecking the Army's above-politics tradition and destroying both Groener and Brüning — even though he ultimately turned against Hitler too late; a stronger personal-culpability framing than Evans's more structural "taming strategy" account already on this page.
+
+Source: [[shirer-rise-fall-third-reich-1960]].
 
 ## Related
 

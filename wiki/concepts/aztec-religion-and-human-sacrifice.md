@@ -1,12 +1,12 @@
 ---
 title: Aztec Religion and Human Sacrifice (the Fifth Sun)
 concept_type: cultural
-origin: the religious system of the Nahua peoples of Late Postclassic central Mexico, reconstructed from codices, the Templo Mayor excavations, and early colonial sources (Sahagún, Durán); synthesized by Frances Berdan
+origin: the religious system of the Nahua peoples of Late Postclassic central Mexico, reconstructed from codices, the Templo Mayor excavations, and early colonial sources (Sahagún, Durán); synthesized by Frances Berdan; expansion ideology noted in Charlton CHNPA II.1
 applies_to_periods: [Late Middle Ages, Early Modern]
 applies_to_regions: [mesoamerica]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -66,7 +66,25 @@ scholars weigh genuine cosmology against political theatre and against the Spani
 conquest. The reciprocal-debt logic, the Five Suns, and the Templo Mayor cult, however, are securely
 attested.
 
+## Expansion ideology (Charlton / Conrad & Demarest)
+
+Thomas H. Charlton's survey of Central Mexico after Tula ([[cambridge-history-native-peoples-americas-v2-1|CHNPA
+II.1]] Ch. 11) does **not** treat ritual mechanics of sacrifice in detail; its load-bearing claim for this
+page is political-ideological. Among the factors cited as significant for Triple Alliance expansion
+between A.D. **1430 and 1519** are structural changes after the fall of Azcapotzalco (destruction of local
+noble houses, succession crises, reduced resistance — Brumfiel) **plus the ideology of war for sacrificial
+victims** (Conrad and Demarest 1984:44). In Charlton's late-period synthesis, motivations for participation
+in imperial expansion include **religious fervor**, the **cult of captive sacrifices**, and individual
+social advancement (alongside structural tribute needs of a growing nobility and factional/ethnic dynamics).
+These are listed as partial, multi-causal factors — not a monocausal "sacrifice empire" thesis — and sit
+beside his insistence that descriptions of motives do not fully account for all expansion and complexity.
+
+The Templo Mayor excavations (Matos Moctezuma), which Berdan and Charlton both flag, remain the principal
+archaeological witness to the imperial cult at [[tenochtitlan|Tenochtitlan]]. For the event that opened the
+expansion era, see [[triple-alliance-formation-1428]].
+
 ## Related
 
-[[aztec-empire]] · [[tenochtitlan]] · [[aztec-economy]] · [[mesoamerican-calendar]] ·
-[[mesoamerican-state-formation]] · [[teotihuacan]] · [[berdan-aztecs-2021]]
+[[aztec-empire]] · [[tenochtitlan]] · [[aztec-economy]] · [[triple-alliance-formation-1428]] ·
+[[mesoamerican-calendar]] · [[mesoamerican-state-formation]] · [[teotihuacan]] ·
+[[berdan-aztecs-2021]] · [[cambridge-history-native-peoples-americas-v2-1]]

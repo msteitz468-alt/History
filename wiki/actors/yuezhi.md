@@ -9,8 +9,8 @@ affiliated_with: ["[[zhou-dynasty]] (trade)", "Kangju", "Greco-[[bactria|Bactria
 opposed_by: ["[[xiongnu]]", "[[modu-chanyu|Modu]]", "the Wusun", "the Saka"]
 key_events: [Xiongnu defeat of the Yuezhi c. 166 BCE, the thirty-year migration, conquest of Bactria c. 130 BCE, rejection of Zhang Qian's alliance c. 128 BCE]
 key_processes: [[[pastoral-nomadism]], [[silk-roads]], [[trade-network-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, movement, classical-antiquity, central-asia, eurasian-steppe]
 ---
 
@@ -65,6 +65,10 @@ and even minting coins in imitation of Greco-Bactrian issues. The graves at **Ti
 Tiberius, may belong to one princedom (identification contested). In the mid-first
 century CE the ruler of the **Guishuang** princedom, [[kujula-kadphises|Kujula Kadphises]],
 reunified the five and founded the Kushan Empire — see [[kushan-empire]].
+
+## Bopearachchi: archaeological traces of the conquest and steppe-cavalry iconography
+
+Osmund Bopearachchi's chapter in [[sources/kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]] confirms the Yuezhi's conquest of Bactria (alongside the Scythians/Saka) is tracked archaeologically rather than textually, since neither group minted coins before settling on the northwest frontier: kurgan burial mounds and artifact finds at Pasirik (Altai), Orlat and Khalchayan (Sogdiana), Tiliya Tepe (Bactria), and Jelalabad (Afghanistan) supply the primary evidence for their expansion, corroborating the numismatic dating of the Yuezhi's final overpowering of Greco-Bactrian rule to c. 130 BCE (see [[bactria]], [[greco-bactrian-kingdom]]). Bopearachchi also traces a specific artistic legacy of this steppe cavalry culture: the armored horseman ("cataphractus") motif introduced on Scythian/Saka coinage was subsequently "Indianized" and recurs widely in Gandhāran Buddhist iconography (as guardian figures and as Mara's soldiers) — part of the broader Hellenistic-to-Gandhāran artistic synthesis; see [[gandharan-art]].
 
 ## Historiography
 

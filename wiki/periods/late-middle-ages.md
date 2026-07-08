@@ -49,6 +49,18 @@ the Delhi Sultanate, the Maldives, Yuan China ports, Anatolian brotherhoods, and
 
 **Causal links (this source only):** Invasion caused_by direct attacks + conscription + plague contributed_to demographic/economic dislocation but also population redistribution that enabled Tver’/Moscow dynamism. Khan patents caused_by princely competition for favour overrode (not merely preceded_by) traditional Riurikid seniority, enabling Daniilovich ascendancy. Novgorod silver trade contributed_to both Rus’ recovery and Moscow/Tver’ envy; boyar reforms preceded_by (and responded to) wealth concentration and anti-boyar tensions. Kulikovo demonstrated coalition capacity (produced_by Dmitrii’s internal consolidation) but Tokhtamysh demonstrated continued Horde military superiority (followed_by resubmission). Civil war resolved vertical succession in Muscovy (caused_by dynastic will + khan weakness + selective alliances). Lithuania expansion concurrent_with but contrasted_with Muscovite consolidation.
 
+**Byzantine "small-state economics" and decline.** After the [[fourth-crusade-1204|Fourth
+Crusade's capture of Constantinople (1204)]] the unified Byzantine economic space shattered
+into Latin and Greek successor states (Laiou & Morrisson,
+[[laiou-morrisson-byzantine-economy-2007|*The Byzantine Economy*]]). Fragmentation multiplied
+currencies and transaction costs; commerce and manufacture passed to the Italians (Byzantine
+silk and pottery could not compete with Venice, Genoa and Lucca); the *hyperpyron* was
+debased away and **gold coinage abandoned after 1353**. The late Palaiologan state, harshly
+fiscal yet giving away its revenue base (Constantinople's 10% *kommerkion* vs. Genoese Pera's
+2%), effectively **abandoned the economy**, its merchants surviving as junior "comprador"
+partners of the Italians. See [[byzantine-economy|the Byzantine economy]] and
+[[latin-romania-economy|Latin Romania]].
+
 **The integrated Eurasian system at its peak.** Under the Pax Mongolica, merchants,
 missionaries, and envoys (Marco Polo, Ibn Battuta, Rabban Sauma) crossed Eurasia
 end to end; a single silver-based monetary stratum and the

@@ -8,8 +8,8 @@ region: [mesoamerica]
 process_type: demographic
 driven_by: [migration, volcanic displacement, trade-route advantages, religious authority, elite competition, Cuicuilco decline]
 produces: [[[teotihuacan]] (city-state), [[basin-of-mexico]] hegemony, Tzacualli-phase urban grid]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, classical-antiquity, late-antiquity, mesoamerica, americas]
 ---
 
@@ -162,6 +162,43 @@ Tzacualli material, while the southeastern Basin depopulated almost entirely. Tz
 related wedge-rim ollas spread into eastern Morelos, possibly indicating migration or trade
 connections, though Morelos was probably not yet under Teotihuacan political control.
 
+## Coercion, caves, and multi-polity rivalry (Cowgill CHNPA 2000)
+
+Cowgill’s CHNPA synthesis sharpens several formation claims already latent in the 2015
+monograph:
+
+**Multi-polity competition.** Tezoyuca Complex ceramics on small hilltop centers (early
+Patlachique) suggest warfare; Steponaitis-type analyses and other data imply tribute
+extraction by regional centers. *Perhaps* [[cuicuilco|Cuicuilco]] and Teotihuacan defeated
+all others and became sole Basin rivals until Cuicuilco was crippled by lava — framed as
+probable/speculative, not proven sequence.
+
+**Location not explained by irrigation alone.** The new Patlachique–Tzacualli center, about
+a kilometer west of the later Moon Pyramid, grew explosively to ~20 km² by period’s end yet
+lay **more than 2 km farther from prime spring farmland**, with no obvious defensive
+advantage. Cave entrances in the Patlachique core and cave ritual under the Sun Pyramid make
+it likely that **religion connected with caves** played a significant role in location and
+rapid growth.
+
+**Basin-wide nucleation and coercion.** Population by end of Patlachique–Tzacualli may have
+been ~60,000–80,000 (uncertain). Around A.D. 1 almost the entire Basin population seems to
+have moved into Teotihuacan. Commercial and sacred attractions are insufficient alone:
+relocation put farmers far from southern good land, so “almost surely a considerable degree
+of coercion was required… probably involving both naked force and religious sanctions”
+(Cowgill 2000). By period’s end Teotihuacan “surely” exercised tight political control over
+the entire Basin; extension beyond remains unclear (eastern Morelos Tzacualli ceramics
+without clear political control).
+
+**Formation model (explicitly speculative).** Not commerce alone (specialized obsidian
+production was present but insufficient). Likely combination of powerful religious
+attraction, successful warfare, and politically skilful leadership; the state deeply involved
+in rain/vegetation/fertility religion; warfare probably sacralized; explosive growth via
+violence plus religiously based legitimate authority more likely than naked force alone.
+
+Sun Pyramid construction began with the population movement; by period’s end nearly final
+volume ~1 million m³ over a natural cave altered by Teotihuacanos — sacred significance
+(origin myths) as immediate siting reason (Millon 1981).
+
 ## End Conditions
 
 The formation process ends, and the mature city begins, with the Miccaotli phase (c. 100–
@@ -178,4 +215,4 @@ confident period.
 - `[[teotihuacan-ceramic-phases]]` — concept; the primary dating tool for this process
 - `[[mesoamerican-state-formation]]` — broader process; this is part_of
 - `[[urbanism]]` — concept; concurrent_with
-- Source: `[[cowgill-ancient-teotihuacan-2015]]`
+- Source: `[[cowgill-ancient-teotihuacan-2015]]` · `[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6]]`

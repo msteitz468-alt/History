@@ -100,4 +100,6 @@ The Vietnam case is the clearest illustration of what Tarling characterizes as t
 
 ## Historiography
 
+The step-by-step military and diplomatic subjugation is treated on its own page: [[french-conquest-of-vietnam-1858-1885|the French conquest of Vietnam (1858–1885)]], which draws on K. W. Taylor's [[taylor-history-of-the-vietnamese-2013|*A History of the Vietnamese*]].
+
 French Indochina is among the most extensively studied of all Southeast Asian colonial systems, in both French and Vietnamese scholarship. The key debates concern: (1) the metropolitan vs. local-initiative question — Ferry's role was crucial but local officers in Saigon frequently drove expansion that Paris then ratified; (2) the nature and scale of Vietnamese resistance — the Cần Vương movement and subsequent guerrilla resistance have been extensively studied, particularly since Vietnamese independence; (3) colonial economic exploitation and the peasantry (Paul Mus, Charles Robequain, and subsequent scholars); (4) the missionary dimension — the Missions Étrangères' lobbying was a genuine driver of French policy, not merely a legitimizing rationale. The Bibliotheca Alexandrina covers this period moderately well via the CHSEA and related specialist monographs; primary Vietnamese sources are less well represented in the collection.

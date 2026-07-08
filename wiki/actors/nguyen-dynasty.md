@@ -25,8 +25,8 @@ key_events:
   - Bao Dai's abdication 1945
 key_processes:
   - "[[colonialism-in-southeast-asia]]"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-03
 tags:
   - actor
   - dynasty
@@ -58,6 +58,38 @@ The Nguyen dynasty consciously modeled itself on the Chinese imperial system. Mi
 The Nguyen case is the clearest illustration in the mainland of what Tarling identifies as a missed option. "For the Vietnamese, the best chance was to come to terms with the major power [Britain] so as better to resist any other." The British would have accepted Vietnamese independence in exchange for commercial access and extraterritorial rights — the same deal Siam accepted under the Bowring Treaty (1855). But the Nguyen court, "poorly informed in any case, were unable to take advantage of the option." A Catholic mandarin, Nguyen Truong To, who argued for Western-style reforms and engagement, recognized the contrast with Siam: "However, when it engaged in contact with Westerners, that country knew how to wake up to reality immediately."
 
 The failure was not merely tactical. The Confucianist consensus that the dynasty had deepened made it structurally impossible to prioritize commercial accommodation: "Commerce was not a general boon but a limited monarchical perquisite." Missionary activity recalled civil war and foreign intervention in the collective memory of the court. The best option — accommodation with Britain, exclusion of France — required precisely the kind of outward-looking flexibility that the dynasty's ideological consolidation had foreclosed.
+
+## Taylor (2013): a new and fragile country
+
+K. W. Taylor's [[taylor-history-of-the-vietnamese-2013|*A History of the Vietnamese*]] frames the dynasty
+not as the restoration of an old nation but as a **new construction**: "the country that appeared at the
+beginning of the nineteenth century stretching from the southern border of China to the eastern border of
+Cambodia had never existed before." Its founder [[gia-long|Gia Long]] emerged from the
+[[tay-son-rebellion-1771-1802|Tay Son wars]] as the heir of the southern [[nguyen-lords|Nguyen lords]], not
+of the northern dynastic tradition.
+
+- **The name "Viet Nam."** In 1802 Gia Long's envoys proposed *Nam Viet* (invoking Zhao To's ancient
+  kingdom); the Qing objected because that name carried connotations of rebellion against the Han, and after
+  nearly a year settled on the reversed **Viet Nam** to avoid any "unpropitious connotation of
+  insubordination and separatism." The name was not in common usage until the 1910s–30s; the dynasty renamed
+  the realm **Dai Nam** ("Great South") in 1838.
+- **A capital in the wrong place.** Hue lay ~650 km from Hanoi and ~900 km from Saigon and lacked a real
+  seaport; "the disconnection of Hue from the rest of the country became increasingly obvious as time went
+  on," a structural weakness Taylor blames on "palace-bound routines and limited perspectives."
+- **Two governing styles.** Gia Long "ruled with a relatively light touch," delegating to trusted wartime
+  viceroys — [[le-van-duyet|Le Van Duyet]] in the south, Nguyen Van Thanh in the north. His **Gia Long Code
+  (1812)** deliberately adapted the **Qing** code rather than the northern **Le** code, since the south had
+  two centuries of frontier governance and no standardized civil law. [[minh-mang|Minh Mang]] reversed
+  course, forcing centralization: the **Six Provinces (Luc Tinh) reorganization of 1832** abolished the
+  semi-autonomous Saigon viceroyalty, and the assimilationist pressure provoked the
+  [[le-van-khoi-rebellion-1833-1835|Le Van Khoi rebellion]] and war with [[siam-chakri-dynasty|Siam]] over
+  Cambodia (see [[khmer-empire|Khmer]]).
+- **Why the French came.** Against the standard emphasis on the missionary question, Taylor argues
+  Christianity was "superficially apparent" but "not fundamental": the drive was a naval base and a river
+  route to the "back door of China," and rivalry with Britain. "Men with little patience for religion built
+  French Indochina." He stresses a fatal contrast with Japan — Vietnamese leaders "phlegmatically watched"
+  the French fleet build up for two decades without adapting. The colonial endgame is treated on the
+  [[french-conquest-of-vietnam-1858-1885|French conquest]] page.
 
 ## Historiography
 

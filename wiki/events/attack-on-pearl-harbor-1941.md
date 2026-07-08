@@ -5,14 +5,14 @@ date_end: "1941-12-07"
 date_precision: exact
 period: ["world-wars-era"]
 region: [pacific, "east-asia"]
-causes: ["[[world-war-ii-1939-1945]], Japanese expansion in Asia, US oil embargo, strategic surprise attack to neutralize US Pacific Fleet"]
-consequences: ["[[battle-of-midway-1942]], US entry into WWII, \"day that will live in infamy"]
-sources_ingested: [2]
-last_updated: "2026-07-02"
+causes: ["[[world-war-ii-1939-1945]]", Japanese expansion in Asia, US oil embargo, strategic surprise attack to neutralize US Pacific Fleet]
+consequences: ["[[battle-of-midway-1942]]", US entry into WWII, "\\\"day that will live in infamy"]
+sources_ingested: [3]
+last_updated: "2026-07-03"
 tags: [event, battle, "world-wars-era", pacific, warfare]
 event_type: battle
 location: [Pearl Harbor, Hawaii]
-actors_primary: ["is oroku-yamamoto, Chester Nimitz, Franklin D Roosevelt"]
+actors_primary: ["is oroku-yamamoto", Chester Nimitz, Franklin D Roosevelt]
 actors_secondary: [Husband Kimmel]
 scale_consequential: global
 scale_immediate: regional
@@ -65,8 +65,17 @@ American people during the period before Pearl Harbor," while defending the
 deception as necessary. Positions recorded at
 [[controversies/roosevelt-and-new-deal-revisionism]].
 
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Hitler personally pledged unconditional German support to Japan against the U.S. twice before Pearl Harbor: to Foreign Minister Matsuoka on 4 April 1941 ("If Japan got into a conflict with the United States, Germany on her part would take the necessary steps at once") and via Ribbentrop to Ambassador Oshima on 28 Nov 1941 ("Should Japan become engaged in a war against the United States Germany, of course, would join the war immediately"). U.S. "Magic" code-breaking (operational since late 1940) let Hull and Roosevelt read intercepted Japanese cables in real time, including Foreign Minister Togo's 22 Nov 1941 message extending negotiations to 29 Nov ("After that things are automatically going to happen"). Pearl Harbor caught Berlin completely by surprise: a Foreign Office press official who phoned Ribbentrop with the news was told it was "probably a propaganda trick of the enemy" and to leave him undisturbed until morning; Ribbentrop later told Ciano by phone he was "joyful," though at Nuremberg he claimed — per Shirer, "probably truthfully for once" — that "this attack came as a complete surprise to us."
+
+Hitler hesitated over a formal declaration of war for two days. Ribbentrop's Nuremberg account of the decisive conversation has Hitler reasoning: "If we don't stand on the side of Japan, the Pact is politically dead. But that is not the main reason. The chief reason is that the United States already is shooting against our ships." War was formally declared 11 Dec 1941. [SHIRER-THESIS] Shirer judges Hitler grossly overestimated Japanese naval power, later calling Japan's timing "of exceptional value to us... at the moment when the surprises of the Russian winter were pressing most heavily" — a rationalization, in Shirer's reading, for a strategically catastrophic decision that brought full U.S. industrial power into the war against Germany without any coordinated German-Japanese strategy (Japan never attacked the USSR despite repeated German pressure).
+
+Source: [[shirer-rise-fall-third-reich-1960]]
+
 ## Related
 
 - Analysis: [[hubs/warfare/world-wars-era/second-world-war/attack-on-pearl-harbor-1941]]
 - Main war: [[events/world-war-ii-1939-1945]]
 - Hub: [[hubs/warfare/world-wars-era/second-world-war/second-world-war]]
+- Source: [[shirer-rise-fall-third-reich-1960]]

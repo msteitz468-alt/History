@@ -9,8 +9,8 @@ affiliated_with: [[[palmyra]]]
 opposed_by: [[[aurelian]], [[sasanian-empire]]]
 key_events: []
 key_processes: [[[third-century-crisis]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, near-east]
 ---
 
@@ -46,10 +46,40 @@ Rome itself**. The prevailing tendency was **centripetal**: there was strikingly
 separatism, even at the empire's lowest ebb. Zenobia's career is the most spectacular instance of
 **local self-help** that, in the end, was reabsorbed into the empire.
 
+## From Ball, *Rome in the East* (2000)
+
+Warwick Ball supplements the Classical account with the **Arabic tradition** (chiefly
+al-Tabari), which gives Zenobia a clearer origin than the apocryphal Classical genealogy
+(Seleucid/Ptolemaic descent) or the Arab legend linking her to the Queen of Sheba. In this
+tradition she belonged to the **'Amlaqi tribe** — one of Palmyra's four founding tribes, the
+same as [[odaenathus|Odaenathus]] — and her father **'Amr Ibn Zarib**, the tribe's shaikh, was
+killed in war with the rival **[[tanukhids|Tanukh]]**; she led the tribe as its nomadic head
+before her marriage. Ball notes she spoke Palmyrene Aramaic natively (with Egyptian and Greek,
+but only halting Latin), and that Manichaean sources claim **Mani's missionaries converted her
+to Manichaeism**.
+
+Ball is sharply sceptical of the romantic "glittering salon" tradition: only the philosopher
+**Cassius Longinus** is firmly attested at her court (and he reportedly complained there was no
+decent library), and no surviving building can be securely ascribed to her — her roughly
+five-year rule was consumed by campaigning, not construction.
+
+**Ball's central reinterpretation** reinforces, from a different angle, Drinkwater's
+"centripetal" reading below: he argues there was **no separatist "Palmyrene Empire"** and no
+"Arab revolt." Zenobia and Odaenathus aimed to *rule* the Roman empire, not secede from it — the
+Antioch coinage of 270–271 shows Vaballathus first alongside Aurelian, then as *Augustus* with
+Zenobia as *Augusta*, an assertion of Roman imperial claim in the tradition of Syrian-based
+purple-claimants since Vespasian. "Hers was no Palmyrene Empire," Ball writes, "just as
+Septimius' was no Libyan Empire." He further argues Aurelian's brutal second sack (273) is best
+explained by Rome's post-crisis fiscal desperation and a loot-hungry army, and that in razing
+Palmyra Aurelian "had unwittingly done more than most emperors to destroy the very empire he
+tried to restore" — removing Rome's last desert buffer and a great source of commercial wealth.
+This native-agency reading is part of Ball's wider [[orientalization-of-rome]] thesis
+([[orientalization-of-rome-thesis|debate]]).
+
 ## Related
 
-- Her city and power-base: [[palmyra]]; her overthrow by [[aurelian]]; the contemporary
-  [[gallic-empire|Gallic Empire]]
+- Her city and power-base: [[palmyra]]; her husband [[odaenathus|Odaenathus]]; her overthrow by
+  [[aurelian]]; the contemporary [[gallic-empire|Gallic Empire]]
 - The crisis context: [[third-century-crisis]]; the [[sasanian-empire|Sassanid]] wars that first
-  raised Palmyra's importance
-- Source: [[bowman-cah-v12-2005]] (Ch. 2, John Drinkwater)
+  raised Palmyra's importance; the [[capture-of-valerian-260|capture of Valerian]] that opened her rise
+- Sources: [[bowman-cah-v12-2005]] (Ch. 2, John Drinkwater); [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]]

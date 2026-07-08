@@ -9,8 +9,8 @@ affiliated_with: [[[roman-republic]], the Sempronii Gracchi; allies P. Mucius Sc
 opposed_by: [the Senate majority, M. Octavius, Scipio Nasica]
 key_events: [the tribunate and agrarian law of 133, his death]
 key_processes: [[[agrarian-crisis-roman-republic]], [[optimates-populares]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
@@ -52,6 +52,15 @@ Fulvius Flaccus) and the rising census figures of 131–125 attest the law's rea
 
 ## Historiography
 
+**Beard ([[sources/beard-spqr-2015|SPQR]], 2015)** is skeptical of the traditional
+economic-crisis reading (mass displacement of smallholders by slave-worked ranches):
+archaeology instead shows "widespread survival of small-scale farms," so "many
+historians now think that, if his motives were sincere, Tiberius seriously misread
+the situation." She also treats the 133 crisis as crystallizing an already-latent
+*populares*/*optimates* divide rather than shattering a prior consensus — Cicero's
+picture of a calm pre-133 harmony between rich and poor is, in her words, "at best a
+nostalgic fiction."
+
 The friendly tradition in **Plutarch** and **Appian** derives ultimately from his
 brother [[gaius-gracchus|Gaius']] memoir; hostile accounts (Florus, via Posidonius)
 cast him as an incipient tyrant. The reliability of the speeches and the legality of
@@ -62,5 +71,5 @@ his acts (the deposition, the re-election bid) are central debates. See
 
 - Brother: [[gaius-gracchus]] · process: [[agrarian-crisis-roman-republic]]
 - Opponents: [[scipio-aemilianus]] (approved the killing) · concept:
-  [[optimates-populares]] · [[senatus-consultum-ultimum]] (its sequel under Gaius)
-- Source: [[crook-cah-v9-1992]] (Ch. 3, Lintott)
+  [[optimates-populares]] · [[mos-maiorum]] · [[senatus-consultum-ultimum]] (its sequel under Gaius)
+- Source: [[crook-cah-v9-1992]] (Ch. 3, Lintott) · [[duncan-storm-before-the-storm-2017]]

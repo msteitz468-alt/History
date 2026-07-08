@@ -15,8 +15,8 @@ produces:
   - compound-level corporate group identity
   - neighborhood-scale ritual and craft organization
   - ethnic enclave formation
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, mesoamerica, late-antiquity]
 ---
 
@@ -74,9 +74,22 @@ Compounds varied considerably in quality and wealth. High-status compounds such 
 
 Ian Robertson's neighborhood analyses found markers of wealth inequality increasing across time from the Miccaotli through Xolalpan phases, with divergence accelerating in the terminal period. Sempowski's data suggest that late in the city's history "these compounds increasingly differed from one another in the wealth deposited in burials. In some, although not all, grave offerings were markedly impoverished relative to those of the Xolalpan phase" (Ch. 9). This growing differentiation may have contributed to the social tensions preceding collapse.
 
+## Scale variation and social unit (Cowgill CHNPA 2000)
+
+Cowgill stresses that the distinctive apartment compound became very widespread and
+eventually housed nearly the entire city. Size was highly variable: roughly one-quarter of
+residential space under 2,000 m², one-quarter over 4,500 m², extremes below 1,200 and above
+6,400 m². Most compounds housed several extended families; many probably held sixty or more
+individuals. Occupants of a compound probably formed a social unit **above the extended
+family/household level but below the barrio level** — a distinctive factor in Teotihuacan
+social constitution (Millon). Concrete-surfaced compounds begin by ~A.D. 200 and become
+typical by ~A.D. 300; they are absent from the Patlachique–Tzacualli city of adobe/perishable
+residences.
+
 ## End Conditions
 
-The apartment compound system collapsed with the Teotihuacan state around 550–650 CE. Signs of rapid abandonment in La Ventilla — artisans' tools and unfinished objects left in place — suggest the process was abrupt rather than gradual. San Martín Orange Ware ceased production: market conditions no longer supported its degree of specialization. Candeleros and composite censers disappeared. The Coyotlatelco occupants who reused the city's residential areas did not reproduce the apartment compound system in its Teotihuacan form.
+The apartment compound system collapsed with the Teotihuacan state around 550–650 CE (date
+range disputed; see [[teotihuacan-collapse-550ce]]). Signs of rapid abandonment in La Ventilla — artisans' tools and unfinished objects left in place — suggest the process was abrupt rather than gradual. San Martín Orange Ware ceased production: market conditions no longer supported its degree of specialization. Candeleros and composite censers disappeared. Post-destruction material culture shows the **apartment-compound residential type itself disappears** along with talud-tablero temple style (Cowgill 2000). The Coyotlatelco occupants who reused the city's residential areas did not reproduce the apartment compound system in its Teotihuacan form.
 
 ## Related Pages
 
@@ -85,4 +98,4 @@ The apartment compound system collapsed with the Teotihuacan state around 550–
 - [[teotihuacan-political-organization]] — the compound system as evidence of corporate governance
 - [[teotihuacan-collapse-550ce]] — end of the compound system
 - [[zapotec]] — Oaxacan ethnic enclave at Teotihuacan
-- [[cowgill-ancient-teotihuacan-2015]]
+- [[cowgill-ancient-teotihuacan-2015]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6]]

@@ -9,8 +9,8 @@ affiliated_with: [the [[huns|Hunnic Empire]], briefly the western court of Aetiu
 opposed_by: [[[eastern-roman-empire-425-518|the Eastern Roman Empire]], the Western Roman Empire, the [[visigoths|Visigoths]]]
 key_events: [the Balkan campaigns (441–447), the invasion of Gaul (451) and the battle of the Catalaunian Plains, the invasion of Italy (452)]
 key_processes: [the consolidation and collapse of the [[huns|Hunnic Empire]], the fiscal pressure on the late Roman state]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, steppe, eastern-europe]
 ---
 
@@ -52,6 +52,10 @@ reading, the human face of the **exogenous shock** that destabilized the West.
 - `contributed_to:` the [[fall-of-the-western-roman-empire-476|fall of the western Empire]]
   — indirectly, by displacing the peoples who dismembered it, not by direct conquest.
 
+## Succession and the empire's fragmentation (Kim 2017)
+
+Hyun Jin Kim (Kim et al. 2017) treats the collapse of Attila's empire after his death (453 CE) as following the same pattern as earlier [[xiongnu|Xiongnu]] successions: an unresolved dispute among Attila's heirs over the distribution of "fiefs"/territories among the royal kin, rather than a simple military overthrow by subject peoples alone (Priscus fr. 25; Jordanes, *Getica* 50). Kim reads Attila's own earlier elimination of rival kin to secure sole rule as an instance of the Inner Asian dynastic-succession pattern he argues recurs (via Hunnic influence) among the early [[merovingian-franks|Merovingian]] kings — see [[steppe-empire-political-organization]] for the fuller, contested thesis.
+
 ## Historiography
 
 Attila is known almost entirely through **hostile Roman sources** — Priscus (preserved in
@@ -67,4 +71,4 @@ the leader who extracted them.
 - Polity: [[huns|the Hunnic Empire]] · adversary states: [[eastern-roman-empire-425-518|East Rome]] · the West
 - Context: [[late-antiquity|Late Antiquity]] · the [[fall-of-the-western-roman-empire-476|fall of the West]]
 - Peoples he dominated and released: [[ostrogoths|Ostrogoths]] · [[visigoths|Visigoths]] · [[vandal-kingdom|Vandals]]
-- Source: [[sources/heather-fall-roman-empire-2005|Heather, The Fall of the Roman Empire (2005)]]
+- Source: [[sources/heather-fall-roman-empire-2005|Heather, The Fall of the Roman Empire (2005)]]; [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]]

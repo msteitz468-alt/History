@@ -9,8 +9,8 @@ affiliated_with: [[[severan-dynasty]], [[roman-imperial-army]]]
 opposed_by: [[[pescennius-niger]], [[clodius-albinus]], [[parthian-empire]]]
 key_events: [[[year-of-the-five-emperors-193]], [[constitutio-antoniniana-212]]]
 key_processes: [[[militarization-of-the-roman-state]], [[romanization]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, north-africa]
 ---
 
@@ -61,11 +61,28 @@ Severus refounded the Principate on a broader, more military and more provincial
 held by **securing the army's loyalty**, he entrenched the very dynamic that would unravel into the
 [[third-century-crisis|crisis of the third century]] a generation after his death.
 
+## Ball's Phoenician Severus (2000)
+
+Warwick Ball's *[[ball-rome-in-the-east-2000|Rome in the East]]* reads Severus through his
+[[orientalization-of-rome|orientalization]] thesis, emphasising his **Phoenician/Punic** roots
+(nicknamed "Punic Sulla," he spoke Latin with a Punic accent; his sister reportedly never spoke
+it properly). Ball frames Severus's posting to Syria as a young officer (c. 180) as "a journey
+back to Phoenician roots" — he revived the ancient provincial name *Phoenice*, consulted native
+oracles (reputedly receiving intimations of his destiny at the oracle of Zeus Belos at
+[[apamea|Apamaea]]), and married **[[julia-domna|Julia Domna]]** of the Emesene priestly line
+c. 183. Ball reads Severus's monumental rebuilding of his birthplace **[[lepcis-magna|Lepcis
+Magna]]** as "a conscious oriental transplant in the West" — a Severan Arch, a colonnaded street
+to a circular plaza, a kalybe nymphaeum and a temple-dominated Forum modelled (Ball argues) on
+[[baalbek|Baalbek]] and Palmyra rather than the Forum of Trajan, all funded by Emesene temple
+wealth. He also notes Severus's strategic **division of Syria** into Coele Syria and Syria
+Phoenice. These are Ball's interpretive claims (see the [[orientalization-of-rome-thesis|debate]]).
+
 ## Related
 
 - The dynasty he founded: [[severan-dynasty]]; his son [[caracalla|Caracalla]] and the
-  [[constitutio-antoniniana-212|universal citizenship grant]]
+  [[constitutio-antoniniana-212|universal citizenship grant]]; his wife [[julia-domna|Julia Domna]]
+- Ball's thesis: [[orientalization-of-rome]] · [[lepcis-magna]] · [[emesene-dynasty]]
 - The system he inherited from the [[high-empire|High Empire]]: [[roman-imperial-army]],
   [[high-imperial-senatorial-order]], [[roman-provincial-administration]]; the looming
   [[third-century-crisis]]
-- Source: [[bowman-cah-v12-2005]] (Ch. 1, Brian Campbell)
+- Sources: [[bowman-cah-v12-2005]] (Ch. 1, Brian Campbell); [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]]

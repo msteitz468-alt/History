@@ -3,10 +3,10 @@ title: Chiefdom
 concept_type: analytical
 origin: "Neo-evolutionary anthropology (Service, Fried, 1960s–70s); refined by Earle, Carneiro, Spencer, and the network/corporate model of Blanton et al. (1996)"
 applies_to_periods: [Neolithic, Chalcolithic, Early Bronze Age, and others]
-applies_to_regions: [china, mesoamerica, andes, near-east, mediterranean, polynesia]
+applies_to_regions: [china, mesoamerica, andes, near-east, mediterranean, polynesia, north-america, eastern-north-america]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-26
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, analytical, social-evolution]
 ---
 
@@ -62,10 +62,47 @@ settlement and mortuary data]]**, not as a rung on a unilineal ladder — consis
 multi-causal, non-sequential model. Compare the chiefdom-to-state transitions in
 [[mesoamerican-state-formation]] and [[andean-state-formation]].
 
+## North America (Cordell & Smith; Smith, CHNPA I.1)
+
+*part_of:* [[band-tribe-chiefdom-state]]; *contributed_to:* [[north-american-states-debate]].
+
+Cordell & Smith (ch. 4) use “**chiefdom level of socio-political organization**” for ranked
+eastern agricultural societies deferred to Chapter 5; for the Southwest they explicitly
+**deny state-level organization** and **stable hierarchical regional systems** while allowing
+debated alliances, sequential hierarchies (Gregory A. Johnson), and fleeting differentiation
+(Hohokam compound elites, Chaco towns).
+
+Bruce D. Smith (ch. 5) operationalizes Mississippian polities as midrange “**chiefdom**”-level
+societies — explicitly using that label for regional-scale/complex chiefdoms and for
+[[cahokia]]’s integration mechanisms by analogy to other midrange chiefdom groups — **not as
+states**. Integration of other mound-centered societies most likely involved extension of
+existing and overlapping networks of status and obligation; such regional-scale or complex
+chiefdoms are **quite unstable** (chiefdom cycling: rapid rise and decline, multi-century
+trajectories, or periodic mound-center relocation).
+
+**Archaeological/ethnohistoric load-bearing features (Smith):** mound centers as seats of
+socio-political power; plazas for feasts/ceremonies of social integration keyed to seasonal
+cycle; flat-topped mounds supporting corporate structures including mortuaries displaying
+remains of important personages with status objects. Abstract offices (from historical
+analogs) sort into spiritual mediation vs. secular internal management and external
+relations/defense. Warfare often chronic small-scale border raids reaffirming autonomy rather
+than expansion; tributary relations ranged from token tribute through seasonal agricultural
+demands to wholesale incorporation as second tier in “complex”/“regional” chiefdoms.
+Archaeological recognition of complex chiefdoms uses larger multi-mound centers, elite burial
+richness, complex mortuary programs. European diseases (and to a lesser extent cultural
+domination) caused rapid nearly universal disappearance of chiefdom-level organizations in
+much of the East after sixteenth-century contact (Vacant Quarter as major pre-contact
+exception of interior collapse).
+
+**Preserved hedges:** do not upgrade Cahokia or Chaco to “state” in wiki voice; record
+positions on [[north-american-states-debate]]. Maize was an enabling surplus lever for
+inequality, **not** a prime mover of Mississippian culture (Smith).
+
 ## Related
 
-- Concept: [[state-formation]] · [[settlement-archaeology]] · [[heterarchy]]
-- Cultures/sites: [[longshan-culture]] · [[taosi]] · [[erlitou-culture]]
-- Process: [[early-china-state-formation]]
+- Concept: [[state-formation]] · [[settlement-archaeology]] · [[heterarchy]] · [[band-tribe-chiefdom-state]]
+- Cultures/sites: [[longshan-culture]] · [[taosi]] · [[erlitou-culture]] · [[cahokia]] · [[mississippian-culture]] · [[chaco-canyon]] · [[hohokam]]
+- Process: [[early-china-state-formation]] · [[north-american-agricultural-transition]]
+- Controversy: [[north-american-states-debate]]
 - Analogous: [[mesoamerican-state-formation]] · [[andean-state-formation]]
-- Source: [[liu-chinese-neolithic-2004]]
+- Sources: [[liu-chinese-neolithic-2004]] · [[sources/cambridge-history-native-peoples-americas-v1-1]]

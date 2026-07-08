@@ -9,8 +9,8 @@ affiliated_with: ["the [[indianization-of-southeast-asia|Indianized]] Khmer; the
 opposed_by: ["the Cham (Champa)", "later the Thai (Ayutthaya)"]
 key_events: ["Jayavarman II's consecration & the devaraja (802)", "Suryavarman II builds Angkor Wat (12th c.)", "the Cham sack of Angkor (1177)", "Jayavarman VII's rebuilding (Angkor Thom, the Bayon)"]
 key_processes: ["[[indianization-of-southeast-asia]]", "[[state-formation]]", "hydraulic agriculture"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-03
 tags: [actor, empire, high-middle-ages, southeast-asia]
 ---
 
@@ -90,7 +90,20 @@ court shifted south toward **Phnom Penh**, oriented to maritime trade. On the *e
 for the hinterland population. The Khmer survived as the smaller kingdom of **Cambodia**; Angkor Wat
 became (and remains) a living Theravada temple and the national symbol.
 
+## Post-Angkor Cambodia between Vietnam and Siam (Taylor 2013)
+
+From the seventeenth century the diminished Khmer kingdom (capitals near Oudong and Phnom Penh) was chronically
+destabilized by rival "first king"/"second king" succession claims, which both the [[nguyen-lords|Vietnamese]]
+and the [[siam-chakri-dynasty|Siamese]] exploited to install client rulers. A 1620 royal marriage gave the
+Nguyen lords tax rights at Prei Nokor and Kampong Krabei — the seed of Vietnamese **Saigon** — and by 1674
+Cambodia was effectively partitioned between Siamese- and Vietnamese-backed kings, a rivalry that ran through
+the eighteenth century (part of the [[nam-tien|Vietnamese southward expansion]]). Under
+[[minh-mang|Minh Mang]] the Vietnamese effectively annexed Cambodia behind the figurehead "Queen" Ang Mei
+(1836), imposing Vietnamese administration and assimilation; Siamese war and Khmer revolt forced their
+withdrawal by 1841. See [[nguyen-dynasty]].
+
 ## Related pages
 
 [[angkor]] · [[jayavarman-vii]] · [[funan]] · [[indianization-of-southeast-asia]] · [[hinduism]] ·
-[[mahayana-buddhism]] · [[southeast-asia]] · [[coe-angkor-khmer-civilization-2018]]
+[[mahayana-buddhism]] · [[southeast-asia]] · [[coe-angkor-khmer-civilization-2018]] ·
+[[nam-tien]] · [[nguyen-lords]] · [[siam-chakri-dynasty]] · [[taylor-history-of-the-vietnamese-2013]]

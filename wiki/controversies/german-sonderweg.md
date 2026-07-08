@@ -2,13 +2,12 @@
 title: "The German Sonderweg ('Special Path') Debate"
 dispute_type: [causation, interpretation]
 period_involved: [Long 19th Century, World Wars Era]
-regions_involved: [western-europe]
-positions: [the Sonderweg thesis (a uniquely illiberal German path to modernity), the revisionist critique (Blackbourn & Eley), the transnational/connected-history turn]
-resolution_status: partially-resolved
-last_updated: 2026-06-22
+regions_involved: ["western-europe"]
+resolution_status: "partially-resolved"
+last_updated: "2026-07-03"
 tags: [controversy]
+positions: [the Sonderweg thesis (a uniquely illiberal German path to modernity), "the revisionist critique (Blackbourn & Eley)", "the transnational/connected-history turn"]
 ---
-
 # The German Sonderweg ("Special Path") Debate
 
 The central interpretive controversy of modern German history: did Germany follow a *Sonderweg* — a
@@ -66,3 +65,9 @@ Nazism was not inevitable at any point before early 1933, but was rooted in
 traditions traceable to 1871 — not to Luther or Herder.
 
 > Standing controversy scaffolded for [[smith-oxford-modern-german-history-2011|the Oxford Handbook of Modern German History]] ingest.
+
+## Shirer (1960) — the locus classicus of the popular Sonderweg case
+
+*The Rise and Fall of the Third Reich* is the most widely read statement of the strong-continuity position, and its ch. 4 ("The Mind of Hitler and the Roots of the Third Reich") is the canonical text: "Nazism and the Third Reich, in fact, were but a logical continuation of German history." The chain as Shirer draws it: Luther (whose mark on the Germans was "more indelible, more fateful, than was wrought by any other single individual before or since," and whose siding with the princes "doomed for centuries the possibility of the unification of Germany") → the Thirty Years' War and Westphalia (Germany "reduced to the barbarism of Muscovy") → Prussia ("not a state with an army, but an army with a state" — Mirabeau) and the Junkers → Bismarck's blood-and-iron unification → Wilhelm II → Hitler: "From 1871 to 1933 and indeed to Hitler's end in 1945, the course of German history… was to run… in a straight line and with utter logic." The intellectual genealogy: Fichte, Hegel (state-worship, war as purifier, the hero above morality), Treitschke ("It does not matter what you think, so long as you obey"), Nietzsche (appropriated — Shirer concedes he "was never an anti-Semite" and despised German chauvinism, but grants the Nazis "some ground" for the theft), Wagner, Gobineau, and H. S. Chamberlain.
+
+**Positions on Shirer.** Academic historians rejected the thesis on publication — Klaus Epstein's review and Gordon Craig's front-page *Herald-Tribune* notice ("too long and 'out of balance'") set the tone; the objections anticipate the later Blackbourn–Eley critique recorded above (teleology; German history read backward from 1933; the "Luther to Hitler" line ignoring that every element had non-German parallels). Shirer's own text half-concedes the difficulties: he notes Gobineau's Aryan-survival line actually excluded most of Germany ("a fact which the Nazis glossed over") and that Wagner hoped the Germans would be "not rulers, but ennoblers of the world." He never retracted: the 1990 Afterword still asks "Have the Germans changed?… I myself am not so sure," treating reunification as a revival of "the German problem" — the national-character reading held for him to the end. The book's unmatched circulation (the Book-of-the-Month Club's best-seller ever; furious German reception, Adenauer calling Shirer "a German-hater") made this the default popular understanding of Nazism for a generation, which is precisely why the academic counter-positions above were framed against it. Source: [[shirer-rise-fall-third-reich-1960]]

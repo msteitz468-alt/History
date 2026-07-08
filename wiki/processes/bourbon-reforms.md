@@ -8,8 +8,8 @@ region: [mesoamerica, andes, caribbean, atlantic-world, southern-cone, iberia]
 process_type: [political, economic, ideological]
 driven_by: [Spain's military and fiscal weakness after the War of the Spanish Succession, the loss of Havana (1762), Enlightenment regalism and mercantilism, the drive for revenue and defense]
 produces: [the intendant system, comercio libre (1778), new viceroyalties, expanded armies, the Jesuit expulsion (1767), creole alienation, the conditions for [[spanish-american-independence|independence]]]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, age-of-expansion, atlantic-world, andes, mesoamerica]
 ---
 
@@ -98,10 +98,31 @@ tensions. The Bourbon project's recentralizing ambition and Creole alienation ar
 the proximate background to the
 [[spanish-american-independence|wars of independence]].
 
+## Indigenous Mesoamerica under Bourbon intervention (MacLeod, CHNPA II.2)
+
+Murdo J. MacLeod ([[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] Ch. 12)
+stresses the reforms’ impact on **native institutions**, not only on Creole elites. The
+Bourbon regime, via its representatives in cities such as Mexico, Guadalajara, Puebla, and
+Guatemala, was — despite many half-starts and failures — **much more interventionist and
+ambitious than the Habsburgs**. Taxes seem to have been collected more efficiently, including
+the tribute. Government sought to lessen the power of the clergy, seen by some Indians as their
+protectors. The **cofradía** — an Indian cultural redoubt — was heavily attacked in the late
+eighteenth century and lost many funds; some *cajas de comunidad* were also hit. Tribute
+abolition in **1812** came too late to reverse the cumulative squeeze.
+
+Combined with commercialization, migration, rising prices, and [[hacienda]] encroachment, the
+result in some regions was disappearance of ethnic distinctiveness and proletarianization; in
+the indigenous south (Oaxaca, Yucatan, Chiapas, Guatemala) populations grew but living levels
+and community coherence probably declined, with failure to share in the eighteenth-century boom
+([[colonial-mesoamerica-native-peoples]], [[spiritual-conquest-and-colonial-church]]).
+
 ## Related
 
 - [[colonial-spanish-american-administration]] — the Habsburg system the reforms recast.
 - [[spanish-american-independence]] — the collapse the reforms helped precipitate.
 - [[colonial-latin-america]] — the colonial order in its final phase.
-- [[spiritual-conquest-and-colonial-church]] — the Church the regalists attacked (Jesuit expulsion).
+- [[colonial-mesoamerica-native-peoples]] — native institutional targets of late colonial reform.
+- [[spiritual-conquest-and-colonial-church]] — the Church the regalists attacked (Jesuit expulsion; cofradías).
+- [[hacienda]] — commercial estates pressing village lands in the same century.
 - [[global-silver-trade]] — the commerce *comercio libre* liberalized.
+- [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]]

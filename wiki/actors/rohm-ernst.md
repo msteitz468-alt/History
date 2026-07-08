@@ -4,16 +4,15 @@ actor_type: person
 date_start: 1887
 date_end: 1934
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [actor, person, "world-wars-era", "western-europe"]
 affiliated_with: ["[[sturmabteilung-sa]]", "[[nazi-germany]]"]
-opposed_by: ["[[schutzstaffel-ss]]", "[[himmler-heinrich]]"]
 key_events: ["[[nazi-seizure-of-power-1933]]", "[[night-of-the-long-knives-1934]]"]
-key_processes: []
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [actor, person, world-wars-era, western-europe]
+key_processes: ""
+opposed_by: ["[[schutzstaffel-ss]]", "[[himmler-heinrich]]"]
 ---
-
 # Ernst Röhm
 
 Chief of Staff of the [[sturmabteilung-sa|SA]] from 1931 and the most dangerous
@@ -48,6 +47,16 @@ in Hitler's absorption of the presidency.
 Höhne (*Mordsache Röhm*) and Longerich's SA study underpin Evans's account;
 the non-existence of a real putsch plan is settled scholarship.
 
+## Shirer (1960) Additions
+
+- Early career: Captain, Army District Command VII Munich staff, joined the DAP before Hitler; organized the first Nazi strong-arm squads, the basis of the SA; brought ex-servicemen and free-corps volunteers, and crucially Army protection and tolerance, to the fledgling party.
+- Broke with Hitler in 1925, joined the Bolivian Army as a lieutenant colonel; recalled by Hitler at the end of 1930 to retake command of the increasingly unruly SA. In 1932 he secretly conspired with Schleicher to have the SA absorbed into the Reichswehr as a militia — a step Hitler consistently opposed, wanting the SA kept purely as a political/terror instrument rather than a military one — corroborating the "second revolution"/militia-ambition material already on this page from Evans.
+- Röhm coined the phrase "second revolution"; by summer 1933 the SA numbered roughly 2 million to 2.5 million against a Reichswehr of only ~100,000. June 1933 warning, quoted verbatim: "The S.A. and S.S... will not allow it to be betrayed at the halfway mark... We are the incorruptible guarantors of the fulfillment of the German revolution."
+- His February 1934 cabinet memorandum proposed the SA as the foundation of a new "People's Army," with the armed forces, SA, SS, and veterans under a single Ministry of Defense implicitly headed by himself — unanimously rejected by senior Army officers, who appealed to Hindenburg. General von Brauchitsch later testified that rearmament was "too serious and difficult a business to permit the participation of peculators, drunkards and homosexuals."
+
+Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 - [[evans-third-reich-in-power-2005]]
+- [[shirer-rise-fall-third-reich-1960]]

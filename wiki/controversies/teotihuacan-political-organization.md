@@ -8,7 +8,7 @@ positions:
   - autocratic/dynastic rule
   - council or oligarchic rule with possible mid-history shift
 resolution_status: open
-last_updated: 2026-06-27
+last_updated: 2026-07-08
 tags: [controversy, mesoamerica]
 ---
 
@@ -60,6 +60,48 @@ A stone fist of colossal scale in the Teotihuacan museum suggests option 3 may a
 
 Linda Manzanilla's work at Teopancazco introduces a further complication for the late period. She argues that "the growing power of 'intermediate' elites … may have significantly impeded the ability of the state to function effectively" (Ch. 9) — persons with status and wealth independent of the state, who increasingly siphoned off surpluses formerly accruing to central authority. This model is distinct from both corporate and autocratic models: it suggests a trajectory from (relatively) effective central authority toward factional fragmentation in which intermediate elites competed with the state rather than operating within it. Robertson's and Sempowski's data on growing compound-level wealth differentials in the Xolalpan and Metepec phases are consonant with Manzanilla's interpretation.
 
+## Ciudadela, ranked sacrifice, and mural anonymity (Cowgill CHNPA 2000)
+
+CHNPA Ch. 6 supplies load-bearing detail for both early autocracy and later collective-style representation:
+
+**Palaces and marketplace.** The Feathered Serpent Pyramid is flanked by North and South
+“Palaces,” widely thought residences of state heads. The Great Compound west of the
+Ciudadela (same planning megacomplex) may have been a major marketplace. Millon
+characterizes the Ciudadela as the political and symbolic focal point; construction shortly
+after the Sun Pyramid suggests a possible shift in the ideological basis of rulership
+without major discontinuity.
+
+**Mass burials.** More than 130 persons found, total victims probably ~200 at construction;
+most bound; more likely high-status Teotihuacanos in good standing (ranked costume/goods)
+than stripped prisoners — implying strong, even despotic, central authority whether
+accompanying a ruler or dedicated to a deity.
+
+**Ranked costume categories publicly symbolize hierarchy:** (1) early-teen probable females
+with few goods, often sets of 8; (2) slightly older males with points, pyrite-mirror disks,
+shell “trophy” jaws — probable officers/bodyguards, sets of 18 (+2 to 20); (3) greenstone
+ornaments including rattlesnake-rattle nose pendants, center group of 20; (4) robust male
+with exceptional “Tlaloc”-type nose pendant in a looted pit; (5) other looted large pits may
+have held state heads but looting prevents certainty. Early Teotihuacan was not egalitarian,
+even in theory; what was unusual was **suppression of individuality** within levels.
+
+**Later murals (A.D. 300–600/750):** humans subordinated only to deities, never other humans,
+yet in elaborate non-everyday costume — hierarchy presupposed; individuality suppressed via
+multiplicity/replication of identical figures (except late Techinantitla different glyphs).
+Contrast with Maya naturalism and later eclectic [[cacaxtla]]/[[xochicalco]].
+
+**Millon vs. Cowgill on the ~A.D. 300 turn.** Millon (1992) argues elite reaction to
+autocratic excesses (climaxing in Feathered Serpent mass sacrifice) produced a new ethic of
+collective leadership and institutionalized restraints on personal power ~A.D. 300, lasting
+centuries, with possible late autocratic trend. Cowgill agrees leadership became less
+enterprising/overbearing but suggests the change may have been **less institutional and more
+about individual ruler personalities**.
+
+**Standing interpretive tensions Cowgill leaves open:** (1) strong early autocracy (Ciudadela
+sacrifices) vs. later collective/impersonal representation without clear rulers; (2) war
+important but conquest never commemorated; (3) possible locus shift of active political
+management from Ciudadela to Avenue of the Dead macrocomplex; (4) relation between
+impersonal art and concrete social hierarchy “puzzling”; (5) dates may be off ± century.
+
 ## Current Status
 
 The controversy remains open. A rough consensus holds that:
@@ -73,8 +115,9 @@ But each element of this narrative is contested. Better definition of ceramic ph
 
 - [[teotihuacan]] — primary subject
 - [[feathered-serpent-pyramid]] — desecration as evidence of political shift
+- [[ciudadela-teotihuacan]] — political-symbolic focal point and palace compounds
 - [[teotihuacan-collapse-550ce]] — endpoint of political organization debate
 - [[teotihuacan-religion]] — ideology and its relationship to political authority
 - [[teotihuacan-apartment-compound-system]] — evidence of corporate turn
 - [[mesoamerican-state-formation]] — comparative context
-- [[cowgill-ancient-teotihuacan-2015]]
+- [[cowgill-ancient-teotihuacan-2015]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6]]

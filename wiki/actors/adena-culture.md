@@ -10,8 +10,8 @@ affiliated_with: ["[[hopewell-culture]]"]
 opposed_by: []
 key_events: []
 key_processes: ["[[north-american-agricultural-transition]]", "[[hopewell-interaction-sphere]]"]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, eastern-north-america, period-Archaic-Period, period-Classical-Antiquity]
 ---
 
@@ -58,3 +58,16 @@ Adena culture did not abruptly end but was gradually absorbed and superseded by 
 Prior to radiocarbon dating, Adena and Hopewell were classified as "Early Woodland" and "Middle Woodland" respectively, implying a simple sequential relationship. Modern research has complicated this picture: the two cultures overlapped chronologically, and Adena persisted in some areas well into Hopewell times. Scholarly debates continue about the degree to which Adena represents a single "culture" versus a shared mortuary tradition practiced by several otherwise distinct groups. The evidence for Adena is largely restricted to burial practices, creating a methodological challenge: burial ceremonialism could have been shared across culturally diverse groups. Most of what is known comes from excavated mound contexts; settlement sites and domestic contexts are far less well known. The source base is strong for the Ohio/Kentucky heartland and weak for outlier areas.
 
 Source: [[snow-gonlin-siegel-archaeology-native-north-america-2020]]
+
+## CHNPA I.1 — Dean R. Snow (ch. 3) — thin cross-references only
+
+Snow’s ch. 3 does **not** develop a full Adena narrative (Woodland cultures proper lie outside the chapter’s Archaic focus). Load-bearing mentions:
+
+1. Pre-radiocarbon suspicion that [[poverty-point]] was later and related to Adena and Hopewell of the Ohio Valley — overturned by dates placing Poverty Point **1500–700 B.C.** as a Late Archaic local outgrowth.
+2. Adena point type illustrated among New York Woodland points (typological continuity from Archaic).
+3. Archaic California large-scale trade/exchange mechanisms “similar to those of Adena-Hopewell in the Eastern Woodlands” (analogy; see [[california-archaic]]).
+4. Late Archaic ranking and mortuary ceremonialism had “widespread ramifications in subsequent centuries” — *`enabled:`* Adena elaborations (see ranking/mortuary section on [[paleoindian-and-archaic-north-america]]).
+
+`preceded_by: [[poverty-point]]` (in the sense of earlier monumental Archaic; not direct descent) · `concurrent_with: [[hopewell-culture]]` · `analogous_to: [[california-archaic]]` (exchange scale)
+
+*Source: [[sources/cambridge-history-native-peoples-americas-v1-1]], ch. 3 (Snow).*

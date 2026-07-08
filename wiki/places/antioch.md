@@ -7,8 +7,8 @@ period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: [[[seleucid-empire|the Seleucids]], [[rome|Rome]], Byzantium, the early Caliphate]
 events_here: [foundation by Seleucus I c. 300 BCE]
 processes_here: [[[seleucid-empire]], [[hellenistic-world]], [[urbanization]], [[seleucid-colonization]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, levant, near-east, classical-antiquity]
 ---
 
@@ -51,8 +51,34 @@ Graeco-Macedonian core of the realm. See [[seleucid-colonization]].
   Antiquity one of the patriarchal sees of Christianity and a great Greek-speaking city,
   until earthquakes, Persian sack, and the Arab conquest reduced it.
 
+## Roman Antioch and its "veneer" (Ball 2000)
+
+Warwick Ball's *[[ball-rome-in-the-east-2000|Rome in the East]]* treats Antioch as the
+imperial city of the Roman East — rivalled among eastern cities only by Constantinople as a
+recurring seat of emperors. **Vespasian** was proclaimed there; it was **Trajan's** eastern HQ
+(he resided three years, and was caught in the great earthquake of 115); the
+[[severan-dynasty|Severans]] had the closest ties of any dynasty to it — **Septimius Severus**
+spent seven of his first ten years there, and **[[julia-domna|Julia Domna]]** administered the
+empire from Antioch while **[[caracalla]]** campaigned. **Constantine** considered but rejected
+it (for its "pagan past") as his eastern capital; **[[julian|Julian]]** preferred it and may have
+meant to make it his sole capital.
+
+Ball reads Antioch's history through his wider [[orientalization-of-rome|orientalization]] thesis
+(see the [[orientalization-of-rome-thesis|debate]]). He argues **Rome founded no genuinely new
+cities in the East** — even the Tetrapolis refounded older native settlements — and that
+Antioch's "Roman" character was a veneer over an enduringly Syrian, Aramaic-speaking city. His
+evidence includes the native Antiochene historian **Herodian**, who calls "the Romans" *them*,
+not *us*, and the rapid post-conquest reversion of Greek city-names to older Semitic ones
+(Beroea→Aleppo, Epiphania→Hama), while wholly Macedonian foundations like Antioch and Laodicaea
+(with no deeper native name to revert to) kept their Greek names. He also notes the pro-Iranian
+sentiment among the native population — the senator **Mariades** defected and guided
+[[sasanian-empire|Shapur I]]'s army to sack the city in 256. Antioch declined through 6th-century
+fire, earthquake (526), plague (542) and Persian sack (540) before its surrender to the Arab
+conquest.
+
 ## Related
 
 - Founder: [[seleucus-i-nicator]] · kingdom: [[seleucid-empire]] · rival capital: [[alexandria]]
-- Theme: [[seleucid-colonization]] · [[hellenistic-world]]
-- Source: [[walbank-cah-v7-1-1984|CAH VII.1]] (Musti, ch. 6)
+- Theme: [[seleucid-colonization]] · [[hellenistic-world]] · [[orientalization-of-rome]]
+- The Roman-East city network: [[apamea]] · [[dura-europos]] · [[roman-syria]] · [[christianization-of-the-roman-empire]]
+- Sources: [[walbank-cah-v7-1-1984|CAH VII.1]] (Musti, ch. 6); [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]]

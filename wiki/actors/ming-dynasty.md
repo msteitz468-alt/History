@@ -121,3 +121,13 @@ Huang reframes traditional moralizing accounts of the Wanli emperor's "laziness"
 - [[zheng-he-voyages]] — the Yongle treasure fleets (1405–33) and their abandonment ([[cambridge-history-of-china|CHC]] Ming volumes); [[chinese-examination-system]] — the Ming "eight-legged essay" examination state.
 - [[cambridge-history-of-china]] — the source (Ming volumes).
 - [[huang-1587-a-year-of-no-significance-1981]] — Ray Huang's microhistory of late Ming institutional paralysis centered on 1587; created/updated [[wanli-emperor]], [[zhang-juzheng]], [[shen-shixing]], [[hai-rui]], [[qi-jiguang]], [[li-zhi]].
+
+## The Giao Chi occupation of Dai Viet (Taylor 2013)
+
+The Yongle emperor used [[ho-quy-ly|Ho Quy Ly]]'s usurpation as a pretext to invade and re-annex Vietnam as
+the imperial province of **Giao Chi** ([[ming-occupation-of-dai-viet-1407-1427|1407–1427]]) — the first
+direct Chinese rule there in nearly five centuries. Huang Fu (civil) and Zhang Fu (military) governed for
+two decades before Yongle's successors defunded and abandoned the province in the face of
+[[le-loi|Le Loi]]'s [[lam-son-uprising-1418-1428|Lam Son uprising]]; the Ming recognized Le Loi as king in
+1431. In the sixteenth century the Ming again arbitrated Vietnamese legitimacy, extracting a ritualized
+surrender from the [[mac-dynasty-vietnam|Mac]] (1540) but never invading. See [[dai-viet]].

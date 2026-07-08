@@ -7,8 +7,8 @@ period_active: [late-antiquity, early-middle-ages]
 controlled_by: ["Sasanian Empire", "Arab Caliphate"]
 events_here: []
 processes_here: ["sasanian deportation and resettlement", "transmission of Greek learning"]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, iran-plateau, khuzistan, late-antiquity]
 aliases: [Gundeshapur, Gondeshapur, Jundishapur, Beth Lapat, Be Lapat, Weh-Andiyok-Shabuhr]
 ---
@@ -48,8 +48,20 @@ became a celebrated transmitter of classical knowledge — a reputation later ma
 ("Susa made Iranian"); the regional administrative capital shifted to **Eran-xwarrah-
 Shapur** (Ivan-e Kerkha).
 
+## Ball: a "two-way" city (2000)
+
+Warwick Ball's *[[ball-rome-in-the-east-2000|Rome in the East]]* uses Gundeshapur as an emblem
+of his [[orientalization-of-rome|orientalization]] thesis working in reverse — a Sasanian city
+built by deported Roman captives (after the [[capture-of-valerian-260|capture of Valerian, 260]])
+that became a great Christian and academic centre, refuge for the philosophers of Athens after
+Justinian closed the Academy (529), and a channel for Greek learning into the Islamic world. He
+stresses (as Potts does above) the Roman engineering — the surviving **Band-i Qaysar** at
+Shushtar — and the relative religious and intellectual tolerance he finds "not known in the Roman
+world at the time."
+
 ## Related
 
 - Founder: [[shapur-i]] · empire: [[sasanian-empire]] · region's old identity: [[elam]] / [[elymais]]
 - Nearby older capital: [[susa]] · Period: [[late-antiquity]] · Region: [[iran-plateau]]
-- Source: [[potts-archaeology-of-elam-2016]]
+- Roman POWs from the [[capture-of-valerian-260]]; Ball's thesis [[orientalization-of-rome]]
+- Sources: [[potts-archaeology-of-elam-2016]]; [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]]

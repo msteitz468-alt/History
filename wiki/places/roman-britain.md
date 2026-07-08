@@ -3,13 +3,13 @@ title: Roman Britain
 place_type: empire-territory
 modern_equivalent: [England, Wales, southern Scotland]
 coordinates: [52 N, 1 W]
-period_active: [Late Antiquity]
-controlled_by: [Rome (the province of Britannia), from the Claudian conquest of AD 43]
-events_here: [the completion of the Flavian conquest, Mons Graupius (AD 83), the building of Hadrian's Wall (122) and the Antonine Wall (c. 142)]
-processes_here: [the conquest and frontier-building of Britain, the uneven Romanization and urbanization of the province]
-sources_ingested: 2
-last_updated: 2026-06-12
-tags: [place, british-isles, late-antiquity, rome]
+period_active: [Late Antiquity, Early Middle Ages]
+controlled_by: [Rome (the province of Britannia), from the Claudian conquest of AD 43; post-Roman British and Anglo-Saxon polities after c.410]
+events_here: [the completion of the Flavian conquest, Mons Graupius (AD 83), the building of Hadrian's Wall (122) and the Antonine Wall (c. 142), Roman abandonment c.410]
+processes_here: [the conquest and frontier-building of Britain, the uneven Romanization and urbanization of the province, post-roman-transformation-of-the-west]
+sources_ingested: 3
+last_updated: 2026-07-08
+tags: [place, british-isles, late-antiquity, early-middle-ages, rome]
 ---
 
 # Roman Britain
@@ -105,10 +105,22 @@ is the empire's clearest case of a province where **disproportionate military in
 whose "civil developments cannot be isolated from the framework imposed by the progress of
 conquest."
 
+## Wickham, *Framing the Early Middle Ages* (2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham]] presents post-Roman Britain as the extreme western case of **nearly immediate systemic collapse and de-Romanization**. Romans abandoned the province c.410; archaeology shows nearly complete loss of Roman social forms. Anglo-Saxon incomers from c.450 found structures more like their own than Roman ancestors’; in unconquered Wales Latin survived only as an ecclesiastical language. Lowland Zone’s main visible Roman inheritance was settled-landscape structure; Highland Zone could add Christianity (returning to Lowlands only in the seventh century).
+
+- Late Roman lowland Britain was a fairly ordinary provincial part of the empire (civitates, towns, hundreds of villas)—comparable to northern Gaul but **less militarized** up to 400; highland Britain was a military fringe.
+- By 400 villas and towns were in recession; by **450** recognizably Roman villas and urban economies are virtually untraceable; industrial ceramic production and the potter’s wheel ended for centuries; market exchange beyond the simplest ceased. Recession turned into **catastrophe** by the third quarter of the fifth century—unparalleled speed/generality of indigenous pottery failure anywhere in the post-Roman world. Involution not reversed except on a small scale until the eighth century.
+- Dramatic scale-change from late Roman c.400 was accomplished **before the Anglo-Saxons arrived**: indigenous British polities that lost ground were already micro-scale tribal groups. Wickham’s reconstruction (explicitly guesswork): a lowland aristocrat after state collapse became a chieftain whose control rested on loyalty not property rights, with material concessions that collapsed market infrastructure—Romanitas abandoned by Gildas’s mid-sixth century.
+- Contrasts with relatively contained northern Gaul crisis and survival of landowning military aristocracy in [[francia]].
+
+*Link types:* part_of: [[post-roman-transformation-of-the-west]]; contrasts_with: [[francia]], [[roman-egypt]], [[roman-gaul]]; concurrent_with: [[early-middle-ages-britain-ireland]], [[peasant-mode-of-production]].
+
 ## Related
 
 - The frontier walls illustrate [[roman-frontiers]] and the [[roman-grand-strategy|grand-strategy
   debate]]; garrisoned by the [[roman-imperial-army|army]] (the Vindolanda tablets)
 - Conquest interrupted by the [[dacian-wars-101-106|Dacian wars]] and [[marcomannic-wars-166-180|Marcomannic wars]]; the great Commodan war prefigures Severus' campaign
 - Romanization via [[roman-city-government|the cities]] and [[roman-citizenship-and-belonging|citizenship]]; the army as economic motor (cf. [[roman-germany]])
-- Source: [[bowman-cah-v11-2000]] (Ch. 18, Martin Millett)
+- Early medieval contrast: [[francia]] · [[ireland]] · [[early-middle-ages-britain-ireland]]
+- Sources: [[bowman-cah-v11-2000]] (Ch. 18, Martin Millett) · [[wickham-framing-the-early-middle-ages-2005]]

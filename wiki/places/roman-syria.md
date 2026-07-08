@@ -3,13 +3,13 @@ title: Roman Syria
 place_type: empire-territory
 modern_equivalent: [Syria, Lebanon, southern Turkey, parts of Jordan and Iraq]
 coordinates: [35 N, 37 E]
-period_active: [Late Antiquity]
-controlled_by: [Rome, through a consular legate at Antioch; from 64 BCE]
-events_here: [Pompey's settlement (64 BCE), the Parthian invasion (40–38 BCE), the high-level Euphrates meetings with Parthia]
-processes_here: [the establishment of the great eastern military province, the supervision and absorption of the client states]
-sources_ingested: 1
-last_updated: 2026-06-11
-tags: [place, near-east, levant, late-antiquity, rome]
+period_active: [Late Antiquity, Early Middle Ages]
+controlled_by: [Rome, through a consular legate at Antioch; from 64 BCE; Umayyad and Abbasid caliphates after 634–8]
+events_here: [Pompey's settlement (64 BCE), the Parthian invasion (40–38 BCE), the high-level Euphrates meetings with Parthia, Arab conquest 634–8]
+processes_here: [the establishment of the great eastern military province, the supervision and absorption of the client states, post-roman-transformation-of-the-west]
+sources_ingested: 3
+last_updated: 2026-07-08
+tags: [place, near-east, levant, late-antiquity, early-middle-ages, rome]
 ---
 
 # Roman Syria
@@ -127,6 +127,43 @@ supervised and one by one **absorbed**. Beneath the imperial peace, the prospero
 unified culture, essentially Semitic in character but with a Greco-Roman influence" took shape —
 the world that would later send Syrian families (the Emesene dynasty) to the heart of the empire.
 
+## The province through Ball's "orientalizing" lens (2000)
+
+Warwick Ball's *[[ball-rome-in-the-east-2000|Rome in the East]]* reads Syria as the core case of
+his [[orientalization-of-rome|orientalization]] thesis (see the
+[[orientalization-of-rome-thesis|debate]]): a province whose Graeco-Roman civic forms overlay an
+enduringly Semitic population, cult and settlement continuum. He adds detail on its administration
+and cities — Pompey's bloodless annexation of the Seleucid state (64/63 BCE); **Septimius Severus's
+division** of the province into *Coele Syria* and *Syria Phoenice* to prevent any one legate
+commanding the forces that had repeatedly made emperors (Vespasian, Pescennius Niger); and the
+frontier and interior cities: **Cyrrhus** (birthplace of the usurper Avidius Cassius), **Chalcis**
+(Qinnesrin), **Zeugma** on the Euphrates crossing, **Halabiya/Zenobia**, **Rasafa/Sergiopolis**
+(the St Sergius pilgrimage-fortress Ball attributes largely to native Syrian Christianity and the
+[[ghassanids|Ghassanids]]), and the **[[dead-cities|Dead Cities]]** of the limestone massif.
+
+Ball stresses the **[[phoenicians|Phoenician]] coast** (Aradus, Byblos, Sidon, Tyre, Berytus) as
+urbanised long before Rome and retaining its native character — arguing its Roman-era
+"renaissance" (Philo of Byblos, Marinus of Tyre, the Neoplatonists Porphyry and Iamblichus, and
+the **Beirut law school** of Papinian and Ulpian, foundational to Justinian's *Digest*) is a
+Levantine achievement drawing on Judaic and Mesopotamian legal roots as much as Roman — "should we
+be viewing Beirut in the context of Rome or of Babylon?" He also argues (as his thesis) that
+sun-worship, Semitic congregational temple-cult, and the eastern colonnaded-street/bazaar plan
+mark these as Near Eastern, not Roman, cities beneath the veneer.
+
+## Wickham, *Framing the Early Middle Ages* (2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham]]’s Syria-Palestine is a comparative foil to Africa and the West: fertile land, mountain, and desert interpenetrate more tightly than in Africa; the desert between Syria and Mesopotamia was **less threatening than the Sahara**. Fifth–sixth-century Arab client tribes of Romans and Persians controlled the fringe; Umayyad caliphs developed irrigation on Syrian/Jordanian desert fringes (late Romans had developed the Negev instead).
+
+### Conquest, continuity, urban economies
+- Against historiographies blaming Arab conquest or the 750 Abbasid revolution plus late-740s earthquakes for desert-fringe agricultural abatement, recent archaeology argues for **very little economic weakening after 650**, and not so much even after 750; main inland Levant abatement likely begins only in the **ninth century**. Marginal lands that did lose population (parts of northern Negev; [[limestone-massif|Limestone Massif]] of northern Syria) did so from the eighth and tenth centuries respectively.
+- Persian occupation then Arab conquest (614–28 and from 636) **reoriented** the region from Mediterranean integration toward the Fertile Crescent (united for the first time since Alexander). Coast faced difficulties (Gaza wine, Antioch oil export dependence); inland route-centres like Aleppo developed. Umayyad power-base and capital at Damascus supported internal regional prosperity.
+- Fifth–sixth-century city aristocracies (Gaza, Emesa, Askalon, Caesarea, Apamea, Petra, Edessa; Antioch multi-city exception) largely continued after 634–8; emigration to Byzantium was probably not widespread. Local aristocratic identities largely **Islamized/Arabized in the eighth century**—analogous to northern Francia’s ethnic shift and Italy’s urban focus, with militarization perhaps less important than Islamization.
+- Clearest marker of urban economies: **artisanal reconversion of monumental cores** (Gerasa kilns in Artemis temple/northern theatre; pottery, glass, dyeing, metalwork across Ayla, Tiberias, Caesarea, Ramla, Raqqa, Jerusalem, Pella). Planned Umayyad *sūqs* (Foote’s count of nine) show public authorities structuring commercial transformation.
+- Sub-regional timing of recession: NW (Antioch, Apamea, northern maritime cities) best candidates for early deurbanization by 650, tied to Limestone Massif and eastern Mediterranean exchange weakening; inland NE thrived under early Arabs; Decapolis prospered into Umayyad times. Only after the **749 earthquake coinciding with Abbasid overthrow of Syria-based Umayyads** did numbers of prospering cities diminish substantially—yet Ayla, Caesarea, Tiberias and some NE inland cities continued.
+- After c.650–800 ceramics remained high-quality but mostly highly **localized** (city-territory scale); local demand stayed high enough for ninth-century polychrome glaze reunification under Abbasids—Levant local economies “may sometimes have remained as high as in Egypt.”
+
+*Link types:* contains: [[limestone-massif]]; concurrent_with: [[umayyad-caliphate]], [[abbasid-caliphate]]; contrasts_with: [[roman-africa]], [[italy]]; analogous_to: [[francia]] (elite ethnic shift); part_of: [[urbanism]].
+
 ## Related
 
 - Pompey's province, reorganized by [[augustus]]; the Parthian diplomacy of
@@ -136,4 +173,5 @@ the world that would later send Syrian families (the Emesene dynasty) to the hea
 - Companion (CAH X Ch. 14): [[roman-greek-east|Greece]], [[roman-egypt|Egypt]], [[roman-judaea|Judaea]]
 - High-Empire: the annexation of Nabataea/Arabia (106), Palmyra's caravan trade, the
   [[trajans-parthian-war-114-117|Parthian War]]; the [[roman-frontiers|Euphrates frontier]]
-- Sources: [[bowman-cah-v10-1996]] (Ch. 14c, Kennedy) · [[bowman-cah-v11-2000]] (Ch. 21, Sartre)
+- Early medieval: [[limestone-massif]] · [[dead-cities]] · [[umayyad-caliphate]]
+- Sources: [[bowman-cah-v10-1996]] (Ch. 14c, Kennedy) · [[bowman-cah-v11-2000]] (Ch. 21, Sartre) · [[wickham-framing-the-early-middle-ages-2005]]

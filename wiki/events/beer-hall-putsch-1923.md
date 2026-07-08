@@ -5,15 +5,15 @@ date_end: "1923-11-09"
 date_precision: exact
 period: [World Wars Era]
 region: ["western-europe"]
-causes: ["[\"weimar-republic|hyperinflation and Ruhr crisis 1923\"]", "[\"total-war-germany-1914-1918|WWI defeat and 'stab-in-the-back' myth\"]", "[\"weimar-democracy-and-its-collapse|Bavarian 'cell of order' separatism and paramilitary culture\"]", "[\"adolf-hitler|Hitler's 'drummer' agitation and all-or-nothing temperament\"]", "[\"mussolini-march-on-rome|example of Mussolini's March on Rome\"]"]
-consequences: ["[\"adolf-hitler|Landsberg imprisonment and dictation of Mein Kampf\"]", "[\"adolf-hitler|shift from 'drummer' to Führer self-image\"]", "[\"weimar-republic|temporary stabilization of Bavaria and decline of völkisch vote 1924\"]", "[\"nsdap-refoundation-1925|decision for 'legal' path and refoundation of NSDAP\"]", "[\"hubs/biographies/world-wars-era/adolf-hitler|genesis of Führer cult and mastery over movement\"]"]
-sources_ingested: [2]
-last_updated: "2026-07-02"
+causes: ["[\\\"weimar-republic|hyperinflation and Ruhr crisis 1923\\\"]", "[\\\"total-war-germany-1914-1918|WWI defeat and 'stab-in-the-back' myth\\\"]", "[\\\"weimar-democracy-and-its-collapse|Bavarian 'cell of order' separatism and paramilitary culture\\\"]", "[\\\"adolf-hitler|Hitler's 'drummer' agitation and all-or-nothing temperament\\\"]", "[\\\"mussolini-march-on-rome|example of Mussolini's March on Rome\\\"]"]
+consequences: ["[\\\"adolf-hitler|Landsberg imprisonment and dictation of Mein Kampf\\\"]", "[\\\"adolf-hitler|shift from 'drummer' to Führer self-image\\\"]", "[\\\"weimar-republic|temporary stabilization of Bavaria and decline of völkisch vote 1924\\\"]", "[\\\"nsdap-refoundation-1925|decision for 'legal' path and refoundation of NSDAP\\\"]", "[\\\"hubs/biographies/world-wars-era/adolf-hitler|genesis of Führer cult and mastery over movement\\\"]"]
+sources_ingested: [3]
+last_updated: "2026-07-03"
 tags: [event, "world-wars-era", "western-europe", coup, transition, "adolf-hitler", nsdap]
 event_type: coup
 location: [Munich, Bavaria]
-actors_primary: ["[\"adolf-hitler\"]", "[\"actors/ludendorff-erich\"]", "[\"ernst-rohm\"]", "[\"gregor-strasser\"]", "[\"weimar-republic|Gustav Ritter von Kahr\"]", "[\"weimar-republic|Otto von Lossow\"]", "[\"weimar-republic|Hans von Seißer\"]"]
-actors_secondary: ["[\"weimar-republic|Bavarian government\"]", "[\"weimar-republic|Reichswehr 7th Division\"]", "[\"bund-oberland\"]", "[\"reichsflagge\"]"]
+actors_primary: ["[\\\"adolf-hitler\\\"]", "[\\\"actors/ludendorff-erich\\\"]", "[\\\"ernst-rohm\\\"]", "[\\\"gregor-strasser\\\"]", "[\\\"weimar-republic|Gustav Ritter von Kahr\\\"]", "[\\\"weimar-republic|Otto von Lossow\\\"]", "[\\\"weimar-republic|Hans von Seißer\\\"]"]
+actors_secondary: ["[\\\"weimar-republic|Bavarian government\\\"]", "[\\\"weimar-republic|Reichswehr 7th Division\\\"]", "[\\\"bund-oberland\\\"]", "[\\\"reichsflagge\\\"]"]
 dating_method: documentary
 scale_consequential: civilizational
 scale_immediate: regional
@@ -125,3 +125,16 @@ myth of his movement. Source: [[paxton-europe-twentieth-century-2011]].
 `part_of`: [[weimar-democracy-and-its-collapse]]
 `followed_by`: [[nsdap-refoundation-1925]]
 `preceded_by`: [[november-revolution-1918|long-term revolutionary trauma and paramilitary culture]]
+
+## Shirer (1960) Additions
+
+Shirer, drawing on trial testimony, adds documentary texture and one contested detail (Shirer 1960):
+
+- Hitler's opening declaration in the hall (~8:45 p.m.): "The National Revolution has begun! This building is occupied by six hundred heavily armed men... The Bavarian and Reich governments have been removed and a provisional national government formed... The Army and the police are marching on the city under the swastika banner" — the last claim was, per Shirer, "false; it was pure bluff."
+- Nazi police spy Wilhelm Frick telephoned instructions to the police detail on duty at the beer hall not to interfere, only to report — concrete evidence of police collusion beyond the triumvirate itself.
+- Verbatim exchange in the side room: Hitler — "I have four shots in my pistol! Three for my collaborators, if they abandon me. The last bullet for myself!... If I am not victorious by tomorrow afternoon, I shall be a dead man!" Kahr's reply: "Herr Hitler, you can have me shot or shoot me yourself. Whether I die or not is no matter."
+- Kahr's escape and public disavowal by placard across Munich: "The declarations extorted from myself, General von Lossow and Colonel Seisser at the point of the revolver are null and void. The National Socialist German Workers' Party, as well as the fighting leagues Oberland and Reichskriegsflagge, are dissolved." Signed "VON KAHR, General State Commissioner."
+- **[CONTRADICTION-adjacent, contested]**: Shirer, citing the testimony of Nazi physician Dr. Walther Schulz and other witnesses, states Hitler "was the first to get up and turn back" and fled the Odeonsplatz scene, leaving wounded comrades — a dislocated shoulder rather than a bullet wound — before being driven to the Hanfstaengls' home at Uffing and arrested there two days later; Ludendorff by contrast walked upright through the police cordon, was arrested on the spot, and afterward refused ever again to wear a German officer's uniform out of bitterness at the Army's non-support. This flight account is politically charged and sourced to hostile/interested trial witnesses; treat as a specific claim requiring corroboration, not settled fact.
+- 1935 commemoration: as Chancellor, Hitler had the bodies of the 16 fallen Nazis exhumed and enshrined at the Feldherrnhalle: "They now pass into German immortality. Here they stand for Germany and keep guard over our people." Shirer's own dry aside — that Hitler did not add that these were also the men he had abandoned to their dying when he fled — is Shirer's editorializing, not neutral fact.
+
+Source: [[shirer-rise-fall-third-reich-1960]].

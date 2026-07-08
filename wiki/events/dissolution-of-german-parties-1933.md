@@ -1,23 +1,22 @@
 ---
-title: "Dissolution of the German Parties (1933)"
-date_start: 1933-05-10
-date_end: 1933-07-14
+title: Dissolution of the German Parties (1933)
+date_start: "1933-05-10"
+date_end: "1933-07-14"
 date_precision: exact
 period: [World Wars Era]
-region: [western-europe]
-location: [Germany]
-actors_primary: [[[nazi-germany]], SPD, Centre Party, DNVP]
-actors_secondary: [[[adolf-hitler]], [[bruning-heinrich]], Alfred Hugenberg, Prelate Ludwig Kaas, Otto Wels]
+region: ["western-europe"]
+causes: ["[[reichstag-fire-1933]] decree", "[[enabling-act-23-march-1933]]", "[[destruction-of-german-trade-unions-1933]]", SA terror]
+consequences: ["one-party state (Law against the New Formation of Parties 14 July 1933)", SoPaDe exile in Prague, Reich Concordat]
+sources_ingested: ["evans-coming-of-third-reich-2003", "shirer-rise-fall-third-reich-1960"]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe"]
 event_type: political
-scale_immediate: civilizational
+location: [Germany]
+actors_primary: ["[[nazi-germany]]", SPD, Centre Party, DNVP]
+actors_secondary: ["[[adolf-hitler]]", "[[bruning-heinrich]]", Alfred Hugenberg, Prelate Ludwig Kaas, Otto Wels]
 scale_consequential: civilizational
-causes: [[[reichstag-fire-1933]] decree, [[enabling-act-23-march-1933]], [[destruction-of-german-trade-unions-1933]], SA terror]
-consequences: [one-party state (Law against the New Formation of Parties 14 July 1933), SoPaDe exile in Prague, Reich Concordat]
-sources_ingested: [evans-coming-of-third-reich-2003]
-last_updated: 2026-07-02
-tags: [event, world-wars-era, western-europe]
+scale_immediate: civilizational
 ---
-
 # Dissolution of the German Parties (1933)
 
 Between May and 14 July 1933 every German political party other than the NSDAP
@@ -111,6 +110,10 @@ the differential milieu responses (SPD opposition-culture vs. Catholic
 reintegration-culture) as products of Bismarck-era persecution. The Concordat
 bargain remains contested terrain in the church-complicity literature (see
 [[german-church-struggle-1933-1939]]).
+
+## Shirer (1960) Addition
+
+Shirer (1960) gives a compact dissolution timeline consistent with Evans's fuller account above: the SPD "voluntarily" approved Hitler's foreign policy 19 May 1933 despite having its buildings and newspapers seized 10 May; formally banned 22 June as "subversive." Bavarian People's Party dissolved 4 July; Centre Party 5 July (the day before the Vatican Concordat was signed); the People's Party and Democrats (State Party) dissolved late June/early July; Hugenberg's German National Party dissolved 29 June after its offices were seized 21 June. The 14 July 1933 law declared the NSDAP "the only political party in Germany," penalizing attempts to maintain or form others with up to three years' penal servitude. Source: [[shirer-rise-fall-third-reich-1960]].
 
 ## Related
 

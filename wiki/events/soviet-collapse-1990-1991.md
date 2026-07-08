@@ -58,3 +58,17 @@ by every major actor, including Yeltsin until late 1991.
 - [[gorbachev-revolution]]
 - [[1991-end-of-cold-war]]
 - [[august-coup-1991]]
+
+## McCoy's Reading
+
+[[mccoy-cold-war-five-continents-2024|McCoy (2024)]] opens his account of the collapse
+by arguing that mass popular protest — the Baltic "singing revolution" and 1989 human
+chain, the East European "autumn revolutions," and the civil resistance that defeated
+the [[august-coup-1991|August 1991 coup]] — was as decisive as elite decisions
+("Gorbachev was no more the architect of that historic change than Bush himself"). He
+also advances the contested claim, recorded on
+[[mccoy-covert-empire-thesis|his controversy page]], that the
+[[central-intelligence-agency|CIA]]'s Afghan operation helped precipitate the collapse,
+and that post-1991 NATO expansion — which George Kennan called "the most fateful error
+of American policy in the entire post-cold-war era" — catalyzed later Russian
+revanchism rather than merely responding to it.

@@ -9,8 +9,8 @@ affiliated_with: [Confucian-Legalist statecraft, local elites]
 opposed_by: [the [[xiongnu]], rival warlords, the Yellow Turban rebels]
 key_events: [Emperor Wu's Xiongnu wars 141-87 BCE, Zhang Qian's mission to the Yuezhi 139 BCE, opening of the [[silk-roads|Silk Roads]], conquest of northern Korea 109 BCE]
 key_processes: [[[empire]], [[silk-roads]], [[confucianism|Confucian state ideology]], [[east-asian-cultural-sphere]]]
-sources_ingested: 6
-last_updated: 2026-06-27
+sources_ingested: 7
+last_updated: 2026-07-08
 tags: [actor, dynasty, classical-antiquity, late-antiquity, china, east-asia]
 ---
 
@@ -112,6 +112,14 @@ The frontier administrative structure created by these campaigns reorganized bor
 
 **Source:** [[di-cosmo-ancient-china-enemies-2002]].
 
+## Honour, Shame, and Bureaucratic Servitude (Lewis, in Kim et al. 2017)
+
+Mark Lewis (in [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]], Ch. 5) argues Han bureaucratic ideology bound officials into a status system of honour and shame that had **no exact Roman parallel**: ministers were explicitly termed the emperor's "slaves," addressed the throne only as "your servant" without their family surname (a right occasionally granted to the Xiongnu chanyu as a mark of "political kinship"), and — because official and ruler honour were held to be linked — condemned officials were conventionally permitted **suicide in lieu of public mutilating punishment**, documented in hundreds of Han shu cases. Lewis traces the honour/shame complex from a Warring States warrior-aristocratic ethic through Confucian moral redefinition to the Eastern Han "partisan clique" purges of the 160s CE, in which executed officials' deaths were framed as the highest form of scholarly moral integrity; a persistent undercurrent of kin/lord vengeance-duty (documented in "more than sixty cases") ran alongside the official system throughout. Lewis explicitly contrasts this with Rome, where "the army in the late Republic and the empire emerged as a group apart that preserved the military focus of honour," whereas Han armies were mass peasant levies controlled by reward and punishment rather than a professional honour-bound military caste — see [[rome-han-honour-and-shame]] for the fuller comparison with the [[roman-republic|Roman Republic]].
+
+## Slavery and Forced Labour Compared to Rome (Scheidel, in Kim et al. 2017)
+
+Walter Scheidel (in [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]], Ch. 6) argues Han China had markedly less chattel slavery than Rome but a far more extensive **state forced-labour system**. Chattel slavery in early China derived overwhelmingly from the legitimate enslavement of condemned criminals' kin, not (as in Rome) mass war-captive enslavement — no comparable evidence of large-scale war-captive slaving survives from the Warring States or Han periods. Scheidel revises the long-standard ~1% Han slave-population estimate (Wilbur 1943) upward to "the low seven figures" based on Fenghuangshan tomb inventories showing lower-level officials owning 40–50 slaves each. Where Rome relied on chattel slavery, Han China relied on **corvée and penal servitude** — convicts, sentenced to 1 month to 6 years, supplied a large mobile labour force for mining, canal- and wall-building, and manufacturing (an estimated 700,000 convicts and slaves reportedly built the First Emperor's palace); Scheidel calls Roman *ad metallum* convict labour "only a pale shadow of the much more extensive gulag-like Chinese system of penal servitude." He attributes the divergence to Chinese elites' weaker independent command of state resources compared to Rome's landowning senatorial class, and reads it as consistent with Ian Morris's finding that China's "social development" indices did not reach Roman levels until the Song dynasty. See [[rome-han-slavery-forced-labour]] for the fuller comparison.
+
 ## Significance
 
 The Han fixed the enduring shape of the Chinese empire: the Confucian-bureaucratic state,
@@ -180,3 +188,13 @@ the [[silk-roads|First Silk Roads Era]] and silk its supply engine. Key threads:
   [[spread-of-buddhism|Buddhism]] made its decisive conquest of China. The Han collapse is
   the eastern keystone of the [[collapse-of-first-silk-roads-era-250|end of the First Silk
   Roads Era]].
+
+## The southern frontier: the Red River (Taylor 2013)
+
+Han conquest reached the far south: General Lu Bode absorbed Nan Yue and the **Red River plain** in 111 BCE,
+organized as the commanderies of Giao Chi, Cuu Chan, and Nhat Nam. The 2 CE census recorded ~982,000 people
+there — more than double the neighbouring Guangxi/Guangdong prefectures. The clash between Han patrilineal
+registration and Lac (proto-Vietnamese) matrilineal custom helped drive the
+[[trung-sisters-revolt-40-ce|Trung sisters' revolt (40–43 CE)]], suppressed by Ma Yuan — the event marking
+the shift to direct provincial administration and the start of the millennium of
+[[sinicization-of-vietnam|Vietnamese sinicization]]. See [[dai-viet]].

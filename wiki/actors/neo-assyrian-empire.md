@@ -9,8 +9,8 @@ affiliated_with: [[[ashur|Ashur]], the cult of Ashur]
 opposed_by: [[[neo-babylonian-empire|Babylonia/Chaldeans]], the Medes, [[urartu|Urartu]], Elam, Egypt, Cimmerians, the [[arameans|Aramaeans]], [[hazael|Damascus]]]
 key_events: [[[bronze-age-collapse-1200bce|recovery from the Bronze Age collapse]], [[battle-of-qarqar-853bce|Qarqar 853]], [[fall-of-samaria-722bce|fall of Samaria 722]], conquest of Egypt, [[sack-of-thebes-663bce|sack of Thebes 663]], sack of Susa, [[fall-of-nineveh-612bce|fall of Nineveh 612]]]
 key_processes: [[[empire]], [[state-formation]], [[assyrian-mass-deportation|mass deportation]]]
-sources_ingested: 4
-last_updated: 2026-06-27
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [actor, empire, early-iron-age, archaic-period, mesopotamia]
 ---
 
@@ -188,6 +188,10 @@ than annexed), so that **Ashurbanipal's destruction of Elam** removed the buffer
 Medes and Persians — the peak that began the end. See [[ancient-near-eastern-modes-of-production]],
 [[ancient-near-east-historiography]], and [[divine-kingship]].
 
+## Nomadic Impact and Multi-Polarization (Adalı, in Kim et al. 2017)
+
+Selim Ferruh Adalı (in [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]], Ch. 3) argues that the [[cimmerians|Cimmerians]] and [[scythians|Scythians]] were not merely peripheral raiders but significant agents in Assyria's structural decline and in the ancient Near East's broader shift "from a club of great powers to a multi-polarization." He credits Cimmerian/Scythian equestrian and military technology — socketed "Scythian" arrowheads, the "Cimmerian bow," composite cavalry tactics — with reshaping Assyrian warfare: mounted cavalry became the empire's main offensive arm "from the time of Sennacherib onwards." Assyrian diplomacy toward the steppe peoples ran alongside conflict: [[esarhaddon|Esarhaddon]] entertained a Scythian alliance offer from Bartatua while prioritizing Egypt; the Scythian king **Madyes** is credited (via Herodotus, not independently confirmed) with helping defeat the Cimmerians under Tugdamme in alliance with [[ashurbanipal|Ashurbanipal]]. Adalı situates Ashurbanipal's destruction of Susa and Elam (647 BCE) — following a costly civil war against Shamash-shuma-ukin and set against a mid-seventh-century aridification episode — as removing the last major buffer state and setting up the final collapse: Egypt, Lydia, and the Medes broke from Assyrian overlordship through the 640s–630s, and the Chaldean–Median coalition sacked Nineveh in 612 BCE. See [[cimmerians]] and [[scythians]] for the nomadic actors' own trajectories, and [[pastoral-nomadism]].
+
 ## Historiography
 
 Known through abundant **royal annals and administrative archives** plus palace
@@ -205,3 +209,4 @@ Neo-Assyrian Capitals]] and [[imperial-city]].
   [[neo-hittite-states|Neo-Hittite states]] · [[arameans|Aramaean states]]
 - Rivals: [[urartu]] · [[elam]] · [[neo-babylonian-empire]] · the [[medes]]
 - Source: [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook of the Peoples and Places of Ancient Western Asia]] (2009) — gazetteer entries on the conquered and tributary polities
+- Source: [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]] (Adalı, Ch. 3, on Cimmerian/Scythian impact)

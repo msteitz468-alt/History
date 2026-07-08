@@ -9,8 +9,8 @@ affiliated_with: [the Pontic steppe peoples (the "Catacomb"/Koban horizon in thi
 opposed_by: [the [[scythians|Scythians]], [[neo-assyrian-empire|Assyria]], Urartu, Phrygia, [[lydia|Lydia]]]
 key_events: [the flight from the Scythians into Asia Minor, the sack of Phrygia (c. 696/680), the capture of Sardis (c. 640), the death of Dugdamme]
 key_processes: [steppe nomadism, mounted raiding]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, movement, archaic-period, eurasian-steppe, anatolia]
 ---
 
@@ -54,6 +54,12 @@ seventh-century career:
   [[ashurbanipal|Ashurbanipal]] (with help from the Scythians under Madyes), after which
   "they disappeared from history."
 
+## The Assyrian Perspective (Adalı, in Kim et al. 2017)
+
+Selim Ferruh Adalı (in [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]], Ch. 3) reconstructs Cimmerian history primarily from Assyrian sources, distinguishing **two Cimmerian branches** — one in Anatolia, northwest of Assyria, and one in western Iran — and proposes they formed "a multi-tribal steppe polity divided into larger groups, fluctuating according to political developments" (his own interpretive framing, not a settled fact). He identifies the earliest Assyrian attestation as "Teušpa the Cimmerian," defeated near Cybistra in 679 BCE, and documents **Tugdamme** (classical Lygdamis) as the dominant Cimmerian king in Anatolia by the mid-seventh century, controlling territory "from Lydia and Phrygia up to Cilicia and the frontiers of a declining Urartian state" and titled "king of the world" by an Assyrian astrologer (657 BCE); Tugdamme died c. 640 BCE. Adalı reads Cimmerian political structure as headed by a supreme king and dynasty, with subordinate city-lords and (per Assyrian sources on an internal rebellion) "a council of his troops," paralleling Herodotus's mention of a "council of Cimmerian kings" during internal strife. Adalı's synthesis credits the Cimmerians (with the Scythians) with a significant role in destabilizing Phrygia and Urartu, contributing to the broader multi-polarization of the Near East that preceded the fall of [[neo-assyrian-empire|Assyria]].
+
+**Gordion-sack dating dispute.** The archaeological destruction level at Gordion (Phrygia's capital) traditionally attributed to the Cimmerian sack (per Strabo, *Geography* 1.3.21) has since been **redated to the late ninth century BCE** by Rose and Darbyshire (2001) — earlier than any attested Cimmerian presence in Anatolia — a redating Muscarella (2012) disputes. The question of whether the Cimmerians actually sacked Gordion, and when, remains an open dating controversy rather than a settled fact.
+
 ## Causal Analysis
 
 caused_by: the westward pressure of the [[scythians|Scythians]] on the Pontic steppe.
@@ -75,4 +81,5 @@ history of the [[scythians|Scythians]] who displaced them.
 ## Related
 
 - Displacers: [[scythians]] · Victims: [[lydia]] (Sardis), Phrygia · Foes: [[neo-assyrian-empire]] ([[sargon-ii]], [[esarhaddon]], [[ashurbanipal]]) · Urartu
-- Possible kin: [[thracians]] · Period: [[archaic-period]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 33a)
+- Possible kin: [[thracians]] · Period: [[archaic-period]] · Compare: [[pastoral-nomadism]]
+- Sources: [[boardman-cah-v3p2-1991]] (Ch. 33a) · [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]] (Adalı, Ch. 3)

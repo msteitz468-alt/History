@@ -5,10 +5,10 @@ date_end: "1942-01-20"
 date_precision: exact
 period: [World Wars Era]
 region: ["central-europe"]
-causes: ["the decision(s) for the [[the-holocaust|\"Final Solution\"]] taken in late 1941", "[[heydrich-reinhard|Heydrich's]] July 1941 commission from [[goring-hermann|Göring]]", the need to coordinate ministries and secure their complicity]
+causes: ["the decision(s) for the [[the-holocaust|\\\"Final Solution\\\"]] taken in late 1941", "[[heydrich-reinhard|Heydrich's]] July 1941 commission from [[goring-hermann|Göring]]", the need to coordinate ministries and secure their complicity]
 consequences: ["bureaucratic coordination of the Europe-wide deportation program", the surviving protocol as key documentary evidence of genocidal intent, "escalation of [[operation-reinhard-1942|Operation Reinhard]] and deportations to [[auschwitz]]"]
-sources_ingested: [2]
-last_updated: "2026-07-02"
+sources_ingested: [3]
+last_updated: "2026-07-03"
 tags: [event, "world-wars-era", "central-europe"]
 event_type: political
 location: [Am Grossen Wannsee 56–58, Berlin]
@@ -38,3 +38,7 @@ Paxton and Hessler's *Europe in the Twentieth Century* (2011) quote Heydrich's r
 ## Historiography
 
 The decision-for-genocide debate: Evans argues against searching for a single written or spoken Führer order. Eichmann's postwar recollection of Heydrich citing a Hitler extermination order (late September/early October 1941) is, for Evans, "extremely doubtful . . . in so many words." Instead the Nazi command culture — the Party court's 1939 observation that members were accustomed "to read more out of such a command than it says in words" — meant Hitler's repeated public "prophecy" rhetoric (19 August, 25 October, 12 December 1941; 30 January, 14 February, 26 April 1942 in the last Reichstag speech) set parameters that Himmler and regional commanders competed to fulfill. Evans thus treats the Final Solution's origin "in terms of a process rather than a single decision," with security obsession — the memory of the 1918 "stab in the back" — as the overriding motive, and explicitly rejects a direct causal link between the 1942 food crisis and the acceleration of the killing. The surviving protocol (thirty copies circulated) and Goebbels's diary are the key documents.
+
+## Shirer (1960): the protocol as first popularized
+
+Shirer's ch. 27 gave the Wannsee protocol its first mass readership. His holdings: Heydrich's country-by-country tally of the eleven million (131,800 Jews left in the old Reich against a quarter-million in 1939; 5m USSR, 3m Ukraine, 2.25m General Government, 750k France, 330k England — the list assuming imminent conquest of Britain and Ireland); the road-building formula quoted verbatim ("in which task undoubtedly a great part will fall through natural diminution. The remnant that finally is able to survive all this… must be treated accordingly"); and State Secretary Josef Bühler's request "that the Jewish problem in my territory be solved as quickly as possible," his 2.5 million Polish Jews posing "no transportation problem… They were already there." Shirer also noted, already in 1960, that Nazi leadership at Wannsee still failed to grasp the slave-labor value of the Jewish millions until it was too late — an economic-irrationality point later scholarship developed. Source: [[shirer-rise-fall-third-reich-1960]]

@@ -57,3 +57,4 @@ east-central European politics for four centuries.
 - `opposed_by:` the [[teutonic-knights|Teutonic Order]] (the *reysa* crusade) and rising Moscow.
 - `part_of:` the Polish–Lithuanian union (Krewo, 1385); `affiliated_with:` the [[central-european-kingdoms|kingdom of Poland]].
 - `contains:` much of the former [[rus-principalities|Rus′]] (the western and southern principalities).
+- `part_of:` the pagan frontier of the [[baltic-crusades|Baltic Crusades]] — Europe's last pagan state. In *[[abulafia-berend-medieval-frontiers-2002|Medieval Frontiers]]*, Rasa Mažeika reads the crusade chronicles as showing a **religious frontier of ambiguous belief**: Grand Duke Gediminas told papal envoys that Christians, Orthodox Rus′ and Catholic Poles worshipped in their way and Lithuanians in theirs, "for we all have the one God," while his predecessor Vytenis both trampled a communion host and built the first Christian church in Lithuania. See [[medieval-frontier]].

@@ -9,8 +9,8 @@ affiliated_with: [the Abbasid dynasty, the [[ulama]], the Persian administrative
 opposed_by: [the [[umayyad-caliphate|Umayyads]], the [[kharijites]], Shi'i movements, the Byzantines]
 key_events: [the [[abbasid-revolution-750|Abbasid Revolution 750]], the founding of [[baghdad|Baghdad]] 762, the translation movement, the mihna, the rise of the Buyids 945]
 key_processes: [[[islamicate|Islamicate civilization]], [[the-translation-movement]], [[sharia|the elaboration of Islamic law]]]
-sources_ingested: 2
-last_updated: 2026-06-22
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, state, early-middle-ages, high-middle-ages, near-east, mesopotamia, islamic-world]
 ---
 
@@ -33,3 +33,7 @@ Mongol sack of 1258. This is the political frame for the religious and intellect
 volume traces.
 
 > Scaffold page for [[hodgson-venture-of-islam-v1-1974|Hodgson's Venture of Islam, Vol. 1]] ingest.
+
+## Fiscal centralization (Wickham 2005)
+
+In [[wickham-framing-the-early-middle-ages-2005|Wickham’s]] comparative fiscal frame, the early [[umayyad-caliphate|Umayyad]] state was strongly **regionalized**: provincial *dīwān* armies expected to keep local tax, and central administration was funded largely from Syria–Palestine. **Only from 750** were the ʿAbbāsid caliphs able to force taxation out of local officials on any scale; **the first century of ʿAbbāsid rule** marks the only period of full financial centralization of the caliphate in Wickham’s 400–800 window — a structural intensification of the eastern [[tax-based-vs-land-based-states|tax-based state]], not a break into land-based politics. Source: [[wickham-framing-the-early-middle-ages-2005]].

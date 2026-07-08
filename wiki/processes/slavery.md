@@ -8,8 +8,8 @@ region: [mediterranean, near-east, mesopotamia, levant, china, korea, north-afri
 process_type: economic
 driven_by: ["warfare and conquest", "[[trade-network-formation|long-distance trade]]", "[[urbanization]] and market demand", "[[state-formation|state]] coercive power", "[[empire|imperial]] expansion", "interaction of strong states with weaker peripheries"]
 produces: ["slave societies (Athens, Roman Italy)", "chattel agriculture", "military and administrative slavery", "domestic and sexual servitude", "manumission and ex-slave classes"]
-sources_ingested: 2
-last_updated: 2026-06-14
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, classical-antiquity, mediterranean]
 ---
 
@@ -162,6 +162,13 @@ carry the story forward: [[medieval-slavery|Vol. 2]] (500–1420), the
 [[atlantic-slave-trade|Atlantic system]] (Vol. 3, 1420–1804), and
 [[abolition-of-slavery|abolition and modern coerced labour]] (Vol. 4, 1804–2016).
 
+## Scheidel: Rome vs. Han China — a comparative divergence
+
+Walter Scheidel's chapter in [[sources/kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]] offers a direct comparative test of the slave-society/society-with-slaves distinction, asking why Rome became a slave society while Han China — a comparably vast, populous early empire — did not. Scheidel argues Rome's greater reliance on chattel slavery stemmed from two structural factors: relatively little of China's war-captive supply reached a private slave market (captives were instead converted to state forced-labor/conscription), and China's wealth elites were more constrained by, rather than co-extensive with, the state, unlike Rome's slaveowning aristocracy who "effectively owned the state." He estimates a Han-era slave population "in the low seven figures" (a few percent of the population) against a Roman figure of roughly 10% empire-wide — considerably lower than earlier scholarship's ~1% estimate for China but still far short of Roman "slave society" scale. **THESIS**: Scheidel situates this divergence within Ian Morris's broader finding that Chinese "social development" did not reach Roman levels until the Song dynasty, "almost 1,000 years later."
+
+Scheidel's larger and more striking contrast concerns **forced (non-chattel) labour**, which he argues was far more central to the Chinese state than the Roman: most adult Han civilians owed roughly a month's annual corvée, and Qin/Han penal servitude (typically 1–5 years) supplied a large, mobile convict workforce for the state's most demanding projects — mining, canal and wall building, minting — on a scale Scheidel calls a "gulag-like" system with no Roman equivalent (Roman penal labor, by contrast, was mainly municipal and never reached comparable scale). Correspondingly, "no slave revolts are reported in early China; instead, it was Han convicts who at times rose in considerable force." See [[han-dynasty]] for the institutional detail (Fenghuangshan tomb evidence, corvée/penal-servitude mechanics) and the fuller Rome/Han comparison at [[rome-han-slavery-forced-labour]].
+
 ## See also
 
 - [[unfree-labor-systems-compared]] — chattel slavery set against debt-bondage, serfdom, military slavery, and the mita
+- [[rome-han-slavery-forced-labour]] — dedicated Rome/Han comparison (Scheidel)

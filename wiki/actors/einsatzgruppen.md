@@ -5,8 +5,8 @@ date_start: 1938
 date_end: 1945
 period: [World Wars Era]
 region: ["eastern-europe"]
-sources_ingested: [2]
-last_updated: "2026-07-02"
+sources_ingested: [3]
+last_updated: "2026-07-03"
 tags: [actor, "military-force", "world-wars-era", "eastern-europe"]
 affiliated_with: ["[[schutzstaffel-ss]]", "[[heydrich-reinhard|Reinhard Heydrich]]'s Reich Security Main Office (RSHA)", "[[nazi-germany]]"]
 key_events: ["[[invasion-of-poland-1939]]", "[[operation-barbarossa-1941]]", "[[the-holocaust]]"]
@@ -43,3 +43,7 @@ Evans (2008) synthesizes the post-1990s archival consensus (Soviet-bloc archives
 - contributed_to: [[the-holocaust]]
 - concurrent_with: [[operation-barbarossa-1941]]
 - Source: [[evans-third-reich-at-war-2008]]
+
+## Shirer (1960): the Nuremberg record
+
+Shirer's account preserves the trial texture: Ohlendorf's flat "Ninety thousand!" to Lt. Cdr. Whitney R. Harris's question; his testimony on method (simultaneous firing squads "to avoid direct-personal responsibility"; his disapproval of neck-shot procedure as "an immense burden to bear" — for the killers); the Nikitchenko exchange confirming the murder of all Jewish children; Stahlecker's Group A report (229,052 by 31 Jan 1942, the coffin-map, frost delaying "mass executions," Estonia "Jew-free"); the Graebe affidavit from Dubno (see [[the-holocaust]]); the gas-van shift for women and children after Himmler's near-collapse at a Minsk demonstration shooting (Bach-Zelewski account); and the Einsatzgruppen Case outcome — 22 tried, 14 condemned, 4 executed at Landsberg on 8 June 1951 (Ohlendorf among them), the rest commuted. Shirer endorsed the Korherr-report-based total (~633,300 in Russia to March 1943, ~733k overall) against Eichmann's inflated 2 million, noting SS commanders padded figures "to please Himmler and Hitler." Source: [[shirer-rise-fall-third-reich-1960]]

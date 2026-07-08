@@ -1,23 +1,22 @@
 ---
 title: Degenerate Art Exhibition (1937)
-date_start: 1937-07-19
+date_start: "1937-07-19"
 date_end: 1937
 date_precision: exact
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
+causes: ["[[gleichschaltung]]"]
+consequences: ["[[unknown]]"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe"]
+event_type: cultural
 location: [Munich]
 actors_primary: ["[[goebbels-joseph]]", "[[adolf-hitler]]"]
 actors_secondary: ["[[nazi-germany]]"]
-event_type: cultural
-scale_immediate: civilizational
 scale_consequential: civilizational
-causes: ["[[gleichschaltung]]"]
-consequences: ["[[unknown]]"]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [event, world-wars-era, western-europe]
+scale_immediate: civilizational
 ---
-
 # Degenerate Art Exhibition (Munich, 1937)
 
 The regime's showcase condemnation of modernism: 650 confiscated works by 112
@@ -61,6 +60,11 @@ radio, left to Goebbels).
 [[goebbels-joseph]] · [[adolf-hitler]] · [[nazi-germany]] ·
 [[nazification-of-german-education-1933-1939]]
 
+## Shirer (1960) Addition
+
+[EYEWITNESS] Shirer personally visited both exhibitions in Munich in 1937 and called the sanctioned "House of German Art" show — 900 works selected by Hitler personally from 15,000 submissions, with Hitler reportedly kicking holes in some paintings with his jackboot — "the worst junk this writer has ever seen in any country." The parallel "degenerate art" show (Kokoschka, Chagall, and the expressionists) drew such large crowds that Goebbels, "incensed and embarrassed," ordered it closed. Hitler's opening speech (18 July 1937), quoted by Shirer: "With the opening of this exhibition has come the end of artistic lunacy." Roughly 6,500 modern paintings (Cézanne, Van Gogh, Gauguin, Matisse, Picasso, Kokoschka, Grosz among them) were removed from German museums — Shirer's figure runs somewhat lower than Evans's ~5,000 paintings/~12,000 works-on-paper confiscation total above, likely reflecting different counting dates (1937 vs. the 1938 confiscation law). Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 - [[evans-third-reich-in-power-2005]]
+- [[shirer-rise-fall-third-reich-1960]]

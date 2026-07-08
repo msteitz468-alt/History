@@ -1,23 +1,22 @@
 ---
 title: Battle of Berlin
-date_start: 1945-04-16
-date_end: 1945-05-02
+date_start: "1945-04-16"
+date_end: "1945-05-02"
 date_precision: exact
 period: [World Wars Era]
-region: [central-europe]
-location: [Berlin and the Oder–Neisse line]
-actors_primary: [the Red Army ([[zhukov-georgy|Zhukov]], Konev), [[nazi-germany|Nazi Germany's]] remnant Wehrmacht, Volkssturm and Hitler Youth]
-actors_secondary: [[[adolf-hitler]], [[goebbels-joseph|Joseph Goebbels]]]
+region: ["central-europe"]
+causes: ["the collapse of the German eastern front after [[battle-of-kursk-1943|Kursk]] and Bagration", "[[adolf-hitler|Hitler's]] refusal to surrender", Soviet determination to take the capital]
+consequences: ["[[adolf-hitler|Hitler's]] suicide on 30 April 1945", "the fall of [[nazi-germany|Nazi Germany]] and unconditional surrender on 8–9 May", Soviet occupation of eastern Germany and the division of Berlin, mass rape and flight of German civilians]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "central-europe"]
 event_type: battle
-scale_immediate: regional
+location: [Berlin and the Oder–Neisse line]
+actors_primary: ["the Red Army ([[zhukov-georgy|Zhukov]]", Konev), "[[nazi-germany|Nazi Germany's]] remnant Wehrmacht", Volkssturm and Hitler Youth]
+actors_secondary: ["[[adolf-hitler]]", "[[goebbels-joseph|Joseph Goebbels]]"]
 scale_consequential: global
-causes: [the collapse of the German eastern front after [[battle-of-kursk-1943|Kursk]] and Bagration, [[adolf-hitler|Hitler's]] refusal to surrender, Soviet determination to take the capital]
-consequences: [[[adolf-hitler|Hitler's]] suicide on 30 April 1945, the fall of [[nazi-germany|Nazi Germany]] and unconditional surrender on 8–9 May, Soviet occupation of eastern Germany and the division of Berlin, mass rape and flight of German civilians]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [event, world-wars-era, central-europe]
+scale_immediate: regional
 ---
-
 # The Battle of Berlin (April–May 1945)
 
 The final Soviet offensive of the European war: some 2.5 million Red Army troops stormed the Oder line and encircled Berlin, fighting street by street against a scratch defense of broken divisions, Volkssturm militia, and Hitler Youth while [[adolf-hitler|Hitler]] directed phantom armies from the Reich Chancellery bunker before killing himself on 30 April. The city surrendered on 2 May; the Reich followed within a week. Documented for the wiki from [[evans-third-reich-at-war-2008|Evans, *The Third Reich at War* (2008)]].
@@ -31,3 +30,13 @@ In the bunker: Hitler's 22 April breakdown ("everyone had betrayed him, even the
 ## Historiography
 
 Evans reads the final defense — Volkssturm, Hitler Youth, flying courts-martial hanging "defeatists," Himmler's order that "where a white flag appears, all the male persons of the house concerned are to be shot" — as the regime turning its annihilationist logic inward on the German population itself.
+
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Zhukov's forces broke from their Oder bridgeheads on 16 April 1945 and reached Berlin's outskirts by 21 April; Vienna had already fallen on 13 April. US 69th Infantry and Soviet 58th Guards Division met at Torgau on the Elbe at 4:40 p.m., 25 April 1945, splitting Germany in two and cutting Hitler off in the capital. General Krebs, Chief of the Army General Staff and a Russian speaker, went to negotiate with Soviet General Chuikov shortly after midnight on 30 April/1 May seeking safe conduct for Goebbels and Bormann in exchange for surrendering the city; Chuikov demanded unconditional surrender. By the evening of 1 May, some 500–600 survivors of Hitler's entourage (mostly SS) attempted a mass breakout from the bunker via the subway tunnels toward Friedrichstrasse station; Bormann died or was killed during the attempt (accounts conflict between a direct shell hit, per Kempka, and poison, per Hitler Youth leader Artur Axmann's later claim to have seen his unwounded body). Generals Krebs and Burgdorf are believed to have shot themselves in the New Chancellery cellar rather than attempt escape.
+
+Source: [[shirer-rise-fall-third-reich-1960]].
+
+## Sources (additional)
+
+- [[shirer-rise-fall-third-reich-1960]]

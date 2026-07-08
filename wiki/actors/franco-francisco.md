@@ -1,19 +1,18 @@
 ---
-title: "Francisco Franco"
+title: Francisco Franco
 actor_type: person
 date_start: 1892
 date_end: 1975
 period: [World Wars Era, Cold War]
 region: [iberia, mediterranean]
-affiliated_with: [Spanish Nationalist coalition, Falange Española Tradicionalista (as Caudillo), Axis (non-belligerent alignment 1940-43)]
+sources_ingested: [3]
+last_updated: "2026-07-03"
+tags: [actor, person, "world-wars-era", "cold-war", iberia]
+affiliated_with: [Spanish Nationalist coalition, Falange Española Tradicionalista (as Caudillo), "Axis (non-belligerent alignment 1940-43)"]
+key_events: ["spanish-civil-war-1936", "hendaye-meeting-1940", "francoist-repression-1936", "death-of-franco-1975"]
+key_processes: ["spanish-economic-miracle"]
 opposed_by: [Second Spanish Republic, Popular Front, Spanish Republican forces]
-key_events: [spanish-civil-war-1936, hendaye-meeting-1940, francoist-repression-1936, death-of-franco-1975]
-key_processes: [spanish-economic-miracle]
-sources_ingested: 2
-last_updated: 2026-07-02
-tags: [actor, person, world-wars-era, cold-war, iberia]
 ---
-
 # Francisco Franco (1892–1975)
 
 Spanish general who led the Nationalist side to victory in the
@@ -48,6 +47,12 @@ fascism's style while neutralizing the genuine article by absorbing the
 
 Related: [[actors/francoist-spain]] · [[spanish-civil-war-1936]] · [[falange]] ·
 [[german-intervention-spanish-civil-war-1936]] · [[mussolini-benito]] · [[serrano-suner-ramon]] · [[carrero-blanco-luis]]
+
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Shirer's captured German Foreign Office cables document a summer 1940 Nazi plot (Ribbentrop's idea, via Walter Schellenberg) to detain the Duke and Duchess of Windsor in Spain and Portugal, using Francoist-aligned intermediary Miguel Primo de Rivera and staged "scare maneuvers" to induce the Duke to remain available for a role in a peace settlement; a German legation cable (11 July 1940) reported the Duke "convinced that if he had remained on the throne war would have been avoided." The plot failed when the Windsors sailed for the Bahamas on 1 Aug 1940. Shirer's account fits the broader pattern documented at [[hendaye-meeting-1940]] — Spain as staging ground and potential lever in German diplomacy during the period when Franco's regime was weighing Axis alignment.
+
+Source: [[shirer-rise-fall-third-reich-1960]]
 
 ## Payne (1980)
 

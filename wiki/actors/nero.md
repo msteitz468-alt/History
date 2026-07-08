@@ -9,8 +9,8 @@ affiliated_with: [the [[julio-claudian-dynasty|Julio-Claudian house]]; Seneca an
 opposed_by: [the Pisonian conspirators (65); the rebel governors Vindex and [[year-of-the-four-emperors-69ce|Galba]] (68); the Jewish revolt]
 key_events: [accession (54), the murder of Agrippina (59), the Great Fire of Rome (64), the Pisonian conspiracy (65), the Greek tour (66–67), his fall and suicide (68)]
 key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy, rome]
 ---
 
@@ -70,6 +70,18 @@ Nero's fall opened the **[[year-of-the-four-emperors-69ce|civil war of 68–69]]
 the *arcanum imperii* — that emperors could be made by provincial armies. After his death the
 "false Neros" and the persistence of his popularity with the plebs and the Greek East testify
 to how differently his reign was judged at the bottom and the top of Roman society.
+
+## Beard (SPQR, 2015)
+
+Mary Beard surveys modern revisionist scholarship recasting Nero as more a victim of
+Flavian-dynasty propaganda than a self-obsessed pyromaniac — noting that Tacitus himself
+credits Nero with effective relief measures after the Great Fire, and that at least three
+"false Neros" appeared after his death claiming to be him, evidence (she argues) of real
+popular affection: "no one seeks power by pretending to be an emperor universally hated."
+But she judges this revisionism "misses the bigger point": whatever Nero's true character,
+it mattered little to most inhabitants of the empire or to the empire's underlying
+structures — see [[roman-empire]] for her fuller argument that individual emperors "filled
+the same slot."
 
 ## Related
 

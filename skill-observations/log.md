@@ -93,7 +93,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 **Principle:** Tool choice has side effects beyond fetching bytes: the harness's edit-safety gate is satisfied only by the Read tool. Workflows that update files in bulk should standardise on Read-before-Edit so the context-gathering step also clears the write gate, rather than incurring a second pass.
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-4 Read-before-Edit (weekly review 2026-07-03)
 
 ### Observation 9: Verifying "0 new broken links" — the wikilink checker only prints the first 50 files
 
@@ -109,7 +109,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 **Principle:** A linter's human-readable summary is not the same as its full result set; truncated displays can read as "clean" when they are merely "not shown." Verify scoped claims ("0 *new* X") with a delta measurement (before/after) or a scoped scan, never by eyeballing a capped report.
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-5 stash-comparison for 0-new links (weekly review 2026-07-03)
 
 ### Observation 10: New event pages need a small authoring pre-flight (Historiography section + no phrase-links in frontmatter)
 
@@ -125,7 +125,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 **Principle:** Recurring schema defects cluster by page-type; the cheapest fix is a type-specific pre-flight checklist applied at authoring time, not a generic "run the validator" at the end. Frontmatter that mixes link-syntax with free text needs an explicit rule about when brackets mean "link."
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Event Page pre-flight (weekly review 2026-07-03)
 
 ### Observation 11: Subagents propose NEW pages that duplicate existing wiki pages
 
@@ -141,7 +141,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 **Principle:** Range-isolated extractors are structurally blind to global state; any "create new X" they emit must be validated against the existing corpus by the one actor that can see the whole — the main thread. Make the dedupe-against-existing check an explicit reconciliation step rather than relying on the author happening to remember what exists.
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-1 duplicate pre-scan + lint check (weekly review 2026-07-03)
 
 ### Observation 12: Ebook-converted sources arrive without markdown headings — scaffold must locate structure by running-header/all-caps greps
 
@@ -185,22 +185,6 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 **Suggested improvement:** In the ingest workflow's Step 6 (and the "no blanket git-add" memory): after staging an explicit list, ALWAYS verify with `git diff --cached --name-only | wc -l` and confirm the count matches the intended file count before committing. Do NOT silence `git add` stderr; if suppressing pathspec warnings, check the exit code instead. Prefer staging via a verified file list (e.g. build the list, confirm each path exists with `ls`/`test -f`, then add) so a typo can't abort the batch.
 
 **Principle:** Commands that operate on a batch can fail atomically and silently — a single bad element can void the whole operation. Never trust that a multi-item mutating command did what you intended; verify the resulting state (here, the staged set) against the expected count before the irreversible next step (commit). And never pipe away the stderr of a state-changing command you depend on.
-
-### Observation 15: Source pages inconsistently carry sources_ingested/last_updated for the schema validator
-
-**Status:** ACTIONED — Fixed in `scripts/schema_validator.py` 2026-06-27: the `source` schema now requires the real CLAUDE.md source fields (`pages_created`, `ingested`) instead of the actor/event fields (`sources_ingested`, `last_updated`). Whole-wiki false-positive count dropped 1056 → 224. Resolves the drift in direction (b).
-
-**Date:** 2026-06-27
-**Session context:** Ingesting Nelson, *King and Emperor* (Charlemagne biography) via the Biography Hub workflow.
-**Skill:** New skill candidate / CLAUDE.md ingest workflow (wiki-ingest)
-**Type:** internal
-**Phase/Area:** Step 5 lint — schema validation of `wiki/sources/` pages
-
-**Issue:** `scripts/schema_validator.py` flags every `wiki/sources/` page for "Missing or empty required field: sources_ingested / last_updated", even though the CLAUDE.md **source-page schema** specifies `pages_created`, `pages_updated`, and `ingested` instead (not those two fields). Recent source pages are inconsistent: `geary-before-france-germany-1988.md` omits the two fields (and is flagged), while the Di Cosmo ingest log explicitly records "added sources_ingested/last_updated to source page" to silence the validator. I added both fields to the Nelson source page to make it pass. This wastes a verification cycle every ingest and produces drift between source pages.
-
-**Suggested improvement:** Resolve the mismatch in ONE direction: either (a) update the CLAUDE.md source-page schema + validator to make `sources_ingested`/`last_updated` standard on source pages (simplest: add them to the source frontmatter template), or (b) teach `schema_validator.py` that `source_type`-tagged pages use `ingested`/`pages_created` and should not require the two actor/event fields. Document the decision in CLAUDE.md so future ingests stop re-deciding ad hoc.
-
-**Principle:** When a linter and the authoring spec disagree on required fields for a page type, every ingest silently re-litigates it and the corpus drifts. Make the validator and the template agree once, and the ambiguity stops costing a cycle per ingest.
 
 ### Observation 16: Subagent "page numbers" from line-range caches are unreliable artifacts
 
@@ -459,7 +443,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 **Principle:** A wiki's trust model should be enforced at ingest time by routing, not just annotation: low-trust sources get quarantined into controversy/concept pages where their claims are attributed positions, never merged into the factual record.
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Source-Type Handling: artifact mode (weekly review 2026-07-03)
 
 ### Observation 35: Controversy pages must not adjudicate in wiki voice — curator adjudicates
 
@@ -475,22 +459,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 **Principle:** In a curator-directed wiki, the assistant's honesty obligation is to attribution accuracy (who holds what, on what evidence), not to rendering verdicts; adjudication hides in metadata and labels, not just prose.
 
-**Status:** OPEN
-
-### Observation 36: Subagent extraction can be killed by content filtering on dark-history material — plan main-thread recovery, not respawn
-
-**Status:** ACTIONED — Applied to CLAUDE.md Deployed Subagent Strategy (2026-07-01, at Mark's request): Step 2 gained a mandatory "Atrocity-dense triage" rule (route flagged ranges to main thread; never tone down or omit); Step 3's failure clause generalized from rate limits to any failure mode incl. content filtering.
-**Date:** 2026-07-01
-**Session context:** Paxton *Vichy France* (1972) ingest; 5 Sonnet extraction subagents over disjoint ranges
-**Skill:** Ingest workflow (CLAUDE.md Deployed Subagent Strategy)
-**Type:** internal
-**Phase/Area:** Step 3 (subagent deployment) / failure recovery
-
-**Issue:** The subagent assigned to Part II ("The National Revolution" — the chapter containing Vichy's anti-Jewish legislation and Final Solution material) completed its reads but its final output was blocked: "API Error: Output blocked by content filtering policy." Nothing was written to its extract file. The other four agents, whose ranges also touched deportations and hostage executions but less densely, passed. The existing recovery protocol only anticipated 429 rate limits.
-
-**Suggested improvement:** In the Deployed Subagent Strategy's failure clause, generalize "rate limit" to any subagent failure mode (429, content filter, crash): the main thread recovers *that range alone* from the cache slice and labels the extract block "Main-thread recovery." For sources dense in atrocity/persecution content (Holocaust, genocide, slavery), consider either assigning those chapters to the main thread from the start or instructing subagents to summarize rather than quote the most graphic passages — the block appears to trigger on concentrated verbatim reproduction, not the topic per se (other agents quoted the same events sparsely without issue).
-
-**Principle:** Historical atrocity documentation is legitimate wiki content, but automated safety filters can't always distinguish scholarly reproduction from harmful generation. A parallelized pipeline needs a failure-mode-agnostic per-chunk recovery path, and chunks should be triaged for filter risk the same way they're triaged for density.
+**Status:** ACTIONED — Applied to CLAUDE.md Source-Type Handling: curator adjudicates (weekly review 2026-07-03)
 
 ### Observation 37: Artifact-mode ingest validated on a substantive polemic (Flynn), not just a shallow one (D'Souza)
 
@@ -506,7 +475,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 **Principle:** The quarantine boundary for low-trust sources should run between a source's evidence and its inferences, not around the whole book — attribution chains, not blanket exclusion, are what keep the factual layer clean.
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Source-Type Handling: FACTS/THESES/QUOTES split (weekly review 2026-07-03)
 
 ### Observation 38: Ebook-converted sources can contain internally duplicated passages — instruct subagents to flag, not re-extract
 
@@ -521,11 +490,11 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 **Suggested improvement:** Add one line to the standard subagent prompt template: "If you find passages duplicated verbatim within your slice (an ebook-conversion artifact), flag them and extract once." Optionally, at scaffold time, a cheap duplicate-block check (e.g., sort | uniq -d on longer lines) on conversion-derived texts before drawing chunk boundaries.
 
 **Principle:** Ebook→text conversions introduce not only missing headings (Obs. 12) but content-level artifacts (duplicated blocks). Chunking and extraction assumptions that hold for clean PDF-derived text need a duplication guard for epub-derived text.
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-3 prompt: flag internal duplication (weekly review 2026-07-03)
 
 ### Observation 39: Extraction subagents should flag name/date ambiguities — and it works
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-3 prompt: flag entity mismatch (weekly review 2026-07-03)
 **Date:** 2026-07-02
 **Session context:** Whitman *Verdict of Battle* (2012) ingest, deployed-subagent strategy, 3 Sonnet agents
 **Skill:** Deployed Subagent Strategy (CLAUDE.md ingest workflow)
@@ -540,7 +509,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 ### Observation 40: Repair wikilinks with the Edit tool, not sed — pipe delimiters and frontmatter break
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-5 Edit-not-sed for wikilinks (weekly review 2026-07-03)
 **Date:** 2026-07-02
 **Session context:** Evans, The Third Reich in Power ingest — Step 4/5 link reconciliation
 **Skill:** Ingest workflow (CLAUDE.md Deployed Subagent Strategy, Step 5 lint)
@@ -565,7 +534,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 **Suggested improvement:** Add a "duplicate canonical page" check to the lint workflow (heuristic: near-synonymous titles / same date_start+date_end+event_type in frontmatter), and at ingest Step 1 require a one-grep synonym check before accepting any high-traffic page name. When Mark next requests a lint pass, propose merging the WWII pair (canonical: world-war-ii-1939-1945 by inbound count, or second-world-war-1939 by naming convention — needs his call).
 **Principle:** Link checkers verify resolution, not identity; a wiki can silently fork its most important pages when two valid names both exist. Dedupe needs a semantic check (title/date collision), not just a broken-link check.
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md lint duplicate-canonical-page check (weekly review 2026-07-03)
 
 ### Observation 42: `cat >>` appends silently create orphan pages when the target path is wrong — verify existence before appending
 
@@ -611,7 +580,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 ### Observation 45: Word-count sanity check before scaffolding — epub extraction silently missing half the book
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-1 wc -w intake check (weekly review 2026-07-03)
 **Date:** 2026-07-02
 **Session context:** Ingest of Hartz, *The Founding of New Societies* (1964)
 **Skill:** New skill candidate / CLAUDE.md ingest workflow (internal)
@@ -626,7 +595,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 ### Observation 46: Extraction subagents self-report partial slice coverage — read the completion summary for coverage bounds and gap-fill
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-3 prompt: report actual coverage (weekly review 2026-07-03)
 **Date:** 2026-07-02
 **Session context:** Ingest of Hayek, The Constitution of Liberty (Definitive Edition) via Deployed Subagent Strategy, 7 range agents + 1 gap-fill
 **Skill:** Ingest workflow (CLAUDE.md Deployed Subagent Strategy, Step 3)
@@ -653,11 +622,11 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 **Principle:** Filing by title match instead of by the exact ingested path silently corrupts the queue when duplicates exist; always file the path you read from, and quarantine twins at the same moment.
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-6 file-by-exact-path (weekly review 2026-07-03)
 
 ### Observation 48: Content-filter blocks are not predicted by atrocity-density triage
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-2 triage (weekly review 2026-07-03)
 **Date:** 2026-07-02
 **Session context:** Ingest of Griffin, *Modernism and Fascism* (2007), Deployed Subagent Strategy (5 Sonnet agents)
 **Skill:** CLAUDE.md ingest workflow (atrocity-dense triage rule, Step 2)
@@ -677,7 +646,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 **Skill:** CLAUDE.md ingest workflow (deployed subagent strategy)
 **Type:** internal
 **Phase/Area:** Step 2 — cache-slice preparation
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-2 slice-to-scratchpad-early / raw mutable (weekly review 2026-07-03)
 
 **Issue:** The separate Vol 1 and Vol 3 .txt files in raw/ disappeared mid-ingest. Initially read as an anomaly; the user clarified he deleted them deliberately in favor of the combined 3-volume PDF. The ingest was unaffected only because the combined PDF had already been converted and sliced to the scratchpad.
 
@@ -716,7 +685,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 
 ### Observation 52: Content-filter triage should flag atrocity-DISCOURSE chapters, not only atrocity-documentation chapters
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-2 triage — atrocity discourse (weekly review 2026-07-03)
 
 **Date:** 2026-07-02
 **Session context:** Ingest of Evans, *In Defence of History* (1997) via Deployed Subagent Strategy (3 Sonnet agents)
@@ -736,7 +705,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 **Session context:** Payne *Fascism: Comparison and Definition* (1980) ingest, running concurrently with a separate session ingesting Griffin's *Fascism* (Oxford Reader 1995) — both touching the same fascism-batch pages
 **Skill:** CLAUDE.md Deployed Subagent Strategy (Step 4 reconciliation) / cross-session hygiene
 **Type:** internal
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-4 Edit-append on parallel-session pages (weekly review 2026-07-03)
 **Phase/Area:** Page integration writes
 
 **Issue:** This session created `concepts/theories-of-fascism.md` as a scaffold, then later replaced it with a full Write. In between, the concurrent Griffin session Edit-appended its own section to the same file (it appears in its "Pages updated (12)" list). The full Write clobbered that addition silently — discovered only because the Griffin session's log entry and source page claimed an update the file no longer contained. Its scratch caches could not be located, so the lost section was reconstructed only in summary form with an explicit loss note on the page. Edits by the parallel session to *other* shared pages (generic-fascism) survived because both sessions used anchored Edits there, which interleave safely.
@@ -751,7 +720,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 **Session context:** Payne 1980 ingest; subagent for chs. 1–3 (definitional typology, 19th-c. antecedents, movement comparison — minimal atrocity content) died with "Output blocked by content filtering policy" after 4 tool uses; chs. 4–5 and 6–9 agents (with far more violence/genocide discourse) completed fine
 **Skill:** CLAUDE.md ingest workflow (Step 2 atrocity-dense triage rule); reinforces Observations 48 and 52
 **Type:** internal
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-2 — fascism sources filter-prone (weekly review 2026-07-03)
 **Phase/Area:** Chunk triage / subagent spawning
 
 **Issue:** Filter blocks remain unpredicted by atrocity-density triage: the *least* graphic range of a fascism book was the one blocked, likely on ideological-doctrine reproduction (fascist programs, Nazi Twenty-Five Points, racial-doctrine exposition). Main-thread recovery worked exactly as designed (range read directly, integrated at full fidelity, other agents unaffected).
@@ -762,7 +731,7 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 ### Observation 55: Scaffold step should include a duplicate-page pre-check; agents keep tripping over existing duplicates
 
-**Status:** OPEN
+**Status:** ACTIONED — Applied to CLAUDE.md Step-1 duplicate pre-scan (weekly review 2026-07-03)
 **Date:** 2026-07-02
 **Session context:** Paxton *Europe in the Twentieth Century* ingest (10 extraction + 3 integration subagents)
 **Skill:** Deployed Subagent Ingest workflow (CLAUDE.md)
@@ -789,4 +758,109 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 
 **Principle:** Subagent instructions are treated as ground truth by the agent; any unverified inference embedded in them becomes a potential extraction bias. State inferences as hypotheses and instruct agents to privilege the text over the brief (which CSQ-B did — the "flag ambiguities" instruction plus obs-39-style self-reporting worked as designed).
 
+**Status:** ACTIONED — Applied to CLAUDE.md Step-3 prompt: briefs as expectations (weekly review 2026-07-03)
+
+### Observation 57: Two-stage subagent ingest — extraction by line-range, integration by page-ownership
+
+**Status:** ACTIONED — Applied to CLAUDE.md Step-4 two-stage variant (weekly review 2026-07-03)
+**Date:** 2026-07-03
+**Session context:** Shirer *Rise and Fall of the Third Reich* ingest (~1,600 pp) into a wiki with dense pre-existing coverage (Evans/Kershaw/Taylor)
+**Skill:** New skill candidate / CLAUDE.md ingest workflow refinement
+**Type:** internal
+**Phase/Area:** Deployed Subagent Strategy, Steps 3–4
+
+**Issue:** For a well-trodden source, most claims are UPDATEs to existing pages, and many extraction ranges target the same pages (goebbels-joseph appeared in 6 of 11 ranges). Applying updates directly from range-partitioned agents would collide. This session ran a second parallel wave: 4 integration subagents partitioned by EXCLUSIVE WIKI-PAGE ownership (not by source range), each grepping ALL claims files for its owned slugs, restricted to the Edit tool (no full rewrites). Main thread kept the filter-prone/atrocity pages plus all new-page creation it had scaffolded.
+
+**Suggested improvement:** Document the two-stage pattern in CLAUDE.md's Deployed Subagent Strategy: Stage 1 extraction agents own disjoint line-ranges and write claims files only; Stage 2 integration agents own disjoint page sets and read all claims files. Cross-cutting pages (Hitler, Goebbels, Göring) must be explicitly assigned to exactly one integrator or the main thread.
+
+**Principle:** Partition parallel writers by the resource they mutate, not by the resource they read. Extraction mutates claims files → partition by source range; integration mutates wiki pages → partition by page. One partition scheme cannot safely serve both stages.
+
+### Observation 58: Chunk boundaries drawn on subsection greps can leave inter-agent gaps at chapter openings
+
+**Date:** 2026-07-03
+**Session context:** Deployed-subagent ingest of Taylor, *A History of the Vietnamese* (13 chapters, 320k words) — CLAUDE.md World History Wiki
+**Skill:** CLAUDE.md ingest workflow (Deployed Subagent Strategy, Step 2 "Split the book by disjoint line-ranges")
+**Type:** internal
+**Phase/Area:** Step 2 boundary-drawing / Step 4 reconciliation
+
+**Issue:** I located chapter boundaries by grepping distinctive *subsection* titles from the TOC and set each agent's start line at the first subsection I picked. For Chapter 6 I picked "Dao Duy Tu and southern mobilization," but the chapter actually opened with three earlier generic-titled subsections ("The north," "The south," "War begins"). Agent C (Ch4–5) correctly stopped at the true chapter-6 start and treated the opening as out-of-scope; Agent D (Ch6–8) began at my later marker. The result was a ~950-line gap (the Nguyen Hoang / north–south-divergence setup, foundational to the Trinh/Nguyen pages) that no agent covered. A second smaller gap appeared where Agent B stopped short of its assigned range. Both were caught only because agents reported exact coverage; main-thread gap-reads confirmed them enrichment-level, not page-breaking.
+
+**Suggested improvement:** When choosing a grep marker for a chunk's start boundary, use the **chapter heading itself** (or the *first* subsection listed under it in the TOC), not a memorable mid-chapter subsection. If chapter headings aren't standalone lines in the body (as here — they lived only in the TOC), pick the earliest subsection title under each chapter and verify with a ~5-line spot-read that nothing chapter-relevant precedes it. Add to Step 4 a routine "boundary-seam check": for each adjacent agent pair, confirm agent N's actual end line abuts agent N+1's start line with no gap, using their reported coverage.
+
+**Principle:** Disjoint line-ranges are only truly disjoint-and-complete if adjacent boundaries *abut*. Markers chosen for memorability tend to sit inside a section, so two agents can each correctly exclude the material between the true boundary and the marker, silently dropping it. Boundaries should be set at section *starts* and seams verified pairwise at reconciliation.
+
+---
+
+## 2026-07-08 — Captivating "Native American History" filename/content mismatch
+
+### Observation 59: Filename/content mismatch — queue file labeled Native American History (Captivating) but contains American History omnibus
+
+**Date:** 2026-07-08
+**Session context:** User query: "ingest Native American History A Captivating Guide to the Long History...". Task-observer session-start protocol run; Step-1 word-count intake and content fingerprint before scaffold.
+**Skill:** CLAUDE.md ingest workflow (Deployed Subagent Strategy Step 1, source acquisition verification)
+**Type:** internal
+**Phase/Area:** Pre-ingest diagnosis / source acquisition verification
 **Status:** OPEN
+
+**Issue:** The only matching file in raw/ is `Native American History A Captivating Guide to the Long History of Native Americans Including Stories of the Wounded Knee… (Captivating History [History, Captivating]) (z-library.sk, 1lib.sk, z-lib.sk).txt` (~34,450 lines, ~206k words, converter header claims 1162 pages and the Native American title). Internal content is **not** that book. Body title page and TOC are *American History: A Captivating Guide to the History of the United States…* (© 2020), an 8-part omnibus: (1) History of the United States, (2) American Revolution, (3) Civil War, (4) History of Chicago, (5) Roaring Twenties, (6) Great Depression, (7) Pearl Harbor, (8) Gulf War. Native content is incidental survey material only (Part 1 Ch.1 "The People Who Were There First", Ch.9 "Horrors for the Natives", brief Wounded Knee passage ~lines 2930–3060). No Hiawatha-focused Native American History guide exists in the text. Converter Title/Source-file header used the *filename*, not content identity. Recurrence of Obs 50 (Rawlinson→Fomenko).
+
+**Suggested improvement:** (Already partially in Obs 50.) Keep content-fingerprint as a hard gate before cache-slice or scaffold. When filename and body title diverge, surface immediately with: labeled-as, actual-content identity, word count, and options (quarantine / ingest-as-actual / wait for correct file). Do not invent a Native American source page from incidental US-survey chapters.
+
+**Principle:** Filenames and ebook-converter metadata are not bibliographic identity. In zlib-sourced collections, label drift is common; verify content against the intended work at first tool use before any ingest investment.
+
+**Reference file:** raw/Native American History A Captivating Guide to the Long History of Native Americans Including Stories of the Wounded Knee… (Captivating History [History, Captivating]) (z-library.sk, 1lib.sk, z-lib.sk).txt
+
+### Observation 60: Subagents emit wikilinks inside YAML frontmatter list fields, creating malformed/broken links
+
+**Date:** 2026-07-08
+**Session context:** Ingesting Warwick Ball, *Rome in the East* (Deployed Subagent Strategy). Creation subagents drafted 27 new pages from a shared CREATE_BRIEF that told them to "link only real page slugs" and "do NOT wrap descriptive phrases in [[ ]]."
+**Skill:** task-observer / ingest workflow (CLAUDE.md Deployed Subagent Strategy)
+**Type:** internal
+**Phase/Area:** Step 3 subagent prompts + Step 5 lint
+
+**Issue:** Despite the brief's linking rules, a creation subagent wrote `opposed_by: [[[praetorian-guard]]]` in a page's YAML frontmatter — a wikilink placed inside a YAML list, producing a malformed triple-bracket token the wikilink checker flags as broken (praetorian-guard has no page). Other agents linked plausible-but-nonexistent slugs in body text (`phoenicia` vs the real `phoenicians`; `hadrians-wall`, which is only a person page `hadrian`). The brief's rule addressed *body* over-linking but did not explicitly forbid wikilinks in *frontmatter list fields*, where entity names should be plain strings (the schema's `opposed_by`/`affiliated_with`/`key_events` fields are descriptive lists, not link fields). The `--files` scoped wikilink check caught all of them cheaply.
+
+**Suggested improvement:** Add one line to the ingest subagent brief: "Frontmatter list fields (`opposed_by`, `affiliated_with`, `key_events`, `causes`, `consequences`, etc.) take **plain-text entity names, not wikilinks** — never put `[[ ]]` inside a YAML `[...]` list. Only body prose carries wikilinks, and only to slugs you can confirm exist." Also standardise a post-integration `wikilink_checker.py --files <touched set>` pass (not just `--changed`, which is polluted by other sessions' modified files) as the canonical "0 new broken links" check.
+
+**Principle:** Subagents follow positive linking rules but miss the structural boundary between link-bearing prose and plain-text frontmatter; the brief must name that boundary explicitly. And in a repo where many files are concurrently dirty, broken-link verification must be scoped to the *explicit touched-file list*, since `--changed`/git-status-based scoping conflates other sessions' work and buries the ingest's own new links.
+
+### Observation 61: Locate chapter boundaries via uppercase chapter-opener lines when OCR strips heading structure
+
+**Date:** 2026-07-08
+**Session context:** Ingesting Laiou & Morrisson, *The Byzantine Economy* (Cambridge Medieval Textbooks, 2007) via the Deployed Subagent Strategy; needed disjoint chapter-aligned line ranges for 4 extractor agents.
+**Skill:** Ingest Workflow — Deployed Subagent Strategy (CLAUDE.md Step 2)
+**Type:** internal
+**Phase/Area:** Step 2 — splitting the book by disjoint line-ranges
+
+**Issue:** The epub→md conversion lost heading markup: TOC section subtitles ("Demography", "Exchange"...) appeared only in the TOC block, and running-page headers repeated the chapter title dozens of times (page decoration), so neither TOC-line grepping nor running-header frequency reliably marked where each chapter's *body* began. Bare page-number anchors were also absent. What DID work: the converter preserved chapter openers as ALL-CAPS lines (e.g. "SHIFT TO MEDIEVAL STRUCTURES", "CONTROLLED EXPANSION (EARLY"), each immediately preceded by the Roman numeral. Grepping for distinctive uppercase fragments of each chapter title gave exact, unambiguous body-start line numbers in one pass.
+
+**Suggested improvement:** Add to the boundary-drawing toolkit: when converted text has lost heading structure, try `grep -nE` for ALL-CAPS fragments of chapter titles (and standalone Roman-numeral lines) to find true body chapter-starts, rather than relying on TOC line numbers (which sit in the front-matter block) or running-header frequency (page decoration that repeats every ~86 lines and conflates with real headings). Verify with a 3-line context read at each hit.
+
+**Principle:** OCR/ebook conversion degrades *structure* differently from *content*: headings often survive as capitalization even when markdown/indentation is gone. Detect boundaries from the surviving signal (case), not the lost one (markup/whitespace), and cross-check that a candidate marker is a one-time body event, not a repeating page ornament.
+
+### Observation 62: Partial-ingest source pages can claim integration that is not on disk
+
+**Date:** 2026-07-08
+**Session context:** Re-ingesting Wickham *Framing the Early Middle Ages* after a 2026-07-02 scaffold left incomplete status notes
+**Skill:** CLAUDE.md Deployed Subagent Strategy / project ingest workflow
+**Type:** internal
+**Phase/Area:** Step 1 status audit before re-running a "partial" source
+**Status:** OPEN
+
+**Issue:** The source page `wickham-framing-the-early-middle-ages-2005.md` asserted Ranges 03–12 "integrated" and listed place pages (Lucca, Vorbasse, etc.) as if created, but `rg -l wickham-framing` hit only index/log, most listed places were MISSING, cache was gone, and frontmatter still had pages_created: 0. Trusting the narrative would have skipped re-extraction.
+
+**Suggested improvement:** At ingest start, when a source page exists with non-complete status, require a mechanical audit: (1) count pages citing the source slug; (2) existence-check every "created" slug listed on the source page; (3) presence of claims/cache dirs. Treat prose status as aspirational until the audit passes. Only then decide resume vs full re-extract.
+
+**Principle:** Status prose on source pages is not evidence of completion; completion is verified by on-disk page existence, citation counts, and frontmatter tallies.
+
+### Observation 63: Agent FOCUS narrower than its slice forces a gap-fill pass
+
+**Date:** 2026-07-08
+**Session context:** Ingesting Formichi, *Islam and Asia* (2020). Chapter chunks were cut one-agent-per-chapter by line range, but the Ch.1 agent was given a FOCUS ("Central Asia / Ghaznavid / Samanid / overland") narrower than its slice, which also contained the chapter's "Muslims of Maritime Asia" section. The agent correctly extracted only its focus and flagged the maritime section as unextracted, forcing a scoped main-thread gap-fill agent.
+**Skill:** CLAUDE.md ingest workflow (Deployed Subagent Strategy, Step 3)
+**Type:** internal
+**Phase/Area:** chunk briefing / focus scoping
+
+**Issue:** When a per-agent chunk equals a full chapter but the prompt's FOCUS covers only part of that chapter's content, the agent honours the focus and leaves the rest of its exclusive slice unextracted — creating a silent coverage hole that only surfaces because a well-behaved agent flags it.
+**Suggested improvement:** In Step 3, add: an agent's FOCUS must span its entire exclusive line-range. If a chapter mixes two topics you'd rather brief separately, either (a) give one agent both topics as its focus, or (b) split the line-range so each focus maps to its own disjoint slice. Never hand an agent a slice wider than its stated focus.
+**Principle:** Exclusive-ownership only guarantees coverage if each owner's mandate covers all of what it owns. A focus narrower than the slice reintroduces the very gap the disjoint-partition was meant to prevent.

@@ -1,23 +1,22 @@
 ---
-title: The "Wonder Weapons" Programs (V-1, V-2, and the Rest)
+title: "The \"Wonder Weapons\" Programs (V-1, V-2, and the Rest)"
 date_start: 1943
 date_end: 1945
 date_precision: year
 period: [World Wars Era]
-region: [central-europe, western-europe]
-location: [Peenemünde, the Mittelwerk/Dora complex at Nordhausen, launch sites in France and the Low Countries]
-actors_primary: [[[nazi-germany]], [[von-braun-wernher|Wernher von Braun]], [[speer-albert|Albert Speer]], [[adolf-hitler]]]
-actors_secondary: [[[himmler-heinrich|Himmler]] and Kammler's SS, IG Farben (nerve agents), Heisenberg's and Diebner's nuclear teams]
+region: ["central-europe", "western-europe"]
+causes: [the failure of conventional means after 1942, "Hitler's turn to \"retribution\" (Vergeltung) against the bombing", "propaganda's need for a plausible path to victory"]
+consequences: [~9, 000 killed in Britain and more in Belgium for enormous resource diversion, ~20, "000 forced-laborer deaths at Dora", the postwar missile and space programs, "sustained (false) German home-front hope into 1945"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "central-europe"]
 event_type: other
-scale_immediate: regional
+location: [Peenemünde, the Mittelwerk/Dora complex at Nordhausen, launch sites in France and the Low Countries]
+actors_primary: ["[[nazi-germany]]", "[[von-braun-wernher|Wernher von Braun]]", "[[speer-albert|Albert Speer]]", "[[adolf-hitler]]"]
+actors_secondary: ["[[himmler-heinrich|Himmler]] and Kammler's SS", IG Farben (nerve agents), "Heisenberg's and Diebner's nuclear teams"]
 scale_consequential: regional
-causes: [the failure of conventional means after 1942, Hitler's turn to "retribution" (Vergeltung) against the bombing, propaganda's need for a plausible path to victory]
-consequences: [~9,000 killed in Britain and more in Belgium for enormous resource diversion, ~20,000 forced-laborer deaths at Dora, the postwar missile and space programs, sustained (false) German home-front hope into 1945]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [event, world-wars-era, central-europe]
+scale_immediate: regional
 ---
-
 # The Wonder Weapons (1943–1945)
 
 Per [[evans-third-reich-at-war-2008|Evans (2008)]].
@@ -29,9 +28,16 @@ Per [[evans-third-reich-at-war-2008|Evans (2008)]].
 
 Evans's verdict: the regime's "inability to prioritize" and its institutional infighting doomed every program; their chief real function was propaganda — sustaining the home front's hope of a miracle into 1945 (and, at Dora, killing prisoners on a scale their targets never suffered).
 
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Shirer adds hard-data detail on the intelligence/bombing campaign against the program: RAF reconnaissance, tipped off by the Polish underground, photographed Peenemünde in May 1943, and an August 1943 British bombing raid damaged the installation, delaying V-1/V-2 research by months. By November 1943 the Allies had located 63 V-1 launch sites in the Pas-de-Calais; between December 1943 and February 1944 they destroyed 73 of 96 identified sites. The "V" designation stood for *Vergeltungswaffen* ("weapons of reprisal").
+
+Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 - [[evans-third-reich-at-war-2008]]
+- [[shirer-rise-fall-third-reich-1960]]
 
 ## Historiography
 

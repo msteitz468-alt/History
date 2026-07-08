@@ -78,3 +78,14 @@ Linked: US (Truman, Acheson, MacArthur), China (Mao), North Korea (Kim Il Sung),
 See main sources for broader debates; Freedman's account emphasizes the demonstration effect on nuclear usability and credibility questions that would dominate the rest of the decade.
 
 See also: [[periods/cold-war]], [[concepts/nuclear-strategy]], [[concepts/massive-retaliation]], [[concepts/limited-nuclear-war]], [[sources/freedman-evolution-of-nuclear-strategy-1981]], [[processes/nuclear-deterrence]].
+
+## The War as Cold War Pivot (McCoy)
+
+[[mccoy-cold-war-five-continents-2024|McCoy (2024)]] notes that the 38th-parallel
+division was sketched by Colonel Dean Rusk on a National Geographic map in August
+1945, and frames the war (following Ronald Steel) as the pivot that "transformed the
+vague rhetoric of the Truman doctrine into a blueprint for interventions against
+communism," setting the template for four decades of proxy conflict. He also records
+that South Korean police and military massacred ~100,000 suspected leftists in the
+war's opening months (McCoy's figure), and totals over 3 million Korean dead. See
+[[cold-war-proxy-wars|Cold War proxy wars]].

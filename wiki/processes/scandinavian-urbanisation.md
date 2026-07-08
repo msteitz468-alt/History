@@ -8,8 +8,8 @@ region: [scandinavia, denmark, norway, sweden]
 process_type: economic
 driven_by: [long-distance trade, royal and ecclesiastical centres, Hanseatic commerce, monetisation and markets]
 produces: [the Viking emporia (Ribe, Hedeby, Birka), episcopal and royal towns, Hanseatic-linked ports (Bergen, Visby, Stockholm)]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, early-middle-ages, scandinavia]
 ---
 
@@ -40,6 +40,30 @@ Tied to [[unification-of-the-scandinavian-kingdoms|state formation]] (royal
 mints and tolls), [[christianization-of-scandinavia|the church]] (episcopal
 seats), and Baltic trade. Towns remained small and few by continental standards.
 
+## Wickham, Framing (2005) — emporia as a new urban type
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham, *Framing* (2005)]] places the later seventh and
+especially **eighth-century coastal emporia** in a North Sea comparative frame: Quentovic, Dorestad,
+Domburg; English York, Ipswich, London, Hamwic; Danish **Ribe** and **Hedeby** (plus Baltic Birka). By
+650 Channel/North Sea harbours lacked urban status; by 750 half a dozen were large multi-hectare urban
+centres ([[urbanism]], [[merovingian-cities]], [[carolingian-economy]]).
+
+**Dorestad** at its height to the 830s exceeded 60 ha (population estimates often 1,000–2,000), with dense
+rural-type long-houses, plank streets, multi-craft artisans, and ~80% imported ceramics mostly Rhineland—
+main port exporting Rhineland products to North Sea coastlands, England, and Denmark. Excavations show
+primary economic activity with little wealth differentiation and no clear monumental centre—commercially
+active but politically marginal in Wickham’s terms.
+
+**Hamwic** (planned c.700, associated with West Saxon kings) and **Ribe** (dendro-founded 704–10)
+resemble **gateway royal foundations** more than Dorestad: strong artisanal production, fewer imports
+relative to local pottery, limited hinterland impact. Danish archaeologists treat Ribe as founded by/for
+kings in a still-restricted royal-power environment—smaller scale fitting that constraint.
+
+Denmark had never had urban centres; English *civitates* collapsed with the fifth-century state. Coastal
+emporia around 700 were as much a **break** in England as in Denmark and likely **conscious imitation of
+Frankish ports**—early Anglo-Saxon urbanism generally an import from abroad
+([[cross-channel-exchange-britain-and-gaul]], [[scandinavian-peasantry]]).
+
 ## Scale and Character (Cambridge History detail)
 
 Viking-Age urban populations barely exceeded 0.5% of the total; by the end of the high
@@ -58,4 +82,5 @@ Rauma–Gävle–Trondheim, nor in the North Atlantic communities. A scholarly d
 the 1977 Trondheim conference) concerns whether there was **continuity** from
 Viking-Age emporia to medieval towns: the strongest case for continuity is Ribe, the
 clearest discontinuity [[birka|Birka]]→Sigtuna. See
-[[helle-cambridge-history-scandinavia-v1-2003]]; compare [[urbanization-europe]].
+[[helle-cambridge-history-scandinavia-v1-2003]]; emporia comparative frame
+[[wickham-framing-the-early-middle-ages-2005]]; compare [[urbanization-europe]] · [[urbanism]].

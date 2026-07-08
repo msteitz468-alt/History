@@ -9,8 +9,8 @@ affiliated_with: ["the Buddhist monkhood (Ly–Tran)", "neo-Confucian literati (
 opposed_by: ["China (Song, Yuan/Mongol, Ming)", "[[champa|Champa]]", "internal rivals (Trinh–Nguyen split)"]
 key_events: ["independence from China (939)", "the founding of the Ly dynasty & Thang-long (1009–10)", "the repulse of the Mongols (1257–88)", "the Ming occupation (1407–28) & Le restoration", "the conquest of Champa's Vijaya (1471)"]
 key_processes: ["[[indianization-of-southeast-asia|sinicization (the East-Asian alternative to Indianization)]]", "[[confucianism]]", "[[buddhism]]"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-03
 tags: [actor, state, southeast-asia, vietnam, early-middle-ages, high-middle-ages]
 ---
 
@@ -58,6 +58,35 @@ by sixteenth-century **civil wars** and the **Trinh–Nguyen** split that opened
 frontier (the Nguyen's southern kingdom — "Cochin-China" — being, as Reid notes, far more open to
 maritime trade than the Confucian north).
 
+## Taylor (2013): discontinuity, not one continuous nation
+
+K. W. Taylor's [[taylor-history-of-the-vietnamese-2013|*A History of the Vietnamese*]] narrates this
+sequence as a **series of discrete experiments** rather than the unfolding of a single national life
+(see [[vietnamese-national-continuity]]). Several threads sharpen the picture above:
+
+- **Naming as evidence.** Dinh Bo Linh's tenth-century realm was **Dai Co Viet** — a linguistic hybrid
+  (Literary Chinese *dai* + vernacular *co*, both "great") reflecting the transition from Sino-Vietnamese
+  bilingualism toward a distinct vernacular. **Ly Nhat Ton** (r. 1054–72) dropped *co*, renaming the realm
+  **Dai Viet** in conscious conformity to classical imperial usage — one of many moments when the court
+  mirrored Song forms (even tattooing soldiers "Son of Heaven's Army") while keeping formally correct
+  vassal status.
+- **A constructed southern imperial past.** Le Van Huu's 1272 court history claimed Thang Long's kings as
+  heirs to a *southern* imperial tradition founded by Zhao To (2nd c. BCE), inherited through Dinh Bo Linh
+  to the Ly, Tran, and Le — an ideological response to Yuan universalism, not a neutral chronicle.
+- **The Kinh/Trai distinction (1256).** The court formally divided the realm into **Kinh** (the Red River
+  "capital" plain) and **Trai** (the Thanh Hoa/Nghe An/Ha Tinh "outpost" plains) — the root of the modern
+  ethnonym *Kinh* for the Vietnamese majority, and a marker of the internal regionalism Taylor stresses.
+- **The Ho watershed.** The Tran's fall, [[ho-quy-ly|Ho Quy Ly]]'s usurpation (1400), the
+  [[ming-occupation-of-dai-viet-1407-1427|Ming occupation]], and [[le-loi|Le Loi]]'s founding of the
+  [[le-dynasty-vietnam|Later Le]] together form what Taylor calls a "historic watershed" — the destruction
+  of the old Tran aristocracy, the triumph of Zhu Xi Confucianism over Buddhism, and a permanent shift of
+  the "dragon of sovereignty" south toward Thanh Hoa.
+
+The dynastic backbone is now covered in dedicated pages: the [[ly-dynasty-vietnam|Ly]],
+[[tran-dynasty-vietnam|Tran]], [[le-dynasty-vietnam|Later Le]], and [[mac-dynasty-vietnam|Mac]] dynasties;
+the [[trinh-lords|Trinh]] and [[nguyen-lords|Nguyen]] lords who partitioned the realm; and the
+[[tay-son-dynasty|Tay Son]] before the [[nguyen-dynasty|Nguyen dynasty]] renamed the country Vietnam (1804).
+
 ## Significance: the China frontier
 
 Dai Viet is the **frontier between Southeast Asia and China**. It shared a Southeast Asian substrate
@@ -70,4 +99,7 @@ proportion" to Champa, Angkor, Pagan, Srivijaya, or Majapahit — and shaped Vie
 ## Related
 
 [[champa]] · [[confucianism]] · [[buddhism]] · [[mongol-empire]] · [[indianization-of-southeast-asia]] ·
-[[southeast-asia]] · [[southeast-asian-age-of-commerce]] · [[tarling-cambridge-history-southeast-asia-v1-1992]]
+[[southeast-asia]] · [[southeast-asian-age-of-commerce]] · [[tarling-cambridge-history-southeast-asia-v1-1992]] ·
+[[sinicization-of-vietnam]] · [[nam-tien]] · [[ly-dynasty-vietnam]] · [[tran-dynasty-vietnam]] ·
+[[le-dynasty-vietnam]] · [[mac-dynasty-vietnam]] · [[trinh-lords]] · [[nguyen-lords]] · [[tay-son-dynasty]] ·
+[[vietnamese-national-continuity]] · [[taylor-history-of-the-vietnamese-2013]]

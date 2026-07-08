@@ -6,15 +6,15 @@ date_precision: year
 period: [Classical Antiquity]
 region: [north-africa, mediterranean-world]
 location: [Numidia and the province of Africa]
-actors_primary: [[[roman-republic]], Jugurtha, [[marius]], Metellus Numidicus]
-actors_secondary: [Bocchus of Mauretania, Sulla, the Roman businessmen of Cirta]
+actors_primary: [[[roman-republic]], [[jugurtha]], [[marius]], Metellus Numidicus]
+actors_secondary: [Bocchus of Mauretania, [[sulla|Sulla]], the Roman businessmen of Cirta]
 event_type: war
 scale_immediate: regional
 scale_consequential: civilizational
 causes: [the disputed Numidian succession, Jugurtha's killing of Adherbal and the Italians at Cirta, Roman concern for the province of Africa and senatorial honour]
 consequences: [the rise of Marius, the political crisis over senatorial corruption, the Mamilian court, the betrayal of Jugurtha]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, north-africa, war]
 ---
 
@@ -71,8 +71,9 @@ of the manipular system).
 
 ## Related
 
-- Actors: [[marius]] · Jugurtha · Metellus · Bocchus · Sulla · process:
+- Actors: [[marius]] · [[jugurtha]] · Metellus · Bocchus · [[sulla]] · process:
   [[marian-army-reforms]]
-- Politics: [[optimates-populares]] · the Mamilian court · source:
-  [[crook-cah-v9-1992]] (Chs 2–3, Lintott); the principal ancient narrative is now ingested as
+- Politics: [[optimates-populares]] · [[mos-maiorum]] · the Mamilian court · source:
+  [[crook-cah-v9-1992]] (Chs 2–3, Lintott) · [[duncan-storm-before-the-storm-2017]]; the principal
+  ancient narrative is now ingested as
   **[[sallust-conspiracy-jugurtha-histories|Sallust's *Jugurthine War*]]**.

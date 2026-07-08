@@ -6,9 +6,9 @@ date_precision: year
 period: [World Wars Era]
 region: ["eastern-europe", "western-europe", "central-europe"]
 causes: ["Nazi racial antisemitism and the ideology of a war of annihilation ([[communism-and-fascism|Weltanschauungskrieg]])", the radicalizing dynamics of conquest and occupation in the East, "the [[second-world-war-1939|Second World War]] as cover and enabler"]
-consequences: [the murder of about six million Jews and millions of others, the destruction of European Jewish civilization, "the coining of \"[[genocide]]\" and the [[1945-postwar-order|Nuremberg trials]] and Genocide Convention", the founding of Israel, a permanent moral reference point]
-sources_ingested: [4]
-last_updated: "2026-07-02"
+consequences: [the murder of about six million Jews and millions of others, the destruction of European Jewish civilization, "the coining of \\\"[[genocide]]\\\" and the [[1945-postwar-order|Nuremberg trials]] and Genocide Convention", the founding of Israel, a permanent moral reference point]
+sources_ingested: [6]
+last_updated: 2026-07-03
 tags: [event, "world-wars-era", "eastern-europe"]
 event_type: [genocide]
 location: ["Nazi Germany and German-occupied Europe (esp. Poland and the occupied USSR)"]
@@ -355,3 +355,48 @@ This account gives the wiki's clearest three-stage model of the process — segr
 **Warsaw ghetto uprising.** The uprising began on 19 April 1943, the eve of Passover, triggered by the ghetto's third major deportation roundup. SS losses ran as high as 700 killed and wounded; roughly 50,000 Jews were killed in suppressing the revolt. SS commander Jürgen Stroop dynamited the Great Synagogue on 16 May 1943 to mark the uprising's end, reporting: "The Jewish quarter of Warsaw is no more." The Western Allies, informed of the killing at Auschwitz and urged to bomb the rail lines feeding it, declined to do so.
 
 **Toll.** Paxton and Hessler give a total of more than 5 million Jews killed by 1945 — roughly two-thirds of prewar European Jewry — and note that Roma victims were killed alongside Jews in the same extermination process. **Note on figures:** this page's other sections (Evans, Payne) converge on a total closer to ~6 million; Paxton and Hessler's ">5 million, two-thirds of prewar European Jewry" figure sits at the lower end of the range published across Holocaust scholarship. This is treated here as source variation in a genuinely difficult tally (complicated by incomplete records, contested regional counts, and differing cutoff dates), not as a factual contradiction between sources.
+
+## The documentary record as first assembled — Shirer (1960)
+
+Shirer's ch. 27 ("The New Order") was the first mass-audience synthesis of the perpetrator documents, written from the Nuremberg record while most participants were alive; it remains valuable for its verbatim documentary payload and for marking the 1960 state of knowledge. Distinctive holdings:
+
+- **The no-written-order problem, stated in 1960**: the "Fuehrer Order on the Final Solution" "apparently was never committed to paper — at least no copy of it has yet been unearthed"; all evidence pointed to verbal transmission to Göring, Himmler and Heydrich in summer–fall 1941 (Lammers at Nuremberg: "I knew that a Fuehrer order was transmitted by Goering to Heydrich"). Shirer thus anticipated the evidentiary terrain of the later intentionalist–functionalist debate, while himself reading the January 1939 "prophecy" as a literal blueprint.
+- **Göring's 31 July 1941 directive** to Heydrich ("a total solution [Gesamtlösung]… the intended final solution [Endlösung] of the Jewish question") — with Shirer's note that a Nuremberg mistranslation ("desired solution") let Göring deny under Jackson's cross-examination that he had ever used the term.
+- **Einsatzgruppen arithmetic from the reports themselves**: Ohlendorf's courtroom "Ninety thousand!"; Stahlecker's Group A report of 229,052 killed by 31 January 1942 with its coffin-symbol map (Lithuania 136,421; Estonia "Jew-free"); the one-day liquidation of the Minsk ghetto's remaining 16,200 (October 1942); Himmler's November 1942 report to Hitler of 363,211 Jews killed August–October; the Korherr report (23 March 1943) of 633,300 "resettled" in Russia — which Shirer, adding ~100,000 for 1943–45, judged the soundest total for the shooting operations. He noted the SS habit of inflating figures "to please Himmler and Hitler" against Eichmann's 2-million claim.
+- **The gas-van genesis**: Himmler's near-collapse at a demonstration shooting of a hundred prisoners at Minsk (Bach-Zelewski's account, 31 August 1941) leading to the van order for women and children; Dr. Becker's service correspondence on "correct adjustment of the levers."
+- **The Graebe affidavit** (Dubno, 5 October 1942), read by Shawcross at Nuremberg and reproduced by Shirer in full — the family groups at the pit, the old woman with the year-old child, the girl who said "twenty-three years old" — still among the most-cited eyewitness texts of the shooting Holocaust.
+- **Hoess's affidavit** on Auschwitz: commissioned June 1941; the Treblinka comparison (carbon monoxide, 200-person chambers) against Zyklon B (2,000-person chambers, "three to fifteen minutes… We knew when the people were dead because their screaming stopped"); the two SS doctors making "spot decisions" at the siding; "children of tender years were invariably exterminated"; the Waldsee postcards, the BATHS signs, the inmate girls' orchestra playing operetta at the selections; 250,000–300,000 Hungarian Jews killed in 46 days in summer 1944, the crematoria (built by I. A. Topf and Sons) falling behind the gas chambers.
+- **Commerce of extermination**: the Topf and C. H. Kori crematorium correspondence ("full satisfaction in practice… Heil Hitler!"); Tesch & Stabenow and Degesch as Zyklon B suppliers (Tesch and Weinbacher hanged by a British court, 1946); the Krupp fuse factory at Auschwitz; the "Max Heiliger" Reichsbank account for dental gold and valuables under the Himmler–Funk agreement, the Berlin pawnshop "overwhelmed" by early 1944.
+- **1960 tolls, for calibration**: Nuremberg indictment 5.7m; Eichmann (via SS witnesses) 5–6m; Reitlinger 4.19–4.58m; Auschwitz then bracketed between Hoess's 2.5m+ and Reitlinger's ~900k (modern consensus ~1.1m sits inside Shirer's spread). Shirer: of ~10 million Jews in Hitler's reach in 1939, "nearly half" were murdered.
+
+Shirer's framing sentence — the New Order was destroyed "not by any revolt of the German people against such a reversion to barbarism but by the defeat of German arms" — belongs with [[ordinary-germans-and-the-holocaust]]; his Vienna-gutter-origins causal reduction is the 1960 intentionalist reading, superseded by the process accounts above. Source: [[shirer-rise-fall-third-reich-1960]].
+
+## The Camps and the Holocaust (Wachsmann, *KL*, 2015)
+
+Wachsmann's history of the [[nazi-concentration-camps|concentration-camp system]]
+sharpens how the KL fit into the genocide. He distinguishes the **single-purpose
+Operation Reinhard death camps** (Bełżec, Sobibór, Treblinka — run by Globocnik's
+Lublin office with T-4 "euthanasia" veterans under Christian Wirth, using carbon
+monoxide, ~1.5 million dead in 1942) from the two SS concentration camps that
+*also* became death camps under the WVHA: [[auschwitz|Auschwitz]] and
+[[majdanek|Majdanek]]. Key correctives:
+
+- **Auschwitz was not built for the Holocaust.** Its Zyklon B gas chamber was
+  invented in autumn 1941 to murder Soviet POWs and infirm prisoners; its
+  genocidal role emerged gradually in 1942 and became central only in 1943 as
+  the Reinhard camps wound down. Selection on the ramp spared, on average, only
+  ~20% of arriving Jews for labour.
+- **"Jews into the KL."** After the [[wannsee-conference-1942|Wannsee
+  Conference]] (which did not put the camps on the agenda), Himmler on 26 Jan
+  1942 ordered Jews sent to the KL as slave-labour substitutes for the dead
+  Soviet POWs — the trigger for mass deportations to Auschwitz and Majdanek and
+  for [[annihilation-through-labor|"annihilation through labour"]].
+- **Precedents of the mechanics.** The structural elements of industrialized
+  murder — deportation straight to death, transport schedules, camouflage,
+  poison gas, purpose-built crematoria, gold-tooth extraction — were pioneered
+  in the KL against invalids (Action 14f13) and Soviet POWs in 1941, though
+  Wachsmann insists these were **not a dress rehearsal** for the Holocaust.
+- **Majdanek and Aktion Erntefest.** The largest single massacre at any SS
+  camp: ~18,000 Jews shot at Majdanek on 3 November 1943.
+
+Source: [[wachsmann-kl-concentration-camps-2015]].

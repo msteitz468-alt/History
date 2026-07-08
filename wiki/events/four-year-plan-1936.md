@@ -1,24 +1,23 @@
 ---
-title: Four-Year Plan (1936)
-date_start: 1936-09
-date_end: 1936-10
+title: "Four-Year Plan (1936)"
+date_start: "1936-09"
+date_end: "1936-10"
 date_precision: month
-dating_method: documentary
 period: [World Wars Era]
-region: [western-europe, germany]
-location: [Germany, Nuremberg, Reich Chancellery]
-actors_primary: [["adolf-hitler"], ["actors/goering-hermann"], ["actors/schacht-hjalmar"], ["actors/blomberg-werner-von"], ["ig-farben|IG Farben leadership"]]
-actors_secondary: [["german-army|Wehrmacht"], ["german-industry|Big business and ferrous industries"], ["actors/goebbels-joseph"]]
+region: ["western-europe", germany]
+causes: ["[\"economic-crisis|Raw materials and foreign-exchange crisis (armaments vs consumption)\"]", "[\"rearmament-pressures|Army demands for rapid expansion (Beck plans for 41+ divisions)\"]", "[\"adolf-hitler|Hitler's August 1936 memorandum (ideological imperative: autarky + living space)\"]", "[\"goering-ambition|Göring's drive for power (Plenipotentiary for Raw Materials)\"]", "[\"bolshevism-threat|Hitler's preoccupation with imminent showdown with Bolshevism\"]", "[\"ig-farben-lobby|IG Farben/technocratic push for synthetic fuels and substitutes\"]"]
+consequences: ["[\"rearmament-acceleration|Priorities set for armaments economy; autarky drive intensified\"]", "[\"war-preparation|Germany pushed economically toward expansion and war\"]", "[\"goering-power|Göring's vast new economic empire (special commissioners, administrative anarchy)\"]", "[\"jewish-persecution|Aryanization accelerated as 'easy pickings' in overheating economy\"]", "[\"expansion-imperative|Territorial expansion seen as necessary for raw materials and labour\"]", "[\"hitler-ideology|Economic policy subordinated to ideological goals; 'finance and the economy... must all exclusively serve this struggle'\"]"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", germany, economic, "adolf-hitler", goering, rearmament, autarky, "four-year-plan"]
 event_type: economic
-scale_immediate: regional
+location: [Germany, Nuremberg, Reich Chancellery]
+actors_primary: ["[\"adolf-hitler\"]", "[\"actors/goering-hermann\"]", "[\"actors/schacht-hjalmar\"]", "[\"actors/blomberg-werner-von\"]", "[\"ig-farben|IG Farben leadership\"]"]
+actors_secondary: ["[\"german-army|Wehrmacht\"]", "[\"german-industry|Big business and ferrous industries\"]", "[\"actors/goebbels-joseph\"]"]
+dating_method: documentary
 scale_consequential: civilizational
-causes: [["economic-crisis|Raw materials and foreign-exchange crisis (armaments vs consumption)"], ["rearmament-pressures|Army demands for rapid expansion (Beck plans for 41+ divisions)"], ["adolf-hitler|Hitler's August 1936 memorandum (ideological imperative: autarky + living space)"], ["goering-ambition|Göring's drive for power (Plenipotentiary for Raw Materials)"], ["bolshevism-threat|Hitler's preoccupation with imminent showdown with Bolshevism"], ["ig-farben-lobby|IG Farben/technocratic push for synthetic fuels and substitutes"]]
-consequences: [["rearmament-acceleration|Priorities set for armaments economy; autarky drive intensified"], ["war-preparation|Germany pushed economically toward expansion and war"], ["goering-power|Göring's vast new economic empire (special commissioners, administrative anarchy)"], ["jewish-persecution|Aryanization accelerated as 'easy pickings' in overheating economy"], ["expansion-imperative|Territorial expansion seen as necessary for raw materials and labour"], ["hitler-ideology|Economic policy subordinated to ideological goals; 'finance and the economy... must all exclusively serve this struggle'"]]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, germany, economic, adolf-hitler, goering, rearmament, autarky, four-year-plan]
+scale_immediate: regional
 ---
-
 # Four-Year Plan (1936)
 
 ## Narrative
@@ -81,3 +80,13 @@ dependent on I.G. Farben, nor I.G. Farben on the Plan" — the "primacy of
 politics" over business interest set the parameters.
 
 Source: [[evans-third-reich-in-power-2005]]
+
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Shirer corroborates the wiki's account of Schacht's eclipse: Schacht had warned Hitler, Göring, and Blomberg by 1936 that Germany was nearing bankruptcy from rearmament financing, and lost the internal power struggle after Göring's September 1936 appointment as Plenipotentiary for the Four-Year Plan; Schacht resigned as Minister of Economics (leave from 5 September 1937, formal acceptance 8 December 1937), replaced by Walther Funk (January 1938), though Hitler kept him on as Minister without Portfolio and Reichsbank president to soften the reaction (Shirer 1960).
+
+Shirer supplements Evans's balance sheet with broader recovery data: unemployment fell from 6 million (1932) to under 1 million by spring 1937; national production rose 102% and national income doubled, 1932–1937. General Georg Thomas, chief of the Military Economic Staff, described the effort as a *Wehrwirtschaft* (war economy): "History will know only a few examples of cases where a country has directed, even in peacetime, all its economic forces deliberately and systematically toward the requirements of war" (Shirer 1960). Shirer's account of the Plan itself matches Evans's: severe import cuts, price/wage controls, dividends capped at 6%, synthetic rubber/textile/fuel plants, and the Hermann Göring Works exploiting low-grade domestic ore — Germany reached only 83% agricultural self-sufficiency despite the "Battle of Production."
+
+Wage data underscores the human cost of the guns-before-butter drive: skilled workers' wages fell from 20.4¢/hour (1932) to 19.5¢/hour (mid-1936); unskilled from 16.1¢ to 13¢/hour. Labor's share of national income fell from 56.9% (1932) to 53.6% (1938) while capital/business income share rose from 17.4% to 26.6%. A "workbook" (introduced February 1935) was required for employment and could be withheld by an employer to prevent a worker leaving; a June 1938 decree instituted full labor conscription. Fritz Thyssen, an early major financial backer of the Nazis, later fled Germany denouncing the result: "Nazi regime has ruined German industry... What a fool [*Dummkopf*] I was!" (Shirer 1960).
+
+[[shirer-rise-fall-third-reich-1960]]

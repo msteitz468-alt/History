@@ -7,8 +7,8 @@ period_active: [Archaic Period, Classical Antiquity]
 controlled_by: [[[achaemenid-empire|the Achaemenid Persian empire]], local Indian rulers, later [[alexander-the-great|Alexander]], the [[mauryan-empire|Mauryas]], Indo-Greeks]
 events_here: [the voyage of [[scylax-of-caryanda|Scylax]] down the Indus (c. 517 BCE), Darius I's organization of the Hindus satrapy (c. 515 BCE), the contribution of Gandaran and Indian contingents to Xerxes' invasion of Greece (480)]
 processes_here: [[[empire]], Achaemenid tribute extraction, early Indian coinage (bent-bar and punch-marked currencies), [[spread-of-buddhism|Greco-Buddhist art]]]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [place, south-asia, archaic-period, late-antiquity]
 ---
 
@@ -110,3 +110,9 @@ diffusion archaeologically — recognizing Gandharan drapery in Buddha sculpture
 near Lop Nor. Gandharan stair-riser reliefs (Kushan aristocrats, musicians, dancers in a
 mix of Indian, Romano-Hellenistic, and steppe-nomadic dress) are a vivid record of Silk
 Roads cultural synthesis. Source: [[benjamin-empires-ancient-eurasia-2018]].
+
+The "Roman" versus "Hellenistic" character of this art, and the competing theories of how it
+acquired that character, are treated as a distinct debate at **[[gandharan-art|Gandharan
+("Romano-Buddhist") art]]**, drawing on Warwick Ball's *[[ball-rome-in-the-east-2000|Rome in the
+East]]* — where the Gandharan connection forms part of his wider
+[[orientalization-of-rome|East–West interchange]] argument.

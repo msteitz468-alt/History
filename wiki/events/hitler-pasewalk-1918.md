@@ -1,24 +1,23 @@
 ---
 title: Hitler at Pasewalk Hospital (November 1918)
-date_start: 1918-10
-date_end: 1918-11
+date_start: "1918-10"
+date_end: "1918-11"
 date_precision: month
-dating_method: documentary (hospital records, Hitler's account)
 period: [World Wars Era]
-region: [western-europe, central-europe]
-location: [pasewalk]
-actors_primary: ["adolf-hitler"]
-actors_secondary: []
-event_type: other
-scale_immediate: local
-scale_consequential: civilizational
+region: ["western-europe", "central-europe"]
 causes: ["mustard-gas-attack-october-1918", "german-military-collapse"]
 consequences: ["decision-to-enter-politics", "stab-in-the-back-myth-internalization", "return-to-munich-november-1918"]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, western-europe, adolf-hitler]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe", "adolf-hitler"]
+event_type: other
+location: [pasewalk]
+actors_primary: ["adolf-hitler"]
+actors_secondary: ""
+dating_method: "documentary (hospital records, Hitler's account)"
+scale_consequential: civilizational
+scale_immediate: local
 ---
-
 # Hitler at Pasewalk Hospital (October–November 1918)
 
 ## Narrative
@@ -62,7 +61,12 @@ a very few points," pitched to "the most limited intelligence," aimed at
 emotion because "the people... are so feminine by nature." See
 [[stab-in-the-back-myth]].
 
+## Shirer (1960) Addition
+
+Shirer (1960) quotes Hitler's own retrospective account (Mein Kampf) at greater length and dates the moment precisely to 10 November 1918, when a pastor brought news of the Kaiser's abdication and impending armistice: "I could stand it no longer... Had they died for this? Did all this happen only so that a gang of wretched criminals could lay hands on the Fatherland?" — Hitler says this was the first time he had wept since his mother's grave, and that "My own fate became known to me. I decided to go into politics." Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 Kershaw *Hitler 1889–1936: Hubris* (1998), Ch. 3 "Elation and Embitterment," using hospital context, *Mein Kampf*, and contemporary records of the revolution.
 Evans, *The Coming of the Third Reich* (2003), Part 3.
+Shirer, *The Rise and Fall of the Third Reich* (1960).

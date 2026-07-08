@@ -1,13 +1,13 @@
 ---
 title: Gleichschaltung
 concept_type: political
-sources_ingested: [2]
-last_updated: "2026-07-02"
+sources_ingested: [3]
+last_updated: "2026-07-03"
 tags: [concept]
 applies_to_periods: [World Wars Era]
 applies_to_regions: ["western-europe"]
 contested: no
-origin: ["Nazi legal-political vocabulary", "1933 — \"coordination\"/\"bringing into line", from electrical engineering]
+origin: ["Nazi legal-political vocabulary", "1933 — \\\"coordination\\\"/\\\"bringing into line", from electrical engineering]
 ---
 # Gleichschaltung
 
@@ -87,6 +87,17 @@ family, and grumbling milieux (workers, Catholics) retained partial autonomy;
 "coordination" coexisted with polycratic chaos among competing party and state
 agencies.
 
+## Shirer (1960) Additions
+
+Shirer explicitly names and structures the spring–summer 1933 material under the heading "Gleichschaltung: The 'Co-ordination' of the Reich," treating it as a discrete named process distinct from the seizure-of-power event itself:
+
+- State governments fell first: Bavaria's government was ousted by General von Epp (SA backing) on 9 March 1933; Reich Commissars were installed in other states by mid-March (except Prussia, already Göring's). The 7 April 1933 law created Reich Governors with power to appoint and dismiss local officials and judges, subordinate to the Reich Chancellor's "general policy." The 30 January 1934 Law for the Reconstruction of the Reich abolished state "popular assemblies" and made state governments "merely administrative bodies of the Reich," in Frick's phrase.
+- Party dissolution timeline (see also [[dissolution-of-german-parties-1933]] for the fuller Shirer account): the 14 July 1933 law declared the NSDAP "the only political party in Germany," penalizing attempts to maintain or form others with up to three years' penal servitude.
+- Trade union destruction via deception: the government proclaimed 1 May 1933 "Day of National Labor" as a goodwill gesture — Hitler, to over 100,000 workers at Tempelhof: "Honor work and respect the worker!" — before occupying union headquarters nationwide the very next day, confiscating funds and arresting leaders despite their pledges of cooperation (see [[destruction-of-german-trade-unions-1933]] for full detail).
+- Corroborates Evans's "amenable to indoctrination" framing above with a parallel emphasis: Shirer's overall reading of the spring 1933 process stresses the same electrical-circuit metaphor implicit in the term itself — central direction supplying the "current," with local Nazi organs (Gauleiter, SA, and eager professional-body self-coordination) doing much of the actual switching, consistent with the Northeim micro-study Evans deploys.
+
+Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Related
 
 [[nazi-seizure-of-power-1933]] · [[volksgemeinschaft]] · [[nazi-germany]] ·
@@ -95,3 +106,4 @@ agencies.
 ## Sources
 
 - [[evans-third-reich-in-power-2005]]
+- [[shirer-rise-fall-third-reich-1960]]

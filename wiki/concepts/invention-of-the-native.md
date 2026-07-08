@@ -1,8 +1,10 @@
 ---
 title: Invention of the Native
 concept_type: historiographical
-origin: "Raymond Firth; systematised in Pacific scholarship; label applied retrospectively by Denoon et al. in Cambridge History of Pacific Islanders (1997)"
+origin: "Raymond Firth; systematised in Pacific scholarship; label applied retrospectively by Denoon et al. in Cambridge History of Pacific Islanders (1997); North American image tradition surveyed in Washburn & Trigger, CHNPA I.1 ch. 2 (1996) and image studies (Berkhofer, Fairchild, Pearce)"
 applies_to_periods:
+  - Early Modern
+  - Age of Expansion
   - Long 19th Century
   - World Wars Era
 applies_to_regions:
@@ -10,10 +12,12 @@ applies_to_regions:
   - polynesia
   - melanesia
   - micronesia
+  - north-america
+  - eastern-north-america
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-27
-tags: [concept, historiographical, long-19th-century, world-wars-era, oceania]
+sources_ingested: 2
+last_updated: 2026-07-08
+tags: [concept, historiographical, early-modern, long-19th-century, world-wars-era, oceania, north-america]
 ---
 
 ## Overview
@@ -65,6 +69,34 @@ The concept is contested: defenders of British indirect rule (e.g. Scarr, *Fiji:
 
 **Resolution status**: Open — the debate about whether any colonial "trusteeship" genuinely served Islander interests continues in Pacific historiography, complicated by the diversity of colonial regimes and Islander responses.
 
+## North American Application (CHNPA I.1)
+
+The Pacific “invention of the Native” frame is not used as a technical label in Washburn & Trigger’s CHNPA I.1 ch. 2, but the chapter surveys the analogous Euro-American construction of a homogenized, past-bound Indian figure—the image tradition Berkhofer termed *The White Man’s Indian*. CHNPA co-editors state that older professional and amateur work grounded in evolutionary and romantic stereotypes treated Native peoples either as denigrated cruel/uncivilized or as [[noble-savage]]s, but always as essentially belonging to the past and on the way to extinction under European civilization. Forty years of [[ethnohistory]] documented enduring Native societies, revising that public image (see also the 1992 Columbian quincentenary’s emphasis on lasting suffering rather than European achievement).
+
+### Preconceptions and first-contact repertoire
+
+Before mainland contact, Europeans already anticipated unknown peoples via travelers’ tales, classical stereotypes of alien groups, and accounts of Africa and Asia (Marco Polo; Canary Islanders; Portuguese West Africa; Norse “skraelings”; Mandeville monsters). Late-fifteenth-century explorers groped for understanding of Native Americans using this pre-existing repertoire of exotic models. The noble-savage image began at first contact (innocence, generosity, nakedness), while concurrent commentators denigrated Indians as thralls of the devil, lustful cannibals, or people living in terror of nature—the innocence-versus-degeneration debate continued into the nineteenth century.
+
+Spanish moral-theological construction of Indian humanity was itself polarized: Las Casas vs Sepúlveda at Valladolid (1550–51); *Sublimis Deus* (1537) affirming Indians are “truly men”; Tomás Ortiz’s 1525 catalogue of vice vs Vitoria’s 1526 defense of Indian rationality (seeming stupidity attributed to “bad and barbarous upbringing,” analogous to European peasants). Self-interest distorted descriptions: Sepúlveda-style “brutes” vs Las Casas-style “innocent lambs” both risked exaggeration. English land appropriation produced its own deficiency framing: Purchas’s “Virginias Verger” portrayed Natives as having little humanity but shape; Puritan New Israel/Canaanite typology cast Indians as peoples to be dispossessed/enslaved; the “virgin land” myth denied Native existence and land claims until revisionists insisted on Jennings’s “widowed land” emptied by disease and warfare ([[virgin-soil-epidemics]]; [[columbian-exchange-1492]]).
+
+### From environmental difference to immutable race
+
+Seventeenth–eighteenth-century “racism” must be qualified: Indians were seen as different but not as twentieth-century racism frames race. Alden Vaughan: “red men” distinction absent in the colonial period; under strange appearance was a human capable of becoming European. Beverley and Jefferson regretted lack of intermarriage. Physical differences were attributed to environment, not immutable, before the nineteenth century (Buffon’s New World degeneration thesis annoyed Anglo-Americans). Attitudes toward Africans differed radically. Land disputes made “bloodthirsty monster” language fashionable; after the Revolution (most Indians sided with British), calls for wiping Indians from the earth and terms like “redskins” increased.
+
+Beginning late in the eighteenth century, preference grew for biologically based explanations of human behavior. Differences previously interpreted as reversible adaptations to climate came to be viewed as immutable racial characteristics. Polygenism held Indians, Africans, Europeans, and East Asians as separately created immutable species with innate behaviors—Indians mentally inferior yet too independent to enslave in large numbers—but broad following was limited by biblical monogenism. Ironically Darwinian evolutionism, affirming common origin, supplied a more broadly acceptable racist rationale: natural selection over millennia failed to produce Natives able to accommodate Western civilization; total extinction was anticipated and sentimentally cast as a tragic but minor episode in worldwide technological, moral, and intellectual progress—enabling frames for [[indian-removal-eastern-dispossession-1780-1880]] and the [[us-civilization-program]].
+
+### National histories and anthropological reinforcement
+
+Nineteenth-century U.S. historiography (Bancroft celebrating Jackson’s removal so land passed to “exclusive possession of cultivated man”; Parkman’s “thorough savages” as wilderness tenants; Morgan’s denial that any indigenous Western Hemisphere people evolved civilization) intellectualized the past-bound Native. French Canadian and English Canadian national histories darkened traditional cultures or thanked Providence for epidemic clearance while claiming moral superiority to U.S. removal policy. Anthropology and history mutually reinforced the extinction narrative: even anthropologists with personal Native contact agreed on primitive state and inevitable extinction of Native cultures; Parkman especially used literary talent to express contemporary scientific as well as popular views. The Moundbuilder controversy cast advanced earthwork cultures as non-Indian until Thomas (1894), while still preserving assumption of little pre-contact change. Turner’s frontier as “meeting point between savagery and civilization” further naturalized the category.
+
+### Image studies bibliographic canon (CHNPA)
+
+Washburn & Trigger’s bibliographic essay maps the vast literature on European attitudes/policies: general image studies include Fairchild *Noble Savage* (1928), Jones *O Strange New World*, Pearce *Savagism and Civilization*, Honour *New Golden Land*, Chiappelli *First Images of America*, Berkhofer *White Man’s Indian* (1978). Spanish school: Elliott, Hanke *Aristotle and the American Indians*, Keen, Pagden *Fall of Natural Man*, Todorov *Conquest of America*. English/Euro-American policy: Prucha, Horsman, Sheehan, Jennings, Porter, Vaughan, Drinnon, Kupperman, Axtell. New France: Kennedy, Gagnon, Jaenen, Trigger *Children of Aataentsic*, Dickason *Myth of the Savage*. Stereotypes also tracked in literature, film (*Handbook* vol. 4 essays), and Canadian popular literature.
+
+### Revision and residual myths
+
+Late twentieth-century ethnohistory and revisionist history challenged the invented Native: continuous history rather than extinction; Native agency; disease and dispossession rather than natural disappearance; Carter’s *Lost Harvests* dismantling the myth of agricultural unwillingness. Extreme counter-myths (scalping as European invention; U.S. Constitution consciously patterned on the Iroquois Confederacy) found Euro-American champions until undermined by available evidence. CHNPA co-editors present post-1960 Native resurgence—population increase and retaking of political, economic, and cultural control—as belied earlier beliefs that Native people would become physically extinct or melt into a North American melting pot.
+
 ## Related Pages
 
 - [[pacific-depopulation]] — the Native Mother sub-concept; demographic consequences
@@ -72,4 +104,9 @@ The concept is contested: defenders of British indirect rule (e.g. Scarr, *Fiji:
 - invention-of-tradition (concept) — parallel historiographical frame
 - [[mau-movement]] — Islander contestation of the Native category
 - [[overthrow-of-hawaiian-monarchy-1893]] — US construction of Hawaiian political incapacity
+- [[noble-savage]] — positive pole of the Euro-American image binary
+- [[native-north-american-historiography]] — survey of the image tradition’s phases
+- [[ethnohistory]] — methodological challenge to extinction/past-bound frames
+- [[indigenous-historical-consciousness]] — Native genres against imposed categories
 - [[denoon-cambridge-pacific-islanders-1997]]
+- [[sources/cambridge-history-native-peoples-americas-v1-1]]

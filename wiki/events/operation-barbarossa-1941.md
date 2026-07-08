@@ -5,10 +5,10 @@ date_end: "1941-12"
 date_precision: exact
 period: [World Wars Era]
 region: ["eastern-europe", germany]
-causes: ["[[world-war-ii-1939-1945]], Hitler's ideological drive for Lebensraum and anti-Bolshevism; German success in West"]
-consequences: ["[[battle-of-stalingrad-1942]], turning point on Eastern Front, massive casualties, Holocaust escalation, Soviet alliance with West"]
-sources_ingested: [3]
-last_updated: "2026-07-02"
+causes: ["[[world-war-ii-1939-1945]]", "Hitler's ideological drive for Lebensraum and anti-Bolshevism; German success in West"]
+consequences: ["[[battle-of-stalingrad-1942]]", turning point on Eastern Front, massive casualties, Holocaust escalation, Soviet alliance with West]
+sources_ingested: [4]
+last_updated: "2026-07-03"
 tags: [event, campaign, "world-wars-era", europe, "eastern-europe", barbarossa, "holocaust-turn", "working-towards-the-fuehrer"]
 event_type: campaign
 location: [Soviet Union]
@@ -71,6 +71,16 @@ at ruinous cost — see [[battle-of-kiev-1941]] — before the worst autumn
 rains since 1874 and an unequipped winter halted the Moscow drive. On the
 deliberate starvation architecture accompanying the campaign, see
 [[hunger-plan-1941]].
+
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Directive No. 21 ("Operation Barbarossa," 18 Dec 1940, only nine copies) is quoted at length: "The German Armed Forces must be prepared to crush Soviet Russia in a quick campaign before the end of the war against England," with the objective line running "from the Volga River to Archangel." [SHIRER-THESIS] Shirer disputes postwar generals' claims (especially Halder's) that the Army opposed Barbarossa as an "adventure" from the outset, citing Halder's own Dec 1940–Feb 1941 diary as showing "genuine enthusiasm" — see [[halder-franz]]. The 27 March 1941 decision to crush Yugoslavia after the Belgrade coup forced a roughly four-week postponement (new date 22 June vs. the original 15 May); Shirer calls this "probably the most catastrophic single decision in Hitler's career" (Shirer 1960), citing Paulus's Nuremberg testimony ("about five weeks") and Rundstedt's postwar statement that the delay "was a very costly delay" — see [[balkan-campaign-1941]].
+
+The Commissar Order (early March 1941, Hitler to assembled service chiefs) is quoted verbatim: "This struggle is one of ideologies and racial differences and will have to be conducted with unprecedented, unmerciful and unrelenting harshness... the commissars will be liquidated." Manstein testified at Nuremberg that he personally refused to carry it out, but Shirer notes "the order, of course, was carried out on a large scale." A parallel Keitel directive of 13 May 1941 suspended court-martial jurisdiction over German troops' crimes against Soviet civilians and gave Himmler "special tasks" to act "independently" of the Army — the Barbarossa-era legal architecture of terror. On the starvation directive from the same weeks, see [[hunger-plan-1941]].
+
+U.S. commercial attaché Sam E. Woods relayed an accurate, detailed warning of the Barbarossa plan to the State Department in January 1941; Sumner Welles passed it to Soviet Ambassador Oumansky on 20 March 1941, who "turned very white" but the USSR apparently never acted on it. Stalin publicly embraced Schulenburg at a Moscow railway station on 13 April 1941 ("We must remain friends... through thick and thin!") even as invasion rumors mounted; the 14 June 1941 TASS statement branded such rumors "an obvious absurdity" the same day Ribbentrop secretly cabled Budapest to secure its frontiers. On the first day of the invasion, Halder's diary recorded the Red Army "tactically surprised along the entire front"; by 3 July he prematurely judged the "Feldzug against Russia... won in fourteen days." German soldiers first encountered the T-34 that summer and found it "so heavily armored that the shells from the German antitank guns bounced harmlessly off it" (Guderian/Blumentritt reports) — the onset of what Blumentritt called "tank terror."
+
+Source: [[shirer-rise-fall-third-reich-1960]]
 
 ## Related
 

@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [Crassus' craving for military glory to match Pompey and Caesar, the unprovoked Roman invasion of Parthia, Crassus' strategic errors]
 consequences: [the annihilation of Crassus' army and his death, the dissolution of the First Triumvirate, a lasting Roman trauma and Parthian frontier, the road to civil war]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, near-east, battle]
 ---
 
@@ -74,6 +74,17 @@ the greed that destroyed the Republic.
 - Context: [[pompeian-eastern-settlement-63bce|Pompey's eastern settlement]] left the
   Euphrates frontier unsettled
 - Source: [[crook-cah-v9-1992]] (Ch. 10, Wiseman)
+
+## Ball's notes: Suren, the POWs, and a "second Carrhae" (2000)
+
+Warwick Ball's *[[ball-rome-in-the-east-2000|Rome in the East]]* adds that the victorious Parthian
+commander "Suren" was probably bearing a **dynastic family title** (of the Suren house of Seistan)
+rather than a personal name, and used the Arab king Ariamnes as an intelligence agent to lure
+Crassus onto open cavalry ground. He records the ~10,000 Roman captives deported to **Margiana**
+(the Merv region — see below) as agricultural and construction labour. Ball also notes a
+**"second Battle of Carrhae"** in c. AD 217: after Caracalla's murder near the same site, the new
+emperor Macrinus fought the Parthian king Artabanus to a near-disaster before negotiating a truce —
+shortly before the Parthian dynasty fell to the [[sasanian-empire|Sasanian]] revolt of 224.
 
 ## The Parthian Shot and the Silk Roads Frontier (Benjamin 2018)
 

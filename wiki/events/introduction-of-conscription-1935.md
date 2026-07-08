@@ -1,24 +1,23 @@
 ---
 title: Introduction of Conscription (1935)
-date_start: 1935-03-16
-date_end: 1935-03-16
+date_start: "1935-03-16"
+date_end: "1935-03-16"
 date_precision: exact
-dating_method: documentary
 period: [World Wars Era]
-region: [western-europe]
-location: [Germany]
-actors_primary: [["adolf-hitler"], ["actors/hoßbach-friedrich"], ["actors/blomberg-werner-von"], ["actors/fritsch-werner-von"], ["actors/goring-hermann"]]
-actors_secondary: [["german-army|Reichswehr / Wehrmacht planners (Beck)"], ["britain|Britain (Simon, Eden)"], ["france|France"], ["actors/neurath-konstantin-von"]]
+region: ["western-europe"]
+causes: ["[\"adolf-hitler|Hitler's decision on timing, pretext from French actions\"]", "[\"french-rearmament|French extension of military service to two years (15 March)\"]", "[\"british-white-paper|British White Paper on defence increases\"]", "[\"german-rearmament|Army planning for 36-division peacetime army (Beck/Fritsch memoranda)\"]", "[\"adolf-hitler|Hitler's desire for spectacular propaganda coup demonstrating regained autonomy\"]"]
+consequences: ["[\"adolf-hitler|Outright breach of Versailles; announcement of 36-division Wehrmacht and general military service\"]", "[\"adolf-hitler|Domestic acclaim; crowds outside Reich Chancellery\"]", "[\"second-world-war-1939|Major step loosening post-war military constraints; accelerated rearmament path\"]", "[\"adolf-hitler|Hitler first major foreign-policy decision taken without prior consultation of military leaders\"]", "[\"military-leadership|Army leaders astonished and initially appalled at timing/risk but acquiesced\"]", "[\"britain|British reaction relatively mild (inquiries on ratios)\"]"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe", political, "adolf-hitler", versailles, rearmament]
 event_type: political
-scale_immediate: national
+location: [Germany]
+actors_primary: ["[\"adolf-hitler\"]", "[\"actors/hoßbach-friedrich\"]", "[\"actors/blomberg-werner-von\"]", "[\"actors/fritsch-werner-von\"]", "[\"actors/goring-hermann\"]"]
+actors_secondary: ["[\"german-army|Reichswehr / Wehrmacht planners (Beck)\"]", "[\"britain|Britain (Simon, Eden)\"]", "[\"france|France\"]", "[\"actors/neurath-konstantin-von\"]"]
+dating_method: documentary
 scale_consequential: civilizational
-causes: [["adolf-hitler|Hitler's decision on timing, pretext from French actions"], ["french-rearmament|French extension of military service to two years (15 March)"], ["british-white-paper|British White Paper on defence increases"], ["german-rearmament|Army planning for 36-division peacetime army (Beck/Fritsch memoranda)"], ["adolf-hitler|Hitler's desire for spectacular propaganda coup demonstrating regained autonomy"]]
-consequences: [["adolf-hitler|Outright breach of Versailles; announcement of 36-division Wehrmacht and general military service"], ["adolf-hitler|Domestic acclaim; crowds outside Reich Chancellery"], ["second-world-war-1939|Major step loosening post-war military constraints; accelerated rearmament path"], ["adolf-hitler|Hitler first major foreign-policy decision taken without prior consultation of military leaders"], ["military-leadership|Army leaders astonished and initially appalled at timing/risk but acquiesced"], ["britain|British reaction relatively mild (inquiries on ratios)"]]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, western-europe, political, adolf-hitler, versailles, rearmament]
+scale_immediate: national
 ---
-
 # Introduction of Conscription (1935)
 
 ## Narrative
@@ -65,3 +64,13 @@ The move enhanced Hitler's domestic position even among regime opponents. Abroad
 Kershaw stresses Hitler's 'more spectacular the better' maxim, secrecy, and first instance of a major foreign-policy step without prior military consultation. Military opposition was to timing/risk, not substance. The episode illustrates the pattern: Hitler determined timing; broad revisionist aims united policy-makers. Public response showed near-universal support for ending Versailles military shackles. Sets stage for Rhineland gamble.
 
 **Sources from range:** Detailed reconstruction from Hoßbach account, cabinet minutes, Rosenberg diary, contemporary diplomatic reports, Shirer observations.
+
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Shirer notes the decree was announced on a Saturday, 16 March 1935 — "most of Hitler's surprises were reserved for Saturdays," per wry Wilhelmstrasse comment, since British officials took weekends off. The decree established a peacetime army of twelve corps and thirty-six divisions (~500,000 men), unilaterally ending Versailles's military restrictions; Britain and France protested but took no action (Shirer 1960).
+
+[EYEWITNESS] Shirer attended the Heroes' Memorial Day ceremony at the Berlin State Opera House the next day (17 March): "the entire lower floor was a sea of military uniforms, the faded gray uniforms and spiked helmets of the old Imperial Army mingling with the attire of the new Army, including the sky-blue uniforms of the Luftwaffe, which few had seen before." Field Marshal von Mackensen, the last surviving Kaiser-era field marshal, stood at Hitler's side in Death's-Head Hussars uniform — deliberate staging linking the new Wehrmacht to Imperial military tradition.
+
+Manstein's later Nuremberg testimony corroborated the wiki's account of unilateral decision-making on scale: the General Staff, if consulted, "would have proposed twenty-one divisions... The figure of thirty-six divisions was due to a spontaneous decision of Hitler." Generals including Manstein and Witzleben learned of the decree over the radio, not having been consulted; Hitler was at Berchtesgaden at the time (Shirer 1960).
+
+[[shirer-rise-fall-third-reich-1960]]

@@ -1,23 +1,22 @@
 ---
 title: Battle of the Atlantic
-date_start: 1939-09
-date_end: 1945-05
+date_start: "1939-09"
+date_end: "1945-05"
 date_precision: year
 period: [World Wars Era]
-region: [atlantic-world, western-europe]
-location: [the North Atlantic convoy routes, the Arctic convoys, the American eastern seaboard]
-actors_primary: [the German Kriegsmarine (Raeder, then Dönitz and the U-boat arm), the Royal Navy and RAF Coastal Command, the US Navy]
-actors_secondary: [Allied merchant marines, Bletchley Park and B-Dienst codebreakers]
+region: ["atlantic-world", "western-europe"]
+causes: ["Germany's need to sever Britain's seaborne supply (the strategic logic Hitler paired with [[operation-barbarossa-1941|Barbarossa]])", the failure of the surface fleet, "Dönitz's tonnage-war doctrine"]
+consequences: [failure to cut the Atlantic lifeline, "secure build-up for [[d-day-1944|Overlord]]", loss of ~30, 000 German submariners (the highest proportional casualty rate of any service), Allied logistical dominance]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "atlantic-world"]
 event_type: war
-scale_immediate: hemispheric
+location: [the North Atlantic convoy routes, the Arctic convoys, the American eastern seaboard]
+actors_primary: [the German Kriegsmarine (Raeder, "then Dönitz and the U-boat arm)", the Royal Navy and RAF Coastal Command, the US Navy]
+actors_secondary: [Allied merchant marines, "Bletchley Park and B-Dienst codebreakers"]
 scale_consequential: global
-causes: [Germany's need to sever Britain's seaborne supply (the strategic logic Hitler paired with [[operation-barbarossa-1941|Barbarossa]]), the failure of the surface fleet, Dönitz's tonnage-war doctrine]
-consequences: [failure to cut the Atlantic lifeline, secure build-up for [[d-day-1944|Overlord]], loss of ~30,000 German submariners (the highest proportional casualty rate of any service), Allied logistical dominance]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [event, world-wars-era, atlantic-world]
+scale_immediate: hemispheric
 ---
-
 # The Battle of the Atlantic (1939–1945)
 
 Per [[evans-third-reich-at-war-2008|Evans (2008)]].
@@ -30,9 +29,16 @@ The German surface fleet failed serially — *Graf Spee* scuttled (1939), *Bisma
 
 `caused_by` the tonnage-war logic of a continental power against a maritime one; `enabled` (by its failure) the American build-up in Britain and [[d-day-1944|Overlord]]. Evans treats the intelligence seesaw (B-Dienst vs. Bletchley) and industrial arithmetic, not any single battle, as decisive — `analogous_to` the attritional logic of the bombing war ([[strategic-bombing-campaign]]).
 
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Shirer's hard data on the 1943 turning point: German U-boat sinkings totaled 6,250,000 tons of Allied shipping in 1942, but losses mounted sharply thereafter — exactly 50 U-boats lost February–April 1943, and 37 more in May 1943 alone, prompting Dönitz to withdraw all U-boats from the North Atlantic by the end of May on his own authority (consistent with the 24 May withdrawal date above). On their return in September, U-boats sank only 67 Allied vessels September–December 1943 against the loss of 64 more submarines — "a ratio which spelled the doom of U-boat warfare" (Shirer). Dönitz's own diary, 12 November 1943 (documentary, verbatim): "The enemy holds every trump card, covering all areas with long-range air patrols and using location methods against which we still have no warning... The enemy knows all our secrets and we know none of his." Hitler had told Dönitz on 31 May 1943: "There can be no talk of a letup in submarine warfare... The Atlantic is my first line of defense in the West."
+
+Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 - [[evans-third-reich-at-war-2008]]
+- [[shirer-rise-fall-third-reich-1960]]
 
 ## Historiography
 

@@ -9,8 +9,8 @@ affiliated_with: [United States Army, Army of the Potomac, 7th U.S. Cavalry, Mic
 opposed_by: [Confederate States of America, Plains Indian nations (Lakota, Northern Cheyenne, Arapaho), elements of the Grant administration post-Belknap testimony]
 key_events: [1861 West Point court-martial (acquitted), Peninsula Campaign staff service, 1863 promotion to brigadier general (age 23), Gettysburg cavalry action (vs. Stuart 3 July), Shenandoah Valley 1864 under Sheridan, Appomattox, 1867 court-martial (Fort Wallace absence, deserter shooting orders, Downer’s Station neglect; suspended), political restoration and return to 7th Cavalry (1868), Hancock Expedition (1867), Washita 1868, Black Hills Expedition 1874, 1876 Sioux campaign, Battle of the Little Bighorn]
 key_processes: [American Civil War cavalry operations, Reconstruction army occupation, U.S. Indian wars on the northern plains, Gilded Age press celebrity and political entanglement, mythologization of the frontier]
-sources_ingested: 1
-last_updated: 2026-06-25
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, long-19th-century, north-america, custer-george-a, civil-war, indian-wars, little-bighorn, 7th-cavalry, reconstruction]
 ---
 
@@ -56,9 +56,16 @@ He returned to the frontier with the 7th Cavalry. Operations against Southern Ch
 
 Nineteenth- and early-twentieth-century accounts (Libbie Custer, Whittaker, early popular writers) emphasized heroism and "Last Stand" martyrdom. Mid-twentieth-century professional military history (Utley, *Cavalier in Buckskin*) offered balanced operational assessment while still centering the frontier years. Late-twentieth and twenty-first-century revisionism stressed Custer's brutality, racism, and the genocidal context of Indian removal; some also examined Libbie's role in myth construction (Leckie). Stiles (2015) shifts the frame to Custer as a figure of temporal mismatch—simultaneously a product and a victim of the shift to modernity—without absolving or demonizing. Primary sources for any treatment remain the Custer papers, the Reno Court of Inquiry transcript, and contemporary journalism.
 
+### From Gwynne, *Empire of the Summer Moon* (2010) — Mackenzie foil
+
+Gwynne pairs Custer with [[actors/mackenzie-ranald-s|Ranald S. Mackenzie]] as “twins of fate”: near contemporaries, parallel Civil War and plains careers, opposite temperaments (Custer “exuberant, vainglorious”; Mackenzie “dark and complex, deeply private”). Gwynne stresses the fame/obscurity inversion — Custer world-famous in the disaster of [[events/battle-of-little-bighorn-1876|Little Bighorn (1876)]], Mackenzie obscure in victory after destroying free [[actors/comanches|Comanche]] power in the [[events/red-river-war-1874|Red River War]]. After Little Bighorn, Sheridan sent Mackenzie north; he helped force Northern Cheyenne (Dull Knife) and related surrenders that Gwynne treats as the operational “cleanup” of Custer’s theater. Treat the twinning as popular narrative framing, not a scholarly structure.
+
+Source: [[sources/gwynne-empire-of-the-summer-moon-2010]].
+
 ## Related
 
 - Detailed analytic biography: [[hubs/biographies/long-19th-century/custer-george-a]]
 - Key event: [[events/battle-of-little-bighorn-1876]]
-- Broader context: [[periods/long-19th-century]], [[processes/reconstruction]], [[concepts/indian-wars-us-army]]
-- Source: [[sources/stiles-custers-trials-2015]]
+- Foil / southern plains victor: [[actors/mackenzie-ranald-s]]
+- Broader context: [[periods/long-19th-century]], [[processes/reconstruction]], [[processes/southern-plains-indian-wars]]
+- Source: [[sources/stiles-custers-trials-2015]], [[sources/gwynne-empire-of-the-summer-moon-2010]]

@@ -8,8 +8,8 @@ region: [china, central-asia, steppe, iran-plateau, mesopotamia, mediterranean, 
 process_type: economic
 driven_by: ["[[trade-network-formation|exchange demand]]", "[[empire|imperial]] peace and infrastructure", "[[pastoral-nomadism|nomadic]] carriers and protectors", "elite demand for silk and prestige goods", "oasis city-states", "the Pax Mongolica"]
 produces: ["Afro-Eurasian integration", "the spread of [[buddhism|Buddhism]], Christianity, Manichaeism, [[islam|Islam]]", "transmission of technology and disease", "cosmopolitan oasis cities", "[[afro-eurasian-world-system|the medieval world system]]", "[[divergence-convergence|convergence]]"]
-sources_ingested: 5
-last_updated: 2026-06-27
+sources_ingested: 6
+last_updated: 2026-07-08
 tags: [process, silk-road, classical-antiquity, early-middle-ages, central-asia]
 ---
 
@@ -218,6 +218,10 @@ superseded by maritime trade and reconfigured by later powers (the Mongol *Pax
 Mongolica* would briefly reunify them — beyond this volume, in [[kedar-cwh-v5-2015|CWH
 V]]). Within CWH IV's frame, the relevant rhythm is the two-era pattern keyed to
 imperial strength.
+
+## Lieu: Sogdian as religious lingua franca and the first Buddhist translator
+
+Samuel Lieu's chapter on Manichaeism's Rome-to-China transmission, in [[sources/kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]], adds two data points to the routes' role as a religious-transmission corridor (see [[manichaeism]] for the fuller account). Sogdian functioned as the lingua franca of Tang-period Silk Road commerce, and both Manichaean and Nestorian Christian texts were transmitted via Sogdian intermediary translation into Chinese and Old Turkish; bilingual Parthian-Sogdian wordlists used by Manichaean scribes survive. Earlier still, **An Shigao** (安世高) — reputedly a Parthian crown prince (from *Anxi*, the Chinese transliteration of "Arsacid") who abdicated to study Buddhism — arrived at the Han court at Luoyang in 148 CE and is the first known translator of Buddhist texts into Chinese, working alongside fellow Parthian An Xuan on Gandhari Prakrit originals; his work predates Manichaean transmission by over a century and established the religious-translation groundwork the later Manichaean effort built on.
 
 ## Historiography
 

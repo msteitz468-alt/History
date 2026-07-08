@@ -8,8 +8,8 @@ region: [western-europe]
 process_type: demographic
 driven_by: [end-of-the-roman-villa]
 produces: [merovingian-economy]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, late-antiquity, early-middle-ages, western-europe]
 ---
 
@@ -62,8 +62,57 @@ few aristocratic residential sites — the very pattern that lets him argue for 
 than elite extraction, as the motor of exchange. It also concretizes the ruralization that reshaped diet,
 livestock, and the city (see [[merovingian-cities]]).
 
+## Wickham, Framing (2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham, *Framing* (2005)]] insists that early medieval social
+reality was **local**, not legalist: when documents begin, Seine-valley land appears in huge estate blocks
+while the middle Rhine is highly fragmented. Some zones may have matched the *Pactus legis Salicae*’s
+peasant society; others (again the Seine) already reduced the peasantry to marginality under aristocratic
+practice. Uniform *Gemeinfreie* models cannot hold.
+
+### Chronology of cultural and village form
+
+The major cultural settlement shift in **northern Gaul** is dated **350–450**—villas replaced by wooden
+buildings, often dispersed—largely before the invasion century. More organised village layouts
+(Goudelancourt-type, Frankish/Alemannic modular farmsteads) appear only after **~550**, not as immigrant
+settlement forms but as **universal patterns in Romance-speaking areas by ~600**, extending into the
+Carolingian period. The Franks found a housing type that already resembled their own ([[end-of-the-roman-villa]]).
+
+### Missing aristocratic residences
+
+Despite rich documentary aristocracies and dense ceramic networks implying high demand by 550, excavated
+Merovingian villages in the Île-de-France show almost **no clearly superior buildings before ~650** (rare
+later stone-foundation halls at Serris, Juvigny). Wickham concludes that royal *palatia* and aristocratic
+residences are largely still unexcavated—settlement archaeology alone **understates hierarchy**. If this
+were England one would argue elite crystallisation only around 650; Frankish texts and ceramics show the
+opposite.
+
+### Demography without collapse; Rhineland continuity
+
+Field surveys (Marne-la-Vallée, Aisne, Yvelines) repeatedly show roughly **half** as many early medieval
+occupations as Roman sites, with Merovingian preference for river valleys over plateaux. Wickham’s ballpark
+is ~**50% population decline** in much of the post-Roman West **without demographic collapse**—continued
+agrarian occupation, only limited larger depopulations (Kempen/Campine; much of the Ardennes). He rejects
+classic German scholarship’s sharp Roman–Merovingian settlement caesura in the **Rhineland** as anomalous
+given pan-western continuity: cultural break in building (post-hole modular farmsteads) was real, but need
+not mean population replacement or agricultural gap—supported by Cologne’s wealth, Mayen pottery, and
+lowland Cologne–Aachen–Krefeld continuity ([[merovingian-economy]]).
+
+### Villa-word and *Pactus* communities
+
+Post-Roman *villa* in Gaul is no longer stably “estate/estate-centre”: Gregory and Loire formularies often
+mean **village territory**; Île-de-France seventh-century usage reverts toward “estate” where large estates
+concentrate; Rhineland and by the 820s the St-Germain polyptych use *villa* for settlement units—
+archaeological farmstead clusters from Seine to Danube were regularly called *villae*. In the *Pactus legis
+Salicae* (~510), *villae* are villages of small-scale free landowners, socially stratified free/unfree and
+rich/poor free, with *De migrantibus* neighbour vetoes but **no fully formal village constitution** (count
+enforces; *mallus* above village scale)—articulated informal communities matching Loire anecdotes and
+fragmented Rhineland villages more than Paris-basin tenant dependence ([[peasant-mode-of-production]],
+[[politics-of-land]]).
+
 ## Related
 
 - [[end-of-the-roman-villa]] · [[merovingian-economy]] · [[merovingian-cities]] · [[farming-and-diet-in-merovingian-gaul]] · [[merovingian-archaeology]]
+- [[peasant-mode-of-production]] · [[politics-of-land]] · [[settlement-archaeology]] · [[aristocratic-demand]]
 - [[roman-gaul]] · [[late-antiquity]] · [[early-middle-ages]]
-- Source: [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] (Peytremann Ch. 31; Bourgeois Ch. 28)
+- Sources: [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] (Peytremann Ch. 31; Bourgeois Ch. 28); [[wickham-framing-the-early-middle-ages-2005]]

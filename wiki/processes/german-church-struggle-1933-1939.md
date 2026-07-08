@@ -4,15 +4,14 @@ date_start: 1933
 date_end: 1939
 date_precision: year
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
 process_type: religious
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [process, "world-wars-era", "western-europe"]
 driven_by: ["[[nazi-germany]]", "[[adolf-hitler]]", "[[goebbels-joseph]]", "[[himmler-heinrich]]"]
 produces: ["[[unknown]]"]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [process, world-wars-era, western-europe]
 ---
-
 # The German Church Struggle (Kirchenkampf)
 
 The Nazi attempt to coordinate, split, marginalize, and ultimately supplant
@@ -121,6 +120,20 @@ incoherent, no scripture, no redemptive endpoint, no universal appeal — but it
 did intend, in the long run, to reduce the churches to voluntary bodies and
 let them wither.
 
+## Shirer (1960) Additions
+
+Shirer devotes a full section ("The Persecution of the Christian Churches") to this struggle, with substantial documentary and biographical material complementing Evans's account above:
+
+- The Concordat (signed 20 July 1933, Papen for Germany, Cardinal Pacelli — later Pius XII — for the Holy See) guaranteed Catholic religious freedom and was broken almost immediately: the 25 July 1933 sterilization law and the 30 July dissolution of the Catholic Youth League followed within days. Pope Pius XI's encyclical *Mit Brennender Sorge* (14 March 1937) accused the Nazi government of "evasion" and "violation" of the concordat and "secret and open fundamental hostility to Christ and His Church." Postwar (2 June 1945), Pope Pius XII's allocution described Nazism as "the arrogant apostasy from Jesus Christ... the cult of violence, the idolatry of race and blood."
+- Martin Niemöller, additional biographical detail beyond [[niemoller-martin]]: a former U-boat commander, initially pro-Nazi (his 1933 memoir *From U-Boat to Pulpit* was praised in the Nazi press), who became leader of the Confessing Church resistance faction — Synod of Barmen (May 1934), Dahlem meeting (November 1934) — opposing the pro-Nazi German Christians' Faith Movement led by Reich Bishop Ludwig Müller (elected September 1933 at Wittenberg after Nazi intimidation forced rival candidate Bodelschwingh's withdrawal). The Gestapo arrested roughly 700 Confessional Church pastors by end of 1935, consistent with Evans's figure above.
+- [EYEWITNESS-adjacent, verbatim primary quote] Niemöller's final sermon (27 June 1937) before his arrest: "We have no more thought of using our own powers to escape the arm of the authorities than had the Apostles of old... we must obey God rather than man." Arrested 1 July 1937; tried 2 March 1938 by Sondergericht, acquitted of the main charge but fined and sentenced for "abuse of the pulpit"; seized by the Gestapo on the courthouse steps and held in "protective custody" at Sachsenhausen and then Dachau for seven years until the 1945 liberation. 807 other Confessional Church pastors and laymen were arrested in 1937 alone.
+- [SHIRER-THESIS, contested]: Shirer traces Protestant clergy's susceptibility to Nazism to Martin Luther's own antisemitism and doctrine of absolute obedience to political authority, quoting Luther's recommendations (burn synagogues, deprive Jews of goods, "put under a roof or stable, like the gypsies") as advice he characterizes as "literally followed four centuries later by Hitler, Goering and Himmler," also citing Luther's 1525 counsel to crush the Peasants' Revolt. This "Luther to Hitler" continuity thesis is Shirer's own strong causal claim; modern scholarship (including Evans, already the main source on this page) treats the connection far more cautiously. Flag for [[german-sonderweg]] as a dated, contested position rather than settled fact.
+- Dr. Hans Kerrl, Reich Minister for Church Affairs (from July 1935, matching Evans's dating above), quoted verbatim from a 13 February 1937 speech declaring Nazism itself to be "Positive Christianity" and calling belief in Christ as Son of God laughable ("That makes me laugh"), declaring "The Fuehrer is the herald of a new revelation."
+- Rosenberg's wartime 30-point program for a "National Reich Church" demanded exclusive state-church control, extermination of "foreign Christian faiths," banning of Bible publication, replacing scripture on altars with Mein Kampf and a sword, and removing all crosses in favor of the swastika. Martin Bormann is quoted (1941): "National Socialism and Christianity are irreconcilable" — sharpening the page's existing point that Nazism intended, long-term, to let the churches wither.
+
+Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 - [[evans-third-reich-in-power-2005]]
+- [[shirer-rise-fall-third-reich-1960]]

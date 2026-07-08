@@ -3,18 +3,17 @@ title: Albert Speer
 actor_type: person
 date_start: 1905
 date_end: 1981
-period: [world-wars-era]
+period: ["world-wars-era"]
 region: [europe]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [actor, person, "world-wars-era", germany]
 affiliated_with: [Nazi Germany, Reich Ministry of Armaments and War Production]
-opposed_by: []
-key_events: [world-war-ii-1939-1945]
-key_processes: [war-economies-wwii]
-sources_ingested: 1
-last_updated: 2026-06-26
-tags: [actor, person, world-wars-era, germany]
 aliases: [Albert Speer, Speer Albert, Albert Speer (architect)]
+key_events: ["world-war-ii-1939-1945"]
+key_processes: ["war-economies-wwii"]
+opposed_by: ""
 ---
-
 # Albert Speer
 
 German architect and later Reich Minister for Armaments and War Production (1942-1945). Centralized and rationalized German war production under Hitler, achieving significant output increases despite Allied bombing through dispersal, committees, and forced labor exploitation. Postwar convicted at Nuremberg; later reflected on the regime in memoirs.
@@ -34,6 +33,14 @@ Appointed Armaments Minister 8 February 1942 within hours of Fritz Todt's death 
 ## Dora, the Nero Order, and the memoirs — Evans (2008), Part 7
 
 Speer sponsored von Braun's rocket program and, after the Peenemünde raid, built the underground Mittelwerk with Kammler using Dora camp labor — 20,000 of 60,000 forced laborers died there. His memoir claim to have been appaled by his 10 December 1943 visit is contradicted by his own file: a week later he wrote **congratulating** Kammler on a feat "that far exceeds anything ever done in Europe, and is unsurpassed even by American standards"; at Nuremberg he denied ever visiting a labor camp. He genuinely obstructed the Nero Order (touring fronts to countermand demolitions, dumping Gauleiters' explosives) after telling Hitler to his face the war was lost — then capitulating verbally to keep the authority he used to undermine it. His claimed February 1945 plan to gas the bunker Evans leaves as possibly "his own fantasies." At Nuremberg the "subtle and sophisticated mixture of self-exculpation and self-blame" (including the "palpable untruth" of ignorance of Auschwitz) bought him 20 years while [[sauckel-fritz|Sauckel]] hanged for the same labor empire; the celebrated memoirs were "less than honest." Died London, 1981. Source: [[evans-third-reich-at-war-2008]]
+
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+**Warnings against scorched earth, early 1945.** On 30 January 1945 (the twelfth anniversary of Hitler's taking power), Speer's memorandum on the loss of Silesia — whose mines had supplied 60% of German coal since the Ruhr's bombing — warned flatly: "The war is lost." Hitler read only the first sentence, filed the report, and afterward refused to see Speer alone: "[He] always has something unpleasant to say to me. I can't bear that." Speer's fuller 18 March 1945 memorandum opposing Hitler's "Nero Decree" scorched-earth order argued: "In four to eight weeks the final collapse of the German economy must be expected with certainty... We have no right at this stage of the war to carry out demolitions which might affect the life of the people. If our enemies wish to destroy this nation... this historical shame shall rest exclusively upon them." Hitler's reply, verbatim: "If the war is lost, the nation will also perish... those who will remain after the battle are only the inferior ones, for the good ones have been killed." Speer and sympathetic army officers subsequently raced to prevent demolitions by "zealously obedient" officers and party functionaries, disobeying the formal order in practice while nominally still Armaments Minister — consistent with Evans's account above of Speer telling Hitler to his face the war was lost while retaining the authority to undermine the decree quietly.
+
+**The abandoned poison-gas plan and final bunker visit.** Shirer records that Speer had at one point planned to kill Hitler and the assembled Nazi leadership by introducing poison gas into the Führerbunker's ventilation system during a military conference, abandoning the plot on discovering a twelve-foot protective chimney recently added to the air intake on Hitler's own orders as an anti-sabotage measure (Evans, above, treats Speer's own later account of this plan skeptically, as possibly self-serving postwar reconstruction). Speer flew into besieged Berlin on the night of 23 April 1945 to say farewell to Hitler and confessed to having sabotaged the Nero Decree; Hitler, "strangely serene," showed no anger. See [[events/hitler-suicide-1945]].
+
+Source: [[shirer-rise-fall-third-reich-1960]].
 
 ## Griffin (2007): Speer and Technocratic Modernism
 

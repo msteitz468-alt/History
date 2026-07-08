@@ -50,6 +50,10 @@ Sukarno's turn to Guided Democracy, by contrast, arguably foreclosed an Indonesi
 
 Sukarno is one of the most-studied figures in Southeast Asian history. Indonesian nationalist historiography has treated him as the *Bapak Bangsa* ("Father of the Nation"). Critical scholarship has focused on his wartime collaboration, the authoritarian evolution of Guided Democracy, and the role of his political balancing in enabling PKI expansion that ultimately provoked military backlash. The debates about the 1965 coup — Sukarno's complicity, the army's orchestration, the scale of subsequent killings — remain active. The *Cambridge History* (1992) treats Sukarno primarily as a creator of political structures rather than as an ideological figure, analyzing Guided Democracy as a form of "maximum government."
 
+## Addendum: Guided Democracy, NASAKOM, and the 1965-66 Fall (per McCoy)
+
+Alfred W. McCoy's *[[mccoy-cold-war-five-continents-2024|Cold War on Five Continents]]* (2024) adds detail on Sukarno's ideology and fall. Sukarno declared "Guided Democracy" in 1957/1959 and had himself named "president for life" in 1963, governing under the ideology of NASAKOM (a synthesis of nationalism, religion, and communism intended to balance the army against the PKI). He led Konfrontasi, an undeclared conflict against the newly formed Malaysia, from 1963 to 1966. McCoy states Sukarno had no apparent prior knowledge of the 30 September 1965 putsch but met with the plotters at Halim Air Base during the events of that night. He was demoted to caretaker president in March 1966 and stripped of his remaining powers in 1967, having been supplanted by [[suharto|Suharto]]'s countercoup. See [[indonesian-mass-killings-1965]] for the mass killings that followed the coup, in which McCoy documents US and British covert involvement (name-lists supplied by the US embassy, British IRD propaganda).
+
 ## See Also
 
 - [[decolonization-southeast-asia]]
@@ -60,3 +64,5 @@ Sukarno is one of the most-studied figures in Southeast Asian history. Indonesia
 - [[indonesian-revolution-1945]]
 - [[pancasila]]
 - [[tarling-cambridge-history-southeast-asia-v2-1992]]
+- [[indonesian-mass-killings-1965]]
+- [[mccoy-cold-war-five-continents-2024]]

@@ -9,8 +9,8 @@ affiliated_with: [steppe-nomad confederations; subject Gothic, Alan and Germanic
 opposed_by: [the Goths, the Roman Empire (eventually); employed as Roman allies c. 400–420s]
 key_events: [the subjugation of the Alans and Goths (c. 370–376), the Caucasus raid of 395, the move to the middle Danube (c. 410)]
 key_processes: [the displacement of the Germanic peoples, the formation of Attila's empire]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, movement, late-antiquity, eurasian-steppe, eastern-europe]
 ---
 
@@ -74,6 +74,12 @@ might not have given way in 406. Heather's revision matters because it makes the
 shows the Huns, for a generation, as **Rome's indispensable mercenaries** even as they reshaped the world
 beyond the frontier. Their own empire, and its collapse, belong to [[cameron-cah-v14-2000|CAH XIV]].
 
+## Political organization (Kim 2017)
+
+Hyun Jin Kim (in Kim et al. 2017) argues the Hunnic political system directly replicated the earlier [[xiongnu|Xiongnu]] model rather than being an ad hoc "primitive" formation as Ammianus Marcellinus's ethnography implies — he treats Ammianus's account as pseudo-ethnography drawing on stock Greco-Roman literary tropes about steppe nomads, not eyewitness reporting. On Kim's reading the Huns retained a supreme ruler with subordinate sub-kings (*reguli*) bound by oath — e.g. Uldin was a *regulus*, and the sub-king Donatus was vassal to the overlord Charaton, "the first of the kings" (Olympiodorus fr. 19) — and a dualistic East/West kingship (Ruga and his brother Oktar ruled jointly; their nephews Bleda and Attila succeeded them; Attila assigned the East to his son Ellac; Dengizich and Ernakh again split West/East after 453). A tier of high officials called *logades* (Priscus's Onegesius, Edeco, Berik), functionally comparable to the Xiongnu Gudu marquesses, served as envoys and commanders over vassal tribes, with seating at Attila's banquets reflecting rank. The Huns also collected regular tribute in agricultural produce from subject populations — attested by the Hun officer Chelchal's account to Gothic troops during Dengizich's 460s invasion — continuing a Xiongnu-derived fiscal pattern.
+
+Kim's central and more far-reaching thesis — presented as his own interpretive argument, not settled consensus — is that this Xiongnu-derived "quasi-feudal" political model (dual kingship, dynastic fief-allocation to royal kin, oath-bound vassalage, marquess-equivalent officials) was transmitted via Hunnic military involvement in the rise of Childeric and Clovis to the nascent [[merovingian-franks|Merovingian Frankish kingdom]], shaping what became European feudalism, and that the Hunnic Empire's own fragmentation after 453 followed the same Xiongnu pattern of an unresolved succession dispute over territorial "fiefs." See [[steppe-empire-political-organization]] for the full argument and its relation to other steppe empires.
+
 ## Related
 
 - `produced:` (indirectly) the [[germanic-peoples|Gothic]] flight to the Danube, [[battle-of-adrianople-378|Adrianople]],
@@ -81,4 +87,4 @@ beyond the frontier. Their own empire, and its collapse, belong to [[cameron-cah
 - Employed as Roman allies by [[stilicho|Stilicho]] and Aetius; built into [[attila|Attila's]] empire
 - `contrasts_with:` the settled [[sasanian-empire|Sassanid]] state and the semi-settled
   [[germanic-peoples|Germanic confederations]]
-- Source: [[cameron-cah-v13-1998]] (Ch. 16, Peter Heather); [[sources/heather-fall-roman-empire-2005|Heather, *The Fall of the Roman Empire* (2005)]]
+- Source: [[cameron-cah-v13-1998]] (Ch. 16, Peter Heather); [[sources/heather-fall-roman-empire-2005|Heather, *The Fall of the Roman Empire* (2005)]]; [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]]

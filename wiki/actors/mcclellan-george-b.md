@@ -30,8 +30,15 @@ Union general during the American Civil War; organizer of the Army of the Potoma
 
 Traditional view: overly cautious "procrastinator" who prolonged the war. Revisionist views emphasize the real difficulties of command in 1861-62, his organizational achievements, and Lincoln's political pressures. Covered in major Civil War operational histories (Hattaway & Jones, Hagerman, Weigley "American Way of War"). Exemplifies tension between professional military caution and political demand for decisive action.
 
+
+### From Ellsworth, *Midnight on the Potomac* (2025)
+
+1864 Democratic nominee: vote framed as negotiated peace with slavery likely intact vs Lincoln's fight-to-victory and end of slavery. Torchlight NYC parade ~3 miles. Lost to Lincoln 8 Nov 1864 (soldier vote heavily Union). Ellsworth counterfactual: McClellan in White House would have risked permanent split or slavery-preserving reunion.
+
+Source: [[sources/ellsworth-midnight-on-the-potomac-2025]] · [[events/us-presidential-election-1864]].
+
 ## Related
-- [[actors/abraham-lincoln]]
+- [[actors/lincoln-abraham]]
 - [[events/american-civil-war-1861-1865]]
 - [[events/battle-of-antietam-1862]]
 - [[hubs/warfare/long-19th-century/american-civil-war]]

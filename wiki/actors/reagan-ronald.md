@@ -49,3 +49,18 @@ Causation debate (Range 04): Kennan (“intrinsically silly”; “childish” t
 - Key speech: Appendix in source contains full “A Time for Choosing” (27 Oct 1964)
 - Cross-references: [[gorbachev-mikhail]], [[thatcher-margaret]] (if actor page), existing Cold War events and processes
 - Source: [[sources/byrne-ronald-reagan-an-intellectual-biography-2018]]
+
+## The Reagan Doctrine and Covert War (McCoy)
+
+[[mccoy-cold-war-five-continents-2024|McCoy (2024)]] centres Reagan on the covert
+"rollback" of the Cold War's final phase. The **Reagan Doctrine**, articulated in the
+February 1985 State of the Union ("You are not alone, freedom fighters"), pledged
+support to anti-communist insurgents in Afghanistan, Angola, Cambodia, and Nicaragua.
+Under it the [[central-intelligence-agency|CIA]] escalated aid to Jonas Savimbi's
+UNITA (after the 1985 repeal of the Clark Amendment) in the
+[[angolan-civil-war-1975|Angolan civil war]], to the mujahedin in the
+[[soviet-war-in-afghanistan-1979|Soviet–Afghan War]] (Operation Cyclone, Stingers),
+and to the Contras in [[central-america-cold-war|Central America]] — the last
+producing the **Iran-Contra affair**. McCoy's framing of these covert "victories" as
+having "ravaged" their client states is recorded as a position on
+[[mccoy-covert-empire-thesis|his controversy page]].

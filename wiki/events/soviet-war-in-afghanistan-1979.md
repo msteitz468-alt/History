@@ -74,3 +74,20 @@ communist government that survived only until 1992.
 - `concurrent_with:` the [[brezhnev-stagnation|Brezhnev Stagnation]] era.
 - `analogous_to:` the US [[vietnam-war|Vietnam War]] (a superpower quagmire against a nationalist/Islamist insurgency).
 - [[leffler-westad-cold-war-v3]] — the source.
+
+## The CIA's Covert War (McCoy)
+
+[[mccoy-cold-war-five-continents-2024|McCoy (2024)]] documents the American covert
+side. Carter's National Security Adviser Zbigniew Brzezinski, working from a
+Mackinder-derived "arc of crisis" framework, secured $400,000 in covert aid to the
+Afghan opposition in July 1979 — five months before the Soviet invasion — writing
+that the aid "was going to induce a Soviet military intervention," and later calling
+it the bait that drew Moscow "into the Afghan trap" (his intentional-provocation
+claim is recorded as a position on [[mccoy-covert-empire-thesis|the McCoy controversy
+page]]). The [[central-intelligence-agency|CIA]]'s Operation Cyclone grew from ~$60
+million (1981) to ~$630 million (1987), over half channelled through Pakistan's ISI
+to Gulbuddin Hekmatyar; Stinger missiles (from 1986) downed ~269 Soviet aircraft
+(McCoy's figures). McCoy stresses the war's opium/heroin nexus (Afghan output rising
+from ~100 to 2,000 tons/year, supplying most Western heroin) and the postwar
+abandonment that fed the Taliban's rise. See [[cold-war-proxy-wars|Cold War proxy
+wars]].

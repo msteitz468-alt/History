@@ -1,23 +1,22 @@
 ---
 title: The Hunger Plan
-date_start: 1941-05
+date_start: "1941-05"
 date_end: 1944
 date_precision: year
 period: [World Wars Era]
-region: [eastern-europe]
-location: [occupied Soviet Union, eastern Poland, Ukraine, Belarus]
-actors_primary: [[[nazi-germany]], Herbert Backe (Reich Food Ministry), [[adolf-hitler]], Heinrich Himmler]
-actors_secondary: [Wehrmacht supply apparatus, SS planning experts]
+region: ["eastern-europe"]
+causes: ["Hitler's WWI blockade trauma (over 500", "000 German civilians dead of malnutrition 1914-18) and determination to export starvation rather than suffer it", Lebensraum ideology and the Generalplan Ost racial reordering, logistical decision to feed the invading armies from the occupied land]
+consequences: [deliberate starvation deaths of ~3.3 million Soviet POWs, ~1 million dead in the Leningrad blockade, mass civilian starvation in Kharkov and Kiev, "contributed_to the radicalization of [[the-holocaust]] via \"useless eaters\" rationalization"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "eastern-europe"]
 event_type: famine
-scale_immediate: civilizational
+location: [occupied Soviet Union, eastern Poland, Ukraine, Belarus]
+actors_primary: ["[[nazi-germany]]", Herbert Backe (Reich Food Ministry), "[[adolf-hitler]]", Heinrich Himmler]
+actors_secondary: [Wehrmacht supply apparatus, SS planning experts]
 scale_consequential: civilizational
-causes: [Hitler's WWI blockade trauma (over 500,000 German civilians dead of malnutrition 1914-18) and determination to export starvation rather than suffer it, Lebensraum ideology and the Generalplan Ost racial reordering, logistical decision to feed the invading armies from the occupied land]
-consequences: [deliberate starvation deaths of ~3.3 million Soviet POWs, ~1 million dead in the Leningrad blockade, mass civilian starvation in Kharkov and Kiev, contributed_to the radicalization of [[the-holocaust]] via "useless eaters" rationalization]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [event, world-wars-era, eastern-europe]
+scale_immediate: civilizational
 ---
-
 # The Hunger Plan (Hungerplan)
 
 The deliberate Nazi policy, adopted in May 1941 before the invasion of
@@ -82,8 +81,17 @@ Destruction*) and Collingham (2012). The plan's relation to the Final
 Solution — instrument, accelerant, or parallel program — remains debated;
 see [[holocaust-uniqueness]] and [[the-holocaust]].
 
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Shirer's documentary record corroborates and dates the planning precisely. Goering's Economic Staff East directive (23 May 1941) ordered that surplus food from Russia's black-earth south not be diverted to feed industrial-region workers, who "will simply be left to starve," stating explicitly: "Any attempt to save the population there from death by starvation... would be at the expense of supplies to Europe... This must be clearly and absolutely understood." A 2 May 1941 state-secretaries' meeting memorandum stated flatly: "many millions of persons will be starved to death if we take out of the country the things necessary for us." Rosenberg, appointed "Commissioner for the Central Control of Questions Connected with the East-European Region" in April 1941, told his eastern-administration staff two days before the invasion: "We see absolutely no reason for any obligation on our part to feed also the Russian people... The future will hold very hard years in store for the Russians." Shirer stresses that no German objection to this plan survives in the record, in contrast to some generals' objections to the Commissar Order.
+
+[QUOTE-POINTER] Goering told Ciano some weeks after the invasion that "between twenty and thirty million persons will die of hunger in Russia... In the camps for Russian prisoners they have begun to eat each other" — cited from Ciano's diplomatic papers as evidence the starvation policy was openly discussed among top Nazis, not a secret horror discovered only later.
+
+Source: [[shirer-rise-fall-third-reich-1960]]
+
 ## Related
 
 - part_of: [[operation-barbarossa-1941]] planning and occupation regime
 - part_of: [[second-world-war-1939]]
 - Source: [[evans-third-reich-history-memory-2015]]
+- Source: [[shirer-rise-fall-third-reich-1960]]

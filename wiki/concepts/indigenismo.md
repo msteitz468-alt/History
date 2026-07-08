@@ -10,13 +10,14 @@ applies_to_regions:
   - mesoamerica
   - south-america
 contested: "yes"
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags:
   - concept
   - World Wars Era
   - Cold War
   - andes
+  - mesoamerica
   - south-america
 ---
 
@@ -57,6 +58,38 @@ In Peru, President Leguía (1919–1930) pursued a "false indigenism" (Thomas Da
 - enabled: some early indigenous organising by creating legal and discursive space for indigenous visibility, even if that space was controlled from above
 - concurrent_with: [[ayllu]] (community structures that persisted despite indigenismo's preference for corporatist cooperatives)
 
+## Mexican / Mesoamerican indigenismo (MacLeod, CHNPA II.2)
+
+Murdo J. MacLeod’s overview ([[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]]
+Ch. 12) places Mexican indigenismo squarely inside the revolutionary and post-revolutionary
+state. In Mexico it was very much part of the Revolution and, in various forms, became
+**government policy under Lázaro Cárdenas**. José Vasconcelos’s *Indología* (1927) argued
+assimilation via education, law, and economic development; even pro-Indian presidents such as
+Cárdenas and López Mateos promoted Spanish-language assimilation, and INI / INAH often
+operated in a paternalist, “about-Indians” mode. Most students, MacLeod notes, judge the
+**cultural by-products** of the political movement more important than the policy core:
+archaeology and monument restoration; muralists Rivera, Orozco, and Dr. Atl; novels (Azuela,
+López y Fuentes); and spread to Guatemala (Asturias’s *Hombres de maíz*).
+
+By the **1960s** indigenismo suffered internal divisions and outside attack: incorporation
+versus autonomy; development and assimilation accused of paternalism or even genocide, while
+opponents were labeled romantic or racist; the movement condemned as outsider-driven until
+Indians take charge. After Cárdenas, land reform lost impetus (last major spurt under López
+Mateos, ~30 million acres); after 1940 peasantry and native peoples lost relative share of
+income, health, and education; Alemán favored commercial agro-business and starved ejidos of
+credit; by the 1970s–80s living conditions in indigenous states (Oaxaca, Yucatan, Chiapas)
+fell. Late-century disillusionment with indigenismo paternalism, privatization, NAFTA, and
+ejido demise fed autonomous organizations (Mexico FIPI; Guatemala COMG) and the political
+context of the 1994 EZLN uprising ([[colonial-mesoamerica-native-peoples]],
+[[central-mexico-indigenous-since-independence]]).
+
+Schryer and other Part 2 regional authors detail state indigenismo’s late arrival in much of
+central Mexico (Cárdenas-era conception; large coordinating centers early 1950s; first central
+Mexico center only 1963 in remote Guerrero) and its control by mestizo urban intellectuals who
+paid lip-service to cultural difference while pursuing forced acculturation via bilingual
+teachers — reinforcing the Andean critique already on this page that indigenismo spoke *for*
+rather than *with* indigenous communities.
+
 ## Historiography
 
-Indigenismo produced a large literary canon (Ciro Alegría, Jorge Icaza, José María Arguedas) and a significant body of social science. Anthropological critiques from the 1970s onward — and the indigenous movements themselves — reframed it as a colonialist project of benevolent control. Albó's refusal to include it in a chapter written from the indigenous perspective is itself a pointed historiographical statement, consistent with the advocacy stance of the *Cambridge History* chapter.
+Indigenismo produced a large literary canon (Ciro Alegría, Jorge Icaza, José María Arguedas; Mexican muralism and novels above) and a significant body of social science. Anthropological critiques from the 1970s onward — and the indigenous movements themselves — reframed it as a colonialist project of benevolent control. Albó's refusal to include it in a chapter written from the indigenous perspective is itself a pointed historiographical statement, consistent with the advocacy stance of the *Cambridge History* chapter. MacLeod’s Mexican overview converges on the same outsider-driven critique while stressing cultural production as the movement’s most durable residue.

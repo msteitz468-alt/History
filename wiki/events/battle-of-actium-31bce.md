@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: global
 causes: [the final breakdown of the [[second-triumvirate|triumvirate]], Octavian's propaganda war and the oath of all Italy, the declaration of war on Cleopatra (32)]
 consequences: [the end of the civil wars, Octavian's sole mastery of the Roman world, the fall of Ptolemaic Egypt, the foundation of the Principate]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, balkans, battle, rome]
 ---
 
@@ -79,6 +79,20 @@ the Augustan poets — Horace, Virgil, Propertius) are shaped by **Octavian's vi
 propaganda**, which inflated a near-bloodless break-out into an epic triumph over the
 "eastern menace." Pelling reconstructs the campaign as decided in its first weeks by
 Agrippa, not in the battle itself.
+
+## Beard (SPQR, 2015)
+
+Mary Beard argues Actium was, in reality, a comparatively low-key and
+**"rather low-key, slightly tawdry affair,"** decided by supply interdiction and
+desertion rather than by dramatic combat, but retrospectively inflated by
+Augustan propaganda (Nicopolis, victory monuments, veterans styling themselves
+*Actiacus*) into the founding, quasi-mythic moment of the new regime — "made out
+to be a much more impressive encounter than it really was." She also argues
+Octavian's propaganda deliberately recast this civil war against a fellow Roman
+([[mark-antony|Antony]]) as a foreign war against [[cleopatra-vii|Cleopatra]],
+exoticizing and exaggerating the "oriental" decadence of her court — "the luxury
+of Cleopatra's court was wildly exaggerated" — so the conflict could be framed as
+Rome versus the East rather than Roman versus Roman. See [[sources/beard-spqr-2015]].
 
 ## Related
 

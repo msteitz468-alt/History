@@ -9,8 +9,8 @@ affiliated_with: [Sulla and the Sullani (early); the Senate; later the First Tri
 opposed_by: [Lepidus, Sertorius, Spartacus; later Caesar]
 key_events: [the [[sullan-civil-war-83-82bce|civil war]], the revolt of Lepidus (77), the [[sertorian-war-80-72bce|Sertorian War]], the [[spartacus-revolt-73-71bce|Spartacus revolt]], the consulship of 70]
 key_processes: [the rise of the extraordinary military commands, the unravelling of the [[sullan-constitution]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
@@ -104,6 +104,10 @@ of **extraordinary commands** — beginning with his own
 Mithridates, whose [[pompeian-eastern-settlement-63bce|eastern settlement]] made him
 briefly the unrivalled master of the Roman world.
 
+## Beard (SPQR, 2015)
+
+Mary Beard argues, as her own distinctive interpretive position, that **Pompey — not Caesar or Augustus — "has a good claim to be called the first Roman emperor."** She reads his Eastern honors following the [[pompeian-eastern-settlement-63bce|settlement of the East]] — coin portraits, a divine cult, cities renamed for him, calendar months renamed in his honor — as prefiguring the imperial cult and imagery later standardized under Caesar and Augustus: "it was almost as if the forms and symbols of imperial rule... had their prototypes in Roman rule abroad." Beard also treats the 60 BCE [[first-triumvirate|"Gang of Three"]] compact between Pompey, Caesar, and Crassus as arguably more corrosive to the Republic than open violence, citing Cato the Younger's judgment that Rome was "overturned not when Caesar and Pompey fell out but when they became friends" — because it moved public decisions into private, unaccountable hands. See [[sources/beard-spqr-2015]].
+
 ## Historiography
 
 Plutarch's *Pompey* and Sallust's *Histories* (the Spanish letters) are central;
@@ -117,5 +121,6 @@ consulships (Seager: they did not), are debated.
   [[sertorian-war-80-72bce|Sertorius]] · [[spartacus-revolt-73-71bce|Spartacus]]
 - Undid: [[sullan-constitution]] (restored the tribunate, 70)
 - Context: [[marian-army-reforms|the client army]] · [[optimates-populares]] ·
-  [[roman-republic]]
-- Source: [[crook-cah-v9-1992]] (Chs. 6–7, Seager)
+  [[mos-maiorum]] · [[roman-republic]]; began by raising a **private army** from his
+  father Pompeius Strabo's clients (aged ~21) to join [[sulla]] in 83
+- Source: [[crook-cah-v9-1992]] (Chs. 6–7, Seager) · [[duncan-storm-before-the-storm-2017]]

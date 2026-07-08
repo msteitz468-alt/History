@@ -8,8 +8,8 @@ region: [western-europe, italy, north-africa, iberia, british-isles, mediterrane
 process_type: economic
 driven_by: ["[[fall-of-the-western-roman-empire-476|collapse of the Roman fiscal-military state]]", "the rise of military lordship and aristocratic tax-exemption", "barbarian settlement in return for military service", "drainage of gold coinage eastward"]
 produces: ["de-urbanisation and the retreat from civitas to villa", "the autarkic early-medieval estate", "the manorial bipartite estate", "ruralisation of aristocratic culture"]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, late-antiquity, early-middle-ages, western-europe]
 ---
 
@@ -106,8 +106,33 @@ renewed aristocratic accumulation, the receding plague, rising population, and a
 plentiful silver coinage generate the first sustained western economic growth since the
 fourth century — the material substrate of the [[carolingian-empire|Carolingian]] world.
 
+## Wickham, *Framing the Early Middle Ages* (2005)
+
+Sarris’s fiscal-materialist de-monetisation story is complementary but not identical to
+Wickham’s account in [[wickham-framing-the-early-middle-ages-2005|Framing]]. Wickham:
+
+- **Privileges ceramics over coinage** as an economic guide, in part because coin
+  distributions often track public administration and diplomatic gift exchange rather
+  than bulk commercial life, and because only **copper** coins (not minted in the
+  post-Roman West) are much of a guide to non-luxury exchange. The late eighth-century
+  Carolingian silver *denarius* was high-value (c. £12 of 2004 money by 794 Frankfurt
+  bread prices); several moments of considerable economic prosperity show striking
+  shortages of coin on excavation (fifth-century Palestine; ninth-century Rome and Iraq).
+- Treats **enormous simplification in material culture** as real and not to be argued
+  away: a direct consequence of weakened fiscal and aristocratic resources **and** of
+  peasant economic autonomies ([[aristocratic-demand]], [[peasant-mode-of-production]]).
+  Older “dark age” theorists largely ignored material culture while overplaying
+  documentary darkness.
+- Links western monetary/fiscal unwinding to the broader structural shift from tax- to
+  land-based polities and to the end of interregional fiscal circuits that had
+  underpinned Mediterranean bulk exchange ([[tax-based-vs-land-based-states]],
+  [[post-roman-transformation-of-the-west]]). Regional recovery after c.800 tracks
+  elite demand (northern Francia) or fiscal coherence (Egypt, later Byzantium), not a
+  uniform re-monetisation path.
+
 ## Related
 
 - [[fall-of-rome-causes]] · [[fall-of-the-western-roman-empire-476]] · [[late-antiquity]] · [[early-middle-ages]]
 - [[justinianic-plague-541]] · [[merovingian-franks|the Merovingian commonwealth]]
-- Source: [[sarris-empires-of-faith-2011]] (Chs. 1–2, 9, Epilogue)
+- [[aristocratic-demand]] · [[tax-based-vs-land-based-states]] · [[post-roman-transformation-of-the-west]]
+- Sources: [[sarris-empires-of-faith-2011]] (Chs. 1–2, 9, Epilogue); [[wickham-framing-the-early-middle-ages-2005]] (esp. Ch. 11 method; material-culture conclusions).

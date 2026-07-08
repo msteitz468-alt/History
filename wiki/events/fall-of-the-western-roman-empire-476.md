@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the collapse of Hunnic power after Attila (453), the loss of Africa to the Vandals, the "vicious circle" of too many players over a shrinking fiscal base, the failure of the Vandal expeditions]
 consequences: [the end of the western imperial line, the rise of the barbarian successor kingdoms, the survival of the empire in the East]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, transition, late-antiquity, italy, western-europe, mediterranean, rome]
 ---
 
@@ -95,6 +95,8 @@ not by internal decline — his closing line reversing Gibbon, that "Roman imper
 ultimately responsible for its own destruction." See the
 [[causes-of-the-fall-of-the-western-roman-empire|fall controversy]] for the opposing positions.
 
+**Wickham, *Framing the Early Middle Ages* (2005).** Geiseric’s conquest of Carthage in **439** is “arguably the turning-point in the ‘fall’ of the western empire” for **infrastructural** reasons: Africa underpinned Rome’s grain and oil *annona*; without permanent supply the western capital could scarcely function, and Geiseric further pressured Sardinia and Sicily as alternative western grain suppliers. From c.440 Valentinian III’s legislation shows western resource shortfalls. Whether or not commercial grain still reached Rome for money, effects on western **tax resources** were similar. Italy suffered most from the broken Carthage–Rome fiscal axis; Africa, conquered quickly, retained provincial tax mechanisms now retained at Carthage and enriching a local ruling class as absentee landowning ended. The Vandal century thus begins the fiscal spiral ending western imperial rule — complementary to Heather’s externalist account, but placing the structural hinge on the **tax/land transformation** tracked in [[tax-based-vs-land-based-states]] and [[post-roman-transformation-of-the-west]]. Source: [[wickham-framing-the-early-middle-ages-2005]] Chs. 2–3.
+
 ## Related
 
 - `caused_by:` the death of **[[attila|Attila]]** and the collapse of the [[huns|Huns]]; the loss of
@@ -103,4 +105,4 @@ ultimately responsible for its own destruction." See the
   `produced:` the [[germanic-peoples|successor kingdoms]] ([[theoderic-the-great|Ostrogothic Italy]])
 - `enabled:` the eastern survival and [[justinian|Justinian's]] reconquest; feeds the
   [[causes-of-the-fall-of-the-western-roman-empire|fall of the West]] controversy
-- Source: [[cameron-cah-v14-2000]] (Ch. 1, Peter Heather)
+- Source: [[cameron-cah-v14-2000]] (Ch. 1, Peter Heather); [[wickham-framing-the-early-middle-ages-2005]] (439 as fiscal turning-point)

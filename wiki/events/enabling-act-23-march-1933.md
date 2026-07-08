@@ -7,8 +7,8 @@ period: [World Wars Era]
 region: ["western-europe"]
 causes: ["hitler-chancellorship-30-january-1933", "reichstag-fire-decree", "intimidation-and-arrests-of-opposition", "conservative-partners-miscalculation", "nazi-parliamentary-plurality-plus-allies"]
 consequences: ["end-of-weimar-constitutional-order", "dictatorial-powers-for-hitler-government", gleischschaltung, "destruction-of-parliamentary-democracy", "foundation-of-third-reich"]
-sources_ingested: [2]
-last_updated: "2026-07-02"
+sources_ingested: [3]
+last_updated: "2026-07-03"
 tags: [event, "world-wars-era", "western-europe", machtergreifung, "enabling-act", dictatorship, 1933]
 event_type: legislation
 location: [berlin, reichstag, "kroll-opera-house"]
@@ -113,9 +113,19 @@ Kershaw places the Enabling Act within the broader ‘Machtergreifung’ phase (
 
 **Grounded in range:** Kershaw, *Hitler 1889–1936: Hubris* (1998), references in ch. 10 to enabling act in the Schleicher negotiations, and the overall analysis of the 1933 consolidation mechanics.
 
+## Shirer (1960) Additions
+
+- Cabinet minutes of 15 March 1933 (produced at Nuremberg) show the two-thirds strategy being engineered in advance: excluding the 81 "absent" Communist deputies, Göring proposing "refusing admittance to a few Social Democrats"; Hugenberg wanted President Hindenburg empowered to co-approve cabinet decrees but was rebuffed by State Secretary Meissner.
+- "Day of Potsdam" (21 March 1933), staged for broadcast and photography by Goebbels, deliberately chosen on the anniversary of Bismarck's 1871 Reichstag opening to link the regime with Prussian/Hohenzollern legitimacy — corroborates Evans's account above. French ambassador André François-Poncet's contemporary judgment (quoted by Shirer): the Potsdam "dazzling pledge" dissolved conservative apprehension about Hitler and led them to "concede the full powers he claimed."
+- Full text of the Enabling Act ("Law for Removing the Distress of People and Reich") as summarized by Shirer: cabinet given legislative power (including budget, treaties, constitutional amendments) for four years; laws could "deviate from the constitution"; storm troopers lined the Kroll Opera House aisles during the vote.
+- [SHIRER-THESIS]: Shirer quotes Alan Bullock's framing device — "The street gangs had seized control of the resources of a great modern State, the gutter had come to power" — but "legally," by parliamentary vote, capturing the "legal revolution" thesis that recurs across this ingest.
+
+Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 - Kershaw (range): explicit mention of enabling act in August 1932 context; broader ch. 10–11 treatment of the transfer and immediate aftermath.
+- Shirer, *The Rise and Fall of the Third Reich* (1960).
 - Cross-links: [[appointment-of-hitler-30-january-1933]], [[reichstag-election-september-1930]], 13 August 1932 Hindenburg rejection, [[actors/adolf-hitler|Adolf Hitler]], [[papen-franz-von|Franz von Papen]]
 
 ---

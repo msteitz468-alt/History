@@ -5,7 +5,7 @@ period_involved: [Early Modern, Age of Expansion, Long 19th Century]
 regions_involved: [mesoamerica, andes, caribbean, atlantic-world, iberia, western-europe]
 positions: ["the conquest was uniquely cruel and the indictment is essentially accurate", "the 'Black Legend' is anti-Spanish propaganda exaggerating crimes common to all colonizers", "a middle view: real atrocities, rhetorically inflated and selectively weaponized"]
 resolution_status: open
-last_updated: 2026-06-13
+last_updated: 2026-07-08
 tags: [controversy]
 ---
 
@@ -72,9 +72,28 @@ negra* served propaganda purposes; the live dispute is over **degree, comparison
 and emphasis** — whether Spanish conquest was distinctively brutal or a sharp
 instance of a general European pattern.
 
+## MacLeod on Black Legend / White Legend and demography (CHNPA II.2)
+
+Murdo J. MacLeod ([[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] Ch. 12)
+links the Legend quarrel directly to the **population catastrophe** in Mesoamerica. Those who
+denounced the “destruction of the Indies” (Las Casas and later writers) blamed Spanish cruelty,
+wanton killing, brutal enslavement, and overwork — the so-called Black Legend, seized as
+propaganda by English and Dutch imperial rivals. The opposite argument, the “**White Legend**,”
+defended Spanish colonialism, claimed native populations had never been large, and credited
+Spanish rule with Christianity, a *pax hispanica* ending internecine war, and the end of human
+sacrifice and cannibalism. MacLeod notes the debate continues under new guises, while most
+scholars now agree preinvasion populations were very large and that — with caveats —
+**pandemics** are the main proximate cause ([[pre-columbian-american-population]],
+[[virgin-soil-epidemics]]). He also records the early legal-theological fight: some settlers
+assigned natives subhuman status; Las Casas’s “All Mankind is One” prevailed among thinkers if
+not among exploiters of labor, fitting Indians as free but lowly Crown vassals
+([[colonial-mesoamerica-native-peoples]]).
+
 ## Related
 
 - [[las-casas-bartolome]] — author of the indictment's source text.
 - [[spanish-conquest-of-mexico-1519]] · [[spanish-conquest-of-peru-1532]] — the conquests in question.
 - [[colonial-latin-america]] — the field the debate frames.
+- [[colonial-mesoamerica-native-peoples]] — MacLeod overview framing for native Mesoamerica.
 - [[pre-columbian-american-population]] — the linked quantitative controversy over the death toll.
+- [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]]

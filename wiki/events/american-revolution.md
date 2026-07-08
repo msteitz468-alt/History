@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: global
 causes: [post-Seven-Years-War British taxation of the colonies, "no taxation without representation", Enlightenment ideas of liberty and republicanism, colonial self-government]
 consequences: [the independence of the United States, the first modern democratic republic, a model for the French and Atlantic revolutions, the British fiscal/imperial reorientation]
-sources_ingested: 2
-last_updated: 2026-06-23
+sources_ingested: 3
+last_updated: "2026-07-03"
 tags: [event, age-of-expansion, north-america, atlantic-world]
 ---
 # The American Revolution (1765–1783)
@@ -76,7 +76,13 @@ professionalization at [[valley-forge-1777|Valley Forge]] and the proving fight 
 coalition victory at [[siege-of-yorktown-1781|Yorktown]] and the [[treaty-of-paris-1783|
 Treaty of Paris]].
 
-The *West Point History* stresses that the **French were indispensable**: "The Continental
+The *West Point History* stresses that the **French were indispensable**
+
+## Historiography
+
+The Revolution is foundational to US national narrative and extensively covered in Cambridge and specialist series. Ellis (*The Great Contradiction*, 2025) reframes it around the "great contradiction": the language of liberty ("all men are created equal") coexisted with slaveowning by its authors and explicit constitutional protections for slavery. "If these solemn truths... are self-evident, unless we can show that the African race are not men, we can hardly express the amazement..." (contemporary David Cooper). The compromises at the subsequent Constitutional Convention (three-fifths, fugitive slave, slave trade) are presented as active choices, not mere necessities. "The only way to end slavery was to create a national government... but placing emancipation on the agenda... instantly destroyed any realistic prospect." Washington and Jefferson receive particular scrutiny for private regrets vs. public inaction or deferral. Indian removal is the paired "tragic" failure. Primary sources: founders' papers, Madison Notes, contemporary pamphlets. Recent revisionism stresses contingency, Native agency/power structures, and the avoidable (Shakespearean) character of the moral failures. Collection coverage of the ideological/moral dimension was thin; this source supplies a focused corrective anchor.
+
+See also [[concepts/slavery-in-the-american-founding]], [[events/constitutional-convention-1787]], [[sources/ellis-the-great-contradiction-2025]].: "The Continental
 Army did not win the war in America; it was on the winning side." Its achievement was to
 **survive** until foreign intervention — above all French sea power — could tip the balance.
 

@@ -9,8 +9,8 @@ affiliated_with: [[[carthage]], the [[hamilcar-barca|Barcid family]]]
 opposed_by: [[[roman-republic]], [[scipio-africanus]], [[fabius-maximus]]]
 key_events: [[[siege-of-saguntum-219bce]], [[second-punic-war-218-201bce]], [[battle-of-cannae-216bce]], [[battle-of-zama-202bce]]]
 key_processes: [[[heracles-melqart-syncretism]]]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, north-africa, iberia, italy]
 ---
 
@@ -66,6 +66,16 @@ source. [[polybius]] is generally favourable and analytical; [[livy]] dramatizes
 and transmits the "cruelty of Hannibal" topos that Walbank shows to be largely
 rhetorical. The **Alpine route** remains unresolved. See
 [[causes-of-second-punic-war]].
+
+Mary Beard ([[sources/beard-spqr-2015]]) treats the causes of the war as genuinely
+unresolved — "at the latest count, there are more than thirty versions of what
+really lay behind the conflict" among ancient and modern writers — resisting any
+single-cause account. Following Polybius, she offers a distinctive reframing of
+the famous puzzle of why Hannibal did not march on Rome after Cannae (216 BCE):
+rather than a personal failure of nerve, she suggests he may have grasped that
+Rome's durability rested on its allied manpower reserves, not the city itself,
+and so directed his effort — with limited success — at peeling away Rome's
+Italian allies instead.
 
 ## Hannibal as Ideologue: the Heracles–Melqart Campaign (Miles)
 

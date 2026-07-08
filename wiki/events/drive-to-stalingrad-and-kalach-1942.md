@@ -1,24 +1,23 @@
 ---
 title: Drive to Stalingrad and Kalach Kessel
-date_start: 1942-07-26
-date_end: 1942-09-05
+date_start: "1942-07-26"
+date_end: "1942-09-05"
 date_precision: approximate
-dating_method: 
 period: ["world-wars-era"]
 region: ["eastern-europe"]
-location: ["Don River bend", "Kalach", "land bridge between Don and Volga", "northern suburbs of Stalingrad"]
-actors_primary: ["[[actors/paulus-friedrich]] (6th Army)", "[[actors/hitler-adolf]] (Directive 45 priority shift)", "[[actors/hoth-hermann]] (4th Panzer Army, later attached)", "[[actors/hube-hans]] (16th Panzer Division)"]
-actors_secondary: ["XIV Panzer Corps (Wietersheim/Hube: 16th Panzer, 3rd/60th Motorized)", "XXIV Panzer Corps (Langermann)", "LI Corps (Seydlitz-Kurzbach)", "Soviet 62nd and 64th Armies; 1st and 4th Tank Armies (early counter)"]
-event_type: battle
-scale_immediate: regional
-scale_consequential: civilizational
 causes: ["contributed_to: fuel shortages and initial priority to Caucasus (Edelweiss) delaying 6th Army", "caused_by: [[unknown]] (Soviet flight avoiding early encirclement; later buildup in Don bend)", "preceded_by: Blue II and Rostov; Directive 45 reversal of Schwerpunkt to Stalingrad (Aug 1)"]
-consequences: ["produced: Kalach Kessel (Aug 7–11): 35,000+ prisoners, 270 tanks, 560 guns destroyed in pocket; total ~57,000 prisoners and nearly 1,000 tanks in Don bend fighting", "produced: 16th Panzer Division reaches Volga north of Stalingrad (Aug 23) in narrow corridor; massive Luftwaffe raid on city", "enabled: continuous German front in front of Stalingrad by early September after Hoth’s flanking maneuver; decision to assault the city", "part_of: [[hubs/warfare/world-wars-era/second-world-war/battle-of-stalingrad-1942]]", "followed_by: urban Festungskrieg / Rattenkrieg inside Stalingrad"]
-sources_ingested: 1
-last_updated: 2026-06-24
-tags: [event, world-wars-era, eastern-europe, battle]
+consequences: ["produced: Kalach Kessel (Aug 7–11): 35", 000+ prisoners, 270 tanks, 560 guns destroyed in pocket; total ~57, 000 prisoners and nearly 1, 000 tanks in Don bend fighting, "produced: 16th Panzer Division reaches Volga north of Stalingrad (Aug 23) in narrow corridor; massive Luftwaffe raid on city", "enabled: continuous German front in front of Stalingrad by early September after Hoth’s flanking maneuver; decision to assault the city", "part_of: [[hubs/warfare/world-wars-era/second-world-war/battle-of-stalingrad-1942]]", "followed_by: urban Festungskrieg / Rattenkrieg inside Stalingrad"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "eastern-europe", battle]
+event_type: battle
+location: [Don River bend, Kalach, land bridge between Don and Volga, northern suburbs of Stalingrad]
+actors_primary: ["[[actors/paulus-friedrich]] (6th Army)", "[[actors/hitler-adolf]] (Directive 45 priority shift)", "[[actors/hoth-hermann]] (4th Panzer Army", later attached), "[[actors/hube-hans]] (16th Panzer Division)"]
+actors_secondary: ["XIV Panzer Corps (Wietersheim/Hube: 16th Panzer", 3rd/60th Motorized), XXIV Panzer Corps (Langermann), "LI Corps (Seydlitz-Kurzbach)", Soviet 62nd and 64th Armies; 1st and 4th Tank Armies (early counter)]
+dating_method: ""
+scale_consequential: civilizational
+scale_immediate: regional
 ---
-
 # Drive to Stalingrad and Kalach Kessel (July–early September 1942)
 
 **Source grounding:** All claims, verbatim quotes, details, and analysis drawn exclusively from Robert M. Citino, *Death of the Wehrmacht: The German Campaigns of 1942* (2007), Chapter 7, "Coming to a Halt: The Caucasus and Stalingrad," sections "The Drive on Stalingrad: Clearing the Don," "To Stalingrad," and "In the City" (up to the start of the September 13 assaults).
@@ -75,3 +74,11 @@ Citino stresses irony: Stalingrad was originally subsidiary ("no more than a nam
 ---
 
 **All details, quotes, and analysis grounded exclusively in Citino, Ch. 7, range 04 cache. Verbatim where quoted (e.g., "the meter replaced the kilometer").**
+
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Hitler's Directive No. 45 (23 July 1942) split the summer offensive into simultaneous drives on Stalingrad and the Caucasus oil fields against Halder's explicit warning the Army lacked strength for both; Halder's diary that evening: "The continual underestimation of enemy possibilities takes on grotesque forms and is becoming dangerous... Pathological reaction to momentary impressions and a complete lack of capacity to assess the situation." Hitler had earlier told Paulus, before the offensive: "If I do not get the oil of Maikop and Grozny, then I must end this war." The 350-mile Don flank between Stalingrad and Voronezh was held by weak satellite armies (Hungarian Second, Italian Eighth, Rumanian Third and Fourth) deliberately kept separate because of Rumanian-Hungarian hostility; the Rumanian Third held 105 miles with only 69 battalions, a risk Hitler dismissed because he believed the Russians "finished." Kleist told Liddell Hart postwar that the Fourth Panzer Army "could have taken Stalingrad without a fight at the end of July, but was diverted south to help me in crossing the Don. I did not need its aid... When it turned north again a fortnight later the Russians had gathered just sufficient forces at Stalingrad to check it."
+
+Halder was dismissed on 24 September 1942 after warning Hitler — based on accurate Army intelligence — that Stalin could still muster 1–1.25 million fresh troops north of Stalingrad, and that Soviet tank output was roughly 1,200/month; Hitler "flew at the man who was reading with clenched fists and foam in the corners of his mouth," telling him at their farewell: "You and I have been suffering from nerves. Half of my nervous exhaustion is due to you... We need National Socialist ardor now, not professional ability." Halder's diary ends on this date — a documented gap in the primary-source record Shirer relies on for the rest of the campaign. See [[halder-franz]].
+
+Source: [[shirer-rise-fall-third-reich-1960]]

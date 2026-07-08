@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: hemispheric
 causes: [[[causes-of-second-punic-war]], the Barcid recovery of Spain, Rome's seizure of Sardinia (238), the Saguntum/Ebro dispute, [[first-punic-war-264-241bce]]]
 consequences: [Roman naval & territorial supremacy in the western Mediterranean, the acquisition of Spain as provinces, the disarming of Carthage, the rise of [[masinissa|Numidia]], the transformation of Italian agriculture, the eastward turn of Roman power]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, italy, iberia, north-africa, war, rome]
 ---
 
@@ -142,6 +142,18 @@ recovering Sicily and Sardinia and checking Roman expansion); and whether Rome's
 post-war foreign policy was driven by acquisitive imperialism (Harris) or
 defensive fear (Briscoe). The Barcid coinage of Spain is a key independent
 witness for a period the Greek sources illuminate only obliquely.
+
+**Beard (SPQR, 2015).** Mary Beard ([[sources/beard-spqr-2015]]) highlights how
+close Rome came to financial collapse after Cannae: the bronze *as* coin was
+debased from almost 300 grams to just over 50 over the course of the war, and in
+214 BCE individual citizens were called on to fund the fleet directly. She argues
+"almost any other ancient state in that position would have been forced to
+surrender," crediting Roman survival specifically to its reserves of citizen and
+allied manpower. She also stresses the epistemic limits on reconstructing Cannae
+itself: ancient accounts (Polybius, Livy, others) are mutually incompatible, the
+battle site remains unknown, and the "sanitised" tactical diagrams that usually
+accompany modern narratives overstate how much control commanders could have had
+over a battle involving 100,000+ multilingual combatants without stirrups.
 
 ## Related
 

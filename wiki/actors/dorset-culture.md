@@ -9,10 +9,10 @@ region: [north-america]
 affiliated_with: ["[[arctic-small-tool-tradition]]"]
 opposed_by: ["[[thule-culture]]"]
 key_events: []
-key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-27
-tags: [actor, north-america, period-Classical-Antiquity, period-Early-Middle-Ages]
+key_processes: ["[[arctic-native-history-norse-to-modern]]"]
+sources_ingested: 3
+last_updated: 2026-07-08
+tags: [actor, north-america, arctic, period-Classical-Antiquity, period-Early-Middle-Ages]
 ---
 
 ## Overview
@@ -62,3 +62,31 @@ The Dorset people were forced southward to Newfoundland during cold periods afte
 The Dorset-Thule transition has been one of the most studied problems in Arctic archaeology. Early researchers debated whether Thule simply displaced Dorset by competitive exclusion or whether absorption and intermarriage occurred. Genetic research is increasingly informing this debate; the biological distinctiveness of various Arctic populations (including, for comparison, Beothuk, Algonquian, and Inuit populations in Newfoundland) has been established through ancient DNA analysis (Duggan et al., 2017). Savelle and Dyke's work on Palaeoeskimo demography in the central Canadian Arctic has refined understanding of Dorset's demographic oscillations. The source base is moderate for Dorset relative to Thule; preservation in permafrost aids organic material recovery but coverage is geographically uneven.
 
 Source: [[snow-gonlin-siegel-archaeology-native-north-america-2020]]
+
+## CHNPA I.1 — Dean R. Snow (ch. 3)
+
+Snow’s Cambridge chronology and inventory (dates as stated):
+
+- By **500 B.C.** Pre-Dorset across Canadian and Alaskan Arctic to Greenland.
+- **Dorset** emerges in Canada/Greenland **500–1 B.C.**; Early Dorset pressed SE to Labrador and Newfoundland coasts.
+- **Late Dorset A.D. 1–1000**: retreated from Newfoundland and all but northwestern Greenland under climatic/wildlife shifts.
+- Marine mammal dependence (seals, walrus); occasional bow/arrow and small stone lamps; **no Norton-style crude pottery**.
+- First appearances of classic Inuit gadgets: **snow knives** (igloo construction), **ice creepers**, small **sled runners**.
+- Dogs, bows, drills drop from many late inventories; advanced kayaks present.
+- `preceded_by: [[arctic-small-tool-tradition]]` · `followed_by: [[thule-culture]]` (submerged by Thule radiation)
+
+*Source: [[sources/cambridge-history-native-peoples-americas-v1-1]], ch. 3 (Snow).*
+
+## CHNPA I.2 — David Damas (ch. 14)
+
+### Late Dorset in west Greenland before Norse
+
+When Erik the Red (Eirikr Thorvaldsson) and followers landed in southwest Greenland near the end of the tenth century, they found remains of prior inhabitants—dwellings, skin boats, stone implements—that archaeologists agree belonged to the Dorset culture. **Late Dorset** probably inhabited the west Greenland coast north of the Holsteinsborg region in the period A.D. 700–900 and thus preceded Norse occupation by about 100 years. Dorset also lived elsewhere in Greenland during Norse times, but meetings between the two groups are judged unlikely.
+
+### Labrador multi-culture contact zone
+
+Fitzhugh places Newfoundland and the southern half of the Labrador coast beyond Dorset range during probable Norse contact; the first “skraeling” encounter was likely at Hamilton Inlet with Point Revenge Indian culture. Between A.D. 1000 and 1400, Thule, Dorset, Point Revenge, and Norse could all have contacted within a small range in northern Labrador. Newfoundland Natives most likely Beothuks. These notes refine the Thule-replacement narrative with a late multi-culture corridor rather than a single Dorset–Norse meeting on the Norse farmlands.
+
+`concurrent_with: [[arctic-native-history-norse-to-modern]]` · `concurrent_with: [[greenland-inuit]]` · `followed_by: [[thule-culture]]`
+
+*Source: [[sources/cambridge-history-native-peoples-americas-v1-2]], ch. 14 (Damas).*

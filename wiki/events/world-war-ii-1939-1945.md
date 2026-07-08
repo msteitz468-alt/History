@@ -1,24 +1,23 @@
 ---
 title: World War II
-date_start: 1939-09-01
-date_end: 1945-09-02
+date_start: "1939-09-01"
+date_end: "1945-09-02"
 date_precision: exact
-dating_method: documentary
-period: ["World Wars Era"]
-region: ["europe", "east-asia", "pacific", "north-africa", "western-europe", "eastern-europe", "north-america"]
-location: ["Global theaters; primary European and Pacific"]
+period: [World Wars Era]
+region: [europe, "east-asia", pacific, "north-africa", "western-europe", "eastern-europe", "north-america"]
+causes: ["[[treaty-of-versailles-1919|Versailles Treaty]] flaws and resentments", "[[great-depression|Great Depression]] radicalization and economic crisis", rise of totalitarian regimes in Germany, Italy, Japan, "failure of [[league-of-nations|League of Nations]] and collective security (esp. US non-participation)", "aggressive expansion: Manchuria 1931", Rhineland 1936, Anschluss 1938, Munich 1938, Czechoslovakia 1939, "[[molotov-ribbentrop-pact-1939|Nazi-Soviet Non-Aggression Pact]] enabling German invasion of Poland", militarism and rearmament programs outpacing democracies]
+consequences: ["[[holocaust|Holocaust]] and mass civilian deaths (est. 60+ million total dead)", defeat and occupation of Axis powers, "rise of [[united-states|United States]] and [[soviet-union|Soviet Union]] as superpowers", end of European colonial empires prelude, "[[united-nations|United Nations]] formation", Cold War division of Europe and world, technological leaps (atomic weapons, rocketry, radar, computing)]
+sources_ingested: [5]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", global, war]
+event_type: war
+location: [Global theaters; primary European and Pacific]
 actors_primary: ["[[adolf-hitler|Adolf Hitler]] (Nazi Germany)", "[[mussolini-benito|Benito Mussolini]] (Fascist Italy)", "[[japan-imperial|Imperial Japan]]", "[[churchill-winston|Winston Churchill]] (UK)", "[[stalin-joseph|Joseph Stalin]] (USSR)", "[[roosevelt-franklin-d|Franklin D. Roosevelt]] (USA)"]
 actors_secondary: ["[[chamberlain-neville|Neville Chamberlain]]", "[[guderian-heinz|Heinz Guderian]]", "[[rundstedt-gerd-von|Gerd von Rundstedt]]", "[[bock-fedor-von|Fedor von Bock]]", "[[eduard-rydz-smigly|Eduard Rydz-Śmigły]] (Poland)"]
-event_type: war
-scale_immediate: global
+dating_method: documentary
 scale_consequential: global
-causes: ["[[treaty-of-versailles-1919|Versailles Treaty]] flaws and resentments", "[[great-depression|Great Depression]] radicalization and economic crisis", "rise of totalitarian regimes in Germany, Italy, Japan", "failure of [[league-of-nations|League of Nations]] and collective security (esp. US non-participation)", "aggressive expansion: Manchuria 1931, Rhineland 1936, Anschluss 1938, Munich 1938, Czechoslovakia 1939", "[[molotov-ribbentrop-pact-1939|Nazi-Soviet Non-Aggression Pact]] enabling German invasion of Poland", "militarism and rearmament programs outpacing democracies"]
-consequences: ["[[holocaust|Holocaust]] and mass civilian deaths (est. 60+ million total dead)", "defeat and occupation of Axis powers", "rise of [[united-states|United States]] and [[soviet-union|Soviet Union]] as superpowers", "end of European colonial empires prelude", "[[united-nations|United Nations]] formation", "Cold War division of Europe and world", "technological leaps (atomic weapons, rocketry, radar, computing)"]
-sources_ingested: 4
-last_updated: 2026-06-23
-tags: [event, world-wars-era, global, war]
+scale_immediate: global
 ---
-
 # World War II (1939–1945)
 
 **Full narrative overview and sources:** This page anchors the era. See [[hubs/warfare/world-wars-era/second-world-war/second-world-war|War Hub]] for operational/campaign detail and links to individual battle analyses (e.g. [[hubs/warfare/world-wars-era/second-world-war/invasion-of-poland-1939|Invasion of Poland analysis]]). Cross-reference [[causes-of-the-second-world-war|causes controversy]] and [[first-world-war-1914]] transition.
@@ -140,6 +139,18 @@ From Megargee (range_3): Highlights planning flaws (logistics, intelligence bias
 ## Mediterranean Logistics Impact (Dworak)
 
 The Mediterranean Theater proved a laboratory for Allied sustainment. From novice base sections in Torch (Casablanca/Oran/Algiers) through mature systems supporting Dragoon (SLOC integration, Marseille/Rhône advance), logistics enabled projection of power across multiple amphibious ops. "Lessons learned from Mediterranean operations and applied to Operation Overlord, 203, 204, 205" included DUKWs, beach clearance, mounting timelines (60+ days), and balanced combat/service forces. Theater leaders gained experience: Eisenhower "growth as a commander from experiences in the Mediterranean theater, 208"; "use of experienced leaders from the Mediterranean theater, 206–7, 210". US advantages in "level of supplies required by US forces in World War II, 212–13"; "divisional slice, 213–14" (vastly superior to German). German failure: "reasons for the German failure in, 210–12" (horses, rail dependence, Kesselring: supply "of no less importance than operational and tactical command"). "Allied success in the Mediterranean theater and, 212" directly shaped ETO victory. Service forces evolution: "Women’s Army Corps (WAC), 195–97"; "Black units in, 199, 200". "Integration of the SLOC into the European SOS and, 210". (Verbatim from Dworak Ch. 9 "Impact and Conclusion" endnotes/index, Range 04.)
+
+## POW Treatment and Hostage Policy (from Shirer, *The Rise and Fall of the Third Reich*, 1960)
+
+Shirer's captured-document record on prisoner treatment, drawn from Nuremberg trial materials: of **5.75 million Soviet POWs** taken (3.8 million in the June 21–Dec 6, 1941 encirclements alone), only roughly 1 million were alive at liberation — about 2 million died of starvation, exposure, and disease, and roughly 1 million more were unaccounted for (mostly dead or SD-exterminated; German records show 67,000 formal executions, certainly a partial count). Rosenberg wrote to Keitel on 28 Feb 1942 that of 3.6 million POWs, "only several hundred thousand are still able to work fully." An OKW–SD screening agreement had all Jews and Communist functionaries among the prisoners executed; Himmler later characterized the earlier policy at Posen: "At that time we did not value the mass of humanity... as raw material, as labor" — a shift to labor exploitation only from 1942, with 750,000 Soviet POWs working by Dec 1944.
+
+Western Allied POW treatment deteriorated as the war went badly for Germany: the Malmédy massacre (71 American POWs, 17 Dec 1944); the murder of fifty RAF officers who escaped from Stalag Luft III in spring 1944 (Göring called it "the most serious incident of the whole war," Jodl "sheer murder"); Hitler's 21 May 1944 order that captured strafing pilots be shot without court-martial; and the Commando Order of 18 Oct 1942, quoted verbatim: captured Allied commandos were to be "slaughtered to the last man... If it should become necessary... to spare one man or two, then they are to be shot immediately after interrogation."
+
+A parallel hostage policy operated in occupied Western Europe: a publicly proclaimed 100:1 reprisal ratio (Nantes, Oct 1941); documented tolls of 29,660 French hostages executed (plus ~40,000 dead in French prisons), 8,000 in Poland, and roughly 2,000 in Holland. The *Nacht und Nebel* ("Night and Fog") decree (7 Dec 1941, Hitler; implementing directives from Keitel) made resistance suspects vanish without trial or trace — Keitel himself called it, at Nuremberg, "the worst of all" the orders he signed.
+
+`contributed_to:` the wider record of German occupation atrocities documented on [[the-holocaust]] and [[jewish-ghettoization-in-occupied-poland-1939-1942]] pages; `part_of:` the broader eastern-front war of annihilation analyzed at [[operation-barbarossa-1941]].
+
+Source: [[shirer-rise-fall-third-reich-1960]]
 
 ## Related
 

@@ -8,8 +8,8 @@ region: [western-europe, italy, iberia, british-isles]
 process_type: [political, economic, religious]
 driven_by: [the dissolution of the Roman tax-state, the shift from office-based to land-based aristocratic power, the formation of the successor kingdoms, the reorientation of long-distance trade from the Mediterranean to the North Sea, the monetization of the northern commercial zone]
 produces: [the early medieval aristocracy, localized political community, the seedbed of feudal lordship]
-sources_ingested: 5
-last_updated: 2026-06-12
+sources_ingested: 6
+last_updated: 2026-07-08
 tags: [process, late-antiquity, early-middle-ages, western-europe, rome]
 ---
 
@@ -63,10 +63,40 @@ Post-Roman simplification of estate management was a direct consequence of reduc
 
 **Grounding (selected):** “the less exchange there was in any given region, the less need there would be for such intense control”; “from 700 onwards... registration of payment was largely oral”; “there was a systemic break... only in the late eighth century.”
 
+## Wickham, *Framing the Early Middle Ages* (2005): comparative synthesis
+
+Full comparative development of this process is the spine of [[wickham-framing-the-early-middle-ages-2005|Framing]]. Key structural claims integrated here; detail lives on the concept pages it depends on.
+
+### Historiographical stance
+
+International post-Roman western scholarship has often worked under “the illusion that nothing of major importance had changed,” postponing national history and treating the sixth (even seventh/Carolingian) West as still-Roman. Wickham rejects that unconscious continuitism and the French hyper-Romanist school (Durliat, Magnou-Nortier) that political structures had not changed by c.800. Continuities are real—especially at city-territory landowning level—but must not cancel the basic shift. The crucial underlying change is the **end of Roman imperial unity** (West fifth century; East seventh). Social change was overwhelmingly internal, not external; avoid facile catastrophism (land not abandoned except marginal microregions). The eighth century is the relative material-simplicity low-point; rebuilding after 800 is regionally differentiated.
+
+### Fiscal breakdown and its drivers
+
+Interregional fiscal circuits ended with imperial division. The Roman fiscal system was “arguably the most effective way of extracting surplus from a large population yet known” and did not survive long- or even medium-term in the West. Collapse **postdated** kingdom foundations (Salvian, Sidonius, Ostrogothic *Variae*). Three drivers outweigh cultural “alienness”: war-induced institutional confusion; reduced spending needs once armies were landed; social status of ethnically defined armies as new aristocracies. Prefers ad hoc billeting routinized into land settlement over Goffart’s pure hospitalitas-as-tax-shares model ([[tax-based-vs-land-based-states]]).
+
+### Aristocracies: poorer (except Francia and Syria); militarized; city-level continuity
+
+Post-Roman aristocracies tended to be **poorer** everywhere except Francia and Syria; hyper-rich Rome–Carthage–southern-Italy senatorial wealth did not survive Mediterranean regionalization (Vandal break of the Italy–Sicily–Africa axis from 439). Even regional and sub-regional elites disappeared except in Francia—the only region where aristocrats stayed both wealthy and geographically wide-ranging. After c.500 West / c.650 East, aristocracies became sharply more military; classical *otium* and literary lifestyle receded to the clergy; identity tracked **state culture** (including in Byzantine Italy after 570 without Germanic incomers as the cause). By 800 almost no one in the former empire (except Armenian Mamikonean and Bagratuni) has securely known male-line ancestors in 400, yet many late-imperial city-level families “were assuredly still around.” Structural landowning continuity + total identity transformation is the early medieval mixture. Radical breaks in property concept itself: mainly marginal zones—African desert fringe, Spanish mountains, above all Britain.
+
+### Regional unevenness (selected)
+
+- **Italy**: atypical free fall by war (Gothic War, then Lombards)—nowhere else dropped so fast from regional prosperity to isolated microregions; only Anatolia is a real war parallel, and there political infrastructures held better. Classic “barbarians destroyed Rome” fits Italy better than most regions (with the proviso that Roman invasion caused the Gothic war).
+- **Spain**: became Visigothic without the sharp breaks from Rome common elsewhere—partly because much of Spain (except coast and Baetica) was relatively marginal to that Roman world. Ceramic histories do not track Leovigild or 711 as socio-economic turning-points; eighth-century low point and SE coastal simplification toward [[peasant-mode-of-production]] matter more.
+- **Africa**: involution of agricultural *export* economy (sixth–seventh centuries; low point eighth) without major retreat of settled subsistence agriculture until well after 800; not simple invasion (including Banū Hīlāl narratives). End of ARS/amphorae outside Africa after c.700 is a catastrophe-flip ending a half-millennium artisanal tradition without needing 698 as cause.
+- **Britain vs Gaul**: fiscal collapse alone does not explain the Gaulish contrast—landowning aristocracy survived in Gaul (e.g. Remigius); in Britain aristocratic crisis turned fiscal breakdown into economic meltdown. Internal crisis can generate tribal society without invasion (Britain; Berber Mauretania; parts of Spanish mountains).
+- **Peasants**: less immediate structural change than aristocracies outside war zones; spin-offs (end of tax, weakening of aristocracies) mattered later. Britain major exception. Social change at peasant level often slow (Lucchesia c.750–1150).
+
+### Economy and exchange
+
+Four parameters structure post-Roman socio-economic change: fiscal strength/geography; private landowning wealth; war; prior integration into the Roman world-system. Elite demand underpins **regional** complexity; fiscal systems underpin **interregional** bulk ([[aristocratic-demand]]). Ceramics are the firmest support for exchange accounts; written sources are a poor guide. Most bulk exchange was always regional, not Mediterranean-wide. Agrarian specializations and specialist pastoralism lessened as market reliability fell. By 800 a world of regional/sub-regional economies; future histories depended on internal parameters, above all the scale of elite demand. Eastern interregional network collapsed by 700 despite regional resilience—underscoring the fiscal motor. Eighth-century localization peaked East and West for different reasons: West = long aristocratic weakness; East = seventh-century disruption + Umayyad fiscal provincialization.
+
+Weaker exchange implied simpler surplus extraction after ~550/600 in Francia and Italy until renewed intensification near 800, especially northern Francia. Systemic break in Frankish land management complete by the first Merovingian land documents; wine the major exception. Militarization of elites enabled non-urban aristocratic lifestyles; western Mediterranean urban involution begins in the **fifth** century (not seventh as in the East). See also [[demonetisation-of-the-post-roman-west]].
+
 ## Related
 
 - `produced:` the early medieval aristocracy and localized lordship; the seedbed of feudal society; the **[[wic|wic/emporium]]** network; the **[[sceatta]]** silver monetary zone
 - `driven_by:` the dissolution of the Roman tax-state and the fiscal collapse traced in the [[late-roman-army|army]] and [[late-roman-cities|cities]] chapters
-- `part_of:` the wider [[fall-of-western-roman-empire|fall of the western empire]]; `contrasts_with:` the [[byzantine-empire|East]], where the tax-state was replaced by the **[[theme-system|Theme System]]**
-- See also: **[[pirenne-thesis]]** (debate on whether the Arab conquests caused the northern economic reorientation); **[[wergild]]** (legal system of the successor kingdoms); **[[eigenkirche]]** (proprietary church system)
-- Sources: [[cameron-cah-v14-2000]] (Ch. 16, Chris Wickham); [[fouracre-ncmh-v1-2005]] (Chs. 2, 8, 21–25); [[mckitterick-ncmh-v2-1995]] (Ch. 3, Fouracre — the Carolingian culmination); Wickham *Framing the Early Middle Ages* (2005) Ch. 5.
+- `part_of:` the wider [[fall-of-the-western-roman-empire-476|fall of the western empire]]; `contrasts_with:` the [[byzantine-empire|East]], where the tax-state was replaced by the **[[theme-system|Theme System]]**
+- See also: **[[pirenne-thesis]]**; **[[tax-based-vs-land-based-states]]**; **[[politics-of-land]]**; **[[aristocratic-demand]]**; **[[peasant-mode-of-production]]**; **[[wergild]]**; **[[eigenkirche]]**
+- Sources: [[cameron-cah-v14-2000]] (Ch. 16, Chris Wickham); [[fouracre-ncmh-v1-2005]] (Chs. 2, 8, 21–25); [[mckitterick-ncmh-v2-1995]] (Ch. 3, Fouracre — the Carolingian culmination); [[wickham-framing-the-early-middle-ages-2005]] (esp. Chs. 3–5, 11; General Conclusions).

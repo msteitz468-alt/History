@@ -1,23 +1,22 @@
 ---
 title: Berlin Olympics (1936)
-date_start: 1936-08-01
-date_end: 1936-08-16
+date_start: "1936-08-01"
+date_end: "1936-08-16"
 date_precision: exact
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
+causes: ["[[nazi-seizure-of-power-1933]]"]
+consequences: ["[[unknown]]"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe"]
+event_type: cultural
 location: [Berlin]
 actors_primary: ["[[nazi-germany]]", "[[goebbels-joseph]]"]
 actors_secondary: ["[[adolf-hitler]]"]
-event_type: cultural
-scale_immediate: global
 scale_consequential: regional
-causes: ["[[nazi-seizure-of-power-1933]]"]
-consequences: ["[[unknown]]"]
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [event, world-wars-era, western-europe]
+scale_immediate: global
 ---
-
 # Berlin Olympics (1936)
 
 The XI Olympiad, staged by the Nazi regime as a global propaganda showcase of
@@ -63,6 +62,11 @@ stadium — after Tokyo 1940 the Games were to sit permanently in Berlin.
 Standard exhibit for the regime's top-down control of antisemitic tempo
 (intentionalist evidence) and for Western willingness to be reassured.
 
+## Shirer (1960) Addition
+
+[EYEWITNESS] Shirer describes the Games as a deliberate propaganda opportunity from the ground: antisemitic "Juden unerwuenscht" ("Jews Not Admitted") signs quietly removed for the duration; lavish parties by Göring, Ribbentrop, and Goebbels (Goebbels's "Italian Night" on the Pfaueninsel drew over 1,000 guests). Foreign visitors, especially British and American, came away impressed by an apparently "happy, healthy, friendly people," differing sharply from press dispatches — Shirer cites Lloyd George's 1936 Obersalzberg visit and public praise of Hitler as "a great man" who had solved unemployment, contrasted with Britain's own unresolved joblessness, as an example of how foreign statesmen were "taken in." Shirer himself was "violently attacked in the German press and on the radio, and threatened with expulsion" after reporting the temporary removal of antisemitic signage in a dispatch — a first-person data point on the regime's press-control apparatus, cross-linked from [[nuremberg-laws-1935]]. Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 - [[evans-third-reich-in-power-2005]]
+- [[shirer-rise-fall-third-reich-1960]]

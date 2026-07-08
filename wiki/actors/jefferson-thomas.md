@@ -10,8 +10,8 @@ affiliated_with: [jefferson-martha-wayles, madison-james, monroe-james, washingt
 opposed_by: [hamilton-alexander, adams-john]
 key_events: [declaration-of-independence-1776, virginia-statute-for-religious-freedom, louisiana-purchase-1803, embargo-1807, chesapeake-leopard-affair-1807, burr-conspiracy-1806-1807, university-of-virginia-founding, french-revolution-observations-1789, bank-bill-opposition-1791, first-party-system-formation]
 key_processes: [american-revolution, founding-of-republic, expansion-of-republic, separation-of-church-and-state, westward-expansion]
-sources_ingested: 4
-last_updated: 2026-06-25
+sources_ingested: 5
+last_updated: "2026-07-03"
 tags: [actor, person, age-of-expansion, long-19th-century, north-america, founding-father, president, virginia, enlightenment, architect, author-of-declaration]
 ---
 
@@ -26,6 +26,14 @@ Born April 13, 1743 (O.S.) at Shadwell in what became Albemarle County, Virginia
 Marriage to Martha Wayles Skelton (January 1, 1772) brought additional lands and slaves via the Wayles inheritance (1773–74) and established the household at Monticello. Six children, of whom two daughters (Martha "Patsy" and Mary "Maria") reached adulthood. Domestic happiness was intense but brief; Martha died September 6, 1782, after the birth of their last child. Jefferson never remarried and was devastated.
 
 Political entry: elected to House of Burgesses 1769 (age 25). Active in resistance to Stamp Act and Townshend duties. In 1774 drafted *A Summary View of the Rights of British America* for the Virginia Convention — a radical statement denying parliamentary authority over the colonies and grounding rights in nature and the Saxon migration. Elected to Continental Congress 1775; absent for much of the early sessions because of wife's health and father's death, but returned in time to draft the Declaration of Independence (Committee of Five; July 1776 adoption). Returned to Virginia to serve in the House of Delegates and on the committee (with Wythe, Mason, Pendleton) to revise the laws of the Commonwealth — producing enduring reforms on inheritance (abolition of primogeniture and entail), religious freedom (the 1786 statute), and education.
+
+## The Great Contradiction: Slavery, Expatriation, and Bimodal Views
+
+Ellis (2025) identifies Jefferson's position on slavery as having "hardened into a bimodal pattern during the mid-1780s." In *Notes on the State of Virginia* (1785) he wrote with passion: "a perpetual exercise of the most boisterous passions, the most unremitting despotisms on the one part, and degrading submissions on the other. Indeed, I tremble for my country when I reflect that God is just." Yet the other side concluded Blacks "inferior to whites in the endowments of both mind and body" and that "when freed they must be removed beyond the reach of mixture." In his unpublished autobiography (1821): "Nothing is more certainly written in the book of fate than that these people are to be set free. Nor is it less certain that the two races, equally free, cannot live in the same government. Nature, habit, opinion have drawn indelible lines of distinction between them."
+
+The 1784 Ordinance (drafted by Jefferson) represented a high-water mark: territories to be republican states on equal footing; slavery to end no later than 1800. It "lost by one vote." Thereafter, ending slavery was held hostage to "expatriation" — a recipe for paralysis. At Monticello during Lafayette's 1824 visit, Jefferson kept the guest busy with University of Virginia tours to avoid the topic. Light-skinned enslaved people were visible ("mongrel negros... neither in point of colour or features showed the least trace... but their mothers being slaves, they retain the same condition"). After his death, >100k in debts led to the 1827 public auction of 130 "valuable Negros," breaking families and dispersing them "down the river." His arguments (via Thomas Dew) helped close Virginia's 1831 debate against gradual emancipation without removal. "All white men are created equal" became the effective reading.
+
+See [[concepts/slavery-in-the-american-founding]], [[places/monticello]], [[sources/ellis-the-great-contradiction-2025]].
 
 Governor of Virginia 1779–1781 during the most dangerous phase of the war in the South. Faced British invasions under Benedict Arnold (1781) and Banastre Tarleton; the state government collapsed temporarily, the Assembly fled, and Jefferson narrowly escaped capture at Monticello. After leaving office he faced a legislative inquiry into his conduct; he was fully vindicated. The death of Martha in 1782 left him shattered.
 

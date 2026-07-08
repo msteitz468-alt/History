@@ -2,18 +2,17 @@
 title: Gregor Strasser
 actor_type: person
 date_start: 1892
-date_end: 1934-06-30
+date_end: "1934-06-30"
 period: [World Wars Era]
-region: [western-europe]
-affiliated_with: [["adolf-hitler|NSDAP (until 1932)"], ["weimar-republic|Reichstag"]]
-opposed_by: [["adolf-hitler|Hitler loyalists (Esser, Streicher)"], ["nazi-germany|after 1932 purge threat"]]
-key_events: [beer-hall-putsch-1923, nsdap-refoundation-1925]
-key_processes: [rise-of-nazism, weimar-democracy-and-its-collapse]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [actor, person, world-wars-era, western-europe, nsdap, strasser-crisis]
+region: ["western-europe"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [actor, person, "world-wars-era", "western-europe", nsdap, "strasser-crisis"]
+affiliated_with: ["[\"adolf-hitler|NSDAP (until 1932)\"]", "[\"weimar-republic|Reichstag\"]"]
+key_events: ["beer-hall-putsch-1923", "nsdap-refoundation-1925"]
+key_processes: ["rise-of-nazism", "weimar-democracy-and-its-collapse"]
+opposed_by: ["[\"adolf-hitler|Hitler loyalists (Esser, Streicher)\"]", "[\"nazi-germany|after 1932 purge threat\"]"]
 ---
-
 # Gregor Strasser
 
 ## Overview
@@ -65,3 +64,13 @@ Kershaw treats Strasser as the most serious internal rival Hitler faced in the m
 `preceded_by`: [[beer-hall-putsch-1923]]
 `opposed_by`: [[actors/adolf-hitler|Adolf Hitler]]
 `key_events`: [[beer-hall-putsch-1923]], [[nsdap-refoundation-1925]]
+
+## Shirer (1960) Additions
+
+- Background: a druggist by profession, Bavarian-born, three years younger than Hitler, WWI Iron Cross First Class, lieutenant; joined the Nazi Party 1920, became Lower Bavaria district leader; built the Nazi Party's entire northern-Germany organization (Prussia, Saxony, Hanover, Rhineland) after 1925 using his Reichstag deputy's free rail pass and parliamentary immunity — "Free travel and free slander — Strasser had a big head start over his Fuehrer," per Konrad Heiden. Recruited Goebbels as his secretary and editor of *N.S. Briefe* in 1925.
+- By early 1931, alongside Röhm, Göring, Goebbels, and Frick, Strasser was one of the "Big Five" around Hitler, running the Political Organization — the party's most powerful office — and was the most popular Nazi leader after Hitler himself, trusted even by many political opponents; many in the Reichswehr and at the Presidential Palace considered him a possible rival or successor to Hitler.
+- 5 December 1932 Kaiserhof showdown: Strasser (backed by Frick) demanded the party at least tolerate Schleicher's government; overruled by Hitler on Göring/Goebbels' urging. A bitter Hitler–Strasser quarrel on 7 December was followed by Strasser's resignation letter from all party offices, which arrived 8 December — Goebbels called it a "bombshell." Hitler reportedly threatened suicide: "If the party once falls to pieces I'll put an end to it all in three minutes with a pistol shot." Strasser then left Berlin for a vacation in Italy rather than fight for control, allowing Hitler to seize the Political Organization apparatus (installing Robert Ley) and purge Strasser's network; all party leaders were made to sign fresh loyalty declarations. Goebbels's diary (9 December): "A dead man" — which became literally true in the 1934 purge.
+- [SHIRER-THESIS, counterfactual]: Shirer explicitly frames the Strasser resignation as a hinge point — "Strasser might have achieved both these ends [party breakup and/or Hitler's suicide], which would have radically altered the course of history, but at the crucial moment he himself gave up." Useful for counterfactual treatment of Hitler's rise, alongside the existing Kershaw/Evans material on this page.
+- Strasser's brother Otto Strasser was expelled from the party in May 1930 for supporting socialist trade-union strikes and demanding nationalization of industry ("democracy and liberalism," per Hitler's accusation); he formed the "Black Front" (Union of Revolutionary National Socialists), which failed to win meaningful support in the September 1930 elections. This is broadly consistent with, and dates more precisely, the Evans account above of Otto's April 1930 denunciation and 4 July 1930 resignation.
+
+Source: [[shirer-rise-fall-third-reich-1960]].

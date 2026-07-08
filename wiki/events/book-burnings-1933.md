@@ -1,23 +1,22 @@
 ---
-title: "Nazi Book Burnings (10 May 1933)"
-date_start: 1933-05-10
-date_end: 1933-05-10
+title: Nazi Book Burnings (10 May 1933)
+date_start: "1933-05-10"
+date_end: "1933-05-10"
 date_precision: exact
 period: [World Wars Era]
-region: [western-europe]
-location: [Berlin Opera Square and 18 other German university towns]
-actors_primary: [German national students' union, [[goebbels-joseph]]]
-actors_secondary: [[[hitler-youth]], [[sturmabteilung-sa]]]
+region: ["western-europe"]
+causes: ["[[nazi-cultural-purge-1933]]", "student preparations from mid-April 1933"]
+consequences: ["destruction of \"un-German\" literature", "international association of Nazism with anti-intellectualism", émigré wave]
+sources_ingested: ["evans-coming-of-third-reich-2003", "shirer-rise-fall-third-reich-1960"]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe"]
 event_type: cultural
-scale_immediate: civilizational
+location: [Berlin Opera Square and 18 other German university towns]
+actors_primary: ["German national students' union", "[[goebbels-joseph]]"]
+actors_secondary: ["[[hitler-youth]]", "[[sturmabteilung-sa]]"]
 scale_consequential: civilizational
-causes: [[[nazi-cultural-purge-1933]], student preparations from mid-April 1933]
-consequences: [destruction of "un-German" literature, international association of Nazism with anti-intellectualism, émigré wave]
-sources_ingested: [evans-coming-of-third-reich-2003]
-last_updated: 2026-07-02
-tags: [event, world-wars-era, western-europe]
+scale_immediate: civilizational
 ---
-
 # Nazi Book Burnings ("Action Against the Un-German Spirit", 10 May 1933)
 
 ## Narrative
@@ -70,6 +69,10 @@ him."
 Evans (2003) is the ingested account; his emphasis is on the staged
 spontaneity and on the continuity of the "un-German spirit" frame with the
 university purges (see [[nazi-cultural-purge-1933]]).
+
+## Shirer (1960) Addition
+
+Shirer (1960) gives ~20,000 books burned at the Berlin rally (Unter den Linden opposite the University) and names the fuller author list on the pyre: German authors included Thomas and Heinrich Mann, Lion Feuchtwanger, Jakob Wassermann, the Zweigs, Erich Maria Remarque, Walther Rathenau, Einstein, Alfred Kerr, and Hugo Preuss (drafter of the Weimar Constitution); foreign authors included Jack London, Upton Sinclair, Helen Keller, Margaret Sanger, H.G. Wells, Havelock Ellis, Freud, Gide, Zola, and Proust. Goebbels's approving quote as given by Shirer: "These flames not only illuminate the final end of an old era; they also light up the new." Reich Chamber of Culture established 22 September 1933 under Goebbels with seven subchambers (fine arts, music, theater, literature, press, radio, film); compulsory membership, with expulsion possible for "political unreliability," effectively barred non-Nazi-approved practitioners from their professions — the institutional follow-through to the burnings. Source: [[shirer-rise-fall-third-reich-1960]].
 
 ## Related
 

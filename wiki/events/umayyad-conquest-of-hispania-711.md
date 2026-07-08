@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [Umayyad–Berber expansion across North Africa, the internal division of the Visigothic kingdom over the succession to Wittiza/Roderic, the speed of the field collapse after the defeat and death of King Roderic]
 consequences: [the destruction of the Visigothic kingdom, the creation of al-Andalus, the establishment of Umayyad rule in the western Mediterranean, the Christian retreat to the northern mountains and the founding of Asturias, the long process of the Reconquista]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, early-middle-ages, iberia, islamic-world]
 ---
 
@@ -63,6 +63,8 @@ a Christian under Muslim rule who treats the event relatively soberly as a chang
 legendary narrative — the treachery of Count Julian, the rape of Florinda, the conquest as divine
 punishment for Gothic sin. Modern debate concerns the scale of the "conquest" (mass invasion vs. a small
 force exploiting a collapsing state and negotiating capitulations) and the speed of Islamization.
+
+**Wickham, *Framing* (2005).** For social-economic structure, **711 is not the primary turning-point** in Iberia: ceramic and settlement evidence place deeper simplification earlier (e.g. end of major fineware systems around 500; coastal contraction), and regional difference within the peninsula outweighs the conquest as a single socio-economic hinge. Al-Andalus later shows tax capacity, but that does not restore a late-Roman Mediterranean world-system. Source: [[wickham-framing-the-early-middle-ages-2005]] Chs. 4, 11.
 
 ## Related
 

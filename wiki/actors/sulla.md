@@ -9,8 +9,8 @@ affiliated_with: [the Roman nobility; the optimates; the *Sullani*; the Metelli 
 opposed_by: [[[marius]], Sulpicius, Cinna, Carbo, the Marians/populares; [[mithridates-vi]]]
 key_events: [the march on Rome (88), the [[first-mithridatic-war-89-85bce]], the [[sullan-civil-war-83-82bce]], the [[sullan-proscriptions-82bce]], the dictatorship]
 key_processes: [[[sullan-constitution]], the militarization of Roman politics]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
@@ -25,7 +25,9 @@ single most consequential figure between the Gracchi and Caesar. Treated in
 
 A patrician of an impoverished, long-obscure branch of the Cornelii, Sulla rose
 through war: quaestor to [[marius]] in the Jugurthine War (he took the surrender of
-Jugurtha, a coup he never let Marius forget), then a leading commander in the
+[[jugurtha|Jugurtha]], a coup he never let Marius forget), served in the
+[[cimbric-war-113-101bce|Cimbric War]] (transferred to Catulus's command, he shared
+in the victory at Vercellae in 101), then became a leading commander in the
 **[[social-war-91-88bce|Social War]]**, which won him the consulship of **88** and
 the command against **[[mithridates-vi|Mithridates]]**.
 
@@ -85,6 +87,20 @@ constitutional reforms of 88 prefigured those of the dictatorship, the chronolog
 of his abdication, and whether his settlement was reactionary or genuinely
 reconstructive.
 
+**Beard ([[sources/beard-spqr-2015|SPQR]], 2015)** argues the violence cannot be
+reduced to one man's "motives" or dismissed as partisan exaggeration in the
+sources: the two marches on Rome, the burning of the Temple of Jupiter, and the
+proscription lists reflect a structural collapse — "the violence was much more
+widespread than could possibly be put down to the influence of one man." She
+identifies Sulla as "the first dictator in the modern sense of the term" (his
+dictatorship broke precedent in having no time limit and granting unchecked,
+immune lawmaking power), calling it "one of Rome's most corrosive legacies" and
+naming Caesar its direct heir ("the second"). She also credits Sulla as the first
+Roman known to have officially branded fellow citizens *hostes* (88 BCE) — a term
+swiftly turned back on him — reading it as evidence of a deeper erosion of the
+citizen/foreign-enemy distinction that followed directly from the
+[[social-war-91-88bce|Social War's]] blurring of ally and citizen lines.
+
 ## Related
 
 - Rival: [[marius]] · enemy: [[mithridates-vi]] · protégé/rival: [[pompey]]
@@ -92,5 +108,5 @@ reconstructive.
   [[sullan-constitution]] · [[first-mithridatic-war-89-85bce]]
 - Context: [[social-war-91-88bce]] · [[optimates-populares]] ·
   [[senatus-consultum-ultimum]] · [[marian-army-reforms|the client army]] ·
-  [[roman-republic]]
-- Source: [[crook-cah-v9-1992]] (Chs. 6–7, Seager)
+  [[mos-maiorum]] · [[cornelius-cinna|Cinna]] · [[roman-republic]]
+- Source: [[crook-cah-v9-1992]] (Chs. 6–7, Seager) · [[duncan-storm-before-the-storm-2017]]

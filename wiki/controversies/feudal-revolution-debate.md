@@ -5,7 +5,7 @@ period_involved: [Early Middle Ages, High Middle Ages]
 regions_involved: [western-europe, mediterranean, iberia]
 positions: ["Mutationist (a real, rapid 'feudal revolution' c. 980–1060)", "Documentary-mutation / anti-mutationist (the change is an artefact of changing records)", "Anti-feudalism (fiefs and vassalage as a coherent system are a 12th-c. invention)", "Regionalist (the model fails for Germany, England, León, southern Italy)"]
 resolution_status: open
-last_updated: 2026-06-27
+last_updated: 2026-07-08
 tags: [controversy]
 ---
 
@@ -49,6 +49,8 @@ The model was built from the great French and Catalan regional studies — **Geo
 
 This makes Wickham a **mutationist who has internalised the critics' objections**: the "feudal revolution" is real but is best defined as the rise of *bounded, cellular local power*, not as a sudden eruption of disorder, and it is the single greatest break in western Europe "after the fifth century."
 
+**Early-medieval baseline from *Framing* (2005).** The same author's earlier comparative synthesis supplies the **pre-1000 contrast** against which mutation looks sharp. In [[sources/wickham-framing-the-early-middle-ages-2005|*Framing the Early Middle Ages*]], post-Roman centuries show **social fluidity under weak states**: titles and labels vaguer, wealth the real status marker, and **village patronage plural rather than single-lord *seigneurie banale*** (trends 5–6 of the conclusions). Western villages were relatively fluid versus the monumental villa and castle worlds before and after; global chance of village autonomy was higher than in most historical periods. Frankish peasant resistance under the Carolingians was already mostly **rearguard and legal**, village by village — aristocratic dominance close to complete in Frankish Gaul, but still not the bounded, saleable justice-and-toll cellularity of the eleventh century. The long path from [[peasant-mode-of-production|peasant-mode]] zones and weak [[aristocratic-demand|aristocratic demand]] (especially outside Francia) through Carolingian re-concentration of wealth to the *mutation* is thus a multi-century process inside the [[politics-of-land|politics of land]] of [[tax-based-vs-land-based-states|land-based states]], not a sudden leap from Roman public order. See [[early-middle-ages]] historiography (seven trends).
+
 ## Significance
 
 The debate is not merely technical: it determines whether one reads the long tenth century as the **end of antiquity's long shadow** (the final destruction of the Roman/Carolingian "public" state) and the **birth of the High Medieval order**, or as a period of largely continuous, undramatic evolution whose apparent suddenness is a trick of the sources. It bears directly on the periodisation boundary between the [[early-middle-ages|Early]] and [[high-middle-ages|High Middle Ages]].
@@ -59,3 +61,5 @@ The debate is not merely technical: it determines whether one reads the long ten
 - `analogous_to:` [[indian-feudalism-debate]] — a structurally parallel dispute over whether "feudalism" is a useful category outside western Europe.
 - `concurrent_with:` [[encellulement]], [[peace-of-god]] — the village-nucleation process and the violence-limiting movement that the mutationist model treats as symptoms of the same transformation.
 - `part_of:` [[politics-of-land]] — Wickham's framework, of which the fragmentation of public power c. 1000 is the pivotal instance.
+- `preceded_by:` [[early-middle-ages]] / [[sources/wickham-framing-the-early-middle-ages-2005]] — the 400–800 baseline of fiscal simplification, relative aristocratic weakness (except Francia/Levant), peasant autonomy, and plural village patronage before cellular *seigneurie banale*.
+- `concurrent_with:` [[aristocratic-demand]], [[peasant-mode-of-production]], [[tax-based-vs-land-based-states]] — the load-bearing concepts of *Framing* that structure the pre-mutation world.

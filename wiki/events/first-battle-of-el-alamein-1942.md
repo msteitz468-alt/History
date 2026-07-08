@@ -1,24 +1,23 @@
 ---
 title: First Battle of El Alamein
-date_start: 1942-07-01
-date_end: 1942-07-10
+date_start: "1942-07-01"
+date_end: "1942-07-10"
 date_precision: approximate
-dating_method: 
 period: ["world-wars-era"]
 region: ["north-africa"]
-location: ["El Alamein, Egypt", "Ruweisat Ridge", "Qattara Depression"]
-actors_primary: ["[[actors/rommel-erwin]]", "[[actors/auckinleck-claude]] (inferred from command)", "Panzerarmee Afrika (Afrika Korps, 90th Light Division, Italian XX Motorized Corps)"]
-actors_secondary: ["[[adolf-hitler]] (strategic context)", "8th Army (South African, Indian, New Zealand, Australian divisions)", "[[actors/montgomery-bernard]] (succeeded later)"]
-event_type: battle
-scale_immediate: regional
-scale_consequential: civilizational
 causes: ["contributed_to: overextension and exhaustion of Panzerarmee after rapid pursuit from Gazala and Mersa Matruh", "caused_by: [[unknown]] (British recovery with concentrated artillery and fresh formations unaffected by Rommel mystique)", "preceded_by: successful Axis breakthrough at Mersa Matruh"]
 consequences: ["produced: halt of Axis advance in Egypt; war of movement ended in North Africa", "enabled: British counterattacks destroying Italian divisions and forcing German reserves to plug gaps", "part_of: [[hubs/warfare/world-wars-era/second-world-war/second-world-war]]", "followed_by: [[events/battle-of-alam-halfa-1942]]"]
-sources_ingested: 1
-last_updated: 2026-06-24
-tags: [event, world-wars-era, north-africa, battle]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "north-africa", battle]
+event_type: battle
+location: [El Alamein, Egypt, Ruweisat Ridge, Qattara Depression]
+actors_primary: ["[[actors/rommel-erwin]]", "[[actors/auckinleck-claude]] (inferred from command)", Panzerarmee Afrika (Afrika Korps, 90th Light Division, Italian XX Motorized Corps)]
+actors_secondary: ["[[adolf-hitler]] (strategic context)", 8th Army (South African, Indian, New Zealand, Australian divisions), "[[actors/montgomery-bernard]] (succeeded later)"]
+dating_method: ""
+scale_consequential: civilizational
+scale_immediate: regional
 ---
-
 # First Battle of El Alamein (July 1942)
 
 **Source grounding:** All claims, quotes, and details below are taken exclusively from Robert M. Citino, *Death of the Wehrmacht: The German Campaigns of 1942* (2007), Chapter 6, "Coming to a Halt: North Africa," specifically the sections "Heading to El Alamein" and "The End of Movement: The First Battle of El Alamein (July 1942)."
@@ -87,3 +86,11 @@ Citino presents First El Alamein as the point where the traditional Prussian-Ger
 ---
 
 **Grounded exclusively in Citino, Ch. 6 range 04 cache.** All quotes verbatim. No external material used.
+
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Shirer traces [[rommel-erwin|Rommel]]'s supply strangulation to the failure to neutralize Malta: Hitler twice postponed "Operation Hercules" (the planned airborne capture of Malta) — first on 15 June 1942, diverting resources to the Russian front, and again after the summer Russian offensive, opting for continued bombing instead. That effort failed once a British convoy resupplied Malta on 16 June 1942 and U.S.-carrier-delivered Spitfires (from USS *Wasp*) restored British air superiority there; thereafter three-quarters of Rommel's supply ships were sunk. Rommel's diary, 3 July 1942 (reaching El Alamein with 13 operational tanks): "Our strength has faded away." [SHIRER-THESIS] Shirer stresses Hitler "never understood global warfare" — after awarding Rommel a Field Marshal's baton for taking Tobruk (21 June 1942), he sent no meaningful reinforcement, having agreed to send the Afrika Korps in the first place only to prevent an Italian collapse, not because he grasped Egypt/Suez's strategic value.
+
+Rommel's renewed offensive of 31 August 1942 failed by 3 September; per Shirer's endnote figures, final Axis losses at El Alamein were 59,000 killed/wounded/captured of 96,000 men, 34,000 of them German. Acting commander Stumme died of a heart attack fleeing a British patrol on foot the first night of Montgomery's autumn offensive; General von Thoma, after telling his chief of staff "Hitler's order is a piece of unparalleled madness. I can't go along with this any longer," donned full dress uniform, stood by his burning tank until captured, and dined with Montgomery that evening.
+
+Source: [[shirer-rise-fall-third-reich-1960]]

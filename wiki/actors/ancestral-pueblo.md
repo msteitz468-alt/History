@@ -9,9 +9,9 @@ region: [north-america]
 affiliated_with: []
 opposed_by: []
 key_events: ["[[chaco-phenomenon-900ce]]", "[[southwest-drought-collapse-1150ce]]"]
-key_processes: []
-sources_ingested: 2
-last_updated: 2026-06-27
+key_processes: ["[[southwest-agricultural-development]]", "[[north-american-agricultural-transition]]"]
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, period-High-Middle-Ages, north-america]
 ---
 
@@ -77,8 +77,28 @@ A severe drought from 1276 to 1299 CE, precisely dated by dendrochronology, caus
 
 The Navajos and Apaches moved into the largely abandoned northern Southwest after 1500 CE, not displacing Ancestral Pueblo farmers but occupying a landscape already vacated. Modern Pueblo communities at Hopi, Zuni, Acoma, and along the Rio Grande are direct descendants of Ancestral Pueblo peoples. Navajo weaving, silver jewelry, and pottery reflect later borrowing from these Pueblo traditions.
 
+## Cordell & Smith (CHNPA I.1 ch. 4) — “Anasazi” mapped to Ancestral Pueblo
+
+Cordell & Smith use the archaeological label **Anasazi** throughout; this wiki maps all such claims to **Ancestral Pueblo** (anti-duplicate rule). Anasazi designates pre-European peoples of the Colorado Plateaus and Southern Rocky Mountains, from Grand Canyon to Upper Pecos and north into southern Utah/Colorado, sometimes onto western Great Plains margins. As a whole, Anasazi populations, with some increments from the [[mogollon]], are seen as ancestral to the modern Pueblo Indians of New Mexico and Arizona. Subsistence pattern like Mogollon; pottery and pithouses slightly later than Hohokam/Mogollon but stone building preserves well. *part_of:* [[southwest-agricultural-development]]; *produced* (in part) modern Pueblos.
+
+**750–900 architecture:** by 750–800 many areas add above-ground contiguous jacal/stone storage rooms beside pithouses and black-on-gray pottery; Upper San Juan villages show arcing surface rooms flanking deep pithouses. **Prudden-unit pueblos** (5–6 masonry rooms, kiva, trash mound on N–S axis) prevail until ~end of ninth century. Lekson argues little empirical support for modern kiva analogs before 1300 — earlier pit structures were dwellings (*contrasts_with* uncritical ethnographic kiva analogy).
+
+**Regional systems:** best-documented Anasazi regional system is [[chaco-canyon]] (tenth century onward). After Chaco failure and San Juan Basin abandonment, northern Anasazi (Mesa Verde–Cortez–Yellow Jacket) built large thirteenth-century pueblos without Chaco-level integrated planning; by 1300 even the northern Anasazi area was abandoned by farming peoples, who moved south to Upper Chama and Rio Grande Valleys, Central Mountains of Arizona, Zuni Mountains, and Hopi Mesas.
+
+**Continuity and open questions:** most secure pre-/post-contact continuity is Anasazi–Pueblo. Open questions include Tanoan vs Keresan homelands (Keresans often generally linked to Chaco; Mesa Verde–Tanoan less agreed) and origin of pan-Pueblo **katcina** rituals (Mesoamerican appearance; rain/ancestor/blessing beings; elaborate among Western Pueblos; absent in late Tsegi Canyon Hopi sites; some derive via Rio Grande from Mexico, others claim Western Pueblo temporal priority). Debate over exclusive use of local ethnographic analogy: modern Pueblos are strongly egalitarian and village-independent, often assumed ancient/ubiquitous; some researchers (e.g. Steadman Upham) argue formal political/economic alliances and managerial elites existed and were destroyed by disease, conquest, and trade disruption — see [[north-american-states-debate]].
+
+**Historic Pueblo ethnolinguistic diversity (Cordell & Smith):** Pueblo Indians occupy twelve villages on the southern edge of Black Mesa, Arizona, and twenty-seven in New Mexico; they share farming/settlement pattern and aspects of religion/ceremonialism/symbolism but speak six languages (Hopi/Uto-Aztecan; Zuni/possibly Penutian-related; Keresan isolates; Tanoan Tiwa–Tewa–Towa).
+
+**Immediate precontact (light, ch. 6):** redistribution of populations into large communities in formerly scarcely inhabited regions and florescence of ceremonialism/art (Katcina cult, elegant ceramics, kiva murals); Hawikuh (Zuni) and Pecos Pueblo expanded; Rio Grande Valley filled while Western Ancestral Pueblo sector saw many abandonments.
+
+Snow (ch. 3) dates: small pit-house villages as basis for Anasazi tradition by 185 B.C.; functioning by A.D. 500.
+
 ## Historiography
 
-The term "Anasazi" was introduced into archaeological literature in the early twentieth century and is now considered inappropriate by descendant communities. "Ancestral Pueblo" is the scholarly and community-preferred alternative. The Pecos Classification (1927) organized the sequence by ceramic and architectural stages, but this developmental framework is now supplemented by absolute dating. Major debates include the nature and organization of the Chaco Phenomenon (ritual center vs. redistributive economy vs. political chiefdom), the causes of the thirteenth-century abandonments (climate, warfare, social breakdown, or some combination), and the degree to which the region was characterized by endemic violence vs. relative peace. Research by Kohler and others has documented declining violence over time among Pueblo farmers. The collection is strong for this tradition through multiple site reports and synthetic works.
+The term "Anasazi" was introduced into archaeological literature in the early twentieth century and is now considered inappropriate by descendant communities. "Ancestral Pueblo" is the scholarly and community-preferred alternative. The Pecos Classification (1927) organized the sequence by ceramic and architectural stages, but this developmental framework is now supplemented by absolute dating. Major debates include the nature and organization of the Chaco Phenomenon (ritual center vs. redistributive economy vs. political chiefdom), the causes of the thirteenth-century abandonments (climate, warfare, social breakdown, or some combination), and the degree to which the region was characterized by endemic violence vs. relative peace. Research by Kohler and others has documented declining violence over time among Pueblo farmers. Cordell & Smith stress that Chaco organization is **not closely mirrored** in modern Pueblo villages and that no one maintains state-level organizations in the Southwest. The collection is strong for this tradition through multiple site reports and synthetic works.
 
-**Source:** [[snow-gonlin-siegel-archaeology-native-north-america-2020]]
+**Sources:** [[snow-gonlin-siegel-archaeology-native-north-america-2020]]; [[sources/cambridge-history-native-peoples-americas-v1-1]] (Cordell & Smith ch. 4 primary; light ch. 3/6 bridges); [[sources/cambridge-history-native-peoples-americas-v1-2]] (Lamar & Truett ch. 10 bibliographic pointer only)
+
+## CHNPA I.2 (Lamar & Truett) — prehistory deferred; continuity via Pueblo
+
+Lamar & Truett’s Greater Southwest chapter focuses on **post-contact interactions** rather than aboriginal reconstruction. The bibliographic essay directs precontact Southwest to Cordell *Prehistory of the Southwest* (1984), Cordell & Gumerman *Dynamics of Southwest Prehistory* (1989), and McGregor *Southwestern Archaeology*, and notes **Bandelier’s Pecos work (1880s)** establishing an unbroken ancient–modern Pueblo sequence. The chapter body **does not use “Anasazi”**; continuity is framed via historic [[pueblo-peoples|Pueblo peoples]]. Wiki standing rule remains: any “Anasazi” label maps to this page (`ancestral-pueblo`), never a separate ethnonym page. Light link only to [[chaco-canyon]] via the bibliographic field, not a new body narrative of the Chaco system.

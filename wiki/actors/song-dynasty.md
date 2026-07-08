@@ -9,8 +9,8 @@ affiliated_with: [[[neo-confucianism]], [[confucianism]], [[afro-eurasian-world-
 opposed_by: ["the Khitan Liao", "the Tangut Xixia", "the Jurchen Jin", [[mongol-empire|the Mongols]]]
 key_events: ["the founding of the Song (960)", "the loss of the north to the Jin (1127)", "the Mongol conquest (1279)"]
 key_processes: [[[afro-eurasian-world-system]], [[commercial-revolution]], [[state-formation]], [[cultural-crystallization]]]
-sources_ingested: 3
-last_updated: 2026-06-14
+sources_ingested: 4
+last_updated: 2026-07-03
 tags: [actor, dynasty, high-middle-ages, china, east-asia]
 ---
 
@@ -101,3 +101,13 @@ follow.
 - [[cultural-crystallization]] — the 10th–13th c. reorientation in which Song China is a principal case.
 - [[tang-song-transition]] — the social transformation (aristocracy → literati) that made the Song a "new society" ([[kuhn-die-song-dynastie|Kuhn]]).
 - [[cambridge-history-of-china]] — the source (Alien Regimes volume, on the Song's conquerors); [[kuhn-die-song-dynastie]] — Kuhn's social-cultural history of the Song.
+
+## The Dai Viet frontier (Taylor 2013)
+
+K. W. Taylor argues the Song was a "new kind of empire" — led by scholar-officials distrustful of military
+men, "lacking the martial prowess and strategic vision of the old Han–Tang aristocracy" — and that this,
+as much as declining capacity, shaped its southern frontier. Its 980–981 invasion to reconquer the newly
+autonomous Vietnamese failed, and thereafter Song adopted an "appeasement control" posture toward
+[[dai-viet|Dai Viet]]. That policy reversed under Wang Anshi, precipitating the
+[[ly-song-war-1075-1077|Ly–Song War (1075–1077)]]; after the Jurchen drove the Song south in the 1120s, the
+weakened Southern Song posed little threat to Thang Long. See [[ly-dynasty-vietnam]].

@@ -49,3 +49,4 @@ The comparison also highlights the role of inheritance, aristocratic cohesion, a
 - `part_of:` [[reconquista]] · [[teutonic-knights]] · [[golden-horde]] — the specific frontier processes the cases draw on; and the [[empire-and-collapse]] hub for the imperial cores.
 - `contrasts_with:` [[strategic-practice-across-civilizations]] — the core/strategist's-eye view of these same expansions, where this page takes the periphery's vantage.
 - Comparative imperial frontier: [[roman-empire]].
+- Concept: [[medieval-frontier]] — the frontier-as-zone/frontier-as-construct framework (Abulafia & Berend 2002) underlying these cases.

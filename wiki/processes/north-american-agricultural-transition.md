@@ -7,9 +7,9 @@ period: ["Neolithic", "Chalcolithic", "Early Bronze Age", "Middle Bronze Age", "
 region: [north-america, mesoamerica, eastern-north-america]
 process_type: economic
 driven_by: ["Holocene climate stabilization", "population growth", "intensive foraging and niche construction", "plant manipulation through fire and selective harvesting"]
-produces: ["Eastern Agricultural Complex", "[[hopewell-culture]]", "[[adena-culture]]", "mound-building cultures", "Mississippian cultures", "permanent village formation"]
-sources_ingested: 1
-last_updated: 2026-06-27
+produces: ["[[eastern-seed-crop-complex]]", "[[southwest-agricultural-development]]", "[[hopewell-culture]]", "[[adena-culture]]", "mound-building cultures", "Mississippian cultures", "[[oneota]]", "[[fort-ancient-culture]]", "[[plains-village-tradition]]", "permanent village formation"]
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, north-america, mesoamerica, eastern-north-america, period-Neolithic, period-Archaic-Period]
 ---
 
@@ -77,8 +77,24 @@ The failure of this transition in some regions (Great Basin, Arctic) reflects bo
 
 The transition did not "end" in a conventional sense — rather, it reached a stable state of mixed agriculture and foraging in most regions. In the Eastern Woodlands, maize adoption after 400 CE intensified agricultural production and enabled population growth that transformed social organization, culminating in the Mississippian period. In the Great Basin and other arid regions, Archaic adaptations persisted until European contact. The disruption of indigenous agricultural systems by European colonization after 1492 constitutes the true endpoint of this process as an autonomous indigenous development.
 
+## Cordell & Smith (CHNPA I.1 ch. 4) — East vs Southwest frame
+
+Across much of continental North America that is now the eastern and southwestern United States, Native Americans developed **mixed economies** based on farming New World domesticates combined with wild foods from hunting and gathering. At European contact both regions cultivated many of the same crops but followed **very different paths** in farming economies, settlement, politics, and religion. *contains:* [[southwest-agricultural-development]]; *contains:* [[eastern-seed-crop-complex]].
+
+Chapter 4 covers pre-Mississippian Woodland farmers and post-A.D. 800 northern non-Mississippian maize societies; ranked agricultural chiefdom-level societies of the eastern United States are deferred to Chapter 5 (*preceded_by:* [[hopewell-culture]]; light *followed_by* Mississippian depth).
+
+**Comparative timing (Cordell & Smith):** initial crop experimentation ~1500 B.C. in both regions; establishment and spread of a farming way of life had **primacy in the East** (independent development — marsh elder, lamb’s quarter, sunflowers, squash as major dietary components by ~start of Christian era); SW tropical corn/squash/later beans augmented wild foods; SW commitment to farming comparable to East somewhat later, ~A.D. 500–700. Similar timing of initial domestication/adoption may share post-Pleistocene stabilization of eastern floodplains and SW desert/woodland expansion reducing large-game grasslands, plus filled landscapes of skilled collectors — initial agriculture slightly increasing winter/early-spring stores.
+
+**A.D. 1000–1200:** East transitions to maize agriculture so both regions share corn–beans–squash–wild foods economies; eastern flint corn’s short-season hardiness crucial north of old Hopewellian systems — farming’s greatest geographic expansion in the East; SW also practiced farming over its broadest area then (favorable climate plus local soil/water conservation). Maize farming in the East encouraged more/better-organized villages ([[fort-ancient-culture]] stockaded villages combining sacred and domestic space — contrasting Hopewellian sacred centers spatially separated from dispersed households). SW regional systems of the Differentiation period were not overtly fortified; Hohokam ball-court and Chaco town public architecture lay within residential sites. Neither SW system approached some more complex Hopewellian networks in size; Hopewell’s ~400 years at height is twice Hohokam or Chaco peak longevity, yet Hopewell less tightly integrated, while SW systems in entirety lasted longer than Hopewell.
+
+**Independence denied as diffusionism:** no impenetrable barriers between East and West — bow and arrow and perhaps maize exchanged — but knowledge of other regions was **not sufficient** to cause increased interaction or parallel development of social forms.
+
+**Light ch. 5 bridge (Smith):** maize introduced into eastern North America by ~A.D. 200 remained a minor crop within premaize indigenous seed-crop systems until ~A.D. 900–1000; stable carbon isotope analysis documents rapid dietary increase of maize then, correlated with Mississippian emergence; premaize crops continued; multiple maize races farther south vs. single eight-rowed type in northern latitudes; common bean present by A.D. 1000, important in some areas by A.D. 1200. *contributed_to:* [[mississippian-culture]] emergence; *part_of:* [[early-agriculture-americas]] / [[maize-domestication]].
+
 ## Historiography
 
 The study of North American agricultural origins has been transformed by multiple revolutions since the 1960s. Flotation techniques recovered plant remains from sites where older excavation methods missed them. Ancient DNA analysis has directly traced the genetic histories of domesticated species. Radiocarbon dating has permitted precise dating of first appearances. Bruce Smith's work (1989, 2001, 2007) has been particularly influential in documenting the Eastern Woodlands domestication center and articulating the "niche construction" framework for understanding how foragers became farmers. Key debates include the degree to which domestication was conscious vs. unconscious, the role of climatic stress vs. opportunity in triggering intensification, and the relationship between Eastern Woodlands domesticates and the later arrival of Mesoamerican crops. The source base for Mesoamerican domestication is strong; the Eastern Woodlands center is increasingly well documented; other potential North American domestication centers remain poorly understood.
 
-Source: [[snow-gonlin-siegel-archaeology-native-north-america-2020]]
+Cordell & Smith (1996) supply the comparative East–Southwest synthesis used here; they hedge ranking/hierarchy debates for both regions and explicitly deny state-level organizations in the Southwest while reserving “chiefdom level” language for ranked eastern agricultural societies treated in ch. 5. See [[north-american-states-debate]] and [[chiefdom]].
+
+Sources: [[snow-gonlin-siegel-archaeology-native-north-america-2020]]; [[sources/cambridge-history-native-peoples-americas-v1-1]] (Cordell & Smith ch. 4 primary; Smith ch. 5 light maize/Mississippian bridge)

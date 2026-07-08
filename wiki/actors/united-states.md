@@ -4,16 +4,15 @@ actor_type: state
 date_start: 1776
 date_end: ongoing
 period: [Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
-region: [north-america, atlantic-world, pacific, global]
-affiliated_with: [the Atlantic revolutionary world, the post-1945 international order]
-opposed_by: [the British Empire (to 1815), the Axis powers, the Soviet Union]
+region: ["north-america", "atlantic-world", pacific, global]
+sources_ingested: [3]
+last_updated: "2026-07-03"
+tags: [actor, state, "long-19th-century", "north-america"]
+affiliated_with: [the Atlantic revolutionary world, "the post-1945 international order"]
 key_events: [the American Revolution (1775–1783), continental expansion, the Civil War (1861–1865), the Spanish–American War (1898), the two world wars, the Cold War]
-key_processes: [[[nationalism]], [[industrialization]], [[imperialism]], the [[great-acceleration]], globalization]
-sources_ingested: 2
-last_updated: 2026-06-24
-tags: [actor, state, long-19th-century, north-america]
+key_processes: ["[[nationalism]]", "[[industrialization]]", "[[imperialism]]", "the [[great-acceleration]]", globalization]
+opposed_by: [the British Empire (to 1815), the Axis powers, the Soviet Union]
 ---
-
 # The United States
 
 ## Overview
@@ -67,6 +66,16 @@ From [[leffler-westad-cold-war-v1]] (Range 05, McEnaney ch. "Cold War mobilizati
 ## Founding and the Atlantic revolutions
 British imperial routes from Massachusetts whaling ports to the China and Pacific
 trade (see [[transpacific-economy]]).
+
+## Fiscal Foundations: Taxation as a Struggle over Democracy
+
+Taxes and the right to impose them have been central to the definition of the American polity. Colonial resistance to the Stamp Act and the Tea Act (reframed by Williamson as opposition to a corporate bailout and tax cut for the East India Company rather than a tax increase) asserted the principle that legitimate taxation requires representation by the taxed. Massachusetts towns continued collecting taxes locally and redirecting them to patriot treasurers.
+
+The Constitution itself was in significant part a response to successful popular resistance to regressive state taxes (Shays's Rebellion). Elites sought a federal government less immediately accountable to small farmers on fiscal questions; the direct-tax clause and other provisions reflected compromises including protections tied to slavery. The Whiskey Rebellion tested and affirmed the federal power to collect internal taxes by force.
+
+During Radical Reconstruction, newly enfranchised Black voters used state taxing power to shift burdens onto plantation owners to fund public education and encourage land sales. "Redemption" and the construction of a white "taxpayer" identity, backed by violence and paramilitary "taxpayer leagues," reversed those policies and helped build Jim Crow. The Sixteenth Amendment (1913) was the product of a long Populist campaign against the Gilded Age Court's use of the founders' fiscal language to block progressive taxation.
+
+In the twentieth century the mass income tax (FDR era) and later antitax mobilization (Reagan and after) continued the pattern: tax policy as a battle over the scope and beneficiaries of democratic government. "Free countries are high-tax countries" because governments dependent on broad taxation have incentives to remain responsive; sustained antitax politics functions to limit democratic capacity. (See [[sources/williamson-price-of-democracy-2025]], [[events/stamp-act-crisis-1765]], [[events/boston-tea-party-1773]], [[events/shays-rebellion-1786-1787]], [[events/whiskey-rebellion-1794]], [[events/sixteenth-amendment-1913]], [[concepts/taxation-and-representation]], [[concepts/antitax-politics]], [[concepts/taxpayer-identity]].)
 
 ## State, empire, and power
 

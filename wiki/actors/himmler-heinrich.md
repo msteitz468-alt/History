@@ -4,16 +4,15 @@ actor_type: person
 date_start: 1900
 date_end: 1945
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
+sources_ingested: [3]
+last_updated: 2026-07-03
+tags: [actor, person, "world-wars-era", "western-europe"]
 affiliated_with: ["[[nazi-germany]]", "[[schutzstaffel-ss]]", "[[gestapo]]"]
-opposed_by: []
 key_events: ["[[night-of-the-long-knives-1934]]", "[[the-holocaust]]"]
-key_processes: []
-sources_ingested: 1
-last_updated: 2026-07-02
-tags: [actor, person, world-wars-era, western-europe]
+key_processes: ""
+opposed_by: ""
 ---
-
 # Heinrich Himmler
 
 Reichsführer-SS from 1929; from 1936 Chief of German Police, uniting the
@@ -61,3 +60,26 @@ Longerich's *Heinrich Himmler* (2008/2012) is standard; earlier treatments
 ## From Evans, *The Third Reich at War* (2008)
 
 The volume's index of his war: the Einsatzgruppen escalation orders and inspection tours of 1941 ("all Jewish men must be shot. Drive Jewish women into the marshes"); the commissioning of Bełżec (13 October 1941) and the drive behind [[operation-reinhard-1942|Operation Reinhard]] and the ghetto liquidations; the Posen speech (4 October 1943) calling the extermination "a laudable page in our history that will never be written"; the camp-evacuation and gas-chamber-demolition orders of late 1944 and the [[death-marches-1944|death marches]]; Reich Interior Minister from August 1943 and Replacement Army commander after the July Plot; the final-weeks terror order that "where a white flag appears, all the male persons of the house concerned are to be shot." His Bernadotte negotiations (releasing 4,000 Scandinavian prisoners, then offering surrender to the West) were Hitler's "most shameful betrayal in human history"; stripped of all offices in the testament, he fled in disguise, was caught at a British checkpoint, and bit a cyanide capsule at Lüneburg on 23 May 1945, aged 44. Source: [[evans-third-reich-at-war-2008]]
+
+## Shirer (1960) additions
+
+The Posen speech (4 Oct 1943) in Shirer's fuller quotation includes the slave-empire passage alongside the extermination passage: "Whether 10,000 Russian females fall down from exhaustion while digging an antitank ditch interests us only in so far as the antitank ditch for Germany is finished… What the nations can offer in the way of good blood of our type, we will take, if necessary by kidnaping their children"; and, on the murdered Soviet POWs of 1941, the chilling accounting revision — "At that time we did not value the mass of humanity as we value it today, as raw material, as labor." Personal texture from the record: Himmler nearly fainting at the Minsk demonstration execution he ordered for his own observation (Aug 1941), which per Bach-Zelewski produced the gas-van order for women and children; his patronage of the Ahnenerbe pseudoscience empire and the [[nazi-medical-experiments-1941-1945|medical experiments]] ("prisoners will, of course, be made available gladly"); the secret Himmler–Funk "Max Heiliger" Reichsbank arrangement for victims' valuables; his 1942 death edict for slave workers' intercourse with German women; and his execution of the Raschers — for kidnapping children, not for murder. Source: [[shirer-rise-fall-third-reich-1960]]
+
+## Himmler and the Camp System (Wachsmann, *KL*, 2015)
+
+Wachsmann's history of the [[nazi-concentration-camps|KL]] casts Himmler as the
+system's ultimate arbiter, whose shifting obsessions drove its lurches. He
+founded [[dachau|Dachau]] (announced 20 March 1933), backed [[eicke-theodor|Eicke]]
+in building the Camp SS, and secured the camps' survival against 1934–35 legal
+challenges by winning Hitler's personal backing. He launched **Action 14f13**
+(the T-4 murder of infirm prisoners, 1941) and the mass execution of Soviet POWs;
+in September 1941 he ordered giant new eastern camps (Birkenau, [[majdanek|Majdanek]])
+for Soviet-POW slave labour, then in January 1942 substituted **Jews** for the
+dead POWs ("Jews into the KL"). He handed the camps to [[pohl-oswald|Pohl]]'s WVHA
+(March 1942), personally observed a gassing at Auschwitz (July 1942) and human
+experiments at Dachau, and demanded both falling mortality *and* exhausting
+labour. In 1944–45 he ordered the gas chambers dismantled and the camps evacuated
+in the [[death-marches-1944|death marches]], while cynically posing as a
+humanitarian to the Red Cross and releasing ~20,000 prisoners as bargaining chips
+for a separate peace — "look after these Jews... that is my best capital." Source:
+[[wachsmann-kl-concentration-camps-2015]].

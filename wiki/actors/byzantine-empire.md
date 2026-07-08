@@ -4,16 +4,15 @@ actor_type: empire
 date_start: 330 CE (founding of Constantinople) / 395 CE (permanent division of the empire)
 date_end: 1453 CE (Ottoman conquest of Constantinople) — to 900 CE in CWH IV
 period: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
-region: [anatolia, balkans, levant, mediterranean, north-africa]
+region: [anatolia, balkans, levant, mediterranean, "north-africa"]
+sources_ingested: [11]
+last_updated: "2026-07-08"
+tags: [actor, empire, "late-antiquity", "early-middle-ages", "high-middle-ages", anatolia, mediterranean]
 affiliated_with: [the Eastern Roman state, the Orthodox Church]
-opposed_by: [[[sasanian-empire|Sasanian Persia]], the [[caliphate|Caliphate]], Avars, Bulgars, Slavs, the Seljuk and Ottoman Turks]
-key_events: [reign of Justinian 527-565 CE, Arab conquests 630s-640s CE, survival of the Eastern Roman state, Fourth Crusade sack of Constantinople 1204, Ottoman conquest 1453]
-key_processes: [[[empire]], [[christianity|Orthodox Christianity]], [[silk-roads]], Roman legal codification]
-sources_ingested: 9
-last_updated: 2026-06-27
-tags: [actor, empire, late-antiquity, early-middle-ages, high-middle-ages, anatolia, mediterranean]
+key_events: ["reign of Justinian 527-565 CE", "Arab conquests 630s-640s CE", survival of the Eastern Roman state, Fourth Crusade sack of Constantinople 1204, Ottoman conquest 1453]
+key_processes: ["[[empire]]", "[[christianity|Orthodox Christianity]]", "[[silk-roads]]", Roman legal codification, "[[byzantine-economy]]", "[[byzantine-monetary-system]]"]
+opposed_by: ["[[sasanian-empire|Sasanian Persia]]", "the [[caliphate|Caliphate]]", Avars, Bulgars, Slavs, the Seljuk and Ottoman Turks]
 ---
-
 # The Byzantine Empire
 
 ## Overview
@@ -179,6 +178,30 @@ Rus'; held the eastern Mediterranean frontier against Persia and Islam; and embo
 living continuity of the Roman state into the fifteenth century. It is the decisive
 correction to any account that ends "Rome" in 476.
 
+## The Economy (Laiou & Morrisson)
+
+As an economic actor the Byzantine state was, for much of its history, the single most
+important one — the largest landlord, the largest consumer, the monopoly issuer of a stable
+[[byzantine-monetary-system|coinage]], and (through continuously applied Roman law) the
+guarantor of property and contract — but, Laiou and Morrisson argue in
+[[laiou-morrisson-byzantine-economy-2007|*The Byzantine Economy*]] (2007), **never the sole
+actor**. It ran a centralized fiscal system (land tax at 1/24 of fiscal value, ~23% of
+cereal output; the *kapnikon* household tax; the commercial *kommerkion*), collected much of
+the added value of agrarian production and paid it out in salaries and public works — setting
+monetary circulation in motion — and by requiring **tax in coin** drove an unusually high
+monetization of the countryside. It held monopolies on strategic goods (silk, purple,
+alum, salt), regulated Constantinople's guilds through the **Book of the Eparch**, and
+legislated (tenth-century land laws) to check the "powerful" from absorbing peasant land.
+
+From the eleventh century **the state receded**: [[alexios-i-komnenos|Alexios I]]'s "feudal
+authoritarianism" dispersed fiscal power through *pronoia* grants, tax exemptions and
+tax-farming, while commercial privileges to Venice (1082/1126), Pisa and Genoa drew Italian
+merchants into Byzantine trade. After 1204 the late Palaiologan state, harshly fiscal yet
+giving away its own revenue base (Constantinople's 10% *kommerkion* vs. Genoese Pera's 2%
+drove trade across the Golden Horn), effectively **abandoned the economy** — see
+[[byzantine-economy|the Byzantine economy]] and [[premodern-mixed-economy|the mixed-economy
+thesis]].
+
 ## Historiography
 
 Long disparaged (Gibbon's "tedious" decline; "Byzantine" as a byword for intrigue),
@@ -193,3 +216,25 @@ conquests.
 ## Merovingian relations (Oxford Handbook, 2020)
 
 Stefan Esders's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] reconstructs two centuries of Byzantine–Frankish relations (see [[merovingian-byzantine-relations]]): imperial recognition of [[clovis|Clovis]] (c. 508), Justinian's cession of Provence (536), subsidy and proxy war against the [[lombards|Lombards]] (Maurice's 50,000 solidi), the Gundovald affair, the Three Chapters and Monothelite controversies dividing Austrasia from Neustro-Burgundy, and the *pax perpetua* of Dagobert and Heraclius (c. 629/630). Esders argues that this sustained ecclesiastical and diplomatic connectivity, visible around the great councils of 649 and 680/681, "appears questionable when [set against] the 'Pirennian' picture" of seventh-century rupture (see [[merovingian-coinage]], [[merovingian-ceramics-and-mediterranean-trade]]).
+
+## Fiscal, aristocratic, and exchange structures (Wickham 2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Chris Wickham, *Framing the Early Middle Ages* (2005)]] treats the eastern Roman / Byzantine polity as the prime European–Mediterranean exemplar of a surviving **[[tax-based-vs-land-based-states|tax-based state]]** after the mid-seventh-century crisis — fiscally simplified and regionally damaged, but still more coherent than any western post-tax system.
+
+**Periodization.** Wickham dates the useful start of “Byzantine” to **c.640**, when Arab conquests forced dramatic change in Roman state structures, rejecting 324 as the less important turning-point. In his usage the word applies only after 640 except in Africa and Italy, where convenience leads him to use it after the Justinianic reconquests of the 530s.
+
+**Territorial and fiscal catastrophe.** After Maurice’s murder (602) and the Persian war, Syria and Palestine fell by 614 and Egypt by 618–19; in 626 Persians and Avars/Slavs besieged Constantinople. Heraclius won in 628 but could not stop Arab conquests from 634. By his death in 641 the Romans/Byzantines were restricted to an Aegean–Anatolian heartland (plus western outliers, notably Sicily and briefly Africa). Wickham follows Michael Hendy: at two blows the east Roman state lost roughly **two-thirds of its land area and three-quarters of its wealth**. Free grain *sitērion* was suspended 618/19; Sicily became the pre-eminent grain province for about a century and a half; Constantinople’s population fell toward levels supportable from Thrace and Bithynia (estimates in the literature range roughly 40,000–70,000). Adjustment had to occur in years, not generations.
+
+**Themes and the paid army.** The mid-seventh-century army was spread across Anatolia in *themata* (narrative identity 669–87; geographical identity early eighth; fuller fiscal autonomy later). Against Hendy’s model of a fully landed thematic army after monetized tax collapsed post-658, Wickham follows John Haldon: *synōnē* shifted from forced sales toward land tax, but thematic troops continued to be paid (often in kind); weapon supply and a complex fiscal system never fully broke, even though large-scale state coin use outside the capital largely ended. A basically landed army would have made eighth- and ninth-century fiscal and *tagmata* revival far harder. **Leo III** (717–41) and **Constantine V** (741–75) — after the second Arab siege of Constantinople in 718 — were among the most effective creators of enduring Byzantine structures into the twelfth century: a highly centralized state with regional thematic armies checked by Constantinopolitan fiscal control and capital-based *tagmata*. The double face of the eighth-century state is crucial: fiscally as localized as any Romano-Germanic kingdom, yet still a strong (largely in-kind) tax system — “even the weakest tax-raising state… was more coherent than the most organized post-tax system.”
+
+**Heartland paradox.** Early seventh-century crises created a “heartland” of eastern Greece and Anatolia that would have had little meaning c.600: an uneasy coupling of a war-devastated, ecologically poor Anatolian plateau with an Aegean zone also in systemic crisis — economically worse off than many simpler western polities, yet the post-717 recovery shows that major military defeat and territorial loss need not produce teleological political breakdown.
+
+**Aristocracy.** Late Roman eastern landowning was normally city-territory scale, rarely huge or widely spread; future Byzantine foci include the Constantinople–Marmara belt and central Anatolia (notably Cappadocia). After the mid-seventh-century crisis there is **no direct evidence for aristocratic landowning before 800**. Official hierarchies transformed: themes became military then provincial administrations; senatorial titles cease on seals after c.750; high birth temporarily mattered less; no Constantinopolitan families can be traced past the early seventh century. In the conquered East (Egypt, Syria-Palestine) urban aristocracies and Arab urban bases largely continued; in the Byzantine heartland urban aristocracies faced choice of capital, major provincial city, or army — middle Byzantine great families later had largely rural Anatolian bases.
+
+**Peasants and villages.** Aristocratic weakening under Byzantine (and Arab) rule increased peasant owner autonomy in Egypt, the heartland, and probably Africa, building on already strong local autonomy (Galatia, Syrian limestone lands, some Egyptian villages) — but change of western scale did not occur because the **tax state continued**. The *Nomos geōrgikos* (Farmer’s Law), dated by Wickham after 650 and possibly Anatolian-plateau (no olives), describes owner-cultivator village communities continuous with pre-crisis Anatolian practice (*Life of Theodore of Sykeōn*), not a unique post-650 Byzantine social form.
+
+**Urbanism and exchange.** By 700, failure of perhaps **80%** of classical urban centres in the Byzantine heartland is plausible (some scholars more pessimistic); surviving genuine urban activity concentrates on thematic/political centres (Thessaloniki, Nicaea, Smyrna, Attaleia, Trebizond) plus rare cases. Late antique eastern exchange had been **polycentric** (Aegean and Palestinian wine amphorae LRA 3–5; Aegean/Cilician/Syrian oil; Phocaean and Cypriot Red Slip) rather than Egyptian-dominated by the annona — an agrarian boom c.400–600. After the crisis, Aegean production simplified sharply, yet a skeleton of medium-distance maritime traffic persisted, focused on Constantinople’s food and fiscal wealth: dual-level exchange (extreme local simplicity inland; modest regional commerce toward the capital).
+
+**Link types (structural):** `part_of:` [[tax-based-vs-land-based-states]], [[theme-system]], [[politics-of-land]]; `contrasts_with:` western post-tax polities ([[merovingian-franks]], [[lombards]]); `concurrent_with:` [[umayyad-caliphate]] fiscal continuity; `preceded_by:` late Roman eastern structures. Source: [[wickham-framing-the-early-middle-ages-2005]].
+
+**The eastern frontier as negotiated zone (Holmes; Shepard).** Against the classic model of a fixed, fortified, linear tenth–eleventh-century frontier along the Taurus, Catherine Holmes argues (in *[[abulafia-berend-medieval-frontiers-2002|Medieval Frontiers]]*) that Byzantium's eastern *political* frontier around Antioch and Aleppo was an **ad hoc, diplomatically negotiated zone**: the offices of *doux* and *strategos* were often temporary or ceded to local powers, demilitarised in peacetime (Ibn Butlan found prosperous, ungarrisoned mixed towns in 1048), and integrated non-Byzantine potentates — David of Tao, and even the Muslim emir Hasan Ibn Marwan, made *doux* of the East in 1000. The much-cited Escorial Taktikon, she shows, is a banquet seating-plan, not an administrative handbook. Jonathan Shepard adds that Byzantium largely **suppressed frontier discourse** from the seventh century on, because acknowledging shrunken borders would undermine the emperor's exclusive claim to be "Emperor of the Romans" (a title made explicit on coin only after the 812 recognition of Charlemagne); universal-hegemony diplomacy — bestowing titles like Caesar on Tervel's Bulgars — substituted for hard territorial control until the mid-tenth-century conquests of Nikephoros Phokas and John Tzimiskes revived an explicit rhetoric of reconquest. This is a central case for the [[medieval-frontier|medieval frontier]] as zone rather than line.

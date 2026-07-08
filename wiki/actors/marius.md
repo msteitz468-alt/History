@@ -7,10 +7,10 @@ period: [Classical Antiquity]
 region: [italy, north-africa, mediterranean-world]
 affiliated_with: [[[roman-republic]]; the equites/businessmen; the tribune Saturninus (briefly)]
 opposed_by: [Metellus Numidicus and the nobility; later Sulla]
-key_events: [[[jugurthine-war-112-105bce]], the defeat of the Cimbri and Teutones (102–101), seven consulships]
+key_events: [[[jugurthine-war-112-105bce]], [[cimbric-war-113-101bce|the defeat of the Cimbri and Teutones]] (102–101), seven consulships]
 key_processes: [[[marian-army-reforms]], [[optimates-populares]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]
 ---
 
@@ -34,11 +34,13 @@ betrayal).
 Recalled to face the **Cimbri and Teutones** after the disaster at Arausio (105),
 Marius was elected to **successive consulships (104–100)** — contrary to the *cursus*
 rules — and destroyed the **Teutones at Aquae Sextiae (102)** and the **Cimbri at
-Vercellae (101)**. To raise his armies he enrolled the propertyless **capite censi**
+Vercellae (101)** (see [[cimbric-war-113-101bce|the Cimbric War]]); the grateful city
+hailed him "**Third Founder of Rome**," an honour previously reserved to Romulus and
+Camillus. To raise his armies he enrolled the propertyless **capite censi**
 (see [[marian-army-reforms]]). His sixth consulship (100) entangled him with the
-radical tribune **Saturninus** (whose laws settled Marius' veterans); when Saturninus'
-violence forced the Senate to pass the *[[senatus-consultum-ultimum|SCU]]*, Marius —
-choosing order over his ally — suppressed and abandoned him.
+radical tribune **[[saturninus|Saturninus]]** (whose laws settled Marius' veterans);
+when Saturninus' violence forced the Senate to pass the *[[senatus-consultum-ultimum|SCU]]*,
+Marius — choosing order over his ally — suppressed and abandoned him.
 
 ### Ruin and the murderous return (88–86)
 
@@ -67,6 +69,12 @@ only after the Social War's bloodletting, not automatically through his recruitm
 
 ## Historiography
 
+**Beard ([[sources/beard-spqr-2015|SPQR]], 2015)** identifies the enrollment of
+landless volunteers as the structural turning point that created a "dependent,
+quasi-professional Roman army," whose loyalty shifted from the state to individual
+commanders in exchange for promised land — a relationship she holds directly
+responsible for both [[sulla|Sulla's]] and, later, Caesar's armed marches on Rome.
+
 Marius' reputation "never recovered" from the hostility of his enemies, above all
 Sulla, and of Rutilius Rufus and Posidonius; **Sallust's *Jugurtha*** is the fullest
 source for his rise, **Plutarch's *Life*** for the German wars. See
@@ -76,6 +84,7 @@ source for his rise, **Plutarch's *Life*** for the German wars. See
 
 - Wars: [[jugurthine-war-112-105bce]] · the Cimbri & Teutones · process:
   [[marian-army-reforms]]
-- Allies/enemies: Saturninus · Metellus Numidicus · later [[optimates-populares|the
-  optimate reaction]] · concept: [[senatus-consultum-ultimum]]
-- Source: [[crook-cah-v9-1992]] (Chs 2–3, Lintott)
+- Allies/enemies: [[saturninus]] · Metellus Numidicus · [[cornelius-cinna|Cinna]]
+  (his partner in the terror of 87) · later [[optimates-populares|the optimate
+  reaction]] · concept: [[senatus-consultum-ultimum]] · [[mos-maiorum]]
+- Source: [[crook-cah-v9-1992]] (Chs 2–3, Lintott) · [[duncan-storm-before-the-storm-2017]]

@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[nature-of-roman-imperialism]], Masinissa's encroachments and Carthage's armed resistance (the technical treaty breach), the Roman appetite for a profitable and glorious war, Cato's agitation]
 consequences: [the annihilation of Carthage, the province of Africa, the end of Punic high culture, the demonstration of Roman ruthlessness]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, north-africa, war, rome]
 ---
 
@@ -111,6 +111,14 @@ became "the makers of history" — the foundation of [[punic-faith|the Roman con
 Carthage]]. That **Corinth was levelled the same year** exposes the hypocrisy of the
 "fear of Carthage" justification: destruction as a deliberate statement that dissent against
 Rome would not be tolerated.
+
+### Beard (SPQR, 2015)
+
+Mary Beard ([[sources/beard-spqr-2015]]) notes that Carthage's destruction in 146
+BCE coincided almost exactly with Rome's destruction of Corinth — bracketing, in
+her framing, a period of essentially continuous Roman warfare stretching back to
+Pyrrhus's invasion in 280 BCE, with only a single attested year (235 BCE, "when
+Gaius Atilius and Titus Manlius were consuls") free of hostilities.
 
 ## Related
 

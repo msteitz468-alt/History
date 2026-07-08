@@ -17,8 +17,8 @@ produces:
   - Absorption of Italian manpower into Roman military machine
   - Hellenization of Rome through contact with Greek south
   - Growth of slavery as an institution
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, classical-antiquity, mediterranean, western-europe, rome]
 ---
 
@@ -203,6 +203,24 @@ Key interpretive points:
 - Source quality is moderate for 343–293 BCE (Livy's text preserved); very poor for
   293–218 BCE (Livy's books lost, only epitomes); the triumphal *fasti* provide a
   reliable if skeletal record of the major military events
+
+### Beard (SPQR, 2015)
+
+Mary Beard ([[sources/beard-spqr-2015]]) sharpens Cornell's "not strategically
+planned" point into a broader thesis: **Roman dominion was "primarily over people,
+not places"** — no fourth-century Roman cabal "sat down with a map, plotting a
+land grab in the territorial way that we associate with imperialist nation-states";
+"none of this adds up to a plan for world domination." She identifies the single
+decisive factor in Roman success as **manpower**, not superior tactics or
+belligerence: the alliance system required defeated peoples to supply troops
+rather than tribute or land, converting former enemies into a self-sustaining
+military machine — by the late fourth century BCE, Rome could field close to half
+a million troops against Alexander's roughly 50,000, meaning Rome "might lose a
+battle, but not a war." Beard is explicit that Romans were not "by nature more
+belligerent" than their Italian neighbors — endemic low-level warfare was the
+regional norm — but that Rome alone institutionalized the conversion of defeated
+enemies into military assets "in a way that no other ancient city had ever
+systematically done."
 
 ## Related
 

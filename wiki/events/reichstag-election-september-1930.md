@@ -1,23 +1,22 @@
 ---
-title: Reichstag Election, September 1930
-date_start: 1930-09-14
-date_end: 1930-09-14
+title: "Reichstag Election, September 1930"
+date_start: "1930-09-14"
+date_end: "1930-09-14"
 date_precision: exact
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
+causes: ["great-depression", "wall-street-crash-1929", "bruening-dissolution-of-reichstag-july-1930", "collapse-of-bourgeois-parties", "nazi-propaganda-offensive"]
+consequences: ["nazi-party-second-largest-in-reichstag", "107-seats-18.3-percent-vote", "shift-to-presidential-government", "end-of-normal-parliamentary-politics-in-weimar"]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe", "nazi-rise", "reichstag-election", "electoral-breakthrough"]
+event_type: election
 location: [germany]
 actors_primary: ["adolf-hitler", "nazi-party", "joseph-goebbels"]
 actors_secondary: ["heinrich-bruening", "social-democratic-party", "german-national-peoples-party"]
-event_type: election
-scale_immediate: national
 scale_consequential: civilizational
-causes: ["great-depression", "wall-street-crash-1929", "bruening-dissolution-of-reichstag-july-1930", "collapse-of-bourgeois-parties", "nazi-propaganda-offensive"]
-consequences: ["nazi-party-second-largest-in-reichstag", "107-seats-18.3-percent-vote", "shift-to-presidential-government", "end-of-normal-parliamentary-politics-in-weimar"]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, western-europe, nazi-rise, reichstag-election, electoral-breakthrough]
+scale_immediate: national
 ---
-
 # Reichstag Election, 14 September 1930
 
 ## Narrative
@@ -89,9 +88,14 @@ support of a parliamentary majority" — the Reichstag sat 100 days/year in the
 1920s, 50 days Oct 1930–Mar 1931, and 3 days between July 1932 and February
 1933.
 
+## Shirer (1960) Addition
+
+Shirer (1960) corroborates the vote totals with slightly different rounding and adds economic-backdrop figures: NSDAP vote rose from 810,000 (1928) to 6,409,600 — 107 seats (from 12), second-largest party; Communists rose from 3,265,000 to 4,592,000 votes, 54 to 77 seats; Nationalists (Hugenberg) fell from 4 million to 2 million votes. Party membership growth in the run-up: 27,000 (end 1925) → 49,000 (1926) → 72,000 (1927) → 108,000 (1928) → 178,000 (1929). Broader economic context: German industrial output fell to 55% of 1913 levels by 1923 and rose to 122% by 1927; unemployment fell below 1 million by 1928; Germany borrowed roughly $7 billion 1924–30, mostly from American investors. Gustav Stresemann died 3 October 1929 (having negotiated Dawes, Young, and Locarno); Wall Street crashed three weeks later, triggering the German credit collapse. Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 - Primary grounding: Kershaw (range 03, lines ~2727–3660+), including contemporary voter accounts, Goebbels diary notes, election statistics, Brüning memoirs, and press reactions.
+- Shirer, *The Rise and Fall of the Third Reich* (1960).
 - Cross-links: [[great-depression]], [[bruning-heinrich|Heinrich Brüning]], [[goebbels-joseph|Joseph Goebbels]], [[actors/adolf-hitler|Adolf Hitler]], [[periods/world-wars-era]]
 
 ---

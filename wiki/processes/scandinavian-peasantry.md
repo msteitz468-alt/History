@@ -17,9 +17,9 @@ produces:
   - proletarianisation and growth of cottar/smallholder class
   - emergence of non-noble middle class
   - articulation of peasant political consciousness
-sources_ingested: 1
-last_updated: 2026-06-27
-tags: [process, early-modern, age-of-expansion, scandinavia, denmark, sweden, norway, finland, iceland]
+sources_ingested: 2
+last_updated: 2026-07-08
+tags: [process, early-modern, age-of-expansion, scandinavia, denmark, sweden, norway, finland, iceland, early-middle-ages]
 ---
 
 ## Definition and Scope
@@ -27,6 +27,14 @@ tags: [process, early-modern, age-of-expansion, scandinavia, denmark, sweden, no
 The social and economic situation of the Scandinavian commoners — primarily peasants, burghers, civil servants, and a growing class of smallholders/cottars — from roughly 1650 to 1750. "The great majority of the population, between 80 per cent and almost 100 per cent over the whole of Scandinavia, were linked to peasant households." (L23655–23656) This page covers tenure relations, the freeholder/tenant divide, the stavnsbånd, the rise of cottars, and the political culture of peasant society.
 
 The period 1650–1750 saw "the culmination and end of one epoch and the beginning of a new one. The authoritarian social order which was built up during the previous centuries, with aristocratic, hierarchical and orthodox religious values, reached its culmination at the end of the seventeenth century." (L23208–23212)
+
+## Early medieval background — Wickham, Framing (2005)
+
+The 1650–1750 material below sits on a much longer rural baseline. [[wickham-framing-the-early-middle-ages-2005|Wickham, *Framing* (2005)]] argues that for **Denmark 400–800** (and some time after), aristocratic **landed** power over peasant neighbours had **not** been established—unlike inland England under Offa. Danish ‘chieftains’ on magnate farms (*stormandsgårder*) look like political leaders receiving restricted tribute from relatively independent village peasantries, not landlords; no archaeological signs in Wickham’s period of a shift to landed proprietorship. Peasant subjection may wait until ~tenth/eleventh centuries; local assemblies persist. Godofrid/Horic’s kingdom resembled Ine more than Offa; permanence of larger polities was blocked until after ~950, when processes paralleled Offan England (conquest, public works, tribute regularisation, aristocratic property crystallisation).
+
+**Settlement hierarchy:** unlike early medieval western Mediterranean patterns where villages often sit near the top of local hierarchy, Danish villages are at the **base**: political elites lived in central places and isolated magnate farms, leaving villages to the peasantry—so Vorbasse-type autonomy was real but bounded by always-present wider political structures ([[settlement-archaeology]]).
+
+**North European village belt:** Wickham proposes a common village structure from the **Rhine mouth to the Swedish border** across 400–800: concentrated settlements of modular farmsteads (long-house + smaller buildings; often ~10–20 farms; max ~200–400 people north of the imperial frontier), internal part-time crafts and hierarchies, little permanent external/internal lordship—effective foci comparable to Syrian/Egyptian villages though smaller (parallels Feddersen Wierde, Wijster, Warendorf). This early medieval peasantry-mode baseline is a structural contrast, not a continuous institutional history, with the freeholder/tenant and estate world of 1650–1750 ([[peasant-mode-of-production]], [[scandinavian-urbanisation]]).
 
 ## Causal Drivers
 
@@ -83,4 +91,4 @@ The peasantry remained "hedervärda" (honourable) in Swedish parliamentary langu
 
 Harald Gustafsson's analysis in the source (ch.24) emphasises the heterogeneity of "commoners": Swedish peasant freeholders buying crown land had little in common socially or culturally with the bourgeois wholesaler entertaining King Frederik V of Denmark. Swedish historian Sten Carlsson's formulation — "All four estates were political and social realities within the frame that Absolutism admitted" — captures the persistence of estate-based thinking even as it dissolved economically. Modern research underlines that the Danish estate system created "a certain patriarchally tinged solidarity within the estate" rather than systematic exploitation, complicating simple oppression narratives (L23834–23836). Norwegian historian Øystein Rian's concept of ämbetsköpmän (office-merchants) — where the same families held offices, leased customs, operated sawmills, and ran shipping firms — illuminates the intertwining of social categories in Norway (L23635–23639).
 
-Source: [[kouri-olesen-cambridge-history-scandinavia-v2-2016]], chs. 22 (Andersen & Johansen) and 24 (Gustafsson).
+Sources: [[kouri-olesen-cambridge-history-scandinavia-v2-2016]], chs. 22 (Andersen & Johansen) and 24 (Gustafsson); early medieval baseline [[wickham-framing-the-early-middle-ages-2005]].

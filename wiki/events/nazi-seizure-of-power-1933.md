@@ -1,23 +1,22 @@
 ---
 title: Nazi Seizure of Power (Machtergreifung) 1933
-date_start: 1933-01-30
-date_end: 1933-08
+date_start: "1933-01-30"
+date_end: "1933-08"
 date_precision: month
 period: [World Wars Era]
-region: [western-europe, germany]
-location: [Berlin, Munich, Germany]
-actors_primary: [[actors/adolf-hitler|Adolf Hitler]]
-actors_secondary: [Franz von Papen, Paul von Hindenburg, Hermann Göring, Joseph Goebbels, Heinrich Himmler]
+region: ["western-europe", germany]
+causes: ["[[weimar-democracy-and-its-collapse|conservative elite miscalculation and Hindenburg appointment]], [[adolf-hitler|Hitler’s refusal of lesser office and demand for Chancellorship and enabling act]], Reichstag fire (27 February 1933) providing pretext for emergency measures"]
+consequences: ["[[night-of-the-long-knives-1934|elimination of remaining constraints and rivals by 1934]], establishment of one-party dictatorship, [[nazi-germany|foundations of the Third Reich]], extinguishing of civil liberties and political opposition"]
+sources_ingested: [4]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe", "adolf-hitler", nazism, "weimar-republic"]
 event_type: political
-scale_immediate: national
+location: [Berlin, Munich, Germany]
+actors_primary: ["[actors/adolf-hitler|Adolf Hitler]"]
+actors_secondary: [Franz von Papen, Paul von Hindenburg, Hermann Göring, Joseph Goebbels, Heinrich Himmler]
 scale_consequential: civilizational
-causes: [[weimar-democracy-and-its-collapse|conservative elite miscalculation and Hindenburg appointment]], [[adolf-hitler|Hitler’s refusal of lesser office and demand for Chancellorship and enabling act]], Reichstag fire (27 February 1933) providing pretext for emergency measures
-consequences: [[night-of-the-long-knives-1934|elimination of remaining constraints and rivals by 1934]], establishment of one-party dictatorship, [[nazi-germany|foundations of the Third Reich]], extinguishing of civil liberties and political opposition
-sources_ingested: 3
-last_updated: 2026-07-02
-tags: [event, world-wars-era, western-europe, adolf-hitler, nazism, weimar-republic]
+scale_immediate: national
 ---
-
 # Nazi Seizure of Power (Machtergreifung) 1933
 
 ## Narrative
@@ -242,6 +241,15 @@ machinery, extracted at full fidelity:
 See also [[reichstag-fire-1933]], [[enabling-act-23-march-1933]],
 [[destruction-of-german-trade-unions-1933]],
 [[dissolution-of-german-parties-1933]], [[gleichschaltung]].
+
+## Shirer (1960) Additions
+
+- Minutes of Hitler's first cabinet meeting (5 p.m., 30 January 1933), surfaced at Nuremberg, record Göring reporting the Centre Party's demand for "certain concessions" and proposing Reichstag dissolution; Hugenberg proposed simply suppressing the Communist Party's 100 seats to secure a majority instead — Hitler declined "at the moment." [SHIRER-THESIS]: Shirer reads Hitler as deliberately sabotaging the Centre Party talks that February by misrepresenting Kaas's demands to his own cabinet, tricking Hugenberg and Papen into agreeing to new elections.
+- 20 February 1933 secret meeting at Göring's Reichstag President's Palace: Schacht hosted roughly two dozen industrialists (Krupp von Bohlen, Bosch/Schnitzler of I.G. Farben, Vögler of United Steel) where Hitler and Göring solicited campaign funds; Schacht testified at Nuremberg, "I collected three million marks."
+- Goebbels diary, 31 January 1933: "In a conference with the Fuehrer we lay down the line for the fight against the Red terror... The Bolshevik attempt at revolution must first burst into flame. At the proper moment we shall strike" — documentary evidence the "Communist threat" used to justify the terror wave was to be manufactured, not merely exploited.
+- Election-campaign terror figures (Feb–Mar 1933): 51 anti-Nazis listed as murdered; Nazis claimed 18 of their own killed. Göring, as Prussian Interior Minister, ordered police to show no mercy to "enemies of the State" and to "make use of firearms" (February 1933 directive), and established a 50,000-strong auxiliary police (40,000 from SA/SS, the rest Stahlhelm) on 22 February 1933.
+
+Source: [[shirer-rise-fall-third-reich-1960]].
 
 ## Related
 

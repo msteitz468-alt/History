@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the Red Army's advance from mid-1944, SS orders to evacuate camps rather than leave prisoners as witnesses or labor for the enemy, the collapse of transport and administration in the dying Reich]
 consequences: [c. 250,000 or more prisoner deaths by shooting, exhaustion, and exposure in the war's final months, the final murderous phase of [[the-holocaust|the Holocaust]], exposure of the camp system to the German population and advancing Allies]
-sources_ingested: 1
-last_updated: 2026-07-02
+sources_ingested: [2]
+last_updated: 2026-07-03
 tags: [event, world-wars-era, eastern-europe, central-europe]
 ---
 
@@ -37,3 +37,27 @@ Per [[evans-third-reich-at-war-2008|Evans (2008)]]. ~700,000 prisoners remained 
 ## Historiography
 
 Evans argues the marches were "not, as has sometimes been claimed, simply the last chapter of the 'Final Solution'": non-Jewish inmates, state prisoners, and forced laborers died in them too, and they are best understood as "the last act in the brutal and violent history of the Third Reich's system of repression in general" — though Jews were demonstrably singled out for killing along the routes. (Blatman's *The Death Marches* is the standard monograph; Evans's framing is one position in a live interpretive question about Holocaust periodization.)
+
+## Wachsmann, *KL* (2015)
+
+Wachsmann's account (from the history of the [[nazi-concentration-camps|KL
+system]]) reinforces and refines Evans. He shows that the evacuations began
+**earlier than 1945**: an orderly, low-death first wave in the west (Herzogenbusch,
+Natzweiler, autumn 1944) contrasted with lethal, chaotic evacuations in the east
+already in 1944 (Majdanek, the Baltic camps Riga/Kovno/Vaivara, with last-minute
+massacres at Klooga and Lagedi). The great treks of January–February 1945 forced
+>150,000 out of Auschwitz, Gross-Rosen, and Stutthof; ~1 in 4 Auschwitz prisoners
+died. He documents the largest march massacres — **Palmnicken** (~3,000 Stutthof
+women machine-gunned on the Baltic shore) and **Lieberose** — but stresses that
+murder was **not** the SS default: the sick were as often simply left behind, and
+Himmler wanted Jews kept alive as hostages. On the periodization question,
+Wachsmann agrees with Evans against the "last chapter of the Final Solution"
+reading: there were **no genocidal orders from above** during the evacuations,
+Jews (a third to a half of marchers) were not treated fundamentally differently
+from other prisoners, and "the main purpose of the KL evacuations was not the
+murder of Jews or other prisoners" — mass death was an inevitable result, not the
+aim. Yet he insists the transports remain **part of the camps' history**, run by
+Camp SS men accustomed to killing stragglers, not a separate phase. The worst
+disaster came at the very end: the sinking of the *Cap Arcona* and *Thielbek* in
+Neustadt Bay (3 May 1945), >7,000 dead. Source:
+[[wachsmann-kl-concentration-camps-2015]].

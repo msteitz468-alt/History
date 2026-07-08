@@ -29,3 +29,19 @@ Detailed claims from CHCW Vol. III (Saunders & Onslow).
 - [[leffler-westad-cold-war-v3]]
 - [[cold-war]]
 - [[soviet-war-in-afghanistan-1979]] (comparative intervention effects)
+
+## The Angolan Covert War (McCoy)
+
+[[mccoy-cold-war-five-continents-2024|McCoy (2024)]] treats southern Africa as the
+theatre of the Cold War's "final, destructive period." After the 1974 Portuguese
+collapse, the [[central-intelligence-agency|CIA]]'s Operation IAFeature (July 1975,
+~$32 million) armed the FNLA and Jonas Savimbi's UNITA alongside apartheid South
+Africa's Operation Savannah, against the Soviet/Cuban-backed MPLA. Cuban forces
+(rising to ~36,000) routed the South African–backed advance at Quifangondo and Ebo
+in November 1975; the US Congress cut off aid via the Clark Amendment (1976). Reagan
+Doctrine aid to UNITA resumed after 1985 (Stinger and TOW missiles). The siege of
+**Cuito Cuanavale (1987–88)** ended in South African withdrawal and the 1988 New
+York Accord freeing Namibia — which McCoy, in an interpretive judgment recorded on
+[[mccoy-covert-empire-thesis|his controversy page]], calls colonial Africa's "death
+knell." He estimates the wider [[angolan-civil-war-1975|Angolan civil war]] killed
+~800,000 (McCoy's figure). See also [[cold-war-proxy-wars|Cold War proxy wars]].

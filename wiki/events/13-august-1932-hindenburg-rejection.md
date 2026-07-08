@@ -1,23 +1,22 @@
 ---
-title: Hindenburg's Rejection of Hitler Chancellorship, 13 August 1932
-date_start: 1932-08-13
-date_end: 1932-08-13
+title: "Hindenburg's Rejection of Hitler Chancellorship, 13 August 1932"
+date_start: "1932-08-13"
+date_end: "1932-08-13"
 date_precision: exact
 period: [World Wars Era]
-region: [western-europe]
-location: [berlin, presidential-palace]
-actors_primary: ["adolf-hitler", "paul-von-hindenburg", "franz-von-papen", "kurt-von-schleicher"]
-actors_secondary: ["ernst-rohm", "wilhelm-frick", "joseph-goebbels"]
-event_type: political-crisis
-scale_immediate: national
-scale_consequential: civilizational
+region: ["western-europe"]
 causes: ["july-1932-reichstag-election-nazi-victory", "hitler-demand-for-full-chancellorship", "schleicher-papen-taming-strategy", "hindenburg-contempt-for-hitler", "elite-miscalculation-of-nazi-strength"]
 consequences: ["hitler-setback", "continued-papen-government", "deepening-crisis", "precondition-for-later-levering-into-power", "nazi-disappointment-and-pressure-on-leadership"]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, western-europe, nazi-rise, backstairs-intrigue, hindenburg-hitler, 1932-crisis]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe", "nazi-rise", "backstairs-intrigue", "hindenburg-hitler", "1932-crisis"]
+event_type: "political-crisis"
+location: [berlin, "presidential-palace"]
+actors_primary: ["adolf-hitler", "paul-von-hindenburg", "franz-von-papen", "kurt-von-schleicher"]
+actors_secondary: ["ernst-rohm", "wilhelm-frick", "joseph-goebbels"]
+scale_consequential: civilizational
+scale_immediate: national
 ---
-
 # Hindenburg's Rejection of Hitler Chancellorship, 13 August 1932
 
 ## Narrative
@@ -62,9 +61,14 @@ Kershaw's central thesis in the 'Levered into Power' chapter: the impasse of aut
 
 **Grounded exclusively in range:** Kershaw, *Hitler 1889–1936: Hubris* (1998), ch. 10 (Levered into Power), detailed reconstruction from Papen memoirs, Meissner notes, Goebbels diary, and contemporary accounts.
 
+## Shirer (1960) Addition
+
+Shirer (1960), via Otto Meissner's Nuremberg affidavit — the only firsthand account he treats as reliable — corroborates the meeting's substance: Hindenburg refused Hitler full power, citing "clashes between the Nazis and the police, acts of violence... excesses against Jews," and proposed Hitler join a coalition instead. The official communiqué stated Hindenburg "gravely exhorted Herr Hitler to conduct the opposition... in a chivalrous manner." Hitler publicly disputed the "complete power" characterization, but Hindenburg's version was generally believed at the time, damaging Hitler's standing. Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 - Kershaw (range 03): verbatim accounts of meetings, Hindenburg's remarks, Goebbels reactions, analysis of miscalculation.
+- Shirer, *The Rise and Fall of the Third Reich* (1960).
 - Cross: [[actors/adolf-hitler|Adolf Hitler]], [[franz-von-papen]], [[kurt-von-schleicher]], [[paul-von-hindenburg]], [[reichstag-election-july-1932]], [[papen-government-1932]]
 
 ---

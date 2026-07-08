@@ -5,8 +5,8 @@ date_start: 1847
 date_end: 1934
 period: [World Wars Era]
 region: ["western-europe"]
-sources_ingested: [2]
-last_updated: "2026-07-02"
+sources_ingested: [3]
+last_updated: "2026-07-03"
 tags: [actor, person, "world-wars-era", "long-19th-century", "western-europe"]
 affiliated_with: ["[[weimar-republic]]", "[[prussia]]"]
 key_events: ["[[nazi-seizure-of-power-1933]]", "[[night-of-the-long-knives-1934]]"]
@@ -79,6 +79,16 @@ The one office and person with the constitutional and symbolic authority to
 remove Hitler in 1933–34; his passivity, age, and monarchist contempt for the
 Republic made him the dictatorship's enabler rather than its check.
 
+## Shirer (1960) Additions
+
+- 1932 presidential election, exact vote tables: first round (13 March 1932) Hindenburg 18,651,497 (49.6%) vs. Hitler 11,339,446 (30.1%), Thälmann 4,983,341 (13.2%), Duesterberg 2,557,729 (6.8%) — no absolute majority, forcing a runoff; second round (10 April 1932) Hindenburg 19,359,983 (53%) vs. Hitler 13,418,547 (36.8%), Thälmann 3,706,759 (10.2%). Hindenburg's sole radio broadcast of the campaign (10 March, eve of the first vote): "Election of a party man, representing one-sided extremist views... would expose the Fatherland to serious disturbances whose outcome would be incalculable. Duty commanded me to prevent this... I ask for no votes from those who do not wish to vote for me."
+- Dismissed Brüning as Chancellor 30 May 1932 after coolness developed over Brüning's proposed Junker-estate breakup plan and Brüning's failed attempt to get Hindenburg's term simply extended by Reichstag vote rather than face election; recalled Franz von Papen instead.
+- 13 August 1932 meeting: per Otto Meissner's Nuremberg affidavit — the only firsthand account Shirer treats as reliable — Hindenburg refused Hitler full power, citing "clashes between the Nazis and the police, acts of violence... excesses against Jews," and proposed Hitler join a coalition instead. The official communiqué stated Hindenburg "gravely exhorted Herr Hitler to conduct the opposition... in a chivalrous manner." Hitler publicly disputed the "complete power" characterization, but Hindenburg's version was generally believed, damaging Hitler's standing (see [[13-august-1932-hindenburg-rejection]]).
+- 28 January 1933 Hindenburg–Schleicher exchange on Schleicher's resignation, verbatim: Hindenburg — "I have already one foot in the grave, and I am not sure that I shall not regret this action in heaven later on." Schleicher — "After this breach of trust, sir, I am not sure that you will go to heaven."
+- Hindenburg's East Prussian estate at Neudeck, given to him for his 80th birthday by Junkers and industrialists, had been illegally deeded to his son Oskar to escape inheritance tax — a fact Schleicher threatened to expose via the Osthilfe scandal report, and which Shirer suggests (speculatively) may connect to the family's acquisition of 5,000 tax-free additional acres and Oskar's 1934 promotion, following the 22 January 1933 secret Ribbentrop-house meeting at which Hitler took Oskar aside alone for an hour. [SHIRER-THESIS, speculative]: Shirer implies possible bribery or blackmail pressure connected to Osthilfe-scandal exposure; treat as an interpretive suggestion, not established fact.
+
+Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Historiography
 
 Wheeler-Bennett's *The Wooden Titan* remains the classic portrait; recent
@@ -87,3 +97,4 @@ scholarship (Pyta) stresses his active cultivation of the Hindenburg myth.
 ## Sources
 
 - [[evans-third-reich-in-power-2005]]
+- [[shirer-rise-fall-third-reich-1960]]

@@ -1,23 +1,22 @@
 ---
 title: Nuremberg Laws (1935)
-date_start: 1935-09-15
-date_end: 1935-09-15
+date_start: "1935-09-15"
+date_end: "1935-09-15"
 date_precision: exact
 period: [World Wars Era]
-region: [western-europe]
+region: ["western-europe"]
+causes: ["[[nazi-seizure-of-power-1933]]"]
+consequences: ["[[the-holocaust]]", "[[kristallnacht-1938]]"]
+sources_ingested: [3]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe"]
+event_type: political
 location: [Nuremberg]
 actors_primary: ["[[nazi-germany]]", "[[adolf-hitler]]"]
 actors_secondary: ["[[ashkenazi-jewry]]", "[[actors/guertner-franz]]", "[[actors/freisler-roland]]", "[[actors/loesener-bernhard]]"]
-event_type: political
-scale_immediate: civilizational
 scale_consequential: global
-causes: ["[[nazi-seizure-of-power-1933]]"]
-consequences: ["[[the-holocaust]]", "[[kristallnacht-1938]]"]
-sources_ingested: 2
-last_updated: 2026-07-02
-tags: [event, world-wars-era, western-europe]
+scale_immediate: civilizational
 ---
-
 # Nuremberg Laws (1935)
 
 The Reich Citizenship Law and the Law for the Protection of German Blood and
@@ -116,7 +115,12 @@ Whitman (2017) supplies the missing comparative-legal chapter: primary evidence 
 
 **Note on atrocity-dense material:** Verbatim quotes from Nazi planning (Grau on "quarantine," "severe criminal punishment"; Freisler on "primitive" methods) are reproduced only as load-bearing evidence with full attribution; the record is not softened.
 
+## Shirer (1960) Addition
+
+Shirer (1960), an [EYEWITNESS] living in Germany through this period, adds concrete social effects and a first-person consequence: by summer 1936 (Olympics year) roughly half of German Jews were without livelihood, from the combined legal and terror exclusion from public office (1933), the civil service, journalism, radio, farming, teaching, theater, and film (1933), stock exchanges (1934), and eventually law/medicine/business outright by 1938. He records shop signs reading "Jews Not Admitted" and a roadside sign near Ludwigshafen: "Drive Carefully! Sharp Curve! Jews 75 Miles an Hour!" Shirer also notes the Nazis temporarily hid antisemitic signage during the August 1936 Berlin Olympics to impress foreign visitors (corroborating the Evans account on [[berlin-olympics-1936]]) — and states he was himself "violently attacked in the German press and on the radio, and threatened with expulsion" for reporting the removal in a dispatch, an episode worth noting on the Olympics page as well. Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 - [[evans-third-reich-in-power-2005]]
 - [[sources/whitman-hitlers-american-model-2017]] (detailed analysis of US race-law models in the drafting of the citizenship and blood provisions; June 5, 1934 meeting transcript; Prussian Memorandum)
+- [[shirer-rise-fall-third-reich-1960]]

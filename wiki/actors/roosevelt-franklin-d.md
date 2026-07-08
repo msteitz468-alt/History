@@ -5,8 +5,8 @@ date_start: "1882-01-30"
 date_end: "1945-04-12"
 period: ["long-19th-century", "world-wars-era"]
 region: ["north-america", global]
-sources_ingested: [4]
-last_updated: "2026-07-02"
+sources_ingested: [5]
+last_updated: "2026-07-03"
 tags: [actor, person, "world-wars-era", "long-19th-century", "north-america", "roosevelt-franklin-d", presidency]
 affiliated_with: [United States, Democratic Party, Allied powers]
 aliases: [Franklin D. Roosevelt, FDR, Roosevelt Franklin D., Franklin Delano Roosevelt, Franklin Roosevelt]
@@ -89,6 +89,12 @@ See [[lockean-consensus]] and [[why-no-socialism-in-america]].
 ## Counterfactual Significance
 
 Without FDR’s confidence restoration and institutional innovations, the U.S. political economy after 1933 would likely have looked closer to Hoover-era orthodoxy or more radical European experiments. A different president in 1940–41 might have delayed or weakened aid to Britain. Different management of the Grand Alliance could have altered timing of victory or the exact shape of the Iron Curtain. The four-term precedent directly produced the 22nd Amendment.
+
+## From Shirer, *The Rise and Fall of the Third Reich* (1960)
+
+Shirer's captured German documents record Roosevelt's last-ditch pre-war diplomacy: urgent peace appeals to Hitler and Polish President Mościcki on 24 Aug 1939, and a second appeal to Hitler on 25 Aug urging both sides to "agree to the pacific means of settlement." Hitler never directly replied; Weizsäcker told the U.S. chargé only that the telegrams had been passed to the Foreign Minister "for consideration." On the Pearl Harbor-era diplomacy and Hitler's declaration of war, see [[events/attack-on-pearl-harbor-1941]].
+
+Source: [[shirer-rise-fall-third-reich-1960]]
 
 ## Related
 

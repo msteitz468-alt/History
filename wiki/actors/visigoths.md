@@ -9,8 +9,8 @@ affiliated_with: [gothic-peoples, foederati, arian-christianity]
 opposed_by: [eastern-roman-empire, merovingian-franks, umayyad-caliphate]
 key_events: [battle-of-adrianople-378, sack-of-rome-410, battle-of-vouille-507]
 key_processes: [ethnogenesis, barbarization-of-the-roman-army]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, state, late-antiquity, western-europe, mediterranean, germanic]
 ---
 
@@ -68,8 +68,20 @@ the most durable successor state.
 
 Ralph Mathisen's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] revises the standard picture of the Visigothic collapse at [[battle-of-vouille-507|Vouillé]]. Against Gregory of Tours, he argues **Alaric II** "was an effective ruler who did the best he could with what he had": the *Breviarium Alarici* (506) conciliated his Gallo-Roman elite, and the Council of Agde (506) organized the kingdom's church. Arian Christianity had functioned as a marker of Gothic identity without systematic persecution of Catholics (see [[migrants-and-minorities-in-merovingian-gaul]]); after 507 only Septimania remained Gothic in Gaul, and Theoderic's Ostrogoths assumed guardianship of the Visigothic kingdom (see [[ostrogoths]]).
 
+## State, tax, and aristocracy in Spain (Wickham 2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham, *Framing the Early Middle Ages* (2005)]] treats Visigothic Spain as the western exception that **grew stronger over time** and kept a national **land tax** until 711 — the structural opposite of Lombard post-tax politics and Merovingian tax-concession.
+
+**Leovigild and Toledo.** After decades of incoherence (Ostrogothic hegemony 510s–520s, revolts, Córdoba’s independence 550–572, Byzantine southern coast 554–c.628), **Leovigild** (569–86) founded the united Visigothic kingdom, conquering most of the peninsula except Basques and Byzantines, issuing substantial law, and making **Toledo** a real capital. Reccared’s Third Council of Toledo (589) abandoned Arianism; regular Toledan councils and strongly Roman-influenced law codes (Reccesuinth 654, Ervig) mark seventh-century ideological ambition, including extreme anti-Jewish legislation from 589 peaking in 694. The Visigothic law-code is by far the most Roman-influenced of the “barbarian” laws.
+
+**Strengthening state and surviving tax.** Unlike most western successors, the Spanish Visigothic state did not get weaker over time but stronger (Wickham finds royal ambition and control more convincing than breakdown readings of shrill late laws for c.700). Late seventh-century kings retained elaborate ceremonial, law-codes, and councils without successful provincial separatism. They kept the land tax nationally until the end — by 700 the **only Germanic state to do so** on a national level. *De fisco Barcinonensi* (594) shows Barcelona-area collection by *comites patrimonii*, bishops, and *numerarii* at rates that need not have been significantly below Roman levels; seventh-century laws still mention *poliptica publica*, gesta, and arrears remissions (Ervig 683). Like the Vandals, the Visigoths took tax systematically in the 680s as much as in the fifth century. Wickham elsewhere links incomplete Umayyad fiscal inheritance in al-Andalus to the long prior decline of this system under the Visigoths — tax survived nationally but was not an unproblematic Roman inheritance for the conquerors.
+
+**Localized aristocracies and unfree rural labour.** Written sources present a remarkably Roman Spain with social patterns little changed since the fifth century, with the important caveat of **geographical localization** to single city territories or less (Mérida focused on one place; Ebro *senatores* independent until Leovigild’s c.574 conquest; Diego Álvaro slates a Roman tradition reduced to the microregion). Scale resembles Italy more than Gaul; political/cultural continuities resemble Aquitaine rather than northern Gaul or Lombard/Byzantine Italy. Late sixth–seventh-century fugitive legislation (including Egica 702) concerns unfree *servi*/*mancipia*, paralleling Roman slave law rather than the colonate; by the seventh century rural dependants appear mostly unfree, with free tenure rare in the sources.
+
+**Link types:** `part_of:` [[tax-based-vs-land-based-states]], [[politics-of-land]]; `contrasts_with:` [[lombards]] (post-tax), [[merovingian-franks]] (tax concessions, multi-court aristocracy); `analogous_to:` Aquitaine (cultural continuity at local scale); `followed_by:` [[umayyad-caliphate]] conquest and Andalusi fiscal rebuild. Source: [[wickham-framing-the-early-middle-ages-2005]].
+
 ## Related
 
 - [[gothic-peoples]] · [[ostrogoths]] · [[ethnogenesis]] · [[huns]] · [[alaric]]
 - [[battle-of-vouille-507]] · [[clovis]] · [[merovingian-franks]]
-- Source: [[geary-before-france-germany-1988]]
+- Sources: [[geary-before-france-germany-1988]]; [[wickham-framing-the-early-middle-ages-2005]]

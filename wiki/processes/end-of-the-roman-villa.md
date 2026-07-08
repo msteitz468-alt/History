@@ -8,8 +8,8 @@ region: [western-europe, mediterranean]
 process_type: economic
 driven_by: [merovingian-episcopate]
 produces: [merovingian-rural-settlement]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, late-antiquity, early-middle-ages, western-europe]
 ---
 
@@ -56,8 +56,62 @@ The villa's disappearance is the negative image of the new [[merovingian-rural-s
 settlement]] of timber farms and (eventually) nucleated villages, and it underlies the weak-aristocracy
 picture of northern Gaul that Theuws builds into his account of the [[merovingian-economy]].
 
+## Wickham, Framing (2005)
+
+[[wickham-framing-the-early-middle-ages-2005|Wickham, *Framing* (2005)]] generalises the villa’s end as a
+**pan-western cultural marker of aristocratic militarisation**, not a uniform economic collapse—while
+keeping sharp regional chronologies and Mediterranean pathway models.
+
+### East–West settlement dichotomy; chronology
+
+West of roughly Illyricum and the Syrtis desert border, Roman rural settlement was more dispersed and
+structured by a network of thousands of villas (York to Lepcis Magna); eastern Roman rural society was
+village-focused (local exceptions both ways). By 700 villas had almost vanished in the West. Wickham’s
+dating clusters: **North** (Britain and northern Gaul) villa end concentrated around **~400** (northern
+Gaul begins ~350, nearly complete by 450; Britain late fourth to gone by ~450); **Mediterranean**
+(southern Gaul, Italy, Spain, Africa) around the **sixth century**, with Spanish lag into the
+seventh/early eighth in places. Barbarian invasion is ruled out as a uniform cause—too late for 400, and
+chronologically mismatched for the South.
+
+### Militarisation, not crisis (esp. northern Gaul)
+
+Heavily decorated *villae rusticae* drop from the architectural record with different dates by region;
+Wickham reads the shift primarily as **militarisation of aristocratic lifestyle and display** (churches,
+movables, jewelled clothing, private armies) rather than simple demographic/economic collapse—while
+noting residual difficulty of the “negative” archaeological picture. In northern Gaul (Seine–Rhine),
+following Whittaker: fourth-century frontier interaction transformed villa culture **before** state
+failure; architectural comfort gave way to simpler wood/spolia and *Grubenhäuser*, making elite buildings
+more like peasant housing—already largely “de-Romanized” before Frankish settlement mid-fifth century.
+Notwithstanding the end of villa culture, **aristocratic wealth in Gaul/Francia remained enormous**.
+Uniformly across the former empire, the major imperial-period marker of aristocratic lifestyle—an
+educated civilian literary culture—vanished (gone even in still-civilian Egypt by 800 as Greek faded).
+
+### Spain: archaeology earlier than ‘late late Roman’ texts
+
+Spanish archaeology challenges a ‘late late Roman’ written model focused on 711: the villa system weakened
+from the fifth century and by the sixth is clearly identifiable only in restricted zones (middle Ebro,
+northern Meseta, central Baetica/western Lusitania, Catalan–Valencian coast); TSHT market networks
+scarcely found by 500; in Alicante–Murcia, Granada coastlands, and the upper Guadalquivir around Jaén,
+sharp regional involution includes hand-made wares dominating the east coast—deprofessionalisation of
+artisan production hardly paralleled elsewhere in the early medieval Mediterranean except sectors of
+Greece.
+
+### Three Mediterranean post-villa models; “inventing the village”
+
+Wickham offers three non-exhaustive Mediterranean models: (1) **very late survival** (Aquitaine, Sicily,
+parts of Spain into seventh/eighth); (2) villas as one element in a **hierarchy that continues** when
+residences cease (e.g. Mediterranean Gaul’s village-focused late fifth-century landscapes; *castra* as
+stabilisers); (3) **sharper breakdown** of rural hierarchies with villa disappearance (eastern Emilia;
+parallels SE Spanish coast, lowland Britain). Chapter conclusion: except Ireland, the early medieval world
+of his regions was a **world of villages**; the western Roman empire had been structured spatially by
+estates. Ending villas was cultural (aristocratic change) more than economic/political crisis, yet it
+**invented the village for western peasants**—territorial cooperation and house agglomerations—while
+remaining less formal/stable than eastern or non-Roman northern communities ([[merovingian-rural-settlement]],
+[[settlement-archaeology]], [[scandinavian-peasantry]]).
+
 ## Related
 
 - [[merovingian-rural-settlement]] · [[merovingian-economy]] · [[merovingian-episcopate]] · [[merovingian-monasticism]] · [[roman-gaul]] · [[ethnogenesis]]
+- [[settlement-archaeology]] · [[peasant-mode-of-production]] · [[post-roman-transformation-of-the-west]]
 - [[provence]] · [[aquitaine]] · [[late-antiquity]] · [[early-middle-ages]]
-- Source: [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] (Chavarría Arnau, Ch. 29)
+- Sources: [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] (Chavarría Arnau, Ch. 29); [[wickham-framing-the-early-middle-ages-2005]]

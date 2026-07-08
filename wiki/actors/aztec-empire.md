@@ -7,10 +7,10 @@ period: [Late Middle Ages]
 region: [mesoamerica]
 affiliated_with: [[[tenochtitlan|Tenochtitlan]], "the Mexica", "the Triple Alliance (Tenochtitlan, Texcoco, Tlacopan)"]
 opposed_by: ["the Tarascan/Purépecha Empire", "Tlaxcala", "conquered Mesoamerican city-states", "the Spanish"]
-key_events: ["formation of the Triple Alliance (1428)", "imperial expansion under Moctezuma I and Ahuitzotl", "the Spanish conquest (1519–1521)"]
+key_events: ["[[triple-alliance-formation-1428|formation of the Triple Alliance (1428)]]", "imperial expansion under Moctezuma I and Ahuitzotl", "the Spanish conquest (1519–1521)"]
 key_processes: [[[mesoamerican-state-formation]], [[state-formation]], [[empire]]]
-sources_ingested: 4
-last_updated: 2026-06-22
+sources_ingested: 6
+last_updated: 2026-07-08
 tags: [actor, empire, late-middle-ages, mesoamerica]
 ---
 
@@ -145,11 +145,127 @@ city was linked to the mainland by causeways with drawbridges; aqueducts brought
 Motecuhzoma's palace was 2.4 hectares (6 acres) — larger than the largest residential
 compound at Teotihuacan.
 
+## Central Mexico after Tula: city-state landscape to empire (Charlton, CHNPA II.1)
+
+Thomas H. Charlton's chapter in [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]]
+(Ch. 11) reframes the Aztec rise as the **third and final prehistoric macroregional state**
+in Central Mexico — after [[teotihuacan|Teotihuacan]] and [[tula-hidalgo|Tula]] — within a
+continuum of **secondary state formation**. The period between the fall of Tula (c. A.D.
+**1150**) and the Spanish conquest of Tenochtitlan (**1521**) was one of complex, rapid
+cultural evolution: all cultures at a **state level**, each a regional variant of a
+civilization with shared features. Defining sequence: breakup of the Tula macrostate →
+devolution into small separate [[altepetl|city-state]] units → emergence of the Aztec
+macroregional system.
+
+### Part I (A.D. 1150/1200–1428) — Three sub-periods
+
+Charlton, following Bray (1977), divides the era into four periods (dates provisional,
+more reliable near 1519). **Part I** covers three:
+
+| Period | Dates (provisional) | Character |
+|---|---|---|
+| 1 Migrations | 1150/1200–1250 | Southward movement of northern frontier agriculturalists (climatic deterioration) and of peoples once inside Toltec systems; multi-ethnic communities in the southern CMSR; foundations for economic/political regionalism |
+| 2 City-state consolidation | 1250–1350 | Migrants (incl. Aztecs) largely in place; community building and population growth; miniature ephemeral conquest "empires"; small-scale warfare; Basin centers **not** fort-sited like post-Teotihuacan Xochicalco/Cacaxtla |
+| 3 Dual expansion → Alliance | 1350–1428 | Acolhua (Huexotla, Coatlinchan, then Texcoco) and Tepaneca (Tenayuca, Azcapotzalco, Tlacopan) build larger fragile tributaries; neither yet "bursts its bounds" (Davies); conditions for Triple Alliance |
+
+**Mexica path within Part I.** Settled initially at Chapultepec; driven out; subordinated as
+mercenaries to Culhua Culhuacan; after sacrifice of a Culhuacan ruler's daughter, exiled to
+western Lake Texcoco islands and founded [[tenochtitlan|Tenochtitlan]] — still a **minor
+player** among warring Basin groups in the late thirteenth–early fourteenth centuries. Smith
+aligns Aztlan-migration ceramics with Nahuatl arrivals from ~1150; Mexica as a **late**
+component arriving c. **1248**.
+
+**Demography and economy of Part I.** Basin population rose from ~**92,000–120,000 to
+~250,000**. Despite political fragmentation, regional economic integration persisted
+(Pachuca/Otumba obsidian; Aztec I/II and Chalco polychromes; cotton from Morelos). Southern
+Basin [[chinampa-agriculture|chinampa]] construction was already under way — food base for
+growth and a partial underwriting of later imperial expansion. Solar markets focused on small
+city-states; northern Basin emphasized nonagricultural crafts (obsidian), south/center
+agriculture.
+
+**1418–1428 hinge.** Azcapotzalco defeated the Acolhua of Texcoco in **1418**. Mexica had
+shared Tepanec conquest benefits as subordinates. After Tezozomoc's death (**1427**), war;
+Mexica with Tlacopan, Acolhua, Tlaxcala, and Huejotzingo conquered the Tepaneca (**1428**).
+See [[triple-alliance-formation-1428]].
+
+### Part II (A.D. 1428–1519) — Imperial structure
+
+**Expansion pattern.** Almost immediately after Basin control, the Triple Alliance launched
+public works and external conquests (Brumfiel). Over ~90 years it established tributary
+relations across large areas of Central and Southern Mexico. By **1519** Tenochtitlan was
+**primus inter pares** — dominant partner. Expansion was **still ongoing** when Spaniards
+arrived and ended it.
+
+**Indirect rule.** Administrative integration of conquered areas was weak. Local dynasties
+usually remained as administrators for maximum benefit at minimum cost; **calpixque**
+coordinated provincial tribute deliveries; further integration was unusual. Hassig: control
+relied heavily on **perception of Aztec power**, not physical garrisons — an extension of
+earlier Basin practices. Beyond the CMSR, formidable [[purepecha|Tarascan/Purépecha]]
+competitors held the west; Toluca's linguistic mosaic functioned as a buffer. Eastern
+independents (Cholula, Huejotzingo, Tlaxcala, Tliliuhquitepec, Zacatlan) were **fully
+encircled** by 1519; Metztitlan and Tototepec under similar pressure.
+
+**Organizational solutions after 1428.** Earlier tributary states foundered on elite
+competition and shifting loyalties ("unstable complex of payoffs and alliances" — Brumfiel).
+Tenochtitlan partly solved leadership selection by shifting from strictly hereditary to
+**election within a defined group**; post-Azcapotzalco wealth-sharing reduced noble
+competition. Particularistic killing of local leaders left succession disputes endemic, so
+claimants sought Triple Alliance patronage (Brumfiel). Using the city-state model, Tenochtitlan
+became effectively a **Basin-wide *altepetl*** with a vastly enlarged sustaining area.
+
+**Motivations (multi-causal).** Religious fervor and the cult of captive sacrifice (Conrad &
+Demarest); structural need of rulers/nobility for more tribute for a growing nobility (Bray;
+Hassig); factionalism and ethnicity (Brumfiel). Charlton: **no single prime mover** — loosely
+interrelated factors; accidental succession resolutions of 1427–28 let Mexica and allies
+fulfill on a grand scale the **militaristic tributary city-state with Toltec antecedents**.
+Classic **secondary state formation**: processes after Teotihuacan's fall created first Tula,
+then Tenochtitlan.
+
+**Demography and core economy (Late Aztec).** Basin population rose from Early Aztec c.
+**250,000** to Late Aztec **800,000–1,200,000**. Population was a necessary **threshold**, not
+a sufficient cause of empire. After 1428, tribute and long-distance goods restructured the
+Basin into a **core–periphery** focused on Tenochtitlan: within ~30–35 km, intensified
+agriculture (chinampas) at the expense of crafts; periphery (e.g. Otumba) accentuated
+noncomestible production (obsidian, maguey fiber, lapidary). Triple Alliance capitals
+(Texcoco, Tlacopan, Tenochtitlan–Tlatelolco) were founded on little-occupied ground — possible
+break with earlier administrative models. Archaeology: Aztec III horizon marks imperial
+expansion (strong in Mezquital/Tulancingo after little Aztec II); Templo Mayor excavations
+(Matos Moctezuma) reveal imperial-center grandeur; Morelos shows trade→tribute shift after
+conquest (Smith & Heath-Smith).
+
+**Geographic frame (CMSR).** Events unfold in Sanders's **Central Mexican Symbiotic Region**
+— Basin of Mexico, Toluca, Mezquital (Tula area), Tulancingo, Puebla-Tlaxcala, Morelos —
+elevation-driven crop differences underwriting economic symbiosis at contact, with five
+obsidian source clusters. In 1519 most CMSR peoples spoke Uto-Aztecan or Otomanguean languages;
+Nahuatl political-economic control from the Basin from c. **1300**.
+
+### Method and historiography (Charlton)
+
+Charlton keeps **native history and archaeology as alternative valid portrayals** rather than
+forcing one-to-one correlation with ceramic complexes. Radiocarbon work (Parsons, Brumfiel,
+Hodge) suggests possible contemporaneity among complexes treated as sequential; he flags but
+does not revise the sequence. Aztec imperial control can look as "ephemeral" archaeologically
+as Toltec distant influence (Umberger & Klein) — a reminder that hegemonic empires leave thin
+provincial footprints. Bibliographical anchors: Sanders/Parsons/Santley *Basin of Mexico*;
+Davies; Hassig; Conrad & Demarest; Berdan et al. *Aztec Imperial Strategies*; Templo Mayor
+project volumes.
+
+## Aftermath of the empire (Cline, CHNPA II.2) — short note
+
+The empire as a **tributary superstructure** ended with the Spanish conquest of 1521; colonial and national histories of its peoples belong on [[central-mexico-indigenous-colonial]] and [[central-mexico-indigenous-since-independence]]. Sarah L. Cline’s regional synthesis stresses one structural point that belongs on this actor page: for indigenous central Mexicans, Conquest marked the **breakup of the Aztec empire superstructure**, but **many component [[altepetl]] became bastions of indigenous social, economic, and political life under Spanish rule** — the Spanish capital of Mexico City on the site of [[tenochtitlan|Tenochtitlan]] being the important exception. The Triple Alliance had been many conquered altepetl that kept internal cohesion while paying tribute; that nested modularity, not a territorially administered state, is why local polities could outlive the empire (Cline 2000). Independent Tlaxcala’s alliance with Cortés and early colonial benefits — and its modern Mexican statehood — is a legacy of the empire’s incomplete hegemony over the central region (Cline). Schryer later treats the former imperial core as still demographically majority-native on the eve of independence and as the hub of post-1821 central Mexico (Schryer 2000).
+
 ## Related
 
 - [[tenochtitlan]] — the Mexica capital.
+- [[triple-alliance-formation-1428]] — 1428 formation event.
+- [[altepetl]] — city-state modular unit.
+- [[chinampa-agriculture]] — southern Basin intensive agriculture.
+- [[aztec-economy]] · [[aztec-religion-and-human-sacrifice]]
+- [[central-mexico-indigenous-colonial]] · [[central-mexico-indigenous-since-independence]]
 - [[inca-empire]] — the contemporaneous Andean empire (the volume's other American case).
 - [[columbian-exchange-1492]] — the disease catastrophe that enabled the conquest.
 - [[mesoamerican-state-formation]] — the long process the Aztecs culminate.
 - [[mesoamerican-ball-game]] — the ball game as practiced in Tenochtitlan.
-- [[mesoamerican-calendar]], [[teotihuacan]], [[tikal]] — the deeper Mesoamerican background.
+- [[mesoamerican-calendar]], [[teotihuacan]], [[tikal]], [[tula-hidalgo]], [[toltec]], [[purepecha]]
+- [[cambridge-history-native-peoples-americas-v2-1]] — Charlton Ch. 11.
+- [[cambridge-history-native-peoples-americas-v2-2]] — Cline Ch. 16 (aftermath framing); Schryer Ch. 17 (regional continuity).

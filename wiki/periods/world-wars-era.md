@@ -4,8 +4,8 @@ period_number: 22
 date_range: 1914–1945 CE
 regions_covered: [global, "western-europe", "eastern-europe", "east-asia", "near-east", "north-america", africa]
 collection_coverage: moderate
-sources_ingested: [21]
-last_updated: "2026-07-02"
+sources_ingested: [22]
+last_updated: "2026-07-03"
 tags: [period]
 followed_by: ["[cold-war|Cold War]"]
 major_themes: [total war, the return of global war, genocide, communism and fascism, the Great Depression, the second demographic and industrial surge, "decolonization's prelude"]

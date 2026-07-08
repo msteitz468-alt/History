@@ -9,8 +9,8 @@ affiliated_with: [[[continental-army]], [[american-revolution]]]
 opposed_by: [[[howe-william]], [[clinton-henry]], [[cornwallis-charles]]]
 key_events: [[[siege-of-boston-1775]], [[battle-of-long-island-1776]], [[battle-of-trenton-1776]], [[battle-of-princeton-1777]], [[battle-of-brandywine-1777]], [[battle-of-monmouth-1778]], [[siege-of-yorktown-1781]]]
 key_processes: [[[fiscal-military-state]]]
-sources_ingested: 2
-last_updated: 2026-06-25
+sources_ingested: 3
+last_updated: "2026-07-03"
 tags: [actor, person, age-of-expansion, north-america]
 ---
 
@@ -38,6 +38,15 @@ The catastrophes of 1776 forced a reluctant adjustment. After the loss of New Yo
 that "the War should be defensive … we should on all occasions avoid a general Action … unless
 compelled by a necessity into which we ought never to be drawn" — a strategy of preserving the
 army (Fabian in effect, though Washington chafed at its passivity). His genius lay less in
+
+## Slavery, Mount Vernon, and the "Only Unavoidable Subject of Regret"
+
+Washington owned slightly fewer than half the ~317 slaves at Mount Vernon in 1799 (Martha held the dower remainder). In his 1799 will he provided: "Upon the decease of my wife, it is my will and desire that all the slaves I hold in my own right shall receive their freedom." Young slaves to be supported to age 25, taught to read and write, "brought up to some useful occupation." Billy Lee (his wartime manservant with damaged knees) freed immediately with annuity and provisions "as a testimony to my sense of his attachment to me, and for his faithful service during the Revolutionary War." Freed people permitted to remain in Virginia — contrasting with the removal policy favored by Jefferson and enacted by the legislature. Most settled in Fairfax County "Freetown," where descendants remained.
+
+This made Washington "a singular figure" among Virginia planters: not only freeing his slaves but "holding open the prospect of an emerging biracial society." The decision followed years of private struggle, including the 1785 letter from Quaker Robert Pleasants urging him to follow the example of emancipators and warning that failure would place "the great hero of American independence" on the wrong side of history in posterity's judgment. Washington had rejected Christian immortality; only memory of posterity remained. He delayed action in part due to family intermarriages (vowed never to separate families), finances (secret attempts to sell western lands to fund), and incidents like the 1796 escape of Ona Judge (light-skinned enslaved woman at the President's House). He refused compromise terms for her return, viewing her as property rather than negotiating with an equal. The will was his "more personal farewell address."
+
+Ellis (2025): "Any attempt to assess Washington’s place in the American pantheon without focusing on his life at Mount Vernon is both futile and misguided... Mount Vernon... is a tribute to a man and to the enslaved workforce... It therefore inherently focuses attention on the great contradiction of the founding era... 'the only unavoidable subject of [my] regret.' This was the legacy he most wished to obscure. And, for that very reason, the legacy we most need to comprehend." (See also [[places/mount-vernon]], [[concepts/slavery-in-the-american-founding]].)
+
 tactics than in **holding the army — and the cause — together**: the recovery at
 [[battle-of-trenton-1776|Trenton]] and [[battle-of-princeton-1777|Princeton]], the personal
 leadership that carried the army through [[valley-forge-1777|Valley Forge]], and the

@@ -9,8 +9,8 @@ affiliated_with: [[[severan-dynasty]], [[roman-imperial-army]]]
 opposed_by: [[[geta]], [[parthian-empire]]]
 key_events: [[[constitutio-antoniniana-212]]]
 key_processes: [[[militarization-of-the-roman-state]], [[roman-citizenship-and-belonging]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]
 ---
 
@@ -57,9 +57,23 @@ who governed by **isolating himself among his troops** and despising the senate.
 edict — whatever its intent — capped the long process of Roman enfranchisement, formally making the
 empire's free population **Romans**, even as that status lost much of its old meaning.
 
+## Ball's Near Eastern Caracalla (2000)
+
+Warwick Ball's *[[ball-rome-in-the-east-2000|Rome in the East]]* adds the eastern dimension. He
+suggests **[[julia-domna|Julia Domna]]**, not Caracalla, may have been the real force behind the
+212 citizenship edict. He records Caracalla's abolition of the monarchy of
+**[[kingdom-of-edessa|Edessa]]** (making it a colony, 214) as the formal end of the classic Near
+Eastern client-kingdom system — after which Rome relied on Arab foederati ([[tanukhids|Tanukhids]],
+[[ghassanids|Ghassanids]]). His Parthian expedition featured the treacherous massacre of an
+unarmed Parthian wedding party at Ctesiphon (after a feigned marriage proposal to King Artabanus's
+daughter, echoing Alexander), before his murder at Carrhae in 217 — which Ball, noting his family
+ties to the region, calls a kind of poetic justice. Part of Ball's [[orientalization-of-rome]]
+argument.
+
 ## Related
 
-- His father [[septimius-severus]] and the [[severan-dynasty]]; the [[constitutio-antoniniana-212|edict of 212]]
+- His father [[septimius-severus]] and the [[severan-dynasty]]; his mother [[julia-domna|Julia Domna]]; the [[constitutio-antoniniana-212|edict of 212]]
 - The status order it interacted with: [[roman-citizenship-and-belonging]],
   [[roman-social-structure-high-empire]]; the coming [[third-century-crisis]]
-- Source: [[bowman-cah-v12-2005]] (Ch. 1, Brian Campbell)
+- The client-kingdoms he ended: [[kingdom-of-edessa]]; Ball's thesis [[orientalization-of-rome]]
+- Sources: [[bowman-cah-v12-2005]] (Ch. 1, Brian Campbell); [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]]

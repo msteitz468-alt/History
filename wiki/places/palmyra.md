@@ -54,6 +54,26 @@ most spectacular of the Roman East.
 - The "arabized" caravan city in its desert context: [[arab-desert-peoples]] (CAH XII Ch. 16, Sartre)
 - Sources: [[bowman-cah-v12-2005]] (Ch. 2, John Drinkwater; Ch. 16, Maurice Sartre)
 
+## From Ball, *Rome in the East* (2000)
+
+Warwick Ball stresses Palmyra's **Arab** foundation — a confederation of four Arab tribes
+(Komare, Battabol, Maazin, 'Amlaqi), possibly mirrored in its four principal cults — and its
+Bronze Age origins under the Semitic name **Tadmor** (he derives "Palmyra" from Arabic *tamar*,
+"date," not from "palm"). Palmyra had **no dynasty of kings** before [[odaenathus|Odaenathus]]
+and [[zenobia|Zenobia]]; it was governed by a council of tribal/mercantile elders — "a gigantic
+business enterprise," in Ball's phrase.
+
+Ball offers two notable **theses** (attributed to him, not asserted here as settled). First, on
+trade: the Palmyra–Emesa–Damascus route was neither the "natural" nor the logical one (that ran
+Euphrates–Aleppo–Antioch) — the Palmyrenes *made* it a trade route through active agency,
+garrisoning and protecting it with their own standing force. Second, and against the framing of
+this page's other sources, he calls the trans-Asian **"Silk Route" "largely spurious"**
+([[silk-roads]]; see [[roman-eastern-trade]]): Palmyra's commerce, he argues, was an extension of
+the **sea trade to India** via the Persian Gulf, its merchant houses attested from Bahrain and
+the Indus delta to Merv, Rome and Newcastle-upon-Tyne. Palmyra's caravan wealth, its tribal
+constitution, and Ball's reading of Zenobia's war as a bid for the Roman purple (not secession)
+form part of his broader [[orientalization-of-rome]] argument.
+
 ## Palmyra as a Silk Roads Caravan City (Benjamin 2018)
 
 [[benjamin-empires-ancient-eurasia-2018|Benjamin]] treats Palmyra as the clearest western

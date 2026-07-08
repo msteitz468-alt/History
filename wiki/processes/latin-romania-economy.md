@@ -1,18 +1,17 @@
 ---
 title: Latin Romania — Economic Patterns and Western Impact (1204–1261+)
 date_start: 1204
-date_end: "1261 (Byzantine reconquest of Constantinople); Latin presence in Greece continues to 15th c."
+date_end: 1261 (Byzantine reconquest of Constantinople); Latin presence in Greece continues to 15th c.
 date_precision: year
 period: [High Middle Ages, Late Middle Ages]
-region: [byzantine-empire, balkans, mediterranean-world]
+region: ["byzantine-empire", balkans, "mediterranean-world"]
 process_type: economic
-driven_by: ["Fourth Crusade (1204)", "Venetian commercial expansion", "Latin feudal reorganization"]
-produces: ["disruption of Byzantine craft industries", "Venetian trade network expansion", "demographic displacement", "new feudal landholding patterns"]
-sources_ingested: 1
-last_updated: 2026-06-27
-tags: [process, high-middle-ages, late-middle-ages, byzantine-empire, balkans, economic]
+sources_ingested: [2]
+last_updated: "2026-07-08"
+tags: [process, "high-middle-ages", "late-middle-ages", "byzantine-empire", balkans, economic]
+driven_by: [Fourth Crusade (1204), Venetian commercial expansion, Latin feudal reorganization]
+produces: [disruption of Byzantine craft industries, Venetian trade network expansion, demographic displacement, new feudal landholding patterns]
 ---
-
 # Latin Romania — Economic Patterns and Western Impact (1204–1261+)
 
 ## Definition and Scope
@@ -232,9 +231,25 @@ own contribution to this volume. The NCMH V chapter by Jacoby on Byzantium after
 Fourth Crusade provides background; specialist monographs by Borsari, Thiriet, and
 Gallina on Venetian Crete are referenced but not yet ingested.
 
+**Laiou & Morrisson (2007) on the wider frame.** [[laiou-morrisson-byzantine-economy-2007|*The
+Byzantine Economy*]] places Latin Romania within the general story of post-1204
+[[byzantine-economy|"small-state economics"]]: fragmentation into a Venetian commercial
+subsystem (western Greece, the Peloponnese, Crete, the Aegean/Ionian islands, with markets at
+Dyrrachium, Modon, Coron, Clarentza and Candia) and a Genoese subsystem (Constantinople/Pera,
+the Black Sea, Chios and Phocaea). The Angevin/Venetian Morea exported olive oil, wine, silk,
+wool, cotton, linen and *kermes* dye before falling off badly by the 1420s; the excavated
+Latin village of **Panakton** (between Thebes and Athens) illustrates a militarised,
+agriculture-based local economy amid constant warfare. Laiou and Morrisson's key
+generalisation — that "economics worked where politics did not," the Italian city-states
+integrating economically what Byzantium could not integrate politically, until the Ottomans
+re-imposed political integration — subsumes Jacoby's deindustrialisation dynamic within a
+broader thesis about the [[premodern-mixed-economy|Byzantine mixed economy]]'s subordination.
+
 ## Related
 
 - [[fourth-crusade-1204]] — the event that created Latin Romania
+- [[byzantine-economy]] · [[byzantine-monetary-system]] · [[premodern-mixed-economy]]
+- [[laiou-morrisson-byzantine-economy-2007]] — source (Laiou & Morrisson 2007)
 - [[byzantine-empire]] — the state whose territory was partitioned
 - [[crusades]] — the broader movement within which the Fourth Crusade occurred
 - [[commercial-revolution]] — the Italian commercial expansion that integrated Latin Romania

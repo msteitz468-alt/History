@@ -6,15 +6,15 @@ date_precision: year
 period: [Classical Antiquity]
 region: [italy, mediterranean-world]
 location: [Italy — Campania, Etruria, Praeneste, the Colline Gate of Rome]
-actors_primary: [Sulla, [[pompey]], Crassus, Metellus Pius; the Marian consuls Carbo, Norbanus, the younger Marius; the Samnites]
-actors_secondary: [Cinna (d. 84), Pontius Telesinus, Sertorius]
+actors_primary: [[[sulla]], [[pompey]], [[crassus]], Metellus Pius; the Marian consuls Carbo, Norbanus, the younger Marius; the Samnites]
+actors_secondary: [[[cornelius-cinna|Cinna]] (d. 84), Pontius Telesinus, Sertorius]
 event_type: war
 scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [Sulla's outlawry by the Cinnan regime, the rival claims to legitimacy from the march on Rome of 88, the unresolved Italian question, the militarized client army]
 consequences: [[[sullan-proscriptions-82bce|the proscriptions]], Sulla's dictatorship, [[sullan-constitution|the Sullan settlement]], the punishment of Samnium and Etruria, the rise of Pompey and Crassus]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, italy, war, rome]
 ---
 
@@ -76,8 +76,9 @@ near-extermination of Samnium was vengeance or policy — is much discussed.
 
 ## Related
 
-- Victor: [[sulla]] · lieutenants: [[pompey]] · Crassus · Metellus Pius
-- Produced: [[sullan-proscriptions-82bce]] · [[sullan-constitution]]
-- Preceded by: [[first-mithridatic-war-89-85bce]] · the Cinnan domination ·
+- Victor: [[sulla]] · lieutenants: [[pompey]] · [[crassus]] · Metellus Pius
+- Produced: [[sullan-proscriptions-82bce]] · [[sullan-constitution]]; decided at the
+  **battle of the Colline Gate** (Nov. 82), where Crassus's wing saved the day
+- Preceded by: [[first-mithridatic-war-89-85bce]] · the [[cornelius-cinna|Cinnan domination]] ·
   [[social-war-91-88bce]]; followed by: [[sertorian-war-80-72bce]]
-- Source: [[crook-cah-v9-1992]] (Ch. 6, Seager)
+- Source: [[crook-cah-v9-1992]] (Ch. 6, Seager) · [[duncan-storm-before-the-storm-2017]]

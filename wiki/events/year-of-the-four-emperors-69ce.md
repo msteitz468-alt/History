@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [the fall of [[nero|Nero]] and the extinction of the [[julio-claudian-dynasty|Julio-Claudian line]], the revelation that emperors could be made by provincial armies, the competition of regional army commands]
 consequences: [the foundation of the Flavian dynasty under Vespasian, the sack of Cremona, the burning of the Capitol, the exposure of the "secret of empire"]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, late-antiquity, italy, transition]
 ---
 
@@ -81,6 +81,16 @@ sources' over-emphasis on **warfare** and against the old "native revolt" readin
 the Roman People"** — meaning the right of Senate and People to *recognise* who held power, not
 to restore the Republic. The events are a standing **transition page** in the wiki's scheme:
 the first demonstration that the Principate's succession crisis could fracture the empire.
+
+## Beard (SPQR, 2015)
+
+Mary Beard, drawing on the same Tacitean formula as the *arcanum imperii* passage above,
+frames 69 CE as the moment "the secret of imperial rule was revealed, that an emperor could
+be made somewhere other than Rome" — each of the four claimants backed by a different
+regional army bloc. She stresses that **Vespasian** ultimately prevailed with no
+Julio-Claudian bloodline at all, instead using reported miracle-working (restoring a blind
+man's sight, curing a withered hand) to bolster his legitimacy — an early instance of the
+imperial-cult theology she discusses more broadly on [[roman-empire]].
 
 ## Related
 

@@ -4,15 +4,14 @@ date_start: 1933
 date_end: 1936
 date_precision: year
 period: [World Wars Era]
-region: [western-europe, germany]
+region: ["western-europe", germany]
 process_type: economic
-driven_by: [["adolf-hitler|Hitler's priority on military spending from day one"], ["german-army|Military leadership planning (Beck, Fritsch, Blomberg)"], ["actors/schacht-hjalmar|Schacht (initially)"], ["working-towards-the-fuehrer|Subordinate competition to advance rearmament"], ["versailles-revision|Shared goal of ending Versailles restrictions"]]
-produces: [["second-world-war-1939|Foundation for rapid military expansion and war readiness"], ["adolf-hitler|Personal power and myth through visible successes"], ["four-year-plan|Four Year Plan (from 1936) as new Hitler-dependent agency"], ["economic-distortions|Raw material and food crises, corruption, administrative disorder"]]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [process, world-wars-era, germany, economic, adolf-hitler, rearmament, four-year-plan]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [process, "world-wars-era", germany, economic, "adolf-hitler", rearmament, "four-year-plan"]
+driven_by: ["[\"adolf-hitler|Hitler's priority on military spending from day one\"]", "[\"german-army|Military leadership planning (Beck, Fritsch, Blomberg)\"]", "[\"actors/schacht-hjalmar|Schacht (initially)\"]", "[\"working-towards-the-fuehrer|Subordinate competition to advance rearmament\"]", "[\"versailles-revision|Shared goal of ending Versailles restrictions\"]"]
+produces: ["[\"second-world-war-1939|Foundation for rapid military expansion and war readiness\"]", "[\"adolf-hitler|Personal power and myth through visible successes\"]", "[\"four-year-plan|Four Year Plan (from 1936) as new Hitler-dependent agency\"]", "[\"economic-distortions|Raw material and food crises, corruption, administrative disorder\"]"]
 ---
-
 # Nazi Economic Mobilization and Rearmament (1933–1936)
 
 ## Definition and Scope
@@ -130,3 +129,18 @@ leading account of the economic history of Nazi Germany in any language":
   power"; risks making extermination "too instrumental" (Western European
   Jews were already being deported before the spring 1942 food crisis);
   and underplays the ideological bar on mobilizing women.
+
+## Shirer (1960) Additions
+
+- Army ordered trebled from 100,000 to 300,000 by 1 October 1934; General Ludwig Beck (Chief of General Staff) was told in April 1934 that conscription would be openly decreed by 1 April 1935 — dates the pre-1935 secret buildup phase more precisely than the page's existing narrative.
+- Documentary — General Keitel, chairman of the Working Committee of the Reich Defense Council, admonished aides as early as 22 May 1933: "No document must be lost, since otherwise enemy propaganda will make use of it. Matters communicated orally cannot be proven; they can be denied."
+- Documentary — Raeder's June 1934 notes on Hitler's instructions for naval rearmament: "No mention must be made of a displacement of 25–26,000 tons, but only of improved 10,000-ton ships... The Fuehrer demands complete secrecy on the construction of the U-boats" (referring to the Scharnhorst and Gneisenau, built 16,000 tons above the Versailles limit; submarines had been secretly built in Finland, Holland, and Spain during the Weimar years, with frames stored at Kiel by Raeder).
+- Hard data — Krupp boasted in 1942 that "the basic principle of armament and turret design for tanks had already been worked out in 1926... Of the guns being used in 1939–41, the most important ones were already fully complete in 1933," despite the Allied post-1919 ban on Krupp armaments production. I.G. Farben was ordered to raise synthetic oil production to 300,000 tons/year by 1937; by early 1934 the Reich Defense Council's Working Committee had approved mobilization plans for roughly 240,000 plants for war orders.
+- 16 March 1935 (a Saturday — Wilhelmstrasse officials joked that "most of Hitler's surprises were reserved for Saturdays," since British officials took weekends off), Hitler decreed universal military service and a peacetime army of 12 corps/36 divisions (~500,000 men), unilaterally ending the Versailles military restrictions; Britain and France protested but took no action.
+- Manstein's Nuremberg testimony: the General Staff, if consulted, "would have proposed twenty-one divisions... The figure of thirty-six divisions was due to a spontaneous decision of Hitler" — generals including Manstein and von Witzleben learned of the conscription decree over the radio, not having been consulted.
+- Economic recovery data for 1932–37, consistent with Evans/Tooze above but with slightly different framing: unemployment fell from 6 million (1932) to under 1 million (spring 1937); national production rose 102% and national income doubled over the same period. General Georg Thomas (Military Economic Staff chief), quoted: "History will know only a few examples of cases where a country has directed, even in peacetime, all its economic forces deliberately and systematically toward the requirements of war" — the term he used was "Wehrwirtschaft" (war economy).
+- Wage/labor data: skilled-worker wages fell from 20.4¢/hr (1932) to 19.5¢/hr (mid-1936); unskilled fell from 16.1¢ to 13¢/hr. Labor's share of national income fell from 56.9% (1932) to 53.6% (1938) while capital/business income share rose from 17.4% to 26.6%.
+- Labor conscription mechanism: the "workbook" (February 1935), required for employment, could be withheld by an employer to prevent a worker leaving; a 22 June 1938 decree instituted full labor conscription, with fines or imprisonment for unauthorized absence. The Hereditary Farm Law (29 September 1933) similarly bound farmers (up to 308 acres) to inherited, non-mortgageable, non-divisible land, restricted to "Aryan" ownership provable to 1800.
+- Volkswagen "swindle": Hitler-conceived "People's Car" at 990 marks ($396), engineered by Ferdinand Porsche; the Labor Front (Ley) ran a "pay-before-you-get-it" installment scheme (5–15 marks/week; 750 marks bought an order number) — not a single car was ever delivered to a paying customer before the war, and the factory converted to military production. This corroborates and dates precisely the "KdF-car scheme delivered 110m RM of workers' savings and not one car" line already on this page from Evans.
+
+Source: [[shirer-rise-fall-third-reich-1960]].

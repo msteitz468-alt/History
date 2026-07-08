@@ -63,3 +63,15 @@ Pre-1974 right-wing dominance; post-1974 left revisionism (four of five books le
 ## Collection Coverage Note
 
 Payne provides the essential WWII-era civil war framing and comparisons (to Spain/Yugoslavia/Finland). Atrocity material (ELAS torture/hostages, DAG executions, child deportations, famine) extracted at full fidelity. Numbers are estimates ("impossible to verify"). Links to prior sources for broader European context. Gaps in military specifics or post-1949 (supplement with specialist studies).
+
+## The American Intervention (McCoy)
+
+[[mccoy-cold-war-five-continents-2024|McCoy (2024)]] reads the conflict as the first
+open field of US Cold War intervention: the Truman Doctrine speech (March 12, 1947)
+requested $400 million for Greece and Turkey, and General James Van Fleet rebuilt the
+Greek Army (from 90,000 to 250,000 troops) to victory by 1949 — Van Fleet describing
+himself as "a dictator, a military dictator in every meaning of the word" (McCoy's
+casualty figure: 108,000 Greeks killed). McCoy extends the story forward to the
+[[central-intelligence-agency|CIA]]'s cultivation of the Greek KYP intelligence
+service and its backing of officers who mounted the April 1967 colonels' coup — a
+strong causal claim recorded on [[mccoy-covert-empire-thesis|his controversy page]].

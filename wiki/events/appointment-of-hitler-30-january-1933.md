@@ -1,23 +1,22 @@
 ---
-title: Appointment of Adolf Hitler as Chancellor, 30 January 1933
-date_start: 1933-01-30
-date_end: 1933-01-30
+title: "Appointment of Adolf Hitler as Chancellor, 30 January 1933"
+date_start: "1933-01-30"
+date_end: "1933-01-30"
 date_precision: exact
 period: [World Wars Era]
-region: [western-europe]
-location: [berlin, reich-chancellery]
+region: ["western-europe"]
+causes: ["failure-of-papen-and-schleicher-governments", "elite-backstairs-intrigue", "hindenburg-reluctant-consent", "papen-miscalculation-that-hitler-could-be-contained", "nazi-mass-base-as-leverage", "economic-political-crisis-deadlock"]
+consequences: [machtuebergreifung, "rapid-consolidation-of-power", "enabling-act", "end-of-weimar-democracy", dictatorship]
+sources_ingested: [2]
+last_updated: "2026-07-03"
+tags: [event, "world-wars-era", "western-europe", "nazi-seizure-of-power", machtergreifung, "hitler-chancellorship", "backstairs-intrigue"]
+event_type: "political-transition"
+location: [berlin, "reich-chancellery"]
 actors_primary: ["adolf-hitler", "paul-von-hindenburg", "franz-von-papen", "alfred-hugenberg"]
 actors_secondary: ["kurt-von-schleicher", "oskar-von-hindenburg", "joachim-von-ribbentrop"]
-event_type: political-transition
-scale_immediate: national
 scale_consequential: civilizational
-causes: ["failure-of-papen-and-schleicher-governments", "elite-backstairs-intrigue", "hindenburg-reluctant-consent", "papen-miscalculation-that-hitler-could-be-contained", "nazi-mass-base-as-leverage", "economic-political-crisis-deadlock"]
-consequences: ["machtuebergreifung", "rapid-consolidation-of-power", "enabling-act", "end-of-weimar-democracy", "dictatorship"]
-sources_ingested: 1
-last_updated: 2026-06-25
-tags: [event, world-wars-era, western-europe, nazi-seizure-of-power, machtergreifung, hitler-chancellorship, backstairs-intrigue]
+scale_immediate: national
 ---
-
 # Appointment of Adolf Hitler as Chancellor, 30 January 1933
 
 ## Narrative
@@ -108,9 +107,20 @@ planned a strike on 31 January, dithered — "how could the party justify
 illegal action in defence of legality?" — and Evans judges (attributed) that
 after July 1932 an armed rising "would have been suicidal."
 
+## Shirer (1960) Additions
+
+- Cabinet composition, exact count (Shirer 1960): Nazis held only 3 of 11 posts — Hitler as Chancellor, Frick as Interior Minister (without control of police, still state-level), and Göring as Minister without Portfolio plus Prussian Interior Minister, controlling the Prussian police — "little noticed" at the time. Conservatives held the substantive ministries: Neurath (Foreign Affairs), Blomberg (Defense), Hugenberg (Economy and Agriculture combined), Seldte (Labor); Papen as Vice-Chancellor and Prussian Premier with a standing promise from Hindenburg to attend all Hitler audiences.
+- Rumors of a competing Schleicher–Hammerstein military putsch and a Nazi SA seizure of the Wilhelmstrasse circulated in Berlin over the weekend of 28–29 January 1933; on the 29th, roughly 100,000 workers demonstrated in the Lustgarten against Hitler's appointment.
+- On the rumor (from Werner von Alvensleben, "a man so given to conspiracy that when one did not exist he invented one") that Schleicher and Hammerstein were preparing a coup to remove Hindenburg to Neudeck, Hitler mobilized the Berlin SA under Helldorf, instructed police Major Wecke to ready seizure of the Wilhelmstrasse with six police battalions, and had Blomberg sworn in as Defense Minister immediately to preempt any Reichswehr coup — per Hitler's own later account.
+- [SHIRER-THESIS]: Shirer's summary verdict — "No class or group or party in Germany could escape its share of responsibility for the abandonment of the democratic Republic... The cardinal error of the Germans who opposed Nazism was their failure to unite against it." He notes that at the Nazis' July 1932 electoral peak, 63% of Germans had voted against Hitler but never combined against him. Shirer's closing line for the chapter: "The Third Reich owed nothing to the fortunes of war or to foreign influence. It was inaugurated in peacetime, and peacefully, by the Germans themselves... The Germans imposed the Nazi tyranny on themselves" — a strong "self-imposed" causal thesis, useful alongside Kershaw's élite-miscalculation framing but distinct from it (Shirer spreads culpability across the whole society more evenly).
+- [AMBIGUOUS, flagged apocryphal by Shirer himself]: an anecdote has Hindenburg, watching the 30 January torchlight parade, remarking to an old general, "I didn't know we had taken so many Russian prisoners" — Shirer explicitly calls this "probably apocryphal," a variant of the "Ludendorff" version reported by Evans above; the two accounts should not be treated as independently corroborating.
+
+Source: [[shirer-rise-fall-third-reich-1960]].
+
 ## Sources
 
 - Kershaw (range): detailed reconstruction of backstairs negotiations, élite attitudes, and the mechanics of the transfer.
+- Shirer, *The Rise and Fall of the Third Reich* (1960).
 - Evans, *The Coming of the Third Reich* (2003), Parts 4–5 ([[evans-coming-of-third-reich-2003]]).
 - See also: [[reichstag-election-july-1932]], 13 August 1932 Hindenburg rejection, [[papen-franz-von|Franz von Papen]], [[hindenburg-paul-von|Paul von Hindenburg]], [[actors/adolf-hitler|Adolf Hitler]]
 
