@@ -8,8 +8,8 @@ region: [western-europe, northern-europe]
 process_type: political
 driven_by: [roman-frontier-policy, barbarization-of-the-roman-army, military-confederation]
 produces: [merovingian-franks, frankish-state-formation]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, late-antiquity, western-europe]
 ---
 
@@ -80,4 +80,10 @@ Magali Coumert's chapter in the [[sources/effros-moreira-oxford-handbook-merovin
 
 - [[ethnogenesis]] · [[gothic-peoples]] · [[comitatus]] · [[barbarization-of-the-roman-army]]
 - [[clovis]] · [[childeric]] · [[merovingian-franks]] · [[germanic-peoples]]
-- Source: [[geary-before-france-germany-1988]]
+- Source: [[geary-before-france-germany-1988]] · [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Franks appear among Rome’s Gallic enemies mid-third century; Maximian–Gennobaudes treaty **286** feeds Frankish service; by **355** many Franks influential at palace; Frankish *foederati* largest non-Roman western army contingents fourth century. Dual status exemplified by Mallobaudes as *comes domesticorum et rex Francorum*; Bauto and Arbogast dominate Valentinian II’s court. Procopius (*Bell. Goth.* 5.12) on fusion of free “Germans” (Franks), Armorici, and frontier Roman-military settlers preserving legionary standards/dress into his day — Christian intermarriage basis of unity. “Frankish foederati probably made up the largest non-Roman contingents of the fourth-century army in the Roman West… And in this way they were united into one people and came to have great power.” `part_of:` [[barbarization-of-the-roman-army]].
+
+Source: [[mitchell-later-roman-empire-2015]]

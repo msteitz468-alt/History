@@ -43,12 +43,29 @@ into Hannibal's camp — the moment, Goldsworthy notes, that Hannibal is said to
 recognized "the doom of Carthage." After the Metaurus the strategic initiative passed
 permanently to Rome.
 
-> Not to be confused with **Hasdrubal the Fair** (Hamilcar's son-in-law, who built up
-> Punic Spain and was assassinated in 221) or with the **Hasdrubal** who defended
-> Carthage in the [[third-punic-war-149-146bce|Third Punic War]].
+## Assessment (Hoyos)
+
+Dexter Hoyos ([[hoyos-hannibals-dynasty-2003|*Hannibal's Dynasty*]]) rates Hasdrubal a
+**mediocre field commander** relative to his father and brother across his ten-year Spanish
+command (218–208) — surprised by the Scipios' landing in 218, beaten at the Ebro's mouth
+(217) and Hibera (215), and repeatedly unable to control fellow commanders. His one great
+success, the destruction of the elder Scipios in 211, was left unexploited when the Punic
+generals quarrelled and dispersed. On the march to Italy Hoyos judges his early crossing
+"a textbook example of efficient achievement" wrecked by an unnecessary siege of Placentia.
+Notably, Hoyos lays the fatal **failure of the brothers to coordinate** before the
+[[battle-of-the-metaurus-207bce|Metaurus]] *more heavily on Hannibal* than on Hasdrubal:
+Hasdrubal sent couriers proposing a junction in Umbria, while Hannibal made no reciprocal
+effort and wandered inconclusively in the south.
+
+> Not to be confused with **[[hasdrubal-the-fair|Hasdrubal the Fair]]** (Hamilcar's
+> son-in-law, who built up Punic Spain and was assassinated in 221),
+> **[[hasdrubal-son-of-gisco|Hasdrubal son of Gisco]]** (the non-Barcid rival general), or
+> with the **Hasdrubal** who defended Carthage in the
+> [[third-punic-war-149-146bce|Third Punic War]].
 
 ## Related
 
 - [[hannibal]] · [[hamilcar-barca]] · [[scipio-africanus]] · [[carthage]]
 - [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-the-metaurus-207bce|Battle of the Metaurus]]
-- Source: [[goldsworthy-the-fall-of-carthage-2000]]
+- Dynasty: [[barcid-dynasty]] · brother: [[mago-barca]]
+- Source: [[goldsworthy-the-fall-of-carthage-2000]] · [[hoyos-hannibals-dynasty-2003|Hoyos]]

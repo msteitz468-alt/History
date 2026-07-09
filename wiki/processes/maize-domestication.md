@@ -8,7 +8,7 @@ region: [mesoamerica, north-america, andes, amazonia]
 process_type: technological
 driven_by: ["deliberate human selection over millennia", "the Mesoamerican Neolithic Revolution"]
 produces: ["the staple crop of the Americas", "the demographic base for Mesoamerican civilization", "a globally transformative crop after 1492 (the [[columbian-exchange-1492|Columbian Exchange]])"]
-sources_ingested: 3
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [process, neolithic, mesoamerica, north-america]
 ---
@@ -172,12 +172,98 @@ A.D. 1000–1200 both regions share corn–beans–squash–wild foods economies
 short-season hardiness drove farming’s greatest geographic expansion in the East; SW also
 practiced farming over its broadest area then.
 
+## From Evans & Webster 2001 — Agriculture, domestication, Tehuacán
+
+### Concepts and models (Scott L. Fedick)
+
+**Domestication** = genetic change under human selection (conscious or unconscious);
+**cultivation** = encouragement of growth. Foraging and agriculture form a continuum without a
+clear dichotomy. Agricultural origins were not a single “invention” but long plant–people
+interaction; no consensus on how/why agriculture arose in Mesoamerica. Domestication processes
+globally show striking synchronicity ~12,000–8,000 years ago. Pleistocene–Holocene transition
+produced strong seasonal rainfall altering highland plant communities and sea-level rise
+creating new coastal ecosystems—new challenges/opportunities, not a full explanation.
+
+**Hayden’s model:** complex hunter-gatherers in rich environments initiated food production for
+social advantage in competitive feasting. **Flannery’s systems model** for highland Mexico:
+hunter-gatherers adapted to Holocene plant communities; subsistence initially focused on
+mesquite, cactus fruits, maguey, white-tailed deer, cottontail; regulated by seasonality and
+scheduling with negative feedback; positive feedback from more productive maize/beans
+rescheduled procurement.
+
+### Maize and companion crops
+
+Maize was probably the most important Mesoamerican domesticate; earliest physical domesticated
+maize from [[tehuacan-region|Tehuacán Valley]] and Basin of Mexico ~**5000 B.C.** (MacNeish-era
+dates; later AMS revises many early cobs younger—preserve CHNPA/B.D. Smith layers above).
+Current research supports origin from teosinte (*Zea mays* subsp. *parviglumis* or *mexicana*);
+genetic research places most likely domestication in Basin of Mexico or **Río Balsas** region
+of Jalisco. Common bean (*Phaseolus vulgaris*): multiple independent domestications;
+selection for larger size possibly as early as 7000 B.C. in Tamaulipas; earliest domesticates
+~5000 B.C. Tehuacán. Cucurbits (*C. pepo*) may be among earliest New World domesticates.
+Chiles: wild gathered before 5000 B.C.; cultivation/domestication before 3500 B.C. Final
+Archaic millennium domesticates in western Mesoamerica included maize, beans, squashes, chile
+peppers; by **1500 B.C.** sedentary farming and maize becoming staple most of Mesoamerica;
+key crops domesticated 3000–3300 B.C. then disseminated (Reed; Feinman). Cotton boll fragments
+common in Tehuacán by **3500 B.C.**
+
+### Tehuacán Coxcatlán–Abejas (MacNeish)
+
+Coxcatlán phase (c. 5700–3825 BCE): still nomadic collectors accumulating domesticates—early
+domesticated maize, chile, avocados, gourds; later amaranth, tepary beans, zapotes, *C.
+moschata*. Incipient agriculture with **multiple origins** across Nuclear America and southern
+US, not a single center. Abejas (3825–2600 BCE): more sedentary; some year-round terrace
+pit-house settlements; hybrid maize with teosinte introgression; still **>70% wild foods**—
+Neolithic evolution, not revolution. Guila Naquitz abandoned too early to document maize
+domestication (Flannery).
+
+### Lowland lag and Mokaya isotopes
+
+Staple cultigens first domesticated outside the Maya region in Mexican highlands; spread after
+~3000 B.C.; Lowland forest clearance ~2500–2000 B.C.; Copán maize pollen before 1700 B.C.
+(Webster). Mokaya ([[soconusco|Soconusco]]) cultivated maize, beans, and avocados but relied
+heavily on fishing/hunting; isotopic C/N analysis indicates maize was **not** a large dietary
+share until after ~**900 B.C.** (Blake). Intermediate Area had no single maize staple—mixed
+subsistence all periods (Lange).
+
+### Intensification technologies
+
+Terracing widespread (erosion control, moisture, runoff). Irrigation history ~3,000 years;
+earliest canal systems ~**1000 B.C.**; Teopantecuanitlan storage dam + canal (likely 1200–1000
+B.C.); Santa Clara Coatitlan Middle Formative; peak irrigation extent Postclassic ~A.D.
+1200–1520. After maize, manos and metates dominate food-processing ground stone (Garber).
+
+### Agave complement (Jeffrey R. Parsons)
+
+*Agave* (maguey) fiber and cooked flesh used by pre-agricultural highland Mexicans millennia
+ago. Historic full domestication of large highland “pulque maguey” species above ~1,800 m.
+Complements seasonal seed agriculture: year-round production, doubles caloric yield when
+interplanted, extends agriculture onto thin/dry/cold soils, stabilizes soil. Goddess Mayahuel
+identified with maguey/pulque.
+
+Source: [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]
+(Agriculture and Domestication; Agave; Tehuacan Region; Mazatan; Ground Stone Tools).
+
+## Guilá Naquitz squash and the Flannery systems model (Fagan & Durrani 2020)
+
+Fagan & Durrani (2020) treat Flannery's Guilá Naquitz work (Oaxaca, 8000–4000
+BCE) as the exhibit for their ecological-systems account of Mesoamerican
+domestication: subsistence modeled as an interacting "systems" ecology (deer,
+rabbits, maguey, legumes, prickly pears) in which deliberate small-scale
+planting of maize and other crops gradually displaced foraging, becoming
+self-perpetuating with its own scheduling demands and reaching a fully
+agricultural bean-and-corn diet by 2000 BCE. AMS-dated **squash cultivation at
+Guilá Naquitz to ~8000 BCE** is as early as Southwest Asian cereal domestication.
+Maize/teosinte itself is earliest attested in the **Río Balsas region** of SW
+Mexico ~6700 BCE, established by 4000 BCE. (Fagan & Durrani 2020)
+
 ## Related
 
 [[pre-columbian-americas]] · [[olmec]] · [[maya-civilization]] · [[norte-chico]] · [[aztec-empire]] ·
 [[columbian-exchange-1492]] · [[mann-1491-2005]] · [[early-agriculture-americas]] ·
-[[paleoindian-and-archaic-mesoamerica]] · [[domestication]] ·
+[[paleoindian-and-archaic-mesoamerica]] · [[domestication]] · [[tehuacan-region]] · [[soconusco]] ·
 [[north-american-agricultural-transition]] · [[eastern-seed-crop-complex]] ·
 [[southwest-agricultural-development]] · [[mississippian-culture]] ·
 [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 2]] ·
-[[sources/cambridge-history-native-peoples-americas-v1-1|CHNPA I.1 Ch. 4–5]]
+[[sources/cambridge-history-native-peoples-americas-v1-1|CHNPA I.1 Ch. 4–5]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

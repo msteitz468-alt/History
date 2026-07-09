@@ -8,8 +8,8 @@ region: [near-east, iran-plateau, mediterranean, western-europe]
 process_type: [political]
 driven_by: [[[ilkhanate]], "the Ilkhans' war with the Mamluks", "Latin crusade hopes", [[medieval-european-images-of-the-mongols|the image of the Mongols as an anti-Muslim ally]]]
 produces: ["the failure to save the Crusader states (1291)", "abortive joint operations", "Ghazan's Syrian campaigns"]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, high-middle-ages, late-middle-ages, near-east]
 ---
 
@@ -72,9 +72,20 @@ restored Frankish states), the illusory hope of Mongol conversion, papal distrac
 superior Mamluk intelligence all defeated it. Its failure helped seal the **end of the
 Crusader states (1291)**, and it ended formally with the Ilkhanate–Mamluk peace (c. 1322).
 
+## From Cobb, *The Race for Paradise* (2014)
+
+[[cobb-race-for-paradise-2014|Cobb]] frames the Mongol shock and abortive Frankish–Ilkhanid joint war from the Mamluk–Muslim side of the ledger.
+
+**Mongol conquest background.** Chinggis Khan’s armies devastated Islamic Central Asia and Iran **1219–1223** (cities refusing submission razed; inhabitants massacred or carted to Mongolia). **1243**: Saljuqs of Rum made vassals; by **1258** the rest of Iran and most of Iraq including Baghdad were subjugated—scenes “far more horrific than even the early invasions of the Franks into Syria.” Until the **1330s** the Near East was administered as a separate Mongol Great Khan domain under an *il-khan* (at first pagan). Mamluk anxiety about Mongol invasion **and** Frankish–Mongol alliance was a constant of policy; Mongol displacement of Qipchaq Turks fed the Black Sea–Cairo slave markets that supplied the Bahri mamluks.
+
+**1260: asymmetric Frankish choices.** Bohemond VI of Antioch (and Tripoli) “unambiguously” allied with the Mongols via his Armenian father-in-law; Latin leaders at Acre kept “benevolent neutrality.” Late spring **1260** Hülegü left Syria for China (Great Khan brother’s death), leaving Kitbuga (a Christian) with a reduced force and a pliable Ayyubid lord of Homs as Mongol governor of Syria. At [[battle-of-ain-jalut-1260|ʿAyn Jalut]] (**3 Sept 1260**) Acre Franks offered men—Qutuz declined. Cobb hedges hindsight triumphalism: contemporaries were not consoled; Mongols threatened for decades until a **1323** Cairo treaty.
+
+**Joint-war attempts that fizzled.** Edward I at Acre opened negotiations with the Mongol il-khan for joint operations against Baybars—produced only a minor Mongol raid Baybars easily dispatched (Baybars also tried to assassinate Edward with alleged Nizari help). March **1274** Council of Lyon: Mongol il-khan of Persia’s representatives; their leader underwent public baptism to underline Ilkhanate commitment to a papal alliance against the Mamluks—“in the end nothing came of this nightmare scenario”; Frankish kings lost interest after Gregory’s death two years later (not lack of Mongol enthusiasm). Post-**1291**: Mongols defeated Mamluks and briefly occupied Damascus **1299–1300**, were repulsed near Damascus **1303**, barely crossed the Euphrates **1312**; **1323** lasting Mongol–Mamluk peace—“nearly a century after Chinggis Khan’s first predations on the lands of Islam.”
+
 ## Related
 
 - [[ilkhanate]] — the Mongol partner; [[mamluk-sultanate]] — the common enemy; [[battle-of-ain-jalut-1260]] — the check that set it in motion.
 - [[crusades]] — the Western side; [[medieval-european-images-of-the-mongols]] — the "ally against Islam" image.
 - [[golden-horde]] — the Ilkhanate's Mongol rival (allied with the Mamluks); [[jackson-mongols-and-the-west]] — the source.
 - [[cilician-armenian-kingdom]] and [[hetum-i-of-cilician-armenia|Hetum I]] — the Christian state that voluntarily allied with the Mongols (1253), the alliance's most committed Frankish-side partner.
+- [[baybars]] · [[crusader-states]] · [[cobb-race-for-paradise-2014|Cobb, *The Race for Paradise* (2014)]]

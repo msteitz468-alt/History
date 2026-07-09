@@ -20,8 +20,8 @@ produces:
   - "political and cultural activism in diaspora settings"
   - "demographic stress on home island communities"
   - "questions of citizenship, ethnicity, and indigenous status"
-sources_ingested: 2
-last_updated: "2026-06-27"
+sources_ingested: 3
+last_updated: "2026-07-08"
 tags: [process, cold-war, contemporary, oceania, polynesia, melanesia, micronesia, demographic]
 ---
 
@@ -95,6 +95,14 @@ Migration raises fundamental questions about who counts as "Pacific Islander" an
 - [[pacific-voyaging-and-settlement]]
 - [[denoon-cambridge-pacific-islanders-1997]]
 
+
+## Fagan & Durrani (2020): the deep-time gap, Sahul/Australia, and near- vs. remote-Oceania
+
+Fagan & Durrani (2020) supply the deep-prehistoric bookend to this process — the very first, tens-of-millennia phase of movement into and across Oceania, long before the migration streams treated above. *Homo sapiens* had reached Southeast Asia (Indonesia, the Philippines) by at least 45,000 BP via the exposed Sunda continental shelf, but colonizing Sahul (the combined Pleistocene landmass of Australia and New Guinea) required a genuine open-water crossing of at least 98 km (61 mi) — which the authors call "an entirely feasible proposition in simple watercraft in warm tropical waters." New Guinea's earliest settlement evidence comes from the Huon Peninsula, with ground stone axes dated to roughly 40,000 years ago. Fishing communities were established on New Britain Island (48 km offshore) by at least 32,000 BP, and settlers reached Buka Island in the northern Solomons — a further 130–180 km — roughly 4,000 years later, around 28,000 BP: evidence, in the authors' words, of "rapid spread of late Ice Age foragers through Sahul by at least 40,000 years ago, using some form of quite effective watercraft."
+
+**Sahul/Australia note:** Direct archaeological dates for Australia are now contested against genetic ceilings. Fagan & Durrani state occupation is "well documented after 45,000 years ago and possibly as early as 60,000 BP," citing the Malakunanja rock shelter (Arnhem Land: stone tools plus ochre and grindstones dated to ~60,000 BP), the similar Nauwalabila site, and the more recently dated Madjedbebe (~65,000 BP). This conflicts with genetic data suggesting a maximum age of no more than 50,000 BP for the human movement into Australia/New Guinea — a direct archaeology-vs-genetics tension the authors note without resolving. Willandra Lakes Region preserves shell middens and campsites dated ~37,000–26,000 BP, the earliest human skeletal remains found in Australia (robust, anatomically modern), and roughly 450 footprints of hunters (some individuals estimated at 1.98m/6'6") preserved in dried mud under sand dunes, dated to ~22,000 BP. Tasmania — reached via the then-dry land strait joining it to mainland Australia — was settled by 33,000 BP, described as "the most southerly region of the earth settled by Ice Age people," and remained occupied through the glacial maximum, with inhabitants hunting red wallabies.
+
+**The near-/remote-Oceania gap:** This early Sahul-and-Solomons wave (Solomon Islands settlement by ~30,000 BC per the authors' chronology) stands in stark contrast to the much later colonization of the remote Pacific — Hawaii and Tahiti by roughly AD 600, Rapa Nui (Easter Island) by roughly AD 1200, and New Zealand by roughly AD 1000 — confirming a huge temporal gap of tens of thousands of years between the peopling of "near Oceania" (Sahul and the adjacent Solomons) and the much later "remote Oceania" voyaging captured in the Lapita-descended dispersal and in the later migration streams detailed above.
 
 ## Fischer (2002): "contemporary voyaging" and the MIRAB Pacific
 

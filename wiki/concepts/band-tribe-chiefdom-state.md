@@ -5,8 +5,8 @@ origin: "Elman Service, Primitive Social Organization (1962); elaborated in Nort
 applies_to_periods: ["Deep Prehistory", "Early Prehistory", "Late Prehistory", "Behavioral Modernity", "Mesolithic", "Neolithic", "Chalcolithic", "Early Bronze Age", "Middle Bronze Age", "Late Bronze Age", "Early Iron Age", "Archaic Period", "Classical Antiquity"]
 applies_to_regions: [north-america, mesoamerica, caribbean, south-asia, east-asia, europe, africa, near-east]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -75,6 +75,24 @@ The typology implies a set of mechanisms that drive transitions between types:
 This typology is **etic** — it is an analytical framework imposed by social scientists, not a set of categories that historical actors recognized or applied to themselves. Historical societies did not call themselves "chiefdoms" or "tribes." The utility of the schema is cross-cultural comparison and the generation of testable hypotheses about social organization.
 
 Service's typology has been tested against ethnographic databases (Ember 1963; Hays 1998; Murdock 1962; Murdock and Provost 1973; Naroll 1956). Hypotheses derived from it can be evaluated empirically.
+
+## Fagan & Durrani (2020): A Contested Heuristic, Not a Ladder
+
+[[fagan-world-prehistory-2020|Fagan & Durrani (2020)]] independently corroborate
+this page's framing of Service's typology as a heuristic rather than a settled
+sequence: they note that current scholarship increasingly debates "the relative
+complexity of chiefdoms" and reframes the whole question as being "not so much
+stages of social complexity, but the whole issue of complexity itself." They
+state the branching, non-hierarchical alternative explicitly — "no single
+society, however simple or complex, is superior to another... civilization... is
+only one way of adapting to the world's many environments" — treating cultural
+evolution as multilinear rather than a single ladder from band to state. They
+also stress that agricultural sedentism, not agriculture itself, was the more
+consequential driver of social and political change in early farming societies
+("the greatest changes in the new farming societies were social and political
+rather than economic"), and that ranking is archaeologically visible in burials
+only well after food production began — the earliest farming villages were
+egalitarian.
 
 ## Critique and Limitations
 

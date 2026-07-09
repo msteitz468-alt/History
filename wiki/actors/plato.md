@@ -9,8 +9,8 @@ affiliated_with: [the Academy, Socrates (his teacher), Dion of Syracuse, the Pyt
 opposed_by: [Isocrates (rival educator), the sophists, the rhetorical tradition]
 key_events: [the death of Socrates 399 BCE, the founding of the Academy c. 387 BCE, the Sicilian visits to Dionysius I and II]
 key_processes: [the formation of the philosophical schools, the theory of Forms, the professionalization of higher education]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, aegean, greece]
 ---
 
@@ -78,12 +78,33 @@ Roman, Islamic and medieval** worlds. He is the supreme instance of the fourth-c
 paradox: as Athens declined politically, it rose to lasting cultural and intellectual
 supremacy.
 
+## OHCW (Annas) — dialogue form, Forms, and late re-engagement
+
+[[boardman-oxford-history-classical-world-1986|OHCW (1986)]], Ch. 10 (Julia Annas), argues against treating Plato as a philosophical zero point: Greek philosophy already had a long history (cosmology, Heraclitean inward turn, Eleatic argument) when he wrote; early dialogues **rebel** against that tradition. Plato (c.427–c.347) retained Socratic suspicion of writing (*Phaedrus* 274b–277a); chose **dialogue** so readers participate rather than learn doctrines. He never speaks in his own person and **never commits *in propria persona*** to a single Platonic system; later “Letters,” including the Seventh, are unreliable bases for doctrine.
+
+**Chronology of dialogues.** Traditional early (*Apology*, *Crito*, *Euthyphro*…), middle (*Gorgias*, *Meno*, *Phaedo*, *Symposium*, *Republic*, *Phaedrus*, *Cratylus*; *Timaeus*/*Critias* placement disputed), late (*Theaetetus*, *Parmenides*, *Sophist*, *Statesman*, *Philebus*, *Laws*). Stylometry (hiatus avoidance) is fragile; the real divide is early personal urgency vs middle/late didactic length and thin drama.
+
+**“Theory” of Forms.** Annas rejects a dominating unified Theory: Forms appear rarely and untechnically, answer varied needs, are prominent mainly early–middle. Core idea: Form F is essentially F, while worldly F-things also admit opposites; range (Beds, substances, evil Forms) is unsettled. [[aristotle|Aristotle’s]] *On the Forms* concludes Plato has no single coherent theory; *Parmenides* looks like self-criticism without explicit morals. “The ‘Theory’ of Forms is not a theory at all, but an imaginative holding together of different ideas.”
+
+**Academy and late work.** Late dialogues likely coincide with founding of the Academy and cooperative teaching — philosophy as impartable endeavour rather than only intense personal insight. Plato re-engages cosmology (*Timaeus*), Eleatic problems (*Parmenides*, *Sophist*), rhetoric (*Phaedrus*), language (*Cratylus*), practical political history (*Statesman*, *Critias*, *Laws*) — closer to formerly despised [[sophists|sophistic]] approaches. Unwritten mathematical metaphysics (One and Indefinite Two) reported mainly via Aristotle’s critique. Academy continued (Speusippus, Xenocrates; later New Academy) while Lyceum research commitment narrowed after Theophrastus/Strato (Annas; Barnes OHCW Ch. 15: Arcesilaus converted Academy to scepticism c.270). Griffin (Ch. 3): Plato demands radical censorship of myths once *mythos* yields to *logos*. Murray (Ch. 9): Academy and Lyceum names from **gymnasia**; polarity philosophy vs Isocrates’ rhetoric shapes later antiquity. Metics such as Cephalus (host of the *Republic*) illustrate non-citizen elite sociability.
+
+## Freeman (2014) — Popper's totalitarianism thesis and its counter
+
+[[sources/freeman-egypt-greece-rome-2014|Freeman (2014)]] surveys the tripartite soul
+(reason/spirit/appetite) mapped onto the *Republic*'s class structure, the cave allegory,
+and Plato's explicit critique of democracy as "a ship without a captain" — reinforced,
+Freeman notes, by the real-world failure of the philosopher-king idea in the Sicilian
+ventures with Dion and Dionysius II. He then stages, as a live scholarly-political debate
+rather than a settled question, **Karl Popper's** thesis (in *The Open Society and Its
+Enemies*) that Plato is a direct ancestor of totalitarianism, against a counter-reading
+that Platonism can equally ground critiques of dictatorship — appeal to transcendent
+justice against majoritarian tyranny — noting the irony that Robespierre's own rhetoric
+drew on Platonic language while inaugurating the Terror.
+
 ## Related
 
-- Teacher: Socrates · school: the Academy · successor: Speusippus · pupil: [[aristotle]]
-- Rival: Isocrates · context: [[fourth-century-greek-historiography]] · [[sophists]]
+- Teacher: [[socrates]] · school: the Academy · successor: Speusippus · pupil: [[aristotle]]
+- Rival: Isocrates · context: [[fourth-century-greek-historiography]] · [[sophists]] · [[presocratics]]
 - Sicily: [[dionysius-i]] · [[dionysius-ii]] · Dion ([[dion-of-syracuse]])
-- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 12a, Ostwald & Lynch); his political ventures at
-  Syracuse, in the comparative frame of intellectuals-in-politics, are treated in
-  **[[vatai-intellectuals-in-politics|Vatai, *Intellectuals in Politics in the Greek World*]]** (the
-  failed philosopher vs. the successful sage-reformer Solon).
+- Sources: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 12a, Ostwald & Lynch); [[boardman-oxford-history-classical-world-1986]] (Annas Ch. 10; Murray Ch. 9; Griffin Ch. 3); political ventures at
+  Syracuse in **[[vatai-intellectuals-in-politics|Vatai, *Intellectuals in Politics in the Greek World*]]**.

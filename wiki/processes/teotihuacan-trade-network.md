@@ -15,7 +15,7 @@ produces:
   - Teotihuacan cultural influence and outposts in Maya area, Gulf Coast, Pacific Guatemala
   - import of Thin Orange Ware, Granular Ware, prestige materials
   - diplomatic and commercial relationships with Zapotec and other polities
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [process, mesoamerica, late-antiquity]
 ---
@@ -138,4 +138,41 @@ Teotihuacan's trade network contracted before and collapsed with the state. By t
 - [[feathered-serpent-pyramid]] — Pachuca obsidian prestige objects in sacrificial deposits
 - [[teotihuacan-collapse-550ce]] — network contraction and end
 - [[xochicalco]] · [[cacaxtla]] — Epiclassic rise as marker of declining Teotihuacan dominance
-- [[cowgill-ancient-teotihuacan-2015]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6]]
+- [[cowgill-ancient-teotihuacan-2015]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6]] · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]
+
+## Evans & Webster 2001
+
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster (eds.) 2001]]
+densifies craft volume, enclave geography, and Pachuca mining detail (**EW2001**).
+
+**Basin primacy and foreign barrios (Parsons):** Classic Teotihuacan at least **ten times
+larger** than any other known Classic Basin settlement; rural Basin population outside the
+city small, sparse, and evenly distributed — possible deliberate control for security,
+demographic replenishment, and access to salt, timber, and cotton. After the third century
+A.D., pan-Mesoamerican significance: Oaxacan-style tombs/pottery near western border; Gulf
+Coast and Maya pottery with circular buildings near eastern periphery; **Thin Orange**
+produced ~150 km SE; linkages with Cholula, Monte Albán, Kaminaljuyú, Matacapan, and Tikal.
+
+**Craft and obsidian (Feinman; Pastrana & Athie):** Specialists produced diverse obsidian
+items, figurines, ceramics, shell and gemstone ornaments in great volume (especially blades)
+distributed across Mesoamerica; relative role of long-distance exchange, particularly
+obsidian export, remains a key research question. **Sierra de las Navajas–Pachuca** (Hidalgo):
+most studied Mexican source (green/transparent/golden/meca); mines as circular shafts 0.8–
+1.2 m diameter, 8–10 m deep to rooms ~2 m; workshops for rasps, bifaces, prismatic cores;
+supplied green obsidian to Teotihuacan, Toltecs, and Aztecs into early Colonial; **widest
+distribution in the Postclassic**.
+
+**Enclaves and models (Santley; others):** Middle Classic influence included enclaves at
+Kaminaljuyú, Matacapan, and other sites (military conquest **or** commercial colonies);
+formalization of political/economic relationships at Tikal, Monte Albán, and Cerro de las
+Mesas; exchange of Teotihuacan products especially obsidian across much of Mesoamerica;
+imitations of Teotihuacan ceramics made. Matacapan: talud-tablero temple platforms,
+candeleros, cylinder tripods — interpreted as partly a Teotihuacan ethnic enclave, possibly
+relocated for entrepreneurial or state economic reasons, with specialized ceramic industry.
+Northern Maya Lowlands (mid-fifth to late sixth century): green obsidian blades/points/
+eccentrics; Yaxuna “Mexican” warrior stela fragment; pure Teotihuacan-style frescoes at
+Xelha; Becan cache with Teotihuacan-style figurines — interaction likely highland obsidian
+for lowland salt and forest products. Altun Ha offering c. A.D. 250–300 as early
+intellectual/political (not economic) link. Smith & Hirth use “empire” language for eastern/
+central Morelos incorporation — stronger than Cowgill’s limited-core-area stance; record as
+position, not consensus.

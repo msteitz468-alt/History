@@ -120,9 +120,21 @@ simultaneously seized Sardinia, a seizure Polybius himself called "contrary to a
 The phrase "the camp had truly come to Carthage" frames the war as the moment the
 mercenary system's contradictions came home.
 
+## Political consequence: the Barcid ascendancy (Hoyos)
+
+For Dexter Hoyos ([[hoyos-hannibals-dynasty-2003|*Hannibal's Dynasty*]]) the war's most
+important legacy was political: victory made [[hamilcar-barca|Hamilcar]] supreme in Punic
+affairs and launched the [[barcid-dynasty|Barcid dynasty]]. The turning point of the
+campaign was the defection of the Numidian prince **Naravas** with 2,000 cavalry, won by
+Hamilcar's promise of alliance and a daughter in marriage — the first of the marriage-
+alliances that became a signature Barcid instrument of rule. Hoyos also traces the joint
+Hanno–Hamilcar command breakdown (resolved by the unprecedented step of letting the troops
+vote which general to keep) and situates Rome's opportunistic seizure of Sardinia (237) as
+the humiliation that fed Hamilcar's Spanish project.
+
 ## Related
 
 - Event: [[first-punic-war-264-241bce]] (immediate cause) · [[pyrrhic-war-280-275bce]]
-- Actor: [[carthage]] · [[roman-republic]] · [[hamilcar-barca]]
+- Actor: [[carthage]] · [[roman-republic]] · [[hamilcar-barca]] · [[barcid-dynasty]]
 - Context: [[carthage-syracuse-rivalry|the mercenary system]] · [[punic-faith]]
-- Source: [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard) · [[miles-carthage-must-be-destroyed-2010]]
+- Source: [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard) · [[miles-carthage-must-be-destroyed-2010]] · [[hoyos-hannibals-dynasty-2003|Hoyos]]

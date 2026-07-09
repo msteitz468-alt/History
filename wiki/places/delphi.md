@@ -7,8 +7,8 @@ period_active: [Early Iron Age, Archaic Period, Classical Antiquity]
 controlled_by: [the sanctuary community of Delphi (in Phocis), then the Amphictyonic Council after the First Sacred War]
 events_here: [the blossoming of the oracle (~750), the First Sacred War and destruction of Crisa (~595–590), the Amphictyony's takeover, the rebuilding of the temple after the fire of 548]
 processes_here: [[[greek-colonization|Greek colonization]] (oracular sanction), Archaic political revolution, the panhellenic sanctuary]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, central-greece, mediterranean, archaic-period, greece]
 ---
 
@@ -44,7 +44,7 @@ all to Delphi for divine sanction" before founding a colony — Cicero's questio
 colony did Greece send out without a prophecy from Pytho?" The oracle gave colonists a
 **moral title to other men's land**, and every foundation story duly acquired its (often
 forged) oracle. Forrest argues the pattern is partisan, not neutral: in the
-[[lelantine-war|Lelantine War]], **every** colony of Chalcis and her allies (Corinth,
+[[lelantine-war-c700bce|Lelantine War]], **every** colony of Chalcis and her allies (Corinth,
 Thessaly, Sparta) had a Delphic foundation-legend, while Eretria's side had none —
 Delphi "had been adopted by the winning side."
 
@@ -94,8 +94,17 @@ revered privately but no longer able to make governments or wars.
   Ionian after 600) tracks the rise of tyranny, the Alcmaeonids, and the coming Persian
   crisis.
 
+## Hall (2014) — amphictyony, First Sacred War skepticism, Serpent Column
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]: against eighth-century panhellenic consensus, monumental temples/treasuries and stephanitic games at Delphi mainly late seventh–sixth (Pythian games reorganized 582). Early sanctuary phases show local dining then broader dedications; some Bronze Age cult sites (perhaps Delphi) have Dark Age blanks. **Amphictyony** originally at Anthela (Demeter); early members Dorians, East Locrians, Ainianes, Malians; equal votes of later-subordinate Magnesians/Perrhaebi/Phthiotid Achaeans imply enrollment before Thessalian hegemony; control of Delphi tied to Thessalian interest in the “Great Isthmus Corridor.”
+
+**First Sacred War:** virtually no literary evidence predates the fourth century; fullest clusters in 340s–330s; Herodotus’ silence on Solon/Alcmaeon/Cleisthenes of Sicyon is troubling; chronological squeeze 594–585; Hall prefers agnosticism — inventing a Sacred War from nothing was risky, but famous names accreted; kernel is amphictyonic (not local) administration and ban on cultivating sacred land already before 480, likely after multi-year hostilities against locals.
+
+**Serpent Column (ML 27):** after Plataea, gold tripod on bronze serpents listed **31 allies** — Hall’s standing document that only a minority of poleis resisted Persia. Delphi also open to Lydian kings as aristocratic partners before “barbarian” ideology hardened post-480.
+
 ## Related
 
 - Process: [[greek-colonization]] (oracular sanction) · [[greek-tyranny]] · backers: Cypselus · Pheidon · [[lydia|Croesus]]
 - Amphictyony: Thessaly · [[thessaly]] · the First Sacred War (Crisa) · region: [[phocis|Phocis]]
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p3-1982]] (Ch. 41, Forrest)
+- Persian Wars: Serpent Column (31 allies) · [[battle-of-plataea-479bce]] · [[greco-persian-wars-499bce]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 41, Forrest); [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

@@ -9,8 +9,8 @@ affiliated_with: [the eastern Roman (Byzantine) empire, Chalcedonian Christianit
 opposed_by: [the Lombards, the Avars and Slavs, the Sasanids (Khusro I and II)]
 key_events: [the Lombard Invasion of Italy (568), the loss of Sirmium to the Avars (582), the overthrow of Maurice (602)]
 key_processes: [the unravelling of Justinian's reconquest, the militarization preceding the seventh-century crisis]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, anatolia]
 ---
 
@@ -69,3 +69,11 @@ c. 600 is chosen precisely here, before the Persian and Arab wars made the trans
 - Continues the [[eastern-roman-empire-425-518|eastern empire]] and [[late-roman-army|army]] into their final
   late-antique phase
 - Source: [[cameron-cah-v14-2000]] (Chs 4 & 14, Averil Cameron and Michael Whitby)
+
+## From Mitchell, Later Roman Empire (2015)
+
+Attributed claims from [[sources/mitchell-later-roman-empire-2015|Stephen Mitchell, *A History of the Later Roman Empire* (2015)]].
+
+- **Fiscal failure and the aristocratic pact resumed.** Early Justinianic centralized fiscal rigor (John the Cappadocian) opposed landowning aristocrats who pocketed estate revenues (esp. Egypt). Plague losses and disastrous harvests 536–548 cut tax revenue amid heavy war spending; “In the longer perspective the setbacks of this period marked a further decline in the state’s fiscal authority, and Justinian’s successors had no option but to resume the pact with the great landowners. This ensured social stability at the price of a weaker state.” Egyptian papyri and Ravenna documents still show a thorough administrative machine in the later sixth century. Related: [[late-roman-economy|late Roman economy]]; [[justinian|Justinian]].
+- **Justin II’s war 572–73: Dara lost; Sophia regency; Tiberius adopted.** Justin paid the 569 three-year installment but refused annual payments from 572; other grievances included Persarmenia and Turkish alliance plotting. Khusro took Dara after a six-month siege (573); Adarmahan ravaged the Orontes (Apamea burned). “The loss of Dara is said to have driven Justin II mad.” Sophia brokered 574 terms (payments; Armenia unresolved); Tiberius II adopted — virtual regency until Justin’s death 578. Related: [[khosrow-i|Khosrow I]]; [[sasanian-empire|Sasanian Empire]].
+- **Maurice’s rise and early reign stress.** Formative years under Tiberius rebuilt Roman discipline; Maurice (author of military tactics) led 578 Tigris campaign and 580–81 Media/Mesopotamia operations; defeated Sassanians near Constantina 582 then became emperor (Tiberius d. Aug 582). Early reign: exiled treacherous Ghassanid Al-Mundhir and son Numan; pay cut 587 sparked Easter 588 Mesopotamian mutiny (Germanus elected by troops); bishop of Antioch effectively secular as well as ecclesiastical leader for recruitment/logistics. 589 Martyropolis betrayed to Persians.

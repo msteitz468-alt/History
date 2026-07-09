@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: hemispheric
 causes: [[[second-punic-war-218-201bce]], Scipio's invasion of Africa (204), the recall of Hannibal from Italy (203)]
 consequences: [the surrender of [[carthage]], the peace of 201, Roman supremacy in the western Mediterranean, the rise of [[masinissa|Numidia]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, north-africa, battle]
 ---
 
@@ -67,10 +67,30 @@ his use of cavalry and of lanes against the elephants — rests largely on Polyb
 whose Scipionic sympathies colour the account. Walbank's commentary is the
 standard control.
 
+### CHGRW contribution
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|Sabin (CHGRW I.13A)]] treats
+Zama as a key test case: Hannibal’s three-line infantry (emulating Rome) became a fiasco as
+lines fought each other in the trap; elephants seen off by lanes and light infantry; cavalry
+returned just in time. Polybius credits Hannibal’s ad hoc multi-line with keeping veterans
+fresh enough nearly to beat tired legionaries — yet Roman structural advantages and Scipio’s
+generalship produced near-total Punic infantry destruction (more than 20,000 killed and almost
+as many captured). See [[sabin-lost-battles-model]].
+
+### OHCW (Boardman/Griffin/Murray 1986) — Crawford & Rawson
+
+Crawford (Ch. 16): after confining Hannibal in Bruttium, recovering Sicily, and taking
+Spain, Rome transferred the war to Africa; Hannibal was recalled 203 and defeated at
+**Zama 202**. Rawson (Ch. 17) marks Zama as the hinge after which Spain was permanent
+and whole Sicily provincial — the western settlement of the Second Punic War.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Chs. 16–17).
+
 ## Related
 
 - Part of: [[second-punic-war-218-201bce]] · victor: [[scipio-africanus]] ·
   vanquished: [[hannibal]] · ally: [[masinissa]]
 - Contrast: [[battle-of-cannae-216bce]] (the envelopment reversed)
 - Tactical analysis (hubs/warfare): [[hubs/warfaresecond-punic-war/battle-of-zama-202bce|Zama — Tactical Analysis]]
-- Source: [[astin-cah-v8-1989]] · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy, *The Fall of Carthage*]]
+- Source: [[astin-cah-v8-1989]] · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy, *The Fall of Carthage*]] ·
+  [[boardman-oxford-history-classical-world-1986]] (Chs. 16–17)

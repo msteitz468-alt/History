@@ -14,8 +14,8 @@ scale_immediate: civilizational
 scale_consequential: hemispheric
 causes: [[[sea-peoples|Sea Peoples]], systems collapse, drought and famine, internal social breakdown, [[mycenaean-civilization|palace-economy fragility]], earthquake destructions]
 consequences: [[[early-iron-age|Early Iron Age]], [[philistines|Philistine settlement]], [[greek-dark-age|Greek Dark Age]], collapse of palatial literacy, [[phrygians|Anatolian reconfiguration]], rise of small territorial kingdoms]
-sources_ingested: 4
-last_updated: 2026-06-27
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [event, transition, late-bronze-age, bronze-age-collapse, early-iron-age, near-east, aegean, mediterranean]
 ---
 
@@ -190,6 +190,22 @@ Bryce and Liverani diverge is provenance of the Sea Peoples (Anatolia vs. the Ba
 emphasis; both reject the old invasion-driven monocausality. (Bronze Age Collapse causation
 is a standing controversy in the project framework.)
 
+## Freeman: the Uluburun shipwreck as evidence of system integration
+
+Charles Freeman ([[freeman-egypt-greece-rome-2014|*Egypt, Greece, and Rome*]], 2014)
+cites the **Uluburun shipwreck** (dendrochronology + radiocarbon dating the sinking
+to c. 1304 BCE) as concrete evidence for just how integrated the pre-collapse trade
+system was: its cargo shows a circuit linking the Levant, Cyprus, Anatolia, likely
+Mycenae and Crete, and Egypt — ivory, glass, cylinder seals, Cypriot copper ingots,
+Egyptian ebony, and bronze tools of mixed origin, "trade conducted at a
+sophisticated level with commercial acumen and mature systems of credit." He treats
+this as supporting evidence for a "systemic overextension" reading of the
+Collapse — that the interlocking trading relationships had become over-extended and
+that taxation had alienated rural populations — and cautions that Egyptian sources
+may overstate the [[sea-peoples|Sea Peoples]] as invaders when some may partly be
+"the result of the breakdown of order rather than its instigators," possibly
+including mercenaries in the pay of Egypt's own neighbors.
+
 ## Historiography
 
 This is one of the standing controversies named in the project framework
@@ -237,3 +253,4 @@ This is one of the standing controversies named in the project framework
 - [[greek-dark-age|Greek Dark Age]]
 - [[philistines|Philistines]]
 - [[edwards-cah-v2p2-1975|CAH Vol. II, Part 2 (source)]]
+- [[freeman-egypt-greece-rome-2014|Freeman (2014)]]

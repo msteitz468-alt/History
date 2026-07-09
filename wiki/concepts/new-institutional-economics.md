@@ -95,10 +95,24 @@ language of a live causal dispute — strong-states (North, Acemoglu) vs.
 private-order (Greif) vs. urban-competition (Gelderblom) — recorded at
 [[institutional-foundations-european-trade]].
 
+## Application to Greco-Roman Law (Frier and Kehoe)
+
+Bruce Frier and Dennis Kehoe's chapter in
+[[scheidel-cambridge-economic-history-greco-roman-world-2007|The Cambridge Economic History of the
+Greco-Roman World]] (2007) applies the same NIE toolkit — the Coase theorem, transaction costs,
+adverse selection, bounded rationality, path dependence — directly to Greek and Roman legal
+sources: the curule aediles' disclosure rules in the Roman slave market (an adverse-selection
+fix), the *peculium* system as a solution to the principal-agent problem in slave-run businesses,
+and three path-dependence case studies (the late-Republican slave villa economy, imperial tenant
+leasing law, and Ptolemaic/Roman Egypt's land-tenure inheritance). See
+[[roman-law-and-economic-institutions]] for the full treatment.
+
 ## Related
 
 - [[premodern-state]] · [[ptolemaic-state-formation]] · [[ptolemaic-economy]] ·
   [[state-formation]]
 - [[egyptian-temple-economy]] · [[egyptian-bureaucracy]] · [[coinage]] ·
   [[ptolemaic-papyri]]
+- [[roman-law-and-economic-institutions]] — Frier and Kehoe's Greco-Roman legal application of NIE
 - Source: [[sources/manning-last-pharaohs-2010]]
+- Source: [[scheidel-cambridge-economic-history-greco-roman-world-2007]] (Ch. 5, Bruce Frier and Dennis Kehoe)

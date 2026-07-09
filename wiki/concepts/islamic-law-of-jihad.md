@@ -18,8 +18,8 @@ applies_to_regions:
   - mediterranean-world
   - indian-ocean
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, islamic-law, Early Middle Ages, High Middle Ages, Late Middle Ages, near-east, mediterranean-world]
 ---
 
@@ -104,11 +104,38 @@ Hallaq's conclusion: "the uses of the concept of jihād in the twentieth and twe
 
 ---
 
+## From Cobb, *The Race for Paradise* (2014) — crusade-era practice of the law
+
+[[cobb-race-for-paradise-2014|Paul M. Cobb]] situates classical jihad doctrine in the political and social world of the eleventh–thirteenth-century Mediterranean, without replacing Hallaq’s juristic anatomy above. Overlap with Hallaq is noted only where Cobb adds crusade-period texture.
+
+### Ulema as institutional base
+
+The **ulema** (*ʿulamaʾ*)—more like rabbis than Christian clergy—were scholars of Islamic law without sacerdotal sacraments; informal master–student networks; masters of *ʿilm* (religious knowledge). In 1050 they guarded the *shariʿa* as path for living pleasing to God: jurists, teachers, preachers, qadis, muftis issuing fatwas—putting “equity” into the [[circle-of-justice|circle of equity]]. They were the practical base for jihad doctrine and later anti-Frankish preaching.
+
+### Regulatory function (anti-essentialist framing)
+
+Neither Islam nor Latin Christianity is “inherently” violent; classical jihad doctrine (with school variations) developed in a medieval imperial context of warrior-elites and conquest as a juristic system to **control** violence—conditions for starting/ending war, limit lawlessness, define targets, protect noncombatants, define merit. Core categories Cobb stresses for general readers align with the classical theory above: *fard ʿala al-kifaya* vs *fard ʿala al-ʿayn*; caliph/imam (or representative) as declarer in theory; defensive or offensive/preemptive forms; *mujahidun* assumed male; battlefield dead as *shahid* (martyr). Missionary structure: Abode of Islam vs Abode of War; Jews and Christians unwilling to convert could surrender as *dhimmis* paying *jizya*—the poll-tax most understood as guaranteeing subordinate toleration (see [[dhimmi]], [[dar-al-islam]]).
+
+### Commerce with the Abode of War
+
+Islamic law permitted **commerce with infidels** if not involving prohibited commodities (wine; war materiel—weapons, armor; some interpretations slaves/horses); import for customs duties allowed. The papacy repeatedly (hence unsuccessfully) tried to criminalize Christian trade with Muslims. Ibn Jubayr: armies may array while travelers pass freely between sides. Frankish–Muslim exchange used pre-existing Mediterranean commercial ties (*funduq/fondaco*; condominia/*munasafa* dividing lands, water, harvests). Local politics almost always trumped ideology even under Saladin.
+
+### Jihad as one plank of pious rule (Zangid–Ayyubid cases)
+
+- **Nur al-Din** carefully used epithet *mujahid* in decrees/inscriptions, but jihad against Franks was one small aspect of a broader pious-just-ruler image; inscriptions pair *mujahid* with *zahid* (ascetic) and caliphal loyalty; he often used treaties/tribute; lands taken from **Muslim** rivals outweighed Frankish gains; madrasas and mystic meetinghouses on unprecedented scale.
+- By spring **1186**, [[saladin|Saladin]]’s vast sultanate was divided among ambitious kinsmen; jihad vs Franks had been sidelined so long even advisers had misgivings; “dusting off” the *mujahid* title served to assert authority over kin and keep troops busy for plunder—jihad as a political solution whose “time had come” (detail under [[jihad-concept-evolution]] and actor pages).
+
+Comparative institutional contrast with Latin crusade (centralization, temporary vow vs perpetual obligation, land vs souls) is filed under [[holy-war]].
+
+---
+
 ## Historiography
 
 The historiography of jihād is distorted by three compounding problems identified by Hallaq: (1) treating the theory as if it were applied historical reality; (2) attaching the most negative interpretations to the theory; and (3) projecting these interpretations onto contemporary realities that bear no resemblance to the classical era. "Paradigmatic Western scholarship — not to mention mass media — has allowed itself to succumb to all three problematics."
 
-The collection's coverage of this topic is through Hallaq's synthesis and the primary source compendia he cites (Ibn Rushd's *Distinguished Jurist's Primer*, Reliance of the Traveller). Historical campaigns are covered separately in regional and event pages.
+Cobb’s crusade-era narrative reinforces Hallaq’s theory-vs-practice gap: formal sultanic jihad campaigns of “tens of thousands” repeatedly failed through desertion, rivalry, and dual Muslim–Frank alliances; after c. 1115 jihad against Franks became largely a local amir/atabeg affair; and jihad language was calculated and intermittent even for Zangi, Nur al-Din, and Saladin.
+
+The collection's coverage of this topic is through Hallaq's synthesis, Cobb’s Islamic history of the Crusades, and the primary source compendia Hallaq cites (Ibn Rushd's *Distinguished Jurist's Primer*, Reliance of the Traveller). Historical campaigns are covered separately in regional and event pages.
 
 ---
 
@@ -118,6 +145,7 @@ The collection's coverage of this topic is through Hallaq's synthesis and the pr
 - [[fiqh]] — the juristic elaboration
 - [[madhhab]] — school variations in the rules are substantial (Ḥanafī, Mālikī, Shāfiʿī, Ḥanbalī, Twelver Shīʿī differ on qualification criteria, amān scope, prisoner options)
 - [[dhimmi]] — the protected-status category created by successful jihād and jizya payment
+- [[dar-al-islam]] · [[holy-war]] · [[jihad-concept-evolution]] · [[crusades]] · [[ifranj]]
 - [[west-african-jihads]] — a historical instance where the concept was deployed
 - [[islamic-modernism]] — the modernist reinterpretation context
-- [[hallaq-sharia-2009]]
+- [[hallaq-sharia-2009]] · [[cobb-race-for-paradise-2014]]

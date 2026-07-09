@@ -9,8 +9,8 @@ affiliated_with: [the house of Valentinian; Nicene (Valentinian) and Homoian (Va
 opposed_by: [the Alamanni, the Goths, the usurper Procopius, Shapur II]
 key_events: [the accession of 364, the revolt of Procopius (365–6), the battle of Adrianople (378)]
 key_processes: [the division of imperial labour between West and East, the Gothic crisis]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, western-europe, balkans]
 ---
 
@@ -66,3 +66,20 @@ the doctrinal quarrel now tracked imperial politics.
   [[germanic-peoples|Gothic]] crisis driven by the Huns
 - Valens' wars with [[sasanian-empire|Shapur II]] over [[armenia|Armenia]]
 - Source: [[cameron-cah-v13-1998]] (Ch. 3, John Curran)
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]] (Chs. XXV–XXVI).
+
+- **Accession of Valens.** Army clamored for a colleague; Valentinian named Valens Augustus thirty days later at Constantinople; Dagalaiphus: if only family, you have a brother—if you love the republic, look for the most deserving Roman.
+- **Division at Mediana.** Valentinian gave Valens the East (Lower Danube to Persia) and kept Illyricum, Italy, Gaul (Greece to Caledonia to Atlas); double courts and seven master-generals; last embrace—West to Milan, East to Constantinople (Valens ignorant of its languages).
+- **Magic inquisitions.** Prosecuted “so rigorously… both at Rome and Antioch”; senators and philosophers tortured; Gibbon contrasts Ammianus’s “coarse pencil” with Tacitus and boasts enlightened Europe abolished the prejudice.
+- **Procopius.** Kinsman of Julian usurped Constantinople with Gothic auxiliaries; defeated at Thyatira/Nacolia; Valens’s judicial cruelties after victory.
+- **Gothic admission and fall.** Valens admitted the Gothic nation under Hunnic pressure; arms stipulation “shamefully eluded” by bribery; Lupicinus/Maximus famine-profiteering detonated war; unseasonable bravery of “timid Valens” and pride vs Gratian → [[battle-of-adrianople-378|Adrianople 378]].
+- **Periodization.** Gibbon can “justly date” the disastrous period of the fall from Valens’s reign (via Adrianople) as the military hinge of Western decline.
+
+## From Mitchell, Later Roman Empire (2015)
+
+Attributed claims from [[sources/mitchell-later-roman-empire-2015|Stephen Mitchell, *A History of the Later Roman Empire* (2015)]].
+
+- **Valentinian’s frontier strategy: barriers and *foedera* over battle.** After 365 Valentinian relied largely on diplomacy rather than open war on the Rhine and upper Danube. Ammianus judged that “it was a greater service to keep the barbarians in check by frontier barriers than to defeat them in battle.” He rebuilt forts, watch-posts, and bridgeheads; the 374 mid-river meeting with the Alemannic king Macrianus exemplifies ritualized *foedus* ideology that momentarily staged “the wholly disproportionate relationship between the Roman Empire and minor Germanic tribal leaders” as a transaction between equal sovereign partners.

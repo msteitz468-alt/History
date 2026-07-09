@@ -7,8 +7,8 @@ period_active: [Archaic Period, Classical Antiquity]
 controlled_by: [the Battiad dynasty (kings, then a republic), at times allied/subject to Saite Egypt, then Persia]
 events_here: [the foundation from Thera (c. 631 BCE), the defeat of Apries's Egyptian army, the reforms of Demonax, the alliance with Amasis]
 processes_here: [[[greek-colonization|Greek colonization]], Greek–Libyan intermarriage, the silphium trade]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, north-africa, archaic-period]
 ---
 
@@ -69,8 +69,12 @@ reorganized the citizen body into three tribes, curbing the monarchy.
   coins), entangled in the politics of [[saite-egypt|Saite Egypt]] and then absorbed
   into the Persian and Hellenistic worlds.
 
+## Hall (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]: fourth-century Cyrene decree cites an “original” Theran colonial oath (Apollo’s command; Battos; one son per family; five-year perseverance; right of return; death/confiscation for draft refusal). Archaizing language does not prove authenticity; parallels with Herodotus’s Theran version (4.150–53) rule out pure fourth-century invention but do not prove faithful transmission from the foundation. Battos as Libyan royal title (Hdt. 4.155.2) is debated; Pindar calls the founder Aristoteles. Mid-sixth **Demonax** redistribution into three phylai (including Theraean descendants with perioikoi = indigenous hinterland) is Hall’s comparative parallel for tribal reform as territorial incorporation — analogous to [[cleisthenic-reforms-508bce|Cleisthenes]].
+
 ## Related
 
 - Mother city: Thera · founder: Battus (the Battiad dynasty) · oracle: [[delphi]]
 - Process: [[greek-colonization]] · Egyptian entanglement: [[saite-egypt]] ([[achaemenid-empire|later Persia]])
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p3-1982]] (Ch. 37, Graham)
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 37, Graham); [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

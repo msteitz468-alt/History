@@ -8,8 +8,8 @@ region: [southeast-asia, south-asia, indian-ocean]
 process_type: [cultural, religious, economic]
 driven_by: ["the [[indian-ocean-trade|Indian Ocean spice trade]] (Roman demand drawing Indian merchants east)", "Indian merchant and brahman settlement", "the prestige of Sanskritic kingship and religion"]
 produces: ["Hindu-Buddhist kingdoms (Funan, Srivijaya, Angkor, Mataram/Java)", "Sanskrit as a court/sacred language", "Indian script, law, art, and temple architecture in SE Asia", "the spread of Hinduism and Buddhism beyond India"]
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [process, late-antiquity, southeast-asia]
 ---
 
@@ -106,3 +106,11 @@ Indian repertoire they reshaped to their own cosmologies and politics.
 [[indian-ocean-trade]] · [[hinduism]] · [[buddhism]] · [[khmer-empire]] · [[funan]] · [[srivijaya]] ·
 [[majapahit]] · [[champa]] · [[mandala]] · [[devaraja]] · [[sangam-age-south-india]] · [[silk-roads]] ·
 [[thapar-history-of-india-v1-1966]] · [[tarling-cambridge-history-southeast-asia-v1-1992]]
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+[[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] sharpen the **anti-diffusion / appropriation** framing already dominant on this page and add religious-history detail.
+
+**Against teacher–pupil models.** The Sanskrit cosmopolis had no single radiating centre; Seasians began writing in vernaculars almost immediately after Sanskrit and Indic scripts arrived (faster than vernacular literary use in India, which waited until the 9th–11th c.). Late Preclassic Seasia was "not a blank slate" awaiting Indian or Chinese culture — complex institutions were forming independently; Austronesian exploratory energy preceded Protoclassic "exploration of the mind." Preclassic technological ideas (metal, rice) often came from China **without** parallel Chinese customs; Protoclassic writing and classical art came from South Asia **because of** Seasian maritime and social capacity. Luxury trade (beads, bowls) was organized before Classical India fully formed; the later artistic/literary relationship continues an older interaction sphere. Glover: Iron Age Seasia was already in a world trading system linking Mediterranean and Han China. Higham views 500 BCE–800 CE as a continuum with Indian presence one of several variables (vs Wheatley's stronger Indian-stimulus model), yet still holds many Indian visitors to Funan instrumental — continuity with older Indian-influence theories.
+
+**Religious texture.** Prefer "esoteric Buddhism" over Orientalist Mahayana/Hinayana; Talang Tuwo uses Perfection Path vocabulary; arguments continue on Tantric elements in [[srivijaya|Srivijaya]]. Pala-dynasty mid-8th-c. encouragement of esoteric Buddhism at Nalanda popularized Padmapani, Vajrapani, Manjusri, Tara, Lokesvara — deities in late-8th-c. inscriptions of Java, Sumatra, Cambodia, and the Malay Peninsula. Middle Classic: Brahmanical temples more widespread than Buddhist; Śiva/Ganesha accessible to the general population; Visnu reappeared as royal cult at Angkor Wat but less popular among the mercantile class than in the Protoclassic; Buddhism evolved toward greater esotericism, cutting itself off from the masses with large temples confined to centres of power. Atisa in Sumatra 1012–1024 (teacher Dharmakirti wrote in "the city Srivijaya of Suvarnadvipa"; only known surviving Srivijayan literature via Tibetan translation). O'Connor: "violent discontinuity" of south Indian style in peninsular Brahmanical sculpture 9th–11th c. around the [[chola-invasion-srivijaya-1025|Chola invasion]]. Late Classic east Java/Bali: Śiva–Buddha unity literature; post-Classic Bali shift from royal statues to invisible seat worship. Parallel to [[islamization-of-southeast-asia]]: different actors (teachers, merchants, kings, conquerors) instrumental in different places for both Sanskritic and Islamic transmission.

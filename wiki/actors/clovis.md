@@ -9,8 +9,8 @@ affiliated_with: [the Merovingian dynasty, the Salian Franks, Catholic (Nicene) 
 opposed_by: [the Visigoths (Alaric II), the Alamans, the Burgundians, rival Frankish kinglets]
 key_events: [the battle of Vouillé (507), the baptism of Clovis (c. 508), the conquest of northern Gaul]
 key_processes: [the formation of the barbarian successor kingdoms, the Catholic conversion of the Franks]
-sources_ingested: 3
-last_updated: 2026-06-27
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, western-europe]
 ---
 
@@ -111,3 +111,24 @@ Cross-refs: [[frankish-ethnogenesis]] · [[battle-of-vouille-507]] · [[salic-la
 The fullest narrative source for Clovis is **[[gregory-of-tours-history-of-the-franks-thorpe-1974|Gregory's]]** Book II, written nearly a century later and heavily providential. Its set-pieces define the legend: the **ewer of Soissons**, where a year after the dispute Clovis split the offending soldier's skull — "That is what you did to my ewer in Soissons"; the **battlefield vow** against the Alemanni ("If you will give me victory… then I will believe in you and I will be baptized in your name"); and the **baptism at Reims** by Remigius, hailed "like some new Constantine," with the charge "Bow your head in meekness, **Sicamber**. Worship what you have burnt, burn what you have been wont to worship." Gregory frames the wars on the Arian Burgundians and Goths as holy: "I find it hard to go on seeing these Arians occupy a part of Gaul." He records the cold-blooded liquidation of rival kinglets — "in the same way he encompassed the death of many other kings and blood-relations of his" — and Clovis's death and burial in the church of the Holy Apostles at Paris after a thirty-year reign. His wife [[clotild|Clotild]] is cast as the human agent of his conversion. Read critically: Gregory's chronology is compressed and his purpose moral, not documentary.
 
 - Source: [[gregory-of-tours-history-of-the-franks-thorpe-1974]]
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+- **Catholic conversion c.500 (R1-029):** Franks entered as pagans (not Arians). Unification under Merovingian Clovis; conversion to Catholic Christianity (~500) was momentous and, per contemporaries Logan cites, sincere. Primary sources show a synthesizer of Roman, Germanic, and Christian attributes, against Gregory of Tours’s hostile later portrait. Defeat of Visigoths (507) shaped Francia/France; conversion ensured eventual Catholic conversion of other Germanic peoples; France as “eldest daughter of the church.”
+  - Quote: "Few moments in European history were truly as momentous in their consequences as the conversion of the Frankish king Clovis to Catholic Christianity (c.500)"
+  - Link labels: contributed_to Catholic Germanic orthodoxy; opposed_by Arian Visigothic power in Gaul; produced Franco-Catholic alliance with Gallo-Roman bishops.
+- **Gradual social transformation (R1-030):** Via Rosamond McKitterick, conversion was not merely a baptismal ceremony but “a very gradual process” transforming Frankish society’s religion, ethics, law, and institutions. Franks retained existing diocesan organization (diocese = *civitas*).
+  - Quote: "what in fact occurred, in Rosamond McKitterick's words, was 'a very gradual process by which the very complexion and context of Frankish society, its religion, ethics, law and social institutions, became completely transformed'."
+
+Source: [[logan-history-of-the-church-in-the-middle-ages-2013]]
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]] (Ch. XXXVIII); Gibbon’s causal and moral framing of Frankish greatness.
+
+- **Accident of timing.** “France may ascribe her greatness to the premature death of the Gothic king [Euric], at a time when his son Alaric was a helpless infant, and his adversary Clovis an ambitious and valiant youth.”
+- **Monarchy in Gaul.** Establishes French monarchy in Gaul within roughly thirty years of campaigning (Gibbon’s compression of Clovis’s career).
+- **Tolbiac and baptism.** Invoked Clotilda’s God against the Alemanni; baptized at Rheims with ~3,000 warriors as a “new Constantine”; “On the memorable day when Clovis ascended from the baptismal font, he alone, in the Christian world, deserved the name and prerogatives of a Catholic king” while other Barbarian kings were Arian.
+- **Clerical alliance.** “the establishment of the French monarchy may, in some degree, be ascribed to the firm alliance of a hundred prelates, who reigned in the discontented, or independent, cities of Gaul.”
+- **Christian in name.** Gibbon’s polemical judgment: mind capable only of transient fervor; “as soon as Clovis had dismissed a synod of the Gallican church, he calmly assassinated all the princes of the Merovingian race.”
+- **Poitiers (vs. Alaric II).** Framed as war on Arian heretics; Alaric killed in single combat ~10 miles beyond Poitiers; “The decisive battle of Poitiers was followed by the conquest of Aquitain”; Visigoths kept Septimania; Clovis later accepted consular honors from Anastasius at Tours.

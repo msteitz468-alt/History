@@ -5,7 +5,7 @@ origin: "Emic Roman legal-political category (civitas Romana), evolving from the
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity]
 applies_to_regions: [italy, mediterranean-world, rome]
 contested: yes
-sources_ingested: 1
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [concept]
 ---
@@ -89,3 +89,21 @@ and slave (Brent Shaw's analysis) — see the companion page
 [[concepts/roman-citizenship-and-belonging]]. Key related pages:
 [[events/social-war-91-88bce]], [[events/constitutio-antoniniana-212]], [[actors/caracalla]],
 [[actors/roman-republic]], [[actors/roman-empire]], [[processes/romanization-of-italy]].
+
+## Harris, *Roman Power* (2016)
+
+Harris treats citizenship as a core **organizational technique of domination and manpower**. After the Latin War (340–338), extending citizenship with/without vote to Latium/Campania (*municipia*) was “the most important step of all,” risking but massively increasing potential military manpower. Immediate inclusion of freed slaves as citizens (Philip V’s observation) greatly added manpower; manumission was common by 357 (taxed; “considerable revenue,” Livy 7.16). Full citizenship to free Sabines (268) was not repeated on the same scale for the allies—too different and numerous—until the Social War; when Rome compromised on citizenship (90), the rebellion was doomed and a further century of Romanization followed. Late Republic–Augustan path: Italian incorporation after the Social War; Caesar north of the Po; Augustus naturalized provincials for legions and granted citizenship to discharged auxiliaries—by AD 14 a dramatic provincial citizen increase.
+
+*Libertas* marked free citizen vs slave after *nexum* abolition (~313), yet ordinary citizen rights were modest by modern standards (draft, limited *ius provocationis*); the ideal was not dead under senatorial domination to the 130s. Lex Hortensia (~287) let plebs alone pass *plebiscita*—major repercussions only after ~150 years. Manumission-to-citizenship made slavery slightly less hopeless while buttressing well-to-do political/economic domination. The Lex Iulia (90) plus Sullan colonization advanced Romanization but **tripling the citizen body dramatically increased the discontented inside the system**.
+
+Under Tiberius, citizens still saw provinces as sheep to be “shorn, not flayed” (Suet. *Tib.* 32); Claudius articulated incorporation doctrine—defeated enemies could become patriotic Romans after cultural remaking (Tac. *Ann.* 11.24). Provincialization of governing class and army put different people in power; “Romanness” evolved; local languages survived widely; for upper classes “they, the Romans” became “we, the Romans” in inner provinces. AD 16–212 citizenship grants tended toward **nation-making**; after 212, general enfranchisement may have diluted the concept or been welcomed—Harris leaves both open. Incomplete nation: third-century emperors still distinguish favorite provincials from “the Romans”; separatism increased somewhat. By 212 citizenship had already lost much legal significance as *honestiores*/*humiliores* hardened. Source: [[harris-roman-power-2016]].
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- **Comparative unusualness.** Citizenship—an archaic/classical Mediterranean city-state inheritance—made Rome atypical among early empires: “Persian shahs and the Chinese sons of heaven had subjects, not fellow citizens.” Aelius Aristides later identified inclusiveness—unusual willingness to incorporate the subjected into the citizen body—as a key governmental variable (vs Polybius’s institutional focus).
+- **Graded statuses, not hard boundary.** “Romans did not use citizenship as a way of creating a hard boundary between themselves and aliens. Instead they used the language of citizenship to express a set of statuses and relationships” (non-voting citizens, Latins/Junian Latins, Alexandrine status, dual citizenships; limits on women’s political participation). Transformations: city-state body → Italy after Social War → early-imperial privileged grants → post-Caracalla world where most were citizens “and yet the status was strangely still valued.”
+- **Social War endpoint.** Allies shared warfare strains without full benefits; citizenship schemes repeatedly raised and dashed; by 87 most Italians were Roman citizens—“Rome won the battles, but conceded all that had been demanded.”
+- **Patronage metaphors.** Foreign peoples/kings as “friends and allies” of the Roman people—not equality, but real mutual obligation; after civil-war pluralism ended, emperor as ultimate benefactor.
+- **Cicero’s cultural obligation.** Epigraph to Woolf Ch. X: since Rome rules the people among whom civilization arose, Romans have an obligation to pass benefits back—elite ideology of reciprocal cultural debt under rule.

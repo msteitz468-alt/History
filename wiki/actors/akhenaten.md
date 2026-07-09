@@ -9,8 +9,8 @@ affiliated_with: [[[new-kingdom-egypt|Eighteenth Dynasty Egypt]], the cult of th
 opposed_by: [the [[amun-priesthood|priesthood of Amun]], the traditional cults]
 key_events: [the founding of [[amarna|Akhetaten]], the proscription of Amun, the foreign-policy collapse in Syria-Palestine]
 key_processes: [[[atenism]], [[interpolity-law]]]
-sources_ingested: 3
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, late-bronze-age, north-africa]
 ---
 
@@ -115,6 +115,21 @@ which "the god revealed his will directly to every human being" — the path tha
 21st-Dynasty rule of Amun-by-oracle. And the collapse came because "the army … had withdrawn
 its support," not from priestly vengeance.
 
+## Freeman: motive uncertainty and the failed reform's cultural shock
+
+Charles Freeman ([[freeman-egypt-greece-rome-2014|*Egypt, Greece, and Rome*]], 2014)
+stresses that Akhenaten's motives remain explicitly contested — "not all scholars
+agree" on a co-regency with [[amenhotep-iii|Amenophis III]], and the reform could
+reflect his mother Tiye's influence, temple-power politics, or genuine belief, in
+no settled proportion. He reads the reform's failure at the level of popular
+religion structurally: "to replace them by a single physical entity, available only
+in one form, was a cultural shock far greater than the Egyptians could absorb" —
+even Akhetaten's own workmen kept traditional household gods. Barry Kemp's
+excavations (since 1977) reveal the city's plan in support of this reading: a
+private royal quarter isolated in the north, a "Window of Appearances" for handing
+out royal honors, and processional routes paved with propaganda imagery of bound
+foreign captives underfoot.
+
 ## Significance
 
 Akhenaten is history's most discussed early experiment in **exclusive monotheism**
@@ -141,4 +156,4 @@ phenomenon the volume warns against. See [[cambridge-ancient-history-methodology
 - Religion: [[atenism]] · Capital: [[amarna]] · Queen: [[nefertiti]] · Institution opposed: [[amun-priesthood]]
 - Successors: [[tutankhamun]] · [[horemheb]] · State: [[new-kingdom-egypt]] · Father: [[amenhotep-iii]]
 - Foreign collapse: [[amarna-letters]] · [[shuppiluliuma-i]] · [[interpolity-law]]
-- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p2-1975]] · [[kemp-ancient-egypt-anatomy-2018]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]
+- Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p2-1975]] · [[kemp-ancient-egypt-anatomy-2018]] · [[sources/shaw-oxford-history-ancient-egypt-2000]] · [[freeman-egypt-greece-rome-2014|Freeman (2014)]]

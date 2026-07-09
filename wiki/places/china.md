@@ -7,8 +7,8 @@ period_active: [Neolithic, Bronze Age, Classical Antiquity, Late Antiquity, Earl
 controlled_by: [the succession of dynasties (Shang, Zhou, Qin, Han, ... Tang, Song, Yuan, Ming, Qing), the Republic, the People's Republic]
 events_here: [the unification under [[qin-shi-huang|the First Emperor]] (221 BC), the dynastic cycles, the Mongol and Manchu conquests, the 1911 Revolution]
 processes_here: [the dynastic cycle, [[confucianism]], the [[mandate-of-heaven]], [[neo-confucianism]], Chinese [[industrialization]]]
-sources_ingested: 2
-last_updated: 2026-06-13
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [place, china, east-asia]
 ---
 
@@ -119,3 +119,18 @@ Civil war outcome and alliance: CCP victory "overturned the existing postwar int
 Updated [[china]]: added dedicated Cold War section on PRC birth, alliance formation, and positioning in bipolar order; links to [[mao-zedong]], [[soviet-union]], [[united-states]], [[korean-war-1950]], [[cold-war]], [[leffler-westad-cold-war-v1]].
 
 sources_ingested incremented; last_updated 2026-06-24. All verbatim quotes + locators from range_03.txt only.
+
+## Islam in China (Formichi 2020)
+
+China has hosted Muslim communities since the 7th century, and per Formichi (2020)
+was an active participant in — not a passive recipient of — Islamic civilization.
+Muslim technocrats served the [[mongol-empire|Yuan]] court (Sayyid Ajall Shams al-Din
+governed Yunnan; Muslim astronomers' methods fed the *huihui li* Islamic calendar used
+for Ming–Qing court legitimacy), and Sino-Islamic exchange even shaped "archetypal"
+Chinese blue-and-white porcelain (the cobalt shade named *huihui qing*, "Muslim blue").
+Two Muslim populations emerged: the Sinophone **Hui** of the interior and the Turkic
+[[uyghurs|Uyghurs]] of the Tarim Basin ([[battle-of-talas-751|Xinjiang]]). The full
+arc — the Han Kitab Confucian-Islamic synthesis, the [[shadian-incident-1975|1975
+Shadian killings]], the post-1979 revival, and contemporary halal-based ethnic
+contestation — is treated on the dedicated process page [[islam-in-china]].
+See [[formichi-islam-and-asia-2020|Formichi, *Islam and Asia* (2020)]].

@@ -44,7 +44,25 @@ Dynasty "in the year of the hyenas, when there was a famine." A workman's family
 and sold their artistic skills — private enterprise running right through the
 state-provisioned village.
 
+## A Corpus of Non-Official Writing and Drawing
+
+Deir el-Medina is also, alongside Pompeii, the richest source of
+[[concepts/ancient-graffiti|ancient graffiti]] — because its workers were
+unusually literate (including literate women managing households). Its ostraca
+divide into three classes: **figural drawings** (funerary deities, pharaoh
+portraits, and satirical/erotic sketches outside the state art canon),
+**documentary drafts** (an attendance register for Year 40 of Ramesses II noting
+absences for illness, festivals and even intoxication), and **literary texts**
+(the *Story of Sinuhe*, wisdom "Instructions," and love poetry). Ostraca such as
+O. Gardiner 304 (reign of Ramesses III, c. 1182–1151 BCE) "published" erotic
+verse on recycled limestone flakes, and pictorial ostraca show comic and
+sexualized scenes (see [[concepts/history-of-sexuality]]). The workmen also left
+prayers and figural graffiti of gods on the rock faces of the Valley of the
+Kings (named scribes Qenhirkhopshef, Huy, the draughtsman Amennakhte). Post-firing
+pot-marks used the same sign-system as the workers' administrative ostraca. Per
+[[sources/keegan-graffiti-in-antiquity-2014|Keegan]].
+
 ## Related
 
-- [[concepts/provider-state]] · [[concepts/birth-of-economic-man]] · [[concepts/egyptian-temple-economy]]
+- [[concepts/provider-state]] · [[concepts/birth-of-economic-man]] · [[concepts/egyptian-temple-economy]] · [[concepts/ancient-graffiti]]
 - [[places/kahun]] · [[places/thebes]] · [[actors/new-kingdom-egypt]] · [[places/amarna]] · [[sources/kemp-ancient-egypt-anatomy-2018]]

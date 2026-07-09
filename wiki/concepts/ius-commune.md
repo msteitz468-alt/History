@@ -5,8 +5,8 @@ origin: Emic/etic; the twelfth-century revival of Roman law at Bologna (Irnerius
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [western-europe, mediterranean]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -72,6 +72,10 @@ royal authority), and made law one of the three higher faculties of the new
 universities. It is, with theology, the intellectual core of the
 [[twelfth-century-renaissance]].
 
+## From Logan, *A History of the Church in the Middle Ages* (2013)
+
+[[logan-history-of-the-church-in-the-middle-ages-2013|Logan]] stresses that eleventh-century reform invoked **tradition and pristine practice**, not new decretals: **Burchard of Worms** (before 1020), a Roman collection in **74 titles**, **Ivo of Chartres** (1090s) — “much of the credit for establishing canon law as a scholarly discipline” — and **Anselm of Lucca** (mid-1080s) with canons strongly supporting papal power to reform. [[leo-ix|Leo IX]] used provincial synods, intimidation, and deposition against resistance. This pre-Gratian collecting tradition is the reform-era root of the learned canon law later fused into the *ius commune*.
+
 ## Related
 
 - [[medieval-university]] — Bologna as the prototype law school.
@@ -79,3 +83,5 @@ universities. It is, with theology, the intellectual core of the
 - [[just-war]] — Gratian's *Decretum* C.23 on the law of war.
 - [[feudalism]] — the construct built from the *Libri Feudorum*.
 - [[twelfth-century-renaissance]] — the wider intellectual revival.
+- [[logan-history-of-the-church-in-the-middle-ages-2013]]
+

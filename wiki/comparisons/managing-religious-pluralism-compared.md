@@ -5,8 +5,8 @@ periods_covered: [Early Middle Ages, High Middle Ages, Late Middle Ages, Early M
 regions_covered: [near-east, iberia, mediterranean-world, balkans, anatolia]
 civilizations_compared: [the Islamic dhimma, the Ottoman millet, Iberian convivencia, Latin Christendom]
 axis_of_comparison: the legal-institutional form in which a dominant religion managed subordinated religious communities, and the trade-off between stability-through-subordination and conflict or expulsion
-sources_ingested: 1
-last_updated: 2026-06-23
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [comparison, near-east, iberia, balkans, high-middle-ages, early-modern]
 ---
 
@@ -37,6 +37,28 @@ Iberian **[[convivencia|convivencia]]** is the case where managed pluralism *fai
 ### Latin Christendom — the low-tolerance baseline
 By contrast the western Christian norm was a single *corpus christianum*: Jews were a precarious tolerated exception and heresy was policed, with assimilation or expulsion the usual end-states. The comparison makes clear that the Islamic world's subordinated-but-durable toleration was, for most of the medieval period, structurally *more* accommodating of religious difference than Latin Europe's.
 
+## Why the dhimma bred less violence than Christendom (Cohen)
+
+[[cohen-under-crescent-cross-1994|Mark Cohen's]] *Under Crescent and Cross* takes the
+dhimma-vs-Latin-Christendom axis and asks *why* the same minority (the Jews) fared
+measurably better under classical Islam. His answer is a **combination of structural
+factors**, not a "spirit of tolerance":
+
+| Domain | Islamic world | Latin Christendom |
+|---|---|---|
+| **Religion** | Hostility *non-theological*: Islam claims priority *through* Abraham (not supersession of Judaism), so never defined itself against the Jew; scripture held corrupted (*taḥrīf*) so no drive to contest Jewish interpretation | Anti-Judaism *essential to self-definition*: Church as "New Israel"; the Jew theologically central; deicide charge; relentless interpretive polemic |
+| **Law** | Uniform, predictable [[pact-of-umar|dhimma]] treated as permanent; Jews *subsumed* among several minorities; ruler holds no chattel right | Variable canon + secular "Jewry law," renewal-dependent charters; "chamber serfdom"; Jews the *sole* infidel minority |
+| **Economy** | Jews *diversified* across a commerce-valuing economy; well-being tracks the general economy | Jews forced into the resented *moneylending* niche; security *inverse* to economic resentment |
+| **Society** | "Essential equality among inferiors"; a low but *settled rank* in a pluralistic hierarchy; marginal, not excluded | Marginality *degenerating into exclusion*: ghetto, badge, blood libel, expulsion |
+
+Cohen's summary formula: under Islam the Jew "was marginal... he was; excluded, hence
+expelled, he was not." Persecution under Islam was real (the [[almohads|Almohad]] forced
+conversions; the 1066 Granada pogrom; al-Ḥakim) but **less frequent and less brutal**,
+and it typically targeted the dhimmī category, not a demonized Jewish essence. The
+[[convivencia]] "Golden Age" is the kernel of what Cohen calls the
+"[[jews-under-islam-myth-and-countermyth|myth of the interfaith utopia]]"; the post-1967
+inversion is its "neo-lachrymose countermyth."
+
 ## Assessment
 
 Ranked by the durability of managed pluralism, the order runs roughly millet > dhimma > convivencia > Latin Christendom. The decisive variable is **whether the dominant order had a legal category for the permanent incorporation of religious others** (dhimma, millet did; the *corpus christianum* did not). Where it existed, plurality was stable but subordinated; where it did not, plurality was resolved by conversion or expulsion. None was tolerance in the modern liberal sense — all rested on a settled hierarchy — but the presence or absence of an incorporating legal form, more than any general "spirit of tolerance," determined whether plural societies endured.
@@ -47,4 +69,6 @@ Ranked by the durability of managed pluralism, the order runs roughly millet > d
 - `contrasts_with:` [[plural-society]] — Furnivall's *colonial* plural society (a different, modern category) and the assimilation/expulsion path of Latin Christendom.
 - Arrangements: [[dhimmi]] · [[millet-system]] · [[convivencia]].
 - Settings: [[al-andalus]] · [[ottoman-empire]] · [[reconquista]] · [[iberia]].
-- Source: [[lapidus-a-history-of-islamic-societies-2014]].
+- Communities: [[jewry-islamic-world]] · [[ashkenazi-jewry]].
+- Historiography: [[jews-under-islam-myth-and-countermyth]] · [[lachrymose-conception-of-jewish-history]].
+- Sources: [[lapidus-a-history-of-islamic-societies-2014]] · [[cohen-under-crescent-cross-1994]].

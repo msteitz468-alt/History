@@ -9,8 +9,8 @@ affiliated_with: [the Visigoths, the Gothic foederati of the Theodosian settleme
 opposed_by: [Stilicho, the western court at Ravenna (Honorius, Olympius)]
 key_events: [the Gothic revolt after 395, the invasions of Italy, the sack of Rome (410)]
 key_processes: [the formation of the Visigoths, the failure of the foederate settlement]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, balkans, italy]
 ---
 
@@ -57,3 +57,22 @@ Aquitaine, 418).
   the *foedus* of [[theodosius-i|Theodosius I]]; nemesis of [[stilicho|Stilicho]]
 - `produced:` the [[sack-of-rome-410|sack of Rome (410)]]; the founding of the Visigothic people
 - Source: [[cameron-cah-v13-1998]] (Ch. 4, R. C. Blockley); [[sources/heather-fall-roman-empire-2005|Heather (2005)]], who reads Alaric's Goths as a [[huns|Hunnic]]-driven "supergroup" bargaining for a secure place inside the empire
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]] (Chs. XXX–XXXI); Gibbon’s portrait and causal framing, not modern reconstruction.
+
+- **Person.** Alaric of the noble Balti (second only to the Amali); Christian faith, Gibbon writes, “taught him to despise the imaginary deities of Rome and Athens”; illiterate barbarian unprepared for Homeric visions of Zosimus.
+- **Greece.** Thermopylae opened by order; Athens ransomed; Corinth, Argos, Sparta yielded; Gothic invasion “accidentally” ended the Eleusinian mysteries: “the mysteries of Ceres, which had subsisted eighteen hundred years, did not survive the destruction of Eleusis.”
+- **Italy and office.** After Pollentia/Verona setbacks, made master-general of Illyricum (western claim); Stilicho may have sought to keep him employed far from Italy; later pressed claims and a 4,000 lb gold subsidy.
+- **After Stilicho.** Massacre of barbarian families transferred ~30,000 soldiers to the Gothic side; Alaric claimed “a secret and præternatural impulse” compelling the march to Rome.
+- **Peace rejected.** Sought rank, corn/money, and lands (Dalmatia/Noricum/Venetia, or even Noricum alone); Ravenna’s “crime and folly” thrice “expiated… by the calamities of Rome.”
+- **Death.** Short illness at Consentia after a storm scattered Sicilian/African transports; Busentinus diverted for a royal sepulchre with Rome’s spoils; “the secret spot… was forever concealed by the inhuman massacre of the prisoners.”
+
+## From Mitchell, Later Roman Empire (2015)
+
+Attributed claims from [[sources/mitchell-later-roman-empire-2015|Stephen Mitchell, *A History of the Later Roman Empire* (2015)]].
+
+- **Frigidus (394) losses as spur to fifteen-year insubordination.** Theodosius’s largely barbarian army, including 20,000 Goths, defeated Eugenius at the Frigidus; 10,000 Goths fell, and “resentment that their sacrifice had not been justly rewarded by Theodosius and his successor Honorius was one of the chief spurs to Alaric’s insubordination over the next fifteen years.” The 382 Gothic–Roman treaty began to splinter.
+- **Supply-dependent *foederati*, not Moesia settlers of 382.** Major interpretive issue: national Gothic movement from post-Adrianople Moesia settlers vs substantial *foederati* seeking best terms from East and West? Mitchell argues Gothic self-definition was fluid; Alaric’s followers “seem to have been unable to feed themselves from their own produce, and were always dependent on provisions supplied by the Roman authorities,” implying no land and arguing against identity with the eastern Moesia settlers.
+- **Scaled-down 409 demands still rejected.** In 409 Alaric renounced office for himself and asked only for land in the two Norican provinces (exposed, low-tax frontier), grain for his hungry people, and dropped gold demands — terms on which friendship with Romans was possible. Iovius rejected even these because office-holders since Stilicho’s fall “had sworn an oath never to make peace with Alaric.”

@@ -9,8 +9,8 @@ affiliated_with: [the Tervingi Goths, Homoian ("Arian") Christianity, the empero
 opposed_by: [the Gothic chieftain Athanaric (who persecuted Christians), Nicene orthodoxy]
 key_events: [his consecration as bishop (c. 341), his mission to the Goths, the translation of the Bible into Gothic]
 key_processes: [the Christianization of the Goths, the spread of Arian Christianity among the Germanic peoples]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, balkans]
 ---
 
@@ -56,3 +56,9 @@ estrangement of Visigothic Spain until **Reccared's conversion** at the
   Goths in the Fourth Century]]**.
 - `contributed_to:` Germanic **Arianism** (and thus the [[third-council-of-toledo-589|religious divide]]
   of the successor kingdoms); `concurrent_with:` the reigns of Constantius II and [[valentinian-and-valens|Valens]].
+
+## From Mitchell, Later Roman Empire (2015)
+
+Attributed claims from [[sources/mitchell-later-roman-empire-2015|Stephen Mitchell, *A History of the Later Roman Empire* (2015)]].
+
+- **Gothic Christianity and Arian ethnic identity.** Ulfila was consecrated by Eusebius of Nicomedia (336 or 341); Christian Goths expelled in the late 340s to Nicopolis (Lower Moesia); he devised the Gothic alphabet and Bible translation. The 376 Tervingi crossing required Christian profession, with Ulfila as spokesman and Gothic priests as go-betweens before [[battle-of-adrianople-378|Adrianople]]. Socrates/Theodoret link Gothic Arianism to the Valens/Eudoxius moment; Sozomen stresses Ulfila’s pre-Nicene gospel primitivism hostile to non-biblical *homoousion* (mentor Eusebius of Nicomedia). Constantinople 381 can. 2 excepted barbarian churches to “usage of the Fathers”; the 382 *foedus* left Goths Arian like Valens while Romans were neo-Nicene under [[theodosius-i|Theodosius]]. After 381 Arianism became mainly an ethnic marker of federal Germans rather than an internal Roman christological issue — Ambrose vs Justina’s Arian Easter liturgy for Gothic troops; Chrysostom banned Gothic Arian liturgy inside Constantinople; Vandals used Arianism for nation-building and African Catholic persecution. Mitchell’s summary formula: “Orthodoxy was thus not merely equated with being Christian, but with being Roman. Conversely, the barbarians were fully aware of the importance of their Arian identity in constructing their own ethnic cohesion.” Related: [[arianism|Arianism]]; [[late-roman-church-institution|late Roman church]].

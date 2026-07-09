@@ -13,7 +13,7 @@ positions:
   - "Agricultural/multi-resource critique: maritime resources were important but co-existed with highland agriculture and inter-zonal exchange; neither alone was the sole causal driver"
   - "Intermediate position (Roosevelt): coastal sedentism and marine protein were critical enabling conditions but complex society required the convergence of coast, highland, and eventual agricultural intensification"
 resolution_status: partially-resolved
-last_updated: 2026-06-27
+last_updated: 2026-07-08
 tags:
   - controversy
   - causation
@@ -80,9 +80,22 @@ Partially resolved. The maritime thesis has been refined rather than refuted. Mo
 
 The debate is consequential for understanding whether environmental circumscription (Carneiro) or resource abundance (maritime thesis) better explains early complexity in the Andes — a dispute connected to broader theories of state formation. See [[andean-state-formation]].
 
+## Position 4: Fagan & Durrani (2020) — a refined maritime component within coast–highland exchange
+
+Brian Fagan and Nadia Durrani's *World Prehistory: A Brief Introduction* (10th ed., 2020)
+judges that Michael Moseley's maritime hypothesis "has stood the test of time well" — not as
+the sole cause of Andean state formation, but as **one component** within a broader
+coast-highland interaction model. They cite **Richard Burger's** critique and refinement: an
+exchange of goods between the coast and highlands (seaweed and salt moving inland, potatoes
+and other highland products moving to the coast) drove parallel complexity in both zones,
+rather than either the coast or the highlands acting as a sole engine of civilization. This
+sits closest to Position 3 (Roosevelt) above but is recorded here as a distinct, later
+restatement worth citing on its own terms.
+
 ## Related
 
 - Source: [[cambridge-history-native-peoples-americas-v3-1]]
+- Source: Fagan & Durrani, *World Prehistory: A Brief Introduction* (10th ed., 2020)
 - [[south-american-archaic]] — the process within which this controversy is embedded
 - [[andean-state-formation]] — the downstream political process
 - [[chavin]] — the Early Horizon cultural sphere that succeeds the Late Archaic

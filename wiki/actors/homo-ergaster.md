@@ -9,8 +9,8 @@ affiliated_with: ["early Homo", "Homo erectus (sometimes lumped as 'African Homo
 opposed_by: []
 key_events: ["[[out-of-africa-1-1800kbp]]", "Discovery of the 'Turkana Boy' (KNM-WT 15000, West Turkana, 1984)", "Invention of the Acheulean handaxe (~1.5 mya)"]
 key_processes: ["[[human-evolution]]", "[[paleolithic-global-dispersal]]"]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, other, "Early Prehistory", east-africa, africa]
 ---
 
@@ -58,6 +58,18 @@ to a striding, endurance-walking body plan, the hominid range would plausibly ha
 remained confined to African forest fringes; *ergaster*-grade anatomy is the
 enabling condition for the genus's hemispheric spread and the later radiations that
 produced [[homo-erectus]], [[homo-heidelbergensis]], and the [[neanderthals]].
+
+## Fagan & Durrani (2020) — Terminology Note
+
+Fagan & Durrani (2020) present African *H. erectus*/*H. ergaster* as one
+lineage rather than two species — using "*H. erectus* (sometimes known as
+*H. ergaster*)" for the African form throughout. On their reckoning this
+population appears in Africa ~1.9 Ma and is the first hominin to leave the
+continent, with Dmanisi, Georgia (by 1.8 Ma) as the earliest secure evidence
+outside Africa, alongside China and Java/Indonesia. This "lumping" usage
+should be noted when reconciling this page with [[homo-erectus]]: the wiki
+retains the two as distinct pages, following the "splitter" framing, but
+Fagan & Durrani's terminology does not draw that line.
 
 ## Historiography
 

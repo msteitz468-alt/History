@@ -5,8 +5,8 @@ origin: modern analytical model (Gelzer 1912, Münzer 1920, Scullard) of the mid
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [italy, mediterranean-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, rome]
 ---
 
@@ -96,4 +96,13 @@ position.
 - Concepts: [[roman-patriciate]] · [[roman-provincial-system]] ·
   process: [[agrarian-crisis-roman-republic]] · [[roman-italian-alliance]]
 - Frame: [[great-man-vs-structural-causation]] · source: [[astin-cah-v8-1989]]
-  (Ch. 6, Astin)
+  (Ch. 6, Astin) · [[flower-roman-republics-2010]] · [[roman-republics-periodization]] ·
+  [[mos-maiorum]] · [[sullan-constitution]] · [[optimates-populares]]
+
+## Flower, *Roman Republics* (2010)
+
+Flower’s multi-republic scheme ([[roman-republics-periodization]]) reframes mid-Republican aristocratic politics as the culture of successive **republics of the *nobiles*** (her Republics 3–5: roughly 300–180, 180–139, 139–88), not a single static oligarchy. Under those republics, she stresses, **individual competition and ambition supported rather than subverted** stable government: compromise and cooperation created the *impression* of consensus after fierce debate. *Res publica* for her implies participation of the governed, transparency, and unity of citizens transcending permanent parties — fundamentally at odds with fixed factional allegiance. Power was shared by election among those meeting census and military-service requirements, not a closed hereditary caste; family status had to be reproduced each generation.
+
+Peaceful institutional reform is central to her second-century picture: the *lex Villia annalis* (180) as a decisive marker fixing minimum ages and the *cursus* hierarchy; calendar shift of the political year to 1 January (153); first permanent jury court for *repetundae* (149); and the phased **secret-ballot laws** (139 *Gabinia* through 104 *Domitia*) as the most useful marker of her unstable final *nobiles* republic. Reform calls by Gaius Gracchus or Livius Drusus assumed reform was integral to *nobiles* ethos, not alien to the system.
+
+After the 80s collapse, Flower draws a sharp contrast with Ciceronian-era obstruction: **Cato/Bibulus-style obstruction had no real connection** to third/second-century negotiation and consensus-building. Sulla’s enlarged multitiered senate (opinion-makers vs lifelong jurors; automatic recruitment from ex-quaestors; career pyramid 20–8–2) did not fulfill the role assigned to it and helped produce the rise of Pompey, Crassus, and Caesar; narrower first-century use of *nobilis* (consulars/descendants) was a closing of ranks against Sullan novices and Italians. Ciceronian *regret* for lost republican culture, she notes, was not matched by practical legislation to re-create older behaviors. Source: [[flower-roman-republics-2010]].

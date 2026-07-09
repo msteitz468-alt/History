@@ -7,7 +7,7 @@ period_active: [Late Antiquity, Early Middle Ages]
 controlled_by: [Rome, through a consular legate at Antioch; from 64 BCE; Umayyad and Abbasid caliphates after 634–8]
 events_here: [Pompey's settlement (64 BCE), the Parthian invasion (40–38 BCE), the high-level Euphrates meetings with Parthia, Arab conquest 634–8]
 processes_here: [the establishment of the great eastern military province, the supervision and absorption of the client states, post-roman-transformation-of-the-west]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [place, near-east, levant, late-antiquity, early-middle-ages, rome]
 ---
@@ -174,4 +174,12 @@ mark these as Near Eastern, not Roman, cities beneath the veneer.
 - High-Empire: the annexation of Nabataea/Arabia (106), Palmyra's caravan trade, the
   [[trajans-parthian-war-114-117|Parthian War]]; the [[roman-frontiers|Euphrates frontier]]
 - Early medieval: [[limestone-massif]] · [[dead-cities]] · [[umayyad-caliphate]]
-- Sources: [[bowman-cah-v10-1996]] (Ch. 14c, Kennedy) · [[bowman-cah-v11-2000]] (Ch. 21, Sartre) · [[wickham-framing-the-early-middle-ages-2005]]
+- Sources: [[bowman-cah-v10-1996]] (Ch. 14c, Kennedy) · [[bowman-cah-v11-2000]] (Ch. 21, Sartre) · [[wickham-framing-the-early-middle-ages-2005]] · [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+**Limestone massif village boom.** North-central Syrian limestone massif (territories of Antioch, Apamea, Chalcis, Beroea, Cyrrhus): 700–800 archaeologically identified villages with stone houses, churches, monasteries; mixed agriculture especially olives feeding urban markets (cheap oil enabling Antioch’s street lighting); chronological peak of settlement density c.410–480 within broader boom c.330–550; estimated 50–100 persons/km² and total ~300,000 on Jebel A’la/Barisha — higher than much of modern western Europe/Turkey. Mid-sixth-century plateau; plague of 542 may even have improved viability by easing resource pressure; some surplus wealth continued (Kaper Koraon silver treasure 540–640).
+
+**North–south regional split.** While “Syria as a whole shows no evidence for economic decline before the end of the sixth century,” larger northern cities (Antioch, Apamea) never fully recovered from sixth-century Sasanian damage and disasters, whereas southern Syrian cities (Bostra, Damascus, Hama, Decapolis including Scythopolis estimated 30–40,000) thrived into mid-sixth century and show strong settlement continuity across Persian wars and Arab conquest into early Islam — though urban form shifted from classical public space toward denser houses/shops/workshops (*polis* → *madina*). Negev market towns (Elusa, Nessana, Mampsis, Shivta ~2,000 people) thrived on irrigation agriculture and Gaza wine export via amphoras in fifth–sixth-century Mediterranean markets.
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell, *A History of the Later Roman Empire* (2015)]].

@@ -9,8 +9,8 @@ affiliated_with: ["[[dai-viet|Dai Viet]]"]
 opposed_by: ["[[le-dynasty-vietnam|Le dynasty]] (restoration movement)", "Trinh lords", "Nguyen Kim"]
 key_events: ["[[seventy-years-war-vietnam-1533-1592|Seventy Years War]]"]
 key_processes: []
-sources_ingested: 1
-last_updated: "2026-07-03"
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, dynasty, late-middle-ages, early-modern, southeast-asia]
 ---
 
@@ -37,3 +37,29 @@ Later Le-restoration historiography treats the Mac as straightforward usurpers a
 ## Related
 
 [[seventy-years-war-vietnam-1533-1592|Seventy Years War]] · [[le-dynasty-vietnam|Le dynasty]] · [[le-thanh-tong|Le Thanh Tong]] · [[dai-viet|Dai Viet]]
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+Miksic and Goh label 1527–1592 the "Mac Interregnum." Mac Dang Dung, prime minister to the last
+pre-interregnum Le king Le Cung Hoang (r. 1522–1527), took the throne and founded the dynasty. The Mac
+kept [[thang-long|Thang Long]] as one capital and set up a second at Co Trai; they retained the Le
+bureaucratic model, restarted civil-service examinations, added new inscriptions at the Temple of
+Literature, and rebuilt the Royal Academy and Study Hall — administrative continuity that matches
+Taylor's picture of a smooth official transition.
+
+**Religion and economy.** Early Mac rule saw Buddhism flourish alongside agriculture and trade
+promotion and encouragement of popular religion — an explicit contrast with early Le official
+suppression of new pagoda construction. New villages and local industries appeared; new pagodas and
+statuary; in the second half of the sixteenth century the thousand-eyed, thousand-armed Quan Am became
+extremely popular as protector; village *dinh* (timber administrative and cultural centres) housed
+tutelary-spirit cults.
+
+**Conflict and fall.** The latter half of Mac rule was dominated by war with the restored Le backed by
+Nguyen and Trinh. The Mac built defensive structures outside Dai La higher than those of the Royal
+City, but were defeated in 1592 and fled north (rump survival in Cao Bang under Chinese dual
+recognition is developed more fully in Taylor). Cham of Panduranga had paid tribute to the Le until the
+Mac usurpation (1526); relative sixteenth-century calm on the Cham frontier reflected this internal
+Vietnamese power struggle.
+
+Cross-links: [[le-dynasty-vietnam]] · [[dai-viet]] · [[thang-long]] · [[champa]] ·
+[[seventy-years-war-vietnam-1533-1592]] · [[miksic-goh-ancient-southeast-asia-2017]]

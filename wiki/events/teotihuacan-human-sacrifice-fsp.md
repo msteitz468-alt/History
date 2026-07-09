@@ -22,8 +22,8 @@ causes:
   - "[[teotihuacan-formation]]"
 consequences:
   - "[[mesoamerican-state-formation]]"
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, late-antiquity, mesoamerica]
 ---
 
@@ -87,10 +87,34 @@ Stable isotope evidence for geographic origins of victims (White et al. 2002) re
 
 The FSP sacrifices are compared most directly to the Moon Pyramid tomb series, with which they share the shell maxilla collar, obsidian feathered serpent forms, Storm God jars, and the broader Feathered Serpent/Storm God symbolic frame. The presence of both programs at the same broad horizon (Miccaotli / Early Tlamimilolpa) suggests a city-wide ritual tradition rather than isolated cult practices.
 
+## Evans & Webster 2001
+
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster (eds.) 2001]]
+corroborates scale and military attire without resolving captive vs. local-elite identity
+(**EW2001**).
+
+**Karl Taube (Religion and Deities):** excavations at the Temple of Quetzalcoatl recovered
+mass dedicatory graves estimated at **more than 200 adults** (~A.D. 200); majority dressed as
+warriors with shell collars imitating human teeth/jaws (possible coup markers).
+
+**Jeffrey R. Parsons (Basin of Mexico):** construction of some of Teotihuacán’s earliest
+public buildings (e.g., Temple of Quetzalcoatl in the Ciudadela) associated with large-scale
+sacrifice of **dozens of warriors**, bodies and offerings interred in and around the
+building — lower count reflects older summary phrasing; Taube/Cowgill ~200 is the working
+aggregate.
+
+**David Webster (Warfare):** scores of sacrificed males in military regalia (and some
+females) at Temple of Feathered Serpent, Ciudadela, ~A.D. 200–250 indicate “a stronger role
+for war and militarism at Classic Teotihuacan than previously suspected.”
+
+**Townsend (Sacred Landscape):** ~200 sacrificed victims mostly military attire under
+platform foundations; building as seat of theocratic rulership rather than pure cult temple
+— see [[teotihuacan-political-organization]] (do not adjudicate).
+
 ## Related
 
 - `part_of: [[feathered-serpent-pyramid]]`
 - `part_of: [[ciudadela-teotihuacan]]`
 - `concurrent_with: [[moon-pyramid]]` (tomb series)
 - `contributed_to: [[mesoamerican-state-formation]]`
-- `[[cowgill-ancient-teotihuacan-2015]]`
+- `[[cowgill-ancient-teotihuacan-2015]]` · `[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]`

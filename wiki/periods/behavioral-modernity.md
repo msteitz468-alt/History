@@ -7,8 +7,8 @@ date_range: "50,000–12,000 BP"
 regions_covered: [africa, europe, near-east, east-asia, south-asia, southeast-asia, australia, north-america, andes, amazonia, eastern-north-america]
 major_themes: ["Out of Africa 2 dispersal", "global colonization", "Neanderthal extinction", "Late Glacial Maximum", "cave art and symbolic culture", "Paleolithic lifeways", "climate and human migration", "Clovis culture", "megafaunal extinctions", "Natufian culture and pre-agriculture"]
 collection_coverage: strong
-sources_ingested: 3
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [period]
 ---
 
@@ -85,6 +85,54 @@ humans entered Europe). The mechanisms of Neanderthal extinction remain debated 
 competition, disease, climate change, and interbreeding all may have played
 roles. The decisive modern-human advantage was likely cumulative cultural
 creativity (the Neanderthal record shows striking stasis over 200,000 years).
+
+### Fagan & Durrani (2020) — Origins Revision and "No Cognitive Big Bang"
+
+Fagan & Durrani (2020) present a significantly revised chronology for *H.
+sapiens* origins, driven largely by the **2017 re-dating of Jebel Irhoud,
+Morocco** (via thermoluminescence) to **~315,000 ± 34,000 BP** — fossils long
+classified as Neanderthal are now recognized as very early *H. sapiens*,
+pushing the species' origin back by roughly 100,000 years from the prior
+~200,000 BP consensus and relocating the earliest known population to
+**North Africa** rather than the "tropical homeland" of East/South Africa.
+Quote: "our species goes back to 300,000 years, if not earlier." The Jebel
+Irhoud skulls show a mosaic of modern (jaw) and archaic (elongated
+braincase) features, described as "early, somewhat archaic *H. sapiens*."
+Other African fossil evidence, in ascending order of antiquity: Herto,
+Ethiopia (*H. sapiens idaltu*, ~160,000 BP, found 2003); Omo Kibish, Ethiopia
+(~195,000 BP, found 2005); the Florisbad Skull, South Africa (possibly up to
+~260,000 BP). The first fully anatomically modern humans (flat/short face,
+high round braincase) are dated to Skhul and Qafzeh, Israel, ~120,000–80,000
+BP, with "a date of around 120,000 is currently given for the first AMHs."
+An mtDNA study of 147 women across Africa/Asia/Europe/Australia/New Guinea
+estimated the most-recent-common-ancestor at ~171,500 BP (±50,000), with the
+earliest African/non-African split ~52,000 BP (±27,500), supporting a single
+African source population roughly 200,000 years old. Fagan & Durrani frame
+the modern behavioral package as emerging gradually rather than in a single
+"human revolution" — explicitly noting **no cognitive big-bang** — consistent
+with the wiki's existing "recent revisionism" note above.
+
+On the **Toba bottleneck**, Fagan & Durrani register a 2020-edition
+revision: the "volcanic winter" catastrophist model (Mt. Toba, Sumatra,
+~73,500 BP, reducing humanity to 4,000–10,000 reproductive-age females) is
+now **largely rejected**. Newer climate reconstructions put actual cooling
+at only ~2.5°C for a few years (locally as little as 1°C in India);
+Jwalapuram (India), Lake Malawi sediment cores (2013), and a 2015 East
+African climate study found no evidence of a severe volcanic winter or
+population disruption coincident with the eruption. The genetic bottleneck
+itself is now dated later, ~50,000–20,000 BP, and is attributed to the
+small founder population of the Out-of-Africa dispersal rather than to Toba.
+This should be read alongside the bottleneck discussion above, which treats
+the Toba link as merely "possibly linked" and contested — Fagan & Durrani's
+2020-edition synthesis goes further, treating the catastrophist reading as
+superseded.
+
+Fagan & Durrani also confirm the 2010 identification of the **Denisovans**
+(Denisova Cave, Altai Siberia) alongside the Neanderthal genome sequencing —
+see [[../actors/denisovans]] and [[../actors/neanderthals]] — and note that
+"hybridization was probably a feature of human evolution throughout most of
+the past 7 Ma," with *H. sapiens*, Neanderthals, and Denisovans still
+regarded as genuinely distinct species despite repeated interbreeding.
 
 ### The European Upper Paleolithic Sequence (Hoffecker, Ch. 16)
 

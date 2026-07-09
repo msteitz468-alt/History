@@ -84,6 +84,26 @@ tables and the unique Egyptian census** — and therefore remains **contested** 
 expectancy, the reality of family limitation, sex differentials, the gross population of the empire
 — commonly estimated around 50–60 million — all turn on slender and skewed evidence).
 
+## Ancient economy (Cambridge Economic History)
+
+Walter Scheidel's demography chapter in
+[[scheidel-cambridge-economic-history-greco-roman-world-2007|The Cambridge Economic History of the
+Greco-Roman World]] (2007) largely corroborates Frier's figures while placing them in a wider
+Greco-Roman comparative frame — see [[ancient-demography]] for the full treatment. Points specific
+to Rome worth cross-referencing here: Roman Egypt's roughly 300 census returns (first–third
+centuries CE) independently yield life-expectancy estimates of 22–25 years, consistent with Frier's
+~25-year figure; "Ulpian's life table" and North African tombstone data converge on the same low-20s
+range. Scheidel puts Roman urbanization at roughly 2,000 cities empire-wide (over 400 in Italy
+alone), with aggregate urban population of 7–9 million (roughly one-eighth to one-ninth of the
+total) and Rome itself reaching up to 1 million — a scale unmatched in Europe until London around
+1800. He treats cities as demographic "population sinks" (after Wrigley): urban excess mortality,
+sustained only by continuous rural immigration, absorbed rural natural growth and thereby delayed
+declines in marginal agricultural productivity. Scheidel's Table 3.1 gives the empire's total
+population under Marcus Aurelius (c. 165 CE) at 59–72 million, of which Italy held 8–9 million
+(possibly 12–13 million) and Egypt, the most densely settled province (167–200/km²), 5–6 million.
+The interpretation of the Augustan citizen-census figures underlying these Italian estimates is
+itself contested — see [[roman-population-census-count]] for the "high count vs. low count" dispute.
+
 ## Related
 
 - The [[antonine-plague-165|Antonine Plague]] as the first pandemic; exposure feeding the slave
@@ -91,4 +111,7 @@ expectancy, the reality of family limitation, sex differentials, the gross popul
 - Conditions the [[roman-agrarian-economy|agrarian economy]] (labour, the peasantry) and the
   [[roman-family-and-household|family and household]]; the [[high-imperial-senatorial-order|Senate]]'s
   replenishment ([[roman-social-structure-high-empire|elite mobility]])
+- [[ancient-demography]] — the wider Greco-Roman demographic framework (Scheidel)
+- [[roman-population-census-count]] — the Augustan census high-count/low-count controversy
 - Source: [[bowman-cah-v11-2000]] (Ch. 27, Bruce W. Frier)
+- Source: [[scheidel-cambridge-economic-history-greco-roman-world-2007]] (Ch. 3, Walter Scheidel)

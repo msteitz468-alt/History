@@ -9,8 +9,8 @@ affiliated_with: [the "hill-men" faction, Argos, Eretria, Thebes, Thessaly, Mace
 opposed_by: [the "plain" (Lycurgus) and "coast" (Megacles/the Alcmaeonids) factions]
 key_events: [the war against Megara, the three bids for tyranny, the battle of Pallene (546), the conquest of Naxos, the cultural reorganization of Athens]
 key_processes: [the consolidation of tyranny, the strengthening of public cults, the development of Attic trade and art]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, archaic-period, central-greece]
 ---
 
@@ -105,9 +105,25 @@ Hipparchus' [[assassination-of-hipparchus-514bce|assassination]] (514) and fell 
 in 510 — clearing the way for the [[cleisthenic-reforms-508bce|Cleisthenic reform]] that
 his preservation of Solon's order had left intact to build on.
 
+## Hall (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] places Pisistratus in a longer pan-Attic integration process rather than a qualitative break:
+
+- Dies 528/7, thirty-three years after first seizing tyranny; sons succeed; democratic revolution of late sixth/early fifth would have been difficult without his rule (not every tyranny led to democracy — Corinth stayed largely oligarchic).
+- **Regional factions ca. 560** (pedion/Lykourgos; paralia/Megacles; hyperakrioi/Pisistratus) better fit incomplete political unification of Attica than modern “parties”; *hyperakrioi* is an uncomplimentary urban term; Cleisthenic reforms close a longer process.
+- **Theseus–Pisistratus parallels** and promotion of Theseus under the tyranny (not only post-510 democracy): village judges (*dikastai kata dêmous*) and tours of the *khôra*; Hipparchan herm milestones from the Altar of the Twelve Gods into the mesogaia (Koropi find); extraurban–urban sanctuary pairs (Eleusis/City Eleusinion; Brauron; Dionysus Eleuthereus) as sixth-century territorial integration.
+- Caution against **downdating** building programs from Pisistratus/sons to Cleisthenic 510–500: leaves thirty-six years of uninterrupted power under-explained; Thuc. 6.54.5 on beautifying the city; Bluebeard Temple likely with 566/5 Panathenaea; long construction means post-510 completion can still be pre-expulsion commissions.
+- Continuities: administration “more constitutional than tyrannical” (*AC* 16.2); existing laws kept except that Pisistratids always held chief magistracies (Thuc. 6.54.6). Agricultural tax tradition 10% (*AC* 16.4) or 5% (Thuc. 6.54) as surplus extraction. Wappenmünzen shortly after mid-sixth under Pisistratids; owl series only last quarter of sixth.
+
+## From the Oxford History of the Classical World (1986)
+
+**Forrest (Ch.1, [[sources/boardman-oxford-history-classical-world-1986|OHCW 1986]]).** After Solon, intermittent tyranny: Pisistratus, after two trial runs, put himself firmly in charge in **546**, succeeded by his sons after his death in **528**. Forrest’s portrait: blue-blooded leader of the “outback”; public works (temples, fountain-houses, even drains); fostering Athena’s cult; national festivals and games—the Panathenaea (oil prizes) and the Dionysia, “where first moves were made towards one of Athens’ greatest creations, the drama”; itinerant judges that weakened local aristocrats. Thesis: a generation of tyranny arguably did **more** to encourage national unity, local pride, and individual dignity than continuing pure Solonian constitutionalism would have, by attracting attention to the city of Athens.
+
+**Hornblower (Ch.6).** Pisistratid cultural patronage already made Athens a magnet before 478—one reason Athens, not Corinth or a reluctant Sparta, was the only viable leader of the liberated Aegean Greeks when the Delian League formed.
+
 ## Related
 
 - City: [[athens]] · preserved the reforms of [[solon]] · rivals: the [[alcmaeonids]] (Megacles) · Lycurgus
 - A moderate case of [[greek-tyranny]] · allies: Lygdamis of Naxos · [[polycrates]] · [[euboea|Eretria]] · Argos
 - Successors: [[pisistratidae]] (Hippias & Hipparchus) → [[cleisthenes]] · Bequest: the Panathenaea · Attic drama (Thespis)
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 44, Andrewes) · [[boardman-cah-v4-1988]] (Ch. 4, Lewis)
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 44, Andrewes) · [[boardman-cah-v4-1988]] (Ch. 4, Lewis) · [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

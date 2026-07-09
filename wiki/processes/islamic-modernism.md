@@ -22,8 +22,8 @@ produces:
   - salafiyya
   - arab-nationalism
   - political-islam
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags:
   - process
   - Long 19th Century
@@ -83,6 +83,23 @@ The movement split into several trajectories:
 - The [[salafiyya]] proper (Rashid Rida and successors): Arabist, Shari-minded, increasingly aligned with Wahhabism, hostile to Sufism and popular Islam.
 - Arab liberal nationalism: Abduh's followers like Qasim Amin and Taha Husayn who prioritized social reform (women's emancipation, Fus̝ā Arabic as national medium) over specifically religious concerns.
 - Political Islam: movements like the Muslim Brotherhood (founded 1928, outside this source's range) that drew on Modernist vocabulary but rejected the accommodation with Western political forms.
+
+## Deeper Asian Transmission (Formichi)
+
+Chiara Formichi's [[formichi-islam-and-asia-2020|*Islam and Asia: A History*]] (2020) extends the
+geographic map of *al-Manar*'s reach well beyond the Arab world Hodgson emphasizes: Rida's journal
+inspired offshoots in Russia (*al-Shura*, serving the Volga-Tatar community), Southeast Asia
+(*al-Imam*, Singapore, 1906; *al-Munir*, Sumatra), South Asia (*al-Hilal* and *al-Balagha*, edited
+by Abu al-Kalam Azad), and China (*Yuehua*, 1930s, produced by students the Shanghai and Beijing
+Islamic schools sent to study at al-Azhar). Formichi (2020) adds two further reformist figures
+often read alongside this network: **Sayyid Ahmad Khan** (1817–1898), whose "Occidentalism" combined
+Western education with a defense of Islam and founded Aligarh's Mohammadan Anglo-Oriental College
+(1875); and **Ismail Gasprinskii** (1851–1914), the Crimean Tatar publisher of *Tercüman* (1883),
+who fused pan-Turkism, pan-Islamism, and educational reform (*jadidism*) and organized the first
+pan-Islamic congress (Cairo, 1907). Kemalist Turkey's 1925 ban on the fez, and its discouragement of
+veiling as a marker of modernization, likewise rippled into Modernist-inflected debates over veiling
+in India, the Dutch East Indies, and among China's Hui Muslims. See [[sunni-internationalism]] for
+the political-organizational dimension of this network.
 
 ## Geographic Spread
 

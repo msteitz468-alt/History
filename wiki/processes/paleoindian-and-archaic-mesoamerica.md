@@ -8,7 +8,7 @@ region: [mesoamerica]
 process_type: demographic
 driven_by: [peopling from northeast Asia, post-Pleistocene environmental change, population growth, plant management and domestication]
 produces: [forager occupation of Mesoamerica, Archaic broad-spectrum economies, agricultural origins including maize]
-sources_ingested: 2
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [process, mesoamerica]
 ---
@@ -128,6 +128,35 @@ characteristic extending to ~40,000 ya — simple unifacial tools ancestral to l
 bifacial points, paralleling NE Asian Upper Paleolithic; early migrants may have been
 opportunistic foragers with perishable specialized tools (Monte Verde reminder).
 
+### Evans & Webster 2001 — Introduction frame
+
+The encyclopedia Introduction (Webster & Evans) restates the consensus that New World
+populations came from northeast Asia via Beringian land bridge and/or shoreline boats.
+**Clovis** peoples with distinctive projectile points were widespread in the western
+United States by **11,500–11,000 B.P.**; similar artifacts appear in northern Mexico with
+surface finds as far south as Panama. **Santa Isabel Iztapan** (Basin of Mexico): mammoth
+kill/butchery ~**11,000 B.P.** Northern Yucatán carried temperate thorn-scrub vegetation
+before ~14,000 years ago rather than tropical forest.
+
+On **pre-13,500 B.P.** claims: 1997 Paleoindian consensus accepted human settlement in
+central Chile by at least 13,500 B.P. (possibly much earlier), implying earlier passage
+through Middle America, but **solid local evidence predating the very end of the
+Pleistocene remains lacking**. Valsequillo and Tlapacoya (Central Highlands) and El
+Bosque (Nicaragua) yield possible tools with extinct fauna and radiocarbon >21,000 B.P.,
+but associations and artifact status remain questionable — more *plausible* after South
+American redating, still not *secure*.
+
+**Archaic (8000–2000 B.C.)** is framed as the interval of agricultural origins: Mesoamerica
+as a world domestication hearth with sparse animal domesticates (dogs, turkeys, ducks)
+but rich plant package (maize, beans, squash, chocolate, tomatoes, chile, cotton,
+avocado, gourds, tobacco, etc.). Maize from **teosinte** in west-central Mexican uplands;
+directly dated samples ≤~4,700 years; likely first domestication **4000–3000 B.C.**;
+wide spread 4,000–3,500 years ago as adjunct to wild diets; after **2000 B.C.** many
+Mesoamericans were settled pottery-using agriculturalists. Key dry-cave evidence:
+Tehuacán, Oaxaca, Tamaulipas (southern fringe of the Northern Arid Zone).
+
+Source: [[evans-webster-archaeology-ancient-mexico-central-america-2001]].
+
 ### Archaic
 
 **Start date.** Radiocarbon dates from two stratified Oaxaca Valley sites establish the
@@ -226,8 +255,62 @@ best Early Archaic foraging models. Collection coverage for the Americas remains
 archaeology-heavy; this chapter is a primary structural source for the wiki's Mesoamerican
 deep prehistory.
 
+## From Evans & Webster 2001 — Paleoindian and Archaic entries
+
+### Paleoindian (Thomas R. Hester)
+
+Conservatively, first people in Mesoamerica are placed at **11,500 years ago** because Clovis
+points of early Paleoindian occur across Mexico, Guatemala, Belize, and into Central America,
+contemporary with the Llano Complex (11,200–11,500 ya) of the American Southwest. Most
+Mesoamerican Clovis points are **surface finds**; none has been found in stratigraphic context,
+and none is associated with mammoth kills. Fell’s Cave/fish-tail fluted points known in Belize
+and Panama—South American fluting tradition extended north; age relative to Clovis unclear.
+Late Paleoindian (8200–6800 B.C. Southern Plains forms) hard to recognize. Golondrina Complex
+(~9,000 ya) at San Isidro (Nuevo León); La Calsada Rockshelter bipointed “Lerma” points in
+clear early context 9550–10,600 ya. Hester urges regional Mesoamerican Paleoindian patterns
+rather than forcing North American typology—“materials may prove much different.” See
+[[clovis-first-vs-pre-clovis]] for Pre-Clovis claims assessment.
+
+### Archaic overview (Richard S. MacNeish)
+
+Archaic follows Paleoindian hunting of extinct Pleistocene fauna and precedes Formative
+(~2000 B.C.) agriculture, village life, and pottery. Three substages: (1) Early Archaic/First
+Forager—seasonal scheduling, grinding stones, weaving, storage; (2) Middle Archaic/Incipient
+Agriculture—agriculture beginnings, stone bowls, complex storage, notched atlatl points;
+(3) Late Archaic “semisedentary”—expanded agriculture, more domesticates, pit houses,
+mano-metate complex. Limited remains indicate ≥3 highland and 3–5 lowland traditions + northern
+periphery. **El Riego tradition** c. 7600–5000 B.C. from Tecolote Cave (Hidalgo) to El Riego
+in the [[tehuacan-region|Tehuacán Valley]]. Late Archaic highland/lowland dichotomy foreshadows
+Formative Mesoamerica; Zohapilco levels may be permanent settlements; Tehuacán may include
+pit-house hamlets + macroband camps linked to surplus hybrid maize. Gulf Coast Palo Hueco at
+Santa Luisa (Veracruz) c. 3250–2410 B.C. may be large preceramic village. “The Archaic is the
+base on which the Formative stage of Mesoamerican culture was built.”
+
+### Domestication trajectory (Scott L. Fedick)
+
+Highland valleys of Oaxaca, Tehuacán, and to some degree Basin of Mexico: hunting-gathering
+~10,000–7000 B.C. with shift from large game to smaller game and plants; plant collection
+increases 7000–5000 B.C.; small domesticated maize ~5000 B.C.; by ~1500 B.C. (or earlier)
+permanent settlements with full-time agriculture. Pollen: maize into humid southern tropics
+~3000 B.C. with Archaic slash-and-burn as supplement; sedentary villages in lowlands
+~2000–1000 B.C. with coastal/estuarine resources + incipient agriculture. Domestic dogs not
+evidenced before ~2000 B.C.; Tehuacán caves ~1900–1400 B.C. (Flannery).
+
+### Sites
+
+**Gheo-Shih** (Oaxaca): 1.5-ha open-air hunting/gathering/incipient cultivation site with
+boulder-lined cleared ritual/dance area (Flannery). **La Conchita** (Veracruz): 7600 B.P. hearth
+with pebble chopper—oldest confirmed human presence in eastern lowland Mexico (Wilkerson).
+**Cueva Blanca** (Oaxaca): Late Ice Age fauna then 3300–2800 B.C. levels with gendered activity
+areas. Tehuacán Ajuereado–Abejas phases: see [[tehuacan-region]].
+
+Source: [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]
+(Paleoindian Period; Archaic Period; Agriculture and Domestication; Tehuacan Region).
+
 ## Related
 
 [[mesoamerican-periodization]] · [[maize-domestication]] · [[early-agriculture-americas]] ·
 [[clovis-first-vs-pre-clovis]] · [[basin-of-mexico]] · [[mesoamerican-preclassic]] ·
-[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 2]]
+[[tehuacan-region]] ·
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 2]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

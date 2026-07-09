@@ -33,8 +33,8 @@ produces:
   - "Dārā Shikūh's Hindu–Muslim synthesis projects; [[dara-shikuh]]"
   - "Naqshbandī theological reaction against ecstatic Sufism"
   - "[[shah-waliullah]]'s 18th-century reform synthesis"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags:
   - process
   - Early Middle Ages
@@ -125,6 +125,27 @@ The [[qadiriyya]] expanded from Ucch to Indonesia and Malaysia, carrying the Ind
 ## End Conditions
 
 The process is ongoing. Colonial period (British occupation of Sind 1843; Partition 1947) reorganised but did not end dargāh culture. The Naqshbandī *madrasa* tradition (Deoband school) perpetuated Shah Walīullāh's reformist impulse in attenuated form, while popular saint veneration persists across Pakistan, Bangladesh, and India.
+
+## Formichi: The Naqshbandi-Haramayn Network and Trans-Asian Renewal (tajdid)
+
+Chiara Formichi ([[formichi-islam-and-asia-2020]]) situates Baqi Billah's Delhi khanaqa and Ahmad
+Sirhindi's Mujaddidi reform within a wider trans-Asian Naqshbandi network rather than as a purely
+South Asian development: Sirhindi — "renewer of the second millennium" (*mujaddid alf saani*) —
+drew on a chain of transmission that had passed through Bukhara and would, in turn, be claimed by
+later Central Asian reformers. Formichi traces one such line through **Ishan Niyazquli
+at-Turkmani** to **'Abd al-Nasir al-Qursawi** of Bukhara (1776–1812), whose ijtihad-focused
+reformism fed the late-19th-century **Jadidist** educational reform movement among Tatar and
+Bukharan scholars responding to Russian rule — a genealogy connecting Delhi's Naqshbandi
+revivalism to Central Asian modernism independent of Wahhabi influence. She also credits **Shah
+Waliullah** (1703–1762; see [[shah-waliullah]]) as "the intellectual ancestor of virtually every
+Islamic movement in modern India," his descendants splitting into the moderate juridical path of
+Shah Abdul Aziz and the militant path of Shah Isma'il and Sayyed Ahmad Barelvi (whose 1826 jihad
+against the British and Sikhs anticipates the Deobandi current this page already traces to
+Waliullah). Formichi's frame reinforces this page's account of a South Asian Naqshbandi reaction
+while situating Baqi Billah's Delhi khanaqa as a node fed directly from Medina-based teachers
+(Ahmad al-Qushashi, Ibrahim al-Kurani) who also trained the Sufi returnees who carried Naqshbandi
+teaching into [[islamization-of-southeast-asia|maritime Southeast Asia]] — evidence, per Formichi,
+of a genuinely **multidirectional** rather than one-way Islamic scholarly network across Asia.
 
 ## Historiography
 

@@ -8,7 +8,7 @@ region: [global]
 process_type: [economic, environmental, technological]
 driven_by: ["human selection (conscious and unconscious)", "[[agricultural-origins]]", "coevolution of humans, plants, and animals"]
 produces: ["domesticated crop and livestock packages", "[[secondary-products-revolution]]", "anthropogenic landscapes", "human dietary and disease change"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [process, neolithic, global]
 ---
@@ -69,6 +69,18 @@ Guinea); the zebu (South Asia). Domesticates then travelled far beyond their
 hearths via [[agricultural-origins|diffusion and exchange]], often decoupled
 from the people who first bred them — a process the editors call "food
 globalization."
+
+## Southwest Asian founder domesticates (Fagan & Durrani 2020)
+
+DNA evidence points to the **Karacadağ Mountains** of southeastern Turkey as the
+likely origin area of the earliest cereal domesticate, **einkorn wheat**;
+rachis-toughening (the key non-shattering trait) could occur within as little as
+**20–30 generations** once human selection began — a strikingly rapid
+morphological shift. **Goats and sheep** were the first Southwest Asian animal
+domesticates, by ~9500 BCE; **cattle** (*Bos primigenius*) were domesticated from
+small local female stock in the Near East/southeastern Anatolia (per mtDNA
+evidence) by ~8000 BCE, consistent with Andrew Smith's arid-herding model.
+(Fagan & Durrani 2020)
 
 ## Interaction
 

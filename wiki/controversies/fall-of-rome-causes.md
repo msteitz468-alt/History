@@ -3,7 +3,7 @@ title: Causes of the Fall of the Western Roman Empire
 dispute_type: causation
 period_involved: [Late Antiquity, Early Middle Ages]
 regions_involved: [western-europe, mediterranean, north-africa, italy]
-positions: [internal decline, external invasion, gradual transformation, environmental/epidemic, economic/fiscal, state-collapse trigger, Wickham Framing 2005 no inherent instability + invasion catalyst]
+positions: [internal decline, external invasion, gradual transformation, environmental/epidemic, economic/fiscal, state-collapse trigger, Wickham Framing 2005 no inherent instability + invasion catalyst, Harris 2016 two separate contractions ending empire after Yarmuk, Woolf 2012 persistence-not-decline + multi-causal third-century frontiers + post-imperial religious environment, Mitchell 2015 external forces + fiscal-military hollowing + plague for eastern end]
 resolution_status: open
 last_updated: 2026-07-08
 tags: [controversy]
@@ -27,12 +27,17 @@ Contradiction Protocol, positions are recorded with their best arguments, not ad
 ## Positions
 
 **1. Internal decline ("decline and fall").**
-The classic view, framed by **Edward Gibbon** (1776–89): moral, civic, and military
-decay, the burden of Christianity diverting energy from the state, over-taxation, and the
-loss of civic virtue hollowed Rome from within so that external blows merely finished it.
-*Strength:* explains the contrast with a healthier East. *Weakness:* moralizing,
-teleological, and hard to test; modern scholars reject the "Christianity sapped Rome"
-thesis.
+The classic view, framed by **[[actors/gibbon-edward|Edward Gibbon]]** (1776–88) in
+*[[sources/gibbon-decline-and-fall-1776|The Decline and Fall]]*: moral, civic, and military
+decay from an Antonine high; military despotism (Severus as “principal author of the decline”);
+immoderate greatness ripening the principle of decay; the burden of Christianity diverting energy
+from the state (while also softening conquerors — a double verdict in the General Observations);
+over-taxation; loss of civic virtue and military spirit in “servile provinces” dependent on
+mercenaries. External blows finish a structure already hollow. Full concept page:
+[[concepts/gibbonian-decline-thesis]].
+*Strength:* unmatched problem-statement and narrative unity; forces the internal-preconditions
+question. *Weakness:* moralizing, teleological, hard to test; modern scholars reject the
+"Christianity sapped Rome" thesis as a total explanation; thin social-economic and archaeological base.
 
 **2. External invasion ("the barbarians did it").**
 The fall was fundamentally a **military conquest** by Germanic peoples, themselves
@@ -97,13 +102,50 @@ survived the Germanic kingdoms intact and only ended when the **Arab/Islamic con
 (7th c.) broke Mediterranean unity — "without Muhammad, Charlemagne is inconceivable."
 Heavily criticized on the archaeology of trade, but still generative.
 
+## Harris 2016: two separate contractions; empire ends after Yarmuk
+
+[[harris-roman-power-2016|W. V. Harris, *Roman Power* (2016)]] refuses a single
+“fall of Rome” narrative. Within his [[roman-power|external–internal power]] frame:
+
+1. **Western contraction** (crucial decades c.370s–430s/455) — multi-factor: inadequate
+   army size/quality, fiscal-military spiral, demilitarized elite, mass alienation,
+   Christian intolerance as military-relevant, federate loyalty failures. Detailed
+   position: [[causes-of-the-fall-of-the-western-roman-empire]] §7.
+2. **Eastern contraction** (c.560s–636/41) — a **separate chain**: Justinian’s reconquests
+   over-extended an empire later rulers could not defend (“Justinian’s Folly”); Muslim
+   militarization, Monophysite/Chalcedonian division, poor generalship/discipline, and
+   invasion–fiscal vicious circles all figure; [[battle-of-yarmuk-636|Yarmuk]] (636) and
+   loss of Syria/Egypt (~75% revenue impact in Harris’s account) end the Roman *empire*
+   as empire by c.636–42 (not 476, not 1453).
+
+Harris thus partly overlaps Pirenne’s chronological emphasis on the seventh century while
+rejecting both premature western cut-offs and Gibbonian continuity to 1453 as *empire*.
+Cross-period comparison with the mid-Republic (high MPR, war devotion, elite military
+responsibility) is load-bearing for his diagnosis of late-antique military failure.
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+[[woolf-rome-empires-story-2012|Greg Woolf]] restates a standing thesis at the fall: modern collapse studies offer alternative catastrophes rather than a single theory of imperial decay; early empires had many failure points. “The argument of this book has been that it is persistence and survival that needs to be explained, not decline and fall. Rome’s genius—or good fortune—lay in the ability to recover from crisis after crisis. Until this one.” For the late-second/third-century frontier change he lists rival schools without verdict: barbarian societies transformed by long Roman contact (“lost the arms race”); eastern military commitment stripping the west; steppe pressure (later Huns) pushing settled groups onto the frontiers—knowledge beyond the *limes* remains sparse.
+
+On terminal chronology, Woolf is reluctant to fix a single end: 476 may not have seemed a watershed; his imperial *story* ends with the mid-seventh-century Arab conquests and the “three heirs” (western Christendom, Islam, Byzantium), without claiming exclusive Byzantine heirship. External environment (Mediterranean corridor, climate, demography) is largely unchanged by the seventh century: “Few historians today subscribe to either an epidemiological or a climatic explanation for the collapse of Roman power.” His distinctive late thesis: “Christianity and Islam did not destroy the Roman Empire, but the world they introduced was one less friendly to the great political empires of antiquity”—a post-imperial environment, not a destroyer-of-Rome claim. Companion positions on transformation-vs-collapse language: [[causes-of-the-fall-of-the-western-roman-empire]].
+
+## Mitchell, *Later Roman Empire* (2015)
+
+Attributed from [[mitchell-later-roman-empire-2015|Mitchell 2015]] (narrative spine + new Ch. 13). Complements the companion western-focused controversy with an **east+west** end-date through 641.
+
+- **External forces as main clue (narrative thesis).** Enormous external pressures — Avars, Turks, Slavs, Lombards; Sassanian resurgence under [[khosrow-ii|Khusro II]]; Arab conquests — “rather than internal decadence and decay, provide the main clues to the decline and fall of the Roman Empire.” At [[heraclius|Heraclius]]’s death (641) rule south-east of the capital was gone.
+- **Multi-causal western process.** 406 Rhine incursion as possible decisive moment; Heather-style territorial cessions → revenue loss → elite defection; magisterial military rule; Vandal Africa cutting the fiscal heart; 468 naval catastrophe; Ricimer’s revolving western emperors; [[odoacer|Odoacer]] 476 as endpoint of a longer process.
+- **Eastern climax: plague over pure war exhaustion.** Against purely military mutual-exhaustion explanations of the 630s, Mitchell’s Ch. 13 climax thesis makes recurrent [[justinianic-plague-541|bubonic plague]] the **central** cause of eastern demographic-economic recession enabling Persian then Arab success — a stronger epidemiological weighting than Woolf’s “few historians today subscribe to… epidemiological… explanation.”
+- **Counter-reformation historiography.** Maps Heather/Ward-Perkins as a “counter-reformation” against the Brown school (O’Donnell’s label, reported by Mitchell) while still absorbing Wickham’s fiscal typology and Sarris on eastern estates.
+
 ## Resolution Status
 
 **Open.** Current scholarship tends toward multi-causal synthesis — external pressure
 acting on a fiscally and demographically strained system, with the **East's survival**
 showing the outcome was contingent, not inevitable. The deepest fault line is moral and
 methodological: was 476 a **catastrophe** (Ward-Perkins) or a **transformation**
-(Brown)? CWH IV sits with the transformationists.
+(Brown)? CWH IV sits with the transformationists. Harris adds a full-arc power-structure
+frame and insists the seventh-century eastern crisis is not a delayed epilogue to 476.
 
 ## See Also
 
@@ -111,4 +153,6 @@ methodological: was 476 a **catastrophe** (Ward-Perkins) or a **transformation**
 [[late-antiquity]] · [[early-middle-ages]] · [[hunnic-migrations]] · [[great-man-vs-structural-causation]] ·
 [[demonetisation-of-the-post-roman-west]] · [[tax-based-vs-land-based-states]] · [[aristocratic-demand]] ·
 [[politics-of-land]] · [[causes-of-the-fall-of-the-western-roman-empire]] ·
-[[sarris-empires-of-faith-2011]] · [[sources/wickham-framing-the-early-middle-ages-2005]]
+[[sarris-empires-of-faith-2011]] · [[sources/wickham-framing-the-early-middle-ages-2005]] ·
+[[harris-roman-power-2016]] · [[roman-power]] · [[battle-of-yarmuk-636]] · [[justinian]] ·
+[[woolf-rome-empires-story-2012]] · [[mitchell-later-roman-empire-2015]]

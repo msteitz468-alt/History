@@ -34,8 +34,8 @@ consequences:
   - extension of Dar al-Islam into former Mongol heartland
   - acceleration of Islamization in eastern steppe regions
   - [[post-mongol-islamic-world]]
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags:
   - event
   - religious
@@ -93,5 +93,7 @@ Several structural factors facilitated conversion:
 **produced**: [[post-mongol-islamic-world]] as a specifically Islamic rather than pagan-Mongol political order; integration of military-patronage-state traditions into Islamicate governance
 
 **concurrent_with**: [[mamluk-sultanate]]'s role as champion of Sunni Islam; continued Ottoman expansion as ghâzî Muslim state
+
+Formichi (2020) extends the picture eastward: beyond the Ilkhanid (Ghazan) and Golden Horde (Oz Beg) conversions, she treats **Tughluq Timur Khan's** conversion (r. 1347–1362) as the event that brought "most Turkic peoples of Central Asia" into Islam — the decisive step for the eastern [[chaghatay-khanate|Chaghatay]] steppe (see that page). She reads these Sufi-mediated conversion narratives cautiously as later hagiography. See [[formichi-islam-and-asia-2020|Formichi, *Islam and Asia* (2020)]].
 
 Source: [[hodgson-venture-of-islam-v2-1974]], Book Four, Chapter I.

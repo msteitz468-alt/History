@@ -9,7 +9,7 @@ positions:
 resolution_status: partially-resolved
 last_updated: 2026-07-08
 tags: [controversy, periodization, "Behavioral Modernity", north-america, south-america]
-sources_ingested: 4
+sources_ingested: 6
 ---
 
 ## The Dispute
@@ -188,3 +188,39 @@ Snow’s threshold: “for the moment, at least, it appears that all of the real
 Snow’s chapter belongs to the late Clovis-first / high-burden-of-proof school. The wiki’s broader resolution status (**partially-resolved** against strict Clovis-first after Monte Verde 1997) supersedes his verdict on *whether* pre-Clovis exists, while his **detection-method and collapsed-site inventory** remain load-bearing for why the debate was so bitter and why many early claims failed. Dental/blood-group three-wave chronology and Siberian analogs are summarized on [[paleoindian-and-archaic-north-america]]. Companion concept page: [[clovis-first-controversy]].
 
 *Source: [[sources/cambridge-history-native-peoples-americas-v1-1]], ch. 3 (Snow).*
+
+## From Evans & Webster 2001 — Mesoamerican Paleoindian (Thomas R. Hester)
+
+Hester’s encyclopedia Paleoindian Period entry is a **Mesoamerica-focused** high-burden
+assessment of Pre-Clovis claims, not a New World-wide verdict:
+
+- Despite claims (notably by R. S. MacNeish) and localities such as **Loltun Cave**,
+  **Valsequillo**, **El Bosque**, and **Tlapacoya**, there is currently **little solid
+  evidence for Pre-Clovis occupations in Mesoamerica**; data are insufficient though such sites
+  may eventually be found. Acceptance of **Monte Verde** (Chile) could push New World
+  Paleoindian chronology to c. 18,000–20,000 ya.
+- **Tlapacoya:** Lorenzo & Mirambell found fossil bones, stone tools (2,500 lithics including
+  imported obsidian), possible cooking areas RC 21,000–24,000 ya on ancient Lake Chalco—
+  artifact status accepted but association with early dates disputed.
+- **Rancho La Amapola** (San Luis Potosí): hearthlike feature >31,000 ya; few lithics/worked
+  horse bone associations debated.
+- **Santa Isabel Iztapan:** two mammoth kills with non-Clovis points (including “Lerma” and
+  rectangular-base types) and tools including contested obsidian prismatic blade; Tepexpan
+  “Man” (actually adult female) may be contemporary with those finds (~11,000 ya by fluorine).
+- Most Mesoamerican **Clovis points are surface finds**; none has been found in stratigraphic
+  context, and none is associated with mammoth kills. Conservative first-people placement for
+  the region: **11,500 ya** via Clovis distribution across Mexico, Guatemala, Belize, and into
+  Central America.
+
+This leaves Hester (2001 knowledge cutoff) aligned with **cautious Pre-Clovis skepticism for
+Mesoamerica specifically**, while acknowledging continental Monte Verde implications—consistent
+with the wiki’s **partially-resolved** global status (pre-Clovis accepted at selected sites)
+without forcing Mesoamerican Pre-Clovis acceptance from weak local data. See
+[[paleoindian-and-archaic-mesoamerica]].
+
+*Source: [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]],
+Paleoindian Period (Hester).*
+
+## Fagan & Durrani (2020) — Monte Verde as accepted pre-Clovis; Clovis origins "a complete mystery"
+
+Fagan & Durrani (2020) write from a position that treats Monte Verde, Chile as an accepted pre-Clovis site rather than a contested one, and flag that "current DNA evidence is suggesting a first settlement as early as 23,000 years ago" against a still-favored consensus date of roughly 15,000 BP for entry south of the ice sheets. On Clovis itself, they date the fluted-point tradition (named for Clovis, New Mexico) to roughly 11,200–11,000 BC (given elsewhere in their summary as 11,200–10,900 BC), likely rooted in Alaskan forager traditions (Hidden Mammoth, Mesa sites) using bifacial spear points as early as 11,800 BC, with no direct link demonstrated to the Siberian Dyuktai tradition. They are explicit that the popular image of Clovis peoples as specialized "big-game hunters" is misleading: Clovis populations exploited grasslands, woodlands, tundra, deserts, and coasts, and plant foods and fish/sea-mammal resources were locally as important as, or more important than, megafauna. Their toolkit included fluted points on foreshafts designed to snap off in the wound (paralleling Cro-Magnon foreshaft spear technology) and atlatls (spear-throwers), not bows. By 10,000 BC, foragers occupied "every corner of the Americas," with total population estimated at only a few tens of thousands. Notably, Fagan & Durrani decline to resolve Clovis origins, calling them explicitly "a complete mystery" — an epistemic-humility position consistent with, but more cautious than, the wiki's "partially-resolved" status above.

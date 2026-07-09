@@ -9,8 +9,8 @@ affiliated_with: [the Catholic (Nicene) Church, the see of Hippo Regius, Ambrose
 opposed_by: [Manichaeism, Donatism, Pelagianism, Julian of Eclanum, the pagan aristocracy of Rome]
 key_events: [conversion at Milan (386), baptism by Ambrose (387), ordination at Hippo (391), sack of Rome (410), Vandal siege of Hippo (430)]
 key_processes: [Christianization of the Roman Empire, the formation of Latin Christian theology, the transition from classical antiquity to the Middle Ages]
-sources_ingested: 1
-last_updated: 2026-07-03
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, north-africa]
 ---
 
@@ -93,3 +93,17 @@ himself.
 - Places and events: [[hippo-regius]] · [[carthage]] · [[sack-of-rome-410]] · [[vandal-kingdom]]
 - Context: [[late-antiquity]] · [[christianization-of-the-roman-empire]] · [[african-christianity]]
 - Source: [[sources/brown-augustine-of-hippo-2000]]
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+- **Latin Father (R1-016):** Augustine (354–430) wrote works (*De trinitate*, *Confessions*, *City of God*) central to medieval commentary. With Jerome (d. 420; Latin Vulgate) and Ambrose (d. 397; bishop of Milan who humbled Theodosius and modeled Christian ethics on Cicero’s *De officiis*), he forms the classic Latin “Fathers of the Church,” later joined by Gregory the Great—writing for the whole Catholic church, not merely local churches.
+  - Quote: "completing the trinity of these Latin 'Fathers of the Church' is the urbane Ambrose (d. 397) ... to be joined later by Gregory the Great"
+  - Link labels: contributed_to medieval Latin theological library; followed_by Gregory I.
+
+Source: [[logan-history-of-the-church-in-the-middle-ages-2013]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Attributed claims from [[sources/mitchell-later-roman-empire-2015|Stephen Mitchell, *A History of the Later Roman Empire* (2015)]].
+
+- **Conversion as intensification, not pagan-to-Christian.** “This was not a conversion in the style of Constantine. … Augustine’s conversion was from a non-committal lukewarm Christianity to a passionate and life-consuming conviction, and to asceticism.” Both parents were Christian (Patricius a lax catechumen baptized on his deathbed; Monica devout). Path: Vergil/rhetoric, nine years as Manichaean “hearer,” Neoplatonism (via Marius Victorinus’s Latin translations), [[ambrose-of-milan|Ambrose]]’s Milan sermons; garden crisis at 32 renouncing secular ambition and planned marriage for baptism and sexual renunciation. Career: Thagaste → Madauros/Carthage → Rome → Symmachus’s competition for Milan rhetor → threshold of imperial service; panegyric mendacity vs Platonic honesty (*Conf.* 6.6.9). Baptized with Alypius by Ambrose after Cassiciacum; Ostia shared vision with Monica as Neoplatonic ascent. Representative of elite court conversion to ascetic commitment, not of a western population still largely pagan; African municipal public life remained resolutely secular in his lifetime. Related: [[manichaeism|Manichaeism]]; [[city-of-god|City of God]]; [[christianization-of-the-roman-empire|Christianization]].

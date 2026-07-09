@@ -1,19 +1,18 @@
 ---
-title: Medieval European Jewry (Ashkenazi and Sephardic, 11th–12th c.)
+title: "Medieval European Jewry (Ashkenazi and Sephardic, 11th–12th c.)"
 actor_type: movement
-date_start: "c. 1000 CE (consolidation of Ashkenazi settlement)"
+date_start: c. 1000 CE (consolidation of Ashkenazi settlement)
 date_end: ongoing
 period: [High Middle Ages]
-region: [western-europe, mediterranean, iberia, near-east]
-affiliated_with: ["the rulers and towns that protected Jewish settlement", "the rabbinic academies of the Rhineland and northern France"]
-opposed_by: ["crusading mobs (1096)", "intensifying ecclesiastical and popular anti-Judaism"]
-key_events: ["the Rhineland massacres of 1096", "the rise of Jewish moneylending"]
-key_processes: [[[crusades]], [[commercial-revolution]]]
-sources_ingested: 1
-last_updated: 2026-06-12
-tags: [actor, movement, high-middle-ages, western-europe, mediterranean]
+region: ["western-europe", mediterranean, iberia, "near-east"]
+sources_ingested: [1]
+last_updated: "2026-06-12"
+tags: [actor, movement, "high-middle-ages", "western-europe", mediterranean]
+affiliated_with: [the rulers and towns that protected Jewish settlement, the rabbinic academies of the Rhineland and northern France]
+key_events: [the Rhineland massacres of 1096, the rise of Jewish moneylending]
+key_processes: [crusades, "commercial-revolution"]
+opposed_by: [crusading mobs (1096), "intensifying ecclesiastical and popular anti-Judaism"]
 ---
-
 # Medieval European Jewry (Ashkenazi and Sephardic, 11th–12th c.)
 
 The Jewish communities of medieval Europe were, as the editors of
@@ -58,8 +57,24 @@ against Jews and a trauma that marked Ashkenazi memory. The Augustinian guarante
 tolerated, subordinate Jewish place in Christian society was beginning to give way to
 the harsher attitudes that would culminate in the expulsions of the later Middle Ages.
 
+## The Comparative Frame (Cohen)
+
+[[cohen-under-crescent-cross-1994|Mark Cohen]]'s *Under Crescent and Cross* uses
+persecuted Ashkenazi Jewry as the sharp end of its comparison with the
+[[jewry-islamic-world|Jews of the Islamic world]]. On Cohen's structural reading, the
+features visible above — the Jews' concentration into the resented moneylending niche,
+their status as the **sole** significant non-Christian minority in a society aspiring
+to religious unity, the theological centrality of the Jew in Christian thought, and the
+blood-libel fantasy — are precisely the structural conditions absent in the classical
+Islamic world, where Jews were one of several tolerated
+[[dhimmi|dhimmī]] minorities in a diversified economy. The divergence, not the Jews
+themselves, is what his book sets out to explain. See
+[[jews-under-islam-myth-and-countermyth]].
+
 ## Related
 
 - [[crusades]], [[first-crusade-1095]] — the 1096 massacres.
 - [[commercial-revolution]] — the economy into which Ashkenazi Jewry settled.
 - [[al-andalus]], [[almohads]] — the Sephardic world and its twelfth-century persecution.
+- [[jewry-islamic-world]] — the Islamic-world counterpart in Cohen's comparison.
+- [[cohen-under-crescent-cross-1994]] · [[jews-under-islam-myth-and-countermyth]] · [[lachrymose-conception-of-jewish-history]]

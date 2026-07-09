@@ -9,8 +9,8 @@ affiliated_with: ["the Ghaznavid dynasty", "Sunni Islam", "central Asian Turkish
 opposed_by: ["the Hindu Shahiyas (Jayapala, Anandapala)", "the north Indian temple kingdoms"]
 key_events: ["the defeat of Jayapala (1000)", "the near-annual raids into north India (c. 1000–1026)", "the sack of Somnath (1026)"]
 key_processes: ["[[indian-ocean-trade|trans-Asian trade]]", "[[islamization-of-africa|Islamic expansion]]"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, central-asia, south-asia]
 ---
 
@@ -20,7 +20,11 @@ tags: [actor, person, high-middle-ages, central-asia, south-asia]
 **Ghazni** (Afghanistan) whose near-annual **raids into north-western India** (c. 1000–1026) were the
 first major Muslim impact on the subcontinent — and left a lasting scar on Hindu memory. Documented
 for the wiki through Romila Thapar's [[thapar-history-of-india-v1-1966|*A History of India*, Vol.
-I]] (1966).
+I]] (1966). Mahmud's father, **Sebuk Tegin**, was himself a slave-soldier (ghulam) of Central Asian
+origin who rose through the Samanid army (see [[samanid-dynasty]]) and settled at Ghazna — then "a
+minor commercial and agricultural town" — before founding the semi-independent Ghaznavid dynasty
+(977–1186); Formichi (2020) frames this as the characteristic pattern by which Turkic dynasties
+emerged from Abbasid decline (see [[expansion-of-islam-middle-period]]).
 
 ## Raids for plunder, not conquest
 
@@ -40,7 +44,13 @@ The **temples** — "depositories of vast quantities of wealth, in cash, golden 
 activity" in orthodox Islam. The **frenzied destruction at Somnath** became, Thapar stresses, a
 **memory that coloured the Hindu assessment of Mahmud — and, by extension, of Muslim rulers in
 general — for centuries**, making him a charged symbol in later (and modern communal)
-historiography, out of proportion to the raids' limited political aim.
+historiography, out of proportion to the raids' limited political aim. Formichi (2020) adds that plunder and
+prestige, not proselytism, were the primary drivers — Somnath's revenue financed the Ghaznavid army,
+bureaucracy, and building projects, and fragments of the shattered idol were reportedly incorporated
+into the threshold of Mahmud's own mausoleum at Ghazni and, per some traditions, sent to Mecca and
+Medina as trophies of victory. At Mahmud's death, the Abbasid Caliph in Baghdad formally recognized
+the Punjab as part of the Abbasid Empire under Ghaznavid stewardship — a mark of the prestige, not
+territorial administration, that the caliphate's sanction still conferred (see [[abbasid-caliphate]]).
 
 ## Significance
 

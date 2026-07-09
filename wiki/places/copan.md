@@ -7,7 +7,7 @@ period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: ["[[maya-civilization]] (sixteen-generation Classic dynasty; multiethnic community)"]
 events_here: ["Founding of Classic dynasty under Yax K'uk' Mo' (A.D. 435)", "Capture of 18 Rabbit (738 CE)", "Classic collapse and Postclassic frontier recession"]
 processes_here: ["[[mesoamerican-state-formation]]", "[[southeast-mesoamerican-frontiers]]"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [place, mesoamerica, maya, honduras, late-antiquity]
 ---
@@ -42,6 +42,28 @@ Early Postclassic Honduras (~A.D. 1000) saw marked decline of primary centers in
 
 Sheets warns that research investment at Copán **exceeds total research in the entire SE Mesoamerican zone outside Copán**, producing a “Copan-centric” view that other societies merely emulated Copán—anthropologically unacceptable because it denies local volition, cultural integrity, and largely self-sufficient economies.
 
+## From Evans & Webster 2001 (David L. Webster)
+
+Webster’s **Copán** and **Copan Region** entries supply the encyclopedia’s densest single-site package ([[evans-webster-archaeology-ancient-mexico-central-america-2001]]).
+
+### Setting, size, research history
+
+Capital of a polity covering several hundred km² in western Honduras highlands between **A.D. 400 and 820**; larger Copán region occupies a southeastern frontier with non-Mesoamerican cultures beyond which no Maya centers of comparable size are found. Main Group on an alluvial terrace of the Copán River (Motagua drainage) at ~**600 m** in the largest of five alluvial pockets. Visible architecture built mainly under the last four rulers **c. A.D. 695–800**; buildings and plazas ~**12 ha** today (originally ~**16 ha**) — second rank behind [[tikal|Tikal]] and [[calakmul|Calakmul]]. River-cut “Corte” exposes four centuries of stratigraphy **c. A.D. 400–800**. Diego García de Palacio visited **1576**; Stephens and Catherwood mid-nineteenth century; systematic research from **1881** (Peabody, Carnegie) through **1946**, renewed multi-institutional work since **1975** — among Classic centers only Tikal matches research intensity.
+
+### Core monuments and urban density
+
+Great Plaza could hold the entire polity population at height — at least **22,000**. Structure **10L-26** (Hieroglyphic Stairway) carries **>2,200 glyphs** — longest known Lowland Maya carved text. Ball court second largest in the Maya Lowlands and among the oldest monumental structures (begun by the second ruler). Acropolis rises as much as **30 m** above the Great Plaza; Structure **10L-22** giant cosmogram entrance; **10L-22a** interpreted as *popol nah* (council house). **Altar Q** (Yax Pac) depicts sixteen successive rulers with founder **Yax K’uk Mo’** passing a staff to Yax Pac; cache of fifteen sacrificed jaguars beneath. Group **10L-2** (“Los Cementerios”) elite royal residential compound; deliberate destruction of major buildings around **A.D. 850 and 900**, then effective abandonment after dynastic collapse. Urban core: heaviest mapped architecture density known at any Classic Maya center (**1,449 structures/km²**; **1,035** masonry structures in ~0.6 ha mapped; estimated original ~**1,300–1,827** in ~1 km²; eighth-century urban-core population ~**9,300–11,600**). El Bosque and Las Sepulturas are distinct residential enclaves.
+
+### Dynasty
+
+All later kings reckoned succession from Ruler 1 **K’inich Yax K’uk Mo’** (Blue Quetzal Macaw), on the throne by **A.D. 426** (death probably **435–437**). Fragmentary inscriptions record dates before the fifth century (notably **A.D. 160**). Ruler 12 **Smoke Imix God K** / Smoke Jaguar **628–695** (57 years); valley stelae **652**; rituals on [[quirigua|Quiriguá]] Altar L. Ruler 13 **18 Rabbit** / Waxaklahun Ubah K’awil **685–738**; Great Plaza stelae **711–736**; captured and killed by **Cauac Sky** of Quiriguá in **738** (“axe-event”). Ruler 14 Smoke Monkey **738–749**; Ruler 15 Smoke Shell/Squirrel **749–c. 763**; Ruler 16 **Yax Pasah / Yax Pac** accession **763**, death **820**, mother a royal woman from [[palenque|Palenque]] (possible outsider succession); dynasty ends **820** with possible later claimants (U Kit Tok’ on Altar L, unfinished **822**). After 738 the polity suffered little demographically though Ruler 14 was weak; sub-royal elite expanded; Yax Pac drafted labor from population estimated **22,000–28,000** for **750–800**.
+
+### Region, ceramics, demography, collapse
+
+Although the valley was inhabited in Formative times, distinctively Classic Maya elite culture appears only in the **fifth century A.D.** — abrupt appearance of Maya architecture/sculpture/inscriptions may indicate elite intrusion from elsewhere in the Lowlands (debated, with linguistic affiliation of original inhabitants). Ceramics relate more strongly to highlands of Guatemala and El Salvador than to Lowlands proper. Sequence: Early Formative Rayo **1400–800 B.C.**; Middle Formative Uir **800–300 B.C.**; Late Formative Chabij **300 B.C.–A.D. 100**; Early Classic Bijac **100–400**; Middle Classic Acbi **400–600**; Late Classic/Epiclassic Coner **600–950**; Epiclassic Ejar **800–1000**. Unlike much of the Lowlands, Copán almost unpopulated in Late Formative; peak just short of **28,000** between **750 and 800**; agricultural carrying-capacity simulations ~**22,000**; upland cultivation after ~**600** caused marked erosion by **750–800** when densities exceeded **100 people/km²**; by **750** the Copán pocket could supply **<50%** of polity food needs. Survey: ~**1,425** sites with **>4,500** masonry buildings over ~**135 km²**. Ubiquitous import: Ixtepeque obsidian (~90 km distant) as cheap blades for all statuses. Claims that Copán was capital of a much larger regional state are **not strongly supported**. Southern La Entrada may have been within the Copán state **A.D. 628–738**, but hegemony did not extend farther into Southeast Mesoamerica.
+
+Royal collapse ~**820** ≠ immediate total depopulation: high population persisted decades then declined over centuries to effective abandonment by **1200/1250**. Large sample of **2,263** obsidian hydration dates indicates gradual post-800 decline with occupation detectable until ~**1250**; AMS on rural burials supports hydration (one as late as fourteenth century). Motagua Maya region: Early/Middle Formative Copán ceramics fit SE Mesoamerican traditions but differ from neighboring Lowlands; Late Formative Copán a developmental anomaly (apparent **decline** while Lowlands centralized). Quirigua subordinate by **672**; **737/738** reverse. **Copador** polychrome production exported to W Honduras and El Salvador.
+
 ## Related
 
-[[maya-civilization]] · [[tikal]] · [[calakmul]] · [[palenque]] · [[quelepa]] · [[ceren-salvador]] · [[southeast-mesoamerican-frontiers]] · [[maya-classic-collapse-800ce]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Hammond Ch. 5; Sheets Ch. 9; Adams Ch. 1)
+[[maya-civilization]] · [[tikal]] · [[calakmul]] · [[quirigua]] · [[palenque]] · [[quelepa]] · [[ceren-salvador]] · [[southeast-mesoamerican-frontiers]] · [[maya-classic-collapse-800ce]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Hammond Ch. 5; Sheets Ch. 9; Adams Ch. 1) · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster encyclopedia]]

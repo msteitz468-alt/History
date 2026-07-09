@@ -9,7 +9,7 @@ affiliated_with: [the populares; the Marian connection; the First Triumvirate]
 opposed_by: [Cato and the optimates (the *factio*); Bibulus; ultimately Pompey]
 key_events: [the consulship of 59, the [[first-triumvirate]], the [[caesar-gallic-war-58-50bce|conquest of Gaul]], the [[roman-civil-war-49-45bce|civil war]] (49–45), the [[caesars-dictatorship|dictatorship]], the [[julius-caesar-assassination-44bce|Ides of March]] (44)]
 key_processes: [[[optimates-populares]], the fall of the Republic]
-sources_ingested: 2
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]
 ---
@@ -108,10 +108,70 @@ Mary Beard's *SPQR* (2015) offers several sharper readings of Caesar's career, p
 
 See [[sources/beard-spqr-2015]].
 
+### OHCW (Boardman/Griffin/Murray 1986) — Griffin & Rawson
+
+Griffin (Ch. 19): related to Marius/Cinna, Caesar cultivated consistent *popularis*
+identity (restore Marius’ images; prosecute Sullan agents; Rabirius trial; *pontifex
+maximus*; oppose Catilinarian executions without popular trial). Cato blocked his 60
+request to stand for consulship *in absentia* while keeping a triumph; Caesar abandoned
+the triumph and allied Pompey and Crassus — Cato later called the “first triumvirate”
+the real beginning of the end. Consulship 59: agrarian and other bills taken straight
+to the people with force and veterans; Bibulus’ bad omens; Vatinius’ law (Cisalpine
+Gaul + Illyricum; Transalpine added); coalition renewed 56. Rubicon 49: popular grants
+and tribunician vetoes vs Optimate control of foreign affairs; crossed “in defence of
+[the tribunes’] sacred rights—and of his honour.” Dictatorship: eased debt, luxury/
+birth-rate laws, veterans scattered across Italy (not Sullan garrisons), municipal
+fixes, more magistrates, publicani restricted at least in Asia, Cisalpine citizenship,
+overseas colonies, provincials in Senate; as *dictator perpetuus* monopolized
+appointments — hence Ides; Matius: if Caesar’s genius found no way out, who will?
+Rawson (Ch. 17): Gallic conquest 58–; Commentaries often disingenuous; western
+Romanization and expanded citizenship open imperial elite recruitment (Balbus of
+Gades before Theophanes’ son).
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Chs. 17, 19).
+
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) denies that
+Caesar’s **49** invasion destroyed a still-functioning traditional republic. On her
+map ([[roman-republics-periodization]]), traditional *nobiles* republicanism had already
+collapsed in the early 80s; the modified [[sullan-constitution|Sullan sixth republic]]
+functionally ended ~**60** with the “Big Three” alliance of Pompey, Crassus, and Caesar
+(she prefers that label to “First Triumvirate”); **49–44** is period 12 — dictatorship —
+as aftermath, not first collapse ([[fall-of-roman-republic]]). “Caesar’s invasion can be
+seen as targeting a political community that had already lost its integrity and even its
+shape.” There was no functional republic in 51–50 to negotiate his return from Gaul; the
+question of return after 52 presupposes the end of Sullan transfer-of-power norms and of
+trusted impartial courts. Invasion is thus **more symptom than cause**; afterward he
+never seriously tried to restore republican politics, though he paid lip service early in
+the 40s.
+
+Biographically Flower stresses that traditional civic life was already in turmoil at
+Caesar’s birth (~100) and collapsed when he was about twelve (88) — he never saw a fully
+functional traditional republic. In Gaul in the 50s he broke every new Sullan rule and
+some older ones; *De bello Gallico* is special pleading against prosecution. He stopped
+the Gallic commentary with events of 52, possibly because Roman politics had entered a
+new phase hard to address to his usual audience. As dictator he colonized Carthage and
+Corinth with veterans a century after 146, and restored civic rights of relatives of the
+Sullan proscribed — longevity of disabilities that only another patrician dictator
+removed. Factional office control feared already in 133 was later realized under Cinna
+and again in the 50s Big Three compact.
+
 ## Related
 
 - Allies: [[first-triumvirate|Pompey & Crassus]] · Julia · enemies:
   [[cato-the-younger]] · Bibulus · agent: Clodius (vs. [[cicero]])
 - Wars: [[caesar-gallic-war-58-50bce]] · [[battle-of-carrhae-53bce]] (Crassus)
 - Concepts: [[optimates-populares]] · [[roman-republic]] · [[senatus-consultum-ultimum]]
-- Source: [[crook-cah-v9-1992]] (Chs. 9–10, Wiseman)
+- Source: [[crook-cah-v9-1992]] (Chs. 9–10, Wiseman) ·
+  [[boardman-oxford-history-classical-world-1986]] · [[woolf-rome-empires-story-2012]] ·
+  [[flower-roman-republics-2010]]
+
+## Woolf, Rome: An Empire's Story (2012)
+
+From [[woolf-rome-empires-story-2012]] (late-Republic dynasts).
+
+- **Triumvirate and super-commands.** After Pompey’s return (62) and Senate delay on eastern settlements/veteran land, alliance with Crassus and Caesar (modern “First Triumvirate,” no formal legal standing). Backed by veterans, money, and popular influence, they picked magistrates and allocated provinces/armies—what they most wanted were super-commands of Pompey’s kind. Caesar’s multi-legate Gaul applied the Gabinian coordination lesson.
+- **Civil war without institutionalization.** After Crassus’ death, Pompey–Caesar war mostly in Balkans; Pompey defeated Pharsalus (48); Caesar tracked Pompeians until assassination (Ides 44) **without institutionalizing his position**. Woolf’s contrast for Octavian: would not forgive as Caesar had, would not take the title dictator and sit waiting for daggers.
+- **Expansion under competition.** Same generation that tore Rome apart achieved the most dramatic expansion (Atlantic to Caspian, temperate Europe); main driver competition among the most powerful with Senate collapsed—risks did not matter because another general would replace a failure. Greater part of late extension under Pompey, Caesar, Octavian/Augustus.
+- **Fiscal note.** Caesar entrusted Asian land tax to local city elites—path that became widespread under the Principate (vs publicani blamed for Asian support of Mithridates).

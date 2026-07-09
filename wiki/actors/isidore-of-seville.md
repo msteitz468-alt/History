@@ -9,8 +9,8 @@ affiliated_with: [the Catholic Visigothic kingdom, the Church of Seville, the ki
 opposed_by: [Arianism (earlier), paganism, heresy]
 key_events: [his episcopate at Seville, the Fourth Council of Toledo (633), the writing of the Etymologies]
 key_processes: [the preservation and transmission of classical learning, the Christianization of Visigothic Spain]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, iberia]
 ---
 
@@ -59,3 +59,12 @@ proposed as the patron saint of the Internet.
   *[[wolf-conquerors-chroniclers-spain|History of the Kings of the Goths]]*.
 - `affiliated_with:` the Catholic Visigothic kingdom (after [[third-council-of-toledo-589|Toledo III]]); presided at Toledo IV (633).
 - `embodies:` the transmission of classical learning to the Middle Ages; a Latin counterpart to the encyclopedic impulse.
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+- **Anti-Jewish policy and Isidore’s opposition (R1-032):** King Sisebut (612–20) forced Jews to choose baptism or banishment, creating crypto-Jews. Isidore of Seville opposed the order; Fourth Council of Toledo (633) overturned it temporarily, but later councils (Sixth 638, Eighth 653) renewed anti-Jewish canons—after the Catholic turn at [[third-council-of-toledo-589|Toledo III (589)]].
+  - Quote: "King Sisebut (612–20) gave the Jews the choice between baptism and banishment."
+- **Etymologies as medieval basic book (R1-033):** Isidore (d. 636) produced *Etymologies*, extant in over 1,000 manuscripts—a virtual encyclopedia called “the basic book of the entire Middle Ages”; Bede borrowed heavily for *De natura rerum*. Influence in Europe to the Reformation and longer in Spain.
+  - Quote: "It has been called 'the basic book of the entire Middle Ages'."
+
+Source: [[logan-history-of-the-church-in-the-middle-ages-2013]]

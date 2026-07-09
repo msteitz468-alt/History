@@ -9,8 +9,8 @@ affiliated_with: [the Pippinid/Arnulfing family, Austrasia, the Frankish kingdom
 opposed_by: [Neustrians, Frisians, Aquitanians, Umayyad raiders, Saxons]
 key_events: [battle of Vinchy 717, battle of Poitiers/Tours 732/733, conquest of Burgundy and Provence]
 key_processes: [[[carolingian-empire|rise of the Carolingians]]]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, western-europe]
 ---
 
@@ -95,3 +95,13 @@ pacification wars extinguished the surviving culture of literate laymen. Geary t
 despoiler than as the architect of a **new, subordinated church** — the religious substructure of Carolingian
 power. Cross-refs: [[pippinids]] · [[merovingian-episcopate]] · [[aquitaine]] · [[provence]]. Source:
 [[geary-before-france-germany-1988]].
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+- **Tours 732 as minor incident (R1-059):** A small Muslim splinter force crossed the Pyrenees and was defeated by Charles Martel near Tours in 732—Logan calls this a minor incident, not the turning point in European history sometimes claimed, because supply lines made major assault north of the Pyrenees impossible (see [[islamic-conquests-seventh-eighth-centuries]]).
+  - Quote: "a minor incident in this whole story and, in no way, the turning point in European history as it has sometimes been portrayed."
+- **First (failed) papal appeal 739 (R2-074):** With Charles Martel as mayor (not king) and Gregory III harassed by Lombards, 739 saw the first papal approach for Frankish military aid—not acted upon—setting the pattern later fulfilled under Pepin and Charlemagne.
+  - Quote: "with Pope Gregory III being harassed by the Lombard kings, the scene was set in 739 for the first approach by the papacy – which was not acted upon – to obtain Frankish military assistance."
+- **Name of the dynasty (R2-033, cross-ref):** “Carolingian” derives from Charles Martel, not Charlemagne; Pepin’s son founded the royal dynasty.
+
+Source: [[logan-history-of-the-church-in-the-middle-ages-2013]]

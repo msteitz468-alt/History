@@ -5,8 +5,8 @@ origin: "Tia M. Kolbaba, 'Byzantine Perceptions of Latin Religious Errors: Theme
 applies_to_periods: [Early Middle Ages, High Middle Ages, Late Middle Ages]
 applies_to_regions: [eastern-europe, western-europe, mediterranean-world, levant]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, high-middle-ages, late-middle-ages, eastern-europe, mediterranean-world]
 ---
 
@@ -76,11 +76,18 @@ Kolbaba's essay challenges two entrenched assumptions:
 
 The essay also demonstrates that Byzantine anti-Latin attitudes were shaped primarily by internal Byzantine debates about identity — who counted as "orthodox" and "Roman" — rather than by external Latin provocation alone.
 
+## From Logan, *A History of the Church in the Middle Ages* (2013)
+
+[[logan-history-of-the-church-in-the-middle-ages-2013|Logan]]’s textbook historiography of **1054** complements Kolbaba’s long-run polemic survey: “bump-on-the-road” readings (contemporaries did not treat the bull as a final schism; only the patriarch targeted; Leo already dead; later intercommunion without citing 1054) versus growing Western and later Eastern belief that schism dated from that year; popes never repudiated the legates; **1965** mutual repudiation by Paul VI and Athenagoras without erasing historical memory. Logan’s narrative of the *filioque* and azymes in the 1054 bull feeds the same thematic map Kolbaba periodises (azymes early; primacy and Filioque later). See [[east-west-schism-1054]].
+
 ## Related Pages
 
 - [[byzantine-empire]] — the imperial context for the polemic
+- [[east-west-schism-1054]] — the 1054 crisis Logan narrates
 - [[crusades]] — the military process whose indirect religious effects Kolbaba analyzes
 - [[laiou-mottahedeh-crusades-byzantium-muslim-2001|Laiou & Mottahedeh (eds.), Crusades from the Perspective of Byzantium and the Muslim World (2001)]] — source
 - [[fourth-crusade-1202|Fourth Crusade (1204)]] — the traumatic event that restructured the entire polemic by forcing papal obedience
 - [[council-of-lyons-1274|Second Council of Lyons (1274)]] — the moment when the Filioque became the dominant issue
 - [[luscombe-ncmh-v4-2004|NCMH IV]] — context for the crusading process itself
+- [[logan-history-of-the-church-in-the-middle-ages-2013]]
+

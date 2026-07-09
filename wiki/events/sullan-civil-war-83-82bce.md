@@ -13,7 +13,7 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [Sulla's outlawry by the Cinnan regime, the rival claims to legitimacy from the march on Rome of 88, the unresolved Italian question, the militarized client army]
 consequences: [[[sullan-proscriptions-82bce|the proscriptions]], Sulla's dictatorship, [[sullan-constitution|the Sullan settlement]], the punishment of Samnium and Etruria, the rise of Pompey and Crassus]
-sources_ingested: 2
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [event, classical-antiquity, italy, war, rome]
 ---
@@ -74,6 +74,40 @@ Appian's *Civil Wars* I and Plutarch's *Sulla* and *Pompey*, all coloured by
 Sulla's *Memoirs*. The scale of the Samnite role — and whether Sulla's later
 near-extermination of Samnium was vengeance or policy — is much discussed.
 
+### OHCW (Boardman/Griffin/Murray 1986) — Griffin
+
+Miriam Griffin (Ch. 19) frames knowledge of Sulla’s dictatorship (82) through Caesar’s
+(44) as depending principally on Cicero, and treats the civil war’s aftermath as the
+frame of the late Republic: proscriptions remembered by Cicero’s generation;
+constitutional redesign (*cursus*, Senate of 600, courts) as Optimate bulwark; year 70
+dismantling of tribunician restrictions under outstanding Sullan partisans Pompey and
+Crassus. The war is thus less an end than the opening of “the age of Cicero.”
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Ch. 19, Griffin).
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+Returning from the east, Sulla invaded Italy, seized Rome, made himself dictator, issued proscription lists—“Sulla invented proscription. His violence and the feuds it stirred up haunted Rome for a generation.” Constitutional laws (enlarged Senate, stripped tribunes, senatorial courts) and veteran colonies, then resigned (80). First general to attack Rome with a Roman army; dictatorship turned into a tool for suspending civil society. Preceded by Mithridatic crisis: after Social War opportunity, Asian massacre (~80–150k Roman/Italian dead), Sulla sacked Athens, temporary peace with Mithridates, returned to purge popularis politics.
+
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) classifies the
+civil war of 83–82 as fought between a **rogue city regime** (post-Cinna) and a **rogue
+general Sulla intending a new republic** on different lines — not two republican parties
+([[roman-republics-periodization]]; [[fall-of-roman-republic]]). Conventional republican
+government had already collapsed in **88**; afterward neither side operated under
+previous rules. Military conditions of the Social War produced the armies and generals;
+after Colline Gate (1 Nov 82), battlefield slaughter, prisoners, street violence, and
+proscriptions mark exceptional escalation — “any vestige of a republic was gone” and a
+dictator imposed a new constitution by force ([[sullan-constitution]];
+[[sullan-proscriptions-82bce]]). Social and Civil Wars of the 80s created huge
+discontinuity (deaths, exile, status loss; new personnel after 81). Flower cautions it
+is not accurate that Sulla had “won” civil war before the new constitution: fighting
+continued (especially Spain/Sertorius) into the late 70s; civil war on several fronts
+marked the year of Sulla’s death (78).
+
 ## Related
 
 - Victor: [[sulla]] · lieutenants: [[pompey]] · [[crassus]] · Metellus Pius
@@ -81,4 +115,5 @@ near-extermination of Samnium was vengeance or policy — is much discussed.
   **battle of the Colline Gate** (Nov. 82), where Crassus's wing saved the day
 - Preceded by: [[first-mithridatic-war-89-85bce]] · the [[cornelius-cinna|Cinnan domination]] ·
   [[social-war-91-88bce]]; followed by: [[sertorian-war-80-72bce]]
-- Source: [[crook-cah-v9-1992]] (Ch. 6, Seager) · [[duncan-storm-before-the-storm-2017]]
+- Source: [[crook-cah-v9-1992]] (Ch. 6, Seager) · [[duncan-storm-before-the-storm-2017]] ·
+  [[boardman-oxford-history-classical-world-1986]] · [[flower-roman-republics-2010]]

@@ -9,7 +9,7 @@ affiliated_with: [the kingdom of Pontus; his Black Sea empire; anti-Roman Greeks
 opposed_by: [[[roman-republic]], Sulla, Lucullus, Pompey; Nicomedes of Bithynia, Ariobarzanes of Cappadocia]
 key_events: [[[first-mithridatic-war-89-85bce]], the Asiatic Vespers (88), the Treaty of Dardanus (85), the later Mithridatic Wars]
 key_processes: []
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, anatolia]
 ---
@@ -78,4 +78,14 @@ multiples of 10,000. See [[first-mithridatic-war-89-85bce]].
 - War: [[first-mithridatic-war-89-85bce]] · opponent: [[sulla]] · [[roman-republic]]
 - Context: [[social-war-91-88bce]] (Rome distracted) · the misrule of
   [[roman-provincial-system|Asia]] and the [[roman-equites|publicani]]
-- Source: [[crook-cah-v9-1992]] (Ch. 5, Hind) · [[duncan-storm-before-the-storm-2017]]
+- Source: [[crook-cah-v9-1992]] (Ch. 5, Hind) · [[duncan-storm-before-the-storm-2017]] ·
+  [[woolf-rome-empires-story-2012]]
+
+## Woolf, Rome: An Empire's Story (2012)
+
+From [[woolf-rome-empires-story-2012]] Ch. 7 (Crisis).
+
+- **Client-king blowback.** Rome kept rich coasts, handed defensive hinterlands to lesser kings—short-sighted; late-second-century fiercest enemies drawn from those strengthened clients. Mithridates V/VI: Pontic growth in post-Apamea vacuum; rewarded for helping claim Pergamum; Mithridates VI built Black Sea/Anatolian empire while Rome was distracted (Cimbri, Social War).
+- **Ecological/strategic hinterland.** Used Pontic/Anatolian interiors Rome disdained; Republican preference for Italian-like coastal plains left upland strategy “doomed to failure.”
+- **First Mithridatic War.** Social War opportunity: annexed Bithynia and Cappadocia (89); after Aquillius ordered Bithynian invasion of Pontus, invaded Asia, executed Aquillius with molten gold, ordered massacre of Roman/Italian residents (estimates 80,000–150,000). Pontic armies took Athens; all Roman territory east of Adriatic briefly lost. Sulla sacked Athens, temporary peace, returned to civil purge.
+- **Quotes:** “By the end of the second century, some of Rome's fiercest enemies were to be drawn from the petty monarchs that she had strengthened in Asia and Africa.” / “Estimates of the Roman and Italian dead range between 80,000 and 150,000.”

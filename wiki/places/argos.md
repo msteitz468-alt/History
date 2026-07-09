@@ -7,8 +7,8 @@ period_active: [Early Iron Age, Archaic Period, Classical Antiquity]
 controlled_by: [the Temenid kings (notably Pheidon), later a college of damiorgoi]
 events_here: [the destruction of Asine, the acme under Pheidon, the victory over Sparta at Hysiae (669), the seizure of Olympia (668), the defeat at Thyreatis (546)]
 processes_here: [the rivalry with Sparta, the hoplite revolution]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [place, peloponnese, mediterranean, archaic-period]
 ---
 
@@ -78,8 +78,12 @@ their turn. Sepea thus removed Argos as a factor in the Persian Wars.
   measures, fine Argive Geometric and orientalizing pottery, and the famous statues of
   **Cleobis and Biton**.
 
+## Hall (2014) — Pheidon, settlement, and sixth-century propaganda
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]: Argos shows Geometric settlement foci (agora, Aspis foot, Agios Petros) with cemetery shift to outlying N/S cemeteries ca. 800–700 — physical synoecism pathway different from Corinth’s lasting dispersion. Eighth-century population ~2,500 (~500 fighters) cannot sustain wide Peloponnesian hegemony. Argive Plain communities keep independence into the sixth century (Tiryns *damos/aliaia*; Mycenae *damiourgos* ~525; boards of Argive *damiourgoi* ~575–550). Literary notices for **Pheidon** conflict across three centuries; every notice has flaws — no solid core after filtering; coinage/Olympics/hegemony cannot all be true for any single date; Hysiae 669 + “Pheidon + hoplites” package is a modern construct without secure ancient authority. Mid-sixth-century hero-shrine of the Seven against Thebes in the Argive agora is ideological assertion of primacy as Sparta rose over Tegea/Thyrea — context for inventing former dominance and Pheidon’s role. Asine destruction ~720–710 under Eratos, not Pheidon.
+
 ## Related
 
 - Rival: [[sparta]] (Hysiae; Thyreatis 546; [[battle-of-sepea-494bce|Sepea 494]]) · destroyed: Asine · faction-tie: [[corinth|Pheidon & the Bacchiads]]
 - Near-tyrant: Pheidon (cf. [[greek-tyranny]]) · isolated by: [[peloponnesian-league]] · later ally-by-appeal: [[aegina]]
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond) · [[boardman-cah-v4-1988]] (Ch. 6, Jeffery)
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond) · [[boardman-cah-v4-1988]] (Ch. 6, Jeffery) · [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

@@ -19,8 +19,8 @@ key_events:
   - "[[mongol-conquests-13th-century]]"
 key_processes:
   - "[[post-mongol-islamic-world]]"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags:
   - actor
   - state
@@ -40,6 +40,8 @@ Like the other Mongol successor states, the Chaghatay khanate initially posed as
 - The **northeastern** portions (the Yedisu steppes south of Lake Balkhash, the Tien Shan mountains) were still largely pagan and maintained the old Mongol tribal identity. These tribesmen regarded Islam as incompatible with being true Mongols.
 
 This division produced chronic factional warfare. Only in 1326 did a Muslim successfully become khan — and he was killed within a decade (1334) by rebels from the Yedisu steppes. "Soon thereafter, the Chaghatay state broke up; the Syr-Oxus basin remained Muslim, but the khâns of the eastern parts became Muslims only much later."
+
+The decisive Islamization of the eastern (Moghulistan) steppe population came a generation later. Formichi (2020) identifies the conversion of **Tughluq Timur Khan** (r. 1347–1362) — who took control of the khanate's eastern provinces in the mid-fourteenth century — as the hinge event after which "most Turkic peoples of Central Asia" became Muslim. In the account of Mirza Haydar Dughlat, Tughluq Timur was brought to Islam through the Sufi shaykh Jamal al-Din and his son Arshad al-Din, and his conversion precipitated the mass conversion of an estimated 15,000-plus followers. Formichi treats this Sufi-conversion narrative with the same caution as the [[qarakhanid-khanate|Qarakhanid]] story — later hagiography shapes it, and "15,000" is an order-of-magnitude claim, not a count. See [[formichi-islam-and-asia-2020|Formichi, *Islam and Asia* (2020)]] and [[conversion-of-mongols-to-islam]].
 
 ## Role in the Later Middle Period
 

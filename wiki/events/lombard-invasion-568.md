@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["Avar pressure on Pannonia following Gepid destruction", "Byzantine military depletion and exhaustion of Italy following the Gothic War"]
 consequences: ["Permanent fragmentation of Italy into Lombard and Byzantine zones", "Establishment of the Lombard Kingdom and autonomous duchies (Spoleto, Benevento)", "Collapse of the Roman senatorial aristocracy", "Rise of the papacy as an independent political power under Gregory the Great"]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, late-antiquity, italy]
 ---
 
@@ -59,15 +59,26 @@ The invasion split Italy into two distinct, interlocking administrative spheres:
 
 ---
 
-## Historiographical and Social Consequences
+## Historiography
 
 *   **Break from Roman Institutions:** Unlike the Ostrogoths, who preserved Roman civil administration, the Lombards expropriated Roman estates, abolished Roman municipal offices, and established a militarized landholding aristocracy. The Roman senatorial aristocracy collapsed.
 *   **Rise of the Papacy:** The physical separation of Rome from the Exarch of Ravenna forced the Roman bishop to assume civil and military defense of the city. **Gregory the Great (590–604)** negotiated independent treaties with the Lombards, managed papal estates (*patrimonium Petri*) to feed the city, and initiated missions to convert the Lombards from Arianism to Catholicism, laying the foundation for the temporal power of the medieval papacy.
+*   **Gibbon** (below) stresses Byzantine court failure (Narses’ recall) over pure Lombard military superiority as the hinge of 568.
 
 ---
+
+## Gibbon, *Decline and Fall* (1776–1788) — Ch. XLV
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]]’s causation for 568 stresses Byzantine court failure over pure Lombard military superiority.
+
+- **Narses’ recall:** “They might have failed, if Narses had been the antagonist of the Lombards”; Sophia’s distaff insult and court weakness ruined Italy; tradition that Narses invited Alboin.
+- **Unopposed inland takeover:** “Alboin neither expected nor encountered a Roman army in the field”; terror preceded him; inland from Trentine hills to Ravenna/Rome became Lombard patrimony without battle or siege.
+- **Dual Italy for two centuries:** “During a period of two hundred years, Italy was unequally divided between the kingdom of the Lombards and the exarchate of Ravenna,” whose exarchs held residual civil, military, even ecclesiastical power.
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/gibbon-edward]]
 
 ## Related Pages
 
 *   **Actors**: [[lombards]] · [[justinian]] · [[successors-of-justinian]]
 *   **Events**: [[gothic-war-535-554]] · [[justinianic-plague-541]]
-*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]
+*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]] · [[sources/gibbon-decline-and-fall-1776]]

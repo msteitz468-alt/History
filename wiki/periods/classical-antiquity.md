@@ -1,14 +1,14 @@
 ---
 title: Classical Antiquity
 period_number: 14
-preceded_by: [[[archaic-period|Archaic Period]]]
-followed_by: [[[late-antiquity|Late Antiquity]]]
+preceded_by: "Archaic Period"
+followed_by: "Late Antiquity"
 date_range: "500–31 BCE"
 regions_covered: [mediterranean, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, north-africa, iberia, western-europe, south-asia, china, steppe]
 major_themes: ["Classical Greece and the polis at its height", "the Greco-Persian and Peloponnesian Wars", "Alexander and the Hellenistic world", "the rise of Rome", "the Mauryan Empire", "Qin unification and the early Han", "the first Silk Roads era", "Hellenistic science and cosmopolitanism", "mass chattel slavery"]
 collection_coverage: strong
-sources_ingested: 5
-last_updated: 2026-06-23
+sources_ingested: 12
+last_updated: 2026-07-08
 tags: [period]
 ---
 
@@ -82,6 +82,16 @@ Greek political unity ([[athens-fifth-century|fifth-century Athens]] is the
 volume's regional case study), and the philosophical and artistic achievement
 (Socrates, Plato, Aristotle, tragedy, the classical orders). See
 [[classical-greece]].
+
+**The classical Greek economy at its peak.** Per the *Cambridge Economic History of the
+Greco-Roman World* ([[sources/scheidel-cambridge-economic-history-greco-roman-world-2007]];
+see [[processes/classical-greek-economy]] for the full treatment), the 5th–4th centuries
+BCE mark the classical Greek economy's fullest documented development: growing
+monetization following the spread of coinage after c. 540 BCE, an elaborate Athenian
+state apparatus for market and grain-supply regulation, and public revenues peaking at
+~1,200 talents/year under Lycurgus (338/7–324 BCE). Whether this amounted to genuine
+per-capita economic growth, as opposed to resource accumulation, remains — per Davies —
+a live and unresolved 30-year scholarly debate.
 
 **Peloponnesian War fighting mechanics (from Hanson *A War Like No Other*, Ch.5 Armor/Ch.6 Walls, range 5501-8500 only)**: Hoplite battles rare (Delium 424: 25-deep Theban stack, friendly fire, 14% Athenian dead; Mantinea 418: Spartan pipes/discipline + right turn, ~7-8% dead). Pericles: pitched battle “a terrible thing.” Sieges dominant (Plataea 431-427 ramp/fire/circumvallation/breakout/execution/razing; Melos 416 males killed; Mycalessus 413 school massacre). Athenian naval sieges vs Spartan land limits. 415 Syracuse hoplite battle (tactical win, no strategic; 16-deep Syracusans). "poliorkia"; "The Thirty Years Slaughter." (Links only approved: [[concepts/hanson-peloponnesian-fighting]], [[hubs/warfare]], [[pericles]], [[alcibiades]], [[brasidas]], [[nicias]], [[gylippus]].)
 
@@ -217,6 +227,72 @@ models allowed; comparative imperiology now sets Rome, Han, Maurya, and the
 Hellenistic kingdoms side by side rather than privileging Rome; and the Silk Roads
 have moved from exotic footnote to central organizing framework.
 
+## Hall (2014) — Archaic→Classical hinge (480–479)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] ends at the Persian Wars but argues that **480–479 is a weak lower terminus** for an “Archaic” period and only a soft entry marker for Classical distinctiveness (global Classical framing above is unaffected).
+
+Without knowing the Persian invasion, the **470s would not look especially distinctive** archaeologically or socially; even Severe-style sculpture may originate in the first two decades of the fifth century rather than as a post-victory break. Counterfactuals of Persian victory appear in Classical authors but do not read as immediate, widespread lived concerns in the 470s. Communal “freedom” as an Archaic hallmark is weakly period-specific: Raaflaub’s line (freedom as fully developed concept only in the fifth century) undercuts treating *eleutheria* as the Archaic period’s defining theme. Hall notes further that only a minority of poleis resisted Persia; Cleisthenic order at Athens was already decades old; many cities (Argos; Asia Minor under a new Athenian master) show no clear 470s watershed. Material culture is continuous across the hinge; what changes sharply is the **literary luxury** of contemporary Classical historiography and drama—rarely available for Archaic history. See [[archaic-period|Archaic Period]] (Hall periodization and teleology critique) and [[greco-persian-wars-499bce|Greco-Persian Wars]].
+
+## Osborne (2000) — the fourth century's distinctive political culture
+
+[[osborne-classical-greece-2000|Osborne (ed.), *Classical Greece 500–323 BC* (2000)]]
+(Chs. 8–9) supplies a sustained comparative argument for why the **fourth century BCE**
+should be read as structurally different from the fifth, not simply as its sequel:
+
+- **Panhellenism's long afterlife.** The Panhellenic slogan of *eleutheria* ("freedom of
+  the Greeks"), forged against Persia after 479, had "a long history": invoked over the
+  next 400 years by Greeks against Persians, by Spartans against Athenians, by
+  **[[philip-ii-of-macedon|Philip]]** and **[[alexander-the-great|Alexander]]** of
+  Macedon, and even by the Romans — a genuinely cynical, endlessly re-usable ideology.
+- **Contested, multiple narratives.** Unlike the fifth century (dominated by
+  [[thucydides|Thucydides]]'s single authoritative account), fourth-century events are
+  often covered by **more than one independent, sometimes contradictory** source —
+  [[xenophon|Xenophon]]'s *Hellenica* against the fragmentary *Hellenica Oxyrhynchia* —
+  making single-source certainty rarer.
+- **The three-way hegemonic contest.** The first four decades of the century were
+  dominated by **Sparta, Athens, and Thebes** contesting supremacy in turn; Sparta itself
+  was initially divided between harsh imperial policy (garrisons, "harmosts," tribute
+  over the former Athenian empire) and a more conciliatory line adopted briefly after 403.
+- **The [[kings-peace-386bce|King's Peace]] (387/6) and its uses.** Formally a Persian
+  guarantee of Asia Minor and Cyprus plus an "autonomy" clause for the rest of Greece, in
+  practice Sparta (through **[[agesilaus-ii|Agesilaus]]**) controlled how the autonomy
+  clause was applied — dissolving both the Corinth–Argos union and the Boeotian
+  confederacy — proof that Spartan, not Persian, interests actually drove its
+  consequences (see [[corinthian-war-395bce]]).
+- **The rise of non-polis regional powers.** **Macedon** and **Thessaly** emerged as major
+  players despite lacking developed civic institutions — [[thucydides|Thucydides]] was
+  notably reluctant to even call Macedonian towns "poleis." In Thessaly, **Jason of
+  Pherae** briefly unified the region through military reform and mercenary generalship
+  before his assassination in 370 while preparing to seize the Pythian Games at Delphi.
+  Macedon itself, despite the rich Pangaeum silver/gold mines and abundant timber, saw
+  extreme instability after Archelaus's death (399) — Amyntas III (d. 370), Perdiccas III
+  (d. 359), and a three-year regency under Ptolemy (368–365) — until
+  **[[philip-ii-of-macedon|Philip II]]** stabilized and then transformed the kingdom.
+- **Opportunistic, de-ideologized political culture.** Where fifth-century oligarchy
+  aligned with Sparta and democracy with Athens, the fourth century saw **multiple rival
+  external powers** (Sparta, Arcadia, Thebes, Athens) offer help "without regard to
+  constitutional arrangements" — foreign policy no longer mapped onto domestic
+  factionalism, a shift illustrated by Sicyon's tyrant Euphron and the Arcadian
+  League/Tegea–Mantinea disputes.
+
+Osborne's Epilogue also frames the volume's closing thesis: the classical polis's
+intensity of communal life produced an unprecedented **self-scrutiny** (tragedy, historical
+writing, philosophy) underlying later Western self-scrutiny, and situates Classical Greece
+comparatively as belonging to "the Third World, but a third world in which there is no
+first world" — poorer in wealth and manpower than the Near Eastern empires (Egypt,
+Mesopotamia), sharing their basic agrarian economic base, but lacking their irrigation-based
+social and political stability.
+
+## OHCW (Boardman/Griffin/Murray 1986)
+
+[[sources/boardman-oxford-history-classical-world-1986|Boardman, Griffin, and Murray (eds.), *The Oxford History of the Classical World* (1986)]] supplies a mid-1980s Oxford multi-author synthesis layer for the Greek half of this period (Griffin’s Introduction; Forrest on the archaic–classical hinge; Hornblower on the fifth–fourth centuries; Price on the Hellenistic bridge).
+
+**Griffin (Introduction) — what “classical” still means.** Griffin rejects Renaissance-era claims that Graeco-Roman art and literature form an absolute aesthetic standard: technical modernity and interest in non-classical early cultures make exclusive classical dominance untenable. Yet classical antiquity retains special western interest because western civilization grew from it and never lost the knowledge that a high culture had preceded it. He links Greek city particularism (own coinage, calendar, intermittent neighbour-war) to a mountainous, fragmented terrain entered by Indo-European speakers c.1900 BCE; stresses competitive culture (philosophy, Panhellenic games, judged drama); and argues aesthetic precision—not slavery—helps explain limited technical exploitation of devices Greeks could invent. High civilization can be lost (Mycenaean collapse; post-Roman insecurity).
+
+**Hornblower (Ch.6) — military success underwrites culture; failure of unity.** Fifth-century culture is read as financed by imperial and private wealth: Persian Wars drove Ionian intellectual diaspora to Athens; aristocrats such as [[cimon|Cimon]] and [[pericles|Pericles]] brought public wealth for the Acropolis program and financed festivals via the liturgy system (Pericles’ first known act was financing Aeschylus’s *Persae*). Herodotus’s *to hellenikon* shows mid-fifth common identity after the Persian Wars, but classical poleis never converted psychological unity into lasting political unity: Sparta would not and Athens could not impose it indefinitely as Macedon and Rome later did.
+
+**Price (Ch.13) — Hellenistic centuries as coherent phase.** Price frames the ~300 years between Alexander (336–323) and Augustus as a coherent phase centred on Greek monarchies from Greece to Afghanistan—often dismissed as decline of the city—falling between “classical Athens” and Ciceronian/Augustan Rome. By c.275 three kingdoms (Ptolemies, Seleucids, Antigonids) dominated the eastern Mediterranean until Roman absorption; Alexander made monarchy central and provided the diadem/title model for Hellenistic kings.
+
 ## Collection Coverage Note
 
 **Strong–excellent.** This is the collection's heartland. [[benjamin-cwh-v4-2015|CWH
@@ -228,3 +304,32 @@ wiki. The
 Asian empires (Maurya, Qin/Han) are well framed here and deepened by the Ancient
 China sources (Phase 8) and the Asian Classics (Phase 6); India remains the
 relative weak point per CLAUDE.md.
+
+## Harris, *Roman Power* (2016) — periodization note
+
+[[harris-roman-power-2016|Harris]] periodizes the long Roman power arc with a break at
+**AD 16** (Tiberius decelerates expansion and consolidates absolute monarchy) as well as
+AD 337. Mid-republican aggression, high military participation, and organizational
+techniques of enduring control are the rise-side of a comparison that illuminates
+late-antique failure; see [[roman-power]], [[nature-of-roman-imperialism]],
+[[augustan-imperial-expansion]], [[tiberius]].
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]] (prefaces; Chs. I–III, XV–XVI); how Gibbon periodizes the high empire within Classical Antiquity.
+
+- **Three revolutions.** Undermining of “the solid fabric of human greatness” in three periods: Antonines → fall of the West (~early 6th c.); Justinian → Charlemagne (800); Western revival → Turkish capture of Constantinople (1453).
+- **Period I start.** From Trajan and the Antonines, when the monarchy “having attained its full strength and maturity… began to verge towards its decline,” to barbarian subversion of the West.
+- **Antonine baseline.** Fairest part of earth and most civilized mankind; frontiers by renown and disciplined valor; free-constitution image preserved; fourscore years of Nerva–Antonines (see [[pax-romana]]).
+- **Principate form.** Absolute monarchy “disguised by the forms of a commonwealth” (Gibbon’s constitutional thesis for the classical empire).
+- **Viewpoint.** “I generally suppose myself at Rome, and afterwards at Constantinople.”
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- Period roadmap anchors: Italian hegemony → Punic wars → 146 Carthage/Corinth watershed → late-Republican feedback loop of domestic competition and aggressive warfare → Actium/Principate → early-imperial “world at peace” with citizenship expansion → early-third-century urban apogee then military crisis. 146 paired razings as dramatic mark of second-century Roman armies’ expansion against Macedonian kingdoms and Greek cities.
+
+## Flower, *Roman Republics* (2010) — Roman political periodization within this era
+
+Within Classical Antiquity’s Roman half, Harriet Flower’s multi-republic scheme ([[roman-republics-periodization]]; [[flower-roman-republics-2010]]) replaces a single 509–49/27 “Republic” with **at least six successive republics plus transitional periods**, ending with the principate of January 27. The whole sequence — early experiments after the Twelve Tables, three *nobiles* republics (breaks at 180 and 139), collapse in the 80s, Sullan sixth republic, Big Three, Caesar’s dictatorship, second triumvirate — sits inside this period’s date range. Flower also notes that developed Roman republicanism overlapped the Hellenistic Age (323–31) and that the label “Classical” itself remains a contested period designation in broader historiography.

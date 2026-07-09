@@ -13,8 +13,8 @@ scale_immediate: local
 scale_consequential: civilizational
 causes: ["Chariot faction rivalry (Blues and Greens)", "Fiscal oppression of John the Cappadocian", "Senatorial opposition to Justinian's centralization"]
 consequences: ["Destruction and subsequent rebuilding of Hagia Sophia", "Consolidation of Justinian's autocratic authority", "Decimation of the senatorial opposition"]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [event, late-antiquity, mediterranean-world]
 ---
 
@@ -70,8 +70,30 @@ The suppression of the riots had profound structural outcomes:
 
 ---
 
+## Historiography
+
+Nika is known chiefly through Procopius and later chroniclers; casualty figures (including Gibbon’s “above thirty thousand”) are literary maximal estimates, not censuses. Modern accounts treat the riot as both circus-faction violence and a senatorial/political crisis that Justinian used to consolidate autocracy. Theodora’s “purple winding-sheet” speech is a Procopian set-piece whose historicity is debated but whose narrative function is fixed.
+
+### Gibbon, *Decline and Fall* (1776–1788) — Ch. XL
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]]’s Nika is the preconditioned circus crisis of Justinian’s early reign, resolved by massacre and Theodora’s resolve.
+
+- **Blue favoritism as precondition:** Blues zealously devoted to orthodoxy and Justinian; he protected their disorders above five years; Theodora never forgave Green injuries to the comedian; “license without freedom” of democracy revived.
+- **Course:** Mutual hatred then reconciliation of factions; five days of fire (St. Sophia, Zeuxippus, palace areas); watchword *Nika*; Justinian nearly fled; Theodora’s speech restored resolve; [[belisarius|Belisarius]] and Mundus massacred the hippodrome; Hypatius and Pompey executed.
+- **Scale:** “it is computed, that above thirty thousand persons were slain in the merciless and promiscuous carnage of the day.”
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/gibbon-edward]]
+
 ## Related Pages
 
 *   **Actors**: [[justinian]] · [[belisarius]] · [[successors-of-justinian]]
 *   **Places**: [[rome]] (contrasted with Constantinople)
-*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]
+*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]] · [[sources/gibbon-decline-and-fall-1776]] · [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Week-long Nika riot (from races **10 Jan 532**) united Blue/Green chant “Nika”; prefecture burned; Justinian dismissed John the Cappadocian, Tribonian, and city prefect; Belisarius’ troops killed many; Hagia Sophia burned; Hypatius and Pompeius (Anastasius’ grandsons) acclaimed; Narses split mob with cash while Belisarius and Mundus slaughtered **30–35,000**; ringleaders arrested, Hypatius/Pompeius executed, elites exiled. “The most discussed as well as the most mysterious event of Justinian’s reign.”
+
+Mitchell **rejects** regime-change-first readings and stories of Justinian nearly fleeing (Theodora’s speech): Anastasius’ relatives were “straw men”; real targets were the masses; guiding motive was curbing faction violence with troops as instruments of terror; either responsive or deliberately exacerbated crisis — but explanations requiring vacillation are “wholly incredible” given early Justinian’s decisiveness; aftermath publicized as victory removing “tyrants.”
+
+Source: [[mitchell-later-roman-empire-2015]] · [[justinian]] · [[belisarius]]

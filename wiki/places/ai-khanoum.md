@@ -7,8 +7,8 @@ period_active: [Classical Antiquity]
 controlled_by: [[[seleucid-empire|the Seleucids]], the [[greco-bactrian-kingdom|Greco-Bactrian kingdom]]]
 events_here: [destruction by nomad invaders c. 145 BCE]
 processes_here: [[[hellenistic-world]], [[seleucid-colonization]], [[urbanization]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, central-asia, classical-antiquity]
 ---
 
@@ -42,8 +42,32 @@ Hellenistic East. The city was destroyed by nomadic invaders around the mid-seco
 century BCE; the modern looting of its successor sites underlies many of the famous coins
 of the Greco-Bactrian kings.
 
+## Thonemann Detail (2016)
+
+[[thonemann-hellenistic-age-2016|Thonemann]] opens and returns to Aï Khanoum as the emblem
+of Hellenistic geographic scale ("Lady Moon" in Uzbek; only Hellenistic Greek city
+excavated east of Mesopotamia; ~130 miles east of Mazar-i-Sharif).
+
+- **Foundation** by [[seleucus-i-nicator|Seleucus I]] c. **300 BCE**; **sacked c. 145
+  BCE** (perpetrators unclear) and never reoccupied. Site is triangular between Oxus and
+  Kokcha; main road over a mile; landward mud-brick fortifications ~1.5 miles.
+- **Achaemenid substrate**: earlier administrative centre; Hellenistic palace (different
+  orientation) likely overlies an Achaemenid palace, but the Greek city was far larger.
+- **Ensemble**: theatre, colossal gymnasium, arsenal, Greek-style bathrooms in private
+  houses; hero-shrine of founder **Kineas of Thessaly**. **Clearchus of Soli** inscribed
+  Delphic Seven Sages maxims in Kineas's mausoleum (early third century) — Thonemann's
+  opening "Hellenistic life." Almost all documents Greek (one Aramaic potsherd); palace
+  treasury yields Aristotelian fragments and apparent Classical tragedy.
+- **Historiographical caution**: theatre/gymnasium do not prove Greek ethnicity or *polis*
+  organization — **no civic decrees**, no bouleuterion, prytaneion, or agora. Main temple
+  ("Temple with Indented Niches") is squat Mesopotamian-style mud-brick; palace closest
+  parallels are Achaemenid (ceremonial seat + storage/redistribution; unworked lapis in
+  treasury). Downstream at Takht-i Sangin, Bactrian-named men made Greek-style offerings
+  to the river-god Oxus (Atrosokes' Marsyas figurine).
+
 ## Related
 
 - Kingdom: [[greco-bactrian-kingdom]] · region: [[bactria]] · empire: [[seleucid-empire]]
-- Theme: [[seleucid-colonization]] · [[hellenistic-world]]
-- Source: [[walbank-cah-v7-1-1984|CAH VII.1]] (Musti, ch. 6)
+- Theme: [[seleucid-colonization]] · [[hellenistic-world]] · [[hellenistic-historiography]]
+- Source: [[walbank-cah-v7-1-1984|CAH VII.1]] (Musti, ch. 6);
+  [[thonemann-hellenistic-age-2016]]

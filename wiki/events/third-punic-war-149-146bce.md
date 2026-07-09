@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[nature-of-roman-imperialism]], Masinissa's encroachments and Carthage's armed resistance (the technical treaty breach), the Roman appetite for a profitable and glorious war, Cato's agitation]
 consequences: [the annihilation of Carthage, the province of Africa, the end of Punic high culture, the demonstration of Roman ruthlessness]
-sources_ingested: 3
+sources_ingested: 6
 last_updated: 2026-07-08
 tags: [event, classical-antiquity, north-africa, war, rome]
 ---
@@ -86,6 +86,17 @@ reactions) as favouring the **love-of-power** interpretation, and makes the war 
 keystone of his case in [[nature-of-roman-imperialism]]. The **date of the real
 decision** ("long before" 149 — perhaps 153, perhaps 162/1) is debated.
 
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) reads the paired
+destructions of Carthage and Corinth in 146 as exemplifying harsh imperialistic foreign
+policy that contrasts with the new extortion court of 149: both cities razed and left
+empty as **symbolic erasures** though neither posed a credible threat — deliberate
+East/West balance and a new rhetoric of Roman power. Gaius Gracchus’s later suggestion
+to resettle Carthage can be read as more traditionalist against those erasures; Julius
+Caesar as dictator finally colonized both sites with veterans a century after 146. Light
+periodization/imperial-policy cross-link ([[roman-republics-periodization]]).
+
 ## Miles: "The Revenge of the Losers" and Power Over the Past
 
 Richard Miles ([[miles-carthage-must-be-destroyed-2010]]) frames the war against the
@@ -120,6 +131,19 @@ her framing, a period of essentially continuous Roman warfare stretching back to
 Pyrrhus's invasion in 280 BCE, with only a single attested year (235 BCE, "when
 Gaius Atilius and Titus Manlius were consuls") free of hostilities.
 
+### OHCW (Boardman/Griffin/Murray 1986) — Rawson
+
+Elizabeth Rawson (Ch. 17) places 148–146 at the close of the mid-Republican overseas
+arc: provincialization of Macedon/Greece and the **destruction of Corinth and Carthage**
+(Africa province), after the earlier Macedonian wars, Pydna (167), and the Egyptian
+near-protectorate (Popillius Laenas). African corn after 146 joined Sicily’s grain
+tithe in feeding Rome. Sallust (via Griffin Ch. 19) dated final moral turning-point
+rhetoric to the removal of external discipline after Carthage’s fall — a moralizing
+frame Rawson’s expansion chapter contextualizes with booty, slaves, and informal empire
+rather than pure fear.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Ch. 17 Rawson; cf. Ch. 19 Griffin).
+
 ## Related
 
 - Prior wars: [[first-punic-war-264-241bce]] · [[second-punic-war-218-201bce]] ·
@@ -130,4 +154,12 @@ Gaius Atilius and Titus Manlius were consuls") free of hostilities.
 - Concurrent: destruction of [[corinth]] (146) · province:
   [[roman-provincial-system]]
 - Detailed analysis (hubs/warfare): [[hubs/warfare/classical-antiquity/third-punic-war/third-punic-war|War hub]] · [[hubs/warfare/classical-antiquity/third-punic-war/siege-of-carthage-149-146bce|Siege of Carthage (149–146)]]
-- Source: [[astin-cah-v8-1989]] (Ch. 5, Harris) · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy, *The Fall of Carthage*]]
+- Source (OHCW): [[boardman-oxford-history-classical-world-1986]] (Ch. 17, Rawson)
+- Source: [[astin-cah-v8-1989]] (Ch. 5, Harris) · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy, *The Fall of Carthage*]] ·
+  [[flower-roman-republics-2010]]
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+Pairs razing of Carthage and Corinth in 146 as dramatic mark of second-century expansion. Delos slave market boom after 146 (Strabo’s 10,000/day) as Romans “had become rich and started to use great numbers of slaves.” Tentative link: Cato’s habitual slave command and *Delenda est Carthago* as possible shared autocratic mentality.

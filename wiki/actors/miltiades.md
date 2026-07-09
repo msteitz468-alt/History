@@ -9,8 +9,8 @@ affiliated_with: [the Philaid genos of [[athens|Athens]], the tyranny of the Thr
 opposed_by: [[[achaemenid-empire|Persia]] (after the revolt), Lampsacus, the Alcmaeonid-connected Xanthippus (his prosecutor)]
 key_events: [the tyranny of the Chersonese, Darius' [[darius-scythian-expedition-513bce|Scythian expedition]] (513), the capture of Lemnos, the flight to Athens (493), the victory at [[battle-of-marathon-490bce|Marathon]] (490), the failed Paros expedition (489)]
 key_processes: [Athenian resistance to Persia, the politics of the early democracy, the Athenian hold on the Hellespont]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, central-greece]
 ---
 
@@ -69,9 +69,13 @@ Philaid-favourable family tradition and the later glorification of Marathon both
 portrait (Cornelius Nepos' *Miltiades* adds little independent value). The truth of his
 anti-Persian "double game" on the Danube, and of the Paros affair, is debated.
 
+## Hall (2014) — light touch
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] notes Cleisthenic reforms may have renamed Brauron as Philaidai partly to detach Artemis cult from Pisistratids / affront the Philaidai of Miltiades/Cimon. At Marathon, Miltiades ordered the charge when Datis re-embarked cavalry and Athenians feared a move on Phaleron — Hall’s narrative aligns with the standard wing-envelopment outcome.
+
 ## Related
 
 - Family: Philaid genos of [[athens]] (father Cimon; son who fathered the elder Cimon) · realm: the Thracian Chersonese
 - Persian phase: [[achaemenid-empire]] · [[darius-scythian-expedition-513bce]] · revolt: [[ionian-revolt-499bce]]
 - Triumph & fall: [[battle-of-marathon-490bce]] · Paros (489) · context: [[ostracism]] · [[athenian-democracy]]
-- Period: [[archaic-period]] · [[classical-antiquity]] · Source: [[boardman-cah-v4-1988]] (Chs. 4, 8, 9)
+- Period: [[archaic-period]] · [[classical-antiquity]] · Sources: [[boardman-cah-v4-1988]] (Chs. 4, 8, 9); [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

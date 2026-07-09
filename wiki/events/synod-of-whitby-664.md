@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [caused_by: [[christianisation-of-anglo-saxon-england|clash of Roman and Irish missionary traditions]], caused_by: [[british-isles|disputes over the calculation of Easter and tonsure]]]
 consequences: [produced: [[christianisation-of-anglo-saxon-england|adoption of Roman Easter and liturgical customs in Northumbria]], contributed_to: [[theodore-of-tarsus|unification of the Anglo-Saxon Church under Roman authority]]]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, early-middle-ages, british-isles]
 ---
 
@@ -57,7 +57,12 @@ According to Bede, King Oswiu intervened, asking Colman if it was true that Chri
 
 The primary narrative source for the synod is Bede's *Historia Ecclesiastica Gentis Anglorum* (completed c. 731), written from a pro-Roman perspective. Modern historians (like Clare Stancliffe) emphasize that while Bede presents the debate as a purely religious issue, the synod also had significant political dimensions, as Oswiu's son Alhfrith supported the Roman faction to challenge his father's authority, and the adoption of Roman customs strengthened Northumbria's diplomatic ties with Kent and continental Europe.
 
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Differences over Easter (and tonsure/baptism rite) between Irish and continental customs culminated in 664 at Whitby—Bede’s “synod,” a **Northumbrian not national** meeting under King Oswy. Roman party: Ealhfrith of Deira and Wilfrid; Celtic/Iona party: Colman of Lindisfarne and Abbess Hild. Southern Irish and Bangor had already accepted “Roman” Easter—the issue was Iona tradition. Decision by the **king**, preferring Peter’s keys over Columba/John’s tradition; Colman left for Iona. **Broader meaning:** not Rome imposing jurisdiction on a Celtic church (papal jurisdiction then extremely passive) but a **local** issue; long-term, English church organized in Roman fashion with territorial dioceses (Council of Hertford 672; by 737 four northern and 13 southern dioceses); England firmly in Roman orbit; English continental missionaries later worked under papal authority with diocesan organization. Historiography: Bede’s epitaph to Colman and Lindisfarne’s austere Irish regime is generous; cool detached words about Wilfrid leave little doubt whom Bede found more Christ-like.
+
 ## References
 
 - *The New Cambridge Medieval History, Volume 1: c. 500–c. 700*, edited by Paul Fouracre. Cambridge University Press, 2005 (Chapters 15, 16, and 17).
 - The annalistic record of the Iona-centred world is now ingested as the **[[charles-edwards-chronicle-of-ireland|Chronicle of Ireland]]**; see also **[[iona]]**, home of the Columban *familia* whose Easter custom was rejected here.
+- [[logan-history-of-the-church-in-the-middle-ages-2013]]

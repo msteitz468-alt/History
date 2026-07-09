@@ -5,7 +5,7 @@ origin: "Chris Wickham, Framing the Early Middle Ages (2005), Ch. 3; generalised
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages]
 applies_to_regions: [western-europe, mediterranean, near-east, north-africa, anatolia, iberia, balkans, british-isles]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-08
 tags: [concept, early-middle-ages, late-antiquity]
 ---
@@ -106,3 +106,10 @@ Positions this distinction against Dopsch (continuity) and Pirenne (Mediterranea
 - [[feudalism]] — Wickham’s mode-of-production sense vs politics-of-land vs feudo-vassalic senses.
 - [[pirenne-thesis]] · [[byzantine-empire]] · [[umayyad-caliphate]] · [[carolingian-economy]]
 - Source: [[wickham-framing-the-early-middle-ages-2005]] (esp. Ch. 3; General Conclusions); also [[wickham-medieval-europe-2016]].
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **Explicit engagement with Wickham.** Mitchell restates Wickham’s strong vs weak states: tax-financed imperial systems (Roman Empire; successor eastern empires of Byzantium and the Abbasids) vs western successor kingdoms (Franks, Visigoths, Lombards) whose rulers used land (direct domain or gifts to aristocrats) for political-military support; tax systems are impersonal/institutionalized, land systems rest on personal aristocratic loyalty.
+- **Material mapping without the vocabulary (Ch 9–10).** Institutionalized tax (not conquest tribute) defines Roman subjecthood vs western kingdoms; Rome’s population rested on tax-extraction capacity and shrank when it was lost; Egyptian/Anatolian magnates capturing tax collection blur state tax and private rent; Vandal Africa kept the tax system while Justinianic re-occupation reimposed extractive taxation; western tax-base shrinkage as land was ceded drove post-Roman reorientation. Security failure is the mechanism that destroys tax infrastructure and forces land-based/local extraction—“as the infrastructure created by Roman administration and taxation was removed, cities shrunk in size and lost their significance.”

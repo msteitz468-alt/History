@@ -9,8 +9,8 @@ affiliated_with: [Ionia (Smyrna / Chios), the aoidoi (oral singers), the Homerid
 opposed_by: []
 key_events: [the monumental composition of the *Iliad* and *Odyssey*]
 key_processes: [the Greek oral epic tradition, [[ionian-migration-1050bce|the Ionian settlement of Asia Minor]]]
-sources_ingested: 4
-last_updated: 2026-06-22
+sources_ingested: 6
+last_updated: 2026-07-08
 tags: [actor, person, early-iron-age, anatolia, aegean]
 ---
 
@@ -110,15 +110,43 @@ epics, and how much genuine Bronze Age memory the verse preserves remain open. T
 page treats Homer as the historically real monumental composer the tradition
 describes, without resolving those disputes.
 
+## OHCW (Taplin) — poems, craft, and historical use
+
+[[boardman-oxford-history-classical-world-1986|Boardman/Griffin/Murray (eds.), *Oxford History of the Classical World* (1986)]], Ch. 2 (Oliver Taplin), approaches Homer *Homeron ex Homerou* — from the poems, not pocket biography. Ancient lives are largely fiction; modern consensus is meagre (date roughly **750–650 BCE**, northern Aegean Asia Minor / Smyrna area, craft learned in oral bardic tradition). For Taplin, “Homer” **is** the *Iliad* and *Odyssey*: extremely long yet highly selective (Aristotle praised Homer for not narrating the whole war as chronicle; Epic Cycle poems were shorter yet covered more events).
+
+**Craft.** The *Iliad* picks almost the only stretch of the war when Trojans have the better of fighting; a frame of ~21 days encloses a core of roughly four days and two nights (Books 2–23) that stand for the whole war from Paris’s crime to Troy’s ashes. Achilles (adventurer for loot/glory, semi-divine knowledge of a short life) is balanced against Hector (civic responsibility before family and city; dies of shame and duty). Whether one poet wrote both epics is left open; they **complement** — *Iliad* toward destruction and tragic inscrutability, *Odyssey* toward homecoming, tested hospitality, and clearer crime/punishment.
+
+**Homeric Question.** From F. A. Wolf (1795), “Analysts” treated the poems as multi-poet compilations against “Unitarians.” Taplin’s unitarian lean: subject to minor reservations, present form is the best stage, shaped by a poet so superior he is *The Poet*. **Milman Parry** showed oral-formulaic composition (extension and economy of noun-epithet systems) collapses classic analytic criteria based on inconsistencies and “original vs derivative” repetitions. Homeric *Kunstsprache* is artificial Ionic with Arcado-Cypriot outcrops linked via Linear B to **Mycenaean** Greek ~500 years earlier — multi-period amalgam.
+
+**History vs poetry.** Material culture is likewise amalgam (bronze weapons + Iron Age cremation): aesthetically coherent, not Schliemann-style verification. Against M. I. Finley’s *World of Odysseus* as a stable Dark-Age social record, Taplin argues the poems are **inconsistent** on kingship, inheritance, monogamy, and the “Heroic Code” is **argued over** inside the *Iliad*, not simple consensus. Gods and Fate (e.g. Zeus’s golden scales in *Iliad* 22) are **poetic elevation of turning-points**, not extractable systematic theology. Homer **shaped** Greek historical culture for a millennium more than he records one time: “Homer affected history.”
+
+Griffin (OHCW Intro/Ch. 3) adds: after Mycenaean collapse, poetry alone kept gold-rich Mycenae and Agamemnon in memory; Greek myth’s distinctive concern with **heroes** (not only gods) and the absence of a single orthodox version (Stesichorus/Euripides on Helen) are Homeric inheritance. Levi (Ch. 7): [[aeschylus|Aeschylus]]’s “crumbs from the great table of Homer” — tragedy as substitute for epic. Parker (Ch. 11): Homer (with [[hesiod|Hesiod]]) as informal theologians who “created a theogony for the Greeks” without creed or heresy.
+
+## Freeman: West's revisionist position and the Oxyrhynchus evidence
+
+Charles Freeman ([[freeman-egypt-greece-rome-2014|*Egypt, Greece, and Rome*]], 2014)
+cites **M. L. West** (a leading modern Homeric scholar) for a sharper revisionist
+position than Kirk's synthesis above: "Homer" may itself be a later constructed
+name; a single poet worked on the *Iliad* over a lifetime, with a different author
+responsible for the *Odyssey*; and the dominant Ionic dialect may point to **western
+Ionia (possibly Euboea)** rather than the traditional eastern Aegean (Chios/Smyrna)
+origin story. West also argued for Near Eastern epic influence on Homer (*The East
+Face of Helicon*, 1999). Freeman also notes the **Oxyrhynchus papyri** (~100,000
+fragments) show Homer leading all classical authors in surviving fragment count
+(~1,000) — concrete evidence of his central and disproportionate role in later Greek
+education, where Athenian boys memorized the epics as moral and behavioral training.
+
 ## Related
 
 - Controversy: [[homeric-poems-as-history]] (the Homeric Question; the three layers)
 - Subject: [[trojan-war-1250bce]] · [[mycenaean-civilization]] (the heroic age remembered)
 - Context: [[ionian-migration-1050bce]] · [[greek-dark-age]] · Concept: [[aegean-scripts]] (lost Linear B)
-- Shaped: [[greek-religion-and-mythology]] (the Olympian pantheon) · [[coming-of-the-greeks-1900bce]] (the epic dialect amalgam)
-- Source: [[edwards-cah-v2p2-1975]] (Ch. XXXIX(b), Kirk); the poem itself is now ingested as
+- Shaped: [[greek-religion-and-mythology]] (the Olympian pantheon) · [[coming-of-the-greeks-1900bce]] (the epic dialect amalgam) · [[greek-tragedy]] (Homeric themes on the civic stage)
+- Counterpart: [[hesiod]]
+- Source: [[edwards-cah-v2p2-1975]] (Ch. XXXIX(b), Kirk); [[boardman-oxford-history-classical-world-1986]] (Ch. 2 Taplin; also Griffin, Levi, Parker); the poem itself is now ingested as
   **[[homer-iliad|*The Iliad*]]** (OWC; trans. Verity, intro Graziosi).
   The *Odyssey* (Lombardo) is the complementary primary now being ingested.
+- [[freeman-egypt-greece-rome-2014|Freeman (2014)]]
 
 ## Grounded claims from Odyssey range 7151-10725 (Lombardo trans.)
 **Selected verbatim claims grounding Homer / the poems (via embedded references to song, Troy material, and the monumental tradition in this Ithacan range):**

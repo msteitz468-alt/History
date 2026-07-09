@@ -7,8 +7,8 @@ applies_to_periods:
 applies_to_regions:
   - north-africa
 contested: "yes"
-sources_ingested: 1
-last_updated: 2026-07-03
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -70,3 +70,19 @@ movement to be heard closer to its own terms.
 - Places and people: [[hippo-regius]] · [[carthage]] · [[possidius]]
 - Context: [[african-christianity]] · [[christianization-of-the-roman-empire]] · [[late-antiquity]]
 - Source: [[sources/brown-augustine-of-hippo-2000]]
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]] (Chs. XV/XXI, XXXIII, XLI).
+
+- **Origin.** After Maxentius, Africa distracted by double election (Caecilian vs Majorinus/Donatus); five tribunals over three years favor Caecilian; “productive of a memorable schism which afflicted the provinces of Africa above three hundred years, and was extinguished only with Christianity itself.”
+- **Circumcellions.** “formed the strength and scandal of the Donatist party”—“captains of the saints,” Israelite clubs, war-cry “Praise be to God,” rapine consecrated by religion, attract slaves and debtors, sometimes court martyrdom.
+- **Political consequence (Vandal conquest).** Persecution of Donatists favored Genseric; conquest facilitated by domestic faction; “the intolerant spirit which disgraced the triumph of Christianity, contributed to the loss of the most important province of the West.”
+- **Justinian.** Abolished Vandal Arian/Donatist regimes and restored Catholic wealth and immunities in reconquered Africa.
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **Origins and Constantine.** Crystallized in Carthage prison 304 over *traditores* and Mensurius/Caecilian’s obstruction of confessors; 311 Numidian bishops rejected Caecilian (ordained by *traditor* Felix of Aptunga), appointed Majorinus then Donatus of Casae Nigrae. Constantine referred dispute to bishops at Rome 313 and Arles 314—precedent for imperial empowerment of councils. State found for Caecilian; Constantine abandoned repression 321 and later funded alternate Catholic basilica at Constantina.
+- **African Christians (Shaw).** Appropriate to re-label them, with Brent Shaw, as “African Christians”—densest western Christian network; 336 council of 270 bishops; strength in Numidian small towns; Julian’s recall of exiles boosted them; Augustine’s Hippo challenge. 411 Carthage conference (Honorius order; 286 vs 285 bishops; full stenographic *Gesta*) legally restated Constantine’s Caecilian ruling. Not anti-imperial political nationalism but claim to be the rightful church. Post-411 fade not mainly from repression but because Vandal Arian conquest marginalized state-Catholic counterpart; in Arian eyes both sides were simply “Catholics.”

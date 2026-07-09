@@ -5,8 +5,8 @@ origin: Emic; twenty-seven propositions on papal authority entered in the regist
 applies_to_periods: [High Middle Ages]
 applies_to_regions: [mediterranean, western-europe]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -40,8 +40,14 @@ most of its claims can be paralleled in earlier canon law. Its importance lies l
 legal novelty than in the **uncompromising spirit** with which it gathered papal
 claims into a programme of action.
 
+## From Logan, *A History of the Church in the Middle Ages* (2013)
+
+[[logan-history-of-the-church-in-the-middle-ages-2013|Logan]] dates the *Dictatus* possibly to **spring 1076**: **27** statements seeming like **chapter headings for a lost or never-made canonical collection**. He highlights claims that princes kiss only the pope’s feet; the unique title; that the pope **may depose emperors**; that he is **judged by no one**; that he may **absolve subjects from fealty to evil persons** — the doctrinal charge behind Gregory’s deposition of Henry IV.
+
 ## Related
 
 - [[gregory-vii]] — its author.
 - [[gregorian-reform]], [[papal-monarchy]] — the movement and institution it expresses.
 - [[investiture-contest]] — the conflict it helped ignite.
+- [[logan-history-of-the-church-in-the-middle-ages-2013]]
+

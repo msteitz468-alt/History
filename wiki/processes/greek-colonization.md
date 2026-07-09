@@ -8,8 +8,8 @@ region: [mediterranean-world, mediterranean, balkans, iberia, north-africa, east
 process_type: demographic
 driven_by: [overpopulation and land-hunger, civil strife and exile, trade opportunity, the expansive energy of the new polis]
 produces: [hundreds of independent daughter-poleis from Spain to the Black Sea, the spread of Hellenic culture and the alphabet, the monetized trade economy, the metropolis–apoikia network]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, archaic-period, mediterranean-world, greece]
 ---
 
@@ -157,10 +157,47 @@ Greeks** (Sicily and Magna Graecia), the **eastern Greeks** of Ionia, and the co
 fringes of the [[thracians|north Aegean]], the Pontus, the Adriatic, and
 [[cyrene|North Africa]].
 
+## Hall (2014) — Archaic Greek World
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] Ch. 5 (“New Homes Across the Seas”) revises Graham-style orthodoxy on foundation reliability, pots-and-peoples, and land-hunger monocausality without denying scale or agricultural motives.
+
+### Foundation-story skepticism
+
+Modern scholarship distinguishes post-Mycenaean “migrations” from eighth-century+ organized “colonization,” but ancient authors did not (Thucydides 1.12 uses *apoikia* for both western foundations and Ionian settlement within post-Trojan upheaval). Hall doubts that colonial traditions are qualitatively more trustworthy than migration legends. Accurate 300-year oral preservation of eighth/seventh-century foundations would uniquely distinguish western Greeks from Aegean Greeks who could not remember events so early. Sequential office lists are insecure before late-fifth-century antiquarian reconstruction; oikist hero-cult + annual foundation-recitation arguments are weak (hero honors often late or thin; Cyrene’s Battos platform ca. 600 is the best early case). Foundation dates often look **generational** (Thucydides’s 245 and 70 years ≈ 35-year generations), projected backward—interest in civic foundations is largely fifth-century and present-justifying. Archaeology shows **gradual footholds**, not instantaneous Classical-style foundations: Megara Hyblaea’s bulk Greek ceramics sit near Thucydides’s 728, but buildings rarely predate the seventh century and earliest burials slightly postdate first imports—small initial footholds, then a generation-plus trickle (analogous to early British New World settlement). Reading Megara Hyblaea’s grid/agora as planned “from day one” is teleological: only a handful of eighth-century houses survive; agora and road-grid responses likely early seventh-century growth.
+
+### Pots ≠ peoples; multi-origin settlers
+
+Early colonial imports vary little by colony: Corinthian wares dominate almost everywhere (Corinthian Gulf route preference). “Achaean”/NW Peloponnesian pottery appears in Achaean foundations *and* Locri, Siris, Taras, Otranto, Pithecusae, Cumae, and many Sicilian sites; Euboean and East Greek wares spread beyond named mother-cities. Predominant Corinthian pottery does not prove Corinthian commercial monopoly; diverse assemblages do not automatically prove mixed ethnicity—yet colonial diversity exceeds Old Greece and makes human movement along trade routes highly likely. Classical foundation stories simplify complex multi-group processes toward later dominant groups. Methone (Macedonia) hypogeum inscriptions (730–690) show multi-script, multi-origin settlers (Euboean, Boeotian/Argive/Ithacan/Cretan, almost certainly Attic letter forms; local Thermaic manufacture plus Euboean, Attic, Lesbian, Chian, Samian imports)—if typical, literary colonial accounts are not vastly different in kind from earlier migration traditions.
+
+### Taras / Partheniai (Antiochus vs Ephorus)
+
+Strabo preserves Antiochus and Ephorus on Taras with almost **no narrative overlap** beyond foundation timing (First Messenian War era) and settlers as Laconian **Partheniai**. Phalanthos dominates Antiochus and is absent from Ephorus (helot alliance; failed agora revolt; overseas colony). Later tomb traditions displace Phalanthos (Brentesion burial; bones scattered on the agora)—an embarrassed acknowledgment that the supposed oikist lacked physical presence in “his” city. The divergence is a case study in foundation-story unreliability, not a problem solvable by picking the “true” version.
+
+### Al Mina and Pithecusae
+
+**Al Mina** (Orontes): disputed pottery origins, dates, and meaning amid disturbed stratigraphy. Pendent semicircle skyphoi ca. 770–750; some central Euboean fabric. “No permanent Greeks” vs “Euboean enclave” extremes both overreach; temporary Greek-speakers including Euboeans are plausible, but not all Euboean wares arrived via Euboeans, and Al Mina should not be treated as uniquely Euboean. **Pithecusae** (Ischia) among the earliest permanent western settlements is also among the most distant—Mezzavia industrial complex processing Elba iron for Levantine luxury exchange; western contacts before permanent colonies (Scoglio del Tonno; early ninth-century Corinthian sherds at Otranto; pendent semicircle skyphoi in Italy/Sicily) show longer pre-apoikia interaction.
+
+### Hunger, greed, inheritance, and empire — motives plural
+
+Hall challenges **land-hunger orthodoxy** as monocausal: fertile colonial sites, Theran drought/Cyrene oracles, and eighth-century growth matter, but emigration is not the only or most obvious response to land shortage (birth control, delayed marriage, agricultural intensification); clear eighth-century overpopulation is hard to demonstrate; Corinth’s large fertile territory shows little intensive rural habitation; Achaea’s Dyme zone was only sporadically settled until the sixth century despite Achaean Italian foundations; Aegina lacked capacity yet first colony only after 520 (Kydonia), long supported by piracy; Megara Hyblaea’s early scale was no mass exodus relieving home overcrowding. **Partible inheritance** and sibling resentment (Hesiod *WD* 37–9, 376–7) help explain distant relocation; foundation traditions encode illegitimacy/marginal status (Partheniai; Battos; Myskellos) but formulaic oracles reduce independent credibility. **Commercial opportunity** is rehabilitated without reverting to “trade before the flag”: Hesiod’s father left Cyme “desirous of a good life”; Naucratis as trade port; choke-point sites (Zancle/Rhegium; Chalcedon/Byzantium); Phocaean far west; Sinope with little hinterland exploitation for two centuries; northern Black Sea grain export for Athens is Classical, not early Archaic. Underplaying commerce reflects Finley-style primitivism and anti-imperial trade historiography; Hall: no early official “flag,” not no trade. **Eastern imperial pressure** drives some waves (Milesian Black Sea under Lydian then Achaemenid pressure; Phocaeans under Harpagos ca. 540 → Elea; Pentathlos under Asian kings → Lipara). Land remained *one* motive among several; the first eighth-century wave was probably **not official state action**, and much later Archaic “colonizing” is similar (Dorieus private; Miltiades’ Thracian fiefdom; Athenian *klēroukhiai* only late sixth century, Chalcis ~506 as defensive outcome not pure expansionism). Overall picture: less official, less formal, more haphazard movement for various reasons over generations—not so qualitatively different from earlier post-Mycenaean mobility.
+
+### Violence then integration
+
+Initial foundations often involved violence/displacement (Syracuse, Sybaris, Taras, Locri), sometimes later serfdom (Syracuse; Heraclea Pontica), but within a couple of generations many contexts stabilize and integrate (Black Sea hinterlands; L’Amastuola mixed settlement ca. 675–fifth century with coexisting local and Greek ceramics/rituals)—refining Graham’s spectrum of expulsion / invitation / serfdom / subordination.
+
+## From the Oxford History of the Classical World (1986)
+
+**Forrest (Ch.1, [[sources/boardman-oxford-history-classical-world-1986|OHCW 1986]]).** What we “rather misleadingly call colonization” was often a state-organized enterprise sent in a direction that would further the mother-state’s interests, yet the *apoikia* **became an independent unit**, normally keeping no more than sentimental and religious ties. Motives must not be generalized: overpopulation, famine, politics, trade, farming, chance—“we must argue for confusion.” By c.600 Greeks were established in southern France, northern Africa, Egypt, the Black Sea and its approaches, the north Aegean coast, and above all Sicily and southern Italy. Corinth’s foundations of Corcyra and Syracuse (733 BCE) sit amid westward riches. Earlier Euboean metal-seeking and settlement (N Syrian coast before 800; Italy later) and the Lelantine War’s strains form the immediate prelude to denser late-eighth-century foundation activity.
+
+**Murray (Ch.9).** By the classical fifth–fourth centuries the result was hundreds of Greek communities around Mediterranean shores “like frogs around a pond” (Plato), regarding the *polis* as the only truly civilized life despite huge economic variation (agriculture; trade in corn, oil, wine, slaves, metals; mercenaries; fortresses; shrines).
+
+**Crawford (Ch.16).** From the eighth century southern Italy hosted Greek colonies from Cumae to Tarentum; Etruria developed advanced urban civilization by internal evolution plus largely **Greek** influence (language neither Greek nor Italic; cities remained separate polities)—colonization as a cultural force beyond Greek political borders.
+
 ## Related
 
 - Contrast: emporion ([[al-mina]] · [[naucratis]]) vs. apoikia (independent polis)
 - Paradigm colony: [[cyrene]] (the best-documented foundation) · [[delphi]] (the colonists' oracle)
 - Frame: [[city-state]] · [[orientalizing-revolution]] · bequest: [[alphabet]] · [[coinage]]
 - Compare: [[phoenician-colonization|Phoenician colonization]] (the rival western colonizer)
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p3-1982]] (Ch. 37, Graham)
+- Period: [[archaic-period]] · Economy: [[archaic-greek-economy]]
+- Source: [[boardman-cah-v3p3-1982]] (Ch. 37, Graham) · [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

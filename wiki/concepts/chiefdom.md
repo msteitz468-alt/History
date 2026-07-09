@@ -5,7 +5,7 @@ origin: "Neo-evolutionary anthropology (Service, Fried, 1960s–70s); refined by
 applies_to_periods: [Neolithic, Chalcolithic, Early Bronze Age, and others]
 applies_to_regions: [china, mesoamerica, andes, near-east, mediterranean, polynesia, north-america, eastern-north-america]
 contested: yes
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [concept, analytical, social-evolution]
 ---
@@ -53,6 +53,30 @@ solidarity through military conflict over local resources — that gave rise to 
 not the flashier network chiefdoms. This is also why the most complex *network*-style
 chiefdom, Taosi, collapsed while the less integrated corporate systems of central Henan and
 the [[yiluo-basin|Yiluo basin]] produced [[erlitou-culture|Erlitou]].
+
+## Fagan & Durrani (2020): Definitional Difficulty and Volatility
+
+[[fagan-world-prehistory-2020|Fagan & Durrani (2020)]] stress that "precise
+definitions of chiefdoms... are virtually impossible to formulate" and treat
+Elman Service's typology (see [[band-tribe-chiefdom-state]]) as a loose, contested
+descriptive vocabulary rather than a settled stage in a ladder of complexity —
+recent scholarship, in their reading, debates "the relative complexity of
+chiefdoms" and frames the issue as "not so much stages of social complexity, but
+the whole issue of complexity itself." They locate chiefdoms structurally on kin
+ties, reciprocal obligation, and (usually) permanent or semi-permanent farming
+settlement, with landownership vested in a clan or lineage under an ancestor
+rather than in individuals.
+
+A key mechanism is **Marshall Sahlins's "Big Man"** concept: an entrepreneurial
+leader whose authority rests on personal ability and reciprocal gift-giving
+loyalty rather than heredity. Because that loyalty did not automatically pass to
+the next generation, Big Man politics produced structurally **volatile** political
+orders — though some successful Big Men did convert personal power into
+hereditary chiefly dynasties, one route by which chiefdoms could stabilize (or
+fail to). Fagan & Durrani also note Yoffee's distinction (see
+[[state-formation]]) between within-kin-system inequality (the chiefdom) and
+inequality based on access to resources and the power that access confers (the
+state) as the cleanest one-line definitional contrast between the two forms.
 
 ## Critique
 

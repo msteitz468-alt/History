@@ -5,8 +5,8 @@ date_start: c. 560 (birth disputed; Kirby argues c. 560 based on 56 years = age 
 date_end: 616 or 618 CE (disputed; see Historiography)
 period: [Late Antiquity, Early Middle Ages]
 region: ["british-isles"]
-sources_ingested: [1]
-last_updated: "2026-06-27"
+sources_ingested: [2]
+last_updated: "2026-07-08"
 tags: [actor, person, "early-middle-ages", "late-antiquity", "british-isles"]
 affiliated_with: ["[kingdom-of-kent]]", "[[christianisation-of-anglo-saxon-england]"]
 key_events: ["[augustine-mission-597]"]
@@ -61,10 +61,15 @@ The date of baptism is also contested. Bede implies 597 or very shortly after; G
 
 The question of whether Æthelberht was among Bede's brytenwealdas is secure, but the geographical and temporal extent of that overlordship has been significantly revised downward by scholars who accept Kirby's chronological revision.
 
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Logan’s Kent sequence: open-air meeting of [[augustine-of-canterbury|Augustine]] with Ethelbert on Thanet (597); Queen Bertha already Christian at St Martin’s; Gregory’s July 598 report of mass Christmas baptisms; Ethelbert almost certainly Christian by 601. After Ethelbert’s death (**616**) his son reverted to paganism; with East Saxon hostility and Raedwald’s dual altars, bishops Laurence, Justus, and Mellitus nearly abandoned the mission—Justus and Mellitus fled to Gaul; Laurence stayed and (per Bede) a miracle restored Kent’s king. Logan thus places Ethelbert’s conversion as real but fragile—the Augustinian mission’s post-616 crisis is central to judging the mission “less than successful.”
+
 ## Related
 
 - [[kingdom-of-kent]]
 - [[augustine-mission-597]]
+- [[augustine-of-canterbury]]
 - [[eadbald-of-kent]]
 - [[christianisation-of-anglo-saxon-england]]
 - [[bretwalda]]
@@ -72,3 +77,4 @@ The question of whether Æthelberht was among Bede's brytenwealdas is secure, bu
 - [[heptarchy]]
 - [[early-middle-ages]]
 - [[sources/kirby-earliest-english-kings-2000]]
+- [[logan-history-of-the-church-in-the-middle-ages-2013]]

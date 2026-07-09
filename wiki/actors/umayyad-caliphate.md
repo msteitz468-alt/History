@@ -9,7 +9,7 @@ affiliated_with: [Umayyad dynasty, Damascus]
 opposed_by: [Byzantine Empire, Kharijites, Alids (Shi'ites), Abbasid Caliphate]
 key_events: [first-fitna-656, second-fitna-680, siege-of-constantinople-674, battle-of-guadalete-711]
 key_processes: [rise-of-islam, arab-conquests, arabization-of-administration]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, state, early-middle-ages, levant, near-east, islamic-world]
 ---
@@ -67,3 +67,9 @@ Under Caliph [[abd-al-malik|Abd al-Malik]], the Umayyads undertook a major reorg
 - *The New Cambridge Medieval History, Volume 1: c. 500–c. 700*, edited by Paul Fouracre. Cambridge University Press, 2005 (Chapter 12).
 - An early Christian witness from inside the Caliphate is now ingested as **[[hoyland-theophilus-edessa-chronicle|Theophilus of Edessa's Chronicle]]** — the reconstructed "common source" behind Theophanes, Agapius and the Syriac tradition.
 - [[wickham-framing-the-early-middle-ages-2005|Wickham, *Framing the Early Middle Ages* (2005)]] — fiscal structure, *dīwān*, regionalization, Egypt, al-Andalus.
+
+## From Tannous (2018) — minority rule and public Islam
+
+Under the Umayyads, Muslims long remained a **demographic minority** in the Fertile Crescent while ruling a Christian (and multi-confessional) majority. Tannous stresses Marwānid-era public Islamic markers (monumental architecture, coinage/shahāda programs associated with [[abd-al-malik|ʿAbd al-Malik]], ritual differentiation) as **legitimation and boundary-making** in a landscape where the mosque stood literally and culturally in the shadow of the church. Everyday co-residence, intermarriage, monastery contact, and convert networks channeled late antique habits into Islamic practice even as ḥadīth literature policed imitation of Jews and Christians (Noth). See [[islamization-of-the-middle-east]], [[simple-believers]].
+
+- Source: [[tannous-making-medieval-middle-east-2018]]

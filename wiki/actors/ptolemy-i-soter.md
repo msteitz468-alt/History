@@ -9,8 +9,8 @@ affiliated_with: [[[alexander-the-great]], [[seleucus-i-nicator]], [[rhodes]]]
 opposed_by: [[[perdiccas]], [[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]]]
 key_events: [[[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]], [[siege-of-rhodes-305]]]
 key_processes: [[[hellenistic-world]], [[ptolemaic-egypt]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, dynasty, classical-antiquity, egypt]
 ---
 
@@ -77,3 +77,8 @@ Hellenistic kingdoms. His strategic doctrine (hold Egypt, screen it through Coel
 command the sea through Cyprus and the islands) shaped a century of eastern
 Mediterranean conflict. Detailed treatment of his reign and kingdom belongs to CAH VII.1
 ch. 5 — see [[ptolemaic-egypt]].
+
+**Simon Price** (OHCW, 1986) underlines the dynastic arc: Ptolemy, granted Egypt at
+Alexander’s death, founded a house that ruled until Cleopatra’s defeat by Augustus
+(31 BCE), with intermittent control of Libya, southern Syria, Cyprus, southern Turkey,
+and Aegean islands.

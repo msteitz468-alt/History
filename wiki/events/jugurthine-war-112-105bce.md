@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the disputed Numidian succession, Jugurtha's killing of Adherbal and the Italians at Cirta, Roman concern for the province of Africa and senatorial honour]
 consequences: [the rise of Marius, the political crisis over senatorial corruption, the Mamilian court, the betrayal of Jugurtha]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [event, classical-antiquity, north-africa, war]
 ---
@@ -69,11 +69,28 @@ the *factio paucorum*, to be read critically (Lintott corrects its account of Ro
 motives). It is also a key witness to the **transitional Roman army** (the last traces
 of the manipular system).
 
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) broadly endorses
+Sallust’s domestic-impact thesis: the largely unnecessary, drawn-out Jugurthine War
+(112–105) caused a **decisive rift in domestic politics** just as the Cimbri and Teutoni
+threatened home territory — coincidence of Numidian succession conflict after Micipsa’s
+death with northern migration creating dual military challenge and political
+disintegration at home (*rogatio Mamilia* 110, indictment of *nobiles*, Marius replacing
+Metellus, panic after Arausio 105). That was when ordinary Romans first seriously
+questioned traditional leadership and foreign-policy administration. Without these
+external pressures, Flower suggests, Gracchan bitterness might have been weathered by
+the next generation — especially if Numidia had been negotiated early or the Cimbri had
+stayed in Jutland. Metellus’s acceptance of popular stripping of command without
+resistance contrasts with Sulla’s march when Marius tried the same transfer ~20 years
+later. See [[roman-republics-periodization]] · [[fall-of-roman-republic]] · [[marius]].
+
 ## Related
 
 - Actors: [[marius]] · [[jugurtha]] · Metellus · Bocchus · [[sulla]] · process:
   [[marian-army-reforms]]
 - Politics: [[optimates-populares]] · [[mos-maiorum]] · the Mamilian court · source:
-  [[crook-cah-v9-1992]] (Chs 2–3, Lintott) · [[duncan-storm-before-the-storm-2017]]; the principal
+  [[crook-cah-v9-1992]] (Chs 2–3, Lintott) · [[duncan-storm-before-the-storm-2017]] ·
+  [[flower-roman-republics-2010]]; the principal
   ancient narrative is now ingested as
   **[[sallust-conspiracy-jugurtha-histories|Sallust's *Jugurthine War*]]**.

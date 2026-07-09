@@ -8,8 +8,8 @@ region: [levant, near-east, anatolia, mediterranean, western-europe, iberia, bal
 process_type: religious
 driven_by: [[[gregorian-reform]], [[just-war]], "the pilgrimage tradition", "the papal claim to authorise sanctified violence", "the Seljuk Turkish conquest of Anatolia and the Byzantine appeal", "the ideology of liberation (of eastern Christians and of Jerusalem)"]
 produces: [[[crusader-states|the crusader states]], "the military-religious orders (Templars, Hospitallers)", "the indulgence and the crusade vow", "the militarisation of medieval Christendom", "lasting Latin–Byzantine and Christian–Muslim antagonism"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [process, high-middle-ages, levant, mediterranean, western-europe, islamic-world]
 ---
 
@@ -103,8 +103,15 @@ than direct response to crusading ideology. See [[byzantine-latin-schism-polemic
 
 Levantine crusading continued past this volume — through the Third and Fourth Crusades
 into the thirteenth century treated by [[abulafia-ncmh-v5-2000|NCMH V]] — until the
-fall of **Acre (1291)** ended the crusader states; crusading as an institution
-persisted (against the Ottomans, heretics, and pagans) into the early modern era.
+fall of **[[fall-of-acre-1291|Acre (1291)]]** ended the mainland crusader states. **Cyprus**
+then became the sole major Latin outpost ([[kingdom-of-cyprus]];
+[[edbury-kingdom-cyprus-crusades-1991|Edbury 1991]]): embargo patrols and abortive Mongol
+coordination under [[henry-ii-of-cyprus|Henry II]]; anti-Turkish leagues under Hugh IV; and
+[[peter-i-of-cyprus|Peter I]]'s [[sack-of-alexandria-1365|sack of Alexandria (1365)]] — the
+last major Christian assault on the Mamluks, mounted mainly by Cypriot forces. The
+[[genoese-invasion-of-cyprus-1373|Genoese climacteric (1373–74)]] ended Cyprus as a
+crusading base. Crusading as an institution persisted (against the Ottomans, heretics, and
+pagans) into the early modern era.
 
 ## Historiography
 
@@ -116,11 +123,68 @@ Western scholarship on the crusades is surveyed in detail in [[concepts/crusade-
 
 **Non-Western perspectives** were largely absent from major Western syntheses (Grousset, Runciman, Setton's Wisconsin history). The Dumbarton Oaks volume edited by Laiou and Mottahedeh (2001) represents a systematic effort to incorporate Byzantine and Muslim viewpoints. See [[concepts/byzantine-just-war]] and [[concepts/jihad-concept-evolution]] for the ideological frameworks of those perspectives.
 
+### Logan (2013)
+
+[[logan-history-of-the-church-in-the-middle-ages-2013|Logan]] argues no one knew the First Crusade was “first”; “crusade” and numbering are later inventions. For all the romance popularly associated with them, the crusades were **marginal events in the general flow of medieval history** (possibly more central to Middle East history), yet papal holy war deeply affected church life and Western culture by **sanctifying armed force** after early Christian pacifism and limited Augustinian just war: “war had become holy.” He quotes **Runciman** at length on triumphs of faith without wisdom and intolerance in God’s name. On institutions: crusader states (Edessa, Antioch, Kingdom of Jerusalem, Tripoli from 1109) into the later thirteenth century; **Templars** from **1119** (Hugh de Paynes; [[bernard-of-clairvaux|Bernard]] supported); **Hospitallers** armed by the 1160s (possibly 1120s); **Teutonic Knights** from **1198**. Further reading: Runciman, Riley-Smith, Tyerman, Asbridge, Hillenbrand, Kedar.
+
+## From Cobb, *The Race for Paradise* (2014)
+
+[[cobb-race-for-paradise-2014|Paul M. Cobb]] reframes the process as an **Islamic history of the Crusades**: the history of people living in the Islamic world as they encountered Frankish expansion, based almost entirely on Arabic (and related) sources, and rejecting both the Western “triumphal” and “lachrymose” master narratives (see [[crusade-historiography]]).
+
+### Periodization and emic terminology
+
+- **Traditional Western frame** (which Cobb summarizes to overturn): Urban II at Clermont (1095) → four Levantine [[crusader-states]] (Edessa 1097, Antioch 1098, Jerusalem 1099, Tripoli 1109) → Mamluk reconquest of [[fall-of-acre-1291|Acre (1291)]]. Albigensian, Baltic, and later crusades are often treated as adjuncts to this Clermont-to-Acre spine.
+- **Islamic-source frame**: Arabic writers do **not** begin with 1095 or end cleanly in 1291. They treat the Levantine First Crusade as one outburst of a European/Frankish aggression that began decades earlier in **eleventh-century Spain and Sicily**, then extended through Syria-Palestine, Egypt, Mediterranean islands, and later eastern Europe, reaching a more satisfactory closure only with Ottoman Balkan consolidation at the end of the Middle Ages (and perhaps beyond).
+- Medieval Islamic sources **never** call these events “Crusades”; classical Arabic has no such word. Modern Arabic *al-hurub al-salibiyya* (“the crusader wars”) is a **modern neologism**. Emic categories were [[ifranj|Ifranj]] (Franks), wars of the cross, and conflicts along the frontiers of [[dar-al-islam]].
+- Even many modern **Islamic-history** surveys still cast the Crusades as a rude Levantine interruption that leaves without a trace; Cobb insists they should be integral to Islamic civilization’s history and to relations among medieval Islamic states from Spain to Iran—with different geographical and chronological limits than Clermont-to-Acre.
+
+### Muslim experience of mid-eleventh-century Frankish wars
+
+Medieval Muslim observers did not treat the Levantine crusades as a radically new Christian ideology but as the latest phase of longer Frankish assaults on the Abode of Islam, intensifying from the mid-eleventh century. From that standpoint:
+
+- What was **new** was not ideology but **frequency, menace, and success**—for the first time in living Muslim memory. Holy-war concepts shaped Frankish incentives inside Christendom without changing the material fate Muslims faced on the frontiers.
+- The Norman conquest that cost Islamdom **Sicily** (c. 1060–1090/91) was the first of a new wave of lasting Frankish conquests, opening further advances in al-Andalus, North Africa, and eventually the Near East.
+- Early twelfth-century Syrian preacher ʿAli ibn Tahir **al-Sulami** (*Book of Jihad*, Damascus after the First Crusade) framed Frankish success as divine punishment for Muslim neglect of jihad and internal division, with aggression progressing Sicily → al-Andalus → Syria/Palestine and the goal Jerusalem—and described Franks as prosecuting a jihad that Muslims had abandoned.
+- Mid-twelfth-century al-ʿAzimi and thirteenth-century Ibn al-Athir connect Near Eastern invasion to earlier conquests in Spain, North Africa, and Sicily; Ibn al-Athir treats Frankish power as a *dawla* spanning those theaters.
+- Dominant emic causal line (as Cobb synthesizes it): Frankish jihad against Muslims began in the **1060s**, was fought on **many Mediterranean fronts**, and succeeded because of a **divided Muslim community**. Most sources attribute Frankish motives to bellicosity and greed; those that dig deeper stress Mediterranean expansion rather than papal holy-war theology (papal involvement is almost never mentioned).
+
+### Multi-response model (not a single “countercrusade”)
+
+Jihad was **one** Muslim reaction to Frankish invasion, never the only one. Accommodation, grudging tolerance, alliance, commerce, and friendship coexisted with holy war. Ulema-authored sources preferred jihad discourse and condemned pragmatism; jihad was dominant but never sole, and Frankish invasion “necessitated” jihad only when combined with spiritual-renewal preaching, enfeebled rulers mobilizing subjects, or upwardly mobile politicians building states with Islamic credentials.
+
+Early twelfth-century pattern (Cobb Ch. 3–4): four Frankish states consolidating the coast; five principal Muslim response zones (Fatimid Egypt; Damascus; Aleppo; Upper Mesopotamia/Artuqids; the Saljuq sultan’s formal jihad armies, usually via Mosul, with little lasting effect). After the failed sultanic campaigns culminating with Bursuq (c. 1115), jihad against the Franks became largely a **local** amir/atabeg affair. Within a decade of 1099, Franks were recognized (if resented) players in Syrian politics; local politics almost always trumped ideology—even under [[saladin|Saladin]].
+
+Cobb’s terminal thesis: there was **no single shared Muslim experience** of the Crusades and **no coherent “countercrusade”**—only specific leaders at specific career moments employing jihad language against Franks to mobilize support. The optical illusion of continuous countercrusade arises because Zangi, Nur al-Din, and Saladin succeeded one another; even for them, resort to jihad was calculated and intermittent. A concerted countercrusade remained an ideal.
+
+### State formation, later theaters, and end conditions
+
+What the Crusades **did** lead to, Cobb argues, was (indirect) **Muslim state formation**: proximate Frankish foes provided a pretext for ambitious commanders (Zangi, Saladin), Maghribi reformers (Almoravids), and military juntas (Mamluks). Jihad against Franks became a platform plank for otherwise illegitimate power-grabbers as defenders of faith and the Circle of Equity. Post-Saljuq military regimes do not owe their existence to the Frankish threat, but probably something of their longevity; the Crusades did not make Islam “militant,” but helped justify the dominion of military elites.
+
+Mediterranean continuum under pressure: Norman Africa (brief mid-twelfth-century footholds from Tripoli nearly to Tunis); Iberian Second-Crusade-linked operations (Lisbon, Almería, Tortosa); later anti-Ottoman coalitions (e.g. Nicopolis 1396; Varna 1444 after papal absolution of a truce oath with “infidels”). Late medieval papal crusading interest shifted from reclaiming the Holy Land toward neutralizing the Ottoman threat to Italy. By Granada 1492 the setting of Islamdom’s “Frankish problem” was irrevocably changed: Sicily and al-Andalus under Franks; Near Eastern Frankish states and Cyprus destroyed; Byzantium eliminated; later Ottomans faced Hungary and the Habsburgs as a regional European power more than as foes of crusading Franks.
+
+Jerusalem-centric “Muslims won” dismissal understates permanent Mediterranean losses (Sicily; al-Andalus) that shaped Islamdom’s posture toward Christian Europe even as Levantine Frankish states came and went. Balanced against those losses, Islamic states and culture continued to expand elsewhere (Balkans under Ottomans; sub-Saharan and East Africa; Central, South, and Southeast Asia)—the Frankish frontier was one part of a larger civilizational map.
+
+Cobb’s closing methodological claim: the Crusades were human encounters across diverse Mediterranean communities, not merely two “enemies of God”; multi-perspective recovery treats medieval people as fellow humans rather than heroes or villains. See also [[dar-al-islam]], [[ifranj]], [[holy-war]], [[islamic-law-of-jihad]], [[jihad-concept-evolution]], [[reconquista]].
+
+## From Gibbon, *Decline and Fall* (Chs. LVIII, LXIV)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]]; not asserted as modern fact.
+
+- **Motive thesis (First Crusade set piece).** All crusaders prompted by enthusiasm; not all by it alone — religion “weak to stem, strong to impel” Frank manners already tuned to war; secondary motives of glory, spoils, freedom from feudal/ecclesiastical bonds, debt, and fashion (detail on [[first-crusade-1095]]).
+- **Plenary indulgence.** Urban’s Clermont grant converts the penance system into armed pilgrimage — structural hinge of the movement as Gibbon sees it.
+- **Nicopolis (1396).** Late crusading disaster: “would not have been lost, if the French would have obeyed the prudence of the Hungarians; but it might have been gloriously won, had the Hungarians imitated the valor of the French.” After victory Bajazet beheaded French captives who refused to abjure; commerce and credit later linked nations in the ransom of Burgundian captives.
+- **Diversion and schism.** Fourth Crusade as fruit of Greek–Latin animosity and Venetian interest (see [[fourth-crusade-1204]]); schism precipitates eastern decline by alienating allies and provoking enemies.
+
 ## Related
 
 - [[first-crusade-1095]], [[crusader-states]] — the founding expedition and its states.
 - [[urban-ii]] — its proclaimer.
-- [[just-war]], [[gregorian-reform]], [[peace-of-god]] — its ideological roots.
+- [[just-war]], [[gregorian-reform]], [[peace-and-truce-of-god]] — its ideological roots.
 - [[reconquista]], [[saladin]], [[byzantine-empire]] — its frontiers and antagonists.
 - [[cilician-armenian-kingdom]] — the Armenian state that enabled the early crusades ([[armenian-latin-integration|integration with the Latins]]).
 - [[baltic-crusades]] — the parallel crusade movement redirected against the pagan Baltic; [[medieval-frontier]] — the frontier concept these campaigns illuminate.
+- [[kingdom-of-cyprus]] · [[richard-conquest-of-cyprus-1191]] · [[sack-of-alexandria-1365]] — Cyprus within the crusading system.
+- [[dar-al-islam]] · [[ifranj]] · [[crusade-historiography]] · [[holy-war]] · [[islamic-law-of-jihad]] · [[jihad-concept-evolution]]
+- [[logan-history-of-the-church-in-the-middle-ages-2013]] · [[edbury-kingdom-cyprus-crusades-1991]] · [[cobb-race-for-paradise-2014]]
+- [[sources/gibbon-decline-and-fall-1776]]
+

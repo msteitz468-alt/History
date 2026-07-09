@@ -5,7 +5,7 @@ date_start: Late Postclassic consolidation (c. 14th century CE; deeper local roo
 date_end: 1530 CE (Spanish conquest of Tzintzuntzan); Purépecha people ongoing
 period: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 region: [mesoamerica]
-affiliated_with: ["Lake Pátzcuaro basin", "[[greater-mesoamerica|Greater Mesoamerica]] / West Mexico", "[[tzintzuntzan|Tzintzuntzan]]"]
+affiliated_with: ["Lake Pátzcuaro basin", "[[michoacan-region|Michoacán region]]", "[[west-mexico|West Mexico]]", "[[greater-mesoamerica|Greater Mesoamerica]]", "[[tzintzuntzan|Tzintzuntzan]]"]
 opposed_by: ["[[aztec-empire|Aztec Triple Alliance]]", "Spanish conquest", "liberal desamortización and hacienda encroachment", "anticlerical agrarista campaigns in the Cristero era"]
 key_events:
   - Middle Postclassic migrations into Pátzcuaro basin
@@ -25,7 +25,7 @@ key_processes:
   - "[[virgin-soil-epidemics]]"
   - "[[spiritual-conquest-and-colonial-church]]"
   - "[[hacienda]]"
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, state, mesoamerica, west-mexico]
 ---
@@ -272,6 +272,63 @@ single leader than on embattled communal land, religious identity (Cristero
 identification), and adaptive commercialization — Van Young’s culture-as-process, not
 fly-in-amber, thesis.
 
+## Evans & Webster 2001 (Pollard, Smith, Hosler, Gorenstein)
+
+Encyclopedia entries deepen the imperial institutional, religious, and frontier picture
+beyond the CHNPA narrative already above.
+
+**Legendary expansion and institutionalization (Pollard, “Tarascan Culture and
+Religion”).** *Relación de Michoacán* (1541): culture hero **Tariácuri** as lord of
+Pátzcuaro; nephews **Hiripan** and **Tangáxoan** of Ihuatzio and [[tzintzuntzan]];
+*uacúsecha* elite lineage dominated Pátzcuaro Basin politics A.D. **1250–1350**. From
+~**1350** military campaigns from the SW basin outward; ~**1440** institutionalization
+as a tributary state under Hiripan then Tangáxoan; by the **1460s** province of
+**Zacatula** on the Pacific, NE frontier into the Toluca Basin, centers north of the
+Lerma, west past Lake Chapala — effectively ~**75,000 km²** from the Michoacán–México
+border to the Sayula Basin. Protohistoric kings at Tzintzuntzan include
+**Tzitzispandáquare** (1454–1479), **Zuangua** (1479–1520), **Tangaxuan II /
+Tzintzicha Don Francisco** (1520–1530, executed). Modern descendants call themselves
+Tarascan or *purepecha* (“commoners”).
+
+**Court, land, classes.** Central administration at the capital: king (*irecha*/cazonci)
+headed a court with *angatácuri*, military captain, *petámuti* (chief priest), tribute
+minister, *caracha-capacha* (governors of four quarters), *achaecha*. Positions
+hereditary father-to-son with the king’s approval. Four land-tenure categories (royal
+patrimonial, state fiscal, local-lord, commoner); commoners (*purepecha*) and slaves
+worked state lands. Four social classes — king/lords, nobles, commoners, slaves — with
+minimal mobility. Extremely high centralization of admin/judicial power interwoven with
+religion.
+
+**State religion.** Three-part cosmos (sky/earth/underworld). **No Tarascan Tlaloc** —
+rain was the province of the earth goddess **Cuerauáperi**; no Quetzalcoatl counterpart
+as a major cult. Major state deities: Cuerauáperi; **Curicaueri** (sun/fire/war/hunt,
+royal patron); **Xarátanga** (moon). Solar calendar 18×20 + 5 days. Specialized keyhole
+*yácata* pyramids for Curicaueri; **no ball court at the capital** (courts elsewhere,
+e.g. Ihuatzio with chacmools). Directional colors: red east, **yellow north, white
+west, black south** (unlike Maya/Aztec schemes). Gold associated with the sun in both
+Purépecha and Nahuatl (Hosler).
+
+**Closed Aztec frontier.** From the 1430s until Spanish conquest Tarascans and Aztecs
+were continually in offensive/defensive action; fortified non-Tarascan-staffed
+settlements closed the frontier; merchants exchanged only at border posts such as
+**Taximaroa** — Tarascan merchants did not go beyond borders nor Aztec *pochteca* enter.
+“The Tarascans are generally considered to have been the foremost enemy of the Aztecs.”
+**Etzatlán** (Jalisco) resisted Tarascan conquest efforts for ~**50 years** before the
+Spanish (Weigand). **Acámbaro–Cerro el Chivo** (Guanajuato) was a Lerma-frontier
+administrative/military outpost of the Lake Pátzcuaro core (Gorenstein).
+
+**Metallurgy (Smith, Hosler).** Late Postclassic perfected copper-to-bronze techniques
+under **state control**; imperial goals included copper/tin/arsenic territories.
+Metallurgy appears in Michoacán after A.D. 900 (possibly earlier on Nayarit/Jalisco/
+lower Balsas coasts) via Ecuadorian-style cold hammering, annealing, and lost-wax
+through coastal canoe trade. Style/form of Tarascan metalwork differed from contemporary
+Central and Southern Mexico, reflecting long West Mexican tradition and specific
+Tarascan design canons (Pollard on [[tzintzuntzan]] elite assemblage).
+
+*contributed_to:* dual-empire stalemate of Late Postclassic Mexico · *contrasts_with:*
+Aztec open *pochteca* long-distance trade · *part_of:* [[michoacan-region]] resource
+geography
+
 ## Historiography
 
 **Prehispanic and conquest.** Ethnohistory (*Relación de Michoacán*) is unusually rich
@@ -285,6 +342,14 @@ Tarascans as principal western opponents of the Triple Alliance without narratin
 pitched battles in that chapter (cites Gorenstein & Pollard 1983; Gorenstein 1985;
 Hassig; Pollard 1993).
 
+**Evans & Webster 2001.** Pollard’s “Tarascan Culture and Religion,” “Michoacán Region,”
+and “Tzintzuntzan” entries are the densest single encyclopedia synthesis for court
+structure, religion, land tenure, and capital urban form; Smith’s Postclassic overview
+and Hosler’s metallurgy entries supply technological and comparative framing; Gorenstein
+on Acámbaro and Weigand on Etzatlán flesh out the frontier. Pollard’s anti-marginalizing
+historiography (region not a delayed Aztec copy) aligns with Gorenstein’s Greater
+Mesoamerica thesis already on this page.
+
 **Colonial–modern (Van Young).** Van Young judges indigenous Center-West past better
 served by anthropologists/archaeologists than historians; Tarascans among the best
 covered. He privileges **J. Benedict Warren** *Conquest of Michoacán* as definitive for
@@ -296,11 +361,13 @@ Young, CHNPA II.2 Ch. 15 (R04), unless noted.
 
 ## Related
 
-[[tzintzuntzan]] · [[greater-mesoamerica]] · [[aztec-empire]] ·
+[[tzintzuntzan]] · [[michoacan-region]] · [[west-mexico]] · [[guerrero-region]] ·
+[[greater-mesoamerica]] · [[aztec-empire]] ·
 [[west-and-northwest-mexico-prehistory]] · [[mesoamerican-state-formation]] ·
 [[western-mexico-indigenous-colonial-modern]] · [[mixton-war-1540]] ·
 [[virgin-soil-epidemics]] · [[spiritual-conquest-and-colonial-church]] ·
 [[encomienda]] · [[hacienda]] · [[indigenismo]] ·
 [[casas-grandes-paquime]] · [[chalchihuites]] ·
 [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 7 (Gorenstein)]] ·
-[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2 Ch. 15 (Van Young)]]
+[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2 Ch. 15 (Van Young)]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

@@ -5,7 +5,7 @@ origin: developed in Preclassic Mesoamerica (traceable to the Olmec/Zapotec, c. 
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [mesoamerica]
 contested: no
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [concept, mesoamerica]
 ---
@@ -130,6 +130,63 @@ calendrically named royal ancestors on funerary urns and commemorative beakers.
 [[el-tajin|El Tajín]] Pyramid of the Niches: **365 recessed niches** matching the solar year
 (18×20 + 5)—“surely not a coincidence” (Diehl 2000).
 
+## From Evans & Webster 2001 — Calendrics and cosmovision
+
+### Dual cycle and Long Count (Janine Gasco)
+
+Basic Mesoamerican calendar used across the region from at least several centuries BCE and
+still used in some Maya communities: concurrent **260-day sacred cycle** and **365-day solar
+cycle** creating the **52-year Calendar Round**. The 260-day cycle = number 1–13 + one of 20
+day names (Aztec *tonalpohualli* / Zapotec *piye*); earliest known representation at Zapotec
+**San José Mogote ~500 B.C.** The 365-day year = 18×20-day months + 5 days (Maya *haab*,
+Aztec *xiuitl*); Aztec **New Fire Ceremony** marked 52-year ends. The **Long Count** measured
+days from a fixed start (**August 3114 B.C.** per widely accepted correlation), used ~36
+B.C.–A.D. 909; earliest examples from Olmec region / Central Depression Chiapas / Pacific
+coastal Guatemala (likely Mixe-Zoque origin), most extensively by Classic Maya until collapse.
+
+### Cosmology and correlation (Joyce Marcus; Ann Corinne Freter; Barbara Tedlock)
+
+Widespread cosmology: three horizontal divisions (multilayered upper world, sacred earth,
+multilayered lower world—Aztec accounts vary 9- or 13-layer heaven; lower world often nine
+layers); four world quadrants from a center with colors/trees/birds (Maya: red east, white
+north, black west, yellow south; Aztec/Tarascan differ); Earth as living creature (Maya cayman
+*ain*; Aztec *cipactli*/toad *tlaltecuhtli*) floating in sea (*teoatl*). Classic Maya Long
+Count fixed start ~5000 years ago, commonly used A.D. 1–900; **GMT correlation** supported by
+Tikal wooden-lintel radiocarbon and accepted by most scholars (starting point **3113 B.C.** in
+this entry’s formulation); Spinden ~260 years earlier, Vaillant 260 earlier still. Short-count
+52-year cycles widespread by the sixteenth century; Aztec primordial couple Oxomoco and
+Cipactonal invented the 260-day divinatory almanac.
+
+### Archaeoastronomy (John B. Carlson)
+
+Archaeoastronomy studies astronomy within cultural context (“cosmovision”). Deep shared
+elements: animistic shamanism, emergence from underworld at center, four world-quarters,
+layered heavens/underworld, cyclical time/catastrophic creations, personified forces needing
+sacrifice. Mesoamerica: numerical/calendrical astronomy with long-term day counts; horizon
+naked-eye observations; solar zenith passage in tropics. Calendrical divination into the 1st
+millennium B.C.; elaborate dynastic calendar Late Formative from c. 400 B.C. Ephemerides for
+Sun, Moon, Venus from Late Formative; Dresden Codex eclipse-warning almanac; Venus almanacs
+in 5 of ~16 surviving pre-Cortesian codices regulated warfare and ritual sacrifice.
+
+### Maya natural cycles (David L. Webster)
+
+Maya cosmology: tripartite heaven–earth–underworld (each multilayered); earth as house/field,
+crocodile, or turtle back; ceiba world tree axis; *pauahtun* sky-bearers at four corners with
+colors (red E, black W, white N, yellow S; green center). Calendars from Sun/Moon/Venus cycles
+and commensuration: *haab* (solar), 260-day *tzolkin* (possibly based on human gestation),
+52-year Calendar Round, Long Count from 3114 B.C.; some war events timed to Venus; esoteric
+knowledge in codices used for prophecy/divination. (One encyclopedia line prints “363-day
+haab”—standard value is 365; treat as probable OCR/spacing artifact.)
+
+### Zapotec dual calendar (Joyce Marcus)
+
+Zapotec kept dual calendar system like other Mesoamericans: 260-day ritual *piye* and 365-day
+solar year (18 *veintenas* of 20 days + 5 extra days). Individuals named for 260-day birth
+date.
+
+Source: [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]
+(Calendrics; Cosmology; Astronomy/Archaeoastronomy; Maya Religion; Zapotec Culture).
+
 ## Significance
 
 The Mesoamerican calendar is a prime example of indigenous American **mathematics, astronomy,
@@ -145,4 +202,5 @@ the Aztecs, with each culture adapting it for their own purposes. See
 
 [[mesoamerica-culture-area]] · [[mesoamerican-writing-systems]] · [[mesoamerican-periodization]] ·
 [[maya-civilization]] · [[zapotec]] · [[olmec]] · [[tikal]] · [[tres-zapotes]] ·
-[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]]
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

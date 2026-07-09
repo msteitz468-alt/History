@@ -9,7 +9,7 @@ affiliated_with: [[[roman-republic]], the Cornelii Scipiones]
 opposed_by: [[[hannibal]], [[carthage]], later [[fabius-maximus|Fabius]] and political rivals at Rome]
 key_events: [[[second-punic-war-218-201bce]], capture of [[new-carthage]] (209), [[battle-of-zama-202bce]], war against [[antiochus-iii-the-great|Antiochus III]]]
 key_processes: []
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, iberia, north-africa, rome]
 ---
@@ -66,6 +66,17 @@ earliest Latin literature (Ennius, ties to Terence) — framing the beginning of
 Roman overseas empire and the beginning of Roman literature as "two sides of the
 same coin."
 
+### OHCW (Boardman/Griffin/Murray 1986) — Crawford & Rawson
+
+Crawford (Ch. 16) names Scipio as the agent of the African transfer of the war and
+the victor of **Zama 202** after Hannibal’s recall. Rawson (Ch. 17) places that
+victory at the start of permanent Spanish provinces and fully provincial Sicily — the
+western settlement that freed Rome for the Macedonian and eastern wars. OHCW does not
+expand the factional “Scipionic group” of CAH VIII, but treats Scipio as the structural
+counter to Hannibal within the Italian manpower system.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Chs. 16–17).
+
 ## Related
 
 - State: [[roman-republic]] · base won: [[new-carthage]]
@@ -74,4 +85,5 @@ same coin."
 - Rival strategy: [[fabius-maximus]] · [[fabian-strategy]]
 - Later war: [[antiochus-iii-the-great]]
 - Tactical analyses (hubs/warfare): [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-new-carthage-209bce|New Carthage]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-ilipa-206bce|Ilipa]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-zama-202bce|Zama]]
-- Sources: [[astin-cah-v8-1989]] · [[polybius]] · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy]]
+- Sources: [[astin-cah-v8-1989]] · [[polybius]] · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy]] ·
+  [[boardman-oxford-history-classical-world-1986]]

@@ -7,8 +7,8 @@ period_active: [Late Antiquity, Early Middle Ages]
 controlled_by: [Tiwanaku state]
 events_here: []
 processes_here: [[[urbanization]], [[ruralization]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, andes, late-antiquity]
 ---
 
@@ -64,6 +64,17 @@ direct counter to static trait-list definitions of the city ([[what-defines-a-ci
 Janusek explicitly **sidesteps** minimum-size/monument criteria. It is the
 Andean comparand to gridded [[teotihuacan|Teotihuacan]] and Mesopotamian
 [[uruk|Uruk]].
+
+## Fagan & Durrani (2020): scale, the staff god, and the drought collapse
+
+Fagan and Durrani's *World Prehistory* (10th ed., 2020) dates Tiwanaku's Titicaca Basin
+florescence to c. 600–1000 CE (with growth from c. 450 CE), reaching a population of roughly
+**20,000** at its height. Central to the site's iconography is the **Kalasasaya** enclosure and
+the "staff god"/**Viracocha** doorway carving. They attribute the city's collapse **after 1200
+CE** possibly to a prolonged drought, evidenced in regional ice-core records — consistent with
+the drought-driven collapse pattern documented elsewhere in the Andes for this period (compare
+[[moche|Moche]] and [[wari|Wari]]). See [[andean-state-formation]] for the wider Middle
+Horizon integration these two centers represent.
 
 ## Related
 

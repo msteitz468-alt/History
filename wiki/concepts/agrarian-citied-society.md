@@ -5,8 +5,8 @@ origin: "Developed by Marshall G. S. Hodgson in *The Venture of Islam* (1974), V
 applies_to_periods: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern]
 applies_to_regions: [near-east, mesopotamia, iran-plateau, levant, north-africa, east-asia, south-asia, europe, mediterranean]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, periodization, analytical, Early Bronze Age, Early Modern]
 ---
 
@@ -67,3 +67,9 @@ The concept also frames the stakes of the "why Europe first?" question about ind
 - [[axial-age]] — the watershed within the agrarianate era
 - [[islamic-civilization-historiography]] — critiques of how the agrarianate world has been misdescribed
 - [[periodization-world-history]] — broader debates about dividing historical time
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **City life as empire’s viability metric.** Tax collection organized city-by-city though most revenue came from land; state and regional interests converged on civic institutions as material symbols of empire. East/West contrast is sharpest here—Britain, N Gaul, and most Danubian provinces lost urban settlements, civic buildings, and wide exchange networks in the fifth century, living in villages within localized economies with links to empire broken; East kept flourishing cities (and dense supporting countrysides) at least to mid-sixth century via classical town–country symbiosis (e.g. Lycian harbors + highland hinterland; Syrian limestone villages + Antioch/Apamea). “This was not at the expense of smaller rural settlements, but as a consequence of the age-old symbiosis of town and country, which was the bedrock of classical city-state existence.” Maps onto Hodgson’s agrarian-citied form as the structural condition of late Roman imperial capacity.

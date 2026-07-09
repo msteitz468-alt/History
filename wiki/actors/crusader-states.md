@@ -6,11 +6,11 @@ date_end: 1291 (fall of Acre)
 period: [High Middle Ages, Late Middle Ages]
 region: [levant, near-east, mediterranean]
 affiliated_with: ["the Latin Church", "the Italian maritime republics", "the military orders (Templars, Hospitallers)"]
-opposed_by: [[[saladin]], "the Zengids and Ayyubids", "the Seljuks of Anatolia", "the Fatimids"]
-key_events: [[[first-crusade-1095|the First Crusade]], "the fall of Edessa (1144)", [[battle-of-hattin-1187]], "the fall of Acre (1291)"]
-key_processes: [[[crusades]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+opposed_by: ["Saladin", "the Zengids and Ayyubids", "the Seljuks of Anatolia", "the Fatimids", "the Mamluk sultanate"]
+key_events: ["first-crusade-1095", "siege-of-edessa-1144", "battle-of-hattin-1187", "fall-of-jerusalem-1187", "third-crusade-1189", "fall-of-acre-1291"]
+key_processes: ["crusades"]
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, state, high-middle-ages, levant, near-east]
 ---
 
@@ -20,16 +20,27 @@ The **crusader states** (the "Latin East," French *Outremer*, "the land beyond t
 sea") were the four Frankish principalities established in the Levant by the
 **[[first-crusade-1095|First Crusade]]**. [[luscombe-ncmh-v4-2004|NCMH IV]] (Hans
 Eberhard Mayer, Ch. 21, "The Latin east, 1098–1205") traces their foundation,
-consolidation, and the crisis of 1187.
+consolidation, and the crisis of 1187. [[cobb-race-for-paradise-2014|Cobb]]’s Islamic-source
+narrative frames the same four “kingdoms” (loosely: county of Edessa 1097/98, principality
+of Antioch 1098, kingdom of Jerusalem 1099, county of Tripoli 1109) and Saladin’s victories
+as the start of deep decline ending with Mamluk reconquest of Acre (1291).
 
 ## The Four States
 
-- The **County of Edessa** (1098) — the first and most exposed, inland in Mesopotamia.
-- The **Principality of Antioch** (1098) — seized by Bohemond during the First Crusade.
+- The **County of Edessa** (1098) — the first and most exposed, inland in Mesopotamia;
+  straddled the upper Euphrates (Saruj, Tall Bashir); first target for Muslim armies from
+  Iraq/East.
+- The **Principality of Antioch** (1098) — seized by Bohemond during the First Crusade;
+  Orontes valley Apamea–Amanus; thorn to Aleppo, Damascus, and Shayzar; Byzantium treated
+  Frankish Antioch as unjustly seized property after Franks refused to hand it to Alexios.
 - The **Kingdom of Jerusalem** (1099) — the senior state, "the true founder" of which
   Mayer identifies as **Baldwin I**, "an incessant warrior" who ruled his vassals "with
-  an iron fist."
-- The **County of Tripoli** (1109).
+  an iron fist." Cobb: Holy City preeminence; eventually Ashdod–Beirut coast plus east of
+  Jordan (Golan, Tiberias shores, Karak/Shawbak); squeezed between Fatimid Egypt and Seljuk
+  Damascus.
+- The **County of Tripoli** (1109) — fell 12 July 1109 after delayed Fatimid relief (bad
+  winds); fourth and final Frankish state; Raymond of St. Gilles had built Mons Peregrinus
+  during the siege and died (Feb 1105) without entering the city he claimed.
 
 These were a Frankish ruling minority over a mixed population of eastern Christians,
 Muslims, and Jews, sustained by a **feudal-military aristocracy**, the
@@ -38,18 +49,52 @@ castles such as Crac des Chevaliers), and the [[commercial-revolution|Italian ma
 republics]] (Venice, Genoa, Pisa), which controlled the coastal trade in return for
 quarters and privileges in the ports.
 
+## Early consolidation and Muslim response (Cobb)
+
+By 1100 the Franks were deep in Seljuk/Fatimid borderlands intent on staying. Coastal mop-up
+with Genoese aid took Jaffa, Haifa, Arsuf, Caesarea (1100), Jubayl and Acre (1104), Beirut
+and Sidon (1110); Tyre held out until 1124—near-complete Mediterranean coast control.
+November 1129: massive Frankish army vs. Damascus (Cobb hedges “perhaps fifty thousand”;
+Fulk of Anjou and Templars; [[usama-ibn-munqidh|Usama]] reports Franks already dividing
+Damascene real estate) ended in abject retreat.
+
+Early Muslim response came from five zones (Fatimid Egypt; Damascus; Aleppo; Upper
+Mesopotamia/Artuqids; Seljuk sultan via Mosul)—sultanic “tens of thousands” jihads repeatedly
+failed through desertion, rivalry, and dual Muslim–Frank alliances. Local pragmatism was
+the norm: Tughtakin of Damascus knew driving Franks “into the sea was not possible” (1108
+four-year truce with Baldwin; harvest-share treaties). Ironic tangles abounded—e.g. September
+1108 near Tall Bashir: Tancred of Antioch + Ridwan of Aleppo vs. Jawuli of Mosul + Baldwin of
+Edessa. After Bursuq’s 1115 defeat, Seljuk sultans never again sent an army against the Franks
+in Syria; jihad became a local amir/atabeg affair. Peak local success: **[[field-of-blood-1119|Field of Blood]]**
+(1119) without strategic consummation at Antioch.
+
 ## Rise, Crisis, and the Muslim Counter-Offensive
 
 Mayer charts the states' vulnerability to a unifying Muslim power. The fall of
-**Edessa to Zengi of Mosul (1144)** — the first great loss — triggered the failed Second
-Crusade. Zengi's son **Nur al-Din** united Muslim Syria (Aleppo and, by 1154, Damascus),
-encircling the Franks, who in turn intervened in **Fatimid Egypt** — a struggle Nur
-al-Din's lieutenants ultimately won, bringing **[[saladin|Saladin]]** to power there. The
-union of Egypt and Syria under Saladin doomed the over-extended kingdom: at the
-**[[battle-of-hattin-1187|Battle of Hattin (1187)]]** the field army of Jerusalem was
-annihilated, and the city fell. The **Third Crusade (1189–92)** recovered a coastal
-rump centred on **Acre**, where the truncated kingdom survived until **Acre fell in
-1291**.
+**[[siege-of-edessa-1144|Edessa to Zangi of Mosul (1144)]]** — the first great loss — triggered the failed
+**[[second-crusade-1147|Second Crusade]]**. Zangi's son **[[nur-al-din|Nur al-Din]]** united Muslim Syria
+(Aleppo and, by 1154, Damascus), expunged remaining Edessan territory by 1150 (first Latin state
+created = first permanently expunged), encircling the Franks, who in turn intervened in
+**[[fatimid-caliphate|Fatimid]] Egypt** — a struggle Nur al-Din's lieutenants (Shirkuh, then
+**[[saladin|Saladin]]**) ultimately won. The union of Egypt and Syria under Saladin doomed the
+over-extended kingdom: at the **[[battle-of-hattin-1187|Battle of Hattin (1187)]]** the field army
+of Jerusalem was annihilated, and **[[fall-of-jerusalem-1187|the city fell]]**. By end 1187 most
+First Crusade territory was retaken; Tyre left twice—seed of later Frankish recovery. The
+**[[third-crusade-1189|Third Crusade (1189–92)]]** recovered a coastal rump centred on **Acre**,
+where the truncated kingdom survived until **[[fall-of-acre-1291|Acre fell in 1291]]**.
+
+## Late Outremer and Mamluk extinction (Cobb)
+
+Early 1260s: rump kingdom of Jerusalem had neither king nor Jerusalem (Conradin a child in
+Europe); Antioch + Tripoli under Bohemond VI (Mongol ally at Ayn Jalut); Templars/Hospitallers
+suspicious; Genoa–Venice war further divided; territory a strip of noncontiguous lands from
+Jaffa to Antioch plus a few inland castles. **Baybars** and **Qalawun** systematically reduced
+the coast and inland castles (Caesarea, Arsuf, Safad, Antioch 1268, Crac des Chevaliers 1271,
+etc.). By Qalawun’s day only **Tripoli** remained of the original Frankish capitals (Jerusalem’s
+capital had moved to Acre in Saladin’s day); Acre crown disputed between Lusignan Hugh III and
+Charles of Anjou. Tripoli fell 26 April 1289 (city demolished). After Acre (18 May 1291),
+Sidon, Beirut, Tyre, and Haifa soon surrendered with little or no resistance; last Templar forts
+(Antartus/Tortosa, ʿAtlith) easily taken.
 
 ## Significance
 
@@ -57,9 +102,15 @@ The crusader states were the most enduring territorial result of the
 [[crusades|crusading movement]] — a two-century Latin presence in the Near East that
 shaped Christian–Muslim relations, transmitted goods and ideas, enriched the Italian
 maritime cities, and (through their defence) generated the recurring crusades. Their
-loss at Hattin and finally at Acre marked the failure of the Latin enterprise in the
-Levant. The thirteenth-century history of Outremer is continued in
-[[abulafia-ncmh-v5-2000|NCMH V]].
+loss at Hattin and finally at Acre marked the failure of the Latin enterprise on the
+**Syrian mainland**. The durable Latin survivor was the
+**[[kingdom-of-cyprus|kingdom of Cyprus]]** (1192–1489), intimately linked to the mainland
+states by dynasty, war and commerce until 1291 and thereafter the sole major western outpost
+([[edbury-kingdom-cyprus-crusades-1991|Edbury 1991]]). The thirteenth-century history of
+Outremer is continued in [[abulafia-ncmh-v5-2000|NCMH V]]. Cobb’s commercial note: local
+politics almost always trumped ideology even under Saladin; *munasafa* condominia divided
+lands, water, and harvests; post-Saladin apparent diplomatic wane reflects Muslims no longer
+treating Frankish polities as equals—not the end of practical truces.
 
 ## Commercial Role and Merchant Quarters
 
@@ -108,7 +159,10 @@ For fuller treatment see [[crusades-and-islamic-art]] and [[frankish-byzantine-a
 ## Related
 
 - [[crusades]], [[first-crusade-1095]] — the movement and expedition that created them.
-- [[saladin]], [[battle-of-hattin-1187]] — the power and battle that broke them.
+- [[saladin]], [[battle-of-hattin-1187]], [[fall-of-jerusalem-1187]], [[third-crusade-1189]] — the power and crises that broke them.
+- [[imad-al-din-zangi]], [[nur-al-din]], [[ayyubid-dynasty]], [[mamluk-sultanate]] — Muslim consolidators and final extinguishers.
+- [[siege-of-edessa-1144]], [[second-crusade-1147]], [[field-of-blood-1119]], [[fall-of-acre-1291]] — key military turning points.
+- [[usama-ibn-munqidh]] · [[ifranj]] · [[cobb-race-for-paradise-2014]] — Islamic-side witness and framing.
 - [[byzantine-empire]] — the Christian power whose relations with them ran from alliance to estrangement.
 - [[cilician-armenian-kingdom]] — the Armenian state that helped found and sustain them ([[armenian-latin-integration|the integration process]]).
 - [[crusades-and-islamic-art]] — Grabar on the Crusades and Islamic art.

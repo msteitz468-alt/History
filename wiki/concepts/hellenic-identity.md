@@ -8,8 +8,8 @@ origin: >
 applies_to_periods: [Archaic Period, Classical Antiquity]
 applies_to_regions: [aegean, central-greece, mediterranean, anatolia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, greece]
 ---
 
@@ -71,11 +71,15 @@ sustain panhellenic institutions yet never produced political unity, and the *ba
 antithesis was as much a rhetorical resource (deployed by Athens against its own Greek
 rivals) as a description.
 
+## OHCW — shared culture, historiography, and Panhellenic cult
+
+[[boardman-oxford-history-classical-world-1986|OHCW (1986)]] reinforces several facets of Hellenic self-definition without replacing Davies’s four-head analysis. Murray (Ch. 8): writing of history as a distinct activity arose from the sense of **national identity** after the defeat of Persia — Greek historiography as man-centred record of great deeds, contrasting Jewish covenant-history. Forrest (Ch. 1, via Griffin Intro frame): Marathon and 480–479 added **hostility and superiority** to the factual description of “barbarian,” and “the distinction between Greek and barbarian (foreigner) became one between Greek and Barbarian (national enemy).” Parker (Ch. 11): Greeks as a **nation** at Panhellenic sanctuaries; belonging expressed by shared lustral water before sacrifice; festivals could exclude non-Greeks; heroes were local (except Heracles) while Olympians were shared with the world. Boardman (Ch. 12): sanctuaries and treasuries more often commemorated **inter-Greek** victories than joint foreign wars — competitive intra-Hellenic display as much as barbarian polarity. Homer (Taplin Ch. 2) provided a persuasive, universally known model of heroism and gods that shaped real Greek life for a millennium — cultural infrastructure of *to Hellenikon*.
+
 ## Related
 
-- People/sources: [[herodotus]] · [[thucydides]] · [[classical-greek-historiography]]
+- People/sources: [[herodotus]] · [[thucydides]] · [[classical-greek-historiography]] · [[homer]]
 - Concepts: [[greek-religion-and-mythology]] · [[polis-religion]] · [[city-state]] ·
   [[panhellenic-games]]
 - Actors/events: [[classical-greece]] · [[battle-of-plataea-479bce|the Persian Wars]] ·
   [[achaemenid-empire]]
-- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 2, Davies)
+- Sources: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 2, Davies); [[boardman-oxford-history-classical-world-1986]] (Murray Ch. 8; Parker Ch. 11; Taplin Ch. 2; Forrest Ch. 1)

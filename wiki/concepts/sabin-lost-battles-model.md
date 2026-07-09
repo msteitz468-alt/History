@@ -5,8 +5,8 @@ origin: "Philip Sabin, *Lost Battles: Reconstructing the Great Clashes of the An
 applies_to_periods: [classical-antiquity]
 applies_to_regions: [greece, rome, mediterranean-world, near-east]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-23
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, warfare, classical-antiquity, modeling, battle-analysis]
 ---
 
@@ -32,6 +32,16 @@ The model explicitly incorporates player decisions to simulate the "battle of wi
 
 The full model extends Sabin's prior "battlefield clock" insight (wide-ranging manoeuvres imply prolonged infantry clashes lasting hours, not minutes) and "stand-off" hypothesis (close-quarter mêlée is sporadic and tentative until one side breaks; decisive killing happens in pursuit).
 
+## CHGRW chapter method (Sabin, Vol. I.13A)
+
+In [[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] Sabin’s land-battle chapter is **thematic**, not battle-by-battle: he analyses Hellenistic and mid-Republican battles on two levels — grand-tactical “general’s battle” (deployment, command, manoeuvre) and tactical “soldier’s battle” (troop-type interactions) — arguing that only an **integrated dual-level** understanding explains outcomes (the *Lost Battles* book methodology is referenced as Sabin 2007/2009 chs. 3–4).
+
+**Grand-tactical frame.** Pre-gunpowder defensive advantages meant pitched battle usually required mutual consent and often months or years of campaigning — hence set-piece formality almost “akin to a duel.” Battles were extremely compressed in time and space (few tens of thousands; few miles; often decided in hours). Generals’ greatest contribution was usually **pre-battle**: deceive or provoke engagement on favourable terms; primitive communications meant most forces only executed pre-planned orders. Command transitioned from “heroic leader” toward “battle manager,” with Alexander and later Pyrrhus as integrated ideals — yet dust limited visibility, forcing advance briefing of subordinates ([[battle-of-cannae-216bce|Cannae]]: Hannibal stiffened the centre; Hasdrubal ran the envelopment).
+
+**Battlefield clock.** Unlike opaque-duration hoplite fights, later battles show infantry combat lasting long enough (e.g. Nero’s Metaurus rear-march ≥~1 hour) for wing breakthroughs to matter — creating a **race against time** to exploit cavalry victory before the infantry centre collapses; cavalry must be rallied from pursuit ([[battle-of-zama-202bce|Zama]] return “in the nick of time”; Antiochus too late at Raphia).
+
+**Tactical model.** Very low victor fatalities (even if understated) plus sustained combat require models other than Hollywood intermingling, continuous front-rank dueling, or protracted *othismos*: combat was intermittent “cold steel” fear punctuated by stand-offs and missile exchanges, ending when one side’s morale broke into flight and one-sided pursuit slaughter.
+
 ## Use and Value
 
 - Adjudicates source disputes by "best fit" with comparative data from the full corpus of ~35 engagements (e.g., army frontage vs. size scaling; feasible odds; elephant and cavalry effects; duration of combat).
@@ -50,8 +60,9 @@ The full model extends Sabin's prior "battlefield clock" insight (wide-ranging m
 ## Related
 
 - Primary exposition: [[sources/sabin-lost-battles-2009]]
+- CHGRW chapter: [[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007]] (Vol. I.13A); umbrella [[hellenistic-warfare]]
 - Developer: [[actors/sabin-philip]]
-- Enriches: [[hubs/warfare/classical-antiquity/]] battle analyses; complements Goldsworthy, Lazenby, Engels-style modeling, and Keegan "face of battle" approaches.
+- Enriches: [[hubs/warfare/warfare-hub|Warfare Hub]] classical battle analyses (esp. Punic War cluster); complements Goldsworthy, Lazenby, Engels-style modeling, and Keegan "face of battle" approaches.
 - See also: [[concepts/face-of-battle-method]] (contrasting soldier-centric lens); wargaming as historiographical tool.
 
 The model is a standing reference for any hub battle page covering engagements between ~500 BCE and the end of the Roman Republic.

@@ -9,8 +9,8 @@ affiliated_with: [the [[julio-claudian-dynasty|Julio-Claudian house]]; the [[pri
 opposed_by: [Sejanus (in retrospect); the family of Germanicus; senatorial delatores and their victims]
 key_events: [the Pannonian and German commands under Augustus, the recovery after the [[battle-of-teutoburg-forest-9ce|Varian disaster]], accession (14), the fall of Sejanus (31)]
 key_processes: [[[principate|the consolidation of the Principate]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy, rome]
 ---
 
@@ -68,10 +68,44 @@ and continued the de-politicization of public life. But his reclusiveness and th
 him the archetype of the resented autocrat. He died at Misenum (**16 March 37**), his designs
 for his grandson **Gemellus** overtaken by **Caligula**, son of the beloved Germanicus.
 
+## OHCW (Stockton; Lintott)
+
+**Stockton** (Ch. 22): partner in *imperium* and tribunician power since AD 4; accession debate mismanaged (as [[tacitus]] presents it); outstanding military career but dour character; early years good marks, then Sejanus after Capri withdrawal (26), *maiestas* trials, Sejanus’ fall 31; “to have died leaving it virtually certain that Gaius must succeed is the blackest of all indictments.”
+
+**Lintott** (Ch. 26): Tacitus’ classic Tiberius portrait seized on **hypocrisy** as answer to the enigma of a talented emperor ending abominated — gradual peeling of skins of plausibility from a bitter, malevolent inner self warped by early life and love of domination. Modern historians more often blame indecisiveness, reserve, and mistrust (aligning closer to Stockton/Wiedemann than to Tacitean psychology).
+
+## Harris, *Roman Power* (2016): the AD 16 brake
+
+[[harris-roman-power-2016|Harris]] makes **AD 16** a programmatic discontinuity in the
+thousand-year arc of [[roman-power|Roman power]]. After Germanicus’s German season,
+Tiberius ordered him home to triumph; the Rhine–Elbe war was never seriously resumed.
+Harris treats this as the first sustained **deceleration of expansion** (not its absolute
+end — Tiberius still annexed when advantageous, e.g. Cappadocia 17, Commagene 18, and used
+Cappadocian taxes to cut the auction tax). Combined with Tiberius’s consolidation of
+absolute monarchy (finishing the political supremacy of the old aristocracy more
+decisively than Augustus), AD 16 pairs with AD 337 as Harris’s two major period breaks.
+He also reads Tacitus as criticizing Tiberius (and alluding to later times) for
+non-expansion, against a still-living ideology of conquest that emperors could claim without
+conquering. Cross-links: [[augustan-imperial-expansion]], [[battle-of-teutoburg-forest-9ce]],
+[[principate]].
+
+## Freeman, *Egypt, Greece, and Rome* (2014) — Tiberius reassessed
+
+Charles Freeman ([[freeman-egypt-greece-rome-2014]]) argues Tiberius was "one of the
+most gifted men of his age" — an experienced general (he regained the standards lost
+to the Parthians by diplomacy) and a sound administrator whose reputation suffers
+disproportionately from **Tacitus's** cynicism about imperial power; Freeman reads
+Tacitus's own historiographical bias as itself worth flagging — writing under Trajan's
+freer conditions after Domitian's "tyranny," Tacitus brought republican nostalgia and
+deep skepticism to his portrait. Freeman also notes Tiberius reportedly refused a
+temple to himself proposed in Spain ("I am a mere mortal... men will give my memory
+enough" — Tacitus), a contrast pointedly drawn against Caligula's demands for divine
+honors.
+
 ## Related
 
 - Stepson and successor of [[augustus]]; founder-system: [[principate]]
 - Recovered after [[battle-of-teutoburg-forest-9ce|the Varian disaster]]; dynasty:
   [[julio-claudian-dynasty]]
-- Succeeded by [[caligula]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 5, Wiedemann)
+- Succeeded by [[caligula]] · literary image: [[tacitus]]
+- Source: [[bowman-cah-v10-1996]] (Ch. 5, Wiedemann); [[boardman-oxford-history-classical-world-1986]] (Stockton Ch. 22; Lintott Ch. 26); [[harris-roman-power-2016]]

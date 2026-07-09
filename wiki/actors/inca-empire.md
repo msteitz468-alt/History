@@ -9,8 +9,8 @@ affiliated_with: ["the Inca of Cuzco", "the Sun cult (Inti)", [[tiwanaku|Tiwanak
 opposed_by: ["the Chanca confederation", "the Chimú", "the Spanish"]
 key_events: ["the Chanca war and Pachacuti's accession (1438)", "the expansion into the four suyos", "the Spanish conquest (1532–1533)"]
 key_processes: [[[andean-state-formation]], [[state-formation]], [[empire]]]
-sources_ingested: 6
-last_updated: 2026-06-22
+sources_ingested: 7
+last_updated: 2026-07-08
 tags: [actor, empire, late-middle-ages, andes]
 ---
 
@@ -151,8 +151,51 @@ which only royal authority (Pedro de la Gasca) finally ended. The aftermath: the
 [[mita-and-andean-reciprocity|mita]] within the new
 [[colonial-latin-america|colonial order]].
 
+## Fagan & Durrani (2020): split inheritance as the structural driver of conquest
+
+Fagan and Durrani's *World Prehistory* (10th ed., 2020) supplies a strong causal account that
+sharpens the split-inheritance thesis already noted above (D'Altroy). Inca origin traditions
+place the homeland near Cuzco as a small, ayllu-based farming society; official king-lists
+name roughly eight rulers spanning 1200–1438 CE, but Fagan & Durrani flag these genealogies as
+"hardly reliable" — a caution warranted for any Inca dynastic-list claim. **Viracocha Inca**
+(early 15th century) was the first ruler to pursue permanent conquest rather than raiding, and
+declared himself a living god. His son **Pachakuti** (Cusi Inca Yupanqui), crowned c. 1438
+after defeating the Chanca, renamed himself "He Who Remakes the World" and instituted or
+formalized the royal ancestor cult together with **split inheritance**: a dead ruler's mummy
+retained his property and status and was attended by his descendants (except the heir), and
+was itself "attended" at state ceremonies. Fagan & Durrani present this institution as the
+**direct structural driver of continuous Inca imperial expansion** — each new ruler needed
+fresh conquered land and wealth of his own, since his predecessors' estates remained untouchable.
+This mechanism mirrors the same institution already documented for the [[chimor|Chimú]],
+suggesting a shared or borrowed Andean tradition (`analogous_to`).
+
+The **mit'a** labor-tax system required every adult, once their own subsistence needs were
+met, to owe labor to the state; the arrangement was reciprocal (the state fed and entertained
+laborers) and funded roads, bridges, state agriculture, the army, and public works. **Topa
+Inca** (r. 1471–1493) extended the empire into Ecuador, northern Argentina, Bolivia, and Chile;
+his successor **Wayna Capac** (32-year reign) pushed further into Ecuador. **Cuzco** held a
+population of roughly 40,000 in the capital itself, with 20,000 more within 50 km; the
+**Sacsahuaman** fortress was built under the architect Huallpa Rimachi Inca for Pachakuti; the
+central plaza **Huacaypata** (today the Plaza de Armas) was the point where four imperial
+roads, representing the four suyu quarters, converged; the **Coricancha** (the largest palace
+and sun temple) was staffed by 4,000+ people, including 200–300 "manaconas," virgin attendants
+to the sun god Inti who also served as symbolic consorts. The **quipu**, a knotted-string
+record-keeping system, formed the administrative backbone of the empire — used for census,
+tax, and legal codification in the absence of writing. At Spanish contact, the empire
+controlled roughly **6 million people**.
+
+On the conquest, Fagan & Durrani corroborate the account above with one added emphasis: Wayna
+Capac died of epidemic disease in **1525** — smallpox spreading ahead of direct Spanish
+contact, important evidence that disease preceded physical contact with the Spanish. The
+resulting **Huascar–Atahuallpa succession civil war** weakened the empire; Atahuallpa
+prevailed but was then captured by Pizarro (who had landed in 1532) through treachery,
+ransomed for gold, and executed. The Inca capital fell in **1533** — in Fagan & Durrani's
+phrase, "the world's last preindustrial state collapsed," a framing useful for periodizing the
+end of the pre-Columbian Americas at the threshold of the Age of Expansion.
+
 ## Related
 
+- [[chimor]] — the earlier north-coast empire whose split-inheritance institution the Inca appear to have adopted or paralleled.
 - [[spanish-conquest-of-peru-1532]] — the conquest as a dedicated event page.
 - [[colonial-latin-america]] — the colonial world built on Tawantinsuyu's ruins.
 - [[andean-state-formation]] — the long Andean process the Inca culminate.

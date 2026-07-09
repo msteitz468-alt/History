@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: regional
 causes: [resentment of Sparta's high-handed expansionism after the Peloponnesian War, Persian gold distributed to Thebes/Corinth/Argos/Athens by Timocrates, a Theban-contrived border quarrel between Phocis and Locris]
 consequences: [the destruction of the Spartan fleet at Cnidus, the rebuilding of the Athenian Long Walls, military stalemate on land, the King's Peace of 386 that restored Spartan supremacy]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, peloponnese, aegean, greece]
 ---
 
@@ -69,19 +69,47 @@ King's Peace]]** (386). Though Sparta "had done no more than hold her own" in th
 she emerged its great beneficiary: as enforcer of the peace's **autonomy clause** she
 broke up Theban control of Boeotia and Argive control of Corinth.
 
+## Enforcing the King's Peace (Osborne)
+
+[[osborne-classical-greece-2000|Osborne (ed.), *Classical Greece 500–323 BC* (2000)]]
+(the fourth-century period narrative) confirms the CAH picture of the **King's Peace of
+387/6** and sharpens its political logic: the Peace formally recognized **Persian
+overlordship of all Asia Minor and Cyprus**, but in the short term what mattered most in
+mainland Greece was its **autonomy clause** — and it was **[[agesilaus-ii|Agesilaus]]**,
+not the Persian King, who decided how that clause would be applied, using it to break up
+both the union of **Corinth and Argos** and the **Boeotian confederacy**. Osborne treats
+this as proof that Spartan, not Persian, interests actually shaped the Peace's
+consequences.
+
+Sparta then used the Peace era to coerce former allies further, in ways contemporaries
+recognized as flagrant abuses of the "autonomy" the Peace itself proclaimed:
+- **385 — Mantinea.** Sparta accused her ally **Mantinea** of aiding Argos, besieged the
+  city, demolished its walls, and broke it up into four or five separate villages.
+- **c. 380 — Phlius.** Sparta besieged **Phlius** over a property dispute involving
+  restored exiles.
+- **382 — the Theban Cadmea.** The Spartan commander **Phoebidas** seized the Theban
+  acropolis in a "grotesque breach of the King's Peace" that split Spartan domestic
+  opinion — Phoebidas was tried but only fined, while the pro-Athenian Theban leader
+  **Ismenias** was tried and executed. This seizure is the proximate grievance behind
+  Thebes's later refusal (371) to accept a renewed Common Peace on Spartan terms — the
+  chain of escalation that runs directly to [[battle-of-leuctra-371bce|Leuctra]].
+
 ## Consequence Analysis
 
 caused_by: resentment of [[spartan-hegemony|Spartan]] expansionism; **Persian subsidy**;
 the Theban contrivance of the Phocis–Locris quarrel. produced: the loss of the Spartan
 fleet at **Cnidus** and the rebuilt Athenian **Long Walls**; a land stalemate;
 ultimately the **[[kings-peace-386bce|King's Peace]]**, which "within a decade" Sparta
-would see "turned against her." The war is the textbook case of **Persia as arbiter** of
-Greek affairs — "the only power to have derived unmitigated gain."
+would see "turned against her" — but which Sparta first used, via Agesilaus's control of
+the autonomy clause, to break up rival leagues and coerce Mantinea, Phlius, and Thebes.
+The war is the textbook case of **Persia as arbiter** of Greek affairs — "the only power
+to have derived unmitigated gain."
 
 ## Related
 
 - Belligerents: [[sparta]] · [[places/athens|Athens]] · Thebes · Corinth · Argos · [[achaemenid-empire]]
 - Figures: [[agesilaus-ii]] · [[lysander]] (d. Haliartus) · [[conon]] · Pharnabazus · Iphicrates · Antalcidas
-- Outcome: [[kings-peace-386bce]] · context: [[spartan-hegemony]]
+- Outcome: [[kings-peace-386bce]] · context: [[spartan-hegemony]] · sequel: [[battle-of-leuctra-371bce]]
 - Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 4, Seager); the Athenian domestic dimension in
-  **[[strauss-athens-after-peloponnesian-war|Strauss, *Athens after the Peloponnesian War*]]**.
+  **[[strauss-athens-after-peloponnesian-war|Strauss, *Athens after the Peloponnesian War*]]**;
+  King's Peace enforcement in [[osborne-classical-greece-2000|Osborne (ed.) 2000]].

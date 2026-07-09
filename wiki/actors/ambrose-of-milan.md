@@ -9,8 +9,8 @@ affiliated_with: [the Nicene (Catholic) Church, the see of Milan, the imperial c
 opposed_by: [Arianism and the Arian court of Justina, the pagan senatorial party of Symmachus]
 key_events: [the basilica crisis at Milan (386), the discovery of Gervasius and Protasius (386), the baptism of Augustine (387), the penance of Theodosius I]
 key_processes: [Christianization of the Roman Empire, the assertion of episcopal authority over emperors]
-sources_ingested: 1
-last_updated: 2026-07-03
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, western-europe]
 ---
 
@@ -49,3 +49,9 @@ Christian Platonism.
 - Convert and admirer: [[augustine-of-hippo]] · [[monica]]
 - Context: [[theodosius-i]] · [[late-antiquity]] · [[christianization-of-the-roman-empire]]
 - Source: [[sources/brown-augustine-of-hippo-2000]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Attributed claims from [[sources/mitchell-later-roman-empire-2015|Stephen Mitchell, *A History of the Later Roman Empire* (2015)]].
+
+- **Episcopal leverage at Milan, not a universal bishop-template.** Ambrose dominated youthful Gratian (*De Fide*, 379) and later [[theodosius-i|Theodosius]] at Milan (389/90): insisted the emperor stand with the congregation rather than the clergy; pressured him over Callinicum synagogue repair and monk attacks on a heretical conventicle; and, “in one of the most dramatic confrontations of church and state power in late antiquity, he forced the emperor to do thirty days penance” after the Thessalonica massacre (390) — Botheric’s arrest of a charioteer, the riot that killed the Arian Germanic *magister militum*, and punitive reprisals killing ~7,000 Catholic citizens. Via McLynn/Kolb, Mitchell reads the penance as Ambrose’s diplomatic solution to a political crisis that also secured Theodosius’s pious reputation. Ambrose’s exceptional leverage came from Milan as imperial residence under young Gratian/Valentinian II and should not be generalized as a template for all bishops. Related: [[late-roman-church-institution|late Roman church]].

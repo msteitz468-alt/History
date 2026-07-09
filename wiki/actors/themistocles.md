@@ -9,8 +9,8 @@ affiliated_with: [the Athenian democracy, the anti-Persian war party, the new na
 opposed_by: [Aristides and Xanthippus (rivals), the Spartan establishment later, the Alcmaeonid-connected appeasers]
 key_events: [archonship and the fortification of the Piraeus (493/2), the naval bill of 483/2, the Decree of Themistocles and the evacuation of Athens, Artemisium, [[battle-of-salamis-480bce|Salamis]] (480), later ostracism and flight to Persia]
 key_processes: [the conversion of Athens into a naval power, the building of the trireme fleet, the rise of Athenian sea-empire]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, central-greece]
 ---
 
@@ -83,8 +83,24 @@ which Hammond defends as derived from a genuine wartime document, dating the eva
 decision to 481. The bribery-and-trickery anecdotes Hammond largely rejects as Herodotean
 colour.
 
+## Hall (2014) — light touch
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]: Laurium silver funded 200 triremes (originally vs Aegina); Themistocles evacuated Athens and forced allies to fight in Salamis straits by threatening colonization of Siris; at Marathon his tribal contingent held the thinned center with Aristides’. Naval *dêmos* confidence after Salamis helped “tame” elite Medizing guest-friendship culture.
+
+## OHCW (Boardman/Griffin/Murray 1986) — Forrest, Parker, Hornblower, Murray
+
+[[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]]:
+
+**Laurium fleet vs Aegina (Forrest Ch.1).** In 482 a rich Laurium silver vein: Aristides favored citizen distribution; Themistocles won use for ~200 triremes—backbone of 480 naval resistance—but argued publicly for a fleet against Aegina, revealing audience priorities and possible limits of his foresight. In 480–479 he forced the Salamis narrows battle that broke Xerxes’ fleet.
+
+**Wooden walls (Parker Ch.11).** When Delphi advised trust in “wooden walls,” professional interpreters urged staying behind city walls; Themistocles argued the god meant the fleet; the citizen assembly adopted his interpretation—lay political supremacy over religious experts.
+
+**Pentekontaetia aftermath (Hornblower Ch.6).** Spartan reluctance to check Athens after 478 is partly explained by domestic difficulties including Themistocles fomenting democracy in the Peloponnese.
+
+**Piraeus trade base (Murray Ch.9).** The basis for Athens’s trading supremacy was laid by Themistocles’ early-fifth-century fortification of the Piraeus; Long Walls (457) later united city and port.
+
 ## Related
 
 - State: [[athens]] · [[athenian-democracy]] · rivals: Aristides, Xanthippus · the navy: [[trireme]] · rival isle: [[aegina]]
 - Triumph: [[battle-of-salamis-480bce]] · Artemisium ([[battle-of-thermopylae-480bce]]) · foe: [[xerxes-i]]
-- Period: [[classical-antiquity]] · source-critique: [[herodotus-reliability]] · Source: [[boardman-cah-v4-1988]] (Chs. 10–11, Hammond & Barron)
+- Period: [[classical-antiquity]] · source-critique: [[herodotus-reliability]] · Sources: [[boardman-cah-v4-1988]] (Chs. 10–11, Hammond & Barron); [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]; [[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]] (Forrest; Parker; Hornblower; Murray)

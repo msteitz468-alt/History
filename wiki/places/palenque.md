@@ -7,7 +7,7 @@ period_active: [Late Antiquity, Early Middle Ages]
 controlled_by: ["[[maya-civilization]] (Lakamha' dynasty)"]
 events_here: ["Reign of K'inich Janaab Pakal I (615–683 CE)", "Classic Maya collapse / abandonment after c. 800 CE"]
 processes_here: ["[[mesoamerican-state-formation]]"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [place, mesoamerica, maya, late-antiquity]
 ---
@@ -36,6 +36,10 @@ Hammond’s social model notes **patrilineal elite inheritance with exceptions**
 
 Like other western lowland capitals, Palenque **stopped erecting dated monuments** in the early ninth century and was **rapidly abandoned after ~800 CE** (Snow et al.; see [[maya-classic-collapse-800ce]]).
 
+## From Evans & Webster 2001
+
+Direct Palenque encyclopedia coverage in the extracted claims is thin; one load-bearing cross-link: sixteenth [[copan|Copán]] ruler **Yax Pac** may have been something of an outsider because his mother was a **royal woman from Palenque** and his father was not the preceding king (Webster, Copán entry). This documents elite marriage diplomacy between western Usumacinta and Motagua courts in the late eighth–early ninth centuries and supports Hammond’s note on matrilineal transmission exceptions at Palenque. Palenque remains listed among few Classic centers that may have dominated larger territories or influenced neighbors (with Tikal, Calakmul, Sayil, Copán) — though political domination was generally short-lived.
+
 ## Related
 
-[[maya-civilization]] · [[tikal]] · [[calakmul]] · [[copan]] · [[maya-classic-collapse-800ce]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Hammond Ch. 5)
+[[maya-civilization]] · [[tikal]] · [[calakmul]] · [[copan]] · [[bonampak]] · [[maya-classic-collapse-800ce]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Hammond Ch. 5) · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster encyclopedia]]

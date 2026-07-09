@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [the optimate drive to strip Caesar of his command, Caesar's need to avoid prosecution, the dissolution of the triumvirate, the rivalry of Caesar and Pompey]
 consequences: [Caesar's victory and dictatorship, the deaths of Pompey and Cato, the end of the Republic's free politics, the road to the Ides]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, italy, war, rome]
 ---
 
@@ -84,6 +84,38 @@ exposing Caesar's bias — and the later Plutarch, Suetonius, Appian, and Dio. R
 stresses both Caesar's self-justification and the genuine uncertainty of the war's
 outcome.
 
+### OHCW (Boardman/Griffin/Murray 1986) — Griffin; Stockton (R7)
+
+Griffin (Ch. 19): structural question is why oligarchs destroyed the system that
+benefited them — moral degeneration from imperial wealth; rising success standards;
+laws “bent and ignored” too often by 49 to command obedience. Rubicon dispute: popular
+grants and tribunician vetoes vs Optimate control of foreign affairs; Caesar crossed in
+defence of tribunes’ rights and his honour; Pompey went east (“Sulla did it: why not
+I?”); Cicero lamented both aimed only at *dominatio*. Victory destroyed the system in
+which Caesar wanted primacy; reforms preceded Ides of March 44. Stockton (Ch. 21, R7)
+treats post-Caesar wars 44–30 as continuum (triumviral proscriptions, Philippi,
+Perusia, Sicilian war, Actium) — “rule of law was set aside” for thirteen years after
+Matius’ bleak question.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Ch. 19 Griffin; Ch. 21 Stockton).
+
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) reframes January
+49 as **aftermath of functional republican end ~60**, not the first failure of a still-
+working traditional republic ([[roman-republics-periodization]];
+[[fall-of-roman-republic]]). Civil war resulted from breakup of the “Big Three”
+(Pompey, Crassus, Caesar) after Crassus’s death, persistent chaos in Rome, and Pompey’s
+sole consulship — “the final disintegration of republican government took place in
+60/59 even though it was not signaled by immediate civil war.” There was no functional
+republic in 51–50 to negotiate Caesar’s return; Caesar’s invasion targeted a community
+that had already lost integrity and shape. Clash developed because no mediating group of
+leaders (in the senate or outside) had authority to stop client armies. Destabilization
+in the 50s: election cycle disrupted especially after Luca 56; years beginning without
+consuls; system broken by 54–52; after Clodius’ murder the mob burned Sulla’s senate
+house as funeral pyre before Pompey’s sole consulship. On Flower’s map the 50s “no longer
+belong to a period of republican history.”
+
 ## Related
 
 - Victor: [[julius-caesar]] · defeated: [[pompey]] · [[cato-the-younger]]
@@ -91,4 +123,11 @@ outcome.
   [[julius-caesar-assassination-44bce]]
 - Preceded by: [[caesar-gallic-war-58-50bce]] · [[battle-of-carrhae-53bce]] · the
   breakdown of the [[first-triumvirate]]
-- Source: [[crook-cah-v9-1992]] (Ch. 11, Rawson)
+- Source: [[crook-cah-v9-1992]] (Ch. 11, Rawson) ·
+  [[boardman-oxford-history-classical-world-1986]] · [[flower-roman-republics-2010]]
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+After Crassus’ death, Pompey–Caesar war from ~50 fought mostly in Balkans; Pompey defeated at Pharsalus (48), murdered in Egypt; Caesar tracked Pompeians until assassination without institutionalizing his position. Woolf’s arc: whenever only one super-general remained, Roman action briefly cohered; “From the chaos of the Republican empire, Rome had sleepwalked into military autocracy, and it worked.”

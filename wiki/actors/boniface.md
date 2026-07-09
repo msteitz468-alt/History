@@ -9,8 +9,8 @@ affiliated_with: [the papacy, the Pippinid/Carolingian mayors, the Anglo-Saxon m
 opposed_by: [continental paganism, irregular and unreformed Frankish clergy]
 key_events: [missions to Frisia, Hesse and Thuringia, the reforming Frankish councils of the 740s, the foundation of Fulda, martyrdom in Frisia (754)]
 key_processes: [the Christianisation of Germany, the reform of the Frankish church, the Anglo-Saxon–papal–Frankish alliance]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, western-europe]
 ---
 
@@ -54,3 +54,7 @@ NCMH II draws on Boniface's remarkable surviving **correspondence** and his earl
 hagiographical and shaped by his cult at Fulda. Modern scholarship has tempered the heroic "single founder"
 image, emphasising the broader Anglo-Saxon missionary movement (Willibrord before him), the limits of his
 influence at the Frankish court late in life, and the gap between reforming rhetoric and institutional reality.
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Born **Winfrid** in Wessex c.675; renamed Boniface by the pope. From 719 he sought Gregory II’s permission to preach to Germans; consecrated bishop 722 under an Italian-style oath of fidelity to St Peter; Gregory III made him archbishop with pallium (732); styled *missus sancti Petri*. Logan’s thesis: under direct papal supervision Boniface **transformed Western papal primacy from mostly passive acceptance to much more active leadership**—major even if he had done nothing else. Mission focus: Hesse (superficial Christian leaders; heathen people) and Thuringia (earlier conversion, reasserted paganism); rapid mass conversions; English reinforcements; monasteries including Tauberbischofsheim (cousin Leoba), Kitzingen, Fritzlar, Amöneburg, Ohrdruf, and crowning **Fulda (744)**, exempt and directly subject to the pope—Boniface buried there; over 130 monks within 80 years. Pastoral correspondence: advice from Daniel of Winchester (moderate argument about gods’ origins); marriage degrees (Gregory II: after fourth degree); no rebaptism if Trinity invoked even in bad Latin; Willibald’s Geismar Oak of Jupiter episode (axe, wind, tree in four parts). Institutional structure: archbishop 732 without diocese; by 741 eight suffragans (Passau, Regensburg, Salzburg, Freising; Buraburg, Erfurt, Würzburg, Eichstätt); 745 archbishop of Mainz, metropolitan of the “German church”; synods with secular cooperation; 753 returned to Frisia beyond Zuider Zee; **June 754** killed with 53 companions by heathens seeking booty. Unlike Wilfrid, lasting success rested on structure. English continental missions overall: strong Germanic church + firm papal link as hallmarks of the medieval church.

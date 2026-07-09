@@ -8,8 +8,8 @@ origin: >
 applies_to_periods: [Archaic Period]
 applies_to_regions: [mediterranean, aegean, mediterranean-world]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, greece]
 ---
 
@@ -101,9 +101,22 @@ provided arenas for "personal ostentation in a public setting."
 - The Athens of [[pisistratus|Pisistratus]] "beginning to take a form which was to be the
   pattern of all Classical cities."
 
+## From Hall, *Archaic Greek World* (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] uses material culture as a brake on eighth-century revolutionary narratives and as a map of **regional unevenness**.
+
+**Geometric to orientalizing; elite, not ethnic, signals.** Survey and excavation show Dark Age isolation and instability on the mainland and Aegean (Crete/Cyprus more resilient), with site counts recovering through Protogeometric/Geometric still below LHIIIB levels. Cult places explode in the eighth century after sparse continuous Dark Age locations. Orientalizing techniques and imports (griffins, Protocorinthian, daedalic, kouroi, banquet couch) function as **prestige markers for elite distinction** and gift exchange, not as ethnic badges; luxury display can cross Greek–Lydian borders without drawing a hard ethnic line. Settlement archaeology: partial walls (Zagora neck-wall; acropolis-only circuits); abandoned nucleations (Zagora, Hypsele, Koukounaries) relocating toward larger centres while cult sometimes continues; urbanization pathways differ (Athens/Argos cemetery shifts vs Corinth’s lasting dispersal).
+
+**Burial and the “gaps” of Attica and Crete.** Seventh-century **Attica** shows drastic fall-off: burial numbers return toward ninth-century levels; smaller cemeteries; abandonment of sites (e.g. Thoricus); ceramic production weak; activity visible mainly at remote hilltop sanctuaries while acropolis cult is less clear than in the eighth century. Explanations (drought, elite restriction of formal burial, war, rural intensification, Corinthian trade dominance) remain inconclusive; Hall also stresses **recognition limits** — poorly understood seventh-century diagnostics may create an artificial gap. **Crete** shows strong Bronze–Iron continuity and early orientalizing prosperity (Protogeometric B; Levantine craftsmen; Daedalic sculpture), then a **sixth-century** near-invisibility (Cnossus cemeteries abandon ca. 630; cult and ceramics scarce ca. 600–525) while **public legal inscriptions** thrive — a conservatizing communal ethos and possible trade diversion after Levantine disruption, not simple collapse.
+
+**Numismatics and literacy as late relative to trade.** Coinage appears fairly late (mid-sixth century in a few mainland states) and early issues are long-lived standards more than event propaganda (see [[coinage]]). Greek alphabet graffiti generally mid-eighth century from Phoenician/Northwest Semitic models (see [[alphabet]]); most early texts are owners’/dedicatees’ names, not Linear B-style accounting — Greece remains essentially oral into the Classical period. Absolute chronological fixed points (Hama ca. 720, Thucydidean Sicilian foundations, Bokkhoris scarab, Themistoclean wall *terminus ante quem*) underwrite traditional Geometric/Archaic phasing against wholesale downdating.
+
+**Source:** [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]], Chs. 1–5, Excursus II (Attica and Crete), Ch. 10–11.
+
 ## Related
 
 - Frame: [[orientalizing-revolution]] · economy: [[archaic-greek-economy]] · arms: [[hoplite-warfare]]
 - Sculpture/temples: kouros & kore · Doric & Ionic orders · sanctuaries: [[delphi]] · Olympia
 - Drama's roots: [[pisistratus|the City Dionysia]] · cities: [[athens]] · [[ionia]] (giant temples)
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p3-1982]] (Ch. 45b, Boardman)
+- Scripts/money: [[alphabet]] · [[coinage]] · Period: [[archaic-period]]
+- Sources: [[boardman-cah-v3p3-1982]] (Ch. 45b, Boardman) · [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

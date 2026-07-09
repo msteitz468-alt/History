@@ -5,8 +5,8 @@ origin: Etic/emic; the centralised governmental papacy that emerged from the Gre
 applies_to_periods: [High Middle Ages]
 applies_to_regions: [mediterranean, western-europe]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -66,8 +66,15 @@ monarchies would emulate, and the engine of Latin Christendom's unification — 
 the standing rival of emperors and kings, and the target of the later conciliar and
 anti-curial critiques.
 
+## From Logan, *A History of the Church in the Middle Ages* (2013)
+
+[[logan-history-of-the-church-in-the-middle-ages-2013|Logan]] frames the ~75 years from the mid-eleventh century as casting lasting forms: a strong, often conflictual papacy; separation from Greek-speaking Eastern Christians; and the crusade ideal of war against “infidels.” On the **twelfth-century** pope–emperor disputes (Innocent/Anacletus schism; Hadrian IV and *beneficium* at Besançon; [[alexander-iii-pope|Alexander III]] vs Barbarossa through Legnano and Venice 1177; Third Lateran’s two-thirds electoral rule), Logan judges them **political** (control of Italy): “religion had little to do with it.” Papal defence would claim territorial independence needed for the sacred mission; true religious change lay beyond Rome in **orders and devotion** (see [[medieval-marian-devotion]], new monasticism). Ch. 8 closes by pairing institutional papal-imperial church with humble eucharistic and Marian piety as dual essentials.
+
 ## Related
 
 - [[gregorian-reform]], [[gregory-vii]] — the movement and pope that founded it.
+- [[alexander-iii-pope]] — long schism with Barbarossa; Third Lateran elections.
 - [[ius-commune]] — the canon law through which it governed.
 - [[investiture-contest]] — the conflict that defined its independence.
+- [[logan-history-of-the-church-in-the-middle-ages-2013]]
+

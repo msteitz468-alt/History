@@ -5,8 +5,8 @@ origin: the fusion of Indo-European Greek and pre-Greek Aegean (Minoan-Mycenaean
 applies_to_periods: [Middle Bronze Age, Late Bronze Age, Greek Dark Age, Archaic Period]
 applies_to_regions: [aegean, mediterranean, near-east]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, greece]
 ---
 
@@ -130,9 +130,24 @@ few brief tablets "like an interpreter of Christianity with nothing but artistic
 representations." Per CLAUDE.md this page records the framework and the open questions
 rather than adjudicating them.
 
+## OHCW (Parker, Griffin) — classical polytheism in practice
+
+[[boardman-oxford-history-classical-world-1986|OHCW (1986)]], Ch. 11 (Robert Parker), treats mature Greek religion as an **ancient polytheism** comparable to Rome, Egypt, Indo-Iranian, and Near Eastern systems: each god has a sphere; balanced worship honors all; cities give special honor to patrons without exclusivity. Homer’s ten main acting gods plus Demeter and Dionysus make the conventional **twelve gods** from the fifth century; innumerable lesser figures (Pan, Nymphs) also matter; epithets multiply roles. Olympians contrast with less clearly defined **chthonians** around Hades and Persephone.
+
+**Hero-cult.** Technical heroes: less powerful than gods, normally dead mortals worshipped at tombs; hundreds known from Attica alone; local/partisan scope ideal for village/tribe loyalty and battle aid (Heracles the rare Panhellenic exception).
+
+**Origins and Dark Age form.** No single origin: IE settlers in non-IE Aegean met Near East; only Zeus *pater* certainly IE-named; Linear B pantheon already largely classical. From the eighth century free-standing **temple + cult image + fire-altar** has Near Eastern, not Mycenaean, antecedents; hero-cult spreads in eighth century (perhaps under epic influence).
+
+**No Church.** Religious power with secular holders (father, king, magistrates, assembly); priests part-time, untrained; only seers are true professionals but lack coercive power — “the seer knows, the ruler decides” ([[themistocles|Themistocles]] overrides “wooden walls” interpreters, 480). [[homer|Homer]] and [[hesiod|Hesiod]] as informal theologians (Hdt. 2.53); **no creed, no heretics** — only public sacrilege or “not recognizing the gods the city recognizes” ([[socrates|Socrates]]).
+
+**Orthopraxy and sacrifice.** “Recognizing the gods” = observing cult; piety (*eusebeia*) is behavior (orthopraxy not orthodoxy). Standard animal sacrifice: thigh-bones in fat on raised altar, meat shared; alternate chthonic form: blood into earth, whole burnt. Dominant ritual tone **festive** (processions, song, athletics); Panhellenic games and dramatic festivals remain religious. *Do ut des* creates ordered two-sided relation, not mere bribery. **Embedded religion:** every formal social grouping was also a religious grouping. Practical goods: prophecy (Delphi, Dodona) and healing (Asclepius/Epidaurus). Afterlife: Homeric shadows; Eleusis promises better lot with “good hopes” only — normal uncertainty (Plato *Apology* 41). Pythagorean/Orphic asceticism **marginal**. Dionysiac maenadism: temporary women’s release (Linear B already has Dionysus). Late-fifth **religious crisis** surmounted; ruler-cult signals loss of political freedom more than loss of faith; traditional religion lasted >1,000 years until Christianity.
+
+Griffin (Ch. 3): myth as “special sort of traditional tale”; no orthodox version; Kore/Eleusis enacts seasonal barrenness and initiation; charter myths (Cyrene, Dorian Heraclids, Salamis line in *Iliad*); after late fifth century *mythos* vs *logos*, myth becomes ornament. See also [[polis-religion]] for civic control of cult.
+
 ## Related
 
 - Roots: [[mycenaean-civilization]] · [[coming-of-the-greeks-1900bce]] · [[indo-european-migrations]]
-- Evidence: [[aegean-scripts]] (Linear B divine names) · Memory: [[homer]] · [[homeric-poems-as-history]]
+- Evidence: [[aegean-scripts]] (Linear B divine names) · Memory: [[homer]] · [[hesiod]] · [[homeric-poems-as-history]]
+- Civic form: [[polis-religion]] · [[hellenic-identity]] · [[greek-tragedy]] (poets as theologians)
 - Near Eastern parallels: [[ugaritic-religion]] · [[ugarit]] · Place/period: [[greek-dark-age]]
-- Source: [[edwards-cah-v2p2-1975]] (Ch. XL, Guthrie)
+- Sources: [[edwards-cah-v2p2-1975]] (Ch. XL, Guthrie); [[boardman-oxford-history-classical-world-1986]] (Parker Ch. 11; Griffin Ch. 3)

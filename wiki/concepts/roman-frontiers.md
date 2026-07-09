@@ -5,8 +5,8 @@ origin: the Roman organization of imperial space and the nature of the empire's 
 applies_to_periods: [Late Antiquity, Classical Antiquity]
 applies_to_regions: [western-europe, north-africa, near-east, britain, balkans, mediterranean-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [concept, rome]
 ---
 
@@ -115,6 +115,75 @@ in the **Notitia Dignitatum**. The chapter also tracks the rise of the **imperia
 [[founding-of-constantinople-330|Constantinople]]) as the centre of gravity shifted from Rome to the
 frontiers.
 
+## The army's-eye view (Goldsworthy)
+
+[[sources/goldsworthy-roman-warfare-2000|Adrian Goldsworthy, *Roman Warfare* (2000)]] reaches
+Whittaker's conclusion from the conduct of the army. The linear works "were not fighting platforms from
+which the Romans fought off the barbarian hordes"; frontier forts were **not defensively strong** in the
+sense of resisting siege — outnumbered garrisons habitually **sortied to fight in the open** rather than
+sheltering, because the army expected to win field battles. Hadrian's Wall, barely mentioned in the
+literary sources and pierced by crossing points at every milecastle, "provided a secure base for its
+[the army's] advance," controlling and monitoring movement and trade and projecting an "impression of
+continuous surveillance" and of overwhelming power — a literal visual statement running "from one horizon
+to the other." Beyond the line the Romans had effectively **joined the pre-existing pattern of
+intertribal raiding** (subsidies to friendly nobles, hostage-taking, punitive expeditions that deterred
+only temporarily), a costly performance of strength that any sign of weakness invited neighbours to test.
+This reinforces the [[roman-grand-strategy|revisionist reading]] against Luttwak.
+
+## OHCW (Purcell; Matthews; Wilson)
+
+**Purcell** (Ch. 23): high-Principate stability included provincialization of last client kingdoms into a bounded tessellation; only major second-century extension Trajan’s Dacia; Parthian conquest unassimilable; third-century disaster as coincidence of regional drift, local armies, political instability, and external manpower pressure on hard frontiers. **Matthews** (Ch. 31): Tacitus’ image of empire encircled by rivers and seas as one joined system; Trajan’s Danube bridge at Drobeta by Apollodorus of Damascus dismantled by Hadrian (piles left) to limit hostile access. **Wilson** (Ch. 32): Apollodorus as Trajan’s engineer-architect of the Danube bridge, Forum of Trajan, Markets with early large-scale groined cross-vaulting. Source: [[boardman-oxford-history-classical-world-1986]].
+
+## CHGRW (Sidebottom, Rankov, Goldsworthy, Whitby, Humphries)
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] Vol. II extends the
+zone-not-line reading with operational, mental, and late-antique layers.
+
+**Odological geography and moral barrier (Sidebottom, II.1).** Romans tended to think in linear
+(“odological”) terms — coasts, rivers, roads, mountain ranges — rather than cartographic blocks of
+territory; itineraries and *periploi*, not topographic maps, underpinned strategic thought (the
+urbanized East was easier to comprehend than the unurbanized North). The frontier could also be
+imagined as a moral barrier (*humanitas* inside vs *barbaritas* outside), though stereotyping was
+unstable (northerners vs easterners; “wise barbarians”; provincials labeled barbarous).
+
+**Fort design and mentality shift (Rankov, II.2).** Permanent forts of the Augustan standing army
+were not medieval castles: modest defences, four gates to sortie, playing-card plan, dual ditches
+at ~30 m javelin kill range — “the normal reaction to an attack would have been to get the mass
+of troops out of the fort in order to counterattack in the open.” Internally the fort was “laid
+out like a planned city” (*principia*, *praetorium*, granaries, *fabrica*, *valetudinarium*,
+barracks by *contubernia* of eight). Late third-century external towers on forts/walls (and
+Aurelian’s Rome walls) signal a mentality shift from army moving out to fight toward defending
+within walls — matching declining unit size.
+
+**Operational frontier defence (Goldsworthy, II.3).** Most units sat near external edges of frontier
+provinces; linear barriers and penny-packet watchtowers make little sense as defence against major
+invasion — small-raiding and population control are better explanations. Outside Parthia/Persia,
+neighbours were loosely tribal; small successful raids dented prestige and invited larger ones —
+“the local impression of Roman strength was what mattered.” The empire controlled a small
+professional army (~300–400k) via mobile offence and massive punitive expeditions, not static
+perimeter garrisons of every point; Hadrian’s Wall’s almost excessive gateways show it was never a
+barrier to Roman forward movement. Britain’s disproportionately large garrison and dense Wall
+occupation track endemic small war; problems recurred when the garrison was significantly reduced.
+Intercepting raiders was easier on withdrawal (booty-laden) than entry; Tacfarinas shows
+multi-column pursuit and the difficulty of defending many settlements — near-doubling of forces
+required. Whitby (I.3) notes fortification archaeology enables large hypotheses (Luttwak; Ober on
+Attica) but evidence is non-neutral and contested (Isaac 1990; Whittaker 1994).
+
+**Late antiquity (Humphries, Whitby, Rance).** Chief geopolitical feature was retreat of imperial
+frontiers and establishment of non-Roman polities inside them; comparing Diocletian’s 284 empire
+with Heraclius’s 641 rump risks teleology (Isaac 1992). Northern frontier geopolitics shifted
+constantly (Goths, Huns, Ostrogoths to Italy, then Gepids/Lombards/Avars/Slavs/Bulgars); by late
+seventh century imperial power in the Balkans was limited to Thracian hinterland and coastal
+footholds. Late Roman frontiers were comparatively fluid for people and information (trade,
+recruits, pilgrimage); authorities sought control via treaties rather than total impermeability;
+a law of 408/9 limited eastern frontier markets lest the Persian king learn secrets. Field and
+border systems were integrated: *duces* responsible to regional *magistri*; border units
+transferred to field armies became *pseudocomitatenses* — “field and border troops were part of a
+single military system.” Boundaries still existed for religion, fiscality, law, and military
+control even as trade crossed them; interior fortification and city walls mark changed security
+assumptions. Rhine/Danube *lusoriae* maintained naval superiority over barbarian watercraft until
+mid-seventh-century Arab fleets.
+
 ## Related
 
 - The frontier wars and settlements of the period: the [[marcomannic-wars-166-180|Marcomannic
@@ -123,4 +192,4 @@ frontiers.
   and the [[sasanian-empire|Sassanid]] threat
 - The central scholarly dispute: [[roman-grand-strategy]]
 - `contrasts_with:` the modern notion of a fixed national border; the [[battle-of-teutoburg-forest-9ce|Teutoburg]] limit
-- Sources: [[bowman-cah-v11-2000]] (Ch. 8, Whittaker); [[bowman-cah-v12-2005]] (Ch. 8, Wilkes)
+- Sources: [[bowman-cah-v11-2000]] (Ch. 8, Whittaker); [[bowman-cah-v12-2005]] (Ch. 8, Wilkes); [[sources/goldsworthy-roman-warfare-2000]] (Ch. 4); [[boardman-oxford-history-classical-world-1986]] (Purcell; Matthews; Wilson); [[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] (Sidebottom II.1; Rankov II.2; Goldsworthy II.3; Whitby I.3/II.9; Humphries II.7)

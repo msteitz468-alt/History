@@ -8,7 +8,7 @@ region: [mesoamerica]
 process_type: cultural
 driven_by: [Spanish invasion and colonial rule, demographic collapse and recovery, labor and land regimes, evangelization, liberal and revolutionary state-building, export agriculture and hacienda expansion]
 produces: [reorganized indigenous polities, mestizo societies, long-run ethnic persistence, regional resistance traditions, national land-reform and indigenista regimes]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [process, mesoamerica, early-modern, long-19th-century]
 ---
@@ -337,6 +337,34 @@ indigenous Mesoamerica. The collection remains stronger for colonial institution
 Mexican ethnohistory than for some peripheral frontiers and for post-1945 Central American
 civil-war detail beyond MacLeod’s overview paragraphs.
 
+## Evans & Webster 2001 (Gasco; Ortiz de Montellano; Monaghan; Hodge; Vigil)
+
+Janine Gasco’s **Colonial Period** entry and related notes in [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]] supply a compact encyclopedia frame that overlaps MacLeod/CHNPA II.2 without replacing it:
+
+### Chronology and geographic scope
+
+- Colonial period defined as **1521–1821** when Mesoamerica, as part of New Spain, was administered as a Spanish colony; began with fall of Tenochtitlán and surrender of Cuauhtemoc to Cortés and Tlaxcalan allies; **1524** Pedro de Alvarado began Central American conquest with defeat of the Quiché under Tecún; last independent Maya polity, the Itza of Petén, fell only in **1697**; independence declared **1821** (Gasco).
+
+### Demography
+
+- Central Mexico population fell **75–80%** by **1600** mainly from Old World infections (measles, smallpox, plague, mumps, whooping cough, typhus listed through the 1590s); forced labor and decreased nutrition were contributing factors, but infectious disease was primary; native medicine lacked remedies and “hot” disease cold-bath treatments often caused pneumonia (Ortiz de Montellano). Cozumel declined from disease and destruction of long-distance trade.
+- Mixteca: pre-Conquest population **>500,000** (earlier 700,000 estimates revised downward); 16th-c. plagues reduced population by almost **90%**, marginalizing the region; Spanish conquest of Mixteca **1522–1524** curbed kings, granted segmentary autonomy, destroyed shrines, and introduced disease (John Monaghan).
+
+### Institutions and material introductions
+
+- Spanish introductions: plants/animals (wheat not preferred; onion, garlic, citrus, banana, mango, chickens, goats, pigs, sheep adopted), metal tools replacing stone, architectural styles, mixed clothing (*huipil* and wrapped skirt retained for women); environmental damage from cattle overgrazing and plow-driven erosion.
+- Institutions: **encomienda** (tribute/labor for christianization), then **repartimiento** labor drafts; crown/encomendero tribute often not reduced with depopulation; **congregación/reducción** into grid-plan towns; *cabildo* municipal government; cabecera–sujeto hierarchies administered by *corregidores*/*alcaldes mayores* (Gasco).
+
+### Church and cultural hybridity
+
+- Roman Catholic Church had the greatest impact on native society; Franciscans, Dominicans, and others evangelized, learned native languages, and taught literacy and Spanish legal/technical practice; conversion was complex and syncretic — Mesoamerican Indians could be sincere devoted Christians and retain pre-Columbian beliefs; Indians could serve as *fiscales*, choir masters, sacristans but not as priests/nuns; *cofradías* and *compadrazgo* eagerly adopted as community autonomy and mutual support; indigenous peoples actively created hybrid colonial culture rather than only passively resisting or rigidly retaining tradition (Gasco).
+
+### Historiographical anchors (encyclopedia)
+
+- Charles Gibson’s *The Aztecs Under Spanish Rule* shaped ethnohistory of Valley of Mexico indigenous peoples **1519–1810** (society, town organization, encomiendas, labor, land, production, Mexico City); also *Tlaxcala in the Sixteenth Century* and studies of Aztec imperial structure informing pre-Columbian practices (Mary G. Hodge).
+- Alonso de Zorita (**1512–1585**): royal judge and pro-Indian reformer (like Las Casas); defended Indians against charge of savagery with relativist argument anticipating Montaigne (Ralph H. Vigil).
+- Ethnohistory of pre-Hispanic Mesoamerica depends heavily on early post-Conquest Spanish and Indian texts (Kellogg cross-ref).
+
 ## Related
 
 [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] ·
@@ -353,4 +381,5 @@ civil-war detail beyond MacLeod’s overview paragraphs.
 [[northwest-mexico-indigenous-colonial-modern]] ·
 [[northeastern-mexico-indigenous-colonial-modern]] ·
 [[western-mexico-indigenous-colonial-modern]] ·
-[[gulf-coast-indigenous-colonial-modern]]
+[[gulf-coast-indigenous-colonial-modern]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

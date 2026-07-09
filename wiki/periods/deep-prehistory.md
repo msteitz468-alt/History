@@ -7,8 +7,8 @@ date_range: "before 3.3 million BP"
 regions_covered: [africa, global]
 major_themes: ["hominin evolution", "bipedalism", "australopithecines", "pre-stone-tool hominins"]
 collection_coverage: weak
-sources_ingested: 4
-last_updated: 2026-06-27
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [period]
 ---
 
@@ -130,6 +130,28 @@ interpreting the entire Pleistocene record. (Champion et al. 1984, Ch. 3 / range
 lines ~190-210, ~710-760)
 
 **Champion et al. 1984 contribution (Ch. 1–2 opening):** Provides explicit post-radiocarbon methodological framing for the entire European prehistoric sequence and the opening treatment of earliest human presence in Europe. The authors stress the shift from geological/typological frameworks to absolute dating (deep-sea cores, magnetic reversals at 700,000 BP, radiocarbon) and from culture-historical to adaptive-behaviour/systems explanations. "The aims of palaeolithic... research are to document the earliest societies in Europe and answer that basic archaeological question, 'why do human cultures change?'." Frameworks now rest on "the continuous record of pleistocene events that is recorded in the deep sea ocean cores." (Champion et al. 1984, Ch.1–2 / range lines ~1050-1075, ~1025-1035) Collection coverage for earliest Europe now moderate from this source; Africa remains the primary locus for Deep Prehistory proper.
+
+## Fagan & Durrani (2020) — Periodization Note
+
+Fagan & Durrani (2020) argue explicitly for redefining the start of
+prehistory/archaeology at **3.3 Ma**, coinciding with the **Lomekwi 3** stone
+tool industry (Lake Turkana, Kenya; published 2015), rather than the older
+Oldowan-based 2.6 Ma marker used in earlier textbooks. Quote: "Archaeologists
+define prehistory as that portion of the human past that starts around 3.3
+Ma, with the appearance of the first human stone-tool technology (the
+Lomekwi 3 culture from Lake Turkana in Kenya)." This is presented as the
+single biggest 2020-survey revision to human-origins chronology: Lomekwi 3
+predates the genus *Homo* entirely, "smashing" the once-exclusive
+Homo–toolmaking link, since the tools must have been made by an
+australopithecine or by *Kenyanthropus*. Possible butchery marks are dated
+even earlier, ~3.4 Ma. This pushes toolmaking — and by this source's
+definition, the start of prehistory itself — back into the period this wiki
+page still calls "Deep Prehistory," complicating the wiki's period boundary
+at 3.3 Ma between Deep and Early Prehistory (see [[../periods/early-prehistory|Early Prehistory]]
+for the corresponding note). The wiki's existing boundary is retained pending
+a broader periodization review, but the Fagan & Durrani framing should be
+read as pushing for toolmaking to define the deep/early-prehistory line
+rather than the *Homo* genus's first appearance.
 
 ## From Tattersall, *The World from Beginnings to 4000 BCE* (2008)
 

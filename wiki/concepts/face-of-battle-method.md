@@ -4,9 +4,9 @@ concept_type: [historiographical, analytical]
 origin: John Keegan, *The Face of Battle* (1976)
 applies_to_periods: [all]
 applies_to_regions: [all]
-contested: no
-sources_ingested: 1
-last_updated: 2026-06-24
+contested: yes
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -90,6 +90,20 @@ multiplies vivid detail without explaining outcomes. The wiki's resolution is to
 battle as **one required layer** of a battle analysis — the human and mechanical conduct of the
 fight — sitting alongside the operational and strategic layers, not replacing them.
 
+## Reception in classical military history (CHGRW)
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] treats Keegan’s 1976 book as the catalyst for a school reinvestigating Greek and Roman warfare as “what it was like” for combatants — phalanxes and legions as formations of young men asked to kill and die under wretched conditions, not only as tactical units or social institutions. **Hanson** (Vol. I Ch. 1) stresses moral legitimization: tools and wound mechanics framed as recovery of ordinary soldiers’ lives, not nationalist science; “empathy with, not glorification of, soldiers was thematic.” The method also democratized the field — non-academics with medical, military, legal, or government training produced popular studies; illustrated handbooks (Connolly, Hackett, Osprey/Sekunda) visualize equipment and combat. Hanson warns that social/cultural historians who detach war from the battlefield can be as clinical as nineteenth-century tacticians, and poses an open challenge: can a full combat history of the Peloponnesian or Persian Wars sustain rank-and-file perspective while covering political/strategic issues, given mostly aristocratic ancient sources?
+
+**Sabin** (Vol. I Ch. 13A) notes that modern battle reconstruction mixes textual analysis, topography (often inconclusive for classical sites — Issus/Cannae locations still disputed), and comparative military experience. Hanson and Goldsworthy applied the method to pure hoplite and late Republican/imperial cases, but the **Hellenistic and mid-Republican “generic face of battle”** remains understudied because troop types and tactics vary more than in those cleaner cases.
+
+### Critics within CHGRW
+
+- **Wheeler** (via Whitby, Vol. I Ch. 3): credits face-of-battle studies with reviving morale and small-unit detail, but rejects applying post-WWII unit-cohesion theory wholesale to antiquity; proponents “often exceed the limits of the ancient evidence.” Buddy/primary-group cohesion finds only limited support in Greek sources; combat motives were complex (coercion, pay, patriotism, glory) — buddy theory is “too facile,” especially for short campaigns.
+- **Whitby** on Goldsworthy (1996): using WWII American findings that ≤25% of unit members actively fight to reconstruct Roman battle around few “champions” is flawed — modern analyses are inconclusive and the comparison does not transfer cleanly.
+- **Rance** (Vol. II Ch. 10): face-of-battle reconstruction of ordinary soldiers’ experiences has **“yet to consider the late Roman battle”**; flags Wheeler (1998, 2001) and Lendon (2004) as refreshing critics of the fashionable approach applied to ancient armies.
+- **Gilliver** (Vol. II Ch. 4) nonetheless deploys combat-mechanics reconstruction for legionary fighting (*pilum* on the charge, close-quarters sword, variable formation density, continued missile fire after contact — engaging Sabin 2000 and Zhmodikov 2000) and uses comparative imperial analogy (Roman understanding of guerrilla limits “remarkably similar” to Callwell 1906 British imperial theory).
+- Command-level complement: Whitby on generalship limits once engagement began — little to do except timing reserves (Strasbourg 357; Casilinum 554); personal combat bravery a bonus not essential and could be fatal (Julian; Mundus). Education and staff work valued (Maurice *Strat.* maxims; Eunapius blames Valens’s poor education at Adrianople).
+
 ## Relationship to the warfare hub
 
 The [[hubs/warfare/warfare-hub|warfare hub]]'s battle-analysis standard already demands a "conduct of
@@ -102,4 +116,4 @@ combat-mechanics dimension** of that standard. Pages that carry a strong Keegan 
 `analogous_to: [[military-history-middle-millennium]]` (both are historiographical frames for how to
 study war)
 
-*From [[keegan-face-of-battle-1976|John Keegan, The Face of Battle (1976)]], chiefly ch. 1.*
+*From [[keegan-face-of-battle-1976|John Keegan, The Face of Battle (1976)]], chiefly ch. 1; CHGRW reception: Hanson I.1; Whitby I.3; Sabin I.13A; Gilliver II.4; Rance II.10.*

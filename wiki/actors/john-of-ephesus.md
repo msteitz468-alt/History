@@ -9,8 +9,8 @@ affiliated_with: [the Miaphysite (anti-Chalcedonian) Church, the emperor Justini
 opposed_by: [Chalcedonian orthodoxy, the persecuting authorities under Justin II]
 key_events: [his mission to convert the pagans of Asia Minor, his eyewitness experience of the Justinianic plague, the persecution of the Miaphysites]
 key_processes: [the consolidation of the Miaphysite Church, Syriac historiography]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, mesopotamia]
 ---
 
@@ -52,3 +52,9 @@ Procopius. As a historian and hagiographer he is a founder of the **Syriac histo
   Part III]]) and the *Lives of the Eastern Saints*.
 - `documented:` the reign of [[justinian|Justinian]], the [[justinianic-plague-541|plague]], and the
   Miaphysite Church; `affiliated_with:` the [[eastern-churches|anti-Chalcedonian East]].
+
+## From Tannous (2018)
+
+John of Ephesus is a principal sixth-century Miaphysite narrative source for the world of simple believers, holy men, and confessional competition that Tannous reconstructs for the pre-conquest Middle East ([[post-chalcedonian-confessional-formation]], [[simple-believers]]).
+
+- Source: [[tannous-making-medieval-middle-east-2018]]

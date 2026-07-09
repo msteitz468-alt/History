@@ -132,3 +132,7 @@ Interpretive-layer + grounding ingest completed 2026-07-08:
 - **Filed to:** `raw/3. Middle Ages/`
 - **Status:** **COMPLETE** 2026-07-08. Pages created: **10** | pages updated: **48**.
 
+## Engaged by Mitchell, Later Roman Empire (2015), Ch. 13
+
+Stephen Mitchell ranks *Framing the Early Middle Ages* as “perhaps the most important work on later antiquity to appear since A. H. M. Jones’ great survey.” With Wickham’s later *Inheritance of Rome* (2009) and Sarris *Empires of Faith* (2011), Mitchell places it in a transitional, materialist agenda (state financing, aristocracy/wealth, peasantry, urban economy, exchange networks) that relativizes without denying the collapse of imperial power and treats NW Europe–Mediterranean–Near East as a unity (Pirenne tradition). See [[mitchell-later-roman-empire-2015]].
+

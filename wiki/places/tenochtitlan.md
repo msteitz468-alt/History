@@ -7,7 +7,7 @@ period_active: [Late Middle Ages, Early Modern, Age of Expansion, Long 19th Cent
 controlled_by: [Aztec (Mexica) Triple Alliance, New Spain / Mexico City]
 events_here: [[[triple-alliance-formation-1428]], [[spanish-conquest-of-mexico-1519]]]
 processes_here: [[[urbanization]], [[ruralization]], [[mesoamerican-state-formation]], [[central-mexico-indigenous-colonial]], [[central-mexico-indigenous-since-independence]]]
-sources_ingested: 5
+sources_ingested: 7
 last_updated: 2026-07-08
 tags: [place, mesoamerica, late-middle-ages]
 ---
@@ -145,11 +145,49 @@ Mexico City on the Tenochtitlan site became the Spanish capital of New Spain —
 
 **Late-twentieth-century re-Indianization.** Schryer notes temporary/permanent native migrants (Mazahua, Nähñu, etc.) carving ethnic niches in the capital — “Marías” fruit and *pepita* vendors — so that “Mexico City is thus becoming more ‘Indian,’ just as it was a hundred years ago.” See [[central-mexico-indigenous-since-independence]]; colonial Basin frame on [[basin-of-mexico]] and [[central-mexico-indigenous-colonial]].
 
+## Evans & Webster 2001 (Calnek; López Luján; Townsend; Evans; Berdan; Fedick)
+
+Encyclopedia site and thematic entries in [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]] densify the island capital’s archaeology and ritual form:
+
+### Foundation, scale, and twin city (Calnek; Berdan)
+
+- Most accounts: Tenochtitlán founded **1325**, Tlatelolco by a dissident faction **1337** (alternatives **1318–1366**); continuous occupation nearly 1,000 years from fishing camp; significant Early Postclassic ceramics under the Metropolitan Cathedral. Marshy western Lake Texcoco; chinampas and residential platforms; severe floods **1382–85**, **1450**, **1499**; 15th-c. dikes/causeways/canals for flood control and transport.
+- Absorbed into Tepanec Empire (Azcapotzalco); Mexica dynasty **1367 or 1376**; led rebellion **1427**, victorious **1428**; Tlatelolco annexed **1473**. Combined area ~**12–13.3 km²** on the eve of Conquest; population **130,000–225,000** (Berdan: Tenochtitlán-Tlatelolco **150,000–200,000**; Basin as a whole may have held ~**1 million**); **>75%** (possibly **>90%**) full-time nonagricultural specialists vs ~**40%** at Teotihuacan. Four quarters subdivided into *calpulli*/*tlaxilacalli*; **87** large calpullis noted for the capital (Gonlin & Evans cross-ref). Great market at Tlatelolco the most important commercial center in Central Mexico.
+
+### Ceremonial center (López Luján; Townsend; Carrasco)
+
+- Ceremonial center as architectonic image of cosmic order; dual main pyramid for Huitzilopochtli (war/solar, south) and Tlaloc (rain/earth, north). Twin complementary cities with Tlatelolco (eagle vs jaguar symbolism). After 1521 Cortés leveled both; Colonial/modern Mexico City over the ruins.
+- **Templo Mayor Project** (Matos **1978–89**; Matos & López Luján **1991–97**): main pyramid + 14 adjacent buildings, **136 offerings**, thousands of artifacts — excavation **1.29 ha** ≈ **10%** of estimated **12.96 ha** ceremonial center and ~**0.1%** of combined cities (~**13.3 km²**). Each main pyramid seven enlargement stages; Stage II dimensions match Tenayuca — suggesting earlier construction than official Mexica history. Sahagún lists **78** buildings inside the sacred precinct. Last-stage Great Temple platform ~**84 × 77.2 m**; **100–130** steps → ~**30 m** pyramid + sanctuaries ~**45 m** total. House of Eagles benches revive Tula Palacio Quemado style; Red Temples mix Mexica and Teotihuacan styles. ~**80%** of Templo Mayor offering objects imported from Triple Alliance tributary provinces; **>200** animal species; sacrificial human remains dominate; looted ancient Olmec, Mezcala, Teotihuacan, Plumbate objects; offerings as cosmograms. Tradition: Huitzilopochtli’s shrine destroyed **1521** by Spaniards with cannon; colossal Huitzilopochtli image never found.
+- Imperial ritual landscape (Townsend): four roadways to cardinal directions from central precinct; Main Pyramid as *axis mundi* aligned with equinoctial sun path and distant Mount Tlaloc springs; dual temples = Coatepetl (Huitzilopochtli) + Tonacatepetl Mountain of Sustenance (Tlaloc) — war and agriculture as economic bases. Primary Tlaloc temple on Mount Tlaloc visited annually by allied Aztec kings; concluding sacrifice at Pantitlan sinkhole/spring in Lake Texcoco to Chalchihuitlicue. New Fire every 52 years on Mount Huixachtlan; Panquetzaliztli processional circuit of Paynal effigy around the basin.
+
+### Palaces and water (Evans; Fedick)
+
+- Aztec *tecpan calli* (“lord-place-house”): at least two large Tenochtitlan palaces — Motecuhzoma II’s New Palace (after **1502**; now Palacio Nacional site, ~**200×200 m**, courtyard dais court receiving ~**600** lords daily per Cortés) and inherited Axayacatl’s/Old Palace. Pleasure palaces at Chapultepec (Tenochtitlan dynasty), Texcotzingo (Texcoco), Huaxtepec gardens, game reserves. Overbuilding precludes systematic excavation (Susan Toby Evans).
+- Río Cuautitlán irrigation in the northern Basin is probably the largest/most complex Mesoamerican system; canals and monumental aqueducts brought water across Lake Texcoco into Tenochtitlan for gardens, household use, and chinampa water levels (Scott L. Fedick).
+
+### Cotton tribute and epidemic (Berdan; Ortiz de Montellano)
+
+- Mexica of Tenochtitlan demanded annual tribute of **16,000** loads raw cotton (*Matrícula*) / **4,400** (Codex Mendoza) and **217,600** / **128,000** pieces of cotton clothing (figures vary by source). Smallpox **1520** struck during Cortés’s siege, killing *tlatoani* Cuitlahuac and contributing greatly to the fall of the city.
+
+## Fagan & Durrani (2020): Tlacaelel's history-rewriting and the Templo Mayor caches
+
+Fagan and Durrani's *World Prehistory* (10th ed., 2020) adds the pivotal moment when
+**Tlacaelel**, adviser to ruler Itzcoatl after the 1426 overthrow of the Tepanec overlord
+Tezozomoc, ordered rival codices burned and rewrote Aztec history to cast the Mexica as
+divinely chosen heirs of the Toltecs — a documented act of deliberate historical falsification
+centered on this city. The **Templo Mayor** excavation (Eduardo Matos Moctezuma, from the 1978
+discovery of the Coyolxauhqui stone) documented six construction phases (the second dated to c.
+1390 CE) and some 6,000 objects across 86 offering caches — mostly tribute and spoils,
+including genuine ancient Teotihuacan-era masks — with the temple's layout expressing Aztec
+cosmology (four celestial tiers, an underworld beneath, cardinal-direction radiation). See
+[[aztec-empire]] for the fuller imperial narrative, including Ahuitzotl's reign, Moctezuma II's
+Quetzalcoatl-return anxieties, and the 1519–1521 conquest.
+
 ## Related
 
-- Places: [[teotihuacan|Teotihuacan]] · [[basin-of-mexico]] · [[rome|Rome]] · [[nineveh|Nineveh]] · [[cahokia|Cahokia]]
+- Places: [[teotihuacan|Teotihuacan]] · [[basin-of-mexico]] · [[morelos-region]] · [[rome|Rome]] · [[nineveh|Nineveh]] · [[cahokia|Cahokia]]
 - Concept: [[imperial-city]] · [[ritual-and-urban-performance]] · [[heterarchy]] · [[altepetl]] · [[chinampa-agriculture]] · [[aztec-economy]] · [[aztec-religion-and-human-sacrifice]]
 - Events: [[triple-alliance-formation-1428]] · [[spanish-conquest-of-mexico-1519]]
 - Actors: [[aztec-empire]]
 - Process: [[urbanization]] · [[ruralization]] · [[mesoamerican-state-formation]] · [[central-mexico-indigenous-colonial]] · [[central-mexico-indigenous-since-independence]]
-- Source: [[cambridge-history-native-peoples-americas-v2-1]] · [[cambridge-history-native-peoples-americas-v2-2]]
+- Source: [[cambridge-history-native-peoples-americas-v2-1]] · [[cambridge-history-native-peoples-americas-v2-2]] · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

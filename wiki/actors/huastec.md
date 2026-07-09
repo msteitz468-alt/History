@@ -9,7 +9,7 @@ affiliated_with: [Huasteca northern Gulf lowlands, commercial ties with Toltecs 
 opposed_by: [Aztec imperial expansion in the fifteenth century, Spanish colonial violence under Nuño de Guzmán, liberal and Porfirian land regimes]
 key_events: [Aztec conquest and cotton-mantle tribute, contact-period ethnohistoric characterization, Nuño de Guzmán Huasteca governorship 1526–1533, Huasteca guerra de castas 1845–49, condueñazgo land strategies]
 key_processes: ["[[mesoamerican-state-formation]]", "[[gulf-coast-indigenous-colonial-modern]]", "[[virgin-soil-epidemics]]"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, mesoamerica, gulf-coast, huasteca]
 ---
@@ -54,6 +54,39 @@ stone sculpture often relates to the Wind God **Ehecatl**. Adams (CHNPA intro) n
 recent work on Gulf Coast Totonac Postclassic sites and general thinness of western Mesoamerica
 Postclassic coastal knowledge—Huastec archaeology shares that under-documentation relative to
 highland imperial cores.
+
+## Evans & Webster 2001 (Wilkerson; Umberger)
+
+S. Jeffrey K. Wilkerson (EW2001, “Gulf Lowlands: North Region”): the North Gulf Lowlands form the
+**NE frontier of Mesoamerica**—largest and least-known Gulf subarea; core is the **Pánuco–Tamesí**
+basin. Signature material culture: sandstone slab sculpture, **round buildings**, Black-on-White
+pottery, huge quantities of small clay figurines. **Maya-speaking Huastecs**, the area’s most
+numerous pre-Hispanic inhabitants, reached the upper Gulf Lowlands **from the south during the
+first half of the Formative** and later expanded; also Nahua, Otomi, Pame, and Chichimec enclaves
+(*part_of:* [[gulf-lowlands]] North). Borders fluctuated: N Sierra de Tamaulipas, S Sierra de
+Otontepec, fluid western margins.
+
+Formative–Classic North Gulf (Wilkerson): Pánuco Pavón and Ponce phases (c. **1400–900 B.C.**)
+terminal Early Formative whitewares/grater bowls; Olmec influence weak until Middle Formative and
+not pervasive; Middle Formative villages grew to **1.3–2.5 km**; Late Formative rapid change,
+northern migrations, cities such as **Tantoc**; Classic: greatest number of known **round temples
+and structures in Mesoamerica**; ball-game ritualism influenced by El Pital then [[el-tajin|El
+Tajín]]; shell carving of highest quality.
+
+Postclassic: Early Postclassic florescence then sudden dispersal after prolonged drought;
+migration west, to the Tamaulipas coast, and into North Central Gulf—a **contributing factor** in
+El Tajín’s destruction (*contributed_to:* fall of El Tajín). Early Postclassic North Central:
+explosive Huastec and intermingled peoples from the North Gulf (El Niño drought trigger);
+fortified hilltop/mesa cities; area became part of greater Huasteca. Fine-paste Black-on-White
+vessels (distribution Rio Grande to central Veracruz). Final half-century: Aztec tribute conquests
+begun but not consolidated before 1519; Spanish met prolonged fierce Huastec resistance;
+epidemics depopulated most lowlands by end of the sixteenth century.
+
+**Castillo de Teayo** (Umberger, EW2001): only place in the Aztec Triple Alliance Empire where
+remains of a **central Mexican colony** can be identified; probably settled by highland immigrants
+during the **1454** famine; incorporated into the empire late **1470s** under Axayacatl; southern
+periphery of Huastec territory with both Huastec and Aztec ceramics—reinforces the dual
+Huastec/Aztec character of the northern Gulf frontier under Late Postclassic imperial pressure.
 
 ## Colonial–modern trajectory (Deans-Smith, CHNPA II.2 Ch. 18)
 
@@ -117,7 +150,8 @@ monographic synthesis.
 
 ## Related
 
-[[totonac]] · [[olmec]] · [[el-tajin]] · [[tula-hidalgo]] · [[aztec-empire]] ·
+[[totonac]] · [[olmec]] · [[el-tajin]] · [[gulf-lowlands]] · [[tula-hidalgo]] · [[aztec-empire]] ·
 [[gulf-coast-indigenous-colonial-modern]] ·
 [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 4 (Diehl)]] ·
-[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2 Ch. 18 (Deans-Smith)]]
+[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2 Ch. 18 (Deans-Smith)]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001 (Wilkerson; Umberger)]]

@@ -13,7 +13,7 @@ scale_immediate: civilizational
 scale_consequential: hemispheric
 causes: [[[causes-of-second-punic-war]], the Barcid recovery of Spain, Rome's seizure of Sardinia (238), the Saguntum/Ebro dispute, [[first-punic-war-264-241bce]]]
 consequences: [Roman naval & territorial supremacy in the western Mediterranean, the acquisition of Spain as provinces, the disarming of Carthage, the rise of [[masinissa|Numidia]], the transformation of Italian agriculture, the eastward turn of Roman power]
-sources_ingested: 3
+sources_ingested: 8
 last_updated: 2026-07-08
 tags: [event, classical-antiquity, italy, iberia, north-africa, war, rome]
 ---
@@ -131,7 +131,27 @@ The war is exceptionally well documented: **[[polybius]]** (books III–V intact
 **[[livy]]** (books XXI–XXX), who drew heavily on Polybius for eastern matter and
 on the Sullan annalists (Valerius Antias, Claudius Quadrigarius) for Roman
 detail. Where Polybius is a control, Livy is reliable; where not, his casualty
-figures and dramatic set-pieces need caution. Persistent debates: the **route of
+figures and dramatic set-pieces need caution.
+
+### CHGRW contribution
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|Whitby (CHGRW I.3)]]:
+Polybius clear on battles and causation vs Livy’s tendency to blame Hannibal and early
+Roman defeats on poor leadership; Livy may prefer inflated Latin annalistic casualties and
+sometimes misunderstands Polybius’ Greek. Billows (I.10): after the 226 Ebro treaty implied
+Carthaginian sphere south of the river, Rome made *amicitia* with Saguntum well south of the
+Ebro; after Hannibal took Saguntum, Rome used *rerum-repetitio*-style demands then declared
+war “in defence of” wronged *amici* — aggressive war satisfying the letter of just-war
+ideology. Roth (I.12): Fabian battle-avoidance after Cannae had Hellenistic precedents
+(Cassander, Agathocles); success depended on dense Roman colonies/garrisons Hannibal could
+not take and hold; Carthaginian strategy aimed to break Rome’s Italian alliance system, then
+build a counter-alliance (Sicily, Balkans, Macedonia). Sabin (I.13A): richest dataset for
+grand-tactical patterns — symmetrical Punic/Roman deployments vs Greek wing-weighting;
+Scipio’s Ilipa reversal and dawn approach; Metaurus intelligence/deception and Nero’s
+battlefield march; Trasimene/Trebia ambush flanks; cavalry–infantry “clock” at Cannae and
+Zama. See [[sabin-lost-battles-model]], [[hellenistic-warfare]].
+
+Persistent debates: the **route of
 Hannibal's Alpine crossing** (Mt Genèvre / Mt Cenis / Col de Clapier); the
 **causation** of the war (see [[causes-of-second-punic-war]]); the reliability of
 the **factional/*gentes* analysis** of war-time Roman politics (the
@@ -155,9 +175,68 @@ battle site remains unknown, and the "sanitised" tactical diagrams that usually
 accompany modern narratives overstate how much control commanders could have had
 over a battle involving 100,000+ multilingual combatants without stirrups.
 
+### Freeman on causation and Hannibal's aims
+
+Charles Freeman ([[freeman-egypt-greece-rome-2014]]) frames the causation chain — the
+Ebro agreement, Rome's alliance with Saguntum south of the river, Hannibal's siege of
+Saguntum (219), and the 218 declaration — as a case where "neither side appears to have
+had any inhibitions about going to war again," a mutual-willingness reading that cautions
+against the simplistic framing that "Hannibal caused the war" (see
+[[causes-of-second-punic-war]]). Freeman also states explicitly there is no evidence
+Hannibal intended to destroy Rome after Cannae: his goal was to humiliate Rome and detach
+her allies, hoping to force the surrender of Sicily and Sardinia — a reading directly
+relevant to any "why didn't Hannibal march on Rome" counterfactual treatment.
+
+### OHCW (Boardman/Griffin/Murray 1986) — Crawford & Rawson
+
+Crawford (Ch. 16): Hannibal’s Italian invasion (218), resourced by Carthaginian Spain,
+sought to reverse the First Punic War; crushing victories through Cannae (216) and
+defection of Capua (and later Syracuse) failed because Rome replaced armies and **most
+Italian allies never accepted Italy without Rome or under Carthage** as serious
+alternatives. Rome confined Hannibal to Bruttium, recovered Sicily, took Spain, fought
+Macedon (allied to Carthage 215); war transferred to Africa; Hannibal recalled 203,
+defeated at Zama 202. Crawford **rejects** the simple thesis that Hannibalic devastation
+alone deracinated the peasantry into the Gracchan crisis (see [[agrarian-crisis-roman-republic]]).
+Rawson (Ch. 17): Spain became permanent; Zama; whole Sicily provincial; the war as hinge
+of Mediterranean expansion.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Chs. 16–17).
+
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) treats third-century
+wars (including First and Second Punic) as forging Middle-Republic (*nobiles*) political
+culture of debate, consensus image, confidence in leaders amid defeat, and shared
+sacrifice — wars that helped cohere society beyond Greek-style *stasis*
+([[roman-republics-periodization]]). Defeat at Arausio 105 was by far the largest Roman
+loss since Cannae, portending Italian invasion and triggering extraordinary multi-year
+power for Marius without a Hannibalic-style dictatorship. Polybius’ fifty-three-year rise
+(220–167) is noted; Flower’s proposed break at 180 would interrupt that external-war
+pattern because her periodization is based on internal politics. Light periodization
+cross-link only.
+
+## The Barcid dimension (Hoyos)
+
+Dexter Hoyos ([[hoyos-hannibals-dynasty-2003|*Hannibal's Dynasty*]]) reads the war as the
+climax and collapse of the [[barcid-dynasty|Barcid ascendancy]], and revises several points:
+
+- **The war effort was larger than usually thought.** Combined Punic land forces in 218
+  (~122,000) actually outnumbered Rome's ~71,000; [[hannibal|Hannibal]] left New Carthage
+  with roughly 87,000 men, most of the shrinkage before Italy owing to desertion.
+- **Carthage did not "abandon" Hannibal.** The redirection of reinforcements to Spain and
+  Sardinia was a considered allocation given Hannibal's success recruiting Italians directly
+  into his army — not neglect by a hostile home government. See
+  [[did-carthage-abandon-hannibal]].
+- **The reversal owed much to Barcid miscalculation** — above all the failure to march on
+  Rome after Cannae and the brothers' failure to coordinate before the
+  [[battle-of-the-metaurus-207bce|Metaurus]] — as well as chronic Carthaginian weakness at
+  sea, not Roman perseverance alone.
+- **Shared supremacy.** As Barcid fortunes waned, the family governed increasingly in
+  coalition with the non-Barcid general [[hasdrubal-son-of-gisco|Hasdrubal son of Gisco]].
+
 ## Related
 
-- Prelude: [[hamilcar-barca]] · [[first-punic-war-264-241bce]] ·
+- Prelude: [[hamilcar-barca]] · [[barcid-dynasty]] · [[first-punic-war-264-241bce]] ·
   [[mercenary-war-241-237bce]] · [[romano-punic-treaties]]
 - Battles & sieges: [[siege-of-saguntum-219bce]] · [[battle-of-cannae-216bce]] ·
   [[battle-of-zama-202bce]]
@@ -166,4 +245,13 @@ over a battle involving 100,000+ multilingual combatants without stirrups.
 - Consequences: [[roman-provincial-system]] · the war against [[philip-v|Macedon]]
   (200) · [[masinissa|Numidia]]
 - Source: [[astin-cah-v8-1989]] (Chs 2–3, Scullard & Briscoe); the fullest ancient narrative is now
-  ingested directly as **[[livy-hannibals-war|Livy, *Hannibal's War* (Books 21–30)]]**.
+  ingested directly as **[[livy-hannibals-war|Livy, *Hannibal's War* (Books 21–30)]]**;
+  [[boardman-oxford-history-classical-world-1986]] (Chs. 16–17, Crawford/Rawson);
+  [[hoyos-hannibals-dynasty-2003|Hoyos, *Hannibal's Dynasty* (2003)]];
+  [[flower-roman-republics-2010]]; [[freeman-egypt-greece-rome-2014|Freeman, *Egypt, Greece, and Rome* (2014)]].
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+Roadmap: Hannibal crossed Alps (217), Cannae the next year, lingered in southern Italy until 203, defeated at Zama—end of Carthaginian power. After Hannibal’s defeat Rome resumed continuous western expansion; Italian allies punished for defection.

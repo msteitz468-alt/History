@@ -7,8 +7,8 @@ period_active: [Early Bronze Age, Middle Bronze Age]
 controlled_by: [Indus (Harappan) civilization]
 events_here: []
 processes_here: [[[urbanization]]]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, south-asia, early-bronze-age]
 ---
 
@@ -83,6 +83,34 @@ Avari's treatment (Chapter 3) adds the following specifics:
 **The granary question:** A building on the citadel mound "looks like a granary, although archaeologists are not entirely sure." There is "disagreement among the archaeologists as to the identification of the actual granaries," but storage depots and food warehouses certainly existed.
 
 **Collapse:** By 1700 BCE the city had become a ghost town. The silt layers in its upper levels — "many feet above the river course" — attest to the great floods that followed river course changes. The drains and sewers "kept in good and clean working order for centuries, clogged up with waste and excreta, resulting in disease and pestilence."
+
+## Fagan & Durrani (2020): pace of growth, trade debate, and a source-flagged inconsistency
+
+Fagan & Durrani (2020) sharpen the comparative point already made above (Sinopoli):
+the Indus civilization underwent **"a short period of explosive growth over one or
+two centuries ending about 2500 bc"** — in explicit contrast to "the long phase of
+increasing... complexity in Egypt and Mesopotamia." Mohenjo-daro's population is
+estimated at **35,000–40,000** (Harappa c. 23,500), and the city was **rebuilt at
+least nine times**. The undeciphered Indus script (~400 pictographic symbols) and
+the absence of known ruler names or images remain, as elsewhere noted, a striking
+contrast to Egyptian and Mesopotamian royal iconography.
+
+**Meluhha trade debate.** After 2600 BCE the Sumerians reorganized Gulf maritime
+trade via **Dilmun, Magan, and Meluhha** (Meluhha probably referring to the Indus
+region); Sargon of Agade (c. 2350 BCE) boasted of ships from these lands moored at
+his capital. This is **contested**: Fagan & Durrani note "many scholars believe
+overseas trade was less important than sometimes claimed and that Indus
+civilization was an entirely indigenous development" — a caution against reading
+Mesopotamian contact as formative for Indus urbanism.
+
+**Source-flagged inconsistency.** Fagan & Durrani give the Indus civilization's
+area as both "just under 1.3 million square kilometers" and, elsewhere in the same
+discussion, "more than 777,000 square kilometers (3,000,000 square miles)" — the
+two figures are mutually inconsistent (777,000 km² ≠ 3,000,000 sq mi; 3,000,000 sq
+mi ≈ 7.77 million km²). This is flagged here as an apparent error internal to the
+source itself, not adjudicated by the wiki.
+
+Source: Fagan & Durrani (2020), *World Prehistory: A Brief Introduction* (10th ed.).
 
 ## Related
 

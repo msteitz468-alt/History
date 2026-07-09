@@ -5,8 +5,8 @@ origin: "Michael Lang, University of Maine; Chapter 4 of *Cambridge World Histor
 applies_to_periods: ["Deep Prehistory", "Early Prehistory", "Late Prehistory", "Behavioral Modernity", "Mesolithic", "Neolithic", "Chalcolithic", "Early Bronze Age", "Middle Bronze Age", "Late Bronze Age", "Bronze Age Collapse", "Early Iron Age", "Archaic Period", "Classical Antiquity", "Late Antiquity", "Early Middle Ages", "High Middle Ages", "Late Middle Ages", "Early Modern", "Age of Expansion", "Long 19th Century", "World Wars Era", "Cold War", "Contemporary"]
 applies_to_regions: [global]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, historiographical, global]
 ---
 
@@ -76,3 +76,7 @@ not ontological claims about the structure of the past.
 
 `analogous_to: [[divergence-convergence]]`
 `analogous_to: [[big-history]]`
+
+## Flower, *Roman Republics* (2010) — case study
+
+Harriet Flower’s re-periodization of Roman republican history ([[roman-republics-periodization]]; source: [[flower-roman-republics-2010]]) is a concrete demonstration of periodization as a **constitutive** tool, not mere labeling. Periodization, she argues, is what makes an account “history” rather than chronicle or commemoration; like punctuation, it shapes meaning as it builds the framework of interpretation. She openly acknowledges that historical periodization is **intrinsically anachronistic** and that her six-republics / thirteen-period scheme is **explicitly based on hindsight**, not on Roman *Zeitbewußtsein*. Very long sweeping periods (treating 509–49/27 as one “Republic”) distort by associating dissimilar times; annual pontifical bulletins and aristocratic funeral pageants, however rich, do not construct multi-year historical analysis. Multiple timelines (religion, economy, wars, lives) are possible; Flower chooses **evolving political life** specifically to dissolve the monolithic Republic’s quasi-biological growth–maturity–decay pattern. The case illustrates Lang’s force-field problem from within a single civilization’s historiography: changing the end-date and the number of internal periods rewrites which actors and crises enter the drama.

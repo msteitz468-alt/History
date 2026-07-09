@@ -9,7 +9,7 @@ affiliated_with: [the Germanic peoples, Arian (then Catholic) Christianity]
 opposed_by: [the eastern Roman (Byzantine) empire, the exarchate of Ravenna, the papacy, the Franks]
 key_events: [the Lombard Invasion of Italy (568), the assassination of Alboin (572), the interregnum of the dukes (574–584)]
 key_processes: [the fragmentation of Byzantine Italy, the formation of the barbarian successor kingdoms]
-sources_ingested: 5
+sources_ingested: 8
 last_updated: 2026-07-08
 tags: [actor, state, late-antiquity, italy]
 ---
@@ -89,3 +89,29 @@ Jonathan Arnold's chapter in the [[sources/effros-moreira-oxford-handbook-merovi
   the independent **papacy** and the [[successors-of-justinian|post-Justinianic]] collapse of imperial Italy
 - `followed_by:` Lombard–Byzantine partition of Italy and the medieval Italian polities
 - Sources: [[cameron-cah-v14-2000]] (Chs 19 & 4, Mark Humphries and Averil Cameron); [[mckitterick-ncmh-v2-1995]] (Ch. 12, Paolo Delogu — the Lombard kingdom and its Carolingian conquest); [[wickham-framing-the-early-middle-ages-2005]] (fiscal structure and aristocratic scale)
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+- **Invasion 568 and conversion (R1-049):** Under Alboin, Lombards entered Italy from the lower Austrian Danube; most of the north of the Po fell within a year; duchies at Spoleto and Benevento. From the late sixth century until 1870 Italy remained divided. Largely pagan on entry; Catholic Bavarian Theodolinda and King Agilulf (590–616) contacted [[columbanus|Columbanus]] and gave land for Bobbio. Conversion was slow, not instant; Paul the Deacon’s later *History* is an unreliable Catholic-victory narrative. Frankish conquest at papal invitation belongs to [[charlemagne|Charlemagne]]’s age.
+  - Quote: "In 568, less than three years after Justinian's death, the Lombard king, Alboin, led this fierce people ... into an Italy still suffering the consequences of almost two decades of war."
+  - Link labels: caused_by (partially) Justinianic Italian devastation and recruitment of Lombards; concurrent_with Columbanus at Bobbio; followed_by Frankish/papal intervention under Charlemagne.
+- **Post-Justinianic exposure of Rome (R2-005):** Justinian’s Gothic wars (535–54) devastated Italy; Pragmatic Sanction made Italy a province under an exarch at Ravenna; Lombards took the north and Spoleto/Benevento, leaving Rome connected to imperial territory only by the Via Flaminia corridor and sparsely defended.
+  - Quote: "the Lombards took over much of Italy, establishing themselves in the north and in the two southern duchies of Spoleto and Benevento. The results left the city of Rome and its environs connected only by a narrow corridor (the Via Flaminia) to the territory held by the exarch in the north-east."
+
+Source: [[logan-history-of-the-church-in-the-middle-ages-2013]]
+
+## Gibbon, *Decline and Fall* (1776–1788) — Ch. XLV
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]] on Lombard scale, composition, and Alboin’s death — comparative ethnography and narrative color, not modern ethnogenesis theory.
+
+- **Relative numbers (linguistic proxy):** “the Lombards of Italy, and the Visigoths of Spain, were less numerous than the Franks or Burgundians,” who in turn yield to Saxons/Angles who nearly eradicated British idioms; Italian stock remains Latin-derived.
+- **Multi-ethnic host:** Native Lombard strength “multiplied by the adventurous youth of Germany and Scythia”; Gepid, Bulgarian, Sarmatian, Bavarian names traceable; 20,000 Saxon warriors with families joined Alboin.
+- **Alboin’s death:** Before regulating conquests he “fell a sacrifice to domestic treason and female revenge” after forcing Rosamond to drink from Cunimund’s skull-cup (Helmichis/Peredeus).
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/gibbon-edward]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+By 572 Audoin’s Lombards (with other Germans) controlled most of Italy north of the Po including Ticinum; also Spoleto (cutting Ravenna–Rome via the Flaminia) and Beneventum — evolving as independent duchies. Romans retained the Genoa coast, Perugia corridor, Naples/Salerno, Bruttium/Calabria, and Sicily — all port-focused and sea-integrated. In 578 Tiberius II declined Italy’s 3,000 solidi accession gift, asking it fund Lombard troops for Persia — “in effect indicated that the Romans in Italy would henceforth be left to their own devices.” Maurice’s Exarchate lacked resources to dominate the peninsula; “Italy began to take the shape that it was to retain until the later Middle Ages, a patchwork of Roman territory interspersed by the Lombardic duchies.” For Constantinople, papal ecclesiastical ties increasingly outranked secular western provincial recovery.
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell, *A History of the Later Roman Empire* (2015)]].

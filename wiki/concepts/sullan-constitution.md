@@ -5,8 +5,8 @@ origin: enacted by L. Cornelius Sulla as dictator *legibus scribundis et rei pub
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [italy, mediterranean-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, rome]
 ---
 
@@ -80,11 +80,18 @@ genuine, coherent **reconstruction** is debated (Badian, Gabba, Keaveney). Dispu
 points: how much of the dictatorship's programme was already foreshadowed in 88;
 the exact date of abdication; whether tribunes kept the veto.
 
+## Flower, *Roman Republics* (2010): New Republic, not restoration
+
+[[flower-roman-republics-2010|Harriet I. Flower]] treats the Sullan settlement as **Republic 6** in a multi-republic sequence ([[roman-republics-periodization]]) and insists that calling it a “restoration” is a **complete misnomer**. Sulla used traditional office names but installed a **fundamentally different system**: rule of law enforced by permanent courts rather than deliberation, *contiones*, and ancestral compromise; an enlarged senate (tradition ~600; Flower notes lower estimates ~450) filled with novices (many equestrians and Italian townsmen) primarily for jury service; automatic recruitment from ex-quaestors; abolition of the *princeps senatus* and (in practice) the five-year censorial rhythm; consuls/praetors spending their year of office in Rome before provincial commands; a rigid statutory career pyramid (20 quaestors / 8 praetors / 2 consuls; ten-year wait before reholding the same office — anti-Marius); a **dead-end tribunate** (no tribunician legislation; reduced veto; bar on further office) that reversed Conflict-of-the-Orders gains; suppression of popular *contiones*; abolition of the grain dole; physical refoundation (new *curia*, raised *rostra*, Tabularium, first *pomerium* extension since the kings). Core formula: ***lex* was to replace *mos maiorum***.
+
+Flower follows Badian that Sulla resigned the dictatorship at the **end of 81**, then held the consulship of 80 to mark the new era. He cast himself as a **Greek-style lawgiver** (Solon analogy) who leaves so the city will make the system work — a figure alien to Roman republican tradition; the settlement was imposed without political debate by a strong man after the most brutal political violence Rome had seen. The system was **never both fully functional and unchallenged**; it was modified fundamentally within a decade (especially **70**, Pompey and Crassus as consuls) and dismantled piecemeal because it lacked tradition and inherited behavioural restraints. Secret ballot from the 130s was **retained**. On Flower’s map, an adapted Sullan republic still shapes the 60s until functional republican government ends ~60 with the Big Three alliance — long before 49. See also [[fall-of-roman-republic]] (Flower position) and [[sulla]].
+
 ## Related
 
 - By: [[sulla]] · enabled by: [[sullan-civil-war-83-82bce]] ·
   [[sullan-proscriptions-82bce]]
 - Targets: the [[optimates-populares|popularis]] tribunate · the
   [[roman-equites|equestrian]] courts · undone by [[pompey]] (cos. 70)
-- Context: [[roman-republic]] · [[senatus-consultum-ultimum]]
-- Source: [[crook-cah-v9-1992]] (Ch. 6, Seager)
+- Context: [[roman-republic]] · [[senatus-consultum-ultimum]] ·
+  [[roman-republics-periodization]] · [[mos-maiorum]]
+- Source: [[crook-cah-v9-1992]] (Ch. 6, Seager) · [[flower-roman-republics-2010]]

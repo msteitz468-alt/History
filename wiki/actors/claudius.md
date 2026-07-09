@@ -9,7 +9,7 @@ affiliated_with: [the [[julio-claudian-dynasty|Julio-Claudian house]]; the praet
 opposed_by: [Camillus Scribonianus and other pretenders; rivals among the old aristocracy; (in tradition) his wives Messallina and Agrippina]
 key_events: [acclamation by the praetorians (41), the [[claudian-conquest-of-britain-43ce|conquest of Britain]] (43), the fall of Messallina (48), marriage to Agrippina and adoption of [[nero]] (50)]
 key_processes: [the growth of the imperial administration through freedmen]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]
 ---
@@ -79,8 +79,14 @@ equestrians put to death during his reign. Beard cites this as evidence for her 
 argument (see [[roman-empire]]) that how an emperor was *remembered* tracked the manner of
 his death and succession far more than his actual conduct.
 
+## OHCW (Stockton; Matthews)
+
+**Stockton** (Ch. 22): modern assessments vary — strong ruler vs tool of freedmen/wives (Pallas, Narcissus, Messallina, Agrippina); Britain invasion a political success; citizenship advocacy; Mauretania and Thrace to direct rule; heavy judicial carnage of senators/equites; death possibly by Agrippina’s poison so [[nero]] could succeed.
+
+**Matthews** (Ch. 31): *senatusconsultum* of AD 52 (via Pallas) reduced free women in permanent slave relationships to slave or freed status depending on the master’s knowledge — evidence of stable cross-status unions under the early empire.
+
 ## Related
 
 - Brother of Germanicus; uncle of [[caligula]]; dynasty: [[julio-claudian-dynasty]]
 - Conquered Britain: [[claudian-conquest-of-britain-43ce]]; adopted and succeeded by [[nero]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 5, Wiedemann)
+- Source: [[bowman-cah-v10-1996]] (Ch. 5, Wiedemann); [[boardman-oxford-history-classical-world-1986]] (Stockton Ch. 22; Matthews Ch. 31)

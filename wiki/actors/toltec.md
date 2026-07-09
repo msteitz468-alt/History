@@ -10,7 +10,7 @@ affiliated_with: ["[[maya-civilization]]", "[[basin-of-mexico]]", "Chichén Itz�
 opposed_by: []
 key_events: ["northwest migration / Coyotlatelco into highlands", "growth of [[tula-hidalgo|Tula]] (~12–13 km², ~60,000)", "[[fall-of-tula-1150]]"]
 key_processes: ["[[mesoamerican-state-formation]]"]
-sources_ingested: 3
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, state, high-middle-ages, mesoamerica]
 ---
@@ -101,6 +101,85 @@ The Aztec (Mexica) later attributed great cultural prestige to the Toltecs, clai
 and depicting Tula as origin of arts and refined urban life — idealization that inflates
 Tollan’s wonders relative to modest remains and muddies historical reality.
 
+## Evans & Webster 2001 (encyclopedia synthesis)
+
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster (eds.) 2001]]
+— Healan (Tollan), Mastache Flores & Cobean (Toltec Culture; Tula Region), Smith
+(Postclassic Period), Cobean & Mastache (Coyotlatelco) — densifies the ethnohistory vs.
+archaeology tension already flagged in Cowgill/CHNPA (**EW2001**).
+
+**Tollan and definition.** Healan: ethnohistory + archaeology identify **Tula, Hidalgo** as
+ancient **Tollan** (Nahuatl “place of reeds”), legendary capital founded ~A.D. 900 by
+northwestern Chichimecs and Gulf Coast Nonoalca artisans; rulers include the legendary
+god-king Quetzalcoatl; destroyed ~1200 by other Chichimecs. “Toltec” in sources is
+polysemic (skilled artisans, urban people, Tula’s people, Tolteca-Chichimeca ancestors,
+later dynasties claiming Toltec blood). The encyclopedia limits “Toltec culture” to the
+Early Postclassic state (**A.D. 900–1200**) centered on Tula. After Teotihuacan’s fall
+(7th–8th c.), Tula was the first state to reintegrate large areas of Mexico and Central
+America; many Nahua/Aztec imperial features begin nearly five centuries earlier with the
+Toltecs (Mastache & Cobean).
+
+**Four transformative processes** (Mastache & Cobean): (1) expansion of Nahuatl (and
+sometimes Otomí) speakers beyond Central Mexico; (2) founding of royal dynasties claiming
+Toltec origins across Mexico/Central America; (3) trade networks partly centered on Tula
+from Costa Rica to New Mexico/Arizona; (4) religious/ideological change including Nahua
+gods among non-Nahua and the Quetzalcoatl epic cycle in Central Mexico, Yucatán, and
+highland Guatemala. Tula controlled much of Central Mexico plus zones in the Bajío, Gulf
+Coast, Yucatán, possibly Soconusco; may have held Huasteca and Michoacán areas the Aztecs
+never subjugated; extraordinary presence at Chichén Itzá without Mexica analog. Possible
+Toltec colonies among Early Postclassic Pipil sites in El Salvador; Soconusco likely a
+major Pipil Toltec province (cacao + Plumbate).
+
+**Coyotlatelco antecedents.** Late Coyotlatelco social/economic processes produced Tula and
+the Early Postclassic Toltec state; Tula-region Coyotlatelco people were antecessors of the
+Toltecs (Cobean & Mastache). INAH work finds clear antecedents for major Toltec architecture
+and sculpture types in Coyotlatelco centers around **A.D. 700** — nearly two centuries
+before first “Toltec” elements at Chichén Itzá. Authors judge that the majority of so-called
+Toltec elements at Chichén (chacmools, atlanteans, feathered serpents, tzompantli,
+“Toltec warriors”) probably originated in the Tula region. Relations at Chichén were
+complex and mutual: a cosmopolitan ruling class of Yucatec Mayas, Toltecs, and Itzas
+(probably Chontal); glyphs on columns at both centers suggest shared noble lineages.
+
+**Dynasties and ideology.** Influence via political alliances, often marriage; five centuries
+after apogee, many Mesoamerican royal dynasties including Aztec emperors claimed Tula
+descent. Mixtec codices of Tilantongo: 11th-c. king 8 Deer traveled to Tula for a ceremony
+interpreted as Toltec recognition as Mixtec supreme leader. Acamapichtli chosen for Toltec
+blood via Culhuacan. Quiché chronicles claim descent from Toltecs led by Gucumatz; Carmack
+(1968) places those invaders on the southern Gulf Coast or Maya Lowlands — not necessarily
+Tula itself. Gods and rites at Toltec Tula are presented as direct antecedents of Aztec
+religion; Tezcatlipoca (who supposedly defeated Quetzalcoatl at Tula) as prototype for
+Huitzilopochtli; increased emphasis on sacrifice and warfare among peoples in contact with
+Toltecs.
+
+**Trade vs. “no empire”.** Mastache & Cobean detail luxury ceramics, jades, turquoise mosaics
+(>2,000-piece disk in Palacio Quemado), Spondylus breastplates, Pachuca green obsidian at
+Maya/Central American centers, and images of the pochteca god Yiacatecuhtli on Tula
+sculpture — institutional trade/tribute. **Smith (Postclassic)** counterweights Aztec
+native history: archaeology finds Tula less luxurious than Teotihuacan or Tenochtitlan,
+**“no material evidence for a Toltec empire,”** and trade-ware analyses showing Tula was
+**not a major participant** in Early Postclassic long-distance exchange — Aztec portrayal
+highly exaggerated. Preserve both as attributed EW positions; the tension matches Diehl vs.
+Calnek/Weaver already noted under Influence.
+
+**Craft lore.** Aztec lore credits Quetzalcóatl with inventing luxury crafts (*tolteca* =
+master craftworker), but specialized production long pre-dated the Toltecs (Feinman).
+
+## The Topiltzin Quetzalcoatl Founding Legend (Fagan & Durrani 2020)
+
+Fagan & Durrani (2020) — who call the Toltecs' early history "confusing" and largely
+legendary — center the dynastic founder-figure **Topiltzin Quetzalcoatl** (born by tradition
+935 or 947 CE), who moved the capital to Tollan/Tula. In the legend he was driven out by a
+faction associated with the god **Tezcatlipoca**; accounts of his departure diverge between
+self-immolation and deification as the morning star, and (in a Spanish-recorded version)
+departure by serpent-raft with a vow to return in the year **"1 Reed."** The
+historiographical weight of the legend lies in its later Aztec afterlife: Cortés's 1519
+landing fell, by calendrical coincidence, in a year "1 Reed," reportedly convincing
+[[aztec-empire|Moctezuma II]] that Cortés was the returning god. Modern scholars generally
+treat the omen narrative as a post-hoc Aztec/Spanish construction, consistent with the
+caution that Mesoamerican migration and origin legends "should not be taken at face value."
+Fagan & Durrani also note Tula's **"Serpent Wall"** friezes and its militaristic,
+sacrifice-centered character, with collapse (~1200 CE) tentatively tied to drought cycles.
+
 ## Historiography
 
 Idealized in Aztec tradition; poorer archaeological documentation relative to prestige.
@@ -109,4 +188,6 @@ Moreno/Acosta corrected Teotihuacan-as-Tollan confusion. Open questions: politic
 Toltec–Chichén mechanism, absolute chronology of Tollan phase vs. traditional 950–1150
 bracket, and how far “Toltec” is ethnic vs. cultural honorific. Sources:
 [[snow-gonlin-siegel-archaeology-native-north-america-2020]];
-[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Cowgill Ch. 6; Charlton Ch. 11).
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Cowgill Ch. 6; Charlton Ch. 11);
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]
+(Healan; Mastache Flores & Cobean; Smith).

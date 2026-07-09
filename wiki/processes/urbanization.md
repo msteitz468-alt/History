@@ -8,8 +8,8 @@ region: [mesopotamia, near-east, north-africa, mesoamerica, andes, china, south-
 process_type: demographic
 driven_by: [[[agriculture-and-urbanism]], [[domestication]], surplus and storage, defense and warfare, ritual and pilgrimage, trade and exchange, state formation]
 produces: [[[city-state]], [[ruralization]], social stratification, [[writing-and-record-keeping]], the state, [[heterarchy|new forms of power]]]
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [process, chalcolithic, early-bronze-age, mesopotamia]
 ---
 
@@ -30,6 +30,13 @@ This process succeeds and depends on [[agriculture-and-urbanism|the agricultural
 foundation]] established in [[barker-cwh-v2-2015|CWH Vol. II]]: cities require a
 farmed surplus and the storage and redistribution institutions to mobilize it.
 
+[[fagan-world-prehistory-2020|Fagan & Durrani (2020)]] give a citable working
+definition of "city": a population-threshold rule of thumb of **≥5,000**
+inhabitants (though small ancient cities held only 2,000–3,000, and the largest,
+e.g. Rome or Chang'an, exceeded a million), combined with economic and
+organizational **complexity criteria** — specialization, interdependence with a
+hinterland, and centralized institutions. Population size alone is not sufficient.
+
 ## Causal Drivers
 
 No single cause; the volume's case studies show a **polycentric** process (Henry
@@ -49,7 +56,16 @@ Wright) with recurring contributors:
 
 1. **First cities (~3500–3000 BCE)** — southern Mesopotamia; [[places/uruk|Uruk]]
    reaches tens of thousands by ~3200 BCE in an "explosive" trajectory. Northern
-   Mesopotamian cities are equally early.
+   Mesopotamian cities are equally early. [[fagan-world-prehistory-2020|Fagan &
+   Durrani (2020)]] describe Uruk, "the world's first city," growing to roughly
+   **250 hectares** in the 4th millennium BC with satellite villages extending
+   10 km out, its ziggurat-temple complex serving as a combined
+   religious/storage/administrative/governmental center, and an elaborate
+   management hierarchy already in place by 3500 BC. At [[places/eridu|Eridu]],
+   the Sumerians' own legendary "first city," Temple XVI — the earliest of more
+   than ten successive shrines excavated beneath the later ziggurat — dates to
+   ca. 4500 BC, by which point the settlement held a population of up to
+   ~5,000.
 2. **City-states and peer-polities (3rd–2nd millennium BCE)** — small territorial
    [[city-state|city-states]] fighting over land, water, and trade routes;
    occasional ephemeral hegemonies collapsing back to autonomous units.

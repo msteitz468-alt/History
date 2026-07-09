@@ -21,7 +21,7 @@ consequences:
   - encomienda and congregación colonial order
   - virgin-soil demographic collapse across the highlands
   - colonial culture of refuge in NW highlands
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-08
 tags: [event, early-modern, mesoamerica, maya, conquest]
 ---
@@ -66,6 +66,16 @@ Lovell synthesizes conquest as **protracted multi-polity war**, not a single bat
 
 English-language colonial entry points: Thomas Gage; modern landmark MacLeod *Spanish Central America* (**1973**). This event page rests primarily on Lovell, CHNPA II.2 Ch. 21, not on full operational reading of Alvarado’s letters or Bernal Díaz for Guatemala.
 
+## From Evans & Webster 2001
+
+Encyclopedia capsule statements (Maya Culture and History / highlands summaries) align with Lovell’s protracted multi-polity frame while compressing operational detail ([[evans-webster-archaeology-ancient-mexico-central-america-2001]]):
+
+- In **1524** Pedro de Alvarado initiated the conquest of Central America with the defeat of the **Quiché Maya under Tecun** in western Guatemala; conquest of other Maya groups was protracted, with the last independent Maya polity (Itza of Petén) falling only in **1697**.
+- Arrival of the Spaniards **interrupted the Quiché rise to dominance** among competing highland Maya groups.
+- Spanish armies and highland Indian allies **quickly conquered the Quiché and Cakchiquel in the mid-1520s**; northern Yucatán Maya resisted more effectively until final subjugation in the **1540s** (contrast: [[conquest-of-yucatan-1527]]).
+
+These encyclopedia statements simplify the Kaqchikel alliance-then-rebellion sequence that Lovell documents in full; both sources agree that highland military conquest was faster than Yucatecan, while demographic and institutional colonization remained multi-decadal.
+
 ## Related
 
-[[highland-maya-colonial-modern]] · [[maya-civilization]] · [[maya-highland-pacific-development]] · [[guatemala-highlands]] · [[chiapas-highlands]] · [[spanish-conquest-of-mexico-1519]] · [[encomienda]] · [[congregacion|congregación]] · [[virgin-soil-epidemics]] · [[colonial-mesoamerica-native-peoples]] · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Lovell Ch. 21)
+[[highland-maya-colonial-modern]] · [[maya-civilization]] · [[maya-highland-pacific-development]] · [[guatemala-highlands]] · [[chiapas-highlands]] · [[conquest-of-yucatan-1527]] · [[spanish-conquest-of-mexico-1519]] · [[encomienda]] · [[congregacion|congregación]] · [[virgin-soil-epidemics]] · [[colonial-mesoamerica-native-peoples]] · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Lovell Ch. 21) · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster encyclopedia]]

@@ -5,8 +5,8 @@ origin: Framework synthesized by Kyle Harper in The Fate of Rome (2017), buildin
 applies_to_periods: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [mediterranean, mediterranean-world, near-east, north-africa, western-europe, eurasian-steppe]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-23
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -97,3 +97,9 @@ exogenous environmental and biological forces.
 - Events: [[events/antonine-plague-165]] · [[events/plague-of-cyprian-249]] · [[events/justinianic-plague-541]]
 - Controversy: [[controversies/fall-of-rome-causes]]
 - Adjacent framework: [[environmental-history-middle-millennium]] (500–1500 CE)
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- Woolf reports mounting, still “very controversial” evidence for a Roman Warm Period raising mean temperatures perhaps up to two degrees, peak around AD 150; chronological coincidence with furthest northward extent and urban maximum raises research questions about productivity and northern crop adaptation—but change was too slow for ancient notice. Physical environment (landforms, climate) “hardly changed” over Rome’s ~1,500-year story—empire as “a bubble that grew on the surface of the pond and then burst.”

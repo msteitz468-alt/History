@@ -3,9 +3,9 @@ title: Did Rome Have a "Grand Strategy"? (the Luttwak Controversy)
 dispute_type: interpretation
 period_involved: [Late Antiquity, Classical Antiquity]
 regions_involved: [western-europe, near-east, north-africa, britain, balkans]
-positions: [grand-strategy / scientific defensive frontiers (Luttwak), open frontiers / no strategic system (Mann, Isaac, Whittaker)]
+positions: [grand-strategy / scientific defensive frontiers (Luttwak), open frontiers / no strategic system (Mann, Isaac, Whittaker), Woolf 2012 no planned Grand Strategy + information-frontier systems common to tributary empires]
 resolution_status: open
-last_updated: 2026-06-12
+last_updated: 2026-07-08
 tags: [controversy]
 ---
 
@@ -52,6 +52,24 @@ The revisionist majority — **J. C. Mann**, **Benjamin Isaac** (*The Limits of 
 - **Client kings remained essential** instruments of control beyond the provinces throughout the
   period, against Luttwak's "diminishing role" thesis.
 
+**Adrian Goldsworthy** (*[[sources/goldsworthy-roman-warfare-2000|Roman Warfare]]*, 2000) argues the
+same side from the army outward. The walls and linear works "were not fighting platforms from which the
+Romans fought off the barbarian hordes"; Hadrian's Wall "was never intended to restrict the movements of
+the Roman army, but simply provided a secure base for its advance," pierced by crossing points at every
+milecastle and built to **monitor movement and project an impression of overwhelming power**, not to
+hold a defensive line. Frontier policy amounted to Rome **joining the pre-existing patterns of
+intertribal raiding** as a massively stronger participant (subsidies to friendly nobles, hostage-taking,
+punitive expeditions) rather than executing a top-down master-plan; the army's doctrine stayed "intensely
+aggressive" and its bases projected activity far beyond the provincial line. He adds two further
+non-strategic explanations. First, the **end of expansion after Augustus was political, not military**:
+conquering Germany or Parthia remained feasible, but emperors could not risk letting a rival senator win
+the prestige, loyalty, and armies that came with conquest — so the renewal of Parthian wars reflects not
+a surviving "dream of world conquest" but the simpler war-culture logic that a power which had humiliated
+Rome (Carrhae) stayed an enemy until subdued. Second, and most distinctively, he argues the late-Roman
+**field-army (comitatenses) concentration was driven by regime security against internal rivals**, not by
+a defence-in-depth strategy answering external threats (see [[late-roman-army]]) — a further denial that
+Roman troop dispositions expressed grand strategy in Luttwak's sense.
+
 ## State of the debate
 
 CAH XI gives Whittaker's revisionist position the floor and treats Luttwak's model as largely
@@ -64,6 +82,57 @@ penetration. The Augustan "frontier policy" question (whether the deathbed *cons
 empire "within limits" was permanent policy or temporary prudence) is a connected, equally
 unsettled strand.
 
+## CHGRW positions (Sidebottom, Goldsworthy, Whitby, Humphries)
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] does not adjudicate the
+Luttwak dispute but **restates and nuances** both sides with higher operational resolution —
+compatible with the Mann/Isaac/Whittaker/Goldsworthy revisionism already on this page, while
+preserving Luttwak’s value as debate-framing.
+
+**Sidebottom (II.1):** rejects equating imperial *consilium* debate with modern grand strategy —
+no foreign-affairs specialists invited, no dedicated diplomatic archive, odological geography;
+Luttwak’s rational modern-style grand strategy has few followers (against: Mann, Millar,
+Whittaker, Mattern). The *consilium* “still should not be thought of as producing a sophisticated
+grand strategy close to modern versions.”
+
+**Goldsworthy (II.3):** restates Luttwak’s three-phase model (Julio-Claudian client/deep
+deployment; perimeter preclusive defence; 3rd-c. defence-in-depth) and notes support (Ferrill,
+Wheeler) vs critique from Mann and especially Isaac (*Limits of Empire*): east as occupation vs
+external threat; unscientific frontiers; ideology still expansionist. Literary evidence
+accommodates both defensive and expansionist ideologies; post-14 CE conquests rarer for
+**political** reasons (emperor jealousy of generals), not because the army hit absorption limits
+— Luttwak’s “peoples whom the Roman army could not easily defeat” understates flexibility.
+Goldsworthy’s distinctive close: continuous *micro-scale* frontier problems made formal grand
+strategy of limited practical use — emperor controlled legion distribution and major campaigns,
+but hundreds of petty chiefs were handled locally; **“the debate over grand strategy may no longer
+be a helpful one.”**
+
+**Whitby (I.3; II.9):** Luttwak’s modern strategic-planning ideas have been “more fruitful in
+provoking debate… than accepted wholesale” — they “have influenced the terms of the scholarly
+debate.” On preclusive vs defence-in-depth: Zosimus blames Constantine for withdrawing troops
+from Diocletianic frontiers into cities, but may elevate civil-war measures into strategy;
+logistics/internal security and long-standing Syrian city basing offer alternatives.
+**“‘Preclusive’ and ‘in depth’ were not mutually exclusive strategies, and the latter was a
+sensible supplement to the former.”** Strategic aim of one “active” frontier at a time was rarely
+achieved because enemies exploited diversions (Attila 441; Khusro 540).
+
+**Humphries (II.7):** Isaac (1992) rejecting height-of-empire borders as “normal” or as foreign
+policy’s major concern supports critique of teleological frontier-defence narratives. Diplomacy is
+often said to dominate from Theodosius II; fourth-century campaigning emperors already used
+diplomacy as adjunct to war. Late sixth-century practice: ideology of superiority persisted while
+practice shifted to diplomacy and divide-and-rule under multi-front depletion.
+
+**Whitby (frontier studies frame, via Hanson I.1):** contemporary realism treats imperial borders
+as amorphous cultural-osmosis zones; controversy covers fortified lines vs mobile defence-in-
+depth — Luttwak, Isaac, Whittaker, Elton, Ferrill, Wheeler. See also [[grand-strategy]] for the
+etic vocabulary problem and late-antique IR apparatus.
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+[[woolf-rome-empires-story-2012|Greg Woolf]] (Ch. XIII) sides with the anti-Luttwak cluster while offering a constructive comparative alternative. “Historians sometimes write of Rome as having a Grand Strategy, but there is no real sign that any such thing was ever planned or implemented. The deployment of the legions was accidental, the evolving product of incremental changes made in response to immediate needs… The emperors knew where the troops were, how many they were, and what they were owed. But there is no sign they made use of this information to plan for anything but the short term.” When expansion ended, Augustan campaigning armies “stopped in their tracks.”
+
+Yet Rome still developed a **frontier system** like other tributary empires (most common comparison: China’s Inner Asian Frontier): dense bases, signal stations, barriers, control points, and above all roads—Hadrian’s Wall as second-century exemplar, with ditches/ramparts among the latest and least vital components; Vindolanda-style intelligence, subsidies, scouts. “It was not Grand Strategy that preserved either empire, but the tactical advantages given by information superiority,” plus provisioning from a taxed hinterland and mixtures of linear barriers, regulars, and irregular allies. Frontiers developed piecemeal to local circumstances under shared guiding logic. Further Reading flags Luttwak 1976 as the debate’s stimulus. Position only—not adjudicated against Luttwak/Isaac/Whittaker.
+
 ## Related
 
 - The substantive account: [[roman-frontiers]]; the frontier wars
@@ -74,4 +143,5 @@ unsettled strand.
   [[strategic-practice-across-civilizations|practice of strategy across civilizations]]:
   the *Cambridge History of Strategy* adopts Kagan's "objectives + priorities + resource
   allocation" test, on which even pre-modern empires can be said to practise strategy.
-- Source: [[bowman-cah-v11-2000]] (Ch. 8, C. R. Whittaker); [[cambridge-history-of-strategy-v1]]
+- Concept frame: [[grand-strategy]] · related controversy: [[nature-of-roman-imperialism]]
+- Sources: [[bowman-cah-v11-2000]] (Ch. 8, C. R. Whittaker); [[cambridge-history-of-strategy-v1]]; [[sources/goldsworthy-roman-warfare-2000]] (Chs. 4–6, the anti-Luttwak army's-eye view); [[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] (Sidebottom II.1; Goldsworthy II.3; Whitby I.3/II.9; Humphries II.7; Hanson I.1); [[woolf-rome-empires-story-2012]]

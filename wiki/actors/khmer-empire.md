@@ -9,8 +9,8 @@ affiliated_with: ["the [[indianization-of-southeast-asia|Indianized]] Khmer; the
 opposed_by: ["the Cham (Champa)", "later the Thai (Ayutthaya)"]
 key_events: ["Jayavarman II's consecration & the devaraja (802)", "Suryavarman II builds Angkor Wat (12th c.)", "the Cham sack of Angkor (1177)", "Jayavarman VII's rebuilding (Angkor Thom, the Bayon)"]
 key_processes: ["[[indianization-of-southeast-asia]]", "[[state-formation]]", "hydraulic agriculture"]
-sources_ingested: 2
-last_updated: 2026-07-03
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, empire, high-middle-ages, southeast-asia]
 ---
 
@@ -102,8 +102,37 @@ the eighteenth century (part of the [[nam-tien|Vietnamese southward expansion]])
 (1836), imposing Vietnamese administration and assimilation; Siamese war and Khmer revolt forced their
 withdrawal by 1841. See [[nguyen-dynasty]].
 
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+**Foundation and Java problem.** Jayavarman II’s Phnom Kulen ceremony declared independence from **Java** and established a kingdom lasting ~600 years on the north shore of the Tonle Sap. He left **no inscriptions**; the main narrative is *Sdok Kak Thom* (exactly 250 years later—trust debated): came from Java; palace sequence Hariharalaya (Roluos) → Amarendrapura → Mahendraparvata (Kulen); Hiranyadama ritual for one *cakravartin* free of Java, creating the **devarāja**. Speculative: may have been educated in Java and sent as viceroy; Arab Zabag–Khmer-king legend linked temptingly to this. Kulen architecture shows Javanese influence (~800 false doorways; Rong Cen on [[borobudur]]; Cham influence at Damrei Krap). Cham raids **813–817** may have contributed to demise of south Mekong and appearance of a new capital near Angkor. ~800 Khmer were **abolishing money** while Javanese began stamping silver/gold coins.
+
+**Orthogenetic transformation (c. 700–900).** Power/population center moved ~300 km from Mekong Delta to NW Cambodia; new inscription formats, deity names, economic vocabulary; **coinage disappeared**; after 802 land not bought/sold—only barter; bureaucracy supervised distribution. Of 26 Angkor kings only eight were sons/brothers of the previous king—frequent succession disputes. Name “Cambodia” from *Kambuja* first in Indravarman (877–899) inscriptions. Indravarman I: Indratataka baray 3,800 × 800 m (hundred times previous scale); Bakong royal linga Indreśvara 881—first enormous stepped pyramid for royal linga. **Yasovarman I** (~890 move Hariharalaya → Angkor) is “true founder of Angkor” for the authors. Mahidharapura dynasty from **Phimai** replaced the Jayavarman II (Mekong-delta) line and ruled at Angkor’s most glorious phase, changing succession and king–official relations. ~300 Khmer sites identified in Laos and Thailand.
+
+**Middle Classic peak and wars.** Suryavarman I (claimed reign from 1002; overthrew Jayaviravarman c. 1010): new “Dynasty of the Sun”; posthumous Nirvanapada suggests Buddhist; four *Suryavarmeśvara* lingas at kingdom corners; **1012 donated a chariot to Rājendra Cola I**, possibly cementing alliance against [[srivijaya]] before the [[chola-invasion-srivijaya-1025]]. Suryavarman II (king 1113 after slaying Dharanindravarman I on an elephant): targeted [[champa]] for maritime trade access; 1145 captured Cham capital; built Angkor Wat over **28 years (1122–1150)**—moat excavation alone ~5,000 men for 10 years; [CONTRADICTION] funerary-temple reading of Angkor Wat is a misconception based on faulty ancestor-soul concepts (contra Cœdès/Mannikka-style funerary framing still common in art history). Chinese mid-12th-c. sources describe Cambodia from Champa to Bagan and Grahi—possibly biased Khmer embassy geography. Cham sack **1177** (Cœdès: overland chariots failed, then Mekong force); empire maximum size under [[jayavarman-vii]] (Champa ruled by Khmer appointees until 1220; northernmost inscription opposite Vientiane 1186; army with Burmese and Siamese troops invaded Đại Việt 1207). Khmer supremacy over Champa ceased by 1220s. Prayers at Phimai for Indravarman III after 1243 marked end of Angkor’s rule in Khorat. [[sukhothai]] was a main Khmer outpost until 1240s.
+
+**Economy and unfree labour.** Zhou Daguan (1296): Angkor had **no money**; women main market participants; Chinese coins and rice for small purchases, cloth medium, uncoined gold/silver large. Command economy (taxation/redistribution) parallel to [[pagan-kingdom|Bagan]], contrasting insular coinage. Status of most inhabitants closer to **serfdom** than elsewhere in Seasia (people as property donated to temples; by Jayavarman VII name lists >100,000; families transferred; status inherited). Preah Khan inscription: donation of **306,372 clients** and 13,500 villages. Early Classic *pon* founded temples and *trawang* reservoirs; villages up to 1,000.
+
+**Decline reframed.** Beginning of Late Classic coincides with last flourish after Jayavarman VII (~to 1219); empire shrank; no more major temple complexes. By 1420s much weakened after struggles with [[ayutthaya]] and [[champa]]; Borommaracha II conquered Angkor by **1432**. Fifteenth-century Cambodia did **not collapse** but transformed toward Protoclassic [[funan]]-like riverine trading polity at Phnom Penh (Mekong–Tonle Sap confluence); activity continued at Angkor after 1432 (Kok Phnouv ceramics). Postclassic: Angkor among ancient mandalas that faded as Ayutthaya and Bago rose.
+
+*Source: John N. Miksic & Goh Geok Yian, *Ancient Southeast Asia* (Routledge, 2017); [[angkor]]; [[jayavarman-vii]]; [[seasian-classic-periodization]].*
+
+## Fagan & Durrani (2020): the collapse as climate whiplash
+
+Fagan & Durrani (2020) corroborate the founding/building sequence above
+(Jayavarman II, 802 CE; Suryavarman II's Angkor Wat from 1113; Jayavarman
+VII's Angkor Thom from 1181, with its 306,372-servant temple-donation
+inscription) and date the empire's **collapse to c. 1430–1431 CE**. They
+attribute it to combined **Thai (Ayutthaya) military pressure** and a
+**climate whiplash** — a 1300s drought followed by severe monsoon flooding
+that overwhelmed the hydraulic system, evidenced by **tree-ring data** from
+Thailand and Vietnam — reinforcing, with a dendrochronological data point,
+the environmental-fragility reading already discussed on [[angkor]].
+
+Source: Fagan & Durrani (2020), *World Prehistory: A Brief Introduction* (10th ed.).
+
 ## Related pages
 
-[[angkor]] · [[jayavarman-vii]] · [[funan]] · [[indianization-of-southeast-asia]] · [[hinduism]] ·
+[[angkor]] · [[jayavarman-vii]] · [[funan]] · [[sukhothai]] · [[borobudur]] · [[indianization-of-southeast-asia]] · [[hinduism]] ·
 [[mahayana-buddhism]] · [[southeast-asia]] · [[coe-angkor-khmer-civilization-2018]] ·
-[[nam-tien]] · [[nguyen-lords]] · [[siam-chakri-dynasty]] · [[taylor-history-of-the-vietnamese-2013]]
+[[nam-tien]] · [[nguyen-lords]] · [[siam-chakri-dynasty]] · [[taylor-history-of-the-vietnamese-2013]] ·
+[[miksic-goh-ancient-southeast-asia-2017]]

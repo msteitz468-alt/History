@@ -7,8 +7,8 @@ date_range: "1000–1300 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road]
 major_themes: ["the thickening of Afro-Eurasian exchange webs", "the commercial revolution and a 'first globalization'", "the apogee of Song China", "the Crusades and Christian–Islamic frontier conflict", "cultural crystallization across Eurasian ecumenes", "the rise of universities and scholastic learning", "the eve of the Mongol conquests", "demographic expansion across the Old World", "Angkor, Cahokia, and regional apogees beyond Eurasia"]
 collection_coverage: strong
-sources_ingested: 15
-last_updated: 2026-06-27
+sources_ingested: 16
+last_updated: 2026-07-08
 tags: [period]
 ---
 
@@ -335,3 +335,15 @@ Southeast Asia and the interior of sub-Saharan Africa stay comparatively thin. T
 **Taxonomy Used**: contrasts_with, part_of, contributed_to, caused_by (per CLAUDE.md; no conflation).
 **Pages Touched/Updated**: [[abu-lughod-before-european-hegemony-1989]], [[afro-eurasian-world-system]], [[high-middle-ages]].
 **Lint/Compliance Notes**: Range-exclusive; verbatim+lines; established names only; no artifacts; CLAUDE.md compliant. Added to existing claims sections for end matter (Ch11 conclusion + bib/index references).
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Logan’s Ch.7–13: reform–East–crusade benchmarks; twelfth-century orders and devotion; Innocent III and Lateran IV; dissent and friars; universities and cathedrals; later-thirteenth-century popes and kings / Reconquista. See [[gregorian-reform]], [[east-west-schism-1054]], [[fourth-lateran-council-1215]], [[mendicant-orders]]. Source: [[logan-history-of-the-church-in-the-middle-ages-2013]].
+
+## From Gibbon, *Decline and Fall* (Byzantine–crusade arc)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]]; not asserted as modern fact. No dedicated High Middle Ages chapter — claims folded from the eastern narrative.
+
+- **Macedonian peak → Manzikert reverse.** Basil II and the last Macedonian sovereigns as high-water mark “from the sources of the Tigris to the neighborhood of Rome”; [[battle-of-manzikert-1071|Manzikert (1071)]] as the day Asiatic provinces were “irretrievably sacrificed.”
+- **Crusades as third-period content.** First Crusade motive set piece and plenary indulgence; Fourth Crusade as schism-driven diversion that ends nine centuries’ dream of impregnable Constantinople — process detail on [[crusades]], [[first-crusade-1095]], [[fourth-crusade-1204]].
+- **Byzantine languor.** Insulation and lack of emulation as cause of Greek cultural stagnation until contact with Latin crusaders faintly rekindled comparison (see [[gibbonian-decline-thesis]]).

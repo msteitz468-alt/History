@@ -5,8 +5,8 @@ origin: "Edward N. Luttwak, The Grand Strategy of the Byzantine Empire (2009); c
 applies_to_periods: [late-antiquity, early-middle-ages, high-middle-ages]
 applies_to_regions: [balkans, anatolia, near-east, mediterranean-world, steppe]
 contested: yes
-sources_ingested: 0
-last_updated: 2026-06-23
+sources_ingested: 1
+last_updated: 2026-07-08
 tags: [concept, strategy, byzantine, diplomacy, warfare, late-antiquity]
 ---
 
@@ -30,3 +30,9 @@ Complements and extends [[grand-strategy]], [[armed-suasion]], and Luttwak's par
 Luttwak's strategist perspective highlights systemic method in texts often read for tactics alone. Engages broader debates on whether "grand strategy" is anachronistic. Cross to specialist Byzantine military historians (Dennis, Haldon, Kaegi, McGeer, etc.).
 
 Scaffold created to receive claims from Luttwak 2009. Cross-references existing Luttwak material and Byzantine pages ([[byzantine-empire]]).
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **Maritime empire after Justinian.** End-Justinian reconquest transformed strategic geography: power keys no longer Illyrican roads and fortified cities but major ports (Carthage, Cartagena, Marseilles, Genoa, Portus, Naples, Lilybaeum, Syracuse, Otranto, Brundisium, Ancona, Ravenna, Venice, Salona) for armies, officials, tax, and food. Same maritime logic later explains residual Italian holdings vs Lombards and eventual ability to hold the capital while losing land depth in Balkans/Levant—a strategic structure complementary to Luttwak’s diplomacy-and-maneuver model.

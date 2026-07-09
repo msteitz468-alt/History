@@ -20,8 +20,8 @@ key_events:
   - Elimination of Crusader coastal ports (1263–68)
 key_processes:
   - "[[post-mongol-islamic-world]]"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags:
   - actor
   - person
@@ -63,3 +63,62 @@ Baybars' reign set the institutional pattern for the Mamluk sultanate's subseque
 This system — admired for its military efficiency, criticized for its exclusion of civilian society from political life — characterized Mamluk governance until the Ottoman conquest of 1517.
 
 Source: [[hodgson-venture-of-islam-v2-1974]], Book Four, Chapter I.
+
+## Cobb: rise, strategy, conquests, diplomacy, death
+
+[[cobb-race-for-paradise-2014|*The Race for Paradise*]] fills operational and political
+detail around the Hodgson institutional sketch. Early Mamluk years were tumultuous; the
+Bahri faction was expelled; Baybars, its unofficial leader, served Ayyubid **al-Nasir Yusuf**
+of Damascus. **Qutuz** seized the Egypt sultanate (1259) amid the Mongol threat. Hülegü
+took Aleppo (Jan 1260); the Damascene army broke; al-Nasir Yusuf fled, was captured, and was
+put to death; Baybars returned to Cairo under Qutuz’s amnesty. Damascus fell March 1260
+(local Christians said to have celebrated — Eastern Christian Mongol allies; relief of
+dhimmi status). After [[battle-of-ain-jalut-1260|Ayn Jalut]] (3 Sept 1260), Qutuz reorganized
+Syria; Baybars, passed over for the Aleppo reward, arranged Qutuz’s killing on the Egypt
+desert border and had himself proclaimed sultan. Publicly enthroned 25 Nov 1260; formally
+invested July 1261; titles including “The Conquering King…”; **lion** emblem; *al-Salihi*
+epithet on coins. He revived the [[abbasid-caliphate|Abbasid]] office after its Mongol
+extinction at Baghdad (1258): two minor Abbasid aristocrats; the first caliph conferred the
+sultan title on Baybars **4 July 1261**; “shadow caliphs” in Egypt until Mamluk demise
+(1517).
+
+**Strategy (after Hülegü’s death, 1265).** Capture inland strongholds and regarrison; capture
+coastal towns and **demolish** them (Muslim navies could no longer compete in the
+Mediterranean); harass villages supplying Franks (native Christians fair game). A chronicler:
+“One part of the army uproots Frankish castles… while another rebuilds what the Mongols have
+destroyed in the East.”
+
+**Major operations (selected, numbers hedged as reported).** 1265: Caesarea fell late
+February (siege ladders said from bridles), fortifications demolished, town burned; Haifa
+razed; Athlit not taken; Arsuf Hospitaller garrison surrendered for free passage — Baybars
+sent them into captivity anyway. 1266: Templar fortress **Safad** captured; Frankish
+prisoners killed (revenge for a slain companion) rather than ransomed; fortress repaired and
+manned with mamluks — became a principal Mamluk (later Ottoman) Palestinian city; Cilician
+Armenia expedition sacked Tarsus, Adana, Ayas, Sis (cathedral burned; “tens of thousands”
+captives said taken). 1268: Jaffa dismantled (context Louis IX preparing another crusade);
+Beaufort/Shaqif Arnun repaired; Ascalon fortifications dismantled (already Muslim-held).
+May 14 before Antioch; May 18 breach near Mt. Silpius; only citadel garrison safe conduct;
+others killed; loot to mamluks; Baybars’s share underwrote a Cairo mosque; gloating letter to
+Bohemond (then in Tripoli). Capture cleared northern Syria of Franks for good; Nizari forts
+including **Masyaf** taken. Edward I at Acre had little impact; Mongol joint-operation talks
+produced only a minor raid Baybars dispatched; Baybars was said to have tried to assassinate
+Edward with Nizari help. 1271: Safitha (Chastel Blanc); **Crac des Chevaliers** (Hisn
+al-Akrad) — sappers brought down the outer wall; garrison allowed withdraw to Tripoli
+(clemency read as Franks no longer a serious threat); Montfort and ʿAkkar by June 1271 —
+Syria cleared of all inland Frankish castles. Defeat only at coastal Maraqiyya when Frankish
+ships assisted. Truce with Bohemond VI (Edward still at Acre).
+
+**Diplomacy (carrot-and-stick).** 1261 pacts: barley/flour by sea from Damietta to Jaffa
+before force; count of Jaffa presented obedience; truce status quo of the last Ayyubid of
+Aleppo/Damascus — modern scholars have read a “semi-feudal” relationship with Jaffa and
+Beirut; Acre embassy poorly received, raid instead. Hospitaller treaties 1265/66–1267,
+harsher 1271 (cede lands, share revenues). After Bohemond VI’s death before a ten-year truce
+limit, Baybars pressed claims on the minor successor — Latakia and ʿArqa. (Wider Christian
+diplomacy: see [[mamluk-sultanate]].)
+
+**Death and succession note.** Died Damascus 30 June 1277 after an Anatolia campaign
+(Abulustayn/Elbistan Mongol force destroyed 1277; Saljuq allies no-show). Buried near
+Saladin; oral epic cycle secured immortality. His sons did not hold the sultanate: after
+Baraka’s forced abdication and a short-lived successor, old Bahri colleague **Qalawun**
+supplanted the house (1279) and continued the plan that culminated under al-Ashraf Khalil at
+[[fall-of-acre-1291|Acre (1291)]].

@@ -9,8 +9,8 @@ affiliated_with: [[[philip-ii-of-macedon|Philip II]] (hegemon), [[alexander-the-
 opposed_by: [[[sparta]] (refused to join), anti-Macedonian factions]
 key_events: [the congress at Corinth 337 BCE, the declaration of war on Persia, the succession of Alexander as hegemon 336 BCE]
 key_processes: [Macedonian hegemony over Greece, the Common Peace tradition]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, organization, classical-antiquity, central-greece, greece]
 ---
 
@@ -63,6 +63,21 @@ mainland during his Asian campaigns, and the device by which his Persian war was
 the name of the Greeks." Its collapse after Alexander's death (the **Lamian War**, 323–322)
 confirmed that Greek freedom, in any meaningful sense, had ended at Chaeronea.
 
+## Sparta's holdout and the Megalopolis revolt (331)
+
+[[osborne-classical-greece-2000|Osborne (ed.), *Classical Greece 500–323 BC* (2000)]]
+confirms that **[[sparta]] refused to join the League of Corinth** from the outset and
+did not join the anti-Macedonian uprisings that followed Philip's assassination. Sparta
+finally moved in **331**, when Persian naval successes in the Aegean (333/2) suggested
+Alexander might yet be defeated and Spartan overtures for revolt gained traction; the
+Macedonian regent **Antipater** crushed the rising in a battle at **Megalopolis (331)**
+that left, on Osborne's figure, "some thousands" dead (a total of 5,300 is given in the
+source but should be treated as an approximate order of magnitude rather than an exact
+count). Athens notably did **not** join Sparta's 331 revolt — and, in a telling mirror,
+when Athens itself rose after Alexander's death (323), neither Sparta, Arcadia, nor
+Boeotia came to Athens's aid, underscoring how thoroughly Chaeronea and the League had
+fragmented any capacity for coordinated Greek resistance.
+
 ## The Antigonid refounding (302)
 
 The "Hellenic League" name and form were revived once more. [[walbank-cah-v7-1-1984|CAH
@@ -83,4 +98,4 @@ tradition of using Greek liberty as a weapon among the kings.
 - Hegemon: [[philip-ii-of-macedon]] → [[alexander-the-great]] · refused: [[sparta]] · model: [[kings-peace-386bce]]
 - Hellenistic afterlife: refounded 302 by [[antigonus-i-monophthalmus]] & [[demetrius-i-poliorcetes]] · collapse: [[lamian-war-323]]
 - Origin: [[battle-of-chaeronea-338bce]] · purpose: war on [[achaemenid-empire|Persia]] · context: [[city-state]] · [[greek-federalism]]
-- Sources: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 15, Ellis) · [[walbank-cah-v7-1-1984|CAH VII.1]] (Will, ch. 2; the 302 refounding)
+- Sources: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 15, Ellis) · [[walbank-cah-v7-1-1984|CAH VII.1]] (Will, ch. 2; the 302 refounding) · [[osborne-classical-greece-2000|Osborne (ed.) 2000]] (Ch. 9; Sparta's holdout and 331 revolt)

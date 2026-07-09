@@ -9,8 +9,8 @@ affiliated_with: [[[papacy]], [[gregorian-reform]], [[cluny]]]
 opposed_by: [[[henry-iv-holy-roman-emperor|Henry IV]], "the antipope Clement III (Wibert of Ravenna)"]
 key_events: [[[first-crusade-1095|the First Crusade]], "the Council of Clermont (1095)", "the Council of Piacenza (1095)"]
 key_processes: [[[gregorian-reform]], [[crusades]], [[papal-monarchy]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, mediterranean, western-europe]
 ---
 
@@ -51,8 +51,17 @@ relations for centuries. Riley-Smith's reading (NCMH IV) makes him the indispens
 synthesiser, not the lone inventor: the materials lay ready in the reform, but it was
 Urban who assembled them.
 
+## From Logan, *A History of the Church in the Middle Ages* (2013)
+
+[[logan-history-of-the-church-in-the-middle-ages-2013|Logan]] dates Clermont precisely: on **Tuesday 27 November 1095** Urban mounted a platform in a field outside the gates and announced a holy war before a throng “numbering at least in the hundreds.” Exact words unrecorded; four later accounts reconstruct the sermon. He called knights who warred on brothers to become soldiers of Christ against the heathen; Jerusalem/Holy Sepulchre as goal soon included; the crowd cried **“Deus le volt”** — the crusades’ motto. Bishop of Le Puy and others volunteered (possibly choreographed). Urban then preached across France (Limoges, Toulouse, Angers, Tours) and appointed the bishop of Le Puy legate-leader to check princely discord.
+
+Logan’s Cluny note matches this page: before the end of the eleventh century Cluny placed on Peter’s chair two popes of exceptional abilities, **Urban II (1088–99)** and Paschal II (1099–1118). On investiture aftermath, Logan holds that Urban **lowered the rhetoric** of the contest after Gregory’s maximalism.
+
 ## Related
 
 - [[crusades]], [[first-crusade-1095]] — the movement and expedition he launched.
 - [[gregorian-reform]], [[gregory-vii]] — the reform he inherited and stabilised.
 - [[cluny]] — his monastic formation.
+- [[peace-and-truce-of-god]] — prior restraints on knightly violence.
+- [[logan-history-of-the-church-in-the-middle-ages-2013]]
+

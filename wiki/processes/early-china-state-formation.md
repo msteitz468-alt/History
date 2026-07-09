@@ -8,8 +8,8 @@ region: [china, east-asia]
 process_type: [political, demographic, economic, environmental]
 driven_by: [environmental circumscription, Yellow River flooding and course changes, factional competition and feasting, craft specialisation and prestige-goods exchange, regional interaction and warfare]
 produces: [[[longshan-culture|Longshan chiefdoms]], [[taosi|the Taosi polity]], [[erlitou-culture|the Erlitou state]], [[shang-dynasty|the Shang state]]]
-sources_ingested: 3
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [process, neolithic, chalcolithic, early-bronze-age, china, east-asia]
 ---
 
@@ -105,6 +105,20 @@ synchronous trigger of Late Neolithic collapse across regions (Longshan, Liangzh
 flood-sands over Liangzhu paddies at Maoshan as direct evidence) — "social explanations cannot account
 for the synchronicity of collapse… at a large regional scale." **Source:**
 [[barnes-archaeology-east-asia-2015]].
+
+## Fagan & Durrani (2020): independence from the West, Yu, and the Shang capitals
+
+Fagan & Durrani (2020) reinforce the page's central thesis — **independent
+(pristine) state formation** in China, unconnected to developments in the
+west: "Early Chinese civilization emerged independently of state-organized
+societies in the west," and Shang bronzeworking "developed quite
+independently from the West before 2000 BC." They record the legendary
+founder **Yu the Great** (associated with flood control) within the Xia
+tradition, and name the successive **Shang capitals Ao** (Zhengzhou) and
+**Yin** (Anyang) — consistent with the Erlitou→Zhengzhou→Anyang settlement
+sequence already documented above via Maisels and Barnes.
+
+Source: Fagan & Durrani (2020), *World Prehistory: A Brief Introduction* (10th ed.).
 
 ## Related
 

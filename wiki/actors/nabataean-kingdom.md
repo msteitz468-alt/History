@@ -144,6 +144,45 @@ uncontested, peaceful annexation in 106 also set a template Rome would not alway
 replicate with its more fractious client states (contrast [[palmyra|Palmyra]] under
 [[zenobia|Zenobia]]).
 
+## Fisher (2020): Origins, trade, and annexation
+
+Greg Fisher (*Rome, Persia, and Arabia*, 2020) largely corroborates Ball while adding
+independent classical testimony. Josephus, Strabo, and Diodorus Siculus all call the
+Nabataeans "Arabs"; Diodorus (drawing on Hieronymus of Cardia, a Hellenistic court
+historian) portrays them c. 300 BCE as still nomadic, deliberately avoiding agriculture,
+wine-making, and permanent housing — practicing viticulture was reportedly a capital
+offense, reflecting a self-conscious rejection of settled life as a defense against
+subjugation: "they believe that those who possess these things are... easily compelled by
+the powerful to do their bidding" (Diodorus 19.94.2–10). Recent archaeology dates
+settlement at Petra itself to the 4th–3rd century BCE. Fisher stresses that despite
+Strabo's access to an eyewitness (his friend Athenodorus), no Nabataean inscription ever
+uses "Arab" as self-identification.
+
+Nabataean wealth rested on trade in frankincense, myrrh, and spices carried up from
+"Arabia Eudaemon" via Petra to Gaza, refined and taxed en route (Diodorus 19.94.4–5);
+territory stretched from the Decapolis borderlands and Sinai to the Negev, Ayla (Aqaba),
+Hegra in the Hijaz, the oasis of Dumah, and the Red Sea port of Leuke Kome. Petra's
+"combination of inaccessibility and defensibility" repelled campaigns by Antigonus the
+One-Eyed and his son Demetrius "the Besieger," the latter abandoning his siege after
+Nabataean envoys argued subjugation was futile. Kings later pushed north to Damascus as
+Seleucid power waned; friendship with Rome developed unevenly after Pompey's 63 BCE
+settlement, punctuated by border skirmishes (62–55 BCE). King Maliku I sent forces to
+support Antony before Actium (31 BCE) while simultaneously fending off a Herodian punitive
+raid; after Antony's defeat, "the Arabians about Petra" burned part of Cleopatra's fleet
+(Plutarch, *Antony* 69.3). Nabataea flourished under Aretas IV (9 BCE–41 CE), Malichos II
+(41–70), and Rabbel II (70–106) despite Egyptian and Palmyrene competition for the eastern
+trade routes; Bostra and the Hauran saw agricultural expansion under Rabbel II.
+
+A Nabataean contingent accompanied the [[aelius-gallus-expedition-26bce|Aelius Gallus
+expedition]] into South Arabia in 26 BCE; two Sabaean inscriptions near Najran record a
+clash with Nabataean forces (possibly these same auxiliaries) before friendly relations
+were restored. In 106 CE the governor of Syria, Cornelius Palma, annexed the kingdom on
+Rabbel II's death to form the province of Arabia — see
+[[roman-annexation-of-nabataea-106]]; Roman coinage celebrated "Arabia adquisita"
+("acquired," not "captured"), and no significant military confrontation is attested. The
+Nabataean army was absorbed into Roman auxiliary service, still using pre-106 Nabataean
+military terminology in inscriptions decades later.
+
 ## Historiography
 
 The main modern source for this page is David Ball's *Rome in the East* (2000), whose
@@ -164,5 +203,8 @@ East*, 1993) generally reads the region as more thoroughly Graeco-Roman in chara
 - [[roman-syria|Roman Syria]]
 - [[roman-eastern-trade|Roman Eastern Trade]]
 - [[orientalization-of-rome-thesis|Orientalization of Rome (thesis)]]
+- [[aelius-gallus-expedition-26bce|Aelius Gallus Expedition (26 BCE)]]
+- [[roman-annexation-of-nabataea-106|Roman Annexation of Nabataea (106 CE)]]
 
-Source: [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]].
+Source: [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]];
+[[sources/fisher-rome-persia-arabia-2020|Fisher, *Rome, Persia, and Arabia* (2020)]].

@@ -9,8 +9,8 @@ affiliated_with: [the University of Prague, the Bohemian reform movement, the Cz
 opposed_by: [the Council of Constance, the papacy, Archbishop Zbyněk, the German masters of Prague]
 key_events: [the Kutná Hora decree (1409), his excommunication (1411), the Council of Constance, his execution (1415), the Hussite Wars]
 key_processes: [the Bohemian reform, the rise of the vernacular, conciliarism]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-middle-ages, eastern-europe]
 ---
 
@@ -60,9 +60,30 @@ making martyrdom the rallying point of the [[hussite-wars-1419|Hussite Wars]]. A
 Luther, Hus prefigured the Reformation; the Czechs' wounded pride at his condemnation, contemporaries
 noted, "foreshadowed the devotion of Germans to Luther."
 
+## From F. Donald Logan, *A History of the Church in the Middle Ages* (2013)
+
+### Czech–German context and rise
+
+Pre-Wyclif Bohemia already saw Czech resentment of German dominance (<10% of population) over the University of Prague and higher church ranks. Hus joined protest at **Bethlehem Chapel** (1402) while a theology student; eloquence and sincerity made him foremost Czech nationalist voice and pre-eminent reform preacher against clerical vice. He discovered and translated a [[wyclif-john|Wyclif]] work into Czech; Wyclif’s ecclesiology (only righteous churchmen have genuine authority) particularly appealed, but violent attacks on simony and greed sparked archiepiscopal restriction he refused to obey. Transmission of Wyclif’s teachings via Richard II’s marriage to Anne of Bohemia (1382) is the English–Bohemian bridge.
+
+### Escalation to 1413
+
+After Wycliffite propositions were condemned at Prague (1407), Hus refused to join the condemnation; a mob stirred by his sermon sacked the archbishop’s palace (c.1409); the archbishop burned Hus’s works and excommunicated him; by 1412 Prague was near revolt; in July 1412 Hus defended five condemned propositions as capable of orthodox interpretation; execution of three followers for riot-incitement made martyrs; Wenceslaus moved to destroy nationalism and heresy; John XXIII’s poorly attended Rome council (Feb 1413) condemned Wyclif’s writings because of Bohemia.
+
+### Constance—safe-conduct, trial, and execution (full fidelity)
+
+Hus went to [[council-of-constance-1414|Constance]] on Sigismund’s urging with a **safe-conduct** and lifted excommunication, expecting university-style disputation. He insisted the papacy was man-made and the church built on Christ not Peter. John XXIII placed him under house arrest; after John’s fall, **d’Ailly** and **Gerson** pressed the case. Trial **5 July 1415** before Sigismund with d’Ailly prosecuting—**30 allegedly heretical propositions** from *De ecclesia*; Hus denied teaching them and would not abjure what he never taught. **The following morning after Mass in the cathedral** Hus was condemned, given a paper hat “**heresiarcha**,” handed to the secular arm, and **burned within hours**—“John Hus was devoured by flames.”
+
+Logan notes the **irony** that d’Ailly, Gerson, and a decidedly conciliarist council found Hus’s antipapal views **too radical**, despite their own conciliarism.
+
+### Aftermath
+
+Rioting followed in Prague; Hussites became a Bohemian force often associated with Czech national aspirations, though many Czech nationalists were not Hussites and Hussites came to include Germans—path to the [[hussite-wars-1419|Hussite Wars]].
+
 ## Related
 
 - `contributed_to:` the [[hussite-wars-1419|Hussite revolution and wars]] (its direct trigger).
-- `caused_by:` the ideas of **John Wyclif** and the [[late-medieval-lay-religion|late-medieval reforming impulse]]; `concurrent_with:` the [[great-schism-1378|Great Schism]] and [[conciliarism|the councils]].
+- `caused_by:` the ideas of **[[wyclif-john|John Wyclif]]** and the [[late-medieval-lay-religion|late-medieval reforming impulse]]; `concurrent_with:` the [[great-schism-1378|Great Schism]] and [[conciliarism|the councils]].
 - `analogous_to:` Martin Luther and the [[protestant-reformation-1517|Reformation]] (a century later).
 - `part_of:` the [[holy-roman-empire-late-medieval|Empire]] (the kingdom of Bohemia) and the rise of the vernacular.
+- [[council-of-constance-1414]] · [[logan-history-of-the-church-in-the-middle-ages-2013]]

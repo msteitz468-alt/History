@@ -9,8 +9,8 @@ affiliated_with: [the Mermnad dynasty (Gyges to Croesus), Sardis, the Greek citi
 opposed_by: [the [[cimmerians|Cimmerians]], the Ionian Greek cities, the Medes, [[achaemenid-empire|Persia]] (Cyrus)]
 key_events: [Gyges's embassy to Ashurbanipal, the Cimmerian capture of Sardis, the invention of electrum coinage, the Lydo-Median war and eclipse of 585, the fall of Sardis to Cyrus (546)]
 key_processes: [state expansion, the invention of [[coinage|coinage]], Hellenization]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, state, archaic-period, anatolia]
 ---
 
@@ -120,10 +120,14 @@ and the **archaeology of Sardis and the Bintepe tumuli** (the giant mounds of Gy
 Alyattes). Mellink interweaves the Lydian and [[phrygians|Phrygian]] sequences via the
 shared Cimmerian crisis and tumulus-burial tradition.
 
+### Hall (2014) — Lydian pressure on Asiatic Greeks
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] (Excursus IV frame for Persian Wars): traces Greek–Persian conflict causes back to Lydians of Sardis. Gyges attacked Miletus/Smyrna and took Colophon; under Croesus remaining coastal cities — though **not** the offshore islands of the eastern Aegean — were conquered and made tributary before Cyrus destroyed Croesus’s empire. Electrum coinage origins include lion-head types linked to Lydia among the Ephesus Artemis temple deposit. Delphi remained open to Lydian kings as elite “tournament of value” partners — Greek/non-Greek aristocratic borders were porous before 480 “barbarian” ideology.
+
 ## Related
 
 - Capital: [[sardis]] · Predecessor kingdom: [[phrygians]] · Foe: [[cimmerians]] · Conqueror: [[achaemenid-empire]]
 - Allies: [[saite-egypt]] · Delphi · Bequest: [[coinage]] · Adversary-empire: [[neo-assyrian-empire]] ([[ashurbanipal]])
 - Eastern Greeks: [[ionia]] · [[polycrates|Samos]] · Sardis as "metropolis of the Greek East"
 - Persian successor-rule: [[achaemenid-empire]] · [[dascylium]] · [[greco-persian-art]] · [[ionian-revolt]]
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 34a, Mellink) · [[boardman-cah-v3p3-1982]] (Ch. 39a, Cook) · [[boardman-cah-v4-1988]] (Ch. 3e, Mellink)
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p2-1991]] (Ch. 34a, Mellink) · [[boardman-cah-v3p3-1982]] (Ch. 39a, Cook) · [[boardman-cah-v4-1988]] (Ch. 3e, Mellink) · [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

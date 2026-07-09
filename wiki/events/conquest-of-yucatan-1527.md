@@ -31,7 +31,7 @@ consequences:
   - Massive slavery export, tribute, and demographic collapse
   - Long-run process [[lowland-maya-colonial-modern]]
   - Encirclement policy and incomplete control of southern forests
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-08
 tags: [event, early-modern, mesoamerica, conquest]
 ---
@@ -106,6 +106,10 @@ Jones notes that published Spanish colonial sources for Yucatán are **less exte
 
 Jones’s own *Maya Resistance to Spanish Rule* and *Conquest of the Last Maya Kingdom* are the standard modern treatments of the southern frontier and 1697. Roys’s contact ethnography (*Indian Background*, *Political Geography*) is path-breaking; Quezada revises Roys with early colonial research. Clendinnen *Ambivalent Conquests* frames the mid-sixteenth-century Franciscan idolatry inquisition. Restall *Maya Conquistador* and *Maya World* center Maya-language perspectives. Ethnic historiography of southern Yucatecan speakers remains contested (Thompson’s “Chan Mayas” vs. Postclassic migration vs. deep Yucatecan antiquity — Jones favors great antiquity of Yucatecan presence in much of the southern lowlands).
 
+## From Evans & Webster 2001
+
+Encyclopedia contrast with highland conquest ([[evans-webster-archaeology-ancient-mexico-central-america-2001]]): northern Maya in Yucatán **resisted Spanish attacks much more effectively**, repelling many attacks until final subjugation in the **1540s**; more isolated interior groups longer; Petén Itzá until **1697**. Spanish armies and highland Indian allies had **quickly conquered** Quiché and Cakchiquel in the mid-1520s ([[conquest-of-guatemala-1524]]). Early contact vignette: Juan Díaz (Grijalva expedition chaplain) in **1518** compared **Tulum**’s scale to Seville, noting a “very great tower.” Spanish first encountered northern Maya roughly half a century after [[mayapan|Mayapan]]’s mid-fifteenth-century fall.
+
 ## Related
 
-[[lowland-maya-colonial-modern]] · [[maya-civilization]] · [[spanish-conquest-of-mexico-1519]] · [[caste-war-yucatan-1847]] · [[chichen-itza]] · [[encomienda]] · [[spiritual-conquest-and-colonial-church]] · [[virgin-soil-epidemics]] · [[colonial-mesoamerica-native-peoples]] · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Jones Ch. 20)
+[[lowland-maya-colonial-modern]] · [[maya-civilization]] · [[mayapan]] · [[chichen-itza]] · [[conquest-of-guatemala-1524]] · [[spanish-conquest-of-mexico-1519]] · [[caste-war-yucatan-1847]] · [[encomienda]] · [[spiritual-conquest-and-colonial-church]] · [[virgin-soil-epidemics]] · [[colonial-mesoamerica-native-peoples]] · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Jones Ch. 20) · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster encyclopedia]]

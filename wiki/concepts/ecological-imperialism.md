@@ -30,6 +30,7 @@ Ecological imperialism is distinct from (but intertwined with):
 - Political/military imperialism (guns, administration, capital).
 - The initial Columbian Exchange (1492+), which Crosby had already analyzed; this work extends the story into the mechanisms of sustained replacement and the 19th-century "civilian wave" of mass migration.
 - Pure geographic determinism (see related controversy pages and Diamond critiques).
+- **Woolf's "imperial ecology"** ([[imperial-ecology]]): a different term for pre-modern Mediterranean environmental conditions of Roman empire — *not* Crosby's Neo-Europe biota model. Woolf explicitly contrasts Roman expansion (shared Old World domesticates; piecemeal impact) with post-1492 Columbian-scale ecological upheaval ([[woolf-rome-empires-story-2012]]).
 
 ## Historiographic Significance
 

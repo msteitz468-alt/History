@@ -5,8 +5,8 @@ origin: an analytical frame developed by Anthony Reid and the "manpower-state" s
 applies_to_periods: [Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern]
 applies_to_regions: [southeast-asia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -75,3 +75,11 @@ on the mainland that the pure manpower-and-followers picture understates. The ca
 covers a wide spectrum — from chattel war-captives to honoured debt-clients — and translating it by the
 Atlantic-world term risks distortion. As a heuristic for why power in the region was reckoned in people
 rather than acres, however, it remains foundational.
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+[[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] document **Classic-period** legal/institutional detail that anchors Reid's early-modern manpower model in earlier Javanese, Balinese, and Khmer practice.
+
+**Java and Bali: debt and sima sanctuary.** Late 9th-c. Java: villagers unable to repay debts fled to *sima* (tax-free religious zones); debtors apparently could not pursue them there — sanctuary function of religious estates. *Sima* dwellers free to leave; status desirable especially for wage workers; inscriptions limit occupational numbers to prevent tax escape. Balinese debtors could likewise find refuge from creditors in *sima* and pay debts in installments, as in Java. Concurrent_with [[mataram-kingdom]].
+
+**Angkor contrast.** In other regions servitude seems consequence of particular misfortune (unpaid debt or war capture); at Angkor, people listed as property/deeds of donation — serfdom-like **inherited unfreedom**, "the fate of normal human beings" rather than misfortune-based servitude. Contrasts_with Angkorian serfdom vs Javanese/Balinese debt-bondage spectrum — important internal differentiation within the manpower-state model.

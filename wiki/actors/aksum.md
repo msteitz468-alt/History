@@ -9,8 +9,8 @@ affiliated_with: [Rome/Byzantium (ally and trading partner), the Indian Ocean tr
 opposed_by: [the [[kush-meroe|Kingdom of Kush]] (conquered c. 350 CE), Sasanian Persia, the early Caliphate]
 key_events: [rise to prominence late 1st c. BCE, establishment of Adulis as a treaty port, conquest of Kush c. 350 CE, conversion to Christianity (4th c.), control of Yemen (early 6th c.), collapse and relocation c. 700 CE]
 key_processes: [[[indian-ocean-trade]], [[trade-network-formation]], [[empire]], [[christianization]]]
-sources_ingested: 5
-last_updated: 2026-06-27
+sources_ingested: 6
+last_updated: 2026-07-08
 tags: [actor, state, late-antiquity, horn-of-africa]
 ---
 
@@ -193,3 +193,47 @@ synthesis of Aksumite archaeology, epigraphy, and numismatics. Key findings inte
 - **Territorial expansion**: A gradual process beginning before the fourth century, documented mainly
   through Ezana's inscriptions; should not be read as mainly a fourth-century phenomenon. See
   [[aksumite-expansion|Aksumite Territorial Expansion]].
+
+## Fisher (2020): Kaleb's conquest of Himyar and Abraha's independence
+
+Fisher (*Rome, Persia, and Arabia*, 2020) supplies the Arabian-side sequel to Aksum's 6th-
+century expansion. Around 500 CE, Aksumite king **Kaleb Ella Asbeha** conquered
+[[himyar|Himyar]], deposing its Jewish kings and enthroning Christian nominees (first
+Marthadilan Yanuf, then the staunchly pro-Aksum Madikarib Yafur); a Geez stela from Aksum
+records the campaign and the founding of a Christian "sanctuary" in Himyar. When
+Madikarib's successor, Joseph (Dhu Nuwas/Yusuf), rebelled against Aksumite overlordship in
+late 522 — massacring the Aksumite garrison at Zafar and then besieging and massacring the
+Christians of Najran in 523 (see [[najran-massacre-523]]) — Kaleb responded with a second
+invasion (possibly with Roman naval support) that toppled Joseph, restored Christian rule
+at Zafar, and triggered an anti-Jewish pogrom.
+
+Kaleb's appointee **Sumuyafa Ashwa** was later overthrown (after 531) by **[[abraha]]**,
+"sometimes thought to be the son of a slave from Adulis in Aksum," who rebuffed two
+attempts by Kaleb to unseat him and, unlike his predecessor, ruled as an independent king
+of Himyar — using Sabaic rather than Geez in his inscriptions and aligning his Christianity
+with Syrian rather than Aksumite tradition. In 547 Abraha convened a diplomatic conference
+at Marib attended by delegates of Aksum, Rome, and Persia (Aksum and Rome ranked above
+Persia), alongside envoys of [[al-harith-ibn-jabala]], his brother Abu Karib, and
+Alamoundaros (**[[al-mundhir-iii-lakhmid]]**) — though Fisher notes he pointedly excluded
+Himyar's own Arab allies. Abraha's semi-legendary campaign against Mecca (the "Year of the
+Elephant" tradition) is treated by Fisher as historically uncertain, though possibly real
+and likely late in his reign (555–565). After Abraha's death c. 565, his sons Yaksum and
+Masruq failed to hold Himyar; a Persian invasion under Khusrau I's general Miranes captured
+Masruq and ended the independent Himyarite state, closing the period of direct
+Aksumite/Himyarite entanglement that Kaleb had opened.
+
+Source: [[sources/fisher-rome-persia-arabia-2020|Fisher, *Rome, Persia, and Arabia* (2020)]].
+
+## Fagan & Durrani (2020): a world ranking and the Christian conversion
+
+Fagan & Durrani (2020) place Aksum's international standing in relief: the
+3rd-century **Persian prophet Mani** ranked Aksum among the **four greatest
+kingdoms in the world**, alongside **Rome, China, and Persia** — striking
+external testimony to Aksum's stature in Red Sea/Indian Ocean commerce.
+Aksum flourished roughly **100–1000 CE**; King **Ezana's conversion to
+Christianity** (c. 325–350 CE) made it "one of the oldest Christian kingdoms
+in the world," consistent with Phillipson's more precise dating above. Fagan
+& Durrani attribute Aksum's eventual **decline** to the 7th-century rise of
+Islam, which took over dominance of Red Sea trade routes and cut Aksum off
+from the commerce that had sustained it — broadly corroborating the
+Persian-seizure-of-Himyar/Arab-conquest account already on this page.

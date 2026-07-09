@@ -152,6 +152,39 @@ propaganda value of the Abgar-Christ correspondence in later ecclesiastical disp
 apostolic authority — would not have existed, potentially altering how Syriac Christianity
 positioned itself relative to Rome and Constantinople.
 
+## Fisher (2020): Founding, the "governor of ʿrb," and annexation
+
+Fisher (*Rome, Persia, and Arabia*, 2020) confirms Edessa (also "Antioch Callirhoe") was
+founded by Seleucus I in 303/2 BCE on an existing settlement with reliable water, well
+placed on Silk Road routes near a major Euphrates crossing. It fell under the Abgarid
+dynasty c. 132 BCE as Seleucid control lapsed, becoming under Parthian influence the
+principal city of Osroëne, part of the "Parthian Near West" client scattering alongside
+Adiabene, [[hatra|Hatra]], and [[characene|Characene]]. Old Syriac inscriptions from
+Sumatar Harabesi refer to a "governor of ʿrb" ("Arab") holding office under royal
+authority — named governors include Tiridates, installed by the Parthian king Vologases
+IV — though Fisher stresses the term likely denoted a region, not an ethnonym, of unclear
+extent (possibly reaching the Tigris).
+
+During Crassus's Parthian campaign (54/3 BCE), later sources name the "Arab chieftain" who
+lured Crassus to disaster (Plutarch's "Ariamnes") as Mazarus/Abgar II, king of Edessa —
+likely the same figure as Cassius Dio's Abgar, whose Osroënean troops attacked Crassus's
+rear at [[battle-of-carrhae-53bce|Carrhae]]. Fisher questions the "betrayal" framing:
+Edessa was already a Parthian ally, and Crassus's own hubris and leadership failures
+likely bore more responsibility — Arabs, he argues, made "better scapegoats" for Roman
+authors. King Abgar VII (109–116 CE) pledged friendship to Trajan out of necessity but
+later revolted with much of Mesopotamia; Edessa was sacked and burned by Roman forces in
+116 CE. Vologases IV attacked Edessa again in 161 CE, deposing king Manu VIII; Avidius
+Cassius recaptured the city in 165, reinstalling Manu VIII, who was styled on coinage
+"King Mannus, friend of the Romans" (*philoromaios*).
+
+Osroëne was annexed as a Roman province in 195 CE under Septimius Severus, though King
+Abgar VIII retained his crown and was honored as "king of kings," styling himself "Lucius
+Aelius Septimius Abgar" on coinage. The Edessan monarchy was finally dissolved by
+Caracalla; a Greek epitaph from Rome refers to "the former king Abgar," perhaps Abgar IX
+Severus. Edessa became a Roman colony, then passed to direct administration in 243 CE, and
+remained Roman until the 7th century, when it capitulated twice — to the Persians, then
+amid the Arab conquests, with a Roman restoration in between.
+
 ## Historiography
 
 Ball's narrative draws on the Chronicle of Edessa, the *Doctrina Addai*, Eusebius, and
@@ -174,4 +207,5 @@ partisan client-kingdom sources for this period.
 - [[christianization-of-the-roman-empire|Christianization of the Roman Empire]]
 - [[orientalization-of-rome-thesis|Orientalization of Rome (thesis)]]
 
-Source: [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]].
+Source: [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]];
+[[sources/fisher-rome-persia-arabia-2020|Fisher, *Rome, Persia, and Arabia* (2020)]].

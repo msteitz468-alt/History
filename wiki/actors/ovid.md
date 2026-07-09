@@ -9,8 +9,8 @@ affiliated_with: [Augustan Rome, the literary circle of Messalla]
 opposed_by: [the emperor Augustus (who exiled him)]
 key_events: [his exile to Tomis (8 CE), the composition of the Metamorphoses]
 key_processes: [Augustan and post-Augustan Latin poetry]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy]
 ---
 
@@ -41,8 +41,15 @@ West** — the channel through which Greco-Roman myth reached Dante, **Chaucer**
 the painters of the Renaissance and Baroque. His exile by an autocrat for his art made him a perennial
 emblem of the poet at odds with power.
 
+## OHCW (Lyne; Jenkyns)
+
+**Lyne** (Ch. 24): equestrian who abandoned public career; briefly helped by Messalla, no lasting circle needed (instant popularity). *Amores* parody romantic elegy then cheerful promiscuity; *Ars Amatoria* (c.9 BCE, reissued ~turn of millennium) didactic game of love affronting Horace, the elegists, and Augustus’ adultery laws — especially toxic after Julia’s exile (2 BCE); exile AD 8 (*carmen et error*) to Tomis with the grand-daughter’s adultery scandal. Other works: *Heroides*; lost *Medea*; *Fasti* (abandoned after 6/12 books as Tiberian adoption and month of August loomed); *Metamorphoses* as 15-book hexameter “epic” spoof — Callimachean collection in epic dress, amoral metamorphosis, irreverent to Virgil and the Julian house. Lyne’s judgment: “anti-Augustan” is not exactly the right label — Ovid is the true second-period Augustan spirit (pleasure-loving, sophisticated, cynical), praised by contemporaries while Horace’s *Epistle to Augustus* silences the elegists.
+
+**Jenkyns** (Ch. 28): Augustan “golden age” poetic achievement belongs largely to the first half of Augustus’ long reign; last ~25 years had no major poet active except Ovid, who saw himself as last of a line; the quarter-century after his death among the barrenest in Latin literary history — the “silver age” label marks a real break.
+
 ## Related
 
 - `produced:` the *[[ovid-metamorphoses|Metamorphoses]]*, the *Ars Amatoria*, the *Fasti*, the exile poetry.
 - `opposed_by:` [[augustus|Augustus]] (who exiled him in 8 CE); `concurrent_with:` the Augustan principate.
 - `analogous_to:` Virgil and [[apollonius-of-rhodes|Apollonius]] (the epic tradition he reworks).
+- Source: [[boardman-oxford-history-classical-world-1986]] (Lyne Ch. 24; Jenkyns Ch. 28)

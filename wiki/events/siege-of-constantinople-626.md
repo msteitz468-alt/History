@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [caused_by: [[successors-of-justinian|Sasanian invasion of the Eastern Roman Empire]], caused_by: [[successors-of-justinian|Avar expansion in the Balkans]], contributed_to: [[heraclius|Heraclius's military campaigns]]]
 consequences: [produced: [[heraclius|Byzantine victory]], contributed_to: [[empire-of-samo|Avar decline and Slavic independence]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, late-antiquity, balkans, mediterranean, near-east]
 ---
 
@@ -56,3 +56,10 @@ The primary sources for the siege are contemporary Byzantine texts, including th
 ## References
 
 - *The New Cambridge Medieval History, Volume 1: c. 500–c. 700*, edited by Paul Fouracre. Cambridge University Press, 2005 (Chapter 11).
+- [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+**626:** Shahrvaraz via Cilician Gates and Shahin via Armenia aimed at capital; Khagan led huge western force. Heraclius defeated Shahin in Anatolia; Roman navy prevented Shahrvaraz at Chalcedon from joining Avars. Avars + Slavs besieged from Thrace late July–early August 626. Defenders’ unity focused on **Virgin of Blachernae** robe/cult (*Chron. Pasch.* opens with Theotokos intercession). Slav hollow-log boats nearly bridged Persian–Avar forces; failure fractured Avar–Slav coalition; Khagan’s power ebbed though Slavic colonization continued. After 626 Avar Balkan dominance waned. `caused_by:` final Roman–Persian war + Avar power; `produced:` survival of Constantinople; `contributed_to:` Marian ideology; `concurrent_with:` Heraclius’s eastern campaign.
+
+Source: [[mitchell-later-roman-empire-2015]] · [[heraclius]] · [[avars]] · [[byzantine-imperial-ideology]]

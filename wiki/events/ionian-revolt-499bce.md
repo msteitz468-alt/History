@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the failure of the Persian attack on Naxos and Aristagoras' resulting insolvency, the demand for [[isonomia]] against Persian-backed tyranny, the economic ruin of mercantile Ionia under Persian expansion, the appeal of freedom from both tyranny and Persia]
 consequences: [the sack of Miletus and end of Ionian primacy, the burning of Sardis (the "beginning of evils"), the Persian drive to punish Athens and Eretria, [[battle-of-marathon-490bce|Marathon]] and the Persian Wars, the polarity of Greek liberty vs oriental despotism]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, archaic-period, anatolia, aegean, greece]
 aliases: [ionian-revolt, Ionian Revolt]
 ---
@@ -89,9 +89,13 @@ supply the controls. Herodotus' apparent **lack of sympathy** for the revolt's *
 reflects its changed meaning for fifth-century Ionians under the Athenian empire, not simple
 bias.
 
+### Hall (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] follows Herodotus in naming Aristagoras and Histiaeus as prime instigators; Spartan aid failed; Athens sent 20 and Eretria 5 ships; revolt spread Hellespont to Cyprus and sacked Sardis; Lade (494) saw 353 Greek ships vs 600 Phoenician; Samian desertion and Chian stand; Miletus sacked after six-year siege. Shock at Athens (self-styled metropolis of Miletus) illustrated by Phrynichus’s *Capture of Miletus* (493/2), grief and 1,000-drachma fine. Persian imperial style before the revolt: respect for local customs if loyalty and tribute (formalized under Darius) were met; local administrators benefited Ionian aristocracies; Miletus negotiated especially favorable status with Cyrus (Hdt. 1.141.4). Hall also notes Herodotus may back-project an Eretria–Miletus vs Chalcis–Samos alliance (5.99) to justify Eretrian aid in 499. Preceded by Lydian tributary conquest of coastal cities under Croesus and Cyrus’s incorporation of Ionia.
+
 ## Related
 
 - Empire: [[achaemenid-empire]] · slogan: [[isonomia]] · burned: [[sardis]] · helpers: [[places/athens|Athens]] · Eretria
 - Aftermath: [[battle-of-marathon-490bce]] · leader: [[miltiades]] · trade ruin: [[naucratis]] · [[trade-network-formation]]
 - Source-critique: [[herodotus-reliability]] · Period: [[archaic-period]] · [[classical-antiquity]]
-- Source: [[boardman-cah-v4-1988]] (Ch. 8, Oswyn Murray)
+- Sources: [[boardman-cah-v4-1988]] (Ch. 8, Oswyn Murray); [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

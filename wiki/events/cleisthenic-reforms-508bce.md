@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the power vacuum left by the [[pisistratidae|fall of the tyranny]], the renewed dynastic rivalry of the gené (Cleisthenes vs Isagoras), the need to prevent a recurrence of tyranny]
 consequences: [the reorganization of Attica into demes/trittyes/ten tribes, the Council of Five Hundred, the principle of [[isonomia]], the foundations of [[athenian-democracy|Athenian democracy]], the victory over Boeotia and Chalcis (506)]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, archaic-period, central-greece]
 ---
 
@@ -88,8 +88,20 @@ the whole package could really have passed in one archon-year (Ostwald: the outl
 details were worked out by a small committee afterward), and on how "democratic" the
 *isonomia* of 507 actually was, given that office remained restricted by census class.
 
+### Hall (2014) — isonomia, continuity, and late synoikism
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] opens Ch. 8 with the 1993 “Democracy 2500” commemorations (dating democracy to Cleisthenes ~508) and notes that many scholars place democracy’s invention later (fifth century), earlier (early sixth), or with the eighth-century polis itself. Herodotus 6.131.1 credits Cleisthenes with tribes and democracy — but *dêmokratia* is anachronistic for the late sixth century; Hdt. 5.69 also cites emulation of his Sicyonian grandfather and distancing from Ionians.
+
+**Structure (Hall’s summary):** four old phylai retained religious functions; ten new phylai named for Attic heroes (Delphi chose ten eponyms from 100); each phylê three trittyes (city/coast/inland); ~140 demes sized for equal tribal citizen numbers; registration in deme at eighteen; army by tribal regiments with ten elected *stratêgoi*; council of 500 (fifty per phylê by lot, deme quotas, prytany rotation, probouleutic function). Unclear if *thêtes* were admitted from the start.
+
+**Continuities:** reforms less radical than often claimed — council of 500 may have assumed Solonian council functions; old four phylai also had three trittyes each further divided into twelve *naukrariai* (*AC* 8.3), often treated as earlier deme-equivalents; Cleisthenes left ancestral priesthoods, genê, and phratries unreformed (*AC* 21.6).
+
+**Dêmos as agent of 508/7:** while Cleisthenes and 700 families were out, the *boulê* refused dissolution and the people united against Isagoras/Cleomenes — annulling elite-ordered exile. Full sovereignty awaited Areopagus curtailment in the 460s, but *dêmos* pressure already forced Solon’s appointment ~600. Ostracism (most sources credit Cleisthenes; first used 487) is popular usurpation of aristocratic exile prerogative — though *AC* 22.4 hints motives not entirely altruistic.
+
+**Late synoikism thesis:** full political unification of Attica as a primary reform motivation — Athens weak beyond the pedion before the last decade of the sixth century; 48 naukrariai ≈ one third of ~140 demes may underpin city trittyes only; much of Attica may have remained outside the phylê system until the late sixth century. Tribal reform nearly always accompanies territorial incorporation (cf. Demonax at [[places/cyrene|Cyrene]]). Sixth-century “hyperperiodization” (pre-tyranny / Pisistratus / sons / post-Hippias as qualitatively different eras) ignores continuities; Hippias’s expulsion led first to renewed aristocratic factionalism; **full democracy still several decades away in 508**.
+
 ## Related
 
 - Author: [[cleisthenes]] · state: [[places/athens|Athens]] · rival: Isagoras · intervenor: [[cleomenes-i]]
 - Principle: [[isonomia]] · institution: [[ostracism]] · outcome: [[athenian-democracy]] · prior regime: [[pisistratidae]]
-- Period: [[archaic-period]] · Source: [[boardman-cah-v4-1988]] (Ch. 5, Martin Ostwald)
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v4-1988]] (Ch. 5, Martin Ostwald); [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

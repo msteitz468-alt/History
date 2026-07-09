@@ -8,7 +8,7 @@ region: [mesoamerica]
 process_type: cultural
 driven_by: [intersocietal contact, trade, emulation, occasional conquest, volcanic disasters, multiethnic polities]
 produces: [shifting cultural frontiers in El Salvador and Honduras, hybrid material cultures, multiethnic Classic centers]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [process, mesoamerica]
 ---
@@ -66,6 +66,32 @@ Western Honduras, El Salvador, adjacent Guatemala — the southeastern edge of t
 
 Colonial reorganization; ethnohistoric Lenca, Pipil, Maya, and other groups; analytical frontier problem continues. Sheets’s summary: **four waves** of foreign influence — Olmec Formative; Maya Classic; Postclassic Pipil–Nicarao; Greater Nicoya groups — while autochthonous trajectories and research bias (Copán research exceeds all SE research outside Copán) must not be erased.
 
+## From Evans & Webster 2001 (Southeast Mesoamerica entry)
+
+Encyclopedia **Southeast Mesoamerica** synthesis (broad transect from Honduras’s Caribbean coast south to El Salvador’s Pacific littoral) complements Sheets ([[evans-webster-archaeology-ancient-mexico-central-america-2001]]).
+
+### Formative complexity
+
+Little known before **1200 BCE**; La Esperanza obsidian flows probably visited **4000–1200 BCE**. Earliest clearly identified occupations near end of that span at Chalchuapa (migrants from Pacific coast Guatemala/Chiapas) and possibly Naco Valley. By **1000 BCE** two-tier hierarchies and differential burial appear — clearest at Chalchuapa (Structure E3-1-2nd, conical platform **≥20 m**), Yarumela, Los Naranjos (possible **1,300 m** defensive ditch). Playa de los Muertos child burial with shell/jadeite belts/necklaces suggests inherited status. Olmec-horizon motifs especially at Chalchuapa. Cuyamel Caves (NE Honduras) held Early–Middle Formative ceramics (**c. 1200–400 B.C.**) with Olmec-related motifs and Tlatilco parallels — Honduran participation in Formative Mesoamerican networks possibly related to cacao.
+
+**Late Formative:** continued growth in productive valleys; Chalchuapa’s El Trapiche complex (~0.5 km²) after hiatus **c. 500–400 BCE**; Usulután ware originated in western El Salvador and was traded/imitated northward; closest material culture ties with southeast Highland Maya ([[kaminaljuyu|Kaminaljuyú]] ideas via Chalchuapa); **few similarities** with contemporary Lowland Maya. Motagua Maya region: Early/Middle Formative [[copan|Copán]] ceramics fit SE Mesoamerican traditions but differ from neighboring Lowlands; Late Formative Copán developmental anomaly (apparent **decline** while Lowlands centralized).
+
+### Classic peak and limited Copán hegemony
+
+**Early Classic:** population growth unevenly matched by political centralization; third-century **Ilopango** truncated western El Salvador (Chalchuapa); Quelepa grew with terraces atypical of Mesoamerican patio focus (closer lower Central American ties); Salitrón Viejo **>500** jade/jadeite pieces; some green obsidian and talud-tablero suggest Central Mexican contacts possibly via Kaminaljuyú.
+
+**Late Classic** = maximum population density and political complexity in most studied areas (except lower Aguan and Comayagua): **3–5** tier hierarchies; capitals with up to ~**500** structures; elite monopolies of long-distance jadeite/obsidian/shell. **Southern La Entrada may have been incorporated within the Copán state from A.D. 628 to 738**, but **no evidence that this hegemony extended farther** into Southeast Mesoamerica. Ulúa polychromes widely distributed; Copador from Copán especially in western El Salvador; Ulúa marble vessels traded to Maya Lowlands. Outside southern La Entrada, southeastern rulers largely **impervious** to Lowland Maya elite culture though some adopted ball courts. Gualjoquito (8 ha, 48 buildings) compact non-Maya civic center: Classic prosperity correlates with Copán florescence; plan mimics Copán core; authority from Ulúa–Jicatuyo crossroads.
+
+Sulaco–Humuya corridor: first occupied ~**400 B.C.** by non-Maya groups; peak **A.D. 600–800** with at least one small chiefdom centered on Salitron Viejo; population declined after **800**, abandoned after **1000**.
+
+### Collapse-era and Postclassic
+
+Terminal Classic–Early Postclassic: population drops almost everywhere except lower Aguan and western El Salvador; abandonment by **A.D. 1000** in middle Humuya/Sulaco and La Entrada; brief reversals Cerro Palenque (Sula Plain, **A.D. 850–1000**), fortified Tenampua (Comayagua, **900–1100**), Cihuatán (violent end early 11th c.). Early Postclassic El Salvador shows chac mool, Tlaloc braziers, talud-tablero partly from migrations; **Pipiles** (Nahua) enter El Salvador sometime **A.D. 800–1350**. Changes generally contemporary with [[maya-classic-collapse-800ce|Maya Collapse]]; **no clear evidence** that human-caused environmental degradation drove SE declines (contrasts with Copán).
+
+**Zapotitán Valley** (346 km², El Salvador): ~**A.D. 200** Ilopango deposited **1–2 m** acidic ash → abandonment ~2 centuries; Late Classic dense hierarchical system with San Andrés primary center; imported Ixtepeque obsidian; Copador shared with Copán; Loma Caldera buried [[ceren-salvador|Cerén]].
+
+**Late Postclassic:** Honduran landscape of competitive ranked chiefdoms; Naco and Viejo Brisas del Valle as late centralization nodes and trade emporia (obsidian, copper, circular architecture possibly Central Mexican–inspired). El Salvador divided among small competitive states, many Pipil-descended, growing cacao. Spanish conquest protracted through early–mid 16th c.; disease, slaving, and warfare nearly destroyed SE populations — essentially disappeared by early 19th c. in Honduras and ~a century later in El Salvador.
+
 ## Related
 
-[[maya-civilization]] · [[maya-highland-pacific-development]] · [[copan]] · [[quelepa]] · [[ceren-salvador]] · [[izapa]] · [[kaminaljuyu]] · [[maya-classic-collapse-800ce]] · [[olmec]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Sheets Ch. 9)
+[[maya-civilization]] · [[maya-highland-pacific-development]] · [[copan]] · [[quirigua]] · [[quelepa]] · [[ceren-salvador]] · [[izapa]] · [[kaminaljuyu]] · [[maya-classic-collapse-800ce]] · [[olmec]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Sheets Ch. 9) · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster encyclopedia]]

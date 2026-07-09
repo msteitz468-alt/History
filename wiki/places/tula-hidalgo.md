@@ -7,7 +7,7 @@ period_active: [Early Middle Ages, High Middle Ages]
 controlled_by: ["[[toltec|Toltec]] state", "earlier Teotihuacan-related Chingú presence in region"]
 events_here: ["Teotihuacan-period center Chingú in region", "Tula Chico (Coyotlatelco)", "Tula Grande florescence (Tollan phase)", "[[fall-of-tula-1150]]"]
 processes_here: ["[[mesoamerican-state-formation]]", "[[teotihuacan-trade-network]]"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [place, mesoamerica, toltec]
 ---
@@ -92,8 +92,77 @@ a mix of archaeology and later Nahua historical memory. The city’s fall starts
 traditions of nearly every political unit in central Mexico at Spanish contact (Carrasco,
 cited in Charlton).
 
+## Evans & Webster 2001 (Healan; Mastache Flores & Cobean)
+
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster (eds.) 2001]]
+— **Dan M. Healan** (Tula de Hidalgo; Tollan) and **Alba Guadalupe Mastache Flores & Robert H.
+Cobean** (Tula Region; Toltec Culture) — is the densest site synthesis for Tula in the
+collection (**EW2001**).
+
+**Setting and research.** Southwestern Hidalgo ~50 km NW of Mexico City at the confluence of
+the Tula and Rosas rivers (modern Tula de Allende); Central Mexican Plateau / SW Valle del
+Mezquital rain shadow; annual precip. ~612 mm; thin calcareous soils. Charnay excavated early
+residential/platform remains; Jorge Acosta (INAH) ran 13 seasons from 1940 restoring Tula
+Grande (colonnades, wall benches, warrior caryatids, bas-relief processions). Since 1970:
+INAH, University of Missouri, and Tulane systematic survey/excavation.
+
+**Regional sequence.** Earliest well-defined occupation Late Formative c. 400–200 B.C. Early
+Classic c. A.D. 300–750: abrupt numerous settlements with ceramics virtually identical to
+Teotihuacan (~80 km SE); **no occupation yet at Tula itself**. **Chingú** ~10 km E of Tula
+covers nearly **250 ha** with layout/orientation and Ciudadela-like plaza and apartment
+compounds — provincial Teotihuacan center; many sites abandoned ~A.D. 750 with Teotihuacan
+demise. Earliest occupation **at Tula** is Prado-phase Epiclassic c. A.D. 700–850, small
+community north of the later city centered on **Tula Chico** (prototype for Tula Grande);
+Coyotlatelco ceramics plus Bajío (Guanajuato/Querétaro) types supporting ethnohistoric
+Tolteca-Chichimeca NW intrusion. Growth then shifts south to **Tula Grande**. Mastache &
+Cobean stress **settlement discontinuity** between Teotihuacan-related and Coyotlatelco
+populations (new arrivals), hilltop ceremonial plazas (e.g. Cerro Magoni ≥4 km² residential),
+and Tula Chico as initial urban nucleus (~5 km² settled zone).
+
+### Tula size discrepancy (Healan vs Mastache–Cobean)
+
+| Source (EW2001) | Urban extent at apogee | Population |
+|---|---|---|
+| **Healan**, Tula de Hidalgo | **~13 km²** (Tollan phase c. A.D. 900–1200) | “as high as **60,000**” |
+| **Mastache Flores & Cobean**, Tula Region | **nearly 16 km²** (A.D. 950–1200) | up to ~**70%** of regional pop. in city; rural 30–40% |
+
+This is an **internal encyclopedia discrepancy**, not a wiki error: both signed entries
+describe the same Early Postclassic city. Report both figures with attribution; do not
+average. Healan’s 13 km² / 60,000 aligns with Cowgill/CHNPA rough estimates already on this
+page; Mastache–Cobean push the footprint higher and emphasize irrigated hinterland
+(realistic 3,000–6,000 ha of potentially irrigated land; ≥1/3 of city inhabitants also in
+food production; apogee may have required supplementary food from the northern Basin).
+
+**Urban fabric (Healan).** Dense structured settlement; common house group = closed
+configuration of single- or multi-family houses around open courtyard; neighborhood planning
+with shared orientation schemes, alleys, paved thoroughfares; three successive citywide
+orientation schemes. Specialized urban production: obsidian workshop near eastern limits
+processing Pachuca and Zinapécuaro into prismatic cores/blades; mold-made figurines, ceramic
+drainage tubes, onyx vessels; exotic shell and Plumbate/Central American polychromes.
+
+**Trade assemblages.** University of Missouri excavations (Healan 1989) in three nonelite NE
+residential groups recovered Nicoya Polychrome, whole Plumbate vessels + hundreds of
+fragments, pottery from Huasteca, central Veracruz, probably Campeche, and northern
+periphery (Zacatecas/Jalisco); serpentine/jade, onyx, tiny turquoise plaques (SW US), Pacific
+and Gulf shells; almost **90%** of obsidian from Sierra de Pachuca (~70 km east). Nonelite
+access to exotics implies extensive trade/tribute systems. **Smith (Postclassic Period)**
+nonetheless states there is no material evidence for a Toltec empire and that trade-ware
+analyses show Tula was **not a major participant** in Early Postclassic long-distance
+exchange — preserve as a tension with the residential exotic assemblage (see [[toltec]]).
+
+**Sphere and fall.** At apogee Tula is believed to have controlled a sphere minimally
+including much of the Basin of Mexico; principal rival [[cholula|Cholula]]. Architectural
+similarities with Chichén Itzá cited for colonization, but Healan: “there is no real
+archaeological evidence for this” — similarities plus shared Pachuca/Zinapécuaro obsidian
+suggest significant interaction. Collapse toward **end of the twelfth century** (Healan;
+Mastache & Cobean). Acosta attributes Tula Grande destruction to people using Aztec II
+pottery, but no important Aztec II occupations elsewhere; first significant Aztec occupation
+is Aztec III. Tollan phase was the only pre-Hispanic period with a city at Tula. See
+[[fall-of-tula-1150]].
+
 ## Related
 
 [[toltec]] · [[teotihuacan]] · [[fall-of-tula-1150]] · [[aztec-empire]] ·
 [[basin-of-mexico]] · [[xochicalco]] · [[cholula]] ·
-[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6 & 11]]
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6 & 11]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

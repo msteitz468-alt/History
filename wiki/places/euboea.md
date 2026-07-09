@@ -7,8 +7,8 @@ period_active: [Greek Dark Age, Early Iron Age, Archaic Period]
 controlled_by: [the Euboean towns (Chalcis, Eretria, Lefkandi)]
 events_here: [the Protogeometric recovery at Lefkandi, the founding of Al Mina (~end 9th c.), the founding of Pithecusae (~770), the Lelantine War, the Eretrian building programme (from ~700), the Athenian cleruchy on Chalcis (~506), the Persian sack of Eretria (490)]
 processes_here: [[[greek-dark-age|Dark Age recovery]], the orientalizing of Greek culture, Greek overseas trade and colonization]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [place, mediterranean, aegean, early-iron-age]
 ---
 
@@ -113,9 +113,13 @@ be distinguished), have been debated since, but the broad thesis of a **Euboean-
 Iron Age commercial expansion** has held and been strengthened by the later Lefkandi
 finds. Euboea is a strength of the collection's Aegean coverage.
 
+### Hall (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] complicates exclusive Chalcidian/Eretrian “flag” readings: Al Mina has pendent semicircle skyphoi and some central Euboean fabric, but ethnic labels are anachronistic and not all Euboean wares arrived via Euboeans; temporary Greek-speakers including Euboeans are plausible without treating Al Mina as uniquely Euboean. Pithecusae’s origins more diverse than literary tradition (Corinthian dominance; multi-origin dump). Lelantine War alliance stacks are anachronistic; Herodotus 5.99 Eretria–Miletus alliance may be back-projection for 499. West Gate “hero” burial at Eretria ~720 parallels Patroclus’ funeral. Euboea and Laconia linger in Protogeometric until Late Geometric; Euboea sits in Hall’s “central” Archaic culture area with Attica, Argolid, Cyclades, and Ionia. Eretria’s fall (490) and five ships in the Ionian Revolt anchor Euboea in the Persian-war narrative.
+
 ## Related
 
 - Period: [[greek-dark-age|Greek Dark Age]] · [[early-iron-age|Early Iron Age]] → [[archaic-period|Archaic Period]]
 - Trade partners: [[cyprus|Cyprus]] · [[phoenicians|Phoenicians]] · Concept: [[alphabet|the alphabet]]
 - Region: [[aegean]] · [[mediterranean]] · Archaic islands: Paros (Archilochus) · [[cyrene|Thera→Cyrene]] · Delos · Naxos
-- Sources: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Ch. 18) · [[boardman-cah-v3p3-1982|CAH III.3]] (Ch. 39d, Forrest)
+- Sources: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Ch. 18) · [[boardman-cah-v3p3-1982|CAH III.3]] (Ch. 39d, Forrest) · [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

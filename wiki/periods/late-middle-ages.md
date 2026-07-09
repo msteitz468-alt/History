@@ -7,8 +7,8 @@ date_range: "1300–1500 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, central-asia, steppe, north-africa, west-africa, east-africa, south-asia, southeast-asia, china, japan, korea, indian-ocean, silk-road, mesoamerica, andes]
 major_themes: ["the Pax Mongolica and the integrated Eurasian system", "the Black Death and the fourteenth-century crisis", "the breakup of the Mongol empire and Timur", "the rise of the Ottomans and the fall of Constantinople (1453)", "Ming China and the Zheng He voyages", "the apogee of Mali (Mansa Musa)", "the rise of the Aztec and Inca empires", "the eve of European oceanic expansion"]
 collection_coverage: strong
-sources_ingested: 7
-last_updated: 2026-07-02
+sources_ingested: 8
+last_updated: 2026-07-08
 tags: [period]
 ---
 
@@ -189,3 +189,14 @@ states, and the American empires. The *New Cambridge Medieval History* Vols. 6�
 (Phase 3) and CWH VI are the principal sources still to be
 ingested for narrative depth; Ottoman, Timurid, Ming, Aztec, and Inca specialist
 material remains a gap. The gap on Russia and Eastern Europe has been addressed by the ingestion of Riasanovsky (2000). Norman Housley (2002) adds depth on religious-war ideology, sanctification, "Three Turks", antemurale, Hussite crucible analysis, Dózsa case, and critique (complements NCMH and crusade literature).
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Logan’s Ch.14–17 + Epilogue: Black Death and purgatory; Avignon; Great Schism and Constance; fifteenth-century piety (not a waning); 1492 pedagogical close. See [[avignon-papacy]], [[great-schism-1378]], [[council-of-constance-1414]], [[devotio-moderna]], [[purgatory]]. Source: [[logan-history-of-the-church-in-the-middle-ages-2013]].
+
+## From Gibbon, *Decline and Fall* (closing volumes)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]]; not asserted as modern fact.
+
+- **Synchronized endpoints.** Gibbon will not close until he has reviewed “the state and revolutions of the Roman City, which acquiesced under the absolute dominion of the popes, about the same time that Constantinople was enslaved by the Turkish arms” — papal Rome and Ottoman Constantinople as twin late-medieval termini of his eastern/western arcs ([[fall-of-constantinople-1453]]).
+- **Timur–Ottoman hinge.** Timur’s victory over Bayezid accidentally delays 1453 by ~fifty years; the Ottoman “massy trunk” bent to the ground rises again when the hurricane passes; Christian powers fail to seize Gallipoli (detail on [[timur]], [[mehmed-ii]]).

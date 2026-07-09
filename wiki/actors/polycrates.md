@@ -9,8 +9,8 @@ affiliated_with: [Samos, at times Amasis of Egypt, then Cambyses of Persia, the 
 opposed_by: [Miletus, Mytilene, Sparta, finally the Persian satrap Oroetes]
 key_events: [his seizure of Samos by coup, the building of the Samos engineering works, the alliance with and break from Amasis, his death by treachery (522)]
 key_processes: [[[ionia|the East Greek acme]], the development of trireme sea power, tyranny]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, archaic-period, anatolia]
 ---
 
@@ -65,8 +65,12 @@ domination**.
 - His death prefigures the **Persian absorption of the Aegean** that leads to the
   Ionian Revolt and the Persian Wars.
 
+## Hall (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] places Polycrates among Archaic tyrants who used basileus-style authority tools: munificence/display (Heraion), arts patronage network, and intermarriage/xenia (Lygdamis–Polycrates network). Means of authority parallel other tyrants rather than a unique “thalassocrat” type; his generation sits in the unstable multi-generation tyrannies (Cypselids ~3 gens; Pisistratids 33 years then collapse) that aristocracy-by-rotation had failed to contain.
+
 ## Related
 
 - City: [[ionia|Samos]] · contemporaries-allies: [[saite-egypt|Amasis]] · Lygdamis of Naxos · [[pisistratus]]
 - Killed by: the Persian Oroetes ([[achaemenid-empire|Achaemenid Persia]]) · rival: Sparta · Miletus
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p3-1982]] (Ch. 39a, J. M. Cook)
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 39a, J. M. Cook); [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

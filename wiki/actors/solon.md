@@ -9,8 +9,8 @@ affiliated_with: [Athens; the tradition of the Seven Sages]
 opposed_by: [both the rapacious rich and the radicals who wanted land redivided]
 key_events: [his call to reconquer Salamis, his archonship and mediation (594/3), the Seisachtheia, his constitutional reforms, his travels abroad]
 key_processes: [the relief of agrarian crisis, the substitution of wealth for birth in office-holding, the codification of Athenian law]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, archaic-period, central-greece]
 ---
 
@@ -86,8 +86,39 @@ Solon travelled abroad (to Cyprus, perhaps Egypt) to escape demands for amendmen
 - A model of **reform as an alternative to tyranny**, and (through his poems) the first
   fully individual moral-political voice in Greek history.
 
+## Hall (2014) — poetry, hektemoroi, and the “glass floor”
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] re-reads Solon against both the late narrative tradition (*Athenian Constitution*, Plutarch) and the surviving elegies, with several points that refine or constrain the CAH/Andrewes picture above.
+
+**Not “middling” rhetoric.** Despite later reputation as a middling man with a commercial livelihood (Plutarch, *Sol.* 1–2), Solon belonged to a noble Codrid lineage. His poetry gives the *dêmos* “as much privilege as is sufficient,” warns against giving the *dêmos* too much license, and refuses equal land-sharing between *esthloi* and *kakoi* (frs. 5, 34). Hall argues elegiac poets, performed at aristocratic symposia, do not challenge aristocrats’ right to rule; they demand justice (*eunomia*), virtue over unjust wealth, and restraint of vulgar luxury. Solon is a “boundary-marker in no-man’s land” (fr. 37) mediating *dêmos* and *hêgemones*, not a middle-class spokesman.
+
+**Crisis and *seisachtheia*.** Hall accepts the later narrative core: *pelatai* (perhaps ≈ *thêtes*) and *hektêmoroi* (“sixth-parters”) working rich men’s fields for a sixth rent; loans on personal security; debt-bondsmen enslaved in Attica or sold abroad; both sides appoint Solon archon and reconciler, probably 594/3 (*AC* 2, 5–6; Plutarch *Sol.* 13–16). First measures: forbid loans on personal security; cancel private and public debts; liberate and repatriate the enslaved — pleasing neither the wealthy nor the poor who wanted land redistribution. **Solon’s own verses** confirm removal of *horoi* from the “black earth,” liberation of the land from slavery, laws for *kakos* and *agathos* alike with equal judicial process, and explicit refusal of equal redistribution (frs. 4, 34, 36–37) — but give **no unambiguous poetic reference to debt cancellation or to the *hektêmoroi*** as such.
+
+**Interpreting *hektêmoroi* and *horoi*.** One sixth is a surprisingly low sharecropping rent. Competing readings: (1) *hektêmoroi* as hired smallholders *receiving* rather than paying one sixth; (2) more commonly, impoverished smallholders mortgaging land, sixth as interest, *horoi* as mortgage markers. Problem: no literary/epigraphic evidence for *horoi* as mortgage markers before the 360s. Alternatives include *horoi* as metaphor for ending stasis, or markers of elite appropriation of common land that Solon restored to the community.
+
+**“Glass floor,” not democratic intent.** From below, free property-holders shaded into sharecroppers, wage laborers, and debt-bondsmen outside the political community. Solon established a lower limit below which freeborn Athenians could no longer fall — citizenship independent of property, with external chattel slaves increasingly supplying unfree labor. Assembly and jury-appeal rights were probably now formal for all freeborn Athenians. Later oligarchs reinvented Solon as democracy’s founder of the ancestral constitution; Hall: reforms were **not democratic in intention** (condescension to *dêmos*; *thêtes* as lowest census class ~half the population), but long-term they consolidated the political identity without which the *dêmos* could not seize *kratos*.
+
+**Other Hall notes.** Chios law ML 8 (ca. 575–550: popular *boulê dêmosiê*, appeals) lends parallel credence to Solon’s second council of 400 and popular jury-appeal. Solonian *Zeugitai* (200 medimnoi) are far too rich to equal a broad “hoplite class”; front-rank wealth differential is expected. A stasis law (*AC* 8.5) prescribing disfranchisement for non-partisans — so paradoxical it may be genuine — prefigures demotic intervention in elite politics, realized fully only in 508/7. Late Classical/Hellenistic topicality of debt-cancellation and redistribution requires caution with *AC*/Plutarch; surviving “political” fragments exist because later authors quoted them and may have given generic moral themes a more specific historical nuance.
+
+## From the Oxford History of the Classical World (1986)
+
+**Forrest (Ch.1, [[sources/boardman-oxford-history-classical-world-1986|OHCW 1986]]).** After Draco’s severe c.620 code invited revision, near-revolution produced Solon as arbitrator/chief magistrate for 594. Forrest’s Solon “did not like killing people”: he could have made himself tyrant but wrote that tyranny is a pretty position with no way out. Measures: existing debts cancelled; personal security forbidden; share-cropping ended (“I freed the soil of Attica that had once been enslaved”). Strengthened assembly with a new council as “second anchor” rival to the Areopagus; made the assembly ultimate law court via appeal. Replaced birth (Eupatridae) with **land-wealth four-class** access to office (thetes only assembly)—roughly doubling potential office-holders. Forrest places Solon within the broader Archaic expansion of *polites* rights rather than as intentional founder of democracy.
+
+**Bowie (Ch.4).** Solon’s songs treated love and the good life but also lengthy political issues (Salamis elegy; 76-line fr. 13 on just wealth and divine punishment); iambics personify “Black Earth, greatest mother of the Olympian gods” called to witness how he freed the soil of Attica by abolishing serfdom—poetry as primary self-representation of the reformer.
+
+## Freeman (2014) — the law code as physical artifact and a historiographic framing claim
+
+[[sources/freeman-egypt-greece-rome-2014|Freeman (2014)]] adds that Solon's code was
+published on rotating wooden tablets (*axones*) that reportedly survived physically for
+some 300 years; among its specific provisions were a **ban on grain export** and the
+grant of **citizenship to skilled craftsmen** who settled in Athens with their families —
+a deliberate economic-development measure alongside the constitutional reforms. Freeman
+also frames Solon's ~300 surviving lines of verse as a genuine political memoir recording
+his own refusal of tyranny, going so far as to call it (in his own voice, an interpretive
+claim rather than settled fact) **"the birthplace of the liberal tradition."**
+
 ## Related
 
 - City: [[athens]] · refused: [[greek-tyranny|tyranny]] · succeeded by the tyrant [[pisistratus]]
 - Predecessor lawgiver: [[dracon|Dracon]] · compare: Zaleucus & Charondas ([[magna-graecia]]) · oracle ties: [[delphi]]
-- Period: [[archaic-period]] · Source: [[boardman-cah-v3p3-1982]] (Ch. 43, Andrewes)
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 43, Andrewes); [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

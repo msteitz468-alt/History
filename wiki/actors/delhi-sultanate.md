@@ -9,8 +9,8 @@ affiliated_with: ["Turkish/Afghan Muslim ruling class", "Sunni Islam / the Calip
 opposed_by: ["the [[rajputs|Rajput]] and regional Hindu kingdoms", "the Mongols (on the NW frontier)", "Timur", "[[vijayanagara-bahmani|Vijayanagara]]"]
 key_events: ["the second battle of Tarain (1192) & founding (1206)", "Ala-ud-din Khalji's reforms (c. 1296–1316)", "Muhammad bin Tughluq's experiments", "Timur's sack of Delhi (1398)"]
 key_processes: ["[[state-formation]]", "[[indian-feudalism|the iqta system]]", "the coming of Islam to India"]
-sources_ingested: 4
-last_updated: 2026-06-22
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [actor, state, late-middle-ages, south-asia]
 ---
 
@@ -29,7 +29,13 @@ the **second battle of Tarain (1192)**; on Ghuri's death (1206) his general **Qu
 made the Indian conquests a permanent state rather than (as with [[mahmud-of-ghazni|Mahmud]]) a
 raiding-ground. Thapar's narrative runs through the five dynasties:
 - **The Slave/Mamluk dynasty** (1206–90): consolidated by **Iltutmish** (who received investiture
-  from the Caliph, making the Sultan nominally the Caliph's viceroy) and **Balban**.
+  from the Caliph, making the Sultan nominally the Caliph's viceroy) and **Balban**. Iltutmish's
+  daughter **Sultana Radiyyah** briefly ruled Delhi in her own right — a rare instance of a woman
+  holding independent sovereign power in the medieval Islamic world, noted by Formichi (2020) as high-
+  value for gender history. Formichi also traces the dynasty's founding to Ghurid leader **Qutb al-Din
+  Aybak**, who entered Delhi under [[ghurid-dynasty|Muhammad Ghuri]] after the Ghurids' 1186 takeover
+  of the [[ghaznavid-dynasty|Ghaznavids]] and, per Ibn Battuta, was "the first who ruled in the city of
+  Delhi with independent power."
 - **The Khaljis** (1290–1320): the **apogee** under **Ala-ud-din Khalji**.
 - **The Tughluqs** (1320–1414): **Muhammad bin Tughluq's** bold, failed experiments and **Firuz
   Shah's** pious reaction; shattered by **Timur's sack of Delhi (1398)**.

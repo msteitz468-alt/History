@@ -8,8 +8,8 @@ origin: >
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [central-greece, aegean]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -91,12 +91,18 @@ than as a historian" and hostile to the sophists; recovering their actual achiev
 Protagoras') means sifting fact from Platonic prejudice. The reputations of "sophistry" and
 "atheism" are partly later constructions.
 
+## OHCW (Annas, West, Murray)
+
+[[boardman-oxford-history-classical-world-1986|OHCW (1986)]], Ch. 10 (Julia Annas): sophists (Protagoras, Prodicus, Hippias, Antiphon, Thrasymachus, Alcidamas, Lycophron, Gorgias) toured cities offering the only available **higher education for a fee**, teaching rhetoric useful in public politics; Plato depicts them as pretentious manipulators of puzzles without systematic understanding. Zeno’s book of pure arguments and Gorgias’s proof that nothing exists (and if it did could not be known or communicated) marked a new **detachment about argument**; [[aristophanes|Aristophanes’]] *Clouds* reflects public fear that clever argument was a dubious talent indifferent to truth; the *Dissoi Logoi* lumps strong and fallacious pro/con lists without analysis.
+
+**Nomos vs physis.** Sophists popularized the claim that human institutions are *nomos* (convention), not *physis* (nature), and can be changed for different purposes; the vague contrast fostered confusion and amoralist rejections of norms (Callicles in Plato’s *Gorgias* as parade example). West (Ch. 5): mid-fifth-century reconstructions of prehistory and Archelaus’s account of conventional law feed into Protagoras and fee-charging discourses on nature vs custom, morality, education, grammar, and adaptable argument; Gorgias’s “nothing exists” may be playful.
+
+**Public opinion and schools.** Murray (Ch. 9): by the 420s systematic higher education for public life was available at Athens; Plato’s great confrontations (*Protagoras*, *Gorgias*) do not reflect contemporary opinion, which **did not distinguish** Socrates from the sophists. Fourth-century polarity: Plato’s philosophical school vs Isocrates’ rhetorical training — developed systematic logic and rhetoric in [[aristotle|Aristotle]] and a philosophy/rhetoric split dominating later antiquity. Sophistic-trained aristocratic youth in oligarchic coups discredited politics-as-art. Parker (Ch. 11): Protagoras’ “About the gods I cannot declare whether they exist or not” is central to the late-fifth **religious crisis**; “not recognizing the city’s gods” became a prosecutable charge ([[socrates|Socrates]]). Annas: [[aristotle|Aristotle’s]] *Prior Analytics* and *Rhetoric* finally sorted the muddled fifth-century “art of argument.”
+
 ## Related
 
-- Figures: [[pericles]] (patron of Anaxagoras) · [[herodotus]] · [[athenian-drama|Euripides]]
+- Figures: [[pericles]] (patron of Anaxagoras) · [[herodotus]] · [[athenian-drama|Euripides]] · [[socrates]] · [[plato]] · [[aristophanes]]
 - Ideas: *nomos–physis* · [[classical-greek-art|relativism vs. Pythagorean idealism]] ·
   [[panhellenic-games|Hippias' Olympic-victor chronology]]
 - Setting: [[athens-fifth-century]] · [[athenian-democracy]] · [[presocratics]]
-- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 8h, Ostwald); the sophists within the wider theme of
-  intellectuals and political power are treated in **[[vatai-intellectuals-in-politics|Vatai,
-  *Intellectuals in Politics in the Greek World*]]**.
+- Sources: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 8h, Ostwald); [[boardman-oxford-history-classical-world-1986]] (Annas Ch. 10; West Ch. 5; Murray Ch. 9; Parker Ch. 11); **[[vatai-intellectuals-in-politics|Vatai]]**.

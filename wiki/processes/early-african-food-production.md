@@ -16,8 +16,8 @@ produces:
   - "Pre-domestication cultivation and early ceramic technology"
   - "Sahelian cereal package (pearl millet, sorghum, African rice, fonio, cowpea)"
   - "[[bantu-expansion|Bantu agricultural dispersal]] across central/southern Africa"
-sources_ingested: 4
-last_updated: 2026-06-13
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [process, economic, africa, sub-saharan-africa, "Mesolithic", "Neolithic"]
 ---
 
@@ -165,6 +165,22 @@ Tichitt). The Soninke founders of the later empire of **Ghana/Wagadu** are
 plausibly descendants of the **Tichitt diaspora**, linked by distinctive
 cord-roulette ("Faïta") ceramics reaching the middle Niger — making Tichitt an
 ancestor of West African urbanism and statehood.
+
+## Corroboration and late-arrival framing (Fagan & Durrani 2020)
+
+Fagan & Durrani (2020) reinforce this page's independent-origins picture and its
+"late arrival" framing for sub-Saharan cereal agriculture: in the **Nile Valley**,
+wild cereals were part of the diet from ≥15,000 years ago, with deliberate
+cultivation of wild barley/wheat probably underway before 7000 BCE and farming
+villages by 5000 BCE; irrigation works appear ~3000 BCE, coincident with
+unification. In the **Sahara**, cattle herders after 6000 BCE left extensive rock
+art, and desert desiccation after 6000 BCE forced herders onto oases and desert
+fringes. By contrast, cereal agriculture (sorghum, millet) reached sub-Saharan
+Africa only ~1000 BCE — millet was domesticated in Africa/Asia by ≥5000 BCE and
+sorghum ~4000–3000 BCE in Ethiopia, but the long lag before either reached
+sub-Saharan latitudes reaffirms this page's framing of sub-Saharan cereal
+agriculture as a genuinely late arrival relative to Nile/Saharan developments.
+(Fagan & Durrani 2020)
 
 ## Causal Drivers
 

@@ -9,7 +9,7 @@ affiliated_with: [the [[julio-claudian-dynasty|Julio-Claudian house]]; the son o
 opposed_by: [the Senate (in tradition); his own kin and potential heirs; the praetorian officers who killed him]
 key_events: [accession (37), the alleged conspiracy of Lepidus and Gaetulicus (39), the abortive German and British expeditions (40), his assassination (41)]
 key_processes: []
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]
 ---
@@ -75,9 +75,13 @@ have been assassinated because he was a monster, but it is equally possible that
 into a monster because he was assassinated." She treats his fall as illustrating a larger
 point about imperial memory — see [[roman-empire]].
 
+## OHCW (Stockton)
+
+**Stockton** (Ch. 22): brief reign of melodramatic unreality — eliminated Gemellus and Macro; instability, cruelty, failed British invasion farce, divine fantasies; murdered with wife and daughter; “while they [the Senate] deliberated, the praetorian guards had resolved” → [[claudius]].
+
 ## Related
 
 - Son of Germanicus; grand-nephew and successor of [[tiberius]]; dynasty:
   [[julio-claudian-dynasty]]
 - Succeeded by his uncle [[claudius]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 5, Wiedemann)
+- Source: [[bowman-cah-v10-1996]] (Ch. 5, Wiedemann); [[boardman-oxford-history-classical-world-1986]] (Stockton Ch. 22)

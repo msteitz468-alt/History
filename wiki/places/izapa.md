@@ -7,7 +7,7 @@ period_active: [Archaic Period, Classical Antiquity]
 controlled_by: ["Pacific-slope Preclassic polity (often linked to Mixe-Zoquean tradition)"]
 events_here: ["Late Preclassic sculptural florescence"]
 processes_here: ["[[maya-highland-pacific-development]]", "[[mesoamerican-preclassic]]"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [place, mesoamerica, maya, pacific-coast]
 ---
@@ -31,6 +31,16 @@ Adams notes NWAF work at Izapa: regional center with many religious sculptures/m
 - Middle Preclassic monumental sculptures of elite leaders from Chiapas through southern Guatemala to western El Salvador suggest a Pacific–Isthmus–Gulf communication network (Sharer).
 - After Terminal Preclassic southern decline (Ilopango shock ~A.D. 250), Pacific focus shifted; later Classic coastal power centers include Balberta and Cotzumalhuapan-style sites (Bilbao, El Baúl).
 
+## From Evans & Webster 2001 (Clark; Smith)
+
+### Site (John E. Clark)
+
+Izapa is the **largest Late Formative site in coastal Chiapas**, best known for its large corpus of narrative-style carved stone monuments. Occupied continuously ~**3,000 years** from by **1500 B.C.**, but bulk of pyramidal mounds and **all sculpture** date to Late Formative **400–100 B.C.** Site extends **2.3 km** N–S; eight major mound groups with plazas, earthen pyramids, stelae-altar pairs; regional capital in Late Formative and Early Classic. Piedmont Soconusco ~**240 m** asl, cacao-ideal evergreen forest; probable exports cacao, plumes, jaguar pelts. Political control likely limited to southern Chiapas coast and adjacent Guatemala, but narrative bas-relief style (“Izapan”) was an eastern Mesoamerican Late Formative **horizon marker** between Olmec and Classic Maya — **unlikely that the style originated at Izapa** even though best represented there. In Late Formative times Izapa was the dominant social and political center near the Mexican–Guatemalan border (Soconusco overview).
+
+### Izapa style (Virginia G. Smith)
+
+Works are primarily upright stelae and frog-shaped altars in low relief from Izapa near Tapachula, Chiapas (Soconusco). Highly narrative, depicting Mesoamerican themes (e.g., diving figures) in a coastal estuary-swamp ecosystem cult context — crocodiles, fish, marsh birds, jaguars, fruit trees, humans wrestling/diving/beheading amid dripping water. Undated but assigned Late Formative–Protoclassic by style; Smith’s comparisons suggest most/all stelae erected over a relatively short span **200 B.C.–A.D. 1**, contemporary with major enlargement of the earlier Middle Formative site. Site occupied ~**1500 B.C.** through Postclassic though carving style is consistent. Defeat of monster bird **Vucub Caquix** on Izapa Stelae **2 and 25** (Late Preclassic) links to later *Popol Vuh* / Classic Maize God mythology. Stela cult flourished Late Formative at Izapa, Abaj Takalik, [[kaminaljuyu|Kaminaljuyú]], Nakbe, [[el-mirador|El Mirador]].
+
 ## Related
 
-[[kaminaljuyu]] · [[maya-civilization]] · [[maya-highland-pacific-development]] · [[quelepa]] · [[mesoamerican-writing-systems]] · [[olmec]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Sharer Ch. 10; Adams Ch. 1)
+[[kaminaljuyu]] · [[cotzumalhuapa]] · [[el-mirador]] · [[maya-civilization]] · [[maya-highland-pacific-development]] · [[quelepa]] · [[mesoamerican-writing-systems]] · [[olmec]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Sharer Ch. 10; Adams Ch. 1) · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster encyclopedia]]

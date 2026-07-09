@@ -9,8 +9,8 @@ affiliated_with: [[[athens]], the eastern Greek states, the islands]
 opposed_by: [[[achaemenid-empire|Achaemenid Persia]], [[peloponnesian-league|the Peloponnesian League]], revolting allies]
 key_events: [foundation 478/477 BCE, battle of the Eurymedon, the Thasian war 465–463 BCE, the Egyptian disaster c. 454 BCE, transfer of the treasury to Athens 454/3 BCE, the Peace of Callias c. 449 BCE]
 key_processes: [the transformation of a free alliance into an empire, imperial tribute, [[athenian-democracy]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, organization, classical-antiquity, aegean, greece]
 ---
 
@@ -92,6 +92,37 @@ being one of the last ship-providing allies — was the empire's gravest interna
 [[pericles]] suppressed it after a hard siege, and only a divided Peloponnesian League
 congress and an absent Persian fleet kept it isolated. "The Athenian empire had survived."
 
+## Empire and democracy (Osborne)
+
+Osborne stresses that the League's naval character required capital in a way earlier,
+land-based Greek alliances had not — giving rise to the tribute (*phoros*) system that
+made its transformation into an empire possible. Athenians staffed the board of
+"Hellenotamiai" (Greek treasurers) despite the title's implication of shared control, and
+by mid-century only **Lesbos, Chios, and Samos** among the allies still contributed ships
+rather than money. By the mid-fifth century something on the order of 150–170 poleis were
+under Athenian rule; the standard response to a failed revolt was the loss of walls and
+ships, the imposition of a garrison, and the payment of an indemnity plus ongoing tribute.
+Athens received on the order of several hundred talents of silver annually in tribute — the
+scale known from the inscribed quota-stelae to Athena recording a required dedication,
+beginning in 454 when the treasury moved to Athens — and profited further from appropriated
+allied land, made sacred to Athena or settled with Athenian **cleruchs** who retained their
+citizenship; poorer citizens (*thetes*) disproportionately benefited from these
+settlements, while wealthier Athenians bought land in the *archê* outright. Athens also
+sought to control Black Sea grain traffic through the Hellespont as a "closed sea," levying
+transit taxes on cargo bound for allied cities; during the Peloponnesian War it briefly
+abolished tribute in favour of a five-percent maritime tax across the empire, apparently to
+raise revenue, a measure that probably failed in its aim.
+
+The empire and Athenian democracy developed symbiotically in Osborne's account: the
+demos that won Athens its power — the hoplites of Marathon and, especially, the thetes who
+rowed the fleet — gained expanded political rights in turn, including pay for the Council
+and the jury courts (the latter on Pericles's proposal). Thucydides's own verdict on the
+Periclean order, "democracy in name, rule of the first man in fact," captures the tension
+between popular sovereignty and Periclean pre-eminence that the imperial system sustained.
+On the **Peace of Callias**, Osborne notes the fourth-century tradition that Athens made
+formal peace with Persia is not mentioned by any contemporary source — a genuine
+historiographical uncertainty rather than settled fact.
+
 ## Significance
 
 The Delian League is the textbook case of an alliance "run in the interests of" its hegemon —
@@ -102,11 +133,25 @@ systems. Its history is also a historiographical problem: Thucydides "concealed 
 and selected for a thesis, so the epigraphic record is indispensable (see
 [[classical-greek-historiography]]).
 
+## OHCW (Boardman/Griffin/Murray 1986) — Hornblower (Ch.6)
+
+[[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]] (Simon Hornblower):
+
+**Foundation and expansion.** In 478 Athens founded a naval empire, replacing Sparta as leader of Greece; power expanded in the 470s–460s with offensive against Persia, climaxing in [[cimon|Cimon]]’s victory at the Eurymedon (early 460s); the mid-460s Thasos revolt worsened relations with Sparta’s Peloponnesian League. Formal hostilities with Persia ended c.449 (Peace of Callias); the 446 settlement recognized the Naval Empire as an Athenian victory though mainland gains were abandoned.
+
+**Why Athens, not Sparta.** Athens lacked Sparta’s helot/Arcadian problems and Corinth’s subordination to Sparta; offered democracy and *paideia*; Pisistratid cultural patronage already made her a magnet; propagandists (Theseus’s bones on Scyros; Eleusinian corn myth; Delos as empire’s heart; Athens as Ionian mother-city; Marathon memorialization) justified suzerainty; she had not medized. Sparta let Athenian power grow through the pentekontaetia (479–431) as a “reluctant” imperialist.
+
+**Economic motives and oppression debate.** Hornblower accepts economic necessity (Black Sea grain via Hellespont; metal for coinage; ship-timber at Amphipolis/Thurii) but rejects minimizing “naked aggressiveness and greediness.” That the empire was or became oppressive should not be disputed: the 377 Second Athenian Naval Confederacy inscription explicitly repudiates fifth-century practices (tribute, territorial encroachments, garrisons, governors). Debate is whether it always “was” or gradually “became” oppressive; sparse pre-450 evidence may create an illusion of qualitative change after 449.
+
+**Forms of control.** Seven forms of interference: economic (Hellespont guards/taxes; tribute in ships then money); garrisons and fleet; judicial concentration of serious cases at Athens; religious (Ionian-metropolis propaganda; Athena precincts); territorial (cleruchies; elite land-holding in allied territory); social (451 citizenship law); political (usually but not always supporting democrats).
+
+**Culture and League funds.** Aristocrats such as Cimon and [[pericles|Pericles]] brought public wealth for the Acropolis program; Pericles’ use of League funds for rebuilding Athens produced the greatest state patronage program until Hellenistic capitals (Boardman Ch.12).
+
 ## Related
 
 - Leader/members: [[athens]] · [[athens-fifth-century]] · [[delos]] · [[aristides-the-just]] ·
   [[cimon]] · [[pericles]]
 - Opponents: [[achaemenid-empire]] · [[peloponnesian-league]] · [[sparta]]
 - Concepts/events: [[athenian-democracy]] · [[peace-of-callias-449bce]] · [[peloponnesian-war]] ·
-  [[classical-greek-historiography]]
-- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 3, Rhodes)
+  [[classical-greek-historiography]] · [[athenian-empire]]
+- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 3, Rhodes) · [[sources/osborne-classical-greece-2000|Osborne (ed.), *Classical Greece 500–323 BC* (2000)]] (Ch. 7) · [[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]] (Hornblower Ch.6; Boardman Ch.12)

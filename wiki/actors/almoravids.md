@@ -9,8 +9,8 @@ affiliated_with: ["the Sanhaja Berber confederation", "the Maliki ulama of Moroc
 opposed_by: [[[christian-kingdoms-of-spain|León-Castile]], [[el-cid|El Cid]], [[almohads|the Almohads]]]
 key_events: ["Battle of Sagrajas/Zallaqa (1086)", "the annexation of the taifa kingdoms", "the founding of Marrakesh (c. 1070)"]
 key_processes: [[[reconquista]], [[islamization-of-africa]], [[trans-saharan-trade]]]
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, dynasty, high-middle-ages, north-africa, iberia]
 ---
 
@@ -87,8 +87,32 @@ the decisive weight of **North African power** in the fate of al-Andalus (the St
 Gibraltar as a connecting sea-way within an empire, not a frontier), and entrenched a
 rigorist Maliki Islam in the western Mediterranean.
 
+## Cobb: invitation, annexation, and limited frontier change
+
+[[cobb-race-for-paradise-2014|*The Race for Paradise*]] places the Almoravids (*al-Murābiṭūn*,
+“those who fight together”; Qurʾan 3:200) in a Mediterranean continuum of Frankish pressure
+that includes Sicily and Syria. After Toledo’s fall to Alfonso VI (1085), Andalusi taifa
+kings invited Berber warriors from Morocco where **Ibn Tashfin** had consolidated the Maghrib
+(capital Marrakesh). Taifa lords of Seville, Granada, and Badajoz debated the invitation;
+**al-Muʿtamid** of Seville’s reported maxim: “Better to pasture camels than to herd swine.”
+July 1086: Almoravids occupy Algeciras then march Seville–Badajoz; **23 Oct 1086** Zallaqa
+(Sagrajas) defeat of Alfonso VI; Ibn Tashfin returned to Morocco leaving a contingent. From
+**1090** Almoravids deposed the taifas (Granada/Malaga 1090; Badajoz 1094; Valencia 1102;
+Zaragoza 1110); al-Muʿtamid exiled to Morocco. Intervention was backed by a fatwa of
+**al-Turtushi** and approval of **al-Ghazali**; al-Andalus under Abbasid aegis as a Moroccan
+frontier province.
+
+**Thesis (Cobb):** despite the dramatic rescue narrative, Almoravids “had, after all, done
+very little against the Frankish threat. The frontier… remained essentially the same.” Last
+Muslim armies near the Pyrenees around Huesca (1112); Alfonso el Batallador took Zaragoza
+(1118) and Tudela (1119). Benefits were a veneer of Muslim unity and the end of *parias*
+tribute to Christian kings — structural political effects more than territorial reconquest.
+Cobb’s epilogue also lists Almoravids among reformers for whom jihad against Franks became a
+platform plank in broader state formation (with Zangi/Saladin and the Mamluks).
+
 ## Related
 
 - [[almohads]] — the successor movement that overthrew them.
 - [[reconquista]], [[caliphate-of-cordoba]], [[al-andalus|al-Andalus]] — the Iberian context.
 - [[el-cid]] — their contemporary Christian antagonist in Valencia.
+- [[cobb-race-for-paradise-2014]]

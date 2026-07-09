@@ -9,8 +9,8 @@ affiliated_with: [the Canaanite city-states (Tyre, Sidon, Byblos), Carthage]
 opposed_by: [[[neo-assyrian-empire|Assyria]], [[neo-babylonian-empire|Babylon]], later Greeks and [[roman-republic|Rome]]]
 key_events: [founding of [[carthage|Carthage]] (trad. 814 BCE), spread of the alphabet, Assyrian and Babylonian domination, the [[phoenician-colonization|western colonization]]]
 key_processes: [[[trade-network-formation]], [[alphabet|alphabetic writing]], [[phoenician-colonization|colonization]]]
-sources_ingested: 6
-last_updated: 2026-06-27
+sources_ingested: 7
+last_updated: 2026-07-08
 tags: [actor, state, early-iron-age, levant, mediterranean]
 ---
 
@@ -197,6 +197,12 @@ treaty shows the mechanism: autonomy plus a resident Assyrian official and contr
 The exported "orientalising" craft style and the alphabet spread by **prestige, not conquest**.
 See [[ancient-near-eastern-modes-of-production]].
 
+Charles Freeman ([[freeman-egypt-greece-rome-2014|*Egypt, Greece, and Rome*]], 2014)
+suggests a routing quirk may partly explain **Carthage's** early independence from
+its home cities: ships sailing from Phoenicia to the western Mediterranean bypassed
+Carthage outbound and called there only on the return leg, giving the colony room to
+develop its own commercial autonomy rather than remaining a mere way-station.
+
 ## Significance
 
 The Phoenicians prefigure the recurring power of commercial city-states — the Greek
@@ -229,4 +235,4 @@ collapse.
 - Cities: [[tyre]] · West: [[carthage]] · [[gades-tartessos]] · Process: [[phoenician-colonization]]
 - Empires: [[neo-assyrian-empire]] · [[neo-babylonian-empire]]
 - Achaemenid period: [[eber-nari]] · [[sidon]] · [[achaemenid-empire]]
-- Source: [[edwards-cah-v2p2-1975|CAH II.2]] · [[benjamin-cwh-v4-2015|CWH IV]] · [[boardman-cah-v3p1-1982|CAH III.1]] · [[boardman-cah-v3p2-1991|CAH III.2]] (Ch. 32) · [[boardman-cah-v4-1988|CAH IV]] (Ch. 3b)
+- Source: [[edwards-cah-v2p2-1975|CAH II.2]] · [[benjamin-cwh-v4-2015|CWH IV]] · [[boardman-cah-v3p1-1982|CAH III.1]] · [[boardman-cah-v3p2-1991|CAH III.2]] (Ch. 32) · [[boardman-cah-v4-1988|CAH IV]] (Ch. 3b) · [[freeman-egypt-greece-rome-2014|Freeman (2014)]]

@@ -9,8 +9,8 @@ affiliated_with: [the revived Abbasid caliphate at Cairo, the Genoese slave trad
 opposed_by: [[[mongol-empire|the Mongol Il-khanate]], the crusader states, Cilician Armenia]
 key_events: [the battle of [[battle-of-ain-jalut-1260|Ain Jalut]] (1260), the fall of Antioch (1268), the fall of Tripoli (1289), the [[fall-of-acre-1291|fall of Acre]] (1291)]
 key_processes: [the rise of slave-soldier rule, the destruction of the crusader states, the Mamluk–Mongol wars]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, state, high-middle-ages, near-east, levant, islamic-world]
 ---
 
@@ -92,6 +92,58 @@ states**, culminating in the **[[fall-of-acre-1291|fall of Acre]]** (1291) under
 Khalil**. The "patchwork map" of the early-thirteenth-century Muslim world was thereby greatly
 simplified into the two great blocs of Mamluk Egypt-Syria and the Mongol Il-khanate.
 
+## Cobb: structure, Qalawun, Acre endgame, and the long afterlife
+
+[[cobb-race-for-paradise-2014|*The Race for Paradise*]] presents the Mamluk rise as a
+**by-product of inter-Muslim rivalries and Frankish intervention**: on 1 May 1250 Bahri
+mamluks murdered **Turanshah** (last of his line to rule Egypt); **Shajar al-Durr** ruled
+~3 months as “Queen of the Muslims,” then married Bahri commander **Aybak** and ceded the
+throne. Mongol displacement of Qipchaq Turks fed the Black Sea–Cairo slave markets that
+supplied al-Salih Ayyub’s Bahri corps — the same troops who seized power. Unlike the
+Ayyubids, Mamluk sultans did not rule as a dynasty *per se* (sons sometimes succeeded, but
+theory favored ambitious amirs); they were far more confrontational toward Franks (swift
+brutal eradication), more centralized (Cairo inviolable center; Syria as province/frontier),
+with Mongol invasion and Frankish–Mongol alliance anxiety a constant.
+
+**Diplomacy.** After Ayyubid precedents, the Mamluks practiced what Cobb calls the “first
+systematic and sustained diplomacy with Christian powers in Islamic history”: [[baybars|Baybars]]
+renewed Hohenstaufen Sicily ties (1261), then ties with Charles of Anjou after 1266;
+commercial treaties with Byzantium (1261) and Genoa; **Qalawun** renewed Genoa/Byzantium
+and added Catalan Alfonso III of Aragon.
+
+**Qalawun (fold — no separate page).** **Qalawun** (Qalavun; nickname *al-Alfī*,
+“Thousand-Coin”) — elder Bahri colleague of Baybars, Qipchaq Turk — supplanted Baybars’s
+sons after Baraka’s forced abdication and the successor’s deposition (1279). Twin threats:
+rebel amirs in northern Syria and il-khan **Abaqa**. October 1281 second battle of Homs —
+Mongols soundly defeated. A new il-khan convert’s friendship was rebuffed. He continued
+Baybars’s plan to drive Franks from Syria: by his day only Tripoli remained of the original
+Frankish capitals (Jerusalem’s capital having moved to Acre in Saladin’s day). May 1285
+al-Marqab/Margat fell; Maraqiyya dismantled via deal with Bohemond VII; 1287 earthquake
+damaged Latakia, which was snapped up. **Tripoli** fell 26 April 1289 after a March siege
+(Venetians had implored Qalawun when Bohemond VII’s death created a Genoese-linked power
+vacuum); city demolished; Jubayl handed over.
+
+**Toward Acre (context only — full event page owned elsewhere).** After Tripoli only Acre
+remained of the four original states. Qalawun made a temporary truce while building an army.
+August 1290: a riot in which Franks killed Muslim townsmen (possibly merchants) became
+pretext that the truce was broken; he called jihad and died of sickness a few miles from
+Cairo. March 1291 his son **al-Ashraf Khalil** renewed the campaign; Qalawun’s funeral
+served as jihad pulpit; volunteers were said to outnumber regulars. After Acre’s fall (18
+May 1291), Sidon, Beirut, Tyre, and Haifa soon surrendered with little or no resistance;
+last Templar forts (Tortosa/Antartus, ʿAtlith) were easily taken. Al-Ashraf’s triumph
+processions ran Damascus then Cairo at Qalawun’s tomb. Cobb stresses that for Muslim
+chroniclers 1291 was **not** a full ending: the Frankish threat weakened but relocated
+offshore (Jubayl, Templars on Arwad until 1302, Cyprus Lusignans); Mongol pressure
+continued until a lasting Mongol–Mamluk peace (1323).
+
+**Later Cyprus and end.** 1424–26: Sultan **Barsbay** (not Baybars) raided Cyprus, then
+invaded (1426) — King Janus captured near Nicosia; island made tributary. 1489 Venice seized
+the Lusignan throne; 1490 the Mamluk sultan acknowledged Venice as lord of Cyprus — “the
+last of the Crusader states of the east extinguished at the hands of a Frankish merchant
+republic.” In 1517 the Cairo sultan became, in Cobb’s phrase, “the last medieval victim” of
+the [[ottoman-empire|Ottoman Turks]] — “an imperial force far greater than anything
+concocted in the cold and distant land of the Franks.”
+
 ## Related
 
 - `produced:` the [[battle-of-ain-jalut-1260|defeat of the Mongols (1260)]] and the [[fall-of-acre-1291|destruction of the crusader states (1291)]].
@@ -100,3 +152,4 @@ simplified into the two great blocs of Mamluk Egypt-Syria and the Mongol Il-khan
 - `ended_by:` the **Ottoman conquest of Egypt (1517)** — covered from the African side in
   [[gha-vol5-16th-18th-century|GHA Vol. V]] (ch. 6, Vesely), which begins the Ottoman era in North Africa
   and the rise of the [[barbary-regencies|Barbary regencies]].
+- [[baybars]] · [[cobb-race-for-paradise-2014]] · [[ottoman-empire]]

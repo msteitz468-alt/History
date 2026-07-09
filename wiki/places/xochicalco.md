@@ -7,7 +7,7 @@ period_active: [Late Antiquity, Early Middle Ages]
 controlled_by: [Epiclassic hilltop polity]
 events_here: ["Epiclassic florescence after Teotihuacan", "later sacking ~900 CE (secondary sources)"]
 processes_here: ["[[mesoamerican-state-formation]]"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [place, mesoamerica]
 ---
@@ -37,15 +37,30 @@ earthworks — forming a militarized competitive matrix around Basin Teotihuacan
 city-states that underwrote expansionist forms resolved first by Tula then, after a second
 fragmentation, by the Aztecs.
 
+## Evans & Webster 2001 (Hirth; Smith & Hirth; Webster)
+
+Kenneth G. Hirth’s site entry and the Morelos regional synthesis (Michael E. Smith and Kenneth G. Hirth) in [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]] provide the operational detail:
+
+- Location: ~**25 km** SW of Cuernavaca on **five hills** (central Cerro Xochicalco); grew rapidly c. **A.D. 650** into one of the largest/most influential Central Mexican Epiclassic (A.D. **650–900**) centers, contemporaneous with [[cacaxtla|Cacaxtla]], Teotenango, and declining Coyotlatelco Teotihuacan.
+- Medium urban center **10,000–15,000** persons at ninth-century height; residential densities **80–120/ha**; **12–14** wards of 100–300 persons with elite and non-elite mixed.
+- Nested defenses: ramparts, ditches, dry moats, terraces, guard platforms. Five excavated obsidian workshops (one in marketplace plaza); lapidary workshop in the acropolis.
+- Long-distance goods: Atlantic/Pacific shell, Gulf ballcourt paraphernalia, Puebla marble, Michoacán/Hidalgo obsidian, Guerrero/Oaxaca jadeite/stone, México/Guerrero ceramics — Balsas corridor trade control.
+- **Pyramid of the Plumed Serpents**: talud-tablero with Maya-style seated figures; tablero lists conquered towns paying tribute (**~30 names**); warrior iconography; heart-sacrifice sculpture nearby.
+- Three stelae name earliest known Central Mexican kings (birth, death, coronation, conquests) — stela medium borrowed from Zapotec or Maya; eclectic art **rejecting Teotihuacan canons**. Multiple fortified precincts within 1 km may reflect a confederacy. Militarism, tribute empire, knight societies, human sacrifice, New Fire Ceremony ideology appear in the package.
+- Around **A.D. 900**, Xochicalco was **catastrophically destroyed and rapidly abandoned** by local revolt or military conquest (public buildings burned/sacked). Other fortified Epiclassic hilltops in [[morelos-region|Morelos]]: Cerro Jumil, Cerro Tenayo.
+- Architectural forms, carved reliefs, and painted motifs combine Teotihuacán, Zapotec, Maya, and Gulf Coast elements (García Cook / Carrasco / Santley cross-refs). David Webster flags Xochicalco fortifications and Cacaxtla murals as prime Epiclassic warfare evidence.
+
 ## Why it mattered
 
 Xochicalco exemplifies Epiclassic **competitive multi-polity reordering** after the
 inhibition of rival monumental centers under Teotihuacan hegemony ended. It is a primary
 comparand for Teotihuacan’s impersonal art style versus later eclectic, individuating public
-imagery.
+imagery. EW2001 adds demography, nested defenses, tribute-town lists, royal stelae, and the
+c. 900 catastrophic end within the [[morelos-region]] sequence.
 
 ## Related
 
-[[teotihuacan]] · [[cacaxtla]] · [[cholula]] · [[tula-hidalgo]] ·
+[[teotihuacan]] · [[cacaxtla]] · [[cholula]] · [[tula-hidalgo]] · [[morelos-region]] ·
 [[teotihuacan-collapse-550ce]] · [[fall-of-tula-1150]] ·
-[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6 & 11]]
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6 & 11]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

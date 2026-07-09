@@ -5,7 +5,7 @@ origin: Late-20th-c. archaeological revisionism regarding West and Northwest Mex
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
 applies_to_regions: [mesoamerica, north-america]
 contested: yes
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [concept, mesoamerica]
 ---
@@ -106,6 +106,30 @@ claim R06-47).
   template (centralized Tarascan administration; multipolar Mixtec *cacicazgos*; early Zapotec
   primary state at Monte Albán).
 
+## From Evans & Webster 2001 — Northern frontier and West Mexico (cross-links)
+
+No dedicated “Greater Mesoamerica” encyclopedia lemma; the concept is supported by entry-level
+framing of the **[[northern-arid-zone|Northern Arid Zone]]** (Randall H. McGuire) and West
+Mexico/Tarascan materials:
+
+- The Northern Arid Zone is residual non-Mesoamerica (not a coherent culture area); Kirchhoff’s
+  farmer/hunter-gatherer economic frontier, Di Peso’s Gran Chichimeca, Armillas’s climatic
+  expansion/collapse past the Río Lerma, and Braniff’s Mesoamerica Septentrional together
+  describe a **dynamic northern frontier** rather than a fixed line.
+- Southwest–Mesoamerica interaction: much SW culture derives from Mesoamerican packages
+  reworked in local “deep structure”; ≤~1,500 Mesoamerican objects known from all SW sites;
+  debate polarized imperialist (Di Peso, Kelley) vs isolationist; recent work favors significant
+  **regional** interactions that did not drive overall SW development—aligns with Greater
+  Mesoamerica’s bidirectional-filter model without equating the Southwest to core Mesoamerica.
+- Early Postclassic maritime Pacific trade introduced South American copper-bronze metallurgy
+  into **West Mexico** (Hosier et al. in related entries)—a Greater Mesoamerican contribution
+  (first metallurgy in the interaction sphere) already stressed by Gorenstein.
+- **Casas Grandes/Paquimé** and Hohokam ball courts (Scarborough Ball Game; McGuire) materialize
+  Mesoamerican-style institutions north of Kirchhoff’s farmer line—frontier continuum evidence.
+
+See place page [[northern-arid-zone]] for full EW2001 McGuire synthesis. Source:
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]].
+
 ## Colonial–modern extension (Deeds, CHNPA II.2 Ch. 13)
 
 Susan M. Deeds’s northwest Mexico chapter places the colonial–modern indigenous history of
@@ -124,5 +148,7 @@ therefore inherit different baselines depending on that debate. See also
 [[west-and-northwest-mexico-prehistory]] · [[northwest-mexico-indigenous-colonial-modern]] ·
 [[southeast-mesoamerican-frontiers]] ·
 [[mesoamerica-andes-pacific-contacts]] · [[hubs/regions/mesoamerica|Mesoamerica hub]] ·
+[[northern-arid-zone]] · [[intermediate-area]] ·
 [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] ·
-[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]]
+[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

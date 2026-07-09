@@ -7,8 +7,8 @@ period_coverage: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Midd
 region_coverage: [western-europe, mediterranean, british-isles, iberia, northern-europe, near-east]
 methodological_approach: [narrative, other]
 reliability_notes: "Routledge second edition (first ed. 2002) of a single-author undergraduate/graduate narrative survey of the Latin Western Church from late antiquity to c.1492. Logan (Professor Emeritus, Emmanuel College Boston; Honorary Fellow, Pontifical Institute of Mediaeval Studies, Toronto) writes chronological narrative presupposing no specialist knowledge; each chapter ends with Further Reading rather than full footnotes. Strengths: clear institutional and papal chronology; balanced treatment of popular piety, dissent, and friars; expanded 2nd-ed. introduction on Judaism/Islam interaction; readable profiles (Abelard, Becket, Hildegard). Limitations: deliberately selective (Logan flags exclusions such as mysticism and crusade depth); Latin West focus with Byzantium/Islam as external shaping forces rather than full eastern church history; not a research monograph — synthesizes secondary scholarship. Word-count intake 2026-07-08: 181,223 words / 16,973 lines (ebook conversion; print book ~343 pp. incl. index; body complete through Epilogue + List of Popes + Index). Ebook has no markdown headings; chapter boundaries located via uppercase running titles."
-pages_created: 0
-pages_updated: 0
+pages_created: 40
+pages_updated: 78
 ingested: 2026-07-08
 tags: [source]
 ---
@@ -60,10 +60,10 @@ F. Donald Logan's **A History of the Church in the Middle Ages** (Routledge, 2nd
 | [[gregory-vii]] | actor |
 | [[innocent-iii]] | actor |
 | [[urban-ii]] | actor |
-| [[alexander-iii]] | actor |
-| [[nicholas-i]] | actor |
+| [[alexander-iii-pope]] | actor (not the Russian tsar at alexander-iii) |
+| [[pope-nicholas-i]] | actor (not the Russian emperor at nicholas-i) |
 | [[thomas-becket]] | actor |
-| [[hildegard]] | actor |
+| [[hildegard-of-bingen]] | actor (not Frankish queen at hildegard) |
 | [[hus-jan]] | actor |
 | [[boniface]] | actor (Wynfrith, Apostle of the Germans) |
 | [[mendicant-orders]] | actor |
@@ -121,8 +121,40 @@ F. Donald Logan's **A History of the Church in the Middle Ages** (Routledge, 2nd
 
 ## Claims and Pages
 
-*(Filled after Stage-1 extraction and Stage-2 integration.)*
+**Stage 1:** 7 range extractors → **492** grounded claims (R1–R7), full coverage, 0 content-filter blocks. Caches: `/tmp/logan_cache/`; claims: `/tmp/logan_claims/`.
+
+**Stage 2:** 5 exclusive-page integrators + main-thread spine (papacy, western-medieval-church, collision hygiene).
+
+### Created (representative; ~48 Logan-owned new pages)
+
+| Type | Pages |
+|---|---|
+| Actors | [[gregory-i]], [[willibrord]], [[augustine-of-canterbury]], [[francis-of-assisi]], [[franciscan-order]], [[dominic-de-guzman]], [[dominican-order]], [[peter-abelard]], [[waldensians]], [[avignon-papacy]], [[pepin-iii]], [[formosus]], [[john-xii]], [[benedict-ix]], [[leo-ix]], [[bernard-of-clairvaux]], [[carthusian-order]], [[premonstratensian-order]], [[augustinian-canons]], [[humiliati]], [[beguines]], [[hildegard-of-bingen]], [[boniface-viii]], [[celestine-v]], [[wyclif-john]], [[martin-v]], [[eugenius-iv]], [[nicholas-v]], [[pius-ii]], [[savonarola-girolamo]], [[benedict-of-nursia]], [[boethius]], [[cassiodorus]], [[ulfilas]], [[pope-nicholas-i]], [[alexander-iii-pope]] |
+| Events | [[fourth-lateran-council-1215]], [[east-west-schism-1054]], [[council-of-constance-1414]], [[constitutions-of-clarendon-1164]], [[outrage-of-anagni-1303]], [[great-famine-1315]], [[council-of-pisa-1409]], [[spanish-jewish-expulsion-1492]] |
+| Processes | [[western-medieval-church]], [[franco-papal-alliance]], [[viking-impact-on-church]], [[islamic-conquests-seventh-eighth-centuries]], [[peace-and-truce-of-god]], [[medieval-marian-devotion]] |
+| Concepts | [[purgatory]], [[arianism]], [[monophysitism]], [[devotio-moderna]] |
+| Places | [[chartres-cathedral]] |
+
+### Updated (representative)
+
+[[papacy]], [[innocent-iii]], [[gregory-vii]], [[urban-ii]], [[thomas-becket]], [[boniface]], [[charlemagne]], [[justinian]], [[muhammad-and-the-rise-of-islam]], [[gregorian-reform]], [[investiture-contest]], [[first-crusade-1095]], [[fourth-crusade-1204]], [[crusades]], [[catharism]], [[mendicant-orders]], [[medieval-university]], [[gothic-architecture]], [[black-death]], [[great-schism-1378]], [[conciliarism]], [[hus-jan]], [[reconquista]], [[philip-iv-capetian]], [[louis-ix-capetian]], [[christianisation-of-anglo-saxon-england]], [[conversion-of-britain-and-ireland]], [[carolingian-church-reform]], [[donation-of-constantine]], [[papal-monarchy]], [[dictatus-papae]], and period-adjacent process/actor pages listed in session log.
+
+### Naming collisions resolved this session
+
+| Wrong existing slug | Logan entity | Canonical for church history |
+|---|---|---|
+| `nicholas-i` (tsar) | Pope Nicholas I | [[pope-nicholas-i]] |
+| `alexander-iii` (tsar) | Pope Alexander III | [[alexander-iii-pope]] |
+| `hildegard` (Frankish queen) | Hildegard of Bingen | [[hildegard-of-bingen]] |
+| `muhammad` (new short slug) | Prophet | content on [[muhammad-and-the-rise-of-islam]]; `muhammad` is alias stub |
+| `pepin-iii` / `pippin-iii` | same man | dual pages cross-linked |
 
 ## Volume Synthesis Note
 
-*(Filled after integration.)*
+Logan is the wiki’s **single-volume chronological map of the Latin medieval church**. He does not replace NCMH institutional depth or Wickham’s materialist structure; he supplies the **narrative through-line** from Constantine and Gregory I to 1492 that those denser works assume. Three contributions matter most for the knowledge base:
+
+1. **Integrated institutional + devotional history.** The same book carries Lateran IV’s annual confession, Gothic cathedrals, Abelard/Becket/Hildegard profiles, Cathars and friars, purgatory after the Black Death, and English parish calendar piety — forcing cross-links among pages the wiki often filed separately.
+2. **Benchmark framing of the high Middle Ages.** Reform papacy + East–West estrangement + crusade ideal as the three “forms cast” after the mid-eleventh century — a clean analytical triad for period and process pages.
+3. **Anti-teleology for the fifteenth century.** Explicit refusal to read the last medieval century only as Reformation prelude; Constance is not “the end of the medieval papacy”; lay piety is “vibrant,” not decadent.
+
+Limitations remain those of a Western-survey textbook: Byzantium and Islam as external shaping forces; selective further reading rather than full apparatus; pedagogical end at 1492. Use alongside NCMH IV–VII, crusade specialists, and Wickham for structure and comparison.

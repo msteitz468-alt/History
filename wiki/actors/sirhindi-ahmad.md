@@ -24,8 +24,8 @@ key_processes:
   - "[[akbar-religious-policy]] (opposition)"
   - "[[mughal-hindu-muslim-coexistence]] (opposition)"
   - "[[tariqa-orders]] (Naqshbandi Mujaddidi branch)"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, Early Modern, south-asia, mughal, sufi, ulama]
 ---
 
@@ -50,6 +50,19 @@ Jahangir (Akbar's successor) imprisoned Sirhindi, "but, when he thought he had r
 ## Legacy
 
 The Mujaddidi branch of the Naqshbandi order became a major force in Islamic revivalism far beyond India. It was introduced to Ottoman lands (by way of the Hijaz) in the eighteenth century and shaped revivalist movements there. As Hodgson notes in [[hodgson-venture-of-islam-v3-1974]], "The Mujaddidî branch of the Naqshbandiyyah Tarîqah order was introduced from India (by way of the Hijâz) to the Ottoman lands." Sirhindi's philosophical restatement of the relationship between mystical experience and Shari'ah law became influential in subsequent Islamic revivalist thought from South Asia to Central Asia to the Arab world.
+
+## Formichi: Trans-Asian Naqshbandi Lineage
+
+Chiara Formichi ([[formichi-islam-and-asia-2020]]) situates Sirhindi within a wider trans-Asian
+Naqshbandiyya network rather than a purely Mughal-court controversy: his title *mujaddid alf saani*
+("renewer of the second millennium") marks him within the order's broader **tajdid** (renewal)
+tradition traced back through Central Asia to Bukhara's Baha ud-Din Naqshband. Formichi traces a
+later intellectual chain — via the khalifa **Ishan Niyazquli at-Turkmani** — from Sirhindi to
+**'Abd al-Nasir al-Qursawi** of Bukhara (1776–1812), whose ijtihad-centred reformism was in turn
+claimed by the late-19th-century Central Asian **Jadidist** movement, independent of Wahhabi
+influence — evidence, per Formichi, that Sirhindi's Naqshbandi revivalism had lasting influence
+across Asia well beyond the Mughal court dispute Hodgson stresses below (see
+[[sufism-in-south-asia]]).
 
 ## Historiography
 

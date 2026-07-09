@@ -5,8 +5,8 @@ origin: Developed incrementally by multiple archaeologists; phase names introduc
 applies_to_periods: [Classical Antiquity, Late Antiquity]
 applies_to_regions: [mesoamerica]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, mesoamerica, classical-antiquity, late-antiquity, americas]
 ---
 
@@ -139,10 +139,32 @@ analysis. The TMP ceramic analysis (1960s) and a 1970s reanalysis by Rattray dis
 Patlachique sherd counts by 61%; only a new analysis of the (carefully preserved) TMP
 collections can resolve this.
 
+## Evans & Webster 2001 (phase usage, not a redefinition)
+
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster (eds.) 2001]]
+does not replace the Rattray/Cowgill absolute chronology, but signed entries use the local
+phase names as working labels across the Basin and Tula region (**EW2001**):
+
+- **Patlachique:** Parsons — Cuicuilco and Teotihuacan each ~40,000 as competing multitiered
+  capitals; major Basin modification only in Tzacualli after earlier Formative shoreline
+  pattern (Basin of Mexico entry).
+- **Tzacualli / Miccaotli:** Pendergast parallels Altun Ha green-obsidian offering c. A.D.
+  250–300 with Miccaotli Sun Pyramid Adosado and Feathered Serpent Temple Ofrenda 1.
+- **Late Tlamimilolpa–Metepec (c. A.D. 300–750):** Mastache & Cobean / Healan — Teotihuacan-
+  related colonization of the Tula region peaking Late Tlamimilolpa; Chingú as provincial
+  center; many sites abandoned ~750 with Metepec-era demise of the Teotihuacan system.
+- **Post-Teotihuacan sequence:** Armillas succession Teotihuacán–Coyotlatelco–Mazapan–Aztec
+  (Cobean & Mastache); Coyotlatelco traditionally c. A.D. 700–900, some settlements as early
+  as 600–650, coinciding with first occupations after Teotihuacan-related abandonment.
+
+Use these as **cross-regional usage notes**; absolute dates remain contested (see Chronological
+Methods above and [[teotihuacan-collapse-550ce]]).
+
 ## Related
 
 - `[[teotihuacan]]` (place) — the site to which the sequence applies
 - `[[cuicuilco]]` — site associated with pre-Teotihuacan Cuanalán tradition
 - `[[basin-of-mexico]]` — the region covered
 - `[[teotihuacan-formation]]` — process defined by Patlachique–Tzacualli phases
-- `[[cowgill-ancient-teotihuacan-2015]]` — source
+- `[[tula-hidalgo]]` — Coyotlatelco–Tollan succession after Teotihuacan phases
+- `[[cowgill-ancient-teotihuacan-2015]]` · `[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]`

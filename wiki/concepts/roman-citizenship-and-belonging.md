@@ -5,8 +5,8 @@ origin: the structures of membership and marginality in the High Roman Empire �
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [mediterranean-world, italy, western-europe, near-east, north-africa, egypt]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, rome]
 ---
 
@@ -112,3 +112,11 @@ below.
 - `produced:` the frontier citizenship of the [[roman-imperial-army|auxiliary diploma]]; the
   ideology of the [[roman-frontiers|barbarian frontier]]
 - The structural outlaw: [[roman-banditry]]; sources [[bowman-cah-v11-2000]] (Ch. 11, Brent Shaw)
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- **Always-already inclusive tradition.** Claudius’s AD 48 Lyon speech (ILS 212; also Tacitus) proposing Gallic nobles for the Senate appealed to outsider kings (Numa Sabine; Tarquin Corinthian/Etruscan). “Claudius … was correct that Roman identity was in flux right from the very beginning.”
+- **Multiple simultaneous identities.** Acts’ Paul anecdote models provincial identity politics (Jew, Roman citizen by birth vs purchased, Tarsian, Pharisee, resident alien)—citizenship privilege revealed at the point of flogging. Treating all provincials as “in some sense Romans” obscures distinctions that mattered (legionary citizens vs auxiliary *peregrini*; informal soldier marriages and non-citizen children).
+- **Local identities under empire.** Unprecedented Mediterranean mobility (slave trade, military redeployment, urban immigration); diasporas tracked via cults; little host-society celebration of hybridity. Greeks and Jews reformulated identities for imperial contexts—Jewish life more portable via Greek and scripture-based worship; local communities east and west built parallel Trojan/Greek foundation myth-histories.

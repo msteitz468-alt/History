@@ -5,8 +5,8 @@ origin: Etic; the pointed-arch architecture born in the Île-de-France c. 1140; 
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [western-europe, northern-europe]
 contested: no
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -97,9 +97,20 @@ whose influence spread into Germany. The courtly synthesis of these strands is t
 **[[international-gothic|International Gothic]]** of c. 1370–1430. The episode confirms the
 revisionist stress on **regional diversity** over a single Gothic idiom.
 
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Logan’s ch. 12 pairs universities with cathedrals as twin high-medieval church creations. **Christian basilica** inheritance (after Constantine’s edict 313): atrium, rectangular nave with apse, narthex, colonnades/side aisles, later transepts (cruciform plan), eastward orientation, three storeys (arcading, triforium, clerestory) — floor plan and elevations bequeathed to Romanesque and Gothic (examples: St Paul-Without-the-Walls 386; S. Apollinare Nuovo Ravenna).
+
+**Romanesque (c.1000–c.1150)** answered combustible wooden roofs with **stone vaults** and many priests needing daily Mass with staggered/radiating chapels (St Sernin Toulouse c.1080 five radiating chapels; Cluny III c.1120 fifteen). Massive pillars, thick walls, few small windows; barrel then groin vaults; bay system. International (Roskilde, Lund, Kirkwall, Compostela, Pisa). **Rib vault** (six arches with light stone web): origin debated (Lombardy, Normandy, Norman England). **Durham** choir begun 1093, rib-vaulted by 1104; nave by 1133 — perhaps earliest structure completely covered by rib vaulting; Romanesque stands on its own, not merely Gothic prelude.
+
+**Gothic system** (from mid-twelfth century; dominant by second quarter thirteenth): **rib vault** (taller rectangular bays), **pointed arch** (equalizing heights; verticality), **flying buttress** (high clerestories; walls open to windows). These began as **functional**, not ornamental; decoration (portals, gargoyles, stained glass, pinnacles) came later. Earliest known Gothic: **St Denis** under Abbot Suger — west façade from 1137 (three portals, rose, twin towers); choir consecrated **1144** with slender columns and light-filled radiating chapels. Contemporaries: Sens (flying buttress for high clerestory), Noyon c.1150, Senlis c.1153, Paris Notre-Dame c.1163 (choir 1182), Laon c.1160. Heights: Paris ~115 ft, Rheims 125, Amiens 140, Beauvais 158 before collapse. **Canterbury** Gothic choir after 1174 fire (Gervase eyewitness; William of Sens then English mason; Becket shrine east end completed 1184) — “The new building is higher than the old.”
+
+**[[chartres-cathedral|Chartres]]:** night of 9–10 July 1194 fire; west façade/Royal Portal largely undamaged; Gothic rebuild essentially complete by 1220; national undertaking around the Virgin’s tunic relic; townsmen hauled stone; stained glass by royal and guild donors. France alone: ~**80 cathedrals and 500 abbey churches** 1180–1270. **International spread** “close to being a universal style”: Dublin (two Gothic cathedrals) to Gdansk and Cracow; Trondheim and Uppsala to Seville and Milan; New World churches still built Gothic. Representative list: Amiens (ultimate Gothic c.1220–80), Beauvais, Bourges, Chartres, Laon, Paris, Rheims; English Canterbury, Durham (Romanesque/Norman), Ely, Lincoln, Salisbury (homogeneous 1220–66); German Cologne, Magdeburg; Italian Florence, Milan; Spanish Burgos, Seville (largest Gothic church), Toledo.
+
 ## Related
 
 - [[romanesque]] — the style it grew out of and replaced.
 - [[international-gothic]] — the courtly late-Gothic synthesis it culminated in.
 - [[capetian-dynasty]] — the monarchy whose heartland it arose in (Suger of St-Denis).
 - [[twelfth-century-renaissance]] — the contemporary intellectual revival.
+- [[chartres-cathedral]] · [[medieval-university]] · [[thomas-becket]] · [[logan-history-of-the-church-in-the-middle-ages-2013]]

@@ -13,7 +13,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [Crassus' craving for military glory to match Pompey and Caesar, the unprovoked Roman invasion of Parthia, Crassus' strategic errors]
 consequences: [the annihilation of Crassus' army and his death, the dissolution of the First Triumvirate, a lasting Roman trauma and Parthian frontier, the road to civil war]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [event, classical-antiquity, near-east, battle]
 ---
@@ -100,3 +100,14 @@ partly pressed into Parthian service — some returned to Rome 30+ years later u
 with [[augustus|Augustus]] (who also recovered the captured legionary standards as a
 diplomatic triumph). The battle also delayed [[julius-caesar|Caesar's]] planned Parthian campaign,
 aborted by his assassination in 44 BCE.
+
+## CHGRW contribution
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] (Goldsworthy, II.3)
+adds a concise **intelligence-failure** framing: Crassus in 53 BCE led his army through open
+plains rather than hill country less suited to Parthian horsemen **as a result of faulty
+information** — a case of catastrophic intelligence failure in eastern campaign geography. Gilliver
+(II.4) pairs Carrhae with Antony’s later humiliations as evidence that Roman infantry could be
+destroyed by light, highly mobile cavalry (Parthian mounted archers) **without** the close infantry
+combat in which Romans would have held the upper hand. Cross-links: [[roman-campaign-methods]],
+[[roman-legionary-tactics]].

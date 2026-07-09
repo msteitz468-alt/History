@@ -100,6 +100,27 @@ The [[maimonidean-controversy]] of the 1230s and the Barcelona ban of 1305 demon
 
 Hasdai [[hasdai-crescas]] used Maimonides' twenty-six physical principles as the target for a comprehensive assault on Aristotelian physics. [[joseph-albo]] and [[isaac-abravanel]] continued to wrestle with his account of the principles of the Jewish Law.
 
+## The "Epistle to Yemen" and the Myth/Countermyth Debate
+
+Maimonides is a central figure in the modern historiography of Jews under Islam,
+chiefly through his **"Epistle to Yemen"** (*Iggeret Teman*, c. 1172), a letter of
+consolation to Yemenite Jews facing forced conversion. Its bitter line —
+
+> "on account of our sins God has cast us into the midst of this people, the nation
+> of Ishmael, who persecute us severely... No nation has ever done more harm to
+> Israel. None has matched it in debasing and humiliating us."
+
+— became the favourite **prooftext of the "neo-lachrymose" countermyth** (post-1967
+writers arguing Islam innately persecuted Jews). Per [[cohen-under-crescent-cross-1994|Mark
+Cohen]], the statement must be read in context: the young Maimonides had himself
+survived the [[almohads|Almohad]] persecution that began in the mid-1140s — which
+forced conversions, killed many, and drove his family from Córdoba through Fez (where
+they may have lived as nominal Muslims) to Egypt — and he was "insufficiently aware"
+(H. H. Ben-Sasson) of the harsher contemporaneous conditions of Jews in Christendom.
+Cohen thus treats the Epistle as a response to an exceptional twelfth-century
+catastrophe, not a verdict on the classical Islamic norm. See
+[[jews-under-islam-myth-and-countermyth]].
+
 ## Historiography
 
 The Straussian reading (Maimonides as a secret Aristotelian rationalist concealing heterodox beliefs behind pious language) remains a live debate. Adamson leans against Straussianism, arguing that Maimonides should primarily be read at face value and that the "eternity assumption" in his proofs is a methodological choice, not a hidden confession. The question of whether Maimonides and his family passed as Muslims under Almohad rule is also actively debated; Muslim sources allege this, Jewish scholars defend Maimonides' integrity.

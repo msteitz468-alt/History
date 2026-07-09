@@ -13,8 +13,8 @@ scale_immediate: hemispheric
 scale_consequential: regional
 causes: [the Yongle Emperor's drive for prestige and legitimacy, the projection of Ming power and the tribute system across maritime Asia, the inherited maritime and shipbuilding capacity of Yuan/Song China]
 consequences: [the temporary extension of Ming prestige and the tribute network across the Indian Ocean, no territorial empire or sustained trade, the abandonment of state voyaging and the turn to maritime restriction (haijin) — a celebrated contrast with later European expansion]
-sources_ingested: 2
-last_updated: 2026-06-23
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, late-middle-ages, china, indian-ocean]
 ---
 
@@ -69,6 +69,15 @@ of the Indian Ocean rim — including the [[swahili-coast|Swahili city-states]] 
 [[ming-dynasty]] and [[indian-ocean-trade]].
 
 ## Historiography
+
+Chiara Formichi ([[formichi-islam-and-asia-2020]]) adds that Zheng He's Muslim affiliation was an
+explicit **diplomatic tool**: the fleets drew interpreters, pilots, and soldiers from established
+Muslim port communities at Guangzhou, Quanzhou, Hangzhou, and Yangzhou, and his route to Southeast
+Asia mirrored — in reverse — the older Arabia–India–China maritime trade corridor, carrying Chinese
+Muslims to the north coast of Java where Hanafi communities were founded from 1407 (Palembang,
+Sambas) and spread through the following decade (see [[majapahit]], [[melaka]],
+[[islamization-of-southeast-asia]]). This maritime vector supplements the CHC's prestige-and-tribute
+framing with a religious-network dimension largely absent from the Ming-court sources.
 
 The CHC and recent scholarship stress that the voyages were **state-prestige and tribute
 operations**, not the seed of an aborted Chinese age of discovery; their cancellation reflected

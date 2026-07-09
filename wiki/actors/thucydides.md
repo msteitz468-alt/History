@@ -9,8 +9,8 @@ affiliated_with: [[[athens]], [[delian-league|Athenian empire]]]
 opposed_by: []
 key_events: [[[peloponnesian-war|Peloponnesian War]], the loss of Amphipolis 424/3 BCE and his twenty-year exile]
 key_processes: [the writing of critical history, [[classical-greek-historiography]]]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, aegean, greece]
 ---
 
@@ -90,6 +90,30 @@ compromise between "the overall intent of what was actually said" and "what [he]
 been needed" (1.22) — the language, and the obsessive analysis of *Athenian power*, being largely his
 own.
 
+## Purpose, pessimism, and a human theory of power (Osborne)
+
+[[osborne-classical-greece-2000|Osborne (ed.), *Classical Greece 500–323 BC* (2000)]]
+gives Thucydides's birth as **c. 455 BCE** — a few years later than the c. 460 date this
+page follows from [[lewis-cah-v5-1992|CAH V]]; the discrepancy reflects the genuinely
+uncertain evidence for his early life rather than a resolved fact, and both dates should
+be read as approximate. Osborne confirms the essentials of his career (Athenian, restricted
+his subject rigorously to war and its social/political/moral effects, wrote **contemporary**
+history unlike [[herodotus|Herodotus]], and refined methods of assessing evidence) and adds
+two important framing quotations: his stated purpose — a "**possession for all time**,"
+useful to "those who want to examine the clear truth of past events and of similar events
+that will occur in the future—human nature being what it is" (1.22.4) — and his
+fundamental pessimism about human nature, expressed in the claim that the horrors of
+*stasis* (civil strife) "happen and will always happen, as long as human nature is what it
+is" (3.82.2).
+
+Osborne draws the sharpest possible contrast with Herodotus's theory of causation:
+where Herodotus explains the rise and fall of power through **divine envy** punishing
+human *hybris*, Thucydides explains it in **purely human terms** — power grows through a
+state's ability to marshal wealth, leadership, and intelligence, and it falls not from
+divine retribution but from the **failure to combine these ingredients successfully**. This
+is the conceptual core of his analysis of the [[peloponnesian-war]] and of Athenian and
+Spartan power.
+
 ## Significance
 
 Thucydides set the standard of **critical, source-checking, secular** political history,
@@ -99,10 +123,30 @@ analysis of the [[peloponnesian-war]], of empire, *stasis* (civil strife), and t
 between power and justice (the Melian Dialogue, the Mytilenean debate) made even military
 narrative, in the editors' phrase, "a commentary on the human condition."
 
+## OHCW (Murray) — causation, limits, and the “social scientist”
+
+[[boardman-oxford-history-classical-world-1986|OHCW (1986)]], Ch. 8 (Oswyn Murray), reads Thucydides as consciously rivaling [[herodotus|Herodotus]] in recording the [[peloponnesian-war|Peloponnesian War]] as the greatest war; self-consciously a **writer**, not an oral performer; dating by summers/winters not magistrates; aim “a possession for all time, not a display piece for instant listening” (1.22). Exile after Amphipolis (424) gave access to both sides. Work **unfinished** — Book 8 breaks mid-sentence in 411; Books 6–7 (Sicily) polished, 5 and 8 unfinished.
+
+**Causation.** Beyond Herodotus’ mythic rape-chain parody, Thucydides isolates two accepted Athens–Corinth grievances plus a “**truest cause** seldom mentioned explicitly”: Athenian growth provoking Spartan fear compelled war (1.23). Murray stresses **two levels of cause** and abandonment of single-cause thinking as decisive for Western understanding of causation in human affairs.
+
+**Limits and Realpolitik.** Provocatively, Murray notes Thucydides claimed one cannot write accurately about the **past** — methods apply only to the present: “a social scientist… not a historian” until modern source-criticism. Silences impenetrable; possible bias ([[pericles|Pericles]] too favourable, Cleon facts omitted); systematically ignores Persian significance/gold. Accepts might-is-right social theory (cf. Thrasymachus); empire as tyranny “wrong to acquire, dangerous to surrender” (Pericles 2.63). Melian Dialogue as tragic hybris before Sicilian disaster; unfinished work cannot explain why Sparta spared Athens contrary to theory — “a society which lives solely by such criteria will inevitably destroy itself.” Continuators (Xenophon *Hellenica*, Oxyrhynchus historian) began “Some days later.”
+
+Griffin (Ch. 3) pairs Thucydides with Herodotus as fifth-century **rationalizers of myth** (economic/power account of Agamemnon’s leadership recalling contemporary Athens).
+
+## Freeman (2014) — the Melian Dialogue and modern reassessment
+
+[[sources/freeman-egypt-greece-rome-2014|Freeman (2014)]] stresses Thucydides's
+self-conscious rationalism (no divine causation) and his structuring of "reality...by
+those who have power" through the **Melian Dialogue**: "the strong do what they have to
+do and the weak accept what they have to accept." Freeman also flags modern critical
+reassessment (Kagan, Hornblower) questioning whether Thucydides inflated the significance
+of the Sicilian disaster for literary effect and was too kind to Pericles and too harsh
+on Cleon.
+
 ## Related
 
 - People/sources: [[herodotus]] · [[xenophon]] (continued the *History* from 411) ·
   [[plutarch]] · [[cimon]] · [[brasidas]]
-- Concept: [[classical-greek-historiography]] · [[herodotus-reliability]]
+- Concept: [[classical-greek-historiography]] · [[herodotus-reliability]] · [[hellenistic-historiography]]
 - Events/actors: [[peloponnesian-war]] · [[delian-league]] · [[athens]] · [[sparta]]
-- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 1, Lewis)
+- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 1, Lewis) · [[osborne-classical-greece-2000|Osborne (ed.) 2000]] (Ch. 7) · [[boardman-oxford-history-classical-world-1986]] (Ch. 8 Murray)

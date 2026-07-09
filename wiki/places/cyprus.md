@@ -1,15 +1,15 @@
 ---
-title: Cyprus (Bronze Age to Cypro-Geometric)
+title: Cyprus
 place_type: region
 modern_equivalent: Cyprus
 coordinates: ~35.0°N, 33.0°E
-period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Early Iron Age, Archaic Period]
-controlled_by: [tribal / town-based Cypriot communities (no attested unification), indigenous Iron Age city-kingdoms, Phoenician Tyre (at Kition), Assyria, Egypt (Amasis), Persia]
-events_here: [the foundation of the eastern port-towns (Enkomi etc.) in MC III, the violent destruction of the Nitovikla fortress, the Late Cypriot copper-trade boom, the LC III collapse and Aegean settlement, the LBA destruction (~1075 BCE), the Phoenician colonization of Kition, Sargon II's conquest (~709), the ten Cypro-Archaic kingdoms, Amasis's annexation (~560), submission to Persia (~545)]
-processes_here: [[[trade-network-formation]], Phoenician colonization, copper production, [[orientalizing-revolution|orientalizing transmission]], Hellenization]
-sources_ingested: 5
-last_updated: 2026-06-11
-tags: [place, near-east, mediterranean, middle-bronze-age, early-iron-age, archaic-period]
+period_active: [Early Bronze Age, Middle Bronze Age, Late Bronze Age, Early Iron Age, Archaic Period, Classical Antiquity, High Middle Ages, Late Middle Ages, Early Modern]
+controlled_by: [tribal / town-based Cypriot communities (no attested unification), indigenous Iron Age city-kingdoms, Phoenician Tyre (at Kition), Assyria, Egypt (Amasis), Persia, "Byzantine Empire", [[kingdom-of-cyprus|Lusignan Cyprus]], [[republic-of-venice|Venice]], "Ottoman Empire"]
+events_here: [the foundation of the eastern port-towns (Enkomi etc.) in MC III, the violent destruction of the Nitovikla fortress, the Late Cypriot copper-trade boom, the LC III collapse and Aegean settlement, the LBA destruction (~1075 BCE), the Phoenician colonization of Kition, Sargon II's conquest (~709), the ten Cypro-Archaic kingdoms, Amasis's annexation (~560), submission to Persia (~545), [[richard-conquest-of-cyprus-1191]], [[war-of-the-lombards-1228]], [[fall-of-acre-1291]], [[sack-of-alexandria-1365]], [[genoese-invasion-of-cyprus-1373]]]
+processes_here: [[[trade-network-formation]], Phoenician colonization, copper production, [[orientalizing-revolution|orientalizing transmission]], Hellenization, [[crusades]]]
+sources_ingested: 6
+last_updated: 2026-07-08
+tags: [place, near-east, mediterranean, middle-bronze-age, early-iron-age, archaic-period, high-middle-ages, late-middle-ages]
 ---
 
 # Cyprus (Middle Bronze Age)
@@ -195,7 +195,44 @@ island.
 - Fourth century: [[evagoras-of-salamis]] · the Cypriot War · [[kings-peace-386bce]] · [[achaemenid-satrapy]]
 - Medieval (Crusader era): [[lusignan-dynasty|the Lusignan kingdom]] (1192–1489) and its dense ties to [[cilician-armenian-kingdom|Cilician Armenia]]; as a Latin–Greek frontier society, see the note below and [[medieval-frontier]].
 
+## Lusignan Cyprus (1191–1489)
+
+After **[[richard-conquest-of-cyprus-1191|Richard I's conquest (May 1191)]]** from the
+Byzantine usurper Isaac Komnenos, Cyprus entered 380 years of western orbit (to Ottoman
+Famagusta, 1571). The island differed from First Crusade conquests: taken from **Christian
+Greeks**, not Muslims, while remaining largely Greek in culture, language and ritual under
+Latin domination — a "new departure" later repeated at Constantinople (1204).
+**[[guy-of-lusignan|Guy of Lusignan]]** purchased and settled the island (1192);
+**[[aimery-of-lusignan|Aimery]]** made it a kingdom (1196/97). The
+**[[kingdom-of-cyprus|Lusignan kingdom]]** linked to the mainland by dynasty, war and
+commerce until [[fall-of-acre-1291|Acre (1291)]], then stood as sole major Latin outpost
+until the [[genoese-invasion-of-cyprus-1373|Genoese climacteric (1373–74)]]. Geography:
+Troodos and Kyrenia ranges, Mesaoria plain; strategic weight of the northern escarpment
+(St Hilarion, Buffavento, Kantara); principal ports Limassol (early) and
+**[[famagusta|Famagusta]]** (post-1291 emporium). Full political narrative:
+[[kingdom-of-cyprus]]; standard monograph:
+[[edbury-kingdom-cyprus-crusades-1991|Edbury (1991)]].
+
 ## Lusignan Cyprus as a Frontier Society
 
-In *[[abulafia-berend-medieval-frontiers-2002|Medieval Frontiers]]* (2002), Peter Edbury frames Lusignan Cyprus — conquered by Richard the Lionheart from the Byzantine Isaac Komnenos in 1191 — as a **double frontier**: the most easterly outpost of Latin Christendom, exposed to the Mamluks (the Cypriot sack of Alexandria in 1365 opened a war to 1370; a Mamluk invasion captured King Janus in 1426), and internally a society where a small Frankish elite ruled a much larger Greek Orthodox population. Law encoded a rigid caste hierarchy by class, race and religion — Philip of Novara's treatise ranks testimony Latin-first, then Syrian, Greek, other eastern Christian, Muslim; assault compensation ran 100 sous for a Frankish victim against 50 for a Greek, Syrian or serf; unfree *vilains* (Byzantine *paroikoi*) were bought and sold as chattels. Yet Edbury traces a long-run **assimilation** — Greeks staffing the royal finance office (the *secrète*, its very name Byzantine), intermarriage, a hybrid "nation chyproise," Italianate-Gothic Orthodox cathedrals, and the historian Leontios Makhairas respecting his Frankish masters — and Lusignan rule proved more stable than Venetian Crete, which he attributes partly to the constant external Muslim threat binding rulers and ruled together.
-- Period: [[middle-bronze-age]] → [[late-bronze-age]] → [[early-iron-age]] → [[archaic-period]] → [[classical-antiquity]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[boardman-cah-v3p1-1982]] · [[boardman-cah-v3p3-1982]] · [[lewis-cah-v6-1994|CAH VI]] (Ch. 8d, Maier)
+In *[[abulafia-berend-medieval-frontiers-2002|Medieval Frontiers]]* (2002), Peter Edbury
+frames Lusignan Cyprus as a **double frontier**: the most easterly outpost of Latin
+Christendom, exposed to the Mamluks ([[sack-of-alexandria-1365|Alexandria 1365]]; Mamluk
+invasion capturing King Janus 1426), and internally a society where a small Frankish elite
+ruled a much larger Greek Orthodox population. Law encoded a rigid caste hierarchy by class,
+race and religion — Philip of Novara's treatise ranks testimony Latin-first, then Syrian,
+Greek, other eastern Christian, Muslim; assault compensation ran 100 sous for a Frankish
+victim against 50 for a Greek, Syrian or serf; unfree *vilains* (Byzantine *paroikoi*) were
+bought and sold as chattels. Yet Edbury traces a long-run **assimilation** — Greeks staffing
+the royal finance office (the *secrète*, its very name Byzantine), intermarriage, a hybrid
+"nation chyproise," Italianate-Gothic Orthodox cathedrals, and the historian Leontios
+Makhairas respecting his Frankish masters — and Lusignan rule proved more stable than
+Venetian Crete, which he attributes partly to the constant external Muslim threat binding
+rulers and ruled together.
+
+## Related (periods and sources)
+
+- Period: [[middle-bronze-age]] → [[late-bronze-age]] → [[early-iron-age]] → [[archaic-period]] → [[classical-antiquity]] → [[high-middle-ages]] → [[late-middle-ages]]
+- Ancient sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[boardman-cah-v3p1-1982]] · [[boardman-cah-v3p3-1982]] · [[lewis-cah-v6-1994|CAH VI]] (Ch. 8d, Maier)
+- Medieval: [[edbury-kingdom-cyprus-crusades-1991]] · [[ghazarian-armenian-kingdom-cilicia-2000]] · [[abulafia-berend-medieval-frontiers-2002]]
+- Actors/events: [[kingdom-of-cyprus]] · [[lusignan-dynasty]] · [[famagusta]] · [[richard-conquest-of-cyprus-1191]]

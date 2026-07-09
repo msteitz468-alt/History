@@ -9,7 +9,7 @@ affiliated_with: [gothic-peoples, foederati, arian-christianity, hunnic-confeder
 opposed_by: [eastern-roman-empire]
 key_events: [gothic-war-535-554]
 key_processes: [ethnogenesis, barbarization-of-the-roman-army]
-sources_ingested: 3
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, state, late-antiquity, mediterranean, germanic]
 ---
@@ -69,3 +69,23 @@ Jonathan Arnold's chapter in the [[sources/effros-moreira-oxford-handbook-merovi
 - [[gothic-peoples]] · [[visigoths]] · [[ethnogenesis]] · [[huns]] · [[theoderic-the-great]]
 - [[gothic-war-535-554]] · [[justinian]]
 - Sources: [[geary-before-france-germany-1988]]; [[wickham-framing-the-early-middle-ages-2005]]
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]] (Chs. XXVI, XXXIV, XXXIX–XLIII).
+
+- **Under the Huns.** After Hermanric’s collapse, Ostrogoths submitted; Amali later served under Attila; Gepids and Ostrogoths foremost vassals (Ardaric, Walamir).
+- **Post-Adrianople remnants.** Ostrogoth remnants settled in Phrygia/Lydia under Theodosian arrangements alongside Visigoths in Thrace.
+- **Theodoric (Amal).** Born near Vienna two years after Attila’s death; fourteenth in Amali descent; boy-hostage educated at Constantinople yet remained illiterate; rare Barbarian who sheathed the sword in victory’s pride; 33 years of civil government; Gothic sovereignty from Sicily to the Danube until Clovis overthrew the Western balance.
+- **Military system in Italy.** Lands as military stipend; Italy as a well-regulated camp; “the Goths were instructed to spare the people, to reverence the laws… and to disclaim the barbarous license of judicial combat and private revenge.”
+- **Gothic War.** Belisarius recovered Rome; Vitiges’s year-long siege; Totila revived Gothic arms then fell to Narses; “Ostrogothic nation extinguished”; Italy devastated.
+
+## From Mitchell, Later Roman Empire (2015)
+
+**Balkan Gothic bands and Zeno (474–91).** After Hunnic eclipse in the 450s, dominant Balkan forces were Gothic warrior bands under Theoderic the Amal and Theoderic Strabo, entangled with Zeno’s Isaurian dynasty. Although Zeno was recognized as legitimate emperor, “the story of his reign… resembled that of the Gothic chieftains as much as it did the regimes of his imperial predecessors,” until Anastasius restored a more conventional imperial order.
+
+**Italian settlement.** ~100,000 Goths into Italy (20–25,000 fighters); settlements in the Po valley/Alpine passes, Adriatic (Ravenna, Picenum), southern Italy/Naples, Sicily, Dalmatia. Rugi joined but refused intermarriage. Beneath Cassiodoran rhetoric stood local strongmen and wartime local commanders (Pitzas, Hildebad, Sisigis). Elite bilingualism and growing intermarriage coexisted with visible Gothic distinctiveness.
+
+**Succession crisis and Justinian’s pretext.** After Theoderic’s death (526), struggle among Amalasuntha, Athalaric, and Theodahat split Romanizing vs “barbarous” Gothic elites; both parties sought Justinian’s support without expecting direct Roman rule. Religious motive — Arian regime as affront to militant orthodoxy — joined political ones. Theodahat’s murder of Amalasuntha after Athalaric’s death gave Justinian further cause for western intervention. Mitchell’s summary judgment: “The true nature of the Ostrogothic kingdom is surely demonstrated by the events that followed Theoderic’s death… The claims that prevailed… were not dynastic but those of military prowess and authority among the Goths at large” (Vitigis, Totila).
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell, *A History of the Later Roman Empire* (2015)]].

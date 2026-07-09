@@ -13,7 +13,7 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [Mithridates' expansion in Asia Minor, Roman provocation, Rome's distraction in the Social War, the rapacity of Roman governors and publicani]
 consequences: [the Asiatic Vespers, the sack of Greek cities, the Treaty of Dardanus, Sulla's crushing indemnity on Asia, the surge of piracy]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [event, classical-antiquity, anatolia, war]
 ---
@@ -83,9 +83,25 @@ civil war.
 different siege), with Memnon; figures are inflated. The Vespers' total and date are
 debated. See [[mithridates-vi]].
 
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) treats the first
+war with Mithridates as a watershed coinciding with the **fall of the last *nobiles*
+republic** (the fifth since the late sixth century) — a “perfect storm” of unfinished
+Italian resistance and eastern challenge ([[roman-republics-periodization]];
+[[fall-of-roman-republic]]). Decisive Italian conflict gave Mithridates opportunity in
+Asia and Greece; stress of fielding a Mithridatic army in 88 while Italy still resisted
+was vital to 80s political collapse. Romans did not finally defeat him until 63 — ~25
+years after the first invasion of Asia — because political unrest at home prevented
+dealing with a serious Black Sea Hellenistic king. The **Peace of Dardanus** frames
+Sulla’s return and invasion of Italy fifty years after Tiberius Gracchus’s death —
+Flower’s preferred half-century frame for violence and collapse, linking eastern
+settlement to restart of Italian civil war ([[sullan-civil-war-83-82bce]]).
+
 ## Related
 
 - King: [[mithridates-vi]] · victor: [[sulla]] · concurrent: [[social-war-91-88bce]]
 - Leads to: Sulla's civil war and dictatorship (Cycle 3); the later wars (Cycle 4)
 - Context: [[roman-provincial-system|misgoverned Asia]] · [[roman-equites|the publicani]]
-- Source: [[crook-cah-v9-1992]] (Ch. 5, Hind) · [[duncan-storm-before-the-storm-2017]]
+- Source: [[crook-cah-v9-1992]] (Ch. 5, Hind) · [[duncan-storm-before-the-storm-2017]] ·
+  [[flower-roman-republics-2010]]

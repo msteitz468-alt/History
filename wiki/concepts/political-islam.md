@@ -5,8 +5,8 @@ origin: The modern movement to order state and society by Islam, from Hassan al-
 applies_to_periods: [World Wars Era, Cold War, Contemporary]
 applies_to_regions: [egypt, near-east, levant, north-africa, arabian-peninsula]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, islamic-world]
 ---
 
@@ -67,6 +67,31 @@ Political Islam is the defining ideological development of the late-twentieth-ce
 Muslim world — the successor to [[arab-nationalism|Arab nationalism]] as the language of
 opposition and identity, and central to Rogan's account of the present "age of US domination,"
 9/11, and the "war on terror." It remains the most dynamic political force in the region.
+
+## The Asian Parallel Tradition: Mawdudi, Pakistan, and Beyond (Formichi)
+
+Rogan's account centers Egypt and the Arab world; Chiara Formichi's [[formichi-islam-and-asia-2020|*Islam
+and Asia: A History*]] (2020) traces a parallel, largely independent South/Central Asian tradition
+of political Islam that fed directly into it. **Abu A'la Mawdudi** founded **Jama'at-e Islami (JI)**
+in British India in 1941, rejecting both Congress secularism and the Muslim League's Westernized
+nation-state demand as "un-Islamic." After Pakistan's creation, Mawdudi promoted the **1949
+Objectives Resolution** ("Sovereignty belongs to Allah alone; but He has delegated it to the State
+of Pakistan"), which became the 1956 constitutional preamble. Formichi (2020) stresses that
+Mawdudi's key concepts — ***hakimiyya*** (God's sovereignty), ***jahiliyya*** as a description of
+the contemporary (not just pre-Islamic) world, and legitimate **jihad** — directly shaped Sayyid
+Qutb after the two met in 1951 (mediated by Sayyid Abu'l-Hasan Nadwi at Ta'if); the vocabulary of
+*hijra* (political non-cooperation with "jahili" society) and *takfir* (declaring fellow Muslims
+infidel) as twentieth-century political strategies is attributed jointly to Mawdudi and Qutb.
+
+General **Zia ul-Haq's** 1977 coup, backed by JI's Pakistan National Alliance faction, launched
+top-down Islamization (the 1979 Hudud Ordinances) and drove Pakistan's registered madrasas from
+900 (1971) to 8,000 (1988) — many Deobandi-run, feeding the Afghan-refugee madrasa network from
+which the Taliban emerged (see [[soviet-war-in-afghanistan-1979]]). Formichi also traces political
+Islam's spread into Soviet/post-Soviet Central Asia: **SADUM**'s tolerated "gray spaces" of
+unregistered study circles absorbed Ibn Taymiyya, Hasan al-Banna, Qutb, and Mawdudi by the 1980s,
+feeding both quietist movements like the **Tablighi Jama'at** and militant ones like the **Islamic
+Movement of Uzbekistan**. In Indonesia, the 1980s *usra* (tarbiya/da'wa study-circle) movement
+likewise read al-Banna, Mawdudi, and Qutb in mosque settings nationwide (see [[pancasila]]).
 
 ## Related
 

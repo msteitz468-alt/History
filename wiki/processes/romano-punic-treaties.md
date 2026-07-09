@@ -173,10 +173,22 @@ by the Roman seizure of Sardinia in 238 BCE and the humiliating terms imposed on
 exhausted Carthage. Hamilcar Barca reportedly made his son Hannibal swear eternal
 enmity to Rome (Polybius). The Second Punic War (218–201 BCE) was the consequence.
 
+## The Ebro accord (225) and the Sardinia clause (Hoyos)
+
+Dexter Hoyos ([[hoyos-hannibals-dynasty-2003|*Hannibal's Dynasty*]]) treats two late
+episodes as decisive. The **238/237 Sardinia settlement** he reads not as a pre-existing
+treaty right (the later claim that Sardinia and Corsica had been ceded with Sicily in 241 he
+calls a pro-Roman fiction) but as an opportunistic addition extorted from a recovering
+Carthage — a fresh 1,200-talent indemnity plus the island, on pain of renewed war. The
+**Ebro accord** (c. 225) between [[hasdrubal-the-fair|Hasdrubal the Fair]] and Rome, by
+which the Carthaginians would not cross the Ebro "in warfare," Hoyos reads as **mutually
+advantageous** rather than adversarial — relieving Roman anxiety during the Gallic-invasion
+scare while giving Hasdrubal implicit Roman acquiescence to expand through the rest of Spain.
+
 ## Related
 
-- Controversy: [[philinus-treaty-controversy]]
+- Controversy: [[philinus-treaty-controversy]] · [[causes-of-second-punic-war]]
 - Event: [[first-punic-war-264-241bce]] · [[pyrrhic-war-280-275bce]] ·
   [[mercenary-war-241-237bce]]
-- Actor: [[carthage]] · [[roman-republic]]
-- Source: [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard)
+- Actor: [[carthage]] · [[roman-republic]] · [[hasdrubal-the-fair]]
+- Source: [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard) · [[hoyos-hannibals-dynasty-2003|Hoyos]]

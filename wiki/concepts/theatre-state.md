@@ -5,8 +5,8 @@ origin: coined by Clifford Geertz (Negara: The Theatre State in Nineteenth-Centu
 applies_to_periods: [Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern]
 applies_to_regions: [southeast-asia, south-asia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -72,3 +72,7 @@ spectacle and monument, it has been enormously productive.
 ## See also
 
 - [[theatre-state-and-the-bases-of-power]] — the theatre-state model set against the bureaucratic-coercive state (spectacle vs. coercion)
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+Light touch: [[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] do not use Geertz's "theatre-state" label, but their Early Classic material on **ceremonial landscape of kingship** supplies archaeological depth to the spectacle model. Sabukingking's floating-pavilion / *balai kambang* context and Visnu-on-ocean imagery evoke the king as Visnu reclining on the ocean; Ratubaka's palace-garden zone is compared to Talang Tuwo and later Javanese palace gardens (Cirebon, Surakarta, Yogyakarta in the 18th c. still building elaborate palace gardens). Concurrent_with [[srivijaya]] and [[mataram-kingdom]]; complements Reid's festival-as-politics reading above with built ceremonial space rather than ephemeral procession alone.

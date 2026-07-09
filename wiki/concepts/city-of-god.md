@@ -9,8 +9,8 @@ applies_to_regions:
   - mediterranean
   - western-europe
 contested: "no"
-sources_ingested: 1
-last_updated: 2026-07-03
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -61,9 +61,23 @@ political thought. It also stands as a monument of "Christian nationalism" in Br
 Scripture deliberately set up as a rival literary culture to the classical canon, "your Vergil"
 juxtaposed at every turn with "our Scriptures."
 
+## From Gibbon, *Decline and Fall* (Ch. XXXI)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]]; not asserted as modern fact.
+
+- **Occasion as Providence-defense.** “The learned work, concerning the City of God, was professedly composed by St. Augustin, to justify the ways of Providence in the destruction of the Roman greatness” — framed as answer to 410 and pagan reproach.
+- **Churches vs. gods.** Celebrates Gothic respect for the apostolic churches versus the failure of the pagan gods to protect Rome.
+- **Miracle dossier.** Inserts African miracles of St. Stephen (70+ at [[hippo-regius|Hippo]], three resurrections) that Gibbon treats as symptoms of an age of superstition making miracles ordinary — an Enlightenment filter on Augustine’s apologetic material.
+
 ## Related
 
 - Author: [[augustine-of-hippo]] · [[hubs/biographies/late-antiquity/augustine-of-hippo]]
 - Occasion: [[sack-of-rome-410]] · [[alaric]] · [[fall-of-the-western-roman-empire-476]]
 - Context: [[donatism]] · [[late-antiquity]] · [[christianization-of-the-roman-empire]]
-- Source: [[sources/brown-augustine-of-hippo-2000]]
+- Source: [[sources/brown-augustine-of-hippo-2000]] · [[sources/gibbon-decline-and-fall-1776]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **Flashpoint citations.** Mitchell cites *City of God* at two political-religious flashpoints rather than as a full conversion psychology source (that role falls to the *Confessions*): (1) CG 18.52 — Augustine later saw Julian’s teaching ban as clear religious intolerance; (2) CG 5.26 — allegation that Eugenius’s Frigidus camp stood under Hercules and Jupiter, feeding Christian framing of 394 as cosmic pagan–Christian war (which Cameron/Mitchell treat largely as propaganda).

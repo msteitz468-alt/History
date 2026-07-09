@@ -9,8 +9,8 @@ origin: >
 applies_to_periods: [Late Bronze Age, Early Iron Age, Greek Dark Age, Archaic Period]
 applies_to_regions: [levant, mediterranean, aegean, near-east]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -118,10 +118,18 @@ ever-earlier datable inscriptions could lower the date. This is an area where th
 collection (with Jeffery's own *Local Scripts of Archaic Greece* behind the chapter) is
 strong.
 
+## From Hall, *Archaic Greek World* (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] restates the consensus: earliest Greek graffiti generally **mid-eighth century** (slightly earlier claims at Eretria, Naxos, Lefkandi; Osteria dell’Osa flask ca. 800–775), adapted **once** from later Phoenician/Northwest Semitic script (shared vowel re-use and new aspirate signs), with later local script divergence. Transmission candidates remain open: Crete (Kommos), Cyprus, Al Mina, Pithecusae/Italy, or Euboea (Semitic graffito at Eretria’s Daphnephoros sanctuary).
+
+**Purpose and orality.** Purpose is unclear — unlikely for epic recording or early panhellenism. Most early texts are **names of owners or dedicatees**, not Linear B-style accounting. After the loss of [[aegean-scripts|Linear B]], Greece remains **essentially oral into the Classical period** despite alphabetic literacy. **`preceded_by:`** Dark Age illiteracy after Mycenaean collapse; **`contrasts_with:`** palace-scribal uses of Linear B.
+
+**Source:** [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]], early-Archaic material-culture survey (alphabet and graffiti).
+
 ## Related
 
 - Source script: [[phoenicians|Phoenicians]] · Lost predecessor: [[aegean-scripts|Linear B]]
 - Context: [[euboea|Euboea / Al Mina]] · [[greek-dark-age|Greek Dark Age]] recovery · [[archaic-period|Archaic Period]]
 - Carriers: [[homer|Homer]] · [[city-state|the polis]] · [[phrygians|Phrygians]] (parallel adoption)
-- Cypriot exception: [[cypriot-syllabary]] · transmission frame: [[orientalizing-revolution]]
-- Sources: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Ch. 20) · [[boardman-cah-v3p3-1982|CAH III.3]] (Ch. 36a, Braun)
+- Cypriot exception: [[cypriot-syllabary]] · transmission frame: [[orientalizing-revolution]] · material: [[archaic-greek-material-culture]]
+- Sources: [[boardman-cah-v3p1-1982|CAH Vol. III, Part 1]] (Ch. 20) · [[boardman-cah-v3p3-1982|CAH III.3]] (Ch. 36a, Braun) · [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

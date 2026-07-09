@@ -9,8 +9,8 @@ affiliated_with: [[[carolingian-empire]], the Latin Church, the Papacy]
 opposed_by: [his rebellious sons (Lothar, Pippin of Aquitaine, Louis the German); rebel aristocratic factions]
 key_events: [Ordinatio imperii 817, revolt of 830, the "Field of Lies" and public penance 833, restoration 834]
 key_processes: [[[carolingian-renaissance]], the reform of the Frankish church, the unravelling of imperial unity]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, western-europe]
 ---
 
@@ -62,3 +62,7 @@ treat the conflicts as the working-out of an insoluble structural problem, and r
 sources (the *Annals of St-Bertin*, Nithard, Thegan, the Astronomer) critically as partisan accounts
 generated *by* the crisis they describe. The 833 penance in particular is now seen as a contested
 ritual of power, not simply a humiliation.
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Logan’s structural premise for the “Church in Disarray” (c.850–c.1050): disintegration after Louis’s death (**840**) foreshadowed further splits; “whatever there was of central government died with Louis the Pious”; Carolingians reduced to men with sobriquets (the Bald, the Stammerer, the Fat, the Simple, the Child—“the Irrelevant”). Under Louis, **Benedict of Aniane** and the Monastic Capitulary (816–17) universalized Benedict’s Rule, enforced by imperial visitors ([[missi-dominici]]-style). Louis confirmed the [[franco-papal-alliance]] with Stephen IV in 816 (*pactum confirmationis*). Collapse of formal alliance and local/passive papacy after [[pope-nicholas-i|Nicholas I]] are framed as consequences of post-Louis political atomization.

@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: ["failed 30 September Movement putsch and Suharto's countercoup", "Cold War anti-communist alignment of the Indonesian Army", "US embassy provision of PKI leadership name-lists", "British IRD psychological warfare campaign amplifying fabricated Gerwani atrocity propaganda"]
 consequences: ["mass death toll of alleged PKI members and sympathizers", "over 1 million arrested; tens of thousands still held as political prisoners years later", "Sukarno's political demise and Suharto's rise to the presidency", "cited by later observers as a template ('the Jakarta model') for anti-communist repression elsewhere"]
-sources_ingested: [1]
-last_updated: "2026-07-03"
+sources_ingested: [2]
+last_updated: "2026-07-08"
 tags: [event, cold-war, southeast-asia]
 ---
 
@@ -45,6 +45,23 @@ Separately, British Foreign Office psychological-warfare official Norman Reddawa
 - [[suharto|Suharto]] — Army Strategic Reserve commander who organized the countercoup and later ruled as president.
 - [[sukarno|Sukarno]] — president whose "Guided Democracy" and NASAKOM ideology preceded the crisis; sidelined by 1966–67.
 - central-intelligence-agency — supplied name-lists and reportedly discussed covert payments to anti-PKI operatives.
+
+## Muslim Organizational Participation (Formichi)
+
+Chiara Formichi's [[formichi-islam-and-asia-2020|*Islam and Asia: A History*]] (2020) adds a
+dimension largely absent from the covert-action-focused accounts above: the mobilization of
+mainstream Muslim organizations against the PKI on the ground. Formichi (2020) states that, following
+the alleged 30 September coup, mass mobilization drew in **Muhammadiyah** and the **Ansor** youth
+wing of [[nahdlatul-ulama|Nahdlatul Ulama (NU)]], alongside rural *'ulama* who framed communists as
+*kuffar* (unbelievers) — a religious framing that, on Formichi's account, helped legitimate
+participation in the killings at the local level. She also records NU's own women's affiliates
+mobilizing in a "semi-military" capacity against the PKI-linked **Gerwani** women's organization in
+1965–66, describing a shift "from an unruffled existence of preaching... to rallying in the streets
+against the Communists." This attribution — Muslim organizational participation, distinct from and
+additional to the US/UK covert role documented by McCoy above — should be read as Formichi's
+synthesis of the existing historiography on religiously-framed mass violence, not as adjudication of
+the (still-disputed) balance of causal weight between state, military, US/UK, and grassroots
+religious actors; see [[nahdlatul-ulama]] for the organization's fuller history.
 
 ## Historiography
 

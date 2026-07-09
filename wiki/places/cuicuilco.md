@@ -7,7 +7,7 @@ period_active: [Archaic Period, Classical Antiquity]
 controlled_by: [Cuicuilco polity]
 events_here: [eruption of Xitle (~200–400 CE), Cuicuilco decline (Patlachique phase)]
 processes_here: [[[mesoamerican-state-formation]], [[urbanism]], [[teotihuacan-formation]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [place, mesoamerica, archaic-period, classical-antiquity, americas]
 ---
@@ -153,6 +153,43 @@ surviving as a small regional center to ~A.D. 200. Cowgill frames probable multi
 and tribute extraction, with Cuicuilco and Teotihuacan as sole Basin rivals until Cuicuilco was
 crippled by lava—speculative in his own wording.
 
+## Evans & Webster 2001
+
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster (eds.) 2001]]
+adds signed-entry consensus that must be held next to Cowgill/Siebe and Grove CHNPA
+(**EW2001**).
+
+**Susan Toby Evans (Cuicuilco entry):** Late Formative (300–1 B.C.) Cuicuilco was the largest
+and most impressive Basin of Mexico site — pyramid largest of its time, population **perhaps
+as great as 20,000**. In **50 B.C.** the Xitle eruption covered the site with lava flows some
+**10 m deep** over ~**80 km²**. Circular stepped pyramid nearly **20 m high** and **>110 m
+across**, recognized as a built feature only in 1922 by Gamio and Cummings. Founded c. **1100
+B.C.** (with Coapexco), early irrigation, first pyramid version by **400 B.C.**; late Late
+Formative shared power with growing Teotihuacan; Teotihuacan’s great growth spurt “almost
+certainly” included Cuicuilcan refugees who built Teotihuacan’s monuments for that city’s
+rulers.
+
+**Jeffrey R. Parsons (Basin of Mexico):** Middle Formative lakeshore center **40–50 ha**; by
+**Patlachique** a capital of ~**40,000** competing with Teotihuacan for regional hegemony;
+destroyed with its heartland by volcanic eruptions in the **first century B.C.**; massive
+circular platform and pyramid anticipate later round temples (Cholula, Tlatelolco,
+Tenochtitlan) and may suggest early Quetzalcoatl-cult presence; incense burners and fire-god
+effigies present.
+
+**Lorraine Williams (Architecture):** Middle Formative Basin lakeshore sites Cuicuilco,
+Tenayuca, Tlapacoyan display formal monumental elements; pyramid is large packed-earth-and-
+stone series of truncated conical platforms with base burials indicating ritual functions.
+
+**John E. Clark (Formative Period):** major Middle and Late Formative center covered by lava;
+**“the relationship of this major community to the development of Teotihuacan remains to be
+determined”** — flag of genuine uncertainty against Evans’s refugee-labor certainty.
+
+**Population tension (attributed):** Evans ~20,000 peak vs Parsons ~40,000 at Patlachique vs
+Grove CHNPA ~20,000 / Cowgill CHNPA max ~20,000 (Sanders et al.) — report ranges by author;
+do not collapse. **Xitle dating tension:** Evans places the sealing eruption at **50 B.C.**;
+Cowgill 2015 / Siebe place Xitle ~**200–400 CE** after political abandonment — preserve both
+as source-attributed chronological frameworks (see Historiography above).
+
 ## Related
 
 - `[[teotihuacan]]` (place and state) — successor hegemon; preceded_by: Cuicuilco
@@ -164,4 +201,5 @@ crippled by lava—speculative in his own wording.
 - `[[teotihuacan-ceramic-phases]]` — Cuanalán and Tezoyuca phases precede Patlachique
 - `[[zapotec]]` — concurrent peer polity (Monte Albán)
 - Sources: `[[cowgill-ancient-teotihuacan-2015]]` ·
-  `[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 3 (Grove), Ch. 6 (Cowgill)]]`
+  `[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 3 (Grove), Ch. 6 (Cowgill)]]` ·
+  `[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]`

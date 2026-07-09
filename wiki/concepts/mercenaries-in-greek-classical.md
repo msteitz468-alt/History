@@ -5,8 +5,8 @@ origin: "Transition during and after the Peloponnesian War (as analyzed in Hans 
 applies_to_periods: ["classical-antiquity"]
 applies_to_regions: ["greece", "aegean", "eastern-mediterranean"]
 contested: "no"
-sources_ingested: [1]
-last_updated: 2026-06-24
+sources_ingested: [2]
+last_updated: 2026-07-08
 tags: ["concept", "military-organization", "mercenaries", "professionalization", "classical-antiquity", "greece", "delbruck"]
 ---
 
@@ -50,7 +50,62 @@ The shift to a mercenary army naturally also wiped out in Athens the old divisio
 
 Much earlier Greece had already become familiar with professional soldiers as mercenaries; the tyrants, like Polycrates of Samos and Pisistratus of Athens, had body guards on which their hegemony rested. Polycrates is even supposed to have had a small army of 1,000 archers. The kings of Egypt and Lydia had an army of Greek mercenaries. But, after all, those are not decisive sizes, and the real mercenary system, which became a significant factor of the life of the Greek states, first appeared in the Peloponnesian War era.
 
-## Historiography
+## CHGRW synthesis (Hornblower, Hunt, Gabrielsen, Sekunda, Lendon)
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] reframes the
+Delbrück narrative of “mercenaryization during the Peloponnesian War” as a longer
+process with sharper social and institutional points.
+
+**Phases (Hunt I.5).** Early archaic Greeks in Saite Egypt; Persian king/satraps hiring
+Greek hoplites; tyrants’ bodyguards; city-state mutual wars escalate fifth–fourth
+centuries — naval crews, light arms, then cavalry. By the late fourth century
+*stratiōtēs* alone often means **mercenary**, and the citizen-soldier needs a modifier.
+Hoplites remained citizen-amateurs longest; mid-fourth-century mercenary hoplite forces
+could match citizen levies. Demosthenes/Isocrates moralizing overstates citizen “decline”
+— Athenians still fought when the homeland was threatened, but empire-scale extended
+campaigns were unaffordable without mercenaries (Dem. 4.21). Mercenary effectiveness did
+not translate into status: Athenians stereotyped them as impoverished semi-barbarians;
+peltast/archer/slinger prestige suffered by association.
+
+**Political habits of hired armies (Hornblower I.2).** The standard case is Xenophon’s
+**Ten Thousand** (~400 BCE): after Tissaphernes killed the commanders, the army elected
+replacements (including Xenophon) and decided by hand-vote assembly language (*edoxe
+tauta*). The Ten Thousand were not unique but an extreme instance of Greek armies’
+habit of sliding into political habits and calling commanders to account — already
+visible in Thucydides’ Sicilian expedition (commanders fearing soldiers’ opinion; Nicias
+resisting open vote “among many,” 7.48.1).
+
+**Naval spearhead of mercenaryization (Gabrielsen I.8).** Large-scale employment of
+outsider naval crews spearheaded broader use of mercenary soldiers; Thuc. 1.121.3’s
+“purchased rather than home-grown” naval manpower applied before 431 and through the
+fourth century. Land mercenaries appear in Athenian operations (Thracians 423, 422; 1,300
+at 1 dr./day in 413), foreshadowing Iphicrates’ peltasts; Isocrates claims **1,000
+talents** on mercenary pay in the Social War alone (7.9). Mercenaries were not more
+expensive *per se* but often year-round; “self-funding” generals forced toward soft
+targets and ally extortion. See [[financing-greek-warfare]].
+
+**Elite citizen corps as parallel professionalization (Wheeler I.7).** Permanent élite
+*epilektoi* (often 300, year-round training, state support) — Theban Sacred Band most
+famous; Syracuse Six Hundred from 461 — responded to Spartan sophistication, mercenaries,
+and professionalization without abandoning the citizen core.
+
+**Aristotle’s balance (Hunt).** *EN* 3.8.7–9: mercenary technical superiority vs citizen
+moral steadfastness when overmatched — professionals first to run; citizens stand and die.
+Iphicrates’ sleeping-sentry execution story illustrates harsher mercenary discipline.
+
+**Hellenistic revision (Sekunda I.11A; Serrati II.14).** The “citizen-phalanx” remained
+the key element of most Hellenistic field armies; the view that Hellenistic armies were
+mainly mercenary is now seen as misleading — though peacetime standing forces/garrisons
+were mercenary (*xenoi*/*misthophoroi*; cash *opsonion*/*misthos* + rations
+*sitos*/*metrema*). Two recruitment modes: direct individual hire into specialist units
+“belonging” to the monarch; *symmachia* treaties for “symmachic contingents” (Cretan
+inscriptions); Cretan archers especially prized. Early Hellenistic rates roughly doubled
+classical/Philip–Alexander norms: hoplite from ~4 to 8 Attic obols/day; cavalryman from
+~8 to 16. Lendon (II.15): widespread hire despite expense and bad repute implies a
+revolution away from the elite-hoplite *aretē*/*andreia* model in which “bad men”
+mercenaries should not win.
+
+## Historiography (Delbrück wage notes)
 
 The wages varied between 4 obols and 1 drachma (6 obols) per man; for the hoplites, therefore, 2 drachmas, 1 for the warrior and 1 for his servant, including ration money. When the humorist Theopomp says that a man could feed a wife on 2 obols and that he could be completely happy on 4, he probably means the base pay aside from the rational allowance, which was, where needed, provided by 2 additional obols. At the time of Aristotle the Athenian ephebi received 4 obols daily, their instructors 1 drachma.
 
@@ -66,9 +121,9 @@ In Aristotle, On the State of the Athenians, Chapter 24, where he explains that 
 
 ## Links
 
-- [[delbruck-history-of-the-art-of-war-vol-1-1975]]
-- [[actors/pericles]]
-- [[concepts/periclean-strategy]]
-- [[periods/classical-antiquity]]
-- [[concepts/sachkritik]]
-- [[warfare-hub]]
+- [[greek-warfare]] · [[hoplite-warfare]] · [[financing-greek-warfare]] · [[greek-naval-warfare]]
+- [[march-of-the-ten-thousand-401bce]] · [[athens]] · [[sparta]] · [[philip-ii-of-macedon]]
+- [[delbruck-history-of-the-art-of-war-vol-1-1975]] · [[actors/pericles]] · [[periclean-strategy]]
+- [[periods/classical-antiquity]] · [[sachkritik]] · [[warfare-hub]]
+- Source: [[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] (Hornblower
+  I.2, Hunt I.5, Gabrielsen I.8, Wheeler I.7, Sekunda I.11A, Serrati II.14, Lendon II.15)

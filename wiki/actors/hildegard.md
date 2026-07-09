@@ -52,3 +52,4 @@ decor*).
 - Children: [[louis-the-pious]]
 - Successor as queen: [[fastrada]]
 - Source: [[sources/nelson-king-and-emperor-2019|Nelson, *King and Emperor* (2019)]]
+- **Disambiguation:** For the twelfth-century Rhenish visionary and *magistra* of Rupertsberg, see [[hildegard-of-bingen|Hildegard of Bingen]] (Logan profile) — not this Carolingian queen.

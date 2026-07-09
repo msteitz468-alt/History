@@ -7,8 +7,8 @@ period_active: [bronze-age, dark-age, archaic-period, classical-antiquity, helle
 controlled_by: [Mycenaean Greeks, local kings/tyrants, Athenian democracy/demos, Macedonian kingdoms, Roman Republic/Empire, Byzantine Empire, Latin Empire, Ottoman Empire, Kingdom of Greece, modern Hellenic Republic]
 events_here: [battle-of-marathon-490bce, battle-of-salamin-480bce, peloponnesian-war-431-404bce, plague-of-athens-430bce, sicilian-expedition-415-413bce, fall-of-athens-404bce, chremonidean-war-267bce, sack-of-athens-86bce, battle-of-athens-1944]
 processes_here: [development-of-democracy, athenian-empire, delian-league, axial-age-philosophy, classical-greek-art, periclean-building-program, hellenistic-athens]
-sources_ingested: 7
-last_updated: 2026-06-26
+sources_ingested: 9
+last_updated: 2026-07-08
 tags: [place, mediterranean, classical-antiquity, greece, aegean]
 aliases: [Athens Greece, Classical Athens, Ancient Athens, Athina]
 ---
@@ -68,4 +68,20 @@ Collection coverage is **strong** for Classical Athens (best-covered period over
 
 **Sources ingested contributing to this page**: CAH Vol. III.3, IV, V, VI; Kagan *Peloponnesian War*; Hanson *A War Like No Other*; Connolly *Greece and Rome at War*; Lewis *CAH V*; Benjamin *CWH IV*; plus events and actor pages synthesized from them. (Count reflects direct use in synthesis.)
 
+### Hall (2014) — Archaic settlement and late political synoikism
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]: physical coalescence of Dark Age burial clusters into a conurbation by ca. 700 (shift to Kerameikos and outlying cemeteries); eighth-century prosperity without colonization; seventh-century archaeological “gap.” Political unification of Attica may be late — pedion-centered citizenship until [[cleisthenic-reforms-508bce|Cleisthenes]]; Theseus synoikism tradition and Panathenaea (560s) as affiliation tools rather than proof of early full franchise. Detailed actor-side synthesis: [[actors/athens]].
+
 All claims grounded in already-ingested sources per user directive. Links use established wiki pages only. Updated 2026-06-26.
+
+### From the Oxford History of the Classical World (1986)
+
+**Forrest (Ch.1, [[sources/boardman-oxford-history-classical-world-1986|OHCW 1986]]).** Pisistratid public works, temples, fountain-houses, drains, and festivals concentrated attention on the city; Cleisthenic demes reorganized local government and citizen lists across Attica while older cult groups endured. Marathon (490) and the 482 Laurium fleet decision shaped the city’s classical trajectory; 487 lot-archonship elevated the ten tribal generals.
+
+**Murray (Ch.9).** Only Athens offers enough variety for detailed social reconstruction—and was **fundamentally untypical**. *Polis* as male association; deme + hereditary membership and official demotic designation; *phratria* as ordinary man’s social-religious focus; network of associations (Aristotle) creating belonging; women’s legal seclusion under a *kyrios* (contrast Spartan women’s property freedom); erosion of family privacy for public-centred culture (magnificent festivals/buildings, mean private houses). Closing: Athens as paradigm of latent *polis* forces.
+
+**Hornblower (Ch.6).** Acropolis building and dramatic festivals financed by imperial public wealth and private liturgy; military/political success underwrote fifth-century cultural magnetism after the Ionian intellectual diaspora of the Persian Wars.
+
+**Parker (Ch.11).** Secular control of cult (magistrates/assembly; part-time priests); democracy transformed aristocratic cults and raised deme importance; hero-cult dense in Attica (hundreds of heroes) for local loyalty.
+
+**Price (Hellenistic).** Rich benefactors (e.g. Philippides 301–283/2); late-third-century Ptolemaeum gymnasion; cultural prestige and tragic master-scrolls under kings.

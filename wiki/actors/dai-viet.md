@@ -9,8 +9,8 @@ affiliated_with: ["the Buddhist monkhood (Ly–Tran)", "neo-Confucian literati (
 opposed_by: ["China (Song, Yuan/Mongol, Ming)", "[[champa|Champa]]", "internal rivals (Trinh–Nguyen split)"]
 key_events: ["independence from China (939)", "the founding of the Ly dynasty & Thang-long (1009–10)", "the repulse of the Mongols (1257–88)", "the Ming occupation (1407–28) & Le restoration", "the conquest of Champa's Vijaya (1471)"]
 key_processes: ["[[indianization-of-southeast-asia|sinicization (the East-Asian alternative to Indianization)]]", "[[confucianism]]", "[[buddhism]]"]
-sources_ingested: 2
-last_updated: 2026-07-03
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, state, southeast-asia, vietnam, early-middle-ages, high-middle-ages]
 ---
 
@@ -96,10 +96,22 @@ the borderline case of his region. Its distinctive, China-facing **historiograph
 as an argument about the Sino-Vietnamese relationship) gives it a documentary richness "greatly out of
 proportion" to Champa, Angkor, Pagan, Srivijaya, or Majapahit — and shaped Vietnamese identity itself.
 
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+**From Annam to independence.** Tang Protectorate of Annam (“Pacified South”) formed **679** (HQ south of Red River at Hanoi); eight provinces later formed independent Vietnam’s core. Dai La wall perimeter 6.4 km, height 7.5 m; 2002–09 excavations (19,000 m²) yielded face-tiles, Chinese and West Asian ceramics. Ninth-century crisis: Nanzhao full invasion 862 (Dai La fell, retaken 865); Protectorate abolished; garrisons withdrawn 880; Khuc family posed as Tang officials. After Tang 906: **Ngô Quyền** defeated Southern Han at Bạch Đằng late **938** (iron-tipped stakes); **Đinh Bộ Lĩnh** as emperor founded **Đại Cồ Việt** **965**—Vietnamese foundation moment. Independent polity consolidated mid-10th to mid-11th c. amid competition among Twelve Warlords; Song failure to subjugate Vietnam in **980** signals Song scholar-gentry military inexperience.
+
+**Lý and early expansion.** Lý Công Uẩn (Lý Thái Tổ, 1009–28), temple orphan/palace guard commander, moved capital Hoa Lư → Đại La renamed **Thăng Long**; dynasty 1009–1225. Governed by Buddhist ideas with diversity tolerance; “fiefdoms and latifundia”; symbiotic *saṅgha* relation plus indigenous spirit, Brahmā/Indra, and Chinese geomancy. ~1,000 persons became Buddhist instructors 1016 (tax/military exemptions for monkish conversion); ~1,000 temples built 1030. Classical institutions: Văn Miếu 1070, first exams 1075, Quốc Tử Giám 1076, Hàn Lâm 1086. 1044 expedition to Vijaya returned with 5,000 captives, elephants, gold, jade (Cham script bricks at Ba Đình; captive dancers; Po Nagar in pantheon). Lý Thánh Tông (1054–72) captured Dia Ly, Ma Linh, Bo Chinh 1069. By early **1076** Lý army reached Guangdong/Guangxi; China recognized autonomous **An Nam Guo**.
+
+**Trần, Mongols, Chams.** Senior King (*Thái Thượng Hoàng*) dual-capital system (Thăng Long + Tức Mặc/Thiên Trường)—analogous to Classic Indonesia. Mongols attacked Thăng Long **1258, 1285, 1288**—repelled but capital razed; linked to Kublai’s Cham non-submission expedition (Trần refused transit). Post-Mongol: literati replaced monks in administration; Chinese-style exams and Confucian institutions rose; ceramic export boom (Japan, Philippines, Indonesia) under Ming private-trade restrictions; Trúc Lâm / Pháp Loa building boom (transition to Vietnamese Buddhism). Cham invasions from 1361: capital fell 1371, 1377, 1383; turning point when Che Bong Nga killed **1389**—power shifted decisively to Đại Việt. Trần lasted 175 years until Hồ Quý Ly usurped from five-year-old grandson.
+
+**Lê–Mạc Postclassic.** Ming occupied Thăng Long as Jiaozhi ~20 years. Lê Lợi uprising Lam Sơn 1418; defeated Chinese after 10 years; early Lê 1428–1527; Thăng Long as Đông Kinh (“Tonkin”); renamed country Đại Việt; *Bình Ngô đại cáo* (Nguyễn Trãi); capital rebuilt on Thăng Long foundations after Tang Chang’an model. Lê embraced Confucianism/scholar-gentry; Buddhism ceased in official activities (no new pagodas—only restoration); army/navy and firearms/gunpowder expanded. Lê Thánh Tông peak: sacked Champa 1446 (33,500 captives); invaded Laos/Muong Phuan/Lan Xang even toward Ava; ceramic zenith to West Asia (Topkapı jar inscription 1450). Hải Dương Red River Delta center of 15th–16th c. export ceramics (Van Don then Phố Hiến trans-shipment)—benefited from Ming ban. Hong Đức map 1490: boot-shaped Royal City (Dragon) within Dai La walls. After peak: population pressure, rigid land control, blocked posts → chaos → **Mạc** usurpation 1527–1592 (kept bureaucratic model; Buddhism flourished again with popular Quan Âm; defeated 1592). Parallel courts (Mạc Thăng Long / Lê Thanh Hóa); later Trịnh–Nguyễn domains; Hội An/Faifo commercial port from 16th c. (*shuinsen*, then Chinese after *sakoku* 1635; Portuguese firearms).
+
+*Source: John N. Miksic & Goh Geok Yian, *Ancient Southeast Asia* (Routledge, 2017); [[champa]]; [[seasian-classic-periodization]].*
+
 ## Related
 
 [[champa]] · [[confucianism]] · [[buddhism]] · [[mongol-empire]] · [[indianization-of-southeast-asia]] ·
 [[southeast-asia]] · [[southeast-asian-age-of-commerce]] · [[tarling-cambridge-history-southeast-asia-v1-1992]] ·
 [[sinicization-of-vietnam]] · [[nam-tien]] · [[ly-dynasty-vietnam]] · [[tran-dynasty-vietnam]] ·
 [[le-dynasty-vietnam]] · [[mac-dynasty-vietnam]] · [[trinh-lords]] · [[nguyen-lords]] · [[tay-son-dynasty]] ·
-[[vietnamese-national-continuity]] · [[taylor-history-of-the-vietnamese-2013]]
+[[vietnamese-national-continuity]] · [[taylor-history-of-the-vietnamese-2013]] · [[miksic-goh-ancient-southeast-asia-2017]]

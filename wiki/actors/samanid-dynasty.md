@@ -9,8 +9,8 @@ affiliated_with: ["Abbasid Caliphate (nominal)", "Persian-Islamic culture", "Buk
 opposed_by: ["Ghaznavids", "Qarakhanids", "other Turkic groups"]
 key_events: ["maintenance of Abbasid administration in east", "fostering of New Persian literature"]
 key_processes: ["persian-islamic-culture", "transition from Arab to Persianate Islamic civilization", "iqta-system precursors"]
-sources_ingested: 1
-last_updated: 2026-06-26
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, dynasty, early-middle-ages, central-asia, islamic-world]
 aliases: [Samanids, Samanid amirs, Samanid Empire]
 ---
@@ -25,7 +25,7 @@ Core in Transoxania (modern Uzbekistan/Tajikistan) with capital at Bukhara; exte
 
 ## Governing Structure and Economic Base
 
-Continued Abbasid models: diwans (bureaus), tax administration, and a professional army (often including Turkic ghulams/slaves). Economy based on agriculture (irrigation in oases), trade (trans-Asian commerce), and crafts. Patronage of scholars, poets, and translators.
+Continued Abbasid models: diwans (bureaus), tax administration, and a professional army (often including Turkic ghulams/slaves). Economy based on agriculture (irrigation in oases), trade (trans-Asian commerce), and crafts. Patronage of scholars, poets, and translators. Formichi (2020) identifies this ghulam army as the specific mechanism by which Turkic dynasties emerged from within the Samanid frontier as Abbasid central authority declined — [[mahmud-of-ghazni|Mahmud of Ghazni's]] father Sebuk Tegin rose from slave-soldier to Samanid frontier commander at Ghazna before the [[ghaznavid-dynasty|Ghaznavids]] broke away as an independent successor state.
 
 ## Key Developments
 

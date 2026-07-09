@@ -7,8 +7,8 @@ period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: [[[ptolemaic-egypt|the Ptolemies]], [[rome|Rome]], Byzantium, the early Caliphate]
 events_here: [foundation by Alexander 331 BCE, the Museum and Library, the Pharos]
 processes_here: [[[hellenistic-world]], [[ptolemaic-egypt]], [[urbanization]], [[hellenistic-science]]]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 6
+last_updated: 2026-07-08
 tags: [place, egypt, north-africa, classical-antiquity, late-antiquity]
 ---
 
@@ -65,6 +65,38 @@ Rhodes** (the *Argonautica*) defined "Alexandrianism" — learned, allusive, min
 Here too the **Septuagint** — the Greek translation of the Hebrew scriptures — was made
 for the city's Hellenised Jews.
 
+### Price and Lane Fox (OHCW)
+
+**Simon Price**: of two Greek cities founded in Egypt, Alexandria replaced Pharaonic
+Memphis as Ptolemaic capital and was reckoned the **largest Mediterranean city** in the
+first century BCE — a clear illustration of Greek dominance over non-Greek populations.
+
+**Robin Lane Fox** on royal “wonderland” and the library: Ptolemy II’s 270s grand
+Dionysiac procession (mechanical statues, free wine, 180-ft gold phallus, giraffes and
+elephants, “Corinth” leading Ionian city-women as a League of Corinth / Greek-freedom
+theme, thousands of military). All courts had libraries; Alexandria’s (Aristotelian-
+inspired museum/library) alleged **~half a million rolls** plus ~42,000 in the Serapis
+temple library; ships were searched for books (“from the ships” stamps); master tragic
+scrolls were “borrowed” from Athens; book-piracy and forgery thrived; the Ptolemies
+supposedly cut papyrus export to hinder the Attalids of [[pergamon|Pergamum]], who
+pioneered parchment (a story; fine parchment already existed). Long-term patronage
+prioritized tutors, science, library, and textual scholarship — not history or major
+philosophical talent; after the 240s the best Hellenistic poetry was done; in **145**
+Ptolemy VIII drove scholars from Alexandria across the Aegean; scholarship peaked
+c.220s–mid second century (Aristarchus c.215–143 as master critic; Callimachus’s
+120-book *Tables* cataloguing learning). Lane Fox treats the Septuagint-as-Ptolemy-II
+patronage tale as likely a second-century legend.
+
+### Thonemann demythology (2016)
+
+[[thonemann-hellenistic-age-2016|Thonemann]] (ch. 4) demythologizes the institutions —
+detailed on [[museum-library-of-alexandria]]: Strabo's palace-complex Museum with common
+dining; Timon's "chicken-coop of the Muses"; Library volume figures of 200–700k rolls
+**fantastic** (tens of thousands at most); no good case for destruction by single fire;
+Oxyrhynchus librarian list (Apollonius of Rhodes, [[eratosthenes|Eratosthenes]],
+Aristophanes of Byzantium); great age ends with Ptolemy VIII's expulsion of scholars in
+**144 BCE**. See also [[eratosthenes]] and [[hellenistic-science]].
+
 ## Why Alexandria Mattered
 
 - **The hinge of Ptolemaic power**: royal capital, chief port, naval arsenal, and mint —
@@ -103,9 +135,23 @@ into Chalcedonian and Miaphysite lines after [[council-of-chalcedon-451|Chalcedo
 Greco-Roman city ended when "the Byzantines abandoned Alexandria to the victorious Arabs" in 642
 (see [[arab-conquest-of-egypt-641]]).
 
+## From Gibbon, *Decline and Fall*
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]]; not asserted as modern fact.
+
+- **Slow native conversion.** Easy Christian entrance via commerce and Palestine; theology takes scientific form at the Alexandrian school; until the late second century “the predecessors of Demetrius were the only prelates of the Egyptian church”; natives cold till Christianity sat on the throne, after which the Thebaid swarmed with hermits.
+- **Serapeum / library as type.** Fall of Serapis and the associated library material treated as type of anti-pagan violence under Theodosius (see also [[destruction-of-the-serapeum-391]]).
+- **Omar’s library burning doubted.** Gibbon doubts the story of ʿUmar’s burning of the Alexandrian library as a decisive cultural catastrophe (later Islamic-conquest tradition filtered through Enlightenment source criticism).
+
 ## Related
 
 - Founder: [[alexander-the-great]] · dynasty: [[ptolemaic-egypt]] · [[ptolemy-i-soter]] · [[ptolemy-ii-philadelphus]]
-- Institutions: Museum & Library · [[hellenistic-science]] · cult: [[sarapis]]
+- Institutions: [[museum-library-of-alexandria]] · [[hellenistic-science]] · cult: [[sarapis]] · [[eratosthenes]]
 - Late antique: [[athanasius-of-alexandria]] · [[coptic-church]] · [[destruction-of-the-serapeum-391]] · [[roman-egypt]]
-- Sources: [[walbank-cah-v7-1-1984|CAH VII.1]] (Turner, ch. 5) · [[sources/bagnall-rathbone-egypt-alexander-copts-2004]]
+- Sources: [[walbank-cah-v7-1-1984|CAH VII.1]] (Turner, ch. 5) · [[sources/bagnall-rathbone-egypt-alexander-copts-2004]] · [[sources/gibbon-decline-and-fall-1776]] · [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Late Roman Alexandria’s social-economic history is poorly recovered (“disappeared into a black hole”) — few churches, no local papyri, intermittent secular history — despite rich ecclesiastical/patristic sources. Civic “power vacuum” (only Diocletian among late emperors visited for campaign/rebellion) correlated with recurring urban unrest, rioting, and major disturbances. Bishops mobilized proletarian violence (Serapeum 391–2; Cyril vs Jews 414 and Hypatia’s murder), while Theodosius II merely capped *parabalani* at 500–600 after councilors’ protest (416). “The bishops of the city could call on ill-educated supporters from the proletariat, who did not hesitate to employ extreme violence in a fanatical cause.”
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell, *A History of the Later Roman Empire* (2015)]].

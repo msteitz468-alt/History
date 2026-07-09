@@ -5,8 +5,8 @@ origin: the professional standing army created by Augustus out of the civil-war 
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [italy, mediterranean-world, western-europe, near-east]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept, rome]
 ---
 
@@ -115,6 +115,41 @@ world had yet known," and the best trained and equipped.
   recruitment steadily dissolved the line between garrison and province — "converting barbarians
   into loyal citizens." See [[roman-frontiers]].
 
+## Goldsworthy: the professional oath and the auxilia corrected
+
+Adrian Goldsworthy (*Roman Warfare*, 2000) frames the Julio-Claudian settlement as the
+completion of professionalization: every recruit now swore the **sacramentum** to the
+*princeps* personally, not to the Senate and People, and commanders (*legati*) held
+delegated imperial authority rather than an independent Republican magistracy — legally
+formalizing the personal loyalty that had already reshaped the late-Republican army.
+He treats the **auxilia** as essentially an early-Principate creation (not a simple
+carry-over of allied contingents), organized in citizen-officered *cohortes*, cavalry
+*alae*, and mixed *cohortes equitatae* (roughly four foot to one horse), especially suited
+to garrison and policing duties. Goldsworthy explicitly **corrects the traditional view
+that auxiliary infantry were more lightly equipped and fought in looser order than the
+legions**: the evidence instead shows auxiliary foot wearing comparable mail or scale
+armour and fighting in close order, with only a few units possibly skirmishing (a point
+not directly attested). Auxiliary service ran 25 years, ending in Roman citizenship; the
+formal ban on soldiers marrying during service was widely unenforced in practice —
+soldiers kept de facto families in the *canabae*, and auxiliary discharge grants extended
+citizenship to children even though legionaries' own children had a harder time securing
+recognition.
+
+## Goldsworthy: the third-century officer shift and its unintended cost
+
+Goldsworthy's *Roman Warfare* also traces the army's command structure through the
+[[third-century-crisis|third-century crisis]]: senior command shifted from **senatorial
+legates** (who mixed military service with a civil career) toward **equestrian
+professional officers** — Severus's three new legions (I–III Parthica) were placed under
+equestrian, not senatorial, prefects. Goldsworthy argues this likely raised the average
+professional competence of senior officers, but had an unintended long-term political
+cost: equestrian career officers built closer personal bonds with their troops and were
+not restrained by the need for senatorial acceptance the way senatorial rivals had been —
+"in the long term it had the effect of making usurpations more common." He also connects
+this erosion of the old aristocracy–army command link to growing civilian fear and
+resentment of a now fully professional officer corps, and to increasing regionalism in
+armies no longer rotated through a central senatorial pool.
+
 ## Significance
 
 Augustus' army was the structural foundation of the Principate: a **de-politicized,
@@ -123,6 +158,80 @@ both their pay and gratuities as coming direct from the emperor"). But its cost 
 [[imperial-finances|imperial budget]], its conditions bred recurrent mutiny, and its latent
 power to choose emperors — masked while the Julio-Claudian succession held — was revealed in the
 [[year-of-the-four-emperors-69ce|civil war of 68–69]].
+
+## CHGRW (Rankov, Alston, Gilliver, Whitby)
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] Vol. II deepens the
+institutional picture without overturning Keppie/Hassall.
+
+**Standing army as turning point (Rankov, Ch. 2).** After [[battle-of-actium-31bce|Actium]],
+Octavian disbanded roughly half of ~60 legions and discharged almost all still under arms —
+removing the generation that had held leaders to ransom — then fixed a standing establishment of
+28 legions. Rankov (following Keppie/Schmitthenner) treats most Augustan legions as
+*continuations* of triumviral (often Caesarian) units not disbanded when personnel were released:
+that continuity is “the turning point in the creation of the standing army of the Principate.”
+Service was fixed at 16 years in 13 BCE, later rising to 25–26 years; cash discharge rewards
+replaced mass Italian land confiscations; the army swore loyalty to and depended financially on
+the emperor.
+
+**Paper strengths and structure.** Rankov’s imperial legion: 10 cohorts × 6 centuries of 80 =
+notional 4,800, with the First Cohort often five double centuries → ~5,120 infantry paper, plus
+120 cavalry enrolled in infantry centuries (couriers/escort, not tactical *ala* role). Breeze’s
+estimate for a 5,000-man legion: ~620 *immunes* (~12.4%) and ~480 *principales* (~9.6%); only
+~1.5% were on a path to the centurionate. Mid-second-century paper total (excluding *vigiles*,
+*numeri*, fleets): ~160,000 citizen troops + auxilia yielding ~311,500 infantry and ~85,500
+cavalry — cavalry over 20%. Italian legionary share fell from ~half mid-first century AD to ~one
+in five by century’s end (Forni/Mann); Italians preferred the praetorians.
+
+**Praetorians, auxilia, fleets.** Nine praetorian cohorts under Augustus (three in Rome), later
+12, 16 in 68–9, then 9 under Vespasian and 10 under Domitian; service 12 then 16 years; pay
+eventually more than three times legionary. Concentration in one camp outside the *pomerium*
+(AD 23, Sejanus/Tiberius) revealed the king-making danger — the legacy of 68–9 was that their
+political importance “could never again be overlooked.” Auxiliaries from Claudius: max service
+30 years, automatic citizenship after 25 + *conubium*; bronze *diplomata*; from 140 only children
+born after discharge benefited. Standardized paper strengths: *cohors quingenaria peditata* 480;
+*equitata* ~608; milliary peditata 800; *ala quingenaria* 512; *ala milliaria* 768 (only 8–9
+milliary *alae* mid-2nd c.). Italian fleets at Misenum and Ravenna made the Mediterranean *mare
+nostrum*; sailors non-citizens, 26-year service, citizenship on discharge; large-scale naval
+warfare had become obsolete just as permanent fleets were established (Gilliver).
+
+**Training, equipment convergence, fragmentation.** Vegetius and earlier manuals: march, run,
+jump, swim, *armatura* vs stake, javelin/bow/sling, saddle vault without stirrups; Josephus —
+“their exercises are bloodless battles, and their battles bloody exercises.” By the early third
+century the short stabbing sword gave way to the longer *spatha* for both legionaries and
+auxilia; oval shields largely replaced the classic rectangular *scutum* — “relatively little
+difference” in equipment and fighting style. Units routinely split into vexillations; oversized
+and undersized forts and *lorica segmentata* in auxiliary forts show local adaptation.
+Gilliver warns that “the image of homogeneity in Roman equipment is decreasingly credible”:
+regional variation in kit, deployments, and fighting styles was normal and permanently stationed
+units accentuated differences. Arms production was regional and relatively small-scale: state
+*fabricae* met steady peacetime demand; large campaigns still depended on civic workshops — no
+planned peacetime stockpiles.
+
+**Alston: army politics of the Principate.** Augustus created a standing army “gradually, and
+perhaps more by accident than design”; continuous wars justified large command and continuous
+danger meant no reason to disband. Military glory was monopolized by the imperial family. The
+AD 14 mutinies exposed collapse of Augustan military administration under Pannonian and
+[[battle-of-teutoburg-forest-9ce|Teutoburg]] losses — complaints about service beyond term and low
+pay demonstrate soldiers’ political *failure* rather than strength (“a politically rampant
+soldiery would hardly have suffered the indignities”). Severity of “old-fashioned” disciplinarians
+(Corbulo, Galba) was a gesture to the elite audience; what mattered was competence before emperor
+and Senate, not winning soldiers’ political support. Post-Augustan monarchy promoted military
+success as a monarchical attribute while *marginalizing* troops from the political heart of the
+Principate — until civil war made army support decisive again. By Hadrian most legions recruited
+locally; soldiers’ legal peculiarities (no legal marriage before Severus; ban on provincial land
+ownership — both often ignored) and peacetime law-and-order duties (Ps.-Hyginus ~20% of a legion
+on nightly guard; long detachments at staging posts) shaped daily life more than war. Whitby notes
+epigraphy and archives (Vindolanda, Abinnaeus, Nessana) illuminate routine, patronage, and
+economic magnetism better than combat operations; archaeology points to a better-fed,
+better-equipped soldier with infrastructure “unmatched until the eighteenth century.”
+
+**Severus and the third-century trajectory.** Severus replaced auctioning praetorians with
+Danubian ex-legionaries; doubled *equites singulares*; based II Parthica in the Alban hills —
+roughly a four-legion central force anticipating later field armies. Domitian had ended
+two-legion camps and capped soldiers’ savings to hinder usurpers; only with Severus does Italy’s
+garrison/guard augmentation start toward late-imperial personal field armies. Unit count rose
+while unit sizes may have shrunk — unclear whether the army grew or shrank in absolute numbers.
 
 ## The crisis and the late-Roman army (CAH XII)
 
@@ -146,4 +255,4 @@ praetorians (312). The result was the dual mobile/frontier army of late antiquit
 - Garrisons structure the [[roman-provincial-administration|provincial system]]; the auxiliary
   prefect [[arminius]]
 - Its late-antique transformation: [[late-roman-army]], [[late-roman-administration]]
-- Sources: [[bowman-cah-v10-1996]] (Ch. 11, Keppie); [[bowman-cah-v12-2005]] (Ch. 5, Campbell)
+- Sources: [[bowman-cah-v10-1996]] (Ch. 11, Keppie); [[bowman-cah-v12-2005]] (Ch. 5, Campbell); [[sources/goldsworthy-roman-warfare-2000]]; [[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] (Rankov II.2; Alston II.5B; Gilliver II.4; Whitby I.3)

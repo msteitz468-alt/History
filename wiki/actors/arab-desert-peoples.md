@@ -83,6 +83,50 @@ crescent, on the strength of unbroken links to the deep desert and Arabia. It su
 without which the third century's political upheavals — and the later rise of Islam — "would be
 incomprehensible."
 
+## Fisher (2020): "Saracen," Roman Arab units, and the "nomadic menace" debate
+
+Fisher (*Rome, Persia, and Arabia*, 2020) traces the term **"Saracen"** to Ammianus
+Marcellinus, its first securely-attested user: Ammianus states the "Scenitic Arabs"
+(*scenitae*, "tent-dwellers") were "now called Saracens," without explaining why, and
+gives a hostile ethnographic digression on their nomadism, diet, and customs. Ptolemy had
+earlier used "Sarakenoi"/"Sarakēnē" but did not equate it with the Arab *scenitae* — that
+link is specifically Ammianus's innovation. Proposed etymologies (Ishmael/Sarah folk
+association; Arabic *sharq* "east" or *sariq* "thief"; Aramaic *seraq* "empty"; Aramaic
+*srkt* "federation") are all treated by Fisher as inconclusive. He finds the most
+persuasive candidate to be Michael Macdonald's argument that, once Rome created the
+province of Arabia in 106 CE (see [[roman-annexation-of-nabataea-106]]), anyone living
+within it became bureaucratically "Arab," creating demand for a new term for outsiders in
+the steppe — a North Arabian dialect root *s-r-q* ("to migrate to the inner desert") may
+underlie "Saracen." The parallel Syriac term "tayyaye" (from the tribe of Tayy, or
+possibly Syriac "error") became the standard alternative literary label.
+
+The *Notitia Dignitatum* (late 4th/early 5th c.) records regular Arab-recruited cavalry
+units in Roman service: *equites Saraceni indigenae*, *equites Saraceni*, *equites
+Saraceni Thamudeni* (drawn from the tribe of Thamud, known from the Ruwafa inscriptions —
+see [[roman-annexation-of-nabataea-106]]), and *equites Thamudeni Illyriciani*, plus camel
+cavalry and possibly Arab mounted archers. A long historiographical debate (Parker vs.
+Banning, plus Graf, Isaac, Kennedy, Macdonald) over whether Jordan's *limes Arabicus*
+fortifications were built chiefly to suppress a "nomadic menace" concluded the thesis was
+overstated: Arab raiding, hostage-taking, and slave-taking were real but mostly local
+harassment before the 6th century, when it became more overtly political.
+
+Fisher documents a recurring hagiographic pattern of Arab conversion narratives — healing
+by holy men, idol-smashing, mass baptism, churches replacing watering-holes as social foci
+— including Jerome's *Life of St Hilarion* (conversion of the Saracens of Elusa from
+worship of "the Morning Star"), the chief Zokomos's conversion (c. 364, per Sozomen) after
+a monk promised him a son, and the establishment of the "Parembole" Christian Arab
+encampment (c. 420) under **Aspebetus**, a Persian defector who took the name **Peter**,
+was ordained bishop of the Parembole by Juvenal of Jerusalem (c. 427), and attended the
+Councils of Ephesus (431) and Chalcedon (451) — a rare case of a phylarch also holding
+episcopal office. He also records **Queen Mawiyya's revolt** (c. 377–8, contemporary with
+Valens's death at Adrianople): Mawiyya (also Mania/Mabia) launched an armed uprising after
+the death of her allied husband, routed the *magister militum per Orientem*, and won a
+peace on her own terms — a bishop of her choosing (Moses) and her daughter's marriage to
+the Roman officer Victor. Fisher groups Mawiyya with Semiramis, Cleopatra,
+[[zenobia|Zenobia]], and Boudicca as a rare female military commander of antiquity.
+
+Source: [[sources/fisher-rome-persia-arabia-2020|Fisher, *Rome, Persia, and Arabia* (2020)]].
+
 ## Related
 
 - The caravan city that policed the frontier: [[palmyra|Palmyra]] under [[zenobia|Zenobia]]; the destroyed

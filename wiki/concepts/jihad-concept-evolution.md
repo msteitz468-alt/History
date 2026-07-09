@@ -5,8 +5,8 @@ origin: "Emerged in early Islamic jurisprudence, second Islamic century (8th c. 
 applies_to_periods: [Early Middle Ages, High Middle Ages]
 applies_to_regions: [near-east, arabian-peninsula, levant, central-asia, north-africa]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, ideological, early-middle-ages, high-middle-ages, islamic-world]
 ---
 
@@ -78,9 +78,32 @@ A persistent structural tension ran through jihad doctrine: the majority of juri
 - The essay by Mottahedeh and al-Sayyid explicitly disclaims comprehensiveness: well over half the relevant legal manuscripts remain unpublished, and the essay cannot weigh the comparative importance of different theories at different periods.
 - The reconstruction depends heavily on fragmentary and mediated sources (refutations of lost books, later compilations of earlier opinions).
 
+## From Cobb, *The Race for Paradise* (2014) — crusade-era evolution in practice
+
+[[cobb-race-for-paradise-2014|Paul M. Cobb]] continues the conceptual story from Mottahedeh and al-Sayyid into the eleventh–thirteenth centuries, when Frankish Mediterranean expansion tested how jihad was invoked, sidelined, or blended with reformist kingship. Classical juristic detail remains under [[islamic-law-of-jihad]]; comparative holy-war institutions under [[holy-war]].
+
+### Semantic range
+
+Jihad rests on Qurʾan and sunna/hadith; core meaning “struggle,” often “in the path of God” (*fi sabil Allah*), including war against infidels and inner struggle against sin (“Greater Jihad”). Cobb notes Greater Jihad is often overemphasized by modern apologists but has authentic scriptural roots; nonetheless **medieval Muslims almost always meant armed struggle against infidels** when discussing jihad. Living veterans gained spiritual/social honor; jihad dovetailed with commanding the good and forbidding the wrong as pinnacle of altruistic moral activism. Ulema often went to the Abode of War as legal advisers, preachers, mystics, or scholar-warriors; volunteers (*mutatawwiʿa*) arrived uncommanded from distant places. Jihad evoked Prophetic/Companion warfare—“a reenactment of the deeds of Islam’s Greatest Generation.”
+
+### Multi-response model (anti-reductionist)
+
+Not all Muslim warfare against Franks was framed as jihad, nor was warfare the only response. Pragmatism—accommodation, grudging tolerance, alliance, even friendship—coexisted with holy war. Ulema-authored sources preferred jihad discourse and condemned pragmatism. Jihad was dominant but never sole; it was invoked for specific reasons (spiritual-renewal preaching, enfeebled rulers mobilizing subjects, upwardly mobile politicians building new states with Islamic credentials). Frankish invasion necessitated jihad only when combined with such factors. Cobb notes at least one Frankish-war observer who never called *his own* fighting jihad.
+
+### Reformist regimes: aspirational ideal to platform plank
+
+- **Abu Bakr al-Turtushi** (Andalusi jurist; *Lamp of Kings*, 1122, for a Fatimid vizier) framed justice, Circle of Equity, and “putting infidels in their place” as aspirational under a failing Fatimid regime—ideals later realized in Near East and Maghrib by rulers Turtushi could not have imagined.
+- Under **Nur al-Din**: final melding of frontier Turcoman military worldview with Sunni urban kingship and religious-reform goals; after Damascus 1154, titles stress *al-Malik al-ʿAdil* (“The Just King”) more than pure warrior role; jihad against Franks one small aspect of broader pious image (see [[islamic-law-of-jihad]]).
+- For **Almohads** as for Saljuqs/Ayyubids east, jihad was one aspect of broader social reform and state legitimation (building, fortification, policing orthodoxy—e.g. trial of Averroes/Ibn Rushd at Córdoba under al-Mansur).
+- **Saladin**: after years sidelining jihad while subduing Muslim rivals, “dusting off” the *mujahid* title (c. 1186) was a political solution for asserting authority over kin and mobilizing troops—not the continuous identity of a career “countercrusader.”
+
+Cobb’s terminal claim for the process: the Crusades did not make Islam militant; they helped justify the dominion of military elites who used jihad-against-Franks as a platform plank. See [[processes/crusades]] and [[crusade-historiography]].
+
 ## Related Pages
 
 - [[concepts/islamic-law-of-jihad]] — the developed doctrine in its classical form
-- [[concepts/crusade-historiography]] — Western historiography of the opposing movement
+- [[concepts/holy-war]] — comparative jihad/crusade institutions
+- [[concepts/crusade-historiography]] — Western and Islamic historiography of the opposing movement
+- [[concepts/dar-al-islam]] · [[ifranj]] · [[processes/crusades]]
 - [[concepts/byzantine-just-war]] — the Byzantine counterpart
-- [[sources/laiou-mottahedeh-crusades-byzantium-muslim-2001]] — the source for this page
+- [[sources/laiou-mottahedeh-crusades-byzantium-muslim-2001]] · [[cobb-race-for-paradise-2014]]

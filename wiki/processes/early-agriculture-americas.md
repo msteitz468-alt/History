@@ -8,7 +8,7 @@ region: [mesoamerica, andes, amazonia, north-america, eastern-north-america, sou
 process_type: [economic, demographic, environmental]
 driven_by: ["multiple independent domestications", "Holocene warming/moisture and ENSO dynamics", "human risk management and landscape modification", "[[agricultural-origins]]"]
 produces: ["maize, manioc, quinoa, squash, beans, potato and other New World staples", "anthropogenic landscapes throughout the Americas", "the agrarian base of Mesoamerican and Andean civilizations"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [process, neolithic, mesoamerica, andes, eastern-north-america]
 ---
@@ -81,6 +81,23 @@ The Americas largely **lacked domestic herd animals** (outside Andean camelids)
 and therefore the [[secondary-products-revolution]] complex (milk, wool, traction)
 — a structural contrast with Eurasia (see [[neolithic-communities]]), argued by
 some (Diamond) to have shaped the later asymmetry of the Columbian encounter.
+
+## Guilá Naquitz, teosinte, and the Andes (Fagan & Durrani 2020)
+
+Fagan & Durrani (2020) reinforce Flannery's Oaxaca evidence and add Andean
+detail: **Guilá Naquitz** was occupied intermittently 8750–6670 BCE, with
+AMS-dated squash cultivation to ~8000 BCE — as early as Southwest Asian cereal
+domestication — Flannery's key evidence for his ecological-systems model (see
+[[agricultural-origins]]). The earliest maize/teosinte samples come from the
+**Río Balsas region** of SW Mexico, ~6700 BCE, with maize established by 4000
+BCE and reaching a domesticated Guilá Naquitz form by ~3400 BCE. In the Andes,
+squash was domesticated in the highlands by ~8000 BCE; **llama and quinoa**
+domestication is dated to ~2500 BCE (Panalauca Cave); potato (*Solanum
+tuberosum*, one of four domesticated strains) has tuber evidence from a Casma
+Valley midden ~2000 BCE; and at coastal sites such as **Chilca** and **Paloma**,
+beans and squash were cultivated by 3800 BCE alongside a fishing-dominant
+economy — agriculture remaining secondary far longer on the Andean coast than in
+Mesoamerica. (Fagan & Durrani 2020)
 
 ## Interaction
 

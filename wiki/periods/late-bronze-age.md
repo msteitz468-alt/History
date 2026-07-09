@@ -7,8 +7,8 @@ date_range: 1,550–1,200 BCE (Near East; regionally variable)
 regions_covered: [near-east, mesopotamia, levant, anatolia, north-africa, iran-plateau, aegean, mediterranean, europe, central-europe, western-europe]
 major_themes: [the great-powers system, international diplomacy, chariot warfare, empire, the palace economy, long-distance luxury trade, the Indo-European expansions]
 collection_coverage: strong
-sources_ingested: 5
-last_updated: 2026-06-27
+sources_ingested: 6
+last_updated: 2026-07-08
 tags: [period]
 ---
 
@@ -208,6 +208,22 @@ that II.2 uses an older "high" chronology and a dated (1960s) treatment of the
 biblical material; and the **subsequent volumes (CAH III.1–III.2, the early Iron Age
 proper) remain unsourced**. Coverage of this period is therefore now **strong**. See
 `Top_100_Structural_Sources.md`.
+
+## Aegean survey and population data (Cambridge Economic History of the Greco-Roman World)
+
+[[sources/scheidel-cambridge-economic-history-greco-roman-world-2007|Scheidel, Morris &
+Saller (eds.), *The Cambridge Economic History of the Greco-Roman World*]] (2007), John
+Bennet's chapter on the Aegean Bronze Age economy (see
+[[processes/mycenaean-palace-economy]] for the fuller economic treatment), supplies
+quantified settlement data: regional survey site densities show Crete generally much
+denser than the mainland (e.g. Kythera 29.3 sites/10km², Mesara 20.0, vs. Berbati's
+mainland-high 7.6/10km²). Population estimates for the major palatial centers: **Knossos**
+peaked c. 1500 BCE at 67 ha, with an estimated 13,400–16,750 people (only Roman-era
+Gortyn, 100 ha, later exceeded this scale on Crete); **Mycenae**'s core covered 32 ha,
+population perhaps 6,400 (c. 1400–1250 BCE); **Pylos**'s "lower town" (12–13 ha) plus
+palace (~2 ha) totaled 14–15 ha with a population of roughly 3,000, with the wider Pylian
+polity extrapolated at ~50,000 (Whitelaw) or 80,000–100,000 (Chadwick, based on Linear B
+records).
 
 ## Related
 

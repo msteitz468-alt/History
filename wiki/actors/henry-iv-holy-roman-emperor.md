@@ -9,8 +9,8 @@ affiliated_with: [[[salian-dynasty|the Salian dynasty]], "the imperial church", 
 opposed_by: [[[gregory-vii|Pope Gregory VII]], "the Saxon nobility", "the anti-kings Rudolf of Rheinfelden and Hermann of Salm", "his sons Conrad and Henry V"]
 key_events: [[[investiture-contest]], "the Saxon wars (1073–1088)", "the Synod of Worms (1076)", "Canossa (1077)"]
 key_processes: [[[gregorian-reform]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, western-europe]
 ---
 
@@ -58,8 +58,14 @@ English rivals. Whether a less confrontational ruler could have absorbed the ref
 without this damage is the implicit counterfactual; NCMH IV stresses how far the
 collision was structural rather than merely personal.
 
+## From Logan, *A History of the Church in the Middle Ages* (2013)
+
+[[logan-history-of-the-church-in-the-middle-ages-2013|Logan]]’s Canossa narrative: after the **1076 Lenten synod** Gregory excommunicated Henry and deprived him of Germany and Italy, releasing subjects from allegiance. Facing German opposition, Henry agreed to appear at Augsburg (February 1077); intercepting Gregory at **Canossa** (Matilda of Tuscany’s castle), he waited **three days barefoot** as penitent (**25 January**). Matilda and Abbot Hugh of Cluny counselled absolution, granted on the third day. Henry returned and civil war followed with **Rudolph of Swabia** as anti-king. Logan also notes Henry’s earlier **Milan** intervention (eliminating two claimants, consecrating a third) as the catalyst that led Gregory on **8 December 1075** to threaten excommunication and deposition, and Henry’s synod that “deposed” Gregory as invalidly elected.
+
 ## Related
 
 - [[investiture-contest]], [[gregory-vii]] — his defining conflict and antagonist.
 - [[salian-dynasty]] — his house; [[gregorian-reform]] — the movement that broke his reign.
 - [[henry-v]] — his son and supplanter, who settled the contest at Worms (1122).
+- [[logan-history-of-the-church-in-the-middle-ages-2013]]
+

@@ -22,8 +22,8 @@ key_events:
 key_processes:
   - "[[post-mongol-islamic-world]]"
   - "[[military-patronage-state]]"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags:
   - actor
   - empire
@@ -59,9 +59,11 @@ The Timurid state embodied the three defining features of the military-patronage
 2. **The whole state as a single military force** — administration was organized as an extension of the army; civil officials were enrolled as honorary military personnel (*askerî*); the court followed the monarch on campaign.
 3. **Exploitation of all economic and cultural resources as dynastic appanage** — artisans, scholars, and even poets were incorporated into the military household and exempted from taxes as patronage dependents.
 
+Members of the [[naqshbandiyya|Naqshbandiyya]] Sufi order, rooted in Central Asia since the fourteenth century, held leading positions at the Timurid court — Formichi (2020) treats this Timurid patronage as a key stage in the order's spread beyond Transoxiana toward South Asia, China, Arabia, and the Ottoman lands.
+
 ## Decline and End
 
-The Timurid state gradually contracted as Uzbek pressure from the north increased through the later fifteenth century. The empire was extinguished when the Shaybanid Uzbeks overran Transoxiana and took Samarqand in 1500 and Herat in 1507. A Timurid prince, Bâbur, was driven from Samarqand and eventually made his way to Kabul and then to India, where he founded the Mughal Empire (1526).
+The Timurid state gradually contracted as Uzbek pressure from the north increased through the later fifteenth century. The empire was extinguished when the Shaybanid Uzbeks overran Transoxiana and took Samarqand in 1500 and Herat in 1507. A Timurid prince, Bâbur, was driven from Samarqand and eventually made his way to Kabul and then to India, where he founded the Mughal Empire (1526). Formichi (2020) notes that by the early sixteenth century Timur's other former domains had likewise fragmented into successor polities — the Khanate of Bukhara (to 1920) and the Khanate of Khiva (1511–1920) — while the Chaghatai lands' eastern, already-Islamized Turkic populations passed into the successor khanates of the Tarim basin and Xinjiang.
 
 ## Causal Links
 

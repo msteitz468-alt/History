@@ -9,8 +9,8 @@ affiliated_with: [[[roman-imperial-army]], [[roman-empire]]]
 opposed_by: [[[zenobia]], [[gallic-empire]], [[gothic-peoples]]]
 key_events: []
 key_processes: [[[third-century-crisis]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy, rome]
 ---
 
@@ -58,4 +58,27 @@ become too much for one man. His solar cult and autocratic style nonetheless pre
   [[palmyra|Palmyrene]] and [[gallic-empire|Gallic]] empires
 - Built on [[gallienus|Gallienus']] field army; prefigured [[diocletian|Diocletian's]] autocracy and
   the [[roman-tetrarchy|tetrarchy]]
-- Source: [[bowman-cah-v12-2005]] (Ch. 2, John Drinkwater)
+- Source: [[bowman-cah-v12-2005]] (Ch. 2, John Drinkwater) · [[woolf-rome-empires-story-2012]]
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+[[actors/gibbon-edward|Gibbon]] ranks Aurelian among the Illyrian “Restorers of the Roman world.” **Gibbon’s views.**
+
+- **Restorer sequence:** after Valerian–Gallienus near-collapse, obscure Illyrian princes — Claudius, Aurelian, Probus, Diocletian — “deserved the glorious title of Restorers of the Roman world.”
+- **Four-year reunification:** ended Gothic war, chastised Germans in Italy, recovered Gaul/Spain/Britain from Tetricus, and “destroyed the proud monarchy which Zenobia had erected in the East”; triumph with Tetricus and golden-chained Zenobia, both treated with unusual clemency afterward.
+- **Dacia relinquished:** “Aurelian withdrew the Roman forces from Dacia, and tacitly relinquished that great province to the Goths and Vandals” — deliberate strategic contraction; new Dacia south of the Danube.
+- **Camp discipline as civil severity:** “useful, though severe reformer of a degenerate state”; murdered by staff on a secretary’s forged proscription list between Byzantium and Heraclea.
+- **Coinage / “mint war”:** official Felicissimus story (7,000 slain) treated as improbable pretext; real cause likely elite conspiracy against a plebeian emperor.
+- **Paul of Samosata:** as Pagan soldier would not judge Trinity doctrine; followed Italian bishops and expelled Paul — justice and “policy… of restoring and cementing the dependence of the provinces.”
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/zenobia]]
+
+## Woolf, Rome: An Empire's Story (2012)
+
+From [[woolf-rome-empires-story-2012]] Ch. XIII (third-century crisis / recovery).
+
+- **Fragmentation at accession (270).** Index of failure: 235–84 more than twenty emperors. When Aurelian took power, Gaul/Spain/Germany ruled from Rhineland over a decade; Palmyrene monarchs controlled much of the Near East including Alexandria—only military success could reverse fragmentation.
+- **Reunification acts.** Expelled Iuthungi from Italy; regained Egypt (272); suppressed Palmyra (273) and Trier emperors (274); built walls around central Rome; organized evacuation of Dacian provinces. Successors continued German defeats; Carus later took Ctesiphon.
+- **Sol Invictus.** Woolf places Aurelian’s 274 Sol Invictus temple (after Palmyra) among presentational/religious harnessing experiments of the new soldier-emperor style (alongside Decius’s *supplicatio* and Diocletian’s Jovian/Herculean patrons).
+- **Survival thesis.** Energy of soldier emperors mattered, but so did elite commitment; “The empire survived because… the ruling classes and many of its subjects chose to participate in its rescue.”
+- **Quote:** “Aurelian (270–5), who had expelled the Iuthungi from Italy, went on regain control of Egypt (272), to suppress the secessions led by Palmyra (273) and the emperors of Trier (274).”

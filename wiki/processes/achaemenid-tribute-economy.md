@@ -82,7 +82,75 @@ the system was not the stagnant cause of its own fall. It ended only with the
 [[alexander-the-great|Macedonian conquest]], whose administration largely
 reproduced it.
 
+## Cambridge Economic History of the Greco-Roman World
+
+**Bedford**'s chapter (Ch. 11, "The Persian Near East") treats the Neo-Assyrian
+(c. 950–612 BCE), Neo-Babylonian (612–539 BCE), and Achaemenid Persian (539–330 BCE)
+empires as **a single continuous economic-institutional trajectory** — "c. 750 through
+to Alexander... might be viewed as a single period" — since the imperial form of polity
+and economic policy remained largely consistent across regime change, sharpening the
+continuity thesis already central to this page.
+
+- **Growth was real but glacially slow**: Bedford's estimate (citing Saller) is roughly
+  0.1%/year over 1000–300 BCE, or about 70% cumulative growth across 700 years. Regional
+  productivity varied far more than growth rates — Egypt and Mesopotamia vastly
+  outproduced Attica and Latium in aggregate terms even without differing growth rates.
+- **Babylonian irrigation agriculture**: barley returns of 1:12 to 1:24 (1:14 average,
+  Dandamaev/Lukonin); Persian-period intensification at Nippur — a seeding rate of
+  133.3 L/ha yielding ~2,000 L/ha (1:15) — against the lower per-hectare absolute yield of
+  Ur III practice (c. 2100 BCE: 55.5 L/ha yielding ~1,200 L/ha, a 1:21 ratio). Northern
+  Mesopotamian rain-fed wheat/barley reached seed-yield ratios up to 1:10; the Neo-Assyrians
+  resettled deported Syro-Palestinian and Babylonian populations here to expand
+  cultivation (8th–7th c. BCE), a practice the Persian satrapal system continued.
+- **Deportation as an economic engine.** Assyrian royal annals claim over one million
+  persons relocated empire-wide (Oded's 4.5 million total is judged too high by Bedford).
+  Syria-Palestine's population collapsed from roughly 3 million (c. 750 BCE peak) to just
+  over 1 million by the Persian period, with population shifting toward Mesopotamia. Near
+  Eastern population overall grew only modestly — c. 4.5M (1000 BCE) → 5.5M (750 BCE) →
+  ~7M (end of the Persian period), roughly 1.5x over 650 years, against an estimated ~10x
+  growth for the contemporary Mediterranean Greek population.
+- **Whole-empire population at Alexander's arrival**: Aperghis's 30–35 million estimate
+  (including Egypt and the eastern provinces) is judged too high by Bedford; Scheidel's
+  20–25 million (including the Aegean) is preferred as more plausible. Mesopotamia alone:
+  ~5–6 million (Aperghis).
+- **The *hatru***, a corporate landholding institution for smallholders tied to military
+  service, first appears in the late Neo-Babylonian period and flourishes under the
+  Persians: inalienable but inheritable and dowryable, and pledgeable for loans via
+  antichretic pledge (Wunsch) — a Persian-period addition atop the older pattern (Liverani)
+  of land concentrating among crown, temples, and elite families through both imperial
+  confiscation and private debt-driven land loss.
+- **Dandamaev's tripartite class model** for Neo-Babylonian/Persian Babylonia: (1) a
+  property-owning, non-laboring elite (royal/temple officials, large landowners,
+  merchants); (2) free peasants and craftsmen who own their means of production and labor
+  themselves; (3) a compulsory-labor sector (slaves, debt slaves, hired workers) — cut
+  across by four legal-status categories: full citizens, disenfranchised free-born,
+  dependents of temple/state/individuals, and slaves.
+- **The Egibi and Murašû family "firms"** managed crown and temple land under contract,
+  subleasing to farmers and organizing labor, equipment, and tax payment — functioning as
+  agricultural-management entrepreneurs and short-term creditors of their own capital
+  (not true deposit banking). Egibi-family *harranu* partnerships were profit/loss-sharing
+  commercial ventures; the normal interest rate was 20%, with *harranu* partners seeking
+  above 40% return to net roughly 20% each.
+- **Temples as "silent shareholder" institutions**: Dandamaev's view, provisionally
+  endorsed by Bedford, is that prebend-holding citizens functioned as silent shareholders
+  in temple-managed production; temples were major landholders, craft-production centers,
+  and employers of free labor, though slavery was economically less central to them than
+  in the Greek or Roman world.
+- **Tax-rate estimates.** Bedford's GDP estimate for Persian-period Mesopotamia (adapting
+  Hopkins's "taxes and trade" model): population 5.5M × minimum subsistence ~3.25 kur
+  grain/person ≈ 17.875M kur grain; at 1 kur ≈ 1 shekel, ≈ 4,965 talents value, adjusted
+  (Goldsmith correction ×2.5) to ≈ 12,400 talents GDP. Herodotus's Mesopotamian tribute
+  figure of 1,000 talents implies an effective tax rate around 8% (Bedford); van Driel's
+  alternative estimate, including local Babylonian taxes and levies, runs much higher, at
+  roughly 33%. Only about 5% of tax silver was hoarded in treasuries (Stolper) — most
+  recirculated, reinforcing this page's rejection of the "vampirization"/hoarding thesis.
+- **No fiscal crisis at conquest.** Bedford and Briant's shared view: the Persian
+  imperial economy was not in fiscal crisis when Alexander invaded, against older
+  "over-taxation crisis" narratives (e.g., Olmstead 1948).
+
 ## Related
 
 - [[achaemenid-empire]] · [[achaemenid-satrapy]] · [[achaemenid-kings-men]] · [[persepolis]] · [[darius-i]]
-- Source: [[sources/briant-from-cyrus-to-alexander-2002|Briant, From Cyrus to Alexander]]
+- [[hellenistic-economy]]
+- Sources: [[sources/briant-from-cyrus-to-alexander-2002|Briant, From Cyrus to Alexander]] ·
+  [[sources/scheidel-cambridge-economic-history-greco-roman-world-2007]] (Bedford, Ch. 11)

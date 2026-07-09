@@ -81,3 +81,25 @@ the modern qualifications can be measured. The balanced standard overview is now
 fusion** and the persisting Greek/non-Greek divide. For the **social** dimension — everyday life, women,
 work, slavery, the new cults and philosophies — see the ingested **[[evans-daily-life-hellenistic-age|Evans,
 *Daily Life in the Hellenistic Age*]]**.
+
+## Cambridge Economic History of the Greco-Roman World
+
+**Van der Spek** (Ch. 15) fills out the political-economic chronology of the Successor
+Wars: Antigonus the One-Eyed (strategos of Asia), Seleucus (satrap of Babylonia),
+Lysimachus (satrap of Thrace), and Ptolemy (satrap of Egypt) warred over Alexander's
+empire after the nominal reigns of Philip III and Alexander IV (323–317, 317–c. 310 BCE)
+ended in murder. Later instability: Antiochus III conquered Syria-Palestine from the
+Ptolemies (200 BCE) but lost Asia Minor to Pergamum and Rhodes after Rome defeated him
+(189 BCE); Antiochus IV invaded Egypt twice (169, 168 BCE) but was forced to retreat by
+Rome; the Parthians took Mesopotamia in 141 BCE.
+
+Van der Spek argues that periodizing Near Eastern history as ending at Alexander's
+conquest is a mistake: the conquest "probably meant little more to most inhabitants of
+the Near East than did earlier invasions" — Babylonians reportedly welcomed Alexander
+much as they had Cyrus and Sargon before him, and largely maintained their own religious,
+scientific, and literary traditions. Both the Seleucid and Ptolemaic dynasties, in his
+formulation, "established themselves on a Persian foundation," layering new incentive
+structures atop old institutions (temples, land tenure) inherited from the
+[[achaemenid-tribute-economy|Achaemenid tribute economy]]. See [[hellenistic-economy]]
+for the full economic analysis of this continuity thesis and the Aegean/Near Eastern
+economy more broadly.

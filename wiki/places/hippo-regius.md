@@ -7,8 +7,8 @@ period_active: [Late Antiquity]
 controlled_by: [Numidian/Punic settlement, Roman Empire, Vandal Kingdom (after 431)]
 events_here: [ordination of Augustine (391), Vandal siege and death of Augustine (429–430)]
 processes_here: [African Christianity, Christianization of the Roman Empire]
-sources_ingested: 1
-last_updated: 2026-07-03
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, north-africa, late-antiquity]
 ---
 
@@ -38,9 +38,15 @@ by land and sea; Augustine died within it on 28 August 430. A year later Hippo w
 partly burnt, though Augustine's library reportedly survived — and within a generation a Vandal's
 Suebian wife was buried in Augustine's own basilica.
 
+## From Gibbon, *Decline and Fall* (via *City of God*)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]]; not asserted as modern fact.
+
+- **Stephen miracles at Hippo.** In his notice of Augustine’s *[[city-of-god|City of God]]*, Gibbon flags the African miracle dossier of St. Stephen — **seventy or more** cures at Hippo, including three reported resurrections — as emblematic of an age that made wonders ordinary (Enlightenment irony; not modern medical history).
+
 ## Related
 
 - Bishop: [[augustine-of-hippo]] · [[possidius]]
 - Events and context: [[vandal-kingdom]] · [[donatism]] · [[carthage]] · [[african-christianity]]
 - Period: [[late-antiquity]]
-- Source: [[sources/brown-augustine-of-hippo-2000]]
+- Source: [[sources/brown-augustine-of-hippo-2000]] · [[sources/gibbon-decline-and-fall-1776]]

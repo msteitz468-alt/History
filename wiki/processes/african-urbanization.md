@@ -28,8 +28,8 @@ produces:
   - "[[education-and-literacy-in-africa]]"
   - "[[youth-in-african-history]]"
   - "[[women-and-gender-in-african-history]]"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags:
   - process
   - Long-19th-Century
@@ -66,6 +66,28 @@ In 1960, more than four out of five Africans lived in the countryside. Africa re
 ## Major Phases
 
 **Phase 1 — Pre-Colonial Urban Systems (before 1880).** Sub-Saharan cities as nodes of trade, religion, and political power. Cosmopolitan port towns, Islamic Sudanic cities, forest-zone Yoruba and Akan urban centres. Limited in demographic scale (15,000–50,000) but rich in cultural complexity.
+
+**Fagan & Durrani (2020) — the 9th–15th century "golden age."** Fagan & Durrani, citing
+**F.-X. Fauvelle**, frame the 9th–15th centuries CE as a African "golden age" of
+long-distance trade that integrated the continent into global exchange well before
+European contact — explicitly countering the "popular belief" that Africa remained
+isolated until Europeans arrived. Two networks did the work: **trans-Saharan camel
+caravan trade** and the **Indian Ocean monsoon trade system**. Specific milestones:
+**Jenne-jeno** (Mali) grew from a farming village in the 3rd century BCE into a major
+fortified trading town (a mud-brick wall 2 km in circumference) within roughly a
+thousand years. The Sudanic kingdoms of **Ghana** (c. 700–1230 CE, described by
+al-Idrisi c. 1154 CE and converting to Islam within a century of that description),
+**Mali** (1230–1440, founded by **Sundiata** c. 1230), and **Songhay** (1464–1550,
+expanding under **Sonni Ali**, r. 1464–1494, into former Mali territory) carried the
+trans-Saharan gold-and-salt trade forward in succession; Songhay collapsed by 1550 as
+American silver and gold flooding Europe undercut the Saharan gold trade. **Mansa
+Musa's** 1324 pilgrimage to Mecca famously depressed the Cairo gold price by more
+than 10% for years afterward. On the **Indian Ocean** side, East African "stone
+towns" saw Islamic settlement from c. 750 CE; the anonymous *Periplus of the
+Erythraean Sea* (1st c. CE) — describing the "Azania" coast's ivory trade — is the
+earliest written source on this coast, which retained an indigenous trading system
+until the Portuguese (Vasco da Gama) arrived in 1498. Source: Fagan & Durrani (2020),
+*World Prehistory: A Brief Introduction* (10th ed.).
 
 **Phase 2 — The Colonial City (1880–1945).** European conquest reorganises urban hierarchies. New primate capitals rise; older cities often decline. Built-environment studies, racial segregation, and the emergence of African urban studies in its social-science form. The first generation of urban migrants creates new institutions: ethnic associations, dance societies, syncretic music styles (highlife in Gold Coast; marabi in South Africa; taarab on the Swahili coast).
 

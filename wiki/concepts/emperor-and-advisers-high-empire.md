@@ -5,8 +5,8 @@ origin: the structures of advice and decision-making around the emperor in the H
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [italy, mediterranean-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -94,3 +94,10 @@ flexibility over institutional innovation.
 - Under the emperors of [[bowman-cah-v11-2000|CAH XI]] from [[vespasian]] to [[commodus]] (the
   Cleander episode)
 - Source: [[bowman-cah-v11-2000]] (Ch. 4, Eck)
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- Augustus’ death instruments: empire balance sheet (troop stations/numbers, treasuries, taxes owing, names of slaves/freedmen who could furnish details)—coordination progress since Gabinius managed “through his private household,” not public slaves/senators/equestrians; plus funeral/apotheosis instructions and *Res Gestae*.
+- Capstone vs proactive emperor debate: some see emperors forever reactive (requests over orders; slow communication; army ~three-quarters of tax revenue); others cite Trajan’s wars or Flavian rebuilding. “The Roman Empire was never easy to steer… some Roman emperors certainly ruled as well as reigned.”

@@ -9,8 +9,8 @@ affiliated_with: [the circle of Maecenas, Augustan Rome, Octavian/Augustus]
 opposed_by: []
 key_events: [the land confiscations after Philippi, the composition of the Eclogues, Georgics and Aeneid]
 key_processes: [Augustan literary culture, the Roman appropriation of Greek poetry]
-sources_ingested: 3
-last_updated: 2026-06-22
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy]
 ---
 
@@ -53,11 +53,18 @@ ideology — *pietas*, destiny, the cost of empire — and his influence on late
 - "It is deliberately modeled on Homer: the first half 'Odyssean'... the second 'Iliadic'..." (context ll. ~13920s). analogous_to: [[homer-odyssey-lombardo]]. part_of: fusion in [[virgil]].
 - "All Italy blazed—" at the opening of the Gates of War (ll. 15537). contributed_to: [[italy]]. part_of: [[mediterranean-world]].
 
+## OHCW (Jasper Griffin; Lyne; Nisbet context)
+
+**Jasper Griffin** (Ch. 25): born 70 BCE near Mantua (citizenship 49, Italy 42); 16 of 51 years were civil-war years — Philippi proscriptions and Italian land expropriations are “of central importance” for the poetry. *Eclogues* (c.38): Theocritean pastoral invaded by politics; Ecl. 1 Tityrus vs Meliboeus; ~¼ of Italian land may have changed hands; Ecl. 4 Messianic Golden Age (Griffin prefers despair-driven oracle reading over Brundisium-pact allegory); introduced [[horace]] to Maecenas spring 38. *Georgics* (completed 29; ~7 years): “haud mollia iussa” of Maecenas; Callimachean didactic transforming Hesiod via Lucretius into moral vision of work/piety/patriotism without expecting readers to become small farmers; Aristaeus–Orpheus epyllion foreshadows *Aeneid* cost of destiny (immortal bee-community vs irreplaceable individuals). Died 19 still revising; asked friends to burn unfinished poem; Maecenas sought Augustan martial epic from the circle — none complied (civilized pressure); Augustus accepted mythical *Aeneid* as fulfilment. Why not contemporary epic: Homeric machinery unfit for recent history; [[battle-of-actium-31bce|Actium]] awkward as theme; pathos for defeated impossible if Augustus is hero — hence Aeneas founding Lavinium. Programme: *pius* Aeneas identifies will with Fate yet suffers unjustly; Dido tragedy (marriage that is and is not); Italian war as quasi-civil war; Turnus killed after nearly spared — imperialism as “hard and lonely destiny.” Not anti-imperialist: Rome’s domination willed by heaven to impose peace and *mos/ius*; simultaneous justice to empire’s achievement and human cost. Appendix Vergiliana fakes; tradition of 10,000,000 sesterces with legacies to Maecenas and Augustus.
+
+**Lyne** (Ch. 24): *Eclogues* triumviral aestheticism vs commitment; *Georgics* under Maecenas not crude Octavian propaganda; *Aeneid* develops sophisticated mythical-indirect mode that pleased Augustus. Cross-chapter hinge: Actium on the Shield (Bk 8) as tableau, not narrative.
+
 ## Related
 
 - `produced:` the *[[virgil-georgics|Georgics]]*, the *Eclogues*, the *Aeneid*.
 - `affiliated_with:` Maecenas and [[augustus|Augustus]]; `concurrent_with:` the founding of the [[principate|principate]].
 - `analogous_to:` [[homer|Homer]] (his epic model); `influenced:` [[ovid|Ovid]] and the whole later epic tradition.
+- Source: [[boardman-oxford-history-classical-world-1986]] (Griffin Ch. 25; Lyne Ch. 24)
 
 **Grounded claims from Aeneid range 6801-13600 (Fagles trans.)**
 

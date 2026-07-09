@@ -9,8 +9,8 @@ affiliated_with: [the Graeco-Macedonian settler class, the Greek cities of Asia 
 opposed_by: [[[ptolemaic-egypt]], [[parthian-empire]], [[greco-bactrian-kingdom]], [[pergamon]], [[rome|Rome]], the Maccabees]
 key_events: [[[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]], [[syrian-wars]], [[battle-of-raphia-217]]]
 key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]], [[seleucid-colonization]], [[seleucid-era]]]
-sources_ingested: 3
-last_updated: 2026-06-11
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [actor, empire, dynasty, classical-antiquity, near-east, mesopotamia]
 ---
 
@@ -23,6 +23,22 @@ by [[seleucus-i-nicator|Seleucus I]] and reckoned from his recovery of Babylon i
 VII.1 ch. 6 (D. Musti) presents it as the successor state that **most resembled
 Alexander's own empire** — similar in size, in multi-ethnic composition, in its
 military character, and in political ideology.
+
+**Simon Price** (OHCW, 1986): capture of Babylon in **312** marks the dynastic foundation;
+at greatest extent the largest Hellenistic kingdom (centre Syria; western Turkey to
+Afghanistan); Bactria became an independent Greek kingdom (**256**); Parthia emerged
+c.**238**, blocking the east; by the first century BCE the realm was reduced to northern
+Syria and fell to Rome (**64 BCE**). The Seleucid ruling class excluded subject
+populations for about two generations and never included more than ~**2.5%** non-Greeks
+even later. Provinces numbered **72** under Seleucus I, each under a governor.
+
+### Hellenism and Judaism (Price)
+
+Price’s best-documented Hellenism–Judaism clash: c.174–171 a Hellenizing High Priest
+(backed by [[antiochus-iv-epiphanes|Antiochus IV]]) set up a gymnasion in Jerusalem;
+Antiochus stripped Temple treasures and ordered replacement of Jewish with pagan cults;
+open insurrection followed; Temple cult was restored; conflict continued until Jewish
+independence in **141 BCE** (sources mainly “orthodox” Jewish, esp. 1–2 Maccabees).
 
 ## A Personal, Multi-Ethnic Military Monarchy
 
@@ -75,6 +91,31 @@ directly through a royal *epistates*, while the **"old" Greek cities** of Asia M
 enjoyed a more distant, varied relationship — courted with the propaganda of *eleutheria*,
 *autonomia*, and even *demokratia* (Antiochus III "played the popular card" against Rome).
 See [[seleucid-hellenization]].
+
+## Army, finance, and Coele-Syria (CHGRW)
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|Billows (CHGRW I.10)]]:
+the most notorious inter-imperial dispute was **Coele (“hollow”) Syria and Palestine**,
+fought over by Seleucids and Ptolemies across the third and early second centuries, each
+claiming founder-conquest rights (Ptolemy I / Seleucus Nicator). The 168 **Day of Eleusis**
+— Popillius Laenas’s sand circle around Antiochus IV at Alexandria — forced withdrawal from
+Ptolemaic territory under threat of war with Rome; afterwards Antiochus was greeted as friend
+and king (see [[day-of-eleusis-168bce]]).
+
+Sekunda (I.11A): Seleucid system less clear than the Ptolemaic cleruchy — Seleucus inherited
+elite cavalry (*agema*, Nisaeans, Companions) and Argyraspides retaining identities into the
+second century; phalanx from “Macedonian” citizen descendants of settlers; Argyraspides
+argued as permanent training regiment for young men then reserve. Egyptian-style *katoikiai*
+military-settlement obligation is **not supported** by surviving Seleucid evidence. Serrati
+(I.14): Seleucid cleruchs settled as **whole communities** (vs Egyptian individuals),
+continuing Alexander’s mercenary settlements; eastern communities often native, western urban
+centres more Greco-Macedonian/Anatolian. Unlike Rome with the Italians, Seleucids never
+treated Near Eastern natives as imperial partners, so never mustered the region’s full
+manpower; after 200 they relied more on descendants of third-century settlers plus native
+light troops/cavalry. Regular income came from tribute, gifts, customs, and royal estates, but
+**plunder was the chief source of military funding**; Coele-Syria’s wealth, timber, and mints
+explain the perennial Syrian Wars; Antiochus IV’s Egyptian haul (170–168) financed recovery
+after Rome’s war of 192–188. See [[hellenistic-warfare]].
 
 ## Decline
 

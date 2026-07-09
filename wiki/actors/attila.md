@@ -9,7 +9,7 @@ affiliated_with: [the [[huns|Hunnic Empire]], briefly the western court of Aetiu
 opposed_by: [[[eastern-roman-empire-425-518|the Eastern Roman Empire]], the Western Roman Empire, the [[visigoths|Visigoths]]]
 key_events: [the Balkan campaigns (441–447), the invasion of Gaul (451) and the battle of the Catalaunian Plains, the invasion of Italy (452)]
 key_processes: [the consolidation and collapse of the [[huns|Hunnic Empire]], the fiscal pressure on the late Roman state]
-sources_ingested: 2
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, steppe, eastern-europe]
 ---
@@ -72,3 +72,24 @@ the leader who extracted them.
 - Context: [[late-antiquity|Late Antiquity]] · the [[fall-of-the-western-roman-empire-476|fall of the West]]
 - Peoples he dominated and released: [[ostrogoths|Ostrogoths]] · [[visigoths|Visigoths]] · [[vandal-kingdom|Vandals]]
 - Source: [[sources/heather-fall-roman-empire-2005|Heather, The Fall of the Roman Empire (2005)]]; [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]]
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]] (Chs. XXXIV–XXXV); Gibbon’s narrative and epithets, not modern ethnography.
+
+- **Role.** Under Attila the Huns “again became the terror of the world”; he “alternately insulted and invaded the East and the West, and urged the rapid downfall of the Roman empire.”
+- **Portrait.** Features likened to “modern Calmuk”; claimed the celestial sword of Mars as “divine and indefeasible claim to the dominion of the earth”; monarchy erected on popular superstition (parallel drawn to Mongols).
+- **Scale.** United Germany and Scythia; Gibbon reports armies of “five, or, according to another account, of seven hundred thousand Barbarians”; Gepids and Ostrogoths foremost vassals (Ardaric, Walamir).
+- **East.** Desolation from Euxine to Adriatic; “total extirpation” language applied to seventy Eastern cities; annual gold raised from 700 to 2,100 pounds plus 6,000 immediate.
+- **“Scourge of God.”** “if Attila equalled the hostile ravages of Tamerlane, either the Tartar or the Hun might deserve the epithet of the Scourge of God.”
+- **Gaul.** Supported Vandals and Franks; invasion “preceded, and justified, by a formal demand of the princess Honoria” and a share of Imperial patrimony.
+- **Catalaunian Fields.** Casualty figures 162,000 or 300,000 treated as “incredible exaggerations”; Huns vanquished yet Attila held the wagon-camp; Aetius induced Torismond’s withdrawal; Rhine retreat “confessed the last victory which was achieved in the name of the Western empire.”
+- **Italy and death.** Aquileia destroyed; Leo/Avienus/Trigetius embassy purchased deliverance; death by arterial hemorrhage on the night of marriage to Ildico—“suffocated by a torrent of blood”; empire of Huns dissolved after “his genius alone had sustained it.”
+- **Embassy plot.** Chrysaphius/Edecon murder plot exposed; Attila still entertained Maximin; Eslaw rebuked Theodosius for paying tribute “degraded… to the condition of a slave” while conspiring against his master.
+
+## From Mitchell, Later Roman Empire (2015)
+
+Attributed claims from [[sources/mitchell-later-roman-empire-2015|Stephen Mitchell, *A History of the Later Roman Empire* (2015)]].
+
+- **Eastern multi-front caution under Theodosius II (context for Attila’s pressure).** Mitchell credits Theodosius II with an effective grasp of strategic realities, not mere inertia: Priscus fr. 10 shows Romans swallowing pride before Attila while preparing against Persians, Vandals, Isaurians, Saracens, and Ethiopians — “they swallowed their pride and obeyed Attila, but tried to prepare for military action against the other peoples.”
+- **Western turn 451–53.** In 451 Attila’s western expedition (encouraged by Honoria’s marriage overture) relieved the East, letting Marcian withhold tribute. Checked at the Catalaunian Plain by Aquitanian Visigoths under Theoderic and Romans under Aetius; 452 Italian plunder of Aquileia, Milan, Ticinum, with Rome spared after parley with Pope Leo; dead the next year. Aftermath cascade: Valentinian III assassinated Aetius (454) and was himself killed (455) by Aetius’s followers.

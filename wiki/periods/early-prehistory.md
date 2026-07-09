@@ -7,8 +7,8 @@ date_range: "3.3 million–300,000 BP"
 regions_covered: [africa, near-east, europe, east-asia, south-asia]
 major_themes: ["Homo genus evolution", "Oldowan and Acheulean technologies", "Out of Africa 1", "fire management origins", "brain size increase", "Homo heidelbergensis"]
 collection_coverage: moderate
-sources_ingested: 3
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [period]
 ---
 
@@ -147,6 +147,27 @@ Chapters 13–17 of this volume (Part II) and Phase 11 specialist sources will
 substantially expand this page.
 
 **Champion et al. 1984 (Ch. 2 opening) contribution:** Supplies detailed post-radiocarbon treatment of the chronological and climatic frameworks for early European hominins and the sparse fossil record. Deep-sea core V28-238 provides continuous isotope stages with magnetic reversal baseline at 700,000 BP marking lower/middle Pleistocene boundary. "The discontinuous nature of these terrestrial sequences has been further highlighted by the evidence from deep sea cores that do provide a continuous record." Earliest secure European presence placed after ~350,000 BP by absolute dates on fossils; earlier claims (Vallonnet, Isernia) discussed with caution. Fossil material "meagre" compared to East Africa; taxonomic placement (Homo erectus vs. early Homo sapiens) highly contentious. "The few absolute dates for these fossils all indicate that man was present in Europe after 350000 BP." (Champion et al. 1984, Ch.2 / range lines ~1300-1360, ~1800-1815) This source supplies the primary European-specific grounding for the period page's European evidence sections.
+
+## Fagan & Durrani (2020) — Periodization and Toolmaking Note
+
+Fagan & Durrani (2020) redate the origin of stone toolmaking to **~3.3 Ma**
+(the Lomekwi 3 industry, Lake Turkana, Kenya, published 2015) — earlier than
+the first appearance of the genus *Homo* itself (per Fagan, a possible first
+member ~2.8 Ma, tentative; first definite evidence ~2.4 Ma). This breaks the
+traditional exclusive link between *Homo habilis* and the earliest stone
+tools: Lomekwi 3 predates *Homo* entirely and was likely made by an
+australopithecine or *Kenyanthropus*. The **Oldowan** industry (traditionally
+credited to *H. habilis*) is dated by Fagan & Durrani to ~2.6 Ma — consistent
+with, if at the older end of, this page's existing range — with sites in
+Ethiopia and at Olduvai Gorge, Tanzania (classic Leakey excavations, 1960s;
+dates 2.2–1.7 Ma). Because Fagan & Durrani define the start of prehistory
+itself as coinciding with Lomekwi 3 (see [[../periods/deep-prehistory|Deep
+Prehistory]] for the fuller periodization note), their scheme would place the
+opening of "Early Prehistory" — the first stone tools — earlier than this
+page's current 3.3 Ma start-date convention treats as the *Homo* genus's
+first appearance; the wiki's existing period boundaries are retained here,
+with this source flagged as an argument for reconsidering where toolmaking
+vs. genus origin should mark the line.
 
 ## From Tattersall, *The World from Beginnings to 4000 BCE* (2008)
 

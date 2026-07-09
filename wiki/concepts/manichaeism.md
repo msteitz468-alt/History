@@ -13,7 +13,7 @@ applies_to_regions:
   - east-asia
   - mediterranean
 contested: yes
-sources_ingested: 4
+sources_ingested: 6
 last_updated: 2026-07-08
 tags: [concept, religious, late-antiquity, sasanian, central-asia]
 ---
@@ -74,3 +74,16 @@ Eastward, missionary expansion (led by Mani's disciple Mar Ammō) followed Sasan
 Lieu also surveys the discovery history of the Manichaean corpus: the Turfan Middle Iranian archive (German expeditions, 1902–1914, ~5,000 fragments); the Coptic Medinet Madi hoard (Egypt, c. 1929); Kellis (Dakhleh Oasis) papyri; and the miniature **Cologne Mani Codex** (deciphered 1970 by Henrichs and Koenen), a semi-autobiographical account of Mani's early life. Its dating is disputed: originally placed in the 4th century on linguistic grounds, but two Russian scholars have proposed a 7th/8th-century palaeographic redating — a challenge Lieu notes remains formally unrebutted, an open question rather than a resolved one. See also [[silk-roads]] and [[sasanian-empire]].
 
 See: [[late-antiquity]], [[universal-religions]], [[sasanian-empire]], [[silk-roads]], [[augustine-of-hippo]], [[sources/kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]].
+
+## Gibbon, *Decline and Fall* (1776–1788) — Ch. XXI (heresy edict)
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]] places Manichaeans on Constantine’s post-Eastern-conquest heresy list as a possible target among assemblies prohibited and properties confiscated: Paulianists, Montanists, Novatians, Marcionites/Valentinians, “and perhaps the Manichæans, who had recently imported from Persia a more artful composition of Oriental and Christian theology.” Later inquiry softens policy on Novatians. Cross-link: Gibbon’s Gnostic survey also groups Manichaeans among dualist Christian names aiding Gentile progress without Mosaic law (see [[origins-of-christianity]]).
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/gibbon-edward]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **Legislation and Persian association.** Jews, Manichees, and Montanists treated as the greatest challenges to orthodox supremacy. Manichaeism mixed Persian/Mazdaean dualism, Christian, Jewish, and other beliefs; internal hierarchy of “elect” (chaste) and “hearers”; Mani as self-proclaimed prophet of Jesus’ revelation with missionary reach to China. Diocletian’s legislation already targeted them as associated with Persia (ironically also persecuted by Persians). Theodosius I renewed bans (property inheritance and assembly, 383); Zeno and Justin/Justinian 520–527 threatened exile/death (CJust. 1.5.11–12). Young Augustine was a famous Manichee “hearer,” attracted by dualism and resplendent books.
+- **Label as abuse term.** By later fifth century “Manichee” became an all-purpose abuse term (even Anastasius labeled for Monophysite tendencies); Richard Lim’s discourse approach: label partly produced by polemic rather than only by objectifiable communities. No epigraphic/archaeological remains like Montanism/Judaism; evidence mainly manuscripts.

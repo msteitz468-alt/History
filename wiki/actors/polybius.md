@@ -9,8 +9,8 @@ affiliated_with: [[[achaean-league]], [[scipio-aemilianus]]]
 opposed_by: []
 key_events: [[[wars-of-the-diadochi-323]], [[social-war-220]], [[rise-of-rome]]]
 key_processes: [[[hellenistic-historiography]], [[hellenistic-world]]]
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, mediterranean-world]
 ---
 
@@ -81,3 +81,7 @@ preserved a breadth of Hellenistic material no other surviving source supplies. 
 debate over his thesis that **Roman expansion was consciously willed** is a debate
 about Roman imperialism (Harris vs. Briscoe; see [[causes-of-second-punic-war]]), not
 about his factual value.
+
+## OHCW (Murray, Griffin) — end of Hellenistic historiography and Roman evidence
+
+[[boardman-oxford-history-classical-world-1986|OHCW (1986)]], Ch. 8 (Oswyn Murray), closes the Greek historical tradition with Polybius as the way forward toward a **Roman-centred Thucydidean** tradition after Hellenistic *Tyche*-history (Hieronymus of Cardia and successors) and ethnographic revival (Manetho, Berossus, Megasthenes). In ~350 years Greek historiography invented most styles still practised and high accuracy standards; its shared defect with moderns, Murray says, is inability to cope with God’s power in history. Griffin (later Roman chapters) treats Polybius as full/reliable for **264–146** but fragmentary later and dependent on biased earlier writers for the start; [[livy|Livy]] used him for the East while also drawing on patriotic annalists. Polybius paints Romans as soldiers of great discipline and ferocity; his 225 Gallic-war muster implies a Roman–Italian manpower pool on the order of **6–7 million**. Syracuse’s sack (212) is his marker for the start of Roman taste for Greek art. Posidonius later undertook a **continuation** of Polybius (Barnes, OHCW Ch. 15).

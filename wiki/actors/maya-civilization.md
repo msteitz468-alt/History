@@ -9,7 +9,7 @@ affiliated_with: ["the broader Mesoamerican world (Olmec-related networks, Teoti
 opposed_by: ["rival Maya city-states (Tikal/Mutal vs Calakmul/Kaan)", "the Spanish (final conquest of Nojpeten 1697)", "nineteenth-century Yucatecan Creole plantation order"]
 key_events: ["Late Preclassic southern florescence and Ilopango shock", "Early Classic Teotihuacan-related elite contacts", "the Kaan–Mutal wars and Hiatus", "the Classic Maya collapse (c. 800–950 CE)", "Chichén Itzá and Mayapan Postclassic orders", "[[conquest-of-guatemala-1524]]", "[[conquest-of-yucatan-1527]]", "[[caste-war-yucatan-1847]]"]
 key_processes: ["[[mesoamerican-state-formation]]", "[[mesoamerican-preclassic]]", "[[maya-highland-pacific-development]]", "[[highland-maya-colonial-modern]]", "[[lowland-maya-colonial-modern]]", "[[southeast-mesoamerican-frontiers]]", "[[maize-domestication]]", "[[mesoamerican-calendar]]"]
-sources_ingested: 6
+sources_ingested: 8
 last_updated: 2026-07-08
 tags: [actor, civilization, mesoamerica, classical-antiquity, late-antiquity, early-modern]
 ---
@@ -116,6 +116,117 @@ Spanish conquest and colonization, though probably more devastating than earlier
 
 **Historiography (lowland colonial).** Archaeology of the prehispanic lowlands long outpaced colonial/national ethnohistory despite a rich documentary base (Jones). Stephens (1841–43) began modern recognition of living Mayas as builders’ descendants. Southern Yucatecan ethnic origins remain debated (Thompson’s “Chan Mayas” and Classic descent vs. Postclassic migrations vs. Jones’s deep Yucatecan antiquity). Pillars: Farriss, Patch, Chamberlain, Roys/Quezada, Clendinnen, Restall, Jones’s own Itza/resistance monographs, Cook & Borah demography, Rugeley/Reed/Dumond on the Caste War.
 
+## From Evans & Webster 2001 (encyclopedia synthesis)
+
+Susan Toby Evans & David L. Webster (eds.), *Archaeology of Ancient Mexico and Central America: An Encyclopedia* (2001) supplies dense, entry-level synthesis across Maya Culture and History, Maya Lowlands (North/South), deities, Motagua, and site entries — integrated below without replacing CHNPA/Snow narrative above. Source page: [[evans-webster-archaeology-ancient-mexico-central-america-2001]].
+
+### Periodization and southern Lowlands phases (Houston package)
+
+Southern Maya Lowlands — focal for Mesoamerican civilization — span southern Yucatán between roughly **16°–18° N**, Caribbean to Gulf/Isthmus of Tehuantepec; modern coverage includes Chiapas, Tabasco, Campeche, Quintana Roo, Petén, Alta Verapaz, and Belize. Phase table:
+
+| Phase | Dates | Markers |
+|---|---|---|
+| 1 Archaic | c. 9000–2500 B.C. | Hunting-gathering |
+| 2 Early–Middle Formative | 2500–600 B.C. | First maize agriculture; Swasey/Xe/Eb ceramics |
+| 3 Middle–Late Formative | 600–400 B.C. | First monumental architecture; Mamom ceramics |
+| 4 Late Formative | 400 B.C.–A.D. 250 | First cities; triadic architecture; road systems; first writing; Chicanel |
+| 5 Classic | A.D. 250–900 | Literacy; dynastic rulership; Tzakol/Tepeu |
+| 6 Postclassic | A.D. 900–1600 | Riverine/lakeside settlement; New Town / Dos Lagos ceramics |
+
+Lake cores from central Petén show maize pollen by ~**2500 B.C.**; ceramics ~**1200–1000 B.C.**; [[cuello|Cuello]] yields earliest known southern Lowlands architecture. Late Formative crystallizes civilization: recognizably Maya iconography; triadic complexes at Calakmul, Lamanai, [[el-mirador|Mirador]], Nakbe; Mirador constructions nearly **70 m**; formal road systems; population peaks. Major Late Formative centers Mirador, Nakbe, Cerros then wholly/largely abandoned in the Protoclassic.
+
+### Classic political order
+
+Classic conventionally begins with large non-portable long-count monuments; earliest known inscription **A.D. 292** at [[tikal|Tikal]] (dynasty probably founded ~a century earlier). Emblem glyphs and title *ahaw* (“lord”) mark royal ideology. [[tikal|Tikal]] and [[calakmul|Calakmul]] emerged as Early Classic regional powers; sequences of up to fifteen successive Early Classic rulers known at [[copan|Copán]] and Tikal. Early Classic Teotihuacan trade/influence arrived directly or via enclaves such as [[kaminaljuyu|Kaminaljuyú]]; Maya rulers adopted Teotihuacan military imagery; some interpret late-fourth-century Tikal conquest of Uaxactun as first large-scale territorial war. “Classic hiatus” ~**A.D. 530–590** (most conspicuous at Tikal) is **not pan-Maya**.
+
+**A.D. 600–800** mature Classic: ~**40** major centers with distinctive emblem glyphs; shared elite Great Tradition with strong regional variants (many N/central centers never used long count/writing as archaeologically detectable). Basic political unit = regal-ritual center + hinterland (hundreds to a few thousand km²); largest polities **>100,000** people. Reciprocal elite marriage and visits coexisted with protracted wars and alliance networks creating larger polities dominated by paramounts of Tikal, Calakmul, [[caracol|Caracol]], Dos Pilas — debated as “superstates” vs unstable coalitions; **no single center conquered and united a significant portion of the Lowlands**. Eighth-century populations often exceeded **100 people/km²**; upland agriculture primary; terracing/drained fields spotty and debated. Late Classic ~**100,000** people around Tikal; rural densities exceeding **190 persons/km²** — among the most populous preindustrial societies. Late Classic skeletons show widespread dietary deficiencies except among protein-rich elite.
+
+### Collapse and northern succession
+
+Late-eighth-century cessation of dated monuments and royal building; over ~**150** Terminal Classic years dynasty after dynasty failed. Latest certain long-count dates: Tikal **889**; Tonina **909**. Causes implicated: internecine warfare, internal factionalism, environmental degradation — **not universal** (Belize often remained vigorous). Widespread rejection of Classic kingship in central/southern Lowlands. From mid-ninth century [[chichen-itza|Chichén Itzá]] rose with mixed Maya and Mexican styles; [[mayapan|Mayapan]] mid-thirteenth-century successor, fell ~**1450** into fragmented provinces. [[uxmal|Uxmal]] anchors Terminal Classic Puuc florescence (**800–950/1000**).
+
+### Religion, writing, warfare
+
+Maya religion shared Mesoamerican themes but expressed uniquely; general pattern for gods is **gradual development and continuity**. Phonetic decipherment yields Schellhas/deity names (God A Cimi/Cisin; God B Chac; God D Itzamna; God K Kauil; Maize God central to Classic creation mythology — head as ear of corn; harvest as decapitation). *Popol Vuh* Hero Twins and Vucub Caquix already present among Classic/Izapan monuments. Scribe title *ah ts’ib* (“one who writes or paints”); also *its’at*. Stela cult: Middle Formative Olmec origins; Late Formative florescence at [[izapa|Izapa]], Abaj Takalik, Kaminaljuyú, Nakbe, El Mirador; last southern Lowland stela **A.D. 909** at Tonina. Peaceful Classic Maya view overturned: Tikal earthworks at start of Classic; Late Classic military themes with epigraphically recorded conflicts; kings prestige via capture/sacrifice of illustrious enemies (much smaller scale than Aztec practice). Human sacrifice attested from Formative times.
+
+### Northern Lowlands contacts and Puuc
+
+Early Classic northern Lowlands show few but strong central highland Mexican contacts (mid-fifth to late sixth century): green obsidian; Yaxuna “Mexican” warrior stela; Xelha Teotihuacan-style frescoes; Becan Teotihuacan-style figurine cache. Earliest N Lowland hieroglyphs at Calakmul **A.D. 431**. Classic Puuc architecture at Uxmal, Labna, Sayil, Kabah often rated finest Mesoamerican architecture; Lord Chac’s Palace of the Governor shortly after **A.D. 900**.
+
+### Motagua and SE frontiers
+
+Motagua region = Classic florescence of Copán and [[quirigua|Quiriguá]]; middle Motagua jade/obsidian; SE Mesoamerica a poorly known mosaic long treated as periphery — Late Classic maximum complexity with **limited** Copán hegemony (southern La Entrada **628–738** only). See [[southeast-mesoamerican-frontiers]], [[copan]], [[quirigua]].
+
+## Fagan & Durrani (2020): decipherment, the political-cycle model, and water management
+
+Fagan and Durrani's *World Prehistory: A Brief Introduction* (10th ed., 2020) reinforces and
+extends the decipherment-driven revision already recorded above. **Yuri Knorozov's 1952**
+demonstration that Maya glyphs were phonetic/syllabic (comparable to Egyptian hieroglyphs)
+overturned the earlier "peaceful astronomer-priest" model of Maya civilization: the glyphs
+reveal Maya lords as rulers of competing, warring city-states engaged in diplomatic marriage,
+alliance, and conquest — the political propaganda of a warrior nobility, not neutral
+calendrics.
+
+**Joyce Marcus's political-cycle model** (applied by Fagan & Durrani across the Maya,
+Teotihuacan, Toltec, and Aztec alike; see [[mesoamerican-state-formation]]) frames repeated
+Mesoamerican state formation as a cycle: a city-state expands via diplomacy, marriage, and
+conquest to an early maximum territorial extent; its provinces grow in complexity and break
+away; the core persists locally rather than weakening outright; former provinces sometimes
+ally to conquer their old overlord, becoming a new center in turn — the cycle then repeats.
+
+**Water management:** unlike Egypt or Mesopotamia, the Maya lowlands lacked major rivers or
+seasonal floods. Maya society instead built "microwatershed" reservoir and canal systems
+(Vernon Scarborough) — inherently limited in scalable area, a structural factor Fagan &
+Durrani connect to the Maya civilization's characteristic mosaic of small, fragile-yet-
+resilient city-states rather than a single unified river-valley state.
+
+**Climate and the Yok Balum record:** a uranium-thorium- and oxygen-isotope-dated stalagmite
+from Yok Balum cave (Belize) shows droughts c. 200–300 CE, 820–870 CE, 1020–1100 CE, and
+1530–1580 CE, driven by El Niño/ITCZ shifts. These correlate with El Mirador's decline
+(200–300 CE drought), the flourishing of Tikal and Calakmul during a high-rainfall interval
+(c. 440–660 CE), renewed fragmentation and warfare once drying resumed after 660 CE, and a
+final drought (1000–1100 CE) coinciding with the Chichén Itzá era.
+
+**Sites and rulers (additional detail):** at **Tikal**, dynasty founder-ancestor **Yax-Moch-
+Xok** (c. 200 CE) is the founding figure of the recorded dynasty (31 rulers, 18 named,
+292–869 CE — 577 years of recorded history). The ninth successor, **Great Jaguar Paw**, died
+in 378 CE, the same period in which "Fire-Born," a warrior possibly from Teotihuacan, arrived,
+defeated Uaxactún (16 January 378 CE), and founded a new dynasty — marking growing
+Teotihuacan military/political influence at Tikal through c. 550 CE. Tikal's estimated
+population reached up to 300,000 territory-wide (62,000 in the city and immediate hinterland;
+Fagan & Durrani flag these as possibly high estimates). Tikal was defeated by **Caracol** in
+557 CE (its ruler Double Bird captured by Caracol's Lord Water) and paid tribute to Caracol for
+roughly 150 years; Caracol's ceremonial core covered 2.25 sq km with 30,000–50,000 people in
+the 7th century (up to 100,000 in the surrounding countryside). **Calakmul**, Tikal's major
+rival 514–814 CE, had a ceremonial precinct of roughly 2 sq km (>20 sq km including
+residential zones) and 50,000+ in its urban core. At **Palenque**, the dynasty begins 11 March
+431 CE (Bahlum-Ku'k); the city was a dominant power 603–702 CE; **Pacal the Great** built the
+Temple of the Inscriptions (tomb beneath, sarcophagus lid carrying royal genealogy) over a
+67-year reign, succeeded by his son Chan-Bahlum. At **Copán**, the earliest inscription (11
+December 435 CE) names ruler Yax-Ku'k-Mo'; Copán controlled **Quiriguá** until 3 May 738 CE,
+when Quiriguá's subordinate ruler captured and sacrificed the Copán king; a new ruler, Smoke
+Shell (from 749), rebuilt authority and built the Temple of the Hieroglyphic Stairway (755,
+>2,200 glyphs); his son Yax-Pac ruled amid rising factionalism, and from c. 771 CE local
+nobles gained the right to carve their own inscriptions — a sign of weakening royal authority
+presaging collapse by 800 CE. At **Dos Pilas**, founded 645 CE by a renegade Tikal noble,
+"Ruler 2" (r. 698–726 CE) — his tomb excavated by Demarest and Valdés, yielding a shell-mosaic
+headdress and jade — presided over a territory exceeding 3,884 sq km by the mid-8th century;
+"Ruler 4" was killed in 761 CE by a former vassal, Tamrindo, and survivors fled to the
+fortified, cliff-top, moat-defended site of **Aguateca**, abandoned in the 800s — a case study
+Demarest uses for the endemic-warfare collapse theory.
+
+**Collapse historiography:** Fagan & Durrani survey the multicausal debate — 1970s theories
+emphasizing elite warfare and competition following Teotihuacan's fall; Demarest's
+warfare/fortification evidence from Dos Pilas and Aguateca; Patrick Culbert's demographic and
+agricultural-carrying-capacity analysis; and David Webster and William Sanders's survey at
+Copán, which shows the hinterland population collapsing from a 700–850 peak of 20,000–25,000,
+dropping roughly 50% in the urban core after 850, to just 2,000–5,000 by 1150 — tied to
+deforestation, erosion, and soil exhaustion. Crucially, the text explicitly frames the
+"collapse" as not a universal or final event but "a marked episode in a long series of
+periodic flowerings and collapses characteristic of Maya civilization... Mesoamerican
+civilization generally" (Fagan & Durrani 2020) — a caution against catastrophist framing that
+belongs alongside the causal analysis on [[maya-classic-collapse-800ce]].
+
 ## Related
 
-[[tikal]] · [[calakmul]] · [[palenque]] · [[copan]] · [[chichen-itza]] · [[kaminaljuyu]] · [[izapa]] · [[maya-classic-collapse-800ce]] · [[maya-highland-pacific-development]] · [[highland-maya-colonial-modern]] · [[lowland-maya-colonial-modern]] · [[conquest-of-guatemala-1524]] · [[conquest-of-yucatan-1527]] · [[caste-war-yucatan-1847]] · [[guatemala-highlands]] · [[chiapas-highlands]] · [[southeast-mesoamerican-frontiers]] · [[quelepa]] · [[ceren-salvador]] · [[mesoamerican-state-formation]] · [[mesoamerican-calendar]] · [[mesoamerican-writing-systems]] · [[mesoamerican-preclassic]] · [[olmec]] · [[teotihuacan]] · [[aztec-empire]] · [[maize-domestication]] · [[pre-columbian-americas]] · [[holmbergs-mistake]] · [[mann-1491-2005]] · [[mesoamerican-ball-game]] · [[popol-vuh]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Jones Ch. 20; Lovell Ch. 21)
+[[tikal]] · [[calakmul]] · [[palenque]] · [[copan]] · [[caracol]] · [[quirigua]] · [[chichen-itza]] · [[mayapan]] · [[uxmal]] · [[el-mirador]] · [[cuello]] · [[bonampak]] · [[kaminaljuyu]] · [[izapa]] · [[cotzumalhuapa]] · [[maya-classic-collapse-800ce]] · [[maya-highland-pacific-development]] · [[highland-maya-colonial-modern]] · [[lowland-maya-colonial-modern]] · [[conquest-of-guatemala-1524]] · [[conquest-of-yucatan-1527]] · [[caste-war-yucatan-1847]] · [[guatemala-highlands]] · [[chiapas-highlands]] · [[southeast-mesoamerican-frontiers]] · [[quelepa]] · [[ceren-salvador]] · [[mesoamerican-state-formation]] · [[mesoamerican-calendar]] · [[mesoamerican-writing-systems]] · [[mesoamerican-preclassic]] · [[olmec]] · [[teotihuacan]] · [[aztec-empire]] · [[maize-domestication]] · [[pre-columbian-americas]] · [[holmbergs-mistake]] · [[mann-1491-2005]] · [[mesoamerican-ball-game]] · [[popol-vuh]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Jones Ch. 20; Lovell Ch. 21) · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster encyclopedia]]

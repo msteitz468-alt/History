@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: regional
 causes: [the split of the Arcadian League into pro- and anti-Theban factions, Epaminondas' determination to reassert Theban control of the Peloponnese]
 consequences: [a Theban tactical victory negated by the death of Epaminondas, the end of the Theban hegemony, a Common Peace excluding Sparta, the mutual exhaustion of the Greek states]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, peloponnese]
 ---
 
@@ -60,9 +60,26 @@ control. produced: the **end of the [[thebes-hegemony-371bce|Theban hegemony]]**
 Persia-free **Common Peace** (362/1) excluding Sparta; and the exhausted multipolar Greece
 that opened the way for **Macedon**.
 
+## Historiography
+
+[[osborne-classical-greece-2000|Osborne (ed.), *Classical Greece 500–323 BC* (2000)]] (Ch.
+8) confirms the split of the Arcadian League (Tegea and Megalopolis with Thebes; Mantinea
+with Sparta and Athens against Thebes) and notes that this battle is where
+**[[xenophon|Xenophon]]'s** *Hellenica* deliberately ends its account of "fifty years of
+Greek history," with the historian's own admission that the battle left "**even more
+uncertainty and confusion**" in Greece than before — an anticlimax he chose not to
+narrate further, inviting "someone else" to continue (*Hellenica* 7.5.27). This
+self-conscious break is itself a historiographical event: no other extant continuous
+narrative source survives to replace Xenophon for the years after 362 (Diodorus, drawing
+on Ephorus, becomes the chief thread instead), and where Xenophon's account of the whole
+post-Peloponnesian-War period can be checked against the independent, only fragmentarily
+recovered **Hellenica Oxyrhynchia**, the two accounts sometimes disagree on causation and
+sequence — a reminder that fourth-century Greek history, unlike the fifth, is rarely
+underwritten by a single trusted narrative.
+
 ## Related
 
 - Commander (d.): [[epaminondas]] · pro-Theban: Tegea · Megalopolis · Messene · Argos · Boeotia
 - Anti-Theban: [[sparta]] · [[places/athens|Athens]] · Mantinea · Elis · Achaea
 - Context: [[thebes-hegemony-371bce]] · [[battle-of-leuctra-371bce]] · ends Xenophon's *Hellenica* ([[fourth-century-greek-historiography]])
-- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 7, Roy)
+- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 7, Roy) · [[osborne-classical-greece-2000|Osborne (ed.) 2000]] (Ch. 8)

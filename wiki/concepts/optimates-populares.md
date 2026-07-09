@@ -5,7 +5,7 @@ origin: Roman political vocabulary of the late Republic (optimates / populares);
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [italy, mediterranean-world]
 contested: yes
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [concept]
 ---
@@ -88,4 +88,11 @@ class grievances, and what *popularis* leaders thought they were doing.
   [[pompey]] · [[scipio-aemilianus]] · sources: [[polybius]] · [[livy]]
 - Concepts: [[roman-aristocratic-politics]] (the mid-Republican system) · [[mos-maiorum]] ·
   [[sullan-constitution]] · [[senatus-consultum-ultimum]] · [[roman-equites]]
-- Frame: [[great-man-vs-structural-causation]] · source: [[crook-cah-v9-1992]] (Lintott) · [[duncan-storm-before-the-storm-2017]]
+- Frame: [[great-man-vs-structural-causation]] · source: [[crook-cah-v9-1992]] (Lintott) · [[duncan-storm-before-the-storm-2017]] ·
+  [[flower-roman-republics-2010]] · [[roman-republics-periodization]]
+
+## Flower, *Roman Republics* (2010)
+
+Flower lists *optimates*/*populares* “party politics” among the three standard scholarly focuses on the late Republic, but treats exclusive reliance on that frame as dangerous: it invents a tragic stalemate that presupposes a static fundamental Republic. On her reading, **popular politics after Sulla** — violent interventions by citizens and soldiers, and the restored tribunate of the 60s–50s — tended to **weaken remnants of the Sullan settlement** rather than restore earlier republican culture; “popular politics was not necessarily ‘republican’ in tendency.” The restored tribunate, she argues, fed more violence and multiyear commands of the great generals.
+
+For the **50s** she rejects a coherent party-politics analysis outright (engaging the Taylor tradition): Romans had not had second-century parties; any “party of sorts” under Cinna had been destroyed; only the most powerful generals could form alliances that mattered, and those were backed by military might. She footnotes von Ungern-Sternberg’s claim that **obstructionist optimate tactics** ensured the continuation of *popularis* politics. Source: [[flower-roman-republics-2010]].

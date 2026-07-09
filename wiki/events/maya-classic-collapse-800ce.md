@@ -8,7 +8,7 @@ period: [Early Middle Ages]
 region: [mesoamerica]
 location: ["Maya southern lowlands (Petén, Belize, Usumacinta, Copán region)", "northern Yucatán (partial, transformed)", "SE Mesoamerican frontier / Honduras centers"]
 actors_primary: ["[[maya-civilization]]"]
-actors_secondary: ["[[tikal]]", "[[calakmul]]", "[[palenque]]", "[[copan]]", "[[chichen-itza]]"]
+actors_secondary: ["[[tikal]]", "[[calakmul]]", "[[palenque]]", "[[copan]]", "[[chichen-itza]]", "[[caracol]]", "[[quirigua]]"]
 event_type: collapse
 scale_immediate: civilizational
 scale_consequential: civilizational
@@ -25,7 +25,7 @@ consequences:
   - fortified lake-peninsula continuity in Petén until colonial era
   - recession of Mesoamerican frontier in Honduras toward Motagua (Sheets)
   - eventual Spanish-era disease shocks as possible "real" demographic collapse (Hammond)
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [event, early-middle-ages, mesoamerica, maya]
 ---
@@ -90,6 +90,22 @@ The collapse is among the most studied events in American archaeology. **David W
 
 Positions include: drought-primary (strengthened by paleoclimate since 1990s); warfare-primary (Petexbatun/Cancuén school); ecological overshoot; Hammond logistical/managerial failure; multi-factor regional mosaics (current mainstream). Older monocausal invasion/peasant revolt theories are largely discarded. Critical methodological points: (1) **monument cessation ≠ total depopulation**; (2) **Hiatus ≠ Collapse** (political vs systemic); (3) **southern vs northern vs highland** trajectories must not be collapsed into one narrative; (4) Spanish-era disease may dwarf ninth-century demographic loss (Hammond). See [[maya-civilization]], [[pre-columbian-population-debate]], Snow et al. (2020), and CHNPA II.1 Chs. 1, 5, 9–10.
 
+## From Evans & Webster 2001
+
+Encyclopedia entries (Maya Culture and History; southern Lowlands; Copán Region; Southeast Mesoamerica; Petexbatun/Dos Pilas notes) reinforce multicausal, non-universal collapse ([[evans-webster-archaeology-ancient-mexico-central-america-2001]]).
+
+### Scale and non-universality
+
+In several areas southern lowland demographic crash approached **90%** decline between **A.D. 800 and 950** (Copán more protracted). Coastal areas less sharply affected. Collapse involved cessation of public buildings and dated inscriptions after **A.D. 800–850** and great population loss in landlocked Yucatán. Late-eighth-century cessation of dated monuments and royal building signals trouble; over ~**150** Terminal Classic years dynasty after dynasty failed. Latest certain long-count dates: [[tikal|Tikal]] **A.D. 889**; Tonina **A.D. 909**. Some centers abandoned abruptly; elsewhere gradual decline. Implicated causes: **internecine warfare, internal factionalism, environmental degradation** — **not a universal process** (Belize centers often remained vigorous). Widespread rejection of Classic kingship traditions in central and southern Lowlands. Most convincing explanation (one encyclopedia framing) combines failure of basic food production, demographic instability from disease/malnutrition, and inability of major centers to extract large tribute of basic goods; highland Mexico with floodwater/hydraulic agriculture did not experience a comparable collapse.
+
+### Petexbatun warfare package
+
+**Dos Pilas**: seventh-century foundation by outcast Tikal royalty; late seventh century defeated and sacrificed Tikal’s king; by **A.D. 740** controlled much of Pasión River valley; fall **A.D. 761** when subordinate centers defeated Dos Pilas ruler — site besieged and destroyed; Petexbatun then fragmented into intensively warring polities, virtually abandoned by **A.D. 830**. After **A.D. 780**, fortification construction: Dos Pilas core hurriedly fortified by ramshackle wall; Aguateca fortified with natural chasms and stone/timber palisades; Punta de Chimino cut off by massive earthwork and parapet.
+
+### Protracted decline and SE parallels
+
+At [[copan|Copán]] royal collapse ~**820** ≠ immediate total depopulation — high population persisted decades then declined over centuries to effective abandonment by **1200/1250**. [[cotzumalhuapa|Cotzumalhuapa]] obsidian hydration similarly suggests Early Postclassic occupation, calling into question a uniform Terminal Classic population collapse across southern Mesoamerica. SE Mesoamerica: population drops almost everywhere except lower Aguan and western El Salvador; abandonment by **A.D. 1000** in middle Humuya/Sulaco and La Entrada; brief reversals (Cerro Palenque, Tenampua, Cihuatán); changes generally contemporary with Maya Collapse; **no clear evidence** that human-caused environmental degradation drove SE declines (contrasts with Copán). Southern Lowlands Terminal Classic reduced urban densities to scattered mostly riverine settlement; explanations combine political fragmentation, migration elsewhere in Yucatán, and environmental decline, with pan-Yucatecan fine-goods trade and mobility also contributing.
+
 ## Related
 
-[[maya-civilization]] · [[tikal]] · [[calakmul]] · [[palenque]] · [[copan]] · [[chichen-itza]] · [[southeast-mesoamerican-frontiers]] · [[maya-highland-pacific-development]] · [[teotihuacan-collapse-550ce]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]]
+[[maya-civilization]] · [[tikal]] · [[calakmul]] · [[palenque]] · [[copan]] · [[caracol]] · [[quirigua]] · [[chichen-itza]] · [[mayapan]] · [[uxmal]] · [[cotzumalhuapa]] · [[southeast-mesoamerican-frontiers]] · [[maya-highland-pacific-development]] · [[teotihuacan-collapse-550ce]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster encyclopedia]]

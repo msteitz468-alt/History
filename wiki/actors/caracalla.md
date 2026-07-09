@@ -9,7 +9,7 @@ affiliated_with: [[[severan-dynasty]], [[roman-imperial-army]]]
 opposed_by: [[[geta]], [[parthian-empire]]]
 key_events: [[[constitutio-antoniniana-212]]]
 key_processes: [[[militarization-of-the-roman-state]], [[roman-citizenship-and-belonging]]]
-sources_ingested: 2
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]
 ---
@@ -76,4 +76,25 @@ argument.
 - The status order it interacted with: [[roman-citizenship-and-belonging]],
   [[roman-social-structure-high-empire]]; the coming [[third-century-crisis]]
 - The client-kingdoms he ended: [[kingdom-of-edessa]]; Ball's thesis [[orientalization-of-rome]]
-- Sources: [[bowman-cah-v12-2005]] (Ch. 1, Brian Campbell); [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]]
+- Sources: [[bowman-cah-v12-2005]] (Ch. 1, Brian Campbell); [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]]; [[woolf-rome-empires-story-2012]]
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+[[actors/gibbon-edward|Gibbon]]’s Caracalla is the “common enemy of mankind” who completed Severus’s military monarchy and universalized citizenship as fiscal avarice. **Gibbon’s views.**
+
+- **Common enemy of mankind:** unlike resident tyrants who hit senatorial/equestrian orders, Caracalla left the capital after Geta’s murder and never returned; ordered general massacre at Alexandria, coolly telling the senate all Alexandrians were alike guilty — “Caracalla was the common enemy of mankind.”
+- **Severus’s maxim abused:** “To secure the affections of the army, and to esteem the rest of his subjects as of little moment” — father’s liberality restrained by prudence; son’s careless profusion “policy of one reign and inevitable ruin of army and empire.”
+- **Constitutio Antoniniana:** name and privileges of citizens to all free inhabitants — “it was the sordid result of avarice,” not generosity (widen inheritance-tax base).
+- **Double taxation:** provincials “compelled to assume the vain title, and the real obligations, of Roman citizens”; twentieth of legacies raised to a tenth; old provincial tributes continued alongside new citizen taxes.
+- **Arms to the frontier:** after Caracalla trampled the last “enclosure” of the constitution, polished interior citizens became lawyers/magistrates; arms abandoned to peasants and barbarians of the frontiers who “sometimes guarded, but much oftener subverted, the throne” (seed of [[processes/barbarization-of-the-roman-army]]).
+- **Christian household:** “The nurse as well as the preceptor of Caracalla were Christians.”
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/septimius-severus]] · [[concepts/gibbonian-decline-thesis]]
+
+## Woolf, Rome: An Empire's Story (2012)
+
+From [[woolf-rome-empires-story-2012]] (citizenship / imperial amenities).
+
+- **Edict generalizing citizenship.** Endpoint of long enfranchisement: early empire as world at peace with citizenship spreading until Caracalla’s edict enfranchised almost everyone—“Roman law suddenly embraced everyone”; yet status was “strangely still valued.” Empire-wide ritual experiments under Decius can be read as logical consequence of the expanded citizen body (path to general persecution).
+- **Thermae.** Sponsor of grand baths at Rome alongside Titus, Trajan, Diocletian—imperial bath complexes as grandest civic style.
+- **Quotes:** “by an edict of the early third-century Emperor Caracalla (198–217), almost everyone in the empire was enfranchised.” / “a world in which most people were citizens and yet the status was strangely still valued.”

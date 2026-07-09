@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the Helvetian migration and Germanic pressure on the Gallic frontier, Caesar's need for military glory and a power base, the opportunity for conquest and plunder]
 consequences: [the Roman conquest of all Gaul to the Rhine, Caesar's veteran army and fortune, the demographic catastrophe of Gaul, the power base for the civil war]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, western-europe, war, rome]
 ---
 
@@ -77,9 +77,20 @@ and vengeance for slain Italian *negotiatores*, promoting **Labienus**, and soft
 defeats (Gergovia). Wiseman reads it as campaign literature aimed at the voters of
 Rome and Italy who supplied Caesar's troops.
 
+## CHGRW contribution
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] (Goldsworthy, II.3)
+treats Caesar’s Gallic operations as the type-case of Roman campaign flexibility: the army
+mounted operations of **all four** war types in Goldsworthy’s typology — Belgic/Veneti
+**conquest**; 54–51 **rebellions**; Rhine/Britain **punitive** expeditions; Helvetii **response
+to migration/pressure**. The Menapii submitted only after marsh causeways and three-column
+devastation (53) — field engineering as both utility and intimidation. Cross-links:
+[[roman-campaign-methods]], [[roman-legionary-tactics]] (*triplex acies* regularly used by
+Caesar; third line as reserve vs Helvetii).
+
 ## Related
 
 - Conqueror: [[julius-caesar]] · lieutenant: Labienus · foe: Vercingetorix (Alesia)
 - Funded by plunder; enabled: [[roman-civil-war-49-45bce|the civil war]] (Cycle 6)
 - Context: [[first-triumvirate]] · concurrent: [[battle-of-carrhae-53bce]]
-- Source: [[crook-cah-v9-1992]] (Ch. 10, Wiseman)
+- Source: [[crook-cah-v9-1992]] (Ch. 10, Wiseman); [[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] (Goldsworthy II.3)

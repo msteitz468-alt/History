@@ -6,8 +6,8 @@ origin: >
 applies_to_periods: ["classical-antiquity"]
 applies_to_regions: ["mediterranean-world", "western-europe", "near-east"]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-24
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, warfare, psychology, command, rome]
 ---
 
@@ -58,9 +58,58 @@ Roman command structure was designed to manage morale directly on the battlefiel
 
 ---
 
+## CHGRW (Lendon, Sabin, Gilliver, Rance)
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] embeds Goldsworthy’s
+face-of-battle psychology in Roman *virtus* culture, outcome statistics, and late-antique
+variation.
+
+**Virtus culture (Lendon, I.15).** Romans rarely hired mercenaries not from poverty of treasure
+but because they and allies yearned to fight themselves; military excellence was primarily
+*virtus* (masculine courage) — more central to Roman identity than *andreia* to Greek — proved
+ideally in single combat (Marcellus; M. Servilius’s 23 kills; spoils hung on houses as “witnesses
+to their bravery”). Treatment of cowards/captives reflects an inborn-virtus model: prisoners lost
+citizenship; Cannae survivors banished and unreansomed — Greeks usually ransomed, holding
+excellence exterior and acquirable. Shared *virtus* ideal across classes produced mid-Republican
+consensus and reconstitutable armies (“hydra/fountain”); short-term land from conquest eased
+rich-poor tension until unequal spoils later fueled agrarian crisis.
+
+**Outcomes and determinants (Sabin, I.13A).** Losses tended to be highly asymmetric — victors far
+lighter than gunpowder mutual bloodbaths. Sample: Cynoscephalae 700 Roman dead; Magnesia 350;
+Pydna ≤100; Cannae Livy ~48,200 killed + ~19,300 prisoners. Numbers and exotic weapons not
+reliably decisive; strongest single correlate with victory is **generalship**. Lendon’s contrast:
+Greeks (Polybius) stress physical factors; Romans (Livy, Caesar) stress morale/spirit. Flight
+triggers: dread of superior onset, formation disorder, fatigue, death/flight of general,
+flank/rear shock. Whitby notes Caesar privileges morale over tactics and under-notes geography
+relative to Polybius.
+
+**Gilliver: missiles, cry, command, casualties (II.4).** Purpose of missiles and *pila* was to
+break opposing-line integrity before hand-to-hand; battle cry to dismay the enemy and encourage
+own side (“close quarters fighting and the battle cry fill the enemy with the greatest terror,”
+Caes. *B Hisp.* 31). The general’s role was more active and skilful than “point and shoot”
+models allow — styles from rear direction (Agricola, Arrian) to front-rank intervention (Sulla at
+Orchomenus) to just-behind-front (Antonius Primus at Cremona II). Centurions and standard-bearers
+suffered disproportionately high casualty rates even in victory; individual initiative was
+rewarded. Majority of casualties occurred in flight after the line broke; Roman theory held a
+surrounded army more likely to resist, so complete envelopment was rare. Cavalry was vital for
+pursuit — Caesar’s first British expedition failed to convert infantry wins without it. Siege
+stress could break armies (Severus abandoned Hatra after mutiny). Civil-war sieges of Roman by
+Roman almost invariably ended in negotiated surrender rather than assault and sack.
+
+**Late antiquity (Rance, II.10).** *Disciplina* still ideologically central; capital punishment
+rare and decimation unheard of but still on the books. Sixth-century pay/supply crises caused
+unrest without equating mutiny with low combat morale (602 Balkan army cohesive and victorious
+over Avars and Slavs). Material incentives dominated (booty; Narses displaying rewards on poles
+at Taginae); war-cries evolved from Germanic *barritus* to Christian slogans. Christian ceremony
+reassured troops but military authors never treated faith as a substitute for training/discipline;
+early Islamic armies of the 630s–40s may have held morale/cohesion/leadership advantages.
+Command control limited after orders issued; trumpet signal repertoire decayed by Procopius’ day;
+divisional independence high — poor coordination contributes to Yarmuk 636.
+
 ## Related
 
 - [[sources/goldsworthy-roman-army-at-war-1996]] — Primary source
+- [[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] — Virtus culture, asymmetric outcomes, imperial and late-antique morale
 - [[concepts/roman-legionary-tactics]] — The tactical implementation of morale
 - [[concepts/roman-campaign-methods]] — The camp as a control mechanism
 - [[concepts/moral-forces-in-war]] — Clausewitzian parallels

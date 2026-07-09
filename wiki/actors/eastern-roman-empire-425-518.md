@@ -9,8 +9,8 @@ affiliated_with: [Constantinople, Chalcedonian Christianity, the Theodosian and 
 opposed_by: [the Huns (Attila), the Sasanids, the Isaurians, the Monophysites]
 key_events: [the Theodosian Code (438), the Council of Chalcedon (451), the Henotikon (482), the abolition of the chrysargyron (498)]
 key_processes: [the survival of the eastern empire, the divergence of East and West, the fiscal strengthening of Byzantium]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, state, late-antiquity, anatolia, rome]
 ---
 
@@ -74,6 +74,18 @@ insulated emperors from defeat; the early **escape from barbarian generalissimos
 Where the West's revenues collapsed into a "vicious circle," the East accumulated a surplus — the platform
 for the resurgence under [[justinian|Justinian]].
 
+## Gibbon, *Decline and Fall* (1776–1788) — Chs. XXIX–XXXV (East frame)
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]]’s permanent East–West division and Marcian episode sit in the 425–518 window; his “1,058 years of premature decay” is a whole-empire thesis continued on [[byzantine-empire]] (not limited to this slice).
+
+- **Final permanent division (Theodosius’s sons):** Arcadius East, Honorius West; Illyricum split (Noricum/Pannonia/Dalmatia West; Dacia/Macedonia forever East); “the respective advantages of territory, riches, populousness, and military strength, were fairly balanced and compensated, in this final and permanent division of the Roman empire.”
+- **Premature perpetual decay (periodization thesis):** From Arcadius to the Turkish conquest the Eastern empire “subsisted one thousand and fifty-eight years, in a state of premature and perpetual decay” — classic [[concepts/gibbonian-decline-thesis|Gibbonian]] frame, not modern CAH rehabilitation of Byzantium.
+- **Absolute monarchy:** Subjects resigned will to a master; “equally incapable of guarding their lives and fortunes against the assaults of the Barbarians, or of defending their reason from the terrors of superstition.”
+- **Marcian and Attila:** Peace should be secure and honorable, not purchased by pusillanimous aversion to war; refused further tribute; Attila threatened both courts to “provide a palace for his immediate reception.”
+- **Cross-link:** Post-518 material (Phocas/Heraclius nadir, Arab sieges, Greek fire) folded primarily under [[byzantine-empire]].
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/gibbon-edward]]
+
 ## Related
 
 - `contrasts_with:` the [[fall-of-the-western-roman-empire-476|fall of the western empire]] — the same era,
@@ -83,4 +95,14 @@ for the resurgence under [[justinian|Justinian]].
 - `enabled:` [[theoderic-the-great|Theoderic's]] Ostrogothic kingdom (Zeno's despatch of 488)
 - Continues the [[late-roman-emperorship|late Roman imperial office]] and [[late-roman-army|army]]; opposed
   by the [[huns|Huns]] under Attila and the [[sasanian-empire|Sasanids]]
-- Source: [[cameron-cah-v14-2000]] (Ch. 2, A. D. Lee)
+- Source: [[cameron-cah-v14-2000]] (Ch. 2, A. D. Lee); [[sources/gibbon-decline-and-fall-1776]]; [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+**Priscus on Theodosius II — situated bias.** Priscus painted Theodosius as “unwarlike… obtain[ing] peace by money payments not by force of arms, while all his actions were under the influence of eunuchs” (fr. 3). Mitchell situates the judgment: Priscus had served on an embassy to Attila at Hunnic peak; he wrote after Marcian reversed subsidy policy once Attila was no longer a threat; and he reflected posthumous denigration of the eunuch Chrysaphius.
+
+**Theodosian walls as decisive security.** Praetorian prefect Anthemius’s decision to build the powerful outer land walls of Constantinople secured the city from barbarian threats; Cyrus of Panopolis added sea walls (c.439–42); further land-wall repairs followed the 447 earthquake under prefect Constantine amid Hunnic threat; long walls across Thrace are likely also Theodosian in origin.
+
+**Leo’s coronation ritual and Isaurian counterweight.** Leo (457–74), chosen amid Aspar’s dominance, was first recorded as raised on soldiers’ shields and crowned by the Constantinopolitan bishop at Holy Apostles — confirming patriarchal authority in imperial investiture. Isaurians from the Taurus formed a quasi-barbarian enclave (*limes Isauricus*), nominally Catholic not Arian, providing a counterweight to Ostrogoths; Tarasikodissa/Zeno married Leo’s daughter Ariadne and, after young Leo II’s brief reign, became sole emperor.
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell, *A History of the Later Roman Empire* (2015)]].

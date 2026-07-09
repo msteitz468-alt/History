@@ -8,8 +8,8 @@ region: [aegean, mediterranean]
 process_type: [cultural]
 driven_by: [the Middle Helladic Greeks, Minoan influence, new warrior elites, palace economy & overseas trade]
 produces: [the palace states of Bronze Age Greece, Linear B (Greek), the Homeric heroic tradition, the takeover of Crete, the eastern-Mediterranean trade network]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, late-bronze-age, aegean, mediterranean, greece]
 ---
 
@@ -151,6 +151,19 @@ Age Collapse]]**, the same upheaval the Egyptians record as the
 The Dark Age proper, the sub-Mycenaean and Protogeometric recovery, and the
 question of cultural continuity are taken up in Section 6 (chapters XXXVI–XXXIX).
 
+## Freeman: decipherment and the economic base
+
+Charles Freeman ([[freeman-egypt-greece-rome-2014|*Egypt, Greece, and Rome*]], 2014)
+credits **Michael Ventris's 1952 decipherment** of Linear B — an architect and
+hobbyist codebreaker, not a professional philologist — with proving the tablets were
+Greek, clinched by the TI-RI-PO/TI-RI-PO-DE ("tripod") match; some academic
+"diehards" reportedly accused a later confirming batch of tablets of being
+deliberately forged. He also traces the Mycenaean economic base to control of the
+**Laurion copper/silver/lead mines** in Attica (later famous as Athens's silver
+source) — metal analysis shows the Minoans themselves imported Laurion copper,
+implying Mycenaean resource control predated and partly enabled the Mycenaean
+absorption of Crete rather than following from it.
+
 ## Significance
 
 Mycenaean civilization is the **bridge between Minoan Crete and historical Greece**:
@@ -166,4 +179,4 @@ Troy that became the *Iliad* and *Odyssey*.
 - People: [[coming-of-the-greeks-1900bce|the coming of the Greeks]] · [[indo-european-migrations]]
 - Trade: [[cyprus]] · [[ugarit]] · [[amarna]] · West: Italy/Sicily · Controversy: [[ahhiyawa-question]]
 - Economy/script: [[aegean-scripts]] (Linear B; the Pylos tablets) · Recession: [[bronze-age-collapse-1200bce]] · [[sea-peoples]] · [[greek-dark-age]] · [[trojan-war-1250bce]]
-- Linked legends: Danaus & the [[hyksos|Hyksos]] · Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]]
+- Linked legends: Danaus & the [[hyksos|Hyksos]] · Period: [[late-bronze-age]] · Sources: [[edwards-cah-v2p1-1973]] · [[edwards-cah-v2p2-1975]] · [[freeman-egypt-greece-rome-2014|Freeman (2014)]]

@@ -8,8 +8,8 @@ region: [aegean, mediterranean]
 process_type: [cultural]
 driven_by: [Cretan seapower & trade, the palace economy, an unbroken local development from the Neolithic]
 produces: [the palace civilization, the Aegean scripts, Mycenaean civilization (by transmission), the "thalassocracy" tradition]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, middle-bronze-age, late-bronze-age, aegean, mediterranean, greece]
 ---
 
@@ -76,6 +76,21 @@ fuelling the much-debated idea of a matriarchal element. Society was a
 Vathypetros) and a modest urban middle class of artisans, sailors and farmers
 (the small towns of **Gournia**, Palaikastro, Pseira).
 
+## Freeman: the "peaceful matriarchy" challenged
+
+Charles Freeman ([[freeman-egypt-greece-rome-2014|*Egypt, Greece, and Rome*]], 2014)
+explicitly challenges the female-dominant "peaceful matriarchy" image of Minoan
+religion (per Jacquetta Hawkes, *The Dawn of the Gods*, 1968) with grimmer
+archaeological finds: bone evidence of **child sacrifice** (flesh cut from bones) at
+a house in Knossos, a bound youth apparently sacrificed at the mountain shrine of
+**Anemospelia** (found 1979/1981), and large quantities of Cretan swords from 1750
+BC onward — suggesting warfare was more central to Minoan life than the "idyllic"
+image allows. He also notes the dating of the **first (~1600 BC) destruction of the
+palaces** was long attributed to the Thera eruption, but pumice from that eruption
+was already cleared before the destruction layer, so an earthquake-then-fire
+sequence is now favored — the sequencing of Cretan destructions remains "still
+hotly disputed."
+
 ## End Conditions
 
 From ~1450 BCE the **[[mycenaean-civilization|Mycenaean Greeks]]** took over
@@ -101,4 +116,4 @@ left a deep substrate in later Greek culture.
 - Concept: [[aegean-scripts]] · Controversy: [[fall-of-knossos]]
 - Trade: [[cyprus]] · [[ugarit]] · [[byblos]] · [[new-kingdom-egypt|Egypt]] (the *Keftiu*)
 - Antecedent: [[early-bronze-age-aegean]] · Period: [[middle-bronze-age]] → [[late-bronze-age]]
-- Source: [[edwards-cah-v2p1-1973]]
+- Source: [[edwards-cah-v2p1-1973]] · [[freeman-egypt-greece-rome-2014|Freeman (2014)]]

@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [Justinian's drive to reconcile the Miaphysites with the imperial church, the perceived Nestorian associations of the Three Chapters, the failure of earlier compromises (the Henotikon) to heal the Chalcedonian schism]
 consequences: [the condemnation of the Three Chapters and of Origen, the coerced submission of Pope Vigilius, the Schism of the Three Chapters in the Latin West, the continued alienation of the Miaphysites and the Church of Persia]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, late-antiquity, anatolia]
 ---
 
@@ -56,4 +56,12 @@ read through Cyril of Alexandria) as constructive. See **[[three-chapters-contro
 
 - Convened by: [[justinian|Justinian I]]; resisted by Pope Vigilius; resolves the
   [[three-chapters-controversy|Three Chapters controversy]].
-- Aftermath of [[council-of-chalcedon-451|Chalcedon]]; source: [[price-acts-constantinople-553]].
+- Aftermath of [[council-of-chalcedon-451|Chalcedon]]; source: [[price-acts-constantinople-553]] · [[mitchell-later-roman-empire-2015]].
+
+## From Mitchell, Later Roman Empire (2015)
+
+Justinian’s religious politics: emperor as God’s agent (*CJust* 1.27.2 pref.); personal theopaschite passion (“one of the Trinity suffered”); Procopius attacks time wasted on theology and murderous zeal against non-creed (*Wars* 7.32.39; *SH* 13.7). 530s negotiations + Constantinople **536**: Rome accepted theopaschite formula as Chalcedonian extension if Rome’s supremacy recognized — incentive for Gothic war to unite secular and religious Christendom; appearance of Chalcedonian unity while Egypt stayed Monophysite (Theodosius of Alexandria deposed 538). Theodora’s Monophysite sympathies; Justinian preferred persuasion/debate over mere force more than predecessors.
+
+Fifth ecumenical council **553** retained Chalcedon but condemned **Three Chapters** (Theodoret, Ibas, Theodore of Mopsuestia) — failed like *Henotikon*: Vigilius kidnapped, refused participation; Italian church rejected; Syrian Monophysites saw half-measure. Jacob Baradaeus (Edessa 542–78) ordained alternative Jacobite clergy — rural Syriac holy-man base vs urban Constantinopolitan Chalcedonian appointees (Donatist-Africa parallel). Mission “to be truly Roman was to be a Chalcedonian Christian” failed; Monophysite schism sealed as empire failed to protect Syria/Mesopotamia vs Khusro I — religious authority of Constantinople stretched no further than waning armies.
+
+Source: [[mitchell-later-roman-empire-2015]] · [[justinian]] · [[monophysitism]] · [[council-of-chalcedon-451]]

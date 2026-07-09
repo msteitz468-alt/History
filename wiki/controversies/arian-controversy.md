@@ -5,7 +5,7 @@ period_involved: [Late Antiquity]
 regions_involved: [mediterranean-world, near-east, egypt]
 positions: [Nicene/homoousian (Athanasius), Arian/subordinationist (Arius, Eusebians), Homoian ("the Son is like the Father"), the "three hypostaseis" Origenist East vs the "one hypostasis" Latin West]
 resolution_status: resolved-by-consensus
-last_updated: 2026-06-12
+last_updated: 2026-07-08
 tags: [controversy]
 ---
 
@@ -79,3 +79,17 @@ authority rested jointly on episcopal consensus and imperial ratification, at th
 - `contrasts_with:` the polytheist [[late-polytheism|reaction of Julian]]; builds on
   [[third-century-christianity|earlier Christianity]]
 - Source: [[cameron-cah-v13-1998]] (Ch. 19, Henry Chadwick)
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+[[actors/gibbon-edward|Gibbon]] narrates the controversy from “the school of Plato, to the decline and fall of the empire” — as politics of court, post, and capital blood as much as theology. **Positions below are Gibbon’s**, not wiki adjudication.
+
+- **Scope:** more diffuse than Donatism; from Constantine to Clovis/Theodoric, temporal interests of Romans and Barbarians “deeply involved in Arian disputes.”
+- **Constantine’s ecclesiastical levity:** “while he protected Arius, and persecuted Athanasius, he still considered the council of Nice as the bulwark of the Christian faith” and glory of his reign; baptized by an Arian bishop.
+- **Constantius’s synodal traffic:** Ammianus — plain Christianity confounded by superstition; posts “almost ruined by their hasty and repeated journeys”; eunuchs, women, bishops against Homoousion.
+- **Athanasius:** immortal name inseparable from Catholic Trinity; 46-year administration; five expulsions; “superiority of character and abilities” that would have qualified him better than Constantine’s sons to govern a monarchy.
+- **First Christian prince resisted by religious principle:** Constantius, victor over Gallus, Silvanus, Vetranio, Magnentius, “experienced the strength of those principles, which, in the cause of religion, could resist the most absolute of sovereigns.”
+- **Constantinople’s first blood ecclesiastical:** Paul vs Macedonius; Hermogenes dragged to death; ~3,150 dead at Macedonius’s installation — “The first blood which stained the new capital was spilt in this ecclesiastical contest.”
+- **Valentinian’s western truce vs Valens’s eastern Arianism**; **Julian’s recall of banished bishops** to exploit mutual hatred (see [[concepts/arianism]]).
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[concepts/arianism]] · [[events/council-of-nicaea-325]] · [[actors/theodosius-i]]

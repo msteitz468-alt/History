@@ -8,8 +8,8 @@ region: [western-europe]
 process_type: religious
 driven_by: [royal and aristocratic patronage, the reform impulse, the belief in the efficacy of monastic prayer (memoria), the imposition of the Rule of Benedict]
 produces: [a network of Benedictine houses bound to the dynasty by prayer, the standardisation of the monastic life, the Carolingian renaissance's scriptoria]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, early-middle-ages, western-europe]
 ---
 
@@ -61,3 +61,7 @@ NCMH II (de Jong) reflects a rich modern scholarship on *memoria* (the Münster 
 Gerd Tellenbach) and on monastic reform. Debates concern how coherent and how successful the Aachen reforms
 really were, the social meaning of child oblation, and the relationship between monastic ideals of withdrawal
 and the monasteries' deep entanglement in secular power.
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Charlemagne promoted Benedict’s Rule east of the Rhine and in southern Gaul (elsewhere mixed rules). Under [[louis-the-pious]], **Benedict of Aniane** (“Second Benedict”) at Aachen abbots’ meetings **816–817** produced the Monastic Capitulary ordering **only** Benedict’s Rule, enforced by imperial visitors who ordered abbots to copy the Rule and have it read. Yet Aniane’s additions multiplied choir prayer, undermining Benedict’s work–prayer balance so liturgy dominated monastic life; result: Benedictine monasticism became the Western standard. Concurrent shift: more monks as priests → private daily Mass and multiplication of altars (altar as well as priest had to “fast”). English foundations on the Continent (e.g. Fulda under [[boniface]]; Echternach under [[willibrord]]) fed the same Benedictine-standardizing world.

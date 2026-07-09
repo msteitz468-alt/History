@@ -8,7 +8,7 @@ region: [china, central-asia, steppe, iran-plateau, mesopotamia, mediterranean, 
 process_type: economic
 driven_by: ["[[trade-network-formation|exchange demand]]", "[[empire|imperial]] peace and infrastructure", "[[pastoral-nomadism|nomadic]] carriers and protectors", "elite demand for silk and prestige goods", "oasis city-states", "the Pax Mongolica"]
 produces: ["Afro-Eurasian integration", "the spread of [[buddhism|Buddhism]], Christianity, Manichaeism, [[islam|Islam]]", "transmission of technology and disease", "cosmopolitan oasis cities", "[[afro-eurasian-world-system|the medieval world system]]", "[[divergence-convergence|convergence]]"]
-sources_ingested: 6
+sources_ingested: 7
 last_updated: 2026-07-08
 tags: [process, silk-road, classical-antiquity, early-middle-ages, central-asia]
 ---
@@ -122,9 +122,14 @@ became the physical and financial **infrastructure** of the eastern routes — w
 civic centers, and lenders at Khotan, Kucha, Dunhuang, Bamiyan, and the Tarim oases —
 their merit-making donation economy binding traders to the faith. The **[[sogdians|Sogdians]]**
 were among Buddhism's first missionaries to China even as they kept their own
-Zoroastrianism. The **Battle of Talas (751 CE)**, where Abbasid armies defeated the Tang,
+Zoroastrianism. The **[[battle-of-talas-751|Battle of Talas]] (751 CE)**, where Abbasid armies defeated the Tang,
 marks the watershed after which mosques and caravanserais progressively replaced Buddhist
-monasteries across Central Asia.
+monasteries across Central Asia — Formichi (2020) treats Talas as the practical boundary line
+between the Islamosphere and the Sinosphere in Inner Asia. Overland and maritime circuits also
+overlapped directly: ninth-century Arab-Persian merchants sailed as far as Guangzhou, Fujian, and
+the Yangtze delta, and after the Mongol sack of Baghdad (1258) the Ilkhanate itself sponsored
+Hormuz as a China-linked port to sustain the trade its conquests had disrupted overland (see
+[[abbasid-caliphate]], [[islam-in-china]]).
 
 **Grounded claims from Hansen Silk Road range 2601-5200**:
 - "In each of the Silk Road communities discussed in this book—Niya, Loulan, Kucha, Turfan, Samarkand, Chang’an, Dunhuang, and Khotan—trade existed, but it was limited." (ll. 100). taxonomy: contrasts_with: [[silk-roads]].

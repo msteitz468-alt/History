@@ -8,8 +8,8 @@ region: [western-europe, mediterranean]
 process_type: religious
 driven_by: [the royal ideology of correctio, the alliance of crown and episcopate, the drive for uniformity in law and worship, the Roman model]
 produces: [a standardised canon law (Dionysio-Hadriana), the Romanised liturgy, a reformed diocesan structure, the tithe, the false decretals]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, early-middle-ages, western-europe]
 ---
 
@@ -63,3 +63,7 @@ authenticity, dating, and influence of the Pseudo-Isidorian Decretals, and the p
 "Romanisation," are long-standing fields of specialist debate. The reform connects to the
 [[carolingian-renaissance]] (the corrected texts) and to [[religion-and-lay-society|the Christianisation of
 lay life]].
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Consecrated Frankish kings issued mixed secular-religious capitularies; **Admonitio generalis (789)** was Charlemagne’s first entirely religious capitulary. In 774 at the Pavia siege Hadrian gave him the **Dionysio-Hadriana**; first 60 of 82 Admonitio articles drawn from it—McKitterick: “basic outlines for the administration of the Frankish church.” Additional 22 chapters show pastoral originality: schools at every monastery/cathedral; Lord’s Prayer instruction; detailed Sunday rest; preaching syllabus (Trinity, Incarnation, judgment, charity, virtues). Mid-ninth-century **Pseudo-Isidorian Decretals**: ~100 forged early papal decretals from a Frankish workshop, vehicle for the [[donation-of-constantine]]; arose from Hincmar’s suffragans seeking direct papal connection against metropolitan interference; later used by eleventh-century reformers and Gratian (c.1140; 375 chapters from this source). **Private daily Mass** and multiplication of altars: more monks became priests wanting daily Mass—private devotion vs corporate worship “turned a corner.” Proprietary churches (*Eigenkirchen*) as origins of parishes and later lay-appointment disputes; Chrodegang of Metz c.755 rule for canons and Roman liturgy/chants at Metz; c.786 Hadrian’s deluxe sacramentary supplemented (Alcuin or another) for Frankish needs—tenth-century return to Rome as historic **Roman Rite** (little changed until 1960s). Forced Saxon conversion under Charlemagne treated as a dark counterpart to voluntary *correctio* ideals.

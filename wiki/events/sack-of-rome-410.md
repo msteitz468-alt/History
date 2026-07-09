@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the failure of the federate settlement, the fall and execution of [[stilicho|Stilicho]] (408), Honorius' refusal to negotiate]
 consequences: [the symbolic shock to the Roman world, Augustine's City of God, the Visigothic move into Gaul and Spain]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [event, transition, late-antiquity, italy, rome]
 ---
 
@@ -64,6 +64,10 @@ less as the "fall of Rome" than as the failure of the federate experiment and of
 remains a standing reference point in the [[causes-of-the-fall-of-the-western-roman-empire|debate over
 the fall of the West]].
 
+### Woolf, *Rome: An Empire's Story* (2012)
+
+[[woolf-rome-empires-story-2012|Greg Woolf]] places 410 in the post-[[battle-of-adrianople-378|Adrianople]] cascade: after Valens’s death, emperors’ dependence on former enemies increased; Goths eventually entered Italy and “Rome was sacked in 410”; emperors retrenched to protect interior provinces; “Even before the Gothic sack, Britain had been abandoned.” On the Christian–pagan quarrel after the sack, he notes pagans blaming Christ-belief and neglect of idols, and Augustine’s answer (*City of God*) that earthly disasters are irrelevant to true piety—with Orosius’s *History against the Pagans* (417) cataloguing earlier disasters under growing Christian numbers. Brief structural note only; see [[causes-of-the-fall-of-the-western-roman-empire]] for Woolf’s wider fall model.
+
 ## Related
 
 - `caused_by:` the fall of [[stilicho|Stilicho]]; carried out by [[alaric|Alaric]] and the
@@ -76,4 +80,21 @@ the fall of the West]].
 - Source: [[cameron-cah-v13-1998]] (Ch. 4, R. C. Blockley); the great Christian apologetic response — the
   argument that pagan Rome's past was far bloodier — is now ingested as
   **[[fear-orosius-history-against-pagans|Orosius, *Seven Books of History against the Pagans*]]**
-  (companion to Augustine's *City of God*).
+  (companion to Augustine's *City of God*); [[woolf-rome-empires-story-2012]]
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]] (Ch. XXXI); Gibbon’s set-piece on the first Gothic sack.
+
+- **Precedent.** “During a period of six hundred and nineteen years, the seat of empire had never been violated by the presence of a foreign enemy” (contrast Hannibal).
+- **First siege.** Alaric blockaded twelve gates and the Tiber; Serena (Stilicho’s widow) strangled on a baseless collusion charge; famine and cannibalism rumor—“even mothers are said to have tasted the flesh of their slaughtered infants”; ransom including 5,000 pounds gold and 30,000 pounds silver.
+- **Attalus path.** After seizing Portus/Ostia magazines, Alaric forced Attalus’s elevation; Africa held by Heraclian; Attalus degraded near Rimini; Sarus’s insult then triggered the third calamity: “The crime and folly of the court of Ravenna was expiated, a third time, by the calamities of Rome.”
+- **Entry.** Slaves/domestics opened the Salarian Gate at midnight; “Eleven hundred and sixty-three years after the foundation of Rome, the Imperial city… was delivered to the licentious fury of the tribes of Germany and Scythia.”
+- **Orders.** Plunder allowed; unresisting lives and churches of the apostles protected (Procopius/Orosius-colored piety stories); Augustine’s *City of God* celebrates Christ’s triumph over pagan gods’ inability to protect.
+- **Comparative damage.** Learned contemporaries confessed infant Rome suffered more from Gauls than declining Rome from Goths; Gibbon ranks Alaric’s order above Charles V’s Imperialists who held Rome nine months.
+
+## From Mitchell, Later Roman Empire (2015)
+
+After the Attalus experiment failed and Sarus’s renegade attack aborted diplomacy, Rome was captured by assault on **24 Aug 410** and plundered three days. Jerome wept that the city which conquered the world was captured; yet it offered **no solution to Alaric’s predicament** — population largely spared in churches by Christian Goths; Alaric marched south seeking Sicilian supplies/land, fleet wrecked by storm, then died at Consentia in Bruttium early **411**. Chapter framing places the sack as the pivot after which Germanic groups rapidly took control of most western provinces — Vandals in Spain/Africa, Visigoths in Spain/Aquitaine, Burgundians upper Rhine/southern Gaul, Franks lower Rhine/northern-central Gaul — with Illyricum contested. `part_of:` [[post-roman-transformation-of-the-west]].
+
+Source: [[mitchell-later-roman-empire-2015]]

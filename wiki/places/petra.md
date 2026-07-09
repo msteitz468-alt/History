@@ -87,6 +87,26 @@ Ball further notes that rock-cut tomb façades are not typical of Nabataean arch
 generally — occurring only at Petra and Medain Saleh, nowhere else in Nabataean territory
 (Jordan, the Hauran, the Negev).
 
+## Fisher (2020): Metropolis, defensibility, and later continuity
+
+Fisher (*Rome, Persia, and Arabia*, 2020) calls Petra, per Strabo, "metropolis of the
+Nabataeans" and confirms recent archaeology places the site's occupation to the 4th–3rd
+century BCE. He emphasizes Petra's "combination of inaccessibility and defensibility": the
+Macedonian commanders Antigonus the One-Eyed and his son Demetrius "the Besieger" both
+campaigned against the Nabataeans there without success in the late 4th century BCE,
+Demetrius reportedly abandoning the siege after Nabataean envoys argued that subjugating a
+people so committed to mobility and desert self-sufficiency was pointless (Diodorus
+19.94–98). The main entrance, the siq — a narrow vertical rock cleft — physically embodies
+this defensibility.
+
+Petra was multicultural religiously (Isis and the Egyptian pantheon alongside Dushara and
+al-Uzza) and remained economically and politically significant well past the 106 CE Roman
+annexation into the 6th century CE, by which point it was used as a place of exile for
+troublesome bishops (attested in the Petra Church papyri); one Roman governor of Provincia
+Arabia, Sextius Florentinus, chose Petra as his burial place. Fisher also flags that
+current research locates part of the development of the Arabic script — significant for
+the later Quranic text — within former Nabataean territory centered on the Petra region.
+
 ## Historiography
 
 Scholars disagree over the function of Petra's high places. Per Ball, the traditional
@@ -116,4 +136,5 @@ under a thin Graeco-Roman veneer, a position mainstream scholarship (e.g. Fergus
 - [[orientalization-of-rome-thesis]]
 - [[decapolis]]
 
-Source: [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]].
+Source: [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]];
+[[sources/fisher-rome-persia-arabia-2020|Fisher, *Rome, Persia, and Arabia* (2020)]].

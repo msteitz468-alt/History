@@ -108,10 +108,37 @@ firmly within his broader "orientalization" thesis about the growing Arab role w
 the late Roman military and political system; see [[orientalization-of-rome-thesis]]
 for that debate.
 
+## Fisher (2020): Revolt as Negotiation
+
+Greg Fisher reads Mawiyya's revolt (which he dates c. 377–378) less as a war than as a
+**negotiating tactic** — the archetypal case of an Arab tribal leader deploying the one
+asset the state most needed, tribal manpower, as leverage. In his anthropological frame
+(tribe/state relations; see [[super-phylarchate]] and [[band-tribe-chiefdom-state]]),
+once Mawiyya's core demand was met the rationale for fighting evaporated and cooperation
+resumed: her forces promptly re-entered Roman service and helped defend Constantinople
+after Adrianople (378) — Ammianus records, sensationally, an Arab soldier sucking blood
+from a slain Goth's neck. Fisher stresses that Roman–Arab alliances at this level were
+understood as **personal, ruler-to-ruler pacts**, which is why they lapsed violently on
+the death of a partner (the pattern later echoed by Khusrau II's invasion to "avenge" the
+murdered Maurice).
+
+For Fisher the **main source is the ecclesiastical historian Sozomen**, who called it a war
+"by no means... contemptible... although conducted by a woman" and noted it was "still held
+in remembrance... celebrated in songs by the Saracens" (five ancient authors report it in
+all). He details the bishop dispute: Mawiyya demanded the ordination of the hermit-monk
+**Moses**, complicated because the officiating Alexandrian patriarch **Lucius** was an Arian
+(a creed condemned at Nicaea 325 but favoured by Valens) whom Moses regarded as heretical.
+Fisher groups Mawiyya with Semiramis, Cleopatra, [[zenobia|Zenobia]], Boudicca, and the
+Kahina as rare female military leaders of antiquity, and — unlike some earlier scholars —
+regards attempts to link the 425 "Mavia" dedication at Anasartha to the queen as
+"heroically futile."
+
 ## Related
 
 - [[tanukhids|Tanukhids]]
 - [[ghassanids|Ghassanids]]
+- [[super-phylarchate|Super-phylarchate]]
+- [[fisher-rome-persia-arabia-2020|Fisher, *Rome, Persia, and Arabia* (2020)]]
 - [[zenobia|Zenobia]]
 - [[roman-syria|Roman Syria]]
 - [[orientalization-of-rome-thesis|Orientalization of Rome (thesis/controversy)]]

@@ -9,8 +9,8 @@ applies_to_regions:
   - mesopotamia
   - iran-plateau
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, ideology, theological, early-middle-ages, near-east, islam]
 ---
 
@@ -50,6 +50,19 @@ A crucial aspect of the imamate debate was the concept of *'ilm* (knowledge, spe
 - The authority of hadith: Whose reports about Muhammad's conduct were reliable, and how could the community adjudicate conflicting claims?
 
 These questions did not receive settled answers until the Shafi'i synthesis of the early ninth century. In the meantime, they generated the rich diversity of early Islamic jurisprudence captured in Hodgson's chart of 'Piety-Minded Groups in Marwani Times', which shows Kufah, Basra, Medina, Syria, Egypt, and Khurasan each with distinct schools taking distinct positions on these questions.
+
+## The Ismaili Fatimid articulation (Jiwa)
+
+The [[fatimid-caliphate|Fatimid]] [[ismaili-movement|Ismaili]] imamate gave the *nass* doctrine its most fully
+elaborated legal form. Following the line from Ja'far al-Sadiq through his son **Isma'il** (against the Twelver
+line of Musa al-Kazim), the Ismaili Imams claimed both esoteric knowledge (*'ilm al-batin*) and, from 909,
+actual caliphal office. [[qadi-al-numan|Qadi al-Nu'man]]'s ***Da'a'im al-Islam*** (958–960), written for
+[[al-muizz-li-din-allah|al-Mu'izz]], made ***walaya*** (devotional allegiance to the Imam) the **first of the
+seven pillars** of Islam and identified the Imams as the *ulu'l-amr* ("holders of authority from amongst you,"
+Qur'an 4:59) — the sole legitimate source of law and guidance. It also distinguished *iman* (faith, with access
+to the *batin*) from *islam* (outward submission). The doctrine that **divine support (*ta'yid*) transfers from
+Imam to Imam** — dramatised in Ismaili accounts of al-Mansur's deathbed — expressed the continuity the *nass*
+required. See [[jiwa-fatimids-rise-2018]].
 
 ## Historiography
 

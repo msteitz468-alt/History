@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [the clash of the Alexandrian and Antiochene christological schools, imperial pursuit of doctrinal unity, the Nestorian and Eutychian disputes]
 consequences: [the definition of Chalcedonian orthodoxy, the Monophysite schism, the permanent division of eastern Christianity, the Acacian and east–west ruptures]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [event, religious, late-antiquity, anatolia]
 ---
 
@@ -95,3 +95,17 @@ paradox of the Christian empire.
 - Source: [[cameron-cah-v14-2000]] (Ch. 27); the Greek narrative of the Council's long aftermath is now
   ingested as **[[whitby-evagrius-ecclesiastical-history|Evagrius Scholasticus, *Ecclesiastical
   History*]]**.
+
+## From Tannous, *Making of the Medieval Middle East* (2018)
+
+Tannous reframes the long aftermath of Chalcedon around [[simple-believers|simple believers]]: between Cyril–Nestorius (428) and Constantinople III (680–681), Middle Eastern Christianity splintered into competing churches (Chalcedonian; [[miaphysitism|Miaphysite]]; [[church-of-the-east|Church of the East]]; later Monothelete/Dyothelete split among Chalcedonians) over natures, persons, energies, and wills — while most adherents could not fully understand the speculation. Competition for simple Christians’ loyalties fueled polemic, translations, schools (e.g. [[qenneshre]]), and sacramental discipline. The resulting social landscape — confessional indifference, shared practice across labels, elite disciplinary frustration ([[jacob-of-edessa]]) — is the Christian world Arab conquerors found. See [[post-chalcedonian-confessional-formation]].
+
+- Source: [[tannous-making-medieval-middle-east-2018]] · [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+After Theodosius II’s death, Pulcheria and Aspar elevated **Marcian** (who married Pulcheria); Chalcedon **451** reversed Ephesus decisions and asserted dual natures of Christ; Leo of Rome opposed Monophysitism; Constantinople ranked second after Rome; enforcement was a state–Rome–Constantinople coalition culminating Theodosian religious policy; Marcian discontinued Attila-era tribute, reduced taxes, and left a treasury surplus by **457**.
+
+Chalcedon redefined orthodoxy to halt Alexandrian–Antiochene dispute: one and the same Son perfect in Godhead and Manhood, consubstantial with Father as Godhead and with us as Manhood, like us apart from sin. Leo’s Tome: two natures unimpaired in one person; capable of death in one nature not the other. **Canon 28** placed Constantinople on a par with Rome as imperial cities — major East–West political rupture seed. Official two-natures doctrine permanently alienated Monophysite East; subsequent *Henotikon* and Justinianic compromises failed to heal.
+
+Source: [[mitchell-later-roman-empire-2015]] · [[monophysitism]] · [[christianization-of-the-roman-empire]]

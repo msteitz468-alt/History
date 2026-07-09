@@ -9,8 +9,8 @@ affiliated_with: [[[capetian-dynasty|the Capetian dynasty]], the papacy, the [[m
 opposed_by: [Henry III of England (until 1259), rebel barons (1240s), the Ayyubids and the Hafsids on crusade]
 key_events: [the Seventh Crusade (1248–1254), the Treaty of Paris (1259), the Treaty of Corbeil (1258), the Eighth Crusade (1270)]
 key_processes: [Capetian administrative consolidation, royal reform (the enquêtes), the sacralisation of French kingship]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, western-europe]
 ---
 
@@ -78,9 +78,18 @@ became a political asset. The rebels against Philip IV in 1314 rallied under the
 return to "the good old days of the saintly king." His reign is the high-water mark of the
 medieval ideal of the just Christian monarch.
 
+## From F. Donald Logan, *A History of the Church in the Middle Ages* (2013)
+
+Logan’s later-thirteenth-century chapter profiles Louis (d. 1270) for personal piety (daily prayer; friar’s coarse garment in private), the **Sainte-Chapelle** for the crown of thorns, an unsuccessful eastern crusade, and peace settlements with Flanders (1256), Aragon (1258), and England (1259). Dying en route east, he advised his son (Joinville):
+
+> “My dear son, the first thing I want to teach you is to move your heart to love God, for without God no one can be saved … Deal with all your subjects in justice and equity, taking particular care for the poor … Love and respect all those who serve the church.”
+
+Logan’s judgment: with St Louis died “the single most effective force for stability in Europe,” amid English baronial recovery, the German Great Interregnum, and a long papal vacancy. Canonized by [[boniface-viii|Boniface VIII]] (11 Aug 1297) during the early clash with [[philip-iv-capetian|Philip IV]].
+
 ## Related
 
 - `part_of:` the [[capetian-dynasty|Capetian]] consolidation of France.
 - `produced:` (by canonisation and example) the sacral *auctoritas* exploited by [[philip-iv-capetian|Philip IV]].
 - `part_of:` the [[crusades|crusading movement]] (Seventh and Eighth Crusades).
 - `concurrent_with:` [[henry-iii-of-england|Henry III]] (Treaty of Paris, 1259); his brother **Charles of Anjou** ([[charles-of-anjou]]).
+- [[logan-history-of-the-church-in-the-middle-ages-2013]]

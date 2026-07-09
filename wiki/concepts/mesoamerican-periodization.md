@@ -5,7 +5,7 @@ origin: Lithic/Preclassic/Classic/Postclassic stages of mid-20th-c. American arc
 applies_to_periods: [Behavioral Modernity, Mesolithic, Neolithic, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
 applies_to_regions: [mesoamerica]
 contested: yes
-sources_ingested: 1
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [concept, mesoamerica, periodization]
 ---
@@ -77,6 +77,70 @@ chronology in the prehispanic New World; trade items and style extended it acros
 Archaic–Preclassic transition traditionally ~2000–1500 B.C.; Postclassic A.D. 900 to Spanish
 Conquest (Hammond 2000).
 
+### Evans & Webster 2001 — Encyclopedia default stages
+
+The encyclopedia Introduction (Webster & Evans) uses a compact consensus skeleton that
+aligns with Adams/Hammond but with slightly different Formative bounds:
+
+| Stage | Evans & Webster (Intro) | Notes |
+|---|---|---|
+| Paleoindian | pre–end of Pleistocene; secure widespread occupation by Clovis horizon ~11,500–11,000 BP | Pre-13,500 BP claims in Middle America remain equivocal (Valsequillo, Tlapacoya, El Bosque) |
+| Archaic | **8000–2000 B.C.** | Agricultural origins; dry-cave sequences in Tehuacán, Oaxaca, Tamaulipas |
+| Formative | **2500 B.C.–A.D. 300** (alt. entry uses c. 1600 B.C.–A.D. 250) | Ranking by 1200–800 B.C.; first urban state ~500–300 B.C.; writing/calendars by Late Formative |
+| Classic | **A.D. 300–900** | Second great horizon (Teotihuacan + Classic Maya + Gulf/highland peers) |
+| Postclassic | **A.D. 900–1519** | After Teotihuacan decline (~700) and Maya center declines (700–900); Aztec expansion early 15th c. |
+| Spanish Conquest | 1521 Tenochtitlan; most of Mesoamerica within ~30 years; Itza to 1697 | Ends independent native political evolution |
+
+Maize: domesticated from **teosinte** in west-central Mexican uplands; directly dated samples
+no older than ~4,700 years, but editors judge first domestication **likely 4000–3000 B.C.**;
+wide highland/lowland spread 4000–3500 years ago; settled pottery-using agriculturalists
+common after **2000 B.C.** Source: [[evans-webster-archaeology-ancient-mexico-central-america-2001]].
+
+### Entry-level refinements (EW2001)
+
+**Classic subdivisions (Robert S. Santley):** traditionally A.D. 200 to 800–950 (earlier
+start/end in some areas); Early Classic (200–600) and Late Classic (600–950); **“Middle
+Classic”** (c. 400–600) marks wide distribution of Teotihuacan objects/imitations;
+**“Epiclassic”** follows withdrawal of Teotihuacan influence; no single center dominated all
+Mesoamerica. Complex societies developed or increased dramatically relative to Formative
+antecedents—most were states based on economic/social stratification with
+administrative-military-judicial apparatus.
+
+**Postclassic as time-block (Michael E. Smith):** “Postclassic” designates roughly A.D.
+900–1530 (fall of Classic cultures to Spanish conquest). Originally a developmental stage
+(warlike/secular vs peaceful/theocratic Classic); labels are now applied to **blocks of time,
+not stages or culture types**—earlier subjective judgments proved misleading. Redefinition led
+to defining the **Epiclassic** (c. A.D. 700–900) between the fall of Teotihuacán (c. 700) and
+Lowland Classic Maya collapse (c. 900); for Maya Lowlands this interval is the **Terminal
+Classic**.
+
+**Maya chronological scheme (David L. Webster):** Late Postclassic A.D. 1250–1500; Early
+Postclassic 1000–1250; Terminal Classic 800–1000; Late Classic 600–800; Early Classic 250–600;
+Protoclassic 100–250; Late Formative 400 B.C.–A.D. 100; Middle Formative 1000–400 B.C.; Early
+Formative 2500–1000 B.C.; Archaic before 2500 B.C. Long-count dates anchor the Classic; earlier
+periods rely on ceramics, style, stratigraphy, radiocarbon, and obsidian hydration.
+
+**Formative terminology (John E. Clark):** developmental labels originally tied “Classic” to
+civilizational climax; modern practice prefers Formative/Classic/Postclassic as chronological
+labels only. With improved dating, Mesoamericanists hope eventually to describe time in
+Western calendar terms rather than arbitrary phases. Formative dates in Clark’s entry: **1600
+B.C. to A.D. 250** (radiocarbon years)—start marks first ceramic technology and sedentary
+village life; terminal date approximates Maya emphasis on Long Count.
+
+**Sedentism marker (Gordon R. Willey):** simple sedentary agricultural villages dominant in
+many southern and central regions by at least **1500 BCE**; best evidence for first settled
+sedentary communities where subsistence farming was established by about **2000 BCE**, with
+earlier sedentism possible on shellfish/fish/game/wild-plant bases. Key crops domesticated
+~3000–3300 B.C. but widespread sedentary villages after ~2000 B.C.; by 1500 B.C. sedentary
+farming and maize staple widespread (Feinman; Reed; Gonlin & Evans).
+
+**Regional schemes:** Formative/Classic/Postclassic applied with local absolute dates (southern
+Maya Classic A.D. 250–900; Monte Albán Period I from ~500 B.C.; Michoacán Formative villages
+by Early Formative; Southwest ceramic sedentism not before A.D. 200–300)—period labels are
+conventional and do not always match settlement shifts. Civic-ceremonial monumental planning
+probably dates from the **Middle Formative**, setting patterns for urban planning carried into
+Classic regional styles (Lorraine Williams).
+
 **Protoclassic marginalized:** traits once thought Classic-first appear within Late Preclassic;
 population-replacement/elite-invasion theories lack support. Yet Early Classic c. A.D. 250 is
 still justified by the transition to historicity on hundreds of monumental inscriptions
@@ -120,4 +184,5 @@ alternative portrayals of the past (Charlton 2000). See [[altepetl]].
 [[mesoamerica-culture-area]] · [[mesoamerican-state-formation]] ·
 [[paleoindian-and-archaic-mesoamerica]] · [[mesoamerican-preclassic]] ·
 [[mesoamerican-calendar]] · [[altepetl]] ·
-[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]]
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

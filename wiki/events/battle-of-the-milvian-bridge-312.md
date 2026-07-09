@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[roman-tetrarchy]], unknown]
 consequences: [[[edict-of-milan-313]], [[christianization-of-the-roman-empire]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, late-antiquity, italy, rome]
 ---
 
@@ -65,3 +65,17 @@ road to sole power — though its religious meaning was elaborated by hindsight 
   Licinius (324); the [[christianization-of-the-roman-empire|Christianization]] of the empire
 - The [[roman-tetrarchy|tetrarchic]] collapse that produced the rivalry
 - Source: [[bowman-cah-v12-2005]] (Ch. 4, Averil Cameron)
+
+## Historiography
+
+The battle’s meaning is inseparable from later Christian narration (Lactantius; Eusebius’s *Life of Constantine*). Modern scholarship distinguishes the political victory that made Constantine master of the West from the fully elaborated conversion legend; CAH XII and the [[christianization-of-the-roman-empire|Christianization]] literature caution against reading the whole fourth-century transformation back into a single day. Gibbon’s critical dissection of dream vs celestial-cross traditions (below) is the classic Enlightenment treatment of the source problem.
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+[[actors/gibbon-edward|Gibbon]] subordinates the tactical set-piece to the political path from Maxentius’s revolt through Constantine’s conversion narrative. **Gibbon’s views** — conversion claims are **not** asserted as wiki fact.
+
+- **Political path:** Maxentius rose as “protector of the Roman freedom and dignity” against Galerius’s taxation of Italy; Severus failed; the six-emperor phase and Constantine’s Italian campaign lead to sole western mastery (Ch. XIV sequence).
+- **Dream vs celestial cross (critical dissection):** separates (1) the historical **Labarum** standard; (2) Lactantius’s pre-battle dream (policy or enthusiasm); (3) Eusebius’s sky-cross “By This Conquer,” sworn only late by the deceased Constantine — Protestants may call the vision perjury, but Gibbon allows mixed motives of interest and age of fervor: “In the account of his own conversion, Constantine attested a wilful falsehood by a solemn and deliberate perjury” (Gibbon’s verdict on the Eusebian vision, **attributed**).
+- **Labarum:** “the principal standard which displayed the triumph of the cross was styled the Labarum” — pike, transversal beam, silken veil, monogram of Christ in golden crown; fifty guards; Licinius dreaded it; later a Constantinople relic.
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/constantine-the-great]] · [[concepts/gibbonian-decline-thesis]]

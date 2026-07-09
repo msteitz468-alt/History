@@ -69,3 +69,15 @@ process between the king and the priesthoods."* See [[premodern-state]] and [[ru
 - Egyptian instance of the general [[concepts/temple-economy]] (cf. Mesopotamian temple estates)
 - [[concepts/provider-state]] · [[concepts/birth-of-economic-man]] · [[concepts/egyptian-bureaucracy]]
 - [[places/thebes]] · [[actors/new-kingdom-egypt]] · [[actors/amun-priesthood]] · [[sources/kemp-ancient-egypt-anatomy-2018]]
+
+## Cambridge Economic History of the Greco-Roman World
+
+**Manning** (Ch. 16) reinforces the bargaining/subordination picture with fuller economic
+detail: Egyptian temples retained major economic roles under the Ptolemies — land,
+livestock, and personnel endowments; centralization of information; land management; and
+grain storage — but the **syntaxis** (the lump-sum state payment to temples) may have
+partly subordinated their traditional economic role, with royal banks and granaries
+displacing some traditional temple financial functions. New Upper Egyptian temple
+construction continued regardless, largely on local financing — notably the temple of
+Horus at Edfu, begun 237 BCE. See [[processes/ptolemaic-egyptian-economy]] for the wider
+fiscal and land-tenure context.

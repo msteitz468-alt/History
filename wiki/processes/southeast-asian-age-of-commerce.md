@@ -8,8 +8,8 @@ region: [southeast-asia, indian-ocean]
 process_type: economic
 driven_by: ["[[indian-ocean-trade]]", "global demand for spices & forest products", "the bullion flows of the early-modern world economy"]
 produces: ["the rise of cosmopolitan Muslim & port-state polities (Melaka, Aceh, Banten, Makassar)", "intensified urbanisation", "a literary/cultural florescence (the '[[theatre-state|Southeast Asian Renaissance]]')", "the seventeenth-century crisis & European (VOC) dominance"]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, southeast-asia, indian-ocean]
 ---
 
@@ -95,7 +95,7 @@ The age of commerce is the maritime, early-modern phase that follows the classic
 **concurrent with** and is partly a Southeast Asian face of the global **early-modern commercial
 expansion**, the [[atlantic-world|Atlantic]] and Indian-Ocean trade systems, and the
 [[islamization-of-africa|spread of Islam]] (here, into the archipelago). Its crisis-and-closure feeds
-directly into the [[colonialism|European colonial]] order.
+directly into the European colonial order.
 
 ## A cultural florescence: the "Southeast Asian Renaissance"
 
@@ -146,7 +146,7 @@ the world down the path of reliance on maritime trade, but less far toward the a
 in private and corporate hands** — and so, lacking the VOC's combination of decentralisation and
 cohesion, its heterogeneous cities "had no chance of surviving the fierce competition of the seventeenth
 century." This retreat, on Reid's reading, set the stage for the relative impoverishment that European
-[[colonialism]] would deepen.
+colonialism would deepen.
 
 ## End conditions
 
@@ -175,3 +175,7 @@ seventeenth-century turning point. The framework remains foundational even where
 - [[great-divergence]] — longer-term implications of the different trajectories.
 - [[commercial-revolutions-compared]] — the cross-civilizational comparison of the three commercial booms.
 - [[unfree-labor-systems-compared]] — SE Asian debt-bondage set against chattel slavery, serfdom, military slavery, and the mita.
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+Light touch: [[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] end before Reid's 1450–1680 "age of commerce," but their **Late Classic (c. 1200–1400)** material prefigures commercial intensification — Chinese coin monetization of [[majapahit|Majapahit]] (by 1300 Chinese cash standard for everyday and official economy), ceramic export industries under Ming restrictions, tramp-ship peddling trade (Java Sea wreck as travelling bazaar), Islamic port coinages (Pasai gold, later Melaka tin), and high-density port enclaves (Kota Cina, Temasik). Preceded_by / enabled later age-of-commerce framing; concurrent_with [[indian-ocean-trade]] and [[southeast-asian-port-polity]].

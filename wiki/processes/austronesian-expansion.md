@@ -25,8 +25,8 @@ produces:
   - "Settlement of New Zealand ~AD 1000–1200"
   - "Oceanic branch of Austronesian language family"
   - "Lapita cultural complex"
-sources_ingested: 3
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [process, Neolithic, Behavioral Modernity, oceania, polynesia, melanesia, micronesia, southeast-asia, east-asia, demographic]
 ---
 
@@ -139,3 +139,13 @@ See also [[southern-ocean-seafaring]] for the South Polynesian dimension and [[p
 ## Fischer (2002): origins, the language family, and the Lapita complex
 
 [[fischer-history-pacific-islands-2002|Fischer (2002)]] traces the Austronesians to a Southern Mongoloid population on China's southern coast (~8,000 BP) that reached Taiwan c. 6,000 BP, where Proto-Austronesian developed before the dispersal through Island Southeast Asia (L747–769). The resulting language family — ~1,200 tongues, ~30% of the world's languages, ~270 million speakers — was "the first language family in history to be spoken in over two-thirds of the globe" (L773–782). The **Lapita** people reached New Britain/New Ireland c. 4,000 BP with a full cultural complex (dentate-stamped pottery, shell ornaments and adzes, fishhooks, stilt villages, domesticated animals, earth-oven cooking and deep-sea seafaring) (L806–825); early Lapita ware spread "from the Bismarck Archipelago … to as far as Samoa more than 4000 kilometres away" (L811–814), with Talasea obsidian carried "from Borneo to Fiji, a distance of some 7000 kilometres" (L950–952). Fischer dates the "Lapita Millennium" of intensive trade to c. 1500–500 BC (L1037–1046), and holds that Melanesian languages "first emerged" c. 4,000 BP from Austronesian traditions "which admitted a restricted Papuan contribution," with Micronesian and Polynesian emerging ~1,000 years later at the Lapita peripheries (L826–833).
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+[[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] bring Island-SEA archaeological and genetic caveats that qualify simple out-of-Taiwan narratives used in Pacific-centred accounts above.
+
+**Models.** Higham and Bellwood: Yangzi agricultural package → population pressure → migration; insular migrants = Malayo-Polynesians via Taiwan → Philippines ~5000 BP then east/west with navigation; another stream SW into mainland Seasia. Solheim II: red-slipped pottery and *lingling-o* package spread through island Seasia by **maritime trade**, not only migration. Solheim's "Nusantao" maritime trading network from SE island Seasia in the 6th millennium BCE is **not endorsed** by most scholars; *lingling-o* etc. show local workshops/localization rather than a single ethnolinguistic trader group.
+
+**Genetics and gradualism.** Authors: mtDNA shows little isolation in insular Seasia and little genetic connection with China including Taiwan Austronesians; one study places ancestral Indonesia/Philippines population on the now-submerged South China Sea shelf; mainland vs island Seasia may have been genetically separate long-term. Ban Non Wat isotopic work suggests Thai agricultural transition was gradual over centuries/millennia (like tropical America), not a sudden immigration revolution; DNA/linguistics said not to show major genetic replacement with agriculture's inception. Senoi (modern swiddeners Thailand–Malaysia border) may descend from Neolithic farmers intermarried with indigenous hunter-gatherers over ~7,000 years (strong Haplogroup F1a1a admixture). Contrasts_with simple out-of-Taiwan genetic narrative.
+
+**Interaction spheres and crop/boat exchange.** Sa Huynh peoples believed linguistically related to historic Cham (Austronesian); Sa Huynh–Kalanay ceramics and jewellery link south Vietnam and Philippines; pottery tradition also linked to Lapita. Austronesian nautical vocabulary and outriggers/sail types entered South Asia from Seasia ~500 BCE; banana phytoliths at Kot Diji (Indus, ~2000 BCE); mango/lemon ancestors and sandalwood to India by ~1400–1300 BCE; Indian legumes to Seasia by 400 BCE; Seasian banana/taro/yams to East Africa, bananas to Cameroon by 500 BCE. Enabled [[indian-ocean-trade]]; contributed_to [[southeast-asian-sea-cultures]]; part_of Austronesian interaction spheres including [[champa]] ancestors.

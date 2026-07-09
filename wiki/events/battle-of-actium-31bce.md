@@ -13,7 +13,7 @@ scale_immediate: civilizational
 scale_consequential: global
 causes: [the final breakdown of the [[second-triumvirate|triumvirate]], Octavian's propaganda war and the oath of all Italy, the declaration of war on Cleopatra (32)]
 consequences: [the end of the civil wars, Octavian's sole mastery of the Roman world, the fall of Ptolemaic Egypt, the foundation of the Principate]
-sources_ingested: 2
+sources_ingested: 6
 last_updated: 2026-07-08
 tags: [event, classical-antiquity, balkans, battle, rome]
 ---
@@ -80,6 +80,8 @@ propaganda**, which inflated a near-bloodless break-out into an epic triumph ove
 "eastern menace." Pelling reconstructs the campaign as decided in its first weeks by
 Agrippa, not in the battle itself.
 
+**OHCW multi-chapter hinge (Stockton; Lyne; Griffin; Ling; Russell; Matthews).** Stockton: triumvirate not renewed end of 33; Octavian as champion of ordered West; Antony outmanoeuvred by Agrippa at sea (Sept. 31); suicides summer 30 end two decades of civil war. Ling’s Hellenistic art period is dated 323–31 — Actium as chronological end. Lyne: Horace associates Actium with Gigantomachy; Propertius’ Callimachean Actium aetiology under pressure. Griffin: Actium awkward as epic theme (little fighting, Cleopatra’s flight); Virgil places it as central tableau on Aeneas’ shield, not a narrative. Russell: Dionysius of Halicarnassus arrived in Rome soon after Actium and framed rhetorical revival via Roman governing-class taste. Matthews: Eusebius later saw Augustus’ defeat of Cleopatra as the providential peak of Roman power for Christian expansion. Source: [[boardman-oxford-history-classical-world-1986]].
+
 ## Beard (SPQR, 2015)
 
 Mary Beard argues Actium was, in reality, a comparatively low-key and
@@ -94,10 +96,39 @@ exoticizing and exaggerating the "oriental" decadence of her court — "the luxu
 of Cleopatra's court was wildly exaggerated" — so the conflict could be framed as
 Rome versus the East rather than Roman versus Roman. See [[sources/beard-spqr-2015]].
 
+## CHGRW contribution
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] (Gilliver, II.4)
+supplies a concise **tactical** note rather than a full campaign rewrite. At Actium Antony,
+greatly outnumbered and at risk of being outflanked, used terrain — deploying as close inshore
+as he could, with wings protected by shallow waters Octavian’s ships could not enter. Both
+Antony and Agrippa commanded from flagships in the middle of battle; Agrippa used smaller
+auxiliary craft to relay orders, analogous to cavalry messengers on land. Preferred Roman naval
+tactics played to numbers and heavily armed infantry (boarding), with sturdier ships built for
+that reason rather than because Romans made poor sailors. Rankov (II.2) places Actium as the
+force-structure hinge for the standing army: Octavian disbanded roughly half of ~60 legions
+afterward (see [[roman-imperial-army]]).
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+“Conflict came to a stop at the battle of Actium in 31 bc, with the defeat of Mark Antony and Cleopatra by Caesar’s heir Octavian, later rebranded as Augustus in a conscious attempt to make civil war (and with it aristocratic liberty and the power of the people) history.” Conventional beginning of early empire / Principate; after Actium “security always trumped glory.” Civil-war path: Pharsalus–Philippi–Actium as sleepwalk into military autocracy that “worked.”
+
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) notes that some
+periodizations extend “the Republic” to Actium (31) or even 27; on her map Actium falls
+in the short transition **33–28** after the second triumvirate (43–33) and before the
+principate of January 27 ([[roman-republics-periodization]]; [[fall-of-roman-republic]]).
+Appendix synchronism: Roman conquest of Egypt after Actium marks the conventional end of
+the Hellenistic Age — many modern historians place the end of a single long “Republic”
+at essentially the same time. Light periodization cross-link only.
+
 ## Related
 
 - Victor: Octavian / [[augustus|Augustus]] · Agrippa · defeated: [[mark-antony]] ·
   [[ptolemaic-egypt|Cleopatra VII]]
 - Climax of: [[second-triumvirate]]; leads to:
   [[death-of-antony-and-cleopatra-30bce|Alexandria 30]] and the Principate
-- Source: [[bowman-cah-v10-1996]] (Ch. 1, Pelling)
+- Source: [[bowman-cah-v10-1996]] (Ch. 1, Pelling); [[boardman-oxford-history-classical-world-1986]] (Stockton; Lyne; Griffin; Ling; Russell; Matthews); [[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] (Gilliver II.4; Rankov II.2); [[flower-roman-republics-2010]]

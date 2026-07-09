@@ -13,7 +13,7 @@ scale_immediate: civilizational
 scale_consequential: regional
 causes: [Sulla's victory in the [[sullan-civil-war-83-82bce|civil war]], the demand to regularize and reward the killings, the confiscation of enemy wealth and land]
 consequences: [the death of c. 40+ senators and c. 1,600 equites, mass confiscation and redistribution of property, the disgrace of the proscribed line for two generations, the enrichment of the Sullani, lasting political trauma]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [event, classical-antiquity, italy, political, rome]
 ---
@@ -77,6 +77,21 @@ murders" — citing Catiline's insertion of personal enemies onto the lists as a
 example of the system being exploited for private profit and vendetta beyond any
 single man's direction.
 
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) treats the
+proscriptions as **constitutive of Sulla’s New Republic**, not a side-effect of
+restoration ([[sullan-constitution]]; [[roman-republics-periodization]]). Sulla aimed to
+establish a system “marked by and built upon the most brutal political violence Rome had
+ever seen”: lists of thousands, heads advertised at the Forum rostra, ethnic cleansing of
+Samnites as unfinished Social War business, and violent property transfer across Italy
+between dispossessed and beneficiaries — psychological trauma and discontinuity with
+ancestral republican traditions. Civic disabilities on relatives of the proscribed lasted
+until **Julius Caesar as dictator** removed them; land allocations were hard to undo;
+unrest and lawlessness persisted in Italy for a generation. Flower rejects reading the
+coup and reforms as “no more than a brutal interlude in republican government.” See
+[[fall-of-roman-republic]] · [[sullan-civil-war-83-82bce]].
+
 ## Related
 
 - By: [[sulla]] · product of: [[sullan-civil-war-83-82bce]] · enabled:
@@ -84,4 +99,5 @@ single man's direction.
 - Echoes: [[senatus-consultum-ultimum]] (death without trial) · the [[mos-maiorum|collapse
   of ancestral restraint]] · the Marian terror of 87 (see [[cornelius-cinna]]) · later the
   Triumviral proscriptions (43)
-- Source: [[crook-cah-v9-1992]] (Ch. 6, Seager) · [[duncan-storm-before-the-storm-2017]]
+- Source: [[crook-cah-v9-1992]] (Ch. 6, Seager) · [[duncan-storm-before-the-storm-2017]] ·
+  [[flower-roman-republics-2010]]

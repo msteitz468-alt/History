@@ -9,8 +9,8 @@ affiliated_with: [the Greek city-states (Athens, Sparta, Corinth, Thebes)]
 opposed_by: [[[achaemenid-empire|Achaemenid Persia]], internal rivals, [[macedon]]]
 key_events: [Greek colonization, Greco-Persian Wars 490/480-479 BCE, [[peloponnesian-war|Peloponnesian War]] 431-404 BCE]
 key_processes: [[[city-state]], colonization, [[axial-age]], [[ancient-science-and-technology|natural philosophy]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, state, archaic-period, classical-antiquity, mediterranean]
 ---
 
@@ -108,6 +108,19 @@ The polis world produced the first European democracy, the foundations of Wester
 philosophy, science, and historiography, and — through its self-destructive disunity —
 a standing lesson in the fragility of fragmented state systems. Its culture was carried
 across Afro-Eurasia by the [[hellenistic-world|Hellenistic]] kingdoms.
+
+## The oikos/ergasterion non-distinction (Cambridge Economic History of the Greco-Roman World)
+
+[[sources/scheidel-cambridge-economic-history-greco-roman-world-2007|Scheidel, Morris &
+Saller (eds.), *The Cambridge Economic History of the Greco-Roman World*]] (2007), John K.
+Davies's chapter on production, notes that no classical Greek polis (except in myth, or
+Sparta's "Great Rhetra") formally distinguished the household (*oikos*) from the business
+enterprise (*ergasterion*) in most economic sectors — the one exception being silver-mine
+labor. Horizontal occupational specialization was extensive: Harris (2002) counted roughly
+**170 named occupations** at classical Athens. But vertical or managerial specialization
+remained minimal — production units stayed small and personally supervised rather than
+organized into hierarchical firms. See [[processes/classical-greek-economy]] for the
+fuller treatment of classical production, distribution, and consumption.
 
 ## Historiography
 

@@ -15,8 +15,8 @@ produces:
   - millet-system communal organization
   - Köprülü reform attempts
   - ottoman-decay-17th-century
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, Early Modern, Late Middle Ages, ottoman, anatolia, balkans, near-east]
 ---
 
@@ -107,3 +107,7 @@ Hodgson distinguishes the Ottoman synthesis sharply from both the Safavid (revol
 His primary institutional reference is Gibb and Bowen's *Islamic Society and the West* (1950/1957), which he acknowledges as invaluable but criticizes for: (a) over-identifying Islamicate culture with Arabic culture; (b) conflating the interests of the central absolutism with those of Ottoman society as a whole; (c) taking conditions near Istanbul and in Syria/Egypt as representative of the empire. Hodgson's own analysis consciously corrects for these biases by emphasizing the Irano-Semitic and Mongol-Timurid background and the distinction between the absolutism's fate and the empire's social vigor.
 
 The collection [[hodgson-venture-of-islam-v3-1974]] covers this period in depth. The Ottoman backbone sources (Imber, Finkel, Kinross, Mikhail) in the wiki provide complementary institutional and narrative coverage.
+
+## From Cobb, *The Race for Paradise* (2014)
+
+[[cobb-race-for-paradise-2014|Cobb]] does not invent a separate institutional sociology of the classical system, but frames the **early Ottoman trajectory as institutional metamorphosis** that *produced* the conditions for classical imperial form: nomadic *ghazi* tribal confederation → sedentary, two-front empire with Janissaries, annexation-vs-vassalage choices, capital shift (Bursa → Edirne → Istanbul), and multi-confessional cosmopolis. The capture and repopulation of [[constantinople|Constantinople]]/Istanbul after **1453**—Hagia Sophia as mosque, first Friday prayers invoking Mehmed, adornment with palaces/mosques/madrasas, and by **1500** Europe’s largest city—is for Cobb “the final ingredient needed to realize Osman’s dream and transform the Ottoman house from a confederation of rough ghazi warriors into a fully fledged world empire.” That metamorphosis is the narrative bridge into the classical Sharīʿah-military synthesis treated above by Hodgson.

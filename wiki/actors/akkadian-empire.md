@@ -9,8 +9,8 @@ affiliated_with: []
 opposed_by: [[[early-dynastic-sumer|the Sumerian cities]], Elam, Lullubi, [[gutian-invasion|Gutians]], Amorites]
 key_events: [[[gutian-invasion|fall of Akkad]]]
 key_processes: [[[state-formation]], [[imperialism]], [[trade-network-formation]], [[writing-and-record-keeping]]]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, empire, early-bronze-age, mesopotamia]
 ---
 
@@ -120,6 +120,13 @@ See [[ancient-near-eastern-modes-of-production]].
 
 ## Historiography
 
+Charles Freeman ([[freeman-egypt-greece-rome-2014|*Egypt, Greece, and Rome*]], 2014)
+frames this textual/archaeological gap as historiographically significant in its own
+right: "the extent of surviving written texts for the Akkadian empire marks an
+important moment in history, when a civilization is known more fully through its
+texts than its archaeology" — the site of Agade itself remains unidentified despite
+abundant cuneiform records.
+
 The Sargonic kings are "vast but dim": their own inscriptions survive mostly as
 **later copies made at Nippur**, and most of what is "known" comes through
 **omen-literature and didactic legend** (the birth-legend of Sargon set adrift in
@@ -138,3 +145,4 @@ contemporary inscriptional core from this tradition. Dates follow the
 - Event: [[gutian-invasion]] · Process: [[imperialism]] · [[trade-network-formation]] · [[writing-and-record-keeping]]
 - Place: [[ur]] · [[lagash]] · [[mari]] · [[uruk]] · Period: [[early-bronze-age]]
 - Analogous to: [[old-kingdom-egypt]] (contemporary "golden age") · the Harappan Indus (Meluhha)
+- Source: [[freeman-egypt-greece-rome-2014|Freeman (2014)]]

@@ -9,7 +9,7 @@ affiliated_with: [the Senate (optimate sympathies); the *novi homines*; the eque
 opposed_by: [Catiline, Clodius, Mark Antony; the *populares* dynasts (ambivalently)]
 key_events: [the prosecution of Verres (70), the consulship of 63, the [[catilinarian-conspiracy-63bce]], exile and recall (58–57), the Philippics against Antony (44–43), proscription and death (43)]
 key_processes: [[[optimates-populares]], the collapse of the Republic]
-sources_ingested: 4
+sources_ingested: 7
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy]
 ---
@@ -113,6 +113,69 @@ she argues, that ancient authors already recognized how fluid "facts and their
 interpretations" were in this history, and a formula she traces into twenty-first-
 century political rhetoric. See [[sources/beard-spqr-2015]].
 
+### Freeman on Sallust's Catiline and Cicero's death
+
+Charles Freeman ([[freeman-egypt-greece-rome-2014]]) sources the Catiline conspiracy
+narrative explicitly to **Sallust**'s *Conspiracy of Catiline* — one of the earliest
+Roman historical monographs and a Latin-curriculum staple — noting Catiline's platform
+included the abolition of all debts, which appealed to indebted nobles and dispossessed
+farmers alike. On Cicero's death (43 BCE), Freeman adds the specific detail (via Plutarch)
+that his head and the hands that had written the *Philippics* were nailed to the rostra
+alongside his head — an explicit act of political-symbolic mutilation by the Second
+Triumvirate.
+
+### OHCW (Boardman/Griffin/Murray 1986) — Miriam Griffin (Ch. 19) & Nisbet (R7)
+
+Griffin makes Cicero **indispensable and distorting** for Sulla’s dictatorship through
+Caesar’s: speeches, letters (>900), and theoretical works dominate; without Caesar,
+Varro, and legal inscriptions one might almost think late-Republican life a Ciceronian
+creation; Sallust’s *Catiline* cannot escape Cicero’s interpretation yet exposes its
+social-economic omissions. Cultural achievement: dominance of forensic oratory;
+philosophical corpus translating Greek systems into Latin (*qualitas*, *moralis*,
+*beatitudo*, etc.); New Academy scepticism preferred, Stoic ethics selective.
+Politics: Arpinum equestrian stock; backed Pompey (Verrines 70; Manilian law 66);
+*concordia ordinum* of senators and equites against revolution; as consul (63) claimed
+to be a *popularis* safeguarding true popular interest while opposing poor-relief
+bills; later parted from Cato when Cato threatened equestrian jurors and Asian
+*publicani* — Cato “as if he were living in Plato’s Republic and not in the cesspool of
+Romulus.” On the Rubicon, Cicero lamented both Pompey and Caesar aimed only at
+*dominatio*.
+
+Nisbet (Ch. 20): Cicero’s early-54 letter to Quintus praises Lucretius’ *De rerum
+natura*; anti-Antony strategy using Octavian failed and his head was among the
+earliest of the Second Triumvirate proscriptions (~300 senators, 2,000 knights).
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Ch. 19 Griffin; Ch. 20 Nisbet /
+Stockton).
+
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) treats Cicero as
+both indispensable witness and **problematic guide** to earlier republics. Periodization
+has elevated him as chief witness to “the Republic,” though by the 60s the *nobiles*
+republics he is taken to represent were already gone (watershed of the 80s —
+[[roman-republics-periodization]]; [[sullan-constitution]]). His views cannot be taken
+as representative of a majority of senators or of the aristocratic inner circle. Career
+timing coincides with Sullan reforms at his debut (~age 25 in 81); Flower flags the
+counterfactual of a career without that constitution.
+
+On substance: Ciceronian **regret** for lost republican culture was not matched by
+practical legislation or actions to re-create older republican behaviors. Flower’s
+critique of the Catilinarian handling is sharp: emergency execution without trial
+introduced the death penalty in a “completely unrepublican way,” revealed lack of
+confidence in the Sullan court system the New Republic was supposed to rest on, and made
+*salus rei publicae suprema lex* a hollow slogan portending the end of constitutional
+government. The consulship of 63 contributed to insecurity and partisanship; last
+republican vestiges disintegrated into the Big Three pact thereafter. Flower takes
+seriously Cicero’s own sense of a lost republic in the correspondence of 60–59
+(*amissa re publica*; *tota periit* — Att. 1.18.6; 2.21), paired with Asinius Pollio’s
+later choice to start a history with year 60, as ancient support for functional end ~60
+([[fall-of-roman-republic]]). He is also cited as ancient watershed testimony that
+Tiberius Gracchus’s death (and the tenor of his tribunate) divided one people into two
+(*Rep.* 1.19.31), and for the SCU formula used of Opimius (*Cat.* 1.2.4). Political
+theory came very late (*De republica* 54–51; *De legibus* ~52; more philosophy in the
+40s).
+
 ## Related
 
 - Crisis: [[catilinarian-conspiracy-63bce]] · rival: [[catiline|Catiline]]
@@ -124,4 +187,5 @@ century political rhetoric. See [[sources/beard-spqr-2015]].
   **[[cicero-republic-and-laws|*The Republic and The Laws*]]** (political philosophy — the
   [[mixed-constitution|mixed constitution]] and [[natural-law|natural law]]) and
   **[[cicero-political-speeches|*Political Speeches*]]** (the Verrines, the Catilinarians, *Pro
-  Marcello*, *Philippic II*).
+  Marcello*, *Philippic II*); [[boardman-oxford-history-classical-world-1986]] ·
+  [[flower-roman-republics-2010]] · [[freeman-egypt-greece-rome-2014|Freeman, *Egypt, Greece, and Rome* (2014)]]

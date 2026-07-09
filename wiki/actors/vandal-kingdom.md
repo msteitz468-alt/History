@@ -9,8 +9,8 @@ affiliated_with: [the Hasding Vandals, Arian Christianity, the Alans]
 opposed_by: [the western and eastern Roman empires, the Catholic African church, the Berbers (Moors)]
 key_events: [the crossing into Africa (429), the capture of Carthage (439), the sack of Rome (455), the destruction of the kingdom in the Vandalic War (533–534)]
 key_processes: [the formation of the barbarian successor kingdoms, the Arian persecution of African Catholics]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, state, late-antiquity, north-africa]
 ---
 
@@ -90,3 +90,27 @@ Africa** a province of the eastern empire until the Arab conquest of the late se
   **[[augustine-of-hippo|Augustine]]** on 28 August 430; within a generation a Vandal's Suebian
   wife was buried in Augustine's own basilica.
 - Source: [[cameron-cah-v14-2000]] (Ch. 5, Ian Wood)
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]] (Chs. XXXIII–XXXVI, XLI); Gibbon’s narrative of Genseric and the Justinianic reconquest.
+
+- **Genseric.** On Gonderic’s death the Vandals acquired “a name, which, in the destruction of the Roman empire, has deserved an equal rank with the names of Alaric and Attila.”
+- **Numbers.** ~50,000 effective men into Africa; Genseric’s eighty chiliarchs inflated prestige; dependents scarcely 80,000; Moors and Donatists soon fortified him.
+- **Boniface.** Aetius’s intrigue framed Boniface as rebel; Boniface invited the Vandals; fraud detected too late—“the loss of a second battle irretrievably decided the fate of Africa.”
+- **Carthage (439).** “Carthage was at length surprised by the Vandals, five hundred and eighty-five years after the destruction of the city and republic by the younger Scipio”; Africa the “common granary of Rome.”
+- **Navy.** Atlas timber and African skill; “after an interval of six centuries, the fleets that issued from the port of Carthage again claimed the empire of the Mediterranean.”
+- **Sack of Rome (455).** Fourteen days’ pillage; Leo’s mediation imperfectly kept; Imperial ornaments, temple bronze, Jewish Temple spoils carried to Carthage; Eudoxia and daughters captives.
+- **Failed reconquests.** Majorian’s fleet ruined by treachery in the Bay of Carthagena; Leo’s expedition (~130,000 pounds of gold, 1,113 ships, 100,000+ men) destroyed after Basiliscus’s five-day truce and Vandal fire-ships.
+- **Luxury and fall (Belisarius).** “In three generations, prosperity and a warm climate had dissolved the hardy virtue of the Vandals, who insensibly became the most luxurious of mankind”; Hilderic–Gelimer crisis as casus belli; Ad Decimum, joyful opening of Carthage, Tricameron, Gelimer’s Galatian estate (Arian barred from senatorial dignity).
+- **Catholic restoration.** Justinian abolished Vandal Arian/Donatist regimes; restored Catholic wealth; five dukes and prætorian prefect; “Exarch” title; victory news while preparing the Pandects.
+
+## From Mitchell, Later Roman Empire (2015)
+
+**Conquest and leverage (429–442).** After 428 capture of Hispalis and Cartagena, Vandals crossed to Africa 429; Gaiseric organized ~80 contingents of a thousand (fighting strength ~20,000; total including dependents often cited ~80,000 for shipping). Unity was “forged in the long years of campaigning and migration.” Hippo fell after more than a year (July 431); treaty 435 ceded Mauretania and western Numidia; **Carthage fell 439** — giving Vandals “greater leverage over the western Roman Empire than any other barbarian group.” Treaty 442 recognized Vandal Proconsularis and Byzacena, returning Numidia/Mauretania to Rome. Fall of Carthage forced both courts to defend Italy and Constantinople against Vandal sea power and the economic stranglehold on grain and tax revenues.
+
+**Sack of Rome 455 and the 468 armada.** After Valentinian III’s murder, Vandals plundered Rome fourteen days — “far greater losses than Alaric’s Goths had in 410” (Procopius). Gaiseric reigned 428–477 with Carthage as lasting urban capital. In 468 “low cunning, good luck, and… fire ships” destroyed the joint Leo–Anthemius fleet of 1,100 ships — “not only a military but an economic catastrophe,” costing more than 64,000 lb gold and 700,000 lb silver.
+
+**Post-reconquest instability (after 533).** Lightning Vandal campaigns gave way to prolonged warfare with Moors/Berbers; more stringent imperial taxation provoked urban resistance; 536–39 rebellions under Stotzas and Maximus; many barbarian Roman troops shared Arian Christianity, married Vandal women, claimed landholdings. Germanus and Solomon restored order with difficulty; Mauretania largely Moorish except coastal Caesarea.
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell, *A History of the Later Roman Empire* (2015)]].

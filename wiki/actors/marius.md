@@ -9,7 +9,7 @@ affiliated_with: [[[roman-republic]]; the equites/businessmen; the tribune Satur
 opposed_by: [Metellus Numidicus and the nobility; later Sulla]
 key_events: [[[jugurthine-war-112-105bce]], [[cimbric-war-113-101bce|the defeat of the Cimbri and Teutones]] (102–101), seven consulships]
 key_processes: [[[marian-army-reforms]], [[optimates-populares]]]
-sources_ingested: 4
+sources_ingested: 6
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]
 ---
@@ -80,6 +80,44 @@ Sulla, and of Rutilius Rufus and Posidonius; **Sallust's *Jugurtha*** is the ful
 source for his rise, **Plutarch's *Life*** for the German wars. See
 [[marian-army-reforms]], [[optimates-populares]].
 
+### OHCW (Boardman/Griffin/Murray 1986) — Crawford & Griffin
+
+Crawford (Ch. 16): Arpinum, later birthplace of Marius and Cicero, exemplifies
+citizenship without the vote becoming full integration; Saturninus with Marius (103,
+100) linked tribune and general for veterans’ land — “fraught with danger for the
+future.” Griffin (Ch. 19) places Marius among rising success standards (with Sulla,
+Pompey, Caesar) that made the Republic incompatible with one-man ascendancy; Caesar
+cultivated Marian memory as *popularis* identity.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Chs. 16, 19).
+
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) gives Marius heavy
+weight in the destruction of traditional *nobiles* republican culture
+([[roman-republics-periodization]]). His **seven consulships** (six by the end of 100)
+appear as a decisive rift: successive consulships 104–100, sometimes *in absentia*, broke
+collegiality, annuity, and shared *nobiles* rewards without reviving a Hannibalic-style
+dictatorship after Arausio (105). Flower insists the **recruitment reform of 107**
+(landless volunteers vs Jugurtha) was a peaceful, regular consular measure — logical
+culmination of lowered wealth thresholds — yet it broke the identity of voters with
+soldiers in the *comitia centuriata*; veterans looked to commanders for discharge
+benefits. Within less than ten years, landless recruits were fighting in Rome’s streets
+and intimidating voters.
+
+**Year 100** is Flower’s watershed of multi-form urban violence: first firm evidence for
+organized armed “gangs”; weapons ban inside the city no longer observed; assassination
+(C. Memmius) and exile as weapons; Saturninus and Glaucia packing offices by illegal
+methods. Marius, consul for the sixth time and expert in guerrilla warfare, **could not
+control** it: after capturing Saturninus’s group on the Capitol he failed to protect them
+(lynched in the senate house despite a promise of due process). Retirement in the 90s
+marks failure as an urban leader despite Vercellae divine honors (evening libations as
+savior). Flower’s causal parallel for 88: Metellus had accepted popular stripping of the
+Numidian command without resistance; when Marius tried the same transfer of the
+Mithridatic command ~20 years later, **Sulla marched on Rome**. Client armies and
+nontraditional careers threatened *nobiles* leadership; the Social War then created the
+particular army willing to march on the city. See [[fall-of-roman-republic]].
+
 ## Related
 
 - Wars: [[jugurthine-war-112-105bce]] · the Cimbri & Teutones · process:
@@ -87,4 +125,5 @@ source for his rise, **Plutarch's *Life*** for the German wars. See
 - Allies/enemies: [[saturninus]] · Metellus Numidicus · [[cornelius-cinna|Cinna]]
   (his partner in the terror of 87) · later [[optimates-populares|the optimate
   reaction]] · concept: [[senatus-consultum-ultimum]] · [[mos-maiorum]]
-- Source: [[crook-cah-v9-1992]] (Chs 2–3, Lintott) · [[duncan-storm-before-the-storm-2017]]
+- Source: [[crook-cah-v9-1992]] (Chs 2–3, Lintott) · [[duncan-storm-before-the-storm-2017]] ·
+  [[boardman-oxford-history-classical-world-1986]] · [[flower-roman-republics-2010]]

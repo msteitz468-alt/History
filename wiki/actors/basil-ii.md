@@ -9,8 +9,8 @@ affiliated_with: [the [[macedonian-dynasty|Macedonian dynasty]], [[byzantine-emp
 opposed_by: [Bardas Skleros and Bardas Phokas (rebel generals), Samuel of [[first-bulgarian-empire|Bulgaria]], the Fatimids]
 key_events: [[[conquest-of-bulgaria-1018]], the alliance with Vladimir of Rus′ (988)]
 key_processes: [the Byzantine reconquest, the curbing of the military aristocracy]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, balkans, anatolia]
 ---
 
@@ -30,8 +30,15 @@ Basil's defining achievement was the destruction of the **[[first-bulgarian-empi
 
 By Basil's death in 1025 the empire stretched from southern Italy and the Danube to Syria and Armenia (whose annexation he negotiated), with a full treasury and a professional army. He died planning a reconquest of Arab **Sicily**. NCMH III stresses, however, that his settlement was fragile: his suppression of the military aristocracy and his personal, heirless style left no durable institutional framework, and the empire unravelled rapidly under his weak successors — the road to **Manzikert (1071)** and the eleventh-century crisis.
 
+## From Gibbon, *Decline and Fall* (Ch. LIII)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]]; not asserted as modern fact.
+
+- **Macedonian peak.** With Nicephorus and Tzimiskes, Basil II is among the restorers who enlarged the empire’s boundaries: “the kingdom of Bulgaria was destroyed; and the last sovereigns of the Macedonian dynasty extended their sway from the sources of the Tigris to the neighborhood of Rome” — the height before the eleventh-century reverse that culminates at [[battle-of-manzikert-1071|Manzikert]].
+
 ## Related
 
 - `part_of:` the [[macedonian-dynasty|Macedonian dynasty]] and [[byzantine-empire|Byzantium]].
 - `produced:` the [[conquest-of-bulgaria-1018|annexation of Bulgaria]]; `affiliated_with:` [[kievan-rus|Vladimir's Rus′]] (the Varangian alliance and the [[conversion-of-vladimir-988|conversion of 988]]).
 - `opposed_by:` the *dynatoi* military houses and Samuel of Bulgaria.
+- [[sources/gibbon-decline-and-fall-1776]]

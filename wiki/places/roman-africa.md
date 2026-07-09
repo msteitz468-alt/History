@@ -7,7 +7,7 @@ period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: [Rome, under Augustus and the Julio-Claudians; the client kings Juba II and Ptolemy; Vandals; Byzantine reconquest; Umayyad/Abbasid Ifrīqiya]
 events_here: [the founding of Roman Carthage, the revolt of Tacfarinas (AD 17–24), the annexation of Mauretania (AD 40–44), Vandal conquest of Carthage 439, Belisarius reconquest 534, Arab conquest 647–98]
 processes_here: [the militarization of the African frontier, the cadastration and taxation of the land, the conflict of desert and sown, post-roman-transformation-of-the-west]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [place, north-africa, classical-antiquity, late-antiquity, early-middle-ages, rome]
 ---
@@ -159,4 +159,12 @@ into a taxed, centuriated, garrisoned Roman province.
 - High-Empire frontier as zone: [[roman-frontiers]]; African senators feeding the
   [[high-imperial-senatorial-order|Senate]] (Fronto, the Septimii)
 - Early medieval: [[rome]] · [[italy]] · [[roman-syria]] · [[umayyad-caliphate]]
-- Sources: [[bowman-cah-v10-1996]] (Ch. 13, Whittaker) · [[bowman-cah-v11-2000]] (Ch. 16, Brent Shaw) · [[wickham-framing-the-early-middle-ages-2005]]
+- Sources: [[bowman-cah-v10-1996]] (Ch. 13, Whittaker) · [[bowman-cah-v11-2000]] (Ch. 16, Brent Shaw) · [[wickham-framing-the-early-middle-ages-2005]] · [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+**Pre-Vandal “economic superpower.”** Proconsular/Byzacena cereals (early empire: 2/3 harvest said exported to Rome); massive oil expansion Numidia/Byzacena/Tripolitania; African red-slip monopolized western Mediterranean fine-ware markets; oil amphoras from late 2nd–3rd c. Success rested on *lex Manciana*/*Hadriana* lease terms (still in force end of fifth c.), *annona* logistics (roads, harbors, ships) carrying secondary cargoes, and near-total shielding from warfare. Mitchell rejects using either Victor of Vita’s golden-age rhetoric or tax complaints as simple prosperity indices.
+
+**Vandal continuity vs Justinianic damage.** Vandal conquest transformed politics/religion more than the regional economy: Vandals “stepped into the shoes of the Roman authorities… including the tax system”; archaeological export evidence continues; little Roman bronze circulated — Vandals minted/re-circulated coin; some export redirection west toward Visigothic Spain/southern Gaul; Rome now bought grain formerly received as tax and turned more to Sicily. By contrast Justinianic reconquest damaged the local economy chiefly via high taxation and occupation; fortification programs were military (smaller circuits; Solomon’s 24 building inscriptions). “Post-Roman Africa appears to owe less to its classical antecedents than any other part of the ancient world where city life had flourished,” though Christianity among Berbers persisted long after Arab conquest.
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell, *A History of the Later Roman Empire* (2015)]].

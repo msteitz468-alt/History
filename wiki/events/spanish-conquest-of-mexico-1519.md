@@ -14,7 +14,7 @@ scale_immediate: civilizational
 scale_consequential: hemispheric
 causes: ["Iberian overseas expansion (the [[columbian-exchange-1492|Columbian Exchange]])", "indigenous disunity — Tlaxcalan & other allies against the Mexica", "the [[virgin-soil-epidemics|smallpox]] pandemic of 1520"]
 consequences: ["the fall of the [[aztec-empire|Aztec empire]] & founding of New Spain", "the [[virgin-soil-epidemics|demographic collapse]] of central Mexico", "the beginning of Spanish colonial Latin America", "a foundational trauma & mestizo identity"]
-sources_ingested: 6
+sources_ingested: 7
 last_updated: 2026-07-08
 tags: [event, transition, late-middle-ages, mesoamerica]
 ---
@@ -154,6 +154,16 @@ points for the conquest's indigenous structural setting:
   availability of resentful tributaries and encircled enemies as Spanish allies. See
   [[triple-alliance-formation-1428]] and [[aztec-empire]] for the 1428–1519 expansion structure.
 
+## Evans & Webster 2001 (Gasco; Ortiz de Montellano; Sabloff)
+
+Janine Gasco’s Colonial Period entry and disease/contact notes in [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]] restate the operational endpoints encyclopedia-style:
+
+- Colonial period begins with the fall of the Aztec capital [[tenochtitlan|Tenochtitlán]] and the surrender of the last Aztec ruler **Cuauhtemoc** to Spanish forces led by Hernán Cortés and **Tlaxcalan** Indian allies (Gasco).
+- Cortés landed at **Cozumel** in **1519** (Sabloff context).
+- **Smallpox** epidemic of **1520** (*hueyzahuatl*) began through an infected African brought by Pánfilo de Narváez during Cortés’s campaign; decimated Aztec defenders, killed *tlatoani* **Cuitlahuac**, and contributed greatly to the fall of Tenochtitlan; first-exposure mortality estimates **80–95%**; spread to Guatemala before the **1523** Spanish arrival there (Ortiz de Montellano). Bernal Díaz del Castillo’s *True History* is treated as the premier eyewitness Contact ethnohistory (encyclopedia cross-ref).
+
+These points corroborate the Crosby/Díaz/León-Portilla narrative already on this page without revising its causal hierarchy (indigenous alliance + epidemic + Spanish force).
+
 ## Related
 
 [[aztec-empire]] · [[tenochtitlan]] · [[triple-alliance-formation-1428]] · [[altepetl]] ·
@@ -161,4 +171,5 @@ points for the conquest's indigenous structural setting:
 [[leon-portilla-broken-spears]] · [[diaz-conquest-of-new-spain]] · [[spanish-conquest-of-peru-1532]] ·
 [[colonial-latin-america]] · [[colonial-mesoamerica-native-peoples]] · [[las-casas-bartolome]] ·
 [[black-legend]] · [[cambridge-history-native-peoples-americas-v2-1]] ·
-[[cambridge-history-native-peoples-americas-v2-2]]
+[[cambridge-history-native-peoples-americas-v2-2]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

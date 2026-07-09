@@ -27,8 +27,8 @@ produces:
   - "Melaka as premier trade entrepôt (15th c.) and model for harbour-polity governance"
   - "Makassar as early modern imperial naval power resisting VOC encroachment"
   - "Sama and orang laut as specialist sea-people embedded in land-based polity hierarchies"
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, early-middle-ages, high-middle-ages, late-middle-ages, early-modern, southeast-asia, indian-ocean]
 ---
 
@@ -115,3 +115,11 @@ Key debates include: whether Champa was a unitary kingdom or a federation of sep
 Linguistic evidence (Austronesian dispersal), archaeology (Sa Huynh-Kalanay sphere, nephrite distribution, sewn-plank boats, Palembang tidal settlements), and indigenous epigraphy (Śrīvijayan Old Malay inscriptions from the 680s) provide the core primary evidence. Chinese sources (Zhao Rugua, Ma Huan, dynastic records) are valuable but reflect the perspective of a foreign observer/tributary power. Portuguese sources from the early 16th century (Tomé Pires, Antonio de Paiva) are the first extensive European accounts.
 
 **Collection coverage note:** Sub-Saharan Africa and Southeast Asia are listed as gaps in the collection; this chapter partially closes the Southeast Asian sea-cultures gap for the 7th–17th c. period. The CHSEA Vol. 1 (already ingested) provides complementary polity-level coverage for the early modern period.
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+[[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] deepen the **prehistoric and shipwreck** layers beneath Gaynor/Manguin's early-modern sea-culture synthesis.
+
+**Deep maritime capacity.** AMH reach to Australia ~45,000 years ago required boats for >10 people and multi-day supplies (Timor or Sulawesi–Halmahera routes); DNA implies repeated migration of hundreds. Despite scarce archaeological boats, Indonesians are estimated to have developed elaborate sailing and invented the outrigger ~1000–500 BCE (Preclassic). Bukit Tengkorak (Sabah) yielded five pieces of Talasea (New Britain) obsidian — Preclassic Malayo-Polynesian long-range contact into the western Pacific. Authors: Seasian sailors among the most skilled in the ancient world — sailed to East Africa, settled Madagascar; likely more Seasians learning skills in India than South Asians coming to Seasia. Appropriation framing: Seasians appropriated South Asian intellectual property and East Asian metallurgy for their own reasons via long-distance boats and social collaboration — not "contagion." Contributed_to [[indianization-of-southeast-asia]] as appropriation; enabled [[indian-ocean-trade]].
+
+**Late Classic wreck archaeology.** Almost all identifiable ships of Seasian construction except one Chinese-built (**Tanjong Simpang Mengayau** — oldest known Chinese-built ship outside Chinese waters, nail holes, qingbai porcelain, Song ceramics; heavily destroyed before documentation); no Arab/Indian ships found this period. Pattern: multi-stop tramp trade mixing Chinese ceramics/iron with Seasian products. **Pulau Buaya** (Riau, late 12th/early 13th c.): ~31,000 whole artifacts (possibly ≥50,000), mostly utilitarian Guangdong ceramics; Fine Paste kendis; Near Eastern glass. **Java Sea wreck** (late 13th c. off SE Sumatra): iron cargo ~340 tons; ceramics ~25–30 tons; ~12,000 intact ceramics (~80% broken ⇒ ~240,000 total); Seasian-built ship ~26×8 m; "peddling nature" of commerce; indigenous Indonesian scale weights. **Jade Dragon** (Sabah 2010): specialized Longquan green porcelain ~1,000–2,000 ceramics + iron machetes. **Breaker Shoal** (Palawan 1991): lead/iron; qingbai/greenware; Fine Paste kendis indicating south Thailand contact. Karimun Island: Akit sea nomads, Buddhist, mostly boat-dwelling into the 1990s, revering a cliff inscription — continuity of sea-nomad practice concurrent_with [[srivijaya]] hinterland.

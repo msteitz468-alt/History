@@ -14,8 +14,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the [[investiture-contest]], the [[gregorian-reform]], the exhaustion of both sides after fifty years of conflict, the "théorie chartraine" compromise of Ivo of Chartres]
 consequences: [the formal end of the lay-investiture conflict, the distinction of spiritual office from temporal regalia, the weakening of imperial control over the German church, the strengthening of the papal monarchy]
-sources_ingested: 1
-last_updated: 2026-06-14
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, high-middle-ages, western-europe]
 ---
 
@@ -79,9 +79,14 @@ Hohenstaufen. Historians debate whether it represents a papal "victory," a draw,
 fudge; most now stress the role of the moderate Chartres theology over the maximalist Gregorian
 position in making agreement possible.
 
+### Logan (2013)
+
+[[logan-history-of-the-church-in-the-middle-ages-2013|Logan]] notes England’s **1107** settlement between Henry I and Anselm (king abandons pastoral-staff investiture; bishop does homage for lands) as a **precedent**. Under Calixtus II the Concordat of Worms (**1122**) gave **free election** (in the king’s presence), **no royal investiture with office symbols**, and **homage** from the new bishop; terms differed outside Germany; jurisdictional tension remained for future clashes. For Logan the settlement of Gregory’s conflict was **tenuous** even at Worms.
+
 `caused_by: [[investiture-contest]]`
 `part_of: [[gregorian-reform]]`
 `followed_by: [[frederick-i-barbarossa]]`
 
 *From [[luscombe-ncmh-v4-2004|The New Cambridge Medieval History, Vol. IV]] (Luscombe &
-Riley-Smith, 2004), Part 1, ch. 9 (I. S. Robinson).*
+Riley-Smith, 2004), Part 1, ch. 9 (I. S. Robinson); updated from [[logan-history-of-the-church-in-the-middle-ages-2013|Logan 2013]].*
+

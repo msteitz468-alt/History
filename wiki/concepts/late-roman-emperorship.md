@@ -5,8 +5,8 @@ origin: the nature, representation and administration of imperial power in the f
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [mediterranean-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [concept, rome]
 ---
 
@@ -114,3 +114,43 @@ God ("the emperor needs only God"; his power made him "like God"). The chapter's
 
 This is the court that frames [[justinian|Justinian's]] reign and the whole later Byzantine imperial style.
 Source: [[cameron-cah-v14-2000]] (Ch. 6, Michael McCormick).
+
+## Harris, *Roman Power* (2016)
+
+[[harris-roman-power-2016|Harris]] traces late emperorship from the high-empire concentration of glory in the emperor’s person (ending de facto commander autonomy of late Republic–early Augustus) through Diocletian’s *consistorium* and the fourth–seventh-century crises. Practical limits on imperial power were “money, information, and time”; the empire was “probably too large to be ruled successfully, in ancient conditions, by anyone except a man of extraordinary talents,” and needed Diocletian’s more efficient delegation. Post-180 propaganda shifted from conquest to victory and *orbis* language (*pacator orbis*, *invictus*, Aurelian’s *restitutor orbis*); by 301 emperors congratulated themselves on “most profound calm.” Fictive dynastic ancestry (Severans to Antonines) and tetrarchic family links gave way with Constantine to full dynastic principle again.
+
+Against ceremonial-strength theses for the century after Constantine: “the Roman state weakened considerably.” Evidence includes power ceded to bishops, weakened civil peace, declining tax-gathering effectiveness, and military deficiencies. Of ~eleven Augusti 375–430s, **six were children** at nominal accession (Gratian, Valentinian II and III, Arcadius, Honorius, Theodosius II); western military strongmen (Arbogast, Stilicho, Constantius III, Aetius, Odoacer) dominated; only army units could still make and unmake emperors. Monarchy was “formally absolute,” but the Consistory’s independent debate is overstated; court eunuchs and personal relations counted most; the court cut the emperor off from reality; senates of Rome and Constantinople had “nil power in really important matters.” Fantastically exaggerated distinction of emperor from humans (from Diocletian/Constantine) “probably made the emperor a degree more secure” (no murder 383–455 after Gratian) — yet power was “strong within a narrow range… but weak beyond that range”: it could not keep barbarians out or maintain earlier civil order. Bishops and rapid high-office turnover were obstacles; neither tax gathering nor army recruits kept pace with needs. Sixth–seventh centuries: Justinian’s successors absolute in principle (*basileus* title ~seven years before Yarmuk) but constrained by circus factions (Nika; Phocas elevation), ecclesiastics (Cyrus as patriarch-governor of Egypt), and landowners; Justin II even deferred provincial-governor nomination to “most holy bishops and principal inhabitants.”
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+[[actors/gibbon-edward|Gibbon]]’s dominate is Diocletian’s “new empire” — theatrical despotism that unseats Rome and secures the monarch at the state’s expense. **Gibbon’s views.**
+
+- **Diocletian as second founder:** “Like Augustus, Diocletian may be considered as the founder of a new empire” — statesman rather than warrior; dissimulation under military frankness; ambition colored as justice and public utility.
+- **Dominus, diadem, prostration:** civil titles of consul/tribune laid aside; *Dominus* entered the laws; silk-and-gold robes, eunuchs, Persian ceremonial — “theatrical representation” more dangerous than Augustus’s republican comedy.
+- **Rome unseated:** peacetime residences at Milan (West) and Nicomedia (East); Diocletian–Maximian triumph “was the last that Rome ever beheld. Soon after this period, the emperors ceased to vanquish, and Rome ceased to be the capital of the empire.”
+- **Senate as monument:** absence of emperors left “the senate of Rome… a venerable but useless monument of antiquity”; Praetorians reduced; Jovians/Herculians replace them.
+- **Succession theory at York:** private-property imagination applied to public dominion; Constantine’s acclamation — “if he wished to live he must determine to reign.”
+- **Timid policy of division:** Constantine’s institutions “dividing whatever is united, of reducing whatever is eminent, of dreading every active power” (legions fragmented).
+- **Empty consulate** still supreme ambition; magic-treason inquisitions under Valentinian/Valens as fruit of despotism; Julian’s Chalcedon tribunal where “justice herself… appeared to weep” over Ursulus; Honorius as poultry-feeding puppet type.
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[concepts/roman-tetrarchy]] · [[concepts/gibbonian-decline-thesis]]
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- **Tetrarchy.** Two Augusti + two Caesars; Diocletian’s only real innovation—two parallel dynasties renewed by periodic adoptions—was the only component that failed. Sharing rule had precedents (Marcus/Verus; Severus and sons). Collegiate rule never meant division into separate states; co-emperors mostly related; generally reduced civil wars/usurpations. Irony: west’s fall triggered by eastern army’s defeat at Adrianople; multiplication of emperors risked policy incoherence (post-Adrianople courts expelling Goths from their own spheres).
+- **Presentational transformation.** Elaborate ceremonial, extraordinary costume, court ritual, triumphs, gigantic statues—“image of the emperor as fellow citizen … banished forever.” Religious harnessing: Decius’s empire-wide *supplicatio* and first general persecution (250); Aurelian’s Sol Invictus; Diocletian’s Jovian/Herculean patrons and Great Persecution. Military success generated legitimacy; longer-surviving emperors less challengeable.
+- **Not a revolution.** “The late Roman Empire was not created in a revolution”; new ideal of soldier-emperor with spectacular ceremonial and ferocious justice had emerged before Diocletian. Changes were cumulative pragmatic expedients focused on the army, not a grand plan.
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **Imperial capacity as interlocking systems.** Late Roman rule rested on *Herrschaftsideologie* (symbolic authority as world order), military force, taxation (distinguishing empire from western barbarian kingdoms), justice/written law, subject consensus and shared political memory, and communication of persons, goods, and written information through official channels.
+- **Warrior vs palace monarchy (284–395 / post-395).** From Diocletian to Theodosius I’s death the state was ruled by campaigning warrior emperors expected to lead major campaigns in person. After Adrianople (378)—Valens the first emperor lost in a major barbarian defeat, and almost the last to lead an army into battle for more than two centuries—the role of the monarchy changed. After 380 emperors largely abandoned frontier residence; Arcadius lived at Constantinople, Honorius at Milan then Ravenna. Palace-based rule critically reduced capacity to defend the northern frontier and retain western provinces until Heraclius (610).
+- **Accession geography.** Civil-war and succession dramas played out on the northern–eastern military highway axis (Mesopotamia–Balkans); 363–4 after Julian/Jovian uncannily reenacted 283–4—officer cabals elevating middle-ranking Illyrian military men (Diocletian, Jovian, Valentinian). Decisive civil-war zone was the middle Danube highway, not the outer frontiers.
+- **Child emperors and generalissimos.** Gratian (Augustus 367) as first “child emperor”; after Valentinian’s 375 death, Merobaudes and Equitius elevated four-year-old Valentinian II—demonstrating generalissimo power and a new oligarchic rule by officers who organized succession. Against Gibbon’s indolent Theodosius II and Jones’s “reigned rather than ruled,” Mitchell stresses stability: long reigns, childhood accessions paradoxically producing secure terms (Theodosius II unchallenged 408–450).
+- **Image and sacral office.** After the late fourth century individual imperial busts become hard to distinguish; authority derived from immanent sacral/institutional office rather than personal charisma. Tetrarchic proskynesis was stricter court ceremonial increasing distance, not primarily “orientalization” (Severan precedents). Arch of Constantine (315): Maxentius began the spolia program; Constantine inherited design—monument affirms principate’s ritual authority more than personal achievement; Christian content minimal.
+- **Christian sacral framing.** Constantine and Justinian cast as agents of God’s will, not gods, yet Eusebius could portray Constantine as virtually a second Christ; Procopius attacks extreme proskynesis before Justinian/Theodora as slave-like despotism reflecting Sasanian court practice.
+- **Panegyric as source.** Autocracy yielded extremes of praise/vituperation; with context and rhetoric accounted for, Latin panegyrics are indispensable for reconstructing the [[roman-tetrarchy]] and Constantine’s rise.

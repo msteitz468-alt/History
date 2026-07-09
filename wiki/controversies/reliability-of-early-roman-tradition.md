@@ -8,7 +8,7 @@ positions:
   - "Moderate: the tradition preserves structural information about institutions even when narrative detail is fictitious (Cornell, Momigliano partially)"
   - "Conservative: the consular fasti are authentic from 509 BCE and provide a reliable chronological skeleton; key episodes have authentic oral or documentary basis (Mommsen tradition)"
 resolution_status: open
-last_updated: 2026-06-11
+last_updated: 2026-07-08
 tags: [controversy, classical-antiquity, archaic-period, mediterranean]
 ---
 
@@ -198,9 +198,13 @@ greater skepticism about narrative content and greater reliance on archaeology a
 institutional analysis, while accepting that the consular fasti provide a usable
 chronological skeleton from the mid-fifth century onward.
 
+## Woolf, *Rome: An Empire's Story* (2012)
+
+[[woolf-rome-empires-story-2012|Greg Woolf]] reinforces the skeptical pole with a firm archaeology-first rule. Surviving accounts of the regal period have a “mythic quality”; none was written less than three centuries after the supposed foundation of the Republic—“Our only real control on these myths is archaeological.” Almost no Greek writer mentions Rome before 300 BCE, and no native historian before 200 BCE, by which time Rome already dominated Italy; ancient narratives are “transparently written in the knowledge of (and often to explain) Rome’s imperial destiny,” so “a reliable account of early Rome must begin from archaeology.” Later dating often depends on synchronism with Greek history (tyrant expulsions; Veii ~ Athens–Sparta; Gallic sack ~ northern temple-pillagers); stories of self-sacrifice and social solidarity comfort a late Republic torn by civil conflict—“hardly reliable history.” Position only among Ogilvie/Drummond/Cornell poles; does not adjudicate fasti authenticity.
+
 ## Related
 
 - Concept: [[early-roman-source-criticism]]
 - Actor: [[roman-kings]] · [[roman-republic]]
 - Event: [[foundation-of-rome-753bce]]
-- Source: [[walbank-cah-v7-2-1989]] (Chs. 1–3)
+- Source: [[walbank-cah-v7-2-1989]] (Chs. 1–3) · [[woolf-rome-empires-story-2012]]

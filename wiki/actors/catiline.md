@@ -9,7 +9,7 @@ affiliated_with: [the patrician nobility; the Sullan executioners (earlier); the
 opposed_by: [[[cicero]], the Senate, Cato]
 key_events: [the [[catilinarian-conspiracy-63bce|conspiracy]] of 63, the battle of Pistoria (62)]
 key_processes: []
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy]
 ---
@@ -55,8 +55,20 @@ endurance of hunger, cold, and sleep deprivation — alongside his notoriety, an
 he died fighting at the front of his army when Roman legions crushed his forces in
 North Italy. See [[sources/beard-spqr-2015]].
 
+### OHCW (Boardman/Griffin/Murray 1986) — Griffin
+
+Miriam Griffin (Ch. 19): Sullan land insecurity and moral scars framed Catiline’s
+generation; Crassus funded men like Caesar and Catiline; Caesar opposed Catilinarian
+executions without popular trial; Cicero believed he achieved *concordia* against
+Catiline as consul 63. Sallust’s *Catiline* both cannot escape Cicero’s interpretation
+and exposes its social-economic omissions — aligning with Griffin’s larger warning
+that late-Republican history risks becoming a Ciceronian creation.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Ch. 19, Griffin).
+
 ## Related
 
 - Conspiracy: [[catilinarian-conspiracy-63bce]] · nemesis: [[cicero]] · [[cato-the-younger]]
 - Context: the debt crisis · the Sullan [[sullan-proscriptions-82bce|proscriptions]]
-- Source: [[crook-cah-v9-1992]] (Ch. 9, Wiseman)
+- Source: [[crook-cah-v9-1992]] (Ch. 9, Wiseman) ·
+  [[boardman-oxford-history-classical-world-1986]]

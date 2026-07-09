@@ -7,7 +7,7 @@ period_active: [Late Antiquity, Early Middle Ages, High Middle Ages]
 controlled_by: [Classic/Epiclassic Gulf Coast regional state; later ethnohistory associates the zone with Totonac speakers—construction attribution contested]
 events_here: [occupation A.D. 100–1100, tenth–eleventh-century florescence, ballcourt narrative sculpture, burning and abandonment]
 processes_here: ["[[mesoamerican-state-formation]]"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [place, mesoamerica, gulf-coast, classic-period]
 ---
@@ -77,15 +77,71 @@ literature via Krotser salvage and Wilkerson; huge amounts of earlier unreported
 unpublished for lack of documentation—“we shall perhaps only ever poorly understand Tajín, a
 crucial site,” even as iconographic studies advance.
 
+## Evans & Webster 2001 (Brueggemann & Sarro; Sarro; Wilkerson)
+
+### Urban scale and layout (Brueggemann & Sarro)
+
+Classic Veracruz center in the Gulf lowlands between two streams; occupation stages
+preurban–urban–decadent–postabandonment (reuse as necropolis). Classic florescence; population
+may have exceeded **20,000**. Central zone: **168** public-scale buildings on **196 ha** in five
+barrios; orientations including **20°** and **45° NE**. Principal structure Pyramid of the Niches;
+lower valley cult/admin buildings; **Tajín Chico** elite residences; Building of the Columns as
+rulers’ palace; bulk population beyond the streams in terraced domestic compounds with gardens.
+
+### Architecture and murals (Patricia J. Sarro)
+
+Distinctive architecture: ornamental niches; true second stories; concrete ceilings; asphalt
+sealants; upper “flying cornice” added to *talud-tablero*; limestone facings sealed with cement
+and painted. Tajín Chico: greatest elite/admin concentration; massive concrete roofs poured up to
+**1 m** thick; pillars/columns; some second stories. Murals extensive—mostly monochrome red (also
+blue/yellow); polychrome interiors especially Building J (supernaturals and masked deity
+impersonators). Pyramid of the Niches painted red with black niches, probably blue balustrades.
+
+### Art, ball game, and chronology (S. Jeffrey K. Wilkerson)
+
+Art is dynamic Classic Veracruz style (double outline, low relief, scrolls)—greatest Classic Gulf
+sculptural corpus. North and South Ball Court sequential narrative panels; Building of the Columns
+drum columns show sacrificial rituals of ruler **13 Rabbit**. **≥13 stone ball courts** at the
+site (dozens more in the hinterland); ball-game cult central to rulership, lineage, conquest,
+cosmology—possibly influencing elites as far as the American Southeast. South Ball Court six
+panels (EW2001 sequence): warfare/prisoner capture; Venus-related vision; face-off with
+sacrificial knife; beheading with descending Venus deity; underworld pulque at “mountain of foam”;
+rain god genital autosacrifice to refill vat. Yokes/palmas/hachas as elite grave goods. “The ball
+game, along with a group of closely associated rites, constituted a virtual obsession to the elite
+of the city and the surrounding region” (*part_of:* [[mesoamerican-ball-game]]).
+
+**Chronology (Wilkerson):** small Late Formative/Protoclassic settlement → Early Classic
+urbanization → Middle Classic rapid expansion → Late Classic/Epiclassic (possibly double)
+florescence → rapid depopulation with monument movement and building destruction → Terminal
+Postclassic resettlement on southern margins. **Bruggemann’s** reconstruction placing the entire
+city **A.D. 800–1150** brackets maximum construction but conflicts with ~millennium regional
+Classic Veracruz data (especially Santa Luisa’s 8,000-year sequence). Material culture aspects may
+derive from the earlier major city **El Pital**.
+
+**North Central regional role (Wilkerson Gulf Lowlands):** metropolitan center of mature Classic
+Veracruz; steep-sided inland valley; buildings on valley floor and immense terraces (elite and
+defensive); satellites **Morgadal Grande** and **Lagunilla**; canal systems at Santa Luisa, El
+Pital hinterland, and Las Higueras under its domination. Bellicose; yokes/hachas/palmas and mural
+techniques/themes appear widely. Sculptural depictions indicate warfare and conquest; deliberate
+destruction of sculpture and buildings suggests **violent demise** after brief final florescence.
+Dominated Late Classic (**c. 600–900**) and Epiclassic (**c. 900–1100**); controlled North Central
+and influenced highlands (Napaltecutlan, Xiutetelco), South Central (Banderilla, Coatepec), and
+North (Cerro Cebadilla, Cuatlamayan). Early Postclassic Huastec southward dispersal after drought
+is a **contributing factor** in the destruction of El Tajín (*contributed_to:* fall of El Tajín;
+see [[gulf-lowlands]], [[huastec]]). Partial Terminal Postclassic reoccupation of the site margins.
+
 ## Why it mattered
 
 Flagship of post-Olmec Gulf high civilization: dense ballcourt ritual architecture, solar-year
 niched pyramid, and narrative sculpture of accession-related sacrifice. Marks Late Classic
 northward power shift on the Gulf and a poorly resolved terminal abandonment before the
-ethnohistoric Totonac/Aztec map of the sixteenth century.
+ethnohistoric Totonac/Aztec map of the sixteenth century. EW2001 adds population ceiling
+(~20,000), ≥13 on-site ball courts, architectural technology (cement roofs, flying cornice), and
+the Wilkerson vs. Bruggemann chronology tension.
 
 ## Related
 
-[[olmec]] · [[totonac]] · [[mesoamerican-ball-game]] · [[matacapan]] · [[cerro-de-las-mesas]] ·
-[[teotihuacan]] · [[san-lorenzo-olmec]] ·
-[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 4 (Diehl); Ch. 6 (Cowgill)]]
+[[olmec]] · [[totonac]] · [[huastec]] · [[gulf-lowlands]] · [[mesoamerican-ball-game]] ·
+[[matacapan]] · [[cerro-de-las-mesas]] · [[teotihuacan]] · [[san-lorenzo-olmec]] ·
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 4 (Diehl); Ch. 6 (Cowgill)]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001 (Brueggemann & Sarro; Sarro; Wilkerson)]]

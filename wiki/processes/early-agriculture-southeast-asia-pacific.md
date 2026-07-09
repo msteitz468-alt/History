@@ -8,8 +8,8 @@ region: [southeast-asia, melanesia, polynesia, micronesia]
 process_type: [economic, demographic, cultural]
 driven_by: ["indigenous vegeculture and arboriculture", "introduction of rice/pigs from China", "Austronesian dispersal", "post-glacial sea-level rise", "[[agricultural-origins]]"]
 produces: ["independent New Guinea domestications (banana, taro, sugarcane)", "the Austronesian world", "Pacific island colonization", "[[pacific-voyaging-and-settlement|Lapita and the peopling of Remote Oceania]]"]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, neolithic, southeast-asia, melanesia]
 ---
 
@@ -110,3 +110,11 @@ through the 1st millennium BCE–CE, completing the human settlement of the plan
 last habitable lands (the detailed colonization sequence is traced in
 [[pacific-voyaging-and-settlement]]). Barton's conclusion: abandon the "Mesolithic/Neolithic"
 straitjacket and "explore the diversity for what it is."
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+[[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] reinforce the **vegeculture/tree-crop** and **gradual-transition** readings already on this page, with mainland Thai and western Indonesian pollen/site detail.
+
+**Historiography.** Carl Sauer (1952) hypothesized agriculture began in Seasia from bananas, coconuts, sugar cane (wild varieties only in Seasia); tree-crop adaptation differs from grain domestication and leaves few archaeological traces. Domestication of rice and animals (pigs, cattle) first began in the Yangzi Valley (then northern border of tropical Seasia linguistically/ecologically); earliest food production in politically defined Seasia debated ~3000–2000 BCE (Bellwood ~3000; Higham ~2000). Historiographic split: Bellwood/Diamond propose rapid farmer expansion with a "Friction Zone"; Oppenheimer and Higham favor gradual, differentiated advance; Higham holds agriculture did not end hunting-gathering. Early plant manipulation may have focused on long-lived trees and vegetative propagation (taro, yams) rather than annual seed crops — harder to detect archaeologically.
+
+**Pollen and sites.** Sumatran highland pollen: forest clearance ~6,500 BP at Pea Sim-Sim; Danau Diatas disturbance before 7,500 BP; Lake Kumphawapi (NE Thailand) ~6500 BP; Java large-scale clearance ~5500 BP. Authors infer dryland crops possibly from ~7,500 BP and wider cultivation ~3,000 BP in western Indonesia (data sparse); oldest island Seasia rice samples from **Sireh Cave** (Sarawak) — grains/husks in pottery ~4300 BP. New Guinea highland swamp water-management systems resemble western Pacific taro gardens without proving taro domestication at that date. **Khok Phanom Di** (~2000–1500 BCE): marine hunter-gatherers then agricultural tools, domesticated rice in faeces, isotopic evidence women from farming communities moved in — **symbiosis not friction** with foragers. **Ban Non Wat** (settled mid-17th c. BCE): domestic pigs/cattle/dogs/rice plus wild resources; hunter-gatherers and rice farmers shared burial sites; later sea-level change returned the community to marine H&G and rice cultivation ceased — farming not irreversible replacement. Contrasts_with Bellwood/Diamond friction-zone model; concurrent_with [[austronesian-expansion]] debates.

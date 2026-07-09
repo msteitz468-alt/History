@@ -119,3 +119,27 @@ soften the reality of coercion and exploitation (see [[premodern-state]]).
   [[new-institutional-economics]] · [[legal-pluralism]]
 - [[ptolemaic-papyri]] · [[egyptian-temple-economy]] · [[coinage]] · [[ptolemy-ii-philadelphus]]
 - Sources: [[sources/manning-last-pharaohs-2010]] · [[sources/shaw-oxford-history-ancient-egypt-2000]]
+
+## Cambridge Economic History of the Greco-Roman World
+
+**Manning**'s chapter in Scheidel, Morris & Saller (2007) frames the controversy's central
+question explicitly: "to what extent did the Ptolemaic state effect economic development,
+and to what extent was development driven by demographic change?" — presented as a
+continuation of the post-Finley debate on ancient economic primitivism and development
+(see [[concepts/ancient-economy]]).
+
+- **Position (devolution-of-royal-power thesis).** Earlier scholarship (Lewis,
+  Taubenschlag) held that state control over land eroded steadily from the third to the
+  second/first century BCE as royal power weakened.
+- **Position (Manning's challenge).** Manning argues this devolution model rests on two
+  false assumptions — that the crown ever owned all land, and that state power devolved
+  uniformly over time — and that regional variation (especially greater private/temple
+  landholding in the Thebaid) and consistently flexible, annually-renegotiated royal
+  tenancy arrangements are better evidence of a *premodern bargaining state* than of
+  progressive royal weakening. See [[processes/ptolemaic-egyptian-economy]] for the full
+  economic data behind this position.
+
+Both positions bear on the resolution status above: Manning's institutional/bargaining
+framing has become a standard reference point, but (per the existing Resolution Status
+section) the precise balance of royal versus private capital and the true chronology of
+change remain unsettled.

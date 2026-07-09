@@ -5,8 +5,8 @@ origin: the religious life of the Roman Empire from the Flavians to the Antonine
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [mediterranean-world, italy, near-east, north-africa, anatolia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept, rome]
 ---
 
@@ -141,6 +141,10 @@ naturalism, Marcus' bleak doubt) — material Augustine would later turn against
 High Empire was thus **simultaneously** the high-water mark of monumental civic paganism **and** the
 seedbed of the inward, moralized, salvation-seeking religiosity that Christianity would inherit.
 
+## OHCW (Russell; Meredith; Matthews)
+
+**Russell** (Ch. 27): first two centuries CE bilingual Greek–Latin prose; Second Sophistic travelling orators idolized like pop-stars under imperial patronage; Aristides’ Rome encomium as religious-political gratitude under the Antonines. **Meredith** (Ch. 29): later philosophy (Middle Platonism, Epictetus, Marcus’ *Meditations*, Plotinus) as religiously charged ethics — transcendence of God, immortality of soul — the “new mood” feeding high-imperial spirituality. **Matthews**: Pliny’s Bithynia Christians as “contagion” vs temple revival; honestiores privileges and paternalist munificence as social matrix of civic cult. Source: [[boardman-oxford-history-classical-world-1986]].
+
 ## Related
 
 - The wider religious-philosophical turn: [[roman-philosophy-high-empire|Middle Platonism and Stoicism]]
@@ -154,4 +158,12 @@ seedbed of the inward, moralized, salvation-seeking religiosity that Christianit
   (civic cult, oracles, Judaism)
 - Sarcophagi and the [[roman-art-architecture-high-empire|classicizing visual culture]]; the cults'
   reliance on [[roman-literacy|the written word]]
-- Source: [[bowman-cah-v11-2000]] (Ch. 35, Wolf Liebeschuetz)
+- Source: [[bowman-cah-v11-2000]] (Ch. 35, Wolf Liebeschuetz); [[boardman-oxford-history-classical-world-1986]] (Russell; Meredith; Matthews)
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- Ch. 8 (“At Heaven’s Command?”): dense religious institutions (lifelong priesthoods; auguries before assemblies/Senate/battles; Senate mediating Romans and gods) but conventional polytheism compared with neighbors—did not uniquely drive imperialism.
+- “Other Roman institutions played a much greater part in promoting and facilitating expansion: patronage and slavery, military alliance, and Roman law… The gods, it seems, were passengers on this journey.” No empire-wide collective ritual until Caracalla 212 and Decius 249 *supplicatio*.
+- Moral empire: Republican successes attributed to virtue, failures to vices/ritual error; civil wars as collective moral failure and corrupting luxury; Weber’s “theodicy of good fortune” as cosmic sanction.

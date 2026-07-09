@@ -5,7 +5,7 @@ origin: Walter Lehmann (1920s); reformulated by Krickeberg (1943); made operatio
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
 applies_to_regions: [mesoamerica]
 contested: yes
-sources_ingested: 1
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [concept, mesoamerica, analytical]
 ---
@@ -100,6 +100,101 @@ the Intermediate Area’s manioc+maize economies, smaller polities, South Americ
 affiliations, metallurgy, and fewer pan-area integrative traits (Sheets 2000). See
 [[greater-mesoamerica]] for frontier vs boundary and West/NW expansion of the concept.
 
+## From Evans & Webster 2001 — Editors' Introduction
+
+Evans and Webster distinguish **Middle America** (modern Mexico + Central America as a
+geographic frame) from **Mesoamerica** (a smaller culture area within it). Their
+geographic estimate is about **912,500 km²**: all but northernmost Mexico; all of
+Guatemala, Belize, and El Salvador; western Honduras; some scholars also include Pacific
+coastal Nicaragua and Costa Rica because of intermittent Mesoamerican migrants, languages,
+and artifacts.
+
+They restate the **Paul Kirchhoff (1943)** trait package as the operational definition:
+specific farming and foodways; dress, tools, and weapons; the ball game; stepped pyramids;
+specialized markets; hieroglyphic writing; several calendars; a distinctive set of deities
+and rituals, many featuring human heart sacrifice. Some traits (e.g. the ball game) also
+occur outside Mesoamerica in altered form; **collectively** the package is regionally
+diagnostic. Boundaries are historical processes, not fixed topographic or national lines.
+
+Strong contrast with neighbors: except on northern frontiers, sixteenth-century Mesoamerica
+lacked pure hunting-gathering societies — populations were **overwhelmingly agricultural**.
+Mesoamerica is treated as one of the world's independent **hearths of plant domestication**;
+urbanism begins with great cities around **500 B.C.**, culminating by **A.D. 1519** in
+[[tenochtitlan|Tenochtitlan]] as one of the world's most populous cities (comparable New
+World scale only in the Central Andes). Frontiers: **[[northern-arid-zone|Northern Arid
+Zone]]** to the north; **[[intermediate-area|Intermediate Area]]** to the southeast toward
+northern South America.
+
+Dating methods the editors privilege: radiocarbon (±50–100 years typical); ceramic
+seriation; stratigraphy; archaeomagnetism; obsidian hydration; **Long Count** day-precision
+in the Maya lowlands after ~A.D. 300; dendrochronology mainly in the Northern Arid Zone.
+Native screen-fold books largely destroyed; durable inscriptions and post-conquest native
+and Spanish records partially compensate.
+
+Source: [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster
+(eds.) 2001]], Introduction (Webster & Evans).
+
+## From Evans & Webster 2001 — Entry-level claims
+
+### Formative creation of the culture area (John E. Clark)
+
+The Formative period “witnessed the creation of Mesoamerica as a cultural area and its
+near-maximal extension.” The pattern that spread comprised seven major elements:
+(1) sedentary village and town life; (2) basic cultigens (beans, avocados, chiles, maize);
+(3) intensive farming and water control; (4) public economies with surplus food and
+specialized luxury goods for long-distance exchange; (5) complex social/political systems
+(stratification, divine kingship, ceremonial centers, commemorative art); (6) a shared
+cosmology (quadripartite multi-layered cosmos, creation myths, pantheon, animism,
+life-death journey); (7) influence of these concepts on social norms. Genesis and spread of
+traits were temporally and spatially irregular; **no single regional culture** was responsible
+for all critical developments (Clark, Formative Period entry).
+
+### Trait definition and cores (Schortman & Urban)
+
+Defining traits span technology/subsistence (maize-beans-squash, *coa*) through abstract time
+reckoning (260-day calendar), deities (Rain God, Feathered Serpent), and sacred practices
+(autosacrificial bloodletting). Many commonalities predate culture cores via shared history
+after Asian-origin migrations and post–8,000–5,000 B.C. crop exchange; most diagnostic
+traits relate to hierarchical socio-political forms traditionally tied to innovating cores
+(Interregional Interactions entry).
+
+### Geography and climate (Sluyter & Cavazos Perez)
+
+Middle America compressed among six lithospheric plates yields extreme elevational diversity;
+thirteen physiographic regions (Sierra Madre Occidental/Oriental, Mexican Plateau, Gulf
+Lowland, Balsas Depression, Southern Highland, Isthmus of Tehuantepec, Yucatán, Central
+American Highland, Pacific/Caribbean lowlands). Climate 8°–33° N bridges tropical to
+temperate; altitude zones *tierra caliente* to *tierra fría*; rain shadows over the Mexican
+Plateau (250–500 mm). Relative paleoenvironmental consensus: Formative humid, Classic dry,
+Postclassic humid (with uncertainty).
+
+### Settlement dichotomy (Gordon R. Willey)
+
+After c. 1500 BCE, settlement systems incorporated public mound platforms for
+temples/palaces as politico-religious centers. Concentration of dwellings correlates with
+exceptionally fertile soils and intensive agriculture (irrigation, raised fields, terracing);
+thinner/exhaustible soils favored dispersed farmsteads. Upland Central Mexico (Teotihuacan,
+Tula, Tenochtitlan) exemplifies dense urban settlement; Maya Lowlands exemplify forested thin
+soils, long fallow, and dispersed dwellings around politico-religious centers—Vaillant’s
+basic dichotomy.
+
+### Fortifications as culture-area pattern (Silverstein & Webster)
+
+Fortifications and defensible architecture were commonplace; warfare was technologically
+unsophisticated (no effective siege weapons/artillery), so simple barriers served. Formative
+few (Monte Albán defensible 500–300 B.C.; Becan ditch near Formative end); Classic
+proliferation (by A.D. 500 ~64% Valley of Oaxaca population at 38 fortified/defensible sites;
+Tikal earthworks); Terminal Classic/Postclassic increase (Cacaxtla, Teotenango, Xochicalco
+hilltops; Maya Lowland walls; Aztec–Tarascan fortified chains). Last independent polity
+Noj Peten (Itzá) conquered 1697—ends native fortification tradition.
+
+### Caches and shared ritual practice (Christopher Jones)
+
+Intentionally hidden votive caches occur across most of Mesoamerica, the U.S. Southwest,
+Central America, and Colombia, but not the remainder of North or South America; Aztec Great
+Temple caches at Tenochtitlan show surprising similarity to Tikal’s in content and axial
+placement—evidence of deep shared ceremonial practice across the culture area.
+
 ## Limitations and Critiques
 
 - Original trait lists mixed pan-regional essentials (e.g. human sacrifice) with local
@@ -111,10 +206,13 @@ affiliations, metallurgy, and fewer pan-area integrative traits (Sheets 2000). S
   revises the boundary outward (Gorenstein 2000).
 - Emic political identities were city-state, ethnic, and linguistic, not "Mesoamerican."
 - The culture area is a late Formative+ coalescence, not a deep-time natural region.
+- Evans & Webster (2001) knowledge cutoff is late 1990s; later LiDAR, epigraphy, and
+  genomic work refine (do not erase) this definitional frame.
 
 ## Related
 
 [[hubs/regions/mesoamerica|Mesoamerica hub]] · [[mesoamerican-state-formation]] ·
 [[greater-mesoamerica]] · [[mesoamerican-periodization]] · [[altepetl]] ·
 [[mesoamerican-writing-systems]] · [[mesoamerican-calendar]] · [[mesoamerican-ball-game]] ·
-[[chinampa-agriculture]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]]
+[[chinampa-agriculture]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

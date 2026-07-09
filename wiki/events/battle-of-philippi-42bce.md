@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [the [[julius-caesar-assassination-44bce|assassination of Caesar]] and the triumvirs' war of vengeance, the Liberators' control of the East, the deification of Caesar (42)]
 consequences: [the destruction of the Republican cause, the division of the Roman world between Antony and Octavian, Antony's military prestige, the road to Actium]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, balkans, battle]
 ---
 
@@ -68,9 +68,11 @@ propaganda and "a heavy element of fiction." Pelling stresses that the triumvira
 period is for us "black and white" — the everyday political life of Rome under the
 triumvirs is almost invisible.
 
+**OHCW (Stockton; Griffin).** Stockton: leaving Lepidus in Italy, Antony and Octavian crushed Brutus and Cassius at Philippi (Oct. 42); Octavian then faced settling ~100,000 veterans on Italian land — misery of the dispossessed mirrored in Virgil’s First Eclogue; Perusine War then Treaty of Brundisium (Oct. 40) with Antony–Octavia marriage. Griffin: of Virgil’s fifty-one years, sixteen were civil-war years; Philippi proscriptions said to kill ≥150 senators and 2,000 equites; large Italian land expropriations — “even the survival of Rome seemed to be in doubt,” central for the poetry. Stockton’s continuum: from Caesar’s murder to Actium, “the rule of law was set aside and justice was merely ‘the interest of the stronger’” for thirteen years. Source: [[boardman-oxford-history-classical-world-1986]].
+
 ## Related
 
 - Victors: Antony · Octavian ([[second-triumvirate]]) · defeated: Brutus, Cassius
 - Preceded by: [[julius-caesar-assassination-44bce]]; leads to: the
   [[battle-of-actium-31bce|breakdown of the triumvirate and Actium]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 1, Pelling)
+- Source: [[bowman-cah-v10-1996]] (Ch. 1, Pelling); [[boardman-oxford-history-classical-world-1986]] (Stockton Ch. 22; Griffin Ch. 25)

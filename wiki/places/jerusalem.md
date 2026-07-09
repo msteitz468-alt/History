@@ -3,12 +3,12 @@ title: Jerusalem
 place_type: city
 modern_equivalent: Jerusalem
 coordinates: ~31.78°N, 35.22°E
-period_active: [Middle Bronze Age, Late Bronze Age, Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages]
-controlled_by: [Jebusites, Kingdom of Israel/Judah, Babylon, Persia, Rome, Byzantium, Caliphates, Crusader states]
+period_active: [Middle Bronze Age, Late Bronze Age, Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
+controlled_by: [Jebusites, Kingdom of Israel/Judah, Babylon, Persia, Rome, Byzantium, Caliphates, Crusader states, Ayyubids, Mamluks, Ottomans]
 events_here: []
-processes_here: [[[urbanization]]]
-sources_ingested: 2
-last_updated: 2026-06-27
+processes_here: [urbanization, crusades]
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [place, levant, near-east]
 ---
 
@@ -74,8 +74,26 @@ appears across Avigad's and Shiloh's excavations, attesting occupation beyond th
 Mount. The maximalist–minimalist clash here is the heart of
 [[controversies/historicity-of-the-united-monarchy|the United Monarchy controversy]].
 
+## Islamic sacred geography and the Crusades (Cobb 2014)
+
+[[cobb-race-for-paradise-2014|Paul M. Cobb, *The Race for Paradise* (2014)]] supplies the Muslim-facing sacred and political dossier for medieval Jerusalem (*al-Quds* / *al-Bayt al-Muqaddis*).
+
+**Sacred status.** Palestine was Holy Land (*al-ard al-muqaddasa*, Qurʾan 5:21); Jerusalem was the holiest Muslim city outside western Arabia—associated with Abraham, David, Jesus and Mary; first *qibla* before Mecca; site of the Prophet’s night journey and heavenly ascension, commemorated by the Dome of the Rock and al-Aqsa on *al-Haram al-Sharif*. Caliph ʿUmar visited on the city’s surrender (637), founding the Mosque of ʿUmar near the Holy Sepulcher; the city was also central to Muslim eschatology (Antichrist, Messiah, Final Judgment). Cobb situates the city inside a larger sacred Syria (*al-Sham*)—sometimes treated as one immense *ribat*—with a hierarchy in which Jerusalem is the most sacred city of Palestine and Palestine the most sacred district of sacred Syria.
+
+**Scale on the eve of the Crusades.** Cobb estimates Islamic Jerusalem c. 1050 as a sacred but provincial town of roughly **20,000–30,000** inhabitants—comparable to major Latin Western cities of the time, yet “suitably grand” to Franks arriving in 1099—while only [[constantinople|Constantinople]] among Christian cities approached the scale of the great Islamic capitals.
+
+**Eleventh-century turbulence.** Turcoman warlord Atsiz occupied the city in the 1070s; Tutush removed him (1079) and installed the Artuqid amir Ilghazi. After Antioch’s fall, Fatimid vizier al-Afdal retook Jerusalem (siege “somewhat over forty days”; surrender **September 1098**). When Franks arrived **7 June 1099**, the city had been under Fatimid control less than a year after three changes of hands; the Fatimid garrison under Iftikhar al-Dawla was “perhaps one thousand strong”; the governor expelled local Christians and blocked countryside wells. Cobb’s counterfactual: had Saljuq politics in northern Syria taken a different course, “it is unlikely that the Franks would have ever made it to Jerusalem”; “Seen from Syria… the road to Jerusalem in 1099 begins in Aleppo in 1064.”
+
+**1099 sack (Muslim accounts, hedged).** Northern entry forced while Raymond’s tower was burned on the Mount Zion front; the garrison held the Tower of David three days then left for Ascalon under truce. Inhabitants “became prey for the sword”; a synagogue was burned with Jews inside; Tancred’s safe-conduct at the Haram was ignored—chroniclers claim **improbably “thousands”** killed in al-Aqsa (Cobb hedges the figure); Dome of the Rock stripped of silver and gold. Despite emotive accounts, Cobb treats the loss as “above all a local, Levantine calamity” and foremost a blow to Fatimid imperial authority. Jerusalem remained Frankish for nearly a century as principal city of Outremer—“a prize not so much the product of divine will or Crusader fervor as of Fatimid vacillation and the disunity of a distracted Saljuq elite.”
+
+**1187 reconquest.** After [[battle-of-hattin-1187|Hattin]], Saladin’s siege began **20 September 1187**; five days later he shifted to the weaker northern wall (mirroring 1099). Balian of Ibelin negotiated terms under threat to destroy the Dome of the Rock and al-Aqsa; **Friday 2 October** terms settled. Ransom: 10 dinars man / 5 woman / 1 child over forty days. Post-conquest purification: al-Aqsa cleansed of Templar fittings; Dome of the Rock of Frankish altar; Qurʾan manuscripts and perpetual reciters; Holy Sepulcher left standing (ʿUmar’s precedent); Nur al-Din’s pulpit brought from Aleppo. First Friday *khutba* since 1099 (Muhyi al-Din ibn al-Zaki) framed the city as a “strayed camel” recovered after nearly a century of polytheist abuse. After the 1192 truce Saladin strengthened walls and founded the Salihiyya madrasa (formerly St Anne’s), a hospital, and a sufi meetinghouse.
+
+**Thirteenth-century afterlife.** In **1219** al-Muʿazzam ordered the walls destroyed lest Fifth Crusaders use the city as a base (Sibt ibn al-Jawzi: clamor “as if Judgment Day”). Treaty of Jaffa **February 1229** granted unfortified Jerusalem to Frederick II while the Temple Mount remained Muslim and open to Muslim pilgrims; Muslim reaction: “all hell broke loose.” Frankish possession (with one brief interruption) lasted about fifteen years. Summer **1244**: ~ten thousand Khwarizmian cavalry (for al-Salih Ayyub) reached the unfortified city **11 July**, plundered over a month with special destruction of Christian shrines, then moved to Gaza. Ambient memory: in **1701** Jerusalemite notables petitioned the Ottoman sultan against a French consul visit because “our city is the focus of attention of the infidels” and they feared occupation “as happened repeatedly in past times.”
+
 ## Related
 
-- Places: [[baghdad|Baghdad]] · [[cahokia|Cahokia]] · [[memphis|Memphis]]
-- Concept: [[founded-cities]] · [[ritual-and-urban-performance]] · [[urbanism]]
-- Process: [[urbanization]]
+- Places: [[baghdad|Baghdad]] · [[cahokia|Cahokia]] · [[memphis|Memphis]] · [[antioch|Antioch]] · [[tyre|Tyre]] · [[edessa|Edessa]]
+- Concept: [[founded-cities]] · [[ritual-and-urban-performance]] · [[urbanism]] · [[dar-al-islam]]
+- Process: [[urbanization]] · [[crusades]]
+- Events: [[first-crusade-1095|First Crusade]] · [[battle-of-hattin-1187|Hattin]] · [[fall-of-jerusalem-1187|Fall of Jerusalem 1187]]
+- Source: [[cobb-race-for-paradise-2014|Cobb, *The Race for Paradise* (2014)]]

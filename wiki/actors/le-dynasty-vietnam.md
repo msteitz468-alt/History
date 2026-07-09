@@ -9,8 +9,8 @@ affiliated_with: ["[[dai-viet|Dai Viet]]"]
 opposed_by: ["[[ming-dynasty|Ming dynasty]] (1407-1427 predecessor conflict)", "[[mac-dynasty-vietnam|Mac dynasty]]"]
 key_events: ["[[lam-son-uprising-1418-1428|Lam Son uprising]]", "[[conquest-of-vijaya-1471|Conquest of Vijaya]]", "[[seventy-years-war-vietnam-1533-1592|Seventy Years War]]"]
 key_processes: ["[[nam-tien|Nam Tien]]"]
-sources_ingested: 1
-last_updated: "2026-07-03"
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, dynasty, late-middle-ages, early-modern, southeast-asia]
 ---
 
@@ -39,3 +39,41 @@ The dynasty's own court historians (Phan Phu Tien, 1455; Ngo Si Lien, 1479, comp
 ## Related
 
 [[le-loi|Le Loi]] · [[le-thanh-tong|Le Thanh Tong]] · [[mac-dynasty-vietnam|Mac dynasty]] · [[seventy-years-war-vietnam-1533-1592|Seventy Years War]] · [[lam-son-uprising-1418-1428|Lam Son uprising]] · [[conquest-of-vijaya-1471|Conquest of Vijaya]] · [[dai-viet|Dai Viet]]
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+**Founding after Ming occupation.** Le Loi's uprising began at Lam Son (western Thanh Hoa mountains)
+in 1418; after ten years he defeated the Chinese and inaugurated the early Le (1428–1527). Thang Long
+was the lowland political base; Lam Son remained the family ritual centre and 1527–1533 refuge. Le Loi
+called Thang Long Dong Kinh ("capital of the Kinh") — origin of the European term "Tonkin" — and Lam
+Son Tay Kinh (Western Capital). Reign name Le Thai To (1428–1433); country renamed [[dai-viet|Dai
+Viet]]; Nguyen Trai's *Binh Ngo Dai Cao* commemorated the Ming victory. The capital was rebuilt on
+Thang Long foundations modelled after Tang Chang'an. The Hong Duc map of 1490 depicts Thang Long as a
+"boot-shaped Royal City (Dragon)" within broader Dai La walls enclosing a rectangular Forbidden City.
+
+**Ideology and force.** The Le embraced Confucianism and a scholar-gentry class (Nguyen Trai's
+influence stressed); the Royal Academy rose in status. Heaven/Earth and land-spirit sacrifices and the
+blood oath continued, but Buddhism ceased to feature in official activities (aristocrats still visited
+temples; no new pagodas — only restoration/upgrade allowed). Le Thai To strengthened army and navy and
+increased firearms and gunpowder production — a military-technical theme Miksic links to copper
+conservation and earlier paper-currency experiments under the Ho.
+
+**Le Thanh Tong apex and Champa.** Under Le Thanh Tong (1460–1497) Dai Viet mounted unprecedented
+campaigns: sack of Champa 1446 (king and 33,500 captives to Thang Long); final defeat of Vijaya 1471
+under Nhan Tong and Thanh Tong; extension beyond Binh Dinh into Kauthara; Vietnamese colonies in Quang
+Nam; invasions of Laos, Muong Phuan, Lan Xang, even reaching Ava. Ceramic production at Hai Duong
+benefited from the Ming private-trade ban; export porcelain reached West Asia (Topkapi white-and-blue
+jar inscribed 1450). From 1471 to the mid-seventeenth century, Dai Viet's southern limit ran near
+Champa's capital at Phan Thiet; Panduranga paid tribute to the Le until the Mac usurpation (1526).
+
+**Collapse into dual courts.** After Thanh Tong, Hien Tong (1498–1504) barely held control; his death
+opened a quarter-century of chaos (population pressure, rigid land control, blocked office) that
+enabled [[mac-dynasty-vietnam|Mac Dang Dung]]. Miksic dates the full Le span 1427–1788 (including
+restoration after Mac). Nguyen and Trinh clans backed the deposed Le elite and helped Le Trang Tong
+(1533–1548) reinstate the dynasty in Thanh Hoa; the 1530s saw parallel courts (Mac at Thang Long; Le at
+Thanh Hoa). Campaigns against the Mac from 1549 ended in Mac defeat 1592 and flight north. Sixteenth-
+century relative peace for remnant Champa reflected this Mac vs Le–Nguyen–Trinh struggle rather than
+southern demilitarization alone.
+
+Cross-links: [[le-loi]] · [[le-thanh-tong]] · [[mac-dynasty-vietnam]] · [[champa]] · [[dai-viet]] ·
+[[thang-long]] · [[conquest-of-vijaya-1471]] · [[miksic-goh-ancient-southeast-asia-2017]]

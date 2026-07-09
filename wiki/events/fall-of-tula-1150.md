@@ -25,7 +25,7 @@ consequences:
   - power vacuum filled by multi-ethnic communities and later confederacies
   - native historical traditions of nearly all contact-era polities begin with Tollan’s downfall
   - enabled path to Tepanec/Acolhua expansion and [[triple-alliance-formation-1428|Triple Alliance]] (1428)
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [event, high-middle-ages, mesoamerica, toltec]
 ---
@@ -159,9 +159,35 @@ archaeologically (Umberger & Klein 1993).
 complexes is difficult and uneven. Charlton presents historical reconstructions and
 archaeology as different valid portrayals; lack of congruence is as important as coherence.
 
+## Evans & Webster 2001
+
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster (eds.) 2001]]
+— Healan; Mastache Flores & Cobean; Parsons; Smith (**EW2001**).
+
+**Dating of collapse.** Healan / Mastache & Cobean: Tula’s Early Postclassic city “probably
+collapsed toward the **end of twelfth century** A.D.” Parsons: by the end of the twelfth
+century Tula had lost importance as a major political center; thereafter Basin population
+rapidly exceeded the Classic maximum with unusually even distribution, new urban centers
+especially around lake margins and piedmont, and resettlement of formerly sparse
+central/southern Basin by immigrants including **probable refugees from Tula’s collapse**.
+Smith frames Middle Postclassic (c. 1150–1350) as beginning with fall of Tula ~**1175**
+coinciding with Aztlan Nahuatl immigrants forging Aztec culture.
+
+**Destruction attribution (Healan):** Acosta attributes Tula Grande destruction to people
+using **Aztec II** pottery (burned/looted main plaza), but no important Aztec II occupations
+elsewhere in the urban zone or region. First significant Aztec occupation is **Aztec III**
+(more numerous/extensive). By 14th century Tula area controlled by Tepanecs of Azcapotzalco;
+after Mexica defeat of Azcapotzalco, region divided among Aztec provinces of Jilotepec,
+Atotonilco, and Ajacuba. Tollan phase was the only pre-Hispanic period with a city at Tula.
+
+**Williams:** fall of Tula around A.D. 1200 marks the start of Late Postclassic twin-temple
+popularity (Tenayuca, Tenochtitlán), *coatepantli*, and *tzompantli* — architectural
+aftermath, not cause.
+
 ## Related
 
 - [[tula-hidalgo]] · [[toltec]] · [[teotihuacan]] · [[teotihuacan-collapse-550ce]]
 - [[aztec-empire]] · [[tenochtitlan]] · [[cholula]] · [[basin-of-mexico]]
 - [[mesoamerican-state-formation]] · [[xochicalco]] · [[cacaxtla]]
-- [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6 & 11]]
+- [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6 & 11]] ·
+  [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

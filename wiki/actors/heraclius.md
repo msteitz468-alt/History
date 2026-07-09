@@ -9,8 +9,8 @@ affiliated_with: [Byzantine Empire, Carthage]
 opposed_by: [Phocas, Sassanid Empire (Chosroes II), Rashidun Caliphate]
 key_events: [siege-of-constantinople-626, battle-of-nineveh-627, battle-of-yarmuk-636]
 key_processes: [emergence-of-the-theme-system, rise-of-islam, arab-conquests]
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 6
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, early-middle-ages, anatolia, mediterranean]
 ---
 
@@ -64,8 +64,52 @@ that the exhausted empire he had just saved was, within a decade, overrun by the
 
 Modern historians (such as Andrew Louth) credit Heraclius with laying the foundations for the medieval Byzantine state. Under his reign, Greek officially replaced Latin as the language of administration, and he assumed the Greek title *Basileus* ("King") instead of the traditional Roman *Imperator*. To defend Anatolia, he initiated the reorganization of the military units into permanent garrison districts, which evolved into the **Theme System** (*themata*), providing the empire with the administrative and military structure that enabled its survival for centuries.
 
+## Harris, *Roman Power* (2016): end of empire as empire
+
+[[harris-roman-power-2016|Harris]] places Heraclius at the terminal phase of Roman
+*imperial* power. Brilliant Persian recovery (Nineveh 627, recovery of provinces) is
+likened to super-condottiere success that does **not** restore reliable defence of the
+imperial core or revenue base — a pattern since late Justinian. After
+[[battle-of-yarmuk-636|Yarmuk]] (636), Antioch and Jerusalem fall (637), Alexandria (641);
+~three-quarters of revenues are lost in Harris’s account. Multi-causal eastern failure:
+finance, leadership, morale, multi-ethnic army on the defensive, Monophysite alienation,
+Muslim cohesion and holding techniques. Harris’s periodization: the years 636–42 (through
+Constans II’s early failures) are the **real end of the Roman Empire as an empire** —
+Byzantium thereafter one state among others until much later. Cross-links: [[roman-power]],
+[[justinian]], [[arab-conquest-of-egypt-641]], [[fall-of-rome-causes]].
+
 ## References
 
 - [[sarris-empires-of-faith-2011|Sarris, *Empires of Faith*]] (Ch. 7, the holy-war / Turk-alliance / fiscal-mobilisation reading).
 - *The New Cambridge Medieval History, Volume 1: c. 500–c. 700*, edited by Paul Fouracre. Cambridge University Press, 2005 (Chapter 11).
 - His religious policy — the *Ecthesis* that launched the [[monothelite-controversy|Monothelete controversy]] — is documented in the ingested **[[booth-cubitt-lateran-synod-649|Acts of the Lateran Synod of 649]]**.
+- [[harris-roman-power-2016]]
+
+## From Tannous (2018)
+
+Tannous notes Heraclius-era religious policy (including monothelete initiatives) and anecdotes such as the exile of Cyrus of Edessa for poor Gospel reading as evidence that clerical [[theological-literacy|theological literacy]] remained uneven deep into the seventh century — part of the simple-believer landscape on the eve of the Arab conquests.
+
+- Source: [[tannous-making-medieval-middle-east-2018]]
+
+## Gibbon, *Decline and Fall* (1776–1788) — Chs. XLVI–LI
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]]’s Heraclius is the classic “inconsistent” portrait: palace Arcadius, camp Caesar — then late-age collapse before Islam.
+
+- **Character thesis:** “Of the characters conspicuous in history, that of Heraclius is one of the most extraordinary and inconsistent” — first and last years slave of sloth/pleasure/superstition; meridian years retrieve Rome by six adventurous campaigns; more personal courage than political resolution.
+- **Rise:** Exarch Heraclius of Africa refuses Phocas; son sails from Carthage; Phocas tortured and beheaded (“Wilt thou govern better?”); coronation with Eudoxia; posterity four generations.
+- **Reverse invasion of Persia:** Lets Persians insult the capital while sailing to Trebizond and penetrating Armenia/Media — “Since the days of Scipio and Hannibal, no bolder enterprise has been attempted.”
+- **626 siege and Turkish alliance:** Chosroes allies with the Avar chagan; capital held by walls, mechanics, cuirassiers; Heraclius counters with Chozar/Turkish alliance and ~40,000 horse.
+- **Pyrrhic restoration:** Siroes restores standards, prisoners, true cross; Persians evacuate Syria/Egypt; “a war which had wounded the vitals of the two monarchies, produced no change in their external and relative situation”; 200,000 soldiers lost less fatal than decay of arts/agriculture/population.
+- **Arab reverse:** “in the last eight years of his reign, Heraclius lost to the Arabs the same provinces which he had rescued from the Persians”; “infirm and frigid age… could [not] be kindled to a second effort”; losses of Damascus, Jerusalem, Aiznadin, Yermuk partly from absence/misconduct; weeps sins and embarks from Syria.
+- **Moral climate (Gibbon):** Saracens “invincible in fact, since they were invincible in opinion” — emperor’s Antioch confession of vain/impious resistance (see [[islamic-conquests-seventh-eighth-centuries]], [[battle-of-yarmuk-636]]).
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/gibbon-edward]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Attributed claims from [[sources/mitchell-later-roman-empire-2015|Stephen Mitchell, *A History of the Later Roman Empire* (2015)]].
+
+- **Coup 608–610 from Africa.** Exarch Heraclius at Carthage sent nephew Nicetas’ fleet to seize Alexandria and cut Constantinopolitan grain; Cyprus taken. Sept 610 son Heraclius sailed warships to the capital; Greens opened harbors. Father and son had for two years issued coinage with consular insignia — asserting standing while denying Phocas’ legitimacy. Phocas killed 5 Oct 610; Heraclius proclaimed emperor. Reign 610–641 encompassed “the last great struggle between the Roman and Sassanian empires, the surrender of Roman control in the Balkans, and the collapse of the empire in the Near East and Egypt.”
+- **Nadir 622–23: dual Avar–Persian pressure.** Full-scale Sassanian attack coincided (by design) with Avar Balkan onslaught; 623 ambush beyond the long walls nearly captured the emperor; Rhodes seized 623 and inhabitants deported. “Their hands were at the empire’s throat.”
+- **Counteroffensive 624–28: Azerbaijan, Nineveh, Khusro overthrown.** Field army through NE Anatolia into Christian Azerbaijan; destroyed fire-temple at Takht-e Suleiman; winters in Albania/Lake Van. 627: alliance with western Turkic Khagan; December crossed Zagros, defeated a large army near Nineveh; advanced on Ctesiphon axis. Khusro II overthrown and murdered; treaty restored the pre-591 frontier. Later: True Cross restored; Heraclius first Roman emperor to enter Jerusalem for the Cross ceremony; Persia imploded toward Yazdgird III.
+- **State transformation under existential stress.** Broke with 200+ years of tradition by leading forces in person; cavalry emphasis reversed toward cheaper infantry; Balkans defense abandoned; drew on church wealth — “They, more than any other communities… paid the price for the survival of the Byzantine Empire.” From 615 hexagram silver coins for pay/subsidies (likely melted church silver), legend *Deus adiuta Romanis*. Fiscal nadir: under Phocas and early Heraclius, “Rome had by now altogether lost its capacity to tax provincial landowners”; confiscated Church silver became bullion to pay the counter-offensive. Related: [[roman-imperial-taxation-and-fiscal-system|imperial taxation]]; [[islamic-conquests-seventh-eighth-centuries|Islamic conquests]]; [[battle-of-yarmuk-636|Yarmuk]].

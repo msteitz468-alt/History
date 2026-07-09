@@ -6,7 +6,7 @@ date_precision: century
 period: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
 region: [anatolia, balkans, "mediterranean-world", levant, aegean]
 process_type: economic
-sources_ingested: [1]
+sources_ingested: [2]
 last_updated: "2026-07-08"
 tags: [process, "late-antiquity", "early-middle-ages", "high-middle-ages", "late-middle-ages", "byzantine-empire", mediterranean, economic]
 driven_by: [the fiscal and administrative apparatus of the state, demographic cycles, Mediterranean agriculture and maritime trade, the demand of Constantinople and the elite, monetary continuity (the gold nomisma)]
@@ -159,4 +159,10 @@ until the Ottomans re-established political integration by conquest in 1453.
 - [[byzantine-empire|The Byzantine Empire]] · [[constantinople|Constantinople]]
 - [[late-roman-economy|The late Roman economy]] (its antecedent)
 - [[latin-romania-economy|Latin Romania — economic patterns]]
-- Source: [[laiou-morrisson-byzantine-economy-2007|Laiou & Morrisson, *The Byzantine Economy* (2007)]]
+- Source: [[laiou-morrisson-byzantine-economy-2007|Laiou & Morrisson, *The Byzantine Economy* (2007)]] · [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+For Mitchell the eastern late-antique/early Byzantine economy is structured by: (1) Constantinople’s annona magnet reshaping Egypt and S Asia Minor; (2) long eastern peacetime prosperity until mid-sixth-century war/plague; (3) persistent civic culture and town–country symbiosis; (4) tension between central fiscal recovery (Justinian) and indispensable provincial magnates; (5) Mediterranean maritime orientation after Balkan land routes failed. This frames **continuity into the Byzantine economy** rather than a clean post-Roman rupture in the East. “Here cities continued to flourish at least until the middle of the sixth century, and in some regions much later… The extraordinarily high levels of urban prosperity and the large populations of the eastern empire were only threatened when the Roman state was no longer able to deploy its military force and diplomatic skills to protect them.” `preceded_by:` [[late-roman-economy]]; `concurrent_with:` [[roman-imperial-taxation-and-fiscal-system]], [[justinianic-plague-541]].
+
+Source: [[mitchell-later-roman-empire-2015]]

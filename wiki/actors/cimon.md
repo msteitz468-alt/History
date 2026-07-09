@@ -9,8 +9,8 @@ affiliated_with: [[[athens]], [[delian-league|the Delian League]], the pro-Spart
 opposed_by: [[[themistocles]], [[ephialtes]], [[pericles]]]
 key_events: [the capture of Eion and Scyros, the battle of the Eurymedon, the Thasian war 465–463 BCE, the rebuff at Ithome and his ostracism 461 BCE, recall and death at Citium 450 BCE]
 key_processes: [the expansion of [[delian-league|the Delian League]], Athenian–Spartan cooperation]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, aegean]
 ---
 
@@ -62,11 +62,19 @@ fall in 461 marks the decisive turn: Athens abandoned the Spartan alliance, embr
 the memory of the Persian Wars (Marathon vs. Salamis, army vs. fleet) shaped Athenian politics
 for a generation.
 
+## OHCW (Boardman/Griffin/Murray 1986) — Hornblower, Boardman
+
+[[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]]:
+
+**Eurymedon and empire growth (Hornblower Ch.6).** Athenian power expanded in the 470s–460s with offensive against Persia; climax in the early 460s when Cimon won the battle of the Eurymedon in Pamphylia; mid-460s Thasos revolt was another landmark. Imperial revenue “greatly increased as a result of Cimon’s operations in the early 460s,” making possible the 462 democratic changes of Ephialtes and Pericles—so democracy was “paid for by the allies.” Cimon and Pericles, by political and military leadership, brought public wealth for Acropolis building and, via the liturgy system, financed festivals.
+
+**Pre-Periclean patronage (Boardman Ch.12).** After Persian destruction, Cimon-era private/public projects included the Theseus shrine and Painted Stoa, before Pericles’ League-funded rebuilding program.
+
 ## Related
 
 - Family/rivals: [[miltiades]] (father) · [[themistocles]] · [[ephialtes]] · [[pericles]] ·
   [[alcmaeonids]]
 - Campaigns: [[delian-league]] · [[battle-of-marathon-490bce|Marathon (his father)]] ·
-  [[peace-of-callias-449bce]]
+  [[peace-of-callias-449bce]] · [[athenian-empire]]
 - Politics: [[athenian-democracy]] · [[ostracism]] · [[sparta]] · [[ephialtes-reform-462bce]]
-- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Chs. 3–4, Rhodes)
+- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Chs. 3–4, Rhodes) · [[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]] (Hornblower Ch.6; Boardman Ch.12)

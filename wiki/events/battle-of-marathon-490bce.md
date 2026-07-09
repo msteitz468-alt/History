@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [Persian vengeance for Athenian help in the [[ionian-revolt-499bce|Ionian Revolt]] (the burning of Sardis), Darius' policy of westward expansion, the ambition to restore the tyrant Hippias]
 consequences: [the repulse of the first Persian invasion, the surge of Athenian confidence and the founding-legend of the democracy, the stiffening of Greek will before Xerxes, the rise of Miltiades and the prelude to the great invasion of 480]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, central-greece, greece]
 ---
 
@@ -93,9 +93,38 @@ battle, explained by Hammond as away watering, not absent from Marathon), the **
 structure** (polemarch vs. generals), and Grote's attempt to **re-date** the Aegina war —
 which Hammond rejects, since Herodotus *and* Thucydides anchored events to Marathon.
 
+### Osborne (2000)
+
+[[sources/osborne-classical-greece-2000|Osborne (ed., 2000)]] (Ch. 7, Kallet) corroborates
+Herodotus's figures — about 6,400 Persian dead against 192 (of 10,000) Athenian dead —
+while flagging them as Herodotus's own reckoning rather than an independently verified
+count. Osborne stresses the victory's significance for Athenian self-image above its strategic
+weight: it was the **first time other Greeks took serious notice of Athens**, a city whose
+archaic-period impact on the wider Greek world had been minimal, and it fixed itself so deeply
+in Athenian identity that **Aeschylus's own epitaph** celebrated his part in the Marathon
+victory without a word about his tragedies.
+
+### Hall (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]: after Carystus, Eretria fell after seven-day siege through betrayal; temples sacked, inhabitants enslaved eastward; Persian fleet sailed to Marathon with ex-tyrant Hippias hoping for reinstallation as Persian vassal. ~9,000 Athenians camped near Heracles sanctuary; Phidippides sought Sparta but Carnea delayed them until full moon; 1,000 Plataeans aided Athens; Persian numbers exaggerated but likely ≥2:1 advantage; command rotated among ten Cleisthenic tribal *stratêgoi*; Datis re-embarked cavalry believing Athenians would not fight. Tactics: charge across ~1 mile; center thinned, wings strengthened; Persians broke center (Aristides/Themistocles’ tribes) but wings enveloped; Persians bogged in marshes; 192 Athenians including polemarch Callimachus vs traditional 6,400 Persian dead; fleet failed to beat army back to Athens. From Persian perspective not a major catastrophe. Post-Marathon ostracisms of Pisistratid/Alcmaeonid associates and Medism accusations reflect demotic critique of elite eastern luxury as well as treason fear after Hippias at Marathon.
+
+### CHGRW contribution
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|Whitby (CHGRW I.3)]]:
+Marathon reconstruction problems — Herodotus compatible with Nepos’ Miltiades but seems
+ignorant of local topography; open questions on Persian cavalry location and why Athenians
+attacked before Spartan help; Hodge’s geography supports older hypothesis that cavalry had
+already embarked and Athenians struck for fear of treachery in the city. Wheeler (I.6): no
+detailed Greek battle account exists before Herodotus on Marathon — a Greek–barbarian clash
+outside agonal rules and steeped in Athenian propaganda; Aristophanes *Vesp.* 1085 veterans
+equate fighting and pushing (“we pushed them… until evening”) as audience recognition of
+*othismos*, not tactical precision. van Wees (I.9): Marathon’s 9,000 Athenian hoplites refute
+claim that lower-status hoplite recruitment is only classical — far exceeds highest property
+classes alone.
+
 ## Related
 
 - Defenders: [[places/athens|Athens]] · Plataea · architect: [[miltiades]] · polemarch Callimachus · invader: [[achaemenid-empire]] (Datis & Artaphernes)
 - Prelude: [[ionian-revolt-499bce]] · [[sardis]] (burning) · base: [[thrace]] (Skudra) · medizer: [[aegina]]
 - Sequel: Xerxes' invasion (480) · Source-critique: [[herodotus-reliability]]
-- Period: [[classical-antiquity]] · Source: [[boardman-cah-v4-1988]] (Ch. 9, N. G. L. Hammond)
+- Period: [[classical-antiquity]] · Sources: [[boardman-cah-v4-1988]] (Ch. 9, N. G. L. Hammond); [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] · [[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]]

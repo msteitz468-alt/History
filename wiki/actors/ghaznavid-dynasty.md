@@ -20,8 +20,8 @@ key_events:
 key_processes:
   - military-patronage-state
   - islamization of South Asia
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, dynasty, High Middle Ages, iran-plateau, central-asia, south-asia]
 ---
 
@@ -55,7 +55,7 @@ Ghazna under Mahmud became — partly by means of "forced residence for writers"
 
 Subsequent Ghaznavid rulers abandoned all provinces west of the Afghan mountains. Under **Ibrahim** (1059–1099) the dynasty found a "viable political idea": combining Muslim Afghan mountaineers as military power with the rich tax-paying Hindu peasants of the Panjab plain. The capital eventually moved to Lahore.
 
-The later Ghaznavids and their heirs the Ghurids framed their continuing Indian wars as jihad — a frame that "could recruit volunteers from distant Muslim lands at need." This political idea proved durable until the Ghurids themselves took Ghazna (1173) and Lahore (1186), "restoring the old Ghaznavid pattern on their own account."
+The later Ghaznavids and their heirs the Ghurids framed their continuing Indian wars as jihad — a frame that "could recruit volunteers from distant Muslim lands at need." This political idea proved durable until the Ghurids themselves took Ghazna (1173) and Lahore (1186), "restoring the old Ghaznavid pattern on their own account." Formichi (2020) stresses that it was this Ghurid takeover — not the Ghaznavid period itself — that opened India significantly further to Muslim rule: [[ghurid-dynasty|Ghurid]] leader Qutb al-Din Aybak entered Delhi under Muhammad Ghuri and, on the latter's death, founded the Mamluk (Slave) dynasty, the first of the five dynasties comprising the [[delhi-sultanate]].
 
 ## Historical Significance
 

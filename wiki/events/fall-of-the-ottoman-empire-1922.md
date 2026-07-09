@@ -14,8 +14,8 @@ scale_immediate: regional
 scale_consequential: global
 causes: [the contradictions of [[tanzimat-reforms|reform]] & autocracy, the [[eastern-question|Eastern Question]] & territorial losses, defeat in the Balkan Wars, the choice of the German side in WWI]
 consequences: [the Armenian genocide, the loss of the Arab provinces, the abolition of the sultanate (1922) & caliphate (1924), the founding of the Turkish Republic, the modern Middle East state system]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, transition, world-wars-era, near-east, anatolia, islamic-world]
 ---
 
@@ -81,6 +81,24 @@ as president. The **caliphate was abolished in 1924**.
   [[tanzimat-reforms|Tanzimat]] radicalized by Atatürk), against the myth of a *tabula rasa*.
 - `enabled:` the persistence of the "[[eastern-question|Sèvres syndrome]]" — a lasting Turkish
   fear of foreign dismemberment.
+
+## Asian Reverberations of the Caliphate's Abolition (Formichi)
+
+Chiara Formichi's [[formichi-islam-and-asia-2020|*Islam and Asia: A History*]] (2020) traces how
+the **abolition of the Caliphate in March 1924** — separating religion from politics in the new
+Turkish Republic — sent shockwaves across Asian Muslim communities far from Anatolia. In British
+India the [[khilafat-movement|Khilafat Movement]] (All-India Khilafat Committee, founded 1919) had
+already mobilized Sunni, Shi'i, Ahmadi, and even sympathetic Hindu participants around defending
+the Ottoman Caliphate, feeding Gandhi's non-cooperation campaign (1919–21); its momentum collapsed
+with the abolition it had fought to prevent. In the Dutch East Indies, [[sarekat-islam|Sarekat
+Islam]]'s Central Caliphate Committee (Surabaya, October 1924) drafted a proposal for a
+consultative, elected Caliphate for the 1924 Cairo congress, but Indonesian delegates were
+conspicuously silent at the 1926 Mecca congress. In Soviet Central Asia, the former Young Turk
+leader **Enver Pasha** briefly led the anti-Soviet [[basmachi-movement|Basmachi]] resistance in the
+name of pan-Turkic/pan-Islamic revival before his death in battle (August 1922). The 1926 Cairo and
+Mecca congresses — with delegates from the Dutch East Indies, India, and the Soviet Union — never
+agreed on a successor Caliph, marking the practical end of the transnational Caliphate as an
+organizing framework for 20th-century Muslim Asia.
 
 ## Significance
 

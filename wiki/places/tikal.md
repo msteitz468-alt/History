@@ -7,7 +7,7 @@ period_active: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middl
 controlled_by: ["[[maya-civilization]] (Mutal dynasty and predecessors)"]
 events_here: ["Late Preclassic urban/defensive works", "Early Classic Teotihuacan-related dynasty (Smoking Frog / Curl Nose / Stormy Sky)", "Possible defeat by Calakmul 562 CE", "Hiatus (534–593 CE)", "Late Classic apogee", "Classic Maya collapse"]
 processes_here: ["[[mesoamerican-state-formation]]", "[[mesoamerican-preclassic]]", "[[urbanization]]"]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [place, mesoamerica, maya, late-antiquity]
 ---
@@ -48,8 +48,22 @@ The **Hiatus (A.D. 534–593)** — few dated monuments in the central lowlands,
 
 ## Collapse
 
-Monument-carving and political order failed in the ninth-century [[maya-classic-collapse-800ce|Classic collapse]]; Tikal and northern Petén centers persisted somewhat longer than western sites such as [[palenque|Palenque]]. Post-collapse Petén continuity on fortified lake peninsulas (Topoxte on Yaxha, etc.) continued Classic traditions until after Spanish Conquest (Hammond).
+Monument-carving and political order failed in the ninth-century [[maya-classic-collapse-800ce|Classic collapse]]; Tikal and northern Petén centers persisted somewhat longer than western sites such as [[palenque|Palenque]]. Post-collapse Petén continuity on fortified lake peninsulas (Topoxte on Yaxha, etc.) continued Classic traditions until after Spanish Conquest (Hammond). Last Long Count date at Tikal **A.D. 889** (Tonina **909**) — Evans & Webster / Maya Culture and History entries.
+
+## From Evans & Webster 2001
+
+Peter D. Harrison’s **Tikal** entry and cross-cutting Maya Culture and History / southern Lowlands entries add a dense dynastic and architectural package (link: [[evans-webster-archaeology-ancient-mexico-central-america-2001]]).
+
+**Occupation span.** First occupied in the Middle Formative ceramic phase around **800 B.C.**, continuing until around **A.D. 900** — about **1,700 years** total occupation. Collapse was slow (**50–100 years**), not overnight.
+
+**Core monuments.** Focus on the Great Plaza (North Acropolis, Temples I–II, Central Acropolis); **Temple IV >70 m** tallest; twin-pyramid groups nearly unique (Complexes N, O, P, Q, R). Stelae/altars and wooden lintels source dynastic history; Temple VI roof-comb text spans **1139 BCE–A.D. 766**. Contemporary inscriptions run **A.D. 292** (Stela 29) to **869** (Stela 11). A **125-year hiatus** between Early and Late Classic inscriptions is interpreted as domination by another city, **possibly [[caracol|Caracol]]** in Belize. Texts show Tikal central but one of several principal Lowland cities — not sole Maya “capital.”
+
+**Dynasty (Harrison).** Founded by **Yax-Moch-Xoc** (~A.D. 270); **31 successors** before collapse. Early Classic Teotihuacan influence peaks under **Nu Yax-Ain** (Curl Snout; accession **379**, death **420**; Burial 10) — contents of Burial 10 show Teotihuacan influence at peak during Yax-Ain’s forty-one-year reign. **Hasaw Kan K’awil** (Ruler A; accession **682**) defeated [[calakmul|Calakmul]]’s king (also named Chac-To-Ich’ak) in **695**, ending a major anti-Tikal campaign and ending 125 years of “darkness”; built Temple I (his tomb Burial 116), Temple II (wife Lady Twelve Macaw), twin-pyramid groups; died ~**734**. Son **Yik’in Kan K’awil** (**734–766**) built Temple IV; conquered El Perú and Naranjo. Peak glory under three patrilineal rulers over ~**118 years**.
+
+**Geopolitics.** Shield Skull (Hasaw’s father) conquered Dos Pilas (**672**) as part of the ongoing Tikal–Calakmul feud. Martin and Grube model: Calakmul and Tikal as the two most powerful lowland kingdoms competing for allegiance of smaller southern centers. Each Tikal ruler titled *K’ul Mutul Ahaw* (“Divine Lord of Mutul”). Dos Pilas major occupation began in the seventh century when outcast Tikal royalty founded the center and later defeated and sacrificed a Tikal king. Caracol texts claim conquest of Tikal in **562**. Late Classic demographic estimates put ~**100,000** people around Tikal and rural densities exceeding **190 persons/km²**.
+
+**Research intensity.** Among Classic Maya centers, only Tikal matches [[copan|Copán]] for history of intensive research (Webster, Copán entry).
 
 ## Related
 
-[[maya-civilization]] · [[calakmul]] · [[palenque]] · [[copan]] · [[chichen-itza]] · [[teotihuacan]] · [[maya-classic-collapse-800ce]] · [[mesoamerican-state-formation]] · [[mesoamerican-calendar]] · [[what-defines-a-city]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Hammond Ch. 5; Adams Ch. 1)
+[[maya-civilization]] · [[calakmul]] · [[caracol]] · [[palenque]] · [[copan]] · [[chichen-itza]] · [[el-mirador]] · [[teotihuacan]] · [[maya-classic-collapse-800ce]] · [[mesoamerican-state-formation]] · [[mesoamerican-calendar]] · [[what-defines-a-city]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Hammond Ch. 5; Adams Ch. 1) · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster encyclopedia]]

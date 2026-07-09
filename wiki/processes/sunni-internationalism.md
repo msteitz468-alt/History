@@ -28,8 +28,8 @@ produces:
   - "Islamization of Anatolia, India, sub-Saharan Africa"
   - "Resilience through Mongol conquest"
   - "[[tariqa-orders]] as social cement"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags:
   - process
   - High Middle Ages
@@ -89,6 +89,26 @@ The process originated in the Nile-to-Oxus heartland and spread outward through 
 ## End Conditions
 
 The process in its classic form ended with the Mongol conquest of 1258 (fall of Baghdad) as a political moment, but its institutional products — madrasas, tariqas, waqf endowments — survived and enabled the recovery. Hodgson's larger argument is that this process created a form of Islamic civilization that was *more* resilient than the caliphal form precisely because it did not depend on political centralization. The "end" of the Abbasid caliphate was thus not the end of Sunni internationalism but rather its ultimate test and proof.
+
+## A Modern Echo: Ottoman Pan-Islamism as Failed Political Unification (Formichi)
+
+Chiara Formichi's [[formichi-islam-and-asia-2020|*Islam and Asia: A History*]] (2020) discusses a
+structurally different, twentieth-century attempt at trans-regional Sunni coordination —
+Abdülhamid II's and later the Ottoman state's pan-Islamism — that is worth distinguishing sharply
+from Hodgson's medieval "Jama'i-Sunni" synthesis above. Where the medieval synthesis worked
+*without* central political authority, the Ottoman project sought explicit political unification
+around the Caliph, and Formichi (citing Cemil Aydin) argues it largely **failed**: the 1914 "Jihad
+Fatwa" calling Muslims worldwide to arms against Britain, France, and Russia went unheeded outside
+narrow circles, because Ottoman pan-Islamism "had to avoid appearing anti-imperialist" and aimed at
+dynastic legitimacy rather than genuine anti-colonial mobilization. Jacob Landau (cited by Formichi)
+attributes the fatwa's failure to weak organization, Entente counter-propaganda, the CUP's own
+secularism, cooperative colonial Muslim elites, and theological objections to fighting alongside a
+Christian ally (Germany). The 1907 Cairo pan-Islamic congress (organized by the Crimean Tatar
+**Ismail Gasprinskii**) and the 1926 Cairo/Mecca congresses after the Caliphate's 1924 abolition
+were likewise attempts at formal, centralized Sunni coordination that failed to produce lasting
+institutions — the opposite trajectory from the diffuse, institutionally resilient synthesis Hodgson
+describes for the medieval period. See [[ottoman-empire]] and [[fall-of-the-ottoman-empire-1922]]
+for the fuller narrative.
 
 ## Historiography
 

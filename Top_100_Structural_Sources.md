@@ -2,7 +2,7 @@
 **Focus Area:** Hub/Civilizations & Hub/Regions Expansion  
 **Protocol:** Large-Volume Protocol (Macro-structural baselines prior to discrete extraction)
 
-**Acquisition Status:** ✅ = already ingested (source page + pages created in wiki). **[MISSING]** = not acquired in raw/. See CLAUDE.md for this being the active ingest list. (Current: 29 completed, 18 missing.)
+**Acquisition Status:** ✅ = already ingested (source page + pages created in wiki). **[MISSING]** = not acquired in raw/. See CLAUDE.md for this being the active ingest list. (Current: 77 completed, 15 missing.)
 
 ---
 
@@ -61,38 +61,38 @@
 37. **George Rawlinson** - *The Five Great Monarchies of the Ancient Eastern World Or, The History, Geography, and Antiquities of Chaldea, Assyria, Babylon, Media, and Persia* **[FILE MISMATCH]** — the .md present under this name (and queued) is actually Anatoly T. Fomenko, *History: Fiction or Science?* (2003 Delamere English ed. of New Chronology). Ingested 2026-07-02 as Fomenko artifact-mode source (see sources/fomenko-history-fiction-or-science-2003 + linked concept/controversy/actor). Rawlinson source still required.
 
 ### 6. Archaic & Classical Greece
-38. **John Boardman, Jasper Griffin, Oswyn Murray** - *The Oxford History of the Classical World: Greece and the Hellenistic World*
-39. **Jonathan M. Hall** - *A History of the Archaic Greek World, ca. 1200-479 BCE*
-40. **Robin Osborne** - *Classical Greece 500-323 BC*
-41. **Peter Thonemann, Peter James** - *The Hellenistic Age*
+38. **John Boardman, Jasper Griffin, Oswyn Murray** - *The Oxford History of the Classical World* (1986; full Greece–Rome survey) ✅ (ingested 2026-07-08 via Deployed Subagent Strategy two-stage; 13 created / ~110 updated; philosophy/drama/literary gap-fill + attributed political overlay; source [[sources/boardman-oxford-history-classical-world-1986]])
+39. **Jonathan M. Hall** - *A History of the Archaic Greek World, ca. 1200-479 BCE* ✅ (ingested 2026-07-08 via Deployed Subagent Strategy two-stage; 25 created / 43 updated; method anchor for Archaic Greece — Lelantine/Sacred War historicity, hoplite-revolution debate, Spartan mirage, panhellenism; source [[sources/hall-history-archaic-greek-world-2014]])
+40. **Robin Osborne** - *Classical Greece 500-323 BC* ✅ (ingested 2026-07-08 via Deployed Subagent Strategy; 6 created / 28 updated; thematic/structural companion to Hall's archaic volume — polis as social system, the classical economy, war as civic institution, the oikos, stasis & political thought; source [[sources/osborne-classical-greece-2000]])
+41. **Peter Thonemann** - *The Hellenistic Age* (OUP, 2016) ✅ (ingested 2026-07-08; 5 entity pages created + source, 10 updated; short thematic survey complementing Walbank/CAH)
 42. **Mogens Herman Hansen** - *Polis: An Introduction to the Ancient Greek City-State* ✅ (ingested 2026-06-27 via Deployed Subagent Strategy; 1 page created, 5 updated; primary anchor for [[concepts/polis]])
 
 ### 7. Rome & The Classical Mediterranean
-43. **Walter Scheidel, Ian Morris, Richard P. Saller** - *The Cambridge Economic History of the Greco-Roman World*
+43. **Walter Scheidel, Ian Morris, Richard P. Saller** - *The Cambridge Economic History of the Greco-Roman World* ✅ INGESTED (2026-07-08; deployed subagent strategy, 28 chapters; created 21 economic pages — ancient-economy debate, efflorescence, ecology/demography/household/law determinants, Mycenaean→classical Greek→Hellenistic→Ptolemaic→Roman-imperial→provincial/Egyptian economies, taxation/consumption, colonatus; 3 controversies; updated 27 backbone pages)
 44. **Mary T. Boatwright, Daniel J. Gargola, Richard J. A. Talbert** - *The Romans From Village to Empire: A History of Rome from Earliest Times to the End of the Western Empire* **[MISSING]**
-45. **Edward Gibbon** - *History of the Decline and Fall of the Roman Empire*
+45. **Edward Gibbon** - *History of the Decline and Fall of the Roman Empire* ✅ INGESTED (2026-07-08; two-stage interpretive-layer ingest of full 6 vols ~1.16M words; created source + gibbon-edward + gibbonian-decline-thesis; ~90 updates — fall controversies, Christianization, Late Antiquity, major actors/events Antonines→1453; claims attributed not asserted against modern scholarship)
 46. **Peter Heather** - *The Fall of the Roman Empire: A New History of Rome and the Barbarians* ✅ INGESTED (2026-06-27; externalist thesis — Hunnic shock + fiscal spiral; created Attila page, spliced into fall controversy/event, Adrianople, Huns, Alaric, Stilicho, Late Antiquity)
-47. **William Vernon Harris** - *Roman Power: A Thousand Years of Empire*
-48. **Stephen Mitchell** - *A History of the Later Roman Empire, AD 284-641*
-49. **Greg Woolf** - *Rome: An Empire's Story*
+47. **William Vernon Harris** - *Roman Power: A Thousand Years of Empire* ✅ INGESTED (2026-07-08; two-stage deployed strategy; created roman-power + durability-and-docility concepts; updated imperialism/fall controversies, AD 16 brake, Yarmuk end-of-empire thesis; 3 created / 32 updated)
+48. **Stephen Mitchell** - *A History of the Later Roman Empire, AD 284-641* ✅ INGESTED 2026-07-08 (Blackwell 2e survey 284–641; Ch13 fiscal-military+plague synthesis; 11 created / ~100 updated)
+49. **Greg Woolf** - *Rome: An Empire's Story* ✅ INGESTED 2026-07-08 (long-arc empire-as-pattern synthesis; imperial-ecology; companion to Harris Roman Power; 2 created / ~70 updated)
 50. **H. H. Scullard** - *From the Gracchi to Nero: A History of Rome 133 BC to AD 68* **[MISSING]**
-51. **Harriet I. Flower** - *Roman Republics*
+51. **Harriet I. Flower** - *Roman Republics* ✅ INGESTED 2026-07-08 (multi-republics periodization; 2 created / 38 updated; interpretive layer on fall-of-republic + Sullan New Republic)
 52. **Simon Esmonde Cleary** - *The Roman West, AD 200–500: An Archaeological Study* **[MISSING]**
 53. **Warwick Ball** - *Rome in the East: The Transformation of an Empire* ✅ INGESTED 2026-07-08
-54. **Greg Fisher** - *Rome, Persia, and Arabia: Shaping the Middle East from Pompey to Muhammad*
+54. **Greg Fisher** - *Rome, Persia, and Arabia: Shaping the Middle East from Pompey to Muhammad* ✅ INGESTED 2026-07-08 (pre-Islamic Arab backbone: super-phylarchate, Jafnids/Lakhmids, Himyar, al-Hira, Najran massacre, Mavia; state/tribe + "Germans and Arabs" frame; 20 pages created, 14 updated)
 55. **Samuel N. C. Lieu, Geoffrey Greatrex** - *The Roman Eastern Frontier and the Persian Wars AD 363-628* **[MISSING]**
 56. **John Haldon** - *The Empire That Would Not Die: The Paradox of Eastern Roman Survival, 640–740*
 57. **Richard Miles** - *Carthage Must Be Destroyed: The Rise and Fall of an Ancient Civilization* ✅ INGESTED 2026-06-27 (cultural/religious/historiographical layer over existing military backbone; Heracles–Melqart thesis, *fides Punica*, tophet debate)
-58. **Dexter Hoyos** - *Hannibal's Dynasty: Power and Politics in the Western Mediterranean, 247-183 BC*
+58. **Dexter Hoyos** - *Hannibal's Dynasty: Power and Politics in the Western Mediterranean, 247-183 BC* ✅ INGESTED 2026-07-08 (Barcid family as a republican ruling dynasty; new pages: barcid-dynasty, Hasdrubal the Fair, Mago Barca, Hasdrubal son of Gisco, "Did Carthage abandon Hannibal?" controversy; Hannibal's sufeteship reforms + Carthaginian constitution; 5 created, 10 updated)
 59. **Charles Freeman** - *Egypt, Greece, and Rome: Civilizations of the Ancient Mediterranean*
 60. **Jonathan R. W. Prag, Josephine Crawley Quinn** - *The Hellenistic West: Rethinking the Ancient Mediterranean* **[MISSING]**
 61. **Richard J. A. Talbert** - *Atlas of Classical History*
-62. **Philip Sabin, Hans van Wees, Michael Whitby** - *The Cambridge History of Greek and Roman Warfare - 2 Volume Set*
+62. **Philip Sabin, Hans van Wees, Michael Whitby** - *The Cambridge History of Greek and Roman Warfare - 2 Volume Set* ✅ INGESTED 2026-07-08 (Deployed Subagent Strategy two-stage: 11 extractors ~949 claims; 4 page-owned integrators; 6 created / 50 updated; thematic Cambridge spine for Greek–Roman warfare)
 
 ### 8. South & Southeast Asia
 63. **Burjor Avari** - *India: The Ancient Past: A History of the Indian Subcontinent from c. 7000 BCE to CE 1200*
 64. **Romila Thapar** - *The Past Before Us: Historical Traditions of Early North India* **[MISSING]**
-65. **John Norman Miksic, Goh Geok Yian** - *Ancient Southeast Asia*
+65. **John Norman Miksic, Goh Geok Yian** - *Ancient Southeast Asia* ✅ INGESTED 2026-07-08 (Deployed Subagent Strategy two-stage: 8 claims extractors ~1,350 claims; 4 page-ownership integrators; 15 created / 36 updated; archaeological spine for Critical Gap 3)
 
 ### 9. British Isles & Early Medieval West
 66. **Hugh Kearney** - *The British Isles: A History of Four Nations* **[MISSING]**
@@ -103,21 +103,21 @@
 71. **Chris Wickham** - *Medieval Europe* ✅ ingested 2026-06-27
     - *Framing the Early Middle Ages: Europe and the Mediterranean, 400–800* (2005) ✅ ingested 2026-07-08 — deep structural companion to #71; source [[sources/wickham-framing-the-early-middle-ages-2005]]
 72. **David Abulafia, Nora Berend** - *Medieval Frontiers: Concepts and Practices* ✅ ingested 2026-07-08 — anchor for [[concepts/medieval-frontier]]; source [[sources/abulafia-berend-medieval-frontiers-2002]]
-73. **F. Donald Logan** - *A History of the Church in the Middle Ages* **[MISSING]**
+73. **F. Donald Logan** - *A History of the Church in the Middle Ages* **[ingested ✅ 2026-07-08]** — Routledge 2nd ed. 2013; source page [[sources/logan-history-of-the-church-in-the-middle-ages-2013]]; filed `raw/3. Middle Ages/`.
 
 ### 10. Medieval Middle East & Islamic World
 74. **Peter Sarris** - *Empires of Faith: The Fall of Rome to the Rise of Islam, 500-700* ✅ INGESTED 2026-06-27 ([[sources/sarris-empires-of-faith-2011]])
-75. **Jack Tannous** - *The Making of the Medieval Middle East: Religion, Society, and Simple Believers*
-76. **Mark R. Cohen** - *Under Crescent and Cross: The Jews in the Middle Ages*
+75. **Jack Tannous** - *The Making of the Medieval Middle East: Religion, Society, and Simple Believers* ✅ ingested 2026-07-08
+76. **Mark R. Cohen** - *Under Crescent and Cross: The Jews in the Middle Ages* ✅ ingested 2026-07-08
 77. **Brian A. Catlos** - *Muslims of Medieval Latin Christendom, c.1050–1614* **[MISSING]**
 78. **Firas Alkhateeb** - *Lost Islamic History: Reclaiming Muslim Civilisation from the Past* **[MISSING]**
-79. **Chiara Formichi** - *Islam and Asia: A History*
-80. **Shainool Jiwa** - *The Fatimids 1 - The Rise of a Muslim Empire*
-81. **Paul M. Cobb** - *The Race for Paradise: An Islamic History of the Crusades*
+79. **Chiara Formichi** - *Islam and Asia: A History* ✅ INGESTED 2026-07-08
+80. **Shainool Jiwa** - *The Fatimids 1 - The Rise of a Muslim Empire* ✅ INGESTED 2026-07-08 (source slug `jiwa-fatimids-rise-2018`)
+81. **Paul M. Cobb** - *The Race for Paradise: An Islamic History of the Crusades* ✅ INGESTED 2026-07-08 (source slug `cobb-race-for-paradise-2014`)
 82. **Jonathan Riley-Smith** - *The Oxford Illustrated History of the Crusades* **[MISSING]**
 83. **Norman Housley** - *Crusading in the Fifteenth Century: Message and Impact*
 84. **Angeliki E. Laiou, Roy Parviz Mottahedeh** - *The Crusades from the Perspective of Byzantium and the Muslim World*
-85. **Peter W. Edbury** - *The Kingdom of Cyprus and the Crusades*
+85. **Peter W. Edbury** - *The Kingdom of Cyprus and the Crusades* ✅ (ingested 2026-07-08; source slug `edbury-kingdom-cyprus-crusades-1991`)
 86. **Jacob G. Ghazarian** - *The Armenian Kingdom in Cilicia During the Crusades* ✅ (ingested 2026-06-27; source slug `ghazarian-armenian-kingdom-cilicia-2000`)
 
 ### 11. Sub-Saharan Africa
@@ -127,7 +127,7 @@
 
 ### 12. The Americas
 90. **Michael E. Smith, Frances F. Berdan** - *The Postclassic Mesoamerican World*
-91. **Susan Toby Evans, David Webster** - *Archaeology of Ancient Mexico and Central America: An Encyclopedia*
+91. **Susan Toby Evans, David Webster** - *Archaeology of Ancient Mexico and Central America: An Encyclopedia* ✅ (ingested 2026-07-08)
 92. **George L. Cowgill** - *Ancient Teotihuacan: Early Urbanism in Central Mexico* **[MISSING]**
 93. **Jeffrey Quilter** - *The Ancient Central Andes* **[MISSING]**
 94. **John Wayne Janusek** - *Identity and Power in the Ancient Andes: Tiwanaku Cities through Time* **[MISSING]**

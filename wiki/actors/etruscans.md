@@ -9,8 +9,8 @@ affiliated_with: [the Twelve-Peoples League at the Voltumna sanctuary, the Tarqu
 opposed_by: [the Western Greeks (Phocaeans, [[magna-graecia|Magna Graecia]], Syracuse), the Celts/Gauls, the expanding Roman Republic]
 key_events: [battle of the Sardinian Sea (Alalia) c. 540 BCE, sea-battle of Cyme/Cumae 474 BCE, Roman destruction of Veii 396 BCE]
 key_processes: [[[urbanization]], [[trade-network-formation]], [[state-formation]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, state, early-iron-age, archaic-period, italy]
 ---
 
@@ -160,12 +160,45 @@ votive at Veii confirming the Vibenna brothers). The systematic **looting** of
 Etruscan sites for the antiquities market — "the process, alas, continues" — has
 deprived thousands of vases of their context.
 
+## Language, society, and religion (Freeman)
+
+Charles Freeman ([[freeman-egypt-greece-rome-2014]], citing Sybille Haynes, *Etruscan
+Civilization*, 2000) adds: the Etruscan language is **non-Indo-European**, written in a
+Euboean-Greek-derived alphabet and largely deciphered, though its literary corpus is
+lost. Herodotus' "eastern origin" legend now has partial **genetic** support (a
+Turkey-linked variant found at Murlo), but the archaeological record still favours
+continuity from a proto-Etruscan Italian population — origins remain genuinely
+contested rather than resolved. Freeman also notes Etruscan **women** had markedly more
+public presence than Athenian norms (attending banquets as couples rather than with
+*hetairai*; inscriptions naming both parents) — a contrast Greek moralists such as
+Theopompus (4th c.) condemned as licentious, which Freeman treats as biased Greek
+commentary rather than accurate description. He speculatively suggests the Roman
+*triumph* ritual may derive from an Etruscan chieftain's victory-celebration custom
+(flagged explicitly as speculative, not established).
+
+## OHCW (Boardman/Griffin/Murray 1986) — Crawford
+
+Michael Crawford (Ch. 16) places Etruria among Italy’s diverse peoples: from the
+eighth century an advanced urban civilization arose by **internal evolution plus
+largely Greek influence** (Etruscan language neither Greek nor Italic); cities
+remained separate political entities. Rome’s material culture resembled Etruscan, but
+Rome was **never** culturally or politically a mere Etruscan dependency. Archaic
+openness included Etruscan adventurer-kings (Tarquinius Priscus and Superbus) and
+horizontal elite mobility. Crawford notes Etruscan and other local histories have
+almost vanished, leaving a ruthlessly Romanocentric literary tradition for early
+Rome. Heavy-armed free peasantry in the conquest wars implies free peasants among
+Etruscans despite literary stress on serfs. Post-Social-War Romanization saw bilingual
+then disappearing Etruscan texts as Latinization advanced (see [[romanization-of-italy]]).
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Ch. 16, Crawford).
+
 ## Related
 
 - Cities & homeland: [[etruria]] · the Tarquins at [[rome]] · neighbours: [[magna-graecia]] · [[carthage]] · [[italic-peoples]]
 - Contact: [[pithecusae]] (Euboean emporion) · trade: [[trade-network-formation]] · writing: [[languages-of-italy]]
 - City-form: [[city-state]] · [[urbanization]] · war: [[hoplite-warfare]] (adopted in the 6th c.)
 - Fall: [[battle-of-himera-480bce]] (Carthage's parallel defeat) · Period: [[archaic-period]]
-- Source: [[boardman-cah-v4-1988]] (Chs. 12–13, Ridgway) · [[sources/champion-prehistoric-europe-1984|Champion et al., Prehistoric Europe (1984)]] (Ch. 9-10 refs)
+- Source: [[boardman-cah-v4-1988]] (Chs. 12–13, Ridgway) · [[sources/champion-prehistoric-europe-1984|Champion et al., Prehistoric Europe (1984)]] (Ch. 9-10 refs) ·
+  [[boardman-oxford-history-classical-world-1986]] (Ch. 16, Crawford) · [[freeman-egypt-greece-rome-2014|Freeman, *Egypt, Greece, and Rome* (2014)]]
 
 **Grounded from Champion et al. 1984 Ch. 9-10 (R06 range 18501-22500):** New prestige burial rite (inhumation + 4-wheeled vehicle + chamber) "was also practised, as we have already seen in the previous chapter, in Etruscan Italy" (Ch. 9 p. 273). Central Europe "tried to imitate" Mediterranean (Etruscan/Italian) in defences (Heuneburg mud-brick), pottery, fashions. "Central European society was not just influenced by the Mediterranean world" (p. 292). Trade effects "from Russia to Spain"; "first Greek colonies in the west had been in central Italy, which was then assimilated" (p. 293). Temperate transformations "similar to those that had occurred in the Mediterranean region 500 years earlier" (Ch. 10 p. 298). Links to [[processes/urbanization-europe]], [[concepts/hallstatt-culture]] (parallel), [[places/etruria]]. Sources_ingested: 3; last_updated updated.

@@ -9,8 +9,8 @@ affiliated_with: [the Roman Senate, the Flavian and Trajanic regimes, Pliny the 
 opposed_by: []
 key_events: [his senatorial career (quaestor, praetor 88, consul 97, proconsul of Asia c. 112/13), the writing of the Histories and the Annals]
 key_processes: [the writing of imperial Roman history, the senatorial critique of the principate]
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]
 ---
 
@@ -72,6 +72,10 @@ analysis of tyranny, delation, the servility of the Senate and the theatre of po
 Western tradition its enduring vocabulary for the pathology of absolute rule (his influence runs
 through Gibbon to the modern critique of despotism).
 
+## OHCW (Lintott Ch. 26)
+
+**Andrew Lintott**: only about half of the major works survive (from two manuscripts). Born mid-first century CE; reached senatorial rank under the Flavians; wrote mainly under Trajan — *Historiae* (Flavian period 69–96), *Annales* (Julio-Claudians 14–68), plus *Agricola* panegyric; traditional concern with virtue and vice. Under autocracy, practical understanding of how an emperor’s mind worked made him admired by Renaissance realists (Machiavelli, Guicciardini). Reserved greatest admiration for survivors like himself and Agricola who achieved glory through compliance backed by energy, not ostentatious martyrdom. Classic [[tiberius]] portrait: hypocrisy as peeling skins of plausibility from a malevolent inner self — modern historians more often stress indecisiveness, reserve, mistrust. After Tacitus, Latin historical writing dried up for over two centuries; next great history of Rome was Greek (Cassius Dio); fourth-century Ammianus tried a Latin restart but explained little of fourth-century crises — the old framework had nothing new to say.
+
 ## Related
 
 - `produced:` the *[[tacitus-annals|Annals]]* and the *Histories*; `part_of:` the tradition of Roman historiography (after Sallust and [[livy|Livy]]).
@@ -79,3 +83,4 @@ through Gibbon to the modern critique of despotism).
 - `concurrent_with:` the friendship of **[[pliny-the-younger|Pliny the Younger]]** (whose
   *[[pliny-the-younger-letters|Letters]]* are addressed to Tacitus and are our richest source on his
   character) and the reigns of Nerva, Trajan and Hadrian.
+- Source: [[boardman-oxford-history-classical-world-1986]] (Lintott Ch. 26)

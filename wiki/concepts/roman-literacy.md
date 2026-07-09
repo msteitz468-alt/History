@@ -74,8 +74,22 @@ few — illuminating society, economy, religion, and government at once. The act
 whether Rome reached unusually high levels by pre-modern standards, remain contested on slender
 evidence.
 
+## Graffiti and Functional Literacy
+
+Keegan's study of [[ancient-graffiti|graffiti]] supplies concrete support for the
+"spectrum" view. He distinguishes **functional/craft literacy** — the ability to
+figure out and transmit a short message — from **scribal literacy**, and argues
+that the sheer volume and social range of informal writing (slave and ex-slave
+epitaphs, electoral *programmata*, advertising, verse graffiti quoting Ovid and
+Virgil, gladiators recording their own tallies, a slave witnessing his own sale)
+implies wider literacy — including among women and the enslaved — than
+population-percentage estimates capture. The ~11,000 Vesuvian texts and the
+Athenian Agora sherds are the densest datasets. Per
+[[keegan-graffiti-in-antiquity-2014|Keegan, *Graffiti in Antiquity*]].
+
 ## Related
 
+- Graffiti as functional-literacy evidence: [[ancient-graffiti]]
 - The literary high culture it underpinned: [[roman-literature-second-sophistic]]; the documentary
   caches (Vindolanda for the [[roman-imperial-army|army]], the Vesuvian archives for
   [[roman-money-and-finance|finance]])

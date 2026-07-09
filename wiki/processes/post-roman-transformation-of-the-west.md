@@ -8,7 +8,7 @@ region: [western-europe, italy, iberia, british-isles]
 process_type: [political, economic, religious]
 driven_by: [the dissolution of the Roman tax-state, the shift from office-based to land-based aristocratic power, the formation of the successor kingdoms, the reorientation of long-distance trade from the Mediterranean to the North Sea, the monetization of the northern commercial zone]
 produces: [the early medieval aristocracy, localized political community, the seedbed of feudal lordship]
-sources_ingested: 6
+sources_ingested: 9
 last_updated: 2026-07-08
 tags: [process, late-antiquity, early-middle-ages, western-europe, rome]
 ---
@@ -93,10 +93,57 @@ Four parameters structure post-Roman socio-economic change: fiscal strength/geog
 
 Weaker exchange implied simpler surplus extraction after ~550/600 in Francia and Italy until renewed intensification near 800, especially northern Francia. Systemic break in Frankish land management complete by the first Merovingian land documents; wine the major exception. Militarization of elites enabled non-urban aristocratic lifestyles; western Mediterranean urban involution begins in the **fifth** century (not seventh as in the East). See also [[demonetisation-of-the-post-roman-west]].
 
+## From Gibbon, *Decline and Fall* (moralized process sketch)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]]; not asserted as modern fact. Gibbon lacks Wickham’s tax/land analytics; useful as the classic Enlightenment moral frame against which modern process pages write.
+
+- **Gaul as microcosm.** Hardy Gauls, over four centuries, “melted” into the Roman citizen mass; when the Western empire dissolved, Germans who had crossed the Rhine contended for Gaul while polished provincials abhorred the “hairy northern savages” yet lacked courage to defend arts and nature’s advantages — *preceded_by* Romanization, *followed_by* German mastership, without modern fiscal mechanism.
+- **Unity dissolved before kingdoms solidify.** Formal end of single Roman legislation under Theodosius II / Valentinian III as legal precondition of dual successor worlds.
+
 ## Related
 
 - `produced:` the early medieval aristocracy and localized lordship; the seedbed of feudal society; the **[[wic|wic/emporium]]** network; the **[[sceatta]]** silver monetary zone
 - `driven_by:` the dissolution of the Roman tax-state and the fiscal collapse traced in the [[late-roman-army|army]] and [[late-roman-cities|cities]] chapters
 - `part_of:` the wider [[fall-of-the-western-roman-empire-476|fall of the western empire]]; `contrasts_with:` the [[byzantine-empire|East]], where the tax-state was replaced by the **[[theme-system|Theme System]]**
 - See also: **[[pirenne-thesis]]**; **[[tax-based-vs-land-based-states]]**; **[[politics-of-land]]**; **[[aristocratic-demand]]**; **[[peasant-mode-of-production]]**; **[[wergild]]**; **[[eigenkirche]]**
-- Sources: [[cameron-cah-v14-2000]] (Ch. 16, Chris Wickham); [[fouracre-ncmh-v1-2005]] (Chs. 2, 8, 21–25); [[mckitterick-ncmh-v2-1995]] (Ch. 3, Fouracre — the Carolingian culmination); [[wickham-framing-the-early-middle-ages-2005]] (esp. Chs. 3–5, 11; General Conclusions).
+- Sources: [[cameron-cah-v14-2000]] (Ch. 16, Chris Wickham); [[fouracre-ncmh-v1-2005]] (Chs. 2, 8, 21–25); [[mckitterick-ncmh-v2-1995]] (Ch. 3, Fouracre — the Carolingian culmination); [[wickham-framing-the-early-middle-ages-2005]] (esp. Chs. 3–5, 11; General Conclusions); [[sources/gibbon-decline-and-fall-1776]]
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- Successor kingdoms west of Adriatic/north of Balkans differed from Iron Age ancestral societies: new social structures from frontier time; most “barbarian” rulers Christian with kingship modeled on Roman emperor image.
+- Goths, Vandals, Burgundians “relied at first on tax systems descended from those established by Diocletian”; ruled from Roman cities, repaired monuments, patronized Roman scholars/churchmen; fifth–sixth-century administrations depended on elites still Roman in education/outlook; law codes (smaller-scale Theodosian imitation) sometimes enshrining multi-ethnic personal law.
+- “Roman civilization continued in some ways very much as before, until the arrival of Franks and Lombards from the north in the sixth century and Arabs in the seventh. But the empire was gone.”
+- Dual register: micro-level family/slavery = transformation; higher-level city/elite/fiscal systems = real collapse 300–700—“Using the language of transformation to describe what happened to the Roman Empire between ad 300 and 700 is an evasion” when measured in territory, population, influence, and military power.
+
+## From Mitchell, Later Roman Empire (2015)
+
+Mitchell’s western transformation narrative links military–fiscal erosion, barbarian nation-forging, villa/settlement archaeology, and the afterlife of Roman institutions.
+
+### East–West administrative contrast (fifth century)
+
+In the East, free of serious fifth-century military threats, administration, bureaucracy, civic base, and tax collection remained intact under Constantinople’s protocols. In the West, real power lay with *magistri militum* (Arbogast, Stilicho, Aetius, Ricimer) as the state relinquished military control, failed to maintain administration and the tax base, and split between Gallic and Italian landowning aristocracies even apart from Germanic takeover.
+
+### From foedus to kingdoms
+
+- Turning-point sequence: Valens’s **376** admission of Tervingi → [[battle-of-adrianople-378|Adrianople 378]] → Theodosius’s **382** Gothic *foedus* as controversial manpower solution under financial constraint. East rejects German troops after Gainas **400**; West sees warlord chieftains (Alaric as type: Stilicho-era pay/logistics forge professional Visigothic core, then federates/slaves to ~40,000). Campaigning forged new communities/dynasties — Vandals+Alans (*rex Vandalorum et Alanorum*; ~80,000 to Africa 429), Ostrogoths under Theoderic. “The organization of Alaric's followers into an effective fighting force… helped to create a new type of community and forge a Visigothic nation.”
+- **Athaulph’s “Romania to Gothia”** (Orosius 7.43): once aimed to replace Romania with Gothia but, finding Goths incapable of law, chose to restore and enhance Rome through Gothic might — symbolic marker of barbarian–Roman accommodation after 410.
+- Land demands less disruptive than modern analogies suggest: limited migrant numbers vs provincial peasantries; marginal settlement (Jordanes’ “lesser Goths” in Moesia); ethnic/cultural proximity on frontiers; military usefulness to state and Gallic senatorial landowners (Sidonius circle) despite aristocratic disdain.
+- **Fifth-century map:** Visigoths (SW Gaul/Spain), Burgundians (upper Rhone), Merovingian Franks (N/central Gaul), Ostrogoths (Pannonia → Italy), plus Suebi, Saxons, Thuringians/Sciri, residual Roman blocs (Aegidius–Syagrius Soissons; Provençal aristocracy/Avitus; Bagaudae). Kingdoms combined Germanic practice with Roman provincial tools especially written law codes; mixed populations under new kings; urban decline in N/central Gaul; bishops mediate; Arianism of most Germans vs Catholic provincials as durable differentiator (unlike Vandal Africa’s overt friction); Clovis’s Catholicism and Burgundian Catholic majority as pro-Roman alignments.
+
+### Gaul archaeology and economy
+
+- Fourth-century Gaul on the military/tax front line: heavy Rhine/upper Danube investment; Julian–Constantius tax disputes show frontier provinces debilitated by troops + barbarians + oppressive taxation. Trier (c.285 ha, est. 80,000) was NW imperial hub until late fourth century; praetorian prefecture then shifted to Arles. Fifth-century wall circuits shrink (Arles defended area ~17 ha). Northern archaeology **refutes large-estate dependency model** — only one large multi-settlement landholding near Trier identified; after ~300 elite villa culture fades but peasant life continues; economy reoriented to local consumers replacing the army market; by **500** population decline bottomed into largely self-sufficient rural economy underpinning Merovingian power.
+- **North vs south Gaul:** south retained stronger civic traditions and Mediterranean links (Marseilles thrived commercially into seventh century as Frankish outlet; African–N Mediterranean axis may have shifted west to Marseilles in Vandal period). Southern landowners (Sidonius; later Caesarius) negotiated with Visigothic/Burgundian kingdoms, organized local defense, and reinvented elite power as episcopal/monastic. Fall of the empire shrank the land-tax base; Britain’s 410 appeal/response epitomizes abandonment; driving economic forces became Frankish kings and the organized church, not the Roman state. `part_of:` [[end-of-the-roman-villa]], [[tax-based-vs-land-based-states]]; `contributed_to:` [[demonetisation-of-the-post-roman-west]].
+
+### Settlement after ~550; demography
+
+- Western villas disappeared on a staggered timetable (NW Europe/Britain/N Gaul late 4th–c.450; W Mediterranean ~century later — S Gaul by 600, Spain few beyond 6th c., Italy early/mid-6th, Africa ~550). After ~550 west Mediterranean regions show acute recession to ≥700 (sometimes 8th–9th c.): small scattered settlements hard to read even as rudimentary site hierarchy (Wickham). Cities: Liebeschuetz’s primitive building techniques and empty spaces; African cities impoverished after Justinianic reconquest as export economy shrank to local exchange. “After about 550 these regions, evidently, were both depopulated and impoverished.”
+- **Wickham’s Frankish heartland inference** (via Mitchell): only ~50% of Frankish sites continuously occupied late Roman→early medieval; population decline ~50% — “drastic reduction but not a demographic collapse”; Italy and Spain tentatively similar. Gregory of Tours’s bloody Merovingian politics left virtually no material building trace before 650. Cross-link [[justinianic-plague-541]] for plague-as-catalyst theses in Italy and Gaul.
+
+### Afterlife of secular institutions
+
+Roman taxation systems survived imperial collapse and were revived whenever successors could administer/enforce them; Roman law underpinned western successor codes (largely superseded by Sharia in the east); Latin → Romance in Mediterranean provinces (Germanic/Slavic north; Arabic in N Africa); Greek yielded to Arabic in Near East and later Turkish in most of Asia Minor, surviving as church languages; western monastic copying preserved classical literature for later Middle Ages/Renaissance, while eastern classical culture transmitted via Arabic translation (Abbasid Baghdad). Gibbon still shapes conceptual unity of east+west decline-and-fall.
+
+Source: [[mitchell-later-roman-empire-2015]] · [[wickham-framing-the-early-middle-ages-2005]]

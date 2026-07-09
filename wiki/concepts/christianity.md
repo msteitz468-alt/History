@@ -5,8 +5,8 @@ origin: Originating in 1st-century Roman Judaea; its medieval "regional systems"
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion]
 applies_to_regions: [mediterranean, western-europe, balkans, anatolia, levant, near-east, mesopotamia, horn-of-africa, north-africa, south-asia, central-asia, china, atlantic-world, mesoamerica, andes]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -120,3 +120,9 @@ medievalists.
 - [[intercultural-relations-early-modern]] — the Jesuit missions and overseas syncretisms.
 - [[aksum]] — the Ethiopian Christian kingdom (CWH IV).
 - [[cultural-crystallization]] — the 10th–13th c. transformation of Western Christendom.
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **Distinctiveness not monotheism per se.** Monotheistic ideas were widespread in late antique pagan thought (Platonic/Aristotelian/Stoic traditions; Theos Hypsistos; oracles). Christianity’s distinctive characteristic was formal commitment to beliefs about Jesus’ divinity, redemption through self-sacrifice, and eternal life—testable by assent to incarnation, cross, and resurrection—distinguishing Christians from polytheists and from Jewish monotheism grounded in law/righteousness rather than redemptive faith. Creed-definition between Nicaea (325) and Constantinople (381) centered on Christ’s relation to God; fifth-century debate shifted to dual vs single nature, settled for Eastern imperial orthodoxy at Chalcedon (451) at the cost of Monophysite schism in Syria/Egypt/eastern frontier.

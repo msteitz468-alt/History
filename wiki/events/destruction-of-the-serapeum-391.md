@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[christianization-of-the-roman-empire]], the anti-pagan legislation of Theodosius I, communal tension between pagans and Christians in Alexandria]
 consequences: [the end of organised public paganism in Egypt, [[christianization-of-the-roman-empire|Christianisation]] of Alexandria, destruction of the Serapeum's "daughter" library]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, late-antiquity, north-africa]
 ---
 
@@ -77,4 +77,10 @@ likewise heavily mythologised in both ancient and modern retellings.
 
 - [[sarapis]] · [[alexandria]] · [[theodosius-i]] · [[christianization-of-the-roman-empire]] ·
   [[coptic-church]] · [[late-antiquity]]
-- Source: [[sources/bagnall-rathbone-egypt-alexander-copts-2004]]
+- Source: [[sources/bagnall-rathbone-egypt-alexander-copts-2004]] · [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Local action exceeded imperial intent: in early **392**, amid riotous pagan opposition led by philosopher Olympius, bishop **Theophilus of Alexandria** called on imperial troops to destroy the Serapeum, largest pagan sanctuary in the empire; a church in honor of Arcadius was built on the site. Fits pattern of Cynegius-era temple destruction and **391** laws against sacrifice/temple entry directed especially at officials. `part_of:` [[christianization-of-the-roman-empire]]; `concurrent_with:` [[late-polytheism]].
+
+Source: [[mitchell-later-roman-empire-2015]]

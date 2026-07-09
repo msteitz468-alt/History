@@ -9,8 +9,8 @@ affiliated_with: [the adoptive succession; Stoic philosophy; his co-emperor Luci
 opposed_by: [the Parthian Empire; the Marcomanni, Quadi and Sarmatians; the usurper Avidius Cassius (175)]
 key_events: [joint accession with Lucius Verus (161), the Parthian War (161–166), the [[marcomannic-wars-166-180|Marcomannic Wars]] (166–180), the revolt of Avidius Cassius (175)]
 key_processes: [the turning-point from the Antonine peace to the age of crisis]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]
 ---
 
@@ -71,10 +71,14 @@ and the return to **dynastic (blood) succession** in Commodus ended the run of a
 and opened the way to the instability of the late second and third centuries. The *Meditations*
 remain one of the great documents of Stoic thought.
 
+## OHCW (Meredith; Russell)
+
+**Anthony Meredith** (Ch. 29): born 121, emperor 161–80; twelve books of *Meditations* as private campaign notes (Book 2 among the Quadi; Book 3 at Carnuntum, c.171–73); unnoticed until ~350 then long obscure until print 1558; Stoic obedience to nature with stronger introversion/possible afterlife than Epictetus — a Platonizing Stoic tipping of the scales. **Donald Russell** (Ch. 27): native Greek speakers seldom learned Latin nuances; Latin speakers destined for office learned Greek from childhood — Marcus wrote *To Himself* in Greek, emblem of bilingual high-imperial culture.
+
 ## Related
 
 - Adopted by [[antoninus-pius]] (via [[hadrian]]); co-emperor [[lucius-verus]]; succeeded by his
   son [[commodus]]
 - The [[marcomannic-wars-166-180|Marcomannic Wars]] and the [[antonine-plague-165|Antonine
   Plague]]; the revolt of Avidius Cassius; Stoic [[augustan-literature|philosophy]]
-- Source: [[bowman-cah-v11-2000]] (Ch. 3)
+- Source: [[bowman-cah-v11-2000]] (Ch. 3); [[boardman-oxford-history-classical-world-1986]] (Meredith Ch. 29; Russell Ch. 27)

@@ -9,8 +9,8 @@ affiliated_with: [the eastern Roman (Byzantine) empire, Justinian I]
 opposed_by: [the Vandals, the Ostrogoths, the Sasanids]
 key_events: [the Battle of Dara (530), suppression of the Nika Riots (532), the Vandalic War (533–534), the Gothic War (535–548)]
 key_processes: [the Byzantine reconquest of the West]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity]
 ---
 
@@ -50,8 +50,30 @@ The relationship between Belisarius and Justinian was characterized by deep impe
 
 ---
 
+## Gibbon, *Decline and Fall* (1776–1788) — Chs. XLI, XLIII
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]] makes Belisarius the “Africanus of new Rome” and the living rebuke to Justinian’s envy — a set-piece military character study grounded in Procopius.
+
+- **Rise:** Born/educated among Thracian peasants; General of the East; at Dara defeated 40,000 Persians with 25,000; redeemed imperial debt by crushing the [[nika-riots-532|Nika]] rising.
+- **African expedition:** ~5,000 horse and 10,000 foot; 500 transports, ~20,000 mariners, 92 brigantines; rigid discipline after landing; Vandals softened by three generations of luxury.
+- **Vandal collapse:** Ad Decimum; Carthage opened joyfully; Gelimer yielded; Vandal youth formed five cavalry squadrons; Gelimer received a Galatian estate (Arian barred from senatorial dignity).
+- **Gothic war (first phase):** Recovered Sicily, Naples, Rome; sustained Vitiges’s siege with aqueduct mills and gate security; siege lasted “one year and nine days” before Gothic retreat over the Milvian Bridge (one-third of the host destroyed per Procopius).
+- **Ravenna:** Justinian signed a partition without consulting him; Goths offered the Italian crown; Belisarius entered as “fancied king” then rejected all but Justinian’s substitute role — “rather chose to be a slave than a king.”
+- **Character and Antonina:** In six years recovered half the Western provinces; private guards of 7,000 horse; fame polluted by Antonina’s lust/cruelty and Theodora’s alliance; *Anecdotes* as the triumph-slave’s whisper.
+- **Last days:** False treason charge; fortunes sequestered then restored; died ~eight months after deliverance; “That he was deprived of his eyes, and reduced by envy to beg his bread… is a fiction of later times.”
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/gibbon-edward]]
+
 ## Related Pages
 
 *   **Actors**: [[justinian]] · [[successors-of-justinian]] · [[vandal-kingdom]] · [[lombards]]
 *   **Events**: [[nika-riots-532]] · [[justinianic-plague-541]] · [[gothic-war-535-554]]
-*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]
+*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]] · [[sources/gibbon-decline-and-fall-1776]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Attributed claims from [[sources/mitchell-later-roman-empire-2015|Stephen Mitchell, *A History of the Later Roman Empire* (2015)]].
+
+- **Vandal reconquest 533–34.** Main expedition under Belisarius: 10,000 infantry, 5,000 horsemen, substantial *foederati*, plus 400 Heruli, 600 Hun archers, 500 transports, 92 warships; Ostrogothic Amalasuntha’s Sicily support crucial. Bridgehead, local support, field victory ten miles from Carthage; Gelimer surrendered spring 534 after a three-month mountain blockade. Justinian monopolized credit in triumph; Belisarius consul 1 Jan 535 with Vandal spoils.
+- **Ravenna 540 as political misjudgment.** With Persian threat rising, Justinian offered a rational split — Italy south of Po and Ravenna to the empire, Transpadana to the Ostrogoths, treasures divided — preserving Gothic northern frontier defense. Belisarius, unwilling to forgo total victory and Vitigis’s captivity, feigned acceptance of the Gothic offer of a western imperial title, occupied Ravenna May 540, then returned east. Mitchell judges this “mutinous and arbitrary behavior” among the gravest misjudgments of the reign: it “undermined the successes that his campaign had achieved, and led directly to a further generation of misery for Italy and to a weakening of imperial power.” Procopius wrongly blames later commanders more than Belisarius. Related: [[gothic-war-535-554|Gothic War]]; [[justinian|Justinian]].
+- **Kutrigur 559: last defense of Constantinople.** Zabergan led Kutrigurs and Sclaveni into Macedonia/Greece to Thermopylae and across Thrace over the long walls; “In the crisis, Belisarius was called out from retirement to lead the defense (Agathias 5.11–25).”

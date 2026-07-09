@@ -9,8 +9,8 @@ affiliated_with: [the tribe of Quraysh, Mecca, Medina, the early Muslim communit
 opposed_by: [the pagan leadership of Quraysh, the Meccan establishment]
 key_events: [the first preaching (c. 610), the hijra to Medina (622), the return to Mecca (630), the death of Muḥammad (632)]
 key_processes: [the rise of Islam, the unification of Arabia, the prelude to the Arab conquests]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, arabian-peninsula, islamic-world]
 ---
 
@@ -103,6 +103,27 @@ overcoming the feuding the great powers had done so much to foster. This complem
 rather than contradicts, [[cameron-cah-v14-2000|CAH XIV]]'s shrine-and-pilgrimage reading
 of Mecca — a second angle on the same contested problem.
 
+## The Qur'an: Umma's Shifting Boundaries and the 'Uthmanic Codex (Formichi)
+
+Chiara Formichi's [[formichi-islam-and-asia-2020|*Islam and Asia: A History*]] (2020) frames the
+Qur'anic concept of *umma* ("community") as central to how Muslim identity cohered — "a shared sense
+of belonging to a community defined by religious commitment" — but stresses that the *umma*'s
+boundaries **shift across different verses**, ranging from encompassing all humankind (Q 10:19) to
+marking Muslims specifically as "the best community" (Q 3:110). Formichi (2020) reads this as a
+reflection of the Qur'an's origin as oral revelation delivered over 610–632 CE, as Muḥammad's
+followers' sociopolitical status changed. This complements Sarris's *Constitution of Medina* reading
+above: the shifting textual boundary and the ecumenical 622 covenant both reflect a community whose
+membership criteria were still being worked out in real time.
+
+Qur'anic scholarship conventionally distinguishes **"Meccan" and "Medinan"** suras by whether they
+were revealed before or after the **hijra (622)**, marking the transition of Muḥammad's followers
+"from being an oppressed minority in hiding to constituting themselves as a self-ruling community" in
+which Muḥammad operated as political leader, military commander, spiritual guide, and religious
+teacher — precisely the trajectory this page narrates above. The official Qur'anic codex was compiled
+under the third caliph **'Uthmān** (r. 644–656) in the mid-seventh century, with suras arranged by
+length (longest first) rather than by chronological revelation order, excepting the opening
+*al-fatiha*. See [[early-muslim-community]] for the community's subsequent institutional development.
+
 ## Significance
 
 The rise of Islam is the event that **ends antiquity**. Within a generation the Arab conquests would strip
@@ -110,6 +131,37 @@ the [[eastern-roman-empire-425-518|eastern empire]] of Syria, Palestine and Egyp
 [[sasanian-empire|Sasanid empire]] entirely** — the irreversible rupture CAH XIV stops just short of. That
 the Cambridge Ancient History closes here, with Muḥammad on the horizon, is the editors' statement that the
 Mediterranean-centred "ancient" world ended with the seventh century.
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+F. Donald Logan’s Latin-church survey treats **Muhammad** (spelled “Mohammed”) as one of two external shapers of the European Middle Ages alongside [[justinian|Justinian]], broadening Pirenne: “without Justinian and Mohammed there would never have been a Frederick II and Innocent III.” Source-critical caution is explicit — *sira* and *hadith* require care without irreverence; the Koran is God’s word for Muslims, collected after the Prophet’s death, more likely under **Uthman (644–56)** than Abu Bakr; 114 suras; Arabic as vehicle of Arabization. Core teaching: no divinity for Muhammad (unlike Christian claims about Jesus); Jews and Christians as “people of the book”; Seal of the prophets. Comparative social-ethics claim (women’s property/divorce protections; regulated slavery): seventh-century Muslim practice, Logan argues, was more enlightened than contemporary Christian Europe’s. Structural consequence for the Latin West: within a century of 632 the conquests ([[islamic-conquests-seventh-eighth-centuries]]) set southern and eastern boundaries of medieval Christendom (see also [[charles-martel]] at Tours). Short-slug alias: [[muhammad]].
+
+> "For the historian no subject in the history of Islam is more challenging than the life of Mohammed, chiefly because of the nature of the surviving sources."
+
+## From Fisher, *Rome, Persia, and Arabia* (2020): the pre-Islamic Arab-leadership legacy
+
+Fisher's concluding chapter reframes Muhammad as the culmination of a **sixth-century
+pattern of strong Arab leadership** that the great powers themselves had cultivated and then
+destroyed. The [[super-phylarchate|super-phylarchs]] — [[al-harith-ibn-jabala|al-Harith]],
+[[al-mundhir-ibn-al-harith|al-Mundhir]], [[al-numan-iii|al-Numan III]] — had briefly
+realised "the political potential of universal Arab rule," but Rome and Persia terminated
+their client dynasties (the Jafnid exile of 582; the fall of [[al-hira|al-Hira]] c. 602),
+leaving a leadership vacuum precisely at the "hollow nexus" of central Arabia where the
+declining interests of Rome, Persia, and [[himyar|Himyar]] had long collided.
+
+Fisher advances Hoyland's **"second tier" thesis** (an inversion of the "Germans and Arabs"
+comparison): just as the deeply Rome-dependent "first tier" *foederati* (Alamanni) fell with
+their patron while the less-dependent Franks inherited the west, so the tightly-bound
+super-phylarchs — men who had become "too Roman" and too enmeshed in the status-ridden
+aristocratic world of the Fertile Crescent — were poorly placed to lead the conquests,
+while Arab groups "one or two steps removed" from imperial reliance profited from the
+vacuum. Islam's **egalitarian monotheism** offered exactly what the class-conscious
+super-phylarchate could not. Fisher notes the "virtual encirclement of Arabia" completed
+under the Sasanians by c. 610–620 (Donner), Patricia Crone's "nativist" reading, and the
+provocative Ghassanid role some traditions assign to the *hijra* of 622 (Heraclius securing
+a quiet Arabian flank via [[ghassanids|Ghassan]]'s influence at Yathrib). He also flags the
+exhaustion of Rome and Persia after the Heraclius–Khusrau II war as the enabling condition:
+neither state could resist the *muhajirun*. Muhammad's birth is placed c. 570–573.
 
 ## Related
 
@@ -120,4 +172,10 @@ Mediterranean-centred "ancient" world ended with the seventh century.
   Persia
 - The volume's terminus: the change CAH XIV chose **not** to narrate; hands forward to the New Cambridge
   Medieval History
-- Sources: [[cameron-cah-v14-2000]] (Ch. 22, Lawrence Conrad); [[sarris-empires-of-faith-2011]] (Ch. 7, the contemporary-witnesses / ecumenical-umma / holy-war-percolation reading)
+- Sources: [[cameron-cah-v14-2000]] (Ch. 22, Lawrence Conrad); [[sarris-empires-of-faith-2011]] (Ch. 7, the contemporary-witnesses / ecumenical-umma / holy-war-percolation reading); [[logan-history-of-the-church-in-the-middle-ages-2013]]
+
+## From Tannous (2018) — late mass converts and simple believers
+
+Tannous stresses that many of the Prophet’s notional followers — including leaders of the early Muslim state — converted late, often en masse, for this-worldly reasons; after his death many rebelled (Ridda) and had to be forced back. Collective “passive adhesion” (Levtzion) of Arab tribes, not only sīra-style individual conversions, formed the bulk of early followers. Earliest Christian–Muslim interactions thus involved [[simple-believers|simple Christians]] meeting late mass converts and their descendants while Islam itself was still being elaborated — with widespread selective knowledge of Qurʾān and Prophetic teaching among ordinary Muslims. See [[islamization-of-the-middle-east]].
+
+- Source: [[tannous-making-medieval-middle-east-2018]]

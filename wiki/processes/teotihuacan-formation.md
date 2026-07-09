@@ -8,7 +8,7 @@ region: [mesoamerica]
 process_type: demographic
 driven_by: [migration, volcanic displacement, trade-route advantages, religious authority, elite competition, Cuicuilco decline]
 produces: [[[teotihuacan]] (city-state), [[basin-of-mexico]] hegemony, Tzacualli-phase urban grid]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [process, classical-antiquity, late-antiquity, mesoamerica, americas]
 ---
@@ -207,6 +207,29 @@ construction of the Ciudadela and Feathered Serpent Pyramid in the following Tla
 phase (c. 170–350 CE) marks the transition to the city's mature and most politically
 confident period.
 
+## Evans & Webster 2001 (Parsons; Evans)
+
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster (eds.) 2001]]
+supplies a Basin-scale narrative of formation that **complements** Cowgill’s multi-factor
+account (**EW2001**).
+
+**Parsons (Basin of Mexico):** Development of Teotihuacan 600–100 B.C. linked to ideological
+and ecological factors — sacred caves under the Sun Pyramid, irrigation agriculture, control
+of obsidian access, and rising population. After ca. 100 B.C., three remarkable first-century
+B.C. events reconfigured the Basin: (1) volcanic destruction of [[cuicuilco|Cuicuilco]] and
+its sustaining heartland; (2) rapid expansion of Teotihuacán to roughly **80,000–100,000**
+inhabitants with two massive pyramids along a formal avenue nearly 2 km long; (3) wholesale
+abandonment of large southern Basin areas. In Late Formative / early Terminal Formative
+(Ticoman and Patlachique), Cuicuilco and Teotihuacan each attained ~**40,000** as capitals of
+competing multitiered polities (SW vs NE Basin) seeking regional hegemony.
+
+**Evans (Cuicuilco):** Teotihuacan’s great growth spurt “almost certainly” represented
+Cuicuilcan refugees who then built the great monuments for that city’s rulers — stronger
+refugee-labor causation than Cowgill 2015 (Popocatépetl, competition, trade routes; Xitle
+later). **Clark** leaves the Cuicuilco–Teotihuacan relationship “to be determined.” **Webster
+(Warfare):** possible Teotihuacan–Cuicuilco hostility c. 200–100 B.C. from settlement data.
+Hold these as attributed positions alongside Cowgill CHNPA multi-polity rivalry notes above.
+
 ## Related
 
 - `[[teotihuacan]]` (place) — produced: this process creates the city
@@ -215,4 +238,4 @@ confident period.
 - `[[teotihuacan-ceramic-phases]]` — concept; the primary dating tool for this process
 - `[[mesoamerican-state-formation]]` — broader process; this is part_of
 - `[[urbanism]]` — concept; concurrent_with
-- Source: `[[cowgill-ancient-teotihuacan-2015]]` · `[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6]]`
+- Source: `[[cowgill-ancient-teotihuacan-2015]]` · `[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6]]` · `[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]`

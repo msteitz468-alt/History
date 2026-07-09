@@ -5,7 +5,7 @@ period_involved: [Late Antiquity, Early Middle Ages]
 regions_involved: [mediterranean-world, near-east, anatolia, western-europe, north-africa]
 positions: [maximalist, minimalist]
 resolution_status: open
-last_updated: 2026-06-27
+last_updated: 2026-07-08
 tags: [controversy]
 ---
 
@@ -66,8 +66,21 @@ pathogen and its broad geographic reach but not the **demographic magnitude** or
 maximalist reading (Sarris, Harper) as its working narrative on
 [[justinianic-plague-541]] while flagging the minimalist challenge here.
 
+## Historiographical ancestor: Gibbon (1776–1788)
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]] (Ch. XLIII) does not adjudicate modern maximalist vs. minimalist camps, but he **prefigures maximalist scale rhetoric** and remains a load-bearing source for how the plague entered Western narrative history:
+
+- **Daily urban mortality:** At Constantinople, “during three months, five, and at length ten, thousand persons died each day.”
+- **Temporal and geographic range:** Plague for ~52 years; Eastern cities vacant; Italian harvests withered; free provincial intercourse from Persia to France mixed and infected nations; no quarantine culture.
+- **Causal package:** Triple scourge of war, pestilence, and famine; “visible” unrepaired decrease of the human species in some fair countries of Justinian’s age.
+- **Clinical and origin story:** Pelusium origin; Procopian buboes and carbuncles; Justinian himself infected and recovered.
+
+*Use:* place Gibbon with the **maximalist literary tradition** (Procopius → early modern narrative → Harper/Sarris) rather than as independent quantitative evidence. Minimalists’ critique of rhetorical sources applies with full force to Gibbon’s universalizing prose.
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · event page [[justinianic-plague-541]]
+
 ## See Also
 
 [[justinianic-plague-541]] · [[fall-of-rome-causes]] · [[late-antiquity]] ·
 [[demonetisation-of-the-post-roman-west]] · [[sarris-empires-of-faith-2011]] ·
-[[harper-fate-of-rome-2017]]
+[[harper-fate-of-rome-2017]] · [[sources/gibbon-decline-and-fall-1776]]

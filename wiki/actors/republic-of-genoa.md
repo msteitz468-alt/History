@@ -75,9 +75,21 @@ with chronic civil strife, its empire carried by private enterprise more than pu
 networks reached from England to China; its gold florin/genovino, its Black Sea slave trade, and
 its Atlantic galleys reshaped the medieval economy.
 
+## Cyprus ([[edbury-kingdom-cyprus-crusades-1991|Edbury 1991]])
+
+Genoese commercial privileges in Cyprus dated from the Ibelin alliance of June 1232
+([[war-of-the-lombards-1228|War of the Lombards]]). Relations with the Lusignans were
+chronically bad: post-1291 rivalry with Venice, 1299 boycott threat, wars under
+[[henry-ii-of-cyprus|Henry II]] and after his restoration, abject 1365 settlement under
+[[peter-i-of-cyprus|Peter I]]. The [[genoese-invasion-of-cyprus-1373|invasion of 1373–74]]
+seized [[famagusta|Famagusta]] (security then sovereignty from 1383), imposed tribute and a
+~2 million florin indemnity, and ended Cyprus as a crusading base — Genoa's "fortress
+mentality" (cf. Caffa) applied to the eastern Mediterranean's chief Latin port.
+
 ## Related
 
 - `contrasts_with:` [[republic-of-venice|Venice]] (stable patrician republic) and Pisa (ruined at [[battle-of-meloria-1284|Meloria]]).
+- [[kingdom-of-cyprus]] · [[famagusta]] · [[genoese-invasion-of-cyprus-1373]]
 
 **Grounded claims from Abu-Lughod Before European Hegemony range 3501-7000**:
 - "As soon as the Italians established themselves permanently in Flanders, they began to organize 'nations' or colonies which were composed of all the merchants from the same city.... Genoese, Venetian, Lucchese..." (ll. 48-50). taxonomy: contributed_to: [[republic-of-genoa]] (permanent colonies in Bruges).

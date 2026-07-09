@@ -5,7 +5,7 @@ date_start: 330 CE (founding of Constantinople) / 395 CE (permanent division of 
 date_end: 1453 CE (Ottoman conquest of Constantinople) — to 900 CE in CWH IV
 period: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
 region: [anatolia, balkans, levant, mediterranean, "north-africa"]
-sources_ingested: [11]
+sources_ingested: [14]
 last_updated: "2026-07-08"
 tags: [actor, empire, "late-antiquity", "early-middle-ages", "high-middle-ages", anatolia, mediterranean]
 affiliated_with: [the Eastern Roman state, the Orthodox Church]
@@ -238,3 +238,67 @@ Stefan Esders's chapter in the [[sources/effros-moreira-oxford-handbook-meroving
 **Link types (structural):** `part_of:` [[tax-based-vs-land-based-states]], [[theme-system]], [[politics-of-land]]; `contrasts_with:` western post-tax polities ([[merovingian-franks]], [[lombards]]); `concurrent_with:` [[umayyad-caliphate]] fiscal continuity; `preceded_by:` late Roman eastern structures. Source: [[wickham-framing-the-early-middle-ages-2005]].
 
 **The eastern frontier as negotiated zone (Holmes; Shepard).** Against the classic model of a fixed, fortified, linear tenth–eleventh-century frontier along the Taurus, Catherine Holmes argues (in *[[abulafia-berend-medieval-frontiers-2002|Medieval Frontiers]]*) that Byzantium's eastern *political* frontier around Antioch and Aleppo was an **ad hoc, diplomatically negotiated zone**: the offices of *doux* and *strategos* were often temporary or ceded to local powers, demilitarised in peacetime (Ibn Butlan found prosperous, ungarrisoned mixed towns in 1048), and integrated non-Byzantine potentates — David of Tao, and even the Muslim emir Hasan Ibn Marwan, made *doux* of the East in 1000. The much-cited Escorial Taktikon, she shows, is a banquet seating-plan, not an administrative handbook. Jonathan Shepard adds that Byzantium largely **suppressed frontier discourse** from the seventh century on, because acknowledging shrunken borders would undermine the emperor's exclusive claim to be "Emperor of the Romans" (a title made explicit on coin only after the 812 recognition of Charlemagne); universal-hegemony diplomacy — bestowing titles like Caesar on Tervel's Bulgars — substituted for hard territorial control until the mid-tenth-century conquests of Nikephoros Phokas and John Tzimiskes revived an explicit rhetoric of reconquest. This is a central case for the [[medieval-frontier|medieval frontier]] as zone rather than line.
+
+## Gibbon, *Decline and Fall* (1776–1788) — Eastern empire survey
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]] is the classic disparager of Byzantium as “premature and perpetual decay” — the foil modern rehabilitation answers. All bullets below are **his** theses and numbers, not wiki adjudication. Full framework: [[concepts/gibbonian-decline-thesis]].
+
+- **Sole inheritance after the West:** After the West was stripped of the purple, Constantinople asserted sole sacred sceptre and legal inheritance of provinces conquered by consuls and Caesars; [[justinian|Justinian]] partly executed the design against heretics and Barbarians.
+- **Justinianic monuments and debility:** Silk monopoly broken by Persian monks smuggling eggs from China; St. Sophia rebuilt after Nika (~5 years 11 months; “I have vanquished thee, O Solomon!”); fortifications multiplied (80+ Danube forts; 600 Balkan; long walls) expose to the “philosophic eye” the empire’s debility.
+- **Latin → Greek:** From Justinian’s reign gradual oblivion of Latin; silent revolution complete before [[heraclius|Heraclius]]’s death; easterners reject the name “Greeks” yet cling to unbroken succession from Augustus.
+- **Nadir under Phocas / early Heraclius:** Empire reduced nearly to the walls of Constantinople plus remnants of Greece, Italy, Africa, and maritime Asian cities.
+- **Post-Heraclius contraction:** Byzantine theatre contracts/darkens; Greek empire compared to the Rhine losing itself in the sands; historian must explain how church and state were saved when Arabs reached Indus and Pyrenees.
+- **Themes after Saracen losses:** Remaining provinces recast as themes (29 under Porphyrogenitus: 12 Europe, 17 Asia); shadow titles for lost dominion (“Sicily” in Calabria; “Lombardy” from a Beneventan scrap).
+- **Survival apparatus:** Two Arab sieges of Constantinople (Moawiyah; Moslemah with ~120,000) — walls and “artificial fire” save the capital; Greek fire also defeats iconodule island fleets under Leo.
+- **Character of the Greek state (Gibbon’s balance-sheet):** Emperor first slave of ceremony yet absolute despot; lethargy of servitude; Greek church subordinated to civil power (unlike Latin clergy); wealth buys barbarian blood; tactics teach escape not victory; religion teaches suffer and yield; contrast with Muslim martial enthusiasm.
+- **Macedonian recovery then clouding; Palaeologan endgame:** Nicephorus, Tzimiskes, Basil II revive fame until eleventh-century enemies; intestine divisions and Cantacuzene’s civil war inflict the unhealable wound; Roman world contracted to a Thrace corner (~50×30 miles) plus Constantinople; Mongol escape accidental; decline of Moguls after Cazan opens Ottoman free scope.
+- **Papacy as thermometer:** In the last four centuries, Greek attitude toward pope and Latins is Gibbon’s thermometer of Byzantine prosperity or distress.
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/gibbon-edward]]
+
+## Freeman, *Egypt, Greece, and Rome* (2014) — emergence and early historiography
+
+Charles Freeman ([[freeman-egypt-greece-rome-2014]]) flags **William Lecky's** 1869
+verdict on Byzantium — "the most thoroughly debased and despicable form civilization
+has yet assumed" — as a historiographical relic explicitly superseded by modern
+scholarship, useful evidence of the 19th-century anti-Byzantine bias the field has since
+corrected. He stresses that the east retained **Greek** as its administrative language
+even under Latin-speaking emperors (Justin I, Justinian), while Latin persisted in the
+army and law, and that **Romaioi** self-identification held until the 1453 fall to the
+Ottomans. On the early consolidation: **Theodosius II** built the **Theodosian Walls**
+of Constantinople (during his 408–450 reign), called by Freeman "one of the most
+impressive surviving constructions of the ancient world"; **Leo I** (457–74) was the
+first emperor crowned by the Patriarch of Constantinople in a public hippodrome
+ceremony, and recruited Isaurian mountain troops to reduce dependence on Germanic
+soldiers. **Anastasius** (r. 491–518) accumulated 32,000 lbs of gold in the treasury by
+his death; Freeman cites solidi found from Sweden to Ukraine to Ceylon and archaeological
+evidence of continued/expanding cultivation (the Syrian limestone massif, the Hauran,
+the Negev) into 600 CE as counter-evidence to a simple eastern "decline" narrative.
+Freeman notes **Justinian** (r. 527–65) succeeded his uncle Justin I, a "virtually
+illiterate" former palace-guard commander, and frames Justinian's law codification
+(directed by the jurist Tribonian from 528, the *Digest* condensing three million words
+of juristic opinion into one million) alongside his drive to reconquer and reunify the
+west under orthodox Christianity. On the Christological councils: **Ephesus (431)**
+condemned Nestorius over the *Theotokos*/*Anthropotokos* dispute; the **Second Council
+of Ephesus (449)**, later dubbed the "Robber Council" by Pope Leo I, enforced a
+Monophysite position by force under Dioscorus of Alexandria; **Chalcedon (451)**,
+presided over by Emperor Marcian in person, established the two-natures formula and
+confirmed *Theotokos* as compromise — accepted permanently in the west but rejected by
+Monophysite Egypt and Syria (the Coptic and Syrian Orthodox churches) and by the
+separate dyophysite Church of the East (with missionary reach to China by the 13th
+century). Freeman frames Chalcedon's unresolved fallout as laying groundwork for the
+1054 East–West Schism.
+
+## From Mitchell, Later Roman Empire (2015)
+
+Mitchell supplies a late-antique political-economy reading of the eastern Roman state that sits beside Wickham’s post-640 fiscal anatomy and Gibbon’s decline rhetoric.
+
+**Procopius as dissident under Justinian.** A close reading of the *Wars* shows Procopius “neither a supporter of Justinian’s imperial ambitions nor sympathetic to the tenor of his reign”; through sophisticated literary artistry he is “one of the most extraordinary dissident voices to have made itself heard in a totalitarian state.” *Secret History* and *Wars* carefully complement each other as inside/outside analyses, culminating in Justinian as “an incarnate demon.”
+
+**Fifth–early-sixth-century fiscal crisis (following Sarris).** Growth of great estate-owners (especially in Egypt) — a new aristocracy of Constantinopolitan office-holders who collected tenants’ taxes and retained much revenue — underlay a pervasive fiscal crisis. Anastasius’s surplus came at the cost of neglected military expenditure and reflected senatorial ability to keep wealth and pay lower taxes. From 527 Justin/Justinian used torrents of legislation (especially *Novellae* on provincial government) to curb landowners, staunch corruption, and raise revenue — unpopular with senators and explaining Procopius’s contemptuous, pro-senatorial *Secret History*.
+
+**Non-military fifth-century ethos.** The eastern empire’s first-half fifth-century ethos “was not military”: capital defense and emperor security were prioritized (*scholae* as a salaried officer class — Procopius *SH* 24.15–23); Theodosius II preferred protection money to Attila over war; subsidies went to Sassanians for Caucasus-pass defense. Later-fifth-century serious military roles devolved on ethnic groups (Ostrogoths in Thrace/Balkans; Isaurians in the capital); private *bucellarii* paid by masters, not the state, rose (Belisarius’s following up to 7,000 by 534).
+
+**Anatolian cities and the plague thesis.** South-coastal Asia Minor boom (5th–into 6th c.) ends on poorly resolved chronology. Foss showed urban collapse predated Arab 8th–9th-c. invasions and tracked Sassanian early-7th destruction — open whether recession already from mid-6th. Sagalassos: incomplete post-500 earthquake recovery, then low-level occupation after 550, no new building before early-7th abandonment — “notably well dated… abrupt civic decline… plague has been seen as the most likely cause.” Evidence is “compatible with the hypothesis that the plague dealt a mortal blow” after 542, helping explain Sassanian ease in picking off Anatolian cities 609–623. Rural NW Anatolia (Theodore of Sykeon) was not depopulated — smaller rural populations controlling resources versus weakened urban elites.
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell, *A History of the Later Roman Empire* (2015)]].

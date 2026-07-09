@@ -9,8 +9,8 @@ origin: >
 applies_to_periods: [Archaic Period, Classical Antiquity]
 applies_to_regions: [anatolia, aegean, mediterranean]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -99,9 +99,19 @@ doxographers, Diels–Kranz), so reconstruction "is a special and difficult fiel
 philosophy arose at Miletus, and his reading of Heraclitus' Fire as a transformed Zeus-Diké
 pattern, are interpretive positions, not settled fact.
 
+## OHCW (West, Annas) — flotilla, Eleatics, atomists
+
+[[boardman-oxford-history-classical-world-1986|OHCW (1986)]], Ch. 5 (Martin West): early Greek philosophy was not one vessel steered by successive pilots but a **“flotilla”** of navigators from different starts and goals; *philosophia* lacked specialized sense until [[plato|Plato]]; boundaries between “philosophers” and others are porous. Oriental cosmology/theology liberated imagination and supplied ideas, but “they taught themselves to reason. **Philosophy as we understand it is a Greek creation.**”
+
+**Milesians.** Thales (water; no writings; Aristotle’s first philosopher); Anaximander (worlds from the Boundless; “ordinance of Time” — West traces earth–stars–moon–sun sequence and Time’s ordinance to Iranian cosmology, remade as something like a law of nature); Anaximenes (air; condensation/rarefaction). Shared new assumptions: consistent everyday-observable processes; few universal processes in one continuum; no creation from nothing — only change of substance.
+
+**Diversification.** Xenophanes: radical cosmology (infinite earth/air; successive suns as illusion) and anti-anthropomorphic theology (Thracians/Negroes make gods like themselves; cows would make cow-gods). Heraclitus: everlasting cosmos as fire never extinguished; strife/war; unity of opposites. Pythagoras: part philosopher/priest/conjuror; Orphic maxims; reincarnation foothold mid-sixth century; south-Italian maths/harmony. Empedocles: four elements under alternating Love and Strife; fallen gods as souls. Anaxagoras at Athens mid-fifth: infinite mixture, pure Mind controls; Plato’s Socrates disappointed Mind was not used teleologically for each detail. Parmenides: only Being — no motion/change; phenomenal world a patterned sham; Zeno’s paradoxes (Achilles and tortoise); Melissus. Leucippus/Democritus: void exists; indivisible atoms, mechanical interplay, no guiding intelligence.
+
+**Fifth-century status (Annas, Ch. 10).** Philosophy began as cosmology but by the fifth century was only one option among ethics, reasoning-arts, and metaphysics. Eleatic monism forced reality vs appearance; until Plato and Aristotle no one challenged the arguments themselves; cosmologies became reductive (atoms and void; Anaxagoras denying common-sense coming-to-be). Zeno’s pure-argument book and Gorgias’s “nothing exists” marked new detachment about argument. Heraclitean inward excellence (*sophrosyne*) foreshadows Socratic personalism. Parker (Ch. 11): Pythagorean/Orphic asceticism and afterlife preoccupation remained **marginal** to mainstream civic religion; philosophical critique of myths from Xenophanes onward fed the late-fifth “religious crisis.”
+
 ## Related
 
 - Setting: [[athens]] (myth-reinterpretation) · [[polycrates|Samos]] · Lydia/Sardis · framework: [[axial-age]]
 - Religion: [[polis-religion]] · [[greek-religion-and-mythology]] · context: [[greek-colonization]] (colonial individualism)
-- Athens: [[sophists]] · [[pericles]] · [[athenian-drama|Euripides]] · [[classical-greek-art]]
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v4-1988]] (Ch. 7b, Kirk) · [[lewis-cah-v5-1992|CAH V]] (Ch. 8h, Ostwald)
+- Athens: [[sophists]] · [[pericles]] · [[athenian-drama|Euripides]] · [[classical-greek-art]] · [[socrates]] · [[plato]]
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v4-1988]] (Ch. 7b, Kirk) · [[lewis-cah-v5-1992|CAH V]] (Ch. 8h, Ostwald) · [[boardman-oxford-history-classical-world-1986]] (West Ch. 5; Annas Ch. 10; Parker Ch. 11)

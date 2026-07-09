@@ -9,8 +9,8 @@ affiliated_with: [the central Peruvian highlands, the Early Horizon religious sp
 opposed_by: []
 key_events: [the spread of the Chavín "horizon style", the florescence of Chavín de Huántar]
 key_processes: [[[andean-state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, movement, archaic-period, andes]
 ---
 
@@ -50,6 +50,18 @@ foundations argument associated with Michael Moseley) complicated the picture by
 coastal preceramic monumentality predating Chavín. Shimada's Cambridge chapter treats Chavín
 as one regional integrative episode among several rather than the singular fountainhead Tello
 imagined.
+
+## Fagan & Durrani (2020): a late manifestation, not a mother culture
+
+Fagan and Durrani's *World Prehistory* (10th ed., 2020) reinforces the historiographical
+correction already recorded above with a direct restatement: **Julio Tello** identified the
+"Chavín" art style and horizon in **1943**, and his long-held "mother culture" model (analogous
+to the old Olmec model in Mesoamerica) is **now considered incorrect** — Chavín represents a
+**late** manifestation of trends beginning as early as c. 2000 BCE, not their origin point. The
+site of Chavín de Huántar itself dates to at least 1500 BCE. Its famous **Lanzón** carving (a
+jaguar-serpent figure) anchors the temple's iconography, and the hollow pyramid contains an
+**acoustic water-tunnel system** — replicated by Luis Lumbreras to demonstrate the temple's
+roaring-water acoustics, tied to Richard Burger's rain/cosmology interpretation of the site.
 
 ## Related
 

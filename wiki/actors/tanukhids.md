@@ -103,6 +103,22 @@ By the time of the Islamic conquests, Ball argues, Arab forces already possessed
 centuries of accumulated military experience as allies of both Rome and Sasanian Iran —
 experience gained substantially through the Tanukh and Lakhmid confederations.
 
+## Fisher (2020): One of al-Hira's three population groups
+
+Fisher (*Rome, Persia, and Arabia*, 2020) corroborates the Tanukh's presence in Iraq via
+South Arabian inscriptions: the Jabal Riyam inscription (Sabaean, 223–300 CE) names "the
+land of Tanukh" as a diplomatic destination alongside Nabataea and Palmyra, locating
+Tanukh around al-Hira. Al-Tabari, drawing on Hisham al-Kalbi's claimed access to al-Hira's
+church archives, identifies the Tanukh as one of three population groups at [[al-hira|al-
+Hira]] at the time of Ardashir — alongside the "Ibad" (a Christian elite of mixed lineage)
+and unaffiliated "confederates." A separate Nabataean/Greek inscription from Umm al-Jimal,
+Jordan, memorializes one Fihr as "tutor of Gadhimat king of Tanukh." A mid-5th-century
+Himyarite inscription records "the chiefs of Tanukh" appearing at Masal al-Jumh, suggesting
+al-Hira contingents were drawn into central Arabian fighting, possibly as opponents of a
+Himyarite expedition into Arabia Deserta.
+
+Source: [[sources/fisher-rome-persia-arabia-2020|Fisher, *Rome, Persia, and Arabia* (2020)]].
+
 ## Historiography
 
 Evidence for the Tanukh comes chiefly from a small number of inscriptions (Umm al-Jimal,

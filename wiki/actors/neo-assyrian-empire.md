@@ -9,7 +9,7 @@ affiliated_with: [[[ashur|Ashur]], the cult of Ashur]
 opposed_by: [[[neo-babylonian-empire|Babylonia/Chaldeans]], the Medes, [[urartu|Urartu]], Elam, Egypt, Cimmerians, the [[arameans|Aramaeans]], [[hazael|Damascus]]]
 key_events: [[[bronze-age-collapse-1200bce|recovery from the Bronze Age collapse]], [[battle-of-qarqar-853bce|Qarqar 853]], [[fall-of-samaria-722bce|fall of Samaria 722]], conquest of Egypt, [[sack-of-thebes-663bce|sack of Thebes 663]], sack of Susa, [[fall-of-nineveh-612bce|fall of Nineveh 612]]]
 key_processes: [[[empire]], [[state-formation]], [[assyrian-mass-deportation|mass deportation]]]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-07-08
 tags: [actor, empire, early-iron-age, archaic-period, mesopotamia]
 ---
@@ -194,6 +194,20 @@ Selim Ferruh Adalı (in [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.)
 
 ## Historiography
 
+Charles Freeman ([[freeman-egypt-greece-rome-2014|*Egypt, Greece, and Rome*]], 2014)
+adds texture to two points. On **Ashurbanipal's library at Nineveh** (~1,500 titles,
+many acquired as war trophies from conquered cities — Freeman draws the explicit
+parallel to Rome's later plundering of Greek libraries): Ashurbanipal boasted of his
+own scholarly literacy ("I can solve the most complicated divisions and
+multiplications... I have read intricate tablets... from before the flood"), and
+**George Smith's 1872 decipherment of a Flood tablet** recovered from this library
+"opened up a new era of biblical scholarship." On the **sudden 612 BCE collapse**,
+Freeman flags it as poorly understood and floats it alongside a long-reigning-king
+effect (as with Egypt's Ramesses II), succession struggles after Ashurbanipal's 627
+death, and the Medes' intervention possibly triggered by Assyria's weakening grip on
+eastern trade routes — cautioning against the simple "Babylon defeated Assyria"
+shorthand.
+
 Known through abundant **royal annals and administrative archives** plus palace
 reliefs and the (hostile, Judah-centric) Hebrew Bible. The annals' boastful
 self-representation must be corrected against archaeology. CWH IV places Assyria as
@@ -210,3 +224,4 @@ Neo-Assyrian Capitals]] and [[imperial-city]].
 - Rivals: [[urartu]] · [[elam]] · [[neo-babylonian-empire]] · the [[medes]]
 - Source: [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook of the Peoples and Places of Ancient Western Asia]] (2009) — gazetteer entries on the conquered and tributary polities
 - Source: [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]] (Adalı, Ch. 3, on Cimmerian/Scythian impact)
+- Source: [[freeman-egypt-greece-rome-2014|Freeman (2014)]]

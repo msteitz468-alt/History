@@ -7,7 +7,7 @@ date_range: "31 BCE–600 CE"
 regions_covered: [mediterranean, western-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, north-africa, east-africa, central-asia, south-asia, china, steppe, indian-ocean]
 major_themes: ["the Roman Empire at its height and its transformation", "the Parthian and Sasanian empires", "the spread of universalizing religions (Christianity, Buddhism, Manichaeism)", "the Kushan Empire and the Silk Roads", "the Gupta 'golden age'", "the Han collapse and China's Age of Disunity", "steppe migrations and the 'fall' of the Western Empire", "the rise of Byzantium"]
 collection_coverage: strong
-sources_ingested: 8
+sources_ingested: 14
 last_updated: 2026-07-08
 tags: [period]
 ---
@@ -101,7 +101,11 @@ vs. the Gibbonian tradition, and more recently Ward-Perkins and Heather
 reasserting genuine catastrophe in the west) — a standing wiki controversy,
 [[fall-of-rome-causes]] / [[causes-of-the-fall-of-the-western-roman-empire]]; [[sources/heather-fall-roman-empire-2005|Heather (2005)]] supplies the
 fullest externalist statement, locating the cause in the [[huns|Hunnic]] shock and the fiscal
-spiral rather than internal decline. [[sources/sarris-empires-of-faith-2011|Sarris (2011)]] adds a
+spiral rather than internal decline. **[[sources/gibbon-decline-and-fall-1776|Gibbon]] (1776–1788)** remains the
+classic baseline: Antonine prosperity as yardstick; Severan military despotism; Christianity as both
+solvent of civic virtue and softener of conquerors; western extinction as triumph of **barbarism and
+religion** ([[concepts/gibbonian-decline-thesis]]; author page [[actors/gibbon-edward]]). The modern field is
+largely written *against* that package while still using his panoramic Antonines-to-1453 architecture. [[sources/sarris-empires-of-faith-2011|Sarris (2011)]] adds a
 materialist transformationist line — keeping the violence the Brown/Goffart school softens, but locating the
 deepest dynamic in the [[demonetisation-of-the-post-roman-west|fiscal de-monetisation]] of the West and the
 rise of military lordship; his sharpest formulation is comparative — in the West the aristocracy survived at
@@ -138,6 +142,8 @@ the deposition of grave-goods in cemeteries—as active symbolic communication u
 identity in times of instability. Environmental and bioarchaeological history (plague aDNA, climate proxies, paleoclimatology) has 
 also pushed back toward seeing real systemic stress, partially re-complicating the Brownian consensus.
 
+**Henry Chadwick (OHCW Envoi, 1986).** Metahistorical frame for the period’s end: until Arab invasions of the seventh century, Mediterranean peoples still felt they inhabited a Roman world; Vandals at Carthage ended by Justinian; Germanic kingdoms kept dual law (tribal vs Roman); Theodosian Code (East 15 Feb 438, then West) plus novels 438–58 survived via barbarian legal use; Church became main vehicle of *Romanitas* in the West (clerical dress = old aristocratic “Sunday best”). Arab conquest of Syria, Egypt, N. Africa, then southern Spain and Sicily, “ended the unity of the old Roman world as no other factor did” — “The Mediterranean was no longer a Roman lake”; Heraclius exhausted the empire beating Persians, leaving the Jordan frontier open to Islamized Arabs. Decisive “end of the ancient world” as privileged Greek/Latin classics in western education is not the fifth-century invasions but only the twentieth century’s hostility to past “classics” as criteria over the present; rock of western civilization is the Mediterranean sequence Egypt/Assyria-Persia/Judaea → Greece → Rome → northern barbarians. Source: [[boardman-oxford-history-classical-world-1986]].
+
 ## Collection Coverage Note
 
 **Strong–excellent.** Per CLAUDE.md, Late Antiquity is among the collection's
@@ -151,3 +157,81 @@ remain India and the interior of sub-Saharan Africa.
 ## Oxford Handbook of the Merovingian World (2020)
 
 The [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] (Effros & Moreira, eds.) frames the Merovingian centuries as part of a vital, connected Late Antiquity rather than a "Dark Age." Agnès Graceffa's survey shows how the very period concept of **Late Antiquity** was a post-war construction (Peter Brown 1971; Marrou 1975) that revived the "Romanist" tradition by insisting on the continuity of Roman culture into the seventh century, institutionalized through the ESF "Transformation of the Roman World" project. Paul Fouracre synthesizes the current multi-causal model of the transition from Gaul to Francia — declining taxation, recession in trade, recurrent warfare, fifth-century climatic cooling, and sixth-century plague — against any monocausal "fall." See [[merovingian-studies-historiography]] and [[merovingian-archaeology]].
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Logan’s Ch.1–3 frame late antiquity as the matrix of the medieval Latin church: apostolic expansion, Constantine, Germanic conversion streams, Justinian and Islam as external shapers. See [[western-medieval-church]], [[christianization-of-the-roman-empire]], [[justinian]], [[muhammad-and-the-rise-of-islam]]. Source: [[logan-history-of-the-church-in-the-middle-ages-2013]].
+
+## Cambridge Economic History of the Greco-Roman World (Giardina)
+
+Andrea Giardina's chapter ("The Transition to Late Antiquity," ch. 28) periodizes the
+economic transition into Late Antiquity as running c. 165–284 CE (Marcus Aurelius to
+Diocletian), roughly 120 years, externally triggered by the [[antonine-plague-165|Antonine
+Plague]] and frontier wars on the Rhine-Danube and eastern fronts, and concluded by the
+deliberate state interventions of Diocletian and Constantine — tax reform (*capitatio-
+iugatio*), [[colonatus]] legislation, monetary reform (the gold solidus), and the
+provincialization of Italy. He adds a historiographic-dating note: Riegl's *spätrömisch*
+originally covered 313 CE (Edict of Milan) to the start of Charlemagne's reign (768 CE) in
+art history, and Peter Brown's 1971 book is credited with spreading the "autonomous Late
+Antiquity" framework to history generally — corroborating the periodization already discussed
+above under "Recent revisionism." Giardina argues the 3rd-century crisis, so often minimized
+by recent revisionists, remains real and consequential, but is best read as the *mechanism*
+of this transition (sinusoidal, not linear decline) rather than the start of an inevitable
+slide toward the Middle Ages — see the full treatment, with opposing positions steel-manned,
+at [[late-antiquity-decline-vs-transformation]]. The economic substance of the transition
+(currency debasement, the *annona militaris*, estate consolidation) is detailed on
+[[late-roman-economy]]; the era's characteristic unfree-tenancy institution is detailed on
+[[colonatus]]. Source: [[scheidel-cambridge-economic-history-greco-roman-world-2007]]
+(Giardina, ch. 28).
+
+## Harris, *Roman Power* (2016) — periodization note
+
+[[harris-roman-power-2016|Harris]] treats **AD 337** (Constantine’s death) as a major
+discontinuity within a thousand-year [[roman-power|power]] arc: internal cohesion begins
+to fray; factors of western collapse become visible in the next generations. He rejects
+premature endings at Constantine or 410; the western crucial decades are the 370s–430s,
+while the eastern contraction of c.560s–636/41 is a **separate** chain ending the empire
+*as empire* after [[battle-of-yarmuk-636|Yarmuk]]. See [[causes-of-the-fall-of-the-western-roman-empire]] §7
+and [[fall-of-rome-causes]].
+
+## Fisher, *Rome, Persia, and Arabia* (2020) — the pre-Islamic Arabs
+
+Fisher supplies the wiki's backbone for the **Arabs of the late antique Middle East** —
+long a "disciplinary no-man's land" between classical and Islamic studies, now recovered by
+the late-antique turn. Between Pompey (63 BCE) and Muhammad (632 CE), Arab peoples were
+progressively drawn into the imperial systems of Rome, [[parthian-empire|Parthia]]/[[sasanian-empire|Persia]],
+and [[himyar|Himyar]], following a trajectory of acculturation and state formation parallel
+to the Germanic *foederati* of the west. The sixth-century apex was the
+[[super-phylarchate]] — the Roman [[ghassanids|Jafnids]] ([[al-harith-ibn-jabala|al-Harith]],
+[[al-mundhir-ibn-al-harith|al-Mundhir]]) and the Persian [[lakhmids|Nasrids]] of
+[[al-hira|al-Hira]] ([[al-mundhir-iii-lakhmid|Alamoundaros]], [[al-numan-iii|al-Numan III]]).
+Both empires then destroyed their Arab client-dynasties (582; c. 602), leaving the leadership
+vacuum from which Islam emerged. Key nodes now covered: [[hatra]], [[characene]],
+[[imru-al-qays-namara|the al-Namara king]], [[queen-mawiyya|Mavia]], [[najran]] and the
+[[najran-massacre-523|Najran massacre]], [[abraha]], [[rusafa-sergiopolis]], and the
+[[treaty-of-561]]. This lifts the collection's coverage of pre-Islamic Arabia and the Arab
+frontier from thin to genuinely strong for the political-religious dimension.
+
+## From Tannous (2018) — simple believers and confessional fracture
+
+[[tannous-making-medieval-middle-east-2018|Tannous]] rewrites late antique Middle Eastern religious history around [[simple-believers|simple believers]] and [[post-chalcedonian-confessional-formation|post-Chalcedonian confessional formation]]: the period’s Christian population was mostly agrarian and theologically under-informed, yet competition for their loyalties produced schools ([[qenneshre]]), polemic, and rival hierarchies that the Arab conquests inherited. Aims at a nonelitist, desectarianized religious history of the late Roman and early medieval Middle East ([[transconfessional-history]], [[dark-matter-historiography]]).
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- **Fourth-century system.** Early fourth century: shrunk cities, Christianity, Constantinople, higher taxes for bigger armies/bureaucracy, college of up to four emperors. Concentric Augustan structure (Rome → lightly taxed citizen Italy → taxpaying city-ruled provinces → frontier armies) gave way to a system where Italy/inner-province difference was gone and virtually all inhabitants were citizens—“aptly … compared to a vast nation-state.” Unified high culture + diverse local cultures as global early-empire pattern; below elite, material culture shows greater regional divergence.
+- **Self-consciously past prime.** Modern labels (*bas-empire*, post-classical) mirror ancient consciousness. Classicizing Greek historians (Eunapius, Olympiodorus, Zosimus) elegiac—“as if the classical past is gone forever”—and refuse Christianized official narrative; Ammianus’s world “already partly ruined.” Christian historiography remade imperial history around persecutor/protector and orthodoxy/heresy. Julian’s failed restoration ironically testifies to Christian upbringing in the coherence and charitable aims of the “paganism” he tried to institutionalize.
+- **Political narrative insufficient.** Sixth–seventh-century political history (Justinian successes; Maurice/Phokas disasters; Heraclius vs Persia) does not explain structural end—“those who wrote that history … had no real sense of the big picture.”
+- **Imperial social memory.** Almost everything surviving “preserves traces of a consciousness of empire”; western pre-Roman pasts largely lost; only Greek historical tradition persisted in remodelled form; Christians creating alternative narrative.
+
+## From Mitchell, *A History of the Later Roman Empire* (2015)
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell 2015]] (Blackwell survey, 284–641). Complements Brown/CWH transformation framing with a **state-centred narrative spine** and a second-edition Ch. 13 on fall.
+
+- **Period labels are agendas.** “Later Roman Empire” tracks institutions empire-wide; “early Byzantine” centers Constantinople’s East; “late antiquity” in practice privileges eastern Mediterranean social-cultural-religious themes and often a **long late antiquity** (c.200–800) spanning Christianization and early Islam — versus most LRE studies’ c.300–600 political frame.
+- **Structures of control persist.** Military organization, administration, and imperial ideology remain identifiable; Christianization changes ideology’s form but **increases** religion’s role in holding the empire together.
+- **Do not collapse chronology.** Fourth-century mobile warrior-emperors differ enormously from fifth–sixth-century sedentary Constantinopolitan courts; Christianity moves from contest with polytheism to monopoly; civic government shifts from local elites toward imperial and episcopal power.
+- **West vs East security path.** Northern frontiers collapse under Germanic, Hunnic/Avar, Slavic, and Turkic pressures while Asia Minor, Near East, and Egypt stay relatively unscathed until the seventh-century dual crisis; roots of east/west division can be traced to Valentinian–Valens (365) partnership under military pressure.
+- **Narrative end at 641.** Spine from [[diocletian|Diocletian]] (284) to fall of Alexandria and death of [[heraclius|Heraclius]] — loss of Egypt as food and tax core, Near East to Arabs, Asia Minor devastated. Parallel internal Christianization (bishops, asceticism, crisis piety) runs throughout.
+- **Fall debate reopened.** Ch. 13 engages Heather, Ward-Perkins, Wickham, Brown school, Sarris: fiscal-military hollowing + plague demography as real research agenda after decades of transformation-first scholarship — see [[causes-of-the-fall-of-the-western-roman-empire]], [[late-antiquity-decline-vs-transformation]].

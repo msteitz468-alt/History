@@ -5,8 +5,8 @@ origin: "Ancient Greek (πόλις); modern systematic definition and comparativ
 applies_to_periods: [Archaic Period, Classical Antiquity]
 applies_to_regions: [aegean, greece, mediterranean, anatolia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -88,6 +88,163 @@ Key revisions: the polis continued as the leading form of state/society well int
 
 This source (Hansen 2006) is the primary modern reference for the definition, typology, quantitative scale, and comparative placement of the Greek polis.
 
+## From Hall, *Archaic Greek World* (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Jonathan M. Hall (2014)]] keeps the polis at the centre of Archaic analysis while rejecting eighth-century “birth certificate” models and teleological readings that measure early communities against fourth-century or Aristotelian ideals.
+
+**Definition debates (urban / political / cultic).** Hall follows Hansen’s Copenhagen inventory in treating Classical *polis* as simultaneously urban centre (*astu*), territory (*gē/khōra*), and political community, and in denying that external *autonomia* or practical self-sufficiency were definitional (dependent communities still count as poleis). He adds a developmental gloss: Indo-European cognates point to an original sense “stronghold” / acropolis; Homeric and Tyrtaean usage still privilege *place* over citizen body; only later does political-community meaning dominate. Homeric Scheria is utopian, not a snapshot of a real eighth/seventh-century town. Weber’s pre-industrial city (fortification, density beyond full mutual acquaintance, institutions, market) is a comparative yardstick, not a threshold the Archaic world suddenly crossed.
+
+**Long-term formation, not an 800 BCE event.** Against Ehrenberg’s ca. 800 dating and against models that treat eighth-century dedication surges and hekatompeda as automatic state self-assertion, Hall stresses gradual process: Dark Age place-attachment and possible Mycenaean administrative legacies; dispersed settlement clusters (Athens, Argos, Corinth) that urbanize on different schedules; Sparta still “settled in villages (*kōmai*)” into the Classical period; purpose-built administrative architecture (*bouleutēria*, *prytaneia*, fixed agorai) largely sixth-century; earlier political functions often discharged from leaders’ houses. Synoecism is multi-sense (mythical Attic unification; later *polis* mergers; village coalescence) and must not be read as a uniform birth rite.
+
+***Ethnos* contrast.** *Polis* and *ethnos* are different categories, not rungs on a ladder of complexity: an *ethnos* is a (often fictive) kinship/custom group that can contain many *poleis*; *polis* centres on place and urban-political functions. Conventional “ethnos states” as thin, non-urban alternatives misread Aristotle. Cultic communities (extra-urban sanctuaries, amphictionies organized by *ethnē*) frequently cross-cut citizen bodies — see also [[polis-religion]].
+
+**State genesis in the seventh century; not a “stateless society.”** Hall rejects descriptions of the Greek polis as a Tallensi/Nuer-style stateless society (no monopoly of violence, no standing army). Classical Athens, Sparta, Thebes and Argos had standing armies; public prisons and capital punishment coexist with self-help. The better anthropological match is Fortes and Evans-Pritchard’s “primitive state” (centralized authority, administrative/judicial institutions, wealth–privilege cleavages). Epigraphic early laws are ad hoc regulations of magistrates’ competences and tenure (Dreros *kosmos*, Dracon, Tiryns), not later-style comprehensive codes; their primary effect is to share and rotate real power among an enlarged aristocracy while excluding non-elites (Bacchiad endogamy/rotation at Corinth as model). **`produced:`** ascriptive offices replace achieved *basileus* authority more clearly in the seventh than the eighth century. **`contrasts_with:`** eighth-century “renaissance = rise of the state” packages; teleological “latent egalitarianism made democracy inevitable” readings (non-aristocratic regimes by ca. 500 remain a limited list).
+
+**Source:** [[sources/hall-history-archaic-greek-world-2014|Hall, *A History of the Archaic Greek World*, 2nd ed. (2014)]], esp. Chs. 4–6 and concluding periodization.
+
+## Citizenship as Political Creation (Osborne 2000, Ch. 3, Thomas)
+
+[[sources/osborne-classical-greece-2000|Osborne (ed.), *Classical Greece 500–323 BC*]]
+(Ch. 3, Rosalind Thomas) sharpens the citizen-body dimension of the polis: the polis was
+"a community of citizens," and personal relations were regulated by law specifically for
+those citizens — a city that lacked active citizen participation in decision-making risked
+not counting as a polis at all (Haemon's line in Sophocles' *Antigone*, "a city is not a
+polis if one man rules it"). Alongside the polis proper, alternative Greek political forms
+persisted — the tribal state (*ethnos*), leagues, and federal states.
+
+**Citizenship was a jealously guarded, non-inalienable privilege, not a birthright**: it
+could be created, expanded, or revoked by political/legal act. Early archaic citizenship
+was minimally defined (free/slave, noble/non-noble); a politically narrower definition
+developed only as the polis's institutions matured over the 7th–6th centuries, closely
+tied to the rise of hoplite service — the hoplite phalanx gave ordinary citizen-farmers a
+military role from the 7th century onward that fed directly into political standing.
+Citizenship generally required hoplite status and land ownership; only Athens' radical
+democracy extended full citizen rights to the landless (*thetes*). Aristotle's *Politics*
+struggled to define "citizen" universally, eventually settling on a political definition:
+"a citizen is he who has the power to take part in the deliberative and judicial
+administration of the polis" (1275b). The Sicilian orator Gorgias mocked the artificiality
+of the concept, describing the citizens of Larissa as a "manufactured article," made by
+decree like the kettles that bore the city's name.
+
+Real-world variation was stark: [[sparta|Sparta]] granted citizenship to only two foreigners
+in her entire history to the end of the fourth century, even as Spartiate numbers collapsed,
+and a Spartiate could lose citizen status entirely by falling below the wealth threshold
+needed to contribute to the common messes. Athens moved the opposite direction at moments of
+crisis — tightening citizenship in Pericles' law of 451/450 (both parents now required to be
+of citizen birth), then granting it en masse, almost uniquely, to the loyal islanders of
+Samos in 405/404 as the Peloponnesian War was being lost. Loss of citizen rights (*atimia*)
+was a severe punishment, and Pericles is depicted calling the politically inactive
+"useless" (*achrestos*). The oligarchic coup of 411 BC saw the [[athenian-democracy|Athenian
+democracy]] vote itself out of existence in favour of "the Four Hundred." Some oligarchies
+went further still, banning citizens from trading (Thebes required ten years' retirement
+from business before office-holding) to keep the political community distinct from the
+market.
+
+Thomas proposes **"citizen-state" as a more apt translation of *polis* than "city-state,"**
+reflecting Aristotle's dictum that "man is by nature a political animal" and the polis's
+self-identification with its citizen body rather than its territory. Greek writers described
+the polis itself as pedagogic — "the polis is the teacher of men" (Simonides) — its
+constitution and public institutions seen as inherently educational; state-provided schooling
+proper only emerged in the Hellenistic period. Most poleis remained small — village- or
+market-town-sized rather than urban in the modern sense — and even Sparta's traditional
+figure of some 10,000 citizens had, by the classical period, declined to little more than a
+tenth of that. Political independence for small poleis was frequently a "mirage": Megara
+oscillated between the Peloponnesian League and Athens, and Plataea's alliance with Athens
+against Thebes ended in its destruction. Despite deep constitutional variety between oligarchy
+and democracy, Greek city-states shared common ideals of civic "freedom" (active, collective
+self-rule, not individual private liberty) and of "law" (*nomos*, broadly including unwritten
+custom). The polis as an institution outlived Philip of Macedon's victory at Chaeronea (338)
+and Alexander's death, though never again with the same political power.
+
+## Political Thought on Regime Types (Osborne 2000, Ch. 5, Ober)
+
+Herodotus staged a fictional debate among Persian nobles presenting the three classical
+Greek constitutional options — oligarchy, democracy (*isonomia*), and monarchy — a debate
+that reflects Greek rather than Persian political thought (his imagined Persians ultimately
+choose monarchy). After the Persian Wars, a Greek ideological dichotomy divided the world
+into slavish, autocrat-ruled "barbarians" and free Greeks bound only by law and custom; by
+the classical period the primary constitutional options for mainland Greek poleis were
+oligarchy and democracy (tyranny persisted mainly among the Sicilian Greeks). Oligarchic and
+democratic rhetoric were structured around mutual delegitimization: oligarchs charged that
+wage-labouring democrats were "slavishly" dependent and unfit for political judgment;
+democrats charged the wealthy with cosmopolitan self-interest willing to sacrifice the
+polis's independence for private wealth. Fifth-century anti-democratic intellectuals drew on
+the sophists' *physis*/*nomos* (nature/custom) distinction to argue that democracy was an
+artificial construct benefiting an "inferior herd" over natural rule by the strong; against
+this, **Protagoras of Abdera** argued political capacity was widely distributed among (male,
+Greek) humanity rather than the monopoly of a few — a defense of democracy tied to his
+"man is the measure of all things" doctrine and illustrated by the trireme, whose motive
+power came from the aggregated ordinary strength of many rowers rather than one exceptional
+individual.
+
+**Plato's *Republic*** argues that every existing polis is really two hostile cities — rich
+and poor — coexisting in the same space, condemned to chronic civil conflict (*stasis*, see
+below) as long as diversity of interest persists among its rulers. Plato's proposed solution,
+the ideal *Callipolis* ("Beautiful City"), replaces wealth-based stratification with a
+caste-based, single-task-per-person order: a philosopher-ruler caste, a Guardian warrior
+caste (radically gender-egalitarian in duties, including military service, with no private
+property, marriage, or family life — children raised communally), and a producer caste
+holding all private property. Plato held that even this rigid order would inevitably degrade
+through a fixed sequence of regime decay — timocracy, then oligarchy, then democracy, and
+finally the worst form of tyranny — forestalled only by systematic "noble lies" disseminated
+by the rulers. Plato's own attempt to realize these ideas by training Sicilian tyrants as
+philosopher-kings ended in disaster and nearly cost him his life; he was saved from a
+conspiracy of his Sicilian enemies by a timely warning from lower-class Athenian seamen.
+
+**Aristotle**, Plato's student, rejected Callipolis as impractical given actual human nature,
+arguing in the *Politics* that humans are by nature "political animals" with a natural
+impulse toward political life ("ruling and being ruled in turns") — while notoriously
+excluding children, women, and "natural" slaves from this category. He had students collect
+comparative political-historical data across the Greek world and concluded that civil
+conflict (*stasis*) had multiple causes: any perceived difference among people — virtue vs.
+depravity, wealth vs. poverty, and others — could precipitate a factional split ("just as in
+war the crossing of ditches, even very small ones, splits apart the ranks"), rejecting
+monocausal class-conflict explanations. He classified both democracy and oligarchy as
+"deviant regimes," each furthering the interest of only one part of the population, and
+contrasted them with a moderate "constitutionalism" resulting from rule by a large, stable
+middle class; rather than Plato's all-or-nothing refoundation, Aristotle proposed practical
+legal and institutional reforms (weighted voting, participation incentives, codified law,
+cross-class trust-building).
+
+## Stasis: Civil War as a Recurring Polis Pathology
+
+*Stasis* — factional civil war, endemic across the classical Greek world (see also the
+existing note above: 279 recorded outbreaks in 122 poleis) — receives its paradigmatic
+classical narrative in **Thucydides' account of the 427 BC stasis at Corcyra**. It was
+triggered by the intersection of a foreign-alliance dispute (pro-Athenian vs.
+pro-Peloponnesian factions) with a constitutional dispute (democracy vs. oligarchy) and class
+antagonism (rich vs. poor). The conflict escalated when Peithias' oligarchic opponents,
+convicted of impiety and facing ruinous fines, took sanctuary in a temple, then burst into
+the Council Chamber and murdered Peithias and some sixty other Councillors. Both factions
+courted the unfree population — the democrats won over the bulk of Corcyra's rural slaves
+with a promise of freedom — and women joined the fighting by hurling roof tiles. Thucydides'
+account of the climax is an atrocity narrative: fathers killed sons, men were dragged from
+temples and butchered on altars, and some were walled up alive in the temple of Dionysus. He
+treats Corcyra as merely the first of a wave of civil conflicts that shattered many Greek
+poleis during the Peloponnesian War, and holds that "war is a stern teacher" that degrades
+ordinary moral standards in peacetime and war alike; he analyzes how each faction dressed
+self-interested violence in attractive slogans ("political equality for the masses" vs. "the
+safe and sound government of the aristocracy") while acting from what he calls a "brutal lust
+for self-aggrandizement" — a passage some scholars suspect of later editorial interpolation.
+
+Sparta's constitutional stability (a single constitution sustained for over 400 years) sits
+in tension with a "long Spartan stasis" that Thucydides traces to the archaic-era struggles
+by which Sparta annexed Messenia and forced the Messenians into permanent helotage; Sparta
+also imposed pro-Spartan oligarchies on member-states of the Peloponnesian League as a matter
+of policy, exacerbating civil conflicts elsewhere during the Peloponnesian War. See
+[[athenian-democracy|Athenian Democracy]] for the Athenian civil war of 404/3 BC (the Thirty,
+the restoration, and the amnesty) as the fullest Athenian instance of *stasis* averted by
+institutional reconciliation, and for Lycurgus' *Against Leocrates* (331/330 BC) as a
+post-Chaeronea articulation of civic duty against the pull toward factional collapse.
+
+## From the Oxford History of the Classical World (1986)
+
+**Forrest (Ch.1).** Working definition: a community of citizens (adult males), citizens without political rights (women and children), and non-citizens (metics and slaves), on a defined territory under a definable constitution, independent enough that members felt autonomous; with one focal religious, political, and administrative point around which a city usually grew—**Sparta a notable exception** to urban form. The “opening of the Greek mind” (overseas experience, alphabet, arts) mattered more than regime labels; flexible societies shared turmoil and eventual constitutional city-state government by diverse routes. Cypselus’ *dikaiosei* propaganda and seventh-century “justice” discourse mark early expansion of what it meant to be a *polites*; hoplite cooperation was mechanics more than the substance of anti-aristocratic change. Greeks themselves (Griffin intro) acknowledged eastern debts while treating the independent city-state—human scale in art and society—as the central Greek achievement, possible because eastern kingdoms inspired without permanently subjugating Greece until Xerxes came too late.
+
+**Murray (Ch.9).** By the fifth–fourth centuries hundreds of Greek communities lived around Mediterranean shores “like frogs around a pond” (Plato), regarding the *polis* as the only truly civilized life despite huge economic variation. The *polis* was essentially a **male association** of decision-makers; origin likely military right of warriors to approve leaders’ decisions, extended into social life (partial exception: religion). Politics = direct participation after discussion. General forms: mass assembly, smaller council, annual executive magistrates; at Athens and Sparta all male citizens equal in principle, elsewhere rights graded by wealth/birth. The developed city was a **network of associations** (demes, phratries, gennetai, drinking groups, gymnasia, philosophical schools, etc.); Aristotle saw such associations as creating the sense of belonging essential to the *polis*. Murray’s thesis: multiple memberships produce freedom to choose among demands—explaining coexistence of group mentality with Athenian creativity—versus “belonging nowhere.” Consequence of women’s seclusion plus male social groupings: public life (festivals, buildings) became the centre; “erosion of the family was the price” of escaping tribal/kinship ties for a new social and political organization. Closing synthesis: Athens actualized latent forces of the *polis*—liberating the individual from tradition without loss of social identity.
+
+**Hornblower (Ch.6).** Herodotus’s *to hellenikon* (shared blood, language, religion, customs) shows mid-fifth-century psychological unity after the Persian Wars, but classical city-states **failed to convert that awareness into lasting political unity**: Sparta would not and Athens could not impose it indefinitely as Macedon and Rome later did by force. Parker (Ch.11) adds that religious power lay with secular holders (father, magistrates, assembly)—no Church, part-time priests, orthopraxy over orthodoxy—so cult reinforced communal belonging rather than a clerical class outside the *polis*.
+
 ## Related
 
 - [[city-state]] — the general comparative concept (updated with Hansen’s 37-culture framework and four features)
@@ -96,5 +253,6 @@ This source (Hansen 2006) is the primary modern reference for the definition, ty
 - [[greek-federalism]], [[greek-colonization]], [[greek-tyranny]], [[greek-warfare]]
 - Individual poleis (Athens, Sparta, Corinth, Thebes, Argos, Megara, Kyrene, Syracuse, etc.)
 - [[archaic-period]], [[classical-antiquity]]
+- [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] — gradual state formation; ethnos/polis; seventh-century aristocracy
 
 *Primary source: Mogens Herman Hansen, *Polis: An Introduction to the Ancient Greek City-State* (Oxford University Press, 2006), drawing on the Copenhagen Polis Centre’s Inventory and research.*

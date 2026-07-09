@@ -8,8 +8,8 @@ region: [italy, mediterranean]
 process_type: cultural
 driven_by: [the enfranchisement of Italy after the Social War, the social upheaval of the civil wars, urbanization and colonization, the prestige of Roman models]
 produces: [a culturally unified Roman Italy, the extinction of the Italic languages, the privileged status of Italy in the empire]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [process, classical-antiquity, italy, rome]
 ---
 
@@ -86,6 +86,27 @@ and whose **privileged status** (tax-free, the recruiting-ground of the legions,
 Senate) Augustus "carefully preserved" — Italy now the favoured core of a Mediterranean empire
 of provinces.
 
+## OHCW (Boardman/Griffin/Murray 1986) — Crawford & Rawson
+
+Crawford’s OHCW essay (Ch. 16) anticipates the CAH X argument: post-Social-War
+enfranchisement organized peninsular Italy plus existing Po colonies as citizen
+communities by 83 (Sulla did **not** undo enfranchisement); Pompeius Strabo (89)
+gave Latin status in the Po/Liguria; full citizenship there under Caesar. Post-Sulla
+markers of Romanization include bilingual then disappearing Etruscan, Oscan→Latin,
+and more uniform religion, family law, and funerary rites. The **principal reason**
+for the enormous advance between Sulla and Augustus was **veteran settlement 59–early
+20s BCE**, which shattered local social fabric — “the Italian society of the early
+Empire … the most important and the most lasting consequence of the Roman revolution.”
+The same essay’s early chapters treat Latin colonies, centuriation, and citizenship
+without the vote as long-run engines of the process (see [[roman-expansion-italy]]).
+
+Rawson (Ch. 17) contrasts western Romanization (Rome felt she had little to learn;
+native elites who adopted “superior civilization” could rise; little racial prejudice
+if barbarians abandoned their ways) with eastern Hellenization of the Roman elite —
+lineaments of the mature Empire taking shape.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Chs. 16–17, Crawford/Rawson).
+
 ## Related
 
 - `part_of:` the aftermath of the [[social-war-91-88bce|Social War]] and the late Republic;
@@ -94,4 +115,23 @@ of provinces.
   [[roman-imperial-army|legions]]
 - Companion (CAH X Ch. 13): the Western provinces — [[hispania-roman|Spain]], [[roman-gaul|Gaul]],
   [[roman-germany|Germany]], [[roman-africa|Africa]], the [[danubian-balkan-provinces|Danube]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 13a, Crawford)
+- Source: [[bowman-cah-v10-1996]] (Ch. 13a, Crawford);
+  [[boardman-oxford-history-classical-world-1986]] (Chs. 16–17);
+  [[harris-roman-power-2016]] · [[flower-roman-republics-2010]] ·
+  [[roman-republics-periodization]] · [[social-war-91-88bce]] ·
+  [[roman-expansion-italy]]
+
+## Flower, *Roman Republics* (2010)
+
+Flower reads the Social War franchise as a **political collapse of the *nobiles* republic**, not merely cultural catch-up: colonies had already spread Roman culture and values “whether according to plan or not,” but mass citizenship after 91–88 created an Italy united into a **proto-nation-state form** yet deeply divided by languages, customs, heritages, and recent violence. Common political ground had to be reinvented under bitter division into the Augustan age. Admission of free adult Italian males to full citizenship **transformed assemblies** (huge potential electorates rarely present in Rome) and made the composition of voting units the decisive issue of 88 (Sulpicius). On her multi-republic map, that Italian political crisis coincides with the fall of the fifth republic and the passage into transition and Sulla’s sixth. Source: [[flower-roman-republics-2010]].
+
+## Harris, *Roman Power* (2016)
+
+Harris stresses limited conscious “Romanization” policy: even cerebral Romans gave little thought to anything we might call Romanization while following practices that pushed the process—e.g. insisting official communications be in Latin. Vergil’s *pacique imponere morem* is impose order, not culture. Rome imposed the name “Italia” up to the Arno to weaken local identities; ironically two centuries later the name rallied the Social War rebels (Viteliu capital at Corfinium). After the 90 citizenship compromise, a further century of Romanization followed; local Etruscan/Samnite etc. identities weakened as Italians entered central politics. Lex Iulia + Sullan colonization jointly advanced Romanization and elite Italian networks, while tripling the citizen body increased internal discontent. Preference for cooperative local landowners was constant over centuries; Augustan poets epitomize cultural victory co-opting Italian talent whose grandparents had other cultural identities. Source: [[harris-roman-power-2016]].
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- Italian hegemony stressed **class solidarity among elites**: allied detachments under local propertied leaders; Rome sided with aristocrats against democrats/serfs—“more like a movement that benefited those drawn into it” for the propertied classes. Seeds of aristocratic empire.
+- Social War: allies partners in empire profiteering yet excluded from popularis rewards and citizenship schemes repeatedly dashed; by 87 most Italians citizens—“Rome won the battles, but conceded all that had been demanded. … Survival without the Italians was unthinkable.”

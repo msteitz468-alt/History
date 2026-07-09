@@ -8,8 +8,8 @@ period: ["Neolithic"]
 region: ["europe", "western-europe", "northern-europe", "eastern-europe", "mediterranean", "iberia", "british-isles", "balkans"]
 driven_by: ["colonization from southeast", "indigenous adoption and contribution", "Holocene environmental change", "social emulation and status-seeking"]
 produces: ["permanent agricultural settlements", "longhouse villages on loess", "Balkan tells", "mixed farming economies", "exchange networks (obsidian, Spondylus, flint axes)", "megalithic monuments and barrows", "population growth", "early signs of social differentiation"]
-sources_ingested: 1
-last_updated: 2026-06-26
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, neolithic, europe, farming, prehistoric-europe]
 ---
 
@@ -60,6 +60,18 @@ The frontier was not always sharp. Maps in the source show Mesolithic sites alon
 ## End Conditions / Transformation
 
 By the end of the fourth millennium the initial farming adaptations had produced permanent settlement, substantial population growth, wide exchange networks (Spondylus, obsidian, flint/stone axes, early copper), and the first clear signs of differentiation in some regions (fortified sites, rich cemeteries such as Varna, large Irish passage graves, Dhimini/Sesklo acropoleis). These laid the foundations for Bronze Age developments without being identical to them. The "replacement of the first agricultural adaptations in Europe was initiated soon after 7000 and completed everywhere by about 4000 bc but the second set of adaptations were not in the long term stable."
+
+## Additional dates (Fagan & Durrani 2020)
+
+Fagan & Durrani (2020) corroborate the Champion et al. picture with further
+detail: the **Bandkeramik (Linear Pottery) culture** appeared on the Middle
+Danube ~5300 BCE and spread to Holland and Ukraine, with villages of 40–60
+people holding territories of roughly 202 ha; a **Black Sea flood event** (~5500
+BCE, the Euxine Lake breach) may have driven inland migration up the Danube. The
+**plow** reached Europe by ~2800 BCE, coinciding with a shift from communal to
+individual burial and emergent hereditary chieftainship, visible in the
+monument sequence at **Avebury** (~2550 BCE) and **Silbury Hill** (~2200 BCE).
+(Fagan & Durrani 2020)
 
 ## Related
 

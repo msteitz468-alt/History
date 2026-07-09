@@ -9,7 +9,7 @@ affiliated_with: [the Caesarian cause; the Second Triumvirate; Cleopatra VII and
 opposed_by: [Cicero (the Philippics); the Liberators (Brutus, Cassius); ultimately Octavian]
 key_events: [the [[julius-caesar-assassination-44bce|aftermath of the Ides]], the [[second-triumvirate|triumvirate]] and proscriptions, [[battle-of-philippi-42bce|Philippi]] (42), the Parthian War (36), [[battle-of-actium-31bce|Actium]] (31), [[death-of-antony-and-cleopatra-30bce|Alexandria]] (30)]
 key_processes: []
-sources_ingested: 2
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, mediterranean, rome]
 ---
@@ -79,10 +79,39 @@ historical verdict on the two men could easily have been reversed — "it is not
 difficult to see what the image of Octavian would have been if Antony had won at
 Actium: a sadistic young thug." See [[sources/beard-spqr-2015]].
 
+### OHCW (Boardman/Griffin/Murray 1986) — Stockton / Rawson (R7 aftermath)
+
+Rawson (Ch. 17) places Antony at the end of the overseas expansion survey (Actium and
+Egypt under Augustus). Stockton (Ch. 21, R7): after Caesar’s murder, Antony controlled
+Italy; Cicero’s attempt to use Octavian against him failed; autumn 43 Second Triumvirate
+proscriptions killed ~300 senators and 2,000 knights including Cicero; Philippi (42)
+crushed Brutus and Cassius; veteran settlement misery; eastern dependence on Cleopatra
+deepened (Donations of Alexandria 34 gave Octavian propaganda that Antony was a
+renegade creature of an “Egyptian she-devil”); Actium Sept 31 and suicides summer 30
+ended two decades of civil war. Griffin (Ch. 19) notes Augustus avoided Caesar’s
+mistakes (including clemency) but the solution was not so different once Catos and
+Ciceros were gone.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Chs. 17, 19, 21).
+
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) situates Antony
+within her multi-republic map ([[roman-republics-periodization]]): the **official
+triumvirate of Antony, Lepidus, and Octavian (43–33)** is period 13, distinct from the
+informal Pompey–Crassus–Caesar alliance of the 50s (she rejects equating them under
+“First Triumvirate,” though the later three may have had the earlier antecedents in
+mind). Stable third–second-century republican culture had given way to a volatile
+alternation of narrow oligarchies of two or three (Pompey–Caesar–Crassus; then
+Antony–Octavian–Lepidus) and one-man rule (Caesar dictator; then Augustus princeps).
+Actium (31) falls in the short transition **33–28** before the principate of January 27.
+See [[fall-of-roman-republic]] · [[augustus]].
+
 ## Related
 
 - Ally/lover: [[ptolemaic-egypt|Cleopatra VII]] · partner-rival:
   [[augustus|Octavian]] · [[second-triumvirate]]
 - Events: [[battle-of-philippi-42bce]] · [[battle-of-actium-31bce]] ·
   [[death-of-antony-and-cleopatra-30bce]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 1, Pelling)
+- Source: [[bowman-cah-v10-1996]] (Ch. 1, Pelling) ·
+  [[boardman-oxford-history-classical-world-1986]] · [[flower-roman-republics-2010]]

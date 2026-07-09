@@ -5,7 +5,7 @@ origin: "Preclassic emergence in Oaxaca, Gulf Coast (Epi-Olmec), and southern Ma
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
 applies_to_regions: [mesoamerica]
 contested: yes
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-08
 tags: [concept, mesoamerica, cultural]
 ---
@@ -60,6 +60,59 @@ Postclassic Mixtec recorded genealogies, marriages, and conquests on **codices**
 
 Stirling’s reading of Tres Zapotes Stela C (Long Count ~31 B.C.) sparked unresolved debate on origins of writing/calendrics (Maya homeland vs Gulf Coast). Coe (1957) argued earliest inscriptions on Late Formative Izapa-style monuments in Chiapas/Guatemala rather than Maya lowlands—correct for Maya systems, but **Zapotec writing and calendrics in Oaxaca may predate the earliest Maya by centuries** (Diehl 2000).
 
+## From Evans & Webster 2001 — Writing entry and related claims
+
+### Four (or five) principal systems (Joyce Marcus)
+
+Restrictive definitions of writing (correspondence to speech, linear format, reading order,
+combinatorial grammar) are preferred over broad ones that conflate writing with art. Writing
+was invented multiple times; New World systems confined to Mesoamerica. **Four principal
+systems:** Zapotec c. **650 B.C.** (earliest), Maya c. **A.D. 100–200** (most complex, greatest
+speech correspondence), Mixtec c. **A.D. 250–500**, Aztec/Nahuatl c. **A.D. 1200–1500**; a
+fifth poorly known (possibly Zoque) ~100 B.C. as Maya forerunner. All four combine
+pictographic, logographic, and syllabic elements; **no alphabetic system** in Mesoamerica.
+Earliest signs: proper nouns and calendric day names; short assertions about captives,
+ancestors, genealogical position to legitimize rulers. Writing sometimes **predated states**:
+pre-state Zapotec 600–200 B.C. recorded names of sacrificed elite captives from endemic chiefly
+competition. Not all states had writing (Inca, Tarascans)—do not define civilization by
+writing. Functions expand over time: early = political/military propaganda on stone; Aztecs
+expanded to economic tribute lists (Codex Mendoza). Literacy restricted to elite as esoteric
+knowledge distinguishing nobles from commoners; texts high propaganda content, not unbiased
+history (Marcus, Writing entry).
+
+### Emblem glyphs and codices
+
+**Emblem glyphs** are honorific titles linking a ruler to a kingdom based on *kul ahaw*
+“divine lord” plus place/political-unit glyph (~30 sites known); recognized by Heinrich Berlin
+1958; enabled Proskouriakoff/Berlin royal-history hypothesis and later geopolitics (Marcus;
+Martin–Grube superstates) (David Stuart). Of fourteen surviving pre-Columbian screenfold books
+on deerhide or bark paper: Maya (4, astronomical), Mixtec (historical), or Mixteca-Puebla
+(deities/divination) (Carolyn Tate). Two of five Mesoamerican writing systems—Mixtec and
+Aztec—developed in the Postclassic; Yucatán retained simplified Maya writing from Classic into
+Postclassic (others: Zapotec, Epi-Olmec) (Michael E. Smith).
+
+### Maya sophistication and Late Formative origins
+
+Maya writing is the most sophisticated indigenous Mesoamerican system; Classic vase texts can
+record first/second-person deity speech as if conversation. Only four pre-Contact codices
+survive; abundant stone/pottery inscriptions enable historical reconstruction of kings,
+politics, ritual, and war—especially accelerating since ~1980 decipherment breakthroughs
+(Webster; Taube). Southern Lowlands Late Formative sees first sophisticated hieroglyphs without
+clear antecedents (Houston). **La Mojarra Stela 1** is one of Mesoamerica’s oldest long texts
+(A.D. 143/156) (Diehl). Personal names often from 260-day calendar (Mixtec/Zapotec) or
+animals/precious objects (Maya/Aztec); titles acquirable for military success (Joyce Marcus,
+Names and Titles). Cotzumalhuapa writing combines numerals and figurative signs (27
+catalogued), structure/content undeciphered (Chinchilla Mazariegos).
+
+### “Art” as non-emic category (Carolyn Tate)
+
+No Mesoamerican language contained a term corresponding to contemporary concepts of “art” as
+individual artistic expression. Yucatec *itsatil*/*miats* denote skill, wisdom, science,
+culture. Working definition: objects into which persons deliberately and skillfully encoded
+local wisdom or spiritual forces.
+
+Source: [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]].
+
 ## Causal and Structural Links
 
 - **part_of:** [[mesoamerica-culture-area]] intellectual package
@@ -76,4 +129,5 @@ Stirling’s reading of Tres Zapotes Stela C (Long Count ~31 B.C.) sparked unres
 
 ## Related
 
-[[mesoamerican-calendar]] · [[mesoamerica-culture-area]] · [[maya-civilization]] · [[zapotec]] · [[mixtec]] · [[olmec]] · [[monte-alban]] · [[tres-zapotes]] · [[tikal]] · [[mesoamerican-state-formation]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]]
+[[mesoamerican-calendar]] · [[mesoamerica-culture-area]] · [[maya-civilization]] · [[zapotec]] · [[mixtec]] · [[olmec]] · [[monte-alban]] · [[tres-zapotes]] · [[tikal]] · [[mesoamerican-state-formation]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

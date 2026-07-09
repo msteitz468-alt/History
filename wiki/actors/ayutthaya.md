@@ -9,8 +9,8 @@ affiliated_with: ["Theravada Buddhism", "Ming China (tributary trade)", "residen
 opposed_by: ["[[khmer-empire|Angkor]] (sacked 1431)", "Sukhothai (absorbed)", "Lan Na (Chiengmai)", "Burma (Toungoo & Konbaung)"]
 key_events: ["the founding of Ayutthaya (1351)", "the sack of Angkor (1431)", "Trailok's sakdi na administrative reforms (15th c.)", "the Burmese destruction of the city (1767)"]
 key_processes: ["[[indian-ocean-trade]]", "[[southeast-asian-age-of-commerce]]", "[[southeast-asian-absolutism]]", "[[buddhism|Theravada Buddhism]]"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, state, southeast-asia, thailand, late-middle-ages, early-modern]
 ---
 
@@ -67,8 +67,18 @@ Ayutthaya made good, where Sukhothai and Lan Sang did not, the Tai claim to lead
 experience. It is the mainland counterpart, in the commercial age, to the archipelago's
 [[melaka|Melaka]] and [[majapahit|Majapahit]].
 
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+**Foundation and mandala context.** Thai (Tai) capital established at Ayutthaya **1351** at the confluence of the Chao Phraya, Pasak, and Lopburi rivers. Founder **Ramathibodi I** from U Thong married a Suphanburi woman; the mandala soon incorporated Suphanburi and Lopburi. (Formal name: Dvaravati Śrī Ayutthaya—linking to the earlier [[dvaravati]] cultural horizon.) Late Classic Thai history (1250–1440) is characterized as “**muang pluralism**”: neighbouring mandalas under Ramkhamhaeng included [[sukhothai]], Lan Na, Phayao, Lopburi. [[sukhothai]] had been a main Khmer outpost SE of Chiang Mai until the 1240s, when it fell to an alliance of Thai chiefs—first kingdom in modern Thailand territory to use Tai as language; Ramkhamhaeng r. 1279–1298 (“sovereign of all the Tai” in 1292 inscription). By 1320 Sukhothai’s mandala contracted; Ayutthaya’s rise 1351 threatened the weakened polity. 14th-c. struggle: both used Buddhism–Hinduism synthesis for kingship; Ayutthaya had “superior techniques of organization,” better location, wider resources, and monarchy’s **monopoly over maritime trade** (Wyatt). By **1378** Sukhothai reluctantly subordinate; 1412 Ayutthayan chief resident; capital moved to Phitsanulok 1430; Sukhothai became Ayutthaya province **1438**. Sukhothai was a major ceramic center 1300–1450 (underglaze brown/white; Sawankhalok green-glazed)—export industries serving Postclassic Seasia under the Ming ceramic gap.
+
+**Expansion and peers.** **Borommaracha II** (1424–1448) tested armies against Angkor, Sukhothai, Lan Na; conquered [[angkor]] by **1432** (after Angkor was already much weakened by repeated struggles with Ayutthaya and [[champa]]); made Sukhothai a province 1438; attacked Lan Na 1442. Trailok (1448–1488) continued the Lan Na struggle. 1450s three major mandalas: **Ayutthaya, Lan Na, Lan Sang**. S.J. Tambiah applied mandala analysis to Ayutthaya’s polity and temple layouts (alongside Mataram, Majapahit, [[borobudur]], Angkor Wat).
+
+**Postclassic maritime role.** Ayutthaya among three dominant Postclassic mainland kingdoms (with Bago); hybrid capital type (with Longvek, Bago, later Thanh Hoa). Melaka later sought Chinese help vs Ayutthaya, but a 15th-c. Ayutthaya text cites Melaka as vassal; ~1490 per Tomé Pires Melaka had thrown off allegiance and supported Pahang doing the same—northern Malay-speaking peninsula remained in Ayutthaya’s mandala. Fifteenth-century Siamese law book *Kot Mandirapala* claims [[malayu]] as Ayutthaya vassal. Push of Ayutthaya military threat and pull of maritime trade riches drove the Khmer capital’s eastward move after 1432. In the broader periodization, Ayutthaya is a Postclassic successor mandala as Angkor, Majapahit, Malayu, and Bagan faded ([[seasian-classic-periodization]]).
+
+*Source: John N. Miksic & Goh Geok Yian, *Ancient Southeast Asia* (Routledge, 2017); [[sukhothai]]; [[dvaravati]]; [[melaka]].*
+
 ## Related
 
-[[khmer-empire]] · [[pagan-kingdom]] · [[southeast-asian-age-of-commerce]] · [[southeast-asian-port-polity]] ·
+[[khmer-empire]] · [[pagan-kingdom]] · [[sukhothai]] · [[dvaravati]] · [[southeast-asian-age-of-commerce]] · [[southeast-asian-port-polity]] ·
 [[southeast-asian-absolutism]] · [[buddhism]] · [[melaka]] · [[southeast-asia]] ·
-[[tarling-cambridge-history-southeast-asia-v1-1992]]
+[[tarling-cambridge-history-southeast-asia-v1-1992]] · [[miksic-goh-ancient-southeast-asia-2017]]

@@ -7,7 +7,7 @@ period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages, High Mid
 controlled_by: ["Postclassic K'iche', Kaqchikel, Tz'utujil, Mam and related conquest states", "Spanish Audiencia de Guatemala", "United Provinces of Central America then Republic of Guatemala"]
 events_here: ["[[conquest-of-guatemala-1524]]", "Kaqchikel rebellion after Alvarado alliance", "Liberal coffee reconquest of land/labor (Barrios era)", "Civil war counterinsurgency peak 1978–83", "Finca San Francisco massacre 17 July 1982", "Peace accord 29 December 1996"]
 processes_here: ["[[maya-highland-pacific-development]]", "[[highland-maya-colonial-modern]]", "[[virgin-soil-epidemics]]", "[[spiritual-conquest-and-colonial-church]]", "[[colonial-mesoamerica-native-peoples]]"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-08
 tags: [place, mesoamerica, maya, guatemala]
 ---
@@ -36,6 +36,24 @@ Civil war began after **1960** abortive coup vs Ydígoras Fuentes (**36 years** 
 
 Largest continuous Maya-speaking national population; theater of classic congregación “legal vs real country” dynamics; coffee–highland labor system as structural inequality; late-20th-c. genocide-scale counterinsurgency and subsequent Maya political/cultural renaissance (Menchú Nobel **1992**; Maya movement). Links prehistoric southern Maya florescence to modern survival politics via [[highland-maya-colonial-modern]].
 
+## From Evans & Webster 2001 (Highlands of Guatemala)
+
+### Physiography and resources
+
+Highlands loosely defined as above **800 m** elevation. Southern highlands = Sierra Madre volcanic range parallel to the Pacific coast; north of the volcanoes, older igneous complex with ash-filled valleys dissected into *barrancas*; largest valleys **Guatemala** and **Quezaltenango**. North of Motagua Valley continental rift: metamorphic northern highlands to **3,000 m** (Cuchumatanes, Chuacús, Las Minas); Alta Verapaz karst. Climate: southern highlands temperate (**15–25°C** mean), rainfall **2,000–3,000 mm**; rainy season May–Oct/Nov; *tierra fría* Cuchumatanes **<13°C**. Drainage via Usumacinta (Chixoy) to Gulf of Campeche and Motagua/Polochic to Caribbean.
+
+Highlands supplied lowlands with **jade** (Manzanel–Acasaguastlán–Guaytan), **obsidian** (El Chayal, San Martín Jilotepeque, Ixtepeque ~85 km SE), **salt** (Sacapulas, Salinas de los Nueve Cerros), diorite celts, basalt grinding stones, volcanic ash/mica temper, hematite/cinnabar, iron pyrite for mirrors, copper and some gold, and **quetzal feathers** from Cuchumatanes and Sierra de las Minas cloud forests.
+
+### Settlement sequence (summary)
+
+Human settlement extends from Lithic through Late Postclassic/Protohistoric. Little systematic research relative to lowlands (isolation; greater lowland research investment). Key programs: Carnegie/Penn State at [[kaminaljuyu|Kaminaljuyú]]; French at Mixco Viejo and Río Chixoy; Spanish at Totonicapan/Quezaltenango; SUNY Albany Quiche Project; United Fruit at Zaculeu; University Museum Verapaz Project. Lithic stage ends **c. 6000 B.C.**; possible entry as early as **15,000 B.C.**; Clovis-like obsidian point near San Rafael; Los Tapiales fluted-point site near Totonicapan ~**9000 B.C.** Archaic **c. 6000–2000 B.C.**: settled communities on Pacific coast and domestication of maize, beans, squash, avocado, chile, pumpkin, tomato; El Chayal Archaic tools; Quiche Basin preceramic ~**11,000–1200 B.C.**
+
+Summary phases: Lithic → Archaic (coastal sedentism, domestication) → Early Formative (Pacific coast; Arevalo **c. 2500–1000 B.C.** at Kaminaljuyú) → Middle Formative (Olmec influence, monumental architecture; Las Charcas **c. 1000–500 B.C.**) → Late Formative (Izapa-style monuments, Usulután pottery) → Early Classic (Kaminaljuyú mexicanization; Thin Orange) → Late Classic (Teotihuacan influence diminishes; valley to hilltop shift) → Early Postclassic (mexicanized warrior groups; Tohil Plumbate) → Late Postclassic (hilltop conquest states; Chinautla Polychrome). Parallel northern Verapaz sequence from Xox through Chican.
+
+### Postclassic polities (positions)
+
+**Early Postclassic (c. A.D. 900–1250):** shift from open valley sites to defensive hilltop/promontory centers due to internal conflict and endemic warfare (possibly population pressure). **Carmack** argues the most significant Postclassic event was arrival **c. A.D. 1250** of mexicanized **Putun Maya** warrior groups from Gulf Coast lowlands (linked to [[chichen-itza|Chichén Itzá]]); Chalchitán and Chuitinamit-Atitlán show architectural parallels with Chichén. **Late Postclassic (c. 1250–1525)** well documented: capitals Mixco Viejo, Chinautla Viejo (Pokomam), Chuitinamit-Atitlán (Tzutujil), Utatlán (Quiche), Zaculeu (Mam), Iximche (Cakchiquel); Quiche and Cakchiquel extended into Pacific plain for cacao. Ethnohistory (*Popol Vuh*, *Annals of the Cakchiquels*, *Título Totonicapán*) claims descent from Tollan (possibly Chichén Itzá). **Some scholars reject** Carmack’s “literal” Toltec invasion reading and argue Quiché Basin archaeology shows strong Classic–Postclassic continuity — positions recorded, not adjudicated.
+
 ## Related
 
-[[highland-maya-colonial-modern]] · [[chiapas-highlands]] · [[conquest-of-guatemala-1524]] · [[maya-civilization]] · [[maya-highland-pacific-development]] · [[kaminaljuyu]] · [[encomienda]] · [[congregacion|congregación]] · [[virgin-soil-epidemics]] · [[spiritual-conquest-and-colonial-church]] · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Lovell Ch. 21)
+[[highland-maya-colonial-modern]] · [[chiapas-highlands]] · [[conquest-of-guatemala-1524]] · [[maya-civilization]] · [[maya-highland-pacific-development]] · [[kaminaljuyu]] · [[izapa]] · [[cotzumalhuapa]] · [[chichen-itza]] · [[encomienda]] · [[congregacion|congregación]] · [[virgin-soil-epidemics]] · [[spiritual-conquest-and-colonial-church]] · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Lovell Ch. 21) · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster encyclopedia]]

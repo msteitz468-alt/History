@@ -9,8 +9,8 @@ affiliated_with: [[[capetian-dynasty|the Capetian dynasty]], the legist minister
 opposed_by: [[[boniface-viii|Pope Boniface VIII]], [[edward-i-plantagenet|Edward I of England]], the Flemish towns, the Templars]
 key_events: [the Gascon war (1294–1303), the clash with Boniface VIII (1301–1303), the expulsion of the Jews (1306), the arrest of the Templars (1307), the battle of [[battle-of-courtrai-1302|Courtrai]] (1302)]
 key_processes: [the growth of the French royal bureaucratic state, royal taxation of the Church, the sacralisation of French kingship]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, late-middle-ages, western-europe]
 ---
 
@@ -79,6 +79,10 @@ rule," coinage manipulation, and the retention of war taxes after peace (the dis
 *cessante causa* principle). Philip died in November 1314, reportedly fearing he had failed
 to live up to the model of Saint Louis.
 
+## From F. Donald Logan, *A History of the Church in the Middle Ages* (2013)
+
+Logan’s ch. 13–15 refine the Boniface confrontation from the church side. Immediate issue was French (and English) taxation of clergy for war; *Clericis laicos* (24 Feb 1296) without naming kings; Boniface later allowed emergency taxation and canonized [[louis-ix-capetian|Louis IX]] (11 Aug 1297). Summer 1301: arrest of the bishop of Pamiers for secular trial; *Ausculta fili* burned and forged. Louvre (12 May 1303): Nogaret’s charges (not true pope, heresy, simony, unspeakable sins); June assembly 29-count indictment; Boniface prepared explicit excommunication of Philip for 8 September—preempted by the [[outrage-of-anagni-1303|Outrage of Anagni]] (7 Sept). Under Clement V, Philip obtained posthumous heresy proceedings against Boniface (from 1309; lapsed 1311) and absolution of Nogaret (1311) with papal praise of Philip’s “praiseworthy and honest devotion for justice.” At Vienne (1312) Philip’s armed pressure forced Templar suppression without debate of charges. Logan cautions against reading modern “nationalism” back into Philip’s power-politics, and against underestimating Flotte and Nogaret as the true administrative engines (Cromwell/Richelieu analogies).
+
 ## Significance
 
 Philip the Fair embodies the **bureaucratic, legist-driven royal state** — the most
@@ -94,3 +98,4 @@ left a "bitter legacy" and provincial revolt — the strain underside of state-b
 - `caused_by:` the sacral *auctoritas* of [[louis-ix-capetian|Saint Louis]]; `produced:` the humbling of [[boniface-viii|Boniface VIII]] and the Avignon papacy.
 - `contrasts_with:` [[edward-i-plantagenet|Edward I]] — a parallel legist state-builder, but one bound to consent through [[english-parliament|parliament]].
 - `part_of:` [[medieval-anti-judaism|the expulsions of European Jewry]] (France 1306).
+- [[outrage-of-anagni-1303]] · [[avignon-papacy]] · [[logan-history-of-the-church-in-the-middle-ages-2013]]

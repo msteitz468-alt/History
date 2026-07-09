@@ -9,8 +9,8 @@ affiliated_with: [[[ptolemy-i-soter]], [[alexander-the-great]]]
 opposed_by: [[[antigonus-i-monophthalmus]], [[demetrius-i-poliorcetes]], [[lysimachus]]]
 key_events: [[[wars-of-the-diadochi-323]], [[battle-of-ipsus-301]]]
 key_processes: [[[hellenistic-world]], [[seleucid-empire]], [[seleucid-era]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, dynasty, classical-antiquity, mesopotamia]
 ---
 
@@ -35,7 +35,10 @@ of dynastic and symbolic weight for a kingdom that ruled vast Iranian population
   satrapies" that Antigonus had held, then campaigned east to the Indus, where he came
   to terms with the Mauryan **[[mauryan-empire|Chandragupta]]** (c. 303): ceding the
   easternmost provinces (Paropamisadae, Arachosia, Gedrosia) in exchange for **c. 500
-  war-elephants** — the force that proved decisive at Ipsus.
+  war-elephants** — the force that proved decisive at Ipsus. **Simon Price** (OHCW)
+  dates the gift to **302** (“five hundred… in return for a cessation of hostilities”)
+  and notes that ~400 fought the next year in the crucial victory — a signature
+  Hellenistic military novelty.
 - **[[battle-of-ipsus-301|Ipsus]] (301)** and after: with [[lysimachus]] he destroyed
   Antigonus, taking Syria — though Ptolemy seized Coele-Syria, the seed of the
   [[syrian-wars|Syrian Wars]]. Master of the north Syrian *Seleucis*, he founded the

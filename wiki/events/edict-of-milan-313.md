@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [[[battle-of-the-milvian-bridge-312]], [[great-persecution-303]]]
 consequences: [[[christianization-of-the-roman-empire]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, late-antiquity, mediterranean-world]
 ---
 
@@ -61,4 +61,12 @@ Conventionally treated as the charter of Christian liberty, the "Edict of Milan"
   [[great-persecution-303|Great Persecution]]; preceded by Galerius' edict of 311
 - Led toward the [[council-of-nicaea-325|Council of Nicaea]] and the
   [[christianization-of-the-roman-empire|Christianization]] of the empire
-- Source: [[bowman-cah-v12-2005]] (Ch. 4, Averil Cameron)
+- Source: [[bowman-cah-v12-2005]] (Ch. 4, Averil Cameron) · [[mitchell-later-roman-empire-2015]]
+
+## Historiography
+
+### From Mitchell, Later Roman Empire (2015)
+
+The compact at Milan in **313** proclaimed religious toleration for all but particularly favored Christians by definitively ending persecution, restoring Christian property, and compensating at state expense those who had obtained confiscated Christian possessions. After Constantine’s conversion and joint rule with Licinius (313–324), Licinius’s letter to Asia Minor, Syria, and Egypt guaranteed restoration of privileges/property (Lactantius *DMP* 48; Eusebius *HE* 10.5.2–14). Central policy aim was **freedom of worship empire-wide**. Licinius’s monotheistic army prayer before Maximinus battle was generalized monotheism acceptable to Christians, not necessarily full Christian allegiance. Licinius later restricted assemblies/synods and clerical tax privileges as relations with Constantine deteriorated — Eusebius frames as renewed persecution, Mitchell as security/fiscal measures without Great Persecution-level polarization. Constantine’s 324 victory letters combine Christian triumphalism with emphatic plea for religious tolerance to eastern provincials (*VC* 2.56; 2.60): no forced conversion; temples of “falsehood” may remain.
+
+Source: [[mitchell-later-roman-empire-2015]] · [[constantine-the-great]] · [[christianization-of-the-roman-empire]]

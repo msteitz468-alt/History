@@ -5,8 +5,8 @@ origin: "Articulated by Sukarno, June 1945; enshrined in 1945 Constitution"
 applies_to_periods: [Cold War, Contemporary]
 applies_to_regions: [southeast-asia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, cold-war, contemporary, southeast-asia]
 ---
 
@@ -36,6 +36,25 @@ The principal contested dimensions are:
 1. **Islam and the secular state**: Whether the *Ketuhanan* principle adequately accommodates Muslim political aspirations or whether it permanently disadvantages Muslim parties relative to a notionally secular state ideology
 2. **Authenticity**: Whether Pancasila represents a genuinely indigenous Indonesian political philosophy or a post-hoc rationalization of Sukarno's personal preferences
 3. **Political use**: Whether the *asas tunggal* requirement under Suharto was a legitimate protection of national unity or an abuse of state ideology to suppress political pluralism
+
+## The Jakarta Charter's Drop and Suharto-Era Religious Administration (Formichi)
+
+Chiara Formichi's [[formichi-islam-and-asia-2020|*Islam and Asia: A History*]] (2020) adds detail on
+the 1945 compromise and its long tail. The 1945 constitution dropped the Jakarta Charter's
+shari'a-compliance clause for Muslims after Vice-President Hatta's efforts, substituting
+freedom-of-religion language; Sukarno reportedly called the constitution "temporary," implying the
+door to future Islamization remained open. Formichi (2020) also traces Sukarno's own intellectual
+path to Pancasila's synthesis: he had boarded with [[sarekat-islam|Sarekat Islam]] leader
+Tjokroaminoto and married his daughter before articulating a non-confessional nationalism in
+"Nationalism, Islamism and Marxism" (1926), two decades before the June 1945 Pancasila speech.
+
+Under **Suharto** (president 1967–1998), the state mandated from 1966 that all Indonesians affiliate
+with one of five officially recognized religions (Islam, Catholicism, Protestant Christianity,
+Hinduism, Buddhism) while funding mosque construction — even as Islamist organizations were pushed
+out of formal politics into *da'wa* (proselytization) work, consistent with the broader
+*asas tunggal* depoliticization documented above. See [[fall-of-the-ottoman-empire-1922]] and
+[[sarekat-islam]] for the earlier Caliphate-era debates within Indonesian Islamic politics that
+Pancasila's non-confessional settlement ultimately superseded.
 
 ## See Also
 

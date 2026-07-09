@@ -9,8 +9,8 @@ affiliated_with: [Thessaly, Sparta (xenia), Lampsacus, Argos, Macedon, the tyran
 opposed_by: [the [[cleisthenes|Alcmaeonidae]], the Spartans under [[cleomenes-i|Cleomenes I]], the Delphic oracle, Harmodius and Aristogeiton]
 key_events: [the archon-list of conciliation, the new "owl" coinage, the assassination of Hipparchus (514), the expulsion of 510]
 key_processes: [the hardening of [[greek-tyranny|tyranny]], the cultural patronage of Athens, the road and building programme]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, dynasty, archaic-period, central-greece]
 ---
 
@@ -92,9 +92,22 @@ The reign is a textbook case of thin, contradictory, and partisan evidence: **Th
 dedications), and the numismatic sequence of the owls. The chronology of the buildings and
 the coinage, and the elder-brother question, remain unresolved.
 
+### Hall (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] uses the end of the tyranny as a source-criticism case and reframes fall and memory:
+
+- **Intentionality test:** Herodotus and Thucydides insist tyranny ended with Spartan expulsion of Hippias in 510 (not Harmodius/Aristogiton’s 514 killing of Hipparchus), prompted by an Alcmaeonid-bribed Delphic oracle — insistence reveals widespread contrary popular belief (itself a historical fact), possibly entangled with Alcmaeonid connections of the historians.
+- **Assassination of Hipparchus (early July 514):** Gephyraioi Harmodius and Aristogiton; Thuc. 6.54–57 gives erotic jealousy, but 1.20.2 implies original target was elder brother Hippias — underscoring tyrannical instability. Antenor’s bronze statues before 480; annual cult by fourth century; skolia claim they “killed the tyrant” and “restored equality” — second inaccurate (Hippias ruled four more years). Assassination opened aristocratic resistance as Hippias grew harsher.
+- **Fall 510:** after Ankhimolios’s abortive sea expedition, Cleomenes invaded by land, routed Thessalian cavalry, besieged acropolis; capture of Hippias’s family forced departure within five days for Sigeum (Hdt. 5.63–65). Alcmaeonid continuous-exile + Pythia-bribe story is weak if Cleisthenes was archon 525/4. Spartan motives not ideology of *eunomia*: expand into Saronic Gulf; ensure a docile ally north of the isthmus after Pisistratid strengthening of Athens.
+- Theseus iconography and cult integration under the sons; caution against stripping them of building commissions in favor of Cleisthenic dating.
+
+## From the Oxford History of the Classical World (1986)
+
+**Forrest (Ch.1, [[sources/boardman-oxford-history-classical-world-1986|OHCW 1986]]).** Succession after Pisistratus’ death in 528; expulsion of the sons in **510** by “a combination of exile, intrigue, and Spartan arms.” Forrest places the fall within Sparta’s sixth-century expansionism under Chilon’s diplomatic model: Spartans “were not opposed to tyranny as such, except in Sparta,” but expansion brought them up against powers under tyrants that had to be removed “for differing reasons,” “chief among them being the sons of Pisistratus in Athens.” Cleisthenes then “added the people to his faction.” **`followed_by:`** [[actors/cleisthenes]] and deme–tribe reform; **`caused_by:`** (in Forrest’s framing) Spartan power politics more than pure anti-tyrant principle.
+
 ## Related
 
 - Father: [[pisistratus]] · state: [[athens]] · form: [[greek-tyranny]]
 - Fall: [[cleomenes-i]] (Sparta) · rivals: [[cleisthenes]] (Alcmaeonidae) · event: [[assassination-of-hipparchus-514bce]]
 - Successor settlement: [[cleisthenic-reforms-508bce]] · later: [[battle-of-marathon-490bce]] (Hippias returns with Persia)
-- Period: [[archaic-period]] · Source: [[boardman-cah-v4-1988]] (Ch. 4, D. M. Lewis)
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v4-1988]] (Ch. 4, D. M. Lewis); [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

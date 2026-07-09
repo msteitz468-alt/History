@@ -8,8 +8,8 @@ region: [indian-ocean, south-asia, southeast-asia, near-east, arabian-peninsula,
 process_type: economic
 driven_by: ["the monsoon wind system", "local fishing and sailing communities", "Hindu, Muslim, Buddhist, and Jewish merchant institutions", "South Indian merchant guilds", "the demand of the Chinese and Islamic 'engines'", [[afro-eurasian-world-system]]]
 produces: ["a poly-religious maritime trading world", "the Islamization of coastal Southeast Asia and East Africa", "the Swahili and Gujarati port cities", "cross-cultural transmission of goods, faiths, and ideas"]
-sources_ingested: 8
-last_updated: 2026-06-27
+sources_ingested: 9
+last_updated: 2026-07-08
 tags: [process, early-middle-ages, high-middle-ages, late-middle-ages, early-modern, long-19th-century, contemporary, indian-ocean]
 ---
 
@@ -40,8 +40,7 @@ Extended by Hall’s narrative: the system persisted in recognisable form into t
 - **Poly-religious merchant institutions.** Hindu, Muslim, Buddhist, and Jewish
   institutions and merchants "coming from elsewhere" shaped trade; partnerships were
   routinely formed **across religious affiliations and ethnic boundaries**, linking
-  coastal cities to each other and to distant centers (the [[cairo-geniza|Cairo
-  Geniza]] documents the Jewish India trade; Buddhist monastic complexes like Kanheri
+  coastal cities to each other and to distant centers (the Cairo Geniza documents the Jewish India trade; Buddhist monastic complexes like Kanheri
   near Mumbai were patronized by merchants).
 - **South Indian merchant guilds** (the Ayyavole/Five Hundred, the Manigramam) that
   "dominated commerce, founded temples, and employed private armies."
@@ -189,3 +188,13 @@ the Zheng family of Fujian out-earned the entire VOC and that indigenous network
 "continued to operate alongside VOC ones." Where the companies *did* impose
 monopoly — the [[banda-conquest-1621|nutmeg islands]] — they did so by extreme
 violence, not commercial superiority.
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+[[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] thicken the **Southeast Asian terminus** of Indian Ocean trade from Preclassic prestige networks through Middle–Late Classic shipwrecks, coinage, and Chinese regulatory history — complementary to Reid's entrepôt network and Benjamin's Roman-era first silk roads.
+
+**Deep structure.** 4th-c. BCE Alexander's fame is set against already-active Seasian sailors to India; the Indian Ocean maritime route held ~2,000 years by merchant adventurers without maps/compasses rather than political force. Preclassic overland prestige goods: large agate/carnelian assemblages (Ban Don Ta Phet, Noen U-Loke, Non Muang Kao); salt production/trade in NE Thailand. High-tin bronze knobbed bowls: tin in Thailand not India; origin debate open. *Lingling-o* and bicephalous nephrite ear ornaments (~500 BCE–500 CE) form a South China Sea status-symbol interaction sphere (blanks from Fengtian Taiwan workshops; local working Philippines/Sa Huynh/Khao Sam Kaeo) that faded in the Protoclassic as new symbols replaced old — concurrent_with [[dongson-culture]] sphere.
+
+**Tang–Song maritime boom.** Early Classic international maritime trade reached unprecedented prosperity; Tang (618) demand for luxuries, medicine, spices; Buddhism increased Chinese incense demand — enabled [[srivijaya]]. After An Lushan (755–763): Abbasids shifted to Baghdad; 758 Persian/Arab sack of Guangzhou; reverse massacre at Yangzhou; Tang lost overland Silk Road; West Asians relocated to Seasia; Oman–China ships met on the Siamo-Malay isthmus; 878 Guangzhou sacked again, foreigners fled to Kalah. By late 7th c. sea route preferred for Chinese Buddhist pilgrims (Guangzhou → often Palembang → Sri Lanka → NE India). Chinese regulations: private trade illegal; 30% duty; Commissioner for Trading with Foreign Ships after 714; by 8th–9th c. Chinese sojourning; Seasian rulers (Yijing: king of Srivijaya's ships) directly involved.
+
+**Middle–Late Classic.** First written evidence of large semi-permanent foreign communities late 11th c. (1088 Barus Indians; Kota Cina South Indian/Sri Lankan sculptures). Foreigners managed internal security/justice as in China/India ports since Protoclassic; fully urban Sumatran sites form Middle Classic. Sandalwood-flower coins (silver/gold/electrum) in Java Early Classic and Sumatra/peninsula Middle Classic; one example 12th-c. Fostat Egypt. No Chinese ships of Middle Classic found outside China; most Chinese abroad were passengers on Seasian ships; permanent overseas Chinese communities not until Late Classic. Tang/Northern Song capital offence to go abroad without permission (to 1126); late Song relaxed. Cloth major trade item; cotton grown central Myanmar, east Java, Bali, Sumbawa, Buton, Siam, Sumatra. Expansion illustrated by 10th-c. Intan and Nanhan/Cirebon wrecks (Indonesian-built, Java-bound Chinese cargoes). Zhao Rugua *Zhu-fan-zhi* (1225): no overseas Chinese settlements mentioned; traders not restricted to designated ports. Pu-ni (perhaps Brunei): prices fixed with king before trade; clandestine trading punishable. Wang Dayuan (*Dao Yi Zhi Lue*, voyages 1330–34, 1337–39): first Chinese sea trader to write his experiences; only two overseas Chinese communities noted. 1222 China: illegal to buy foreign goods with money — barter silk/lacquer/porcelain, stimulating SE China ceramic industry. By 1300 Chinese coins standard in Majapahit; Middle Classic outflow created coin shortage in China (1074 Zhang Fangping complaint). Commerce within Seasia and with the Indian Ocean remained sufficient for cities and courts even under Ming restrictions. Contains shipwreck evidence; concurrent_with [[southeast-asian-port-polity]]; enabled [[majapahit]].

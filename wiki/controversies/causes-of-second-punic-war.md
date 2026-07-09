@@ -5,7 +5,7 @@ period_involved: [Classical Antiquity]
 regions_involved: [iberia, north-africa, italy, mediterranean-world]
 positions: [Polybius' three-causes analysis (Barcid wrath, Sardinia, Spanish success); the Saguntum/Ebro legal dispute; the "defensive imperialism" vs. "aggressive imperialism" debate]
 resolution_status: open
-last_updated: 2026-06-11
+last_updated: 2026-07-08
 tags: [controversy]
 ---
 
@@ -64,6 +64,24 @@ placed Saguntum *north* of the Ebro to brand Hannibal a treaty-breaker).
   systemic Roman appetite for war and conquest. The two positions frame the whole
   interpretation of mid-Republican expansion.
 
+- **Hoyos: Rome's démarche as the proximate trigger.** Dexter Hoyos
+  ([[hoyos-hannibals-dynasty-2003|*Hannibal's Dynasty*, 2003]]) rejects any genuine Barcid
+  war-plan under [[hamilcar-barca|Hamilcar]] or [[hasdrubal-the-fair|Hasdrubal the Fair]] —
+  the Spanish programme, he argues, was pragmatic rebuilding, undertaken without the
+  alliance- or fleet-building a war of revenge would require. He reads the **238/237
+  Sardinia seizure** as an opportunistic Roman power-play (not a treaty entitlement), and
+  locates the proximate trigger in Rome's own conduct in 220–219: entrenching the anti-Punic
+  faction at [[siege-of-saguntum-219bce|Saguntum]] by executing its opponents, and delivering
+  an uncompromising démarche to [[hannibal|Hannibal]] at New Carthage, which Hannibal read as
+  intent to destabilise Punic Spain. On this view the initiative for renewed war came from
+  Rome, though Hoyos agrees the underlying great-power collision was probably unavoidable.
+
+- **Mutual-willingness framing.** Charles Freeman ([[freeman-egypt-greece-rome-2014]])
+  offers a middle-ground reading distinct from both the pro-Rome and pro-Barcid
+  positions above: neither Rome nor Carthage, in his view, "appears to have had any
+  inhibitions about going to war again" in 219–218 — a mutual-willingness account that
+  resists placing sole blame on either Hannibal's siege of Saguntum or Roman provocation.
+
 ## Resolution status
 
 **Open.** The legal and chronological puzzles of Saguntum and the Ebro cannot be
@@ -77,4 +95,4 @@ not a factual question to be settled.
   prior: [[first-punic-war-264-241bce]] · [[mercenary-war-241-237bce]]
 - Actors: [[hamilcar-barca]] · [[hannibal]] · treaty series:
   [[romano-punic-treaties]] · [[philinus-treaty-controversy]]
-- Source: [[astin-cah-v8-1989]] (Scullard Ch. 2; Briscoe Ch. 3; Harris Ch. 5)
+- Source: [[astin-cah-v8-1989]] (Scullard Ch. 2; Briscoe Ch. 3; Harris Ch. 5) · [[hoyos-hannibals-dynasty-2003|Hoyos]] · [[freeman-egypt-greece-rome-2014|Freeman, *Egypt, Greece, and Rome* (2014)]]

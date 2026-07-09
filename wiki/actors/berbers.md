@@ -9,8 +9,8 @@ affiliated_with: [Carthage (allies and subjects), Rome (client kings, then provi
 opposed_by: [Carthage and Rome at various times; Numidia vs. Carthage in the Punic Wars]
 key_events: [Libyan/Tehenou contact with Egypt, the kingdom of Numidia under Masinissa, the Jugurthine War, the Roman annexation of Mauretania, the Arab conquest]
 key_processes: [[[trans-saharan-trade]], state-formation, Romanization, Islamization]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, people, north-africa, classical-antiquity]
 ---
 
@@ -64,6 +64,17 @@ priestess-queen **al-Kahina**. Once Islamized, the Berbers turned their characte
 the eastern Caliphate — the prelude to the great Berber empires of the [[almoravids|Almoravids]] and
 Almohads. Their conversion is the western arm of the [[islamization-of-africa|Islamization of Africa]].
 
+Berber agency also **made a caliphate**: the **[[jiwa-fatimids-rise-2018|Kutama]]** of the lesser Kabylia — a
+tribe of the **Sanhaja** confederation — were won to the [[ismaili-movement|Ismaili]] [[dawa|da'wa]] by the
+da'i [[abu-abd-allah-al-shii|Abu Abd Allah al-Shi'i]] from c. 893 and became "the backbone of the Fatimid state
+in North Africa," the army that overthrew the [[aghlabid-dynasty|Aghlabids]] and installed
+[[al-mahdi-billah|al-Mahdi]] in **909** (see [[foundation-of-the-fatimid-caliphate-909]]). Rival **Zanata**
+Berbers, by contrast, backed the Kharijite revolt of [[abu-yazid-al-nukkari|Abu Yazid]] against the Fatimids,
+while the Sanhaja chief **Ziri b. Manad** and his son **Buluggin** stayed loyal — Buluggin founding the
+**[[maghrib-successor-states|Zirid]]** viceroyalty when [[al-muizz-li-din-allah|al-Mu'izz]] moved the
+[[fatimid-caliphate|Fatimid]] capital to Egypt in 972. The [[foundation-of-the-fatimid-caliphate-909|Fatimid
+rise]] is thus, like the later Almoravid and Almohad movements, a case of Berber tribal power raising an empire.
+
 ## Significance
 
 The Berbers are the **indigenous spine of North African history** and a corrective to accounts that reduce
@@ -74,4 +85,5 @@ the **carriers of the [[trans-saharan-trade|trans-Saharan trade]]** that, after 
 ## Related pages
 
 [[gha-vol2-ancient-civilizations]] · [[carthage]] · [[garamantes]] · [[roman-africa]] ·
-[[trans-saharan-trade]] · [[sub-saharan-africa]] · [[sahara]]
+[[trans-saharan-trade]] · [[sub-saharan-africa]] · [[sahara]] · [[fatimid-caliphate]] ·
+[[foundation-of-the-fatimid-caliphate-909]] · [[abu-abd-allah-al-shii]] · [[jiwa-fatimids-rise-2018]]

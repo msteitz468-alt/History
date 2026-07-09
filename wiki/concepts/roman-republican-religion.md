@@ -8,8 +8,8 @@ origin: >
 applies_to_periods: [Archaic Period, Classical Antiquity]
 applies_to_regions: [mediterranean, western-europe]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept, classical-antiquity, archaic-period, mediterranean, western-europe, rome]
 ---
 
@@ -370,12 +370,16 @@ superficially unchanging rituals (the Parilia) acquired wholly new meanings (the
 birthday of Rome; Caesar's Munda victory), while continuity of attitude was upheld
 precisely *through* adaptation of form.
 
+## OHCW (Stockton; Lyne — bridge to Augustus)
+
+**Stockton** presents Augustan temple rebuilds, Secular Games, and moral legislation as claiming to **restore** the high seriousness of old Republican cult and *mos maiorum* after civil-war neglect — the “restoration” that Price (CAH X) re-reads as restructuring. **Lyne** notes that poets of the first Augustan period negotiated that claim (Horace public Odes; Propertian irony; Ovid embodying the tide Augustus tried to stem). OHCW thus supplies the late-Republican/Augustan hinge rather than new Republican-period evidence. Source: [[boardman-oxford-history-classical-world-1986]] (Stockton Ch. 22; Lyne Ch. 24).
+
 ## Related
 
 - Companion (CAH IX): [[late-republican-intellectual-culture]] · [[plebs-urbana]]
 - Actor: [[roman-republic]] · [[roman-patriciate]]
-- Concept: [[roman-provincial-system]] · [[roman-comitia-centuriata]]
+- Concept: [[roman-provincial-system]] · [[roman-comitia-centuriata]] · [[augustan-religion]]
 - Event: [[lex-ogulnia-300bce]] · [[bacchanalian-affair-186bce]]
 - Process: [[struggle-of-the-orders]]
 - Controversy: [[reliability-of-early-roman-tradition]]
-- Source: [[walbank-cah-v7-2-1989]] (Ch. 12, North) · [[crook-cah-v9-1992]] (Ch. 19, Beard)
+- Source: [[walbank-cah-v7-2-1989]] (Ch. 12, North) · [[crook-cah-v9-1992]] (Ch. 19, Beard) · [[boardman-oxford-history-classical-world-1986]] (Stockton; Lyne)

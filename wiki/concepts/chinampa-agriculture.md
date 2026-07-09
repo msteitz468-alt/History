@@ -5,7 +5,7 @@ origin: "Aztec-period intensive raised-field cultivation in the southern Basin o
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion, Long 19th Century, World Wars Era, Cold War, Contemporary]
 applies_to_regions: [mesoamerica]
 contested: yes
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [concept, mesoamerica, economic, agriculture]
 ---
@@ -53,6 +53,17 @@ Sarah L. Cline identifies chinampas as the **major exception** to colonial land 
 
 Frans J. Schryer extends the social consequence into the national period: within the former San Juan Tenochtitlan *parcialidad*, the humid southern chinampa market-gardening zone (with fodder cutting/selling) kept language and customs well into the twentieth century via endogamy, outsider restriction, resource control, and an intellectual elite — in contrast to the northern Tlatelolco section that lost ethnic cohesion earlier (Schryer 2000; [[central-mexico-indigenous-since-independence]], [[tenochtitlan]]).
 
+## Evans & Webster 2001 (Fedick; Parsons; Feinman; Smith; Calnek; Evans)
+
+Scott L. Fedick, Jeffrey R. Parsons, Gary M. Feinman, Michael E. Smith, Edward Calnek, and Susan Toby Evans in [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]] add scale, yield, and chronology anchors:
+
+- **Fedick (Agriculture and Domestication):** Chinampas as raised beds in shallow freshwater swamps of the Xochimilco–Chalco Basin; dike-controlled water; compost + canal muck; estimated **~120 km²** of reclaimed wetlands at Spanish contact; residual cultivation continues at Xochimilco. Home gardens (Nahuatl *calmil*) widespread alongside milpa (maize + beans + squash).
+- **Parsons (Basin of Mexico):** Middle Postclassic saw the **first large-scale successful swamp drainage and chinampa creation** in Lake Chalco–Xochimilco; full productive potential realized only in the Late Postclassic under Aztec imperial expansion centered at [[tenochtitlan|Tenochtitlan]]. Middle Postclassic ceramic variability (Aztec I around Chalco–Xochimilco; Aztec II around Texcoco; northern Mazapan-linked complex) suggests impermeable socio-political borders coeval with early large-scale chinampa experiments.
+- **Feinman (Economic Organization):** In wetland chinampa zones at the edge of Lake Texcoco, labor-intensive multi-cropping permitted maize returns per unit land **several times higher** than under other regimes. Long before the Aztecs, last-millennium B.C. swamp drainage created fertile wetland zones in the Maya region (Belize/Petén) for cocoa, cotton, and staples — comparative, not identical systems.
+- **Smith (Postclassic Period):** Late Postclassic Central Mexican agricultural intensification included hillside terraces, check dams, canal irrigation of alluvium, **and** transformation of Basin swamps into chinampas; similar intensification across many Mesoamerican areas.
+- **Calnek / Willey:** Raised-field/chinampa cultivation possible in and around Basin of Mexico upland lakes, supporting dense urban Teotihuacan/Tula/Tenochtitlan patterns; Mexica settlers transformed Lake Texcoco marshes with packed-earth residential platforms and chinampa garden plots.
+- **Evans (Gardens):** Besides house-lot gardens (Aztec *calmil* and milpa), formal and informal pleasure gardens were numerous in the Late Postclassic (palace complexes, zoos/aviaries, monumental retreats at Chapultepec and Texcotzingo, nurseries at Huaxtepec and Acatetelco) — horticultural skill continuous with but distinct from food chinampas; possible influence on early European botanic gardens of the mid–late 16th century.
+
 ## Limitations and Critiques
 
 - Carrying-capacity figures (~19 persons/ha) are model estimates for specific wetland configurations, not universal yields.
@@ -60,7 +71,8 @@ Frans J. Schryer extends the social consequence into the national period: within
 - Maya bajo-drainage debate remains open; do not equate every wetland feature with Aztec chinampas.
 - Chinampa construction was politically as well as ecologically driven—state and city-state labor organization matter as much as hydrology.
 - Colonial “native exception” is labor-driven, not a legal reservation; it coexists with general hacienda pressure on other land types (Cline).
+- EW2001’s ~120 km² contact estimate is an encyclopedia synthesis figure; reconcile with site-specific survey totals when both are available.
 
 ## Related
 
-[[basin-of-mexico]] · [[tenochtitlan]] · [[aztec-economy]] · [[aztec-empire]] · [[altepetl]] · [[triple-alliance-formation-1428]] · [[central-mexico-indigenous-colonial]] · [[central-mexico-indigenous-since-independence]] · [[maize-domestication]] · [[early-agriculture-americas]] · [[maya-civilization]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]]
+[[basin-of-mexico]] · [[tenochtitlan]] · [[aztec-economy]] · [[aztec-empire]] · [[altepetl]] · [[triple-alliance-formation-1428]] · [[central-mexico-indigenous-colonial]] · [[central-mexico-indigenous-since-independence]] · [[maize-domestication]] · [[early-agriculture-americas]] · [[maya-civilization]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

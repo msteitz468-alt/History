@@ -5,8 +5,8 @@ origin: the evolution of municipal life, the curiae, and the relationship betwee
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [mediterranean-world, north-africa, egypt, near-east, western-europe]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -150,3 +150,19 @@ evolved along parallel lines**, regional differences being "a matter of timing r
 
 This is CAH XIV's verdict on the long transition from the **classical *polis*** to the **medieval
 bishop's town**. Source: [[cameron-cah-v14-2000]] (Ch. 8, J. H. W. G. Liebeschuetz).
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- Third-century open rich cities vulnerable without walls → late third/fourth-century defensive circuits, sometimes dismantling earlier monuments to create safe zones inside once-extensive cities; Aurelian’s walls at Rome; eastern cities as fortified bases by tetrarchic wars.
+- Elite spending on civic monuments declined along with cities in the fourth century; aristocratic lifestyle persisted more in rural residences (mosaics, statuary, symposium literature).
+- Gaul case: Trier as capital (Constantinian palace/basilica/baths); then fifth-century shift tracked in Sidonius—“from Ausonius’ world of educated aristocrats playing sophisticated literary games to a world of churchmen interceding for their people with warrior kings.”
+- Higher-level city/elite systems show real collapse 300–700 (Woolf); micro-level family/slavery = “transformation rather than crisis.”
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **Autonomy lost, centrality retained.** City-states remained the most important settlements especially in the East, but lost most political independence and self-determination while remaining principal fora of social, economic, and religious life. Usually small by modern standards (rarely >10,000), but key to the empire’s organizational structure; *civitas*/*polis* denote town–territory fusion, not mere urban settlement; cities thrived as a competitive system.
+- **East boom vs West decline (archaeology).** Early imperial urban boom continued through fourth and fifth centuries in the East (more cities in Hierokles’s *Synekdemos* of 527 than earlier; many settlements larger than ever), with Christianizing transformation. In the West, rural survey shows villa endings and more localized village society—material-culture degradation is the most vivid illustration of imperial decline, especially in the West.

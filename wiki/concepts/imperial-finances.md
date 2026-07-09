@@ -5,8 +5,8 @@ origin: the fiscal system of the early Principate — revenues, expenditure, coi
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [italy, mediterranean-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -104,3 +104,11 @@ confiscation and judicial murder.
   confiscation (under [[nero]])
 - Companion analyses (CAH X): [[imperial-court]] · [[roman-provincial-administration]]
 - Source: [[bowman-cah-v10-1996]] (Ch. 8, Rathbone)
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- Emperors “flying blind” designing tax systems—no predictive modelling, little trend data, no concept of “the economy” as entity; pragmatic, reactive, adaptive harvesting—“The emperors harvested the economy opportunistically, aiming to take a share of whatever profit was being made.”
+- Augustan reorganization: military treasury AD 6 (1% sales tax; 5% inheritance tax for veteran bonuses); eventually ~75% of imperial revenue spent on army; great property assessments fixed permanent community tax liabilities.
+- Fiscal inflexibility: uncertainty which taxes current; burden pressed on poorest via elite exemptions; little flexibility to raise rates when economy contracted.

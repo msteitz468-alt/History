@@ -9,7 +9,7 @@ affiliated_with: [Sulla and the Sullani (early); the equestrian financiers; the 
 opposed_by: [Pompey (rival); Cato; the Parthians]
 key_events: [the [[spartacus-revolt-73-71bce|Spartacus revolt]], the consulship of 70, the censorship of 65, the [[first-triumvirate|First Triumvirate]] (60), the [[battle-of-carrhae-53bce|battle of Carrhae]] (53)]
 key_processes: []
-sources_ingested: 3
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]
 ---
@@ -68,6 +68,33 @@ Plutarch's *Crassus* (with the famous fortune and the proverbial avarice) and
 Cicero's letters; Wiseman repeatedly notes the **thinness of the record** for so
 powerful a man — a sign of his deliberately unobtrusive style.
 
+### OHCW (Boardman/Griffin/Murray 1986) — Griffin
+
+Miriam Griffin (Ch. 19): Crassus combined middling oratory/generalship with extreme
+wealth (fire speculation; “no man is rich who cannot support an army”), free political
+loans, and hospitality to new Sullan senators; joined Pompey in 70 restoring tribunes;
+funded men like Caesar and Catiline; failed as censor to enfranchise Cisalpine Gaul or
+annex Egypt. Coalition of 59 and Luca (56) gave him Spanish/Syrian commands; he was
+killed fighting Parthians — removing the third wheel of the so-called first
+triumvirate.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Ch. 19, Griffin).
+
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) places Crassus as
+one of the “Big Three” (her preferred label for the informal 50s alliance with Pompey and
+Caesar — not official *tresviri*) whose pact marks **functional republican end ~60**
+([[roman-republics-periodization]]; [[fall-of-roman-republic]]). He had ready funds for
+his own army and debtors among influential Romans; the alliance overshadowed politics
+from Caesar’s consulship in 59 until **death at Carrhae in 53**, which dissolved the
+three-way balance and ushered chaos, Pompey’s dominance, and the path to 49. With Pompey
+as consul in 70 he helped restore tribunician powers and adjust juries — modifying the
+[[sullan-constitution|Sullan system]] without a coherent alternative. Flower also notes
+his struggle against Spartacus’ large slave army as part of the 70s law-and-order failure
+of Sulla’s New Republic: success by the rebels would have encouraged further slave
+revolt.
+
 ## Related
 
 - Rival/partner: [[pompey]] · ally: [[julius-caesar]] · opponent: [[cato-the-younger]]
@@ -75,4 +102,5 @@ powerful a man — a sign of his deliberately unobtrusive style.
   father and brother killed in the Marian terror of 87 (see [[cornelius-cinna]]),
   he fled to Spain, then joined [[sulla]], commanded the winning wing at the Colline
   Gate (82), and grew rich in the [[sullan-proscriptions-82bce|proscriptions]]
-- Source: [[crook-cah-v9-1992]] (Ch. 9, Wiseman) · [[duncan-storm-before-the-storm-2017]]
+- Source: [[crook-cah-v9-1992]] (Ch. 9, Wiseman) · [[duncan-storm-before-the-storm-2017]] ·
+  [[boardman-oxford-history-classical-world-1986]] · [[flower-roman-republics-2010]]

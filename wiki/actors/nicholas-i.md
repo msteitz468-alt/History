@@ -16,6 +16,8 @@ tags: [actor, person, long-19th-century, eastern-europe]
 
 # Nicholas I of Russia
 
+> **Disambiguation:** Not Pope Nicholas I (858–867); see [[pope-nicholas-i]].
+
 **Nicholas I** (1796–1855; r. 1825–1855) was Emperor of Russia, whose reign represented the apex of autocratic conservatism, militarism, and bureaucratic centralization in 19th-century Russia. Guided by the doctrine of Official Nationality, his administration sought to freeze social reform and isolate Russia from Western revolutionary influences, a policy that ultimately culminated in the disastrous Crimean War.
 
 ## Biography / Description

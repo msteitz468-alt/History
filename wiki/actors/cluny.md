@@ -9,8 +9,8 @@ affiliated_with: [[[william-i-of-aquitaine|William the Pious of Aquitaine]], [[p
 opposed_by: [proprietary lordship over monasteries, simony]
 key_events: [[[foundation-of-cluny-909]]]
 key_processes: [[[carolingian-monasticism]], tenth-century monastic reform, [[medieval-monastic-revival]]]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, institution, early-middle-ages, high-middle-ages, western-europe]
 ---
 
@@ -58,9 +58,15 @@ of Peter the Venerable and Bernard of Clairvaux). Cluny thus stands at the hinge
 the [[medieval-monastic-revival|monastic revival]]: the culmination of the old
 Benedictine model and the prompt for the new.
 
+## From Logan, *A History of the Church in the Middle Ages* (2013)
+
+[[logan-history-of-the-church-in-the-middle-ages-2013|Logan]] dates the foundation to **909** under Duke William of Aquitaine as a reform house returning to the Rule as articulated by Benedict of Aniane; the charter provided free abbatial election and the **pope** (not local bishop or duke) as protector — underwriting exemption and Cluny’s later reforming force. Under **Mayeul/Maiolus (954–94)** priories and associates spread through France into Christian Spain and northern Italy; by the end of the tenth century Cluny was “the single most powerful spiritual force in western Europe.” Abbots **Odilo (994–1049)** and **Hugh (1049–1109)** and Cluniac popes **Urban II** and **Paschal II** mark its later height. Logan’s Cluniac–Cistercian section (via Peter the Venerable answering [[bernard-of-clairvaux|Bernard]]) frames the twelfth-century controversy over feasts vs. austerity and humility.
+
 ## Related
 
 - `part_of:` [[carolingian-monasticism]] (its Benedictine and Carolingian-reform inheritance) → tenth-century reform monasticism
 - `contrasts_with:` [[cistercian-order|Cîteaux]] — the austere new monasticism that reacted against Cluniac wealth.
 - `contrasts_with:` [[gorze-reform|Gorze]] — proprietary, episcopal, royal-linked reform vs. Cluny's self-directed *libertas* (the "Gorze–Kluny" distinction of Kassius Hallinger, which Wollasch refines).
 - `enabled:` the later **Gregorian reform** and the reform [[papacy]].
+- [[bernard-of-clairvaux]] · [[logan-history-of-the-church-in-the-middle-ages-2013]]
+

@@ -7,8 +7,8 @@ period_active: [Late Middle Ages]
 controlled_by: ["twelve local kings (varying power)"]
 events_here: []
 processes_here: [indian-ocean-trade]
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, south-asia, late-middle-ages, indian-ocean]
 ---
 
@@ -24,6 +24,19 @@ Twelve kings of varying strength (greatest fielding ~50,000 troops). Districts w
 
 ## Muslim Presence
 Muslim merchants were present in most districts and maintained their own houses. Even in infidel towns they received full hospitality and cooked on banana leaves (leftovers given to dogs). At Hinaur (a key port in the region) the population was Shafiʿi Muslim; the king (Jamāl Oddīn) was noted for naval activity and relative independence from the Delhi Sultan.
+
+## The Mappilas
+
+Chiara Formichi ([[formichi-islam-and-asia-2020]]) identifies Malabar's Muslim community as the
+paradigm case of her **four-factor model of maritime Islamization**: the **Mappilas** were the
+offspring of settled Perso-Arab male traders and local low-caste women, following the Shafi'i
+madhab and distinguishing themselves from the Turkic/convert Muslim communities of the Delhi
+Sultanate further north. Ibn Battuta noted that Hindu society initially kept these Muslims at a
+distance as ritually impure; their social standing shifted from the thirteenth century with new
+Hadrami arrivals and Muslim mercenary service. By the fourteenth–sixteenth centuries Malabar's
+ports drew a pan-Indian-Ocean Muslim cosmopolitanism — settlers and sojourners from Melaka,
+Sumatra, Pegu, Tenasserim, Gujarat, Mecca, Syria, Turkey, and Persia — a pattern the Portuguese
+arrival subsequently disrupted.
 
 ## Significance
 Ibn Battuta’s detailed eyewitness account (c. 1340s, Lee 1829 translation) provides primary texture for the functioning of a major pepper-exporting coastal society, traveler infrastructure, matrilineal politics, and the integration of Muslim merchants into non-Muslim polities along the Indian Ocean circuit.

@@ -7,8 +7,8 @@ period_active: [Archaic Period, Classical Antiquity]
 controlled_by: [the Corinthian colonists and the Gamoroi oligarchy; later the Deinomenid tyrants]
 events_here: [the foundation from Corinth (733 BCE), the planting of Acrae (663) and Casmenae (643), the foundation of Camarina (598) and its revolt]
 processes_here: [[[greek-colonization|Greek colonization]], the subjugation of the Sicels, agrarian oligarchy]
-sources_ingested: 3
-last_updated: 2026-06-23
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [place, mediterranean, archaic-period, classical-antiquity]
 ---
 
@@ -61,6 +61,10 @@ territory Dunbabin reckoned at some **4,000 km²** — the base from which the f
   cities), and of the agrarian oligarchy (the Gamoroi).
 - The seed of the great Classical Syracuse — the city that would defeat Carthage at
   Himera (480) and Athens in the Sicilian Expedition (413).
+
+## Hall (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]: Thucydides excepts Sicilian tyrants as more powerful and longer-lived after Sparta suppressed mainland tyrannies. Gelon took Syracuse ~485 and extended west via Theron after Himera. Hall sees indirect economic exploitation (coinage alignment, mercenary pay) resembling Persian methods, with Eastern Greek “viceroys”; Deinomenid forced population transfers and mercenary enfranchisement. **Himera 480** not coordinated with Xerxes: discounts Ephorus’s Carthaginian–Persian coordination and Herodotus’s speech implying long Gelon–Carthage war; trigger was Anaxilas–Terillos alliance vs Theron–Gelon; victory synchronized by tradition with Salamis or Thermopylae only. Initial colonial foundations often involved violence/displacement (Syracuse among cases), sometimes later serfdom.
 
 ## Classical Period: The Sicilian Expedition (415–413 BCE)
 

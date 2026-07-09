@@ -7,8 +7,8 @@ period_active: [Late Antiquity]
 controlled_by: [the Roman emperors]
 events_here: [the Antonine Plague at Rome, imperial adventus ceremonies, the alimenta]
 processes_here: [provincialization of Italy, monumentalization of Rome, euergetism]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, italy, mediterranean-world, late-antiquity, rome]
 ---
 
@@ -111,4 +111,12 @@ for a time."
 - The administrative "provincialization": [[roman-provincial-administration]],
   [[roman-city-government]]; the [[antonine-plague-165|plague]] at its worst here
 - Banditry in the Italian countryside: [[roman-banditry]] (Bulla Felix)
-- Source: [[bowman-cah-v11-2000]] (Ch. 12, Nicholas Purcell)
+- Source: [[bowman-cah-v11-2000]] (Ch. 12, Nicholas Purcell); [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+**Late-antique Rome’s wealth and private display.** By Diocletian’s time Rome was no longer the main political-military focal point, but its ~600-member Senate retained prestige and vast western land wealth. Olympiodorus: top households 4,000 lb gold/year cash plus produce worth another third; second rank 1,000–1,500; praetorship games costing 1,200–4,000 lb gold. Late antiquity saw elites spend more lavishly on private properties; secular grand building largely ceased after the fourth century while churches proliferated.
+
+**Ravenna as western capital (from 402).** Honorius’ transfer of the western capital from Milan to Ravenna elevated Ravenna as Adriatic naval/commercial hub, then Odoacer/Ostrogothic administrative center, then Byzantine Exarchate. Classis port excavations show no commercial activity after 700. Cassiodorus praises Istria as Ravenna’s “Campania.” Ostrogothic Ravenna’s monuments and eastern artistic links contrast with narratives of pure western political weakness: “the art of Ravenna shows close links to the cultural world of the eastern empire and the court at Constantinople.”
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell, *A History of the Later Roman Empire* (2015)]].

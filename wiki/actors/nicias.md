@@ -9,8 +9,8 @@ affiliated_with: [[athens]], the peace party
 opposed_by: [[alcibiades]], [[cleon]]
 key_events: [Nicias expeditions Melos/Tanagra 426 and Corinthia/Methana/Cythera 424-425, Nicias' expedition to Thrace 423, the Peace of Nicias 421, alliance negotiations with Sparta 420, Sicilian Expedition command 415, command in Sicily 414-413, death at Assinarus 413]
 key_processes: [Athenian shift to permanent bases and offensives post-Pylos (restrained Periclean vs aggressive), the unraveling of the Peace of Nicias, Athenian politics between peace and war factions, the Sicilian disaster]
-sources_ingested: 2
-last_updated: 2026-06-23
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, aegean]
 ---
 
@@ -52,6 +52,14 @@ Kagan holds Nicias centrally responsible: his 415 “failed rhetorical trick” 
 
 Kagan presents Nicias as sincere, cautious, pious, and committed to Pericles' strategy of fighting with determination but restraint to achieve a secure peace. His personal desire "to hand down a name to posterity as a man who had never done harm to his city" aligned with his policy. The peace bearing his name brought joy but proved fragile; its terms did not restore the full Periclean vision and left Sparta capable of future action. Nicias' influence waned as Alcibiades rose and the quadruple alliance with Argos, Elis, and Mantinea was formed.
 
+## OHCW (Boardman/Griffin/Murray 1986) — Hornblower, Murray
+
+[[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]]:
+
+**Peace of Nicias as Archidamian “win” (Hornblower Ch.6).** In the Archidamian War (431–421) Sparta founded Heraclea-in-Trachis (426) and Brasidas took Amphipolis (424); Cleon’s capture of over a hundred Spartiates at Pylos cancelled Brasidas’s gains politically; the Peace of Nicias (421–415) left Athens with her empire — she had “won” the Archidamian War. Sicily 415–413 and Persian-backed Spartan naval victory then reversed that verdict.
+
+**Laurium slave capital (Murray Ch.9).** Nicias let out 1,000 mine slaves at Laurium for 10 talents/year (33% return). Mining conditions (300-foot tunnels, child porters, chained surface workers) were a true slave economy unlike most Attic sectors; Murray condemns that Nicias, profiting from child labour of this sort, “could widely be regarded as the most moral and religious man of his generation.”
+
 ## Historiography Note (from range)
 
 Thucydides focuses on Nicias' private motives. The peace restored some security but failed to convince Sparta of Athenian invulnerability or secure the empire's integrity on Periclean principles. The Athenians were war-weary after heavy losses at Delium, in Thrace, and from plague and invasions.
@@ -62,7 +70,7 @@ Thucydides focuses on Nicias' private motives. The peace restored some security 
 - Places: [[athens]], [[sparta]], [[places/plataea|Plataea]]
 - Events/Processes: Peace of Nicias, false peace period, alliance with Argos
 - Hubs: [[hubs/warfare/classical-antiquity/]], [[hubs/warfare/strategy]]
-- Source grounding: [[actors/kagan-donald|Kagan, *The Peloponnesian War* (range 13001-17000; 17001-21000)]]
+- Source grounding: [[actors/kagan-donald|Kagan, *The Peloponnesian War* (range 13001-17000; 17001-21000)]] · [[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]] (Hornblower Ch.6; Murray Ch.9)
 
 ## Sicilian Expedition Command (Kagan range 17001-21000)
 

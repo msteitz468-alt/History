@@ -5,8 +5,8 @@ origin: the household-based locus of monarchical power that emerged under August
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [italy, mediterranean-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -95,3 +95,11 @@ structure — a "complex and ambivalent" relationship, not a mere facade. The de
   of Sejanus, the freedmen, the *amici*)
 - Companion analyses (CAH X): the [[imperial-finances]] · [[roman-provincial-administration]]
 - Source: [[bowman-cah-v10-1996]] (Ch. 7, Wallace-Hadrill)
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- Under emperors public politics ended—“Politics had been palatialized. Emperors received information in private and discussed matters of state with their friends and family.” Praetorian prefects as viziers; senators suspected freedmen influence (Claudius) and imperial women’s succession intrigues.
+- Court evolved from slave households of aristocrats (Pompey/Caesar model); early first century shadowy, no elaborate ceremonial; Palatine grew from Republican houses; tact in capital vs king/god in provinces. Gap to watch was emperor vs aristocrat; *civilitas* advertised; departure from Rome made court itinerant (Hadrian; Marcus on Danube).
+- Hereditary principle, imperial women as public dynastic figures, adoptive selection with name continuity: “However precarious the position of emperor might seem, the institution was very stable, and stabilized the empire as a whole.”

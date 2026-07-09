@@ -5,8 +5,8 @@ origin: the structure of society in the fourth-century Roman empire — hierarch
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [mediterranean-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -80,3 +80,12 @@ was less a "fall" than a **redistribution of authority** away from the imperial 
 - `contrasts_with:` the "caste-system" reading of the late empire and the classical civic euergetism of
   the [[roman-social-structure-high-empire|High Empire]]
 - Source: [[cameron-cah-v13-1998]] (Ch. 11, Arnaldo Marcone)
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **Citizenship and Romanitas.** Caracalla’s 212 Constitutio Antoniniana extended citizenship to nearly all free inhabitants, helping forge third-century ideological unity that enabled tetrarchic *Romanitas*. Citizenship itself no longer marked distinction, but majority subjecthood under Roman law underpinned Augustine’s *City of God* contrast with the heavenly kingdom. Amid mid-fifth-century ethnic confusion, “nothing defined *Romanitas* more surely than its written laws” (Priscus’s debate with the Greek-turned-Hun; Orosius on Romans preferring poor freedom among barbarians).
+- **Orthodoxy as unifying criterion.** Orthodox Catholic belief joined citizenship; Justinianic army contingents kept ethnic labels (Heruls, Moors, Huns, Armenians, Isaurians) yet were “Romans” flexibly defined, with Chalcedonian Christianity the shared critical quality (Greatrex via Mitchell).
+- **Merit/service elite.** Late empire favored merit/service over pure lineage (Justin from illiterate peasant via palace guard). Justinian’s elite mixed Thracian soldiers, Greek legal literati, Cappadocian and Mesopotamian officials, Armenian Narses—held by loyalty to Roman state and shared Christian belief. Extended governing elite ~30,000 empire-wide drawing on Hellenic *paideia* (shrinking relevance), Roman law (favored career path), biblical/clerical literacy, and rising popular culture. Church hierarchy valued poverty, asceticism, holiness alongside secular ranks.
+- **State-service elite and privatization of force.** Rising force: salaried officials, soldiers, Constantinopolitan aristocracy displacing curial middle government, building large estates via gold salaries and patronage. Parallel “privatization of force” (*bucellarii*, estate militias) East and West when official protection fails (Leo’s 474 ban on estate armed slaves/*bucellarii*/Isaurians).

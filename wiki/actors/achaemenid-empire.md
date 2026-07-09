@@ -9,8 +9,8 @@ affiliated_with: [[[zoroastrianism]], the Persians and Medes]
 opposed_by: [Greek city-states, Scythians, [[alexander-the-great|Macedon]], Egypt (in revolt)]
 key_events: [conquest of Babylon 539 BCE, Greco-Persian Wars 490/480-479 BCE, Battle of Gaugamela 331 BCE]
 key_processes: [[[empire]], [[state-formation]], [[trade-network-formation]]]
-sources_ingested: 7
-last_updated: 2026-06-27
+sources_ingested: 8
+last_updated: 2026-07-08
 tags: [actor, empire, archaic-period, classical-antiquity, iran-plateau]
 ---
 
@@ -239,6 +239,14 @@ common identity to mobilize subjects once the king was beaten, which is why
 [[alexander-the-great|Alexander]] — "the last of the Achaemenids" — could take it over by
 reproducing its gift-for-service relations whole.
 
+Charles Freeman ([[freeman-egypt-greece-rome-2014|*Egypt, Greece, and Rome*]], 2014)
+frames the **499 BC Ionian Greek revolt** as the opening event of "170 years" of
+intermittent Greco-Persian conflict, ending only with Alexander's conquest — a useful
+long-arc device for the whole Greco-Persian relationship. He also stresses a
+contrast in **administrative style**: Persepolis reliefs show subject peoples with
+pride, regional dress, and (for trusted groups) arms, deliberately unlike Egyptian
+and Assyrian practice of diminishing or erasing conquered subjects' dignity.
+
 ## Historiography
 
 Long captive to **hostile Greek sources** ([[herodotus-reliability|Herodotus]], Xenophon,
@@ -252,4 +260,24 @@ comparative imperiology in [[empire]].
 - Greek wars: [[ionian-revolt-499bce]] · [[battle-of-marathon-490bce]] · [[thrace]] (Skudra) · [[isonomia]] · source-critique: [[herodotus-reliability]]
 - Fourth century: [[achaemenid-satrapy]] · [[artaxerxes-ii]] · [[cyrus-the-younger]] · [[march-of-the-ten-thousand-401bce]]
 - Sources: [[benjamin-cwh-v4-2015]] (Daryaee, Ch. 10) · [[boardman-cah-v4-1988]]
-  (Chs. 3c–3d eastern satrapies; Chs. 6, 8, 9 the Greek wars; Chs. 1–2, 3a missing from scan) · [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 3, Hornblower) · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]] · [[sources/briant-from-cyrus-to-alexander-2002|Briant, From Cyrus to Alexander (2002)]] · [[sources/wiesehofer-ancient-persia-2001|Wiesehöfer, Ancient Persia (2001)]] (thematic synthesis; reinforces Briant and supplies the Iranian "afterlife" — see [[rediscovery-of-ancient-iran]])
+  (Chs. 3c–3d eastern satrapies; Chs. 6, 8, 9 the Greek wars; Chs. 1–2, 3a missing from scan) · [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 3, Hornblower) · [[sources/bryce-handbook-peoples-places-western-asia-2009|Bryce, Handbook (2009)]] · [[sources/briant-from-cyrus-to-alexander-2002|Briant, From Cyrus to Alexander (2002)]] · [[sources/wiesehofer-ancient-persia-2001|Wiesehöfer, Ancient Persia (2001)]] (thematic synthesis; reinforces Briant and supplies the Iranian "afterlife" — see [[rediscovery-of-ancient-iran]]) · [[freeman-egypt-greece-rome-2014|Freeman (2014)]]
+
+## Cambridge Economic History of the Greco-Roman World
+
+**Bedford** (Ch. 11) supplies the economic-base data behind the empire's peak extent:
+stretching from the Indus in the east to Macedonia in the west, the Aral Sea in the north
+to Elephantine/Egypt in the south — the largest polity yet existing, founded by Cyrus II
+(Persian revolt against Median overlords, 553–550 BCE; conquest of Lydia 546 BCE, of
+Babylon 539 BCE), extended under Darius I (522–486 BCE), and ended by Alexander's conquest
+(333–331 BCE) after roughly two centuries. Herodotus (3.90–94) counts some 70 subject
+peoples and tribes across this territory. Darius I is credited (via Herodotus 3.89–95) with
+establishing the empire-wide tax regime assessed by regional productivity — see
+[[achaemenid-tribute-economy]] for the full fiscal analysis, tribute-rate estimates, and
+population figures (Scheidel's 20–25 million, preferred by Bedford over Aperghis's higher
+30–35 million). Urbanization under Achaemenid administration built on inherited
+Neo-Assyrian/Neo-Babylonian capitals: Nineveh (750 ha), Nimrud/Kalhu (360 ha), Khorsabad
+(300 ha), Assur (75 ha), and Babylon at its early-6th-century height (850 ha, commonly
+estimated at 80,000 people) — dwarfing Levantine cities of the same era (Jerusalem ~50 ha
+at its c. 700 BCE height, ~5,000 people; Tyre the largest coastal Levantine city at 53 ha).
+The **Persepolis Fortification and Treasury tablets** remain the key administrative
+evidence for this fiscal system in action.

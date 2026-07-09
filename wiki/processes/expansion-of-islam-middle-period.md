@@ -26,8 +26,8 @@ driven_by:
 produces:
   - "[[islamization-of-southeast-asia]]"
   - "[[islamization-of-africa]]"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags:
   - process
   - High Middle Ages
@@ -78,7 +78,7 @@ Wherever Muslims became a significant minority, they "formed relatively self-con
 
 ### Phase 1: The Indian Subcontinent
 
-The [[delhi-sultanate]] established Muslim dominance across northern India in the thirteenth century, following earlier Ghaznavid penetrations in the Punjab. By the fifteenth century, Muslim rule extended across most of the subcontinent, including the Deccan (Bahmanid sultans) and Gujarat. Bengal saw especially significant popular conversion among lower-class populations east of the Ganges mouths, where Hinduism had not yet penetrated deeply.
+The [[delhi-sultanate]] established Muslim dominance across northern India in the thirteenth century, following earlier Ghaznavid penetrations in the Punjab. Formichi (2020) cautions against reading those earlier Ghaznavid raids as primarily missionary: Mahmud of Ghazni's campaigns were driven more by plunder and the prestige such wealth bought him with the Abbasid Caliph in Baghdad than by proselytism, and it was only the Ghurid takeover of Ghaznavid territory in 1186 — not the Ghaznavid period itself — that opened the way to the Delhi Sultanate's founding. By the fifteenth century, Muslim rule extended across most of the subcontinent, including the Deccan (Bahmanid sultans) and Gujarat. Bengal saw especially significant popular conversion among lower-class populations east of the Ganges mouths, where Hinduism had not yet penetrated deeply.
 
 The social dynamic was distinctive: Muslim rulers found a structural niche in the Hindu caste system as a ruling group beyond the caste hierarchy, drawing on international resources unavailable to locally embedded Hindu castes. They retained cultural solidarity through consciousness of the international Islamicate community. Hindu caste rigidity simultaneously generated Bhakti devotional movements that shared certain structural features with Sufi practice — a parallel development that sometimes enabled convergence.
 
@@ -102,7 +102,7 @@ Treated under [[islamization-of-africa]]. The camel trade routes across the Saha
 
 ### Phase 5: The Central Eurasian Steppe
 
-The lands of the Syr and Oxus basins had been Muslim since the High Caliphate. Under Mongol rule, the conquering Mongols themselves converted to Islam. By the fifteenth century, the Tarim basin as far east as Kashgar was Muslim, and Muslim communities existed throughout China (especially in Kansu and Yunnan). The Volga basin was Muslim from an early date. In the northern steppe, the khânates of Crimea, Kazan, and Astrakhan were all Muslim. The Özbeg dynasty maintained a major center of arts and commerce at Bukhara well into the sixteenth century before Muscovite expansion began eroding the steppe khânates.
+The lands of the Syr and Oxus basins had been Muslim since the High Caliphate. Under Mongol rule, the conquering Mongols themselves converted to Islam — Ilkhan Ghazan (r. 1295–1304) was the first Mongol ruler to convert and brought most of his tribe with him, followed by Golden Horde khan Oz Beg and, in the Chagatai lands, Tughluq Timur Khan (r. 1347–1362), whose conversion Formichi (2020) treats as the pivotal moment for the Islamization of the eastern Turkic steppe (see [[chaghatay-khanate]]). By the fifteenth century, the Tarim basin as far east as Kashgar was Muslim, and Muslim communities existed throughout China (especially in Kansu and Yunnan) — a presence that, per Formichi, never produced independent Muslim polities but nonetheless shaped Chinese culture, politics, and science (see [[islam-in-china]]). The Volga basin was Muslim from an early date. In the northern steppe, the khânates of Crimea, Kazan, and Astrakhan were all Muslim. The Özbeg dynasty maintained a major center of arts and commerce at Bukhara well into the sixteenth century before Muscovite expansion began eroding the steppe khânates.
 
 ## Geographic Pattern
 
@@ -132,4 +132,6 @@ Even after these disruptions, "of course, not only a considerable short-range Mu
 
 The historiography of Islamic expansion has been distorted by three recurring errors: (1) over-emphasis on conquest and the sword, obscuring the predominantly voluntary (if socially pressured) character of conversion; (2) reduction of Sufi activity to "syncretism" rather than recognizing it as Islam fully adapted to popular needs; (3) treating the expansion as monolithic rather than as a complex of regionally differentiated processes. Hodgson's framework — the culture gradient, the bandwagon effect, cadre formation — represents the most systematic analytical alternative to these distortions available in the collection.
 
-Source: [[hodgson-venture-of-islam-v2-1974]]
+Formichi (2020) sharpens point (2) further: scholars increasingly reject "syncretism" itself as an analytical term, since it implicitly assumes a "pure" Islam against which local adaptation is measured (see [[syncretism-vs-authenticity-islam-in-asia]]); she also stresses that Islamic "orthodoxy" was itself a moving target across Asia, shaped as much by Persianate kingship norms transmitted via the Abbasids as by scriptural uniformity.
+
+Source: [[hodgson-venture-of-islam-v2-1974]]; [[formichi-islam-and-asia-2020]]

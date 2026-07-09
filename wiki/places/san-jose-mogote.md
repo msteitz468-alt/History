@@ -7,7 +7,7 @@ period_active: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middl
 controlled_by: ["Early Formative village community", "Middle Formative chiefdom center", "[[zapotec|Zapotec]] secondary center under [[monte-alban|Monte Albán]]"]
 events_here: [House 20 earliest ceramics, Men’s House public building c. 1350 BCE, ranking and craft wards 1150–850 BCE, Monument 3 hieroglyphs, decline as valley capital after Monte Albán founding, Protoclassic secondary-center role]
 processes_here: ["[[mesoamerican-preclassic]]", "[[mesoamerican-state-formation]]", "[[maize-domestication]]"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-08
 tags: [place, mesoamerica, oaxaca]
 ---
@@ -113,9 +113,35 @@ trajectory: sedentary village → ranking → craft monopoly and long-distance e
 chiefdom labor mobilization → early writing and martial sacrifice — the necessary
 antecedents of Monte Albán’s primary state.
 
+## Evans & Webster 2001
+
+**Settlement scale (Zeitlin, “Oaxaca and Tehuantepec Region”).** Tierras Largas phase
+(1400–1150 B.C.): ~18–20 valley settlements, mostly ≤3 ha hamlets; San José Mogote grew
+to **7–8 ha** (~150 people) with Oaxaca’s first known “public building” (large size, lime
+plaster, altarlike interior, orientation 8° west of north) — possible ritual/economic
+center of the Etla arm. San José phase: while most valley settlements remained 1–3 ha,
+SJM grew to **>70 ha** (~700 people in Zeitlin’s estimate; CHNPA Marcus & Flannery use a
+higher greater-SJM range including dispersed wards). Elite burials with jade and fancy
+pottery bearing jaguar paw-wing, fire serpent, and other Middle Formative status motifs;
+elites controlled obsidian import and local luxury production (iron-ore mirrors).
+
+**Craft specialization (Feinman).** By mid–Early Formative (c. **1100 B.C.**) certain
+houses/barrios produced shell ornaments and magnetite mirrors in quantities far beyond
+household needs — part-time specialists still farming. **Fábrica San José** Middle
+Formative piedmont villages depended on nearby SJM for ritual (no public-scale
+architecture at Fábrica) (Drennan).
+
+**Calendrics (Gasco).** Earliest known representation of the **260-day sacred cycle**
+comes from San José Mogote at around **500 B.C.** (Monument 3 / “1 Earthquake” tradition
+already detailed above); the cycle was likely already in use earlier.
+
+*preceded_by:* Archaic valley foraging · *produced:* early writing/calendar evidence ·
+*followed_by:* [[monte-alban]] synoikism and secondary-center role under the Zapotec state
+
 ## Related
 
 [[oaxaca-valley]] · [[zapotec]] · [[monte-alban]] · [[olmec]] · [[san-lorenzo-olmec]] ·
 [[olmec-mother-vs-sister-culture]] · [[mesoamerican-preclassic]] ·
 [[mesoamerican-state-formation]] · [[mesoamerican-writing-systems]] ·
-[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 8 (Marcus & Flannery)]]
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 8 (Marcus & Flannery)]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

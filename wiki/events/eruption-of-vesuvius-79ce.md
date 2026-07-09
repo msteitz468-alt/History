@@ -50,8 +50,27 @@ of Pompeii and Herculaneum (buildings, frescoes, graffiti, food, bodies) as an u
 archaeological window onto Roman life. enabled: the **rediscovery** and excavation of the sites from
 the eighteenth century, which transformed European knowledge of antiquity and fed Neoclassicism.
 
+## Historiography
+
+The eruption is unusually well documented for an ancient event, yet the evidence
+is lopsided. The **only surviving eyewitness narrative** is the pair of letters
+[[pliny-the-younger|Pliny the Younger]] wrote to Tacitus a generation later
+(*Letters* 6.16, 6.20) — retrospective, literary, and focused on his uncle's
+death; no contemporaneous account survives. The long-standing **24 August** date
+rests on manuscripts of Pliny that vary, and later finds (autumn fruit, a coin,
+a charcoal graffito) have led many scholars to favour an **October** eruption,
+though the question is unresolved. Volcanology reconstructs the event's phases
+(Plinian column, then pyroclastic surges) from the deposits themselves, making
+the disaster a type-site — hence "Plinian" eruptions. For historians of Roman
+daily life the deeper significance is the paradox of preservation: the towns are
+known in extraordinary material detail precisely because they were destroyed,
+which makes them exceptionally rich but also **untypical** — a single moment in
+two Campanian towns, not a cross-section of the empire. The
+[[ancient-graffiti|graffiti corpus]] (*CIL* IV) shares this survival bias.
+
 ## Related
 
 - Eyewitness source: [[pliny-the-younger|Pliny the Younger]], *[[pliny-the-younger-letters|Letters]]*
   6.16, 6.20 (to [[tacitus|Tacitus]]).
 - Context: the reign of [[titus|Titus]]; the Bay of Naples.
+- What the burial preserved: [[pompeii]] · the ~11,000-text [[ancient-graffiti|graffiti]] corpus (*CIL* IV).

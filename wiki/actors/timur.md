@@ -26,8 +26,8 @@ key_events:
 key_processes:
   - "[[post-mongol-islamic-world]]"
   - "[[military-patronage-state]]"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 3
+last_updated: 2026-07-08
 tags:
   - actor
   - person
@@ -44,7 +44,7 @@ Timur (properly Temür, 1336–1405), known in European tradition as Tamerlane f
 
 Born in 1336 in the Syr valley (Transoxiana) to a Muslim Turkic family of modest but not ignoble standing, Timur came of age during the civil wars that racked the [[chaghatay-khanate]] after its Muslim and pagan factions fell into conflict. He began as a captain serving pagan Mongol commanders in the Yedisu steppes, displaying enough ability and personal magnetism to attract the attention of both allies and enemies. Hodgson describes him as having "a tenacious personal prowess" and arousing "an ardent loyalty in his troops" despite — or because of — the wound that left him permanently lame.
 
-Rising through alliance and betrayal, he quarrelled with and killed his chief co-conspirator after jointly overthrowing a Chaghatayid ruler, and emerged at Balkh in 1370 as sole master of the old Chaghatay domains. He consolidated control over Khwârazm by 1380.
+Rising through alliance and betrayal, he quarrelled with and killed his chief co-conspirator after jointly overthrowing a Chaghatayid ruler, and emerged at Balkh in 1370 as sole master of the old Chaghatay domains. He consolidated control over Khwârazm by 1380. Formichi (2020) dates his conquest of the [[chaghatay-khanate|Chagatai Khanate]] to 1370, already Islamized under Tughluq Timur Khan a generation earlier, and notes that [[naqshbandiyya|Naqshbandi]] Sufis — the order rooted in nearby Bukhara — held leading positions in the [[timurid-empire]] that resulted, an early stage in the order's spread from Central Asia toward South Asia, China, Arabia, and the Ottoman lands.
 
 He set up a Mongol of a different Chingizid line as nominal titular ruler while ruling as *amîr* or *sultan* himself — a transparent fiction that acknowledged the continuing prestige of Mongol dynastic legitimacy while keeping real power in his own hands. He also supplied himself with dubious Chingizid genealogies through the panegyrists that surrounded him.
 
@@ -110,3 +110,13 @@ His political legacy was ambiguous. He renewed Mongol prestige and demonstrated 
 Timur was more extensively praised in Islamicate panegyric than almost any other ruler of his era, partly because he and his descendants were the dominant patrons of Persian-language culture across a vast area for over a century. This panegyric tradition distorts any assessment of his actual policies. Jean Aubin's study "Comment Tamerlan prenait les villes" (*Studia Islamica*, 19, 1963) remains the most important analytical account of the mechanics of his city-taking and social support base; Hodgson draws on it directly. Modern scholarship has moved to contextualize Timur within the broader military-patronage-state tradition rather than treating him as an anomalous monster or a cultural hero.
 
 Source: [[hodgson-venture-of-islam-v2-1974]], Book Four, Chapter I.
+
+### From Gibbon, *Decline and Fall* (Ch. LXV)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]]; not asserted as modern fact.
+
+- **Twin ambitions.** “The conquest and monarchy of the world was the first object of the ambition of Timour. To live in the memory and esteem of future ages was the second wish of his magnanimous spirit.”
+- **Scourge not benefactor.** After weighing claimed public benefits (remedy worse than disease; inroads not conquests; home reforms interrupted; blessings evaporating with his life), Gibbon concludes the Mogul emperor was “rather the scourge than the benefactor of mankind.”
+- **Trophies.** Flourishing cities marked by “columns, or pyramids, of human heads” — Astrakhan, Delhi, Isfahan, Baghdad, Aleppo, Damascus, Bursa, Smyrna and a thousand others sacked or destroyed; most destructive wars were inroads without lasting governance.
+- **Iron cage of Bayezid.** Long a moral lesson, rejected as fable by some moderns who trust Sharaf al-Din’s generous portrait; Gibbon stages a source-critical case from French, Italian (Poggio), Arabic (Ibn Arabshah), Greek (Phrantzes), and Turkish witnesses who independently attest the cage.
+- **Accidental service to Byzantium.** Victory over Bayezid delayed the [[fall-of-constantinople-1453|fall of Constantinople]] about fifty years — important though accidental; Timur did not march to relieve the Greeks.

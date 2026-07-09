@@ -5,7 +5,7 @@ origin: the religious system of the Nahua peoples of Late Postclassic central Me
 applies_to_periods: [Late Middle Ages, Early Modern]
 applies_to_regions: [mesoamerica]
 contested: yes
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [concept]
 ---
@@ -83,8 +83,26 @@ The Templo Mayor excavations (Matos Moctezuma), which Berdan and Charlton both f
 archaeological witness to the imperial cult at [[tenochtitlan|Tenochtitlan]]. For the event that opened the
 expansion era, see [[triple-alliance-formation-1428]].
 
+## Evans & Webster 2001 (Carrasco; Marcus; Berdan; Townsend; Ortiz de Montellano)
+
+David Carrasco’s Central Mexican Religion entries, Joyce Marcus on bloodletting, Frances Berdan on the Templo Mayor, and Richard F. Townsend on imperial ritual landscape in [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]] deepen mechanics and cosmography:
+
+### Cosmogony and duty
+
+- Spatial orientation: archer shooting arrows to four directions reflects *cemanahuac* (“land surrounded by water”) with *tlalxico* (“navel of the earth”) at the city center and four *nauchampa* quadrants; **thirteen** celestial levels and **nine** underworld levels ending in Mictlan; cosmic ages (“Suns”) 4 Jaguar, 4 Wind, 4 Rain, 4 Water, and current **4 Movement** (earthquakes will destroy the world). Fifth Sun creation at mythical Teotihuacan via Nanahuatzin and Tecuciztecatl self-sacrifice into fire, then mass divine sacrifice by Ecatl/wind — foundational conviction that world energy depends on massive sacrifice (Carrasco).
+- Humans had the duty of preserving the universe by rituals including human sacrifice; body–cosmos homology linked *tonalli* (head), *teyolia* (heart), *ihiyotl* (liver) to sky/earth/underworld (Ortiz de Montellano; Marcus cosmology context).
+
+### Ceremony and sacrifice practice
+
+- Sacrifice nourished/renewed sun and other deities; typical methods include decapitation, burning, hurling from heights, strangulation, arrow sacrifice, and especially **heart extraction** into a *cuauhxicalli*; heads placed on *tzompantli*; ceremonies structured by the 365-day *xiuhmopohualli* (18×20 + 5) and 260-day *tonalpohualli*; more than one-third of ceremonies dedicated to Tlaloc and earth fertility goddesses (Carrasco).
+- Autosacrifice (bloodletting): shark’s teeth, agave thorns, or stingray spines to perforate thigh, tongue, or earlobe; blood on cloth/paper/copal burned as offering smoke; ritual bloodletting by ~**1200–1000 B.C.**; later restricted to elite then royalty; Aztec contexts include diviners, warriors before battle, and new-ruler inauguration; heart sacrifice began by **600 B.C.** and continued to **1519** — Aztecs usually sacrificed war captives for temple dedications and ruler inaugurations in Tenochtitlan’s Main Plaza (Marcus).
+- Nicholson listed **>60** deities; Nahuatl *teotl* denoted numinous power broader than Spanish “god”; cult clusters: cosmogonic creativity, fertility/regeneration, war/sacrificial solar nourishment. Dual supreme Ometeotl rarely material-represented; active creators Tezcatlipoca, Quetzalcoatl, Xiuhtecuhtli, Tlaloc. **New Fire Ceremony** (Binding of Years) every **52 years** on the Hill of the Star (Mount Huixachtlan) when Pleiades at zenith — heart sacrifice starts fire in victim’s chest then distributed empire-wide. Tlaloc shared Templo Mayor summit with Huitzilopochtli — **majority of excavated offerings dedicated to Tlaloc** rather than Huitzilopochtli (Carrasco). Xipe Totec linked agricultural renewal and warfare via the Feast of the Flaying of Men; Xipe cures involved pledges to wear flayed skins of people sacrificed in Tlacaxipehualiztli (Ortiz de Montellano).
+- Annual **Panquetzaliztli** for Huitzilopochtli: processional circuit of Paynal effigy around the basin; captives killed atop the pyramid and bodies rolled onto the Coyolxauhqui sculpture — recalling mythic battle on Coatepetl (Townsend).
+- Berdan: Great Temple dual sanctuaries for Huitzilopochtli and Tlaloc; 1978–1982 excavation revealed seven building periods and **>100 offerings** with **>7,000** objects (stone idols, jadeite beads, human skulls). Military success funded temples/priests/ceremony and supplied captives. “Flowery wars” with Tlaxcala framed as quasi-ritual for captives and training, but Mexica often fared poorly and likely sought real conquest they could not achieve.
+
 ## Related
 
 [[aztec-empire]] · [[tenochtitlan]] · [[aztec-economy]] · [[triple-alliance-formation-1428]] ·
 [[mesoamerican-calendar]] · [[mesoamerican-state-formation]] · [[teotihuacan]] ·
-[[berdan-aztecs-2021]] · [[cambridge-history-native-peoples-americas-v2-1]]
+[[berdan-aztecs-2021]] · [[cambridge-history-native-peoples-americas-v2-1]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

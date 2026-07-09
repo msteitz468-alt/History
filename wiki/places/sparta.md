@@ -7,8 +7,8 @@ period_active: [bronze-age, dark-age, archaic-period, classical-antiquity, helle
 controlled_by: [Spartan Homoioi / polis (with Perioeci and Helots), Macedonian kingdoms, Achaean League, Roman Republic/Empire, Byzantine Empire]
 events_here: [battle-of-thermopylae-480bce, peloponnesian-war-431-404bce, battle-of-sellasia-222bce]
 processes_here: [spartan-militarism, helot-system, peloponnesian-league, agoge-training, spartan-constitution]
-sources_ingested: 5
-last_updated: 2026-06-26
+sources_ingested: 7
+last_updated: 2026-07-08
 tags: [place, mediterranean, classical-antiquity, greece, peloponnese]
 aliases: [Sparta Greece, Lacedaemon, Lacedaimon, Ancient Sparta, Sparti]
 ---
@@ -52,7 +52,7 @@ See related events and actors for combat details: [[battle-of-thermopylae-480bce
 ## Key Linked Content (from ingested sources)
 
 - Sources: CAH Vol. III.3 (Hammond on Peloponnese: Messenian Wars, constitution, hoplite revolution, Peloponnesian League); [[sources/kagan-the-peloponnesian-war-2003]]; [[sources/hanson-a-war-like-no-other-2005]] (Spartan fighting mechanics, discipline at Mantinea, Brasidas' campaigns); [[sources/connolly-greece-and-rome-at-war-1998]]; [[sources/kennell-spartans-a-new-history-2010]] (dedicated Spartan history).
-- Periods/Concepts: [[classical-antiquity]], [[archaic-period]], [[hellenistic-world]], [[spartan-constitution]], [[helot-system]], [[peloponnesian-league]], [[hoplite-warfare]].
+- Periods/Concepts: [[classical-antiquity]], [[archaic-period]], [[hellenistic-world]], [[spartan-constitution]], [[helotage|helot system]], [[peloponnesian-league]], [[hoplite-warfare]].
 - Events: As listed in frontmatter + [[battle-of-plataea-479bce]], [[battle-of-mantinea-418bce]].
 - Actors/Processes: Spartan kings and regents, helot revolts, league diplomacy.
 
@@ -62,4 +62,16 @@ The wiki draws on the (comparatively thin) ancient literary sources (Herodotus, 
 
 Collection coverage is **strong** for Sparta's role in the Classical wars (via the major Peloponnesian War ingests and CAH); more moderate for earlier Archaic constitution and later Hellenistic decline.
 
-All claims and structure grounded in already-ingested sources. No external invention. Links only to established wiki pages. Updated 2026-06-26.
+### Hall (2014) — villages, Rhetra, mirage
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]: Sparta remained “settled in villages (*kômai*) according to the old custom” (Thuc. 1.10.2) — Limnai, Pitana, Mesoa, Kynosoura (~300 ha) plus Amyclae; dyarchy may reflect shared basileus authority at village coalescence. Great Rhetra among earliest Greek constitutional evidence (early 7th c. with Polydoros/Theopompus); [[concepts/spartan-mirage|Spartan mirage]] means Xenophon/Plutarch have little value for early institutions. Messenian conquest progressive, not single total annexation; perioikic Laconia as many autonomous small poleis. Full actor-side treatment: [[actors/sparta]].
+
+All claims and structure grounded in already-ingested sources. Links only to established wiki pages. Updated 2026-07-08.
+
+### From the Oxford History of the Classical World (1986)
+
+**Forrest (Ch.1, [[sources/boardman-oxford-history-classical-world-1986|OHCW 1986]]).** Sparta as the notable **exception** to the urban *polis* form: a community of citizens, dependents, and non-citizens with a focal religious-political centre, but without the usual fortified city growth. Lycurgan military system, helotage, and dual kingship structure the early Archaic place-history; Chilon’s alliances and 510 intervention against Athens project Spartan power beyond Laconia without annexation.
+
+**Murray (Ch.9).** Place as counter-ideal: state upbringing, syssitia, allotment land farmed by helots; described by Athenian writers as Athens’ opposite (**[[concepts/spartan-mirage]]**), so ordinary economic/social detail (e.g. arms manufacture) falls silent.
+
+**Hornblower (Ch.6).** Domestic geography of power—Messenian helots of one nationality—explains reluctant Aegean imperialism after 478; loss of Messenia after Leuctra (369) collapses the place’s economic-military base.

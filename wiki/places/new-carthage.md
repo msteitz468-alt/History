@@ -42,9 +42,19 @@ Carthaginian supply base and treasury** in Spain, the mustering point from which
 - **Roman Spain.** Thereafter a key Roman base; it became one of the principal
   cities of Roman Spain and a centre of the silver-mining economy.
 
+## Foundation and name (Hoyos)
+
+The city was founded c. 227/226 BC by **[[hasdrubal-the-fair|Hasdrubal the Fair]]** on the
+site of the earlier town of Mastia — an outstanding natural harbour beside rich silver
+deposits — as the capital of Barcid Spain. Dexter Hoyos
+([[hoyos-hannibals-dynasty-2003|*Hannibal's Dynasty*]]) argues the name (Punic
+*Qart-hadasht*, "New City" — literally another "Carthage") was **not a declaration of
+independence** from the mother city, as some ancient and modern readers infer, but a
+conventional Punic colonial-naming practice attested at several other sites. Its founding
+and Hasdrubal's growing forces are what prompted Rome to negotiate the Ebro accord (225).
+
 ## Related
 
-- Founders: [[hamilcar-barca]]/Hasdrubal · state: [[carthage]] · captor:
-  [[scipio-africanus]]
+- Founders: [[hasdrubal-the-fair|Hasdrubal the Fair]] · [[hamilcar-barca]] · dynasty: [[barcid-dynasty]] · state: [[carthage]] · captor: [[scipio-africanus]]
 - War: [[second-punic-war-218-201bce]] · region: [[iberia|Spain]]
-- Source: [[astin-cah-v8-1989]]
+- Source: [[astin-cah-v8-1989]] · [[hoyos-hannibals-dynasty-2003|Hoyos]]

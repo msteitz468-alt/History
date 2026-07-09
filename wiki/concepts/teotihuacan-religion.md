@@ -5,8 +5,8 @@ origin: "Indigenous Mesoamerican tradition reworked at Teotihuacan beginning c. 
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [mesoamerica]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, mesoamerica, late-antiquity]
 ---
 
@@ -74,10 +74,41 @@ A defining feature of Teotihuacan's ideological program is the near-total absenc
 
 The lack of readable texts makes reconstruction of Teotihuacan religion necessarily inferential, relying on iconographic analysis, spatial context, and comparison with later Mesoamerican traditions whose relationship to Teotihuacan practice is uncertain. The language of Teotihuacan is unknown, preventing phonetic decipherment of its 229+ standardized signs. Many of those signs "went out of use long before Aztec times," compounding interpretive difficulty (Ch. 8).
 
+## Evans & Webster 2001 (Taube; Carrasco; Townsend)
+
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster (eds.) 2001]]
+— **Karl Taube** (Teotihuacán: Religion and Deities), **David Carrasco** (Central Mexican
+Religion), **Richard F. Townsend** (Sacred Landscape) — encyclopedic pantheon and landscape
+synthesis that **reinforces** Cowgill’s multi-goddess caution while naming deities in
+Nahuatl-legacy terms (**EW2001**).
+
+**Taube — recognizable deities:** Teotihuacan **Tlaloc** (goggle eyes, jaguar maw with
+waterlily; thunderbolts/water jars; warrior associations); **quetzal-plumed serpent**
+(ancestral Quetzalcoatl, rarely humanized, often with water); **Old Fire God Huehueteotl**
+(cross-legged censer-bearer). **Multiple female goddesses** (not a single “Great Goddess”)
+including earth/divination/spider/warfare figure and maize goddess — aligns with Cowgill/
+Paulinyi critique already on this page. Processions with offerings and speech scrolls; fire
+offerings and complex censers linked to agricultural fertility. Human sacrifice and warfare
+central: bleeding hearts on blades; severed heads; dedicatory infants/children; Temple of
+Quetzalcoatl mass graves of ~**200** adults c. A.D. 200 mostly in warrior attire with shell
+“maxillae” collars. War Serpent / *waxaklahun uba chan* helmet iconography; butterfly-warrior
+mortuary-bundle ideology shared with later Aztec; Aztec myth places sun/moon rebirth and
+eagle/jaguar military orders at Teotihuacan.
+
+**Carrasco:** Central Mexican religions developed in ceremonial centers from ~1500 B.C.; from
+start of common era Teotihuacán (“abode of the gods”) was organized into **four great
+quarters** around a massive ceremonial center as spatial cosmological symbol; Teotihuacán
+patterns grounded later Basin developments; Toltec and Aztec mythologies looked back to
+Teotihuacán as origin place and political-legitimacy source.
+
+**Townsend:** landscape cosmogram — processional Street of the Dead, Cerro Gordo framing,
+Sun Pyramid cave as emergence/axis mundi, pecked-cross / Pleiades markers (see place page
+[[teotihuacan]] and [[ciudadela-teotihuacan]]).
+
 ## Related Pages
 
 - [[feathered-serpent-pyramid]] — primary locus of Feathered Serpent cult and sacrificial dedication
 - [[teotihuacan-human-sacrifice-fsp]] — sacrificial program associated with state religion
 - [[teotihuacan-political-organization]] — debate over corporate vs. autocratic governance, linked to ideology
 - [[teotihuacan-collapse-550ce]] — ritual wares (candeleros, composite censers) disappear with state collapse
-- [[cowgill-ancient-teotihuacan-2015]]
+- [[cowgill-ancient-teotihuacan-2015]] · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

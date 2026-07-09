@@ -9,8 +9,8 @@ affiliated_with: [[[phoenicians|Tyre]] (mother-city), the western Phoenician col
 opposed_by: [the western Greeks (Syracuse), later [[roman-republic|Rome]]]
 key_events: [the traditional foundation by Elissa/Dido (814), Malchus's Sardinian campaign (c. 550), the treaties with Rome (509, 348)]
 key_processes: [[[phoenician-colonization|Phoenician colonization]], [[trade-network-formation]], the Greco-Punic conflict in Sicily]
-sources_ingested: 5
-last_updated: 2026-06-11
+sources_ingested: 8
+last_updated: 2026-07-08
 tags: [actor, state, archaic-period, north-africa, mediterranean]
 ---
 
@@ -257,6 +257,37 @@ Italian hegemony. The first treated Rome as a minor Latium city-state; the third
 The [[philinus-treaty-controversy|Philinus treaty controversy]] (possible 306 BCE
 spheres-of-influence agreement) remains open.
 
+### CHGRW: forces, logistics, and command
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|Billows (CHGRW I.10)]]
+prefers Livy 7.27 and Diodorus 16.69.1 dating Rome’s first treaty with Carthage to **348**
+as far more plausible than Polybius’s 509 first-year-of-the-Republic date (Polybius relied
+on informants and a bronze tablet he could not himself read); treaty form is Punic not
+Roman. Sekunda (I.11A): Polybius (6.52.4) thought Roman citizen armies superior to
+Carthaginian foreign mercenaries; famous Numidian light horse (sometimes two mounts);
+earlier vs Greeks Carthage also used citizen forces — River Crimisus 341: 10,000
+Carthaginian hoplites, iron cuirasses, bronze helmets, large white shields, phalanx 400
+files × 25 deep; Sacred Band elite 2,500 suggests 500-man infantry units. Naval manpower
+poorly known; First Punic fleets similar size to Rome imply comparable resources —
+possibly maritime colonies bulk of rowers; marines from mercenary infantry; Diodorus
+24.11.2 implies largely Carthaginian crews at Aegates (117 ships lost; 4,040–6,000
+prisoners). Second Punic still non-negligible (Bomilcar 90 then 65 ships to Syracuse
+212–11); 204 Hasdrubal bought 5,000 slave rowers anticipating African invasion —
+exceptional.
+
+Roth (I.12): Carthage’s fourth-century military role is **undervalued** — Sicilian wars
+shaped Greek siege practice; Punic armies could reach ~70,000 with combined heavy/light
+infantry and cavalry; fleets and complex logistics supported seaborne operations.
+Carthaginians pioneered combining Near Eastern logistics, seaborne technology, and
+monetized economy, moving 50–70k men by sea with large guarded transport fleets. Unlike
+most ancient republics, Carthage appears to have given commanders **long-term commands**,
+aiding experience and multi-ethnic C2; in the Second Punic War nearly all principal known
+commanders were Barcids, implying military “family” training without formal academies.
+Despite earlier overseas sophistication, Hannibal’s Italian campaign shows little evidence
+of Punic seaborne supply — he relied on peninsula resources and land depots; New Carthage
+(209) still held huge stocks when Scipio took it (400,000 *modii* wheat, 270,000 barley,
+476 artillery pieces, 18,300 Roman pounds silver, 63 cargo vessels).
+
 ## The Wars with Rome
 
 See [[first-punic-war-264-241bce]] and [[mercenary-war-241-237bce]] for full accounts.
@@ -295,6 +326,40 @@ Carthage — which had built no fleet and not soldiered for fifty years — but 
 war; Carthage was razed, its survivors enslaved, its site cursed, and its territory
 annexed as the province of **Africa**.
 
+## Barcid politics and the constitution (Hoyos)
+
+Dexter Hoyos ([[hoyos-hannibals-dynasty-2003|*Hannibal's Dynasty*, 2003]]) reconstructs the
+political shape of Barcid-era Carthage in more detail than most narratives. The republic was
+governed by two annually elected **sufetes**, a senate ("The Mighty Ones"), an inner council
+of about thirty, a citizen **assembly** with real but constitutionally limited powers (it
+voted chiefly when sufetes and senate disagreed or referred a matter), and the tribunal of
+the **Hundred and Four** (*ordo iudicum*) — created generations earlier specifically to
+discipline over-mighty generals, and by Hamilcar's day a self-perpetuating body of
+lifetime-tenured judges. Against this backdrop the [[barcid-dynasty|Barcid ascendancy]] was,
+Hoyos argues, a "virtual power-monopoly maintained through popular support and popular
+politics" rather than an autocracy — each leader was overseas and dependent on collaborators
+at home, and there is no trace of show trials or violence against anti-Barcid Carthaginians.
+
+The clearest constitutional episode is [[hannibal|Hannibal]]'s tenure as **sufete (196)**,
+when he broke the judges' entrenched power by abolishing lifetime tenure of the Hundred and
+Four (replacing it with annual, popularly elected terms) and reformed the state's leaking
+finances so successfully that within five years Carthage could offer to discharge its entire
+remaining war indemnity at once. Hoyos treats these reforms as the neglected civilian
+achievement of a figure remembered almost solely as a general.
+
+## OHCW (Boardman/Griffin/Murray 1986) — Crawford & Rawson
+
+Crawford (Ch. 16): early Carthage–Rome relations were pacific (three Polybian
+treaties); the [[first-punic-war-264-241bce|First Punic War]] was fought for Sicily,
+with Sardinia added by “chicanery” and both islands ruled and taxed unlike Italian
+allies; Hannibal’s war failed to break Italian loyalty; Zama closed the second war.
+Rawson (Ch. 17) completes the arc to the [[third-punic-war-149-146bce|Third Punic War]]
+and Africa province (146), with African corn thereafter feeding Rome. Western
+Romanization, she notes, borrowed little from Punic culture (isolated agricultural
+translation).
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Chs. 16–17).
+
 ## Related
 
 - Mother-city: [[tyre]] · People: [[phoenicians]] · Process: [[phoenician-colonization]]
@@ -306,10 +371,12 @@ annexed as the province of **Africa**.
   [[second-punic-war-218-201bce]] · [[third-punic-war-149-146bce]] ·
   [[romano-punic-treaties]] · [[philinus-treaty-controversy]] ·
   [[causes-of-second-punic-war]] · [[nature-of-roman-imperialism]]
-- Barcids: [[hamilcar-barca]] · [[hannibal]] · [[new-carthage]] · vs.
+- Barcids: [[barcid-dynasty]] · [[hamilcar-barca]] · [[hasdrubal-the-fair]] · [[hannibal]] · [[hasdrubal-barca]] · [[mago-barca]] · [[hasdrubal-son-of-gisco]] · [[new-carthage]] · vs.
   [[scipio-africanus]] · [[masinissa]]
 - Warfare hubs: [[hubs/warfare/classical-antiquity/first-punic-war/first-punic-war|First]] · [[hubs/warfare/classical-antiquity/second-punic-war/second-punic-war|Second]] · [[hubs/warfare/classical-antiquity/third-punic-war/third-punic-war|Third Punic War]]
 - Sources: [[boardman-cah-v3p2-1991]] (Ch. 32, Culican) · [[boardman-cah-v3p3-1982]]
   (Ch. 38, Graham) · [[boardman-cah-v4-1988]] (Ch. 16, Asheri) · [[lewis-cah-v6-1994|CAH VI]]
   (Ch. 9a, Picard) · [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard) ·
-  [[astin-cah-v8-1989]] (Chs 2–3, Scullard & Briscoe)
+  [[astin-cah-v8-1989]] (Chs 2–3, Scullard & Briscoe) ·
+  [[boardman-oxford-history-classical-world-1986]] (Chs. 16–17) ·
+  [[hoyos-hannibals-dynasty-2003|Hoyos]] (Barcid politics & constitution)

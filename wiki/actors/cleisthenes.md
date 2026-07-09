@@ -9,8 +9,8 @@ affiliated_with: [the Alcmaeonid genos, the Athenian demos ("taken into partners
 opposed_by: [Isagoras, [[cleomenes-i|Cleomenes I of Sparta]], the [[pisistratidae|Pisistratid tyranny]] earlier]
 key_events: [archonship under the tyranny (525/4), leading the Alcmaeonids back (511/10), the struggle with Isagoras, the reform of the Athenian state (508/7)]
 key_processes: [the reorganization of Attica from kinship to territory, the rise of [[isonomia]], the genesis of [[athenian-democracy|Athenian democracy]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, archaic-period, central-greece]
 ---
 
@@ -64,8 +64,37 @@ the constitutional measures), supplemented by inscriptions and the topography of
 The central modern debate — self-seeking politician vs. far-sighted statesman — directly
 governs how scholars date and interpret his laws, especially ostracism.
 
+### Hall (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] stresses source-critical and structural points that sit alongside Ostwald:
+
+- **Alcmaeonid “continuous exile” is false** if `[C]leisthenes` on the Archon List for 525/4 (ML 6) is the reformer: elite accommodation under Hippias/Hipparchus, later rewritten as continuous opposition (Hdt. 5.62.2; 6.123.1).
+- **508/7 narrative:** Cleomenes’ preferred candidate Isagoras (archon 508/7); Cleisthenes “set about making himself the friend of the *dêmos*” (Hdt. 5.66.2); *AC* 20.1’s “handed the constitution to the multitude” is unlikely before his position was assured. After expulsion of the “accursed,” Cleomenes/Isagoras seized the acropolis and were besieged by “the rest of the Athenians who were of one mind”; three-day siege; Spartans left under truce; Cleisthenes and ~700 families recalled.
+- **Mixing and elite geography:** *AC* 21.2–4 “mix up” the phylai so more share citizenship; targets include Marathon Tetrapolis split, Brauron renamed Philaidai (anti-Pisistratid/Philaid), Boutadai/Paionidai deme names from genê. Antiokhis/Alopeke quotas may have favored Alcmaeonid bases. Hall: if “father of democracy,” only **unwittingly** — mixing continues/extends tyrannical pan-Attic policy.
+- **Late synoikism:** full political unification of Attica may wait for Cleisthenes (weak Archaic control beyond the pedion; long Salamis struggle; ease of acropolis seizures). Comparative parallel: tribal reform nearly always accompanies territorial incorporation (Sparta ôbai; Cyrene Demonax). Cleisthenes vanishes after the reforms — possibly discredited by the embassy offering earth and water to Darius before 506 (Hdt. 5.73).
+
+## From the Oxford History of the Classical World (1986)
+
+**Forrest (Ch.1, [[sources/boardman-oxford-history-classical-world-1986|OHCW 1986]]).** Pisistratid sons expelled in 510 by exile, intrigue, and Spartan arms; Cleisthenes, head of the Alcmeonidae (the house that had supported Solon), “sensed this change sooner than his rivals” and, in Herodotus’ words, “added the people to his faction … by offering them a share in everything.” Demes with local self-government were grouped into ten new tribes each mixing Plain, Coast, and City blocks; army and Solonian council (50 per tribe, prytany service) based on tribes—structure lasting ~200 years without abolishing older cult groups.
+
+**Murray (Ch.9).** Most cities divided citizens into hereditary tribes (Dorian three, Ionian four); Cleisthenes changed four to ten (c.507). The deme became the administrative unit controlling local government and **citizen lists**; membership hereditary regardless of domicile; official designation e.g. “Socrates son of Sophroniscus of the deme of Alopeke.” Phratry remained the core social brotherhood for ordinary Athenians (rites of passage, legal witnesses)—reforms rewired political geography without erasing older associations.
+
+**Hornblower (Ch.6).** Places Cleisthenes (with Solon and later Ephialtes/Pericles) in the long democratic sequence whose pay and dikasteria scale were later underwritten by imperial revenue after 462—continuity of institutional lineage, not identity of fifth-century democracy with the 508 settlement.
+
+## Freeman (2014) — mechanism detail and legacy
+
+[[sources/freeman-egypt-greece-rome-2014|Freeman (2014)]] adds mechanical detail: the
+reform created roughly **140 demes**, grouped into *trittyes* by city/coast/interior
+zone, one *trittys* from each zone combined into each of the ten new tribes — deliberately
+breaking up regional aristocratic power blocs. Each tribe had to supply **1,000 hoplites
+and a *strategos*** (general, elected annually and reappointable), an office introduced in
+501 rather than by Cleisthenes himself, whose growing prestige gradually overshadowed the
+archonship. Freeman also notes, as a legacy/reception point rather than an ancient fact,
+that **508/7 BCE was chosen in 1993 as the symbolic starting point for a "2,500 years of
+European democracy" commemoration.**
+
 ## Related
 
 - Clan: Alcmaeonidae · state: [[athens]] · rivals: Isagoras, [[cleomenes-i]] · earlier regime: [[pisistratidae]]
 - Achievement: [[cleisthenic-reforms-508bce]] · principle: [[isonomia]] · institution: [[ostracism]] · outcome: [[athenian-democracy]]
-- Period: [[archaic-period]] · Source: [[boardman-cah-v4-1988]] (Ch. 5, Martin Ostwald)
+- Period: [[archaic-period]] · Sources: [[boardman-cah-v4-1988]] (Ch. 5, Martin Ostwald); [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

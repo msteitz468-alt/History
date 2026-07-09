@@ -5,8 +5,8 @@ origin: the autocratic regime of C. Julius Caesar, 49–44 BCE, culminating in t
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [italy, mediterranean-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -79,5 +79,12 @@ advantage."
 - By: [[julius-caesar]] · enabled by: [[roman-civil-war-49-45bce]]; ended by:
   [[julius-caesar-assassination-44bce]]
 - Context: echoes [[sullan-constitution|Sulla's dictatorship]] (but reformist, not
-  reactionary) · [[roman-republic]]
+  reactionary) · [[roman-republic]] · [[principate]] ·
+  [[roman-republics-periodization]] · [[flower-roman-republics-2010]]
 - Source: [[crook-cah-v9-1992]] (Ch. 11, Rawson)
+
+## Flower, *Roman Republics* (2010)
+
+On Flower’s thirteen-period map ([[roman-republics-periodization]]), **49–44** is “the dictatorship of Caesar (and a short transition after his murder)” — period 12 — not the end-date of traditional *nobiles* republicanism (already gone in the early 80s) and not the first moment of republican non-function (already ~60 with the Big Three). She stresses that choosing **44** as the Republic’s end risks repeating the Liberators’ mistake: they thought Caesar’s death would spontaneously restore a republic; it did not.
+
+Chronologically, the invasion of **49** is for her more **symptom than cause** of republican failure: even the modified Sullan republic had ended some ten years earlier, just before Caesar set out for Gaul; by mid-first century the republican form had effectively collapsed, and civil war produced first Caesar’s dictatorship then Augustus’ principate. Caesar, she argues, **never seriously tried to restore republican politics** after 49, though he paid lip service in some early-40s speeches and writings; unlike Sulla, he saw no clear path to reform or revival after the chaos of the 50s and the subsequent civil war, and apparently questioned the whole meaning of *res publica*. Flower also notes that traditional republican civic life was already in turmoil at Caesar’s birth (~100) and collapsed when he was about twelve (88) — he never saw a fully functional traditional republic in action. Source: [[flower-roman-republics-2010]].

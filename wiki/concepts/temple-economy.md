@@ -92,3 +92,15 @@ analogue to the redistributive economies of other early states).
 - Place: [[lagash]] · State: [[early-dynastic-sumer]]
 - Concept: [[divine-kingship]] · [[city-state]] · [[writing-and-record-keeping]]
 - Person: [[urukagina]] (reformer of temple-economy abuses) · Process: [[trade-network-formation]]
+
+## Cambridge Economic History of the Greco-Roman World
+
+The Mesopotamian temple economy's long institutional afterlife is documented into the
+Hellenistic period by **van der Spek** (Ch. 15): Babylonian temples under Seleucid rule
+retained large landholdings, elaborate divided-labor workforces (carpenters, smiths,
+weavers, brewers, bakers, scribes, boatmen, and more, attested in Hellenistic
+administrative texts), and large sheep flocks. Kings donated land to temples and let them
+collect tithes, but also drew income from temple property and could seize temple
+treasuries in emergencies — e.g., half the Shamash temple's harvest at Sippar/Larsa was
+seized in 309 BCE. See [[processes/hellenistic-economy]] for the broader Seleucid economic
+context.

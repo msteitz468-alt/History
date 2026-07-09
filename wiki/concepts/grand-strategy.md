@@ -5,8 +5,8 @@ origin: 20th-century military thought (J. F. C. Fuller, B. H. Liddell Hart, Edwa
 applies_to_periods: [Classical Antiquity, Late Antiquity, Long 19th Century, World Wars Era, Cold War, Contemporary]
 applies_to_regions: []
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-23
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -82,9 +82,40 @@ the rational ends-means model the term implies. Grand strategy is therefore best
 **analytical (etic) framework** historians apply, even where the historical actors had no such
 word — while remaining alert to the danger of imposing false coherence.
 
+## Roman and late-antique applications (CHGRW)
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] supplies the principal
+ancient case-study for the etic caution above. **Goldsworthy (II.3):** there is no Latin or Greek
+word meaning precisely “strategy,” and “certainly no expression equivalent to grand strategy”;
+modern strategic-studies definitions assume nation-state institutions without Roman parallel —
+terms usable only with caution. **Mattern** (via Goldsworthy): the offensive/defensive dichotomy
+may be anachronistic — Roman foreign relations better read via honour and power; peace as product
+of utter defeat (*pacare* = defeat), not modern coexistence ideal. **Sidebottom (II.1):**
+diplomacy was deeply symbolic (spatial settings, gift hierarchies, kneeling submission) and
+inseparable from “real” negotiation; Romans preferred barbarians to initiate diplomacy; ideal
+posture cast the emperor as gods-like grantor who commands rather than requests. Stahl’s dossier
+of Marcus/Commodus northern treaties shows recurring friendship, autonomy regulation, and
+future-relations clauses. Gilliver notes regular troops rarely found themselves besieged partly
+because of a strategy of meeting the enemy in open warfare where Romans usually held advantage.
+
+**Late antiquity (Humphries, Whitby).** “International relations” cannot be modelled as
+interaction among stable modern states — most peoples beyond the frontiers lacked stable
+statehood. Persians ranked as peer great powers (“two eyes” of the world); other enemies were
+ranked by danger and worthiness of attention, framed by classical ethnography. Under resource
+pressure a major diplomatic function was avoiding multi-front wars; there was no modern foreign
+ministry — policy formed fluidly around emperor and sacred consistory; ambassadors were ad hoc
+cultural elites. Peace settlements had to be representable as Roman initiative/supremacy even
+when resources were weak (tribute reframed as gifts). Eastern treaties grew more specific in the
+fifth century, culminating in the Fifty-Years Peace of 561; money payments regularized stability.
+Intelligence mixed system and opportunism (spies, merchants, embassies as dual-use). Tomlin/Lee
+defence of depth strategy: frontier garrisons check raids and hold nodes while mobile forces
+concentrate — multi-front threats make linear “defend everything” impossible. Full positions:
+[[roman-grand-strategy]].
+
 ## Related
 
 - **Levels of war:** strategy · operational art · tactics
 - **Sub-hub:** [[hubs/warfare/strategy|Strategy]] · **Comparison:** [[strategic-practice-across-civilizations]]
 - **Cases & debates:** [[roman-grand-strategy]], [[byzantine-grand-strategy]], [[sea-power]], [[maritime-strategy]]
 - **Counter-frames:** [[limited-war]], [[total-war]]
+- **Source:** [[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] (Goldsworthy II.3; Sidebottom II.1; Humphries II.7; Whitby II.9)

@@ -9,8 +9,8 @@ affiliated_with: [[[sasanian-empire|Sasanian Empire]], the house of Sasan, [[zor
 opposed_by: [the [[byzantine-empire|Byzantine Empire]] (Justinian), the Mazdakites, the Hephthalites]
 key_events: [the suppression of the Mazdakite movement, the tax and army reforms, the 562 CE peace with Justinian, the conquest of Yemen]
 key_processes: [the centralization of the Sasanian state, the four-spahbed military reorganization, the rise of the dehqan service nobility]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, iran-plateau]
 aliases: [Khosrow I, Khusro I, Chosroes I, Anushirvan, Anoshirvan, Khosrau Anushirwan]
 ---
@@ -111,3 +111,10 @@ counter the mobile Arab armies a few decades later (see [[sasanian-empire]]).
 - [[sasanian-empire]] · [[eranshahr]] · [[zoroastrianism]] · [[byzantine-empire]] ·
   [[ctesiphon]] · [[shapur-ii]]
 - Sources: [[sources/wiesehofer-ancient-persia-2001|Wiesehöfer, *Ancient Persia*]] · [[sarris-empires-of-faith-2011]] (Ch. 4, the parallel-reform reading)
+
+## From Mitchell, Later Roman Empire (2015)
+
+Attributed claims from [[sources/mitchell-later-roman-empire-2015|Stephen Mitchell, *A History of the Later Roman Empire* (2015)]].
+
+- **“Sassanian Justinian”: tax/army reform and peer ideology.** Sixth-century Persian power rose above all under Khusro I (Khusro Anurshivan, 531–579). Procopius presented him as a Sassanian counterpart to [[justinian|Justinian]], “an extraordinary lover of revolutionary innovations”; Middle Persian/Arabic sources indicate comprehensive land and poll-tax reorganization and a more centralized elite cavalry from the nobility. Diplomatic ideology cast the two empires as “two eyes/lights of the world” (Peter the Patrician; letter of Khusro II to Maurice). Forces were closely matched in Mesopotamian campaigns. Related: [[sasanian-empire|Sasanian Empire]]; [[byzantine-empire|Byzantine Empire]].
+- **540 invasion: Antioch sacked; protection-money peace logic.** The “endless peace” of 532 lasted only to 539; Procopius blames Khusro. Spring 540 exposed hopeless Roman city-by-city defense: Sura massacred; Beroea fell; Antioch stormed after troops fled to Daphne — many killed, survivors deported to a new city near Ctesiphon (only fourteen years after the 526 earthquake). Khusro demanded 5,000 lb gold indemnity + 500 lb/year, framed as hiring Persians as mercenaries (like Hun/Saracen subsidies), not tributary status. Belisarius returned 541; plague, not Roman strength, deterred the 542 advance toward Palestine — “they had not been deterred by the Romans but by a far more devastating enemy, the plague.” Related: [[justinianic-plague-541|Justinianic Plague]].

@@ -8,8 +8,8 @@ region: [italy, mediterranean-world]
 process_type: economic
 driven_by: [the post-Hannibalic confiscation of ager publicus, the inflow of conquest wealth, the spread of slave-worked estates, depopulation, the burden of long military service]
 produces: [the displacement of the peasantry, the latifundia, the law de modo agrorum, the Gracchan land reform of 133]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [process, classical-antiquity, italy, rome]
 ---
 
@@ -99,6 +99,29 @@ The process did not end in 133 — it drove a century of agrarian and military r
 the late-Republican land settlements for veterans). CAH VIII closes on its threshold;
 the Gracchi are treated in CAH IX.
 
+## OHCW (Boardman/Griffin/Murray 1986) — Crawford & Rawson
+
+Crawford (Ch. 16) **rejects** the simple thesis that Hannibalic devastation deracinated
+peasants and produced elite slave *latifundia* as the direct parent of Gracchan
+problems: Rome continued fielding large peasant armies, then conquered the Po valley
+and fought overseas; allied defectors (esp. Bruttii) suffered severe institutional and
+land penalties. After 200, long overseas service **professionalized** soldiers;
+Mediterranean booty enriched elites who invested in market gardens, olives/vines, and
+transhumant sheep farming run by slaves, squeezing central-Italian peasants even as
+war-making still needed legionary manpower — “men do not always act wholly rationally.”
+Italian climate and geography also produced characteristic Mediterranean
+**transhumance** (lowland winter stubble to mountain summer pasture). With Po
+colonization ended, landless men built up before 133, setting the stage for
+[[tiberius-gracchus|Tiberius Gracchus]].
+
+Rawson (Ch. 17) embeds the crisis in imperial economics: booty, Italian allies’ military
+service as Rome’s way to profit them, mass enslavement (Aemilius Paullus ordered to sell
+150,000 of Epirus; Delos could handle 10,000 slaves a day c.100 BCE per Strabo) —
+slave expansion more result than cause of early overseas conquests, but later
+policymakers likely considered supply.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Chs. 16–17).
+
 ## Related
 
 - The Gracchi: [[tiberius-gracchus]] · [[gaius-gracchus]] · [[marian-army-reforms]] ·
@@ -106,4 +129,18 @@ the Gracchi are treated in CAH IX.
   [[roman-colonization]]
 - Politics: [[roman-aristocratic-politics]] · allies: [[roman-italian-alliance]]
 - Actors: [[cato-the-elder]] (the *De agri cultura* villa) · [[roman-republic]]
-- Source: [[astin-cah-v8-1989]] (Ch. 7, Gabba; Ch. 6, Astin)
+- Source: [[astin-cah-v8-1989]] (Ch. 7, Gabba; Ch. 6, Astin);
+  [[boardman-oxford-history-classical-world-1986]] (Chs. 16–17) ·
+  [[flower-roman-republics-2010]] · [[roman-economy-late-republic]]
+
+## Flower, *Roman Republics* (2010)
+
+Flower connects late-second-century agrarian and recruitment pressures to the mid-century **stop on citizen colonization after 177** and to the gradual replacement of a small-peasant citizen army with volunteers among the poor and landless. On **Tiberius Gracchus (133)** she insists the brothers be treated separately (not as a Plutarch pair-unit): despite Tiberius’s violent death, **his agrarian reform went into effect** and land commissioners actively redistributed public land before the Italian-landowner quarrel peaked in 129; later agrarian laws continue to ~111. **Do not let Gaius’s ultimate failure overshadow Tiberius’s real achievement.** Tiberius’s program aimed explicitly at rebuilding an army of small peasant farmers with a tangible stake; Flower judges that his **unwillingness to play traditional political rules** mattered more in unleashing deadly violence than the substance of the agrarian law itself. Laelius’s withdrawn bill (140) already shows 130s innovation predated Tiberius’s tribunate. Source: [[flower-roman-republics-2010]].
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- How far/fast free peasants were displaced by slaves debated since antiquity and still; freeholders/sharecroppers/tenants persist in Principate; citizen campaign death rates never catastrophic; regional archaeological differences.
+- Yet agricultural slavery and intensive agriculture expanded; many late Republican soldiers landless—“the ancient link between soldier-citizen and citizen-farmer had been broken, and Roman Italy had become a slave society.”
+- Amphorae and wrecks track wine-export slavery expansion late second/early first centuries; Sicilian rebellions and Spartacus as indices of the system under stress.

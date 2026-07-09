@@ -9,8 +9,8 @@ affiliated_with: [the [[mauryan-empire|Mauryan Empire]], the Buddhist sangha]
 opposed_by: [Kalinga (conquered); rival claimants to the throne]
 key_events: [conquest of Kalinga c. 261 BCE, conversion to Buddhism, the rock and pillar edicts, Buddhist missions to Sri Lanka]
 key_processes: [[[empire]], [[buddhism|propagation of Buddhism]]]
-sources_ingested: 4
-last_updated: 2026-06-27
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, south-asia]
 ---
 
@@ -86,6 +86,20 @@ contemporary, first-person royal speech — supplemented by later Buddhist legen
 exaggerate his piety). Scholarly debate centers on the **balance between sincere conversion
 and political calculation** in dhamma, and on the edicts' Achaemenid inspiration. His
 afterlife as a symbol (adopted by modern India) is itself a historiographical theme.
+
+### Thonemann: Westward Gaze (2016)
+
+[[thonemann-hellenistic-age-2016|Thonemann]] (*The Hellenistic Age*, ch. 5) opens the
+"Encounters" chapter with Ashoka's c. **255 BCE** claim that Buddhist *dhamma* held sway
+beyond his frontiers for some 600 *yojanas* (~6,000 miles). Rock Edict names five
+Hellenistic rulers: "Yona king" **Antiyoko** = Antiochus II; **Turumaye** = Ptolemy II;
+**Antikini** = Antigonus Gonatas; **Maka** = Magas of Cyrene; **Alikasudaro** = Alexander
+II of Epirus. The longest Greek inscription from the Hellenistic Far East is Ashoka's own
+edict at **Kandahar** (Alexandria in Arachosia) in polished Greek prose. Gandharan
+Buddhist art (Greek–Indian hybrid) is the most obvious product of the traffic.
+Contemporaneously, [[eratosthenes|Eratosthenes]] at the Alexandrian Museum was mapping the
+world some **3,350 miles** west of Pataliputra — Thonemann's emblem of Hellenistic
+geographic scale.
 
 ## Avari's Account: The Paradox of Mauryan Imperialism (Avari, *India: The Ancient Past*, 2007)
 

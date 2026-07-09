@@ -8,8 +8,8 @@ region: [mesopotamia, near-east, iran-plateau, mediterranean, central-asia, chin
 process_type: political
 driven_by: ["[[state-formation]]", "conquest and military innovation", "control of [[trade-network-formation|trade networks]]", "legitimating ideology", "fiscal-administrative technique", "[[pastoral-nomadism|steppe military power]]"]
 produces: ["multi-ethnic political order", "long-distance integration ([[silk-roads]])", "imperial cities ([[imperial-city]])", "standardization (law, coinage, script)", "the spread of [[universal-religions|world religions]]", "imperial collapse and succession"]
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, classical-antiquity, late-antiquity, high-middle-ages]
 ---
 
@@ -128,3 +128,11 @@ reunification versus the Mediterranean's permanent post-Roman fragmentation. See
 [[state-formation]] for the underlying political process.
 
 See also [[empire-formation-and-collapse-patterns]] for a focused comparison of surplus-extraction mechanisms as a variable in imperial resilience.
+
+## Woolf, *Rome: An Empire's Story* (2012) — empire as pattern
+
+[[woolf-rome-empires-story-2012|Greg Woolf]] treats empire not primarily as a fixed institutional checklist but as a **historical pattern in motion**. Natural-process metaphors (tidal wave, avalanche, **resonance**) capture a pattern that starts small, draws in matter and energy, dominates, then loses coherence: "The essence of empire is the assertion of a great pattern at the expense of smaller ones" — typically more hierarchical, with winners and losers at every level, and with material routines of tax and trade fossilized in roads and ports. Empire is "a movement through historical time, not a fixed set of institutions"; by the Byzantine end almost everything (language, capital, god, customs) has changed and yet it is still Rome.
+
+For modern readers, Woolf argues, the spellbinding problem is **longevity**, not only decline-and-fall. Ancient and modern senses of "empire" are "not always the same thing"; Rome becomes the archetypal Western model — "the history of the idea of empire in the west is very largely the history of successive imitations of Rome" — even while modern technological empires remain unlike Rome (difference is technology more than morality). Comparative reflection informs the book without controlled multi-empire measurement.
+
+Rome-specific development: Italian institutional advantage and elite solidarity → Mediterranean hegemony → late-Republican generalship → principate tributary consolidation → third-century recovery → Christian late antiquity → mid-seventh-century end of the antique imperial pattern (Woolf's cut, parallel to Harris after Yarmuk). See [[roman-power]], [[imperial-ecology]], [[roman-empire]].

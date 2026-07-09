@@ -5,8 +5,8 @@ origin: the transformation of the Roman senatorial order in the fourth century �
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [mediterranean-world, italy]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -74,3 +74,9 @@ early-Byzantine society.
 - `contrasts_with:` the [[high-imperial-senatorial-order|High-Empire senatorial order]] and the
   Republican [[roman-aristocratic-politics|nobility]]
 - Source: [[cameron-cah-v13-1998]] (Ch. 6, Peter Heather)
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **Honor inflation and shrinking Senate proper.** *Curiales* seek equestrian rank to escape liturgies → equestrian devaluation → office-holders take clarissimate. City prefectures and Asia/Africa proconsulships remain top posts. Constantius II’s Constantinople senate (“second rank”) drawn from eastern city notables and lawyers; after 395 overlaps court. Exemptions from civic liturgies ideally limited to *illustres* but became hereditary. By 530 under Justinian only the *illustres* (consuls, patricians, inner senior officers) form the Senate itself; sons inherit clarissimate, higher rank earned by effort. Aphrodisias statues/verse honor governors in ceremonial toga/*chlamys*/himation with diptych-like accessories.

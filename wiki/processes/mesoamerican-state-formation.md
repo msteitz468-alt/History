@@ -8,7 +8,7 @@ region: [mesoamerica]
 process_type: political
 driven_by: [maize agriculture, interregional trade networks, competition among ceremonial centers, religious/calendrical ideology]
 produces: [[[olmec|the Olmec]], [[zapotec|the Zapotec/Monte Albán]], [[teotihuacan|Teotihuacan]], [[maya-civilization|the Classic Maya]], the Toltec and [[aztec-empire|Aztec]] successors]
-sources_ingested: 3
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [process, mesoamerica, classical-antiquity, late-middle-ages]
 ---
@@ -219,10 +219,82 @@ template:
 - **Multipolar high culture:** Mixtec *cacicazgos*; Postclassic Maya city-states
 - **Secondary macrostates:** Tula then Tenochtitlan after Teotihuacan
 
+## From Evans & Webster 2001 — State formation and constraints
+
+### Formative regional states (John E. Clark)
+
+Near the end of the Late Formative, Valley of Oaxaca chiefdoms were consolidated under
+[[monte-alban|Monte Albán]]; Maya Lowlands show several large regional polities/states best
+known from El Mirador (central Petén); other candidates include Chiapa de Corzo and Izapa
+(Chiapas) and Kaminaljuyú (Valley of Guatemala). Basin of Mexico is harder to interpret
+because Cuicuilco is lava-covered; major Basin state emerged toward end of Terminal Formative,
+somewhat later than Oaxaca/Chiapas/Maya. Best-documented state-from-chiefdoms process is
+Oaxaca: Monte Albán as planned defensible hilltop confederation capital, then conquest of
+neighboring chiefdoms into tributary capacity. Terminal Formative Maya polities could be
+**larger than subsequent Classic ones**. Writing and complex calendars were in place (may have
+developed earlier). True empires first arose in the **Classic**, not the Formative. Settlement
+systems (scattered villages → competing larger communities with war evidence → one community
+dominating a region) can frame chiefdom/state questions, but other archaeological evidence
+must be combined with settlement data (Willey).
+
+### Classic states (Robert S. Santley)
+
+Classic complex societies were typically integrated as **states** based on stratification
+backed by administrative-military-judicial apparatus; originally seen as peak of Mesoamerican
+civilization but later some regions declined while others developed tribute-extracting empires.
+Maya political organization debated as feudal/regal-ritual with short-lived domination and
+limited long-term tribute extraction per monuments; Teotihuacan more centralized and longer-lived
+palace-centric system.
+
+### Postclassic city-states and world system (Michael E. Smith)
+
+Postclassic saw competing **city-states** (central town + hinterland; kings + hereditary elite
+owning land; palace, marketplace, modest temple-pyramids) replace larger Classic states/empires;
+temples/shrines usually smaller than Classic antecedents. Within competitive systems,
+expansionist states (Aztec, Tarascan, Quiché Maya) forged tributary empires. Tremendous growth
+of merchants/markets and long-distance trade/style interaction created a single Mesoamerican
+world system—see [[interregional-interactions-mesoamerica]].
+
+### Demographic and craft co-evolution (Storey; Feinman)
+
+Population-pressure models (Boserup; Johnson & Earle) treat growth as driving agricultural
+intensification and stratification—from Archaic Tehuacán foragers to Teotihuacan/Tikal/Aztec
+scales—but are strongly criticized (hard to define pressure; assumes unregulated growth; stress
+may cause conflict not innovation). Highland utilitarian craft specialization (pottery) appears
+with political development, population nucleation, agricultural intensification, and local
+exchange reorganization around early urban centers like Teotihuacan and Monte Albán.
+
+### Warfare logistics as state constraint (David L. Webster)
+
+Warfare constrained by technological simplicity (wood, stone, fiber weapons; limited copper
+among Tarascans/W Mexico; no bronze/iron/steel armor, gunpowder, horses, specialized naval
+vessels) and poor logistics (no draft animals/wheeled vehicles/well-developed roads; human
+porters; paddled not sailed watercraft). Armies small, slow, short-range unless supplied in
+friendly territory or by looting. Campaigns timed to agricultural cycle—best at/after harvest;
+long sieges virtually impossible. Most centers unfortified but often defensible; formal
+fortifications serviceable because siege/artillery weak; conquest glyph = burning temple.
+
+Source: [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]].
+
+## Fagan & Durrani (2020): the Marcus cycle model as a cross-cutting frame
+
+Fagan and Durrani's *World Prehistory* (10th ed., 2020) supplies **Joyce Marcus's
+political-cycle model**, explicitly applied across the Maya, Teotihuacan, Toltec, and Aztec
+alike, as a recurring structural pattern behind Mesoamerican state formation: a city-state
+expands via diplomacy, marriage, and conquest to an early maximum territorial extent; its
+provinces grow in complexity and break away; the core persists locally rather than weakening
+outright; and former provinces sometimes ally to conquer their old overlord, becoming a new
+center in turn — the cycle then repeating. This complements the "successive progression of
+state rise and collapse" already noted above (CWH IV) with a specific mechanism for *why* that
+succession recurs rather than terminating, and applies equally to the Toltec state at Tula
+(see [[toltec]]) as a link between the Teotihuacan and Aztec cases.
+
 ## Related
 
-[[mesoamerican-preclassic]] · [[olmec]] · [[zapotec]] · [[monte-alban]] · [[teotihuacan]] ·
+[[mesoamerican-preclassic]] · [[olmec]] · [[zapotec]] · [[monte-alban]] · [[teotihuacan]] · [[toltec]] ·
 [[maya-civilization]] · [[purepecha]] · [[aztec-empire]] · [[triple-alliance-formation-1428]] ·
 [[fall-of-tula-1150]] · [[olmec-mother-vs-sister-culture]] · [[teotihuacan-political-organization]] ·
+[[interregional-interactions-mesoamerica]] ·
 [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] ·
-[[benjamin-cwh-v4-2015|CWH IV]] · [[kedar-cwh-v5-2015|CWH V]]
+[[benjamin-cwh-v4-2015|CWH IV]] · [[kedar-cwh-v5-2015|CWH V]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

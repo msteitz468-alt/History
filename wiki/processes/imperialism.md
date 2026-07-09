@@ -8,8 +8,8 @@ region: [global]
 process_type: [political, economic, ideological]
 driven_by: [[[industrialization]], inter-state competition, [[fossil-fuel-energy-transition|new transport and military technology]], capitalist demand for raw materials and markets, ideologies of civilization and race]
 produces: [the New Imperialism / scramble for Africa, colonial states, [[decolonization]], modern globalization, post-colonial inequalities]
-sources_ingested: 7
-last_updated: 2026-06-14
+sources_ingested: 8
+last_updated: 2026-07-08
 tags: [process, long-19th-century, global]
 ---
 
@@ -100,11 +100,16 @@ the **Eurocentrism** built into the very concepts of modernity and modern imperi
 and into the colonial archives from which the discipline of history itself emerged
 (see [[eurocentrism]]).
 
+## Woolf, *Rome: An Empire's Story* (2012) — Rome vs modern imperialism
+
+[[woolf-rome-empires-story-2012|Greg Woolf]] rejects close analogy between modern imperialisms and Rome. Rome enters modern debate because it is familiar and because modern empires used Roman symbols; principal difference is **technology, not morality** (“racism versus slavery anyone?”): “Lenin was right to insist on the ineradicably modern origins of nineteenth- and twentieth-century imperialism.” Against nineteenth-century imitators, Rome “admitted no equals and recognized no predecessor… no notion of a community of nations.” For the Roman process itself he stresses Polybian hegemony (defeat of conceivable rivals within ~53 years; informal/indirect supremacy before a full tributary provincial system); fourth-century alliance structures locking expansion; ecological preference for Mediterranean coastal plains over upland interiors; religion as passenger, not prime mover, of expansion. Ancient vs modern empires also differ in longevity/weakness vs short-lived power—postcolonial analogies need care. Cross-links: [[nature-of-roman-imperialism]] · [[empire]] · [[roman-empire]].
+
 ## Related pages
 
 [[nationalism]] · [[self-strengthening]] · [[decolonization]] · [[genocide]] ·
 [[industrialization]] · [[eurocentrism]] · [[atlantic-slave-trade]] ·
-[[long-19th-century]] · [[united-states]]
+[[long-19th-century]] · [[united-states]] · [[nature-of-roman-imperialism]] ·
+[[woolf-rome-empires-story-2012]]
 
 A contemporary American anti-imperialist dossier ([[flynn-as-we-go-marching-1944|Flynn 1944]],
 attributed) documents the racialized moral rhetoric of the US entry into empire in 1900 —

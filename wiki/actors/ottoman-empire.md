@@ -9,8 +9,8 @@ affiliated_with: [the Anatolian Turkish frontier (gazi) society, Sunni Islam]
 opposed_by: [the [[byzantine-empire|Byzantine empire]], the Balkan Christian states (Serbia, Bulgaria), the crusaders, Timur, the Safavids, the Mamluks, the Habsburgs]
 key_events: [the emergence in Bithynia (c. 1300), the crossing into Europe (1354), the battle of [[battle-of-kosovo-1389|Kosovo]] (1389), Nicopolis (1396), the catastrophe at Ankara (1402), Çaldıran (1514), the conquest of Egypt (1517), Mohács (1526)]
 key_processes: [the conquest of the Balkans, the building of a frontier state, the slave household, the timar system, the "military revolution"]
-sources_ingested: 3
-last_updated: 2026-06-13
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [actor, state, late-middle-ages, anatolia, balkans, near-east, islamic-world]
 ---
 
@@ -182,6 +182,37 @@ nationalist resistance under Mustafa Kemal — the **abolition of the sultanate 
 founding of the **Turkish Republic** (see [[fall-of-the-ottoman-empire-1922]]). Finkel stresses
 the **continuities** between empire and republic against the myth of a clean break.
 
+## Pan-Islamic Caliphate Diplomacy in Asia (Formichi)
+
+Chiara Formichi's [[formichi-islam-and-asia-2020|*Islam and Asia: A History*]] (2020) traces the
+Ottoman sultans' use of the **caliphal title as a transregional propaganda tool** aimed at Asian
+Muslims far beyond the empire's borders. **Abdülhamid II** formally proclaimed the sultan "Caliph
+of the Muslim World" in 1876 and pursued this abroad by building the **Hejaz railway**,
+monopolizing the printing and distribution of the Qur'an, and dispatching emissaries as far as
+Russia, South Asia, and the Dutch East Indies. Formichi notes the appeal was uneven: Malay-language
+readers in the Dutch East Indies around 1900 were reportedly more interested in Ottoman military
+campaigns and court intrigues than in pan-Islamic propaganda as such.
+
+The strategy reached its limit in the **1914 "Jihad Fatwa"**: the Shaykh al-Islam's call (14 Nov
+1914; see above) for Muslims worldwide to wage jihad against Britain, France, and Russia was, per
+Cemil Aydin's analysis (cited by Formichi), a **largely failed** appeal — Ottoman pan-Islamism
+"had to avoid appearing anti-imperialist," aiming at intra-Muslim solidarity and dynastic legitimacy
+rather than a genuine anti-colonial "clash of civilizations." Jacob Landau attributes the fatwa's
+failure to want of organization, Entente counter-propaganda, the CUP's own secularism, cooperative
+colonial Muslim elites, and hostile theological exegesis against fighting alongside a Christian ally
+(Germany). See [[sunni-internationalism]] for the broader pan-Islamic network this diplomacy fed.
+
+**Mustafa Kemal's abolition of the sultanate and then the Caliphate (March 1924)** — separating
+religion from politics in the new Turkish Republic — reverberated across Asia: **Sharif Husayn** of
+Mecca briefly claimed the Caliphate before Ibn Saud's conquest of Mecca (October 1924) deposed him,
+and the 1926 Cairo and Mecca congresses (with Dutch East Indies, Indian, and Soviet delegations)
+failed to agree on a successor. See [[fall-of-the-ottoman-empire-1922]] for the Republican
+transition, and the [[khilafat-movement]], [[sarekat-islam]], and [[basmachi-movement]] pages for
+the movements this abolition provoked in British India, the Dutch East Indies, and Soviet Central
+Asia respectively. Kemal's 1925 ban on the fez and discouragement of veiling as symbols of
+modernization also fed into parallel debates over veiling as a marker of "progress" in India, the
+Dutch East Indies, and among China's Hui Muslims (see [[islamic-modernism]]).
+
 ## Related
 
 - [[finkel-osmans-dream]] — the narrative spine for the post-1650 story above.
@@ -196,3 +227,70 @@ the **continuities** between empire and republic against the myth of a clean bre
 - `opposed_by:` the declining [[byzantine-empire|Byzantine empire]] and the Balkan Christian states; checked by Timur at Ankara (1402).
 - `produced:` the conquest of the Balkans ([[battle-of-kosovo-1389|Kosovo]] 1389, Nicopolis 1396).
 - `part_of:` the fourteenth-century transformation of the eastern Mediterranean frontier.
+- [[cobb-race-for-paradise-2014]] — Islamic-history-of-the-Crusades framing (below).
+
+## Cobb: ghazis, Balkan reversal of the crusade route, and end of the Frankish problem
+
+[[cobb-race-for-paradise-2014|*The Race for Paradise*]] ends its Islamic narrative of
+Mediterranean Frankish wars with the Ottomans as the power that closed the medieval
+Frankish–Muslim contest. **Osman**, chieftain of a small Turcoman warrior band in western
+Anatolia, styled himself a *ghazi* against foes of Islam — first and foremost Byzantine
+Greeks, “not yet the Franks of Latin Christendom.” By his day the Byzantines were the only
+traditional land-based empire left in Anatolia; Saljuq sultans of Rum had been extinguished
+by Mongol overlords in **1307**, leaving competing *beys*. ʿAshiqpashazade’s late-15th-c.
+creation myth (moon from Edebali’s breast; world-shading tree from Osman’s navel —
+sovereignty for his descendants) was recorded when the dynasty was close to realizing the
+vision. Realizing it meant transforming a nomadic *ghazi* confederation into a sedentary
+empire: defeat Byzantines ([[fall-of-constantinople-1453|1453]]), other Muslim polities
+including the [[mamluk-sultanate|Mamluks]] (**1517**), and conflict with Balkan Christians and
+Latin Franks who still planned crusades.
+
+**Into Europe.** After Osman’s death (1324), **Orhan** expanded from Bursa; “sea ghazis”
+from southern Anatolian ports harassed Christian shipping (same pirates who troubled Cyprus).
+Orhan backed John VI Cantacuzenus; Cobb hedges the usual blame that Cantacuzenus “opened
+Europe” — early crossings were brief plunder campaigns. More important: Venetian–Genoese war
+(1350–55) produced apparently the **first Ottoman–European treaty** (with Genoa), securing
+safe Straits crossings and commercial links Pera–Bursa (silk hub). From 1352 Ottoman troops
+and families stayed in Thrace (**Rumelia**); Gallipoli after an earthquake gave secure
+landings. Settlement, not mere garrisons: prince Suleiman told Orhan a “great number of
+people of the Islamic faith” were needed so fortresses could be settled and the country
+flourish. From **1359** Murad (still acting for Cantacuzenus) threatened Constantinople —
+first Ottoman attack on the city — then subdued Thrace westward along the Via Egnatia:
+Ottomans drove west on the invasion route crusaders had once favored eastward.
+
+**Balkan consolidation (hedged numbers as Cobb reports).** At Orhan’s death (1362) Murad
+became sultan; Hungary under Angevin Louis claimed defender of Latin Christendom. 1371
+Chernomen: Ottoman ghazis crushed the Serbs (tribute + troops); Bulgarian czar and Byzantine
+emperor recognized Ottoman overlordship rather than join Hungarians — Hungarian crusade felt
+a greater threat to Orthodox than lighter Ottoman suzerainty. By 1383 Murad’s HQ at
+Adrianople/Edirne; 1385 advances into western Thrace, Albania, Moravian Serbia (Niš). **15
+June 1389** Kosovo Field near Pristina: Murad’s army (~25–30,000) defeated Lazar’s coalition
+(~20,000 max, mixed Balkan/Frankish/Hungarian); both Lazar and Murad killed; Serbia submitted.
+**Beyazid Yildirim** (“Thunderbolt”): by 1395 all Bulgaria conquered, Wallachia tributary;
+Danube forts garrisoned. Nicopolis 1396 (both sides ~15,000 sober estimate) shattered a
+western crusade; high casualties and prisoner-killing violated customary war norms; sting
+delayed further coalitions for decades. Timur took Sivas (1400), defeated Mamluks in Syria
+(1401), routed Beyazid at **Ankara July 1402** (Beyazid died in captivity months later,
+possibly suicide); nearly two decades of civil war until **Murad II** reunited domains.
+
+**Varna and the chapter title.** Murad II took Venetian Thessalonica (1430); preferred
+annexation over vassalage; 1440 Belgrade siege failed; Hunyadi checked Ottomans 1441–42. After
+a ten-year truce at Edirne (1444) Murad abdicated for twelve-year-old Mehmed; the pope
+absolved Vladislav of his truce oath with an “infidel.” Murad returned; Genoese ships foiled
+the Frankish blockade of the Straits; **Varna** (9–10 Nov 1444) — Vladislav killed, Hungarians
+routed; Murad restrained pursuit: survivors should return home as “eulogists” of Muslim
+miracles — Cobb’s chapter title *Let Them Be Our Eulogists*. 1448 second Kosovo triumph;
+Greeks/Balkans increasingly preferred Muslim rule to Venetian/Hungarian heavy hand.
+
+**Constantinople and after (Cobb frame).** Mehmed II (*Fatih*, r. 1451–81) built Rumeli Hisar
+(1452); siege of Constantinople ~54 spring days; fall **29 May 1453** (~4,000 said killed
+including Constantine XI); three days’ pillage; Hagia Sophia adapted as mosque; by 1500
+Istanbul largest city in Europe — “final ingredient” transforming *ghazi* house into world
+empire. 1517 Mamluk Egypt fell to Ottoman armies — Cairo’s sultan “the last medieval victim”
+of a force “far greater than anything concocted in the cold and distant land of the Franks.”
+With [[nasrid-granada|Granada]] 1492, Cobb’s end-point: Sicily and al-Andalus under Franks;
+Near Eastern Frankish states and Cyprus destroyed; Byzantium eliminated; Ottomans later
+focused on Hungary/Habsburgs as a regional European power, not primarily as foes of crusading
+Franks. Ambient Crusades memory persisted into the Ottoman centuries (jihad rhetoric; Baybars
+epics; 1701 Jerusalem notables petitioning the sultan against a French consul visit “as
+happened repeatedly in past times”).

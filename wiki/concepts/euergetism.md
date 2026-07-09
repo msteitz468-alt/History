@@ -5,8 +5,8 @@ origin: The Hellenistic and Greco-Roman system of public benefaction by the weal
 applies_to_periods: [Classical Antiquity, Late Antiquity]
 applies_to_regions: [mediterranean-world, anatolia, egypt]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -51,7 +51,33 @@ kings made gifts to cities (corn, buildings) as *philanthropa* — so that euerg
 hinge between civic finance and royal finance. The institution outlasted the kingdoms,
 becoming central to the civic life of the Greek East under the Roman Empire.
 
+## Cambridge Economic History of the Greco-Roman World (Giardina)
+
+Andrea Giardina's chapter on the transition to Late Antiquity (ch. 28, in Scheidel, Morris &
+Saller (eds.), *The Cambridge Economic History of the Greco-Roman World*, 2007) traces
+euergetism's late-antique decline. Traditional civic euergetism — epigraphically marked by
+epithets like *amator populi* and *amator civium* — declined from the 3rd century CE under
+economic distress, and this decline accelerated in the 4th century as **Christian charity**,
+marked by the new epithet *amator pauperum*, redirected elite giving from civic buildings and
+prestige toward the poor and church buildings. Giardina frames this as an uneven, non-linear
+regressive trend rather than a swift rupture (citing Lepelley on the African provinces).
+
+The shift reflects a change in ultimate motivation: civic benefactors sought earthly social
+prestige and patriotic credit from fellow citizens, while Christian donors sought heavenly
+credit from God, giving to "the poor" as a moral/religious category rather than to "the
+people" as a civic category. Constantine's tax exemptions for church property and clergy
+(from the recognition of Christianity onward) were decisive in growing ecclesiastical wealth,
+shifting society from a model in which "the poor were largely invisible" to one in which
+poverty became central to redistribution and church-state relations (citing Brown 2002).
+Giardina notes that ecclesiastical estates used the same relations of production — [[colonatus|
+*coloni*]] and slaves — as lay estates: the church was a major participant in, not an
+alternative to, the era's land-accumulation and colonate system.
+
+Source: [[scheidel-cambridge-economic-history-greco-roman-world-2007]] (Giardina, ch. 28).
+
 ## Related
 
 - The transformed city: [[hellenistic-polis]] · royal gifts: [[hellenistic-monarchy]] · [[ruler-cult]]
+- Late-antique decline: [[colonatus]] · [[late-roman-economy]] ·
+  [[late-antiquity-decline-vs-transformation]]
 - Source: [[walbank-cah-v7-1-1984|CAH VII.1]] (Davies, ch. 8)

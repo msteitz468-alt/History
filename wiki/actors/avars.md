@@ -9,8 +9,8 @@ affiliated_with: [slavic-allies]
 opposed_by: [byzantine-empire, franks, gepids, bulgars]
 key_events: [avar-arrival-568, siege-of-constantinople-626, defeat-by-charlemagne-791-804]
 key_processes: [migration-period, avar-empire-consolidation, tribute-extortion, ethnic-mixing-with-slavs]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, empire, early-middle-ages, eastern-europe, central-europe, steppe]
 ---
 
@@ -51,3 +51,11 @@ Last updated 2026-06-26.
 ## Oxford Handbook of the Merovingian World (2020)
 
 Matthias Hardt's chapter in the [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] traces Avar contact with the Franks from their first appearance at the eastern frontier in 562. Sigibert I beat them that year and made *amicitia* with the khagan Baian, but was defeated and captured in 566, securing release only through gift-giving; the Avars settled the Danube–Tisza region in 568. They raided Thuringia in 596 and withdrew after receiving tribute from Queen [[brunhild|Brunhild]]. Their failed siege of Constantinople (626) triggered the internal upheavals — including the Slavic revolt under Samo — that reshaped the Frankish east (see [[early-slavs]]).
+
+## From Mitchell, Later Roman Empire (2015)
+
+**Arrival, Gepid destruction, Lombards to Italy, Sirmium 581.** Avars — Mongolian-origin warrior nomads, driven west by Turks, lured by Roman wealth — arrived as a major northeastern challenge two years after Justinian’s death. Romans first used them against Kutrigurs/Utrigurs. 567 pact with Lombards vs Gepids (Menander fr. 9): Avars annihilated Gepids; Romans re-occupied Sirmium; Lombards under Audoin abandoned Pannonia for Italy. Avars became strongest northern power for a generation (khagan compared to Attila). From 572 annual 80,000 solidi for leaving the Balkans unmolested. Tiberius II’s refusal → renewed Sirmium offensive; city fell 581 after more than two years’ siege; Romans paid arrears. Slavs acting with Avars devastated Greece, Thessaly, Thrace.
+
+**Maurice vs Avars/Slavs 582–602.** May 583 Khagan raised demand on Maurice to 100,000 solidi; non-payment → capture of Singidunum, Augustae, Viminacium, Anchialus. 584 Romans paid full sum; no respite from Slavs — 585 long-walls attack, Roman win at Adrianople; Athens/Corinth sacked; September 586 Slav siege of Thessalonica (saved by St Demetrius miracle tradition); first permanent Slavic settlements in Greece from this period. Tide turned only after Persian peace 591 released Balkan manpower; Priscus/Comentiolus applied *Strategikon* tactics; 598 Khagan success forced Maurice to man the long walls; tribute +20,000 solidi, but Romans then went on the offensive (Viminacium; across the Danube vs Slavs).
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell, *A History of the Later Roman Empire* (2015)]].

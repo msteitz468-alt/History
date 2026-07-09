@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[augustan-imperial-expansion|the Roman penetration of Germany]], Varus' premature imposition of taxation and Roman jurisdiction, the revolt organised by [[arminius]]]
 consequences: [the loss of three legions, the abandonment of permanent occupation between Rhine and Elbe, the long-run fixing of the Rhine as the imperial frontier, the disputed scale of its strategic effect]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, late-antiquity, western-europe, transition, rome]
 ---
 
@@ -96,3 +96,22 @@ history.
   Germanicus campaigns (AD 14–16) and the consolidation of the **Rhine frontier**
 - Roman response led by [[tiberius]]; mourned by [[augustus]]
 - Source: [[bowman-cah-v10-1996]] (Ch. 4, Gruen)
+
+## Harris, *Roman Power* (2016)
+
+[[harris-roman-power-2016|Harris]] folds Teutoburg into the long expansion arc ending with Tiberius’s **AD 16** halt rather than treating AD 9 alone as the definitive end of expansion. In the catalogue of continued expansion with defeats, Teutoburg (with Arausio 105 and Carrhae 53) is a spectacular reverse that was a consequence of aggressive, over-confident manner — yet overall the remaining 130 years of unrelenting expansion (to Augustus) were triumphant against any Mediterranean/northern European enemy except the Parthians. For the **north**, “determination flagged from AD 9 for good rational reasons,” so lands east of the Rhine and north of the Danube remained free. The large Illyrican–Pannonian rebellion AD 6–9 “may suggest why Rome’s expansion slowed down soon thereafter”; combined with Teutoburg and Augustus’s deathbed boundary advice, it frames the deceleration Tiberius enacted. On knowledge/tactics under the Principate, Harris notes the army generally kept itself well informed — “Varus’ defeat was highly atypical” — with possible later deterioration before the third-century crisis. Period boundary: AD 16 Tiberius gives up conquering all Germany (Germanicus recalled); how long-term a change Tiberius expected “we cannot tell,” but successors largely followed the restraint. See [[augustan-imperial-expansion]] and [[roman-grand-strategy]].
+
+## CHGRW contribution
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] reinforces the
+**atypical failure-mode** reading. Whitby (I.3) treats the Varian disaster as a rare
+battlefield-archaeology success: survey and limited excavation confirmed the
+**Kalkriese-Niewedder** depression; find scatter shows an army struggling on the march until
+divided; thorough plundering left remains mainly in Germanicus’ AD 15 burial pits and collapsed
+German turf walls; bones show exposure; small finds reflect diverse expeditionary personnel
+(craftsmen, surveyors, clerks, medical staff). Goldsworthy (II.3): Teutoburg (and Lollius 15 BCE)
+are rare intelligence failures where Roman forces were surprised — AD 9 explained by **defection
+of Varus’ German scouts**; generally Principate armies reconnoitred carefully vs mid-Republic.
+Gilliver (II.4) frames Teutoburg as the paradigmatic failure mode of imperial warfare: ambush of a
+marching column on poor ground with poor intelligence — the kind of engagement where Romans did
+**not** hold their usual pitched-battle advantage.

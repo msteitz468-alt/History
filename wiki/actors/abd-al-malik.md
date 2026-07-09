@@ -9,8 +9,8 @@ affiliated_with: [Umayyad Caliphate, Damascus]
 opposed_by: [Abd Allah ibn al-Zubayr, Byzantine Empire, Kharijites, Shi'ites]
 key_events: [second-fitna-680, construction-of-dome-of-the-rock-691, monetary-reform-696]
 key_processes: [arabization-of-administration, rise-of-islam]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, levant, near-east]
 ---
 
@@ -43,3 +43,9 @@ In 691/2 CE, Abd al-Malik commissioned the construction of the **Dome of the Roc
 ## References
 
 - *The New Cambridge Medieval History, Volume 1: c. 500–c. 700*, edited by Paul Fouracre. Cambridge University Press, 2005 (Chapter 12).
+
+## From Tannous (2018)
+
+Tannous situates ʿAbd al-Malik’s public Islamic program (Dome of the Rock, epigraphic coinage, ritual differentiation) within the problem of a ruling Muslim minority elaborating a full way of life amid prestigious Christian majorities — architectural and liturgical competition, not only fiscal reform. Links to [[islamization-of-the-middle-east]] and Umayyad boundary-making.
+
+- Source: [[tannous-making-medieval-middle-east-2018]]

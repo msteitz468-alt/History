@@ -16,6 +16,8 @@ tags: [actor, person, long-19th-century, eastern-europe]
 
 # Alexander III of Russia
 
+> **Disambiguation:** Not Pope Alexander III (1159–81); see [[alexander-iii-pope]].
+
 **Alexander III** (1845–1894; r. 1881–1894) was Emperor of Russia. Ascending the throne following the assassination of his father, Alexander II, his reign was characterized by political reaction, the enactment of "counter-reforms" designed to restore gentry authority, and intense state-sponsored industrialization, which laid the infrastructure for modern Russian heavy industry.
 
 ## Biography / Description

@@ -9,8 +9,8 @@ affiliated_with: ["Homo ergaster (likely ancestor)", "early Homo"]
 opposed_by: ["Homo sapiens (probable agent of its final extinction)"]
 key_events: ["Discovery of 'Java Man' (Trinil, 1890s)", "Zhoukoudian 'Peking Man' excavations", "[[out-of-africa-1-1800kbp]]"]
 key_processes: ["[[human-evolution]]", "[[paleolithic-global-dispersal]]", "[[peopling-of-east-asia]]"]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, other, "Early Prehistory", "Late Prehistory", southeast-asia, east-asia]
 ---
 
@@ -42,6 +42,21 @@ humans spread — evidence Tattersall uses for replacement of archaic hominids b
 *Homo sapiens* (see [[modern-human-origins-debate]]). Removing it from the "main
 line" of descent is part of the larger move from a linear to a bushy
 [[human-evolution|hominid phylogeny]].
+
+## Fagan & Durrani (2020) — Terminology Note
+
+Fagan & Durrani (2020) treat African *H. erectus* and *H. ergaster* as
+essentially one lineage rather than cleanly distinct species, consistently
+glossing the African form as "*H. erectus* (sometimes known as *H.
+ergaster*)." On this reading *H. erectus* appears in Africa by ~1.9 Ma, is
+the first hominin to leave the continent, already resembles modern humans in
+body proportions and developmental rate, and is linked to the Acheulean
+industry from ~1.65 Ma. Fossil range: East/South Africa (1.9–1.5 Ma), Dmanisi,
+Georgia (by 1.8 Ma), and China and Java/Indonesia. This is a "lumper" position
+comparable to the one Tattersall's account (above) attributes to other
+researchers — the wiki retains both [[homo-erectus]] and [[homo-ergaster]] as
+separate pages per the existing "splitter" framing, but flags that Fagan &
+Durrani's terminology does not distinguish them.
 
 ## Historiography
 

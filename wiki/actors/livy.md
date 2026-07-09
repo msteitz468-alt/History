@@ -9,8 +9,8 @@ affiliated_with: [Augustan Rome]
 opposed_by: []
 key_events: []
 key_processes: [[[early-roman-source-criticism]]]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]
 ---
 
@@ -47,6 +47,10 @@ but his broad framework — drawn ultimately from contemporary records via the
 annalists, including the *annales maximi* (elections, provinces, levies, triumphs,
 prodigies) — is generally sound. The breaking-off of Livy's continuous text at 167
 sharply degrades the quality of our knowledge thereafter.
+
+## OHCW (Lintott Ch. 26)
+
+**Andrew Lintott**: only 35 of 142 books survive (Greek historians fared better under Byzantine scholarship after the western cultural hiatus). Born Patavium 59 BCE; wrote from about age thirty after twenty years of civil war and conversion of the Republic into monarchy; last great Latin annalistic history of the Republic, carried down to 9 BCE; conservative, patriotic, pro-senatorial against tribunes. Notable exception among non-senators to the ideal that the historian of public affairs should be a participant. Like [[sallust]], argued Rome had succumbed to the weight of her own success; as causal interpreter unoriginal/defective, substituting vivid human sympathy and “tragic” historiography for Polybian “pragmatic” explanation. Source: [[boardman-oxford-history-classical-world-1986]].
 
 ## Historiography
 

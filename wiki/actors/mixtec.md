@@ -9,7 +9,7 @@ affiliated_with: ["Mixteca Alta / Baja / Costa", "[[oaxaca-valley|Valley of Oaxa
 opposed_by: ["rival Mixtec and Zapotec dynasties", "[[aztec-empire|Aztec]] imperial expansion", "Spanish conquest", "liberal anticorporate land buyers", "Porfirian privatization"]
 key_events: [Formative villages and Middle Formative chiefdoms, Yucuita–Yucunudahui Classic urbanism, Lord 8 Deer regional state, lama-bordo intensification, Valley of Oaxaca intermarriage and Sa’a Yucu, alliance with Zapotec against Aztecs, Spanish conquest, 16th-c. Mixtec mercantile primacy, Mixteca cofradía/communal rebellions 1832–1857, Porfirian dual-economy ruin]
 key_processes: ["[[mesoamerican-state-formation]]", "[[mesoamerican-preclassic]]", "[[oaxaca-indigenous-colonial-modern]]"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, mesoamerica, oaxaca]
 ---
@@ -166,6 +166,50 @@ primacy and 19th-c. cofradía-defense rebellions · *contrasts_with:* isthmus [[
 retention and valley milder disentailment · *enabled:* (negative) Mixteca Alta erosion via
 post-epidemic flocks.
 
+## Evans & Webster 2001 (Monaghan)
+
+**Multivalent “Mixtec.”** The label is analytically multivalent (language, ethnicity,
+elite, geography, art style that do not fully coincide). Recognizably Mixtec language
+diverged among Otomanguean groups in the Mixteca Alta by at least ~**1000 B.C.**; by
+Spanish arrival **1522** Mixtec-speaking kings and queens ruled much of the western
+Valley of Oaxaca and had incorporated Chocho, Chatino, Nahuatl, Amuzgo, Trique, and
+other groups (Monaghan, EW2001 “Mixtec History, Culture, and Religion”).
+
+**Vertical ecology.** Traditional divisions: Mixteca Alta (mountainous eastern Oaxaca),
+Mixteca Baja (dry NW of Alta), Mixteca de la Costa (humid Pacific strip); indigenous
+subarea names stress environmental variation (Costa as “land of corn”). Proximity of
+different ecological floors encouraged **vertical integration** — a major factor in
+settlement, ritual exchange, and political dynamics.
+
+**Sequence highlights.** Preagricultural Mixteca poorly known; Nochixtlán/Tamazulapan
+farming villages ~**1350 B.C.** Classic (A.D. 300–800) unprecedented growth: >100
+Nochixtlán sites; Yucuñudahui, Cerro Jazmín, Etlatongo >2 km²; **Río Viejo** urban
+center ~3 km² with plazas, ball courts, temple mounds, mural tombs. Agricultural
+intensification: irrigation, vertical microclimate integration, and *lama-bordo*
+controlled-erosion terracing — “one of the most unusual agricultural technologies in the
+world.”
+
+**Postclassic *yuhuitayu*.** Best-documented period via archaeology, Mixtec manuscripts,
+and colonial accounts; small kingdoms (*yuhuitayu* / cacicazgo) linked by
+kinship/marriage. Major conquest-era kingdoms included Coixtlahuaca, Yanhuitlán,
+Teposcolula, Tilantongo, Achiutla, Tlaxiaco, Teozacoalco, Chalcatongo, Tequixtepec,
+Tecomaxtlahuaca, **Tututepec** (coast); several subordinate to the Triple Alliance;
+Tututepec uniquely appointed officials in subject kingdoms.
+
+**Strata and language.** Ruling stratum: royal lineage (*iya tnuhu* / caciques) and
+hereditary nobility (*tay toho* / principales); elite origin myths (born from trees at
+sacred Apoala); special *Iya* vocabulary; Dominicans translated *iya* as “saint”/“divine.”
+Nonelite: barrio commoners (*tay ñuu*), rural people (*tay yucu*), landless tenants
+movable with lords, slaves. Mixtec is a continuum of ≥**29** mutually low-intelligibility
+dialects (related languages); Postclassic elite/merchants polyglot (Nahuatl lingua
+franca; Teposcolula Mixtec as elite standard per Antonio de los Reyes 1593). Royalty
+practiced cousin marriage and true **brother-sister marriage** — one of the few such
+societies worldwide; kingdoms easily segmented by inheritance and ethnic/linguistic
+divisions.
+
+*part_of:* multipolar highland political typology · *enabled:* [[mixteca-puebla-style]]
+codex and polychrome florescence · *contrasts_with:* single [[zapotec]] capital state
+
 ## Historiography
 
 Ethnohistory and codex scholarship (Alfonso Caso’s tradition; Nuttall, Bodley, Colombino,
@@ -174,6 +218,11 @@ Classic multipolar forms vs Postclassic reorganization; 8 Deer’s “empire” 
 codex-based reconstruction. Marcus & Flannery emphasize structural contrast with the
 single Zapotec state as a major lesson for Mesoamerican political typology.
 
+**Evans & Webster 2001.** John Monaghan’s “Mixtec History, Culture, and Religion” is the
+principal encyclopedia synthesis for multivalent identity, *yuhuitayu* structure, and
+elite theology of *iya*; pairs with Smith’s [[mixteca-puebla-style]] entry for the
+artistic/codex dimension.
+
 **Colonial–modern:** Romero Frizzi (CHNPA II.2 Ch. 19) plus her own Mixteca Alta economy work
 and Pastor *Campesinos y reformas*; Spores continues as archaeological/ethnohistorical
 bridge. Thin colonial documentary base for Oaxaca relative to central Mexico.
@@ -181,8 +230,10 @@ bridge. Thin colonial documentary base for Oaxaca relative to central Mexico.
 ## Related
 
 [[zapotec]] · [[monte-alban]] · [[oaxaca-valley]] · [[mitla]] · [[aztec-empire]] ·
+[[mixteca-puebla-style]] · [[guerrero-region]] ·
 [[mesoamerican-state-formation]] · [[mesoamerican-writing-systems]] ·
 [[pre-columbian-american-population]] · [[oaxaca-indigenous-colonial-modern]] ·
 [[totonac]] ·
 [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 8 (Marcus & Flannery)]] ·
-[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2 Ch. 19 (Romero Frizzi)]]
+[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2 Ch. 19 (Romero Frizzi)]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

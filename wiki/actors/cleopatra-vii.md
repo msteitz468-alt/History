@@ -10,7 +10,7 @@ affiliated_with: ["Ptolemaic dynasty", "Julius Caesar", "Mark Antony"]
 opposed_by: ["Ptolemy XIII", "Octavian/Augustus", "Roman Senate propagandists"]
 key_events: ["Exile in Syria and return with mercenaries 48 BCE", "Secret arrival in sack to meet Caesar in Alexandria 48 BCE", "Birth of Caesarion 47 BCE", "Sojourn in Rome 46–44 BCE", "Meeting with Antony at Tarsus 41 BCE", "Donations of Alexandria 34 BCE", "Battle of Actium 31 BCE", "Suicide 30 BCE"]
 key_processes: ["Ptolemaic dynastic politics and sibling rivalry", "Hellenistic monarchy in the face of Roman expansion", "Use of spectacle, cult, and personal diplomacy by female rulers", "Roman construction of the 'Eastern threat' and female power as moral danger", "Transition from Hellenistic to Roman world order"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, north-africa, mediterranean, ptolemaic, cleopatra-vii, julius-caesar, mark-antony, alexandria, actium]
 ---
@@ -59,4 +59,10 @@ that the "oriental" luxury and decadence attributed to Cleopatra's court in the
 Augustan record was "wildly exaggerated," part of the same propaganda
 campaign. See [[sources/beard-spqr-2015]].
 
-**Related:** [[hubs/biographies/classical-antiquity/cleopatra-vii]] (detailed) · [[actors/julius-caesar]] · [[actors/mark-antony]] · [[places/alexandria]] · [[periods/classical-antiquity]] · [[sources/schiff-cleopatra-a-life-2010]] · [[sources/beard-spqr-2015]]
+## OHCW (Stockton; Matthews)
+
+**Stockton** (Ch. 22): Antony’s eastern dependence deepened — Octavia sent home (37); twins acknowledged; autumn 34 proclaimed Caesarion “King of Kings” and parcelled the East, giving Octavian propaganda that Antony was a renegade Roman creature of an “Egyptian she-devil.” Actium (Sept. 31) and suicides in Egypt (summer 30) end two decades of civil war and the last major Hellenistic kingdom.
+
+**Matthews** (Ch. 31): Eusebius later framed *pax Augusta* providentially — Roman power peaked “at the time when Augustus first acquired power over all nations, defeating Cleopatra.”
+
+**Related:** [[hubs/biographies/classical-antiquity/cleopatra-vii]] (detailed) · [[actors/julius-caesar]] · [[actors/mark-antony]] · [[places/alexandria]] · [[periods/classical-antiquity]] · [[sources/schiff-cleopatra-a-life-2010]] · [[sources/beard-spqr-2015]] · [[boardman-oxford-history-classical-world-1986]] (Stockton Ch. 22; Matthews Ch. 31)

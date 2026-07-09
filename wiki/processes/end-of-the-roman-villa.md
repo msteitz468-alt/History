@@ -8,7 +8,7 @@ region: [western-europe, mediterranean]
 process_type: economic
 driven_by: [merovingian-episcopate]
 produces: [merovingian-rural-settlement]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [process, late-antiquity, early-middle-ages, western-europe]
 ---
@@ -114,4 +114,10 @@ remaining less formal/stable than eastern or non-Roman northern communities ([[m
 - [[merovingian-rural-settlement]] · [[merovingian-economy]] · [[merovingian-episcopate]] · [[merovingian-monasticism]] · [[roman-gaul]] · [[ethnogenesis]]
 - [[settlement-archaeology]] · [[peasant-mode-of-production]] · [[post-roman-transformation-of-the-west]]
 - [[provence]] · [[aquitaine]] · [[late-antiquity]] · [[early-middle-ages]]
-- Sources: [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] (Chavarría Arnau, Ch. 29); [[wickham-framing-the-early-middle-ages-2005]]
+- Sources: [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] (Chavarría Arnau, Ch. 29); [[wickham-framing-the-early-middle-ages-2005]] · [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Italian rural settlement thinned and impoverished third–seventh centuries; several central Italian surveys show occupied sites around **500** only ~**20%** of first-century figures, small sites nearly vanishing; by seventh century northern coin scarcity implies large market-economy collapse. **Southern Italy** (Apulia, Basilicata, Lucania) held up because Rome’s shrinking supply horizon after Egyptian diversion and Vandal Africa loss concentrated demand on Italian staples — especially pig-rearing for the pork ration and southern wine (Keay LII amphoras late 4th–late 5th c. at Rome, Marseilles, etc.). Serious villa downturn after first quarter of the **sixth century** from climate disasters, Rome’s declining market, Gothic wars, and plague. “A serious down-turn in the villa economies only seems to set in after the first quarter of the sixth century.” `part_of:` [[post-roman-transformation-of-the-west]]; `concurrent_with:` [[roman-agrarian-economy]], [[gothic-war-535-554]], [[justinianic-plague-541]].
+
+Source: [[mitchell-later-roman-empire-2015]]

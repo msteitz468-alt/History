@@ -9,7 +9,7 @@ affiliated_with: [the Constantinian dynasty, Neoplatonism, the restored polythei
 opposed_by: [Constantius II (initially), the Christian church, the Sassanid Empire]
 key_events: [the battle of Strasbourg (357), the proclamation at Paris (360), the Persian expedition and his death (363)]
 key_processes: [the failed pagan restoration, the late-antique attrition of polytheism]
-sources_ingested: 2
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, mediterranean-world]
 ---
@@ -95,3 +95,30 @@ marks a stage in Ball's "long retreat" of Rome from the East.
 - `produced:` the disastrous Persian expedition against the [[sasanian-empire|Sassanids]] and Jovian's
   surrender of Nisibis
 - Sources: [[cameron-cah-v13-1998]] (Ch. 2, David Hunt); [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]]
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+[[actors/gibbon-edward|Gibbon]]’s Julian is the great set-piece of the later volumes: philosopher-emperor, failed restorer of polytheism, and tragic Persian casualty. All claims **attributed to Gibbon**.
+
+- **Sole survivors with Gallus** of the Flavian massacre of 337: “Gallus and Julian alone, the two youngest children of Julius Constantius, were saved from the hands of the assassins.”
+- **Elevation amid “tyranny of eunuchs and bishops”:** while Romans languished under that court, “the praises of Julian were repeated with transport”; Constantius’s ministers tried to “disarm the Cæsar” by stripping Gallic veterans for Persia.
+- **Paris acclamation:** midnight “Julian Augustus”; resistance until forced — “if he wished to live, he must consent to reign”; Gibbon doubts pure innocence (Genius dream, ambition).
+- **Danube celerity then bloodless succession:** three-column march; ~700 miles by river in eleven days; Constantius’s death at Mopsucrene delivered the empire without civil war; Gibbon dismisses Constantius as inheriting Constantine’s defects without his abilities.
+- **Portrait:** after ~120 years from Alexander Severus, Romans beheld an emperor who fused duty and pleasure; even faction confessed “the apostate Julian was a lover of his country, and that he deserved the empire of the world.”
+- **Court purge and anti-Dominus republicanism:** reduced Constantinople’s palace “to an immense desert”; “sincerely abhorred the system of Oriental despotism, which Diocletian, Constantine, and the patient habits of fourscore years, had established.”
+- **Apostasy psychology:** “The names of Christ and of Constantius, the ideas of slavery and of religion, were soon associated in a youthful imagination”; Platonic natural religion corrupted by solar theurgy — “enlightened understanding… betrayed and corrupted by… superstitious prejudice.”
+- **Toleration as division-weapon:** free cult + recall of banished bishops of all sects; “the insidious design of undermining the foundations of Christianity” tied to professed zeal (Ammianus).
+- **Why pagan restoration failed:** “genius and power… unequal to the enterprise of restoring a religion which was destitute of theological principles” (and moral/clerical discipline); education ban to produce “blind and ignorant fanatics.”
+- **Jerusalem Temple rebuild** failed amid Ammianus’s “horrible balls of fire” (Gibbon invites doubt of miracle embroidery); extinguishing Christianity would have meant civil war.
+- **Tigris fleet burned** (~1,100 vessels): “only the alternative of death or conquest”; deathbed — “I die without remorse, as I have lived without guilt”; failure to name a successor, Gibbon claims, helped both Christian triumph and imperial calamity.
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[concepts/gibbonian-decline-thesis]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Attributed claims from [[sources/mitchell-later-roman-empire-2015|Stephen Mitchell, *A History of the Later Roman Empire* (2015)]].
+
+- **Paris elevation (360): modern doubt of pure spontaneity.** When Constantius ordered detachments of Julian’s best Rhine troops east, the Paris army proclaimed him Augustus. Ammianus leaves responsibility ambiguous; Eunapius (via Ammianus/Zosimus) was clear that Julian orchestrated the usurpation. “Modern commentators are disinclined to give Julian the benefit of the doubt.”
+- **Gallic tax relief vs Florentius.** Julian clashed with praetorian prefect Florentius over hard extraction of tax and supplies; he sought provincial well-being (perhaps also future civil-war support). Ammianus: tribute fell from twenty-five gold pieces per head on arrival to seven on departure — “like sunshine after dark clouds.”
+- **Eighteen-month religious confrontation.** Between Licinius’s defeat (324) and Julian’s sole power (Dec 361) legislation favored the church but few active anti-pagan measures stuck. As sole emperor Julian withdrew Christian tax/grain privileges, restored curial duties, removed episcopal judicial power, recalled exiled Christians to rekindle strife (Ammianus 22.5.3–4), and issued the teaching edict making Christians unfit as grammar/philosophy/rhetoric teachers — Augustine later saw as clear intolerance (*City of God* 18.52). Inscriptions hail him *restitutor libertatis et Romanae religionis*. “For an eighteen-month period the politics of religious confrontation were revived.” Reign too brief for lasting effect; Jovian/Valentinian/Valens returned to toleration. Related: [[late-polytheism|late polytheism]].
+- **Idiosyncratic pagan conversion and “church-like” restoration.** After the 337 massacre, Christian tutors then Libanius/Neoplatonists; captivated by Maximus of Ephesus’s theurgy — the conversion moment. Beliefs fused Greek *paideia*, theurgy, animal sacrifice, Helios-Mithras solar monotheism, and ascetic piety modeled on Christian forms, isolating him even among pagan intellectuals. Public policy mirrored Christianity: provincial high priests without persecution (martyrdom strengthens Christians); he diagnosed Christian success as charity, care for the dead, and dignified care of the poor — and tried to match them. Ammianus: “Experience had taught him that no wild beasts are such dangerous enemies to man as Christians are to one another.” Mitchell’s verdict: eccentric emperor with little popular support fighting a losing battle.

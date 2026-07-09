@@ -13,8 +13,8 @@ events_here:
 processes_here:
   - "[[teotihuacan-formation]]"
   - "[[mesoamerican-state-formation]]"
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, mesoamerica, late-antiquity, classical-antiquity]
 ---
 
@@ -68,6 +68,23 @@ The first large-scale project after Gamio and Marquina (1917–1922) was directe
 
 Armillas (1964) first proposed the Ciudadela as the seat of Teotihuacan rulers; Millon (1973) and Cowgill (1983) agreed. Sugiyama (2005) has argued against this interpretation, proposing instead a primarily religious function dedicated to divine (not ruler) commemoration. The question remains unresolved. The later desecration of the FSP — probably deliberately stripped of its superstructure and associated with a political transition — is interpreted by Cowgill (1983, 2007) as evidence of regime change, possibly from more autocratic rule toward oligarchic governance centered on the Avenue of the Dead Complex.
 
+## Evans & Webster 2001 (Townsend; Taube)
+
+**Richard F. Townsend** (Teotihuacán: Sacred Landscape) places the Ciudadela among the last
+great public constructions ~A.D. 250. The Temple of the Feathered Serpent carries undulating
+feathered serpent plus headdress mask (royal-office sign). Although designated a temple,
+“the building is unlikely to have been a place of cult activity; rather, it appears to have
+been the seat of Teotihuacán’s **theocratic rulership**.” ~**200** sacrificed victims, mostly
+in military attire, under platform foundations. A large marketplace opposite west joins market
+and government in the middle of an urban-agricultural continuum; the whole layout is a
+cosmogram integrating topography and celestial points. **Karl Taube** (Religion and Deities)
+confirms mass dedicatory graves estimated at more than 200 adults ~A.D. 200, majority dressed
+as warriors with shell collars imitating human teeth/jaws (possible coup markers). See
+[[teotihuacan-human-sacrifice-fsp]] and [[teotihuacan-political-organization]] — Townsend’s
+“theocratic seat” is one pole of the rulership debate, not a wiki adjudication.
+
+Source: [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]].
+
 ## Related
 
 - `part_of: [[teotihuacan]]`
@@ -77,4 +94,4 @@ Armillas (1964) first proposed the Ciudadela as the seat of Teotihuacan rulers; 
 - `concurrent_with: [[sun-pyramid]]`
 - `contains: [[talud-tablero]]`
 - `analogous_to: [[basin-of-mexico]]` (as seat of regional state administration)
-- `[[cowgill-ancient-teotihuacan-2015]]`
+- `[[cowgill-ancient-teotihuacan-2015]]` · `[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]`

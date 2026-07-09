@@ -9,8 +9,8 @@ affiliated_with: [the Ayacucho basin of the central Peruvian highlands, the Midd
 opposed_by: []
 key_events: [the rise of the Wari capital near Ayacucho, the spread of Wari administrative centers, the Middle Horizon expansion]
 key_processes: [[[andean-state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, empire, late-antiquity, early-middle-ages, andes]
 ---
 
@@ -48,6 +48,16 @@ economic network remains contested. Lumbreras (a foundational figure in Peruvian
 emphasizes its statecraft and urbanism; other scholars stress the autonomy of the regions it
 touched. The Wari–Tiwanaku relationship — rivals, partners, or independent expressions of a
 shared cult — is unresolved.
+
+## Fagan & Durrani (2020): storehouses and roads as Inca precedent
+
+Fagan and Durrani's *World Prehistory* (10th ed., 2020) dates Wari to the Ayacucho Valley, c.
+600–900 CE, sharing a Viracocha-like deity with Tiwanaku, and reaching domains from Lambayeque
+on the north coast to south of Cuzco by 800 CE. They note that Wari likely maintained
+**storehouses and roads** — a probable precedent for later Inca state infrastructure — and
+that both Tiwanaku and Wari marked "a turning point" in Andean history: small regional states
+integrating into larger political units, a template for the Inca-scale unification that
+followed.
 
 ## Related
 

@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: regional
 causes: [Aghlabid expansionism, the wealth and proximity of Byzantine Sicily, an invitation from a rebel Byzantine commander, the disorder of Byzantine and Lombard southern Italy]
 consequences: [the establishment of Muslim Sicily (until the Norman conquest), Muslim raiding bases in southern Italy (Bari), the sack of Rome's basilicas (846)]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, early-middle-ages, mediterranean]
 ---
 
@@ -54,3 +54,5 @@ NCMH II (Kennedy, Ch. 10) notes that Muslim Sicily, unlike Muslim Spain, has lef
 internal social and administrative life; the conquest narrative survives in both Arabic and Greek texts
 covering 827–965 but is dominated by military events and the chronic internal conflict between the
 Aghlabids of Qayrawan and the Sicilian Muslim factions.
+
+[[cobb-race-for-paradise-2014|Cobb, *The Race for Paradise* (2014)]] stresses **process length over a single start year**: Muslim raids began early, but “the island was not fully conquered until the middle of the ninth century by the ʿAbbasid governors of Tunisia.” When the Fatimids conquered Tunisia in the early tenth century, Sicily was already “a virtual dependency of the province” and passed to Fatimid claim—aligning with this page’s **827–902** span as the conventional start-to-completion window, while underlining that full control was a mid-century achievement under Tunisian ʿAbbasid governors rather than the 827 landing alone. See also [[sicily]] for the later Kalbid autonomy, Fatimid fragmentation, and Norman conquest that ended Muslim rule.

@@ -17,7 +17,7 @@ produces:
   - Absorption of Italian manpower into Roman military machine
   - Hellenization of Rome through contact with Greek south
   - Growth of slavery as an institution
-sources_ingested: 3
+sources_ingested: 8
 last_updated: 2026-07-08
 tags: [process, classical-antiquity, mediterranean, western-europe, rome]
 ---
@@ -142,12 +142,12 @@ distribution that periodically defused domestic political tension; the Samnite W
 demands made patricians dependent on plebeian military cooperation, facilitating
 constitutional settlements.
 
-`enabled: [[roman-slavery]]` — Mass enslavement of war captives (see Table 8 in
+`enabled: [[slavery]]` — Mass enslavement of war captives (see Table 8 in
 CAH VII.2: over 66,000 slaves taken in the Third Samnite War alone) provided the
 labor force that replaced debt-bondsmen and eventually sustained the slave plantation
 economy of the second century.
 
-`produced: [[roman-colonization]]` — The Latin colony system (19 colonies 334–263
+`produced: Roman colonization` — The Latin colony system (19 colonies 334–263
 BCE, involving over 70,000 adult male settlers) was the most powerful tool of
 territorial consolidation, creating self-sustaining Romanized communities at strategic
 nodes throughout the peninsula.
@@ -204,6 +204,26 @@ Key interpretive points:
   293–218 BCE (Livy's books lost, only epitomes); the triumphal *fasti* provide a
   reliable if skeletal record of the major military events
 
+### CHGRW (Billows, Serrati)
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|Billows (CHGRW I.10)]]:
+between the 340s and 270s Rome bound peninsular Italy south of the Po in **bilateral,
+unequal hegemonial alliances**; Gruen exploded the modern *foedus aequum* / *foedus
+iniquum* distinction as unsupported fabrication; military effect summed in the *formula
+togatorum* (roster of Italian manpower and treaty obligations). Serrati (I.14): between
+Second Samnite War start (327) and First Punic War end (241) — 86 years — Rome mustered
+for war in all but five years (~94%); 74 triumphs in 81 combat years (~91% of years with a
+triumph). Mid-Republican “Roman” army was an **Italian-confederacy force**: subdued states
+as *socii* retained local government; main obligation was troops; Rome almost exclusively
+called out and led the collective army; colonies secured territory and added manpower.
+Struggle of the orders and Second Samnite War (327–304) interacted: expanding war forced
+reliance on wealthy plebeians; first regular plebeian triumphs in the war’s final years;
+victory virtually sealed Italy’s fate and war itself produced social harmony that continued
+conquest then maintained. Italian allies were taxed in **men not money/kind** — indirect war
+finance reducing Rome’s costs; many allies served willingly for plunder share. After 146,
+less profitable wars (Spain, Sicilian slave wars) plus increased allied burden without
+matching benefits fueled recruitment failure and the Social War path.
+
 ### Beard (SPQR, 2015)
 
 Mary Beard ([[sources/beard-spqr-2015]]) sharpens Cornell's "not strategically
@@ -222,6 +242,26 @@ regional norm — but that Rome alone institutionalized the conversion of defeat
 enemies into military assets "in a way that no other ancient city had ever
 systematically done."
 
+## OHCW (Boardman/Griffin/Murray 1986) — Crawford
+
+Michael Crawford (*Oxford History of the Classical World*, Ch. 16) frames Italian
+conquest as the creation of a **manpower pool** later used against Pyrrhus, Carthage,
+and the Mediterranean: Rome forced Italy’s peoples to fight for her when required,
+rather than extracting tribute as most ancient empires did. Campania’s fourth-century
+incorporation was “probably the most important formative experience in the history of
+the republic.” The **settlement of 338** dissolved any separate Latin destiny; Rome
+kept founding **Latin-status colonies** (first after 338: Cales, 334) with Roman-model
+constitutions and land-endowed elites — engines of Romanization. Whole communities
+received **citizenship without the vote** (notably Capua and Arpinum). From the late
+fourth century conquered land was measured by ***centuriatio*** (grids of c.20×20
+*actus*), still visible in many landscapes. Heavy-armed free peasantry on both sides
+implies free peasants among Samnites and Etruscans despite literary stress on serfs.
+After Sentinum (295) and Pyrrhus, the Italian model was **not** applied to Sicily and
+Sardinia (ruled and taxed instead). Post-201, the Po valley became a *tabula rasa* of
+centuriation from Placentia to Aquileia — energy “undiminished” by the Hannibalic War.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Ch. 16, Crawford).
+
 ## Related
 
 - Event: [[foedus-cassianum-493bce]] · [[capture-of-veii-396bce]] ·
@@ -230,8 +270,35 @@ systematically done."
   [[caudine-forks-321bce]]
 - Actor: [[roman-republic]] · [[samnites]] · [[latin-league]] · [[volsci]] ·
   [[m-furius-camillus]] · [[appius-claudius-caecus]]
-- Process: [[struggle-of-the-orders]] · [[roman-slavery]] · [[roman-colonization]]
+- Process: [[struggle-of-the-orders]] · [[slavery]] · Roman colonization
 - Controversy: [[reliability-of-early-roman-tradition]] ·
   [[nature-of-roman-imperialism]]
 - Sources: [[walbank-cah-v7-2-1989]] (Ch. 8, Cornell) · [[astin-cah-v8-1989]]
-  (Ch. 5, Harris — Cisalpine Gaul & Liguria)
+  (Ch. 5, Harris — Cisalpine Gaul & Liguria) ·
+  [[boardman-oxford-history-classical-world-1986]] (Ch. 16, Crawford) ·
+  [[harris-roman-power-2016]] · [[flower-roman-republics-2010]] ·
+  [[roman-republics-periodization]] · [[social-war-91-88bce]] ·
+  [[romanization-of-italy]]
+
+## Flower, *Roman Republics* (2010)
+
+Flower ties the first *nobiles* republic (emerging late fourth century) to Rome’s gain of preeminence in Italy and to continual warfare that defined elite values by war achievement and personal merit. Colonization (citizen or Latin rights) had been integral for defense, intelligence, and outlets for the poor since the later fourth century — and helped spread Roman culture — until the **stop after 177** broke a successful *nobiles* custom of 150+ years. Under senatorial guidance in the third–second centuries Romans withstood Carthage, kept many Italians loyal, and expanded into the eastern Mediterranean.
+
+The reverse of that Italian hegemony is, for her, the political climax of the early first century: **losing control of Italy** was the ultimate failure of Rome’s political system, because Italian manpower had underwritten overseas hegemony. The [[social-war-91-88bce|Social War]] and the subsequent franchise settlement destroyed the last *nobiles* republic (her Republic 5): mass citizenship offers redefined “Rome” and transformed city politics — assemblies undermined by huge potential voter numbers who would rarely travel to Rome; the dispute of 88 centered on **composition of voting units**, not ethnicity alone. Source: [[flower-roman-republics-2010]].
+
+## Harris, *Roman Power* (2016)
+
+Harris’s Ch. 2–8 synthesis: what distinguished a nascent imperial state was not only winning battles but **propensity for enduring control**—territory under Roman control expanded ~3,000% between 400 and 280 BCE (Arno to heel and toe). Outline: Veii ~393 → Latins to 338 → peninsula to Arno 327–272 (Sentinum 295 tipping; Tarentum 272). Organizational techniques (Mann): land confiscation; citizen and Latin colonies (5–6 citizen + ~19 Latin 338–263; ~35 more by end of second century); citizenship extension; bilateral perpetual treaties with land expropriation and virtual conscription (not tax early); religious disruption; criminal jurisdiction (Polybius 6.13.4); language marginalization; Roman-style colonies retained tight state control unlike Greek/Phoenician; roads (Via Appia 312) as control infrastructure and power symbol; allied:citizen troops often >1:1 in the second century.
+
+Why Italian military success pre-241: seldom technological advantage; logistics; manpower; **most of all single-minded elite and popular devotion to warfare**. Middle Republic rise factors: geographical location; demographic success via enslaving defeated enemies and incorporating manumitted slaves; exceptional skill exploiting manpower of Latins then other Italians by the 270s; social discipline sustaining aristocratic competition without letting it get out of hand; no sign ordinary Romans were reluctant to serve. Almost failed: Hannibal came close; Social War 91–90—but enough allies remained favourable or disinclined to rebel that Rome prevailed. Source: [[harris-roman-power-2016]].
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- **Arc.** By start of third century BCE Rome’s influence extended throughout the peninsula (colonies, roads); by end of that century, after two Punic wars, Romans stood at Mediterranean centre.
+- **Growth at the margins.** Latial poverty then takeoff via Tiber ecological/cultural intersections—“growth at the margins” of Etruscan peer-polity competition, analogous to Macedon, Persia, Qin: “Rome’s rise was due in part to the fact that it was not central to developments in Etruria.”
+- **Institutional advantage.** Comparative advantage “must have been institutional”—location not unique, hinterland unimpressive vs Etruria/Campania, no tech edge, not plausibly “more militaristic than their opponents.” Short wars for booty/prisoners/prestige were the regional norm.
+- **Federation mechanics.** From fourth century: Latins with reciprocal rights; *socii* bound by permanent unequal treaties after victory; troop levies not regular taxes; colonies and public-land settlers; bilateral alliance network. “Rome exacted no regular taxes, nor any tribute in kind from its allies.”
+- **Elite class solidarity.** Allied detachments under local propertied leaders; Rome sided with aristocrats—“Roman hegemony … always stressed class solidarity among the elites. The seeds of an aristocratic empire had been sown.”
+- **Pyrrhus / continuous western expansion.** Pyrrhic War “put Rome on the Greek map”; secure chronology from third century via Timaeus. After Hannibal: resumed Gallic/Italian expansion, colonies on via Aemilia, Spanish provinces by 197; “geared up to more or less continuous expansion.”

@@ -7,8 +7,8 @@ period: [Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern]
 region: [near-east, iran-plateau, central-asia, south-asia, north-africa, southeast-asia]
 driven_by: [the search for inward religious experience, the [[early-sufism|early ascetic tradition]], the institutionalization of the [[tariqa-orders|tariqa orders]]]
 produces: [the tariqa brotherhoods, popular devotional Islam, much of Persian and Arabic mystical poetry, a chief vehicle for the [[expansion-of-islam-middle-period|spread of Islam]]]
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, high-middle-ages, late-middle-ages, near-east, iran-plateau]
 ---
 
@@ -25,5 +25,18 @@ organized devotional orders that gave Islamicate society a religious structure i
 As caliphal authority dissolved, the Sufi orders and the [[ulama|'ulama]] became the connective tissue
 of an international civilization, and Sufism became the principal vehicle by which Islam spread to India,
 Anatolia, Southeast Asia, and sub-Saharan Africa.
+
+Chiara Formichi ([[formichi-islam-and-asia-2020]]) traces one order's trans-Asian reach in detail:
+the **Naqshbandiyya**, founded by Baha ud-Din Naqshband (1318–1389) of Bukhara and grounded
+explicitly in shari'a compliance, spread from Central Asia through the Ottoman lands, South Asia
+(Baqi Billah's Delhi khanaqa, Ahmad Sirhindi's reformist Mujaddidi branch), and — via Khoja Afaq of
+Kashgar and later Ma Laichi/Ma Mingxin in Gansu — into Qing China (see [[islam-in-china]]). A
+Medina-based node of the network, **Ahmad al-Qushashi** and his student **Ibrahim al-Kurani**,
+harmonized Naqshbandi mysticism with hadith scholarship and trained the Southeast Asian returnees
+Abdu Ra'uf al-Sinkili and Yusuf Makassari, carrying the order into [[islamization-of-southeast-asia|maritime
+Southeast Asia]]. Formichi's account underlines that the Sufi orders functioned as genuinely
+**multidirectional** networks — Mecca and Medina (al-Haramayn) as meeting points, not simply a
+one-way diffusion outward from Arabia — reshaping orthodoxy at the "center" as much as the
+periphery.
 
 > Scaffold page for [[hodgson-venture-of-islam-v2-1974|Venture of Islam, Vol. 2]] ingest.

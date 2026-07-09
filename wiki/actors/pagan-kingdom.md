@@ -9,8 +9,8 @@ affiliated_with: ["Theravada Buddhism (the Pali canon, Sri Lankan ordination)", 
 opposed_by: ["the Mon kingdom of Thaton (conquered 1057)", "the Mongols (expeditions 1283–1301)", "Tai/Shan incomers"]
 key_events: ["Anawrahta's conquest of Thaton (1057)", "Narapatisithu's monastic reform (late 12th c.)", "the Mongol expeditions and collapse (1280s–1300s)"]
 key_processes: ["[[indianization-of-southeast-asia]]", "[[buddhism|Theravada Buddhism]]"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, state, southeast-asia, burma, early-middle-ages, high-middle-ages]
 ---
 
@@ -65,7 +65,17 @@ later Burman attempt to **appropriate** Pagan helped alienate the Mons and lose 
 problems — **land-control** and **ethnic conflict** — frame the analysis of its fall, a counterpoint to
 the [[devaraja|devaraja]]-centred collapse debate at Angkor.
 
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+**Comparison and origins.** Bagan (authors prefer the modern toponym) resembled [[angkor]] in implementing a **command economy**, lacking coinage, and spending vast resources on monuments—despite different ecology and choosing Buddhism rather than the devarāja temple-mountain cult. Ruling elite were Burmese speakers: one view holds they entered the plains after Nanzhao attacks of the 830s–840s; an alternative holds Burmese speakers already lived with “[[pyu-city-states|Pyu]]” populations (possibly in 19 founding villages as Bagan predecessors). Few differences between early Burman and Pyu architecture, iconography, and script; Bagan may overlie a Pyu settlement, but **no Pyu objects** (silver coins, burial urns) are known in the Bagan archaeological zone (Nga Kywe Nadaung proposed as late Pyu on style alone). Chronicle foundation c. 849 by King Pinbya is **not confirmed** by other evidence; wall ¹⁴C dates range second half of 10th through 15th c., partially supporting a mid-10th-c. mandala-center date.
+
+**Golden age and Buddhist oecumene.** Golden age from the 11th c. as a religious hub for monks and pilgrims. **Anawrahta** (r. 1044–77) anchors the “Buddhist oecumene” concept: helped Vijayabāhu resist the Cholas; sent *bhikkhus* to Sri Lanka. Sinhalese monarchy thrice requested Myanmar help to save the ordination lineage (1065, 1475, 1801). **Kyanzittha** (1084–1113) sent a mission to repair Mahābodhi at Bodhgayā (Myanmar inscriptions found by Cunningham). Architecture: brick except Nan Hpaya (sandstone); two main types—*zedi* (solid stupas) and temples (*gu* “cave” / *pahto*). Traditional four architectural periods (Pyu-derived → Mon after Thaton 1057 → Kyanzittha including Ananda/Abeyadana → Myanmar/Sinhalese transitional to 14th-c. demise). Dhammayazika (1196) among 17 pentagonal temples (four Buddhas before the present age). ~450–500 temples retain painted murals (early decorative → later narrative Jātakas). Inscriptions list highly specialized occupations donated to monasteries (musicians 1190; sculptors/painters/masons 1242)—complex redistributive/orthogenetic economy with elite craft control. Closer to orthogenetic than heterogenetic urban model (unverified until more habitation research). Song/Yuan porcelain yields 11th–14th-c. range.
+
+**Collapse and fragmentation.** Declined soon after Mongol invasions **1277–1301**; whether Mongols reached Bagan is debated, but invasion was probably a **catalyst**; structural Achilles’ heel was kingship–*saṅgha* resource competition (aligns with Taylor’s land-to-the-sangha thesis). Late 13th c.: power transferred from King Kyawswa to three minister-brothers (Athinkaya, Yazathingyan, Thihathuya), who claimed defense vs Mongols (1292 inscription); they captured the king 1298; death 1300 per *Mahayazawingyi*. Myinsaing period 1298–1312; so-called “**Shan interregnum**”—Aung-Thwin argues Phayre misread the brothers as Shan. Of 251 inscriptions 1299–1368, only **24 at Bagan** vs 112 Sagaing, 46 Myinsaing, 34 Pinya—Bagan ceased as primary political/religious center. Pinya 1312 (Kyaukse rice); Sagaing controlled Mu/Ayeyarwady irrigated lands; both fell to Shans late 1350s–early 1360s; **Inwa (Ava)** founded 1364; Thadominbya conquered Bagan **1367**, formally ending the Bagan dynasty; Bago founded 1385 as Ava’s rival. Lower Myanmar: Muttama/Martaban and Bago rebelled during Mongol 1270s; Wagaru/Wareru (1287–1296) linked by marriage to [[sukhothai]]/Chiang Mai. Four Late Classic geospatial regions/mandalas: upper Myanmar (brothers), lower coastal, Shan zone, western Rakhine—accordion-like competition typical of mandala systems. Postclassic: Bagan among ancient mandalas that faded as [[ayutthaya]] and Bago rose.
+
+*Source: John N. Miksic & Goh Geok Yian, *Ancient Southeast Asia* (Routledge, 2017); [[pyu-city-states]]; [[seasian-classic-periodization]].*
+
 ## Related
 
-[[khmer-empire]] · [[buddhism]] · [[indianization-of-southeast-asia]] · [[ayutthaya]] · [[southeast-asia]] ·
-[[devaraja]] · [[tarling-cambridge-history-southeast-asia-v1-1992]]
+[[khmer-empire]] · [[angkor]] · [[pyu-city-states]] · [[sukhothai]] · [[buddhism]] · [[indianization-of-southeast-asia]] · [[ayutthaya]] · [[southeast-asia]] ·
+[[devaraja]] · [[tarling-cambridge-history-southeast-asia-v1-1992]] · [[miksic-goh-ancient-southeast-asia-2017]]

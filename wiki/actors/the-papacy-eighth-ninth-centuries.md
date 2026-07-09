@@ -9,8 +9,8 @@ affiliated_with: [the Latin Church, the Frankish kings and emperors, the Roman n
 opposed_by: [the Lombard kings, Byzantine iconoclast emperors, Roman factional rivals]
 key_events: [the fall of Ravenna (751), the Franco-papal alliance (754), the Donation of Pippin (756), the Carolingian territorial settlements (774–787), the imperial coronation of 800]
 key_processes: [the formation of the papal state ("Republic of St Peter"), the divergence of Latin and Greek Christendom]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, institution, early-middle-ages, mediterranean]
 ---
 
@@ -72,3 +72,7 @@ NCMH II (Noble) draws on the *Liber Pontificalis*, papal letters (the *Codex Car
 sources. Noble's own *The Republic of St Peter* (1984) is the standard account of the papal state's
 formation. Debates concern the authenticity and intent of the territorial "donations," the degree of papal
 versus Frankish initiative, and the dating and purpose of the great forgeries.
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Logan’s arc for this period: [[gregory-i]]’s exigency-driven secular rule; English missions under papal authority ([[willibrord]], [[boniface]]) activating primacy; [[franco-papal-alliance]] from 739 false start through [[pepin-iii|Pepin]]’s 751–56 settlement and [[charlemagne]]’s 800 coronation; [[donation-of-constantine]] (Lateran forgery, early 770s) as later temporal ideology; [[pope-nicholas-i|Nicholas I]] (858–67) as last large-stage strong pope for 150+ years; then post-840 atomization → local/passive papacy, [[formosus]] and the Cadaver Synod, Theophylact/Tusculan capture ([[john-xii]], [[benedict-ix]]), absolute nadir until mid-eleventh-century reform after Sutri (1046).

@@ -1,7 +1,7 @@
 ---
 title: "Southeast Asia — Regional Hub"
 hub_type: region
-last_updated: 2026-06-22
+last_updated: 2026-07-08
 tags: [hub, region, southeast-asia]
 ---
 
@@ -33,6 +33,13 @@ The colonial era and the Cold War, culminating in the [[vietnam-war|Vietnam War]
 ## Debates (→ [[hubs/historiography-hub|Historiography Hub]])
 - [[austronesian-dispersal|The Austronesian dispersal]] · the depth and nature of
   [[indianization-of-southeast-asia|Indianization]].
+- [[mandala]] vs territorial state · [[devaraja]] meaning · appropriation vs diffusion in
+  [[indianization-of-southeast-asia|Indianization]] and [[islamization-of-southeast-asia|Islamization]]
+  ([[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh 2017]]).
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+[[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] periodize Classic Seasia and frame the **Late Classic (c. 1200–1400)** as urban/maritime growth amid Classic cultural disintegration: Chinese colonial formation then Ming restriction; Islamization processes; Thai *muang* pluralism; Myanmar fragmentation; [[majapahit|Majapahit]] peak from Singhasari ruins; Malayu/Adityavarman highland Sumatra; Tran–Champa–Mongol wars; port network Barus–Aceh–Pasai–Brunei–Temasik–Sunda; shipwreck evidence of peddling trade. "As Classic Southeast Asian culture disintegrated, cities and maritime trade grew." Cross-links: [[southeast-asia]] · [[southeast-asia-as-region]] · [[southeast-asian-port-polity]] · [[southeast-asian-sea-cultures]] · [[indian-ocean-trade]] · [[austronesian-expansion]] · [[early-agriculture-southeast-asia-pacific]].
 
 ---
 

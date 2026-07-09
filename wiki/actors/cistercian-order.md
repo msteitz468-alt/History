@@ -9,8 +9,8 @@ affiliated_with: [[[medieval-monastic-revival]], "Benedictine monasticism", "the
 opposed_by: ["the wealth and liturgical elaboration of Cluny (in polemic)"]
 key_events: ["foundation of Cîteaux (1098)", "Bernard's entry and the foundation of Clairvaux (1115)"]
 key_processes: [[[medieval-monastic-revival]], [[gregorian-reform]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, organization, high-middle-ages, western-europe, mediterranean]
 ---
 
@@ -62,9 +62,22 @@ that influenced later orders and even secular corporations; were major economic
 innovators; and, through Bernard, exerted decisive influence on the papacy, the
 crusade, and the intellectual controversies of the age.
 
+## From Logan, *A History of the Church in the Middle Ages* (2013)
+
+[[logan-history-of-the-church-in-the-middle-ages-2013|Logan]]’s growth numbers: ~20 discontented Burgundian monks founded Cîteaux **1098**; **[[bernard-of-clairvaux|Bernard]]** arrived **1112** (~age 22) with relatives/friends; founded Clairvaux **1115**, abbot 38 years, **68 daughter houses**. Growth: **333 abbeys by 1152** (temporary halt), **525 by end of century** (Rievaulx, Fountains, Melrose, Alcobaça, etc.); at Ailred’s death (1167) Rievaulx had **140 choir monks and 500 lay brothers**.
+
+**Lay brothers (*conversi*):** unpaid, illiterate by statute, worked fields, prayed memorized texts in the nave — thousands from the peasantry until decline after the late thirteenth century and near-vanishing after the Black Death. White monks grew rich (Yorkshire sheep; Flemish Dunes farmland/shipping). Darker side: forced clearances — Fountains possibly **23** settlements depopulated; other Yorkshire houses ~**46**; Lorraine villages destroyed. Critics: “They raze villages, destroy churches, evict parishioners… make a solitude so that they may be solitaries.”
+
+**Cluniac–Cistercian controversy:** Bernard’s angry letter after a cousin left Clairvaux for Cluny; Peter the Venerable answered, calling Cistercian critics “a new race of pharisees” neglecting Benedictine humility. By century’s end, Logan judges, spiritual pride undercut the *Carta caritatis* ideal — the order “little different from the others in evident signs of holiness.” Nearly all new orders diverted from early intentions — “**saving always the [[carthusian-order|Carthusians]]**.” English Cistercian lands were later threatened by Henry II when Becket sheltered at **Pontigny** (see [[constitutions-of-clarendon-1164]]).
+
 ## Related
 
 - [[medieval-monastic-revival]] — the wider movement of new orders.
 - [[cluny]] — the older Benedictine model they reacted against.
+- [[bernard-of-clairvaux]] — explosive expansion and Clairvaux network.
+- [[carthusian-order]] · [[augustinian-canons]] · [[premonstratensian-order]] — peer twelfth-century foundations.
 - [[gregorian-reform]], [[papal-monarchy]] — the reform context and Bernard's papal thought.
-- [[crusades]] — Bernard's preaching of the Second Crusade.
+- [[crusades]] — Bernard's preaching of the Second Crusade; Templar support.
+- [[medieval-marian-devotion]] — every Cistercian house titled St Mary.
+- [[logan-history-of-the-church-in-the-middle-ages-2013]]
+

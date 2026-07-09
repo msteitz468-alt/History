@@ -9,8 +9,8 @@ affiliated_with: [the dynastic (blood) succession; the praetorian guard; the ple
 opposed_by: [the Senate; conspirators (the plot of 182); his own court (the assassination of 192)]
 key_events: [made co-Augustus by Marcus (177), sole accession (180), the conspiracy of 182, the ascendancies of Perennis and Cleander, his assassination (192)]
 key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]
 ---
 
@@ -67,3 +67,14 @@ of the "Five Good Emperors."
   [[marcomannic-wars-166-180|Danube wars]]
 - His murder opens the civil war of 193 and the Severan age (CAH XII)
 - Source: [[bowman-cah-v11-2000]] (Ch. 3)
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+[[actors/gibbon-edward|Gibbon]] opens the narrative of decline with Marcus’s hereditary choice and Commodus’s reign as the end of the Antonine golden age. **Gibbon’s views.**
+
+- **Marcus’s hereditary error:** mildness and fond partiality made him “sacrifice[] the happiness of millions to a fond partiality for a worthless boy” rather than choose a successor in the republic.
+- **Character:** “Nature had formed him of a weak rather than a wicked disposition” — unprovoked cruelties unexplained by ordinary civil-war motives (he had nothing to wish and everything to enjoy).
+- **Gladiatorial self-display:** ignorant of the distinction between professional fighters and imperial dignity, he exhibited himself before the Romans and “attained the summit of vice and infamy.”
+- **Christians under Commodus:** hardships under “virtuous” Marcus ceased; concubine Marcia patronized Christians — “as none except themselves had experienced the injustice of Marcus, so they alone were protected by the lenity of Commodus” (~thirteen years of relative safety).
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[concepts/gibbonian-decline-thesis]]

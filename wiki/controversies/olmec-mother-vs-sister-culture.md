@@ -3,7 +3,7 @@ title: Olmec Mother Culture vs Sister Culture Debate
 dispute_type: interpretation
 period_involved: [Archaic Period]
 regions_involved: [mesoamerica]
-positions: [mother-culture primacy of Gulf Olmec, sister-culture multi-regional interaction, intermediate/hybrid models]
+positions: [mother-culture primacy of Gulf Olmec, sister-culture multi-regional interaction, intermediate/hybrid models, catalyst-without-mother-label]
 resolution_status: open
 last_updated: 2026-07-08
 tags: [controversy, mesoamerica]
@@ -61,6 +61,46 @@ similarities. Display of "foreign" symbols enhanced local chiefly prestige. This
 elite alliance/symbol adoption — **not** blanket Olmec cultural domination of highland
 villages.
 
+### Grove 2001 encyclopedia positions (EW2001 “Olmec Culture”) — not adjudicated
+
+David C. Grove’s encyclopedia entry restates the two competing interpretations of Early
+Formative Olmec **interregional relationships** without choosing between them
+([[evans-webster-archaeology-ancient-mexico-central-america-2001|EW2001]]):
+
+1. **Mother-culture position** (standard for decades): Olmec were more advanced than
+   contemporaries; widespread Early Formative artifact/motif similarities result from Olmec
+   influence, which drove cultural development elsewhere; Olmec singularly laid the foundations
+   for later Mesoamerican civilizations. Quote: the Olmec are seen as the “mother culture” that
+   singularly laid the foundations for later Mesoamerican civilizations.
+2. **Sister-culture position** (equally prevalent as other regions become better known):
+   similarities are **not** due to Olmec influence; social complexity elsewhere evolved
+   independently of the Gulf Coast with ideologies not requiring monumental art; other regions
+   also contributed legacies as “sister cultures” with the Olmec.
+
+Grove notes both sides of the distant-monument debate (Chalcatzingo, Teopantecuanitlán;
+Pijijiapan, Abaj Takalik, Chalchuapa) still see **significant interaction**, perhaps for raw
+materials—shared factual ground without settling mother vs. sister framing.
+
+### Clark 2001 and Schortman & Urban 2001 (EW2001) — additional position statements
+
+**John E. Clark** (Formative Period — Early Olmecs): the Olmecs had an “indelible effect” on early
+Mesoamerica, but “the nature and means of their influence remain hotly contested issues”; many
+societies in early contact with Olmecs rapidly developed complex chiefdoms afterward, but the
+particular impact of interregional contact has not been determined. In Clark’s South Region
+synthesis, San Lorenzo’s scale (~690 ha; first city; possible state-level hierarchy) and La Venta’s
+far-reaching low-relief influence support strong Gulf agency readings without closing the means
+question (exchange, marriage alliances, conquest all remain open).
+
+**Edward Schortman and Patricia Urban** (Interregional Interactions): Olmecs of the Mexican Gulf
+Coast (**1500–500 B.C.**) were cast as the first inventive core under the “Mother Culture”
+hypothesis—Gulf elites precociously developed political hierarchy and religion diffused with
+ceramic/sculptural styles, imparting Mesoamerican unity. **Even when no longer labeled Mother
+Culture**, Olmecs are still widely treated as **catalysts** accelerating endogenous complexity and
+imparting commonality; similar core-centric logic applies to Teotihuacan models. Authors argue
+that a unilinear core-periphery legacy of diffusion/migration remains pervasive in interaction
+studies—a historiographical critique of the mother-culture *logic*, recorded here as a position
+about scholarly practice, not a wiki verdict on Formative causation.
+
 **Hammond (Maya lowlands):** Recent consideration of the Olmec phenomenon suggests it
 consists of a **set of regional traditions** sharing some common Mesoamerican ideas and
 images; Xe- and Mamom-sphere Maya fit into that cultural landscape. Swasey ceramics
@@ -103,6 +143,7 @@ precursor roles for Maya.)*
 
 ## Related
 
-[[olmec]] · [[san-lorenzo-olmec]] · [[mesoamerican-preclassic]] ·
+[[olmec]] · [[san-lorenzo-olmec]] · [[la-venta]] · [[gulf-lowlands]] · [[mesoamerican-preclassic]] ·
 [[mesoamerican-state-formation]] · [[zapotec]] · [[san-jose-mogote]] · [[maya-civilization]] ·
-[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]]
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001 (Grove; Clark; Schortman & Urban)]]

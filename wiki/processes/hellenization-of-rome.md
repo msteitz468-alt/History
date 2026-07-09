@@ -8,8 +8,8 @@ region: [italy, mediterranean-world]
 process_type: cultural
 driven_by: [the conquest of the Greek East, war booty and Greek slaves, the embassies and hostages at Rome, the competitive Roman aristocracy]
 produces: [Latin literature, Greek-influenced religion and art, the Hellenized villa economy, the cultural ambivalence of Roman elite identity]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, classical-antiquity, italy, greece]
 ---
 
@@ -92,10 +92,62 @@ Republic. CAH VIII captures its formative, ambivalent first phase. The Helleniza
 of Roman culture is the cultural counterpart of the political *symploke* — the fusion
 of the Greek and Roman worlds that the volume narrates.
 
+## OHCW (Boardman/Griffin/Murray 1986) — Crawford, Rawson, Brown
+
+Crawford (Ch. 16) dates the **rapid Hellenization of Rome** to the late fourth–early
+third centuries: Via Appia Rome–Capua (312, Ap. Claudius Caecus as censor) and first
+Roman silver coinage on Greek models; victory ideology after Alexander; Hercules cults;
+Genucilia and black-slip pottery; five-class census structure.
+
+Rawson (Ch. 17) stresses elite Hellenization as precondition for Greco-Roman elite
+co-operation: Roman superiority claimed in war/statecraft, Greeks typed as
+effeminate/loquacious; mid-third century new epoch (plays on Greek model; bilingual
+schooling); Syracuse sack 212 as Polybius’ start of taste for Greek art; stages of
+luxury/moral decline dated variously (Asia 190 booty; Pydna; Sulla’s Asian campaigns
+as Sallust’s turning-point); formal *paideia* challenged traditional apprenticeship;
+Carneades’ embassy 155; first century Latin refined and colonized prose genres.
+
+P. G. McC. Brown (Ch. 18) anchors the literary opening: **Livius Andronicus**’ play
+at Rome in 240 BCE as conventional start; **Plautus** (~20 comedies c.205–184) as
+earliest complete Latin works — creative adaptations of New Comedy (Bacchides papyrus
+shows cuts, reordering, added jokes, *cantica*, Roman institutions mixed into Greek
+settings); **Terence** (160s) more Menandrian, new elliptical style, school-text
+afterlife; **Ennius** (239–169) *Annals* introduce Greek hexameter into Latin epic and
+shape Lucretius and Virgil. Across Crawford–Rawson–Brown, OHCW pairs mid-Republican
+**arms** with deepening Greek **cultural** conquest of Rome.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Chs. 16–18).
+
+## Thonemann: Villa of the Papyri as Limit-Case (2016)
+
+[[thonemann-hellenistic-age-2016|Thonemann]] (ch. 5) treats the **Villa of the Papyri** at
+Herculaneum as the western "encounter" of Hellenistic civilization — and as evidence that
+Roman Hellenism remained **strange** from a Greek East perspective.
+
+- Hellenization of non-Greek Italy accelerated after Roman eastern conquests from the
+  **220s BCE**; second-century Italy flooded with Greek war-booty. First marble building
+  in Rome — temple of Jupiter Stator, Campus Martius — by Q. Caecilius Metellus after
+  defeating Andriskos **148 BCE**, designed by a Greek architect. For aristocrats, Greek
+  material culture signalled membership of the "conquering class."
+- Villa built shortly after **50 BCE**; ~250 × 80 m (20,000 m²); atrium house plus long
+  peristyle garden (evoking Greek gymnasium courtyards — Cicero named villa spaces
+  "gymnasium," "palaestra," "Academy"). Buried by Vesuvius AD 79; excavated 1750s–60s:
+  ~85 sculptures; **>1,000** carbonized papyrus rolls, almost all Greek Epicurean texts
+  dominated by **Philodemus of Gadara** (c. 110–40 BCE), likely under patronage of
+  L. Calpurnius Piso Caesoninus (Caesar's father-in-law).
+- **Contrast with the Greek East**: private intellectual patronage of the Piso–Philodemus
+  type was **unknown** in the Hellenistic Greek world; no private houses (and few royal
+  palaces) match the Villa's scale; private Greek art collections in a mish-mash of styles
+  have no real Hellenistic parallel. To a second/first-century Greek, Romans remained
+  "quite as strange and unfamiliar as any Bactrian or Scythian nomad."
+
 ## Related
 
 - Sources/actors: [[cato-the-elder]] · [[polybius]] · [[livy]] · [[scipio-aemilianus]]
 - Connected: [[roman-aristocratic-politics]] (*mores*) ·
-  [[agrarian-crisis-roman-republic]] (the villa economy) · [[freedom-of-the-greeks]]
+  [[agrarian-crisis-roman-republic]] (the villa economy) · [[freedom-of-the-greeks]] ·
+  [[epicureanism]] · [[hellenistic-world]]
 - Events: [[second-macedonian-war-200-196bce]] · [[roman-syrian-war-192-188bce]]
-- Source: [[astin-cah-v8-1989]] (Chs 12 Rawson, 13 Morel)
+- Source: [[astin-cah-v8-1989]] (Chs 12 Rawson, 13 Morel);
+  [[boardman-oxford-history-classical-world-1986]] (Chs. 16–18);
+  [[thonemann-hellenistic-age-2016]]

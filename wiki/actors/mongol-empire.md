@@ -9,8 +9,8 @@ affiliated_with: [[[pastoral-nomadism]], "the Chinggisid line", "the Yuan, Ilkha
 opposed_by: [[[song-dynasty|Southern Song]], [[abbasid-caliphate|Abbasid Caliphate]], "the Mamluks", "Japan", "the Delhi Sultanate"]
 key_events: ["the conquest of the Jin and Xixia", "the sack of Baghdad (1258)", "the conquest of Song China (1279)", "the division into four khanates"]
 key_processes: [[[afro-eurasian-world-system]], [[pastoral-nomadism]], [[silk-roads]], [[state-formation]]]
-sources_ingested: 11
-last_updated: 2026-06-22
+sources_ingested: 12
+last_updated: 2026-07-08
 tags: [actor, empire, high-middle-ages, late-middle-ages, steppe, central-asia]
 ---
 
@@ -160,7 +160,15 @@ institutions, texts and ideas" across Eurasia: a flourishing of art and science
 Ibn Battuta travelled within it), new forms of legitimacy and jurisprudence, and a
 single silver monetary stratum circulating from England to China. The empire also
 **reshaped religious and ethnic identities** (the Islamization of three of the four
-khanates; the spread of Tibetan Buddhism at the Yuan court). It bequeathed a model of
+khanates; the spread of Tibetan Buddhism at the Yuan court). Formichi (2020) details this
+Islamization as a sequence of individual ruler conversions that then "pulled" their
+tribes along: Ilkhan **Ghazan** (r. 1295–1304) was the first Chinggisid ruler to convert,
+followed by the Golden Horde's **Oz Beg Khan**, and — later and separately, in the eastern
+Chaghadaid lands — **Tughluq Timur Khan** (r. 1347–1362), whose conversion Formichi treats
+as the event that brought most Turkic peoples of the [[chaghatay-khanate|Chagatai Khanate]]
+into Islam. See [[islam-in-china]] for the distinct, non-converting Yuan case, where Muslim
+communities (transplanted administrators like Sayyid Ajall Shams al-Din in Yunnan) flourished
+under a non-Muslim court. It bequeathed a model of
 rule to later empires that paid it homage (Timurid, Mughal, Qing) and to those that
 denied the debt (Ming, Muscovy, the Ottomans). This Old-World integration, Biran
 argues, "contributed to the discovery of the New World and helped shape the early

@@ -5,8 +5,8 @@ origin: an Indic term (concentric circles of a cosmic/political diagram) adopted
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
 applies_to_regions: [southeast-asia]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-13
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -70,3 +70,13 @@ however, it remains the standard frame for the classical Southeast Asian polity.
 [[raja-mandala]] (the Kautilyan ancestor) · [[theatre-state]] · [[devaraja]] · [[southeast-asian-port-polity]] · [[southeast-asian-absolutism]] ·
 [[srivijaya]] · [[majapahit]] · [[khmer-empire]] · [[indianization-of-southeast-asia]] ·
 [[southeast-asia]] · [[tarling-cambridge-history-southeast-asia-v1-1992]]
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+[[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] make *mandala* the book's working synonym for "state" in Classic Southeast Asia: the term appears in indigenous inscriptions, and its wide distribution supports treating the region as more than an arbitrary geography. They reject "states"/"state formation" as the governing paradigm because those labels smuggle in a band–tribe–chiefdom–state ladder with sharp thresholds, rarely defined when applied to Seasia, and because *raja*/*dhatu* cannot safely be glossed as European "king" without noting the differences.
+
+**Structural features** (their synthesis). Subregions equal mandalas defined by **centres** (where *cakravartin* "wheel-turners" lived) rather than borders; borders expand and contract as smaller centres are attracted or threatened. Ideal rule is the *cakravartin* who keeps surrounding units paying tribute in materials, services, or ceremony — written sources stress Wolters-style "men of prowess" and spiritual *sakti*, though coercion is under-recorded. Conquered rulers were usually **reconfirmed** after obeisance; dispatch of governors from one subregion to another was very rare (important exceptions: Angkor and Kedah). Integration waxed and waned with force, leader charisma, or — most often — self-interest in a larger economic unit.
+
+**Empirics by zone.** [[srivijaya|Srivijaya]] is reconstructed as a mandala from foreign texts and archaeology (perishable texts lost); the *kadātuan–samaryyāda–mandala* pattern fits hinterland river-junction centres, and the mandala expanded/contracted with *cakravartin* charisma. After ~1030 the ports of the Srivijayan thalassocracy became independent, with [[malayu|Malayu]]-Jambi especially prosperous in the 11th–12th centuries; the Chinese name change to *Sānfóqí* registers recognition that Straits power was **diffuse**, replacing earlier Chinese images of Srivijaya and [[funan|Funan]] as unified bureaucratic states. Early Classic [[champa|Champa]] comprised five submandalas (Indrapura, Amaravati, Vijaya, Kauthara, Panduranga) struggling toward a larger *campanagara*. [[angkor|Angkor]]'s cultural expansion into the Chao Phraya valley across mandala borders is rare in Seasian history; by the late 9th c. Cambodians developed a polity idea defined by territorial boundaries, with ~half-millennium Angkorian stability. By the late 11th c. Hanoi became a permanent centre with provinces/prefectures and regular patrilineal succession; by the 14th c. Vietnamese elites viewed neighbouring mandalas as disorganized. [[pagan-kingdom|Bagan]] rose as a mandala centre (chronicles: Sawrahan c. 956–1001, Kyaung Phyu Min c. 1001–1021; prominence 11th c., ~450-year span). Thai history 1250–1440 is framed as **"muang pluralism"** — Sukhothai, Lan Na, Phayao, Lopburi as neighbouring mandalas; Ramkhamhaeng as *cakravartin* receiving nested loyalty (Nakhon Si Thammarat → Phetburi → Suphanburi → Ramkhamhaeng per Wyatt). Late Classic Myanmar's "fragmented states" period shows four geospatial mandalas competing/allied "accordion-like." Lan Xang under Fa Ngum was typically decentralized (*muang* chiefs autonomous if they sent tribute); strength rested on manpower and the leader's personal ability. A 1181 Julah inscription places Julah in *Balidwipamandala* with seven *nagara* (probably walled villages).
+
+**Link types:** part_of [[srivijaya]], [[champa]], [[pagan-kingdom]], [[sukhothai]]; concurrent_with [[raja-mandala]], [[devaraja]], [[angkor]]; contrasts_with earlier Chinese bureaucratic-state reading of Srivijaya/Funan.

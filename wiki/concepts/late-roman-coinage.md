@@ -5,8 +5,8 @@ origin: the transformation of the Roman monetary and fiscal system from the Seve
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [mediterranean-world, italy, near-east, north-africa, egypt]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, rome]
 ---
 
@@ -108,3 +108,10 @@ swept away by it.
 - The [[third-century-crisis|crisis]] it measures; `contrasts_with:` a simple monetarist
   debasement-to-hyperinflation model
 - Source: [[bowman-cah-v12-2005]] (Ch. 11, Mireille Corbier)
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **Empire-wide monetary system.** Precious-metal coin under Roman supervision lasted longer and covered more territory than any other monetary system in world history, projecting imperial ideology via legends. This does not prove a single economic unit—regional zones prospered or faltered locally—but tax, interregional trade, and army/capital provisioning created significant economic unity. Coin imagery identified particular emperors via coded symbols linking them to predecessors—an imperial issue first, then a named ruler.
+- **Solidus gold standard and social restructuring.** From mid-fourth century the Constantinian solidus restructured society: taxes, civil/military pay, and much commerce assessed/paid in gold; those paid in state gold became *nouveaux riches* who bought land and built large estates at earlier proprietors’ expense—best documented in fifth–sixth-century Egypt (Banaji/Sarris framework Mitchell follows).

@@ -5,8 +5,8 @@ origin: The scientific culture of the Hellenistic world (3rd c. BCE onward), cen
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [egypt, mediterranean-world, near-east]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [concept, greece]
 ---
 
@@ -81,10 +81,85 @@ gear-driven astronomical computers were actually built.
   of the many new royal cities ([[alexandria|Alexandria]], [[antioch|Antioch]]) made the period
   "outstanding for the originality of its innovations" in urbanism.
 
+## Barnes (OHCW): golden age, divorce from philosophy, medicine
+
+**Jonathan Barnes** (*Oxford History of the Classical World*, 1986) surveys the golden
+age of Greek science as largely **independent of the philosophers**:
+
+- **Mathematics & astronomy**: Euclid (fl. c.300) systematized the *Elements* rigorously;
+  Archimedes (287–212) — geometry (π), statics, hydrostatics, large numbers, astronomy,
+  engineering; Apollonius of Perge (fl. c.200) on conic sections; Aristarchus of Samos
+  (fl. c.275) heliocentric hypothesis **not developed by successors** (geocentric epicycles
+  via Apollonius, Hipparchus fl. c.135, later Ptolemy); Hipparchus’ star-map and precession
+  of the equinoxes; Eratosthenes (fl. c.225) earth circumference — sound method,
+  astonishing accuracy (“Beta”).
+- **Little interdisciplinary influence**: Cleanthes wanted Greeks to indict Aristarchus
+  for impiety for moving the earth; philosophers ignored mathematical arcana; scientists
+  preferred technology (Ctesibius, Philo of Byzantium, Hero, Archimedes — water-clocks,
+  puppets, fire-pumps, steam-toys, war engines). Astrology’s link to Stoic fatalism is
+  tenuous for the Old Stoa and Hellenistic astronomers.
+- **Medicine rivals astronomy**: Herophilus of Chalcedon (fl. c.270) — drugs, pulse
+  diagnosis, first scientific description of the duodenum (still so named), brain;
+  Erasistratus of Ceos (fl. c.260) — mechanical physiology, associated with Peripatetics,
+  influenced by Epicurus/Stoa, *On Causes*. Both dissected living condemned criminals
+  supplied by the Ptolemaic kings (Celsus-type defence quoted); Herophilus was sceptical
+  on causes — first of medical sceptics leading to Sextus Empiricus.
+
+Barnes’s institutional map matches Lloyd: science migrated to Alexandria under the
+Ptolemies while Athens kept philosophy. Lasting legacy of the schools: the Porch/Garden
+systems plus a **narrower, more introspective conception of philosophy** vs Aristotelian
+unity of science and philosophy (Posidonius “Aristotelizes” but has no followers).
+
 ## Significance
 
 Hellenistic science set the foundations of Western exact science — Euclidean geometry,
 Archimedean mechanics, Eratosthenic geography, the framework that Ptolemy and Galen would
 later systematize — and established **methodical scientific discipline** itself. Its
 institutional home, the Alexandrian Museum, is the ancestor of the funded research institute.
-See [[alexandria]], [[archimedes]], [[hellenistic-world]].
+See [[alexandria]], [[archimedes]], [[hellenistic-world]], [[stoicism]], [[epicureanism]].
+
+## Freeman (2014) — the Library, the Pergamum rivalry, and reputational notes
+
+[[sources/freeman-egypt-greece-rome-2014|Freeman (2014)]] gives the Library of
+Alexandria's holdings as reaching roughly **one million texts** (a larger figure than
+Thonemann's more sceptical "tens of thousands," reflecting genuinely disputed ancient
+testimony), shelved alphabetically by first letter and organized into subject categories
+by **Callimachus**; **Ptolemy II** is credited with commissioning the **Septuagint**
+translation. Freeman also relates the origin of "parchment" (*pergamena*): Pergamum's
+rival library (some 200,000 rolls under Eumenes II) was forced onto parchment after Egypt
+banned papyrus export to sabotage the rival collection; Mark Antony allegedly gave
+Pergamum's library to Cleopatra (per Plutarch). On reputation, Freeman cites Lloyd calling
+**Archimedes** one of history's "original geniuses of the highest order," with Galileo
+calling him "superhuman," and notes Aristarchus's heliocentrism went unaccepted for
+roughly 1,700 years.
+
+## Thonemann: Eratosthenes, Machines, Poetry (2016)
+
+[[thonemann-hellenistic-age-2016|Thonemann]] (ch. 4) deepens the institutional and
+Eratosthenic picture; detailed life and method on [[eratosthenes]] and
+[[museum-library-of-alexandria]].
+
+**Institutional demythology.** Strabo's Museum description (palace complex, common
+dining, priest); Timon's "chicken-coop of the Muses"; Library size figures of 200–700k
+rolls **fantastic** (tens of thousands at most); no good evidence for destruction by
+fire; great age ends with Ptolemy VIII's expulsion of scholars in **144 BCE**.
+
+**Eratosthenes.** Scientific geography as single-handed creation (*Measurement of the
+Earth*, *Geographika*); circumference method (Syene/Alexandria, 7.2°, 250,000 stades,
+~16% high); lat/long continuous space; denial of objective continents; Homeric geography
+as imaginary; *Chronographiai* Olympiad spine; Ptolemaic patronage framing. Archimedes
+addressed the *Cattle Problem* and *Method* to him; *Cattle Problem* is 22 elegiac
+couplets — no hard line between science and poetry.
+
+**Machines.** Archimedean water-screw; force-pump (third-century Alexandria); cogwheel
+gearing; vertical **watermill** invention pushed to the **240s BCE** (industrial spread
+only under Rome). Antipater of Thessalonice's mill epigram breathes "Industrial
+Revolution" spirit two millennia early. **Antikythera mechanism**: ~30 interlocking
+gears (15–223 teeth), second-century BCE astronomical calculator unmatched in European
+technology before the Early Modern period — impossible without royal-scale patronage
+(no separate wiki page yet).
+
+**Philosophy elsewhere.** Museum neglected philosophy; Athens kept pre-eminence
+(Academy, Lyceum, [[epicurus]], [[zeno-of-citium]]/Stoa as loose teacher communities,
+mostly non-Athenian). Distinctive Hellenistic turn: away from political theory toward
+therapeutic cultivation of the individual soul.

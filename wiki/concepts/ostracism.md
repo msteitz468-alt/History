@@ -76,8 +76,24 @@ been shown that it could be used to remove a mere political rival, it was never 
 The institution's **date** (Cleisthenic enactment vs. enactment c. 488) and its **purpose**
 remain contested, the two questions being interdependent.
 
+## The Ballots as Evidence
+
+The *ostraka* themselves — inscribed potsherds used as ballots — are a major
+corpus of [[ancient-graffiti|everyday writing]]: over **1,100** from the Athenian
+Agora and about **8,500** from the Kerameikos (Potters' Quarter). Surviving names
+span the leading figures of the fifth century — Themistocles, Aristides "the
+Just," Cimon, Pericles, Megacles, Thucydides son of Melesias, Hyperbolus,
+Alcibiades — sometimes with abuse (Megacles as *hippotrophos* "horse-keeper" and
+*philarguros* "money-lover"). A deposit of ~190 sherds pre-inscribed
+"Themistocles" in only a few hands, found near the Acropolis, reveals a faction
+mass-producing ballots. Plutarch's story of the illiterate farmer who asked
+Aristides himself to write "Aristides" (482 BCE) shows the illiterate voting by
+allography. Per [[keegan-graffiti-in-antiquity-2014|Keegan, *Graffiti in
+Antiquity*]].
+
 ## Related
 
 - Author: [[cleisthenes]] · framework: [[cleisthenic-reforms-508bce]] · principle: [[isonomia]] · system: [[athenian-democracy]]
+- The ballots as graffiti: [[ancient-graffiti]] · [[athens]]
 - Context: [[battle-of-marathon-490bce]] · Themistocles' navy · the Persian threat
 - Period: [[archaic-period]] · Source: [[boardman-cah-v4-1988]] (Ch. 5, Martin Ostwald)

@@ -5,8 +5,8 @@ origin: the religious world of the non-Christian Roman empire in the third and e
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [mediterranean-world, near-east, north-africa, italy]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -110,3 +110,13 @@ the Hermetica, the philosopher-ascetics of Eunapius — see [[late-antique-ascet
 its public cult was outlawed.
 
 - Source (fourth century): [[cameron-cah-v13-1998]] (Ch. 18, Garth Fowden; Ch. 21, Peter Brown)
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **Source distortion.** Mainstream written sources are mostly Christian and belittle or suppress paganism; post-Constantine Christian literature turns from apologetic to triumphalist and has no interest in a realistic numerical or social picture of pagan strength. Secular fourth-century authors prefer to mention Christianity as little as possible; even Ammianus pushes Christianity to the margins.
+- **Epigraphy and archaeology lag.** Epigraphic dedications abundant in second–third centuries but rare in fourth—at least as much a change in commemorative habit as abandonment of paganism (exception: Rome, senatorial cults to ~400). Monumental archaeology sparse for new pagan temples after mid-third century *and* for monumental churches before mid/late fourth—so the most dynamic period of religious change ~250–350 leaves little mark in monumental archaeology.
+- **Civic paganism declines with the *polis*.** Public festivals, temples, and games had been funded by euergetism under peaceful, affordable-tax conditions; after Severans increased taxation/militarization reduced elite willingness; fourth–fifth-century public civic building more often from governors/officials. Attention shifted to popular, less formal paganism; blood sacrifice banned with increasing effect, but feasts continued (Libanius on banquets without formal altar sacrifice).
+- **High culture retained pagan traditions.** Classical literary education required familiarity with pagan mythology, philosophy, and rhetoric; Julian tried to ban Christians from teaching the traditional syllabus (short-lived); Justinian later forbade all pagan teaching. Popular festivals (Brumalia, Saturnalia, Kalends, Maiuma) persisted; laws left many entertainments while banning sacrifice.
+- **Magic as cross-cutting culture.** Ubiquitous and eclectic among pagans, Jews, and Christians across classes; anti-magic laws targeted subversion more than ritual. Exorcism widespread (one-third of Rome’s 251 clerical establishment were exorcists). Connects “pagan survivals” to a broader late antique supernatural common sense rather than only temple cult.

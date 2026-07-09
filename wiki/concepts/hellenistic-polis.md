@@ -5,8 +5,8 @@ origin: The Greek city-state as it changed under the Hellenistic monarchies; ana
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [mediterranean-world, anatolia, near-east, egypt]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept, greece]
 ---
 
@@ -79,6 +79,50 @@ religious experience were moving in different directions":
   *thiasoi*), foreign cult-groups, and above all the **technitai of Dionysus** (guilds of
   performing artists), virtually sovereign bodies passing city-style decrees.
 
+## Price and Lane Fox (OHCW): institutions, kings, education
+
+**Simon Price** and **Robin Lane Fox** (*Oxford History of the Classical World*, 1986)
+deepen Davies’ picture of the living city under kings:
+
+### New-city culture (Price)
+
+New-city culture was strongly Greek: *koine* transcended old dialects; institutions were
+modelled on classical practice (e.g. Susa refounded as Seleucia on the Eulaeus retained
+classical-style council/magistrates 300 years later under Parthia). The **gymnasion** was
+the key educational/cultural institution, often excluding non-Greeks; naked exercise marked
+incorporation and alienation from native background.
+
+### Kings and cities (Price)
+
+Kings did not usually impose positive policies but sought **hegemony**: they constrained
+foreign policy and raised tribute (Miletus once borrowed to pay **25 talents** annual
+tribute vs max ~10 under fifth-century Athens). “Freedom and autonomy” was a **rescindable
+privilege** but a potent ideal (Colophon built fortifications when freed); remissions often
+answered distress (Antiochus III freed Teos from Attalid contributions). **Indirect
+control**: third-city arbitration between cities; foreign panels of judges for internal
+lawsuits (often prompted by a king or agent, e.g. a Ptolemaic official requesting Myndus
+judges for Samos) — securing harmony without crude intervention.
+
+### Democracy as ideal, oligarchy in practice (Price)
+
+Paradox: democracy was the **universal ideal** (Alexander established democracies in Asia
+Minor Greek cities; new cities had magistrates/council/assembly; Cos citizenship oath
+against oligarchy/tyranny), but real popular participation declined and **wealthy dominance**
+increased. Rich men mediated city–king relations (e.g. Philippides at Lysimachus’ court
+301–283/2); *agonothesia* from private funds; **honours rather than laws** framed
+relationships; courts were pre-selected; Rome later set wealth qualifications for office
+while assemblies remained notionally “democratic.”
+
+### Civic education (Lane Fox)
+
+Children began private schools at age seven (anti-feminine/anti-barbarian sentence drills;
+flogging); secondary literary/Homer work; then the ephebe gymnasion under a rich official
+(sport + some libraries/lectures). Late second century: more formal grammar, ever more
+literary, little law or maths. Athens admitted rich foreign ephebes. A mid-second-century
+Macedonian city decree excluded slaves/freedmen, non-wrestlers, traders, the drunk/mad,
+and paederasts — “amateurs” only. Lane Fox rejects explaining this curriculum as
+abroad-only “culture of reinforcement”: the same studies ran in old Greece.
+
 ## Significance
 
 Davies' chapter is a landmark for treating the Hellenistic world as a **plural, layered
@@ -87,3 +131,22 @@ adaptive institution rather than a relic in decline. The transformed city — eu
 elite-run, gymnasium-centred, ruler-worshipping — would persist, depoliticized, deep into
 the Roman period. See [[hellenistic-world]], [[hellenistic-monarchy]], [[euergetism]],
 [[greek-federalism]].
+
+## Thonemann: Priene and Career Benefactors (2016)
+
+[[thonemann-hellenistic-age-2016|Thonemann]] (ch. 6) offers [[priene|Priene]] as a full
+microhistory of an ordinary small Hellenistic *polis* — green-field grid, ~480 houses,
+max urban population ~5,000, Pedieis serf-like non-Greeks, Galatian crisis, garrison
+culture, and the long slide from participatory democracy to euergetic oligarchy. Full
+detail on the place page.
+
+Cross-cutting points also from his northern case [[olbia|Olbia]] (ch. 5): rural slave
+labour on city territories was normal; later Hellenistic rise of super-rich **career
+benefactors** (Protogenes type) who fund cities for honours is a structural feature.
+At Priene, Philippe Gauthier's language of civic "patrons" captures the shift from
+Apellis (late fourth-century elected office + self-funded liturgy) to Moschion (late
+second-century hereditary virtue, private loans, famine grain). First-century female
+*stephanephoroi* mark aristocratic capture, not liberal progress. Thonemann's Asia Minor
+verdict: Hellenistic centuries could be a **golden age** of autonomy (own coinage,
+democratic decrees, no royal tax/tribute at Priene) relative both to Classical
+subjection and post-133 Roman taxation.

@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[xerxes-i|Xerxes']] invasion of Greece, the Greek League's decision to hold the Thermopylae–Artemisium line, the strategic interdependence of the land and sea positions]
 consequences: [the death of Leonidas and the forcing of the pass, the Persian advance into central Greece and the sack of Athens, the naval experience that prepared the Greeks for Salamis, the iconic example of disciplined sacrifice]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, central-greece]
 ---
 
@@ -80,8 +80,23 @@ and **Simonides'** epitaphs. Hammond defends the narrative and sequence as relia
 contemporary memory, while treating Herodotus' Persian numbers as vast exaggerations; the
 chronology of the storm, the engagements, and the Anopaea march are the technical disputes.
 
+### Osborne (2000)
+
+[[sources/osborne-classical-greece-2000|Osborne (ed., 2000)]] (Ch. 7, Kallet) gives the
+concise narrative frame: the pass was held ultimately by the small force of **300
+Spartans under King Leonidas**, and the Persians broke through on land only "by an act of
+treachery" — the Anopaea path betrayal. The concurrent naval battle off **Artemisium was
+indecisive**. Osborne highlights Herodotus's story of the exiled Spartan king **Demaratus**
+telling Xerxes that the Spartans would fight at Thermopylae because, though not wholly
+free, "they fear [the law] much more than your men fear you" (Hdt. 7.104) — nomos as the
+Spartans' true master.
+
+### Hall (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]: Hellenic League of 481 under Spartan leadership; 480 strategy after Tempe abandoned — ~7,000 infantry at Thermopylae and 271 triremes at Artemisium. Hall stresses Thermopylae was a **total defeat** despite Spartan death-and-glory propaganda: after the Anopaia path betrayal, Leonidas kept 300 Spartans, suspect Thebans, and volunteer Thespians; yet delay, Persian casualties, and Artemisium storm losses reduced the force that then sacked Boeotia/Attica/Athens.
+
 ## Related
 
 - Invader: [[xerxes-i]] · land command: Leonidas ([[sparta]]) · sea command: Eurybiados / [[themistocles]]
 - Line: [[battle-of-salamis-480bce]] (the sequel) · the phalanx: [[hoplite-warfare]] · betrayer: Ephialtes
-- Period: [[classical-antiquity]] · source-critique: [[herodotus-reliability]] · Source: [[boardman-cah-v4-1988]] (Ch. 10, Hammond)
+- Period: [[classical-antiquity]] · source-critique: [[herodotus-reliability]] · Sources: [[boardman-cah-v4-1988]] (Ch. 10, Hammond); [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

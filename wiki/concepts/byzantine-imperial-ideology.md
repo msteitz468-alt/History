@@ -5,8 +5,8 @@ origin: developed from Hellenistic kingship theory and Roman imperial cult, Chri
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
 applies_to_regions: [anatolia, mediterranean, eastern-europe, balkans]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -56,3 +56,19 @@ the rhetoric of divinely sanctioned rule.
   Political Science*]]; expressed in [[hagia-sophia|Hagia Sophia]].
 - `applies_to:` [[justinian|Justinian]] and the [[byzantine-empire|Byzantine Empire]]; `contrasts_with:`
   the [[papal-monarchy|papal monarchy]] of the Latin West.
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- Woolf’s late-antique ideology claim (relevant to Byzantine Christian emperorship): “Christianity was a less effective imperial ideology than had been the traditional state cults, partly because of the chronic tendency to schism and heresy, partly because it conferred an independent authority on religious leaders, such as the bishops of Rome.” Justinian’s rally around Christian faith and legal/moral unity still dogged by religious divisions; one could be Christian without being emperor’s subject. “Christianity and Islam did not destroy the Roman Empire, but the world they introduced was one less friendly to the great political empires of antiquity.”
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **Cosmic order and victory.** Late Roman ideology presented emperors as guarantors of cosmic order under divine protection; imperial victory was a key theme; from Constantine through Justinian the system was projected in art, literature, and routine political communication, with Christian ideas gradually integrated into classical kingship.
+- **Acclamations.** Rhythmical public chants ritualized hierarchy and unity: invocation of God, wishes for the emperor’s health/victories, then Senate and high officials (CTh. 6.9.2). Examples: 43 acclamations for Theodosian Code in Senate 25 Dec 438; Edessa 449; Aphrodisias for Albinus; Nika dialogue in Constantinople.
+- **Slow Christianization of public art.** Fourth-century public art remained weakly Christianized: Constantine’s arch uses ambiguous *instinctu divinitatis*; Theodosian obelisk base shows only a solitary labarum. Explicit Christ-over-emperor imagery (Barberini ivory; S. Vitale 548) is a Justinianic innovation—“this is also an innovation of this period.”
+- **Hagia Sophia as imperial Christian triumph.** Post-Nika rebuilding: dome design shifted emphasis from cruciform to heavenly vault; message that imperial Christianity had triumphed; dedicated 537; dome collapse 557 rebuilt later.
+- **Sixth–seventh religious intensification.** Marian cult (Justin II/Sophia; Heraclius’ Virgin mastheads 608; peak at 626 siege); icons as protection (Apamea Cross 540; Edessa *acheiropoetos* 544); mass processions as community crisis ritual since plague. Patriarch Sergius led defense in emperor’s absence; war framed as crusade/holy war (Heraclius 625 speech). Earthquakes 542 and 557 produced lasting annual processions pleading God’s mercy.

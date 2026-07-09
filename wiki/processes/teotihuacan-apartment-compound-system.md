@@ -15,7 +15,7 @@ produces:
   - compound-level corporate group identity
   - neighborhood-scale ritual and craft organization
   - ethnic enclave formation
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [process, mesoamerica, late-antiquity]
 ---
@@ -91,6 +91,29 @@ residences.
 The apartment compound system collapsed with the Teotihuacan state around 550–650 CE (date
 range disputed; see [[teotihuacan-collapse-550ce]]). Signs of rapid abandonment in La Ventilla — artisans' tools and unfinished objects left in place — suggest the process was abrupt rather than gradual. San Martín Orange Ware ceased production: market conditions no longer supported its degree of specialization. Candeleros and composite censers disappeared. Post-destruction material culture shows the **apartment-compound residential type itself disappears** along with talud-tablero temple style (Cowgill 2000). The Coyotlatelco occupants who reused the city's residential areas did not reproduce the apartment compound system in its Teotihuacan form.
 
+## Evans & Webster 2001 (Abrams; Feinman; Gonlin & Evans)
+
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster (eds.) 2001]]
+adds quantitative dwelling metrics and craft-locus precision (**EW2001**).
+
+**Elliot M. Abrams (Architecture: Vernacular-Mundane):** At Teotihuacan (~A.D. 600) the
+commoner dwelling was the apartment compound: rectilinear buildings averaging **~50–60 m per
+side**, housing **30–100 individuals** (up to ~20 patrilineally related families); built on
+prepared ground (not elevated platform); exterior walls cut/uncut stone + adobe upper;
+beam-and-mortar roofs with open courtyards; **~2,000 compounds** closely spaced by alleys;
+elite “palaces” similar form but higher quality; compounds grew incrementally over lineage
+occupation.
+
+**Feinman / Gonlin & Evans:** Most firmly provenienced specialized craft production took place
+**within apartment compounds** (multi-family residential complexes) rather than non-domestic
+workshops or factories; compounds housed **cognatic kin corporate groups** for craft
+production, group ritual, and external ties, with individual family suites for reproduction,
+consumption, and household ritual. Oztoyahualco soil chemistry defined food prep/consumption
+and patio ritual areas suggesting three families (Widmer). Ethnic enclaves (Tlailotlacan;
+Merchants’ barrio) sit within this compound fabric (Chance & Stark). Aligns with Cowgill CHNPA
+scale-variation notes above; Abrams’s 30–100 range and ~2,000 compounds match Millon/TMP
+orders of magnitude.
+
 ## Related Pages
 
 - [[teotihuacan]] — the city that housed this system
@@ -98,4 +121,4 @@ range disputed; see [[teotihuacan-collapse-550ce]]). Signs of rapid abandonment 
 - [[teotihuacan-political-organization]] — the compound system as evidence of corporate governance
 - [[teotihuacan-collapse-550ce]] — end of the compound system
 - [[zapotec]] — Oaxacan ethnic enclave at Teotihuacan
-- [[cowgill-ancient-teotihuacan-2015]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6]]
+- [[cowgill-ancient-teotihuacan-2015]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6]] · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

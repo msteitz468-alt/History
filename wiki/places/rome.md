@@ -7,7 +7,7 @@ period_active: [Early Iron Age, Archaic Period, Classical Antiquity, Late Antiqu
 controlled_by: [Roman city-state, Roman Republic, Roman Empire, Ostrogoths, Byzantine Empire, Papacy]
 events_here: []
 processes_here: [[[urbanization]], [[ruralization]], [[post-roman-transformation-of-the-west]]]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [place, mediterranean, classical-antiquity, late-antiquity, early-middle-ages, rome]
 ---
@@ -304,3 +304,15 @@ By c.600 **papal estates** (and perhaps Constantinopolitan patriarchal lands) we
 - Archaic Rome: [[etruscans]] (the Tarquins) · [[etruria]] · [[roman-kings]] · [[foundation-of-rome-753bce]]
 - Sources: [[yoffee-cwh-v3-2015]] (Ch. 25, Terrenato) · [[boardman-cah-v4-1988]] (Ch. 13, Ridgway) · [[walbank-cah-v7-2-1989]] (Chs. 2–3, Torelli/Momigliano) · [[sources/harper-fate-of-rome-2017]] · [[wickham-framing-the-early-middle-ages-2005]]
 
+## From Gibbon, Decline and Fall (1776–1788)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]] (Chs. XXXI, XXXVI, XXXIX, LXIX–LXXI).
+
+- **410 sack.** First foreign presence in 619 years; Salarian Gate; 1,163 years after foundation; partial order under Alaric vs later sacks (see [[sack-of-rome-410]]).
+- **455 Vandal sack.** In forty-five years “the pomp and luxury of Rome were in some measure restored”; Genseric’s fourteen-day pillage then re-emptied the city (brass and copper as well as gold).
+- **Theodoric.** Visited as “second Trajan”; six-month residence; funded repairs; “Rome, in this august ceremony, shot a last ray of declining glory”; Gothic kings anxious to preserve monuments.
+- **Four causes of physical ruin (Ch. LXXI).** “I can discern four principal causes of the ruin of Rome, which continued to operate in a period of more than a thousand years. I. The injuries of time and nature. II. The hostile attacks of the Barbarians and Christians. III. The use and abuse of the materials. And, IV. The domestic quarrels of the Romans.”
+- **Barbarians and buildings.** Alaric and Genseric sought portable wealth and “affected to spare buildings”; reproach may transfer to Catholics for demolishing “demon” temples.
+- **Poggius on the Capitol.** “in proportion to her former greatness, the fall of Rome was the more awful and deplorable.”
+- **Bede’s Coliseum proverb.** “As long as the Coliseum stands, Rome shall stand; when the Coliseum falls, Rome will fall; when Rome falls, the world will fall.”
+- **Papal dominion.** City acquiesced under absolute papal dominion about when Constantinople fell to the Turks.

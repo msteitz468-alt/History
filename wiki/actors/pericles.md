@@ -9,8 +9,8 @@ affiliated_with: [[[athens]], the [[alcmaeonids|Alcmaeonid]] family, the democra
 opposed_by: [[[cimon]], Thucydides son of Melesias, the conservative aristocracy, [[sparta]]]
 key_events: [the reform of the Areopagus 462/1 BCE, the citizenship law 451/0 BCE, jury pay, the Periclean building program, the Thirty Years' Peace 446/5 BCE, the Samian War 440 BCE, the outbreak of the [[peloponnesian-war|Peloponnesian War]] 431 BCE]
 key_processes: [the radical [[athenian-democracy]], the [[delian-league|Athenian empire]]]
-sources_ingested: 2
-last_updated: 2026-06-23
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, central-greece, aegean]
 ---
 
@@ -76,10 +76,22 @@ Greece." Whether he was a far-sighted statesman (Thucydides) or a demagogue who 
 into an unnecessary war (the rival tradition Plutarch could not reconcile) is the oldest
 controversy about him.
 
+## OHCW (Boardman/Griffin/Murray 1986) — Hornblower, Boardman, Murray
+
+[[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]]:
+
+**Empire funds democracy (Hornblower Ch.6).** Imperial revenue, greatly increased by [[cimon|Cimon]]’s early-460s operations, made possible the 462 democratic changes associated with Ephialtes and Pericles; jury pay enabled large *dikasteria*; further pay for *boule* and festivals meant democracy was “paid for by the allies.” Aristocrats such as Cimon and Pericles brought public wealth for the Acropolis buildings of Phidias, Ictinus, and Mnesicles, and financed festivals via the liturgy system; Pericles’ first known act was financing Aeschylus’s *Persae*.
+
+**War strategy (Hornblower).** Early [[peloponnesian-war|Peloponnesian War]] grand strategy: abandon Attica, concentrate population within Athens–Piraeus Long Walls, rely on imperial supplies/finance so that to “survive” was to “win.”
+
+**Acropolis patronage (Boardman Ch.12).** Pericles’ decision to use League funds, contributed for war against Persia, for rebuilding Athens “heralded the most important programme of state patronage to have been seen in Greece, only to be rivalled later in the capitals of the Hellenistic kings.” The Parthenon was “less a cult place than a war memorial, dedicated as much to the glory of Athens and Athenians as to the city goddess Athena.” Under Pericles, Phidias’ school idealized rather than individualized: “At no time in the history of Greek art was the image of the divine so human, the human so divine.”
+
+**Citizenship law and Aspasia (Murray Ch.9).** Classical legitimacy required two citizen parents—democratic imposition of peasant norms on aristocracy that had married abroad. Pericles, author of the first citizenship law, when legitimate children died of plague, sought assembly permission for children by Milesian mistress Aspasia to be declared citizens. Cephalus of Syracuse was invited to Athens by Pericles; his house hosts Plato’s *Republic*.
+
 ## Related
 
 - Allies/rivals: [[ephialtes]] · [[cimon]] · [[alcmaeonids]] · Thucydides son of Melesias
 - System/empire: [[athenian-democracy]] · [[delian-league]] · [[parthenon]] ·
-  [[thirty-years-peace-446bce]]
+  [[thirty-years-peace-446bce]] · [[athenian-empire]]
 - War: [[peloponnesian-war]] · [[archidamian-war]] · [[sparta]]
-- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 4, Rhodes; war leadership Chs. 8–9)
+- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 4, Rhodes; war leadership Chs. 8–9) · [[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]] (Hornblower Ch.6; Boardman Ch.12; Murray Ch.9)

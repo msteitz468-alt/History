@@ -5,8 +5,8 @@ origin: the reorganization of Roman state religion under Augustus, recasting the
 applies_to_periods: [Classical Antiquity, Late Antiquity]
 applies_to_regions: [italy, mediterranean-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -79,6 +79,14 @@ decline-and-artificial-revival. Debates persist over whether Rome ever had a nat
 restructured system penetrated the **lower classes** and the non-citizen ethnic cults of the
 metropolis.
 
+## OHCW (Stockton; Wilson; Lyne)
+
+**Stockton** (Ch. 22): elected *pontifex maximus* 12 BCE; *divi filius*; cult of genius/*numen* and temples to Rome and Augustus in the provinces; living Augustus never formally a god in Italy/West; rebuilt temples; Secular Games 17 BCE; legislation on adultery, marriage incentives, sumptuary restraint — religious renaissance paired with moral programme claiming restoration of ancestral seriousness.
+
+**Wilson** (Ch. 32): eighty-two temples built/restored in one year claimed; Ara Pacis Augustae (dedicated 9 BCE) and Forum of Augustus (2 BCE) as propaganda climax — processional friezes of 13 BCE thanksgiving; values *gravitas*, *humanitas*, *pax*; Augustus as new Aeneas; Greek craftsmen essential for marble expertise.
+
+**Lyne** (Ch. 24): second Augustan period (~from 20 BCE) more assertive monarchy; *Carmen saeculare* (17) as ritual lyric of the restored order. Source: [[boardman-oxford-history-classical-world-1986]].
+
 ## Related
 
 - Constructed by [[augustus]] as part of the [[principate|res publica restituta]]; the imperial
@@ -87,4 +95,4 @@ metropolis.
 - Contrasts the older [[roman-republican-religion|Republican religion]]; context for the rise of
   [[origins-of-christianity|Christianity]]
 - Companion (CAH X, society & culture): [[augustan-social-legislation]] · [[augustan-literature]]
-- Source: [[bowman-cah-v10-1996]] (Ch. 16, Price)
+- Source: [[bowman-cah-v10-1996]] (Ch. 16, Price); [[boardman-oxford-history-classical-world-1986]] (Stockton; Wilson; Lyne)

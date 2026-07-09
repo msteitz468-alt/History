@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: hemispheric
 causes: [the Mongol invasion of Syria (1260), the sack of Baghdad (1258), Hülegü's withdrawal eastward]
 consequences: [the first major check to Mongol expansion, the survival of Mamluk Egypt and Islam in the Near East, the rise of Baybars]
-sources_ingested: 2
-last_updated: 2026-06-24
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, high-middle-ages, levant]
 ---
 
@@ -57,9 +57,41 @@ Edbury cautions that the Mongol force was a detachment, not Hülegü's main army
 not prove the Mongols unbeatable so much as mark the limit of their westward reach — a limit
 the Mamluks then defended for decades.
 
+## Islamic perspective (Cobb 2014)
+
+[[cobb-race-for-paradise-2014|Cobb]] situates ʿAyn Jalut (Goliath’s Spring) in the Mamluk–Mongol–
+Frankish triangle. After Hülegü took Aleppo (Jan 1260) and Damascus (March 1260), local
+Christians were said to have celebrated (Eastern Christian Mongol allies; relief from *dhimmi*
+status). **Bohemond VI** of Antioch/Tripoli unambiguously allied with the Mongols via his
+Armenian father-in-law; Latin Acre maintained **benevolent neutrality**. Hülegü left for the
+east (Great Khan succession) leaving **Kitbuga** (Christian) with a reduced force and a pliable
+Ayyubid of Homs as Mongol governor of Syria.
+
+Hülegü’s letter demanded **Qutuz** surrender (“we are the army of God on His earth…”). Qutuz
+executed the Mongol ambassadors and displayed their heads at Cairo’s gates, then launched a
+*jihad* campaign; late July 1260 he marched from Egypt. Acre Franks offered men — Qutuz
+declined. On **3 September 1260** Kitbuga attacked twice; Qutuz countercharged; Syrian Ayyubid
+troops switched sides; Kitbuga was killed; Mongols fled toward the Euphrates; occupation forces
+left Syria. Immediately afterward Qutuz reorganized Syria; **Baybars**, passed over for Aleppo,
+killed Qutuz on the Egypt desert border and was proclaimed sultan (publicly enthroned 25 Nov
+1260).
+
+**Thesis:** In hindsight it is easy to call ʿAyn Jalut the Mongol high-water mark in the Near
+East, but contemporaries “could not be so consoled.” Mongols continued to threaten Mamluk domains
+for decades until a Cairo treaty in **1323**.
+
+## Historiography
+
+NCMH V and Edbury stress that the Mongol force was a detachment after Hülegü’s withdrawal, not
+proof of Mongol invincibility broken once and for all. May’s operational analysis emphasizes
+steppe-trained Mamluk cavalry and Syrian desertions. [[cobb-race-for-paradise-2014|Cobb]] adds
+ambassadorial insult, Frankish neutrality/alliance patterns, Qutuz’s refusal of Acre troops, and
+the long post-1260 Mongol threat that denies any simple “turning point = end of danger” reading.
+
 ## Related
 
 - `caused_by:` the [[mongol-empire|Mongol]] invasion and the sack of Baghdad (1258).
 - `produced:` the consolidation of the [[mamluk-sultanate|Mamluk Sultanate]] and the rise of Baybars.
 - `analogous_to:` the later Mamluk victory at Homs (1281) — the Euphrates frontier held.
 - **Detailed Tactical Analysis**: [[hubs/warfare/high-middle-ages/mongol-conquests/battle-of-ain-jalut-1260|Staff-college analysis]] — [[may-mongol-art-of-war-2016|May]]: hard-fought battle; Syrian desertions pivotal; "turning point" framed mainly by Möngke's death and Hülegü's withdrawal; Mamluks as Kipchak steppe-trained heavy cavalry.
+- [[cobb-race-for-paradise-2014]] · [[fall-of-acre-1291]]

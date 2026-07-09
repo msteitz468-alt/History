@@ -63,9 +63,17 @@ Saguntum *north* of the Ebro to brand Hannibal a treaty-breaker) are all contest
 — see [[causes-of-second-punic-war]]. Livy's chronology of the affair is
 "totally confused" (Briscoe); Polybius is the better guide.
 
+Dexter Hoyos ([[hoyos-hannibals-dynasty-2003|*Hannibal's Dynasty*]]) adds two points on the
+run-up: Roman arbitrators had, shortly before, intervened in Saguntine internal strife and
+**entrenched the anti-Punic faction in power by executing its opponents** — which
+[[hannibal|Hannibal]] cited as the injustice he "would not overlook"; and he follows
+Polybius in dating the Roman embassy's confrontation with Hannibal to a New Carthage
+interview in **late 220**, before the siege, rejecting Livy's placement of it during the
+siege itself.
+
 ## Related
 
 - Cause-analysis: [[causes-of-second-punic-war]] · treaty series:
   [[romano-punic-treaties]]
 - Produced: [[second-punic-war-218-201bce]] · besieger: [[hannibal]]
-- Source: [[astin-cah-v8-1989]]
+- Source: [[astin-cah-v8-1989]] · [[hoyos-hannibals-dynasty-2003|Hoyos]]

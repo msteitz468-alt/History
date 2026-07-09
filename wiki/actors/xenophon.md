@@ -9,8 +9,8 @@ affiliated_with: [[[sparta]], [[agesilaus-ii|Agesilaus II]], [[cyrus-the-younger
 opposed_by: [[[athens]] (which exiled him), Thebes, Persia]
 key_events: [the march of the [[march-of-the-ten-thousand-401bce|Ten Thousand]] 401–399 BCE, exile from Athens, settlement at Scillus]
 key_processes: [[[fourth-century-greek-historiography]], the writing of the first Greek biography and memoir]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, aegean]
 ---
 
@@ -88,6 +88,20 @@ advertising Persian vulnerability and Xenophon's own fitness to lead an invasion
 *polis* — electing generals, debating in assembly, sacrificing and reading omens — and the source of
 the proverbial cry **"Thalatta! Thalatta!"**
 
+## The end of the Hellenica, and the mercenary economy
+
+[[osborne-classical-greece-2000|Osborne (ed.), *Classical Greece 500–323 BC* (2000)]]
+quotes Xenophon's deliberate refusal to continue his narrative past
+**[[battle-of-mantinea-362bce|Mantinea]] (362)**: "Let this, then, be the end of my
+narrative. Someone else, perhaps, will deal with what happened later" (*Hellenica*
+7.5.27) — a candid admission that the battle had produced only "even more uncertainty and
+confusion in Greece... than there had been previously." Osborne also situates Xenophon's
+own career within a broader fourth-century pattern: the **rise of mercenary service**,
+often (as in Xenophon's own case, serving [[cyrus-the-younger|Persia]]) far from home, is
+itself a symptom of the war-driven economic, political, and social dislocation of the
+period — the same background against which the [[march-of-the-ten-thousand-401bce|March
+of the Ten Thousand]] took place.
+
 ## Significance
 
 Without Xenophon there would be no narrative thread for the early fourth century at all.
@@ -101,4 +115,4 @@ the modern study of the period]]: read the *Hellenica* against the inscriptions,
 - Sources he wrote within: [[fourth-century-greek-historiography]] · companion fifth-century page: [[classical-greek-historiography]]
 - Associates: [[agesilaus-ii]] · [[cyrus-the-younger]] · [[sparta]] · Socrates
 - Events: [[march-of-the-ten-thousand-401bce]] · [[spartan-hegemony]] · [[corinthian-war-395bce]]
-- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 1, Hornblower)
+- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 1, Hornblower) · [[osborne-classical-greece-2000|Osborne (ed.) 2000]] (Ch. 8; the end of the Hellenica, mercenary service)

@@ -9,8 +9,8 @@ affiliated_with: [the eastern Roman (Byzantine) empire, Chalcedonian Christianit
 opposed_by: [the Vandals, the Ostrogoths, the Sasanids (Khusro I), the Monophysites, the Nika rioters]
 key_events: [the codification of Roman law (529–534), the Nika Riots (532), the building of Hagia Sophia (532–537), the reconquest of Africa and Italy, the Justinianic Plague (541–542)]
 key_processes: [the "reconquest" of the west, the codification of Roman law, the enforcement of orthodoxy]
-sources_ingested: 5
-last_updated: 2026-06-27
+sources_ingested: 10
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, mediterranean-world, rome]
 ---
 
@@ -118,9 +118,80 @@ the plague, the Lombards, and the coming Persian and Arab wars would soon expose
   schism he sought to heal; the [[late-roman-emperorship|imperial]] tradition he embodies
 - `followed_by:` the Lombard conquest of Italy and the reign of his successors; the
   [[fall-of-the-western-roman-empire-476|fall of the West]] he briefly reversed
-- Sources: [[sarris-empires-of-faith-2011]] (Ch. 4, the warfare-driven reform reading); [[cameron-cah-v14-2000]] (Ch. 3, Averil Cameron); his ecclesiastical policy is documented in
+- Sources: [[sarris-empires-of-faith-2011]] (Ch. 4, the warfare-driven reform reading); [[cameron-cah-v14-2000]] (Ch. 3, Averil Cameron); [[woolf-rome-empires-story-2012]]; his ecclesiastical policy is documented in
   the ingested **[[price-acts-constantinople-553|Acts of the Council of Constantinople of 553]]** (the
   [[second-council-of-constantinople-553|Fifth Ecumenical Council]] and the
   [[three-chapters-controversy|Three Chapters]]). The political ideology of his reign is documented in
   **[[bell-three-political-voices-justinian|Three Political Voices from the Age of Justinian]]** (Agapetus,
   the *Dialogue on Political Science*, Paul the Silentiary) — see [[byzantine-imperial-ideology]].
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+- **External shaper of the Middle Ages (R1-040):** Logan pairs Justinian with [[muhammad|Muhammad]] as border-setters of the medieval world; broadening Pirenne, “without Justinian and Mohammed there would never have been a Frederick II and Innocent III, i.e., there never would have been a medieval empire and a medieval papacy.”
+- **Reconquest — aims, gains, limits (R1-041):** Last long line of native Latin-speaking emperors (r. 527–65); sought to restore western territorial integrity from Germanic kingdoms—expensive, partial, short-lived. Belisarius brought Gelimer (534) and Witigis (540) to Constantinople; gains: North Africa, most of Italy, SE Spain. Italian wars devastated Rome/Milan; Narses’s use of Lombard troops preceded [[lombards|Lombard]] invasion within three years of Justinian’s death.
+  - Quote: "It was a reconquest that was to prove expensive, partial and short-lived."
+- **Religious “crusade” (anachronistic) (R1-042):** Vandals, Ostrogoths, Visigoths as heretics made reconquest a religious act; 545 canons of Nicaea, Constantinople, and Chalcedon made imperial law; *Novella* 6 on *sacerdotium* and *imperium* as greatest gifts from one principle. “Caesaro-papism” would have seemed inappropriate to him—trained theologian who considered intervention his duty.
+  - Quote: "The greatest gifts God has bestowed upon man are the priesthood (sacerdotium) and the imperial dignity (imperium)."
+- **Monophysite problem (R1-043):** Much of Syria and Egypt held one-nature christology; Theodora a Monophysite partisan; conciliatory efforts failed to end monophysite churches (see [[monophysitism]]).
+- **Papal manipulation (R1-045):** Replaced Pope Silverius with Vigilius via Belisarius (537); Silverius died in exile; mid-sixth-century bishop of Rome “came close to being a puppet of the Roman emperor”—foreshadowing East–West separate courses.
+- **Corpus Iuris Civilis (R1-046):** Code (529; revised 534), Digest/Pandects (533), Novels, Institutes. Immediate western impact short-lived; resurfaced eleventh century (Bologna). Medieval canon law modeled on Roman-law principles—“enormous impact on the medieval church.”
+  - Quote: "Canon law, with its enormous impact on the medieval church, took its shape and, indeed, much of its substance from the law reforms of Emperor Justinian."
+- **Hagia Sophia and Ravenna (R1-047–048):** After Nika (532), Anthemius of Tralles and Isidorus of Miletus completed Santa Sophia in five years (dedicated 27 Dec 537; dome rebuilt 562–63). “If Justinian had done nothing more than build Santa Sophia (Hagia Sophia), he would have had an enduring place in human history.” Ravenna: Sant’Apollinare in Classe (549), San Vitale (547) with facing mosaics of Justinian and Theodora bearing Eucharistic gifts (see [[hagia-sophia]]).
+
+Source: [[logan-history-of-the-church-in-the-middle-ages-2013]]
+
+## Harris, *Roman Power* (2016): “Justinian’s Folly”
+
+[[harris-roman-power-2016|Harris]] argues that Justinian’s western reconquests produced an
+empire that was **long-term unsustainable**: Italy’s economy collapsed under the
+[[gothic-war-535-554|Gothic War]] (530s–50s); manpower, money, and military quality could
+not support the extended perimeter. Later rulers inherited “trappings” of power without
+effective defence of the core tax base. Harris warns against “vicarious identification”
+with Justinian’s empire (after Brent Shaw) as a historiographical distortion. The eastern
+contraction of c.560s–636/41 is treated as a **separate chain of events** from the western
+fifth-century collapse — not a delayed epilogue to 476. Cross-links: [[roman-power]],
+[[battle-of-yarmuk-636]], [[heraclius]], [[fall-of-rome-causes]],
+[[causes-of-the-fall-of-the-western-roman-empire]].
+
+## From Tannous (2018)
+
+Justinian’s age is the backdrop for Miaphysite institutional survival ([[jacob-baradaeus|Jacob Baradaeus]]), coercion and compromise after Chalcedon, and the foundation of [[qenneshre|Qenneshre]] (ca. 530) after expulsions of Miaphysite monks — launching the educational infrastructure of [[post-chalcedonian-confessional-formation|post-Chalcedonian confessional formation]].
+
+- Source: [[tannous-making-medieval-middle-east-2018]]
+
+## Gibbon, *Decline and Fall* (1776–1788) — Chs. XL–XLIV
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]]’s Justinian is the hinge of the second “period” of decline: legislator and reconqueror whose name is eclipsed by his generals and whose finances, character, and sources remain classic *historiographical* portraits — not modern consensus.
+
+- **Origins and reign length:** Born near Sardica of “obscure Barbarian race”; uncle Justin rose from peasant foot-guards; Justinian co-emperor then sole in his 45th year; “governed the Roman empire thirty-eight years, seven months, and thirteen days.”
+- **Path to power:** Vitalian stabbed with seventeen wounds at a royal banquet; Justinian “accused as the assassin of a spiritual brother”; cultivated Catholics, circus, and senate rather than military glory.
+- **Procopius as triple source:** Wars (esteemed), *Buildings* (flattery), *Anecdotes* casting emperor and Theodora as demons who assumed human form “for the destruction of mankind”; Gibbon keeps residual “disgraceful facts” after the venom exhales.
+- **Finances:** Anastasius’s thrift (~320,000 pounds of gold / ~13 millions sterling over 27 years) exhausted by alms, buildings, wars, and ignominious treaties — “combat of rapaciousness and avarice, of splendor and poverty.”
+- **Character:** Easy of access, chaste and abstemious (monk-like fasts); neither beloved living nor regretted dead; cold ambition delighting in war while declining the field; “Belisarius still lives, to upbraid the envy and ingratitude of his sovereign.”
+- **Culture and forms:** “Justinian suppressed the schools of Athens and the consulship of Rome, which had given so many sages and heroes to mankind.”
+- **Endless Peace:** After five unprofitable Persian years he purchased a precarious truce for 440,000 pounds sterling to free forces against the Vandals.
+- **Western ambition:** Gibbon floats that the reign might have been equally prosperous had the peaceful master of the East abstained from conquering Africa and Italy — ambition of fame producing feeble support for [[belisarius|Belisarius]].
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/gibbon-edward]]
+
+## Woolf, Rome: An Empire's Story (2012)
+
+From [[woolf-rome-empires-story-2012]] Ch. XVII.
+
+- **Reconquest: gains and exhaustion.** Most dramatic eastern intervention (r. 527–65). Generals: North Africa from Vandals 533; Sicily and much of Italy from Ostrogoths by 540; beachhead in Visigothic Spain 551. Italian wars prolonged to 561 “exhausted the empire and made impossible the kind of cohabitation between Romans and Goths created by kings like Theoderic and senators like Cassiodorus.” Gains short-lived: Lombards invaded 568.
+- **Documentation, not structural big picture.** Exceptionally well documented by Procopius (wars, buildings, court intrigues), Justinianic legislation/codification, John the Lydian—but Woolf ranks Procopius among writers without real sense of the structural big picture (opposite pole: Zosimus as disaster chronicler). Political narrative of Justinian–Maurice–Phokas–Heraclius does not explain the end of the Roman Empire.
+- **Ideology under strain.** Rally subjects around Christian faith and legal/moral unity; western reconquest and church building won support—but ideology requiring constant success failed in hard times. “Christianity was a less effective imperial ideology than had been the traditional state cults” (schism; independent bishops, e.g. Rome). Athens philosophical schools closed 529.
+- **Quote:** “But the wars in Italy, which were prolonged until 561, exhausted the empire and made impossible the kind of cohabitation between Romans and Goths created by kings like Theoderic and senators like Cassiodorus.”
+
+## From Mitchell, Later Roman Empire (2015)
+
+Attributed claims from [[sources/mitchell-later-roman-empire-2015|Stephen Mitchell, *A History of the Later Roman Empire* (2015)]].
+
+- **Procopius as indispensable yet partial source.** Reign exhaustively documented above all via Procopius (staff of Belisarius from 526): *Wars* in classical form; *Secret History* (~550) a bitterly hostile palace exposé of Justinian, Theodora, Belisarius, Antonina, John the Cappadocian, and Tribonian written because *Wars* could not freely criticize a living emperor; *Buildings* encomiastically exaggerates building role. Perspective is elite Constantinopolitan, war-focused, cool toward doctrinal conflict.
+- **527–542 peak ambition on Anastasian surplus.** Fifteen years from accession to plague outbreak as “extraordinary achievement and ambition”: barely-touched Anastasian surplus; law codification; Christianization of eastern border peoples; African success sparking western reconquest of Arian kingdoms; Nika silencing mob and critics; “sleepless” emperor and constellation of talents ([[belisarius|Belisarius]], John the Cappadocian, Tribonian, Anthemius, Isidore, Procopius) aiming to restore Augustan/Constantinian dominion — “By the year 540 this was an aim that must have seemed within their grasp.”
+- **Outright religious intolerance as new hallmark.** Fifth-century anti-pagan laws often repeated ineffective earlier rules; under Justinian paganism re-emerged as priority: ~531 law defined pagans as unbaptized/refusing baptism, banned teaching and state employment, forced Christian education of children. “Outright Christian intolerance of other forms of religious practice and belief was a new hallmark of the Justinianic regime.” Related: [[late-polytheism|late polytheism]]; [[christianization-of-the-roman-empire|Christianization]].
+- **Fiscal reassertion vs magnates (Aphrodito).** Dioscorus archive: villages fighting for *autopragia* against extortionate landowners; Justinian’s 551 rescript sided with Aphrodito — “the central thrust of Justinian’s economic policy, to assert control over state revenues and restrict the de facto power which had increasingly been assumed by the landowning magnates.” Long-term problem: magnates were embedded in and indispensable to state institutions. Related: [[roman-imperial-taxation-and-fiscal-system|imperial taxation]].
+- **After 542: religious withdrawal and possible mental collapse.** Contemporaries noted that after 542 Justinian “concerned himself to an extraordinary degree with religious matters, and neglected virtually all secular business” (*Bell. Goth.* 7.35.11); only forty-six Novellae after 542; conspiracies of 549 and 561 met passive “merciful” responses. Mitchell’s rationalist reading of *Secret History* 12.20–23 (phantom/headless emperor reports) suggests serious irreversible mental breakdown after Justinian himself suffered the [[justinianic-plague-541|plague]] — “he had, quite literally, become a zombie, a ghost of his former self.” Empire continued under competent ministers.
+- **Late foreign policy: *rathumia* not simple incompetence.** Agathias and Menander contrast early reconquest dynamism with late lassitude (*rathumia*) — gifts/subsidies rather than eager war. Mitchell argues subsidy/diplomacy had impeccable pedigree; Romans still campaigned hard in Africa, Italy, Lazica in the 550s. Procopius’s damning close of *Wars*/*Secret History* (~550) was premature: Narses’ Italian victory (~554) showed resilience. Reconquest held the West on a **maritime** base (ports, naval control) rather than Illyrican land roads. By end of reign capacity was impaired by long wars, structural tax problems, “and above all by the recurring ravages of the plague.” Related: [[gothic-war-535-554|Gothic War]].
+- **Africa after reconquest: tax revolt and impoverishment.** 533 reconquest reimposed rigorous old land tax after Geiseric-era register destruction; assessment seemed “neither moderate nor endurable”; “Much of the resistance that spread over a generation following Justinian’s reconquest of Africa took the form of a major tax revolt.” Procopius closes *Vandal Wars*: surviving Africans “few in number and thoroughly impoverished.”
+- **559 Selymbria *adventus*: secular triumph → pious ceremonial.** Extreme contrast between 534 African military triumph and 559 “triumph” after Belisarius’s Kutrigur defense: rare journey to Selymbria for wall repairs, climax at Holy Apostles lighting candles for dead Theodora — ostentatious piety replacing secular military display.

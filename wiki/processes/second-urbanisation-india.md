@@ -18,8 +18,8 @@ produces:
   - Northern Black Polished Ware (NBPW) as hallmark of urban prosperity
   - Urban religious ferment producing Buddhism and Jainism
   - Settlement hierarchy from grama to mahanagara
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, archaic-period, classical-antiquity, south-asia]
 ---
 
@@ -163,6 +163,28 @@ stories) for descriptions of urban life is a recognised limitation. Avari's asse
 archaeological confirmation for most towns has not yet been established for the pre-Mauryan period,
 but "further advances in archaeological methods and techniques will confirm, not dispute, the
 contents of the texts regarding the towns of the sub-continent."
+
+## Fagan & Durrani (2020): dates, and the contested Aryan-migration genetics
+
+Fagan & Durrani (2020) corroborate this page's chronology with independent figures:
+**rice cultivation was established in the Ganges Basin by 1500 BCE**; **iron
+technology was in use subcontinent-wide by 800 BCE**; and the **sixteen
+mahajanapadas** on the Ganges Plain existed by roughly **600 BCE** (the term
+itself is not used in their text but the sixteen-kingdoms picture matches).
+Religious ferment challenging Brahmanism is dated to the 6th century BCE, naming
+both the **Buddha** and **Makkhali Gosala** as challengers.
+
+**Genetics and a live controversy.** Fagan & Durrani summarize aDNA evidence for
+**two migration waves** into South Asia: Zagros-region farmers/herders (7000–3000
+BCE) and "Aryan" steppe pastoralists from the Kazakhstan region after 2000 BCE,
+who brought Vedic Sanskrit; genetically, 50–60% of most South Asians' ancestry
+traces to the pre-migration population. The source explicitly flags this genetic
+picture as **politically contested**, with Hindu nationalist revisionists rewriting
+textbooks to deny an Aryan migration — a controversy paralleling the wiki's
+existing Indo-European-origins debate. This is recorded here **neutrally**, per
+wiki policy on contested topics; no position is adjudicated on this page.
+
+Source: Fagan & Durrani (2020), *World Prehistory: A Brief Introduction* (10th ed.).
 
 ## Related
 

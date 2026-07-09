@@ -9,8 +9,8 @@ affiliated_with: [avars]
 opposed_by: [avars, merovingian-franks]
 key_events: []
 key_processes: []
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, movement, early-middle-ages, eastern-europe]
 ---
 
@@ -65,4 +65,12 @@ human-trafficking network linking the Frankish east to both al-Andalus and the A
 
 - [[avars]] · [[dagobert-i]] · [[merovingian-byzantine-relations]] · [[bavaria]] · [[merovingian-franks]]
 - [[early-middle-ages]]
-- Source: [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] (Hardt, Ch. 20)
+- Source: [[sources/effros-moreira-oxford-handbook-merovingian-world-2020|Oxford Handbook of the Merovingian World]] (Hardt, Ch. 20); [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+**Balkans vacuum and Justinianic inadequacy.** After Hunnic collapse the Balkans were a “dangerous no-man’s land”; lower Danube held by sea from Constantinople; land routes west insecure. Post-Ostrogothic vacuum (Theoderic to Italy 489) filled by Turkic Bulgars (“Huns” in Procopius) and **Sclaveni** (Slavs) — successful Thracian incursions, defeated 528–9; Chilbudius successful 531–34 then killed north of the Danube → raids “at will.” Justinian rebuilt fortresses (*Buildings* 4) as strongpoints (Sirmium, Thermopylae, Isthmus), not continuous defense. Major 539 “Hun” (Bulgar/Kutrigur) raid reached the Corinth Isthmus and even the Hellespont — hard to separate from late-530s famine. Sclaveni in the 550s: graphic massacres and enslavement (Procopius via Mitchell); only Germanus’ Italian-bound army saved Thessalonica.
+
+**Slavic demographic transformation, not Avar dominance.** Decisive Balkan change was Slavic infiltration, not Avar hegemony (Avars, like Attila’s Huns, “fade from prominence within two generations”). Sclaveni least documented; name cognate with “slave”; virtually no named leaders; not large purposeful warrior tribes but lowland village populations from Dnieper–Dniester (former Gothic homelands); pit-dwellings; cattle and millet, upgrading to wheat/horses via Roman contact. Colonized marshy lowlands between Roman forts/towns — hard to trace archaeologically. Undramatic relentless language/demographic shift from the 520s; by late sixth/early seventh long-distance city raids and colonization into Greece and central Europe. Mitchell’s analogy: Slavic spread “comparable in many respects to the gradual spread of the Arabs across Syria throughout late antiquity, which was to prepare the way for the Islamic conquests.”
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell, *A History of the Later Roman Empire* (2015)]].

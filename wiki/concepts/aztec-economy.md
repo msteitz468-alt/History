@@ -5,7 +5,7 @@ origin: the market-and-tribute economy of Late Postclassic central Mexico, recon
 applies_to_periods: [Late Middle Ages, Early Modern]
 applies_to_regions: [mesoamerica]
 contested: yes
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [concept]
 ---
@@ -130,9 +130,31 @@ Together with Berdan's commodity-money and *pochteca* ethnography above, Charlto
 **spatial-political architecture**: modular *altepetl* economies, solar markets, calpixque tribute,
 and post-1428 core–periphery restructuring under a hegemonic rather than territorially deep empire.
 
+## Evans & Webster 2001 (Berdan Tribute; Clark; Feinman; Coe & Coe)
+
+Frances F. Berdan’s encyclopedia entries (Aztec Culture and History; Tribute) and related craft/market notes in [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]] refine the tribute ledger and market toolkit:
+
+### Tribute architecture
+
+- **Tribute** = goods/services by conquered populations to overlords (vs taxes by citizens). Ethnohistory is richest for the late Postclassic Aztec: *Matrícula de Tributos* and Codex Mendoza Part 2 (related pictorials with Nahuatl/Spanish annotations); a 1534 Spanish document on nearly the same provinces; Sahagún, Durán, Tezozomoc, Ixtlilxochitl.
+- Empirewide: **38 provinces** of 1–26 [[altepetl]] conquered by Mexica (often with Texcoco/Tlacopan); payments shared (Tenochtitlan ≈ Texcoco > Tlacopan). Multiple overlapping tribute layers (local lord + conquest state + imperial).
+- **Calpixque** collectors; *petlacalcatl* warehoused goods in [[tenochtitlan|Tenochtitlan]]. Schedules every **80 days**, biannually, or annually.
+- Goods: maize/beans/chia/amaranth bins; chiles, cacao, maguey/bees honey, salt; ~**665** warrior costume ensembles; nearly **300,000 textile items annually** from all but two Mendoza provinces; distant provinces paid greenstone, turquoise, gold, copper, amber, jaguar skins, feathers. Manufactured goods dominate; little armament. Border/strategic city-states often not on Matrícula rolls — tribute as reciprocal “gifts.”
+- Tribute alone was insufficient: local production, long-distance trade, and markets also moved goods; tribute most closely tied to imperial political/military goals.
+- Conquered areas as **tributary provinces** (existing *tlatoani* usually retained with tribute collectors, sometimes governor/garrison) vs diplomatic **“strategic provinces”** on borders/routes exchanging “gifts” and kinship with more reciprocity. Imperial growth shifted control toward jadeite, gold, tropical feathers matching expanding noble demand; tribute stimulated provincial specialized production of manufactured goods.
+
+### Markets, blades, cloth, food
+
+- **Tlatelolco market**: Cortés claimed **60,000** daily (higher than some conquistador-scale estimates elsewhere on this page); *pochteca* oversaw layout/judging; markets daily, 5-day weekly, or 20-day; cacao beans and standardized cotton cloth as money; cacao from Soconusco via tribute and merchants. Late Postclassic markets relatively open to commoners (luxury goods in commoner house excavations) — contrasting earlier elite-restricted luxuries (Michael E. Smith; John E. Clark).
+- Prismatic blades: artisan could produce **>100** nearly identical blades per core with a ~1.5 m lever pressure tool; blades sold cheap in Aztec markets; inset in wooden weapons (*macuahuitl* etc.) giving razor edges capable of decapitating a horse but needing frequent replacement (Clark).
+- Cotton cloth production was women’s work; cotton clothing restricted to nobility while maguey/yucca was commoner wear (with exceptions); *quachtli* plain white cotton cloaks as exchange media — one source equates cloak grades to **65–100** cacao beans, another **240–300**; *Matrícula* lists **65,600** *quachtli* among *tilmahtli* (Berdan; Feinman; Blanton).
+- Aztec craft specialization largely **domestic/household**, not industrial workshops; land and labor distributed through the political system rather than the market, the market distributing commodities and elite goods. Money-like goods: cotton cloaks, cacao beans, gold-dust quills, copper beads/axes, jade (Feinman; Blanton).
+- Cuisine (Sophie Coe and Michael Coe): Aztec staples from tribute/Sahagún — maize, beans (12 varieties), *chian* (*Salvia*), *huauhtli* (Amaranthus/Chenopodium — ritual dough images of gods, esp. Huitzilopochtli), squash seeds, many chiles; “fasting” = without chile and salt. Domesticates: turkey, Muscovy duck, dog (principal animal protein; raised by tens of thousands). Lake foods: *Spirulina* cakes, shrimp, small fish, axolotl. On cannibalism, most scholars agree never massive scale; selected war captives, ~**15 g** per person, eaten without chile/salt as a religious act.
+
 ## Related
 
 [[aztec-empire]] · [[tenochtitlan]] · [[altepetl]] · [[chinampa-agriculture]] ·
 [[aztec-religion-and-human-sacrifice]] · [[triple-alliance-formation-1428]] ·
 [[mita-and-andean-reciprocity]] (the contrasting Inca model) · [[mesoamerican-state-formation]] ·
-[[berdan-aztecs-2021]] · [[cambridge-history-native-peoples-americas-v2-1]]
+[[berdan-aztecs-2021]] · [[cambridge-history-native-peoples-americas-v2-1]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

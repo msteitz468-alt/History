@@ -3,13 +3,13 @@ title: Tyre
 place_type: city
 modern_equivalent: [Sour, southern Lebanon]
 coordinates: [33.27 N, 35.20 E]
-period_active: [Late Bronze Age, Early Iron Age, Archaic Period, Classical Antiquity]
-controlled_by: [[[phoenicians|Phoenician city-state]], at times [[neo-assyrian-empire|Assyrian]] and [[neo-babylonian-empire|Babylonian]] suzerainty, [[achaemenid-empire|Persia]], Macedon]
-events_here: [Sennacherib's expulsion of Luli, Esarhaddon's treaty, [[nebuchadnezzar-ii|Nebuchadnezzar II's]] 13-year siege, Alexander's siege (332)]
-processes_here: [[[phoenician-colonization|Phoenician colonization]], the murex-purple and timber trades, the cult of Melqart]
-sources_ingested: 1
-last_updated: 2026-06-11
-tags: [place, levant, mediterranean, archaic-period]
+period_active: [Late Bronze Age, Early Iron Age, Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
+controlled_by: [Phoenician city-state, Assyrian and Babylonian suzerainty, Persia, Macedon, Fatimids, crusader kingdom of Jerusalem, Ayyubids, Mamluks]
+events_here: [Sennacherib's expulsion of Luli, Esarhaddon's treaty, Nebuchadnezzar II's 13-year siege, Alexander's siege 332, Frankish sieges 1112 and 1124, Saladin siege 1187-88]
+processes_here: [phoenician-colonization, crusades]
+sources_ingested: 2
+last_updated: 2026-07-08
+tags: [place, levant, mediterranean, archaic-period, high-middle-ages]
 ---
 
 # Tyre
@@ -70,8 +70,20 @@ capital and colonial metropolis** to **imperial vassal** (Assyrian, Babylonian, 
 its independence finally ended by Alexander — after which it remained an important
 Hellenistic and Roman port.
 
+## Crusades-era Tyre (Cobb 2014)
+
+[[cobb-race-for-paradise-2014|Cobb, *The Race for Paradise* (2014)]] covers Tyre as the Levantine coast’s last major Muslim holdout of the early twelfth century and as Saladin’s great missed opportunity after Hattin.
+
+**Coastal mop-up and 1112 hold.** After Genoese-assisted Frankish captures of Jaffa/Haifa/Arsuf/Caesarea (**1100**), Jubayl and Acre (**1104**), Beirut and Sidon (**1110**), Franks concentrated on Tyre from **February 1112**. Arab sailor defenses (winch/rams); Tyrians offered the city to Tughtakin of Damascus; he harassed the Franks, raided forts, and blockaded Sidon until the Franks lifted the siege to Acre. Tughtakin took control but wrote the Fatimids he would hold only until they claimed it—Tyre remained Muslim for the moment. Franks finally took Tyre in **1124** after nearly twenty-five years of pressure, completing near-total Mediterranean coast control in the kingdom’s orbit.
+
+**1187–88: Conrad’s defense.** After [[battle-of-hattin-1187|Hattin]] and the [[fall-of-jerusalem-1187|fall of Jerusalem]], Saladin reconnoitered Tyre twice but left it untouched—an “act of expediency he would live to regret.” He relocated to besiege Tyre even before Jerusalem’s affairs were fully settled. Ibn Jubayr (passed through **1184**) called Tyre proverbially impregnable, prepared as a Frankish refuge; harbor key—walls on three sides, mole, chain between seaward towers. One chronicler suggests the city, thronged with Frankish refugees but leaderless, was about to surrender before **Conrad of Montferrat** arrived and rallied the defense. Saladin blockaded by land and sea with five galleys; on **30 December 1187** Conrad’s dozen-plus galleys broke the blockade because Muslim watch sailors had fallen asleep; Muslim ships fled, beached, hulls stove in. **1 January 1188**: Saladin withdrew; armies dispersed; morale, supplies, and funds low despite a final massive assault. The September **1192** truce left Franks holding the coast from Tyre to Jaffa.
+
+**End.** After Acre fell (**18 May 1291**), Tyre, Sidon, Beirut, and Haifa soon surrendered with little or no resistance (Tyre: few dozen old men and women per Cobb’s summary of Muslim accounts).
+
 ## Related
 
-- People: [[phoenicians]] · Daughter-city: [[carthage]] · Process: [[phoenician-colonization]]
+- People: [[phoenicians]] · Daughter-city: [[carthage]] · Process: [[phoenician-colonization]] · [[crusades]]
 - Overlords: [[neo-assyrian-empire]] · [[neo-babylonian-empire]] ([[nebuchadnezzar-ii]]) · [[achaemenid-empire]]
-- Far west (Melqart): [[gades-tartessos]] · Period: [[archaic-period]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 32)
+- Crusades: [[jerusalem]] · [[antioch]] · [[crusader-states]] · [[saladin]] · [[fall-of-acre-1291|Fall of Acre 1291]]
+- Far west (Melqart): [[gades-tartessos]] · Period: [[archaic-period]]
+- Sources: [[boardman-cah-v3p2-1991]] (Ch. 32); [[cobb-race-for-paradise-2014|Cobb, *The Race for Paradise* (2014)]]

@@ -131,6 +131,51 @@ swept it away. Its Monophysite religious independence and its role as patron of 
 courtly culture — a direct model for the Umayyads — make it, for Ball, a crucial link
 between the pre-Islamic Roman Near East and the Islamic caliphate that succeeded it.
 
+## Fisher (2020): The Jafnid super-phylarchate
+
+Fisher (*Rome, Persia, and Arabia*, 2020) gives the fullest recent account of the Ghassan's
+6th-century ruling dynasty, the **Jafnids**, and largely supersedes Ball on chronology and
+mechanics. Arab-Islamic tradition (Ibn Habib, al-Yaqubi) traces the dynasty's
+establishment to a Ghassan migration into Salih territory and a Roman treaty granting
+self-rule under a king, Jafna — the dynasty's eponym. Christian Robin argues an earlier,
+separate Ghassan branch ("Thalaba the king," attested in a late-5th-century Eilat-region
+inscription; his successor "Arethas son of Thalabene" was killed by the Persian Arab
+Alamoundaros c. 528/9) is distinct from **[[al-harith-ibn-jabala]]**'s own line — the exact
+relationship is "murky," though Arab-Islamic tradition claims Arethas's daughter Hind
+married Alamoundaros.
+
+In c. 528/9 Justinian elevated al-Harith ibn Jabala to the **[[super-phylarchate|super-
+phylarchate]]** — chief phylarch over all other Roman Arab phylarchs, personally
+responsible to the emperor, explicitly to counter the Persian Arab super-phylarch
+Alamoundaros (**[[al-mundhir-iii-lakhmid]]**, d. 554). Al-Harith fought at Callinicum (531)
+and, after the 545 Rome-Persia truce, continued an independent tribal feud with
+Alamoundaros, finally killing him near Qinnasrin/Chalcis in 554. Al-Harith traveled to
+Constantinople in 563 to arrange succession with Justinian and died in 569/70, passing the
+super-phylarchate to his son **[[al-mundhir-ibn-al-harith]]**. Robin observes that
+al-Harith's elevation (528/9) roughly coincides with Aksum's invasion of [[himyar|Himyar]]
+(525) — a chronological pattern he also finds at the collapse end of both systems.
+
+Al-Mundhir ibn al-Harith received the right to wear a diadem from Tiberius II (580),
+mediated a major Monophysite ecclesiastical schism, and joined Maurice's 581 invasion of
+Persia, after which hostile sources blamed him for its failure. He was entrapped via a
+plot by the court figure Magnus, arrested, and — after Maurice succeeded Tiberius II —
+**exiled to Sicily in 582**, an event Fisher compares explicitly to Rome's treatment of
+[[zenobia|Zenobia]] after Palmyra's fall. Michael the Syrian's phrase for the resulting
+disintegration, "the empire of the Christian tayyaye," dates its end precisely to this
+582 exile; Michael counted fifteen princes in "the wreckage of the kingdom of the
+tayyaye," most going over to Persia. Fisher's structural point: the Roman-Persian
+super-phylarchate system solved a real frontier-defense problem but produced unintended
+"states-in-waiting" at empires' edges — had Rome and Persia been weaker, al-Mundhir or his
+Persian counterpart al-Numan III might have followed the trajectory of [[clovis|Clovis]]
+or [[theoderic-the-great|Theoderic]] into true independent kingship.
+
+Robin separately notes that Christian Robin's Eilat-region evidence implies the pre-Jafnid
+"Thalaba" branch of Ghassan is genealogically separate from al-Harith ibn Jabala's own
+Jafnid family line — a distinction worth preserving against any account that treats early
+and later Ghassanid leadership as a single unbroken line.
+
+Source: [[sources/fisher-rome-persia-arabia-2020|Fisher, *Rome, Persia, and Arabia* (2020)]].
+
 ## Historiography
 
 Evidence for Ghassanid history combines Byzantine administrative and ecclesiastical
@@ -151,5 +196,9 @@ controversy.
 - [[roman-syria|Roman Syria]]
 - [[christianization-of-the-roman-empire|Christianization of the Roman Empire]]
 - [[orientalization-of-rome-thesis|Orientalization of Rome (thesis/controversy)]]
+- [[al-harith-ibn-jabala]]
+- [[al-mundhir-ibn-al-harith]]
+- [[super-phylarchate]]
 
-Source: [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]].
+Source: [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]];
+[[sources/fisher-rome-persia-arabia-2020|Fisher, *Rome, Persia, and Arabia* (2020)]].

@@ -9,8 +9,8 @@ affiliated_with: [the Bronze Age cultures of the Yellow River basin]
 opposed_by: [rival "segmentary states", the Zhou (who overthrew them)]
 key_events: ["the Anyang cult-centre (c. 1240–1040 BCE)", "the oracle-bone divinations", "the Zhou conquest (c. 1046 BCE)"]
 key_processes: [Chinese bronze metallurgy, the origins of Chinese writing, [[early-china-state-formation]]]
-sources_ingested: 5
-last_updated: 2026-06-27
+sources_ingested: 6
+last_updated: 2026-07-08
 tags: [actor, dynasty, bronze-age, china, east-asia]
 ---
 
@@ -163,3 +163,20 @@ system of great political influence centred on wine vessels" (see [[east-asian-b
 notes the **Simuwu/Houmuwu fangding** (875 kg) from Lady Jing's tomb as the largest Shang vessel, and
 reads the Late Shang attention-shift toward the Shandong **Dongyi** in the oracle bones. **Source:**
 [[barnes-archaeology-east-asia-2015]].
+
+## Fagan & Durrani (2020): independent origins and Anyang's dead
+
+Fagan & Durrani (2020) reinforce the **independent (pristine) formation** of Chinese
+civilization: "Early Chinese civilization emerged independently of state-organized
+societies in the west," and Shang bronzeworking "developed quite independently from
+the West before 2000 BC" — no diffusion from Mesopotamia or the Near East. At
+**Anyang**, royal graves held large-scale **human sacrifice**, some victims decapitated.
+
+**Dating note (source-flagged):** Fagan & Durrani date the Shang **1766–1122 BCE** —
+one of several competing traditional Shang chronologies, and earlier/longer than the
+more commonly cited **c. 1600–1046 BCE** used elsewhere on this page (Keay, Major &
+Cook). This reflects the source's own dating choice, not a wiki-voice correction; the
+underlying independence-of-origin and Anyang-sacrifice claims are consistent across
+sources regardless of which chronology is used.
+
+Source: Fagan & Durrani (2020), *World Prehistory: A Brief Introduction* (10th ed.).

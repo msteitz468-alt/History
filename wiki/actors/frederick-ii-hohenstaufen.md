@@ -7,10 +7,10 @@ period: [High Middle Ages]
 region: [western-europe, mediterranean]
 affiliated_with: [the Hohenstaufen dynasty, the [[kingdom-of-sicily|kingdom of Sicily]], the empire]
 opposed_by: [the papacy (Gregory IX, [[innocent-iii|Innocent III's successors]], Innocent IV), the Lombard League, his son Henry (VII)]
-key_events: [the battle of [[battle-of-bouvines-1214|Bouvines]] (1214), the Fourth Lateran Council recognition (1215), the Sixth Crusade (1228–1229), the deposition at the First Council of Lyons (1245)]
+key_events: [the battle of [[battle-of-bouvines-1214|Bouvines]] (1214), the Fourth Lateran Council recognition (1215), the Sixth Crusade (1228–1229), [[war-of-the-lombards-1228]], the deposition at the First Council of Lyons (1245)]
 key_processes: [the personal union of Empire and Sicily, the consolidation of German princely power (Statutum in favorem principum), the papal–imperial struggle]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, western-europe, mediterranean]
 ---
 
@@ -23,6 +23,17 @@ papacy defined the era's central political drama. [[abulafia-ncmh-v5-2000|NCMH V
 Toch, Ch. 9a, on Germany; David Abulafia, editor, on Sicily) presents his reign through a
 revisionist lens, sceptical of the older image of a precocious state-builder strangled by
 the papacy.
+
+### Cyprus and the Latin East ([[edbury-kingdom-cyprus-crusades-1991|Edbury 1991]])
+
+As suzerain of the [[kingdom-of-cyprus|kingdom of Cyprus]] (imperial investiture of Aimery
+by Henry VI), Frederick claimed regency, homage and minority revenues during Henry I's
+minority. His 1228–29 crusade precipitated the [[war-of-the-lombards-1228|War of the
+Lombards]] against the [[ibelin-family|Ibelins]]: Limassol banquet, five baillis, Filangieri
+expedition (1231–33). Ibelin victory at Agridi and Kyrenia ended effective Hohenstaufen
+control; 1242 loss of Tyre; **1247 Innocent IV absolved Henry of oaths to Frederick** —
+"No more is heard of Cyprus as a client-kingdom of the Western Empire." Treaty with
+al-Kamil (Feb 1229) restored Jerusalem without reconciling Latin Syrian opinion.
 
 ## The Rise to Empire
 

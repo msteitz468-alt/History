@@ -864,3 +864,171 @@ Reference: grant clean required 3 targeted replaces; Musk R05 log+index added to
 **Issue:** When a per-agent chunk equals a full chapter but the prompt's FOCUS covers only part of that chapter's content, the agent honours the focus and leaves the rest of its exclusive slice unextracted — creating a silent coverage hole that only surfaces because a well-behaved agent flags it.
 **Suggested improvement:** In Step 3, add: an agent's FOCUS must span its entire exclusive line-range. If a chapter mixes two topics you'd rather brief separately, either (a) give one agent both topics as its focus, or (b) split the line-range so each focus maps to its own disjoint slice. Never hand an agent a slice wider than its stated focus.
 **Principle:** Exclusive-ownership only guarantees coverage if each owner's mandate covers all of what it owns. A focus narrower than the slice reintroduces the very gap the disjoint-partition was meant to prevent.
+
+### Observation 64: Roman-numeral person slugs can be the wrong entity (tsar vs pope)
+
+**Date:** 2026-07-08
+**Session context:** Ingest of Logan, *A History of the Church in the Middle Ages*
+**Skill:** Internal: wiki-ingest / CLAUDE.md naming + duplicate pre-scan
+**Type:** internal
+**Phase/Area:** Step 1 scaffold / duplicate-page pre-scan
+
+**Issue:** Existence checks for `nicholas-i` and `alexander-iii` returned true, so extractors and the source-page CANONICAL list treated them as the medieval popes. Both pages are actually nineteenth-century **Russian emperors**. Integrators correctly refused to clobber them and created `pope-nicholas-i` and `alexander-iii-pope`; similarly `hildegard` was Charlemagne's queen, not Hildegard of Bingen. The pre-scan only checked slug presence, not identity (title/period/region).
+
+**Suggested improvement:** In the ingest pre-scan / CANONICAL_NAMES step, when a slug exists, **read the page title and period** (first ~15 lines). If the entity is wrong, mint a disambiguated slug (`pope-X`, `X-of-place`) and record it before spawning extractors. Add to CLAUDE.md "duplicate-page pre-scan": existence is necessary but not sufficient — verify identity for shared regnal names and roman numerals.
+
+**Principle:** A green "EXISTS" on a slug is not a green light to link if the page is a different person. Shared personal names and roman numerals across cultures are high-risk collision zones; identity-check the title, not just the filename.
+
+### Observation 65: Duplicate-page pre-scan must cover transliteration variants
+
+**Date:** 2026-07-08
+**Session context:** Formichi *Islam and Asia* ingest. A subagent created actors/chagatai-khanate.md while an established actors/chaghatay-khanate.md already existed (4 inbound links, Hodgson-sourced). The Step-1 duplicate pre-scan missed it because it only checked the "chagatai" spelling and a "chag*khanate" glob that the agent's chosen slug happened to match but the canonical "chaghatay" did not surface in the relevant grep. Caught only during main-thread integration when the mongol-conversion event page referenced the other spelling.
+**Skill:** CLAUDE.md ingest workflow (Step 1 duplicate-page pre-scan)
+**Type:** internal
+**Phase/Area:** duplicate pre-scan / naming reconciliation
+
+**Issue:** The pre-scan checks name-order variants (surname-first vs given-first) but not TRANSLITERATION variants of the same non-English name (chaghatay/chagatai, quran/koran, mohammed/muhammad, umayyad/omayyad). Islamic/Central-Asian/Chinese material is especially prone to this. Result: a subagent mints a near-duplicate under a different romanization.
+**Suggested improvement:** Add to the Step-1 duplicate pre-scan: for every non-Latin-origin entity the ingest will touch, grep the wiki for plausible transliteration variants (vowel swaps a/o/u, gh/g, q/k, y/i/ai endings, doubled consonants) BEFORE spawning, and state the canonical existing slug in the agent prompt. When an ingest is heavy in one naming tradition (Arabic, Persian, Turkic, Chinese pinyin/Wade-Giles), run a variant sweep as a matter of course.
+**Principle:** A duplicate check keyed on one spelling of a transliterated name gives false confidence; the canonical page can exist under a romanization you didn't grep. Enumerate spelling variants, not just word-order variants.
+
+### Observation 66: Extraction agents over-propose granular NEW pages on well-trodden large-volume ingests
+
+**Date:** 2026-07-08
+**Session context:** Ingesting *The Cambridge Economic History of the Greco-Roman World* (Scheidel/Morris/Saller 2007, 28 chapters, ~401k words) into a wiki already dense in classical-antiquity coverage. Deployed-subagent strategy: 11 extraction agents → claims files → 5 integration agents.
+**Skill:** CLAUDE.md ingest workflow (Deployed Subagent Strategy) — relates to existing memory [[ingest-subagent-overlinking]]
+**Type:** internal
+**Phase/Area:** Step 3 extraction prompts / Step 4 main-thread reconciliation
+
+**Issue:** Extraction subagents reliably proposed too many fine-grained NEW pages from single chapters — e.g. Ch.4 (Household & Gender) yielded four proposed pages (household-economy, women-property-rights, guardianship-of-orphans, gendered-labor-division); other chapters proposed standalone roman-frontier-economy, roman-manufacturing-and-mining, christian-economic-ethics, roman-per-capita-income-GDP-controversy, roman-slave-mode-of-production pages. The main thread consolidated each cluster into one parent page (ancient-household-economy; roman-provincial-economy absorbing the frontier zone; late-roman-economy absorbing Christian ethics; roman-consumption folding in the GDP debate as a historiography subsection). This is distinct from the known wikilink over-bracketing pattern — it is over-fragmentation at the *page* level. Left unconsolidated it would have produced ~35 thin pages instead of 21 substantive ones.
+
+**Suggested improvement:** In extraction-agent prompts, keep the instruction to *propose* target pages but explicitly tell agents to prefer folding a chapter's sub-topics into ONE consolidated page and to mark finer splits as "optional sub-sections, main thread's call" rather than as separate page proposals. Reserve the create/split decision for the main thread's Step-4 reconciliation (or, in the two-stage variant, pre-decide the consolidated page set during Step-1 scaffolding and pass it to integrators as the canonical target list — which worked well here: the 5 integrators were each handed an explicit "CONSOLIDATE into ONE page, do NOT create separate tiny pages" instruction and complied cleanly).
+
+**Principle:** Bulk extractors optimize for capturing everything they see and therefore over-split; page-granularity is a structural/taxonomy decision that must stay with the main thread. Give subagents a pre-decided consolidated target list, not license to mint pages — the same principle as reserving naming/linking decisions for the main thread, applied one level up at page creation.
+
+### Observation 67: Full multi-volume survey mislabeled by split-paperback filename
+
+**Date:** 2026-07-08
+**Session context:** Ingesting Boardman/Griffin/Murray *Oxford History of the Classical World*
+**Skill:** CLAUDE.md ingest / word-count intake (Deployed Subagent Strategy)
+**Type:** internal
+**Phase/Area:** Step 1 intake / source identification
+**Status:** OPEN
+
+**Issue:** The raw file was named *…Greece and the Hellenistic World.md* (the paperback split title), but the TOC and body contained the **full** 32-chapter classical survey including Rome (chs 16–32 + Envoi). Treating the filename as scope would have under-chunked Rome and mis-filed the source as a Greece-only volume.
+
+**Suggested improvement:** At intake, always reconcile **filename vs TOC chapter list** for multi-author Oxford/Cambridge paperbacks that were split for reprint; state the actual coverage on the source page and in the Top_100 note. Do not size ranges from the short title alone.
+
+**Principle:** Collection filenames are not bibliographic authorities — TOC/body structure is. Split-series reissues are a recurring trap for under-scoping large multi-author volumes.
+
+### Observation 68: OCR numeral corruption is a distinct intake risk from word-count truncation
+
+**Date:** 2026-07-08
+**Session context:** Ingesting Osborne (ed.), *Classical Greece 500–323 BC* (2000) via Deployed Subagent Strategy (4 extraction + 5 integration Sonnet agents).
+**Skill:** CLAUDE.md ingest workflow (Deployed Subagent Strategy, Step 1 intake check / Step 3 extraction-prompt standing instructions)
+**Type:** internal
+**Phase/Area:** Step 1 word-count intake check; Step 3 subagent standing instructions
+
+**Issue:** The source passed the word-count intake check cleanly (~103k words, ratio healthy, not truncated) — but the PDF→md conversion had pervasively corrupted *numerals*: talent sums, tribute totals, troop/population counts, dates, and interest rates were dropped or garbled throughout (e.g. "in the s", "[X],000 talents", blank casualty figures). All four extraction agents independently flagged this and reconstructed figures from context, correctly marking them uncertain. Because I had pre-emptively put a "hedge all reconstructed numerals; state only canonical figures as exact" rule in every extraction and integration prompt, no wrong precise figure reached a live page — but that rule was added ad hoc this session, not from the workflow.
+
+**Suggested improvement:** Add numeral-integrity to the Step 1 intake check as a *separate* signal from length ("spot-grep the body for blank/broken numerals in a few number-dense pages"), and make "flag every reconstructed numeral; never assert an OCR-derived figure as exact — hedge or omit; state only independently canonical figures as exact" a *standing* line in the Step 3 extraction-prompt and Step 4/Stage-2 integration-prompt boilerplate, alongside the existing coverage-report / entity-mismatch / internal-duplication standing instructions.
+
+**Principle:** Passing the length-based intake check certifies completeness, not fidelity. OCR/ebook conversions degrade the highest-stakes, least-redundant tokens (numbers) precisely where prose context can't reconstruct them, so numeral hedging must be a default posture for every converted source, not a per-session afterthought.
+
+### Observation 69: Wikilink checker's --changed mode is polluted by a dirty working tree; isolate new links via --all + per-file awk extraction
+
+**Date:** 2026-07-08
+**Session context:** Ingesting Keegan, *Graffiti in Antiquity* (2014). Needed to prove "0 new broken links" for the ~15 pages the ingest created/edited.
+**Skill:** CLAUDE.md ingest workflow (Step 5 lint/validate)
+**Type:** internal
+**Phase/Area:** Lint & validate — proving 0-new broken links
+
+**Issue:** `wikilink_checker.py --changed` scopes to git-changed files, but the working tree already carried ~430 pre-existing modified files (visible in the session-start git status). So `--changed` reported 103 broken links spanning many files the ingest never touched — useless for isolating *this* ingest's contribution. The global total (956) is likewise dominated by a large pre-existing baseline. The reliable method was: run `--all` once to a temp file, then `awk -v f="path.md:" 'BEGIN{s=0}/:$/{s=($0==f)}s'` per each page the ingest actually created/edited. This surfaced exactly the per-page broken links, showing the ingest introduced only one new one ([[imhotep]]), which was then de-linked.
+
+**Suggested improvement:** In CLAUDE.md Step 5, note that `--changed` is unreliable when the working tree is already dirty with unrelated modifications (common here — the repo is frequently mid-edit). Recommend the `--all` + per-file awk-extraction pattern (grep/awk the checker's `--all` output for each page in the ingest's own created/updated set) as the cheap way to prove 0-new without a stash dance. The existing stash-comparison tip addresses the 50-file print cap; this addresses a different failure (dirty-tree pollution of --changed).
+
+**Principle:** To attribute lint deltas to your own change set, filter the checker's *full* output down to the exact files you touched — do not trust a git-diff-scoped flag when the working tree contains unrelated in-flight edits.
+
+### Observation 70: Duplicate pre-scan must cover cross-language / epithet name variants
+
+**Date:** 2026-07-08
+**Session context:** Ingesting Fisher, *Rome, Persia, and Arabia* (2020). Scaffolding named a new actor page `mavia` for the Arab queen; an existing canonical page `queen-mawiyya` already covered her (Latin "Mavia" vs Arabic "Mawiyya" rendering of the same name). A page-writing subagent had already begun creating the duplicate before the main thread caught it via a tail-read of a related page's Related list.
+**Skill:** CLAUDE.md ingest workflow (Step 1 duplicate-page pre-scan)
+**Type:** internal
+**Phase/Area:** Step 1 scaffold — duplicate-page pre-scan
+
+**Issue:** The pre-scan heuristics in CLAUDE.md name two vectors: both surname/given orders and synonymous event titles. They do not explicitly name the vector that bit here — the SAME person under a different-language transliteration or an epithet-vs-name form (Mavia/Mawiyya; also latent risk with Alamoundaros/al-Mundhir, Arethas/al-Harith, Dhu Nuwas/Joseph/Yusuf). The existing page also used a `queen-` prefix the ingest's naming convention (surname-given) would never have guessed.
+
+**Suggested improvement:** Add to the Step-1 duplicate pre-scan an explicit check for cross-language/transliteration and epithet variants of every person/place the ingest will touch, especially for ancient Near Eastern figures who appear under Greek, Latin, Syriac, and Arabic names. Concretely: before naming any new actor page, grep the wiki for the figure's alternate renderings and for descriptive-prefix slugs (`queen-`, `king-`, `saint-`). Cheaper than a mid-run subagent recall.
+
+**Principle:** Duplicate detection must key on the *referent*, not the string. For multilingual source domains a single historical person routinely has 3–4 attested name forms; a pre-scan that only permutes word order misses the most common duplicate vector in exactly the domains (antiquity, translated primary sources) this wiki ingests most.
+
+### Observation 71: When an ingest's new pages dangle-link a page-worthy entity, grep for pre-existing dangles of the same slug before deciding create-vs-delink
+
+**Date:** 2026-07-08
+**Session context:** Ingesting Mark R. Cohen, *Under Crescent and Cross* (Deployed Subagent Strategy). New/updated pages referenced several non-existent slugs (cairo-geniza, al-hakim, granada-massacre-1066, kiddush-ha-shem, radhanites, umar-ibn-al-khattab, al-mansur-almohad, fatimids). Standard Step-5 broken-link resolution is create-the-page-or-delink-to-plain-text.
+**Skill:** CLAUDE.md ingest workflow (Deployed Subagent Strategy, Step 4–5 tie-together/lint)
+**Type:** internal
+**Phase/Area:** Step 5 broken-link resolution / create-vs-delink triage
+
+**Issue:** Deciding whether a dangling wikilink target deserves its own page or should be delinked is usually judged only by the *current* ingest's needs. But `grep -rl "\[\[<slug>"` across the whole wiki before deciding revealed that `cairo-geniza` was *already* dangle-linked by an unrelated existing page (`processes/afro-eurasian-world-system.md`) — so creating it resolved both the new reference and a pre-existing broken link in one move. Separately, `fatimids` looked missing but a whole-wiki `find`/grep showed the page existed under a different slug (`fatimid-caliphate`) with many inbound links, so the correct fix was to re-point the link, not create a duplicate.
+
+**Suggested improvement:** Add to Step 5: before resolving any dangling wikilink introduced by an ingest, run two whole-wiki greps on the bare slug — (1) `grep -rl "\[\[<slug>"` to see if *existing* pages already dangle the same target (if so, creating the page clears a pre-existing broken link too, strengthening the create decision and improving the wiki beyond the ingest's footprint), and (2) a `find -iname "*<root>*"` / alias check to catch the entity already existing under a different slug (re-point, don't duplicate). This converts create-vs-delink from a local judgment into a wiki-wide one.
+
+**Principle:** A broken link introduced by new work is an opportunity to survey the wiki's *existing* dangling references and canonical-slug aliases for the same entity; resolving links against the whole graph (not just the current change set) both prevents duplicate pages and opportunistically repairs latent breakage.
+
+### Observation 72: Preface/front-matter can fall outside first body-range cache when slicing from key-dates
+
+**Date:** 2026-07-08
+**Session context:** Ingesting Woolf *Rome: An Empire's Story* via two-stage Deployed Subagent Strategy
+**Skill:** Project ingest workflow (CLAUDE.md Deployed Subagent Strategy) — internal
+**Type:** internal
+**Phase/Area:** Step 2 cache slicing / Stage 1 extraction
+**Status:** OPEN
+
+**Issue:** Range 1 was cut from line 378 (first "key dates in chapter i") so subagents never saw the Preface (lines ~56–210), which held the book's load-bearing theses (empire as pattern/resonance; longevity as modern puzzle; hard-matter roads/ports). The agent correctly reported "Preface missing from this cache." Main thread recovered the preface after Stage 1.
+
+**Suggested improvement:** When drawing the first body range, include Preface/Introduction/Notes on method if they sit before chapter 1 key-dates or chapter openers — either extend range 1 upward to the Preface start, or cut a dedicated main-thread "front-matter" slice and extract it before or with Stage 1. Do not assume "body starts at first key-dates block."
+
+**Principle:** Structural front matter often carries the author's controlling thesis; range maps drawn only from chapter/key-date markers systematically drop it unless the scaffold step explicitly includes it.
+
+### Observation 73: wikilink_checker --changed is polluted by a broadly-dirty tree; prove 0-new via --all + per-file awk on session slugs
+
+**Date:** 2026-07-08
+**Session context:** Ingest of Jiwa, *The Fatimids: 1* (21 new pages, 7 updated) into the World History Wiki.
+**Skill:** World History Wiki ingest workflow (CLAUDE.md, "Lint and validate" / "proving 0 new broken links")
+**Type:** internal
+**Phase/Area:** Step 5 — Lint and validate
+
+**Issue:** CLAUDE.md's guidance for proving "0 new broken links" prescribes a stash-comparison (move the change set aside, get a baseline total, restore, compare). The `wikilink_checker.py` now exposes a `--changed` flag, which looks like a shortcut — but it scopes to the *entire git-dirty tree*, not the current session's files. Because the wiki working tree is very often already broadly dirty (this session began with ~hundreds of modified files from prior sessions), `--changed` surfaced 139 broken links across unrelated pages (alexander-iv, eastern-zhou, etc.), none from this ingest — making it useless for isolating *my* new breakage. The stash-comparison also gives only a total, not a per-file attribution.
+
+**Suggested improvement:** Add to the CLAUDE.md lint step: to prove 0-new broken links for an ingest, run `wikilink_checker.py --all > /tmp/wlc.txt` once, then filter to the session's own created/edited slugs with a per-file awk block (match `^slug.md:` start, stop at the next `^*.md:$`, print `→` lines between). This gives precise per-page confirmation that each *new* page has zero broken outbound links and isolates any breakage introduced into *updated* pages, cleanly separating it from the pre-existing dirty-tree noise that both `--changed` and a bare total conflate. Keep the stash-comparison only as a fallback when a global new-vs-old total is specifically wanted.
+
+**Principle:** When a repo's working tree is chronically dirty, "changed-files" tooling scoped to git status is unreliable for attributing new problems to the current task — scope verification to the explicit list of artifacts the task produced, not to VCS dirtiness. Per-artifact attribution beats aggregate deltas when isolating a session's own contribution.
+
+### Observation 74: Duplicate-page pre-scan must cover morphological name variants, not just name-order
+
+**Date:** 2026-07-08
+**Session context:** Ingesting Fagan & Durrani *World Prehistory* (10th ed., 2020). Two Stage-1-scaffolded "new" actor pages (`chimu`, `toltecs`) turned out to duplicate existing canonical pages created by prior/concurrent ingests (`chimor`, `toltec`). The wikilink checker did NOT catch them (both slugs resolve), exactly as CLAUDE.md warns. Caught only when reading `index.md` during bookkeeping, which listed the prior CHNPA-III ingest's Andean pages.
+**Skill:** CLAUDE.md ingest workflow (Step 1 duplicate-page pre-scan) — project-internal, not the open-source task-observer skill.
+**Type:** internal
+**Phase/Area:** Deployed Subagent Strategy — Step 1 pre-scan; Step 4 reconciliation.
+
+**Issue:** The Step-1 duplicate pre-scan (as written in CLAUDE.md) emphasizes checking *both name orders* for persons (de-gaulle-charles / charles-de-gaulle) and synonymous event titles. It does not explicitly call out **morphological/orthographic variants of the same entity name**: Spanish-vs-anglicized (`chimor`/`chimu`) and singular-vs-plural (`toltec`/`toltecs`). My pre-scan checked candidate slugs like `chimu`/`chimu-empire` and `toltecs` and found nothing, so I authorized creation — but the canonical pages lived under the *other* form. Subagents (correctly instructed to only create pre-named pages) created the dupes as told; the fault was in the pre-scan, not the agents.
+
+**Suggested improvement:** Extend CLAUDE.md's Step-1 duplicate pre-scan bullet to include: (a) singular/plural and Anglicized/indigenous-or-Spanish spelling variants of the same polity/culture (toltec(s), chimu/chimor, aztec/mexica, inca/inka); (b) a fast `index.md` grep for the entity as the *first* check, since index.md is the running catalogue where prior/concurrent ingests announce newly-created pages (it surfaced both dupes instantly). Cheaper than N agents each re-discovering the collision, and the wikilink checker structurally cannot flag it.
+
+**Principle:** When a validator provably cannot catch a class of error (here: duplicate canonical pages both resolve), the guard has to move upstream into a pre-flight scan — and that scan must enumerate the realistic *variant forms* of an identifier, not just one canonical form. For a knowledge base assembled by many parallel/serial agents, the shared running index is the authoritative "what already exists" oracle and should be consulted before creating any structural page.
+
+### Observation 75: Subagents systematically stop short of assigned line-ranges, creating sub-range coverage gaps at chunk boundaries
+
+**Date:** 2026-07-08
+**Session context:** Deployed-subagent ingest of Freeman, *Egypt, Greece, and Rome* (401k-word survey, 7 disjoint range-partitioned extraction agents).
+**Skill:** Ingest workflow (CLAUDE.md Deployed Subagent Strategy) / task-observer-adjacent
+**Type:** internal
+**Phase/Area:** Step 3 (spawn per-chunk extraction agents) + Step 4 (review/gap-fill)
+
+**Issue:** 6 of 7 extraction agents (each assigned a ~4000-line cache slice) stopped extracting well before the end of their assigned range — reading ~2900–3550 of 4000 lines — even though CLAUDE.md already instructs them to "report actual coverage." They *did* report the shortfall honestly, but the shortfalls clustered at the *tail* of each slice, so the untouched tails lined up with the *heads* of the next agent's slice being fine, leaving systematic gaps precisely at chunk boundaries (e.g. Ch.10 colonization + the Sappho interlude fell in range_2's unread tail while range_3 started after it; Interlude 9 "Romans as Builders" and the substantive Legacies chapter fell in unread tails). Because content near chunk edges (interludes, chapter transitions) is exactly where distinctive/new-page-worthy material sat, the gaps disproportionately hit high-value content, requiring a consolidated main-thread recovery read of 4 separate sub-ranges.
+
+**Suggested improvement:** When range-partitioning a large book, (a) deliberately OVERLAP adjacent slices by ~200–300 lines so a short-reading agent's tail gap is covered by the next agent's head, OR (b) size slices ~25% smaller than an agent can comfortably read (aim ~2500–3000 lines/agent for dense text, not 4000) so "read to the end" is achievable, AND (c) place known high-value boundary material (interludes, pivotal chapters) in the *interior* of a slice, never at its edge. Add to CLAUDE.md Step 2 (chunk-drawing): "Do not put an interlude/pivotal chapter at a slice boundary; overlap slice edges or undersize slices so tail-truncation cannot silently drop boundary content."
+
+**Principle:** Honest coverage-reporting catches gaps but doesn't prevent them; when workers reliably under-run a fixed quota, the fix is to change the work-unit geometry (overlap or undersize) rather than to exhort harder. Systematic truncation at a consistent fraction of the quota produces *aligned* gaps at partition boundaries — the most dangerous kind, because boundaries are where transitions and summaries (high-value content) live.

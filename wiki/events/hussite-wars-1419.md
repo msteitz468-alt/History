@@ -14,8 +14,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[hus-jan|the execution of Jan Hus (1415)]], clerical wealth and abuse, Czech–German ethnic rivalry, the refusal to accept the crusading Sigismund as king]
 consequences: [the Compacts and communion in both kinds, the massive redistribution of Church land, the rise of the Bohemian nobility, a century of Utraquist Bohemia, a military revolution in infantry tactics]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, revolution, late-middle-ages, eastern-europe]
 ---
 
@@ -91,3 +91,7 @@ Housley (2002) adds focused analysis of sanctification, scriptural authority, an
 - `analogous_to:` the [[protestant-reformation-1517|Protestant Reformation]] (its great successor); `contributed_to:` the [[military-revolution|fifteenth-century transformation of war]].
 
 **Housley (Religious Warfare, 2002):** Deepens the religious-sanctification dimension. Hussite defence framed as Deo auctore; Taborites combined apocalyptic claims with "economy of violence"; Žižka and Prokop leadership analysed for divine-mandate perception; relationship of Hussite sanctification to crusading ideology (inverted in some respects). See [[sources/housley-religious-warfare-europe-1400-1536-2002]].
+
+## From F. Donald Logan, *A History of the Church in the Middle Ages* (2013)
+
+After Hus’s burning, rioting followed in Prague; Hussites became a Bohemian force often associated with Czech national aspirations, though many Czech nationalists were not Hussites and Hussites came to include Germans. Despite Constance burnings of Hus and Jerome of Prague, Cardinal **Cesarini**’s negotiations brought ~**300 Hussites** to **Basel** (Jan 1433) under iron-clad safe-conduct. **Compacta of Prague** (accepted both sides Nov 1433; council ratified **15 Jan 1437**) allowed communion under both kinds without requiring it, free preaching with controls, limited clerical property—Logan calls this Basel’s **greatest achievement**: it ended the Hussite Wars though unpacified dissidents remained, relieving the church of formidable Hussite pressure.

@@ -8,8 +8,8 @@ region: [british-isles]
 process_type: religious
 driven_by: [Papal mission from Rome under Augustine of Canterbury (597 CE), Irish monastic mission from Iona (Aidan at Lindisfarne, 635 CE), royal conversions as instruments of political consolidation, the institutional reorganization of Archbishop Theodore of Tarsus]
 produces: [an organized English diocesan church under Canterbury, the Northumbrian cultural florescence (Bede, Lindisfarne Gospels), the English missionary movement to the Continent (Willibrord, Boniface)]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, early-middle-ages, british-isles]
 ---
 
@@ -82,7 +82,11 @@ By c. 680 CE, all the major Anglo-Saxon kingdoms had been formally converted, an
 ## Related Pages
 
 *   **Events**: [[synod-of-whitby-664]] · [[battle-of-nechtansmere-685]]
-*   **Actors**: [[theodore-of-tarsus]]
+*   **Actors**: [[theodore-of-tarsus]] · [[gregory-i]] · [[augustine-of-canterbury]] · [[æthelberht-of-kent]] · [[willibrord]] · [[boniface]]
 *   **Concepts**: [[insular-art]] · [[eigenkirche]]
-*   **Processes**: [[christianization-of-the-roman-empire]]
-*   **Sources**: [[fouracre-ncmh-v1-2005]] (Chs. 15–17, 25)
+*   **Processes**: [[christianization-of-the-roman-empire]] · [[carolingian-renaissance]]
+*   **Sources**: [[fouracre-ncmh-v1-2005]] (Chs. 15–17, 25) · [[logan-history-of-the-church-in-the-middle-ages-2013]]
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Multi-stream conversion narrative: (1) [[augustine-of-canterbury|Augustine]] 597 and Kent—real Roman connection and “Augustine myth,” but pagan reversion after 616 and alienation of Romano-British Christians make the mission **less than successful**; Gregory’s 601 London/York plan with 12+12 bishops was **premature**. (2) Independent southern streams: East Anglia from Gaul/Burgundy and Irish Fursey; Wessex via Birinus (probably German), baptizing the king 635 at Dorchester. (3) Northumbria: Paulinus 625–32 ended with Edwin’s death; enduring conversion via **Aidan and Lindisfarne** from Iona under Oswald (635); Mercians converted 653 with an Irish first bishop. (4) [[synod-of-whitby-664|Whitby 664]] as local Easter decision producing territorial dioceses and Roman orbit, not a papal power-grab. (5) Learning: Theodore–Hadrian Canterbury school (from 669); Biscop’s Wearmouth (673)/Jarrow (681); Codex Amiatinus; Lindisfarne Gospels; Bede; York school → Alcuin → [[charlemagne]]’s court—dual Irish and continental “insular” culture enabling the [[carolingian-renaissance]]. (6) English continental mission from Clonmelsh (690) via [[willibrord]] and [[boniface]] under papal authority.

@@ -14,8 +14,8 @@ key_events:
   - lex-ogulnia-300bce
   - speech against peace with Pyrrhus 279 BCE
 key_processes: [roman-expansion-italy, struggle-of-the-orders]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, mediterranean, western-europe]
 ---
 
@@ -158,6 +158,19 @@ by the consolidating oligarchy of the third century. What Rome became (the senat
 oligarchy of the Polybian constitution) was not inevitable; Appius's career shows
 it was contested.
 
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) marks Appius
+Claudius Caecus, censor **312**, as the **first Roman whose political biography and
+legislative program can be discussed in meaningful detail** — a practical starting point
+if one abandons detailed fifth-century reconstruction. In her early-republics map
+([[roman-republics-periodization]]), the late fourth century is the hinge into the first
+*nobiles* republic (Republic 3, from ~300); the censorship gained ground partly through
+Appius’s activities, alongside regular plebeian consulship after 342 and definition of
+praetor and censors in Republic 2 (from 367/6). Flower’s interest is periodizing and
+source-critical rather than a full career narrative: Appius anchors the earliest
+reconstructible individual politics at the threshold of *nobiles* culture.
+
 ## Related
 
 - Event: [[roman-commonwealth-formation-338bce]] · [[battle-of-sentinum-295bce]] ·
@@ -166,4 +179,5 @@ it was contested.
 - Process: [[roman-expansion-italy]] · [[struggle-of-the-orders]]
 - Controversy: [[reliability-of-early-roman-tradition]]
 - Concept: [[roman-republican-religion]] (Ara Maxima transfer; Cn. Flavius and priestly secrets)
-- Source: [[walbank-cah-v7-2-1989]] (Ch. 8, Cornell; Ch. 12, North)
+- Source: [[walbank-cah-v7-2-1989]] (Ch. 8, Cornell; Ch. 12, North) ·
+  [[flower-roman-republics-2010]]

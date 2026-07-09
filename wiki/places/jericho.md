@@ -7,8 +7,8 @@ period_active: [Mesolithic, Neolithic, Chalcolithic, Early Bronze Age, Middle Br
 controlled_by: [[[natufian-culture]], Pre-Pottery Neolithic communities, Canaanite/Amorite city-state]
 events_here: [unknown]
 processes_here: [[[early-agriculture-southwest-asia]], [[sedentism]], [[urbanization]], [[early-bronze-age-levant]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [place, levant, near-east, neolithic]
 ---
 
@@ -86,6 +86,16 @@ of the revived fortified Canaanite city-states — the "**second urbanization**"
 the Levant. A Middle Kingdom seal-impression of a "**Scribe of the Vizier**" found
 at the site marks the renewed Egyptian reach of the [[middle-kingdom-egypt|Twelfth
 Dynasty]].
+
+## Communal Labor and Ancestor Cult (Fagan & Durrani 2020)
+
+Fagan & Durrani (2020) corroborate and date the walled settlement's key features:
+a camp at the spring existed by ≥10,500 BCE, and by ~9000 BCE the community had
+built a **walled settlement** — stone walls, a tower, and a rock-cut ditch 2.7 m
+deep — constructed through organized **communal labor**. They also cite Kathleen
+Kenyon's 1953 discovery of **seven plastered ancestor skulls** as evidence of an
+ancestor cult, consistent with this page's account of intramural burial and
+skull veneration above. (Fagan & Durrani 2020)
 
 ## Significance
 

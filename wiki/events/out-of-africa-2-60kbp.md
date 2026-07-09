@@ -24,8 +24,8 @@ consequences:
   - produced: "Extinction of Neanderthals (~30,000–25,000 BP)"
   - produced: "[[processes/paleolithic-global-dispersal]]"
   - enabled: "All subsequent human history"
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, migration, "Behavioral Modernity", "Late Prehistory", africa, global]
 ---
 
@@ -107,6 +107,47 @@ DNA. The divergence in material culture between Neanderthals (little change
 over 200,000 years) and modern humans (rapid innovation) probably reflects
 the linguistic capacity of modern humans and their ability to accumulate and
 transmit cultural innovations across generations.
+
+## Fagan & Durrani (2020) — Toba Revision and Dispersal Dates
+
+Fagan & Durrani (2020) present two competing origin models — "regional
+continuity" (multiregional, worldwide *H. erectus* populations independently
+evolving to sapiens) vs. "Out of Africa" (single African origin, later
+spread) — and note Out of Africa is "now almost universally accepted," though
+modified: post-dispersal interbreeding with Neanderthals and Denisovans
+complicates a pure-replacement model.
+
+**[CONTRADICTION] flag on the Toba bottleneck.** This page's existing
+narrative treats the Mt. Toba eruption (~72,000 BP) as a live candidate cause
+of the ~70,000 BP population bottleneck, calling the question "unresolved."
+Fagan & Durrani (2020) go substantially further and treat the catastrophist
+"volcanic winter" model as **largely rejected**: newer climate
+reconstructions put actual post-eruption (~73,500 BP) cooling at only ~2.5°C
+for a few years (locally as little as 1°C in India); Jwalapuram (India),
+Lake Malawi sediment cores (2013), and a 2015 East African climate study
+found no evidence of a severe volcanic winter or population disruption
+coincident with the eruption. Fagan & Durrani date the genetic bottleneck
+later, to ~50,000–20,000 BP, and attribute it to the small founder population
+of the dispersal itself rather than to Toba. This should be read as a
+2020-edition update superseding the more equivocal framing above; a
+controversies page entry may be warranted if this directly conflicts with a
+source the wiki weights more heavily for the bottleneck question.
+
+**Refined dispersal chronology.** By 100,000 BP, anatomically modern humans
+were already present in the Middle East (Qafzeh/Skhul); elsewhere outside
+Africa there is little evidence until ~60,000–40,000 BP. A "Green Sahara"
+humid corridor (before 100,000 BP to ~40,000 BP) is proposed as allowing
+crossing via the Nile Valley/Sahara and via the Red Sea into Yemen/Arabia
+toward South Asia. Small numbers of modern humans left Africa into the
+Middle East by 50,000 BP; within roughly another 5,000 years they reached
+Europe/Eurasia (~45,000 BP) and the Eurasian plains. South and Southeast Asia
+were settled before 50,000 BP; Australia/New Guinea before 45,000 BP; the
+timing for China is debated, "probably 50,000 bp." A contested early outlier:
+**Fuyan Cave**, southern China, where 47 modern human teeth have been dated
+to 120,000–80,000 BP — a potentially very early modern-human presence in
+East Asia that Fagan & Durrani flag as contested/uncertain, consistent with
+this page's own note (via Dennell) on sparse and contested Asian skeletal
+evidence.
 
 ## Causal Analysis
 

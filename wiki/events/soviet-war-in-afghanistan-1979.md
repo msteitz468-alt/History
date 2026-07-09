@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: global
 causes: [the 1978 communist coup and its collapse into chaos, the Soviet bid to save a client regime on its border, fear of Islamist contagion after the Iranian revolution]
 consequences: [the death of détente, the second Cold War, a decade-long Soviet quagmire, the strengthening of global jihadism, a contribution to the Soviet collapse]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, cold-war, central-asia, south-asia]
 ---
 
@@ -74,6 +74,33 @@ communist government that survived only until 1992.
 - `concurrent_with:` the [[brezhnev-stagnation|Brezhnev Stagnation]] era.
 - `analogous_to:` the US [[vietnam-war|Vietnam War]] (a superpower quagmire against a nationalist/Islamist insurgency).
 - [[leffler-westad-cold-war-v3]] — the source.
+
+## The Internationalization of Jihad (Formichi)
+
+Chiara Formichi's [[formichi-islam-and-asia-2020|*Islam and Asia: A History*]] (2020) traces the
+religious-ideological framing of the resistance that made it a magnet for foreign fighters. President
+Carter's 1980 letter to Zia ul-Haq described the "Mujahidin" as serving Islamic and Western democratic
+interests alike, and a Saudi Crown Prince (1984) called the struggle explicitly "jihad — because you
+have taken up arms in defense of Islam." The Afghan Islamist movement itself dated to Kabul
+University's Faculty of Theology in the late 1950s–60s (**Jamiyyat-i Islami**, inspired by Pakistan's
+Jama'at-e Islami); after the 1975 coup attempt it split between **Burhanuddin Rabbani**, who sought to
+unify the opposition through long-term infiltration, and **Gulbuddin Hekmatyar**, whose **Hizb-i
+Islami** (1976) favored popular uprising.
+
+The **Palestinian Abdallah 'Azzam** (1941–1989), a Jordanian Muslim Brotherhood member who reached
+Islamabad in 1981, became the jihad's most influential ideologue, arguing that resisting the Soviets
+was an individual religious duty (*fard al-'ayn*) for all Muslims and opening the **Services Bureau**
+(Maktab al-Khidamat, Peshawar, 1984) to funnel foreign fighters. **Osama bin Laden**, who reached
+Peshawar in 1979 and made his first trip into Afghanistan in 1982, co-founded the Bureau with 'Azzam;
+by 1986 bin Laden, 'Azzam, and the Egyptian **Ayman al-Zawahiri** were the international face of the
+resistance. The term "al-Qa'eda" ("the base/database") first surfaced as a list of trained foreign
+fighters; after 'Azzam's death in a 1989 roadside bombing, al-Zawahiri's more militant line prevailed,
+and the network's alliance with the emerging **Taliban** — which drew support from Pakistan, the
+United States, and Arab jihadis alike — carried this internationalized jihad forward into the 1990s
+and beyond (Bosnia, the 1998 East Africa embassy bombings, and eventually 9/11). See the
+[[afghan-mujahideen]], [[taliban]], and [[al-qaeda]] pages for the organizational detail, and
+[[political-islam]] for Mawdudi's earlier influence on this ideological current via Pakistan's
+Jama'at-e Islami and Zia ul-Haq's madrasa expansion.
 
 ## The CIA's Covert War (McCoy)
 

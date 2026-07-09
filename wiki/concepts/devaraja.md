@@ -5,8 +5,8 @@ origin: Instituted by Jayavarman II of the Khmer Empire (802 CE); rooted in Indi
 applies_to_periods: [Early Middle Ages, High Middle Ages]
 applies_to_regions: [southeast-asia]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -56,3 +56,13 @@ fusion of religion and rule that defined the Angkorian state.
 
 [[khmer-empire]] · [[jayavarman-vii]] · [[angkor]] · [[funan]] · [[hinduism]] · [[mahayana-buddhism]] ·
 [[indianization-of-southeast-asia]] · [[coe-angkor-khmer-civilization-2018]]
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+[[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] thicken the cult's comparative and documentary base beyond the Coe/Angkor core already on this page.
+
+**Java and Champa parallels.** Dinoyo (760) records a king worshipping a *lingga* embodying the "essence of royalty," echoing Champa and Cambodia; Walaing Pu Kumbhayoni claimed his grandfather was *devaraja* of Musalakyarastra (*sang ratu i Halu*). Cham kings such as Bhadravarman named Śiva icons after themselves, linking kingship and gods and resonating with ancestral *kut* steles — Saivism adapted to local ancestor practice rather than imported wholesale.
+
+**Angkorian mechanics (inscriptional).** The Sdok Kak Thom inscription shows that Yasovarman **moved the devaraja and erected a sacred lingga**, proving lingga and devaraja were **two separate objects** — an important precision against readings that collapse them. Jayavarman IV (921) took the devaraja with him when he set up an alternative capital at Koh Ker. Suryavarman I continued the devaraja ceremony while also sponsoring Buddhist foundations. In 1051 Sdok Kak Thom marks a major change after the priestly family that had supervised the devaraja for **precisely 250 years**; the former priest took a new title as royal spiritual teacher. By the end of the twelfth century under the Mahidharapura dynasty the devaraja cult was **discontinued** as Buddhism challenged Hinduism as the favoured royal religion — consistent with, and slightly earlier than, the Jayavarman VII interruption already noted from Coe.
+
+**Link types:** part_of [[angkor]] royal cult; concurrent_with [[mataram-kingdom]], [[champa]], [[khmer-empire]]; concurrent_with Buddhist patronage under Suryavarman I.

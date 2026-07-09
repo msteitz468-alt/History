@@ -7,7 +7,7 @@ period_active: [Classical Antiquity, Late Antiquity, Early Middle Ages]
 controlled_by: ["[[teotihuacan|Teotihuacan]] state", "post-collapse Coyotlatelco/Mazapan occupations"]
 events_here: ["grid and Avenue of the Dead layout by ~A.D. 150", "Ciudadela and FSP construction c. 150–300 CE", "apartment-compound urban renewal c. 200–300 CE", "peak Basin dominance c. 250–550/650 CE", "burning of civic core c. 550–750 CE (often ~650)", "Coyotlatelco reoccupation"]
 processes_here: ["[[urbanization]]", "[[ruralization]]", "[[mesoamerican-state-formation]]", "[[teotihuacan-formation]]", "[[teotihuacan-trade-network]]", "[[teotihuacan-apartment-compound-system]]"]
-sources_ingested: 3
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [place, mesoamerica, late-antiquity]
 ---
@@ -176,11 +176,53 @@ Xometla/Coyotlatelco (~12 km², ~40,000) with the greatest spatial shift since P
 suggesting ethnically different in-migration (possibly Nahua speakers). Mazapan-phase
 Teotihuacan remained large (Cowgill: average population unlikely much below ~30,000).
 
+## Evans & Webster 2001 (encyclopedia place synthesis)
+
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster (eds.) 2001]]
+places Teotihuacan as the dense-urban exemplar of upland Central Mexico (deep soils,
+chinampa potential) versus dispersed Maya Lowland settlement (Vaillant dichotomy; Settlement
+Patterns entry). **Williams**: by the 3rd c. A.D., ~20 km² and >100,000 people; Sun and Moon
+Pyramids Protoclassic; 2nd–3rd c. growth built Avenue of the Dead and “triple complexes”;
+diagnostic [[talud-tablero]]; lime-plastered walls, polychrome murals, tezontle fill,
+multiethnic artisan neighborhoods. **Parsons**: after the first century A.D., dominance of
+highland central Mexico for >500 years as a highly centralized community of well over
+125,000; Temple of Quetzalcoatl construction in the [[ciudadela-teotihuacan|Ciudadela]]
+involved large-scale warrior sacrifice; 4th–5th c. walled apartment compounds and gridded
+plan; skeletal analyses suggest high urban mortality and low fertility with possible
+dependence on rural hinterlands for demographic replacement.
+
+**Townsend (Sacred Landscape):** buildings “not so much in the land, but of it” — Street of
+the Dead as processional axis framed by Cerro Gordo (Nahuatl *Tenan*, “mother rock”); Sun
+Pyramid east–west for zenith-passage sun with long artificial cave from west stairway base
+to chamber under summit (mythic emergence / axis mundi). **Taube:** patio altars in apartment
+compounds domestically replicate public pyramids. **Ethnic enclaves** (Chance & Stark;
+Parsons): Tlailotlacan Oaxaca barrio; Merchants’ barrio with round buildings and Gulf/Maya
+ceramics. **Oztoyahualco** soil chemistry defined food prep/consumption and patio ritual
+areas for three families (Widmer, Analytical Methods). Full actor-level synthesis:
+[[teotihuacan]] (actor page).
+
+## Fagan & Durrani (2020): Millon's scale figures and the burning of the Ciudadela
+
+Fagan and Durrani's *World Prehistory* (10th ed., 2020) corroborates René Millon's mapping
+project (grid layout, ~600 pyramids, 500 workshop areas, ~2,000 apartment compounds arrayed
+along the 5 km Street of the Dead) and the population trajectory (80,000 by 100 CE, growing to
+150,000+ between 200 and 750 CE — comparable to the largest contemporary cities of western
+Asia and China; the wider state population is estimated at roughly half a million). Distinct
+ethnic barrios — an Oaxacan/Zapotec traders' neighborhood and a Veracruz-lowland immigrants'
+neighborhood, identified via circular adobe houses and distinctive pottery — attest a genuinely
+multiethnic city. They date the temple-burning collapse to c. 750 CE, describing it as a
+deliberate **"systematic desanctification"** meant to forestall a succession of power rather
+than a simple conquest, and stress that the Aztecs still revered the ruined city seven
+centuries after its fall (Templo Mayor offering caches held genuine Teotihuacan-era stone
+masks) — evidence, in their reading, that Teotihuacan's lasting influence was chiefly economic,
+ideological, and cultural rather than a matter of direct political control. See the actor page
+[[teotihuacan]] for the fuller treatment.
+
 ## Related
 
-- Places: [[tikal|Tikal]] (contrast: king cult) · [[maya-civilization|Classic Maya]] · [[tiwanaku|Tiwanaku]] · [[tenochtitlan|Tenochtitlan]] · [[uruk|Uruk]] · [[xochicalco]] · [[cacaxtla]] · [[cholula]] · [[tula-hidalgo]]
+- Places: [[tikal|Tikal]] (contrast: king cult) · [[maya-civilization|Classic Maya]] · [[tiwanaku|Tiwanaku]] · [[tenochtitlan|Tenochtitlan]] · [[uruk|Uruk]] · [[xochicalco]] · [[cacaxtla]] · [[cholula]] · [[tula-hidalgo]] · [[ciudadela-teotihuacan]]
 - Process: [[urbanization]] · [[ruralization]] · [[mesoamerican-state-formation]] · [[teotihuacan-formation]] · [[teotihuacan-trade-network]] · [[teotihuacan-apartment-compound-system]]
-- Concept: [[urbanism]] · [[heterarchy]] · [[mesoamerican-calendar]] · [[teotihuacan-ceramic-phases]] · Controversy: [[hierarchy-vs-heterarchy-early-cities]] · [[teotihuacan-political-organization]]
+- Concept: [[urbanism]] · [[heterarchy]] · [[mesoamerican-calendar]] · [[teotihuacan-ceramic-phases]] · [[talud-tablero]] · [[teotihuacan-religion]] · Controversy: [[hierarchy-vs-heterarchy-early-cities]] · [[teotihuacan-political-organization]]
 - Comparison: [[early-cities-in-comparative-perspective]] (heterarchy, landscape, and power distribution)
 - Places (context): [[cuicuilco]] · [[basin-of-mexico]]
-- Source: [[cowgill-ancient-teotihuacan-2015]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6]]
+- Source: [[cowgill-ancient-teotihuacan-2015]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6]] · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

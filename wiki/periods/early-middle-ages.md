@@ -7,7 +7,7 @@ date_range: "600–1000 CE"
 regions_covered: [mediterranean, western-europe, northern-europe, eastern-europe, balkans, anatolia, near-east, levant, mesopotamia, iran-plateau, arabian-peninsula, central-asia, north-africa, west-africa, east-africa, south-asia, china, japan, korea, steppe, indian-ocean, silk-road]
 major_themes: ["the rise of Islam and the caliphates", "the Abbasid golden age", "Tang China and the second Silk Roads era", "the Carolingian Empire", "Byzantium's survival and golden age", "the formation of Japan and unified Korea", "trans-Saharan and Indian Ocean trade", "the spread of world religions", "post-imperial state-building", "barbarian law codes and wergild", "the North Sea emporium network (wics)", "the gold-to-silver monetary transition (sceattas)", "proprietary churches (Eigenkirchen)", "Insular art and Northumbrian learning", "Christianisation of the Germanic and Anglo-Saxon peoples"]
 collection_coverage: strong
-sources_ingested: 17
+sources_ingested: 19
 last_updated: 2026-07-08
 tags: [period]
 ---
@@ -275,3 +275,18 @@ landholding was the hinge linking war to state power — the means of raising an
 the most important and dynamic points of contact between local societies and royal authority." See
 the warfare-hub overview [[early-medieval-warfare|Early Medieval Warfare in the Barbarian West]],
 the method page [[grammar-of-warfare]], and the institution page [[merovingian-army]].
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Logan’s Ch.4–6: Gregory I to Boniface “set the stage”; Franco-papal alliance; Carolingian church practice; Viking impact; papal disarray c.850–1050. See [[gregory-i]], [[franco-papal-alliance]], [[viking-impact-on-church]], [[pope-nicholas-i]]. Source: [[logan-history-of-the-church-in-the-middle-ages-2013]].
+
+## From Tannous (2018) — Islamization and Christian majorities
+
+For the early medieval Middle East, [[tannous-making-medieval-middle-east-2018|Tannous]] separates [[islamic-conquests-seventh-eighth-centuries|conquest]] from [[islamization-of-the-middle-east|Islamization]]: Muslim rule arrived quickly; Muslim demographic majorities did not. Simple Christians and late-converted Muslims, shared social worlds, and Syriac intellectual continuities ([[qenneshre]], [[jacob-of-edessa]]) structure the period c. 600–1000 alongside better-known western narratives.
+
+## From Gibbon, *Decline and Fall* (periodization notes)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]]; not asserted as modern fact.
+
+- **Dissolution of Roman governmental unity.** Under Theodosius II and Valentinian III, future laws limited to each author’s dominions unless formally shared — “the unity of the Roman government was finally dissolved” even while alliance continued (late-antique hinge into early medieval dual East/West regimes).
+- **Gaul as type of the transformation.** Tacitean warning fulfilled: in four centuries hardy Gauls melted into the Roman mass; then “the Western empire was dissolved; and the Germans, who had passed the Rhine, fiercely contended for the possession of Gaul” — polished inhabitants abhorred the northerners yet lacked courage to defend arts and natural advantages (Gibbon’s moralized version of the [[post-roman-transformation-of-the-west|post-Roman transformation]]).

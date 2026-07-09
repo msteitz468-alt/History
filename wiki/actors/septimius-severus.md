@@ -9,7 +9,7 @@ affiliated_with: [[[severan-dynasty]], [[roman-imperial-army]]]
 opposed_by: [[[pescennius-niger]], [[clodius-albinus]], [[parthian-empire]]]
 key_events: [[[year-of-the-five-emperors-193]], [[constitutio-antoniniana-212]]]
 key_processes: [[[militarization-of-the-roman-state]], [[romanization]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, north-africa]
 ---
@@ -86,3 +86,15 @@ Phoenice. These are Ball's interpretive claims (see the [[orientalization-of-rom
   [[high-imperial-senatorial-order]], [[roman-provincial-administration]]; the looming
   [[third-century-crisis]]
 - Sources: [[bowman-cah-v12-2005]] (Ch. 1, Brian Campbell); [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]]
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+[[actors/gibbon-edward|Gibbon]]’s Severus is the able soldier who treated the empire as private property and unmasked the Principate as camp despotism. **Gibbon’s views.**
+
+- **Abilities:** “commanding vigor of mind and body”; in civil wars “the constant superiority of Severus was that of an artist.”
+- **Empire as property:** “Severus considered the Roman empire as his property”; salutary laws corrected post-Marcus abuses, yet though civil-war wounds seemed healed, “mortal poison still lurked in the vitals of the constitution.”
+- **Relaxed discipline:** by gratitude and “misguided policy” he “relax[ed] the nerves of discipline” — gold rings, wives in idle quarters, raised pay, expected donatives.
+- **Praetorians remodelled:** guards increased fourfold from frontier legionaries; “the Italian youth were diverted from the exercise of arms”; Severus flattered himself ~50,000 chosen men secured the throne.
+- **Open despotism:** till Severus emperors affected Augustan civility; camp-trained Severus “exercised, without disguise, the whole legislative, as well as the executive power”; lawyers taught irreversible monarchy — a structural step in the [[concepts/gibbonian-decline-thesis|decline thesis]] and seed for [[processes/barbarization-of-the-roman-army]].
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[concepts/principate]]

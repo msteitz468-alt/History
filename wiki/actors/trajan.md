@@ -9,7 +9,7 @@ affiliated_with: [the army; the Senate; the adoptive succession; the Spanish pro
 opposed_by: [Decebalus of Dacia; the Parthian Empire; the Jewish diaspora (the revolt of 115–117)]
 key_events: [adoption by Nerva (97), the [[dacian-wars-101-106|Dacian Wars]] (101–106), the [[trajans-parthian-war-114-117|Parthian War]] (114–117)]
 key_processes: [the empire's expansion to its greatest extent]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy, rome]
 ---
@@ -81,6 +81,16 @@ earliest surviving discussion of Christianity outside Jewish or Christian litera
   wars (greatest extent); succeeded by [[hadrian]]
 - From the Spanish [[hispania-roman|colonial elite]]; his Parthian conquests trigger the Jewish
   diaspora revolt (see [[roman-judaea]])
-- Source: [[bowman-cah-v11-2000]] (Ch. 2); a contemporary source is now ingested in
+- Source: [[bowman-cah-v11-2000]] (Ch. 2); [[woolf-rome-empires-story-2012]]; a contemporary source is now ingested in
   **[[pliny-the-younger-letters|Pliny the Younger's *Letters*]]** Book 10 — his governorship of
   Bithynia-Pontus, and the famous **rescript on the Christians** (10.96–97).
+
+## Woolf, Rome: An Empire's Story (2012)
+
+From [[woolf-rome-empires-story-2012]] Ch. XIII (War / end of expansion).
+
+- **Feeble post-Augustan expansions.** Trajan’s Dacia and Mesopotamian invasion among limited “genuine expansions” after Augustus; scale “feeble” vs 60s–50s BCE or Augustan Europe; all new territories except Britain rapidly lost (Hadrian returned Mesopotamia; later third-century losses of European gains).
+- **Throwback and demonstration.** Partial “throwback” proving an individual emperor need not be trapped by the security-first role—yet “his reign, with its futile and short-lived conquests, is also a demonstration that expansion no longer suited the Roman Empire very well.” Emperors may have made loud conquest noise to compensate for reduced willingness.
+- **Booty after tributary shift.** Long-term move to taxation; booty still funded Trajan’s great Rome building projects from Dacian wars.
+- **Florus frame.** Empire seemed “old and impotent, owing to the laziness of the Caesars,” except under Trajan it stirred “against everyone’s expectation of the old age of empire.”
+- **Quotes:** “Trajan was in some senses a throwback… Yet his reign, with its futile and short-lived conquests, is also a demonstration that expansion no longer suited the Roman Empire very well.”

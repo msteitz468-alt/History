@@ -8,7 +8,7 @@ region: [mesoamerica]
 process_type: cultural
 driven_by: [Pacific-slope productivity and cacao, highland volcanic soils, long-distance exchange, elite interaction with lowland Maya and Central Mexico, volcanic disaster and recovery]
 produces: [southern Maya Preclassic civilization, early writing/sculpture/Long Count experiments, highland Classic polities, Postclassic conquest states]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [process, mesoamerica, maya]
 ---
@@ -67,6 +67,23 @@ Spanish conquest of highland kingdoms (16th c.); continuous Maya populations and
 
 This process ends where independent highland political development ends. The **same highland populations and places** — Guatemalan highlands, Chiapas highlands, Pacific piedmont labor zones — enter Spanish rule, demographic collapse, congregación, Liberal coffee labor, civil war, and diaspora under the long-duration process [[highland-maya-colonial-modern]] (Lovell, CHNPA II.2 Ch. 21). Operational conquest: [[conquest-of-guatemala-1524]]. Place anchors: [[guatemala-highlands]] · [[chiapas-highlands]]. Civilizational summary of the colonial–national highland arc: section “Highland Maya under colonial and national rule” on [[maya-civilization]]. Do not fold colonial institutions or 1978–83 violence back into this prehistoric–Postclassic page.
 
+## From Evans & Webster 2001
+
+### Environment package
+
+Maya Highlands = young active volcanic chain (peaks to **4,410 m**) from Mexico to El Salvador producing deep mineral-rich soils and **obsidian** exported lowland-ward; temperate climates **15–25°C**, **200–3,000 mm** rain; quetzal feathers elite trade item. Older metamorphic/limestone mountains between volcanic belt and lowlands drained by Usumacinta and Grijalva were ancient **jade/serpentine** sources. Pacific piedmont = narrow fertile strip, famous as one of the richest **cacao**-producing zones of Mesoamerica.
+
+### Formative institutions and Izapan horizon
+
+During Preclassic/Formative (**c. 2000 B.C.–A.D. 250**) highland Guatemala developed sophisticated religious/economic institutions, hereditary leadership, and chiefdoms. Village life origins in central/eastern highlands by **1500 B.C.** with intensification of agriculture and rapid population growth. Middle Formative: probable Olmec enclaves on Pacific coastal plain with monumental sculpture/architecture. [[kaminaljuyu|Kaminaljuyú]] and other communities grew large. Late Formative: **Izapan-style** sculptured monuments often with hieroglyphic texts and dates; probable dynastic rule; Izapan styles became a major component of emerging Maya tradition. Many southern sites peaked in size/population in Late Formative/Protoclassic.
+
+### Pacific piedmont sites
+
+- **Abaj Takalik** (~**600 m**): multi-component site, ~**70** structures on nine N–S plazas, on an ancient route between highlands and Pacific Coast; large sculptural corpus in three or more art styles (possibly including Olmec). Proposed sculptural sequence: Middle Formative local Abaj Takalik style → Late Formative potbelly → Terminal Formative–Early Classic proto-Maya/early Maya → Late Classic Maya. Early long-count dated monuments cluster around centuries before/after **A.D. 1**; Structure 12 sequence suggests an **intrusive Maya group** from adjacent highlands at the start of the Terminal Formative (analogous to temporary intrusion suggested at [[cotzumalhuapa|Cotzumalhuapa]]; nearby Chocola also has early Terminal Formative Maya sculpture).
+- **Cotzumalhuapa zone**: Early Formative occupation; large Late–Terminal Formative center; **El Baúl Stela 1** long-count probably **A.D. 36 or 37** — one of three Pacific Guatemalan Terminal Formative long-count monuments (others at Abaj Takalik).
+- **[[izapa|Izapa]]**: Late Formative dominant center near Mexican–Guatemalan border; narrative bas-relief horizon marker between Olmec and Classic Maya.
+- Soconusco Middle Formative centers (Tzutzuculi, La Blanca, Abaj Takalik) and Late Formative peers (La Perseverancia, Tonalá/Iglesia Vieja, Horcones, Sin Cabezas, El Bálsamo, Monte Alto) frame the coastal corridor.
+
 ## Related
 
-[[maya-civilization]] · [[highland-maya-colonial-modern]] · [[conquest-of-guatemala-1524]] · [[guatemala-highlands]] · [[chiapas-highlands]] · [[kaminaljuyu]] · [[izapa]] · [[ceren-salvador]] · [[copan]] · [[chichen-itza]] · [[southeast-mesoamerican-frontiers]] · [[teotihuacan]] · [[mesoamerican-preclassic]] · [[mesoamerican-writing-systems]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Sharer Ch. 10) · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Lovell Ch. 21)
+[[maya-civilization]] · [[highland-maya-colonial-modern]] · [[conquest-of-guatemala-1524]] · [[guatemala-highlands]] · [[chiapas-highlands]] · [[kaminaljuyu]] · [[izapa]] · [[cotzumalhuapa]] · [[ceren-salvador]] · [[copan]] · [[chichen-itza]] · [[southeast-mesoamerican-frontiers]] · [[teotihuacan]] · [[mesoamerican-preclassic]] · [[mesoamerican-writing-systems]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Sharer Ch. 10) · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Lovell Ch. 21) · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster encyclopedia]]

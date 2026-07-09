@@ -5,8 +5,8 @@ origin: Kautilya's *Arthashastra*, Books VI–VII (core attributed to the late 4
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [south-asia]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -74,3 +74,7 @@ model of overlapping circles of allegiance and prestige. The doctrine's modern r
 - [[kautilyan-statecraft]] — the *saptanga* states the circle arrays; [[kautilya-arthashastra]] — the text.
 - [[mandala]] — the Southeast Asian descendant concept; [[chandragupta-maurya]] — the *vijigishu* in practice.
 - [[mauryan-empire]] — the empire built by conquest of the circle; [[kautilya]] — the author.
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+Light touch: [[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] document the **Southeast Asian reception** of the Indic title package rather than re-deriving Kautilya's geometry. Seasian rulers assumed *rājādhirāja* / *maharajadhiraja*, *cakravartin* ("wheel-turner"/universal monarch), and *Dharmaraja*; Early Classic Cambodian *pon* also gained power by digging wells/ponds. The most famous overt *cakravartin* self-portrayal is Jayavarman II's 802 ceremony elevating him to that status — Sanskrit manuals emphasize the righteous ruler's qualities, not territorial borders or constitutional legitimacy. Angkorian titles evolved from *mratañ* / *Vrah kamrateñ añ* ("His Majesty"), first for gods, then via title inflation ~650 for men claiming kingship; rulers carried personal, reign, and posthumous names that complicate identification. Indian inscriptions' *sāmanta-maṇḍala* (circle of vassals of an overlord *rājādhirāja*) is noted, with the post-600 shift of *sāmanta* from king toward vassal/tributary chief in Indian feudalism historiography. Concurrent_with [[mandala]] and [[devaraja]]; part of the Indianization of political vocabulary at [[angkor]].

@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: global
 causes: ["the rise of the [[muhammad-ali-jinnah|Muslim League's]] two-nation demand", "the Congress–League deadlock & the failure of the Cabinet Mission (1946)", "communal violence (Direct Action Day, Aug 1946)", "Britain's post-war decision to quit India rapidly"]
 consequences: ["the creation of independent India and Pakistan (15 Aug 1947)", "one of the largest forced migrations & communal massacres in history", "the Kashmir dispute and enduring India–Pakistan conflict", "the end of the British Raj"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, world-wars-era, south-asia]
 ---
 
@@ -61,6 +61,29 @@ reconciliation in riot-torn Bengal.
   or "involved disasters as great as the calamities it was designed to forestall" — and notes the
   failed unity plan's hidden mercy, since a weak wrangling centre might have fragmented India into
   several states.
+
+## Gender, Ideology, and the Post-Partition Islamic State Debate (Formichi)
+
+Chiara Formichi's [[formichi-islam-and-asia-2020|*Islam and Asia: A History*]] (2020) adds detail on
+the ideological articulation of the two-nation demand and its immediate aftermath. At the League's
+**Lahore session (1940)**, Jinnah framed Hindus and Muslims as belonging "to two different
+civilizations which are based mainly on conflicting ideas and conceptions." "Pakistan" itself
+originally denoted an inclusive name for five Muslim-majority regions (Punjab, the Afghan/NWFP
+region, Kashmir, Sindh, Baluchistan) — excluding Bengal, which pursued separate demands before its
+own inclusion. Women played an organized role in the [[muslim-league|Muslim League]]'s campaign:
+**Lady Nusrat Haroon** led its women's sub-committee from 1940, and **Begum Ikramullah** framed the
+Pakistan demand as an assertion of Muslims' "separate, independent, religious and cultural
+existence." League women also used purdah conventions strategically in 1947 civil disobedience,
+since police could not touch their bodies.
+
+Formichi (2020) frames Jinnah's own vision as one where "religion should not enter politics" — the
+League's core demand was minority representation rather than a confessional state — but after his
+1948 death, **Abu A'la Mawdudi** ([[mawdudi-abu-ala]]) and his [[jamaat-i-islami|Jama'at-e Islami]],
+which had opposed the League's nation-state demand as "un-Islamic" during the independence struggle,
+promoted the **1949 Objectives Resolution** ("Sovereignty belongs to Allah alone; but He has
+delegated it to the State of Pakistan"), which became Pakistan's constitutional preamble in 1956 —
+opening a decades-long contest over the new state's Islamic character that outlasted partition
+itself. See [[pakistan]] for the state's subsequent trajectory.
 
 ## Related pages
 

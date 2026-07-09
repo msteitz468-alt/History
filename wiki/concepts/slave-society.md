@@ -5,8 +5,8 @@ origin: "Distinction formalised by Moses I. Finley (Ancient Slavery and Modern I
 applies_to_periods: [Classical Antiquity, Late Antiquity, Early Modern, Age of Expansion, Long 19th Century]
 applies_to_regions: [mediterranean, atlantic-world, caribbean, eastern-north-america, southern-cone]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-14
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, analytical]
 ---
 
@@ -72,3 +72,12 @@ abstraction laid over that lived dichotomy.
 
 *From [[cambridge-world-history-slavery-v1|The Cambridge World History of Slavery, Vol. 1]]
 (Bradley & Cartledge, 2011). The later volumes deliberately qualify this concept.*
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Woolf deploys the slave-society thesis for late-Republican Italy specifically. Source: [[woolf-rome-empires-story-2012]].
+
+- Republican Rome as city-state of greatest families **and** a slave-owning society; the empire it created was aristocratic and managed through family and slavery (few state slaves until imperial household expansion).
+- Legal tools (*peculium*, *lex institoria*, *societates*) adapted family/slavery institutions for commercial scale rather than inventing joint-stock forms.
+- Growth mechanisms: war captives, Delos turnover (Strabo’s 10,000/day after 146), piracy, Balkan booty; Sicilian rebellions and Spartacus as indices of mass agricultural slavery.
+- Punchline: free peasants’ displacement pace debated, freeholders/tenants persist into Principate, but “the ancient link between soldier-citizen and citizen-farmer had been broken, and Roman Italy had become a slave society.”

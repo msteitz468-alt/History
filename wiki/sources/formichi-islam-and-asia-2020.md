@@ -7,8 +7,8 @@ period_coverage: ["Early Middle Ages", "High Middle Ages", "Late Middle Ages", "
 region_coverage: ["central-asia", "south-asia", "southeast-asia", "china", "east-asia", "near-east"]
 methodological_approach: cultural
 reliability_notes: "Authoritative synthesis in Cambridge's New Approaches to Asian History series by a Cornell specialist in Indonesian Islam. Thematic (not narrative) survey; deliberately de-centers the Arab Middle East. Introductory-textbook register with case studies rather than exhaustive coverage; strongest on Southeast Asia (author's field), lighter on South Asian political history. Presentist and revisionist framing (Asia as constitutive of, not peripheral to, global Islam) is the book's explicit argument, not neutral consensus."
-pages_created: 0
-pages_updated: 0
+pages_created: 23
+pages_updated: 39
 ingested: 2026-07-08
 tags: [source]
 ---
@@ -54,12 +54,68 @@ rather than a linear regional narrative.
 
 ## Pages Created
 
-_(to be filled during integration)_
+**Framework / historiography:** [[syncretism-vs-authenticity-islam-in-asia]] (controversy) ·
+[[dawa]] (concept)
+
+**Central & East Asia:** [[battle-of-talas-751]] · [[qarakhanid-khanate]] ·
+[[ghurid-dynasty]] · [[islam-in-china]] · [[uyghurs]] · [[shadian-incident-1975]]
+
+**Pan-Islamism & the colonial era:** [[khilafat-movement]] · [[basmachi-movement]]
+
+**Nation-state Islam (South/SE Asia):** [[pakistan]] · [[muslim-league]] ·
+[[mawdudi-abu-ala]] · [[jamaat-i-islami]] · [[tablighi-jamaat]] · [[nahdlatul-ulama]] ·
+[[aceh-sultanate]]
+
+**Revival & jihad:** [[islamic-revival-late-20th-century]] · [[afghan-mujahideen]] ·
+[[taliban]] · [[al-qaeda]] · [[abdallah-azzam]]
 
 ## Pages Updated
 
-_(to be filled during integration)_
+Medieval Asia: [[expansion-of-islam-middle-period]] · [[mahmud-of-ghazni]] ·
+[[ghaznavid-dynasty]] · [[samanid-dynasty]] · [[delhi-sultanate]] · [[mongol-empire]] ·
+[[conversion-of-mongols-to-islam]] · [[chaghatay-khanate]] · [[timur]] ·
+[[timurid-empire]] · [[abbasid-caliphate]] · [[silk-roads]] · [[naqshbandiyya]] · [[china]]
+
+Southeast Asia & Sufi networks: [[islamization-of-southeast-asia]] · [[indonesia]] ·
+[[malaysia]] · [[melaka]] · [[majapahit]] · [[malabar]] · [[maldives]] ·
+[[zheng-he-voyages]] · [[sufism]] · [[sufism-in-south-asia]] · [[shah-waliullah]] ·
+[[sirhindi-ahmad]]
+
+Modern & pan-Islamic: [[ottoman-empire]] · [[fall-of-the-ottoman-empire-1922]] ·
+[[al-afghani]] · [[islamic-modernism]] · [[sarekat-islam]] · [[sunni-internationalism]] ·
+[[political-islam]] · [[soviet-war-in-afghanistan-1979]] · [[indonesian-mass-killings-1965]] ·
+[[partition-of-india-1947]] · [[pancasila]] · [[muhammad-and-the-rise-of-islam]] ·
+[[early-muslim-community]]
 
 ## Volume Synthesis Note
 
-_(to be written after integration)_
+Formichi's *Islam and Asia* enters a wiki already dense with Islamic-world coverage
+(CAH/NCMH backbone, Hodgson, the Africa and South/Southeast Asia gap-closing passes),
+so most of its yield is **reframing and eastward extension** rather than net-new
+narrative. Its distinctive contribution is a single sustained argument — that Asia is
+constitutive of, not peripheral to, Islamic history — which the wiki now carries as a
+named controversy ([[syncretism-vs-authenticity-islam-in-asia]]) rather than in wiki
+voice, per the no-adjudication rule. That controversy connects directly to the wiki's
+existing [[islamic-orthodoxy]], [[islamicate]], and [[islamic-civilization-historiography]]
+pages and gives the "thin veneer" thesis (van Leur, Geertz) its counter-position.
+
+The genuinely gap-filling material is the **Central and East Asian** thread the
+collection was thinnest on: the [[battle-of-talas-751|Islamosphere/Sinosphere boundary]],
+the Qarakhanid and Chaghatay conversions, and above all a dedicated [[islam-in-china]]
+process page spanning the Han Kitab synthesis, the Hui/[[uyghurs|Uyghur]] distinction,
+the [[shadian-incident-1975|1975 Shadian killings]], and contemporary halal-based
+ethnic contestation. On the modern side it supplies the previously-missing South/
+Southeast Asian political-Islam nodes — [[pakistan]], [[mawdudi-abu-ala|Mawdudi]] (the
+South Asian ideologue who fed Sayyid Qutb), the [[khilafat-movement]], and the
+Afghan-jihad cluster ([[afghan-mujahideen]], [[abdallah-azzam]], [[al-qaeda]]) — which
+Formichi frames as the "heart of Asia" episode where transnational Islamic solidarity
+peaked.
+
+One cross-volume tension worth flagging: Formichi's treatment of the
+[[indonesian-mass-killings-1965]] (Muslim organizations' role against the PKI) sits
+alongside the McCoy-derived covert-action account already on that page; the two are
+complementary framings (religious mobilization vs. external instigation) and are kept
+distinct rather than merged. A naming reconciliation was required mid-ingest: her
+"Chagatai Khanate" was folded into the pre-existing [[chaghatay-khanate]] page rather
+than duplicated.
+

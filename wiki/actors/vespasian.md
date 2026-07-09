@@ -9,8 +9,8 @@ affiliated_with: [the [[flavian-dynasty|Flavian dynasty]] he founded; the easter
 opposed_by: [Vitellius (defeated, 69); the remnants of the Republican nobility; the Stoic "opposition" (Helvidius Priscus)]
 key_events: [the [[year-of-the-four-emperors-69ce|civil war of 69]], the Jewish War, the Lex de Imperio Vespasiani, the Jewish triumph (71)]
 key_processes: [the refounding of the [[principate|Principate]] under a new dynasty]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]
 ---
 
@@ -76,10 +76,24 @@ left unpublished. **Tacitus** (the surviving quarter of the *Histories*) gives a
 portrait: best for Rome that Vespasian won, "better than expected," yet grasping for money and
 served by associates "no better than the discredited minions of Otho and Vitellius."
 
+## OHCW (Stockton; Purcell)
+
+**Stockton** (Ch. 22): after Galba, Otho, and Vitellius, the Flavian coalition (Vespasian, Mucianus, Tiberius Julius Alexander) — Antonius Primus’ Danubian armies win second Bedriacum and take Rome; Vespasian is “the first truly worthy successor to Augustus” and, like him, *princeps* by his own making and merits.
+
+**Purcell** (Ch. 23): Flavian (esp. Vespasian and Domitian) organization of revenues, provincialization of last client kingdoms, and elite incorporation create high-Principate stability that makes the second century’s “age without history” possible.
+
 ## Related
 
 - Won the [[year-of-the-four-emperors-69ce|civil war of 69]]; founded the [[flavian-dynasty]];
   father of [[titus]] and [[domitian]]
 - Refounded the [[principate]]; ended the Jewish War (see [[roman-judaea]]); the Lex de Imperio
   echoes the [[senate-under-the-principate|Senate's]] grant of powers
-- Source: [[bowman-cah-v11-2000]] (Ch. 1)
+- Source: [[bowman-cah-v11-2000]] (Ch. 1); [[boardman-oxford-history-classical-world-1986]] (Stockton Ch. 22; Purcell Ch. 23); [[woolf-rome-empires-story-2012]]
+
+## Woolf, Rome: An Empire's Story (2012)
+
+From [[woolf-rome-empires-story-2012]] (dynastic Principate).
+
+- **After Nero: institution over person.** Year of Four Emperors (69: Galba, Otho, Vitellius, Vespasian); after Vespasian, institutions snapped back. December 69 bronze tablet grants powers citing Augustus/Tiberius/Claudius—will of all sides to restore the status quo. Vespasian recommended by two adult sons (dynastic asset). Caesar as heir-title innovated under Domitian.
+- **Sharing rule precedent.** Caesar-as-junior from Vespasian among precedents for later collegiate emperorship (Marcus/Verus; Severus and sons; tetrarchy formalization under Diocletian).
+- **Stability thesis.** “However precarious the position of emperor might seem, the institution was very stable, and stabilized the empire as a whole”—until early third century.

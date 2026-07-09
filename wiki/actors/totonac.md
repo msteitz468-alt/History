@@ -9,7 +9,7 @@ affiliated_with: [Totonacapan central Veracruz, first Indian allies of Cortés 1
 opposed_by: [Aztec empire (Moctezuma I and II conquests), later Spanish colonial order, liberal land division, Porfirian privatization]
 key_events: [Aztec subjugation of southern then northern Totonacapan, Cempoala alliance with Cortés 1519, Papantla revolts 1764–1787, Serafín and Mariano Olarte rebellions, Díaz Manfort 1885, Revolution and southern Totonacapan agrarian violence]
 key_processes: ["[[mesoamerican-state-formation]]", "[[spanish-conquest-of-mexico-1519]]", "[[gulf-coast-indigenous-colonial-modern]]", "[[bourbon-reforms]]"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, mesoamerica, gulf-coast, totonacapan]
 ---
@@ -54,6 +54,26 @@ El Tajín’s Classic–Epiclassic florescence lies in what later became Totonac
 but Diehl rejects automatic equation of Totonac ethnos with Tajín builders. Cowgill notes possible
 unusually direct Teotihuacan relations with the El Tajín coastal sector without asserting
 Totonac identity for the Classic city.
+
+## Evans & Webster 2001 — Zempoala / Cempoala (Wilkerson)
+
+S. Jeffrey K. Wilkerson (EW2001, “Zempoala”): **Zempoala (Cempoala)**, major Terminal Postclassic
+coastal Totonac metropolis near the Actopan River mouth; Spaniards **1519** called it “Sevilla,”
+astonished by c. **80,000** people, burnished white buildings, and irrigated fields—**most
+populous Gulf Coast city of its day**; principal temple compound host to momentous first-year
+Conquest events. European epidemics left the city deserted by the early **seventeenth** century
+(*part_of:* [[spanish-conquest-of-mexico-1519]] · *part_of:* [[gulf-lowlands]] South Central).
+Urban design, cults, and art reflect Central Mexican highland norms reinforced by late
+fifteenth-century Aztec dominance; river-cobble + cement buildings; *coatipantli* (“snake wall”)
+platform merlons; rectangular temples (some round-backed); glyphic polychrome sanctuary designs;
+ceramics include regional fine-paste and local Cholula-Puebla polychrome. Extensive canal
+irrigation from altered river channels was crucial in the dry rain shadow. Nearby complex:
+**Trapiche** (occupations from end Early Formative); **Chalahuite** (Late Formative–Protoclassic
+regional major, early canals, mounds to **20 m**); **Chachalacas** (Late Formative through Classic
++ Terminal Postclassic reoccupation). Research history: Paso y Troncoso **1891**; Fewkes **1905**;
+García Payón late **1930s–early 1970s** (first Gulf major site in regional context); INAH
+**1979–81**. South Central Postclassic overview: Aztec Triple Alliance stationed personnel at
+Zempoala and Cotaxtla; Zempoala ceramics shifted toward highland-related types (EW2001).
 
 ## Colonial–modern trajectory (Deans-Smith, CHNPA II.2 Ch. 18)
 
@@ -116,7 +136,8 @@ full ethnohistorical synthesis — post-conquest Gulf work remains thin relative
 
 ## Related
 
-[[huastec]] · [[el-tajin]] · [[aztec-empire]] · [[spanish-conquest-of-mexico-1519]] ·
+[[huastec]] · [[el-tajin]] · [[gulf-lowlands]] · [[aztec-empire]] · [[spanish-conquest-of-mexico-1519]] ·
 [[basin-of-mexico]] · [[gulf-coast-indigenous-colonial-modern]] · [[mixtec]] ·
 [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 4 (Diehl)]] ·
-[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2 Ch. 18 (Deans-Smith)]]
+[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2 Ch. 18 (Deans-Smith)]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001 (Wilkerson)]]

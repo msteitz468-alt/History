@@ -72,8 +72,25 @@ society drew its own lines around bodies, acts, marriage, and identity. It makes
 **history of sexuality** a test case for the general problem of **anachronism** in history,
 and ties it closely to [[gender-history]].
 
+## Graffiti as Evidence for Ancient Sexuality
+
+Ancient [[ancient-graffiti|graffiti]] furnish some of the strongest evidence for
+the constructionist case. Keegan shows that erotic graffiti across Egypt, Greece
+and Rome are organized not by a hetero/homosexual binary but by an **active/passive
+"principle of superiority"**: the adult male citizen (*vir*) is the normatively
+penetrative, dominant party, and to name someone *receptive* — Greek *katapugōn*,
+*laikastria*; Latin *cinaedus*, *fellator*, *pedico* — is to socially diminish
+them, regardless of the partners' sexes. The evidence runs from the archaic
+pederastic graffiti at the temple of Apollo on Thera and the Athenian Agora
+*kalos*-inscriptions, through Egyptian erotic ostraca and the Turin Erotic
+Papyrus, to the ~500 erotic texts of [[pompeii]] (brothel, Basilica, gladiator
+quarters) and rare female-voiced verse (*CIL* IV.5296) and female-homoerotic
+curse tablets (Hermoupolis Magna; see [[defixiones]]). Per
+[[keegan-graffiti-in-antiquity-2014|Keegan, *Graffiti in Antiquity*]].
+
 ## Related
 
+- [[ancient-graffiti]] · [[defixiones]] — the epigraphic evidence for ancient sexual norms.
 - [[gender-history]] — the sibling analytic (Scott, Butler); [[family-and-biopolitics]] — sexuality, reproduction, and state power.
 - [[sexuality-in-world-belief-systems]] — the cross-cultural evidence (how traditions construed sex); [[urban-sexual-cultures]] — the city as the site of sexual practice; [[modern-sexuality]] · [[sexual-revolution]] — the modern transformation.
 - [[roman-family-and-household]] · [[late-antique-family]] · [[women-in-precolonial-southeast-asia]] — period/regional cases the field illuminates.

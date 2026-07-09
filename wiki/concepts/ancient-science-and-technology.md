@@ -102,6 +102,47 @@ with it Indian learning) into China. The foundations laid by 800 CE shaped the
 European Middle Ages, the Islamic golden age (see [[abbasid-caliphate]],
 [[baghdad]]), and East Asian culture to the modern era.
 
+## Ancient Technology (Cambridge Economic History)
+
+Helmuth Schneider's technology chapter (Ch. 6) in
+[[scheidel-cambridge-economic-history-greco-roman-world-2007|The Cambridge Economic History of the
+Greco-Roman World]] (2007) directly addresses whether ancient technology was fundamentally
+stagnant. **[CONTRADICTION]**: the pre-1984 scholarly consensus (Lombroso-Ferrero 1920, Kiechle
+1969, Vernant 1974, Gille 1980) held that ancient technology added little of economic significance
+to the world's technical stock, attributing this to religious reverence for nature, rhetoric-shaped
+elite thought unsuited to technical understanding, elite disdain for practical application, lack of
+mass markets and capital, and above all abundant cheap slave labor removing the incentive for
+labor-saving machines. **M. I. Finley's** 1965 essay "Technical Innovation and Economic Progress in
+the Ancient World" is the paradigmatic statement of this stagnationist view — yet Finley's own list
+of ancient inventions (cog wheel, screw, rotary and water mill, screw press, glass-blowing,
+concrete, hollow-cast bronze, torsion catapult) is substantial, and Schneider argues Finley's own
+evidence undercuts his stated conclusion. A **revisionist turn** — White's *Greek and Roman
+Technology* (1984), Wikander's 1984 water-mill diffusion study, and later work by Greene and Wilson
+— argues Roman-era technology, and water power specifically, was considerably more widespread than
+the stagnation thesis allowed; Schneider endorses this revisionist reading, while cautioning against
+judging pre-modern technology by the anachronistic yardstick of the Industrial Revolution, insisting
+ancient technology be judged "from the standpoint of their own conditions" as an agricultural,
+tool-based (*organa*, per Vitruvius), human-and-animal-muscle-powered system.
+
+Schneider traces detailed innovation sequences within this framework: the grain mill's evolution
+from the Homeric saddle quern through the donkey-powered "Pompeian" mill to the water mill (from the
+first century BCE) and the large multi-wheel Barbegal complex (16 wheels, Trajanic) and the
+Janiculan hill mills supplying fourth-century Rome, down to Belisarius's improvised "ship mills" on
+the Tiber during the 537 CE siege (Procopius, *Goth.* 1.19.8-29); the oil/wine press's evolution from
+lever-and-weights to the mid-first-century-CE direct-pressure screw press, a design so efficient it
+persisted with little change into the early twentieth century; mold-based mass production of *terra
+sigillata* pottery at kilns like La Graufesenque (up to 30,000-pot capacity); the invention of the
+glass-blowing pipe (first century CE), enabling larger, cheaper, transparent glass vessels; *opus
+caementicium* (poured concrete, from the second century BCE), which made the Pantheon's dome
+possible; and water-lifting technology (shaduf, scoop-wheel, Archimedean screw) whose preeminent
+economic importance, Schneider argues, was not irrigation but drainage of Roman mines below the
+water table in Spain, enabling the gold and silver extraction that underwrote Republican and
+early-Principate coinage. His overall conclusion: ancient economies achieved substantial extensive
+growth (urbanization, new mines, more workshops, expanded cultivation) but technological change
+never matched the Industrial Revolution's transformation of production or triggered comparable
+per-capita intensive growth — positioning the chapter as a middle path between primitivism and
+modernism (see [[ancient-economy-primitivism-vs-modernism]]).
+
 ## Relation to Other Pages
 
 The applied, generic counterpart is [[technology-and-innovation]]; the storage

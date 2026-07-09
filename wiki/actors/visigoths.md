@@ -9,7 +9,7 @@ affiliated_with: [gothic-peoples, foederati, arian-christianity]
 opposed_by: [eastern-roman-empire, merovingian-franks, umayyad-caliphate]
 key_events: [battle-of-adrianople-378, sack-of-rome-410, battle-of-vouille-507]
 key_processes: [ethnogenesis, barbarization-of-the-roman-army]
-sources_ingested: 3
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, state, late-antiquity, western-europe, mediterranean, germanic]
 ---
@@ -85,3 +85,26 @@ Ralph Mathisen's chapter in the [[sources/effros-moreira-oxford-handbook-merovin
 - [[gothic-peoples]] · [[ostrogoths]] · [[ethnogenesis]] · [[huns]] · [[alaric]]
 - [[battle-of-vouille-507]] · [[clovis]] · [[merovingian-franks]]
 - Sources: [[geary-before-france-germany-1988]]; [[wickham-framing-the-early-middle-ages-2005]]
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]] (Chs. XXVI, XXX–XXXI, XXXVIII).
+
+- **Hunnic pressure and admission.** Visigoths under Fritigern and Alavivus fled Hunnic/Alan pressure to the Danube; Valens admitted the nation (see [[battle-of-adrianople-378]]).
+- **Scale of crossing.** Officers quit counting; Gibbon’s probable figure ~200,000 warriors; with women/children/slaves near a million—“reserved to subvert the foundations of Rome.”
+- **Theodosian settlement.** Visigoths in Thrace with corn/cattle, temporary tax exemption, native manners/language/government, hereditary chiefs, royal dignity abolished, ~40,000 foederati; “it was apparent… that the Goths would long remain the enemies, and might soon become the conquerors of the Roman empire.”
+- **Revolt after Theodosius.** Subsidy cut as “specious pretence”; contempt for weak sons; revolt from Dalmatia to Constantinople’s walls.
+- **Adolphus (Ataulf).** Once aspired to obliterate Rome’s name; then wished “the sword of the Goths, not to subvert, but to restore and maintain, the prosperity of the Roman empire.”
+- **Later kingdom.** Premature death of Euric left infant Alaric II against ambitious Clovis; Poitiers cost Aquitaine; Visigoths retained Septimania; Gibbon notes Visigoths of Spain less numerous than Franks (language evidence).
+
+## From Mitchell, Later Roman Empire (2015)
+
+**Treaty of 3 October 382.** After incomplete reconquest 379–82, Theodosius allowed Tervingi and parts of Greuthungi to settle south of the Danube in Thracia and Dacia Ripiensis, retaining social structure and military organization — what the Tervingi had asked in 376, analogous to Constantine’s 332 Gothic treaty but now *inside* the empire. Legal status is debated (*dediticii* vs epoch-making *foedus*); in practice “profoundly ambiguous” — subjects of the emperor and of their own tribal rulers.
+
+**Rhine 406 and Aquitaine 418.** With western provinces unprotected, Vandals, Alans, and Suebi crossed the frozen Rhine midwinter 406. In 418 Honorius’ general Constantius escorted the Visigoths into Aquitania (Garonne, Toulouse–Bordeaux), founding a kingdom lasting until 507, while Honorius consolidated Italy, Africa, and southern Gaul even as Spain, northern Gaul, and Britain slipped away.
+
+**Fifth-century Gallic kingdom.** Aetius contained the Goths in the 430s until Vandal Carthage and Hunnic pressure forced Roman retrenchment. 451 Catalaunian coalition under Aetius (with Visigoths, Franks, Burgundians) checked Attila; Theoderic I was killed; Aetius steered Thorismund home to preserve Hunnic balance. Theoderic II elevated Avitus (455), defeated Suevi 456, took Narbonne 461. Effectiveness “depended on their ability to work with the great estate-owning families of Gaul and Spain”: Goths provided military security; provincial aristocracy maintained civil law, Catholic Church, and economic structures.
+
+**Euric and Alaric II.** Euric (murdered Theoderic II 465; to 484) expanded as western emperors collapsed; *Codex Euricianus* was the first Visigothic written law (Latin, Roman-modeled). Alaric II (to 507): *Breviarium* 506 as common Gothic–Roman authority; Council of Agde 506 as Catholic–Arian reconciliation attempt; marriage to Theodegotha after 493. Visigothic Gaul ended with Clovis’s victory at Vouillé/Voulon 507.
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell, *A History of the Later Roman Empire* (2015)]].

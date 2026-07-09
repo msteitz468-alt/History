@@ -16,6 +16,13 @@ tags: [actor, person, classical-antiquity, greece]
 
 # Demosthenes (Athenian General)
 
+> **Disambiguation:** this page covers the **fifth-century Athenian general** (fl.
+> 425–413 BCE, the Pylos/Sphacteria and Sicilian-relief strategist). He is a **distinct
+> individual** from the fourth-century Athenian orator and statesman Demosthenes,
+> chief opponent of [[philip-ii-of-macedon|Philip II]], covered at
+> [[demosthenes-orator]]. Ancient and modern sources sometimes use the bare name
+> "Demosthenes" for either man; do not conflate them.
+
 ## Overview
 
 **Demosthenes** was an innovative Athenian general who, together with Hippocrates, devised and executed the bold offensive operations of 424 against Megara and Boeotia. His plans marked a clear departure from strict Periclean strategy toward the use of permanent fortified bases in enemy territory and coordinated multi-front attacks.

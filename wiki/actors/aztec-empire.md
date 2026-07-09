@@ -9,7 +9,7 @@ affiliated_with: [[[tenochtitlan|Tenochtitlan]], "the Mexica", "the Triple Allia
 opposed_by: ["the Tarascan/Purépecha Empire", "Tlaxcala", "conquered Mesoamerican city-states", "the Spanish"]
 key_events: ["[[triple-alliance-formation-1428|formation of the Triple Alliance (1428)]]", "imperial expansion under Moctezuma I and Ahuitzotl", "the Spanish conquest (1519–1521)"]
 key_processes: [[[mesoamerican-state-formation]], [[state-formation]], [[empire]]]
-sources_ingested: 6
+sources_ingested: 8
 last_updated: 2026-07-08
 tags: [actor, empire, late-middle-ages, mesoamerica]
 ---
@@ -254,13 +254,85 @@ project volumes.
 
 The empire as a **tributary superstructure** ended with the Spanish conquest of 1521; colonial and national histories of its peoples belong on [[central-mexico-indigenous-colonial]] and [[central-mexico-indigenous-since-independence]]. Sarah L. Cline’s regional synthesis stresses one structural point that belongs on this actor page: for indigenous central Mexicans, Conquest marked the **breakup of the Aztec empire superstructure**, but **many component [[altepetl]] became bastions of indigenous social, economic, and political life under Spanish rule** — the Spanish capital of Mexico City on the site of [[tenochtitlan|Tenochtitlan]] being the important exception. The Triple Alliance had been many conquered altepetl that kept internal cohesion while paying tribute; that nested modularity, not a territorially administered state, is why local polities could outlive the empire (Cline 2000). Independent Tlaxcala’s alliance with Cortés and early colonial benefits — and its modern Mexican statehood — is a legacy of the empire’s incomplete hegemony over the central region (Cline). Schryer later treats the former imperial core as still demographically majority-native on the eve of independence and as the hub of post-1821 central Mexico (Schryer 2000).
 
+## Evans & Webster 2001 (Berdan; Parsons; Smith; Webster; Hassig; Pollard; Voorhies)
+
+Multi-author encyclopedia synthesis in [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]] corroborates and densifies the imperial package:
+
+### Scope, demography, expansion sequence (Berdan; Parsons; Smith)
+
+- “Aztec” is a modern general term for Late Postclassic (c. A.D. **1200–1520**) central Mexican Nahua peoples; they identified as members of ethnic city-states. Triple Alliance (**1430–1521** per Berdan’s span): Mexica of Tenochtitlán + Acolhua of Texcoco + Tepaneca of Tlacopan.
+- Empire extended discontinuously Pacific–Gulf coasts and from just north of the Basin to the Guatemala border; core Basin **>2,200 m** with lakes, hills, forests. Diverse resource zones supplied staples plus cotton, cacao, turquoise, feathers, jaguar skins, gold, amber, jadeite, liquidambar, copal, salt.
+- Imperial expansion: Itzcoatl Basin victories; Motecuhzoma I Ilhuicamina (**1440–1468**) beyond Basin; Axayacatl (**1468–1481**), Tizoc (**1481–1486**); aggressive expansion under Ahuitzotl (**1486–1502**); Motecuhzoma II Xocoyotzin (**1502–1520**) consolidation/rebellion-quelling. Setbacks: mid-1400s four-year famine; **1510** flood at Tenochtitlan; extreme losses vs Tarascans; **never conquered Tlaxcalans** inside empire bounds; distant rebellions increased (Berdan).
+- Parsons: Late Postclassic Basin population well over a **million** (more than four times Classic maximum); rapid lakeshore urbanization; majority of urban residents non-agriculturalists; administered markets strengthening Triple Alliance control; Templo Mayor caches of exotic tributary materials.
+- Smith: **150–200** Aztec city-states; Basin population **>1 million** in 1519; agricultural intensification (terraces, check dams, irrigation, chinampas); nobility **2–5%**; outer provinces tribute + markets; frontier alliances against strong enemies.
+
+### Frontiers and enemies
+
+- **Tarascans:** from the 1430s to Conquest continually in offensive/defensive action; fortified frontier Lerma to Balsas blocked Aztec westward expansion (middle Balsas metals; northern obsidian and sacred springs); border ~**160 km** from Taximaroa to Tenochtitlan; messengers could move capitals in four days under escort at ports of entry; “foremost enemy of the Aztecs” (Helen Perlstein Pollard). Smith notes **1478** Tarascan victory killing/wounding **20,000** Aztec soldiers; empty-land fortress frontier until Spanish conquest; bronze/obsidian trade still crossed the frontier both ways.
+- **Soconusco:** Aztec incorporation converted independent coastal rulers into tribute-paying bureaucrats within decades before Spanish conquest (Barbara Voorhies).
+- **Guerrero:** Mexica conquest had economic motives (cotton, cacao, honey, copal, gold/copper, green-stone from Tepecoacuilco/Mezcala) and political motives (defend southwestern border from Tarascan advances — possibly prime catalyst for northwestern conquests) (Louise I. Paradis).
+- **[[morelos-region|Morelos]]:** Tlahuica/Xochimilca city-states (Cuauhnahuac, Yautepec, Huaxtepec) conquered under Itzcoatl and Motecuhzoma I into Cuauhnahuac and Huaxtepec tributary provinces; cotton textiles and amate paper exports (Smith & Hirth).
+
+### Warfare and weaponry (Webster; Hassig)
+
+- True permanent professional armies rare; Aztec elite males trained for war but no permanently mobilized army except some frontier garrisons; military meritocracy rewarded successful warriors (including talented commoners) with land/serfs/status; special schools, military societies, high offices. Commoners obligated via *calpulli*; armed from state armories. Capture and dedication of sacrificial victims a major object of war. Aztec society more militaristic (institutionalized warfare as politics + cosmic ideology) than Maya (David L. Webster).
+- Battle sequence (Hassig-cited synthesis): dawn signal; projectile barrage from ~**60 m** (arrows, slingstones); atlatl darts at closer range to penetrate cotton armor; close with sword/thrusting spear and shield; knightly orders first, novices last; standards as unit cohesion; feigned-retreat ambushes. Flower Wars as staged combat that was also strategic attrition requiring longer campaigns than conventional conquest.
+- Aztec arms (Ross Hassig): fully bladed thrusting spears **1.8–2.2 m**; broadsword **>0.8 m** oak with ~**0.6 m** cutting surface each side; round cane shields **0.75 m**; quilted cotton torso armor **5–8 cm**; *chimalacalli* armored canoes; chile-fire gas, wasp nests; no poison arrows; fire arrows used. Bow entered Central Mexico ~A.D. **1100** (range ~**90–180 m**); Toltec short sword after A.D. **900** had been the prior major shock innovation.
+
+### Art and housing (Tate; Abrams)
+
+- Aztec sculpture cohered after **1450**: massive basalt combining low-relief with volumetric form; themes of sacrifice and destructive deities; formats include Chac Mools, Atlantean warriors, gigantic earth goddesses, stone boxes, heart receptacles, temple-thrones. Coatlicue (found 1790): **3.5 m** tall, snake skirt, heart/hand necklace; underside Tlaloc in birthing pose. Aztecs eschewed ruler portraits and Maya-style phonetic hieroglyphs (Carolyn Tate).
+- Commoner housing uniquely variable in size/quality within the commoner segment under imperial scale — two types at Cihuatecpan and Capilco/Cuexcomate: small single-room (~**4×3 m**) vs multi-room (~**10×13 m**) houses (Elliot M. Abrams).
+
+### Gardens (Evans)
+
+- Lords of Tenochtitlán and Texcoco developed gardens as palace complexes, pleasure parks (zoos, aviaries), monumental retreats (Chapultepec, Texcotzingo), and horticultural nurseries (Huaxtepec, Acatetelco).
+
+## Fagan & Durrani (2020): Tlacaelel's rewritten history, Templo Mayor, and the fall
+
+Fagan and Durrani's *World Prehistory* (10th ed., 2020) restates the Aztlan-migration origin
+narrative (under the god Huitzilopochtli) as unreliable dynastic propaganda that "should not be
+taken at face value": the historical record shows the Mexica settling the Valley of Mexico by
+the 13th century as unwelcome newcomers, founding the twin capitals of Tenochtitlan and
+Tlatelolco after 1325 on swampy lake islands. They became mercenaries for the Tepanec lord
+Tezozomoc in 1367; after his death in 1426, the Aztec ruler **Itzcoatl** and his adviser
+**Tlacaelel** crushed the Tepanecs, whereupon Tlacaelel ordered rival codices burned and
+rewrote Aztec history to present the Mexica as the divinely chosen heirs of the Toltecs — a
+documented instance of deliberate state historical falsification, distinct from the ordinary
+propagandistic gloss common to dynastic origin myths.
+
+On political and economic structure, Fagan & Durrani describe the empire as **less
+centralized than Teotihuacan** (per settlement-pattern archaeology), run through **calpulli**
+(kin-based communal-land corporate groups) and a professional merchant class, the **pochteca**
+— both institutions inherited from Toltec and Teotihuacan precedents rather than Aztec
+inventions. Excavation of the **Templo Mayor** (Eduardo Matos Moctezuma, from the 1978
+discovery of the Coyolxauhqui stone) documented **six construction phases** (the second dated
+to c. 1390 CE) and roughly 6,000 objects across **86 offering caches**, mostly tribute and
+spoils, including genuine ancient Teotihuacan-era masks; the temple's design symbolized Aztec
+cosmology — four celestial tiers, an underworld beneath, and radiation along the cardinal
+directions.
+
+**Ahuitzotl** (r. 1486–1502), the sixth *tlatoani* and the greatest Aztec conqueror,
+reportedly sacrificed 20,000 prisoners at the 1487 Great Temple rededication — a figure Fagan
+& Durrani flag as disputed among historians and frame with "reportedly." His successor,
+**Moctezuma Xocoyotzin (Moctezuma II)**, elected 1502, became obsessed with omens of
+Quetzalcoatl's return after 1517 reports of "mountains moving" (Spanish ships) off the
+Yucatán; Cortés landed in 1519, which — by coincidence of the Aztec calendar — fell in the
+year "1 Reed," the same year-sign associated with Quetzalcoatl's prophesied return (see
+[[toltec]] for the origin of this legend, which modern scholars treat with considerable
+skepticism as likely post-hoc Aztec/Spanish construction). Cortés landed at Veracruz in 1519
+with roughly 600 men; Tenochtitlan fell after siege in 1521; securing "New Spain" took about
+ten years in total. Disease — smallpox and influenza — killed far more people than combat did.
+
 ## Related
 
+- [[toltec]] — the earlier Tula-based state whose Quetzalcoatl-return legend fed Moctezuma II's fatal hesitation before Cortés.
 - [[tenochtitlan]] — the Mexica capital.
 - [[triple-alliance-formation-1428]] — 1428 formation event.
 - [[altepetl]] — city-state modular unit.
 - [[chinampa-agriculture]] — southern Basin intensive agriculture.
 - [[aztec-economy]] · [[aztec-religion-and-human-sacrifice]]
+- [[morelos-region]] · [[puebla-tlaxcala]] · [[basin-of-mexico]]
 - [[central-mexico-indigenous-colonial]] · [[central-mexico-indigenous-since-independence]]
 - [[inca-empire]] — the contemporaneous Andean empire (the volume's other American case).
 - [[columbian-exchange-1492]] — the disease catastrophe that enabled the conquest.
@@ -269,3 +341,4 @@ The empire as a **tributary superstructure** ended with the Spanish conquest of 
 - [[mesoamerican-calendar]], [[teotihuacan]], [[tikal]], [[tula-hidalgo]], [[toltec]], [[purepecha]]
 - [[cambridge-history-native-peoples-americas-v2-1]] — Charlton Ch. 11.
 - [[cambridge-history-native-peoples-americas-v2-2]] — Cline Ch. 16 (aftermath framing); Schryer Ch. 17 (regional continuity).
+- [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

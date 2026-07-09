@@ -8,8 +8,8 @@ region: [china, east-asia, eurasian-steppe]
 process_type: [economic, technological, cultural, demographic]
 driven_by: ["pre-domestication cultivation of wild millets and rice", "[[agricultural-origins]]", "Holocene environments of the Yellow and Yangtze basins"]
 produces: ["the north-millet / Yangtze-rice agricultural system", "the 'five grains' tradition", "spread of rice to SE Asia and millet to Europe", "Bronze Age food globalization"]
-sources_ingested: 2
-last_updated: 2026-06-26
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, neolithic, china, east-asia]
 ---
 
@@ -113,6 +113,18 @@ Majiayao) — possibly via population movement, diffusion, or elite demand for e
 food. Wild animals actually **dominated** the Kangjia assemblage (72%, rising over time), much
 of it consumed in **ritual feasting** rather than daily diet — tying subsistence to the
 emerging social hierarchy of [[early-china-state-formation]].
+
+## Southern rice and northern millet chronology (Fagan & Durrani 2020)
+
+Fagan & Durrani (2020) add site-level detail on both centers. In the south,
+**Diaotonghuan** and **Xianrendong** caves show the wild-to-domesticated rice
+transition occurring 8000–6000 BCE via phytolith evidence; by 3000 BCE rice was
+the dominant crop of the **Liangzhu** state and had spread into Southeast Asia.
+In the north, **millet domestication** is dated ~9000–7500 BCE; **Jiahu**
+village (7000–5500 BCE, roughly 260 people) was destroyed by flood; **Cishan**
+(~6000 BCE) served as a ceremonial/storage center; and the **Yangshao** culture
+(~4800–3200 BCE) developed a major millet-farming tradition across the Huang Ho
+basin, comparable in scale to Egypt and Mesopotamia. (Fagan & Durrani 2020)
 
 ## End Conditions
 

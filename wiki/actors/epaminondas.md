@@ -9,8 +9,8 @@ affiliated_with: [Thebes, the Boeotian Confederacy, Pelopidas, the Arcadian Leag
 opposed_by: [[[sparta]], [[agesilaus-ii|Agesilaus II]], [[athens]], Alexander of Pherae]
 key_events: [the victory at [[battle-of-leuctra-371bce|Leuctra]] 371 BCE, the invasion of Laconia and [[liberation-of-messenia-369bce|liberation of Messenia]] 370–369 BCE, the founding of Megalopolis, the [[battle-of-mantinea-362bce|battle of Mantinea]] 362 BCE]
 key_processes: [[[thebes-hegemony-371bce]], the tactical revolution in hoplite warfare]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, central-greece]
 ---
 
@@ -53,6 +53,17 @@ with oligarchs and democrats alike, leaving ruling oligarchs in place at Sicyon 
 Achaea (366) rather than imposing democracies. Roy notes this earned him Arcadian
 mistrust: "it gave Thebes allies who could not live together."
 
+[[osborne-classical-greece-2000|Osborne (ed.), *Classical Greece 500–323 BC* (2000)]]
+underscores why Thebes could not simply inherit Sparta's role despite Epaminondas's
+victories: Boeotia was agriculturally rich but possessed **neither Athens's silver nor
+Sparta's helot economy**, its formidable infantry were part-time Boeotian farmers with
+limited campaigning capacity, and Thebes's annually-rotating **Boeotarch** magistracy
+gave no stable institutional base for a long-term hegemonic strategy — Epaminondas and
+Pelopidas, "the architects of an unprecedented Theban predominance," were nonetheless
+both hauled into court by domestic political opponents even at the height of their
+success. Thebes's power was thus personal and structurally fragile in a way Sparta's
+(built on Messenian helot labor) and Athens's (built on tribute) had not been.
+
 ## Death and the limits of the hegemony
 
 The Theban hegemony rested almost entirely on Epaminondas and **Pelopidas**. When the
@@ -75,4 +86,4 @@ could not survive him, leaving the exhausted Greek world open to Macedon.
 - City: Thebes/Boeotian Confederacy · partner: Pelopidas · process: [[thebes-hegemony-371bce]]
 - Victories: [[battle-of-leuctra-371bce]] · [[battle-of-mantinea-362bce]] · act: [[liberation-of-messenia-369bce]]
 - Enemies: [[sparta]] · [[agesilaus-ii]] · [[athens]] · studied by: Philip of Macedon
-- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 7, Roy)
+- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Ch. 7, Roy) · [[osborne-classical-greece-2000|Osborne (ed.) 2000]] (Ch. 8; the structural limits of Theban power)

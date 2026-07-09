@@ -9,7 +9,7 @@ affiliated_with: [[[zoroastrianism]], the Arsacid dynasty, Hellenistic culture (
 opposed_by: [[[roman-republic|Rome]], the [[seleucid-empire|Seleucids]], [[kushan-empire|Kushans]], steppe nomads]
 key_events: [conquest of Mesopotamia under Mithridates I, Battle of Carrhae 53 BCE]
 key_processes: [[[empire]], [[silk-roads]], [[trade-network-formation]], [[hellenistic-world]]]
-sources_ingested: 6
+sources_ingested: 7
 last_updated: 2026-07-08
 tags: [actor, empire, classical-antiquity, late-antiquity, iran-plateau]
 ---
@@ -199,6 +199,45 @@ Osmund Bopearachchi's numismatic study in [[sources/kim-eurasian-empires-2017|Ki
 
 Notably, an inscription from Buner (published by Harry Falk) records a bowl dedication naming "the great king Moga (Maues)" alongside "the Mahākastrapa Vasa-Abdagases, son of Mahapala-Suspala" — evidence Bopearachchi (following Falk) reads as pointing to a **peaceful transition of power**, against "a common belief that the successions of Indo-Greeks, Indo-Scythians and Indo-Parthians were based on bloody battles." The Indo-Parthian kingdom was itself supplanted when Kujula Kadphises' Kushan coinage overstruck Gondophares' issues, marking the end of Parthian rule in Paropamisadae and Gandhāra c. 30–90 CE (see [[kushan-empire]]).
 
+## Goldsworthy: the cavalry-only military system, Carrhae, and the Rome–Parthia stalemate
+
+[[sources/goldsworthy-roman-warfare-2000|Adrian Goldsworthy]]'s *Roman Warfare* (2000) supplies
+a military-analytical companion to the political/economic picture above, centered on why Parthia
+was Rome's most dangerous eastern opponent for roughly three centuries after their first clash
+in 54 BCE.
+
+- **A cavalry-only army.** Parthian forces relied almost exclusively on horsemen — poor-quality
+  infantry archers are barely mentioned in the sources. The two key types were heavily armoured
+  **cataphracts** and unarmoured **horse-archers**, who avoided close combat, using composite
+  bows and mobility to wear an enemy down before the cataphracts delivered a decisive charge; if
+  the attack failed, Parthian forces withdrew and shadowed rather than pressing a losing
+  engagement.
+- **Carrhae (53 BCE) as the formative encounter.** Both sides were overconfident: Roman cavalry
+  and light infantry rashly pursued a feigned Parthian withdrawal and were destroyed, while the
+  legionary square endured a sustained arrow barrage (resupplied via a camel train) without ever
+  being broken by a direct cataphract charge — the army was ultimately undone by loss of nerve
+  and a disastrous retreat, in which the Parthians, skilled at harassing retreating infantry,
+  destroyed nearly the whole force and captured the legionary eagles. Goldsworthy treats Carrhae
+  not just as a disaster but as **the encounter that shaped subsequent Roman doctrine**: after it,
+  Parthian invasions of Syria failed when Parthian forces attacked uphill against slinger-supported
+  legionaries (sling bullets could concuss a cataphract even without penetrating armour), pushing
+  both sides toward mutual caution and the Romans toward a combined-arms response (heavy infantry
+  for solidity, missile troops to outrange horse-archers, cavalry for controlled counterattack).
+- **A persistent strategic stalemate.** In Goldsworthy's summary judgment, "the Romans could not
+  force the mobile Parthians into a decisive battle and the Parthians could not prevent a
+  well-prepared and well-handled Roman army from marching through their territory" — Rome lacked
+  the manpower/supply base and the political will (a years-long campaign against Parthia could
+  only be led by an emperor, since a subordinate general who won it would become a dangerous
+  rival) to conquer the country outright, while Parthia could never stop a prepared Roman army
+  from marching in and sacking Ctesiphon (done more than once). Conflict accordingly refocused on
+  control of buffer kingdoms, above all Armenia.
+- **Structural internal weakness.** Parthia's own political system limited its military
+  effectiveness: the Arsacid king nominally controlled trade and city wealth, but great noble
+  families supplied most royal troops on a feudal basis and had usurped royal prerogatives; the
+  king had no interest in his nobles' armies becoming too effective — **Surena**, the victor of
+  Carrhae, was executed by the king as a potential rival. Only in 155 CE did Parthia itself
+  initiate a war; otherwise Rome was the initiator.
+
 ## Ball's "erasure" thesis (2000)
 
 Warwick Ball's *[[ball-rome-in-the-east-2000|Rome in the East]]* argues the Parthian period is
@@ -211,3 +250,31 @@ Achaemenid past. Ball urges seeing Parthia on its own terms — a multinational 
 through which Western scholarship usually views it. (He prefers "Iran" to the Western appellation
 "Parthia" throughout.) Part of his [[orientalization-of-rome]] argument that the Near East and
 Iran are read through a Graeco-Roman lens.
+
+## Fisher (2020): The "Parthian Near West" client scattering
+
+Greg Fisher (*Rome, Persia, and Arabia*, 2020) frames Parthia's western frontier not as a
+directly-administered province but as a scattering of client states — the "Parthian Near
+West" — including [[hatra|Hatra]], [[kingdom-of-edessa|Edessa/Osroëne]], and
+[[characene|Characene]] (with Adiabene), which together with Rome's own client kingdoms
+formed a buffer zone between the two empires; as clients were progressively absorbed into
+direct imperial control on both sides, the buffer narrowed and "neutrality" became
+untenable, drawing Arab princes, kings, and nomads into an increasingly polarized political
+environment. Parthia, beset by internal weakness during the Mithridatic Wars, had refused
+requests from both Lucullus and Mithridates VI to intervene against Rome; Lucullus and
+Pompey later confirmed a "wary Roman friendship" fixing the Euphrates as the border.
+
+Crassus's invasion (54/3 BCE) broke this status quo: the Parthian general Surena defeated
+Crassus at [[battle-of-carrhae-53bce|Carrhae]] near Edessa, with troops from Osroëne
+attacking Crassus's rear; Fisher questions the later legend that Edessa's king "betrayed"
+Crassus, noting Edessa was already a Parthian ally and that Crassus's own hubris likely
+bore more responsibility — Arabs, he argues, made "better scapegoats" for Roman authors.
+Trajan's eastern campaign (113–17 CE) briefly overran the Parthian Near West — Armenia and
+Mesopotamia became short-lived provinces, Characene became "a Roman friend for the
+duration of the war," and Trajan occupied Seleucia-Ctesiphon and installed the puppet king
+Parthamaspates before dying on his return journey. Hadrian's retrenchment let Parthia
+reassert control along the Euphrates. The Arsacid dynasty collapsed in 224 CE, after which
+Hatra and the other surviving client polities not already absorbed as Roman provinces fell
+to the ensuing turmoil.
+
+Source: [[sources/fisher-rome-persia-arabia-2020|Fisher, *Rome, Persia, and Arabia* (2020)]].

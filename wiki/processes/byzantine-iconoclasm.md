@@ -8,8 +8,8 @@ region: [anatolia, balkans, mediterranean]
 process_type: religious
 driven_by: [imperial theology of images, military crisis and the search for divine favour, the contest between imperial and ecclesiastical/monastic authority]
 produces: [the Triumph of Orthodoxy (843), the estrangement of Byzantine and western Christendom, the Carolingian response on images (the Libri Carolini)]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, early-middle-ages, anatolia]
 ---
 
@@ -56,3 +56,15 @@ own theology hard to recover and prone to caricature. The depth of popular suppo
 relationship to the contemporary rise of Islam (with its own aniconism), and its economic and political
 (versus purely theological) motives are all debated. NCMH II uses it chiefly as a lens on East–West
 relations rather than as an internal Byzantine narrative.
+
+## Gibbon, *Decline and Fall* (1776–1788) — Chs. XLIX–LIV
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]] folds iconoclasm into East–West schism and a long chain from Paulicians to Reformation — Enlightenment Protestant teleology, not modern Byzantinist consensus.
+
+- **Image-worship “stole into” the church:** By insensible degrees; Jews and Muslims charge Christians with idolatry from Law and Koran; Leo’s reform resists popular deities.
+- **Greek fire vs. iconodule fleet:** Archipelago islands arm against the emperor; “their miracles were inefficient against the Greek fire.”
+- **Italy and the papacy:** Italians swear to die for pope and images; withhold tribute; destroy statues of Leo; liberty of Rome rescued after 750 years (see [[papacy]]).
+- **Paulicians (Gibbon’s reformation seedbed):** Anti-image “Manichaean” branch; exile scatters “seeds of reformation” in the West; creed reduces images, relics, cross, eucharist to mortal workmanship; persecution produces armed revolt with Saracen alliance (Tephrice, Chrysocheir).
+- **Thrace transplant → Albigensians → Luther:** Constantine Copronymus and Tzimiskes transplant Paulicians to Thrace/Philippopolis; Western diffusion yields Albigensians; spirit reappears in Wycliffe, Huss, Zwingli, Luther, Calvin — Gibbon’s teleology of private judgment (philosophic balance-sheet of Reformation ends the chapter).
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/gibbon-edward]]

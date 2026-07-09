@@ -8,8 +8,8 @@ origin: >
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [central-greece, aegean, mediterranean]
 contested: no
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept, greece]
 ---
 
@@ -102,11 +102,19 @@ the polis declined, art turned from the civic-idealizing mode toward the
 **personal, the regal and the theatrical** that the Hellenistic kingdoms would carry
 forward.
 
+## OHCW (Boardman) — man as subject, popular craft, narrative
+
+[[boardman-oxford-history-classical-world-1986|OHCW (1986)]], Ch. 12 (John Boardman): Greek art’s essential subject is **man** (secondarily woman); gods/heroes enact human aspirations with bodies of perfect athletes — contrasting Egyptian/Near Eastern demonic, court, temple, and tomb obsessions. In little over 200 years to c.500, representation moved from geometricized parts to detailed plausible images, then added life by deliberate observation. Classical male athletic/warrior **nudity** was commonplace in life, not exotic aesthetic; later “heroic nude” is a secondary concept.
+
+**Sequence.** After Bronze Age collapse, virtually new start in Geometric (Proto-Geometric compass; meander); Athenian Dipylon Master’s grave vases (c.740) classicize Geometric with prothesis/burial processions. Orientalizing via Cyprus, Al Mina, ivory techniques; Corinth invents black-figure; mid-seventh kouros/kore from Egyptian hard-stone lesson applied to Naxian/Parian marble. Doric (mainland, timber patterns) and Ionic (east-Greek flower/scroll) orders from temple needs. Red-figure invented at Athens c.530; Pioneers experiment with anatomy sculpture later matches in three dimensions. **Kritian boy** among Acropolis Persian-sack debris: weight-shift “life deliberately observed… all becomes possible.” Olympia Zeus temple (dedicated 456): west pediment Archaic vigour, east Classical calm as pregnant foreboding. Phidian Parthenon Classicism: “At no time… was the image of the divine so human, the human so divine.” Polygnotus to Zeuxis: trompe-l’oeil anecdotes mark start of western painting tradition. Fourth century: Praxiteles (Cnidus Aphrodite nude), Scopas (expressionism), Lysippus (new proportions, three-dimensional viewing), true contemporary portraiture.
+
+**Patronage and function.** Pericles’ use of League funds for rebuilding: greatest state patronage until Hellenistic capitals; Parthenon “less a cult place than a war memorial.” Much art functional for defined commissions — “art for art’s sake” unknown. Narrative art encapsulates oral myth in single scenes; “we exaggerate their literacy.” Religious art rarely serves exclusive magic; cult statues differ mainly by attributes/size/materials (Athena Parthenos’ gold removable war reserve). No antiquity distinction of “artist” vs craft (*techne*); signatures from c.700 reflect pride; only with Phidias does special status appear. **Closing thesis:** the artist served a far wider community spectrum than priests and governors — first truly **popular art** beyond magic or status display. Griffin (Intro): Greek preference for aesthetic perfection over technical innovation; Egyptian early sculpture style acknowledged and humanized. Murray (Ch. 9): Periclean public works mixed free/slave labour at equal wages; painted pottery major export until late fourth century.
+
 ## Related
 
 - Monuments: [[parthenon]] · the Severe Style at Olympia · the Stoa Poikile · the Mausoleum ([[mausolus]])
 - Fourth century: Praxiteles · Scopas · **Lysippus** ([[alexander-the-great]]'s sculptor)
 - Thought: [[sophists]] (Protagorean relativism) · [[presocratics]] (Pythagorean idealism) ·
-  [[athenian-drama]]
-- Context: [[athens-fifth-century]] · [[pericles]] · [[archaic-greek-material-culture]]
-- Sources: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 8a, Pollitt) · [[lewis-cah-v6-1994|CAH VI]] (Ch. 12c, Pollitt)
+  [[athenian-drama]] · [[greek-religion-and-mythology]] · [[polis-religion]]
+- Context: [[athens-fifth-century]] · [[pericles]] · [[archaic-greek-material-culture]] · [[homer]] (oral myth narrative)
+- Sources: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 8a, Pollitt) · [[lewis-cah-v6-1994|CAH VI]] (Ch. 12c, Pollitt) · [[boardman-oxford-history-classical-world-1986]] (Boardman Ch. 12; Griffin Intro; Murray Ch. 9)

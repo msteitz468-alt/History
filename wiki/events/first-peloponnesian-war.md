@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: regional
 causes: [[[ephialtes-reform-462bce|the break with Sparta after the rebuff of Cimon at Ithome]], Athenian expansionism on the mainland, the Megarian defection from the Peloponnesian League, Corinth's hostility, Athens' determination to subdue [[aegina]]]
 consequences: [the [[thirty-years-peace-446bce|Thirty Years' Peace]] (446/5), the Athenian land empire in central Greece (won then lost), the Athenian Long Walls, the recognition of the Athens–Sparta dualism]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, central-greece, greece]
 ---
 
@@ -83,6 +83,23 @@ Pentekontaetia"): the dates of the Egyptian disaster, the end of the Third Messe
 Tanagra, and the truces are argued by years from Thucydides' temporal adverbs and the
 epigraphic casualty lists. See [[classical-greek-historiography]].
 
+### Osborne (2000)
+
+[[sources/osborne-classical-greece-2000|Osborne (ed., 2000)]] (Ch. 7, Kallet) confirms the
+broad Athens-centred narrative — Athens allying with **Thessaly** and expanding its power on
+land in Boeotia while Sparta, "slow to act unless forced," barely figures in the fighting,
+and Corinth (rather than Sparta) felt most directly threatened by Athenian alliances and
+expansion. Osborne dates the souring of Corinth's relations with Athens to Athens's alliance
+with **Megara** (c. 460, after Megara left the Peloponnesian League over a border dispute
+with Corinth), worsened two years later when Athens gained control of **Aegina**. The war's
+end (446) with the **Thirty Years' Peace** required Athens to give up its mainland holdings
+outside Attica and stipulated arbitration before either side resorted to armed conflict
+again; Athens retained its naval empire intact.
+
+### OHCW (Boardman/Griffin/Murray 1986) — Hornblower (Ch.6)
+
+[[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]] (Hornblower): From c.460 to 446 the First Peloponnesian War pitted Athens against the Peloponnesian League; **Corinth, not Sparta, was more prominent early** (Sparta invaded Attica only in the war’s last year). Corinth’s hostility followed Megara’s adhesion to Athens. Formal hostilities with Persia ended c.449 with the Peace of Callias; the 446 settlement recognized the Athenian Naval Empire and was thus a victory for Athens, though she abandoned mainland gains (notably Boeotia). Sparta during the longer pentekontaetia stirred against Athens only thrice (465 Thasos promise unfulfilled; 446 Pleistoanax invasion then withdrawal; 440 Samos vote reversed by the league)—“reluctant” imperialism driven by helots, Arcadian unrest, Argive weakness, and [[themistocles|Themistocles]] fomenting democracy in the Peloponnese.
+
 ## Related
 
 - Belligerents: [[places/athens|Athens]] · [[delian-league]] · [[corinth]] · [[aegina]] · [[sparta]] ·
@@ -90,4 +107,4 @@ epigraphic casualty lists. See [[classical-greek-historiography]].
 - People: [[pericles]] · [[cimon]] · Myronides · Tolmides
 - Outcome/context: [[thirty-years-peace-446bce]] · [[peace-of-callias-449bce]] ·
   [[third-messenian-war-464bce]] · [[peloponnesian-war]]
-- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 5, Lewis)
+- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 5, Lewis) · [[sources/osborne-classical-greece-2000|Osborne (ed.), *Classical Greece 500–323 BC* (2000)]] (Ch. 7, Kallet) · [[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]] (Hornblower Ch.6)

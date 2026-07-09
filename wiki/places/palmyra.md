@@ -91,3 +91,26 @@ caravans to Charax and at least one maritime venture toward the Indus (Barbaricu
 city's decline in the mid-third century — amid Roman–[[sasanian-empire|Sasanian]] war and
 the [[crisis-of-the-third-century|third-century crisis]] — exemplifies how that conflict
 strangled the western land routes.
+
+## Fisher (2020): Never "Arabs," trade links, and the last buffer
+
+Greg Fisher (*Rome, Persia, and Arabia*, 2020) makes a pointed negative observation: the
+people of Palmyra were never called "Arabs" by any surviving Graeco-Roman writer, and
+there is no evidence they self-identified as such — a striking contrast with neighboring
+Nabataea, Emesa, and Edessa, all repeatedly labeled "Arab" in the sources. The Temple of
+Bel bore an inscription (19 CE) naming a "great king" Sampsigeramus alongside Germanicus,
+adopted son of Tiberius (destroyed by ISIS in 2015, along with a relief showing a camel in
+religious procession). Numerous Palmyrene inscriptions attest trade links with
+[[characene|Characene]] and Bahrain: a Palmyrene named Yarhai is recorded (2nd century CE)
+as satrap stationed at Tylos (Bahrain) on behalf of "Meredat [Mithridates], king of
+Spasinou Charax."
+
+Fisher treats Palmyra, alongside Hatra, as one of the last surviving buffer states between
+Rome and Persia after the Parthian client-state system collapsed in 224 CE: [[odaenathus]]
+stabilized the eastern frontier and repelled Shapur I after the capture of Valerian (260),
+but his widow [[zenobia]]'s subsequent revolt — reaching Egypt — was crushed by Aurelian in
+272, eliminating "one of the last remaining buffers between Rome and Persia." Fisher groups
+Zenobia with [[mavia|Queen Mavia]], Semiramis, Cleopatra, and Boudicca as one of antiquity's
+rare examples of female-led military command.
+
+Source: [[sources/fisher-rome-persia-arabia-2020|Fisher, *Rome, Persia, and Arabia* (2020)]].

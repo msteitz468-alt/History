@@ -9,7 +9,7 @@ affiliated_with: [Sulla and the Sullani (early); the Senate; later the First Tri
 opposed_by: [Lepidus, Sertorius, Spartacus; later Caesar]
 key_events: [the [[sullan-civil-war-83-82bce|civil war]], the revolt of Lepidus (77), the [[sertorian-war-80-72bce|Sertorian War]], the [[spartacus-revolt-73-71bce|Spartacus revolt]], the consulship of 70]
 key_processes: [the rise of the extraordinary military commands, the unravelling of the [[sullan-constitution]]]
-sources_ingested: 4
+sources_ingested: 7
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]
 ---
@@ -115,6 +115,48 @@ Seager's *Pompey* underlies CAH IX's reconstruction. The degree of his early
 "ambition" versus mere opportunism, and whether he and Crassus coerced their
 consulships (Seager: they did not), are debated.
 
+### OHCW (Boardman/Griffin/Murray 1986) — Griffin & Rawson
+
+Griffin (Ch. 19): Pompey raised a private army for Sulla, earned the “teenage butcher”
+tag, extorted triumph and Spanish command, stole limelight from Metellus Pius and
+Crassus (Spartacus), as consul (70) restored tribunes then received pirate (67) and
+Mithridatic (66) commands from the people; after Catiline, **dismissed his army at
+Brundisium (62)** to face a revived Sullan Senate led in spirit by Cato, who blocked
+marriage alliance, en bloc eastern ratification, and Campanian land for veterans —
+“the Senate of Sulla making its last stand.” Rawson (Ch. 17) ends the expansion survey
+with Pompey’s provinces to the Euphrates. Civil-war exactions and Greek loathing of
+Romans (Cicero 66) form the provincial backdrop of his eastern settlement.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Chs. 17, 19).
+
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) casts Pompey as
+Sulla’s most important political heir — and as the man who **failed to devise a viable
+republican reform** when opportunities arose: as consul with Crassus in **70** (and 55),
+after return from the East in **62**, and as **sole consul in 52**. The consulship of 70
+restored full tribunician powers and adjusted juries (senators sharing with equestrian-
+status men) — a decisive modification of the [[sullan-constitution|Sullan New Republic]]
+without a coherent alternative vision. Pressing war in Spain against Sertorius had
+created Pompey’s path to the consulship at 36 without prior office; without military
+need, Flower suggests, the career might have normalized or petered out.
+
+The **60s** are her “decade of Pompey”: exceptional commands (piracy 67; Mithridates
+66–62) broke Sulla’s constrained provincial model; the career is more reminiscent of
+Marius than of Sulla. Pompey’s third triumph over Mithridates (29 Sept 61) can be read as
+a symbol of the end of republicanism and the start of a warlord age. Flower dates
+**functional republican end ~60** to the informal “Big Three” alliance of Pompey,
+Crassus, and Caesar (she rejects the label “First Triumvirate” as equating it with the
+legal 43–33 board) — not to 49 ([[roman-republics-periodization]];
+[[fall-of-roman-republic]]). After Crassus’s death at Carrhae (53), chaos and the burning
+of Sulla’s senate house, **sole consulship in 52** is a recognized turning point: another
+man might have used it to restore republican politics; Pompey did not. When the consuls
+turned to him in January 49, that was a replay of 52. Use of legates to govern Spain
+(delegated *imperium*) and refusal to leave the city’s outskirts set the stage for the
+confrontation with Caesar. Flower also notes repeated Roman responses to eastern piracy
+from the late second century through Pompey’s special command of 67 as empire-pressure
+feeding military irregularity.
+
 ## Related
 
 - Patron/rival: [[sulla]] · rival: Crassus · opponents: Lepidus ·
@@ -123,4 +165,16 @@ consulships (Seager: they did not), are debated.
 - Context: [[marian-army-reforms|the client army]] · [[optimates-populares]] ·
   [[mos-maiorum]] · [[roman-republic]]; began by raising a **private army** from his
   father Pompeius Strabo's clients (aged ~21) to join [[sulla]] in 83
-- Source: [[crook-cah-v9-1992]] (Chs. 6–7, Seager) · [[duncan-storm-before-the-storm-2017]]
+- Source: [[crook-cah-v9-1992]] (Chs. 6–7, Seager) · [[duncan-storm-before-the-storm-2017]] ·
+  [[boardman-oxford-history-classical-world-1986]] · [[woolf-rome-empires-story-2012]] ·
+  [[flower-roman-republics-2010]]
+
+## Woolf, Rome: An Empire's Story (2012)
+
+From [[woolf-rome-empires-story-2012]] (super-commands and fall of Republic).
+
+- **70s bond-building.** Hunting Marian survivors in Africa/Spain (and peers’ wars vs Spartacus, pirates, Mithridates) strengthened general–army bonds: “Every kind of campaign strengthened the bonds between generals and their armies, making renewed civil war ever more likely.”
+- **Pirate and Mithridatic super-commands.** After uneasy consulship with Crassus (70), *lex Gabinia* (67): three-year command vs pirates with *imperium maius*, up to 25 legates, huge fleet—Mediterranean cleared in three months. Then Mithridatic war transferred from Lucullus; Pompey dismantled the kingdom and reorganized Parthian-frontier alliances.
+- **Systemic piracy lesson.** Temporary earlier successes failed for lack of permanent regional security; Gabinius solved coordination by one commander outranking other pro-magistrates 50 miles inland. Model for 50s: Caesar’s multi-legate Gaul; Pompey’s grain commission (57) and in-absentia Spain (55). Permanent fleets only under Augustus.
+- **Template for monarchy.** Romans fixated on Alexander; with hindsight the emperor role emerges first in the provinces (military/revenue coordination), then captures the city—“Rome sleepwalked into military autocracy, and it worked.” Woolf’s Augustus: almost all titles/powers more heir of Pompey than of Caesar; would not imitate Pompey’s 62 dismissal of legions.
+- **Quote:** “Every kind of campaign strengthened the bonds between generals and their armies, making renewed civil war ever more likely.”

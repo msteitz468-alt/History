@@ -8,8 +8,8 @@ region: [levant, near-east, anatolia, mediterranean-world]
 process_type: religious
 driven_by: [the ferment of Second Temple Judaism, the ministry of Jesus, the missionary work of Paul, the Jewish Diaspora and its synagogue networks]
 produces: [the emergence of Gentile Christianity, scattered urban Christian communities across the eastern empire, the eventual separation from Judaism]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [process, late-antiquity, levant]
 ---
 
@@ -97,3 +97,29 @@ and accelerated the separation.
   [[julio-claudian-dynasty|Julio-Claudians]]; against the backdrop of [[augustan-religion|Roman
   state religion]]
 - Source: [[bowman-cah-v10-1996]] (Ch. 17, Clarke)
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+- **Dating of Christ’s birth and death (R1-007):** Dionysius Exiguus mistakenly set AD 1 as Roman year 754 AUC; modern scholarly birth dates generally fall between 8 and 4 BC (Herod died 750 AUC). Christ’s death date is uncertain; Logan says he was probably executed in AD 30.
+  - Quote: "the date given by modern scholars for Christ's birth generally falls between 8 and 4 BC. ... he was probably executed in the year AD 30."
+- **Council of Jerusalem and gentile converts (R1-008):** At the so-called “Council” of Jerusalem (AD 49 or 50), Christian leaders endorsed Peter’s view that gentile converts need not undergo circumcision or full Jewish legal obligations—opening the way to non-Jewish conversion.
+  - Quote: "the assembled group of Christian leaders endorsed the opinion of Peter: gentiles need not first become religious Jews. This decision opened the way to the conversion of non-Jews"
+  - Link labels: produced expansion beyond Jewish Christianity.
+
+Source: [[logan-history-of-the-church-in-the-middle-ages-2013]]
+
+## Gibbon, *Decline and Fall* (1776–1788) — Ch. XV (early parties)
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]]’s opening Christian chapters treat Jewish Christianity, Gnostics, and shared anti-idolatrous zeal as structural preconditions of growth (complement to the five secondary causes filed on [[christianization-of-the-roman-empire]]).
+
+- **Ebionites/Nazarenes:** “The first fifteen bishops of Jerusalem were all circumcised Jews”; after Hadrian’s Aelia Capitolina a Gentile bishop (Marcus) and renunciation of Mosaic law; remaining Nazarenes become contemptuous “Ebionites,” melting into church or synagogue by the fourth century.
+- **Gnostics:** Most polite/learned/wealthy of the Christian name; oriental dualism; many sects (Basilidians, Valentinians, Marcionites, Manichaeans); “they contributed to assist rather than to retard the progress of Christianity” by admitting Gentiles without Mosaic antecedent (link [[manichaeism]]).
+- **Shared exclusive zeal:** Orthodox, Ebionites, and Gnostics equally abhor idolatry; “It was the universal sentiment both of the church and of heretics, that the dæmons were the authors, the patrons, and the objects of idolatry” (Jupiter, Aesculapius, Venus, Apollo); slightest civic homage = rebellion against God.
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/gibbon-edward]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Brief deep background in Mitchell’s Ch. 7 state section, as bridge into late antique Christianization: Christian outlawry from the 40s / Neronian fire scapegoating (Tacitus *Ann.* 15.44 — pernicious superstition; detestation of human race); Pliny’s capital crime of mere Christian identity; pre-250 executions often of fanatical voluntary martyrs (esp. Montanists), with Christians themselves divided on courting martyrdom; Lucian’s 170s satire of gullible property-sharing brothers; growth noticeable by Origen’s day; Rome **251** clerical census. Gallienus’s restoration and Aurelian’s arbitration of Paul of Samosata case prefigure fourth-century imperial involvement in church disputes. “Christianity was one of a very small number of religious sects that had been outlawed by the Roman Empire.” `followed_by:` [[great-persecution-303]], [[christianization-of-the-roman-empire]].
+
+Source: [[mitchell-later-roman-empire-2015]]

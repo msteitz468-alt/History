@@ -9,8 +9,8 @@ affiliated_with: [[[papacy|the papacy]] (overlord), "the Hauteville dynasty"]
 opposed_by: [[[byzantine-empire|Byzantium]], "the western emperors", "the rebellious south-Italian baronage", "the north-African Muslim powers"]
 key_events: ["the coronation of Roger II (1130)", [[norman-conquest-of-southern-italy]], "the Constitutions of Melfi (1231)", "the conquest by Charles of Anjou (1266)", [[sicilian-vespers-1282|the Sicilian Vespers (1282)]]]
 key_processes: []
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, state, high-middle-ages, mediterranean]
 ---
 
@@ -109,3 +109,46 @@ periphery that would mark its early-modern history.
 - [[norman-conquest-of-southern-italy]] — the conquest from which it grew.
 - [[frederick-i-barbarossa]] — whose son's marriage brought it to the Hohenstaufen.
 - [[papacy]], [[byzantine-empire]] — its overlord and chief antagonist.
+- [[cobb-race-for-paradise-2014]] · [[almohads]] · [[mamluk-sultanate]] (Baybars–Anjou diplomacy)
+
+## Cobb: papal sanction, North Africa, and the fate of Sicilian Muslims
+
+[[cobb-race-for-paradise-2014|*The Race for Paradise*]] treats Norman Sicily as a central
+theater of the broader Frankish assault on Islamdom — not a sideshow to the Levant. **August
+1059:** Pope Nicholas II accepted **Robert Guiscard** as vassal, recognized conquests as Holy
+See fiefs; oath styles him Duke of Apulia and Calabria “and in future… of Sicily,” a
+territory not yet conquered; Nicholas gave him the papal banner. (Ibn al-Athir’s later
+anecdote has “Roger… king of Sicily” diverting a relative from North Africa toward
+Syria/Jerusalem with a fart — Cobb presents it as the chronicler’s geopolitics, with
+possible anachronism of the royal title relative to conquest-era countship.)
+
+**Norman Africa (Roger II / William I).** Commercial motives: Jerba; grain leverage during
+famine; Mahdiya effectively Sicilian protectorate by 1142; Tripoli 1146; after Gabès
+governor’s murder by Zirids, Normans took Mahdiya (Zirid amir fled), Sousse, Sfax; by 1148,
+per Ibn al-Athir, Franks held from Tripoli nearly to Tunis/Qayrawan. Light-handed rule with
+grain subsidies. After Roger’s death (1154), local revolts + [[almohads|Almohads]]: Sfax
+1156, Tripoli 1158, Tunis July 1159 (illegal convert-or-die for non-Muslims reported),
+Mahdiya taken Jan 1160. Short-lived Norman Africa proved Sicily as great a threat to central
+Mediterranean Islam as Spanish Franks west or Crusader states east.
+
+**Subject Muslims under Norman and Hohenstaufen rule.** After final capture of the island
+(1091), Muslims remained vital to economy and “golden age” society despite conversion and
+emigration. After Almohad reconquest of Norman North Africa, Sicilian Christian elites
+blamed palace eunuchs/familiars (suspected crypto-Muslims) for soft African rule. **1161:**
+Palermo mob sacked the royal palace, briefly held the king; fury targeted disarmed Muslims;
+eastern-island pogroms forced Muslims into rural southern and western concentrations. By
+mid-1180s **Ibn Jubayr** depicted Sicilian Muslims as dwindling under poverty, conversion,
+assimilation, and flight — court interfaith trappings a “mirage” (though less brutal than
+the Crusader Syrian coast he had just left). After William II’s death (1189) western Muslims
+revolted; 1199 Markward allied with western Muslims — Innocent III condemned him as “another
+Saladin” and called crusade against him and his Muslim allies. Frederick II after 1220
+crushed resistance under Ibn ʿAbbad; last strongholds ~1223. From the 1220s he deported
+Sicilian Muslims to **Lucera** on the mainland (continuing after 1243 Entella uprising);
+~20,000 Muslims from Sicily and Malta relocated (hedged estimate; cf. conquest-era ~250,000
+Muslims on the island → ~20,000 left after a century and a half in one of Cobb’s comparative
+figures). Lucera thrived under Hohenstaufens and even after Charles I of Anjou’s 1268
+capture (taxes and military manpower retained); in **1300** Charles II liquidated Lucera for
+war cash, sold the population into slavery, built a cathedral on the mosque site — linking
+the town to Christian triumph sites from Toledo to Jerusalem, with Acre 1291 still clear in
+minds. Later Mamluk diplomacy touched the *regno*’s successors: [[baybars|Baybars]] renewed
+Hohenstaufen Sicily ties (1261), then ties with Charles of Anjou after 1266.

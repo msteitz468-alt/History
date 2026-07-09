@@ -8,7 +8,7 @@ region: [mesoamerica]
 process_type: political
 driven_by: [agriculture, population growth, interregional exchange, elite competition, ceremonial centers]
 produces: [ranked and state-level societies, Olmec heartland centers, early Zapotec and Maya complexity, Basin of Mexico chiefly centers]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [process, mesoamerica]
 ---
@@ -237,9 +237,83 @@ near-Classic complexity. Diehl inventories mother- vs sister-culture positions w
 adjudication. Sheets and Sharer both push against Olmec-as-sole-mother while affirming
 significant Gulf–SE/southern interaction.
 
+## From Evans & Webster 2001 — Formative Period (John E. Clark) and related
+
+### Labels and dates
+
+Archaeologists divide Mesoamerican history into Formative (also Preclassic), Classic, and
+Postclassic, each with Early/Middle/Late/Terminal subdivisions. When first proposed, labels
+were developmental as well as chronological; modern practice uses them **strictly as time**
+rather than evolutionary rank. Clark’s Formative dates: **1600 B.C. to A.D. 250**
+(radiocarbon years)—start marks first ceramic technology and sedentary village life; terminal
+date approximates Maya emphasis on Long Count and calendrical monuments. Encyclopedia household
+entries also use Formative **2500 B.C.–A.D. 300** (Gonlin & Evans)—illustrates bound
+variation within EW2001 itself (see [[mesoamerican-periodization]]).
+
+### Four pan-Formative episodes
+
+Pan-Mesoamerican Formative processes were rarely fully coeval everywhere. Four significant
+episodes (no longer matching traditional Early/Middle/Late subdivisions well because of
+redating): (1) beginnings of village life; (2) emergence of Olmec civilization; (3) regional
+developments and network of paramount chiefdoms; (4) emergence of regional states. Discussion
+organized from five regions: Mexican Highlands, Valley of Oaxaca, Gulf Coast Lowlands, coastal
+Chiapas and Guatemala ([[soconusco|Soconusco]]), and Maya Lowlands.
+
+The Formative **created Mesoamerica as a cultural area** at near-maximal extension via spread
+of a “Mesoamerican pattern,” whereas the Classic mainly elaborated existing institutions
+without major spatial expansion. Regional states arose mainly in Late and Terminal Formative
+from about 200 B.C.; early Olmecs of ~1100 B.C. may already have comprised three or more
+city-states. True empires first arose in the Classic, not the Formative.
+
+### Beginnings of village life
+
+Transition from seminomadic hunting/gathering to settled villages and ceramics occurred in the
+Early Formative, beginning c. **1600–1400 B.C.** among northern Veracruz coastal lowlands,
+Gulf Coast Lowlands, coastal Chiapas/Guatemala (Soconusco), West Mexico highlands, and valleys
+of Oaxaca, Puebla, Morelos, and México. Toward end of Early Formative (~1000 B.C.), small
+agricultural villages appeared in highlands of Chiapas, Guatemala, El Salvador, and Maya
+Lowlands. Best data from Soconusco and Valley of Oaxaca. Highlands: maize agriculture, small
+villages, dispersed settlement, simple utilitarian pottery. Lowland Soconusco: larger/more
+clustered villages, ranked societies by ~1400 B.C., mixed economy, fancy ceramics for
+feasting, simple chiefdoms/shaman-chiefs (elaborate residences, ball courts, burials,
+differential imported goods)—**socially more complex than contemporary highlands**.
+
+### Middle–Late Formative chiefdoms
+
+Middle–Late Formative saw complex chiefdoms centered on pyramid sites; most significant was
+spread of the Mesoamerican pattern into the **Maya Lowlands**. First pulse of chiefdoms linked
+to San Lorenzo–style influence, then demographic “infilling.” Innovations: planned plazas with
+tall pyramids and ball courts; high-status pyramid burials with jade; beginning of “stela
+cult” and bas-relief narrative sculpture. More productive maize (enlarged cob size) by Middle
+Formative enabled surplus. Polities typically radius no greater than one day’s walk; near-
+simultaneous Late Formative regional-state formation via some interregional mechanism.
+
+### Households, Cuello, Cuicuilco
+
+Early Formative nuclear-family houses predominate (Valley of Oaxaca), with Middle Formative
+coalescence into extended family compounds and later courtyard arrangements. **Cuello**:
+earliest known Lowland Maya village community (Swasey 1200–900 B.C.). **Cuicuilco**: largest
+Late Formative Basin of Mexico site (population perhaps 20,000) until Xitle eruption ~50 B.C.,
+after which Teotihuacan’s growth spurt likely absorbed Cuicuilcan refugees. El Mirador and
+Cerros show public architecture complementing developing housing hierarchy in Maya Lowlands
+(Gonlin & Evans; Hammond; Evans).
+
+### Obsidian technology trajectory (John E. Clark)
+
+Late Archaic→Formative: biface/curated toolkits declined; Early Formative villages used simple
+direct-percussion and bipolar flake technology. **Prismatic (pressure) blades** first appear
+toward end of Early Formative (~1200 B.C.); by ~200 B.C. technology of choice for all
+Mesoamerica. Two spread episodes: EF blades exported from highland sources to Gulf Olmec
+centers; Middle–Late Formative prepared macrocores exported so each polity supported local
+blade-makers.
+
+Source: [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]
+(Formative Period; Family and Household; Obsidian tools).
+
 ## Related
 
 [[olmec]] · [[zapotec]] · [[maya-civilization]] · [[cuicuilco]] · [[teotihuacan]] ·
 [[monte-alban]] · [[san-jose-mogote]] · [[kaminaljuyu]] · [[basin-of-mexico]] ·
-[[olmec-mother-vs-sister-culture]] · [[mesoamerican-state-formation]] ·
-[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Chs. 3–5, 7–10]]
+[[soconusco]] · [[olmec-mother-vs-sister-culture]] · [[mesoamerican-state-formation]] ·
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Chs. 3–5, 7–10]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

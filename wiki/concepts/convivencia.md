@@ -37,6 +37,22 @@ Celebrated as model of pluralism and conduit for Greek/Arabic learning to Europe
 - **produced**: transmission of knowledge to Latin Europe (Aristotle, Ibn Rushd, Ibn Sina via translation)
 - **contributed_to**: Mudejar culture, Jewish Golden Age in Spain
 - **followed_by**: expulsions and end of Muslim Spain (1492/1609)
+## The "Golden Age" and Its Myth (Cohen)
+
+The Andalusian phase of convivencia is the historical kernel of what
+[[cohen-under-crescent-cross-1994|Mark Cohen]] calls the
+"[[jews-under-islam-myth-and-countermyth|myth of the interfaith utopia]]." A
+nineteenth-century Lutheran Hebraist's phrase for a *literary* golden age of Hebrew
+poetry (roughly 940–1040) was expanded by Heinrich Graetz and other founders of
+scientific Jewish historiography into a claim about the whole political and social
+order of Muslim Spain — a bright foil to the
+"[[lachrymose-conception-of-jewish-history|lachrymose]]" picture of Jewish life under
+Christendom. Cohen's caution parallels the debate recorded above: real Jewish
+achievement and relative security under Andalusi Islam were genuine, but neither the
+utopian gloss nor its neo-lachrymose inversion (Islam as innate persecutor) survives
+structural scrutiny.
+
 ## See also
 
 - [[managing-religious-pluralism-compared]] — convivencia compared with the dhimma, the millet, and Latin-Christian intolerance as forms of managing religious plurality
+- [[jews-under-islam-myth-and-countermyth]] · [[lachrymose-conception-of-jewish-history]] · [[cohen-under-crescent-cross-1994]]

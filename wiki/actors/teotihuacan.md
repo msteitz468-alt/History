@@ -10,7 +10,7 @@ affiliated_with: ["[[basin-of-mexico]]", "[[maya-civilization]]", "[[zapotec]]"]
 opposed_by: []
 key_events: ["Basin-wide population nucleation ~A.D. 1", "construction of Pyramid of the Sun (Tzacualli)", "Ciudadela and Feathered Serpent Pyramid (c. 150–300 CE)", "apartment-compound urban renewal ~A.D. 300", "burning of civic core (c. 550–750 CE, often ~650)"]
 key_processes: ["[[mesoamerican-state-formation]]", "[[teotihuacan-formation]]", "[[teotihuacan-trade-network]]", "[[teotihuacan-apartment-compound-system]]", "urbanization"]
-sources_ingested: 3
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, state, late-antiquity, mesoamerica]
 ---
@@ -208,6 +208,108 @@ vanquished towns, or captured foes are absent**; and **no identifiable rulers** 
 costume ranks) while individuality was suppressed through replication of identical figures.
 See [[teotihuacan-political-organization]] and [[teotihuacan-apartment-compound-system]].
 
+## Evans & Webster 2001 (encyclopedia synthesis)
+
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster (eds.) 2001]]
+supplies multi-author consensus ca. 2000 that largely **converges with** Cowgill/CHNPA on
+scale and multiethnicity while adding entry-level regional detail (attribute as **EW2001**).
+
+**Scale and urban form.** By the third century A.D. the site covered **~20 km²** with a
+population of **more than 100,000** — “first truly urban Mesoamerican city” (Williams,
+Architecture: Civic-Ceremonial). Parsons (Basin of Mexico) raises the mature figure to
+**well over 125,000** in ~20 km² after the first century A.D., “highly centralized, highly
+stratified, and tightly organized,” with a gridded street plan and walled apartment
+compounds from the 4th–5th centuries; most urban inhabitants were farmers and few rural
+settlements lay within 20 km. Santley (Classic Period) places Middle Classic population at
+about **125,000–150,000**, with roughly one-third craft specialists and obsidian-working
+the major industry. These ranges sit comfortably against the Cowgill/CWH figures already on
+this page; they do not resolve absolute dating of peak vs. collapse.
+
+**Formation after Cuicuilco.** Parsons links 600–100 B.C. growth to sacred caves under the
+Sun Pyramid, irrigation, obsidian access, and rising population; three first-century B.C.
+events reconfigured the Basin: volcanic destruction of [[cuicuilco|Cuicuilco]] and its
+heartland; Teotihuacán’s rapid expansion to roughly **80,000–100,000** with two massive
+pyramids along a formal avenue nearly 2 km long; and wholesale abandonment of large
+southern Basin areas. Evans (Cuicuilco entry) states Teotihuacan’s great growth spurt
+“almost certainly” absorbed Cuicuilcan refugees who then built the city’s monuments for its
+rulers — a stronger causal phrasing than Cowgill’s multi-factor account (Popocatépetl,
+competition, trade-route position). Treat Evans’s refugee-labor thesis as an **EW2001
+position**, not a silent overwrite of Cowgill 2015 / Siebe on Xitle timing.
+
+**Art, anonymity, and militarism.** Tate (Art): Teotihuacan art is “devoid of recognizable
+representations of rulers, the worship of ancestors in human form, and written language”
+— load-bearing for [[teotihuacan-political-organization]]. After A.D. 300, elite-apartment
+murals feature Great Goddess and Storm God imagery (Taube later rejects a single Great
+Goddess; see [[teotihuacan-religion]]). Webster (Warfare): possible Teotihuacan–Cuicuilco
+hostility c. 200–100 B.C. (settlement data); after A.D. 250 military themes including heart
+sacrifice become conspicuous; scores of sacrificed males in military regalia (and some
+females) at the Temple of the Feathered Serpent ~A.D. 200–250 indicate “a stronger role for
+war and militarism … than previously suspected”; massive destruction along the Street of
+the Dead ~A.D. 600–700 suggests internal violence/civil war as a decline factor.
+
+**Sacred landscape.** Taube (Religion and Deities): massive pyramids, plan, and iconography
+show powerful religion, but rites/gods/mythology remain elusive (site destroyed >800 years
+before Spanish conquest; limited writing; abstract static art). Pyramid of the Sun and Moon
+as sacred mountains; Moon Pyramid backed by Cerro Gordo; Sun Pyramid over artificial cave
+possibly symbolizing cave of emergence; Street of the Dead 15°20′ E of true N possibly
+related to the Pleiades; patio altars in apartment compounds replicate public pyramids
+domestically. Townsend (Sacred Landscape): first-century A.D. villages given coherence by
+~3 km Street of the Dead linking Cerro Gordo, city center, and southern agricultural
+springs; after A.D. 200 the processional way extended south; pecked-cross markers align with
+Pleiades set on the zenith-transit night. Mexican remote sensing finds extensive **artificial**
+tunnel systems beneath the city (Brady, Caves).
+
+**External reach (entry-level).** Smith & Hirth (Morelos) use “expanding Teotihuacan empire”
+for eastern/central Morelos incorporation (Las Pilas, San Ignacio, Yautepec) — stronger
+imperial language than Cowgill’s limited-core-area stance; record as EW position. Enclaves
+or Teotihuacan-linked material: [[kaminaljuyu|Kaminaljuyú]] Esperanza tombs (Popenoe de
+Hatch); Matacapan talud-tablero and candeleros (Gulf Lowlands); Tikal Burial 10 peak under
+Yax-Ain (Harrison); Monte Albán IIIA stelae of rulers greeting Teotihuacan visitors
+(Blanton); Altun Ha green-obsidian offering c. A.D. 250–300, possibly earliest
+intellectual/political (not economic) Maya link (Pendergast); Alta Vista (Zacatecas)
+Tropic-of-Cancer shrine with Teotihuacan-related early construction (Kelley). Ethnic
+barrios at the capital: Tlailotlacan (“Oaxaca barrio”) with locally made Oaxaca-style
+pottery, tombs, and urns; possible Gulf “Merchants’ barrio” with round buildings and
+Gulf/Maya ceramics (Chance & Stark). Craft production volume and apartment-compound locus:
+see [[teotihuacan-trade-network]] and [[teotihuacan-apartment-compound-system]].
+
+**Historiography note (EW).** Manuel Gamio directed the interdisciplinary *La población del
+Valle de Teotihuacán* and early Feathered Serpent Temple explorations (Manzanilla entry).
+Paleodemography applied to Teotihuacan (Storey 1992, cited under Demographic Trends).
+
+## Fagan & Durrani (2020): Millon's mapping, scale, and "systematic desanctification"
+
+Fagan and Durrani's *World Prehistory* (10th ed., 2020) corroborates the scale and mapping
+detail already documented above and adds framing on the city's political impact and collapse.
+**René Millon's** mapping project recorded the city as a grid with some **600 pyramids, 500
+workshop areas, and 2,000 apartment compounds**, organized along the 5 km **Street of the
+Dead** (oriented 15.5° east of north via astronomical observation). Population reached
+**80,000 by 100 CE**, growing to **150,000 or more between 200–750 CE** — comparable to the
+largest contemporary cities of western Asia and China — with the full state population under
+its control estimated at roughly half a million. The Pyramid of the Sun was built over the
+"Sacred Cave," central to the city's creation-myth ideology; the Temple of Quetzalcoatl in the
+Ciudadela was dedicated with the sacrifice of 200+ young warriors, in groups of 18 per the
+20-day month cycle.
+
+Distinct ethnic **barrios** are documented archaeologically: an Oaxacan (Zapotec) traders'
+neighborhood and a Veracruz-lowland immigrants' neighborhood (identified via circular adobe
+houses and orange-brown-cream pottery), evidence of long-distance, multiethnic residency
+within the city (Linda Manzanilla's chemical-residue household study is cited for internal
+social structure). A "Star Wars" war/sacrifice cult (the scholarly term) tied to the feathered
+serpent and Venus cycles spread widely and influenced Maya civilization, especially after the
+378 CE "Fire-Born" episode at Tikal.
+
+Fagan & Durrani date the collapse to **c. 750 CE**: the Ciudadela was deliberately burned and
+razed in what they describe as a "systematic desanctification" — a politically and ritually
+motivated act meant to prevent a succession of power, not a simple external conquest.
+Contributing causes floated in the text include drought/El Niño, economic competition, and
+social unrest, though causation remains, in their words, "a matter of controversy." They
+assess Teotihuacan's overall political impact as primarily **economic, ideological, and
+cultural rather than direct political control** — a reading consistent with Cowgill's core-
+area skepticism above — and note that the Aztecs still revered ruined Teotihuacan **seven
+centuries after its fall**, evidenced by Templo Mayor offering caches containing genuine
+Teotihuacan-era stone masks.
+
 ## Historiography
 
 Teotihuacan lacks the deciphered writing system that illuminates Maya dynastic history.
@@ -226,6 +328,9 @@ century or more and avoiding pan-Mesoamerican Preclassic/Classic labels. The que
 dynastic versus corporate rulership remains central; see
 [[teotihuacan-political-organization]]. Primary sources for this page include
 [[snow-gonlin-siegel-archaeology-native-north-america-2020]],
-[[cowgill-ancient-teotihuacan-2015]], and
+[[cowgill-ancient-teotihuacan-2015]],
 [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Cowgill Ch. 6; Adams intro
-for the ~650 elite-failure notice).
+for the ~650 elite-failure notice), and
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]
+(signed site/theme entries: Williams, Parsons, Santley, Taube, Townsend, Webster, Evans,
+et al.).

@@ -8,8 +8,8 @@ region: [mesopotamia, near-east, iran-plateau, mediterranean, china, east-asia, 
 process_type: political
 driven_by: ["agricultural surplus and storage", "warfare and conquest", "[[urbanization]]", "long-distance [[trade-network-formation|trade]]", "ideology and religion", "control of information ([[writing-and-record-keeping]])", "managing [[pastoral-nomadism|nomad]] frontiers"]
 produces: ["[[empire]]", "[[city-state]]", "bureaucracy and taxation", "standing armies", "law", "social stratification", "[[slavery]]"]
-sources_ingested: 6
-last_updated: 2026-06-26
+sources_ingested: 7
+last_updated: 2026-07-08
 tags: [process, classical-antiquity, early-middle-ages, mesopotamia, china]
 ---
 
@@ -70,6 +70,128 @@ mono-causal) drivers:
   legitimacy, it has been used to *create* legitimacy (Edward III's chevauchées,
   Louis XIV's burning of the Palatinate), against Schmitt's decisionist
   definition of sovereignty.
+
+## Theories of State Formation — the Fagan & Durrani Survey
+
+[[fagan-world-prehistory-2020|Fagan & Durrani (2020)]] devote their state-formation
+chapter to a critical survey of the field's successive "prime mover" theories,
+converging on the conclusion that **no single theory works** — the process is
+multi-causal and depends on individual agency translating ecological
+opportunity/necessity into political change. This survey substantially deepens
+the page's causal-drivers picture and supplies the historiographical throughline:
+
+1. **Childe's "Urban Revolution" (1930s).** V. Gordon Childe proposed a package of
+   simultaneous traits — metallurgy, full-time specialist artisans, expanded
+   long-distance trade, irrigation-boosted productivity, centralized
+   political/economic control, a class-stratified society replacing kin-based
+   organization, and writing. Fagan & Durrani (2020) judge that "today's scholars
+   agree that three elements of Childe's revolution were of central importance:
+   large food surpluses, diversified farming economies, and irrigation
+   agriculture," but that "everyone now considers the revolution hypothesis too
+   simplistic."
+2. **Ecological/irrigation models.** The Fertile Crescent floodplain-fertility
+   model; Ester Boserup's counter-thesis that population growth, not surplus,
+   drives agricultural intensification ("population growth... was the incentive
+   for intensified agriculture") — contradicted by non-dense-population states
+   such as Mycenae and the Inca; and the diversified-subsistence-as-buffer
+   argument (Egypt's mixed grain/pastoral economy, Andean verticality). The
+   **Wittfogel/Steward "hydraulic civilization" thesis** (1950s) held that
+   large-scale irrigation required — and therefore produced — despotic,
+   centrally managed "hydraulic bureaucracies," especially in China, Egypt, and
+   Mesopotamia. Fagan & Durrani (2020) report this thesis **empirically
+   undermined**: **Robert Adams's** Mesopotamian field surveys (1960s) showed
+   early irrigation was small-scale and community-controlled — the cleaning of
+   natural channels and minor feeder canals — with large-scale, centralized
+   irrigation appearing only *centuries after* urbanism, not before it; Egypt
+   shows the same sequence (simple natural flood-basin agriculture early,
+   large-scale irrigation only in the New Kingdom). Their verdict: "large-scale
+   irrigation does not everywhere appear to have been a factor in the rise of
+   early civilizations... ecology was only one component in a mosaic of many
+   changes."
+3. **Technology and trade theories.** Metallurgy (Childe's trigger) was in fact a
+   late, luxury-first development, not a prime mover. Trade and exchange (the
+   gift-giving → bartering → redistribution → market/currency sequence) marks
+   complexity rather than causing it. Colin Renfrew's 1970s Aegean thesis
+   attributed the flowering of Minoan civilization to intensified trade and
+   olive/vine cultivation driving economic interdependence and palace-controlled
+   redistribution. Fagan & Durrani's (2020) verdict generalizes past Renfrew:
+   "trade can never be looked upon as a unifying factor or as a primary cause of
+   ancient civilization... extensive long-distance trade, like large-scale
+   irrigation, was a **consequence rather than a cause** of civilization."
+4. **Warfare/coercion theory.** Robert Carneiro's 1970s "coercive theory," built
+   on the circumscribed agricultural land of Peru's coastal valleys: population
+   growth against bounded land drives competition, then warlord chieftains, then
+   a single-valley state, then a multi-valley conquest state. Tested against
+   Peru's **Santa Valley** by archaeologist **David Wilson** and largely
+   **falsified**: no evidence of the predicted autonomous-village stage, and the
+   only clear coercive process — the Moche's ca. AD 400 multi-valley conquest —
+   came *after* a complex irrigation society already existed, not before it.
+   Fagan & Durrani's (2020) general verdict is that institutionalized, endemic
+   warfare with standing armies is a **consequence of civilization**, not its
+   cause: "only when absolute and despotic monarchs came into power did warfare
+   become endemic."
+5. **Systems/multi-causal models.** **Robert Adams's** own systems synthesis
+   (1960s) — a distinct contribution from his field-survey debunking of
+   Wittfogel above, not to be conflated with it — modeled irrigation
+   agriculture, increased warfare, and local resource variability as three
+   mutually reinforcing factors with positive feedback loops generating
+   surplus, stratification, and specialist support. **Kent Flannery's "living
+   system"** model (Mesoamerica-focused) treats the state as a complex system
+   measured by the internal differentiation and intricacy of its subsystems
+   (agriculture, technology, religion) and how tightly they are coupled and
+   controlled.
+6. **Environmental-change/ecological approach.** William Sanders's Valley of
+   Mexico study argued the Aztec state built and organized huge *chinampa*
+   agricultural systems exploiting environmental variability to support
+   Tenochtitlan's ~250,000 population, with centralized leadership as a second
+   key factor (see [[mesoamerican-state-formation]] for the Mesoamerica-specific
+   material). Fagan & Durrani (2020) flag this approach's core weakness: it
+   cannot predict *which* environments produce states — floodplains, coastal
+   valleys, highland plateaus, and land-scarce zones have all produced states,
+   and some resource-poor, non-dense-population regions (Iran) did too.
+   Environment is a major player but not a sufficient predictor.
+7. **Social-power / agency approaches (the recent turn).** A shift from
+   mechanical systems models to individuals and groups pursuing agendas.
+   **Norman Yoffee's "power in three domains"** framework distinguishes economic
+   power (control of production, storage, distribution, trade monopolies),
+   social/ideological power (unifying symbols and ideology, priesthoods,
+   legitimation of rulers, maintenance of cosmic order), and political power
+   (administrative and military authority recruited outside kin structures,
+   foreign relations, dispute resolution). Yoffee stresses there is no single
+   moment of state "arrival" — only continual change and disputation, with some
+   states enduring and others collapsing. His cleanest one-line definitional
+   contrast: **"in the chiefdom, social inequality came from within the kin
+   system; in the state, inequality was based on access to resources and the
+   power this control provided."**
+8. **Agency/individual-actors model.** States arise, on this view, when
+   aggressive, able individuals — "chiefs of unusual ability" — exploit a
+   competitive advantage (military, technological, strategic) to usurp
+   chieftaincy, conquer neighbors, and intensify production through forced
+   labor or raiding, then consolidate power through power-sharing or nominal
+   councils, never democratically. Fagan & Durrani (2020) cite Zulu King Shaka,
+   King Kamehameha of Hawaii, and the early Egyptian pharaoh Narmer. Ideology
+   (the Epic of Gilgamesh, the pharaoh-as-sun-god, the Maya ruler-as-shaman)
+   legitimizes but does not cause state formation: "ideology never caused states
+   to come into being, but was an invariable and important part of their fabric
+   once they were established."
+9. **Justin Jennings's thesis (2016, *Killing Civilization*).** States and
+   cities are "sporadic, often unintended by-products of rapid settlement
+   aggregation," the outcome of "generations of temporary, often self-interested
+   decisions" during a city's formative years — no blueprint, no single
+   evolutionary trajectory.
+10. **Fagan & Durrani's (2020) own synthesis**: "it is probably futile to search
+    for a theory of state formation that can be applied to all civilizations."
+    The better question asks how ecological opportunity and necessity are
+    translated into political change by individual actors pursuing their own
+    agendas. The threads that recur across the theories they endorse are large
+    food surpluses, diversified farming economies, and irrigation agriculture
+    (retained from Childe), plus ideology and informational control (from the
+    social-power turn) as the more recently recognized variable. Their
+    signature analytical move, repeated across the survey, is the reversal of
+    intuition: **trade, large-scale irrigation, and institutionalized warfare
+    are consequences of civilization, not causes of it** — the field's broader
+    shift away from monocausal "prime mover" theories toward multi-causal,
+    systems-based, and then agency-centered models.
 
 ## Major Phases
 
@@ -236,3 +358,16 @@ circumscription, voluntaristic) are now generally treated as complementary parti
 accounts rather than rival monocausal laws. See [[empire]] for the imperial
 historiography and the standing controversies on the [[bronze-age-collapse-1200bce|Bronze
 Age Collapse]] and the [[fall-of-rome-causes|fall of Rome]].
+
+[[fagan-world-prehistory-2020|Fagan & Durrani (2020)]] frame the historiography of
+this page's central question explicitly as a succession of failed and
+partially-superseded "prime mover" theories: Childe's Urban Revolution gave way to
+ecological/hydraulic models (Wittfogel/Steward), which Robert Adams's own field
+surveys empirically undermined; Renfrew's trade thesis and Carneiro's coercion
+thesis (the latter tested and largely falsified by David Wilson in Peru's Santa
+Valley) likewise proved insufficient as standalone causes; the field's current
+position is the multi-causal systems synthesis (Adams, Flannery) combined with the
+social-power/agency turn (Yoffee, Jennings). Their own bottom-line judgment — "it
+is probably futile to search for a theory of state formation that can be applied
+to all civilizations" — is one of the clearest explicit statements in the
+collection of the field's move away from monocausal explanation.

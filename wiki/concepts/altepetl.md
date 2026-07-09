@@ -5,7 +5,7 @@ origin: "Nahuatl ethnohistoric term for the basic Postclassic Central Mexican po
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages, Early Modern, Age of Expansion]
 applies_to_regions: [mesoamerica]
 contested: no
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [concept, mesoamerica, political]
 ---
@@ -69,6 +69,15 @@ Sarah L. Cline’s survey of colonial central Mexico makes the **altepetl** the 
 
 **Land and documentation.** Prehispanic and colonial Nahuatl land categories (*tlatocatlalli*, *calpollalli*, *pillalli*, *altepetlalli*, etc.) and town-government regulation of disputes continued; late colonial **primordial titles (*títulos*)** (none known before ~1650) establish legality of altepetl territorial claims amid population recovery and land pressure — composed with the Spanish legal system in mind but lacking standing to prove ownership (Cline). Full regional narrative: [[central-mexico-indigenous-colonial]].
 
+## Evans & Webster 2001 (Berdan; Evans; Smith)
+
+Frances F. Berdan’s Aztec Culture and History entry, Susan Toby Evans on Chiconautla, and Michael E. Smith’s Postclassic overview in [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]] add social structure inside the altepetl and Late Postclassic counts:
+
+- Fundamental division of **nobles** vs **commoners** (*macehualli*) by birthright (plus extraordinary achievement early on). Nobles controlled land/labor/sumptuary display/polygyny/two-story houses; *tlatoani* selected from nobility; noble boys educated in *calmecac*; commoner boys martial training in *telpochcalli*; both sexes learned ritual song/dance in *cuicacalli*. Battlefield ennoblement increasingly curbed as polygynous noble progeny competed for elite posts. Intermediate luxury artisans and *pochteca* merchants accumulated wealth without full noble rights; *pochteca* also state spies/envoys (Berdan).
+- City-states provided the context for economic specialization and the worship of particular patron deities; the Basin heartland mixed long-term Otomi, Culhuacan/Toltec-associated groups, successive Chichimec immigrants including the Mexica (reportedly last), and late luxury artisans from south/east Mexico — unified by Nahuatl as lingua franca and shared stratification, economy, religion, warfare, and apparel conventions with local hallmarks (Berdan).
+- **Chiconautla** (NE edge of Lake Texcoco): Late Postclassic urbanized city-state capital (*altepetl*) with resident *tlatoani*, subject to Texcoco in the fifteenth century; important break-of-bulk point on a major trade route between [[tenochtitlan|Tenochtitlan]] and the Gulf lowlands (Evans).
+- Smith: **150–200** Aztec city-states in the Late Postclassic; nobility roughly **2–5%**; commoners organized in *calpulli*; empire as Mexica–Acolhua–Tepanec alliance with Mexica dominant, Basin reorganization for loyalty/tribute, outer provinces combining tribute + markets, frontier alliances against strong enemies.
+
 ## Limitations
 
 - *Altepetl* is primarily a Central Mexican ethnohistoric category; projecting it unchanged onto Formative chiefdoms or Classic Maya *ajaw* polities is analogical, not lexical.
@@ -78,4 +87,4 @@ Sarah L. Cline’s survey of colonial central Mexico makes the **altepetl** the 
 
 ## Related
 
-[[city-state]] · [[aztec-empire]] · [[aztec-economy]] · [[chinampa-agriculture]] · [[tenochtitlan]] · [[basin-of-mexico]] · [[mesoamerican-state-formation]] · [[triple-alliance-formation-1428]] · [[mesoamerica-culture-area]] · [[central-mexico-indigenous-colonial]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2 (Cline)]]
+[[city-state]] · [[aztec-empire]] · [[aztec-economy]] · [[chinampa-agriculture]] · [[tenochtitlan]] · [[basin-of-mexico]] · [[mesoamerican-state-formation]] · [[triple-alliance-formation-1428]] · [[mesoamerica-culture-area]] · [[central-mexico-indigenous-colonial]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2 (Cline)]] · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

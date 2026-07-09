@@ -9,8 +9,8 @@ affiliated_with: [Ascra in Boeotia; the tradition of didactic and theogonic epic
 opposed_by: [his brother Perses; the corrupt "gift-devouring" basileis]
 key_events: [the composition of the Theogony and the Works and Days, his victory at the funeral games of Amphidamas of Chalcis]
 key_processes: [the transition from oral to written composition, the [[orientalizing-revolution|orientalizing]] of Greek myth]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, early-iron-age, archaic-period, central-greece]
 ---
 
@@ -59,6 +59,19 @@ Herodotus (II.53) said Hesiod and Homer "were the first to set down a theogony f
 Greeks and give the gods their functions" — needing, Forrest adds, only "a note on their
 sources."
 
+## Freeman: the Ages of Man and an agricultural transition
+
+Charles Freeman ([[freeman-egypt-greece-rome-2014|*Egypt, Greece, and Rome*]], 2014)
+reads the **Works and Days**'s Ages-of-Man scheme (gold/silver/bronze/heroes/iron)
+and Hesiod's personal grievance against his brother as underpinning a broader
+argument about declining ethical standards, with *dikē* (justice) offered as a
+corrective under Zeus. Freeman connects this moralizing scheme to a possible
+underlying **population-driven agricultural transition** — from pastoral,
+aristocratic herding toward intensive grain-farming — since livestock is an
+inefficient calorie converter and an unstable-era status store, while grain is more
+efficient but demands settled security; on this reading Hesiod's poem registers a
+real economic shift as much as a moral complaint.
+
 ## Causal significance
 
 - The **earliest voice of the Greek commoner** — the first articulation of a moral order
@@ -67,8 +80,20 @@ sources."
 - A key witness to the **transition to literacy** and to the **orientalizing of Greek
   religion** — the Near Eastern roots of the Olympian succession-myth.
 
+## OHCW (Griffin) — systematic mythology and personality
+
+[[boardman-oxford-history-classical-world-1986|OHCW (1986)]], Ch. 3 (Jasper Griffin), places Hesiod (composing c. **700 BCE**) as both the first author of a **systematic mythology** and the **first personality in Greek literature** — personal details (Cyme father, Ascra, Muses under Helicon, Chalcis prize, brother Perses) where Homeric epic is impersonal.
+
+**Theogony.** Begins with Chaos (“Yawning Space,” not “Disorder”), Gaia, Tartara, and Love; Uranus suppressed, Cronos castrates him, Zeus overthrows Titans — theogony including cosmogony, Love as principle of procreation. Decipherment of Near Eastern languages shows the sky-god succession (castration, swallowing, stone) is a version of archaic myth known to Hittites by 1200 BCE, Hurrians, Phoenicians, and Babylon’s *Enuma Elish* (Sumerian roots); oriental influence on Homer/Hesiod **may go back to the Mycenaean period**. Prometheus’s sacrificial trick explains bones/fat to gods vs meat to men; fire-theft and Pandora’s jar etiologize hard life, technology, and woman.
+
+**Works and Days.** Revises single bad Strife into **two Strifes** (good competitiveness vs destructive strife); addresses Perses and bribe-eating “kings”; inserts the age of **heroes** into an eastern decline-from-Golden-Age scheme (Gold–Silver–Bronze–Heroes–Iron).
+
+**Reception.** Fifth-century [[herodotus|Herodotus]] (2.53) said Hesiod and Homer “composed the theogony for the Greeks, giving the gods their titles and assigning them their honours and occupations.” Parker (OHCW Ch. 11) treats that prestige as stabilizing divine conceptions without creed or heresy. After late-fifth-century rationalism, Griffin notes, myth loses its role as vehicle of serious thought: *mythos* opposed to *logos*; [[aristotle|Aristotle]] dismisses Hesiodic “mythical style”; [[plato|Plato]] demands radical myth-censorship.
+
 ## Related
 
 - Counterpart poet: [[homer]] · region: [[boeotia]] (Ascra) · audience: the basileis
 - Frame: [[orientalizing-revolution]] (Enuma Elish parallels) · [[alphabet]] (oral→written)
-- Period: [[early-iron-age]] → [[archaic-period]] · Source: [[boardman-cah-v3p3-1982]] (Ch. 41, Forrest)
+- Religion: [[greek-religion-and-mythology]] · [[polis-religion]]
+- Period: [[early-iron-age]] → [[archaic-period]]
+- Sources: [[boardman-cah-v3p3-1982]] (Ch. 41, Forrest); [[boardman-oxford-history-classical-world-1986]] (Ch. 3 Griffin; Parker Ch. 11); [[freeman-egypt-greece-rome-2014|Freeman (2014)]]

@@ -5,8 +5,8 @@ origin: an analytical category developed in the historiography of early-modern m
 applies_to_periods: [Late Middle Ages, Early Modern]
 applies_to_regions: [southeast-asia, indian-ocean]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -80,3 +80,13 @@ property" explanation for why Southeast Asia did not generate autonomous capital
 as too close to a Weberian "what Asia lacked" framing; **Victor Lieberman** and others stress the real
 administrative and fiscal sophistication of the mainland states. As a portrait of the cosmopolitan
 entrepôt as the signature form of the era, however, it is foundational.
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+[[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] push the port-polity model **back into the Preclassic–Classic** archaeological record that Reid's age-of-commerce framing does not cover, and they qualify gateway/dendritic models for Sumatra.
+
+**Early port hierarchy.** Oldest Seasian trading station discussed: **Ko Kho Khao** (east Siamo-Malay peninsula), active late 5th c. BCE for several centuries; **Phu Khao Thong** (west coast) via trans-peninsular route from 3rd c. BCE; **Kuala Kelumpang**/Selinsing 14C as early as 200 BCE — long-lived small ports, second tier under a higher port (probably Kedah). Foreign merchants were probably allowed only at highest-tier ports for control/customs. **Phu Khao Thong**: Tamil Brahmi sherd 2nd c. CE (then oldest Tamil inscription in Seasia); glass beads by remelting Roman (not Indian) glass; Mediterranean intaglios; Persian Gulf fritware; Eastern Han mirror; sailor Brahaspatisharma seal (Prakrit, 1st–4th c.). **Ban Don Ta Phet** (early 4th c. BCE): >3,000 agate/carnelian/glass beads; high-tin bronze knobbed bowls shared with Khao Sam Kaeo and Thanh Hoa.
+
+**Srivijaya and Sumatran models.** Arab Abū Zaid (916): Maharaja of Zabaj palace on tidal estuary "like Basra"; Buzurg: people on movable raft houses — capital evidence likely underwater/river bed, not a land urban core. Gateway/dendritic models often applied to Seasian river ports; Miksic & Goh argue Sumatran centres privileged **internal hinterland communication** over river-mouth external access — contrasts_with Bronson's dendritic model for Sumatra.
+
+**Middle–Late Classic heterogenetic enclaves.** **Kota Cina** and **Barus** = archaeological evidence of heterogenetic-type urban settlements (foreign enclaves, N. Sumatra). Barus (camphor; Fansur/Pancur in Arab sources): Tamil guild inscription 1088; not on Chola list of vanquished ports — possibly more closely associated with India than Palembang. Lubok Tua ~3 ha enclosure; Chinese sherds mid-10th–early 12th; West Asian glass; ~1,000 South Indian beads; Guillot's "foreign enclave" reading is tempered: archaeology cannot prove ethnicity of users; no document states South Asians resided permanently. Kota Cina ("Chinese Stockade"): 30% ceramics Chinese; oldest site outside China with everyday Chinese cash use; pottery ~1080–1250; peak population ~10,000 around 1200; abandoned by Polo's 1292; Buddhist remains closer to Theravāda stream from Sri Lanka than esoteric inland monuments. **Kedah** after 1030: centre moved Muda River → Merbok estuary; Saivite Candi Bukit Batu Pahat; Pengkalan Bujang 1961 excavation: 10,000 porcelain sherds in 9 m², 100+ Near Eastern glass bottles; lost major-port status after 12th c. Late Classic: high-density foreign enclaves (Kota Cina, Temasik); regulated price-fixing trade (Pu-ni/Brunei); tramp/peddling maritime trade; *Desavarnana* 1365 lists dense Classic population strip 300 km along N. Sumatra coast (Tamiang, Perlak, Samudra, Lamuri, plus Barus). Part_of [[indian-ocean-trade]]; concurrent_with [[srivijaya]], [[chola-invasion-srivijaya-1025]].

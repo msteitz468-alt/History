@@ -5,8 +5,8 @@ origin: monetization as a path-dependent process; coinage invented independently
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middle Ages]
 applies_to_regions: [near-east, mediterranean, iran-plateau, south-asia, china, central-asia]
 contested: yes
-sources_ingested: 6
-last_updated: 2026-06-27
+sources_ingested: 7
+last_updated: 2026-07-08
 tags: [concept, iron-age, bogucki-crabtree-ancient-europe-2004]
 ---
 
@@ -200,6 +200,18 @@ economies") and that coinage's adoption in the sixth century "had [nothing] intr
 to do with exchange among individuals" — confirming, from the demand side, Kraay's
 fiscal-state thesis even as the post-war decades begin to pull coin into the market.
 
+## From Hall, *Archaic Greek World* (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] places Greek coinage **late relative to long-distance trade and colonization**, and treats it as one of several sixth-century innovations (with monumentality, stephanitic games, and more concrete citizenship) rather than an eighth-century driver.
+
+**Origins and mainland chronology.** Greek origins are normally sought in the dump of ninety-three electrum pieces under the sixth-century Artemision at Ephesus (Milesian weight; lion types linked to Lydia; seal/*phōkē* types to Phocaea as earliest Greek issues; dump sealed by ca. 560). Mainland silver: Aeginetan “turtles” ca. **580–570** (earliest mainland); Corinth second quarter of the sixth; Athenian *Wappenmünzen* shortly after mid-sixth under the Pisistratids; **owl** series only in the last quarter of the sixth (absent from pre-ca. 500 hoards). Numismatics plays a minor Archaic-event role because early issues are long-lived standards more than propaganda.
+
+**Money before coinage; Pheidon not a secure inventor.** Homeric oxen valuations; early Cretan fines in cauldrons/tripods; iron/bronze spits (*obelos* → *drachma* “handful”); Solonian fines in *drachmai* as **weighed uncoined silver** before minting; Eretrian stater penalties ca. 525 before a local mint. Hall separates coined metal from money as unit of value/payment: money emerges within the **political community** as much as for long-distance trade. The tradition that **Pheidon** invented coinage is insecure — Herodotus credits him with **measures**, and Aeginetan silver is sixth-century (see [[greek-tyranny]]).
+
+**Trade vs state-payments debate.** Aristotle linked coinage to exchange; many numismatists preferred state payments, mercenary pay or gifts because early pieces seemed large and limited in distribution. Hall notes that smaller denominations and wider Corinthian/Aeginetan circulation **weaken** pure anti-trade objections; electrum’s variable gold content made the stamp a fiduciary guarantee, while purer silver allowed wider acceptance. Earliest mainland issues coincide with specialized long-distance trade and congregation at Naucratis (silver demand). Sixth-century “monetary networks” (shared standards/designs) also had sociopolitical functions (Boeotian shield coinage; Achaean Italiote *rovescio incuso*; tradition of Solon shifting Athens from Aeginetan to Euboean standard).
+
+**Source:** [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]], Ch. 10 (“Making a Living”).
+
 ## Contested Questions
 
 - **Primitivism vs. modernism / the scale of the ancient economy** — how monetized,
@@ -231,4 +243,4 @@ major monetized commerce (Dacian slaves for Roman silver). Compare the urban-mar
 analysis with [[urbanization]] and [[city-state]].
 
 - Invention: [[lydia]] · [[sardis]] · [[archaic-greek-economy]] · [[pisistratus|Athens's first coinage]] · [[aegina]] (earliest mainland silver)
-- Sources: [[benjamin-cwh-v4-2015|CWH IV]] (global monetization) · [[boardman-cah-v3p3-1982|CAH III.3]] (the Greek invention, Chs. 45a–b) · [[boardman-cah-v4-1988|CAH IV]] (coinage as state property, Ch. 7d Kraay) · [[lewis-cah-v5-1992|CAH V]] (post-war monetization — small change, banks, bottomry loans, Ch. 2 Davies)
+- Sources: [[benjamin-cwh-v4-2015|CWH IV]] (global monetization) · [[boardman-cah-v3p3-1982|CAH III.3]] (the Greek invention, Chs. 45a–b) · [[boardman-cah-v4-1988|CAH IV]] (coinage as state property, Ch. 7d Kraay) · [[lewis-cah-v5-1992|CAH V]] (post-war monetization — small change, banks, bottomry loans, Ch. 2 Davies) · [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] (late Archaic chronology; money before coinage)

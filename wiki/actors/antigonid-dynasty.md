@@ -9,8 +9,8 @@ affiliated_with: [Macedon, the [[league-of-corinth|Hellenic League]]]
 opposed_by: [[[ptolemaic-egypt]], [[aetolian-league]], [[achaean-league]], [[rome|Rome]]]
 key_events: [[[battle-of-ipsus-301]], [[celtic-invasion-of-greece-279]], [[chremonidean-war-267]], [[social-war-220]]]
 key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, dynasty, classical-antiquity, balkans]
 ---
 
@@ -23,6 +23,10 @@ the third of the great [[hellenistic-world|Hellenistic]] houses alongside the
 the royal title, 306) through his son [[demetrius-i-poliorcetes|Demetrius
 Poliorcetes]] (who briefly held Macedon, 294–288), the line secured the Macedonian
 throne permanently only with **[[antigonus-ii-gonatas|Antigonus II Gonatas]]** in 276.
+
+**Simon Price** (OHCW, 1986): Alexander’s ancient Argead dynasty was **exterminated**;
+possession of Macedon was fiercely contested until **Antigonus Gonatas** secured power
+in **276**; his heirs, the Antigonid dynasty, ruled until Roman conquest in **168 BCE**.
 
 ## Founding Conditions
 
@@ -89,6 +93,25 @@ supremacy. Defeated by [[aemilius-paullus|Aemilius Paullus]] at
 king: the monarchy was abolished and Macedon broken into **four republics**, becoming
 a Roman province after Andriscus' revolt (148). See
 [[third-macedonian-war-171-168bce]], [[perseus-of-macedon]].
+
+## Manpower, garrisons, and navy (CHGRW)
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] sharpens the
+military base. Macedon alone among Hellenistic kingdoms retained a **pre-existing manpower
+base**: gymnasium training, territorial + age-class mobilization, military obligation to age
+55; demographic impact of Alexander’s casualties/settlement abroad remains disputed (Sekunda
+I.11A). From 276 the Antigonids ruled a manpower-weakened Macedonia still able to field
+~20,000 levy but forced toward mercenaries; navy cut back. Serrati (I.14): destruction by
+Rome was **not** from lack of men or money but Roman military superiority. Billows (I.10):
+**Antigonus Gonatas** eschewed goodwill strategy in southern Greece, installing partisan
+tyrants and garrisons, earning ill-will but holding key positions against Ptolemaic-encouraged
+disaffection. Dynastic intermarriage created shared *progonoi* claims: Antiochus III in 219
+cited Antigonus Monophthalmus among ancestors justifying claim to Syria/Palestine (Polyb.
+5.67); mid–late second-century Seleucids used the Antigonid name Demetrius. Late-fourth-
+century size race led by Antigonus Monophthalmus: by 315/14 ~240 warships in Phoenicia
+including 210 *cataphracts* (97 triremes, 90 fours, 10 fives, 3 nines, 10 tens); Demetrius at
+Cypriot Salamis 306 fielded mixed threes–sevens; later elevens–sixteens; Philip V barred from
+*cataphracts* except the sixteen after 197 (Polyb. 18.44.6). See [[hellenistic-warfare]].
 
 ## Related
 

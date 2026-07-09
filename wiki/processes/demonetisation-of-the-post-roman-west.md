@@ -8,7 +8,7 @@ region: [western-europe, italy, north-africa, iberia, british-isles, mediterrane
 process_type: economic
 driven_by: ["[[fall-of-the-western-roman-empire-476|collapse of the Roman fiscal-military state]]", "the rise of military lordship and aristocratic tax-exemption", "barbarian settlement in return for military service", "drainage of gold coinage eastward"]
 produces: ["de-urbanisation and the retreat from civitas to villa", "the autarkic early-medieval estate", "the manorial bipartite estate", "ruralisation of aristocratic culture"]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [process, late-antiquity, early-middle-ages, western-europe]
 ---
@@ -135,4 +135,10 @@ Wickham’s account in [[wickham-framing-the-early-middle-ages-2005|Framing]]. W
 - [[fall-of-rome-causes]] · [[fall-of-the-western-roman-empire-476]] · [[late-antiquity]] · [[early-middle-ages]]
 - [[justinianic-plague-541]] · [[merovingian-franks|the Merovingian commonwealth]]
 - [[aristocratic-demand]] · [[tax-based-vs-land-based-states]] · [[post-roman-transformation-of-the-west]]
-- Sources: [[sarris-empires-of-faith-2011]] (Chs. 1–2, 9, Epilogue); [[wickham-framing-the-early-middle-ages-2005]] (esp. Ch. 11 method; material-culture conclusions).
+- Sources: [[sarris-empires-of-faith-2011]] (Chs. 1–2, 9, Epilogue); [[wickham-framing-the-early-middle-ages-2005]] (esp. Ch. 11 method; material-culture conclusions) · [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Lombard invasion (**568**) and division of Italy with the Byzantine exarchate produced archaeological discontinuity: wood replacing stone, local coarse wares replacing imports, population drop. Mitchell notes debate (Wickham less catastrophist vs Liebeschuetz more decline-oriented) but finds hard to dispute that most identifiable ancient classical political-economic structures had disappeared — while Latin, Roman-style sarcophagi, and eighth-century Lombard tombstones mimicking early imperial gravestones show residual claims to Roman identity. “It is hard to dispute that most identifiable traces of the political and economic structures of the ancient classical world had now disappeared. But this is not quite the end of the story.” `part_of:` [[post-roman-transformation-of-the-west]]; `concurrent_with:` [[late-antiquity-decline-vs-transformation]].
+
+Source: [[mitchell-later-roman-empire-2015]]

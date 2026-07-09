@@ -5,8 +5,8 @@ origin: Emic; the corporate "universitas" of masters and students emerging at Bo
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [western-europe, mediterranean]
 contested: no
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -114,6 +114,18 @@ the university a normal instrument of princely and civic ambition — and, with 
 printing]] arriving in many of the same towns, a key node of the emerging [[renaissance-humanism|
 humanist]] educational order.
 
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Logan frames the university as a **medieval ecclesiastical creation**. By Abelard’s departure from Le Pallet c.1093, learning had largely shifted from monasteries to towns and **cathedral schools**; fame of individual masters drew mobile students (Abelard’s own circuit).
+
+**Bologna:** recovery of Justinian’s law books enabled jurisprudence beyond document-drafting; **Irnerius** and **Gratian** (*Decretum*) underpinned the legal *studium*; after 1234 the **Decretals of Gregory IX** joined Justinian as core *ius commune* authorities. Student *universitas* (*Citramontani* / *Ultramontani*) hired doctors — student-controlled model.
+
+**Paris:** evolved “imperceptibly” from the cathedral school in the second half of the twelfth century; masters’ guild, *licentia docendi*. **Philip Augustus 1200** privilege after German students’ tavern violence and the provost’s lethal response: students as clerics exempt from secular jurisdiction — not a foundation charter but affirmation of ecclesiastical independence. **Great Dispersion 1229–31** (Mardi Gras tavern dispute at St Marcel; provost’s killings; masters suspended lectures; six-year departure threat; many to Oxford, Cambridge, Toulouse, Orléans, Rheims, Angers). **Gregory IX 1231** settlement: king to protect privileges; explicit right to suspend lectures for death/mutilation or unjust imprisonment; chancellor must not license the unworthy and must take masters’ advice — major step away from cathedral jurisdiction. Paris = *universitas* of masters.
+
+**Oxford / Cambridge:** Logan rejects simple derivation from English masters leaving Paris 1167 over Henry II–Becket (Henry did restrict English students after ~1169, but that did not found Oxford). Studium possibly from St George-in-the-Castle or more persuasively late-twelfth-century canon lawyers; clearly in place by mid-1180s (Gerald of Wales c.1187). **Cambridge** founded after the 1209 *suspendium clericorum* (hanging of Oxford students after a woman’s death; townsmen with King John’s permission): masters closed Oxford and migrated; Cambridge a “daughter of Oxford” with no firm evidence of a prior school; boycott of Oxford until 1214 settlement via papal legate after John’s peace with Innocent III — humiliating penance for townsmen, half rents for 10 years, poor-student fund, arrested students handed to the *universitas* — corporate autonomy parallel to Paris.
+
+**Curriculum and method:** arts (trivium over quadrivium; Aristotle as “The Philosopher” via Arabic translations) before theology, law, or medicine. Paris theology ~12-year course (*baccalaureus biblicus* → *sententiarius* on Lombard’s *Sentences* → *formatus* → master of theology, at least age 25). **Scholasticism** for Logan is pedagogy not content: *expositio textuum* on authorities plus *disputatio*; *quodlibet* open questions before Easter/Christmas (ancestor of “quibble”). Exemplar: **Aquinas**’s disputed questions on the virtues (1269–72) — “Do we possess virtues naturally?” with master determination that virtue is natural only as aptitude not perfection. Dominican attachment to universities was plan not accident (Paris 1217, Bologna 1218; ~13,000 friars by 1256). Later expansion on Paris model: Prague 1347, Vienna 1365, Heidelberg 1386, Cracow, Cologne, Leuven 1426, Basel 1459, Uppsala 1477; by end of fifteenth century up to ~80 European universities (some paper only).
+
 ## Related
 
 - [[twelfth-century-renaissance]] — the intellectual revival it crowned.
@@ -121,3 +133,4 @@ humanist]] educational order.
 - [[ius-commune]] — the law studied at Bologna.
 - [[mendicant-orders]] — the friars who dominated the thirteenth-century faculties.
 - [[gregorian-reform]], [[papal-monarchy]] — the institutions universities served and supplied.
+- [[peter-abelard]] · [[chartres-cathedral]] · [[gothic-architecture]] · [[logan-history-of-the-church-in-the-middle-ages-2013]]

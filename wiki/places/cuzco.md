@@ -7,8 +7,8 @@ period_active: [Late Middle Ages, Early Modern]
 controlled_by: ["the Inca (imperial capital of Tawantinsuyu)", "Spain (from 1533)"]
 events_here: ["the Spanish seizure of the city (1533)", "Manco Inca's siege of Cuzco (1536)"]
 processes_here: ["[[inca-empire]]", "[[split-inheritance-and-royal-mummies]]"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, andes, late-middle-ages]
 ---
 
@@ -55,6 +55,18 @@ The Spanish took Cuzco in **1533**; in **1536** **Manco Inca** besieged the occu
 ultimately failed revolt (the assault on Saqsawaman). Spanish Cuzco was built directly on Inca
 foundations — the Qorikancha became the convent of Santo Domingo — and the city's Inca masonry still
 underpins the colonial and modern town.
+
+## Fagan & Durrani (2020): population and the Coricancha's staff
+
+Fagan and Durrani's *World Prehistory* (10th ed., 2020) corroborates the city's scale (roughly
+40,000 in the capital, another 20,000 within 50 km) and its layout around **Huacaypata** (today
+the Plaza de Armas), the point at which four imperial roads — one for each of the four *suyu*
+quarters — converged. They add that the **Coricancha**, the largest palace and sun temple, was
+staffed by more than 4,000 people, including 200–300 "manaconas" — virgin attendants to the
+sun god Inti who also served as his symbolic consorts. The **Sacsahuaman** fortress was built
+under the architect Huallpa Rimachi Inca for [[pachacuti|Pachakuti]]. See [[inca-empire]] for
+the fuller imperial narrative, including the split-inheritance mechanism that drove continuous
+conquest outward from this capital.
 
 ## Related
 

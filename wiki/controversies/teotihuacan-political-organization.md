@@ -102,6 +102,32 @@ important but conquest never commemorated; (3) possible locus shift of active po
 management from Ciudadela to Avenue of the Dead macrocomplex; (4) relation between
 impersonal art and concrete social hierarchy “puzzling”; (5) dates may be off ± century.
 
+## Evans & Webster 2001 positions (record only; do not adjudicate)
+
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster (eds.) 2001]]
+adds several **named encyclopedia positions** that map onto Positions A–C without resolving
+them (**EW2001**). Wiki voice records, does not choose.
+
+| EW position label | Author / entry | Claim (strong form) | Maps to |
+|---|---|---|---|
+| **Theocratic seat at Ciudadela** | Townsend, Sacred Landscape | Temple of Feathered Serpent unlikely pure cult temple; “seat of Teotihuacán’s **theocratic rulership**”; ~200 military victims under foundations; market opposite west | Autocratic / theocratic ruler(s) (B), with civic-market pairing |
+| **Art without rulers** | Tate, Art | Art “devoid of recognizable representations of **rulers**, the worship of ancestors in human form, and written language” | Corporate / anonymous ideology (A) |
+| **Street of the Dead as royal palace** | Santley, Classic Period | Street of the Dead complex “commonly acknowledged as the **royal palace**,” palace-centric like later Aztec Tenochtitlan, one of the largest Classic buildings at the site | Named/royal palace locus (B or C depending on period) |
+| **Stronger militarism** | Webster, Warfare | FSP burials ~A.D. 200–250 indicate stronger war/militarism than previously suspected; Street of the Dead destruction ~600–700 suggests internal violence/civil war in decline | Early coercive capacity (B); late fragmentation (C / Manzanilla) |
+| **Empire language (Morelos)** | Smith & Hirth, Morelos | Eastern/central Morelos “incorporated into the expanding Teotihuacan **empire**” | Strong central authority capable of territorial incorporation (B or strong state under C) — *not* a model of internal corporate vs autocratic form, but constrains “weak state” readings |
+| **Evans refugee-builders** | Evans, Cuicuilco | Growth spurt “almost certainly” Cuicuilcan refugees who built monuments “for that city’s **rulers**” | Assumes rulers (B) in formation narrative language |
+
+**Shared factual ground (framed per side):** no deciphered royal names; no confirmed royal
+tomb; mass dedicatory sacrifice at FSP (~200, military attire); apartment-compound corporate
+residential units; multiethnic barrios; deliberate late burning of civic core. Disagreement is
+over whether anonymity + compound corporate groups imply collective governance, whether early
+monumental programs + sacrifice imply autocrats who later lost power, and where active
+political management sat (Ciudadela vs Avenue of the Dead complex).
+
+**Curator’s note (2026-07-08):** EW2001 is ca.-2000 US mainstream encyclopedia consensus;
+it does not supersede Cowgill 2000/2015 synthesis or Manzanilla intermediate-elite work.
+Positions above are filed for controversy tracking only.
+
 ## Current Status
 
 The controversy remains open. A rough consensus holds that:
@@ -109,7 +135,7 @@ The controversy remains open. A rough consensus holds that:
 - The FSP desecration (~300–350 CE) probably marks a political transition toward more collective or council-based rule.
 - Late Teotihuacan (Xolalpan–Metepec) operated under a more corporate or oligarchic system, with growing intermediate elite competition undermining state coherence.
 
-But each element of this narrative is contested. Better definition of ceramic phases, discovery of elite tombs with clearer contexts, and more extensive excavation of potential palace complexes (like the Xalla) would substantially advance resolution.
+But each element of this narrative is contested. Better definition of ceramic phases, discovery of elite tombs with clearer contexts, and more extensive excavation of potential palace complexes (like the Xalla) would substantially advance resolution. **Resolution status remains open** after EW2001 integration.
 
 ## Related Pages
 
@@ -118,6 +144,9 @@ But each element of this narrative is contested. Better definition of ceramic ph
 - [[ciudadela-teotihuacan]] — political-symbolic focal point and palace compounds
 - [[teotihuacan-collapse-550ce]] — endpoint of political organization debate
 - [[teotihuacan-religion]] — ideology and its relationship to political authority
+- [[teotihuacan-human-sacrifice-fsp]] · [[teotihuacan-apartment-compound-system]]
+- [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]
+
 - [[teotihuacan-apartment-compound-system]] — evidence of corporate turn
 - [[mesoamerican-state-formation]] — comparative context
 - [[cowgill-ancient-teotihuacan-2015]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 6]]

@@ -9,8 +9,8 @@ affiliated_with: [its colonies (Corcyra, Syracuse, the Adriatic foundations), la
 opposed_by: [Megara, Corcyra (in revolt), Argos at times]
 key_events: [the seizure of the Megarid (~740–700), the foundation of Corcyra and Syracuse (733), the first sea-battle with Corcyra (~664), the Cypselid tyranny (657–583)]
 key_processes: [[[greek-colonization|colonization]], the development of naval power, the Protocorinthian pottery trade, [[greek-tyranny|tyranny]]]
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, state, archaic-period, peloponnese]
 ---
 
@@ -70,6 +70,31 @@ she sold Athens **twenty ships** for the "unheralded war" against [[aegina|Aegin
 consistent, unobtrusive favour to Athens reflected an oligarchy whose prosperity "depended
 on the preservation of her key position" and so shunned extremes.
 
+## Trade dependence and the classical eclipse by Athens
+
+[[osborne-classical-greece-2000|Osborne (ed.), Classical Greece 500–323 BC]] (Millett,
+Ch. 2, "The Economy") confirms and extends the Archaic picture into the classical
+period: positioned near the isthmus linking central Greece and the Peloponnese,
+Corinth "owed more than most poleis to revenues derived from trade," a dependence
+Thucydides has Corinthian speakers themselves invoke, warning before the
+Peloponnesian War of the danger of losing control over coastal trade routes. Corinth's
+lead in fine pottery, established in the eighth–seventh centuries BCE partly by
+adopting the eastern-derived fashion for perfumed oil, made it the major fine-pottery
+supplier for the wider Greek world — but a century later Athenian potters, producing
+larger vessels suited to the symposium, captured the market and drove out even
+Corinthian products, a case study (per Robin Osborne's introductory chapter) in the
+broader classical-period trend toward Greece's cultural homogenization around Athens.
+
+Osborne's discussion of civic oral tradition also situates Corinth alongside Athens as
+an example of how founding narratives were shaped by present political need rather
+than preserved as neutral memory: cities that had once had monarchs and later deposed
+them — Corinth and Athens alike — recast the record of that monarchy into stories of
+royal abuse that retrospectively justified its overthrow, in contrast to
+still-monarchic cities (e.g. Cyrene), which told foundation-glorifying stories
+instead. This bears on Corinth's own Bacchiad-to-Cypselid narrative above: the surviving
+tradition of Cypselid excess should be read partly as this kind of politically
+patterned retrospective construction, not as disinterested record.
+
 ## Why Corinth mattered
 
 - The **commercial-maritime engine** of the Greek mainland — first in warships, naval
@@ -78,9 +103,17 @@ on the preservation of her key position" and so shunned extremes.
 - A textbook case of the **Archaic sequence** — Bacchiad oligarchy strained by new wealth
   into Cypselid [[greek-tyranny|tyranny]], then liberated into a Spartan-aligned oligarchy.
 
+## From the Oxford History of the Classical World (1986)
+
+**Forrest (Ch.1, [[sources/boardman-oxford-history-classical-world-1986|OHCW 1986]]).** Corinth founded Corcyra and Syracuse (733 BCE) amid westward riches as a paradigm of Archaic colonization that produced **independent** units with mainly sentimental/religious mother-city ties. In **657** Cypselus, a half-Bacchiad, killed or expelled the Bacchiad clan and became *tyrant*; propaganda used *dikaiosei* (put Corinth to rights / rules / justice)—for Forrest the first constituent in expanding the idea of the *polites*. Hoplite-era military change supplied mechanics more than the substance of that revolution. Sixth-century Sparta under Chilon made treaties city-by-city “with Corinth, with Sicyon, with the communities of Arcadia.” After c.506 **Corinthians** (with Demaratus) refused to follow Cleomenes in an attack on Athens—forcing Peloponnesian League congress procedure. Hellenic congress spring 480 met at Corinth.
+
+**Hornblower (Ch.6).** Corinth lacked Athens’s positive incentives (democracy, *paideia*) and was subordinated within Sparta’s system—hence not a viable 478 leader of the liberated Aegean. Post-446 Athenian expansion and Megarian aggression reawakened Corinthian suspicions in the 430s, helping produce the Great Peloponnesian War of 431–404. Corinth joined the anti-Spartan coalition in the Corinthian War (395–386).
+
+**Price / R5.** Hellenistic and Roman horizons: Ptolemy II’s procession figure “Corinth” advertised care for Greek freedom (League of Corinth allusion); Rome sacked Corinth in 146.
+
 ## Related
 
 - Rulers: the Bacchiads → the Cypselids ([[greek-tyranny]]) · rival: Megara · colony in revolt: Corcyra
 - Colonies: [[syracuse]] · [[greek-colonization|the Adriatic foundations]] ([[epirus|Ambracia, Apollonia]])
 - Ally: [[sparta]] / [[peloponnesian-league]] (restraining power) · arbiter for Plataea vs [[thebes]] · rival: [[aegina]] · sanctuary patron: [[delphi]]
-- Period: [[archaic-period]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond) · [[boardman-cah-v4-1988]] (Ch. 6, Jeffery)
+- Period: [[archaic-period]] · [[classical-antiquity]] · Sources: [[boardman-cah-v3p3-1982]] (Ch. 42, Hammond) · [[boardman-cah-v4-1988]] (Ch. 6, Jeffery) · [[osborne-classical-greece-2000|Osborne (ed.) 2000]] (Ch. 2, Millett; Ch. 1, Osborne)

@@ -7,8 +7,8 @@ period_active: [Neolithic, Chalcolithic]
 controlled_by: [Neolithic Anatolian farming community]
 events_here: [unknown]
 processes_here: [[[early-agriculture-southwest-asia]], [[sedentism]], [[urbanization]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, anatolia, near-east, neolithic]
 ---
 
@@ -66,6 +66,22 @@ elaborate, economically specialized communities existed within the
 [[neolithic|Neolithic]]**, before metallurgy and writing — pushing the deep
 prehistory of [[urbanization]] back into the 7th millennium and complicating any
 neat sequence from village to city.
+
+## Scale, Economy, and a 160-Year Crisis (Fagan & Durrani 2020)
+
+Fagan & Durrani (2020) date Çatalhöyük to ~7000 BCE, covering 13 ha, and note it
+prospered on the **obsidian trade** while showing **no evidence of a centralized
+elite or city-level organization** — consistent with the Hodder-era reading of
+the site as far less hierarchical than Mellaart originally supposed (see above).
+They report a **160-year cold/dry crisis (~6325–5815 BCE)**, identified via a
+lipid-isotope study (Roffet-Salque et al.), during which the settlement's herds
+were downsized (from cattle toward goats and sheep) and households shrank.
+**[CONTRADICTION/discrepancy flag]**: Fagan & Durrani's own text elsewhere gives
+an abandonment date of "7800 BCE" for the site — earlier than the 6325–5815 BCE
+crisis just described in the same discussion. This is very likely an internal
+source error or editing artifact rather than a genuine claim that abandonment
+preceded the crisis; noted here without silent correction, per the extraction
+brief's flag. (Fagan & Durrani 2020)
 
 ## Historiography
 

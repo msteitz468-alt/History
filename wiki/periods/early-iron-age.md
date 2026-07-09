@@ -1,14 +1,14 @@
 ---
 title: Early Iron Age
 period_number: 12
-preceded_by: [[[late-bronze-age|Late Bronze Age]]]
-followed_by: [[[archaic-period|Archaic Period]]]
+preceded_by: "Late Bronze Age"
+followed_by: "Archaic Period"
 date_range: "1,200–800 BCE (regionally diachronous)"
 regions_covered: [near-east, levant, anatolia, mesopotamia, iran-plateau, mediterranean, iberia, china, south-asia, north-africa, sub-saharan-africa, mesoamerica]
 major_themes: ["aftermath of the Bronze Age Collapse", "iron metallurgy", "Neo-Assyrian resurgence", "Phoenician expansion", "the Greek 'Dark Age'", "Western Zhou and its fall", "Vedic age", "alphabetic writing", "small states and tribal polities"]
 collection_coverage: moderate
-sources_ingested: 10
-last_updated: 2026-06-27
+sources_ingested: 13
+last_updated: 2026-07-08
 tags: [period, bogucki-crabtree-ancient-europe-2004, bryce-world-neo-hittite-kingdoms-2012, dever-beyond-the-texts-2017]
 ---
 
@@ -289,3 +289,46 @@ Chronology), the **[[omride-dynasty|Omride]]** north as the first fully visible 
 the eighth–seventh-century maturation of Judah down to [[sennacherib-siege-jerusalem-701bce|
 Sennacherib's 701 campaign]] and the destruction of [[lachish|Lachish]]. This sharply
 distinguishes the archaeologically attested Iron Age Levant from the biblical narrative.
+
+## Hall (2014) — Archaic Greek World (Aegean EIA baseline)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] brackets the Greek Early Iron Age as the upper half of an Archaic span ca. 1200–479 and supplies the **Mycenaean baseline** against which post-collapse Greece is measured. Full Dark Age demography, isolation, and literacy-loss detail lives on [[greek-dark-age|Greek Dark Age]]; here the book’s LBA→EIA hinge for the Aegean:
+
+### Mycenaean palaces as non-unified redistributive systems
+
+Mycenaean elites first monumentalized tholoi, then palaces and fortifications (Mycenae, Tiryns, Midea, Pylos, Thebes, Iolcus) without compelling evidence of **political unification** of Greece. Linear B tablets (deciphered 1952) show specialized crafts, a hierarchy headed by *wa-na-ka*, provincial administration at Pylos, and many later Greek deities already named. Palaces acquired goods to maintain elites **without absolute monopoly** of all economic activity. This is the world whose collapse (see [[bronze-age-collapse-1200bce]]) opens the EIA: when palatial demand ends, Linear B accounting literacy and specialized monumental crafts do not outlast more than a generation (Hall’s Dark Age argument, filed on the regional page).
+
+### Grave Circles A/B — internal elite emergence
+
+Schliemann’s Shaft Graves (Circle A) are too early for Agamemnon; Circle B (from the later seventeenth century) shows continuous Middle Helladic cultural tradition. Circle A warriors therefore mark **emergence of a new elite from the existing population** (paralleling late MH Messenia), not arrival of the first Greek-speakers—an internal social differentiation story rather than a migration-of-Greeks origin myth.
+
+### Chronology and “Dark Age” alternatives
+
+Hall rejects chronological compression that would halve the Dark Age by lowering New Kingdom dates ~250 years (James et al. 1991); Geometric phasing, radiocarbon, and Assiros dendro-radiocarbon broadly support (or even slightly raise) traditional EIA ceramic chronology. For Aegean coverage of isolation vs. Lefkandi-style wealth, pastoralism hypotheses, and basileus/*pa-si-re-u* big-man context after the palaces, see the Hall section on [[greek-dark-age|Greek Dark Age]]. Periodization that runs Archaic history from ca. 1200 rather than from an eighth-century *polis* “birth” is summarized on [[archaic-period|Archaic Period]].
+
+## From the Oxford History of the Classical World (1986)
+
+Jasper Griffin (introduction, [[sources/boardman-oxford-history-classical-world-1986|OHCW 1986]]) places Indo-European ancestors of the Greeks entering Greece from the north c.1900 BCE into a **mountainous, fragmented landscape** where the sea mattered for communications; classical city particularism (own coinage, calendar, intermittent war) is linked to that terrain. After Mycenaean collapse he stresses poetry/song as the sole continuous high cultural medium until the *polis*, pantheon, and eastern contacts re-form by the end of the Dark Age (detail on [[greek-dark-age|Greek Dark Age]]).
+
+Forrest’s Archaic chapter supplies the Aegean EIA settlement map by c.1000 BCE (Dorian / Ionian / Aeolian nuclei) and the **Lefkandi** revision of Dark Age poverty for a central Greek zone. Parker notes eighth-century temple form and intensified eastern cult contacts as EIA→Archaic religious infrastructure. Taplin’s Homer chapter treats weapons (bronze) and burial (cremation) as an **aesthetically coherent multi-period amalgam**, not a recoverable single EIA “Homeric society”—an important source-critical caution for using epic as Early Iron Age social history.
+
+## Aegean economic summary (Cambridge Economic History of the Greco-Roman World)
+
+[[sources/scheidel-cambridge-economic-history-greco-roman-world-2007|Scheidel, Morris &
+Saller (eds.), *The Cambridge Economic History of the Greco-Roman World*]] (2007), Ian
+Morris's chapter (see the fuller treatment at
+[[processes/early-iron-age-greek-economy]]), frames the Aegean Early Iron Age economy as a
+three-stage trajectory: **collapse** (1200–1000 BCE, following the
+[[mycenaean-civilization|Mycenaean]] palatial destructions), **stagnation** (1000–800
+BCE, "a new economic equilibrium, at a lower level of performance than the
+[[processes/mycenaean-palace-economy|Late Bronze Age palace economy]]"), and the
+beginnings of **recovery** from the 8th century, driven partly by Neo-Assyrian pressure on
+Phoenicia pushing Phoenician traders to intensify Mediterranean-wide exchange with the
+Aegean. Morris judges Snodgrass's proposed 8th-century demographic "explosion" implausible
+against skeletal life-expectancy data, arguing instead for a roughly two-fold Greek
+population increase across the century. The period's true economic "structural
+revolution" — the emergence of "middling" aristocratic oligarchies strong enough to
+guarantee property without acting as predators (E. L. Jones's "optimality band") — is, in
+Morris's reading, the essential structural precondition for the growth of the following
+[[archaic-period|Archaic period]] economy, with the decisive economic take-off itself
+delayed until c. 550–500 BCE.

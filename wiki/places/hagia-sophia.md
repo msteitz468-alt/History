@@ -7,8 +7,8 @@ period_active: [Late Antiquity]
 controlled_by: [the eastern Roman (Byzantine) empire]
 events_here: [the dedication of the Great Church (537), the collapse and rebuilding of the dome (558)]
 processes_here: [the Christianization of the imperial capital, the architecture of the age of Justinian]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [place, anatolia, late-antiquity]
 ---
 
@@ -67,3 +67,10 @@ model for Ottoman imperial mosques), and remains the defining image of the late-
 - Source: [[cameron-cah-v14-2000]] (Ch. 31); the great contemporary verse description — Paul the
   Silentiary's ekphrasis recited at the rededication of 563 — is now ingested in
   **[[bell-three-political-voices-justinian|Three Political Voices from the Age of Justinian]]**.
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+- **Justinian’s great building (R1-047):** After the Nika revolt (532) destroyed Theodosius’s church, Justinian’s architects Anthemius of Tralles and Isidorus of Miletus completed Santa Sophia in five years; dedicated 27 December 537; dome collapsed 558, rebuilt 562–63 (structure still standing). Innovative pendentive dome over square (107 ft diameter, 184 ft height). Procopius’s contemporary praise is quoted at length by Logan.
+  - Quote: "If Justinian had done nothing more than build Santa Sophia (Hagia Sophia), he would have had an enduring place in human history."
+
+Source: [[logan-history-of-the-church-in-the-middle-ages-2013]]

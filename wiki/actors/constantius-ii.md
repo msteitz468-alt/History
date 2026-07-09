@@ -9,8 +9,8 @@ affiliated_with: [the Constantinian dynasty, Homoian ("Arian") Christianity]
 opposed_by: [Shapur II and the Sassanids, the usurper Magnentius, the pagan reaction of Julian]
 key_events: [the dynastic massacre of 337, the Persian war and sieges of Nisibis, the battle of Mursa (351), the search for a creed]
 key_processes: [the consolidation of the Christian empire, the Homoian/Nicene controversy]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, mediterranean-world]
 ---
 
@@ -73,3 +73,10 @@ and so made possible the last pagan reaction.
 - The Homoian/Nicene quarrel — see [[third-century-christianity|the Christian controversies]] (the
   Arian dispute, treated fully in CAH XIII Ch. 19)
 - Source: [[cameron-cah-v13-1998]] (Ch. 1, David Hunt)
+
+## From Mitchell, Later Roman Empire (2015)
+
+Attributed claims from [[sources/mitchell-later-roman-empire-2015|Stephen Mitchell, *A History of the Later Roman Empire* (2015)]].
+
+- **337 interregnum murders.** After Constantine’s death (22 May 337), no Caesar had yet been made Augustus; during the interregnum to 9 September the army — which Zosimus says would tolerate only Constantine’s sons — murdered rivals including Dalmatius, Hannibalianus, and other male descendants of Constantius and Theodora except the children Gallus and Julian. “Most sources, beginning with Julian himself, suggest that Constantius was the instigator of the murders.”
+- **Suspicious ruling style and Gallus.** Ammianus depicts Constantius as harsh, irritable, and prone to baseless suspicion, worsened by courtiers’ flattery; the chief victim was Caesar Gallus, suspected of treason at Antioch, summoned west, and executed at Histria in 354. Courtiers encouraged the belief “that the fate of the entire world hung on the slender thread of the emperor’s own life.”

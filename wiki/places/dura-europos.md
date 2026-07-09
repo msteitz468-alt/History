@@ -101,6 +101,22 @@ broader interpretive extension — that Dura's fate exemplifies what happened, l
 to Graeco-Macedonian foundations across the region — is contested territory; see
 [[orientalization-of-rome-thesis]] for the fuller debate.
 
+## Graffiti and the Garrison
+
+Dura's abandonment after the Sasanian siege of 256/7 CE preserved an exceptional
+body of [[ancient-graffiti|informal inscriptions]] documenting its multicultural,
+militarized society. Over 200 graffiti on the Palmyrene Gate — cut and painted
+red — invoke the goddess **Tyche of Dura** ("good fortune"), whose cult was tied
+to the Roman garrison guarding the gate; three altars there were dedicated in
+Greek (Tyche), Palmyrene (Gad) and Latin (*genius* of Dura), a vivid case of
+religious conflation under Rome. About 12% of the non-official texts are
+*beneficiarius* soldiers' "may X be remembered" (*mnesthe*) formulae, echoing a
+Semitic blessing. The Dura **mithraeum**, used by Palmyrene archers and later by
+*legiones* IIII Scythica and XVI Flavia Firma, carries worshippers' graffiti that
+are almost entirely military names and titles — evidence of an exclusively
+military cult of Mithras there. The **Sator Square** word-puzzle also appears at
+Dura. Per [[keegan-graffiti-in-antiquity-2014|Keegan, *Graffiti in Antiquity*]].
+
 ## Related
 
 - [[palmyra]]
@@ -109,5 +125,6 @@ to Graeco-Macedonian foundations across the region — is contested territory; s
 - [[roman-syria]]
 - [[decapolis]]
 - [[orientalization-of-rome-thesis]]
+- [[ancient-graffiti]] · [[defixiones]]
 
 Source: [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]].

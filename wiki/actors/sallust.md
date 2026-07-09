@@ -9,8 +9,8 @@ affiliated_with: [the populares, Julius Caesar]
 opposed_by: [the optimate Senate, Cicero (politically), Milo]
 key_events: [his tribunate (52 BCE), expulsion from the Senate (50), governorship of Africa Nova (46)]
 key_processes: [the writing of the Latin historical monograph, the fall of the Roman Republic]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy]
 ---
 
@@ -56,6 +56,10 @@ Sallust fixed the form (the monograph) and the moralizing, analytical voice of R
 transmitted the *optimates/populares* framework, and supplied later ages a powerful narrative of
 **republican decline through the loss of external threat** — an idea revived from Montesquieu to
 modern political science. His direct heir in manner and pessimism is **[[tacitus|Tacitus]]**.
+
+## OHCW (Lintott Ch. 26)
+
+**Lintott**: C. Sallustius Crispus (born 86 BCE), Caesarian partisan who turned to history around Caesar’s murder; terse epigrammatic style indebted to early annalists (esp. Cato); major *Histories* (to 67 BCE) survive only in fragments; monographs *Catiline* and *Jugurtha* remain. Contrasted Roman military glory with moral corruption attending imperial expansion; aristocracy’s greed and ambition destroyed themselves and corrupted the poor; fundamental causes of decadence were prosperity and lack of foreign enemies — a second-century notion transmitted memorably by Sallust. Source: [[boardman-oxford-history-classical-world-1986]].
 
 ## Related
 

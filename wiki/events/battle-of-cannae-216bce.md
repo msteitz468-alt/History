@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[second-punic-war-218-201bce]], the Roman decision to seek a decisive pitched battle after Trasimene]
 consequences: [the defection of much of southern Italy and Syracuse, the entrenchment of the [[fabian-strategy|Fabian strategy]], the survival-test of the Roman alliance system]
-sources_ingested: 2
-last_updated: 2026-06-23
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, italy, battle, rome]
 ---
 
@@ -71,9 +71,33 @@ prosopographical problem (Briscoe's Additional Note). The casualty figure of
 accepts. The battle became the archetype of annihilation by envelopment in later
 military theory.
 
+### OHCW (Boardman/Griffin/Murray 1986) — Crawford
+
+Crawford (Ch. 16) treats Cannae (216) as the climax of Hannibal’s Italian victories
+and the moment of Capuan (and later Syracusan) defection — yet the strategic failure
+was structural: Rome fielded new armies to replace losses, and most Italian allies never
+regarded Italy without Rome or Italy under Carthage as serious alternatives. Cannae is
+thus decisive tactically, not as a dissolution of the Italian manpower system that
+Crawford makes the basis of Mediterranean conquest.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Ch. 16, Crawford).
+
+### CHGRW contribution
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|Roth (CHGRW I.12)]]: major
+exception to field autonomy — the Senate ordered the consuls to force decisive battle with
+Hannibal, producing Cannae (Polyb. 3.108.1–2). Sabin (I.13A): complex plans like Cannae likely
+needed advance intelligence of Roman deployment, not same-day counter-deployment; Hannibal’s
+convex Gallic/Spanish crescent deliberately tempted Roman infantry into a pocket; cavalry
+victory exploited by prepared African infantry columns produced the iconic double envelopment
+of a larger army — risky because it thinned the centre (cf. Trebia escape of 10,000 Romans;
+Ibera reverse). Canonical case for the dual-level “battlefield clock” model — see
+[[sabin-lost-battles-model]].
+
 ## Related
 
 - Part of: [[second-punic-war-218-201bce]] · commander: [[hannibal]]
 - Response: [[fabian-strategy]] · [[fabius-maximus]]
-- Consequence: defection of [[syracuse]] · source: [[astin-cah-v8-1989]]
+- Consequence: defection of [[syracuse]] · source: [[astin-cah-v8-1989]] ·
+  [[boardman-oxford-history-classical-world-1986]] (Ch. 16)
 - **Detailed Tactical Analysis**: [[hubs/warfaresecond-punic-war/battle-of-cannae|West Point-style analysis of objectives, deployment, phases, and lessons learned]]

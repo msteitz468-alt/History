@@ -9,8 +9,8 @@ affiliated_with: [the Ottoman dynasty, Sunni Islam]
 opposed_by: [the Byzantine Empire, Venice, Hungary (Hunyadi), the Akkoyunlu (Uzun Hasan), the Karaman emirate]
 key_events: ["the fall of Constantinople (1453)", "the annexation of Serbia, the Morea, Trebizond & Bosnia", "the war with Venice (1463–79)", "the landing at Otranto (1480)"]
 key_processes: [[[ottoman-empire]], the building of the Ottoman imperial state]
-sources_ingested: 1
-last_updated: 2026-06-13
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-middle-ages, anatolia, balkans, near-east]
 ---
 
@@ -66,8 +66,18 @@ set the conquest-state and centralized institutions that [[selim-i|Selim I]] and
 [[suleiman-the-magnificent|Süleyman]] would carry to their apogee. With the fall of
 Constantinople, Kinross writes, "Byzantium [was] to be reborn in a new idiom."
 
+## From Gibbon, *Decline and Fall* (Ch. LXVIII)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]]; not asserted as modern fact.
+
+- **Character sketch.** Began as a devout Muslim; age and empire “relaxed” narrow bigotry; skilled in languages and learning — yet “the influence of religion and learning were employed without effect on his savage and licentious nature”; passions furious and inexorable.
+- **Not Alexander or Timur.** Constantinople sealed his glory, but “if we compare the means, the obstacles, and the achievements, Mahomet the Second must blush to sustain a parallel with Alexander or Timour” — Ottoman numbers larger, progress bounded by Euphrates and Adriatic.
+- **Dissimulation.** “Peace was on his lips, while war was in his heart”: he sighed incessantly for Constantinople; Gibbon contrasts Murad’s scorn of casuistical treaty-breaking with Mehmed’s use of it.
+- **Siege craft as character.** Rumeli Hisar, overland portage of the fleet, and the final assault are treated as proofs of “genius” harnessed to ruthless ambition (detail on [[fall-of-constantinople-1453]]).
+
 ## Related
 
 - [[fall-of-constantinople-1453]] — his defining conquest; [[byzantine-empire]] — the empire he ended.
 - [[ottoman-empire]] — the imperial state he built; [[devshirme]] · [[timar-system]] · [[ottoman-law-kanun]] — its institutions.
 - [[selim-i]] · [[suleiman-the-magnificent]] — the later conquering and apogee sultans; [[islam]].
+- [[sources/gibbon-decline-and-fall-1776]] · [[timur]] (Gibbon’s comparative foil)

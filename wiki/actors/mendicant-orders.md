@@ -9,8 +9,8 @@ affiliated_with: [[[papacy]], [[medieval-university]], [[medieval-inquisition]]]
 opposed_by: [the secular clergy (William of St Amour), [[catharism|Cathars]], the older monastic orders]
 key_events: [Fourth Lateran Council 1215, the bull Quo elongati 1230, the bull Exiit qui seminat 1279, the secular–mendicant dispute at Paris 1250s]
 key_processes: [the suppression of [[catharism]], the rise of [[medieval-university|universities and scholasticism]], [[urbanization|urbanization]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, institution, high-middle-ages, western-europe]
 ---
 
@@ -76,6 +76,12 @@ mendicants dominated preaching, confession, the universities, and the
 [[medieval-inquisition|Inquisition]] — the most dynamic religious force of the age, and
 the institutional embodiment of the [[urbanization|new urban Christianity]].
 
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Logan’s ch. 11 thesis: movements of dissent and mendicancy formed part of one scene in which increasing wealth failed to satisfy spiritual desire; “the voluntary poverty of Waldès and others like him was shared, in a strikingly similar way, by Francis of Assisi.” The friars “emerged from forces similar to those that gave rise to heresy, yet the papacy, perhaps having learned from the handling of the [[catharism|Cathars]] and [[waldensians|Waldensians]], was able to turn their energies to constructive use within the church.” They were “**the last great innovation of the medieval church**”: not cloistered monks or semi-cloistered canons but urban, open to neighbours’ spiritual needs, originally spontaneous and largely lay.
+
+**Fourth Lateran** forbade new religious rules — a serious obstacle for later mendicants. [[franciscan-order|Franciscans]] avoided it by [[innocent-iii|Innocent III]]’s pre-council approval; [[dominican-order|Dominicans]] by adopting the Rule of St Augustine when approaching Innocent weeks before the council. **Carmelites**: Western hermits on Mount Carmel received a “formula of life” c.1206–14 from the Latin patriarch of Jerusalem; diaspora from ~1238–40s to the West; **Innocent IV (1247)** revised the rule allowing towns and common meals — urban mendicants (England: Hulne, Aylesford, then London, Cambridge, etc.; ~1,000 in England by 1300). **Austin Friars**: papal unions of Italian hermits (Innocent IV 1244 Tuscan union; **Alexander IV 1256** Great Union — Order of Hermit Friars of St Augustine); >500 houses within a century. **Second Lyons (1274)** forbade lesser friar orders to accept new members. Franciscan property compromises (Gregory IX 1230 agents; Innocent IV 1245 ownership vested in Holy See) belong to the same institutionalization process (detail under [[franciscan-order]]).
+
 ## Related
 
 - [[catharism]] — the heresy Dominic preached against and the friars helped suppress.
@@ -83,3 +89,4 @@ the institutional embodiment of the [[urbanization|new urban Christianity]].
 - [[medieval-university]] — the schools the friars entered and dominated.
 - [[urbanization]] — the towns where the friars built their convents among the poor.
 - [[medieval-monastic-revival]] — the older monastic orders whose decline they accompanied.
+- [[francis-of-assisi]] · [[dominic-de-guzman]] · [[humiliati]] · [[beguines]] · [[logan-history-of-the-church-in-the-middle-ages-2013]]

@@ -7,7 +7,7 @@ period_active: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middl
 controlled_by: ["Southern Maya highland elites; Teotihuacan-period contacts (debated form)"]
 events_here: ["Middle–Late Preclassic florescence", "Early Classic Teotihuacan-related tombs and architecture", "Late Classic population maximum", "modern urban destruction"]
 processes_here: ["[[mesoamerican-state-formation]]", "[[maya-highland-pacific-development]]", "[[mesoamerican-preclassic]]"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [place, mesoamerica, maya, highlands]
 ---
@@ -36,6 +36,22 @@ Kaminaljuyú’s Preclassic sculptured corpus **far outnumbers** that of any oth
 
 Valley of Guatemala surveys: **population maximum Late Classic**; Kaminaljuyú largest highland polity of that period but **not rivalling the greatest lowland powers** (Sharer). Much of the site destroyed by Guatemala City expansion.
 
+## From Evans & Webster 2001 (Popenoe de Hatch)
+
+Marion Popenoe de Hatch’s entry phases occupation continuously from the Middle Formative (possibly earlier) to the end of Late Classic — roughly **1000 B.C. to A.D. 900** ([[evans-webster-archaeology-ancient-mexico-central-america-2001]]).
+
+| Phase | Outline (encyclopedia) |
+|---|---|
+| **Las Charcas** | Hierarchical society under central control; maize economy; obsidian workshops; standardized censers/figurines |
+| **Providencia** | Irrigation: canals drained SW valley lake to raised beds for year-round production; trade in Motagua obsidian/jade, NW highland ceramics, southern-coast salt/cacao/fruits |
+| **Verbena** | Disrupted NW highland ties; largest structure **Mound E-III-3** with two successive high-elite tombs; potbelly motif and Usulután shared with S coast/El Salvador/lower Motagua |
+| **Arenal climax** | Maximum density; enlarged canals; early Maya hieroglyphic monuments (e.g., Monument 10) — suggests Formative occupants were Maya speakers |
+| **Santa Clara** | Decline; lake dry-up; collapse of authority; quality drop |
+| **Aurora** | Intrusive population (NW highland ceramic affinities) via Solano; new ideology without sculptures/figurines |
+| **Esperanza** | Elite tombs in Mounds **A** and **B** show Teotihuacan connections (trade + architectural/ceramic emulation) for about a century, ending with the end of Early Classic while population remained into Late Classic |
+
+Encyclopedia thus frames Teotihuacan ties as a **century-scale Esperanza elite package** atop a longer Formative–Classic local sequence — compatible with Sharer’s local-elite appropriation reading and with Cowgill’s rejection of direct Teotihuacan political control.
+
 ## Related
 
-[[maya-civilization]] · [[izapa]] · [[teotihuacan]] · [[maya-highland-pacific-development]] · [[tikal]] · [[copan]] · [[mesoamerican-writing-systems]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Sharer Ch. 10; Adams Ch. 1; Cowgill Ch. 6)
+[[maya-civilization]] · [[izapa]] · [[cotzumalhuapa]] · [[guatemala-highlands]] · [[teotihuacan]] · [[maya-highland-pacific-development]] · [[tikal]] · [[copan]] · [[mesoamerican-writing-systems]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Sharer Ch. 10; Adams Ch. 1; Cowgill Ch. 6) · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster encyclopedia]]

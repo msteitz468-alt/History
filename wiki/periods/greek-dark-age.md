@@ -5,8 +5,8 @@ date_range: "c. 1200–800 BCE (Aegean regional sub-period of the Early Iron Age
 regions_covered: [aegean, mediterranean, anatolia]
 major_themes: ["collapse of the Mycenaean palace world", "depopulation and the loss of Linear B literacy", "sub-Mycenaean and Protogeometric pottery", "the Dorian and Ionian migrations", "the transmission of the Homeric tradition", "from palace to village to polis"]
 collection_coverage: strong
-sources_ingested: 2
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [period]
 ---
 
@@ -169,6 +169,42 @@ sub-Mycenaean–Protogeometric transition (~1050) and the Dorian occupation of t
 southeastern islands (little before the late tenth century). The two are broadly
 compatible but cannot be fixed to the year.
 
+## Hall (2014) — Archaic Greek World
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] treats ca. 1200–750 as real history, not a blank to be compressed away, and supplies the Dark Age baseline for his Archaic social model (ranked “big-man” communities → seventh-century aristocracy).
+
+### Still “dark,” not uniformly empty
+
+Hall **rejects** declaring the Dark Age a mere misnomer of modern ignorance. Archaeology has illuminated much (including wealthy nodes such as Lefkandi, already central to the wiki debate above), yet the data still show **isolation, introversion, and instability** for mainland Greece and the Aegean islands; Cyprus and to a lesser extent Crete were more resilient. Site counts fall sharply through LH IIIC and Submycenaean, recover in Protogeometric and Geometric, and still remain below LH IIIB levels. The age is uneven rather than uniformly dark—but the overall mainland/Aegean picture is not simply an artifact of missing evidence.
+
+### Demography beyond nucleation; Nikhoria as microcosm
+
+Nucleation alone cannot explain eleventh-century patterns (surviving sites are not systematically larger). Hall’s working figures: Argos Dark Age population roughly 600–1,200 (lower figure a maximum for the eleventh century); Nikhoria shrinks to ~13–14 families (~85–90 people), peaks near ~200, then dwindles; Messenian Dark Age population may be only ~10% of LH IIIB levels. Emigration to Asia Minor and possible mobile pastoralism help explain “missing” people. A pastoralist model (with caveats), drawing heavily on Nikhoria faunal rise in bovine consumption, implies mobility, marginal seasonal sites, poorer nutrition, and lower fertility, alongside LH IIIC–later **regional ceramic isolation** and local production. Overseas contacts continue (Cypriot iron technology; Near Eastern imports in Attic, Euboean, Cretan, and Dodecanesian graves) but at **lower intensity** than either Mycenaean or post-eighth-century levels.
+
+### Writing lost with the palaces
+
+Linear B’s cumbersome syllabic system, used only for commercial/accounting purposes by few scribes, would not survive more than a generation without palatial demand—unlike possible Cypro-Minoan continuity into later Cypriot syllabic script. Collapse also ended demand for specialized craft and monumental skills. Literacy’s recovery is an Archaic (alphabetic) story, not a Dark Age one.
+
+### Homeric society neither palatial nor simple Dark Age composite
+
+Linear B decipherment (1952) showed Mycenaean organization unlike Homer. Finley’s dating of “Homeric society” to the tenth–ninth-century Dark Age is complicated because many of his eighth-century exclusions (tripods, cremation, Phoenician trade monopoly, weak *polis*) no longer hold; archaeologists often see composite anachronisms, while some historians see coherent social structures with an archaizing “patina” intelligible to a late-eighth-century audience—caution still required.
+
+### Chronological compression rejected
+
+Hall summarizes 1991 revisionism (James et al.) that blamed Egyptian Sothic/Manetho chronology and proposed ~250-year lowering of New Kingdom dates so Mycenaean collapse fell ca. 900, halving the Dark Age. Egyptologists and Greek archaeologists reject wholesale dependence on Sothic dating; Geometric sub-phases and radiocarbon broadly support traditional chronology; Assiros dendro-radiocarbon may even raise Early Iron Age ceramic chronology by ~100 years. Dark Ages are **real historical phenomena**, not only modern ignorance; post-palatial centuries produced a Greece very different from the LBA. “The ultimate failing of this chronological challenge… is the belief that a Dark Age is in some sense problematic and needs to be explained away.”
+
+### Leadership context (basileus / big-man)
+
+Hall’s Archaic reconstruction places Dark Age local leadership in **house-based “big-man” / chiefly** settings (Nichoria, Zagora, Emborio, Eretria, Phaistos among exemplars); later *basileus* vocabulary is often traced to Mycenaean *pa-si-re-u*, a local town/village official rather than a palatial *wa-na-ka*. Transition from ranked communities around charismatic chieftains to stratified aristocracy is mainly a **seventh-century** story in his model—so the Dark Age is the long ranked-society prelude, not a miniature Classical *polis*.
+
+## From the Oxford History of the Classical World (1986)
+
+Jasper Griffin’s introduction to [[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]] frames the post-Mycenaean centuries as a standing warning that **high civilization once achieved can be lost**: after the citadels fell c.1150 BCE, three hundred years of low artistic standards, depopulation, and poverty followed Minoan/Mycenaean splendour. Poetry and song alone kept memory of great kings and heroes (gold-rich Mycenae, Agamemnon); **`at its end`** Griffin places a largely complete pantheon, lasting religious form, restored eastern contact, and the [[concepts/polis|polis]] settling into classic shape.
+
+George Forrest’s Archaic chapter revises older “emptiness” pictures with **Lefkandi** and a central Greek common-culture zone (southern Thessaly, Boeotia, Euboea, nearby islands): prosperous by contemporary standards through c.1100–750, peaking in the late ninth century, with a tenth-century heroic warrior burial of unparalleled grandeur. By c.1000 BCE chaotic post-collapse wandering had set a lasting dialect/ethnic map—Dorians in much of the Peloponnese, Crete, and SW Asia Minor; Ionians in Attica, Euboea, the islands, and the central Asia Minor coast; Aeolians in the north, Lesbos, and NW Asia Minor—mostly small nuclei with surrounding land still to occupy. Overseas metal-seeking and early settlement (Euboeans acting in concert; N Syrian coast before 800) precede the c.730 Lelantine War; Eretrian defeat, Lefkandi’s abandonment, and war strains elsewhere helped produce something more like later city-state structure.
+
+Robert Parker’s religion chapter (same volume) notes that few Mycenaean holy places continued through the Dark Ages; from the eighth century the free-standing temple + cult image + fire-altar complex has Near Eastern rather than Mycenaean antecedents, while Linear B already shows a largely classical pantheon in 1400–1200 BCE. Oliver Taplin stresses Homeric Greek’s **artificial multi-stratum language** (archaic Ionic base plus Arcado-Cypriot/Mycenaean features ~500 years earlier) and a material amalgam (bronze weapons vs Iron Age cremation) aimed at poetic plausibility, not historical accuracy—contra both pure Mycenaean and pure contemporary readings, and against treating Homer as a simple Dark Age ethnography (critique of Finley-style *World of Odysseus*).
+
 ## Collection Coverage Note
 
 **Strong.** [[edwards-cah-v2p2-1975|CAH II.2]] gives the Aegean Dark Age unusually
@@ -178,8 +214,10 @@ settlement of Asia Minor (Cook), the language (Chadwick), and Homer and religion
 continuation into the Geometric eighth century, overseas colonization, and the rise
 of the polis is now supplied by **[[boardman-cah-v3p1-1982|CAH III.1]]** (Chs. 16–18,
 the regional surveys; the Geometric culture and the alphabet follow in Chs. 19–20).
-Per CLAUDE.md the collection is excellent for the Greco-Aegean world; this is one of
-its best-served periods.
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] adds a method-conscious
+synthesis of demography, isolation, literacy loss, and periodization that brackets
+the Dark Age as the upper half of an Archaic span ca. 1200–479. Per CLAUDE.md the
+collection is excellent for the Greco-Aegean world; this is one of its best-served periods.
 
 ## Related
 
@@ -189,4 +227,4 @@ its best-served periods.
 - Memory: [[homer]] · [[homeric-poems-as-history]] · [[trojan-war-1250bce]]
 - Language/religion: [[coming-of-the-greeks-1900bce]] · [[greek-religion-and-mythology]]
 - Place: [[mycenae]] · [[troy]] · [[euboea]] (Lefkandi) · Concept: [[aegean-scripts]] (Linear B, lost) · [[city-state]] · [[alphabet]] · [[geometric-culture-greece|Geometric culture]]
-- Source: [[edwards-cah-v2p2-1975]] (Ch. XXXVI–XL) · [[boardman-cah-v3p1-1982]] (Chs. 16–18)
+- Source: [[edwards-cah-v2p2-1975]] (Ch. XXXVI–XL) · [[boardman-cah-v3p1-1982]] (Chs. 16–18) · [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

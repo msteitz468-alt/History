@@ -18,7 +18,7 @@ processes_here:
   - "[[western-mexico-indigenous-colonial-modern]]"
   - "[[spiritual-conquest-and-colonial-church]]"
   - "[[virgin-soil-epidemics]]"
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [place, mesoamerica, west-mexico, michoacan]
 ---
@@ -121,11 +121,49 @@ ceramics associated with the Santa Fé tradition) made the former capital a show
 what remains vital in Tarascan culture for outside markets — Van Young’s irony that
 survival is negotiated daily, not preserved like a fly in amber.
 
+## Evans & Webster 2001 (Pollard)
+
+**Urban form and court.** In 1522 a thriving city of **25,000–35,000** over ~**7 km²**
+along the Lake Pátzcuaro shore and volcanic lower slopes; distinct residential zones for
+royalty/upper nobility, lower nobility, and commoners; specialized workshops; main
+public ritual on the principal ceremonial platform. Largest platform **450 × 250 m**;
+**five keyhole-shaped *yácatas*** dedicated to the sun god **Curicaueri** and four
+brothers (*Tiripeme*); wood temples; 4–5 superpositions on Yácata 5; elite burials
+(58–61 excavated), priests’ Edificio B, storehouses, treasuries; skull rack and ossuary
+with strung long bones/skulls. **No ball courts at the capital** (unlike Ihuatzio).
+Administrative city whose political/religious functions were central and whose economy
+was embedded in the power structure (Pollard, EW2001 “Tzintzuntzan”).
+
+**Central administration.** The king (*irecha*/cazonci) headed a court with
+*angatácuri*, military captain, *petámuti* (chief priest), tribute minister,
+*caracha-capacha* (governors of four quarters), and *achaecha*; offices hereditary
+father-to-son with the king’s approval. Tzintzuntzan flourished as imperial capital
+A.D. **1450–1520** and as largest state center **1350–1450**; ceded to Spaniards
+**1522**. Research concentration: INAH work from Caso/Noguera 1930 through Cabrera
+Castro 1978–79 and Cárdenas 1992–94 on the Great Platform/*yácatas*; Pollard 1970
+intensive surface survey; Lake Pátzcuaro Basin Protohistoric system of **91 settlements**
+at Tarascan apex (Gorenstein & Pollard). Other studied large sites: Ihuatzio, Urichu, El
+Palacio, Milpillas, Huandacareo, Tres Cerritos, Zinapécuaro, Acámbaro.
+
+**Elite material culture.** Carved/polished obsidian (red, green, gray, striated),
+turquoise, quartz, bone, marine shell, opal, serpentine, jadeite, pyrite. Gold, silver,
+copper, and bronze alloys as bells, beads, pendants, masks, tools (needles, awls,
+tweezers, axes); ores smelted; cold-hammered and lost-wax cast; gilding, embossing,
+soldering, (probably false) filigree. Style/form differed from contemporary Central and
+Southern Mexico — long West Mexican metallurgical tradition plus specific Tarascan
+canons (Pollard). Spanish usurpation of tribute and Quiroga’s **1540** move of the
+capital to Pátzcuaro, then **1580** to Morelia, marginalized the basin.
+
+*part_of:* [[purepecha]] · *contains:* Great Platform *yácata* cult of Curicaueri ·
+*contrasts_with:* Ihuatzio (ball courts/chacmools)
+
 ## Related
 
-[[purepecha]] · [[west-and-northwest-mexico-prehistory]] · [[aztec-empire]] ·
+[[purepecha]] · [[michoacan-region]] · [[west-mexico]] ·
+[[west-and-northwest-mexico-prehistory]] · [[aztec-empire]] ·
 [[greater-mesoamerica]] · [[mesoamerican-state-formation]] ·
 [[western-mexico-indigenous-colonial-modern]] · [[mixton-war-1540]] ·
 [[spiritual-conquest-and-colonial-church]] · [[encomienda]] · [[virgin-soil-epidemics]] ·
 [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 7 (Gorenstein)]] ·
-[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2 Ch. 15 (Van Young)]]
+[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2 Ch. 15 (Van Young)]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

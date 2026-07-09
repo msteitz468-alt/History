@@ -7,8 +7,8 @@ period_active: [Chalcolithic, Early Bronze Age, Middle Bronze Age, Late Bronze A
 controlled_by: [Sumerian city-state of Uruk, later Babylonia]
 events_here: []
 processes_here: [[[urbanization]], [[writing-and-record-keeping]], [[temple-economy]]]
-sources_ingested: 6
-last_updated: 2026-06-23
+sources_ingested: 7
+last_updated: 2026-07-08
 tags: [place, mesopotamia, near-east, early-bronze-age]
 ---
 
@@ -25,6 +25,15 @@ inhabitants** — an order of magnitude larger than anything before it — and i
 "the economic, social, and intellectual hotbed for the emergence of writing."
 
 ## Geographic description and form
+
+[[fagan-world-prehistory-2020|Fagan & Durrani (2020)]] corroborate this scale and
+add detail on Uruk's administrative form: the city grew to roughly **250
+hectares** in the 4th millennium BC, with satellite villages extending 10 km out;
+its ziggurat-temple complex functioned as a **combined religious, storage, and
+administrative/governmental center**, with the ruler serving as both secular and
+spiritual head; and by **3500 BC** an elaborate **management hierarchy** was
+already in place — evidence for administrative complexity even before the
+appearance of writing proper.
 
 Sited on the Euphrates alluvium (the river later shifted around the city). Two
 monumental precincts dominate: the **Anu** precinct (a high terrace with the

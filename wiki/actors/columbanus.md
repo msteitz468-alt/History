@@ -9,8 +9,8 @@ affiliated_with: ["Celtic Christianity", "Luxeuil", "Bobbio"]
 opposed_by: []
 key_events: ["Foundation of Luxeuil and Bobbio", "peregrinatio to the Continent"]
 key_processes: ["Monastic reform in Merovingian Gaul", "Celtic mission to Europe"]
-sources_ingested: 3
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, celts, saint, ireland, europe, early-middle-ages]
 ---
 
@@ -58,3 +58,10 @@ Jean-Michel Picard's chapter in the [[sources/effros-moreira-oxford-handbook-mer
 - [[concepts/celtic-christianity]]
 - [[actors/colum-cille]]
 - [[sources/koch-celtic-culture-encyclopedia-2006]] · [[geary-before-france-germany-1988]]
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+- **Continental career and rule (R1-038):** Columbanus left Bangor (590/591) with twelve companions; by death (615) had worked in France, Belgium, Germany, Switzerland, Austria, Italy; founded Luxeuil, Corbie, Bobbio (and many daughters). Rule of Columbanus stressed mortification and harsh physical penalties; mixed Columban–Benedictine monasteries appeared; eventually moderate Benedictine Rule prevailed on the Continent (see [[benedict-of-nursia]]).
+- **Irish *peregrinatio* context (R1-036, cross-ref):** Voluntary exile for Christ sent Columba to Iona and Columbanus to the Continent—missionaries “in spite of themselves” (Riché, via Logan). Part of [[conversion-of-britain-and-ireland]].
+
+Source: [[logan-history-of-the-church-in-the-middle-ages-2013]]

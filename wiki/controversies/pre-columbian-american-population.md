@@ -7,6 +7,7 @@ positions: [low counts (Verlinden, Kroeber; hundreds of thousands to ~8 million 
 resolution_status: open
 last_updated: 2026-07-08
 tags: [controversy, pre-columbian, americas, demography]
+sources_ingested: 4
 ---
 
 # The Population of the Pre-Columbian Americas
@@ -134,6 +135,67 @@ Neal Salisbury’s colonial eastern-woodlands chapter records two recent estimat
 
 Same period: non-Indian population virtually zero → **>5 million** within the new United States alone. Initial catastrophic mortality from virgin-soil epidemics (smallpox etc.); later warfare, alcohol, dietary change/malnutrition from trade or land loss, fertility declines, enslavement, and emigration further reduced numbers. Persistence of Indian community life and cultural identity remains the counterpart to the demographic toll.
 
+## From Evans & Webster 2001 — Mesoamerican demography and disease
+
+Encyclopedia entries supply attributed Central Mexico / Mesoamerica figures and methods
+(not a hemispheric verdict):
+
+### Contact estimates and colonial collapse
+
+- **Janine Gasco (Colonial Period):** most dramatic early colonial consequence was demographic
+  collapse from Old World diseases (smallpox, influenza, measles, typhus, yellow fever, etc.);
+  epidemics often struck before Spaniards arrived; lowlands generally higher mortality than
+  highlands; native Mesoamerican population reduced by as much as **90%** within first 100 years
+  of colonial rule, from as many as **25 million** in 1520 to fewer than **2 million** in the
+  early 1600s.
+- **Rebecca Storey (Demographic Trends):** Basin of Mexico population growth averaged
+  ~0.1–0.7%/year from 1500 B.C. to 1519, from a few hundred people to ~200 people/km² at
+  contact; Central Mexico native population estimates for 1519 range **6–25 million** with
+  **11 million most reasonable**; by 1600 population had decreased **75–80%**, primarily from
+  introduced infectious disease (forced labor and nutrition also contributing).
+
+These two EW2001 figures (Gasco’s upper 25 million / Storey’s preferred 11 million for Central
+Mexico) sit within the standing high-to-middle range of the hemispheric debate; they do not
+resolve it.
+
+### Methods (Storey)
+
+Demographic archaeology uses indirect indicators (structures, artifacts) for size/density and
+skeletons for composition/vital rates (paleodemography). Late Classic Maya method: mound counts
+adjusted for nonresidential/disused/hidden residences × **4–6 persons/family** from
+ethnohistory. Evolution foraging→incipient agriculture→intensive agriculture shifts fertility
+moderate→high and raises juvenile mortality.
+
+### Pre-contact disease ecology (Ortiz de Montellano)
+
+Pre-Columbian Mesoamerica relatively free of Old World disease: Beringian “cold filter,”
+scarcity of domesticates limiting zoonoses, dense urbanization only ~1000 years before
+Conquest—herd diseases (measles, smallpox) lacked long endemic reservoirs; diet high fiber/low
+fat + exercise → low chronic disease; Aztec life expectancy ~**37 years**. Known pre-contact
+infections include dysentery, viral influenza/pneumonia, fevers, leishmaniasis, strep/staph,
+non-venereal syphilis and pinta, Salmonella, tuberculosis; parasites include ascarids and
+Chagas. Yellow fever consensus post-conquest African introduction; malaria likely late
+introduction. Dysentery and diarrhea major causes of child death; accidents, warfare,
+respiratory infections major adult causes. Major colonial epidemics listed 1520–1597
+(smallpox, measles, plague, mumps, whooping cough, typhus).
+
+### Diet/nutrition as population constraint (David M. Reed)
+
+Maize preferred or only reliable staple in most of Mesoamerica; protein limited by
+lysine/tryptophan shortage; nixtamalization liberates niacin and improves amino-acid balance;
+skeletal iron-deficiency anemia common especially Classic times—model of maize-based diets poor
+in protein quality for many Classic people, with regional variability.
+
+### Related note (Sophie & Michael Coe)
+
+Aztec cannibalism extent long debated; most scholars now agree it was never practiced on a
+massive scale (restrictions/taboos; selected war captives only)—relevant to rejected
+“protein-cannibalism” population models, not to contact census totals.
+
+Source: [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]
+(Colonial Period; Demographic Trends; Disease, Illness, and Curing; Diet and Nutrition; Food
+and Cuisine).
+
 ## Related
 
 [[columbian-exchange-1492]] · [[aztec-empire]] · [[inca-empire]] ·
@@ -142,4 +204,5 @@ Same period: non-Indian population virtually zero → **>5 million** within the 
 [[colonial-mesoamerica-native-peoples]] · [[virgin-soil-epidemics]] ·
 [[pre-columbian-population-debate]] · [[sixteenth-century-north-american-contact]] ·
 [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] ·
-[[cambridge-history-native-peoples-americas-v1-1|CHNPA I.1]]
+[[cambridge-history-native-peoples-americas-v1-1|CHNPA I.1]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

@@ -5,8 +5,8 @@ origin: Modern scholarship reconstructing a period whose contemporary historians
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [mediterranean-world, near-east, egypt]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept, greece]
 ---
 
@@ -93,6 +93,43 @@ from an Egyptian view survives. "The voices of the natives and those of the poor
 equally silent." This bias is structural, not incidental, and frames every
 interpretive controversy about the period (e.g. the degree of Greek–native fusion).
 
+## Murray (OHCW): from city Hellenica to ethnography and Polybius
+
+**Oswyn Murray** (*Oxford History of the Classical World*, ch. 8 “Greek Historians,”
+1986) places Hellenistic historical writing in a 350-year Greek tradition that invented
+most still-practised history styles and high accuracy standards, while sharing with
+moderns an inability to cope with “the power of God in history.”
+
+- **Fourth-century transition**: Ephorus of Cyme (30-book Greek history from Return of
+  Heracleidae to 341) began a dangerous rhetoric–history relationship; Theopompus’
+  *Philippica* centred history on a king — anti-history exposing vice, foreshadowing
+  history for/against a world of kings.
+- **Alexander**: Callisthenes as court historian (later disposed of); no continuous
+  pre-imperial account survives; Arrian used Aristobulus and Ptolemy; Diodorus uses
+  Cleitarchus’s romantic version; most lasting literary consequence: the *Alexander
+  Romance*.
+- **Hellenistic age**: no new royal-biography form; city-state *Hellenica* continued.
+  Best military history behind Diodorus 18–20 is **[[hieronymus-of-cardia|Hieronymus of
+  Cardia]]** (to c.260) — accurate, world-spanning; *Tyche* presides over his history and
+  successors down to [[polybius|Polybius]]. “Pathetic school” joined rhetoric and pathos.
+  Herodotean ethnography revived for kingdoms: Hecataeus of Abdera for Ptolemy I; Manetho
+  (Egyptian chronology still basic); Berossus (Babylon); Megasthenes on Mauryan India —
+  “the most important cultural result of Alexander’s conquests.” Polybius points forward
+  to a Roman-centred Thucydidean tradition.
+- **Closing fusion**: end of the Hellenistic period fused Greek and Judaean traditions
+  (Maccabees, Josephus) pointing toward Eusebius’ Church History; late encyclopedic works
+  (Dionysius’ *Roman Antiquities*, Diodorus’ *Library*) preserved earlier tradition by
+  abbreviation.
+
+### Literary culture note (Lane Fox)
+
+Lane Fox’s literary survey (OHCW) is not historiography proper but frames the cultural
+ecology historians inhabited: epigram’s golden age c.300–240; Meleager’s *Garland*
+c.100 BCE; great poetry “wholly divorced from politics”; Romans (Catullus, Horace, Virgil)
+later chose Hellenistic models with taste. **Barnes**: Posidonius undertook a continuation
+of Polybius’ histories — Middle Stoic polymathy as a late bridge between historical and
+philosophical traditions.
+
 ## Why It Matters
 
 The fragmentary, documentary-dependent source-base explains the wiki's coverage
@@ -102,3 +139,42 @@ narrative detail, exact dates, and motive — exactly where lost narrative histo
 would once have spoken. Compare the far richer narrative tradition for
 [[peloponnesian-war|fifth-century Greece]] (Thucydides) and the still-living one for
 [[alexander-the-great|Alexander]] (Arrian, Plutarch, Curtius).
+
+## Thonemann: Droysen, the Category, and the Counter-Lament (2016)
+
+[[thonemann-hellenistic-age-2016|Peter Thonemann]] (*The Hellenistic Age*, ch. 1) supplies the
+standard **genealogy of the category** and a sharp argument about source quality.
+
+**Etymology and Droysen.** "Hellenistic" ultimately descends from Acts, where Jewish
+followers of Jesus are divided into *hellenistai* and *hebraioi* (probably by preferred
+language). Early Modern biblical scholars coined *lingua hellenistica* for New
+Testament/Septuagint Greek. **Johann Gustav Droysen** (1808–84) first applied
+"Hellenistic" to a whole epoch of Mediterranean civilization, beginning with Alexander's
+Asiatic conquests (334–323). For Droysen, *Hellenismus* named East–West *Verschmelzung*
+(fusion) culminating in Christianity as a quintessentially Hellenistic religion. Thonemann
+rejects the Christian-mystical teleology as "nebulous mysticism" while noting that
+Droysen's unfinished *History of Hellenism* (1836–43) is mostly sober political history
+of 323–222 BCE. *Verschmelzung* still exercises "spectral influence"; whether eastern
+Hellenism was **fusion or colonialism/apartheid** remains hotly debated.
+
+**Counter-lament.** Most books begin by lamenting the evidence; Thonemann calls this
+nonsense — on almost any criterion we know **far more** about Hellenistic than Archaic
+or Classical Greek history. The real gap is continuous **third-century political-military
+narrative** (possible War of the Syrian Succession 280/279; battle of Cos 262 or 255;
+Seleucid loss of southern Iran only datable between 280 and the early second century).
+Compensation: tens of thousands of Ptolemaic papyri (Zeno of Caunus archive >2,000
+documents), countless Greek inscriptions, archaeology ([[priene|Priene]], Heraclea under
+Latmus, Petra), coinage (especially for Bactria/Indo-Greek), and a rich literary/scientific
+corpus. Because "straight" narrative is often impossible, the field demands
+**imagination** (Momigliano *Alien Wisdom*, Bickerman *Jews in the Greek Age*, Ma
+*Antiochos III*, Tarn *Antigonos Gonatas*).
+
+**Constructed category.** The Hellenistic world is "very largely what we make it":
+histories arbitrarily exclude third-century Sicilian cities (too far west), Parthian
+kings (too Iranian), Iron Age Europe, Ecclesiasticus (too Jewish), Ennius's *Annales*
+(too Roman). Later-Hellenistic modern historiography is "a bit of a mess" — Macedon after
+146 is filed under Roman history though closer to late Hellenistic Asia than to Roman
+Spain; the Bosporan kingdom survived deep into the Imperial period.
+
+Aligns with Walbank/CAH on the third-century narrative hole and documentary turn; adds
+the Droysen genealogy and explicit constructivism about inclusions/exclusions.

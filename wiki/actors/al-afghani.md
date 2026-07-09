@@ -26,8 +26,8 @@ key_events:
 key_processes:
   - islamic-modernism
   - european-hegemony-islamic-world
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags:
   - actor
   - person
@@ -83,6 +83,23 @@ His pan-Islamic notion "had ultimately little to do with that of Abdülhamid." W
 Afghani's significance lies less in any specific political outcome than in the intellectual climate he created. Without his peripatetic agitation: the Egyptian generation that produced Muhammad Abduh would have lacked its catalytic figure; the tobacco boycott — the most successful example of organized popular resistance to European commercial penetration in nineteenth-century Muslim history — might not have occurred; and the pan-Islamic idiom in which subsequent Islamist reformers worked would have lacked its most vivid historical precedent.
 
 His limitations were structural: "he could not achieve a new philosophical basis for his new politics." His Falsafa-based willingness to manipulate public doctrine (telling different things to different audiences) served him politically but prevented him from building a coherent movement.
+
+## Later Court Alignment and Asian Reach (Formichi)
+
+Chiara Formichi's [[formichi-islam-and-asia-2020|*Islam and Asia: A History*]] (2020) adds a coda to
+the Istanbul years: Afghani formally joined the **Ottoman caliphal court in 1892**, lending
+intellectual legitimacy to Abdülhamid II's pan-Islamic diplomacy even as the relationship soured.
+Formichi (2020) stresses that Afghani's pan-Islamism was, in its origin, "a solidarity network
+primarily meant to help individual nations to achieve independence from European colonialism"
+rather than a program of political unification under a single Caliph — the Hamidian, caliph-centered
+reading was a later, temporary transformation of his idea rather than its original content.
+
+Formichi also traces the transmission of Afghani-Abduh-Rashid Rida reformism — via *al-'Urwa
+al-wuthqa* (1884) and its successor journal *al-Manar* (Cairo, 1898) — deep into Asia: to Russia's
+Volga-Tatar community (*al-Shura*), to Southeast Asia (*al-Imam*, Singapore 1906; *al-Munir*,
+Sumatra), to South Asia (*al-Hilal* and *al-Balagha*, edited by Abu al-Kalam Azad), and to China
+(*Yuehua*, 1930s, via students sent to al-Azhar from Shanghai and Beijing Islamic schools). See
+[[islamic-modernism]] for this wider network.
 
 ## Historiography
 

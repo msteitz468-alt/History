@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the Persian army of occupation left by [[xerxes-i|Xerxes]] under Mardonius after [[battle-of-salamis-480bce|Salamis]], the Greek determination to liberate central Greece, the Ionian appeal for revolt]
 consequences: [the destruction of Mardonius' army and the end of the Persian invasion, the liberation of Ionia, the burning of the Persian fleet at Mycale, the foundation of the Delian League and Athenian hegemony]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, central-greece, anatolia, greece]
 ---
 
@@ -87,9 +87,23 @@ the **Serpent Column** inscription. Barron notes that Herodotus, writing for Ath
 **Pausanias was disgraced**, makes Plataea "a soldiers' battle" of luck and courage —
 possibly obscuring Pausanias' tactical generalship (the lured pursuit and counter-attack).
 
+### Osborne (2000)
+
+[[sources/osborne-classical-greece-2000|Osborne (ed., 2000)]] (Ch. 7, Kallet) treats Plataea
+and the concurrent naval victory at **Mycale** as ending the wars together, and stresses
+their political aftermath over their tactics: because Athens and Sparta were respectively
+chiefly responsible for the victories at **Salamis** and at **Plataea**, Sparta was
+henceforth forced to **share its position of military pre-eminence with Athens** — the
+division of glory that set up the rivalry culminating in the Delian League and, eventually,
+the Peloponnesian War.
+
+### Hall (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]: after spring 479 re-sack of Athens, Mardonius fought at Plataea; Pausanias led Greeks to victory and Mardonius’s death (traditional 159 Greek casualties). **Delphi gold tripod on bronze serpents listed 31 allies (ML 27 / Serpent Column)** — document of limited Greek resistance, not pan-Hellenic totality. Same-day Mykale raid opened Asia Minor hostilities justifying later Delian/Athenian hegemony. Helots at Plataea: Herodotus 9.28.2 gives 5,000 Spartiates attended by 35,000 light-armed helots (7:1) — Hall reads as rear-rank pushing-power behind Spartiate front in eight-deep phalanx, not full panoply for every rank. Within a year of Plataea Simonides linked Persian and Trojan wars; *barbaros* multiplies in Athenian discourse.
+
 ## Related
 
 - Land command: Pausanias ([[sparta]]) · [[themistocles|Aristides]]/Athens · sea command: Leotychidas · foe: Mardonius (for [[xerxes-i]])
 - Sequence: [[battle-of-thermopylae-480bce]] → [[battle-of-salamis-480bce]] → Plataea/Mycale · the phalanx: [[hoplite-warfare]]
 - Outcome: [[athenian-democracy]] (Delian League) · liberation of Ionia · Period: [[classical-antiquity]]
-- Source-critique: [[herodotus-reliability]] · Source: [[boardman-cah-v4-1988]] (Ch. 11, J. P. Barron)
+- Source-critique: [[herodotus-reliability]] · Sources: [[boardman-cah-v4-1988]] (Ch. 11, J. P. Barron); [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]

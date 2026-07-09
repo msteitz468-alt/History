@@ -24,8 +24,8 @@ consequences:
   - produced: "[[roman-provincial-system|Roman provincial system]] — Sicily and Sardinia as the founding template"
   - produced: "Roman transformation into a naval power — from negligible fleet to winning three major naval victories"
   - enabled: "[[second-punic-war-218-201bce|Second Punic War]] — Carthaginian sense of injustice over Sardinia, Hamilcar Barca's Iberian build-up"
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, mediterranean, north-africa, rome]
 ---
 
@@ -254,6 +254,19 @@ principal sources, explicitly acknowledging both were partisan. Polybius's own
 assessment — that Rome won through moral qualities and institutional superiority of the
 citizen army — is a structural argument that influenced all subsequent accounts.
 
+### CHGRW contribution
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|Roth (CHGRW I.12)]]: Rome
+produced no master admirals in the First Punic War but won the naval struggle by replacing
+every fleet destroyed by storm or enemy action — outspending Carthage in a long-term arms
+race. De Souza/Sabin (I.13B): **corvus** boarding-bridge introduced after early 260 mishaps,
+not on the first voyage; dual function fix-and-board as alternative to ramming; at Mylae
+(260) ~100 Roman ships beat ~130 Carthaginian; still intimidated faster Carthaginians at
+Ecnomus. Storm off Camarina 255: 264 of 284 ships lost, >100,000 Romans/Italians dead —
+worst Roman sea disaster (Polyb. 1.37); possible corvus contribution to unseaworthiness may
+explain later abandonment. Drepana 249: night approach disorder allowed Adherbal’s
+*diekplous*/*periplous*; Polybius’s silence implies corvi absent.
+
 The war's chronology is complicated by the unreliability of the Roman calendar in
 this period. Morgan (1977) argues the Roman calendar was as much as a month ahead
 of the Julian in the early years of the war; this affects exact dating of battles.
@@ -269,6 +282,27 @@ treatment; Scullard's *History of the Roman World 753–146 B.C.* (1980) provide
 companion narrative. Philinus's work does not survive; its reconstruction from
 Polybius's citations is a major historiographical project.
 
+### OHCW (Boardman/Griffin/Murray 1986) — Crawford & Rawson
+
+Crawford (Ch. 16): earlier Carthage–Rome relations were pacific (three treaties in
+Polybius; earliest = first year of the Republic); the war of 264–241 was “in effect a
+war for the control of Sicily,” driven in part by **assembly greed** (Senate did not
+vote for action); Roman persistence won; “Roman chicanery added Sardinia to the prize”;
+Sicily and Sardinia were treated as territories **to be ruled and taxed**, not as
+Italian-style treaty partners. Rawson (Ch. 17) opens the overseas arc here: naval power;
+Sardinia/Corsica 237; two new praetors 227; Illyrian protectorate as the next step.
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Chs. 16–17).
+
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) notes that after
+241 and the first war with Carthage, Romans were drawn into Sicily and acquired their
+first overseas province — war as way of life especially thereafter, before the Augustan
+settlement. Events become “quite a bit better attested” from 264, making the war a
+possible late starting point for republican analysis if early centuries are abandoned.
+Light periodization cross-link only ([[roman-republics-periodization]]).
+
 ## Related
 
 - Event: [[pyrrhic-war-280-275bce]] (precipitant) · [[mercenary-war-241-237bce]]
@@ -281,4 +315,12 @@ Polybius's citations is a major historiographical project.
 - Controversy: [[philinus-treaty-controversy]] · [[causes-of-second-punic-war]]
 - Concept: [[roman-republican-religion]] (sacred chickens 249 BCE as confirmatory anecdote for the auspicial system, not evidence of religious skepticism — North, Ch. 12)
 - Detailed analyses (hubs/warfare): [[hubs/warfare/classical-antiquity/first-punic-war/first-punic-war|War hub]] · [[hubs/warfare/classical-antiquity/first-punic-war/battle-of-ecnomus-256bce|Ecnomus (256)]] · [[hubs/warfare/classical-antiquity/first-punic-war/battle-of-the-bagradas-255bce|Bagradas (255)]] · [[hubs/warfare/classical-antiquity/first-punic-war/battle-of-the-aegates-islands-241bce|Aegates Islands (241)]]
-- Source: [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard; Ch. 12, North) · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy, *The Fall of Carthage*]]
+- Source: [[walbank-cah-v7-2-1989]] (Ch. 11, Scullard; Ch. 12, North) · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy, *The Fall of Carthage*]] ·
+  [[boardman-oxford-history-classical-world-1986]] (Chs. 16–17, Crawford/Rawson) ·
+  [[flower-roman-republics-2010]]
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+First of two long wars against Carthage that, by end of third century BCE, placed Romans at Mediterranean centre; Italian hegemony by early third century was the precondition.

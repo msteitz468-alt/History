@@ -9,8 +9,8 @@ affiliated_with: [[[chaldeans|the Chaldaeans]] (dynasty of Bit-Yakin / Third Sea
 opposed_by: [[[neo-assyrian-empire|Assyria]], Egypt (Saite 26th Dynasty), [[kingdom-of-judah|Judah]], Tyre, [[achaemenid-empire|Persia]] (Cyrus)]
 key_events: [[[fall-of-nineveh-612bce|fall of Nineveh 612]], [[battle-of-carchemish-605bce|Carchemish 605]], [[fall-of-jerusalem-587bce|fall of Jerusalem 587]], the rebuilding of [[babylon|Babylon]], [[fall-of-babylon-539bce|fall of Babylon 539]]]
 key_processes: [[[empire]], [[assyrian-mass-deportation|deportation / the Babylonian Exile]], [[state-formation]]]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, empire, archaic-period, mesopotamia, near-east]
 ---
 
@@ -160,6 +160,15 @@ faded, while projecting a **cosmopolitan** self-image (a city of "freedom" welco
 
 ## Historiography
 
+Charles Freeman ([[freeman-egypt-greece-rome-2014|*Egypt, Greece, and Rome*]], 2014)
+quotes Nabopolassar's own founding boast — "I slaughtered the land of Assyria...
+his yoke I threw off" — as the dynasty's anti-Assyrian self-image in the king's own
+words. He also flags a live attribution dispute over Babylon's most famous
+monument: Stephanie Dalley (*The Mystery of the Hanging Gardens of Babylon*, 2013)
+argues the celebrated "Hanging Gardens" were actually built at **Nineveh**, not
+Babylon — a challenge to the traditional association with Nebuchadnezzar II worth
+flagging rather than treating as settled.
+
 Uniquely well documented for its **economy** — "tens of thousands" of legal and
 administrative tablets from temple and private archives (Dandamaev) — but poorly
 documented for its **political history**, since the Babylonian Chronicle runs out
@@ -180,4 +189,4 @@ followed" Nebuchadnezzar.
 - Ally: [[medes]] · Conqueror: [[cyrus-the-great]] · [[achaemenid-empire]]
 - Capital: [[babylon]] · Civilization: [[neo-babylonian-civilization]]
 - Key events: [[battle-of-carchemish-605bce]] · [[fall-of-jerusalem-587bce]] · [[fall-of-babylon-539bce]]
-- Comparison: [[empire]] · Period: [[archaic-period]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 27)
+- Comparison: [[empire]] · Period: [[archaic-period]] · Source: [[boardman-cah-v3p2-1991]] (Ch. 27) · [[freeman-egypt-greece-rome-2014|Freeman (2014)]]

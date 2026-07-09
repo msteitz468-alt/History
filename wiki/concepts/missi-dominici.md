@@ -5,8 +5,8 @@ origin: Frankish royal administration; systematised under Charlemagne (late 8th�
 applies_to_periods: [Early Middle Ages]
 applies_to_regions: [western-europe]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -47,3 +47,7 @@ Whether or not they functioned as designed, the *missi dominici* embody the Caro
 text-based, morally charged public order answerable to a Christian king — an ideal that shaped later
 medieval conceptions of royal government even where the machinery itself decayed after the empire's
 fragmentation.
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+After the **Monastic Capitulary (816–17)** under [[louis-the-pious]] and Benedict of Aniane, imperial officials visited monasteries to ensure obedience; abbots ordered to copy Benedict’s Rule and have it read to monks—Carolingian administrative machinery enforcing religious uniformity. Logan thus uses *missi*-style visitation as the enforcement arm of [[carolingian-monasticism]] and [[carolingian-church-reform]], not only of secular *missatica*.

@@ -5,8 +5,8 @@ origin: Emerged 323–305 BCE from the breakup of Alexander's empire; theorised 
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [mediterranean-world, egypt, near-east, anatolia, balkans]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept, greece]
 ---
 
@@ -110,6 +110,32 @@ Hellenistic monarchy: it was rather the leaves on the branch."
   of earlier dynasties and could not neglect native power structures (temples, local
   dynasts) that gave the lie to the official pretence that all power lay with the king.
 
+## Administration, Victory, and Civic Cult (Price, OHCW)
+
+**Simon Price** (*Oxford History of the Classical World*, 1986) supplements Walbank’s
+CAH analysis with administrative and symbolic detail:
+
+- **The king as administrative key**: petitions and major decisions framed as from the
+  king; Seleucid hierarchy included a finance official and an officer “in charge of
+  affairs”; the kingdom divided into provinces (**72 under Seleucus I**) with governors;
+  **Antiochus III** initiated a kingdom-wide ancestor/self cult and appointed high
+  priestesses of the queen via governors (three surviving copies of his letter from
+  western Turkey and Iran).
+- **Military prestige and title**: the king was expected to share campaign hardships and
+  combat dangers; **victory justified the title “king”** (Attalus I over Galatians;
+  Antiochus III as “the Great King” after his eastern expedition). Conditions for assuming
+  the royal title were generally accepted. Warfare enlarged in scale (armies of 60–80k);
+  city destruction and enslavement became more common.
+- **Civic ruler cults**: not mere political honours marking decline of traditional cults,
+  but attempts to **relate king and city** by incorporating the king within the city’s
+  main symbolic system. Example: Teos dedicated cult statues of Antiochus III and his wife
+  beside Dionysus after privileges c.204; soon after, Chios established a cult of **Roma**
+  with wolf/Romulus–Remus dedication — Greek cities entering a new Roman period.
+- **Royal “wonderland” and philosophy**: competition in precious-metal display,
+  processions, libraries, and patronage attracted talent from older cities; ethical ideals
+  of school philosophy were urged on kings and echoed in officials’ edicts — “like books,
+  they made the kings more attractive.”
+
 ## Legacy
 
 The cities never overthrew the monarchies; **Rome** destroyed them. Yet the legacy of
@@ -117,3 +143,41 @@ Hellenistic kingship — its ideology, ruler-cult, and court institutions — pa
 the Roman Empire: the year of Actium (31 BCE) that ended the last great Hellenistic
 monarchy also began a monarchy at Rome under another name. See [[hellenistic-world]],
 [[rise-of-rome]].
+
+## Thonemann: Demetrius as Case Study (2016)
+
+[[thonemann-hellenistic-age-2016|Thonemann]] (*The Hellenistic Age*, ch. 3) organises
+kingship analysis around the career of [[demetrius-i-poliorcetes|Demetrius Poliorcetes]].
+
+**Power, not law.** The *Suda* on *basileia* (applied to Alexander's successors):
+"Monarchical powers are given to men neither by nature nor by law; they are given to
+those who are capable of commanding troops and handling politics competently." Early
+Hellenistic kings were expected to be handsome, rich, warlike, fighting on horseback —
+an impoverished, peace-loving, or unsuccessful king was a contradiction. Courts were
+informal circles of *philoi*; fiscal/administrative structures rudimentary; monarchy
+**personal not territorial** (kings styled themselves simply "kings," not kings "of" a
+region). After Ipsus (301), Demetrius reduced to a few maritime fortresses still remained
+a king so long as he retained his fleet.
+
+**Cascade of titles.** Within three years of Demetrius's capture of Athens (307), five
+more men claimed kingship: Seleucus (Babylon), Ptolemy (Egypt), Lysimachus (Thrace),
+Cassander (Macedon), Agathocles (Sicily). Army acclamation after victory (Demetrius/
+Antigonus after Cyprus 306); Attalus of Pergamon claimed kingship after a Galatian
+victory (230s); epithets Nikephoros, Kallinikos, Aniketos.
+
+**Shared visual and diplomatic language.** Despite local diversity (Ptolemaic pharaonic
+styles including brother–sister marriage; Antigonid "old world" Macedon/Greece; complex
+Seleucid Near East with small Graeco-Macedonian settler class), kingdoms converged
+because they competed for itinerant **mercenaries** paid in gold/silver coin sharing a
+common iconography (clean-shaven, thick wavy hair, plain diadem — from Alexander).
+Military rivalry played out largely in the **Aegean basin and Levant**; coastal Caria
+passed through seven hands 310–278. Kings treated each other as peers in a "royal club"
+of allies, rivals, and marital partners — Demetrius's refusal to address rivals as
+"king" is cited as exceptional arrogance.
+
+**Euergesia and cities.** Expected conduct: munificence, petitions, reciprocal
+benefaction. Forced *synoecism* (Sicyon → Demetrias; fourteen towns emptied for
+Demetrias in Thessaly as a "fetter of Hellas") shows the destructive side of royal
+city-founding. Over generations personal/charismatic warlordship transformed into more
+stable territorial dynastic kingship, but origins in warfare, wealth, and personal
+magnetism were never forgotten.

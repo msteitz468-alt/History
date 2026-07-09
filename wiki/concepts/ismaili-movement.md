@@ -5,8 +5,8 @@ origin: "Shi'i Islam, split after death of Isma'il ibn Ja'far (8th century); Fat
 applies_to_periods: [early-middle-ages, high-middle-ages]
 applies_to_regions: [near-east, north-africa, central-asia, south-asia]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-26
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept, islamic-world, shiism, esoteric]
 ---
 
@@ -24,6 +24,28 @@ Ismailis believe the Imamate continues in a living or hidden Imam who provides a
 
 Distinguished from Twelver Shi'ism (which awaits the 12th Imam) and Sunni orthodoxy.
 
+## The early da'wa and the dawr al-satr (Jiwa)
+
+[[jiwa-fatimids-rise-2018|Jiwa's *The Fatimids: 1*]] details the movement's formative phase. After the death of
+[[imamate|Imam]] **Ja'far al-Sadiq** (765), Shi'a who held that the imamate had passed through his son
+**Isma'il** to **Muhammad b. Isma'il** (rather than to Musa al-Kazim, as the Twelvers held) became the Ismailis.
+For roughly 765–909 the Ismaili Imams directed the movement from **concealment** — the ***dawr al-satr*** —
+their secret headquarters a merchant's mansion at **Salamiyya** in Syria. During this period the ***[[dawa|da'wa]]***
+("summons") grew into a **hierarchical clandestine mission** headed by the *hujja* ("proof" of the Imam) and
+worked by *da'is* ("summoners") across Ifriqiya, Yemen, Iraq, Iran, and Sind, calling for a reign of justice
+under the Alid Imams and the coming of the **[[mahdi]]**.
+
+Its doctrine held that the "religions of the book" share one eternal truth (*din al-haqq*): each speaker-prophet
+(*natiq* — Adam, Noah, Abraham, Moses, Jesus, Muhammad) brings an outer (*zahir*) law, while a *wasi*
+(legatee — Abel, Isma'il, Aaron, Peter, and **Ali** for Muhammad) and the succeeding Imams guard its inner
+(*batin*) meaning. Recognition of the living Imam was held indispensable to salvation. A schism split off the
+**Qarmatians** (followers of Hamdan Qarmat), who rejected [[al-mahdi-billah|al-Mahdi]]'s claim and awaited the
+return of Muhammad b. Isma'il — becoming lasting Fatimid enemies. The movement culminated in the
+**[[foundation-of-the-fatimid-caliphate-909|founding of the Fatimid Caliphate]]** (909); under
+[[al-muizz-li-din-allah|al-Mu'izz]], [[qadi-al-numan|Qadi al-Nu'man]]'s ***Da'a'im al-Islam*** codified its
+law, and the eastern da'wa (Abu Ya'qub al-Sijistani and others) was largely reconciled to Fatimid authority
+c. 960.
+
 ## Interaction and Key Processes
 
 Closely tied to Abbasid/Seljuk Sunni revival (countered by Nizamiyyah madrasas and Ghazali's critiques). Al-Ghazali wrote against them. Influenced by and contributed to Islamic philosophy and Sufism. Ghulat (extremist) tendencies in early period.
@@ -40,3 +62,9 @@ Often viewed through hostile Sunni or Western "Assassin" legends (medieval Europ
 - [[actors/fatimid-caliphate]]
 - [[high-middle-ages]]
 - [[near-east]]
+- [[dawa]]
+- [[imamate]]
+- [[al-mahdi-billah]]
+- [[qadi-al-numan]]
+- [[foundation-of-the-fatimid-caliphate-909]]
+- [[jiwa-fatimids-rise-2018]]

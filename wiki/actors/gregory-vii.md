@@ -9,8 +9,8 @@ affiliated_with: [[[papacy]], [[gregorian-reform]], "the Normans of southern Ita
 opposed_by: [[[henry-iv-holy-roman-emperor|Emperor Henry IV]], "the antipope Clement III (Wibert of Ravenna)", "the imperial church party"]
 key_events: [[[investiture-contest]], "the Synod of Worms (1076)", "Canossa (1077)"]
 key_processes: [[[gregorian-reform]], [[papal-monarchy]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, high-middle-ages, mediterranean, western-europe]
 ---
 
@@ -55,9 +55,20 @@ reading the *Dictatus* as a finished constitution, and against treating the
 investiture quarrel as the whole of reform, but treats Gregory as the indispensable
 radicaliser of both.
 
+## From Logan, *A History of the Church in the Middle Ages* (2013)
+
+[[logan-history-of-the-church-in-the-middle-ages-2013|Logan]] offers a sharply revisionist personal judgement: Gregory’s twelve-year pontificate was a **failure, “perhaps even a monumental failure.”** He “disturbed the forward progress of reform by picking unnecessary fights with secular rulers” — the perennial scourge of “the priest in politics.” Logan stresses that Gregory’s **irregular popular election** at Alexander II’s funeral inverted Nicholas II’s 1059 electoral decree and later fuelled enemies’ attacks.
+
+On the investiture fight, Logan notes that Gregory **added lay investiture** to the older simony/celibacy agenda and inverted Gelasian dual-key imagery so that both keys pass through the pope, implying power to depose rulers. After delayed support for anti-king **Rudolph of Swabia** only in **1080** (too late), Henry defeated Rudolph, marched on Rome, installed a new pope, and was crowned emperor; a majority of cardinals defected. Gregory fled to Norman support and died at **Salerno 25 May 1085**. Last words, echoing Psalm 44: “I have loved justice, hated iniquity and, therefore, die in exile” — to which Logan adds, “And I die a failure.”
+
+This “failure” thesis sits in deliberate tension with NCMH’s structural reading of Gregory as indispensable radicaliser of the [[papal-monarchy]]; both framings are retained here as positions.
+
 ## Related
 
 - [[gregorian-reform]] — the movement he led.
 - [[investiture-contest]], [[dictatus-papae]] — his great conflict and manifesto.
 - [[henry-iv-holy-roman-emperor]] — his imperial antagonist.
+- [[leo-ix]] — reform circle in which Hildebrand rose.
 - [[urban-ii]] — his successor (after Victor III), who carried reform into the Crusade.
+- [[logan-history-of-the-church-in-the-middle-ages-2013]]
+

@@ -9,7 +9,7 @@ affiliated_with: [Gulf Coast Olmec heartland (southern Veracruz–western Tabasc
 opposed_by: [unknown]
 key_events: [Initial Olmec at San Lorenzo c. 1200–900 BCE, La Venta Intermediate/Terminal florescence, Tres Zapotes Epi-Olmec, highland elite symbol adoption at Chalcatzingo]
 key_processes: [[[mesoamerican-state-formation]], [[mesoamerican-preclassic]], [[trade-network-formation]]]
-sources_ingested: 3
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, archaic-period, classical-antiquity, mesoamerica, gulf-coast]
 ---
@@ -247,13 +247,129 @@ the “Olmec as sole source” view still leaves Gulf Coast developments among t
 **precursors to Maya elite institutions** (monumental sculpture, ruler portraits, stelae/altar
 prototypes, underworld-cave iconography, monument defacement).
 
+## Evans & Webster 2001 (Grove; Clark; Cyphers; others)
+
+Encyclopedia entries (esp. David C. Grove, “Olmec Culture”; John E. Clark Formative/South Gulf;
+Ann Cyphers on San Lorenzo) refine definition, chronology, interregional reach, and the mother vs.
+sister debate without adjudicating it. Attribution below is to EW2001 authors; see also site pages
+[[san-lorenzo-olmec]], [[la-venta]], [[el-manati]].
+
+### Definition and scope (Grove)
+
+“**Olmec**” names the Early–Middle Formative (c. **1200–500 B.C.**) archaeological culture of
+southern Mexico’s tropical Gulf Lowlands, distinguished as the first Mesoamerican society
+producing massive sophisticated stone monuments for several centuries. Middle Formative
+Olmec-style monumental art appears at limited distant sites ([[chalcatzingo|Chalcatzingo]],
+Teopantecuanitlán; Pijijiapan, Abaj Takalik, Chalchuapa)—both debate sides see significant
+interaction, perhaps for raw materials. Whether culture “ceased” ~**500 B.C.** or evolved into
+Late Formative [[tres-zapotes|Tres Zapotes]] / [[la-mojarra|La Mojarra]] / Tuxtla Statuette is
+unresolved; Classic Maya rulership monuments carry an Olmec legacy. The name “Olmec” has also
+been loosely misapplied for 50+ years to unrelated art/sites. Linguists link Olmec language to
+**Mixe–Zoque** (Grove; Clark’s “most credible” but unproven Mixe-Zoquean model).
+
+### Heartland monument geography and art (Grove; Umberger; Tate; Williams)
+
+Monuments at nearly two dozen sites from Papaloapan (S Veracruz) to Chontalpa (W Tabasco);
+**>80% of ~200 known monuments** at La Venta, San Lorenzo, and Laguna de los Cerros—centers spaced
+across basalt/Tuxtlas access, river trade, and coastal salt/tar/estuary settings. San Lorenzo
+(San Lorenzo Tenochtitlán—**Olmec** name only, not Aztec Tenochtitlan) on a Coatzacoalcos plateau
+with satellites Tenochtitlán, Potrero Nuevo, El Azuzul. Coe & Diehl phases document pre-Olmec to
+Olmec evolution (Ojochi through Palangana). Rulership is the principal focus of monumental art:
+colossal heads as individual ruler portraits by headgear motifs (**10** at San Lorenzo, **4** at
+La Venta); monolithic “altars”/thrones (ruler in niche = cave to underworld); stelae and statues.
+Most monuments mutilated—now usually ritual/sacred destruction (not invasion/revolution); some
+recycled by recarving. Early Formative pottery and Middle Formative greenstone motifs shared
+across Formative Mesoamerica; recent reading stresses **crocodilian** earth-fertility and
+**sharklike** water/blood/bloodletting supernaturals more than jaguar. Stone-carving began Early
+Formative ~**1200 B.C.** on the southern Gulf Coast; Tuxtla basalt transported long distance; San
+Lorenzo palace-adjacent monumental carving workshop excavated; sculptures arranged as ritual
+ensembles (Umberger, EW2001). Civic-ceremonial planning: monumental molded-earth pyramids
+dominating long parallel mounds around a central plaza aligned ~**8° west of true north**, with
+basalt colossal heads, altars, Tuxtla-sourced sculptures—earliest Mesoamerican leader/elite
+portraiture (Williams, EW2001). Art chronological priority confirmed by La Venta radiocarbon
+**1957**; style from Gulf Coast through Río Balsas/Guerrero to Honduras (Tate, EW2001).
+[[el-manati|El Manatí]] spring deposits near San Lorenzo: wooden heads/busts, jade, rubber balls
+confirming ball-game practice (*part_of:* [[mesoamerican-ball-game]]). Stela cult originated
+Middle Formative at La Venta (Newsome/Houston, EW2001).
+
+### Sequential capitals and interregional reach (Clark)
+
+Olmec story focuses on sequential capitals: San Lorenzo power by **1300 B.C.** (calibrated),
+collapsed by **900 B.C.**; La Venta power by ≥**830 B.C.** until **400 B.C.**—successor, not
+contemporary antagonist. By **1000 B.C.** San Lorenzo was Mesoamerica’s first city (~**690 ha**
+at apogee c. **1100–950 B.C.**); four- or five-tier hierarchy plus Soconusco influence suggest
+state-level society. Civilization arose by **1150 B.C.**; unique “supernatural” art
+(were-jaguars, fire-serpents) spread across Mesoamerica c. **1100–1000 B.C.**; San Lorenzo–style
+objects appear spotty from Valley of Mexico and Guerrero through Oaxaca, Puebla, northern
+Veracruz, Chiapas, coastal Guatemala, Honduras, and El Salvador—signaling Olmec ideological
+dominance in Clark’s framing. Nature and means of influence remain “hotly contested” (exchange,
+marriage alliances, conquest all possible). Cessation of San Lorenzo as cultural broker ~**900
+B.C.** ends Early Formative; La Venta and Laguna de los Cerros continue but with less apparent
+pan-Mesoamerican influence. La Venta innovations (tall pyramids, N–S axial platforms, jade
+offerings, multi-figure low-relief rulers-as-gods) reached Guerrero to El Salvador—surpassing San
+Lorenzo’s geographic reach. Soconusco Mazatan: Cherla phase (**1100–1000 B.C.**) ceramic/figurine
+styles with marked Gulf Coast similarities; Paso de la Amada abandonments and style replacement
+interpreted as impact of Gulf Coast Olmec centered on San Lorenzo disrupting the Mokaya Tradition
+(Blake, EW2001) (*contributed_to:* Mazatan horizon shift). Guerrero: Teopantecuanitlán strongest
+Olmec Horizon complexity; region supplied jade/hard stone, cotton, cacao, Pacific shells
+(Paradis, EW2001). Plausible military motifs in Olmec art after **1050 B.C.** (Webster, EW2001).
+Early Formative greenstone celts contemporaneous with San José Mogote craft specialization;
+Cuyamel (Honduras) vase with Olmec “dragon”/“fire-serpent” variant; Cuello Bladen blue jades
+possibly of Olmec origin; hierarchical society but nature/degree of complexity debatable; dense
+vegetation masks hundreds of smaller sites (Feinman et al., EW2001). Arroyo Pesquero looted
+riverbed corpus: scores of green-and-white stone masks, hundreds of jadeite/serpentine celts
+(Diehl, EW2001). Central Mexican religion: Olmec ideas/styles/trade reached Tlatilco, Oxtotitlán,
+Juxtlahuaca, Chalcatzingo; at least one Olmec greenstone mask carefully buried among Templo Mayor
+offerings (Carrasco/Grove, EW2001).
+
+### Mother vs. sister culture (Grove; Schortman & Urban; Clark)
+
+Recorded as **positions**, not adjudicated—see full treatment at
+[[olmec-mother-vs-sister-culture]]:
+
+- **Mother-culture** (standard for decades): Olmec more advanced than contemporaries; widespread
+  Early Formative artifact/motif similarities result from Olmec influence driving development
+  elsewhere; Olmec singularly laid foundations for later Mesoamerican civilizations (Grove, EW2001).
+- **Sister-culture** (equally prevalent as other regions become better known): similarities not due
+  to Olmec influence; social complexity elsewhere evolved independently of the Gulf Coast with
+  ideologies not requiring monumental art; other regions also contributed legacies as “sister
+  cultures” with the Olmec (Grove, EW2001).
+- Schortman & Urban: even when no longer labeled Mother Culture, Olmecs still widely treated as
+  catalysts accelerating endogenous complexity; unilinear core-periphery diffusion logic remains
+  pervasive.
+- Clark: “indelible effect,” but nature and means of influence remain hotly contested.
+
+## Fagan & Durrani (2020): "lattice of interaction," not a mother civilization
+
+Brian Fagan and Nadia Durrani's *World Prehistory: A Brief Introduction* (10th ed., 2020)
+sharpens the sister-culture reading already recorded above. The Olmec were not a unitary
+"mother civilization" but a series of Gulf Coast (Veracruz/Tabasco) chiefdoms, c. 1500–500
+BCE, whose art and religious symbols spread across roughly twenty times the area of their
+own heartland through elite exchange networks — a **"lattice of interaction"** (Arthur
+Demarest's term) — rather than through direct political control. Kingship and **shaman-king
+ideology** (the jaguar-human hybrid ruler, possibly an early source of the later Quetzalcoatl
+figure) originates with Olmec elites and persists for roughly a thousand years into the
+Classic Mesoamerican dynastic tradition (Fagan & Durrani 2020).
+
+On site chronology, Fagan & Durrani corroborate and lightly resharpen the picture above:
+**San Lorenzo** was the earliest major Olmec center, farming river levees by 1250 BCE, with
+monumental ruler portraits often deliberately mutilated (perhaps at the ruler's death); it
+declined after 900 BCE and was superseded by **La Venta**, the most famous Olmec site, built
+on an island in a swamp, with a large earthen mound (120 × 70 m, 32 m high), colossal heads,
+and "altar" thrones bearing jaguar/ruler-emergence-from-niche imagery. La Venta traded jade
+and serpentine as far as Costa Rica for some 400 years before its destruction and the
+deliberate defacement of its monuments c. 400 BCE. Olmec-influenced material at **Cuello**
+(Belize) and in pre-Maya burials at **Copán** attests the long-distance ideological and trade
+reach of this network into the Maya lowlands.
+
 ## Related
 
-- Places: [[san-lorenzo-olmec]] · [[la-venta]] · [[tres-zapotes]] · [[chalcatzingo]] · [[el-tajin]] ·
-  [[cerro-de-las-mesas]] · [[matacapan]]
+- Places: [[san-lorenzo-olmec]] · [[la-venta]] · [[el-manati]] · [[la-mojarra]] · [[tres-zapotes]] ·
+  [[chalcatzingo]] · [[el-tajin]] · [[cerro-de-las-mesas]] · [[matacapan]] · [[gulf-lowlands]]
 - Processes/concepts: [[mesoamerican-preclassic]] · [[mesoamerican-state-formation]] ·
-  [[mesoamerican-ball-game]] · [[mesoamerican-calendar]]
+  [[mesoamerican-ball-game]] · [[mesoamerican-calendar]] · [[mesoamerican-writing-systems]]
 - Controversy: [[olmec-mother-vs-sister-culture]]
 - Actors (later Gulf): [[huastec]] · [[totonac]]
 - Sources: [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 3–4 (Grove, Diehl)]] ·
+  [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001 (Grove; Clark; Cyphers)]] ·
   earlier CWH IV / Snow / Mann sections above

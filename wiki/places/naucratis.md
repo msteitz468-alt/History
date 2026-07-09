@@ -96,9 +96,22 @@ mixed Greek traders in a foreign port.
   *kouros*) and architecture, and for the silver-and-grain trade that monetized the
   Aegean economy.
 
+## Graffiti Evidence
+
+Herodotus (*Histories* 2.178–179) records that Pharaoh Amasis (570–526 BCE)
+granted Naucratis to Greek traders as their exclusive commercial headquarters,
+Psammetichus I having earlier permitted Greek trade. The wider Greek presence in
+Saite Egypt is attested by [[ancient-graffiti|graffiti]] carved by Greek and
+other mercenaries on the legs of the colossal statues of Ramesses II at **Abu
+Simbel**, recording Psammetichus II's Nubian campaign of 593/2 BCE against the
+Kushite ruler Aspelta — naming the commanders Potasimto (foreign troops) and
+Amasis (Egyptians) and the scribes who signed them. Per
+[[keegan-graffiti-in-antiquity-2014|Keegan]].
+
 ## Related
 
 - Founder: Miletus · Patron pharaohs: [[saite-egypt|Psammetichus I & Amasis]]
+- Graffiti: [[ancient-graffiti]]
 - Trade frame: [[orientalizing-revolution]] · [[greek-colonization]] · silver from [[thracians|Thrace]]/Macedon
 - Egyptian debt: [[orientalizing-revolution|kouros & monumental architecture]] · Eastern counterpart: [[al-mina]] · Western parallel: Graviscae ([[aegina|Sostratus]])
 - Trade frame: [[trade-network-formation]] · carriers: [[aegina]] · [[corinth]]

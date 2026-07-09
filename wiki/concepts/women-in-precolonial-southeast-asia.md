@@ -5,8 +5,8 @@ origin: a thesis crystallised by Anthony Reid (Southeast Asia in the Age of Comm
 applies_to_periods: [Late Middle Ages, Early Modern]
 applies_to_regions: [southeast-asia]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -85,3 +85,11 @@ bondage]]) coexisted with women being bought, sold, and used as concubines. The 
 pre-colonial Southeast Asian women held markedly more economic and social autonomy than their South
 Asian, East Asian, or Middle Eastern contemporaries — has nonetheless become a durable starting point
 for the field.
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+[[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] supply **pre-Reid / Classical** evidence that extends the autonomy thesis into Neolithic and Classic inscriptional contexts (Reid's frame is age-of-commerce testimony).
+
+**Neolithic mobility and status.** At Ban Non Wat / Khok Phanom Di, isotopic and mortuary evidence: some women moved from farming communities to coastal forager sites; Ban Non Wat women's status rose over three phases linked to pottery-making skill (mortuary pottery, bone stress markers) — permeable hunter-gatherer/farmer boundaries via **female mobility**.
+
+**Elite and donor women (Classic).** Gunung Kidul 890 inscription: princess kidnapped by younger brother, abandoned, suicide by fire — rare narrative of elite women. Seplawan Cave hermitage: gold male and female statues on silver base with votive objects — elite couple *wanaprastha* setting. Bagan inscription of 1242: a **female** donated sculptors, painters, masons, cowherds, goldsmiths, gardeners, and launderers. 1082 Canton Trade Superintendent received two Chinese letters from the ruler of Sanfoqi-Zhanbei **and his daughter**. Sindok's daughter may have succeeded him (Buddhist follower); Mahendradatta (great-granddaughter of Sindok) married Balinese prince Udayana and **co-ruled** Bali 989–1011. Zhou Daguan's late-13th-c. report on [[angkor|Angkor]]: markets where **women were the main participants**; Chinese coins and rice for small purchases, cloth for larger, un-coined gold/silver for largest. Concurrent_with [[mataram-kingdom]], [[pagan-kingdom]], [[malayu]], [[angkor]].

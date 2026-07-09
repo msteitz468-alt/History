@@ -8,8 +8,8 @@ region: [western-europe]
 process_type: cultural
 driven_by: [royal and ecclesiastical patronage, the ideology of renovatio and correctio, the need for correct texts for worship and government, the gathering of insular and Mediterranean scholars at the Frankish court]
 produces: [the preservation and copying of classical and patristic literature, the school network and the seven liberal arts, Caroline minuscule, the theological and intellectual disputes of the ninth century]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, early-middle-ages, western-europe]
 ---
 
@@ -85,3 +85,7 @@ more decentralised than official mandates suggest," and that the blending of dis
 traditions made a truly "unitary culture" illusory — the harvest was "luxuriant and in some ways unintended."
 The old debate over whether this was a genuine "renaissance" or merely clerical reform is reframed by the
 Carolingians' own word, *renovatio*, and by the sheer scale of textual survival.
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Seventh–eighth-century English scholarly pre-eminence (especially Northumbria) came from two interwoven streams—Irish and continental/Roman—best called “**insular**”; Christian missionaries brought literacy that civilized barbarian English. Theodore–Hadrian Canterbury school; Wearmouth–Jarrow and Bede; York under Egbert and Ethelbert (c.766–79) likely had western Europe’s best library and trained **Alcuin**; Charlemagne invited Alcuin to Aachen (781/783) for educational advice—“in light of these events of a century or more in England.” Gregory’s *Pastoral Care* and related works fed later medieval spiritual reading (Alfred’s English translation). Roman Rite path (Hadrianic sacramentary + Frankish supplementation) is part of the same *correctio* culture.

@@ -9,7 +9,7 @@ affiliated_with: [the populares; [[marius|Gaius Marius]]; Gnaeus Papirius Carbo;
 opposed_by: [the consul Gnaeus Octavius; [[sulla|Lucius Cornelius Sulla]]]
 key_events: [the consulship of 87 BCE, the capture of Rome and Marian terror (87), the "Cinnan domination" (87–84)]
 key_processes: [the militarization of Roman politics]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, italy, rome]
 ---
@@ -58,6 +58,29 @@ part because the victorious Sullan tradition had every reason to blacken the
 "Cinnan domination." His actual governing record is therefore hard to reconstruct
 behind the label of tyranny.
 
+## Flower, *Roman Republics* (2010)
+
+Harriet I. Flower ([[flower-roman-republics-2010|*Roman Republics*]]) refuses to class
+Cinna’s domination (87–82) casually as republican history. In her
+[[roman-republics-periodization|multi-republic map]], **period 8 (88–81)** is transitional
+— Sulla’s coup, Cinna’s *dominatio*, Sulla’s dictatorship — not a surviving *nobiles*
+republic. **Continual consulships** (Cinna consul every year through controlled
+elections) are, with Sulla’s later dictatorship, “clear signs of the end of the previous
+regime”; neither side in the 80s believed an older republic had survived. Rome in the
+mid-80s was ruled by a political faction that “hardly conforms to republican principles”
+(Cicero, *Brut.* 227 *sine iure et dignitate*). Evidence for a positive program is thin
+or hypothetical; the regime was bookended by assassinations of leading Romans, first
+display of Roman heads on the rostra, Sulla declared *hostis* with house razed and family
+in flight, and a second army sent against Mithridates as if Sulla were a warlord. Cinna
+came to power via a 87 coup though lawfully elected consul that year — the vestigial
+republic Sulla left in 88 crumbled rapidly, supporting Flower’s collapse-in-88 thesis.
+He was later **killed by his own soldiers** (84); Carbo then sole consul. Flower notes
+Cinna may briefly have had a “party of sorts,” destroyed with him; no one later revived
+his memory. Factional control of offices under Cinna is treated as typologically akin to
+the later “Big Three” compact of the 50s — incompatible with republican culture. See
+[[fall-of-roman-republic]] · [[sullan-constitution]].
+
 ## Related
 [[marius]] · [[sulla]] · [[sullan-civil-war-83-82bce]] · [[social-war-91-88bce]] ·
-[[mos-maiorum]] · [[optimates-populares]] · [[duncan-storm-before-the-storm-2017]]
+[[mos-maiorum]] · [[optimates-populares]] · [[duncan-storm-before-the-storm-2017]] ·
+[[flower-roman-republics-2010]]

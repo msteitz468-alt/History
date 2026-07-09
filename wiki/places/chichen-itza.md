@@ -7,7 +7,7 @@ period_active: [Early Middle Ages, High Middle Ages, Late Middle Ages, Early Mod
 controlled_by: ["[[maya-civilization]] (Itzá and related northern elites; debated Toltec ties)", "Postclassic memory and Itza migration traditions into colonial Petén"]
 events_here: ["Terminal Classic / Early Postclassic florescence", "Sacred Cenote pilgrimage and sacrifice", "Abandonment then Mayapan-era political succession", "Remembered origin of Petén Itza migration (colonial ethnohistory)"]
 processes_here: ["[[mesoamerican-state-formation]]", "[[lowland-maya-colonial-modern]]"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [place, mesoamerica, maya, yucatan, early-middle-ages, early-modern]
 ---
@@ -50,6 +50,26 @@ Grant D. Jones records the **Itzas** of the central Petén lakes as the most imp
 
 Franciscan k’atun diplomacy (1618–19; Avendaño 1695–96) treated Nojpeten as the keystone of peninsula-wide conversion; Spanish capture on **13 March 1697** left an abandoned town and a demographic catastrophe in the Itza area. Jones also notes historiographic debate over whether Itzas and related southern Yucatecan speakers (Kejach, Yucatec Lakandon, Mopan, Tz’ul Winikob’) form Thompson’s “Chan Mayas” with Classic Petén descent, or whether Yucatecan presence in the southern lowlands is of **great antiquity** (Jones’s preferred reading from further epigraphic and ethnohistorical research). The colonial migration tradition thus keeps Chichén Itzá active as an **emic origin place** long after political abandonment of the northern city — a Postclassic-to-colonial thread linking ruin, dynasty, and resistance geography.
 
+## From Evans & Webster 2001
+
+Encyclopedia synthesis (Maya Lowlands: North; Maya Culture and History; Toltec Culture notes) deepens chronology, dual-core layout, and Cenote data ([[evans-webster-archaeology-ancient-mexico-central-america-2001]]).
+
+### Chronology debate
+
+From the mid-ninth century Chichén rose with mixed Maya and Mexican architectural/sculptural styles; wars with Puuc centers and Cobá made it Early Postclassic preeminent capital of northern Yucatán. **Native documents** place overthrow in the early thirteenth century and replacement by [[mayapan|Mayapan]]; **recent research** places Chichén heyday earlier, ~**A.D. 800–950**. Other entries still give control of much of northern Yucatán **c. A.D. 1000–1250**. Peak **Sotuta**-phase population surely **exceeded 50,000**; controlled salt beds and **Isla Cerritos** trading port; coastal traders possibly Putún Chontal under Chichén until the twelfth century.
+
+### Dual architectural clusters
+
+Site core **≥5 km²**. **Southern** Puuc-style cluster: Terminal Classic; inscriptions **A.D. 840–889** (cluster after **866**); texts emphasize group dedications (*mul tepal* joint rule); figure **Kakupacal** (Fire Shield) and a Cocom lineage member; all known Maya inscriptions south of the North Terrace, mostly Calendar Round in baktun 10, probably **A.D. 830–900**. **Northern** “Toltec”/Maya-Toltec cluster on the North Terrace (~**600 × 500 m** raised platform): Temple of the Warriors, Castillo/Kukulcan, Great Ball Court, Tzompantli, etc., often paralleled at Tula; specialized central Mexican traits and **no Maya hieroglyphs**. **Seven** ball courts (most in Mesoamerica); Chac Mools. **Great Ball Court** **168 × 70 m** — 2–3× larger than most — high vertical walls, feathered-serpent rings, ballplayer panels showing decapitation of defeated captains. **Castillo**: radial **55 m** side × **30 m** high; four stairways of ninety-one steps each plus temple step = **365**; **52** panels (Calendar Round years); solar equinox serpent-shadow effect; one author links inauguration to completion of baktun 9 (**10.0.0.0.0**, A.D. 830). Caracol Observatory calibrated to Venus, Pleiades, Sun, Moon; latitude similar to Tula enabling same night-sky viewing.
+
+### Sacred Cenote
+
+Circular sinkhole **60 m** diameter, **36 m** deep, one-third filled with water; used exclusively for ceremony while Xtoloc supplied water. Bishop Diego de Landa compared its reverence to Jerusalem or Rome. **1904–1911** dredging recovered jade, gold, copper, textiles, wood, ceramics, copal, and human remains (children sacrificed more often than adults), mostly broken/burned, from after ~**A.D. 700**. Two offering episodes: one massive late-florescence dump of gold/jadeite/etc.; prolonged post-**A.D. 1200** pottery/copal. Sotuta complex (Silho Fine Orange, plumbate) ~**900–12th century**.
+
+### Toltec models (positions, not adjudication)
+
+Three models for “Toltec” links remain open: (1) Toltec invasion from Tula under a Kukulcan/Quetzalcoatl-like leader per some 16th-c. chronicles; (2) independent evolution from Puuc with two-way interaction; (3) Putun Maya intermediaries. Chronology is still insufficient to choose. Majority of investigators who have analyzed Toltec presence propose conquest under a Quetzalcoatl-like leader, but texts are ambiguous and both cities’ chronologies (esp. Chichén) too inexact for proof. **Kubler (1961)** argued Toltec culture originated at Chichén not Tula — still debated. Colonial sources associate founding/refounding with Kukulcan/Topiltzin Quetzalcoatl. After Chichén’s fall, [[mayapan|Mayapan]] founded **c. A.D. 1200–1230** as political successor while Chichén continued as pilgrimage center.
+
 ## Related
 
-[[maya-civilization]] · [[maya-classic-collapse-800ce]] · [[tula-hidalgo]] · [[toltec]] · [[tikal]] · [[palenque]] · [[maya-highland-pacific-development]] · [[lowland-maya-colonial-modern]] · [[conquest-of-yucatan-1527]] · [[caste-war-yucatan-1847]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Hammond Ch. 5; Sharer Ch. 10) · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Jones Ch. 20)
+[[maya-civilization]] · [[mayapan]] · [[uxmal]] · [[maya-classic-collapse-800ce]] · [[tula-hidalgo]] · [[toltec]] · [[tikal]] · [[palenque]] · [[cotzumalhuapa]] · [[maya-highland-pacific-development]] · [[lowland-maya-colonial-modern]] · [[conquest-of-yucatan-1527]] · [[caste-war-yucatan-1847]] · [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Hammond Ch. 5; Sharer Ch. 10) · [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Jones Ch. 20) · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster encyclopedia]]

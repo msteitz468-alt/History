@@ -9,8 +9,8 @@ affiliated_with: [the army; the adoptive succession; the Greek world (philhellen
 opposed_by: [the Senate (over the "four consulars"); the Jews (the Bar Kochba War)]
 key_events: [accession and abandonment of Trajan's eastern conquests (117), the building of Hadrian's Wall, the provincial tours, the Bar Kochba War (132–135)]
 key_processes: [the consolidation of the empire within fixed frontiers]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy, rome]
 ---
 
@@ -83,4 +83,13 @@ under pressure from Antoninus), he was the architect of the Antonine peace.
   [[antoninus-pius]] (and through him [[marcus-aurelius]])
 - The [[bar-kochba-war-132-135|Bar Kochba War]] (see [[roman-judaea]]); Hadrian's Wall in
   [[roman-britain|Britain]]; the Panhellenion in the [[roman-greek-east|Greek East]]
-- Source: [[bowman-cah-v11-2000]] (Ch. 3)
+- Source: [[bowman-cah-v11-2000]] (Ch. 3) · [[woolf-rome-empires-story-2012]]
+
+## Woolf, Rome: An Empire's Story (2012)
+
+From [[woolf-rome-empires-story-2012]] Ch. XIII.
+
+- **Withdrawal from Mesopotamia.** Handed Trajan’s new Mesopotamian province back to the Parthians—emblematic of security-first high empire after “futile” Trajanic conquests.
+- **Wall and travels.** Hadrian’s Wall exemplifies second-century frontier system: communications/information advantage (bases, signal stations, roads); ditches/ramparts among “latest and least vital components.” Restless travels (with Trajan’s expeditions) “in some senses optional”; Antoninus Pius spent most time in Rome; from Marcus Aurelius emperors were compelled to long frontier stays.
+- **Court anywhere.** Departure of emperors from Rome made court itinerant—govern from anywhere (Hadrian’s travels as type).
+- **Quote:** “Mesopotamia was handed back to the Parthians by Trajan’s successor Hadrian.”

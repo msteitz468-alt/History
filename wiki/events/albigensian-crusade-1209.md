@@ -6,15 +6,15 @@ date_precision: year
 period: [High Middle Ages]
 region: [western-europe, mediterranean]
 location: [Languedoc, Toulouse, Béziers, Carcassonne, Muret, Montségur]
-actors_primary: [[[papacy]], [[innocent-iii]], Simon de Montfort, Raymond VI of Toulouse, Raymond VII of Toulouse, [[capetian-dynasty]], [[cathars]]]
+actors_primary: [[[papacy]], [[innocent-iii]], Simon de Montfort, Raymond VI of Toulouse, Raymond VII of Toulouse, [[capetian-dynasty]], [[catharism]]]
 actors_secondary: [Peter II of Aragon, Louis VIII of France, [[dominican-order|Dominic of Guzmán]], Arnald-Amalric]
 event_type: [war, religious]
 scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[catharism|the spread of Catharism in Languedoc]], the assassination of the legate Peter of Castelnau (1208), the refusal of the southern lords to suppress heresy, [[papal-monarchy|papal assertion of authority over heretical rulers]]]
 consequences: [the Capetian annexation of Languedoc, the founding of the [[medieval-inquisition|papal Inquisition]], the eventual extinction of Catharism, the integration of the Midi into the French crown, the precedent of the "political crusade"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, high-middle-ages, western-europe, mediterranean]
 ---
 
@@ -80,6 +80,10 @@ of the king — ensuring that Toulouse would ultimately **revert to the French c
 - `enabled:` the precedent of the **"political crusade"** against Christian lay powers,
   later turned against the [[frederick-ii-hohenstaufen|Hohenstaufen]].
 
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Logan names the dualists **Cathars** (from Greek *katharos*, “pure”) and **Albigensians** (from Albi). Murder of the legate **Peter of Castelnau** (January 1208), blamed on Raymond VI of Toulouse’s circle, triggered the crusade Innocent had been preparing through Cistercian legates and the barefoot preaching of Diego of Osma and [[dominic-de-guzman|Dominic]]. Logan stresses **Philip Augustus** refused to lead (preoccupied with John of England and Otto IV). Later royal armies under Prince/King **Louis** transformed crusade pretence into French expansion into the south: “The crusade now was but a pretence; the reality was a war being waged by the king of France in the Languedoc for the purpose of extending royal power into the south. … It had been a successful war for the French, but clearly not a crusade.” Peace with Raymond VII and young Louis IX at Notre-Dame Paris left ancestral territories to pass to the crown. Dominic continued preaching during the turbulence; Logan finds no evidence of Dominic’s military involvement though he was friendly with Simon de Montfort’s family. Full dualist doctrine, northern vs southern repression before 1198, and inquisitorial aftermath: see [[catharism]].
+
 ## Historiography
 
 Hamilton (NCMH V) corrects two popular distortions. First, the **Inquisition's
@@ -100,3 +104,4 @@ Catharism died out across western Europe so suddenly around 1320.
 - [[innocent-iii]] · [[papacy]] · [[papal-monarchy]] — the authority that proclaimed it.
 - [[crusades]] — the wider crusading movement of which this was a "political" variant.
 - [[capetian-dynasty]] — the monarchy that absorbed Languedoc.
+- [[logan-history-of-the-church-in-the-middle-ages-2013]]

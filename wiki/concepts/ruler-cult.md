@@ -5,8 +5,8 @@ origin: Crystallised in the generation after Alexander (from c. 311 BCE); fourth
 applies_to_periods: [Classical Antiquity, Late Antiquity]
 applies_to_regions: [mediterranean-world, egypt, near-east, anatolia, balkans]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -111,3 +111,7 @@ into the dating protocols of both Greek and demotic contracts, also bound the
 
 Ruler-cult is the direct ancestor of the **Roman imperial cult**. See
 [[hellenistic-monarchy]], [[hellenistic-world]].
+
+## OHCW (Stockton — Roman imperial phase)
+
+**Stockton** (Ch. 22): Augustan *divi filius*; cult of genius/*numen*; temples to Rome and Augustus in the provinces; living Augustus never formally a god in Italy/West — official deification awaited death. Continuity with Hellenistic city/dynastic cult: provincial gratitude and imperial ideology, not Italian theocracy. Source: [[boardman-oxford-history-classical-world-1986]] (Stockton Ch. 22).

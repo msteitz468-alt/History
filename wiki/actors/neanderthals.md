@@ -9,8 +9,8 @@ affiliated_with: ["[[homo-heidelbergensis]] (ancestor)", "Denisovans (sister pop
 opposed_by: ["Homo sapiens (modern humans, competitors/successors)", "[[cro-magnons]]"]
 key_events: ["[[out-of-africa-2-60kbp]]", "Neanderthal extinction ~40,000–30,000 BP"]
 key_processes: ["[[fire-management]]", "[[paleolithic-global-dispersal]]", "[[human-evolution]]"]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, other, "Late Prehistory", "Behavioral Modernity", europe, near-east]
 ---
 
@@ -31,9 +31,10 @@ which the distinctiveness of modern *Homo sapiens* is measured.
   traits are visible from ~600,000 BP; "classic" Neanderthals emerge in the fossil
   record by ~250,000 BP. The Sima de los Huesos fossils (Atapuerca, Spain) show
   Neanderthal traits possibly by ~500,000 BP (dating debated).
-- **Sister population**: ancient DNA shows the Denisovans were a related archaic
-  population that diverged from the Neanderthal line; some "cousins of the
-  Neanderthals" lived in the Altai region and perhaps elsewhere in Asia.
+- **Sister population**: ancient DNA shows the [[denisovans|Denisovans]] were a
+  related archaic population that diverged from the Neanderthal line; some
+  "cousins of the Neanderthals" lived in the Altai region and perhaps
+  elsewhere in Asia.
 - **Range**: Europe, the Near East (Levant), and Central Asia. They were the first
   humans to inhabit the cold East European Plain (artefacts at Sukhaya Mechetka,
   Volgograd; the move east took place 350,000–150,000 BP per aDNA). They survived
@@ -115,6 +116,34 @@ cumulative cultural creativity of modern humans — sharpening the argument that
 [[syntactic-language-origins|full syntactic language]] was the critical threshold.
 Had Neanderthals not gone extinct, the very concept of a single "human" species
 would be different.
+
+## Fagan & Durrani (2020) — Genomic Update
+
+Fagan & Durrani (2020) confirm and sharpen the genomic picture: Svante Pääbo's
+team sequenced the full Neanderthal genome in 2010, establishing that ~1–4%
+(later refined to ~2%) of the DNA of all non-sub-Saharan-African modern humans
+is Neanderthal in origin — interbreeding is dated to roughly 50,000 BP (some
+estimates 60,000–40,000 BP), most likely in the Middle East, before the
+non-African founder population split into its European/Asian/Pacific branches
+(shared roughly equally by French, Chinese, and Papua New Guinean genomes). No
+Neanderthals ever lived in tropical Africa. A 2017 finding complicates the
+tidy sequence further: H. sapiens DNA was detected in a **124,000-year-old**
+Neanderthal fossil from Germany — surprising, since modern humans were not
+thought to have reached Europe until ~60,000 BP, implying an earlier and more
+complex history of contact than the standard model allows. Fagan & Durrani
+date the Neanderthal–sapiens lineage split (from DNA) to ~400,000 BP,
+consistent with the revised Jebel Irhoud dating of early *H. sapiens* (see
+[[../periods/behavioral-modernity|Behavioral Modernity]]). They also confirm
+the 2010 identification of the **Denisovans** (see [[denisovans]]) as a
+sister population from the same research, and note the low genetic diversity
+of the shrinking Neanderthal population (Spain-to-Siberia range) from
+~100,000 BP, with extinction dated ~39,000 BP by genetic data (some
+archaeologists prefer outlying survival ~10,000 years later). Neanderthal
+burials at La Ferrassie (two adults + four children interred together) and La
+Chapelle-aux-Saints (an elderly, toothless man implying caregiving) are cited
+as evidence for group care and possibly afterlife belief; the shared FOXP2
+speech gene is again noted as consistent with (but not proof of) speech
+capacity.
 
 ## Historiography
 

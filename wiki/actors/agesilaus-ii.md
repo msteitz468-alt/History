@@ -9,8 +9,8 @@ affiliated_with: [[[sparta]], [[lysander]] (early patron, later rival), [[xenoph
 opposed_by: [Thebes, [[epaminondas]], Persia, Athens, Argos, Corinth]
 key_events: [accession c. 400 BCE, the Asian campaign 396–394 BCE, [[corinthian-war-395bce|Coronea]] 394 BCE, the seizure of the Theban Cadmea 382 BCE, defeat at [[thebes-hegemony-371bce|Leuctra]] 371 BCE]
 key_processes: [[[spartan-hegemony]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, peloponnese]
 ---
 
@@ -50,13 +50,24 @@ battle of **Coronea** against a Theban-led coalition.
 ## Overreach and Leuctra
 
 Through the period of the [[kings-peace-386bce|King's Peace]] (386) Agesilaus made Sparta
-the enforcer of Persia's "autonomy" settlement, using it to break up rival leagues. His
-implacable hostility to **Thebes** drove the worst Spartan blunder of the age: the
-seizure of the Theban citadel, the **Cadmea**, in **382** — which Xenophon himself read
-as the impiety the gods later punished at **Leuctra (371)**, where [[epaminondas]]
-shattered the Spartan army (see [[thebes-hegemony-371bce]]). Agesilaus survived the
-disaster and spent his last years defending a diminished Sparta and serving as a
-mercenary commander in **Egypt** to raise funds, dying on the voyage home.
+the enforcer of Persia's "autonomy" settlement, using it to break up rival leagues.
+[[osborne-classical-greece-2000|Osborne (ed.), *Classical Greece 500–323 BC* (2000)]]
+credits Agesilaus specifically, not the Persian King, with deciding how the Peace's
+autonomy clause would be applied — he used it to dissolve both the Corinth–Argos union
+and the **Boeotian confederacy**, the clearest evidence that Spartan rather than Persian
+interests actually shaped the Peace's consequences (see
+[[corinthian-war-395bce|Corinthian War]]). Sparta then pressed the same logic against
+her own allies: in **385** she besieged and demolished **Mantinea**, breaking it into
+four or five villages, on the pretext that it had aided Argos; around **380** she
+besieged **Phlius** over a dispute concerning restored exiles' property. His implacable
+hostility to **Thebes** drove the worst Spartan blunder of the age: the
+seizure of the Theban citadel, the **Cadmea**, in **382** by the Spartan commander
+Phoebidas (fined but not disgraced at home, while the pro-Athenian Theban leader Ismenias
+was executed) — which Xenophon himself read as the impiety the gods later punished at
+**Leuctra (371)**, where [[epaminondas]] shattered the Spartan army (see
+[[thebes-hegemony-371bce]]). Agesilaus survived the disaster and spent his last years
+defending a diminished Sparta and serving as a mercenary commander in **Egypt** to raise
+funds, dying on the voyage home.
 
 ## Counterfactual significance
 
@@ -72,4 +83,7 @@ innovation" even as its political achievement proved "ultimately unimpressive."
 - City: [[sparta]] · patron-turned-rival: [[lysander]] · admirer/biographer: [[xenophon]]
 - Process: [[spartan-hegemony]] · enemies: [[epaminondas]] (Thebes)
 - Events: [[corinthian-war-395bce]] · [[kings-peace-386bce]] · [[thebes-hegemony-371bce]]
-- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Chs. 1–2, Hornblower & Lewis)
+- Source: [[lewis-cah-v6-1994|CAH Vol. VI]] (Chs. 1–2, Hornblower & Lewis) · [[osborne-classical-greece-2000|Osborne (ed.) 2000]] (Ch. 8; King's Peace enforcement)
+
+> Note: this wiki files Agesilaus solely under this slug (`agesilaus-ii`); no separate
+> `agesilaus-ii-of-sparta` page exists or is needed.

@@ -22,8 +22,8 @@ key_events:
 key_processes:
   - "[[southeast-asian-nationalism]]"
   - "[[islamization-of-southeast-asia]]"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags:
   - actor
   - movement
@@ -64,6 +64,22 @@ Sarekat Islam's trajectory illustrated three key dynamics of Southeast Asian nat
 3. **Mass mobilization vs. elite politics**: Sarekat Islam demonstrated that mass organization was possible in colonial Indonesia, but also that sustaining organizational discipline across two million members with competing ideological tendencies was beyond the capacity of any pre-war movement.
 
 Its 1917 Action Programme — calling for transformation of the Volksraad (advisory council) into a true legislature, establishment of regional councils, and extension of the franchise — set the template for subsequent demands by Indonesian nationalist organizations.
+
+## Pan-Islamic Dimension: The Central Caliphate Committee (Formichi)
+
+Chiara Formichi's [[formichi-islam-and-asia-2020|*Islam and Asia: A History*]] (2020) adds a
+transregional dimension often left out of purely nationalist framings of Sarekat Islam. Under
+**H.O.S. Tjokroaminoto**, Sarekat Islam was, per Formichi (2020), "the most influential Islamist
+party in late-colonial Indonesia," and after its 1923 split into a communist ("red") and Islamist
+("white") wing, the white wing organized a **Central Caliphate Committee** (Surabaya, October 1924)
+in response to Mustafa Kemal's abolition of the Ottoman Caliphate that same year. The committee
+drafted a proposal for a consultative, elected Caliphate to bring to the 1924 Cairo congress, but
+at the 1926 Mecca congress — attended by delegates from British India, Soviet Central Asia, and the
+Dutch East Indies — the Indonesian delegation was conspicuously silent, "avoid[ing] any commitment."
+Formichi also notes that **Sukarno**, who boarded with Tjokroaminoto and married his daughter,
+emerged from this milieu to articulate a non-confessional nationalism ("Nationalism, Islamism and
+Marxism," 1926) that would eventually eclipse Sarekat Islam's political-Islamic project — see
+[[pancasila]] and [[fall-of-the-ottoman-empire-1922]] for the wider Caliphate-abolition context.
 
 ## Links
 

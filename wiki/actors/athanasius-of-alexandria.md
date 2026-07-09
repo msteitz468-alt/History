@@ -9,8 +9,8 @@ affiliated_with: [alexandria, coptic-church, christianity, antony-of-egypt]
 opposed_by: [Arianism, the Meletian schism, imperial pressure]
 key_events: [[[council-of-nicaea-325]]]
 key_processes: [[[christianization-of-the-roman-empire]], [[egyptian-monasticism]]]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, egypt, north-africa, mediterranean-world]
 ---
 
@@ -54,3 +54,10 @@ Nicene. His see's later prestige underwrote the assertiveness of the
 - [[alexandria]] · [[antony-of-egypt]] · [[council-of-nicaea-325]] · [[coptic-church]] ·
   [[christianization-of-the-roman-empire]] · [[constantine-the-great]]
 - Source: [[sources/bagnall-rathbone-egypt-alexander-copts-2004]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Attributed claims from [[sources/mitchell-later-roman-empire-2015|Stephen Mitchell, *A History of the Later Roman Empire* (2015)]].
+
+- **Melitian schism and violent consolidation of Alexandrian power.** Melitius rejected Peter of Alexandria’s wartime leniency; Nicaea allowed coexistence under Alexandrian authority, but Athanasius refused power-sharing (Nicaea can. 6 on Alexandrian control of Libya/Egypt/Pentapolis) and “went into battle against them in word and deed,” using ascetics and intimidation. Melitian charges (Ischyras’s chalice; Arsenius “murder,” exposed as false) plus papyrus evidence of kidnapping, beating, and imprisonment of Melitian clergy. Tyre 335 deposed him; he intercepted Constantine; a grain-fleet conspiracy charge by Eusebius of Nicomedia’s faction led to exile to Trier without formal deposition.
+- **Nicene champion and East–West conflict.** For ~50 years he defended [[council-of-nicaea-325|Nicaea]] against Arians and [[constantius-ii|Constantius]]; 339 refuge at Rome drew Julius and Constans into conflict culminating in the failed joint Serdica council (western/eastern split to Philippopolis). Related: [[arianism|Arianism]]; [[late-roman-church-institution|late Roman church]].

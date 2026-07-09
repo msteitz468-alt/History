@@ -8,8 +8,8 @@ region: [andes]
 process_type: political
 driven_by: [Pacific marine resources, irrigation agriculture, highland–coast exchange, shared religious iconography]
 produces: [Norte Chico/Caral, [[chavin|Chavín]], [[moche|the Moche]], [[tiwanaku|Tiwanaku]] and Wari, ultimately the [[inca-empire|Inca]]]
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [process, andes, classical-antiquity, late-middle-ages]
 ---
 
@@ -67,6 +67,36 @@ Mesoamerica and the Old World.
 No terminal end within this volume: each horizon's collapse seeded the next, a pulsing rhythm
 of integration and fragmentation that continued to the **Inca** and was cut short only by the
 Spanish conquest.
+
+## Fagan & Durrani (2020): pre-agricultural coastal centers and the two enduring poles
+
+Fagan and Durrani's *World Prehistory* (10th ed., 2020) corroborates the Preceramic
+monumentality already recorded above with added site detail: **Aspero** (Supe River mouth), a
+coastal settlement of 15 ha, flourished by **3055 BCE** — among the earliest complex coastal
+societies known anywhere with no agricultural base. **Caral**, in the Supe Valley, was a major
+kingdom by **2600 BCE** with 17 associated centers in the Supe region and six large stone
+platforms (the largest 152 × 137 m, 18 m high); it grew cotton (not maize or potato) for
+fishing nets and subsisted heavily on anchovies (confirmed via desiccated feces at the site),
+before being abandoned c. 2000–1500 BCE (see [[caral]]). **El Paraíso**, on the Chillón River
+near Lima (c. 1800 BCE), is the oldest U-shaped ceremonial complex on record, involving the
+movement of roughly 100,000 tons of rock, and is interpreted as a ceremonial/pilgrimage center
+rather than a residential settlement.
+
+Fagan & Durrani frame Andean civilization around **two enduring poles**: the north coast (the
+desert river valleys of Peru) and the south-central highlands (the Titicaca Basin) — noting
+that only the Inca ever united both into a single empire, Tawantinsuyu. Both **Tiwanaku** and
+**Wari** are described as marking "a turning point" in the Middle Horizon: small regional
+states integrating into larger political units, a precedent for Inca-scale unification. El
+Niño/ENSO events are repeatedly implicated in Andean civilizational collapses (the Moche
+above; Tiwanaku's post-1200 CE drought) — comparable, in the authors' view, to Old World
+climate-driven collapses (Egypt, the Khmer, the Maya).
+
+On the Late Intermediate coastal states, Fagan & Durrani note that **split inheritance** — the
+institution by which a deceased ruler's estate and mummy remained his *panaqa*'s in perpetuity,
+forcing each successor to conquer fresh land — is directly identified as a shared, transmitted
+institution running from the [[chimor|Chimú]] to the Inca, making it a load-bearing causal link
+in the terminal phase of this process (see [[inca-empire]] for the fuller Pachakuti-era
+mechanism).
 
 The [[inca-empire|Inca]] are the culmination D'Altroy's [[daltroy-incas-2004|*The Incas*]] makes legible:
 Tawantinsuyu **synthesised** the deep Andean repertoire — [[norte-chico|Norte Chico's]] non-market

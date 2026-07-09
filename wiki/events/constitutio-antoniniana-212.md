@@ -13,7 +13,7 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [[[roman-citizenship-and-belonging]], unknown]
 consequences: [[[roman-citizenship-and-belonging]]]
-sources_ingested: 2
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [event, late-antiquity, mediterranean-world]
 ---
@@ -73,8 +73,33 @@ uncertainty of motive (Cassius Dio's fiscal explanation vs. a universalising or 
 Campbell weighs above. See [[sources/beard-spqr-2015]] and, on the institution itself,
 [[concepts/roman-citizenship]].
 
+## Historiography
+
+The edict survives mainly in the Giessen papyrus (P.Giss. 40) and in later juristic
+and narrative allusions; Cassius Dio’s fiscal explanation (widening the tax base)
+competes with universalising or patronal readings. Brian Campbell in CAH XII
+weighs motives without closure. Modern scholarship stresses that by 212
+citizenship’s practical legal value had already been eroded by the
+*honestiores*/*humiliores* divide. Mary Beard (*SPQR*) uses 212 as a deliberate
+endpoint for Rome’s first-millennium citizenship project; [[harris-roman-power-2016|Harris
+(2016)]] treats it as both culmination of incorporation and a possible stall point
+for “national” consciousness thereafter. Source quality for the text of the edict
+remains thin relative to its symbolic weight.
+
 ## Related
 
 - Issued by [[caracalla]] of the [[severan-dynasty]]; the long process of
   [[roman-citizenship-and-belonging|enfranchisement]] and the [[roman-social-structure-high-empire|status order]]
-- Source: [[bowman-cah-v12-2005]] (Ch. 1, Brian Campbell)
+- Source: [[bowman-cah-v12-2005]] (Ch. 1, Brian Campbell) · [[harris-roman-power-2016]]
+
+## Harris, *Roman Power* (2016)
+
+Harris places the 212 general grant at the end of a long incorporation path (Augustus–Tiberius–Claudius onward) and as a pivot for both durability and later stall. Before Caracalla only a minority of the free population had citizenship without much doubt; sources hostile to Caracalla sometimes impugned fiscal motives (raise tax revenue), but **no one known objected** to incorporating so many provincials, many far from Romanized. By 222 Alexander Severus: governors to show unflagging consideration; provincial *utilitas* a recognized principle (Ulpian *Digest* 1.16.10 pr.). Italy lost privileged position; by Diocletian’s Price Edict (301) emperors spoke of “our provincials” and taxed all including Italians. As citizenship spread before and after 212, Roman law spread too—but local law still mattered most to many provincials. By 212 citizenship had already lost much legal significance as *honestiores*/*humiliores* hardened and cruel punishments spread to lower-status citizens; governors held *ius gladii* over all citizens after the grant.
+
+Nation-making: AD 16–212 grants tended toward creating a nation; after 212 new recipients may have reacted positively **or** inclusion of huge numbers whose forefathers had not earned the privilege via *auxilia* etc. may have diluted the concept—Harris leaves both open. Development incomplete: third-century emperors still distinguish favorite provincials from “the Romans”; separatism increased somewhat. Among four “carcinogenic” developments after Severan/Constantinian times: **national-consciousness formation stalled after the Edict of Caracalla**, further impeded by reduced economic opportunities vs pre-Severan times. Source: [[harris-roman-power-2016]].
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+Caracalla’s Edict is the endpoint of a long enfranchisement process: city-state citizen body → Italy after Social War → early-imperial privileged grants → “a world in which most people were citizens and yet the status was strangely still valued.” Empire-wide ritual experiments under Decius (*supplicatio* / sacrifice certificates) can be read as a logical consequence of Caracalla’s expanded citizen body.

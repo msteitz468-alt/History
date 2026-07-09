@@ -9,8 +9,8 @@ affiliated_with: [[[carolingian-empire]], the Frankish kingdom, the Papacy, the 
 opposed_by: [Lombards, Saxons, Avars, Umayyad Spain, Byzantium (over the imperial title)]
 key_events: [[[pippinid-coup-751]], conquest of the Lombard kingdom 774, Saxon wars 772–804, defeat of the Avars 791–796, [[coronation-of-charlemagne-800]]]
 key_processes: [[[carolingian-renaissance]], [[christianisation-of-anglo-saxon-england|forced Christianisation of Saxony]], [[carolingian-capitularies|written government by capitulary]]]
-sources_ingested: 3
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, western-europe]
 ---
 
@@ -117,3 +117,15 @@ and [[fastrada]] as political agents, reads the [[coronation-of-charlemagne-800|
 800]] as carefully co-planned (not a surprise), and rebuts Ganshof's "*l'échec de
 Charlemagne*" by reconstructing a functioning late-imperial government from Aachen. Full
 treatment in the [[hubs/biographies/early-middle-ages/charlemagne|detailed biography]].
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+**Name and scale.** “Carolingian” derives from [[charles-martel]], not Charlemagne; [[pepin-iii|Pepin]]’s son founded the royal dynasty. At height, control ran to the Pyrenees (Roncesvalles 778 failure), deep into central Italy, Saxony–Thuringia–Bavaria, to the Danish marsh—comparable only later to Napoleon/Hitler-scale control. Dynasty “too soon,” over-ambitious and weak; within 90 years of Pepin’s 751 coronation lands divided by centrifugal forces—yet church accomplishments long outlasted the grandsons’ fratricide.
+
+**Franco-papal alliance.** Sole power after brother’s death (771); rejected Lombard marriage rapprochement; made himself king of the Lombards; 774 at Rome with Hadrian I swore mutual oaths confirming Pepin’s alliance. Letter to Leo III (796): king defends church by arms and strengthens Catholic knowledge; pope intercedes like Moses for Christian victory. Christmas **800** Leo crowned him emperor—Logan: Charlemagne’s idea (Einhard’s reluctant-surprise tale unconvincing); did not create an imperial administrative empire (series of holdings); **crowned the Franco-papal alliance**. Anointed kings defined office with a spiritual dimension (court name “David”).
+
+**Church programme.** *Admonitio generalis* (789) as first entirely religious capitulary; Dionysio-Hadriana basis of Frankish canon law; schools, Lord’s Prayer, Sunday rest, preaching syllabus. Forced Saxon conversion among the least happy Frankish chapters: wars from 772 for 30+ years; 782 mass beheading of (chronicler’s) 4,500 prisoners; capitulary death penalty for refusing baptism (*morte moriaturus*); Alcuin later insisted faith must be voluntary. English learning (York/Alcuin) linked to Aachen invitation (781/783). See also [[carolingian-church-reform]], [[carolingian-renaissance]], [[franco-papal-alliance]].
+
+**Islam / southern frontier (R1 light touch).** Logan cites Pirenne (“without Mohammed Charlemagne would have been inconceivable”) and broadens: without [[justinian|Justinian]] and [[muhammad|Muhammad]] there would never have been a Frederick II and Innocent III—i.e., no medieval empire and medieval papacy as known (**R1-040**). He contrasts Muslim conquerors, who allowed subjects religious practice for tribute (often less than Byzantine taxes), with Charlemagne (768–814), who gave Saxons the choice between baptism and death; conversion to Islam was slow over centuries, leaving Christian pockets (**R1-060**).
+  - Quote: "Unlike Charlemagne, the Christian king of the Franks (768–814), who gave Saxons the choice between baptism and death, the Arabs allowed their subjects the tolerance necessary to practise their religions."
+  - See [[islamic-conquests-seventh-eighth-centuries]].

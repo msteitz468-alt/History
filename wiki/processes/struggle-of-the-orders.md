@@ -8,8 +8,8 @@ region: [mediterranean, western-europe]
 process_type: political
 driven_by: [patrician monopoly of office and legal knowledge, hoplite army creating independent plebeian military leverage, endemic debt and economic inequality, ambitions of wealthy plebeian families excluded from office]
 produces: [tribunate-of-the-plebs, twelve-tables-450bce, licinian-sextian-laws-367bce, lex-hortensia-287bce, Roman mixed oligarchy, nobilitas]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, classical-antiquity, archaic-period, mediterranean, western-europe, rome]
 ---
 
@@ -200,4 +200,11 @@ the narrative is elaborated). See [[reliability-of-early-roman-tradition]].
 - Events: [[twelve-tables-450bce]] · [[foundation-of-rome-753bce]] ·
   [[gallic-sack-of-rome-390bce]] (Section 3)
 - Actors: [[roman-republic]] · [[roman-patriciate]] · [[roman-kings]]
-- Source: [[walbank-cah-v7-2-1989]] (Chs 4–5, Drummond)
+- Source: [[walbank-cah-v7-2-1989]] (Chs 4–5, Drummond) ·
+  [[flower-roman-republics-2010]] · [[roman-republics-periodization]]
+
+## Flower, *Roman Republics* (2010) — attributed early-republics map
+
+Flower does not treat the Struggle of the Orders as a frozen baseline that a single later “Republic” simply inherited and then lost. Instead she offers an early “Time Map 2” (attributed positions in [[roman-republics-periodization]]): a pre-republican transition (~509–494); a **proto-republic** (~494–451/0); **Republic 1** beginning with the **Twelve Tables** (451/0) as the actual start of the first republican period (*libertas* / equality before the law as foundation), including the experimental consular-tribune boards; **Republic 2** from the **367/6** reform (two consuls shared between patricians and plebeians) through the emergence of the *nobiles*.
+
+She marks **~300** (sharing of the major priesthoods — last major barrier to plebeian emancipation), **not 287 (*lex Hortensia*)**, as the start of the first *nobiles* republic (her Republic 3), though she notes 287 remains arguable. After the Twelve Tables she sees patricians dominating office for a generation or two — written law initially producing *less* sharing of executive office; the final major late-fourth-century struggle was over **priesthoods** more than magistracies. She cautions against accepting wholesale the traditional hereditary-patrician story (plebeian names in early *fasti*; doubts on a closed caste) and against classifying competing early plebeian aims (separate community vs integration) as one single republican system. For the second century she also rejects the model of a “fundamental Republic” frozen since the Conflict of the Orders and merely weakened by late-Republican “revolutionary” behavior. Source: [[flower-roman-republics-2010]].

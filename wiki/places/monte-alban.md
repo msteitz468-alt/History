@@ -7,7 +7,7 @@ period_active: [Archaic Period, Classical Antiquity, Late Antiquity, Early Middl
 controlled_by: ["[[zapotec|Zapotec]] state", "later Zapotec and [[mixtec|Mixtec]] Postclassic polities", "ritual/burial use after urban decline"]
 events_here: [founding c. 500 BCE, Building L Danzantes program, Protoclassic state institutions, Building J conquests, Teotihuacan diplomatic monuments, Classic peak c. 600 CE, urban breakdown 600–900 CE, Early Postclassic elite burials]
 processes_here: ["[[mesoamerican-state-formation]]", "[[mesoamerican-preclassic]]"]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [place, mesoamerica, oaxaca]
 ---
@@ -161,6 +161,69 @@ clearest highland case of **primary state formation** with early imperialism (Cu
 peer diplomacy with Teotihuacan, and a millennium-scale urban arc — foundational for
 [[mesoamerican-state-formation]] and the sister-culture debate.
 
+## Evans & Webster 2001 (Blanton, Zeitlin, others)
+
+**Disembedded capital and phase demography (Blanton, “Monte Albán”).** Political and
+cultural center of the Zapotec state from origin c. **500 B.C.** to A.D. **700**; among
+the most thoroughly studied Mesoamerican sites. Founded suddenly in Period I on
+previously unoccupied hilltops (highest **400 m** above valley floor) central to the
+Y-shaped valley’s three arms — a **“disembedded capital”** in a political neutral zone
+integrating prior Rosario-phase (600–500 B.C.) autonomous chiefdoms. Early I (500–350
+B.C.) population ~**5,000**; Danzantes gallery of >300 near-life-size carved captives;
+Late I ~**16,000**; 20-km hinterland intensification (piedmont irrigation, mud-brick
+housing, specialized production, market exchange, first *comales*/tortillas).
+
+- **Period II (200 B.C.–A.D. 300):** local autonomy of valley centers rises; capital
+  population falls to ~**14,500**; massive defensive wall **>2 km** on N/W slopes;
+  rulers extend control ~**100 km** into Cañada de Cuicatlán — possibly compensating for
+  weakened home-region control; Main Plaza leveled and expanded with new military
+  gallery.
+- **IIIA (A.D. 300–500):** capital ~**16,500**; southern arm reaches highest densities
+  ever; Main Plaza formalized (South Platform etc.); stelae show rulers’ accessions,
+  victories, and Teotihuacan diplomatic visitors; more centralized state involvement in
+  regional economy.
+- **IIIB (A.D. 500–700):** southern valley collapses; capital hinterland shrinks but
+  city peaks near **25,000** on >2,000 terraces with barrio market plazas; Main Plaza
+  reaches final monumental form (North Platform as rulers’ living/working area); craft
+  specialization by barrio but not a major basic-commodity center; elite goods
+  (shell-working) elevated vs valley.
+- **End IIIB / Period IV:** Main Plaza construction ceases and buildings decay; Early
+  Postclassic reduced, scattered occupation, new defensive walls — no longer major
+  political center.
+- **Period V Late Postclassic:** again demographically major (~**14,000**) as
+  Mixtec-named **Sa’a Yucu** on lower slopes; Main Plaza deserted; Zapotec royal
+  palaces at Zaachila south of the old city.
+
+Clark (Formative entry): planned defensible city for a confederation government formed
+by alliance of leaders of various chiefdoms; factors prompting the alliance remain
+unknown; early state activity included conquest of neighboring chiefdoms as tributaries.
+Santley (Classic): conquest state dominating most of the southern highlands; craft-
+production center (ceramics, shell, stone) with regional distribution. **Atzompa**:
+important distinct barrio with its own political and administrative functions.
+
+**Zeitlin regional synthesis.** Within a century of founding Monte Albán replaced San
+José Mogote as principal settlement (~5,000). By end of Monte Albán I (200–100 B.C.)
+valley population ~**40,000**, nearly half at densely urban Monte Albán, with multitiered
+subsidiary hierarchy. Monte Albán II: stucco-paved Main Plaza, first of seven I-shaped
+ball courts, defensive wall complete; ~**19%** valley population decline attributed to
+outward colonization; ~50 Building J “conquest slabs.” **Debate:** some archaeologists
+deny an imperialistic Zapotec state at 200 B.C.–A.D. 300, placing state formation only
+in the Classic and reading Monte Albán II conflict as localized chiefdom strife. Early
+Classic: wary Monte Albán–Teotihuacan relationship (Zapotec barrio at Teotihuacan;
+Teotihuacan dignitaries on Monte Albán monuments). By end of Monte Albán III ~**25,000**
+of valley’s **80,000** at the capital; Main Plaza access restricted to upper class. From
+A.D. 750 (IV) capital deteriorates — population <4,000; Jalieza largest at 16,000;
+collapse partly linked to concurrent Teotihuacan disintegration. **Tomb 7**: reused
+Classic Zapotec vault for a Mixtec ruler with sacrificed servants and immense gold,
+silver, amber, coral, pearl, turquoise, and carved jaguar-bone goods.
+
+**Mortuary (Urcid).** At the A.D. 600–800 height, under-house tombs for household-head
+generations with continuous ancestor rituals — core of Zapotec notions of death (detail
+on [[zapotec]]).
+
+*part_of:* [[zapotec]] primary state · *preceded_by:* [[san-jose-mogote]] ·
+*followed_by:* Postclassic Sa’a Yucu / Zaachila dual landscape
+
 ## Historiography
 
 Alfonso Caso’s 1930s excavations; Building J decipherment tradition (Caso; Marcus place-
@@ -169,10 +232,17 @@ evolutionary synthesis; Snow et al. (2020) accessible overview; independence fro
 Teotihuacan stressed by Marcus 1983 and Cowgill. Founding-as-synoikism and “offensive”
 reading of the reservoir wall are interpretive positions.
 
+**Evans & Webster 2001.** Blanton’s signed Monte Albán entry is the densest single
+phase-by-phase demographic and institutional synthesis; Zeitlin’s Oaxaca–Tehuantepec
+article supplies the valley-wide population frame and the explicit early-imperialism
+debate; Urcid, Webster, and Clark fill mortuary, warfare, and confederation angles.
+
 ## Related
 
 [[zapotec]] · [[san-jose-mogote]] · [[mitla]] · [[mixtec]] · [[oaxaca-valley]] ·
-[[teotihuacan]] · [[mesoamerican-state-formation]] · [[mesoamerican-preclassic]] ·
-[[mesoamerican-writing-systems]] · [[mesoamerican-ball-game]] ·
+[[teotihuacan]] · [[mixteca-puebla-style]] · [[mesoamerican-state-formation]] ·
+[[mesoamerican-preclassic]] · [[mesoamerican-writing-systems]] ·
+[[mesoamerican-ball-game]] ·
 [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 8 (Marcus & Flannery)]] ·
-[[snow-gonlin-siegel-archaeology-native-north-america-2020]] · [[benjamin-cwh-v4-2015]]
+[[snow-gonlin-siegel-archaeology-native-north-america-2020]] · [[benjamin-cwh-v4-2015]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

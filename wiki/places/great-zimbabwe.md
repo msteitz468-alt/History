@@ -7,8 +7,8 @@ period_active: [High Middle Ages, Late Middle Ages]
 controlled_by: [the Shona state; preceded by Mapungubwe, succeeded by Torwa (Khami) and Mutapa]
 events_here: [foundation of the hill settlement (late 11th c.), construction of the Great Enclosure (14th c.), peak (15th c.), abandonment (late 15th c.)]
 processes_here: [[[indian-ocean-trade]], pastoralism, gold mining and trade]
-sources_ingested: 3
-last_updated: 2026-06-13
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [place, southern-africa, sub-saharan-africa, high-middle-ages]
 ---
 
@@ -112,6 +112,24 @@ lack precision. Cross-check with [[reader-africa-biography]] and [[gha-vol4-12th
 for updated evidence.
 
 Source: [[davidson-african-kingdoms-1966]]
+
+## Fagan & Durrani (2020): heyday, Chinese porcelain, and the contested Mapungubwe link
+
+Fagan & Durrani (2020) date Great Zimbabwe's **heyday to 1350–1450**, within the
+broader occupation span (pre-1250–c. 1450) already established above, with
+**abandonment after 1450**. Excavations recovered **imported Chinese porcelain**
+in Great Enclosure deposits — direct material evidence, alongside the Persian and
+Kilwa material in the Renders Ruin hoard noted above, of a trade reach extending
+as far as **East Asia**.
+
+They also flag archaeologist **Thomas Huffman's** hypothesis of a **direct
+dynastic link between Mapungubwe and Great Zimbabwe** — that Great Zimbabwe's
+ruling line descended from or displaced Mapungubwe's — explicitly as a
+**"controversial theory"**, not settled fact. This sits alongside (and sharpens
+the historiographical caution around) the Mapungubwe→Great Zimbabwe→Mutapa
+succession already described above via GHA IV and Reader.
+
+Source: Fagan & Durrani (2020), *World Prehistory: A Brief Introduction* (10th ed.).
 
 ## Related pages
 

@@ -9,7 +9,7 @@ affiliated_with: []
 opposed_by: []
 key_events: [[[events/founding-of-rome-753bce]]]
 key_processes: [[[processes/roman-expansion-italy]]]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, state, archaic-period, italy]
 ---
@@ -87,3 +87,11 @@ sixth century that lends some plausibility to the "Tarquin" phase — but cannot
 king-list, the regnal dates, or the individual reforms as narrated. Beard uses the regal
 material chiefly as a window onto Roman self-understanding. See [[sources/beard-spqr-2015]].
 Cf. [[actors/romulus]], [[periods/classical-antiquity]], [[actors/roman-republic]].
+
+## Woolf, Rome: An Empire's Story (2012)
+
+From [[woolf-rome-empires-story-2012]] Ch. I (roadmap).
+
+- Surviving regal accounts have a “mythic quality”; none written less than three centuries after the supposed foundation of the Republic—archaeology is “our only real control on these myths.”
+- A Roman monarchy is “probable enough” (archaic Mediterranean/Etruscan parallels; relics such as *Regia* and *interrex*), but “few of the details that have been passed down can be trusted.”
+- **Quote:** “Yet it is probable enough that Romans did have a monarchy. … But few of the details that have been passed down can be trusted.”

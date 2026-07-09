@@ -5,8 +5,8 @@ origin: A European intellectual movement of the late 17th–18th centuries (the 
 applies_to_periods: [Age of Expansion, Long 19th Century]
 applies_to_regions: [western-europe, eastern-europe, north-america, transregional]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-14
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -62,8 +62,16 @@ vocabulary of rights, progress, toleration, and reform that drove the
 [[abolition-of-slavery|antislavery]] movement, and modern liberalism — while provoking enduring
 counter-currents (Romanticism, conservatism, religious revival).
 
+## Exemplar: Gibbon’s philosophical history
+
+Attributed notes from the ingest of [[sources/gibbon-decline-and-fall-1776]]; not a full intellectual biography.
+
+- **[[gibbon-edward|Edward Gibbon]]** is a principal English expression of Enlightenment historical method applied to Rome: candid rational inquiry, secondary causes “with becoming submission,” irony toward clerical power, and a progressive-history coda (modern Europe as a republic of competing powers with gunpowder and military science as barriers against a second total submersion — see [[gibbonian-decline-thesis]]).
+- His self-positioning as proud of birth in a “free and enlightened country” and his refusal to transcribe martyr-torture catalogues until he knows “how much I ought to believe” illustrate the movement’s source-critical and anticlerical temper even when the subject is late antiquity.
+
 ## Related
 
 - [[absolutism]] — the *ancien régime* it criticized; [[scientific-revolution]] — the
   science it diffused; [[french-revolution-1789]] — its disputed political legacy.
 - [[age-of-expansion]] — the period; [[new-cambridge-modern-history-v7]] — the source.
+- [[gibbon-edward]] · [[gibbonian-decline-thesis]] · [[sources/gibbon-decline-and-fall-1776]]

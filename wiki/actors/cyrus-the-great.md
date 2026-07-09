@@ -9,8 +9,8 @@ affiliated_with: [[[achaemenid-empire]], the Persians, Anšan]
 opposed_by: [the Medes, Lydia (Croesus), [[neo-babylonian-empire|Babylon]] (Nabonidus), the Massagetae]
 key_events: [defeat of the Medes 550 BCE, conquest of Lydia, conquest of Babylon 539 BCE]
 key_processes: [[[empire]], [[state-formation]]]
-sources_ingested: 2
-last_updated: 2026-06-27
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [actor, person, archaic-period, iran-plateau]
 ---
 
@@ -74,6 +74,16 @@ later construction. The satrapal, tribute, and military land-tenure systems alre
 under Cyrus and Cambyses; Darius's innovation was fixing amounts, not inventing the
 [[achaemenid-tribute-economy|institutions]].
 
+## Scale and Style of Rule (Freeman)
+
+Charles Freeman ([[freeman-egypt-greece-rome-2014|*Egypt, Greece, and Rome*]], 2014)
+gives precise figures for the empire at Cyrus's death — roughly 4,000 km east-west,
+1,500 km north-south, some 6 million sq km, population estimated at ~35 million —
+and stresses a deliberately **light-touch model of rule**: Cyrus kept taxes
+relatively low, and his capital **Pasargadae** was "nothing like so lavish" as the
+Babylonian or Assyrian palaces it succeeded, a visible contrast to the terror/
+deportation model of [[neo-assyrian-empire|Assyria]].
+
 ## Historiography
 
 Cyrus is known through a blend of his own propaganda (the [[cyrus-cylinder|Cylinder]],
@@ -81,3 +91,9 @@ Babylonian sources), the favorable Hebrew Bible, and the Greek tradition
 ([[herodotus]], Xenophon's idealizing *Cyropaedia*) — sources that must be read for
 their agendas. The modern "Achaemenid history" school (see [[achaemenid-empire]]) has
 sharpened the line between the historical Cyrus and his many later idealizations.
+
+Source: [[freeman-egypt-greece-rome-2014|Freeman (2014)]].
+
+### Hall (2014) — Lydia and Ionia
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]: traditional date 547/6 for conquest of Croesus is questioned, but Sardis excavations confirm mid-sixth destruction. After Croesus’s fall ~half of Phocaea abandoned for Corsica (Hdt. 1.164–5); remaining Asiatic Greek cities entered the Persian Empire, which by the end of the sixth century stretched from Bulgaria to Afghanistan and Egypt/Libya. Persian imperial style: respect for local customs/religions if loyalty and tribute were met; reliance on local administrators benefited Ionian aristocracies; Miletus negotiated especially favorable status (Hdt. 1.141.4). This incorporation of Ionia after Lydian tributary conquest of coastal cities is the structural prelude Hall traces into the [[ionian-revolt-499bce|Ionian Revolt]] and [[greco-persian-wars-499bce|Persian Wars]].

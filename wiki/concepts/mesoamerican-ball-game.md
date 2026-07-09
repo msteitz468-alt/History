@@ -5,7 +5,7 @@ origin: "earliest ball court at Paso de la Amada, coastal Chiapas, c. 1400 BCE; 
 applies_to_periods: [Archaic Period, Classical Antiquity, Late Antiquity, High Middle Ages]
 applies_to_regions: [mesoamerica, caribbean]
 contested: no
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [concept, mesoamerica]
 ---
@@ -125,6 +125,65 @@ At [[monte-alban|Monte Albán]], a ballcourt appears among Protoclassic state in
 (Roman-numeral-I plan, ~41 m N–S, **no** Maya-style stone rings)—part of the package with
 palace, standardized temples, and kingship after ~200 B.C. (Marcus & Flannery 2000).
 
+## From Evans & Webster 2001 — Ball Game entry (Vernon Scarborough) and related
+
+### Distribution and scale
+
+Native American rubber-ball game on masonry courts by opposing teams ranged from the U.S.
+Southwest into the Amazon (~2,500,000 km²) and was played ≥2,000 years before European contact.
+Object: score by propelling ball into opposing end zone or through side ring/marker; hands
+forbidden (soccer-like). Evidence: courts, art, ethnohistory. Also casual recreation and heavy
+gambling. Aztec *tlachtli* played by nobility/warriors for goods/prestige; ~**16,000 rubber
+balls** imported annually into Tenochtitlan. Maya area: zenith of elaboration; **>2,000**
+masonry courts identified.
+
+### Form, equipment, courts
+
+Most widespread form = **hip-ball** with rubber ball; sloping benches keep ball aloft.
+Postclassic courts often had vertical stone rings tenoned in upper side walls. Equipment:
+padded hip girdles (stone *yugos*/yokes as replicas, esp. Classic Gulf/S Pacific); knee pads;
+*hacha* and *palma* (Gulf Lowlands/[[soconusco|Soconusco]], Middle Classic–Early Postclassic),
+often offerings; function of palma/hacha as breastplates or sticks uncertain; iconography
+emphasizes sacrifice and fertility.
+
+Basic court: elongated alley with parallel side walls/benches, open end zones; often central
+precinct. Taladoire typology: 14 types. Distinctive **I-shaped** courts from Casas Grandes
+(N Chihuahua) to Copán; open-ended and *palangana* forms also common (*palangana* early at
+San Lorenzo late Olmec). Sunken courts at Cerros (Belize) and Monte Albán from Late Formative.
+Hohokam (A.D. 700–1250) mounded-clay side courts; guayule balls. Antillean game by A.D. 700
+with large teams—origins more Taíno/S American than mainland hip-ball; Stern suggests ultimate
+Amazonia origin of the rubber-ball game.
+
+### Earliest court and multiple-court centers
+
+Earliest known Mesoamerican ball court at **Paso de la Amada** (Mazatan/Soconusco), constructed
+**1400–1300 B.C.** (Michael Blake). Rubber balls at **El Manatí** show Olmecs played a version
+of the game (David C. Grove). Multiple courts common at large centers: Chichén Itzá (13),
+Kaminaljuyú (12), El Tajín (11), Monte Albán (8), Los Horcones (5), Rana (5), Tikal (3,
+including a triple court). **No ball court discovered at Teotihuacan**, though Tepantitla
+murals show formal-court play; informal earthen courts would leave little trace. La Ventilla
+(Teotihuacan) stone staff marker similar to one at Tikal—possible Early Classic highland
+influence. **Cantona** has twenty-four ball courts including complex aligned pyramid–plaza
+ensembles. Great Ball Court at Chichén Itzá (168×70 m) is among the largest; relief panels of
+victorious captains decapitating opponents. Copán ball court is second largest in Maya Lowlands.
+At **El Tajín** the ball game was core ritual expression—courts as urban and religious focal
+points (unlike cities with 1–2 adjunct courts); only earlier El Pital may match court
+number/intensity (S. Jeffrey K. Wilkerson).
+
+### Gambling and conflict mediation
+
+Gambling widespread: goods, land, cacao/mantles, slaves, even personal indenture; chronicler
+claimed kingdom at stake (unlikely honored) but shows political overtones. Of 16 Valley of
+Oaxaca courts in Monte Albán II times, **11 on the valley periphery** during population
+expansion—possible boundary mediation. Hohokam and some Maya Lowland hinterlands placed courts
+on outskirts vs core-center placement. Late Classic Saltillo (Tehuantepec): ballplayer
+figurines and multiple decapitated heads suggest participation in coastal lowland sacrificial
+ball-game cult (Zeitlin). Aztec *patolli* (52-square dice game) and *tlachtli* both carried
+heavy wagers (Martin Wasserman).
+
+Source: [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]
+(Ball Game; Mazatan; Games and Gambling; El Tajín; Olmec; Oaxaca).
+
 ## Critique and Limitations
 
 The iconographic identification of ball-game scenes is generally secure, but the degree to
@@ -139,4 +198,6 @@ exception confirming Formative rubber use.
 
 [[mesoamerica-culture-area]] · [[olmec]] · [[san-lorenzo-olmec]] · [[el-tajin]] ·
 [[maya-civilization]] · [[monte-alban]] · [[chichen-itza]] · [[aztec-empire]] ·
-[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]]
+[[soconusco]] · [[northern-arid-zone]] ·
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

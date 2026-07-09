@@ -9,8 +9,8 @@ affiliated_with: [christianity, egyptian-monasticism, alexandria]
 opposed_by: [the Chalcedonian (Melkite) imperial church, Constantinople]
 key_events: [[[council-of-chalcedon-451]]]
 key_processes: [[[christianization-of-the-roman-empire]], [[egyptian-monasticism]]]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, institution, late-antiquity, north-africa, egypt]
 ---
 
@@ -67,3 +67,9 @@ from the empire on the eve of the Persian and Arab invasions.
   [[athanasius-of-alexandria]] · [[alexandria]] · [[arab-conquest-of-egypt-641]] ·
   [[christianization-of-the-roman-empire]]
 - Source: [[sources/bagnall-rathbone-egypt-alexander-copts-2004]]
+
+## From Tannous (2018)
+
+The [[coptic-church|Coptic]] community is a major Miaphysite case of the simple-believer and long-majority Christian experience under early Islam; Egypt appears throughout Tannous’s Fertile Crescent–centered study as parallel evidence for confessional competition, conversion dynamics, and [[islamization-of-the-middle-east|Islamization]]’s gradualness.
+
+- Source: [[tannous-making-medieval-middle-east-2018]]

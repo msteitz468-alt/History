@@ -8,8 +8,8 @@ region: [global, near-east, levant, east-asia, europe]
 process_type: [social, economic, demographic]
 driven_by: ["resource-rich localities", "[[agricultural-origins]]", "storage and investment in place"]
 produces: ["villages and households", "population growth", "emergent inequality", "[[neolithic-communities]]", "[[agriculture-and-urbanism|urbanism]]"]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, neolithic, global]
 ---
 
@@ -50,6 +50,18 @@ mother "could only carry one baby"); but also concentrated refuse, vermin,
 contaminated water, and disease (see [[agriculture-and-human-health]]). Crucially,
 long-term **investment in a fixed place and its land** created issues of
 ownership and inheritance — "the seedbed for emergent inequalities" (Bogaard).
+
+## Preadaptation framing (Fagan & Durrani 2020)
+
+Fagan & Durrani (2020) place sedentism at the center of their explanation for why
+farming began at all: many late Ice Age/early Holocene hunter-gatherer societies
+were **"preadapted"** to food production by prior sedentism, intensified resource
+exploitation, and storage technology — sedentism, storage, and intensification
+*preceded and enabled* farming rather than following from it. Their exemplar is
+the **Koster site** (Illinois), which documents long-term intensification of a
+single locality from ~7500 BCE to AD 1200. On this reading, the shift to food
+production is continuous with deepening forager sedentism rather than a sharp
+Neolithic break (see [[agricultural-origins]]). (Fagan & Durrani 2020)
 
 ## Interaction
 

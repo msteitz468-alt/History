@@ -14,8 +14,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the long Ottoman encirclement of a shrunken Byzantium, Mehmed II's gunpowder siege technology, the failure of western/crusade aid, Byzantine and Orthodox division over Church union]
 consequences: [the end of the [[byzantine-empire|Byzantine Empire]], the Ottoman Empire as heir of Rome, the Orthodox Church under the sultan, Moscow as "Third Rome", a spur to Italian humanism and to Atlantic exploration]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [event, transition, late-middle-ages, near-east, balkans]
 ---
 
@@ -74,6 +74,29 @@ its head, assumed all power," opening a generation of relentless **holy war** an
 deflates the western myth of 1453 as a cosmic rupture, stressing continuity for the Roman Orthodox
 under a new *taxis* (order) — though he acknowledges the date's enduring symbolic weight.
 
+## Islamic perspective (Cobb 2014)
+
+[[cobb-race-for-paradise-2014|Cobb]] places the conquest in the Ottoman *ghazi*-to-empire arc.
+**Mehmed II** (succeeded 1451; later *Fatih Sultan Mehmed*) had final conquest of Constantinople as
+goal from the outset. In **1452** he completed **Rumeli Hisar** on the European Bosporus opposite
+Anadolu Hisar, cutting Black Sea supplies and securing Straits crossings; villages around the city
+were cleared. Constantine XI likened neighborliness to “the falcon and the crow.”
+
+By early **April 1453** the city was surrounded. Mehmed offered Constantine surrender with security
+of lives and property — refused. Genoese of Pera pledged neutrality while supplying both sides;
+Venetians sided with Byzantium. Siege stalled: mining near Blachernae failed; cannon unreliable
+against walls; Golden Horn blocked by chain and Venetian ships. In late April Mehmed ordered
+overland portage of ~**70 ships** on greased timber rollers from Diplokionion across land north of
+Pera into the Golden Horn, overstretching defenses. Before dawn **29 May**, a first assault wave
+mostly from Christian allies under Ottoman cannon; capture of a small gateway near Blachernae ended
+resistance. Siege lasted **fifty-four spring days**; ~**4,000** said killed including Constantine XI,
+last emperor of New Rome (hedge casualty figure). Traditional three days’ pillage followed; Mehmed’s
+procession to Hagia Sophia, adapted into a mosque; first Friday prayers invoked the sultan.
+Successors adorned Istanbul with palaces, mosques, madrasas and repopulated with Christian, Muslim,
+and Jewish subjects; by **1500** the largest city in Europe — “the final ingredient” transforming a
+*ghazi* confederation into a world empire. In Cobb’s epilogue, 1453 helps close the Mediterranean
+Frankish problem that Granada 1492 ends as an Islamic-history endpoint.
+
 ## Mehmed the Conqueror and the new Rome (Kinross)
 
 Lord Kinross's [[kinross-ottoman-centuries|*The Ottoman Centuries*]] frames the conquest as the
@@ -85,9 +108,23 @@ mosaics and re-establishing the **Greek Orthodox Patriarchate** under his protec
 conquest into an imperial and multi-confessional order. The fuller portrait is on
 [[mehmed-ii]].
 
+## From Gibbon, *Decline and Fall* (Chs. LXV, LXVIII)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]]; not asserted as modern fact.
+
+- **Accidental delay by Timur.** Gibbon frames [[timur|Timur]]’s victory over Bayezid as an “important, though accidental, service”: Bajazet would have “devoured” the city but for a stronger scourge; fall delayed about **fifty years**. The Tartar “followed the impulse of ambition”; deliverance was not a march to relieve the Greeks.
+- **Rumeli Hisar as undeclared siege.** European-shore fortress (Asomaton / Rumeli Hisar) with a thousand masons; Mehmed’s retort that the empire of Constantinople “is measured by her walls”; cannon tribute on shipping before formal operations.
+- **Overland fleet.** When land attack alone seemed hopeless, Mehmed transported lighter vessels ~ten miles over greased planks into the upper Golden Horn in a night — genius, Gibbon says, whose real importance was magnified by consternation (he demystifies the “miracle” with ancient and modern parallels).
+- **Immediate tactical hinge.** Immediate loss “ascribed to the bullet, or arrow, which pierced the gauntlet of John Justiniani”; his withdrawal and retort stained his fame and was imitated as the defence slackened.
+- **Last Constantine.** After **fifty-three days** the city that had defied Chosroes, the Chagan, and the caliphs was “irretrievably subdued”; Constantine cast away the purple and fell by an unknown hand. “The distress and fall of the last Constantine are more glorious than the long prosperity of the Byzantine Caesars” — his last speech as “funeral oration of the Roman empire.”
+- **Western counterfactual.** Five Christian ships broke the Turkish crescent; a “rational and moderate armament of the marine states might have saved the relics of the Roman name” — yet this was the sole feeble attempt.
+- **Discord thesis (via Ducas).** Crowds fled to St. Sophia trusting an angelic deliverance prophecy; even if an angel offered safety conditional on church union, Ducas (as Gibbon quotes him) holds the Greeks would still have rejected it — anti-union obstinacy to the end.
+- **1204 vs 1453.** Empire “only” subverted by the Latins; religion “trampled in the dust” by the Moslem conquerors (Gibbon’s contrast of the two falls).
+
 ## Related
 
 - [[mehmed-ii]] — the Conqueror; his fuller biography.
 - `caused_by:` the [[ottoman-empire|Ottoman]] gunpowder ascendancy under Mehmed II; `produced:` the end of the [[byzantine-empire|Byzantine Empire]].
 - `concurrent_with:` the [[ivan-iii-vasilyevich|rise of Muscovy]] (the "Third Rome") and the Italian [[renaissance-humanism|Renaissance]] (the Greek émigrés).
 - `contrasts_with:` the [[fall-of-granada-1492|fall of Granada]] (1492); `contributed_to:` the [[age-of-discovery|age of discovery]].
+- [[cobb-race-for-paradise-2014]] · [[sources/gibbon-decline-and-fall-1776]]

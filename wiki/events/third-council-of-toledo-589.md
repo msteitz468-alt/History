@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["Reccared's personal conversion to Catholic Christianity (587)", "Leovigild's failed attempt to unify Spain under Arianism", "The need to reconcile the Gothic ruling class with the Gallo-Roman/Hispano-Roman majority"]
 consequences: ["Formal conversion of the Visigoths and Sueves to Catholicism", "Alliance of the Visigothic Monarchy and the Catholic Church", "Integration of bishops into state administration and law-making", "Establishment of the filioque clause in the western creed", "Anti-Jewish legislation in Visigothic Spain"]
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [event, late-antiquity, iberia]
 ---
 
@@ -64,9 +64,22 @@ The council fundamentally reshaped the Visigothic state:
 
 ---
 
+## Historiography
+
+The council is well documented in Visigothic conciliar acts and chronicles (John of Biclaro; [[isidore-of-seville|Isidore]]). Older national-Catholic narratives treated 589 as Spain’s confessional founding; modern work stresses political pragmatism after Hermenegild’s war, the incomplete immediate conversion of Arian holdouts, and the later trajectory of anti-Jewish legislation under the Catholic monarchy. Logan’s textbook account is a compressed synthesis of the official-religion decision and its Frankish parallel ([[clovis|Clovis]]).
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+- **R1-031:** After Leovigild’s persecution following son Hermenegild’s conversion (579), Recared I (586–601) converted and summoned bishops to Toledo; the Third Council of Toledo (589) made Catholicism the official religion of the Visigothic state; Visigoths generally quickly adopted the Catholic faith despite some Arian holdouts.
+  - Quote: "There at the Third Council of Toledo (589) Catholicism became the official religion of the Visigothic state."
+  - Link labels: preceded_by Clovis’s Catholic model / Frankish pressure; followed_by Visigothic anti-Jewish policies (see [[isidore-of-seville]]).
+
+Source: [[logan-history-of-the-church-in-the-middle-ages-2013]]
+
 ## Related Pages
 
-*   **Actors**: [[reccared-i]] · [[leovigild]] · [[germanic-peoples]]
+*   **Actors**: [[reccared-i]] · [[leovigild]] · [[germanic-peoples]] · [[isidore-of-seville]] · [[clovis]]
 *   **Places**: [[rome]]
 *   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]; the contemporary chronicles
-    (John of Biclaro, Isidore) are now ingested in **[[wolf-conquerors-chroniclers-spain]]**.
+    (John of Biclaro, Isidore) are now ingested in **[[wolf-conquerors-chroniclers-spain]]**; [[logan-history-of-the-church-in-the-middle-ages-2013]]
+

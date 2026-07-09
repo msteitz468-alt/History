@@ -5,8 +5,8 @@ origin: a forged document produced in the Frankish-papal milieu of the 8th centu
 applies_to_periods: [Early Middle Ages]
 applies_to_regions: [mediterranean, western-europe]
 contested: no
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -54,3 +54,7 @@ its precise intended use remain debated among specialists.
 The text itself is now ingested (as "The Edict of Constantine to Pope Silvester") in
 **[[edwards-constantine-and-christendom|Constantine and Christendom]]** (TTH 39), alongside the related
 Constantinian legends — the *Oration to the Saints* and the *Discovery of the Cross*.
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Logan: a forgery drawn up at the **Lateran**, quite possibly in the **early 770s**, purporting to be a fourth-century grant by Constantine to Pope Sylvester I of authority over Rome, Italy, and the western regions; likely aimed more at **Byzantine** claims than Germanic kings; **no evidence of eighth-century deployment**; later treated as prima facie papal supremacy (popes unaware of forgery); Lorenzo Valla proved forgery in the fifteenth century. **Pseudo-Isidore** later transmitted it. Situated within the [[franco-papal-alliance]] and [[the-papacy-eighth-ninth-centuries]] temporal-claims story rather than as a working 750s diplomatic tool.

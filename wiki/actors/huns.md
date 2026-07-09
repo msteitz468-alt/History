@@ -9,7 +9,7 @@ affiliated_with: [steppe-nomad confederations; subject Gothic, Alan and Germanic
 opposed_by: [the Goths, the Roman Empire (eventually); employed as Roman allies c. 400–420s]
 key_events: [the subjugation of the Alans and Goths (c. 370–376), the Caucasus raid of 395, the move to the middle Danube (c. 410)]
 key_processes: [the displacement of the Germanic peoples, the formation of Attila's empire]
-sources_ingested: 3
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, movement, late-antiquity, eurasian-steppe, eastern-europe]
 ---
@@ -88,3 +88,21 @@ Kim's central and more far-reaching thesis — presented as his own interpretive
 - `contrasts_with:` the settled [[sasanian-empire|Sassanid]] state and the semi-settled
   [[germanic-peoples|Germanic confederations]]
 - Source: [[cameron-cah-v13-1998]] (Ch. 16, Peter Heather); [[sources/heather-fall-roman-empire-2005|Heather, *The Fall of the Roman Empire* (2005)]]; [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]]
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]] (Chs. XXVI, XXXI, XXXIV–XXXV).
+
+- **China and migration.** “The Huns, who under the reign of Valens threatened the empire of Rome, had been formidable, in a much earlier period, to the empire of China”; after Chinese/Sienpi pressure and schism, warlike Huns moved west of the Volga, defeated the Alani, invaded Hermanric’s Gothic empire—“the invasion of the Huns precipitated on the provinces of the West the Gothic nation.”
+- **Gothic ethnographic portrait.** Gibbon reports Gothic horror-portrait of Hunnic physiognomy and manners (Ammianus-derived coloring) as the literary image of the people.
+- **Auxiliaries.** Stilicho’s Hun guards cut down at Bologna; Gennerid brought ~10,000 Huns to the Illyrian frontier; many thousand Huns under Alaric in 410 “strangers to the name, or at least to the faith, of Christ.”
+- **Attila’s empire.** United Germany and Scythia; reported field armies of 500–700,000; desolated Europe from Euxine to Adriatic; seventy Eastern cities; Catalaunian Fields and Italian campaign; empire dissolved after Attila’s death—“his genius alone had sustained it.”
+- **Structural role.** In Gibbon’s causal chain for 378: northern pastoral motion → Huns drive Goths → Valens admits nation → Lupicinus’s greed → Adrianople as start of the “disastrous period of the fall.”
+
+## From Mitchell, Later Roman Empire (2015)
+
+**Ammianus’ ethnography as stereotype.** Ammianus’ famous Hun excursus “should not be interpreted too literally”: he presents Huns according to a familiar ethnographic schema (nomad vs settled; Herodotean Scythian template). They were racially distinct from the Germanic peoples; Ammianus may overstate Hun pressure as sole cause of the 376 Gothic Danube crossing. Early Huns operated in bands under improvised chiefs, not a coherent kingdom; first named leader **Uldin** (kills Gainas 400; helps defeat Radagaisus 405/6; 408 Dacia boasts).
+
+**Attila–Bleda extraction regime (435–450).** From Rua’s succession (435) and the Margus treaty (439): no fugitives, ransom 8 solidi, no Roman support for Hun enemies, markets, 700 lb gold annual peace (from 350). After 447 Chersonesus defeat and earthquake-damaged Constantinople walls: 6,000 lb arrears, 2,100 annual, 12 lb/prisoner. Economy = Danubian booty + tribute + ransoms + embassy gifts + frontier trade (horses, skins, furs, slaves for Roman luxuries); cash recirculated at fairs (Margus, Viminacium, Naissus, Cherson). Appeasement was cheaper than war for the East. “From 435 to 450 the Huns milked the eastern Roman Empire for everything they could extract.” Post-Attila sons were denied Danube markets under Leo.
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell, *A History of the Later Roman Empire* (2015)]].

@@ -7,8 +7,8 @@ period_active: [Late Middle Ages, and earlier/later]
 controlled_by: ["local Muslim sultanate/queens (14th c.)", "various Indian Ocean powers"]
 events_here: []
 processes_here: ["indian-ocean-trade", "islamization-of-indian-ocean"]
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [place, indian-ocean, south-asia, late-middle-ages]
 ---
 
@@ -19,6 +19,11 @@ Chain of atolls in the Indian Ocean south-west of India and Sri Lanka, an import
 ## 14th-century Description (Ibn Battuta primary)
 
 The islands were already Muslim. Local economy relied on cowrie shells (used as currency across the Indian Ocean and West Africa), coconut products, and inter-island trade. Ibn Battuta describes the queen's court, the vizier, the use of palm-leaf writing, the judge's revenue, marriage customs, and the rapid Islamization narrative current on the islands. He himself married locally and exercised judicial authority.
+
+Chiara Formichi ([[formichi-islam-and-asia-2020]]) dates the Maldives Sultanate to the mid-twelfth
+century and highlights its matrilocal, women-dominated trade society, capped by a succession of
+female rulers — Ibn Battuta served as qadi under **Sultana Khadija** (r. 1347–1379), the ruler he
+found in place on arrival.
 
 ## Significance
 

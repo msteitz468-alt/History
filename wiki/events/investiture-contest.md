@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [[[gregorian-reform]], "the doctrine of the libertas ecclesiae", "the practice of lay investiture and prelates' homage to kings", "Gregory VII's assertion of papal supremacy (Dictatus Papae, 1075)"]
 consequences: ["the Concordat of Worms (1122)", "the separation of spiritual and lay authority", "the weakening of the German monarchy and the rise of the princes", "the consolidation of the papal monarchy", "a durable papal–imperial rivalry"]
-sources_ingested: 1
-last_updated: 2026-06-14
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, high-middle-ages, western-europe, mediterranean]
 ---
 
@@ -88,6 +88,10 @@ a wider transformation of Church and society. The thematic treatment here (Part 
 Robinson) is complemented by the political narrative in Part 2 (Blumenthal on the
 papacy; Vollrath on the Salians).
 
+### Logan (2013)
+
+[[logan-history-of-the-church-in-the-middle-ages-2013|Logan]] holds that **neither side was simply right**; conflict took **30+ years of compromise**. Beyond simony and married priests, Gregory attacked lay investiture (ring and staff while ecclesiastics held lands from kings). Papal claims shifted Gelasian dual-key imagery to God granting both keys to the pope, who gives one to the emperor — implying deposition power. First week of **Lent 1075**, a Roman synod condemned receiving bishoprics/abbeys from lay hands. Henry’s **Milan** intervention triggered Gregory’s **8 December 1075** threat; mutual depositions followed. After Gregory’s death, **Urban II** lowered rhetoric; **Paschal II (1099–1118)** in February **1111** ordered German bishops and abbots to return temporal possessions so the church would be free, dependent on free-will offerings — among the “boldest” medieval papal gestures; vested interests, especially German bishops, defeated it. Settlement came only with [[concordat-of-worms-1122|Worms 1122]], and then tenuously.
+
 ## Related
 
 - `part_of:` [[gregorian-reform]]
@@ -95,3 +99,5 @@ papacy; Vollrath on the Salians).
 - [[gregory-vii]], [[henry-iv-holy-roman-emperor]], [[dictatus-papae]] — protagonists and manifesto.
 - [[papal-monarchy]], [[salian-dynasty]] — the institutions transformed.
 - [[luscombe-ncmh-v4-2004]] — the backbone source (Part 1 ch. 8–11 on the church and reform).
+- [[logan-history-of-the-church-in-the-middle-ages-2013]]
+

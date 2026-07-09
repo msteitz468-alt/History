@@ -9,8 +9,8 @@ affiliated_with: [the north coast of Peru, the Moche Valley, the capital [[chan-
 opposed_by: [the [[inca-empire|Inka]] (who conquered Chimor c. 1470)]
 key_events: [the rise of the Kingdom of Chimor, the building of Chan Chan, the Inka conquest of the north coast]
 key_processes: [[[andean-state-formation]]]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, state, late-middle-ages, andes]
 ---
 
@@ -47,9 +47,24 @@ of Trujillo) blending myth and king-list — a prime case for the **myth/history
 Salomon raises in the volume's source-criticism chapter. Archaeology of Chan Chan (Moseley,
 Day, and others) underpins most reconstructions of Chimú political economy.
 
+## Split Inheritance and the Chimú–Inka Institutional Link (Fagan & Durrani 2020)
+
+Fagan & Durrani (2020) read **Chan Chan's nine large walled royal-palace compounds** as direct
+architectural evidence for the Chimú institution of **split inheritance**: each compound was a
+single ruler's palace which, on his death, became his tomb and remained the property of his
+descendants, so that an incoming ruler inherited none of his predecessor's estate and had to
+acquire fresh lands and wealth through his own conquests. Chimor controlled at least **twelve
+river valleys** (~50,600 ha of cultivated land) and practiced **forced resettlement** of
+conquered populations along its road network. Fagan & Durrani treat both split inheritance and
+forced resettlement as institutions later shared with — and expanded by — the [[inca-empire|Inka]]
+(who conquered Chimor in the 1460s): for the Inka, [[pachacuti|Pachakuti]]'s formalization of
+split inheritance and the royal-mummy cult became the structural engine of continuous imperial
+expansion. This makes Chimor the clearest documented Andean case of a governing institution
+passing from a conquered predecessor into the practice of its conqueror (`analogous_to` the Inka).
+
 ## Related
 
 - Capital: [[chan-chan]]
 - Heir to [[moche]]; part of [[andean-state-formation]]
-- Conquered by [[inca-empire]]
-- Source: [[cambridge-history-native-peoples-americas-v3-1]]
+- Conquered by [[inca-empire]]; shared split-inheritance and forced-resettlement institutions
+- Sources: [[cambridge-history-native-peoples-americas-v3-1]]; Fagan & Durrani, *World Prehistory: A Brief Introduction* (10th ed., 2020)

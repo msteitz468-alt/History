@@ -8,8 +8,8 @@ region: [global]
 process_type: [economic, demographic, technological, environmental]
 driven_by: ["[[younger-dryas]] and Holocene climate change", "population dynamics", "social competition and feasting", "pre-domestication cultivation", "ideological/ritual change"]
 produces: ["[[neolithic]] village life", "[[sedentism]]", "demographic expansion", "emergent inequality", "[[agriculture-and-urbanism|urbanism]]", "[[domestication]]"]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, neolithic, global]
 ---
 
@@ -105,6 +105,74 @@ The reframing of agricultural origins from a single "Neolithic Revolution" to a
 plural, contingent, non-linear process is the central historiographical
 achievement of this volume — see [[neolithic-revolution]] for the conceptual
 history and [[why-did-agriculture-begin]] for the live debate.
+
+### The theory sequence: Childe → Braidwood → the "recovery revolution" → multicausal synthesis (Fagan & Durrani 2020)
+
+Fagan & Durrani (2020) frame the modern debate as a succession of rival models,
+each eventually undercut by better evidence:
+- **V. Gordon Childe's "Oasis"/Agricultural Revolution thesis** (1930s) held that
+  post-Ice-Age desiccation in Southwest Asia forced humans, animals, and plants
+  into symbiotic concentration around oases (e.g. the Jordan Valley), sparking
+  domestication: "the arid conditions brought animals, humans, and plants into
+  a close symbiosis... creating favorable conditions for hunter-gatherers to
+  experiment with cereal grasses and with herding wild goats and sheep."
+- **Robert Braidwood's "Hilly Flanks" rebuttal** (1950s), from a multidisciplinary
+  Zagros expedition, found *increased* forest cover and rainfall after the Ice
+  Age — no oasis-desiccation signal — and argued domestication began in
+  resource-poorer highland margins rather than lush lowland centers: "agriculture
+  began on the flanks, not in the center."
+- The **"recovery revolution"** in method — systematic flotation for carbonized
+  seeds, zooarchaeology, multidisciplinary paleoclimate reconstruction, and above
+  all **AMS radiocarbon dating** (from 1983, capable of dating individual seeds
+  and small samples) — transformed the evidence base and undercut both Childe's
+  and Braidwood's simple single-cause models.
+- Fagan & Durrani's own position is an explicit **multicausal, ecological
+  synthesis with no single "invention"**: "no one ever 'invented' agriculture...
+  Nor did a single society 'invent' agriculture, for farming appeared at widely
+  different times in many parts of the world... Most scientists believe that a
+  set of complex cultural and environmental factors combined with population
+  growth to cause societies in widely separated parts of the world to shift from
+  foraging to food production." Food production is framed as a form of **risk
+  management** — cultivating and domesticating familiar species to buffer
+  against drought, seasonal shortfall, and population pressure that had begun to
+  limit the older strategy of simply moving away.
+- This 2020 account rejects the older "genius inventor" (Victorian) narrative of
+  agricultural origins outright as unscientific, and stresses that many
+  scholarly debates remain genuinely **unresolved rather than adjudicated** —
+  e.g. drought-driven vs. ritual-driven causation at the Göbekli Tepe cluster in
+  Southwest Asia (see [[early-agriculture-southwest-asia]]), and Urfa-highland
+  vs. Euphrates/Jordan-valley priority for first domestication ("we do not yet
+  know"). The term "Fertile Crescent" (coined by Henry Breasted in the 1920s) is
+  noted as having "fallen into disuse" in specialist literature but retained as
+  useful shorthand. (Fagan & Durrani 2020)
+
+### Kent Flannery's ecological-systems model
+
+Flannery's Guilá Naquitz work (Oaxaca, Mexico, 8000–4000 BCE) modeled subsistence
+as an interacting "systems" ecology (deer, rabbits, maguey, legumes, prickly
+pears) in which deliberate small-scale planting of maize and other crops
+gradually displaced foraging as the dominant procurement strategy, becoming
+self-perpetuating with its own scheduling demands and reaching a fully
+agricultural bean-and-corn diet by 2000 BCE — see
+[[early-agriculture-americas]] and [[maize-domestication]]. (Fagan & Durrani 2020)
+
+### Preadaptation: sedentism and intensification before farming
+
+A distinctive emphasis of the 2020 edition: many late Ice Age/early Holocene
+hunter-gatherer societies were **"preadapted"** to food production by prior
+sedentism, intensified resource exploitation, and storage technology — exemplified
+by the Koster site (Illinois), which documents long-term intensification from
+~7500 BCE to AD 1200. Food production is thus framed as continuous intensification
+rather than a sharp break — see [[sedentism]]. (Fagan & Durrani 2020)
+
+### Nutrition and quality-of-life revisionism ("farming ≠ progress")
+
+Fagan & Durrani (2020) also record a body of revisionist scholarship challenging
+the "farming = progress" narrative: economist Ester Boserup argued that farming
+brought diminishing labor returns; Richard Lee's studies of the !Kung San showed
+hunter-gatherers enjoying more leisure than farmers; and skeletal/paleopathological
+studies of early farming populations show anemia, slower growth, and possibly
+*declining* life expectancy compared with foragers.
 
 [[diamond-guns-germs-and-steel-1997|Diamond]] turns this process into the *ultimate*
 cause of the modern world's inequalities: because only a few regions held rich suites

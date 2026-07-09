@@ -9,8 +9,8 @@ affiliated_with: [[[amorites|the Amorites]]]
 opposed_by: [Larsa, Eshnunna, [[elam|Elam]], the Sealand dynasty, the [[kassites|Kassites]], the [[hittites|Hittites]]]
 key_events: [Hammurabi's unification of Sumer and Akkad (~1763 BCE), Samsuiluna's southern revolt and loss of the Sealand, the [[fall-of-babylon-1595bce|Hittite sack of Babylon]] (~1595 BCE)]
 key_processes: [[[state-formation]], [[imperialism]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, dynasty, middle-bronze-age, mesopotamia]
 ---
 
@@ -79,6 +79,13 @@ Selected claims illuminating the First Dynasty of Babylon's legal, land, and com
 
 ## Historiography
 
+Charles Freeman ([[freeman-egypt-greece-rome-2014|*Egypt, Greece, and Rome*]], 2014)
+states plainly the now-standard reframing of Hammurabi's stele: "as with many such
+texts, its purpose is now seen as royal propaganda rather than a system of laws per
+se. There are no references in other Babylonian law cases to the code" — the
+inscription records cases the king believed he resolved wisely, not enforceable
+general statute, nuancing the older "first law code" framing.
+
 Reconstructed from date-formulae, the few royal inscriptions, the
 [[hammurabi|Hammurabi]] and successor letters, later king-lists and chronicles, and
 the Mari archive for the peak. The chronology of the whole dynasty — and with it the
@@ -102,4 +109,4 @@ These claims document the social order (*awīlum/muškēnum/wardum* equivalents 
 - People: [[amorites]] · King: [[hammurabi]] · Followed by: [[kassites]]
 - Rival: [[elam]] · [[zimri-lim|Mari]] · the Sealand dynasty · Ended by: [[fall-of-babylon-1595bce]] ([[hittites]])
 - Concept: [[interpolity-law]] · [[sumerian-king-list]] · [[mesopotamian-chronology]]
-- Period: [[middle-bronze-age]] · Source: [[edwards-cah-v2p1-1973]]
+- Period: [[middle-bronze-age]] · Source: [[edwards-cah-v2p1-1973]] · [[freeman-egypt-greece-rome-2014|Freeman (2014)]]

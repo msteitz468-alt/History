@@ -18,8 +18,8 @@ produces:
   - "Diasporas and new composite communities"
   - "Heightened salience of racial and ethnic identities (modern era)"
   - "Urbanization (rural-to-urban migration)"
-sources_ingested: 2
-last_updated: 2026-06-10
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, demographic, global]
 ---
 
@@ -113,6 +113,10 @@ trade"), which induced or enforced labor, refugee, and settler migrations on a
 global scale, and produced the Atlantic slave system, settler-colonial
 "repeopling," and new métis and creole populations. This is the demographic engine
 of the [[early-modern|construction of a global world]].
+
+## Fagan & Durrani (2020): "two great radiations"
+
+Fagan & Durrani (2020) frame the whole span of Paleolithic dispersal as **"two great radiations of humanity."** The first is the Out of Africa dispersal itself; the second — the subject of their chapter on the "Diaspora" — is the settlement of the Americas, which they treat as the event that completes the global diaspora of *Homo sapiens*, rendering the human radiation "nearly complete" and setting the stage for the subsequent, qualitatively different processes of food production, village life, urban civilization, and the (much later) settlement of the remote Pacific. This is consistent with, and reinforces, the two-event structure ([[out-of-africa-1-1800kbp]] and [[out-of-africa-2-60kbp]]) already used above, while adding the explicit framing device of "two radiations" and identifying the peopling of the Americas as the closing chapter of the second.
 
 ## Note on Method
 

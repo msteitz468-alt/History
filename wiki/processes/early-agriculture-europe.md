@@ -8,8 +8,8 @@ region: [europe, mediterranean, balkans, western-europe, northern-europe, easter
 process_type: [economic, demographic, cultural, ideological]
 driven_by: ["diffusion of the SW Asian package via leapfrog colonization + assimilation", "[[agricultural-origins]]"]
 produces: ["the European Neolithic (LBK and regional traditions)", "longhouse villages, monuments, and 'materiality'", "the agrarian base of later European prehistory"]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, neolithic, europe]
 ---
 
@@ -85,6 +85,18 @@ exemplifies the richness of European evidence:
   of **violence**;
 - farmers living only a few days' travel from **forager neighbours** — the
   forager–farmer frontier was **porous and long-lived**.
+
+## Bandkeramik chronology and the plow (Fagan & Durrani 2020)
+
+Fagan & Durrani (2020) date the appearance of the **Bandkeramik (Linear Pottery)
+culture** on the Middle Danube to ~5300 BCE, from where it spread to Holland and
+Ukraine; villages held 40–60 people with territories of roughly 202 ha. They note
+a possible **Black Sea flood event** (~5500 BCE, the Euxine Lake breach) as a
+driver of inland migration up the Danube. Later, the **plow** was introduced to
+Europe by ~2800 BCE, alongside a shift from communal to individual burial and
+emerging hereditary chieftainship — developments visible in the megalithic
+monument landscape at **Avebury** (built ~2550 BCE) and **Silbury Hill** (~2200
+BCE, built in late summer per anthill/sod evidence). (Fagan & Durrani 2020)
 
 ## Interaction
 

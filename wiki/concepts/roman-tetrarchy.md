@@ -5,8 +5,8 @@ origin: the system of collegiate imperial rule established by Diocletian, AD 293
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [mediterranean-world, balkans, italy, near-east]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept, rome]
 ---
 
@@ -71,3 +71,21 @@ creator.
 - The crisis it answered: [[third-century-crisis]]; the reforms detailed across [[bowman-cah-v12-2005|CAH XII]]
   (army, administration, taxation, coinage)
 - Source: [[bowman-cah-v12-2005]] (Ch. 3, Alan Bowman)
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+[[actors/gibbon-edward|Gibbon]] treats the tetrarchy as Diocletian’s **fundamental constitution**, not a temporary expedient. **Gibbon’s views.**
+
+- **Fundamental law of four:** Diocletian associated three colleagues and “considered the joint administration of four princes not as a temporary expedient, but as a fundamental law of the constitution” — two Augusti with diadem, two Caesars rising in turn.
+- **Geographic partition:** Constantius — Gaul, Spain, Britain; Galerius — Danube/Illyricum; Maximian — Italy and Africa; Diocletian — Thrace, Egypt, and Asia; each sovereign in his jurisdiction, united authority over the whole.
+- **Harmony unique to the founder:** the balance required “two emperors without jealousy, two Cæsars without ambition, and the same general interest invariably pursued by four independent princes”; abdication was followed by eighteen years of discord, five civil wars, and the armed rise of Constantine.
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/diocletian]] · [[concepts/late-roman-emperorship]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+Source: [[mitchell-later-roman-empire-2015]].
+
+- **War-burden division as main objective.** Burdens of warfare were the main reason Diocletian created an imperial college (Maximian Augustus 286; Caesars Constantius and Galerius 293)—manageable division of powers producing unofficial territorial division (Constantius beyond Gallic Alps; Maximian Italy/Africa; Galerius Illyricum to Pontic strait; Diocletian the remainder). Each ruler had a praetorian prefect tied to person not region. Lactantius’s claim that tetrarchy quadrupled the army (and tax burden) is rejected as not literally true. Tetrarchy systematically organized civil law and (with censuses) taxation/*iugatio-capitatio*; Latin for major inscribed decisions including Prices Edict.
+- **Portraiture.** Cropped hair, stubble, stern gaze; porphyry group embraces (R. R. R. Smith): collegiality of the four and moral fundamentalism/severity, while still acknowledging Diocletian’s dominance.
+- **Dynasty defeated the system.** Artificial tetrarchic transfer proved weaker than dynastic claims; Diocletian himself used marriage to bind Caesars; father–son combinations (Constantius–Constantine; Maximian–Maxentius) were resilient; by 310 the aim of divorcing imperial power from family succession was dead.

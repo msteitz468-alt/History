@@ -3,13 +3,13 @@ title: Edessa
 place_type: city
 modern_equivalent: [Şanlıurfa, Turkey]
 coordinates: [37.1591, 38.7969]
-period_active: [classical-antiquity, late-antiquity]
-controlled_by: [[[kingdom-of-edessa]], [[roman-syria]], [[parthian-empire]], [[sasanian-empire]]]
-events_here: [[[capture-of-valerian-260|Battle of Edessa (260)]]]
-processes_here: [[[orientalization-of-rome]], [[christianization-of-the-roman-empire]]]
-sources_ingested: 1
+period_active: [classical-antiquity, late-antiquity, early-middle-ages, high-middle-ages]
+controlled_by: [kingdom-of-edessa, roman-syria, parthian-empire, sasanian-empire, county of Edessa, Zangids]
+events_here: [capture-of-valerian-260, siege-of-edessa-1144]
+processes_here: [orientalization-of-rome, christianization-of-the-roman-empire, crusades]
+sources_ingested: 2
 last_updated: 2026-07-08
-tags: [place, near-east, mesopotamia, classical-antiquity, late-antiquity]
+tags: [place, near-east, mesopotamia, classical-antiquity, late-antiquity, high-middle-ages]
 ---
 
 > **Note:** this page covers Edessa as a *place* — the city itself, its topography and
@@ -125,13 +125,25 @@ political narrative, and [[orientalization-of-rome-thesis]] for Ball's broader a
 that Rome's eastern provinces retained a Semitic character beneath a thin Graeco-Roman
 veneer.
 
+## County of Edessa and Muslim reconquest (Cobb 2014)
+
+[[cobb-race-for-paradise-2014|Cobb, *The Race for Paradise* (2014)]] treats Edessa (*al-Ruha*) as the **first more-or-less Frankish state in the Islamic Near East**—parallel to Sicily as first Frankish state gouged from Islamdom, but first *in the Near East* specifically.
+
+**Foundation (1097–98).** Baldwin of Boulogne, diverted by an Armenian warlord, took Tell Bashir and Rawandan by end **1097**; early **1098** entered Edessa at invitation of Armenian ruler Tʿoros; by March the populace killed Tʿoros and elevated Baldwin; he bought Sumaysat and garrisoned Saruj. The county straddled the upper Euphrates (Saruj, Tall Bashir) and was “sure to be the first target for any Muslim army emanating from Iraq or the East.”
+
+**Early Muslim pressure.** **1104**: Antioch–Edessa attack on Harran; Jikirmish of Mosul’s jihad army defeated the Franks on the Balikh—Baldwin and Joscelin captured; Edessa left leaderless; contemporaries called it a “great and unexampled victory for the Muslims,” though Edessa itself held. Early **1110**: Mawdud of Mosul besieged Edessa “like a girdle”; a Frankish coalition declined battle; Muslims abandoned when supplies ran short faster than the besieged. **1111**: Tall Bashir walls breached; Joscelin sued for peace; most commanders rejected tribute as contrary to jihad, but Ahmadil accepted over peers’ heads—campaign then collapsed into Aleppan obstruction and desertion. **1115**: Aq-Sunqur’s Edessa campaign failed after two months.
+
+**Fall 1144 and second sack.** Cobb: large ancient Christian population “perhaps **forty thousand**” (hedge); poorest Latin state; northern outlier worn by raids; Joscelin left a small Armenian garrison and resided at Tall Bashir; open break with Raymond of Antioch reduced relief odds—“walls… avail but little if there are none to man them.” Zangi cast the campaign as jihad, summoned Turcomans, used sappers (some from Khurasan); breach **24 December 1144**; heavy Muslim casualties then sack until Zangi ordered a halt, promised rule of law, lightened taxes, rebuilt fortifications. After Zangi’s murder (**1146**), Armenians rebelled; Joscelin recaptured the town but not the citadel; Nur al-Din forced-marched from Aleppo; Joscelin abandoned the city; Nur al-Din sacked Edessa with free hand to troops—Ibn al-Athir: *this*, not Zangi’s conquest, was when the city was plundered and depopulated. By autumn **1150** Tall Bashir and remaining Edessan Frankish territory were retaken with Rum Saljuq help—“the first of the Latin states to be created was thus the first to be expunged once and for all”; *dar al-islam* borders shifted west from Euphrates to Orontes.
+
 ## Related
 
 - [[kingdom-of-edessa]]
 - [[capture-of-valerian-260|Battle of Edessa (260)]]
+- [[siege-of-edessa-1144|Siege of Edessa (1144)]]
 - [[parthian-empire]]
 - [[sasanian-empire]]
 - [[christianization-of-the-roman-empire]]
 - [[orientalization-of-rome-thesis]]
+- [[crusader-states]] · [[imad-al-din-zangi|Zangi]] · [[nur-al-din|Nur al-Din]] · [[antioch]] · [[crusades]]
 
-Source: [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]].
+Sources: [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]]; [[cobb-race-for-paradise-2014|Cobb, *The Race for Paradise* (2014)]].

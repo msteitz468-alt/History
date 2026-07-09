@@ -9,7 +9,7 @@ affiliated_with: [[[carthage]], the [[hamilcar-barca|Barcid family]]]
 opposed_by: [[[roman-republic]], [[scipio-africanus]], [[fabius-maximus]]]
 key_events: [[[siege-of-saguntum-219bce]], [[second-punic-war-218-201bce]], [[battle-of-cannae-216bce]], [[battle-of-zama-202bce]]]
 key_processes: [[[heracles-melqart-syncretism]]]
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, north-africa, iberia, italy]
 ---
@@ -77,6 +77,18 @@ Rome's durability rested on its allied manpower reserves, not the city itself,
 and so directed his effort — with limited success — at peeling away Rome's
 Italian allies instead.
 
+### OHCW (Boardman/Griffin/Murray 1986) — Crawford
+
+Crawford (Ch. 16) restates the structural limit in survey form: Hannibal’s Italian
+invasion, financed from Carthaginian Spain, sought to reverse the First Punic War;
+victories through Cannae and Capuan/Syracusan defection still left Rome able to field
+new armies, while most Italian allies never accepted Italy without Rome or under
+Carthage. Confined to Bruttium, recalled 203, defeated at Zama 202. Crawford also
+cautions against making Hannibalic devastation the sole parent of second-century
+agrarian crisis (see [[agrarian-crisis-roman-republic]]).
+
+Source: [[boardman-oxford-history-classical-world-1986]] (Ch. 16).
+
 ## Hannibal as Ideologue: the Heracles–Melqart Campaign (Miles)
 
 Richard Miles ([[miles-carthage-must-be-destroyed-2010]]) recovers a dimension the
@@ -101,13 +113,45 @@ Mediterranean leadership — which Rome answered by capturing the legacy for its
 [[punic-faith]], [[hellenization-of-rome]]). [[scipio-africanus|Scipio]] in Spain copied the
 technique, cultivating his own reputation for divine favour.
 
+## The statesman: sufete and reformer (Hoyos)
+
+Dexter Hoyos ([[hoyos-hannibals-dynasty-2003|*Hannibal's Dynasty*]]) stresses the
+**second, civilian half** of Hannibal's career, which the war-focused ancient tradition
+neglected. As the last leader of the [[barcid-dynasty|Barcid dynasty]], Hannibal fled
+directly to Hadrumetum after [[battle-of-zama-202bce|Zama]] (202) — he had no intention of
+dying in battle as his brother [[hasdrubal-barca|Hasdrubal]] had — and returned to Carthage
+after 36 years abroad. No one blamed him for the defeat, and he was not prosecuted.
+
+Elected **sufete in 196 BC** on a wave of popular anger at fiscal mismanagement — and
+against much of the ruling élite — Hannibal turned on the tribunal of the **Hundred and
+Four** (the *ordo iudicum*): he carried a law **abolishing its members' lifetime tenure**,
+replacing it with annual, popularly elected terms and barring consecutive re-election. He
+then overhauled state finances, plugging the leaks of "carelessness and theft" so
+effectively that within five years Carthage offered to pay off its entire remaining 40-year
+war indemnity (8,000 talents) in a single instalment. Hoyos frames this as Hannibal
+discovering "how to behave like a democrat," relying directly on the citizen vote rather
+than on the charismatic military command that had underpinned earlier Barcid rule.
+
+The oligarchic backlash denounced him to Rome as a secret ally of [[antiochus-iii-the-great|Antiochus III]];
+in **195 BC** he fled into exile, serving Antiochus and later Prusias of Bithynia as a
+naval commander and adviser, though largely underused. Cornered by Roman envoys, he took
+poison at **Libyssa in Bithynia in 183/182 BC**, aged about 64. His tomb was later restored
+in white marble by the fellow-North-African emperor Septimius Severus.
+
+Hoyos catalogs Hannibal's own strategic misjudgements — above all the failure to march on
+Rome after Cannae and his near-total **detachment from home politics** during the war
+(no Barcid returned to manage Carthage between 218 and 201 except Mago briefly) — arguing
+the dynasty's whole edifice rested on unsung political managers at home whom Hannibal took
+for granted. Yet he insists ultimate defeat was *not* inevitable; several of Hannibal's own
+decisions could have gone the other way.
+
 ## Related
 
-- Family: [[hamilcar-barca]] · state: [[carthage]] · base: [[new-carthage]]
+- Family: [[hamilcar-barca]] · [[barcid-dynasty|Barcid dynasty]] · state: [[carthage]] · base: [[new-carthage]]
 - Ideology: [[heracles-melqart-syncretism]] · [[carthaginian-religion]] · [[punic-faith]]
 - War: [[second-punic-war-218-201bce]] · battles: [[battle-of-cannae-216bce]] ·
   [[battle-of-zama-202bce]] · [[siege-of-saguntum-219bce]]
 - Opponents: [[fabius-maximus]] · [[scipio-africanus]] · later host:
   [[antiochus-iii-the-great]]
 - Tactical analyses (hubs/warfare): [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-the-trebia-218bce|Trebia]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-lake-trasimene-217bce|Trasimene]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-cannae|Cannae]] · [[hubs/warfare/classical-antiquity/second-punic-war/battle-of-zama-202bce|Zama]]
-- Sources: [[astin-cah-v8-1989]] · [[polybius]] · [[livy]] · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy]]
+- Sources: [[astin-cah-v8-1989]] · [[polybius]] · [[livy]] · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy]] · [[hoyos-hannibals-dynasty-2003|Hoyos]]

@@ -24,8 +24,8 @@ key_events:
 key_processes:
   - "[[sufism-in-south-asia]]"
   - "[[islamic-modernism]]"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags:
   - actor
   - person
@@ -58,6 +58,15 @@ His mystical chain extended to his grandson Shāh Ismāʿīl Shahīd and Sayyid 
 ## Relationship with Contemporaries
 
 Walīullāh shared Delhi's 18th-century Naqshbandī intellectual world with Maẓhar Jānjānān (killed 1782) and [[mir-dard-khwaja]] (1721–85), though Schimmel notes that "relations between the great mystical leaders of Delhi during the eighteenth century" remain insufficiently studied; Walīullāh was attacked by a disciple of Maẓhar, "showing the manifold currents inside eighteenth-century Naqshbandī theology."
+
+## Formichi's Assessment
+
+Chiara Formichi ([[formichi-islam-and-asia-2020]]) calls Waliullah "the intellectual ancestor of
+virtually every Islamic movement in modern India," a *mujaddid* combining the roles of 'alim and
+Sufi shaykh whose descendants split into two reform paths: his son Shah Abdul Aziz (d. 1824)
+pursued moderate juridical reform via fatwas, while his grandson Shah Isma'il and **Sayyed Ahmad
+Barelvi** (1786–1831) took the militant path, waging an unsuccessful jihad against the British and
+Sikhs in 1826 — a lineage feeding into the later Deobandi school (see [[sufism-in-south-asia]]).
 
 ## Historiography
 

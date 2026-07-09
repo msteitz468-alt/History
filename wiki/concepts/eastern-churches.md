@@ -5,8 +5,8 @@ origin: Emic/etic; the family of eastern Christian communions (Chalcedonian Orth
 applies_to_periods: [Late Antiquity, Early Middle Ages, High Middle Ages]
 applies_to_regions: [anatolia, levant, near-east, balkans, mediterranean, north-africa]
 contested: no
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -63,10 +63,16 @@ crusader states, and Christian–Muslim coexistence.
 
 - [[byzantine-empire]] — the Greek Orthodox imperial church.
 - [[crusades]], [[crusader-states]] — the Latin pressure for union.
-- [[council-of-chalcedon|Chalcedon (451)]] — the ancient division underlying the Miaphysite churches.
+- [[council-of-chalcedon-451|Chalcedon (451)]] — the ancient division underlying the Miaphysite churches.
 - [[papal-monarchy]] — the Roman claim to primacy the eastern churches resisted.
 - Sources on the Chalcedonian schism, from both sides, are now ingested: the Chalcedonian
   **[[whitby-evagrius-ecclesiastical-history|Evagrius Scholasticus]]** and the Miaphysite
   **[[john-of-ephesus|John of Ephesus]]** / **[[pseudo-dionysius-zuqnin-chronicle|Chronicle of Zuqnin]]**
   / **[[greatrex-pseudo-zachariah-chronicle|Pseudo-Zachariah Rhetor]]** (preserving the lost Greek church
   history of Zachariah of Mytilene).
+
+## From Tannous (2018) — late antique roots
+
+Before the high-medieval “question of union,” the eastern churches were already a house with many mansions: Chalcedonian (later Melkite/Rūm and Maronite trajectories), [[miaphysitism|Miaphysite]] ([[syrian-orthodox-church|Syrian Orthodox]], [[coptic-church|Coptic]], Armenian), and [[church-of-the-east|Church of the East]]. Tannous stresses that for [[simple-believers|simple believers]] confessional labels poorly predicted social behavior for centuries after 451, and that under early Islam these communities remained the demographic majority while Muslim rule was still elaborating public Islamic identity. See [[islamization-of-the-middle-east]], [[dark-matter-historiography]], [[transconfessional-history]].
+
+- Source: [[tannous-making-medieval-middle-east-2018]]

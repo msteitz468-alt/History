@@ -8,8 +8,8 @@ region: [western-europe, mediterranean]
 process_type: religious
 driven_by: ["monastic reform ideals (Cluny, Hirsau, Lorraine)", "revulsion at simony and clerical marriage", "the doctrine of the libertas ecclesiae (freedom of the church)", "the recovery and study of canon law", "the imperial reform of the papacy under Henry III"]
 produces: [[[investiture-contest]], "the papal monarchy", "the separation of sacerdotium and regnum", "a celibate, hierarchically ordered clergy", "the Concordat of Worms (1122)"]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, high-middle-ages, western-europe, mediterranean]
 ---
 
@@ -87,10 +87,20 @@ episcopal elections and granted the temporal *regalia* — and the reforming imp
 passed into the permanent machinery of the papal monarchy, confirmed by the First
 Lateran Council (1123).
 
+## From Logan, *A History of the Church in the Middle Ages* (2013)
+
+[[logan-history-of-the-church-in-the-middle-ages-2013|Logan]] **rejects** the traditional labels “Gregorian Reform” and “Hildebrandine Reform” as inappropriate: they wrongly imply a papally led movement from the start and give Gregory VII a central role hard to sustain. He prefers **“Eleventh-century Reform”** for variegated forces into the first quarter of the twelfth century.
+
+**Two phases:** reform **before 1049** was local (bishops, abbots, secular rulers) while the papacy was corrupt; from **[[leo-ix|Leo IX]] (1049)** the papacy took control; under **Gregory VII** reform was used to **enhance papal power**, leading to conflict with German rulers not settled until the **[[concordat-of-worms-1122|Concordat of Worms]] (1122)**, and then only tenuously. Non-Cluniac centres: **Gorze** near Metz (933) and Brogne; English reform under Dunstan, Ethelwold, Oswald with kings Edmund, Edred, Edgar; Capetian and imperial support — **Henry III** set papal reform in motion via **Sutri 1046**.
+
+**Simony debate:** Humbert’s invalidity thesis vs Damian’s validity-with-sin; Damian prevailed. **Clerical celibacy** unsettled until **Second Lateran (1139)** voided marriages of priests, deacons, and subdeacons and stripped married clergy of benefices. Reform proceeded by compiling ancient canons (**Burchard**, the **74 Titles**, **Ivo of Chartres**, **Anselm of Lucca**) rather than new decretals — feeding [[ius-commune|canon law]] as a discipline.
+
 ## Related
 
 - [[investiture-contest]] — the political conflict the reform precipitated.
-- [[gregory-vii]] — its emblematic pope.
+- [[gregory-vii]] · [[leo-ix]] — emblematic and initiating popes.
 - [[papal-monarchy]] — its institutional outcome.
 - [[medieval-monastic-revival]] — the monastic energies that fed it.
 - [[carolingian-church-reform]] — the earlier reform tradition it looked back to.
+- [[logan-history-of-the-church-in-the-middle-ages-2013]]
+

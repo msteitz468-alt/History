@@ -3,9 +3,9 @@ title: Societal Collapse and Environmental Determinism (Diamond and his Critics)
 dispute_type: causation
 period_involved: [Early Bronze Age, Late Antiquity, Early Middle Ages, High Middle Ages, Late Middle Ages]
 regions_involved: [mesoamerica, southeast-asia, southern-africa, northern-europe, mesopotamia, north-africa, levant]
-positions: ["Environmental/ecological collapse (Diamond): societies that overshoot their resource base and mismanage their environment collapse", "Resilience/contingency (McAnany & Yoffee, Radkau): 'collapse' overstates discontinuity; societies adapt, transform, or are undone by political, not ecological, failure; survivors persist"]
+positions: ["Environmental/ecological collapse (Diamond): societies that overshoot their resource base and mismanage their environment collapse", "Resilience/contingency (McAnany & Yoffee, Radkau): 'collapse' overstates discontinuity; societies adapt, transform, or are undone by political, not ecological, failure; survivors persist", "Rational economizing (Tainter): collapse is a rational response to declining marginal returns on complexity, not a catastrophe; complete systemic collapse requires simultaneous failure across a peer-polity cluster"]
 resolution_status: open
-last_updated: 2026-06-11
+last_updated: 2026-07-08
 tags: [controversy]
 ---
 
@@ -108,6 +108,30 @@ now proposed to explain a near-simultaneous collapse across Egypt, the Levant, a
 Mesopotamia is the strongest modern form of the determinist case — and is contested
 on exactly the resilience/contingency grounds above (regional variation, political
 agency, the patchiness of the synchronism). CAH (1971) predates the thesis entirely.
+
+## A Third Position — Collapse as Rational Economizing (Tainter)
+
+[[fagan-world-prehistory-2020|Fagan & Durrani (2020)]] introduce a further,
+partly orthogonal account: **Joseph Tainter's** collapse-as-rational-process
+thesis. On this view, growing complexity is initially a successful, low-cost
+strategy for solving problems — agricultural intensification, bureaucracy, and
+trade networks that fund elite-driven monumental works — but the **marginal
+returns on further complexity decline over time**, leaving no reserve capacity to
+absorb droughts, famines, or floods. Collapse follows once a society's
+constituents perceive that continued centralization no longer pays off:
+"collapse is not a catastrophe but a rational process." Tainter adds a
+structural condition for *complete* collapse: it requires a power vacuum. In
+"peer-polity interaction" systems — Fagan & Durrani cite Sumerian cities,
+Minoan/Mycenaean palace-kingdoms, and Maya city-states — the collapse of one
+polity alone simply invites domination by a rival, so systemic collapse occurs
+only when the whole interacting cluster fails simultaneously. **Teotihuacan** is
+their illustrative case: peak population above 125,000 (over 85% of the Valley
+of Mexico's population) by AD 600, collapsing in the 8th century AD with
+population falling to a quarter of its peak within 50 years. Tainter's thesis sits
+alongside, rather than simply restating, Positions 1 and 2 above: it treats
+collapse as an economizing decision rather than either an ecological overshoot
+or a political failure narrowly construed, though it shares Position 2's
+resistance to reading collapse as pure environmental catastrophe.
 
 ## Where Things Stand
 

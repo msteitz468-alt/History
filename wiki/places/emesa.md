@@ -89,6 +89,25 @@ step was almost negligible" — citing churches' eastward orientation, the Sabba
 toward "the day of the Sun," and 25 December (the Sun's traditional "birthday")
 becoming Christmas as accommodations to the pre-existing cult.
 
+## Fisher (2020): The Emeseni as phylarchs and clients
+
+Fisher (*Rome, Persia, and Arabia*, 2020) identifies Emesa's founding king Sampsigeramus
+as coming "from the tribe of the Emeseni," first attested dominating the Greek city of
+Arethusa in the Seleucid period before (presumably) founding Emesa itself; the Emeseni are
+thought to have settled in southern Syria after a period as nomads in the 1st century BCE.
+Strabo calls Sampsigeramus and his son Iamblichus "phylarchs of the Emeseni," while Cicero
+calls Iamblichus an "Arab phylarch" — Fisher treats "phylarch" as a loosely-applied Roman
+label for barbarian/Arab tribal leaders, not yet the formal office it would become in late
+antiquity. Sampsigeramus intervened in a Seleucid succession dispute in 69 BCE and became
+a Roman client under Pompey's 64 BCE settlement; Iamblichus was executed by Antony in 31
+BCE. A second "Sampsigeramus," styled "great king," appears on a 19 CE inscription from
+the Temple of Bel at Palmyra (destroyed by ISIS in 2015) alongside Germanicus. Emesa lost
+its independence between roughly 72 and 78 CE, one of several client states (with Judea,
+Nabataea, Commagene, Palmyra) absorbed as Pompey's client-state network was progressively
+dismantled by the early 3rd century CE. Roman forces depended on Emesene levies during the
+Jewish Revolt (66–70 CE). Fisher notes the later notoriety of Emesa's cult of Elah Gabal
+under the Severan emperor Elagabalus.
+
 ## Historiography
 
 The identification of Emesa's principal Sun temple's location, and the direct causal line
@@ -108,4 +127,5 @@ region's Graeco-Roman veneer as running somewhat deeper than Ball allows.
 - [[zenobia]]
 - [[orientalization-of-rome-thesis]]
 
-Source: [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]].
+Source: [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]];
+[[sources/fisher-rome-persia-arabia-2020|Fisher, *Rome, Persia, and Arabia* (2020)]].

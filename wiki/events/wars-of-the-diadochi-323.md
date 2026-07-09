@@ -14,8 +14,8 @@ scale_immediate: hemispheric
 scale_consequential: hemispheric
 causes: [[[alexander-the-great]], absence of a competent Argead heir, rival ambitions of Alexander's marshals, the personal (not institutional) basis of Alexander's empire]
 consequences: [[[hellenistic-world]], [[hellenistic-monarchy]], [[ptolemaic-egypt]], [[seleucid-empire]], [[antigonid-dynasty]], extinction of the Argead dynasty, [[seleucid-era]]]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, mediterranean-world, greece]
 ---
 
@@ -92,6 +92,16 @@ energy and `contributed_to` the specific, bloody course events took.
 - **New cities and the [[seleucid-era]]**: Antioch and the Syrian tetrapolis,
   Seleuceia, Cassandreia, Lysimacheia; the first continuous era-count.
 
+### Price (OHCW): outcome by c.275
+
+**Simon Price** (*Oxford History of the Classical World*, 1986) compresses the outcome:
+twenty years of tortuous struggles among Alexander’s kin and generals **failed to produce
+a sole successor**; by about **275 BCE** the three kingdoms that would dominate the
+eastern Mediterranean until the Romans came had emerged — Egypt (Ptolemies), the East
+(Seleucids), Macedon (Antigonids). Alexander left not only conquests but **monarchy**
+itself as model (diadem, title “king,” expectations of personal bearing) for the
+Successors’ [[hellenistic-monarchy|kingship]].
+
 ## Actors
 
 [[perdiccas]] · [[antipater]] · [[antigonus-i-monophthalmus]] · [[eumenes-of-cardia]] ·
@@ -105,5 +115,13 @@ XVIII–XX (deriving from the lost, well-informed [[hieronymus-of-cardia|Hierony
 Cardia]]), eked out with Plutarch, Justin, Arrian's *Events after Alexander*, and
 inscriptions (e.g. the Scepsis letter of Antigonus; the foundation treaty of the 302
 [[league-of-corinth|Hellenic League]]). Chronology is insecure and much disputed
-(e.g. "high" vs. "low" datings of the years 320–311). See
+(e.g. "high" vs. "low" datings of the years 320–311).
+
+**Oswyn Murray** (OHCW ch. 8) places Hieronymus in a broader Hellenistic pattern: no new
+royal-biography form emerged; city-state *Hellenica* continued; Hieronymus (lived to 104,
+covering Alexander to c.260) supplied accurate world-spanning military history whose
+lesson was that **chance (*Tyche*) rules affairs** — a theme running to [[polybius|Polybius]].
+The “pathetic school” joined rhetoric and pathos. Herodotean ethnography revived for the
+kingdoms (Hecataeus of Abdera for Ptolemy I; Manetho; Berossus; Megasthenes on Mauryan
+India) — “the most important cultural result of Alexander’s conquests.” See
 [[hellenistic-historiography]].

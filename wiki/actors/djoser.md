@@ -85,8 +85,23 @@ earliest individual architect/intellectual known by name in world history, and h
 millennia-long afterlife as a deified sage is itself a striking datum of cultural
 memory.
 
+## Afterlife in Graffiti
+
+Djoser's Step Pyramid at Saqqara became a pilgrimage destination whose visitors
+left dated [[ancient-graffiti|graffiti]] across the New Kingdom — a key body of
+evidence for Egyptian antiquarian and religious sensibility. The scribe Tjay
+came "to see the temple… of the deceased Djoser" in Year 4 of Tutankhamun
+(1328 BCE); the Treasury-scribe Hednakhte and his brother in Year 47 of Ramesses
+II (1256 BCE); and, most strikingly, the scribe Nashuyu (Year 34 of Ramesses II,
+1246 BCE) prayed to the deified Djoser as **"Discoverer-of-Stoneworking,"**
+crediting the king rather than his architect Imhotep with the
+invention of monumental stone — a datum of how cultural memory reassigned
+technological achievement to kingship. Per
+[[keegan-graffiti-in-antiquity-2014|Keegan, *Graffiti in Antiquity*]].
+
 ## Related
 
 - State: [[old-kingdom-egypt]] · Preceded by: [[early-dynastic-egypt]]
+- Cultural memory: [[ancient-graffiti]]
 - Place: [[memphis]] (Saqqara) · Concept: [[divine-kingship]] · [[egyptian-formalism]] · Period: [[early-bronze-age]]
 - Source: [[kemp-ancient-egypt-anatomy-2018]] · [[sources/rice-egypts-making-2003]]

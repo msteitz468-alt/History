@@ -9,7 +9,7 @@ affiliated_with: [the Roman Senate and People (SPQR), Italian allies (socii)]
 opposed_by: [[[carthage|Carthage]], [[hellenistic-world|Hellenistic kingdoms]], Gauls, Mithridates of Pontus]
 key_events: [Punic Wars 264-146 BCE, conquest of the Hellenistic East, civil wars 49-31 BCE]
 key_processes: [[[empire]], [[slavery]], [[trade-network-formation]], provincialization]
-sources_ingested: 7
+sources_ingested: 13
 last_updated: 2026-07-08
 tags: [actor, state, classical-antiquity, archaic-period, mediterranean, western-europe, rome]
 ---
@@ -338,6 +338,64 @@ of small farmers fed the agrarian crisis. Whether the subsequent eastward turn (
 imperial appetite (Harris) is the volume's central interpretive question — see
 [[causes-of-second-punic-war]].
 
+## Warfare, IR, and manpower (CHGRW)
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]] stresses how
+deeply war was built into Republican institutions. Hornblower (I.2): centuries as voting
+blocs originally military; *tribus* for recruitment; top offices military in origin;
+*imperium* includes war command — yet the *pomerium* rule strips homecoming commanders of
+*imperium* inside the city; *imperium domi* vs *militiae* shows Roman militarism not crude
+or all-pervasive though more marked than any Greek state (including Sparta in Polybius Book
+6). Serrati (I.14): with the possible exception of Sparta, for no other ancient society were
+warfare and state more fundamentally related; war bonded classes and was integral to social,
+political, and cultural life — hence structural imperialism. No mid-Republican separation of
+politician and general: battle victory was the path to *dignitas*, *gloria*, *laus*;
+theoretical ten-campaign service before office (Polyb. 6.19.4); consuls almost always took
+field command. Unlike Hellenistic personal royal finances, Roman war/finance/politics were
+interlinked at state-society level; special war-finance measures less needed because plunder
+usually repaid investment, but assemblies, political careers, and general-veneration were the
+real binding force.
+
+Billows (I.10): warn against trusting Livy/Dionysius for early Roman IR — no reliable
+political/military IR history before the late fourth century. Fetial law and *bellum iustum*:
+war just only in self-defence; *rerum repetitio* then spear-throw declaration; later extended
+to allies and even “friends” — system designed so Rome, from its own perspective, could never
+fight an unjust war. In dealing with the Hellenistic world Rome adapted Greek diplomatic forms
+but retained *bellum iustum* ideology and a sense of fundamental superiority; by 200 *fetiales*
+merely advised the consul where to send the war declaration (Livy 31.8.3). Amicitia playbook
+in the Second Macedonian War: after Philip V’s Hannibal alliance, Rome in 201 cultivated
+grievances of Athens, Rhodes, Attalids to justify a war whose “real and transparent motive”
+was revenge for 216. Rhodes’s Third Macedonian War arbitration offer was treated as grounds
+for threatened war until abject apologies — Rome would arbitrate others but settle own
+disputes by force. 191 Aetolian *deditio in fidem* misunderstanding (Glabrio’s chains)
+illustrated the gap between Greek and Roman diplomatic expectations.
+
+**Manpower.** After Latin defeat/treaty 338, citizenship and *civitas sine suffragio*
+extended; Afzelius estimates post–Latin Wars *ager romanus* 5,525 sq km / pop. 347,300 plus
+allies 2,980 sq km / 137,100 — Campanian alliance enabled conquest of Samnium then the
+Mediterranean. By 264 *ager romanus* ~26,805 sq km / ~900,000 pop.; Polybius 225 estimate
+Romans+allies 700,000 foot + 70,000 horse; max Second Punic effort ~80,000 citizens in 25
+legions (212); 200–168 rarely <100,000 mobilized, normally eight legions with >6,500 Italian
+allies per legion. Naval: third-century tactics unsophisticated — won by superior resources
+(more ships or more marines); *socii navales*, *coloniae maritimae*, *proletarii* below 400
+asses, freedmen as oarsmen; slaves only in Second Punic emergencies (214, 210). Roth (I.12):
+strategic success rested partly on a bellicose society and a deep pool of experienced
+aristocrats; the Senate as informal collective staff of past/present/future generals; field
+autonomy under *imperium* within a *provincia*. Sabin (I.13A close): Rome overcame better
+enemy generals via manpower/determination after defeats, institutionalization of tactical
+benefits, continual equipment/tactics improvement, ferocity/confidence, and competitive
+command — so structural advantages proved decisive even when individual generalship varied.
+See [[hellenistic-warfare]], [[roman-expansion-italy]].
+
+**Late Republic (CHGRW Vol. II threads).** Social War enfranchisement: by mid-first century
+new citizens formed the legionary backbone. Special multi-year multi-province commands
+(Pompey vs pirates 67, Mithridates 66) let dynasts create provinces and client treaties
+beyond Senate control. Decisive break: Sulla’s first march on Rome (88) — troops followed,
+officers deserted; 83–82 many more of the elite joined Sulla — not merely a military coup but
+a general crisis of legitimacy. Adams: Senate failed to control its members and to bind
+soldiers to itself, allowing Marius, Pompey, and Caesar their own agendas (Appian *B Civ.*
+5.17; Dio on Caesar: domination needs soldiers and money, each dependent on the other).
+
 ## Honour, Shame, and Aristocratic Politics (Vervaet, in Kim et al. 2017)
 
 Frederik Juliaan Vervaet (in [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empires* (2017)]], Ch. 4) argues that Roman aristocratic **honour (honos)** and **shame (pudor)** operated as a socio-institutional system of behavioural regulation at three linked levels — the family (*patria potestas*), the Senate (rank and seniority contests), and the military (unit discipline and battlefield motivation) — and directly shaped major political and military outcomes. He characterizes the Republic's political system as "a plutocratic outfit that served the conservative interests of the happy few," since only the wealthy could hold the ranking offices literally termed *honores*. Vervaet documents honour/shame dynamics driving specific events: the **Fabius–Marcellus rivalry** during the Second Punic War over triumphal honours; the **Arausio disaster (105 BCE)**, attributed to proconsul Q. Servilius Caepio's refusal, on grounds of aristocratic disdain, to subordinate to the "new man" consul Cn. Mallius Maximus; **Marius's** deliberate manipulation of his troops' wounded pride before Aquae Sextiae (102 BCE); and **Pompey's** senatorial peers pressuring him into a battle he did not want at **Pharsalia (48 BCE)**. He also reads Octavian's blocking of M. Licinius Crassus's claim to the *Spolia Opima* (29 BCE) as a step toward converting the public triumph into an imperial monopoly. See [[rome-han-honour-and-shame]] for the comparison with honour/shame in the [[han-dynasty|Han Dynasty]].
@@ -360,6 +418,10 @@ then Octavian against Antony and **Cleopatra** — ended the Republic. The victo
 **Octavian** (Actium, 31 BCE) and his settlement as **Augustus** in 27 BCE founded the
 [[roman-empire|Principate]].
 
+### Flower’s multi-republic reframing (*Roman Republics*, 2010)
+
+[[flower-roman-republics-2010|Harriet I. Flower]] rejects packaging this arc as one long Republic ending in an eighty-year “crisis.” She treats the polity as **six successive republics** plus transitions ([[roman-republics-periodization]]): early experiments (Republics 1–2) give way to three successive **republics of the *nobiles*** (300–180 / 180–139 / 139–88), whose culture of compromise, short office, and competitive election is what later ages mean by “the Republic”; that system **collapses in the early 80s** under Social War and citizen civil war; **Sulla founds a sixth New Republic in 81** (not a restoration — see [[sullan-constitution]]); and **functional republican politics ends ~60** with the informal Big Three alliance — so 78–49 is “after the shipwreck,” and 49 is aftermath rather than the first fall. Second-century peaceful reform (*lex Villia annalis*, secret ballot, permanent courts) shows the *nobiles* republics were adaptive, not fossilized; lethal violence after 133 was epoch-making rather than slow wear. Record as Flower’s position on [[fall-of-roman-republic]].
+
 ## Significance
 
 The Republic created the institutional, legal, and military foundations of Rome's
@@ -376,6 +438,20 @@ debate centers on whether the collapse was structural (the strains of empire,
 militarization, the agrarian crisis) or driven by the ambitions of "great men" — a
 direct instance of the [[great-man-vs-structural-causation|Great Man vs. structural
 causation]] controversy.
+
+### Freeman on early-Rome source reliability and the citizenship advantage
+
+Charles Freeman ([[freeman-egypt-greece-rome-2014]]) states plainly that **Livy** is
+unreliable for early Rome: "his bias towards the glorification of the republic, his
+shaky grasp of geography, and the carelessness with which he draws on earlier sources
+make the work unreliable" — periods such as 390–350 BCE are almost undocumented. The
+earliest Roman historian, **Fabius Pictor** (late 3rd c. BCE), survives only in
+fragments and wrote to stress Rome's Greek heritage, not neutrally. Freeman also cites
+**W. G. Runciman**'s structural argument that the Greek *polis* was "doomed to
+extinction" as a political form because no Greek city ever developed a mechanism for
+extending citizenship to conquered or freed peoples — contrasted explicitly with Rome's
+practice of enfranchising freedmen and defeated rivals, which (citing Polybius) gave
+Rome "an almost unlimited supply of men," a comparative advantage no *polis* could match.
 
 ### Beard (SPQR, 2015)
 
@@ -406,3 +482,104 @@ empire created the emperors — not the other way round." On Rome's overseas pow
 more broadly, Beard frames it as "an empire of obedience" — a coercive power to
 issue orders that are obeyed, not, in the third–second centuries, a systematic
 program of territorial annexation.
+
+### OHCW (Boardman/Griffin/Murray 1986) — Crawford, Rawson, Griffin
+
+**Crawford (Ch. 16)** makes Italian manpower the Republic’s central theme: conquest
+created a levy pool used first against Pyrrhus, then Carthage, then the Mediterranean;
+Rome–Italy relations remained decisive until Augustus (Romanization of Italy /
+Italianization of Rome). Early Rome’s literary tradition is ruthlessly Romanocentric —
+no continuous account earlier than the late third century ever existed; none earlier
+than Augustus survives. Institutions: two annual consuls; assemblies (*curiata*,
+*centuriata* weighted to the rich, *tributa*/Concilium Plebis) always voted **by
+groups**, never by simple head-count. Struggle of the Orders broke patrician monopoly
+of office; uniquely, freed slaves of citizens became citizens. Twelve Tables
+(trad. c.450) still underpinned civil law in Cicero’s age. Fourth–third-century
+politics lacked late-Republican bitterness; Polybius/Fabius Pictor’s 225 muster implies
+a Roman–Italian manpower pool on the order of **6–7 million**.
+
+**Rawson (Ch. 17)** surveys overseas expansion 264–31 BCE and critiques pure
+“defensive imperialism”: Roman society was militaristic (*virtus*, triumphs, ten
+campaigns before office); continuous war served oligarchic competition; older pictures
+“will not altogether do.” Slow annexation often reflected **informal empire** (kings,
+free cities, *clientela*) already yielding troops and profit; partnership with
+provincial propertied classes against land division and debt abolition. After Pydna
+direct citizen tax was abolished though armies cost more year-round; by 66 Cicero
+claimed only Asia yielded a surplus after costs (Plutarch: Pompey doubled tax income).
+
+**Miriam Griffin (Ch. 19)** treats the age of Cicero as Sulla’s legacy: *cursus*
+rules and a Senate of 600; year **70** restored tribunician powers and equestrian
+juries; Optimates/Populares as **ideological labels, not parties**. Structural
+question of the fall: why leading oligarchs destroyed the system that benefited them —
+imperial wealth, rising success standards, laws too often bent to command obedience by
+49. Caesar’s victory destroyed the system in which he wanted primacy; the Ides
+followed *dictator perpetuus*.
+
+Source: [[boardman-oxford-history-classical-world-1986]].
+
+## Cambridge Economic History of the Greco-Roman World
+
+**Harris** (Ch. 19, "The Late Republic") catalogues the structural economic effects of
+Rome's imperial character after 133 BCE. Warfare turned reliably profitable: the 20,000-
+talent (480-million-sesterce) indemnity imposed on Asian cities after expelling
+Mithridates (86 BCE) is one example; total tax revenue may have reached 540 million
+sesterces/year even before Gaul's addition, and Italian harbor dues (*portoria*) were
+abolished in 60 BCE after Pompey's eastern conquests made them unnecessary. Elite land
+acquisition in the provinces accelerated from the 130s BCE; overseas colonization began
+slowly (Iunonia at Carthage, Narbo, both 118 BCE); and grain, slave, and metal prices
+across the empire (Egyptian grain, Ephesian slaves, Spanish iron ore) grew visibly linked
+to Roman demand — evidence, per Harris, of real economic integration.
+
+**Publicani** (tax-farming *societates*) gained the right to bid for the tithe of the
+province of Asia under Gaius Gracchus's law of 123 BCE, later extended by Pompey to his
+newly created provinces; they functioned as quasi-banks, at one point lending nearly half
+a billion sesterces to Sulla-penalized "Asian" cities, a debt that multiplied sixfold
+within a few years and became unrepayable. Harris argues against treating Roman money as
+purely coinage: Cicero's 3.5-million-sesterce Palatine house purchase was clearly a
+credit/paper transaction ("*nomina facit, negotium conficit*"), and Caesar's 49 BCE cap on
+silver/gold holdings (15,000 drachmas) shows coinage was not the sole store of value;
+financial instruments included *delegatio* (transferring third-party debt) and discounted
+sale of *nomina* (debts). Political interventions in credit markets included
+debt-forgiveness laws in 86 BCE (75% forgiven) and 49 BCE (effectively 25%), a Senate ban
+on gold/silver export from Italy in 63 BCE (enforced by consul Cicero), and an attempted
+interest-rate ceiling in the winter of 51–50 BCE.
+
+**Grain politics**: Gaius Gracchus's law (123 BCE) introduced subsidized state grain
+sales at Rome; Sulla abolished the program (81 BCE); the *Lex Terentia Cassia* (73 BCE)
+revived it; the *Lex Cornelia Caecilia* (57 BCE) gave Pompey, per Cicero, "absolute power
+over the grain supply throughout the world" for five years. **Slavery data**: the 167 BCE
+slave market absorbed 150,000 new Epirot slaves without saturation; Caesar's Gallic Wars
+produced over 400,000 prisoners; Harris's own working estimate is 4–8 million
+slaves/serfs empire-wide in the very late Republic, with slaves dominating skilled crafts
+and increasingly the managerial level of the economy (*vilici*, *actores*, secretaries) by
+the second century BCE. **Wealth concentration**: tribune L. Marcius Philippus claimed
+(104 BCE) that fewer than 2,000 people owned property in Rome; Crassus reportedly held
+200 million sesterces "*in agris*"; the freedman C. Caecilius Isidorus may have owned
+hundreds of thousands of hectares, evidence that large late-Republican fortunes could now
+be commerce-based rather than purely landed. Repeated capital destruction in the Social
+War (91–89 BCE), Sulla's wars and colonization, and the civil wars of 49–30 BCE
+repeatedly undid modest growth potential — Harris judges no real prospect of sustained
+growth existed until Augustus restored internal order. See
+[[concepts/roman-economy-late-republic]] for Harris's full growth-debate analysis.
+
+## Harris, *Roman Power* (2016)
+
+W. V. Harris (*Roman Power*, 2016) frames the Republic as an **aristocracy with elements of citizen power**, not a democracy: he rejects the 1980s–90s “democracy school” (esp. Millar) and endorses Mouritsen’s rebuttal; mid-republican poorer-citizen formal participation was minimal (at most ~3–4,000 voters in the tribal assembly on any occasion). The major weakness of most polity accounts, he argues, is neglect of the **military/imperial context**—constant warfare, Rome’s differentiation from other Mediterranean states, and spectacular enrichment of the few. Short-tenure office rotation (annual magistracies, ten-year consulship interval, six-month dictator) expressed elite consensus that one man’s pre-eminence must be brief; consuls during their year were “like kings” (Polybius 6.11.12). The centuriate assembly was structurally undemocratic (property centuries outweighed the masses; public voting until the 130s secret ballot); formal war/peace power rarely made the assembly decisive—after 171 its secondary role shrank further.
+
+Except on the rarest occasions, Rome made war **every year** in the middle Republic (at most four years of peace 327–241)—an extreme willingness to fight. A competitive elite system (triumph roughly once every eighteen months) trained and selected leaders. Successful war produced slaves for land, and slave labour freed farmers for war—a manpower loop by latest 311 (legions doubled). The citizen body—hardy rustics and artisans—went along eagerly with constant warfare; legion service remained a privilege excluding the poorest until late. Preference for local elites (landowners) was a **constant of Roman policy** over centuries; resistance often came from the masses. Polybius’ mixed constitution misdescribes a primarily aristocratic system he elsewhere admits (6.51; 23.14).
+
+External growth revolutionized society—filled with slaves, separated wealthy from ordinary people—while the family and *fides*/*virtus* strengthened civic discipline. Four late-Republic discontent types: ballot-law middling voters (130s, easily accommodated); slave rebelliousness (140–71, never accommodated); non-citizen Italians (accommodated by radical citizenship reversal in 90); poorer Italians’ needs (only via quasi-revolutionary armies and dynasts Sulla–Octavian → fifty-plus years of turmoil). Empire necessitated recruiting impoverished soldiers with little stake in the status quo and created a capital city unwilling to accept conservative aristocratic control—one-man rule was the logical outcome. Source: [[harris-roman-power-2016]].
+
+## Woolf, Rome: An Empire's Story (2012)
+
+Attributed material from [[woolf-rome-empires-story-2012]].
+
+- **Liberty as aristocratic monopoly.** Historical-period Romans dated foundation 753 BC and Republic 509 BC (conventional belief). “Liberty” belonged to wealthy families monopolizing office and cult; the Senate of former magistrates “in effect directed government, legislation, state cult, and foreign policy”—never near Athenian democracy.
+- **Manpower and continuous expansion.** Mid-Republic: 10–25% of males under arms in a campaigning season; in worst Hannibalic years (218–215) one in six adult males died on the battlefield. After Hannibal, Rome was “geared up to more or less continuous expansion.”
+- **Late Republic feedback loop.** Woolf rejects simple luxury-decadence rise/fall: a “destructive feedback loop” linked domestic competition to aggressive warfare abroad; generals thought short-term for return opportunities. 70s campaigns of Sullan protégés ([[pompey]], Crassus, Lucullus, etc.) further strengthened general–army bonds.
+- **Institutional comparative advantage.** Against pure militarism accounts, Rome’s edge “must have been institutional”—location not unique, hinterland unimpressive vs Etruria/Campania, no tech edge, not “more militaristic than their opponents.”
+- **Quotes:** “A destructive feedback loop was created between competition at home and aggressive warfare abroad.” / “Between 10 and 25 per cent of the male population were under arms during any one campaigning season.”
+
+## Flower, *Roman Republics* (2010) — vocabulary and unitary-period critique
+
+Attributed from [[flower-roman-republics-2010]]. Romans lacked a rich technical vocabulary for changing civic forms; *res publica* can mean both political community and system of government and was still used under the Empire (including Augustus’ *Res gestae*). Consular-year dating made every year “republican” in form without constructing relative periodization of “the Republic”; Livy’s *ab urbe condita* frame is not specially republican. English “republic” as both system and time-span produces circularity — episodes such as the fifth-century decemvirate and Sulla’s dictatorship are “distinctly unrepublican” within the traditional span. Flower traces modern Early/Middle/Late packaging partly to Italian humanist **Carlo Sigonio** (Conflict of the Orders ends 287; decline begins 133; intervening constitution “at its best”). Full scheme and fall chronology: [[roman-republics-periodization]], [[fall-of-roman-republic]].

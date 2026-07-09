@@ -80,11 +80,31 @@ weights **economic recovery** (silver, manpower, food to pay the Roman indemnity
 Polybius's "revenge" motive, while noting the Barcid "steely determination that Carthage
 would never again be humiliated by Rome."
 
+## Founder of the Barcid ascendancy (Hoyos)
+
+Dexter Hoyos ([[hoyos-hannibals-dynasty-2003|*Hannibal's Dynasty*]]) treats Hamilcar as the
+**founder of the [[barcid-dynasty|Barcid dynasty]]** and dates his political supremacy to
+the aftermath of the [[mercenary-war-241-237bce|Mercenary War]], not merely to the Spanish
+command. His victory over the rebels — turned by the defection of the Numidian prince
+**Naravas**, secured with a marriage alliance — made him supreme in Punic affairs; Diodorus
+reports he then built a popular political following and obtained an **open-ended generalship
+of all Iberia**. Hoyos also redates Hamilcar's post-Sicily prosecution (at which the future
+[[hasdrubal-the-fair|Hasdrubal the Fair]] was his chief supporter) to 241 rather than 237,
+placing the founding of the Hamilcar–Hasdrubal alliance earlier than usually assumed.
+
+Against Polybius's "wrath" thesis, Hoyos argues Hamilcar's Spanish programme was a
+**pragmatic rebuilding of Punic strength**, not a long-laid plan for a war of revenge: he
+built no anti-Roman alliances and prepared no fleet. Hoyos also gives a more critical
+reading of Hamilcar's Sicilian command (a defensive holding operation, not the offensive
+genius of tradition) and stresses Rome's **seizure of Sardinia (237)** as an opportunistic
+power-play prompted by alarm at Carthage's demonstrated recovery, not a pre-existing treaty
+right. (See [[causes-of-second-punic-war]].)
+
 ## Related
 
-- Sons/successors: [[hannibal]] · Hasdrubal · place: [[new-carthage]]
+- Sons/successors: [[hannibal]] · [[hasdrubal-the-fair|Hasdrubal the Fair]] (son-in-law) · [[hasdrubal-barca]] · [[mago-barca]] · dynasty: [[barcid-dynasty]] · place: [[new-carthage]]
 - Ideology/economy: [[heracles-melqart-syncretism]] · [[carthaginian-religion]] · source: [[miles-carthage-must-be-destroyed-2010]]
 - State: [[carthage]] · wars: [[first-punic-war-264-241bce]] ·
   [[mercenary-war-241-237bce]]
 - Warfare hub: [[hubs/warfare/classical-antiquity/first-punic-war/first-punic-war|First Punic War]] (his undefeated Sicilian command)
-- Cause-debate: [[causes-of-second-punic-war]] · source: [[astin-cah-v8-1989]] · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy]]
+- Cause-debate: [[causes-of-second-punic-war]] · source: [[astin-cah-v8-1989]] · [[goldsworthy-the-fall-of-carthage-2000|Goldsworthy]] · [[hoyos-hannibals-dynasty-2003|Hoyos]]

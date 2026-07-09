@@ -5,8 +5,8 @@ origin: the art and architecture of the Roman Empire from the Flavians to the An
 applies_to_periods: [Late Antiquity]
 applies_to_regions: [mediterranean-world, italy]
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, rome]
 ---
 
@@ -73,6 +73,16 @@ wars with the **Column of Marcus Aurelius** (a darker, deeper-cut, more frontal 
 Trajan's Column) and the surviving **bronze equestrian statue**. **Commodus** completed the column
 and ended in the megalomaniac **bust as Hercules** that "inspired his assassination."
 
+## Roman Building Technique (Vitruvius, Concrete, the Arch, the Dome)
+
+Freeman's "Interlude: The Romans as Builders" (2014) supplies the engineering dimension behind these monuments. Strabo already contrasted Greek siting-for-beauty with Roman pragmatism (roads, aqueducts, sewers, harbours), but Freeman stresses the aesthetic ambition too: **Vitruvius** (*De Architectura*, the only surviving ancient architectural treatise) set three requirements — *firmitas* (soundness), *utilitas* (utility), and *venustas* (attractiveness via symmetry and proportion).
+
+- **Distinctively Roman building types** — the amphitheatre, the Roman-form theatre, the bath, the market building, and the basilica — emerged not in Rome but in the Greek-influenced cities of coastal **Campania** (Pompeii had stone baths a century before Rome; Rome had no stone theatre before Pompey's in 55 BCE, no stone amphitheatre before the Colosseum).
+- **Concrete**: a strengthened mortar of lime and local volcanic ash (*pozzolana*), perfected over two generations, that would set underwater and enabled "the encapsulation of space" rather than mere structural mass — the precondition for vaults and domes. Only emperors commanded the resources to exploit it fully.
+- **The arch** (not a Roman invention, but made their own): understood to bear far greater stress than a stone lintel, permitting large spans; monumentalized in the **triumphal arch** (first under Augustus) as a symbol of empire spread across the provinces.
+- **The dome**: from early examples at the Baths of Baiae and Nero's octagonal Domus Aurea chamber through Domitian's palace to its culmination in **Hadrian's Pantheon** — a 43-metre unreinforced concrete dome (the world's largest until modern times), lightened by graded aggregate and coffering, its interior containing a perfect sphere.
+- **Aqueducts** (Aqua Appia 312 BCE onward; Aqua Marcia's constant 1-in-354 fall, siphons across valleys, mostly run underground to protect purity) and vast **imperial baths** (Caracalla's held 1,500 bathers) carried the technology across the empire as an instrument of Romanization. The legacy runs from the Christian basilica-church and Hagia Sophia through Piranesi to Washington's domes and Pennsylvania Station.
+
 ## Significance
 
 Ling's conclusion: by the close of the Antonine age the Roman world was "visually a splendid place"
@@ -89,4 +99,4 @@ achievement**, in which even the poorest could share the great public monuments.
   [[hadrian|Panhellenion]]
 - Trajan's [[dacian-wars-101-106|Dacian Wars]] (the Column) and Marcus' [[marcomannic-wars-166-180|Marcomannic Wars]]
   (his Column); [[commodus|Commodus]] as Hercules
-- Source: [[bowman-cah-v11-2000]] (Ch. 34, Roger Ling)
+- Sources: [[bowman-cah-v11-2000]] (Ch. 34, Roger Ling); [[freeman-egypt-greece-rome-2014]] (Interlude 9, "The Romans as Builders")

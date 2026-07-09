@@ -9,8 +9,8 @@ affiliated_with: [Macedon, the Greek and Macedonian settler class, the Egyptian 
 opposed_by: [[[seleucid-empire]], [[antigonid-dynasty]], native Egyptian revolts, [[rome|Rome]]]
 key_events: [[[wars-of-the-diadochi-323]], [[syrian-wars]], [[battle-of-raphia-217]]]
 key_processes: [[[hellenistic-monarchy]], [[hellenistic-world]], [[ruler-cult]]]
-sources_ingested: 8
-last_updated: 2026-06-27
+sources_ingested: 10
+last_updated: 2026-07-08
 tags: [actor, dynasty, state, classical-antiquity, egypt]
 ---
 
@@ -34,6 +34,14 @@ seven million Egyptians. The statesman's task was "to create the illusion" that 
 immigrants' contribution justified their privileged share; [[ptolemy-i-soter|Soter]]
 and Ptolemy III Euergetes managed it, [[ptolemy-ii-philadelphus|Philadelphus]] (in
 Turner's reading) over-pressed and "frittered away his assets."
+
+**Simon Price** (OHCW, 1986): [[ptolemy-i-soter|Ptolemy]] received Egypt at Alexander’s
+death and founded a dynasty lasting until Cleopatra’s defeat by Augustus (31 BCE); the
+Ptolemies also at times controlled Libya, southern Syria, Cyprus, parts of southern
+Turkey, and Aegean islands. Because Egypt had only **three Greek cities**, Ptolemaic
+administration was larger and more elaborate than the Seleucid: it adopted Pharaonic
+districts/areas/villages, added military stationing and complex taxation, and staffed
+itself largely with Greeks (Egyptians employed only if they learned Greek).
 
 ## Governing Structure
 
@@ -88,6 +96,36 @@ holders of Cyprus, Coele-Syria (the prize of the [[syrian-wars|Syrian Wars]] wit
 of anti-Macedonian coalitions in Greece. Their alliance with the Egyptian priesthood
 (the temple-building, the trilingual priestly decrees) was the hinge of internal
 stability — and its breakdown the measure of their decline.
+
+## Cleruchy, tithe, and war finance (CHGRW)
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|Billows / Sekunda /
+Serrati (CHGRW)]] elaborate the military-fiscal machine. Non-Macedonian Successor kingdoms
+had to create Greco-Macedonian phalanx recruiting bases; the Ptolemaic **cleruchic system**
+is well documented: *kleruchoi* settled (esp. Arsinoite nome) liable for war service; heirs
+trained in gymnasia; grants from Ptolemy I, common under Philadelphus; 8,000 Gaza 312
+prisoners settled. Reorganization before the Fourth Syrian War (219) still fielded Household
+cavalry 700, *agema* 3,000, ~2,000 peltasts, phalanx perhaps 25,000, plus 4,000
+Thracian/Gaul descendants (Polyb. 5.64–5). Settler-soldier systems were limited by crown
+land; third-century manpower stabilized or decreased. Arming natives was the alternative —
+Ptolemies trained Egyptians as phalangites before Raphia; Polybius (5.107.1–3) attributes
+post-Raphia revolts directly to arming Egyptians. By Raphia ~1/3 of the army was native
+Egyptian. Cleruchy was a privileged “state within a state” (up to ~37% of land in some
+northern areas), partly offsetting seditious native *machimoi*; by mid-third century Greek
+recruitment fell. Cleruch land theoretically revocable royal property became hereditary,
+alienable by mid-second century, and inheritable by women by the first century — decoupling
+grant from active service.
+
+Once kingdoms stabilized, plunder remained lucrative but costly armies forced non-aggressive
+revenue; Ptolemy II Philadelphus’s 260s **agricultural tithe** became the dynasty’s chief
+income — state/regional/local officials plus private tax-farming; burden on farmers could
+reach ~60% fixed grain handover. Serrati stresses the Ptolemies were military imperialists,
+not maximising wealth for society: the tithe existed to wage war. Egypt’s defensibility +
+tithe success explain relatively low aggression yet long survival and fabulous wealth
+(Cicero: 12,500 talents annual revenue; Diodorus: 6,000). Conflict zones also included
+western Asia Minor (all three empires + Attalid rise) and Aegean islands (Ptolemaic vs
+Antigonid fleets over the League of the Islanders). See [[hellenistic-warfare]],
+[[ptolemaic-economy]].
 
 ## Historiography
 

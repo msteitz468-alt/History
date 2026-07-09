@@ -9,7 +9,7 @@ affiliated_with: [papacy, gregory-i, Kingdom of Kent]
 opposed_by: [British (Celtic) church resistance to Roman customs]
 key_events: [Gregorian mission 596–597, conversion of Æthelberht of Kent, foundation of the see of Canterbury]
 key_processes: [christianisation-of-anglo-saxon-england, conversion-of-britain-and-ireland]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-08
 tags: [actor, person, early-middle-ages, british-isles]
 aliases: [St Augustine of Canterbury, Austin]
@@ -24,6 +24,10 @@ aliases: [St Augustine of Canterbury, Austin]
 ## Role and Significance
 
 Augustine's mission tied English Christianity to **Rome** rather than solely to the British/Irish traditions already present in the islands — a tension later negotiated at the [[synod-of-whitby-664|Synod of Whitby]] (664). Bede is the principal narrative source.
+
+## From Logan, History of the Church in the Middle Ages (2013)
+
+In 597 [[gregory-i|Gregory]] sent Augustine, a monk of Gregory’s Caelian monastery. Kent already had Christian Queen Bertha (Frankish princess) at St Martin’s (or its site); open-air meeting with [[æthelberht-of-kent|Ethelbert]] on Thanet; Gregory reported to Alexandria (July 598) that more than 10,000 English were baptized at Christmas (figurative large number); Ethelbert almost certainly Christian by 601. Logan judges Augustine’s treatment of the long-Christian Romano-British church as hubristic and condescending (Easter rebuke; Bede’s Kentish-sourced healing-sign and refusal-to-rise tale; threat of destruction; Bangor monks). Final judgment: mission **less than successful** (pagan reversion; alienation of British Christians) but established a Roman connection and enduring “Augustine myth”; much southern conversion was independent of Canterbury. Later Whitby/Bede tales err by exaggerating Augustine and belittling other missionaries to Britain.
 
 ## Related
 

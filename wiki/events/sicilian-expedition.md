@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: [the appeal of Segesta against Selinus and Syracuse, Athenian ambition for Sicily after the Peace of Nicias, [[actors/alcibiades|Alcibiades']] advocacy]
 consequences: [the annihilation of the Athenian expeditionary force, a catastrophic loss of ships, men and money, the emboldening of Athens' enemies, the turning point toward the [[fall-of-athens-404bce|fall of Athens]]]
-sources_ingested: 2
-last_updated: 2026-06-23
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, sicily]
 ---
 
@@ -77,6 +77,24 @@ Nicias surrendered to Gylippus. The generals were executed. Survivors (over 7,00
 
 caused_by: the collapse of the Peace of Nicias, Athenian over-ambition (urged by [[actors/alcibiades]] despite [[actors/nicias]] warnings), and Nicias' repeated failures to press the siege or intercept relief. produced: the **destruction of a vast fleet and army** (over 200 triremes lost overall; ~40,000 men in the final phase) and the treasury that funded them; the loss of Athens' aura of invincibility; the **revolt of the allies** and the intervention of Persia; and the **occupation of Decelea**, which strangled Attica. It is the hinge after which Athens' chance of outright victory "virtually disappeared" — the road to the [[fall-of-athens-404bce|fall of Athens]]. Kagan stresses that only Nicias’ failed rhetorical escalation of the original modest force and his later refusal to withdraw turned a containable reverse into total disaster.
 
+### Osborne (2000) — the first Sicilian intervention and the "truest explanation"
+
+[[sources/osborne-classical-greece-2000|Osborne (ed., 2000)]] (Ch. 7, Kallet) situates the
+415 expedition against an earlier, smaller Athenian intervention in Sicily (427, during the
+Archidamian War), sent in response to an appeal from the ally **Leontini** (whose embassy
+included the sophist **Gorgias**) against Syracuse; Thucydides suggests Athens's real
+motive then was to prevent grain export to the Peloponnese and to test the feasibility of
+conquering Sicily outright (3.86). For the major expedition of 415, framed publicly as aid
+to the ally **Egesta** against Selinus (an ally of Syracuse), Osborne likewise quotes
+Thucydides's verdict that the "truest explanation... for the expedition was a desire to
+conquer the whole island" (6.6.1). Osborne credits the young, flamboyant **Alcibiades**
+with pushing the expedition against the objections of the cautious **Nicias**, and follows
+Thucydides in judging that Alcibiades's recall and flight over the Herms affair "did more to
+hurt the Athenians than any other single factor." The expedition ended in disaster in 413
+after a naval defeat by the Syracusans, aided by Sparta; in Thucydides's summary, "all that
+they suffered was great; they suffered... a total destruction, their fleet, their army, all
+was destroyed, and few of many returned home" (7.87.5).
+
 ## Historiography
 
 Thucydides made the expedition his tragic masterpiece; his analysis blames the **quarrels at home** (the exile of Alcibiades) and the people's hope of "large funds for public pay" as much as the field commanders. [[actors/kagan-donald|Kagan]] provides detailed causal reconstruction emphasizing individual agency: Nicias' timidity, overconfidence, and reputation-driven refusal to retreat after the 414 reversal and the Epipolae defeat; the decisive role of Syracusan cavalry and tactical adaptation in confined waters; and the fatal delay from the eclipse. Kagan's narrative underscores that the Athenians showed determination rather than democratic fickleness in reinforcing, yet Nicias' personal calculations doomed the force. Contrasts with Thucydides' more structural/tragic framing.
@@ -109,4 +127,4 @@ Kagan judges Nicias tactically sound on cavalry delay post-battle but strategica
 - War: [[peloponnesian-war]] · prelude: [[siege-of-melos-416bce]] · sequel: [[fall-of-athens-404bce]]
 - Hubs: [[hubs/warfare]], [[hubs/warfare/warfare-hub]], [[hubs/warfare/strategy]], [[hubs/warfare/tactics-and-battle-strategies]]
 - Concepts: [[concepts/hanson-peloponnesian-fighting]]
-- Source: [[actors/kagan-donald|Kagan, *The Peloponnesian War* (range 21001-25000 + prior)]]; [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 10, Andrewes)
+- Source: [[actors/kagan-donald|Kagan, *The Peloponnesian War* (range 21001-25000 + prior)]]; [[lewis-cah-v5-1992|CAH Vol. V]] (Ch. 10, Andrewes); [[sources/osborne-classical-greece-2000|Osborne (ed.), *Classical Greece 500–323 BC* (2000)]] (Ch. 7, Kallet)

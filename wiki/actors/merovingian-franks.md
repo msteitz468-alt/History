@@ -9,7 +9,7 @@ affiliated_with: [frankish-kingdoms]
 opposed_by: [visigoths, burgundians, saxons, other-frankish-groups]
 key_events: [tomb-of-childeric-481, clovis-conquests, battle-of-tertry-687, pippinid-coup-751]
 key_processes: [frankish-state-formation, roman-barbarian-synthesis, christianisation-of-franks, shift-to-ad-sanctos-burial]
-sources_ingested: 5
+sources_ingested: 6
 last_updated: 2026-07-08
 tags: [actor, dynasty, early-middle-ages, western-europe, merovingian]
 ---
@@ -117,3 +117,13 @@ Source: [[kim-eurasian-empires-2017|Kim, Vervaet & Adalı (eds.), *Eurasian Empi
 As Romano-Germanic administration simplified, secular ambition shifted from senatorial civilian *otium* to military profile (*duces*, *comites*); by 600 Frankish courts resembled later medieval more than fifth-century ones. Military costume (belt as *cingulum*/*balteum*, later gold and jewels) became standard aristocratic dress — a militarization of hierarchy, **not** simply “Germanization” of ethnicity; Wickham also rejects reading Gregory’s violence as proof aristocrats behaved worse than Romans. Seventh-century monastic foundations stabilized sub-regional aristocratic wealth (monasteries held gifted estates more securely than secular houses under royal disfavour) and fused sanctity with *nobilitas* (*Adelsheiligen*).
 
 **Link types:** `part_of:` [[post-roman-transformation-of-the-west]], [[politics-of-land]], [[tax-based-vs-land-based-states]]; `produced:` Frankish western hegemony; `followed_by:` [[carolingian-empire]], [[charles-martel]]; `contrasts_with:` [[visigoths]] (surviving national land tax), [[lombards]] (smaller aristocracy), [[byzantine-empire]] (tax-state continuity). Source: [[wickham-framing-the-early-middle-ages-2005]].
+
+## From Mitchell, Later Roman Empire (2015)
+
+**Burgundian foederati and Catholic politics (context for Clovis).** Burgundians: Worms kingdom 413 under Gundahar; crushed by Aetius/Huns 435; resettled 443 near Lake Geneva as *foederati*; expand to Lyon; Ricimer marriage/alliance. Until the fall of the western empire they “still identified themselves as Roman *foederati*”; many were Catholics (not Arians) — Clotild’s pressure on Clovis; Gundobad advised by Avitus of Vienne; Sigismund as Catholic *patricius* under Anastasius. Law codes *Lex Gundobada* ~500, *Lex Romana Burgundionum* 519.
+
+**Childeric and Clovis.** Childeric aids Aegidius vs Visigoths 463 and Paulus vs Odoacar/Saxons at Angers 469; succeeded ~481 by Clovis, who defeats Syagrius (Soissons), Alemanni/Ripuarians, then Alaric II at Vouillé 507 (Ostrogothic intervention 508 blocks Mediterranean access). Gregory’s conversion narrative (Clotild; Alemannic victory ~496) oversimplifies gradual Christianization. “The main significance of Clovis’ shift to Catholicism was political and signaled his ambition to take on the mantle of Roman power”; Anastasius consulship 508 with purple/diadem/largesse at Tours; burial Holy Apostles Paris. Merovingian mythical bull lineage (Merovech) suits tribal more than Roman successor ideology.
+
+**Partible succession and Gregory’s world.** After Clovis (d. 511), partible succession among sons; Theoderic I/Theodebert I dominate the Rhine bank and exploit the Gothic War — take Provence, sack Milan 539 (Procopius alleges continued human sacrifice). Clothar I reunites Franks 558–561; then four sons with residences Paris/Reims/Soissons/Orléans but **non-territorial kingship** based on lineage and personal followings, expressed in royal *circuitus*/adventus. Sixth-century Gaul’s fabric is known through Gregory of Tours (b. 538, bishop 573, d. c.594) — Christian aristocratic outlook a century after Sidonius; classical frame recedes; “the outlines of early medieval Europe are already clear.”
+
+Source: [[mitchell-later-roman-empire-2015|Mitchell, *A History of the Later Roman Empire* (2015)]].

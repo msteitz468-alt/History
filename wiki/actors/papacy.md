@@ -9,8 +9,8 @@ affiliated_with: ["the Latin (Roman Catholic) Church", "the College of Cardinals
 opposed_by: ["the Holy Roman emperors (Investiture Contest; the Hohenstaufen struggle)", "antipopes", "the eastern (Orthodox) churches"]
 key_events: [[[investiture-contest]], "the Election Decree of 1059", "the East–West Schism (1054)", "the First Lateran Council (1123)"]
 key_processes: [[[gregorian-reform]], [[papal-monarchy]]]
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 5
+last_updated: 2026-07-08
 tags: [actor, institution, mediterranean, western-europe]
 ---
 
@@ -133,9 +133,38 @@ Great Schism, conciliarism) treated in [[abulafia-ncmh-v5-2000|NCMH V]] and late
 volumes — and, far beyond, the early-modern and modern papacy. The institution's
 continuity across two millennia makes it one of the longest-lived in world history.
 
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Logan’s survey supplies a continuous narrative spine for the Latin papacy from late antiquity to 1492, complementing the NCMH institutional layers above:
+
+- **Body and soul.** The medieval church must be studied as both institution (papacy, councils, law, orders) and inner spiritual life; the papacy is central to the former without exhausting the latter.
+- **Set by mid-eighth century.** From [[gregory-i|Gregory I]] (590) to [[boniface|Boniface]] (d. 754) an active papacy and a Christian population across most of western Europe (except Scandinavia) form the stage; the [[franco-papal-alliance]] then binds Rome to the Carolingians ([[pepin-iii|Pepin III]], [[charlemagne]]).
+- **Disarray and reform.** The nadir of the tenth–early eleventh centuries ([[formosus]], [[john-xii]], [[benedict-ix]]) gives way to reform from Leo IX and [[gregory-vii|Gregory VII]] through the [[investiture-contest]] and [[east-west-schism-1054]] — Logan’s triad of benchmarks: strong papacy, separation from the Greek East, crusading ideal.
+- **High tide and temporal trap.** [[innocent-iii|Innocent III]] and [[fourth-lateran-council-1215|Lateran IV (1215)]] mark legislative and political high water; yet temporal possessions force popes into Italian politics so that Christian rulers are spiritual sons and often political enemies — a structural compromise of spiritual mission (illustrated after Innocent by Frederick II).
+- **Vacancies, Anagni, Avignon.** Late-thirteenth-century deadlocks (Viterbo 1268–71; long vacancies; Charles of Anjou as uncontrollable client), [[boniface-viii|Boniface VIII]]’s clash with [[philip-iv-capetian|Philip IV]] culminating in the [[outrage-of-anagni-1303|Outrage of Anagni]], and the [[avignon-papacy]] (1309–1377) — not a true “Babylonian Captivity,” but fiscal-bureaucratic peak and French proximity — lead to the [[great-schism-1378|Great Schism]].
+- **Constance and after.** [[council-of-constance-1414|Constance]] heals the schism under [[martin-v|Martin V]]; Logan rejects “end of the medieval papacy” as exaggeration — nations questioned *which* pope, not the institution — yet conciliar scars and fifteenth-century recovery of monarchical supremacy (against Basel; Renaissance princely court) set the stage for 1492 and beyond. See also [[council-of-pisa-1409]], [[conciliarism]], [[pope-nicholas-i]], [[leo-ix]], [[alexander-iii-pope]].
+
+Source: [[logan-history-of-the-church-in-the-middle-ages-2013]].
+
+## Gibbon, *Decline and Fall* (1776–1788) — papacy across volumes
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]]’s papacy is the long rise of spiritual empire after Western collapse — anti-clerical irony throughout. Treat as **historiography**.
+
+- **Primitive to Petrine claim:** First episcopal presbyters would have rejected tiara pomp; “the bishops of Rome very prudently claimed the inheritance of whatsoever prerogatives were attributed either to the person or to the office of St. Peter”; primacy of order accepted, monarchy rejected by Asia/Africa.
+- **Athanasius and the Apostolic see:** Second exile — Roman pontiff persuaded to treat the appeal as “the peculiar interest of the Apostolic see” (Sardica symptom).
+- **After Western fall:** Bishops of the Imperial city extended dominion over Latin laity and clergy; “The church of Rome defended by violence the empire which she had acquired by fraud.”
+- **[[gregory-i|Gregory I]]:** “a singular mixture of simplicity and cunning, of pride and humility, of sense and superstition”; British mission reflects less glory on Caesar than on Gregory (detail on Gregory’s page).
+- **Iconoclasm severs Italy:** Italians swear to die for pope and images; withhold tribute; destroy statues of Leo; “The liberty of Rome… was rescued, after seven hundred and fifty years of servitude, from the persecution of Leo the Isaurian” (see [[byzantine-iconoclasm]]).
+- **Temporal power’s soft basis:** Pope’s authority on “the soft, though more solid, basis of opinion and habit”; Constantine’s donation believed authentic through four centuries’ ignorance; keys of Paradise as pledge of earthly obedience — yet Romans least revere the pope they observe familiarly.
+- **Superstition and violence:** Under superstition clergy hope much from ignorance and fear much from violence; Clermont possible because Capetian power is weak (Urban braves Philip in Auvergne).
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/gibbon-edward]]
+
 ## Related
 
 - [[gregorian-reform]], [[gregory-vii]], [[urban-ii]] — the reform and its popes.
 - [[papal-monarchy]], [[dictatus-papae]] — its governmental form and ideology.
 - [[investiture-contest]] — its great struggle with the empire.
 - [[the-papacy-eighth-ninth-centuries]] — the earlier Carolingian-era papacy.
+- [[gregory-i]], [[avignon-papacy]], [[great-schism-1378]], [[council-of-constance-1414]], [[western-medieval-church]]
+- [[sources/gibbon-decline-and-fall-1776]]

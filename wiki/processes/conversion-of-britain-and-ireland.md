@@ -8,8 +8,8 @@ region: [british-isles]
 process_type: religious
 driven_by: [continental and British missionary activity, the social and political utility of Christianity to kings, association with Rome and the Frankish world, access to literacy and stone-building, monastic asceticism]
 produces: [an ecclesiastical framework of bishoprics and minsters across the archipelago, the Insular golden age of learning and art, the Roman/Irish Easter controversy and its resolution at Whitby, the integration of Britain and Ireland into Latin Christendom]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, early-middle-ages, british-isles]
 ---
 
@@ -91,8 +91,28 @@ conversion]] in the Danelaw and the tenth-century [[actors/benedictine-reform|Be
 reform]]. The "Celtic church" as a unified counter-tradition is now rejected by scholars
 as a modern myth — the regional churches were variants within a shared Latin Christianity.
 
+## From Logan, History of the Church in the Middle Ages (2013)
+
+- **Roman Britain before the Middle Ages (R1-018):** Alban slain at Verulamium (third century); three British bishops at Arles (314) and bishops at Rimini (359); Silchester church, Dorchester cemetery, and Water Newton Christian plate attest a substantial Christian community.
+  - Quote: "after Christian emancipation three bishops from Britain attended the church council held at Arles in 314"
+- **Dual missions to Ireland (R1-034):** Best modern opinion (per Logan): two missions—Palladius sent by Pope Celestine from 431 as bishop to Christians already in eastern Ireland (later Leinster); Patrick sent by British bishops in the later fifth century, active in the west (Munster/Connacht).
+- **Irish church structure (R1-035):** Logan rejects the simple model that Patrick imposed bishop-based organization soon replaced by abbot-based structure. Post-Patrician church was complex: monastic federations, family-allied and “free” churches; bishops retained sacramental roles within mixed systems.
+- **Irish monastic traits (R1-036):** (1) stark physical penance; (2) sixth-century penitentials for private confession/absolution/penance, later taken to the Continent; (3) *peregrinatio pro Christo*—voluntary exile as penance, sending Columba to Iona, [[columbanus|Columbanus]] to the Continent, monks to Faroes/Iceland. Riché: “missionaries in spite of themselves.”
+- **Columba, Iona, Lindisfarne (R1-037):** Columba’s Iona (perhaps 563) became a centre for converting Picts and is later associated with the Book of Kells. In 635 Aidan and twelve monks from Iona founded Lindisfarne at Oswald of Northumbria’s invitation.
+- **Irish learning (R1-039):** Bischoff: within a century of conversion Ireland became a dynamic force shaping European civilization. Irish developed book-based pedagogy for learning Latin as a foreign language—later brought to Charlemagne’s court by Alcuin. Irish monks copied and transmitted manuscripts; libraries at Bobbio, St Gall, later Salzburg owed much to Irish pilgrims.
+- **Aidan and enduring northern conversion (R2-019):** Oswald, baptized by Irish monks in exile, requested help from Iona (635); Aidan—“outstanding gentleness, devotion and moderation” (Bede)—on Lindisfarne near Bamburgh; Oswald interpreted for Irish preachers; Northumbrian church later sent missionaries to convert Mercians (653).
+  - Quote: "What Oswald got in response, in 635, was the remarkable Aidan, whom Bede was to call ‘a man of outstanding gentleness, devotion and moderation’."
+- **Whitby 664 and Roman orbit (R2-020–021):** Easter (and tonsure/baptism) dispute decided by King Oswy for “Roman” usage—not a papal power-grab but a local Northumbrian meeting; long-term, English church organized in territorial dioceses and firmly in the Roman orbit, enabling later English continental missionaries under papal authority.
+  - Quote: "Whitby did not signify an attempt by Rome to bring the Celtic church into its jurisdiction. Given the extremely passive exercise of papal jurisdiction at this time … the event at Whitby should be seen as the local issue it was."
+- **Insular learning (R2-022):** Seventh–eighth-century English scholarly pre-eminence derived from interwoven Irish and continental/Roman streams—“insular” culture that underwrote Charlemagne’s invitation of Alcuin of York (782/783).
+
+Source: [[logan-history-of-the-church-in-the-middle-ages-2013]]
+
 ## Related
 
 [[periods/early-middle-ages-britain-ireland]] · [[events/synod-of-whitby-664]] ·
 [[concepts/insular-art]] · [[places/ireland]] · [[places/northumbria]] ·
-[[sources/stafford-companion-early-middle-ages-britain-ireland-2009]]
+[[columbanus]] · [[benedict-of-nursia]] ·
+[[sources/stafford-companion-early-middle-ages-britain-ireland-2009]] ·
+[[logan-history-of-the-church-in-the-middle-ages-2013]]
+

@@ -19,7 +19,7 @@ produces:
   - Cruzob' autonomous society and Cult of the Talking Cross
   - forest refugee economies and southern lowland ethnic reconfiguration
   - modern Yucatec Maya majority rural populations and cultural reinvention
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-08
 tags: [process, mesoamerica, early-modern, long-19th-century, colonial]
 ---
@@ -126,6 +126,10 @@ Twentieth-century research produced far more **archaeological** studies of prehi
 
 **Bibliographical pillars** (Jones essay): Farriss *Maya Society under Colonial Rule* (sweeping colonial synthesis); Patch *Maya and Spaniard in Yucatan, 1648–1812*; Chamberlain *Conquest and Colonization of Yucatan*; Roys contact ethnography (Quezada revises); Clendinnen *Ambivalent Conquests* (mid-16th-c. idolatry inquisition); Restall *Maya Conquistador* / *Maya World*; Jones *Maya Resistance* and *Conquest of the Last Maya Kingdom* (southern frontier / 1697); de Vos on Lacandona; Cook & Borah demography; Rugeley, Reed, Dumond, Bricker, González Navarro, Lapointe on Caste War; Wells & Joseph on henequen age and “Revolution from without”; Sullivan on 20th-c. Cruzob’ descendants; Redfield & Villa Rojas Carnegie ethnography (valuable detail, weak political-economy grounding — Strickon via Cline). Landmark primary: Landa *Relación* (Tozzer); *Relaciones histórico-geográficas*; Quijada idolatry papers; Cogolludo *Historia de Yucatán* (1688); Chilam Balam (Edmonson); Villagutierre (1701 Itza); Avendaño *Relación*.
 
+## From Evans & Webster 2001
+
+Direct colonial-modern encyclopedia coverage for this process is thin. One load-bearing Postclassic-to-colonial continuity claim (southern Lowlands synthesis): after the Terminal Classic, the southern Lowlands saw dramatic central depopulation (less so Belize), smaller construction, disappearance of inscribed monuments, riverine/coastal/lakeside clustering of Yucatecan speakers, and northern ceramic/architectural ties; later the zone served as **refuge from Spanish demands** and from the mid-19th-c. **Caste War**; by the encyclopedia’s writing only a few dozen Itza speakers remained centrally, few thousand Mopan southward, with Kekchi in-migration. This bridges [[maya-classic-collapse-800ce]] demography to Jones’s colonial refuge geography without replacing CHNPA II.2 institutional detail. Pre-contact political baseline: Spanish first encountered northern Maya ~half century after [[mayapan|Mayapan]]’s fall ([[conquest-of-yucatan-1527]]).
+
 ## Related
 
-[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Jones Ch. 20) · [[colonial-mesoamerica-native-peoples]] · [[maya-civilization]] · [[conquest-of-yucatan-1527]] · [[caste-war-yucatan-1847]] · [[highland-maya-colonial-modern]] · [[spanish-conquest-of-mexico-1519]] · [[chichen-itza]] · [[hubs/regions/mesoamerica]]
+[[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2]] (Jones Ch. 20) · [[colonial-mesoamerica-native-peoples]] · [[maya-civilization]] · [[conquest-of-yucatan-1527]] · [[caste-war-yucatan-1847]] · [[highland-maya-colonial-modern]] · [[spanish-conquest-of-mexico-1519]] · [[chichen-itza]] · [[mayapan]] · [[hubs/regions/mesoamerica]] · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster encyclopedia]]

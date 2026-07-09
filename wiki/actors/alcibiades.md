@@ -9,8 +9,8 @@ affiliated_with: [[[athens]] (intermittently), [[sparta]] (in exile), the court 
 opposed_by: [Nicias, the Athenian democracy's suspicion, [[sparta|King Agis]], [[lysander]]]
 key_events: [the Quadruple Alliance and Mantinea (418), the Sicilian Expedition and his recall 415 BCE, his defection to Sparta, his role in the Ionian War and Cyzicus (410), his return to Athens 407 BCE, Notium and final exile 406 BCE]
 key_processes: [the politics of the late [[peloponnesian-war]]]
-sources_ingested: 2
-last_updated: 2026-06-23
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [actor, person, classical-antiquity, central-greece]
 ---
 
@@ -72,9 +72,13 @@ defection turned the [[sicilian-expedition|Sicilian Expedition]] into a catastro
 **Persia and Sparta** together; his recall briefly revived Athenian fortunes; his fall sealed
 them. He is the chief case study of the gap between individual brilliance and civic trust.
 
+## OHCW (Boardman/Griffin/Murray 1986) — Hornblower (Ch.6)
+
+[[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]] (Hornblower) places Alcibiades within the war’s second half without a freestanding biography: Athenian support for rebel satraps Pissouthnes and Amorges gave the Persian King motive to help Sparta; when Athens sent a fleet against Sicily in 415 and it was annihilated at Syracuse (413), the empire shook. Despite 411 oligarchic revolution and naval recovery (Cyzicus 410), Persian money via Cyrus after 407 enabled Lysander’s Aegospotami victory (405)—Hellespont blockade decisive. Hornblower’s structural emphasis is Persian finance and Hellespont grain control rather than personal psychology; Alcibiades’ career is the human face of the empire’s terminal phase (see also Murray Ch.9 on elite symposion culture and associational networks that produced figures of his type).
+
 ## Related
 
-- City/rivals: [[athens]] · [[sparta]] · Nicias · [[lysander]] · [[achaemenid-empire]]
+- City/rivals: [[athens]] · [[sparta]] · [[nicias]] · [[lysander]] · [[achaemenid-empire]]
 - War: [[peloponnesian-war]] · [[sicilian-expedition]] · [[fall-of-athens-404bce]] ·
   [[ostracism]] (Hyperbolus)
-- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Chs. 10–11, Andrewes)
+- Source: [[lewis-cah-v5-1992|CAH Vol. V]] (Chs. 10–11, Andrewes) · [[sources/boardman-oxford-history-classical-world-1986|OHCW (1986)]] (Hornblower Ch.6)

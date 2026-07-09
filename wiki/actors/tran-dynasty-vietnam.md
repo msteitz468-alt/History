@@ -9,8 +9,8 @@ affiliated_with: [[[thang-long]], [[dai-viet]], [[buddhism]]]
 opposed_by: [[[mongol-empire]], [[champa]]]
 key_events: [[[mongol-invasions-of-dai-viet-1258-1288]], [[battle-of-bach-dang-1288]]]
 key_processes: []
-sources_ingested: 1
-last_updated: "2026-07-03"
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, dynasty, high-middle-ages, late-middle-ages, southeast-asia]
 ---
 
@@ -53,3 +53,47 @@ Taylor treats the Tran as a deliberate, self-conscious correction of the Ly's st
 ## Related
 
 [[tran-hung-dao|Tran Hung Dao]] · [[thang-long|Thang Long]] · [[mongol-invasions-of-dai-viet-1258-1288|Mongol invasions]] · [[battle-of-bach-dang-1288|Battle of Bach Dang]] · [[ly-dynasty-vietnam|Ly dynasty]] (predecessor)
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+**Structure.** Miksic and Goh date Tran rule of [[dai-viet|Dai Viet]] 1225–1400 (175 years to Ho Quy
+Ly's usurpation from the five-year-old Thieu De). Control was secured first by marriage alliances then
+by overthrow of the [[ly-dynasty-vietnam|Ly]]; Thai Tong was first king, nephew of strongman Tran Thu
+Do (1194–1264), who took Thang Long in the 1220s from a Chinese-ancestry base at Tuc Mac in the lower
+Red River Delta (early twelfth-century migration). The Senior King (*Thai Thuong Hoang*) system —
+abdicated kings continued advising — paralleled Classic Indonesian practice; dual capitals paired
+Thang Long (ceremonial young king) with Tuc Mac/Thien Truong "Heavenly Capital" (senior ruler). Sixty-
+one administrative units were reorganized Left/Right; the city expanded beyond the walls. Abdication
+in favour of a son is recorded contemporaneously with late Cambodian practice. Early Tran continued Ly
+Buddhist sponsorship with monks in administration; after the Mongol wars, literati replaced monks in
+office, and Chinese-style civil-service exams, the Royal Academy, and Confucian Temple rose in
+importance (Buddhist practice continued with more wood carving, fewer stone objects). Tran Ming Tong
+(1314–1357) shifted from Buddhist Thien toward classic Confucian study (Royal Study Hall); failed re-
+centralization is linked to vulnerability to Cham invasion. Chinese-style annals (*Dai Viet su ky*)
+belong to this court culture.
+
+**War.** Mongols attacked Thang Long in 1258, 1285, and 1288; Dai Viet repelled them but the capital
+was razed with major losses (one campaign tied to Kublai's move against non-submissive Champa and Tran
+refusal of transit). Tran Nhan Tong (1278–93) wrote to Kublai of death, destruction, and desecration;
+the citadel was rebuilt c. 1291–93. Military emphasis included light, fast watercraft holding thrice
+the oarsmen. Cham invasions ran three decades from 1361; the capital fell 1371, 1377, and 1383
+(six-month occupation); the 1389 failure when Che Bong Nga was killed is treated as the decisive
+turning point shifting power to Dai Viet. In the 1380s–1390s the Ho family intermarried with the Tran
+and consolidated Thang Long; Ho Quy Ly, of Chinese origin, adopted the Vietnamese surname Le to court
+local elites, plotted the Tran king's murder while regent, and established his own short dynasty —
+followed by Ming invasion and the occupation that ended both Ho and residual Tran resistance.
+
+**Material culture.** Ceramic production was major (Ba Dinh dishes/wasters; Bat Trang floor tiles
+"strong as iron"; Kiep Bac, Phu Lang); after 1287 moulding increased (Chinese influence); exports in the later Tran century amid Ming private-trade restrictions reached Japan, the Philippines,
+and Indonesia. Large bronzes include the Pho Minh cauldron (10×4 m); 1260 tribute objects were gold-
+inlaid; an 83.4 cm sword comes from Ba Dinh. Architecture favoured complexes over single structures,
+often coastal/highland versus Ly delta sites; multi-storeyed towers (Binh Son, Pho Minh — pagoda 1262,
+tower c. 1305–10 as repository for Tran Nhan Tong's remains); syncretic Buddhist–Hindu–Daoist forms;
+post-Mongol boom under the Truc Lam sect / Phap Loa (1284–1330), e.g. 1314 Bao An with 33 structures;
+multi-arm Quan Am marks transition toward Vietnamese Buddhism; fourteenth-century garuda plinths may
+reflect Cham prisoner labour (Nguyen-Long). Mongol, Cham, and later Ming destructions limit the
+archaeological view of Tran creativity (metal inlay, gold-inlaid ceramics).
+
+Cross-links: [[ly-dynasty-vietnam]] · [[dai-viet]] · [[thang-long]] · [[champa]] ·
+[[mongol-invasions-of-dai-viet-1258-1288]] · [[le-dynasty-vietnam]] ·
+[[miksic-goh-ancient-southeast-asia-2017]]

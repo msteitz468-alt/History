@@ -5,8 +5,8 @@ origin: Emic; the dualist heresy of high-medieval western Europe, organized as a
 applies_to_periods: [High Middle Ages, Late Middle Ages]
 applies_to_regions: [western-europe, mediterranean, balkans]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -78,6 +78,14 @@ elaborate dualist "church" is partly a construct of its inquisitorial sources. H
 (writing within the older consensus) treats the Cathar church as a real, structured
 counter-institution; the Bosnian dimension (Fine vs. Šanjek) remains openly disputed.
 
+## From Logan, History of the Church in the Middle Ages (2013)
+
+Logan treats popular heresy as **lay-centered dissent** in the high Middle Ages and reports the persuasive view that the Cathars were the **most significant medieval heretics** by numbers and superior organization. Movement began in the **1140s**; survived Innocent’s response; death-blow came mainly by **inquisition**, not crusade. Naming: **Cathars** (*katharos*, “pure”) and **Albigensians** (from Albi). Possible **Bogomil** influence and dualist theology (material creation evil; good God of spirit). By late twelfth century communities at Cologne, Champagne, Liège, Bonn, Mainz ([[hildegard-of-bingen|Hildegard]] sent an anti-Cathar sermon), Languedoc from the 1160s (Lombers conference 1165 near Albi), Lombardy (Mark the Gravedigger at Concorezzo), and Italian centres (Desenzano, Vicenza, Verona, Mantua, Florence, Orvieto) — strongest in southern France and northern Italy.
+
+**Organization:** elite *perfecti* (world-renouncing; only full Christians in their own terms) and *credentes*; bishops and hierarchical structure. Extreme vs moderate dualism among groups. **Scale:** not a mass movement — scores of communities, not majority conversion of Languedoc. **Ethic:** world-renunciation as the **only** route to salvation (unlike Catholic monasticism, even Bernard’s rhetoric); dualism also solved the problem of evil/material disaster. **Mutual antagonism** with [[waldensians|Waldensians]], who debated against them.
+
+**Northern vs southern repression before 1198:** Cologne burnings 1144, trials 1163; Bernard’s 1145 preaching at Toulouse/Albi short-term success — northern influence faded. South different: Lombers 1165 failed because secular authorities unwilling; Toulouse trial 1177 with abject merchant recantation yet sons later Cathars — leaving Innocent a “serious, seething problem” in 1198. Innocent made heresy suppression top priority; Diego/[[dominic-de-guzman|Dominic]] barefoot preaching and debates. [[albigensian-crusade-1209|Crusade]] broke political protection but not underground *perfecti*. **Gregory IX (1233)** appointed Dominicans as inquisitors (Toulouse, Albi, Moissac, Cahors); highly active early 1240s; by decade’s end Catharism’s back broken; remnants into early fourteenth century (e.g. Montaillou). Logan notes inquisitorial procedure and mild bulk penances under figures such as **Bernard de Caux** (1245–46) — mass burnings were the exception. Albi Cathedral appears in his visual materials as landscape of post-Cathar recovery.
+
 ## Related
 
 - [[albigensian-crusade-1209]] — the war launched against its protectors.
@@ -85,3 +93,4 @@ counter-institution; the Bosnian dimension (Fine vs. Šanjek) remains openly dis
 - [[mendicant-orders]] — the friars (Dominic preached against the Cathars) who led both
   the rival "apostolic" preaching and the Inquisition.
 - [[papacy]] · [[innocent-iii]] — the authority that mobilized against it.
+- [[waldensians]] · [[hildegard-of-bingen]] · [[logan-history-of-the-church-in-the-middle-ages-2013]]

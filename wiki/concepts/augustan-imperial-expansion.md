@@ -5,8 +5,8 @@ origin: the debate over whether Augustus pursued a systematic strategy of empire
 applies_to_periods: [Classical Antiquity, Late Antiquity]
 applies_to_regions: [italy, mediterranean-world, near-east, north-africa, western-europe, balkans]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -116,3 +116,16 @@ altar on Augustus' birthday and itself a memorial of the **subjection of Egypt**
   *par excellence*) · the standards of [[battle-of-carrhae-53bce|Carrhae]] recovered
 - Contrast: the *res publica restituta* domestic ideology of the [[principate]]
 - Source: [[bowman-cah-v10-1996]] (Ch. 4, Gruen)
+
+## Harris, *Roman Power* (2016)
+
+[[harris-roman-power-2016|W. V. Harris]] treats Augustan and early-imperial expansion as the last phase of a nearly continuous expansion process from the late fourth century BC down to **AD 16**, when Tiberius ordered Germanicus home after the German season and “the first serious halt” set in — a **deceleration**, not the absolute end of growth (the empire of 337 was still larger than that of 16). After Actium, decision-making changed permanently: nearly forty years of Augustan campaigns were “not simply ‘path-dependence’”; expansion was **expected** of the *princeps*, added to his authority (*Res Gestae* 26–7, 30), and was intended to add revenues. Harris stresses the “**big lie**” of conquering the Parthians (*RG* 29.2; Prima Porta; coins) while the 20 BC pact actually freed forces for Europe — “no cessation of military conflict” under Augustus. Organizational techniques of control included procurators as eyes and ears even in non-imperial provinces; the *aerarium militare* (AD 6); the vehicle-based trunk-road message system; and the use of provincials in legions plus regularized auxiliaries, producing by AD 14 a dramatic rise in provincial citizens. The deathbed *consilium* to maintain the empire within existing boundaries (Tacitus, *Annals* 1.11) may react to the AD 6–9 crises or to structural pressures; because many successors largely followed it, Harris suspects the latter.
+
+Ch. 4 sharpens the brake at **16**: Tiberius still annexed when advantageous (Cappadocia 17; Commagene 18) and used Cappadocian taxes to halve the auction tax, but opposed major wars of conquest; the Rhine–Elbe war was “never seriously resumed.” The age of **Hadrian and Antoninus Pius (117–61)** is when the cessation of expansion “really took hold,” even if later Mesopotamian campaigns (Julian 363; Heraclius) show residual ambition. Critics who treat Rome as still as aggressive as under the Republic are “correct up to a point, but seriously mistaken.” Ch. 8 synthesis ranks factors for deceleration after Tiberius: the **single most significant** was probably the emperor’s need to protect himself from usurpers (successful army commanders threatened the man at the top); few emperors desired Trajan-like personal conquests; the army’s fiscal burden (worsened by the Antonine Plague and Severan legion increases) restrained policy; many could convince themselves nothing outside was worth conquering; absolute monarchy let the emperor claim conqueror status without conquering; and the governing class lost the republican passion for military glory. By early fourth century few Romans thought about territorial expansion even though Constantine’s empire was larger than Tiberius’s with fairly secure frontiers.
+
+## Woolf, *Rome: An Empire's Story* (2012)
+
+Source: [[woolf-rome-empires-story-2012]].
+
+- Last free generation drove dramatic expansion (Atlantic to Caspian, temperate Europe, challenge to Parthia) on flimsiest pretexts—main driver competition among the most powerful after Senate authority collapsed. Greater part of extension under Pompey, Caesar, Octavian/Augustus; by Augustus’ death empire ringed Mediterranean, Black Sea nearly Roman lake, frontiers Rhine–Danube–Euphrates–Sahara.
+- Mid-reign Augustan great campaigns “almost certainly devised as a solution to the domestic problem of What did an emperor do?”—until Teutoburg AD 9 the answer could be leading Rome’s historical destiny. Art/poetry full of world-conquest imagery; after AD 9 the brake.

@@ -9,8 +9,8 @@ affiliated_with: [[[roman-imperial-army]], [[roman-empire]]]
 opposed_by: [[[postumus]], [[sasanian-empire]], [[gothic-peoples]]]
 key_events: []
 key_processes: [[[third-century-crisis]], [[militarization-of-the-roman-state]]]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, italy]
 ---
 
@@ -62,3 +62,13 @@ shows the crisis at once at its most dangerous and most generative.
 - His reforms carried forward by [[aurelian]] and [[diocletian]]; the [[roman-imperial-army]] he
   transformed
 - Source: [[bowman-cah-v12-2005]] (Ch. 2, John Drinkwater)
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+[[actors/gibbon-edward|Gibbon]] makes Gallienus the nadir of the third-century crisis — “an excellent cook, and most contemptible prince.” **Gibbon’s views.**
+
+- **Contemptible prince:** received Valerian’s captivity with secret pleasure (“I knew that my father was a mortal”); master of useless arts — cook, gardener, poet; when the state needed him, with Plotinus or mysteries; “genius without judgment” for war or government.
+- **“Thirty tyrants” is idle historiography:** Augustan History’s thirty is fancy from Athens; actual ~**nineteen** pretenders, often virtuous men elected by troops, “much oftener driven into rebellion by their fears, than urged to it by their ambition” (Saturninus: “You have lost a useful commander, and you have made a very wretched emperor”).
+- **Usurpations invite barbarians:** under Valerian and Gallienus, usurpers purchased barbarian neutrality with tributes and introduced “hostile and independent nations into the heart of the Roman monarchy” — the nadir against which Illyrian restorers ([[actors/aurelian]], Claudius, Probus, [[actors/diocletian]]) are measured.
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[concepts/gibbonian-decline-thesis]]

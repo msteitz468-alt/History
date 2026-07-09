@@ -7,7 +7,7 @@ period_active: [Archaic Period, Classical Antiquity, Late Antiquity]
 controlled_by: [Gulf Coast Late Formative to Classic polities; strong Teotihuacan ceramic influence in Middle Classic]
 events_here: [Late Formative occupation, Early–Middle Classic growth, Stelae 6 and 8 Long Count dates A.D. 468 and 533]
 processes_here: ["[[mesoamerican-state-formation]]", "[[teotihuacan-trade-network]]"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-08
 tags: [place, mesoamerica, gulf-coast, classic-period]
 ---
@@ -39,13 +39,43 @@ produced life-size unfired painted clay sculpture including a skeletal figure an
 Cihuateteotl sculptures—climax of central/southern Veracruz ceramic figurative tradition in the
 same broad region (Diehl).
 
+## Evans & Webster 2001 (Stark; South Central Gulf overview)
+
+Barbara L. Stark (EW2001, “Cerro de las Mesas”): one of the largest **south-central Veracruz**
+centers **600 B.C.–A.D. 900**, possibly regional capital **A.D. 300–600** or earlier; Mixtequilla
+low-lying farmlands with artificial lagoon, conical mounds to **24 m**, **two ball courts**,
+carved stelae with glyphs and Long Count dates shared with [[la-mojarra|La Mojarra]] and the
+Tuxtla Statuette (Pre-Proto-Zoquean script); Classic obsidian mainly from **Zaragoza-Oyameles**,
+Puebla; cotton/textiles prominent in the Classic; elites drew on Teotihuacan styles and practices
+but the site was **probably not dominated politically or economically** by Teotihuacan
+(*concurrent_with:* [[teotihuacan]] elite emulation · *contrasts_with:* [[matacapan|Matacapan]]
+enclave model).
+
+South Central Gulf Classic overview (EW2001): monumental investment with dispersed residential
+occupation (Maya Lowlands-like); Early Classic stelae including two with Long Count dates;
+**little close Teotihuacan connection**—selective elite emulation while maintaining local
+tradition. Distinctive **“laughing-face”** figurines and **Patarata scroll** style (*contrasts_with:*
+North Central interlace scroll on yokes/hachas/palmas and [[el-tajin|El Tajín]] reliefs). Nearby
+**El Zapotal** produced near life-sized unfired painted clay underworld death-god effigy with
+elaborate offerings and burials; increased Maya-related styles (Tuxtlas Polychrome) in the Late
+Classic. Postclassic: lower Cotaxtla and Cerro de las Mesas area underwent dramatic settlement
+reorganization—earlier centers abandoned, new centers with distinct plans (*followed_by:* Middle
+Postclassic highland-affinity ceramics; see [[gulf-lowlands]]).
+
+Late Formative South Central context: hierarchical differentiation includes a lavish Cerro de las
+Mesas burial with stone yoke and elaborate vessels; lower Papaloapan key for monument carving,
+calendrics, and writing with external ties to Pacific Chiapas/Guatemala (EW2001).
+
 ## Why it mattered
 
 Primary Early–Middle Classic Gulf dataset for Long Count monumentalism outside the Maya area and
 for Teotihuacan–Gulf ceramic interaction without requiring claims of direct Teotihuacan political
-control (contrast [[matacapan|Matacapan]]’s stronger enclave-style material).
+control (contrast Matacapan’s stronger enclave-style material). EW2001 Stark entry fixes the
+**600 B.C.–A.D. 900** span, two ball courts, and non-domination reading of Teotihuacan ties.
 
 ## Related
 
-[[tres-zapotes]] · [[matacapan]] · [[olmec]] · [[teotihuacan]] · [[el-tajin]] ·
-[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 4 (Diehl)]]
+[[tres-zapotes]] · [[la-mojarra]] · [[matacapan]] · [[olmec]] · [[teotihuacan]] · [[el-tajin]] ·
+[[gulf-lowlands]] ·
+[[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 4 (Diehl)]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001 (Stark; South Central overview)]]

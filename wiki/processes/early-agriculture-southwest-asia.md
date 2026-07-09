@@ -8,8 +8,8 @@ region: [near-east, levant, anatolia, iran-plateau, mesopotamia]
 process_type: [economic, demographic, technological, cultural]
 driven_by: ["[[younger-dryas]] climate stress on Natufian foragers", "pre-domestication cultivation of wild cereals", "social and ritual intensification", "[[agricultural-origins]]"]
 produces: ["the SW Asian 'Neolithic package' (wheat, barley, sheep, goat, pig, cattle)", "the world's first villages and 'megasites'", "[[domestication|crop and livestock domestication]]", "later Near Eastern urbanism"]
-sources_ingested: 1
-last_updated: 2026-06-10
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, neolithic, near-east, levant]
 ---
 
@@ -98,6 +98,45 @@ the inhabitants' own "unwitting actions" (deforestation for lime-plaster and
 fuel, overgrazing) degraded the local landscape — evidence of the volume's
 **"mutual domestication"** theme, in which people and landscape reshaped each
 other and helped drive the megasite's eventual decline.
+
+## Site detail (Fagan & Durrani 2020)
+
+Fagan & Durrani (2020) add further chronological texture across the region:
+
+- **Karacadağ Mountains** (SE Turkey): DNA evidence points here as the likely
+  origin of the earliest domesticated cereal, einkorn wheat; rachis-toughening
+  could occur within 20–30 generations of selection (see [[domestication]]).
+- **Jordan Valley figs**, cultivated by ~9400 BCE — possibly the earliest
+  domesticated plant identified in the region.
+- **Abu Hureyra** (Syria): founded ~11,500 BCE as a foraging village; underwent
+  an abrupt shift ~9000 BCE to herding goats/sheep and growing einkorn and pulses
+  following the Younger Dryas-driven collapse of nut-forest resources; grew to
+  12 ha before abandonment ~6000 BCE. Skeletal evidence (Theya Molleson) shows
+  repetitive-task wear consistent with grain-grinding posture, disproportionately
+  affecting women — early evidence for a sexual division of agricultural labor.
+- **Çayönü Tepesi** (SE Turkey), occupied ~8600–7000 BCE: a communal "House of
+  the Dead" containing 40+ human skulls and remains of ~400 individuals overall,
+  with possible evidence of sacrifice.
+- **Göbekli Tepe**: monumental T-shaped megalithic pillars (up to 2.4 m and 7
+  tons) from ~9600 BCE, forming a pre-farming ritual complex.
+- **Nevalı Çori**: contemporary cult buildings with carved anthropomorphic and
+  bird figures.
+- **Ganj Dareh** (Zagros, Iran): a seasonal camp from ~10,500 BCE that became a
+  farming village (goat/sheep herding, cereal horticulture) roughly 1,500 years
+  later.
+- **Jarmo** (northern Iraq): by ~6000 BCE, 80%+ of the diet came from farming and
+  herding.
+- **Ali Kosh** (Khuzistan lowlands, Iran): settled from ~9000 BCE, documenting
+  over 2,000 years of farming/herding, transhumance, and the development of
+  irrigation.
+
+On the ritual-vs-drought debate, Fagan & Durrani present **Steven Mithen's
+"ritual-first" hypothesis** — that the elaborate ritual/communal construction at
+Göbekli Tepe, Çayönü, and Nevalı Çori *predates* clear farming evidence and may
+have driven, rather than followed, cereal cultivation, as large ritual
+gatherings needing food surplus incidentally propagated cereal stands near the
+sites — as a live rival to drought-driven models, explicitly logging it as an
+"unresolved debate" rather than adjudicating it. (Fagan & Durrani 2020)
 
 ## Interaction
 

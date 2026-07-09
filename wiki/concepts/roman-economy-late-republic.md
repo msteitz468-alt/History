@@ -5,8 +5,8 @@ origin: the economy and social structure of Roman Italy in the last century of t
 applies_to_periods: [Classical Antiquity]
 applies_to_regions: [italy, mediterranean-world]
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, rome]
 ---
 
@@ -77,4 +77,47 @@ of slavery**, and the reliability of the census figures, remain debated.
   [[roman-equites|the publicani and the orders]] · [[plebs-urbana]] (the city of Rome)
 - The slave wars: [[spartacus-revolt-73-71bce]] · status: [[roman-private-law]]
   (slavery, property)
-- Source: [[crook-cah-v9-1992]] (Ch. 16, Nicolet)
+- Source: [[crook-cah-v9-1992]] (Ch. 16, Nicolet) · [[flower-roman-republics-2010]] ·
+  [[roman-expansion-italy]] · [[roman-republics-periodization]]
+
+## Flower, *Roman Republics* (2010)
+
+Flower’s second-century material frame links political evolution to three structural transformations: huge increases in **slave** labour (skilled and unskilled); vast, unevenly distributed **wealth** from metals and goods; and Rome’s growth into a Mediterranean capital. She treats the decision to **stop founding citizen colonies after 177** as a deliberate break with 150+ years of custom — reshaping ordinary citizens’ lives and feeding later land, debt, and recruitment tensions by the Gracchi. Empire, she argues, transformed land and food production via war captives and pirate sales of slaves, intensifying the agrarian–military discourse that Tiberius Gracchus would politicize. The land/army nexus is thus, on her reading, a mid-second-century policy departure as much as a late-Republican “crisis.” Source: [[flower-roman-republics-2010]].
+
+## Cambridge Economic History of the Greco-Roman World
+
+**Harris** (Ch. 19) frames the chapter around a still-unresolved question: did per-capita
+GDP grow in the late Republic? Positions range from an "economic miracle" (Manacorda) to
+"chronic unhealthiness" (Gelzer) to a middle view of "sluggish and sporadic growth" — no
+scholarly consensus exists. Harris himself argues, against the "Finley school"/primitivist
+orthodoxy, for a genuinely sophisticated late-Republican financial system: capital
+markets, credit instruments (*delegatio*, discounted sale of debts), and bank-like
+*publicani* societates — while conceding it never resembled nineteenth-century capitalism
+because "urban production was carried out by households rather than firms." He
+polemicizes explicitly against Horden and Purcell's (2000) "Polanyi-esque... immobility
+model" of ancient Mediterranean exchange, citing roughly 220 known Mediterranean
+merchant-shipwrecks from this period (23 tabulated examples, 130s–30s BCE, cargoes from
+wine and pottery to metal ingots and marble sculpture) as evidence trade accelerated
+rapidly from the mid-second century BCE.
+
+Harris catalogues technological diffusion across 150–1 BCE — pozzolana concrete, ships'
+pumps, iron ploughshares, the wedge press, blue dye, glass blowing, *opus reticulatum*,
+water mills (from mid-first century BCE, attested first in eastern provinces) — but
+judges none had major economic impact within the period; taxation, credit, and
+institutional development mattered more than technology. His own growth assessment:
+modest growth potential existed (capital appeared abundant, institutional and legal
+development was real — the praetorian *actiones adiecticiae qualitatis* for suing
+commercial agents, the consensual sale contract *emptio venditio*, and *bonorum cessio*
+insolvency relief all date to this period) but was repeatedly undone by civil-war capital
+destruction; copper residues in Greenland ice cores nonetheless show a real production
+increase suggesting some overall economic growth despite the instability. Consumption
+estimates (speculative but concrete): olive oil at roughly 20 liters/head/year across
+Mediterranean provinces; wine consumption in the city of Rome at 146–182 liters/head/year
+(Tchernia), empire-wide wine consumption likely exceeding 10 million hectoliters/year.
+Roman citizen census figures rose from 318,823 adult males (131 BCE) to 4,063,000 (28
+BCE) — Lo Cascio judges the increase demographically plausible given Italian
+enfranchisement and manumission, though debate continues over whether the later figure
+counts only adult males or also women and children. See [[actors/roman-republic]] for
+Harris's fuller catalogue of imperial-economy effects (indemnities, publicani, grain
+politics, slavery, wealth concentration) and [[processes/early-roman-italian-economy]]
+for the preceding period (Morel, to 133 BCE).

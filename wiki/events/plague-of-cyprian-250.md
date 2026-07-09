@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: ["an unidentified pathogen originating in Ethiopia", "transmission along trade and military routes"]
 consequences: ["mass mortality and labour shortage", "weakening of the army during the [[crisis-of-the-third-century|third-century crisis]]", "relative strengthening of Christianity"]
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, late-antiquity, mediterranean]
 ---
 
@@ -63,3 +63,12 @@ pathogen is unidentified and debated (Harper's yellow-fever/viral-hemorrhagic hy
 vs. older smallpox/measles assumptions). Part of the broader scholarly turn — central to
 Benjamin's collapse argument — toward **disease as a driver** of the third-century
 contraction at both ends of the [[silk-roads|Silk Roads]].
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+Attributed claims from [[sources/gibbon-decline-and-fall-1776]] (Ch. X / third-century crisis narrative).
+
+- **Duration and universality.** Preceded by general famine from rapine; “from the year two hundred and fifty to the year two hundred and sixty-five, raged without interruption in every province, every city, and almost every family.”
+- **Rome mortality.** For some time 5,000 died daily in Rome; many towns untouched by barbarians were depopulated.
+- **With war and famine.** In the Gallienus-era crisis, Gibbon extends Alexandrian register evidence to suggest war, pestilence, and famine “had consumed, in a few years, the moiety of the human species” (empire-wide extrapolation he presents as possible, not demonstrated).
+- **Claudius Gothicus.** After Naissus, survivors winter-killed by famine/pestilence in Haemus; Claudius himself died of pestilence after two glorious years—plague as concurrent military constraint.

@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: global
 causes: [[[xerxes-i|Xerxes']] advance and the sack of Athens, Themistocles' determination to fight in narrow water, his deceptive message luring the Persian fleet into the strait]
 consequences: [the destruction of much of the Persian fleet, Xerxes' withdrawal to Asia, the survival of the Greek cause, the prelude to Plataea and the rise of Athenian sea power]
-sources_ingested: 1
-last_updated: 2026-06-11
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [event, classical-antiquity, central-greece, greece]
 ---
 
@@ -74,8 +74,34 @@ individual incidents, grudging toward Themistocles). The exact numbers, the geog
 Psyttalia and Xerxes' throne, and the role of Themistocles' bribery-anecdotes are debated;
 Hammond reconstructs the tactics from the wind, the ship-types, and the crescent formation.
 
+### Osborne (2000)
+
+[[sources/osborne-classical-greece-2000|Osborne (ed., 2000)]] (Ch. 7, Kallet) gives the
+compact standard version: Themistocles lured the more numerous Persian fleet to fight in
+the narrows of Salamis, where numbers gave no advantage, and the Greek fleet won; Xerxes
+took what was left of his fleet and went home. Osborne quotes Herodotus's verdict that
+"it was the Athenians who, after the god, repulsed the Persian king" (Hdt. 8.143) —
+the Athenocentric framing of the victory that later fed Athenian claims to leadership of
+the Delian League.
+
+### Hall (2014)
+
+[[sources/hall-history-archaic-greek-world-2014|Hall (2014)]]: Laurium silver funded 200 triremes (originally vs Aegina); Themistocles evacuated Athens and forced allies to fight in Salamis straits by threatening colonization of Siris; battle 22 Sept 480 (Aeschylus *Persians*); heavier Greek ships rammed effectively; ~200 Persian ships lost; Xerxes withdrew with half army, Mardonius wintered in Greece. Sicilian Himera victory of the same year is **not** evidence of Carthaginian–Persian coordination (tradition only synchronizes it with Salamis or Thermopylae).
+
+### CHGRW contribution
+
+[[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|Strauss/de Souza threads
+(CHGRW)]]: night before Salamis Persians entered the straits hoping to surround the Greeks;
+Greeks (aided by Themistocles’ messenger trick) fought rested in the narrow channel denying
+Persian numbers; Persian rowers disadvantaged by all-night rowing. Battle devolved into mêlée
+after Athenians/Aeginetans finished the Phoenicians; Artemisia of Halicarnassus escaped by
+ramming her own side’s ship to deceive Ameinias. van Wees (I.9): credit for Salamis was
+allocated to hoplite marines and rich captains who paid wages, not lower-class rowers —
+illustrating that decisive military role did not automatically translate into recognized
+political credit.
+
 ## Related
 
 - Architect: [[themistocles]] · fleet allies: [[aegina]] · [[places/athens|Athens]] · foe: [[xerxes-i]] · prelude: [[battle-of-thermopylae-480bce]]
 - Sequel: [[battle-of-plataea-479bce]] (and Mycale) · the new sea power: [[athenian-democracy]] · ship: [[trireme]]
-- Period: [[classical-antiquity]] · source-critique: [[herodotus-reliability]] · Source: [[boardman-cah-v4-1988]] (Ch. 10, Hammond)
+- Period: [[classical-antiquity]] · source-critique: [[herodotus-reliability]] · Sources: [[boardman-cah-v4-1988]] (Ch. 10, Hammond); [[sources/hall-history-archaic-greek-world-2014|Hall (2014)]] · [[sabin-van-wees-whitby-cambridge-history-greek-roman-warfare-2007|CHGRW]]

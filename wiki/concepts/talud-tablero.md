@@ -10,8 +10,8 @@ applies_to_regions:
   - mesoamerica
   - near-east
 contested: no
-sources_ingested: 1
-last_updated: 2026-06-27
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [concept, mesoamerica, classical-antiquity, late-antiquity]
 ---
 
@@ -50,10 +50,35 @@ Caution is warranted with sites like Morelos, where Cowgill notes that "trade wa
 
 The concept is an etic archaeological category; Teotihuacan's own inhabitants presumably had emic terminology for this architectural module, which is not recoverable from available sources. The boundary between "talud-tablero" and "battered-wall-with-cornice" profiles on non-Teotihuacan buildings is not always sharp, and some scholars have debated whether apparent talud-tablero at distant sites genuinely reflects Teotihuacan contact or represents convergent architectural development. The strongest cases for Teotihuacan derivation remain Kaminaljuyú and Chingú, where full Ciudadela-type enclosures or closely Teotihuacan-matched pyramid forms appear.
 
+## Evans & Webster 2001
+
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster (eds.) 2001]]
+adds regional origin depth and comparative variants (**EW2001**).
+
+**Williams (Architecture: Civic-Ceremonial):** Teotihuacán’s most diagnostic architectural
+feature is the talud-tablero exterior wall treatment — steep inclined *talud* base surmounted
+by vertical framed *tablero*. Zapotec Monte Albán developed a “scapulary” talud/tablero with
+heavy geometric moldings; El Tajín modified the tablero into recessed concentric niches
+(Pyramid of the Niches).
+
+**Plunket Nagoda & Uruñela (Puebla-Tlaxcala):** talud-tablero for house and temple platforms
+appears by the **end of Texoloc or very start of Tezoquipan** at **Tlalancaleca** and
+**Tetimpa** in western Puebla-Tlaxcala — early in the regional sequence relative to classic
+Teotihuacan association. This supports the existing Cowgill note that the style occurs earlier
+in Puebla-Tlaxcala and spread widely through Teotihuacan’s influence, rather than originating
+solely at the metropolis.
+
+**Schortman & Urban (Interregional Interactions):** *talud-tablero*-style architecture is
+listed among diagnostic Teotihuacan-derived traits found widely across Mesoamerica (with
+slab-footed tripod cylinders), and later among archaeological diagnostics of postulated Gulf
+Coast population movements in Epiclassic/Postclassic. Distant cases in EW include Matacapan
+(Tuxtlas), Kaminaljuyú, Michoacán ceremonial centers (El Otero, Tres Cerritos, Tingambato),
+and Salitrón Viejo (Southeast Mesoamerica).
+
 ## Related
 
 - `part_of: [[teotihuacan]]`
 - `produced_by: [[teotihuacan-formation]]`
 - Used at: `[[moon-pyramid]]`, `[[sun-pyramid]]`, `[[feathered-serpent-pyramid]]`, `[[ciudadela-teotihuacan]]`
 - `enabled: [[mesoamerican-state-formation]]` (as visible marker of Teotihuacan's regional reach)
-- `[[cowgill-ancient-teotihuacan-2015]]`
+- `[[cowgill-ancient-teotihuacan-2015]]` · `[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]`

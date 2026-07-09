@@ -7,8 +7,8 @@ period_active: [Neolithic, Bronze Age, Classical Antiquity, Late Antiquity, Earl
 controlled_by: ["[[funan]] & Zhenla", "the [[khmer-empire|Khmer Empire]]", "[[srivijaya]] & [[majapahit]]", "[[pagan-kingdom|Pagan]]/Ava (Burma)", "[[ayutthaya]] (Siam)", "[[dai-viet|Dai Viet]]", "[[champa]]", "European colonial powers"]
 events_here: []
 processes_here: ["[[indianization-of-southeast-asia]]", "[[indian-ocean-trade]]", "[[southeast-asian-age-of-commerce]]", "[[islamization-of-southeast-asia]]", "[[state-formation]]"]
-sources_ingested: 3
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [place, southeast-asia]
 ---
 
@@ -166,3 +166,13 @@ beyond the Khmer to the archipelago, Burma, Siam, and Vietnam.
 [[southeast-asian-age-of-commerce]] · [[women-in-precolonial-southeast-asia]] ·
 [[debt-bondage-in-southeast-asia]] · [[theatre-state]] · [[hinduism]] · [[buddhism]] ·
 [[coe-angkor-khmer-civilization-2018]] · [[reid-southeast-asia-age-of-commerce-v1-1988]]
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+[[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] reframe the place page's environmental and deep-time baseline, and update the collection-coverage claim that Seasia was a pure gap.
+
+**Environment and deep time.** Up to ~30% of Seasia landmass submerged 10,000–6,000 BP (elsewhere ~40% Holocene sea-rise figure for the region); drowned coasts/rivers were prime human niches — major bias against recovering Pleistocene/early Holocene sites. Pleistocene–Holocene climate change modest vs Europe; major effect is sea-level change on the **Sunda Shelf** (dry land ~1.5 million km² at low stands; drops of 40 m common, to 120 m for ~6% of last 250 kyr); western remaining highlands may have been less populated than drowned lowlands. Oldest known Seasian art: seven South Sulawesi caves; 2014 dating — hand stencil ≥39,900; babirusa and unknown animal ≥35,400 (speleothem minimum ages) — among the first rock artists worldwide, against Movius's "crude, colorless, and unenterprising" characterization of Seasian Palaeolithic tools (itself later revised via edge-wear showing wood/bamboo work and two-stage technology with perishable media).
+
+**Mainland vs insular trajectories.** Elaborate moated/ramparted permanent settlements mainly mainland (Myanmar, central/NE Thailand, E Cambodia/W Vietnam) — never developed in insular Seasia; authors link seasonality vs equatorial climate to storage, sedentism, and hierarchy. Permanent settlements >4,000 years ago from Myanmar to Vietnam with earthen ramparts/depressions. Demography of Classic Seasia still based on unexamined assumptions; few projects use sampling for population estimates. Almost no written information on Late Classic Seasian cities survives; Kota Cina and Temasik among those detectable archaeologically with high-density habitation (possibly foreign enclaves). In Java, Sumatra, and Thailand some cities formed by agglomeration of neighbourhoods around nobles; in Vietnam around artisan workplaces (*phuong* = guild/urban ward).
+
+**Collection coverage note (update).** This place page began as a gap-closer; with Miksic & Goh (plus Reid/Tarling already integrated) the Classical and prehistoric archaeological baseline is now **moderate–strong** on the wiki, though subregional depth still varies and post-1500 remains thinner outside Reid.

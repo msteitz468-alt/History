@@ -9,7 +9,7 @@ affiliated_with: [[[palmyra]]]
 opposed_by: [[[aurelian]], [[sasanian-empire]]]
 key_events: []
 key_processes: [[[third-century-crisis]]]
-sources_ingested: 2
+sources_ingested: 3
 last_updated: 2026-07-08
 tags: [actor, person, late-antiquity, near-east]
 ---
@@ -83,3 +83,12 @@ This native-agency reading is part of Ball's wider [[orientalization-of-rome]] t
 - The crisis context: [[third-century-crisis]]; the [[sasanian-empire|Sassanid]] wars that first
   raised Palmyra's importance; the [[capture-of-valerian-260|capture of Valerian]] that opened her rise
 - Sources: [[bowman-cah-v12-2005]] (Ch. 2, John Drinkwater); [[ball-rome-in-the-east-2000|Ball, *Rome in the East* (2000)]]
+
+## From Gibbon, Decline and Fall (1776–1788)
+
+[[actors/gibbon-edward|Gibbon]]’s Zenobia is the romantic “Queen of the East” — heroic foil to Aurelian’s restoration. **Gibbon’s views.**
+
+- **Portrait:** “Zenobia was esteemed the most lovely as well as the most heroic of her sex” — equalled Cleopatra in beauty, surpassed her in chastity and valor; Greek, Syriac, Egyptian, Latin; with Odaenathus twice to Ctesiphon; ruled the East ~five years after his murder; added Egypt; defeated near Antioch and Emesa; golden chains in Aurelian’s triumph, then clemency at Tibur.
+- **Paul of Samosata:** the deposed Antiochene bishop “insinuated himself into the favor of Zenobia” and “maintained above four years the possession of the episcopal house and office” after ~70–80 bishops degraded him — until Aurelian’s eastern settlement.
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/aurelian]]

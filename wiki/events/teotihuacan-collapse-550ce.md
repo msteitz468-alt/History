@@ -26,7 +26,7 @@ consequences:
   - more dispersed settlement pattern re-emerged in Basin of Mexico
   - Epiclassic multi-center landscape ([[xochicalco]], [[cacaxtla]], others)
   - enabled later secondary-state continuum culminating in [[tula-hidalgo|Tula]] then Aztecs
-sources_ingested: 3
+sources_ingested: 4
 last_updated: 2026-07-08
 tags: [event, late-antiquity, early-middle-ages, mesoamerica]
 ---
@@ -86,7 +86,32 @@ Cowgill 2015 argues against a pure 550-burning/Metepec-as-aftermath model on cer
 
 The cause of the burning is similarly debated. Sanders (2006) and others emphasize internal socioeconomic collapse, with Coyotlatelco derivative from Teotihuacan antecedents. Mastache and Cobean, and more recently Healan and Hernandez, argue Coyotlatelco antecedents lie to the west. Millon emphasizes insider selectivity of burning; Cowgill leaves agents open (insiders, outsiders, or combination) while insisting systemic decline preceded vulnerability. Survivors likely scattered and lost cultural identity (possible [[cholula]] continuities in later tradition). Whether any surviving Teotihuacanos retained visible ethnic identity is debated: Cowgill is skeptical that descendants kept archaeologically visible markers beyond a generation or two.
 
-Sources: [[cowgill-ancient-teotihuacan-2015]]; [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Cowgill Ch. 6; Adams intro; Charlton Ch. 11 on epi-Teotihuacan parallels).
+Sources: [[cowgill-ancient-teotihuacan-2015]]; [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1]] (Cowgill Ch. 6; Adams intro; Charlton Ch. 11 on epi-Teotihuacan parallels); [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]] (Parsons; Cobean & Mastache; Schortman & Urban; Webster).
+
+## Evans & Webster 2001
+
+**Jeffrey R. Parsons (Basin of Mexico):** By the **late seventh century** A.D. Teotihuacan
+shows increased militarism in iconography and public areas falling into disrepair; after the
+early to mid-seventh century many public buildings along the main N–S avenue were
+**deliberately burned** and the city soon lost roughly **four-fifths of its population**; by
+700 it had begun irreversible decline though remaining a local center of some importance.
+This late-seventh-century burning window sits nearer Cowgill 2000 (~650) / Adams than the
+~550 archaeomagnetic slug — preserve as attributed alternative in the table above.
+
+**Cobean & Mastache (Coyotlatelco):** Coyotlatelco ceramic complexes widely coincide with
+first occupations after abandonment/collapse of Teotihuacan-related settlements; two origin
+models — local Basin development after collapse vs. northern (Bajío/Zacatecas periphery)
+origin; early Coyotlatelco associated with political fragmentation without large pan-regional
+cities/states; chronology traditionally c. A.D. 700–900 but some settlements as early as
+**600–650**.
+
+**Schortman & Urban:** Olmeca-Xicalanca movement into the highlands following Teotihuacan’s
+decline (A.D. 700–900) as one postulated Gulf Coast highland intrusion into the power vacuum;
+entry frames Teotihuacan core span as 200 B.C.–A.D. 650.
+
+**Webster (Warfare):** massive destruction along the Street of the Dead ~A.D. 600–700
+suggests **internal violence/civil war** as a factor in decline — consonant with Millon
+insider-selectivity without adjudicating agents.
 
 ## Related
 

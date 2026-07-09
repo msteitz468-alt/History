@@ -13,8 +13,8 @@ scale_immediate: civilizational
 scale_consequential: civilizational
 causes: [the Ottoman Turkish threat to Constantinople, the Byzantine Empire's search for Western military assistance in exchange for church submission]
 consequences: [the signing of the Union of Florence, the arrest and deposition of Metropolitan Isidore in Moscow, the declaration of autocephaly of the Russian Orthodox Church (1448)]
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [event, late-middle-ages, religious, transregional]
 ---
 # Council of Florence
@@ -43,3 +43,21 @@ A council of Russian bishops convened in 1443 CE, formally condemned the Church 
 
 ## Historiography
 Historians emphasize the Council of Florence as a critical turning point that decoupled the religious history of Russia from Byzantium. It transformed the Russian Orthodox Church into a national institution closely aligned with the rising autocracy of the Grand Princes of Moscow.
+
+## From F. Donald Logan, *A History of the Church in the Middle Ages* (2013)
+
+### Latin–Greek negotiations and *Laetentur coeli*
+
+A ~**700-strong** Greek delegation led by Emperor **John VIII Paleologus** with the patriarch of Constantinople and representatives of Antioch, Alexandria, and Jerusalem met Latins at **Ferrara** then **Florence** under [[eugenius-iv|Eugenius IV]]. Four issues settled: *filioque* (saints of both sides mean the same); [[purgatory]] (East yielded to Latin geography of afterlife and suffrage); Eucharist (dominical words essential; leavened/unleavened and liturgical custom free); Roman primacy (“true vicar of Christ, head of the whole church”). Bull ***Laetentur coeli*** proclaimed **6 July 1439**. Unions followed with Armenians (22 Nov 1439), Copts (4 Feb 1442), and efforts with Nestorians, Syrians, Cyprus.
+
+### Failure of union and 1453
+
+Failure was not merely 1453: King Albert’s death (Oct 1439) delayed Western aid; Greeks reached Constantinople only 1 Feb 1440 amid John VIII’s grief for his wife, giving anti-union forces free rein; Western army defeated at **Varna** (Sept 1444); union solemnly proclaimed in Hagia Sophia **12 Dec 1452** mere months before the city’s fall (defenders outnumbered ~20:1)—with **1453** the reunion quest ended. “And so it stands.” Logan also notes national responses (Pragmatic Sanction of Bourges 1438; German neutrality at Mainz; England supporting Eugenius) that paralleled the council struggle with Basel.
+
+### Historiography (Logan)
+
+Gill on Florence and Eugenius IV; Philippides/Hanak on 1453; Oakley’s *Conciliarist Tradition*; Pastor. Florence’s success against Basel’s rump is a chief agent in the demise of effective [[conciliarism]].
+
+## Related
+
+- [[eugenius-iv]] · [[conciliarism]] · [[purgatory]] · [[papacy]] · [[logan-history-of-the-church-in-the-middle-ages-2013]]

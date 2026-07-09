@@ -8,8 +8,8 @@ region: [mediterranean-world, italy, near-east]
 process_type: political
 driven_by: [the unmanageable accumulation of imperial constitutions, the bureaucratization of justice, Justinian's restoration ideology]
 produces: [the Codex Theodosianus, the Corpus Iuris Civilis, the civil-law tradition, the barbarian law codes]
-sources_ingested: 1
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [process, late-antiquity, mediterranean-world, rome]
 ---
 
@@ -87,6 +87,17 @@ classical jurisprudence, and — rediscovered in eleventh-century **Bologna** �
 Justinian's reign and the clearest case of late antiquity transmitting a fully "ancient" achievement to
 the post-Roman world.
 
+## Gibbon, *Decline and Fall* (1776–1788) — Ch. XLIV
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]]’s law chapter is the enduring counterweight to Justinian’s military glory: “The vain titles of the victories of Justinian are crumbled into dust; but the name of the legislator is inscribed on a fair and everlasting monument.”
+
+- **Method:** Ten centuries of law in thousands of volumes; Tribonian headed reform; Code (12 books from Gregorian/Hermogenian/Theodosian) in 14 months; 17 lawyers reduced ~2,000 treatises / 3 million lines to a 50-book Digest of 150,000 lines in three years; Institutes precede Digest; only these taught at Rome, Constantinople, Berytus.
+- **Tessellated pavement:** Unlike Caesar’s hypothetical original system, Justinian’s works are “a tessellated pavement of antique and costly, but too often of incoherent, fragments”; interpolations under civilian names as fraud/forgery; antinomies remain; rumor he burned older law unproven.
+- **Closing judgment:** Free people’s laws should foresee questions and restrain judicial discretion; “the government of Justinian united the evils of liberty and servitude” — Romans oppressed by multiplicity of laws *and* the master’s arbitrary will.
+- **European afterlife:** Public reason of the Romans transfused into European domestic institutions; laws still command respect of independent nations (Gibbon’s eighteenth-century frame).
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/gibbon-edward]]
+
 ## Related
 
 - `produced:` the *Corpus Iuris Civilis* under [[justinian|Justinian]] (Tribonian); built on the Codex
@@ -94,4 +105,20 @@ the post-Roman world.
 - `enabled:` the **barbarian law codes** of the successor kingdoms ([[clovis|Frankish]], Visigothic,
   Burgundian, [[theoderic-the-great|Ostrogothic]]) and, ultimately, the medieval civil-law revival
 - Part of the late-antique [[late-roman-administration|imperial government]] and bureaucratization of justice
-- Source: [[cameron-cah-v14-2000]] (Chs 9 & 10, Detlef Liebs; western law)
+- Source: [[cameron-cah-v14-2000]] (Chs 9 & 10, Detlef Liebs; western law); [[sources/gibbon-decline-and-fall-1776]] · [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+### Codex Theodosianus as symbol of imperial unity
+
+For posterity the outstanding Theodosian achievement was codification of post-Constantinian public law in the **Codex Theodosianus** — completed **437**, presented to the Roman Senate **438** — drawing eastern and western provincial materials and remaining the foundation and chief symbol of imperial unity through late antiquity, even as high office still thought of one undivided empire.
+
+### Justinianic codification as Christian imperial ideology
+
+Justinian’s first major project was definitive law: **Codex Justinianus** revised prior codes and *novellae* in fourteen months; Dec **530** commission produced **Digest/Pandect** (50 books from >1,500 texts) by Dec **533** under quaestor Tribonian; **Institutes** as teaching handbook; second Codex **534**; legal education standardized (Alexandria/Caesarea schools closed; five-year syllabus at Berytus, Constantinople, Rome); further commentaries forbidden — definitive Latin corpus articulating Christian Roman imperial ideology, while later *novellae* shifted to Greek and energy waned after mid-540s. “This enormous body of legal writing… was the most compelling articulation of the ideology and nature of the Christian Roman Empire ever to have been devised.”
+
+### Sequence and bilingual practice
+
+Imperial decisions entered a growing legal corpus: tetrarchic codes → *Codex Theodosianus* (437/8) → Justinian’s code (revised 533). Original formulation of laws remained Latin into late Justinian (advanced Latin prerequisite for senior civilians); eastern promulgation thereafter largely Greek translation. Didyma/Justinianopolis **533** dossier (land-tax transfer petition via John the Cappadocian; pragmatic sanction 1 Apr; next-day prefectural adoption including Ostrogothic Italy’s prefect) exemplifies centralized efficiency and bilingual “heavenly letters” script.
+
+Source: [[mitchell-later-roman-empire-2015]]

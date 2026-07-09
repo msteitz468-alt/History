@@ -14,7 +14,7 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["collapse of Azcapotzalco hegemony after Tezozomoc's death (1427)", "prior Acolhua defeat by Tepaneca (1418) and Mexica experience as Tepanec allies", "succession crises and destruction of local noble houses under Tepanec growth/decline (Brumfiel)", "Basin demographic growth and chinampa intensification as threshold conditions", "ideology of war for sacrificial captives (Conrad & Demarest)"]
 consequences: ["durable Triple Alliance of Tenochtitlan, Texcoco, and Tlacopan", "shift from fragile ephemeral tributary systems to continued imperial expansion to 1519", "Tenochtitlan becomes primus inter pares then dominant partner", "Basin-wide reorganization of tribute, markets, and leadership selection", "tributary control eventually over much of Central and Southern Mexico"]
-sources_ingested: 1
+sources_ingested: 2
 last_updated: 2026-07-08
 tags: [event, late-middle-ages, mesoamerica, aztec]
 ---
@@ -69,6 +69,17 @@ Key secondary authorities he channels: Bray (periodization), Brumfiel (payoffs/a
 
 Archaeological caution: the Aztec empire can appear "ephemeral" in the material record of distant provinces (Umberger & Klein) — indirect rule leaves thin imperial footprints outside the Basin core, analogous to debates over Toltec "horizon" control.
 
+## Evans & Webster 2001 (Berdan; Hicks; Calnek; Parsons)
+
+Encyclopedia entries in [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]] align on the 1427–30 hinge with slight date variants:
+
+- **Berdan (Aztec Culture and History):** Rulers before the war — Acamapichtli (**1372–1391**), son of Mexica noble + Culhuacan princess (Toltec legitimacy); Huitzilihuitl (**1391–1415**), married Azcapotzalco Tepanec ruler’s granddaughter; Chimalpopoca (**1415–1426**); **Itzcoatl** (**1426–1440**). In **1428**, under Itzcoatl, the Mexica in collusion with the Acolhua of Texcoco rebelled against powerful Azcapotzalco. **Hicks (Azcapotzalco):** Tepanec War **1428–1430**; Azcapotzalco razed (maguey planted in marketplace); Tlacopan Tepanecs joined Mexica and Acolhua forming the Triple Alliance. Under Tezozomoc, Azcapotzalco had previously dominated much of the Basin and possibly Puebla/Morelos valleys.
+- **Calnek (Tenochtitlán-Tlatelolco):** In **1427** Tenochtitlan headed a major rebellion against Azcapotzalco, emerging victorious the following year (**1428**) — key step to imperial ascendancy.
+- **Parsons (Basin of Mexico):** Ethnohistoric sources state the Triple Alliance (Tenochtitlan, Texcoco, Tacuba) was formed in the early fifteenth century through large-scale warfare between major city-states and pooled military resources to create and maintain a far-flung tributary domain; numerous second- and third-order Basin city-states paid tribute in goods and services.
+- Downstream imperial footprint (unsigned Gulf Lowlands South Central note): Triple Alliance attacked and incorporated several South Central Gulf provinces and extracted tribute; Aztec personnel reportedly stationed at Zempoala and Cotaxtla — consequence of the Alliance system opened by 1428, not part of the founding war itself.
+
+Berdan’s “1430–1521” Triple Alliance span and Hicks’s 1428–1430 war window sit comfortably with Charlton’s provisional **c. 1428** hinge already used above; wiki convention retains **1428** as the formation year with 1427–30 as the war cluster.
+
 ## Related
 
-[[aztec-empire]] · [[tenochtitlan]] · [[altepetl]] · [[chinampa-agriculture]] · [[aztec-economy]] · [[aztec-religion-and-human-sacrifice]] · [[basin-of-mexico]] · [[spanish-conquest-of-mexico-1519]] · [[mesoamerican-state-formation]] · [[tula-hidalgo]] · [[toltec]] · [[cambridge-history-native-peoples-americas-v2-1]]
+[[aztec-empire]] · [[tenochtitlan]] · [[altepetl]] · [[chinampa-agriculture]] · [[aztec-economy]] · [[aztec-religion-and-human-sacrifice]] · [[basin-of-mexico]] · [[spanish-conquest-of-mexico-1519]] · [[mesoamerican-state-formation]] · [[tula-hidalgo]] · [[toltec]] · [[cambridge-history-native-peoples-americas-v2-1]] · [[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]

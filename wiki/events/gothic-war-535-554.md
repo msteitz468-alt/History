@@ -13,8 +13,8 @@ scale_immediate: regional
 scale_consequential: civilizational
 causes: ["Murder of Ostrogothic regent Amalasuentha", "Justinian's imperial ideology of restoring the Roman West"]
 consequences: ["Destruction of the Ostrogothic Kingdom", "Devastation of Italian infrastructure and economy", "Decline of the Roman senatorial aristocracy", "Byzantine annexation of Italy (Pragmatic Sanction of 554)", "Power vacuum enabling the Lombard invasion of 568"]
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 4
+last_updated: 2026-07-08
 tags: [event, late-antiquity, italy]
 ---
 
@@ -54,7 +54,7 @@ Justinian issued the **Pragmatic Sanction of 554** to settle Italy's administrat
 
 ---
 
-## Historiographical Significance
+## Historiography
 
 In *The New Cambridge Medieval History, Vol. 1*, **John Moorhead** argues that the Gothic War was a structural catastrophe for Italy:
 1.  **Urban Ruin:** The repeated sieges of Rome, Milan, and Naples ruined the country's physical landscape. Rome’s population plummeted from over 100,000 to a few thousand, and the destruction of the aqueducts ended Roman bath and villa culture.
@@ -63,8 +63,34 @@ In *The New Cambridge Medieval History, Vol. 1*, **John Moorhead** argues that t
 
 ---
 
+## Gibbon, *Decline and Fall* (1776–1788) — Chs. XLI, XLIII
+
+[[sources/gibbon-decline-and-fall-1776|Gibbon]] frames the Gothic War as enabled by barbarian failure to confederate, then as Totila’s temporary revival extinguished by Narses — with Italy left devastated.
+
+- **Strategic error:** Italian Goths, from private revenge for Amalafrida, “beheld with indifference, and even with joy, the rapid downfall of the Vandals,” welcoming [[belisarius|Belisarius]]’s fleet in Sicily and enabling Africa’s fall and their own ruin.
+- **Totila and Narses:** Totila revived Gothic arms (“chaste and temperate”); took and recovered Rome; Narses (eunuch chamberlain of talent and liberality) defeated and killed Totila; Ostrogothic nation extinguished; Italy devastated by war.
+- **Belisarius phase (cross-link):** Rome recovered; Vitiges’s siege of one year and nine days; Ravenna entered after Belisarius rejected Justinian’s partition and the Gothic kingship offer. See [[belisarius]].
+
+Source: [[sources/gibbon-decline-and-fall-1776]] · [[actors/gibbon-edward]]
+
 ## Related Pages
 
 *   **Actors**: [[justinian]] · [[belisarius]] · [[successors-of-justinian]] · [[vandal-kingdom]]
 *   **Events**: [[nika-riots-532]] · [[justinianic-plague-541]] · [[lombard-invasion-568]]
-*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]]
+*   **Sources**: [[fouracre-ncmh-v1-2005]] · [[cameron-cah-v14-2000]] · [[sources/gibbon-decline-and-fall-1776]] · [[mitchell-later-roman-empire-2015]]
+
+## From Mitchell, Later Roman Empire (2015)
+
+### Opening (535–537)
+
+Late summer **535** Belisarius to Sicily as Italian springboard; two-pronged strategy with Mundus into Dalmatia; Belisarius’ force (4,000 regulars, 3,000 Isaurians, foederati) took Naples after twenty-day siege despite Jewish-led resistance fearing Justinian’s intolerance; Theodahat replaced by Vitigis; Silverius invited Romans into Rome as Gothic garrison withdrew; Belisarius’ **5,000** defended fourteen-mile walls against seven Gothic camps; major siege assault Feb–Mar **537**.
+
+### Lift of Rome siege; Milan catastrophe
+
+Roman cavalry into Picenum/Ariminum forced Vitigis to abandon Rome’s siege **30 March 538** (one year nine days); Narses’ 5,000 plus 2,000 Heruls enabled Ariminum relief but discord contributed to Milan’s fall — razed, males massacred, women enslaved to Burgundians (late March **539**); Justinian recalled Narses and confirmed Belisarius with full powers; 539 attrition, famine (Procopius’ **50,000** rural dead in Picenum), Auximum/Faesulae capitulations preceded Ravenna approach. `concurrent_with:` climate crisis 536–7 and later [[justinianic-plague-541]].
+
+### Endgame: Totila, Narses, Constantinopolitan Italy
+
+Totila won local support against multi-ethnic occupying army’s indiscipline; Belisarius back **544** with inadequate means; second siege of Rome **546**; Justinian dismissed Totila’s status-quo peace; Belisarius recalled **548**. Final phase: Narses with substantial forces from capital/Thrace/Illyricum; decisive battle (Busta Gallorum/Taginae in Procopius’ naming); Lombard auxiliaries dismissed after; Gothic War ends; Italy reorganized under military-civilian hierarchy dependent on Constantinople (Gregory the Great’s correspondence; Anio bridge inscription ILS 832, **565**). Narses dismissed **568** — year Lombards entered. `followed_by:` Lombard invasion; `part_of:` Justinianic reconquest.
+
+Source: [[mitchell-later-roman-empire-2015]] · [[justinian]] · [[belisarius]] · [[post-roman-transformation-of-the-west]]

@@ -9,8 +9,8 @@ applies_to_periods:
 applies_to_regions:
   - southeast-asia
 contested: yes
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags:
   - concept
   - Cold War
@@ -62,3 +62,7 @@ By the late twentieth century, "Southeast Asian" identity had been substantially
 
 ---
 *Source: [[tarling-cambridge-history-southeast-asia-v2-1992]], Ch. 10 (Lau Teik Soon and Leo Suryadinata)*
+
+## From Miksic & Goh, *Ancient Southeast Asia* (2017)
+
+[[miksic-goh-ancient-southeast-asia-2017|Miksic & Goh]] approach regional identity from the **deep past** rather than the 1943 SEAC coinage already documented above. They treat broad distribution of the [[mandala]] idea of government as evidence that Seasia is "more than an arbitrary geographical unit," and they stress **mainland vs insular evolutionary trajectories**: elaborate moated/ramparted permanent settlements developed mainly on the mainland (Myanmar, central/NE Thailand, E Cambodia/W Vietnam) and never in insular Seasia — linked to seasonality vs equatorial climate, storage, sedentism, and hierarchy differences. Permanent settlements with earthen ramparts/depressions appear >4,000 years ago from Myanmar to Vietnam (some "ramparts/moats" may be natural features). Demography of Classic Seasia is still based on "unexamined assumptions"; few projects sample for population estimates. Urban form comparisons: 13th-c. Hangzhou uniquely lacked agricultural land inside the wall and pioneered the "shophouse" form later characteristic of Seasia; Ibn Battuta's mid-14th-c. description of Chinese garden-cities (every inhabitant a garden/field with house in the middle) implies overseas Chinese colonies need not have diverged sharply from existing Seasian settlement patterns. Analogous_to [[southeast-asian-port-polity]]; contrasts_with purely modern-administrative definitions of the region.

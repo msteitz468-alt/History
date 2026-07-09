@@ -29,8 +29,8 @@ key_events:
 key_processes:
   - "Expansion of Sufism"
   - "Islamic reform movements"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [actor, organization, sufism, tariqa, Late Middle Ages, Early Modern, Age of Expansion, central-asia, south-asia, anatolia]
 ---
 
@@ -57,6 +57,10 @@ The order traces its lineage through the "Khwājagān" (Masters) of Central Asia
 **Tomb visitation**: Despite sobriety, "Naqshbandī masters considered it useful to visit the tombs of deceased saints" — *ziyāra* as a form of spiritual concentration rather than folk devotion.
 
 **Political activity**: The order had "grave political consequences in Central Asia in the sixteenth and seventeenth centuries." It became the primary vehicle for Islamic resistance in Central Asia under Russian colonialism and for reform movements in India.
+
+## Geographic Expansion (Formichi 2020)
+
+Formichi (2020) frames the Naqshbandiyya as a central through-line in her thesis that Asia — not just the Arab heartland — shaped global Islam. Nasir al-Din 'Ubaydullah Ahrar of Tashkent (1404–1490) drove the order's first major expansion beyond Transoxiana, sending deputies outward; it subsequently took root among the elite of [[timur|Timur's]] [[timurid-empire]]. In India, **Baqi Billah** (1564–1603) established the first Naqshbandi khanaqa in Delhi under Mughal patronage, the base from which Sirhindi later launched his *mujaddidi* reform. Eastward, the order reached Qing China and Tibet via **Khoja Afaq** of Kashgar (d. 1694), then took root in Gansu through **Ma Laichi** and **Ma Mingxin**, who founded rival Naqshbandi sub-orders (*menhuan*) after studying in Mecca, Yemen, and Central Asia — Ma Laichi's hereditary-succession model reportedly mirrored Chinese lineage structures (see [[islam-in-china]]). By the eighteenth century the order had reached, in Formichi's account, Central Asia, South Asia, China, Arabia, and the Ottoman lands as a single interconnected network.
 
 ## Relationship to Other Orders
 

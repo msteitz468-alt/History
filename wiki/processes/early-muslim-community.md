@@ -22,8 +22,8 @@ produces:
   - "[[islamicate|Islamicate civilization]]"
   - "[[first-fitna-656]]"
   - "[[second-fitna-680]]"
-sources_ingested: 1
-last_updated: 2026-06-22
+sources_ingested: 2
+last_updated: 2026-07-08
 tags: [process, Late Antiquity, Early Middle Ages, arabian-peninsula, near-east]
 ---
 
@@ -104,6 +104,20 @@ By 692, the community that had formed around Muhammad's preaching had become a s
 ## End Conditions
 
 The process ends with the consolidation of the Umayyad caliphate under 'Abd al-Malik (r. 685–705), who stabilized the empire, Arabized the administration, and established the caliphate on explicitly imperial — rather than prophetic-communal — foundations. This marks the transition from the "early Muslim community" as a formative process to the Umayyad caliphate as an established state. The religious and political questions left unresolved — who may legitimately govern? by what principle? — continued to drive Islamic history in the forms of Sunnism, Shi'ism, and Kharijism.
+
+## Umma as a Contested Textual Category (Formichi)
+
+Chiara Formichi's [[formichi-islam-and-asia-2020|*Islam and Asia: A History*]] (2020) adds a
+complementary reading of the *umma* concept sketched above: she stresses that the Qur'an's own
+boundaries for "community of believers" are not fixed across the text — ranging from encompassing
+all humankind (Q 10:19) to marking Muslims specifically as "the best community" (Q 3:110) — which
+Formichi (2020) reads as a textual trace of the very transformation this page narrates, from the
+Meccan "persecuted minority" community (Phase 1) to the Medinan "self-ruling community" with Muhammad
+as political leader, military commander, spiritual guide, and religious teacher (Phase 2). She frames
+this as the Qur'an's own record of "becoming Muslim" as an evolving, rather than static, category — a
+useful gloss on this page's broader argument that the *umma*'s character differed sharply at each
+phase of its formation. See [[muhammad-and-the-rise-of-islam]] for the fuller Formichi discussion of
+the 'Uthmanic codex and the Meccan/Medinan periodization.
 
 ## Historiography
 

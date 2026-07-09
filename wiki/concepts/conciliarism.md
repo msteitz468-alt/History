@@ -5,8 +5,8 @@ origin: Emic; the doctrine — rooted in canon law and revived by the Great Schi
 applies_to_periods: [Late Middle Ages]
 applies_to_regions: [western-europe]
 contested: yes
-sources_ingested: 2
-last_updated: 2026-06-12
+sources_ingested: 3
+last_updated: 2026-07-08
 tags: [concept]
 ---
 
@@ -67,8 +67,27 @@ condemned appeals to a council as heretical, reasserting **monarchical** authori
 nonetheless left a lasting alternative tradition of Church government — and its critique of papal
 absolutism fed into later reform and, ultimately, the Reformation.
 
+## From F. Donald Logan, *A History of the Church in the Middle Ages* (2013)
+
+### Early proposals: Langenstein and Gelnhausen
+
+In the years after the double election, Paris theologians **Henry of Langenstein** and **Conrad of Gelnhausen** proposed a general council: ultimate authority reposes in the community of believers; a council can be called without the pope (against a heretical/criminous pope, or if all cardinals die); Conrad applied Aristotelian *epikeia* to set aside positive canon law requiring papal summons. Realized at [[council-of-pisa-1409|Pisa (1409)]], which Logan insists adhered to long canonical tradition (Huguccio, Hostiensis), not a brand-new constitution—yet election authority derived from the council itself.
+
+### *Haec sancta* at Constance
+
+After John XXIII’s flight, Constance asserted ***Haec sancta***: the council representing the Catholic church militant derives power immediately from Christ; all ranks including the papacy must obey in faith, healing schism, and general reform of head and members—unprecedented claims of essential power over even a saintly orthodox pope, going beyond earlier teaching that councils may depose only heretical/criminous popes; echoes heard at Vatican 1870 and 1963.
+
+### Pavia–Siena; Basel pinnacle and nadir
+
+[[martin-v|Martin V]], uneasy under *Frequens*, nonetheless summoned Pavia (1423; moved to Siena); poor attendance—practical bishops saw frequent councils as near-continuous parliament neglecting pastoral duties. **Basel** was the Conciliar Movement’s definitive turning point—pinnacle and nadir: conciliarists reigned for a while, then by the end were academics debating far from power; among agents of demise, “perhaps chief among them the Greeks.” [[eugenius-iv|Eugenius IV]] dissolved Basel (18 Dec 1431), then on **15 Dec 1433** abjectly declared it legitimate from the beginning. Basel’s reform failed as it tried to replace the curia; 7 May 1437 split; rump elected Felix V; effective conciliarism perished. Compacta of Prague negotiations with Hussites were Basel’s greatest achievement (see [[hussite-wars-1419]]).
+
+### Practical collapse vs intellectual afterlife
+
+Greatest conciliar support was at Constance as the only perceived way to end the schism; radical constitutional conciliarists dwindled; pastoral churchmen could not justify long absences for frequent councils; debate continued but practical movement ended—while *Haec sancta*’s echoes reached modern Vatican councils. Logan: it was not conciliarism that fomented the great changes of the sixteenth century.
+
 ## Related
 
 - `produced_by:` the [[great-schism-1378|Great Schism]] and the failure of the divided [[papacy|papacy]] to heal itself.
 - `analogous_to:` the secular [[english-parliament|representative assemblies]] and the corporate maxims of [[late-medieval-political-thought|late-medieval political thought]].
 - `contested_by:` the restored monarchical papacy (*Execrabilis*, 1460).
+- [[council-of-pisa-1409]] · [[council-of-constance-1414]] · [[council-of-florence-1439]] · [[eugenius-iv]] · [[martin-v]] · [[logan-history-of-the-church-in-the-middle-ages-2013]]

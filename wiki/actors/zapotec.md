@@ -9,7 +9,7 @@ affiliated_with: ["[[oaxaca-valley|Valley of Oaxaca]]", "[[monte-alban|Monte Alb
 opposed_by: ["rival valley and Mixtec polities", "captives depicted in the Danzantes and Building J conquest slabs", "[[aztec-empire|Aztec]] southern campaigns (late 15th c.)", "Spanish conquest", "alcaldes mayores repartimiento", "liberal salt/land privatization", "Porfirian capital"]
 key_events: [San José Mogote ranking and Monument 3, founding of Monte Albán c. 500 BCE, Protoclassic state institutions, Building J conquests and Cuicatlán takeover, Teotihuacan diplomatic monuments, Classic peak and A.D. 600–900 decline, Zaachila–Mitla Postclassic dual capitals, Guiengola stalemate with Aztecs, Tehuantepec lord alliance with Cortés, Tehuantepec rebellion 1660, isthmus salt struggles 1825–later 19th c., Sierra de Ixtlán sovereignty movement 1912–20]
 key_processes: ["[[mesoamerican-state-formation]]", "[[mesoamerican-preclassic]]", "[[maize-domestication]]", "[[oaxaca-indigenous-colonial-modern]]"]
-sources_ingested: 4
+sources_ingested: 5
 last_updated: 2026-07-08
 tags: [actor, state, mesoamerica, oaxaca]
 ---
@@ -187,6 +187,48 @@ salt-defense repertoire · *contrasts_with:* multipolar [[mixtec]] cacicazgos (p
 Mixteca 19th-c. pauperization trajectory · *followed_by:* ongoing village-based identity over
 ethnolinguistic label (Romero Frizzi).
 
+## Evans & Webster 2001
+
+**Expansion and regional hierarchy.** Expansionist Zapotec state from the
+[[oaxaca-valley|Valley of Oaxaca]] conquered the Cuicatlán Cañada ~**200 B.C.** (La
+Coyotera burned; Lomas-phase ridge resettlement with canal irrigation and a skull rack;
+Quiotepec 45-ha fortified frontier) (Spencer & Redmond; EW2001). **Dainzú** (Tlacolula)
+achieved second-rank in the Monte Albán II regional hierarchy with a shared regional
+carved-stone style (ballplayer reliefs) distinct from the capital itself; population
+~5,000 in Monte Albán IIIa (A.D. 300–500). **Monte Negro** (near Tilantongo, Mixtec
+highlands): peak 300–100 B.C.; pottery affinity to Monte Albán Ic–early II; unclear
+whether Zapotec expansion outpost or resistance fortification — Cociyo (Lightning)
+braziers and location ~30 km N of Huitzo suggest possible Zapotec link; abandoned after
+A.D. 200 as Zapotec borders shrank from Mixtec territory (Marcus, EW2001).
+
+**Warfare imagery (Webster).** ~300 “Danzante” reliefs at Monte Albán Building L
+~**450 B.C.** interpreted as mutilated/sacrificed war captives with possible name
+glyphs; Building J inscriptions centuries later record conquest of named places;
+fortifications on lower slopes ~**150 B.C.**
+
+**Mortuary practice (Urcid).** Hundreds of central-valley burials: 1500–500 B.C.
+domestic and cemetery burials; cemeteries abandoned from urban life (500 B.C.–A.D.
+1521). Height of civilization A.D. **600–800**: burial under houses; tombs vs simple
+graves — tombs multiple mixed adults both sexes, reserved for household-head
+generations with richer offerings; some elite children in graves outrank nonelite tomb
+adults. Wealthy tombs integral masonry under east room; façades/walls with genealogical
+iconography/epigraphy; extended dorsal burial head east, mat-wrapped; continuous ancestor
+rituals (reopen tombs, rearrange/paint bones red, retrieve bones as power symbols).
+“Ancestor veneration may have been at the core of Zapotec notions of death.”
+
+**Contact-era culture and religion (Marcus).** At Spanish conquest ≥**350,000** Zapotec
+speakers in Oaxaca. Two endogamous strata: hereditary nobility headed by male ruler
+*coqui* and wife *xonaxi*; commoners *tijapeniqueche* (free landholding, landless,
+slaves) — no middle endogamous class. Lord head of both state and church; year of
+religious training; high priests often royal kin. Animistic religion: supreme uncreated
+creator (no images, no direct contact); principal interactive supernatural **Lightning
+(Cociyo)** with companions Wind (*Pee*/*Pi*), Clouds (*Zaa*), Hail (*Quiezabi*), Rain
+(*Nica*); Earthquake (*Xoo*) as angry face of Earth. Vital force *pee*/*pi*
+(“wind/breath/spirit”). Two calendars: ritual *piye* 260 days; solar 18×20 + 5. Personal
+names from 260-day birth; royal ancestors interceded with Lightning and metamorphosed
+into clouds — Spanish “god” lists often deceased rulers’ calendar names. Modern Isthmus
+ethnicity varies from militant Juchitán to mestizo-oriented Tehuantepec (Chance).
+
 ## Historiography
 
 Alfonso Caso’s Monte Albán excavations (1930s) founded modern Oaxaca archaeology.
@@ -197,6 +239,14 @@ for Monte Albán’s founding is an interpretation, not raw fact. Snow et al. (2
 accessible urban-detail synthesis; CWH IV frames the sister-culture debate. Early writing
 may predate earliest Maya inscriptions by centuries (Gulf/Izapa vs Oaxaca calendrics
 debate; see also Tres Zapotes Stela C discussion in Gulf chapters).
+
+**Evans & Webster 2001.** Marcus “Zapotec Culture and Religion,” Urcid mortuary entry,
+Webster warfare, Blanton “Monte Albán,” Zeitlin Oaxaca–Tehuantepec regional synthesis,
+and Spencer & Redmond Cuicatlán work provide the densest encyclopedia layer for state
+religion, ancestor veneration, and imperial logistics. Some archaeologists deny an
+imperialistic Zapotec state at 200 B.C.–A.D. 300, placing state formation only in the
+Classic and reading Monte Albán II conflict as localized chiefdom strife (Zeitlin
+summary of the debate).
 
 **Colonial–modern:** Romero Frizzi (CHNPA II.2 Ch. 19) is the controlling narrative for
 conquest-to-present; she notes thin colonial documentary collections vs central Mexico
@@ -212,4 +262,5 @@ as a colonial/modern memory site in Ch. 19.
 [[mesoamerican-ball-game]] · [[aztec-empire]] · [[oaxaca-indigenous-colonial-modern]] ·
 [[cambridge-history-native-peoples-americas-v2-1|CHNPA II.1 Ch. 8 (Marcus & Flannery)]] ·
 [[cambridge-history-native-peoples-americas-v2-2|CHNPA II.2 Ch. 19 (Romero Frizzi)]] ·
-[[snow-gonlin-siegel-archaeology-native-north-america-2020]] · [[benjamin-cwh-v4-2015]]
+[[snow-gonlin-siegel-archaeology-native-north-america-2020]] · [[benjamin-cwh-v4-2015]] ·
+[[evans-webster-archaeology-ancient-mexico-central-america-2001|Evans & Webster 2001]]
